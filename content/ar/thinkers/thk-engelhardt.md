@@ -40,3 +40,9 @@ gaps:
 ## أهم أعماله
 
 المرض وفنّ الشفاء (Krankheit und Heilkunst, 1990) · الأخلاق في يوميّات الطب (Ethik im Alltag der Medizin, 1989) · إسهامات في موسوعات تاريخ الطب والأخلاقيات الطبية الألمانية.
+
+## المصادر
+
+- "Dietrich von Engelhardt", Deutsche Wikipedia: https://de.wikipedia.org/wiki/Dietrich_von_Engelhardt
+- "Prof. Dr. Dietrich von Engelhardt 5. Mai 1941 – 14. Januar 2024" (نعي), Stiftung Michael: https://stiftung-michael.de/aktuelles/downloads/InMemoriamDietrichvonEngelhardt_STIFTUNGMICHAEL.pdf
+- صفحة المؤلف لدى دار Wallstein Verlag: https://www.wallstein-verlag.de/autoren/dietrich-von-engelhardt.html

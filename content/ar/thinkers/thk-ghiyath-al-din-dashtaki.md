@@ -15,8 +15,8 @@ active_end: 1541
 edges:
 - rel: "belongs_to", target: "sch-shiraz", target_type: "مدرسة"
 gaps:
-  - "المصادر الأولية وترجمة الأطروحات الفلسفية للمفكر."
-  - "لا يوجد اقتباس منسوب بمصدر وسنة."
+  - "لا توجد ترجمة عربية معتمدة لمصنّفاته المحقّقة (تحقيق علي أوجبي) ولا اقتباس منسوب بمصدر وسنة."
+  - "تفاصيل مسألتي «إثبات الواجب» و«تعريف العلم» في مناظراته مع الدواني تحتاج تحققاً من المصادر الأولية المحقّقة، بخلاف مسألة الجذر الأصمّ (اللغز/الكذّاب) الموثّقة أكاديمياً بدقة."
 ---
 
 # غياث الدين منصور الدشتكي الشيرازي
@@ -41,6 +41,15 @@ gaps:
 
 ## أهم الأعمال
 
-- *إشراق هياكل النور لكشف ظلمات شواكل الغرور* (ردّاً على الدواني).
+- *إشراق هياكل النور عن ظلمات شواكل الغرور* (شرح موسّع على «هياكل النور» للسهروردي، ردّاً على «شواكل الحور» للدواني).
 - *حاشية على شرح التجريد*.
-- *مصنّفات غياث الدين منصور الدشتكي* (مجموعة رسائله المحقّقة).
+- *شفاء القلوب وتجوهر الأجسام*.
+- *مصنّفات غياث الدين منصور الدشتكي* (مجموعة رسائله المحقّقة، تحقيق علي أوجبي).
+
+## المصادر
+
+- Reza Pourjavady, "The Youth Who Defeated Aristotle: The Life and Thought of Dashtakī (d. 948/1541)", *Global Intellectual History* 9:5 (2022): https://www.tandfonline.com/doi/full/10.1080/23801883.2022.2163915
+- Ghyath al-Din Mansur Dashtaki, Wikipedia: https://en.wikipedia.org/wiki/Ghyath_al-Din_Mansur_Dashtaki
+- "Dashtakī, Ghiyāth-al-Dīn", *Encyclopaedia Iranica*: https://www.iranicaonline.org/articles/dastaki-amir-sayyed/
+- Ahmed Alwishah & David Sanson, "The liar paradox in fifteenth-century Shiraz: the exchange between Ṣadr al-Dīn al-Dashtakī and Jalāl al-Dīn al-Dawānī", *British Journal for the History of Philosophy* 28:2 (2019).
+- Library of Congress catalog entry, *Ishrāq Hayākil al-nūr ʻan ẓulumāt Shawākil al-gharūr*: https://www.loc.gov/item/2016503004

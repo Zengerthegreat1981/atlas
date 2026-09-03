@@ -39,3 +39,9 @@ gaps:
 
 ## القيد
 جلجامش شخصية ملحمية، لا «مفكر» بالمعنى الفلسفي. إدراجه هنا بوصفه «مفكر» يتبع التقليد الأطلسي المعتمد في «المفكرون» ليشمل الشخصيات المؤسِّسة لأطروحات فلسفية وروايات وجودية.
+
+## المصادر
+- Andrew George, *The Epic of Gilgamesh* (Penguin Classics, 1999/2003) — الترجمة الإنجليزية النقدية المعتمدة عن النسخة البابلية القياسية.
+- George Smith, إعلان اكتشاف لوح الطوفان (اللوح 11) أمام Society of Biblical Archaeology، لندن، 3 ديسمبر 1872.
+- Britannica, "George Smith: British Assyriologist" — https://www.britannica.com/biography/George-Smith-British-Assyriologist
+- Biblical Archaeology Society, "George Smith's Other Find: The Babylonian Flood Tablet" — https://library.biblicalarchaeology.org/sidebar/george-smiths-other-find-the-babylonian-flood-tablet/

@@ -42,3 +42,10 @@ gaps:
 ## اقتباسات مختارة
 
 «ما كان يُعدّ صواباً لو فعله ثيودوروس، لا يُعدّ خطأً إن فعلته هيبارشيا.» (نقله ديوجينس اللائرتي)
+
+## المصادر
+
+- Wikipedia, "Hipparchia of Maroneia": https://en.wikipedia.org/wiki/Hipparchia_of_Maroneia
+- Internet Encyclopedia of Philosophy, "Hipparchia": https://iep.utm.edu/hipparch/
+- World History Encyclopedia, "Hipparchia of Maroneia": https://www.worldhistory.org/Hipparchia_of_Maroneia/
+- Diogenes Laertius, *Lives of Eminent Philosophers*, Book VI, 96–98 (المصدر القديم الأساسي)

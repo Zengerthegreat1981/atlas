@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-- id: "con-schizophrenia", title: "الفصام", type: "مفهوم"
+- id: "con-schizophrenia", title: "الفصام وانشقاق الشخصية (بلويلر)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *الخرف المبكر أو مجموعة الفصامات* (1911) بترجمة عربية معتمدة."
   - "تأثيره في يونغ (لاحقاً، في مقالتي عن 'Psychology of Dementia Praecox' و'Word Association') يحتاج بحثاً معمّقاً."
@@ -41,3 +41,10 @@ gaps:
 ## أهم أعماله
 
 الخرف المبكر أو مجموعة الفصامات (Dementia Praecox oder Gruppe der Schizophrenien, 1911) · مرجع في الطبّ النفسي (Lehrbuch der Psychiatrie, 1916).
+
+## المصادر
+
+- [Eugen Bleuler, Wikipedia](https://en.wikipedia.org/wiki/Eugen_Bleuler)
+- [Eugen Bleuler — Encyclopedia Britannica](https://www.britannica.com/biography/Eugen-Bleuler)
+- [Eugen Bleuler and schizophrenia — Hektoen International](https://hekint.org/2021/08/20/eugen-bleuler-and-schizophrenia/)
+- [Paul Eugen Bleuler and the Birth of Schizophrenia (1908) — American Journal of Psychiatry](https://psychiatryonline.org/doi/10.1176/appi.ajp.2008.08050714)

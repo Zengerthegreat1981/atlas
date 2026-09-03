@@ -51,3 +51,10 @@ gaps:
 - **De iure Maurorum in Europa** (1729): في حقوق السود في أوروبا (هاله).
 - **De humanae mentis apatheia** (1734): رسالة دكتوراه في عدم انفعال العقل البشري (فيتنبرغ).
 - **Tractatus de arte sobrie et accurate philosophandi** (1738): رسالة في فنّ التفلسف بروِيّة ودقّة (هاله).
+
+## المصادر
+
+- Wikipedia, "Anton Wilhelm Amo": https://en.wikipedia.org/wiki/Anton_Wilhelm_Amo
+- Black Central Europe, "Anton Wilhelm Amo (ca. 1703-59)": https://blackcentraleurope.com/sources/1500-1750/anton-wilhelm-amo/
+- Blog of the APA, "Anton Wilhelm Amo: The African Philosopher in 18th Century Europe" (2018): https://blog.apaonline.org/2018/02/08/anton-wilhelm-amo-the-african-philosopher-in-18th-europe/
+- University of Bristol, "Rethinking the Enlightenment: Anton Wilhelm Amo (c. 1703 to c. 1753)": https://www.bristol.ac.uk/history/public-engagement/blackhistory/snapshots/nzimaantoniuswilhelmamoafer/

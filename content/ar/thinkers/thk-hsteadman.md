@@ -21,7 +21,6 @@ related:
 gaps:
   - "تاريخ الميلاد غير متوفّر في السِيَر المهنية العامة، ولا مصدر أوّلي يحدّده أو يحدّد سنة وفاة إن كانت."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كريستوفر ويبستر (thk-cwebster)."
 ---
 
 # هنري ستيدمان
@@ -49,3 +48,9 @@ gaps:
 كان هذا الملف ينسب إليه أداة **HCR-20** — وهي لكريستوفر ويبستر وكيفن دوغلاس وديريك إيفز وستيفن هارت (1995)، لا له — فأُسقطت النسبة.
 
 أما القيد الموضوعي فهو حدّ أدوات التنبّؤ نفسها: تعمل بكفاءة معقولة على مستوى الجماعات (أي أنها ترتّب المجموعات بحسب احتمال العنف)، وتضعف كثيراً على مستوى الفرد الواحد — وهو بالضبط المستوى الذي تُستعمل عنده في المحاكم وقرارات الاحتجاز.
+
+## المصادر
+
+- The MacArthur Violence Risk Assessment Study — University of Virginia School of Law: https://www.law.virginia.edu/macarthur-violence-risk-assessment-study
+- Henry J. Steadman — CrimeSolutions, National Institute of Justice: https://crimesolutions.ojp.gov/bio/henry-j-steadman
+- PRA Founder and President, Dr. Henry J. Steadman, Retires — Policy Research Associates: https://www.prainc.com/steadman-retirement/

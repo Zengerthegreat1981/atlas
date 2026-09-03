@@ -20,9 +20,8 @@ related:
 - id: "thk-ngoldberg", title: "ناتالي غولدبرغ", type: "مفكر"
 - id: "thk-jbrowne", title: "كاثلين براون", type: "مفكر"
 gaps:
-  - "تفاصيل مسيرته في جامعة Texas at Austin لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق من *Opening Up: The Healing Power of Expressing Emotions* (1990) بترجمة عربية معتمدة."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كاثلين براون (thk-jbrowne)."
+  - "ملاحظة تصحيح: ولادته 2 مارس 1950 في ميدلاند، تكساس؛ حصل على البكالوريوس من Eckerd College (1972) والدكتوراه من University of Texas at Austin (1977)، وهو الآن أستاذ فخري (Emeritus) بجامعة تكساس في أوستن — انتُخب عضواً في National Academy of Sciences عام 2025."
 ---
 
 # جيمس و. بينيبيكر
@@ -63,3 +62,9 @@ gaps:
 ويُضاف إلى ذلك أن التدخّل **ليس محايد الأثر**: تُبلغ نسبة من المشاركين عن ضيقٍ فوريّ بعد جلسات الكتابة، وهو يزول عادةً خلال ساعات، لكنه يجعل تطبيقه غير المؤطَّر على من يعيش صدمةً حديثة أمراً يحتاج حذراً.
 
 والحاصل أن الكتابة التعبيرية تدخّلٌ **زهيد الكلفة، منخفض المخاطر، متواضع الأثر** — وهذا وصفٌ محترم لا ينتقص منها، لكنه يختلف عمّا يُقال عنها في العرض الشعبي.
+
+## المصادر
+- James W. Pennebaker — صفحة أستاذ في University of Texas at Austin, Department of Psychology: https://liberalarts.utexas.edu/psychology/faculty/pennebak
+- James W. Pennebaker — American Academy of Arts and Sciences (سيرة أكاديمية): https://www.amacad.org/person/james-w-pennebaker
+- Wikipedia: James W. Pennebaker: https://en.wikipedia.org/wiki/James_W._Pennebaker
+- APA, "Expressive writing can help your mental health" (Speaking of Psychology podcast): https://www.apa.org/news/podcasts/speaking-of-psychology/expressive-writing

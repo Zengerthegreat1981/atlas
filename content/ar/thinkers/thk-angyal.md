@@ -41,3 +41,10 @@ gaps:
 ## أهم أعماله
 
 أسس علم الشخصية (Foundations for a Science of Personality, 1941) · العصاب وعلاجه: نظرية شمولية (Neurosis and Treatment: A Holistic Theory، صدر بعد وفاته 1965).
+
+## المصادر
+
+- Wikipedia, "Andras Angyal": https://en.wikipedia.org/wiki/Andras_Angyal
+- Wikipedia, "Biospheric model of personality": https://en.wikipedia.org/wiki/Biospheric_model_of_personality
+- Encyclopedia.com, "Angyal, Andras": https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/angyal-andras
+- Sabini, M. (1992), "Andras Angyal, 1902–1960: Pioneer in Humanistic Psychotherapy", *The Humanistic Psychologist*, 20(2-3).

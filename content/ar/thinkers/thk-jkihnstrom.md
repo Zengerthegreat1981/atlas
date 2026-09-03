@@ -5,7 +5,7 @@ type: "مفكر"
 level: "متوسط"
 title: "جون كينستروم"
 en: "John F. Kihlstrom"
-dates: "الولايات المتحدة · وُلد 1947"
+dates: "الولايات المتحدة · وُلد 1948"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1975
@@ -20,7 +20,6 @@ related:
 - id: "thk-merickson", title: "ميلتون إريكسون", type: "مفكر"
 - id: "thk-ihilgard", title: "إرنست ر. هيلغارد", type: "مفكر"
 gaps:
-  - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من *The Cognitive Unconscious* (1987) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إرنست ر. هيلغارد (thk-ihilgard)."
 ---
@@ -47,6 +46,13 @@ gaps:
 - "Hypnosis" (1985)، *Annual Review of Psychology* — مراجعته المرجعية للحقل.
 - "The Cognitive Unconscious" (1987)، *Science* — أوسع أوراقه أثراً.
 - *Functional Disorders of Memory* (1979، تحرير مع فردريك إيفانز).
+
+## المصادر
+
+- John Kihlstrom, Wikipedia: https://en.wikipedia.org/wiki/John_Kihlstrom
+- John F. Kihlstrom, صفحته الأكاديمية في بيركلي: https://www.ocf.berkeley.edu/~jfkihlstrom/
+- Kihlstrom, J. F. (1987). "The Cognitive Unconscious", *Science*, 237(4821), 1445–1452.
+- Kihlstrom, J. F., & Evans, F. J. (Eds.) (1979). *Functional Disorders of Memory*. Lawrence Erlbaum Associates.
 
 ## القيد
 موقع كينستروم صعب لأنه يجمع بين طرفين نادراً ما يجتمعان: هو من أشدّ الباحثين تشدّداً في المنهج التجريبي ونقداً لادّعاءات العلاج بالتنويم — وقف بقوّة ضدّ «الذكريات المستعادة» تحت التنويم وبيّن أن التنويم يزيد **الثقة** في الذكرى لا **دقّتها** — وهو في الوقت نفسه من أشدّ المدافعين عن أن التنويم حالةٌ ذهنية حقيقية لا أداء اجتماعي. فيُقرأ من التيّار المعرفي-الاجتماعي متساهلاً، ومن المعالِجين متشدّداً.

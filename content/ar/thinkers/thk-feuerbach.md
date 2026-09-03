@@ -48,3 +48,10 @@ gaps:
 ## اقتباسات مختارة
 
 «الله هو الجوهر الإنساني مصفّى من حدود الفرد، مموضَعاً ومعبوداً بوصفه كائناً آخر.» (جوهر المسيحية)
+
+## المصادر
+
+- Britannica, "Ludwig Feuerbach": https://www.britannica.com/biography/Ludwig-Feuerbach
+- Wikipedia, "Ludwig Feuerbach": https://en.wikipedia.org/wiki/Ludwig_Feuerbach
+- Wikipedia, "The Essence of Christianity": https://en.wikipedia.org/wiki/The_Essence_of_Christianity
+- Ludwig Feuerbach, *Das Wesen des Christentums* (1841); *Grundsätze der Philosophie der Zukunft* (1843).

@@ -47,3 +47,9 @@ gaps:
 «الكلمة سيّد عظيم، يُنجز أعظم الأعمال بأصغر جسم وأخفاه.» (مديح هيلين)
 
 «لقوّة الكلمة على تركيب النفس نسبةُ الأدوية إلى طبيعة الأبدان.» (مديح هيلين)
+
+## المصادر
+
+- Gorgias — Internet Encyclopedia of Philosophy: https://iep.utm.edu/gorgias/
+- Gorgias of Leontini (c. 485–c. 380 BCE) — Encyclopedia.com: https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/gorgias-leontini-c-485-c-380-bce
+- Pliny, Natural History, Book 33 (تمثال جورجياس الذهبي في دلفي): https://www.attalus.org/translate/pliny_hn33a.html

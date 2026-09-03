@@ -41,3 +41,10 @@ gaps:
 ## أهم أعمالها
 
 «اعتبارات أخرى في وظيفة الجلد» (Further Considerations on the Function of the Skin in Early Object Relations, 1968) · «مقالات في علاج الأطفال والتدريب التحليلي» (Papers on Child Development and Psychoanalytic Training).
+
+## المصادر
+
+- "Esther Bick", Wikipedia: https://en.wikipedia.org/wiki/Esther_Bick
+- "Esther Bick", Melanie Klein Trust: https://melanie-klein-trust.org.uk/writers/esther-bick/
+- "Esther Bick", British Psychoanalytical Society: https://psychoanalysis.org.uk/esther-bick
+- M. Rustin, "Esther Bick's legacy of infant observation at the Tavistock — some reflections 60 years on": https://repository.tavistockandportman.ac.uk/262/1/M_Rustin_Esther_Bick.pdf

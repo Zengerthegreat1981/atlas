@@ -18,7 +18,7 @@ related:
 - id: "sch-formal-phil-language", title: "فلسفة اللغة المثالية/الشكلية المعاصرة", type: "مدرسة"
 - id: "sch-phil-mathematics", title: "فلسفة الرياضيات التحليلية", type: "مدرسة"
 - id: "thk-bertrand-russell", title: "برتراند راسل", type: "مفكر"
-- id: "thk-lwittgenstein", title: "فيتغنشتاين", type: "مفكر"
+- id: "thk-lwittgenstein", title: "لودفيغ فيتغنشتاين", type: "مفكر"
 gaps:
   - "النص الأصلي لـ'المفهوم والكتابة' (Begriffsschrift, 1879) لم يُراجع من المصدر الأولي."
   - "لا يوجد اقتباس مباشر موثوق من رسائل فريغه إلى راسل."
@@ -46,3 +46,9 @@ gaps:
 ## الأثر
 
 أثّر فريغه في راسل عبر المراسلة لا التلمذة — ومنها جاءت المفارقة التي هدمت مشروعه — وفي فتغنشتاين الذي زاره في يينا ووجّهه إلى راسل، وفي كارناب الذي حضر محاضراته فعلاً، ثم في كواين ودامِت وكريبكي. كل فلسفة اللغة التحليلية تعود جذورها إلى تمييزه بين المعنى والمرجع.
+
+## المصادر
+
+- Britannica, "Gottlob Frege" — https://www.britannica.com/biography/Gottlob-Frege
+- Stanford Encyclopedia of Philosophy, "Gottlob Frege" — https://plato.stanford.edu/entries/frege/
+- Philosophy Now, "Gottlob Frege (1848-1925)" — https://philosophynow.org/issues/116/Gottlob_Frege_1848-1925

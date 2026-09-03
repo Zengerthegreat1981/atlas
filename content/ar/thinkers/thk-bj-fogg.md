@@ -14,7 +14,7 @@ active_start: 1998
 active_end: "مستمر"
 edges: []
 related:
-- id: "wrk-tiny-habits", title: "العادات الصغيرة", type: "عمل / كتاب"
+- id: "wrk-tiny-habits", title: "العادات الصغيرة: التغييرات الصغيرة التي تغير كل شيء", type: "عمل / كتاب"
 - id: "con-fogg-behavior-model", title: "نموذج فوغ السلوكي (معادلة تغيير السلوك B=MAP)", type: "مفهوم"
 gaps:
   - "بيانات السيرة الذاتية وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
@@ -42,3 +42,9 @@ gaps:
 - *Persuasive Technology: Using Computers to Change What We Think and Do* (2002).
 - *Tiny Habits: The Small Changes That Change Everything* (2019).
 - نموذج فوغ السلوكي (FBM) — أوراق محكّمة منذ 2009.
+
+## المصادر
+
+- BJ Fogg, "About", bjfogg.com — https://www.bjfogg.com/about
+- Stanford Behavior Design Lab, "BJ Fogg" — https://behaviordesign.stanford.edu/people/bj-fogg
+- Tiny Habits — https://tinyhabits.com/

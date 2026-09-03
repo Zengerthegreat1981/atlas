@@ -43,3 +43,10 @@ gaps:
 ## أهم أعماله
 
 الوعي التعيس (La Conscience malheureuse, 1936) · رامبو الشقيّ (Rimbaud le voyou, 1933) · بحث زائف في الجماليات (Faux traité d'esthétique, 1938) · بودلير وتجربة الهاوية (Baudelaire et l'expérience du gouffre، نُشر بعد وفاته 1947) · الاثنين الوجودي (Le Lundi existentiel، نُشر بعد وفاته 1945).
+
+## المصادر
+- Ricardo Nirenberg, "The Philosophy of Lev Shestov and Benjamin Fondane" — https://offcourse.org/issue36/nirenberg_possible.html
+- Société d'études Benjamin Fondane, "La Conscience malheureuse" — https://benjaminfondane.com/livre-La_Conscience_malheureuse-10-1-1-0-1.html
+- Société d'études Benjamin Fondane, "Rimbaud le voyou" — https://www.benjaminfondane.com/livre-Rimbaud_le_voyou-9-1-1-0-1.html
+- Chemins de mémoire (Ministère des Armées, France), "Benjamin Fondane" — https://www.cheminsdememoire.gouv.fr/fr/benjamin-fondane
+- University of Glasgow eprints, "On Benjamin Fondane and Restoring the Writer's Voice" — https://www.gla.ac.uk/media/Media_307341_smxx.pdf

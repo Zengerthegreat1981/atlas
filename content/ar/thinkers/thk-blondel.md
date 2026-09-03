@@ -42,4 +42,10 @@ gaps:
 
 ## أهم أعماله
 
-الفعل: مقال في نقد الحياة وعلم الممارسة (L'Action, 1893) · الفكر (La Pensée, 1934) · الكينونة والكائنات (L'Être et les êtres, 1935).
+الفعل: مقال في نقد الحياة وعلم الممارسة (L'Action, 1893) · الفكر (La Pensée, جزآن، 1934) · الكينونة والكائنات (L'Être et les êtres, 1935) · إعادة صياغة موسّعة لـ«الفعل» في مجلدين (1936–1937).
+
+## المصادر
+
+- Maurice Blondel — Encyclopædia Britannica: https://www.britannica.com/biography/Maurice-Blondel
+- Maurice Blondel — Internet Encyclopedia of Philosophy: https://iep.utm.edu/maurice-blondel/
+- Maurice Blondel — Wikipedia (en): https://en.wikipedia.org/wiki/Maurice_Blondel

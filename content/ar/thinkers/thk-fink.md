@@ -42,3 +42,10 @@ gaps:
 ## أهم أعماله
 
 اللعب كرمز للعالم (Spiel als Weltsymbol, 1960) · الظواهر الأساسية للوجود الإنساني (Grundphänomene des menschlichen Daseins، صدر بعد وفاته عام 1979) · فلسفة نيتشه (Nietzsches Philosophie, 1960).
+
+## المصادر
+
+- Wikipedia, "Eugen Fink": https://en.wikipedia.org/wiki/Eugen_Fink
+- Britannica, "Eugen Fink | German philosopher": https://www.britannica.com/biography/Eugen-Fink
+- Ronald Bruzina, *Edmund Husserl and Eugen Fink: Beginnings and Ends in Phenomenology, 1928–1938* (Yale University Press): https://www.jstor.org/stable/j.ctt1nppmd
+- Eugen Fink, *Play as Symbol of the World and Other Writings*, trans. Ian Alexander Moore & Christopher Turner (Indiana University Press, 2016): https://iupress.org/9780253021052/play-as-symbol-of-the-world/
