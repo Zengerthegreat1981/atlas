@@ -47,3 +47,9 @@ gaps:
 - *Sāṃkhya-kārikā* — النصّ الوحيد المنسوب إليه.
 - أشهر شروحه: *Yuktidīpikā* و*Gauḍapāda-bhāṣya* و*Tattva-kaumudī* لفاتشاسباتي ميشرا.
 
+## المصادر
+
+- Gerald James Larson, *Classical Sāṃkhya: An Interpretation of Its History and Meaning* (Motilal Banarsidass) — يضمّ نصّ ونقل *Sāṃkhya-kārikā* مع تأريخها التقديري بين 300 و500 م.
+- ترجمة باراماريتا (Paramārtha) الصينية للنصّ مع شرح، منجزة بين 557 و569 م، وهي أقدم صورة كاملة باقية للنصّ (سبق النصّ السنسكريتي الأصلي في زمن التدوين المتاح لنا).
+- ويكيبيديا الإنجليزية، مادة "Samkhyakarika"، للاطلاع العام على تاريخ النقل والشروح.
+

@@ -8,7 +8,7 @@ en: "Ludwig Binswanger"
 crumb: "المدرسة الوجودية ← الناس ← لودفيغ بينسوانغر"
 dates: "سويسرا · 1881–1966"
 active_start: 1933
-active_end: 1963
+active_end: 1966
 language: "الألمانية"
 country: "سويسرا"
 part: "psychology"
@@ -61,6 +61,16 @@ gaps:
 
 أن قراءته حوّلت تحليلاً أنطولوجياً إلى نظرية عن الذات، أي أعادته إلى ما كان هايدجر يتجاوزه.
 
+ملاحظة توضيحية: لودفيغ بينسوانغر (Ludwig Binswanger، سويسرا، 1881–1966) مؤسّس التحليل الوجودي (Daseinsanalyse) هو موضوع هذا الملف، ويجب عدم خلطه بأي شخص آخر يحمل الاسم نفسه (مثل الطبيب النمساوي روبرت بينسوانغر Robert Binswanger، أو غيره من حاملي اللقب) — الهوية هنا محقَّقة بالتواريخ والمؤلَّفات أعلاه.
+
 ## أهم أعماله
 
 الصيغ الأساسية ومعرفة الوجود الإنساني (Grundformen und Erkenntnis menschlichen Daseins, 1942) · في هروب الأفكار (Über Ideenflucht, 1933) · الفصام (Schizophrenie, 1957) · الكينونة-في-العالم: مختارات مترجمة (Being-in-the-World, تحرير Needleman, 1963)
+
+## المصادر
+
+- Binswanger, Ludwig. *Grundformen und Erkenntnis menschlichen Daseins* (Max Niehans Verlag, 1942).
+- Binswanger, Ludwig. *Being-in-the-World: Selected Papers of Ludwig Binswanger*, ed. Jacob Needleman (Basic Books, 1963).
+- "Ludwig Binswanger: Begründer der Daseinsanalyse," *Deutsches Ärzteblatt*.
+- مقالة سيرته في biapsy.de (Binswanger, Ludwig).
+- Daseinsanalysis, en.wikipedia.org (للتحقق من التسلسل التاريخي العام والعلاقة بفرويد وهايدجر).

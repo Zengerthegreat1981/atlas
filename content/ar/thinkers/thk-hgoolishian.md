@@ -28,7 +28,7 @@ gaps:
 
 # هاري غوليشيان
 
-طبيب نفسي أمريكي من أصل أرمني، أحد أهم منظري العلاج الأسري البنائي. شارك هارلين أندرسون في تأسيس **الأنظمة اللغوية التعاونية** (Collaborative Language Systems / CLS) في مركز Galveston Family Institute، تكساس، في الثمانينيات.
+عالم نفس أمريكي (هارولد أ. غوليشيان)، وُلد عام 1924 في بوسطن لأب أرمني وأم إيرلندية، ونال الماجستير في علم النفس من جامعة ميشيغان الحكومية (1949) والدكتوراه من جامعة هيوستن (1953). في الخمسينيات كان أحد المطورين الرئيسيين لـ«العلاج متعدد الأثر» (Multiple Impact Therapy)، أحد أوائل مشاريع العلاج الأسري المموَّلة فيدرالياً، إلى جانب روبرت ماكغريغور وفريقه في جامعة تكساس الطبية بغالفستون. أسّس عام 1978 **معهد أسرة غالفستون** (Galveston Family Institute، لاحقاً Houston-Galveston Institute) مع هارلين أندرسون وپول ديل وجورج پوليام، ثم شارك أندرسون تحديداً في بلورة **الأنظمة اللغوية التعاونية** (Collaborative Language Systems / CLS) في ثمانينيات القرن العشرين. توفي في نوفمبر 1991، بعد أسبوع واحد من تكريمه بجائزة الإسهام المهني المتميز من الرابطة الأمريكية للعلاج الزوجي والأسري.
 
 ## ما أعطاه
 
@@ -46,3 +46,11 @@ gaps:
 
 - "Human Systems as Linguistic Systems: Preliminary and Evolving Ideas about the Implications for Clinical Theory" (1988, *Family Process*، مع هارلين أندرسون) — الورقة التي عرّفت التيار.
 - "Beyond Cybernetics: Comments on Atkinson and Heath's Further Thoughts on Second-Order Family Therapy" (1990، مع أندرسون).
+- McGregor, R., Ritchie, A., Serrano, A. C., Schuster, F. P., McDanald, E., & Goolishian, H. A. (1964). *Multiple Impact Therapy with Families*. New York: McGraw-Hill — من أعماله المبكرة قبل التحول اللغوي.
+
+## المصادر
+- McDaniel, S. H. & Gergen, K. J. "Harold A. Goolishian (1924–1991): Obituary."
+- "Harold Goolishian: 1924–1991." *PsycNET* (سيرة ذاتية أكاديمية).
+- Anderson, H. & Goolishian, H. (1988). "Human Systems as Linguistic Systems." *Family Process*, 27(4), 371–393.
+- "Collaborative Language Systems." *Wikipedia*؛ "Houston Galveston Institute." *Wikipedia* (تأسيس المعهد 1978 وأسماء المؤسسين الأربعة).
+- "Multiple Impact Therapy." *Wikipedia*.

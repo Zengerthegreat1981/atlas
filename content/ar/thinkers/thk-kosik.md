@@ -44,3 +44,9 @@ gaps:
 ## أهم أعماله
 
 جدل الملموس: دراسة في إشكاليات الإنسان والعالم (Dialektika konkrétního، 1963) — تُرجم إلى عشرات اللغات · أزمة الحداثة: مقالات في القرن العشرين (The Crisis of Modernity، 1995، مجموعة مقالات بالإنجليزية) · مقالاته المتأخّرة في الدوريات التشيكية بعد 1989.
+
+## المصادر
+- Kosík, K. "Dopis Jeanu-Paulu Sartrovi" (رسالة إلى جان-بول سارتر)، نُشرت في *Le Monde*، 29–30 يونيو 1975، بعد مداهمة الشرطة السرية لمنزله في 28 أبريل 1975 ومصادرة أكثر من ألف صفحة من مخطوطاته.
+- "The Kosik-Sartre Exchange", *Telos*, 1975, no. 25.
+- مقالة "Tragic Realism: On Karel Kosík's Insight into Kafka", *Journal for the Theory of Social Behaviour*, 2021 (تاندفولاين).
+- Kosík, K. *Dialectics of the Concrete: A Study on Problems of Man and World*. Dordrecht: D. Reidel, 1976 (ترجمة إنجليزية لأصل 1963).

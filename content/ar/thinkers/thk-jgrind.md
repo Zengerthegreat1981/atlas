@@ -41,5 +41,12 @@ gaps:
 
 ## أهم أعماله
 
+- *The Structure of Magic I* (مع باندلر، 1975) — أول تدوين منهجي لـ"نموذج الميتا" مستمَدّاً من نمذجة فيرجينيا ساتير وفريتز بيرلز.
+- *Patterns of the Hypnotic Techniques of Milton H. Erickson* (مع باندلر، مجلدان، 1975-1977).
 - *Frogs into Princes* (مع باندلر، 1979).
 - *Trance-Formations* (مع باندلر، 1981).
+
+## المصادر
+
+- Richard Bandler & John Grinder, *The Structure of Magic I* (Science and Behavior Books, 1975).
+- Richard Wiseman et al., "The Eyes Don't Have It: Lie Detection and Neuro-Linguistic Programming", *PLOS ONE* 7(7), 2012 — الدراسة التي اختبرت دعوى "إشارات الوصول البصرية" ولم تجد لها سنداً تجريبياً.

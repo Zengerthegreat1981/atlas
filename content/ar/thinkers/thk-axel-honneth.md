@@ -46,3 +46,10 @@ gaps:
 - *Das Recht der Freiheit* (حقّ الحرّية، 2011).
 - *Umverteilung oder Anerkennung?* (2003، مع نانسي فريزر).
 
+## المصادر
+
+- Honneth, Axel. *The Struggle for Recognition: The Moral Grammar of Social Conflicts*, trans. Joel Anderson (Polity Press, 1995) — الترجمة الإنجليزية لـ *Kampf um Anerkennung* (1992).
+- Fraser, Nancy & Honneth, Axel. *Redistribution or Recognition? A Political-Philosophical Exchange* (Verso, 2003).
+- Zurn, Christopher F. "Axel Honneth: Philosophical Psychology of Recognition," in *Handbook of Critical Theory* (Springer).
+- Notre Dame Philosophical Reviews، مراجعة *The Critical Theory of Axel Honneth*.
+

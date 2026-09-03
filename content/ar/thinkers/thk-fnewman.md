@@ -25,7 +25,7 @@ gaps:
 
 # فريد نيومان
 
-فيلسوف وناشط اجتماعي أمريكي، مؤسس **العلاج الاجتماعي** (Social Therapy) مع لويز هولزمان في مطلع السبعينيات. تأثر بفيغوتسكي أولاً وقبل كل أحد — أعاد هو وهولزمان قراءته بوصفه عالماً ثورياً لا منظّراً تربوياً — ثم بفتغنشتاين المتأخّر وميخائيل باختين وماركس.
+فيلسوف وناشط اجتماعي أمريكي، حصل على دكتوراه في الفلسفة التحليلية وأسس الرياضيات من جامعة ستانفورد عام 1962، ثم ترك العمل الأكاديمي عام 1969 للتفرغ للتنظيم المجتمعي والسياسي. أسّس **العلاج الاجتماعي** (Social Therapy) مع لويز هولزمان في منتصف السبعينيات. تأثرت أطروحاته بثلاثة تقاليد فكرية رئيسية: ماركس، وفيغوتسكي — أعاد هو وهولزمان قراءته بوصفه عالماً ثورياً لا منظّراً تربوياً — وفتغنشتاين المتأخّر ونظرته إلى اللغة بوصفها نشاطاً اجتماعياً، بالإضافة إلى تأثر بميخائيل باختين.
 
 ## ما أعطاه
 
@@ -47,3 +47,10 @@ gaps:
 - *Lev Vygotsky: Revolutionary Scientist* (1993، مع لويز هولزمان) — أشهر أعماله وأوسعها أثراً خارج دائرته.
 - *The End of Knowing: A New Developmental Way of Learning* (1997، مع هولزمان).
 - *Let's Develop! A Guide to Continuous Personal Growth* (1994).
+
+## المصادر
+
+- Fred Newman, East Side Institute (صفحة سيرة رسمية): https://eastsideinstitute.org/about/our-people/fred-newman/
+- Fred Newman (philosopher), Wikipedia: https://en.wikipedia.org/wiki/Fred_Newman_(philosopher)
+- Social Therapy, East Side Institute: https://eastsideinstitute.org/about/social-therapeutics/social-therapy/
+- Lois Holzman | Holzman and Newman Practice Method: https://loisholzman.org/about-me/holzman-and-newman-practice-method/

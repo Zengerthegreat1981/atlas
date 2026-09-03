@@ -44,3 +44,9 @@ gaps:
 - *Pravacanasāra* (جوهر التعليم).
 - *Niyamasāra* (جوهر القاعدة).
 - *Pañcāstikāyasāra*.
+
+## المصادر
+- Jain, Vijay K. (ed. & trans.). *Ācārya Kundakunda's Samayasāra*, 2nd rev. ed. — ترجمة نقدية بالهندية والإنجليزية.
+- مقالة "The Conundrum of Kundakunda's Status in the Digambara Tradition", *Journal of Indian Philosophy*, 2023 — استعراض لتضارب الآراء حول تأريخه (يتراوح بين القرن الثاني والقرن الثامن الميلادي، وبعض الدارسين يرى في نص *Samayasāra* نفسه طبقات تحريرية متعددة عبر قرون).
+- Jainpedia.org، مدخل "Kundakunda" (قسم Digambara Sects).
+- مقالة Wikipedia "Kundakunda" (للاستئناس بخلاصة الجدل الأكاديمي حول التأريخ، لا كمصدر أولي).
