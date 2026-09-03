@@ -16,8 +16,8 @@ edges:
 - rel: "belongs_to", target: "sch-arab-renaissance", target_type: "مدرسة"
 - rel: "founded", target: "sch-arab-renaissance", target_type: "مدرسة"
 related:
-- id: "sch-arab-renaissance", title: "النهضة العربية", type: "مدرسة"
-- id: "thk-muhammad-abduh", title: "محمد عبده", type: "مفكر"
+- id: "sch-arab-renaissance", title: "النهضة العربية (كتيار فلسفي-إصلاحي)", type: "مدرسة"
+- id: "thk-muhammad-abduh", title: "محمد عبده (الإمام)", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«عبد الرحمن الكواكبي» (thk-kawakibi) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "مسألة أصل الأفغاني (فارسي أم أفغاني) موضع جدل تاريخي."
@@ -60,3 +60,10 @@ gaps:
 - **في المادية والدهرية** (في مقالات متعددة، 1882-1897).
 - **مقالات في الهند** (Kalkutta Lectures, الثمانينيات من القرن التاسع عشر).
 - **ديوان شعره الفارسي** (نُشر بعد وفاته سنة 1911).
+
+## المصادر
+
+- Nikki R. Keddie, *Sayyid Jamal ad-Din "al-Afghani": A Political Biography* — [Amazon](https://www.amazon.com/Sayyid-Jamal-Ad-Din-Al-Afghani-Political/dp/1597401307)
+- "AFḠĀNĪ, JAMĀL-AL-DĪN" — [Encyclopaedia Iranica](https://www.iranicaonline.org/articles/afgani-jamal-al-din/)
+- "Jamal al-Din al-Afghani" — [Wikipedia](https://en.wikipedia.org/wiki/Jamal_al-Din_al-Afghani)
+- "Afghani, Jamal Al-Din (1839–1897)" — [Encyclopedia.com](https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/afghani-jamal-al-din-1839-1897)

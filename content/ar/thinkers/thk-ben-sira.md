@@ -44,3 +44,9 @@ gaps:
 ## أهم أعماله (المنسوبة)
 
 - *سفر يشوع بن سيراخ (Sirach / Ecclesiasticus)*.
+
+## المصادر
+
+- Skehan, P. W. & Di Lella, A. A. (1987). *The Wisdom of Ben Sira* (Anchor Bible). Doubleday.
+- The Book of Ben Sira — Academy of the Hebrew Language / Historical Dictionary Project, bensira.org.
+- Cambridge University Library, Taylor-Schechter Genizah Research Unit — توثيق اكتشاف شليختر للنص العبري عام 1896.

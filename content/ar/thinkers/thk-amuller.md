@@ -44,3 +44,8 @@ gaps:
 ## أهم أعماله
 
 «تكون بركة» (You Shall Be a Blessing) · مقالات متعددة في *Zeitschrift für Individualpsychologie* · مساهمات في تأسيس IAIP.
+
+## المصادر
+
+- Alfred Adler Institute (San Francisco / Suisse Romande) — سيرة ألكسندر مولر: adler.institute/alexander-muller/ — تؤكد الميلاد في كورمورن بالمجر في 6 مايو 1895، وتتلمذه على يد ألفرد أدلر في فيينا، وتوليه إدارة الجمعية السويسرية لعلم النفس الفردي والسكرتير الأول للرابطة الدولية لعلم النفس الفردي (IAIP) من 1954 حتى وفاته عام 1968 في زيورخ.
+- Amazon/Adler Institute — بيانات نشر كتاب *You Shall Be a Blessing: Main Traits of a Religious Humanism* (ضمن Collected Works of Alexander Mueller, Vol. 1).

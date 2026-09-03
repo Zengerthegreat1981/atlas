@@ -46,3 +46,11 @@ gaps:
 ## اقتباسات مختارة
 
 «الإيروتيكية إقرارٌ بالحياة حتى في الموت» — الإيروتيكية (L'Érotisme)، 1957
+
+## المصادر
+
+- Georges Bataille — Wikipedia: https://en.wikipedia.org/wiki/Georges_Bataille
+- "College of Sociology" — Wikipedia: https://en.wikipedia.org/wiki/College_of_Sociology
+- "Inner Experience" — Wikipedia: https://en.wikipedia.org/wiki/Inner_Experience
+- Sartre, "Un nouveau mystique" (1943), مناقشة في: eNotes / tandfonline — راجع: https://www.enotes.com/topics/georges-bataille/criticism/bataille-georges/jean-paul-sartre
+- Bataille, *Erotism: Death and Sensuality* (نص إنجليزي كامل): https://monoskop.org/images/a/a8/Bataille_Georges_Erotism_Death_and_Sensuality.pdf

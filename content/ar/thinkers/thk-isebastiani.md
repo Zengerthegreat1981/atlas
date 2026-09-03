@@ -46,3 +46,10 @@ gaps:
 ## أهم أعماله
 
 دورات تدريبية في عدة معاهد · مساهمات في نشر Core Energetics بإيطاليا.
+
+## المصادر
+
+- Istituto Italiano di Core Energetica, صفحة المؤلف: https://www.core-energetica.it/author/ivan-sebastiani/
+- Istituto Italiano di Core Energetica, "Direttori Istituto Core Energetica": https://www.core-energetica.it/direttori-istituto-core-energetica/
+- Core Energetics Greece, "Faculty": https://www.coreenergeticsgreece.org/faculty
+- Core Energetics Netherlands, "Teachers and assistants": https://coreenergetics.nl/en/staff/

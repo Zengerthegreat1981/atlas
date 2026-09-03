@@ -45,4 +45,13 @@ gaps:
 
 ## أهم أعمالها
 
-العصبية الأساسية (1936)؛ أوجه النزاع النفسي (1945)؛ الذات والمثالية (1950).
+الشخصية العُصابية في عصرنا — The Neurotic Personality of Our Time (نورتون، 1937)؛ التحليل الذاتي — Self-Analysis (1942)؛ أوجه نزاعنا الداخلية — Our Inner Conflicts (1945)؛ العُصاب والنمو الإنساني — Neurosis and Human Growth (1950).
+
+## المصادر
+
+- Horney, K. (1937). *The Neurotic Personality of Our Time*. New York: W. W. Norton & Co.
+- Horney, K. (1942). *Self-Analysis*. New York: W. W. Norton & Co.
+- Horney, K. (1945). *Our Inner Conflicts: A Constructive Theory of Neurosis*. New York: W. W. Norton & Co.
+- Horney, K. (1950). *Neurosis and Human Growth: The Struggle Toward Self-Realization*. New York: W. W. Norton & Co.
+- "Karen Horney", Encyclopaedia Britannica. https://www.britannica.com/biography/Karen-Horney
+- "The Neurotic Personality of Our Time", Encyclopaedia Britannica. https://www.britannica.com/topic/The-Neurotic-Personality-of-Our-Time

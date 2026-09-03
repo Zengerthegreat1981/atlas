@@ -40,3 +40,10 @@ gaps:
 ## أهم أعمالها
 
 لا تُعرف مؤلّفات منشورة مستقلّة موثّقة باسمها؛ إسهامها موثّق بشكل أساسي عبر شهادة Elizabeth Bott Spillius عن تحليلها التدريبي معها.
+
+## المصادر
+
+- Wikipedia, "Elizabeth Spillius": https://en.wikipedia.org/wiki/Elizabeth_Spillius
+- Melanie Klein Trust, "Elizabeth Spillius": https://melanie-klein-trust.org.uk/writers/elizabeth-spillius/
+- Wellcome Collection, "Archive of Elizabeth Spillius (1924-2016)": https://wellcomecollection.org/works/q3vgm3st
+- Spillius, E., *Journeys in Psychoanalysis: The Selected Works of Elizabeth Spillius* (Routledge)، حيث تُذكر بداية تحليلها التدريبي مع Munro عام 1956.

@@ -42,3 +42,9 @@ gaps:
 - *Pramāṇaviniścaya* (تحقيق مصادر المعرفة).
 - *Nyāyabindu* (نقطة المنطق) — المختصر الذي تُرجم مبكّراً إلى الأوروبية.
 - *Santānāntarasiddhi* (إثبات وجود سلاسل ذهنية أخرى) — في مشكلة العقول الأخرى.
+
+## المصادر
+
+- Stanford Encyclopedia of Philosophy, "Dharmakīrti": https://plato.stanford.edu/entries/dharmakiirti/
+- Encyclopedia of Buddhism, "Dharmakīrti": https://encyclopediaofbuddhism.org/wiki/Dharmak%C4%ABrti
+- Austrian Academy of Sciences (IKGA), "Dharmakīrti's philosophical works": https://www.oeaw.ac.at/en/ikga/research/buddhist-studies/research-areas/dharmakirtis-philosophical-works

@@ -58,3 +58,5 @@ gaps:
 
 - صفحة السيرة على affectphobiatherapy.com/leigh-mccullough
 - Leigh McCullough — مقالات بحثية مؤرشفة على ResearchGate (Harvard Medical School).
+- Wikipedia (en): "Leigh McCullough" — تؤكد أن اسمها عند الميلاد كان Mary Lee Colson، وتاريخ ميلادها 5 يونيو 1945 في Kingsville، تكساس، ووفاتها 7 يونيو 2012.
+- APA — Obituary: "Leigh McCullough (1945–2012)"، apa.org/pubs/journals/pst/obituary-leigh-mccullough.

@@ -20,6 +20,7 @@ related:
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Psychoanalytic Participation: Action, Interaction, and Integration* (1999) بترجمة عربية معتمدة."
   - "نموذجه التكاملي بين 'العلاج النفسي الحركي / السلوكي والتحليل النفسي العلائقي' يستحق توثيقاً."
+  - "سنة الميلاد 1942 غير مؤكَّدة من مصدر أولي مباشر (ويكيبيديا الإنجليزية تصنّفه ضمن 'أحياء مجهولي سنة الميلاد')؛ استُنتجت تقريبياً من حصوله على الماجستير من جامعة كولومبيا عام 1964 والدكتوراه 1967."
 ---
 
 # كينيث فرانك
@@ -39,6 +40,13 @@ gaps:
 
 ## أهم أعماله
 
-المشاركة التحليلية: الفعل والتفاعل والتكامل (Psychoanalytic Participation: Action, Interaction, and Integration، 1999) · أوراق في *Psychoanalytic Dialogues* عن إدخال التدخّلات النشطة إلى الإطار التحليلي.
+المشاركة التحليلية: الفعل والتفاعل والتكامل (Psychoanalytic Participation: Action, Interaction, and Integration، 1999، دار Analytic Press، ضمن سلسلة Relational Perspectives Book Series بإشراف ستيفن ميتشل ولويس آرون) · تحرير كتاب The Human Dimension in Psychoanalytic Practice (1977) · أوراق في *Psychoanalytic Dialogues* و*Psychoanalytic Perspectives* عن إدخال التدخّلات النشطة إلى الإطار التحليلي.
 
 > **ملاحظة:** كان عنوان كتاب 1999 مترجَماً «التحليل النفسي التكاملي في الممارسة السريرية» وهو لا يطابق العنوان الأصلي؛ كما نُسب إليه كتاب *Integrating Psychotherapies* (2005) ولم يُعثر له على أثر.
+
+## المصادر
+
+- Kenneth A. Frank, *Psychoanalytic Participation: Action, Interaction, and Integration* (Hillsdale, NJ: The Analytic Press, 1999).
+- Kenneth A. Frank (ed.), *The Human Dimension in Psychoanalytic Practice* (New York: Grune & Stratton, 1977).
+- صفحة "Kenneth A. Frank" على ويكيبيديا الإنجليزية (بيانات المسيرة الأكاديمية في كولومبيا والمعهد الوطني للعلاج النفسي التكاملي).
+- Routledge، صفحة الكتاب: https://www.routledge.com/Psychoanalytic-Participation-Action-Interaction-and-Integration/Frank/p/book/9780881632736

@@ -88,3 +88,10 @@ gaps:
 - **"الهوية: الشباب والأزمة" (Identity: Youth and Crisis, 1968)** — عمله الأساسي.
 - **«حقيقة غاندي» (Gandhi's Truth, 1969)** — دراسة نفسية-تاريخية عن غاندي، نالت جائزة بوليتزر والجائزة الوطنية للكتاب.
 - **"دورة الحياة المكتملة" (The Life Cycle Completed, 1987)** — إعادة عرض ممتدة.
+
+## المصادر
+
+- Erikson, Erik H. — [Wikipedia](https://en.wikipedia.org/wiki/Erik_Erikson)
+- "Gandhi's Truth" — [Wikipedia](https://en.wikipedia.org/wiki/Gandhi's_Truth) (فوز الكتاب بجائزة بوليتزر والجائزة الوطنية للكتاب سنة 1970)
+- "PSYCHOANALYST ERIK ERIKSON, DEVELOPMENT EXPERT, DIES" — [Deseret News, 1994](https://www.deseret.com/1994/5/13/19108677/psychoanalyst-erik-erikson-development-expert-dies/)
+- "Identity crisis' psychoanalyst dies" — [UPI Archives, 1994](https://www.upi.com/Archives/1994/05/13/Identity-crisis-psychoanalyst-dies/2485768801600/)

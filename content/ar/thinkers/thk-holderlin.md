@@ -8,7 +8,7 @@ en: "Friedrich Hölderlin"
 crumb: "المدرسة الوجودية ← الناس ← فريدريش هولدرلين"
 dates: "ألمانيا · 1770–1843"
 active_start: 1797
-active_end: 1806
+active_end: 1843
 country: "ألمانيا"
 language: "الألمانية"
 part: "philosophy"
@@ -39,7 +39,7 @@ gaps:
 ## القيد
 طبيعة نصوصه الشعرية والرمزية المكثّفة تجعل مقاربته جمالية وأنطولوجية لا نظرية إكلينيكية.
 
-وثمّة وجه آخر لحضوره في أطلسٍ نفسي: انهار هولدرلين عقلياً عام 1806، وقضى **ستّة وثلاثين عاماً** — أي أكثر من نصف عمره — في غرفة برج بتوبنغن يرعاه نجّار، يكتب أبياتاً قصيرة يوقّعها باسم مستعار «سكارداللي». وقد صارت حالته من أكثر ما تُنوزع في تشخيصه بأثر رجعي — فصام؟ اضطراب وجداني؟ أثر علاج قسري؟ — وهي مثال قائم على حدود التشخيص التاريخي البعدي أصلاً.
+وثمّة وجه آخر لحضوره في أطلسٍ نفسي: بدأ انهياره النفسي يتفاقم منذ 1802، ثم أُدخل في 15 سبتمبر 1806 عيادة الطبيب النفسي يوهان هاينريش فرديناند فون أوتنريت في توبنغن، الذي وصف حالته بـ«الجنون» (Wahnsinn)، وخرج منها في 3 مايو 1807 بوصفه حالة «غير قابلة للشفاء». من عام 1807 وحتى وفاته في 7 يونيو 1843 — أي **ستة وثلاثين عاماً** تقريباً، أكثر من نصف عمره — عاش في غرفة برج على نهر النكار في توبنغن يرعاه النجّار إرنست تسيمر (Ernst Zimmer) وأسرته، وكتب خلالها نحو خمسين قصيدة قصيرة معروفة بـ«شعر البرج» (Turmdichtung)، وقّع بعضها باسم مستعار هو «سكاردانللي» (Scardanelli). وقد صارت حالته من أكثر ما تُنوزع في تشخيصه بأثر رجعي — وصفها معاصروه بـ«الجنون»، واقترح بعض الأطباء النفسيين لاحقاً تشخيص «الفصام»، بينما يشكك مؤرخو الطب النفسي المعاصرون في صحة إسقاط تصنيفات القرن العشرين على حالة مِن مطلع القرن التاسع عشر — وهي مثال قائم على حدود التشخيص التاريخي البعدي أصلاً.
 
 ## أهم أعماله
 
@@ -48,3 +48,10 @@ gaps:
 ## اقتباسات مختارة
 
 «لكن حيث يكمن الخطر، ينمو أيضاً ما يُنقذ.» — باتموس، 1803
+
+## المصادر
+
+- Ulrich Häussermann u.a., *Wenn dunkel mir ist der Sinn* — دراسة عن هولدرلين في برج توبنغن، ملخصة في: MDPI, *Humanities* 14(5), 2025, "Hölderlin in the 'Hölderlin Tower'": https://www.mdpi.com/2076-0787/14/5/101
+- The British Journal of Psychiatry, "Sensibility and schizophrenia: Wilhelm Waiblinger on Friedrich Hölderlin's life, poetry and madness": https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/sensibility-and-schizophrenia-wilhelm-waiblinger-on-friedrich-holderlins-life-poetry-and-madness-psychiatry-in-literature/ED28C0E0D892CBC1E4F4F4ADF7CCEB6A
+- Hektoen International, "Hölderlin's madness": https://hekint.org/2020/05/26/holderlins-madness/
+- Martin Heidegger, *Erläuterungen zu Hölderlins Dichtung* (شروحات على شعر هولدرلين)

@@ -8,7 +8,7 @@ en: "Frederik J. J. Buytendijk"
 crumb: "المدرسة الوجودية ← الناس ← فريدريك بايتنديك"
 dates: "هولندا · 1887–1974"
 active_start: 1943
-active_end: 1953
+active_end: 1958
 country: "هولندا"
 language: "الهولندية / الألمانية"
 part: "philosophy"
@@ -20,7 +20,7 @@ related:
 - id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
-  - "مؤلفاته في الفينومينولوجيا الحيوانية والأنثروبولوجيا الفسيولوجية تحتاج إلى مراجعة من المصادر الأصلية."
+  - "طبيعة علاقته الفكرية الدقيقة بسيمون دي بوفوار (نقد متبادل أم موازاة مستقلة) تحتاج مراجعة أعمق من مصادر أولية."
 ---
 
 # فريدريك بايتنديك
@@ -29,7 +29,7 @@ gaps:
 
 ## ما أعطاه
 
-درس فينومينولوجيا الجسد المعيش، واللقاء، واللعب، والحركة، والخبرة الذاتية للألم، مبرزاً الفروق الجوهرية بين العالم الحيواني والوجود الإنساني المنفتح على المعنى. أثرت كتاباته عن سيكولوجيا المرأة والجسد بشكل مباشر على الفكر الوجودي (خاصة سيمون دي بوفوار في «الجنس الآخر»).
+درس فينومينولوجيا الجسد المعيش، واللقاء، واللعب، والحركة، والخبرة الذاتية للألم، مبرزاً الفروق الجوهرية بين العالم الحيواني والوجود الإنساني المنفتح على المعنى. في كتابه عن المرأة (De vrouw / Die Frau)، انخرط نقدياً مع فينومينولوجيا الوجودية عن الجسد المؤنث، وقدّم دراسة موازية لكتاب سيمون دي بوفوار «الجنس الآخر» (1949) ونقداً فينومينولوجياً لبعض أطروحاته، لا العكس زمنياً كما يُشاع أحياناً.
 
 ## موقعه من التيار
 
@@ -40,4 +40,11 @@ gaps:
 
 ## أهم أعماله
 
-في الألم (Über den Schmerz, 1943) · الوجود العام للإنسان والحيوان (Allgemeine Gestalt des Tier- und Menschenlebens, 1953) · سيكولوجيا المرأة (Die Frau: Natur, Erscheinung, Dasein, 1951).
+في الألم (Over de pijn, 1943؛ الترجمة الألمانية: Über den Schmerz, 1948) · الإنسان والحيوان: مساهمة في علم النفس المقارن (Mensch und Tier: Ein Beitrag zur vergleichenden Psychologie, 1958) · المرأة: طبيعتها، مظهرها، وجودها (De vrouw, 1951؛ الترجمة الألمانية: Die Frau: Natur, Erscheinung, Dasein, 1953).
+
+## المصادر
+
+- Frederik Jacobus Johannes Buytendijk — Wikipedia (EN): https://en.wikipedia.org/wiki/Frederik_Jacobus_Johannes_Buytendijk
+- F. J. J. Buytendijk, *Pain: Its Modes and Functions* — Internet Archive: https://archive.org/details/pain0000buyt
+- "F.J.J. Buytendijk on Woman: A Phenomenological Critique", in *Feminist Phenomenology* (Springer): https://link.springer.com/chapter/10.1007/978-94-015-9488-2_6
+- بيبليوغرافيا Buytendijk (Mensch und Tier, 1958; Die Frau, 1953) — ZVAB/AbeBooks: https://www.zvab.com/buch-suchen/titel/mensch-und-tier/autor/buytendijk/ ، https://www.abebooks.de/Frau-Natur-Erscheinung-Dasein-%C3%BCbertr-Auguste/22868812313/bd

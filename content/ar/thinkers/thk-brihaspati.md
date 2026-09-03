@@ -17,10 +17,10 @@ edges:
 - rel: "belongs_to", target: "sch-charvaka", target_type: "مدرسة"
 - rel: "founded", target: "sch-charvaka", target_type: "مدرسة"
 related:
-- id: "thk-charvaka", title: "شارفاكا (مؤسّس لوكاياتا)", type: "مفكر"
+- id: "thk-charvaka", title: "تشارڤاكا (مؤسس لوكاياتا / المادية الهندية)", type: "مفكر"
 - id: "sch-charvaka", title: "شارفاكا / لوكاياتا (المادية الهندية)", type: "مدرسة"
-- id: "con-anatta-non-self-concept", title: "لا-ذات (Anatta)", type: "مفهوم"
-- id: "con-lokayata-materialism-pratyaksha", title: "مادية لوكاياتا والإدراك المباشر", type: "مفهوم"
+- id: "con-anatta-non-self-concept", title: "الأناتا ونفي الذات الثابتة في البوذية (Anatta)", type: "مفهوم"
+- id: "con-lokayata-materialism-pratyaksha", title: "المادية اللوكاياتية والإدراك الحسي وحده (Lokayata)", type: "مفهوم"
 gaps:
   - "بريهاسباتي شخصية شبه أسطورية، وشخصيته تختلف في التقليد الفيدية عن التقليد الملحمي عن التقليد المادّي."
   - "تفاصيل حياته الفعلية لا تُعرف إلا من خلال مَن نقلوا عنه في المدارس الأخرى (الإصلاحية والبوذية والياوية)."
@@ -71,5 +71,13 @@ gaps:
 ## أهم أعماله (نسبية)
 
 - **«Brihaspati Sutra»** (نصّ نُسب إليه، القرن 1-3 م، مفقود في الأصل، نُقل أجزاء منه في أعمال معارضي المدرسة).
-- **«بارتيشي (اللغة الفلسفية لـLokāyata)** في «Mādhavācārya's Sarva-Darsana-Sangraha» (القرن 14م، المترجم إلى الإنجليزية بواسطة Cowell & Gough، 1882).
-- **«Lokayata» في الأدب البوذي والياواني والماهاياراني** (نقد المدرسة من المنظورين).
+- **الفصل الأول (Cārvāka) من «Sarva-Darsana-Sangraha»** لمادهافاتشاريا (القرن 14م)، وهو أهم مصدر ثانوي ناقل لعقائد المدرسة، بترجمة إنجليزية لـ E. B. Cowell و A. E. Gough (لندن، Trübner & Co.، 1882).
+- **«Lokayata» في الأدب البوذي والجايني** (نقد المدرسة من المنظورين)، وموازاتها مع شخصيات مادّية معاصرة مثل أجيتا كيساكامبالي (Ajita Kesakambali) المذكور في «Sāmaññaphala Sutta» ضمن «Digha Nikāya» البوذي، وپاكودها كاتشايانا (Pakudha Kaccāyana) صاحب نظرية «العناصر السبعة».
+
+## المصادر
+
+- Mādhavāchārya, *Sarva-Darśana-Saṃgraha*, trans. E. B. Cowell & A. E. Gough (London: Trübner & Co., 1882) — الفصل الأول عن الشارفاكا.
+- Dakshinaranjan Shastri, *A Short History of Indian Materialism* (1930)، وإصداره لـ«Barhaspatya Sutram» (1959) من شذرات منقولة.
+- مقالة "Barhaspatya sutras" على ويكيبيديا الإنجليزية.
+- مقالة "Ajita Kesakambali" على ويكيبيديا الإنجليزية (لمقارنة الشخصيات المادّية المعاصرة).
+- Debiprasad Chattopadhyaya, *Lokayata: A Study in Ancient Indian Materialism* (New Delhi: People's Publishing House, 1959).

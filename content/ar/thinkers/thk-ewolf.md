@@ -18,7 +18,6 @@ related:
 - id: "thk-kohut", title: "هاينز كوهوت", type: "مفكر"
 - id: "thk-ornstein", title: "بول ه. أورنشتاين", type: "مفكر"
 gaps:
-  - "سنتا الميلاد والوفاة تحتاجان تثبيتاً من نعي رسمي."
   - "لا يوجد اقتباس مباشر موثوق من *Treating the Self* (1988) بترجمة عربية معتمدة."
 ---
 
@@ -42,3 +41,10 @@ gaps:
 ## أهم أعماله
 
 «اضطرابات الذات وعلاجها: مخطّط» (مع هاينز كوهوت، 1978) · معالجة الذات: عناصر علم نفس الذات الإكلينيكي (Treating the Self, 1988) · مساهمات ثابتة في *Psychoanalytic Inquiry* و*Progress in Self Psychology*.
+
+## المصادر
+
+- نعي إرنست وولف (1921–2018)، Dignity Memorial / Legacy.com: https://www.legacy.com/obituaries/name/ernest-wolf-obituary?pid=190150555
+- Guilford Press, صفحة المؤلف Ernest S. Wolf: https://www.guilford.com/author/Ernest-S-Wolf
+- Kohut, H. & Wolf, E. S. (1978), "The Disorders of the Self and Their Treatment: An Outline", *International Journal of Psycho-Analysis*, 59.
+- Wolf, E. S. (1988), *Treating the Self: Elements of Clinical Self Psychology*, Guilford Press.

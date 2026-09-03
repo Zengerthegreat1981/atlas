@@ -55,3 +55,9 @@ gaps:
 والثالث أن قوّتها هي خطرها: إعادة تمثيل موقف صادم أمام مجموعة قد تُنتج إغراقاً انفعالياً لا معالجةً له، وهو ما دعا الأدبيات الحديثة إلى تقييد استعمالها في الصدمة بشروط تدريب وحماية لم تكن في صيغتها الأولى.
 
 > **ملاحظة تحريرية:** يرتبط هذا الملف في `related` بمدخل `thk-moreno` («يعقوب ليفي مورينو») — وهو **الشخص نفسه**. الدمج قرار تحريري.
+
+## المصادر
+
+- Wikipedia, "Jacob L. Moreno": https://en.wikipedia.org/wiki/Jacob_L._Moreno
+- Encyclopedia.com, "Moreno, Jacob Levy (1889-1974)": https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/moreno-jacob-levy-1889-1974
+- Blatner, Adam, "History of Group Psychotherapy & Psychodrama": https://www.blatner.com/adam/pdntbk/hxgrprx.htm

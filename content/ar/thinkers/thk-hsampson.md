@@ -44,3 +44,10 @@ gaps:
 
 - *The Psychoanalytic Process: Theory, Clinical Observation, and Empirical Research* (1986، مع جوزيف وايس ومجموعة ماونت زايون).
 - أوراق منهجية في صياغة الخطّة وتشفير الجلسات، منشورة في *Psychotherapy Research* و*Journal of Consulting and Clinical Psychology*.
+
+## المصادر
+
+- International Control Mastery Therapy Center, "Joe Weiss" و"A broad outline of the work of Sampson and Weiss called Control Mastery theory": https://cmtcenter.net/joe-weiss/ و https://cmtcenter.net/a-broad-outline-of-the-work-of-sampson-and-weiss-called-control-mastery-theory/
+- Wikipedia, "Control mastery theory": https://en.wikipedia.org/wiki/Control_mastery_theory
+- Encyclopedia.com, "San Francisco Psychotherapy Research Group and Control-Mastery Theory": https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/san-francisco-psychotherapy-research-group-and-control-mastery-theory
+- Rappoport, A., "How Psychotherapy Works: The Concepts of Control-Mastery Theory": https://alanrappoport.com/wp-content/uploads/2021/09/Control-Mastery-Article-for-ABPP-Bulletin-with-Citation.pdf

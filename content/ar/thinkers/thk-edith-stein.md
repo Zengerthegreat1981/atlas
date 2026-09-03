@@ -21,9 +21,9 @@ related:
 - id: "sch-phenomenology-hermeneutic", title: "الظاهراتية التأويلية (Hermeneutic Phenomenology)", type: "مدرسة"
 - id: "sch-existentialism-religious", title: "الوجودية الدينية/المسيحية (Christian Existentialism)", type: "مدرسة"
 - id: "con-intentionality", title: "القصدية (Intentionalität)", type: "مفهوم"
-- id: "con-epoché-phenomenological-reduction", title: "الرد الفينومينولوجي وتعليق العالم الطبيعي (Reduction)", type: "مفهوم"
+- id: "con-epoché-phenomenological-reduction", title: "الإيبوخي (Epoché): التعليق المنهجي للحكم", type: "مفهوم"
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
-- id: "thk-heidegger", title: "مارتن هايدغر", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 gaps:
   - "ترجمة 'Zum Problem der Einfühlung' إلى العربية متأخرة (2010s)."
   - "كتاباتها عن المرأة (Die Frau، 1932) موضع خلاف مع الفلسفة النسوية المعاصرة."
@@ -58,7 +58,7 @@ gaps:
 ## القيد
 
 - أعمالها في «المرأة» (1932) يُنتقدها النسويون المعاصرون (Carolyn Gratton، بعد وفاتها، عام 1989) لِما فيها من «تصميم وجودي» للمرأة يُعلي «الأمومة» ويخفّض «العمل المهني».
-- كتابها «Endliches und ewiges Sein» (1936) مُنع في ألمانيا النازية، فطُبع بعد وفاتها سراً في سويسرا عام 1950.
+- كتابها «Endliches und ewiges Sein» (كُتب 1936) تعثّرت محاولات نشره في حياتها بسبب أصولها اليهودية، فطُبع بعد وفاتها عام 1950 في لوفان (بلجيكا، دار Nauwelaerts) وفرايبورغ (ألمانيا، دار Herder) معاً — لا في سويسرا.
 - حياتها الفكرية قصيرة (1915-1942)، بسبب «أطروحتها عن التعاطف» (1917) التي دافع عنها هوسرل، ثم «فقدان» منصبها الأكاديمي (1933 بسبب أصولها اليهودية).
 - «ترجمتها» لأعمال توما الأكويني «في عالمنا» (الثلاثينيات من القرن العشرين) لا تزال غير مكتملة.
 
@@ -72,3 +72,10 @@ gaps:
 - *Endliches und ewiges Sein* (الكينونة المحدودة والكينونة الأبدية، 1936، أهم أعمالها).
 - *Kreuzeswissenschaft* (علم الصليب، 1942، عن يوحنا الصليب، كتب في دير Echt).
 - *Selbstbildnis in Briefen* (صورة ذاتية في رسائل، الخمسينيات من القرن العشرين، رسائل).
+
+## المصادر
+
+- Stanford Encyclopedia of Philosophy, "Edith Stein": https://plato.stanford.edu/entries/stein/
+- Britannica, "Edith Stein": https://www.britannica.com/biography/Edith-Stein
+- Vatican, homily of canonization (John Paul II, 11 October 1998): https://www.vatican.va/content/john-paul-ii/en/homilies/1998/documents/hf_jp-ii_hom_11101998_stein.html
+- Herder Verlag / bibliographic record, *Endliches und ewiges Sein* (Nauwelaerts/Herder, 1950): https://www.herder.de/theologie-pastoral/shop/p2/92833-endliches-und-ewiges-sein-gebundene-ausgabe/

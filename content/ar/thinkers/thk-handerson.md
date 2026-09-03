@@ -48,3 +48,11 @@ gaps:
 
 - *Conversation, Language, and Possibilities* (1997).
 - *Collaborative Therapy: Relationships and Conversations That Make a Difference* (2007، تحرير مع ديان غيهارت).
+
+## المصادر
+
+- Anderson, H. (1997). *Conversation, Language, and Possibilities: A Postmodern Approach to Therapy*. New York: Basic Books.
+- Anderson, H., & Goolishian, H. (1992). "The client is the expert: A not-knowing approach to therapy." In S. McNamee & K. J. Gergen (Eds.), *Therapy as Social Construction*. Sage.
+- "Harlene Anderson", Wikipedia. https://en.wikipedia.org/wiki/Harlene_Anderson
+- "Houston Galveston Institute", Wikipedia. https://en.wikipedia.org/wiki/Houston_Galveston_Institute
+- Andersen, T. (1987). "The Reflecting Team: Dialogue and Meta-Dialogue in Clinical Work." *Family Process*, 26(4), 415–428.

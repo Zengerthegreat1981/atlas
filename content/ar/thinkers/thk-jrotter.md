@@ -51,3 +51,10 @@ gaps:
 ## أهم أعماله
 
 *Social Learning and Clinical Psychology* (1954) · "Generalized Expectancies for Internal Versus External Control of Reinforcement" (1966)، *Psychological Monographs* · "A New Scale for the Measurement of Interpersonal Trust" (1967) · *Applications of a Social Learning Theory of Personality* (1972، مع جون تشانس وجيري فيرس).
+
+## المصادر
+
+- Wikipedia, "Julian Rotter": https://en.wikipedia.org/wiki/Julian_Rotter
+- Wikipedia, "Locus of control": https://en.wikipedia.org/wiki/Locus_of_control
+- Zimbardo.com, "Life and Legacy of Psychologist Julian Rotter": https://www.zimbardo.com/life-and-legacy-of-psychologist-julian-rotter/
+- Pearson Assessments, "Julian B. Rotter": https://www.pearsonassessments.com/professional-assessments/products/authors/rotter-julian.html

@@ -18,7 +18,7 @@ related:
 - id: "thk-pogden", title: "بات أوغدن", type: "مفكر"
 - id: "thk-rkurtz", title: "رون كورتز", type: "مفكر"
 gaps:
-  - "سنة الميلاد لم تُراجع من مصدر أولي."
+  - "سنة الميلاد مؤكَّدة من مصدر ثانوي (موقع Hakomi Institute): وُلد 1947 في هامبورغ، ألمانيا؛ بدأ العمل معالجاً نفسياً 1973 ودرّس في جامعة هامبورغ."
   - "كان هذا الملف يحمل اسم «هارييت وايس / Harriet F. Weiss» بوصفها امرأة أمريكية — والشخص المعروف في هاكومي هو **هالكو ڤايس** (Halko Weiss)، وهو رجل ألماني ومحرّر المرجع الجامع للمنهج. صُحِّح الاسم والجنس والجنسية."
   - "لم يُعثر بعد على اقتباس مباشر موثوق منسوب له بنص دقيق ومصدر محدد."
   - "edges.belongs_to كان نصاً حراً \"هاكومي (Hakomi)\" بدل slug — صُحِّح إلى tec-hakomi الموجود فعلاً."
@@ -40,3 +40,9 @@ gaps:
 ## أهم أعماله
 
 - *Hakomi Mindfulness-Centered Somatic Psychotherapy: A Comprehensive Guide to Theory and Practice* (2015، تحرير مع غريغوري جوهانسون ولورينا موندا).
+
+## المصادر
+
+- Halko Weiss — [Faculty, Hakomi Institute](https://hakomiinstitute.com/faculty/entry/halko-2/)
+- Halko Weiss — [Handbook of Somatic Psychotherapy، proactivemindfulness.com](https://proactivemindfulness.com/weiss/)
+- *Hakomi Mindfulness-Centered Somatic Psychotherapy* — [Amazon](https://www.amazon.com/Hakomi-Mindfulness-Centered-Somatic-Psychotherapy-Comprehensive/dp/0393710726)
