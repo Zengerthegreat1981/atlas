@@ -19,6 +19,7 @@ related:
 gaps:
   - "أطروحة «الكرب الجنيني الأمومي» لا سند تجريبياً لها، ومصدرها استرجاعات مرضى تحت تأثير LSD أو تنفّس متعمَّق — وكلاهما شرط معروف بتوليد خبرات حيّة لا تدلّ على وقائع. النقد الموجَّه إلى ليك هو نفسه النقد الموجَّه إلى يانوف وغروف."
   - "كان الملف ينسب إليه ريادة «العلاج بإعادة الولادة» (Rebirthing) وهي طريقة ليونارد أور، وينسب إليه حركة باسم «الأصل الكوني» لا وجود لها، ويجعل كتابه 1981 أساساً ليانوف الذي نشر 1970 — أُسقط ذلك كلّه."
+  - "تم التحقق (بحث ويب، أيلول 2026): السيرة والتواريخ مؤكَّدة عبر ويكيبيديا وبيرث سايكولوجي (Birth Psychology) ومؤسسة Bridge Pastoral — بريطاني (1914–1982)، طبيب إرساليات سابق، مؤسس جمعية اللاهوت الإكلينيكي 1962، استخدم LSD بجرعات صغيرة منظَّمة (40–100 ميكروغرام) بين 1954 و1969 تقريباً ثم تحوّل إلى التنفّس المتعمَّق (Primal Integration). كتاب *Tight Corners in Pastoral Counselling* صدر فعلياً عام 1981 (وليس 1982 كما ورد سابقاً في نسخة مبكرة من الملف) — تم تصحيحه أدناه في قائمة المؤلفات."
 ---
 
 # فرانك ليك
@@ -41,3 +42,8 @@ gaps:
 
 - Lake, F. (1966). *Clinical Theology: A Theological and Psychological Basis to Clinical Pastoral Care*. Darton, Longman & Todd.
 - Jacobs, M. (1988). *Frank Lake's Clinical Theology: An Introduction*. Darton, Longman & Todd.
+- [Frank Lake — Wikipedia](https://en.wikipedia.org/wiki/Frank_Lake)
+- [Frank Lake — Bridge Pastoral Foundation (تاريخ الجمعية)](https://www.bridgepastoral.org.uk/history/frank-lake/)
+- House, S. H. (2000). "Primal Integration Therapy — School of Dr Frank Lake MB, MRC Psych, DPM (1914–1982)". *Journal of Prenatal & Perinatal Psychology & Health*, 14(3/4). [نص عبر Birth Psychology](https://birthpsychology.com/wp-content/uploads/2024/09/jnluhdKE-1.pdf)
+- Lake, F. "Birth Trauma, Claustrophobia and LSD Therapy". [primals.org](https://www.primals.org/articles/lake.html)
+- Lake, F. (1981). *Tight Corners in Pastoral Counselling*. Darton, Longman & Todd. [مراجعة الكتاب — Cambridge Core](https://www.cambridge.org/core/journals/new-blackfriars/article/abs/tight-corners-in-pastoral-counselling-by-frenk-lake-darton-longman-todd-lid-1981-pp-xvii-187-494-crisis-in-counselling-an-essential-guide-for-nonprofessional-counsellors-by-eugene-kennedy-gill-macmillan-1981-pp-xii-179-595/93E85931F5E6ACF196643FC13AA84216)

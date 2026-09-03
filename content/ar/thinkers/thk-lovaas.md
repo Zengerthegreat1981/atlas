@@ -15,7 +15,7 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-aba-autism", target_type: "تيار"
 related:
-- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 - id: "thk-cferster", title: "تشارلز فيرستر", type: "مفكر"
 - id: "thk-donbaer", title: "دونالد م. باير", type: "مفكر"
 - id: "con-prt-pivotal-response", title: "علاج المحاور (PRT)", type: "مفهوم"
@@ -37,3 +37,10 @@ gaps:
 ## أهم أعماله
 
 أبحاثه المنشورة في الثمانينيات (1987) حول نتائج التدخل السلوكي المكثف عند أطفال التوحد، وهي من أكثر الدراسات تأثيرًا في تأسيس ABA كعلاج معتمد على الأدلة.
+
+## المصادر
+
+- [Ole Ivar Lovaas — Wikipedia](https://en.wikipedia.org/wiki/Ole_Ivar_Lovaas)
+- [Ivar Lovaas, 1927–2010 — The Autism History Project](https://blogs.uoregon.edu/autismhistoryproject/people/lovaas-ivar-1927-2010/)
+- [O. Ivar Lovaas: Pioneer of Applied Behavior Analysis and Intervention for Children with Autism — ResearchGate](https://www.researchgate.net/publication/49679486_O_Ivar_Lovaas_Pioneer_of_Applied_Behavior_Analysis_and_Intervention_for_Children_with_Autism)
+- [Memories of Ole Ivar Lovaas — Association for Psychological Science](https://www.psychologicalscience.org/observer/memories-of-ole-ivar-lovaas)

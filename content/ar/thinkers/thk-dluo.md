@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related: []
 gaps:
-  - "تحقّق (بحث ويب، صفحة Georgia Tech/Scheller وGoogle Scholar): دونغ ليو أستاذ كرسي Thomas R. Williams في الإدارة وأستاذ السلوك التنظيمي في كلية شيلر للأعمال بمعهد جورجيا التقني، نال الدكتوراه من جامعة واشنطن (Foster School of Business) سنة 2011، وله أبحاث منشورة في Academy of Management Journal وJournal of Applied Psychology حول القيادة التمكينية والإبداع في فرق العمل."
+  - "تم التحقق (بحث ويب، أيلول 2026): الهوية والمعطيات الأساسية مؤكَّدة عبر صفحتي Georgia Tech/Scheller الرسميتين وGoogle Scholar وأخبار الكلية. دونغ ليو أستاذ كرسي Thomas R. Williams في الإدارة وأستاذ السلوك التنظيمي في كلية شيلر للأعمال بمعهد جورجيا التقني، نال الدكتوراه من جامعة واشنطن (Foster School of Business) سنة 2011، وحاز ماجستير فلسفة في الإدارة من جامعة هونغ كونغ الصينية. اختير زميلاً (Fellow) في الجمعية الأمريكية لعلم النفس (APA) وفي جمعية علم النفس الصناعي/التنظيمي (SIOP) عام 2023. من إسهاماته النظرية البارزة أيضاً نظرية «نظام الأحداث» (Event System Theory)، التي كانت من الأعمال النهائية المرشحة لجائزة أفضل ورقة في Academy of Management Review لعام 2016 — وهو ما لم يكن مذكوراً في النسخة السابقة من الملف."
 ---
 
 # دونغ ليو
@@ -36,3 +36,7 @@ gaps:
 
 - Liu, D., Jiang, K., Shalley, C. E., & Keem, S. (2016). Motivational mechanisms of employee creativity: A meta-analytic examination and theoretical extension. *Academy of Management Journal*, 59(4), 1159–1182.
 - Liu, D., Zhang, S., Wang, L., & Strauss, J. P. (2012). Does team leader empowering behavior promote team creativity? *Journal of Applied Psychology*, 97(5), 1072–1082.
+- الصفحة الرسمية: [Dong Liu — Scheller College of Business, Georgia Tech](https://www.scheller.gatech.edu/directory/faculty/liu/index.html)
+- [Dong Liu — Google Scholar](https://scholar.google.com/citations?user=FFDH8mIAAAAJ&hl=en)
+- [Dong Liu Named Fellow by APA and SIOP — Scheller College News](https://www.scheller.gatech.edu/news/2023/dong-liu-named-fellow-by-the-american-psychological-association-and-the-society-for-industrial-and-organizational-psychology.html)
+- [2017 Best 40 Under 40 Professors: Dong Liu — Poets&Quants](https://poetsandquants.com/2017/03/26/2017-best-40-40-professors-dong-liu-georgia-tech-scheller/)

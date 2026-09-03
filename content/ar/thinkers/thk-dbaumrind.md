@@ -43,3 +43,10 @@ gaps:
 
 - "Effects of Authoritative Parental Control on Child Behavior" (1966).
 - *Handbook of Child Psychology* (مساهم، 1971).
+
+## المصادر
+
+- [Diana Baumrind — Encyclopedia.com](https://www.encyclopedia.com/people/history/historians-miscellaneous-biographies/diana-baumrind)
+- [Diana Baumrind (psychologist) — EBSCO Research Starters](https://www.ebsco.com/research-starters/biography/diana-baumrind-psychologist)
+- [Parenting Styles: A Closer Look at a Well-Known Concept — PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6323136/)
+- [Parenting Styles — Original to Contemporary Research and Applications (devpsy.org)](https://www.devpsy.org/teaching/parent/baumrind_parenting_styles.pdf)

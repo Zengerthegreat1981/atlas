@@ -56,3 +56,10 @@ gaps:
 
 - «Denkōroku» (سِجِلّ نقل النور).
 - «Zazen Yōjinki» (مذكّرة في التأمل الجالس).
+
+## المصادر
+
+- [Keizan Jōkin | Britannica](https://www.britannica.com/biography/Keizan-Jokin)
+- [Keizan | Wikipedia](https://en.wikipedia.org/wiki/Keizan)
+- [Keizan | Encyclopedia.com](https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/keizan)
+- [Keizan - Buddha-Nature | Tsadra Foundation](https://buddhanature.tsadra.org/index.php/People/Keizan)

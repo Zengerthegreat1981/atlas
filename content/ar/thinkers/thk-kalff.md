@@ -52,3 +52,10 @@ gaps:
 *Sandplay: A Psychotherapeutic Approach to the Psyche* (بالألمانية 1966، وبالإنجليزية 1971) — «اللعب الرملي: مقاربة علاجية نفسية للنفس».
 
 > **تصحيح:** كان عنوان الكتاب مترجَماً «مدخل **سيكومتري** للشفاء» — و*psychotherapeutic* تعني **علاجياً نفسياً** لا قياسياً؛ ولا صلة للمنهج بالقياس النفسي.
+
+## المصادر
+
+- [Working with Dora Kalff – Sandplay Therapists of America](https://www.sandplay.org/about-sandplay/working-with-dora-kalff/)
+- [History - International Society for Sandplay Therapy (ISST)](https://www.isst-society.com/history/)
+- [Sandplay Therapy - EFPT Psychotherapy Guidebook](https://epg.pubpub.org/pub/9z1uj5pu)
+- [Dora Maria Kalff: Biography of a Jungian Heiress](https://exploringyourmind.com/dora-maria-kalff-biography-of-a-jungian-heiress/)

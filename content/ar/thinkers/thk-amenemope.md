@@ -45,3 +45,9 @@ gaps:
 ## أهم أعماله
 
 - *The Instructions of Amenemope*، محفوظة في بردية المتحف البريطاني (BM EA 10474).
+
+## المصادر
+
+- [Instruction of Amenemope — Wikipedia](https://en.wikipedia.org/wiki/Instruction_of_Amenemope)
+- [The Instruction of Amenemope — Encyclopaedia Britannica](https://www.britannica.com/topic/The-Instruction-of-Amenemope)
+- [Proverbs and Amenemope — discussion of parallels](http://christiancadre.blogspot.com/2008/10/proverbs-and-amenemope.html)

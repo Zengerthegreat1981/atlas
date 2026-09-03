@@ -40,8 +40,16 @@ gaps:
 أسّس مقاربة مستقلة داخل اللاكانية، متأثراً ببيون وونيكوت (من مدرسة "الأنا" الإنجليزية)، وأكد أهمية الأنا بعدما هجرها لاكان لصالح "الرمزي".
 
 ## القيد
-أسّس مجلة "زمن التأمل" (Le Temps de la réflexion) عام 1977 مع ج. ب. بونتاليس.
+شارك في مجلة "زمن التأمل" (Le Temps de la réflexion) التي أطلقها ج. ب. بونتاليس عام 1980 (وليس 1977 كما ورد سابقاً)؛ نشر فيها غرين مقالاً بعنوان "الأسطورة: موضوع انتقالي جمعي" ضمن عددها الأول.
 
 ## أهم أعماله
 
 العمل السلبي (Le Travail du négatif, 1993) · الأم الميتة (La mère morte, 1980) · الحياة النفسية الخاصة (La Vie psychique, أوائل الألفية).
+
+## المصادر
+
+- [André Green (psychoanalyst) — Wikipedia](https://en.wikipedia.org/wiki/Andr%C3%A9_Green_(psychoanalyst))
+- [André Green — British Psychoanalytical Society](https://psychoanalysis.org.uk/andre-green)
+- [Life and Death of the Dead Father: André Green Obituary — Rosine Jozef Perelberg](https://rosineperelberg.com/life-and-death-of-the-dead-father-andre-green-obituary/)
+- [Dead mother complex — Wikipedia](https://en.wikipedia.org/wiki/Dead_mother_complex)
+- [Le Temps de la réflexion — Gallimard](https://www.gallimard.fr/Catalogue/GALLIMARD/Le-temps-de-la-reflexion/Le-Temps-de-la-reflexion)

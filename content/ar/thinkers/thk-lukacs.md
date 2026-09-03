@@ -42,3 +42,9 @@ gaps:
 ## أهم أعماله
 
 التاريخ والوعي الطبقي (Geschichte und Klassenbewußtsein, 1923) · الوجودية أم الماركسية؟ (Existentialisme ou Marxisme?, 1948) · نظرية الرواية (Die Theorie des Romans, 1916).
+
+## المصادر
+
+- [Georg [György] Lukács — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/lukacs/)
+- [History and Class Consciousness — Wikipedia](https://en.wikipedia.org/wiki/History_and_Class_Consciousness)
+- [History and Class Consciousness — full text, Marxists Internet Archive](https://www.marxists.org/ebooks/lukacs/history_and_class_consciousness_georg_lukacs.pdf)

@@ -47,3 +47,9 @@ gaps:
 - أثّرت في **دراسات النوع** (Gender Studies) و**النسوية البيئية** (Ecofeminism).
 - أثّرت في **دراسات التكنولوجيا** (STS) المعاصرة.
 - أثّرت في **الفنون** المعاصرة (Cyborg art, Bio art).
+
+## المصادر
+
+- [Donna Haraway — Wikipedia (EN)](https://en.wikipedia.org/wiki/Donna_Haraway)
+- [Situated Knowledges: The Science Question in Feminism (Haraway, 1988) — PDF](https://commons.princeton.edu/hum583-f21/wp-content/uploads/sites/283/2021/08/Haraway-Situated-Knowledges.pdf)
+- [Donna Haraway — European Graduate School biography](https://pact.egs.edu/biography/donna-haraway/)

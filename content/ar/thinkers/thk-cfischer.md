@@ -41,3 +41,10 @@ gaps:
 ## أهم أعمالها
 
 التقييم النفسي الفردي: مدخل فينومينولوجي (Individualizing Psychological Assessment, 1985) · مناهج البحث النوعي لعلماء النفس (Qualitative Research Methods for Psychologists, 2005).
+
+## المصادر
+
+- [Constance T. Fischer — Wikipedia](https://en.wikipedia.org/wiki/Constance_T._Fischer)
+- [Individualizing Psychological Assessment: A Collaborative and Therapeutic Approach — Amazon](https://www.amazon.com/Individualizing-Psychological-Assessment-Collaborative-Therapeutic/dp/0805815864)
+- [On the Way to Collaborative Psychological Assessment: The Selected Works of Constance T. Fischer — Barnes & Noble](https://valsec.barnesandnoble.com/w/on-the-way-to-collaborative-psychological-assessment-constance-t-fischer/1128277371?ean=9781138310964)
+- [Constance Fischer — ResearchGate profile, Duquesne University](https://www.researchgate.net/profile/Constance-Fischer)

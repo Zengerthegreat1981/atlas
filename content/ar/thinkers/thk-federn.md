@@ -20,8 +20,9 @@ related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-rank", title: "أوتو رانك", type: "مفكر"
 gaps:
-  - "مفهوم «حدود الأنا» (ego-boundaries) عند فيديرن — وموقعه الدقيق من نظريات الأنا اللاحقة — يحتاج مراجعة من نص تأسيسي."
-  - "لا يوجد اقتباس مباشر موثوق من *Ego Psychology and the Psychoses* الصادر بعد وفاته عام 1952 بترجمة عربية معتمدة."
+  - "تم التحقق (بحث ويب، أيلول 2026): التواريخ والسيرة مؤكَّدة عبر ويكيبيديا وEncyclopedia.com وسيرة ericberne.com — وُلد فيينا 1871، التقى فرويد 1903، من مؤسسي جمعية فيينا التحليلية 1908، نائب فرويد ورئيسها الفعلي منذ 1924 حتى حلّها 1938، هاجر إلى نيويورك 1938، توفي منتحراً 1950. كان العضو المؤسس الوحيد -إلى جانب فرويد نفسه- الذي بقي عضواً في الجمعية حتى حلّها."
+  - "مفهوم «حدود الأنا» (ego-boundaries) عند فيديرن — وموقعه الدقيق من نظريات الأنا اللاحقة — يبقى بحاجة مراجعة أعمق من النص التأسيسي نفسه رغم توفر ملخصات ثانوية موثوقة (انظر أطروحة فايس/CUNY في المصادر)."
+  - "لا يوجد اقتباس مباشر موثوق من *Ego Psychology and the Psychoses* الصادر بعد وفاته عام 1952 بترجمة عربية معتمدة؛ النص الإنجليزي الكامل متاح عبر APA PsycNet (مذكور في المصادر)."
 ---
 
 # بول فيديرن
@@ -47,3 +48,12 @@ gaps:
 ## أهم أعماله
 
 علم نفس الأنا والذُّهانات (Ego Psychology and the Psychoses — جمعها إدواردو فايس ونشرها بعد وفاته عام 1952) · مقالات في «الشعور بالأنا» وحدودها نُشرت بالألمانية بين 1926 و1936.
+
+## المصادر
+
+- Federn, P. (1952). *Ego Psychology and the Psychoses* (E. Weiss, Ed.). New York: Basic Books. [نص كامل عبر APA PsycNet](https://psycnet.apa.org/fulltext/1953-05492-000-FRM.pdf)
+- [Paul Federn — Wikipedia](https://en.wikipedia.org/wiki/Paul_Federn)
+- [Paul Federn (1871–1950): A Brief Biography — Victorianweb](https://victorianweb.org/science/psych/federn.html)
+- [Biography of Paul Federn, Viennese Psychoanalyst who came to New York — ericberne.com](https://ericberne.com/paul-federn-biography/)
+- Weiss, E. (1966). "Ego-Feeling and Ego-Boundaries: An Examination of the Work and Legacy of Paul Federn" (أطروحة، CUNY). [نص كامل](https://academicworks.cuny.edu/cc_etds_theses/1019/)
+- [Federn, Paul (1871–1950) — Encyclopedia.com](https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/federn-paul-1871-1950)

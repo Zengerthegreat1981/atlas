@@ -51,3 +51,10 @@ gaps:
 ## اقتباسات مختارة
 
 «الحب هو الجواب الوحيد العاقل والمُرضي لمشكلة الوجود الإنساني.» — فن الحب، 1956
+
+## المصادر
+
+- Wikipedia: [Erich Fromm](https://en.wikipedia.org/wiki/Erich_Fromm)
+- Wikipedia: [Escape from Freedom](https://en.wikipedia.org/wiki/Escape_from_Freedom)
+- Wikipedia: [The Art of Loving](https://en.wikipedia.org/wiki/The_Art_of_Loving)
+- Alan Ryan, "The Art of Being Erich Fromm", The New York Review of Books: [nybooks.com](https://www.nybooks.com/articles/2013/08/15/art-being-erich-fromm/)

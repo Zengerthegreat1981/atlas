@@ -55,3 +55,10 @@ gaps:
 - *Dongxi Wenhua ji qi Zhexue* (东西文化及其哲学، «ثقافات الشرق والغرب وفلسفتها»)، 1921.
 - *Zhongguo Wenhua Yaoyi* (中国文化要义، «جوهر الثقافة الصينية»)، 1949.
 - *Renxin yu Rensheng* (人心与人生، «قلب الإنسان وحياة الإنسان»)، 1984.
+
+## المصادر
+
+- [Liang Shuming — Encyclopaedia Britannica](https://www.britannica.com/biography/Liang-Shuming)
+- [Liang Shuming — Wikipedia](https://en.wikipedia.org/wiki/Liang_Shuming)
+- [Liang Shuming, *Eastern and Western Cultures and Their Philosophies* (1921) — PhilPapers](https://philpapers.org/rec/SHUEAW)
+- [Liang the Political Philosopher: Contemplating Confucianism and Democracy in Republican China — SpringerLink](https://link.springer.com/chapter/10.1007/978-3-031-18002-6_10)

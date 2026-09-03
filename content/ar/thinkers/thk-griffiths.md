@@ -32,4 +32,10 @@ gaps:
 
 ## موقعه من التيار
 
-يعدّ غريفيثش أبرز ممثلي «التيار العلمي» في حركة السيكوديلك، وأثّر بعمق في الانتقال من الأبحاث النفسية الشخصية (Groف، Leary) إلى الأبحاث الإكلينيكية المعشاة الصارمة. أبحاثه أعادت إحياء الاهتمام بالسيلوسيبين في اضطرابات الأكل، والقلق الوجودي لدى مرضى السرطان، والاكتئاب.
+يعدّ غريفيثز أبرز ممثلي «التيار العلمي» في حركة السيكوديلك، وأثّر بعمق في الانتقال من الأبحاث النفسية الشخصية لِستانيسلاف غروف (Grof) وتيموثي ليري (Leary) في الستينيات إلى الأبحاث الإكلينيكية المعشاة الصارمة. أبحاثه أعادت إحياء الاهتمام بالسيلوسيبين في القلق الوجودي لدى مرضى السرطان، والاكتئاب، والإقلاع عن التدخين.
+
+## المصادر
+
+- [Roland Griffiths, Pioneering Psychedelic Researcher, Dies | Johns Hopkins Medicine](https://www.hopkinsmedicine.org/news/newsroom/news-releases/2023/10/roland-griffiths-pioneering-psychedelic-researcher-dies)
+- [Roland Griffiths — Wikipedia](https://en.wikipedia.org/wiki/Roland_Griffiths)
+- [IN MEMORIAM: Roland R. Griffiths, Ph.D | Neuropsychopharmacology (Nature)](https://www.nature.com/articles/s41386-023-01781-3)

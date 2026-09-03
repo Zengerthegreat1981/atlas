@@ -21,6 +21,7 @@ related:
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *In the Name of Mental Health* (1969) بترجمة عربية معتمدة."
   - "دمجه بين نقد توماس ساس للطب النفسي والتحليل النفسي البوذي للقلق يستحق إفراد عنصر مقارن."
+  - "تم تصحيح عنوان كتابه الثاني وترجمته: العنوان الفرعي الصحيح لـ*The Happiness Project* (1997) هو «تحويل السموم الثلاثة المسبِّبة للمعاناة»، لا «سيكولوجيا الحرية الوجودية والبوذية» كما ورد سابقاً في هذا المدخل؛ صُحِّح بالاعتماد على صفحة الناشر/أمازون."
 ---
 
 # رونالد لايفر
@@ -40,4 +41,11 @@ gaps:
 
 ## أهم أعماله
 
-في اسم الصحة النفسية: الآثار الاجتماعية والسياسية للطب النفسي (In the Name of Mental Health, 1969) · سعادة المبتدئ: سيكولوجيا الحرية الوجودية والبوذية (The Happiness Project, 1997).
+في اسم الصحة النفسية: الوظائف الاجتماعية للطب النفسي (In the Name of Mental Health: The Social Functions of Psychiatry, 1969) · مشروع السعادة: تحويل السموم الثلاثة المسبِّبة للمعاناة التي نُلحقها بأنفسنا وبالآخرين (The Happiness Project: Transforming the Three Poisons that Cause the Suffering We Inflict on Ourselves and Others, 1997، دار Snow Lion).
+
+## المصادر
+
+- Cambridge Core — مراجعة *In the Name of Mental Health* (1969): [cambridge.org](https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/abs/in-the-name-of-mental-health-the-social-functions-of-psychiatry-by-ronald-leifer-new-york-science-house-1969-pp-282-price-895/F0534923BA0F7F89734481CBEB122D4D)
+- Szasz.com — تقديم جائزة ساس لرونالد لايفر (نبذة سيرة): [szasz.com/leiferawardintro.html](http://www.szasz.com/leiferawardintro.html)
+- Find a Grave — سجل وفاته (1932-2017): [findagrave.com/memorial/182006247](https://www.findagrave.com/memorial/182006247/ronald-ira-leifer)
+- Amazon/Snow Lion — *The Happiness Project* (1997): [amazon.com/dp/1559390794](https://www.amazon.com/Happiness-Project-Transforming-Suffering-Ourselves/dp/1559390794)

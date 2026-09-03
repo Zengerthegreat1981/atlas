@@ -39,4 +39,10 @@ gaps:
 
 ## أهم أعمالها
 
-«التحليل النفسي: منظورات معاصرة» (2004، مع كامبري) · «النعمة المذهلة» (Amazing Grace, 2021) · فصول متعددة في كتب *Jung's Red Book for Our Time*.
+«التحليل النفسي: منظورات معاصرة في التحليل اليونغي» (Analytical Psychology: Contemporary Perspectives in Jungian Analysis, 2004، مع كامبري) · «النعمة المذهلة» (Amazing Grace, 2021) · فصول متعددة في كتب *Jung's Red Book for Our Time*.
+
+## المصادر
+
+- Routledge — [Analytical Psychology: Contemporary Perspectives in Jungian Analysis](https://www.routledge.com/Analytical-Psychology-Contemporary-Perspectives-in-Jungian-Analysis/Cambray-Carter/p/book/9781583919996)
+- PEP-Web — مراجعة الكتاب: [pep-web.org/search/document/JOAP.050.0251A](https://pep-web.org/search/document/JOAP.050.0251A)
+- New York Center for Jungian Studies — نبذة عن ليندا كارتر ضمن المحاضرين: [nyjungcenter.org/presenters](https://nyjungcenter.org/presenters/)

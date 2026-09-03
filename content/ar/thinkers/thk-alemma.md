@@ -49,4 +49,10 @@ gaps:
 
 ## أهم أعمالها
 
-- *Dynamic Interpersonal Therapy (DIT): A Time-limited Integration of psychodynamic and interpersonal psychotherapy* (2011، مع تارغت وفوناغي).
+- *Brief Dynamic Interpersonal Therapy: A Clinician's Guide* (2011، مع ماري تارغت وبيتر فوناغي، Oxford University Press).
+
+## المصادر
+
+- [Alessandra Lemma — Psychoanalysis Unit, UCL](https://www.ucl.ac.uk/psychoanalysis/people/alessandra-lemma)
+- [Brief Dynamic Interpersonal Therapy — Oxford University Press](https://global.oup.com/academic/product/brief-dynamic-interpersonal-therapy-9780199602452)
+- [Professor Alessandra Lemma — Confer](https://www.confer.uk.com/biogs/biog_lemma.html)

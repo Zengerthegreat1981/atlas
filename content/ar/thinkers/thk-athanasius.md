@@ -43,4 +43,11 @@ gaps:
 - في التجسد (De Incarnatione, نحو 318–328)
 - رسائل إلى الأساقفة (Epistolae ad Episcopos)
 - رسائل ضد الأريوسية
-- Life of Anthony (سيرة القديس أنطونيوس الكبير)
+- سيرة القديس أنطونيوس الكبير (Life of Anthony) — منسوبة تقليدياً إليه
+
+## المصادر
+
+- [Athanasius of Alexandria — Wikipedia](https://en.wikipedia.org/wiki/Athanasius_of_Alexandria)
+- [De incarnatione Verbi Dei (Internet Archive, النص الكامل)](https://archive.org/details/deincarnationeve00athauoft)
+- [The Father of Orthodoxy: Why We Read Athanasius — Thomas Aquinas College](https://www.thomasaquinas.edu/a-liberating-education/why-we-study/father-orthodoxy-why-we-read-athanasius)
+- [Athanasius: A C.S. Lewis of the Early Church — Christian Research Institute](https://www.equip.org/articles/athanasius-a-c-s-lewis-of-the-early-church/)

@@ -43,3 +43,10 @@ gaps:
 ## الأثر
 
 أثرت أنسكومب على فلسفة الأخلاق المعاصرة (MacIntyre, Foot, Murdoch, Hursthouse)، وعلى فلسفة الفعل (Davidson)، وعلى فلسفة الأخلاق الكاثوليكية.
+
+## المصادر
+
+- Stanford Encyclopedia of Philosophy: [Gertrude Elizabeth Margaret Anscombe](https://plato.stanford.edu/entries/anscombe/)
+- Internet Encyclopedia of Philosophy: [Anscombe, G. E. M.](https://iep.utm.edu/anscombe/)
+- Wikipedia: [G. E. M. Anscombe](https://en.wikipedia.org/wiki/G._E._M._Anscombe)
+- 1000-Word Philosophy: [G. E. M. Anscombe's "Modern Moral Philosophy"](https://1000wordphilosophy.com/2022/05/20/anscombe/)

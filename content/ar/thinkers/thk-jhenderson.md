@@ -41,3 +41,9 @@ gaps:
 ## أهم أعماله
 
 حكمة الحية (The Wisdom of the Serpent, 1963 مع Oakes) · عتبات البدء (Thresholds of Initiation, 1967) · الظلّ والذات (Shadow and Self, 1990) · تحوّل النفس (Transformation of the Psyche, 2003 مع Sherwood).
+
+## المصادر
+
+- Kirsch, T. (2008). "Joseph Lewis Henderson 1903–2007: A Biography". *Jung Journal*, 2(1). https://www.tandfonline.com/doi/abs/10.1525/jung.2008.2.1.78
+- "Joseph L. Henderson", Wikipedia. https://en.wikipedia.org/wiki/Joseph_L._Henderson
+- "Finding Aid for the Joseph L. Henderson Papers (1901–2003)", C.G. Jung Institute of San Francisco / Online Archive of California. https://oac.cdlib.org/findaid/ark:/13030/c8pr81cp/

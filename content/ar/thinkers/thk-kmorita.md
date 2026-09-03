@@ -14,7 +14,7 @@ active_end: 1938
 part: "psychology"
 edges: []
 related:
-- id: "thk-knakamura", title: "كويتشي ناكامورا", type: "مفكر"
+- id: "thk-knakamura", title: "كي ناكامورا", type: "مفكر"
 - id: "thk-dreynolds", title: "ديفيد ك. رينولدز", type: "مفكر"
 gaps:
   - "تفاصيل السيرة الكاملة لم تُراجع من مصادر يابانية أولية."
@@ -55,3 +55,10 @@ gaps:
 - **الترجمة**: لم يُترجَم عمله الأساسي إلى الإنجليزية إلا بعد وفاته عام 1998، فوصل الحقلَ الغربي عبر وسطاء وتفسيرات — ولذلك يُنسب كثير من أفكاره إلى من جاء بعده.
 - **الجذر الثقافي**: يقوم العلاج على تصوّر للذات في المجتمع الياباني تكون فيه أولوية **الدور والواجب** على الشعور الفردي أمراً مفروغاً منه. ونقله إلى سياق يُعلي الشعور والتعبير عنه يغيّر معناه: فما هو في اليابان قبولٌ للنظام قد يُقرأ في الغرب قمعاً للذات أو دعوةً إلى الإذعان.
 - **حدود الأدلّة والتطبيق**: قاعدة الأدلّة موجودة لكنها ضيّقة — دراسات، أكثرها يابانية وصينية، على **القلق الاجتماعي** و**الوسواس** و**اضطرابات جسدية الشكل**، وهي الفئة التي صُمّم لها أصلاً. أما تعميمه على الاكتئاب الشديد أو الذهان فلا سند له. ونسخته الداخلية الكاملة (بالعزلة والإقامة) **لم تعد تُطبَّق إلا نادراً** حتى في اليابان، والمطبَّق اليوم صيغة عيادية مخفَّفة تختلف عن الأصل اختلافاً جوهرياً.
+
+## المصادر
+
+- [Shoma Morita | Wikipedia](https://en.wikipedia.org/wiki/Shoma_Morita)
+- [Morita therapy | Wikipedia](https://en.wikipedia.org/wiki/Morita_therapy)
+- [Morita therapy: 1919 to 1995 — Kitanishi, Psychiatry and Clinical Neurosciences](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1440-1819.1995.tb01896.x)
+- [Morita therapy and the true nature of anxiety based disorders (Shinkeishitsu) — Internet Archive](https://archive.org/details/moritatherapytru0000mori)

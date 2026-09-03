@@ -15,7 +15,7 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-ipt", target_type: "مدرسة"
 related:
-- id: "thk-gklerman", title: "جيرالد كَلِرمان", type: "مفكر"
+- id: "thk-gklerman", title: "جيرالد كليرمان", type: "مفكر"
 - id: "thk-mweissman", title: "ميري وايسمان", type: "مفكر"
 - id: "thk-lhecker", title: "لويس هِكَر", type: "مفكر"
 gaps:
@@ -47,3 +47,9 @@ gaps:
 - *Comprehensive Guide to Interpersonal Psychotherapy* (2000، مع وايسمان وكليرمان).
 - *Casebook of Interpersonal Psychotherapy* (2012، تحرير مع وايسمان).
 - "Is Exposure Necessary? A Randomized Clinical Trial of Interpersonal Psychotherapy for PTSD" (2015)، *American Journal of Psychiatry*.
+
+## المصادر
+
+- Markowitz, J. C., et al. (2015). "Is Exposure Necessary? A Randomized Clinical Trial of Interpersonal Psychotherapy for PTSD". *American Journal of Psychiatry*, 172(5), 430–440. https://pubmed.ncbi.nlm.nih.gov/25677355/
+- "John Caleb Markowitz, MD", Columbia University Department of Psychiatry. https://www.columbiapsychiatry.org/profile/john-c-markowitz-md
+- "Interpersonal Therapy Found as Effective as Exposure Therapy for PTSD", Columbia University Department of Psychiatry News. https://www.columbiapsychiatry.org/news/interpersonal-therapy-found-effective-exposure-therapy-ptsd-findings-suggest-new-avenue
