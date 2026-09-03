@@ -44,3 +44,10 @@ gaps:
 ## أهم أعماله
 
 بُعدية التجربة التحليلية النفسية (1977) · بيون والتجربة التحليلية النفسية (1981) · لكن في الوقت نفسه... (1981) · من هو الحالم الذي يحلم الحلم؟ (2000).
+
+## المصادر
+
+- Grotstein, James S. "The Dimensionality of the Psychoanalytic Experience." *Contemporary Psychoanalysis*, 1977.
+- Grotstein, James S. "Bion and the Psychoanalytic Experience." *Bulletin of the Menninger Clinic*, 1981.
+- Grotstein, James S. *Who Is the Dreamer Who Dreams the Dream? A Study of Psychic Presences*. Analytic Press, 2000.
+- تحتاج مراجعة إضافية من المصدر الأولي (انظر `gaps` أعلاه): نص مفهوم "البُعدية" في مقالة 1977، ونسبة "المعروف غير المُفكَّر فيه" (يُعرف عادةً بصياغة كريستوفر بولاس، لا جروتشتاين — الأمر مذكور بحذر في المتن أعلاه ويحتاج تأكيداً أولياً إضافياً).

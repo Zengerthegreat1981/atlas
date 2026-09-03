@@ -46,3 +46,10 @@ gaps:
 ## أهم أعماله
 
 أفريقية المركز (Afrocentricity, 1988) · أطلس الأمريكيين الأفارقة (The African-American Atlas, 1998) · مصر ضد اليونان (Egypt vs. Greece, 2000) · تاريخ أفريقيا (The History of Africa, 2007).
+
+## المصادر
+
+- Asante, Molefi Kete. *The Afrocentric Idea*. Temple University Press, 1987.
+- Asante, Molefi Kete. *Afrocentricity: The Theory of Social Change*. Africa World Press, 1988 (النسخة المعاد إصدارها).
+- Asante, Molefi Kete. *Egypt vs. Greece and the American Academy: The Debate over the Birth of Civilization*. African American Images, 2000.
+- تحتاج مراجعة إضافية من المصدر الأولي (انظر `gaps` أعلاه): تفاصيل حوارات أسانتي مع Théophile Obenga وAyi Kwei Armah، ونص أطروحة "الديون" الحضارية لليونان تجاه مصر.

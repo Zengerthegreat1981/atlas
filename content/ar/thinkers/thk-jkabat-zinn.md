@@ -50,3 +50,11 @@ gaps:
 
 - **"العلمنة" (Secularization)**: انتقدته حركة "McMindfulness" (بورسر Purser، 2019) بدعوى تسليع اليقظة الذهنية وتجريدها من سياقها البوذي الروحي عند نقلها إلى الشركات.
 - الأدلة على أثر MBSR في التجارب العشوائية المضبوطة (RCTs) توصف غالباً بأنها متوسطة الحجم، لا "مذهلة".
+
+## المصادر
+
+- Kabat-Zinn, Jon. *Full Catastrophe Living: Using the Wisdom of Your Body and Mind to Face Stress, Pain, and Illness*. Delacorte Press, 1990.
+- Kabat-Zinn, Jon. *Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life*. Hyperion, 1994.
+- Kabat-Zinn, Jon. *Coming to Our Senses: Healing Ourselves and the World Through Mindfulness*. Hyperion, 2005.
+- Purser, Ronald. *McMindfulness: How Mindfulness Became the New Capitalist Spirituality*. Repeater Books, 2019 — مصدر نقد "McMindfulness" المذكور أعلاه.
+- تحتاج مراجعة إضافية من مصدر فلسفي أولي (انظر `gaps` أعلاه): أثر دراسة كابات-زين مع تيك نات هان وسوزوكي روشي، وتفاصيل تعاونه مع Sara Lazar في أبحاث fMRI.

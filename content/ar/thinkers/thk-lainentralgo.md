@@ -8,15 +8,15 @@ en: "Pedro Laín Entralgo"
 crumb: "المدرسة الوجودية ← الناس ← بيدرو لاين إنترالغو"
 dates: "إسبانيا · 1908–2001"
 active_start: 1957
-active_end: 1989
+active_end: 2001
 country: "إسبانيا"
 language: "الإسبانية"
 part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-- id: "thk-mbuber", title: "مارتن بوبر", type: "مفكر"
-- id: "thk-ortega", title: "خوسيه أورتيجا إي جاسيت", type: "مفكر"
+- id: "thk-mbuber", title: "مارتن بُبَر", type: "مفكر"
+- id: "thk-ortega", title: "خوسيه أورتيغا إي غاسيت", type: "مفكر"
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 gaps:
@@ -26,7 +26,7 @@ gaps:
 
 # بيدرو لاين إنترالغو
 
-طبيب ومؤرخ وفيلسوف وأنثروبولوجي إسباني كبير، رئيس الأكاديمية الملكية الإسبانية ومدير جامعة كومبلوتنسي بمدريد، رائد «الأنثروبولوجيا الطبية الوجودية وفينومينولوجيا العلاقة العلاجية».
+طبيب ومؤرخ الطب وفيلسوف وأنثروبولوجي إسباني (15 فبراير 1908، أوريا دي غاين، تيرويل — 5 يونيو 2001، مدريد)، من رواد «الأنثروبولوجيا الطبية الوجودية وفينومينولوجيا العلاقة العلاجية». درس الكيمياء في سرقسطة وبلنسية ثم الطب في بلنسية (1927–1930)، وسافر عام 1931 إلى فيينا لتعميق تكوينه النفسي عند الطبيب أوتو بوتزل. عُيّن أستاذاً لتاريخ الطب بجامعة كومبلوتنسي بمدريد من 1942 حتى تقاعده عام 1978، وتولّى رئاسة (rector) الجامعة نفسها بين 1951 و1956 حتى أُقيل إثر اضطرابات طلابية. كان عضواً في الأكاديمية الملكية للتاريخ (منذ 1956) والأكاديمية الملكية للطب (منذ 1946)، وانتُخب عضواً في الأكاديمية الملكية الإسبانية للغة عام 1954 وترأّسها بين 1982 و1987.
 
 ## ما أعطاه
 
@@ -49,3 +49,11 @@ gaps:
 ## أهم أعماله
 
 العلاقة بين الطبيب والمريض (La relación médico-enfermo, 1964) · انتظار وأمل: تاريخ أنثروبولوجي (La espera y la esperanza, 1957) · نظرية الجسد المعيش (El cuerpo humano, 1989).
+
+## المصادر
+
+- Real Academia Española، صفحة العضو: Pedro Laín Entralgo — rae.es/academico/pedro-lain-entralgo
+- Universidad Complutense de Madrid، سيرة موجزة (ucm.es/pedro_lain_entralgo)
+- Real Academia de la Historia، محاضرة تأبينية لبيدرو لاين إنترالغو (rah.es)
+- Biblioteca Virtual Miguel de Cervantes، بوابة بيدرو لاين إنترالغو — سيرة ذاتية (cervantesvirtual.com/portales/pedro_lain_entralgo)
+- Dialnet، فهرس *La relación médico-enfermo* (Madrid: Revista de Occidente, 1964)

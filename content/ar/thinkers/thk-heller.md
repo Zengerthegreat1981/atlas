@@ -45,3 +45,15 @@ gaps:
 ## أهم أعمالها
 
 الحياة اليومية (بالمجرية 1970؛ بالإنجليزية Everyday Life, 1984) · نظرية الحاجات عند ماركس (The Theory of Need in Marx, 1976) · نظرية المشاعر (A Theory of Feelings, 1979) · ما وراء العدالة (Beyond Justice, 1987) · فلسفة الأخلاق (A Philosophy of Morals, 1990) · نظرية الحداثة (A Theory of Modernity, 1999).
+
+## الاستقبال
+
+طُردت هيلر من الحزب الشيوعي المجري وفقدت منصبها الأكاديمي في بودابست بعد انتقادها لغزو تشيكوسلوفاكيا 1968 ومساندتها لموقف مدرسة بودابست (بقيادة لوكاش) المناهض للتيار الرسمي، فهاجرت إلى أستراليا ثم إلى الولايات المتحدة، حيث خلفت حنة آرندت في كرسي الفلسفة بالمدرسة الجديدة للبحوث الاجتماعية في نيويورك. تُقرأ اليوم بوصفها إحدى أبرز الأصوات التي جسّرت بين الماركسية الإنسانية لمدرسة بودابست والفلسفة الأخلاقية والوجودية الغربية في أواخر القرن العشرين.
+
+## المصادر
+
+- Heller, Ágnes. *Everyday Life*, translated by G. L. Campbell (Routledge & Kegan Paul, 1984).
+- Heller, Ágnes. *A Theory of Feelings* (Van Gorcum, 1979).
+- Heller, Ágnes. *Beyond Justice* (Basil Blackwell, 1987).
+- Heller, Ágnes. *A Philosophy of Morals* (Basil Blackwell, 1990).
+- Heller, Ágnes. *A Theory of Modernity* (Blackwell, 1999).

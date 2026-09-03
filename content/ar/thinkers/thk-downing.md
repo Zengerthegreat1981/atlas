@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
 - id: "thk-bolen", title: "جين شينودا بولن", type: "مفكر"
-- id: "con-goddess", title: "الإلهة", type: "مفهوم"
+- id: "con-goddess", title: "أركيتيبات الإلهات والصور الداخلية", type: "مفهوم"
 gaps:
   - "لم يُوثَّق اقتباس مباشر منسوب لها بمصدر وسنة محددين."
   - "تاريخ تقاعدها (2021 تقريباً بعد 35 عاماً بمعهد باسيفيكا) غير مؤكد بدقة اليوم والشهر."
@@ -41,3 +41,10 @@ gaps:
 ## أهم أعمالها
 
 الإلهة (The Goddess، 1981) · أخوات نفسي (Psyche's Sisters، 1988) · أساطير وأسرار الحب المثلي (Myths and Mysteries of Same-Sex Love، 1989) · الرحلة الطويلة إلى الوطن (The Long Journey Home، 1994، تحرير).
+
+## المصادر
+
+- Christine Downing Papers, Online Archive of California — oac.cdlib.org/findaid/ark:/13030/c8js9w7q
+- OPUS Archives and Research Center, "The Christine Downing Collection" — opusarchives.org/christine-downing-collection
+- Jung Institute of Chicago، صفحة المحاضِرة Christine Downing, PhD — jungchicago.org/blog/speaker/downing-christine
+- بيانات النشر لأعمالها (The Goddess، 1981؛ Psyche's Sisters، 1988؛ Myths and Mysteries of Same-Sex Love، 1989؛ The Long Journey Home، 1994) عبر فهارس الناشرين (Crossroad/Continuum) وAbeBooks/WorldCat.
