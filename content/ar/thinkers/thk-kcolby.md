@@ -52,3 +52,10 @@ gaps:
 الاعتراض المنهجي على مشروع كولبي كلّه هو **مشكلة التقليد**: أن يتصرّف برنامجٌ كما يتصرّف مريض لا يعني أن آليّته هي آليّة المريض. فباري يُنتج مخرجات شبيهة، وهذا لا يثبت أن البارانويا تعمل بالطريقة التي بُرمج بها — إذ يمكن بلوغ السلوك نفسه بطرق لا حصر لها. وهذه هي الحجّة نفسها التي تُثار اليوم في تفسير سلوك نماذج اللغة الكبيرة، وقد صيغت هنا أوّل مرّة قبل خمسين سنة.
 
 ويُضاف إليه أن باري بُني على **نموذج نظري للبارانويا** (الوهم دفاعاً عن العار) لم يكن مثبتاً؛ فالبرنامج يفترض ما يُراد إثباته.
+
+## المصادر
+
+- Colby, K. M. (1975). *Artificial Paranoia: A Computer Simulation of Paranoid Processes*. Pergamon Press.
+- Colby, K. M., Hilf, F. D., Weber, S. & Kraemer, H. C. (1972). "Turing-like indistinguishability tests for the validation of a computer simulation of paranoid processes". *Artificial Intelligence*, 3, 199–221.
+- Colby, K. M. & Schank, R. C. (eds.) (1973). *Computer Models of Thought and Language*. W. H. Freeman.
+- ويكيبيديا الإنجليزية، مداخل "Kenneth Colby" و"PARRY" و"Alison Darcy" (استُخدمت للتحقق من السيرة والعلاقة بـWoebot، لا للاقتباس المباشر).

@@ -50,3 +50,8 @@ gaps:
 ## أهم أعماله
 
 *Dream Telepathy: Experiments in Nocturnal ESP* (1973، مع مونتاغيو أولمان وآلان فون) · *Personal Mythology: The Psychology of Your Evolving Self* (1988، مع ديفيد فينبرغ) · *The Mythic Path* (1997) · *Haunted by Combat: Understanding PTSD in War Veterans* (2007، مع دارِل باولز) · *Varieties of Anomalous Experience* (تحرير مشترك، 2000).
+
+## المصادر
+- Ullman, M., Krippner, S., & Vaughan, A., *Dream Telepathy: Experiments in Nocturnal ESP* (1973).
+- Psi Encyclopedia (Society for Psychical Research), مقالا "Stanley Krippner" و"Maimonides Dream Telepathy Research".
+- ويكيبيديا الإنجليزية، مادة "Stanley Krippner" (للتحقق من التواريخ الأساسية).

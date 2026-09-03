@@ -19,7 +19,7 @@ related:
 - id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
 - id: "con-sexual-difference", title: "الاختلاف الجنسي", type: "مفهوم"
 gaps:
-  - "نصوص Irigaray (Speculum of the Other Woman, This Sex Which Is Not One) تحتاج مراجعة من المصدر الأولي."
+  - "أُضيفت `## المصادر` بترجمات إنجليزية موثَّقة (Gill, Porter) للنصّين الفرنسيين الأصليين؛ النصوص الفرنسية الأصلية نفسها لم تُراجَع مباشرة هنا."
   - "لا يوجد اقتباس مباشر موثوق من *Speculum de l'autre femme* (1974) بترجمة عربية معتمدة."
   - "دُمج معه الملف المكرَّر thk-luce-irigaray (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
@@ -41,4 +41,12 @@ gaps:
 
 ## أهم أعمالها
 
-منظار المرأة الأخرى (Speculum de l'autre femme, 1974 — والعنوان يلعب على «المنظار» أداةِ الفحص النسائي وعلى «المرآة» معاً) · هذا الجنس الذي ليس واحداً (Ce sexe qui n'en est pas un, 1977) · أخلاقيات الاختلاف الجنسي (Éthique de la différence sexuelle, 1984) · أن أحبّك (J'aime à toi, 1992) · أن نولد (To Be Born, 2017).
+منظار المرأة الأخرى (Speculum de l'autre femme, 1974 — والعنوان يلعب على «المنظار» أداةِ الفحص النسائي وعلى «المرآة» معاً) · هذا الجنس الذي ليس واحداً (Ce sexe qui n'en est pas un, 1977) · أخلاقيات الاختلاف الجنسي (Éthique de la différence sexuelle, 1984) · أن أحبّك (J'aime à toi, 1992) · أن نولد: نشأة إنسان جديد (To Be Born: Genesis of a New Human Being, 2017، عن دار Palgrave Macmillan).
+
+## المصادر
+
+- Luce Irigaray, *Speculum of the Other Woman*, trans. Gillian C. Gill, Cornell University Press, 1985 (ترجمة إنجليزية لـ *Speculum de l'autre femme*, 1974).
+- Luce Irigaray, *This Sex Which Is Not One*, trans. Catherine Porter, Cornell University Press, 1985 (ترجمة إنجليزية لـ *Ce sexe qui n'en est pas un*, 1977).
+- Luce Irigaray, *To Be Born: Genesis of a New Human Being*, Palgrave Macmillan, 2017.
+- Internet Encyclopedia of Philosophy, "Luce Irigaray" (iep.utm.edu/irigaray).
+- Encyclopaedia Britannica, "Luce Irigaray".

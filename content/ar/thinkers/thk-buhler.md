@@ -42,4 +42,11 @@ gaps:
 
 ## أهم أعمالها
 
-مسار الحياة الإنسانية كمعضلة سيكولوجية (Der menschliche Lebenslauf als psychologisches Problem, 1933) · علم النفس للحياة المعاصرة (Psychology for Contemporary Living, 1968).
+مسار الحياة الإنسانية كمعضلة سيكولوجية (Der menschliche Lebenslauf als psychologisches Problem, لايبزغ: Hirzel، 1933؛ طبعة ثانية غوتنغن: Hogrefe، 1959) — أول دراسة بالألمانية تُدرج الشيخوخة ضمن أطوار العمر النفسية، وتُعدّ عملاً تأسيسياً في علم نفس الشيخوخة (Gerontopsychology) · علم النفس للحياة المعاصرة (Psychology for Contemporary Living, 1968).
+
+## المصادر
+
+- Wikipedia (EN), "Charlotte Bühler".
+- ResearchGate, ملخص "Charlotte Bühler: Der menschliche Lebenslauf als psychologisches Problem".
+- ResearchGate, "Charlotte Bühler (1893–1974): Scientific entrepreneur in developmental, clinical, and humanistic psychology".
+- zimbardo.com, "Life and Legacy of Psychologist Charlotte Bühler" — للسياق العام.

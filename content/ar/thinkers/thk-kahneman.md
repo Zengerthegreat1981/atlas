@@ -78,3 +78,16 @@ gaps:
 **وثالثاً — حدود «الانحياز».** يعترض **غيرد غيغرينتسر** منذ التسعينيات اعتراضاً منهجياً: أن كثيراً ممّا يُسمّى انحيازاً هو أثر **صياغة السؤال** لا خلل في العقل؛ فإذا عُرضت المسألة نفسها بـ**تكرارات طبيعية** (واحد من كلّ ألف) بدل النسب المئوية، اختفى جزء كبير من «الأخطاء». وأن **الاختصارات الحدسية ليست نواقص** بل أدوات اقتصادية تعمل جيداً في البيئات التي تشكّلت فيها. والنقاش بين المدرستين لم يُحسم، وهو من أخصب ما في الحقل.
 
 **ورابعاً — تطبيقات «الوكز».** أظهرت المراجعات الحديثة أن أحجام أثر تدخّلات الـnudge في السياسات العامة **أصغر بكثير** ممّا وعدت به الأدبيات الأولى، وأن جزءاً من الأثر المنشور يفسَّر بانحياز النشر.
+
+## المصادر
+
+- Kahneman, D. & Tversky, A. "Judgment under Uncertainty: Heuristics and Biases", *Science* (1974).
+- Kahneman, D. & Tversky, A. "Prospect Theory: An Analysis of Decision under Risk", *Econometrica* (1979).
+- Tversky, A. & Kahneman, D. "Extensional versus Intuitive Reasoning: The Conjunction Fallacy in Probability Judgment" (مشكلة ليندا)، *Psychological Review* (1983).
+- Kahneman, D., Slovic, P. & Tversky, A. (محررون)، *Judgment Under Uncertainty: Heuristics and Biases* (1982).
+- Tversky, A. & Kahneman, D. "Advances in Prospect Theory: Cumulative Representation of Uncertainty" (1992).
+- Kahneman, D. & Tversky, A. (محرران)، *Choices, Values, and Frames* (2000).
+- Kahneman, D. *Thinking, Fast and Slow* (2011).
+- Kahneman, D., Sibony, O. & Sunstein, C. *Noise: A Flaw in Human Judgment* (2021).
+- إعلان جائزة نوبل التذكارية في العلوم الاقتصادية 2002، الأكاديمية الملكية السويدية للعلوم.
+- تعليق كانمان العلني (2017) بشأن ضعف أدبيات التهيئة (priming) في *Thinking, Fast and Slow*.

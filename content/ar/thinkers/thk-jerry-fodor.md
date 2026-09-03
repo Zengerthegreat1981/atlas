@@ -15,13 +15,13 @@ active_end: 2017
 edges:
 - rel: "belongs_to", target: "sch-phil-mind-analytic", target_type: "مدرسة"
 gaps:
-  - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق من *The Modularity of Mind* (1983) بترجمة عربية معتمدة."
+  - "الترجمة العربية المعتمدة (إن وُجدت) لأعمال فودور لم تُراجَع؛ العناوين هنا بالإنجليزية الأصلية."
 ---
 
 # جيري فودور
 
-فيلسوف العقل واللغة وصاحب نظرية 'لغة الفكر' (Mentalese) ونظرية نمطية العقل (Modularity of Mind).
+فيلسوف عقل ولغة أمريكي، وُلد في نيويورك في 22 أبريل 1935، وحصل على البكالوريوس من جامعة كولومبيا (1956) والدكتوراه من جامعة برنستون (1960). درّس في معهد MIT (فلسفة وعلم نفس) حتى 1986، ثم في مركز الدراسات العليا بجامعة مدينة نيويورك (CUNY) حتى 1988، ثم انتقل إلى جامعة روتجرز حيث بقي أستاذاً حتى تقاعده عام 2016. تُوفي في نيويورك في 29 نوفمبر 2017. صاحب نظرية 'لغة الفكر' (Mentalese) ونظرية نمطية العقل (Modularity of Mind).
 
 ## ما أعطاه
 
@@ -40,6 +40,21 @@ gaps:
 
 - *The Language of Thought* (1975).
 - *The Modularity of Mind* (1983).
-- *Psychosemantics* (1987).
+- *Psychosemantics* (1987): طوّر فيه نظرية الدلالة السببية-المعلوماتية و«الاعتماد اللامتناظر».
 - *Concepts: Where Cognitive Science Went Wrong* (1998).
-- *The Mind Doesn't Work That Way* (2000).
+- *The Mind Doesn't Work That Way* (2000): ردّه على علم النفس التطوري (بينكر خصوصاً).
+- *LOT 2: The Language of Thought Revisited* (2008): مراجعة وتوسيع متأخر لأطروحته الأصلية.
+- *What Darwin Got Wrong* (2010، مع ماسيمو بيياتيلي-بالمريني): نقد لآلية الانتقاء الطبيعي أثار جدلاً واسعاً بين الفلاسفة وعلماء الأحياء التطوريين.
+
+## المصادر
+
+- Fodor, J. *The Language of Thought* (1975).
+- Fodor, J. *The Modularity of Mind* (1983).
+- Fodor, J. *Psychosemantics* (1987).
+- Fodor, J. & Pylyshyn, Z. "Connectionism and Cognitive Architecture: A Critical Analysis" (1988).
+- Fodor, J. *Concepts: Where Cognitive Science Went Wrong* (1998).
+- Fodor, J. *The Mind Doesn't Work That Way* (2000).
+- Fodor, J. *LOT 2: The Language of Thought Revisited* (2008).
+- Fodor, J. & Piattelli-Palmarini, M. *What Darwin Got Wrong* (2010).
+- Rutgers University, "Obituary: Jerry Fodor, Rutgers University Philosopher, Pioneer of Cognitive Science" (2017).
+- Internet Encyclopedia of Philosophy, "Fodor, Jerry".
