@@ -17,7 +17,7 @@ edges:
 related:
 - id: "br-case-management", title: "إدارة الحالات", type: "تيار"
 - id: "thk-mharris", title: "ماكسين هاريس", type: "مفكر"
-- id: "thk-rdrake", title: "روبرت دريك", type: "مفكر"
+- id: "thk-rdrake", title: "روبرت إي. دريك", type: "مفكر"
 - id: "thk-brapp", title: "تشارلز راب", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
@@ -44,3 +44,9 @@ gaps:
 
 - *Making Recovery a Reality* (2008، مع جِد بوردمان ومايك سليد).
 - *Implementing Recovery through Organisational Change: A Methodology for Organisational Change* (2010، مع بوردمان وبيرتش).
+
+## المصادر
+
+- [Making Recovery a Reality (Shepherd, Boardman & Slade, 2008) — Sainsbury Centre for Mental Health / ImROC](https://www.imroc.org/s/Making_recovery_a_reality_policy_paper.pdf)
+- [ImROC — Making Recovery a Reality in Forensic Settings](https://www.imroc.org/publications/making-recovery-a-reality-in-forensic-settings)
+- [Becoming a recovery-oriented practitioner — Advances in Psychiatric Treatment (Cambridge Core)](https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/becoming-a-recoveryoriented-practitioner/DC1F62EBE4914759EEFC9219025C6EFA)

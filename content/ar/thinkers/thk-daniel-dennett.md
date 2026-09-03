@@ -49,3 +49,10 @@ gaps:
 - *Darwin's Dangerous Idea* (1995).
 - *Freedom Evolves* (2003).
 - *From Bacteria to Bach and Back* (2017).
+
+## المصادر
+
+- [Daniel Dennett — Wikipedia](https://en.wikipedia.org/wiki/Daniel_Dennett)
+- [Daniel C. Dennett, philosopher and evolution enthusiast, dies at 82 — NCSE](https://ncse.ngo/daniel-c-dennett-philosopher-and-evolution-enthusiast-dies-82)
+- [Daniel Dennett, philosopher who explored science of the mind, dies at 82 — The Washington Post](https://www.washingtonpost.com/obituaries/2024/04/20/daniel-dennett-philosopher-dies/)
+- [Daniel C. Dennett (1942-2024) — Philosophy Now](https://philosophynow.org/issues/162/Daniel_C_Dennett_1942-2024)

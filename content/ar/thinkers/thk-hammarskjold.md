@@ -16,7 +16,7 @@ part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-- id: "thk-mbuber", title: "مارتن بوبر", type: "مفكر"
+- id: "thk-mbuber", title: "مارتن بُبَر", type: "مفكر"
 - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 - id: "con-death", title: "الموت", type: "مفهوم"
@@ -43,3 +43,14 @@ gaps:
 ## أهم أعماله
 
 علامات على الطريق (Vägmärken / Markings، نُشر بعد وفاته عام 1963 مع مقدمة و. هـ. أودن).
+
+## سيرة موجزة
+
+وُلد داغ همرشولد في 29 يوليو 1905 في مدينة يونشوبينغ (Jönköping) بالسويد، لأسرة عريقة (والده كان رئيساً لوزراء السويد). تولى منصب الأمين العام الثاني للأمم المتحدة من 10 أبريل 1953 حتى وفاته. قُتل في 18 سبتمبر 1961 عندما تحطمت طائرته من طراز دوغلاس DC-6 (رمزها SE-BDY) قرب مدينة نْدولا في روديسيا الشمالية (زامبيا حالياً)، وهو في طريقه للتفاوض على وقف إطلاق النار في أزمة الكونغو؛ ظلت ملابسات الحادث موضع تحقيقات وشكوك حول تخريب محتمل حتى بعد عقود. مُنح جائزة نوبل للسلام بعد وفاته في العام نفسه (1961).
+
+## المصادر
+
+- الأمم المتحدة، الأمناء العامون السابقون: [un.org/sg/en/former-sg/dag-hammarskjold](https://www.un.org/sg/en/former-sg/dag-hammarskjold)
+- الأمم المتحدة، السيرة الكاملة: [un.org/sg/en/content/dag-hjalmar-agne-carl-hammarskjold](https://www.un.org/sg/en/content/dag-hjalmar-agne-carl-hammarskjold)
+- أرشيف الأمم المتحدة، وفاة همرشولد: [archives.un.org/en/content/death-dag-hammarskjold](https://archives.un.org/en/content/death-dag-hammarskjold)
+- أخبار الأمم المتحدة (2024)، استمرار الغموض حول وفاته بعد 63 عاماً: [news.un.org/en/story/2024/10/1155876](https://news.un.org/en/story/2024/10/1155876)

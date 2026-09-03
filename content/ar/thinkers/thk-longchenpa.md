@@ -43,3 +43,11 @@ gaps:
 - *Ngal gso skor gsum* (ثلاثية الراحة).
 - *Theg mchog mdzod* (مستودع المركبة العليا).
 - *Chos dbyings mdzod* (مستودع مجال الحقيقة).
+
+## المصادر
+
+- Encyclopedia Britannica, "Longchenpa" — https://www.britannica.com/biography/Longchenpa
+- Rangjung Yeshe Wiki (Dharma Dictionary), "Longchenpa" — https://rywiki.tsadra.org/index.php/Longchenpa
+- Lotsawa House, "Seven Treasuries Series" — https://www.lotsawahouse.org/topics/seven-treasuries/
+- Wikipedia, "Longchenpa" — https://en.wikipedia.org/wiki/Longchenpa
+- Wikipedia, "Seven Treasuries" — https://en.wikipedia.org/wiki/Seven_Treasuries

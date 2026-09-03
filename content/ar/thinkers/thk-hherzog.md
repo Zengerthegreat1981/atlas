@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
 related:
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
-- id: "thk-james", title: "وليام جيمس", type: "مفكر"
+- id: "thk-james", title: "وليم جيمس", type: "مفكر"
 gaps:
   - "الاسم في السجل الأصلي ورد بصيغة مختصرة 'F. Herzog'؛ البحث لم يؤكد وجود شخص بهذا الاسم في هذا الحقل، بينما وجد بثقة عالية عالم النفس الألماني ماكس هرتسوغ (Max Herzog) العامل في نفس الحقل بالضبط، فتم تصحيح الاسم إليه."
   - "لا تتوفر تفاصيل موثقة كافية عن سيرته الأكاديمية الكاملة أو تاريخ ميلاده."
@@ -32,4 +32,11 @@ gaps:
 
 ## أهم أعماله
 
-«المعنى والخبرة: المناهج الظاهراتية في العلوم الإنسانية» (Sinn und Erfahrung: Phänomenologische Methoden in den Humanwissenschaften, 1991، تحرير مع كارل فريدريش غراومان) · مقالات حول أثر وليم جيمس في نشأة علم النفس الظاهراتي في أوروبا.
+- «المعنى والخبرة: المناهج الظاهراتية في العلوم الإنسانية» (Sinn und Erfahrung: Phänomenologische Methoden in den Humanwissenschaften، دار Asanger، 1991، تحرير مشترك مع كارل فريدريش غراومان، 354 صفحة) — يجمع ممثلين بارزين للاتجاه الظاهراتي في مواجهة أزمة العلوم الإنسانية المعاصرة.
+- «علم النفس الظاهراتي» (Phänomenologische Psychologie، دار Asanger، 1992).
+
+## المصادر
+
+- Semantic Scholar، صفحة الكتاب: [semanticscholar.org/paper/c9f7010075143cac108277022ae2af1977b30216](https://www.semanticscholar.org/paper/c9f7010075143cac108277022ae2af1977b30216)
+- دار Asanger، عرض الكتاب: [asanger.de/titeluebersicht/forschunglehre/sinnunderfahrung.php](https://www.asanger.de/titeluebersicht/forschunglehre/sinnunderfahrung.php)
+- Amazon.de، بيانات النشر والمؤلفَين: [amazon.de/Sinn-Erfahrung-Phänomenologische-Methoden-Humanwissenschaften/dp/3893341838](https://www.amazon.de/Sinn-Erfahrung-Ph%C3%A4nomenologische-Methoden-Humanwissenschaften/dp/3893341838)

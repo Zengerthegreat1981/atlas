@@ -45,3 +45,10 @@ gaps:
 ## أهم أعمالها
 
 الفهم العاطفي (1995) · البين-ذاتية (العقد الأول من القرن الحادي والعشرين، مع ستولورو وأتوود) · الكرم (العقد الثاني من القرن الحادي والعشرين) · التماسك في التحليل النفسي (العقد الثاني من القرن الحادي والعشرين).
+
+## المصادر
+
+- Journal listing, "Hermeneutics, Intersubjectivity Theory, and Psychoanalysis" (Orange, Stolorow, Atwood, 1998) — https://journals.sagepub.com/doi/abs/10.1177/00030651980460020705
+- Routledge, "Working Intersubjectively: Contextualism in Psychoanalytic Practice" (Orange, Atwood, Stolorow) — https://www.routledge.com/Working-Intersubjectively-Contextualism-in-Psychoanalytic-Practice/Orange-Atwood-Stolorow/p/book/9780881633603
+- Institute for the Psychoanalytic Study of Subjectivity (IPSS), صفحة أعضاء هيئة التدريس — https://ipsspsychoanalysis.org
+- Guilford Press, "Emotional Understanding: Studies in Psychoanalytic Epistemology" (Donna M. Orange, 1995)

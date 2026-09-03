@@ -33,3 +33,9 @@ gaps:
 ## أهم أعماله
 
 الفكر الوجودي والممارسة العلاجية: مدخل إلى العلاج النفسي الوجودي (Existential Thought and Therapeutic Practice, 1997) · هايدجر وجذور العلاج الوجودي (Heidegger and the Roots of Existential Therapy, 2002).
+
+## المصادر
+
+- [Hans W. Cohn (obituary), Nicola Diamond, 2004 — SAGE Journals](https://journals.sagepub.com/doi/abs/10.1177/0533316404051137) (ولد في بريسلاو 4 مارس 1916، توفي في لندن 22 يناير 2004)
+- [Existential Thought and Therapeutic Practice — AbeBooks/Amazon listing](https://www.amazon.com/Existential-Thought-Therapeutic-Practice-Hans/dp/0761951091)
+- [Heidegger and the Roots of Existential Therapy — PhilPapers](https://philpapers.org/rec/COHHAT)

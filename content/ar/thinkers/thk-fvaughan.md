@@ -43,3 +43,10 @@ gaps:
 - *The Inward Arc: Healing and Wholeness in Psychotherapy and Spirituality* (1985).
 - *Paths Beyond Ego: The Transpersonal Vision* (1993، تحرير مع زوجها روجر والش) — المختارات التي عرّفت الحقل لجيل كامل.
 - *Shadows of the Sacred: Seeing Through Spiritual Illusions* (1995).
+
+## المصادر
+
+- [Frances Vaughan Transpersonal Pioneer 1935-2017 — Roger Walsh, Journal of Transpersonal Psychology](https://www.questia.com/library/journal/1P4-2052770694/frances-vaughan-transpersonal-pioneer-1935-2017)
+- [Awakening Intuition with Frances Vaughan (1935–2017) — New Thinking Allowed Foundation](https://newthinkingallowed.org/awakening-intuition-with-frances-vaughan-1935-2017/)
+- [Awakening Intuition — Frances E. Vaughan, Google Books](https://books.google.com/books/about/Awakening_Intuition.html?id=2LahTXaAHcoC)
+- [Frances Vaughan — FindCenter](https://www.findcenter.com/teachers/frances-vaughan)

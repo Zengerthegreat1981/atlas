@@ -46,3 +46,10 @@ gaps:
 ## الأثر
 
 أثّر لويس في فلسفة اللغة (ستالنيكر)، وفي منطق الشرطيات، وفي فلسفة الاحتمال عبر «المبدأ الرئيس» (Principal Principle).
+
+## المصادر
+
+- [David Lewis (philosopher) — ويكيبيديا الإنجليزية](https://en.wikipedia.org/wiki/David_Lewis_(philosopher))
+- [David Lewis — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/david-lewis/)
+- [David Lewis (1941-2001) — Philosophy Now](https://philosophynow.org/issues/34/David_Lewis_1941-2001)
+- [New work for a theory of universals — Australasian Journal of Philosophy, vol. 61, no. 4 (1983)](https://www.tandfonline.com/doi/abs/10.1080/00048408312341131)

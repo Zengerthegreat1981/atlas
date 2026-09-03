@@ -41,4 +41,10 @@ gaps:
 
 ## أهم أعماله
 
-أوراق في التحليل النفسي (Papers on Psychoanalysis, 1980) · التسامي: بحث في التحليل النفسي (Sublimation, 1988) · التحليل النفسي وتاريخ النفس (Psychoanalysis and the History of the Individual, 1978).
+أوراق في التحليل النفسي (Papers on Psychoanalysis, 1980) · التسامي: بحث في التحليل النفسي (Sublimation: Inquiries into Theoretical Psychoanalysis, 1988) · التحليل النفسي وتاريخ النفس (Psychoanalysis and the History of the Individual, 1978).
+
+## المصادر
+
+- [Hans Loewald — Wikipedia](https://en.wikipedia.org/wiki/Hans_Loewald)
+- [Collection: Hans W. Loewald papers — Yale University Archives](https://archives.yale.edu/repositories/12/resources/3738)
+- [Sublimation: Inquiries Into Theoretical Psychoanalysis (Yale University Press, 1988) — PEP-Web](https://pep-web.org/search/document/PSAR.078.0475A)

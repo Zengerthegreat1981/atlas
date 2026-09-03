@@ -18,7 +18,7 @@ related:
 - id: "thk-francine-shapiro", title: "فرانسين شابيرو", type: "مفكر"
 - id: "thk-foa", title: "إدنا ب. فوا", type: "مفكر"
 - id: "thk-dgrand", title: "ديفيد غراند", type: "مفكر"
-- id: "thk-lrosenzweig", title: "لانا روزنغر", type: "مفكر"
+- id: "thk-lrosenzweig", title: "لايني روزنزويغ", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
@@ -36,3 +36,10 @@ gaps:
 ## موقعه من التيار
 
 يعدّ غرينوالد من الجيل الثاني من مطوّري علاجات الصدمة المعتمدة على التعرض، وأثّر في تطوير المعالجات الأسرع والأقل إجهاداً لكل من المرضى والمعالجين.
+
+## المصادر
+
+- [Ricky Greenwald - Wikipedia](https://en.wikipedia.org/wiki/Ricky_Greenwald)
+- [Progressive counting - Wikipedia](https://en.wikipedia.org/wiki/Progressive_counting)
+- [Dr. Ricky Greenwald | Trauma Institute](https://www.ticti.org/about-us/dr-ricky-greenwald/)
+- [Greenwald, R. (2008). Progressive Counting for Trauma Resolution: Three Case Studies. Journal of Evidence-Based Social Work.](https://journals.sagepub.com/doi/10.1177/1534765608319081)

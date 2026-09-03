@@ -17,7 +17,7 @@ related:
 - id: "wrk-dopamine-nation", title: "أمة الدوبامين: إيجاد التوازن في عصر الإفراط", type: "عمل / كتاب"
 - id: "con-pleasure", title: "اللذة", type: "مفهوم"
 - id: "con-adaptation", title: "التكيُّف", type: "مفهوم"
-- id: "syn-craving-urge", title: "الرغبة الشديدة والإلحاح الإدماني", type: "متلازمة"
+- id: "syn-craving-urge", title: "الرغبة الملحّة (craving)", type: "متلازمة"
 gaps:
   - "التفريق الدقيق بين بروتوكولات الصيام الدوباميني الشعبية والتطبيقات الإكلينيكية لطب الإدمان يحتاج مزيداً من التوثيق."
   - "الأبحاث السريرية لليمبكي حول وباء الأفيونات في الولايات المتحدة تتطلب توسيعاً بيبليوغرافياً."
@@ -46,3 +46,10 @@ gaps:
 
 - *Drug Dealer, MD: How Doctors Were Duped, Patients Got Hooked, and Why It's So Hard to Stop* (2016)
 - *Dopamine Nation: Finding Balance in the Age of Indulgence* (2021)
+
+## المصادر
+
+- Anna Lembke — ويكيبيديا (بالإنجليزية): https://en.wikipedia.org/wiki/Anna_Lembke
+- الصفحة الرسمية للدكتورة ليمبكي: https://www.annalembke.com/about
+- ملفها في Stanford Profiles: https://profiles.stanford.edu/anna-lembke
+- صفحتها في Stanford Network on Addiction Policy: https://addictionpolicy.stanford.edu/people/anna-lembke

@@ -41,3 +41,10 @@ gaps:
 ## أهم أعماله
 
 الأنا والأركيتيب (Ego and Archetype, 1972) · الأنا والذات: أنبياء العهد القديم (Ego and Self: The Old Testament Prophets) · النفس في العصور القديمة (The Psyche in Antiquity) — نُشر بعد وفاته عام 1999.
+
+## المصادر
+
+- [Edward F. Edinger — ويكيبيديا الإنجليزية](https://en.wikipedia.org/wiki/Edward_F._Edinger)
+- [In Memoriam: Edward F. Edinger, 1922-1998 — Carl Jung Depth Psychology Site](https://carljungdepthpsychologysite.blog/2021/09/21/edinger-4/)
+- [Edward F. Edinger — C. G. Jung Study Center of Southern California](https://www.jungstudycenter.org/edward-f-edinger/)
+- [Ego and Archetype — Goodreads](https://www.goodreads.com/book/show/180671.Ego_and_Archetype)

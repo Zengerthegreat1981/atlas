@@ -38,3 +38,10 @@ gaps:
 ## أهم الأعمال
 
 - *Zhuangzi zhu* (شرح تشوانغ تسي) — الشرح القياسي والنصّ المتداول.
+
+## المصادر
+
+- [Guo Xiang - Wikipedia](https://en.wikipedia.org/wiki/Guo_Xiang)
+- [Xiang, Guo | Internet Encyclopedia of Philosophy](https://iep.utm.edu/guoxiang/)
+- [Neo-Daoism — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/neo-daoism/)
+- [Guo Xiang - New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Guo_Xiang)

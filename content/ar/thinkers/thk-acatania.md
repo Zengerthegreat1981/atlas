@@ -15,7 +15,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
-- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 - id: "thk-cferster", title: "تشارلز فيرستر", type: "مفكر"
 - id: "thk-rherrnstein", title: "ريتشارد سيرنشتاين", type: "مفكر"
 - id: "con-matching-law", title: "قانون التطابق", type: "مفهوم"
@@ -42,3 +42,9 @@ gaps:
 ## أهم أعماله
 
 التعلّم (1979) · (مقالات في J. Exp. Anal. Behav.).
+
+## المصادر
+
+- A. Charles Catania — ويكيبيديا (بالإنجليزية): https://en.wikipedia.org/wiki/A._Charles_Catania
+- A. Charles Catania, Ph.D. — الصفحة الرسمية، قسم علم النفس، UMBC: https://psychology.umbc.edu/people-2/emeritus-faculty/catania/
+- السيرة الذاتية الرسمية (CV)، يناير 2025 — UMBC: https://psychology.umbc.edu/wp-content/uploads/sites/57/2025/01/2025Jan-cv-acc.pdf

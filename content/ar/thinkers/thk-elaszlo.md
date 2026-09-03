@@ -6,24 +6,23 @@ level: "متوسط"
 title: "إرفين لازلو"
 en: "Ervin Laszlo"
 crumb: "النظرية العامة للأنظمة ← نظرية النظم التطورية ← إرفين لازلو"
-dates: "هنغاريا/إيطاليا · 1932–"
+dates: "هنغاريا/إيطاليا · 1932–2026"
 country: "إيطاليا"
 language: "الإنجليزية"
 active_start: 1966
-active_end: "مستمر"
+active_end: 2026
 part: "philosophy"
 edges:
 - rel: "belongs_to", target: "br-general-systems-cybernetics", target_type: "تيار"
 related:
 - id: "thk-lbertalanffy", title: "لودفيغ فون برتالانفي", type: "مفكر"
 gaps:
-  - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من *The Systems View of the World* (1972) بترجمة عربية معتمدة."
 ---
 
 # إرفين لازلو
 
-فيلسوف وعالم منظومات هنغاري-أمريكي، يُعدّ من أهم من طوّر "نظرية النظم التطورية" (General Evolution Research) ومؤسس Club of Budapest.
+فيلسوف وعالم منظومات هنغاري-أمريكي (حمل الجنسية الأمريكية وأقام لعقود في توسكانا بإيطاليا)، يُعدّ من أهم من طوّر "نظرية النظم التطورية" (General Evolution Research) ومؤسس Club of Budapest. وُلد في بودابست في 12 يونيو 1932، وتوفي في 29 يونيو 2026 في مدينة تشيتشينا (Cecina) بإيطاليا عن عمر ناهز 94 عاماً.
 
 ## ما أعطاه
 
@@ -40,3 +39,10 @@ gaps:
 - *Introduction to Systems Philosophy* (1972).
 - *The Systems View of the World* (1972).
 - *The Connectivity Hypothesis* (2003).
+
+## المصادر
+
+- [Ervin László — ويكيبيديا الإنجليزية](https://en.wikipedia.org/wiki/Ervin_L%C3%A1szl%C3%B3)
+- [Ervin Laszlo — Wikidata](https://www.wikidata.org/wiki/Q964137)
+- [Remembering Our Beloved Friend, Dr. Ervin Laszlo — Goi Peace Foundation](https://www.goipeace.or.jp/en/news/20260703/)
+- [Ervin Laszlo — The Club of Budapest](https://www.clubofbudapest.com/ervin-laszlo)

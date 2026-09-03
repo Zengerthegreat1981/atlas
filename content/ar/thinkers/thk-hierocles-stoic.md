@@ -42,5 +42,13 @@ gaps:
 
 ## أهم الأعمال
 
-- *عناصر الأخلاق* (Elements of Ethics) — بردية اكتُشفت في هيرمُوبوليس ونُشرت 1901.
-- شذرات في الواجبات محفوظة في *مختارات* ستوبايوس.
+- *عناصر الأخلاق* (Ἠθικὴ στοιχείωσις / Elements of Ethics) — محفوظة جزئياً على بردية برلين رقم 9780 (Papyrus Berolinensis 9780)، اكتُشفت على الأرجح قرب هيرمُوبوليس في مصر ونُشرت أول مرة سنة 1901.
+- رسالة *في الواجبات* (On Duties/Appropriate Acts) — لم تصل كاملة، بل عبر شذرات واقتباسات جمعها يوحنا ستوبايوس (Stobaeus) في القرن الخامس الميلادي ضمن *مختاراته* (Anthology).
+- طبعة نقدية حديثة مع ترجمة إنجليزية: Ilaria Ramelli (ed./trans.), *Hierocles the Stoic: Elements of Ethics, Fragments, and Excerpts*, Society of Biblical Literature, 2009.
+
+## المصادر
+
+- [Hierocles (Stoic) — Wikipedia](https://en.wikipedia.org/wiki/Hierocles_(Stoic))
+- [Oikeiôsis — Wikipedia](https://en.wikipedia.org/wiki/Oikei%C3%B4sis)
+- [Hierocles' Concentric Circles — Oxford Studies in Ancient Philosophy](https://academic.oup.com/book/46592/chapter/409999353)
+- [Hierocles the Stoic: Elements of Ethics, Fragments and Excerpts — Bryn Mawr Classical Review](https://bmcr.brynmawr.edu/2012/2012.03.04/)

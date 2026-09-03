@@ -19,7 +19,7 @@ related:
 - id: "thk-gmesibov", title: "غاري ميسيبوف", type: "مفكر"
 - id: "br-teacch", title: "TEACCH", type: "تيار"
 - id: "thk-cwhitaker-pt", title: "جون مارش", type: "مفكر"
-- id: "thk-fkfu", title: "ف. كي. فو", type: "مفكر"
+- id: "thk-fkfu", title: "فرانك هـ. فو", type: "مفكر"
 - id: "thk-jroddy", title: "ج. لوك ويلز", type: "مفكر"
 gaps:
   - "سنوات الميلاد والوفاة لم تُراجع من مصدر أولي."
@@ -49,3 +49,10 @@ gaps:
 
 - *Individualized Assessment and Treatment for Autistic and Developmentally Disabled Children* (1980، مع إريك شوبلر) — المرجع التأسيسي للبرنامج.
 - *Psychoeducational Profile* (PEP) — أداة التقييم التي وضعها مع شوبلر وصارت أساس تخطيط التدخّل في TEACCH.
+
+## المصادر
+
+- [Robert J. Reichler — Autism Nonfiction Books](http://www.autism-resources.com/nonfictionauthors/RobertJReichler.html)
+- [Eric Schopler — Wikipedia](https://en.wikipedia.org/wiki/Eric_Schopler)
+- [The Origins and History of the TEACCH Program — SpringerLink](https://link.springer.com/chapter/10.1007/978-0-306-48647-0_1)
+- [Psychoeducational Profile — ERIC](https://eric.ed.gov/?id=ED131090)

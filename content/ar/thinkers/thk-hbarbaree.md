@@ -34,10 +34,17 @@ gaps:
 
 ## موقعه من التيار
 
-يُعدّ بارباري من الجيل الثاني لأبحاث SOTP، ويربط بين الأبحاث الأكاديمية الكندية والتطبيق في المؤسسات الإصلاحية.
+يُعدّ بارباري من الجيل الثاني لأبحاث SOTP، ويربط بين الأبحاث الأكاديمية الكندية والتطبيق في المؤسسات الإصلاحية. درّس في جامعة كوينز (Queen's University) من 1980 حتى 1993 (نال رتبة أستاذ كامل عام 1990)، ثم انتقل ليرأس برنامج القانون والصحة النفسية في قسم الطب النفسي بجامعة تورنتو والمدير السريري لنفس البرنامج في مركز الإدمان والصحة النفسية (CAMH) بتورنتو من 1993 إلى 2009. تولى رئاسة تحرير مجلة *Sexual Abuse: A Journal of Research and Treatment* بدءاً من 2004 لأربع سنوات. حالياً أستاذ فخري (Professor Emeritus) في جامعة تورنتو، ونائب رئيس البحث والشؤون الأكاديمية في مركز Waypoint للصحة النفسية في أونتاريو. حاز جائزة الإنجاز البارز من رابطة علاج مرتكبي الاعتداء الجنسي (ATSA) عام 2000، وجائزة Don Andrews للمساهمة المهنية من الجمعية الكندية لعلم النفس عام 2011.
 
 ## أهم أعماله
 
 - *Handbook of Sexual Assault: Issues, Theories, and Treatment of the Offender* (1990، تحرير مع وليام مارشال ودونالد لوز) — المرجع المؤسِّس للحقل.
 - *The Juvenile Sex Offender* (الطبعة الثانية 2006، تحرير مع وليام مارشال).
 - *The Causes of Rape: Understanding Individual Differences* (1991، مع مارشال ولوز).
+
+## المصادر
+
+- مركز Waypoint للصحة النفسية، السيرة الرسمية: [waypointcentre.ca/personnel/dr-howard-barbaree](https://www.waypointcentre.ca/personnel/dr-howard-barbaree)
+- ResearchGate، الملف الأكاديمي: [researchgate.net/profile/Howard-Barbaree](https://www.researchgate.net/profile/Howard-Barbaree)
+- Google Scholar، سجل الاستشهادات: [scholar.google.com/citations?user=55K2WjsAAAAJ](https://scholar.google.com/citations?hl=en&user=55K2WjsAAAAJ)
+- Guilford Press، صفحة المؤلف: [cms.guilford.com/author/Howard-E-Barbaree](https://www.cms.guilford.com/author/Howard-E-Barbaree)
