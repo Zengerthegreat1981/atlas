@@ -50,3 +50,12 @@ gaps:
 ## اقتباسات مختارة
 
 «لولا فكرة الانتحار لكنتُ قتلتُ نفسي منذ زمن بعيد» — مثالب الولادة (De l'inconvénient d'être né)، 1973
+
+## المصادر
+
+- Cioran, E. M. *Pe culmile disperării* [على مرتفعات اليأس]. Bucharest, 1934.
+- Cioran, E. M. *Précis de décomposition*. Paris: Gallimard, 1949.
+- Cioran, E. M. *De l'inconvénient d'être né*. Paris: Gallimard, 1973.
+- Cioran, E. M. *Histoire et utopie*. Paris: Gallimard, 1960.
+- Cioran, E. M. *Aveux et anathèmes*. Paris: Gallimard, 1987.
+- Zarifopol-Johnston, Ilinca (trans.). *On the Heights of Despair*. Chicago: University of Chicago Press, 1992.

@@ -43,3 +43,11 @@ gaps:
 ## الأثر
 
 أثّر غودمان في فلسفة الفنّ التحليلية (**آرثر دانتو**، **جورج ديكي**)، وفي فلسفة العلم (**ماري هيسه**، **باس فان فراسن**)، وفي نظرية المعرفة عبر «اللغز الجديد» الذي صار — مع مشكلة هيوم — أحد نصّي الاستقراء المرجعيّين. وأطروحته في «طرق صنع العالم» أن **العوالم تُصنَع بالنسخ لا تُكتشف** جعلته مرجعاً في نقاشات النسبية المفهومية.
+
+## المصادر
+
+- Goodman, Nelson. *Fact, Fiction, and Forecast*. Harvard University Press, 1955.
+- Goodman, Nelson. *Languages of Art: An Approach to a Theory of Symbols*. Bobbs-Merrill, 1968.
+- Goodman, Nelson. *Ways of Worldmaking*. Hackett, 1978.
+- Goodman, Nelson. *The Structure of Appearance*. Harvard University Press, 1951.
+- مدخل «Nelson Goodman» في Stanford Encyclopedia of Philosophy (للسيرة والببليوغرافيا العامة؛ لم تُستخدم لاقتباس مباشر).

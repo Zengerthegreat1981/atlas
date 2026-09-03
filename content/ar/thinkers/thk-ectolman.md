@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
 - id: "thk-clhull", title: "كلارك هال", type: "مفكر"
-- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 - id: "thk-jwatson", title: "جون ب. واتسون", type: "مفكر"
 - id: "con-cognitive-map", title: "الخريطة المعرفية", type: "مفهوم"
 - id: "stu-tolman-cognitive-maps", title: "دراسة إدوارد تولمان للخرائط المعرفية والتعلم الكامن (1948)", type: "دراسة وبحث"
@@ -40,6 +40,15 @@ gaps:
 ## القيد
 تعرّض لانتقادات من أنصار نموذج المثير-الاستجابة (ومنهم غوثري الذي وصف فئرانه بأنها "غارقة في التفكير")، لكنه أثّر لاحقاً في علم النفس المعرفي، بعدما بدا لعقدين وكأنه إيذان بأفول السلوكية.
 
+## موقف سياسي: يمين قسم الولاء
+عام 1950 رفض تولمان التوقيع على "قسم الولاء" (Loyalty Oath) الذي فرضته إدارة جامعة كاليفورنيا على أعضاء هيئة التدريس في أجواء المكارثية، فأُقيل من منصبه مع عدد من زملائه؛ رفعوا قضية أمام محكمة كاليفورنيا العليا التي حكمت لاحقاً (1952) بعدم دستورية القسم وأعادتهم إلى مناصبهم. سُمّي أحد مباني علم النفس في بيركلي (Tolman Hall) تكريماً له لاحقاً.
+
 ## أهم أعماله
 
 السلوك الغائي (1932) · خرائط معرفية في الفئران والإنسان (1948) · «مبادئ الأداء» (مقالة في Psychological Review، 1955) · أوراق مختارة (1951).
+
+## المصادر
+- Tolman, E. C. (1932). *Purposive Behavior in Animals and Men*.
+- Tolman, E. C. (1948). "Cognitive Maps in Rats and Men". *Psychological Review*, 55(4).
+- Tolman, E. C. (1955). "Principles of Performance". *Psychological Review*, 62(5).
+- Innis, N. K. (1992). "Tolman and Tryon: Early research on the inheritance of the ability to learn". *American Psychologist*.

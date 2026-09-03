@@ -41,3 +41,8 @@ gaps:
 - *William James on Exceptional Mental States: The 1896 Lowell Lectures* (1983) — إعادة بنائه لمحاضرات جيمس الضائعة عن الحالات الذهنية الاستثنائية.
 - *William James on Consciousness Beyond the Margin* (1996).
 - *Shadow Culture: Psychology and Spirituality in America* (1999).
+
+## المصادر
+- Taylor, E. (1983). *William James on Exceptional Mental States: The 1896 Lowell Lectures*.
+- Taylor, E. (1996). *William James on Consciousness Beyond the Margin*.
+- Taylor, E. (1999). *Shadow Culture: Psychology and Spirituality in America*.

@@ -14,7 +14,7 @@ language: "الإنجليزية"
 part: "psychology"
 edges: []
 related:
-- id: "thk-donaldatkinson", title: "دونالد أتكينسون", type: "مفكر"
+- id: "thk-donaldatkinson", title: "دونالد ر. أتكينسون", type: "مفكر"
 - id: "thk-frederickleong", title: "فريديريك ليونغ", type: "مفكر"
 - id: "thk-janethelms", title: "جانيت هيلمز", type: "مفكر"
 gaps:
@@ -41,4 +41,10 @@ gaps:
 
 ## أهم أعماله
 
-كتاب "الاستشارة عبر الثقافات" (Counseling Across Cultures) الذي حرره بالاشتراك مع بول بيدرسن، إلى جانب عشرات المقالات الأكاديمية حول الاستشارة الحساسة ثقافياً للسكان الأصليين الأمريكيين.
+كتاب "الاستشارة عبر الثقافات" (Counseling Across Cultures) الذي حرره بالاشتراك مع بول بيدرسن (Paul Pedersen)، إلى جانب عشرات المقالات الأكاديمية حول الاستشارة الحساسة ثقافياً للسكان الأصليين الأمريكيين. عمله يندرج ضمن الحقل الأوسع لعلم النفس متعدد الثقافات (multicultural counseling)، وهو أستاذ فخري بجامعة واشنطن الغربية (Western Washington University).
+
+## المصادر
+
+- Pedersen, Paul B., Trimble, Joseph E., et al. (eds.). *Counseling Across Cultures*. Sage Publications (طبعات متعددة).
+- صفحة السيرة الأكاديمية لجوزيف ترايمبل، قسم علم النفس، جامعة واشنطن الغربية (Western Washington University).
+- ملاحظة: لم تُتحقَّق عناوين مقالاته الفردية أو تواريخ نشرها بدقة كافية للاستشهاد المباشر؛ انظر `gaps`.

@@ -44,7 +44,7 @@ gaps:
   6. تَغيير السياسة الاقتصادية.
   7. تَغيير ثقافي.
   8. تَغيير سكاني طوعي.
-- ألّف *Ecology, Community and Lifestyle* (1989) و*Life's Philosophy* (2002).
+- ألّف *Ecology, Community and Lifestyle* (نسخة كامبريدج الإنجليزية المنقَّحة 1989، ترجمة وتحرير ديفيد روثنبرغ عن الأصل النرويجي *Økologi, samfunn og livsstil*، أوسلو 1976 — راجع `wrk-ecology-community-lifestyle` للتفصيل) و*Life's Philosophy* (2002).
 
 ## موقعه من التيار
 
@@ -57,3 +57,10 @@ gaps:
 - أسّس **حركة الإيكولوجيا العميقة** الدولية.
 - أثّر في **Earth First!** (تأسست 1980) وفي النقاش البيئي الفلسفي عموماً؛ وقد جُمعت مختاراته لاحقاً في *The Ecology of Wisdom* (2008).
 - شكّل **أرضية فكرية** لِحركة **الخضر** (Die Grünen) في ألمانيا.
+
+## المصادر
+
+- Næss, Arne. "The Shallow and the Deep, Long-Range Ecology Movement: A Summary." *Inquiry* 16, 1973.
+- Næss, Arne. *Ecology, Community and Lifestyle: Outline of an Ecosophy*. Trans. & rev. David Rothenberg. Cambridge: Cambridge University Press, 1989 (ترجمة وتنقيح لأصل نرويجي: *Økologi, samfunn og livsstil*، أوسلو 1976).
+- Devall, Bill & Sessions, George. *Deep Ecology: Living as if Nature Mattered*. Gibbs Smith, 1985.
+- ملف `wrk-ecology-community-lifestyle` في هذا الأطلس، للتفصيل البيبلوغرافي والسياق التاريخي لنسختَي 1976 و1989.

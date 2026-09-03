@@ -48,3 +48,9 @@ gaps:
 
 - إيرل نايتنغيل هو «معلّم الإذاعة» الذي نقل فلسفة التفكير الإيجابي من الكتب إلى ملايين المستمعين عبر الإذاعة الأمريكية.
 - رسالته «أغرب سر في العالم» (1956) لا تزال من أكثر الرسائل الصوتية تأثيراً في تاريخ حركة التنمية الذاتية الأمريكية.
+
+## المصادر
+
+- Nightingale, Earl. *The Strangest Secret*. Spoken-word recording, 1956.
+- Nightingale, Earl. *Earl Nightingale's Greatest Discovery*. 1987.
+- "Earl Nightingale." Wikipedia (biographical dates, WGN radio career 1950–1956, Gold Record for *The Strangest Secret*, تحقق 2026-09-03).
