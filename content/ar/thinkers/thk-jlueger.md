@@ -19,6 +19,7 @@ related:
 - id: "thk-rrudolf", title: "غرد رودولف", type: "مفكر"
 - id: "thk-wjanzarik", title: "فيرنر يانتساريك", type: "مفكر"
 gaps:
+  - "**مرشح للحجر (quarantine)**: بحث ويب مكثف (WebSearch عبر عدة صياغات: الاسم مقروناً بـ Schultz-Hencke/Neopsychoanalyse، ومقروناً بدورية *Psychoanalyse heute*) لم يُظهر أي أثر مستقل لشخص باسم 'John Lueger' أو 'جون لوغر' في أدبيات التحليل المُوجَّه أو مدرسة شولتز-هِنكه الألمانية. كما أن الدورية المذكورة في 'أهم أعماله' (*Psychoanalyse heute*) لا يظهر لها وجود موثّق كمجلة ألمانية معروفة. يُحتمل أن يكون الاسم تلفيقاً أو خلطاً مع شخصية أخرى (مثال: كارل لوغر، عمدة فيينا، لا علاقة له بعلم النفس) — يوصى بمراجعة بشرية ونظر في الحجر ما لم يُعثر على مصدر أولي يثبت وجوده."
   - "السيرة الكاملة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
 ---
@@ -39,5 +40,10 @@ gaps:
 
 ## أهم أعماله
 
-- كتابات في *Psychoanalyse heute* (دوريات ألمانية).
+- كتابات في *Psychoanalyse heute* (دوريات ألمانية) — **لم يُتحقق من وجود هذه الدورية ولا من صحة نسبة أي عمل إليه، انظر gaps**.
 - مساهمات في كتب جماعية عن التحليل المُوجَّه.
+
+## المصادر
+لم يُعثر على أي مصدر مستقل موثوق يذكر "جون لوغر" (John Lueger) بالاسم بعد بحث ويب متعدد الصيغ؛ المصادر التالية توثّق فقط السياق العام لمدرسة شولتز-هِنكه التي يُنسب إليها هذا الملف:
+- [Harald Schultz-Hencke — Wikipedia (EN)](https://en.wikipedia.org/wiki/Harald_Schultz-Hencke)
+- [Harald Schultz-Hencke: A Dissident Psychoanalyst — Exploring your mind](https://exploringyourmind.com/harald-schultz-hencke-a-dissident-psychoanalyst/)

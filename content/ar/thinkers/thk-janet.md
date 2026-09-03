@@ -44,3 +44,10 @@ gaps:
 
 ## القيد
 طبيب نفسي إكلينيكي بحت من جيل سابق مباشرة على الظاهراتية والوجودية العلاجية؛ إدراجه هنا بوصفه جذراً مؤسسياً لتاريخ الطب النفسي الذي خرجت منه المدرسة لاحقاً عبر مينكوفسكي والتحليل النفسي، لا عضواً في المدرسة الوجودية ذاتها.
+
+## المصادر
+- [Pierre Janet — Wikipedia (EN)](https://en.wikipedia.org/wiki/Pierre_Janet)
+- [Pierre Janet, L'automatisme psychologique (1889) — Internet Archive](https://archive.org/details/lautomatismepsyc00jane)
+- [Van der Hart & Friedman, "The dissociation theory of Pierre Janet", Journal of Traumatic Stress](https://link.springer.com/article/10.1007/BF00974598)
+- [van der Hart & Horst, "Psychological Trauma and Fixed Ideas in Pierre Janet's Conception of Dissociative Disorders"](https://www.researchgate.net/publication/6894021_Psychological_Trauma_and_Fixed_Ideas_in_Pierre_Janet's_Conception_of_Dissociative_Disorders)
+- [van der Kolk & van der Hart, "Pierre Janet & the Breakdown of Adaptation in Psychological Trauma", American Journal of Psychiatry](https://traumaresearchfoundation.org/wp-content/uploads/2021/05/janet_am_j_psychiat.pdf)

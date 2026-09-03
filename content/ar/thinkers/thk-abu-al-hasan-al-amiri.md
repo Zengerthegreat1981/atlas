@@ -44,3 +44,9 @@ gaps:
 - *الأمد على الأبد*.
 - *السعادة والإسعاد في السيرة الإنسانية*.
 - *التقرير لأوجه التقدير*، *الإبصار والمبصَر*.
+
+## المصادر
+
+- Abu al-Hassan al-Amiri — Wikipedia: https://en.wikipedia.org/wiki/Abu_al-Hassan_al-Amiri
+- Abu al-Hassan al-Amiri — Wikidata: https://www.wikidata.org/wiki/Q4115511
+- "Abū Al-Ḥasan Muḥammad Bin Yūsuf Al-'Āmirī's View on Religion" (ResearchGate): https://www.researchgate.net/publication/309544115_Abu_Al-Hasan_Muhammad_bin_Yusuf_Al-'Amiri's_View_on_Religion

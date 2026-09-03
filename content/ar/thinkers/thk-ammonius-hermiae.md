@@ -39,3 +39,10 @@ gaps:
 
 - *شرح في العبارة* (Peri hermeneias) — الباقي بتحريره هو.
 - شروح على *إيساغوجي فرفوريوس* و*المقولات* و*التحليلات الأولى* — «من صوت أمونيوس».
+
+## المصادر
+
+- [Ammonius (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/ammonius/)
+- [Ammonius Hermiae — Encyclopædia Britannica](https://www.britannica.com/biography/Ammonius-Hermiae)
+- [Ammonius Hermiae — New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Ammonius_Hermiae)
+- [Ammonius Hermiae — Wikipedia](https://en.wikipedia.org/wiki/Ammonius_Hermiae)

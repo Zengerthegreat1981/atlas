@@ -18,7 +18,7 @@ related:
 - id: "br-liberation-psychology", title: "علم نفس التحرير (مارتين-بارو)", type: "تيار"
 - id: "thk-imartinbaro", title: "إغناثيو مارتن-بارو", type: "مفكر"
 gaps:
-  - "تحقّق (بحث ويب): وُلد فرانسيسكو غوتيريس في بورغوس، إسبانيا سنة 1928، ونال دكتوراه في التربية من جامعة كومبلوتنسي مدريد سنة 1977، واستقرّ في كوستاريكا حيث توفي في 15 نوفمبر 2016 عن عمر 88 عاماً (مصدر: SIGNIS، ومدونة Edunoformal السيرية)."
+  - "تحقّق (بحث ويب، مؤكَّد): وُلد فرانسيسكو غوتيريس بيريز في بورغوس، إسبانيا سنة 1928، ونال دكتوراه في علوم التربية سنة 1977 (جامعة كومبلوتنسي مدريد) ودكتوراه أخرى من الجامعة الوطنية في كوستاريكا؛ أسّس المعهد اللاتيني الأمريكي للتربية التواصلية (ILPEC) وترأّسه، وفي 2003 أسّس برنامج دكتوراه في «الوساطة التربوية» بجامعة لاسال في سان خوسيه؛ توفي في 15 نوفمبر 2016 عن عمر 88 عاماً (مصادر: SIGNIS، Red Educom، Educomunicación Facso)."
 ---
 
 # فرانسيسكو غوتيريس
@@ -39,4 +39,7 @@ gaps:
 
 - Gutiérrez, F. (1973). *Pedagogía de la comunicación*. Editorial Tierra Nueva.
 - Gutiérrez, F., & Prado, C. (1999). *Ecopedagogía y ciudadanía planetaria*. Editorial Pec.
-- SIGNIS (15/11/2016). "Fallece pionero de la Educomunicación en América Latina".
+- SIGNIS (15/11/2016). ["Fallece pionero de la Educomunicación en América Latina"](https://www.signis.net/noticias/tambien-es-noticia/15-11-2016/fallece-pionero-de-la-educomunicacion-en-america-latina).
+- Red Educom. ["Los Pensadores / Francisco Gutiérrez"](https://www.rededucom.org/los-pensadores/francisco-gutierrez-es.htm).
+- Educomunicación Facso. ["Francisco Gutiérrez Pérez"](https://educomunicacionfacso.wordpress.com/2015/12/04/francisco-gutierrez-perez/).
+- Traficantes de Sueños. ["Gutiérrez Pérez, Francisco"](https://traficantes.net/autorxs/guti%C3%A9rrez-p%C3%A9rez-francisco).

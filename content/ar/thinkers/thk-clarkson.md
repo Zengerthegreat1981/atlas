@@ -15,7 +15,7 @@ part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-- id: "thk-mbuber", title: "مارتن بوبر", type: "مفكر"
+- id: "thk-mbuber", title: "مارتن بُبَر", type: "مفكر"
 - id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 - id: "tec-five-dimensions-therapeutic-relationship", title: "نموذج الأبعاد الخمسة للعلاقة العلاجية", type: "تقنية/تدخل علاجي"
@@ -42,3 +42,8 @@ gaps:
 ## أهم أعمالها
 
 العلاقة العلاجية (The Therapeutic Relationship, 1995) · الإرشاد الجشطلتي في الممارسة (Gestalt Counselling in Action, 1989) · المتفرِّج (The Bystander, 1996).
+
+## المصادر
+- [Petruska Clarkson — 5 Relationship Model, Counselling Tutor](https://counsellingtutor.com/petruska-clarkson-5-relationship-model/)
+- [A Multiplicity of Psychotherapeutic Relationships — Clarkson (1990), British Journal of Psychotherapy](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1752-0118.1990.tb01329.x)
+- [The Founders of Metanoia Institute](https://www.metanoia.ac.uk/prospective-students/equality-and-diversity/equality-and-diversity-events/lgbtqplus-article/)

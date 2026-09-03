@@ -6,11 +6,11 @@ level: "متوسط"
 title: "هارولد كراسيلنيك"
 en: "Harold B. Crasilneck"
 crumb: "التنويم الإكلينيكي ← التنويم الطبي الأمريكي ← هارولد كراسيلنيك"
-dates: "الولايات المتحدة · 1922–2010"
+dates: "سان أنطونيو، تكساس، الولايات المتحدة · 1921–2008"
 country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1955
-active_end: 2010
+active_end: 2008
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "فرع"
@@ -23,7 +23,7 @@ gaps:
 
 # هارولد كراسيلنيك
 
-طبيب نفسي أمريكي، أستاذ في جامعة تكساس ساوثويسترن، من أهم الممارسين السريريين للتنويم المغناطيسي في جيله.
+عالم نفس إكلينيكي أمريكي (دكتوراه في علم النفس الإكلينيكي من جامعة هيوستن، 1954)، عمل أستاذاً للطب النفسي في كلية الطب بجامعة تكساس الجنوبية الغربية (UT Southwestern) في دالاس، ومن أهم الممارسين السريريين للتنويم المغناطيسي في جيله. تصحيح: كان يُوصف خطأً في بعض المصادر بأنه "طبيب نفسي" (psychiatrist)؛ هو في الواقع عالم نفس (PhD) لا طبيب حاصل على درجة طبية (MD).
 
 ## ما أعطاه
 
@@ -33,3 +33,9 @@ gaps:
 
 ## القيد
 تصنيف هذا الملف سابقاً تحت «التنويم المعرفي (Cognitive Hypnotherapy — سيلفستر)» كان خطأً زمنياً ومذهبياً: عمل كراسيلنيك تنويمٌ إكلينيكي طبّي كلاسيكي في الخمسينيات والستينيات، ومدرسة تريفور سيلفستر المعرفية نشأت بعد ذلك بأربعة عقود. صُحِّح التصنيف إلى الفرع العام للتنويم العلاجي السريري.
+
+## المصادر
+
+- [In memoriam: Harold B. Crasilneck, Ph.D., ABPH — APA PsycNET](https://psycnet.apa.org/record/2008-11623-003)
+- [Harold Crasilneck Obituary (2008) — Dallas Morning News](https://obits.dallasnews.com/us/obituaries/dallasmorningnews/name/harold-crasilneck-obituary?id=25330866)
+- [Clinical Hypnosis: Principles and Applications — Internet Archive (تسجيل ببليوغرافي: Crasilneck, Harold B., 1921-)](https://archive.org/details/clinicalhypnosis00cras)

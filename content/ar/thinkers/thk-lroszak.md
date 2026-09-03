@@ -33,4 +33,14 @@ gaps:
 
 ## موقعه من التيار
 
-يعدّ روزاك المؤسس الفكري لحركة علم النفس البيئي وأثّر في أعمال جوته (Joanna Macy) في «العمل الذي يعيد الاتصال» (The Work That Reconnects) وفي تأسيس رابطة علم النفس البيئي الدولية.
+يعدّ روزاك المؤسس الفكري لحركة علم النفس البيئي وأثّر في أعمال جوانا مايسي (Joanna Macy) في «العمل الذي يعيد الاتصال» (The Work That Reconnects) وفي تأسيس رابطة علم النفس البيئي الدولية.
+
+## ترجمة موجزة
+
+مؤرخ حاصل على دكتوراه في التاريخ من جامعة برنستون، وأستاذ فخري للتاريخ في جامعة ولاية كاليفورنيا (فرع إيست باي/هايوارد). عُرف قبل «صوت الأرض» بكتابه «صنع ثقافة مضادة» (The Making of a Counter Culture, 1969) الذي أرّخ لثقافة الشباب المضادة في الستينيات، وألّف نحو خمسة عشر كتاباً.
+
+## المصادر
+
+- [Theodore Roszak Biography — GoodTherapy](https://www.goodtherapy.org/famous-psychologists/theodore-roszak.html)
+- [The Voice of the Earth: Discovering the Ecological Ego — Agosto Foundation](https://agosto-foundation.org/the-voice-of-the-earth-discovering-the-ecological-ego)
+- [The Voice of the Earth — Google Books](https://books.google.com/books/about/The_Voice_of_the_Earth.html?id=ZLWGPwAACAAJ)

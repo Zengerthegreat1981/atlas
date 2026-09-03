@@ -24,7 +24,7 @@ gaps:
 
 # إدوارد غلوفر
 
-طبيب ومحلل نفسي اسكتلندي-بريطاني بارز، مدير أبحاث معهد لندن للتحليل النفسي ومؤسس المعهد البريطاني لدراسة وعلاج الجنوح والجريمة (ISTD).
+طبيب ومحلل نفسي اسكتلندي-بريطاني بارز (1888–1972)، شغل منصب مدير الأبحاث في معهد التحليل النفسي بلندن (Institute of Psycho-Analysis)، وكان من مؤسسي العيادة السيكوباثية (التي أصبحت لاحقاً عيادة بورتمان Portman Clinic عام 1937) والمعهد البريطاني لدراسة وعلاج الجنوح والجريمة (ISTD).
 
 ## ما أعطاه
 
@@ -35,8 +35,14 @@ gaps:
 شخصية قيادية أورثوذكسية كبرى قادت المعارضة ضد أطروحات ميلاني كلاين في الجمعية البريطانية قبل استقالته منها احتجاجاً على التسوية السياسية.
 
 ## القيد
-مواقفه الجدلية الحادة جعلته في عزلة مؤسسية بعد مغادرته الجمعية البريطانية.
+مواقفه الجدلية الحادة جعلته في عزلة مؤسسية بعد مغادرته الجمعية البريطانية في 1944 احتجاجاً على تسوية «المناقشات الخلافية» (Controversial Discussions) بين أتباع ميلاني كلاين وأنا فرويد؛ ظلّ مع ذلك عضواً في الجمعية الدولية للتحليل النفسي عبر عضويته الفخرية في الجمعيتين السويسرية والأمريكية.
 
 ## أهم أعماله
 
 تقنية التحليل النفسي (The Technique of Psycho-Analysis, 1955) · الحرب والسادية والسلام (War, Sadism and Pacifism, 1933) · جذور الجريمة (The Roots of Crime, 1960).
+
+## المصادر
+
+- [Edward Glover (psychoanalyst) — Wikipedia](https://en.wikipedia.org/wiki/Edward_Glover_(psychoanalyst))
+- [Glover, Edward (1888-1972) — Encyclopedia.com](https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/glover-edward-1888-1972)
+- [Glover, Edward George (1888-1972), psychoanalyst — The National Archives](https://discovery.nationalarchives.gov.uk/details/c/F75972)

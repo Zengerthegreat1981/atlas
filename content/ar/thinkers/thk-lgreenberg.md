@@ -7,7 +7,7 @@ level: "متوسط"
 title: "ليزلي غرينبرغ"
 en: "Leslie Greenberg"
 crumb: "العلاج المتمحور حول العميل ← الموجة الإنسانية ← الناس ← ليزلي غرينبرغ"
-dates: "كندا · 1945–"
+dates: "جوهانسبرغ، جنوب أفريقيا (نشط في كندا) · 1945–"
 country: "كندا"
 language: "الإنجليزية"
 active_start: 1979
@@ -21,11 +21,11 @@ related:
 - id: "tec-eft-individual", title: "العلاج المرتكز على العاطفة للأفراد (EFT)", type: "تقنية/تدخل علاجي"
 - id: "tec-eft-couples", title: "العلاج المرتكز على العاطفة للأزواج (EFT)", type: "تقنية/تدخل علاجي"
 - id: "con-shame-self-criticism", title: "الخزي ونقد الذات", type: "مفهوم"
-- id: "dbt-process-experiential-vs-cbt", title: "جِدَل عِلَاج الْعَمَلِيَّة التَّجْرِيبِيّة ضِد CBT", type: "جدل"
+- id: "dbt-process-experiential-vs-cbt", title: "جدل العلاج بالعملية التجريبية ضد العلاج المعرفي السلوكي", type: "جدل"
 - id: "tec-eft-emotion-focused-empty-chair", title: "الكرسي الفارغ (Empty Chair) في EFT", type: "تقنية/تدخل علاجي"
 gaps:
-  - "يوجد ملفّ بنفس الشخصية بالـ slug: thk-greenberg-lisa — يلزم التحقق من الازدواجية."
-  - "سنة الميلاد (1945) تقريبية ولم تُراجع من سيرة ذاتية."
+  - "تأكّد الازدواجية: content/ar/thinkers/thk-greenberg-lisa.md (THK-1111، 'ليزلي س. غرينبرغ') يصف نفس الشخص (نفس التواريخ 1945–، نفس المدرسة EFT) — يلزم قرار توحيد/دمج من رئيس التحرير؛ لم أُعدِّل ذلك الملف لأنه خارج نطاق مهمتي الحالية. ملاحظة توضيحية: thk-greenberg.md (THK-0443) هو شخص مختلف تماماً — جيف غرينبرغ (Jeff Greenberg)، منظّر إدارة الرعب (TMT) — وليس له علاقة بليزلي غرينبرغ."
+  - "سنة الميلاد مؤكَّدة الآن من مصدر مستقل: 30 سبتمبر 1945 في جوهانسبرغ، جنوب أفريقيا (انظر المصادر)."
   - "لا يوجد اقتباس مباشر موثوق من *Facilitating Emotional Change* (1993) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إدنا فوا (thk-foa)."
   - "اسم الجائزة الدقيق الذي حصل عليه غرينبرغ من جمعية علم النفس الأمريكية (APA) لتأسيس EFT غير مؤكَّد من مصدر أولي — حُذف من المتن."
@@ -33,7 +33,7 @@ gaps:
 ---
 # ليزلي غرينبرغ
 
-عالم نفس كندي وأستاذ فخري في جامعة يورك (York University) في تورنتو، المؤسِّس المشارك لـ **العلاج المرتكز على العاطفة** (Emotion-Focused Therapy — EFT) مع زميلته **لورا إن. رايس** (Laura N. Rice)، وبالتعاون مع سوزان جونسون (Susan Johnson) في فرع علاج الأزواج، وأحد أبرز منظّري «النموذج المُركَّب» في العلاج النفسي المعاصر. عمل منذ أواخر السبعينيات على إعادة تأهيل العاطفة بوصفها محوراً علاجياً مركزياً، بعد أن كانت مُهمَّشة في الموجة المعرفية السلوكية التي هيمنت على العقود السابقة، وحين كانت مُختزلة في التحليل النفسي بـ«التفريغ» (Abreaction) دون فهم آلياتها التطورية.
+عالم نفس وُلد في جوهانسبرغ بجنوب أفريقيا في 30 سبتمبر 1945، وحصل على بكالوريوس هندسة من جامعة ويتواترسراند (University of Witwatersrand، 1967) قبل أن ينتقل إلى كندا، حيث نال ماجستير من جامعة ماكماستر (1970) ثم دكتوراه في علم النفس من جامعة يورك في تورنتو. أستاذ فخري في جامعة يورك (York University)، المؤسِّس المشارك لـ **العلاج المرتكز على العاطفة** (Emotion-Focused Therapy — EFT) مع زميلتيه **لورا إن. رايس** (Laura N. Rice) و**روبرت إليوت** (Robert Elliott)، وبالتعاون مع سوزان جونسون (Susan Johnson) في فرع علاج الأزواج، وأحد أبرز منظّري «النموذج المُركَّب» في العلاج النفسي المعاصر. عمل منذ أواخر السبعينيات على إعادة تأهيل العاطفة بوصفها محوراً علاجياً مركزياً، بعد أن كانت مُهمَّشة في الموجة المعرفية السلوكية التي هيمنت على العقود السابقة، وحين كانت مُختزلة في التحليل النفسي بـ«التفريغ» (Abreaction) دون فهم آلياتها التطورية.
 
 ## ما أعطاه
 
@@ -54,3 +54,11 @@ gaps:
 - «**العلاج المرتكز على العاطفة**» (Emotion-Focused Therapy, 2002، مع لورا رايس).
 - «**خرائط العلاج المرتكز على العاطفة**» (Emotion-Focused Therapy in Practice, 2020).
 - «**العلاج المرتكز على العاطفة للأزواج**» (The Emotionally Focused Casebook, 2002، مع جونسون وآخرين).
+
+## المصادر
+
+- [Les Greenberg — Wikipedia](https://en.wikipedia.org/wiki/Les_Greenberg)
+- [Leslie Greenberg Biography — GoodTherapy](https://www.goodtherapy.org/famous-psychologists/leslie-greenberg.html)
+- [Leslie Greenberg — CPEH (Educator profile)](https://www.cpeh.ca/les-greenberg)
+- [The Journey of Leslie Greenberg — Psychotherapy Courses](https://www.psychotherapycourses.com/the-journey-of-leslie-greenberg-from-childhood-struggles-to-revolutionary-therapy/)
+- [The Empty Chair Technique: A Clinical Guide for Therapists — Berries](https://heyberries.com/blog/articles/the-empty-chair-technique)

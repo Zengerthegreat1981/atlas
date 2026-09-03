@@ -41,3 +41,9 @@ gaps:
 - *شرح المواقف* (على متن الإيجي).
 - *حاشية على الكشّاف*، *حاشية على المطوّل*.
 - *الحاشية على شرح الشمسية* (في المنطق).
+
+## المصادر
+
+- Al-Sharif al-Jurjani — Wikipedia: https://en.wikipedia.org/wiki/Al-Sharif_al-Jurjani
+- Al-Jurjānī — Encyclopaedia Britannica: https://www.britannica.com/biography/al-Jurjani
+- Jurjani Definitions (al-Ta'rifat) — Wikipedia: https://en.wikipedia.org/wiki/Jurjani_Definitions

@@ -25,7 +25,7 @@ gaps:
 
 # ألكسندر لوين
 
-طبيب نفسي أمريكي ومؤسس **التحليل الحيوي** (Bioenergetic Analysis). تلميذ مباشر لرايخ، طوّر منظومته الخاصة التي تربط بين الجسم، الانفعال، والشخصية.
+طبيب نفسي أمريكي (1910–2008) ومؤسس **التحليل الحيوي** (Bioenergetic Analysis). تدرّب على يد رايخ وتحلّل عنده بين 1942 و1945، وتابع دراسته حتى 1952، ثم انفصل عنه عام 1953 وأسّس مقاربته الخاصة مع زميله جون بييراكوس (John Pierrakos)، ليؤسسا معاً معهد التحليل الحيوي (Institute for Bioenergetic Analysis) في نيويورك عام 1956.
 
 ## ما أعطاه
 
@@ -43,3 +43,9 @@ gaps:
 - *The Language of the Body* (1958).
 - *Bioenergetics* (1975).
 - *Joy* (1995).
+
+## المصادر
+
+- [Alexander Lowen — Wikipedia](https://en.wikipedia.org/wiki/Alexander_Lowen)
+- [Alexander Lowen (1910–2008): reflections on his life — Body, Movement and Dance in Psychotherapy](https://www.tandfonline.com/doi/full/10.1080/17432979.2010.494854)
+- [History of Bioenergetic Analysis — International Institute for Bioenergetic Analysis](https://bioenergetic-therapy.com/index.php/en/bioenergetic-analysis/history-of-ba)

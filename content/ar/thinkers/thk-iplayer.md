@@ -43,3 +43,11 @@ gaps:
 ## أهم أعماله
 
 ملحمة وحيد القرن الأبيض (The White Rhino Saga, 1972) · برّية زولولاند: ظلّ ونفس (Zululand Wilderness: Shadow and Soul, 1997) · كتابه عن مَقْبو نتومبيلا.
+
+## المصادر
+
+- [Ian Player — Wikipedia](https://en.wikipedia.org/wiki/Ian_Player)
+- [Dr Ian Player – A Tribute, Peace Parks Foundation](https://www.peaceparks.org/dr-ian-player-a-tribute/)
+- [Ian Player — Legends and Legacies of Conservation in Africa](https://legendsandlegaciesofafrica.org/ianplayer.php)
+- [Dr. Ian Player | A Life Dedicated to Conservation — Saving Private Rhino](https://savingprivaterhino.org/ian-player-a-life-dedicated-to-conservation/)
+- [Biography, Ian Cedric Player (CV), Game Rangers Association of Africa](https://www.gameranger.org/images/dr-ian-player_cv.pdf)

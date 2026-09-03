@@ -18,11 +18,11 @@ related:
 - id: "thk-lucretius", title: "لوكريتيوس كاروس", type: "مفكر"
 - id: "trm-ataraxia-epicurean-pyrrhonic", title: "الأتاراكسيا (Ataraxia): طمأنينة البال وخلو النفس من الاضطراب", type: "مصطلح لغوي متنازع عليه"
 - id: "con-ataraxia-epicurean", title: "الأتاراكسيا والسكينة النفسية (Ataraxia)", type: "مفهوم"
-- id: "sch-epicureanism", title: "المدرسة الأبيقورية", type: "مدرسة"
-- id: "thk-democritus", title: "ديموقريطس", type: "مفكر"
+- id: "sch-epicureanism", title: "الأبيقورية (Epicureanism)", type: "مدرسة"
+- id: "thk-democritus", title: "ديموقريطس الأبديري", type: "مفكر"
 gaps:
-  - "تأسيس 'الحديقة' بأثينا كأول مدرسة فلسفية تقبل النساء والعبيد على قدم المساواة."
-  - "لا يوجد اقتباس مباشر موثّق بسبب ضياع كتبه."
+  - "تحقّق (بحث ويب، The Conversation، فبراير 2026): أسّس أبيقور «الحديقة» (Kepos) خارج أسوار أثينا نحو 306 ق.م، وقَبِلت فعلاً النساء والعبيد على قدم المساواة مع الأحرار — من أبرز عضواتها ليونتيون ونيكيديون؛ هذا يميّزها بوضوح عن أكاديمية أفلاطون وليسيوم أرسطو المقتصرين على أبناء النخبة."
+  - "لا يوجد اقتباس مباشر موثّق بسبب ضياع كتبه؛ ما وصلنا هو عبر ديوجينس اللائرتي ولوكريتيوس."
 ---
 
 # أبيقور الساموسي
@@ -38,3 +38,10 @@ gaps:
 - *رسالة إلى مينويكيوس في السعادة (Letter to Menoeceus)*
 - *المبادئ الأساسية (Kyriai Doxai / Principal Doctrines)* — أربعون مبدأً موجزاً حفظها تلاميذه.
 - ولم يصلنا من نحو ثلاثمئة مجلد كتبها إلا ثلاث رسائل وهذه المبادئ وشذرات، ومعظم ما نعرفه عنه يأتي من ديوجينس اللائرتي ومن قصيدة لوكريتيوس *في طبيعة الأشياء*.
+
+## المصادر
+
+- Diogenes Laërtius, *Lives of Eminent Philosophers*, Book X (المصدر القديم الأساسي لسيرة أبيقور وكتاباته).
+- Lucretius, *De Rerum Natura* (في طبيعة الأشياء).
+- Britannica, "Epicurus" — https://www.britannica.com/biography/Epicurus
+- The Conversation (2026), "Long before debates over 'wokeness', Epicurus built a philosophy that welcomed slaves, women and outsiders" — https://theconversation.com/long-before-debates-over-wokeness-epicurus-built-a-philosophy-that-welcomed-slaves-women-and-outsiders-250772

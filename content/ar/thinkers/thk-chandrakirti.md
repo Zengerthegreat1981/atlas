@@ -40,3 +40,8 @@ gaps:
 - *Prasannapadā* (الكلمات الواضحة) — شرح على *Mūlamadhyamakakārikā*.
 - *Madhyamakāvatāra* (المدخل إلى الطريق الوسطى) — أشهر أعماله في التبت.
 - *Catuḥśatakaṭīkā* — شرح على «الأربعمائة» لأريَديفا.
+
+## المصادر
+- [Candrakīrti — Encyclopaedia Britannica](https://www.britannica.com/biography/Candrakirti)
+- [Candrakīrti — Buddha-Nature, Tsadra Foundation](https://buddhanature.tsadra.org/index.php/People/Candrak%C4%ABrti)
+- [Chandrakirti — Tibetan Buddhist Encyclopedia](https://tibetanbuddhistencyclopedia.com/en/index.php/Chandrakirti)

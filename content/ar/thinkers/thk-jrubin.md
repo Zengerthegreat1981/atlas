@@ -48,3 +48,10 @@ gaps:
 ## أهم أعماله
 
 العلاج النفسي والبوذية: نحو تكامل (Psychotherapy and Buddhism: Toward an Integration، 1996) · فنّ الازدهار (The Art of Flourishing، 2012) · *A Psychoanalysis for Our Time* (1998).
+
+## المصادر
+- [Psychotherapy and Buddhism: Toward an Integration — Amazon (Jeffrey B. Rubin, 1996)](https://www.amazon.com/Psychotherapy-Buddhism-Integration-Practice-Psychology/dp/0306454416)
+- [The Art of Flourishing: A New East-West Approach... — Amazon (Jeffrey B. Rubin, PhD)](https://www.amazon.com/Art-Flourishing-East-West-Approach-Staying/dp/0307718891)
+- [Meditative Psychotherapy and Psychoanalysis — Routledge (Jeffrey Rubin)](https://www.routledge.com/Meditative-Psychotherapy-and-Psychoanalysis-Pathways-to-Healing-and-Transformation/BRubin/p/book/9781032982977)
+- [John Welwood on coining "spiritual bypassing" (1984), *Toward a Psychology of Awakening*](https://www.goodreads.com/quotes/9319601-spiritual-bypassing-is-a-term-i-coined-to-describe-a)
+- [Spiritual bypass — Wikipedia (EN)](https://en.wikipedia.org/wiki/Spiritual_bypass)

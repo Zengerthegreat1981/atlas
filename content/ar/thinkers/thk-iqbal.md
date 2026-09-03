@@ -41,4 +41,13 @@ gaps:
 
 ## أهم أعماله
 
-أسرار الخودي (Asrar-i-Khudi, 1915، بالفارسية) · رموز نفي الذات (Rumuz-i-Bekhudi, 1918) · رسالة الشرق (Payam-i-Mashriq, 1923) · جاويدنامه (1932) · تجديد الفكر الديني في الإسلام (The Reconstruction of Religious Thought in Islam, 1930، محاضراته بالإنجليزية).
+أسرار الخودي (Asrar-i-Khudi, 1915، بالفارسية) · رموز نفي الذات (Rumuz-i-Bekhudi, 1918) · رسالة الشرق (Payam-i-Mashriq, 1923) · جاويدنامه (1932) · تجديد الفكر الديني في الإسلام (The Reconstruction of Religious Thought in Islam، محاضرات ألقاها في مدراس وحيدر آباد وعليكره، صدرت كتاباً 1930).
+
+## المصادر
+
+- [Muhammad Iqbal — Wikipedia](https://en.wikipedia.org/wiki/Muhammad_Iqbal)
+- [The Reconstruction of Religious Thought in Islam — Wikipedia](https://en.wikipedia.org/wiki/The_Reconstruction_of_Religious_Thought_in_Islam)
+- [Allahabad Address — Wikipedia](https://en.wikipedia.org/wiki/Allahabad_Address)
+- [Presidential Address, Allahabad, December 1930 (full text)](https://franpritchett.com/00islamlinks/txt_iqbal_1930.html)
+- [The Secrets of the Self (Asrar-i-Khudi) — Project Gutenberg](https://www.gutenberg.org/files/57317/57317-h/57317-h.htm)
+- [The Secrets of the Self — Wikipedia](https://en.wikipedia.org/wiki/The_Secrets_of_the_Self)

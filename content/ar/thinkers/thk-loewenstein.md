@@ -41,4 +41,10 @@ gaps:
 
 ## أهم أعماله
 
-الماسوشية في النظرية والتقنية التحليلية (1940) · أوراق في علم نفس الأنا (مع هارتمان وكريس، 1964) · سيكولوجيا معاداة السامية (Christians and Jews, 1951).
+الماسوشية في النظرية والتقنية التحليلية (1940) · أوراق في علم نفس الأنا (مع هارتمان وكريس، 1964) · سيكولوجيا معاداة السامية (Christians and Jews: A Psychoanalytical Study, 1952؛ صدرت بالفرنسية بعنوان Psychanalyse de l'antisémitisme).
+
+## المصادر
+
+- [Rudolph Loewenstein (psychoanalyst) — Wikipedia](https://en.wikipedia.org/wiki/Rudolph_Loewenstein_(psychoanalyst))
+- [Loewenstein, Rudolph M. (1898-1976) — Encyclopedia.com](https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/loewenstein-rudolph-m-1898-1976)
+- [Rudolf Loewenstein — No Subject: Encyclopedia of Lacanian Psychoanalysis](https://nosubject.com/Rudolf_Loewenstein)

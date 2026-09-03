@@ -44,3 +44,9 @@ gaps:
 
 ## القيد
 - عملها بحثي في جوهره (دراسات طولية عن الانتقال إلى الأبوة)، وليس برنامج تدخّل علاجي منشور باسمها؛ الخلط مع برامج تدخّلية أخرى (مثل "Bringing Baby Home") وارد وسبق تصحيحه هنا.
+
+## المصادر
+- [Carolyn Pape Cowan — UC Berkeley, Department of Psychology](https://psychology.berkeley.edu/people/carolyn-pape-cowan)
+- [Carolyn P. Cowan — Greater Good Science Center profile](https://greatergood.berkeley.edu/profile/carolyn_cowan)
+- [When Partners Become Parents: The Big Life Change for Couples — Internet Archive](https://archive.org/details/whenpartnersbeco00cowa)
+- [When Partners Become Parents — American Journal of Sociology review](https://www.journals.uchicago.edu/doi/10.1086/230251)

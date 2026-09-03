@@ -25,7 +25,7 @@ gaps:
 
 # عزريئيل بن مناحيم من جيرونا
 
-من أهم فلاسفة القبّالة في طور التشكّل المبكر (جيرونا، أوائل القرن 13 م). ينتمي إلى ما يُسمى بمدرسة جيرونا في القبّالة (مع إسحاق الأعمى، وناحمانيدس، وعزرا بن سلمون).
+من أهم فلاسفة القبّالة في طور التشكّل المبكر (جيرونا، أوائل القرن 13 م). تتلمذ في بروفنسا على يد إسحاق الأعمى، ثم عاد إلى جيرونا وأسّس مدرسته الخاصة فيها، وكان معلماً لناحمانيدس (موسى بن نحمان)، وينتمي إلى دائرة مدرسة جيرونا في القبّالة (إلى جانب عزرا بن سلمون).
 
 ## ما أعطاه
 
@@ -38,5 +38,12 @@ gaps:
 ## أهم أعماله
 
 - شرح السفيروت العشر (Perush Eser Sefirot)
-- تعليقات على نصوص مدرسة جيرونا القبّالية
-- مقالات في الصلاة والتأمل
+- شرح على سفر يتسيرا (Sefer Yetzirah)
+- شعر هشوئيل (Sha'ar ha-Sho'el، «باب السائل»)
+- تعليقات على صلوات رأس السنة العبرية، ورسالة إلى بورغوس
+
+## المصادر
+
+- [Azriel of Gerona — Wikipedia](https://en.wikipedia.org/wiki/Azriel_of_Gerona)
+- [Azriel of Gerona — Encyclopedia.com](https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/azriel-gerona)
+- [An Introduction to the Kabbalistic Writings of R. Azriel of Gerona, Iberia Judaica XIII (2021)](https://www.academia.edu/45145066/An_Introduction_to_the_Kabbalistic_Writings_of_R_Azriel_of_Gerona_Iberia_Judaica_XIII_2021_pp_139_148_English_)
