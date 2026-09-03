@@ -41,4 +41,12 @@ gaps:
 
 ## أهم أعماله
 
-بيان النادائية الأول (Manifiesto Nadaísta, 1958) · أعمال نادائية غير مكتملة (Obra negra, 1974).
+بيان النادائية الأول (Manifiesto Nadaísta, 1958) · مختارات «Obra negra» (بوينس آيرس، 1974، اختيار خوتاماريو، تضم مقاطع من البيان الأول ومانيفستوات أخرى).
+
+## المصادر
+
+- [Gonzalo Arango — Wikipedia (English)](https://en.wikipedia.org/wiki/Gonzalo_Arango)
+- [Gonzalo Arango Arias — Enciclopedia Banrepcultural](https://enciclopedia.banrepcultural.org/index.php?title=Gonzalo_Arango_Arias)
+- [Nadaism — Wikipedia (English)](https://en.wikipedia.org/wiki/Nadaism)
+- [Gonzalo Arango, padre del Nadaísmo colombiano — Literal Magazine](https://literalmagazine.com/gonzalo-arango-padre-del-nadaismo-colombiano/)
+- [Obra negra — Goodreads](https://www.goodreads.com/book/show/18601315-obra-negra)

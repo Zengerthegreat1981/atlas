@@ -41,3 +41,9 @@ gaps:
 ## أهم أعمالها
 
 «المرأة العارفة: سيكولوجيا أنثوية» (Knowing Woman: A Feminine Psychology، نُشر بعد وفاتها عام 1973).
+
+## المصادر
+
+- [Irene Claremont de Castillejo — Wikipedia](https://en.wikipedia.org/wiki/Irene_Claremont_de_Castillejo)
+- [Knowing Woman: A Feminine Psychology — Internet Archive](https://archive.org/details/knowingwomanfemi0000clar)
+- [José Castillejo — Wikidata](https://www.wikidata.org/wiki/Q352515)

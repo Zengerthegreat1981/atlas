@@ -43,4 +43,11 @@ gaps:
 
 ## اقتباسات مختارة
 
-«كما أن نفسنا، وهي هواء، تُمسكنا، كذلك النَّفَس والهواء يحيطان بالعالم كله.» (الشذرة 2)
+«كما أن نفسنا، وهي هواء، تُمسكنا، كذلك النَّفَس والهواء يحيطان بالعالم كله.» (الشذرة DK13B2، عبر أيتيوس)
+
+## المصادر
+
+- Anaximenes of Miletus — Encyclopaedia Britannica: https://www.britannica.com/biography/Anaximenes-of-Miletus
+- Anaximenes — Internet Encyclopedia of Philosophy: https://iep.utm.edu/anaximenes/
+- Anaximenes (6th century BC) — Routledge Encyclopedia of Philosophy: https://www.rep.routledge.com/articles/biographical/anaximenes-6th-century-bc/v-1
+- Anaximenes of Miletus — Wikipedia: https://en.wikipedia.org/wiki/Anaximenes_of_Miletus

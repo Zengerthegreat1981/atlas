@@ -41,3 +41,10 @@ gaps:
 ## أهم أعماله
 
 خبرة عالَم الحياة (Life-World Experience: Existential-Phenomenological Research Approaches in Psychology, 1986) · فصله عن مناهج البحث الوجودي-الفينومينولوجي ضمن Phenomenological Inquiry in Psychology (تحرير رونالد ڤالي، 1998).
+
+## المصادر
+
+- [Duquesne Studies in Phenomenological Psychology, Vol. 1 (Giorgi, Fischer & von Eckartsberg, eds.) — PhilPapers](https://philpapers.org/rec/GIODSI)
+- [On Experiential Methodology, Rolf von Eckartsberg — Philosophy Documentation Center](https://www.pdcnet.org/dspp/content/dspp_1971_0001_0066_0079)
+- [Existential-Phenomenology, Validity and the Trans-Personal Ground of Psychological Theorizing — Philosophy Documentation Center](https://www.pdcnet.org/dspp/content/dspp_1983_0004_0199_0206)
+- [Duquesne Studies in Phenomenological Psychology — الفهرس الكامل، PDC](https://www.pdcnet.org/dspp/Duquesne-Studies-in-Phenomenological-Psychology)

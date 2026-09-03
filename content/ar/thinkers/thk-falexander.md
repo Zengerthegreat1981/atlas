@@ -45,4 +45,11 @@ gaps:
 - *The Universal Constant in Living* (1941).
 
 ## القيد
-راجعت مراجعات كوكرين ودراسات لاحقة أدلّة تقنية ألكسندر: أقواها تجربة ATEAM المنشورة في *BMJ* بعد وفاته عام 2008 التي وجدت أثراً حقيقياً ومستمراً على آلام الظهر المزمنة. أما تفسيره النظري لـ«التحكّم الأوّلي» بوصفه منظّماً عاماً لكل حركة فليس له سند فسيولوجي مستقل، ويبقى لغةَ تعليمٍ فعّالة أكثر منه فرضية مُختبَرة.
+راجعت مراجعات كوكرين ودراسات لاحقة أدلّة تقنية ألكسندر: أقواها تجربة ATEAM، المنشورة بعد وفاته في *BMJ* عام 2008، والتي وجدت أثراً حقيقياً ومستمراً على آلام الظهر المزمنة. أما تفسيره النظري لـ«التحكّم الأوّلي» بوصفه منظّماً عاماً لكل حركة فليس له سند فسيولوجي مستقل، ويبقى لغةَ تعليمٍ فعّالة أكثر منه فرضية مُختبَرة.
+
+## المصادر
+
+- [F. Matthias Alexander — Wikipedia](https://en.wikipedia.org/wiki/F._Matthias_Alexander)
+- [Who was F. Matthias Alexander؟ — alexandertechnique.com](https://alexandertechnique.com/fma/)
+- [Book Review: F.M. — The Life of Frederick Matthias Alexander by Michael Bloch — alexandertechnique.com](https://alexandertechnique.com/articles2/bloch/)
+- [Alexander, Frederick Matthias — Encyclopedia of Australian Science and Innovation](https://www.eoas.info/biogs/P000993b.htm)

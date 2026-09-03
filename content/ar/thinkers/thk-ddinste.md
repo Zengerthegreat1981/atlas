@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "con-feminist-psychoanalysis", target_type: "مفهوم"
 related:
 - id: "con-feminist-psychoanalysis", title: "التحليل النفسي النسوي", type: "مفهوم"
-- id: "thk-jmitchell", title: "جوليا ميتشِل", type: "مفكر"
+- id: "thk-jmitchell", title: "جوليت ميتشل", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *The Mermaid and the Minotaur* (1976) بترجمة عربية معتمدة."
   - "قسم «أهم أعمالها» غير مستوفى: مقالاتها المنشورة بعد 1976 لم تُراجع."
@@ -32,3 +32,9 @@ gaps:
 - **The Mermaid and the Minotaur (1976)**: نقد للحضارة المعتمدة على احتكار النساء للأمومة المبكرة.
 - **دعوة لتقاسم الأبوة والأمومة** في الطفولة المبكرة لتخفيف الاغتراب الذكوري.
 - **نقد اختزال الأنوثة في وظيفة الإنجاب**.
+
+## المصادر
+
+- [Dorothy Dinnerstein — Wikipedia](https://en.wikipedia.org/wiki/Dorothy_Dinnerstein)
+- [Dorothy Dinnerstein — Jewish Women's Archive](https://jwa.org/encyclopedia/article/dinnerstein-dorothy)
+- [Dorothy Dinnerstein (1923–1992) — Encyclopedia.com](https://www.encyclopedia.com/women/dictionaries-thesauruses-pictures-and-press-releases/dinnerstein-dorothy-1923-1992)

@@ -50,3 +50,9 @@ gaps:
 - درسه الأسبوعي «التوجّه اللاكاني» (L'orientation lacanienne) في جامعة باريس الثامنة منذ 1981.
 - *Donc: La logique de la cure* (1993–1994).
 - *L'os d'une cure* (2018).
+
+## المصادر
+
+- [Jacques-Alain Miller — Wikipedia](https://en.wikipedia.org/wiki/Jacques-Alain_Miller)
+- [World Association of Psychoanalysis — Wikipedia](https://en.wikipedia.org/wiki/World_Association_of_Psychoanalysis)
+- [Jacques-Alain Miller — No Subject (Encyclopedia of Psychoanalysis)](https://nosubject.com/Jacques-Alain_Miller)

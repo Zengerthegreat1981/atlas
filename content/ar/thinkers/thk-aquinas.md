@@ -47,4 +47,11 @@ gaps:
 - Summa contra Gentiles (1259-1265)
 - Quaestiones Disputatae
 - De Ente et Essentia (1252-1256)
-- De Regimine Principum
+- De Regimine Principum (الكتاب الأول وجزء من الثاني منسوبان إليه؛ أكمله بعد وفاته تلميذه بطليموس اللوكي)
+
+## المصادر
+
+- Aeterni Patris (1879), Pope Leo XIII — Vatican archives: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_04081879_aeterni-patris.html
+- Aeterni Patris — Wikipedia: https://en.wikipedia.org/wiki/Aeterni_Patris
+- Thomas Aquinas — Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/entries/aquinas/
+- Thomas Aquinas — Encyclopaedia Britannica: https://www.britannica.com/biography/Saint-Thomas-Aquinas

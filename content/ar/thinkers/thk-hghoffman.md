@@ -45,3 +45,10 @@ gaps:
 
 ## القيد
 - **"SnowWorld"** يعتمد على معدات قديمة، وانتشاره في المستشفيات الفعلية لا يزال محدوداً.
+
+## المصادر
+
+- [Virtual reality significantly reduces pain-related brain activity — UW News (2004)](https://www.washington.edu/news/2004/06/21/virtual-reality-significantly-reduces-pain-related-brain-activity/)
+- [Virtual Reality as an Adjunctive Non-pharmacologic Analgesic for Acute Burn Pain During Medical Procedures — PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4465767/)
+- [SnowWorld melts away pain for burn patients — GeekWire](https://www.geekwire.com/2018/snowworld-melts-away-pain-burn-patients-using-virtual-reality-snowballs/)
+- [Hunter Hoffman, Ph.D. — Sedation and Anesthesia Outside the O.R.](https://snowandsedation.com/hunter-hoffman-ph-d/)

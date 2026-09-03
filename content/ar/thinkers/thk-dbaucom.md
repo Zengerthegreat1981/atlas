@@ -6,7 +6,7 @@ level: "متوسط"
 title: "دونالد بِيكوم"
 en: "Donald H. Baucom"
 crumb: "CBCT (العلاج الزوجي المعرفي-السلوكي) ← المؤسس المشارك ← دونالد بيكوم"
-dates: "الولايات المتحدة · وُلد 1953"
+dates: "الولايات المتحدة · وُلد 1949"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1985
@@ -44,3 +44,9 @@ gaps:
 
 - *Cognitive-Behavioral Marital Therapy* (مع إبستين، 1990).
 - *Cognitive-Behavioral Couple Therapy* (مع إبستين وآخرين، 2015).
+
+## المصادر
+
+- [Donald H. Baucom — Wikipedia](https://en.wikipedia.org/wiki/Donald_H._Baucom)
+- [Donald H. Baucom, Ph.D. — الصفحة الرسمية، جامعة نورث كارولينا في تشابل هيل](https://dhbaucom.web.unc.edu/)
+- [Donald Baucom | Mentor Spotlight — ABCT](https://www.abct.org/mentor-spotlights/donald-baucom/)

@@ -53,3 +53,10 @@ gaps:
 موقع يوحنا في الفلسفة موقعُ **ناقل ومنسِّق** لا مبتكر: قيمته في أنه جمع الميراث الآبائي واليوناني ورتّبه ترتيباً نسقياً صار قابلاً للتدريس، لا في أطروحة جديدة أضافها. وهذا ما جعله بالضبط بالغ الأثر — فالكتاب المرتَّب يُقرأ ويُترجم وينتقل، والكتاب العميق غير المرتَّب يبقى.
 
 والرواية الشائعة عن سيرته — أنه كان وزيراً للخليفة، وأن ليو الثالث دسّ عليه كتاباً مزوَّراً فقُطعت يده ثم رُدّت بمعجزة — سيرةٌ متأخّرة لا يسندها دليل معاصر، وأصلها نصّ عربي من القرن الحادي عشر. والثابت أن أسرته كانت في الإدارة المالية الأموية، وأن يوحنا تركها وترهّب في دير مار سابا قرب القدس.
+
+## المصادر
+
+- [John of Damascus — Encyclopædia Britannica](https://www.britannica.com/biography/Saint-John-of-Damascus)
+- [John of Damascus — Wikipedia](https://en.wikipedia.org/wiki/John_of_Damascus)
+- [Three Treatises on the Divine Images — Wikipedia](https://en.wikipedia.org/wiki/Three_Treatises_on_the_Divine_Images)
+- [John of Damascus and His Defense of Icons — Christian Research Institute](https://www.equip.org/articles/john-of-damascus-and-his-defense-of-icons/)

@@ -27,12 +27,12 @@ related:
 - id: "br-critical-liberation-therapy", title: "العلاج النقدي-التحرري", type: "تيار"
 - id: "ctx-civil-rights-liberation-psychology", title: "حركة الحقوق المدنية وتأسيس علم النفس التحرري ونقد المركزية", type: "سياق/تقليد"
 - id: "sch-decolonial-philosophy", title: "الفلسفة الديكولونيالية", type: "مدرسة"
-- id: "rel-marxism-critical-psychology", title: "الماركسية وعلم النفس التحرري", type: "علاقة بين مدرستين"
+- id: "rel-marxism-critical-psychology", title: "العلاقة بين المادية الماركسية وعلم النفس النقدي والتحرري", type: "علاقة بين مدرستين"
 - id: "ctx-african-colonial-partition-berlin", title: "مؤتمر برلين (1884) وتقسيم إفريقيا وتأسيس العنف الاستعماري", type: "سياق/تقليد"
 - id: "ctx-algerian-revolution-fanon-anti-colonialism", title: "الثورة الجزائرية ونضال التحرر وتأسيس الفكر المناهض للاستعمار", type: "سياق/تقليد"
 - id: "ctx-early-zionism-colonial-palestine", title: "سياق الصهيونية المبكرة واستعمار فلسطين وأثره على الفكر النقدي", type: "سياق/تقليد"
 - id: "ctx-haitian-revolution-black-jacobins", title: "الثورة الهايتية (1791) وإسقاط العبودية وتحدي التنوير الأوروبي", type: "سياق/تقليد"
-- id: "thk-imartinbaro", title: "إغناثيو مارتين-بارو", type: "مفكر"
+- id: "thk-imartinbaro", title: "إغناثيو مارتن-بارو", type: "مفكر"
 - id: "thk-pfreire", title: "باولو فريري", type: "مفكر"
 - id: "con-decolonizing-therapy", title: "العلاج اللااستعماري", type: "مفهوم"
 gaps:
@@ -59,3 +59,10 @@ gaps:
 ## أهم أعماله
 
 بشرة سوداء، أقنعة بيضاء (Peau noire, masques blancs, 1952) · معذبو الأرض (Les Damnés de la Terre, 1961) · العام الخامس للثورة الجزائرية (L'An V de la révolution algérienne, 1959 — صدر لاحقاً بعنوان «سوسيولوجيا ثورة») · من أجل الثورة الأفريقية (Pour la révolution africaine، مقالات جُمعت بعد وفاته عام 1964).
+
+## المصادر
+
+- [Frantz Fanon — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/frantz-fanon/)
+- [Frantz Fanon — Britannica](https://www.britannica.com/biography/Frantz-Fanon)
+- [Frantz Fanon — Pluto Press (سيرة وببليوغرافيا)](https://www.plutobooks.com/product/frantz-fanon/)
+- [Toward the African Revolution — Wikipedia](https://en.wikipedia.org/wiki/Toward_the_African_Revolution)

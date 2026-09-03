@@ -68,3 +68,9 @@ gaps:
   - *Sutta Piṭaka* (الأقوال، DN, MN, SN, AN, KN).
   - *Vinaya Piṭaka* (قانون الرهبنة).
   - *Abhidhamma Piṭaka* (التحليل الفلسفي).
+
+## المصادر
+
+- [The Dates of the Buddha — World History Encyclopedia](https://www.worldhistory.org/article/493/the-dates-of-the-buddha/)
+- [Gautama Buddha — Encyclopedia of Buddhism](https://encyclopediaofbuddhism.org/wiki/Gautama_Buddha)
+- [Siddhartha Gautama — historic-figures.com](https://historic-figures.com/en/figures/bouddha/)

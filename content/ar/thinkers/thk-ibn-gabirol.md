@@ -46,3 +46,10 @@ gaps:
 - مختار الجواهر (مجموعة أمثال وحكم، تُنسب إليه)
 - تاج الملكوت (كِتِر مَلخوت — أشهر قصائده الدينية بالعبرية)
 - ديوانه العبري في الشعر الديني والدنيوي
+
+## المصادر
+
+- [Solomon Ibn Gabirol [Avicebron] — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/ibn-gabirol/)
+- [Ibn Gabirol, Solomon ben Judah (Avicebron) — Jewish Encyclopedia](https://jewishencyclopedia.com/articles/2167-avicebron-solomon-ibn-gabirol)
+- [Ibn Gabirol — Encyclopaedia Britannica](https://www.britannica.com/biography/Ibn-Gabirol)
+- [Keter Malkhut — Sefaria Library](https://www.sefaria.org/Keter_Malkhut)

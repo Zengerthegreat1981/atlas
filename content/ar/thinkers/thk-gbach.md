@@ -33,3 +33,10 @@ gaps:
 
 ## القيد
 يقوم منهج بَخ على «فرضية التنفيس» (Catharsis): أن التعبير عن الغضب يفرّغه فيقلّ. هذه الفرضية سقطت تجريبياً — سلسلة تجارب براد بوشمان وزملائه بعد وفاته (1999–2002) أظهرت العكس: التعبير المباشر عن الغضب يزيده لا يخفّفه. وكذلك تراجعت مجموعات الماراثون بعد توثيق حالات ضرر نفسي في المجموعات المكثّفة غير المؤطَّرة (دراسة ليبرمان ويالوم وميلز، 1973).
+
+## المصادر
+
+- Internet Archive, George R. Bach, "Aggression Lab: The Fair Fight Training Manual": https://archive.org/details/aggressionlab00kend
+- Internet Archive, George R. Bach & Herb Goldberg, "Creative Aggression": https://archive.org/details/creativeaggressi00bach
+- Sage Journals, George R. Bach, "A Theory of Intimate Aggression" (1963): https://journals.sagepub.com/doi/abs/10.2466/pr0.1963.12.2.449
+- Internet Archive / library catalogs, George R. Bach & Peter Wyden, "The Intimate Enemy: How to Fight Fair in Love and Marriage" (W. Morrow, 1969): https://archive.org/details/intimateenemyhowbach00bach

@@ -20,7 +20,7 @@ related:
 gaps:
   - "التفاصيل المتعلقة بانفصاله عن مايرون شَراف (Myron Sharaf) في سنواته الأخيرة شحيحة."
   - "لا يوجد اقتباس مباشر موثوق من *Man in the Trap* (1967) بترجمة عربية معتمدة."
-  - "نُسب لبيكر سابقاً كتاب بعنوان 'أحد عشر عاماً مع فيلهلم رايخ' (My Eleven Years with Wilhelm Reich) — لم يتأكد وجود هذا العنوان أو نسبته له من مصدر أولي، فحُذف من قائمة الأعمال بانتظار توثيق."
+  - "تصحيح: كتاب «My Eleven Years with Reich» موجود فعلاً ومنسوب لبيكر — نُشر أصلاً كسلسلة 17 مقالاً في *Journal of Orgonomy* بين 1976 و1984، ثم جُمع في كتاب بعد وفاته؛ أُضيف الآن إلى قائمة الأعمال (العنوان الدقيق «Reich» لا «Wilhelm Reich»)."
 ---
 
 # إلسوورث ف. بيكر
@@ -40,4 +40,11 @@ gaps:
 
 ## أهم أعماله
 
-«الإنسان في الفخ» (Man in the Trap, 1967) · مقالات في *Journal of Orgonomy* (محرر).
+«الإنسان في الفخ» (Man in the Trap, 1967) · مقالات في *Journal of Orgonomy* (محرر) · «أحد عشر عاماً مع رايخ» (My Eleven Years with Reich، سلسلة مقالات 1976–1984، جُمعت كتاباً بعد وفاته).
+
+## المصادر
+
+- [The American College of Orgonomy — Medical Orgonomy (Baker)](https://www.orgonomy.org/articles/Baker/Medical_Orgonomy.html)
+- [Wilhelm Reich — Elsworth F. Baker (PDF)](https://orgonomy.org/articles/Baker/Wilhelm_Reich.pdf)
+- [Man in the Trap — Elsworth F. Baker (Goodreads)](https://www.goodreads.com/book/show/1255002.Man_in_the_Trap)
+- [My Eleven Years with Reich — Elsworth Baker (Goodreads)](https://www.goodreads.com/book/show/28427393-my-eleven-years-with-reich)

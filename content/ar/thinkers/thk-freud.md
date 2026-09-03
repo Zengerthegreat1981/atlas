@@ -24,7 +24,7 @@ related:
 - id: "con-madonna-whore-complex", title: "عقدة مادونا–العاهرة (انشطار الرغبة والاحترام في العلاقات)", type: "مفهوم"
 - id: "evt-wednesday-psychological-society-1902", title: "تأسيس جمعية الأربعاء النفسية في فيينا", type: "حدث تاريخي"
 - id: "crt-neuroscience-critique-classic-theories", title: "النقد العصبي-العلمي للنظريات الكلاسيكية: فجوة الدليل العصبي", type: "نقد خارجي موثَّق"
-- id: "crt-postcolonial-critique-psychoanalysis", title: "النقد ما بعد الاستعماري للتحليل النفسي: السفر كاستعارة، المحلي كغريب", type: "نقد خارجي موثَّق"
+- id: "crt-postcolonial-critique-psychoanalysis", title: "النقد ما بعد الاستعماري للتحليل النفسي: الأنا الأوروبية كمعيار كوني للنفس", type: "نقد خارجي موثَّق"
 - id: "crt-religious-conservative-critique-psychoanalysis", title: "النقد الديني/اللاهوتي المحافظ للتحليل النفسي: تهديد للأخلاق", type: "نقد خارجي موثَّق"
 - id: "crt-research-ethics-historical", title: "نقد أخلاقيات البحث التاريخية: تجارب أسّست مدارس", type: "نقد خارجي موثَّق"
 - id: "tec-stpp", title: "التحليل النفسي الديناميكي قصير المدى (STPP)", type: "تقنية/تدخل علاجي"
@@ -70,4 +70,12 @@ gaps:
 
 ## أهم أعماله
 
-تأويل الأحلام (Die Traumdeutung, 1899/1900) · دراسات في الهستيريا (Studien über Hysterie مع بروير, 1895) · خمس محاضرات في التحليل النفسي (Über Psychoanalyse, 1909) · ما وراء مبدأ اللذة (Jenseits des Lustprinzips, 1920) · الأنا والهو (Das Ich und das Es, 1923) · الحضارة وتوابعها (Das Unbehagen in der Kultur, 1930).
+تأويل الأحلام (Die Traumdeutung, صدر نوفمبر 1899 بتاريخ نشر مُثبَّت 1900) · دراسات في الهستيريا (Studien über Hysterie مع بروير, 1895) · خمس محاضرات في التحليل النفسي (Über Psychoanalyse — أُلقيت في جامعة كلارك عام 1909 ونُشرت 1910) · ما وراء مبدأ اللذة (Jenseits des Lustprinzips, 1920) · الأنا والهو (Das Ich und das Es, 1923) · الحضارة وتوابعها (Das Unbehagen in der Kultur, 1930).
+
+## المصادر
+
+- Wikipedia, "The Interpretation of Dreams": https://en.wikipedia.org/wiki/The_Interpretation_of_Dreams
+- Wikipedia, "Studies on Hysteria": https://en.wikipedia.org/wiki/Studies_on_Hysteria
+- Freud Museum London, "Freud at Home: The Wednesday Psychological Society": https://www.freud.org.uk/2020/05/14/freud-at-home-the-wednesday-psychological-society/
+- Wikipedia, "Vienna Psychoanalytic Society": https://en.wikipedia.org/wiki/Vienna_Psychoanalytic_Society
+- Archive.org, Freud, "Five Lectures on Psycho-Analysis" (Strachey translation): https://archive.org/download/SigmundFreud/Sigmund%20Freud%20%5B1909%5D%20Five%20Lectures%20on%20Psych-Aanalysis%20%28James%20Strachey%20translation%2C%201955%29.pdf

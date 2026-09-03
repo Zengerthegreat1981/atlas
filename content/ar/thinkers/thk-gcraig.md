@@ -5,11 +5,11 @@ type: "مفكر"
 level: "متوسط"
 title: "غاري كريغ"
 en: "Gary Craig"
-dates: "الولايات المتحدة · وُلد 1940"
+dates: "الولايات المتحدة · 1940–2026"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1995
-active_end: "مستمر"
+active_end: 2026
 part: "philosophy"
 crumb: "علاجات حقل الفكر (TFT) ← تقنية الحرية العاطفية (EFT) ← غاري كريغ"
 edges: []
@@ -17,7 +17,7 @@ related:
 - id: "thk-cgarrett", title: "كولين غاريت", type: "مفكر"
 - id: "thk-rcallahan", title: "روجر كالاهان", type: "مفكر"
 gaps:
-  - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
+  - "توفي غاري كريغ في يناير 2026 (وُلد 13 أبريل 1940) — جرى تحديث حقلي dates وactive_end بناءً على مصادر متعددة موثِّقة للوفاة (انظر المصادر)."
   - "لا يوجد اقتباس مباشر موثوق من *EFT Manual* (2001) بترجمة عربية معتمدة."
   - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«علاج حقل الفكر (Thought Field Therapy — TFT)» في content/ar/schools أو branches."
 ---
@@ -44,3 +44,10 @@ EFT من أوضح الأمثلة على الفجوة بين الانتشار و�
 
 - *EFT Manual* (2001).
 - *The EFT Mini-Manual* (2003).
+
+## المصادر
+
+- Wikipedia, "Emotional Freedom Techniques": https://en.wikipedia.org/wiki/Emotional_Freedom_Techniques
+- The Tapping Solution, "The Man Who Gave Tapping to the World: Remembering Gary Craig, 1940–2026": https://www.thetappingsolution.com/blog/the-man-who-gave-tapping-to-the-world-remembering-gary-craig-1940-2026/
+- Guild of Energists (GoE), "In Memoriam: Gary Craig, The Founder of Emotional Freedom Techniques (EFT)": https://goe.ac/gary_craig_founder_eft_obituary.htm
+- International Journal of Healing and Caring, "Obituary – Goodbye to Gary" (مايو 2026): https://ijhc.org/2026/05/01/obituary-craig-t-goodbye-to-gary/

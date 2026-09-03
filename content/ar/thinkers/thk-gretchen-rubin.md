@@ -56,3 +56,9 @@ gaps:
 - *Better Than Before* (2015).
 - *The Four Tendencies* (2017).
 - *Life in Five Senses* (2023).
+
+## المصادر
+
+- [Gretchen Rubin — Wikipedia](https://en.wikipedia.org/wiki/Gretchen_Rubin)
+- [The Four Tendencies — الموقع الرسمي](https://gretchenrubin.com/books/the-four-tendencies/)
+- [Goodreads: The Four Tendencies](https://www.goodreads.com/book/show/33566873-the-four-tendencies)

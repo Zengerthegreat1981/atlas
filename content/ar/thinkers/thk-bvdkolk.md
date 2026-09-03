@@ -18,7 +18,7 @@ related:
 - id: "thk-bperry", title: "بروس د. بيري", type: "مفكر"
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
-  - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
+  - "تصحيح: تأسس «مركز الصدمة» (The Trauma Center) عام 1982 لا 1984، وتاريخ الميلاد 8 يوليو 1943 في لاهاي بهولندا (لا 1943 فقط) — عبر ويكيبيديا الإنجليزية وموقعه الرسمي besselvanderkolk.com."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بات أوغدن (thk-pogden)."
   - "دُمج معه الملف المكرَّر thk-bessel-van-der-kolk-expanded (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
   - "رابط «بيتر ليفين» (thk-plevine) أُزيل — الاسم غير مذكور في المتن؛ لا واقعة أو نص مشترك موثّق يربطه بفان دير كولك هنا."
@@ -33,7 +33,7 @@ gaps:
 ## ما أعطاه
 
 - **"الجسد يحتفظ بالحساب"** (The Body Keeps the Score): كتاب مرجعي يوثق كيف تخزن الصدمة في الجسد.
-- **"مركز الصدمة"** (1984): تأسيس مركز متخصص في علاج الصدمة وأبحاثها.
+- **"مركز الصدمة"** (1982): تأسيس مركز متخصص في علاج الصدمة وأبحاثها في بروكلاين، ماساتشوستس.
 - **"الصدمة التنموية"** (Developmental Trauma): مفهوم الاضطراب الناتج عن الصدمات المتكررة في الطفولة.
 - **"العلاج باليوغا"** (Yoga for Trauma): أبحاث حول استخدام اليوغا في علاج اضطراب ما بعد الصدمة.
 
@@ -44,5 +44,12 @@ gaps:
 ## أهم أعماله
 
 - *The Body Keeps the Score* (2014).
-- *Posttraumatic Stress Disorder* (محرر، 1984).
-- *Traumatic Stress* (محرر، 1996).
+- *Psychological Trauma* (تأليف، 1987).
+- *Traumatic Stress: The Effects of Overwhelming Experience on Mind, Body, and Society* (تحرير مشترك مع McFarlane وWeisaeth، 1996).
+
+## المصادر
+
+- [Bessel van der Kolk — Wikipedia](https://en.wikipedia.org/wiki/Bessel_van_der_Kolk)
+- [Bessel van der Kolk, MD — الموقع الرسمي](https://www.besselvanderkolk.com/)
+- [Psychological trauma. Bessel A. Vander Kolk. American Psychiatric Press, 1987 — Stress Medicine](https://onlinelibrary.wiley.com/doi/10.1002/smi.2460050115)
+- [Traumatic Stress (1996) — مقدمة الكتاب، trauma-pages.com](http://www.trauma-pages.com/s/vanderk3.php)

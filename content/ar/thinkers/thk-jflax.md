@@ -17,7 +17,7 @@ edges:
 related:
 - id: "con-feminist-psychoanalysis", title: "التحليل النفسي النسوي", type: "مفهوم"
 - id: "sch-post-structuralism", title: "ما بعد البنيوية (Post-structuralisme)", type: "مدرسة"
-- id: "thk-jmitchell", title: "جولييت ميتشل", type: "مفكر"
+- id: "thk-jmitchell", title: "جوليت ميتشل", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Thinking Fragments* (1990) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جوليا ميتشِل (thk-jmitchell)."
@@ -38,4 +38,10 @@ gaps:
 
 ## موقعها من التيار
 
-من أهم أصوات ما بعد البنيوية في التحليل النفسي النسوي.
+من أهم أصوات ما بعد البنيوية في التحليل النفسي النسوي. عملت أستاذة للعلوم السياسية في جامعة هاوارد (Howard University)، ومارست التحليل/العلاج النفسي في عيادة خاصة إلى جانب عملها الأكاديمي.
+
+## المصادر
+
+- [Thinking Fragments — Internet Archive (نسخة كاملة قابلة للاستعارة)](https://archive.org/details/thinkingfragment0000flax)
+- [Thinking Fragments — University of California Press / UC Press E-Books Collection](https://publishing.cdlib.org/ucpressebooks/public/book/thinking-fragments-psychoanalysis-feminism-and-postmodernism-in-the-contemporary-west.html)
+- [مراجعة الكتاب — Postmodern Culture](https://www.pomoculture.org/2013/09/26/review-of-flax-jane-thinking-fragments-psychoanalysis-feminism-and-postmodernism-in-the-contemporary-west-berkeley-california-up-1990/)

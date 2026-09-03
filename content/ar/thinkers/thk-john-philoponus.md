@@ -41,3 +41,10 @@ gaps:
 - *ضدّ أرسطو في أزلية العالم* — شذرات محفوظة عند سمبليكيوس.
 - شروح على *الطبيعة* و*في النفس* و*التحليلات*.
 - *صانع العالم* (De opificio mundi).
+
+## المصادر
+
+- [John Philoponus — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/philoponus/)
+- [John Philoponus — Wikipedia](https://en.wikipedia.org/wiki/John_Philoponus)
+- [Philoponus, John (490–570) — Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/philoponus-john-490-570)
+- [Aristotelian Physics, Impetus Theory, and the Mean Speed Theorem — Encyclopedia.com](https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/aristotelian-physics-impetus-theory-and-mean-speed-theorem)

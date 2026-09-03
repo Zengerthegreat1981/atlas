@@ -50,3 +50,14 @@ gaps:
 ## أهم أعماله
 
 «غموض القيادة» (The Leadership Mystique, 2001) · «القائد على الأريكة» (The Leader on the Couch, 2006) · «الحياة التنظيمية» (Organizational Lives, 2014).
+
+## المصادر
+
+- [INSEAD Faculty — Manfred F. R. Kets de Vries](https://www.insead.edu/faculty/manfred-f-r-kets-de-vries)
+- [INSEAD CV (سيرة رسمية رقمية)](https://sites.insead.edu/facultyresearch/faculty/cv.cfm?cid=1232)
+- [Wikipedia — Manfred F.R. Kets de Vries](https://en.wikipedia.org/wiki/Manfred_F._R._Kets_de_Vries)
+- [Kets de Vries Institute (KDVI) — عنه](https://kdvi.com/people/manfred-kets-de-vries/)
+- [International Leadership Association — Manfred Kets de Vries](https://ilaglobalnetwork.org/awards/leadership-legacy-program/manfred-kets-de-vries/)
+- [ISPSO — Manfred Kets de Vries (Distinguished Member)](https://ispso.org/Distinguished-Members-Post/Manfred-Kets-de-Vries-exist)
+- [Sage Journals — مراجعة كتاب The Neurotic Organization (1986)](https://journals.sagepub.com/doi/abs/10.1177/017084068600700106)
+- [Amazon — The Neurotic Organization (بيانات النشر، Kets de Vries & Miller, 1984)](https://www.amazon.com/Neurotic-Organization-Manfred-Kets-Vries/dp/0887304885)
