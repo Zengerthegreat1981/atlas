@@ -54,3 +54,12 @@ gaps:
 - *The Ending of Time* (1985، حوارات مع ديفيد بوم).
 - *Krishnamurti's Notebook* (1976) و*Krishnamurti's Journal* (1982).
 - خطبة **حلّ وسام نجمة الشرق** (أوميّن، 3 أغسطس 1929).
+
+## المصادر
+
+- Jiddu Krishnamurti, *The First and Last Freedom* (1954).
+- Jiddu Krishnamurti, *Freedom from the Known* (1969).
+- Jiddu Krishnamurti and David Bohm, *The Ending of Time* (1985).
+- Jiddu Krishnamurti, *Krishnamurti's Notebook* (1976) و*Krishnamurti's Journal* (1982).
+- Radha Rajagopal Sloss, *Lives in the Shadow with J. Krishnamurti* (1991).
+- مقالة "Jiddu Krishnamurti" في موسوعة ويكيبيديا الإنجليزية، بشأن سيرته وخطبة حلّ وسام نجمة الشرق عام 1929.

@@ -38,9 +38,9 @@ gaps:
 
 ثورة كوبرنيكية: حتى الآن ظنّ الفلاسفة أن **معرفتنا** تطابق **الأشياء** (أرسطو، لوك). كانط **يقلب** المعادلة: الأشياء تُدرك وفق **أشكال المعرفة الذاتية** (Erkenntnisformen)، فالزمان والمكان (اللذان ظنهما نيوتن حقيقيين) هما **حدسنا الحسي الخالص** (Reine Sinnliche Anschauung)، و**مقولات الفهم** (Kategorien des Verstandes: الجوهر، العلية، التضافر، إلخ) هي **أشكال التفكير الخالصة**. الشيء في ذاته (Ding an sich) يبقى **خارج المعرفة**، لا يُدرَك إلا ظواهر (Erscheinungen).
 
-### «نقد العقل العملي» (Kritik der praktischen Vernunft, 1788)
+### «تأسيس ميتافيزيقا الأخلاق» (Grundlegung zur Metaphysik der Sitten, 1785) و«نقد العقل العملي» (Kritik der praktischen Vernunft, 1788)
 
-صاغ كانط في الأخلاق **مبدأ الأمر المطلق** (Kategorischer Imperativ): «اعمل فقط وفق تلك القاعدة التي يمكنك في الوقت نفسه أن تريدها قانوناً كونياً» (Handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst, dass sie ein allgemeines Gesetz werde). هذا المبدأ **موحد** بين الواجب (Pflicht) والحرية (Freiheit).
+صاغ كانط أولاً في «التأسيس» (1785) الصياغة الأشهر لـ**مبدأ الأمر المطلق** (Kategorischer Imperativ): «اعمل فقط وفق تلك القاعدة التي يمكنك في الوقت نفسه أن تريدها قانوناً كونياً» (Handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst, dass sie ein allgemeines Gesetz werde). ثم أعاد بناء الأساس النقدي الكامل للأخلاق في «نقد العقل العملي» (1788)، حيث ربط الأمر المطلق بمفهوم **استقلالية الإرادة** (Autonomie des Willens) وبإثبات الحرية والخلود ووجود الله بوصفها «مصادرات العقل العملي» (Postulate der praktischen Vernunft) لا معطيات نظرية. هذا المبدأ **موحد** بين الواجب (Pflicht) والحرية (Freiheit).
 
 ### «نقد ملكة الحكم» (Kritik der Urteilskraft, 1790)
 
@@ -75,3 +75,12 @@ gaps:
 - **Die Religion innerhalb der Grenzen der bloßen Vernunft** (1793): الدين في حدود العقل.
 - **Zum ewigen Frieden** (1795): نحو السلام الدائم.
 - **Metaphysik der Sitten** (1797): ميتافيزيقا الأخلاق.
+
+## المصادر
+
+- Kant, Immanuel. *Kritik der reinen Vernunft*. Riga: Johann Friedrich Hartknoch, 1781 (طبعة ثانية منقّحة 1787).
+- Kant, Immanuel. *Kritik der praktischen Vernunft*. Riga: Johann Friedrich Hartknoch, 1788.
+- Kant, Immanuel. *Kritik der Urteilskraft*. Berlin/Libau: Lagarde und Friedrich, 1790.
+- Kant, Immanuel. *Die Religion innerhalb der Grenzen der bloßen Vernunft*. Königsberg: Friedrich Nicolovius, 1793.
+- Kant, Immanuel. *Grundlegung zur Metaphysik der Sitten*. Riga: Johann Friedrich Hartknoch, 1785.
+- Mills, Charles W. "Kant's *Untermenschen*," in Andrew Valls (ed.), *Race and Racism in Modern Philosophy*. Ithaca: Cornell University Press, 2005.

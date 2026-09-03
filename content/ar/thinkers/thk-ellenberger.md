@@ -33,4 +33,11 @@ gaps:
 
 ## أهم أعماله
 
-اكتشاف اللاواعي: تاريخ الطب النفسي الديناميكي ونشوؤه (The Discovery of the Unconscious: The History and Evolution of Dynamic Psychiatry, 1970) — ومن أطروحاته المؤثّرة فيه أن ما مرّ به فرويد ويونغ يندرج في نمط تاريخي متكرّر سمّاه «المرض الإبداعي».
+اكتشاف اللاواعي: تاريخ الطب النفسي الديناميكي ونشوؤه (The Discovery of the Unconscious: The History and Evolution of Dynamic Psychiatry, 1970) — عمل ضخم يتتبّع جذور الطب النفسي الديناميكي من ممارسات الإخراج (exorcism) عند القس يوهان يوزف غاسنر في القرن الثامن عشر، مروراً بالمسمرة (فرانتس مسمر) والمغنطة الحيوانية عند الماركيز دو بويسيغور، فشاركو والمدرسة الفرنسية، وصولاً إلى فرويد وأدلر ويونغ وبيير جانيه في القرن العشرين. ومن أطروحاته المؤثّرة فيه أن ما مرّ به فرويد ويونغ يندرج في نمط تاريخي متكرّر سمّاه «المرض الإبداعي» (creative illness) — أزمة نفسية شخصية شديدة تسبق أو ترافق إنتاج نسق فكري جديد.
+
+شارك مع رولو ماي وإرنست أنجل في تحرير *Existence: A New Dimension in Psychiatry and Psychology* (1958)، الكتاب الذي عرّف القارئ الأنجلوفوني بالتحليل الوجودي الأوروبي (بنسفانغر وغيره) لأول مرة على نطاق واسع.
+
+## المصادر
+
+- Ellenberger, Henri F. *The Discovery of the Unconscious: The History and Evolution of Dynamic Psychiatry*. New York: Basic Books, 1970.
+- May, Rollo; Angel, Ernest; Ellenberger, Henri F. (محررون). *Existence: A New Dimension in Psychiatry and Psychology*. New York: Basic Books, 1958.

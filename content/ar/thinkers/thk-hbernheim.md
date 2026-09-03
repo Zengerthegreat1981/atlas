@@ -45,3 +45,9 @@ gaps:
 
 - *De la suggestion dans l'état hypnotique et dans l'état de veille* (1884).
 - *Hypnotisme, suggestion, psychothérapie* (1891).
+
+## المصادر
+
+- تأسيس مدرسة نانسي وتطويرها من عمل ليبو، تعريف "التنويم بالإيحاء"، والخلاف مع شاركو ومدرسة السالبيتريير: "Nancy School", Wikipedia؛ "The Nancy School", hypnosis.edu (تاريخ الاطلاع: 2026-09-03).
+- استعمال مصطلح "Psychothérapie" عنواناً لكتابه *Hypnotisme, suggestion, psychothérapie* (1891) وسبقه بذلك دانيال هاك تيوك بنحو عقدين بالإنجليزية: "Hippolyte Bernheim", Wikipedia؛ "Hypnotherapy: the original psychotherapy", ukhypnosis.com (تاريخ الاطلاع: 2026-09-03).
+- زيارة فرويد لنانسي سنة 1889 وترجمته الألمانية لكتاب برنهايم، ووصف فرويد نفسه بتلميذ برنهايم: "Hypnosis, medicine and Freud", Royal Society blog (تاريخ الاطلاع: 2026-09-03).

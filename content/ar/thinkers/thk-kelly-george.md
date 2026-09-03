@@ -61,3 +61,10 @@ gaps:
 - *The Psychology of Personal Constructs* (مجلّدان، 1955) — المجلّد الأول في النظرية، والثاني في التشخيص والعلاج.
 - "Man's Construction of His Alternatives" (1958)، في *Assessment of Human Motives* — عرضه المختصر الأشهر.
 - *Clinical Psychology and Personality: The Selected Papers of George Kelly* (تحرير برندان ماهر، نُشر بعد وفاته عام 1969).
+
+## المصادر
+
+- Kelly, George A. *The Psychology of Personal Constructs* (2 vols.). New York: W. W. Norton, 1955.
+- Kelly, George A. "Man's Construction of His Alternatives," in Gardner Lindzey (ed.), *Assessment of Human Motives*. New York: Rinehart, 1958.
+- Maher, Brendan (ed.). *Clinical Psychology and Personality: The Selected Papers of George Kelly*. New York: John Wiley & Sons, 1969.
+- Fransella, Fay (ed.). *International Handbook of Personal Construct Psychology*. Chichester: John Wiley & Sons, 2003.

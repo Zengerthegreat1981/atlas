@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-- id: "thk-ortega", title: "خوسيه أورتيجا إي جاسيت", type: "مفكر"
+- id: "thk-ortega", title: "خوسيه أورتيغا إي غاسيت", type: "مفكر"
 - id: "wrk-being-time", title: "الوجود والزمان", type: "عمل / كتاب"
 - id: "con-time", title: "الزمن", type: "مفهوم"
 - id: "thk-sanchez", title: "كارلوس ألبيرتو سانشيز", type: "مفكر"
@@ -43,3 +43,8 @@ gaps:
 ## أهم أعماله
 
 ترجمة الوجود والزمان لمارتن هايدجر (El ser y el tiempo, 1951) · اعترافات مهنية (Confesiones profesionales, 1958) · في فلسفة الفلسفة (Filosofía de la filosofía, 1947).
+
+## المصادر
+- Heidegger, M. / ترجمة Gaos, J. *El ser y el tiempo* (Fondo de Cultura Económica، 1951) — أول ترجمة إسبانية لكتاب *Sein und Zeit*.
+- Gaos, J. *Filosofía de la filosofía e historia de la filosofía* (FCE، 1947).
+- Gaos, J. *Confesiones profesionales* (FCE، 1958).
