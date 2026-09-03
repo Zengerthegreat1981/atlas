@@ -16,7 +16,7 @@ edges: []
 related:
 - id: "thk-gbateson", title: "غريغوري باتسون", type: "مفكر"
 - id: "thk-jhaley", title: "جاي هالي", type: "مفكر"
-- id: "con-double-bind", title: "الرباط المزدوج", type: "مفهوم"
+- id: "con-double-bind", title: "الرباط المزدوج (Double Bind)", type: "مفهوم"
 - id: "thk-rfisch", title: "ريتشارد فيش", type: "مفكر"
 gaps:
   - "التفاصيل الدقيقة لتكوينه الأكاديمي الأول (قبل انضمامه لمشروع باتسون) غير متوفرة بشكل كامل."
@@ -48,3 +48,10 @@ gaps:
 - *Change: Principles of Problem Formation and Problem Resolution* (1974، مع بول واتزلافيك وريتشارد فيش) — من الأعمال المؤسِّسة للعلاج الاستراتيجي.
 - *The Tactics of Change: Doing Therapy Briefly* (1982، مع فيش وسيغال).
 - *Propagations: Thirty Years of Influence from the Mental Research Institute* (1995، تحرير).
+
+## المصادر
+
+- Wikipedia, "John Weakland" (1919-1995).
+- European Family Therapy Association (EFTA), "John Weakland" — نبذة سيرية.
+- ResearchGate, "John H. Weakland: An Interview in Retrospect".
+- Bateson, Jackson, Haley, Weakland, "Toward a Theory of Schizophrenia", *Behavioral Science* 1(4) (1956).

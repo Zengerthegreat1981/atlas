@@ -19,7 +19,7 @@ related:
 - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
-- id: "evt-weimar-congress-split-1911", title: "انشقاق ألفرد أدلر عن جمعية فيينا للتحليل النفسي وتأسيس علم النفس الفردي", type: "حدث تاريخي"
+- id: "evt-weimar-congress-split-1911", title: "انشقاق ألفرد أدلر عن جمعية فيينا للتحليل النفسي وتأسيس علم النفس الفردي (1911)", type: "حدث تاريخي"
 - id: "syn-middle-child", title: "متلازمة الطفل الأوسط والبحث عن الهوية (Middle Child Syndrome)", type: "متلازمة"
 - id: "syn-only-child", title: "متلازمة الطفل الوحيد وسيكولوجيا فرط الحماية", type: "متلازمة"
 - id: "br-schultz-hencke", title: "التحليل النفسي الجديد (شولتز-هينكه)", type: "تيار"
@@ -48,3 +48,10 @@ gaps:
 ## أهم أعماله
 
 فهم الطبيعة البشرية (Menschenkenntnis / Understanding Human Nature, 1927) · الممارسة والنظرية في علم النفس الفردي (The Practice and Theory of Individual Psychology, 1924) · ما ينبغي أن تعنيه الحياة لك (What Life Could Mean to You, 1931).
+
+## المصادر
+
+- Ansbacher, H. L., & Ansbacher, R. R. (Eds.). (1956). *The Individual Psychology of Alfred Adler*. Basic Books.
+- Hoffman, E. (1994). *The Drive for Self: Alfred Adler and the Founding of Individual Psychology*. Addison-Wesley.
+- "Alfred Adler" — Encyclopaedia Britannica, and Adler University, "Alfred Adler: Vision and Lasting Impact" (adler.edu).
+- "Individual psychology" و"Vienna Psychoanalytic Society" — Wikipedia (بالإنجليزية)، مراجَعة للتواريخ (الانسحاب فبراير 1911، القطيعة النهائية أكتوبر 1911، تسمية "علم النفس الفردي" 1912).

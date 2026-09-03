@@ -15,14 +15,14 @@ active_end: 1984
 edges:
 - rel: "belongs_to", target: "sch-post-structuralism", target_type: "مدرسة"
 related:
-- id: "rel-post-structuralism-antipsychiatry", title: "ما بعد البنيوية ومناهضة الطب النفسي", type: "علاقة بين مدرستين"
+- id: "rel-post-structuralism-antipsychiatry", title: "ما بعد البنيوية ومناهضة الطب النفسي: من فوكو إلى ساس", type: "علاقة بين مدرستين"
 - id: "thk-derrida", title: "جاك دريدا", type: "مفكر"
-- id: "sch-post-structuralism", title: "ما بعد البنيوية", type: "مدرسة"
+- id: "sch-post-structuralism", title: "ما بعد البنيوية (Post-structuralisme)", type: "مدرسة"
 - id: "ctx-postmodern-critical-tradition", title: "سياق ما بعد الحداثة والنقد التفكيكي والتحرري", type: "سياق/تقليد"
-- id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية", type: "مدرسة"
+- id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية (Philosophical Postmodernism)", type: "مدرسة"
 - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
 - id: "thk-szasz", title: "توماس ساس", type: "مفكر"
-- id: "wrk-foucault-madness-civilization", title: "تاريخ الجنون في العصر الكلاسيكي", type: "عمل / كتاب"
+- id: "wrk-foucault-madness-civilization", title: "الجنون والحضارة (Madness and Civilization)", type: "عمل / كتاب"
 - id: "ctx-paris-may-1968-intellectual", title: "أحداث مايو 1968 في باريس وثورة ما بعد البنيوية والتفكيك", type: "سياق/تقليد"
 - id: "ctx-post-911-war-on-terror-surveillance", title: "أحداث 11 سبتمبر والحرب على الإرهاب وصعود دولة المراقبة والأمن", type: "سياق/تقليد"
 - id: "ctx-surveillance-capitalism-big-data", title: "رأسمالية المراقبة وخوارزميات تعدين السلوك وتوجيه الانتباه", type: "سياق/تقليد"
@@ -55,3 +55,9 @@ gaps:
 - *Les Mots et les Choses: Une archéologie des sciences humaines* (1966)
 - *Surveiller et punir: Naissance de la prison* (1975)
 - *Histoire de la sexualité* (1976–1984)
+
+## المصادر
+
+- Stanford Encyclopedia of Philosophy, "Michel Foucault" — plato.stanford.edu/entries/foucault/
+- Internet Encyclopedia of Philosophy, "Foucault, Michel" — iep.utm.edu/foucault/
+- ويكيبيديا الإنجليزية، "Michel Foucault" (تواريخ الميلاد/الوفاة والمؤلفات).

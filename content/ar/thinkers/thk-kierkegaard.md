@@ -37,7 +37,7 @@ related:
 - id: "thk-barrett", title: "ويليام باريت", type: "مفكر"
 - id: "thk-bespaloff", title: "راشيل بيسبالوف", type: "مفكر"
 - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
-- id: "sch-kierkegaardian", title: "الكيركغاردية", type: "مدرسة"
+- id: "sch-kierkegaardian", title: "الكيركغاردية (الوجودية المبكرة الدينية)", type: "مدرسة"
 - id: "crt-adorno-jargon-authenticity-critique", title: "نقد أدورنو: رطانة الأصالة كأيديولوجيا تخديرية", type: "نقد خارجي موثَّق"
 gaps:
   - "قائمة الأعمال والتواريخ — لم تُثبَّت"
@@ -80,3 +80,9 @@ gaps:
 ## اقتباسات مختارة
 
 «القلق دُوار الحرية.» — مفهوم القلق، 1844<br>«الذات علاقة تُحيل إلى نفسها.» — المرض حتى الموت، 1849
+
+## المصادر
+
+- Stanford Encyclopedia of Philosophy, "Søren Kierkegaard" — https://plato.stanford.edu/entries/kierkegaard/
+- Jon Stewart, "Søren Kierkegaard and the Problem of Pseudonymity" — https://www.jonstewart.dk/Stewart,%20Kierkegaard%20and%20the%20Problem%20of%20Pseudonymity-2012.pdf
+- Encyclopædia Britannica, "Søren Kierkegaard" — https://www.britannica.com/biography/Soren-Kierkegaard

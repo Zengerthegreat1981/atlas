@@ -48,3 +48,10 @@ gaps:
 الهلوسات اللفظية والكلام (Les Hallucinations verbales et la parole، 1934) · **الغيرة العاشقة** (La jalousie amoureuse، 1947) · وحدة علم النفس (L'Unité de la psychologie، 1949) · التحليل النفسي (La Psychanalyse، 1955) · إشرافه على **معجم التحليل النفسي** (Vocabulaire de la psychanalyse، 1967، بقلم لابلانش وبونتاليس).
 
 > **تصحيح:** كان كتاب *Les Hallucinations verbales* (1934) مترجَماً في هذا الملف بعنوان «الغيرة المرضية» — وهو في الهلوسات اللفظية؛ أما كتاب الغيرة فهو *La jalousie amoureuse* (1947). كما تُرجم *L'Unité de la psychologie* «علم النفس الإكلينيكي» وصوابه «وحدة علم النفس».
+
+## المصادر
+
+- Encyclopédie Universalis, "Daniel Lagache (1903-1972)".
+- Daniel Lagache, *L'Unité de la psychologie: psychologie expérimentale et psychologie clinique* (PUF, 1949).
+- Persée، "L'unité de la psychologie dans l'œuvre de Daniel Lagache. Idéal scientifique et compromis politique"، *Bulletin de psychologie* (1999).
+- Wikipedia (fr/en), "Daniel Lagache".

@@ -16,7 +16,7 @@ active_source: "lifespan"
 edges:
 - rel: "belongs_to", target: "sch-lixue", target_type: "مدرسة"
 related:
-- id: "sch-lixue", title: "مدرسة المبدأ (لي شوي)", type: "مدرسة"
+- id: "sch-lixue", title: "مدرسة المبدأ (Lixue / Cheng-Zhu)", type: "مدرسة"
 - id: "thk-zhu-xi", title: "تشو هسي", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«تشنغ هاو» (thk-cheng-hao) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
@@ -47,3 +47,10 @@ gaps:
 
 - مجموعة رسائل إيتشوان (伊川文集، Yichuan Wenji).
 - الرسائل الباقية للأخوين تشنغ (二程遗书، Er Cheng Yishu)، رسائله وأقواله.
+
+## المصادر
+
+- "Cheng Yi (philosopher)" — Wikipedia (بالإنجليزية).
+- "Cheng Yi" — Encyclopaedia Britannica؛ "Cheng Hao" — Encyclopaedia Britannica.
+- "Cheng Yi (1033–1107)" — Encyclopedia.com؛ "Cheng Yi" — Internet Encyclopedia of Philosophy (IEP).
+- Cheng Hao 程顥 and Cheng Yi 程頤 — chinaknowledge.de (سيرة الأخوين ومصادرهما الأصلية).

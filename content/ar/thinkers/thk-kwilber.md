@@ -19,7 +19,7 @@ related:
 - id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
 - id: "thk-ctart", title: "تشارلز تارت", type: "مفكر"
 - id: "thk-fvaughan", title: "فرانسيس فوغان", type: "مفكر"
-- id: "thk-eugenetaylor", title: "يوجين تايلور", type: "مفكر"
+- id: "thk-eugenetaylor", title: "يوجين تيلور", type: "مفكر"
 - id: "sch-transpersonal", title: "علم النفس عبر الشخصي", type: "مدرسة"
 - id: "thk-jferrer", title: "خورخي فيرير", type: "مفكر"
 - id: "thk-jgebser", title: "جين غيبسر", type: "مفكر"

@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
 - id: "ctx-postmodern-critical-tradition", title: "سياق ما بعد الحداثة والنقد التفكيكي والتحرري", type: "سياق/تقليد"
-- id: "rel-post-structuralism-antipsychiatry", title: "ما بعد البنيوية ومناهضة الطب النفسي", type: "علاقة بين مدرستين"
+- id: "rel-post-structuralism-antipsychiatry", title: "ما بعد البنيوية ومناهضة الطب النفسي: من فوكو إلى ساس", type: "علاقة بين مدرستين"
 - id: "sch-deconstruction", title: "التفكيكية", type: "مدرسة"
 - id: "thk-heidegger", title: "مارتن هايدغر", type: "مفكر"
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"

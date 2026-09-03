@@ -41,3 +41,10 @@ gaps:
 ## أهم أعمالها
 
 إلغاء الهامشية (Demarginalizing the Intersection, 1989) · رسم خرائط الهوامش (Mapping the Margins, 1991) · العِرق والإصلاح والتراجع (Race, Reform, and Retrenchment, 1988) · عن التقاطعية (On Intersectionality: Essential Writings, 2017).
+
+## المصادر
+
+- Kimberlé Crenshaw, "Demarginalizing the Intersection of Race and Sex," University of Chicago Legal Forum (1989) — scholarship.law.columbia.edu/faculty_scholarship/3007/
+- Kimberlé Crenshaw, "Mapping the Margins: Intersectionality, Identity Politics, and Violence against Women of Color," Stanford Law Review (1991).
+- BlackPast.org, "Kimberle Williams Crenshaw (1959– )".
+- UCLA Law, "Intersectionality at 30: Q&A with Kimberlé Crenshaw" — law.ucla.edu/news/intersectionality-30-qa-kimberle-crenshaw

@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-- id: "con-midlife", title: "مرحلة منتصف العمر", type: "مفهوم"
+- id: "con-midlife", title: "أزمة منتصف العمر والمرور الأوسط", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *The Middle Passage* (1993) بترجمة عربية معتمدة."
 ---
@@ -39,3 +39,9 @@ gaps:
 ## أهم أعماله
 
 المرور الأوسط (The Middle Passage, 1993) · مستنقعات النفس (Swamplands of the Soul, 1996) · إيجاد المعنى في النصف الثاني (Finding Meaning in the Second Half of Life, 2005).
+
+## المصادر
+
+- James Hollis, Wikipedia: https://en.wikipedia.org/wiki/James_Hollis
+- James Hollis، الملف التعريفي، Jung Platform: https://jungplatform.com/james-hollis
+- James Hollis، الملف التعريفي، Houston Seminar: https://houstonseminar.org/hs-speakers/james-hollis/

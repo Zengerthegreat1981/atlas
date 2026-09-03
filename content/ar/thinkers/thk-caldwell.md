@@ -40,3 +40,10 @@ gaps:
 ## أهم أعمالها
 
 الامتلاء الجسدي: استعادة حكمة الجسد (Bodyfulness, 2018) · استعادة أجسادنا (Getting Our Bodies Back, 1996).
+
+## المصادر
+
+- Naropa University, "Christine Caldwell, PhD | Professor Emerita": https://www.naropa.edu/profile/christine-caldwell/
+- Shambhala Publications, "Bodyfulness: Somatic Practices for Presence, Empowerment, and Waking Up in This Life" (2018): https://www.shambhala.com/bodyfulness.html
+- Penguin Random House, "Getting Our Bodies Back by Christine Caldwell" (Shambhala, 1996): https://www.penguinrandomhouse.com/books/22916/getting-our-bodies-back-by-christine-caldwell/
+- Embodied Philosophy, "Christine Caldwell on Bodyfulness (#101)": https://www.embodiedphilosophy.com/christine-caldwell-on-bodyfulness-101/

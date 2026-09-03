@@ -51,3 +51,9 @@ gaps:
 - *The Miracle of Mind Dynamics* (1964).
 - *Your Infinite Power to Be Rich* (1966).
 
+## المصادر
+
+- Joseph Murphy, *The Power of Your Subconscious Mind* (1963).
+- Peter Fritz Walter, *Joseph Murphy and the Power of Your Subconscious Mind: Short Biography, Book Reviews, Quotes, and Excerpts* — سيرة موجزة (مصدر ترويجي/غير أكاديمي، تُقرأ بحذر بشأن الألقاب والشهادات المذكورة فيها).
+- Josephmurphy.wwwhubs.com — صفحة سيرة وقوائم مؤلفات وشرائط محاضرات.
+

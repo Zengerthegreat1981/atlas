@@ -47,3 +47,9 @@ gaps:
 ## أهم أعماله
 
 أصول الذات: نشأة الهوية الحديثة (Sources of the Self, 1989) · أخلاق الأصالة (The Ethics of Authenticity, 1991) · عصر علماني (A Secular Age, 2007).
+
+## المصادر
+
+- Wikipedia: [Charles Taylor (philosopher)](https://en.wikipedia.org/wiki/Charles_Taylor_(philosopher))
+- All Souls College, Oxford: [Professor Charles Taylor](https://www.asc.ox.ac.uk/person/professor-charles-taylor)
+- Harvard University Press: [Sources of the Self](https://www.hup.harvard.edu/books/9780674824263)

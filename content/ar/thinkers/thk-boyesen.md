@@ -41,3 +41,9 @@ gaps:
 ## أهم أعمالها
 
 «بين الجسم والعقل» (Between Body and Mind, 1986) · «الحرية من التوتر» (Freedom from Stress, 1982) · Biodynamic Touching (مقالات).
+
+## المصادر
+
+- Gerda Boyesen — Wikipedia: https://en.wikipedia.org/wiki/Gerda_Boyesen
+- Biodynamic massage — Wikipedia: https://en.wikipedia.org/wiki/Biodynamic_massage
+- The SAGE Encyclopedia of Theory in Counseling and Psychotherapy, "Biodynamic Psychology": https://sk.sagepub.com/ency/edvol/the-sage-encyclopedia-of-theory-in-counseling-and-psychotherapy/chpt/biodynamic-psychology

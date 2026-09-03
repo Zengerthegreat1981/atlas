@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "wrk-sickness-death", title: "المرض حتى الموت", type: "عمل / كتاب"
-- id: "br-daseins", title: "التحليل الوجودي", type: "تيار"
+- id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
 - id: "thk-boss", title: "ميدارد بوس", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Leiden am Dasein* (1994) بترجمة عربية معتمدة."
@@ -46,3 +46,10 @@ gaps:
 ## أهم أعمالها
 
 المعاناة من الوجود: التحليل الدازايني ومهمته التأويلية (Leiden am Dasein: Die Daseinsanalyse und die Aufgabe einer Hermeneutik psychopathologischer Phänomene, 1994) · التحليل الدازايني (Daseinsanalysis، الترجمة الإنجليزية، Free Association Books, 2014) · التحليل الدازايني اليوم (Daseinsanalyse heute, 2008، تحرير).
+
+## المصادر
+
+- Alice Holzhey-Kunz — المدخل الألماني على ويكيبيديا: https://de.wikipedia.org/wiki/Alice_Holzhey-Kunz
+- Passagen Verlag — صفحة كتاب *Leiden am Dasein*: https://www.passagen.at/gesamtverzeichnis/philosophie/leiden-am-dasein/
+- دار Amazon.de / Nomos — *Daseinsanalyse: Der existenzphilosophische Blick auf seelisches Leiden und seine Therapie*: https://www.amazon.de/Daseinsanalyse-Alice-Holzhey-Kunz/dp/3708912071
+- Perlentaucher — سجلّ مؤلَّفاتها: https://www.perlentaucher.de/autor/alice-holzhey-kunz.html

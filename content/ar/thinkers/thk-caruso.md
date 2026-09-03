@@ -41,3 +41,10 @@ gaps:
 ## أهم أعماله
 
 التحليل النفسي والتوليف الشخصي (Psychoanalyse und Synthese der Existenz, 1952) · التحليل النفسي الاجتماعي (Soziale Psychoanalyse, 1972).
+
+## المصادر
+
+- Encyclopedia.com — "Caruso, Igor A. (1914-1981)": https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/caruso-igor-1914-1981
+- Wikidata — Igor Caruso: https://www.wikidata.org/wiki/Q87979
+- International Psychoanalytical Association — صفحة "Vienna Psychoanalytical Association" (خلفية حلقة فيينا لعلم النفس العميق): https://www.ipa.world/IPA/en/Societies/societies_focus/Vienna_Psychoanalytical_Association.aspx
+- Internet Archive — *Existential Psychology: From Analysis to Synthesis* (الترجمة الإنجليزية لـ*Psychoanalyse und Synthese der Existenz*): https://archive.org/details/existentialpsych0000caru

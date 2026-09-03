@@ -46,3 +46,10 @@ gaps:
 "Comparative Studies of Psychotherapies: Is It True That Everyone Has Won and All Must Have Prizes?" (1975، مع سينغر ولوبورسكي)، *Archives of General Psychiatry* — ورقة «حكم الدودو» · *Principles of Psychoanalytic Psychotherapy: A Manual for Supportive-Expressive Treatment* (1984) · *Understanding Transference: The CCRT Method* (1990، مع بول كريتس-كريستوف) · *Who Will Benefit from Psychotherapy?* (1988، مع آخرين).
 
 > **تصحيح:** كان هذا الملف يسمّيه **«جوزيف»** وصوابه **لِستر**، ويؤرّخ حياته 1919–2004 وصوابه 1920–2009، وينسب إليه تأسيس **مركز بنسلفانيا لأبحاث الوقاية** — وهو مركز مارتن سليغمان.
+
+## المصادر
+
+- Lester Luborsky, Wikipedia: https://en.wikipedia.org/wiki/Lester_Luborsky
+- "Lester Bernard Luborsky (1920–2009)", obituary, ResearchGate: https://www.researchgate.net/publication/224046422_Lester_Bernard_Luborsky_1920-2009_Obituary
+- Luborsky, L., Singer, B., & Luborsky, L. (1975). "Comparative Studies of Psychotherapies: Is It True That 'Everyone Has Won and All Must Have Prizes'?" *Archives of General Psychiatry*.
+- Luborsky, L., & Rosenthal, R. (2002). "The Dodo Bird Verdict Is Alive and Well—Mostly." *Clinical Psychology: Science and Practice*: https://onlinelibrary.wiley.com/doi/10.1093/clipsy.9.1.2

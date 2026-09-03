@@ -15,7 +15,7 @@ active_end: 1952
 edges:
 - rel: "belongs_to", target: "sch-pragmatism-classical", target_type: "مدرسة"
 related:
-- id: "thk-james", title: "وليام جيمس", type: "مفكر"
+- id: "thk-james", title: "وليم جيمس", type: "مفكر"
 - id: "sch-pragmatism-classical", title: "البراغماتية الكلاسيكية", type: "مدرسة"
 - id: "thk-peirce", title: "تشارلز ساندرز بيرس", type: "مفكر"
 - id: "wrk-philosophy-mirror-nature", title: "الفلسفة ومرآة الطبيعة (Philosophy and the Mirror of Nature)", type: "عمل / كتاب"
@@ -62,3 +62,10 @@ gaps:
 - **The Public and Its Problems** (1927): الجمهور ومشكلاته.
 - **Art as Experience** (1934): الفن كتجربة.
 - **Logic: The Theory of Inquiry** (1938): المنطق: نظرية البحث.
+
+## المصادر
+
+- Stanford Encyclopedia of Philosophy, "John Dewey" — https://plato.stanford.edu/entries/dewey/
+- Stanford Encyclopedia of Philosophy, "Dewey's Political Philosophy" — https://plato.stanford.edu/entries/dewey-political/
+- Internet Encyclopedia of Philosophy, "John Dewey" — https://iep.utm.edu/john-dewey/
+- Wikipedia, "John Dewey bibliography" — https://en.wikipedia.org/wiki/John_Dewey_bibliography

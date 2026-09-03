@@ -20,6 +20,7 @@ gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Multidimensional Family Therapy for Adolescent Drug Abuse: Clinical Manual* (2009) بترجمة عربية معتمدة."
   - "لا سلطة معتمدة (sch-/br-) لـ«MDFT» في فهرس الأطلس حالياً؛ أُفرغت edges بدل استخدام النص الحر السابق."
   - "الرابط السابق إلى thk-brosen (برنارد روزن) حُذف — الشخص محجور، لا مؤلَّف أو بحث مستقل موثَّق باسمه."
+  - "سنة الميلاد 1946 لم تُؤكَّد من مصدر مستقل (لم ترد في السيرة الرسمية بجامعة ميامي أو في ملفه على PESI)؛ يُنصح بالتحقق قبل الاعتماد عليها."
 ---
 
 # هوارد ليدل
@@ -46,3 +47,10 @@ gaps:
 - *Multidimensional Family Therapy for Adolescent Cannabis Users* (2002) — الدليل المقنَّن ضمن سلسلة CYT التابعة لـSAMHSA.
 - *Multidimensional Family Therapy for Adolescent Drug Abuse: Clinical Manual* (2009).
 - سلسلة تجارب عشوائية مضبوطة منذ التسعينيات هي أساس إدراج MDFT في السجلّات الدولية للبرامج القائمة على الأدلة.
+
+## المصادر
+
+- السيرة الذاتية الرسمية: Howard A. Liddle, EdD, ABPP — University of Miami Miller School of Medicine (CV): https://people.miami.edu/_assets-profiles/acad-med/pdfs/cv-liddle.pdf
+- ملف المتحدث: PESI — "Howard Liddle, EdD, ABPP": https://www.pesi.com/speaker/details/01487315/howard-liddle
+- Liddle, H. A. (2010). "Multidimensional Family Therapy: A Science-Based Treatment System." *Australian and New Zealand Journal of Family Therapy*, 31(2), 133–148.
+- صفحة الباحث على ResearchGate: https://www.researchgate.net/profile/Howard-Liddle

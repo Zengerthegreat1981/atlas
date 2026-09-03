@@ -43,3 +43,10 @@ gaps:
 - *Stato di eccezione* (حالة الاستثناء، 2003).
 - *Il Regno e la Gloria* (2007).
 - *L'uso dei corpi* (استعمال الأجساد، 2014).
+
+## المصادر
+
+- Stanford Encyclopedia of Philosophy / Stanford University Press، صفحات ترجمة سلسلة *Homo Sacer* الإنجليزية (تواريخ الأجزاء 1995–2014).
+- Torrossa / Bollati Boringhieri، بيانات نشر *Il Regno e la Gloria* (طبعة 2007/2009): https://www.torrossa.com/en/resources/an/2447766
+- Neri Pozza Editore، بيانات نشر *L'uso dei corpi. Homo sacer IV, 2* (2014): https://www.unilibro.it/libro/agamben-giorgio/l-uso-dei-corpi-homo-sacer-vol-iv-2/9788854508385
+- ملاحظة توثيقية: أغامبين حرّر الأعمال الكاملة لفالتر بنيامين بالإيطالية (Einaudi)، وحضر حلقات هايدغر الدراسية في لو تور ونشرها بنفسه بيانات هذه العلاقة موثقة في مقدمات طبعاته وفي المصادر الأكاديمية العامة عنه (Monoskop، صفحة أغامبين): https://monoskop.org/Giorgio_Agamben

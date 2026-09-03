@@ -47,3 +47,10 @@ gaps:
 - *The Center of the Cyclone* (1972).
 - *Programming and Metaprogramming in the Human Biocomputer* (1968).
 - *The Dyadic Cyclone* (1976).
+
+## المصادر
+
+- John C. Lilly, Wikipedia: https://en.wikipedia.org/wiki/John_C._Lilly
+- "John C. Lilly: When Dolphins, Drugs, and the Deep End of Consciousness Collided in the Psychedelic '70s": https://gettherapybirmingham.com/blog/john-c-lilly-when-dolphins-drugs-and-the-deep-end-of-consciousness-collided-in-the-psychedelic-70s/
+- "John C. Lilly: The pioneer of floating", Floatworks Journal: https://floatworks.com/journal/john-c-lilly-the-pioneer-of-floating
+- Kabil, A., "Meet the psychedelics-obsessed scientist who wanted to learn dolphins' language", Medium/Timeline: https://medium.com/timeline/neuroscience-doctor-drugs-lsd-c17d5e84c653

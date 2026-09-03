@@ -42,4 +42,10 @@ gaps:
 ## أهم أعمالها
 
 - *Sensational Kids* (2006).
-- *No Longer A SECRET* (مع نيل، 2010).
+- *No Longer A SECRET* (مع دوريت بايلر Doreit Bialer، 2011).
+
+## المصادر
+
+- STAR Institute for Sensory Processing, "Founder Dr. Lucy Jane Miller": https://sensoryhealth.org/basic/founder-dr-lucy-jane-miller
+- OT Centennial, "100 Influential People in Occupational Therapy: Lucy Jane Miller": https://www.otcentennial.org/the-100-people/miller
+- Amazon/Barnes & Noble, صفحات كتابي *Sensational Kids* (مع Doris A. Fuller) و*No Longer A SECRET* (مع Doreit Bialer).

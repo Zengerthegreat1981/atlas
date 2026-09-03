@@ -41,3 +41,9 @@ gaps:
 ## أهم أعمالها
 
 شاعرة سوداء (Cables to Rage, 1970) · طفولة على الجادة (Zami, 1982) · أخت غريبة (Sister Outsider, 1984) · مذكرات بربادوس (Our Dead Behind Us, 1986) · انفجار من النور (A Burst of Light, 1988).
+
+## المصادر
+
+- Pressbooks NVCC, "The Master's Tools Will Never Dismantle the Master's House" (سياق الإلقاء في مؤتمر Second Sex، 29 أكتوبر 1979): https://pressbooks.nvcc.edu/eng275/chapter/163/
+- Poetry Foundation, "Audre Lorde": https://www.poetryfoundation.org/poets/audre-lorde
+- Poetry Foundation / Academy of American Poets، سيرة ومسار أعمالها (Cables to Rage 1970؛ Zami 1982؛ Sister Outsider 1984؛ Our Dead Behind Us 1986؛ A Burst of Light 1988).

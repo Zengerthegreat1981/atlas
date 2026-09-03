@@ -49,3 +49,9 @@ gaps:
 ## اقتراحات ربط (ملاحظة تحريرية)
 
 - **جان أوري** (Jean Oury) — مؤسّس عيادة لا بورد ومعلّم غواتاري فيها، ورائد «العلاج المؤسساتي» إلى جانب فرانسوا توسكيل؛ لا عنصر مستقلاً له في الفهرس بعد.
+
+## المصادر
+
+- Félix Guattari — Wikipedia: https://en.wikipedia.org/wiki/F%C3%A9lix_Guattari
+- La Borde Clinic — Wikipedia: https://en.wikipedia.org/wiki/La_Borde_Clinic
+- Institutional psychotherapy — Wikipedia: https://en.wikipedia.org/wiki/Institutional_psychotherapy

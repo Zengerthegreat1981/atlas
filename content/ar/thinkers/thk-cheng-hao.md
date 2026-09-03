@@ -43,3 +43,10 @@ gaps:
 ## اقتباسات مختارة
 
 «الطبيب يسمّي خدر اليد والقدم لا-رِن؛ وهذه التسمية أبلغ ما يصف الأمر.» (في فهم الإنسانية)
+
+## المصادر
+
+- Encyclopædia Britannica, "Cheng Hao" — https://www.britannica.com/biography/Cheng-Hao
+- Internet Encyclopedia of Philosophy, "Cheng Hao (Cheng Mingdao)" — https://iep.utm.edu/cjemg-omgdap-cheng-hao-neo-confucian/
+- Internet Encyclopedia of Philosophy, "Cheng Yi" — https://iep.utm.edu/chengyi/
+- chinaknowledge.de, "Cheng Hao 程顥 and Cheng Yi 程頤" — http://www.chinaknowledge.de/History/Song/personschengbrothers.html
