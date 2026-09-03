@@ -18,8 +18,8 @@ related:
 - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
 - id: "thk-agreen", title: "أندريه غرين", type: "مفكر"
 gaps:
-  - "سنة النشر الأصلية لـ'جنون الأم' (Mère folle / Mother Folly) غير مؤكدة — تحتاج تحقق من الطبعة الفرنسية الأصلية مقابل الترجمة الإنجليزية."
-  - "تفاصيل عمل دافين في معالجة ضحايا الصدمات الجماعية (الحروب، الإرهاب، الإبادة) — تحتاج مراجعة من نص إكلينيكي تأسيسي."
+  - "تم التحقق: الطبعة الفرنسية الأصلية لـ«جنون الأم» (Mère folle: Récit) صدرت عام 1998 عن دار Léo Scheer/Amazon.fr يُدرجها تحت الناشر بترقيم ISBN 2910729214؛ الترجمة الإنجليزية Mother Folly صدرت لاحقاً (Stanford University Press). ترجمة العنوان الحرفية أقرب إلى «الأم المجنونة» / «حكاية» وليست ترجمة رسمية معتمدة بالعربية."
+  - "دافوان محللة نفسية فرنسية حقيقية وموثقة (مواليد 1943)، أستاذة سابقة بجامعة باريس 8، وحالياً باحثة مرتبطة بـ EHESS (École des Hautes Études en Sciences Sociales) بباريس مع شريكها جان-ماكس غودييير — كلاهما حاصل على دكتوراه في علم الاجتماع مع خلفية في الدراسات الكلاسيكية، بحسب صفحة الناشر (Other Press) وصفحة EHESS."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
 ---
 
@@ -41,4 +41,12 @@ gaps:
 
 ## أهم أعمالها
 
-جنون الأم (Mère folle، ترجم إلى الإنجليزية Mother Folly) · تاريخ وصدمة: الجنون المرتبط بالتاريخ (History Beyond Trauma, 2004، مع جان-ماكس غودييير).
+جنون الأم (Mère folle: Récit، باريس، 1998، ترجم إلى الإنجليزية بعنوان Mother Folly) · تاريخ وصدمة: الجنون المرتبط بالتاريخ (History Beyond Trauma، Other Press، نيويورك، 2004، 312 صفحة، مع جان-ماكس غودييير، ترجمة سوزان فيرفيلد Susan Fairfield).
+
+## المصادر
+
+- Other Press — [History Beyond Trauma](https://otherpress.com/product/history-beyond-trauma-9781590511114/)
+- PEP-Web — [مراجعة History Beyond Trauma](https://pep-web.org/search/document/PSAR.093.0675A)
+- Amazon.fr — [Mère folle: Récit](https://www.amazon.fr/M%C3%A8re-folle-R%C3%A9cit-Fran%C3%A7oise-Davoine/dp/2910729214)
+- CEMS/EHESS — [صفحة فرانسواز دافوان](https://cems.ehess.fr/membres/francoise-davoine)
+- Routledge — [ملف المؤلفة](https://www.routledge.com/authors/i19985-franoise-davoine)

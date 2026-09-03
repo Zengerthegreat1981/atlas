@@ -17,17 +17,17 @@ edges:
 related:
 - id: "thk-njacobson", title: "نيل س. جاكوبسون", type: "مفكر"
 - id: "thk-maddis", title: "مايكل إي. آديس", type: "مفكر"
-- id: "tec-behavioral-activation", title: "التنشيط السلوكي", type: "تقنية/تدخل علاجي"
+- id: "tec-behavioral-activation", title: "التنشيط السلوكي (BA)", type: "تقنية/تدخل علاجي"
 - id: "con-behavioral-activation", title: "التنشيط السلوكي (مفهوم علاجي)", type: "مفهوم"
 gaps:
   - "تاريخ الميلاد الدقيق غير متاح في المصادر المتاحة."
   - "لا يوجد اقتباس مباشر موثوق من «التنشيط السلوكي للاكتئاب: دليل إكلينيكي» (Behavioral Activation for Depression: A Clinician's Guide, 2001) بترجمة عربية معتمدة."
-  - "تجربته السريرية المبكرة في جامعة واشنطن (مع Jacobson و Addis) — موضع بحث."
+  - "تأكَّد أنه كان عضواً في فريق دراسة جامعة واشنطن لعلاج الاكتئاب (Treatments for Depression Study) مع Jacobson وAddis، وأنه انتقل لاحقاً إلى جامعة ماساتشوستس أمهرست؛ تفاصيل التواريخ الدقيقة للانتقال غير متاحة في المصادر المفتوحة."
 ---
 
 # كريستوفر ر. مارتل
 
-عالم نفس سريري أمريكي في جامعة واشنطن (University of Washington)، أحد المؤسِّسين الثلاثة لـ«التنشيط السلوكي» (Behavioral Activation - BA) كنموذج علاجي قائم بذاته للاكتئاب، مع نيل جاكوبسون ومايكل آديس.
+عالم نفس سريري أمريكي، أحد المؤسِّسين الثلاثة لـ«التنشيط السلوكي» (Behavioral Activation - BA) كنموذج علاجي قائم بذاته للاكتئاب، مع نيل جاكوبسون ومايكل آديس. عمل ضمن فريق دراسة جامعة واشنطن (University of Washington) لعلاج الاكتئاب، ومارس العلاج النفسي في سياتل نحو 23 عاماً، قبل أن ينتقل ليصبح أستاذاً في قسم العلوم النفسية والدماغية بجامعة ماساتشوستس أمهرست (University of Massachusetts Amherst).
 
 ## ما أعطاه
 
@@ -42,4 +42,12 @@ gaps:
 
 ## أهم أعماله
 
-«التنشيط السلوكي للاكتئاب: دليل إكلينيكي» (Behavioral Activation for Depression: A Clinician's Guide, 2001، مع Addis & Jacobson) · «التنشيط السلوكي للاكتئاب: دلائل علاجية» (Behavioral Activation for Depression: A Clinician's Resource, 2013، مع Dimidjian & Herman-Dunn).
+«التنشيط السلوكي للاكتئاب: دليل إكلينيكي» (Behavioral Activation for Depression: A Clinician's Guide, 2001، مع Addis & Jacobson) · طبعة ثانية موسّعة بعنوان مشابه (Behavioral Activation for Depression, Second Edition: A Clinician's Guide، مع Sona Dimidjian وRuth Herman-Dunn) · *Depression in Context: Strategies for Guided Action* (مع Addis & Jacobson).
+
+## المصادر
+
+- [Guilford Press – Christopher R. Martell (author page)](https://www.guilford.com/author/Christopher-R-Martell)
+- [Behavioral Activation for Depression, Second Edition: A Clinician's Guide (Guilford)](https://www.guilford.com/books/Behavioral-Activation-for-Depression/Martell-Dimidjian-Herman-Dunn/9781462548385/authors)
+- [Christopher Martell – Google Scholar profile](https://scholar.google.com/citations?user=eNopMeUAAAAJ&hl=en)
+- [CBTReach – Christopher Martell profile](https://www.cbtreach.org/christopher-martell)
+- [Christopher R. Martell, Ph.D. – personal site](https://christophermartellphd.com/)

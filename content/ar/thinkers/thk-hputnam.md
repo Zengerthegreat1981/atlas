@@ -49,3 +49,10 @@ gaps:
 ## الأثر
 
 أثّرت الوظيفية التي صاغها في جيل كامل من فلاسفة العقل (فودور، دنِت) وفي علوم الحاسوب والذكاء الاصطناعي، وتوازت خارجانيته الدلالية مع عمل سول كريبكي في نظرية الإشارة السببية. وأبرز ما يُذكر به منهجياً أنه نقض بيده كلّ موقف كبير اتّخذه — الوظيفية أولاً ثم الواقعية الداخلية — حتى صار مثالاً يُضرب في الفلسفة على الاستعداد للتراجع.
+
+## المصادر
+
+- [Hilary Putnam — Wikipedia](https://en.wikipedia.org/wiki/Hilary_Putnam)
+- [Hilary Putnam — Britannica](https://www.britannica.com/biography/Hilary-Putnam)
+- [Twin Earth thought experiment — Wikipedia](https://en.wikipedia.org/wiki/Twin_Earth_thought_experiment)
+- [Brain in a Vat Argument — Internet Encyclopedia of Philosophy](https://iep.utm.edu/brain-in-a-vat-argument/)

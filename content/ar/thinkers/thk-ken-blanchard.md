@@ -17,7 +17,7 @@ edges: []
 related:
 - id: "wrk-one-minute-manager", title: "مدير الدقيقة الواحدة", type: "عمل / كتاب"
 gaps:
-  - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
+  - "تأكَّدت السيرة الأساسية عبر مصادر مستقلة (Wikipedia، Toolshero): وُلد 1939، بكالوريوس من كورنِل (1961)، ماجستير من كولجيت (1963)، دكتوراه من كورنِل (1967)، وأسّس شركته الاستشارية 1979 مع مارجوري بلانشارد."
   - "لا يوجد اقتباس مباشر موثوق من *The One Minute Manager* (1982) بترجمة عربية معتمدة."
 ---
 
@@ -53,4 +53,12 @@ gaps:
 - *The One Minute Manager* (1982، مع سبنسر جونسون).
 - *Leadership and the One Minute Manager* (1985، مع زيغارمي وزيغارمي) — عرض SLII.
 - *Raving Fans* (1993) · *Gung Ho!* (1997).
+
+## المصادر
+
+- ويكيبيديا الإنجليزية، مدخل المؤلف (السيرة والتعليم): [Ken Blanchard](https://en.wikipedia.org/wiki/Ken_Blanchard)
+- Vecchio, R. P. (1987). "Situational Leadership Theory: An examination of a prescriptive theory." *Journal of Applied Psychology*, 72(3), 444–451.
+- Thompson, G., & Vecchio, R. P. (2009). "Situational leadership theory: A test of three versions." *The Leadership Quarterly*, 20(5), 837–848.
+- Graeff, C. L. (1983, 1997). نقد مفاهيمي لنموذج القيادة الظرفية، *Academy of Management Review* و*The Leadership Quarterly*.
+- Toolshero، سيرة وأعمال: [Ken Blanchard biography](https://www.toolshero.com/toolsheroes/ken-blanchard/)
 

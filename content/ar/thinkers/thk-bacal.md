@@ -21,6 +21,7 @@ related:
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Optimal Responsiveness* (1998) بترجمة عربية معتمدة."
   - "مفهوم 'الاستجابة المثلى' (Optimal Responsiveness) كبديل للإحباط الأمثل يستحق إدراجاً مفاهيمياً."
+  - "سنة الميلاد 1925 الواردة في dates لم يتسنَّ تأكيدها من مصدر مستقل (السير الذاتية المتاحة عبر New Center for Psychoanalysis ومقالته الذاتية 'Credo' في Psychoanalytic Dialogues 2017 لا تذكر تاريخ ميلاد محدداً)؛ هو شخص حقيقي وموثَّق (طبيب نفسي وحلل نفسي نشط، مؤسس مشارك لمعهد الدراسات التحليلية المعاصرة، مؤلف Optimal Responsiveness) وليس مرشحاً للحجر، لكن سنة الميلاد تحتاج تثبيتاً إضافياً."
 ---
 
 # هوارد باكال
@@ -41,3 +42,10 @@ gaps:
 ## أهم أعماله
 
 الاستجابة المثلى وتغيير التحليل النفسي (Optimal Responsiveness, 1998) · نظريات العلاقات بالموضوع وعلم نفس الذات (Theories of Object Relations, 1990 مع Newman) · قوة التخصيص في العلاج النفسي (The Power of Specificity in Psychotherapy, 2011).
+
+## المصادر
+
+- [Howard Bacal — New Center for Psychoanalysis](https://www.n-c-p.org/cgi/page.cgi/_membership_ncp_dir.html/90-Howard-Bacal)
+- [Optimal Responsiveness: How Therapists Heal Their Patients — Amazon](https://www.amazon.com/Optimal-Responsiveness-Therapists-Their-Patients/dp/0765701146)
+- [Discovering Therapeutic Efficacy: Selected Works of Howard Bacal — Routledge](https://www.routledge.com/Discovering-Therapeutic-Efficacy-Selected-Works-of-Howard-Bacal/Bacal/p/book/9781032944487)
+- [Optimal Responsiveness and the Therapeutic Process — Taylor & Francis](https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003570806-4/optimal-responsiveness-therapeutic-process-howard-bacal)

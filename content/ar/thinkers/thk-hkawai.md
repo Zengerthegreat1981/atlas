@@ -15,7 +15,7 @@ active_end: 2007
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-- id: "thk-cameier", title: "كارل ألفريد ماير", type: "مفكر"
+- id: "thk-cameier", title: "كارل ألفرد ماير", type: "مفكر"
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-kalff", title: "دورا كالف", type: "مفكر"
 gaps:
@@ -41,3 +41,10 @@ gaps:
 ## أهم أعماله
 
 الحكايات الشعبية اليابانية والنفس اليابانية (昔話と日本人の心, 1982) · النفس اليابانية: دوافع كبرى في حكايات اليابان (The Japanese Psyche: Major Motifs in the Fairy Tales of Japan, 1988) · الأحلام والأساطير والحكايات في اليابان (Dreams, Myths and Fairy Tales in Japan, 1995) · البوذية وفنّ العلاج النفسي (Buddhism and the Art of Psychotherapy, 1996) · الأعمال الكاملة (12 مجلّداً).
+
+## المصادر
+
+- [Hayao Kawai — Wikipedia](https://en.wikipedia.org/wiki/Hayao_Kawai)
+- [Hayao Kawai — Kawai Hayao Foundation, Profile](https://www.kawaihayao.jp/en/profile/)
+- [In Memoriam: Professor Doctor Hayao Kawai, 1928–2007 — Journal of Sandplay Therapy](https://www.sandplay.org/jst-article/in-memoriam-professor-doctor-hayao-kawai/)
+- [Following in the Footsteps of "Crybaby Hā-chan" — Nichibunken Newsletter](https://newsletter.nichibun.ac.jp/en/messages/2065/)

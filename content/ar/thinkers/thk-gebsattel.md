@@ -47,3 +47,10 @@ gaps:
 ## أهم أعماله
 
 المسيحية والإنسانوية (Christentum und Humanismus, 1947) · مقدّمات لأنثروبولوجيا طبية (Prolegomena einer medizinischen Anthropologie, 1954) · دراساته المبكّرة في فينومينولوجيا الوسواس والاكتئاب (العشرينيات والثلاثينيات)، وفيها أطروحته أن الوسواس والاكتئاب اضطرابٌ في «الصيرورة» نفسها: توقّف الاندفاع نحو المستقبل، فيصير الزمن راكداً والحاضر سجناً.
+
+## المصادر
+
+- [Viktor Emil von Gebsattel — Wikidata](https://www.wikidata.org/wiki/Q96280)
+- [Jos V. M. Welie, "Viktor Emil Von Gebsattel on the doctor-patient relationship" — Theoretical Medicine and Bioethics (Springer)](http://link.springer.com/content/pdf/10.1007/BF00993787.pdf)
+- [Viktor Emil von Gebsattel on the doctor-patient relationship — PubMed](https://pubmed.ncbi.nlm.nih.gov/7652712/)
+- [Marcin Moskalewicz, "Disturbed temporalities: Insights from phenomenological psychiatry" — History of the Human Sciences, 2016](https://journals.sagepub.com/doi/10.1177/0961463X15577257)

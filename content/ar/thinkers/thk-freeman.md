@@ -42,3 +42,12 @@ gaps:
 - تلافي أعراض الذهان: النموذج المعرفي (Tackling the Symptoms of Psychosis, 2001).
 - بارانويا: الفكرة الزائفة التي تكاد تسيطر عليك (Paranoia: The 21st Century Fear, 2012) مع جيسون فريمان.
 - CBTp كدليل إكلينيكي متقدم: أوراق متعددة في Schizophrenia Bulletin وPsychological Medicine.
+- بارانويا: حياتي في فهم ومعالجة انعدام الثقة المفرط (Paranoia: My Life Understanding and Treating Extreme Mistrust, 2024).
+
+## المصادر
+
+- [Professor Daniel Freeman | Oxford University](https://www.ox.ac.uk/news/find-an-expert/professor-daniel-freeman)
+- [Daniel Freeman — Department of Experimental Psychology, University of Oxford](https://www.psy.ox.ac.uk/people/daniel-freeman-1)
+- [Daniel Freeman (psychologist) — Wikipedia](https://en.wikipedia.org/wiki/Daniel_Freeman_(psychologist))
+- [Professor Daniel Freeman — Magdalen College, Oxford](https://www.magd.ox.ac.uk/people/professor-daniel-freeman/)
+- ['The book is to help demystify paranoia' — The British Psychological Society](https://www.bps.org.uk/psychologist/book-help-demystify-paranoia)

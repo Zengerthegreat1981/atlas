@@ -43,3 +43,10 @@ gaps:
 ## أهم أعماله
 
 علم النفس الوجودي: شرق-غرب (Existential Psychology East-West, 2009/2020) · العلاج النفسي الوجودي-الإنساني (Existential-Humanistic Therapy, 2020) · العدالة الاجتماعية وعلم النفس الإنساني (2014).
+
+## المصادر
+
+- [Louis Hoffman, PhD — Existential-Humanistic Institute](https://ehinstitute.org/louis-hoffman/)
+- [Louis Hoffman, PhD — Rocky Mountain Humanistic Counseling and Psychological Association](https://rmhcpa.org/louis-hoffman/)
+- [About Louis Hoffman, PhD — Existential Therapy](https://existential-therapy.com/about-louis-hoffman-phd/)
+- [Louis Hoffman, PhD — Saybrook University Faculty](https://www.saybrook.edu/faculty/byname/louis_hoffman/)

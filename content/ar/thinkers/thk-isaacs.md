@@ -43,3 +43,11 @@ gaps:
 ## أهم أعمالها
 
 طبيعة ووظيفة الخيال اللاشعوري (The Nature and Function of Phantasy, 1948) · التطور الاجتماعي للأطفال الصغار (Social Development in Young Children, 1933) · النمو الفكري لدى الأطفال (Intellectual Growth in Young Children, 1930).
+
+## المصادر
+
+- Wikipedia (EN), "Susan Sutherland Isaacs": https://en.wikipedia.org/wiki/Susan_Sutherland_Isaacs
+- Melanie Klein Trust, "Susan Sutherland Isaacs": https://melanie-klein-trust.org.uk/writers/susan-isaacs/
+- Encyclopedia.com, "Isaacs, Susan (1885–1948)": https://www.encyclopedia.com/children/encyclopedias-almanacs-transcripts-and-maps/isaacs-susan-1885-1948
+- Philip Graham, "Susan Isaacs and the Malting House School" (PDF): https://web.english.upenn.edu/~cavitch/pdf-library/Graham_Malting_House_School.pdf
+- "'Speaking Kleinian': Susan Isaacs as Ursula Wise..." PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC5629594/

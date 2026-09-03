@@ -45,3 +45,10 @@ gaps:
 ## أهم أعماله
 
 الخبرة وخلق المعنى (Experiencing and the Creation of Meaning, 1962) · التركيز (Focusing, 1978) · العلاج الموجَّه بالتركيز (Focusing-Oriented Psychotherapy, 1996) · نموذج العملية (A Process Model, كُتب 1981 ونُشر 1997).
+
+## المصادر
+
+- [Eugene Gendlin — Wikipedia](https://en.wikipedia.org/wiki/Eugene_Gendlin)
+- [What is Focusing — The International Focusing Institute](https://focusing.org/gendlincenter/what-focusing)
+- [Felt Sense — The International Focusing Institute](https://focusing.org/felt-sense/felt-sense)
+- [Remembering Eugene Gendlin — Society for Psychotherapy](https://societyforpsychotherapy.org/remembering-eugene-gendlin/)

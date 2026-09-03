@@ -42,3 +42,9 @@ gaps:
 ## أهم أعماله
 
 مهارات العلاج النفسي الوجودي (Skills in Existential Counselling & Psychotherapy, 2011/2016 مع إيمي فان دورزن) · مقاربة وجودية للنمو الإنساني (An Existential Approach to Human Development, 2014) · العلاج الوجودي: سماته المميِّزة (Existential Therapy: Distinctive Features, 2018).
+
+## المصادر
+
+- [Dr Martin Adams – The Global Existential Summit](https://existentialsummit.com/martin-adams/)
+- [Skills in Existential Counselling & Psychotherapy — Google Books](https://books.google.com/books/about/Skills_in_Existential_Counselling_Psycho.html?id=U1IJDAAAQBAJ)
+- [Skills in Existential Counselling & Psychotherapy — WorldCat](https://search.worldcat.org/title/Skills-in-Existential-Counselling-and-Psychotherapy/oclc/740257109)

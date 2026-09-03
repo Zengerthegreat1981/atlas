@@ -19,8 +19,9 @@ related:
 - id: "sch-nyaya", title: "نيايا (المنطق الكلاسيكي الهندي)", type: "مدرسة"
 - id: "sch-vaisheshika", title: "فايشيشيكا", type: "مدرسة"
 gaps:
-  - "تأريخ حياة غوتاما غير محسوم."
-  - "النسبة بين Aksapada Gautama (مؤسس Nyaya) وSiddhartha Gautama (بوذا) موضع بحث في الأسماء المتشابهة."
+  - "تأريخ حياة غوتاما غير محسوم؛ التقديرات المنشورة تتراوح بين القرن السادس ق.م والقرن الثاني الميلادي (انظر Britannica وRoutledge Encyclopedia of Philosophy)، وحقلا active_start/active_end في هذا الملف (القرن 2 ق.م – 2 م) يمثّلان مدى تقريبياً لا تاريخاً محسوماً."
+  - "النسبة بين Aksapada Gautama (مؤسس Nyaya) وSiddhartha Gautama (بوذا) موضع بحث في الأسماء المتشابهة، والخلط بينهما شائع وخاطئ."
+  - "**مرشح للحجر/الدمج**: هذا الملف (thk-gotama-kanad) يكرّر بالكامل هوية ومحتوى ملف آخر موجود فعلاً في الأطلس هو thk-gotama-nyaya.md (أكشابادا غوتاما، مؤسس نيايا، THK-2360) — نفس الشخصية بالضبط، مع تداخل شبه كامل في المقولات الستّ عشرة والبراهين الخمسة وأشباه العلل. كما يوجد ملف منفصل صحيح لكانادا (مؤسس الفايشيشيكا الفعلي) هو thk-kanada.md (كاشيابا كانادا، THK-2418). عنوان السلق الحالي (gotama-kanad) يوحي خطأً بأنه يمزج بين غوتاما وكانادا أو يمثّل كانادا، بينما محتواه بالكامل عن غوتاما فقط ولا يذكر كانادا إطلاقاً. يُنصح بمراجعة تحريرية تقرّر إما حذف هذا الملف والاكتفاء بـthk-gotama-nyaya، أو إعادة توجيهه فعلياً ليكون عن كانادا، أو دمج المحتويين. لم يُحذف أو يُحجر هنا التزاماً بحدود المهمة."
 ---
 
 # أكساپادا غوتاما (مؤسس نيايا)
@@ -59,3 +60,10 @@ gaps:
 ## أهم أعماله (المنسوبة)
 
 - *Nyāya Sūtra* (528 سوترا، 5 كتب).
+
+## المصادر
+
+- [Gautama, Akṣapāda — Routledge Encyclopedia of Philosophy](https://www.rep.routledge.com/articles/biographical/gautama-aksapada/v-1)
+- [Nyaya-sutra — Encyclopaedia Britannica](https://www.britannica.com/topic/Nyaya-sutra)
+- [Gautama — Encyclopaedia Britannica](https://www.britannica.com/biography/Gautama)
+- [Nyāya Sūtras — Wikipedia](https://en.wikipedia.org/wiki/Ny%C4%81ya_S%C5%ABtras)

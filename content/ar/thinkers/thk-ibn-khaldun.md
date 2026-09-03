@@ -47,3 +47,10 @@ gaps:
 «اعلم أن الكسب إنما هو قيم الأعمال.» (المقدّمة)
 
 «المغلوب مولعٌ أبداً بالاقتداء بالغالب في شعاره وزيّه ونِحلته وسائر أحواله وعوائده.» (المقدّمة)
+
+## المصادر
+
+- Britannica, "Ibn Khaldūn": https://www.britannica.com/biography/Ibn-Khaldun
+- Wikipedia (EN), "Ibn Khaldun": https://en.wikipedia.org/wiki/Ibn_Khaldun
+- World History Commons, "Ibn Khaldun's Study of History (1377 CE)": https://worldhistorycommons.org/ibn-khalduns-study-history-1377-ce
+- EBSCO Research Starters, "Ibn Khaldūn Completes His Muqaddimah": https://www.ebsco.com/research-starters/history/ibn-khaldun-completes-his-muqaddimah

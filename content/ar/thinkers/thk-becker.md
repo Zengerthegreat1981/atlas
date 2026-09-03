@@ -19,11 +19,12 @@ related:
 - id: "con-death", title: "الموت", type: "مفهوم"
 - id: "thk-pyszczynski", title: "توم بيسزينسكي", type: "مفكر"
 - id: "thk-lifton", title: "روبرت جاي ليفتون", type: "مفكر"
-- id: "thk-lgreenberg", title: "جيف غرينبرغ", type: "مفكر"
+- id: "thk-greenberg", title: "جيف غرينبرغ", type: "مفكر"
 - id: "thk-ssolomon", title: "شيلدون سولومون", type: "مفكر"
 gaps:
-  - "بيانات الأعمال والتواريخ والترجمات العربية — تحتاج تثبيتاً"
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "الترجمات العربية لأعماله (إن وُجدت) تحتاج تثبيتاً ببيانات نشر دقيقة."
+  - "تم التحقق من الهوية والتواريخ عبر مصادر مستقلة (ويكيبيديا، مؤسسة إرنست بيكر)؛ الشخص حقيقي وموثَّق تماماً وليس مرشحاً للحجر."
+  - "تم تصحيح خطأ في `related`: المعرّف thk-lgreenberg كان يشير خطأً إلى ليزلي غرينبرغ (معالج إنساني/تركيز على الانفعال) بينما القصد جيف غرينبرغ (أحد مؤسسي نظرية إدارة الرعب)؛ صُحِّح إلى thk-greenberg."
 ---
 
 # إرنست بيكر
@@ -61,3 +62,10 @@ gaps:
 ## اقتباسات مختارة
 
 «فكرة الموت والخوف منها تطارد الحيوان البشري كما لا شيء آخر؛ إنها نبع رئيسي للنشاط الإنساني…» — إنكار الموت، 1973
+
+## المصادر
+
+- [Ernest Becker — Wikipedia](https://en.wikipedia.org/wiki/Ernest_Becker)
+- [The Denial of Death — Wikipedia](https://en.wikipedia.org/wiki/The_Denial_of_Death)
+- [Biography — Ernest Becker Foundation](https://www.ernestbecker.org/biography)
+- [Becker's Synthesis — Ernest Becker Foundation](https://www.ernestbecker.org/beckers-synthesis)

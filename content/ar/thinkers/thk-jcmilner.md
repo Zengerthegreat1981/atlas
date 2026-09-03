@@ -42,3 +42,10 @@ gaps:
 «حبّاً باللغة» (L'Amour de la langue، 1978) · «الأسماء غير المتمايزة» (Les Noms indistincts، 1983) · «مدخل إلى علم للغة» (Introduction à une science du langage، 1989) · «الميول الإجرامية لأوروبا الديمقراطية» (Les Penchants criminels de l'Europe démocratique، 2003).
 
 > **تصحيح:** كانت التواريخ في هذا الملف خاطئة (1978 لا 2011، و1983 لا 2003)، و«Les Noms indistincts» مترجَماً «الأسماء البيضاء» وهو «الأسماء غير المتمايزة»؛ وكتاب «Le Périphérique (2021)» لم يُعثر له على وجود. كما أن **«الاسم-الأب» مفهوم لاكان** لا ميلنر — وإسهام ميلنر في قراءته لسانياً لا في وضعه.
+
+## المصادر
+
+- [Jean-Claude Milner — Wikipedia (EN)](https://en.wikipedia.org/wiki/Jean-Claude_Milner)
+- [Jean-Claude Milner — Encyclopédie Universalis](https://www.universalis.fr/encyclopedie/jean-claude-milner/)
+- [L'amour de la langue — Internet Archive (بيانات النشر 1978، دار Seuil)](https://archive.org/details/lamourdelalangue0000miln)
+- [Jean-Claude Milner — No Subject: Encyclopedia of Lacanian Psychoanalysis](https://nosubject.com/Jean-Claude_Milner)

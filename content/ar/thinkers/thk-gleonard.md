@@ -38,3 +38,10 @@ gaps:
 - *The Ultimate Athlete* (1975).
 - *Mastery: The Keys to Success and Long-Term Fulfillment* (1991).
 - *The Life We Are Given* (1995، مع مايكل ميرفي).
+
+## المصادر
+
+- [George Leonard — Esalen (In Memoriam)](https://www.esalen.org/in-memoriam/george-leonard)
+- [George Leonard — Esalen (Origin)](https://www.esalen.org/origin/george-leonard)
+- [George Leonard — Wikipedia](https://en.wikipedia.org/wiki/George_Leonard)
+- [ITP Co-Founder George Leonard — Integral Transformative Practice](https://www.itp-international.org/bio/george-leonard)

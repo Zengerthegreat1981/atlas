@@ -43,4 +43,12 @@ gaps:
 
 ## أهم أعماله
 
-العلاج الأدلري: النظرية والممارسة (Adlerian Therapy: Theory and Practice, 2006، مع ريتشارد واتس ومايكل مانياتشي) · العلاج الأسري الأدلري · أكثر من ثلاثمئة شريط تدريبي مصوَّر لكبار المعالجين · تحرير *The Family Journal*.
+العلاج الأدلري: النظرية والممارسة (Adlerian Therapy: Theory and Practice, 2005/2006، مع ريتشارد واتس ومايكل مانياتشي، منشورات الجمعية الأمريكية لعلم النفس) · العلاج الأسري الأدلري · أكثر من ثلاثمئة شريط تدريبي مصوَّر لكبار المعالجين · تحرير *The Family Journal* و*Journal of Individual Psychology*.
+
+## المصادر
+
+- [Jon Douglas Carlson (1945–2017) — American Psychologist / APA PsycNet](https://psycnet.apa.org/record/2018-00750-011)
+- [In Memoriam: Jon D. Carlson, Ed.D., Psy.D. — Adler University](https://www.adler.edu/2017/05/08/in-memoriam-jon-d-carlson-ed-d-psy-d/)
+- [Adlerian Therapy: Theory and Practice — APA PsycNet (نص الكتاب)](https://psycnet.apa.org/fulltext/2005-11931-000-FRM.pdf)
+- [Jon Carlson — Psychotherapy.net (السيرة والفيديوهات التدريبية)](https://www.psychotherapy.net/videos/expert/jon-carlson)
+- [JON CARLSON Obituary — Legacy.com / Chicago Tribune](https://www.legacy.com/us/obituaries/chicagotribune/name/jon-carlson-obituary?id=2800453)
