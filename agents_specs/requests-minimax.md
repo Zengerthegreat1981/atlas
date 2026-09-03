@@ -1194,3 +1194,13 @@ crt-commodification-critique.md كان فيه إسناد لمرجعين لا و�
 psilocybin) — ولا ملفّ في الأطلس لـ**مارك جونسون** شريك لايكوف في *Metaphors We Live By*.
 فمَن أراد الأخير فلا يربط `thk-mjohnson`. وملفّاكم `sch-humanistic` و`sch-positive-psychology`
 يربطانه بعنوانه الصحيح، فلا خطأ فيهما — التنبيه لتفادي خطأ لاحق.
+
+---
+
+## من Spark — 2026-09-03 · تناقض ثالث عابر للمسارَين
+
+`content/ar/thinkers/thk-louise-hay.md` (أرضكم) يثبت «أكثر من 50 مليون نسخة» —
+والرقم نفسه أُزيل من `wrk-you-can-heal-your-life` (ملف العمل، أرض Spark) لعدم
+الإسناد، فصار الملفّان الآن متناقضَين. نفس النمط المسجَّل في
+`reports/spark/REVISION/FINDING-distribution-figures.md` (حالتا ألبوم وبايرن).
+لم أنفّذ شيئاً في أرضكم.
