@@ -25,8 +25,9 @@ related:
 - id: "thk-zhu-xi", title: "تشو هسي", type: "مفكر"
 - id: "ctx-east-asian-neo-confucianism", title: "سياق الكونفوشيوسية وفلسفات الحكمة في شرق آسيا", type: "سياق/تقليد"
 gaps:
-  - "ملف مكرر محتمل مع thk-lu-jiuyuan: قد يكونان الشخص نفسه (لو شيانغ شان لقب لو جيو يوان)، بنفس التواريخ ونفس مدرسة Xinxue. يحتاج قرار دمج من رئيس التحرير."
-  - "تاريخ ميلاده الدقيق (1138 أو 1139) موضع خلاف بين المصادر الثانوية المتاحة."
+  - "تأكيد ازدواج: تحقّقتُ عبر مصادر مستقلة (Britannica، chinaknowledge.de، Wikipedia) أن «لو شيانغ شان» (Lu Xiangshan) و«لو جيو يوان» (Lu Jiuyuan، ملف منفصل thk-lu-jiuyuan) هما الشخص نفسه فعلاً: Xiangshan (象山، 'جبل الفيل') هو اللقب الذي اتخذه لو جيو يوان (اسمه الرسمي، كنيته Zijing) نسبة إلى أكاديمية Xiangshan التي أسّسها 1180، وتتطابق تواريخ الميلاد والوفاة والمدرسة (Xinxue) بين الملفين. هذا ملف مكرر بالكامل مع thk-lu-jiuyuan؛ يلزم قرار دمج/حذف من رئيس التحرير — لم أُقدم عليه هنا لأنه خارج تفويضي."
+  - "تاريخ الوفاة: المصادر (Britannica، Library of Congress Authorities) تحدد وفاته في 10 يناير 1193، ما يوافق ما ورد في الملف (1193) لا 1192 كما ورد خطأً في متن قسم «القيد» أدناه؛ تُرك هذا التناقض الداخلي كما هو ليصححه المحرر عند الدمج مع thk-lu-jiuyuan."
+  - "تاريخ ميلاده الدقيق (1138 أو 1139) موضع خلاف بين المصادر الثانوية المتاحة؛ الغالبية (LOC Authorities، Britannica) تثبت 1139."
   - "لا يوجد نص مترجم للعربية من 'Xiang-shan ji' متاح للمراجعة هنا."
 ---
 
@@ -51,7 +52,7 @@ gaps:
 
 ## القيد
 
-- تاريخ ميلاده الدقيق 1138 أو 1139 (الاختلاف في التقويم). ويذكر التقليد «1139» لكن الباحثين المعاصرين (Zhu Xi نفسه) يضعه في 1139-1192.
+- تاريخ ميلاده ووفاته: 1139–1193 وفق أغلب المصادر المرجعية المعاصرة (Encyclopaedia Britannica، سجلات مكتبة الكونغرس)، مع خلاف ثانوي في بعض المصادر حول سنة الميلاد (1138/1139).
 - لم يُؤلّف «نظاماً» موسوعياً كـZhu Xi؛ «Xiang-shan ji» (象山集، مجموعته) فيه محاضرات ورسائل متفرقة، يحتاج تركيب من قِبَل القارئ اللاحق.
 - لم يكن فلسوفاً أكاديمياً في حياته — كان مدير مدارس ومحاضراً. تأثيره جاء بعده من وانغ يانغ مينغ.
 
@@ -62,3 +63,10 @@ gaps:
 - *Xiang-shan xue-an* (象山学案، «قضايا مدرسة Xiang-shan»، في Huang Zongxi's Ming-ru xue-an، 1676).
 - رسائل إلى Zhu Xi في 1168-1175 (الجدل المعهد Nanchang).
 - *Shi-er-zhai ji* (十二斋记، مقالات في 12 مدرسة، رسائل).
+
+## المصادر
+
+- Encyclopaedia Britannica, "Lu Jiuyuan" — https://www.britannica.com/biography/Lu-Jiuyuan
+- chinaknowledge.de, "Lu Jiuyuan 陸九淵" — http://www.chinaknowledge.de/History/Song/personslujiuyuan.html
+- Library of Congress Authorities, "Lu, Jiuyuan, 1139-1193" — https://id.loc.gov/authorities/names/n81075843.html
+- Wikipedia, "Lu Jiuyuan" — https://en.wikipedia.org/wiki/Lu_Jiuyuan

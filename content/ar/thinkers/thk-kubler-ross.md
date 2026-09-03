@@ -14,8 +14,8 @@ active_start: 1958
 active_end: 2004
 edges: []
 related:
-- id: "wrk-on-death-and-dying", title: "عن الموت والاحتضار", type: "عمل / كتاب"
-- id: "con-five-stages-of-grief", title: "مراحل الحزن الخمس", type: "مفهوم"
+- id: "wrk-on-death-and-dying", title: "عن الموت والاحتضار: ما يجب أن يتعلمه الأطباء والممرضات ورجال الدين والأسر من المحتضرين", type: "عمل / كتاب"
+- id: "con-five-stages-of-grief", title: "مراحل الحزن الخمس (نموذج كوبلر–روس DABDA)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *On Death and Dying* (1969) بترجمة عربية معتمدة."
   - "بيانات السيرة الذاتية وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
@@ -49,3 +49,11 @@ gaps:
 - *Questions and Answers on Death and Dying* (1974).
 - *Living with Death and Dying* (1981).
 - *On Grief and Grieving* (نُشر بعد وفاتها عام 2005، مع ديفيد كيسلر).
+
+## المصادر
+
+- Wikipedia, "Elisabeth Kübler-Ross" — https://en.wikipedia.org/wiki/Elisabeth_Kübler-Ross
+- Britannica, "Elisabeth Kubler-Ross | Biography, Grief Model, Books, & Facts" — https://www.britannica.com/biography/Elisabeth-Kubler-Ross
+- TIME, "Elisabeth Kübler-Ross and the Stages of Grief: How She Changed Dying" — https://time.com/3946458/kubler-ross-history/
+- The University of Chicago Magazine, "Mortal Thoughts" (on the Billings Hospital seminar) — https://mag.uchicago.edu/science-medicine/mortal-thoughts
+- EKR Foundation, "Elisabeth Kübler-Ross Biography" — https://www.ekrfoundation.org/elisabeth-kubler-ross/

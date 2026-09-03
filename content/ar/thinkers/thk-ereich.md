@@ -41,3 +41,9 @@ gaps:
 ## أهم أعمالها
 
 أوراق ومواد تدريبية في «الطاقة الحيوية اللطيفة» و«لمسة الفراشة» نُشر أكثرها في دوريات العلاج الجسدي وكتيّبات التدريب لا في كتب مستقلة · شهادات ومقابلات عن أبيها اعتمد عليها مؤرّخو رايخ.
+
+## المصادر
+
+- Sun Journal (13 أغسطس 2008), "Wilhelm Reich's daughter dies at 84": https://www.sunjournal.com/2008/08/13/wilhelm-reichs-daughter-dies-84/ (تأكيد تاريخي الميلاد 27 أبريل 1924 والوفاة 10 أغسطس 2008 في هانكوك، مين).
+- Gentle Bio-Energetics Institute (الموقع الرسمي للمعهد الذي أسّسته/يحمل إرثها): http://www.gentlebio-energetics.com/
+- Weaver, Judyth, "Eva Renate Reich" و"Memories of Eva Reich" (شهادات من تلميذة وزميلة عملت معها مباشرة): https://judythweaver.com/writings/eva-renate-reich/ ، https://judythweaver.com/writings/memories-of-eva-reich/

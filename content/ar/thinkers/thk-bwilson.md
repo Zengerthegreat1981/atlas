@@ -32,3 +32,11 @@ gaps:
 ## موقعه من التيار
 
 يُعدّ بيل ويلسون الأب التاريخي لنموذج الخطوات الاثنتي عشرة، وأثّر في تأسيس «مدمني المخدرات المجهولين» (NA) و«المقامرين المجهولين» (GA) وعشرات برامج «المجهولين» الأخرى، وفي نشأة «الجمعية الأمريكية لطبّ الإدمان» (ASAM).
+
+## المصادر
+
+- Wikipedia, "Bill W." — https://en.wikipedia.org/wiki/Bill_W.
+- Stepping Stones Foundation, "The History of Bill Wilson" — https://www.steppingstones.org/about/the-wilsons/bills-story/
+- The Wilson House, "The History of Bill W. and Alcoholics Anonymous" — https://wilsonhouse.org/history
+- Hazelden Betty Ford, "The Minnesota Model" — https://www.hazeldenbettyford.org/articles/the-minnesota-model
+- Wikipedia, "Dan Anderson (psychologist)" — https://en.wikipedia.org/wiki/Dan_Anderson_(psychologist)

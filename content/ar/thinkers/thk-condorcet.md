@@ -20,7 +20,7 @@ related:
 - id: "ctx-european-enlightenment", title: "سياق عصر التنوير الأوروبي والعقلانية النقدية", type: "سياق/تقليد"
 - id: "ctx-french-revolution-terror-rights", title: "الثورة الفرنسية ووثيقة حقوق الإنسان وصدمة عهد الإرهاب", type: "سياق/تقليد"
 - id: "ctx-french-salons-encyclopedie", title: "الصالونات الباريسية ومشروع الموسوعة لديدرو ودالمبير", type: "سياق/تقليد"
-- id: "con-natural-rights-locke", title: "الحقوق الطبيعية الأصيلة للإنسان", type: "مفهوم"
+- id: "con-natural-rights-locke", title: "الحقوق الطبيعية الأصيلة للإنسان (Natural Rights)", type: "مفهوم"
 - id: "con-deliberative-democracy", title: "الديمقراطية التداولية", type: "مفهوم"
 - id: "con-freedom", title: "الحرية", type: "مفهوم"
 gaps:
@@ -51,3 +51,10 @@ gaps:
 - *Esquisse d'un tableau historique des progrès de l'esprit humain* (نُشر بعد وفاته عام 1795) — مخطّط تقدّم العقول.
 - *Projet de constitution* (1793) — المسوّدة الدستورية.
 - *Sur l'admission des femmes au droit de cité* (1790) — في حقّ المرأة في المواطنة.
+
+## المصادر
+
+- Britannica, "Marquis de Condorcet" — https://www.britannica.com/biography/Marquis-de-Condorcet
+- Stanford Encyclopedia of Philosophy, "Condorcet" — https://plato.stanford.edu/entries/condorcet/
+- Peter Harrington Rare Books, وصف الطبعة الأولى لـ *Esquisse d'un tableau historique des progrès de l'esprit humain* (1795) — https://www.peterharrington.co.uk/esquisse-d-un-tableau-historique-des-progres-de-l-esprit-humain-161166.html
+- Project MUSE, "Conjecturing a New World in Condorcet's Esquisse..." — https://muse.jhu.edu/article/569893/pdf

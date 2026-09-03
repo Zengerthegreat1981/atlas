@@ -22,11 +22,12 @@ related:
 - id: "crt-feminist-critique-humanistic", title: "النقد النسوي للعلاج الإنساني: 'تحقيق الذات' كحلم ذكوري", type: "نقد خارجي موثَّق"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Subversive Dialogues* (1994) بترجمة عربية معتمدة."
+  - "سنة الميلاد 1946 غير مؤكَّدة من مصدر أساسي مباشر (سيرتها الرسمية على drlaurabrown.com لا تذكر تاريخ ميلادها)؛ إشارات ثانوية متضاربة حول عمرها تجعل الرقم تقريبياً لا قطعياً."
 ---
 
 # لورا س. براون
 
-عالمة نفس إكلينيكية أمريكية، أستاذة في جامعة واشنطن، من أهم منظري **العلاج النفسي النسوي** المعاصر ومن أشهر المنتقدين لتشخيصات DSM الموجهة ضد النساء.
+عالمة نفس إكلينيكية وقضائية (forensic) أمريكية، تعمل في ممارسة مستقلة في سياتل، ودرَّست في جامعة واشنطن وجامعة أرغوسي وجامعة إلينوي الجنوبية، من أهم منظري **العلاج النفسي النسوي** المعاصر ومن أشهر المنتقدين لتشخيصات DSM الموجهة ضد النساء.
 
 ## ما أعطته
 
@@ -42,6 +43,13 @@ gaps:
 
 ## أهم أعمالها
 
-- *Subversive Dialogues: Theory in Feminist Therapy* (1994).
-- *Lesbian Identities* (1996).
-- *Cultural Competence in Trauma Therapy* (2008).
+- *Subversive Dialogues: Theory in Feminist Therapy* (1994) — حازت جائزة النشر المتميز من رابطة النساء في علم النفس (AWP).
+- *Cultural Competence in Trauma Therapy: Beyond the Flashback* (2008).
+- أكثر من خمسة عشر كتاباً محرَّراً أو مؤلَّفاً، وأكثر من 150 منشوراً أكاديمياً، من بينها فصول ومقالات حول الهوية المثلية والتقييم النفسي.
+
+## المصادر
+
+- الموقع الرسمي: Laura S. Brown, Ph.D. ABPP — drlaurabrown.com (السيرة الذاتية وقائمة المؤلفات).
+- APA Books — *Cultural Competence in Trauma Therapy: Beyond the Flashback* (apa.org/pubs/books/4317149).
+- Hachette Book Group / Google Books — *Subversive Dialogues: Theory in Feminist Therapy*.
+- "A Thunderbolt Strikes Psychology: The Inspirational Life of Laura Brown", *Women & Therapy*, vol. 45, no. 4 (2022).

@@ -45,3 +45,11 @@ gaps:
 ## اقتباسات مختارة
 
 «لولا خريسيبوس لما كان الرواق.» (مثل قديم، نقله ديوجينس اللائرتي)
+
+## المصادر
+
+- Wikipedia (English), "Chrysippus" — التواريخ (نحو 279–206 ق.م.)، والخلافة على رئاسة الرواق بعد كليانثس نحو 230 ق.م.: https://en.wikipedia.org/wiki/Chrysippus
+- Internet Encyclopedia of Philosophy, "Chrysippus": https://iep.utm.edu/chrysippus/
+- Routledge Encyclopedia of Philosophy, "Chrysippus (c.280–c.206 BC)": https://www.rep.routledge.com/articles/biographical/chrysippus-c-280-c-206-bc/v-1
+- History of Logic, "Stoic Logic: The Dialectic from Zeno to Chrysippus" — الأشكال الخمسة اللابرهانية ومطابقتها لـ modus ponens وmodus tollens والقياس الفصلي: https://www.historyoflogic.com/logic-stoics.htm
+- ديوجينس اللائرتي، *حياة الفلاسفة*، الكتاب السابع (المصدر الأقدم لشذرات خريسيبوس وسيرته)؛ وغالينوس، *مذاهب أبقراط وأفلاطون* (لنظرية الانفعال بوصفه حكماً).

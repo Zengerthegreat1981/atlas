@@ -39,3 +39,10 @@ gaps:
 - *Bhāvanākrama* I–III (مراحل التأمّل).
 - *Tattvasaṃgrahapañjikā* — شرحه على موسوعة شانتاراكشيتا.
 - *Madhyamakāloka* (نور الطريق الوسطى).
+
+## المصادر
+
+- Encyclopedia of Buddhism, "Kamalashila": https://encyclopediaofbuddhism.org/wiki/Kamalashila
+- Rigpa Wiki, "Kamalashila": https://www.rigpawiki.org/index.php?title=Kamalashila
+- Tsadra Foundation / Bodhicitta, "Bhāvanākrama (Stages of Meditation)": https://bodhicitta.tsadra.org/index.php/Stages_of_Meditation
+- Titlin, "Śāntarakṣita and Kamalaśīla: Life and Teaching", RUDN Journal of Philosophy: https://journals.rudn.ru/philosophy/article/view/25005

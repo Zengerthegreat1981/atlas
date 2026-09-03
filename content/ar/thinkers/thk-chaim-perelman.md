@@ -39,3 +39,10 @@ gaps:
 - *De la justice* (1945).
 - *L'empire rhétorique* (1977).
 - *Logique juridique: Nouvelle rhétorique* (1976).
+
+## المصادر
+
+- "Chaïm Perelman", Wikipedia: https://en.wikipedia.org/wiki/Cha%C3%AFm_Perelman
+- "Perelman Chaïm (1912–1984)", Springer Encyclopedia entry: https://link.springer.com/rwe/10.1007/978-94-007-6730-0_786-1
+- "Biographie de Chaïm Perelman (1912-1984)", Encyclopédie Universalis: https://www.universalis.fr/encyclopedie/chaim-perelman/
+- "Chaïm Perelman - L'oeuvre et la pensée", Bibliothèques ULB: https://bib.ulb.be/fr/documents/digitheque/personalia/chaim-perelman/biographie/chaim-perelman-loeuvre-et-la-pensee

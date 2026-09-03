@@ -49,6 +49,15 @@ gaps:
 - *Open Dialogues and Anticipations: Respecting Otherness in the Present Moment* (2014، مع أرنكيل).
 - "Five-year experience of first-episode nonaffective psychosis in open-dialogue approach" (2006)، *Psychotherapy Research* — الدراسة التي بُنيت عليها شهرة النموذج.
 
+## المصادر
+
+- Taos Institute, "Jaakko Seikkula, Ph.D." — السيرة والمنصب في جامعة Jyväskylä: https://www.taosinstitute.net/about-us/people/institute-associates/europe/finland/jaakko-seikkula
+- Mad in America, "Re-humanising Mental Health Systems: A Discussion with Jaakko Seikkula on the Open Dialogue Approach" (2022): https://www.madinamerica.com/2022/10/jaakko-seikkula-open-dialogue/
+- سيرته الذاتية الرسمية (CV)، جامعة Jyväskylä: https://www.symvoli.gr/conference/qrmh6/uploads/files/JS_CV.pdf — تأكيد عمله كبير الأطباء النفسيين في مستشفى Keropudas بتورنيو (1985–1998) ضمن فريق شمل يوكا آلتونن وبيرجيتا ألاكاره.
+- Seikkula, J. & Arnkil, T.E., *Dialogical Meetings in Social Networks* (2006) و*Open Dialogues and Anticipations* (2014).
+- Seikkula, J. et al., "Five-year experience of first-episode nonaffective psychosis in open-dialogue approach", *Psychotherapy Research* (2006).
+- The Lancet Psychiatry, "Open Dialogue versus treatment as usual for adults presenting in crisis to mental health services in England (the ODDESSI Trial)" (2026/2024) — التجربة العشوائية الكبرى التي لم تجد فرقاً في المخرج الأولي (زمن الانتكاسة): https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(26)00229-4/fulltext
+
 ## القيد
 نتائج كيروبوداس المنشورة لافتة: نسبة كبيرة من مرضى الذهان الأوّل عادوا إلى العمل أو الدراسة خلال خمس سنوات، وأقلّية منهم فقط استعملت مضادّات الذهان. غير أن الاحتجاج بها يقتضي ثلاثة تحفّظات:
 

@@ -17,7 +17,7 @@ related:
 - id: "wrk-cured-rediger", title: "شفاء: تقوية جهاز المناعة وعلاج حياتك", type: "عمل / كتاب"
 - id: "con-mind-body", title: "مشكلة العقل والجسد", type: "مفهوم"
 - id: "con-homeostasis", title: "الاستتباب", type: "مفهوم"
-- id: "thk-besselvanderkolk", title: "بيسيل فان دير كولك", type: "مفكر"
+- id: "thk-besselvanderkolk", title: "بِسِل فَن دِر كولك", type: "مفكر"
 gaps:
   - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«علم النفس الصحي» في content/ar/schools أو branches."
   - "سنة وتفاصيل السيرة الأكاديمية الأولى تحتاج مراجعة بيبليوغرافية من سجلات كلية الطب بهارفارد."
@@ -46,3 +46,10 @@ gaps:
 ## أهم أعماله
 
 - *Cured: Strengthen Your Immune System and Heal Your Life* (2020)
+
+## المصادر
+
+- Kripalu, "Jeffrey D. Rediger, MD, MDiv" — https://kripalu.org/people/jeffrey-d-rediger-md-mdiv
+- Penguin Books, "Cured" by Dr Jeff Rediger — https://www.penguin.co.uk/books/307387/cured-by-rediger-dr-jeff/9780241327593
+- Macmillan / St. Martin's Press, author page — https://us.macmillan.com/author/jeffreyrediger
+- Global Wellness Summit, "Jeffrey Rediger, M.D." — https://www.globalwellnesssummit.com/person/jeffrey-rediger-m-d/

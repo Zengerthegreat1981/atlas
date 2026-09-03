@@ -30,7 +30,7 @@ gaps:
 - تأليف *Many Lives, Many Masters* (1988)، وهو من أكثر الكتب مبيعاً عن **الحياة السابقة** وعلاج التنويم.
 - تطوير **بروتوكولات تنويم** للوصول إلى ذكريات «الحياة السابقة» (Past-Life Memories) في العلاج.
 - مساهمات في **العلاج بالتنويم** مع اضطرابات القلق والاكتئاب.
-- تأسيس **مؤسسة وايس** للتدريب على أساليبه.
+- إدارة **معهد وايس** (The Weiss Institute) مع زوجته كارول للتدريب على أساليبه، عبر ورش منتظمة (أبرزها في معهد أوميغا Omega Institute).
 
 ## موقعه من التيار
 
@@ -41,3 +41,9 @@ gaps:
 - *Many Lives, Many Masters* (1988).
 - *Through Time into Healing* (1992).
 - *Miracles Happen* (2012).
+
+## المصادر
+
+- brianweiss.com (الموقع الرسمي لبرايان وايس، سيرة ذاتية وقائمة أعمال): https://www.brianweiss.com/
+- Brian Weiss — Wikipedia: https://en.wikipedia.org/wiki/Brian_Weiss (تأكيد تاريخ الميلاد 6 نوفمبر 1944 في نيويورك، تخرّجه من جامعة كولومبيا 1966 وكلية طب ييل 1970، ورئاسته الفخرية لقسم الطب النفسي في مستشفى ماونت سايناي بميامي).
+- Simon & Schuster — صفحة الناشر الرسمية لكتاب *Many Lives, Many Masters*: https://www.simonandschuster.com/books/Many-Lives-Many-Masters/Brian-L-Weiss/9780671657864

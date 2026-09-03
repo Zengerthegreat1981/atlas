@@ -48,3 +48,10 @@ gaps:
 - *The Craving Mind* (2017).
 - *Unwinding Anxiety* (2021).
 - دراسات في *Drug and Alcohol Dependence* و*PNAS* عن الشبكة الافتراضية والتدريب التأمّلي.
+
+## المصادر
+
+- Brown University School of Public Health, "Professor Jud Brewer's new book explains how to uproot anxiety at its source": https://sph.brown.edu/news/2021-03-09/anxiety-its-source-brain-based-techniques-accessible-anyone
+- Researchers @ Brown, صفحة جودسون بروير: https://vivo.brown.edu/display/jbrewer2
+- Brown Alumni Magazine, "The Anxiety Hacker": https://www.brownalumnimagazine.com/articles/2024-03-27/jud-brewer-anxiety-loop
+- Wikipedia, "Judson A. Brewer": https://en.wikipedia.org/wiki/Judson_A._Brewer

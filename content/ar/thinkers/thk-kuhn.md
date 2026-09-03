@@ -54,3 +54,10 @@ gaps:
 ## أهم أعماله
 
 تأويلات القناع في اختبار رورشاخ (Maskendeutungen im Rorschach'schen Versuch، 1944) · "The treatment of depressive states with G22355 (imipramine hydrochloride)" (1958)، *American Journal of Psychiatry* — الورقة التي أعلنت الاكتشاف · فصله في *Existence: A New Dimension in Psychiatry and Psychology* (1958).
+
+## المصادر
+
+- Wikipedia, "Roland Kuhn" — https://en.wikipedia.org/wiki/Roland_Kuhn
+- "Roland Kuhn, 1912–2005", *Neuropsychopharmacology* — https://www.nature.com/articles/1301026
+- "The Clinical Discovery of Imipramine", *American Journal of Psychiatry* — https://psychiatryonline.org/doi/10.1176/appi.ajp.2015.14101336
+- "Everyday transgressions of borderlines: the scandalization of clinical drug trials of the psychiatrist Roland Kuhn" — https://pmc.ncbi.nlm.nih.gov/articles/PMC9992051/

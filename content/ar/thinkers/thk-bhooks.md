@@ -22,13 +22,12 @@ related:
 - id: "dbt-feminist-universalism-vs-particularism", title: "جدل الكونية مقابل الخصوصية في النسوية", type: "جدل"
 - id: "crt-diagnosis-feminist", title: "نقد التشخيص: المنظور النسوي", type: "نقد خارجي موثَّق"
 gaps:
-  - "تفاصيل مسيرتها في Yale وOberlin تستحق توثيقاً."
   - "لا يوجد اقتباس مباشر موثوق من *All About Love* (2000) بترجمة عربية معتمدة."
 ---
 
 # بيل هوكس
 
-مفكرة وناقدة أمريكية ومنظرة نسوية سوداء (اسمها الحقيقي غلوريا جين واتكنز، Gloria Jean Watkins؛ كتبت اسمها المستعار بحروف صغيرة عمداً، «bell hooks»)، من أهم الأصوات النسوية السوداء في أمريكا الشمالية من الثمانينيات حتى وفاتها عام 2021. تُعدّ من البنائين الأساسيين لتحليل تقاطع العرق والجنس والطبقة (رغم أن مصطلح «التقاطعية» نفسه صاغته كيمبرلي كرينشو).
+مفكرة وناقدة أمريكية ومنظرة نسوية سوداء (اسمها الحقيقي غلوريا جين واتكنز، Gloria Jean Watkins، وُلدت في 25 سبتمبر 1952 في هوبكنسفيل بولاية كنتاكي؛ كتبت اسمها المستعار بحروف صغيرة عمداً، «bell hooks»، وهو مأخوذ من اسم جدّتها الكبرى لأمها «بيل بلير هوكس» Bell Blair Hooks)، من أهم الأصوات النسوية السوداء في أمريكا الشمالية من الثمانينيات حتى وفاتها في 15 ديسمبر 2021 في بيريا بكنتاكي. حصلت على البكالوريوس من جامعة ستانفورد، والماجستير من جامعة ويسكونسن-ماديسون، والدكتوراه من جامعة كاليفورنيا في سانتا كروز، ودرّست في ستانفورد وجامعة ييل وكلية أوبرلن (Oberlin، أستاذة مشاركة 1988–1994) وكلية مدينة نيويورك، قبل أن تستقرّ أستاذة متميزة في كلية بيريا (Berea College) في كنتاكي منذ 2004 حتى وفاتها. تُعدّ من البنائين الأساسيين لتحليل تقاطع العرق والجنس والطبقة (رغم أن مصطلح «التقاطعية» نفسه صاغته كيمبرلي كرينشو).
 
 ## ما أعطته
 
@@ -55,3 +54,11 @@ gaps:
 
 - «الذكورية السامة» (Toxic Masculinity) كمفهوم انتشر مع كتاباتها، لكن البعض يرى أنه يقدّم الرجال ككتلة متجانسة.
 - بعض أطروحاتها حول الحب جذبت نقداً لأنها «مثالية».
+
+## المصادر
+
+- Wikipedia, "Bell hooks" — https://en.wikipedia.org/wiki/Bell_hooks
+- Britannica, "bell hooks | Biography, Books, & Facts" — https://www.britannica.com/biography/bell-hooks
+- BlackPast.org, "bell hooks/Gloria Jean Watkins (1952-2021)" — https://blackpast.org/african-american-history/hooks-bell-gloria-jean-watkins-1952/
+- Oberlin College and Conservatory, "Former Associate Professor bell hooks Dies" — https://www.oberlin.edu/news/former-associate-professor-bell-hooks-dies
+- Berea College, "Get to know bell hooks" — https://www.berea.edu/centers/the-bell-hooks-center/about-bell

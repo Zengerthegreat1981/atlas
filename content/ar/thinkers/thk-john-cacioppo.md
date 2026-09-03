@@ -15,10 +15,10 @@ active_end: 2018
 edges:
 - rel: "belongs_to", target: "sch-biological-neuro", target_type: "مدرسة"
 related:
-- id: "wrk-loneliness-cacioppo", title: "الوحدة: الطبيعة البشرية", type: "عمل / كتاب"
+- id: "wrk-loneliness-cacioppo", title: "الوحدة: الطبيعة البشرية والحاجة للترابط الاجتماعي", type: "عمل / كتاب"
 - id: "con-social-pain", title: "الألم الاجتماعي وتطابق دوائر الألم الجسدي في الدماغ", type: "مفهوم"
 gaps:
-  - "بيانات السيرة الذاتية وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
+  - "بيانات السيرة الأساسية (المواليد 1951، الوفاة 5 مارس 2018، جامعة شيكاغو) تحقّقت من مصادر مستقلة (UChicago News)؛ تفاصيل أدق عن مسيرته الأكاديمية المبكرة (نوتردام، آيوا، أوهايو) لم تُراجَع فرداً فرداً."
   - "لا يوجد اقتباس مباشر موثوق من *Loneliness: Human Nature and the Need for Social Connection* (2008) بترجمة عربية معتمدة."
 ---
 
@@ -44,3 +44,10 @@ gaps:
 - *Handbook of Psychophysiology* (محرّراً، طبعات متعدّدة).
 - *Foundations in Social Neuroscience* (2002، محرّراً).
 - دراسات شيكاغو الطولية للصحّة والشيخوخة والعلاقات الاجتماعية (CHASRS).
+
+## المصادر
+
+- John T. Cacioppo, pioneer and founder of the field of social neuroscience, 1951–2018. *University of Chicago News*. https://news.uchicago.edu/story/john-t-cacioppo-pioneer-and-founder-field-social-neuroscience-1951-2018
+- In memoriam: John Cacioppo (1951–2018). *UChicago Division of the Social Sciences*. https://socialsciences.uchicago.edu/node/4480
+- Cacioppo, J.T. & Berntson, G.G. (1992). Social psychological contributions to the decade of the brain. *American Psychologist*.
+- Cacioppo, J.T. & Patrick, W. (2008). *Loneliness: Human Nature and the Need for Social Connection*. W.W. Norton.
