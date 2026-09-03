@@ -24,7 +24,7 @@ gaps:
 
 # جون كونستانتينو
 
-طبيب نفسي للأطفال وأستاذ في جامعة واشنطن بسانت لويس، اشتُهر بتطوير **«مقياس الاستجابة الاجتماعية»** (SRS) وهو من أوسع أدوات فحص سمات التوحّد استعمالاً. طوّر أبحاثاً حول التفاعل بين الجينات والبيئة في نمو التوحد.
+طبيب نفسي للأطفال، تخرّج من كلية الطب بجامعة واشنطن في سانت لويس عام 1988 وأمضى معظم مسيرته أستاذاً فيها (بروفيسور بلانش ف. إتلسون)، قبل أن يُعيَّن عام 2022 رئيساً افتتاحياً للصحة السلوكية والعقلية في مستشفى Children's Healthcare of Atlanta وأستاذاً في طب الأطفال والطب النفسي والوراثة بجامعة إيموري. اشتُهر بتطوير **«مقياس الاستجابة الاجتماعية»** (SRS) وهو من أوسع أدوات فحص سمات التوحّد استعمالاً. طوّر أبحاثاً حول التفاعل بين الجينات والبيئة في نمو التوحد، ومختبره للدراسات النمائية الاجتماعية حصل على تمويل فيدرالي متواصل من NIH لمدة 25 عاماً.
 
 ## ما أعطاه
 
@@ -44,3 +44,10 @@ gaps:
 
 - *Social Responsiveness Scale* (SRS، 2005؛ والنسخة الثانية SRS-2، 2012).
 - مقالات في *Journal of the American Academy of Child and Adolescent Psychiatry*.
+
+## المصادر
+
+- John Constantino – Wikipedia, https://en.wikipedia.org/wiki/John_Constantino
+- John N. Constantino, M.D. – The Source, WashU, https://source.washu.edu/2006/02/john-n-constantino-md/
+- Social Responsiveness Scale – Wikipedia, https://en.wikipedia.org/wiki/Social_Responsiveness_Scale
+- John Constantino: Educating communities about autism's complexities – The Transmitter, https://www.thetransmitter.org/spectrum/john-constantino-educating-communities-about-autisms-complexities/

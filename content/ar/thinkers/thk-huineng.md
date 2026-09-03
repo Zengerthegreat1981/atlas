@@ -10,7 +10,7 @@ crumb: "أعلام الفلسفة والفكر ← داجيان هوي نينغ"
 dates: "قوانغدونغ (الصين) · 638–713 م"
 country: "قوانغدونغ (الصين)"
 language: "الصينية الكلاسيكية"
-active_start: 668
+active_start: 661
 active_end: 713
 edges:
 - rel: "belongs_to", target: "sch-chan", target_type: "مدرسة"
@@ -41,3 +41,10 @@ gaps:
 ## اقتباسات مختارة
 
 «إذا لم يكن ثمّة شيء من الأصل، فأين يعلق الغبار؟» (سوترا المنصّة)
+
+## المصادر
+
+- Huineng, *Wikipedia*: https://en.wikipedia.org/wiki/Huineng
+- Huineng (Hui-neng), *Internet Encyclopedia of Philosophy*: https://iep.utm.edu/huineng/
+- Huineng (638-713 C.E.), *Encyclopedia.com*: https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/huineng-638-713-ce
+- *Dajian Huineng*, New World Encyclopedia: https://www.newworldencyclopedia.org/entry/Dajian_Huineng

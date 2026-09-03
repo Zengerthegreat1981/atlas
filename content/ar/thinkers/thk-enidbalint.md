@@ -20,6 +20,7 @@ related:
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Six Minutes for the Patient* (1973) بترجمة عربية معتمدة."
   - "مقالاتها في «مكتب مناقشة الأسرة» بتافيستوك لم تُراجع من مصدر أوّلي."
+  - "تحقّق (2026-09-03): الهوية والتواريخ الأساسية (1903-1994) وتحليلها مع جون ريكمان (حتى وفاته 1951) ثم وينيكوت مؤكَّدة عبر مصادر مستقلة (Wikipedia، PMC، Wiley/IJAPS)."
 ---
 
 # إنيد بالينت
@@ -40,3 +41,11 @@ gaps:
 ## أهم أعمالها
 
 ستّ دقائق للمريض (Six Minutes for the Patient, 1973، تحرير مع ج. س. نوريل) · قبل أن أكون أنا: التحليل النفسي والمخيّلة (Before I Was I: Psychoanalysis and the Imagination, 1993) · مقالات في العمل الزوجي المشترك ضمن «مكتب مناقشة الأسرة» بتافيستوك.
+
+## المصادر
+
+- Wikipedia contributors, "Enid Balint," *Wikipedia* (تواريخ الميلاد/الوفاة 1 ديسمبر 1903 – 19 يوليو 1994؛ درست الاقتصاد في LSE؛ إدارتها للجمعية البريطانية للتحليل النفسي حتى 1974 بعد وفاة مايكل بالينت نهاية 1970).
+- "An RCGP plaque for Michael and Enid Balint: from the archivist's perspective," PMC (PMC6808561).
+- J. Dyer, "Balint Groups: A Catalytic Collaboration Between General Practice and Psychoanalysis," *International Journal of Applied Psychoanalytic Studies* (2026), Wiley Online Library — تؤكد بدء تدريبها التحليلي مع جون ريكمان في تافيستوك عام 1948 وانتقالها بعد وفاته 1951 لمتابعة العمل مع وينيكوت.
+- E. Balint, J. S. Norell (eds.), *Six Minutes for the Patient* (1973).
+- E. Balint, *Before I Was I: Psychoanalysis and the Imagination*, ed. J. Mitchell & M. Parsons (1993).

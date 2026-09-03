@@ -25,7 +25,7 @@ gaps:
 
 # كريستين كورسغارد
 
-فيلسوفة أمريكية من جامعة هارفارد، من أهم ممثلي الكانطية الأخلاقية المعاصرة، تلميذة جون رولز في هارفارد، وقريبة فكرياً من أونورا أونيل (Onora O'Neill).
+فيلسوفة أمريكية، أستاذة كرسي "آرثر كينغزلي بورتر" الفخرية في الفلسفة بجامعة هارفارد (تقاعدت من التدريس عام 2020)، من أهم ممثلي الكانطية الأخلاقية المعاصرة. نالت بكالوريوسها من جامعة إلينوي عام 1974، ودكتوراهها من هارفارد عام 1981 تحت إشراف جون رولز، وقريبة فكرياً من أونورا أونيل (Onora O'Neill) في قراءة كانط البنائية (constructivist).
 
 ## ما أعطته
 
@@ -38,11 +38,18 @@ gaps:
 
 - *The Sources of Normativity* (1996).
 - *Creating the Kingdom of Ends* (1996).
-- *The Normativity of the Natural* (2009، مقالات).
-- *Self-Constitution* (2009).
+- *The Constitution of Agency* (2008، مقالات).
+- *Self-Constitution: Agency, Identity, and Integrity* (2009).
 - *On Having a Good* (2014).
 - *Fellow Creatures* (2018).
 
 ## الأثر
 
 أثرت كورسغارد على فلسفة الفعل التحليلية، وعلى فلسفة الحيوانات، وعلى الجدل بين الكانطيين والفضيليين.
+
+## المصادر
+
+- صفحتها الرسمية، قسم الفلسفة، جامعة هارفارد: https://philosophy.fas.harvard.edu/people/christine-korsgaard
+- سيرتها الذاتية الأكاديمية (Vita)، هارفارد، فبراير 2025: https://bpb-us-e1.wpmucdn.com/sites.harvard.edu/dist/e/97/files/2025/02/CMK.Vita_.Complete.February.2025.pdf
+- Christine Korsgaard, *Wikipedia*: https://en.wikipedia.org/wiki/Christine_Korsgaard
+- الأكاديمية الأمريكية للفنون والعلوم، صفحتها: https://www.amacad.org/person/christine-marion-korsgaard

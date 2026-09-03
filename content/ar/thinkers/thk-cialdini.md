@@ -56,3 +56,9 @@ gaps:
 - *Influence: The Psychology of Persuasion* (1984، وطبعات موسَّعة).
 - *Yes! 50 Scientifically Proven Ways to Be Persuasive* (2008).
 - *Pre-Suasion: A Revolutionary Way to Influence and Persuade* (2016).
+
+## المصادر
+
+- Wikipedia, "Robert Cialdini": https://en.wikipedia.org/wiki/Robert_Cialdini
+- Society for Personality and Social Psychology (SPSP), Heritage Wall — Robert B. Cialdini: https://spsp.org/membership/awards/heritage-wall/cialdini
+- Robert Cialdini CV (Arizona State University / Influence at Work): https://www.influenceatwork.com/wp-content/uploads/2012/01/Cialdini-CV-2017.pdf

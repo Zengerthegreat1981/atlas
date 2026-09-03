@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "br-teacch", target_type: "تيار"
 related:
 - id: "thk-eschopler", title: "إريك شوبلر", type: "مفكر"
-- id: "thk-ereichelt", title: "إريك رايشيلت", type: "مفكر"
+- id: "thk-ereichelt", title: "روبرت جاي رايشلر", type: "مفكر"
 - id: "thk-gmesibov", title: "غاري ميسيبوف", type: "مفكر"
 gaps:
   - "هذا الاسم مُتَرجَم — الهوية الدقيقة لم تُتأكد."

@@ -16,10 +16,10 @@ active_source: "lifespan"
 edges:
 - rel: "belongs_to", target: "sch-legalism", target_type: "مدرسة"
 related:
-- id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
-- id: "thk-shang-yang", title: "شانغ يانغ", type: "مفكر"
+- id: "sch-legalism", title: "الشرعية / القانونية (Fajia)", type: "مدرسة"
+- id: "thk-shang-yang", title: "شانغ يانغ (غي وي شيانغ)", type: "مفكر"
 - id: "thk-shen-buhai", title: "شين بو هاي", type: "مفكر"
-- id: "thk-xunzi", title: "شون تزو", type: "مفكر"
+- id: "thk-xunzi", title: "شون تزو (شون كوانغ)", type: "مفكر"
 - id: "wrk-hanfeizi", title: "كتاب هان في تزو", type: "عمل / كتاب"
 gaps:
   - "التفاصيل الدقيقة لمقتله على يد لي سي (الذي حسده) موضع خلاف تاريخي."
@@ -51,3 +51,10 @@ gaps:
 ## أهم أعماله (المنسوبة)
 
 - *Han Feizi* (韩非子، 55 فصلاً، قسم منها أصيل وقسم منها لتلاميذه).
+
+## المصادر
+
+- [Han Feizi — Encyclopaedia Britannica](https://www.britannica.com/biography/Han-Feizi)
+- [Han Fei — ويكيبيديا الإنجليزية](https://en.wikipedia.org/wiki/Han_Fei)
+- [Legalism in Chinese Philosophy — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/chinese-legalism/)
+- [Introduction: HAN Fei and the Han Feizi — جامعة بنسلفانيا](https://ealc.sas.upenn.edu/sites/default/files/bio/%5Buser-raw%5D/papers/Introduction.pdf)

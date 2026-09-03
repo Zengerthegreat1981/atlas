@@ -45,3 +45,9 @@ gaps:
 - *In Search of Maturity* (1943).
 - *Creation Continues* (1947).
 - *How Character Develops* (1940، مع روث غاردنر).
+
+## المصادر
+
+- [Fritz Künkel — ويكيبيديا الإنجليزية](https://en.wikipedia.org/wiki/Fritz_K%C3%BCnkel)
+- [Fritz Kunkel Saves a Life — fritzkunkel.com](https://www.fritzkunkel.com/post/fritz-kunkel-saved-robert-johnson-s-life)
+- Robert A. Johnson, *Balancing Heaven and Earth: A Memoir* (HarperSanFrancisco, 1998) — يخصّص فصلاً لدور كونكل في إنقاذ حياته وتوجيهه إلى علم النفس اليونغي.

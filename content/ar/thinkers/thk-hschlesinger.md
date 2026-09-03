@@ -5,7 +5,7 @@ type: "مفكر"
 level: "متوسط"
 title: "هربرت شليسنغر"
 en: "Herbert Schlesinger"
-dates: "الولايات المتحدة · 1927–2018"
+dates: "الولايات المتحدة · 1921–2022"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1965
@@ -17,11 +17,11 @@ edges:
 related:
 - id: "thk-mwagreich", title: "موريس هـ. فيغوتش", type: "مفكر"
 gaps:
-  - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من *The Texture of Treatment: On the Matter of Psychoanalytic Technique* (2003) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: موريس هـ. فيغوتش (thk-mwagreich)."
   - "كانت في الملف أربعة روابط لمدارس لا صلة موثّقة لها به (الوجودية العلاجية، والإنسانية، وعلم النفس الإيجابي، وCBT) — وهي نمط ربط مطبوع آلياً يتكرّر في مئات الملفات؛ أُسقطت."
   - "تم تصحيح تصنيفه من «التنويم التحليلي» إلى sch-psychoanalysis: مصادر مستقلة (صفحة تأبين The New School، ومقالات مؤسسة Menninger) تؤكد أنه كان محلّلاً نفسياً تدريبياً/إشرافياً في Columbia University Center for Psychoanalytic Training and Research، وأستاذاً مساعداً في Cornell، ورئيساً لجمعية شيكاغو للتحليل النفسي (1967–1969)؛ لا يوجد أي مصدر يربطه بالتنويم التحليلي كمدرسة."
+  - "تم تصحيح تاريخ الميلاد/الوفاة من 1927–2018 إلى 1921–2022 بناءً على نعي دار Dignity Memorial وصفحة تأبين The New School (توفي 16 سبتمبر 2022 عن عمر 100 عاماً، وُلد 22 أكتوبر 1921)."
 ---
 
 # هربرت شليسنغر
@@ -43,3 +43,8 @@ gaps:
 
 - *The Texture of Treatment: On the Matter of Psychoanalytic Technique* (2003).
 - *Endings and Beginnings: On Terminating Psychotherapy and Psychoanalysis* (2005).
+
+## المصادر
+
+- Dr. Herbert J. Schlesinger — A Celebration of Life, The New School: https://event.newschool.edu/schlesinger-celebration-of-life
+- Herbert Schlesinger Obituary, Dignity Memorial: https://www.dignitymemorial.com/obituaries/new-york-ny/herbert-schlesinger-10937560

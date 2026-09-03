@@ -53,3 +53,9 @@ gaps:
 ## اقتباسات مختارة
 
 «كل يوم أتحسّن في كلّ اتجاه.» — صيغته الشهيرة في التحسين الذاتي
+
+## المصادر
+
+- Encyclopaedia Britannica, "Émile Coué": https://www.britannica.com/biography/Emile-Coue
+- Wikipedia, "Émile Coué": https://en.wikipedia.org/wiki/%C3%89mile_Cou%C3%A9
+- UK College of Hypnosis & Hypnotherapy, "Émile Coué's Method of Conscious Autosuggestion": https://www.ukhypnosis.com/2009/06/17/emile-coues-method-of-conscious-autosuggestion/

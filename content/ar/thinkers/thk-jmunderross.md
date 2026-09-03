@@ -36,7 +36,16 @@ gaps:
 ## أهم أعماله
 
 - *Father and Child: Developmental and Clinical Perspectives* (1982، تحرير مشترك مع ستانلي كاث وألان غورويت) — المجلّد المرجعي في الأبوّة تحليلياً.
+- *Tales of Love, Sex, and Danger* (1986، مع سودهير كاكار) — دراسة تحليلية نفسية لقصص الحبّ الكبرى، من «روميو وجولييت» إلى أساطير الحبّ في الهند وشبه القارة.
+- *The Oedipus Papers* (1987، تحرير مشترك مع جورج هـ. بولوك).
 - *The Male Paradox* (1992).
 - *What Men Want: Mothers, Fathers, and Manhood* (1994).
 - *The Sadomasochism of Everyday Life* (1997).
 - *New Concepts in Psychoanalytic Psychotherapy* (تحرير مشترك مع واين مايرز).
+- *The Falling Idols of My 1963: A Story of Collateral Damage* (2018) — سيرة ذاتية.
+
+## المصادر
+
+- [John Munder Ross — Weill Cornell Medicine](https://directory.weill.cornell.edu/person/profile/jmr2002)
+- [John Ross Obituary (2025) — New York Times / Legacy.com](https://www.legacy.com/us/obituaries/nytimes/name/john-ross-obituary?id=60258652)
+- [Tales of Love, Sex and Danger — Oxford University Press](https://global.oup.com/academic/product/tales-of-love-sex-and-danger-9780198072560)

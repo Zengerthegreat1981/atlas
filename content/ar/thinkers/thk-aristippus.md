@@ -43,3 +43,9 @@ gaps:
 ## اقتباسات مختارة
 
 «أنا أملكها، لكنها لا تملكني.» (قوله عن لايس، نقله ديوجينس اللائرتي)
+
+## المصادر
+
+- Diogenes Laertius, *Lives of Eminent Philosophers*, Book II, Chapter 8 — [Perseus Digital Library](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0258%3Abook%3D2%3Achapter%3D8)
+- [Aristippus – Internet Encyclopedia of Philosophy](https://iep.utm.edu/aristippus/)
+- [The Life of Aristippus in Diogenes Laertius – World History Encyclopedia](https://www.worldhistory.org/article/738/the-life-of-aristippus-in-diogenes-laertius/)

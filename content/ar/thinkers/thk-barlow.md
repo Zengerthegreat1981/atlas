@@ -6,7 +6,7 @@ level: "متقدم"
 title: "ديفيد هـ. بارلو"
 en: "David H. Barlow"
 crumb: "المعرفية السلوكية ← الناس ← ديفيد بارلو"
-dates: "الولايات المتحدة · 1944–[DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · 1942–مستمر"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1970
@@ -15,14 +15,12 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
 related:
-- id: "tec-process-based-cbt", title: "العلاج المعرفي السلوكي القائم على العمليات", type: "تقنية/تدخل علاجي"
+- id: "tec-process-based-cbt", title: "العلاج المعرفي السلوكي القائم على العمليات والبروتوكول الموحد", type: "تقنية/تدخل علاجي"
 - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
 - id: "thk-shiggins", title: "ستيفن تي. هيغينز", type: "مفكر"
 - id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
 - id: "thk-ecker", title: "بروس إيكر", type: "مفكر"
 gaps:
-  - "سنة الميلاد تقريبية، تستحق توثيقاً من مصدر أولي."
-  - "تفاصيل عمله في جامعة بوسطن وأبحاثه حول الهلع تستحق توثيقاً."
   - "لا يوجد اقتباس مباشر موثوق من *Anxiety and Its Disorders* (1988) بترجمة عربية معتمدة."
 ---
 
@@ -51,3 +49,9 @@ gaps:
 - القلق وأخواته: إعادة التصنيف (Anxiety and Its Disorders, 1988، 2002).
 - البروتوكول الموحّد للاضطرابات الانفعالية عابرة التشخيص (Unified Protocol, 2011) مع دينيس تورك-برونل وروبن كيسليوس.
 - علم النفس المرضي: علم نفس سريري متكامل (Clinical Handbook of Psychological Disorders, 1985، 2021).
+
+## المصادر
+
+- [David H. Barlow – Wikipedia](https://en.wikipedia.org/wiki/David_H._Barlow)
+- [David H. Barlow, Ph.D. – Center for Anxiety & Related Disorders, Boston University](https://www.bu.edu/card/profile/david-h-barlow-ph-d/)
+- [Dr David H. Barlow And The Unified Protocol – Psychology Tools](https://www.psychologytools.com/articles/dr-david-h-barlow-and-the-unified-protocol)

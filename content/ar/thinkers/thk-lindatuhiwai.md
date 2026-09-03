@@ -21,8 +21,9 @@ related:
 - id: "thk-papaarangireid", title: "بابارانغي ريد", type: "مفكر"
 - id: "thk-tekanikingi", title: "تيكاني كينغي", type: "مفكر"
 gaps:
-  - "سنة الميلاد غير موثقة من مصدر أولي دقيق، تم تقديرها من سياقات السيرة."
+  - "تحقّق (2026-09-03): سنة الميلاد 1950 مؤكَّدة عبر مصادر مستقلة (Wikipedia، Global Social Theory)."
   - "لا اقتباس مباشر موثّق منها في هذا الملف."
+  - "لم يُتحقّق مباشرة من دورها كمؤسِّسة لمجلة *AlterNative* (تأسست 2005)؛ لم تُعثر مصادر مستقلة تؤكد اسمها كمؤسِّسة/محررة مؤسِّسة بعينها — يُنصح بإعادة الصياغة كـ«من الأسماء المرتبطة بتأسيس الحقل» ما لم يُتحقق لاحقاً."
   - "اقتباس كان مدرجاً سابقاً (\"البحث ليس عملاً محايداً...\") بلا تحقّق من مصدره الدقيق في *Decolonizing Methodologies* — أُزيل لعدم القدرة على التحقق."
 ---
 
@@ -35,7 +36,7 @@ gaps:
 - تأسيس **منهجيات البحث اللااستعمارية** (Decolonizing Methodologies) كإطار بحثي للشعوب الأصلية.
 - مساهمات محورية في **علم نفس الشعوب الأصلية** (Indigenous Psychologies) ونقد المركزية الغربية في علم النفس.
 - أبحاث في **هوية المرأة الماورية** والتعليم والبحث العلمي.
-- تأسيس **مجلة *AlterNative***، وهي دورية أكاديمية عن دراسات الشعوب الأصلية.
+- ارتباط اسمها بتأسيس مجلة ***AlterNative: An International Journal of Indigenous Peoples*** (2005)، وهي دورية أكاديمية عن دراسات الشعوب الأصلية (لم يُتحقق من كونها المؤسِّسة الوحيدة أو المحررة المؤسِّسة تحديداً).
 
 ## موقعها من التيار
 
@@ -49,3 +50,10 @@ gaps:
 ## اقتباسات مختارة
 
 لا اقتباس مباشر موثّق منها في هذا الملف.
+
+## المصادر
+
+- Wikipedia contributors, "Linda Tuhiwai Smith," *Wikipedia* (تاريخ الميلاد 1950، أصل Ngāti Awa وNgāti Porou، جائزة Rutherford Medal 2023، وسام Companion of the New Zealand Order of Merit 2013).
+- Global Social Theory, "SMITH, Linda Tuhiwai" — ترجمة سيرة أكاديمية: globalsocialtheory.org/thinkers/linda-tuhiwai-smith/
+- L. T. Smith, *Decolonizing Methodologies: Research and Indigenous Peoples* (Zed Books, 1999).
+- Royal Society Te Apārangi، بيان جائزة Rutherford Medal 2023 لتوهيواي سميث.

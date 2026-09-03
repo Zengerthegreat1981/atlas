@@ -33,7 +33,7 @@ gaps:
 
 ## موقعها من التيار
 
-عضو مؤسس ورئيسة مشاركة سابقة للرابطة الدولية للتحليل النفسي العلائقي (IARPP).
+عضو مؤسس وعضو مجلس استشاري في الرابطة الدولية للتحليل النفسي والعلاج النفسي العلائقي (IARPP)، وشاركت لويس آرون وجيريمي سافران في تأسيس مركز فرنتزي (Ferenczi Center) في The New School.
 
 ## القيد
 تركيزها الأكاديمي على تقاطعات النظرية النسوية، اللسانيات، ونظرية التعقيد.
@@ -41,3 +41,10 @@ gaps:
 ## أهم أعمالها
 
 النوع بوصفه تشكيلاً مرناً (Gender as Soft Assembly, 2005) · أشباح في غرفة العلاج: عن الصدمة العابرة للأجيال (Ghosts in the Consulting Room, 2016، تحرير مع مارغري كالب وسوزان كليبانوف) · تحرير «سلسلة المنظورات العلائقية» في التحليل النفسي، وهي القناة التي نُشر فيها معظم أدبيات التيار العلائقي.
+
+## المصادر
+
+- Adrienne Harris, *Gender as Soft Assembly* (Hillsdale, NJ: The Analytic Press, 2005). Routledge: https://www.routledge.com/Gender-as-Soft-Assembly/Harris/p/book/9780881634983
+- Adrienne Harris, Margery Kalb, Susan Klebanoff (eds.), *Ghosts in the Consulting Room: Echoes of Trauma in Psychoanalysis* (Routledge, 2016). https://www.routledge.com/Ghosts-in-the-Consulting-Room-Echoes-of-Trauma-in-Psychoanalysis/Harris-Kalb-Klebanoff/p/book/9780415728676
+- سيرتها الرسمية، NYU Postdoctoral Program in Psychotherapy and Psychoanalysis؛ ملف Confer Online: https://www.confer.uk.com/biogs/biog_aharris.html
+- IARPP, صفحة "من نحن" وأعضاء المجلس الاستشاري: https://iarpp.net/who-we-are/committee-members/

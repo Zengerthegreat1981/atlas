@@ -6,7 +6,7 @@ level: "متقدم"
 title: "فيليب برومبرغ"
 en: "Philip Bromberg"
 crumb: "مدرسة التحليل النفسي ← الناس ← فيليب برومبرغ"
-dates: "أمريكا · 1935–2020"
+dates: "أمريكا · 1931–2020"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
@@ -21,11 +21,13 @@ related:
 gaps:
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
   - "مفهوما 'تعدد حالات الذات' (Multiplicity of Self-States) و'الوقوف في المسافات البينية' (Standing in the Spaces) يستحقان توثيقاً."
+  - "تم تصحيح تاريخ الميلاد من 1935 إلى 1931 (توفي 18 مايو 2020 عن عمر 89 عاماً) بناءً على مقال تأبيني في International Journal of Psychoanalysis (Routledge/Taylor & Francis) وموقع ISSTD."
+  - "لقبه الدقيق في معهد ويليام ألانسون وايت هو 'محلّل تدريبي وإشرافي وعضو هيئة تدريس' (Training and Supervising Analyst and Faculty)؛ لم يُعثر على مصدر مستقل يصفه حرفياً بـ'مدير التدريب'، فأُعيدت صياغة الوصف تبعاً لذلك."
 ---
 
 # فيليب برومبرغ
 
-محلل نفسي وعالم نفس إكلينيكي أمريكي بارز، مدير التدريب في معهد ويليام ألانسون وايت، رائد نظرية «تعدد حالات الذات والانفصال الطبيعي والصدمي».
+محلل نفسي وعالم نفس إكلينيكي أمريكي بارز، محلّل تدريبي وإشرافي وعضو هيئة تدريس في معهد ويليام ألانسون وايت، وأستاذ سريري مساعد في برنامج ما بعد الدكتوراه بجامعة نيويورك، رائد نظرية «تعدد حالات الذات والانفصال الطبيعي والصدمي».
 
 ## ما أعطاه
 
@@ -41,3 +43,8 @@ gaps:
 ## أهم أعماله
 
 الوقوف في المسافات البينية: مقالات في التحليل النفسي والتفكك (Standing in the Spaces, 1998) · إيقاظ الحالم (Awakening the Dreamer, 2006) · ظلّ التسونامي (The Shadow of the Tsunami, 2011).
+
+## المصادر
+
+- "Philip M. Bromberg (1931–2020). Trauma, dissociation, and the multiple self", *International Journal of Psychoanalysis* / Taylor & Francis: https://www.tandfonline.com/doi/full/10.1080/00207578.2020.1821962
+- "Philip M. Bromberg, PhD 1931-2020", ISSTD News: https://news.isst-d.org/philip-m-bromberg-phd-1931-2020/
