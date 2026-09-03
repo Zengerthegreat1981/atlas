@@ -42,3 +42,9 @@ gaps:
 - *Auch eine Philosophie der Geschichte* (1774).
 - *Volkslieder* (الأغاني الشعبية، 1778–79).
 - *Ideen zur Philosophie der Geschichte der Menschheit* (أفكار في فلسفة تاريخ الإنسانية، 1784–91).
+
+## المصادر
+
+- Zammito, J., Menges, K., & Menze, C. (2010). "Johann Gottfried von Herder". *Stanford Encyclopedia of Philosophy*.
+- Berlin, I. (1976). *Vico and Herder: Two Studies in the History of Ideas*. Hogarth Press.
+- Herder, J. G. (1772). *Abhandlung über den Ursprung der Sprache*. (فاز بجائزة أكاديمية برلين للعلوم عام 1771).

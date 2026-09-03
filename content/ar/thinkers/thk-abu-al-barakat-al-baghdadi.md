@@ -41,3 +41,11 @@ gaps:
 - *المعتبر في الحكمة* (ثلاثة أجزاء: المنطق، والطبيعيات، والإلهيات).
 - *رسالة في العقل*.
 - *مقالة في سبب ظهور الكواكب ليلاً وخفائها نهاراً*.
+
+## المصادر
+
+- "Abu'l-Barakāt al-Baghdādī" — Encyclopædia Britannica: https://www.britannica.com/biography/Abul-Barakat-al-Baghdadi
+- "Abu 'l-Barakat al-Baghdadi: Outline of a Non-Aristotelian Natural Philosophy" — Muslim Heritage: https://muslimheritage.com/abu-l-barakat-al-baghdadi-aristotelian-philosophy/
+- "al-Baghdadi, Abu 'l-Barakat" — Routledge Encyclopedia of Philosophy: https://www.muslimphilosophy.com/ip/rep/J008.htm
+- "Hibat Allah Abu al-Barakat b. 'Ali b. Malka (Malkan) al-Baladi" — Jewish Encyclopedia: https://www.jewishencyclopedia.com/articles/7679-hibat-allah-abu-al-barakat-b-ali-b-malka-malkan-al-baladi
+- Ibn Malka al-Baghdadi — Wikipedia: https://en.wikipedia.org/wiki/Abu'l-Barak%C4%81t_al-Baghd%C4%81d%C4%AB

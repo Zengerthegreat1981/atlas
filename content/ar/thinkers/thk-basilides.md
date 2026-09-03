@@ -8,25 +8,26 @@ level: "متقدم"
 title: "باسيليدس (أبو العَلمانيّة)"
 en: "Basilides of Alexandria"
 crumb: "الغنوصية القديمة (بفروعها) ← الناس ← باسيليدس"
-dates: "الإسكندرية (مصر) · نحو 85–165 م"
+dates: "الإسكندرية (مصر) · نحو 85–140 م تقريباً (تاريخ الوفاة غير مؤكَّد)"
 country: "الإسكندرية (مصر الرومانية)"
 language: "اليونانية، ربما القبطية"
-active_start: 115
-active_end: 165
+active_start: 117
+active_end: 138
 edges:
 - rel: "belongs_to", target: "sch-gnosticism", target_type: "مدرسة"
 - rel: "developed", target: "sch-gnosticism", target_type: "مدرسة"
 related:
-- id: "thk-valentinus", title: "فالتينوس", type: "مفكر"
-- id: "sch-gnosticism", title: "الغنوصية القديمة", type: "مدرسة"
-- id: "con-gnosis", title: "الغنوص (المعرفة اللدنية)", type: "مفهوم"
-- id: "con-emanation-islamic", title: "الفيضان الإلهي في الفلسفة الإسلامية", type: "مفهوم"
+- id: "thk-valentinus", title: "فالنتينوس (مؤسس الفالنتينية)", type: "مفكر"
+- id: "sch-gnosticism", title: "الغنوصية القديمة (بفروعها)", type: "مدرسة"
+- id: "con-gnosis", title: "الغنوصية (المعرفة الخلاصية)", type: "مفهوم"
+- id: "con-emanation-islamic", title: "الفيض الإلهي (المشائية الإسلامية)", type: "مفهوم"
 gaps:
   - "أعماله الأصلية (22 تعليقاً على الإنجيل + 25 كتاباً على الفلسفة) ضاعت كاملة، لا نعرفه إلا من خلال خصومه (أوريجانوس، إبيفانيوس)."
   - "تفاصيل حياته في الإسكندرية قبل هيبولايتوس الروماني (230 م) موثّقة جزئياً."
   - "نسبة بعض أطروحاته (الخاصة بـ«الكثافات 365») إلى أصول زرادشتية أو هندية غير محسومة."
   - "ترجمة نصوصه إلى العربية متفرّقة، ضمن كتب الهرطقات العربية."
-  - "تأثيره في «Valencia (Valentinus)» و«Satorninus» (كُتّاب غنوص معاصرين) موثّق جزئياً."
+  - "تأثيره في «Valentinus» و«Satorninus» (كُتّاب غنوص معاصرين) موثّق جزئياً."
+  - "تاريخ الوفاة الدقيق غير معروف؛ المصادر (جيروم وغيره) تشير إلى وفاته في عهد هادريان (117–138 م)، وقد صُحِّح التاريخ في هذا الملف من «165 م» غير المدعوم إلى تقدير أقرب لتوافق المصادر."
 ---
 
 # باسيليدس (أبو العَلمانيّة)
@@ -79,3 +80,11 @@ gaps:
 - **«تفسير على الإنجيل» (Exegetica)**: 22 تعليقاً.
 - **«كتب على الفلسفة» (Books on Philosophy)**: 25 كتاباً.
 - **«ترنيمة باسيليدس (Hymn of Basilides)»**: تُنسب إليه أبيات غنوصية.
+
+## المصادر
+
+- Britannica, "Basilides" — https://www.britannica.com/biography/Basilides
+- New World Encyclopedia, "Basilides" — https://www.newworldencyclopedia.org/entry/Basilides
+- Catholic Encyclopedia (New Advent), "Basilides" — https://www.newadvent.org/cathen/02326a.htm
+- G.R.S. Mead, *Fragments of a Faith Forgotten* — "The Basilidian Gnosis" — http://www.gnosis.org/library/grs-mead/fragments_faith_forgotten/fff40.htm
+- Irenaeus, *Against Heresies* (نحو 180 م)؛ Hippolytus, *Refutation of All Heresies* (نحو 230 م) — كمصدرين أوّليين (غير مباشرين) لعقائد باسيليدس.

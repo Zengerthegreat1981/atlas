@@ -31,11 +31,11 @@ gaps:
 
 ## أهم المؤلفات
 
-- *Achtsamkeitsübungen: Experimente mit dem eigenen Erleben* (Jungfermann, 2009).
+- *Achtsamkeitsübungen: Experimente mit dem eigenen Erleben* (Junfermann, 2009).
 - *Existenzielle Dimensionen der Psychotherapie* (2003).
 - *Achtsamkeit in der Psychotherapie* (2015).
 
 ## المصادر
 
-- Huppertz, M. (2009). *Achtsamkeitsübungen: Experimente mit dem eigenen Erleben*. Jungfermann Verlag.
+- Huppertz, M. (2009). *Achtsamkeitsübungen: Experimente mit dem eigenen Erleben*. Junfermann Verlag.
 - Huppertz, M. (2015). *Achtsamkeit in der Psychotherapie*. Kohlhammer Verlag.

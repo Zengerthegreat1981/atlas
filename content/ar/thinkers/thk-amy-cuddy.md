@@ -15,7 +15,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
-- id: "wrk-presence-cuddy", title: "الحضور", type: "عمل / كتاب"
+- id: "wrk-presence-cuddy", title: "الحضور: كيف تبرز أفضل ما لديك في أصعب التحديات", type: "عمل / كتاب"
 - id: "dbt-psychology-replication-crisis", title: "أزمة تكرار النتائج في علم النفس التجريبي", type: "جدل"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
@@ -52,3 +52,11 @@ gaps:
 - *Power Posing: Brief Nonverbal Displays Affect Neuroendocrine Levels and Risk Tolerance* (2010، مع كارني ويَب).
 - *Universal Dimensions of Social Cognition: Warmth and Competence* (2007، مع فيسك وغليك).
 - *Presence: Bringing Your Boldest Self to Your Biggest Challenges* (2015).
+
+## المصادر
+
+- Wikipedia contributors, "Amy Cuddy," *Wikipedia*: https://en.wikipedia.org/wiki/Amy_Cuddy
+- Slate, "Was Power-Posing Guru Amy Cuddy Shamed by Scientists Because She's a Woman?" (2017): https://slate.com/technology/2017/10/did-power-posing-guru-amy-cuddy-deserve-her-public-shaming.html
+- Ranehill, E. et al., "Assessing the Robustness of Power Posing," *Psychological Science* (2015).
+- Carney, D. R., statement on power posing (2016), أعلنت فيه تراجعها عن الثقة بالأثر الهرموني.
+- Cuddy, A. et al., "P-Curving a More Comprehensive Body of Research on Postural Feedback Reveals Clear Evidential Value," *Psychological Science* (2018).

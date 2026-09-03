@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-vonfranz", title: "ماري-لويز فون فرانز", type: "مفكر"
-- id: "thk-cameier", title: "كارل ألفريد ماير", type: "مفكر"
+- id: "thk-cameier", title: "كارل ألفرد ماير", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Trauern: Phasen und Chancen des psychischen Prozesses* (1982) بترجمة عربية معتمدة."
 ---

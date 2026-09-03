@@ -18,8 +18,8 @@ edges:
 - rel: "belongs_to", target: "sch-ipt", target_type: "مدرسة"
 related:
 - id: "sch-ipt", title: "العلاج بين الأشخاص (IPT)", type: "مدرسة"
-- id: "thk-mweissman", title: "ميرنا فايسمان", type: "مفكر"
-- id: "con-ipt-focus", title: "مشاكل IPT الأربعة", type: "مفهوم"
+- id: "thk-mweissman", title: "ميري وايسمان", type: "مفكر"
+- id: "con-ipt-focus", title: "التركيز على المشكلات الشخصية (IPT)", type: "مفهوم"
 - id: "dis-mdd", title: "الاكتئاب", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: علاج الاكتئاب (sch-depression-treatment)"

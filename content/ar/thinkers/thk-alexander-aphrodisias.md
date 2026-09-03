@@ -7,14 +7,15 @@ level: "متقدم"
 title: "الإسكندر الأفروديسي"
 en: "Alexander of Aphrodisias"
 crumb: "أعلام الفلسفة والفكر ← الإسكندر الأفروديسي"
-dates: "الإمبراطورية الرومانية · 175–215 م"
+dates: "الإمبراطورية الرومانية · ازدهر نحو 200 م (تاريخا ميلاده ووفاته غير معروفَين)"
 country: "الإمبراطورية الرومانية"
 language: "الإغريقية القديمة"
-active_start: 205
-active_end: 215
+active_start: 198
+active_end: 209
 edges:
 - rel: "belongs_to", target: "sch-aristotelianism", target_type: "مدرسة"
 gaps:
+  - "تاريخا ميلاد الإسكندر ووفاته غير معروفَين على وجه الدقة؛ المعروف اليقيني الوحيد هو تعيينه في كرسي فلسفي بين 198 و209 م (فترة حكم سبتيموس سيفيروس وكاراكالّا معاً)، وهو ما استُدلّ منه على فترة نشاطه فقط، لا على تاريخ ميلاده أو وفاته. الأرقام '175–215 م' الواردة سابقاً تقريب غير موثَّق في المصادر الأكاديمية وقد أُزيلت."
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
 ---
@@ -44,3 +45,8 @@ gaps:
 - *في النفس* (رسالة مستقلّة) و*في العقل* (De intellectu).
 - *في القدر* (De fato).
 - *في الخلط والنموّ*، *مسائل وحلول*.
+
+## المصادر
+
+- Sharples, R. W. et al., "Alexander of Aphrodisias," *Stanford Encyclopedia of Philosophy*: https://plato.stanford.edu/entries/alexander-aphrodisias/
+- Wikipedia contributors, "Alexander of Aphrodisias," *Wikipedia*: https://en.wikipedia.org/wiki/Alexander_of_Aphrodisias

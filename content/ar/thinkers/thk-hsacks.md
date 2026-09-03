@@ -17,9 +17,9 @@ active_source: "lifespan"
 crumb: "علم الاجتماع ← الإثنوميثودولوجيا وتحليل المحادثة ← هارفي ساكس"
 related:
 - id: "thk-schutz", title: "ألفريد شوتز", type: "مفكر"
-- id: "con-lifeworld", title: "عالم الحياة", type: "مفهوم"
-- id: "con-intersubjectivity", title: "البينذاتية", type: "مفهوم"
-- id: "br-social-constructionism", title: "البنائية الاجتماعية", type: "تيار"
+- id: "con-lifeworld", title: "عالم الحياة (Lebenswelt): العالم المعيش قبل الموضوعي", type: "مفهوم"
+- id: "con-intersubjectivity", title: "البين-ذاتية (Intersubjectivity)", type: "مفهوم"
+- id: "br-social-constructionism", title: "العلاج النفسي والبنائية الاجتماعية", type: "تيار"
 gaps:
   - "المدرسة الحاضنة المقترحة `sch-conversation-analysis` (تحليل المحادثة) لم تُكتب بعد — المهمة 5.7 في SOCIOLOGY_PART_PLAN.md. لم يُضَف `belongs_to` إليها حتى تُنشأ، حفاظاً على قاعدة «صفر روابط معلَّقة» في المحتوى المعتمد."
   - "لا يوجد ملف لهارولد غارفينكل (`thk-garfinkel`) ولا لإرفنغ غوفمان (`thk-goffman`) — وهما أستاذا ساكس المباشران. موقعه الفكري غير مفهوم بلا الاثنين (المهمتان 5.5–5.6 و2.8–2.11)."
@@ -66,3 +66,11 @@ gaps:
 - «فعل أن تكون عاديّاً» — *On Doing "Being Ordinary"* (محاضرة، نُشرت بعد وفاته عام 1984 ضمن *Structures of Social Action*).
 - «تنظيم التفضيل الذاتي في تسلسلات التصحيح» — *The Preference for Self-Correction in the Organization of Repair in Conversation* (مع شيغلوف وجيفرسون، *Language*، نُشر بعد وفاته عام 1977).
 - *Lectures on Conversation* (محاضرات في المحادثة، مجلّدان، حرّرتهما غيل جيفرسون، نُشر بعد وفاته عام 1992 — بسبعة عشر عاماً بعد رحيله).
+
+## المصادر
+
+- Harvey Sacks — Wikipedia: https://en.wikipedia.org/wiki/Harvey_Sacks
+- Sacks, Harvey (1935–1975), Major Reference Works, Wiley Online Library: https://onlinelibrary.wiley.com/doi/abs/10.1002/9781405165518.wbeoss001
+- "Guest Blog: Where did 'The baby cried…' come from?", ROLSI blog: https://rolsi.net/2024/11/12/guest-blog-where-did-the-baby-cried-come-from/
+- Schegloff, E. A., "A Tutorial on Membership Categorization": https://dl1.cuni.cz/pluginfile.php/635988/mod_resource/content/3/Schegloff(2007)_TutorialMCA.pdf
+- Sacks, H., Schegloff, E. A., & Jefferson, G. (1974), "A Simplest Systematics for the Organization of Turn-Taking for Conversation", *Language* 50(4).

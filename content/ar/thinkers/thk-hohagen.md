@@ -6,7 +6,7 @@ level: "متقدم"
 title: "فريتز هوهاغن"
 en: "Fritz Hohagen"
 crumb: "العلاج المعرفي السلوكي ← الناس ← فريتز هوهاغن"
-dates: "ألمانيا · [DRAFT-UNKNOWN]–"
+dates: "مانهايم، ألمانيا · وُلد 19 يناير 1954"
 country: "ألمانيا"
 language: "الألمانية"
 active_start: 1994
@@ -17,9 +17,9 @@ edges:
 related: []
 gaps:
   - "الاسم الأول الصحيح الموثّق هو 'فريتز' (Fritz) لا 'فريدريش' — النسخة السابقة من الملف كانت تحمل اسماً خاطئاً؛ صُحِّح هنا."
-  - "سنة الميلاد: لم يُعثر عليها في المصادر المتاحة."
+  - "سنة ومكان الميلاد (19 يناير 1954، مانهايم) وردا في World Biographical Encyclopedia (Prabook)؛ مصدر ثانوي جامِع للسير — يُفضَّل تأكيده من سيرة رسمية أولية إن وُجدت."
   - "مصطلح 'العلاج البرنامجاتي' (Programmatic Therapy) وشراكة العمل مع 'بيليندا بوسل' الواردان في النسخة السابقة من الملف لم يُعثر لهما على أي مصدر أثناء البحث — حُذفا لعدم القدرة على التوثيق، ولا يُفترض صحتهما."
-  - "تاريخ التعيين أستاذاً وقائمة مؤلفاته الكاملة: غير مدرجين هنا، تحتاجان مراجعة من سيرته الرسمية بجامعة لوبيك."
+  - "عُيِّن أستاذاً ومديراً لعيادة الطب النفسي بجامعة لوبيك عام 1999 بعد الحصول على الأهلية العلمية (Habilitation) في فرايبورغ عام 1995؛ قائمة مؤلفاته الكاملة (347 منشوراً وفق ResearchGate) غير مدرجة هنا بالتفصيل."
   - "لم يُعثر على اقتباس منسوب له بنص وسنة محددين."
 ---
 
@@ -39,4 +39,8 @@ gaps:
 المعلومات المتاحة عنه بالعربية والإنجليزية محدودة بمقالات بحثية متفرقة وصفحات مؤسسية، دون سيرة موسعة موثقة.
 
 ## المصادر
-Hohagen, F., Lis, S., Krieger, S., Winkelmann, G., Riemann, D., Fritsch-Montero, R., Rey, E., Aldenhoff, J., & Berger, M. (1994). Sleep EEG of patients with obsessive-compulsive disorder. *European Archives of Psychiatry and Clinical Neuroscience*, 243(5), 273–278.
+- Hohagen, F., Lis, S., Krieger, S., Winkelmann, G., Riemann, D., Fritsch-Montero, R., Rey, E., Aldenhoff, J., & Berger, M. (1994). Sleep EEG of patients with obsessive-compulsive disorder. *European Archives of Psychiatry and Clinical Neuroscience*, 243(5), 273–278.
+- "Prof. Dr. Fritz Hohagen, Emeritus", Universitätsklinikum Schleswig-Holstein (UKSH): https://www.uksh.de/Das+UKSH/Selbstverst%C3%A4ndnis+_+Geschichte/Codex+%E2%80%93+Unser+Selbstverst%C3%A4ndnis/Unsere+Krankenversorgung/Prof_+Dr_+Fritz+Hohagen_+Emeritus+Zentrum+f%C3%BCr+Integrative+Psychiatrie+gGmbH.html
+- "Fritz Hohagen (born January 19, 1954)", World Biographical Encyclopedia (Prabook): https://prabook.com/web/fritz.hohagen/43121
+- GEPRIS (Deutsche Forschungsgemeinschaft), "Professor Dr. Fritz Hohagen": https://gepris.dfg.de/gepris/person/1352595
+- Fritz Hohagen, ResearchGate profile (University of Lübeck, Klinik für Psychiatrie und Psychotherapie): https://www.researchgate.net/profile/Fritz-Hohagen

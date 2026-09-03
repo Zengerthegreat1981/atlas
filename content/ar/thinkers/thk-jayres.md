@@ -44,3 +44,10 @@ gaps:
 
 - *Sensory Integration and Learning Disorders* (1972).
 - *Sensory Integration and the Child* (1979).
+
+## المصادر
+
+- "Anna Jean Ayres". *Wikipedia* (نسخة محدَّثة).
+- "A. Jean Ayres, PhD". *Child Mind Institute*.
+- "Anna Jean Ayres". *Encyclopædia Britannica*.
+- "100 Influential People in Occupational Therapy: A. Jean Ayres, PhD, OTR". *OT Centennial*.

@@ -44,3 +44,10 @@ gaps:
 ## أهم أعماله
 
 استكشافات في الشخصية (Explorations in Personality, 1938) · اختبار تفهّم الموضوع (TAT، 1943، مع كريستيانا مورغان) · تقييم الرجال (Assessment of Men, 1948).
+
+## المصادر
+
+- Harvard Magazine — "Brief life of psychologist Henry A. Murray" (2014): https://www.harvardmagazine.com/2014/02/henry-a-murray
+- Encyclopedia Britannica — "Henry Murray": https://www.britannica.com/biography/Henry-Murray
+- Wikipedia (EN) — "Henry Murray": https://en.wikipedia.org/wiki/Henry_Murray
+- Harvard Department of Psychology — صفحة السيرة: https://psychology.fas.harvard.edu/people/henry-murray

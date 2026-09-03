@@ -21,6 +21,7 @@ related:
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Psychoanalytic Studies of the Personality* (1952) بترجمة عربية معتمدة."
   - "لم تُراجع طبعة 1952 الأصلية من *Psychoanalytic Studies of the Personality* مباشرة."
+  - "تفصيل «تقاعد طويل» قبل الوفاة في قسم القيد غير مؤكَّد من مصدر مستقل؛ المؤكَّد فقط أنه عاش وعمل في إدنبرة طوال حياته المهنية (عدا الحرب والدراسة بالخارج) وتوفي فيها في 31 ديسمبر 1964 عن عمر 75 عاماً."
 ---
 # رونالد فَيرْبيرن
 
@@ -46,3 +47,10 @@ gaps:
 ## أهم أعماله
 
 دراسات تحليلية في الشخصية (Psychoanalytic Studies of the Personality، 1952).
+
+## المصادر
+
+- Ronald Fairbairn — Wikipedia: https://en.wikipedia.org/wiki/Ronald_Fairbairn
+- "About W. R. D. Fairbairn" — University of Edinburgh, Library & University Collections: https://libraryblogs.is.ed.ac.uk/fairbairn/about-w-r-d-fairbairn/
+- "Ronald Fairbairn" — British Psychoanalytical Society: https://psychoanalysis.org.uk/ronald-fairbairn
+- "Fairbairn, William Ronald Dodds (1889-1964)" — Encyclopedia.com: https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/fairbairn-william-ronald-dodds-1889-1964

@@ -7,8 +7,8 @@ level: "متقدم"
 title: "جان فرانسوا ليوتار"
 en: "Jean-François Lyotard"
 crumb: "أعلام الفلسفة والفكر ← جان فرانسوا ليوتار"
-dates: "باريس (فرنسا) · 1924–1998 م"
-country: "باريس (فرنسا)"
+dates: "فرساي، فرنسا (وُلد) — باريس (تُوفّي) · 1924–1998 م"
+country: "فرنسا"
 language: "الفرنسية"
 active_start: 1954
 active_end: 1998
@@ -16,6 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-postmodernism-philosophical", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
+  - "وُلد ليوتار في فرساي لا في باريس (كما ورد سابقاً)؛ تُوفّي في باريس سنة 1998. صُحّح هذا في حقل dates."
 ---
 
 # جان فرانسوا ليوتار
@@ -44,3 +45,10 @@ gaps:
 ## اقتباسات مختارة
 
 «أعرّف ما بعد الحداثي بأنه عدم التصديق تجاه السرديات الكبرى.» (الوضع ما بعد الحداثي)
+
+## المصادر
+
+- Wikipedia contributors, "Jean-François Lyotard," *Wikipedia*: https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Lyotard
+- Bennington, G. & Ó Maoilearca, J., "Jean François Lyotard," *Stanford Encyclopedia of Philosophy*: https://plato.stanford.edu/entries/lyotard/
+- Britannica, "Jean-François Lyotard": https://www.britannica.com/biography/Jean-Francois-Lyotard
+- Macey, D., "Jean-François Lyotard, 1924–1998," *Radical Philosophy* (1998): https://www.radicalphilosophy.com/obituary/jean-francois-lyotard-1924-1998

@@ -7,8 +7,8 @@ title: "غايتانو بينيديتي"
 en: "Gaetano Benedetti"
 crumb: "المدرسة الوجودية ← الناس ← غايتانو بينيديتي"
 dates: "إيطاليا / سويسرا · 1920–2013"
-active_start: 1975
-active_end: 1980
+active_start: 1956
+active_end: 2000
 country: "إيطاليا / سويسرا"
 language: "الإيطالية / الألمانية"
 part: "philosophy"
@@ -19,8 +19,10 @@ related:
 - id: "thk-boss", title: "ميدارد بوس", type: "مفكر"
 - id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق من *العلاج النفسي للفصام* (1975) بترجمة عربية معتمدة."
+  - "لا يوجد اقتباس مباشر موثوق من *العلاج النفسي للفصام* بترجمة عربية معتمدة."
   - "أعماله الرائدة في العلاج النفسي الفينومينولوجي لمرضى الفصام تحتاج إلى ترجمة ودراسة أعمق بالعربية."
+  - "العنوان الألماني الدقيق لعمل 1975 غير مؤكَّد حرفياً بصيغة «Psychotherapie der Schizophrenie» في المصادر التي رجعنا إليها (الأقرب المؤكَّد توثيقاً هو Klinische Psychotherapie، 1980، دار Hans Huber)؛ يُنصَح بمراجعة ببليوغرافيا ويكيبيديا الألمانية للتأكد من العنوان والسنة الدقيقين لعمل 1975."
+  - "active_start/active_end صُحِّحا من «1975–1980» (فترة نشر كتابين فقط) إلى «1956–2000» لتعكس مسيرته الفعلية (تعيينه أستاذاً مشاركاً في بازل 1956 حتى وفاته 2013، مع نشاطات علمية موثقة حتى 2000 على الأقل)؛ لا يزال هذا تقريباً لا تأريخاً دقيقاً لكامل نشاطه حتى وفاته."
 ---
 
 # غايتانو بينيديتي
@@ -40,4 +42,12 @@ gaps:
 
 ## أهم أعماله
 
-العلاج النفسي للفصام (Psychotherapie der Schizophrenie, 1975) · العلاج النفسي الإكلينيكي (Klinische Psychotherapie, 1980).
+العلاج النفسي الإكلينيكي (Klinische Psychotherapie، دار Hans Huber، طبعة 1980) · أعمال أخرى حول العلاج النفسي للذهان والفصام (منها ما تُرجم إلى الإنجليزية بعنوان Psychotherapy of Schizophrenia) · Todeslandschaften der Seele (مع Paul Rychner).
+
+## المصادر
+
+- ISPS.org, "Gaetano Benedetti" (Honorary Members) — https://isps.org/honorary/gaetano-benedetti/
+- BIAPSY, "Benedetti, Gaetano" — https://biapsy.de/en/benedetti-gaetano/
+- Tandfonline, "Prof. Dr.med. Gaetano Benedetti (1920–2013), Co-Founder I.S.P.S." — https://www.tandfonline.com/doi/full/10.1080/17522439.2014.881096
+- German Wikipedia, "Gaetano Benedetti" — https://de.wikipedia.org/wiki/Gaetano_Benedetti
+- PubMed, "Interview with Gaetano Benedetti, M.D." — https://pubmed.ncbi.nlm.nih.gov/12722889/

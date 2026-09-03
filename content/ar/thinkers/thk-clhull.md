@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
 - id: "thk-ectolman", title: "إدوارد تولمان", type: "مفكر"
-- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 - id: "thk-kspence", title: "ك. و. سبنس", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من «مبادئ السلوك» (Principles of Behavior, 1943) بترجمة عربية معتمدة."
@@ -41,3 +41,13 @@ gaps:
 ## أهم أعماله
 
 مبادئ السلوك (1943) · نسق سلوكي (A Behavior System, 1952) · أوراق في Psychological Review.
+
+## سيرة موجزة
+
+وُلد هال في أكرون بولاية نيويورك عام 1884، ونشأ في ميشيغان، وانتقل من دراسة الهندسة المعدنية إلى علم النفس بعد مرض أصابه. نال الدكتوراه من جامعة ويسكنسن-ماديسون عام 1918، وانتقل لاحقاً إلى جامعة ييل حيث عمل أستاذاً باحثاً حتى وفاته عام 1952 في نيو هيفن. تأثر منهجياً بكتاب نيوتن «المبادئ الرياضية» فسعى إلى بناء نظرية سلوكية على شكل مسلّمات ونظريات قابلة للاختبار التجريبي (المنهج الافتراضي-الاستنباطي).
+
+## المصادر
+
+- Britannica، "Clark L. Hull": https://www.britannica.com/biography/Clark-L-Hull
+- Wikipedia، "Clark L. Hull": https://en.wikipedia.org/wiki/Clark_L._Hull
+- EBSCO Research Starters، "Clark L. Hull": https://www.ebsco.com/research-starters/history/clark-l-hull
