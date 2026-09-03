@@ -43,3 +43,11 @@ gaps:
 ## أهم أعماله
 
 فلسفة مارتن هايدجر (La Philosophie de Martin Heidegger, 1942) · فلسفة الالتباس: قراءة في ميرلوبونتي (Une philosophie de l'ambiguïté, 1951) · الفصام: دراسة فينومينولوجية وتحليلية (La Psychose, 1972).
+
+## المصادر
+
+- [Alphonse De Waelhens — Wikipédia (بالفرنسية)](https://fr.wikipedia.org/wiki/Alphonse_De_Waelhens)
+- [De Waelhens, Alphonse (1911-1981) — Persée](https://www.persee.fr/authority/166831)
+- [In memoriam Alphonse De Waelhens — Revue philosophique de Louvain (Persée)](https://www.persee.fr/doc/phlou_0035-3841_1982_num_80_46_6193)
+- [La philosophie de Martin Heidegger — Internet Archive](https://archive.org/details/laphilosophiedem0000wael)
+- [Biographie d'Alphonse De Waelhens — Encyclopédie Universalis](https://www.universalis.fr/encyclopedie/alphonse-de-waelhens/)

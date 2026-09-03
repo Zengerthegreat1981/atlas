@@ -22,11 +22,12 @@ related:
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
+  - "تصحيح: النسخة السابقة سمّت المعهد خطأً 'معهد إريك نويمان للتحليل النفسي اليونغي'؛ الاسم الصحيح هو Israel Institute of Jungian Psychology (IIJP)، وأبراموفيتش هو رئيسه المؤسس الموثَّق (وليس الشخص الوارد في الملف المحجور thk-akelman)."
 ---
 
 # هنري أبراموفيتش
 
-محلّل نفسي إسرائيلي، أستاذ في كلية الطب بجامعة تل أبيب، والرئيس المؤسس لمعهد إريك نويمان للتحليل النفسي اليونغي (Israel Institute of Jungian Psychology).
+محلّل نفسي إسرائيلي، أستاذ في كلية الطب بجامعة تل أبيب (قسم التربية الطبية)، والرئيس المؤسس والمحلّل المدرّب في معهد إسرائيل للتحليل النفسي اليونغي (Israel Institute of Jungian Psychology - IIJP). شغل أيضاً رئاسة الجمعية الأنثروبولوجية الإسرائيلية، وهو من مُيسِّري رابطة اللقاء بين الأديان (Association for Interfaith Encounter)، ويقيم ويمارس في القدس.
 
 ## ما أعطاه
 
@@ -41,4 +42,11 @@ gaps:
 
 ## أهم أعماله
 
-«الإخوة والأخوات: الأسطورة والواقع» (Brothers and Sisters: Myth and Reality) · «العلاج بوصفه فنّاً أدائياً» (Therapy as Performance Art) · «الأحلام عند الحدود» (مجموعة مقالات).
+«الإخوة والأخوات: الأسطورة والواقع» (Brothers and Sisters: Myth and Reality) · «العلاج بوصفه فنّاً أدائياً» (Therapy as Performance Art، قيد الصدور وقت آخر مراجعة للمصادر) · «الأحلام عند الحدود» (مجموعة مقالات).
+
+## المصادر
+
+- [Henry Abramovitch — Tel Aviv University (cris.tau.ac.il)](https://cris.tau.ac.il/en/persons/henry-abramovitch/)
+- [Henry Abramovitch — New York Center for Jungian Studies](https://nyjungcenter.org/presenter/henry-abramovitch/)
+- [Speaking of Jung – Episode 126: Henry Abramovitch](https://speakingofjung.com/podcast/2023/9/28/episode-126-henry-abramovitch)
+- [Henry Abramovitch — Chiron Publications (author page)](https://www.chironpublications.com/product-category/authors/abramovitch-henry/)

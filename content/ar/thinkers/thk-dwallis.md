@@ -10,7 +10,7 @@ dates: "أستراليا/إفريقيا الجنوبية · القرن العش�
 country: "أستراليا"
 language: "الإنجليزية"
 active_start: 1990
-active_end: 2010
+active_end: 2011
 part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-narrative-therapy", target_type: "مدرسة"
@@ -19,8 +19,9 @@ related:
 - id: "tec-narrative-therapy", title: "العلاج السردي", type: "تقنية/تدخل علاجي"
 - id: "sch-narrative-therapy", title: "العلاج السردي (Narrative Therapy)", type: "مدرسة"
 gaps:
-  - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق من *Becoming a Therapist* (2005) بترجمة عربية معتمدة."
+  - "مرشح للحجر (quarantine candidate): لم يُعثر عبر بحث ويب مستقل على أي أثر لشخص باسم «David Wallis» معالج سردي عمل مع الأطفال في أستراليا/إفريقيا الجنوبية/أدنبرة، ولا على كتاب بعنوان *Becoming a Therapist* (2005) منسوب له. الأثر الوحيد الموثَّق باسم Wallis في أدبيات العلاج السردي هو: Wallis, J., Burns, J., & Capdevila, R. (2011), 'What is narrative therapy and what is it not?', *Clinical Psychology & Psychotherapy* — وهي دراسة منهجية (Q methodology) عن تصورات ممارسي العلاج السردي في بريطانيا، لا علاقة موثّقة لها بالعمل مع الأطفال تحديداً ولا بأستراليا/أدنبرة، ولا يتأكد أن الاسم الأول هو David. يُنصح بمراجعة مصدر الإدخال الأصلي أو حجر الملف إن تعذّر التحقق."
+  - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي (ولم يُعثر أصلاً على سيرة ذاتية موثوقة للشخص)."
+  - "لا يوجد اقتباس مباشر موثوق من *Becoming a Therapist* (2005)، ولم يُعثر على أي دليل على وجود هذا الكتاب أصلاً بهذا العنوان لمؤلف بهذا الاسم."
 ---
 
 # ديفيد واليس
@@ -39,5 +40,14 @@ gaps:
 
 ## أهم أعماله
 
-- *Becoming a Therapist* (2005).
-- مقالات في *International Journal of Narrative Therapy and Community Work*.
+- *Becoming a Therapist* (2005) — **تنبيه**: لم يتحقق فريق المراجعة من وجود هذا العمل أصلاً؛ لا أثر له في محركات البحث أو فهارس الناشرين.
+- مقالات في *International Journal of Narrative Therapy and Community Work* — لم يُحدَّد عنوان مقالة بعينها يمكن التحقق منها.
+
+## ملاحظة تحرير (مراجعة توثيقية)
+
+بعد بحث مستقل، لم يُعثر على أي سيرة ذاتية أو صفحة مؤسسية أو منشور أكاديمي مستقل يثبت وجود معالج نفسي باسم "David Wallis" طوّر العلاج السردي مع الأطفال في أستراليا/إفريقيا الجنوبية أو عمل في أدنبرة. الاسم الوحيد المشابه الموثَّق هو الباحث البريطاني J. Wallis (مع Burns وCapdevila)، الذي نشر دراسة منهجية عام 2011 عن تصورات ممارسي العلاج السردي، ولا صلة مؤكدة له بالعمل السردي مع الأطفال أو بالسيرة الواردة في هذا الملف. يوصى بمعاملة هذا الملف كـ"مرشح للحجر" حتى تُراجَع مصادر الإدخال الأصلية.
+
+## المصادر
+
+- Wallis, J., Burns, J., & Capdevila, R. (2011). "What is narrative therapy and what is it not? The usefulness of Q methodology to explore accounts of White and Epston's (1990) approach to narrative therapy." *Clinical Psychology & Psychotherapy*. https://onlinelibrary.wiley.com/doi/10.1002/cpp.723 — (المصدر الوحيد القريب من الاسم؛ لا يؤكد سيرة الملف).
+- بحث ويب مستقل (أيلول 2026) لم يُظهر أي نتيجة لكتاب *Becoming a Therapist* (2005) أو لمعالج باسم David Wallis في سياق العلاج السردي مع الأطفال.

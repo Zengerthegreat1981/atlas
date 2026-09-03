@@ -60,3 +60,9 @@ gaps:
 - *God Has a Dream: A Vision of Hope for Our Time* (2004).
 - *The Book of Forgiving* (مع مافو توتو فان فورث، 2014).
 - *Desmond and the Very Mean Word* (2013) — كتاب أطفال عن Ubuntu.
+
+## المصادر
+
+- [Nobel Prize — Desmond Tutu: Biographical](https://www.nobelprize.org/prizes/peace/1984/tutu/biographical/)
+- [Encyclopaedia Britannica — Desmond Tutu](https://www.britannica.com/biography/Desmond-Tutu)
+- [South African History Online — Archbishop Emeritus Desmond Mpilo Tutu](https://sahistory.org.za/people/archbishop-emeritus-desmond-mpilo-tutu)

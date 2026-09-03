@@ -41,3 +41,9 @@ gaps:
 ## أهم أعماله
 
 الفينومينولوجيا الوجودية النقدية والشك (Existential-Phenomenological Therapy and Radical Uncertainty) · مسرح التمكين في الممارسة العيادية.
+
+## المصادر
+
+- [The Chicago School — Todd DuBose, faculty profile](https://www.thechicagoschool.edu/academics/faculty/byname/todd_dubose/)
+- [Saybrook University — Todd DuBose, faculty profile](https://www.saybrook.edu/faculty/byname/todd_dubose_2/)
+- [The Khora Institute](https://thekhorainstitute.com/)

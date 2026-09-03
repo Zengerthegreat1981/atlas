@@ -44,3 +44,9 @@ gaps:
 ## أهم أعماله
 
 الإنسان اللاعقلاني: دراسة في الفلسفة الوجودية (Irrational Man: A Study in Existential Philosophy, 1958) · وهم التقنية (The Illusion of Technique, 1978) · موت الروح (Death of the Soul, 1986).
+
+## المصادر
+
+- Wikipedia, "William Barrett (philosopher)": https://en.wikipedia.org/wiki/William_Barrett_(philosopher)
+- Wikipedia, "Irrational Man": https://en.wikipedia.org/wiki/Irrational_Man
+- Project MUSE, review of *Irrational Man: A Study in Existential Philosophy*: https://muse.jhu.edu/article/642721/summary

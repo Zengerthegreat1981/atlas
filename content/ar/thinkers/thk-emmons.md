@@ -17,10 +17,9 @@ edges:
 related:
 - id: "ins-swls", title: "مقياس الرضا عن الحياة لدينر", type: "أداة قياس"
 - id: "que-what-is-gratitude", title: "ما الْاِمْتِنَان؟", type: "سؤال توليدي"
-- id: "thk-mseligman", title: "مارتن سيليجمان", type: "مفكر"
+- id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"
 - id: "crt-critique-of-gratitude-research", title: "نقد بحوث الامتنان: هل «اكتب ثلاثة أشياء تشكر عليها» يغيّر شيئاً؟", type: "نقد خارجي موثَّق"
 gaps:
-  - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من *Thanks! How the New Science of Gratitude Can Make You Happier* (2007) بترجمة عربية معتمدة."
 ---
 
@@ -44,3 +43,10 @@ gaps:
 - "Counting Blessings Versus Burdens" (2003، مع مايكل ماكولوف) — الدراسة المرجعية في الحقل.
 - *Thanks! How the New Science of Gratitude Can Make You Happier* (2007).
 - *The Little Book of Gratitude* (2016).
+
+## المصادر
+
+- "Robert A. Emmons". Wikipedia. https://en.wikipedia.org/wiki/Robert_A._Emmons — (وُلد 12 يونيو 1958؛ دكتوراه 1986 من جامعة إلينوي في أوربانا-شامبين؛ أستاذ في جامعة كاليفورنيا-ديفيس منذ 1988).
+- "Robert Emmons | Psychology". UC Davis Department of Psychology. https://psychology.ucdavis.edu/people/robert-emmons
+- "The Journal of Positive Psychology". Wikipedia. https://en.wikipedia.org/wiki/The_Journal_of_Positive_Psychology — (أسّسها إيمونز عام 2006 وتولّى رئاسة تحريرها).
+- Emmons, R. A., & McCullough, M. E. (2003). "Counting blessings versus burdens: An experimental investigation of gratitude and subjective well-being in daily life." *Journal of Personality and Social Psychology*, 84(2), 377–389.

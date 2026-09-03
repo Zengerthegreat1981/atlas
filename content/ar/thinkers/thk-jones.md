@@ -56,3 +56,10 @@ gaps:
 ## أهم أعماله
 
 حياة سيغموند فرويد وعمله (The Life and Work of Sigmund Freud، ثلاثة مجلّدات، 1953–1957) · هاملت وأوديب (Hamlet and Oedipus، 1949) · مقالات في التحليل النفسي التطبيقي (Essays in Applied Psycho-Analysis) · «الكابوس» (On the Nightmare، 1931) · «عقدة الإله» (The God Complex، 1913).
+
+## المصادر
+
+- [Ernest Jones (psychoanalyst) — Wikipedia](https://en.wikipedia.org/wiki/Ernest_Jones_(psychoanalyst))
+- [Ernest Jones — Britannica](https://www.britannica.com/biography/Ernest-Jones)
+- [Ernest Jones — British Psychoanalytical Society](https://psychoanalysis.org.uk/ernest-jones)
+- [Letters and Lists: Ernest Jones and Anna Freud — Sigmund Freud Museum, Vienna](https://www.freud-museum.at/en/subsites-organized-escape/articles/letters-and-lists-ernest-jones-and-anna-freud)

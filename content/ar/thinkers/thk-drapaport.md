@@ -42,3 +42,9 @@ gaps:
 ## أهم أعماله
 
 بنية النظرية التحليلية (1960)؛ مقالات في «الشرودر» و«التفكير المنظم» (الستينيات من القرن العشرين).
+
+## المصادر
+
+- [David Rapaport — Wikipedia](https://en.wikipedia.org/wiki/David_Rapaport)
+- [David Rapaport Papers — Library of Congress (finding aid PDF)](https://findingaids.loc.gov/exist_collections/ead3pdf/mss/2012/ms012105.pdf)
+- [The Structure of Psychoanalytic Theory: A Systematizing Attempt — PEP-Web](https://pep-web.org/browse/document/paq.030.0110a)

@@ -40,3 +40,9 @@ gaps:
 ## أهم أعماله
 
 «العناية بالأحلام» (Dream Tending, 2011) · «الخيال والطب» (Imagination and Medicine, 2009) · «عمق علم النفس: التأمل في الحقل» (Depth Psychology: Meditation in the Field, 2012).
+
+## المصادر
+
+- Pacifica Graduate Institute, "Stephen Aizenstat" (السيرة الرسمية): https://www.pacifica.edu/faculty/stephen-aizenstat/
+- Dream Tending (الموقع الرسمي)، "Stephen Aizenstat, Ph.D.": https://dreamtending.com/stephen-aizenstat-ph-d/
+- Sounds True, صفحة المؤلف: https://www.soundstrue.com/blogs/authors/stephen-aizenstat

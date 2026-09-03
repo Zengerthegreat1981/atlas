@@ -22,7 +22,7 @@ gaps: []
 
 # روبرت بوسناك
 
-محلل نفسي يونغي هولندي-أمريكي رائد (وُلد عام 1948)، تخرج من معهد سي. جي. يونغ في زيورخ عام 1977، ومبتكر أسلوب «التخيل المتجسد في الأحلام» (Embodied Dream Imagery).
+محلل نفسي يونغي هولندي-أمريكي رائد، وُلد عام 1948 في روتردام بهولندا. تدرّب في معهد سي. جي. يونغ في زيورخ بين عامي 1971 و1977، حيث عمل تحليلياً مع أنييلا يافيه (Aniela Jaffé)، أقرب معاونات يونغ ومحرّرة/شريكة تأليف كتابه *ذكريات، أحلام، تأملات*. طوّر منذ عام 1972 أسلوب «التخيل المتجسد» (Embodied Imagination®) في العمل مع الأحلام.
 
 ## التخيل المتجسد والعمل السريري مع الأحلام
 
@@ -38,4 +38,7 @@ gaps: []
 
 - Bosnak, R. (2007). *Embodied Imagination: The Recovery of the Body in Dreams, Health and Creative Imagination*. Routledge.
 - Bosnak, R. (1988). *A Little Course in Dreams*. Shambhala Publications.
+- Bosnak, R. (1996). *Tracks in the Wilderness of Dreaming: Exploring Interior Landscape Through Practical Dreamwork*. Delacorte Press.
+- "Embodied imagination". Wikipedia. https://en.wikipedia.org/wiki/Embodied_imagination
+- "Robert Bosnak - Jungian Psychoanalyst & Teacher". Jung Platform. https://jungplatform.com/teacher/robert-bosnak
 - Hillman, J. (1979). *The Dream and the Underworld*. Harper & Row.

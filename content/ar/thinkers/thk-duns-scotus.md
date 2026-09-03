@@ -50,3 +50,9 @@ gaps:
 - Quaestiones Quodlibetales
 - De Anima
 - Theoremata
+
+## المصادر
+
+- [New Advent, Catholic Encyclopedia — Blessed John Duns Scotus](https://www.newadvent.org/cathen/05194a.htm)
+- [Vatican — General Audience of 7 July 2010: John Duns Scotus (Benedict XVI)](https://www.vatican.va/content/benedict-xvi/en/audiences/2010/documents/hf_ben-xvi_aud_20100707.html)
+- [Encyclopedia.com — Duns Scotus, John, Bl.](https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/duns-scotus-john-bl)

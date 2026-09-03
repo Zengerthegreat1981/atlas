@@ -40,4 +40,11 @@ gaps:
 
 ## أهم أعمالها
 
-«التحليل النفسي: تطوّره ونموّه» (Psychoanalysis: Evolution and Development, 1950) · «التحليل النفسي البيني-الشخصي» (Interpersonal Psychoanalysis: Selected Papers، نُشر بعد وفاتها عام 1964) · مساهمات في *Psychiatry*.
+«التحليل النفسي: تطوّره ونموّه» (Psychoanalysis: Evolution and Development, 1950) · «التحليل النفسي البيني-الشخصي: مختارات من مقالات كلارا م. تومسون» (Interpersonal Psychoanalysis: The Selected Papers of Clara M. Thompson، نُشر بعد وفاتها عام 1964، حرّره Maurice R. Green) · مساهمات في مجلة *Psychiatry*.
+
+## المصادر
+
+- [Clara Thompson — Wikipedia](https://en.wikipedia.org/wiki/Clara_Thompson)
+- [Thompson, Clara M. (1893-1958) | Encyclopedia.com](https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/thompson-clara-m-1893-1958)
+- [William Alanson White Institute — Wikipedia](https://en.wikipedia.org/wiki/William_Alanson_White_Institute)
+- [Interpersonal Psychoanalysis: The Selected Papers of Clara M. Thompson — Google Books](https://books.google.com/books/about/Interpersonal_Psychoanalysis.html?id=97ZrAAAAMAAJ)

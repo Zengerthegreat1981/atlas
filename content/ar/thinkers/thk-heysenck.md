@@ -11,7 +11,7 @@ country: "المملكة المتحدة"
 language: "الإنجليزية / الألمانية"
 part: "psychology"
 active_start: null
-active_end: 1997
+active_end: 2025
 edges:
 - rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
@@ -39,10 +39,18 @@ gaps:
 ## القيد
 ملفّ آيسنك أثقل من إسهامه. دافع في *Race, Intelligence and Education* (1971) عن أن الفارق بين الجماعات العرقية في درجات الذكاء وراثيّ في جزء منه، فأثار عاصفة استمرّت عقوداً.
 
-لكن الأخطر جاء بعد وفاته: أعمالُه المشتركة مع رونالد غروسارت-ماتيتشيك، التي زعمت أن «الشخصية المعرَّضة للسرطان» تتنبّأ بالإصابة أقوى من التدخين نفسه — وقد موّلت صناعة التبغ جزءاً منها — خضعت لمراجعة رسمية في كينغز كوليدج لندن بعد وفاته عام 2019، فصنّفت **٢٦ ورقة** بأنها «غير آمنة» وسُحبت، وأُدرجت ٧١ أخرى تحت تحذير. وهي من أكبر قضايا نزاهة البحث في تاريخ علم النفس.
+لكن الأخطر جاء بعد وفاته: أعمالُه المشتركة مع رونالد غروسارت-ماتيتشيك، التي زعمت أن «الشخصية المعرَّضة للسرطان» تتنبّأ بالإصابة أقوى من التدخين نفسه — وقد موّلت صناعة التبغ جزءاً منها — خضعت لتحقيق رسمي في كينغز كوليدج لندن (لجنة مستقلة، تقرير 2019)، فوجدت **٢٦ ورقة** «غير آمنة» وأوصت بسحبها. بحلول فبراير 2020 كانت المجلات قد سحبت منها 13 ورقة فعلياً وأدرجت 61 أخرى تحت «تنويه مخاوف» (Expressions of Concern) بدل السحب الكامل، وهو ما انتقده باحثون (منهم ديفيد ماركس وسيرته الذاتية لآيزنك روديريك بوكانان) بوصفه غير كافٍ إذ يقدّرون عدد المنشورات «غير الآمنة» الفعلي بما يتجاوز 87 بل قد يصل إلى نحو 148 ورقة عبر مسيرته. حدّثت كينغز كوليدج بيانها في أكتوبر 2025 مقرّةً بأن حجم المشكلة قد يكون أوسع مما أُعلن أصلاً. وهي من أكبر قضايا نزاهة البحث في تاريخ علم النفس.
 
 وابنه مايكل آيسنك عالم نفس معرفي معروف، لكنه عمل في خطّ مستقلّ لا امتداداً لمشروع أبيه.
 
 ## أهم أعماله
 
 «آثار العلاج النفسي: تقويم» (1952) · استخدامات علم النفس وإساءة استخدامه (Uses and Abuses of Psychology, 1953) · بنية الشخصية الإنسانية (The Structure of Human Personality, 1953) · العلاج السلوكي والعُصاب (Behaviour Therapy and the Neuroses, 1960، تحرير) · الأساس البيولوجي للشخصية (The Biological Basis of Personality, 1967).
+
+## المصادر
+
+- King's College London, "Update October 2025: King's College London enquiry into publications authored by Professor Hans Eysenck with Professor Ronald Grossarth-Maticek": https://www.kcl.ac.uk/news/statements/hans-eysenck
+- Retraction Watch, "Journals retract 13 papers by Hans Eysenck, flag 61, some 60 years old" (2020): https://retractionwatch.com/2020/02/12/journals-retract-three-papers-by-hans-eysenck-flag-18-some-60-years-old
+- Retraction Watch, "Number of 'unsafe' publications by psychologist Hans Eysenck could be 'high and far reaching'" (2025): https://retractionwatch.com/2025/12/03/number-of-unsafe-publications-by-psychologist-hans-eysenck-could-be-high-and-far-reaching/
+- Marks, D.F. & Buchanan, R.D., "King's College London's enquiry into Hans J Eysenck's 'Unsafe' publications must be properly completed", Journal of Health Psychology (2020): https://journals.sagepub.com/doi/10.1177/1359105319887791
+- Craig, R., Pelosi, A., Tourish, D., "Research misconduct complaints and institutional logics: The case of Hans Eysenck and the British Psychological Society", Journal of Health Psychology (2021): https://doi.org/10.1177/1359105320963542

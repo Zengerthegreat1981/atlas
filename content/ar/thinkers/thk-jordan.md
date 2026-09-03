@@ -20,7 +20,7 @@ related:
 - id: "con-mutual-empathy", title: "التمكين والتعاطف المتبادل (Mutual Empathy)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Women's Growth in Connection* (1991) بترجمة عربية معتمدة."
-  - "تاريخ الميلاد الدقيق (1943) تقريبي ولم يُراجع من مصدر أولي."
+  - "تاريخ الميلاد الدقيق (1943) لم يُعثر له على تأكيد في أي مصدر أولي أو موسوعي مستقل أثناء المراجعة (لا صفحة ويكيبيديا مخصّصة لها)؛ يبقى تقريبياً وغير موثَّق حتى تأكيده."
   - "التفاصيل الكاملة لقائمة أعمالها لم تُراجع من مصدر أولي."
 ---
 
@@ -56,3 +56,10 @@ gaps:
 وأثقل ما يُوجَّه إلى النظرية العلائقية-الثقافية عموماً اعتراضان. الأول أنها **فقيرة الأدلّة الكمّية**: مفاهيمها المركزية (التعاطف المتبادل، والأشياء الخمسة) وُلدت من الملاحظة السريرية والمناقشة الجماعية في مركز ستون، ومقاييسها المقنَّنة قليلة وحديثة، وليس لها من التجارب المضبوطة ما لغيرها من النماذج.
 
 والثاني أن صياغاتها الأولى — بما فيها صياغات ميلر — بُنيت على مقابلةٍ بين «نموٍّ ذكوري نحو الاستقلال» و«نموٍّ أنثوي نحو الاتصال»، وهي مقابلة تُعيد إنتاج التنميط الجندري الذي جاءت لنقضه، وتفترض تجربةً نسائية واحدة عابرة للطبقة والعرق. وقد استجابت المدرسة لهذا النقد لاحقاً — وكتاب *The Complexity of Connection* (2004) مع مورين ووكر وليندا هارتلينغ هو محلّ تلك الاستجابة، إذ أدخل العرق والطبقة والقوة في صلب النموذج بدل أن يكونوا سياقاً له.
+
+## المصادر
+
+- [Judith V. Jordan, Ph.D. — Wellesley Centers for Women](https://www.wcwonline.org/JBMTI-Site/Founding-Scholars/judith-v-jordan)
+- [Relational–Cultural Theory: The Power of Connection to Transform Our Lives — Jordan (2017), Journal of Humanistic Counseling](https://onlinelibrary.wiley.com/doi/abs/10.1002/johc.12055)
+- [Relational-Cultural Theory (كتاب Jordan، سلسلة APA Theories of Psychotherapy)](https://www.amazon.com/Relational-Cultural-Therapy-Theories-Psychotherapy-Judith/dp/1433804638)
+- [Relational-Cultural Theory — Beyond Intractability](https://www.beyondintractability.org/essay/relational-cultural-theory)

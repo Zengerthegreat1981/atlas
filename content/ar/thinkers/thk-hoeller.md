@@ -41,3 +41,11 @@ gaps:
 ## أهم أعماله
 
 هايدجر وعلم النفس (Heidegger and Psychology, 1988) · سارتر وعلم النفس الوجودي (Sartre and Psychology, 1993) · تحرير مجلة REPP.
+
+## المصادر
+
+- Amazon, *Heidegger and Psychology* (Studies in Existential Psychology & Psychiatry), ed. Keith Hoeller, 1988: https://www.amazon.com/Heidegger-Psychology-Studies-Existential-Psychiatry/dp/0914857002
+- Internet Archive, *Sartre and Psychology* (Review of Existential Psychology & Psychiatry), ed. Keith Hoeller: https://archive.org/details/sartrepsychology0000keit
+- Szasz.com, ملاحظة عن عدد خاص من *Review of Existential Psychology & Psychiatry* بتحرير كيث هولر: http://www.szasz.com/repp.html
+- Mad in America، صفحة مؤلف كيث هولر: https://www.madinamerica.com/author/khoeller/
+- The New Atlantis، صفحة المؤلف كيث هولر: https://www.thenewatlantis.com/authors/keith-hoeller

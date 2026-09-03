@@ -6,7 +6,7 @@ level: "متوسط"
 title: "ليونيل كوربت"
 en: "Lionel Corbett"
 crumb: "التحليل النفسي ← الناس ← ديني-روحي معاصر ← ليونيل كوربت"
-dates: "بريطانيا / أمريكا · [غير مؤكد]"
+dates: "بريطانيا / أمريكا · 1945–2025"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "philosophy"
@@ -18,13 +18,12 @@ related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-edinger", title: "إدوارد إف. إيدينغر", type: "مفكر"
 gaps:
-  - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
   - "لا يوجد اقتباس مباشر من *The Religious Function of the Psyche* (1996) بترجمة عربية معتمدة."
 ---
 
 # ليونيل كوربت
 
-محلّل نفسي وعضو هيئة تدريس في Pacifica Graduate Institute، ومتخصص في الأبعاد الدينية والروحية للتحليل النفسي اليونغي.
+طبيب وطبيب نفسي بريطاني-أمريكي (1945–2025)، تخرّج في كلية الطب بجامعة مانشستر عام 1966، وأصبح رئيساً لقسم الطب النفسي في مستشفى Rush University بشيكاغو، ثم تدرّب محلِّلاً في معهد C. G. Jung في شيكاغو. عمل لأكثر من عقدين أستاذاً لعلم النفس العمقي في Pacifica Graduate Institute، ومتخصصاً في الأبعاد الدينية والروحية للتحليل النفسي اليونغي. توفي في 20 يوليو 2025.
 
 ## ما أعطاه
 
@@ -39,4 +38,11 @@ gaps:
 
 ## أهم أعماله
 
-«الوظيفة الدينية للنفس» (The Religious Function of the Psyche, 1996) · «النفس والمقدّس: الروحانية بعد الدين» (Psyche and the Sacred, 2007) · «المِرجل المقدَّس: العلاج النفسي بوصفه ممارسة روحية» (The Sacred Cauldron, 2011).
+«الوظيفة الدينية للنفس» (The Religious Function of the Psyche, 1996) · «النفس والمقدّس: الروحانية بعد الدين» (Psyche and the Sacred: Spirituality Beyond Religion, 2007) · «المِرجل المقدَّس: العلاج النفسي بوصفه ممارسة روحية» (The Sacred Cauldron: Psychotherapy as a Spiritual Practice, 2011) · «الروح في الكرب» (The Soul in Anguish: Psychotherapeutic Approaches to Suffering) · «فهم الشر: دليل للمعالجين النفسيين» (Understanding Evil: A Psychotherapist's Guide).
+
+## المصادر
+
+- [Lionel Corbett | Pacifica Graduate Institute](https://www.pacifica.edu/faculty/lionel-corbett/)
+- [Lionel Corbett — obituary, Santa Barbara Independent (2025)](https://www.independent.com/obits/2025/08/01/lionel-corbett/)
+- [Lionel Corbett – New York Center for Jungian Studies](https://nyjungcenter.org/scholar/lionel-corbett-md/)
+- [Dr. Lionel Corbett - Chiron Publications](https://www.chironpublications.com/dr-lionel-corbett/)
