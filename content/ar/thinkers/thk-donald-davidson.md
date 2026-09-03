@@ -39,5 +39,13 @@ gaps:
 
 - *Actions, Reasons, and Causes* (1963).
 - *Mental Events* (1970) — نصّ الأحادية الشاذّة.
+- *On the Very Idea of a Conceptual Scheme* (1974).
 - *Essays on Actions and Events* (1980).
 - *Inquiries into Truth and Interpretation* (1984).
+
+## المصادر
+
+- [Donald Davidson (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/davidson/)
+- [Anomalous Monism (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/anomalous-monism/)
+- [Donald Davidson: Anomalous Monism (Internet Encyclopedia of Philosophy)](https://iep.utm.edu/donald-davidson-anomalous-monism/)
+- [Donald Davidson (philosopher) — Wikipedia](https://en.wikipedia.org/wiki/Donald_Davidson_(philosopher))

@@ -49,3 +49,11 @@ gaps:
 - تحقيق معنى كلمات منسيوس (孟子字义疏证، Mengzi Ziyi Shuzheng)، تفسيره لكتاب "منسيوس".
 - أصل الخير (原善، Yuan Shan)، كتاب فلسفي.
 - شرح موسّع لـ"شرح الحروف" (说文广义赋، Shuowen Guangjian Fu).
+
+## المصادر
+
+- Stanford Encyclopedia of Philosophy, "Dai Zhen": https://plato.stanford.edu/entries/dai-zhen/
+- Internet Encyclopedia of Philosophy, "Dai Zhen (Tai Chen)": https://iep.utm.edu/dai-zhen-tai-chen/
+- Encyclopaedia Britannica, "Dai Zhen": https://www.britannica.com/biography/Dai-Zhen
+- Chinese Text Project, "Mencius: A Clarification of Meaning and Evidence" (孟子字義疏證): https://ctext.org/wiki.pl?if=en&res=829857
+- chinaknowledge.de, "Dai Zhen 戴震": http://www.chinaknowledge.de/History/Qing/personsdaizhen.html

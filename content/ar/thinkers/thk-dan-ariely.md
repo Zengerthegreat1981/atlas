@@ -40,6 +40,7 @@ gaps:
 - **قضية 2021**: تبيّن أن مجموعة البيانات في دراسة **2012 عن توقيع التعهّد الأخلاقي** — وهي من أشهر نتائجه وأوسعها تطبيقاً في السياسات — **مفبركة**: أظهر تحليل مستقلّ (مدوّنة *Data Colada*) آثاراً واضحة للتوليد الآلي. وسُحبت الورقة سنة 2021. وقد أنكر أريلي التلاعب ونسب البيانات إلى شركة التأمين المزوّدة، لكنّ الشركة نفت.
 - **تحقيق جامعة ديوك (2024)**: خلص إلى أنه **لم يجد دليلاً على تزوير أريلي للبيانات بنفسه**، لكنه وجّه إليه لوماً على **إهمال في التحقّق** وعلى بيانات غير دقيقة في دراسات أخرى.
 - **الأثر على قراءة عمله**: النتيجة العملية أن قسماً من أدبياته يحتاج إلى تحقّق مستقلّ، وأن نتائجه **لا تُقرأ بوصفها مستقرّة** بلا مراجعة — وهذا ينطبق بدرجات على حقل الاقتصاد السلوكي كله في ضوء أزمة قابلية التكرار.
+- **اتهام ثانٍ (2026)**: في أواخر أغسطس/بداية سبتمبر 2026 نشرت مدوّنة *Data Colada* تحليلاً جديداً يتّهم أريلي بالتلاعب ببيانات دراسة أخرى — دراسة عن "المواعيد النهائية الاصطناعية" ومقاومة التسويف (منشورة أصلاً سنة 2002) — راصدةً "أعلاماً حمراء" مشابهة لحالة 2012 (تأثيرات كبيرة بشكل غير معقول، بيانات مكرّرة). هذه معلومة مستجدّة (سبتمبر 2026) تستحق متابعة لاحقة إذ لم تُحسم بعد رسمياً (سحب الورقة أو نفيها).
 
 ## موقعه من التيار
 
@@ -52,3 +53,12 @@ gaps:
 - *The (Honest) Truth About Dishonesty* (2012).
 - *Dollars and Sense* (2017).
 - *Misbelief* (2023).
+
+## المصادر
+
+- Retraction Watch, "Highly criticized paper on dishonesty retracted" (2021): https://retractionwatch.com/2021/09/14/highly-criticized-paper-on-dishonesty-retracted
+- BuzzFeed News, "Dan Ariely Retracts Honesty Study Based On Fake Data": https://www.buzzfeednews.com/article/stephaniemlee/dan-ariely-honesty-study-retraction
+- The Chronicle of Higher Education, "Data Sleuths Found Evidence of Fraud in Another Dan Ariely Study. Now It's Being Retracted.": https://www.chronicle.com/article/data-sleuths-found-evidence-of-fraud-in-another-dan-ariely-study-now-its-being-retracted
+- Data Colada, "[138] Artificial Deadlines (Part 1): Evidence of Fraud in an Influential Study About Procrastination": https://datacolada.org/138
+- The Duke Chronicle, "Duke professor Dan Ariely's research article retracted after fraud allegations": https://dukechronicle.com/article/duke-university-professor-dan-ariely-research-article-retracted-after-fraud-allegations-data-colada-tampering-fabrication-falsification-20260903
+- The Duke Chronicle, "'Insane data': Duke professor Dan Ariely accused of additional research fraud": https://dukechronicle.com/article/duke-university-professor-dan-ariely-accused-of-additional-research-fraud-fabrication-tampering-epstein-data-colada-replication-20260902

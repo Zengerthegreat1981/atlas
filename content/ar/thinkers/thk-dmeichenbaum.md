@@ -22,6 +22,7 @@ related:
 - id: "thk-njacobson", title: "نيل س. جاكوبسون", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس منسوب بمصدر وسنة من «تعديل السلوك المعرفي» (1977)."
+  - "صُحِّحت سنة صياغة SIT من 1971 إلى 1977 (تاريخ نشر Cognitive-Behavior Modification: An Integrative Approach)؛ يسبقها مخطوط غير منشور لمايكنباوم وكاميرون بعنوان Stress Inoculation: A Skills Training Approach to Anxiety Management من جامعة واترلو عام 1972."
 ---
 
 # دونالد مايكنباوم
@@ -30,7 +31,7 @@ gaps:
 
 ## ما أعطاه
 
-صاغ SIT (1971) كعلاج سلوكي معرفي للضغط والقلق: «التلقين» (Inoculation) يَتَألَّف من 3 مراحل:
+صاغ SIT (1977، مسبوقاً بمخطوط غير منشور مع كاميرون عام 1972) كعلاج سلوكي معرفي للضغط والقلق: «التلقين» (Inoculation) يَتَألَّف من 3 مراحل:
 1. مرحلة التصوّر (conceptualization) — إعادة فهم الضغط بوصفه عملية طبيعية قابلة للإدارة.
 2. مرحلة اكتساب المهارات (skills acquisition) — تعلُّم تقنيات تأقلُّم (تنفس، استرخاء، إعادة بناء معرفي).
 3. مرحلة التطبيق (application) — مُمارسة في أوضاع افتراضية ثمَّ حقيقية.
@@ -46,4 +47,11 @@ gaps:
 
 ## أهم أعماله
 
-تعديل السلوك المعرفي (1977) · تدريب التلقيح ضدّ الضغط (1985) · CBT للاضطرابات الخطيرة (العقد الأول من القرن الحادي والعشرين).
+تعديل السلوك المعرفي (Cognitive-Behavior Modification: An Integrative Approach، 1977) · تدريب التلقيح ضدّ الضغط (Stress Inoculation Training، 1985) · CBT للاضطرابات الخطيرة (العقد الأول من القرن الحادي والعشرين).
+
+## المصادر
+
+- Donald Meichenbaum — Wikipedia: https://en.wikipedia.org/wiki/Donald_Meichenbaum
+- السيرة الذاتية الرسمية: https://www.donaldmeichenbaum.com/biography
+- Meichenbaum, D., & Deffenbacher, J. L. (1988). "Stress Inoculation Training." *The Counseling Psychologist*, 16(1). https://journals.sagepub.com/doi/10.1177/0011000088161005
+- Meichenbaum, D. (1977). *Cognitive-Behavior Modification: An Integrative Approach*. Plenum Press.

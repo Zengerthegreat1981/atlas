@@ -42,3 +42,10 @@ gaps:
 
 - *Grace Unfolding: Psychotherapy in the Spirit of the Tao-te ching* (1991، مع رون كورتز) — قراءة العلاج النفسي في ضوء «التاو-تي-تشينغ».
 - *Hakomi Mindfulness-Centered Somatic Psychotherapy* (مساهم، 2015).
+
+## المصادر
+
+- [Gregory Johanson — Official site](https://gregjohanson.com/about-gregory-johanson/)
+- [Grace Unfolding — Penguin Random House](https://www.penguinrandomhouse.com/books/87556/grace-unfolding-by-greg-johanson-and-ron-kurtz/)
+- [Hakomi Mindfulness-Centered Somatic Psychotherapy — W. W. Norton, 2015 (Blackwell's listing)](https://blackwells.co.uk/bookshop/product/Hakomi-Mindfulness-Centered-Somatic-Psychotherapy-by-Halko-Weiss-editor-Gregory-J-Johanson-editor-Lorena-Monda-editor/9780393710724)
+- [Hakomi — Wikipedia](https://en.wikipedia.org/wiki/Hakomi)

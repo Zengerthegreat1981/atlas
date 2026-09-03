@@ -17,7 +17,7 @@ related:
 - id: "exp-david-duran-indigenous-soul-wound", title: "تجارب إدواردو دوران مع المحاربين القدامى وعلاج جرح الروح", type: "خبرة معيشة"
 - id: "con-two-eyed-seeing-indigenous", title: "الرؤية بعينين: دمج الحكمة الأصلية بالعلوم المعاصرة", type: "مفهوم"
 - id: "que-intergenerational-healing-rituals", title: "كيف تلتئم الصدمات المتوارثة عبر الأجيال في الثقافات الجمعية؟", type: "سؤال توليدي"
-- id: "tec-indigenous-healing-circles", title: "دوائر الشفاء للشعوب الأصلية", type: "تقنية/تدخل علاجي"
+- id: "tec-indigenous-healing-circles", title: "دوائر الشفاء والطقوس المجتمعية للشعوب الأصلية", type: "تقنية/تدخل علاجي"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
@@ -25,7 +25,7 @@ gaps:
 
 # إدواردو دوران
 
-عالم النفس الإكلينيكي الأمريكي من أصول أصلية، رائد علاج الصدمات التاريخية والشفاء الموجه بثقافة الشعوب الأصلية (Soul Wound).
+عالم النفس الإكلينيكي الأمريكي من أصول أصلية (أباتشي وتيوا)، ومن قدامى المحاربين في حرب فيتنام (خدم في البحرية الأمريكية)، رائد علاج الصدمات التاريخية والشفاء الموجه بثقافة الشعوب الأصلية (Soul Wound). نال دكتوراه من California School of Professional Psychology (CSPP) بعد تسريحه من الخدمة العسكرية.
 
 ## مفهوم جرح الروح (Soul Wound)
 
@@ -38,3 +38,10 @@ gaps:
 ## الأثر في الإرشاد المجتمعي
 
 أسس برامج علاج الإدمان ودوائر الشفاء للمجتمعات الأصلية في أمريكا الشمالية.
+
+## المصادر
+
+- [Native American Postcolonial Psychology — Amazon (بيانات النشر)](https://www.amazon.com/Native-American-Postcolonial-Psychology-Eduardo/dp/0791423549)
+- [Healing the Soul Wound: Counseling with American Indians and Other Native People — Amazon](https://www.amazon.com/Healing-Soul-Wound-Multicultural-Foundations/dp/0807746894)
+- [Transgenerational Trauma, Soul Wounding and Effects on Health — محاضرة دوران، معاهد الصحة الهندية الأمريكية (IHS)](https://www.ihs.gov/sites/diabetes/themes/responsive2017/display_objects/documents/media/transcripts/Duran_transcript_508c.pdf)
+- [نبذة سيرة ذاتية — Zen Mountain Monastery](https://zmm.org/retreat-teachers/2164/eduardo-duran/)

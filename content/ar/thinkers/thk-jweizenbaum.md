@@ -50,3 +50,9 @@ gaps:
 **الأول** أن حجّته **أخلاقية لا تقنية**، فلا تُوقف تقدّماً تقنياً ولا تُترجَم إلى معيار قابل للتطبيق: أين بالضبط ينتهي «القرار» ويبدأ «الاختيار»؟ وقد ردّ عليه من زملائه من قال إن كلّ حكمٍ بشري قابل للتحليل إلى حساب، وإن الحدّ الذي يرسمه لا يقوم على شيء إلا على أنّه يشعر بأنّ ثمّة حدّاً.
 
 **والثاني** أن الاعتراض يتجاهل مسألة **الإتاحة**: حين لا يجد المحتاج معالجاً أصلاً — لطول الانتظار أو لغلاء الكلفة أو لانعدام الخدمة — فالمقارنة الواقعية ليست بين الآلة والمعالج، بل بين الآلة و**لا شيء**. وهذه حجّة قوية عملياً، ولا تُلغي سؤاله عن ما يُطبَّع حين تصير هذه الحال هي القاعدة.
+
+## المصادر
+- Weizenbaum, J. (1966). "ELIZA — A Computer Program for the Study of Natural Language Communication Between Man and Machine." *Communications of the ACM*, 9(1). https://dl.acm.org/doi/10.1145/365153.365168
+- *Computer Power and Human Reason: From Judgment to Calculation* — صفحة الكتاب على ويكيبيديا: https://en.wikipedia.org/wiki/Computer_Power_and_Human_Reason
+- MIT News, obituary: "Joseph Weizenbaum, professor emeritus of computer science, 85" (2008). https://news.mit.edu/2008/obit-weizenbaum-0310
+- Smithsonian Magazine: "Why Joseph Weizenbaum Invented the Eliza Chatbot." https://www.smithsonianmag.com/history/why-the-computer-scientist-behind-the-worlds-first-chatbot-dedicated-his-life-to-publicizing-the-threat-posed-by-ai-180987971/

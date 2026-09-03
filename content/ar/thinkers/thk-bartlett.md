@@ -15,7 +15,7 @@ active_end: 1958
 edges:
 - rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
 related:
-- id: "stu-bartlett-war-of-ghosts", title: "تجارب بارتليت على تذكر قصة 'حرب الأشباح' والذاكرة البنائية", type: "دراسة وبحث"
+- id: "stu-bartlett-war-of-ghosts", title: "تجارب بارتليت حول تذكر قصة 'حرب الأشباح' والذاكرة التخطيطية", type: "دراسة وبحث"
 - id: "con-schema", title: "المخطط المعرفي", type: "مفهوم"
 - id: "con-memory", title: "الذاكرة", type: "مفهوم"
 - id: "stu-ebbinghaus-forgetting-curve", title: "تجارب إبنغهاوس في الحفظ والنسيان ومنحنى الاستبقاء", type: "دراسة وبحث"
@@ -23,6 +23,7 @@ related:
 gaps:
   - "دراسات بارتليت في الأنثروبولوجيا التجريبية في كامبريدج تحتاج ربطاً إضافياً بنظرية الذاكرة الثقافية."
   - "التطبيقات المعاصرة لنظرية المخطط في أبحاث الشهادة العينية والذاكرة الزائفة تتطلب فصلاً مستقلاً."
+  - "تصنيف edges الحالي يربط بارتليت بمدرسة sch-cbt (العلاج المعرفي السلوكي)، وهذا تصنيف غير دقيق: بارتليت عالم نفس تجريبي أكاديمي سبق حركة العلاج المعرفي السلوكي بعقود ولم يشارك في تأسيسها؛ الأصح ربطه بعلم النفس المعرفي (Cognitive Psychology) كحقل بحثي عام، لكن لا يوجد حالياً ملف مدرسة مستقل لهذا الحقل في الأطلس."
 ---
 
 # فريدريك بارتليت
@@ -48,3 +49,9 @@ gaps:
 - *Psychology and Primitive Culture* (1923)
 - *Remembering: An Experimental and Social Study* (1932)
 - *Thinking: An Experimental and Social Study* (1958)
+
+## المصادر
+
+- [Full article: The serial reproduction of an urban myth: revisiting Bartlett's schema theory](https://www.tandfonline.com/doi/full/10.1080/09658211.2022.2059514)
+- [War of the Ghosts — Oxford Reference](https://www.oxfordreference.com/display/10.1093/oi/authority.20110803121021936)
+- [Frederic Bartlett — ResearchGate](https://www.researchgate.net/publication/312027028_Frederic_Bartlett)

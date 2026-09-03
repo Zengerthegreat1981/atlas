@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-stephen-porges", title: "ستيفن بورجِس", type: "مفكر"
 - id: "thk-sjohnson", title: "سو جونسون", type: "مفكر"
-- id: "wrk-attached", title: "المتعلقون", type: "عمل / كتاب"
+- id: "wrk-attached", title: "المتعلقون: العلم الجديد للتعلق بالبالغين وكيف يساعدك في العثور على الحب والحفاظ عليه", type: "عمل / كتاب"
 - id: "con-attachment-styles-popular", title: "أنماط التعلق في العلاقات", type: "مفهوم"
 gaps:
   - "بيانات السيرة الذاتية وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
@@ -52,3 +52,9 @@ gaps:
 ## أهم الأعمال
 
 - *Attached: The New Science of Adult Attachment* (2010، مع رايتشل هيلر).
+
+## المصادر
+
+- [Amir Levine, MD | Columbia University Department of Psychiatry](https://www.columbiapsychiatry.org/profile/amir-levine-md)
+- [Amir Levine, MD | Attached the Book](https://www.attachedthebook.com/wordpress/amir-levine/)
+- [Amir Levine, MD | Author of Attached & Secure](https://amirlevinemd.com/)

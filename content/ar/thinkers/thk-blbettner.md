@@ -19,7 +19,9 @@ related:
 - id: "thk-edferguson", title: "إيفا درايكرز فيرغوسون", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
-  - "لا يوجد اقتباس مباشر موثوق من *تربية الأطفال المهتمين* (1995) بترجمة عربية معتمدة."
+  - "لا يوجد اقتباس مباشر موثوق من *Raising Kids Who Can* بترجمة عربية معتمدة."
+  - "تصحيح: عنوان الكتاب الرئيسي في النسخة السابقة كان مُلفَّقاً («تربية الأطفال المهتمين» / Raising Children Who Care, 1995) ولا وجود له في ببليوغرافيا بيتنر الموثقة؛ العنوان الصحيح هو «تربية أطفال قادرين» (Raising Kids Who Can)، وقد صدرت أول مرة عام 1989 مع Amy Lew ولا علاقة له بسنة 1995 (تحقق 2026-09)."
+  - "شخصية موثقة بمصادر مستقلة (AdlerPedia، سجلات النشر)؛ ليست مرشحة للحجر."
 ---
 
 # بيتي لو بيتنر
@@ -28,7 +30,7 @@ gaps:
 
 ## ما أعطته
 
-اشتغلت مع إيمي ليو (Amy Lew) في صياغة «نموذج الحاجات الأربع» (The Four Crucial Cs) في علم النفس الأدلري: الارتباط (Connect)، والكفاءة (Capable)، وأن يكون للمرء اعتبار (Count)، والشجاعة (Courage). كل طفل يحتاج هذه الاحتياجات الأربعة كي ينمو صحياً، و«السلوك الخاطئ» هو إشارة إلى خلل في أحدها. كتبت «القوة الإبداعية» (The Creative Force) و«تربية الأطفال المهتمين» (Raising Children Who Care, 1995، مع Amy Lew).
+اشتغلت مع إيمي ليو (Amy Lew) في صياغة نموذج «الحروف الحاسمة الأربعة» (The Crucial Cs)، الذي قدّمتاه أول مرة عام 1989 ثم طوّرتاه في سلسلة «تربية أطفال قادرين» (Raising Kids Who Can): الارتباط (Connect)، والكفاءة (Capable)، وأن يكون للمرء اعتبار (Count)، والشجاعة (Courage). كل طفل يحتاج هذه الاحتياجات الأربعة كي ينمو صحياً، و«السلوك الخاطئ» هو إشارة إلى خلل في أحدها. كتبت مع إيمي ليو كتاب «تربية أطفال قادرين» (Raising Kids Who Can, 1989) وكتاب «القوة الإبداعية» (The Creative Force) مع مارسيلا ريان آدامز (Marcella Ryan Adams).
 
 ## موقعها من التيار
 
@@ -39,4 +41,11 @@ gaps:
 
 ## أهم أعمالها
 
-«تربية الأطفال المهتمين» (Raising Children Who Care, 1995) · «القوة الإبداعية» (The Creative Force) · «أطفال يهتمّون» (Kids Who Care, التسعينيات من القرن العشرين).
+«تربية أطفال قادرين» (Raising Kids Who Can, مع Amy Lew) · «القوة الإبداعية» (The Creative Force, مع Marcella Ryan Adams) · «دليل الوالدين لفهم الأطفال وتحفيزهم» (A Parent's Guide to Understanding and Motivating Children، ضمن سلسلة Raising Kids Who Can، مع Amy Lew).
+
+## المصادر
+
+- [Bettner, Betty Lou – AdlerPedia](https://www.adlerpedia.org/resource-cat/people/betty-lou-bettner/)
+- [The Crucial Cs | Betty Lou Bettner](http://bettyloubettner.com/the-crucial-cs/)
+- [Raising Kids Who Can — AbeBooks (بيانات الإصدار)](https://www.abebooks.com/9780962484179/Raising-Kids-Who-Use-Good-0962484172/plp)
+- [The Creative Force — Amazon (بيانات الإصدار، Betty Lou Bettner, Marcella Ryan Adams)](https://www.amazon.com/Creative-Force-Betty-Lou-Bettner/dp/0979226201)

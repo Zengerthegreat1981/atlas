@@ -45,3 +45,10 @@ gaps:
 ## اقتباسات مختارة
 
 «الأيديولوجيا تمثّل العلاقة المتخيَّلة للأفراد بشروط وجودهم الواقعية.» (الأجهزة الأيديولوجية للدولة)
+
+## المصادر
+- Louis Althusser — Wikipedia: https://en.wikipedia.org/wiki/Louis_Althusser
+- Hélène Rytmann — Wikipedia: https://en.wikipedia.org/wiki/H%C3%A9l%C3%A8ne_Rytmann
+- Stanford Encyclopedia of Philosophy، مدخل ألتوسير: https://plato.stanford.edu/entries/althusser/
+- Althusser, L. *L'avenir dure longtemps* (نُشر بعد وفاته، 1992) — سيرته الذاتية التي تناول فيها الحادثة ومرضه النفسي.
+- Voxeurop: "On the femicide of Hélène Rytmann-Legotien: how Louis Althusser killed his wife and 'invented' masculinism." https://voxeurop.eu/en/femicide-helene-rytmann-legotien-louis-althusser-invented-masculinism/

@@ -17,8 +17,8 @@ edges:
 - rel: "belongs_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
 - id: "wrk-build-life-you-want", title: "ابنِ الحياة التي تريدها: فن العلم للسعادة", type: "عمل / كتاب"
-- id: "thk-mseligman", title: "مارتن سليغمان", type: "مفكر"
-- id: "thk-oprah-winfrey", title: "أوپرا وينفري", type: "مفكر"
+- id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"
+- id: "thk-oprah-winfrey", title: "أوبرا وينفري", type: "مفكر"
 gaps:
   - "التطبيقات المؤسسية لنظرية بروكس حول الذكاء المتبلور في قيادة الأعمال تحتاج تحليلاً أوسع."
   - "المصادر الإحصائية التفصيلية لعمود 'How to Build a Life' في The Atlantic تتطلب توثيقاً إضافياً."
@@ -26,7 +26,7 @@ gaps:
 
 # آرثر بروكس
 
-عالم اجتماع ومؤلف أمريكي، أستاذ ممارسة القيادة العامة في كلية كينيدي بجامعة هارفارد وزميل كلية هارفارد للأعمال؛ يُعد من أبرز مقدمي أبحاث السعادة وعلم النفس الإيجابي وتطبيقاتها في الحياة المهنية والشخصية.
+اقتصادي واختصاصي في تحليل السياسات العامة ومؤلف أمريكي، أستاذ ممارسة القيادة غير الربحية والعامة في كلية كينيدي بجامعة هارفارد وأستاذ ممارسة الإدارة في كلية هارفارد للأعمال؛ حاصل على الدكتوراه في تحليل السياسات من كلية RAND للدراسات العليا، وشغل رئاسة معهد American Enterprise Institute لعشر سنوات قبل انتقاله إلى هارفارد عام 2019. يُعد من أبرز مقدمي أبحاث السعادة وعلم النفس الإيجابي وتطبيقاتها في الحياة المهنية والشخصية.
 
 ## ما أعطاه
 
@@ -47,3 +47,9 @@ gaps:
 - *Love Your Enemies: How Decent People Can Save America from the Culture of Contempt* (2019)
 - *From Strength to Strength: Finding Success, Happiness, and Deep Purpose in the Second Half of Life* (2022)
 - *Build the Life You Want: The Art and Science of Getting Happier* (مع أوبرا وينفري، 2023)
+
+## المصادر
+
+- [Arthur C. Brooks — Wikipedia](https://en.wikipedia.org/wiki/Arthur_C._Brooks)
+- [Arthur Brooks | Harvard Kennedy School](https://www.hks.harvard.edu/about/arthur-brooks)
+- [Arthur C. Brooks | Harvard Business School Faculty](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1134664)

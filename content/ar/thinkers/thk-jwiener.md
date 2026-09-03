@@ -48,3 +48,9 @@ gaps:
 ## أهم أعمالها
 
 *The Therapeutic Relationship: Transference, Countertransference, and the Making of Meaning* (2009) · *Supervising and Being Supervised* (2003، تحرير مشترك) · أوراق في *Journal of Analytical Psychology* عن التدريب التحليلي في روسيا وعن الإطار العلاجي.
+
+## المصادر
+- International Association for Analytical Psychology (IAAP), "In the Spotlight – Jan Wiener": https://iaap.org/in-the-spotlight-jan-wiener/
+- "An Interview with Jan Wiener." Conducted by Linda Carter, *Journal of Analytical Psychology* (2024). https://onlinelibrary.wiley.com/doi/10.1111/1468-5922.13032
+- The Society of Analytical Psychology (SAP), London — صفحة التدريب: https://www.thesap.org.uk/training-and-courses/
+- Jan Wiener، صفحة الأعمال على Karnac Books: https://www.karnacbooks.com/author.asp?AID=10882

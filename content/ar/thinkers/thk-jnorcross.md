@@ -48,3 +48,10 @@ gaps:
 ## القيد
 - يُوجَّه إلى أعمال نوركروس نفسها الاعتراض المنهجي الأثقل: أن أدلّة **العلاقة** ارتباطية في أغلبها لا تجريبية. فتلازُم التحالف القوي مع النتيجة الجيدة لا يثبت أن التحالف **سبب** التحسّن — إذ يُحتمل أن المريض الذي بدأ يتحسّن هو الذي يصف تحالفه بالقوّة. وقد أقرّ نوركروس بذلك ودعا إلى تصاميم تجريبية للعلاقة، وهي قليلة وصعبة لأن التلاعب المتعمّد بجودة التحالف غير جائز أخلاقياً.
 - ويُؤخذ على «التفصيل على المريض» أنه سهل القول صعب التطبيق: يفترض في المعالج مرونةً عبر مدارس متعدّدة، والتدريب الفعلي أحاديّ المدرسة في معظم البرامج.
+
+## المصادر
+- السيرة الرسمية والسيرة الذاتية (Vita): [University of Scranton — John C. Norcross](https://www.scranton.edu/faculty/norcross/biographical-sketch.shtml)
+- *Psychotherapy Relationships that Work*, 3rd ed. (مجلدان)، أكسفورد: [Oxford University Press — Vol. 1 (مع لامبرت)](https://global.oup.com/academic/product/psychotherapy-relationships-that-work-9780190843953) و[Vol. 2 (مع وامبولد)](https://global.oup.com/academic/product/psychotherapy-relationships-that-work-9780190843960)
+- *Handbook of Psychotherapy Integration* (مع مارفن غولدفريد)، أكسفورد: [Oxford University Press](https://global.oup.com/academic/product/handbook-of-psychotherapy-integration-9780190690465)
+- سلسلة *Treatments That Work* (David H. Barlow، رئيس تحرير)، أكسفورد: [Oxford University Press — Treatments That Work series](https://global.oup.com/academic/content/series/t/treatments-that-work-ttw/)
+- صفحة ويكيبيديا: [John C. Norcross](https://en.wikipedia.org/wiki/John_C._Norcross)

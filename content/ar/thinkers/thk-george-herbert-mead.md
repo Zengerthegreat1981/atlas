@@ -20,7 +20,7 @@ related:
 - id: "con-pragmatic-encroachment", title: "التداخل البراغماتي في المعرفة (Pragmatic Encroachment)", type: "مفهوم"
 - id: "thk-dewey", title: "جون ديوي", type: "مفكر"
 - id: "thk-peirce", title: "تشارلز ساندرز بيرس", type: "مفكر"
-- id: "thk-james", title: "وليام جيمس", type: "مفكر"
+- id: "thk-james", title: "وليم جيمس", type: "مفكر"
 gaps:
   - "لم يُنشر كتاباً في حياته (توفي قبل أن ينهي 'Mind, Self, and Society'). 'العقل والمجتمع' (1934) حرّره تلاميذه من محاضراته ونسخهم الإملائية."
   - "علاقته بـPierce موضع خلاف (آخِر 'سلوكي' أم 'ظاهراتي'؟)."
@@ -45,7 +45,7 @@ gaps:
 ## موقعه من التيار
 
 - **أحد «الثلاثة» (Peirce, James, Mead) في البراغماتية الكلاسيكية**: لكن، خلافاً لـPeirce وJames، اهتمّ ميد بـ«الذات» (Self) و«المجتمع»، لا «المعنى» (Meaning) و«الحقيقة» (Truth).
-- **مؤسِّس «نظرية التفاعل الرمزي» (Symbolic Interactionism)**: في علم الاجتماع، يُنظر إليه كأب لهذا التيار، مع Herbert Blumer وManfred Kuhn.
+- **مؤسِّس «نظرية التفاعل الرمزي» (Symbolic Interactionism)**: في علم الاجتماع، يُنظر إليه كأب لهذا التيار، الذي صاغ Herbert Blumer اسمه ومدرسة شيكاغو له، بينما طوّر Manford Kuhn (وليس "Manfred") فرعاً كمّياً منافساً يُعرف بـ«مدرسة آيوا».
 - **التأثير على John Dewey**: Dewey اعتمد «مفهوم الذات» عند ميد في «الديمقراطية والتعليم» (Democracy and Education, 1916).
 - **التأثير على Jürgen Habermas**: في «نظرية الفعل التواصلي» الصادرة بعد وفاته 1981، استلهم Habermas «الذات» و«الآخر» عند ميد.
 - **التأثير على اللاهوت التحرري (Liberation Theology)**: مفهوم «الموقف المتعمَّم» (Generalized Other) قُرئ من قبل Gutiérrez وBoff في «الأخلاق الاجتماعية».
@@ -67,3 +67,10 @@ gaps:
 - *The Objective Reality of Perspectives* (الواقع الموضوعي للمنظورات، 1924).
 - *Fragments on Ethics* (شظايا في الأخلاق، ملحق رابع ضمن *Mind, Self, and Society* نُشر بعد وفاته 1934، مبني على ملاحظات طلابه من مساق ألقاه عام 1927، وليس كتاباً مستقلاً نُشر بعد وفاته 1963).
 - *Movements of Thought in the Nineteenth Century* (حركات الفكر في القرن التاسع عشر، نُشر بعد وفاته 1936، محاضرات العشرينيات من القرن العشرين).
+
+## المصادر
+
+- Wikipedia (English): [George Herbert Mead](https://en.wikipedia.org/wiki/George_Herbert_Mead)
+- Wikipedia (English): [Mind, Self and Society](https://en.wikipedia.org/wiki/Mind,_Self_and_Society)
+- University of Chicago Press: [Mind, Self, and Society: The Definitive Edition](https://press.uchicago.edu/ucp/books/book/chicago/M/bo20099389.html)
+- Brock University, The Mead Project: [Mind, Self and Society — Table of Contents](https://brocku.ca/MeadProject/Mead/pubs2/mindself/Mead_1934_toc.html)

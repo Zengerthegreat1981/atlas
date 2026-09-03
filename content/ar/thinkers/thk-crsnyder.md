@@ -15,21 +15,17 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
-- id: "thk-mseligman", title: "مارتن سيليجمان", type: "مفكر"
+- id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"
 - id: "rel-humanistic-positive", title: "الإنسانية وعلم النفس الإيجابي: ابن ينسى أباه", type: "علاقة بين مدرستين"
-- id: "thk-david-feldman", title: "ديفيد فيلدمان", type: "مفكر"
+- id: "thk-david-feldman", title: "ديفيد ب. فيلدمان", type: "مفكر"
 - id: "thk-james-gumpert", title: "جيمس غومپرت", type: "مفكر"
 - id: "thk-jennifer-cheavens", title: "جينيفر تشيڤنز", type: "مفكر"
-- id: "thk-john-friedman", title: "جون فريدمان", type: "مفكر"
 - id: "thk-kevin-sparger", title: "كيفن سپارجر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر من *The Psychology of Hope* (1994) بترجمة عربية معتمدة."
   - "لم تُراجع من نسخة أصلية مباشرة بعد."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ديفيد فيلدمان (thk-david-feldman)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جيمس غومپرت (thk-james-gumpert)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جينيفر تشيڤنز (thk-jennifer-cheavens)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جون فريدمان (thk-john-friedman)."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كيفن سپارجر (thk-kevin-sparger)."
+  - "صُحح عنوان ديفيد فيلدمان إلى «ديفيد ب. فيلدمان» ليطابق حقل title في thk-david-feldman.md (تحقق 2026-09)."
+  - "رابط جون فريدمان (thk-john-friedman) أُزيل من related لأن ملفه لا يزال في المسودات (content/ar/drafts/spark/thinkers/thk-john-friedman.md) وغير متحقَّق منه بعد؛ الروابط الأربعة الأخرى (فيلدمان، غومپرت، تشيڤنز، سپارجر) موجودة فعلياً في content/ar/thinkers/ وأُعيد التحقق منها."
 ---
 
 # تشارلز ريتشارد سنايدر
@@ -54,3 +50,9 @@ gaps:
 - *Handbook of Hope* (2000، مع راند وآخرين).
 - *Positive Psychology* (2005، مع لوبيز).
 - *The Psychology of Hope* (1994).
+
+## المصادر
+
+- [Charles R. Snyder — Wikipedia](https://en.wikipedia.org/wiki/Charles_R._Snyder)
+- [Memoriam: Remembering C. R. Snyder: A Humble Legacy of Hope — Oxford Handbook of Positive Psychology](https://academic.oup.com/edited-volume/28153/chapter/212928489)
+- [Snyder's Hope Theory — MindTools](https://www.mindtools.com/aov3izj/snyders-hope-theory/)

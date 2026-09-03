@@ -5,7 +5,7 @@ type: "مفكر"
 level: "متوسط"
 title: "جانيت أدلر"
 en: "Janet Adler"
-dates: "الولايات المتحدة · وُلدت 1941"
+dates: "الولايات المتحدة · 1941–2023"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980

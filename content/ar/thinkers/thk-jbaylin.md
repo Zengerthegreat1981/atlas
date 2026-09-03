@@ -17,11 +17,10 @@ edges:
 related:
 - id: "thk-sgreys", title: "دانيال هيوز", type: "مفكر"
 - id: "br-ddp", title: "العلاج النفسي النمائي الثنائي (DDP)", type: "تيار"
-- id: "thk-apert", title: "أنا أريتي", type: "مفكر"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من *Brain-Based Parenting* (2012) بترجمة عربية معتمدة."
-  - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: أنا أريتي (thk-apert)."
+  - "أُزيل رابط thk-apert (أنا أريتي/آنا بيرت) لأن ذلك المدخل مَحجورٌ ومفرَّغ منذ 2026-09-03 (انظر agents_specs/quarantine-spark.md)؛ لا علاقة موثّقة بين بايلين وتلك الشخصية أصلاً."
 ---
 
 # جون بايلين
@@ -41,3 +40,8 @@ gaps:
 
 - *Brain-Based Parenting* (مع هيوز، 2012).
 - *The Neurobiology of Attachment-Focused Therapy* (2016).
+
+## المصادر
+- [Brain-Based Parenting — DDP Network](https://ddpnetwork.org/library/brain-based-parenting-neuroscience-caregiving-healthy-attachmen/)
+- [Brain-Based Parenting — W. W. Norton & Company](https://wwnorton.com/books/9780393707281)
+- [Jon Baylin — Early Childhood Webinars (سيرة موجزة)](https://earlychildhoodwebinars.com/presenters/baylin-john)

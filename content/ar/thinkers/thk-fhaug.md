@@ -17,13 +17,12 @@ edges:
 related:
 - id: "thk-iparker", title: "إيان باركر", type: "مفكر"
 gaps:
-  - "تفاصيل نشاطها في جامعة هامبورغ لم تُوثّق بشكل مستقل."
   - "لا يوجد اقتباس مباشر موثوق من *Sexualisierung der Körper* (1983) بترجمة عربية معتمدة."
 ---
 
 # فريغا هاوُغ
 
-عالمة نفس وأستاذة ألمانية، طوّرت **«عمل الذاكرة»** (Erinnerungsarbeit) — منهجاً نسوياً ماركسياً تكتب فيه مجموعة من النساء ذكريات يومية بضمير الغائب، ثم يحلّلنها جماعياً بوصفهن باحثات في مادّتهن هي، فيظهر كيف يُبنى «الطبيعي» من ممارسات مُكتسَبة.
+عالمة اجتماع وفيلسوفة اشتراكية-نسوية ألمانية (وُلدت فريغا لانغنبرغر Langenberger، 28 نوفمبر 1937)، درست علم الاجتماع والفلسفة في الجامعة الحرة ببرلين (تخرّجت 1971، ونالت الدكتوراه في علم الاجتماع وعلم النفس الاجتماعي 1976). عملت أستاذة لعلم الاجتماع في «معهد هامبورغ للاقتصاد والسياسة» (Hochschule für Wirtschaft und Politik Hamburg) حتى تقاعدها عام 2001، وحملت أستاذيات زائرة في كوبنهاغن وإنسبروك وكلاغِنفورت وسيدني وتورونتو ودورهام. طوّرت **«عمل الذاكرة»** (Erinnerungsarbeit) — منهجاً نسوياً ماركسياً تكتب فيه مجموعة من النساء ذكريات يومية بضمير الغائب، ثم يحلّلنها جماعياً بوصفهن باحثات في مادّتهن هي، فيظهر كيف يُبنى «الطبيعي» من ممارسات مُكتسَبة.
 
 ## ما أعطته
 
@@ -42,3 +41,10 @@ gaps:
 - *Erinnerungsarbeit* (1990) — عرض المنهج.
 - *Die Vier-in-einem-Perspektive* (2008).
 - تحرير مجلة *Das Argument* وموسوعة *Historisch-Kritisches Wörterbuch des Marxismus*.
+
+## المصادر
+
+- Wikipedia (English): [Frigga Haug](https://en.wikipedia.org/wiki/Frigga_Haug)
+- Soziopolis, ملف تعريفي: [Profil: Frigga Haug](https://www.soziopolis.de/autoren/profil/frigga-haug.html)
+- Argument Verlag, صفحة المؤلفة: [Frigga Haug](https://argument.de/autoren/frigga-haug/)
+- Verso Books: [Beyond Female Masochism: Memory-Work and Politics](https://www.versobooks.com/products/1376-beyond-female-masochism)

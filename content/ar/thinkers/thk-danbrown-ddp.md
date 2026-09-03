@@ -29,4 +29,11 @@ gaps:
 
 ## أهم أعماله
 
-Attachment Disturbances in Adults: Treatment for Comprehensive Repair (مع David S. Elliott).
+Attachment Disturbances in Adults: Treatment for Comprehensive Repair (مع David S. Elliott)، صدر عام 2016 عن دار W. W. Norton، ونال جائزة بيير جانيه (Pierre Janet Writing Award) من الجمعية الدولية لدراسة الصدمة والانفصام (ISSTD) عام 2018. توفي براون في 4 أبريل 2022 عن عمر 74 عاماً بعد صراع مع مرض باركنسون ثم سرطان القولون.
+
+## المصادر
+
+- صفحة W. W. Norton الرسمية للكتاب: https://wwnorton.com/books/Attachment-Disturbances-in-Adults
+- الموقع الرسمي للدكتور دانيال ب. براون: https://www.drdanielpbrown.com/daniel-brown
+- "Daniel P. Brown (1948-2022)", Journal of Anomalous Experience and Cognition: https://journals.lub.lu.se/jaex/article/view/24353
+- "Memorial to Daniel P. Brown, Ph.D., ABPH", American Journal of Clinical Hypnosis: https://www.tandfonline.com/doi/full/10.1080/00029157.2022.2068302

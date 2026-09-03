@@ -24,10 +24,18 @@ gaps:
 
 # إرنا بلانش
 
-معالجة مهنية أمريكية، من قيادات **Sensory Integration International (SII)** — المؤسسة التي أنشأتها جين أَيرس لنشر نظريتها — وأستاذة في جامعة ساوثرن كاليفورنيا (USC). من أكثر الباحثين تأثيراً في تطوير أدوات التقييم المعتمدة على نظرية التكامل الحسي.
+معالجة مهنية أمريكية، أستاذة إكلينيكية في قسم العلوم الوظيفية والعلاج الوظيفي بجامعة ساوثرن كاليفورنيا (USC Chan Division)، ومن قيادات **Sensory Integration International (SII)** — المؤسسة التي أنشأتها جين أَيرس لنشر نظريتها. تلقّت تدريبها الأول في العلاج الوظيفي في جامعة تشيلي، ثم نالت ماجستير في التربية الخاصة من جامعة كولومبيا، وماجستير في العلاج الوظيفي ودكتوراه في العلوم الوظيفية من USC. من أكثر الباحثين تأثيراً في تطوير أدوات التقييم المعتمدة على نظرية التكامل الحسي، وشريكة مؤسِّسة لعيادة Therapy West في لوس أنجلوس.
 
 ## ما أعطته
 
-- **أدوات تقييم وفرز سلوكي** مبنية على نظرية التكامل الحسي.
-- **تطوير برامج علاجية قائمة على اللعب** للأطفال ذوي SPD.
-- **أبحاث في Tactile Defensiveness** والقلق الحسّي.
+- **أدوات تقييم وفرز سلوكي** مبنية على نظرية التكامل الحسي، منها *Structured Observations of Sensory Integration – Motor* و*Comprehensive Observation of Proprioception* (مؤلفة رئيسية فيهما).
+- **تطوير برامج علاجية قائمة على اللعب** للأطفال ذوي اضطراب المعالجة الحسّية (SPD) والتوحّد، عبر عيادة Therapy West التي شاركت في تأسيسها.
+- **أبحاث في المعالجة الحسّية لدى البالغين**، منها تطوير Adult Sensory Processing Scale (ASPS).
+- مؤلفات إرشادية عملية، منها *An Evidence-Based Guide to Combining Interventions* وكتيّب *Sensory Balance* للأهل والمختصين.
+
+## المصادر
+
+- [الصفحة الرسمية في USC Chan Division of Occupational Science and Occupational Therapy](https://chan.usc.edu/people/faculty/Erna_Blanche)
+- [نبذة المؤلفة — Pearson Clinical Assessment](https://www.pearsonclinical.co.uk/products/authors/blanche-erna.html)
+- [ملف الباحثة على ResearchGate](https://www.researchgate.net/profile/Erna-Blanche)
+- [Therapy West Inc. & pLAy Studio — About Us](https://therapywest.org/about-us/)

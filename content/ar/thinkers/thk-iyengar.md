@@ -49,3 +49,10 @@ gaps:
 - *Light on Pranayama* (1981).
 - *Light on Life* (2004).
 
+## المصادر
+
+- [B. K. S. Iyengar — Wikipedia](https://en.wikipedia.org/wiki/B._K._S._Iyengar)
+- [Light on Yoga — Wikipedia](https://en.wikipedia.org/wiki/Light_on_Yoga)
+- [Iyengar Yoga — Wikipedia](https://en.wikipedia.org/wiki/Iyengar_Yoga)
+- [Remembering B. K. S. Iyengar — Kripalu](https://kripalu.org/living-kripalu/remembering-b-k-s-iyengar-man-who-was-once-anti-advertisement-yoga)
+
