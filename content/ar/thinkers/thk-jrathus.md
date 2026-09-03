@@ -22,14 +22,15 @@ related:
 - id: "thk-tlynch", title: "توماس لينش", type: "مفكر"
 - id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
 gaps:
-  - "سنة الميلاد الدقيقة وانتماء راثوس لجامعة هوفسترا لم يُراجعا من مصدر أولي بعد."
+  - "سنة الميلاد الدقيقة لراثوس لم تُراجَع من مصدر أولي بعد؛ التعليم: بكالوريوس من جامعة كورنيل ودكتوراه من جامعة ستوني بروك (مصدر: Behavioral Tech Institute / Guilford)."
   - "لا يوجد اقتباس مباشر موثوق من *Dialectical Behavior Therapy with Suicidal Adolescents* (2007) بترجمة عربية معتمدة."
   - "كان الملف يربط بـ`thk-amiller` بعنوان «أليس ميلر» — وهي مؤلفة *مأساة الطفل الموهوب* السويسرية، لا صلة لها بـDBT؛ وشريكة راثوس هو **أليك ميلر** (Alec L. Miller). صُحّح الرابط."
+  - "تصحيح: انتماء راثوس الجامعي ليس جامعة هوفسترا بل **جامعة لونغ آيلاند (LIU Post / CW Post Campus)** في بروكفيل، نيويورك، حيث تدير برنامج التدريب السريري على DBT — تحقّق ذلك من صفحتها على ResearchGate وموقع Guilford وBehavioral Tech Institute. صُحّح النص أدناه."
 ---
 
 # جيل راثوس
 
-عالمة نفس سريرية أمريكية، أستاذة في جامعة هوفسترا (Hofstra University) ومن أبرز المطورين المشاركين للعلاج الجدلي السلوكي للمراهقين (DBT-A) مع أليك ميلر.
+عالمة نفس سريرية أمريكية، أستاذة في جامعة لونغ آيلاند (Long Island University, LIU Post) ومن أبرز المطورين المشاركين للعلاج الجدلي السلوكي للمراهقين (DBT-A) مع أليك ميلر.
 
 ## ما أعطته
 
@@ -56,3 +57,10 @@ gaps:
 ## أهم أعمالها
 
 - «العلاج الجدلي السلوكي للمراهقين: دليل التدريب على المهارات» (Dialectical Behavior Therapy with Suicidal Adolescents, 2007) — مع أليك ميلر.
+
+## المصادر
+
+- [Jill Rathus, Ph.D. — Behavioral Tech Institute](https://behavioraltech.org/trainers/jill-rathus-ph-d-jill-rathus-ph-d/)
+- [Jill H. Rathus — Guilford Press](https://www.guilford.com/author/Jill-H-Rathus)
+- [Jill Rathus — صفحة الباحثة على ResearchGate (Long Island University)](https://www.researchgate.net/profile/Jill-Rathus)
+- [Mehlum, L. et al. (2014), "Dialectical Behavior Therapy for Adolescents With Repeated Suicidal and Self-harming Behavior: A Randomized Trial", *Journal of the American Academy of Child & Adolescent Psychiatry*, 53(10), 1082–1091](https://www.sciencedirect.com/science/article/abs/pii/S0890856714004997)

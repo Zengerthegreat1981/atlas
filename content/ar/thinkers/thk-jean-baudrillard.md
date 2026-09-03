@@ -45,3 +45,9 @@ gaps:
 - *L'Échange symbolique et la mort* (1976).
 - *Simulacres et simulation* (1981) — المصطنع والمحاكاة.
 - *La Guerre du Golfe n'a pas eu lieu* (1991).
+
+## المصادر
+
+- [Jean Baudrillard — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/baudrillard/)
+- [The Matrix Decoded: Le Nouvel Observateur Interview With Jean Baudrillard — International Journal of Baudrillard Studies](https://baudrillardstudies.ubishops.ca/the-matrix-decoded-le-nouvel-observateur-interview-with-jean-baudrillard/)
+- [Jean Baudrillard — Encyclopaedia Britannica](https://www.britannica.com/biography/Jean-Baudrillard)

@@ -19,7 +19,7 @@ related:
 - id: "sch-augustinianism", title: "الأوغسطينية", type: "مدرسة"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من 'Itinerarium' متاح."
-  - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "سنة الميلاد مختلف عليها بين المصادر: بعضها (الموسوعة الفرنسيسكانية، بريتانيكا) يرجّح 1217، وأخرى (ستانفورد للفلسفة، مصادر كاثوليكية) ترجّح 1221 المعتمدة هنا؛ كلا التاريخين له سند علمي."
 ---
 
 # بونافنتورا (جيوفاني دي فيدانزا)
@@ -47,3 +47,11 @@ gaps:
 - In Hexaemeron (1273)
 - In Librum Sapientiae
 - Commentaria in Libros Sententiarum (تعليق على الأربعة كتب)
+
+## المصادر
+
+- [Bonaventure — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/bonaventure/)
+- [Bonaventure (1217/1221-1274) — Internet Encyclopedia of Philosophy](https://iep.utm.edu/bonaventure/)
+- [Saint Bonaventure — Britannica](https://www.britannica.com/biography/Saint-Bonaventure)
+- [Journey of the Mind to God — Britannica](https://www.britannica.com/topic/Journey-of-the-Mind-to-God)
+- [St. Bonaventure of Bagnoregio — Frati Francescani (OFM)](https://ofm.org/en/st-bonaventure-of-bagnoregio.html)

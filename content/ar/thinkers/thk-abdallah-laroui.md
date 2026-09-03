@@ -41,3 +41,9 @@ gaps:
 - *العرب والفكر التاريخي* (1973).
 - *أزمة المثقّفين العرب* (1974).
 - سلسلة المفاهيم: *مفهوم الأيديولوجيا*، *مفهوم الحرّية*، *مفهوم الدولة*، *مفهوم التاريخ*، *مفهوم العقل*.
+
+## المصادر
+
+- [Abdallah Laroui — Wikipedia](https://en.wikipedia.org/wiki/Abdallah_Laroui)
+- [Laroui, Abdallah (1933–) — Encyclopedia.com](https://www.encyclopedia.com/international/encyclopedias-almanacs-transcripts-and-maps/laroui-abdallah-1933)
+- [Interview — the life and times of Abdallah Laroui, a Moroccan intellectual (Journal of North African Studies)](https://www.tandfonline.com/doi/abs/10.1080/13629389808718312)

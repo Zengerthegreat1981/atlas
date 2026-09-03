@@ -25,19 +25,31 @@ gaps:
 
 # ديفيد دِنْبَره
 
-معالج نفسي أسترالي وأحد أبرز تلاميذ مايكل وايت. يُعدّ من أهم من طوّر العلاج السردي في العمل مع المجتمعات الأصلية والشباب في المؤسسات العقابية.
+معالج نفسي أسترالي وأحد أبرز تلاميذ مايكل وايت. حاصل على الدكتوراه، ويعمل أستاذاً مشاركاً (Senior Lecturer) في جامعة ملبورن حيث ينسّق برنامج ماجستير العلاج السردي والعمل المجتمعي، إلى جانب عمله ممارساً ومحرراً وكاتباً في مركز دلويتش (Dulwich Centre). يُعدّ من أهم من طوّر العلاج السردي في العمل مع المجتمعات الأصلية والشباب في المؤسسات العقابية.
 
 ## ما أعطاه
 
 - **"العلاج السردي في السجون"**: بروتوكولات علاجية للشباب في المؤسسات العقابية.
 - **"ممارسة المجتمعات الأصلية"**: مقاربة سردية تحترم تقاليد الشعوب الأصلية.
 - **"قصص الشفاء"**: دراسات عن الكيفية التي تعيد بها القصص تنظيم الحياة بعد الصدمة.
+- **"شجرة الحياة" (Tree of Life)** و**"فريق الحياة" (Team of Life)**: مقاربتان في «الممارسة السردية الجَمْعية» (Collective Narrative Practice) طوّرهما بالاشتراك مع نسازيلو نكوبي-مليلو (Ncazelo Ncube-Mlilo)، تساعدان الأفراد والمجموعات على معالجة آثار الصدمة الجمعية دون الحاجة إلى الحديث عنها مباشرة.
+- عمل ميداني وتدريبي في سياقات متعددة الثقافات: البرازيل، فلسطين، سنغافورة، هونغ كونغ، كردستان العراق، الهند، سريلانكا، جنوب أفريقيا، والمجتمعات الأصلية الأسترالية.
 
 ## موقعه من التيار
 
-يتميّز دِنْبَره بنقل العلاج السردي من العيادة إلى المؤسسات، وهو امتداد ضروري للممارسة السردية.
+يتميّز دِنْبَره بنقل العلاج السردي من العيادة إلى المؤسسات والمجتمعات، وهو امتداد ضروري للممارسة السردية نحو «الممارسة السردية الجَمْعية» عبر الثقافات.
 
 ## أهم أعماله
 
 - *Retelling the Stories of Our Lives* (2014).
+- *A Storyline of Collective Narrative Practice: A History of Ideas, Social Projects and Partnerships* (مركز دلويتش).
+- *Narrative Therapy Charter of Story-Telling Rights* (مركز دلويتش).
 - إصدارات مركز دلويتش في العمل مع مجتمعات السكان الأصليين (تحرير).
+
+## المصادر
+
+- [A/Prof David Denborough — Find an Expert, University of Melbourne](https://findanexpert.unimelb.edu.au/profile/647606-david-denborough)
+- [David Denborough — The Taos Institute](https://www.taosinstitute.net/about-us/people/institute-associates/oceania/david-denborough)
+- [A Storyline of Collective Narrative Practice — Dulwich Centre](https://dulwichcentre.com.au/wp-content/uploads/2020/12/A_storyline_of_collective_narrative_practice_a_history_of_ideas_social_projects_and_partnerships_by_David_Denborough-1.pdf)
+- [Narrative Therapy Charter of Story-Telling Rights — Dulwich Centre](https://dulwichcentre.com.au/narrative-therapy-charter-of-story-telling-rights-by-david-denborough/)
+- [Tracing the roots of the Tree of Life narrative approach — Dulwich Centre](https://dulwichcentre.com.au/wp-content/uploads/2023/01/Tracing-the-history-of-tree-of-life-by-David-Denborough.pdf)

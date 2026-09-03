@@ -53,3 +53,10 @@ gaps:
 ## أهم أعمالها
 
 فلسفة في مفتاح جديد (Philosophy in a New Key, 1942) · الشعور والشكل (Feeling and Form, 1953) · العقل: مقال في الشعور الإنساني (Mind: An Essay on Human Feeling في 3 مجلدات، 1967–1982).
+
+## المصادر
+
+- [Susanne Langer — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/langer/)
+- [Susanne Langer — Wikipedia](https://en.wikipedia.org/wiki/Susanne_Langer)
+- [Susanne K. Langer — Encyclopædia Britannica](https://www.britannica.com/biography/Susanne-K-Langer)
+- [Philosophy in a New Key — Wikipedia](https://en.wikipedia.org/wiki/Philosophy_in_a_New_Key)

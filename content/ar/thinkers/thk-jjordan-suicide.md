@@ -22,7 +22,7 @@ gaps:
 
 # جون آر. جوردان
 
-عالم نفس إكلينيكي أمريكي متخصّص في **الفجيعة بعد الانتحار** (Suicide Bereavement)، وشريك **جون ماكنتوش** في تحرير المرجع الأساسي في هذا الحقل. أُدرج هذا الملف عند تصحيح رابطٍ معلَّق في ملف ماكنتوش.
+عالم نفس إكلينيكي أمريكي معروف أيضاً باسم "جاك" (Jack Jordan)، يمارس العلاج الخاص في ولاية ماساتشوستس، متخصّص في **الفجيعة بعد الانتحار** (Suicide Bereavement)، وشريك **جون ماكنتوش** في تحرير المرجع الأساسي في هذا الحقل. أُدرج هذا الملف عند تصحيح رابطٍ معلَّق في ملف ماكنتوش.
 
 ## ما أعطاه
 
@@ -42,3 +42,8 @@ gaps:
 - *Grief After Suicide: Understanding the Consequences and Caring for the Survivors* (2011، تحرير مشترك مع جون ماكنتوش).
 - \"Is Suicide Bereavement Different? A Reassessment of the Literature\" (2001)، *Suicide and Life-Threatening Behavior*.
 - *Devastating Losses: How Parents Cope with the Death of a Child to Suicide or Drugs* (2012، مع ويليام فيغل وآخرين).
+
+## المصادر
+- Proviso Partners, "Dr. John (Jack) Jordan is a licensed psychologist" (نبذة سيرية) — https://www.provisopartners.com/uploads/5/8/9/3/58938449/flyer_-_suicide_bereavement_clinician_training.pdf
+- Frontiers in Psychology, "Lessons Learned: Forty Years of Clinical Work With Suicide Loss Survivors" — https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.00766/full
+- Routledge، صفحة الكتاب *Grief After Suicide* — https://www.routledge.com/Grief-After-Suicide-Understanding-the-Consequences-and-Caring-for-the-Survivors/Jordan-McIntosh/p/book/9781138871663

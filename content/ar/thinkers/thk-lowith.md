@@ -42,3 +42,10 @@ gaps:
 ## أهم أعماله
 
 من هيغل إلى نيتشه (Von Hegel zu Nietzsche, 1941) · المعنى في التاريخ: المضامين اللاهوتية لفلسفة التاريخ (Meaning in History, 1949) · هايدجر: مفكر في زمان فقير (Heidegger: Denker in dürftiger Zeit, 1953).
+
+## المصادر
+
+- [Karl Löwith — Open Library](https://openlibrary.org/authors/OL140188A/Karl_L%C3%B6with)
+- [From Hegel to Nietzsche — Internet Archive](https://archive.org/details/fromhegeltonietz0000lwit)
+- [From Hegel to Nietzsche, by Karl Lowith — Commentary Magazine](https://www.commentary.org/articles/werner-dannhauser-2/from-hegel-to-nietzsche-the-revolution-in-nineteenth-century-thought-by-karl-lowith/)
+- [Von Hegel zu Nietzsche — Springer Nature Link](https://link.springer.com/chapter/10.1007/978-3-476-03965-1_6)

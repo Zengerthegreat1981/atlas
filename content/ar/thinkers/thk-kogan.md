@@ -50,3 +50,10 @@ gaps:
 سلسلة حفلات-المحاضرات **«الموسيقى والعقل»** (Music and the Mind) عن شومان وبيتهوفن وتشايكوفسكي وغيرشوين ورحمانينوف · وهو المدير المشارك لبرنامج الموسيقى والطبّ في وايل كورنيل.
 
 > **ملاحظة:** كان يُنسب إليه في هذا الملف كتاب بعنوان *The Intersections of Psychoanalysis and the Neurosciences* (2016) ولم يُعثر له على أثر.
+
+## المصادر
+
+- [Richard Kogan (physician) — Wikipedia](https://en.wikipedia.org/wiki/Richard_Kogan_(physician))
+- [Richard Kogan — Weill Cornell Music and Medicine Program](https://music.weill.cornell.edu/)
+- [Richard Kogan — Aspen Ideas (Clinical Professor of Psychiatry, Weill Cornell; Artistic Director, Music and Medicine)](https://www.aspenideas.org/speakers/richard-kogan)
+- [Richard Kogan — LA Phil artist profile](https://www.laphil.com/people/richard-kogan)

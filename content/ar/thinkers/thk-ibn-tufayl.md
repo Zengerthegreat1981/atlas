@@ -17,7 +17,7 @@ edges:
 related:
 - id: "met-ibn-tufayl-hayy-ibn-yaqzan", title: "حي بن يقظان لابن طفيل: استعارة العقل الفطري والارتقاء الطبيعي", type: "استعارة/مجاز مؤسِّس"
 - id: "br-falsafa-mashshaiyya-western-andalusian", title: "المشائية الأندلسية والمغربية — الفلسفة المشائية الإسلامية", type: "تيار"
-- id: "thk-ibn-rushd", title: "ابن رشد", type: "مفكر"
+- id: "thk-ibn-rushd", title: "أبو الوليد محمد بن أحمد بن رشد (الشارح الأكبر)", type: "مفكر"
 - id: "ctx-andalusian-philosophical-renaissance", title: "البيئة الأندلسية والجدل الفلسفي في قرطبة وإشبيلية", type: "سياق/تقليد"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: ابن باجة (thk-ibn-bajja)"
@@ -45,3 +45,10 @@ gaps:
 
 - *حيّ بن يقظان* (رسالة في أسرار الحكمة المشرقية).
 - أعمال في الطبّ والفلك ذُكرت في المصادر ولم يصلنا أكثرها.
+
+## المصادر
+
+- [Ibn Tufayl — Encyclopaedia Britannica](https://www.britannica.com/biography/Ibn-Tufayl)
+- [Ibn Tufayl — Wikipedia](https://en.wikipedia.org/wiki/Ibn_Tufayl)
+- [Ibn Ṭufayl's Ḥayy ibn Yaqẓān: An Almohad Reading, Journal of Islamic Studies](https://www.tandfonline.com/doi/full/10.1080/09596410.2020.1846448)
+- [Ibn Tufayl — Muslim Heritage](https://muslimheritage.com/people/scholars/ibn-tufayl-al-qaysi/)

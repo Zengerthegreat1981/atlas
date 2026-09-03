@@ -41,3 +41,10 @@ gaps:
 
 - *Structural Family Therapy in Child Psychiatry* (مساهم، 1983).
 - *The Intersubjective Mirror in Family Therapy* (2017).
+- *Working with Families of the Poor* (مع سلفادور مينوشين وباتريسيا مينوشين).
+
+## المصادر
+
+- [Jorge Colapinto, LMFT — Center for Family Based Training](https://familybasedtraining.com/faculty/jorge-colapinto/)
+- [Jorge Colapinto — Structural Family Therapy (1982), colapinto.com](https://colapinto.com/files/SFT1982.pdf)
+- [Minuchin Center for the Family — Publications](https://minuchincenter.org/publications/)

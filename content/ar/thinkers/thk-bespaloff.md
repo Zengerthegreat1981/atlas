@@ -43,4 +43,12 @@ gaps:
 
 ## أهم أعمالها
 
-عن الإلياذة (De l'Iliade, 1943) · مقالات في كيركيغارد وهايدجر والأخلاق (1938–1949).
+عن الإلياذة (De l'Iliade, 1943) · مقالات في كيركيغارد وهايدجر وغابرييل مارسِل وأندريه مالرو (1930s–1940s).
+
+## المصادر
+
+- [Rachel Bespaloff — Wikipedia](https://en.wikipedia.org/wiki/Rachel_Bespaloff)
+- [For Rachel Bespaloff, philosophy was a sensual activity — Aeon Essays](https://aeon.co/essays/for-rachel-bespaloff-philosophy-was-a-sensual-activity)
+- [Rachel Bespaloff — New York Review Books](https://www.nyrb.com/collections/rachel-bespaloff)
+- [Rachel Bespaloff Material (1935–1950) — Mount Holyoke and Hampshire College archives](https://aspace.fivecolleges.edu/repositories/2/archival_objects/28912)
+- [On the Iliad — Goodreads (بيانات الطبعة)](https://www.goodreads.com/book/show/44526131)

@@ -43,4 +43,10 @@ gaps:
 
 ## أهم أعماله
 
-- *I Write What I Like* (نُشر بعد وفاته عام 1978) — مجموع مقالاته التي كان ينشرها في نشرة اتحاد الطلبة السود تحت اسم مستعار هو «فرانك توك».
+- *I Write What I Like* (نُشر بعد وفاته عام 1978، بتحرير أليريد ستَبز) — مجموع مقالاته التي كان ينشرها في نشرة اتحاد الطلبة السود تحت اسم مستعار هو «فرانك توك».
+
+## المصادر
+
+- [I Write What I Like: Selected Writings — University of Chicago Press](https://press.uchicago.edu/ucp/books/book/chicago/I/bo3632310.html)
+- [Africa Check — تحقق من نسبة اقتباس «أمضى سلاح في يد القاهر هو عقل المقهور» إلى بيكو](https://africacheck.org/fact-checks/meta-programme-fact-checks/yes-mind-oppressed-quote-south-africas-steve-biko)
+- [Steve Biko — Encyclopaedia Britannica](https://www.britannica.com/biography/Steve-Biko)

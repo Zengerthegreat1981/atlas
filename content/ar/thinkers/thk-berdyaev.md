@@ -8,7 +8,7 @@ en: "Nikolai Berdyaev"
 crumb: "المدرسة الوجودية ← الناس ← نيكولاي بيردييف"
 dates: "روسيا/فرنسا · 1874–1948"
 active_start: 1916
-active_end: 1939
+active_end: 1948
 language: "الروسية"
 country: "روسيا / فرنسا"
 part: "philosophy"
@@ -22,6 +22,7 @@ related:
 gaps:
   - "لم تُراجع بعد نصوصه الأصلية من نسخة محققة."
   - "فيلسوف ديني روسي أقل حضوراً في الأدبيات الغربية المعاصرة عن المدرسة الوجودية، ويحتاج بحثاً إضافياً لتحديد أثره الفعلي على العلاج النفسي تحديداً (بخلاف الفلسفة)."
+  - "الاقتباس المنسوب إليه (\"الحرية أرستقراطية لا ديمقراطية\") غير مؤكَّد المصدر الدقيق؛ بعض المصادر الثانوية تنسبه إلى عمل نُشر بعد وفاته عام 1949 (مملكة الروح ومملكة قيصر) لا العبودية والحرية (1939) كما كان مذكوراً سابقاً في هذا الملف."
 ---
 
 # نيكولاي بيردييف
@@ -41,4 +42,11 @@ gaps:
 
 ## اقتباسات مختارة
 
-«الحرية أرستقراطية لا ديمقراطية.» — العبودية والحرية، 1939
+«الحرية أرستقراطية لا ديمقراطية، ومن المؤسف أن نعترف بأن الحرية لا تعزّ إلا على من يفكرون تفكيراً خلّاقاً.» — منسوبة إلى بيردييف، ومصادر ثانوية تُرجعها إلى *مملكة الروح ومملكة قيصر*، المنشور بعد وفاته عام 1949، لا إلى *العبودية والحرية* (1939)؛ لم يُعثر على إسناد أولي دقيق بالصفحة.
+
+## المصادر
+
+- [Slavery and Freedom — Internet Archive (نسخة كاملة)](https://archive.org/details/slaveryfreedom0000berd_z4o7)
+- [Nikolai Berdyaev — Encyclopedia.com](https://www.encyclopedia.com/people/history/historians-miscellaneous-biographies/nikolai-berdiaev)
+- [Nikolai Berdyaev — Wikiquote](https://en.wikiquote.org/wiki/Nikolai_Berdyaev)
+- [Slavery and Freedom — Goodreads (بيانات الطبعة والترجمة)](https://www.goodreads.com/book/show/555212.Slavery_and_Freedom)

@@ -33,7 +33,7 @@ gaps:
 
 ## موقعه من التيار
 
-من «الكلاسيكيين الأكاديميين» في علم النفس الفردي. لم يكن ممارساً سريرياً نشطاً كدرايكورس أو سيشر، بل «محرّر ومعلّم» نقل فكر أدلر إلى الإنجليزية الأكاديمية بدقة أكاديمية عالية. شغل منصب محرر *Journal of Individual Psychology* من 1958 إلى أواخر حياته.
+من «الكلاسيكيين الأكاديميين» في علم النفس الفردي. لم يكن ممارساً سريرياً نشطاً كدرايكورس أو سيشر، بل «محرّر ومعلّم» نقل فكر أدلر إلى الإنجليزية الأكاديمية بدقة أكاديمية عالية. شغل منصب محرر *Journal of Individual Psychology* من 1958 حتى 1974 (وليس حتى أواخر حياته كما ورد سابقاً)، وتوفي عام 2006 في برلينغتون بولاية فيرمونت عن عمر 101 عاماً، وكان أستاذاً فخرياً في جامعة فيرمونت.
 
 ## القيد
 مُدرج هنا لدوره «النقلي-التحريري» الذي لا يقل أهمية عن «الممارس السريري»، مع إقرار بأنه لم يقدّم نظرية جديدة مستقلة.
@@ -41,3 +41,10 @@ gaps:
 ## أهم أعماله
 
 «علم النفس الفردي لألفريد أدلر» (The Individual Psychology of Alfred Adler, 1956، مع رووينا) · «التفوّق والاهتمام الاجتماعي» (1964) · «التعاون بين الجنسين» (1978).
+
+## المصادر
+
+- [Heinz Ansbacher — Wikipedia](https://en.wikipedia.org/wiki/Heinz_Ansbacher)
+- [Heinz L. Ansbacher (1904–2006) — PubMed](https://pubmed.ncbi.nlm.nih.gov/17874904/)
+- [The individual psychology of Alfred Adler — Internet Archive (نسخة كاملة)](https://archive.org/details/individualpsycho0000adle)
+- [The Journal of Individual Psychology — Wikipedia](https://en.wikipedia.org/wiki/The_Journal_of_Individual_Psychology)

@@ -8,7 +8,7 @@ en: "Lewis Gordon"
 crumb: "المدرسة الوجودية ← الناس ← لويس غوردون"
 dates: "جامايكا / الولايات المتحدة · 1962–"
 active_start: 1995
-active_end: 2022
+active_end: "مستمر"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "philosophy"
@@ -42,3 +42,9 @@ gaps:
 ## أهم أعماله
 
 سوء الإيمان والعنصرية ضد السود (Bad Faith and Antiblack Racism, 1995) · الوجودية الأفريكانية (Existentia Africana, 2000) · ما قاله فانون (What Fanon Said, 2015) · الخوف من الوعي الأسود (Fear of Black Consciousness, 2022).
+
+## المصادر
+
+- [Lewis Gordon — Wikipedia](https://en.wikipedia.org/wiki/Lewis_Gordon)
+- [Lewis Gordon — University of Connecticut, Department of Philosophy](https://philosophy.uconn.edu/person/lewis-gordon/)
+- [Lewis Gordon (University of Connecticut) — PhilPeople](https://philpeople.org/profiles/lewis-gordon)

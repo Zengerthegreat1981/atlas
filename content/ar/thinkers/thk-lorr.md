@@ -20,12 +20,14 @@ related:
 - id: "thk-katie-rae", title: "كايتي ري", type: "مفكر"
 - id: "thk-paul-thorne", title: "بول ثورن", type: "مفكر"
 gaps:
-  - "التفاصيل الكاملة لمأساة Candace Newmaker (2000) لم تُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق من *Rebirthing in the New Age* (1977) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كوني ري أندرسون (thk-connie-rae-anderson)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جيم أكرمان (thk-jim-ackerman)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كايتي ري (thk-katie-rae)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بول ثورن (thk-paul-thorne)."
+  - "تصحيح مهم: حادثة وفاة Candace Newmaker (2000) لم تكن في جلسة Rebirthing Breathwork الأصلية لأور، بل في ممارسة منفصلة تحمل الاسم نفسه (Attachment Therapy)؛ صُحِّح المتن ليعكس هذا التمييز، راجع المصادر أدناه."
+  - "تباين في مصادر السيرة: بعضها يذكر ميلاد أور 1937 وأخرى 1938؛ وبعضها يذكر وفاته في سبتمبر 2019 لا 2021 كما هو مثبت في `dates` — يحتاج تحقيق أدق من سجل رسمي (لا توجد صفحة ويكيبيديا مخصصة له)."
+  - "ليونارد أور شخص حقيقي موثَّق عبر مصادر متعددة (مؤسسة باسمه، سيرة صدرت ككتاب Eternal Breath، تغطية إعلامية لحادثة Newmaker وتيار Rebirthing)، لكن لا توجد له صفحة ويكيبيديا مستقلة ولا مصدر أكاديمي مستقل قوي عن سيرته الشخصية — لذا هامش الشك في تفاصيل السيرة (لا في وجوده) يبقى قائماً."
 ---
 
 # ليونارد أور
@@ -40,7 +42,7 @@ gaps:
 
 ## الجدل
 
-تقنية Rebirthing أصبحت موضع تدقيق شديد بسبب **وفاة Candace Newmaker** (10 سنوات) في أبريل 2000 خلال جلسة Rebirthing في ولاية كولورادو. المعالجان أُدينا وحُكم عليهما بالسجن لسنوات. أثارت الحادثة دعوات لتقييد أو حظر Rebirthing في عدة ولايات أمريكية.
+اسم "Rebirthing" أصبح موضع تدقيق شديد بسبب **وفاة Candace Newmaker** (10 سنوات) في 18 أبريل 2000 في ولاية كولورادو. لكن يجب التمييز بدقة: الجلسة التي أودت بحياتها لم تكن تقنية التنفس الدائري (Rebirthing Breathwork) التي طوّرها ليونارد أور، بل ممارسة مختلفة تُعرف باسم "علاج التعلّق" (Attachment Therapy) نفّذها معالجان غير مرخّصين (Connell Watkins وJulie Ponder)، قاما بلفّ الطفلة داخل بطانية لمحاكاة الرحم والضغط عليها من الخارج لتحاكي "المخاض"، فماتت اختناقاً بعد 70 دقيقة. أُدين المعالجان بتهمة إساءة معاملة طفل أدت إلى الوفاة، وحُكم على كل منهما بالسجن 16 سنة. الحادثة استُخدمت مع ذلك لإثارة تشريعات تُقيّد أو تُجرّم ممارسات تحمل اسم "Rebirthing" بشكل عام (كما في كولورادو ونورث كارولينا)، رغم أن تقنية أور نفسها للتنفّس تُمارَس على بالغين بموافقتهم ولا تتضمن تقييداً جسدياً للأطفال.
 
 ## موقعه من المدرسة
 
@@ -54,3 +56,11 @@ gaps:
 - *Rebirthing in the New Age* (1977).
 - *Oxygen Aging and Cancer* (الثمانينيات من القرن العشرين).
 - *The Cleanse Manual* (التسعينيات من القرن العشرين).
+
+## المصادر
+
+- [Death of Candace Newmaker — Wikipedia](https://en.wikipedia.org/wiki/Death_of_Candace_Newmaker)
+- ['Rebirthing' Therapists Get Prison Terms — ABC News](https://abcnews.com/US/story?id=93074&page=1)
+- [Rebirthing Breathwork Leonard Orr: Founder, Method & Legacy — breathmastery.com](https://breathmastery.com/rebirthing-breathwork-leonard-orr/)
+- [Leonard D. Orr Biography — Leonard D. Orr Foundation](https://www.leonardorrfoundation.org/bio)
+- [Rebirthing therapy banned after girl died in 70 minute struggle — PMC (BMJ)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1174742/)

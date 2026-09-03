@@ -15,8 +15,9 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-ifs", target_type: "مدرسة"
 gaps:
+  - "مرشح للحجر (quarantine candidate): بحث ويب متعدد الصيغ (\"Cecile Himawan\"، وبالاقتران مع IFS / Internal Family Systems / Indonesia) لم يُظهر أي أثر مستقل — لا صفحة أكاديمية، لا منشور في دورية محكّمة، لا ذكر في مصادر IFS Institute أو الدوريات المذكورة (مثل Journal of Marital and Family Therapy). لم يُعثر على أي شخص بهذا الاسم في نتائج البحث الأولية أو الموسّعة."
   - "سنة الميلاد غير موثقة في هذا المسوّد."
-  - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."
+  - "بعض الجوانب السيرية لم تُراجع من مصدر أولي، ولا يمكن التحقق من وجودها أصلاً حتى الآن."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
 ---
 
@@ -36,4 +37,8 @@ gaps:
 
 ## أهم أعمالها
 
-- أبحاث منشورة في دوريات مثل *Journal of Marital and Family Therapy*.
+- أبحاث منشورة في دوريات مثل *Journal of Marital and Family Therapy* (لم يتم التحقق من هذا الادعاء — لم يُعثر على أي مقالة منسوبة لهذا الاسم في عمليات البحث).
+
+## المصادر
+
+- لم يُعثر على أي مصدر مستقل موثوق يثبت وجود شخصية بهذا الاسم مرتبطة بـ IFS. تم فحص: [صفحة أبحاث معهد IFS](https://ifs-institute.com/resources/research)، ومراجعات علمية حديثة حول أدلة IFS مثل [Exploring the evidence for Internal Family Systems therapy — Australian & New Zealand Journal of Family Therapy (2025)](https://www.tandfonline.com/doi/full/10.1080/13284207.2025.2533127)، دون أي ذكر للاسم. هذا الملف **مرشح للحجر (quarantine)** حتى يُعثر على مصدر أولي يثبت وجود الشخصية.

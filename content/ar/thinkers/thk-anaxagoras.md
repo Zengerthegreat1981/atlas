@@ -47,3 +47,9 @@ gaps:
 «في كل شيء جزء من كل شيء.» (شذرة)
 
 «كان كل شيء معاً، ثم جاء العقل ورتّبه.» (شذرة)
+
+## المصادر
+
+- [Anaxagoras — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/anaxagoras/)
+- [Anaxagoras — Internet Encyclopedia of Philosophy](https://iep.utm.edu/anaxagoras/)
+- [An Instructive Failure: The Status of Anaxagoras in Plato's Phaedo](https://ojs.library.dal.ca/PseudoDio/article/view/3430/3230)

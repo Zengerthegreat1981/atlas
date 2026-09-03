@@ -18,7 +18,6 @@ related:
 - id: "con-framing-effect", title: "تأثير التأطير المعرفي واللغوي (Framing Effect)", type: "مفهوم"
 - id: "wrk-dont-think-of-an-elephant", title: "لا تفكر في فيل", type: "عمل / كتاب"
 gaps:
-  - "بيانات السيرة الذاتية وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق من *Metaphors We Live By* (1980) بترجمة عربية معتمدة."
   - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«اللسانيات المعرفية وعلم النفس السياسي» في content/ar/schools أو branches."
 ---
@@ -46,3 +45,10 @@ gaps:
 - *Philosophy in the Flesh* (1999، مع جونسون).
 - *Moral Politics* (1996).
 - *Don't Think of an Elephant!* (2004).
+
+## المصادر
+
+- [George Lakoff — University of California, Berkeley, Department of Linguistics](https://linguistics.berkeley.edu/people/emeriti/george-lakoff/)
+- [Metaphors We Live By — Wikipedia](https://en.wikipedia.org/wiki/Metaphors_We_Live_By)
+- [Metaphors We Live By — University of Chicago Press, 1980](https://press.uchicago.edu/ucp/books/book/chicago/M/bo3637992.html)
+- [George Lakoff — Wikipedia](https://en.wikipedia.org/wiki/George_Lakoff)
