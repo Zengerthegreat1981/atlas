@@ -37,4 +37,11 @@ gaps:
 
 ## أهم أعماله
 
-- *Critical Psychology: An Introduction* (1997، وطبعة ثانية 2009، بالاشتراك في التحرير مع إسحاق بريللتنسكي).
+- *Critical Psychology: An Introduction* (1997، بالاشتراك في التحرير مع إسحاق بريللتنسكي؛ وطبعة ثانية 2009 أضافت ستيفاني أوستن كمحرِّرة ثالثة).
+
+## المصادر
+
+- Fox, D. & Prilleltensky, I. (Eds.). (1997). *Critical Psychology: An Introduction*. SAGE Publications.
+- Fox, D., Prilleltensky, I., & Austin, S. (Eds.). (2009). *Critical Psychology: An Introduction* (2nd ed.). SAGE Publications.
+- الصفحة الرسمية لفوكس: dennisfox.net
+- Radical Psychology Network (RadPsyNet) — en.wikipedia.org/wiki/Radical_Psychology_Network

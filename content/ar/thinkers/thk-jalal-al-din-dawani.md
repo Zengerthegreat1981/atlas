@@ -42,3 +42,9 @@ gaps:
 - *الزوراء*.
 - *شرح العقائد العضدية*، *حاشية على شرح التجريد*.
 
+## المصادر
+
+- Routledge Encyclopedia of Philosophy, "al-Dawani, Jalal al-Din (1426–1502)": https://www.rep.routledge.com/articles/biographical/al-dawani-jalal-al-din-1426-1502/v-1
+- Britannica, "Dawānī": https://www.britannica.com/biography/Dawani
+- Ahmed Alwishah & David Sanson, "The liar paradox in fifteenth-century Shiraz: the exchange between Ṣadr al-Dīn al-Dashtakī and Jalāl al-Dīn al-Dawānī", *British Journal for the History of Philosophy* 28:2 (2019): https://www.tandfonline.com/doi/abs/10.1080/09608788.2019.1616156
+

@@ -6,7 +6,7 @@ level: "متوسط"
 title: "وليام هدسون أوهانلون"
 en: "William Hudson O'Hanlon"
 crumb: "التنويم الإريكسوني ← تطوير ← وليام هدسون"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · 1952–"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1985
@@ -21,9 +21,9 @@ related:
 - id: "thk-sdeshacer", title: "ستيف دي شيزر", type: "مفكر"
 - id: "thk-iberg", title: "إنسو كيم بيرغ", type: "مفكر"
 gaps:
-  - "سنة الميلاد غير موثقة."
+  - "سنة الميلاد 1952 مستقاة من فهرسة أرشيف Internet Archive (بيانات LC/مكتبية)؛ لم يُعثر على تأكيد إضافي مستقل قوي."
   - "الاسم الصحيح الكامل: William Hudson O'Hanlon، والمعروف كـ 'Bill O'Hanlon'."
-  - "كتاب 'Taproots' (1987، مع Sandy Wein) من أهم كتبه."
+  - "كتاب 'Taproots' (1987) هو من تأليف O'Hanlon منفرداً؛ لا يوجد توثيق لمؤلف مشارك باسم 'Sandy Wein' — وهي نسبة كانت خاطئة في نسخة سابقة من الملف وتم تصحيحها."
   - "سنة نشر A Guide to Possibility Land غير مؤكدة (بعض المصادر تذكر 1994، القسم أدناه يعتمد سنة المصدر المتاح 1997) — تحتاج تحقق ببليوغرافي مستقل."
   - "كتاب 'Doing What Works in Brief Therapy' المنسوب سابقاً لمؤلف باسم 'Lynnakin' حُذف من القائمة: لا يوجد توثيق موثوق لوجود هذا الكتاب أو هذا المؤلف."
 ---
@@ -34,7 +34,7 @@ gaps:
 
 ## ما أعطاه
 
-- **«Taproots»** (1987، مع ساندي وين): من أهم كتب إريكسون والحل الموجز، حيث يقدّم O'Hanlon «جذوراً عميقة» لإريكسون في الفلسفة والتاريخ.
+- **«Taproots»** (1987، تأليف منفرد): من أهم كتب إريكسون والحل الموجز، حيث يقدّم O'Hanlon «جذوراً عميقة» لإريكسون في الفلسفة والتاريخ.
 - **«In Search of Solutions»** (1989، مع ميشيل واينر-ديفيس): نموذج العلاج بالحلال الموجز في تطبيق عملي.
 - **«A Guide to Possibility Land»** (1997، مع S. Beadle): أطروحة في الاحتمالات الإيجابية في العلاج.
 - **«Change 101»** (2001): أطروحة في التغيير العلاجي والحياة.
@@ -54,7 +54,7 @@ gaps:
 
 ## أهم أعماله
 
-- *Taproots* (1987، مع وين).
+- *Taproots* (1987).
 - *In Search of Solutions* (1989، مع واينر-ديفيس).
 - *A Guide to Possibility Land* (1997، مع Beadle).
 - *Coaching Possibilities* (2010).
@@ -64,7 +64,7 @@ gaps:
 
 - O'Hanlon, W. H., & Weiner-Davis, M. (1989). *In Search of Solutions*. Norton.
 - O'Hanlon, B., & Beadle, S. (1997). *A Guide to Possibility Land*. Norton.
-- O'Hanlon, W. H. (1987). *Taproots*. Norton (مع Sandy Wein).
+- O'Hanlon, B. (1987). *Taproots: Underlying Principles of Milton Erickson's Therapy and Hypnosis*. Norton.
 - de Shazer, S. (1985). *Keys to Solution in Brief Therapy*. Norton.
 - Erickson Foundation — Faculty Archives.
 - Brief Therapy Center of Denver — Bill O'Hanlon Archives.

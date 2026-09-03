@@ -46,3 +46,9 @@ gaps:
 ## أهم أعماله
 
 العهد الجديد وعلم الأساطير (Neues Testament und Mythologie, 1941) · التاريخ والإسخاتولوجيا (History and Eschatology, 1957) · الوجود والإيمان (Existence and Faith, 1960).
+
+## المصادر
+
+- Britannica, "Rudolf Bultmann": https://www.britannica.com/biography/Rudolf-Bultmann
+- Wikipedia, "Rudolf Bultmann": https://en.wikipedia.org/wiki/Rudolf_Bultmann
+- New World Encyclopedia, "Rudolf Bultmann": https://www.newworldencyclopedia.org/entry/Rudolf_Bultmann

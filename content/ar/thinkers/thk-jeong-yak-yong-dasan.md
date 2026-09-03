@@ -42,3 +42,10 @@ gaps:
 - *경세유표* (خطّة إصلاح الدولة).
 - *흠흠신서* (كتاب التدقيق في الأحكام الجنائية).
 - *맹자요의* (جوهر منشيوس)، *중용강의* (محاضرات في العقيدة الوسطى).
+
+## المصادر
+
+- Encyclopaedia Britannica — "Chŏng Yag-yong" (britannica.com/biography/Chong-Yag-yong).
+- Baker, D. (2017). "Tasan between Catholicism and Confucianism: A Decade under Suspicion, 1791–1801", *Journal of Korean Religions*.
+- Setton, M. (1997). *Chong Yagyong: Korea's Challenge to Orthodox Neo-Confucianism*, SUNY Press.
+- Korea Stamp Society / Google Arts & Culture — سيرة جيونغ ياك-يونغ وتواريخ منفاه في غانغجين (1801–1818).

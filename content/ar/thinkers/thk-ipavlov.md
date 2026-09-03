@@ -16,8 +16,8 @@ edges:
 - rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
 - id: "thk-jwatson", title: "جون ب. واتسون", type: "مفكر"
-- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
-- id: "con-classical-conditioning", title: "الإشتراط الكلاسيكي", type: "مفهوم"
+- id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
+- id: "con-classical-conditioning", title: "الإشتراط الكلاسيكي (الإشراط البافلوفي)", type: "مفهوم"
 - id: "stu-pavlov-classical-conditioning", title: "تجارب بافلوف الأصلية في الإشراط الكلاسيكي والمنعكس الشرطي", type: "دراسة وبحث"
 - id: "rel-british-empiricism-behaviorism", title: "التجريبية البريطانية والسلوكية: من لوك إلى واطسون", type: "علاقة بين مدرستين"
 gaps:
@@ -45,3 +45,9 @@ gaps:
 ## أهم أعماله
 
 المُنعَكَسات المشروطة (Conditioned Reflexes، 1927) · محاضرات عن نشاط قشرة الدماغ (1926).
+
+## المصادر
+
+- Nobel Prize official site — "The Nobel Prize in Physiology or Medicine 1904: Ivan Pavlov" (nobelprize.org/prizes/medicine/1904/pavlov/facts/).
+- Encyclopaedia Britannica — "Ivan Pavlov" (britannica.com/biography/Ivan-Pavlov).
+- Todes, D. P., *Ivan Pavlov: A Russian Life in Science* (Oxford University Press, 2014) — لتفاصيل موقفه من النظام السوفييتي و«الجلسة البافلوفية» لعام 1950.

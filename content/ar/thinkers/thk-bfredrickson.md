@@ -15,9 +15,8 @@ crumb: "الأطلس ← thinkers ← باربرا فريدريكسون"
 edges:
 - rel: "belongs_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
-- id: "thk-mseligman", title: "مارتن سيليجمان", type: "مفكر"
+- id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"
 gaps:
-  - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من *Positivity* (2009) بترجمة عربية معتمدة."
 ---
 
@@ -40,3 +39,10 @@ gaps:
 
 - *Positivity* (2009).
 - *Love 2.0* (2013).
+
+## المصادر
+
+- Wikipedia, "Barbara Fredrickson": https://en.wikipedia.org/wiki/Barbara_Fredrickson
+- Retraction Watch, "Fredrickson-Losada 'positivity ratio' paper partially withdrawn" (2013): https://retractionwatch.com/2013/09/19/fredrickson-losada-positivity-ratio-paper-partially-withdrawn/
+- Friedman & Brown, "Implications of Debunking the 'Critical Positivity Ratio' for Humanistic Psychology", Journal of Humanistic Psychology (2018): https://journals.sagepub.com/doi/full/10.1177/0022167818762227
+- APA Monitor, "American Psychologist retracts model..." (2013): https://www.apa.org/monitor/2013/12/model-emotions

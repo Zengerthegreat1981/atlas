@@ -57,3 +57,11 @@ gaps:
 - *Lernen: Subjektwissenschaftliche Grundlegung* (1993).
 - وأعمال **أوته أوسترْكامب** المكمّلة، وأهمّها في الدافعية والعنصرية.
 
+## المصادر
+
+- "Klaus Holzkamp", Wikipedia (بالإنجليزية). https://en.wikipedia.org/wiki/Klaus_Holzkamp
+- "Kritische Psychologie", Wikipedia (بالألمانية). https://de.wikipedia.org/wiki/Kritische_Psychologie
+- "Ute Osterkamp", Wikipedia (بالألمانية). https://de.wikipedia.org/wiki/Ute_Osterkamp
+- Tolman, C. (ed.), "Introduction: Klaus Holzkamp and the Development of Psychology from the Standpoint of the Subject", in *Critical Psychology: Contributions to an Historical Science of the Subject*, Springer/Palgrave. https://link.springer.com/chapter/10.1057/9781137296436_1
+- Lexikon der Psychologie — "Holzkamp", Spektrum. https://www.spektrum.de/lexikon/psychologie/holzkamp/6642
+

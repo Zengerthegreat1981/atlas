@@ -6,7 +6,7 @@ level: "متوسط"
 title: "لويز هولزمان"
 en: "Lois Holzman"
 crumb: "العلاج الاجتماعي ← مؤسسة مشاركة ← لويز هولزمان"
-dates: "الولايات المتحدة · وُلدت 1940"
+dates: "الولايات المتحدة · وُلدت 1946"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1978
@@ -42,3 +42,10 @@ gaps:
 - *Performing Psychology: A Postmodern Culture of the Mind* (1999).
 - *Revolutionizing Counseling: Lessons from the Social Therapy Project* (2012).
 - *Vygotsky at Work and Play* (2009).
+
+## المصادر
+
+- Lois Holzman, "About Me", loisholzman.org: https://loisholzman.org/about-me/
+- East Side Institute, "Lois Holzman": https://eastsideinstitute.org/about/our-people/lois-holzman/
+- East Side Institute, "Fred Newman": https://eastsideinstitute.org/about/our-people/fred-newman/
+- Wikipedia, "Lois Holzman": https://en.wikipedia.org/wiki/Lois_Holzman

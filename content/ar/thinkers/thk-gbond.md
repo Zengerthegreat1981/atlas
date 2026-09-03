@@ -43,3 +43,10 @@ gaps:
 
 - Bond, G. R., Drake, R. E., & Becker, D. R., "An update on randomized controlled trials of evidence-based supported employment" (2008).
 - *Individual Placement and Support: An Evidence-Based Approach to Supported Employment* (2012، مع دريك وبيكر).
+
+## المصادر
+
+- EEOC, "Written Testimony of Dr. Gary Bond, Professor of Psychiatry, Dartmouth Psychiatric Research Center" (2011): https://www.eeoc.gov/meetings/meeting-march-15-2011-employment-people-mental-disabilities/bond
+- Oxford University Press, *Individual Placement and Support* — Robert E. Drake; Gary R. Bond; Deborah R. Becker: https://global.oup.com/academic/product/individual-placement-and-support-9780199734016
+- Center for Evidence-Based Practices, Case Western Reserve University, "Supported Employment/Individual Placement & Support": https://www.centerforebp.case.edu/practices/se
+- Drake, R. E. et al. (2023), "Individual placement and support: History, current status, and future directions," *Psychiatry and Clinical Neurosciences Reports*: https://onlinelibrary.wiley.com/doi/full/10.1002/pcn5.122

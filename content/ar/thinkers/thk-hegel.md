@@ -21,7 +21,7 @@ related:
 - id: "thk-schelling", title: "فريدريش شيلينغ", type: "مفكر"
 - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
 - id: "con-dialectics", title: "الجدلية (Dialektik)", type: "مفهوم"
-- id: "rel-hegelianism-psychoanalysis", title: "الهيغلية والتحليل النفسي: من ماركس إلى لاكان", type: "علاقة بين مدرستين"
+- id: "rel-hegelianism-psychoanalysis", title: "الهيغلية والتحليل النفسي", type: "علاقة بين مدرستين"
 - id: "sch-german-idealism", title: "المثالية الألمانية (كمظلة)", type: "مدرسة"
 gaps:
   - "تواريخ النشر الدقيقة لبعض أعماله (خصوصاً أجزاء علم المنطق) قد تحتاج تحققاً من الطبعة الأصلية."
@@ -50,3 +50,10 @@ gaps:
 ## اقتباسات مختارة
 
 «كل ما هو عقلاني فهو واقعي، وكل ما هو واقعي فهو عقلاني.» — أصول فلسفة الحق، 1821<br>«بومة منيرفا لا تبدأ طيرانها إلا مع هبوط الغسق.» — أصول فلسفة الحق، 1821
+
+## المصادر
+
+- Hegel, G.W.F. *Phänomenologie des Geistes* (1807); *Wissenschaft der Logik* (1812–1816); *Enzyklopädie der philosophischen Wissenschaften* (1817); *Grundlinien der Philosophie des Rechts* (1821).
+- Stanford Encyclopedia of Philosophy, "Hegel's Dialectics" — plato.stanford.edu/entries/hegel-dialectics/
+- Beiser, F. (2005). *Hegel*. Routledge — على تحذيره من اختزال جدلية هيغل في مخطط "أطروحة–نقيض–تأليف" (Hegel نفسه لم يستخدم هذه الصياغة قط؛ فضّح ذلك مؤرخياً مقال Gustav Mueller "The Hegel Legend of 'Thesis-Antithesis-Synthesis'", 1958).
+- Kierkegaard, S. مصادر ثانوية عن علاقته النقدية بالهيغلية (انظر ملف thk-kierkegaard).

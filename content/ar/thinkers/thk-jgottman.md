@@ -51,3 +51,11 @@ gaps:
 - *The Relationship Cure* (2001).
 - *And Baby Makes Three* (2007).
 - *The Science of Trust* (2011).
+
+## المصادر
+
+- The Gottman Institute, "Frequently Asked Questions – Research," gottman.com/about/research/faq.
+- John M. Gottman & Julie Schwartz Gottman, "Predicting Marital Stability and Divorce in Newlywed Couples," johngottman.net.
+- Wikipedia, "John Gottman" (سيرة ذاتية: وُلد 26 أبريل 1942، أستاذ فخري بجامعة واشنطن منذ 2002).
+- نقد الاستنتاج بأثر رجعي (postdiction): ريتشارد هايمان وآمي سميث سليب في الأدبيات الأكاديمية، ولوري أبراهام، "Love in the Time of Algorithms" / تغطية صحفية 2010 حول حدود دقة نماذج غوتمان على عيّنات مستقلة.
+- John M. Gottman, *The Science of Trust: Emotional Attunement for Couples* (W. W. Norton, 2011).

@@ -14,19 +14,20 @@ language: "العربية، الفارسية، السنسكريتية"
 active_start: 995
 active_end: 1048
 edges:
-- rel: "belongs_to", target: "sch-manicheism", target_type: "مدرسة"
+- rel: "related_to", target: "sch-manicheism", target_type: "مدرسة"
 - rel: "criticized", target: "sch-gnosticism", target_type: "مدرسة"
 related:
-- id: "thk-mani", title: "ماني", type: "مفكر"
+- id: "thk-mani", title: "ماني (مؤسس المانوية)", type: "مفكر"
 - id: "sch-manicheism", title: "المانوية", type: "مدرسة"
-- id: "con-zurvan-infinite-time", title: "زورفان: الزمن اللانهائي", type: "مفهوم"
-- id: "con-emanation-islamic", title: "الفيضان الإلهي في الفلسفة الإسلامية", type: "مفهوم"
+- id: "con-zurvan-infinite-time", title: "زُروان والزمان اللانهائي (Zurvan / Infinite Time)", type: "مفهوم"
+- id: "con-emanation-islamic", title: "الفيض الإلهي (المشائية الإسلامية)", type: "مفهوم"
 gaps:
   - "سنة الميلاد الدقيقة للبيروني (973 أم 962) لا تزال موضع خلاف بين المصادر."
   - "نسب أعماله الفارسية التي فقد معظمها تحتاج مراجعة نقدية."
   - "ترجمة كتابه «آثار الباقية» إلى الألمانية والألمانية والإنجليزية تحتاج مقارَنة نصّية."
   - "علاقته بالبلاط الغزنوي وبخصوصيته مع سلطان محمود الغزنوي موثّقة جزئياً."
   - "موقفه من المانوية المختلف بينه وبين المسعودي لم يُدرس بشكل كافٍ."
+  - "علاقة البيروني النقدية المباشرة بـ'الغنوصية' (sch-gnosticism) كتيار مسمّى لم تُوثَّق بنص صريح؛ إشاراته في مصادره الأولية إلى تشابه ماني بأفكار غنوصية موثّقة بحثياً من الباحثين المعاصرين لا من نص بيروني صريح يستخدم المصطلح."
 ---
 
 # أبو الريحان البيروني
@@ -74,3 +75,11 @@ gaps:
 ## اقتباس مختار
 
 «ما رأيته من المانوية لا يخلو من معنى باطن، لكنّ كثيراً من كُتبهم ضاع، وأتباعهم قليلون مشرّدون، ومن يُسأل منهم يُجيب بحذر شديد لأنّ أديانهم مُلاحَقة في كل مكان.»
+
+## المصادر
+
+- Al-Biruni — Wikipedia: https://en.wikipedia.org/wiki/Al-Biruni
+- MacTutor History of Mathematics, "Al-Biruni (973–1048)": https://mathshistory.st-andrews.ac.uk/Biographies/Al-Biruni/
+- Britannica, "al-Bīrūnī": https://www.britannica.com/summary/al-Biruni
+- Skjærvø, P. O., *An Introduction to Manicheism* (على المانوية.de): https://www.manichaeism.de/wp-content/uploads/2024/01/Skjaervo-Introduction-to-Manichaeism.pdf
+- "Biruni on Mani and Manichaeism" (academia.edu): https://www.academia.edu/9072431/Biruni_on_Mani_and_Manichaeism

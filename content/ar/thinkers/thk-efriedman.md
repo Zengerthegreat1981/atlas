@@ -27,10 +27,10 @@ gaps:
 
 ## ما أعطاه
 
-- **"التدريب في بوين"**: تطوير مناهج تدريبية في النظرية البوينية.
-- **"تطبيقات الزواج"**: دراسات حول تطبيق النظرية البوينية على الأزواج.
-- **الانتقال عبر الأجيال**: قراءة المؤسسة الدينية بوصفها نسقاً انفعالياً تسري فيه القلق والأنماط العابرة للأجيال كما تسري في الأسرة.
-- **"برامج تثقيفية"**: تطوير مناهج تثقيفية للعائلات وفق النظرية البوينية.
+- **الانتقال عبر الأجيال**: قراءة المؤسسة الدينية (الكنيسة والمعبد) بوصفها نسقاً انفعالياً تسري فيه القلق والأنماط العابرة للأجيال كما تسري في الأسرة — أطروحة كتابه الرئيسي *Generation to Generation* (1985).
+- **مركز دراسة النسق الأسري (Center for Family Process, Bethesda)**: أسّسه ودرّب فيه أجيالاً من الإكلينيكيين ورجال الدين والقيادات المؤسسية على نظرية بوين.
+- **«القيادة المتمايزة ذاتياً» (self-differentiated leadership)**: نقل مفهوم بوين عن «التمايز عن الذات» من العيادة إلى القيادة التنظيمية — القائد الذي لا ينقاد لقلق الجماعة ولا يسعى لإرضائها، ونشره لاحقاً في *A Failure of Nerve* (نُشر بعد وفاته، 1999).
+- **الرئيس الأول للجمعية الأمريكية للعلاج الأسري (AFTA)**: شغل هذا المنصب لدورتين متتاليتين.
 
 ## موقعه من التيار
 
@@ -41,3 +41,9 @@ gaps:
 - *Generation to Generation: Family Process in Church and Synagogue* (1985).
 - *Friedman's Fables* (1990).
 - *A Failure of Nerve: Leadership in the Age of the Quick Fix* (نُشر بعد وفاته، 1999).
+
+## المصادر
+
+- Wikipedia, "Edwin Friedman": https://en.wikipedia.org/wiki/Edwin_Friedman
+- Guilford Press, "Generation to Generation: Family Process in Church and Synagogue": https://www.guilford.com/books/Generation-to-Generation/Edwin-Friedman/9781609182366
+- "The Edwin Friedman Model of Family Systems Thinking", Fort Hays State University: https://scholars.fhsu.edu/cgi/viewcontent.cgi?article=1115&context=alj

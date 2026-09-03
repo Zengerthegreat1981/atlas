@@ -16,7 +16,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
-- id: "wrk-tipping-point", title: "نقطة التحول", type: "عمل / كتاب"
+- id: "wrk-tipping-point", title: "نقطة التحول: كيف يمكن للأشياء الصغيرة أن تحدث فرقاً كبيراً", type: "عمل / كتاب"
 - id: "wrk-blink", title: "التفكير اللماح: قوة التفكير بدون تفكير", type: "عمل / كتاب"
 - id: "wrk-outliers", title: "المتميزون: قصة النجاح", type: "عمل / كتاب"
 gaps:
@@ -55,4 +55,11 @@ gaps:
 - *Outliers* (2008).
 - *David and Goliath* (2013).
 - *Talking to Strangers* (2019).
+
+## المصادر
+
+- Malcolm Gladwell — Wikipedia: https://en.wikipedia.org/wiki/Malcolm_Gladwell
+- Britannica, "Malcolm Gladwell": https://www.britannica.com/biography/Malcolm-Gladwell
+- Macnamara, B. N., Hambrick, D. Z., & Oswald, F. L. (2014). "Deliberate Practice and Performance in Music, Games, Sports, Education, and Professions: A Meta-Analysis." *Psychological Science*.
+- Salon (2016), "Malcolm Gladwell got us wrong: Our research was key to the 10,000-hour rule, but here's what got oversimplified" (تصريح أندرس إريكسون وزملائه): https://www.salon.com/2016/04/10/malcolm_gladwell_got_us_wrong_our_research_was_key_to_the_10000_hour_rule_but_heres_what_got_oversimplified/
 

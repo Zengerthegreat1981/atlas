@@ -15,11 +15,11 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-- id: "thk-mbuber", title: "مارتن بوبر", type: "مفكر"
+- id: "thk-mbuber", title: "مارتن بُبَر", type: "مفكر"
 - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق من *Intimations of Presence* (2008) بترجمة عربية معتمدة."
+  - "لا يوجد اقتباس مباشر موثوق من *Intimacy, Transcendence, and Psychology* (2008) بترجمة عربية معتمدة."
   - "أبحاثه الفينومينولوجية الإكلينيكية حول ظاهرة المغفرة (Forgiveness) واليأس تستحق توثيقاً."
 ---
 
@@ -40,4 +40,11 @@ gaps:
 
 ## أهم أعماله
 
-إيماءات الحضور: تأمّلات وجودية وفينومينولوجية (Intimations of Presence: Existential and Phenomenological Reflections, 2008) · «الفينومينولوجيا الحوارية» بوصفها منهج بحث جماعياً طوّره مع جان أ. رو ومايكل ليفتون في جامعة سياتل — يشتغل فيه فريق من الباحثين على الظاهرة نفسها بالحوار بدل التحليل المنفرد.
+الألفة والتعالي وعلم النفس: القرب والانفتاح في الحياة اليومية (Intimacy, Transcendence, and Psychology: Closeness and Openness in Everyday Life, Palgrave Macmillan, 2008) · «الفينومينولوجيا الحوارية» (Dialogal Phenomenology) بوصفها منهج بحث جماعياً طوّره مع جان أو. رو (Jan O. Rowe) ومايكل ليفر (Michael Leifer) في جامعة سياتل — يشتغل فيه فريق من الباحثين على الظاهرة نفسها بالحوار بدل التحليل المنفرد، وأبرز تطبيقاته دراستهم المشتركة عن نشوء الغفران (Emergence of the Dialogal Approach: Forgiving Another, 2006).
+
+## المصادر
+
+- Steen Halling, *Intimacy, Transcendence, and Psychology: Closeness and Openness in Everyday Life* (Palgrave Macmillan, 2008).
+- Steen Halling, Georg Kunz, Jan O. Rowe, "The Contributions of Dialogal Psychology to Phenomenological Research," *Journal of Humanistic Psychology*, 1994.
+- Halling, Leifer, Rowe, "Emergence of the Dialogal Approach: Forgiving Another," in *The Handbook of Phenomenological Psychology* (2006).
+- Seattle University, صفحة السيرة الرسمية لستين هالينغ: seattleu.edu/directory/profiles/steen-halling-phd.php

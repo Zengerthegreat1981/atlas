@@ -20,8 +20,8 @@ related:
 - id: "thk-ejung", title: "إيما يونغ", type: "مفكر"
 - id: "thk-twolff", title: "توني فولف", type: "مفكر"
 gaps:
-  - "سنتا الميلاد والوفاة تحتاجان تأكيداً من سجلّ معهد يونغ في زيورخ."
   - "لا يوجد اقتباس مباشر موثوق من *Striving Towards Wholeness* (1971) بترجمة عربية معتمدة."
+  - "تفاصيل مسيرتها كرسّامة في لندن وباريس قبل انتقالها إلى زيورخ عام 1929 — مصادرها الأولية غير مؤكَّدة بدقة."
 ---
 
 # بربارة حنّة
@@ -41,4 +41,11 @@ gaps:
 
 ## أهم أعمالها
 
-السعي نحو الكلّية (Striving Towards Wholeness, 1971) — دراستها في الأركيتيبات الأنثوية عبر أخوات برونتي وروبرت لويس ستيفنسون وغيرهم · يونغ: حياته وعمله، شهادة سيرية (Jung: His Life and Work, A Biographical Memoir, 1976) · لقاءات مع النفس: التخيّل الفعّال كما طوّره ك. غ. يونغ (Encounters with the Soul: Active Imagination, 1981) · محاضرات القطّ والكلب والحصان (The Cat, Dog and Horse Lectures، صدرت بعد وفاتها عام 1992).
+السعي نحو الكلّية (Striving Towards Wholeness, 1971) — دراستها في الأركيتيبات الأنثوية عبر أخوات برونتي وروبرت لويس ستيفنسون وغيرهم · يونغ: حياته وعمله، شهادة سيرية (Jung: His Life and Work, A Biographical Memoir, 1976) · لقاءات مع النفس: التخيّل الفعّال كما طوّره ك. غ. يونغ (Encounters with the Soul: Active Imagination, 1981) · محاضرات القطّ والكلب والحصان (The Cat, Dog and Horse Lectures، صدرت بعد وفاتها).
+
+## المصادر
+
+- "Barbara Hannah", Wikipedia (تاريخ الميلاد 2 آب/أغسطس 1891 في برايتون، والوفاة 4 أيلول/سبتمبر 1986 في كوسناخت، سويسرا؛ بداية تحليلها مع يونغ عام 1929).
+- Barbara Hannah, *Jung: His Life and Work, A Biographical Memoir*, G.P. Putnam's Sons, 1976.
+- C.G. Jung Foundation (New York), صفحة "Barbara Hannah (1891–1986), Striving Towards Wholeness".
+- Psychology Club Zürich, أرشيف "Barbara Hannah".

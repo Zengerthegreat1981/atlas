@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-pythagorean", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "التواريخ المسجَّلة (428–347 ق.م) مطابقة حرفياً لتواريخ أفلاطون؛ التقدير المعتمد لأرخيتاس نحو 435–360 ق.م. تحتاج تحققاً من مصدر."
+  - "تواريخ حياته غير مؤكَّدة يقيناً في المصادر القديمة؛ نسخة 1911 من موسوعة بريتانيكا تنقل 428–347 ق.م. (وهي التواريخ المستعملة هنا)، بينما تذكر مصادر حديثة (مثل MacTutor) نحو 428–350 ق.م. أو نطاقات مقاربة (435/410–360/350 ق.م.)؛ التطابق الظاهري مع تواريخ أفلاطون تقريبي وناتج عن تقدير تقليدي مشترك، لا عن خطأ نسخ."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
 ---
 
@@ -45,3 +45,10 @@ gaps:
 ## اقتباسات مختارة
 
 «كنت لأعاقبك لولا أنني غاضب.» (منسوب إليه عند شيشرون وغيره)
+
+## المصادر
+
+- Encyclopaedia Britannica — "Archytas of Tarentum" (britannica.com/biography/Archytas-of-Tarentum).
+- O'Connor, J. J. & Robertson, E. F. — "Archytas of Tarentum", MacTutor History of Mathematics (mathshistory.st-andrews.ac.uk/Biographies/Archytas/).
+- Huffman, C. — "Archytas", Stanford Encyclopedia of Philosophy (plato.stanford.edu/entries/archytas/).
+- 1911 Encyclopædia Britannica/Archytas (وثيقة أصل التاريخين 428–347 ق.م. المستعملَين في هذا الملف).
