@@ -377,3 +377,10 @@ redirect_to: wrk-sartre-being-and-nothingness
 (*Self-Compassion: The Proven Power of Being Kind to Yourself*)، نفس المؤلّفة (نِف)،
 نفس السنة (2011). النمط الثاني (لاحقة المؤلّف). **لم يلتقطه كشّاف `author_slug`+`publication_year`
 في الجولة السابقة** — يستحقّ فحصاً لماذا (على الأرجح أحد الملفَّين بلا `author_slug` مُعبَّأ).
+
+## إضافة — المجموعة 38: فينومينولوجيا الإدراك (وجدها وكيل في 6.7)
+
+`wrk-phenomenology-of-perception-merleau-ponty` ⇄ `wrk-phenomenology-perception-merleau-ponty`
+— الفرق بينهما كلمة **"of"** واحدة فقط في الـslug الإنجليزي. نفس الكتاب، صياغة مختلفة.
+النمط الثاني (تنويع طفيف في الـslug لا لاحقة مؤلّف). الطرف المعمَّق في 6.7 هو `...-of-...`
+(4,692 حرفاً).
