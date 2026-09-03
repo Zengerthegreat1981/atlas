@@ -6,20 +6,22 @@ level: "متقدم"
 title: "ديفيد بوعِلّا"
 en: "David Boadella"
 crumb: "علم نفس الجسد ← الناس ← Biosynthesis ← ديفيد بوعِلّا"
-dates: "بريطانيا · 1931–2022"
+dates: "بريطانيا · 1931–2021"
 country: "المملكة المتحدة"
 language: "الإنجليزية"
 part: "psychology"
 active_start: null
-active_end: 2022
+active_end: 2021
 edges:
 - rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
 related:
 - id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
 - id: "thk-raknes", title: "أولا راكنيس", type: "مفكر"
 gaps:
+  - "تصحيح: سنة الوفاة كانت مسجَّلة خطأً 2022؛ المصادر المستقلة (Body, Movement and Dance in Psychotherapy، ومركز EABS/Biosynthesis اليوناني) تُجمع على أنه توفي في 19 نوفمبر 2021، وليس 2022."
+  - "edges.belongs_to يشير إلى sch-somatic-experiencing (التجربة الجسدية، مدرسة بيتر ليفين)، وهذا غير دقيق: بوعِلّا مؤسِّس Biosynthesis (التخليق الحيوي)، وهي مدرسة مستقلة عن Somatic Experiencing ولا يوجد لها حالياً ملف مدرسة مستقل (sch-*) في الأطلس؛ الرابط الحالي أُبقي مؤقتاً لغياب بديل صحيح، ويجب تصحيحه أو حذفه إذا أُنشئ ملف مدرسة خاص بـBiosynthesis لاحقاً."
   - "لا يوجد اقتباس مباشر موثوق من *فيلهلم رايخ: تطوّر عمله* (1973) بترجمة عربية معتمدة."
-  - "عنوان كتابه لعام 1987 صُحِّح: كان الملف ينسب له كتاباً بعنوان «الاضطراب الجسدي» (Somatization)، لكن عمله الفعلي لهذا التاريخ هو 'Lifestreams: An Introduction to Biosynthesis'."
+  - "عنوان كتاب 1993 (*Body in Transformation*) لم يُتحقق منه حرفياً من فهرس ناشر مستقل؛ التأكيد المتاح هو صدور كتاب لبوعِلّا عن دار Coventure سنة 1993 (ISBN 0904576582) دون تأكيد نص العنوان الإنجليزي بدقة."
 ---
 
 # ديفيد بوعِلّا
@@ -35,8 +37,17 @@ gaps:
 من «المؤرّخين-الممارسين» في التراث الرايخي. حلقة الوصل بين Reich (التاريخي) وBiosynthesis (المعاصر). أسّس مركزاً تدريبياً في لندن، وربط تراث رايخ بعلاج الجشطالت عند فريتز بيرلز.
 
 ## القيد
-مُدرج هنا كـ«مؤرّخ رايخي» ولأهميته المؤسسية في بريطانيا. وفاته 2022 حديثة، فمعظم تأثيره لم يُقيَّم بعد.
+مُدرج هنا كـ«مؤرّخ رايخي» ولأهميته المؤسسية في بريطانيا. وفاته في 19 نوفمبر 2021 حديثة نسبياً، فمعظم تأثيره لم يُقيَّم بعد.
 
 ## أهم أعماله
 
-«فيلهلم رايخ: تطوّر عمله» (Wilhelm Reich: The Evolution of His Work, 1973) · «Lifestreams: مدخل إلى التخليق الحيوي» (Lifestreams: An Introduction to Biosynthesis, 1987) · «جسد في طور التحوّل» (Body in Transformation, 1993).
+«فيلهلم رايخ: تطوّر عمله» (Wilhelm Reich: The Evolution of His Work, 1973) · «Lifestreams: مدخل إلى التخليق الحيوي» (Lifestreams: An Introduction to Biosynthesis, 1987) · «جسد في طور التحوّل» (Body in Transformation, 1993 تقريباً).
+
+## المصادر
+
+- [David Boadella — Wikidata](https://www.wikidata.org/wiki/Q350577)
+- [David Boadella – ويكيبيديا الألمانية](https://de.wikipedia.org/wiki/David_Boadella)
+- [David Boadella 1931–2021 "Etwas geht immer weiter" — Body, Movement and Dance in Psychotherapy (تقرير وفاة أكاديمي)](https://www.tandfonline.com/doi/full/10.1080/17432979.2022.2032643)
+- [David Boadella — معهد Biosynthesis الدولي](http://www.biosynthesis.org/html/david_boadella.html)
+- [مقابلة مع David Boadella، بقلم Esther Frankel — USA Body Psychotherapy Journal، 2006](https://www.ibpj.org/issues/bin/Vol5No1%20USABP%20Journal%202006%20-%20Boadella.pdf)
+- [Lifestreams: An Introduction to Biosynthesis — Routledge](https://www.routledge.com/Lifestreams-An-Introduction-to-Biosynthesis/Boadella/p/book/9781138829565)

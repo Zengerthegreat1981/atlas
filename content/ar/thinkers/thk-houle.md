@@ -39,4 +39,11 @@ gaps:
 
 ## أهم أعماله
 
-العقل المستفسر (The Inquiring Mind, 1961) · مواصلة التعلم (Continuing Learning in the Professions, 1980).
+العقل المستفسر (The Inquiring Mind, 1961، صدر عن University of Wisconsin Press) · مواصلة التعلم (Continuing Learning in the Professions, 1980).
+
+## المصادر
+
+- [In memoriam: Cyril Houle, Professor Emeritus in Education — The University of Chicago Chronicle](http://chronicle.uchicago.edu/980528/houle.shtml)
+- [THE INQUIRING MIND. By Cyril O. Houle — Semantic Scholar](https://www.semanticscholar.org/paper/THE-INQUIRING-MIND.-By-Cyril-O.-Houle.-The-of-1961.-Whipple-Williams/f58463b267a41def0f6f7cde0a2ef48af29fa567)
+- [Cyril O. Houle Award — American Association for Adult and Continuing Education](https://www.aaace.org/page/CyrilOHoule)
+- [Cyril O. Houle Papers — Syracuse University Library finding aid](https://library.syracuse.edu/digital/guides/h/houle_co.htm)

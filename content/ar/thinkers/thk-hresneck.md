@@ -44,4 +44,11 @@ gaps:
 
 ## أهم أعمالها
 
-مقالات في دورية *Bioenergetic Analysis* حول التحويل المضاد الجسدي وحدود اللمس والعرق في العلاج الجسدي · مساهمات في مجلّدات التدريب الصادرة عن IIBA.
+مقالات في دورية *Bioenergetic Analysis* حول التحويل المضاد الجسدي وحدود اللمس والعرق في العلاج الجسدي (منها "The Embodied Mind"، مقالة وليست كتاباً) · مساهمات في مجلّدات التدريب الصادرة عن IIBA · مذكّرات شخصية بعنوان *Father's Rooms* عن رعاية والدها المصاب بالزهايمر.
+
+## المصادر
+
+- [Helen Resneck-Sannes, "The Embodied Mind" — Bioenergetic Analysis journal](https://bioenergetic-analysis.com/article/view/0743-4804-2007-17-39)
+- [Helen Resneck-Sannes — بروفايل IIBA (Institute for Bioenergetic Therapy)](https://bioenergetic-therapy.com/index.php/en/cb-profile/mildred)
+- [Guy Tonella, Helen Resneck-Sannes, Bob Lewis — Bioenergetic Analysis journal](https://bioenergetic-analysis.com/article/download/0743-4804-2010-20-9/pdf/1543)
+- [Helen Resneck-Sannes, "Bioenergetics: Past, Present and Future" — psychosozial-verlag.de (PDF)](https://psychosozial-verlag.de/resources/openaccess_pdf/36164.pdf)

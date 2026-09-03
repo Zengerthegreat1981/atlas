@@ -15,8 +15,8 @@ part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-- id: "br-daseins", title: "التحليل الوجودي", type: "تيار"
-- id: "dbt-boss-binswanger", title: "خصومة قراءته", type: "جدل"
+- id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
+- id: "dbt-boss-binswanger", title: "بينسوانغر أم بوس؟", type: "جدل"
 - id: "thk-boss", title: "ميدارد بوس", type: "مفكر"
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
 - id: "crt-feminist-critique-heidegger", title: "النقد النسوي لحياد الدازاين الجنساني", type: "نقد خارجي موثَّق"
@@ -114,3 +114,10 @@ gaps:
 ## اقتباسات مختارة
 
 «كينونة الدازاين هي الانشغال (Sorge).» — الوجود والزمان، 1927<br>«اللغة بيت الوجود.» — رسالة في الإنسانوية، 1947
+
+## المصادر
+
+- Stanford Encyclopedia of Philosophy, "Martin Heidegger": https://plato.stanford.edu/entries/heidegger/
+- Wikipedia (English), "Being and Time": https://en.wikipedia.org/wiki/Being_and_Time
+- Wikipedia (English), "Martin Heidegger": https://en.wikipedia.org/wiki/Martin_Heidegger
+- Encyclopaedia Britannica, "Martin Heidegger": https://www.britannica.com/biography/Martin-Heidegger

@@ -43,3 +43,10 @@ gaps:
 ## أهم أعماله
 
 محاضرات الثلاثاء في السالبتريير (Leçons du mardi à la Salpêtrière, 1887–1889).
+
+## المصادر
+
+- [Jean-Martin Charcot — Wikipedia](https://en.wikipedia.org/wiki/Jean-Martin_Charcot)
+- [Britannica — Jean-Martin Charcot](https://www.britannica.com/biography/Jean-Martin-Charcot)
+- [The life and work of Jean-Martin Charcot (1825–1893): 'The Napoleon of Neuroses' — PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5810866/)
+- [MedLink Neurology — Jean-Martin Charcot: The father of modern neurology](https://www.medlink.com/news/jean-martin-charcot-the-father-of-modern-neurology)

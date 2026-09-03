@@ -5,16 +5,17 @@ type: "مفكر"
 level: "متقدم"
 title: "جيرالد باترسون"
 en: "Gerald R. Patterson"
-dates: "الولايات المتحدة · 1926–2022"
+dates: "الولايات المتحدة · 1926–2016"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1965
-active_end: 2022
+active_end: 2016
 part: "psychology"
 crumb: "العلاج السلوكي الأسري ← مركز أوريغون للتعلّم الاجتماعي ← جيرالد باترسون"
 edges: []
 related: []
 gaps:
+  - "تصحيح: كانت سنة الوفاة مذكورة خطأً 2022؛ الصواب الموثَّق من عدة مصادر مستقلة (PubMed، The Lancet، Perspectives on Behavior Science) هو أنه توفي في 22 أغسطس 2016 في يوجين، أوريغون، عن عمر 90 عاماً، وولد في 24 يوليو 1926 في ليزبون، داكوتا الشمالية. صُحِّحت `dates` و`active_end` تبعاً لذلك."
   - "لا يوجد اقتباس مباشر موثوق من *A Social Learning Approach, Vol. 3: Coercive Family Process* (1982) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: برنارد روزن (thk-brosen)."
   - "رابط هوارد ليدل (thk-hliddle) أُزيل من related: المتن نفسه يوضّح في قسم «تصحيح» أن MDFT نموذج مستقلّ لليدل لا ينتمي إلى شجرة باترسون، فإبقاء الرابط كان يناقض التصحيح المذكور في المتن."
@@ -49,3 +50,11 @@ gaps:
 - *Families: Applications of Social Learning to Family Life* (1971).
 - *A Social Learning Approach, Vol. 3: Coercive Family Process* (1982) — عرضه النظري الكامل.
 - *Antisocial Boys* (1992، مع جون ريد وتوم ديشِن).
+
+## المصادر
+
+- [In Memoriam: Gerald Roy Patterson (1926–2016) — Perspectives on Behavior Science (Springer)](https://link.springer.com/article/10.1007/s40614-017-0084-y)
+- [Gerald Roy Patterson (1926-2016) — PubMed](https://pubmed.ncbi.nlm.nih.gov/29016181/)
+- [Gerald Roy Patterson — Obituary, The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)31925-0/fulltext)
+- [Gerald R. Patterson, Ph.D. — Oregon Social Learning Center](https://www.oslc.org/blog/scientist/gerald-r-patterson/)
+- [VITA: Gerald R. Patterson — Oregon Social Learning Center (PDF)](https://www.oslc.org/wp-content/uploads/2014/08/patterson.pdf)

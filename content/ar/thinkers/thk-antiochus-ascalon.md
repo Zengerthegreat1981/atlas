@@ -40,3 +40,10 @@ gaps:
 - *Sosus* و*Canonica* — مفقودة.
 - مذهبه محفوظ في *Academica* و*De Finibus* لشيشرون.
 
+## المصادر
+
+- [Antiochus of Ascalon — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/antiochus-ascalon/)
+- [Antiochus of Ascalon — Wikipedia](https://en.wikipedia.org/wiki/Antiochus_of_Ascalon)
+- [Antiochus of Ascalon — Encyclopædia Britannica](https://www.britannica.com/biography/Antiochus-of-Ascalon)
+- [Middle Platonism — Internet Encyclopedia of Philosophy](https://iep.utm.edu/midplato/)
+

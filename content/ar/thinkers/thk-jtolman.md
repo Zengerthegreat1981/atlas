@@ -28,3 +28,10 @@ gaps:
 # جينيفر تولمان
 
 **هذا الملف بلا سيرة بعد.** لم يُعثر على مصدر مستقل يوثّق معالجة أو باحثة بهذا الاسم في أدبيات العلاج الاجتماعي أو منشورات East Side Institute. ما كان مكتوباً هنا من دعاوى — مقاربة تربط النسوية بالعلاج الاجتماعي، نموذج مجموعات نسوية، دراسات عن صوت المرأة في العلاج — حُذف كله لتعذّر توثيق أيٍّ منه؛ يبدو أن هذه الدعاوى كانت منسوبة فعلياً لشخص آخر (لويز هولزمان). انظر `gaps` لتفاصيل قرار الحجر وتاريخه.
+
+## المصادر
+
+- [East Side Institute — Social Therapy](https://eastsideinstitute.org/about/social-therapeutics/social-therapy/) — لا ذِكر لأي "Jennifer Tolman" ضمن مطوّري أو معلّمي العلاج الاجتماعي.
+- [East Side Institute — Our People](https://eastsideinstitute.org/about/our-people/) — قائمة الفريق لا تضمّ هذا الاسم.
+- [Lois Holzman — East Side Institute](https://eastsideinstitute.org/about/our-people/lois-holzman/) — المؤسِّسة المشاركة الفعلية للعلاج الاجتماعي مع فريد نيومان (1985)، وهي الشخصية التي يبدو أن الدعاوى المحذوفة كانت تخصّها فعلياً.
+- [Lois Holzman — Wikipedia](https://en.wikipedia.org/wiki/Lois_Holzman)

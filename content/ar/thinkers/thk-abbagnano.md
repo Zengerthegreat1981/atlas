@@ -42,3 +42,10 @@ gaps:
 ## أهم أعماله
 
 بنية الوجود (La struttura dell'esistenza, 1939) · مقدمة إلى الوجودية (Introduzione all'esistenzialismo, 1942) · الوجودية الإيجابية (Esistenzialismo positivo, 1948) · معجم الفلسفة (Dizionario di filosofia, 1961).
+
+## المصادر
+
+- [Nicola Abbagnano — Encyclopædia Britannica](https://www.britannica.com/biography/Nicola-Abbagnano)
+- [Nicola Abbagnano — Wikipedia](https://en.wikipedia.org/wiki/Nicola_Abbagnano)
+- [Abbagnano, Nicola (1901–1990) — Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/abbagnano-nicola-1901-1990)
+- [Introduzione all'esistenzialismo — abbagnanofilosofo.it (أرشيف أعماله)](https://www.abbagnanofilosofo.it/opere.php)

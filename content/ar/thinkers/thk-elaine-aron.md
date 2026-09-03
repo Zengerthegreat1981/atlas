@@ -14,10 +14,10 @@ active_start: 1990
 active_end: "مستمر"
 edges: []
 related:
-- id: "wrk-highly-sensitive-person", title: "الشخص عالي الحساسية", type: "عمل / كتاب"
+- id: "wrk-highly-sensitive-person", title: "الشخص عالي الحساسية: كيف تزدهر عندما يغمرك العالم", type: "عمل / كتاب"
 - id: "con-highly-sensitive-person", title: "الشخص عالي الحساسية (حساسية المعالجة الحسية HSP)", type: "مفهوم"
 gaps:
-  - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
+  - "مؤكَّد عبر ويكيبيديا الإنجليزية وموقعها الرسمي hsperson.com: وُلدت في 1 نوفمبر 1944؛ بكالوريوس من جامعة كاليفورنيا-بيركلي (Phi Beta Kappa)، ماجستير علم نفس إكلينيكي من جامعة يورك، ودكتوراه في علم النفس العميق الإكلينيكي من معهد Pacifica Graduate Institute. بدأت دراسة سمة الحساسية العالية سنة 1991، ونشرت مع زوجها آرثر آرون مقياس HSPS سنة 1997، وصدر كتابها *The Highly Sensitive Person* سنة 1996."
   - "لا يوجد اقتباس مباشر موثوق من *The Highly Sensitive Person* (1996) بترجمة عربية معتمدة."
   - "روابط سابقة إلى إدموند هوسرل وجان بول سارتر و«أفيون المثقفين» حُذفت: هذه تخص المفكر الفرنسي ريمون آرون (Raymond Aron) وهو شخص مختلف تماماً خُلط اسمه خطأً بإيلين آرون (Elaine N. Aron) بسبب تشابه الكنية."
   - "الجدول edges.belongs_to كان يشير إلى نص حر غير مطابق لأي slug معتمد؛ أُفرغ الحقل لحين تحديد slug مناسب."
@@ -54,3 +54,8 @@ gaps:
 - *The Highly Sensitive Person* (1996).
 - *The Highly Sensitive Child* (2002).
 - *The Highly Sensitive Person in Love* (2000).
+
+## المصادر
+- Wikipedia (English), "Elaine Aron": https://en.wikipedia.org/wiki/Elaine_Aron
+- Official site, "About Dr. Elaine Aron": https://hsperson.com/about-dr-elaine-aron/
+- Aron, E.N. & Aron, A. (1997), "Sensory-Processing Sensitivity and Its Relation to Introversion and Emotionality", Journal of Personality and Social Psychology.

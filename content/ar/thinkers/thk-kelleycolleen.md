@@ -21,14 +21,16 @@ related:
 - id: "thk-bruceperkins", title: "بروس بيركنز", type: "مفكر"
 - id: "thk-marisaberkouwer", title: "ماريسا بيركوور", type: "مفكر"
 gaps:
-  - "سنة الميلاد غير موثقة في هذا المسوّد."
-  - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."
+  - "**مرشح للحجر (تحقّق سلبي)**: بحث ويب مباشر عن 'Colleen Kelley' + Sensorimotor Psychotherapy/Pat Ogden لم يُظهر أي أثر مستقل لشخص بهذا الاسم كمطوِّرة أو مدرِّبة معتمدة في هذا التيار. موقع Sensorimotor Psychotherapy Institute يضمّ مدرّبة باسم قريب هو 'Kelley L. Callahan' (وليس Colleen Kelley)، وقد يكون الملف خلطاً بين الاسمين أو تلفيقاً. كتاب *Sensorimotor Psychotherapy: Interventions for Trauma and Attachment* (2015) مؤلَّفاه الفعليان هما Pat Ogden و Janina Fisher، وليس فيه أي مؤلفة باسم Colleen Kelley — العزو الوارد سابقاً في هذا الملف لهذا الكتاب كان خاطئاً وتم حذفه."
+  - "سنة الميلاد غير موثقة."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
 ---
 
 # كولين كيلي
 
-معالجة نفسية أمريكية، من المساهمين البارزين في تطوير **العلاج الحسي-الحركي** (Sensorimotor Psychotherapy) إلى جانب بات أوغدن.
+**تنبيه تحقق**: لم يُعثر في هذا البحث على أي مصدر مستقل يوثّق وجود معالجة نفسية أمريكية بهذا الاسم كمساهمة في تطوير العلاج الحسي-الحركي. الاسم الأقرب الموثَّق في سجلات معهد Sensorimotor Psychotherapy Institute هو "Kelley L. Callahan"، وهو شخص مختلف. يُحتمل أن يكون هذا الملف خلطاً في الأسماء أو تلفيقاً؛ يُوصى بمراجعته كمرشح للحجر حتى يُعثر على مصدر أولي يثبت وجود الشخص ومساهماتها.
+
+معالجة نفسية أمريكية، يُزعم أنها من المساهمين في تطوير **العلاج الحسي-الحركي** (Sensorimotor Psychotherapy) إلى جانب بات أوغدن — لم يتم التحقق من هذا الادعاء.
 
 ## ما أعطته
 
@@ -43,4 +45,9 @@ gaps:
 
 ## أهم أعمالها
 
-- مساهمات في *Sensorimotor Psychotherapy: Interventions for Trauma and Attachment* (مع أوغدن، 2015).
+- لم يتم العثور على مؤلَّفات موثَّقة منسوبة لهذا الاسم في مصادر مستقلة. **تصحيح**: كتاب *Sensorimotor Psychotherapy: Interventions for Trauma and Attachment* (2015) من تأليف Pat Ogden و Janina Fisher حصراً — لا وجود لمؤلفة باسم Colleen Kelley في هذا العمل؛ الإسناد السابق في هذا الملف كان خطأً وقد أُزيل.
+
+## المصادر
+
+- Sensorimotor Psychotherapy Institute — قائمة المدرّبين المعتمدين: https://sensorimotorpsychotherapy.org/community/sp-trainers/
+- Ogden, P., & Fisher, J. (2015). *Sensorimotor Psychotherapy: Interventions for Trauma and Attachment*. Norton. (صفحة الناشر/أمازون): https://www.amazon.com/Sensorimotor-Psychotherapy-Interventions-Interpersonal-Neurobiology/dp/0393706133

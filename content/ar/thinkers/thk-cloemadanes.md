@@ -4,9 +4,9 @@ id: "THK-0846"
 type: "مفكر"
 level: "متقدم"
 title: "كلوي مادانيس"
-en: "Cloe Madanes"
+en: "Cloé Madanes"
 crumb: "العلاج الأسري الاستراتيجي (بالي ألتو/MRI) ← تطوير ← كلوي مادانيس"
-dates: "الأرجنتين/الولايات المتحدة · 1937–"
+dates: "الأرجنتين/الولايات المتحدة · 1940–"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1970
@@ -15,8 +15,9 @@ part: "philosophy"
 edges:
 - rel: "belongs_to", target: "tec-strategic-family-therapy", target_type: "تقنية/تدخل علاجي"
 gaps:
-  - "سنة الميلاد تم تقديرها من سياقات السيرة، يرجى التحقق من مصدر أولي."
+  - "سنة الميلاد صُحِّحت إلى 1940 (بحسب ويكيبيديا الإنجليزية وWikidata)؛ بعض المصادر الثانوية تذكر 1945 — لم يُعثر على مصدر أولي حاسم يحسم الخلاف."
   - "لا يوجد اقتباس مباشر موثوق من «العلاج الأسري الاستراتيجي» (Strategic Family Therapy, 1981) بترجمة عربية معتمدة."
+  - "علاقتها بجاي هالي: كانا زوجين ومؤسِّسَين مشاركين لـ Family Therapy Institute of Washington, D.C. (1976)؛ هذا التفصيل غير مذكور في المتن أعلاه ويستحق إضافة عند التوسّع."
 ---
 
 # كلوي مادانيس
@@ -39,3 +40,10 @@ gaps:
 - *Strategic Family Therapy* (1981).
 - *Behind the One-Way Mirror* (1981).
 - *The Therapist as Humanitarian* (1991).
+
+## المصادر
+
+- [Cloé Madanes — Wikipedia](https://en.wikipedia.org/wiki/Clo%C3%A9_Madanes)
+- [Cloe Madanes — Wikidata](https://www.wikidata.org/wiki/Q5134868)
+- [GoodTherapy — Cloe Madanes Biography](https://www.goodtherapy.org/famous-psychologists/cloe-madanes.html)
+- [European Family Therapy Association — Cloe Madanes](https://europeanfamilytherapy.eu/cloe-madanes/)

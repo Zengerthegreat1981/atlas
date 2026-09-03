@@ -48,3 +48,10 @@ gaps:
 - De Institutione Musica
 - ترجمة Organon لأرسطو
 - التعليقات على Porphyry وCicero
+
+## المصادر
+
+- [Boethius (480–524) — MacTutor History of Mathematics](https://mathshistory.st-andrews.ac.uk/Biographies/Boethius/)
+- [Boethius, The Consolation of Philosophy (524) — Liberty Fund / Online Library of Liberty](https://files.libertyfund.org/files/1178/Boethius_0543.pdf)
+- [De consolatione philosophiae — National Library of Wales, digital exhibition](https://www.library.wales/discover-learn/digital-exhibitions/manuscripts/the-middle-ages/de-consolatione-philosophiae)
+- [Boethius — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/boethius/)

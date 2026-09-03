@@ -16,17 +16,18 @@ edges:
 - rel: "belongs_to", target: "sch-indigenous-philosophy-contemporary", target_type: "مدرسة"
 - rel: "related_to", target: "sch-indigenous-psychology", target_type: "مدرسة"
 related:
-- id: "sch-indigenous-philosophy-contemporary", title: "فلسفات السكان الأصليين المعاصرة", type: "مدرسة"
+- id: "sch-indigenous-philosophy-contemporary", title: "فلسفات السكان الأصليين المعاصرة (كمظلة نقدية عابرة للمناطق)", type: "مدرسة"
 - id: "sch-indigenous-psychology", title: "علم نفس الشعوب الأصلية", type: "مدرسة"
-- id: "con-land-based-healing", title: "الشفاء القائم على الأرض", type: "مفهوم"
+- id: "con-land-based-healing", title: "الشفاء القائم على الأرض (Land-Based Healing)", type: "مفهوم"
 gaps:
   - "لم تُراجع بعدُ طبعة Milkweed Editions الأصلية لـ *Braiding Sweetgrass* (2013)."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."
+  - "تحديث: حازت المؤلفة على منحة MacArthur Fellowship عام 2022؛ لم يكن هذا مذكوراً في المسودة السابقة."
 ---
 
 # روبن وال كيميرير
 
-عالمة نبات أمريكية من أصل **بوتاواتومي** (Potawatomi)، أستاذة في SUNY College of Environmental Science and Forestry. تُمثّل صَوتاً فلسفياً فريداً في **العلاقة بين العلم والإيكولوجيا والروحانية الأصلية**.
+عالمة نبات أمريكية من أصل **بوتاواتومي** (Potawatomi)، وُلدت عام 1953، أستاذة متميّزة في التدريس (Distinguished Teaching Professor) بجامعة SUNY College of Environmental Science and Forestry (ESF)، والمؤسِّسة والمديرة لِـ**مركز الشعوب الأصلية والبيئة** (Center for Native Peoples and the Environment) الذي شاركت في تأسيسه هناك عام 2006. حازت على **منحة ماك آرثر** (MacArthur Fellowship) عام 2022 تقديراً لعملها. تُمثّل صَوتاً فلسفياً فريداً في **العلاقة بين العلم والإيكولوجيا والروحانية الأصلية**.
 
 ## ما أعطته
 
@@ -60,3 +61,11 @@ gaps:
 - *Gathering Moss: A Natural and Cultural History of Mosses* (2003).
 - *Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants* (2013).
 - *The Serviceberry: Abundance and Reciprocity in the Natural World* (2024).
+
+## المصادر
+
+- صفحتها الرسمية: https://www.robinwallkimmerer.com/about
+- الملف التعريفي في جامعة SUNY ESF: https://www.esf.edu/faculty/kimmerer/index.php
+- Britannica — "Robin Wall Kimmerer": https://www.britannica.com/biography/Robin-Wall-Kimmerer
+- ويكيبيديا (الإنجليزية) — "Robin Wall Kimmerer": https://en.wikipedia.org/wiki/Robin_Wall_Kimmerer
+- MacArthur Foundation — إعلان منحة 2022: https://www.macfound.org/fellows/class-of-2022/robin-wall-kimmerer

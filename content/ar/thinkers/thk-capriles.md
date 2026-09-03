@@ -6,7 +6,7 @@ level: "متوسط"
 title: "أكسيل كابريليس"
 en: "Axel Capriles M."
 crumb: "مدرسة التحليل النفسي ← الناس ← أكسيل كابريليس"
-dates: "فنزويلا · مواليد 1950"
+dates: "فنزويلا · مواليد 1953"
 country: "فنزويلا"
 language: "الإسبانية"
 part: "philosophy"
@@ -22,7 +22,8 @@ related:
 - id: "thk-lopezpedraza", title: "رافائيل لوبيز-بيدراثا", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *El Complejo del Dinero* (2007) بترجمة عربية معتمدة."
-  - "إسهامه في تأسيس SVAJ — موثّق في أرشيف الجمعية لكن يحتاج بحثاً موسّعاً."
+  - "لم يُتحقق مباشرة مما إذا أسّس SVAJ أم ترأّسها فقط لاحقاً — المصادر المتاحة تذكره كـ«رئيس سابق» للجمعية، لا كمؤسِّس؛ التأسيس الفعلي يُنسب إلى لوبيز-بيدراثا في الثمانينيات (انظر قسم موقعه من التيار)."
+  - "سنة الميلاد صُحِّحت من 1950 إلى 1953 استناداً إلى مصادر إسبانية متعددة (طالع المصادر أدناه)؛ لم يُعثر على تاريخ ميلاد دقيق (يوم/شهر) في مصدر رسمي."
 ---
 
 # أكسيل كابريليس
@@ -42,4 +43,11 @@ gaps:
 
 ## أهم أعماله
 
-مركّب المال (El Complejo del Dinero, 2007) · ذكاء الفنزويلي أو انتصار العمّ كونيخو (La Picardía del Venezolano) · مركّب الغرينغو (The Gringo Complex).
+مركّب المال (El Complejo del Dinero, 2007) · ذكاء الفنزويلي أو انتصار العمّ كونيخو (La Picardía del Venezolano o El Triunfo de Tío Conejo) · مركّب الغرينغو (The Gringo Complex).
+
+## المصادر
+
+- [Editorial Océano — Áxel Capriles M.](https://oceano.mx/autores/axel-capriles-m-15894.aspx)
+- [El Nacional — Áxel Capriles, autor polifacético que desvela los secretos de las emociones](https://www.elnacional.com/entretenimiento/axel-capriles-el-autor-polifacetico-que-desvela-los-secretos-de-las-emociones/)
+- [الموقع الرسمي لآكسل كابريليس](https://www.axelcapriles.com/)
+- [Diario de Los Andes — ¿Qué es el complejo del dinero?](https://diariodelosandes.com/que-es-el-complejo-del-dinero-por-jose-luis-colmenares-carias/)

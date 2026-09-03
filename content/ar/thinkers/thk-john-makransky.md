@@ -15,9 +15,9 @@ language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-buddhist-psychology", target_type: "مدرسة"
 related:
-- id: "thk-mkwee", title: "ميشيل كوي", type: "مفكر"
-- id: "thk-ruben-habito", title: "روبن هابيتو", type: "مفكر"
-- id: "con-mindfulness", title: "اليقظة الذهنية", type: "مفهوم"
+- id: "thk-mkwee", title: "ميشيل كوي (م. ج. ت. كوي)", type: "مفكر"
+- id: "thk-ruben-habito", title: "روبن هابيتو (Ruben Habito)", type: "مفكر"
+- id: "con-mindfulness", title: "اليقظة الذهنية (Mindfulness)", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: البوديساتفا (con-bodhisattva)"
   - "لا يوجد اقتباس مباشر موثوق من *Awakening Through Love: Unveiling Your Deepest Goodness* (2007) بترجمة عربية معتمدة."
@@ -46,4 +46,7 @@ gaps:
 
 ## المصادر
 
-- صفحة جون ماكرانسكي الرسمية على موقع بوسطن كوليدج.
+- [صفحة جون ماكرانسكي في قسم اللاهوت — Boston College](https://www.bc.edu/bc-web/offices/office-of-university-communications/for-the-media/boston-college-faculty-experts/john-makransky.html)
+- [صفحة جون ماكرانسكي — The Society for Buddhist-Christian Studies](https://www.society-buddhist-christian-studies.org/john-makransky)
+- [صفحة جون ماكرانسكي — Barre Center for Buddhist Studies](https://www.buddhistinquiry.org/person/john-makransky/)
+- [صفحة جون ماكرانسكي — Rangjung Yeshe Institute](https://ryi.org/john-makransky)

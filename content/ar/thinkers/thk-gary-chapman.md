@@ -15,11 +15,12 @@ active_start: 1975
 active_end: "مستمر"
 edges: []
 related:
-- id: "wrk-5-love-languages", title: "لغات الحب الخمس", type: "عمل / كتاب"
-- id: "con-five-love-languages", title: "لغات الحب الخمس", type: "مفهوم"
+- id: "wrk-5-love-languages", title: "لغات الحب الخمس: سر الحب الذي يدوم", type: "عمل / كتاب"
+- id: "con-five-love-languages", title: "لغات الحب الخمس (الأطر التعبيرية في العلاقات)", type: "مفهوم"
 gaps:
-  - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
-  - "لا يوجد اقتباس منسوب بمصدر وسنة."
+  - "الشخص موثّق بشكل مستقل (ويكيبيديا، مواقع أكاديمية/كنسية) ولد 10 يناير 1938 في China Grove بولاية كارولاينا الشمالية، وهو قسّ معمداني في Calvary Baptist Church منذ 1971 — تأكّد عبر ويكيبيديا الإنجليزية."
+  - "صُحِّحت عناوين related لتطابق حرفياً عناوين الملفين الهدف: wrk-5-love-languages عنوانه الفعلي 'لغات الحب الخمس: سر الحب الذي يدوم'، وcon-five-love-languages عنوانه الفعلي 'لغات الحب الخمس (الأطر التعبيرية في العلاقات)'."
+  - "صُحِّح اسم الباحثة في نقد 2024 من تهجئة مغلوطة ('إمباستاتو') إلى الاسم الصحيح Impett (مع Park و Muise)، والمرجع الدقيق: Current Directions in Psychological Science, 33(2), 87–92، أضيف رابطه في المصادر."
   - "لا يوجد slug مدرسة/تيار معتمد أو مسودة يمثّل 'علم النفس الشعبي والإرشاد الزواجي' — كان edges.belongs_to يشير إلى هذا النص الحر بدل slug حقيقي، فأُفرغت edges."
 ---
 
@@ -40,7 +41,7 @@ gaps:
 من الأمانة تسجيلها، فالفجوة بين الانتشار والسند واسعة:
 
 - **لا سند تجريبي للنموذج**: صاغ تشابمان اللغات الخمس **استقراءً من ملاحظاته** في الإرشاد الكنسي، لا من بحث. والدراسات التي فحصت البنية لاحقاً **لم تؤكّد** أن التفضيلات تنتظم في خمس فئات متمايزة: تحليلات عاملية وجدت بنيةً مختلفة، وكثيرون يسجّلون درجات مرتفعة في عدّة لغات معاً.
-- **دعوى «المطابقة» لم تصمد**: جوهر النموذج أن **تطابق** لغة الشريكين يتنبّأ بالرضا. ومراجعة منهجية (**إمباستاتو وزملاؤه، 2024** في *Current Directions in Psychological Science*) خلصت إلى أن الأدلّة **لا تدعم** أن المطابقة تُحسّن الرضا؛ وأن ما يتنبّأ به فعلاً هو **مقدار التعبير عن المودّة عموماً** بأي لغة كانت.
+- **دعوى «المطابقة» لم تصمد**: جوهر النموذج أن **تطابق** لغة الشريكين يتنبّأ بالرضا. ومراجعة منهجية (**إمبت وزملاؤها (Impett, Park & Muise)، 2024** في *Current Directions in Psychological Science*) خلصت إلى أن الأدلّة **لا تدعم** أن المطابقة تُحسّن الرضا؛ وأن ما يتنبّأ به فعلاً هو **مقدار التعبير عن المودّة عموماً** بأي لغة كانت.
 - **استعارة اللغة نفسها مضلّلة**: نقد المراجعة أن الحبّ **ليس لغة أمّاً واحدة** بل أقرب إلى **غذاء متوازن**: الناس يحتاجون إلى الخمسة بدرجات، لا إلى واحدة على حساب البقية.
 - **الإطار الديني والقيمي**: تشابمان قسّ معمداني، والكتاب مكتوب في إطار الزواج المسيحي التقليدي؛ وهو ما يظهر في افتراضاته عن أدوار الجنسين والالتزام.
 
@@ -54,3 +55,10 @@ gaps:
 - *The Five Love Languages of Children* (1997، مع روس كامبل).
 - *The Five Languages of Apology* (2006، مع جينيفر توماس).
 - *The 5 Languages of Appreciation in the Workplace* (2011).
+
+## المصادر
+
+- Wikipedia, "Gary Chapman (author)": https://en.wikipedia.org/wiki/Gary_Chapman_(author)
+- Wikipedia, "The Five Love Languages": https://en.wikipedia.org/wiki/The_Five_Love_Languages
+- Impett, E. A., Park, H. G., & Muise, A. (2024), "Popular Psychology Through a Scientific Lens: Evaluating Love Languages From a Relationship Science Perspective", *Current Directions in Psychological Science*, 33(2), 87–92: https://journals.sagepub.com/doi/10.1177/09637214231217663
+- Equipping the Church, "Meet The Author – Gary Chapman": https://equippingthechurch.com/post/meet-the-author-gary-chapman
