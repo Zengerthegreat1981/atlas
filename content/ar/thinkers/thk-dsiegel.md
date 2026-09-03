@@ -19,7 +19,7 @@ related:
 - id: "thk-lcozolino", title: "لويس كوتزولينو", type: "مفكر"
 - id: "thk-mimordino-yang", title: "ماري هيلين إيموردينو-يانغ", type: "مفكر"
 - id: "thk-msolomon", title: "ماريون سولومون", type: "مفكر"
-- id: "wrk-whole-brain-child", title: "طفل المخ الكامل", type: "عمل / كتاب"
+- id: "wrk-whole-brain-child", title: "طفل المخ الكامل: 12 استراتيجية ثورية لرعاية عقل طفلك النامي", type: "عمل / كتاب"
 - id: "con-window-of-tolerance", title: "نافذة التحمل (Window of Tolerance)", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: ستيفن بورجِس (thk-sporges)"
@@ -51,3 +51,10 @@ gaps:
 - *Mindsight* (2010).
 - *The Whole-Brain Child* (2011، مع تينا باين برايسون).
 - *Aware* (2018).
+
+## المصادر
+
+- Daniel J. Siegel — Wikipedia: https://en.wikipedia.org/wiki/Daniel_J._Siegel
+- السيرة الذاتية الرسمية (Mindsight Institute / drdansiegel.com): https://drdansiegel.com/
+- Curriculum Vitae الرسمية: https://drdansiegel.com/wp-content/uploads/2020/10/Daniel-J.-Siegel-CV.pdf
+- Child Mind Institute — نبذة رسمية: https://childmind.org/bio/daniel-j-siegel-md/

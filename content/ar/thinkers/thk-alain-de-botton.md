@@ -15,7 +15,7 @@ active_start: 1993
 active_end: "مستمر"
 edges: []
 related:
-- id: "wrk-status-anxiety", title: "قلق السعي إلى المكانة", type: "عمل / كتاب"
+- id: "wrk-status-anxiety", title: "قلق السعي إلى المكانة: الشعور بالدونية والبحث عن التقدير", type: "عمل / كتاب"
 - id: "con-status-anxiety-concept", title: "قلق المكانة الاجتماعية والمقارنة الطبقية (Status Anxiety)", type: "مفهوم"
 gaps:
   - "بيانات السيرة الذاتية وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
@@ -45,3 +45,9 @@ gaps:
 - *Status Anxiety* (قلق المكانة، 2004).
 - *Religion for Atheists* (2012).
 - *The Course of Love* (مسار الحبّ، 2016).
+
+## المصادر
+
+- Wikipedia (EN): "Alain de Botton" — https://en.wikipedia.org/wiki/Alain_de_Botton
+- Wikipedia (EN): "The School of Life" — https://en.wikipedia.org/wiki/The_School_of_Life
+- CV الرسمي: https://www.alaindebotton.com/cv/

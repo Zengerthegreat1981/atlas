@@ -42,3 +42,10 @@ gaps:
 ## أهم أعمالها
 
 أخلاق وجودية (An Existentialist Ethics, 1967) · الوجودية الإنسانية: فلسفة سارتر (Humanistic Existentialism, 1959) · ترجمة الوجود والعدم لسارتر (Being and Nothingness, 1956) · القصة التي أرويها لنفسي (The Story I Tell Myself, 1997).
+
+## المصادر
+
+- Wikipedia — "Hazel Barnes": https://en.wikipedia.org/wiki/Hazel_Barnes
+- University of Colorado Boulder — نعي رسمي: https://www.colorado.edu/today/2008/03/19/renowned-cu-boulder-philosophy-professor-hazel-barnes-dies-92
+- CU Boulder Archives — Hazel E. Barnes papers: https://archives.colorado.edu/repositories/2/resources/1204
+- CAMWS — "Hazel Estella Barnes": https://camws.org/hazel-estella-barnes

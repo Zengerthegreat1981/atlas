@@ -53,3 +53,9 @@ gaps:
 ## اقتباسات مختارة
 
 «الحضور هو نوعية الوجود في الموقف بكل الذات.» — كتابات في العلاج الوجودي-الإنساني
+
+## المصادر
+
+- James Bugental — Wikipedia: https://en.wikipedia.org/wiki/James_Bugental
+- James F. T. Bugental (1915-2008) — PubMed (نعي): https://pubmed.ncbi.nlm.nih.gov/19203148/
+- James Bugental on Existential-Humanistic Psychotherapy — Psychotherapy.net: https://www.psychotherapy.net/interview/james-bugental

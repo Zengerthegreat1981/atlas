@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-ricoeur", title: "بول ريكور", type: "مفكر"
-- id: "thk-heidegger", title: "مارتن هايدغر", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 - id: "con-time", title: "الزمن", type: "مفهوم"
 - id: "thk-dilthey", title: "فيلهلم دلتاي", type: "مفكر"
@@ -49,3 +49,11 @@ gaps:
 ## اقتباسات مختارة
 
 «الكينونة التي يمكن فهمها هي لغة.» — الحقيقة والمنهج، 1960
+
+## المصادر
+
+- Stanford Encyclopedia of Philosophy — "Hans-Georg Gadamer": https://plato.stanford.edu/entries/gadamer/
+- Internet Encyclopedia of Philosophy — "Gadamer, Hans-Georg": https://iep.utm.edu/gadamer/
+- Wikipedia — "Hans-Georg Gadamer": https://en.wikipedia.org/wiki/Hans-Georg_Gadamer
+- Wikipedia — "Gadamer–Derrida debate": https://en.wikipedia.org/wiki/Gadamer%E2%80%93Derrida_debate
+- Wikipedia — "Truth and Method": https://en.wikipedia.org/wiki/Truth_and_Method

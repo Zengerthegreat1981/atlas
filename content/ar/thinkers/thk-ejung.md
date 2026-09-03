@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "con-anima-animus", title: "الأنيما والأنيموس", type: "مفهوم"
-- id: "con-grail", title: "أسطورة الكأس المقدسة", type: "مفهوم"
+- id: "con-grail", title: "أسطورة الكأس المقدسة (الغرال)", type: "مفهوم"
 - id: "evt-jung-institute-zurich-1948", title: "تأسيس معهد سي. جي. يونغ في زيورخ للتدريب والبحث التحليلي", type: "حدث تاريخي"
 gaps:
   - "لا يوجد اقتباس منسوب بمصدر وسنة من «أسطورة الغرال» الصادر بعد وفاتها عام 1960."
@@ -42,3 +42,10 @@ gaps:
 ## أهم أعمالها
 
 أسطورة الغرال (Die Graalslegende in psychologischer Sicht) — بدأته إيما وأكملته ماري-لويز فون فرانتس، وصدر بالألمانية بعد وفاتها عام 1960 وبالإنجليزية بعد وفاتها عام 1970 · الأنيما والأنيموس (Animus and Anima)، صدر بعد وفاتها عام 1957.
+
+## المصادر
+
+- Emma Jung — Wikipedia: https://en.wikipedia.org/wiki/Emma_Jung
+- Psychology Club Zürich — نادي علم النفس بزيورخ (تاريخ النادي، إيما يونغ أول رئيسة 1916-1919): https://www.psychologyclub.ch/en/club-history
+- *Dedicated to the Soul: The Writings and Drawings of Emma Jung*, Princeton University Press, 2023: https://press.princeton.edu/books/hardcover/9780691253275/dedicated-to-the-soul
+- National Geographic — "The brilliant women of psychiatry who were overshadowed by Freud and Jung": https://www.nationalgeographic.com/history/article/carl-jung-emma-jung-jungian-archetypes

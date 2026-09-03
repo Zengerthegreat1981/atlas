@@ -3,44 +3,46 @@ slug: "thk-dgreenberger"
 id: "THK-2603"
 type: "مفكر"
 level: "متوسط"
-title: "دِنيز د. ديفيد"
-en: "Denise D. Davis"
-dates: "[غير مؤكد]"
+title: "دِنيس غرينبرغر"
+en: "Dennis Greenberger"
+dates: "الولايات المتحدة"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1985
 active_end: "مستمر"
 part: "psychology"
-crumb: "الأطلس ← thinkers ← دِنيز د. ديفيد"
+crumb: "الأطلس ← thinkers ← دِنيس غرينبرغر"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 gaps:
-  - "تاريخ الميلاد الدقيق لدنيز د. ديفيد غير متاح في المصادر المتوفرة."
-  - "التفاصيل الدقيقة لسنوات انضمامها لجامعة Vanderbilt وتوليها رئاسة تحرير Cognitive and Behavioral Practice لم تُراجع من مصدر أولي مؤرَّخ."
+  - "تاريخ الميلاد الدقيق لدنيس غرينبرغر غير متاح في المصادر المتوفرة."
+  - "التفاصيل الكاملة لمسيرته في تأسيس Anxiety and Depression Center في نيوبورت بيتش لم تُراجع من مصدر أرشيفي مستقل خارج موقع المركز نفسه."
 ---
 
-# دِنيز د. ديفيد
+# دِنيس غرينبرغر
 
-عالمة نفس إكلينيكية أمريكية، أستاذة مشاركة للممارسة النفسية (Associate Professor of the Practice of Psychology) في جامعة Vanderbilt، حيث تشغل منصب المديرة المساعدة للتدريب الدراسي العليا في علم النفس الإكلينيكي (Associate Director of Graduate Training in Clinical Science). عضو مؤسِّس (Founding Fellow) في أكاديمية العلاج المعرفي والسلوكي (Academy of Cognitive and Behavioral Therapies)، وزميلة في الجمعية الأمريكية لعلم النفس (APA).
+عالم نفس إكلينيكي أمريكي (Ph.D.)، مؤسس ومدير Anxiety and Depression Center في نيوبورت بيتش، كاليفورنيا، وأستاذ إكلينيكي مساعد (Assistant Clinical Professor) في قسم الطب النفسي بكلية الطب في جامعة كاليفورنيا-إيرفاين (UC Irvine). تدرّب وتتلمذ مباشرة على يد آرون بيك (Aaron T. Beck) وجودي بيك (Judith Beck) في مركز العلاج المعرفي بجامعة بنسلفانيا. عضو مؤسِّس (Founding Fellow) ورئيس سابق (Past President) لأكاديمية العلاج المعرفي والسلوكي (Academy of Cognitive and Behavioral Therapies)، وعضو سابق في مجلس إدارتها.
 
-## ما أعطته
+## ما أعطاه
 
-- **التحرير المشترك لـ*Cognitive Therapy of Personality Disorders*** مع آرون تي. بيك وآرثر فريمان، طبعته الثانية عام 2004 والثالثة عام 2015 — أحد المراجع الأساسية في تطبيق العلاج المعرفي على اضطرابات الشخصية.
-- **رئاسة تحرير دورية *Cognitive and Behavioral Practice***: بدأت كمحررة مشاركة مؤسِّسة (founding Associate Editor) للدورية، ثم تولت رئاسة تحريرها لدورة كاملة.
-- **أبحاثها الإكلينيكية** تركّزت على أخلاقيات الممارسة النفسية، وإنهاء العلاج النفسي (psychotherapy termination)، والعلاج المعرفي لاضطرابات الشخصية.
+- **تأليف مشترك لكتاب *Mind Over Mood*** مع كريستين بادسكي (Christine A. Padesky)، أحد أكثر كتب العلاج المعرفي السلوكي الموجّهة للجمهور العام انتشاراً (أكثر من 1.3 مليون قارئ حسب الناشر)، يقدّم أدوات عملية (مثل سجلّ الأفكار Thought Record) لمواجهة الاكتئاب والقلق ونوبات الهلع والغضب والشعور بالذنب والعار وتدني تقدير الذات.
+- **تأليف *Clinician's Guide to Mind Over Mood*** مع بادسكي، دليل موجّه للمعالجين لاستخدام الكتاب الأول في العيادة.
+- **نقل نموذج بيك المعرفي إلى الممارسة السريرية اليومية** عبر مركزه المتخصص في علاج القلق والاكتئاب، وتدريب معالجين آخرين على أدوات العلاج المعرفي السلوكي القابلة للتطبيق الذاتي.
 
-## موقعها من التيار
+## موقعه من التيار
 
-عملت ديفيد بالتعاون المباشر مع آرون بيك مؤسس العلاج المعرفي في توسيع تطبيقاته على اضطرابات الشخصية، ضمن الجيل الذي نقل نموذج بيك من علاج الاكتئاب والقلق إلى الحالات الإكلينيكية الأكثر تعقيداً.
+ينتمي إلى الجيل الذي تدرّب مباشرة على يد آرون بيك وساهم في تبسيط ونشر أدوات العلاج المعرفي (خصوصاً سجل الأفكار وإعادة البنية المعرفية) خارج العيادة المتخصصة، عبر كتاب موجَّه لعامة القراء وللمعالجين المبتدئين على حد سواء.
 
-## أهم أعمالها
+## أهم أعماله
 
-- *Cognitive Therapy of Personality Disorders* (مع آرون ت. بيك وآرثر فريمان)، الطبعة الثانية 2004، الطبعة الثالثة 2015.
+- *Mind Over Mood: Change How You Feel by Changing the Way You Think* (مع كريستين أ. بادسكي)، الطبعة الأولى 1995، الطبعة الثانية 2016.
+- *Clinician's Guide to Mind Over Mood* (مع كريستين أ. بادسكي)، 1995.
 
 ## المصادر
 
-- الصفحة الرسمية للمؤلفة على موقع الناشر Guilford Press (guilford.com/author/Denise-D-Davis).
-- Beck, A. T., Davis, D. D., & Freeman, A. (Eds.). *Cognitive Therapy of Personality Disorders*, 3rd ed. Guilford Press, 2015.
-- صفحة عضويتها في أكاديمية العلاج المعرفي (Academy of Cognitive Therapy، academyofct.org).
+- الصفحة الرسمية للمؤلف على موقع الناشر Guilford Press (guilford.com/author/Dennis-Greenberger).
+- صفحة مركزه: anxietyanddepressioncenter.com/dr-dennis-greenberger.
+- صفحة عضويته في أكاديمية العلاج المعرفي (Academy of Cognitive Therapy، academyofct.org).
+- Greenberger, D., & Padesky, C. A. *Mind Over Mood: Change How You Feel by Changing the Way You Think*, 2nd ed. Guilford Press, 2016.

@@ -62,3 +62,10 @@ gaps:
 - تفحّص في مبادئ الأخلاق (An Enquiry Concerning the Principles of Morals، 1751).
 - التاريخ الطبيعي للدين (The Natural History of Religion، 1757).
 - حوارات في الدين الطبيعي (Dialogues Concerning Natural Religion، نُشر بعد وفاته عام 1779).
+
+## المصادر
+
+- David Hume — Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/entries/hume/
+- David Hume — Britannica: https://www.britannica.com/biography/David-Hume
+- David Hume's Life and Works — The Hume Society: https://humesociety.org/about/hume/
+- A Treatise of Human Nature, Book 2, Part 3, Section 3 ("Of the Passions") — نص الاقتباس "Reason is, and ought only to be the slave of the passions": https://en.wikisource.org/wiki/Treatise_of_Human_Nature/Book_2:_Of_the_passions/Part_3/Section_3

@@ -48,4 +48,10 @@ gaps:
 
 ## أهم أعمالها
 
-مسارح الجسد (Theatres of the Body، 1989) · الوجوه المتعدّدة للإيروس (The Many Faces of Eros، 1995) · **دفاعٌ عن قدرٍ من الشذوذ** (Plea for a Measure of Abnormality، 1978) · مسارح الذهن (Theatres of the Mind، 1985).
+مسارح الجسد (Theatres of the Body، 1989) · الوجوه المتعدّدة للإيروس (The Many Faces of Eros، 1995) · **دفاعٌ عن قدرٍ من الشذوذ** (Plea for a Measure of Abnormality، 1978) · مسارح الذهن (Theatres of the Mind، النسخة الفرنسية 1982 بعنوان Théâtres du Je، والترجمة الإنجليزية 1985).
+
+## المصادر
+
+- Wikipedia (EN): "Joyce McDougall" — https://en.wikipedia.org/wiki/Joyce_McDougall
+- The Sigourney Award — سيرة موجزة: https://www.sigourneyaward.org/recipientlist/2019/1/29/joyce-mcdougall-2001
+- International Journal of Psychoanalysis, نعي "Joyce McDougall, 1920–2011": https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-8315.12008

@@ -41,3 +41,10 @@ gaps:
 ## الأثر
 
 أثّر بارفيت على فلسفة الأخلاق المعاصرة، خصوصاً في أخلاقيات الأعداد الكبيرة والهوية الشخصية، وامتد أثر مفاهيمه إلى نقاشات أخلاقيات تغيّر المناخ والأجيال المقبلة.
+
+## المصادر
+
+- Wikipedia contributors, "Derek Parfit," https://en.wikipedia.org/wiki/Derek_Parfit
+- Wikipedia contributors, "Reasons and Persons," https://en.wikipedia.org/wiki/Reasons_and_Persons
+- British Academy, "Derek Antony Parfit 11 December 1942 – 2 January 2017" (مذكّرة وفاة أكاديمية)، https://www.thebritishacademy.ac.uk/documents/890/19-Memoirs-03-Parfit.pdf
+- Daily Nous, "Derek Parfit (1942-2017)," https://dailynous.com/2017/01/02/derek-parfit-1942-2017/

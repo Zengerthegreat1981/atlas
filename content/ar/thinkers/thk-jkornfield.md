@@ -45,3 +45,9 @@ gaps:
 - *A Path with Heart* (1993).
 - *The Wise Heart* (2008).
 - *No Time Like the Present* (2017).
+
+## المصادر
+
+- Wikipedia (EN): "Jack Kornfield" — https://en.wikipedia.org/wiki/Jack_Kornfield
+- السيرة الرسمية: https://jackkornfield.com/bio/
+- Spirit Rock Meditation Center — صفحة المعلّمين: https://www.spiritrock.org/teachers/jack-kornfield

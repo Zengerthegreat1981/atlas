@@ -6,11 +6,11 @@ level: "متوسط"
 title: "جو كاميا"
 en: "Joe Kamiya"
 crumb: "التغذية الراجعة العصبية ← رائد الأبحاث ← جو كاميا"
-dates: "الولايات المتحدة · 1925–2012"
+dates: "الولايات المتحدة · 1926–2021"
 country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1958
-active_end: 2010
+active_end: 2021
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "con-neurofeedback", target_type: "مفهوم"
@@ -18,7 +18,8 @@ related:
 - id: "con-neurofeedback", title: "التغذية الراجعة العصبية (Neurofeedback)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
-  - "مقال «التحكّم الواعي في موجات الدماغ» (Psychology Today، 1968) لم يُراجع من الأصل."
+  - "مقال «التحكّم الواعي في موجات الدماغ» (Psychology Today، 1968) لم يُراجع من الأصل، وإن ثبت عنوانه وصفحاته (Psychology Today 1: 56-60) من فهارس مستقلة."
+  - "تصحيح: كانت تواريخ الميلاد/الوفاة في نسخة سابقة من هذا الملف خاطئة (1925–2012)؛ الصحيح 1926–2021 بحسب تأبين جمعية أبحاث النوم (Sleep Research Society) ومصادر أخرى مستقلة."
 ---
 
 # جو كاميا
@@ -37,3 +38,11 @@ gaps:
 
 ## القيد
 ما جرى لاكتشاف كاميا مثالٌ مدرسيّ على تحوّل نتيجة مخبرية إلى موضة: قفزت الثقافة العامة من «يمكن تعلّم زيادة ألفا» إلى «ألفا = حالة تنوير وسكينة» — وهي قفزة لم يقلها البحث. فلا موجة ألفا حالةً وجدانية بعينها، ولا زيادتها تُنتج بالضرورة استرخاءً؛ وقد أظهرت دراسات لاحقة أن جزءاً من «أثر ألفا» يفسَّر بإغماض العينين وحده. وكاميا نفسه كان من المتحفّظين على تلك الموجة. والتغذية الراجعة العصبية لا تزال تحمل هذا الميراث: قاعدة أدلّة متفاوتة تُطبَّق تحت مظلّة واحدة.
+
+## المصادر
+
+- "In Memoriam: Joe Kamiya, PhD" — Sleep Research Society, sleepresearchsociety.org
+- "In Memoriam: Joe Kamiya, 1926–2021", *Applied Psychophysiology and Biofeedback* / ResearchGate
+- Kamiya, J. (1968). "Conscious Control of Brain Waves." *Psychology Today*, 1: 56–60. (فهرسة: findingaids.nlm.nih.gov, philpapers.org)
+- "The Forgotten History of Alpha Brain Waves" — Bitbrain (bitbrain.com/blog/alpha-brain-waves)
+- "Behavior: Alpha Wave of the Future" — Time (time.com/archive)

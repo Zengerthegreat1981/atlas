@@ -42,3 +42,10 @@ gaps:
 ## أهم أعماله
 
 سيسيفوس أو حدود التربية (Sisyphus oder Die Grenzen der Erziehung, 1925) · مقالة اليهودية والتحليل النفسي (1926).
+
+## المصادر
+
+- "Bernfeld, Siegfried (1892-1953)." *International Dictionary of Psychoanalysis* (Encyclopedia.com). https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/bernfeld-siegfried-1892-1953
+- "Siegfried Bernfeld." *Wikipedia*. https://en.wikipedia.org/wiki/Siegfried_Bernfeld
+- "Bernfeld, Siegfried (1892-1953)." *Jewish Communities of Austria* (ANU Museum). https://spotlight.anumuseum.org.il/austria/person/bernfeld-siegfried-1892-1953/
+- Bernfeld, S. (1921). *Kinderheim Baumgarten: Bericht über einen ernsthaften Versuch mit neuer Erziehung*. (Internet Archive: https://archive.org/details/bernfeld-1921-baumgarten)

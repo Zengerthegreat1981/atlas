@@ -41,3 +41,9 @@ gaps:
 ## أهم أعماله
 
 علاج الجشطالت: الإثارة والنموّ في الشخصية الإنسانية (Gestalt Therapy: Excitement and Growth in the Human Personality, 1951، مع فريتز بيرلز ورالف هيفرلاين) · النشأة في عالم عبثي: مشكلات الشباب في المجتمع المنظَّم (Growing Up Absurd, 1960) · كومونيتاس (Communitas, 1947، مع أخيه بيرسيفال غودمان) في نقد تخطيط المدن · التعليم الإجباري الخاطئ (Compulsory Mis-education, 1964).
+
+## المصادر
+
+- Gestalt Therapy (book), *Wikipedia* — https://en.wikipedia.org/wiki/Gestalt_Therapy_(book)
+- Paul Goodman bibliography, *Wikipedia* — https://en.wikipedia.org/wiki/Paul_Goodman_bibliography
+- Ralph Hefferline, *Wikipedia* — https://en.wikipedia.org/wiki/Ralph_Hefferline

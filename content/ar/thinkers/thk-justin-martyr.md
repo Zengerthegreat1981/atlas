@@ -43,3 +43,10 @@ gaps:
 ## اقتباسات مختارة
 
 «كل من عاش بحسب اللوغوس فهو مسيحي، وإن حُسب ملحداً.» (الدفاع الأوّل، 46)
+
+## المصادر
+
+- "Justin Martyr." *Encyclopædia Britannica*. https://www.britannica.com/biography/Saint-Justin-Martyr
+- "Justin Martyr." *Wikipedia*. https://en.wikipedia.org/wiki/Justin_Martyr
+- "Dialogue with Trypho." *Wikipedia*. https://en.wikipedia.org/wiki/Dialogue_with_Trypho
+- "St. Justin Martyr." *Catholic Encyclopedia* (New Advent). https://www.newadvent.org/cathen/08580c.htm

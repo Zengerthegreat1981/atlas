@@ -42,3 +42,9 @@ gaps:
 ## أهم أعماله
 
 الكلام والمعنى: فينومينولوجيا اللغة (Speaking and Meaning: The Phenomenology of Language, 1976) · الفينومينولوجيا في أمريكا (Phenomenology in America, 1967) · شروحات وترجمات ميرلوبونتي.
+
+## المصادر
+
+- James M. Edie — Wikipedia: https://en.wikipedia.org/wiki/James_M._Edie
+- History – Society for Phenomenology and Existential Philosophy (SPEP): https://www.spep.org/about/history/
+- James M. Edie, *Phenomenology in America* (1967) — PhilPapers: https://philpapers.org/rec/EDIPIA-2

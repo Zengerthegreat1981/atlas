@@ -17,7 +17,9 @@ edges:
 related:
 - id: "thk-hhendrix", title: "هارفيل هندريكس", type: "مفكر"
 gaps:
-  - "سنة الميلاد المذكورة في المدخل غير مؤكَّدة من مصدر أوّلي (السِيَر المهنية العامة لا تذكرها بإسناد)."
+  - "⚠️ **ازدواج ملف مؤكَّد**: تحقّقتُ وهذا الملف (thk-hlkelly) يصف الشخص نفسه تماماً الذي يصفه `content/ar/thinkers/thk-helen-lakelly-hunt.md` — نفس الاسم (Helen LaKelly Hunt)، نفس تاريخ الميلاد (1949)، نفس الزواج من هارفيل هندريكس ونفس مسار تأسيس علاج إيماغو، ونفس قائمة الأعمال تقريباً (Faith and Feminism 2004، And the Spirit Moved Them 2017، إلخ). هذا الازدواج موثَّق سابقاً في ملف thk-helen-lakelly-hunt.md نفسه (بالإشارة إلى Task 3.18، 2026-08-27). لم أدمج/أحذف أياً من الملفين — القرار متروك للمنسّق/رئيس التحرير."
+  - "سنة الميلاد (1949) مؤكَّدة تقريبياً من مصادر ثانوية عامة (Wikipedia) لكن دون إسناد أوّلي مباشر (شهادة ميلاد أو سيرة موثّقة رسمياً)."
+  - "التعليم: بحسب مصادر مستقلة (صفحة SMU وWikipedia)، تحمل هانت درجات من Southern Methodist University (BA وMLA وMA in Counseling) ودكتوراه من Union Theological Seminary (2004) — تفاصيل التعليم غير مذكورة في هذا الملف أصلاً فلا تعارض، لكن يُنصَح بإضافتها عند أي تحديث لاحق ليتطابق مع الملف الآخر."
   - "لا يوجد اقتباس مباشر موثوق من *Faith and Feminism: A Holy Alliance* (2004) بترجمة عربية معتمدة."
 ---
 
@@ -47,3 +49,9 @@ gaps:
 
 ## القيد
 - **التركيز على الشراكة الثنائية** كإطار للعلاج، أثار انتقادات من وجهات نظر تعالج علاقات متعددة الأشكال.
+
+## المصادر
+
+- Wikipedia (EN), "Helen LaKelly Hunt": https://en.wikipedia.org/wiki/Helen_LaKelly_Hunt
+- Southern Methodist University, Honorary Degrees biography: https://s3.smu.edu/des/registrar/HonoraryDegrees/?a=bio&pid=303&name=Helen+Hunt
+- Imago International Training Institute, صفحة السيرة: https://imagocertificationandtraining.com/instructor-profile/hlakellyhunt/single-instructor-profile/

@@ -16,20 +16,20 @@ edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-- id: "thk-cameier", title: "كارل ألفريد ماير", type: "مفكر"
+- id: "thk-cameier", title: "كارل ألفرد ماير", type: "مفكر"
 - id: "thk-tmoore", title: "توماس مور", type: "مفكر"
 - id: "con-soul", title: "النفس", type: "مفهوم"
 - id: "br-alchemical-psychology", title: "علم النفس الألكيميائي (هيلمان)", type: "تيار"
 - id: "br-archetypal", title: "علم النفس الأركيتايبي", type: "تيار"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Re-Visioning Psychology* (1975) بترجمة عربية معتمدة."
-  - "تفاصيل «الفضيحة الدولية» التي أجبرته على الاستقالة من إدارة معهد زيورخ 1969 — لا تزال موضع تحفّظ."
+  - "تفاصيل كاملة عن قضية العلاقة مع المريضة وحكم المحكمة السويسرية (1968) تحتاج مراجعة من سيرة Dick Russell نفسها لا من ملخّصات ثانوية."
   - "علاقته بسلسلة من الكُتّاب اللاتينيين (López-Pedraza, Boer) — توثيقه في «لجنة Spring» يستحق ملفاً مستقلاً."
 ---
 
 # جيمس هيلمان
 
-محلّل نفسي وفيلسوف أمريكي، مؤسِّس «علم النفس الأركيتايبي» (Archetypal Psychology) فرعاً منشقّاً عن التحليلية الكلاسيكية، وأوّل من شغل منصب **مدير الدراسات** في معهد يونغ بزيورخ (1960–1969).
+محلّل نفسي وفيلسوف أمريكي، مؤسِّس «علم النفس الأركيتايبي» (Archetypal Psychology) فرعاً منشقّاً عن التحليلية الكلاسيكية، وأوّل من شغل منصب **مدير الدراسات** في معهد يونغ بزيورخ (1959–1969).
 
 ## ما أعطاه
 
@@ -37,7 +37,7 @@ gaps:
 
 ## موقعه من التيار
 
-«الانشقاق الأعمق» في التحليلية: نفسُه، من مدرسة زيورخ الرسمية، انتقل من إعادة اكتشافها إلى تحويلها. سقطت إدارته لمعهد زيورخ (1969) على خلفية «انشقاق هيلمان» (Hillman Affair) التي طُبعت لاحقاً في «The Making of a Lunatic» الذي صدر بعد وفاته عام 2012.
+«الانشقاق الأعمق» في التحليلية: نفسُه، من مدرسة زيورخ الرسمية، انتقل من إعادة اكتشافها إلى تحويلها. أُجبر على الاستقالة من إدارة معهد زيورخ مطلع 1969 إثر قضية علاقة عاطفية مع مريضة (متزوّجة)، حكمت فيها محكمة سويسرية عام 1968 ضدّه بعد شكوى زوجها إلى مجلس أمناء المعهد؛ وُثِّقت الواقعة لاحقاً في الجزء الأول من سيرته الرسمية «The Life and Ideas of James Hillman: Volume I — The Making of a Psychologist» لديك رَسِل (Dick Russell)، الصادر بعد وفاة هيلمان، عام 2012.
 
 ## القيد
 اتهامُه بإضعاف البُعد السريري للتحليلية لصالح «الفلسفة الجميلة»، والاتهام المتبادل من قبله بأن التحليلية الأكاديمية فقدت علاقتها بالروح.
@@ -45,3 +45,9 @@ gaps:
 ## أهم أعماله
 
 الانتحار والنفس (Suicide and the Soul, 1964) · أسطورة التحليل (The Myth of Analysis, 1972) · إعادة تخيُّل علم النفس (Re-Visioning Psychology, 1975) · الخيال الشافي (Healing Fiction, 1983) · مئة عام من العلاج النفسي والعالم يزداد سوءاً (We've Had a Hundred Years of Psychotherapy — And the World's Getting Worse, 1992، مع مايكل ڤنتورا) · شفرة النفس (The Soul's Code, 1996) · قوّة الطبع (The Force of Character, 1999).
+
+## المصادر
+
+- James Hillman, *Wikipedia* — https://en.wikipedia.org/wiki/James_Hillman
+- Archetypal psychology, *Wikipedia* — https://en.wikipedia.org/wiki/Archetypal_psychology
+- Dick Russell, *The Life and Ideas of James Hillman: Volume I — The Making of a Psychologist* (2012) — https://www.amazon.com/dp/161145462X

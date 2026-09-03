@@ -41,3 +41,10 @@ gaps:
 - *Relectio de iure belli* (في حقّ الحرب، 1539).
 - *Relectio de potestate civili* (في السلطة المدنية، 1528).
 - شرح على *الخلاصة اللاهوتية* لتوما الإكويني.
+
+## المصادر
+
+- Francisco de Vitoria — Wikipedia: https://en.wikipedia.org/wiki/Francisco_de_Vitoria
+- Francisco de Vitoria — Encyclopaedia Britannica: https://www.britannica.com/biography/Francisco-de-Vitoria
+- Francisco de Vitoria — Oxford Bibliographies (Renaissance and Reformation): https://www.oxfordbibliographies.com/display/document/obo-9780195399301/obo-9780195399301-0552.xml
+- Francisco de Vitoria, Relectiones (1538-1539) — Classics of Strategy and Diplomacy: https://classicsofstrategy.com/2015/07/03/relectiones-by-francisco-de-vitoria-1538-1539/
