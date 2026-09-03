@@ -41,3 +41,9 @@ gaps:
 ## أهم أعماله
 
 «دراسات في علم النفس التحليلي» (Studies in Analytical Psychology, 1948) · «الرمز الحي» (The Living Symbol, 1961) · ديناميات الذات (Dynamics of the Self, 1979).
+
+## المصادر
+
+- Association of Jungian Analysts (المملكة المتحدة)، صفحة "Gerhard Adler (1904–1989)"، jungiananalysts.org.uk.
+- Casement, A. (2014), "The role played by Gerhard Adler in the development of analytical psychology internationally and in the UK", *Journal of Analytical Psychology*.
+- مدخل "Gerhard Adler" في ويكيبيديا الإنجليزية (تاريخ الوفاة: 23 ديسمبر 1988).

@@ -65,3 +65,11 @@ gaps:
 **ومن خارجه**: صار المصطلح — مع «النظرية النقدية للعرق» — محلّ سجال سياسي حادّ في الولايات المتحدة، حُظر تدريسه في ولايات، ويُستعمل في هذا السجال بمعنىً بعيد عن أصله الأكاديمي في كلا الاتّجاهين.
 
 > **تصحيح:** كان هذا الملف ينسب إلى كرينشو **«Ain't I a Woman?»** — وهو كتاب **بِل هوكس** (1981)، وأصل العبارة خطبةٌ لـ**سوجورنر تروث** (1851).
+
+## المصادر
+
+- Crenshaw, K. (1989). Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics. *University of Chicago Legal Forum*, 1989(1), 139–167.
+- Crenshaw, K. (1991). Mapping the Margins: Intersectionality, Identity Politics, and Violence against Women of Color. *Stanford Law Review*, 43(6), 1241–1299.
+- Crenshaw, K. (2019). *On Intersectionality: Essential Writings*. The New Press.
+- DeGraffenreid v. General Motors Assembly Div., 413 F. Supp. 142 (E.D. Mo. 1976) — القضية التي بنت عليها كرينشو مقالها التأسيسي.
+- منتدى السياسات الأمريكية الإفريقية (African American Policy Forum)، حملة #SayHerName (2015)، من تأسيسها وتوجيهها.

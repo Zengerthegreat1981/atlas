@@ -50,3 +50,9 @@ gaps:
 - De Arca Noe Morali (نحو 1128)
 - De Vanitate Mundi
 - Commentary on the Celestial Hierarchy
+
+## المصادر
+
+- Encyclopedia.com, "Hugh of Saint-Victor" (مدخل مرجعي).
+- Jerome Taylor (trans.), *The Didascalicon of Hugh of St. Victor: A Medieval Guide to the Arts* (Columbia University Press) — الترجمة الإنجليزية المرجعية المستخدمة أكاديمياً.
+- نقاشات أكاديمية حول تصنيف الفنون الميكانيكية السبعة عند هوغو (النسيج، صناعة السلاح، التجارة، الزراعة، الصيد، الطب، المسرح/الفنون الأدائية) وربطها بمشروع "استعادة" الإنسان بعد السقوط في نسق الديداسكاليكون.

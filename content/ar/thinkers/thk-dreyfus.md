@@ -43,4 +43,10 @@ gaps:
 
 ## أهم أعماله
 
-الكينونة-في-العالم: شرح على الوجود والزمان القسم الأول (Being-in-the-World, 1991) · ما لا تستطيع الحواسيب فعله (What Computers Still Can't Do, 1972/1992) · كل الأشياء تلمع: قراءة كلاسيكيات الوجودية (All Things Shining, 2011).
+الكينونة-في-العالم: شرح على الوجود والزمان القسم الأول (Being-in-the-World, 1991) · ما لا تستطيع الحواسيب فعله (What Computers Still Can't Do, 1972/1992) · كل الأشياء تلمع: قراءة كلاسيكيات الوجودية (All Things Shining, 2011، بالاشتراك مع شون دورانس كيلي Sean Dorrance Kelly).
+
+## المصادر
+
+- Dreyfus, H. L. (1972). *What Computers Can't Do: A Critique of Artificial Reason*. New York: Harper & Row (طبعة منقّحة بعنوان *What Computers Still Can't Do*, 1992, MIT Press).
+- Dreyfus, H. L. (1991). *Being-in-the-World: A Commentary on Heidegger's Being and Time, Division I*. Cambridge, MA: MIT Press.
+- Dreyfus, H. L., & Kelly, S. D. (2011). *All Things Shining: Reading the Western Classics to Find Meaning in a Secular Age*. New York: Free Press.

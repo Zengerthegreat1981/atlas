@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
 - id: "crt-critique-of-grit-research", title: "نقد «Grit»: مَدْح الْاِسْتِمْرَار يَسْتَهْدِف مَن يَفْتَقِرُون إِلَى الْحُظّ", type: "نقد خارجي موثَّق"
-- id: "wrk-grit-2016", title: "المثابرة", type: "عمل / كتاب"
+- id: "wrk-grit-2016", title: "عقل السعي: عقلية العزيمة والشغف والإصرار", type: "عمل / كتاب"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق من *Grit: The Power of Passion and Perseverance* (2016) بترجمة عربية معتمدة."

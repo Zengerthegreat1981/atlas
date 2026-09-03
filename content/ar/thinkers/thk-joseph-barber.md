@@ -40,3 +40,9 @@ gaps:
 ## أهم أعماله
 
 كتاب "التنويم والإيحاء في علاج الألم: دليل إكلينيكي" (Hypnosis and Suggestion in the Treatment of Pain: A Clinical Guide).
+
+## المصادر
+
+- Barber, J. (Ed.). (1996). *Hypnosis and Suggestion in the Treatment of Pain: A Clinical Guide*. W. W. Norton.
+- Montgomery, G. H., DuHamel, K. N., & Redd, W. H. (2000). A meta-analysis of hypnotically induced analgesia: How effective is hypnosis? *International Journal of Clinical and Experimental Hypnosis*, 48(2), 138–153.
+- صفحة السيرة المؤسسية لجوزيف باربر ضمن هيئة التدريس الإكلينيكي في كلية طب جامعة واشنطن، ومؤسسة ميلتون إريكسون (بيانات المتحدثين المعتمدين).

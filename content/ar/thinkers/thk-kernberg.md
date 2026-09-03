@@ -62,3 +62,13 @@ gaps:
 ## أهم أعماله
 
 حالات الشخصية الحدية والنرجسية المرضية (Borderline Conditions and Pathological Narcissism, 1975) · نظرية العلاقات بالموضوع والتحليل النفسي الإكلينيكي (Object-Relations Theory and Clinical Psychoanalysis, 1976) · اضطرابات الشخصية الشديدة (Severe Personality Disorders, 1984) · علاقات الحب: السواء والمرض (Love Relations, 1995).
+
+**ملاحظة توضيحية**: كتاب *Object-Relations Theory and Clinical Psychoanalysis* (1976) من تأليف كيرنبرغ نفسه، ويختلف عن كتاب *Object Relations in Psychoanalytic Theory* (1983) الذي ألّفه جاي غرينبرغ وستيفن ميتشل (`wrk-object-relations-1983`) — لا صلة تأليفية بينهما رغم تشابه العنوانين، ولا يُنسب كتاب غرينبرغ وميتشل لكيرنبرغ في هذا الملف.
+
+## المصادر
+
+- Kernberg, O. F. (1975). *Borderline Conditions and Pathological Narcissism*. Jason Aronson.
+- Kernberg, O. F. (1976). *Object-Relations Theory and Clinical Psychoanalysis*. Jason Aronson.
+- Kernberg, O. F. (1984). *Severe Personality Disorders: Psychotherapeutic Strategies*. Yale University Press.
+- Clarkin, J. F., Levy, K. N., Lenzenweger, M. F., & Kernberg, O. F. (2007). Evaluating three treatments for borderline personality disorder: A multiwave study. *American Journal of Psychiatry*, 164(6), 922–928.
+- Greenberg, J. R., & Mitchell, S. A. (1983). *Object Relations in Psychoanalytic Theory*. Harvard University Press. (عمل منفصل، لا يُنسب لكيرنبرغ.)
