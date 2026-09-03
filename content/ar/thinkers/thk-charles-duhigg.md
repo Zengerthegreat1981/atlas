@@ -48,3 +48,8 @@ gaps:
 - *Smarter Faster Better* (2016).
 - *Supercommunicators* (2024).
 
+## المصادر
+
+- "Charles Duhigg Biography," charlesduhigg.com: https://charlesduhigg.com/about/
+- "Charles Duhigg," *Wikipedia* (قاد فريق نيويورك تايمز الحائز على جائزة بوليتزر 2013 عن سلسلة "The iEconomy"): https://en.wikipedia.org/wiki/Charles_Duhigg
+

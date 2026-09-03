@@ -6,11 +6,11 @@ level: "متوسط"
 title: "ديفيد ك. رينولدز"
 en: "David K. Reynolds"
 crumb: "Constructive Living ← المؤسسة ← ديفيد ك. رينولدز"
-dates: "الولايات المتحدة · 1941–2017"
+dates: "الولايات المتحدة · تاريخ الميلاد والوفاة غير مؤكَّد من مصدر أولي"
 country: "الولايات المتحدة"
 language: "إنجليزية"
-active_start: 1976
-active_end: 2010
+active_start: 1964
+active_end: "غير مؤكَّد"
 part: "psychology"
 edges: []
 related:
@@ -22,6 +22,7 @@ gaps:
   - "السيرة الذاتية الكاملة في جامعة هونولولو لم تُراجع مباشرة."
   - "لا يوجد اقتباس مباشر موثوق من *Constructive Living* (1984) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ريتشارد ريبو (thk-rreibo)."
+  - "تاريخا الميلاد والوفاة (كانت النسخة السابقة تذكر '1941–2017') لم يُعثر لهما على مصدر أولي موثوق؛ سيرته الذاتية الرسمية (vita) والمصادر المتاحة لا تذكر تاريخ ميلاد ولا وفاة، وثمة فعالية موثّقة له في 2015 تُظهره حيّاً حينها. حُذف تاريخ الوفاة 2017 لعدم وجود ما يثبته."
 ---
 
 # ديفيد ك. رينولدز
@@ -48,3 +49,10 @@ gaps:
 
 ## القيد
 - **تكييف Morita للبيئة الأمريكية** لا يخلو من تبسيطات — بعض الممارسين اليابانيين انتقدوا استخراج Morita من سياقه الأصلي البوذي.
+
+## المصادر
+
+- David K. Reynolds, Wikipedia: https://en.wikipedia.org/wiki/David_K._Reynolds
+- Vita (السيرة الذاتية الرسمية عبر موقع Constructive Living)، تفاصيل التعليم والمسيرة المهنية (BA 1964، MA 1965، PhD 1969 من قسم الأنثروبولوجيا بجامعة UCLA): https://constructiveliving2.weebly.com/vita.html
+- UBC Press، صفحة المؤلف David K. Reynolds: https://www.ubcpress.ca/david-k-reynolds
+- The World Link (Coos Bay, Oregon)، تغطية فعالية لديفيد رينولدز عام 2015 (تُظهر أنه كان حياً ونشطاً حينها): https://theworldlink.com/lifestyles/go/learn-about-constructive-living-from-dr-david-reynolds/article_209916e9-5861-5a2e-bef4-aa4d8d461535.html

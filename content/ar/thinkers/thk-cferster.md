@@ -19,10 +19,9 @@ related:
 - id: "thk-donbaer", title: "دونالد م. باير", type: "مفكر"
 - id: "thk-acatania", title: "أ. تشارلز كاتانيا", type: "مفكر"
 - id: "thk-lovaas", title: "إيفار لوفاس", type: "مفكر"
-- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Schedules of Reinforcement* (1957) بترجمة عربية معتمدة."
-  - "سنة الوفاة (1981) لم تُراجع من مصدر أولي."
 ---
 
 # تشارلز فيرستر
@@ -43,3 +42,10 @@ gaps:
 ## أهم أعماله
 
 جداول التعزيز (Schedules of Reinforcement, 1957، مع سكينر) · مبادئ السلوك (Behavior Principles, 1968، مع بيرّوت) · مقالات في *J. Exp. Anal. Behav.*
+
+## المصادر
+
+- Charles Ferster — Wikipedia: https://en.wikipedia.org/wiki/Charles_Ferster
+- Ferster, C.B. — SpringerLink (Encyclopedia entry): https://link.springer.com/rwe/10.1007/978-1-4419-1698-3_1293
+- Ferster, C. B., & Skinner, B. F. (1957). *Schedules of Reinforcement*. New York: Appleton-Century-Crofts.
+- The Autism History Project (University of Oregon) — Applied Behavior Analysis: https://blogs.uoregon.edu/autismhistoryproject/topics/applied-behavior-analysis/

@@ -45,3 +45,10 @@ gaps:
 - *رسالة في ذكر ما تُرجم من كتب جالينوس*.
 - *نوادر الفلاسفة والحكماء*.
 - ترجماته لجالينوس وأبقراط وأرسطو وأفلاطون وديسقوريدس.
+
+## المصادر
+
+- "Ḥunayn ibn Isḥāq." *Encyclopædia Britannica*. https://www.britannica.com/biography/Hunayn-ibn-Ishaq
+- O'Connor, J. J. & Robertson, E. F. "Hunayn ibn Ishaq." *MacTutor History of Mathematics Archive*, University of St Andrews. https://mathshistory.st-andrews.ac.uk/Biographies/Hunayn/
+- Gutas, D. (1998). *Greek Thought, Arabic Culture: The Graeco-Arabic Translation Movement in Baghdad and Early ʿAbbāsid Society*. Routledge.
+- Meyerhof, M. (1926). "New Light on Ḥunain ibn Isḥâq and his Period." *Isis*, 8(4).

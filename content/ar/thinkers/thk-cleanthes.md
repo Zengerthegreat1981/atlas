@@ -42,3 +42,10 @@ gaps:
 ## اقتباسات مختارة
 
 «قُدني يا زيوس، وأنت أيها القدر، إلى حيث رسمتما لي؛ فسأتبع دون تردّد. وإن أبيتُ فصرتُ شقيّاً، فسأتبع مع ذلك.» (نقله إبكتيتوس في المختصر، 53)
+
+## المصادر
+
+- Cleanthes — Encyclopaedia Britannica: https://www.britannica.com/biography/Cleanthes
+- Cleanthes — Wikipedia: https://en.wikipedia.org/wiki/Cleanthes
+- Diogenes Laërtius, *Lives of Eminent Philosophers*, Book VII (زينون وكليانثس وخريسيبوس).
+- Epictetus, *Enchiridion* (المختصر)، الفصل 53 (اقتباس «قُدني يا زيوس»).

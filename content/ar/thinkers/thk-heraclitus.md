@@ -18,8 +18,8 @@ related:
 - id: "trm-logos-heraclitus-stoic", title: "اللوغوس (Logos): الكلمة والعقل الكلي ونظام الوجود", type: "مصطلح لغوي متنازع عليه"
 - id: "met-heraclitus-river", title: "نهر هرقليطس: استعارة الصيرورة وتدفق الوجود الدائم", type: "استعارة/مجاز مؤسِّس"
 - id: "met-mind-as-water-stream", title: "العقل كَماء: استعارة التَّدَفُّق والتَّشَكُّل", type: "استعارة/مجاز مؤسِّس"
-- id: "thk-parmenides", title: "بارمنيدس", type: "مفكر"
-- id: "con-logos-heraclitus", title: "اللوغوس عند هيراقليطس", type: "مفهوم"
+- id: "thk-parmenides", title: "بارمنيدس الإيلي", type: "مفكر"
+- id: "con-logos-heraclitus", title: "اللوغوس الكوني عند هيراقليطس (Heraclitean Logos)", type: "مفهوم"
 gaps:
   - "لم يصل من كتابه إلا نحو مئة وثلاثين شذرة مقتبسة في مصنّفات لاحقة، ولا يُعرف ترتيبها الأصلي — وهو ما يجعل كل عرض منسّق لفلسفته إعادةَ بناء لا نقلاً."
   - "لا يوجد اقتباس مباشر من *في الطبيعة* (Peri Physeōs) بترجمة عربية معتمدة، إذ لم يصل الكتاب إلا شذرات في مصنّفات لاحقة."
@@ -36,3 +36,9 @@ gaps:
 ## أهم أعماله
 
 - *في الطبيعة* (Peri Physeōs) — الكتاب الوحيد المنسوب إليه، أودعه معبد أرتميس في إفسوس ولم يصلنا منه إلا الشذرات.
+
+## المصادر
+
+- Heraclitus (Fragments), Sapientia — pressbooks.pub/sapientia/chapter/heraclitus-fragments/
+- "Heraclitus", Internet Encyclopedia of Philosophy / studyancients.com — دليل شامل للشذرات ومصادرها الثانوية اليونانية واللاتينية
+- Heidegger, Martin & Fink, Eugen. *Heraclitus Seminar, 1966/67*, trans. Charles H. Seibert, University of Alabama Press (متوفر أيضاً عبر Northwestern University Press)

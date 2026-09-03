@@ -6,7 +6,7 @@ level: "متوسط"
 title: "بوني بينبريدج كوهن"
 en: "Bonnie Bainbridge Cohen"
 crumb: "Body-Mind Centering ← مؤسسة ← بوني بينبريدج كوهن"
-dates: "الولايات المتحدة · وُلدت 1940"
+dates: "الولايات المتحدة · وُلدت 1941"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1973
@@ -15,6 +15,7 @@ part: "psychology"
 edges: []
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Sensing, Feeling, and Action* (1993) بترجمة عربية معتمدة."
+  - "لا يوجد رابط مدرسة (edge) لـ Body-Mind Centering في قاعدة المدارس الحالية؛ edges تُركت فارغة عمداً بانتظار إنشاء ملف مدرسة مخصص."
 ---
 
 # بوني بينبريدج كوهن
@@ -31,9 +32,16 @@ gaps:
 
 ## موقعها من التيار
 
-تأثرت كوهن بأعمال تشارلز كوليير، وبروس ميلر، وعالمة الحركة إيلا فروشمز. يُعدّ BMC مقاربة جسرية بين العلاج بالحركة، علم النفس الجسدي، طب الأطفال، والتعليم الجسدي.
+تأثرت كوهن بمعلّمين متعدّدين: **إيرمغارد بارتينييف** (Irmgard Bartenieff)، التي تدرّبت معها وتأهّلت كمحلِّلة حركة بطريقة لابان (Laban Movement Analyst) عام 1974؛ **جوديث كستنبرغ** (Judith Kestenberg)، التي تأهّلت معها في تحليل ملف كستنبرغ الحركي؛ **أندريه برنار** وباربرا كلارك في إعادة التأهيل العصبي-العضلي على خطى **مايبل إلسورث تود**؛ الراقص **إريك هوكينز** (Erick Hawkins) الذي واصلت العمل مع فرقته؛ والزوجين **بوباث** (Bobath) في العلاج العصبي النمائي بإنجلترا. يُعدّ BMC مقاربة جسرية بين العلاج بالحركة، علم النفس الجسدي، طب الأطفال، والتعليم الجسدي.
 
 ## أهم أعمالها
 
-- *Sensing, Feeling, and Action* (1993).
+- *Sensing, Feeling, and Action: The Experiential Anatomy of Body-Mind Centering* (1993).
+- *The Mechanics of Vocal Expression*.
+- *Basic Neurocellular Patterns: Embodying Developmental Movement*.
 - مقالات ومواد تدريبية في *Body-Mind Centering* (منشورات المدرسة).
+
+## المصادر
+
+- "Bonnie Bainbridge Cohen Curriculum Vitae," Body-Mind Centering®: https://www.bodymindcentering.com/bonnie-bainbridge-cohen-cv/
+- "Bonnie Bainbridge Cohen Bio," Body-Mind Centering®: https://www.bodymindcentering.com/bonnie-bainbridge-cohen-bio/

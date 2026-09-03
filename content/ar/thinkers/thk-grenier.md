@@ -13,14 +13,14 @@ country: "فرنسا"
 language: "الفرنسية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
 - id: "con-absurd", title: "العبث", type: "مفهوم"
 - id: "con-isolation", title: "العزلة", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
-  - "كتابه 'الجزر' (Les Îles, 1933) ومقدمة كامو التاريخية له تستحق توثيقاً."
+  - "التحقّق (بحث ويب، أيلول 2026): تواريخ غرينييه (1898-1971)، وتدريسه في الجزائر ولقاؤه كامو عام 1930، وانتهاء مسيرته أستاذاً للجماليات في السوربون، وصدور 'الجزر' عام 1933 — جميعها مؤكَّدة من ويكيبيديا الإنجليزية وسير مستقلة. كان الرابط `edges.belongs_to` يشير خطأً إلى sch-existential-therapy (مدرسة علاجية في علم النفس، مغايرة تماماً لموضوع الملف) وصُحِّح إلى sch-existentialism (المدرسة الوجودية الفلسفية) بما يطابق `crumb` و`part: philosophy`."
 ---
 
 # جان غرينييه
@@ -41,3 +41,10 @@ gaps:
 ## أهم أعماله
 
 الجزر (Les Îles, 1933 مع مقدمة ألبير كامو في 1959) · إلهامات متوسطية (Inspirations méditerranéennes, 1941) · وجودات (Existences, 1945) · رسائل متبادلة مع ألبير كامو (Correspondance Albert Camus – Jean Grenier, 1932–1960، نُشرت بعد وفاته عام 1981).
+
+## المصادر
+
+- "Jean Grenier." *Wikipedia (English)*, accessed September 2026.
+- Garfitt, Toby. *Jean Grenier: A Writer and a Teacher*. (biography referencing Sorbonne aesthetics chair, Algiers teaching, and Camus mentorship).
+- *The Work and Thought of Jean Grenier (1898–1971)*, OAPEN library collection.
+- Camus, Albert & Grenier, Jean. *Correspondance, 1932–1960*. Gallimard, 1981.

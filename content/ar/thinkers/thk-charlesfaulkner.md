@@ -6,7 +6,7 @@ level: "متوسط"
 title: "تشارلز فولكنر"
 en: "Charles Faulkner"
 crumb: "البرمجة اللغوية العصبية ← ممارسون ← تشارلز فولكنر"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "سانت كلير شورز، ميشيغان · وُلد 12 يناير 1952"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980
@@ -18,9 +18,8 @@ related:
 - id: "thk-rbandler", title: "ريتشارد بَندلر", type: "مفكر"
 - id: "thk-rdilts", title: "روبرت ديلتس", type: "مفكر"
 gaps:
-  - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "اقتباس موثّق بمصدر وسنة محددة غير متوفر حالياً — لم يُدرَج أي نص منسوب إليه."
-  - "عناوين أعماله وتواريخها الدقيقة (بخلاف العمل المشترك المذكور) غير موثّقة بعد وتحتاج مراجعة أولية."
+  - "القائمة الكاملة لعناوين أعماله (نحو عشرة كتب مشتركة، منها Metaphors of Identity 1991 وTrimurti 2001) غير موثّقة بعد بالكامل وتحتاج مراجعة أولية."
 ---
 
 # تشارلز فولكنر
@@ -38,8 +37,17 @@ gaps:
 
 ## القيد
 
-معظم التفاصيل السيرية الدقيقة عنه (سنة الميلاد، القائمة الكاملة لمؤلفاته الفردية) غير موثّقة في هذه النسخة، وتحتاج مراجعة من مصدر أولي قبل التوسع.
+القائمة الكاملة لمؤلفاته الفردية وتواريخها الدقيقة غير موثّقة بالكامل في هذه النسخة، وتحتاج مراجعة من مصدر أولي قبل التوسع.
 
 ## أهم أعماله
 
 - *NLP: The New Technology of Achievement* (1994، بالاشتراك مع روبرت ديلتس وتيم هالبوم وسوزي سميث).
+- *Metaphors of Identity* (1991).
+- *Trimurti* (2001) — لعبة تغيير سلوكي منهجي مبنية على أدوات NLP.
+
+## المصادر
+
+- "Charles Faulkner (author)." *Wikipedia*. https://en.wikipedia.org/wiki/Charles_Faulkner_(author)
+- Schwager, J. D. (1992). *The New Market Wizards: Conversations with America's Top Traders*. HarperBusiness (يتضمّن مقابلة مع فولكنر بصفته متداولاً).
+- "Charles W Faulkner." *The Association for NLP (ANLP)*. https://anlp.org/people/charles-w-faulkner
+- "Charles Faulkner." *NLP Comprehensive*. https://nlpco.com/charles-faulkner-2/

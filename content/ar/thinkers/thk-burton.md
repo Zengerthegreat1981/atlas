@@ -21,6 +21,7 @@ related:
 gaps:
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
   - "كتاباته السريرية حول لقاء الشيزوفرينيا وجودياً تحتاج مراجعة في الأدبيات الأمريكية المبكرة."
+  - "تواريخ الميلاد والوفاة (1914–1980) لم تُؤكَّد بمصدر مستقل موثوق (سيرة ذاتية أو نعي)؛ المؤكَّد بالبحث هو نشاطه التحريري بين 1955 و1976 على الأقل (Clinical Studies of Personality 1955، Psychotherapy of the Psychoses 1961، Encounter 1969)."
 ---
 
 # آرثر بورتون
@@ -40,4 +41,10 @@ gaps:
 
 ## أهم أعماله
 
-الممارسة العلاجية الحديثة (Modern Psychotherapeutic Practice, 1965) · اللقاء: نظرية مجموعات اللقاء وممارستها (Encounter, 1969) · ما الذي يُحدث تغيّر السلوك (What Makes Behavior Change Possible?, 1976).
+الممارسة العلاجية الحديثة (Modern Psychotherapeutic Practice, 1965) · اللقاء: نظرية مجموعات اللقاء وممارستها (Encounter, 1969) · ما الذي يُحدث تغيّر السلوك (What Makes Behavior Change Possible?, 1976). كما حرَّر Psychotherapy of the Psychoses (1961) وClinical Studies of Personality (1955) وCase Studies in Counseling and Psychotherapy.
+
+## المصادر
+
+- Wellcome Collection / Internet Archive، تسجيل *Psychotherapy of the Psychoses*، تحرير Arthur Burton، Basic Books، 1961 — https://archive.org/details/psychotherapyofp0000arth
+- PEP-Web، مراجعة كتاب *Psychotherapy of the Psychoses* لـ Arthur Burton، International Journal of Psychoanalysis — https://pep-web.org/search/document/IJP.043.0184A
+- سجلات ناشرين (Amazon/AbeBooks) لكتاب *Encounter: The Theory and Practice of Encounter Groups*، تحرير Arthur Burton، Jossey-Bass، 1969.

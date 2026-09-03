@@ -31,3 +31,11 @@ gaps:
 وفي *Process Consultation* (1969) قلب دور المستشار: لا يأتي بجواب من خارج بل يساعد المنظمة على رؤية عملياتها الخاصة، لأن الخبير الذي يشخّص من الخارج يفقد بالضبط ما لا يُرى إلا من الداخل. وامتدّ هذا المنطق في كتابه المتأخر *Humble Inquiry* (2013) إلى السؤال نفسه بوصفه مهارة: السؤال الذي لا يُضمر جواباً.
 
 كما وضع مفهوم **«مراسي المهنة»** (Career Anchors): القيمة الواحدة التي لا يساوم عليها الفرد في عمله مهما تغيّرت وظائفه.
+
+## المصادر
+
+- "Edgar H. Schein", Thinkers50 — thinkers50.com/biographies/edgar-h-schein/
+- "5 enduring management ideas from MIT Sloan's Edgar Schein", MIT Sloan — mitsloan.mit.edu/ideas-made-to-matter/5-enduring-management-ideas-mit-sloans-edgar-schein
+- Schein, Edgar H. *Organizational Culture and Leadership*, Jossey-Bass, 1985
+- Schein, Edgar H. *Process Consultation*, Addison-Wesley, 1969
+- Schein, Edgar H. *Humble Inquiry: The Gentle Art of Asking Instead of Telling*, Berrett-Koehler, 2013

@@ -6,25 +6,26 @@ level: "متوسط"
 title: "بيل ديفال"
 en: "Bill Devall"
 crumb: "الإيكولوجيا العميقة ← مؤسس مشارك ← بيل ديفال"
-dates: "الولايات المتحدة · 1937–2010"
+dates: "الولايات المتحدة · 1938–2009"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "philosophy"
 active_start: 1970
-active_end: 2002
+active_end: 2009
 edges:
 - rel: "belongs_to", target: "sch-deep-ecology", target_type: "مدرسة"
 related:
-- id: "thk-arne-naess", title: "آرنه نايس", type: "مفكر"
+- id: "thk-arne-naess", title: "أرنه نايس", type: "مفكر"
 - id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
-- id: "sch-environmental-ethics", title: "فلسفة البيئة", type: "مدرسة"
+- id: "sch-environmental-ethics", title: "فلسفة البيئة / الأخلاق البيئية", type: "مدرسة"
 - id: "sch-social-ecology", title: "الإيكولوجيا الاجتماعية", type: "مدرسة"
-- id: "con-deep-ecology-naess", title: "الإيكولوجيا العميقة (نايس)", type: "مفهوم"
-- id: "con-deep-vs-shallow", title: "الإيكولوجيا الضحلة مقابل العميقة", type: "مفهوم"
+- id: "con-deep-ecology-naess", title: "الإيكولوجيا العميقة والقيمة الذاتية للبيئة (Deep Ecology)", type: "مفهوم"
+- id: "con-deep-vs-shallow", title: "الإيكولوجيا الضحلة مقابل العميقة (Shallow vs. Deep)", type: "مفهوم"
 gaps:
   - "كتابات Devall اللاحقة في التسعينيات لم تُجمع في كتاب أكاديمي موحد."
   - "لا توجد ترجمة عربية موثّقة لـDeep Ecology (1985) أو Simple in Means, Rich in Ends (1988)."
   - "علاقته بـSessions في تحرير \"Deep Ecology\" تحتاج إعادة تقييم نقدي."
+  - "سنة نشر Clearcut: The Tragedy of Industrial Forestry تتراوح بين 1993 (غلاف ورقي) و1994 (غلاف مقوى) في المصادر."
 ---
 
 # بيل ديفال
@@ -53,3 +54,11 @@ gaps:
 ## اقتباسات مختارة
 
 لا يوجد اقتباس مباشر موثّق في هذا الملف.
+
+## المصادر
+
+- Bill Devall (1938–2009), "HSU Sociologist, Environmentalist Dies in Trinidad", Humboldt NOW / Cal Poly Humboldt — https://now.humboldt.edu/news/hsu-sociologist-environmentalist-dies-in-trinidad
+- "Bill Devall Obituary" (2009), Times-Standard — https://www.legacy.com/us/obituaries/times-standard/name/bill-devall-obituary?id=22622651
+- "Profile: Bill Devall", deepecology.net — https://deepecology.net/posts/profiles/bill-devall/
+- Devall, B. & Sessions, G., *Deep Ecology: Living as if Nature Mattered* (1985), Gibbs Smith.
+- Devall, B. (ed.), *Clearcut: The Tragedy of Industrial Forestry* (Sierra Club Books / Earth Island Press, 1993/1994).

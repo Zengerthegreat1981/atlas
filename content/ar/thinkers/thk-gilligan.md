@@ -15,7 +15,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-care-ethics", target_type: "مدرسة"
 related:
-- id: "sch-care-ethics", title: "أخلاقيات الرعاية", type: "مدرسة"
+- id: "sch-care-ethics", title: "أخلاقيات الرعاية (Care Ethics)", type: "مدرسة"
 - id: "thk-lkohlberg", title: "لورنس كولبرغ", type: "مفكر"
 - id: "con-care-ethics", title: "أخلاقيات الرعاية", type: "مفهوم"
 - id: "con-different-voice", title: "الصوت المختلف (In a Different Voice)", type: "مفهوم"
@@ -53,3 +53,11 @@ gaps:
 - أثّرت في **النسوية** (Held، Noddings، Tronto).
 - أثّرت في **علم النفس الأخلاقي** (برامج النمو الأخلاقي في المدارس).
 - أثّرت في **أخلاقيات الرعاية الصحية** و**الفلسفة السياسية** (Held، *The Ethics of Care as Moral Theory*).
+
+## المصادر
+
+- Carol Gilligan, *In a Different Voice: Psychological Theory and Women's Development*, Harvard University Press, 1982.
+- Britannica, "Carol Gilligan" — https://www.britannica.com/biography/Carol-Gilligan
+- Wikipedia, "Carol Gilligan" — https://en.wikipedia.org/wiki/Carol_Gilligan
+- Jewish Women's Archive, "Carol Gilligan publishes *In a Different Voice*" — https://jwa.org/thisweek/may/24/1982/carol-gilligan
+- Harvard University Press, صفحة الكتاب — https://www.hup.harvard.edu/books/9780674970960

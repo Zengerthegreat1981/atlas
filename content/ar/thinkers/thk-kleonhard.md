@@ -44,3 +44,9 @@ gaps:
 - *Aufteilung der endogenen Psychosen* (1957) — «تقسيم الذهانات الداخلية»، وفيه التمييز بين أحادي القطب وثنائي القطب.
 - *Akzentuierte Persönlichkeiten* (1968) — «الشخصيات المُشدَّدة».
 - *Die Sprache des Kindes* (1970).
+
+## المصادر
+
+- Jabłoński, P., & Pull, C. "Karl Leonhard (1904–1988)." *American Journal of Psychiatry* 155(10), 1998.
+- "Karl Leonhard (1904–1988) – Psychiatrist and neurologist at the Charité in Berlin." *ResearchGate* / *Fortschritte der Neurologie-Psychiatrie*.
+- Beckmann, H. "Karl Leonhard (21.03.1904–23.04.1988)." *European Archives of Psychiatry and Clinical Neuroscience*.

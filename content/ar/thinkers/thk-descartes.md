@@ -17,7 +17,7 @@ edges:
 - rel: "belongs_to", target: "sch-continental-rationalism", target_type: "مدرسة"
 related:
 - id: "sch-cartesianism", title: "الديكارتية", type: "مدرسة"
-- id: "sch-continental-rationalism", title: "العقلانية القارية", type: "مدرسة"
+- id: "sch-continental-rationalism", title: "العقلانية القارية (كمظلة)", type: "مدرسة"
 - id: "thk-spinoza", title: "باروخ سبينوزا", type: "مفكر"
 - id: "con-cogito", title: "الكوجيتو: أنا أفكر إذن أنا موجود", type: "مفهوم"
 - id: "ctx-counter-reformation-jesuit-education", title: "الإصلاح الكاثوليكي المضاد والتربية اليسوعية وفنون الباروك", type: "سياق/تقليد"
@@ -57,3 +57,9 @@ gaps:
 - **Principia Philosophiae** (1644): مبادئ الفلسفة.
 - **Passiones Animae** (1649): انفعالات النفس.
 - **Le Monde** (نُشر بعد وفاته عام 1664): العالم (لم ينشره في حياته).
+
+## المصادر
+
+- "Cogito, ergo sum", Wikipedia — على الصياغة الأصلية الفرنسية "Je pense, donc je suis" في *Discours de la Méthode* (1637) وترجمتها اللاتينية اللاحقة في *Principia Philosophiae* (1644): https://en.wikipedia.org/wiki/Cogito,_ergo_sum
+- "René Descartes Writes, 'Je pense, donc je suis'", History of Information: https://www.historyofinformation.com/detail.php?entryid=2281
+- "The Discourse on Method", Encyclopædia Britannica: https://www.britannica.com/topic/The-Discourse-on-Method

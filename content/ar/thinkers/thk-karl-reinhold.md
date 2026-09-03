@@ -15,14 +15,14 @@ active_end: 1823
 edges:
 - rel: "belongs_to", target: "sch-kant-critical", target_type: "مدرسة"
 related:
-- id: "thk-kant", title: "إمانويل كانط", type: "مفكر"
+- id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
 - id: "thk-fichte", title: "يوهان غوتليب فيشته", type: "مفكر"
-- id: "thk-schelling", title: "فريدريش شيلنغ", type: "مفكر"
-- id: "thk-hegel", title: "غورغ فيلهلم فريدريش هيغل", type: "مفكر"
+- id: "thk-schelling", title: "فريدريش شيلينغ", type: "مفكر"
+- id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
 - id: "sch-kant-critical", title: "الكانطية النقدية", type: "مدرسة"
-- id: "sch-german-idealism", title: "المثالية الألمانية", type: "مدرسة"
-- id: "sch-fichte", title: "مدرسة فيشته", type: "مدرسة"
-- id: "con-categorical-imperative-kant", title: "الأمر القطعي (كانط)", type: "مفهوم"
+- id: "sch-german-idealism", title: "المثالية الألمانية (كمظلة)", type: "مدرسة"
+- id: "sch-fichte", title: "الفيختية", type: "مدرسة"
+- id: "con-categorical-imperative-kant", title: "الأمر الأخلاقي المطلق عند كانط (Categorical Imperative)", type: "مفهوم"
 gaps:
   - "علاقته الشخصية مع Fichte في ينا (1790s) تنقصها مراسلات متبادلة منشورة تسندها."
   - "تحوّله من 'الكانطية' إلى 'Fenelonian Mysticism' في حياته اللاحقة لم يُحلَّل."
@@ -61,3 +61,8 @@ gaps:
 
 > "إنّ الفلسفة الكانطية ليست سوى حجر الزاوية الذي يجب أن يُبنى عليه كلّ فلسفة مستقبليّة."
 > *(Briefe über die Kantische Philosophie, 1786، ترجمة تقريبية)*
+
+## المصادر
+
+- Karl Ameriks (ed.), "Karl Leonhard Reinhold," *Stanford Encyclopedia of Philosophy*: https://plato.stanford.edu/entries/karl-reinhold/
+- "Karl Leonhard Reinhold," *Wikipedia* (بيانات الميلاد والوفاة والمناصب الأكاديمية في ينا وكيل): https://en.wikipedia.org/wiki/Karl_Leonhard_Reinhold

@@ -14,7 +14,7 @@ active_start: -455
 active_end: -434
 edges: []
 related:
-- id: "thk-parmenides", title: "بارمنيدس", type: "مفكر"
+- id: "thk-parmenides", title: "بارمنيدس الإيلي", type: "مفكر"
 gaps:
   - "نظرية الجذور الأربعة (الماء، الهواء، النار، التراب) وقوتي المحبة والشقاق (Love and Strife)."
   - "تصنيفه في edges تحت «المدرسة الإيلية» يخالف مسار التصفح نفسه (crumb: التعددية ما قبل السقراطية): أنباذوقليس تعدُّدي ردَّ على بارمنيدس ولم يكن إيلياً. يحتاج قراراً تحريرياً."
@@ -41,3 +41,9 @@ gaps:
 
 - *في الطبيعة* (Peri physeōs) — شذرات.
 - *التطهّرات* (Katharmoi) — شذرات.
+
+## المصادر
+
+- Britannica, "Empedocles" — https://www.britannica.com/biography/Empedocles
+- Wikipedia, "Empedocles" — https://en.wikipedia.org/wiki/Empedocles
+- Stanford Encyclopedia of Philosophy تُستخدم عادة كمرجع إضافي لشذرات أنباذوقليس وتأريخه (c. 494–434 ق.م) وأسطورة إتنا المتأخرة (رواها ديوجينس لايرتيوس، وتُعامَل نقدياً كأسطورة لا واقعة).

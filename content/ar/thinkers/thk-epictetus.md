@@ -17,7 +17,7 @@ edges:
 related:
 - id: "sch-stoicism", title: "المدرسة الرواقية", type: "مدرسة"
 - id: "thk-marcus-aurelius", title: "ماركوس أوريليوس", type: "مفكر"
-- id: "rel-stoicism-cbt", title: "الرواقية وCBT", type: "علاقة بين مدرستين"
+- id: "rel-stoicism-cbt", title: "الرواقية والعلاج المعرفي السلوكي: من إبكتيتوس إلى بيك", type: "علاقة بين مدرستين"
 gaps:
   - "نسبة الصياغة اللفظية في «الأحاديث» إلى إبكتيتوس نفسه مقابل ما أضافه آريان مسألة خلافية بين الدارسين، وتحتاج عرضاً مستقلاً."
   - "لا يوجد اقتباس منسوب بمصدر وسنة من «المختصر» أو «الأحاديث» في طبعة عربية معتمدة."
@@ -31,3 +31,10 @@ gaps:
 
 - *المختصر (Enchiridion)* — خلاصة موجزة استخرجها آريان من الأحاديث، وهي أكثر نصوصه تداولاً عبر التاريخ.
 - *الأحاديث (Discourses / Diatribai)* — دوّنها تلميذه آريان عن دروسه الشفوية، ووصلنا منها أربعة كتب من ثمانية.
+
+## المصادر
+
+- Long, A. A. (2002). *Epictetus: A Stoic and Socratic Guide to Life*. Oxford University Press.
+- "Epictetus." *Encyclopædia Britannica*. https://www.britannica.com/biography/Epictetus-Greek-philosopher
+- "Epictetus." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/epictetus/
+- Hard, R. (trans.) (2014). *Epictetus: Discourses, Fragments, Handbook*. Oxford University Press.

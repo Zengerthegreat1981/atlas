@@ -5,7 +5,7 @@ type: "مفكر"
 level: "متوسط"
 title: "غونتهارد فيبر"
 en: "Gunthard Weber"
-dates: "ألمانيا · وُلد 1946"
+dates: "ألمانيا · وُلد 1940"
 country: "ألمانيا"
 language: "الألمانية"
 active_start: 1985
@@ -19,10 +19,11 @@ related:
 - id: "thk-jschneider", title: "ياكوب شنايدر", type: "مفكر"
 - id: "thk-jjoyce", title: "مارغريت بِي", type: "مفكر"
 gaps:
-  - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
+  - "سنة الميلاد 1940 مأخوذة من مصادر ثانوية (مواقع معاهد ألمانية)؛ لم تُراجع من سجل رسمي أو سيرة أكاديمية أولية."
   - "لا يوجد اقتباس مباشر موثوق من *Zweierlei Glück* (1993) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مارغريت بِي (thk-jjoyce)."
   - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«تشكيلات الأسرة (Family Constellations)» في content/ar/schools أو branches."
+  - "عدد لغات ترجمة Zweierlei Glück يختلف بين المصادر (10 مقابل 22 لغة)؛ لم يُحسم."
 ---
 
 # غونتهارد فيبر
@@ -33,7 +34,7 @@ gaps:
 
 - **"تشكيلات في السياق العلاجي"**: تكامل بين تشكيلات الأسرة والعلاج الأسري.
 - **تقنين الطريقة**: حرّر *Zweierlei Glück* (1993)، الكتاب الذي نقل عمل هلنغر من ورش شفوية إلى نصّ منشور، وهو سبب انتشار «تشكيلات الأسرة» في العالم الناطق بالألمانية.
-- **الانفصال عن هلنغر**: كان فيبر من أوائل من أعلنوا القطيعة معه. في عام 2004 وقّع مع مجموعة من كبار الممارسين رسالة مفتوحة انتقدوا فيها أسلوب هلنغر السلطوي ومقولاته عن «النظام» الذي يوجب على الضحية الانحناء للجاني، ودعوا إلى ممارسة تخضع لمعايير مهنية وأخلاقية. هذا الانفصال هو ما يحدّد موقع فيبر في تاريخ الطريقة.
+- **التمايز عن هلنغر**: شهد حقل «تشكيلات الأسرة» موجة تباعد نقدي عن هلنغر بلغت ذروتها مع «إعلان بوتسدام» (Potsdam Declaration) عام 2004، الذي أصدرته الجمعية النظامية الألمانية (Systemische Gesellschaft) منتقدةً أسلوب هلنغر السلطوي ومقولاته عن «النظام» الذي يُحمِّل الضحية مسؤولية الانحناء للجاني. فيبر نفسه لم يوقّع هذا الإعلان تحديداً — إذ رأى أنه لا ينصف إسهام هلنغر في تطوير الطريقة — لكنه نشر لاحقاً كتاب *Aufstellungsarbeit revisited* (بالاشتراك مع جونتر شميت وفريتز ب. سيمون وماتياس فارغا فون كيبيد) الذي يقدّم مراجعة نقدية للطريقة بعد هلنغر. هذا الموقف «الوسطي» — نقدي جزئياً لكن غير قاطع — هو ما يميّز فيبر عن غيره من المتباعدين.
 
 ## القيد
 تشكيلات الأسرة من أكثر الطرق العلاجية إثارة للاعتراض في الأوساط الألمانية: لا قاعدة أدلّة تجريبية معتبَرة لها، وقد حذّرت جمعيات مهنية ألمانية من مخاطرها — خاصة الجلسات الجماعية المكثّفة التي تُطرح فيها مادّة صادمة على مشاركين بلا متابعة لاحقة. ونقد المضمون أشدّ من نقد المنهج: مقولات هلنغر عن ترتيب «الانتماء» قُرِئت بوصفها تُسوِّغ أدواراً جنسانية تقليدية وتُحمِّل الضحايا مسؤولية ما جرى لهم.
@@ -46,3 +47,12 @@ gaps:
 
 - *Zweierlei Glück: Die systemische Psychotherapie Bert Hellingers* (1993، تحرير).
 - *Praxis der Organisationsaufstellungen* (2000، تحرير) — نقل الطريقة إلى السياق المؤسسي.
+- *Aufstellungsarbeit revisited: ...nach Hellinger؟* (بالاشتراك مع G. Schmidt، F. B. Simon، M. Varga von Kibéd) — مراجعة نقدية للطريقة.
+
+## المصادر
+
+- "Gunthard Weber: Wegbegleiter Bert Hellingers", ifosys.de — https://ifosys.de/gunthard-weber-familienaufsteller-psychotherapeut.html
+- "Dr. Gunthard Weber", Wieslocher Institut für systemische Lösungen (WISL) — https://www.wieslocher-institut.com/institut/dozentinnen/gruender/dr-gunthard-weber/
+- "Gunthard Weber - ein Urgestein der Aufstellerszene", systemstellen.org — https://www.systemstellen.org/wiki/menschen-und-biografien/gunthard-weber/
+- "Aufstellungsarbeit revisited von Gunthard Weber", Carl-Auer Verlag — https://www.carl-auer.de/aufstellungsarbeit-revisited
+- Bert Hellinger – Wikipedia (خلفية عن إعلان بوتسدام 2004 والتباعد عن هلنغر) — https://de.wikipedia.org/wiki/Bert_Hellinger
