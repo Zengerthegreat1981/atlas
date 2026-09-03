@@ -51,3 +51,10 @@ gaps:
 - *Baopuzi* (抱朴子، «الأب البسيط»، 20 فصلاً داخلياً + 50 فصلاً خارجياً).
 - *Shenxian Zhuan* (神仙傳، «سِيَر الخالدين»، مجموعة من سير الخالدين الـ84).
 - *Wai Dan Yao Jue* (外丹要決، «القرارات الأساسية للخلود الخارجي»).
+
+## المصادر
+
+- [Ge Hong — Encyclopaedia Britannica](https://www.britannica.com/biography/Ge-Hong)
+- [Ge Hong — Wikipedia](https://en.wikipedia.org/wiki/Ge_Hong)
+- [Ge Hong 葛洪 — chinaknowledge.de](http://www.chinaknowledge.de/History/Division/personsgehong.html)
+- [Pregadio, F., "Seeking Immortality in the Baopuzi", in Dao Companion to Xuanxue](https://www.fabriziopregadio.com/files/PREGADIO_Seeking_Immortality_in_the_Baopuzi.pdf)

@@ -14,11 +14,11 @@ active_end: 1996
 edges:
 - rel: "belongs_to", target: "sch-cognitive-psychology", target_type: "مدرسة"
 related:
-- id: "dia-kahneman-gigerenzer-heuristics", title: "سجال كانيمان وغيغرنزر: الانحيازات المعرفية مقابل الحدس التكيفي", type: "حوار مع مدرسة مجاورة"
+- id: "dia-kahneman-gigerenzer-heuristics", title: "سجال كانمان وغيغرنزر 1996: مجلة Psychological Review", type: "حوار مع مدرسة مجاورة"
 - id: "trm-heuristics-and-biases-kahneman", title: "الاستدلالات التقريبية والانحيازات المعرفية (Heuristics & Biases)", type: "مصطلح لغوي متنازع عليه"
 - id: "trm-cognitive-bias", title: "التَّحَيُّز الْمَعْرِفِيّ (Cognitive Bias): انْحِرَافَات مُنْتَظَمَة فِي التَّفْكِير", type: "مصطلح لغوي متنازع عليه"
 - id: "que-introspection-reliability", title: "هل الاستبطان وسيلة موثوقة لمعرفة الذات أم حكاية تبريرية لاحقة؟", type: "سؤال توليدي"
-- id: "thk-kahneman", title: "دانيال كانيمان", type: "مفكر"
+- id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
@@ -38,4 +38,11 @@ gaps:
 
 ## المكانة العلمية
 
-يعد أحد أعظم علماء النفس التجريبيين وصناع الاقتصاد السلوكي في التاريخ.
+يعد أحد أعظم علماء النفس التجريبيين وصناع الاقتصاد السلوكي في التاريخ. تُوفي تفيرسكي عام 1996 بسرطان الجلد المنتشر (melanoma) وحصل شريكه دانييل كانمان على جائزة نوبل في الاقتصاد بعد ست سنوات من وفاته؛ ولأن الجائزة لا تُمنح بعد الوفاة لم يكن تفيرسكي مؤهلاً لها، لكنّ لجنة نوبل نوَّهت صراحة بشراكته العلمية معه.
+
+## المصادر
+
+- Amos Tversky — Wikipedia: <https://en.wikipedia.org/wiki/Amos_Tversky>
+- Prospect Theory — Wikipedia: <https://en.wikipedia.org/wiki/Prospect_theory>
+- Tversky, A. & Kahneman, D. (1979), "Prospect Theory: An Analysis of Decision under Risk", *Econometrica*: <https://courses.washington.edu/pbafhall/514/514%20Readings/ProspectTheory.pdf>
+- Daniel Kahneman — Nobel Prize biographical (Econlib): <https://www.econlib.org/library/Enc/bios/Kahneman.html>

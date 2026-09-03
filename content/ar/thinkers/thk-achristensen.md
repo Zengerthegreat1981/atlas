@@ -19,7 +19,7 @@ related:
 - id: "thk-njacobson", title: "نيل س. جاكوبسون", type: "مفكر"
 - id: "con-marsha-acceptance-change", title: "جدلية القبول والتغيير في العلاج الزوجي", type: "مفهوم"
 gaps:
-  - "تاريخ الميلاد الدقيق ومسيرته في جامعة كاليفورنيا، لوس أنجلوس (UCLA) لم يُراجعا من مصدر أولي بعد."
+  - "تاريخ الميلاد الدقيق (1945 المذكور في `dates` غير مؤكَّد من مصدر أولي)؛ المؤكَّد فقط أنه حصل على الدكتوراه في علم النفس الإكلينيكي من جامعة أوريغون عام 1976 (مصدر: صفحته في UCLA)."
   - "لا يوجد اقتباس مباشر موثوق من *Acceptance and Change in Couple Therapy* (1996) بترجمة عربية معتمدة."
 ---
 
@@ -39,3 +39,10 @@ gaps:
 
 - «القبول والتغيير في العلاج الزوجي: تكامل التقنيات» (Acceptance and Change in Couple Therapy, 1996) — مع جاكوبسون.
 - «العلاج السلوكي التكاملي للأزواج: دليل علاجي جديد» (Integrative Behavioral Couple Therapy, 2015) — مع جاكوبسون ودوس.
+
+## المصادر
+
+- [Andrew Christensen — UCLA Department of Psychology](https://www.psych.ucla.edu/faculty-page/achriste/)
+- [The couples' doctor — APA Monitor](https://www.apa.org/monitor/2011/01/christensen)
+- [Dr. Andrew Christensen — Official site](https://drandrewchristensen.com/about)
+- [Integrative Behavioral Couple Therapy — PMC/NIH](https://pmc.ncbi.nlm.nih.gov/articles/PMC5096782/)

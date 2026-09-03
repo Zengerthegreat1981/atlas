@@ -46,4 +46,12 @@ gaps:
 
 ## أهم أعماله
 
-خصوصية الذات (The Privacy of the Self، 1974) · الاغتراب في الانحرافات (Alienation in Perversions، 1979) · ذوات خفيّة (Hidden Selves، 1983) · حين يأتي الربيع (When Spring Comes / The Long Wait، 1988) — وهو الكتاب الذي فُصل بسببه · تحريره لأعمال **دونالد وينيكوت** ولسلسلة **المكتبة التحليلية الدولية**، وهو من أهمّ ما قدّمه للحقل عملياً.
+خصوصية الذات (The Privacy of the Self، 1974) · الاغتراب في الانحرافات (Alienation in Perversions، 1979) · ذوات خفيّة (Hidden Selves، 1983) · حين يأتي الربيع (When Spring Comes: Awakenings in Clinical Psychoanalysis، 1988) — وهو الكتاب الذي فُصل بسببه · تحريره لأعمال **دونالد وينيكوت** ولسلسلة **المكتبة التحليلية الدولية**، وهو من أهمّ ما قدّمه للحقل عملياً.
+
+## المصادر
+
+- [Masud Khan — Wikipedia](https://en.wikipedia.org/wiki/Masud_Khan)
+- Godley, Wynne. ["Saving Masud Khan"](https://www.lrb.co.uk/the-paper/v23/n04/wynne-godley/saving-masud-khan), *London Review of Books*, vol. 23, no. 4 (22 February 2001).
+- [Saving Masud Khan — International Psychoanalysis](https://internationalpsychoanalysis.net/saving-masud-khan/)
+- Hopkins, Linda. *False Self: The Life of Masud Khan* (Other Press, 2006).
+- Willoughby, Roger. *Masud Khan: The Myth and the Reality* (Free Association Books, 2005).

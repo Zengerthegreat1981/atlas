@@ -17,7 +17,7 @@ edges:
 related:
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
-- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Acceptance and Commitment Therapy: An Experiential Approach to Behavior Change* (1999) بترجمة عربية معتمدة."
   - "كان متن هذا الملف يصف **العلاج التحليلي الوظيفي (FAP)** وينسبه إلى ويلسون — وFAP من وضع **روبرت كولنبرغ** و**مافيس تساي** (1991)، ولا صلة لويلسون بتأسيسه. كما ذُكر أنه في **جامعة نيومكسيكو** وهو في **جامعة مسيسيبي**. أُعيدت كتابة القسم."
@@ -53,3 +53,10 @@ gaps:
 ## أهم أعماله
 
 *Acceptance and Commitment Therapy: An Experiential Approach to Behavior Change* (1999، مع ستيفن هايز وكيرك ستروسال) — النصّ المؤسِّس · *Mindfulness for Two: An Acceptance and Commitment Therapy Approach to Mindfulness in Psychotherapy* (2009) · *Things Might Go Terribly, Horribly Wrong* (2010، مع تروي ديفريز).
+
+## المصادر
+
+- [Kelly G. Wilson — University of Mississippi (academia.edu)](https://olemiss.academia.edu/KellyWilson)
+- [Kelly G. Wilson, PhD — Praxis Continuing Education and Training](https://www.praxiscet.com/trainers/kelly-g-wilson/)
+- Wilson, K. G., Sandoz, E. K., Kitchens, J., & Roberts, M. (2010). "The Valued Living Questionnaire: Defining and Measuring Valued Action within a Behavioral Framework." *The Psychological Record*.
+- Wilson, K. G., & DuFrene, T. (2009). *Mindfulness for Two: An Acceptance and Commitment Therapy Approach to Mindfulness in Psychotherapy*.

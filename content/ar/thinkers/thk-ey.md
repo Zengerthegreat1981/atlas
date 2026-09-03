@@ -41,3 +41,9 @@ gaps:
 ## أهم أعماله
 
 دراسات في الطب النفسي (Études psychiatriques، ثلاثة مجلدات، 1948–1954) · الوعي (La Conscience, 1963) · أطروحة في الهلوسات (Traité des hallucinations, 1973).
+
+## المصادر
+
+- [Henri Ey — Wikipedia (EN)](https://en.wikipedia.org/wiki/Henri_Ey)
+- [Lacan et la psychiatrie organo-dynamique : retour sur un dialogue avec Henri Ey — Cairn.info](https://www.cairn.info/revue-savoirs-et-cliniques-2013-1-page-47.htm)
+- [L'organo-dynamisme d'Henri Ey — ResearchGate](https://www.researchgate.net/publication/282753367_L'organo-dynamisme_d'Henri_Ey_l'oubli_d'une_theorie_de_la_conscience_considere_dans_ses_relations_avec_l'analyse_existentielle)

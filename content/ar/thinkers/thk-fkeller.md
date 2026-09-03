@@ -15,7 +15,7 @@ active_end: 1996
 edges:
 - rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
-- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 - id: "thk-donbaer", title: "دونالد م. باير", type: "مفكر"
 - id: "thk-m-amatos", title: "ماريّا أميليا ماتوس", type: "مفكر"
 gaps:
@@ -31,7 +31,7 @@ gaps:
 
 في مقالته «وداعاً أيها المعلّم…» (Good-bye, Teacher…، 1968) عرض نظام PSI — المعروف بـ«خطة كيلر»: يتقدّم الطالب بإيقاعه هو، ولا ينتقل إلى وحدة تالية قبل إتقان السابقة إتقاناً تامّاً، ويُقيَّم بامتحانات متكرّرة قصيرة يصحّحها طلبة متقدّمون في الحال، وتبقى المحاضرة حافزاً لا وسيلة نقل للمادة. المبدأ السلوكي وراءه بسيط: تعزيز فوري ومتكرّر بدل تعزيز مؤجَّل نادر. أثبتت المراجعات المقارنة تفوّق PSI على المحاضرة التقليدية في التحصيل، لكنه اصطدم ببنية الجامعة نفسها — الفصل الدراسي الثابت والدرجة النسبية — فتراجع رغم نتائجه.
 
-وفي البرازيل، حيث ذهب عام 1961 زميلَ فولبرايت لتأسيس قسم علم النفس في جامعة برازيليا، أدخل «تحليل السلوك» (Análise do Comportamento) فنشأت على يديه المدرسة البرازيلية التي خرج منها غيلياردي وماتوس وكيرباوي وديليتّي — وهي اليوم من أكبر تجمّعات تحليل السلوك في العالم خارج أمريكا الشمالية.
+وفي البرازيل، حيث ذهب عام 1961 زميلَ فولبرايت لجامعة ساو باولو فدرّس علم النفس التجريبي من منظور نظرية التعزيز ونشر بذلك أولى بذور تحليل السلوك هناك، ثم عاد بعد تقاعده من كولومبيا عام 1964 إلى البرازيل ليساعد في تأسيس قسم علم النفس في الجامعة الوليدة (جامعة برازيليا)، حيث طوّر مع ج. جيلمور شرمان وكارولينا بوري ورودولفو أزّي نظام PSI. بهذا أدخل «تحليل السلوك» (Análise do Comportamento) فنشأت على يديه المدرسة البرازيلية التي خرج منها غيلياردي وماتوس وكيرباوي وديليتّي — وهي اليوم من أكبر تجمّعات تحليل السلوك في العالم خارج أمريكا الشمالية.
 
 ## موقعه من التيار
 
@@ -43,3 +43,11 @@ gaps:
 ## أهم أعماله
 
 مبادئ علم النفس (Principles of Psychology, 1950، مع وليم شونفلد) — الكتاب الذي أدخل تحليل السلوك إلى المنهج الجامعي · «وداعاً أيها المعلّم…» (Good-bye, Teacher…, 1968) · تعريف علم النفس (Learning: Reinforcement Theory, 1954) · مقالات في *Journal of Applied Behavior Analysis* بين الستينيات والثمانينيات.
+
+## المصادر
+
+- [Fred S. Keller — Wikipedia](https://en.wikipedia.org/wiki/Fred_S._Keller)
+- [Keller Plan — Wikipedia](https://en.wikipedia.org/wiki/Keller_Plan)
+- ['Good-bye Teacher…' Fred S. Keller (1899-1996) — Association for Psychological Science](https://www.psychologicalscience.org/observer/good-bye-teacher-fred-s-keller-1899-1996)
+- [Akera, A. (2017). "Bringing radical behaviorism to revolutionary Brazil and back", Journal of the History of the Behavioral Sciences](https://pubmed.ncbi.nlm.nih.gov/28895137/)
+- [Guide to the Fred S. Keller Papers, 1920-1995 — UNH Library](https://library.unh.edu/find/archives/collections/fred-s-keller-papers-1920-1995)

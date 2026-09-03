@@ -65,3 +65,11 @@ gaps:
 - **ديوان يهوذا اللاوي** (بالعبرية) — ومنه **«قصائد صهيون»** (شيري تسيون)، وأشهرها «قلبي في المشرق وأنا في أقصى المغرب»، وهي من أعظم ما كُتب في الشعر العبري الوسيط.
 
 > **تصحيح:** كان يُنسب إليه في هذا الملف كتاب باسم «نقائض الأسماء الإلهية» — ولا وجود له في مصنّفاته.
+
+## المصادر
+
+- [Judah Halevi — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/halevi/)
+- [Judah Halevi — Wikipedia](https://en.wikipedia.org/wiki/Judah_Halevi)
+- [Kuzari — Wikipedia](https://en.wikipedia.org/wiki/Kuzari)
+- [Halevi, Yehuda (c. 1075–1141) — Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/halevi-yehuda-c-1075-1141)
+- [The Legend of R. Yehuda Halevi's Death: Truth or Fiction & the Cairo Genizah — The Seforim Blog](https://seforimblog.com/2011/08/legend-of-r-yehuda-halevis-death-tru/?print=print)

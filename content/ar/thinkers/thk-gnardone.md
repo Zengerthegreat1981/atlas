@@ -21,7 +21,7 @@ related:
 - id: "thk-ashoham", title: "آرثر شوهام", type: "مفكر"
 gaps:
   - "سنة الميلاد تقريبية، تستحق توثيقاً."
-  - "عمله مع Paul Watzlawick منذ 1987 يستحق توثيقاً."
+  - "تأكَّد من مصادر مستقلة أن مركز العلاج الاستراتيجي في أريتسو تأسس عام 1987 بالتعاون مع Paul Watzlawick (انظر المصادر)."
   - "لا يوجد اقتباس مباشر موثوق من *L'arte del cambiamento* (1990) بترجمة عربية معتمدة."
 ---
 
@@ -46,3 +46,10 @@ gaps:
 - *The Art of Problem Solving* (1999).
 - *Brief Strategic Therapy: Philosophy, Techniques, and Research* (2005).
 - *Psychopathology of the Everyday* (2016).
+
+## المصادر
+
+- [Giorgio Nardone — Wikipedia](https://en.wikipedia.org/wiki/Giorgio_Nardone)
+- [Biography — Giorgio Nardone (official site)](https://giorgionardone.com/en/biography/)
+- [Il Centro di Terapia Strategica — La nostra storia](https://www.centroditerapiastrategica.com/en/listituto/la-nostra-storia/)
+- [Epistemology, history and foundations of Brief Strategic Therapy — Redalyc](https://www.redalyc.org/journal/778/77875257006/html/)

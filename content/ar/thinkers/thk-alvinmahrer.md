@@ -6,7 +6,7 @@ level: "متقدم"
 title: "ألفين مارر"
 en: "Alvin R. Mahrer"
 crumb: "العلاج بالخبرة/التجريبي ← تأسيس ← ألفين مارر"
-dates: "كندا/الولايات المتحدة · 1927–2016"
+dates: "كندا/الولايات المتحدة · 1927–2014"
 country: "كندا"
 language: "الإنجليزية"
 active_start: 1970
@@ -18,6 +18,7 @@ related:
 - id: "thk-mmilner", title: "ماريون مِلنر", type: "مفكر"
 - id: "thk-robertelliott", title: "روبرت إليوت", type: "مفكر"
 gaps:
+  - "تم تصحيح سنة الوفاة من 2016 إلى 2014 استناداً إلى PubMed وResearchGate (In Memoriam) وموقع Society for the Advancement of Experiential Psychotherapy."
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
   - "لا يوجد اقتباس مباشر موثوق من *The Goal of Counseling and Psychotherapy* (1972) بترجمة عربية معتمدة."
   - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«العلاج بالخبرة/التجريبي» في content/ar/schools أو branches."
@@ -42,3 +43,10 @@ gaps:
 - *The Goal of Counseling and Psychotherapy* (1972).
 - *Feeling-Focused Therapy* (مع بومر، 1978).
 - *How to Do Experiential Psychotherapy* (مع بومر، 1994).
+
+## المصادر
+
+- Alvin R. Mahrer (1927–2014) — PubMed: <https://pubmed.ncbi.nlm.nih.gov/25494992/>
+- Alvin R. Mahrer (1927–2014) — ResearchGate (In Memoriam): <https://www.researchgate.net/publication/269711769_Alvin_R_Mahrer_1927-2014>
+- Society for the Advancement of Experiential Psychotherapy — About Al Mahrer: <http://www.almahrer.com/about>
+- ALVIN MAHRER Obituary (2014) — Legacy.com: <https://www.legacy.com/obituaries/kvnews/obituary.aspx?n=alvin-mahrer&pid=170747088>

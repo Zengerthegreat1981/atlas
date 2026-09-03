@@ -54,3 +54,11 @@ gaps:
 - *Beyond Order: 12 More Rules for Life* (2021).
 - أوراق محكّمة في بنية الشخصية والميتا-عاملين (مع ديّانغ وهيرش).
 
+## المصادر
+
+- [Jordan Peterson — Wikipedia](https://en.wikipedia.org/wiki/Jordan_Peterson)
+- [Maps of Meaning — Wikipedia](https://en.wikipedia.org/wiki/Maps_of_Meaning)
+- [DeYoung, Peterson & Higgins — "Higher-order factors of the Big Five predict conformity" / Metatraits research](https://www.researchgate.net/publication/26322688_Metatraits_of_the_Big_Five_Differentially_Predict_Engagement_and_Restraint_of_Behavior)
+- [ABC News — Jordan Peterson recovering from benzodiazepine dependence (2020)](https://www.abc.net.au/news/2020-02-09/jordan-peterson-is-recovering-from-tranquiliser-dependence/11947500)
+- [Self Authoring — Research summary (McGill, Rotterdam studies)](https://www.selfauthoring.com/research)
+

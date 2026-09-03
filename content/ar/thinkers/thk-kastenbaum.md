@@ -44,3 +44,10 @@ gaps:
 ## أهم أعماله
 
 سيكولوجيا الموت (The Psychology of Death, 1972/2000) · الموت والمجتمع والخبرة الإنسانية (Death, Society, and Human Experience, 1977/2012) · موسوعة الموت والاحتضار (2003).
+
+## المصادر
+
+- [Theory, Research, and Application: Some Critical Issues for Thanatology — Robert Kastenbaum, 1988 (SAGE Journals)](https://journals.sagepub.com/doi/10.2190/3Y8A-ACF4-1XT9-NLDD)
+- [The Death System According to Robert Kastenbaum — ResearchGate](https://www.researchgate.net/publication/267742101_The_Death_System_According_to_Robert_Kastenbaum)
+- [The 'five stages' in coping with dying and bereavement: strengths, weaknesses and some alternatives — ResearchGate](https://www.researchgate.net/publication/328506225_The_'five_stages'_in_coping_with_dying_and_bereavement_strengths_weaknesses_and_some_alternatives)
+- [Treatise of Thanatology — PMC/NIH](https://pmc.ncbi.nlm.nih.gov/articles/PMC8655634/)

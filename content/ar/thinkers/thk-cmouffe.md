@@ -41,3 +41,9 @@ gaps:
 ## أهم أعمالها
 
 الهيمنة والاستراتيجية الاشتراكية (Hegemony and Socialist Strategy, 1985، مع Laclau) · العودة للسياسي (The Return of the Political, 1993) · حول السياسي (On the Political, 2005) · من أجل شعبوية يسارية (For a Left Populism, 2018).
+
+## المصادر
+
+- [Chantal Mouffe — Wikipedia (EN)](https://en.wikipedia.org/wiki/Chantal_Mouffe)
+- [The dissociative and polemical political: Chantal Mouffe and the intellectual heritage of Carl Schmitt — Journal of Political Ideologies](https://www.tandfonline.com/doi/full/10.1080/13569317.2011.540941)
+- [CHANTAL MOUFFE'S AGONISM — A THEORY FOR DEMOCRATIC SOCIALISM? (CEU thesis, PDF)](https://www.etd.ceu.edu/2018/mukherjee_nirjhar.pdf)

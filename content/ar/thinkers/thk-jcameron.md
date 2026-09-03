@@ -43,3 +43,9 @@ gaps:
 - *The Right to Write* (1998).
 - *Walking in This World* (2002).
 - *It's Never Too Late to Begin Again* (2016).
+
+## المصادر
+
+- [Julia Cameron — Wikipedia](https://en.wikipedia.org/wiki/Julia_Cameron)
+- [The Artist's Way — Wikipedia](https://en.wikipedia.org/wiki/The_Artist%27s_Way)
+- [Julia Cameron — Goodreads](https://www.goodreads.com/author/show/13229.Julia_Cameron)

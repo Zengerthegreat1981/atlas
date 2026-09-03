@@ -40,4 +40,11 @@ gaps:
 
 ## أهم أعمالها
 
-الفالكيري (The Valkyries, 1990).
+- الفالكيري: النساء حول يونغ (*The Valkyries: The Women Around Jung*, Element Books, 1990) — أُعيد نشره لاحقاً بعنوان *Jung's Circle of Women: The Valkyries* (Nicolas-Hays, 1999).
+
+## المصادر
+
+- The Valkyries: The Women Around Jung (Element Books, 1990) — Amazon: <https://www.amazon.com/Valkyries-Women-Around-Jung/dp/1852301872>
+- Jung's Circle of Women: The Valkyries (Nicolas-Hays, 1999) — Goodreads: <https://www.goodreads.com/book/show/426281.Jung_s_Circle_of_Women>
+- Jung's Circle of Women: The Valkyries — Internet Archive (نسخة رقمية): <https://archive.org/details/jungscircleofwom00magg>
+- Maggy Anthony — صفحة السيرة الرسمية: <http://www.maggyanthony.com/about-maggy-anthony/>

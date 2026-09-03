@@ -44,3 +44,9 @@ gaps:
 - *偶然性の問題* (مشكلة العرضية، 1935).
 - *Propos sur le temps* (محاضرتان بالفرنسية في بونتينيي، 1928).
 - *人間と実存* (الإنسان والوجود).
+
+## المصادر
+
+- Stephen Light, *Shūzō Kuki and Jean-Paul Sartre: Influence and Counter-Influence in the Early History of Existential Phenomenology* — https://philpapers.org/rec/LIGSKA
+- Leslie Pincus, *The Structure of Detachment: The Aesthetic Vision of Kuki Shuzo* (University of Hawai'i Press) — https://uhpress.hawaii.edu/title/the-structure-of-detachment-the-aesthetic-vision-of-kuki-shuzo/
+- National Diet Library of Japan, "Section 3: KUKI Shuzo – From Paris to Edo", *Modern Japan and France* — https://www.ndl.go.jp/france/en/column/s1_3.html

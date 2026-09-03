@@ -14,7 +14,7 @@ active_end: 1977
 edges:
 - rel: "belongs_to", target: "sch-biological-neuro", target_type: "مدرسة"
 related:
-- id: "ctx-bolshevik-revolution-soviet-state", title: "الثورة البلشفية", type: "سياق/تقليد"
+- id: "ctx-bolshevik-revolution-soviet-state", title: "الثورة البلشفية وتأسيس الدولة السوفييتية وإعادة تشكيل الإنسان", type: "سياق/تقليد"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
@@ -30,3 +30,9 @@ gaps:
 ## القصص الإكلينيكية الفينومينولوجية (The Mind of a Mnemonist)
 
 دراسة الحالات النادرة للذاكرة الخارقة وفقدان الذاكرة بأسلوب إنساني بديع.
+
+## المصادر
+
+- Cogn-IQ Encyclopedia, "Luria's Model — Three Functional Units & PASS Theory" — https://www.cogn-iq.org/learn/theory/luria-model/
+- ResearchGate, "Alexander Luria: Life, research and contribution to neuroscience" — https://www.researchgate.net/publication/257811379_Alexander_Luria_Life_research_and_contribution_to_neuroscience
+- Revisiting the History of Psychology (eCampusOntario), فصل "Neuropsychology" — https://ecampusontario.pressbooks.pub/rhop/chapter/neuropsychology/

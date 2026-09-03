@@ -45,3 +45,9 @@ gaps:
 ## أهم أعماله
 
 دفتر العودة إلى الوطن الأصلي (Cahier d'un retour au pays natal, 1939) · خطاب في الاستعمار (Discours sur le colonialisme, 1950) · مأساة الملك كريستوف (La Tragédie du roi Christophe, 1963).
+
+## المصادر
+
+- [Aimé Césaire — Wikipedia (EN)](https://en.wikipedia.org/wiki/Aim%C3%A9_C%C3%A9saire)
+- [Cahier d'un retour au pays natal — Wikipedia (EN)](https://en.wikipedia.org/wiki/Cahier_d%27un_retour_au_pays_natal)
+- [Aimé Césaire, "Discours sur le colonialisme" (1950) — histoirecoloniale.net](https://histoirecoloniale.net/aime-cesaire-discours-sur-le-colonialisme/)

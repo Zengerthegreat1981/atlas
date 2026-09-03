@@ -38,3 +38,10 @@ gaps:
 - *Milan Systemic Family Therapy* (1987، مع بوسكولو وهوفمان وبِن).
 - *Irreverence: A Strategy for Therapists' Survival* (1992، مع جيانفرانكو لان وويندل راي).
 - "Hypothesizing, Circularity, and Neutrality Revisited: An Invitation to Curiosity" (1987, *Family Process*).
+
+## المصادر
+
+- [Mara Selvini Palazzoli — Wikipedia (تغطي انشقاق فريق ميلانو 1979)](https://en.wikipedia.org/wiki/Mara_Selvini_Palazzoli)
+- [Gianfranco Cecchin — European Family Therapy Association](https://europeanfamilytherapy.eu/gregory-bateson/)
+- [The influence of the Milan approach—Part 2: The legacy of Boscolo and Cecchin, Australian and New Zealand Journal of Family Therapy (2023)](https://onlinelibrary.wiley.com/doi/full/10.1002/anzf.1544)
+- [Milan Systemic Family Therapy — Hachette / Basic Books](https://www.hachette.co.uk/titles/gianfranco-cecchin/milan-systemic-family-therapy/9780465045969/)

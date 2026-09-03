@@ -6,11 +6,11 @@ level: "متوسط"
 title: "مؤسسو ومديرو مدرسة زيورخ للتحليل النفسي اليونغي (ISAP)"
 en: "ISAP Zurich Founders and Directors"
 crumb: "مدرسة التحليل النفسي ← الناس ← مؤسِّسو ورؤساء ISAP Zurich"
-dates: "سويسرا · تأسست 1999"
+dates: "سويسرا · تأسست 2004"
 country: "سويسرا"
 language: "الإنجليزية / الألمانية"
 part: "psychology"
-active_start: 1999
+active_start: 2004
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "br-jungian", target_type: "تيار"
@@ -19,7 +19,9 @@ related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-cameier", title: "كارل ألفرد ماير", type: "مفكر"
 - id: "br-jungian", title: "التحليلية اليونغية", type: "تيار"
-gaps: []
+gaps:
+  - "**مشكلة تصنيف بنيوية**: هذا الملف مصنَّف `type: \"مفكر\"` رغم أنه يوثّق مؤسسة (ISAP Zurich) وليس شخصاً واحداً — وهو نمط مشابه لحالات سابقة (thk-kmurah, thk-edsch) حيث أُدرجت كيانات مؤسسية تحت مسار المفكرين. يوصى بمراجعة بنيوية لنقل هذا الملف إلى نوع `مؤسسة`/`مدرسة` بدلاً من `مفكر`، أو تفكيكه إلى ملفات مفكرين مستقلين (بول بروتشه، موراي شتاين، أورسولا فيرتز) إن رغبت المراجعة في ذلك — دون تنفيذ ذلك هنا لتجاوز نطاق المهمة الحالية."
+  - "**تصحيح واقعي**: تاريخ التأسيس كان مذكوراً خطأً كـ 1999. التوثيق المستقل (jitzurich.org، وكتاب *ISAPZURICH: A Journey* الذي صدر بمناسبة الذكرى العاشرة عام 2014) يؤكد أن ISAPZURICH تأسست عام 2004 عندما انفصلت مجموعة من الأعضاء (عبر جمعية AGAP) عن معهد C.G. Jung في كوسناخت. جرى تصحيح الحقلين `dates` و`active_start` تبعاً لذلك."
 ---
 
 # مؤسسو ومديرو مدرسة زيورخ للتحليل النفسي اليونغي (ISAP)
@@ -40,3 +42,8 @@ gaps: []
 - Wirtz, U. (2014). *Trauma and Beyond: The Mystery of Transformation*. Routledge.
 - Stein, M. (2010). *Jungian Psychoanalysis: Working in the Spirit of C.G. Jung*. Open Court Publishing.
 - Kirsch, T. B. (2000). *The Jungians: A Comparative and Historical Perspective*. Routledge.
+- [ISAP Zurich — Organization](https://isapzurich.com/en/about/organization/)
+- [ISAP Analysts — Paul Brutsche](https://isapzurich.com/en/about/people-of-isap/isap-analysts/paul_brutsche/)
+- [ISAP Analysts — Murray Stein, PhD](https://isapzurich.com/en/about/people-of-isap/isap-analysts/murray_stein/)
+- [About ISAPZURICH — Jungian International Training Zurich (JIT), citing founding by AGAP in 2004](https://jitzurich.org/about-isapzurich/)
+- Meier, I., Stein, M., Brutsche, P., & Egger, D. (Eds.). *ISAPZURICH: A Journey* (10th-anniversary volume, 2014).

@@ -42,3 +42,9 @@ gaps:
 
 - *Narrative Therapy: The Social Construction of Preferred Realities* (1996، مع جين كومبز) — عملهما المرجعي.
 - *Narrative Therapy with Couples… and a Whole Lot More!* (2002، معه).
+
+## المصادر
+
+- [Jill Freedman & Gene Combs — Evanston Family Therapy Center](https://www.narrativetherapychicago.com/jill-freedman-and-gene-combs)
+- [Interview with Jill Freedman — Family Journal, ERIC](https://eric.ed.gov/?id=EJ840800)
+- [Jill Freedman — Goodreads](https://www.goodreads.com/author/show/5003574.Jill_Freedman/)

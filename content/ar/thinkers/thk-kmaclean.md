@@ -46,4 +46,12 @@ gaps:
 
 ## أهم أعمالها
 
-- MacLean, K. A., et al. "Mystical experiences occasioned by the hallucinogen psilocybin" (2012).
+- MacLean, K. A., Johnson, M. W., & Griffiths, R. R. (2011). "Mystical experiences occasioned by the hallucinogen psilocybin lead to increases in the personality domain of openness." *Journal of Psychopharmacology*.
+- MacLean, K. A., Leoutsakos, J. M., Johnson, M. W., & Griffiths, R. R. (2012). "Factor Analysis of the Mystical Experience Questionnaire: A Study of Experiences Occasioned by the Hallucinogen Psilocybin." *Journal for the Scientific Study of Religion*.
+
+## المصادر
+
+- [Katherine A. MacLean, PhD — الموقع الشخصي](https://www.katherinemaclean.org/about-3)
+- [Mystical experiences occasioned by the hallucinogen psilocybin... — Johns Hopkins University (Pure)](https://pure.johnshopkins.edu/en/publications/mystical-experiences-occasioned-by-the-hallucinogen-psilocybin-le-4/)
+- [Mystical experiences occasioned by the hallucinogen psilocybin... — SAGE Journals](https://journals.sagepub.com/doi/abs/10.1177/0269881111420188)
+- ['Magic Mushrooms' May Permanently Alter Personality — NBC News](https://www.nbcnews.com/id/wbna44712008)

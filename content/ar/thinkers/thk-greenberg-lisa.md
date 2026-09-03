@@ -28,7 +28,8 @@ related:
 - id: "con-primary-emotion", title: "الانفعالات الأولية", type: "مفهوم"
 - id: "tec-process-experiential-tasks", title: "المهام العلاجية بالانفعال (Emotion-Focused Tasks)", type: "تقنية/تدخل علاجي"
 gaps:
-  - "تاريخ الميلاد الدقيق لغرينبرغ (1945) تقريبي ولم يُراجع من مصدر أولي."
+  - "ازدواج مؤكَّد: هذا الملف (THK-1111) يصف الشخص نفسه الموصوف في content/ar/thinkers/thk-lgreenberg.md (THK-2239، 'ليزلي غرينبرغ') — نفس تاريخ الميلاد (1945)، نفس بلد النشاط (كندا)، نفس تأسيس EFT مع لورا رايس وسو جونسون. اكتُشف الازدواج في دفعة 4.33 وسُجِّل في ملف thk-lgreenberg.md أيضاً. يلزم قرار توحيد/دمج من رئيس التحرير؛ لم يُحذف أو يُدمج هذا الملف لأن القرار خارج نطاق هذه المهمة. ملف thk-lgreenberg.md أكثر توثيقاً (تاريخ ميلاد دقيق 30 سبتمبر 1945 في جوهانسبرغ، جنوب أفريقيا، مع مصادر) وقد يكون هو النسخة المرجعية المرشحة للإبقاء."
+  - "تاريخ الميلاد الدقيق لغرينبرغ مؤكَّد الآن من مصادر مستقلة: 30 سبتمبر 1945 في جوهانسبرغ، جنوب أفريقيا (انظر thk-lgreenberg.md والمصادر أدناه)."
   - "نسبة «النظرية البنائية للانفعالات» إلى تعاون مع «ستيفن لايفلي» كانت غير موثّقة وأُزيلت؛ تحتاج مصدراً قبل إعادة إدراجها."
   - "الـslug (greenberg-lisa) أثرٌ باقٍ من الخطأ القديم الذي كان يجعله امرأة اسمها «ليزا»؛ تصحيحه قرار تحريري لأنه يكسر الروابط."
 ---
@@ -64,3 +65,9 @@ gaps:
 
 - "النظرية البنائية للانفعالات" تستحق عنصر `con-` أو `wrk-` مستقل.
 - "مهام علاجية بالانفعال" تستحق عنصر `tec-` مستقل يميّزها عن تقنية الكرسي الفارغ الجشطلتية.
+
+## المصادر
+
+- [Les Greenberg — Wikipedia](https://en.wikipedia.org/wiki/Les_Greenberg)
+- [Leslie Greenberg Biography — GoodTherapy](https://www.goodtherapy.org/famous-psychologists/leslie-greenberg.html)
+- [Emotion-Focused Therapy: An Interview with Leslie Greenberg — Journal of Contemporary Psychotherapy](https://link.springer.com/article/10.1023/B:JOCP.0000022310.34573.b7)
