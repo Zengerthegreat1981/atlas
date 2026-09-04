@@ -18,9 +18,10 @@ related:
 - id: "thk-rorty", title: "ريتشارد رورتي", type: "مفكر"
 - id: "wrk-rorty-philosophy-and-mirror-of-nature", title: "الفلسفة ومرآة الطبيعة", type: "عمل"
 - id: "crt-rorty-mirror-of-nature", title: "نقد رورتي للفلسفة كمرآة عاكسة للطبيعة", type: "نقد"
-- id: "axm-tabula-rasa", title: "اللوح الفارغ", type: "بديهية/مبدأ تأسيسي"
+- id: "axi-tabula-rasa-rule", title: "بديهية اللوح الفارغ (Tabula Rasa Axiom)", type: "بديهية/مبدأ تأسيسي"
 gaps:
   - "الفصل بين نسخة أفلاطون التمثيلية (المرآة تعكس المُثُل) ونسخة لوك التجريبية (المرآة تعكس الحواس) يحتاج توسيعاً بمراجع أولية إضافية."
+  - "تصحيح دفعة 12: كان الرابط إلى بديهية اللوح الفارغ يشير إلى axm-tabula-rasa، وهو ملف مُحجَّر (ازدواج مع axi-tabula-rasa-rule حسب قرار 2026-09-01) — تم تحديث الرابط والعنوان الحرفي ليطابق axi-tabula-rasa-rule."
 ---
 # العقل كمرآة
 

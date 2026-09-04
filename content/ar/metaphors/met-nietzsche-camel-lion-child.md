@@ -12,9 +12,9 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-nietzscheanism", target_type: "مدرسة"
 related:
-- id: "trm-wille-zur-macht-nietzsche", title: "إرادة القوة (Wille zur Macht): المحرك الجوهري للحياة والارتقاء", type: "مصطلح لغوي متنازع عليه"
+- id: "trm-wille-zur-macht-nietzsche", title: "إرادة القوة (Wille zur Macht) — إحالة، انظر con-will-to-power وaxi-will-to-power-axiom", type: "مصطلح لغوي متنازع عليه"
 - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
-- id: "wrk-nietzsche-thus-spoke-zarathustra", title: "هكذا تكلم زرادشت", type: "عمل / كتاب"
+- id: "wrk-nietzsche-thus-spoke-zarathustra", title: "كتاب هكذا تكلم زرادشت لفريدريش نيتشه (1883)", type: "عمل / كتاب"
 gaps:
   - "لم يُحدَّد اسم مترجم النسخة العربية المعتمدة لفقرة «التحولات الثلاثة»؛ الإحالة هنا للأصل الألماني وتاريخه فقط."
   - "علاقة الاستعارة بمفهوم إرادة القوة (trm-wille-zur-macht-nietzsche) غير مشروحة بالتفصيل في المتن رغم ورودها في related؛ تحتاج فقرة تربط التحول الأسدي بإرادة القوة تحديداً."

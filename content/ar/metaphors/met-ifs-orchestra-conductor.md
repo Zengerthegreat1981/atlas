@@ -14,7 +14,7 @@ edges:
 related:
 - id: "exp-richard-schwartz-bulimia-parts-ifs", title: "تجارب ريتشارد شوارتز مع مريضات الشره واكتشاف الأجزاء و IFS", type: "خبرة معيشة"
 - id: "thk-richard-schwartz", title: "ريتشارد شوارتز", type: "مفكر"
-- id: "wrk-schwartz-internal-family-systems", title: "العلاج بنظام الأسرة الداخلية", type: "عمل / كتاب"
+- id: "wrk-schwartz-internal-family-systems", title: "كتاب العلاج بنظام الأسرة الداخلية لريتشارد شوارتز (1995)", type: "عمل / كتاب"
 gaps:
   - "لا يوضح الملف أن هذه بالتحديد ليست الاستعارة الأولى التي استخدمها شوارتز — فقد بدأ بتشبيه الأسرة (family systems) قبل أن يطوّر تشبيه الأوركسترا لاحقاً في كتاباته وتدريباته كصورة توضيحية إضافية لمفهوم Self-Leadership، لا كأصل نظري للنموذج."
   - "لم يُذكر أن مصطلح Self-Leadership نفسه ونمط الثمانية 'C' (Curiosity, Calm, Clarity...) الذي يصف حالة القائد هو الإطار الأدق المستخدم إكلينيكياً؛ استعارة الأوركسترا تبسيط تدريبي له لا بديل عنه."

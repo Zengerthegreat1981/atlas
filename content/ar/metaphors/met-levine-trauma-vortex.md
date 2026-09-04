@@ -14,7 +14,7 @@ edges:
 related:
 - id: "exp-peter-levine-car-accident-tremor", title: "حادث سيارة بيتر ليفين ومراقبة ارتعاش جسده وميلاد SE", type: "خبرة معيشة"
 - id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
-- id: "wrk-levine-waking-the-tiger", title: "إيقاظ النمر", type: "عمل / كتاب"
+- id: "wrk-levine-waking-the-tiger", title: "كتاب إيقاظ النمر: شفاء الصدمة لبيتر ليفين (1997)", type: "عمل / كتاب"
 gaps:
   - "لم يُدرج بعد نص الفقرة الأصلية بالإنجليزية من 'Waking the Tiger' (1997) التي تصف Trauma Vortex أول مرة، والاكتفاء حالياً بإعادة الصياغة العربية."
   - "لم تُراجع بعد مصادر ما بعد 1997 (مثل 'In an Unspoken Voice', 2010) التي طوّر فيها ليفين مصطلحي Pendulation وTitration بتفصيل أوسع من الكتاب الأول."
