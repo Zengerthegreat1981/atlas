@@ -14,7 +14,7 @@ edges:
 related:
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
-- id: "wrk-hayes-acceptance-commitment-therapy", title: "العلاج بالقبول والالتزام", type: "عمل / كتاب"
+- id: "wrk-hayes-acceptance-commitment-therapy", title: "كتاب العلاج بالقبول والالتزام لستيفن هايز (1999)", type: "عمل / كتاب"
 gaps:
   - "صياغة النص الإنجليزي الحرفي للتمرين في طبعة 1999 لم تُقابل هنا مع الترجمة العربية سطراً بسطر."
 ---

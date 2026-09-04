@@ -14,7 +14,7 @@ edges:
 related:
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
-- id: "wrk-hayes-acceptance-commitment-therapy", title: "العلاج بالقبول والالتزام", type: "عمل / كتاب"
+- id: "wrk-hayes-acceptance-commitment-therapy", title: "كتاب العلاج بالقبول والالتزام لستيفن هايز (1999)", type: "عمل / كتاب"
 - id: "sch-mbct", title: "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)", type: "مدرسة"
 gaps:
   - "لم تُقارَن بعد صياغة التمرين في نسخة MBCT (سيغال وويليامز وتيزديل 2002) مع نسخة هايز 1999 كلمة بكلمة لتحديد من استعار من."

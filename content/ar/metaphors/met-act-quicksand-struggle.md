@@ -14,7 +14,7 @@ edges:
 related:
 - id: "exp-steven-hayes-panic-carpet-act", title: "نوبة هلع ستيفن هايز على السجادة وميلاد العلاج بالقبول والالتزام (ACT)", type: "خبرة معيشة"
 - id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
-- id: "wrk-hayes-acceptance-commitment-therapy", title: "العلاج بالقبول والالتزام", type: "عمل / كتاب"
+- id: "wrk-hayes-acceptance-commitment-therapy", title: "كتاب العلاج بالقبول والالتزام لستيفن هايز (1999)", type: "عمل / كتاب"
 gaps:
   - "لم يُحدَّد بعد رقم الصفحة أو الفصل بالضبط في طبعة 1999 مقابل طبعة 2012 الثانية من Acceptance and Commitment Therapy الذي ورد فيه مثال الرمال المتحركة تحديداً."
 ---

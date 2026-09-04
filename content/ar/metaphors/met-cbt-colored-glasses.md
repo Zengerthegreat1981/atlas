@@ -14,7 +14,7 @@ edges:
 related:
 - id: "exp-aaron-beck-depression-anger-inward", title: "أبحاث بيك المبكرة واكتشاف التشوهات المعرفية بدلاً من الغضب المكبوت", type: "خبرة معيشة"
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
-- id: "wrk-beck-cognitive-therapy-depression", title: "العلاج المعرفي للاكتئاب", type: "عمل / كتاب"
+- id: "wrk-beck-cognitive-therapy-depression", title: "كتاب العلاج المعرفي للاكتئاب لآرون بيك (1979)", type: "عمل / كتاب"
 - id: "met-freudian-iceberg", title: "الجبل الجليدي للشخصية: تدرج مستويات الوعي واللاوعي", type: "استعارة"
 gaps:
   - "لم يُحدَّد بعد نص أو صفحة بعينها من كتابات بيك أو من كتاب Burns، Feeling Good (1980)، ترد فيها صياغة 'النظارة الملونة' حرفياً؛ الاستعارة موثّقة كصورة سريرية شائعة في تراث CBT الشعبي أكثر منها كعبارة أولى بمصدر محدد."

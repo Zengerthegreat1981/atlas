@@ -14,7 +14,7 @@ edges:
 related:
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
-- id: "wrk-hayes-acceptance-commitment-therapy", title: "العلاج بالقبول والالتزام", type: "عمل / كتاب"
+- id: "wrk-hayes-acceptance-commitment-therapy", title: "كتاب العلاج بالقبول والالتزام لستيفن هايز (1999)", type: "عمل / كتاب"
 gaps:
   - "لم يُحدَّد بعد رقم الصفحة أو الفصل بالضبط في طبعة 1999 مقابل طبعة 2012 الثانية من Acceptance and Commitment Therapy الذي ورد فيه تمرين الحبل والوحش تحديداً."
 ---
