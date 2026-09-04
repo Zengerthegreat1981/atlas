@@ -16,16 +16,17 @@ edges:
 - rel: "relates_to", target: "sch-aristotelianism", target_type: "مدرسة"
 - rel: "relates_to", target: "sch-atomism-greek", target_type: "مدرسة"
 related:
+- id: "thk-plato", title: "أفلاطون", type: "مفكر"
+- id: "thk-aristotle", title: "أرسطو", type: "مفكر"
 - id: "thk-plotinus", title: "أفلوطين", type: "مفكر"
+- id: "con-soul-psyche-classical", title: "النفس (Psyche) في الفلسفة الكلاسيكية القديمة", type: "مفهوم"
+- id: "con-virtue-ethics", title: "أخلاق الفضيلة وتحقيق السعادة الإنسانية (Virtue Ethics / Eudaimonia)", type: "مفهوم"
 gaps:
   - "التفريق بين مفهوم الـPsyche اليوناني (نفس-روح) والمفاهيم الحديثة للنفس (Mind, Self, Personality) غير محسوم فلسفياً — هذه الفجوة مسجّلة عمداً."
   - "مدارس ما قبل سقراط (Thales, Heraclitus, Democritus) تحتاج توثيقاً مستقلاً."
-  - "لا توجد اقتباسات مباشرة موثقة في هذا الملف."
+  - "لا توجد اقتباسات مباشرة موثقة من النصوص الأصلية (الجمهورية، فيدون، كتاب النفس) في هذا الملف."
   - "الربط مع المدارس الشرقية (الهندوسية والبوذية) التي ظهرت في الفترة نفسها قائم على القرابة التاريخية فقط دون مقارنة نصية."
-- **thk-plato** (أفلاطون) و**thk-aristotle** (أرسطو): المؤسسان الفعليان لهذا التقليد، لكنهما غير موجودين في الفهرس الحالي (شذوذ ينبغي فحصه — هل هناك slug مختلف؟).
-- **con-soul** (النفس / Psyche): المفهوم المؤسّس للكلمة، غير موجود.
-- **con-virtue-ethics** (أخلاقيات الفضيلة): تقاليد أخلاقي يونغي (Plato, Aristotle, Stoics) مهمّ لهذا السياق.
-- **con-passion-vs-reason** (الانفعال ضد العقل): جدل يونغي محوري، غير موجود.
+  - "مفهوم con-passion-vs-reason (الانفعال ضد العقل)، وهو جدل محوري لهذا التقليد، غير موجود بعد في الفهرس — يُنصح بإنشائه أو ربط ما يعادله."
 ---
 
 # فلسفة النفس في التراث اليوناني
@@ -44,8 +45,17 @@ gaps:
 
 ## الأثر على علم النفس الحديث
 
-لا يمكن فهم علم النفس المعاصر دون هذا التقليد: "علم النفس" نفسه (Psychology) مشتق من Psyche اليونانية. مفهوم العقل الباطن (Unconscious) عند فرويد له أصول أفلاطونية في "المحرّك الثالث" (the third part of soul). مفهوم الشخصية (Persona) يونغية مأخوذ من الأقنعة المسرحية اليونانية. كما أن علم النفس الأرسطي للجسد (Hylomorphism) ظلّ حاضراً في علم النفس الفلسفي المعاصر.
+لا يمكن فهم علم النفس المعاصر دون هذا التقليد: "علم النفس" نفسه (Psychology) مشتق من Psyche اليونانية. نموذج فرويد البنيوي (الهو/الأنا/الأنا الأعلى) يوازي بشكل لافت نظرية أفلاطون الثلاثية للنفس في "الجمهورية": فالجزء الشهواني (Appetitive) يقابل الهو (Id) في كونه مطلب اللذة واللاعقلاني، والجزء الغضبي/الحماسي (Spirited) قريب من الأنا الأعلى بوصفه حامل القيم والشرف، بينما يتوسط العقل (Rational) — كما تتوسط الأنا الفرويدية — بين النزوة والمثال؛ وهذا تقارب بنيوي لافت، لا نقلاً حرفياً موثقاً بإسناد فرويد نفسه إليه صراحة. مفهوم الشخصية (Persona) عند يونغ مأخوذ من الكلمة اللاتينية persona، أي القناع الذي كان يرتديه الممثلون في المسرح الروماني (لا اليوناني) لتضخيم الصوت وتمثيل الدور. كما أن علم النفس الأرسطي للجسد (Hylomorphism) ظلّ حاضراً في علم النفس الفلسفي المعاصر.
 
 ## اقتباسات مختارة
 
 لا يوجد اقتباس مباشر موثّق متاح.
+
+## المصادر
+
+- Plato, *Republic*, Book IV (on the tripartite soul).
+- Plato, *Phaedo*; *Symposium*; *Phaedrus*.
+- Aristotle, *De Anima* (On the Soul).
+- [Psychology Today: "Did Plato Lay the Groundwork for Freud's Psychoanalysis?"](https://www.psychologytoday.com/us/blog/what-would-aristotle-do/201912/did-plato-lay-the-groundwork-freud-s-psychoanalysis)
+- [Wikipedia: Id, ego and superego](https://en.wikipedia.org/wiki/Id,_ego_and_superego)
+- [IAAP: Persona — Jung analytical psychology](https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/persona-2/)
