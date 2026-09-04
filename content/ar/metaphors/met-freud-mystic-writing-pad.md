@@ -13,9 +13,9 @@ edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-- id: "wrk-freud-interpretation-of-dreams", title: "تفسير الأحلام", type: "عمل / كتاب"
+- id: "wrk-freud-interpretation-of-dreams", title: "كتاب تفسير الأحلام لسيغموند فرويد (1899)", type: "عمل / كتاب"
 - id: "thk-derrida", title: "جاك دريدا", type: "مفكر"
-- id: "con-unconscious", title: "اللاشعور / اللاوعي النفسي الكلاسيكي", type: "مفهوم"
+- id: "con-unconscious", title: "اللاشعور / اللاوعي النفسي الكلاسيكي (The Unconscious)", type: "مفهوم"
 gaps:
   - "لم تُراجع الترجمة العربية المعتمدة لمقالة «ملاحظة حول لوح الكتابة السحري» إن وُجدت."
   - "لا يوجد في الملف تأكيد لاسم الشركة المصنّعة الفعلية للعبة Wunderblock التي أشار إليها فرويد في وصفه."

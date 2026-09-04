@@ -14,7 +14,7 @@ edges:
 related:
 - id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
 - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
-- id: "wrk-frankl-mans-search-for-meaning", title: "الإنسان يبحث عن المعنى", type: "عمل / كتاب"
+- id: "wrk-frankl-mans-search-for-meaning", title: "كتاب الإنسان يبحث عن المعنى لفيكتور فرانكل (1946)", type: "عمل / كتاب"
 - id: "exp-frankl-auschwitz-camp", title: "تجربة فيكتور فرانكل في معسكرات الاعتقال: إرادة المعنى وسط الفناء", type: "خبرة معيشة"
 gaps:
   - "الصياغة الأولى الدقيقة لهذه الاستعارة في محاضرات فرانكل الجامعية تحتاج مرجعاً نصياً بصفحة محددة، إذ يتداولها الشراح نقلاً عن محاضراته الشفهية أكثر من كتاب بعينه."
