@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-scholasticism", target_type: "مدرسة"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
-  - "الاقتباس المنقول من «في النبات» غير منسوب إلى طبعة وصفحة."
+  - "الاقتباس اللاتيني الدقيق «Experientia sola facit certitudinem» يُنسب عموماً إلى De vegetabilibus/De mineralibus في الأدبيات الثانوية دون تحديد موضع نقدي دقيق (رقم كتاب/فصل) في هذا المسوّد."
 ---
 
 # القديس ألبيرتوس ماغنوس (ألبير الكبير)
@@ -45,4 +45,11 @@ gaps:
 
 ## اقتباسات مختارة
 
-«التجربة وحدها هي التي تعطي اليقين في مثل هذه الأمور.» (في النبات)
+«التجربة وحدها هي التي تعطي اليقين في مثل هذه الأمور.» (Experientia sola facit certitudinem — منسوب إلى De vegetabilibus)
+
+## المصادر
+
+- Catholic Encyclopedia, "St. Albertus Magnus": https://www.newadvent.org/cathen/01264a.htm
+- Stanford Encyclopedia of Philosophy, "Albert the Great": https://plato.stanford.edu/entries/albert-great/
+- Internet Archive, *Alberti Magni... de Vegetabilibus libri VII*: https://archive.org/details/albertimagniexo00albegoog
+- Pasquini, "The Great Synthesizer: St. Albertus Magnus and the Birth of Empirical Science": https://pasquini.substack.com/p/the-great-synthesizer-st-albertus

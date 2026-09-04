@@ -57,3 +57,11 @@ gaps:
 ## أهم أعماله
 
 العصاب الصدمي للحرب (The Traumatic Neuroses of War، 1941) · الفرد ومجتمعه (The Individual and His Society، 1939، مع رالف لينتون) · الحدود النفسية للمجتمع (The Psychological Frontiers of Society، 1945، مع لينتون وبندكت ووست) · وصمة الاضطهاد (The Mark of Oppression، 1951، مع ليونيل أوفيسي) · **تحليلي مع فرويد** (My Analysis with Freud، 1977) — شهادة نادرة مباشرة عن فرويد محلِّلاً.
+
+## المصادر
+
+- [Abram Kardiner — Wikipedia](https://en.wikipedia.org/wiki/Abram_Kardiner)
+- [Kardiner, Abram (1891–1981) — Encyclopedia.com](https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/kardiner-abram-1891-1981)
+- [The Traumatic Neuroses of War — Internet Archive (نص كامل)](https://archive.org/details/kardiner-1941-war)
+- [Kardiner & Ovesey, The Mark of Oppression — Internet Archive](https://archive.org/details/markofoppression0000unse)
+- [The Mark of Oppression — The Journal of Negro History (مراجعة)](https://www.journals.uchicago.edu/doi/abs/10.2307/2715376)

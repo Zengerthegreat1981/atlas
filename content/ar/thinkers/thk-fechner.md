@@ -55,7 +55,7 @@ gaps:
 
 ### 4. الأزمة النفسية والتجربة الشخصية
 
-في عام 1840، أصيب فيخنر بأزمة نفسية حادة (اكتئاب شديد) منعته من العمل لسنوات. شُفي تدريجياً بتأمله في الحديقة ومشاهدته لأزهار عباد الشمس، وهو ما رواه في أعماله اللاحقة كتجربة شخصية.
+بين 1839 و1843 مرّ فيخنر بأزمة نفسية حادة (اكتئاب مع أعراض ذهانية) بدأت بعد إصابة بصره أثناء تجارب على الألوان والصور اللاحقة بالنظر إلى الشمس عبر زجاج ملوّن، فمُنع من العمل والقراءة سنوات. تعافى تدريجياً، وذروة شفائه كانت في 5 أكتوبر 1843 حين خرج للمرة الأولى إلى حديقته من دون غطاء عينيه، فرأى الزهور (الزنابق والليلك، لا عبّاد الشمس كما يشيع خطأً) وكأنها تشعّ نوراً داخلياً — تجربة رواها بوصفها تحوّلاً روحياً غيّر نظرته للعالم.
 
 ## الأثر على علم النفس والفلسفة
 
@@ -87,3 +87,11 @@ gaps:
 - *Vorschule der Aesthetik* (1876).
 - *In Sachen der Psychophysik* (1877).
 - *Revision der Hauptpuncte der Psychophysik* (1882).
+
+## المصادر
+
+- Stanford Encyclopedia of Philosophy, "Gustav Theodor Fechner": https://plato.stanford.edu/entries/fechner/
+- Encyclopedia.com, "Gustav Theodor Fechner": https://www.encyclopedia.com/people/medicine/psychology-and-psychiatry-biographies/gustav-theodor-fechner
+- Aeon Essays, "Can we see past our soul-blindness to recognise plant minds?" (تفاصيل أزمة 1839–1843 وحادثة الحديقة): https://aeon.co/essays/can-we-see-past-our-soul-blindness-to-recognise-plant-minds
+- Wikipedia, "Stevens's power law": https://en.wikipedia.org/wiki/Stevens%27s_power_law
+- Stevens, S. S. (1957), "On the Psychophysical Law", Psychological Review, 64(3), 153–181.

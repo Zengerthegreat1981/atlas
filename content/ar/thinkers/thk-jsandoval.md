@@ -21,14 +21,15 @@ related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
-  - "**تحذير تحقّق**: نسبة تحرير كتاب *Psychology as the Discipline of Interiority* (2013) وسلسلة دراسات غيغيريش وانتماؤها إلى Florida Gulf Coast University لم يُتحقّق منها من مصدر أوّلي؛ وأكثر من كتب عن غيغيريش بالإنجليزية هو **غريغ موغنسون**. الملف يحتاج توثيقاً قبل الاعتماد عليه."
+  - "**تصحيح تحقّق (2026-09-04)**: الملف السابق نسب جنيفر ساندوفال إلى Florida Gulf Coast University؛ هذا خطأ. التحقّق عبر ريسيرش‌غيت وموقعها الشخصي وسجلّات Pacifica Graduate Institute يُثبت أنها عضوة هيئة تدريس مشاركة (Associate Core Faculty) ورئيسة سابقة لبرنامج علم النفس السريري في **Pacifica Graduate Institute** (كارپينتيريا، كاليفورنيا)، لا في Florida Gulf Coast University. حصلت على الدكتوراه في علم النفس السريري من Pacifica Graduate Institute، وماجستير الإرشاد النفسي من University of Santa Monica، وبكالوريوس الرياضيات النظرية من UC Santa Cruz. صُحِّح الانتماء في المتن."
+  - "الكتاب *Psychology as the Discipline of Interiority* (تحرير جنيفر ساندوفال وجون سي. ناب، 2016 لا 2013؛ ط. Routledge) موثَّق فعلياً عبر صفحات الناشر وأمازون؛ صُحِّحت سنة النشر. توجد أيضاً طبعة/عمل لاحق بعنوان قريب *Essays on \"The Soul's Logical Life\" in the Work of Wolfgang Giegerich* بالاشتراك مع كولين البيجاني وباميلا باور (Routledge)، وهو ما يسند صلتها الموثَّقة بـ thk-cel-bejjani وthk-ppower."
   - "edges.belongs_to.target كان sch-psychoanalysis رغم أن كل مادة الملف عن غيغيريش واليونغية النقدية؛ استُبدل بـ br-jungian (التحليلية اليونغية) وهو الأنسب لمحتوى المتن الفعلي."
   - "عنوان رابط thk-ppower كان 'باميلا باور' بينما العنوان الحقيقي للملف 'باميلا ج. باور' — صُحِّح للمطابقة."
 ---
 
 # جنيفر ساندوفال
 
-محلّلة يونغية أمريكية، أستاذة علم النفس السريري في Florida Gulf Coast University، من أهمّ من يدافع عن «علم نفس كعلم للبواطن» (Giegerich) في أمريكا.
+محلّلة يونغية أمريكية، حاصلة على الدكتوراه في علم النفس السريري من Pacifica Graduate Institute حيث عملت عضوة هيئة تدريس مشاركة (Associate Core Faculty) ورئيسة سابقة لبرنامج علم النفس السريري، ومن أهمّ من يدافع عن «علم نفس كعلم للبواطن» (Giegerich) في أمريكا.
 
 ## ما أعطته
 
@@ -45,4 +46,13 @@ gaps:
 
 ## أهم أعمالها
 
-Psychology as the Discipline of Interiority (2013، تحرير).
+- *Psychology as the Discipline of Interiority: "The Psychological Difference" in the Work of Wolfgang Giegerich* (تحرير مشترك مع John C. Knapp، Routledge، 2016).
+- *Essays on "The Soul's Logical Life" in the Work of Wolfgang Giegerich: Psychology as the Discipline of Interiority* (تحرير مشترك مع Colleen El-Bejjani وPamela Power، Routledge).
+
+## المصادر
+
+- الصفحة الأكاديمية على ريسيرچ‌غيت (Pacifica Graduate Institute، Associate Core Faculty، Clinical Psychology Program): https://www.researchgate.net/profile/Jennifer-Sandoval
+- الموقع الشخصي: https://www.jennifermsandoval.com/about
+- صفحة الناشر Routledge للكتاب: https://www.routledge.com/Psychology-as-the-Discipline-of-Interiority-The-Psychological-Difference-in-the-Work-of-Wolfgang-Giegerich/Sandoval-Knapp/p/book/9781138120884
+- صفحة الناشر Routledge للعمل اللاحق مع El-Bejjani وPower: https://www.routledge.com/Essays-on-The-Souls-Logical-Life-in-the-Work-of-Wolfgang-Giegerich-Psychology/Sandoval-EL-Bejjani-Power/p/book/9781032463247
+- إعلان Pacifica Graduate Institute Alumni Association عن انتقال قيادة برنامج علم النفس السريري (تأكيد رئاستها السابقة للبرنامج): https://pgiaa.org/uncategorized/leadership-transition-of-the-clinical-psychology-program/

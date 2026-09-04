@@ -6,7 +6,7 @@ level: "متقدم"
 title: "دونالد كَلشد"
 en: "Donald Kalsched"
 crumb: "مدرسة التحليل النفسي ← الناس ← دونالد كَلشد"
-dates: "أمريكا · معاصر"
+dates: "أمريكا · وُلد 1943"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
@@ -24,7 +24,7 @@ gaps:
 
 # دونالد كَلشد
 
-محلّل يونغي وطبيب نفسي إكلينيكي أمريكي، يعمل في كاتوناه (نيويورك) وألباكركي (نيو مكسيكو).
+محلّل يونغي وطبيب نفسي إكلينيكي أمريكي، وُلد عام 1943. مارس عمله لعقود في نيويورك وكاتوناه (نيويورك)، ثم انتقل عام 2007 إلى ألباكركي (نيو مكسيكو) حيث عمل أستاذاً مساعداً في قسم الطب النفسي بجامعة نيومكسيكو، قبل أن يستقر لاحقاً في سانتا في.
 
 ## ما أعطاه
 
@@ -39,4 +39,13 @@ gaps:
 
 ## أهم أعماله
 
-العالم الداخلي للصدمة (The Inner World of Trauma, 1996).
+- العالم الداخلي للصدمة (The Inner World of Trauma: Archetypal Defenses of the Personal Spirit, 1996).
+- الصدمة والروح (Trauma and the Soul: A Psycho-Spiritual Approach to Human Development and its Interruption, 2013).
+
+## المصادر
+
+- [Donald Kalsched, Ph.D. — الموقع الرسمي](https://www.donaldkalsched.com/)
+- [Donald Kalsched | Pacifica Graduate Institute](https://www.pacifica.edu/faculty/donald-kalsched/)
+- [Donald Kalsched — New York Center for Jungian Studies](https://nyjungcenter.org/presenter/donald-kalsched/)
+- [The Inner World of Trauma — Internet Archive (Kalsched, Donald, 1943-)](https://archive.org/details/innerworldoftrau0000kals)
+- [Trauma and the Soul — Routledge](https://www.routledge.com/Trauma-and-the-Soul-A-psycho-spiritual-approach-to-human-development-and-its-interruption/Kalsched/p/book/9780415681469)

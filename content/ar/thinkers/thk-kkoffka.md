@@ -55,3 +55,10 @@ gaps:
 - *The Growth of the Mind* (1924).
 - *Principles of Gestalt Psychology* (1935).
 
+## المصادر
+
+- [Kurt Koffka — Wikipedia](https://en.wikipedia.org/wiki/Kurt_Koffka)
+- [Kurt Koffka — Encyclopaedia Britannica](https://www.britannica.com/biography/Kurt-Koffka)
+- [Kurt Koffka (1886–1941) — Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/koffka-kurt-1886-1941)
+- [Lashley, Chow & Semmes (1951) واختبار الإيزومورفية — ملخص في: A Century of Gestalt Psychology in Visual Perception I, PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3482144/)
+

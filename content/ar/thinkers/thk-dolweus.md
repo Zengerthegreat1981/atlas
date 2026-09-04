@@ -5,27 +5,34 @@ type: "مفكر"
 level: "متوسط"
 title: "دان أولِس"
 en: "Dan Olweus"
-dates: "السويد/النرويج · وُلد 1931"
+dates: "السويد/النرويج · 1931-2020"
 country: "النرويج"
 language: "السويدية/الإنجليزية"
 active_start: 1970
-active_end: "مستمر"
+active_end: 2020
 part: "philosophy"
 crumb: "الأطلس ← thinkers ← دان أولِس"
 edges:
 - rel: "belongs_to", target: "sch-school-bullying-research", target_type: "مدرسة"
 related:
-- id: "thk-jeberenz", title: "دان أولڤيوس", type: "مفكر"
 - id: "thk-krigby", title: "كن رِجباي", type: "مفكر"
 - id: "thk-petersmith", title: "بيتر سميث", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
+  - "ملاحظة تكرار: هذا الملف يغطي الشخص نفسه الذي يغطيه content/ar/thinkers/thk-jeberenz.md (Dan Olweus، THK-1263)، بمعرّف مختلف (THK-0941) وضبط عربي مختلف للاسم. كانت القائمة `related` تحيل سابقاً إلى thk-jeberenz كأنه شخص آخر، وهو خطأ تم تصحيحه هنا بإزالة الإحالة الذاتية. يوصى بمراجعة الملفين لدمجهما أو حذف أحدهما — هذا الملف مرشح للمراجعة/الحجر بسبب التكرار، لا بسبب الشك في هوية الشخص (فهو حقيقي وموثَّق جيداً)."
 ---
 
 # دان أولِس
 
-عالم نفس سويدي، يُعدّ «الأب المؤسِّس» لبحوث التنمر (Bullying) في السبعينيات، ومطوّر «برنامج أولِس لمنع التنمر» (OBPP).
+عالم نفس سويدي-نرويجي (1931-2020)، وُلد في نيشوبينغ بالسويد ودرس في جامعة ستوكهولم، ثم انتقل عام 1970 إلى جامعة بيرغن في النرويج حيث أمضى معظم مسيرته الأكاديمية. يُعدّ «الأب المؤسِّس» لبحوث التنمر المدرسي (Bullying)، ومطوّر «برنامج أولِس لمنع التنمر» (Olweus Bullying Prevention Program, OBPP).
 
 ## ما أعطاه
 
-أجرى أول دراسة وبائية واسعة للتنمر في مدارس ستوكهولم (1973-78) وعرّف «التنمر» (Mobbing/Bullying) بمعياره الثلاثي (النية، التكرار، اختلال القوة). طوّر مسح Olweus Bully/Victim Questionnaire، وبروتوكول OBPP الذي تبنّته آلاف المدارس في أمريكا الشمالية وأوروبا. ركن في تقرير لوزارة التعليم الأمريكية عام 2010.
+أجرى أول دراسة علمية منهجية للتنمر المدرسي عام 1970 على نحو 900 صبي في سولنا بالسويد، ونشر نتائجها في كتابه *Aggression in Schools: Bullies and Whipping Boys* (1978)، معرّفاً «التنمر» بمعياره الثلاثي (النية، التكرار، اختلال القوة). بعد انتحار ثلاثة مراهقين نرويجيين نتيجة التنمر عام 1982، قاد الحملة الوطنية النرويجية الأولى لمكافحة التنمر، وطوّر مسح Olweus Bully/Victim Questionnaire وبروتوكول OBPP، الذي أظهرت دراسة بيرغن (1983-1985) على نحو 2500 تلميذ فعاليته في خفض التنمر، وتبنّته لاحقاً آلاف المدارس في أمريكا الشمالية وأوروبا. توفي في 29 سبتمبر 2020 في بيروم بالنرويج عن عمر 89 عاماً.
+
+## المصادر
+
+- [Dan Olweus (1931–2020) — International Journal of Bullying Prevention (Springer)](https://link.springer.com/article/10.1007/s42380-021-00096-5)
+- [Dan Olweus — Wikipedia](https://en.wikipedia.org/wiki/Dan_Olweus)
+- [Dan Olweus (1931-2020) — PubMed](https://pubmed.ncbi.nlm.nih.gov/34780220/)
+- [Olweus Bullying Prevention Program — Clemson University, History](https://clemsonolweus.org/history.php)

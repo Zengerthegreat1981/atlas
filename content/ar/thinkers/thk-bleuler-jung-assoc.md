@@ -42,3 +42,9 @@ gaps:
 ## أهم أعماله
 
 دراسات تشخيصية في التداعي (Diagnostische Assoziationsstudien, 1906، مع يونغ) · تحقيق الرغبة والرمزية في الحكاية الشعبية (Wunscherfüllung und Symbolik im Märchen, 1908).
+
+## المصادر
+
+- [Franz Riklin — Wikipedia](https://en.wikipedia.org/wiki/Franz_Riklin)
+- [Eugen Bleuler — Wikipedia](https://en.wikipedia.org/wiki/Eugen_Bleuler)
+- [Historical Foundations of Affectivity and Learning Research: C.G. Jung's Word-Association Experiments — ResearchGate](https://www.researchgate.net/publication/372661047_Historical_Foundations_of_Affectivity_and_Learning_Research_CG_Jung's_Word-Association_Experiments)

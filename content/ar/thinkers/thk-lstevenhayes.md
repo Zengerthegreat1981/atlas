@@ -124,6 +124,13 @@ gaps:
 - Hayes, S. C. (2004). "Acceptance and commitment therapy, relational frame theory, and the third wave of behavioral and cognitive therapies." *Behavior Therapy*, 35(4), 639-665.
 - Hayes, S. C. (2019). *A Liberated Mind: The Essential Guide to ACT*. Avery.
 
+## المصادر
+
+- [Steven C. Hayes — Wikipedia](https://en.wikipedia.org/wiki/Steven_C._Hayes)
+- [Steven Hayes — Department of Psychology, University of Nevada, Reno](https://www.unr.edu/psychology/steven-hayes)
+- [About — stevenchayes.com](https://stevenchayes.com/about/)
+- [The Third Wave of Therapy — TIME (قصة نوبات الهلع 1978 وأثرها في تطوير ACT)](https://time.com/archive/6676225/the-third-wave-of-therapy/)
+
 ---
 
 ## ملاحظة معمارية

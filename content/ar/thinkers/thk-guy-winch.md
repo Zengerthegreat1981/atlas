@@ -8,8 +8,8 @@ level: "متوسط"
 title: "غاي وينش"
 en: "Guy Winch"
 crumb: "علم النفس الإكلينيكي والنظافة العاطفية ← الناس ← غاي وينش"
-dates: "الولايات المتحدة · 1962–"
-country: "الولايات المتحدة"
+dates: "لندن (بريطانيا) / نيويورك (الولايات المتحدة) · حوالي 1961–"
+country: "بريطانيا (المولد) — الولايات المتحدة (الإقامة والممارسة)"
 language: "الإنجليزية"
 active_start: 1995
 active_end: "مستمر"
@@ -20,6 +20,7 @@ gaps:
   - "بيانات السيرة الذاتية وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق من *The Squeaky Wheel* (2011) بترجمة عربية معتمدة."
   - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«علم النفس الإكلينيكي والنظافة العاطفية» في content/ar/schools أو branches."
+  - "سنة الميلاد غير مؤكدة بدقة في المصادر المتاحة (تُقدَّر بحوالي 1961)؛ وُلد في لندن (بريطانيا) لا في الولايات المتحدة كما ورد سابقاً في هذا الملف، ثم انتقل لاحقاً إلى نيويورك حيث درس ويمارس."
 ---
 
 # غاي وينش
@@ -37,11 +38,21 @@ gaps:
 
 ## موقعه من التيار
 
-غاي وينش **عالم نفس إكلينيكي** حاصل على الدكتوراه من جامعة نيويورك، ويمارس في نيويورك — وقد صُحّح في هذا الملف وصفه السابق بـ«طبيب نفسي» فهو ليس طبيباً. وموقعه في هذا الأطلس أنه من **الوسطاء** بين البحث الأكاديمي والجمهور: لا يقدّم نظرية جديدة بل **يترجم** نتائج راسخة في تنظيم الانفعال والرفض الاجتماعي والاجترار إلى إجراءات يومية قابلة للتطبيق. ويُقرأ بهذا الاعتبار: قيمته في التبسيط والوصول لا في الأصالة النظرية، وتوصياته تستند في معظمها إلى أدبيات قائمة يذكرها.
+غاي وينش **عالم نفس إكلينيكي** وُلد في لندن، وحصل على الدكتوراه في علم النفس الإكلينيكي من **جامعة نيويورك (NYU)** عام 1991، وأكمل تدريباً ما بعد الدكتوراه شمل العلاج الأسري مع سلفادور مينوشين والعلاج النفسي الديناميكي المُسرَّع (AEDP) مع ديانا فوشا، ويمارس اليوم في نيويورك — وقد صُحّح في هذا الملف وصفه السابق بـ«طبيب نفسي» فهو ليس طبيباً. وموقعه في هذا الأطلس أنه من **الوسطاء** بين البحث الأكاديمي والجمهور: لا يقدّم نظرية جديدة بل **يترجم** نتائج راسخة في تنظيم الانفعال والرفض الاجتماعي والاجترار إلى إجراءات يومية قابلة للتطبيق. ويُقرأ بهذا الاعتبار: قيمته في التبسيط والوصول لا في الأصالة النظرية، وتوصياته تستند في معظمها إلى أدبيات قائمة يذكرها.
 
 ## أهم الأعمال
 
-- *Emotional First Aid: Healing Rejection, Guilt, Failure, and Other Everyday Hurts* (2013).
-- *The Squeaky Wheel* (2011).
-- *How to Fix a Broken Heart* (2018).
-- محاضرة TED: *Why We All Need to Practice Emotional First Aid* (2014).
+- *The Squeaky Wheel* (Bloomsbury, 2011).
+- *Emotional First Aid: Healing Rejection, Guilt, Failure, and Other Everyday Hurts* (Hudson Street Press, 2013).
+- *How to Fix a Broken Heart* (Simon & Schuster/TED Books, 2018).
+- محاضرة TED: *Why We All Need to Practice Emotional First Aid* (TEDxLinnaeusUniversity، 2014).
+- محاضرة TED: *How to Fix a Broken Heart* (TED2017).
+
+## المصادر
+
+- [About — Guy Winch](https://www.guywinch.com/about/)
+- [Guy Winch | Speaker | TED](https://www.ted.com/speakers/guy_winch)
+- [Guy Winch: Why we all need to practice emotional first aid | TED Talk](https://www.ted.com/talks/guy_winch_why_we_all_need_to_practice_emotional_first_aid)
+- [Guy Winch: How to fix a broken heart | TED Talk](https://www.ted.com/talks/guy_winch_how_to_fix_a_broken_heart)
+- [Taking psychology to the people — American Psychological Association](https://www.apa.org/members/content/winch-effective-strategies)
+- [How to Fix a Broken Heart — Simon & Schuster (publisher page)](https://www.simonandschuster.com/books/How-to-Fix-a-Broken-Heart/Guy-Winch/TED-Books/9781501120121)

@@ -15,7 +15,7 @@ language: "العربية"
 edges:
 - rel: "belongs_to", target: "sch-ashariyya", target_type: "مدرسة"
 related:
-- id: "thk-al-ghazali", title: "أبو حامد الغزالي", type: "مفكر"
+- id: "thk-al-ghazali", title: "أبو حامد محمد بن محمد الغزالي (حجة الإسلام)", type: "مفكر"
 - id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"
 - id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"
 gaps:
@@ -49,3 +49,9 @@ gaps:
 - الاستبصار
 - رسالة إلى أهل الثغر
 - شرح الأسماء الحسنى
+
+## المصادر
+
+- Encyclopaedia Britannica, "Abu al-Hasan al-Ashari": https://www.britannica.com/biography/Abu-al-Hasan-al-Ashari
+- Wikishia, "Abu l-Hasan al-Ash'ari": https://en.wikishia.net/view/Abu_l-Hasan_al-Ash'ari
+- Stanford Encyclopedia of Philosophy, entries on Islamic theology (Ash'arism): https://plato.stanford.edu/entries/islamic-theology/

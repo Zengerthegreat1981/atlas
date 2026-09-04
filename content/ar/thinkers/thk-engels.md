@@ -65,3 +65,11 @@ gaps:
 - **Der Ursprung der Familie, des Privateigenthums und des Staats** (1884): أصل العائلة.
 - **Ludwig Feuerbach und der Ausgang der klassischen deutschen Philosophie** (1886): فيورباخ ونهاية الفلسفة الكلاسيكية.
 - **Dialektik der Natur** (نُشر بعد وفاته عام 1925): جدلية الطبيعة.
+
+## المصادر
+
+- Marxists Internet Archive, "The Origin of the Family, Private Property and the State": https://www.marxists.org/archive/marx/works/1884/origin-family/index.htm
+- Wikipedia, "The Origin of the Family, Private Property and the State": https://en.wikipedia.org/wiki/The_Origin_of_the_Family,_Private_Property_and_the_State
+- Wikipedia, "Baumwollspinnerei Ermen & Engels" (عمل إنغلز في مصنع مانشستر 1842–1844): https://en.wikipedia.org/wiki/Baumwollspinnerei_Ermen_%26_Engels
+- Jacobin, "In Working-Class Manchester, Friedrich Engels Became a Revolutionary": https://jacobin.com/2020/11/friedrich-engels-working-class-manchester-england
+- Wikipedia, "Ancient Society" (لويس مورغان، 1877): https://en.wikipedia.org/wiki/Ancient_Society

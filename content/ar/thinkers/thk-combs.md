@@ -42,4 +42,12 @@ gaps:
 
 ## أهم أعماله
 
-السلوك الفردي: مقاربة إدراكية للسلوك (Individual Behavior, 1949/1959) · العلاقات المُعِينة: مبادئ أساسية للعلاج والتعليم (Helping Relationships, 1971) · أن تكون وأن تصير: مقاربة حقلية لعلم النفس (Being and Becoming, 1999).
+السلوك الفردي: مقاربة إدراكية للسلوك (Individual Behavior: A New Frame of Reference for Psychology, 1949؛ نُشرت طبعة منقّحة بعنوان Individual Behavior: A Perceptual Approach to Behavior, 1959، بالاشتراك مع دونالد سنيغ) · العلاقات المُعِينة: مبادئ أساسية للعلاج والتعليم (Helping Relationships, 1971) · أن تكون وأن تصير: مقاربة حقلية لعلم النفس (Being and Becoming: A Field Approach to Psychology, 1999).
+
+## المصادر
+
+- Snygg, D. & Combs, A. W. (1949). *Individual Behavior: A New Frame of Reference for Psychology*. Harper & Brothers. [PhilPapers](https://philpapers.org/rec/SNYIBA)
+- Magnuson, S. (2012). "Arthur Wright Combs: A Humanistic Pioneer." *The Journal of Humanistic Counseling*, 51(1). [Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1002/j.2161-1939.2012.00004.x)
+- Boeree, C. G. "Donald Snygg (1904–1967) & Arthur W. Combs (1912–1999)." [webspace.ship.edu](https://webspace.ship.edu/cgboer/SnyggCombs.pdf)
+- "Phenomenal field theory." *Wikipedia*. [en.wikipedia.org](https://en.wikipedia.org/wiki/Phenomenal_field_theory)
+- "Combs, A(rthur) W(right) 1912-1999." *Encyclopedia.com*. [encyclopedia.com](https://www.encyclopedia.com/arts/educational-magazines/combs-arthur-wright-1912-1999)

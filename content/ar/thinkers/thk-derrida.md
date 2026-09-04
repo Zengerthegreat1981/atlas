@@ -19,7 +19,7 @@ related:
 - id: "ctx-postmodern-critical-tradition", title: "سياق ما بعد الحداثة والنقد التفكيكي والتحرري", type: "سياق/تقليد"
 - id: "rel-post-structuralism-antipsychiatry", title: "ما بعد البنيوية ومناهضة الطب النفسي: من فوكو إلى ساس", type: "علاقة بين مدرستين"
 - id: "sch-deconstruction", title: "التفكيكية", type: "مدرسة"
-- id: "thk-heidegger", title: "مارتن هايدغر", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
 - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
 - id: "ctx-paris-may-1968-intellectual", title: "أحداث مايو 1968 في باريس وثورة ما بعد البنيوية والتفكيك", type: "سياق/تقليد"
@@ -53,3 +53,10 @@ gaps:
 - *La voix et le phénomène* (1967)
 - *Marges de la philosophie* (1972)
 - *La carte postale: De Socrate à Freud et au-delà* (1980)
+
+## المصادر
+
+- "Of Grammatology." *Philopedia*. [philopedia.org](https://philopedia.org/works/of-grammatology/)
+- "Jacques Derrida." *Philopedia*. [philopedia.org](https://philopedia.org/philosophers/jacques-derrida/)
+- "Of Grammatology by Jacques Derrida." *EBSCO Research Starters*. [ebsco.com](https://www.ebsco.com/research-starters/literature-and-writing/grammatology-jacques-derrida)
+- Derrida, J. (1967). *De la grammatologie*. Les Éditions de Minuit.

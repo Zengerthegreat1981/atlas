@@ -57,3 +57,7 @@ gaps:
 
 - William C. Chittick, *The Sufi Path of Knowledge: Ibn al-'Arabi's Metaphysics of Imagination* (State University of New York Press, 1989).
 - Claude Addas, *Quest for the Red Sulphur: The Life of Ibn 'Arabi* (Islamic Texts Society, 1993).
+- [Ibn Arabi — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/ibn-arabi/)
+- [Ibn 'Arabi — Encyclopædia Britannica](https://www.britannica.com/biography/Ibn-al-Arabi)
+- [Qunawi's Role in the School of Ibn Arabi (William Chittick) — Muhyiddin Ibn Arabi Society](https://ibnarabisociety.org/qunawi-in-the-school-of-ibn-arabi-william-chittick/)
+- [Biography of Sadr al-Din al-Qunawi (Jane Clark) — Muhyiddin Ibn Arabi Society](https://ibnarabisociety.org/sadr-al-din-al-qunawi-jane-clark/)

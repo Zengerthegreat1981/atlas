@@ -54,3 +54,12 @@ gaps:
 - *The Righteous Mind* (2012).
 - *The Coddling of the American Mind* (2018، مع غريغ لوكيانوف).
 - *The Anxious Generation* (2024).
+
+## المصادر
+
+- الصفحة الرسمية على موقع كلية ستيرن، جامعة نيويورك (منصبه أستاذ القيادة الأخلاقية، انضمامه في 2011): https://www.stern.nyu.edu/faculty/bio/Jonathan-Haidt
+- مدخل ويكيبيديا (بالإنجليزية) عن جوناثان هايدت: https://en.wikipedia.org/wiki/Jonathan_Haidt
+- موقع نظرية الأسس الأخلاقية (بالاشتراك مع جيسي غراهام وآخرين): https://moralfoundations.org/
+- نقد كانديس أوديجرز في مجلة Nature لأطروحة *The Anxious Generation*: https://www.techdirt.com/2024/10/11/jonathan-haidts-claims-on-kids-tech-crumble-under-scrutiny-from-top-expert-candice-odgers/
+- مدخل ويكيبيديا عن *The Anxious Generation* يلخّص الجدل العلمي حول الأطروحة: https://en.wikipedia.org/wiki/The_Anxious_Generation
+- تغطية مجلة Science لعدم استقرار الأدلة حول الشبكات الاجتماعية والصحة النفسية للمراهقين (تتقاطع مع نقد أورمان): https://www.science.org/doi/10.1126/science.adr1730

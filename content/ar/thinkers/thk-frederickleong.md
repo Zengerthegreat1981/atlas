@@ -6,7 +6,7 @@ level: "متقدم"
 title: "فريديريك ليونغ"
 en: "Frederick T. L. Leong"
 crumb: "الاستشارات متعددة الثقافات ← تطوير ← فريديريك ليونغ"
-dates: "الولايات المتحدة/ماليزيا · [DRAFT-UNKNOWN]"
+dates: "ماليزيا/الولايات المتحدة · 1957–"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1990
@@ -19,19 +19,19 @@ related:
 - id: "thk-ptedeschi", title: "رافائيل تيدِسكي", type: "مفكر"
 - id: "thk-deraldwing-sue", title: "ديرالد وينغ سو", type: "مفكر"
 gaps:
-  - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
 ---
 
 # فريديريك ليونغ
 
-أستاذ علم النفس في جامعة ميشيغان، من الشخصيات المؤثرة في **علم النفس متعدد الثقافات**، وركّز على تكييف نظريات الشخصية والإكلينيكية مع السياقات الثقافية الآسيوية والأمريكية الآسيوية.
+أمريكي من أصل صيني وُلد وتلقّى تعليمه المبكر في ماليزيا، وانتقل إلى الولايات المتحدة عام 1975 (بكالوريوس من كلية Bates عام 1979، ودكتوراه من جامعة ماريلاند عام 1988 بتخصص مزدوج في الإرشاد وعلم النفس الصناعي/التنظيمي). عمل أستاذاً في **جامعة ولاية ميشيغان (Michigan State University)** ومديراً لاتحاد أبحاث علم النفس متعدد الثقافات، وهو حالياً أستاذ علم النفس التطبيقي في **جامعة الصين الشعبية بهونغ كونغ - شنتشن**. من الشخصيات المؤثرة في **علم النفس متعدد الثقافات**، وركّز على تكييف نظريات الشخصية والإكلينيكية مع السياقات الثقافية الآسيوية والأمريكية الآسيوية.
 
 ## ما أعطاه
 
 - تطوير **نموذج الشخصية العرقية-الثقافية** (Ethnic and Cultural Personality) الذي يدمج السمات الفردية مع الهويات الثقافية المتعددة.
 - أبحاث واسعة عن **الصحة النفسية للأمريكيين الآسيويين**، بما في ذلك ظاهرة «النموذج الأقلّي» (Minority Model).
-- تحرير موسوعات مرجعية في علم النفس متعدد الثقافات.
+- تحرير موسوعات مرجعية في علم النفس متعدد الثقافات، أبرزها *Encyclopedia of Counseling* و*APA Handbook of Multicultural Psychology*.
+- المؤسِّس ورئيس التحرير الأول لمجلة *Asian American Journal of Psychology* عند إطلاقها عام 2009، وهي أول دورية محكَّمة مخصصة لعلم نفس الأمريكيين الآسيويين.
 
 ## موقعه من التيار
 
@@ -39,5 +39,13 @@ gaps:
 
 ## أهم أعماله
 
-- تحرير *Encyclopedia of Counseling* (مع براون).
-- أبحاث منشورة في *Asian American Journal of Psychology*.
+- تحرير *Encyclopedia of Counseling* (Sage).
+- تحرير *APA Handbook of Multicultural Psychology*.
+- أبحاث منشورة في *Asian American Journal of Psychology* وغيرها من الدوريات (أكثر من 290 مقالاً وفصلاً بحثياً، وتحرير أو مشاركة تحرير 20 كتاباً).
+
+## المصادر
+
+- APA, "Featured Psychologist: Frederick T.L. Leong, PhD": https://www.apa.org/pi/oema/resources/ethnicity-health/psychologists/frederick-leong
+- Michigan State University, Department of Psychology — Leong, Frederick: https://psychology.msu.edu/directory/leong-frederick.html
+- Sage Reference, Encyclopedia of Counseling — "Leong, Frederick T. L. (1957-)": https://sk.sagepub.com/ency/edvol/counseling/chpt/leong-frederick-t-l-1957
+- Frederick T. L. Leong — Wikidata: https://www.wikidata.org/wiki/Q88013142

@@ -60,3 +60,9 @@ gaps:
 - شريك مؤسِّس لبنية التدريب الدولية لـ DBT (ISITDBT) إلى جانب لينهان.
 - كبير مدرّبي ومستشاري Behavioral Tech، الجهة المرجعية لتدريب DBT عالمياً.
 - أشرف على تعميم DBT في عدة أنظمة صحة نفسية عامة بالولايات المتحدة وكندا.
+
+## المصادر
+
+- [Charles Swenson, MD — J&K Seminars](https://jkseminars.com/speakers/charles-swenson-md-0)
+- [DBT Principles in Action: Acceptance, Change, and Dialectics — Routledge](https://www.routledge.com/DBT-Principles-in-Action-Acceptance-Change-and-Dialectics/Swenson/p/book/9781462536108)
+- [DBT Principles in Action — Google Books](https://books.google.com/books/about/DBT_Principles_in_Action.html?id=28I9DwAAQBAJ)

@@ -41,3 +41,10 @@ gaps:
 ## أهم أعماله
 
 «علم النفس التحليلي: منظورات معاصرة» (Analytical Psychology: Contemporary Perspectives, 2004، مع ليندا كارتر) · «التزامن: الطبيعة والنفس في كون مترابط» (Synchronicity: Nature and Psyche in an Interconnected Universe, 2009).
+
+## المصادر
+
+- [Joseph Cambray — Research profile, ResearchGate](https://www.researchgate.net/profile/Joseph-Cambray)
+- [Pacifica Graduate Institute Announces International Scholar as Provost — PRWeb](https://www.prweb.com/releases/2015/08/prweb12914708.htm)
+- [Joseph Cambray — Oregon Friends of Jung](https://ofj.org/speaker/joseph-cambray/)
+- [Pacifica Graduate Institute Appoints Joseph Cambray as New President and CEO — PRWeb](https://www.prweb.com/releases/2017/07/prweb14553222.htm)

@@ -52,3 +52,9 @@ gaps:
 - *Self-theories: Their Role in Motivation, Personality, and Development* (1999).
 - *Mindset: The New Psychology of Success* (2006).
 - *Praise for Intelligence Can Undermine Children's Motivation and Performance* (1998، مع كلوديا مولر).
+
+## المصادر
+
+- Mueller, C. M., & Dweck, C. S. (1998), "Praise for Intelligence Can Undermine Children's Motivation and Performance", Journal of Personality and Social Psychology, 75(1), 33–52: https://pubmed.ncbi.nlm.nih.gov/9686450/
+- Yeager, D. S. et al. (2019), "A national experiment reveals where a growth mindset improves achievement", Nature: https://www.nature.com/articles/s41586-019-1466-y
+- Foliano, F. et al. (2019), "Changing Mindsets: Effectiveness Trial", NIESR/Education Endowment Foundation: https://www.niesr.ac.uk/wp-content/uploads/2021/10/Changing-Mindsets_0-4.pdf
