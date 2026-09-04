@@ -26,7 +26,7 @@ gaps:
 
 ## من الرقص العلاجي إلى مدرسة علاجية
 
-في مطلع التسعينات أسستُ في بولدر معهد Hakomi Somatics Institute ثم لاحقاً Sensorimotor Psychotherapy Institute، وطورتُ مع الطبيب النفسي وعالم الأعصاب بيسل فان دير كولك (Bessel van der Kolk)، ومع كِيكوني مينيتي (Kekuni Minton) وكلير باين (Clare Pain)، إطاراً جمع بين الفينومينولوجيا الجسدية لطريقة هاكومي التي صاغها رون كورتز (Ron Kurtz)، ونظرية الأعصاب المتعددة (Polyvagal Theory) لستيفن بورغس (Stephen Porges)، وأبحاث فان دير كولك عن الذاكرة الجسدية للصدمة. نتج عن ذلك كتابنا المشترك «Trauma and the Body: A Sensorimotor Approach to Psychotherapy» (نورتون، 2006).
+عام 1981 شاركتُ رون كورتز (Ron Kurtz) تأسيس معهد هاكومي (Hakomi Institute)، ثم أسستُ في العام نفسه مدرستي الخاصة التي حملت أولاً اسم Hakomi Bodywork ثم Hakomi Integrative Somatics، قبل أن تتطور لاحقاً إلى Sensorimotor Psychotherapy Institute في بولدر. وبمرور السنوات طورتُ، بالتعاون مع كِيكوني مينيتي (Kekuni Minton) وكلير باين (Clare Pain)، إطاراً جمع بين الفينومينولوجيا الجسدية لطريقة هاكومي، ونظرية الأعصاب المتعددة (Polyvagal Theory) لستيفن بورغس (Stephen Porges)، وأبحاث الطبيب النفسي وعالم الأعصاب بيسل فان دير كولك (Bessel van der Kolk) عن الذاكرة الجسدية للصدمة. نتج عن ذلك كتابي المشترك مع مينيتي وباين «Trauma and the Body: A Sensorimotor Approach to Psychotherapy» (نورتون، 2006)، الذي كتب فان دير كولك ودانيال سيغل (Daniel Siegel) مقدّمته.
 
 ## إكمال الأفعال الدفاعية المعطلة
 
