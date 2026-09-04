@@ -17,10 +17,11 @@ edges:
 related:
 - id: "con-drive-reduction", title: "نظرية خفض الدافع", type: "مفهوم"
 - id: "thk-clhull", title: "كلارك هال", type: "مفكر"
-- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Behavior Theory and Conditioning* (1956) بترجمة عربية معتمدة."
   - "وفاته المبكرة (1967) قبل إكمال الأطروحة النهائية لنظرية التعلّم — موضع بحث."
+  - "تحقّق: شخصية موثّقة تماماً (Kenneth Wartinbee Spence، 6 مايو 1907 – 12 يناير 1967)، مذكور في Encyclopedia Britannica وWikipedia وNew World Encyclopedia؛ لا حاجة إلى حجر."
 ---
 
 # ك. و. سبنس
@@ -48,3 +49,10 @@ gaps:
 ## أهم أعماله
 
 *Behavior Theory and Conditioning* (1956) — محاضرات سيليمان · *Behavior Theory and Learning: Selected Papers* (1960) · "The nature of discrimination learning in animals" (1936)، *Psychological Review* · أوراقه مع **جانيت تايلور سبنس** في القلق والدافع.
+
+## المصادر
+
+- [Kenneth Wartinbee Spence — Encyclopaedia Britannica](https://www.britannica.com/biography/Kenneth-Wartinbee-Spence)
+- [Kenneth Spence — Wikipedia](https://en.wikipedia.org/wiki/Kenneth_Spence)
+- [Kenneth Spence — New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Kenneth_Spence)
+- [Spence, Kenneth W. (1907–1967) — Encyclopedia.com](https://www.encyclopedia.com/psychology/encyclopedias-almanacs-transcripts-and-maps/spence-kenneth-1907-1967)

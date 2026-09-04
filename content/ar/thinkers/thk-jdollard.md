@@ -42,3 +42,10 @@ gaps:
 ## أهم أعماله
 
 الطبقة والطائفة في بلدة جنوبية (Caste and Class in a Southern Town، 1937) · الإحباط والعدوان (Frustration and Aggression، 1939، بالاشتراك) · التعلّم الاجتماعي والمحاكاة (Social Learning and Imitation، 1941، مع نيل ميلر) · الخوف في المعركة (Fear in Battle، 1943) · الشخصية والعلاج النفسي (Personality and Psychotherapy، 1950، مع ميلر).
+
+## المصادر
+
+- [John Dollard — Wikipedia](https://en.wikipedia.org/wiki/John_Dollard)
+- [Frustration–aggression hypothesis — Wikipedia](https://en.wikipedia.org/wiki/Frustration%E2%80%93aggression_hypothesis)
+- [Southern Cultures — "John Dollard: Caste and Class Revisited"](https://www.southerncultures.org/article/john-dollard-caste-class-revisited/)
+- [Caste and Class in a Southern Town — American Historical Review (1937 review)](https://academic.oup.com/ahr/article-abstract/43/2/428/48380)

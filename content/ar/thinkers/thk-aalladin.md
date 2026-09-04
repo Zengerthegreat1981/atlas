@@ -48,5 +48,12 @@ gaps:
 ## أهم أعماله
 
 - *Cognitive Hypnotherapy: An Integrated Approach to the Treatment of Emotional Disorders* (2008).
-- *Handbook of Cognitive Hypnotherapy for Depression* (2007).
+- *Handbook of Cognitive Hypnotherapy for Depression: An Evidence-Based Approach* (2007، Lippincott Williams & Wilkins).
 - *Integrative CBT for Anxiety Disorders* (2016).
+
+## المصادر
+
+- [Assen Alladin — IJCEH (International Journal of Clinical and Experimental Hypnosis)](https://ijceh.com/hypnosis/assen-alladin)
+- [Cognitive Hypnotherapy: An Integrated Approach... — Wiley](https://www.wiley.com/en-us/Cognitive+Hypnotherapy:+An+Integrated+Approach+to+the+Treatment+of+Emotional+Disorders-p-9780470517543)
+- [Handbook of Cognitive Hypnotherapy for Depression — Amazon/Lippincott listing](https://www.amazon.ca/Handbook-Cognitive-Hypnotherapy-Depression-Evidence-Based/dp/0781766044)
+- [Assen Alladin — ResearchGate profile](https://www.researchgate.net/profile/Assen-Alladin)

@@ -19,7 +19,7 @@ related:
 - id: "thk-laron", title: "لويس آرون", type: "مفكر"
 - id: "thk-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"
 gaps:
-  - "سنة الميلاد الدقيقة 1942 وفق ويكيبيديا، تحتاج تأكيداً."
+  - "سنة الميلاد 1942 مؤكَّدة (3 أكتوبر 1942، بروكلين، نيويورك) — انظر ويكيبيديا ومصادر أخرى في المصادر أدناه."
   - "لا يوجد اقتباس مباشر موثوق من *Object Relations in Psychoanalytic Theory* (1983) بترجمة عربية معتمدة."
 ---
 
@@ -43,3 +43,11 @@ gaps:
 «العلاقات بالموضوع في النظرية التحليلية» (Object Relations in Psychoanalytic Theory، 1983، مع ستيفن ميتشل) · «أوديب وما بعده: نظرية إكلينيكية» (Oedipus and Beyond، 1991).
 
 > **تصحيح:** كان يُنسب إليه كتاب «The Process of Psychoanalytic Change (1996) مع Sandler وRosenblatt» — ولم يُعثر له على وجود؛ وساندلر وروزنبلات مؤلّفا نصّ آخر مختلف تماماً هو «مفهوم عالم التمثيل» (1962).
+
+## المصادر
+
+- Wikipedia (EN): [Jay Greenberg (psychoanalyst)](https://en.wikipedia.org/wiki/Jay_Greenberg_(psychoanalyst))
+- The Psychoanalytic Quarterly, هيئة التحرير: [Editorial Board](https://onlinelibrary.wiley.com/page/journal/21674086/homepage/editorialboard.html)
+- CyberPsych، سيرة موجزة للمحرر: [psychoanalytic quarterly - editor: Jay Greenberg](https://www.cyberpsych.org/archives/psaq/JG_bio.html)
+- Confer Online، سيرة المتحدث: [Dr Jay Greenberg](https://www.confer.uk.com/biogs/biog_greenberg.html)
+- Google Books: [Object Relations in Psychoanalytic Theory](https://books.google.com/books/about/Object_Relations_in_Psychoanalytic_Theor.html?id=4IKTF_sLf74C)

@@ -73,3 +73,10 @@ gaps:
 ## اقتباس مختار
 
 «لا يجوز اللجوء إلى السيف إلا بعدما تفشل كل الوسائل الأخرى» — من «زَفَر نامه» (الترجمة الإنجليزية المعتمدة: "When all other means have failed, it is but righteous to take up the sword").
+
+## المصادر
+
+- [Guru Gobind Singh — Encyclopaedia Britannica](https://www.britannica.com/biography/Guru-Gobind-Singh)
+- [Guru Gobind Singh — Wikipedia](https://en.wikipedia.org/wiki/Guru_Gobind_Singh)
+- [Khalsa — Encyclopaedia Britannica](https://www.britannica.com/topic/Khalsa)
+- [Vaisakhi 1699 — SikhiWiki](https://www.sikhiwiki.org/index.php/Vaisakhi_1699)

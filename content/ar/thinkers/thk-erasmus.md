@@ -45,3 +45,10 @@ gaps:
 - **Novum Instrumentum** (1516): العهد الجديد باليونانية واللاتينية.
 - **Colloquia** (1518-1533): محادثات حوارية.
 - **Ciceronianus** (1528): نقد للكلاسيكية الجامدة.
+
+## المصادر
+
+- [Desiderius Erasmus — Wikipedia](https://en.wikipedia.org/wiki/Erasmus)
+- [Novum Instrumentum omne — Wikipedia](https://en.wikipedia.org/wiki/Novum_Instrumentum_omne)
+- [Basel 1516 — Mohr Siebeck](https://www.mohrsiebeck.com/en/book/basel-1516-9783161552748/)
+- [Beatus Rhenanus — New World Encyclopedia](https://www.newworldencyclopedia.org/entry/Beatus_Rhenanus)

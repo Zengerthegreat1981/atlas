@@ -23,6 +23,7 @@ gaps:
   - "تفصيل التعاون مع كارل روجرز لم يُراجَع بعد."
   - "لا يوجد اقتباس منسوب بمصدر وسنة من «التبئير» (1978)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: روبرت كورنليس (thk-robert-cornelis)."
+  - "**ازدواج مؤكَّد**: هذا الملف (thk-egendlin) وملف thk-gendlin يعالجان الشخص نفسه بالضبط (يوجين ت. جيندلين، 1926–2017، دكتوراه فلسفة من شيكاغو 1958، أطروحته 'The Function of Experiencing in Symbolization'، مؤسّس التبئير/Focusing). الاختلاف بينهما تهجئة فقط (جيندلين/جندلين) ومحتوى متقارب مع اختلاف في related/gaps. الملفّان حيّان معاً بروابط قائمة إليهما؛ الدمج أو حجب أحدهما قرار تحريري لا يُتَّخذ هنا. مرشّح للحجر (Quarantine) ريثما يُحسم الازدواج."
 ---
 
 # يوجين جيندلين
@@ -45,3 +46,10 @@ gaps:
 ## أهم أعماله
 
 الخبرة وخلق المعنى (Experiencing and the Creation of Meaning, 1962) · التبئير (Focusing, 1978) · العلاج الموجَّه بالتبئير (1996) · نموذج العملية (A Process Model, 1997).
+
+## المصادر
+
+- [Eugene Gendlin — Wikipedia](https://en.wikipedia.org/wiki/Eugene_Gendlin)
+- [Eugene T. Gendlin, Ph.D. — The International Focusing Institute](https://focusing.org/bios/gendlin-bio)
+- [What is Focusing — The International Focusing Institute](https://focusing.org/gendlincenter/what-focusing)
+- [Remembering Eugene Gendlin — Society for Psychotherapy](https://societyforpsychotherapy.org/remembering-eugene-gendlin/)

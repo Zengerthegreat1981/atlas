@@ -48,3 +48,6 @@ gaps:
 - Spence, J. (1986). *Putting Myself in the Picture: A Political, Personal and Photographic Autobiography*. Camden Press.
 - Spence, J. (1995). *Cultural Sniping: The Art of Transgression*. Routledge.
 - Encyclopedia.com — "Spence, Jo 1934–1992" (سيرة موجزة).
+- [Wikipedia — "Jo Spence"](https://en.wikipedia.org/wiki/Jo_Spence) (وفاتها، تشخيصها بسرطان الثدي 1982، تعاونها مع روزي مارتن).
+- [Wellcome Collection — "Pain, politics and the power of photography"](https://wellcomecollection.org/stories/pain--politics-and-the-power-of-photography)
+- [Centre for British Photography — Jo Spence overview](https://britishphotography.org/artists/88-jo-spence/overview/)

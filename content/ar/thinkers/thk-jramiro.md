@@ -20,6 +20,7 @@ gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
   - "**تحذير تحقّق**: لم يُعثر على معالج بهذا الاسم في أدبيات هو-أوبونوبونو الفرنكوفونية، ولا على الكتاب المنسوب إليه (*Ho'oponopono en Polynésie française*, 2008). وكان الاسم يرد في الملف بثلاث صيغ متضاربة (جي رامييرو / جان-لوك رامارو / Jean-Luc Ramaro). الملف مرشّح للنقل إلى المسودات ما لم يُوثَّق من مصدر أوّلي."
+  - "**مرشّح للحجر (2026-09-04):** بحث ويب مباشر لِـ«Jean-Luc Ramaro» + Ho'oponopono/Polynésie/Tahiti لم يُعثر له على أي أثر مستقل — لا كتاب، لا سيرة، لا ذكر في أدبيات الموضوع الفرنكوفونية أو الإنجليزية. الأسماء الفعلية الموثَّقة في هذا المجال (Luc Bodin، Institut Ho'oponopono de Tahiti بقيادة Lydia Puatini) لا صلة لها بالاسم الوارد هنا. يُرجَّح أن الشخص وعمله (2008) ملفَّقان أو خطأ نسبة. يوصى بنقل الملف إلى الحجر/المسودات ريثما يوفَّر مصدر أوّلي مستقل يثبت وجوده."
 ---
 
 # جان-لوك رامارو
@@ -41,4 +42,10 @@ gaps:
 
 ## أهم أعماله
 
-- *Ho'oponopono en Polynésie française* (2008).
+- *Ho'oponopono en Polynésie française* (2008) — **لم يُتحقَّق من وجود هذا العمل** (انظر gaps).
+
+## المصادر
+
+- بحث ويب مباشر (2026-09-04) عن "Jean-Luc Ramaro" + Ho'oponopono/Polynésie/Tahiti: لا نتائج مطابقة لشخص أو كتاب بهذا الاسم.
+- للمقارنة على الأسماء الفعلية الموثَّقة في المجال: [Institut Ho'oponopono de Tahiti](https://www.gleauty.com/PF/Papeete/1630318197186888/Institut-Ho'oponopono-de-Tahiti) (Lydia Puatini) و[Luc Bodin — Ho'oponopono](https://luc-bodin.fr/ho-oponopono/).
+- Wikipedia (EN): [Hoʻoponopono](https://en.wikipedia.org/wiki/Ho%CA%BBoponopono) — لا ذكر لأي "Jean-Luc Ramaro".

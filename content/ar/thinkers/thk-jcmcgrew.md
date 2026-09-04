@@ -17,12 +17,12 @@ edges:
 related:
 - id: "br-psychiatric-rehabilitation", title: "التأهيل النفسي-الاجتماعي", type: "تيار"
 gaps:
-  - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
+  - "سنة الميلاد بالتحديد (1953 في هذا الملف) لم تُؤكَّد من مصدر أولي مستقل؛ ما تأكّد بالبحث هو مسيرته الأكاديمية لا تاريخ ميلاده."
 ---
 
 # جون هـ. مَكغْرِي
 
-أستاذ في جامعة إنديانا وعالم نفس إعادة تأهيل. اشتُهر بأبحاثه حول "النتائج في إعادة التأهيل" وكيفية قياس فعالية البرامج.
+أستاذ (متقاعد الآن بلقب Emeritus) في قسم علم النفس بجامعة إنديانا-بوردو إنديانابوليس (IUPUI)، حصل على الدكتوراه في علم النفس الإكلينيكي من جامعة إنديانا-بلومنغتون عام 1991، وانضمّ إلى هيئة تدريس IUPUI عام 1990. عالم نفس إعادة تأهيل اشتُهر بأبحاثه حول "النتائج في إعادة التأهيل" وكيفية قياس فعالية البرامج، وشغل منصب مدير برنامج الدكتوراه في علم النفس الإكلينيكي هناك.
 
 ## ما أعطاه
 
@@ -38,3 +38,9 @@ gaps:
 
 - McGrew, J. H., & Bond, G. R., "Critical ingredients of assertive community treatment: Judgments of the experts" (1995).
 - McGrew, J. H., Bond, G. R., et al., "Measuring the fidelity of implementation of a mental health program model" (1994) — الورقة المرجعية في قياس الالتزام بالنماذج العلاجية.
+
+## المصادر
+
+- [John McGrew, Ph.D. — ACT Center of Indiana, IUPUI](https://act.psych.iupui.edu/people/faculty/mcgrew-john.html)
+- [John McGrew — ResearchGate profile, IUPUI](https://www.researchgate.net/profile/John-Mcgrew)
+- [McGrew & Bond, "Critical ingredients of assertive community treatment: Judgments of the experts" — Springer](https://link.springer.com/article/10.1007/BF02518752)

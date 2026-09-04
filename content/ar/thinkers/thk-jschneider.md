@@ -42,4 +42,10 @@ gaps:
 
 ## أهم أعماله
 
-كتاب "تشكيلات الأسرة: المبادئ والإجراءات الأساسية" (Family Constellations: Basic Principles and Procedures)، الذي شارك في تأليفه مع غونتهارد فيبر.
+كتاب "تشكيلات الأسرة: المبادئ والإجراءات الأساسية" (Family Constellations: Basic Principles and Procedures)، الذي شارك في تأليفه مع غونتهارد فيبر (نُشر بالإنجليزية عن Carl-Auer، وترجمه كولين بومونت).
+
+## المصادر
+
+- Schneider, J. R. & Weber, G. (2011). *Family Constellations: Basic Principles and Procedures*. Carl-Auer International. — [صفحة الناشر](https://www.carl-auer.com/product/family-constellations/)
+- سيرة المؤلف على صفحة الكتاب: [Karnac Books](https://www.karnacbooks.com/product/family-constellations-basic-principles-and-procedures/25509/) — تذكر دراسته الفلسفة واللاهوت والتربية البدنية والتربية، وممارسته الخاصة في الاستشارة والعلاج الجماعي، وتقديمه ورش تشكيلات الأسرة في ألمانيا وخارجها.
+- [Google Books — Family Constellations, Jakob Robert Schneider](https://books.google.com/books/about/Family_Constellations.html?id=LvRaMQAACAAJ)

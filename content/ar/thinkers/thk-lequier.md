@@ -42,3 +42,9 @@ gaps:
 ## أهم أعماله
 
 البحث عن حرية أولى (La Recherche d'une première vérité — نشرها رينوفييه بعد وفاته عام 1865) · ورقة القرنفل وأوراق الحرية.
+
+## المصادر
+- [Lequyer (Lequier), Jules – Internet Encyclopedia of Philosophy](https://iep.utm.edu/lequyer/)
+- [La recherche d'une première vérité : fragments posthumes / Jules Lequier ; recueillis par Charles Renouvier – Gallica, BnF](https://gallica.bnf.fr/ark:/12148/bpt6k75178t.texteImage)
+- [Notice bibliographique – La recherche d'une première vérité et autres textes – BnF Catalogue général](https://catalogue.bnf.fr/ark:/12148/cb35581041d)
+- [Lequier, (Joseph Louis) Jules (1814–1862) – Encyclopedia.com](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/lequier-joseph-louis-jules-1814-1862)

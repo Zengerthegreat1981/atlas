@@ -53,3 +53,10 @@ gaps:
 - *You Mean I Don't Have to Feel This Way?* (1991).
 - *The Frailty Myth* (2000).
 
+## المصادر
+
+- Wikipedia contributors, "Colette Dowling," *Wikipedia*: https://en.wikipedia.org/wiki/Colette_Dowling
+- Wikipedia contributors, "Cinderella complex," *Wikipedia*: https://en.wikipedia.org/wiki/Cinderella_complex
+- Goodreads, "Colette Dowling (Author of The Cinderella Complex)": https://www.goodreads.com/author/show/88690.Colette_Dowling
+- Amazon, *The Cinderella Complex: Women's Hidden Fear of Independence*: https://www.amazon.com/Cinderella-Complex-Womens-Hidden-Independence/dp/0671733346
+

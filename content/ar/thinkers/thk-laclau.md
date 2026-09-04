@@ -20,6 +20,7 @@ related:
 - id: "dbt-deliberative-vs-radical-democracy", title: "جدل التداولية مقابل الراديكالية في الديمقراطية", type: "جدل"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *On Populist Reason* (2005) بترجمة عربية معتمدة."
+  - "تحقّق: شخصية موثّقة تماماً (Ernesto Laclau، 1935–2014، أستاذ في جامعة Essex)؛ لا حاجة إلى حجر."
 ---
 
 # إرنستو لاكلاو
@@ -53,3 +54,10 @@ gaps:
 ## أهم أعماله
 
 الهيمنة والاستراتيجية الاشتراكية: نحو سياسة ديمقراطية راديكالية (Hegemony and Socialist Strategy، 1985، مع شانتال موف) · تأمّلات جديدة في ثورة عصرنا (New Reflections on the Revolution of Our Time، 1990) · تحرّرات (Emancipation(s)، 1996) — وفيه مقالة «الدالّ الفارغ» · **في العقل الشعبوي** (On Populist Reason، 2005) · الأساس البلاغي للمجتمع (The Rhetorical Foundations of Society، 2014).
+
+## المصادر
+
+- [Ernesto Laclau — Wikipedia](https://en.wikipedia.org/wiki/Ernesto_Laclau)
+- [Hegemony and Socialist Strategy — Wikipedia](https://en.wikipedia.org/wiki/Hegemony_and_Socialist_Strategy)
+- [The outraged people. Laclau, Mouffe and the Podemos hypothesis — Valdivielso, Constellations (2017)](https://onlinelibrary.wiley.com/doi/10.1111/1467-8675.12287)
+- [Podemos and its critics — Bécquer Seguín, Radical Philosophy](https://www.radicalphilosophy.com/article/podemos-and-its-critics)

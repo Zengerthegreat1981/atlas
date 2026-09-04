@@ -17,10 +17,10 @@ edges:
 related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-ejung", title: "إيما يونغ", type: "مفكر"
-- id: "con-parapsychology", title: "ما وراء علم النفس", type: "مفهوم"
+- id: "con-parapsychology", title: "ما وراء علم النفس والظواهر الخارقة", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *The Myth of Meaning* (1970) بترجمة عربية معتمدة."
-  - "نشرها لمحادثات Jung–Jaffé الكاملة ('Jung's Life and Work') تأخّر حتى 2025 عبر Princeton — تستحق مراجعة مباشرة."
+  - "صدر كتاب المحادثات الكاملة بين يونغ ويافّه، «Jung's Life and Work: Interviews for Memories, Dreams, Reflections with Aniela Jaffé» (تحرير Sonu Shamdasani، سلسلة Philemon Foundation)، عن Princeton University Press في 2 ديسمبر 2025 — يحتوي أكثر من ضعف ما استُخدم في «ذكريات، أحلام، تأملات»، ويستحق تلخيصاً مستقلاً لاحقاً."
 ---
 
 # أنييلا يافّه
@@ -41,3 +41,11 @@ gaps:
 ## أهم أعمالها
 
 من حياة وأعمال C.G. Jung (From the Life and Work of C. G. Jung, 1971) · أسطورة المعنى (The Myth of Meaning, 1970) · الرؤى والحدس (Apparitions and Precognition, 1971).
+
+## المصادر
+
+- [Memories, Dreams, Reflections — Wikipedia](https://en.wikipedia.org/wiki/Memories,_Dreams,_Reflections)
+- [Aniela Jaffé — Wikipedia](https://en.wikipedia.org/wiki/Aniela_Jaff%C3%A9)
+- [Jung's Life and Work: Interviews for Memories, Dreams, Reflections with Aniela Jaffé — Princeton University Press](https://press.princeton.edu/books/hardcover/9780691193229/jungs-life-and-work)
+- [Jaffé, Aniela — Princeton University Press author page](https://press.princeton.edu/our-authors/jaffe-aniela)
+- [The original protocols for Memories, Dreams, Reflections — Philemon Foundation](https://philemonfoundation.org/works/the-original-protocols-for-memories-dreams-reflections/)

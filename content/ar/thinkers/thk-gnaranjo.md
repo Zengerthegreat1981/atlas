@@ -49,3 +49,11 @@ gaps:
 - *Character and Neurosis: An Integrative View* (1994) — أهم أعماله في ربط أنماط التساعية بعلم النفس المرضي.
 - *Gestalt Therapy: The Attitude and Practice of an Atheoretical Experientialism* (1993).
 - *The Enneagram of Society: Healing the Soul to Heal the World* (1995).
+
+## المصادر
+
+- [Claudio Naranjo — Wikipedia](https://en.wikipedia.org/wiki/Claudio_Naranjo)
+- [Claudio Naranjo — Autobiography (claudionaranjo.net)](https://www.claudionaranjo.net/navbar_english/autobiography_english.html)
+- [Central to Claudio Naranjo's thought: a living bibliography](https://www.naranjo-sat.com/en/claudio-naranjo/bibliography/)
+- [The Enneagram Wars — Osho News](https://www.oshonews.com/2017/10/21/the-enneagram-wars/)
+- [Arica — World Religions and Spirituality Project](https://wrldrels.org/2021/01/07/arica/)

@@ -42,7 +42,7 @@ gaps:
 - **الممثل الأبرز للمشائية الإسلامية**، الذي وضع الميتافيزيقا في نظام كامل.
 - **خصمه اللدود**: **الغزالي** (1058-1111)، الذي نقضه في «تهافت الفلاسفة» (1095).
 - **الردّ عليه**: **ابن رشد** (1126-1198) ردّ على الغزالي في «تهافت التهافت».
-- **الأثر في أوروبا**: ترجمت «الشفاء» و«القانون» إلى اللاتينية (Gerard of Cremona، 1150) وأثّرت في توما الأكويني (Thomas Aquinas)، في مدرسة الطب في مونبلييه وبادوا حتى القرن 17.
+- **الأثر في أوروبا**: ترجم جيرار الكريموني (Gerard of Cremona، توفي 1187 في طليطلة) «القانون في الطب» إلى اللاتينية (Canon Medicinae) بين 1150 و1187، فصار مرجع التدريس الطبي في أوروبا حتى القرن 17 (مونبلييه، بادوا). أما «الشفاء» فتُرجمت أجزاء منه إلى اللاتينية على يد مترجمين آخرين، أساساً في طليطلة أواخر القرن 12 وفي بورغُش أواخر القرن 13 — لا عبر جيرار الكريموني نفسه. وقد أثّر تمييزه بين الماهية والوجود في توما الأكويني (Thomas Aquinas).
 
 ## أهم أعماله
 
@@ -54,3 +54,11 @@ gaps:
 - حيّ بن يقظان (رسالة رمزية في العقل والنفس — غير رواية ابن طفيل التي حملت الاسم نفسه بعده بقرن)
 - عيون الحكمة
 - رسالة الطير
+
+## المصادر
+
+- [Ibn Sīnā (Avicenna), Latin Translations of — SpringerLink](https://link.springer.com/rwe/10.1007/978-1-4020-9729-4_232)
+- [The role of Ibn Sina's medical poem in the transmission of medical knowledge to medieval Europe — PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3963335/)
+- [Gerard of Cremona — Encyclopædia Britannica](https://www.britannica.com/biography/Gerard-of-Cremona)
+- [Gerard of Cremona — Wikipedia](https://en.wikipedia.org/wiki/Gerard_of_Cremona)
+- [Avicenna (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/ibn-sina/)
