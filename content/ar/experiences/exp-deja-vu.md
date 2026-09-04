@@ -14,7 +14,7 @@ edges:
 related:
 - id: "exp-jamais-vu", title: "تجربة الجامافو (Jamais Vu): المألوف الذي يَتحول إلى غريب", type: "خبرة معيشة"
 - id: "con-memory", title: "الذاكرة", type: "مفهوم"
-- id: "con-time-consciousness", title: "وعي الزمن", type: "مفهوم"
+- id: "con-time-consciousness", title: "وعي الزمن (Zeitbewußtsein): الحاضر المتضمن للماضي والمستقبل", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: إميل بويراك (لا يوجد slug مطابق حالياً في EXISTING_SLUGS، رغم وجوده هو من صاغ المصطلح سنة 1876)."
   - "أبحاث كريس مولن (Chris Moulin, Leeds) حول 'الديجافو الفَصّي' عند مرضى الصرع تحتاج ملف stu- أو thk- مستقل في الأطلس."
