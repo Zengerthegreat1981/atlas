@@ -32,4 +32,11 @@ gaps:
 
 ## قانون الساعات العشر (1847) وأثره على علم النفس الصناعي
 
-فرض «قانون المصانع» البريطاني لعام 1847 (Ten Hours Act) تحديد يوم العمل بعشر ساعات للنساء والأحداث في مصانع النسيج، بعد حملة قادها اللورد شافتسبري؛ وهو ما أعاد لاحقاً علماء مثل هوغو مونستربرغ الاهتمام بأثر ساعات العمل والإرهاق على الأداء النفسي في العقود التالية.
+فرض «قانون المصانع» البريطاني لعام 1847 (Ten Hours Act / Factories Act 1847) تحديد ساعات عمل النساء والأحداث (13–18 سنة) في مصانع النسيج بعشر ساعات يومياً (63 ساعة أسبوعياً اعتباراً من يوليو 1847، ثم 58 ساعة من مايو 1848)، بعد حملة برلمانية قادها اللورد أشلي (إيرل شافتسبري السابع) بدعم من ريتشارد أوسلر ولجان «الوقت القصير» العمالية في يوركشير ولانكشاير. لم يمتد التحديد إلى الرجال البالغين إلا لاحقاً (نظام المناوبات أُلغي فعلياً عام 1853)، وهو تفصيل مهم لأن الحجة النفسية للقانون قامت أصلاً على «ضعف» النساء والأطفال بيولوجياً لا على مبدأ عام لحماية العامل. هذا الجدل حول الإرهاق وقياس الأداء تحت الضغط الزمني مهّد الأرضية لاحقاً لأبحاث علماء مثل هوغو مونستربرغ في علم النفس الصناعي (Psychotechnik) في العقود التالية.
+
+## المصادر
+
+- Friedrich Engels, *The Condition of the Working Class in England* (Leipzig: Otto Wigand, 1845) — [Project Gutenberg](https://www.gutenberg.org/ebooks/17306)
+- [The Condition of the Working Class in England — Wikipedia](https://en.wikipedia.org/wiki/The_Condition_of_the_Working_Class_in_England)
+- [Factories Act 1847 — Wikipedia](https://en.wikipedia.org/wiki/Factories_Act_1847)
+- [Later factory legislation — UK Parliament](https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/19thcentury/overview/laterfactoryleg/)
