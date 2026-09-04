@@ -5245,7 +5245,10 @@
     "/Users/mina/Desktop/Atlas/content/ar/thinkers/thk-guy-winch.md": "4.43",
     "/Users/mina/Desktop/Atlas/content/ar/thinkers/thk-darwin.md": "4.43",
     "/Users/mina/Desktop/Atlas/content/ar/thinkers/thk-furtmuller.md": "4.43",
-    "/Users/mina/Desktop/Atlas/content/ar/thinkers/thk-francis-bacon.md": "4.43"
+    "/Users/mina/Desktop/Atlas/content/ar/thinkers/thk-francis-bacon.md": "4.43",
+    "/Users/mina/Desktop/Atlas/content/ar/thinkers/thk-dabram.md": "4.44",
+    "/Users/mina/Desktop/Atlas/content/ar/thinkers/thk-dkirkland.md": "4.44",
+    "/Users/mina/Desktop/Atlas/content/ar/thinkers/thk-giordano-bruno.md": "4.44"
   },
   "next_sub": {
     "1": 10,
@@ -5259,7 +5262,7 @@
     "10": 11,
     "11": 5,
     "12": 11,
-    "4": 43,
+    "4": 44,
     "6": 21
   },
   "since_checkpoint": 0
