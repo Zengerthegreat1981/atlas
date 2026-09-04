@@ -13,8 +13,8 @@ edges:
 - rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-- id: "exp-jamais-vu", title: "الجامافو", type: "خبرة معيشة"
-- id: "con-dissociation", title: "الانفصال", type: "مفهوم"
+- id: "exp-jamais-vu", title: "تجربة الجامافو (Jamais Vu): المألوف الذي يَتحول إلى غريب", type: "خبرة معيشة"
+- id: "con-dissociation", title: "الانفصال (Dissociation)", type: "مفهوم"
 gaps:
   - "مصطلحا thk-jentsch (إرنست ينتش) وcon-unheimlich غير موجودين بعد كسجلّات مستقلة في الأطلس؛ تحليل ينتش لعام 1906 مذكور هنا بالاسم فقط دون رابط."
   - "لم أحدد بعد الفصل الدقيق بين تجربة اللامألوف عند فرويد وتجربة الجامافو (exp-jamais-vu) من حيث الآلية العصبية-المعرفية، فالمصدر الأساسي (مقالة 1919) يناقش الأولى فلسفياً لا عصبياً."
