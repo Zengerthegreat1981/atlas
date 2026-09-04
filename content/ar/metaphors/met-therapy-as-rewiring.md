@@ -10,7 +10,7 @@ part: "psychology"
 active_start: 1949
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "sch-cognitive-neuroscience", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-biological-neuro", target_type: "مدرسة"
 related:
 - id: "con-neuroplasticity", title: "اللدونة العصبية (Neuroplasticity)", type: "مفهوم"
 - id: "met-hebb-neurons-fire-together", title: "الخلايا التي تشتعل معاً تتصل معاً لدونالد هيب: استعارة المرونة العصبية", type: "استعارة/مجاز مؤسِّس"
@@ -18,6 +18,7 @@ related:
 - id: "thk-lcozolino", title: "لويس كوتزولينو", type: "مفكر"
 gaps:
   - "لم تُراجَع صياغة سيغل الحرفية في *The Developing Mind* (1999) و*Mindsight* (2010) من النص الأصلي مباشرة، الاعتماد حالياً على عناوين الفصول والملخصات الثانوية."
+  - "الهدف الأصلي للحافة كان sch-cognitive-neuroscience لكن هذا الملف غير منشور بعد (موجود فقط كمسودة في drafts/minimax/schools)؛ تم توجيه الحافة مؤقتاً إلى sch-biological-neuro الأقرب موضوعاً، وتحتاج مراجعة لاحقة إذا نُشر ملف علم الأعصاب المعرفي المستقل."
 ---
 # العِلاج كإعادة تَوْصيل: استعارة الشَّبَكات العَصَبيَّة
 

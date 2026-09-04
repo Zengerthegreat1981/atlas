@@ -10,13 +10,14 @@ crumb: "علم الأحياء التطوري ونقد الحتمية ← الا�
 active_start: 1979
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-developmental", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phil-science", target_type: "مدرسة"
 related:
 - id: "thk-stephen-jay-gould", title: "ستيفن جاي غولد", type: "مفكر"
 - id: "dbt-evolutionary-psychology-adaptation-vs-spandrel", title: "علم النفس التطوري بين التكيف الحتمي والمصادفات البيولوجية", type: "جدل"
 gaps:
   - "لا يوجد ملف مستقل موثّق في الأطلس لريتشارد ليوونتين (المؤلف المشارك في المقالة الأصلية) لربطه في related."
   - "لا يوجد رابط معتمد لمفهوم 'النزعة التكيفية' (Adaptationism/Panglossianism) كمصطلح مستقل ليُربط صراحة."
+  - "تم تصحيح edges: الملف كان مرتبطاً خطأً بـ sch-developmental (علم النفس النمائي/نمو الطفل، لا صلة موضوعية له)، واستُبدل بـ sch-phil-science (فلسفة العلم) الأنسب موضوعياً لأن الاستعارة نقد منهجي في فلسفة علم الأحياء التطوري لا في علم نفس النمو."
 ---
 # ركائز كنيسة سان ماركو لستيفن جاي غولد: استعارة النواتج التطورية العرضية
 

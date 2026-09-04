@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-- id: "con-unconscious", title: "اللاوعي", type: "مفهوم"
+- id: "con-unconscious", title: "اللاشعور / اللاوعي النفسي الكلاسيكي (The Unconscious)", type: "مفهوم"
 - id: "met-freud-iceberg", title: "الجبل الجليدي", type: "استعارة/مجاز مؤسِّس"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: هيرمان ملفيل — لا يوجد ملف thk-melville حالياً، فالإشارة إليه هنا نصية فقط دون ربط edges."
