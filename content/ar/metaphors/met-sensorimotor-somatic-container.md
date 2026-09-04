@@ -13,8 +13,8 @@ edges:
 - rel: "belongs_to", target: "sch-sensorimotor-psychotherapy", target_type: "مدرسة"
 related:
 - id: "exp-pat-ogden-body-movement-sensorimotor", title: "ملاحظات بات أوغدن الحركية في المصحات وميلاد السنسوريموتور", type: "خبرة معيشة"
-- id: "wrk-ogden-trauma-and-the-body", title: "الصدمة والجسد", type: "عمل / كتاب"
-- id: "con-window-of-tolerance", title: "نافذة التحمل", type: "مفهوم"
+- id: "wrk-ogden-trauma-and-the-body", title: "كتاب الصدمة والجسد: نهج سنسوريموتور لبات أوغدن (2006)", type: "عمل / كتاب"
+- id: "con-window-of-tolerance", title: "نافذة التحمل (Window of Tolerance)", type: "مفهوم"
 - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
 gaps:
   - "الصفحة الدقيقة التي وردت فيها استعارة الإناء الفخاري (Container) داخل كتاب أوغدن ومينتون وبين 2006 غير مثبتة هنا؛ الملف يستند لعنوان الكتاب وأطروحته العامة لا لاقتباس صفحة بعينها."

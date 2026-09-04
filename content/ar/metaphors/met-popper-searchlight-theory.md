@@ -12,8 +12,8 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-phil-science", target_type: "مدرسة"
 related:
-- id: "thk-karl-popper", title: "كارل بوبر", type: "مفكر"
-- id: "dia-kuhn-popper-scientific-paradigms", title: "مناظرة كون وبوبر", type: "حوار مع مدرسة مجاورة"
+- id: "thk-karl-popper", title: "سير كارل بوبر", type: "مفكر"
+- id: "dia-kuhn-popper-scientific-paradigms", title: "ندوة كولدج بيدفورد 1965: كون وبوبر حول البارادايم والتكذيب", type: "حوار مع مدرسة مجاورة"
 gaps:
   - "الموضع النصي الدقيق للفصل الذي طرح فيه بوبر «Two Faces of Common Sense» في Objective Knowledge (1972) يحتاج رقم صفحة مباشر."
   - "نسب بوبر أصل «نظرية الدلو» صراحة إلى جون لوك وفرنسيس بيكون كنموذج تجريبي كلاسيكي؛ الإحالة النصية الدقيقة لهذا النسب تحتاج توثيقاً."

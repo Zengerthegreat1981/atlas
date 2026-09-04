@@ -39,5 +39,5 @@ gaps:
 
 ## المصادر
 
-- Russell, Bertrand. "Is There a God?" (1952), in *The Collected Papers of Bertrand Russell*, Vol. 11, Routledge, 1997.
+- Russell, Bertrand. "Is There a God?" (1952), in *The Collected Papers of Bertrand Russell*, Vol. 11: *Last Philosophical Testament, 1943-68*, ed. John G. Slater with Peter Köllner, Routledge, 1997.
 - Dawkins, Richard. *The God Delusion*. Bantam Press, 2006.

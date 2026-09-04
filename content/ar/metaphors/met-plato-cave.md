@@ -37,4 +37,4 @@ gaps:
 
 ## المصادر
 
-- Plato, *Republic* (Politeia), Book VII, ~380 BCE.
+- Plato, *Republic* (Politeia), Book VII, 514a–520a, ~380 BCE, trans. G. M. A. Grube, rev. C. D. C. Reeve, Hackett Publishing, 1992.

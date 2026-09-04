@@ -14,7 +14,7 @@ edges:
 related:
 - id: "sch-existentialism-atheist", title: "الوجودية الملحدة (Atheist Existentialism)", type: "مدرسة"
 - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-- id: "wrk-sartre-being-and-nothingness", title: "الوجود والعدم", type: "عمل / كتاب"
+- id: "wrk-sartre-being-and-nothingness", title: "كتاب الوجود والعدم لجان بول سارتر (1943)", type: "عمل / كتاب"
 gaps:
   - "تاريخ إلقاء المحاضرة نفسها (29 أكتوبر 1946 في نادي مانتنان بباريس) غير مذكور هنا؛ فقط سنة النشر."
   - "لم تُراجع ترجمات الاستعارة إلى العربية (مثل ترجمة عبد المنعم الحفني أو سامي الدروبي) لضبط مصطلح «سكين الورق» مقابل الأصل الفرنسي coupe-papier."
