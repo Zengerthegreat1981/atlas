@@ -5,7 +5,7 @@ type: "مفكر"
 level: "متقدم"
 title: "هاينز هارتمان"
 en: "Heinz Hartmann"
-crumb: "الفرويدية الجديدة/التحليل البيني الثقافي ← تطوير ← هاينز هارتمان"
+crumb: "التحليل النفسي ← علم نفس الأنا ← هاينز هارتمان"
 dates: "النمسا/الولايات المتحدة · 1894–1970"
 country: "الولايات المتحدة"
 language: "الألمانية/الإنجليزية"
@@ -22,7 +22,7 @@ gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
   - "لا يوجد اقتباس مباشر موثوق من *Ego Psychology and the Problem of Adaptation* (1939) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: أوتو فينيشل (thk-ottofenichel)."
-  - "**تصنيف يحتاج تصحيحاً**: هذا الملف مُدرج تحت «الفرويدية الجديدة/التحليل البيني الثقافي»، وهارتمان ليس فرويدياً جديداً بل نقيضهم — «الفرويديون الجدد» هم هورناي وفروم وسوليفان الذين خرجوا على البناء الغريزي، أما هارتمان فبقي داخله ووسّعه من جهة الأنا. يُقترح نقل belongs_to إلى «علم نفس الأنا»."
+  - "تصنيف صُحِّح: كان crumb يضع هارتمان تحت «الفرويدية الجديدة/التحليل البيني الثقافي» رغم أن edges.belongs_to كان يشير أصلاً إلى br-ego-psychology (تناقض داخلي) — وهارتمان ليس فرويدياً جديداً بل نقيضهم: «الفرويديون الجدد» هم هورناي وفروم وسوليفان الذين خرجوا على البناء الغريزي، أما هارتمان فبقي داخله ووسّعه من جهة الأنا. صُحِّح crumb ليطابق edges (علم نفس الأنا)."
 ---
 
 # هاينز هارتمان
@@ -46,6 +46,13 @@ gaps:
 
 ## أهم أعماله
 
-- *Ego Psychology and the Problem of Adaptation* (1939).
+- *Ego Psychology and the Problem of Adaptation* (1939) — أُلقي أولاً كمحاضرة أمام جمعية فيينا للتحليل النفسي عام 1937، ونُشر بالألمانية 1939 (Ich-Psychologie und Anpassungsproblem)، وصدرت ترجمته الإنجليزية بقلم ديفيد رابابورت عام 1958.
 - *On Rational and Irrational Action* (1947).
 - *Essays on Ego Psychology* (1964).
+
+## المصادر
+
+- [Heinz Hartmann — Wikipedia](https://en.wikipedia.org/wiki/Heinz_Hartmann)
+- [Ego Psychology and the Problem of Adaptation — Internet Archive](https://archive.org/details/egopsychologypr00hart)
+- [Hartmann's "Ego Psychology and the Problem of Adaptation" — PubMed](https://pubmed.ncbi.nlm.nih.gov/2587683/)
+- [Ego Psychology and the Problem of Adaptation — Encyclopedia.com](https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/ego-psychology-and-problem-adaptation)

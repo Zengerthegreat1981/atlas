@@ -25,11 +25,11 @@ gaps:
 
 # نيك بوستروم
 
-فيلسوف سويدي-بريطاني، مدير معهد **Future of Humanity** في جامعة أكسفورد، ومن أهم منظّري **الإنسانية العابرة** (Transhumanism) و**الخطر الوجودي** (Existential Risk).
+فيلسوف سويدي-بريطاني، كان مؤسِّساً ومديراً لمعهد **Future of Humanity** في جامعة أكسفورد من 2005 حتى إغلاق المعهد رسمياً في أبريل 2024، ومن أهم منظّري **الإنسانية العابرة** (Transhumanism) و**الخطر الوجودي** (Existential Risk).
 
 ## ما أعطاه
 
-- أسّس **معهد Future of Humanity** (2005) في أكسفورد.
+- أسّس **معهد Future of Humanity** (2005) في أكسفورد، وأداره حتى إغلاقه في أبريل 2024 (أغلقته كلية الفلسفة بجامعة أكسفورد بعد "معوقات إدارية متزايدة"، وترك بوستروم أكسفورد بعدها).
 - في *Superintelligence* (2014) قَدَّم تَحليلاً لِسيناريوهات **الذكاء الخارق** (Superintelligent AI): طرق تطوره، مخاطره، استراتيجيات التحكم.
 - في *Anthropic Bias* (2002) قَدَّم **التحيّز الأنثروبي** (Anthropic Bias) كَمنهج تَفكير في الملاحظات.
 - صاغ **Transhumanist FAQ** (2003): تعريف رسمي للإنسانية العابرة.
@@ -46,3 +46,10 @@ gaps:
 - أثّر في **OpenAI** و**DeepMind** و**Anthropic** (شركات الذكاء الاصطناعي).
 - أثّر في **الأمم المتحدة** و**السياسات** الدولية (AI Safety Summit, 2023).
 - شكّل **مرجعاً** لحركة «النزعة بعيدة المدى» (Longtermism) عند توبي أورد ووليام ماكاسكِل.
+
+## المصادر
+
+- [Nick Bostrom — الموقع الرسمي](https://nickbostrom.com/)
+- [Nick Bostrom — Curriculum Vitae (PDF)](https://nickbostrom.com/cv.pdf)
+- [Future of Humanity Institute — Wikipedia](https://en.wikipedia.org/wiki/Future_of_Humanity_Institute)
+- [The End of the Future of Humanity Institute — Daily Nous (أبريل 2024)](https://dailynous.com/2024/04/18/end-future-of-humanity-institute/)

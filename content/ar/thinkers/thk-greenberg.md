@@ -45,3 +45,10 @@ gaps:
 ## أهم أعماله
 
 كتيب علم النفس الوجودي التجريبي (Handbook of Experimental Existential Psychology, 2004) · الدودة في المركز (The Worm at the Core, 2015).
+
+## المصادر
+
+- [Jeff Greenberg (professor) — Wikipedia](https://en.wikipedia.org/wiki/Jeff_Greenberg_(professor))
+- [Jeff Greenberg — Psychology, University of Arizona](https://psychology.arizona.edu/person/jeff-greenberg)
+- [Jeff Greenberg receives UArizona's highest award for research, designated a Regents Professor](https://psychology.arizona.edu/news/jeff-greenberg-receives-uarizonas-highest-award-research-designated-regents-professor)
+- [Many Labs 4: Failure to Replicate Mortality Salience Effect With and Without Original Author Involvement — Collabra: Psychology (2019)](https://online.ucpress.edu/collabra/article/8/1/35271/168050/Many-Labs-4-Failure-to-Replicate-Mortality)

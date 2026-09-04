@@ -40,3 +40,10 @@ gaps:
 
 - *Handbook of Autism and Pervasive Developmental Disorders* (co-ed.).
 - *A Practical Guide to Autism: What Every Parent, Family Member, and Teacher Needs to Know* (2009، مع لیزا ويزنر).
+
+## المصادر
+
+- [Fred Volkmar, MD | Yale School of Medicine](https://medicine.yale.edu/profile/fred-volkmar/)
+- [Fred R. Volkmar — Wikipedia](https://en.wikipedia.org/wiki/Fred_R._Volkmar)
+- [How pragmatism and passion drive Fred Volkmar—even after retirement | The Transmitter](https://www.thetransmitter.org/spectrum/how-pragmatism-and-passion-drive-fred-volkmar-even-after-retirement/)
+- [Debate remains over changes in DSM-5 a decade on | The Transmitter](https://www.thetransmitter.org/spectrum/debate-remains-over-changes-in-dsm-5-a-decade-on/)

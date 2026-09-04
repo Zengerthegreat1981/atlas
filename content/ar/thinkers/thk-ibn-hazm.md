@@ -44,3 +44,10 @@ gaps:
 ## اقتباسات مختارة
 
 «العشق اتّصال بين أجزاء النفوس المقسومة في هذه الخليقة.» (طوق الحمامة)
+
+## المصادر
+
+- Wikipedia contributors, "Ibn Hazm," *Wikipedia* — https://en.wikipedia.org/wiki/Ibn_Hazm
+- "Ibn Ḥazm," *Encyclopaedia Britannica* — https://www.britannica.com/biography/Ibn-Hazm
+- Adang, C., Fierro, M., & Schmidtke, S. (Eds.), *Ibn Ḥazm of Cordoba: The Life and Works of a Controversial Thinker*, Brill — https://academic.oup.com/jis/article-abstract/27/3/387/2458958
+- "Travelers of Al-Andalus, Part V: Ibn Hazm's Journeys of Exile and Love," *AramcoWorld* — https://www.aramcoworld.com/articles/2015/travelers-of-alandalus-part-v-ibn-hazms-journeys-of-exile-and-love

@@ -17,6 +17,7 @@ edges:
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
+  - "بعض المصادر (مثل ويكيبيديا) تؤرّخ غانغيشا إلى «النصف الأول من القرن الرابع عشر» فقط دون تواريخ ولادة/وفاة دقيقة (1325–1375)؛ التواريخ الحالية تقريبية ومتداولة في الأدبيات لكنها غير موثقة بمصدر أولي قاطع."
 ---
 
 # غانغيشا أوبادهيايا
@@ -39,3 +40,10 @@ gaps:
 
 - *Tattvacintāmaṇi* (جوهرة تحقيق الحقائق) — في أربعة أقسام بحسب مصادر المعرفة الأربعة.
 - *Laghu-Tattvacintāmaṇi* — مختصره.
+
+## المصادر
+
+- [Gaṅgeśa — Wikipedia](https://en.wikipedia.org/wiki/Gangesha_Upadhyaya)
+- [Gangesha | Indian philosopher | Britannica](https://www.britannica.com/biography/Gangesha)
+- [Tattvachintamani — Wikipedia](https://en.wikipedia.org/wiki/Tattvachintamani)
+- [Navya-Nyāya — Wikipedia](https://en.wikipedia.org/wiki/Navya-Ny%C4%81ya)

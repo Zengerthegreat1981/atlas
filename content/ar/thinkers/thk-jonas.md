@@ -57,3 +57,10 @@ gaps:
 ## أهم أعماله
 
 الغنوص والروح في أواخر العصر القديم (Gnosis und spätantiker Geist، 1934–1954) · الدين الغنوصي (The Gnostic Religion، 1958) · ظاهرة الحياة: نحو بيولوجيا فلسفية (The Phenomenon of Life، 1966) · **مبدأ المسؤولية: بحث في أخلاقٍ لعصر التقنية** (Das Prinzip Verantwortung، 1979) · التقنية والطبّ والأخلاق (Technik, Medizin und Ethik، 1985) · الفناء والأخلاق (Mortality and Morality، نُشر بعد وفاته عام 1996).
+
+## المصادر
+
+- [Hans Jonas — Encyclopedia.com](https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/jonas-hans)
+- [Hans Jonas — Wikipedia (English)](https://en.wikipedia.org/wiki/Hans_Jonas)
+- [Hans Jonas — peoplepill biography](https://peoplepill.com/i/hans-jonas/)
+- [Hans Jonas — Military History Wiki (Jewish Brigade service)](https://military-history.fandom.com/wiki/Hans_Jonas)

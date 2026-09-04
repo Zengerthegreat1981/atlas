@@ -22,7 +22,7 @@ related:
 - id: "thk-cpeterson", title: "كريستوفر بيترسون", type: "مفكر"
 - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
 - id: "con-flow", title: "التدفق (Flow)", type: "مفهوم"
-- id: "wrk-flow-csikszentmihalyi", title: "التدفق: علم نفس التجربة المثلى", type: "عمل / كتاب"
+- id: "wrk-flow-csikszentmihalyi", title: "التدفق: سيكولوجيا التجربة المثلى", type: "عمل / كتاب"
 - id: "thk-rryan", title: "ريتشارد راين", type: "مفكر"
 - id: "thk-gallport", title: "جوردون ألبورت", type: "مفكر"
 - id: "thk-edeci", title: "إدوارد ديسي", type: "مفكر"
@@ -107,3 +107,10 @@ gaps:
 «التدفق هو ما يشعر به الإنسان عندما يكون في أفضل حالاته — مستخدماً مهاراته إلى أقصى حد، في خدمة هدف يستحق العناء.»
 
 «الأسئلة الجيدة هي تلك التي تولد أسئلة أخرى.»
+
+## المصادر
+
+- مقالة ويكيبيديا (بالإنجليزية) عن ميهاي تشيكسنتميهاي: https://en.wikipedia.org/wiki/Mihaly_Csikszentmihalyi
+- خبر وفاته في جامعة كليرمونت للدراسات العليا (Claremont Graduate University)، أكتوبر 2021: https://www.cgu.edu/news/2021/10/passings-mihaly-csikszentmihalyi-the-father-of-flow-1934-2021/
+- خبر وفاته في University of Chicago News: https://news.uchicago.edu/story/mihaly-csikszentmihalyi-pioneering-psychologist-and-father-flow-1934-2021
+- Positive Psychology: "Mihály Csíkszentmihályi: The Father of Flow": https://positivepsychology.com/mihaly-csikszentmihalyi-father-of-flow/

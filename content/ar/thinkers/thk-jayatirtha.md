@@ -40,3 +40,9 @@ gaps:
 - *Nyāya-sudhā* (رحيق المنطق).
 - *Tattva-prakāśikā* — شرح على شرح مادهفا لسوترات البدارايانا.
 - *Pramāṇa-paddhati* (منهج مصادر المعرفة) — أوجز عرض لإبستمولوجيا الدفايتا.
+
+## المصادر
+
+- "Jayatirtha," *Wikipedia* — https://en.wikipedia.org/wiki/Jayatirtha
+- "Jayatirtha," *New World Encyclopedia* — https://www.newworldencyclopedia.org/entry/Jayatirtha
+- "Jayatirtha," *Hindupedia, the Hindu Encyclopedia* — https://www.hindupedia.com/en/Jayatirtha

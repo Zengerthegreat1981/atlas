@@ -18,6 +18,7 @@ related:
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
+  - "ربط edges بـ«belongs_to: sch-german-idealism» محل نظر تحريري: غوته لم يكن مثالياً ألمانياً بالمعنى المدرسي (كانط-فيخته-شلنغ-هيغل)، بل مؤسس الكلاسيكية الفيمارية ومتأثر بها/مؤثر فيها ومتقاطع مع سبينوزية طبيعية؛ لا يوجد حالياً ملف مدرسة مستقل لـ«sch-weimar-classicism» في المشروع لربطه به. يُنصح بمراجعة هذا الربط تحريرياً."
 ---
 # يوهان فولفغانغ فون غوته
 
@@ -30,3 +31,9 @@ gaps:
 ## علم الطبيعة العضوي ونظرية الألوان
 
 نقد المادية النيوتونية والدفاع عن الخبرة الحسية الحية والجمالية للظواهر الطبيعية.
+
+## المصادر
+
+- [Johann Wolfgang von Goethe | Internet Encyclopedia of Philosophy](https://iep.utm.edu/goethe/)
+- [Weimar Classicism — Wikipedia](https://en.wikipedia.org/wiki/Weimar_Classicism)
+- [The Bildung tradition — Routledge Encyclopedia of Philosophy](https://www.rep.routledge.com/articles/thematic/the-bildung-tradition/v-1/sections/immanent-teleology-in-goethe)

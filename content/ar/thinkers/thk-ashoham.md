@@ -23,6 +23,7 @@ gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من *The Marital Couple in the Midst of the Family* (1991) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جورجيو ناردوني (thk-gnardone)."
+  - "مرشح للحجر (quarantine candidate): لم يُعثر عبر بحث ويب مستقل على أي أثر لشخص باسم 'Arthur Shoham' بوصفه معالجاً نفسياً/عالم اجتماع في جامعة بن غوريون، ولا على الكتاب المذكور *The Marital Couple in the Midst of the Family* (1991). عمليات بحث متعددة أعادت فقط نتائج لأشخاص مختلفين يحملون لقب Shoham (Shlomo Giora Shoham، Uri Shoham، Varda Shoham/V. Shoham الباحثة في العلاج الزوجي، Amir Shoham). يُحتمل أن يكون الاسم والمحتوى بالكامل تلفيقاً أو خلطاً بين عدة أشخاص؛ يوصى بمراجعة يدوية أو نقل الملف للحجر ما لم يُعثر على مصدر أولي يثبت وجوده."
 ---
 
 # آرثر شوهام
@@ -44,3 +45,7 @@ gaps:
 - *The Marital Couple in the Midst of the Family* (1991).
 - *Models of Practice in Marriage Counseling* (تحرير).
 
+## المصادر
+
+- بحث ويب مستقل (سبتمبر 2026) لم يعثر على أي سيرة أو منشور موثّق باسم "Arthur Shoham" في هذا المجال؛ راجع حقل `gaps` أعلاه لتفاصيل عملية التحقق.
+- للمقارنة، الأشخاص الموثّقين الذين يحملون اسم العائلة "Shoham" في مجالات قريبة: [Shlomo Giora Shoham](https://en.wikipedia.org/wiki/Shlomo_Giora_Shoham) (عالم إجرام وفيلسوف قانون إسرائيلي)، وفارda شوهام (V. Shoham) الباحثة الأمريكية في العلاج الزوجي القصير الاستراتيجي (انظر: Baucom & Shoham على [Semantic Scholar](https://www.semanticscholar.org/paper/Empirically-supported-couple-and-family-for-marital-Baucom-Shoham/63cf3c4982033f2183fdbb2585289a0f5f1419b3)).

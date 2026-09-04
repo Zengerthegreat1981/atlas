@@ -41,3 +41,9 @@ gaps:
 ## أهم أعماله
 
 العمق في السلامة (Integrity in Depth, 1992) · الطاقات والأنماط في النوع النفسي (Energies and Patterns in Psychological Type, 2017).
+
+## المصادر
+- [John Beebe — Wikipedia](https://en.wikipedia.org/wiki/John_Beebe)
+- [Beebe, John — C. G. Jung Institute of Chicago](https://jungchicago.org/blog/speaker/beebe-john/)
+- [Integrity in Depth — Texas A&M University Press / OAKTrust](https://oaktrust.library.tamu.edu/items/bfffe5e7-45ab-4b26-9a66-3b4deb7c9f37)
+- [Evolving the Eight-Function Model — John Beebe (PDF)](https://types-psychologiques.com/wp-content/uploads/2016/06/john_beebe_-_evolving_the_8_function_model.pdf)

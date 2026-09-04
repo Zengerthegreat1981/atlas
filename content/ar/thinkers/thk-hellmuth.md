@@ -27,7 +27,7 @@ gaps:
 
 ## ما أعطته
 
-أشهر ما نُشر باسمها «يوميات فتاة صغيرة» (Tagebuch eines halbwüchsigen Mädchens, 1919)، قدّمته بوصفه يوميات أصيلة لفتاة في الحادية عشرة، وكتب له فرويد رسالة تقديم أثنى فيها عليه بوصفه «جوهرة صغيرة». لكن أصالته انهارت لاحقاً: أثارت الشكوكَ لغتُه ودقّتُه التحليلية المفرطة، وفي دعوى قضائية رُفعت بعد وفاتها عام 1927 رفعها من ادّعى حقوقاً فيه لم تستطع الناشرة إثبات وجود الفتاة، فسُحب الكتاب من التداول ويُرجَّح اليوم عند أغلب الدارسين أن هوغ-هيلموث كتبته هي.
+أشهر ما نُشر باسمها «يوميات فتاة صغيرة» (Tagebuch eines halbwüchsigen Mädchens، نُشر أول الأمر دون اسم مؤلف عام 1919)، قدّمته بوصفه يوميات أصيلة لفتاة في الحادية عشرة، وكتب له فرويد مقدّمة أثنى فيها عليه بوصفه «جوهرة صغيرة». لكن أصالته انهارت لاحقاً: شكّك الناقد الإنجليزي Cyril Burt في صحّته سنة 1921، وكُشف عام 1922 عن هوغ-هيلموث بوصفها «محرِّرة» الكتاب لا مجرّد ناشرة له دون أن تعترف بأنها كاتبته الفعلية، فسُحب من التداول في ألمانيا؛ وطلب فرويد نفسه سحبه من المكتبات بعد وفاتها، عام 1927. يُرجَّح اليوم عند أغلب الدارسين أن هوغ-هيلموث كتبته هي.
 
 أما إسهامها الرصين فهو «في تقنية تحليل الأطفال» (Zur Technik der Kinderanalyse, 1921)، وفيه أرست ثلاثة مبادئ ظلّت في الحقل: أن الطفل لا يأتي طالباً للعلاج فيلزم كسب تعاونه أولاً، وأن **اللعب والرسم** مدخلٌ إلى لاوعيه بدل التداعي الحرّ، وأن علاج الطفل لا ينفصل عن العمل مع أهله.
 
@@ -41,3 +41,10 @@ gaps:
 ## أهم أعمالها
 
 «يوميات فتاة صغيرة» (Tagebuch eines halbwüchsigen Mädchens, 1919، بتقديم فرويد — وأصالته موضع شكّ راجح) · «في تقنية تحليل الأطفال» (Zur Technik der Kinderanalyse, 1921) · «من الحياة النفسية للطفل» (Aus dem Seelenleben des Kindes, 1913).
+
+## المصادر
+
+- [Hermine Hug-Hellmuth — Wikipedia](https://en.wikipedia.org/wiki/Hermine_Hug-Hellmuth)
+- Plastow, M. (2011). "Hermine Hug-Hellmuth, the first child psychoanalyst: legacy and dilemmas". *Australasian Psychiatry*. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/21682616)
+- [Hug-Hellmuth, Hermine (1871–1924) — Encyclopedia.com](https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/hug-hellmuth-hermine-1871-1924)
+- [A Young Girl's Diary — Encyclopedia.com](https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/young-girls-diary)

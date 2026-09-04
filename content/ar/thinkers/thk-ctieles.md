@@ -18,8 +18,9 @@ related:
 - id: "thk-lopezpedraza", title: "رافائيل لوبيز-بيدراثا", type: "مفكر"
 - id: "thk-capriles", title: "أكسيل كابريليس", type: "مفكر"
 gaps:
+  - "**مرشح للحجر (quarantine)**: بحث ويب مكثف (بحوث مستقلة عن Cecilio Tieles، عن López-Pedraza وتلاميذه، وعن Áxel Capriles ومجلته) لم يعثر على أي أثر مستقل لشخص باسم Cecilio Tieles كمحلل يونغي أو باحث في علم النفس في فنزويلا. الشخص الوحيد الموثق بهذا الاسم هو عازف بيانو كوبي (Cecilio Tieles Ferrer، مواليد 1942 هافانا)، لا صلة له بعلم النفس أو التحليل اليونغي. كتاب «Mitos y Máscaras de la Cultura Venezolana» لم يُعثر له على أثر مستقل بهذا العنوان أو بنسبته لهذا المؤلف."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
-  - "السيرة الكاملة بحاجة لتحديد."
+  - "السيرة الكاملة بحاجة لتحديد — لم يتم التحقق من وجود الشخص أصلاً."
 ---
 
 # سيسليو تيليس
@@ -35,8 +36,14 @@ gaps:
 «الجيل الثاني» لكراكاس، مع A. Capriles (النسوي) وC. Tuzio (الإداري الأرجنتيني).
 
 ## القيد
-موقعه في الذاكرة الدولية ضعيف.
+موقعه في الذاكرة الدولية ضعيف جداً إلى درجة أن هويته لم تُتحقق: بحث مستقل عن اسم "Cecilio Tieles" لم يُظهر أي شخص بهذا الاسم مرتبط بالتحليل اليونغي أو بمدرسة كراكاس، بل عازف بيانو كوبي مختلف تماماً. هذا الملف **مرشح للحجر** إلى حين العثور على مصدر مستقل يثبت وجود هذا الشخص وصلته بالتحليلية الكراكاسية.
 
 ## أهم أعماله
 
-Mitos y Máscaras de la Cultura Venezolana (التسعينيات من القرن العشرين).
+Mitos y Máscaras de la Cultura Venezolana (التسعينيات من القرن العشرين) — عنوان لم يُتحقق منه بمصدر مستقل.
+
+## المصادر
+
+- Rafael López-Pedraza, ويكيبيديا بالإسبانية: https://es.wikipedia.org/wiki/Rafael_L%C3%B3pez-Pedraza
+- Áxel Capriles، "Movimientos posjunguianos: Conversaciones con Rafael López-Pedraza": https://www.axelcapriles.com/post/movimientos-posjunguianos-conversaciones-con-rafael-l%C3%B3pez-pedraza
+- Cecilio Tieles (عازف البيانو الكوبي، الشخص الوحيد الموثّق بهذا الاسم)، ويكيبيديا: https://en.wikipedia.org/wiki/Cecilio_Tieles

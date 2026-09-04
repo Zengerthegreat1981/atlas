@@ -36,5 +36,12 @@ gaps:
 
 ## أهم أعماله
 
-- *The Ever-Present Origin* (1949، بالألمانية).
-- *The Foundations of the Aperspectival World* (نُشر بعد وفاته عام 1978).
+- *Ursprung und Gegenwart* [الأصل والحاضر] (الجزء الأول 1949، الجزء الثاني 1953، بالألمانية؛ صدرا معاً بترجمة إنجليزية بعنوان *The Ever-Present Origin*، بعد وفاته عام 1985، عن Ohio University Press، ترجمة Noel Barstad وAlgis Mickunas).
+  - **تصحيح**: العنوان الفرعي «Foundations of the Aperspectival World» ليس كتاباً مستقلاً نُشر بعد وفاة غيبسر، بل هو عنوان **الجزء الأول** من الكتاب نفسه (والجزء الثاني بعنوان «Manifestations of the Aperspectival World»)، وقد صدرت الترجمة الإنجليزية الكاملة، بعد وفاته، سنة 1985 وليس 1978.
+
+## المصادر
+- [A Brief Biography – Jean Gebser Society](https://gebser.org/jean-gebser-bio/)
+- [Jean Gebser — Wikipedia](https://en.wikipedia.org/wiki/Jean_Gebser)
+- [The Ever-Present Origin: Part One — Foundations of the Aperspectival World (BiblioVault / Ohio University Press)](https://www.bibliovault.org/BV.book.epl?ISBN=9780821407691)
+- [The Ever-Present Origin — Ohio University Press](https://www.ohioswallow.com/9780821407691/the-ever-present-origin/)
+- [The Ever-Present Origin — Maria Popova, The Marginalian](https://www.themarginalian.org/2022/04/29/jean-gebser-the-ever-present-origin/)

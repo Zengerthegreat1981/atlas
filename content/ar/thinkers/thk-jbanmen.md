@@ -43,3 +43,9 @@ gaps:
 
 ## القيد
 - **"Satir Model"** في إصداراته اللاحقة تحول أحياناً إلى "نظام تدريب" أكثر منه علاجاً سريرياً دقيقاً.
+
+## المصادر
+- [DR. JOHN BANMEN - Satir Pacific](https://satirpacific.org/our-trainers/john-banmen/)
+- [The Satir Model: Yesterday and Today, John Banmen — Contemporary Family Therapy (Springer)](https://link.springer.com/article/10.1023/A:1014365304082)
+- [The Satir Model: Family Therapy and Beyond (WorldCat)](https://search.worldcat.org/title/The-Satir-model-:-family-therapy-and-beyond/oclc/895753853)
+- [John Banmen — AbeBooks (author page)](https://www.abebooks.com/book-search/author/john-banmen/)

@@ -26,7 +26,7 @@ gaps:
 
 # إريك بيرن
 
-طبيب نفسي كندي-أمريكي، وُلد إريك لينارد بيرنشتاين في مونتريال، ومؤسس **تحليل المعاملات** (Transactional Analysis - TA). بدأ حياته المهنية كمحلل نفسي تقليدي قبل أن يطوّر نظامه المستقل في الستينيات. كتابه *Games People Play* (1964) كان من أكثر الكتب مبيعاً عالمياً وحول TA إلى ظاهرة ثقافية خارج العيادات.
+طبيب نفسي كندي-أمريكي، وُلد باسم إريك لينارد بيرنشتاين (Eric Lennard Bernstein) في مونتريال عام 1910 لأبٍ طبيب عام (ديفيد هيلل بيرنشتاين) وأمّ كاتبة ومحرِّرة (سارة غوردون بيرنشتاين)، وقصّر اسمه إلى «إريك بيرن» بعد حصوله على الجنسية الأمريكية عام 1939. تخرّج طبيباً من جامعة ماكغيل عام 1935، وهو مؤسس **تحليل المعاملات** (Transactional Analysis - TA). بدأ حياته المهنية كمحلل نفسي تقليدي قبل أن يطوّر نظامه المستقل في الستينيات. كتابه *Games People Play* (1964) كان من أكثر الكتب مبيعاً عالمياً وحول TA إلى ظاهرة ثقافية خارج العيادات.
 
 ## ما أعطاه
 
@@ -47,3 +47,10 @@ gaps:
 - *The Structure and Dynamics of Organizations and Groups* (1963).
 - *Games People Play* (1964) — الكتاب الأشهر.
 - *What Do You Say After You Say Hello?* (نُشر بعد وفاته عام 1972) — عن المصائر.
+
+## المصادر
+
+- [Eric Berne — Wikipedia](https://en.wikipedia.org/wiki/Eric_Berne)
+- [Biography of Eric Berne — ericberne.com](https://ericberne.com/eric_berne_biography/)
+- [Eric Berne: Founder of Transactional Analysis (TA) — TAAS](https://staa.org.sg/about-ta/about-eric-berne/)
+- [Eric L. Berne Papers — Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/c8736t0x/entire_text/)

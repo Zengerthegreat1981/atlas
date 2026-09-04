@@ -47,3 +47,8 @@ gaps:
 - *Synthesis of Yoga* (1948).
 - *Savitri* (صدر بعد وفاته 1950–1951).
 
+## المصادر
+
+- [Sri Aurobindo — Wikipedia](https://en.wikipedia.org/wiki/Sri_Aurobindo)
+- [Sri Aurobindo — A Life Sketch, Sri Aurobindo Ashram](https://www.sriaurobindoashram.org/exhibitions/a-life-sketch/page03.html)
+- [Mirra Alfassa (The Mother) — Wikipedia](https://en.wikipedia.org/wiki/Mirra_Alfassa)

@@ -43,3 +43,10 @@ gaps:
 ## أهم أعماله
 
 الرجل الخفي (Invisible Man, 1952) · الظل والفعل (Shadow and Act, 1964) · جونيتينث (Juneteenth) الصادر بعد وفاته عام 1999.
+
+## المصادر
+
+- [Ralph Ellison — Wikipedia](https://en.wikipedia.org/wiki/Ralph_Ellison)
+- [Ralph Ellison — Britannica](https://www.britannica.com/biography/Ralph-Ellison)
+- [Invisible Man — National Book Foundation](https://www.nationalbook.org/books/invisible-man/)
+- [1952: Ralph Ellison's 'Invisible Man' wins National Book Award — Mississippi Today](https://mississippitoday.org/2025/04/14/on-this-day-in-1952-ralph-ellison-invisible-man-won-national-book-award/)

@@ -15,7 +15,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-developmental", target_type: "مدرسة"
 related:
-- id: "wrk-self-compassion-neff", title: "التعاطف مع الذات", type: "عمل / كتاب"
+- id: "wrk-self-compassion-neff", title: "التعاطف مع الذات: القوة المثبتة لمعاملة نفسك بلطف", type: "عمل / كتاب"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
 - id: "wrk-self-compassion", title: "الذات المتعاطفة: القوة المثبتة للطف مع نفسك", type: "عمل / كتاب"
 gaps:
@@ -52,3 +52,11 @@ gaps:
 - *The Mindful Self-Compassion Workbook* (2018، مع كريستوفر جيرمر).
 - *Fierce Self-Compassion* (2021).
 - *Development and Validation of a Scale to Measure Self-Compassion* (2003).
+
+## المصادر
+
+- [Kristin Neff — Wikipedia](https://en.wikipedia.org/wiki/Kristin_Neff)
+- [The Self-Compassion Scale — Kristin D. Neff, University of Texas at Austin (PDF)](https://self-compassion.org/wp-content/uploads/2019/09/Neff.inpress.pdf)
+- [Neff, K. D. (2003). Development and validation of a scale to measure self-compassion — Self and Identity](https://www.tandfonline.com/doi/abs/10.1080/15298860309027)
+- [Self-Compassion: Theory, Method, Research, and Intervention — Annual Review of Psychology](https://www.annualreviews.org/content/journals/10.1146/annurev-psych-032420-031047)
+- [Fierce Self-Compassion — Kristin Neff, publisher page (HarperWave)](https://www.harperwave.com/book/9780062991065/Fierce-Self-Compassion-Kristin-Neff/)

@@ -49,3 +49,9 @@ gaps:
 ## أهم أعماله
 
 العالم بوصفه وعياً ولا شيئاً (Svět jako vědomí a nic، 1904) — عمله الفلسفي المنهجي الوحيد · الرواية الكبرى (Velký román، 1907) · آلام الأمير شتيرننهوخ (Utrpení knížete Sternenhocha، 1928) — روايته الأشهر، وقد أُخرجت أوبرا وفيلماً · مذكّرات ورسائل نُشرت بعد وفاته.
+
+## المصادر
+
+- [Ladislav Klíma — Wikipedia (English)](https://en.wikipedia.org/wiki/Ladislav_Kl%C3%ADma)
+- [Ladislav Klíma — HandWiki](https://handwiki.org/wiki/Biography:Ladislav_Kl%C3%ADma)
+- [Ladislav Klíma — Wikidata](https://www.wikidata.org/wiki/Q1354569)

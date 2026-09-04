@@ -18,7 +18,7 @@ edges:
 related:
 - id: "thk-william-ockham", title: "وليم الأوكامي", type: "مفكر"
 - id: "sch-ockhamism", title: "الأوكامية / الاسمية", type: "مدرسة"
-- id: "con-nominalism-universals-concept", title: "الاسمية واشكالية الكليات", type: "مفهوم"
+- id: "con-nominalism-universals-concept", title: "الاسمية وإنكار الوجود الواقعي للكليات (Nominalism)", type: "مفهوم"
 - id: "con-universals-debate", title: "جدل الكليات", type: "مفهوم"
 gaps:
   - "تاريخ ميلاده (نحو 1300) غير مؤكّد. السيرة الأولى في أواخر القرن 14 تتحدّث عن «شاب يافع». "
@@ -36,7 +36,7 @@ gaps:
 
 ### المرحلة الأولى — التكوين والدراسات المبكرة (حتى 1323)
 
-وُلد في ريميني (شمال إيطاليا)، في عائلة من الطبقة الوسطى. انضمّ مبكّراً إلى **الرهبنة الأوغسطينية** (Order of Hermits of Saint Augustine) في ريميني، ثم انتقل إلى باريس لدراسة اللاهوت. نال **درجة الماجستير في اللاهوت** (Magister in Sacra Theologia) من **جامعة باريس** في 1340 تقريباً. التأمّل في كتاب **«الحرفيّ (De Grammatico)»** للأوكامي شكّل منهجه اللاحق.
+وُلد في ريميني (شمال إيطاليا)، في عائلة من الطبقة الوسطى. انضمّ مبكّراً إلى **الرهبنة الأوغسطينية** (Order of Hermits of Saint Augustine) في ريميني، ثم انتقل إلى باريس لدراسة اللاهوت. نال **درجة الماجستير في اللاهوت** (Magister in Sacra Theologia) من **جامعة باريس** عام 1345 تقريباً (وفق دائرة معارف ستانفورد الفلسفية). التأمّل في كتاب **«الحرفيّ (De Grammatico)»** للأوكامي شكّل منهجه اللاحق.
 
 ### المرحلة الثانية — المعلم في باريس (1340–1351)
 
@@ -90,3 +90,12 @@ gaps:
 ## اقتباس مختار
 
 «لا نُنكر الكليات لنُثبتها ولا نُثبتها لنُنكرها. الكليات «لها سبب في الذهن» قبل كلّ شيء، لكنّها لا توجد في الأشياء كما يُظنّ.»
+
+*(ملاحظة: هذا الاقتباس تلخيصي وغير منسوب إلى صفحة أو طبعة محدَّدة من أعمال غريغوري؛ يُنظر إليه كصياغة توضيحية لموقفه لا كنصّ حرفي موثَّق.)*
+
+## المصادر
+
+- [Gregory of Rimini — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/gregory-rimini/)
+- [Gregory of Rimini — Britannica](https://www.britannica.com/biography/Gregory-of-Rimini)
+- [Gregory of Rimini — Catholic Encyclopedia (New Advent)](https://www.newadvent.org/cathen/07018a.htm)
+- [Gregory of Rimini — Wikipedia](https://en.wikipedia.org/wiki/Gregory_of_Rimini)

@@ -42,3 +42,11 @@ gaps:
 
 - *Analysing Categorisation in Conversation* (تحرير).
 - *Mental Illness in Talk* (تحرير، 2000).
+
+## المصادر
+
+- الصفحة الرسمية لتشارلز أنطاكي في جامعة لافبرة: https://www.lboro.ac.uk/subjects/communication-media/staff/honorary/charles-antaki/
+- ملفه على Google Scholar: https://scholar.google.com/citations?user=JGU8gVgAAAAJ&hl=en
+- مقابلة بودكاست ISCA (International Society for Conversation Analysis): https://www.conversationanalysis.org/podcast/charles-antaki-2/
+- مقالة "Discursive Psychology" في ويكيبيديا (نشأة المجموعة في لافبرة ودور أنطاكي): https://en.wikipedia.org/wiki/Discursive_psychology
+- صفحته على emcawiki: https://emcawiki.net/Charles_Antaki
