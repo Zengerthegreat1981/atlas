@@ -45,3 +45,10 @@ gaps:
 - *De la causa, principio et uno* (1584).
 - *De gli eroici furori* (البطولة العاشقة، 1585).
 - *De umbris idearum* (في ظلال الأفكار، 1582) — في فنّ الذاكرة.
+
+## المصادر
+
+- "The Trials of Giordano Bruno (1592-1600)" — [Famous Trials](https://www.famous-trials.com/bruno/261-home)
+- "Giordano Bruno Executed" — [History Today](https://www.historytoday.com/archive/giordano-bruno-executed)
+- "Giordano Bruno, philosopher and scientist, burnt at the stake 400 years ago" — [World Socialist Web Site](https://www.wsws.org/en/articles/2000/02/brun-f16.html)
+- مقال مرجعي عن قائمة اتهامات محاكم التفتيش (نفي الثالوث، وحدة الوجود، تعدد العوالم، ضمن ثمانية اتهامات لم يُكشف نصها كاملاً) — [NC Register](https://www.ncregister.com/blog/the-truth-about-giordano-bruno)
