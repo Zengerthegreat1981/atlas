@@ -50,6 +50,6 @@ gaps:
 ## القيد
 المفهوم «نظري-هيكلي» أكثر من «سريري»، يحتاج تفصيلاً في تطبيقه على حالات إكلينيكية.
 
-## أهم المراجع
+## المصادر
 
 «العلاقات العلائقية في التحليل النفسي» (Relational Concepts in Psychoanalysis, Mitchell, 1988) · «الأمل والرعب في التحليل النفسي» (Hope and Dread in Psychoanalysis, Mitchell, 1993) · «التأثير والحرية» (Influence and Autonomy, Mitchell, 1997).

@@ -50,7 +50,7 @@ gaps:
 ## القيد
 المفهوم «نظري» أكثر من «سريري»، يحتاج دراسات إكلينيكية معمّقة.
 
-## أهم المراجع
+## المصادر
 
 «الأنا-جلد» (Le Moi-Peau, Anzieu, 1985) · «الأنا-جلد: البحث والعمل» (Le Moi-Peau: Recherche et clinique, Anzieu, 1995) · «الأنا-جلد وعلم النفس» (Moi-Peau, topique et théorie de la connaissance, مقالات).
 

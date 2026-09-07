@@ -72,7 +72,7 @@ gaps:
 
 مفهوم الإيماجو أحدث تحوّلاً في فهم الانجذاب الرومانسي والصراع الزوجي. أتاح للأزواج لغة مشتركة لتفسير تجاربهم اليومية. الكتاب التأسيسي "Getting the Love You Want" (1988) نقل المفهوم من العيادة إلى الثقافة الشعبية.
 
-## المرجعيات
+## المصادر
 
 - Hendrix, H. (1988). *Getting the Love You Want: A Guide for Couples*. Harper & Row.
 - Hendrix, H., & Hunt, H. L. (1992). *Giving the Love That Heals*. Pocket Books.

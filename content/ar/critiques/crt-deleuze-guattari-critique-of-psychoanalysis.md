@@ -43,6 +43,6 @@ gaps:
 
 لا يوجد اقتباس مباشر موثوق بالعربية متاح.
 
-## المرجعيات
+## المصادر
 
 - Deleuze, G. & Guattari, F. (1972). *L'Anti-Œdipe: Capitalisme et schizophrénie*. Éditions de Minuit.

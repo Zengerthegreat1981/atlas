@@ -42,7 +42,7 @@ gaps:
 
 لا يوجد اقتباس مباشر موثوق بالعربية متاح.
 
-## المرجعيات
+## المصادر
 
 - Derrida, J. (1967). *De la grammatologie*. Éditions de Minuit.
 - Derrida, J. (1967). *L'écriture et la différence*. Éditions du Seuil.

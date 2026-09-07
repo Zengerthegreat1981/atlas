@@ -61,7 +61,7 @@ gaps:
 
 يمنع الأطلس من تقديم الطب النفسي كـ"علم محايد"، ويعترف بأن الممارسة التشخيصية تشكّلت تاريخياً ضمن علاقات قوة جندرية وعرقية واجتماعية.
 
-## المرجعيات
+## المصادر
 
 - Chesler, P. (1972). *Women and Madness*. Doubleday.
 - Gilligan, C. (1982). *In a Different Voice*. Harvard University Press.
