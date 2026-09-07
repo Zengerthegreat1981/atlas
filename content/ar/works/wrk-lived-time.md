@@ -2,7 +2,7 @@
 slug: "wrk-lived-time"
 id: "WRK-0205"
 type: "عمل / كتاب"
-level: ""
+level: "متقدم"
 title: "الزمن المُعاش"
 en: "Le Temps vécu"
 language: "الفرنسية"

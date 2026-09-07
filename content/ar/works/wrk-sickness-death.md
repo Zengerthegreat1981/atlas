@@ -2,7 +2,7 @@
 slug: "wrk-sickness-death"
 id: "WRK-0203"
 type: "عمل / كتاب"
-level: ""
+level: "متقدم"
 title: "المرض حتى الموت"
 en: "Sygdommen til Døden · The Sickness unto Death"
 language: "الدنماركية"

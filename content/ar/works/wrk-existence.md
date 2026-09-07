@@ -2,7 +2,7 @@
 slug: "wrk-existence"
 id: "WRK-0210"
 type: "عمل / كتاب"
-level: ""
+level: "متقدم"
 title: "الوجود"
 en: "Existence: A New Dimension in Psychiatry and Psychology"
 language: "الإنجليزية"

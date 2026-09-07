@@ -2,7 +2,7 @@
 slug: "wrk-existential-therapies"
 id: "WRK-0214"
 type: "عمل / كتاب"
-level: ""
+level: "متقدم"
 title: "العلاجات الوجودية"
 en: "Existential Therapies"
 language: "الإنجليزية"

@@ -2,7 +2,7 @@
 slug: "wrk-divided-self"
 id: "WRK-0211"
 type: "عمل / كتاب"
-level: ""
+level: "متقدم"
 title: "الذات المنقسمة"
 en: "The Divided Self"
 language: "الإنجليزية"
