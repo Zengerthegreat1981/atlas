@@ -15,7 +15,7 @@ crumb: "الأطلس ← thinkers ← بيتر سميث"
 edges:
 - rel: "belongs_to", target: "sch-school-bullying-research", target_type: "مدرسة"
 related:
-- id: "thk-dolweus", title: "دان أولفيوس", type: "مفكر"
+- id: "thk-dolweus", title: "دان أولِس", type: "مفكر"
 gaps:
   - "حُذفت روابط related كانت تشاور على ملفات غير موجودة (thk-keinarsen، thk-ssharp، thk-fvolkwein)."
   - "السيرة الذاتية الكاملة (الجامعة، أطروحته) لم تُنشر على الإنترنت."

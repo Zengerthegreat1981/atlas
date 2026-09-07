@@ -23,7 +23,7 @@ related:
 - id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-adjustment-disorders", title: "اضطرابات التكيّف", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-supportive-expressive", title: "العلاج الداعم-التعبيري", type: "تقنية/تدخل علاجي"
-- id: "dbt-specific-ingredients-wampold-vs-chambless-dodo-bird", title: "جِدَل الْمَوَادِّ الْخَاصَّة (Chambless) ضِدّ الْعَوَامِل الْمُشْتَرَكَة (Wampold): مَا الَّذِي يُشْفِي فِعْلًا فِي الْعِلَاج النَّفْسِيّ؟", type: "جدل"
+- id: "dbt-specific-ingredients-wampold-vs-chambless-dodo-bird", title: "لجنة تشامبلس للعلاجات المدعومة تجريبياً (1995) في مواجهة نقد وامبولد المنهجي (2001)", type: "جدل"
 gaps:
   - "التمييز الدقيق بين التدخلات الداعمة (Supportive) والتدخلات الكاشفة/التعبيرية (Expressive) في التحليل النفسي."
   - "المعايير الإكلينيكية لاختيار العلاج الداعم في الأزمات الحادة وحالات ضعف وظائف الأنا."

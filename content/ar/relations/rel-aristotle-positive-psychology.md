@@ -15,7 +15,7 @@ edges:
 related:
 - id: "sch-aristotelianism", title: "المشائية الأرسطية", type: "مدرسة"
 - id: "thk-aristotle", title: "أرسطو", type: "مفكر"
-- id: "thk-mseligman", title: "مارتن سيليغمان", type: "مفكر"
+- id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."

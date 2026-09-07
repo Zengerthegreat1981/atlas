@@ -14,7 +14,7 @@ edges:
 related:
 - id: "que-climate-grief-solastalgia", title: "الحزن المناخي", type: "سؤال توليدي"
 - id: "thk-jonas", title: "هانز يوناس", type: "مفكر"
-- id: "thk-lroszak", title: "ثيرون روزاك", type: "مفكر"
+- id: "thk-lroszak", title: "ثيودور روزاك", type: "مفكر"
 - id: "con-ecopsychoanalysis", title: "التحليل النفسي البيئي", type: "مفهوم"
 - id: "con-ecology-of-freedom", title: "إيكولوجيا الحرية", type: "مفهوم"
 gaps:

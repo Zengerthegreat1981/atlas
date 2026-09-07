@@ -10,7 +10,7 @@ crumb: "الطب النفسي والاجتماعي ← الجدليات الكب
 active_start: 2013
 active_end: "مستمر"
 related:
-- id: "dbt-categorical-vs-dimensional", title: "جدل التصنيف الفئوي (DSM) مقابل التشخيص الأبعادي (HiTOP / RDoC)", type: "جدل"
+- id: "dbt-categorical-vs-dimensional", title: "جدل التصنيف الفئوي مقابل الأبعادي (نسخة موجزة ومُحالة)", type: "جدل"
 - id: "wrk-myth-of-normal", title: "أسطورة الطبيعي: الصدمة والمرض والشفاء في ثقافة مسمومة", type: "عمل / كتاب"
 gaps:
   - "الرد المباشر لألين فرانسيس على مقالة هاسلام 2016، ونقاش لاحق بينهما إن وُجد."

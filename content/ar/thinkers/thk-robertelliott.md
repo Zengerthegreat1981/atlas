@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-eugenetaylor", title: "يوجين تيلور", type: "مفكر"
 - id: "thk-mmilner", title: "ماريون مِلنر", type: "مفكر"
-- id: "thk-alvinmahrer", title: "ألفين ماهرر", type: "مفكر"
+- id: "thk-alvinmahrer", title: "ألفين مارر", type: "مفكر"
 - id: "thk-margaretbodkin", title: "مارغريت بودكن", type: "مفكر"
 - id: "thk-markwelch", title: "مارك ويلش", type: "مفكر"
 gaps:

@@ -20,7 +20,7 @@ related:
 - id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
 - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
 - id: "con-political-psychoanalysis", title: "التحليل النفسي السياسي", type: "مفهوم"
-- id: "crt-postcolonial-critique-psychoanalysis", title: "النقد ما بعد الاستعماري للتحليل النفسي: السفر كاستعارة، المحلي كغريب", type: "نقد خارجي موثَّق"
+- id: "crt-postcolonial-critique-psychoanalysis", title: "النقد ما بعد الاستعماري للتحليل النفسي: الأنا الأوروبية كمعيار كوني للنفس", type: "نقد خارجي موثَّق"
 gaps:
   - "أعمال هشام شرابي في 'الجسد الناقص' (1985) لم تُراجع بشكل منفصل."
 ---

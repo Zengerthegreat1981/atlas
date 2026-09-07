@@ -13,7 +13,7 @@ related:
 - id: "thk-wampold", title: "بروس وامبولد", type: "مفكر"
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "dbt-evidence-based-practice-clinical-decision-making", title: "جِدَل الْمَمَارَسَة الْقَائِمَة عَلَى الْأَدِلَّة فِي اتِّخَاذ الْقَرَار السَّرِيرِيّ", type: "جدل"
-- id: "dbt-specific-ingredients-wampold-vs-chambless-dodo-bird", title: "جِدَل الْمَوَادِّ الْخَاصَّة (Chambless) ضِدّ الْعَوَامِل الْمُشْتَرَكَة (Wampold): مَا الَّذِي يُشْفِي فِعْلًا فِي الْعِلَاج النَّفْسِيّ؟", type: "جدل"
+- id: "dbt-specific-ingredients-wampold-vs-chambless-dodo-bird", title: "لجنة تشامبلس للعلاجات المدعومة تجريبياً (1995) في مواجهة نقد وامبولد المنهجي (2001)", type: "جدل"
 gaps:
   - "تداخل زاوية مع dbt-evidence-based-practice-clinical-decision-making: الملفان يغطيان EBP، لكن هذا الملف زاويته اتجاه الاشتقاق المعرفي بين EBP وPBE (من يفترض من)، بينما الآخر زاويته فائدة EBP في القرار السريري الفردي تحديداً. يحتاج مراجعة بشرية للتأكد من كفاية الفرق."
   - "إطار PICO (Population, Intervention, Comparison, Outcome) غير مفهرس في العربية بملف مستقل."

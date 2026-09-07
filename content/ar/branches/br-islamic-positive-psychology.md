@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-positive-psychology", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-aabdelkhalek", target_type: "مفكر"
 related:
-- id: "thk-aabdelkhalek", title: "أمجد عبد الخالق", type: "مفكر"
+- id: "thk-aabdelkhalek", title: "أحمد محمد عبد الخالق", type: "مفكر"
 - id: "thk-ymohamed", title: "ياسين محمد", type: "مفكر"
 - id: "ctx-arabic-self", title: "النفس في التراث العربي الإسلامي", type: "سياق/تقليد"
 - id: "ctx-avicenna-self", title: "ابن سينا وكتاب النفس", type: "سياق/تقليد"

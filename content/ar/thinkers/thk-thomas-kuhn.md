@@ -15,7 +15,7 @@ active_end: 1996
 edges:
 - rel: "belongs_to", target: "sch-phil-science", target_type: "مدرسة"
 related:
-- id: "dia-kuhn-popper-scientific-paradigms", title: "مناظرة كون وبوبر 1965: البارادايم وثورات العلم مقابل التكذيب", type: "حوار مع مدرسة مجاورة"
+- id: "dia-kuhn-popper-scientific-paradigms", title: "ندوة كولدج بيدفورد 1965: كون وبوبر حول البارادايم والتكذيب", type: "حوار مع مدرسة مجاورة"
 - id: "met-kuhn-gestalt-switch-science", title: "انقلاب الجشطالت في العلم لتوماس كون: استعارة التحول الثوري في البارادايم", type: "استعارة/مجاز مؤسِّس"
 - id: "que-is-scientific-progress-cumulative", title: "هل المعرفة العلمية تراكم خطي للحقائق أم قفزات ثورية في البارادايم؟", type: "سؤال توليدي"
 - id: "thk-karl-popper", title: "كارل بوبر", type: "مفكر"

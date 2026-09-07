@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
 - id: "crt-feminist-critique-behaviorism", title: "النقد النسوي للسلوكية: نزع الجنسانية عن الإشراط الجنسي", type: "نقد خارجي موثَّق"
-- id: "crt-foucault-critique-of-asylum", title: "نقد فوكو للمصحة النفسية والطبنة السيكياترية", type: "نقد خارجي موثَّق"
+- id: "crt-foucault-critique-of-asylum", title: "نقد فوكو للمصحة النفسية والطب النفسي المؤسسي", type: "نقد خارجي موثَّق"
 - id: "crt-critique-of-solution-focused", title: "نقد الْعِلَاج الْمُرْكَز عَلَى الْحَلّ: هَل «تَجَاهُل الْمَشْكَلَة» هُوَ نَفْسُه مَشْكَلَة؟", type: "نقد خارجي موثَّق"
 - id: "crt-baudrillard-critique-of-hyperreality", title: "نقد بودريار للمحاكاة الفائقة واختفاء الواقع", type: "نقد خارجي موثَّق"
 gaps:

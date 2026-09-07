@@ -46,8 +46,8 @@ related:
 - id: "br-digital-therapeutics", title: "العلاجات الرقمية", type: "تيار"
 - id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
 - id: "br-serious-games-therapy", title: "العلاج بالألعاب الإلكترونية / الألعاب الجادة", type: "تيار"
-- id: "dbt-couples-therapy-vs-individual-depression", title: "جِدَل عِلَاج اِكْتِئَاب زَوْج ضِد فَرْدِيّ", type: "جدل"
-- id: "dbt-medication-discontinuation-depression", title: "جِدَل إيقاف مُضادّات الِاِكْتِئَاب: هَل «**تَسْتَوْفِر**» (Cure) أَم «**تُسْقِط**» (Relapse)؟", type: "جدل"
+- id: "dbt-couples-therapy-vs-individual-depression", title: "جدل العلاج الزوجي مقابل العلاج الفردي للاكتئاب", type: "جدل"
+- id: "dbt-medication-discontinuation-depression", title: "جدل إيقاف مضادات الاكتئاب: هل يعني شفاءً أم يؤدي لانتكاس؟", type: "جدل"
 - id: "dbt-psychotherapy-vs-medication", title: "جِدَل الْعِلَاج النَّفْسِيّ ضِد الدَّوَاء: أَيُّهُمَا أَفْضَل لِـ**الِاِكْتِئَاب**؟", type: "جدل"
 gaps:
   - "لم تُحدد بعد المعايير التشخيصية الدقيقة من مصدر تشخيصي أولي محقق"

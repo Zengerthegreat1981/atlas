@@ -16,8 +16,8 @@ edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-ejung", title: "إيما يونغ", type: "مفكر"
-- id: "thk-vonfranz", title: "ماري-لويز فون فرانتس", type: "مفكر"
-- id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "thk-vonfranz", title: "ماري-لويز فون فرانز", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 gaps:
   - "التحليل الرمزي للأرض اليباب وجرح الملك الصياد والتفريد الروحي في دراسة إيما يونغ وفون فرانتس."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

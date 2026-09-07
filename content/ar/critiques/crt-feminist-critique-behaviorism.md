@@ -13,7 +13,7 @@ edges:
 - rel: "relates_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
 - id: "thk-lbrown", title: "لورا س. براون", type: "مفكر"
-- id: "thk-jherman", title: "جوديث هرمن", type: "مفكر"
+- id: "thk-jherman", title: "جوديث هِرمان", type: "مفكر"
 - id: "thk-bhooks", title: "بيل هوكس", type: "مفكر"
 - id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي", type: "تيار"
 - id: "br-feminist-therapy", title: "العلاج النفسي النسوي", type: "تيار"

@@ -16,7 +16,7 @@ related:
 - id: "sch-radical-democracy", title: "الديمقراطية الراديكالية", type: "مدرسة"
 - id: "con-agonism", title: "العداوة الديمقراطية (الأغونية)", type: "مفهوم"
 - id: "thk-laclau", title: "إرنستو لاكلاو", type: "مفكر"
-- id: "dbt-deliberative-vs-agonistic-democracy", title: "الديمقراطية التداولية لهابرماس مقابل الديمقراطية التنازعية لموف", type: "جدل"
+- id: "dbt-deliberative-vs-agonistic-democracy", title: "الديمقراطية التداولية لهابرماس مقابل التصور التنازعي (الأگونستي) لموف", type: "جدل"
 gaps:
   - "التمييز الدقيق بين نسخة موف للتعددية التنازعية ونسخة لاكلاو للشعبوية اليسارية يحتاج تفصيلاً مستقلاً."
 ---

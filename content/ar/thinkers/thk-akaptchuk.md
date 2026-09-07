@@ -21,7 +21,7 @@ related:
 - id: "sch-newconfucianism-modern", title: "الكونفوشية الجديدة الحديثة (Modern New Confucianism)", type: "مدرسة"
 - id: "sch-engaged-buddhism", title: "البوذية المنخرطة اجتماعياً", type: "مدرسة"
 - id: "thk-ttu", title: "توي وي-مينغ (دو وي-مينغ)", type: "مفكر"
-- id: "thk-knakamura", title: "كويتشي ناكامورا", type: "مفكر"
+- id: "thk-knakamura", title: "كي ناكامورا", type: "مفكر"
 gaps:
   - "الـslug thk-akaptchuk يبدو وكأنه يشير إلى «A. Kaptchuk» لكن الشخصية المقصودة في الموجز هي تيد (Theodore J.) كابتْشُك. إعادة تسمية الـslug إلى thk-tkaptchuk موصى بها في مسار المراجعة."
   - "كابتْشُك ممارس للطب الصيني وأستاذ في الطب، لا فيلسوف أو عالم نفس بالمعنى المهني؛ إدراجه هنا بسبب تأثيره في الفلسفة الكونفوشية لطبيعة الجسد وعلاقته بالذهن."

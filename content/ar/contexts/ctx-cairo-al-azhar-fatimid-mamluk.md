@@ -13,7 +13,7 @@ active_end: 1517
 edges:
 - rel: "belongs_to", target: "sch-islamic-psychology", target_type: "مدرسة"
 related:
-- id: "thk-ibn-khaldun", title: "ابن خلدون", type: "مفكر"
+- id: "thk-ibn-khaldun", title: "عبد الرحمن بن محمد بن خلدون الحضرمي", type: "مفكر"
 gaps:
   - "الوصف الدقيق لبرنامج العلاج بالموسيقى في بيمارستان قلاوون (تأسس 1284) يحتاج مصدراً أولياً متخصصاً في تاريخ الطب الإسلامي، لا مجرد إشارات عامة متكررة."
 ---

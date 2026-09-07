@@ -20,7 +20,7 @@ related:
 - id: "con-han-korean", title: "هان (Han، 한)", type: "مفهوم"
 - id: "dis-somatic-symptom-disorder", title: "اضطراب الأعراض الجسدية", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
-- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري للطب النفسي: DSM كأداة 'للنفسي الإمبراطوري'", type: "نقد خارجي موثَّق"
+- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري لـ DSM: التصنيف كخريطة جيوسياسية للمعاناة المقبولة", type: "نقد خارجي موثَّق"
 - id: "ins-staxi-2", title: "مقياس سبيلبرغر لتقييم حالة وسمة التعبير عن الغضب (STAXI-2)", type: "أداة قياس"
 - id: "con-repression", title: "الكبت والآليات الدفاعية الأولية (Repression)", type: "مفهوم"
 gaps:

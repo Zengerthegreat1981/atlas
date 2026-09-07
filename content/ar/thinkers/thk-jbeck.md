@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "thk-jburns", title: "ديفيد بيرنز", type: "مفكر"
-- id: "thk-dgreenberger", title: "دِنيز د. ديفيد", type: "مفكر"
+- id: "thk-dgreenberger", title: "دِنيس غرينبرغر", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من *Cognitive Behavior Therapy: Basics and Beyond* (1995) بترجمة عربية معتمدة."

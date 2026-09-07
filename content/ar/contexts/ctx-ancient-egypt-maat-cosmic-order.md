@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
 - id: "que-roots-of-morality-evolution-reason", title: "جذور الأخلاق", type: "سؤال توليدي"
-- id: "thk-amenemope", title: "آمنمؤبي", type: "مفكر"
+- id: "thk-amenemope", title: "أمِنْمُوپ", type: "مفكر"
 gaps:
   - "لم يُراجَع الترقيم الدقيق لفصول 'كتاب الموتى' (عادة 192 فصلاً/تعويذة في نسخ العصر المتأخر) من مصدر أولي."
 ---

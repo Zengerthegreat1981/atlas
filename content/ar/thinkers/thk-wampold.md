@@ -24,8 +24,8 @@ related:
 - id: "rel-integrative-cbt-common-factors", title: "التكاملية (العامل المشترك) والعلاج المعرفي-السلوكي: تحدّي الصلة", type: "علاقة بين مدرستين"
 - id: "rel-integrative-humanistic-common-factors", title: "التكاملية (العامل المشترك) والإنسانية: الأم الأصلية", type: "علاقة بين مدرستين"
 - id: "rel-integrative-psychoanalysis-common-factors", title: "التكاملية (العامل المشترك) والتحليل النفسي: دفاع قديم", type: "علاقة بين مدرستين"
-- id: "dbt-empirically-validated-vs-evidence-based", title: "جِدَل الْعِلَاج بِالْأَدِلَّة التَّجْرِيبِيَّة ضِد الْعِلَاج بِالْأَدِلَّة الْعِلْمِيَّة", type: "جدل"
-- id: "dbt-psychodynamic-evidence", title: "جِدَل فَعَّالِيَّة الْعِلَاج النَّفْسَحَرَكِيّ: هَل يَعْمَل؟", type: "جدل"
+- id: "dbt-empirically-validated-vs-evidence-based", title: "جدل العلاج بالأدلة التجريبية ضد الممارسة القائمة على الأدلة", type: "جدل"
+- id: "dbt-psychodynamic-evidence", title: "جدل جودة أدلة العلاج النفسي الديناميكي", type: "جدل"
 - id: "dbt-therapist-effects-treatment-effects", title: "جِدَل تَأْثِيرَات الْمُعَالِج ضِد تَأْثِيرَات الْعِلَاج", type: "جدل"
 gaps:
   - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لبروس وامبولد."

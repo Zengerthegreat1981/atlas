@@ -27,7 +27,7 @@ related:
 - id: "con-trauma", title: "الصدمة النفسية في التحليلية", type: "مفهوم"
 - id: "con-emotional-cutoff", title: "القطع العاطفي", type: "مفهوم"
 - id: "thk-fosha", title: "ديانا فوشا", type: "مفكر"
-- id: "thk-leighmccullers", title: "لي ماكوليرز", type: "مفكر"
+- id: "thk-leighmccullers", title: "لي ماكولو", type: "مفكر"
 - id: "thk-jenny-osborn", title: "جيني أوزبورن (Jenny Osborn)", type: "مفكر"
 - id: "thk-steven-haber", title: "ستيفن هابر", type: "مفكر"
 - id: "wrk-fosha-transforming-power-affect", title: "كتاب القوة التحويلية للانفعال لديانا فوشا (2000)", type: "عمل / كتاب"

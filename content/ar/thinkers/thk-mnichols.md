@@ -15,7 +15,7 @@ edges: []
 related:
 - id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
 - id: "thk-mandolfi", title: "ماورو أندولفي", type: "مفكر"
-- id: "thk-cprata", title: "كارلو براتا", type: "مفكر"
+- id: "thk-cprata", title: "جوليانا براتا", type: "مفكر"
 - id: "thk-pwatzlawick", type: "مفكر", title: "بول فاتسلافيك"
 - id: "con-joining", title: "الانضمام العلاجي", type: "مفهوم"
 gaps:

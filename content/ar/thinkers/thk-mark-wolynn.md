@@ -15,7 +15,7 @@ active_end: "مستمر"
 edges: []
 related:
 - id: "thk-john-bradshaw", title: "جون برادشو", type: "مفكر"
-- id: "ctx-transgenerational-epigenetics-trauma", title: "ثورة علم الوراثة اللاجينية وإثبات انتقال الصدمات عبر الأجيال", type: "سياق/تقليد"
+- id: "ctx-transgenerational-epigenetics-trauma", title: "علم الوراثة اللاجينية وفرضية انتقال الصدمات عبر الأجيال: أدلة وحدودها", type: "سياق/تقليد"
 - id: "con-attachment-styles-popular", title: "أنماط التعلق في العلاقات المعاصرة (الآمن، القلق، التجنبي)", type: "مفهوم"
 - id: "con-family-projection-process", title: "عملية الإسقاط الأسري (Family Projection Process)", type: "مفهوم"
 - id: "con-enmeshment-disengagement", title: "الانغماس والانفصال الأسري (Enmeshment & Disengagement)", type: "مفهوم"

@@ -27,7 +27,7 @@ related:
 - id: "tec-narrative-therapy", title: "العلاج السردي — تقنيات", type: "تقنية/تدخل علاجي"
 - id: "con-cultural-unconscious", title: "اللاوعي الثقافي", type: "مفهوم"
 - id: "con-relationality-indigenous", title: "العلاقية (Relationality)", type: "مفهوم"
-- id: "thk-cdenborough", title: "كريس دِنْبَره", type: "مفكر"
+- id: "thk-cdenborough", title: "ديفيد دِنْبَره", type: "مفكر"
 - id: "thk-dwallis", title: "ديفيد واليس", type: "مفكر"
 - id: "thk-jfreedman", title: "جيل فريدمان", type: "مفكر"
 - id: "thk-myuen", title: "مون يوِن", type: "مفكر"

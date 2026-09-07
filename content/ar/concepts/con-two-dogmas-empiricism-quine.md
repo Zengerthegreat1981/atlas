@@ -15,7 +15,7 @@ edges:
 related:
 - id: "thk-wquine", title: "ويلارد فان أورمان كواين", type: "مفكر"
 - id: "sch-quinean-naturalism", title: "الطبيعانية التحليلية (الكواينية)", type: "مدرسة"
-- id: "wrk-two-dogmas", title: "نقدان من الوضعية المنطقية (Two Dogmas of Empiricism)", type: "عمل / كتاب"
+- id: "wrk-two-dogmas", title: "عقيدتان من عقائد التجريبية (Two Dogmas of Empiricism)", type: "عمل / كتاب"
 - id: "crt-quine-two-dogmas", title: "نقد كواين لعقيدتي التجريبية والتمييز التحليلي-التركيبي", type: "نقد خارجي موثَّق"
 - id: "met-quine-web-of-belief", title: "شبكة المعتقدات لـ كواين: استعارة الشمولية المعرفية وتعديل الأطراف", type: "استعارة/مجاز مؤسِّس"
 gaps:

@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-post-structuralism", target_type: "مدرسة"
 related:
 - id: "crt-critique-of-couples-therapy", title: "نقد الْعِلَاج الزَّوْجِيّ: «الزَّوَاج كَـعِلَاج» كَـ«سُلْطَة طَبِّيَّة»", type: "نقد خارجي موثَّق"
-- id: "dbt-mental-illness-social-construction", title: "جِدَل الْمَرَض النَّفْسِيّ كَبِنَاء اِجْتِمَاعِيّ", type: "جدل"
+- id: "dbt-mental-illness-social-construction", title: "جدل التصنيف النفسي كبناء اجتماعي: روزنهان ضد سبيتزر", type: "جدل"
 - id: "crt-critique-of-family-systems", title: "نقد الْعِلَاج الْأُسَريّ النِّظَامِيّ: مَنْ يَحْدِّد مَا هُوَ «صِحِّيّ»؟", type: "نقد خارجي موثَّق"
 - id: "crt-forced-treatment-ethics", title: "أخلاقيات العلاج القسري", type: "نقد خارجي موثَّق"
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"

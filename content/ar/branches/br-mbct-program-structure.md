@@ -16,11 +16,11 @@ edges:
 - rel: "belongs_to", target: "sch-mbct", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-jteasdale", target_type: "مفكر"
 related:
-- id: "thk-jteasdale", title: "جون تيسديل", type: "مفكر"
+- id: "thk-jteasdale", title: "جون تيزديل", type: "مفكر"
 - id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
-- id: "thk-lstevenhayes", title: "ستيفن هايز", type: "مفكر"
+- id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
 - id: "con-mindfulness", title: "اليقظة الذهنية (Mindfulness)", type: "مفهوم"
-- id: "con-cbt-mbt-mindfulness-3min-breathing-space", title: "مساحة التنفس الثلاثية (MBCT)", type: "مفهوم"
+- id: "con-cbt-mbt-mindfulness-3min-breathing-space", title: "مساحة التنفس الثلاث دقائق (MBCT)", type: "مفهوم"
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "التفاصيل الدقيقة لمحتوى كل جلسة من الجلسات الثمانية لم تُراجع من كتاب Segal, Williams & Teasdale (2013, 2nd ed.) مباشرة."

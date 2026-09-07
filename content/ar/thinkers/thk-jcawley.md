@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-dknab", title: "دوغلاس كناب", type: "مفكر"
 - id: "thk-dmueser", title: "كيم ميوزر", type: "مفكر"
-- id: "thk-dhanna", title: "فرانك غولدشتاين", type: "مفكر"
+- id: "thk-dhanna", title: "مايكل ج. غولدشتاين", type: "مفكر"
 gaps:
   - "تفاصيل مسيرتها في University of Manchester تستحق توثيقاً."
   - "دورها في برنامج PREPP تستحق توثيقاً."

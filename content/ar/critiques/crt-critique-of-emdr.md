@@ -16,7 +16,7 @@ related:
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "crt-replication-crisis", title: "أزمة التكرار", type: "نقد خارجي موثَّق"
 - id: "crt-neuroscience-critique-classic-theories", title: "النقد العصبي-العلمي للنظريات الكلاسيكية: فجوة الدليل العصبي", type: "نقد خارجي موثَّق"
-- id: "dbt-emdr-vs-cbt", title: "جِدَل EMDR ضِد CBT لِـ**PTSD**", type: "جدل"
+- id: "dbt-emdr-vs-cbt", title: "جدل EMDR ضد CBT المركز على الصدمة لاضطراب ما بعد الصدمة", type: "جدل"
 gaps:
 - "لم تُراجع من نسخة أصلية مباشرة بعد (McNally, 1999; Lilienfeld, 2001; Herbert et al., 2013)."
 - "النقاشات الحديثة (2018-2024) حول فعالية EMDR تحتاج فصلاً مستقلاً."

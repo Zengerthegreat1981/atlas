@@ -17,7 +17,7 @@ edges:
 - rel: "developed_by", target: "thk-msolms", target_type: "مفكر"
 related:
 - id: "thk-msolms", title: "مارك سولمز", type: "مفكر"
-- id: "thk-panksepp", title: "ياب بانكسيب", type: "مفكر"
+- id: "thk-panksepp", title: "ياكوب بانكسيب", type: "مفكر"
 - id: "thk-damasio", title: "أنطونيو داماسيو", type: "مفكر"
 - id: "thk-aschore", title: "ألان شور", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"

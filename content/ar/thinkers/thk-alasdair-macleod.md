@@ -15,7 +15,7 @@ language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-solution-focused", target_type: "مدرسة"
 related:
-- id: "thk-sdeshacer", title: "ستيف دي شازر", type: "مفكر"
+- id: "thk-sdeshacer", title: "ستيف دي شيزر", type: "مفكر"
 - id: "thk-chris-iveson", title: "كريس إيفسون", type: "مفكر"
 - id: "con-solution-talk", title: "حديث الحل", type: "مفهوم"
 gaps:

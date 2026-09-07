@@ -20,7 +20,7 @@ related:
 - id: "tec-positive-psychotherapy", title: "العلاج النفسي الإيجابي", type: "تقنية/تدخل علاجي"
 - id: "tec-hope-therapy", title: "علاج الأمل", type: "تقنية/تدخل علاجي"
 - id: "wrk-emotional-life-brain", title: "الحياة العاطفية لدماغك: كيف تشكّل أنماطه الفريدة طريقة تفكيرك وشعورك وحياتك", type: "عمل / كتاب"
-- id: "wrk-insight-lieberman", title: "البصيرة: الحقيقة المفاجئة عن كيف يرانا الآخرون، وكيف نرى أنفسنا، ولماذا الإجابات تهم أكثر مما نعتقد", type: "عمل / كتاب"
+- id: "wrk-insight-lieberman", title: "اجتماعي: لماذا أدمغتنا موصولة للتواصل", type: "عمل / كتاب"
 - id: "wrk-liberated-mind", title: "العقل المحرر: علم النفس الجديد الثوري للعلاج الذي سيحررك", type: "عمل / كتاب"
 - id: "wrk-mind-and-brain", title: "العقل والدماغ: المرونة العصبية وقوة الإرادة الذهنية", type: "عمل / كتاب"
 - id: "tec-positive-psychotherapy-peseschkian", title: "العلاج النفسي الإيجابي لبيسشكيان", type: "تقنية/تدخل علاجي"

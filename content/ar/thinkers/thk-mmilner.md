@@ -15,7 +15,7 @@ part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-- id: "thk-alvinmahrer", title: "ألفين ماهرر", type: "مفكر"
+- id: "thk-alvinmahrer", title: "ألفين مارر", type: "مفكر"
 - id: "thk-robertelliott", title: "روبرت إليوت", type: "مفكر"
 gaps:
   - "لم يُعثر على اقتباس مباشر قابل للتحقق من مصدر أولي."

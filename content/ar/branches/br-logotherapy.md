@@ -21,8 +21,8 @@ edges:
 related:
 - id: "thk-frankl", title: "فرانكل", type: "مفكر"
 - id: "thk-langle", title: "لانغله", type: "مفكر"
-- id: "dbt-langle-frankl", title: "الانشقاق", type: "جدل"
-- id: "dbt-meaning-found", title: "هل المعنى يُكتشَف؟", type: "جدل"
+- id: "dbt-langle-frankl", title: "لانغله ضد فرانكل", type: "جدل"
+- id: "dbt-meaning-found", title: "هل المعنى يُكتشَف أم يُصنَع؟", type: "جدل"
 - id: "tec-meaning-technique-socratic", title: "تقنية المنعطف الوجودي (Logotherapy's Dereflection)", type: "تقنية/تدخل علاجي"
 gaps:
   - "بيانات الأعمال الأصلية بالألمانية وتواريخها — تحتاج تثبيتاً"

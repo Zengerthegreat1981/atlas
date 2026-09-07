@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
   []
 related:
-- id: "thk-james", title: "وليام جيمس", type: "مفكر"
+- id: "thk-james", title: "وليم جيمس", type: "مفكر"
 - id: "thk-dewey", title: "جون ديوي", type: "مفكر"
 - id: "thk-peirce", title: "تشارلز ساندرز بيرس", type: "مفكر"
 - id: "sch-pragmatism-classical", title: "البراغماتية الكلاسيكية", type: "مدرسة"

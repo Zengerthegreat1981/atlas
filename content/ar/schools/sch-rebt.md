@@ -24,7 +24,7 @@ related:
 - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
 - id: "con-abc-model", title: "نموذج ABC (REBT)", type: "مفهوم"
 - id: "exp-albert-ellis-bronx-botanical-exposure", title: "تجربة ألبرت إليس بالتعريض في حديقة برونكس والتغلب على الخجل", type: "خبرة معيشة"
-- id: "thk-dgreenberger", title: "دِنيز د. ديفيد", type: "مفكر"
+- id: "thk-dgreenberger", title: "دِنيس غرينبرغر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من إليس بالعربية في المصادر المنشورة المعتمدة حالياً."
   - "التفاصيل الدقيقة لانفصال روبرت هاربر عن المعهد لاحقاً لم تُراجع بعد."

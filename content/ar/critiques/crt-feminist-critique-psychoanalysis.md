@@ -12,10 +12,10 @@ part: "psychology"
 edges:
 - rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-- id: "thk-jherman", title: "جوديث هرمن", type: "مفكر"
+- id: "thk-jherman", title: "جوديث هِرمان", type: "مفكر"
 - id: "thk-lbrown", title: "لورا س. براون", type: "مفكر"
 - id: "thk-bhooks", title: "بيل هوكس", type: "مفكر"
-- id: "thk-khorney", title: "كارن هورني", type: "مفكر"
+- id: "thk-khorney", title: "كارين هُورْني", type: "مفكر"
 - id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي (النسوي والكويري وما بعد الكولونيالي)", type: "تيار"
 - id: "con-feminist-psychoanalysis", title: "التحليل النفسي النسوي", type: "مفهوم"
 gaps:

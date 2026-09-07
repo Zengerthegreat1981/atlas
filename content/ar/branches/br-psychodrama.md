@@ -16,10 +16,10 @@ edges:
 - rel: "belongs_to", target: "العلاج الجماعي/التعبيري/الفني", target_type: "مدرسة"
 - rel: "developed_by", target: "ياكوب ل. مورينو", target_type: "مفكر"
 related:
-- id: "thk-jmoreno", title: "ياكوب مورينو", type: "مفكر"
-- id: "thk-zmoreno", title: "زيركا مورينو", type: "مفكر"
+- id: "thk-jmoreno", title: "جاكوب مورينو", type: "مفكر"
+- id: "thk-zmoreno", title: "زيركا ت. مورينو", type: "مفكر"
 - id: "tec-psychodrama", title: "السيكودراما", type: "تقنية/تدخل علاجي"
-- id: "con-catharsis-integration", title: "التطهير/الكاثارسيس التكاملي", type: "مفهوم"
+- id: "con-catharsis-integration", title: "التطهير الاندماجي (كاتارسيس مورينو)", type: "مفهوم"
 gaps:
   - "تاريخ التأسيس المؤسسي (مسرح مورينو التلقائي، Beacon، 1934) لم يُوثّق بدقة كافية."
   - "العلاقة بين السيكودراما والعلاج بالدراما (Landy) لم تُحسم توثيقياً."

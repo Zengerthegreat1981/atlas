@@ -17,7 +17,7 @@ edges:
 - rel: "belongs_to", target: "النسوية التقاطعية", target_type: "مدرسة"
 - rel: "developed", target: "sch-intersectionality", target_type: "مدرسة"
 related:
-- id: "thk-crenshaw", title: "كيمبرلي كرينشو", type: "مفكر"
+- id: "thk-crenshaw", title: "كيمبرلي كرنشو", type: "مفكر"
 - id: "thk-lorde", title: "أودري لورد", type: "مفكر"
 - id: "sch-feminism-black", title: "النسوية السوداء", type: "مدرسة"
 - id: "con-intersectionality", title: "التقاطعية", type: "مفهوم"

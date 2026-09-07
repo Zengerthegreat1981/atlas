@@ -14,9 +14,9 @@ edges:
 - rel: "relates_to", target: "علم النفس السريري", target_type: "مدرسة"
 related:
 - id: "crt-feminist-critique-behaviorism", title: "النقد النسوي للسلوكية", type: "نقد خارجي موثَّق"
-- id: "crt-borderline-gendered-diagnosis", title: "نقد اضطراب الحدّ بوصفه تشخيصاً مشهد جنسياً", type: "نقد خارجي موثَّق"
-- id: "crt-dsm-cultural-bias", title: "نقد التحيز الثقافي في الـ DSM", type: "نقد خارجي موثَّق"
-- id: "crt-anti-psychiatry-critique", title: "نقد الطب النفسي المناهض", type: "نقد خارجي موثَّق"
+- id: "crt-borderline-gendered-diagnosis", title: "اضطراب الشخصية الحدية: تشخيص جندري؟", type: "نقد خارجي موثَّق"
+- id: "crt-dsm-cultural-bias", title: "التحيز الثقافي في DSM", type: "نقد خارجي موثَّق"
+- id: "crt-anti-psychiatry-critique", title: "نقد مناهضة الطب النفسي المؤسسي: DSM كأداة سيطرة", type: "نقد خارجي موثَّق"
 - id: "thk-bhooks", title: "بيل هوكس", type: "مفكر"
 - id: "thk-crenshaw", title: "كيمبرلي كرنشو", type: "مفكر"
 gaps:

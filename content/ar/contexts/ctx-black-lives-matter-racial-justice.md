@@ -14,7 +14,7 @@ edges:
 related:
 - id: "ctx-civil-rights-liberation-psychology", title: "حركة الحقوق المدنية", type: "سياق/تقليد"
 - id: "thk-rmenakem", title: "ريزما ميناكم", type: "مفكر"
-- id: "thk-crenshaw", title: "كيمبرلي كرينشو", type: "مفكر"
+- id: "thk-crenshaw", title: "كيمبرلي كرنشو", type: "مفكر"
 gaps:
   - "الأرقام الدقيقة لحجم مشاركة صيف 2020 (تُقدَّر بملايين المشاركين في آلاف المدن) لم تُراجع من مصدر إحصائي أولي (كمسح Civis Analytics) ضمن هذا المشروع."
 ---

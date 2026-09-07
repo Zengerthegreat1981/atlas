@@ -24,7 +24,7 @@ related:
 - id: "thk-dsiegel", title: "دان سيغل", type: "مفكر"
 - id: "con-attachment-styles-popular", title: "أنماط التعلق في العلاقات المعاصرة", type: "مفهوم"
 - id: "con-eft-couples-stuck-points", title: "نِقَاط الِانْحِراف فِي EFT: تَثْبِيت 'الْمَشَاعِر الْخَاطِئَة'", type: "مفهوم"
-- id: "dbt-couples-therapy-vs-individual-depression", title: "جِدَل عِلَاج اِكْتِئَاب زَوْج ضِد فَرْدِيّ", type: "جدل"
+- id: "dbt-couples-therapy-vs-individual-depression", title: "جدل العلاج الزوجي مقابل العلاج الفردي للاكتئاب", type: "جدل"
 - id: "crt-critique-of-couples-therapy-effectiveness", title: "نقد فَعَّالِيَّة الْعِلَاج الزَّوْجِيّ: «مَشَاكِل الْأَزْوَاج» هَل تُحُلّ؟", type: "نقد خارجي موثَّق"
 - id: "crt-critique-of-emotionally-focused", title: "نقد الْعِلَاج بِالْمَشَاعِر (EFT) لِلْأَزْوَاج: «اِرْتِبَاط» أَمْ «اِعْتِمَادِيَّة»؟", type: "نقد خارجي موثَّق"
 gaps:

@@ -15,7 +15,7 @@ edges:
 related:
 - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
-- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري للطب النفسي: DSM كأداة 'للنفسي الإمبراطوري'", type: "نقد خارجي موثَّق"
+- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري لـ DSM: التصنيف كخريطة جيوسياسية للمعاناة المقبولة", type: "نقد خارجي موثَّق"
 - id: "con-dukkha-suffering", title: "الدكها والمعاناة الوجودية في البوذية (Dukkha)", type: "مفهوم"
 gaps:
   - "برنامج مقاعد الصداقة (Friendship Bench) في زيمبابوي بقيادة ديكسون تشيباندا."

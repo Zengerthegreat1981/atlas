@@ -10,7 +10,7 @@ crumb: "الميتافيزيقا ← الأسئلة المولِّدة ← ما 
 active_start: 1700
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "sch-metaphysics", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-analytic-metaphysics", target_type: "مدرسة"
 related:
 - id: "thk-plato", title: "أفلاطون", type: "مفكر"
 - id: "thk-descartes", title: "رينيه ديكارت", type: "مفكر"

@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-neumann", title: "إريك نيومان", type: "مفكر"
-- id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 gaps:
   - "القطبان الأساسيان للأم الكبرى عند نيومان: البعد الأمومي الراعي والمغذي، والبعد الرهيب المبتلع والمتحول."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

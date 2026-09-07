@@ -14,10 +14,10 @@ edges:
 related:
 - id: "br-islamic-positive-psychology", title: "علم النفس الإيجابي الإسلامي", type: "تيار"
 - id: "ctx-arabic-self", title: "النفس في التراث العربي الإسلامي", type: "سياق/تقليد"
-- id: "thk-ibn-sina", title: "ابن سينا", type: "مفكر"
+- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا (الشيخ الرئيس)", type: "مفكر"
 - id: "wrk-al-shifa-avicenna", title: "كتاب الشفاء", type: "عمل"
-- id: "con-floating-man-argument-avicenna", title: "تجربة الرجل الطائر", type: "مفهوم"
-- id: "met-avicenna-floating-man", title: "استعارة الرجل الطائر", type: "استعارة"
+- id: "con-floating-man-argument-avicenna", title: "تجربة الإنسان الطائر / المعلق في الفضاء (Floating Man Argument)", type: "مفهوم"
+- id: "met-avicenna-floating-man", title: "الرجل الطائر لابن سينا: استعارة جوهرية الوعي والذات المجردة", type: "استعارة"
 gaps:
   - "النص الأصلي لكتاب النفس من الشفاء (طبعة فضل الرحمن، Avicenna's De Anima، أكسفورد 1959) لم يُراجع مباشرة ضمن مصادر هذا المشروع، والفقرات أدناه قائمة على مراجع ثانوية."
 ---

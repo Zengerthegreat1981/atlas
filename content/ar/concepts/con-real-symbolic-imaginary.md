@@ -15,13 +15,13 @@ edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "developed_by", target: "wrk-ecrits", target_type: "مفكر"
 related:
-- id: "thk-lacan", title: "جاك لوكان", type: "مفكر"
-- id: "thk-jamiller", title: "جاك-ألان ميلر", type: "مفكر"
+- id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
+- id: "thk-jamiller", title: "جاك-أَلان ميلِّر", type: "مفكر"
 - id: "con-queer-psychoanalysis", title: "التحليل النفسي الكويري", type: "مفهوم"
 - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
-- id: "wrk-ecrits", title: "الكتابات (Écrits) — جاك لوكان", type: "عمل"
+- id: "wrk-ecrits", title: "الكتابات (Écrits) — جاك لاكان", type: "عمل"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على ترجمة عربية موثوقة المصدر بنصّها الحرفي الدقيق من الندوة الأولى أو الكتابات تخص RSI تحديداً وتصلح للاستشهاد المباشر."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 

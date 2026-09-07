@@ -16,7 +16,7 @@ edges: []
 related:
 - id: "rel-addiction-cbt", title: "الإدمان وتغيير السلوك والعلاج المعرفي-السلوكي: المقابلة التحفيزية ومنع الانتكاس", type: "علاقة بين مدرستين"
 - id: "thk-boscolo", title: "لويجي بوسكولو", type: "مفكر"
-- id: "thk-hohagen", title: "فريدريش هوهاغن", type: "مفكر"
+- id: "thk-hohagen", title: "فريتز هوهاغن", type: "مفكر"
 - id: "thk-amarlatt", title: "ألان مارلات", type: "مفكر"
 - id: "rel-integrative-cbt-common-factors", title: "التكاملية (العامل المشترك) والعلاج المعرفي-السلوكي: تحدّي الصلة", type: "علاقة بين مدرستين"
 gaps:

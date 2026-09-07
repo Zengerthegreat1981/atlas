@@ -16,11 +16,11 @@ edges:
 related:
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 - id: "thk-dbecker", title: "ديبورا بيكر", type: "مفكر"
-- id: "thk-grose", title: "غيليس روز", type: "مفكر"
+- id: "thk-grose", title: "غليس روز", type: "مفكر"
 - id: "thk-jcmcgrew", title: "جون هـ. مَكغْرِي", type: "مفكر"
-- id: "thk-mfarkas", title: "مارلي فاركاش", type: "مفكر"
+- id: "thk-mfarkas", title: "ماريان فاركاش", type: "مفكر"
 - id: "thk-pridgway", title: "باتريسيا رِدجوِي", type: "مفكر"
-- id: "thk-wspaulding", title: "ويلِم سَبُولدِنغ", type: "مفكر"
+- id: "thk-wspaulding", title: "ويلما سَبُولدِنغ", type: "مفكر"
 gaps:
   - "تاريخ 'deinstitutionalization' وعلاقته بنشأة PSR يستحق توثيقاً."
   - "الفرق بين 'PSR' و'recovery' كحقلين يستحق توضيحاً."

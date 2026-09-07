@@ -19,7 +19,7 @@ related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "con-tibetan-tantra", title: "التنترا التبتية والرمزية الأركيتيبية", type: "مفهوم"
-- id: "crt-postcolonial-critique-psychoanalysis", title: "النقد ما بعد الاستعماري للتحليل النفسي: السفر كاستعارة، المحلي كغريب", type: "نقد خارجي موثَّق"
+- id: "crt-postcolonial-critique-psychoanalysis", title: "النقد ما بعد الاستعماري للتحليل النفسي: الأنا الأوروبية كمعيار كوني للنفس", type: "نقد خارجي موثَّق"
 - id: "rel-buddhism-thirdwave", title: "البوذية والموجة الثالثة من العلاجات: استيراد اليقظة من فيباسانا إلى MBSR وACT وDBT", type: "علاقة بين مدرستين"
 gaps:
   - "المقارنة بين الماندالا التبتية والأركيتيبات ونموذج الوعي والذات في التحليلية."

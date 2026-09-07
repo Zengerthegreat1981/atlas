@@ -12,7 +12,7 @@ active_end: 1914
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-- id: "ctx-vienna-fin-de-siecle-psychoanalysis", title: "فيينا نهاية القرن 19", type: "سياق/تقليد"
+- id: "ctx-vienna-fin-de-siecle-psychoanalysis", title: "فيينا نهاية القرن التاسع عشر وحاضنة ولادة التحليل النفسي", type: "سياق/تقليد"
 gaps:
   - "الإحصاءات الدقيقة لأرباح المعارض الاستعمارية الكبرى (باريس 1889 و1900) لم تُراجع من مصدر أرشيفي أولي ضمن هذا المشروع."
 ---

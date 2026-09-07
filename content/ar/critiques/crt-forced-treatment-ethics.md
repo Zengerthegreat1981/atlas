@@ -19,7 +19,7 @@ related:
 - id: "crt-anti-psychiatry-critique", title: "نقد مناهضة الطب النفسي المؤسسي", type: "نقد خارجي موثَّق"
 - id: "br-antipsychiatry", title: "التيار المضاد للطب النفسي", type: "تيار"
 - id: "evt-deinstitutionalization-movement-1960", title: "حركة إلغاء المأسسة", type: "حدث تاريخي"
-- id: "evt-basaglia-law-italy-1978", title: "قانون بازاليا في إيطاليا 1978", type: "حدث تاريخي"
+- id: "evt-basaglia-law-italy-1978", title: "صدور قانون بازاليا في إيطاليا والإغلاق الإلزامي الكامل للمصحات النفسية", type: "حدث تاريخي"
 gaps:
   - "Szasz (1961/1963)، Chodoff (1976)، Perlin (2017) — لم تُراجع من المصدر الأولي بعد."
   - "لا يوجد اقتباس مباشر موثوق من Szasz أو Chodoff أو Perlin في هذه المسودة."

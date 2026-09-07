@@ -26,7 +26,7 @@ related:
 - id: "dbt-mental-illness-vs-problem", title: "المرض العقلي: مرض أم مشكلة حياتية؟", type: "جدل"
 - id: "crt-forced-treatment-ethics", title: "أخلاقيات العلاج القسري", type: "نقد خارجي موثَّق"
 - id: "dbt-mental-illness-brain-disease", title: "جِدَل الْمَرَض النَّفْسِيّ كَمَرَض دِمَاغ", type: "جدل"
-- id: "dbt-mental-illness-social-construction", title: "جِدَل الْمَرَض النَّفْسِيّ كَبِنَاء اِجْتِمَاعِيّ", type: "جدل"
+- id: "dbt-mental-illness-social-construction", title: "جدل التصنيف النفسي كبناء اجتماعي: روزنهان ضد سبيتزر", type: "جدل"
 - id: "ctx-deinstitutionalization-psychiatric-reform", title: "حركة إلغاء المصحات النفسية والطب النفسي المجتمعي", type: "سياق/تقليد"
 gaps:
   - "لم يُعثر على اقتباس مباشر قابل للتحقق من مصدر أولي بعد."

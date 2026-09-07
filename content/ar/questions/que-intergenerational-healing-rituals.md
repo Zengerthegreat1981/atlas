@@ -15,7 +15,7 @@ related:
 - id: "sch-indigenous-psychology", title: "علم نفس الشعوب الأصلية", type: "مدرسة"
 - id: "thk-mbraveheart", title: "ماريا يلوهورس بريف هارت", type: "مفكر"
 - id: "thk-eduardo-duran", title: "إدواردو دوران", type: "مفكر"
-- id: "ctx-transgenerational-epigenetics-trauma", title: "ثورة علم الوراثة اللاجينية وإثبات انتقال الصدمات عبر الأجيال", type: "سياق/تقليد"
+- id: "ctx-transgenerational-epigenetics-trauma", title: "علم الوراثة اللاجينية وفرضية انتقال الصدمات عبر الأجيال: أدلة وحدودها", type: "سياق/تقليد"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."

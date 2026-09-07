@@ -15,13 +15,13 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-- id: "crt-postcolonial-critique-cbt", title: "النقد ما بعد الاستعماري للعلاج المعرفي-السلوكي: 'العلم' كأداة إمبريالية", type: "نقد خارجي موثَّق"
-- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري للطب النفسي: DSM كأداة 'للنفسي الإمبراطوري'", type: "نقد خارجي موثَّق"
-- id: "crt-postcolonial-critique-cbt", title: "النقد ما بعد الاستعماري للعلاج المعرفي-السلوكي: 'العلم' كأداة إمبريالية", type: "نقد خارجي موثَّق"
-- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري للطب النفسي: DSM كأداة 'للنفسي الإمبراطوري'", type: "نقد خارجي موثَّق"
+- id: "crt-postcolonial-critique-cbt", title: "النقد ما بعد الاستعماري للعلاج المعرفي-السلوكي: تصدير بروتوكول فردي كعلاج عالمي", type: "نقد خارجي موثَّق"
+- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري لـ DSM: التصنيف كخريطة جيوسياسية للمعاناة المقبولة", type: "نقد خارجي موثَّق"
+- id: "crt-postcolonial-critique-cbt", title: "النقد ما بعد الاستعماري للعلاج المعرفي-السلوكي: تصدير بروتوكول فردي كعلاج عالمي", type: "نقد خارجي موثَّق"
+- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري لـ DSM: التصنيف كخريطة جيوسياسية للمعاناة المقبولة", type: "نقد خارجي موثَّق"
 - id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي", type: "تيار"
 - id: "br-liberation-psychology", title: "علم نفس التحرير", type: "تيار"
-- id: "crt-postcolonial-critique-cbt", title: "النقد ما بعد الاستعماري للعلاج المعرفي-السلوكي: 'العلم' كأداة إمبريالية", type: "نقد خارجي موثَّق"
+- id: "crt-postcolonial-critique-cbt", title: "النقد ما بعد الاستعماري للعلاج المعرفي-السلوكي: تصدير بروتوكول فردي كعلاج عالمي", type: "نقد خارجي موثَّق"
 gaps:
   - "أعمال ويد نوبلز ونعيم أكبر (Wade Nobles & Na'im Akbar) ومفهوم فلسفة أوبونتو (Ubuntu: 'أنا أكون لأننا نكون')."
   - "تفكيك التحيز الفردي الغربي وتأكيد الروحانية والترابط الجماعي والوعي بالتاريخ الإفريقي والشفاء من صدمة الاسترقاق التاريخية."

@@ -15,7 +15,7 @@ active_end: 2024
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-- id: "wrk-emotional-understanding", title: "الفهم العاطفي: الأخلاقيات البين-ذاتية للعلاج النفسي", type: "عمل / كتاب"
+- id: "wrk-emotional-understanding", title: "الفهم العاطفي: دراسات في نظرية المعرفة التحليلية النفسية", type: "عمل / كتاب"
 - id: "con-intersubjectivity", title: "البين-ذاتية (Intersubjectivity)", type: "مفهوم"
 - id: "thk-stolorow", title: "روبرت ستولورو", type: "مفكر"
 - id: "thk-georgeatwood", title: "جورج أتوود", type: "مفكر"

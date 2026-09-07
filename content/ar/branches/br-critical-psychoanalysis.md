@@ -22,8 +22,8 @@ related:
 - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
 - id: "thk-dimen", title: "موريل ديمن", type: "مفكر"
 - id: "crt-disability-studies-critique", title: "نقد دراسات الإعاقة للتصنيف التشخيصي: DSM كأداة تمييز", type: "نقد خارجي موثَّق"
-- id: "crt-postcolonial-critique-cbt", title: "النقد ما بعد الاستعماري للعلاج المعرفي-السلوكي: 'العلم' كأداة إمبريالية", type: "نقد خارجي موثَّق"
-- id: "crt-postcolonial-critique-psychoanalysis", title: "النقد ما بعد الاستعماري للتحليل النفسي: السفر كاستعارة، المحلي كغريب", type: "نقد خارجي موثَّق"
+- id: "crt-postcolonial-critique-cbt", title: "النقد ما بعد الاستعماري للعلاج المعرفي-السلوكي: تصدير بروتوكول فردي كعلاج عالمي", type: "نقد خارجي موثَّق"
+- id: "crt-postcolonial-critique-psychoanalysis", title: "النقد ما بعد الاستعماري للتحليل النفسي: الأنا الأوروبية كمعيار كوني للنفس", type: "نقد خارجي موثَّق"
 - id: "crt-postmodern-critique", title: "نقد ما بعد الحداثة للنماذج الوضعية التجريبية: الحقيقة كبناء اجتماعي", type: "نقد خارجي موثَّق"
 gaps:
   - "نقد التحيز الأبوي والذكوري في النظرية الفرويدية الكلاسيكية حول عقدة الخصاء وحسد القضيب."

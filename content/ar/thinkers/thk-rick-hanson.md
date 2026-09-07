@@ -19,7 +19,7 @@ related:
 - id: "thk-richard-davidson", title: "ريتشارد ديفيدسون", type: "مفكر"
 - id: "thk-goleman", title: "دانيال غولمان", type: "مفكر"
 - id: "thk-dsiegel", title: "دان سيغل", type: "مفكر"
-- id: "wrk-buddhas-brain", title: "مخ بوذا: علم الأعصاب العملي للسعادة والحكمة وراحة البال", type: "عمل"
+- id: "wrk-buddhas-brain", title: "مخ بوذا: علم الأعصاب العملي للسعادة والحب والحكمة", type: "عمل"
 gaps:
   - "تفاصيل عمله في «Wellspring Institute for Neuroscience and Contemplative Wisdom» موثّقة جزئياً."
   - "لا يوجد ملف مدرسة/تيار (sch-/br-) معتمد لـ«المرونة العصبية الإكلينيكية» في الأطلس، فحُذف edge belongs_to وسُجّل في missing-schools.md. كما لا يوجد ملف مستقل موثَّق حالياً لشارون بيغلي (Sharon Begley) في الأطلس، فحُذف رابطها من related؛ ذُكرت في المتن نصّياً دون رابط."

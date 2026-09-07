@@ -52,7 +52,7 @@ related:
 - id: "thk-david-krauss", title: "ديفيد أ. كراوس", type: "مفكر"
 - id: "thk-deraldwing-sue", title: "ديرالد وينغ سو", type: "مفكر"
 - id: "thk-eallen", title: "إليزابيث ألين", type: "مفكر"
-- id: "thk-groselli", title: "غيلي روزيليني", type: "مفكر"
+- id: "thk-groselli", title: "غيل روزيليني", type: "مفكر"
 - id: "thk-hschlesinger", title: "هربرت شليسنغر", type: "مفكر"
 - id: "thk-jfox", title: "جون فوكس", type: "مفكر"
 - id: "thk-jgedo", title: "جون جيدو", type: "مفكر"

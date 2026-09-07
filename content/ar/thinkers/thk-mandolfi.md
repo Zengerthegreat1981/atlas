@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-mselvini", title: "مارا سيلفيني-بالازولي", type: "مفكر"
 - id: "thk-gcecchin", title: "جيانفرانكو تشيكين", type: "مفكر"
-- id: "thk-cprata", title: "كارلو براتا", type: "مفكر"
+- id: "thk-cprata", title: "جوليانا براتا", type: "مفكر"
 - id: "thk-mnichols", title: "مايكل نيكولز", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي (تخرّج من جامعة روما عام 1975 تقريباً)."

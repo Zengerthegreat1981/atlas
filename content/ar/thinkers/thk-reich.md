@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-apesso", title: "ألبرت بيسّو", type: "مفكر"
 - id: "thk-lowen", title: "ألكسندر لوين", type: "مفكر"
-- id: "thk-dboyden", title: "ديان بويدن-بيسّو", type: "مفكر"
+- id: "thk-dboyden", title: "ديان بوييدن-بيسّو", type: "مفكر"
 - id: "thk-ekeleman", title: "ستانلي كِلمان", type: "مفكر"
 - id: "thk-dkirkland", title: "دانيال كيركلاند", type: "مفكر"
 - id: "br-biodynamic-psychology", title: "علم النفس البيودينامي والتدليك الحركي (بويسن)", type: "تيار"

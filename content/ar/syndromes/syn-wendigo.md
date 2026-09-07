@@ -14,7 +14,7 @@ edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "dis-delusional", title: "اضطراب الوهام", type: "اضطراب/حالة إكلينيكية"
-- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري للطب النفسي: DSM كأداة 'للنفسي الإمبراطوري'", type: "نقد خارجي موثَّق"
+- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري لـ DSM: التصنيف كخريطة جيوسياسية للمعاناة المقبولة", type: "نقد خارجي موثَّق"
 - id: "con-relationality-indigenous", title: "العلاقية (Relationality)", type: "مفهوم"
 gaps:
   - "الأساطير الفلكلورية لشعوب الألغونكوين والكري ودراسات الأنثروبولوجيا السيكياترية."

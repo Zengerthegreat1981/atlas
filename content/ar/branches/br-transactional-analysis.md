@@ -17,8 +17,8 @@ edges:
 - rel: "developed_by", target: "thk-eburne", target_type: "مفكر"
 related:
 - id: "thk-tony-white", title: "توني وايت", type: "مفكر"
-- id: "thk-gunnel-cederblad", title: "ماريان سيدِربلاد", type: "مفكر"
-- id: "thk-jacqueline-astington", title: "جانيت وايلد أستنغتون", type: "مفكر"
+- id: "thk-gunnel-cederblad", title: "جونيل سيدِربلاد", type: "مفكر"
+- id: "thk-jacqueline-astington", title: "جاكلين أستنغتون", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-federn", title: "بول فيديرن", type: "مفكر"
 gaps:

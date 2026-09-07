@@ -17,7 +17,7 @@ related:
   - id: "sch-behaviorism", title: "السلوكية", type: "مدرسة"
   - id: "thk-locke", title: "جون لوك", type: "مفكر"
   - id: "thk-hume", title: "ديفيد هيوم", type: "مفكر"
-  - id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+  - id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."

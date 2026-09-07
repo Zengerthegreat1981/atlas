@@ -15,7 +15,7 @@ edges:
 related:
 - id: "dis-somatic-symptom-disorder", title: "اضطراب الأعراض الجسدية", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
-- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري للطب النفسي: DSM كأداة 'للنفسي الإمبراطوري'", type: "نقد خارجي موثَّق"
+- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري لـ DSM: التصنيف كخريطة جيوسياسية للمعاناة المقبولة", type: "نقد خارجي موثَّق"
 - id: "con-grief", title: "الحزن كمسار للتفريد", type: "مفهوم"
 gaps:
   - "دراسات كراوز (Krause 1989) حول الجسدنة والقلب الغارق لدى مهاجري البنجاب في بريطانيا."

@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-- id: "thk-adler", title: "ألفريد أدلر", type: "مفكر"
+- id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
 - id: "thk-khorney", title: "كارين هورني", type: "مفكر"
 gaps:
   - "تأسيس المعهد الألماني للأبحاث النفسية والعلاج النفسي (معهد غورينغ Göring Institute) في برلين خلال الحقبة النازية والجدل التاريخي المحيط به."

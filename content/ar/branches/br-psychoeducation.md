@@ -16,7 +16,7 @@ edges:
 related:
 - id: "thk-dknab", title: "دوغلاس كناب", type: "مفكر"
 - id: "thk-dmueser", title: "كيم ميوزر", type: "مفكر"
-- id: "thk-dhanna", title: "فرانك غولدشتاين", type: "مفكر"
+- id: "thk-dhanna", title: "مايكل ج. غولدشتاين", type: "مفكر"
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "con-psychoeducation", title: "التثقيف النفسي (Psychoeducation)", type: "مفهوم"
 gaps:

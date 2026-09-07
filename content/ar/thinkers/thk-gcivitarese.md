@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
-- id: "thk-aferro", title: "أنطونيو فيرو", type: "مفكر"
+- id: "thk-aferro", title: "أنطونينو فيرو", type: "مفكر"
 - id: "trm-reverie-bion", title: "السهو الأمومي الاستيعابي (Maternal Reverie): هضم الانفعالات الخام للطفل", type: "مصطلح"
 gaps:
   - "سنة الميلاد غير منشورة في صفحته عند Routledge ولا في سيرته عند Confer، والحقل `active_start` ما زال `null` لعدم وجود سنة أول منشور موثقة."

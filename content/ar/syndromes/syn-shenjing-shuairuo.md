@@ -15,7 +15,7 @@ edges:
 related:
 - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-persistent-depressive-disorder", title: "اضطراب الاكتئاب المستمر", type: "اضطراب/حالة إكلينيكية"
-- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري للطب النفسي: DSM كأداة 'للنفسي الإمبراطوري'", type: "نقد خارجي موثَّق"
+- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري لـ DSM: التصنيف كخريطة جيوسياسية للمعاناة المقبولة", type: "نقد خارجي موثَّق"
 - id: "con-mind-body", title: "مشكلة العقل والجسد", type: "مفهوم"
 gaps:
   - "أبحاث آرثر كليمان (Arthur Kleinman 1982) حول الجسدنة والوهن العصبي في الصين بعد الثورة الثقافية."

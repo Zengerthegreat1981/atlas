@@ -29,7 +29,7 @@ related:
 - id: "wrk-frames-of-mind", title: "عقول متعددة: نظرية الذكاءات المتعددة", type: "عمل / كتاب"
 - id: "wrk-metaphors-we-live-by", title: "الاستعارات التي نحيا بها", type: "عمل / كتاب"
 - id: "wrk-noise-kahneman", title: "الضوضاء: خلل في الحكم البشري", type: "عمل / كتاب"
-- id: "dia-kahneman-gigerenzer-heuristics", title: "سجال كانيمان وغيغرنزر: الانحيازات المعرفية مقابل الحدس التكيفي", type: "حوار مع مدرسة مجاورة"
+- id: "dia-kahneman-gigerenzer-heuristics", title: "سجال كانمان وغيغرنزر 1996: مجلة Psychological Review", type: "حوار مع مدرسة مجاورة"
 - id: "exp-aaron-beck-depression-anger-inward", title: "أبحاث بيك المبكرة واكتشاف التشوهات المعرفية بدلاً من الغضب المكبوت", type: "خبرة معيشة"
 - id: "trm-heuristics-and-biases-kahneman", title: "الاستدلالات التقريبية والانحيازات المعرفية (Heuristics & Biases)", type: "مصطلح لغوي متنازع عليه"
 - id: "met-beck-automatic-tapes", title: "الأشرطة التلقائية المسجلة لآرون بيك: استعارة الأفكار التلقائية المشوهة", type: "استعارة/مجاز مؤسِّس"

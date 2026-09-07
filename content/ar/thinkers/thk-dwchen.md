@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-phenomenological-research-methodology", target_type: "مدرسة"
 related:
 - id: "thk-moustakas", title: "كلارك موستاكاس", type: "مفكر"
-- id: "thk-eengelhardt", title: "هيوغز إنغلهارت", type: "مفكر"
+- id: "thk-eengelhardt", title: "هـ. تريسترام إنغلهارت الابن", type: "مفكر"
 - id: "thk-mvanmanen", title: "ماكس فان مانن", type: "مفكر"
 gaps:
   - "بطاقة السيرة والإنتاج المعرفي لم تُراجع من مصدر أولي."

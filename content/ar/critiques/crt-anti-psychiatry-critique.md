@@ -20,7 +20,7 @@ related:
 - id: "crt-diagnosis-feminist", title: "نقد التشخيص: المنظور النسوي", type: "نقد خارجي موثَّق"
 - id: "crt-forced-treatment-ethics", title: "أخلاقيات العلاج القسري", type: "نقد خارجي موثَّق"
 - id: "crt-medicalization-of-poverty", title: "التطبيب للفقر: تفسير المرضي للمشكلات الاجتماعية", type: "نقد خارجي موثَّق"
-- id: "dbt-mental-illness-social-construction", title: "جِدَل الْمَرَض النَّفْسِيّ كَبِنَاء اِجْتِمَاعِيّ", type: "جدل"
+- id: "dbt-mental-illness-social-construction", title: "جدل التصنيف النفسي كبناء اجتماعي: روزنهان ضد سبيتزر", type: "جدل"
 gaps:
   - "تفاصيل Szasz (1974) *The Age of Madness* — لا اقتباس مباشر."
   - "موقف Szasz من 'Troubled Persons Industry' — لا اقتباس."

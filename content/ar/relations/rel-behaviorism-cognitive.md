@@ -19,10 +19,10 @@ related:
 - id: "br-neobehaviorism", title: "السلوكية الجديدة (النيوسلوكية)", type: "تيار"
 - id: "br-social-learning-theory", title: "نظرية التعلم الاجتماعي والمعرفي", type: "تيار"
 - id: "thk-jwatson", title: "جون ب. واتسون", type: "مفكر"
-- id: "thk-fskinner", title: "ب. ف. سكينر", type: "مفكر"
+- id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 - id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
-- id: "thk-beck", title: "أرون ت. بيك", type: "مفكر"
-- id: "thk-ellis", title: "ألبرت إيليس", type: "مفكر"
+- id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
+- id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
 - id: "rel-cultural-feminist", title: "علم النفس النسوي والثقافي: من Gilligan إلى hooks", type: "علاقة بين مدرستين"
 gaps:
   - "تاريخ 'الثورة المعرفية' (Miller, Galanter, Pribram 1960 — Plans and the Structure of Behavior) ككتاب مفصلي في إقرار العمليات الذهنية في علم النفس التجريبي يحتاج مراجعة نصية."

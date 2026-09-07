@@ -14,7 +14,7 @@ edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "dis-dissociative-identity", title: "اضطراب الهوية التفارقي", type: "اضطراب/حالة إكلينيكية"
-- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري للطب النفسي: DSM كأداة 'للنفسي الإمبراطوري'", type: "نقد خارجي موثَّق"
+- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري لـ DSM: التصنيف كخريطة جيوسياسية للمعاناة المقبولة", type: "نقد خارجي موثَّق"
 - id: "syn-ahfa-arabian", title: "متلازمة الأحفاء والصرع الروحي في البادية العربية", type: "متلازمة"
 - id: "con-dissociation", title: "الانفصال (Dissociation)", type: "مفهوم"
 gaps:

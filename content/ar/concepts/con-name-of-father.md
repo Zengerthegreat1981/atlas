@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
 - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
-- id: "wrk-ecrits", title: "الكتابات (Écrits) — جاك لوكان", type: "عمل"
+- id: "wrk-ecrits", title: "الكتابات (Écrits) — جاك لاكان", type: "عمل"
 - id: "con-oedipus-complex", title: "عقدة أوديب (الدينامية النفسية الجنسية في التحليل النفسي)", type: "مفهوم"
 - id: "thk-jcmilner", title: "جان-كلود ميلنر", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"

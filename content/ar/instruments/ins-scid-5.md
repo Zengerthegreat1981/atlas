@@ -17,7 +17,7 @@ evidence_level: "أداة راسخة ومعتمدة على نطاق واسع ف�
 edges:
   []
 related:
-- id: "dbt-categorical-vs-dimensional", title: "جدل التصنيف الفئوي (DSM) مقابل التشخيص الأبعادي (HiTOP / RDoC)", type: "جدل"
+- id: "dbt-categorical-vs-dimensional", title: "جدل التصنيف الفئوي مقابل الأبعادي (نسخة موجزة ومُحالة)", type: "جدل"
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-schizophrenia", title: "الفصام", type: "اضطراب/حالة إكلينيكية"
 gaps: []

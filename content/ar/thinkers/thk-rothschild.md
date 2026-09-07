@@ -18,7 +18,7 @@ related:
 - id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
 - id: "thk-pogden", title: "بات أوغدن", type: "مفكر"
 - id: "thk-dgrand", title: "ديفيد غراند", type: "مفكر"
-- id: "thk-lrosenzweig", title: "لانا روزنغر", type: "مفكر"
+- id: "thk-lrosenzweig", title: "لايني روزنزويغ", type: "مفكر"
 - id: "thk-besselvanderkolk", title: "بِسِل فَن دِر كولك", type: "مفكر"
 - id: "con-somatic-memory", title: "الذَّاكِرَة الْجِسَدِيَّة (Somatic Memory)", type: "مفهوم"
 gaps:

@@ -13,7 +13,7 @@ event_place: "الولايات المتحدة"
 country: "الولايات المتحدة"
 part: "psychology"
 related:
-- id: "classification-dsm-5-tr", title: "الدليل التشخيصي والإحصائي للاضطرابات النفسية - الإصدار الخامس المنقح (DSM-5-TR)", type: "اضطراب/حالة إكلينيكية"
+- id: "classification-dsm-5-tr", title: "الدليل التشخيصي والإحصائي للاضطرابات النفسية، النسخة الخامسة المنقَّحة (DSM-5-TR)", type: "اضطراب/حالة إكلينيكية"
 - id: "thk-rspitzer", title: "روبرت سبيتزر", type: "مفكر"
 - id: "evt-europsy-standard-2001", title: "إقرار معيار يوروبسي للشهادة المهنية الأوروبية في علم النفس", type: "حدث تاريخي"
 gaps:

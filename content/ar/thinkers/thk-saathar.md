@@ -15,7 +15,7 @@ crumb: "علم النفس الإيجابي الإسلامي ← كاتب إسل�
 edges:
 - rel: "belongs_to", target: "br-islamic-positive-psychology", target_type: "تيار"
 related:
-- id: "thk-aabdelkhalek", title: "أمجد عبد الخالق", type: "مفكر"
+- id: "thk-aabdelkhalek", title: "أحمد محمد عبد الخالق", type: "مفكر"
 - id: "thk-mbadri", title: "مالك بدري", type: "مفكر"
 - id: "thk-rhassan", title: "رفة حسن", type: "مفكر"
 - id: "br-islamic-positive-psychology", title: "علم النفس الإيجابي الإسلامي", type: "تيار"

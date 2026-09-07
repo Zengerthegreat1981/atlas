@@ -25,7 +25,7 @@ related:
 - id: "thk-gcecchin", title: "جيانفرانكو تشيكين", type: "مفكر"
 - id: "con-paradoxical-intervention", title: "التدخل المتناقض", type: "مفهوم"
 - id: "con-circular-questioning", title: "الأسئلة الدائرية", type: "مفهوم"
-- id: "thk-cprata", title: "كارلو براتا", type: "مفكر"
+- id: "thk-cprata", title: "جوليانا براتا", type: "مفكر"
 - id: "thk-llosi", title: "لوكا لوزي", type: "مفكر"
 - id: "thk-lonan", title: "لويجي أونيس", type: "مفكر"
 - id: "thk-mandolfi", title: "ماورو أندولفي", type: "مفكر"

@@ -21,7 +21,7 @@ related:
 - id: "thk-khorney", title: "كارين هورني", type: "مفكر"
 - id: "thk-fromm", title: "إريك فروم", type: "مفكر"
 - id: "thk-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"
-- id: "thk-cthompson", title: "كلارا طومسون", type: "مفكر"
+- id: "thk-cthompson", title: "كلارا تومسون", type: "مفكر"
 - id: "thk-fromm-reichmann", title: "فريدا فروم-رايخمان", type: "مفكر"
 gaps:
   - "دور معهد وايت (William Alanson White Institute) بنيويورك كمركز مؤسسي للفرويدية الجديدة والتحليل البيني-الشخصي."

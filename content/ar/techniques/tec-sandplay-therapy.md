@@ -18,7 +18,7 @@ edges:
 related:
 - id: "dis-autism-spectrum", title: "اضطراب طيف التوحد", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-play-therapy-branches", title: "العلاج باللعب ومداخله المتعددة", type: "تقنية/تدخل علاجي"
-- id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "con-family-sandplay", title: "علاج الأسر الرملية", type: "مفهوم"
 gaps:
   - "ابتكار دورا كالف (Dora Kalff) المعتمد على تقنية العالم لمارغريت لوينفيلد والنظرية اليونغية للأركيتايبات."

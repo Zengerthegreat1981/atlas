@@ -12,8 +12,8 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-solution-focused", target_type: "مدرسة"
 related:
-- id: "thk-sdeshacer", title: "ستيف دي شازر", type: "مفكر"
-- id: "crt-popper-critique-of-historicism", title: "نقد بوبر للتاريخانية", type: "نقد خارجي موثَّق"
+- id: "thk-sdeshacer", title: "ستيف دي شيزر", type: "مفكر"
+- id: "crt-popper-critique-of-historicism", title: "نقد بوبر للنزعة التاريخية والشمولية في الفلسفة", type: "نقد خارجي موثَّق"
 - id: "crt-replication-crisis", title: "أزمة التكرار", type: "نقد خارجي موثَّق"
 - id: "crt-baudrillard-critique-of-hyperreality", title: "نقد بودريار للمحاكاة الفائقة واختفاء الواقع", type: "نقد خارجي موثَّق"
 - id: "crt-feminist-critique-behaviorism", title: "النقد النسوي للسلوكية: نزع الجنسانية عن الإشراط الجنسي", type: "نقد خارجي موثَّق"

@@ -19,7 +19,7 @@ related:
 - id: "con-taijin-kyofusho-concept", title: "تاي جين كيو فوشو (مفهوم ثقافي)", type: "مفهوم"
 - id: "dis-social-anxiety-disorder", title: "اضطراب القلق الاجتماعي", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-body-dysmorphic-disorder", title: "اضطراب خلل التشكّل الجسدي", type: "اضطراب/حالة إكلينيكية"
-- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري للطب النفسي: DSM كأداة 'للنفسي الإمبراطوري'", type: "نقد خارجي موثَّق"
+- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري لـ DSM: التصنيف كخريطة جيوسياسية للمعاناة المقبولة", type: "نقد خارجي موثَّق"
 gaps:
   - "الدراسات المقارنة بين TKS واضطراب القلق الاجتماعي الغربي لم تُوثّق بدقة كافية."
   - "لا يوجد كود DSM-5-TR أو ICD-11 مستقل لهذه المتلازمة؛ يُدرَج TKS في DSM-5/5-TR ضمن ملحق «المفاهيم الثقافية للضيق» (Cultural Concepts of Distress) لا كفئة تشخيصية قائمة بذاتها، وICD-11 لا يفردها برمز مستقل — لذا الحقلان null هنا وليسا سهواً."

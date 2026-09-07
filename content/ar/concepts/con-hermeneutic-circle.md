@@ -14,7 +14,7 @@ edges:
 - rel: "belongs_to", target: "sch-hermeneutics", target_type: "مدرسة"
 related:
 - id: "thk-gadamer", title: "هانز-غيورغ غادامير", type: "مفكر"
-- id: "thk-heidegger", title: "مارتن هايدغر", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "sch-hermeneutics", title: "الهرمنيوطيقا الفلسفية", type: "مدرسة"
 gaps:
   - "الفرق بين 'الدائرة' عند شلايرماخر وعند هايدغر وعند غادامير لم يُحلّل في هذا الملف."

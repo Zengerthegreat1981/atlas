@@ -15,7 +15,7 @@ edges:
 related:
 - id: "dis-brief-psychotic", title: "الذهان القصير", type: "اضطراب/حالة إكلينيكية"
 - id: "syn-ataque-de-nervios", title: "نوبة الأعصاب", type: "متلازمة"
-- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري للطب النفسي: DSM كأداة 'للنفسي الإمبراطوري'", type: "نقد خارجي موثَّق"
+- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري لـ DSM: التصنيف كخريطة جيوسياسية للمعاناة المقبولة", type: "نقد خارجي موثَّق"
 - id: "con-dionysian-vs-apollonian", title: "الثنائية الأبولونية والديونيزية في الفن والوجود", type: "مفهوم"
 gaps:
   - "الدراسات السيكياترية العابرة للثقافات في ملحق DSM-5-TR."

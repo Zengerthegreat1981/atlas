@@ -15,7 +15,7 @@ related:
 - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
 - id: "thk-jkabat-zinn", title: "جون كابات زين", type: "مفكر"
-- id: "sch-gestalt-therapy", title: "العلاج الجشطلتي", type: "مدرسة"
+- id: "sch-gestalt-therapy", title: "علاج الجشطالت (Gestalt Therapy)", type: "مدرسة"
 - id: "con-self-actualization", title: "تحقيق الذات", type: "مفهوم"
 - id: "con-self-actualization-maslow", title: "تحقيق الذات عند ماسلو", type: "مفهوم"
 - id: "con-actualizing-tendency", title: "نزعة التحقق الذاتي", type: "مفهوم"

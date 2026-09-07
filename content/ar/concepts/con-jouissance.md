@@ -18,7 +18,7 @@ related:
 - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-- id: "wrk-ecrits", title: "الكتابات (Écrits) — جاك لوكان", type: "عمل"
+- id: "wrk-ecrits", title: "الكتابات (Écrits) — جاك لاكان", type: "عمل"
 - id: "con-pleasure", title: "اللذة", type: "مفهوم"
 gaps:
   - "لم يُدرَج اقتباس أولي موثّق في هذه المسودة."

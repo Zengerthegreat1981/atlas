@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
 - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
-- id: "exp-fanon-martinique-french-racism", title: "صدمة فانون بفرنسا", type: "خبرة معيشة"
+- id: "exp-fanon-martinique-french-racism", title: "صدمة فرانتز فانون في ليون الفرنسية وصرخة «انظر، إنه زنجي!»", type: "خبرة معيشة"
 gaps:
   - "رقم الشهداء الجزائريين محل خلاف تاريخي حاد: الرواية الرسمية الجزائرية تقول مليون ونصف مليون، بينما يقدّره مؤرخون (مثل بنيامين ستورا) بما بين 300 و400 ألف — لم يُحسم هنا تفادياً لعرض رقم متنازع عليه كحقيقة مؤكدة."
 ---

@@ -20,7 +20,7 @@ related:
 - id: "thk-boscolo", title: "لويجي بوسكولو", type: "مفكر"
 - id: "thk-diclemente", title: "كارلو دي كليمنتي", type: "مفكر"
 - id: "thk-goldfried", title: "مارفين غولدفريد", type: "مفكر"
-- id: "thk-hohagen", title: "فريدريش هوهاغن", type: "مفكر"
+- id: "thk-hohagen", title: "فريتز هوهاغن", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي بعد."
 ---

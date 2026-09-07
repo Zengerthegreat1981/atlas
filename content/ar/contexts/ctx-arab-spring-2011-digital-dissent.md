@@ -12,7 +12,7 @@ active_end: 2013
 edges:
 - rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
-- id: "ctx-arabic-nahda", title: "سياق النهضة العربية", type: "سياق/تقليد"
+- id: "ctx-arabic-nahda", title: "سياق عصر النهضة الفكرية والنفسية العربية وتحديث الفكر", type: "سياق/تقليد"
 - id: "ctx-iranian-revolution-1979-political-islam", title: "الثورة الإيرانية (1979)", type: "سياق/تقليد"
 gaps:
   - "لم تُراجع مباشرة إحصاءات ضحايا كل ثورة قطرياً (تونس، مصر، ليبيا، سوريا، اليمن) من مصادر أممية أولية ضمن هذا المشروع."

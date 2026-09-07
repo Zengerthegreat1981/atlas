@@ -18,7 +18,7 @@ related:
 - id: "thk-lindatuhiwai", title: "ليندا توهيواي سميث", type: "مفكر"
 - id: "sch-kaupapa-maori", title: "Kaupapa Māori (فلسفة الماوري)", type: "مدرسة"
 - id: "con-te-whare-tapa-wha", title: "تي-فاري-تابا-فا (Te Whare Tapa Whā)", type: "مفهوم"
-- id: "thk-cherylfairbairn", title: "شيريل فيربيرن", type: "مفكر"
+- id: "thk-cherylfairbairn", title: "بيغي فيربيرن-دانلوب", type: "مفكر"
 - id: "thk-janicewilliams", title: "جانيس ويليامز", type: "مفكر"
 - id: "thk-michaelsweeting", title: "مايكل سويتنغ", type: "مفكر"
 - id: "thk-pipitea", title: "مايكل بيبيتي", type: "مفكر"

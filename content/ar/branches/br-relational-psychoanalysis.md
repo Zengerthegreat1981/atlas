@@ -20,7 +20,7 @@ related:
 - id: "thk-mitchell", title: "ستيفن ميتشل", type: "مفكر"
 - id: "thk-jbenjamin", title: "جيسيكا بنجامين", type: "مفكر"
 - id: "thk-bromberg", title: "فيليب برومبرغ", type: "مفكر"
-- id: "thk-chodorow", title: "نانسي شودورو", type: "مفكر"
+- id: "thk-chodorow", title: "نانسي تشودورو", type: "مفكر"
 - id: "thk-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"
 gaps:
   - "التمييز بين التحليل العلائقي كحركة واسعة ونظرية البين-ذاتية وسيكولوجيا الذات يحتاج تدقيقاً."

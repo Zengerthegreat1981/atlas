@@ -18,7 +18,7 @@ related:
 - id: "tec-cpt", title: "علاج المعالجة المعرفية (CPT)", type: "تقنية/تدخل علاجي"
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-prolonged-exposure", title: "التعرض المطوّل (PE)", type: "تقنية/تدخل علاجي"
-- id: "dbt-emdr-vs-cbt", title: "جِدَل EMDR ضِد CBT لِـ**PTSD**", type: "جدل"
+- id: "dbt-emdr-vs-cbt", title: "جدل EMDR ضد CBT المركز على الصدمة لاضطراب ما بعد الصدمة", type: "جدل"
 - id: "thk-shiggins", title: "ستيفن تي. هيغينز", type: "مفكر"
 - id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
 - id: "thk-ecker", title: "بروس إيكر", type: "مفكر"

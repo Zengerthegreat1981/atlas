@@ -13,7 +13,7 @@ edges:
 - rel: "relates_to", target: "sch-clinical-mindfulness", target_type: "مدرسة"
 related:
 - id: "crt-commodification-critique", title: "النقد الاقتصادي/التسليعي لـ'صناعة العافية' و'صناعة الإيجابية'", type: "نقد خارجي موثَّق"
-- id: "dbt-mindfulness-clinical-vs-spiritual", title: "جِدَل الْيَقَظَة كَأَدَاة عِلَاجِيّة ضِد كَمَارَسَة رُوحِيّة", type: "جدل"
+- id: "dbt-mindfulness-clinical-vs-spiritual", title: "جدل اليقظة كأداة علاجية ضد ممارسة روحية", type: "جدل"
 - id: "crt-critique-of-solution-focused", title: "نقد الْعِلَاج الْمُرْكَز عَلَى الْحَلّ: هَل «تَجَاهُل الْمَشْكَلَة» هُوَ نَفْسُه مَشْكَلَة؟", type: "نقد خارجي موثَّق"
 - id: "crt-baudrillard-critique-of-hyperreality", title: "نقد بودريار للمحاكاة الفائقة واختفاء الواقع", type: "نقد خارجي موثَّق"
 - id: "crt-feminist-critique-behaviorism", title: "النقد النسوي للسلوكية: نزع الجنسانية عن الإشراط الجنسي", type: "نقد خارجي موثَّق"

@@ -15,7 +15,7 @@ part: "philosophy"
 edges:
 - rel: "belongs_to", target: "حركات مثيرة للجدل", target_type: "مدرسة"
 related:
-- id: "con-recovered-memory-controversy", title: "جدل الذاكرة المُستعادة", type: "مفهوم"
+- id: "con-recovered-memory-controversy", title: "الجدل حول الذاكرة المُستعادة", type: "مفهوم"
 - id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
 - id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
 - id: "br-sikolohiyang-pilipino", title: "علم النفس الفلبيني الأصيل (إنريكيز)", type: "تيار"

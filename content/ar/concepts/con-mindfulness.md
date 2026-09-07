@@ -24,7 +24,7 @@ related:
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
 - id: "con-cognitive-decentering", title: "اللامركزية المعرفية", type: "مفهوم"
 - id: "con-cognitive-defusion", title: "فصل الأفكار (Cognitive Defusion) في ACT", type: "مفهوم"
-- id: "dbt-mindfulness-clinical-vs-spiritual", title: "جِدَل الْيَقَظَة كَأَدَاة عِلَاجِيّة ضِد كَمَارَسَة رُوحِيّة", type: "جدل"
+- id: "dbt-mindfulness-clinical-vs-spiritual", title: "جدل اليقظة كأداة علاجية ضد ممارسة روحية", type: "جدل"
 gaps:
   - "الترجمة العربية لـ 'mindfulness' تختلف ('اليقظة الذهنية'، 'الانتباه'، 'الوعي الحاضر') — اعتمدنا 'اليقظة الذهنية' الأكثر شيوعاً."
   - "نقد McMindfulness (التسويق العصبي) موثّق جزئياً."

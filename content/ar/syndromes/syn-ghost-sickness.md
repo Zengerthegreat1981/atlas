@@ -15,7 +15,7 @@ edges:
 related:
 - id: "dis-prolonged-grief", title: "اضطراب الحزن المطوّل", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-acute-stress-disorder", title: "اضطراب الكرب الحاد", type: "اضطراب/حالة إكلينيكية"
-- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري للطب النفسي: DSM كأداة 'للنفسي الإمبراطوري'", type: "نقد خارجي موثَّق"
+- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري لـ DSM: التصنيف كخريطة جيوسياسية للمعاناة المقبولة", type: "نقد خارجي موثَّق"
 - id: "syn-tsunami-ghosts", title: "متلازمة أشباح تسونامي والصدمة التفارقية الجمعية", type: "متلازمة"
 - id: "con-grief", title: "الحزن كمسار للتفريد", type: "مفهوم"
 gaps:

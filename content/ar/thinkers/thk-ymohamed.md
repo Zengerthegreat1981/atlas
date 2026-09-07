@@ -14,7 +14,7 @@ part: "psychology"
 crumb: "علم النفس الإيجابي الإسلامي ← المؤسسة ← ياسين محمد"
 edges: []
 related:
-- id: "thk-aabdelkhalek", title: "أمجد عبد الخالق", type: "مفكر"
+- id: "thk-aabdelkhalek", title: "أحمد محمد عبد الخالق", type: "مفكر"
 - id: "thk-ibn-taymiyya", title: "تقي الدين أبو العباس أحمد ابن تيمية", type: "مفكر"
 gaps:
   - "نص أطروحته للدكتوراه في Frankfurt (1986) لم يُقرأ مباشرة."

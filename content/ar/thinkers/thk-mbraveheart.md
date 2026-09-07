@@ -22,7 +22,7 @@ related:
 - id: "sch-liberation-psychology", title: "علم نفس التحرر", type: "مدرسة"
 - id: "thk-jgone", title: "جوزيف ب. غون", type: "مفكر"
 - id: "con-historical-trauma", title: "الصدمة التاريخية (Historical Trauma)", type: "مفهوم"
-- id: "ctx-transgenerational-epigenetics-trauma", title: "ثورة علم الوراثة اللاجينية وإثبات انتقال الصدمات عبر الأجيال", type: "سياق/تقليد"
+- id: "ctx-transgenerational-epigenetics-trauma", title: "علم الوراثة اللاجينية وفرضية انتقال الصدمات عبر الأجيال: أدلة وحدودها", type: "سياق/تقليد"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: كاري ولترز (Karina Walters)، شريكتها في تطوير الإطار."
   - "سنة الميلاد الدقيقة غير موثّقة من مصدر أولي متاح؛ نشاطها الأكاديمي المنشور موثَّق من 1995."

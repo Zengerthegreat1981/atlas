@@ -17,7 +17,7 @@ edges:
 - rel: "developed_by", target: "thk-assagioli", target_type: "مفكر"
 related:
 - id: "thk-assagioli", title: "روبرتو أساجيولي", type: "مفكر"
-- id: "thk-jung", title: "كارل يونغ", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
 gaps:
   - "مخطط البيضة النفسية (The Egg Diagram) لروبرتو أساجيولي والمستويات الروحية واللاشعور الأعلى (Superconscious)."

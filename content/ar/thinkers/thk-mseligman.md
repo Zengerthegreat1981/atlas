@@ -27,7 +27,7 @@ related:
 - id: "con-flow", title: "التدفق (Flow)", type: "مفهوم"
 - id: "wrk-authentic-happiness", title: "السعادة الحقيقية", type: "عمل / كتاب"
 - id: "con-hedonic-treadmill", title: "جهاز المشي اللذائذي والتكيف مع السعادة (Hedonic Treadmill)", type: "مفهوم"
-- id: "crt-postcolonial-critique-cbt", title: "النقد ما بعد الاستعماري للعلاج المعرفي-السلوكي: 'العلم' كأداة إمبريالية", type: "نقد خارجي موثَّق"
+- id: "crt-postcolonial-critique-cbt", title: "النقد ما بعد الاستعماري للعلاج المعرفي-السلوكي: تصدير بروتوكول فردي كعلاج عالمي", type: "نقد خارجي موثَّق"
 - id: "stu-seligman-maier-learned-helplessness", title: "تجارب أوفيرماير وماير وسليجمان الأصلية في العجز المُتعلَّم لدى الكلاب", type: "دراسة وبحث"
 - id: "rel-humanistic-positive", title: "الإنسانية وعلم النفس الإيجابي: ابن ينسى أباه", type: "علاقة بين مدرستين"
 - id: "dbt-positivity-mandate-critique", title: "جِدَل الْإِيجَابِيّة كَوَاجِب: عِلْم النَّفْس الْإِيجَابِيّ ضِد نَقْد الْوَاجِب", type: "جدل"

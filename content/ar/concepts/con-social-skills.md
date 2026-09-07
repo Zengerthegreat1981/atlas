@@ -12,7 +12,7 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "thk-jcurran", title: "جوزيف ب. كورّان", type: "مفكر"
+- id: "thk-jcurran", title: "جيمس ب. كورّان", type: "مفكر"
 - id: "thk-rlindsl", title: "أورغن ر. ليندزلي", type: "مفكر"
 - id: "con-modeling", title: "النمذجة (التعلم بالملاحظة)", type: "مفهوم"
 gaps:

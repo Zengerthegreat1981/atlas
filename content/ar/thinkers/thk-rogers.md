@@ -37,7 +37,7 @@ related:
 - id: "rel-humanistic-existential-gestalt", title: "الإنسانية-الوجودية والجشطالتية: الجذور الظاهراتية المشتركة", type: "علاقة بين مدرستين"
 - id: "rel-integrative-humanistic-common-factors", title: "التكاملية (العامل المشترك) والإنسانية: الأم الأصلية", type: "علاقة بين مدرستين"
 - id: "rel-psychoanalysis-humanistic", title: "التحليل النفسي والإنسانية: من الانشقاق إلى تقاطع دافعي", type: "علاقة بين مدرستين"
-- id: "dbt-process-experiential-vs-cbt", title: "جِدَل عِلَاج الْعَمَلِيَّة التَّجْرِيبِيّة ضِد CBT", type: "جدل"
+- id: "dbt-process-experiential-vs-cbt", title: "جدل العلاج بالعملية التجريبية ضد العلاج المعرفي السلوكي", type: "جدل"
 - id: "crt-critique-of-humanistic-therapy", title: "نقد الْعِلَاج الْإِنْسَانِيّ: تَحْقِيق الذَّات أَمْ «**أَنَانِيَّة**» (Narcissism) مُتَعَالِيَة؟", type: "نقد خارجي موثَّق"
 - id: "thk-campbell-purton", title: "كامبيل پيرتون", type: "مفكر"
 gaps:

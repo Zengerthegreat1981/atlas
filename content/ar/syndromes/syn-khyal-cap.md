@@ -15,7 +15,7 @@ edges:
 related:
 - id: "dis-panic-disorder", title: "اضطراب الهلع", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة", type: "اضطراب/حالة إكلينيكية"
-- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري للطب النفسي: DSM كأداة 'للنفسي الإمبراطوري'", type: "نقد خارجي موثَّق"
+- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري لـ DSM: التصنيف كخريطة جيوسياسية للمعاناة المقبولة", type: "نقد خارجي موثَّق"
 - id: "con-qi-vital-energy", title: "التشي — الطاقة الحيوية والمادة السارية (Qi)", type: "مفهوم"
 gaps:
   - "أبحاث ديفون هينتون (Devon Hinton) حول الصدمات وهجمات الرياح لدى الناجين من الخمير الحمر."

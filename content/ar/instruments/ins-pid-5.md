@@ -17,7 +17,7 @@ evidence_level: "قوي"
 edges:
   []
 related:
-- id: "dbt-categorical-vs-dimensional", title: "جدل التصنيف الفئوي (DSM) مقابل التشخيص الأبعادي (HiTOP / RDoC)", type: "جدل"
+- id: "dbt-categorical-vs-dimensional", title: "جدل التصنيف الفئوي مقابل الأبعادي (نسخة موجزة ومُحالة)", type: "جدل"
 - id: "dis-narcissistic-personality", title: "اضطراب الشخصية النرجسية", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "رابط مقترح لـ«اضطراب الشخصية الحدية» (dis-borderline-personality) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

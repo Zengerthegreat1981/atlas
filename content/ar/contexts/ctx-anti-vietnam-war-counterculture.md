@@ -14,7 +14,7 @@ edges:
 related:
 - id: "ctx-paris-may-1968-intellectual", title: "أحداث مايو 1968 في باريس", type: "سياق/تقليد"
 - id: "ctx-esalen-institute-human-potential", title: "معهد إيسالن وميلاد حركة الإمكانات البشرية", type: "سياق/تقليد"
-- id: "evt-esalen-institute-founding-1962", title: "تأسيس معهد إيسالن 1962", type: "حدث"
+- id: "evt-esalen-institute-founding-1962", title: "تأسيس معهد إيسالن وانطلاق حركة الإمكانات البشرية في بيغ سور", type: "حدث"
 gaps:
   - "أعداد الضحايا والمجندين الأمريكيين في حرب فيتنام (نحو 58,000 قتيل أمريكي و2 مليون فيتنامي) لم تُراجع من مصدر عسكري أرشيفي أولي ضمن هذا المشروع."
 ---

@@ -14,7 +14,7 @@ edges:
 related:
 - id: "con-isolation", title: "العزلة", type: "مفهوم"
 - id: "thk-bugental", title: "بوجنتال", type: "مفكر"
-- id: "thk-mbuber", title: "مارتن بوبر", type: "مفكر"
+- id: "thk-mbuber", title: "مارتن بُبَر", type: "مفكر"
 - id: "con-chatbot-therapeutic-alliance", title: "التحالف العلاجي مع chatbot", type: "مفهوم"
 - id: "wrk-affect-regulation-mentalization", title: "تنظيم الوجدان والذهنية وتطور الذات", type: "عمل / كتاب"
 - id: "wrk-developing-mind", title: "العقل النامي: نحو علم نفس عصبي للعلاقات الشخصية", type: "عمل / كتاب"

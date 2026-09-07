@@ -12,9 +12,9 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
-- id: "crt-commodification-critique", title: "نقد التسليع", type: "نقد خارجي موثَّق"
+- id: "crt-commodification-critique", title: "النقد الاقتصادي/التسليعي لـ'صناعة العافية' و'صناعة الإيجابية'", type: "نقد خارجي موثَّق"
 - id: "crt-replication-crisis", title: "أزمة التكرار", type: "نقد خارجي موثَّق"
-- id: "crt-feminist-critique-psychoanalysis", title: "نقد نسوي", type: "نقد خارجي موثَّق"
+- id: "crt-feminist-critique-psychoanalysis", title: "النقد النسوي للتحليل النفسي: الذكورية البنيوية والازدواجية المعيارية", type: "نقد خارجي موثَّق"
 - id: "crt-critique-of-solution-focused", title: "نقد الْعِلَاج الْمُرْكَز عَلَى الْحَلّ: هَل «تَجَاهُل الْمَشْكَلَة» هُوَ نَفْسُه مَشْكَلَة؟", type: "نقد خارجي موثَّق"
 - id: "crt-baudrillard-critique-of-hyperreality", title: "نقد بودريار للمحاكاة الفائقة واختفاء الواقع", type: "نقد خارجي موثَّق"
 gaps:

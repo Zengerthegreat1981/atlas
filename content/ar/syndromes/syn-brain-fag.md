@@ -15,7 +15,7 @@ edges:
 related:
 - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-somatic-symptom-disorder", title: "اضطراب الأعراض الجسدية", type: "اضطراب/حالة إكلينيكية"
-- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري للطب النفسي: DSM كأداة 'للنفسي الإمبراطوري'", type: "نقد خارجي موثَّق"
+- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري لـ DSM: التصنيف كخريطة جيوسياسية للمعاناة المقبولة", type: "نقد خارجي موثَّق"
 - id: "con-mind-body", title: "مشكلة العقل والجسد", type: "مفهوم"
 gaps:
   - "الأبحاث الأصلية للبروفيسور توماس أدويي لامبو (Thomas Adeoye Lambo 1960) في نيجيريا."

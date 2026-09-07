@@ -15,7 +15,7 @@ edges:
 related:
 - id: "dis-panic-disorder", title: "اضطراب الهلع", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-dissociative-amnesia", title: "فقدان الذاكرة التفارقي", type: "اضطراب/حالة إكلينيكية"
-- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري للطب النفسي: DSM كأداة 'للنفسي الإمبراطوري'", type: "نقد خارجي موثَّق"
+- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري لـ DSM: التصنيف كخريطة جيوسياسية للمعاناة المقبولة", type: "نقد خارجي موثَّق"
 - id: "syn-locura", title: "متلازمة لوكورا (الذهان الانفجاري الحاد في أمريكا اللاتينية)", type: "متلازمة"
 - id: "con-grief", title: "الحزن كمسار للتفريد", type: "مفهوم"
 gaps:

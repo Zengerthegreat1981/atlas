@@ -15,7 +15,7 @@ edges:
 related:
 - id: "dis-intermittent-explosive", title: "اضطراب الانفجار المتقطع", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-brief-psychotic", title: "الذهان القصير", type: "اضطراب/حالة إكلينيكية"
-- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري للطب النفسي: DSM كأداة 'للنفسي الإمبراطوري'", type: "نقد خارجي موثَّق"
+- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري لـ DSM: التصنيف كخريطة جيوسياسية للمعاناة المقبولة", type: "نقد خارجي موثَّق"
 - id: "con-shame-guilt", title: "الخزي والذنب", type: "مفهوم"
 gaps:
   - "التوثيق التاريخي لمصطلح Amok في الأدبيات الاستعمارية البريطانية في ماليزيا (كابتن كوك 1770)."

@@ -14,7 +14,7 @@ edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "dis-dissociative-amnesia", title: "فقدان الذاكرة التفارقي", type: "اضطراب/حالة إكلينيكية"
-- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري للطب النفسي: DSM كأداة 'للنفسي الإمبراطوري'", type: "نقد خارجي موثَّق"
+- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري لـ DSM: التصنيف كخريطة جيوسياسية للمعاناة المقبولة", type: "نقد خارجي موثَّق"
 - id: "syn-jumping-frenchmen", title: "متلازمة قفز رجال ولاية مين (فرط الإجفال والمحاكاة القهرية)", type: "متلازمة"
 - id: "con-unconscious", title: "اللاشعور / اللاوعي النفسي الكلاسيكي (The Unconscious)", type: "مفهوم"
 gaps:

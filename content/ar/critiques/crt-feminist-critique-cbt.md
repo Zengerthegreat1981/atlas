@@ -12,9 +12,9 @@ part: "psychology"
 edges:
 - rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "thk-beck", title: "أرون ت. بيك", type: "مفكر"
-- id: "thk-ellis", title: "ألبرت إيليس", type: "مفكر"
-- id: "thk-jherman", title: "جوديث هرمن", type: "مفكر"
+- id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
+- id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
+- id: "thk-jherman", title: "جوديث هِرمان", type: "مفكر"
 - id: "thk-lbrown", title: "لورا س. براون", type: "مفكر"
 - id: "br-feminist-therapy", title: "العلاج النفسي النسوي", type: "تيار"
 - id: "br-cb-sex-therapy", title: "العلاج الجنسي المعرفي السلوكي", type: "تيار"

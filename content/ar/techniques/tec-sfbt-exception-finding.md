@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-solution-focused", target_type: "مدرسة"
 related:
 - id: "sch-solution-focused", title: "العلاج المختصر القائم على الحل (SFBT)", type: "مدرسة"
-- id: "thk-sdeshacer", title: "ستيف دي شازر", type: "مفكر"
+- id: "thk-sdeshacer", title: "ستيف دي شيزر", type: "مفكر"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."

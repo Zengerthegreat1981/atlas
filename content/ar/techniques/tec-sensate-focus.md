@@ -12,7 +12,7 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-sex-therapy", target_type: "تيار"
 related:
-- id: "thk-hkaplan", title: "هيلين كابلان", type: "مفكر"
+- id: "thk-hkaplan", title: "هيلين سنغر كابلان", type: "مفكر"
 - id: "br-sex-therapy", title: "العلاج الجنسي", type: "تيار"
 - id: "dis-delayed-ejaculation", title: "تأخر القذف", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-erectile-disorder", title: "اضطراب الانتصاب", type: "اضطراب/حالة إكلينيكية"
