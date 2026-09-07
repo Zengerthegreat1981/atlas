@@ -12,7 +12,6 @@ active_start: 1975
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "الدعم والتأهيل النفسي-الاجتماعي", target_type: "مدرسة"
 related:
 - id: "thk-pdeegan", title: "باتريشا ديجان", type: "مفكر"
 - id: "thk-smead", title: "شيري ميد", type: "مفكر"

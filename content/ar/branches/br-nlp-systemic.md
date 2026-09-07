@@ -13,7 +13,6 @@ active_end: "مستمر"
 language: "الإنجليزية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "التنويم والهيبنوثيرابي", target_type: "مدرسة"
 - rel: "split_into", target: "tec-systemic-nlp-tad-james", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-rbandler", target_type: "مفكر"
 - rel: "developed_by", target: "thk-jgrind", target_type: "مفكر"

@@ -10,7 +10,7 @@ crumb: "التحليل النفسي ← جدالات علاجية ← جدل ج�
 active_start: 2010
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "sch-psychodynamic-therapy", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-wampold", title: "بروس وامبولد", type: "مفكر"
 - id: "dbt-psychodynamic-vs-cbt-effectiveness", title: "العلاج النفسي الديناميكي مقابل العلاج المعرفي السلوكي: مقارنة الفعالية", type: "جدل"

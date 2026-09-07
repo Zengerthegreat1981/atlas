@@ -9,8 +9,8 @@ crumb: "العلاقات بين المدارس ← العلاج الجدلي ا�
 language: "العربية"
 part: "psychology"
 edges:
-- rel: "connects", target: "العلاج الجدلي السلوكي (DBT)", target_type: "مدرسة"
-- rel: "connects", target: "اضطراب الشخصية الحدّية (BPD)", target_type: "مدرسة"
+- rel: "connects", target: "sch-dbt", target_type: "مدرسة"
+- rel: "connects", target: "dis-bpd", target_type: "مدرسة"
 related:
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 - id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "مدرسة"

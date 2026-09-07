@@ -16,7 +16,6 @@ edges:
 - rel: "belongs_to", target: "sch-indigenous-psychology", target_type: "مدرسة"
 - rel: "belongs_to", target: "sch-cross-cultural-psychology", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-ukim", target_type: "مفكر"
-- rel: "developed_by", target: "thk-jwberry", target_type: "مفكر"
 related:
 - id: "sch-indigenous-psychology", title: "علم نفس الشعوب الأصلية", type: "مدرسة"
 - id: "thk-ukim", title: "ويتشول كيم", type: "مفكر"

@@ -9,7 +9,7 @@ crumb: "العلاقات بين المدارس ← إزالة التحسس وإ�
 language: "العربية"
 part: "psychology"
 edges:
-- rel: "connects", target: "إزالة التحسس وإعادة المعالجة بحركات العين (EMDR)", target_type: "مدرسة"
+- rel: "connects", target: "tec-emdr", target_type: "مدرسة"
 - rel: "connects", target: "", target_type: "مدرسة"
 related:
 - id: "tec-emdr", title: "إزالة التحسس وإعادة المعالجة بحركات العين (EMDR)", type: "مدرسة"

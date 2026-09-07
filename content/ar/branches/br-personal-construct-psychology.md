@@ -14,7 +14,7 @@ language: "الإنجليزية"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
-- rel: "developed_by", target: "جورج كيلي", target_type: "مفكر"
+- rel: "developed_by", target: "thk-kelly-george", target_type: "مفكر"
 related:
 - id: "thk-kelly-george", title: "جورج ألكسندر كيلي", type: "مفكر"
 - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"

@@ -12,7 +12,6 @@ active_start: 1970
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "الدعم والتأهيل النفسي-الاجتماعي", target_type: "مدرسة"
 related:
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 - id: "thk-dbecker", title: "ديبورا بيكر", type: "مفكر"

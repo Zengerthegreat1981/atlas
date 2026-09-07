@@ -14,7 +14,6 @@ language: "الفرنسية"
 active_start: 1889
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-continental-philosophy", target_type: "مظلة"
 related:
 - id: "thk-bergson", title: "هنري برغسون", type: "مفكر"
 - id: "thk-deleuze", title: "جيل دولوز", type: "مفكر"

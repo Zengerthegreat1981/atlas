@@ -13,7 +13,6 @@ active_end: 1980
 language: "الإنجليزية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "حركات مثيرة للجدل", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-ajanov", target_type: "مفكر"
 related:
 - id: "thk-ajanov", title: "آرثر يانوف", type: "مفكر"

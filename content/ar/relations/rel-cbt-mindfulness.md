@@ -9,7 +9,7 @@ crumb: "العلاقات بين المدارس ← العلاج المعرفي �
 language: "العربية"
 part: "psychology"
 edges:
-- rel: "connects", target: "العلاج المعرفي السلوكي", target_type: "مدرسة"
+- rel: "connects", target: "sch-cbt", target_type: "مدرسة"
 - rel: "connects", target: "", target_type: "مدرسة"
 related:
 - id: "con-mindfulness", title: "", type: "مدرسة"

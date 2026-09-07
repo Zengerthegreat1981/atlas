@@ -10,7 +10,6 @@ active_start: 1990
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "br-race-culturally-aware", target_type: "تيار"
 related:
 - id: "con-intersectionality", title: "التقاطعية", type: "مفهوم"
 - id: "thk-deraldwing-sue", title: "ديرالد وينغ سو", type: "مفكر"

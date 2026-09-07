@@ -12,7 +12,6 @@ active_start: 1784
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "مدارس نادرة/متفرقة", target_type: "مدرسة"
 related:
 - id: "con-addiction", title: "الإدمان", type: "مفهوم"
 - id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"

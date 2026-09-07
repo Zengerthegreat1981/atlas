@@ -13,8 +13,7 @@ active_end: "مستمر"
 language: "الإنجليزية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "العلاج الجماعي/التعبيري/الفني", target_type: "مدرسة"
-- rel: "developed_by", target: "ياكوب ل. مورينو", target_type: "مفكر"
+- rel: "developed_by", target: "thk-jmoreno", target_type: "مفكر"
 related:
 - id: "thk-jmoreno", title: "جاكوب مورينو", type: "مفكر"
 - id: "thk-zmoreno", title: "زيركا ت. مورينو", type: "مفكر"

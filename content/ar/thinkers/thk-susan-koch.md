@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "العلاج بالحركة والرقص ← تطوير ← سوزان كوخ"
 edges:
-- rel: "belongs_to", target: "br-dance-movement-therapy", type: "تيار"
+- rel: "belongs_to", target: "tec-dance-movement-therapy", type: "تيار"
 related:
 - id: "thk-mchace", type: "مفكر", title: "ماريان تشيس"
 - id: "thk-tschoop", type: "مفكر", title: "ترودي شوپ"

@@ -15,8 +15,6 @@ active_start: null
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-indigenous-psychology", target_type: "مدرسة"
-- rel: "developed_by", target: "thk-cbartlett", target_type: "مفكر"
-- rel: "developed_by", target: "thk-amarshall", target_type: "مفكر"
 related:
 - id: "sch-indigenous-psychology", title: "علم نفس الشعوب الأصلية", type: "مدرسة"
 - id: "sch-indigenous-philosophy-contemporary", title: "فلسفات السكان الأصليين المعاصرة", type: "مدرسة"

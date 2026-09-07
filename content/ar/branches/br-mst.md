@@ -12,7 +12,6 @@ active_start: 1975
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "علاج الأطفال والوالدين", target_type: "مدرسة"
 related:
 - id: "thk-charles-glisson", title: "تشارلز غليسون", type: "مفكر"
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"

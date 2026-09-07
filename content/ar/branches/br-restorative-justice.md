@@ -12,7 +12,6 @@ active_start: 1970
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "العدالة والمجتمع", target_type: "مدرسة"
 related:
 - id: "thk-nancy-harness", title: "نانسي هارنِس", type: "مفكر"
 - id: "thk-erikpearson", title: "إريك پيرسون", type: "مفكر"

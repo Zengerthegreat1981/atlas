@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "العلاج بالتصوير الضوئي (PhotoTherapy) ← تطوير ← ماريان ستروم"
 edges:
-- rel: "belongs_to", target: "br-photo-therapy", type: "تيار"
+- rel: "belongs_to", target: "tec-phototherapy", type: "تيار"
 related:
 - id: "thk-jweiser", type: "مفكر", title: "جودي وايزر"
 - id: "thk-dkrauss", type: "مفكر", title: "ديفيد كراوس"

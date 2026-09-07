@@ -13,7 +13,7 @@ active_end: 2003
 part: "psychology"
 crumb: "العلاج بالحركة والرقص ← الناس ← بيني لويس"
 edges:
-- rel: "belongs_to", target: "br-dance-movement-therapy", target_type: "تيار"
+- rel: "belongs_to", target: "tec-dance-movement-therapy", target_type: "تيار"
 related:
 - id: "thk-mwhitehouse", title: "ماري ستاركس وايتهاوس", type: "مفكر"
 - id: "thk-mdileo", type: "مفكر", title: "مارينا ديلو"

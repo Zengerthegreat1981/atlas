@@ -53,8 +53,13 @@ FEMININE_HEADERS = {
 # عام، "العالم" بمعنى الكوكب/الدنيا) لا تشير لجنس صاحب/ة الملف، والضمير "هو/هي" كثيراً ما
 # يعود على مرجع محايد نحوياً ("الأمر"، "ما") لا على الشخص نفسه. الباقي أفعال/ألقاب لا تُستعمل
 # عادة إلا مسندة لشخص بعينه فالإشارة أدق.
-MALE_MARKERS = [r"وُلد\b", r"توفي\b", r"مفكر\b", r"طبيب\b"]
-FEMALE_MARKERS = [r"وُلدت\b", r"توفيت\b", r"مفكرة\b", r"طبيبة\b"]
+MALE_MARKERS = [r"وُلد\b", r"توفي\b", r"مفكر\b"]
+FEMALE_MARKERS = [r"وُلدت\b", r"توفيت\b", r"مفكرة\b"]
+# "طبيب/طبيبة" اتشالت بعد كذبة إيجابية في thk-vjohnson.md — فيرجينيا جونسون (مؤنث مؤكد من
+# "وُلدت"/"تُوفيت" في نفس الملف) بيتوصف فيها زميلها ماسترز بـ"الطبيب" في جملة عنها هي، فبيدّي
+# male_markers زيادة مزيفة رغم إن اللقب مش بيرجع عليها. اللقب المهني بيتكرر برضه لوصف
+# أطراف تالتة (معلّمين، أزواج، زملاء) أكتر من "مفكر/مفكرة" أو أفعال الميلاد/الوفاة اللي
+# بترجع على صاحب/ة الملف نفسه/ها بشكل شبه دايم.
 
 # القائمة السوداء الحرفية من MINIMAX.md وSPARK.md (نسخة مجمّعة، بلا تكرار) — preflight الأصلي
 # ما كانش بيفحصها، وده سبب تكرار نفس الغلطة (جملة القائمة السوداء جوه gaps أو "## اقتباسات
@@ -293,7 +298,29 @@ def check_dates_vs_body(node, raw_text, issues):
         break  # سنة واحدة كفاية كإشارة، مش عايزين نغرق التقرير
 
 
+_ALLCAPS_META_DOC_RE = re.compile(r"^[A-Z0-9_]+\.md$")
+
+
+def is_meta_doc(file_path):
+    """ملفات meta مشروع (زي MASTER_TAXONOMY_OUT_OF_SCOPE.md أو EXISTING_SLUGS.md تحت
+    content/ar/drafts/) مش عناصر محتوى فعلية — أسماؤها بحروف كبيرة بالكامل (ALL-CAPS)
+    عكس أي slug حقيقي في المشروع (كلها lowercase زي thk-x/br-x/con-x). مفيش داعي لـ
+    frontmatter YAML فيها، فمينفعش نفحصها زي ملفات المحتوى العادية.
+
+    وبالمثل، أي ملف تحت content/ar/_merged/ مُتقاعد أصلاً ومُستثنى نصّاً من بناء الأطلس
+    (build_atlas.py: `d != "drafts" and d != "_merged"`) — ملفات قديمة اتحلّت محلها
+    نسخة حية في مكان تاني، مش عناصر منشورة، فمفيش داعي preflight يفحصها."""
+    basename = os.path.basename(file_path)
+    dirname = os.path.basename(os.path.dirname(file_path))
+    norm = file_path.replace(os.sep, "/")
+    if "/content/ar/_merged/" in norm or norm.startswith("content/ar/_merged/"):
+        return True
+    return dirname == "drafts" and bool(_ALLCAPS_META_DOC_RE.match(basename))
+
+
 def check_file(file_path):
+    if is_meta_doc(file_path):
+        return []
     with open(file_path, "r", encoding="utf-8") as f:
         raw_text = f.read()
     node = parse_markdown(file_path)

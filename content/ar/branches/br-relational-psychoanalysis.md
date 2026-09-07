@@ -15,7 +15,7 @@ part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-mitchell", target_type: "مفكر"
-- rel: "developed_by", target: "جاي غرينبرغ", target_type: "مفكر"
+- rel: "developed_by", target: "thk-jgreenberg", target_type: "مفكر"
 related:
 - id: "thk-mitchell", title: "ستيفن ميتشل", type: "مفكر"
 - id: "thk-jbenjamin", title: "جيسيكا بنجامين", type: "مفكر"

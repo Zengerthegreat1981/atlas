@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "ABA للتوحد ← تطوير ← ريتشارد فُكْس"
 edges:
-- rel: "belongs_to", target: "br-aba", target_type: "تيار"
+- rel: "belongs_to", target: "br-aba-autism", target_type: "تيار"
 related:
 - id: "thk-fkeller", type: "مفكر", title: "فريد س. كيلّر"
 - id: "thk-bfskinner", type: "مفكر", title: "ب. ف. سكينر"

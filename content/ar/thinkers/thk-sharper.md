@@ -13,7 +13,6 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "تركيز الجسد والعقل (BMC) ← الإيقاع العصبي ← سوزان هاربر"
 edges:
-- rel: "belongs_to", target: "br-body-mind-centering", target_type: "تيار"
 related:
 - id: "thk-bbcohen", title: "بوني بينبريدج كوهن", type: "مفكر"
 - id: "thk-mhair", type: "مفكر", title: "مارغريت هار (BMC)"

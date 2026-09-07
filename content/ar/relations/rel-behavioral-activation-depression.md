@@ -9,8 +9,8 @@ crumb: "العلاقات بين المدارس ← التنشيط السلوكي
 language: "العربية"
 part: "psychology"
 edges:
-- rel: "connects", target: "التنشيط السلوكي (BA)", target_type: "مدرسة"
-- rel: "connects", target: "اضطراب الاكتئاب الجسيم (MDD)", target_type: "مدرسة"
+- rel: "connects", target: "tec-behavioral-activation", target_type: "مدرسة"
+- rel: "connects", target: "dis-mdd", target_type: "مدرسة"
 related:
 - id: "tec-behavioral-activation", title: "التنشيط السلوكي (BA)", type: "مدرسة"
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "مدرسة"

@@ -14,7 +14,7 @@ language: "الإنجليزية"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-- rel: "developed_by", target: "كارين هورني", target_type: "مفكر"
+- rel: "developed_by", target: "thk-khorney", target_type: "مفكر"
 - rel: "developed_by", target: "thk-fromm", target_type: "مفكر"
 - rel: "developed_by", target: "thk-sullivan", target_type: "مفكر"
 related:

@@ -13,7 +13,6 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "تركيز الجسد والعقل (Body-Mind Centering, BMC) ← البحوث الأكاديمية ← راشيل برايس"
 edges:
-- rel: "belongs_to", target: "br-body-mind-centering", target_type: "تيار"
 related:
 - id: "thk-bbcohen", title: "بوني بينبريدج كوهن", type: "مفكر"
 - id: "thk-sharper", title: "سوزان هاربر", type: "مفكر"

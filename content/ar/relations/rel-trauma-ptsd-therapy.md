@@ -10,7 +10,7 @@ language: "العربية"
 part: "psychology"
 edges:
 - rel: "connects", target: "", target_type: "مدرسة"
-- rel: "connects", target: "اضطراب الكرب التالي للصدمة (PTSD)", target_type: "مدرسة"
+- rel: "connects", target: "dis-ptsd", target_type: "مدرسة"
 related:
 - id: "br-sensorimotor-trauma-applications", title: "", type: "مدرسة"
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "مدرسة"

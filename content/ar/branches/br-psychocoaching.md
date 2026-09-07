@@ -12,7 +12,6 @@ active_start: 2000
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "الأداء والعلاج الرياضي", target_type: "مدرسة"
 related:
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 - id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"

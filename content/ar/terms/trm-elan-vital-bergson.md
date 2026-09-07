@@ -10,7 +10,6 @@ crumb: "فلسفة الحياة والفرنسية المعاصرة ← المص
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "sch-continental-philosophy", target_type: "مدرسة"
 related:
 - id: "thk-bergson", title: "هنري برغسون", type: "مفكر"
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"

@@ -12,7 +12,6 @@ active_start: 1972
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج المتخصص بالإعاقات", target_type: "مدرسة"
 related:
 - id: "thk-lhatch", title: "ليندا هاتش", type: "مفكر"
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"

@@ -17,7 +17,7 @@ cultural_origin: "anglo-american"
 edges:
 - rel: "belongs_to", target: "sch-buddhist-modernism", target_type: "مدرسة"
 - rel: "belongs_to", target: "br-psychodynamic-humanistic", target_type: "تيار"
-- rel: "developed_by", target: "paul-gilbert", target_type: "مفكر"
+- rel: "developed_by", target: "thk-pgilbert", target_type: "مفكر"
 related:
 - id: "thk-pgilbert", title: "بول جيلبرت", type: "مفكر"
 - id: "con-three-circles-emotion", title: "أنظمة تنظيم الانفعال الثلاثة", type: "مفهوم"

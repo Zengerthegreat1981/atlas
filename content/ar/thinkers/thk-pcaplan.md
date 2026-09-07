@@ -13,7 +13,7 @@ active_end: 2021
 part: "psychology"
 crumb: "العلاج النفسي النسوي ← الناس ← بولا كابلان"
 edges:
-- rel: "belongs_to", target: "br-feminist-psychology", target_type: "تيار"
+- rel: "belongs_to", target: "br-feminist-therapy", target_type: "تيار"
 related:
 - id: "thk-sbem", title: "ساندرا بيم", type: "مفكر"
 - id: "thk-jbmiller", title: "جين بيكر ميلر", type: "مفكر"

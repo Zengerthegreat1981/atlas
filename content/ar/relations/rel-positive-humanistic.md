@@ -10,7 +10,7 @@ language: "العربية"
 part: "psychology"
 edges:
 - rel: "connects", target: "", target_type: "مدرسة"
-- rel: "connects", target: "علم النفس الإنساني (Humanistic Psychology)", target_type: "مدرسة"
+- rel: "connects", target: "sch-humanistic", target_type: "مدرسة"
 related:
 - id: "rel-empiricism-behaviorism", title: "التجريبية البريطانية والمدرسة السلوكية", type: "علاقة بين مدرستين"
 - id: "rel-psychodynamic-attachment", title: "النظرية الديناميكية ونظرية التعلق: من Bowlby إلى Fonagy", type: "علاقة بين مدرستين"

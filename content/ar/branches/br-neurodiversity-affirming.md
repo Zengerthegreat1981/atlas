@@ -12,7 +12,6 @@ active_start: 2015
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "الجنس والهوية", target_type: "مدرسة"
 related:
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 - id: "con-neurodiversity-affirming", title: "الإرشاد المؤيد للتنوع العصبي", type: "مفهوم"

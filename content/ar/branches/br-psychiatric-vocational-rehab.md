@@ -12,7 +12,6 @@ active_start: 1980
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "الدعم والتأهيل النفسي-الاجتماعي", target_type: "مدرسة"
 related:
 - id: "thk-mgold", title: "مارك غولد", type: "مفكر"
 - id: "thk-fmodestin", title: "باتريك كوريغان", type: "مفكر"

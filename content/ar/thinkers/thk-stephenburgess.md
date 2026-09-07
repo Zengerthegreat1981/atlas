@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "طريقة فيلدنكرايس ← تطوير ← ستيفن بورغس"
 edges:
-- rel: "belongs_to", target: "br-feldenkrais", type: "تيار"
+- rel: "belongs_to", target: "tec-feldenkrais-method", type: "تيار"
 related:
 - id: "thk-mfeldenkrais", type: "مفكر", title: "موشيه فيلدنكرايس"
 gaps:

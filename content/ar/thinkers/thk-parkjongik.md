@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "الأطلس ← thinkers ← بارك جونغ-إيك"
 edges:
-- rel: "belongs_to", target: "sch-hwabyung", target_type: "مدرسة"
+- rel: "belongs_to", target: "dis-hwabyung", target_type: "مدرسة"
 related:
 - id: "thk-kimkwansung", title: "كيم كوان-سونغ", type: "مفكر"
 gaps:

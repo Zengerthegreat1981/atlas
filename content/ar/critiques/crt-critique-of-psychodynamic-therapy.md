@@ -10,7 +10,7 @@ crumb: "نقد ← الْعِلَاج النَّفْسَحَرَكِيّ"
 active_start: 1970
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "sch-psychodynamic-therapy", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "crt-popper-critique-psychoanalysis", title: "نقد بوبر للتحليل النفسي", type: "نقد خارجي موثَّق"
 - id: "crt-replication-crisis", title: "أزمة التكرار", type: "نقد خارجي موثَّق"

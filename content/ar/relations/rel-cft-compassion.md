@@ -10,7 +10,7 @@ language: "العربية"
 part: "psychology"
 edges:
 - rel: "connects", target: "", target_type: "مدرسة"
-- rel: "connects", target: "علم النفس البوذي (Buddhist Psychology)", target_type: "مدرسة"
+- rel: "connects", target: "sch-buddhist-psychology", target_type: "مدرسة"
 related:
 - id: "syn-compassion-fatigue", title: "", type: "مدرسة"
 - id: "sch-buddhist-psychology", title: "علم النفس البوذي (Buddhist Psychology)", type: "مدرسة"

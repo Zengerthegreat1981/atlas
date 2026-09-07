@@ -14,7 +14,7 @@ language: "الإسبانية"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
-- rel: "developed_by", target: "إغناسيو مارتين-بارو", target_type: "مفكر"
+- rel: "developed_by", target: "thk-imartinbaro", target_type: "مفكر"
 related:
 - id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي", type: "تيار"
 - id: "tec-anti-oppressive-practice", title: "الممارسة المناهضة للاضطهاد (AOP)", type: "تقنية/تدخل علاجي"

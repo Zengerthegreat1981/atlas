@@ -10,7 +10,6 @@ crumb: "فلسفة العلم ونظرية المعرفة ← المفاهيم �
 active_start: 1930
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "فلسفة العلوم", target_type: "مدرسة"
 related:
 - id: "axm-reductionism", title: "بديهية الاختزالية", type: "بديهية/مبدأ تأسيسي"
 - id: "axm-holism-gestalt", title: "مبدأ الكلية (Gestalt)", type: "بديهية/مبدأ تأسيسي"

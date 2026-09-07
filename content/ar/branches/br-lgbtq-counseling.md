@@ -12,7 +12,6 @@ active_start: 1973
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "الجنس والهوية", target_type: "مدرسة"
 related:
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 - id: "con-affirmative-therapy", title: "العلاج التأكيدي (Affirmative Therapy)", type: "مفهوم"

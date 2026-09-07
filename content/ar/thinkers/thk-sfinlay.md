@@ -13,7 +13,6 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "المدرسة الوجودية ← تطوير ← ستيفن فينلاي"
 edges:
-- rel: "belongs_to", target: "br-british-existential", type: "تيار"
 related:
 - id: "br-british-existential", type: "تيار", title: "الوجودي-الظاهراتي البريطاني"
 - id: "thk-evandeurzen", type: "مفكر", title: "إيريكا فان دورزن"

@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "علم النفس الفيدي ← تطوير ← ساتيانارايانا دورسوامي"
 edges:
-- rel: "belongs_to", target: "br-vedic-psychology", type: "تيار"
+- rel: "belongs_to", target: "sch-vedic", type: "تيار"
 related:
 - id: "thk-svami-akhilananda", type: "مفكر", title: "سوامي أخيلاناندا"
 - id: "thk-amncube", type: "مفكر", title: "ألبرت مْنكوبِي"

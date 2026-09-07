@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "التنويم الذاتي ← تطوير ← ستيغ راسموسن"
 edges:
-- rel: "belongs_to", target: "br-self-hypnosis", target_type: "تيار"
+- rel: "belongs_to", target: "tec-self-hypnosis-progressive", target_type: "تيار"
 related:
 - id: "thk-ecoue", type: "مفكر", title: "إميل كوي"
 - id: "thk-ovogt", type: "مفكر", title: "أوسكار فوغت"

@@ -10,8 +10,6 @@ crumb: "النقد الخارجي ← النقد النسوي ← نقد الت�
 active_start: 1970
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "الطب النفسي", target_type: "مدرسة"
-- rel: "relates_to", target: "علم النفس السريري", target_type: "مدرسة"
 related:
 - id: "crt-feminist-critique-behaviorism", title: "النقد النسوي للسلوكية", type: "نقد خارجي موثَّق"
 - id: "crt-borderline-gendered-diagnosis", title: "اضطراب الشخصية الحدية: تشخيص جندري؟", type: "نقد خارجي موثَّق"

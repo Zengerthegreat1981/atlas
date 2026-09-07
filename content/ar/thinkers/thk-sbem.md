@@ -13,7 +13,7 @@ active_end: 2014
 part: "psychology"
 crumb: "العلاج النفسي النسوي ← نظريات الجندر ← ساندرا بيم"
 edges:
-- rel: "belongs_to", target: "br-feminist-psychology", target_type: "تيار"
+- rel: "belongs_to", target: "br-feminist-therapy", target_type: "تيار"
 related:
 - id: "thk-pcaplan", title: "بولا كابلان", type: "مفكر"
 - id: "thk-jbmiller", title: "جين بيكر ميلر", type: "مفكر"

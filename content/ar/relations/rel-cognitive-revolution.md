@@ -10,7 +10,7 @@ language: "العربية"
 part: "psychology"
 edges:
 - rel: "connects", target: "", target_type: "مدرسة"
-- rel: "connects", target: "السلوكية (Behaviorism)", target_type: "مدرسة"
+- rel: "connects", target: "sch-behaviorism", target_type: "مدرسة"
 related:
 - id: "sch-behaviorism", title: "السلوكية (Behaviorism)", type: "مدرسة"
 - id: "rel-mbt-mentalization", title: "العلاج القائم على التنميط العقلي (MBT) وBateman & Fonagy", type: "علاقة بين مدرستين"

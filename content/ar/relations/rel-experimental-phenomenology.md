@@ -9,7 +9,7 @@ crumb: "العلاقات بين المدارس ← الظاهراتية (Phänom
 language: "العربية"
 part: "psychology"
 edges:
-- rel: "connects", target: "الظاهراتية (Phänomenologie)", target_type: "مدرسة"
+- rel: "connects", target: "sch-phenomenology", target_type: "مدرسة"
 - rel: "connects", target: "", target_type: "مدرسة"
 related:
 - id: "sch-phenomenology", title: "الظاهراتية (Phänomenologie)", type: "مدرسة"

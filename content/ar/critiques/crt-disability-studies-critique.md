@@ -10,7 +10,6 @@ active_start: 1990
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "relates_to", target: "الطب النفسي", target_type: "مدرسة"
 related:
 - id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي", type: "تيار"
 - id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي (النسوي والكويري وما بعد الكولونيالي)", type: "تيار"

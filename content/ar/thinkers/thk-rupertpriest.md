@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "طريقة فيلدنكرايس ← تطوير ← روبرت بريست"
 edges:
-- rel: "belongs_to", target: "br-feldenkrais", target_type: "تيار"
+- rel: "belongs_to", target: "tec-feldenkrais-method", target_type: "تيار"
 related:
 - id: "thk-mfeldenkrais", type: "مفكر", title: "موشيه فيلدنكرايس"
 - id: "thk-effinger", type: "مفكر", title: "إيلان إفينغر"

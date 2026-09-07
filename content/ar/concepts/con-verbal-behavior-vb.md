@@ -10,7 +10,7 @@ active_start: 1982
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "br-aba-advanced", target_type: "تيار"
+- rel: "belongs_to", target: "br-advanced-aba-prt-vb", target_type: "تيار"
 related:
 - id: "thk-lovaas", title: "إيفار لوفاس", type: "مفكر"
 gaps:

@@ -10,7 +10,6 @@ crumb: "علم الاجتماع والفلسفة الاجتماعية ← الم
 active_start: 1972
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "sch-sociology", target_type: "مدرسة"
 gaps:
   - "لا يوجد ملف thk-bourdieu معتمد في الأطلس بعد (طُلب slug جديد في agents_specs/requests-minimax.md، Task 9، 2026-09-01) — لذا لا يمكن ربط هذا الملف بصاحب المفهوم مباشرة حتى يُعتمد."
   - "الملف يتداخل مع con-habitus-bourdieu.md (مفهوم منفصل بنفس الموضوع) دون إحالة أو تمييز واضح بين الملفين — يحتاج قراراً تحريرياً (دمج أو تمييز نطاق)."

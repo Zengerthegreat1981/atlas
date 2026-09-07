@@ -14,7 +14,7 @@ language: "الإنجليزية"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-positive-psychology", target_type: "مدرسة"
-- rel: "developed_by", target: "مارتن سليغمان", target_type: "مفكر"
+- rel: "developed_by", target: "thk-mseligman", target_type: "مفكر"
 related:
 - id: "thk-wong", title: "بول وونغ", type: "مفكر"
 - id: "tec-positive-psychotherapy", title: "العلاج النفسي الإيجابي", type: "تقنية/تدخل علاجي"

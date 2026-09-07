@@ -9,7 +9,7 @@ crumb: "العلاقات بين المدارس ← علم النفس عبر ال
 language: "العربية"
 part: "psychology"
 edges:
-- rel: "connects", target: "علم النفس عبر الشخصي (Transpersonal Psychology)", target_type: "مدرسة"
+- rel: "connects", target: "sch-transpersonal", target_type: "مدرسة"
 - rel: "connects", target: "", target_type: "مدرسة"
 related:
 - id: "sch-transpersonal", title: "علم النفس عبر الشخصي (Transpersonal Psychology)", type: "مدرسة"

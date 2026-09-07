@@ -13,7 +13,6 @@ active_start: 1980
 active_end: "مستمر"
 crumb: "علم النفس المعرفي واللسانيات التطورية ← الناس ← ستيفن بينكر"
 edges:
-- rel: "belongs_to", target: "br-evolutionary-psychology", target_type: "تيار"
 related:
 - id: "thk-nchomsky", title: "نعوم تشومسكي", type: "مفكر"
 - id: "thk-daniel-dennett", title: "دانيال دينيت", type: "مفكر"
