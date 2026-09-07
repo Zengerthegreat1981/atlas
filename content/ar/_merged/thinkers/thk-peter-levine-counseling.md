@@ -21,7 +21,7 @@ related:
 - id: "con-somatic-experiencing", title: "تجربة الجسد", type: "مفهوم"
 gaps:
 - "لم تُراجع من نسخة أصلية مباشرة بعد (Levine, 1997, 2010)."
-- "لا يوجد اقتباس مباشر موثوق متاح."
+- "غياب اقتباس مباشر قابل للتحقق حتى الآن."
 - "الفرق بين Somatic Experiencing و Sensorimotor Psychotherapy يحتاج فصلاً."
 ---
 

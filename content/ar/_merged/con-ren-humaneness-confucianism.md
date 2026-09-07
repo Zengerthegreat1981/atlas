@@ -17,7 +17,7 @@ related:
 - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "التحليل الإبستمولوجي واللغوي الدقيق لتطور المفهوم عبر التاريخ."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم تُستكمل بعد مراجعة تؤكد نص اقتباس أصلي لهذا المدخل."
 ---
 
 # الرين — الإنسانية والمحبة الشاملة (Ren)
@@ -34,6 +34,5 @@ gaps:
 
 ## اقتباسات مختارة
 
-لا يوجد اقتباس مباشر موثوق متاح.
-
+لا تتضمن هذه الصفحة اقتباسات حرفية في الوقت الراهن، تفادياً لنسبة عبارات غير مؤكدة المصدر إلى هذا المفكر.
 # ⚠️ NOTE: This file was merged into con-confucian-ren on 2026-08-24 due to EN-duplicate. Original at content/ar/concepts/con-ren-humaneness-confucianism.md

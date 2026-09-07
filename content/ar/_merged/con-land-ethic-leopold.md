@@ -17,7 +17,7 @@ related:
 - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "التحليل الإبستمولوجي واللغوي الدقيق لتطور المفهوم عبر التاريخ."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر بعد على اقتباس موثّق يمكن نسبته بدقة لهذا المدخل."
 ---
 
 # أخلاق الأرض والمسؤولية البيئية (The Land Ethic)
@@ -34,6 +34,5 @@ gaps:
 
 ## اقتباسات مختارة
 
-لا يوجد اقتباس مباشر موثوق متاح.
-
+لم يُدرَج هنا أي اقتباس، لأن الفريق لم يتمكن حتى الآن من تتبّع نص دقيق ومسنَد إلى طبعة أو ترجمة موثوقة.
 # ⚠️ NOTE: This file was merged into con-land-ethic on 2026-08-24 due to EN-duplicate. Original at content/ar/concepts/con-land-ethic-leopold.md
