@@ -76,3 +76,7 @@ gaps:
 ## المصدر
 
 صاغه غلاسر في *Reality Therapy* (1965) وعرضه منهجياً في *Choice Theory: A New Psychology of Personal Freedom* (1998) و*Counseling with Choice Theory* (2001).
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

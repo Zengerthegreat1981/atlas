@@ -71,3 +71,7 @@ gaps:
 ## المصدر
 
 الجدل موثّق في: Mūlamadhyamakakārikā (ناغارجونا، القرن الثاني الميلادي)؛ Brahma Sūtra Bhāṣya (شانكارا، القرن الثامن الميلادي)؛ Indian Philosophy (س. رادهاكريشنان، 1923، مجلدان)؛ The Central Philosophy of Buddhism (ب. ك. ماتيلال، 1986)؛ The Concept of Emptiness in Pali Literature (ي. كارونداسا، 1989)؛ The Gelug/Kagyü Tradition of Mahamudra (الدالاي لاما الرابع عشر، 1997).
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

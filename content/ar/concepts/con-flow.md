@@ -83,3 +83,7 @@ gaps:
 - Csikszentmihalyi, M. (1990). *Flow: The Psychology of Optimal Experience*. Harper & Row.
 - Csikszentmihalyi, M. (1996). *Creativity*. HarperCollins.
 - Csikszentmihalyi, M., & LeFevre, J. (1989). Optimal experience in work and leisure. *Journal of Personality and Social Psychology*, 56(5), 815-822.
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

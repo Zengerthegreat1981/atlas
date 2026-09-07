@@ -165,3 +165,7 @@ ICD-11 (الكود 6B80) يحافظ على جوهر التعريف لكنه يُ
 - World Health Organization. (2019/2022). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - Fairburn, C. G. (2008). *Cognitive Behavior Therapy and Eating Disorders*. Guilford Press.
 - Lock, J., & Le Grange, D. (2015). *Treatment Manual for Anorexia Nervosa: A Family-Based Approach* (2nd ed.). Guilford Press.
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

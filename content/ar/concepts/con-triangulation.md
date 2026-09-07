@@ -62,3 +62,7 @@ gaps:
 
 Murray Bowen, "Family Therapy in Clinical Practice" (1978).
 Michael Kerr & Murray Bowen, "Family Evaluation" (1988).
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

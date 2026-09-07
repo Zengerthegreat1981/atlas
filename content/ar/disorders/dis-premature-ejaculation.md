@@ -117,3 +117,7 @@ gaps:
 - World Health Organization. (2019/2022). *ICD-11*. WHO.
 - McMahon, C. G., et al. (2008). "An Evidence-Based Definition of Lifelong Premature Ejaculation." *Journal of Sexual Medicine*.
 - Althof, S. E., et al. (2014). "International Society for Sexual Medicine's Guidelines for the Diagnosis and Treatment of Premature Ejaculation." *Journal of Sexual Medicine*.
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

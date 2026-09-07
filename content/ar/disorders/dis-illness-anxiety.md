@@ -186,3 +186,7 @@ ICD-11 يصنّف قلق المرض تحت 6C20.2 ضمن اضطرابات الأ
 - Abramowitz, J. S., & Braddock, A. E. (2008). *Psychological Treatment of Hypochondriasis: A Cognitive Behavioral Perspective*. Springer.
 - Starcevic, V. (2014). *Hypochondriasis and Health Anxiety*. Psychotherapy and Psychosomatics.
 - Salkovskis, P. M., & Warwick, H. M. C. (2001). *Making Sense of Hypochondriasis*. Behaviour Research and Therapy.
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

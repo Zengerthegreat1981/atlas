@@ -205,3 +205,7 @@ ICD-11 يصنّف BD-I تحت 6A60، ويعتمد نفس التعريف الأس
 - World Health Organization. (2019/2022). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - Goodwin, F. K., & Jamison, K. R. (2007). *Manic-Depressive Illness: Bipolar Disorders and Recurrent Depression* (2nd ed.). Oxford University Press.
 - Miklowitz, D. J. (2021). *The Bipolar Disorder Survival Guide* (3rd ed.). Guilford Press.
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

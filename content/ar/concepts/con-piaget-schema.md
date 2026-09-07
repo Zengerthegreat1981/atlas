@@ -87,3 +87,7 @@ gaps:
 - Piaget, J. (1936). *The Origins of Intelligence in Children*. International Universities Press.
 - Piaget, J. (1952). *The Construction of Reality in the Child*. Basic Books.
 - Bartlett, F. C. (1932). *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press.
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

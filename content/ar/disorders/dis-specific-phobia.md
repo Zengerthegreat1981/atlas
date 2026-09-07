@@ -160,3 +160,7 @@ ICD-11 يصنّف الرهاب المحدد تحت 6B03، ويعترف بأشك�
 - World Health Organization. (2019/2022). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - Antony, M. M., & McCabe, R. E. (2003). *Overcoming Animal Phobias and Insomnia*. New Harbinger.
 - Öst, L.-G. (2008). *Efficacy of the third wave behavioral therapies: A systematic review and meta-analysis*. Behaviour Research and Therapy.
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

@@ -40,3 +40,7 @@ gaps:
 
 - *The Science of Being and Art of Living* (1963).
 - *Transcendental Meditation* (1968).
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

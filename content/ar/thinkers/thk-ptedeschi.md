@@ -24,3 +24,7 @@ gaps:
 `agents_specs/quarantine-minimax-archive/thk-ptedeschi.md.archived.2026-08-27`
 
 انظر `agents_specs/quarantine-minimax.md` للتفاصيل وأسباب الحجر.
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

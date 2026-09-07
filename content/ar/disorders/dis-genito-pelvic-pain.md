@@ -108,3 +108,7 @@ gaps:
 - World Health Organization. (2019/2022). *ICD-11*. WHO.
 - Bergeron, S., et al. (2015). "Physical Therapy for Pelvic Pain." *Current Sexual Health Reports*.
 - Binik, Y. M. (2010). "The DSM Diagnostic Criteria for Vaginismus." *Archives of Sexual Behavior*.
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

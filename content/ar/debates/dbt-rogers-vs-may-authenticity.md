@@ -98,3 +98,7 @@ gaps:
 - *The Paradoxical Self* (Schneider, 1990).
 - *On Becoming a Person* (Rogers, 1961).
 - *The Courage to Be* (Tillich, 1952) — مصدر فلسفي لكلا الموقفين.
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

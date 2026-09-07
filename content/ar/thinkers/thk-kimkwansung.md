@@ -59,3 +59,7 @@ gaps:
 - "Hwabyung: A Culture-Bound Syndrome?" (مع Min Sung-Kil) — مقال مؤسّس في *Korean Journal of Psychosomatic Medicine* (الثمانينيات من القرن العشرين).
 - مساهمات في DSM-IV حول Culture-Bound Syndromes.
 - "Psychiatric Understanding of Hwabyung" (1986).
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

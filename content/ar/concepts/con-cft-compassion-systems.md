@@ -117,3 +117,7 @@ gaps:
 - Gilbert, P. (2009). *The Compassionate Mind*. Constable.
 - Gilbert, P. (2010). *Compassion Focused Therapy: Distinctive Features*. Routledge.
 - Gilbert, P., & Choden (2013). *Mindful Compassion*. Constable.
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

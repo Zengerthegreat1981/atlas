@@ -78,3 +78,7 @@ gaps:
 - Bowen, M. (1978). *Family Therapy in Clinical Practice*. Jason Aronson.
 - Kerr, M. E., & Bowen, M. (1988). *Family Evaluation: An Approach Based on Bowen Theory*. W. W. Norton.
 - Titelman, P. (Ed.). (2014). *Differentiation of Self: Bowen Family Systems Theory Perspectives*. Routledge.
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

@@ -107,3 +107,7 @@ MDMA يُعزز:
 - Mithoefer, M. C., et al. (2023). "MDMA-assisted therapy for moderate to severe PTSD: a phase 3 randomized controlled trial." *Nature Medicine*.
 - MAPS (2023). *MDMA-Assisted Therapy Protocol*. MAPS Public Benefit Corporation.
 - Polito, V., & Stevenson, R. J. (2019). "A systematic study of MDMA combining neurotoxic, cognitive, and therapeutic perspectives." *Neuropsychopharmacology*, 44(13), 2164-2176.
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

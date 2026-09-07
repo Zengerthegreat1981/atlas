@@ -43,3 +43,7 @@ gaps:
 جوانب من الاستدخال (Aspects of Internalization, 1968) · **لغة جديدة للتحليل النفسي** (A New Language for Psychoanalysis, 1976) · **الموقف التحليلي** (The Analytic Attitude, 1983) · **إعادة رواية حياة: السرد والحوار في التحليل النفسي** (Retelling a Life, 1992) · مشاعر سيّئة (Bad Feelings, 2003).
 
 > **تصحيح:** كان هذا الملف ينسب إلى شافر كتاباً باسم *The Language and Wisdom of Psychoanalysis* — ولا وجود له في ببليوغرافيته؛ وكتابه لعام 1992 هو *Retelling a Life*، وكتاب «لغة الفعل» هو *A New Language for Psychoanalysis* (1976). كما تُرجم *The Analytic Attitude* «فعل التحليل النفسي» وصوابه «الموقف التحليلي».
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

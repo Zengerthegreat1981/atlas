@@ -164,3 +164,7 @@ ICD-11 يصنّف BDD تحت 6B21، مع تأكيد على الانشغال ال
 - World Health Organization. (2019/2022). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - Veale, D., & Neziroglu, F. (2010). *Body Dysmorphic Disorder: A Treatment Manual*. Wiley-Blackwell.
 - Phillips, K. A. (2005). *The Broken Mirror: Understanding and Treating Body Dysmorphic Disorder*. Oxford University Press.
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

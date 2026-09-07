@@ -53,3 +53,7 @@ PCIT في أعلى مستوى دعم بحثي (Well-Established) وفقاً لـ
 - **PCIT-TC** (Trauma-informed): للأطفال في دور الرعاية.
 - **PCIT-CSES** (Children with Sensory & Emotional Regulation): للتوحد.
 - **PCIT-PR** (Pyramid Resources): للتطبيق في المدارس.
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

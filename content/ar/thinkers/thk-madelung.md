@@ -41,3 +41,7 @@ gaps:
 ## أهم أعمالها
 
 من مؤلفاتها: *Trotz – Zwischen Kreativität und Selbstzerstörung* (عن التحدي بين الإبداع والتدمير الذاتي) · *Heldenkinder – Verräterkinder. Wenn die Eltern im Widerstand waren* (عن أبناء المقاومين الألمان في العهد النازي) · روايتها السيرية *Reden, bevor es zu spät ist* (دار Europa Verlag).
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

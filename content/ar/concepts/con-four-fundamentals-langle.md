@@ -70,3 +70,7 @@ gaps:
 ## المصدر
 
 طوّرها لانغله في *Sinn und Existenz* (1979) وعرضها في *Existenzanalyse und Existenzanalyse in der Psychotherapie* (1993). الأداة السيكومترية المقابلة: *Existenzskala* (ESK).
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

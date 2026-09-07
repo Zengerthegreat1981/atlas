@@ -173,3 +173,7 @@ ICD-11 يصنّف اضطراب القلق الاجتماعي تحت 6B04، مع 
 - World Health Organization. (2019/2022). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - Heimberg, R. G., Brozovich, F. A., & Rapee, R. M. (2010). *A Cognitive Behavioral Model of Social Anxiety Disorder*. In S. G. Hofmann & P. M. DiBartolo (Eds.), Social Anxiety. Academic Press.
 - Hofmann, S. G., & Hayes, S. C. (2011). *The Future of Intervention Science in Mental Health*. Springer.
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

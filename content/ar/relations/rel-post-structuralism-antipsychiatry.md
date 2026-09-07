@@ -179,3 +179,7 @@ gaps:
 - Crossley, N. (1998). *R. D. Laing and the British Anti-Psychiatry Movement*. Routledge.
 - Rose, N. (1990). *Governing the Soul*. Routledge.
 - Ingleby, D. (1980). *Critical Psychiatry*. Pantheon.
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

@@ -37,3 +37,7 @@ gaps:
 ## اقتباسات مختارة
 
 من الفقرة 36 من «التجريبية وفلسفة العقل» (1956): «in characterizing an episode or a state as that of knowing... we are placing it in the logical space of reasons, of justifying and being able to justify what one says» — لا تتوفر ضمن مصادر هذا الملف ترجمة عربية معتمدة موثّقة بالصفحة لهذه الفقرة، لذا أُثبت النص الإنجليزي الأصلي.
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

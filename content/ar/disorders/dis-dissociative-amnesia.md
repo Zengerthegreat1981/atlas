@@ -181,3 +181,7 @@ ICD-11 يصنّف فقدان الذاكرة التفارقي تحت 6B66، مع 
 - World Health Organization. (2019/2022). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - Brand, B. L., et al. (2012). *Psychophysiological Characteristics of Dissociative Amnesia*. Psychological Medicine.
 - Loewenstein, R. J. (2018). *Dissociation Debates: Everything You Know Is Wrong*. Dialogues in Clinical Neuroscience.
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

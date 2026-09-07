@@ -54,3 +54,7 @@ gaps:
 - *Mindfulness-Based Cognitive Therapy for Depression* (2002، مع زيندل سيغال ومارك ويليامز؛ ط2 2013) — الكتاب المؤسِّس.
 - *The Mindful Way Through Depression* (2007، مع ويليامز وسيغال وكابات-زين) — النسخة الموجّهة للجمهور.
 - "Prevention of relapse/recurrence in major depression by mindfulness-based cognitive therapy" (2000)، *Journal of Consulting and Clinical Psychology*.
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

@@ -43,3 +43,7 @@ Mission) منذ وفاة سلفه «تشاريجي» في ديسمبر 2014 — 
 - ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
 - النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-sdesha.md.archived.2026-08-27`
 - طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

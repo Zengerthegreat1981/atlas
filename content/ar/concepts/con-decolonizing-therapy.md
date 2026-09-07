@@ -129,3 +129,7 @@ gaps:
 - Freire, P. (1968/2000). *Pedagogy of the Oppressed*.
 - Adams, G., et al. (2015). Decolonizing psychological science. *Journal of Social and Political Psychology*, 3(1), 213-238.
 - Tuck, E., & Yang, K. W. (2012). Decolonization is not a metaphor. *Decolonization: Indigeneity, Education & Society*, 1(1), 1-40.
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

@@ -93,3 +93,7 @@ ICD-11 يُصنّف الاضطراب المعرفي العصبي الخفيف ت
 - Petersen, R. C. (Ed.). (2009). *Mild Cognitive Impairment: Aging to Alzheimer's Disease*. Oxford University Press.
 - Alzheimer's Association. (2023). *2023 Alzheimer's Disease Facts and Figures*. Alzheimer's & Dementia, 19(4).
 - World Health Organization. (2019). *Risk Reduction of Cognitive Decline and Dementia: WHO Guidelines*. WHO.
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

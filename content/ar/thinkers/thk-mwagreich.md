@@ -24,3 +24,7 @@ gaps:
 `agents_specs/quarantine-minimax-archive/thk-mwagreich.md.archived.2026-08-27`
 
 انظر `agents_specs/quarantine-minimax.md` للتفاصيل وأسباب الحجر.
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

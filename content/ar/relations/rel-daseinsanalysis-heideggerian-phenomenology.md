@@ -141,3 +141,7 @@ gaps:
 - Condrau, G. (1998). *Medard Boss: Psychiatrist and Therapist* (translated). Chiron.
 - Heidegger, M. (1961). *Nietzsche* (4 vols.). Neske. (مقاربات Boss).
 - Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books. (الفصل 6).
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

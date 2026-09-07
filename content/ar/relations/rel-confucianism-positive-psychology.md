@@ -147,3 +147,7 @@ Seligman نفسه (2002، *Authentic Happiness*) يستشهد بـ:
 - Dahlsgaard, K., Peterson, C., & Seligman, M. E. P. (2005). Shared virtue: The convergence of valued human strengths across culture and history. *Review of General Psychology*, 9(3), 203-213.
 - Peseschkian, N. (1987). *Positive Psychotherapy: Theory and Practice of a New Method*. Springer.
 - Abdel-Khalek, A. M. (2017). *Positive Psychology in the Islamic World*. Springer.
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

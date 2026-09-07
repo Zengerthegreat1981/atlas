@@ -80,3 +80,7 @@ gaps:
 - Seligman, M. E. P. (1975). *Helplessness: On Depression, Development, and Death*. W. H. Freeman.
 - Seligman, M. E. P. (1991). *Learned Optimism*. Alfred A. Knopf.
 - Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D. (1978). Learned helplessness in humans. *Journal of Abnormal Psychology*, 87(1), 49-74.
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

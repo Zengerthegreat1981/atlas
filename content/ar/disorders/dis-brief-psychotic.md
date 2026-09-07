@@ -85,3 +85,7 @@ ICD-11 يُصنّف الذهان القصير تحت 6A23. يقدّم معيار
 - World Health Organization. (2019/2022). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - Castle, D. J., & Buckley, P. F. (2015). *Schizophrenia* (2nd ed.). Oxford University Press.
 - van Os, J., & Kapur, S. (2009). *Schizophrenia*. The Lancet, 374(9690), 635–645.
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

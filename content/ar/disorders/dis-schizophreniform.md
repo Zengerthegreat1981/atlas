@@ -79,3 +79,7 @@ ICD-11 يُصنّف الفصاماني تحت 6A24، بمفهوم "أول حلق
 - World Health Organization. (2019/2022). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - Francey, S. M., & Nelson, B. (2017). *Psychotic Disorders in Young People: A Clinical Manual*. Oxford University Press.
 - McGorry, P. D., & Nelson, B. (2016). *Transdiagnostic Psychiatry*. World Psychiatry, 15(1), 6–8.
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

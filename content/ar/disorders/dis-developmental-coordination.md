@@ -79,3 +79,7 @@ ICD-11 يصنّف الحالة تحت "اضطراب النمو الحركي" (De
 - World Health Organization. (2019/2022). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - European Academy for Childhood Disability (EACD). *Recommendations for the definition, diagnosis and intervention of DCD*.
 - Missiuna, C., et al. (2011). *Developmental Coordination Disorder: A Practical Guide*.
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

@@ -170,3 +170,7 @@ gaps:
 - Angell, J. R. (1907). The functional point of view in psychology. *Psychological Review*, 14(2), 61-70.
 - Taylor, E. (1996). *William James on Consciousness Beyond the Margin*. Princeton University Press.
 - West, C. (1989). *The American Evasion of Philosophy*. University of Wisconsin Press.
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

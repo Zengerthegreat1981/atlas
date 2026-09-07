@@ -71,3 +71,7 @@ gaps:
 
 Bateson, G., Jackson, D. D., Haley, J., & Weakland, J. (1956). "Toward a Theory of Schizophrenia." *Behavioral Science*, 1(4), 251-264.
 Watzlawick, P., Beavin, J. H., & Jackson, D. D. (1965). *Pragmatics of Human Communication*. W. W. Norton.
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

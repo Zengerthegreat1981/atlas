@@ -127,3 +127,7 @@ gaps:
 - Shotter, J. (1993). *Cultural Politics of Everyday Life*. Open University Press.
 - Capra, F. (1975). *The Tao of Physics*. Shambhala.
 - Seikkula, J., & Arnkil, T. E. (2006). *Dialogical Meetings in Social Networks*. Karnac.
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

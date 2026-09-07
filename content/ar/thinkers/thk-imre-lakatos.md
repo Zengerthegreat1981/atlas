@@ -44,3 +44,7 @@ gaps:
 - *Proofs and Refutations* (براهين وتفنيدات، 1963–64، وصدر كتاباً بعد وفاته عام 1976).
 - *Falsification and the Methodology of Scientific Research Programmes* (1970).
 - *The Methodology of Scientific Research Programmes* (أوراق فلسفية، صدرت بعد وفاته عام 1978).
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

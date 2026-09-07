@@ -126,3 +126,7 @@ gaps:
 - World Health Organization. (2019/2022). *ICD-11*. WHO.
 - World Professional Association for Transgender Health. (2022). *Standards of Care for the Health of Transgender and Gender Diverse People, Version 8*. WPATH.
 - American Psychological Association. (2015). *Guidelines for Psychological Practice with Transgender and Gender Nonconforming People*. APA.
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

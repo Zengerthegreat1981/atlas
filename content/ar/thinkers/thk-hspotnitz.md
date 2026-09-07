@@ -40,3 +40,7 @@ gaps:
 ## أهم أعماله
 
 التحليل النفسي الحديث لمريض الفصام (Modern Psychoanalysis of the Schizophrenic Patient, 1969) · علاج الحالات ما قبل الأوديبية (Psychotherapy of Preoedipal Conditions, 1976) · علاج العصابات النرجسية (Treatment of the Narcissistic Neuroses, 1976، مع فيليس ماير).
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

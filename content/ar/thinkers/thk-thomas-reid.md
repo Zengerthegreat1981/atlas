@@ -39,3 +39,7 @@ gaps:
 - *An Inquiry into the Human Mind on the Principles of Common Sense* (1764).
 - *Essays on the Intellectual Powers of Man* (1785).
 - *Essays on the Active Powers of Man* (1788).
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

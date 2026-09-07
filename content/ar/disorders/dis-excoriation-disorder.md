@@ -173,3 +173,7 @@ gaps:
 - World Health Organization. (2019/2022). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - Teng, E. J., Woods, D. W., & Twohig, M. P. (2006). *Habit Reversal Training for Skin Picking*. In M. R. D. M. R. Walen (Ed.), *Comprehensive Handbook of Behavioral Medicine*. Springer.
 - Grant, J. E., & Chamberlain, S. R. (2020). Characteristics of body-focused repetitive behavior disorders. *Psychiatric Clinics of North America*, 43(1), 1-11.
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

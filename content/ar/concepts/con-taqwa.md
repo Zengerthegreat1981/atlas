@@ -111,3 +111,7 @@ gaps:
 - Abdel-Khalek, A. M. (2010). Qur'anic approach to psychotherapy. *Journal of Qur'anic Studies*, 12(1-2), 142-160.
 - Abu Raiya, M. A. (2010). *Towards a Global Psychology: Theory, Research, Intervention, and Pedagogy*. Lawrence Erlbaum.
 - Tiliouine, H. (2009). Islamic religiosity, subjective well-being, and health. *Mental Health, Religion & Culture*, 12(1), 55-74.
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

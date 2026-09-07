@@ -45,3 +45,7 @@ gaps:
 - *The Psychedelic Experience* (مع ليري وغروف، 1964).
 - *Maps of Consciousness* (1971).
 - *The Well of Remembrance* (1994).
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

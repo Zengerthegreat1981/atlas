@@ -206,3 +206,7 @@ ICD-11 يُصنّف اضطرابات استخدام الكحول تحت فئة 6
 - Miller, W. R., & Rollnick, S. (2013). *Motivational Interviewing: Helping People Change* (3rd ed.). Guilford Press.
 - Witkiewitz, K., & Marlatt, G. A. (Eds.). (2011). *Therapist's Guide to Evidence-Based Relapse Prevention*. Academic Press.
 - National Institute on Alcohol Abuse and Alcoholism. (n.d.). *Alcohol Use Disorder: A Comparison Between DSM-IV and DSM-5*. NIH.
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

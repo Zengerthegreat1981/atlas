@@ -159,3 +159,7 @@ ICD-11 يصنّف الرهاب من الأماكن المكشوفة تحت 6B00�
 - World Health Organization. (2019/2022). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - McKay, D., & Storch, E. A. (2015). *The Clinician's Guide to Treating OCD and Related Disorders*. New Harbinger.
 - Craske, M. G. (2010). *The Wiley-Blackwell Handbook of Panic and Agoraphobia*. Wiley-Blackwell.
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

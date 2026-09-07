@@ -94,3 +94,7 @@ ICD-11 يصنّف تحت 8A05.0 "اضطراب العرات الأولي" بمع�
 - Piacentini, J., et al. (2010). Behavior therapy for Tourette syndrome: A randomized controlled trial. *JAMA*.
 - McGuire, J. F., et al. *The Wiley Handbook of Tic Disorders*.
 - Tourette Association of America. *Clinical practice guidelines*.
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

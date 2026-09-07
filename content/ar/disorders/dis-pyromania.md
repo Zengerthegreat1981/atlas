@@ -225,3 +225,7 @@ gaps:
 - World Health Organization. (2019/2022). *ICD-11*. WHO.
 - Grant, J. E., & Potenza, M. N. (2004). *Pathological Gambling and Other Behavioral Addictions*. American Psychiatric Publishing.
 - Lindberg, N., et al. (2005). "Fire-setting behavior and underlying mechanisms in forensic psychiatric patients." *Journal of Forensic Sciences*.
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

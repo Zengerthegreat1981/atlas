@@ -101,3 +101,7 @@ ICD-11 يُصنّف الاضطراب المعرفي العصبي الرئيسي 
 - Livingston, G., & Selwood, A. (2018). *Dementia*. Oxford University Press.
 - World Health Organization. (2017). *Global Action Plan on the Public Health Response to Dementia 2017–2025*. WHO.
 - Prince, M., et al. (2015). *World Alzheimer Report 2015: The Global Impact of Dementia*. Alzheimer's Disease International.
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

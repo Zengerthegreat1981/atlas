@@ -68,3 +68,7 @@ gaps:
 ## المصدر
 
 صاغه في *Motivation and Personality* (1954) وعالجه في *Toward a Psychology of Being* (1962) و*Farther Reaches of Human Nature* (1971، نشر بعد وفاته).
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

@@ -91,3 +91,7 @@ gaps:
 
 Minuchin, S. (1974). *Families and Family Therapy*. Harvard University Press.
 Minuchin, S., Rosman, B. L., & Baker, L. (1978). *Psychosomatic Families*. Harvard University Press.
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

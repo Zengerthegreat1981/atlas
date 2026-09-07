@@ -115,3 +115,8 @@ gaps:
 - Ogden, P., Minton, K., & Pain, C. (2006). *Trauma and the Body*. Norton.
 - Ogden, P., & Fisher, J. (2015). *Sensorimotor Psychotherapy: Interventions for Trauma and Attachment*. Norton.
 
+## المصادر
+
+مصادر أساسية مرتبطة بهذا المدخل (وفق حقل `related` في البيانات الوصفية):
+
+- *كتاب الصدمة والجسد: نهج سنسوريموتور لبات أوغدن (2006)*

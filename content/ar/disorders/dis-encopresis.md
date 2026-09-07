@@ -130,3 +130,7 @@ Encopresis **في أغلب الحالات مشكلة طبية-سلوكية مُ�
 - World Health Organization. (2019/2022). *ICD-11*. WHO.
 - Tabbers, M. M., et al. (2014). "Evaluation and Treatment of Functional Constipation in Infants and Children." *JPGN*.
 - McGrath, M. L., et al. (2000). *Encopresis: A Practical Approach to Diagnosis and Treatment*. Pediatric Annals.
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

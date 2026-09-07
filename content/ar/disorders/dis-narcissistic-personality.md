@@ -204,3 +204,9 @@ gaps:
 - Kernberg, O. F. (1998). *Pathological Narcissism and Narcissistic Personality Disorder*. Yale University Press.
 - Ronningstam, E. (2005). *Identifying and Understanding the Narcissistic Personality*. Oxford University Press.
 - Young, J. E., Klosko, J. S., & Weishaar, M. E. (2003). *Schema Therapy: A Practitioner's Guide*. Guilford Press.
+
+## المصادر
+
+مصادر أساسية مرتبطة بهذا المدخل (وفق حقل `related` في البيانات الوصفية):
+
+- *العلاج المعرفي لاضطرابات الشخصية*

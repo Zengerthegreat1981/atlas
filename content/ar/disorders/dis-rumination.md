@@ -121,3 +121,7 @@ gaps:
 - World Health Organization. (2019/2022). *ICD-11*. WHO.
 - Chitsey, A. M., et al. (2002). "Diaphragmatic Breathing for Rumination." *Journal of Pediatric Gastroenterology and Nutrition*.
 - Murray, H. B., et al. (2019). "Rumination Disorder." *Current Opinion in Pediatrics*.
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

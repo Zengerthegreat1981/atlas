@@ -51,3 +51,9 @@ gaps:
 - *People Skills: How to Assert Yourself, Listen to Others, and Resolve Conflicts* (1979).
 - *Social Style/Management Style* (1984، مع دوروثي غروفر بولتون).
 - *People Styles at Work* (1996، معها).
+
+## المصادر
+
+مصادر أساسية مرتبطة بهذا المدخل (وفق حقل `related` في البيانات الوصفية):
+
+- *مهارات التعامل مع الناس*

@@ -234,3 +234,7 @@ DBT هو العلاج الذهبي لـ BPD ويتضمن كل المهارات �
 - Linehan, M. M. (1993). *Cognitive-Behavioral Treatment of Borderline Personality Disorder*. Guilford Press.
 - Linehan, M. M. (2015). *DBT Skills Training Handouts and Worksheets* (2nd ed.). Guilford Press.
 - Linehan, M. M. (2021). *Building a Life Worth Living*. Random House.
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

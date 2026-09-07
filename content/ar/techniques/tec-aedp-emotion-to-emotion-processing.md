@@ -114,3 +114,7 @@ gaps:
 - Fosha, D. (2000). *The Transforming Power of Affect*.
 - Fosha, D. (2009). *Emotion Reveals Itself in the Transformational Processing of AEDP*.
 - مقالات في *Psychotherapy* و*Journal of Clinical Psychology*.
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

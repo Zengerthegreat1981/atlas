@@ -41,3 +41,7 @@ gaps:
 - *Focus on Psychodrama: The Therapeutic Aspects of Psychodrama* (1992).
 - *Sociodrama* (1998).
 - *Psychodrama with Trauma Survivors: Acting Out Your Pain* (2000، مع M.K. Hudgins).
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

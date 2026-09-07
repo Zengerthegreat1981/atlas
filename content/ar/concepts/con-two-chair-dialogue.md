@@ -85,3 +85,6 @@ gaps:
 - Greenberg, L. S., Watson, J. C., & Lietaer, G. (1998). *Handbook of Experiential Psychotherapy*. Guilford Press.
 - Paivio, S. C., & Greenberg, L. S. (1995). «Resolving ”Unfinished Business”». *Journal of Consulting and Clinical Psychology*, 63(3), 397-406.
 
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

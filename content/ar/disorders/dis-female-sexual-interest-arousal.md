@@ -117,3 +117,7 @@ gaps:
 - World Health Organization. (2019/2022). *ICD-11*. WHO.
 - Basson, R. (2001). "Using a Different Model for Female Sexual Response." *Journal of Sex & Marital Therapy*.
 - Jannini, E. A., et al. (2017). "Female Sexual Dysfunction: An Update of the Literature." *Journal of Endocrinological Investigation*.
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

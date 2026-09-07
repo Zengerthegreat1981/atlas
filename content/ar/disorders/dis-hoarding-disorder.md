@@ -159,3 +159,7 @@ ICD-11 يصنّف الاكتناز تحت 6B24، مع التركيز على صع
 - World Health Organization. (2019/2022). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - Tolin, D. F., Frost, R. O., & Steketee, G. (2010). *Buried in Treasures: Help for Compulsive Acquiring, Saving, and Hoarding* (2nd ed.). Oxford University Press.
 - Mataix-Cols, D., & Rautio, D. (2016). *Cognitive-Behavioral Therapy for Hoarding Disorder: A Group Treatment Program*. Wiley-Blackwell.
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

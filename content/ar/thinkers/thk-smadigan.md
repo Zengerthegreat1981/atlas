@@ -40,3 +40,7 @@ gaps:
 
 - *Narrative Therapy* (Theories of Psychotherapy Series, American Psychological Association، الطبعة الأولى 2011، الطبعة الثانية 2019).
 - مقالات ومحاضرات منشورة عبر Narrative Approaches ومؤتمرات Therapeutic Conversations.
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

@@ -92,3 +92,7 @@ gaps:
 - Miller, W. R., & Rollnick, S. (1991). *Motivational Interviewing: Preparing People to Change Addictive Behavior*. Guilford Press.
 - Miller, W. R., & Rollnick, S. (2002/2013). *Motivational Interviewing: Helping People Change* (3rd ed.). Guilford Press.
 - Rollnick, S., Miller, W. R., & Butler, C. C. (2008). *Motivational Interviewing in Health Care*. Guilford Press.
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

@@ -112,3 +112,7 @@ gaps:
 - Boring, E. G. (1950). *A History of Experimental Psychology* (2nd ed.). Appleton-Century-Crofts.
 - Buckley, K. W. (1989). *Mechanical Man: John Broadus Watson and the Beginnings of Behaviorism*. Guilford Press.
 - O'Donohue, W., & Kitchener, R. (Eds.). (1996). *The Philosophy of Psychology*. Sage.
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

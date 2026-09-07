@@ -65,3 +65,7 @@ gaps:
 - **Sabyasachi Bhaumik** (UK): رائد في Leicester.
 - **Donna Gates**: أبحاث في Tizard Centre.
 - **Peter Sturmey** (USA): تحليل سلوكي مع ID.
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

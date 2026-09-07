@@ -63,3 +63,7 @@ gaps:
 ## المصدر
 
 سبينيلّي: *The Interpreted World* (1989) و*Demystifying Therapy* (1994) و*Tales Unfolding* (1999) و*Practising Existential Psychotherapy* (2007).
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

@@ -41,3 +41,7 @@ gaps:
 - *Matter and Consciousness* (1984).
 - *The Engine of Reason, the Seat of the Soul* (1995).
 - *Plato's Camera* (2012).
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

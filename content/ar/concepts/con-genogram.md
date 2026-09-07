@@ -68,3 +68,7 @@ gaps:
 
 McGoldrick, M., Gerson, R., & Petry, S. (2007). *Genograms: Assessment and Intervention* (3rd ed.). W. W. Norton.
 Bowen, M. (1978). *Family Therapy in Clinical Practice*. Jason Aronson.
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

@@ -46,3 +46,7 @@ gaps:
 
 - Freud, S. (1914). *Remembering, Repeating and Working-Through* (Further Recommendations on the Technique of Psycho-Analysis II).
 - Eysenck, H. J. (1952). *The Effects of Psychotherapy: An Evaluation*. Journal of Consulting Psychology, 16(5).
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

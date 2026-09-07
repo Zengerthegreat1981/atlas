@@ -104,3 +104,7 @@ gaps:
 - World Health Organization. (2019/2022). *ICD-11*. WHO.
 - Lue, T. F. (2017). "Erectile Dysfunction." *New England Journal of Medicine*.
 - McCabe, M. P., et al. (2016). "Psychological and Interpersonal Dimensions of Sexual Function and Dysfunction." *Journal of Sexual Medicine*.
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

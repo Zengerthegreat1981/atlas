@@ -40,3 +40,7 @@ gaps:
 
 - *Surviving Sexual Ambiguity* (1991).
 - مقالات عدة في *Journal of the National Association of Research and Therapy of Homosexuality (NARTH)*.
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

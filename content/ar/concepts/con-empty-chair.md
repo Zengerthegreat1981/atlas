@@ -89,3 +89,7 @@ gaps:
 - Perls, F. (1969). *Gestalt Therapy Verbatim*. Real People Press.
 - Paivio, S. C., & Greenberg, L. S. (1995). «Resolving ”Unfinished Business”». *Journal of Consulting and Clinical Psychology*, 63(3), 397-406.
 - Greenberg, L. S., Rice, L. N., & Elliott, R. (1993). *Facilitating Emotional Change*. Guilford Press.
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

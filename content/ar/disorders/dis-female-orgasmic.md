@@ -101,3 +101,7 @@ gaps:
 - World Health Organization. (2019/2022). *ICD-11*. WHO.
 - Meston, C. M., & Bradford, A. (2007). "Sexual Dysfunctions in Women." *Annual Review of Clinical Psychology*.
 - Laan, E., & Rellini, A. H. (2018). "Can We Treat Anorgasmia?" *Current Sexual Health Reports*.
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

@@ -83,3 +83,7 @@ gaps:
 ## المصدر
 
 شنايدر: *The Paradoxical Self* (1990) و*The Polarized Mind* (2013). كريك: *A Very Short Introduction to Existential Therapy* (2018).
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

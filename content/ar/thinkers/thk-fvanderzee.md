@@ -43,3 +43,7 @@ gaps:
 
 - (محرر *Handbook of Asian Positive Psychology*).
 - (مقالات في *Journal of Happiness Studies*).
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

@@ -151,3 +151,7 @@ ICD-11 يصنّف الصمت الانتقائي تحت 6B06 ويصفه كتغي�
 - World Health Organization. (2019/2022). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - Kearney, C. A. (2010). *Helping Children with Selective Mutism and Their Parents: A Guide for School-Based Professionals*. Oxford University Press.
 - Bergman, R. L. (2013). *Treatment for Children with Selective Mutism: An Integrative Behavioral Approach*. Oxford University Press.
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

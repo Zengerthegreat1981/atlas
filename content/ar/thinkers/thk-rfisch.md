@@ -41,3 +41,7 @@ gaps:
 
 - *Change: Principles of Problem Formation and Problem Resolution* (1974).
 - *Brief Therapy with Individuals and Couples* (1985، مع شنايدر).
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

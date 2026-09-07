@@ -42,3 +42,7 @@ gaps:
 - *Focus on Psychodrama* (1992).
 - *Moreno and the Psychodramatic Method* (مع بلاتنر، 2009).
 - أبحاث منشورة في *International Journal of Group Psychotherapy*.
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

@@ -149,3 +149,7 @@ ICD-11 يستخدم مصطلح "Obsessive-Compulsive or Related Disorders" وي�
 - American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR)*. APA.
 - World Health Organization. (2019/2022). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - Foa, E. B., Yadin, E., & Lichner, T. K. (2012). *Exposure and Response (Ritual) Prevention for Obsessive-Compulsive Disorder* (2nd ed.). Oxford University Press.
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

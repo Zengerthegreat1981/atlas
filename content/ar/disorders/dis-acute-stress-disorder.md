@@ -171,3 +171,7 @@ ICD-11 لا يصنّف "Acute stress reaction" ضمن الفصل السادس (�
 - World Health Organization. (2019/2022). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - Bryant, R. A. (2016). *Acute Stress Disorder: What It Is and How to Treat It*. Guilford Press.
 - Bisson, J. I., & Olff, M. (2015). *Prevention and treatment of PTSD: Current and future directions*. Springer.
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

@@ -31,3 +31,9 @@ gaps:
 ## روابط ذات صلة
 
 ينتمي المفهوم إلى **sch-ordinary-language** التي تأسست جزئياً على هذه الفكرة، وقد طرحه **thk-lwittgenstein** في كتابه المتأخر **wrk-philosophical-investigations-wittgenstein**. يتطابق اسمياً مع مصطلح **trm-sprachspiel-language-game-wittgenstein** ويرتبط بمفهوم **trm-lebensform-form-of-life-wittgenstein** الذي يؤطر ألعاب اللغة داخل أشكال الحياة. يتقاسم الأساس المنطقي مع **con-family-resemblance-wittgenstein** الذي يفسر لماذا لا تخضع الألعاب اللغوية لجوهر مشترك، ويكمل **con-private-language-argument** بوصفه تطبيقاً لفكرة أن المعنى ينشأ من الاستخدام العمومي لا من الباطن الفردي.
+
+## المصادر
+
+مصادر أساسية مرتبطة بهذا المدخل (وفق حقل `related` في البيانات الوصفية):
+
+- *بحوث فلسفية للودفيغ فيتغنشتاين*

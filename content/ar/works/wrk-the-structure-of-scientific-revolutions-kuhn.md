@@ -26,3 +26,8 @@ gaps:
 
 **ملاحظة تحرير**: دُمج هذا الملف إحالةً إلى [wrk-kuhn-structure-revolutions](wrk-kuhn-structure-revolutions.md) — راجع الملف المعتمد للمحتوى الكامل.
 
+## المصادر
+
+مصادر أساسية مرتبطة بهذا المدخل (وفق حقل `related` في البيانات الوصفية):
+
+- *بنية الثورات العلمية (The Structure of Scientific Revolutions)*

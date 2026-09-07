@@ -121,3 +121,6 @@ IPT يركّز على **أربعة أنواع من المشاكل**:
 - Frank, E., et al. (1990). "Three-year outcomes for maintenance therapies in recurrent depression." *Archives of General Psychiatry*, 47(12), 1093-1099.
 - Weissman, M. M., & Markowitz, J. C. *Comprehensive Guide to Interpersonal Psychotherapy* — صدر بعد وفاته عام 1998. Basic Books.
 
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

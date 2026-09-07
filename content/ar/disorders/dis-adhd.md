@@ -98,3 +98,7 @@ ADHD اضطراب نمائي عصبي له أساس بيولوجي عصبي قو
 - World Health Organization. (2019/2022). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - Barkley, R. A. (2015). *Attention-Deficit Hyperactivity Disorder: A Handbook for Diagnosis and Treatment*. Guilford Press.
 - NICE. *Attention deficit hyperactivity disorder: diagnosis and management* (NG87).
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

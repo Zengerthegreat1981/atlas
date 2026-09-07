@@ -193,3 +193,7 @@ gaps:
 - World Health Organization. (2019/2022). *ICD-11*. WHO.
 - Beck, A. T., & Freeman, A. (1990). *Cognitive Therapy of Personality Disorders*. Guilford Press.
 - Bleiberg, E. (2001). *Treating Personality Disorders in Children and Adolescents*. Guilford Press.
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

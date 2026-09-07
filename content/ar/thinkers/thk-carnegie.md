@@ -51,3 +51,8 @@ gaps:
 - *How to Stop Worrying and Start Living* (1948).
 - *Public Speaking and Influencing Men in Business* (1926).
 
+## المصادر
+
+مصادر أساسية مرتبطة بهذا المدخل (وفق حقل `related` في البيانات الوصفية):
+
+- *كيف تكسب الأصدقاء وتؤثر في الناس*

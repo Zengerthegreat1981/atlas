@@ -53,3 +53,9 @@ gaps:
 - *Grit: Perseverance and Passion for Long-Term Goals* (Journal of Personality and Social Psychology، 2007).
 - *Grit: The Power of Passion and Perseverance* (2016).
 - *Development and Validation of the Short Grit Scale* (2009).
+
+## المصادر
+
+مصادر أساسية مرتبطة بهذا المدخل (وفق حقل `related` في البيانات الوصفية):
+
+- *عقل السعي: عقلية العزيمة والشغف والإصرار*

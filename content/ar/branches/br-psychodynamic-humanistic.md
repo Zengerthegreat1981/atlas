@@ -79,3 +79,9 @@ gaps:
 ## المصدر
 
 ماي: *The Meaning of Anxiety* (1950) و*Existence* (1958، مع أنجل) و*Love and Will* (1969).
+
+## المصادر
+
+مصادر أساسية مرتبطة بهذا المدخل (وفق حقل `related` في البيانات الوصفية):
+
+- *البحث عن الأصالة (The Search for Authenticity)*

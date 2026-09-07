@@ -47,3 +47,7 @@ gaps:
 
 - Britannica: [Gregory Bateson | Cybernetics, Anthropology, Communication](https://www.britannica.com/biography/Gregory-Bateson)
 - Wikipedia: [Gregory Bateson](https://en.wikipedia.org/wiki/Gregory_Bateson)
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

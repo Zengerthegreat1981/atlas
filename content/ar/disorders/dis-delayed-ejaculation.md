@@ -100,3 +100,7 @@ gaps:
 - American Psychiatric Association. (2022). *DSM-5-TR*. APA.
 - World Health Organization. (2019/2022). *ICD-11*. WHO.
 - Althof, S. E., & McMahon, C. G. (2016). "Contemporary Management of Disorders of Male Orgasm and Ejaculation." *Urology*.
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

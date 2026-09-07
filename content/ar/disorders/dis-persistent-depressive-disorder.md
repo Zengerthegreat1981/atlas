@@ -169,3 +169,7 @@ ICD-11 يستخدم كود 6A72 لـ"الاكتئاب المستمر"، ويشت
 - American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR)*. APA.
 - World Health Organization. (2019/2022). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - McCullough, J. P. (2003). *Treating Chronic Depression with Disciplined Personal Involvement*. Springer.
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

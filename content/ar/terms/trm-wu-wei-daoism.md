@@ -40,3 +40,7 @@ gaps:
 - Laozi. *داو ده جينغ* (Dao De Jing)، الفصل 8 وفصول متفرقة.
 - Zhuangzi. *تشوانغ تسي*، الفصل الثالث («العناية بالحياة» — حكاية الطاهي دينغ).
 - Slingerland, E. (2003). *Effortless Action: Wu-Wei as Conceptual Metaphor and Spiritual Ideal in Early China*. Oxford University Press.
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

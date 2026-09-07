@@ -165,3 +165,7 @@ ICD-11 يصنّف هذا الاضطراب تحت 6B08، ويتطلّب إثبا�
 - American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR)*. APA.
 - World Health Organization. (2019/2022). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - Sareen, J., & Stein, M. B. (2015). Anxiety disorders in medical settings. In *Biology of Mood & Anxiety Disorders* (review article).
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

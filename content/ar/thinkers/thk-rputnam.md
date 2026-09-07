@@ -63,3 +63,7 @@ gaps:
 - *E Pluribus Unum: Diversity and Community in the Twenty-first Century* (التعدّد والوحدة: التنوّع والمجتمع في القرن الحادي والعشرين، مقالة في *Scandinavian Political Studies*، 2007).
 - *Our Kids: The American Dream in Crisis* (أطفالنا: الحلم الأمريكي في أزمة، 2015).
 - *The Upswing: How America Came Together a Century Ago and How We Can Do It Again* (الانبعاث، 2020، مع شايلين رومني غاريت).
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

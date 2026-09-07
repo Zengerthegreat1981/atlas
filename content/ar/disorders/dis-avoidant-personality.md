@@ -182,3 +182,9 @@ gaps:
 - World Health Organization. (2019/2022). *ICD-11*. WHO.
 - Beck, A. T., & Freeman, A. (1990). *Cognitive Therapy of Personality Disorders*. Guilford Press.
 - Millon, T. (2011). *Disorders of Personality: Introducing a DSM/ICD Spectrum from Normal to Abnormal*. Wiley.
+
+## المصادر
+
+مصادر أساسية مرتبطة بهذا المدخل (وفق حقل `related` في البيانات الوصفية):
+
+- *العلاج المعرفي لاضطرابات الشخصية*

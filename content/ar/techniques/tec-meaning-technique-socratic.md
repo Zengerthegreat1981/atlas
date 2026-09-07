@@ -60,3 +60,7 @@ gaps:
 ## المصدر
 
 صاغها فرانكل في *The Doctor and the Soul: An Introduction to Logotherapy* (1955) وعرضها في *Man's Search for Meaning* (1946/1962) و*The Will to Meaning* (1969).
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

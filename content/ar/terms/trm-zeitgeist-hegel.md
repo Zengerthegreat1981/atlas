@@ -39,3 +39,7 @@ gaps:
 
 - Hegel, G. W. F. (1820). *Grundlinien der Philosophie des Rechts* (مقدمة العمل، عبارة "عصرها ملتقطاً في الفكر").
 - Hegel, G. W. F. (1837، نشر بعد الوفاة، تحرير Eduard Gans). *Vorlesungen über die Philosophie der Geschichte*.
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

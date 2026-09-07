@@ -44,3 +44,7 @@ gaps:
 - ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
 - النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-twsalisbury.md.archived.2026-08-27`
 - طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

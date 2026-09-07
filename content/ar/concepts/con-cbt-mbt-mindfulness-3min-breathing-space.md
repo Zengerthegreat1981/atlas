@@ -70,3 +70,7 @@ gaps:
 - Segal, Z. V., Williams, J. M. G., & Teasdale, J. D. (2002/2013). *Mindfulness-Based Cognitive Therapy for Depression*. Guilford Press.
 - Teasdale, J. D., et al. (2000). Prevention of relapse/recurrence in major depression by mindfulness-based cognitive therapy. *Journal of Consulting and Clinical Psychology*, 68(4), 615-623.
 - Kuyken, W., et al. (2015). Efficacy of Mindfulness-Based Cognitive Therapy in prevention of depressive relapse. *JAMA Psychiatry*, 72(11), 1176-1184.
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

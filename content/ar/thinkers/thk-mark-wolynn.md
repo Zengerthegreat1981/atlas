@@ -42,3 +42,7 @@ gaps:
 ## أهم أعماله
 
 - *It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle* (2016) — لم تبدأ معك.
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

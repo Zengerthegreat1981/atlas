@@ -75,3 +75,7 @@ gaps:
 ## المصدر
 
 غلاسر: *Reality Therapy* (1965) و*Schools Without Failure* (1969) و*The Identity Society* (1972) و*Choice Theory* (1998).
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

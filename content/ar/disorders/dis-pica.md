@@ -126,3 +126,7 @@ Pica **ليس مشكلة نفسية في الأساس**. في الأطفال، �
 - World Health Organization. (2019/2022). *ICD-11*. WHO.
 - American Academy of Pediatrics. (2019). "Pica." *Pediatrics in Review*.
 - Algrist, C. (2017). "Pica: Clinical Assessment and Intervention." *Journal of Applied Behavior Analysis*.
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

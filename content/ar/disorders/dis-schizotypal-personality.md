@@ -200,3 +200,7 @@ gaps:
 - World Health Organization. (2019/2022). *ICD-11*. WHO.
 - Beck, A. T., & Freeman, A. (1990). *Cognitive Therapy of Personality Disorders*. Guilford Press.
 - Moritz, S., & Lysaker, P. H. (2019). *Metacognition in Schizophrenia Spectrum Disorders*. Routledge.
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

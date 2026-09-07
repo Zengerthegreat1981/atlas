@@ -155,3 +155,7 @@ ICD-11 يصنّف قلق الانفصال تحت 6B05 ويؤكد على الخو
 - American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR)*. APA.
 - World Health Organization. (2019/2022). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - Ehrenreich, J. T., Santucci, L. C., & Weiner, C. L. (2008). *Separation Anxiety Disorder*. In M. Hersen & J. C. Rosqvist (Eds.), Handbook of Psychological Assessment, Case Conceptualization, and Treatment. Wiley.
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

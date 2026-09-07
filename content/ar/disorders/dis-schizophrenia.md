@@ -94,3 +94,7 @@ ICD-11 يُصنّف الفصام تحت 6A20 ويستخدم معايير بنا�
 - World Health Organization. (2019/2022). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - Morrison, A. P. (2017). *Acceptance and Commitment Therapy for Psychosis: A Values-Based Approach*. Routledge.
 - National Institute for Health and Care Excellence (NICE). (2014, updated 2020). *Psychosis and Schizophrenia in Adults: Prevention and Management* (CG178). NICE.
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

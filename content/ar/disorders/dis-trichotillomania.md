@@ -165,3 +165,7 @@ ICD-11 يصنّف Trichotillomania تحت 6B25.0 ضمن فئة "اضطرابات
 - World Health Organization. (2019/2022). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - Penzel, F. (2017). *The Hair-Pulling Problem: A Complete Guide to Trichotillomania*. Oxford University Press.
 - Woods, D. W., & Twohig, M. P. (2008). *Trichotillomania: An ACT-Enhanced Behavior Therapy Approach* (Therapist Guide and Workbook). Oxford University Press.
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

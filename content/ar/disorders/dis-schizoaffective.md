@@ -86,3 +86,7 @@ ICD-11 يُصنّف الفصام العاطفي تحت 6A21. يتبع تعريف
 - World Health Organization. (2019/2022). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - Goodwin, F. K., & Jamison, K. R. (2007). *Manic-Depressive Illness: Bipolar Disorders and Recurrent Depression* (2nd ed.). Oxford University Press.
 - Malhi, G. S., & Berk, M. (Eds.). (2017). *The Science and Practice of Mood Disorders*. Oxford University Press.
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

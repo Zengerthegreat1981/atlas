@@ -74,3 +74,7 @@ gaps:
 - Vygotsky, L. S. (1978). *Mind in Society*. Harvard University Press.
 - Vygotsky, L. S. (1986). *Thought and Language*. MIT Press (originally 1934).
 - Wood, D., Bruner, J., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry*, 17(2), 89-100.
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

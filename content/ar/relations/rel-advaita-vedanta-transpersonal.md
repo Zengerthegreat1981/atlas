@@ -166,3 +166,7 @@ gaps:
 - Maslow, A. H. (1964). *Religions, Values, and Peak-Experiences*. Ohio State University Press.
 - Forman, R. K. C. (Ed.). (1990). *The Problem of Pure Consciousness*. Oxford University Press.
 - Rao, K. R., Paranjpe, A. C., & Dalal, A. K. (Eds.). (2010). *Eastern and Western Perspectives on Consciousness*. Springer.
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

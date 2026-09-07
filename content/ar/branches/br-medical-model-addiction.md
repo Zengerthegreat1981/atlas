@@ -84,3 +84,7 @@ gaps:
 - **ASAM Definition (2011)**: «Addiction is a treatable, chronic medical disease...».
 - **NIDA Brain Disease Model**: مستند إلى دراسات التصوير العصبي (Volkow).
 - **نقد**: Lancet Psychiatry 2016، Heyman: «ليس كل ادعاء مرض» يثبت تجريبياً.
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

@@ -26,3 +26,7 @@ gaps:
 `agents_specs/quarantine-minimax-archive/thk-rohan-gullich.md.archived.2026-08-27`
 
 لم يُعثر على توثيق مستقل لوجود هذا الشخص. راجع `agents_specs/quarantine-minimax.md` للتفاصيل.
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

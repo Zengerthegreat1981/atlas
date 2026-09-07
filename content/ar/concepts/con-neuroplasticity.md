@@ -84,3 +84,7 @@ gaps:
 - Doidge, N. (2007). *The Brain That Changes Itself*. Viking.
 - Merzenich, M. (2013). *Soft-Wired*. Parnassus Publishing.
 - Maguire, E. A., et al. (2000). Navigation-related structural change in the hippocampi of taxi drivers. *PNAS*, 97(8), 4398-4403.
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

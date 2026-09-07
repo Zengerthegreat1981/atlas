@@ -107,3 +107,7 @@ gaps:
 - Haque, A. (2004). Psychology from Islamic perspective: Contributions of early Muslim scholars and challenges to contemporary Muslim psychologists. *Journal of Religion and Health*, 43(4), 357-377.
 - Badri, M. (2000). *Contemporary Psychotherapy and the Muslim Patient*. International Institute of Islamic Thought.
 - Abdel-Khalek, A. M. (2010). Qur'anic approach to psychotherapy. *Journal of Qur'anic Studies*, 12(1-2), 142-160.
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

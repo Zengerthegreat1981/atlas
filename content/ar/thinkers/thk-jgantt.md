@@ -28,3 +28,7 @@ gaps:
 `agents_specs/quarantine-minimax-archive/thk-jgantt.md.archived.2026-08-27`
 
 لم يُعثر على توثيق مستقل لوجود هذا الشخص. راجع `agents_specs/quarantine-minimax.md` للتفاصيل.
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

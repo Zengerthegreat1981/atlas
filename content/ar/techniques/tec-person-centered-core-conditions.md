@@ -80,3 +80,7 @@ gaps:
 ## المصدر
 
 العرض الأول: *The Necessary and Sufficient Conditions of Therapeutic Personality Change* (1957). التطوير: *On Becoming a Person* (1961) و*A Way of Being* (1980).
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

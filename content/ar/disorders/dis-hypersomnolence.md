@@ -81,3 +81,7 @@ ICD-11 يصنّف Hypersomnia (7A20) ضمن اضطرابات النوم-الاس
 - World Health Organization. (2019/2022). *ICD-11*. WHO.
 - Dauvilliers, Y., & Buguet, A. (2005). *Hypersomnia*. In *Principles and Practice of Sleep Medicine* (Kryger, Roth, & Dement, Eds.). Elsevier.
 - Billiard, M., & Dauvilliers, Y. (Eds.). (2012). *Idiopathic Hypersomnia: Diagnosis and Treatment*. Sleep Medicine Reviews (review series).
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

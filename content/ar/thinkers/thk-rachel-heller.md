@@ -46,3 +46,9 @@ gaps:
 ## أهم أعمالها
 
 - *Attached: The New Science of Adult Attachment and How It Can Help You Find — and Keep — Love* (2010، مع عامير ليفين).
+
+## المصادر
+
+مصادر أساسية مرتبطة بهذا المدخل (وفق حقل `related` في البيانات الوصفية):
+
+- *المتعلقون*

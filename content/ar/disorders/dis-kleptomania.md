@@ -213,3 +213,7 @@ gaps:
 - World Health Organization. (2019/2022). *ICD-11*. WHO.
 - Grant, J. E., & Potenza, M. N. (2004). *Pathological Gambling and Other Behavioral Addictions*. American Psychiatric Publishing.
 - McElroy, S. L., Phillips, K. A., & Keck, P. E. (1994). "Kleptomania, compulsive buying, and binge eating disorder." *Journal of Clinical Psychiatry*.
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

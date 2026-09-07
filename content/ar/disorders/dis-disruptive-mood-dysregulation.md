@@ -179,3 +179,7 @@ ICD-11 يصنّف الحالة تحت 6A05 "اضطراب عدم التنظيم �
 - World Health Organization. (2019/2022). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - Roy, A. K., et al. (2014). *Disruptive Mood Dysregulation Disorder*. Oxford University Press.
 - Wozniak, J., et al. (2017). Disruptive Mood Dysregulation Disorder: A Guide for Clinicians. *Journal of Clinical Psychiatry*.
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

@@ -46,3 +46,7 @@ gaps:
 
 - *Ethics and Lao-tzu* (كتاب مستقل).
 - فصول في *The Handbook of Humanistic Psychology* (بتحرير ك. شنايدر وآخرين) وفي *Humanity's Dark Side: Evil, Destructive Experience, and Psychotherapy*.
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

@@ -138,3 +138,7 @@ ODD **ليس في الأساس مشكلة في الطفل** بل في **التف
 - World Health Organization. (2019/2022). *ICD-11*. WHO.
 - AACAP. (2007/Revised). "Practice Parameters for the Assessment and Treatment of Children and Adolescents with Oppositional Defiant Disorder." *Journal of the American Academy of Child & Adolescent Psychiatry*.
 - Eyberg, S. M., et al. (2008). *Parent-Child Interaction Therapy*. Springer.
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

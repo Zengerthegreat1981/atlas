@@ -125,3 +125,7 @@ gaps:
 - Johnson, S. M. (2004). «The practice of emotionally focused couple therapy: Creating connection». Brunner/Mazel.
 - Johnson, S. M. (2008). *Hold Me Tight: Seven Conversations for a Lifetime of Love*. Routledge.
 - Johnson, S. M., & Greenberg, L. S. (1988). «Relating process to outcome in marital therapy». *Journal of Marital and Family Therapy*, 14(2), 175-183.
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

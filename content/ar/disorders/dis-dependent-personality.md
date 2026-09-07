@@ -188,3 +188,9 @@ gaps:
 - World Health Organization. (2019/2022). *ICD-11*. WHO.
 - Beck, A. T., & Freeman, A. (1990). *Cognitive Therapy of Personality Disorders*. Guilford Press.
 - Bornstein, R. F. (2005). *The Dependent Patient: Diagnosis, Assessment, and Treatment*. American Psychological Association.
+
+## المصادر
+
+مصادر أساسية مرتبطة بهذا المدخل (وفق حقل `related` في البيانات الوصفية):
+
+- *العلاج المعرفي لاضطرابات الشخصية*

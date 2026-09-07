@@ -198,3 +198,7 @@ ICD-11 يصنّف BD-II تحت 6A61، ويتطلب نوبة هوس خفيف ون
 - World Health Organization. (2019/2022). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - Phelps, J. (2018). *Bipolar, Not So Much: Understanding Your Mood Swings and Depression*. WW Norton.
 - Miklowitz, D. J., & Gitlin, M. J. (2014). *Clinician's Guide to Bipolar Disorder*. Guilford Press.
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

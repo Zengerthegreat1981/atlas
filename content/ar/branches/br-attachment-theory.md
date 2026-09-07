@@ -81,3 +81,7 @@ gaps:
 - Ainsworth, M. D. S. (1978). *Patterns of Attachment*. Lawrence Erlbaum.
 - Main, M., & Hesse, E. (1990). Parents' unresolved traumatic experiences are related to infant disorganized attachment status. In M. T. Greenberg et al. (Eds.), *Attachment in the Preschool Years*. University of Chicago Press.
 - Fonagy, P., & Target, M. (2006). *Psychotherapy for Borderline Personality Disorder*. Oxford University Press.
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

@@ -93,3 +93,7 @@ ICD-11 يوسّع التصنيف إلى:
 - Epstein, L. J., et al. (2009). Clinical guideline for the evaluation, management and long-term care of obstructive sleep apnea in adults. *Journal of Clinical Sleep Medicine*, 5(3), 263-276.
 - Patil, S. P., et al. (2019). Treatment of Adult Obstructive Sleep Apnea With Positive Airway Pressure. *Journal of Clinical Sleep Medicine*, 15(2), 335-343.
 - Benjafield, A. V., et al. (2019). Estimation of the global prevalence and burden of obstructive sleep apnoea. *Lancet Respiratory Medicine*, 7(8), 687-698.
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

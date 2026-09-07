@@ -72,3 +72,7 @@ gaps:
 - Minuchin, S., Rosman, B. L., & Baker, L. (1978). *Psychosomatic Families*. Harvard University Press.
 - Minuchin, S., & Fishman, H. C. (1981). *Family Therapy Techniques*. Harvard University Press.
 - Colapinto, J. (1991). *Structural Family Therapy*. In A. S. Gurman & D. P. Kniskern (Eds.), *Handbook of Family Therapy*. Brunner/Mazel.
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

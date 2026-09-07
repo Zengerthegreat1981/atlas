@@ -125,3 +125,7 @@ gaps:
 - Berry, J. W. (1989). «Imposed etics, derived etics, and the comparative study of cultures». *Journal of Cross-Cultural Psychology*, 20(1), 91-99.
 - Kim, U. (2001). «Indoctrination to Indigenous Psychologies». In *International Encyclopedia of the Social and Behavioral Sciences*. Elsevier.
 - Helfrich, H. (1999). *Abendländische Kultur und Han-Chinesische Kultur*. Waxmann. (نقد نسبي للثنائية).
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

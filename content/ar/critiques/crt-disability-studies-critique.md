@@ -129,3 +129,7 @@ gaps:
 
 - **`dbt-autism-cure-vs-neurodiversity` و `con-cure-vs-neurodiversity`**: هذه slugs **مذكورة** كموجودة في EXISTING_SLUGS (مسودة) — تم الاحتفاظ بها كـ related.
 - **النص يختم بالخلاصة**: ABA = "إصلاح"، Neurodiversity = "تعدد"، DSM = "أداة تصنيفية".
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

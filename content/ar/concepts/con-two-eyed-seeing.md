@@ -99,3 +99,6 @@ gaps:
 - Marshall, A. (2010). «Two-Eyed Seeing: An Indigenous approach to environmental education». *Green Teacher*, 91, 24-29.
 - Bartlett, C., Marshall, M., & Marshall, A. (2004). «Two-Eyed Seeing: Research and pedagogy». Conference paper.
 
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

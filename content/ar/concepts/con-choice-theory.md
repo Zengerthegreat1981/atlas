@@ -53,3 +53,7 @@ gaps:
 ## المصدر
 
 صاغها غلاسر في كتابه *Choice Theory: A New Psychology of Personal Freedom* (1998) وعالج تطبيقاتها في *Counseling with Choice Theory* (2001) و *Every Student Can Succeed* (2003).
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

@@ -47,3 +47,7 @@ gaps:
 - *Transformation: Emergence of the Self* (1998).
 - *Minding the Self* (2014).
 - *Jung's Treatment of Christianity* (1985).
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

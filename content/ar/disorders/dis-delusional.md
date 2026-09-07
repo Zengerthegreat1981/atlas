@@ -94,3 +94,7 @@ ICD-11 يُصنّف اضطراب الوهام تحت 6A22، ويقدّم تصن�
 - World Health Organization. (2019/2022). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - Coltheart, M., & Davies, M. (Eds.). (2021). *Delusional Belief* (Issues in Experimental Philosophy). Oxford University Press.
 - Freeman, D. (2016). *Persecutory Delusions: A Cognitive Perspective*. Routledge.
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

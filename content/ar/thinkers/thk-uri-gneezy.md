@@ -41,3 +41,7 @@ gaps:
 - *Pay Enough or Don't Pay at All* (2000).
 - *The Why Axis: Hidden Motives and the Undiscovered Economics of Everyday Life* (2013، مع جون ليست).
 - *Mixed Signals: How Incentives Really Work* (2023).
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

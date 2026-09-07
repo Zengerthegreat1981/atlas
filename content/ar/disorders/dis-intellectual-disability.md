@@ -79,3 +79,7 @@ ICD-11 يستخدم تسمية "اضطرابات النمو الفكري" (Disor
 - American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR)*. APA.
 - World Health Organization. (2019/2022). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - American Association on Intellectual and Developmental Disabilities (AAIDD). *Manual on Intellectual Disability*.
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

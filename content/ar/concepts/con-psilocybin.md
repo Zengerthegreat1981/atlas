@@ -61,3 +61,7 @@ gaps:
 ## المرجع الأولي
 
 Griffiths, R. R. et al. (2016). "Psilocybin produces substantial and sustained decreases in depression and anxiety in patients with life-threatening cancer: A randomized double-blind trial"، في *Journal of Psychopharmacology*؛ Carhart-Harris, R. L. et al. (2021). "Trial of Psilocybin versus Escitalopram for Depression"، في *NEJM*؛ Goodwin, G. M. et al. (2022). "Single-Dose Psilocybin for a Treatment-Resistant Episode of Major Depression"، في *NEJM*؛ Hofmann, A. (1979). *LSD: My Problem Child*.
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

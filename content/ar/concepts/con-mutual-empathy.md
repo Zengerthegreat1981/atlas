@@ -62,3 +62,7 @@ gaps:
 ## المصدر
 
 طوّرته بيكر ميلر في *Toward a New Psychology of Women* (1976)، ثم بسّطته جوردان وبيكر ميلر في *Women’s Growth in Connection* (1991)، وعالجتها جوردان في *The Complexity of Connection* (2004) و *Relational-Cultural Therapy* (2018، مع ولكر).
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

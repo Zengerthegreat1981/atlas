@@ -84,3 +84,7 @@ ICD-11 (7A21) يوازي هذا التقسيم ضمن نفس الكتلة، مع
 - Scammell, T. E. (2015). Narcolepsy. *New England Journal of Medicine*, 373(27), 2654-2662.
 - Kornum, B. R., et al. (2017). Narcolepsy. *Nature Reviews Disease Primers*, 3, 16100.
 - Dauvilliers, Y., et al. (2014). Pitolisant versus placebo or modafinil in patients with narcolepsy. *Lancet Neurology*, 13(11), 1068-1075.
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

@@ -104,3 +104,7 @@ gaps:
 - Greenberg, L. S., & Paivio, S. C. (1997). *Working with Emotions in Psychotherapy*. Guilford Press.
 - Greenberg, L. S. (2011). *Emotion-Focused Therapy: A Clinical Synthesis*. APA.
 - Tomkins, S. (1991). *Affect Imagery Consciousness*. Springer.
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

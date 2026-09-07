@@ -64,3 +64,7 @@ FC تنتمي فكرياً لا إلى مدرسة سلوكية أو تحليلي
 - **مرفوضة من المنظمات المهنية**: جمعية ASHA (American Speech-Language-Hearing Association) وAPA (American Psychological Association) وAAC (Augmentative and Alternative Communication) وISAAC (International Society for Augmentative and Alternative Communication) أعلنت رفضها.
 - **التطبيق المتبقي**: في بعض المدارس والجمعيات الأهلية، لا يزال FC يُستخدم رغم الرفض العلمي.
 - **القضايا القانونية**: حالات محاكم مرتبطة بـFC (مثل Anna Stubblefield في نيوجيرسي 2015) أدت إلى إدانات.
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

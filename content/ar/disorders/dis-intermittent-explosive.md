@@ -218,3 +218,7 @@ gaps:
 - World Health Organization. (2019/2022). *ICD-11*. WHO.
 - McCloskey, M. S., & Coccaro, E. F. (2018). *Intermittent Explosive Disorder: Development, Assessment, and Treatment*. Academic Press.
 - Linehan, M. M. (1993). *Cognitive-Behavioral Treatment of Borderline Personality Disorder*. Guilford Press.
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

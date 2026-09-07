@@ -170,3 +170,7 @@ ICD-11 يصنّف اضطراب التعلق التفاعلي تحت 6B44 ضمن 
 - World Health Organization. (2019/2022). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - Bowlby, J. (1969/1982). *Attachment and Loss* (Vols. 1–3). Basic Books.
 - Zeanah, C. H., & Gleason, M. M. (2015). *Attachment Disorders in Early Childhood*. Springer.
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

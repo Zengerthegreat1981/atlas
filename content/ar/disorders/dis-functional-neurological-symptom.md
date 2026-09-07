@@ -205,3 +205,7 @@ ICD-11 يصنّف اضطراب الأعراض العصبية الوظيفية ت
 - Stone, J., Carson, A., & Sharpe, M. (2009). *Functional Symptoms in Neurology: Management*. Practical Neurology.
 - Edwards, M. J., Bhatia, K. P. (2012). *Functional (Psychogenic) Movement Disorders*. Current Opinion in Neurology.
 - Perez, D. L., et al. (2021). *Neuroimaging in Functional Neurological Disorder*. Nature Reviews Neurology.
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

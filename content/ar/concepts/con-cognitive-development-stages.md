@@ -86,3 +86,7 @@ gaps:
 - Piaget, J. (1936). *The Origins of Intelligence in Children*. International Universities Press.
 - Piaget, J. (1964). "Cognitive Development in Children." *Journal of Research in Science Teaching*, 2(3), 176-186.
 - Piaget, J., & Inhelder, B. (1969). *The Psychology of the Child*. Basic Books.
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

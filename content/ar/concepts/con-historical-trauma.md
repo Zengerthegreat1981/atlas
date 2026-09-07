@@ -125,3 +125,6 @@ gaps:
 - Brave Heart, M. Y. H., & DeBruyn, L. M. (1998). «The American Indian Holocaust». *American Indian and Alaska Native Mental Health Research*, 8(2).
 - Yehuda, R. (2002). «Post-traumatic stress disorder». *New England Journal of Medicine*, 346(2). (نظرية انتقال PTSD عبر الأجيال).
 
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

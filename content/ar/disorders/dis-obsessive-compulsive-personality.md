@@ -191,3 +191,7 @@ gaps:
 - World Health Organization. (2019/2022). *ICD-11*. WHO.
 - Beck, A. T., & Freeman, A. (1990). *Cognitive Therapy of Personality Disorders*. Guilford Press.
 - Leahy, R. L., Holland, S. J., & McGinn, L. K. (2011). *Treatment Plans and Interventions for Depression and Anxiety Disorders*. Guilford Press.
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

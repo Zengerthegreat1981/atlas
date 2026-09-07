@@ -50,3 +50,7 @@ gaps:
 - *Games for Actors and Non-Actors* (1992).
 - *The Rainbow of Desire* (1995).
 - *Legislative Theatre* (1998).
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

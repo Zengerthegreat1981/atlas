@@ -206,3 +206,7 @@ gaps:
 - Hare, R. D. (1993). *Without Conscience: The Disturbing World of the Psychopaths Among Us*. Pocket Books.
 - Blackburn, R. (2006). *The Treatment of Personality Disorder: A Critical Review*. Routledge.
 - Beck, A. T., & Freeman, A. (1990). *Cognitive Therapy of Personality Disorders*. Guilford Press.
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

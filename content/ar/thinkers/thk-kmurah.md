@@ -48,3 +48,7 @@ gaps:
 ## PSJA (Pittsburgh Society of Jungian Analysts) — Pittsburgh
 
 ملف placeholder موحد، يجب فصله لوصف كل واحد مع المؤسسين الفعليين.
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

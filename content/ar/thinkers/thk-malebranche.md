@@ -40,3 +40,7 @@ gaps:
 - *Traité de la nature et de la grâce* (1680).
 - *Entretiens sur la métaphysique et sur la religion* (1688).
 - *Traité de morale* (1684).
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

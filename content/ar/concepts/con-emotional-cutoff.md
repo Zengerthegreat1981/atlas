@@ -74,3 +74,7 @@ gaps:
 
 Bowen, M. (1978). "Family Therapy in Clinical Practice", الفصل 5.
 Kerr, M. E. (2000). "One Family's Story: A Primer on Bowen Theory". Available online.
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

@@ -102,3 +102,9 @@ gaps:
 - Main, M., & Hesse, E. (1990). "Parents' unresolved traumatic experiences are related to infant disorganized attachment status." In M. T. Greenberg et al. (Eds.), *Attachment in the Preschool Years*. University of Chicago Press.
 - Mikulincer, M., & Shaver, P. R. (2007). *Attachment in Adulthood: Structure, Dynamics, and Change*. Guilford Press.
 - Roisman, G. I., et al. (2002). "Earned-security in adults: Concurrent and longitudinal correlates." *Development and Psychopathology*, 14(1), 175-196.
+
+## المصادر
+
+مصادر أساسية مرتبطة بهذا المدخل (وفق حقل `related` في البيانات الوصفية):
+
+- *التعلق (المجلد الأول، 1969)*

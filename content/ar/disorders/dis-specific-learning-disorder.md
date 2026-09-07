@@ -85,3 +85,7 @@ ICD-11 يُصنّف تحت "اضطرابات النمو العصبي" مع "ال
 - World Health Organization. (2019/2022). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - Shaywitz, S. (2003). *Overcoming Dyslexia*. Knopf.
 - International Dyslexia Association. *Definition of Dyslexia*.
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

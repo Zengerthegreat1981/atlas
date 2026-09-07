@@ -56,3 +56,10 @@ gaps:
 - *Lost Connections: Uncovering the Real Causes of Depression – and the Unexpected Solutions* (2018)
 - *Stolen Focus: Why You Can't Pay Attention – and How to Think Deeply Again* (2022)
 - *Magic Pill: The Extraordinary Benefits and Disturbing Risks of the New Weight-Loss Drugs* (2024)
+
+## المصادر
+
+مصادر أساسية مرتبطة بهذا المدخل (وفق حقل `related` في البيانات الوصفية):
+
+- *انتباه مسروق: لماذا لا تستطيع التركيز*
+- *الروابط المفقودة: كشف الأسباب الحقيقية غير المُخبَّرة للاكتئاب - وما الذي يساعد حقاً*

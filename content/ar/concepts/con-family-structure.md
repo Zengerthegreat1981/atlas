@@ -74,3 +74,7 @@ gaps:
 
 Minuchin, S. (1974). *Families and Family Therapy*. Harvard University Press.
 Minuchin, S., & Fishman, H. C. (1981). *Family Therapy Techniques*. Harvard University Press.
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

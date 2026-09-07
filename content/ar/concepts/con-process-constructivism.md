@@ -60,3 +60,7 @@ gaps:
 ## المصدر
 
 عالجها جندلين في *A Process Model* (1985، ضمن *Ecological Psychology*) ثم بسطها في *The Primacy of the Immediate* (2012) و*Process Focus* (2013، مع لوم).
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

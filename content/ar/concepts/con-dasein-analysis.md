@@ -65,3 +65,7 @@ gaps:
 ## المصدر
 
 الكتاب التأسيسي لبنسوانغر: *Grundformen und Erkenntnis menschlichen Daseins* (1942). عرض بوس: *Grundriss der Medizin* (1975) و*Zollikoner Seminare* (نُشرت 1987).
+
+## المصادر
+
+لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

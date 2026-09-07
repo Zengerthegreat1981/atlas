@@ -110,3 +110,7 @@ gaps:
 - World Health Organization. (2019/2022). *ICD-11*. WHO.
 - Rubio-Aurioles, E., & Bivalacqua, T. J. (2013). "Male Sexual Dysfunction." *Journal of Sexual Medicine*.
 - Isidori, A. M., et al. (2014). "Management of Male Hypogonadism." *European Journal of Endocrinology*.
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

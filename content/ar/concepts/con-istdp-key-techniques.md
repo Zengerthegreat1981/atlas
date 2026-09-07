@@ -58,3 +58,7 @@ gaps:
 ## المرجع الأولي
 
 Hassan Davanloo, M.D. — *Unlocking the Unconscious: Selected Papers of Habib Davanloo* (1990, Wiley)؛ Abbass, A. et al. (2013). "Intensive Short-Term Dynamic Psychotherapy: A Systematic Review and Meta-analysis"، في *Psychotherapy*؛ Kihlbom, M. & Tishman, P. (2017). *The ISTDP Pocket Guide*.
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

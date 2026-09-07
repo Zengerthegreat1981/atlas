@@ -125,3 +125,7 @@ Enuresis **ليس مشكلة نفسية في الأساس**، لكنه قد يُ
 - World Health Organization. (2019/2022). *ICD-11*. WHO.
 - Caldwell, P. H., et al. (2013). "Bedwetting Alarms for Nocturnal Enuresis." *Cochrane Database of Systematic Reviews*.
 - National Institute for Health and Care Excellence (NICE). (2010). *Bedwetting in Under 19s*. NICE Clinical Guideline.
+
+## المصادر
+
+يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.

@@ -101,3 +101,7 @@ gaps:
 - Berg, I. K., & Miller, S. D. (1992). *Working with the Problem Drinker: A Solution-Focused Approach*. W. W. Norton.
 - de Shazer, S., et al. (2007). *More Than Miracles: The State of the Art of Solution-Focused Brief Therapy*. Routledge.
 - Gingerich, W. J., & Eisengart, S. (2000). Solution-focused brief therapy: A review of the outcome research. *Family Process*, 39(4), 477-498.
+
+## المصادر
+
+لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.

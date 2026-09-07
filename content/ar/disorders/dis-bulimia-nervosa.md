@@ -168,3 +168,7 @@ ICD-11 (الكود 6B81) يحتفظ بالجوهر، مع التركيز على 
 - World Health Organization. (2019/2022). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - Fairburn, C. G. (2008). *Cognitive Behavior Therapy and Eating Disorders*. Guilford Press.
 - National Institute for Health and Care Excellence. (2017). *Eating Disorders: Recognition and Treatment* (NICE Guideline NG69). NICE.
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.

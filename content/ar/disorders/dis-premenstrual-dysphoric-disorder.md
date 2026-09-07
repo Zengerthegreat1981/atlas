@@ -169,3 +169,7 @@ ICD-11 يصنّف PMDD تحت 6A73 (نوع من الاكتئاب المتكرر 
 - World Health Organization. (2019/2022). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - Yonkers, K. A., & Casper, R. F. (2020). *Premenstrual Syndrome and Premenstrual Dysphoric Disorder*. UpToDate.
 - Hantsoo, L., & Epperson, C. N. (2015). Premenstrual Dysphoric Disorder: Epidemiology and Treatment. *Current Psychiatry Reports*, 17(11).
+
+## المصادر
+
+لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.
