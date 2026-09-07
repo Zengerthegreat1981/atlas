@@ -1,6 +1,6 @@
 ---
 slug: "thk-stumpf"
-id: "THK-6334"
+id: "THK-6489"
 type: "مفكر"
 level: "متقدم"
 title: "كارل ستومبف"

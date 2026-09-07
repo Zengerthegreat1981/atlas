@@ -1,6 +1,6 @@
 ---
 slug: "thk-abraham-kawai"
-id: "THK-1466"
+id: "THK-6485"
 type: "مفكر"
 level: "متوسط"
 title: "أبراهام كاوانيوآ"

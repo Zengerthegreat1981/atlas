@@ -1,6 +1,6 @@
 ---
 slug: "thk-woodworth"
-id: "THK-6335"
+id: "THK-6490"
 type: "مفكر"
 level: "متقدم"
 title: "روبرت وودوورث"

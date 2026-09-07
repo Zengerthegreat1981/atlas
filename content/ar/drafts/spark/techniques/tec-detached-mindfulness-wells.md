@@ -1,5 +1,6 @@
 ---
 slug: "tec-detached-mindfulness-wells"
+id: "[DRAFT-UNKNOWN]"
 type: "تقنية/تدخل علاجي"
 level: "متوسط"
 title: "اليقظة الذهنية المنفصلة (Detached Mindfulness)"

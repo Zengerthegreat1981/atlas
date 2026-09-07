@@ -1,6 +1,6 @@
 ---
 slug: "stu-maps-mdma-phase3"
-id: "STU-0037"
+id: "STU-0127"
 type: "دراسة وبحث"
 level: "متقدم"
 title: "التجربة المحورية MAPP1: علاج مساعَد بـMDMA لاضطراب الكرب التالي للصدمة"

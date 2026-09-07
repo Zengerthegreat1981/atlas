@@ -7,7 +7,7 @@
 من غير ما تتأكد هنا فعلياً. **الفهرس ده بيغطي المسودات كمان، مش بس المحتوى المعتمد** —
 لازم تفحصه حتى لو بتكتب مسودة جديدة، عشان متكررش مسودة موجودة بالفعل من جلسة تانية.
 
-⚠️ **22 slug موجود في المعتمد والمسودات معاً (يحتاج تنظيف):** thk-cmadanes, thk-kimkwansung, thk-bobbeck, thk-kaarlokeranen, thk-jdelozier, thk-louise-guerney, thk-cyamanaka, thk-caruso-amedeo, thk-edward-de-bono, thk-kfeeney, thk-john-friedman, thk-jabra, thk-jchales, thk-jcawley, thk-akelman, thk-johann-hari, thk-dwchen, thk-jgone, thk-kunzli, thk-lwalker, thk-deng-yuanhai, thk-alasdair-macleod
+⚠️ **20 slug موجود في المعتمد والمسودات معاً (يحتاج تنظيف):** thk-kimkwansung, thk-bobbeck, thk-kaarlokeranen, thk-jdelozier, thk-louise-guerney, thk-cyamanaka, thk-caruso-amedeo, thk-kfeeney, thk-john-friedman, thk-jabra, thk-jchales, thk-jcawley, thk-akelman, thk-johann-hari, thk-dwchen, thk-jgone, thk-kunzli, thk-lwalker, thk-deng-yuanhai, thk-alasdair-macleod
 
 ## مفكر (2508)
 
@@ -41,7 +41,7 @@
 - `thk-adorno` — ثيودور أدورنو — ✅ معتمد
 - `thk-adud-al-din-al-iji` — عضد الدين عبد الرحمن بن أحمد الإيجي — ✅ معتمد
 - `thk-afaria` — أبِي فاريا — ✅ معتمد
-- `thk-aferro` — أنطونيو فيرو — ✅ معتمد
+- `thk-aferro` — أنطونينو فيرو — ✅ معتمد
 - `thk-afghani` — جمال الدين الأفغاني — ✅ معتمد
 - `thk-afreud` — أنا فرويد — ✅ معتمد
 - `thk-agarciag` — أليسيا غارسيا غونثاليث — ✅ معتمد
@@ -346,7 +346,7 @@
 - `thk-caspi` — أفشالوم كاسبي — 🕓 مسودة
 - `thk-cassirer` — إرنست كاسيرر — ✅ معتمد
 - `thk-castillejo` — إيرين كلارمونت دي كاستييخو — ✅ معتمد
-- `thk-cavasco` — كارلوس ألبيرتو فاسكو — ✅ معتمد
+- `thk-cavasco` — كارلوس إدواردو فاسكو أوريبي — ✅ معتمد
 - `thk-cborduin` — تشارلز بوردوين — ✅ معتمد
 - `thk-cbrenner` — تشارلز برينر — ✅ معتمد
 - `thk-ccastoriadis` — كورنليوس كاستوريادس — ✅ معتمد
@@ -419,7 +419,7 @@
 - `thk-costa` — بول كوستا — 🕓 مسودة
 - `thk-courtois` — كريستين كورتوا — 🕓 مسودة
 - `thk-cpeterson` — كريستوفر بيترسون — ✅ معتمد
-- `thk-cprata` — كارلو براتا — ✅ معتمد
+- `thk-cprata` — جوليانا براتا — ✅ معتمد
 - `thk-craig-henderson` — كريغ هندرسون — 🕓 مسودة
 - `thk-craig-joseph` — كريغ جوزيف — 🕓 مسودة
 - `thk-craik` — فيرغوس كريك — 🕓 مسودة
@@ -480,7 +480,7 @@
 - `thk-dbaumrind` — ديانا باومرند — ✅ معتمد
 - `thk-dbecker` — ديبورا بيكر — ✅ معتمد
 - `thk-dbob` — د. بوب (روبرت هولبروك سميث) — ✅ معتمد
-- `thk-dboyden` — ديان بوييدن — ✅ معتمد
+- `thk-dboyden` — ديان بوييدن-بيسّو — ✅ معتمد
 - `thk-dcamp` — دِنيس كامبل — ✅ معتمد
 - `thk-dcartwright` — دوروين كارترايت — ✅ معتمد
 - `thk-dchamberlain` — ديفيد تشامبرلين — ✅ معتمد
@@ -517,8 +517,8 @@
 - `thk-dgbarrera` — دييغو غارسيا بارّيرا — ✅ معتمد
 - `thk-dgrand` — ديفيد غراند — ✅ معتمد
 - `thk-dgray` — مارتن غراي — ✅ معتمد
-- `thk-dgreenberger` — دِنيز د. ديفيد — ✅ معتمد
-- `thk-dhanna` — فرانك غولدشتاين — ✅ معتمد
+- `thk-dgreenberger` — دِنيس غرينبرغر — ✅ معتمد
+- `thk-dhanna` — مايكل ج. غولدشتاين — ✅ معتمد
 - `thk-dharmakirti` — دارماكيرتي — ✅ معتمد
 - `thk-dhook` — دِنيس فوكس — ✅ معتمد
 - `thk-diclemente` — كارلو دي كليمنتي — ✅ معتمد
@@ -1054,7 +1054,7 @@
 - `thk-jcmilner` — جان-كلود ميلنر — ✅ معتمد
 - `thk-jcolapinto` — خورخي كولابينتو — ✅ معتمد
 - `thk-jconstantino` — جون كونستانتينو — ✅ معتمد
-- `thk-jcurran` — جوزيف ب. كورّان — ✅ معتمد
+- `thk-jcurran` — جيمس ب. كورّان — ✅ معتمد
 - `thk-jdavid` — جوردان ديفيد — ✅ معتمد
 - `thk-jdelozier` — جوديث دِلوزييه — ✅ معتمد
 - `thk-jdifede` — جوان ديفيدي — ✅ معتمد
@@ -1275,7 +1275,7 @@
 - `thk-kmithoefer` — آن ميثوفر (إحالة) — ✅ معتمد
 - `thk-kmorita` — ماساتاكي موريتا — ✅ معتمد
 - `thk-kmurah` — [مؤسِّسو SFJA / ISAP / NYAAP / JPA / IRSJA / PCSJA / CSJA / DSJA / GAJA / JAWA / NCSJA / NMSJA / OVAJA / PAJA / PNSJA / PSJA] — ✅ معتمد
-- `thk-knakamura` — كويتشي ناكامورا — ✅ معتمد
+- `thk-knakamura` — كي ناكامورا — ✅ معتمد
 - `thk-knoblauch` — [مؤسِّسو DGAP] DGAP founders (ألمانيا) — ✅ معتمد
 - `thk-koenig` — هارولد كونيغ — 🕓 مسودة
 - `thk-koestenbaum` — بيتر كوستنباوم — ✅ معتمد
@@ -1388,7 +1388,7 @@
 - `thk-locke` — جون لوك — ✅ معتمد
 - `thk-loewald` — هانز لوفالد — ✅ معتمد
 - `thk-loewenstein` — رودولف لوفينشتاين — ✅ معتمد
-- `thk-lonan` — لورينا أونيس — ✅ معتمد
+- `thk-lonan` — لويجي أونيس — ✅ معتمد
 - `thk-longchenpa` — لونغتشين رابجامبا — ✅ معتمد
 - `thk-lopezpedraza` — رافائيل لوبيز-بيدراثا — ✅ معتمد
 - `thk-lorange` — دونا أورانج — ✅ معتمد
@@ -3438,7 +3438,7 @@
 - `con-zurvan` — زروان (الزمن المطلق / القدر) — ✅ معتمد
 - `con-zurvan-infinite-time` — زُروان والزمان اللانهائي (Zurvan / Infinite Time) — ✅ معتمد
 
-## عمل / كتاب (623)
+## عمل / كتاب (622)
 
 - `wrk-12-rules-for-life` — 12 قاعدة للحياة: ترياق للفوضى — ✅ معتمد
 - `wrk-48-laws-of-power` — 48 قانوناً للقوة — ✅ معتمد
@@ -3448,7 +3448,7 @@
 - `wrk-7-habits` — العادات السبع للناس الأكثر فاعلية — ✅ معتمد
 - `wrk-a-theory-of-justice-rawls` — نظرية في العدالة لجون رولز — ✅ معتمد
 - `wrk-a-thousand-plateaus-deleuze-guattari` — ألف هضبة لدولوز وغاتاري (Mille Plateaux) — ✅ معتمد
-- `wrk-acts-of-meaning` — أفعال المعنى: علم النفس السردي للتجربة الإنسانية — ✅ معتمد
+- `wrk-acts-of-meaning` — أفعال المعنى لجيروم برونر — ✅ معتمد
 - `wrk-adler-understanding-human-nature` — كتاب فهم الطبيعة البشرية لألفرد أدلر (1927) — ✅ معتمد
 - `wrk-affect-regulation-mentalization` — تنظيم الوجدان والذهنية وتطور الذات — ✅ معتمد
 - `wrk-affective-neuroscience` — علم الأعصاب الوجداني: الأسس العصبية للعواطف الإنسانية والحيوانية — ✅ معتمد
@@ -3560,7 +3560,7 @@
 - `wrk-concluding-unscientific-postscript-kierkegaard` — خاتمة غير علمية لكتاب شظايا فلسفية لكيركغارد — ✅ معتمد
 - `wrk-confessions-augustine` — الاعترافات للقديس أوغسطينوس (Confessiones) — ✅ معتمد
 - `wrk-consolation-philosophy` — عزاء الفلسفة (De Consolatione Philosophiae) — ✅ معتمد
-- `wrk-contexts-of-being` — سياقات الوجود: المعنى البين-ذاتي للتجربة — ✅ معتمد
+- `wrk-contexts-of-being` — سياقات الوجود: الأسس البين-ذاتية للحياة النفسية — ✅ معتمد
 - `wrk-corpus-hermeticum` — الكوربوس الهرمسية — ✅ معتمد
 - `wrk-courage-to-be` — الشجاعة في الوجود — ✅ معتمد
 - `wrk-crisis-of-european-sciences-husserl` — أزمة العلوم الأوروبية والفينومينولوجيا الترنسندنتالية لهوسرل — ✅ معتمد
@@ -3609,7 +3609,7 @@
 - `wrk-ecology-community-lifestyle` — الإيكولوجيا والمجتمع ونمط الحياة (Ecology, Community and Lifestyle) — ✅ معتمد
 - `wrk-ecology-freedom-bookchin` — إيكولوجيا الحرية (The Ecology of Freedom) — ✅ معتمد
 - `wrk-economic-philosophic-manuscripts-1844` — مخطوطات باريس الاقتصادية والفلسفية 1844 لماركس — ✅ معتمد
-- `wrk-ecrits` — الكتابات (Écrits) — جاك لوكان — ✅ معتمد
+- `wrk-ecrits` — الكتابات (Écrits) — جاك لاكان — ✅ معتمد
 - `wrk-eger-the-choice` — الخيار: تقبل ما لا يمكن تغييره — ✅ معتمد
 - `wrk-ego-and-id-freud` — الأنا والهو — 🕓 مسودة
 - `wrk-either-or-kierkegaard` — إما / أو لسورين كيركغارد (Enten-Eller) — ✅ معتمد
@@ -3623,8 +3623,8 @@
 - `wrk-emotional-first-aid` — الإسعافات الأولية العاطفية: علاج الفشل والرفض والشعور بالذنب وجروح الحياة اليومية — ✅ معتمد
 - `wrk-emotional-intelligence` — الذكاء العاطفي — ✅ معتمد
 - `wrk-emotional-life-brain` — الحياة العاطفية لدماغك: كيف تشكّل أنماطه الفريدة طريقة تفكيرك وشعورك وحياتك — ✅ معتمد
-- `wrk-emotional-understanding` — الفهم العاطفي: الأخلاقيات البين-ذاتية للعلاج النفسي — ✅ معتمد
-- `wrk-emotionally-immature-parents` — أبناء الآباء غير الناضجين عاطفياً: كيف تشفي جروح طفولتك وتستعيد استقلالك — ✅ معتمد
+- `wrk-emotional-understanding` — الفهم العاطفي: دراسات في نظرية المعرفة التحليلية النفسية — ✅ معتمد
+- `wrk-emotionally-immature-parents` — أبناء بالغون لوالدين غير ناضجين عاطفياً: التعافي من والدين متباعدين أو رافضين أو منغلقين على ذاتيهما — ✅ معتمد
 - `wrk-emotions-revealed` — المشاعر المكشوفة: إدراك الوجوه والمشاعر لتحسين التواصل — ✅ معتمد
 - `wrk-enchiridion-epictetus` — المختصر في الرواقية لإبكتيتوس (Enchiridion) — ✅ معتمد
 - `wrk-encyclopedia-philosophical-sciences-hegel` — موسوعة العلوم الفلسفية لغيورغ هيغل — ✅ معتمد
@@ -3733,7 +3733,7 @@
 - `wrk-inquiry-into-good` — بحث في الخير (An Inquiry into the Good) — ✅ معتمد
 - `wrk-inquiry-into-human-mind-reid` — بحث في العقل البشري وفق مبادئ الحس المشترك لريد — ✅ معتمد
 - `wrk-insha-al-dawa-ir-ibn-arabi` — إنشاء الدوائر الإحاطية لمحيي الدين بن عربي — ✅ معتمد
-- `wrk-insight-lieberman` — البصيرة: الحقيقة المفاجئة عن كيف يرانا الآخرون، وكيف نرى أنفسنا، ولماذا الإجابات تهم أكثر مما نعتقد — ✅ معتمد
+- `wrk-insight-lieberman` — اجتماعي: لماذا أدمغتنا موصولة للتواصل — ✅ معتمد
 - `wrk-instructions-ptahhotep` — تعاليم بتاح حتب — ✅ معتمد
 - `wrk-intelligenzprufungen-menschenaffen` — اختبارات ذكاء القردة العليا — ✅ معتمد
 - `wrk-intercultural-philosophy-wimmer` — الفلسفة البين-ثقافية (Interkulturelle Philosophie) — ✅ معتمد
@@ -3940,7 +3940,7 @@
 - `wrk-sense-and-sensibilia` — الإحساس والبيانات الحسية (Sense and Sensibilia) — ✅ معتمد
 - `wrk-set-boundaries-find-peace` — ضع حدوداً، تجد سلاماً: دليل لاستعادة ذاتك — ✅ معتمد
 - `wrk-seven-principles-marriage` — المبادئ السبعة لنجاح الزواج — ✅ معتمد
-- `wrk-shapiro-emdr-principles` — كتاب علاج EMDR: المبادئ والبروتوكولات لفرانسين شابيرو (2001) — ✅ معتمد
+- `wrk-shapiro-emdr-principles` — كتاب علاج EMDR: المبادئ والبروتوكولات لفرانسين شابيرو (1995) — ✅ معتمد
 - `wrk-sharh-usul-al-khamsa-abd-al-jabbar` — شرح الأصول الخمسة للقاضي عبد الجبار — ✅ معتمد
 - `wrk-shobogenzo-dogen` — شوبوجينزو لدوغن زينجي (خزانة عين الدارما الحقيقية) — ✅ معتمد
 - `wrk-shri-bhashya-ramanuja` — شري بهاشيا لرامانوجا — ✅ معتمد
@@ -4031,7 +4031,6 @@
 - `wrk-truth-and-method-gadamer` — الحقيقة والمنهج لهانز غيورغ غادامير — ✅ معتمد
 - `wrk-tuesdays-with-morrie` — ثلاثاءات مع موري: رجل عجوز وشاب ودرس الحياة الأعظم — ✅ معتمد
 - `wrk-twilight-of-the-idols-nietzsche` — أفول الأصنام لفريدريش نيتشه (كيف نتفلسف بمطرقة) — ✅ معتمد
-- `wrk-two-dogmas` — نقدان من الوضعية المنطقية (Two Dogmas of Empiricism) — ✅ معتمد
 - `wrk-two-treatises-of-government-locke` — رسالتان في الحكم المدني لجون لوك — ✅ معتمد
 - `wrk-uber-das-gedachtnis` — في الذاكرة — ✅ معتمد
 - `wrk-unwinding-anxiety` — تفكيك القلق: تدريب الدماغ لكسر دوائر الخوف والوسواس والشهوة — ✅ معتمد
@@ -5263,7 +5262,7 @@
 - `ctx-tavistock-institute-group-dynamics` — معهد تافستوك في لندن وأبحاث ديناميكيات الجماعة والتحليل المؤسسي — ✅ معتمد
 - `ctx-therapeutic-community` — تقليد المجتمع العلاجي والديمقراطية المؤسسية — ✅ معتمد
 - `ctx-toledo-school-of-translators` — مدرسة طليطلة للترجمة وجسر انتقال العلوم العربية إلى أوروبا — ✅ معتمد
-- `ctx-transgenerational-epigenetics-trauma` — ثورة علم الوراثة اللاجينية وإثبات انتقال الصدمات عبر الأجيال — ✅ معتمد
+- `ctx-transgenerational-epigenetics-trauma` — علم الوراثة اللاجينية وفرضية انتقال الصدمات عبر الأجيال: أدلة وحدودها — ✅ معتمد
 - `ctx-vedic-upanishadic-india` — الهند الفيدية والأوبانيشادية وميلاد فلسفة الذات الكلية (Brahman-Atman) — ✅ معتمد
 - `ctx-victorian-britain-morality-crisis` — العصر الفيكتوري البريطاني وأزمة الإيمان بعد نظرية التطور — ✅ معتمد
 - `ctx-vienna-fin-de-siecle-psychoanalysis` — فيينا نهاية القرن التاسع عشر وحاضنة ولادة التحليل النفسي — ✅ معتمد
@@ -7180,6 +7179,8 @@
 - `que-why-something-rather-than-nothing` — لماذا يوجد شيء بدلاً من لا شيء؟ — ✅ معتمد
 ### سابقة قانونية (1)
 - `eth-tarasoff-duty-warn` — واجب التحذير — قضية تاراسوف (Tarasoff v. Regents of University of California) — 🕓 مسودة
+### عمل / مقالة (1)
+- `wrk-two-dogmas` — عقيدتان من عقائد التجريبية (Two Dogmas of Empiricism) — ✅ معتمد
 ### مبدأ معياري (5)
 - `eth-confidentiality-limits` — حدود السرية العلاجية — 🕓 مسودة
 - `eth-diagnostic-disclosure-ethics` — أخلاقيات الإفصاح عن التشخيص النفسي — 🕓 مسودة

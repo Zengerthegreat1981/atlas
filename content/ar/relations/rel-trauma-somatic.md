@@ -10,8 +10,8 @@ active_start: 1977
 active_end: "مستمر"
 part: "bridge"
 edges:
-- rel: "belongs_to", target: "العلاج بالصدمة", target_type: "مدرسة"
-- rel: "relates_to", target: "الجسدية/الجسمانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-sensorimotor-psychotherapy", target_type: "مدرسة"
 related:
 - id: "thk-pogden", title: "بات أوغدن", type: "مفكر"
 - id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
@@ -21,7 +21,7 @@ related:
 gaps:
   - "دور ريتشارد رولف (Bodyworker، 1970s) في تأثير ليفين لم يُوثّق بدقة."
   - "تأثير ولاية بافلوف (Conditioning) في تفسير ليفين للصدمة كاستجابة غير منتهية — يحتاج مراجعة."
-  - "لا يوجد اقتباس مباشر موثوق متاح من ليفين عن فوا أو ريسك."
+  - "لم يُنقل في هذا الملف نص حرفي من ليفين يعلّق فيه بالاسم على منهجي فوا أو ريسك؛ المقارنة بينهما هنا منهجية (تحليل الفروق الفنية) لا استشهادية."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بات أوغدن (thk-pogden)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بابي روتشيلد (thk-rothschild)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إدنا ب. فوا (thk-foa)."

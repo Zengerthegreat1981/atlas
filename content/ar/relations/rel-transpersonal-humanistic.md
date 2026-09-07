@@ -10,12 +10,12 @@ active_start: 1968
 active_end: "مستمر"
 part: "bridge"
 edges:
-- rel: "belongs_to", target: "عبر الشخصية", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-transpersonal-psychology", target_type: "تيار"
 - rel: "relates_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
 - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
 - id: "br-transpersonal-psychology", title: "علم النفس عبر الشخصي", type: "تيار"
-- id: "br-self-actualization-maslow", title: "علم نفس تحقيق الذات (ماسلو)", type: "تيار"
+- id: "br-self-actualization-maslow", title: "علم نفس تحقيق الذات والدافعية الإنسانية (ماسلو)", type: "تيار"
 - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
 - id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
 - id: "thk-kwilber", title: "كين ويلبر", type: "مفكر"
@@ -23,7 +23,7 @@ related:
 gaps:
   - "ترتيب 'الموجات' الأربع (تحليل نفسي = 1، سلوكية = 2، إنسانية = 3، عبر شخصية = 4) ليس موحداً في الأدبيات — ماسلو نفسه اقترح 'الموجة الرابعة' (1968)، لكن ويلبر أعاد تفسير النظام بأكمله لاحقاً."
   - "علاقة ويلبر بـ 'AQAL' (All Quadrants, All Levels) كنموذج تكاملي — التفاصيل لم تُراجع بعد."
-  - "لا يوجد اقتباس مباشر موثوق متاح من ماسلو يصف غروف بالكلمات."
+  - "لم يُستخدم في هذا الملف اقتباس حرفي منقول من ماسلو أو غروف يصف علاقتهما الشخصية أو ظروف تأسيس الحركة مباشرة — الاعتماد هنا على تسلسل تاريخي موثّق من عناوين الأعمال وتواريخها لا على شهادات منقولة بالنص."
 ---
 
 # عبر الشخصية والإنسانية: ولادة الموجة الرابعة

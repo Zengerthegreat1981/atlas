@@ -1,6 +1,6 @@
 ---
 slug: "tec-shaping"
-id: "TEC-0384"
+id: "TEC-0387"
 type: "تقنية/تدخل علاجي"
 level: "أساسي"
 title: "التشكيل (Shaping)"

@@ -10,8 +10,8 @@ active_start: 1980
 active_end: "مستمر"
 part: "bridge"
 edges:
-- rel: "belongs_to", target: "ما بعد الحداثة البنائية", target_type: "مدرسة"
-- rel: "relates_to", target: "النظامية الأسرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-narrative-therapy", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
 - id: "thk-mwhite", title: "مايكل وايت", type: "مفكر"
 - id: "thk-kgergen", title: "كينيث جيرغن", type: "مفكر"
@@ -24,7 +24,7 @@ related:
 gaps:
   - "تأثير ميشيل فوكو (1975، Discipline and Punish) على مايكل وايت لم يُوثّق بدقة في الأدبيات العربية."
   - "الفرق بين 'البنائية' (Constructivism) و'البنائية الاجتماعية' (Social Constructionism) دقيق، ولم يُحلّ في الأدبيات المتوفرة."
-  - "لا يوجد اقتباس مباشر موثوق متاح من مينوشين عن وايت."
+  - "سلفادور مينوشين (Salvador Minuchin) وجّه انتقادات علنية معروفة للعلاج السردي البنائي عموماً (وصفه في مقالات ومقابلات بأنه يهمل البنية الأسرية الفعلية لصالح 'الحديث عن القصص')، لكن لم يُعثر على نص محدد يذكر فيه مايكل وايت بالاسم بدقة يمكن الاستشهاد به حرفياً هنا."
 ---
 
 # ما بعد الحداثة البنائية والنظامية الأسرية: من رحم المناهضة

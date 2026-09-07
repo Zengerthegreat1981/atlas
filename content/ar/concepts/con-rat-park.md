@@ -12,12 +12,12 @@ part: "philosophy"
 edges:
 - rel: "belongs_to", target: "br-abstinence-vs-harm-reduction", target_type: "تيار"
 related:
-- id: "thk-falexander", title: "بروس ألكسندر", type: "مفكر"
 - id: "br-abstinence-vs-harm-reduction", title: "الامتناع الكامل مقابل الحد من الضرر", type: "تيار"
 - id: "con-harm-reduction", title: "الحد من الضرر (Harm Reduction)", type: "مفهوم"
 gaps:
   - "تفاصيل تجربة Rat Park (1977-1981) تستحق توثيقاً منهجياً (مُنشورة في Pharmacology Biochemistry and Behavior 1978، ثم أعيد تفسيرها في 2010)."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا يوجد ملف thk- في الأطلس لبروس ك. ألكسندر (Bruce K. Alexander) صاحب التجربة؛ ملف thk-falexander الموجود يوثّق شخصاً آخر تماماً هو فريدريك ماتياس ألكسندر (F. Matthias Alexander، مؤسس تقنية ألكسندر)، فحُذف الرابط الخاطئ تجنباً لخلط الهويتين."
+  - "لم يُعثر على اقتباس مباشر موثّق من بروس ألكسندر بنصّه الإنجليزي الدقيق يصلح للاستشهاد."
 ---
 # تجربة Rat Park
 

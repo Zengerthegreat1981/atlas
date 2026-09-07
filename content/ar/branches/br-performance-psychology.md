@@ -11,16 +11,15 @@ language: "إنجليزية"
 active_start: 1980
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "الأداء والعلاج الرياضي", target_type: "مدرسة"
 related:
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 - id: "thk-deniswaitley", title: "دينيس ويتلي", type: "مفكر"
 - id: "con-flow", title: "التدفق (Flow)", type: "مفهوم"
 gaps:
   - "تاريخ 'Performance Psychology' كحقل أكاديمي مقابل 'Sport Psychology' يستحق مصدراً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لا تتوفر ترجمة عربية موثوقة لمقطع من ريتشارد سوين أو أندرس إريكسون يمكن الاستشهاد به مباشرة هنا."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: أندرس إريكسون (thk-andersericson)."
+  - "لا يوجد slug مدرسة موثّق لـ«الأداء والعلاج الرياضي» في الأطلس؛ رابط belongs_to حُذف لعدم وجود ملف مدرسة فعلي يطابقه."
 ---
 
 # علم نفس الأداء

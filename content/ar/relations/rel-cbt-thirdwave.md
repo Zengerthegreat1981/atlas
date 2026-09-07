@@ -13,8 +13,8 @@ edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 - rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "thk-beck", title: "أرون ت. بيك", type: "مفكر"
-- id: "thk-ellis", title: "ألبرت إيليس", type: "مفكر"
+- id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
+- id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
 - id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
 - id: "thk-zsegal", title: "زيندل سيغال", type: "مفكر"

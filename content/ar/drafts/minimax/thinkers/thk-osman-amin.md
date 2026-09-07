@@ -1,6 +1,6 @@
 ---
 slug: "thk-osman-amin"
-id: "THK-6337"
+id: "THK-6483"
 type: "مفكر"
 level: "متوسط"
 title: "عثمان أمين"

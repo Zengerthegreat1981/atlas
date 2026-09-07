@@ -1,6 +1,6 @@
 ---
 slug: "dis-paranoid-personality"
-id: "DIS-0021"
+id: "DIS-0113"
 type: "اضطراب/حالة إكلينيكية"
 level: "متوسط"
 title: "اضطراب الشخصية البارانويدي"

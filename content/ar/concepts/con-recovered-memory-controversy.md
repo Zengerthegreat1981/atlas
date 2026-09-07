@@ -10,9 +10,9 @@ active_start: 1980
 active_end: 2000
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "العلاج بالذاكرة المُستعادة", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-recovered-memory-movement", target_type: "تيار"
 related:
-- id: "thk-elizabeth-loftus", title: "إليزابيث لوفتس", type: "مفكر"
+- id: "thk-elizabeth-loftus", title: "إليزابيث لوفتوس", type: "مفكر"
 - id: "dbt-recovered-memory-validity", title: "جدل الذاكرة المُستعادة: حقيقية أم زائفة؟", type: "جدل"
 - id: "con-past-life-regression", title: "استرجاع ذكريات الحياة السابقة", type: "مفهوم"
 - id: "tec-recovered-memory-technique", title: "تقنية الذاكرة المُستعادة", type: "تقنية/تدخل علاجي"
@@ -20,7 +20,7 @@ related:
 gaps:
   - "الحجم الحقيقي لقضايا الذاكرة المستعادة في المحاكم لم يُوثّق بدقة."
   - "التمييز بين الذاكرة الحقيقية والمُنشأة عبر الإيحاء لم يُحسم علمياً."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على اقتباس مباشر موثّق من إليزابيث لوفتس بخصوص هذا الجدل تحديداً بنصّه الإنجليزي الدقيق يصلح للاستشهاد."
 ---
 
 # الجدل حول الذاكرة المُستعادة

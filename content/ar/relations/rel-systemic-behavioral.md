@@ -10,11 +10,11 @@ active_start: 1965
 active_end: "مستمر"
 part: "bridge"
 edges:
-- rel: "belongs_to", target: "النظامية الأسرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 - rel: "relates_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
 - id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي", type: "تيار"
-- id: "thk-pwatzlawick", title: "بول فاتزلاويك", type: "مفكر"
+- id: "thk-pwatzlawick", title: "بول واتزلاويك", type: "مفكر"
 - id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
 - id: "thk-mbowen", title: "موراي بوين", type: "مفكر"
 - id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
@@ -22,7 +22,7 @@ related:
 gaps:
   - "العلاج السلوكي الأسري التقليدي (Liberman، 1970s) لم يوثّق بشكل كافٍ في الأدبيات العربية."
   - "دور 'العلاج الوظيفي للأسرة' (FFT, Alexander 1973) و'إدارة الطوارئ' في سياق أسري لم يُحلّل بدقة."
-  - "لا يوجد اقتباس مباشر موثوق متاح من مينوشين عن العلاج السلوكي."
+  - "لم يُعثر على اقتباس مباشر من مينوشين يناقش فيه العلاج السلوكي تحديداً؛ التكامل الموصوف بين البنيوية والسلوكية موثق عبر ممارسات FFT وPMT اللاحقة لا عبر تصريح مباشر من مينوشين نفسه."
 ---
 
 # النظامية الأسرية والسلوكية: تكامل صامت

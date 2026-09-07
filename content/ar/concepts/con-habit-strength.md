@@ -12,10 +12,10 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "thk-clhull", title: "كلارك هـال", type: "مفكر"
+- id: "thk-clhull", title: "كلارك هال", type: "مفكر"
 - id: "con-drive-reduction", title: "نظرية خفض الدافع", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُستخدم في هذا الملف اقتباس حرفي منقول من هـال نفسه؛ الصياغة الرياضية أعلاه منقولة من معادلاته المنشورة في *Principles of Behavior* (1943) بأسلوب واصف لا نقل حرفي."
   - "تراجع المفهوم في الأدبيات المعاصرة لصالح مفهوم «الارتباط» (Association Strength) — موضع بحث."
 ---
 

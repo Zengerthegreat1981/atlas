@@ -1,6 +1,6 @@
 ---
 slug: "tec-token-economy"
-id: "TEC-0384"
+id: "TEC-0388"
 type: "تقنية/تدخل علاجي"
 level: "مبتدئ"
 title: "اقتصاد الرموز (Token Economy)"

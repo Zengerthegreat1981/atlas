@@ -10,14 +10,14 @@ active_start: 2017
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "con-radical-healing", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-afrocentrism", target_type: "مدرسة"
 related:
 - id: "con-race-culturally-aware-therapy", title: "العلاج المراعي للعرق والثقافة", type: "مفهوم"
 - id: "sch-afrocentrism", title: "أفريقية المركز (Afrocentrism)", type: "مدرسة"
 - id: "crt-critical-race-critique-psychology", title: "النقد العرقي النقدي لعلم النفس: تاريخ اختبارات الذكاء والتشخيص", type: "نقد"
 gaps:
   - "مؤسسا الحركة **برينديل فرنش** و**كريستوفر نيفيل** لم يُعثر لهما على ملف thk- في الأطلس (بحث فعلي عن \"French\" و\"Neville\" في content/ar/thinkers لم يُظهر تطابقاً) — سُجّل في agents_specs/requests-minimax.md R-016."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على اقتباس مباشر موثّق من مؤسسي الحركة بنصّه الإنجليزي الدقيق يصلح للاستشهاد."
 ---
 
 # الشفاء الجذري

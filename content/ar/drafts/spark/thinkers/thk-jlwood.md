@@ -1,6 +1,6 @@
 ---
 slug: "thk-jlwood"
-id: "THK-2672"
+id: "THK-6488"
 type: "مفكر"
 level: "متوسط"
 title: "ج. لوك وود"

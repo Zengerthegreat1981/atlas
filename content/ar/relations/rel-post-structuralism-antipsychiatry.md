@@ -11,20 +11,19 @@ active_start: 1961
 active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-post-structuralism", target_type: "مدرسة"
-- rel: "relates_to", target: "نقد خارجي موثَّق (خارج الإطار)", target_type: "مظلة"
 related:
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
 - id: "thk-derrida", title: "جاك دريدا", type: "مفكر"
 - id: "thk-deleuze", title: "جيل دولوز", type: "مفكر"
-- id: "thk-laing", title: "رونالد لانغ", type: "مفكر"
+- id: "thk-laing", title: "ر. د. لاينغ", type: "مفكر"
 - id: "thk-szasz", title: "توماس ساس", type: "مفكر"
-- id: "thk-cooper", title: "ديفيد كوبر", type: "مفكر"
-- id: "crt-anti-psychiatry-critique", title: "نقد مناهضة الطب النفسي", type: "نقد خارجي موثَّق"
+- id: "thk-dcooper", title: "ديفيد كوبر", type: "مفكر"
+- id: "crt-anti-psychiatry-critique", title: "نقد مناهضة الطب النفسي المؤسسي: DSM كأداة سيطرة", type: "نقد"
 - id: "rel-transpersonal-jungian", title: "عبر الشخصية والتحليلية اليونغية: من Wilber إلى Edinger", type: "علاقة بين مدرستين"
 gaps:
   - "العلاقة بين فوكو و Szasz موثّقة جزئياً (Szasz انتقد فوكو عام 1970)، لكن التفاصيل الأكاديمية للنقد المتبادل بين فوكو و Szasz لم تُحلّل في هذا الملف."
   - "Deleuze و Guattari (Anti-Oedipus، 1972) استلهموا فوكو لكن في اتجاه مختلف عن فوكو، تفاصيل العلاقة في هذا الملف غير مكتملة."
-  - "لا يوجد اقتباس مباشر موثوق متاح من Szasz عن Foucault."
+  - "توماس ساز (Thomas Szasz) انتقد ميشيل فوكو صراحة في مقالات لاحقة بوصف تحليله للسلطة 'غامضاً وغير عملي' مقارنة بموقفه الليبرالي الصريح ضد الإكراه القسري؛ نص هذا النقد الدقيق ومصدره الببليوغرافي الكامل لم يُتحقق منه بثقة كافية لنقله هنا حرفياً."
 ---
 
 # ما بعد البنيوية ومناهضة الطب النفسي: من فوكو إلى ساس

@@ -1,6 +1,6 @@
 ---
 slug: "thk-dina-wardi"
-id: "THK-2632"
+id: "THK-6487"
 type: "مفكر"
 level: "متقدم"
 title: "دينا فاردي"

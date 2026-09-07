@@ -10,7 +10,7 @@ active_start: 1945
 active_end: "مستمر"
 part: "bridge"
 edges:
-- rel: "belongs_to", target: "الجسدية/الجسمانية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
 - rel: "relates_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
@@ -22,7 +22,7 @@ related:
 gaps:
   - "موقف رايش من هايدجر / سارتر (هل قرأهما؟) — لا توثيق مباشر متاح."
   - "دور 'Embodied Cognition' (Varela، Thompson، Rosch 1991) في تقنين ميرلوبونتي لم يُحلّل هنا."
-  - "لا يوجد اقتباس مباشر موثوق متاح من ميرلوبونتي عن رايش."
+  - "لم يُعثر على أي إشارة مباشرة من ميرلوبونتي إلى رايخ في أعماله المنشورة (فينومينولوجيا الإدراك 1945)؛ العلاقة بينهما في هذا الملف استنتاجية-تاريخية لا نصية."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بات أوغدن (thk-pogden)."
 ---
 # الجسدية/الجسمانية والوجودية: ميرلوبونتي كجسر فينومينولوجي

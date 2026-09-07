@@ -14,15 +14,15 @@ edges:
 related:
 - id: "thk-schleiermacher", title: "فريدريش شلايرماخر", type: "مفكر"
 - id: "thk-dilthey", title: "فيلهلم دلتاي", type: "مفكر"
-- id: "thk-heidegger", title: "مارتن هايدغر", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "thk-gadamer", title: "هانز-غيورغ غادامير", type: "مفكر"
 - id: "thk-ricoeur", title: "بول ريكور", type: "مفكر"
-- id: "con-hermeneutic-circle", title: "الدائرة التأويلية", type: "مفهوم"
+- id: "con-hermeneutic-circle", title: "الدائرة الهرمنيوطيقية (Hermeneutic Circle)", type: "مفهوم"
 - id: "con-fusion-horizons", title: "اندماج الآفاق", type: "مفهوم"
 - id: "con-narrative-identity", title: "الهوية السردية", type: "مفهوم"
 gaps:
 - "تاريخ الحركة من Ast (1808) عبر Schleiermacher، Dilthey، Heidegger، Gadamer، Ricoeur يحتاج فصلاً مستقلاً."
-- "لا يوجد اقتباس مباشر موثوق متاح."
+- "لم يُعثر على اقتباس مباشر موثّق من غادامير أو ريكور بالعربية أو الألمانية/الفرنسية بنصّه الحرفي وصفحته الدقيقة؛ الأفكار معروضة أعلاه بالمعنى."
 - "الفرق بين الهَرْمِنِيوطيقا والمنهجيات التفسيرية في علم الاجتماع (Weber) والعلوم الإنسانية (Geisteswissenschaften) يحتاج توثيقاً."
 - "الانتقادات ما بعد البنيوية (Derrida) لِهَرْمِنِيوطيقا غادامير تحتاج فصلاً."
 ---

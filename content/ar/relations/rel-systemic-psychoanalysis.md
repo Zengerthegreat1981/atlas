@@ -10,7 +10,7 @@ active_start: 1952
 active_end: "مستمر"
 part: "bridge"
 edges:
-- rel: "belongs_to", target: "النظامية الأسرية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 - rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "br-classical-psychoanalysis", title: "التحليل النفسي الفرويدي الكلاسيكي", type: "تيار"
@@ -24,7 +24,7 @@ related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:
   - "ما إذا كان باتسون قد قرأ فرويد فعلاً (مشروع بالو ألتو) أم أنه بدأ من المناهضة مباشرة، يحتاج توثيقاً نصياً."
-  - "لا يوجد اقتباس مباشر موثوق متاح من مينوشين عن فرويد."
+  - "لم يُعثر على اقتباس مباشر موثق من مينوشين يناقش فيه فرويد بالاسم؛ رفض مينوشين للتحليل الفردي مستنتج من منهجه البنيوي في Families and Family Therapy (1974) لا من تصريح صريح عن فرويد."
   - "دور 'الأسرة التحليلية' (Aichhorn، 1920s) كجسر مبكر لم يُوثّق هنا."
 ---
 

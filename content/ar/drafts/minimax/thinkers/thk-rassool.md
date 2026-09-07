@@ -1,6 +1,6 @@
 ---
 slug: "thk-rassool"
-id: "THK-6338"
+id: "THK-6484"
 type: "مفكر"
 part: "psychology"
 level: "متقدم"

@@ -11,7 +11,7 @@ active_end: "مستمر"
 part: "bridge"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
-- rel: "relates_to", target: "الأطر غير الغربية", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-buddhist-modernism", target_type: "مدرسة"
 related:
 - id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
 - id: "thk-zsegal", title: "زيندل سيغال", type: "مفكر"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-craig-henderson"
-id: "THK-1160"
+id: "THK-6486"
 type: "مفكر"
 level: "متوسط"
 title: "كريغ هندرسون"

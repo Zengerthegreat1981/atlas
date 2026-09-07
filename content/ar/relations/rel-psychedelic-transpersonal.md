@@ -10,8 +10,8 @@ active_start: 1954
 active_end: "مستمر"
 part: "bridge"
 edges:
-- rel: "belongs_to", target: "العلاج بمساعدة المواد النفسانية", target_type: "مدرسة"
-- rel: "relates_to", target: "عبر الشخصية", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychedelic-assisted-therapy", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-transpersonal", target_type: "مدرسة"
 related:
 - id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
 - id: "thk-cgrof", title: "كريستينا غروف", type: "مفكر"
@@ -19,13 +19,13 @@ related:
 - id: "thk-kwilber", title: "كين ويلبر", type: "مفكر"
 - id: "thk-sutich", title: "أنتوني سوتيتش", type: "مفكر"
 - id: "con-psychedelic-experience", title: "التجربة السيكوديلية", type: "مفهوم"
-- id: "con-integration-psychedelic", title: "التكامل النفساني (Integration)", type: "مفهوم"
+- id: "con-integration-psychedelic", title: "التكامل النفسياني (Integration)", type: "مفهوم"
 - id: "rel-aristotle-positive-psychology", title: "الأخلاق الأرسطية وعلم النفس الإيجابي", type: "علاقة بين مدرستين"
 - id: "rel-ipmb-evidence-based", title: "العلاج النفسي المبني على الأدلة والمقاربات التكاملية: من الجدل إلى التعاون", type: "علاقة بين مدرستين"
 gaps:
   - "تفاصيل التجارب الأولى لـ LSD في علاج إدمان الكحول (1960s) — عدم دقة التوثيق."
   - "ما إذا كان دابلن قد تأثّر صراحةً بـ 'On Being a Therapist' (Kottler) — لم يوثّق."
-  - "لا يوجد اقتباس مباشر موثوق متاح من غروف عن LSD كمادة علاجية 'مقدسة'."
+  - "لم يُدرَج في هذا الملف اقتباس حرفي من غروف يصف LSD بـ'المقدس'؛ وصفه غروف مراراً في كتاباته (مثل *LSD Psychotherapy*، 1980) بأنه أداة للوصول إلى حالات وعي غير اعتيادية، لكن الصياغة الدقيقة لتلك العبارات لم تُراجَع من الطبعة الأصلية هنا."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مايكل ميثوفر (thk-mithoefer)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: رولاند غريفيثز (thk-griffiths)."
 ---

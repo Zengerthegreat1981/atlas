@@ -1,6 +1,6 @@
 ---
 slug: "thk-nassif-nassar"
-id: "THK-6336"
+id: "THK-6482"
 type: "مفكر"
 part: "philosophy"
 level: "متقدم"

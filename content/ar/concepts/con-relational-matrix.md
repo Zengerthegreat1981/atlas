@@ -16,11 +16,11 @@ edges:
 - rel: "developed_by", target: "thk-mitchell", target_type: "مفكر"
 related:
 - id: "thk-mitchell", title: "ستيفن ميتشل", type: "مفكر"
-- id: "thk-jgreenberg", title: "جاي غرينبرغ", type: "مفكر"
-- id: "thk-sullivan", title: "هاري سوليفان", type: "مفكر"
+- id: "thk-jgreenberg", title: "جاي ر. غرينبرغ", type: "مفكر"
+- id: "thk-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"
 - id: "con-evolutionary-psychoanalysis", title: "التحليل النفسي التطوري/النمائي", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على اقتباس مباشر موثّق من ستيفن ميتشل بنصّه الإنجليزي الدقيق يصلح للاستشهاد."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 

@@ -13,7 +13,7 @@ edges:
 - rel: "relates_to", target: "sch-pragmatism-classical", target_type: "مدرسة"
 - rel: "relates_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-- id: "thk-james", title: "وليام جيمس", type: "مفكر"
+- id: "thk-james", title: "وليم جيمس", type: "مفكر"
 - id: "thk-dewey", title: "جون ديوي", type: "مفكر"
 - id: "thk-peirce", title: "تشارلز ساندرز بيرس", type: "مفكر"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
@@ -21,7 +21,7 @@ related:
 gaps:
   - "العلاقة المباشرة بين William James و Carl Rogers موثّقة فلسفياً (J. J. R. Bruce 1966) لكن لم يستشهد Rogers صراحة بجيمس. روجرز 1961 يستشهد بـ Dewey أكثر."
   - "العلاقة بين Dewey's functionalism وعلم النفس الوظيفي عند Angell في Chicago موثّقة لكن تفاصيلها الأكاديمية لم تُحلّل في هذا الملف."
-  - "لا يوجد اقتباس مباشر موثوق متاح من Rogers عن James."
+  - "لم يُدرَج في هذا الملف اقتباس حرفي من روجرز يذكر جيمس بالاسم صراحةً؛ اقتباس ماسلو 'أنا تلميذ لوليام جيمس' (1968) هو الوحيد الموثّق حرفياً هنا، أما صلة روجرز بجيمس فمبنية على تحليل Bruce (1966) لا على نص روجرز نفسه."
 ---
 
 # البراغماتية الأمريكية وعلم النفس الإنساني: من وليم جيمس إلى روجرز

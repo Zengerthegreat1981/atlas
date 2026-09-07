@@ -11,7 +11,7 @@ active_start: 1921
 active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-phenomenology", target_type: "مدرسة"
-- rel: "relates_to", target: "المدرسة الوجودية في العلاج النفسي", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
@@ -23,14 +23,14 @@ related:
 - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
 - id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
 - id: "wrk-existential-psychotherapy", title: "العلاج النفسي الوجودي", type: "عمل / كتاب"
-- id: "rel-somatic-existential", title: "الجسد والوجودية", type: "علاقة بين مدرستين"
+- id: "rel-somatic-existential", title: "الجسدية/الجسمانية والوجودية: ميرلوبونتي كجسر فينومينولوجي", type: "علاقة بين مدرستين"
 - id: "rel-kierkegaardianism-nietzscheanism-existential-therapy", title: "الفلسفة الوجودية المبكرة (كيركيغارد ونيتشه) والعلاج النفسي الوجودي: من القلق إلى فرانكل ويالوم", type: "علاقة بين مدرستين"
 - id: "rel-psychodynamic-attachment", title: "النظرية الديناميكية ونظرية التعلق: من Bowlby إلى Fonagy", type: "علاقة بين مدرستين"
 gaps:
   - "التمييز بين 'Daseinsanalyse' عند بوس (مبنية على هايدغر) و'Existenzanalyse' عند بينسفانغر (مبنية على ياسبرز وهوسرل) — لا يزال غامضاً في الأدبيات العربية."
   - "مدى تأثر فرانكل بفلسفة ياسبرز (التي درّسها) قبل تأسيسه 'العلاج بالمعنى' لم يُراجع بدقة."
   - "الاستقبال الأمريكي للظاهراتية عبر رولو ماي (الذي قابل مع هايدغر شخصياً في 1958) — تفاصيل اللقاءات لم تُوثَّق في مصدر أولي."
-  - "لا يوجد اقتباس مباشر موثوق متاح من بوس عن هايدغر في لغة عربية حديثة."
+  - "لا توجد ترجمة عربية معتمدة لمحاضرات ميدارد بوس (Medard Boss) الزيوريخية (Zollikon Seminars، ألقاها هايدغر نفسه بين 1959-1969 بدعوة من بوس) يمكن الاستشهاد منها مباشرة هنا؛ النص الأساسي متاح بالألمانية والإنجليزية فقط."
 ---
 # الظاهراتية الفلسفية والعلاج النفسي الوجودي: من هوسرل إلى بينسفانغر وبوس
 

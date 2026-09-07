@@ -1,6 +1,6 @@
 ---
 slug: "ins-rosenberg-self-esteem"
-id: "INS-0104"
+id: "INS-0105"
 type: "أداة قياس"
 part: "psychology"
 level: "مبتدئ"

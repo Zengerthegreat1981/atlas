@@ -13,13 +13,13 @@ edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "thk-jwolpe", title: "جوزف وُلبّي", type: "مفكر"
-- id: "sch-cognitive-behavioral", title: "المعرفية السلوكية", type: "مدرسة"
+- id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "con-systematic-desensitization", title: "إزالة التحسس المنهجي", type: "مفهوم"
 - id: "tec-classical-behavior-therapy", title: "العلاج السلوكي الكلاسيكي وإزالة التحسس المنهجي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الإرخاء العضلي التدريجي", type: "تقنية/تدخل علاجي"
 - id: "con-exposure-habituation", title: "التعود بالتعرض", type: "مفهوم"
 gaps:
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على اقتباس مباشر موثّق من جوزيف وولب بنصّه الإنجليزي الدقيق يصلح للاستشهاد."
   - "النقد الحديث (Bouton 2002) الذي أظهر أن آلية التثبيط المتبادل ليست التفسير الوحيد — موضع تفصيل."
 ---
 

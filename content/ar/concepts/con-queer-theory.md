@@ -20,7 +20,7 @@ related:
 - id: "dbt-trans-exclusionary-radical-feminism", title: "جدل النسوية الراديكالية واستبعاد الترانس", type: "جدل"
 gaps:
   - "النصوص التأسيسية (Sedgwick 1990, Halperin 1995) تحتاج مراجعة من المصدر الأولي؛ لا يوجد ملف thk- في الأطلس لـEve Kosofsky Sedgwick ولا لDavid Halperin (سُجّل في agents_specs/requests-minimax.md R-014)."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "لم يُعثر على اقتباس إنجليزي مطابق حرفياً وموثّق الصفحة من Sedgwick أو Halperin بخصوص النظرية الكويرية تحديداً؛ أطروحاتهما معروضة في المتن بالمعنى."
 ---
 
 # النظرية الكويرية

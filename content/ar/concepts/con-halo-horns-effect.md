@@ -11,13 +11,13 @@ crumb: "علم النفس الاجتماعي والمعرفي ← المفاهي
 active_start: 1920
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "علم النفس الاجتماعي والمعرفي", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
+- rel: "relates_to", target: "wrk-thinking-fast-slow", target_type: "عمل / كتاب"
 related:
 - id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
-- id: "wrk-thinking-fast-slow", title: "التفكير: السريع والبطيء", type: "عمل / كتاب"
+- id: "wrk-thinking-fast-slow", title: "التفكير، السريع والبطيء", type: "عمل / كتاب"
 gaps:
-  - "أبحاث إدوارد ثورندايك (Edward Thorndike 1920) الأصلية على تقييمات الضباط للجنود."
-  - "لا يوجد اقتباس مباشر موثوق متاح."
+  - "أبحاث إدوارد ثورندايك (Edward Thorndike 1920) الأصلية على تقييمات الضباط للجنود لم تُراجع من مصدرها الأول في هذا الملف."
 ---
 
 # تأثير الهالة وتأثير القرن (انحياز التعميم الانطباعي)
@@ -34,4 +34,4 @@ gaps:
 
 ## اقتباسات مختارة
 
-لا يوجد اقتباس مباشر موثوق متاح.
+لم يُعثر على اقتباس حرفي موثّق من إدوارد ثورندايك يصف تجربته الأصلية بالكلمات؛ نتائج تلك التجربة (1920، *Journal of Applied Psychology*) موصوفة في هذا الملف بأسلوب واصف لا نقلاً حرفياً عن نصه.
