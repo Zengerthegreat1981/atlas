@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1972
 active_end: 2014
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← فيليب غيرين"
+crumb: "العلاج الأسري بالأنساق (Bowen Family Systems) ← الناس ← فيليب غيرين"
 edges:
 - rel: "belongs_to", target: "br-bowen-systems", target_type: "تيار"
 related:

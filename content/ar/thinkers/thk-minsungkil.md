@@ -11,7 +11,7 @@ language: "الكورية"
 active_start: 1960
 active_end: "مستمر"
 part: "psychology"
-crumb: "الأطلس ← thinkers ← مين سونغ-كيل"
+crumb: "الهوابيونغ (Hwabyung) ← الناس ← مين سونغ-كيل"
 edges:
 - rel: "belongs_to", target: "dis-hwabyung", target_type: "مدرسة"
 related:

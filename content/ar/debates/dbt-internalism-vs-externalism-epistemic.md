@@ -10,8 +10,10 @@ crumb: "المباحث الفلسفية الكبرى ← الجدالات وال
 active_start: 1970
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "br-logical-positivism-vienna-circle", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-epistemology", target_type: "مدرسة"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى حلقة فيينا — ختماً قالبياً حُمِل آلياً عند دمج ملفٍّ مزدوج. ومباحثُ نظرية المعرفة المعاصرة (مشكلةُ غيتييه 1963 وما بعدها) لاحقةٌ للوضعية المنطقية وناقدةٌ لها، فنُقل الانتماءُ إلى `sch-epistemology`."
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `br-logical-positivism-vienna-circle`، وقد صار ذلك الملفُّ **إحالةً** إلى `sch-vienna-circle` بعد دمج ملفَّين مزدوجَين، فنُقل الانتماءُ إلى المعتمد."
   - "لم تُراجع بعدُ نصوص Chisholm الأصلية (Theory of Knowledge، ط1966) رغم كونه من روّاد الموقف الداخلي قبل BonJour."
   - "الرد الأحدث لـGoldman على BonJour بعد إعادة صياغته للموثوقية العملياتية (process reliabilism) في Epistemology and Cognition (1986) لم يُوثَّق بعد."
   - "لم يُعثر على اقتباس حرفي قابل للتوثيق من النصين الأصليين (The Structure of Empirical Knowledge وWhat Is Justified Belief?) — لذلك حُذف قسم الاقتباسات."

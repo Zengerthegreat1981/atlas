@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1977
 active_end: "مستمر"
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← مارجوري راند"
+crumb: "العلاج النفسي التكاملي للجسد (IBP) ← الناس ← مارجوري راند"
 edges:
 - rel: "belongs_to", target: "br-ibp", target_type: "تيار"
 related:

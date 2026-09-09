@@ -5,7 +5,7 @@ type: "مفكر"
 level: "متوسط"
 title: "جيمس بوجنتال"
 en: "James Bugental"
-crumb: "المدرسة الوجودية ← الناس ← جيمس بوجنتال"
+crumb: "علم النفس الإنساني ← الناس ← جيمس بوجنتال"
 dates: "الولايات المتحدة · 1915–2008"
 active_start: 1961
 active_end: 2008
@@ -13,7 +13,7 @@ language: "الإنجليزية"
 country: "الولايات المتحدة"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
 - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
 - id: "thk-rgreening", title: "ريتشارد إ. غرينينغ", type: "مفكر"
@@ -22,6 +22,8 @@ related:
 - id: "wrk-search-authenticity", title: "البحث عن الأصالة (The Search for Authenticity)", type: "عمل / كتاب"
 - id: "dbt-rogers-vs-may-authenticity", title: "أصالة روجرز في مقابل أصالة ماي: المعنى الواحد، الدلالة المختلفة", type: "جدل"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-humanistic` بحسب المجال المُصحَّح في مسار التنقّل («علم النفس الإنساني»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
+  - "**صُحِّح مسار التنقّل 2026-09-08:** كان الجزء الأول «المدرسة الوجودية» ختماً قالبياً؛ واستُبدل بـ«علم النفس الإنساني». المصدر: جيرة — جيرةُ العقدة تشير إلى sch-humanistic. ولم يُشتقَّ من `belongs_to` لأنّ الحقلَ في هذا الحشد مختومٌ آلياً على «الوجودية العلاجية» حتى لمدخلاتٍ فلسفيةٍ تسبق الوجودية بقرون."
   - "بيانات أعماله — تحتاج تثبيتاً"
   - "active_start/active_end صُحّحا من 1965/1990 إلى 1961/2008 بعد تعارض مع نسخة مسودة: بحث خارجي أكّد وفاته 2008 وتأسيسه المشارك لجمعية علم النفس الإنساني عام 1961 (Wikipedia)."
 ---

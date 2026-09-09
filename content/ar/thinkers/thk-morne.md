@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1960
 active_end: 2000
-part: "philosophy"
+part: "psychology"
 crumb: "التنويم العلاجي السريري ← الناس ← مارتن أورن"
 edges:
 - rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "تيار"
@@ -19,6 +19,7 @@ related:
 - id: "thk-tbarber", title: "ثيودور باربر", type: "مفكر"
 - id: "thk-jkihnstrom", title: "جون كينستروم", type: "مفكر"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `br-clinical-hypnotherapy` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "لم يُعثر على اقتباس مباشر قابل للتحقق من مصدر أولي."
 ---
 

@@ -8,7 +8,7 @@ en: "Tetsuo Moriyama"
 dates: "اليابان"
 country: "اليابان"
 language: "اليابانية"
-active_start: "[DRAFT-UNKNOWN]"
+active_start: null
 active_end: "مستمر"
 part: "psychology"
 crumb: "السلوكية (Behaviorism) ← الناس ← تِتسومو موريياما"
@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 - id: "thk-nsugiyama", title: "نَأوكو سُوگييامَا", type: "مفكر"
-- id: "thk-hjguilhardi", type: "مفكر", title: "هيليو جيلاردي"
+- id: "thk-hjguilhardi", title: "هيليو جيلاردي", type: "مفكر"
 gaps:
   - "اسم 'Tetsumi Moriyama' (الاسم الأول 'Tetsumi' بالأنثوي، الصحيح هو 'Tetsuo' — الاسم الذكوري) يوحي بنسخة مغلوطة من الاسم الياباني."
   - "لا توجد سيرة ذاتية منشورة لهذا الاسم في Tokiwa University أو J-ABA."

@@ -6,7 +6,7 @@ level: "متوسط"
 title: "تشو روي-لين"
 en: "Zhou Ruilin"
 crumb: "الطاوية المعرفية ← تطوير ← تشو روي-لين"
-dates: "الصين · [DRAFT-UNKNOWN]"
+dates: "الصين · [غير مؤكد]"
 country: "الصين"
 language: "الصينية"
 active_start: 2005

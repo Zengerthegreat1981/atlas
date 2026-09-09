@@ -11,7 +11,7 @@ language: "البرتغالية، الفرنسية"
 active_start: 1813
 active_end: 1819
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← أبِي فاريا"
+crumb: "الماسمرية (Mesmerism) ← الناس ← أبِي فاريا"
 edges:
 - rel: "belongs_to", target: "tec-mesmerism-historical", target_type: "تقنية/تدخل علاجي"
 related:

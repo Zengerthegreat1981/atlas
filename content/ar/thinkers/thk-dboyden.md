@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1961
 active_end: 2016
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← ديان بوييدن-بيسّو"
+crumb: "نظام بيسو بويدين النفسي الحركي (PBSP) ← الناس ← ديان بوييدن-بيسّو"
 edges:
 - rel: "belongs_to", target: "tec-pbsp", target_type: "تقنية/تدخل علاجي"
 related:

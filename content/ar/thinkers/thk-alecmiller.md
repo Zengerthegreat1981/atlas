@@ -13,7 +13,7 @@ active_start: 1995
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "thk-jrathus", title: "جيل راثوس", type: "مفكر"
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
@@ -21,6 +21,7 @@ related:
 - id: "tec-dbt-specialized", title: "بروتوكولات DBT التخصصية (المراهقين والإدمان واضطرابات الأكل)", type: "تقنية/تدخل علاجي"
 - id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب"
 gaps:
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-cbt` — وهو **ملفُّ إحالةٍ** لا مدرسة (صار إحالةً في دفعة دمجٍ سابقة ولم تُنقَل الأنسابُ الواردةُ إليه)، فنُقل إلى البديل المعتمد `sch-cognitive-behavioral`."
   - "سنة ميلاده غير مذكورة في أي سيرة رسمية عُثر عليها لهذا المدخل، ولذلك كُتب حقل `dates` بالقرن لا بالسنة."
   - "سنة نشر *DBT Skills Manual for Adolescents* غير مثبتة هنا: تتردّد بين 2014 و2015 بحسب الطبعة، فلم تُكتب سنة واحدة."
   - "لا توجد ترجمة عربية معتمدة لـ*Dialectical Behavior Therapy with Suicidal Adolescents* (2007)، فلا اقتباس منه بصيغة عربية مُسنَدة إلى طبعة."

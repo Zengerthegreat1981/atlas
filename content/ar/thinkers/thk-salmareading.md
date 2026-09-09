@@ -8,16 +8,16 @@ en: "Salma Reading"
 dates: "نيوزيلندا"
 country: "نيوزيلندا"
 language: "الإنجليزية (مع الماورية)"
-active_start: "[DRAFT-UNKNOWN]"
+active_start: null
 active_end: "مستمر"
 part: "philosophy"
 crumb: "Te Whare Tapa Whā (نموذج) ← تطوير ← سالما ريدنغ"
 edges:
 - rel: "belongs_to", target: "con-te-whare-tapa-wha", target_type: "مفهوم"
 related:
-- id: "thk-masondurie", type: "مفكر", title: "ماسون دوري"
-- id: "thk-tpisheori", type: "مفكر", title: "تيانا بيشوري"
+- id: "thk-trore", title: "ماسون دوري", type: "مفكر"
 gaps:
+  - "إحالة معلَّقة أُزيلت: «تيانا بيشوري» (thk-tpisheori) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "لا توجد سيرة ذاتية منشورة لـ 'Salma Reading' في Te Pou حتى آب 2026."
   - "الاحتمال: الاسم مُدخل من بيانات الباحثين في صحة الطفل الماوري."

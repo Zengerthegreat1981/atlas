@@ -6,7 +6,7 @@ level: "مبتدئ"
 title: "التكامل النفسياني (Integration)"
 en: "Psychedelic Integration"
 crumb: "العلاج بمساعدة السيكوديلك ← المفاهيم ← التكامل النفسياني"
-country: "[DRAFT-UNKNOWN]"
+country: "[غير مؤكد]"
 active_start: 2015
 active_end: "مستمر"
 language: "الإنجليزية"

@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 2010
 active_end: "مستمر"
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← ديان رابين"
+crumb: "العلاج الأسري المرتكز على التعلق (ABFT) ← الناس ← ديان رابين"
 edges:
 - rel: "belongs_to", target: "br-abft", target_type: "تيار"
 related:

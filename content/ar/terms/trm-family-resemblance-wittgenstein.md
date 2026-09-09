@@ -2,7 +2,7 @@
 slug: "trm-family-resemblance-wittgenstein"
 id: "TRM-0047"
 type: "مصطلح لغوي متنازع عليه"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "التشابه العائلي (Family Resemblance): المفاهيم المتشابكة بلا جوهر موحد"
 en: "Translating Family Resemblance: Network of Overlapping Similarities vs. Essentialism"
@@ -18,6 +18,7 @@ related:
 - id: "trm-sprachspiel-language-game-wittgenstein", title: "ألعاب اللغة (Sprachspiel): المعنى في سياق الاستخدام الحي", type: "مصطلح لغوي متنازع عليه"
 - id: "thk-erosch", title: "إيلينور روش", type: "مفكر"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «psychology» وصار «philosophy» اتّساقاً مع أشقّائه تحت `sch-analytic-metaphysics` (وأغلبيتُهم «philosophy» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "نقد رِنفورد بامبرو (Bambrough, 1960) الذي حاجج بأن التشابه العائلي نفسه قد يكون شكلاً من التعريف لا نفياً كاملاً له — لم يُناقش، الاكتفاء بعرض موقف فيتغنشتاين وحده."
   - "الفصل بين استخدام فيتغنشتاين المبكر للمثال (اللعبة كموضوع لغوي بحت) وتطويره لاحقاً في علم النفس المعرفي (روش) يحتاج مصدراً أولياً يربط بينهما تاريخياً — مذكور هنا كإسقاط لاحق فقط، غير موثق كخط تطور مباشر مقصود من فيتغنشتاين."
 ---

@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1959
 active_end: 2011
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← كلايف روبنز"
+crumb: "العلاج بالموسيقى ← الناس ← كلايف روبنز"
 edges:
 - rel: "belongs_to", target: "tec-music-therapy", target_type: "تقنية/تدخل علاجي"
 related:

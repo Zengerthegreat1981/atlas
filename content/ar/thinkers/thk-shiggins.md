@@ -13,13 +13,14 @@ active_start: 1985
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "thk-npetry", title: "نانسي م. بيتري", type: "مفكر"
 - id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 - id: "tec-contingency-management", title: "إدارة الطوارئ والتعزيز السلوكي", type: "تقنية/تدخل علاجي"
 - id: "con-voucher-based-reinforcement", title: "التعزيز المعتمد على القسائم", type: "مفهوم"
 gaps:
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-cbt` — وهو **ملفُّ إحالةٍ** لا مدرسة (صار إحالةً في دفعة دمجٍ سابقة ولم تُنقَل الأنسابُ الواردةُ إليه)، فنُقل إلى البديل المعتمد `sch-cognitive-behavioral`."
   - "تاريخ الميلاد الدقيق غير متاح في المصادر المتاحة."
   - "مسيرته في جامعة Vermont — موضع بحث."
   - "روابط `thk-dmeichenbaum`، `thk-kelly-george`، `thk-resick` أُزيلت — لا جملة في المتن تبرر صلتهم المباشرة بعمل هيغينز في إدارة الطوارئ."

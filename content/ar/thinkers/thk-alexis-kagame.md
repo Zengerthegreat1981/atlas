@@ -12,7 +12,7 @@ language: "الكينيارواندا، اللاتينية، الفرنسية"
 active_start: 1948
 active_end: 1981
 active_source: "lifespan"
-crumb: "الأطلس ← thinkers ← ألكسيس كاغامي (مؤسِّس فلسفة الحكيم الأفريقي)"
+crumb: "فلسفة الحكيم (Sage Philosophy) ← الناس ← ألكسيس كاغامي (مؤسِّس فلسفة الحكيم الأفريقي)"
 edges:
 - rel: "belongs_to", target: "sch-sage-philosophy", target_type: "مدرسة"
 - rel: "belongs_to", target: "sch-african-professional-philosophy", target_type: "مدرسة"

@@ -6,7 +6,7 @@ level: "متوسط"
 title: "إلين ربيك"
 en: "Elin Rbæk"
 crumb: "فرق التفكير والتأمل العاكسة ← تطوير ← إلين ربيك"
-dates: "النرويج · [DRAFT-UNKNOWN]"
+dates: "النرويج · [غير مؤكد]"
 country: "النرويج"
 language: "النرويجية"
 active_start: null

@@ -5,15 +5,15 @@ type: "مفكر"
 level: "متقدم"
 title: "ألفريد شوتز"
 en: "Alfred Schutz"
-crumb: "المدرسة الوجودية ← الناس ← ألفريد شوتز"
+crumb: "الظاهراتية ← الناس ← ألفريد شوتز"
 dates: "النمسا / أمريكا · 1899–1959"
 active_start: 1932
 active_end: 1959
 country: "النمسا / أمريكا"
 language: "الألمانية / الإنجليزية"
-part: "psychology"
+part: "philosophy"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
 related:
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
@@ -22,6 +22,9 @@ related:
 - id: "thk-natanson", title: "موريس ناتانسون", type: "مفكر"
 - id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «psychology» وصار «philosophy» اتّساقاً مع أشقّائه تحت `sch-phenomenology` (وأغلبيتُهم «philosophy» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-phenomenology` بحسب المجال المُصحَّح في مسار التنقّل («الظاهراتية»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
+  - "**صُحِّح مسار التنقّل 2026-09-08:** كان الجزء الأول «المدرسة الوجودية» ختماً قالبياً؛ واستُبدل بـ«الظاهراتية». المصدر: جيرة — جيرةُ العقدة تشير إلى sch-phenomenology. ولم يُشتقَّ من `belongs_to` لأنّ الحقلَ في هذا الحشد مختومٌ آلياً على «الوجودية العلاجية» حتى لمدخلاتٍ فلسفيةٍ تسبق الوجودية بقرون."
   - "دُمج معه الملف المكرَّر thk-aschutz (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
 ---
 

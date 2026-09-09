@@ -6,17 +6,18 @@ level: "متقدم"
 title: "فرانك أندرسون"
 en: "Frank G. Anderson"
 crumb: "الأنساق الأسرية الداخلية (IFS) ← تطوير ← فرانك أندرسون"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1994
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-ifs", target_type: "مدرسة"
 related:
 - id: "thk-richard-schwartz", title: "ريتشارد شوارتز", type: "مفكر"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `sch-ifs` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "سنة الميلاد غير موثقة (لم تُعثر عليها في أي مصدر مستقل حتى تاريخ المراجعة)."
   - "بعض الجوانب السيرية (تفاصيل ما قبل 1994) لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من *Transcending Trauma* (2021) بترجمة عربية معتمدة."

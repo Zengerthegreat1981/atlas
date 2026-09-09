@@ -6,7 +6,7 @@ level: "متقدم"
 title: "كولين كيلي"
 en: "Colleen Kelley"
 crumb: "العلاج الحسي-الحركي (Sensorimotor Psychotherapy) ← تطوير ← كولين كيلي"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1990

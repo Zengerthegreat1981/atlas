@@ -17,8 +17,8 @@ edges:
 related:
 - id: "thk-mandela", title: "نيلسون مانديلا", type: "مفكر"
 - id: "thk-phcollins", title: "باتريشا هيل كولينز", type: "مفكر"
-- id: "que-are-human-rights-universal", type: "سؤال", title: "هل حقوق الإنسان كونية ومطلقة أم اختراع إمبريالي غربي مفروض؟"
-- id: "con-ubuntu-relational-health", type: "مفهوم", title: "فلسفة الأوبونتو والصحة النفسية العلائقية في علم النفس الأفريقي"
+- id: "que-are-human-rights-universal", title: "هل حقوق الإنسان كونية ومطلقة أم اختراع إمبريالي غربي مفروض؟", type: "سؤال"
+- id: "con-ubuntu-relational-health", title: "فلسفة الأوبونتو والصحة النفسية العلائقية في علم النفس الأفريقي", type: "مفهوم"
 gaps:
   - "نص 'African Philosophy: Foundations of Black Psychology' (1985) لم يُراجع بالعربية."
   - "تفاصيل تتويجه زعيماً تقليدياً في غانا موثّقة جزئياً."

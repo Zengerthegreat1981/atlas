@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1957
 active_end: 1997
 part: "psychology"
-crumb: "الأطلس ← thinkers ← مايكل ج. غولدشتاين"
+crumb: "التثقيف النفسي ← الناس ← مايكل ج. غولدشتاين"
 edges:
 - rel: "belongs_to", target: "br-psychoeducation", target_type: "تيار"
 related:

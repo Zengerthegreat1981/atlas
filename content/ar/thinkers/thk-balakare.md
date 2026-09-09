@@ -11,7 +11,7 @@ language: "الفنلندية/الإنجليزية"
 active_start: 1982
 active_end: 2021
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← بيرجيتّا ألاكارِ"
+crumb: "الحوار المفتوح في الرعاية النفسية والذهان ← الناس ← بيرجيتّا ألاكارِ"
 edges:
 - rel: "belongs_to", target: "tec-open-dialogue", target_type: "تقنية/تدخل علاجي"
 related:

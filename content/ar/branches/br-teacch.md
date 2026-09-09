@@ -17,7 +17,9 @@ related:
 - id: "thk-gmesibov", title: "غاري ميسيبوف", type: "مفكر"
 - id: "con-behavioral-activation", title: "التنشيط السلوكي", type: "مفهوم"
 - id: "con-structured-teaching-teacch", title: "التدريس المنظم (Structured Teaching)", type: "مفهوم"
+- id: "con-teacch", title: "TEACCH (تدريس التوحد ومن يعانون من صعوبات التواصل)", type: "مفهوم"
 gaps:
+  - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "تاريخ TEACCH Program في UNC Chapel Hill يستحق توثيقاً."
   - "العلاقة بين TEACCH وABA تستحق توضيحاً."
 ---

@@ -10,7 +10,7 @@ active_start: 1980
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "con-postcolonial-psychoanalysis", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
 - id: "wrk-black-skin-white-masks-fanon", title: "بشرة سوداء أقنعة بيضاء لفرانز فانون", type: "عمل"
@@ -22,6 +22,7 @@ related:
 - id: "con-political-psychoanalysis", title: "التحليل النفسي السياسي", type: "مفهوم"
 - id: "crt-postcolonial-critique-psychoanalysis", title: "النقد ما بعد الاستعماري للتحليل النفسي: الأنا الأوروبية كمعيار كوني للنفس", type: "نقد خارجي موثَّق"
 gaps:
+  - "**صُحِّحت حلقةٌ ذاتية 2026-09-08:** كان `belongs_to` يشير إلى `con-postcolonial-psychoanalysis` — أي إلى الملفّ نفسِه، وهي حلقةٌ مغلقةٌ لا معنى لها، أصلُها اختلاطُ بادئةٍ في الـslug. ونُقل إلى `sch-psychoanalysis`: مقولةٌ في التحليل النفسي."
   - "أعمال هشام شرابي في 'الجسد الناقص' (1985) لم تُراجع بشكل منفصل."
 ---
 # التحليل النفسي بعد الكولونيالي

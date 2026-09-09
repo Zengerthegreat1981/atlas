@@ -11,7 +11,7 @@ language: "الإنجليزية، الفرنسية"
 active_start: 1990
 active_end: "مستمر"
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← أرماند فولكاس"
+crumb: "العلاج بالشعر والتعبير الأدبي ← الناس ← أرماند فولكاس"
 edges:
 - rel: "belongs_to", target: "tec-poetry-therapy", target_type: "تقنية/تدخل علاجي"
 gaps:

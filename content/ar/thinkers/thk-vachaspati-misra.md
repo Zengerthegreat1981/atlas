@@ -12,7 +12,7 @@ language: "السنسكريتية"
 active_start: 880
 active_end: 960
 active_source: "lifespan"
-crumb: "الأطلس ← thinkers ← فاتشاسباتي ميشرا (مُنَظِّم أدفايتا فيدانتا)"
+crumb: "أدفايتا فيدانتا (اللاتثنية) ← الناس ← فاتشاسباتي ميشرا (مُنَظِّم أدفايتا فيدانتا)"
 edges:
 - rel: "belongs_to", target: "sch-advaita-vedanta", target_type: "مدرسة"
 related:

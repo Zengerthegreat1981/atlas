@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1957
 active_end: 2001
-part: "philosophy"
+part: "psychology"
 crumb: "العلاج الجنسي ← رائد الأبحاث الفسيولوجية ← وليام ماسترز"
 edges:
 - rel: "belongs_to", target: "br-sex-therapy", target_type: "تيار"
@@ -18,8 +18,9 @@ related:
 - id: "thk-vjohnson", title: "فرجينيا جونسون", type: "مفكر"
 - id: "thk-hkaplan", title: "هيلين سنغر كابلان", type: "مفكر"
 - id: "br-sex-therapy", title: "العلاج الجنسي", type: "تيار"
-- id: "thk-mperelman", type: "مفكر", title: "مايكل بِرِلمان"
+- id: "thk-mperelman", title: "مايكل بِرِلمان", type: "مفكر"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `br-sex-therapy` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "سيرة ماسترز المبكرة (نشأته في Cleveland، تدريبه في جامعة روتشستر) موثّقة جزئياً."
   - "تفاصيل علاقته بفرجينيا جونسون بعد الطلاق (1971–1990) ما زالت مثيرة جدلاً."
 ---

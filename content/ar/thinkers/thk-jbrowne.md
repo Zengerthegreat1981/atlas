@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 2000
 active_end: "مستمر"
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← كاثلين براون"
+crumb: "العلاج بالكتابة التعبيرية ← الناس ← كاثلين براون"
 edges:
 - rel: "belongs_to", target: "tec-writing-therapy", target_type: "تقنية/تدخل علاجي"
 related:

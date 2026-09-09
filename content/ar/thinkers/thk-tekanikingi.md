@@ -6,7 +6,7 @@ level: "متقدم"
 title: "تيكاني كينغي"
 en: "Te Kani Kingi"
 crumb: "Kaupapa Māori (فلسفة الماوري) ← الناس ← تيكاني كينغي"
-dates: "نيوزيلندا · [DRAFT-UNKNOWN]"
+dates: "نيوزيلندا · [غير مؤكد]"
 country: "نيوزيلندا"
 language: "الإنجليزية (مع الماورية)"
 active_start: 2002

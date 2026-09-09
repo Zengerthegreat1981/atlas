@@ -14,7 +14,9 @@ edges:
 related:
 - id: "sch-analytic-metaphysics", title: "الميتافيزيقا التحليلية المعاصرة", type: "مدرسة"
 - id: "thk-dparfit", title: "ديريك بارفيت", type: "مفكر"
+- id: "con-moral-error-theory-mackie", title: "نظرية الخطأ الأخلاقي لجون ماكي (Moral Error Theory)", type: "مفهوم"
 gaps:
+  - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "غيلبرت هارمان (Gilbert Harman) وجوديث جارفيس طومسون (Judith Jarvis Thomson) — طرفا كتاب المناظرة المباشر Moral Relativism and Moral Objectivity (1996) — بلا ملفات مفكرين في الأطلس؛ طُلب slug لهما في requests-minimax.md بدل اختراعه هنا."
   - "ج. ل. ماكي (J. L. Mackie) صاحب نظرية الخطأ الأخلاقي (Ethics: Inventing Right and Wrong, 1977) بلا ملف مفكر؛ طُلب slug له أيضاً."
 ---

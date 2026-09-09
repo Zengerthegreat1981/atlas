@@ -10,12 +10,14 @@ crumb: "المفاهيم الفلسفية الكبرى ← الموثوقية ف
 active_start: 1979
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "br-logical-positivism-vienna-circle", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-epistemology", target_type: "مدرسة"
 related:
 - id: "con-gettier-problem", title: "معضلة جيتيير في تعريف المعرفة (Gettier Problem)", type: "مفهوم"
 - id: "con-virtue-epistemology", title: "إبستمولوجيا الفضيلة والفضائل المعرفية (Virtue Epistemology)", type: "مفهوم"
 - id: "dbt-internalism-vs-externalism-epistemic", title: "جدل الداخلية مقابل الخارجية في نظرية المعرفة", type: "جدل"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى حلقة فيينا — ختماً قالبياً حُمِل آلياً عند دمج ملفٍّ مزدوج. ومباحثُ نظرية المعرفة المعاصرة (مشكلةُ غيتييه 1963 وما بعدها) لاحقةٌ للوضعية المنطقية وناقدةٌ لها، فنُقل الانتماءُ إلى `sch-epistemology`."
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `br-logical-positivism-vienna-circle`، وقد صار ذلك الملفُّ **إحالةً** إلى `sch-vienna-circle` بعد دمج ملفَّين مزدوجَين، فنُقل الانتماءُ إلى المعتمد."
   - "التحليل الإبستمولوجي واللغوي الدقيق لتطور المفهوم عبر التاريخ."
   - "رابط مقترح لم يتحقق: ألفن غولدمان (Alvin Goldman)، واضع الموثوقية (1979)، لا يملك ملف thk- في الأطلس. تنبيه: يوجد ملف thk-goldmann لكنه للوسيان غولدمان (Lucien Goldmann) الفيلسوف الفرنسي-الروماني، شخص مختلف تماماً، ولم يُربط تجنباً للخلط."
 ---

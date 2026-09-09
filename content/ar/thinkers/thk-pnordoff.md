@@ -11,9 +11,9 @@ language: "الإنجليزية/الألمانية"
 active_start: 1959
 active_end: 1977
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← بول نوردوف"
+crumb: "العلاج بالموسيقى ← الناس ← بول نوردوف"
 edges:
-- rel: "belongs_to", target: "sch-music-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-music-therapy", target_type: "مدرسة"
 related:
 - id: "thk-crobbins", title: "كلايف روبنز", type: "مفكر"
 - id: "thk-egaston", title: "إ. ثوريت غاستون", type: "مفكر"

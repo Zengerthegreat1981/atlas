@@ -14,7 +14,6 @@ part: "philosophy"
 related:
 - id: "con-addiction", title: "الإدمان", type: "مفهوم"
 - id: "con-rat-park", title: "تجربة Rat Park", type: "مفهوم"
-- id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
 gaps:
   - "تاريخ صدام 12-Step مع النموذج الأوروبي يستحق توثيقاً."
   - "العلاقة بين harm reduction و'modulation' و'abstinence' تستحق توضيحاً."

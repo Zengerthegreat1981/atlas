@@ -2,7 +2,7 @@
 slug: "dia-kahneman-gigerenzer-heuristics"
 id: "DIA-0041"
 type: "حوار مع مدرسة مجاورة"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "سجال كانمان وغيغرنزر 1996: مجلة Psychological Review"
 en: "The Kahneman-Gigerenzer Exchange (1996): Psychological Review"
@@ -15,6 +15,7 @@ related:
 - id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
 - id: "thk-amos-tversky", title: "عاموس تفيرسكي", type: "مفكر"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `sch-cognitive-behavioral` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "لا يوجد ملف مفكر لغيرد غيغرنزر (Gerd Gigerenzer) في الأطلس رغم كونه الطرف الثاني المباشر في هذا السجال بالاسم — طلب slug جديد مسجَّل: `thk-gerd-gigerenzer`."
   - "نص مقال كانمان وتفيرسكي الأصلي 1996 والرد الكامل لغيغرنزر غير متاحين هنا للمراجعة المباشرة؛ الاعتماد على مصادر ثانوية توثّق مضمونهما."
 ---

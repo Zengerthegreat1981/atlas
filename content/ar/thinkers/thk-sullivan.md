@@ -5,7 +5,7 @@ type: "مفكر"
 level: "متقدم"
 title: "هاري ستاك سوليفان"
 en: "Harry Stack Sullivan"
-crumb: "المدرسة الوجودية ← الناس ← هاري ستاك سوليفان"
+crumb: "التحليل النفسي ← الناس ← هاري ستاك سوليفان"
 dates: "أمريكا · 1892–1949"
 active_start: 1892
 active_end: 1949
@@ -14,7 +14,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-may", title: "رولو ماي", type: "مفكر"
 - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
@@ -28,6 +28,8 @@ related:
 - id: "rel-hegelianism-psychoanalysis", title: "الهيغلية والتحليل النفسي", type: "علاقة بين مدرستين"
 - id: "ctx-chestnut-lodge-inpatient-psychoanalysis", title: "مصحة تشستنت لودج والتحليل النفسي الإكلينيكي للحالات الذهانية", type: "سياق/تقليد"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-psychoanalysis` بحسب المجال المُصحَّح في مسار التنقّل («التحليل النفسي»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
+  - "**صُحِّح مسار التنقّل 2026-09-08:** كان الجزء الأول «المدرسة الوجودية» ختماً قالبياً؛ واستُبدل بـ«التحليل النفسي». المصدر: جيرة — جيرةُ العقدة تشير إلى sch-psychoanalysis. ولم يُشتقَّ من `belongs_to` لأنّ الحقلَ في هذا الحشد مختومٌ آلياً على «الوجودية العلاجية» حتى لمدخلاتٍ فلسفيةٍ تسبق الوجودية بقرون."
   - "لم يُعثر على اقتباس منسوب له بمصدر أولي وسنة، فحُذف من المتن ولم يُستبدل."
 ---
 # هاري ستاك سوليفان

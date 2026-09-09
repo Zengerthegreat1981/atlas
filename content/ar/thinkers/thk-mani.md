@@ -11,14 +11,16 @@ country: "بلاد الرافدين (سلالة الأبغاريين)"
 language: "السريانية، الفارسية الوسطى، اليونانية، القبطية، اللاتينية، الصينية"
 active_start: 240
 active_end: 274
-crumb: "الأطلس ← thinkers ← ماني (مؤسس المانوية)"
+crumb: "المانوية ← الناس ← ماني (مؤسس المانوية)"
 edges:
 - rel: "belongs_to", target: "sch-manicheism", target_type: "مدرسة"
 related:
 - id: "wrk-kephalaia", title: "الرؤوس (كِفَالا - Kephalaia)", type: "عمل / كتاب"
 - id: "sch-manicheism", title: "المانوية", type: "مدرسة"
 - id: "sch-gnosticism", title: "الغنوصية القديمة (بفروعها)", type: "مدرسة"
+- id: "thk-al-biruni", title: "أبو الريحان البيروني", type: "مفكر"
 gaps:
+  - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "النصوص المانوية الأصلية وصلتنا بشكل مجزّأ (Codex Manichaicus Coloniensis, Medinet Madi, Turfan fragments)."
   - "لا توجد ترجمة عربية معتمدة لـ«الإنجيل الحي» (Evangelium Vivum) أو «الكنز الحياة» (Thesaurus) لماني."
 ---

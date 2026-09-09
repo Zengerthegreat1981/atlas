@@ -5,7 +5,7 @@ type: "دراسة وبحث"
 level: "متقدم"
 title: "تجارب إبنغهاوس في الحفظ والنسيان ومنحنى الاستبقاء"
 en: "Ebbinghaus's Memory and Forgetting Curve Experiments"
-crumb: "المدرسة الوجودية ← الدراسات والأبحاث ← تجارب إبنغهاوس في الذاكرة والنسيان"
+crumb: "علم النفس المعرفي والإدراكي ← الدراسات والأبحاث ← تجارب إبنغهاوس في الذاكرة والنسيان"
 active_start: 1880
 active_end: 2015
 part: "psychology"
@@ -17,7 +17,6 @@ replication_status: "replicated"
 related:
 - id: "thk-bartlett", title: "فريدريك بارتليت", type: "مفكر"
 - id: "con-memory", title: "الذاكرة", type: "مفهوم"
-- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 ---
 
 

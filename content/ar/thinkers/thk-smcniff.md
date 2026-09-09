@@ -28,25 +28,25 @@ gaps:
 
 # شون ماكنيف
 
-فنان وعالم نفس أمريكي، وُلد عام 1945. أستاذ في **Lesley University** (كمبريدج، ماساتشوستس). مؤسِّس مشارك لمجلة **«The Arts in Psychotherapy»** (1973) مع روبرت إيرل.
+فنان وعالم نفس أمريكي، وُلد عام 1945. أستاذ في **Lesley University** (كمبريدج، ماساتشوستس). مؤسِّس مشارك لمجلة «The Arts in Psychotherapy» (1973) مع روبرت إيرل.
 
 ## ما أعطاه
 
-- **«The Arts and Psychotherapy»** (1981): كتابه المؤسِّس الذي حدّد حقل «العلاج بالفنون» المستقل عن العلاج بالفن التقليدي.
-- **«Trust the Process: An Artist's Guide to Letting Go»** (1998): فلسفته في «إيمان بالعملية الفنّية» — لا ضرورة للرقابة الواعية على الإبداع.
-- **«Art as Medicine: Creating a Therapy of the Imagination»** (1992): عرض لمفهوم «الشفاء الذاتي عبر الفن».
-- **«Creating with Others: The Practice of Imagination in Life, Art, and the Workplace»** (2003).
-- **«The Integrating Mind: Between the Senses and the Creative Life»** (2004).
-- **«Imagination in Action: Secrets for Unleashing Creative Expression»** (2006): دليل تطبيقي.
-- **«Art-Based Research»** (1998): منهجية البحث القائم على الفن، أحدث تحولاً في فهم «ما هو البحث العلمي».
-- **«Stand Alone Like a Tree»** (2020): سيرة ذاتية.
+- «The Arts and Psychotherapy» (1981): كتابه المؤسِّس الذي حدّد حقل «العلاج بالفنون» المستقل عن العلاج بالفن التقليدي.
+- «Trust the Process: An Artist's Guide to Letting Go» (1998): فلسفته في «إيمان بالعملية الفنّية» — لا ضرورة للرقابة الواعية على الإبداع.
+- «Art as Medicine: Creating a Therapy of the Imagination» (1992): عرض لمفهوم «الشفاء الذاتي عبر الفن».
+- «Creating with Others: The Practice of Imagination in Life, Art, and the Workplace» (2003).
+- «The Integrating Mind: Between the Senses and the Creative Life» (2004).
+- «Imagination in Action: Secrets for Unleashing Creative Expression» (2006): دليل تطبيقي.
+- «Art-Based Research» (1998): منهجية البحث القائم على الفن، أحدث تحولاً في فهم «ما هو البحث العلمي».
+- «Stand Alone Like a Tree» (2020): سيرة ذاتية.
 
 ## موقعه من التيار
 
-من أهم منظّري **«العلاج بالفنون التعبيرية» (Expressive Arts Therapy)** في تيار «التعددية» (Intermodal). التيار يقوم على:
+من أهم منظّري **«العلاج بالفنون التعبيرية»** في تيار «التعددية». التيار يقوم على:
 - استخدام **عدة فنون** معاً (رسم، حركة، دراما، كتابة، موسيقى) في جلسة واحدة.
 - التركيز على **العملية الإبداعية** لا على **المنتج الفنّي**.
-- «**الفن من أجل الفن**» (Art for Art's Sake) في السياق العلاجي.
+- «الفن من أجل الفن» في السياق العلاجي.
 
 ## شُبَكُه العلمية
 
@@ -58,7 +58,7 @@ gaps:
 
 ## الجدل الأبرز
 
-شارك ماكنيف في الجدل الأكاديمي «**الإبداع مقابل المرض النفسي**»، حيث دافع عن:
+شارك ماكنيف في الجدل الأكاديمي «الإبداع مقابل المرض النفسي»، حيث دافع عن:
 - **الرؤية الإيجابية**: الإبداع «علاجي» في حد ذاته، والجنون «شعلة الإبداع» (لا العكس).
 - **نقد كاي جاميسون ونانسي أندريسِن** (Kay Jamison, Nancy Andreasen): اللتان ادّعتا أن الإبداع «مرتبط» بالاضطراب الثنائي القطب.
 

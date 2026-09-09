@@ -6,10 +6,10 @@ level: "متوسط"
 title: "اضطراب الكرب التالي للصدمة المعقد (C-PTSD)"
 en: "Complex Post-Traumatic Stress Disorder (C-PTSD)"
 crumb: "العلاج المتمركز حول الصدمة ← المفاهيم ← اضطراب الكرب التالي للصدمة المعقد"
-country: "[DRAFT-UNKNOWN]"
+country: "[غير مؤكد]"
 active_start: 1992
 active_end: "مستمر"
-language: "[DRAFT-UNKNOWN]"
+language: "[غير مؤكد]"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "مدرسة"

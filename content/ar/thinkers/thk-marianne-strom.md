@@ -8,15 +8,15 @@ en: "Marianne Ström"
 dates: "النرويج"
 country: "النرويج"
 language: "النرويجية"
-active_start: "[DRAFT-UNKNOWN]"
+active_start: null
 active_end: "مستمر"
 part: "philosophy"
 crumb: "العلاج بالتصوير الضوئي (PhotoTherapy) ← تطوير ← ماريان ستروم"
 edges:
-- rel: "belongs_to", target: "tec-phototherapy", type: "تيار"
+- rel: "belongs_to", target: "tec-phototherapy", target_type: "تيار"
 related:
-- id: "thk-jweiser", type: "مفكر", title: "جودي وايزر"
-- id: "thk-dkrauss", type: "مفكر", title: "ديفيد كراوس"
+- id: "thk-judy-weiser", title: "جودي وايزر (مؤسِّسة العلاج بالصور الفوتوغرافية)", type: "مفكر"
+- id: "thk-david-krauss", title: "ديفيد أ. كراوس", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "لا توجد سيرة ذاتية منشورة لـ 'Marianne Ström' في PhotoTherapy Association حتى آب 2026."

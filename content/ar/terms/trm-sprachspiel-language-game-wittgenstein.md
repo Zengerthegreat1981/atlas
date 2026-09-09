@@ -2,7 +2,7 @@
 slug: "trm-sprachspiel-language-game-wittgenstein"
 id: "TRM-0087"
 type: "مصطلح لغوي متنازع عليه"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "ألعاب اللغة (Sprachspiel): المعنى في سياق الاستخدام الحي"
 en: "Translating Sprachspiel: Language-Games, Forms of Life, and Contextual Meaning in Wittgenstein"
@@ -15,6 +15,7 @@ related:
 - id: "thk-lwittgenstein", title: "لودفيغ فيتغنشتاين", type: "مفكر"
 - id: "wrk-philosophical-investigations-wittgenstein", title: "بحوث فلسفية للودفيغ فيتغنشتاين", type: "عمل / كتاب"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «psychology» وصار «philosophy» اتّساقاً مع أشقّائه تحت `sch-ordinary-language` (وأغلبيتُهم «philosophy» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "الفرق الدقيق بين 'لعبة اللغة' (Sprachspiel) و'صورة الحياة' (Lebensform) عند فيتغنشتاين، وكيفية تفريعهما في شروح الشراح الإنجليز، غير مفصَّل هنا."
 ---
 # ألعاب اللغة (Sprachspiel): المعنى في سياق الاستخدام الحي

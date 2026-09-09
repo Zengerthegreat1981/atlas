@@ -11,7 +11,7 @@ language: "الإنجليزية، الهندية"
 active_start: 1955
 active_end: 2008
 part: "psychology"
-crumb: "الأطلس ← thinkers ← مهارشي ماهيش يوغي"
+crumb: "الناس ← مهارشي ماهيش يوغي"
 edges: []
 related:
 - id: "thk-dchopra", title: "ديباك شوبرا", type: "مفكر"

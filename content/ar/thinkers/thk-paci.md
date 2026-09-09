@@ -5,7 +5,7 @@ type: "مفكر"
 level: "متقدم"
 title: "إنزو باتشي"
 en: "Enzo Paci"
-crumb: "المدرسة الوجودية ← الناس ← إنزو باتشي"
+crumb: "الفلسفة الوجودية ← الناس ← إنزو باتشي"
 dates: "إيطاليا · 1911–1976"
 active_start: 1954
 active_end: 1976
@@ -13,7 +13,7 @@ country: "إيطاليا"
 language: "الإيطالية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
 - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
@@ -22,6 +22,8 @@ related:
 - id: "con-time", title: "الزمن", type: "مفهوم"
 - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-existentialism` بحسب المجال المُصحَّح في مسار التنقّل («الفلسفة الوجودية»). ومدخلٌ فلسفيٌّ لا ينتمي إلى مدرسةِ علاجٍ نفسيٍّ إكلينيكي."
+  - "**صُحِّح مسار التنقّل 2026-09-08:** كان الجزء الأول «المدرسة الوجودية» ختماً قالبياً؛ واستُبدل بـ«الفلسفة الوجودية». المصدر: وجودي مُدقَّق — الجيرةُ وجودية، ودُقِّق الوسمُ بحسب part. ولم يُشتقَّ من `belongs_to` لأنّ الحقلَ في هذا الحشد مختومٌ آلياً على «الوجودية العلاجية» حتى لمدخلاتٍ فلسفيةٍ تسبق الوجودية بقرون."
   - "حُذف رابطا related كانا يشاوران على ملفات غير موجودة (thk-rlukacs، thk-kkorsch)."
 ---
 

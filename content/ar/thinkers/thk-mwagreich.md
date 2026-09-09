@@ -2,6 +2,7 @@
 slug: "thk-mwagreich"
 id: "THK-2731"
 type: "مفكر"
+part: "psychology"
 level: "متوسط"
 title: "موريس هـ. فيغوتش (حجر)"
 en: "Moris H. Wagreich — unverified"

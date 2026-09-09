@@ -21,7 +21,9 @@ related:
 - id: "sch-ecofeminism", title: "النسوية البيئية", type: "مدرسة"
 - id: "con-deep-vs-shallow", title: "الإيكولوجيا الضحلة مقابل العميقة (Shallow vs. Deep)", type: "مفهوم"
 - id: "wrk-ecology-community-lifestyle", title: "الإيكولوجيا والمجتمع ونمط الحياة (Ecology, Community and Lifestyle)", type: "عمل / كتاب"
+- id: "thk-bill-devall", title: "بيل ديفال", type: "مفكر"
 gaps:
+  - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "نصوص Arne Næss (The Shallow and the Deep, 1973) وNaess and Sessions (Deep Ecology, 1984) need review."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---

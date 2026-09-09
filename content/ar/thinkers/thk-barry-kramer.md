@@ -6,7 +6,7 @@ level: "متوسط"
 title: "باري كريمر"
 en: "Barry S. Kramer"
 crumb: "PCIT (العلاج التفاعلي بين الوالد والطفل) ← تطوير ← باري كريمر"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2010

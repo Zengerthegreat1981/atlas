@@ -6,7 +6,7 @@ level: "متوسط"
 title: "شيرلي موراي"
 en: "Shirley Murray"
 crumb: "تقنية ألكسندر ← تطوير ← شيرلي موراي"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2000

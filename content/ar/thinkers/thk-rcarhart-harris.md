@@ -10,8 +10,8 @@ country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 2009
 active_end: "مستمر"
-part: "philosophy"
-crumb: "الأطلس ← thinkers ← روبن كارهارت-هاريس"
+part: "psychology"
+crumb: "العلاج بمساعدة السايكديلية (Psychedelic-Assisted Therapy) ← الناس ← روبن كارهارت-هاريس"
 edges:
 - rel: "belongs_to", target: "sch-psychedelic-assisted-therapy", target_type: "مدرسة"
 related:
@@ -19,6 +19,7 @@ related:
 - id: "thk-griffiths", title: "رولاند غريفيثز", type: "مفكر"
 - id: "con-psilocybin", title: "السيلوسيبين في العلاج النفسي", type: "مفهوم"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `sch-psychedelic-assisted-therapy` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لـروبن كارهارت-هاريس."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: رولاند غريفيثز (thk-griffiths)."

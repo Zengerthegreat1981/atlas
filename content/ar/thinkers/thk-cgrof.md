@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1970
 active_end: 2014
 part: "psychology"
-crumb: "الأطلس ← thinkers ← كريستينا غروف"
+crumb: "علم النفس عبر الشخصي (Transpersonal Psychology) ← الناس ← كريستينا غروف"
 edges:
 - rel: "belongs_to", target: "sch-transpersonal", target_type: "مدرسة"
 related:

@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
 part: "psychology"
-crumb: "الأطلس ← thinkers ← فيفيَن بار"
+crumb: "العلاج النفسي والبنائية الاجتماعية ← الناس ← فيفيَن بار"
 edges:
 - rel: "belongs_to", target: "br-social-constructionism", target_type: "تيار"
 related:

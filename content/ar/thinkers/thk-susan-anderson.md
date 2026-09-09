@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-hhendrix", title: "هارفيل هندريكس", type: "مفكر"
 - id: "con-imago-childhood-wound", title: "جرح الطفولة", type: "مفهوم"
-- id: "thk-bowlby", type: "مفكر", title: "جون بولبي"
+- id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
 gaps:
   - "تفاصيل 'Abandonment Recovery Workbook' (2005) بالعربية موثّقة جزئياً."
   - "العلاقة الدقيقة مع هندريكس وهانت موثّقة في 'Leaving the Light On' (1994)."

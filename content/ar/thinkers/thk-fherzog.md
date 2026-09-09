@@ -13,12 +13,13 @@ active_start: 1975
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-phenomenological-research-methodology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenological-research", target_type: "مدرسة"
 related:
 - id: "thk-moustakas", title: "كلارك موستاكاس", type: "مفكر"
 - id: "thk-eengelhardt", title: "هـ. تريسترام إنغلهارت الابن", type: "مفكر"
 - id: "thk-mvanmanen", title: "ماكس فان مانن", type: "مفكر"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` اسماً نصّياً «منهجية البحث الظاهراتي» لا يُحلّ إلى ملفّ، وقد أُنشئت المدرسةُ `sch-phenomenological-research` فأُسند الانتماءُ إليها."
   - "الاسم المختصر F. Herzog يتطلب تدقيقاً أرشيفياً في سجلات الجمعيات الظاهراتية الألمانية لتحديد تاريخ الميلاد وسلسلة المونوغرافات الكاملة."
 ---
 

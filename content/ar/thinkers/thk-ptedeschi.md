@@ -2,6 +2,7 @@
 slug: "thk-ptedeschi"
 id: "THK-1765"
 type: "مفكر"
+part: "psychology"
 level: "متوسط"
 title: "رافائيل تيدِسكي (حجر)"
 en: "Raphael G. Tedeschi — unverified"

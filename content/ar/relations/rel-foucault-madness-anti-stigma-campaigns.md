@@ -11,7 +11,7 @@ active_start: 1990
 active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-post-structuralism", target_type: "مدرسة"
-- rel: "relates_to", target: "sch-antipsychiatry", target_type: "مدرسة"
+- rel: "relates_to", target: "br-antipsychiatry", target_type: "مدرسة"
 related:
 - id: "rel-confucian-self-cultivation-family-systems", title: "تزكية الذات الكونفوشية والعلاج الأسري النظامي (Bowen)", type: "علاقة بين مدرستين"
 - id: "rel-integrative-humanistic-common-factors", title: "التكاملية (العامل المشترك) والإنسانية: الأم الأصلية", type: "علاقة بين مدرستين"

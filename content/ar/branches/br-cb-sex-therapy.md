@@ -13,7 +13,6 @@ active_end: "مستمر"
 part: "psychology"
 related:
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
-- id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
 gaps:
   - "تاريخ تكامل CBT مع Sex Therapy (McCarthy, Wincze) يستحق مصدراً."
   - "الفرق بين CBST و Sex Therapy الكلاسيكي يستحق توثيقاً."

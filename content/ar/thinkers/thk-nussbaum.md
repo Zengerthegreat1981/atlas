@@ -19,7 +19,9 @@ related:
 - id: "thk-sen", title: "أمارتيا سين", type: "مفكر"
 - id: "con-capabilities-approach", title: "نهج القدرات", type: "مفهوم"
 - id: "dbt-cosmopolitanism-vs-nationalism", title: "جدل الكوزموبوليتية مقابل القومية", type: "جدل"
+- id: "con-capability-approach-sen-nussbaum", title: "مقاربة القدرات والعدالة الإنسانية (Capability Approach)", type: "مفهوم"
 gaps:
+  - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "نص Frontiers of Justice (2006) وCreating Capabilities (2011) يحتاجان مراجعة من المصدر الأولي."
 ---
 

@@ -13,7 +13,7 @@ active_end: 1975
 part: "philosophy"
 crumb: "الفينومينولوجيا النفسية ← الناس ← إروين شتراوس"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
 related:
 - id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
 - id: "thk-minkowski", title: "أوجين مينكوفسكي", type: "مفكر"
@@ -24,6 +24,7 @@ related:
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-phenomenology` بحسب المجال المُصحَّح في مسار التنقّل («الفينومينولوجيا النفسية»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
   - "تفاصيل هجرته من ألمانيا (1936) موثّقة جزئياً."
   - "نص 'Vom Sinn der Sinne' (1935) بالعربية لم يُترجم بعد."
   - "حُذف رابط 'thk-hpluegge' (هربرت بلوغه) لعدم وجود ملف مفكر مستقل به في الأطلس رغم ذكره بالاسم في المتن كتلميذ لشتراوس."

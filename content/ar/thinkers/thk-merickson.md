@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1923
 active_end: 1980
 part: "psychology"
-crumb: "الأطلس ← thinkers ← ميلتون إريكسون"
+crumb: "التنويم العلاجي السريري ← الناس ← ميلتون إريكسون"
 edges:
 - rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "تيار"
 related:

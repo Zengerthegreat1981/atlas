@@ -2,7 +2,7 @@
 slug: "trm-intentionality-brentano-husserl"
 id: "TRM-0057"
 type: "مصطلح لغوي متنازع عليه"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "القصدية (Intentionality): توجه الوعي دوماً نحو موضوع ما"
 en: "Translating Intentionality: Directedness of Consciousness, Aboutness, and Mental Acts"
@@ -16,6 +16,7 @@ related:
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
 - id: "thk-brentano", title: "فرانتس برنتانو", type: "مفكر"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «psychology» وصار «philosophy» اتّساقاً مع أشقّائه تحت `sch-phenomenology` (وأغلبيتُهم «philosophy» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "الخلاف بين قراءة برنتانو للقصدية (كخاصية استبطانية داخلية) وقراءة هوسرل اللاحقة (كبنية تأسيسية للموضوعية عبر التقليل الفينومينولوجي) يحتاج توسيعاً منفصلاً لا يتسع له هذا الملف الموجز."
 ---
 # القصدية (Intentionality): توجه الوعي دوماً نحو موضوع ما

@@ -21,7 +21,9 @@ related:
 - id: "sch-decolonial-philosophy", title: "الفلسفة الديكولونيالية (كمظلة عالمية)", type: "مدرسة"
 - id: "con-interculturality", title: "البين-ثقافية (Interkulturalität)", type: "مفهوم"
 - id: "wrk-intercultural-philosophy-wimmer", title: "الفلسفة البين-ثقافية (Interkulturelle Philosophie)", type: "عمل / كتاب"
+- id: "thk-raul-fornet-betancourt", title: "راؤول فورنيت-بيتانكور (Raúl Fornet-Betancourt)", type: "مفكر"
 gaps:
+  - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "نصوص Franz Wimmer, Heinz Kimmerle, Raúl Fornet-Betancourt, Ram Adhar Mall need review."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---

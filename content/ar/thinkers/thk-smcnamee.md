@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← شيلا ماكنامي"
+crumb: "العلاج النفسي والبنائية الاجتماعية ← الناس ← شيلا ماكنامي"
 edges:
 - rel: "belongs_to", target: "br-social-constructionism", target_type: "تيار"
 related:

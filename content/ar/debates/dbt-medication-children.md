@@ -10,7 +10,7 @@ crumb: "طب نفس الأطفال ← جدالات علاجية ← دواء ل
 active_start: 1999
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "sch-child-psychiatry", target_type: "مدرسة"
+- rel: "relates_to", target: "طب نفس الطفل", target_type: "مدرسة"
 related:
 - id: "dis-adhd", title: "اضطراب نقص الانتباه وفرط الحركة", type: "اضطراب/حالة إكلينيكية"
 - id: "thk-rbarkley", title: "راسِل باركلي", type: "مفكر"

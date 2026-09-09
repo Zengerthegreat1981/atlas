@@ -21,7 +21,7 @@ related:
 - id: "thk-anaximander", title: "أنكسمندر الميليسي", type: "مفكر"
 - id: "thk-anaximenes", title: "أنكسمانس الميليسي", type: "مفكر"
 - id: "thk-empedocles", title: "أنباذوقليس الأكراغاسي", type: "مفكر"
-- id: "thk-protagoras", type: "مفكر", title: "بروتاغوراس الأبديري"
+- id: "thk-protagoras", title: "بروتاغوراس الأبديري", type: "مفكر"
 gaps:
   - "كتبه لم تصل (يُستشهد بها في كتابات فيلولاوس وأرسطو وأفلاطون)."
   - "الفصل الدقيق بين تعاليم فيثاغورس الشخصية وإضافات تلاميذه الموثوق."

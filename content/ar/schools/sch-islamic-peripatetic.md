@@ -20,7 +20,17 @@ related:
 - id: "sch-transcendent-theosophy", title: "الحكمة المتعالية (الملا صدرا)", type: "مدرسة"
 - id: "thk-al-kindi", title: "أبو يوسف يعقوب بن إسحاق الكندي", type: "مفكر"
 - id: "con-emanation-islamic", title: "الفيض الإلهي (المشائية الإسلامية)", type: "مفهوم"
+- id: "br-falsafa-mashshaiyya-eastern", title: "المشائية الإسلامية المشرقية — الفلسفة المشائية", type: "تيار"
+- id: "thk-abu-al-barakat-al-baghdadi", title: "أبو البركات هبة الله بن ملكا البغدادي", type: "مفكر"
+- id: "thk-abu-al-hasan-al-amiri", title: "أبو الحسن محمد بن يوسف العامري النيسابوري", type: "مفكر"
+- id: "wrk-fasus-al-hikam-farabi-pseudo", title: "فصوص الحكم المنسوب للفارابي (أو لابن سينا)", type: "عمل / كتاب"
+- id: "con-imkan-dhati-wa-istidadi", title: "الإمكان الذاتي والإمكان الاستعدادي (Imkan Dhati & Isti'dadi)", type: "مفهوم"
+- id: "con-mafhum-wa-misdaq", title: "المفهوم والمصداق في المنطق الإسلامي (Concept vs. Extension)", type: "مفهوم"
+- id: "con-virtuous-city-concept", title: "المدينة الفاضلة ورئاستها الحكيمة (The Virtuous City)", type: "مفهوم"
+- id: "thk-al-tawhidi", title: "أبو حيان علي بن محمد التوحيدي", type: "مفكر"
+- id: "con-emanative-scheme-avicenna", title: "نسق الفيض العشري ونظرية الصدور (Emanation)", type: "مفهوم"
 gaps:
+  - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشاراتٌ إلى 9 عقدةً كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "بدايات حركة الترجمة (بيت الحكمة) تحتاج مراجعة من مصدر أوّلي."
 ---
 

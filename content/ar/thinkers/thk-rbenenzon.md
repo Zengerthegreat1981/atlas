@@ -11,7 +11,7 @@ language: "الإسبانية"
 active_start: 1966
 active_end: 2021
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← رولاندو بنِنسون"
+crumb: "العلاج بالموسيقى ← الناس ← رولاندو بنِنسون"
 edges: []
 related:
 - id: "thk-egaston", title: "إ. ثوريت غاستون", type: "مفكر"

@@ -18,6 +18,7 @@ related:
 - id: "thk-jhenderson", title: "جوزيف لويس هندرسون", type: "مفكر"
 - id: "thk-capriles", title: "أكسيل كابريليس", type: "مفكر"
 - id: "con-cultural-complex", title: "المركّب الثقافي", type: "مفهوم"
+- id: "thk-samuel-kimbles", title: "صامويل ل. كيمبلز", type: "مفكر"
 gaps:
   - "لم يُعثر على نص اقتباس مباشر منسوب له بعبارته الحرفية في المصادر المتاحة لنا."
 ---

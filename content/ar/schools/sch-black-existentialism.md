@@ -14,13 +14,14 @@ active_start: 1952
 active_end: "مستمر"
 cultural_origin: "african"
 edges:
-- rel: "belongs_to", target: "sch-african-psychology", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "sch-existentialism", title: "الوجودية", type: "مدرسة"
 - id: "sch-negritude", title: "الزنوجة", type: "مدرسة"
 - id: "sch-feminism-black", title: "النسوية السوداء", type: "مدرسة"
 - id: "thk-cesaire", title: "إيمي سيزير", type: "مفكر"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-african-psychology` ختماً قالبياً، ونُقل إلى `sch-existentialism` — الوجوديةُ السوداء صيغةٌ من الوجودية لا فرعٌ من علم النفس الأفريقي."
   - "نصوص Frantz Fanon, Lewis Gordon, Lewis R. Gordon, William Cross، Jimmy Baldwin need review."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---

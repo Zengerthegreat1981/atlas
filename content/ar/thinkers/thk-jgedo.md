@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1965
 active_end: 2019
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← جون جيدو"
+crumb: "الناس ← جون جيدو"
 edges: []
 related: []
 gaps:

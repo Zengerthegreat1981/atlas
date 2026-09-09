@@ -6,7 +6,7 @@ level: "متقدم"
 title: "جون ليبمان"
 en: "John W. Lippmann"
 crumb: "فرق العكس العاكسة (Reflecting Teams) ← تطوير ← جون ليبمان"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1995

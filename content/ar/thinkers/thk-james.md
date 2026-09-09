@@ -13,7 +13,7 @@ active_end: 1907
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-pragmatism-classical", target_type: "مدرسة"
 related:
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
 - id: "con-time", title: "الزمن", type: "مفهوم"
@@ -27,7 +27,17 @@ related:
 - id: "wrk-time-and-free-will-bergson", title: "مقالة في المعطيات الفورية للوعي (Essai sur les données immédiates de la conscience) - برغسون", type: "عمل / كتاب"
 - id: "stu-wundt-leipzig-1879", title: "مختبر لايبزيغ 1879: تأسيس علم النفس التجريبي", type: "دراسة وبحث"
 - id: "con-world-hypotheses-pepper", title: "فروض العالم (World Hypotheses) عند بِبِر", type: "مفهوم"
+- id: "wrk-ame-enfant", title: "صورة عن وعي الطفل", type: "عمل / كتاب"
+- id: "wrk-measurement-intelligence", title: "قياس الذكاء", type: "عمل / كتاب"
+- id: "wrk-nature-intelligence", title: "طبيعة الذكاء ومبادئ الإدراك", type: "عمل / كتاب"
+- id: "wrk-outline-psychology-titchener", title: "مخطّط في علم النفس", type: "عمل / كتاب"
+- id: "thk-munsterberg", title: "هوغو مونستربرغ", type: "مفكر"
+- id: "trm-affect-emotion-feeling", title: "الانْفِعال، العاطفة، الشُّعور (Affect, Emotion, Feeling): فُروق دَقِيقَة", type: "مصطلح لغوي متنازع عليه"
+- id: "wrk-pragmatism-william-james", title: "البراغماتية لويليام جيمس (Pragmatism)", type: "عمل / كتاب"
+- id: "wrk-psychopathologie-alltagslebens", title: "سيكوباتولوجيا الحياة اليومية", type: "عمل / كتاب"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-pragmatism-classical` بحسب المجال المُصحَّح في مسار التنقّل («الجسر (فلسفة ↔ علم نفس) / وليم جيمس براغماتيٌّ ووظيفي، لا معالِجاً وجودياً»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
+  - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشاراتٌ إلى 8 عقدةً كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "لم يُراجع بعد من نسخة أصلية مباشرة (مبادئ علم النفس، 1890)."
   - "أُضيف بعد ملاحظة المستخدم إن اسمه مذكور في «خط تطوّر المدرسة» من غير رابط فعلي."
   - "لا يوجد اقتباس مباشر موثوق من *The Principles of Psychology* (1890) بترجمة عربية معتمدة."

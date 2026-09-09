@@ -6,7 +6,7 @@ level: "متقدم"
 title: "جينيفر تشيڤنز"
 en: "Jennifer S. Cheavens"
 crumb: "العلاج القائم على الأمل (Snyder) ← تطوير ← جينيفر تشيڤنز"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2005

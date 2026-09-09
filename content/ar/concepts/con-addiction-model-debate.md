@@ -10,7 +10,7 @@ active_start: 1990
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "con-addiction-model-debate", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-medical-model-addiction", target_type: "تيار"
 related:
 - id: "sch-motivational-interviewing", title: "المقابلة التحفيزية (Motivational Interviewing)", type: "مدرسة"
 - id: "con-abstinence-vs-harm-reduction", title: "الامتناع الكامل مقابل الحد من الضرر", type: "مفهوم"
@@ -18,6 +18,7 @@ related:
 - id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"
 - id: "con-addiction", title: "الإدمان والبحث الروحي المشوه", type: "مفهوم"
 gaps:
+  - "**صُحِّحت حلقةٌ ذاتية 2026-09-08:** كان `belongs_to` يشير إلى `con-addiction-model-debate` — أي إلى الملفّ نفسِه، وهي حلقةٌ مغلقةٌ لا معنى لها، أصلُها اختلاطُ بادئةٍ في الـslug. ونُقل إلى `br-medical-model-addiction`: التيّارُ المقابلُ موجودٌ في الأطلس."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 

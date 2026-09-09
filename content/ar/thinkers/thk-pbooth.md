@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1967
 active_end: "مستمر"
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← فيليس بوث"
+crumb: "Theraplay (العلاج بالألعاب العلائقي) ← الناس ← فيليس بوث"
 edges:
 - rel: "belongs_to", target: "br-theraplay", target_type: "تيار"
 related:

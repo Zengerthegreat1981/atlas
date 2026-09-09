@@ -6,20 +6,21 @@ level: "متوسط"
 title: "توماس ج. دزوريلا"
 en: "Thomas J. D'Zurilla"
 crumb: "المعرفية السلوكية ← الناس ← توماس دزوريلا"
-dates: "الولايات المتحدة · 1939–[DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · 1939–[غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1971
 active_end: 2010
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "tec-problem-solving-therapy", title: "العلاج بحل المشكلات", type: "تقنية/تدخل علاجي"
 - id: "thk-shiggins", title: "ستيفن تي. هيغينز", type: "مفكر"
 - id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
 - id: "thk-ecker", title: "بروس إيكر", type: "مفكر"
 gaps:
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-cbt` — وهو **ملفُّ إحالةٍ** لا مدرسة (صار إحالةً في دفعة دمجٍ سابقة ولم تُنقَل الأنسابُ الواردةُ إليه)، فنُقل إلى البديل المعتمد `sch-cognitive-behavioral`."
   - "سنة الميلاد تقريبية، وسنة الوفاة (إن وُجدت) لم تُوثّق بدقة."
   - "تفاصيل عمله في جامعة ستوني بروك (Stony Brook) تستحق توثيقاً."
   - "لا يوجد اقتباس مباشر موثوق من *Problem-Solving Therapy* (1982) بترجمة عربية معتمدة."

@@ -21,7 +21,10 @@ related:
 - id: "sch-indigenismo", title: "الإنديجينيزمو", type: "مدرسة"
 - id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
 - id: "sch-caribbean-philosophy", title: "فلسفة الكاريبي (الهوية والكريولية)", type: "مدرسة"
+- id: "con-pluriverse-decolonial", title: "التعددية الكونية وعالم تتسع فيه عوالم كثيرة (Pluriverse)", type: "مفهوم"
+- id: "thk-rodolfo-kusch", title: "رودولفو كوش", type: "مفكر"
 gaps:
+  - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشاراتٌ إلى 2 عقدةً كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "نصوص Mignolo, Quijano, Maldonado-Torres, Catherine Walsh need review."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---

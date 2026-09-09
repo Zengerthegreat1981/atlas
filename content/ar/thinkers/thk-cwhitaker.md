@@ -16,7 +16,7 @@ register: "clinical"
 evidence_level: "experimental"
 edges:
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
-- rel: "developed", target: "br-experiential-family", target_type: "تيار"
+- rel: "developed", target: "العلاج الأسري الخبراتي", target_type: "تيار"
 related:
 - id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
 - id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"

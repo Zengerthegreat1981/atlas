@@ -10,11 +10,12 @@ crumb: "فلسفة الزمان والوجودية ← مصطلحات ونزاع
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "thk-tillich", title: "بول تيليش", type: "مفكر"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-existentialism` بحسب المجال المُصحَّح في مسار التنقّل («فلسفة الزمان والوجودية»). ومدخلٌ فلسفيٌّ لا ينتمي إلى مدرسةِ علاجٍ نفسيٍّ إكلينيكي."
   - "نص محاضرات هايدجر 1920-1921 (GA 60) لم يُراجَع مباشرة من الأصل الألماني، بل عبر الترجمة الإنجليزية."
 ---
 # الكايروس والكرونوس (Kairos vs. Chronos): الوقت النوعي والزمن الكمي

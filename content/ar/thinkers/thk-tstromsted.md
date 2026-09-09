@@ -11,7 +11,7 @@ language: "الإنجليزية/السويدية"
 active_start: 1980
 active_end: "مستمر"
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← تينا سترومستد"
+crumb: "الحركة الأصيلة ← الناس ← تينا سترومستد"
 edges:
 - rel: "belongs_to", target: "tec-authentic-movement", target_type: "تقنية/تدخل علاجي"
 related:

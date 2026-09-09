@@ -2,7 +2,7 @@
 slug: "que-is-memory-reconstructive-fiction"
 id: "QUE-0062"
 type: "سؤال توليدي"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "هل الذاكرة استرجاع لأشرطة الماضي أم إعادة تخيل وإبداع مستمر؟"
 en: "Is Memory a Faithful Video-Recording or a Reconstructive Fiction?"
@@ -17,6 +17,7 @@ related:
 - id: "thk-elizabeth-loftus", title: "إليزابيث لوفتوس", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `sch-cognitive-behavioral` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "لم يُحدَّد بعد كيف تُقيَّم مصداقية الذكريات المستعادة إكلينيكياً (تمييز الذاكرة الصادقة المعاد بناؤها عن الذاكرة الكاذبة المزروعة) — قضية لا تزال محل نزاع بين معسكري الذاكرة."
 ---
 

@@ -8,16 +8,16 @@ en: "Nancy Harness"
 dates: "كندا"
 country: "كندا"
 language: "الإنجليزية"
-active_start: "[DRAFT-UNKNOWN]"
+active_start: null
 active_end: "مستمر"
 part: "psychology"
 crumb: "العدالة التصالحية ← تطوير ← نانسي هارنيس"
 edges:
-- rel: "belongs_to", target: "br-restorative-justice", type: "تيار"
+- rel: "belongs_to", target: "br-restorative-justice", target_type: "تيار"
 related:
-- id: "thk-jbraithwaite", type: "مفكر", title: "جون برايثوايت"
-- id: "thk-hzehr", type: "مفكر", title: "هوارد زير"
-- id: "con-restorative-justice", type: "مفهوم", title: "العدالة التصالحية"
+- id: "thk-john-braithwaite", title: "جون برايثوايت", type: "مفكر"
+- id: "thk-zehr", title: "هوارد زير", type: "مفكر"
+- id: "con-restorative-justice", title: "العدالة التصالحية", type: "مفهوم"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "لا توجد سيرة ذاتية منشورة لـ 'Nancy Harness' في RJOI (Restorative Justice Organization of Indonesia) أو IIRP (International Institute for Restorative Practices) حتى آب 2026."

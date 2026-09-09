@@ -11,7 +11,7 @@ language: "الكورية"
 active_start: 2000
 active_end: "مستمر"
 part: "psychology"
-crumb: "الأطلس ← thinkers ← لي هيونغ-جون"
+crumb: "الناس ← لي هيونغ-جون"
 edges: []
 related:
 - id: "thk-kimkwansung", title: "كيم كوان-سونغ", type: "مفكر"

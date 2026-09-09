@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1975
 active_end: "مستمر"
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← روبرت ديلتس"
+crumb: "البرمجة اللغوية العصبية (NLP) ← الناس ← روبرت ديلتس"
 edges:
 - rel: "belongs_to", target: "br-nlp-systemic", target_type: "تيار"
 related:

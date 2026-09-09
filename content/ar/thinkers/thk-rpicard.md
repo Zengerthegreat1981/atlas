@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1995
 active_end: "مستمر"
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← روزاليند بيكار"
+crumb: "العلاج بمساعدة الذكاء الاصطناعي / العلاج بالدردشة الآلية ← الناس ← روزاليند بيكار"
 edges:
 - rel: "belongs_to", target: "br-ai-chatbot-therapy", target_type: "تيار"
 related:

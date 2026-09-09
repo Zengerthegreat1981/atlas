@@ -12,7 +12,7 @@ language: "السنسكريتية"
 active_start: -600
 active_end: -500
 active_source: "lifespan"
-crumb: "الأطلس ← thinkers ← كابيلا (مؤسس سامخيا)"
+crumb: "سامخيا ← الناس ← كابيلا (مؤسس سامخيا)"
 edges:
 - rel: "belongs_to", target: "sch-samkhya", target_type: "مدرسة"
 related:

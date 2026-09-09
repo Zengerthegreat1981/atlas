@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 2001
 active_end: "مستمر"
 part: "psychology"
-crumb: "الأطلس ← thinkers ← أليكس لينلي"
+crumb: "العلاج المرتكز على مواطن القوة ← الناس ← أليكس لينلي"
 edges:
 - rel: "belongs_to", target: "tec-strengths-based-therapy", target_type: "تقنية/تدخل علاجي"
 related:

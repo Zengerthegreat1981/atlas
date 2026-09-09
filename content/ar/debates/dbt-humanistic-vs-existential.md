@@ -11,7 +11,6 @@ active_start: null
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
 - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
@@ -22,6 +21,8 @@ related:
 - id: "br-psychodynamic-humanistic", title: "علم النفس الإنساني العميق (رولو ماي)", type: "تيار"
 - id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
 gaps:
+  - "**حُذف حرفُ انتماءٍ مكرَّر 2026-09-08:** كان `edges` يحمل البندَ `belongs_to` نفسَه مرّتين حرفياً."
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-humanistic` بحسب المجال المُصحَّح في مسار التنقّل («الإنسانية»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
   - "نص مناظرة مباشرة موثقة بين ماسلو وسارتر أو مراسلات بينهما لم يُعثر عليها."
 ---
 # الإنسانية في مقابل الوجودية: تكامل أم تعارض؟

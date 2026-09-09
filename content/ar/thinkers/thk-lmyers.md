@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1988
 active_end: "مستمر"
 part: "psychology"
-crumb: "الأطلس ← thinkers ← ليندا جيمس مايرز"
+crumb: "علم النفس الأفريقي ← الناس ← ليندا جيمس مايرز"
 edges:
 - rel: "belongs_to", target: "sch-african-psychology", target_type: "مدرسة"
 related:

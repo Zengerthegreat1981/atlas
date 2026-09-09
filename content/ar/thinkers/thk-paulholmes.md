@@ -6,7 +6,7 @@ level: "متقدم"
 title: "بول هولمز"
 en: "Paul Holmes"
 crumb: "السيكودراما والسوسيومتري ← تطوير ← بول هولمز"
-dates: "المملكة المتحدة · [DRAFT-UNKNOWN]"
+dates: "المملكة المتحدة · [غير مؤكد]"
 country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1980

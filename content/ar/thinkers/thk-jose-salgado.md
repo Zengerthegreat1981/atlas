@@ -6,7 +6,7 @@ level: "متوسط"
 title: "خوسيه سالغادو"
 en: "José Salgado"
 crumb: "التنويم الذاتي ← تطوير ← خوسيه سالغادو"
-dates: "البرتغال · [DRAFT-UNKNOWN]"
+dates: "البرتغال · [غير مؤكد]"
 country: "البرتغال"
 language: "البرتغالية"
 active_start: 1985

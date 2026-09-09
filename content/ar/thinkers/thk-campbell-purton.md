@@ -6,7 +6,7 @@ level: "متقدم"
 title: "كامبيل پيرتون"
 en: "Campbell Purton"
 crumb: "التركيز (Focusing) ← تطوير ← كامبيل پيرتون"
-dates: "المملكة المتحدة/كندا · [DRAFT-UNKNOWN]"
+dates: "المملكة المتحدة/كندا · [غير مؤكد]"
 country: "كندا"
 language: "الإنجليزية"
 active_start: 2000

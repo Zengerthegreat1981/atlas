@@ -6,14 +6,14 @@ level: "متوسط"
 title: "دونالد ميشينباوم"
 en: "Donald Meichenbaum"
 crumb: "المعرفية السلوكية ← الناس ← دونالد ميشينباوم"
-dates: "كندا / الولايات المتحدة · 1940–[DRAFT-UNKNOWN]"
+dates: "كندا / الولايات المتحدة · 1940–[غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1971
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "tec-stress-inoculation-training", title: "التدريب على تحصين الضغوط (SIT)", type: "تقنية/تدخل علاجي"
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
@@ -22,6 +22,7 @@ related:
 - id: "thk-ecker", title: "بروس إيكر", type: "مفكر"
 - id: "evt-cbt-founding-1950s-60s", title: "تأسيس العلاج المعرفي السلوكي (CBT) في الخمسينيات والستينيات", type: "حدث تاريخي"
 gaps:
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-cbt` — وهو **ملفُّ إحالةٍ** لا مدرسة (صار إحالةً في دفعة دمجٍ سابقة ولم تُنقَل الأنسابُ الواردةُ إليه)، فنُقل إلى البديل المعتمد `sch-cognitive-behavioral`."
   - "سنة الميلاد تقريبية، تستحق توثيقاً من مصدر أولي."
   - "تفاصيل علاقته مع فيتوريو دي لورينزو في تطوير العلاج المهيكّل للناجين من الصدمة تستحق توثيقاً."
   - "لم يُعثر على نص اقتباس مباشر منسوب له بعبارته الحرفية في المصادر المتاحة لنا."

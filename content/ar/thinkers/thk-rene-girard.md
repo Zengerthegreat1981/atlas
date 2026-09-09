@@ -15,12 +15,12 @@ crumb: "الأنثروبولوجيا الفلسفية ونظرية الرغبة 
 edges: []
 related:
 - id: "thk-rousseau", title: "جان جاك روسو", type: "مفكر"
-- id: "thk-beauvoir", type: "مفكر", title: "سيمون دي بوفوار"
-- id: "thk-blanchot", type: "مفكر", title: "موريس بلانشو"
-- id: "thk-freud", type: "مفكر", title: "سيغموند فرويد"
-- id: "thk-claude-levi-strauss", type: "مفكر", title: "كلود ليفي شتراوس"
-- id: "thk-ricoeur", type: "مفكر", title: "بول ريكور"
-- id: "que-mimetic-desire-girard", type: "سؤال", title: "سؤال الرغبة المحاكية لجيرار"
+- id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
+- id: "thk-blanchot", title: "موريس بلانشو", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-claude-levi-strauss", title: "كلود ليفي شتراوس", type: "مفكر"
+- id: "thk-ricoeur", title: "بول ريكور", type: "مفكر"
+- id: "que-mimetic-desire-girard", title: "سؤال الرغبة المحاكية لجيرار", type: "سؤال"
 gaps:
   - "نص 'الشيء المنسي منذ قرن من الزمان' (Ce que j'ai appris en Asie) بالعربية موثّق جزئياً."
   - "تأثيره في علم النفس التطوري (مع Brian Boyd حول 'On the Origin of Stories') يحتاج فصلاً."

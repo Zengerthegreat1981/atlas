@@ -5,12 +5,12 @@ type: "مفهوم"
 level: "متقدم"
 title: "الممارسات المحورية"
 en: "Focal Practices"
-crumb: "المدرسة الوجودية ← المفاهيم ← الممارسات المحورية"
+crumb: "فلسفة التكنولوجيا ← المفاهيم ← الممارسات المحورية"
 part: "philosophy"
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-philosophy-of-technology", target_type: "مدرسة"
 related:
 - id: "thk-borgmann", title: "ألبرت بورغمان", type: "مفكر"
 - id: "con-device-paradigm", title: "نموذج الجهاز", type: "مفهوم"
@@ -18,6 +18,8 @@ related:
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-philosophy-of-technology` بحسب المجال المُصحَّح في مسار التنقّل («فلسفة التكنولوجيا»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
+  - "**صُحِّح مسار التنقّل 2026-09-08:** كان الجزء الأول «المدرسة الوجودية» ختماً قالبياً؛ واستُبدل بـ«فلسفة التكنولوجيا». المصدر: نقضٌ يدويّ — مفهومُ ألبرت بورغمان في نقد التكنولوجيا. ولم يُشتقَّ من `belongs_to` لأنّ الحقلَ في هذا الحشد مختومٌ آلياً على «الوجودية العلاجية» حتى لمدخلاتٍ فلسفيةٍ تسبق الوجودية بقرون."
   - "النص الأصلي 'Technology and the Character of Contemporary Life' (1984) لألبرت بورغمان يستحق مراجعة من المصدر الأولي."
   - "إمكانية تطبيق الممارسات المحورية على الحياة المعاصرة يستحق أمثلة موسعة."
 ---

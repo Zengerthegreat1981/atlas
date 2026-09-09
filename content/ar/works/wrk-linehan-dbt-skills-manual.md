@@ -2,7 +2,7 @@
 slug: "wrk-linehan-dbt-skills-manual"
 id: "WRK-0783"
 type: "عمل / كتاب"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "دليل تدريب مهارات DBT لمارشا لينهان (1993)"
 en: "Skills Training Manual for Treating Borderline Personality Disorder by Marsha M. Linehan"
@@ -21,6 +21,7 @@ related:
 - id: "exp-marsha-linehan-institute-living-seclusion", title: "حبس مارشا لينهان في معهد ليفينغ للشباب وميلاد علاج DBT", type: "خبرة معيشة"
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `sch-dbt` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "لم يثبت وجود ترجمة عربية منشورة لهذا العمل: بُحث عن مترجم وناشر وسنة ولم يُعثر على أيٍّ منها."
   - "الفروق الدقيقة بين محتوى طبعة 1993 والطبعة الثانية الموسَّعة كثيراً 2014 (تفاصيل الوحدات والأوراق التدريبية الإضافية) لم تُراجَع بندًا ببند."
 ---

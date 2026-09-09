@@ -6,7 +6,7 @@ level: "متقدم"
 title: "دينا هيرشمان"
 en: "Dina Wardi"
 crumb: "العلاج الديناميكي البيني القصير (DIT) ← تطوير ← دينا هيرشمان"
-dates: "هولندا/إسرائيل · [DRAFT-UNKNOWN]"
+dates: "هولندا/إسرائيل · [غير مؤكد]"
 country: "إسرائيل"
 language: "الإنجليزية/العبرية"
 active_start: 1985

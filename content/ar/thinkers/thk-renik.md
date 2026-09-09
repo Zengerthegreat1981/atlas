@@ -16,9 +16,9 @@ edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
-- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
 gaps:
+  - "**حُذف رابطٌ مُقحَم 2026-09-08:** كان `related` يحمل `con-authenticity` («الأصالة») حشواً من دفعةٍ قالبية، ولا يُذكَر المفهومُ في متن هذا الملف ولا صلةَ له بموضوعه."
   - "لم أعثر على اقتباس مباشر منسوب بصفحة محددة من ورقته 'Analytic Interaction' (1993)."
 ---
 

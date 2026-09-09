@@ -10,12 +10,13 @@ crumb: "الفلسفة العبثية والوجودية ← الخبرات ال
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-existentialism-atheist", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
 - id: "wrk-myth-sisyphus", title: "أسطورة سيزيف (Le Mythe de Sisyphe)", type: "عمل"
 - id: "con-absurd-and-revolt-camus", title: "العبث والتمرد المستمر (The Absurd and Revolt)", type: "مفهوم"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existentialism-atheist` ختماً قالبياً، ونُقل إلى `sch-existentialism` بحسب المجال المُصحَّح في مسار التنقّل («الفلسفة العبثية والوجودية»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
   - "الجملة المتداولة عن الفقر والشمس والبحر مستخلصة بتصرف من مقال «بين نعم ولا» (L'Envers et l'Endroit، 1937) ومن مقدمته لطبعة 1958؛ الصياغة الحرفية الدقيقة تحتاج مطابقة مع النص الفرنسي الأصلي قبل اعتمادها كاقتباس مباشر."
 ---
 # طفولة كامو في فقر الجزائر وشمس البحر المتوسط ومنبع فلسفة التمرد

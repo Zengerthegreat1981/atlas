@@ -6,7 +6,7 @@ level: "متقدم"
 title: "أخلاق الغموض"
 en: "Pour une morale de l'ambiguïté"
 language: "الفرنسية"
-crumb: "المدرسة الوجودية ← الأعمال ← أخلاق الغموض"
+crumb: "الفلسفة الوجودية ← الأعمال ← أخلاق الغموض"
 dates: "1947 · سيمون دي بوفوار"
 active_start: 1947
 active_end: 1947
@@ -17,13 +17,15 @@ publication_year: 1947
 original_language: "الفرنسية"
 edges:
 - rel: "written_by", target: "thk-beauvoir", target_type: "مفكر"
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "wrk-fromm-escape-freedom", title: "الهروب من الحرية (Escape from Freedom)", type: "عمل / كتاب"
 - id: "wrk-fear-of-freedom-1941", title: "الخوف من الحرية (1941)", type: "عمل / كتاب"
 - id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
 - id: "dbt-individualism", title: "الفردانية والعمى عن السلطة", type: "جدل"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-existentialism` بحسب المجال المُصحَّح في مسار التنقّل («الفلسفة الوجودية»). ومدخلٌ فلسفيٌّ لا ينتمي إلى مدرسةِ علاجٍ نفسيٍّ إكلينيكي."
+  - "**صُحِّح مسار التنقّل 2026-09-08:** كان الجزء الأول «المدرسة الوجودية» ختماً قالبياً؛ واستُبدل بـ«الفلسفة الوجودية». المصدر: نقضٌ يدويّ — «أخلاق الغموض» نصٌّ وجوديٌّ لدي بوفوار. ولم يُشتقَّ من `belongs_to` لأنّ الحقلَ في هذا الحشد مختومٌ آلياً على «الوجودية العلاجية» حتى لمدخلاتٍ فلسفيةٍ تسبق الوجودية بقرون."
   - "لم يثبت وجود ترجمة عربية منشورة لهذا العمل: بُحث عن مترجم وناشر وسنة ولم يُعثر على أيٍّ منها."
   - "بيانات الطبعة الفرنسية الأولى (الناشر ورقم الصفحات) لم تُثبَّت في هذه المسودة."
 ---

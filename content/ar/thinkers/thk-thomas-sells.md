@@ -6,7 +6,7 @@ level: "مبتدئ"
 title: "توماس سيلز"
 en: "Thomas Sells"
 crumb: "الإرشاد التمييزي (Discernment Counseling) ← تطوير ← توماس سيلز"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: null

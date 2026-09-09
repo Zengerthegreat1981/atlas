@@ -6,15 +6,16 @@ level: "متوسط"
 title: "جينيفر أولدنغ"
 en: "Jennifer Olding"
 crumb: "العلاج الزوجي المرتكز على الانفعال (EFT) ← تطوير ← جينيفر أولدنغ"
-dates: "[DRAFT-UNKNOWN]"
-country: "[DRAFT-UNKNOWN]"
+dates: "[غير مؤكد]"
+country: "[غير مؤكد]"
 language: "الإنجليزية"
-active_start: "[DRAFT-UNKNOWN]"
-active_end: "[DRAFT-UNKNOWN]"
-part: "philosophy"
+active_start: null
+active_end: null
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-eft-couples", target_type: "مدرسة"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `sch-eft-couples` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "لم يُعثر على أي أثر مستقل موثّق لشخص باسم «Jennifer Olding» في أدبيات EFT/ICEEFT بعد بحث مباشر (2026-09-03). أقرب اسم مطابق جزئياً هو «Jennifer Olden» (بتهجئة مختلفة)، معالِجة ومشرِفة معتمدة من ICEEFT مقيمة في ساكرامنتو، كاليفورنيا (الولايات المتحدة لا كندا)، شريكة مؤسِّسة لمنصة The EFT Café — لكن لا يوجد ما يثبت أن هذا هو الشخص نفسه الذي قصده هذا الملف، والتطابق في الاسم غير كافٍ للنسب دون تأكيد إضافي.
   - "الملف مدرج مسبقاً في الحجر الصحي (`agents_specs/quarantine-spark.md`, 2026-08-26) بصفته بلا مصدر مستقل؛ هذا التحديث يؤكد نفس النتيجة ولا يستبدلها."
   - "لا سيرة ولا إسهامات ولا اقتباسات يمكن كتابتها دون تحقق أولي من هوية الشخص المقصود فعلياً."

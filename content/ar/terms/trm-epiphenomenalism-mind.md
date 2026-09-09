@@ -2,7 +2,7 @@
 slug: "trm-epiphenomenalism-mind"
 id: "TRM-0043"
 type: "مصطلح لغوي متنازع عليه"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "الظاهراتية المصاحبة (Epiphenomenalism): الوعي كظل للنشاط العصبي"
 en: "Translating Epiphenomenalism: Conscious Shadow, Non-Causal Mentality, and Huxley's Steam Whistle"
@@ -15,6 +15,7 @@ related:
 - id: "sch-phil-mind-analytic", title: "فلسفة العقل التحليلية (كمظلة)", type: "مدرسة"
 - id: "thk-daniel-dennett", title: "دانيال دينيت", type: "مفكر"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «psychology» وصار «philosophy» اتّساقاً مع أشقّائه تحت `sch-phil-mind-analytic` (وأغلبيتُهم «philosophy» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "لم يُراجَع نص هكسلي الأصلي 'On the Hypothesis that Animals are Automata' (1874) من مجلة Fortnightly Review مباشرة؛ الاستشهاد بصورة صفارة القطار معتمد على اقتباسات ثانوية شائعة في أدبيات فلسفة العقل."
   - "لم تُراجَع تجربة بنجامين ليبيت (1983) عن الجهد الاستعدادي من ورقتها الأصلية في مجلة Brain لضبط تفاصيلها الزمنية بدقة."
 ---

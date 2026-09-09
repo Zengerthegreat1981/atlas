@@ -14,12 +14,13 @@ original_language: "الدنماركية"
 active_start: 1843
 active_end: 1843
 edges:
-- rel: "belongs_to", target: "sch-kierkegaardian", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism-religious", target_type: "مدرسة"
 related:
 - id: "met-kierkegaard-leap-of-faith", title: "قفزة الإيمان لكيركغارد: استعارة الانتقال الوجودي فوق سبعين ألف قامة", type: "استعارة/مجاز مؤسِّس"
 - id: "que-teleological-suspension-of-ethical", title: "هل يجوز تعليق الواجب الأخلاقي استجابة لنداء روحي أو غاية عليا؟", type: "سؤال توليدي"
 - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-kierkegaardian` ختماً قالبياً، ونُقل إلى `sch-existentialism-religious` بحسب المجال المُصحَّح في مسار التنقّل («الفلسفة الوجودية الدينية»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
   - "هذا العمل طرف ازدواج مسجَّل: يوجد ملف ثانٍ لنفس الكتاب بعنوان مختلف (`wrk-fear-and-trembling-kierkegaard`، 706ح) — لم يُدمج الملفان، وكل منهما عُمِّق باستقلالية."
   - "لا يوجد اقتباس مباشر موثوق من *Frygt og Bæven* (خوف ورعدة، 1843) بترجمة عربية معتمدة."
 ---

@@ -6,7 +6,7 @@ level: "متوسط"
 title: "باتريس دي ماركو"
 en: "Patrice De Marco"
 crumb: "التنويم الذاتي ← تطوير ← باتريس دي ماركو"
-dates: "إيطاليا · [DRAFT-UNKNOWN]"
+dates: "إيطاليا · [غير مؤكد]"
 country: "إيطاليا"
 language: "الإيطالية"
 active_start: 2005

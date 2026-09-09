@@ -13,12 +13,13 @@ active_start: 1985
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "thk-mtsai", title: "مافيس تساي", type: "مفكر"
 - id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 - id: "tec-fap", title: "العلاج النفسي التحليلي الوظيفي (FAP)", type: "تقنية/تدخل علاجي"
 gaps:
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-cbt` — وهو **ملفُّ إحالةٍ** لا مدرسة (صار إحالةً في دفعة دمجٍ سابقة ولم تُنقَل الأنسابُ الواردةُ إليه)، فنُقل إلى البديل المعتمد `sch-cognitive-behavioral`."
   - "تاريخ الميلاد الدقيق غير متاح في المصادر المتاحة."
   - "سيرته المهنية الكاملة وأدواره في جامعة واشنطن — موضع بحث."
 ---

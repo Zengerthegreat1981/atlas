@@ -13,16 +13,16 @@ active_start: 1990
 active_end: "مستمر"
 crumb: "العلاج متعدد الأنظمة (MST) ← مؤسِّسة MST Research Network ← سونيا شونوالد"
 edges:
-- rel: "belongs_to", target: "br-mst", type: "تيار"
+- rel: "belongs_to", target: "br-mst", target_type: "تيار"
 related:
-- id: "thk-shenggeler", type: "مفكر", title: "سكوت هِنغلَر"
-- id: "thk-cborduin", type: "مفكر", title: "تشارلز بوردوين"
-- id: "thk-mrowland", type: "مفكر", title: "ميليسا رولاند"
-- id: "thk-pfisher", type: "مفكر", title: "بيتر فيشر"
-- id: "thk-ccarney", type: "مفكر", title: "تشارلز كارني"
-- id: "thk-sschoenwald", type: "مفكر", title: "إريك بينس"
-- id: "thk-khoagwood", type: "مفكر", title: "كيمبرلي هوغوود"
+- id: "thk-shenggeler", title: "سكوت هِنغلَر", type: "مفكر"
+- id: "thk-cborduin", title: "تشارلز بوردوين", type: "مفكر"
+- id: "thk-mrowland", title: "ميليسا رولاند", type: "مفكر"
+- id: "thk-pfisher", title: "بيتر فيشر", type: "مفكر"
 gaps:
+  - "**حُذف بندٌ يُشير إلى الملفّ نفسِه 2026-09-08:** كان `related` يحمل `thk-sschoenwald` — أي slug هذا الملفِّ ذاتِه — بعنوان «إريك بينس»، وهو شخصٌ آخر يذكره المتن (Eric Pineus). أي أنّ الـslug كان حشواً في موضع اسمٍ لا ملفَّ له. **ولم يُربَط بـ`thk-berne`** فإريك بيرن صاحبُ التحليل التفاعلي شخصٌ ثالثٌ لا صلةَ له بـMST. ولا يزال «إريك بينس» بلا ملفٍّ وهويتُه غيرُ مُتحقَّقةٍ عندي."
+  - "إحالة معلَّقة أُزيلت: «تشارلز كارني» (thk-ccarney) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
+  - "إحالة معلَّقة أُزيلت: «كيمبرلي هوغوود» (thk-khoagwood) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
   - "تفاصيل 'جودة التنفيذ' (Quality of Implementation, QoI) موثّقة في مقالاتها."
 ---
 

@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1945
 active_end: 2008
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← دوروين كارترايت"
+crumb: "علم النفس الاجتماعي (Social Psychology) ← الناس ← دوروين كارترايت"
 edges:
 - rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:

@@ -13,12 +13,13 @@ active_start: 1995
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "thk-cmartell", title: "كريستوفر ر. مارتل", type: "مفكر"
 - id: "thk-njacobson", title: "نيل س. جاكوبسون", type: "مفكر"
 - id: "tec-behavioral-activation", title: "التنشيط السلوكي", type: "تقنية/تدخل علاجي"
 gaps:
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-cbt` — وهو **ملفُّ إحالةٍ** لا مدرسة (صار إحالةً في دفعة دمجٍ سابقة ولم تُنقَل الأنسابُ الواردةُ إليه)، فنُقل إلى البديل المعتمد `sch-cognitive-behavioral`."
   - "تاريخ الميلاد الدقيق غير متاح في المصادر المتاحة."
   - "دوره في Clark University / جامعة Clark — موضع بحث."
 ---

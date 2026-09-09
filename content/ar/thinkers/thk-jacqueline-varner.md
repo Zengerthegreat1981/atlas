@@ -6,7 +6,7 @@ level: "متوسط"
 title: "جاكلين فارنر"
 en: "Jacqueline M. Varner"
 crumb: "علم نفس الرياضة (علم النفس الرياضي) ← تطوير ← جاكلين فارنر"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2010

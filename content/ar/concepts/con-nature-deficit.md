@@ -6,10 +6,10 @@ level: "مبتدئ"
 title: "متلازمة عجز الطبيعة"
 en: "Nature Deficit Disorder (NDD)"
 crumb: "العلاج البيئي/الطبيعي ← المفاهيم ← متلازمة عجز الطبيعة"
-country: "[DRAFT-UNKNOWN]"
+country: "[غير مؤكد]"
 active_start: 2005
 active_end: "مستمر"
-language: "[DRAFT-UNKNOWN]"
+language: "[غير مؤكد]"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-deep-ecology", target_type: "مدرسة"

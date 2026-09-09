@@ -20,9 +20,9 @@ related:
 - id: "ctx-post-apartheid-south-africa-trc", title: "جنوب أفريقيا بعد الأبارتهايد ولجان الحقيقة والمصالحة الوطنية", type: "سياق/تقليد"
 - id: "thk-dtutu", title: "ديزموند توتو", type: "مفكر"
 - id: "thk-biko", title: "ستيف بيكو", type: "مفكر"
-- id: "thk-fanon", type: "مفكر", title: "فرانتز فانون"
+- id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
 - id: "thk-gandhi", title: "موهانداس كرمشاند غاندي", type: "مفكر"
-- id: "thk-martin-luther-king", type: "مفكر", title: "مارتن لوثر كينغ الابن"
+- id: "thk-martin-luther-king", title: "مارتن لوثر كينغ الابن", type: "مفكر"
 gaps:
   - "فلسفة الأوبونتو تعود لسنوات قبل مانديلا (الأب كونتواي ناتسوكيل) — يحتاج فصلاً."
   - "تفاصيل علاقته بحزب المؤتمر الوطني الأفريقي ANC في الستينيات موثّقة جزئياً."

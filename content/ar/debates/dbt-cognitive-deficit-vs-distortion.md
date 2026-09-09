@@ -10,7 +10,7 @@ crumb: "علم النفس المعرفي ← جَدالات مَنْهَجِيّ
 active_start: 1976
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "sch-cognitive-psychology", target_type: "مدرسة"
+- rel: "relates_to", target: "علم النفس المعرفي", target_type: "مدرسة"
 related:
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "con-cognitive-distortion", title: "التشوهات المعرفية", type: "مفهوم"

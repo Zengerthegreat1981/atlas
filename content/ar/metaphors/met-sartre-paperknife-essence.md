@@ -10,12 +10,13 @@ crumb: "الفلسفة الوجودية الفرنسية ← الاستعارا�
 active_start: 1946
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-existentialism-atheist", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "sch-existentialism-atheist", title: "الوجودية الملحدة (Atheist Existentialism)", type: "مدرسة"
 - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
 - id: "wrk-sartre-being-and-nothingness", title: "كتاب الوجود والعدم لجان بول سارتر (1943)", type: "عمل / كتاب"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existentialism-atheist` ختماً قالبياً، ونُقل إلى `sch-existentialism` بحسب المجال المُصحَّح في مسار التنقّل («الفلسفة الوجودية الفرنسية»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
   - "تاريخ إلقاء المحاضرة نفسها (29 أكتوبر 1946 في نادي مانتنان بباريس) غير مذكور هنا؛ فقط سنة النشر."
   - "لم تُراجع ترجمات الاستعارة إلى العربية (مثل ترجمة عبد المنعم الحفني أو سامي الدروبي) لضبط مصطلح «سكين الورق» مقابل الأصل الفرنسي coupe-papier."
 ---

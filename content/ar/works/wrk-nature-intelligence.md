@@ -16,7 +16,7 @@ author_slug: "thk-spearman"
 publication_year: 1923
 original_language: "الإنجليزية"
 edges:
-- rel: "authored_by", target: "thk-spearman", target_type: "مفكر"
+- rel: "authored_by", target: "تشارلز سبيرمان", target_type: "مفكر"
 related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 gaps:

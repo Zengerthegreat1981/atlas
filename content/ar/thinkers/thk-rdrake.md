@@ -13,12 +13,12 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "إدارة الحالات ← تطوير ← روبرت دريك"
 edges:
-- rel: "belongs_to", target: "br-case-management", type: "تيار"
+- rel: "belongs_to", target: "br-case-management", target_type: "تيار"
 related:
-- id: "thk-gbond", type: "مفكر", title: "غاري بوند"
-- id: "thk-gshepherd", type: "مفكر", title: "جيفري شيبرد"
-- id: "thk-dbecker", type: "مفكر", title: "ديبورا بيكر"
-- id: "con-evidence-based-practice", type: "مفهوم", title: "الممارسة المبنية على الأدلة (Evidence-Based Practice)"
+- id: "thk-gbond", title: "غاري بوند", type: "مفكر"
+- id: "thk-gshepherd", title: "جيفري شيبرد", type: "مفكر"
+- id: "thk-dbecker", title: "ديبورا بيكر", type: "مفكر"
+- id: "con-evidence-based-practice", title: "الممارسة المبنية على الأدلة (Evidence-Based Practice)", type: "مفهوم"
 gaps:
   - "سنة الميلاد الدقيقة تقديرية (1948، من سياق تخرّجه) ولم تُراجع من مصدر أولي."
   - "تفاصيل عمله المبكر في New Hampshire-Dartmouth Psychiatric Research Center قبل 1980 غير موثّقة هنا."

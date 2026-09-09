@@ -11,7 +11,7 @@ country: "مصر (الإسكندرية)"
 language: "اليونانية"
 active_start: -20
 active_end: 50
-crumb: "الأطلس ← thinkers ← فيلو الإسكندري (فيلون)"
+crumb: "الفلسفة اليهودية الهلنستية (الإسكندرانية) ← الناس ← فيلو الإسكندري (فيلون)"
 edges:
 - rel: "belongs_to", target: "sch-judaism-hellenistic", target_type: "مدرسة"
 related:

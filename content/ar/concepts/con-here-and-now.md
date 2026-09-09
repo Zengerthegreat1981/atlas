@@ -8,9 +8,9 @@ en: "Here-and-Now"
 crumb: "الإنسانية والوجودية ← المفاهيم ← اللحظة الراهنة"
 active_start: 1940
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
@@ -21,6 +21,8 @@ related:
 - id: "con-actualizing-tendency", title: "نزعة التحقق الذاتي", type: "مفهوم"
 - id: "con-mindfulness", title: "اليقظة الذهنية (Mindfulness)", type: "مفهوم"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «psychology» وصار «philosophy» اتّساقاً مع أشقّائه تحت `sch-existentialism` (وأغلبيتُهم «philosophy» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-existentialism` بحسب المجال المُصحَّح في مسار التنقّل («الإنسانية والوجودية»). ومدخلٌ فلسفيٌّ لا ينتمي إلى مدرسةِ علاجٍ نفسيٍّ إكلينيكي."
   - "لا يوجد اقتباس مباشر موثوق من Perls (1969, *Gestalt Therapy Verbatim*) بعد."
   - "الفرق بين 'الآن هنا' في الـ Gestalt وفي العلاج الجشطلتي وفي الـ CBT الحديثة لم يُفصَّل."
   - "نقد بوبر (Popper) لفكرة 'اللحظة الراهنة' كحقيقة فينومينولوجية لم يُوثَّق."

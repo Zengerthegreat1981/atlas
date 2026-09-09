@@ -15,11 +15,11 @@ crumb: "ABA للتوحد ← تطوير ← ريتشارد فُكْس"
 edges:
 - rel: "belongs_to", target: "br-aba-autism", target_type: "تيار"
 related:
-- id: "thk-fkeller", type: "مفكر", title: "فريد س. كيلّر"
-- id: "thk-bfskinner", type: "مفكر", title: "ب. ف. سكينر"
-- id: "thk-nazrin", type: "مفكر", title: "نَثَان هـ. أزّرين"
-- id: "thk-ovaas", type: "مفكر", title: "أو. إيفار لوفاس"
+- id: "thk-fkeller", title: "فريد س. كيلّر", type: "مفكر"
+- id: "thk-nazrin", title: "نَثَان هـ. أزّرين", type: "مفكر"
+- id: "thk-lovaas", title: "إيفار لوفاس", type: "مفكر"
 gaps:
+  - "إحالة معلَّقة أُزيلت: «ب. ف. سكينر» (thk-bfskinner) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
   - "التفاصيل الكاملة لمساهمته في 'Toilet Training in Less Than a Day' (1974) موثّقة في كتبه."
   - "العلاقة الشخصية مع Nathan Azrin موثّقة في كتبهما المشتركة."
 ---

@@ -6,7 +6,7 @@ level: "متوسط"
 title: "لارس يوهانسون"
 en: "Lars Johansson"
 crumb: "فرق العكس العاكسة (Reflecting Teams) ← تطوير ← لارس يوهانسون"
-dates: "السويد · [DRAFT-UNKNOWN]"
+dates: "السويد · [غير مؤكد]"
 country: "السويد"
 language: "السويدية"
 active_start: 2005

@@ -10,13 +10,15 @@ crumb: "المفاهيم الفلسفية الكبرى ← معضلة جيتيي
 active_start: 1963
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "br-logical-positivism-vienna-circle", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-epistemology", target_type: "مدرسة"
 related:
 - id: "thk-nozick", title: "روبرت نوزيك", type: "مفكر"
 - id: "con-reliabilism-epistemology", title: "الموثوقية في نظرية المعرفة (Reliabilism)", type: "مفهوم"
 - id: "con-virtue-epistemology", title: "إبستمولوجيا الفضيلة والفضائل المعرفية (Virtue Epistemology)", type: "مفهوم"
 - id: "dbt-internalism-vs-externalism-epistemic", title: "جدل الداخلية مقابل الخارجية في نظرية المعرفة", type: "جدل"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى حلقة فيينا — ختماً قالبياً حُمِل آلياً عند دمج ملفٍّ مزدوج. ومباحثُ نظرية المعرفة المعاصرة (مشكلةُ غيتييه 1963 وما بعدها) لاحقةٌ للوضعية المنطقية وناقدةٌ لها، فنُقل الانتماءُ إلى `sch-epistemology`."
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `br-logical-positivism-vienna-circle`، وقد صار ذلك الملفُّ **إحالةً** إلى `sch-vienna-circle` بعد دمج ملفَّين مزدوجَين، فنُقل الانتماءُ إلى المعتمد."
   - "رابط مقترح لم يتحقق بعد في الأطلس: إدموند جيتيير (thk-gettier) — لا يوجد ملف مفكر مخصص له."
   - "رابط مقترح لم يتحقق بعد في الأطلس: مقالة جيتيير الأصلية (wrk-is-justified-true-belief-knowledge, 1963) — غير موثقة كملف عمل مستقل."
   - "belongs_to الحالي (br-logical-positivism-vienna-circle) غير دقيق موضوعياً — جيتيير كتب داخل الإبستمولوجيا التحليلية اللاحقة على الوضعية المنطقية لا داخلها؛ لا يوجد في الأطلس بعد فرع/مدرسة مخصصة لـ'الإبستمولوجيا التحليلية بعد جيتيير' لإعادة الربط إليه."

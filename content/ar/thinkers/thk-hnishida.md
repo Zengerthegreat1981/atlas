@@ -6,12 +6,12 @@ level: "متوسط"
 title: "هيرويوكي نيشيدا"
 en: "Hiroyuki Nishida"
 crumb: "مدرسة التحليل النفسي ← الناس ← هيرويوكي نيشيدا"
-dates: "[DRAFT-UNKNOWN]"
-country: "[DRAFT-UNKNOWN]"
+dates: "[غير مؤكد]"
+country: "[غير مؤكد]"
 language: "اليابانية"
 part: "philosophy"
 active_start: null
-active_end: "[DRAFT-UNKNOWN]"
+active_end: null
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:

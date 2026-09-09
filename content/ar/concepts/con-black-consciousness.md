@@ -5,14 +5,14 @@ type: "مفهوم"
 level: "متقدم"
 title: "الوعي الأسود"
 en: "Black Consciousness"
-crumb: "المدرسة الوجودية ← المفاهيم ← الوعي الأسود"
+crumb: "الوجودية السوداء ← المفاهيم ← الوعي الأسود"
 active_start: 1978
 active_end: 1978
 country: "جنوب أفريقيا"
 language: "الإنجليزية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-black-existentialism", target_type: "مدرسة"
 - rel: "coined_by", target: "thk-biko", target_type: "مفكر"
 related:
 - id: "thk-biko", title: "ستيف بيكو", type: "مفكر"
@@ -23,6 +23,8 @@ related:
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-black-existentialism` بحسب المجال المُصحَّح في مسار التنقّل («الوجودية السوداء»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
+  - "**صُحِّح مسار التنقّل 2026-09-08:** كان الجزء الأول «المدرسة الوجودية» ختماً قالبياً؛ واستُبدل بـ«الوجودية السوداء». المصدر: نقضٌ يدويّ — حركةُ بيكو، وللأطلس `sch-black-existentialism`. ولم يُشتقَّ من `belongs_to` لأنّ الحقلَ في هذا الحشد مختومٌ آلياً على «الوجودية العلاجية» حتى لمدخلاتٍ فلسفيةٍ تسبق الوجودية بقرون."
   - "لم يُراجع بعد من النص الأصلي (I Write What I Like, 1978) بالكامل — هذا الوصف مبني على ما هو موثّق في صفحة بيكو المعتمدة فقط."
   - "علاقتها الدقيقة (امتداد أم تمايز) بمفهومي الاغتراب والأصالة الوجوديين الكلاسيكيين تحتاج توسيعاً."
 ---

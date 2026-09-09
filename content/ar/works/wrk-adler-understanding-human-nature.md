@@ -2,7 +2,7 @@
 slug: "wrk-adler-understanding-human-nature"
 id: "WRK-0762"
 type: "عمل / كتاب"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "كتاب فهم الطبيعة البشرية لألفرد أدلر (1927)"
 en: "Understanding Human Nature (Menschenkenntnis) by Alfred Adler"
@@ -14,15 +14,16 @@ author_slug: "thk-adler"
 publication_year: 1927
 original_language: "الألمانية"
 edges:
-- rel: "belongs_to", target: "sch-adlerian", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-adlerian", target_type: "مدرسة"
 related:
 - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
-- id: "sch-adlerian", title: "علم النفس الفردي الأدلري", type: "مدرسة"
+- id: "br-adlerian", title: "علم النفس الفردي الأدلري", type: "تيار"
 - id: "con-inferiority-superiority-complex", title: "عقدة النقص وعقدة التفوق (دينامية التعويض في علم النفس الفردي)", type: "مفهوم"
 - id: "thk-vaihinger", title: "هانز فايغر", type: "مفكر"
 - id: "thk-rdreikurs", title: "رودولف درايكورس", type: "مفكر"
 - id: "thk-ansbacher", title: "هاينز ل. آنسْباخِر", type: "مفكر"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `br-adlerian` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "لم يثبت وجود ترجمة عربية منشورة لهذا العمل: بُحث عن مترجم وناشر وسنة ولم يُعثر على أيٍّ منها."
   - "أرقام توزيع الكتاب وعدد لغاته غير موثقة في هذا الملف، ولم تُدرَج تجنباً للتخمين."
 ---

@@ -6,18 +6,19 @@ level: "متقدم"
 title: "دانيال فريمان"
 en: "Daniel Freeman"
 crumb: "المعرفية السلوكية ← الناس ← دانيال فريمان"
-dates: "بريطانيا · [DRAFT-UNKNOWN]"
+dates: "بريطانيا · [غير مؤكد]"
 country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1995
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "tec-cbt-psychosis", title: "العلاج المعرفي السلوكي للذهان (CBTp)", type: "تقنية/تدخل علاجي"
-- id: "thk-bentall", title: "ريتشارد بنتال", type: "مفكر"
 gaps:
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-cbt` — وهو **ملفُّ إحالةٍ** لا مدرسة (صار إحالةً في دفعة دمجٍ سابقة ولم تُنقَل الأنسابُ الواردةُ إليه)، فنُقل إلى البديل المعتمد `sch-cognitive-behavioral`."
+  - "إحالة معلَّقة أُزيلت: «ريتشارد بنتال» (thk-bentall) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
   - "سنة الميلاد تقريبية، تستحق توثيقاً من مصدر أولي."
   - "تفاصيل تدرّجه الأكاديمي بين King's College London وجامعة أكسفورد تستحق توثيقاً إضافياً."
   - "لا اقتباس منسوب له موثّق بمصدر وسنة محددين متاح حتى الآن."

@@ -15,11 +15,12 @@ original_language: "الألمانية"
 active_start: 1888
 active_end: 1889
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-nietzscheanism", target_type: "مدرسة"
 - rel: "written_by", target: "thk-nietzsche", target_type: "مفكر"
 related:
 - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-nietzscheanism` بحسب المجال المُصحَّح في مسار التنقّل («المكتبة الفلسفية / «أفول الأصنام» نصُّ نيتشه، لا نصَّ مدرسةِ علاج»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
   - "لم يثبت وجود ترجمة عربية معتمدة لهذا العمل بثلاثيّها الكامل (مترجم + دار + سنة): بُحث عن مترجم وناشر وسنة ولم يُعثر على ما يثبتها بثقة، فلم تُسمَّ أيّ ترجمة هنا."
   - "التحقيق النقدي الألماني الكامل لمخطوطات العمل (ضمن الطبعة النقدية لكولي ومونتيناري) لم يُراجَع مباشرة هنا."
 ---

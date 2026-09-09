@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 2005
 active_end: "مستمر"
 part: "psychology"
-crumb: "الأطلس ← thinkers ← داوسون تشيرش"
+crumb: "الناس ← داوسون تشيرش"
 edges: []
 related:
 - id: "thk-rcallahan", title: "روجر كالاهان", type: "مفكر"

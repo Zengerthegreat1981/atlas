@@ -15,12 +15,12 @@ crumb: "الممارسة الموجَّهة نحو التعافي ← تطوير
 edges:
 - rel: "belongs_to", target: "br-recovery-oriented", target_type: "تيار"
 related:
-- id: "thk-dwfisher", type: "مفكر", title: "دان فيشر"
-- id: "thk-wwhite", type: "مفكر", title: "وليام وايت"
-- id: "thk-pcamp", type: "مفكر", title: "باتريشا دياني"
-- id: "thk-ppetersen", type: "مفكر", title: "بيترسن"
-- id: "con-recovery-model", type: "مفهوم", title: "نموذج التعافي (Recovery)"
+- id: "thk-dan-fisher", title: "دان فيشر", type: "مفكر"
+- id: "thk-wwhite", title: "وليام وايت", type: "مفكر"
+- id: "con-recovery-model", title: "نموذج التعافي (Recovery)", type: "مفهوم"
 gaps:
+  - "إحالة معلَّقة أُزيلت: «باتريشا دياني» (thk-pcamp) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
+  - "إحالة معلَّقة أُزيلت: «بيترسن» (thk-ppetersen) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
   - "سنة الميلاد غير منشورة."
   - "لا توجد سيرة ذاتية منشورة لـ 'Mary Elmquist' في SAMHSA (الولايات المتحدة) حتى آب 2026."
   - "الاحتمال: خلط مع 'Mary Elmquist' (ممرضة في Minnesota) أو 'Mary Elmquist-Jones' (ممارس في SAMSHA)."

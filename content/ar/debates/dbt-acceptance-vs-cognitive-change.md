@@ -2,7 +2,7 @@
 slug: "dbt-acceptance-vs-cognitive-change"
 id: "DBT-0422"
 type: "جدل"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "القبول والانفتاح الانفعالي مقابل إعادة التقييم المعرفي"
 en: "Experiential Acceptance vs. Cognitive Restructuring in Psychotherapy"
@@ -15,6 +15,7 @@ related:
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `sch-cognitive-behavioral` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "استجابة هايز وزملائه (2013) على انتقاد هوفمان وأسموندسون (2008) تحتاج تلخيصاً أدق لنقاط الخلاف المنهجية حول قياس 'الحداثة' الإحصائية لـACT."
 ---
 

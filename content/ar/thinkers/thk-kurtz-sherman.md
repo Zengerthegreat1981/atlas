@@ -6,7 +6,7 @@ level: "متوسط"
 title: "شيرمان كيرتز"
 en: "Sherman E. Kurtz"
 crumb: "الممارسة الموجَّهة نحو التعافي ← تطوير ← شيرمان كيرتز"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2012

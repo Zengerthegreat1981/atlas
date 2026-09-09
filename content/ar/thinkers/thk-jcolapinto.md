@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "الإسبانية، الإنجليزية"
 active_start: 1975
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 crumb: "العلاج الأسري البنيوي ← الجيل الثاني ← خورخي كولابينتو"
 edges:
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
@@ -18,6 +18,7 @@ edges:
 related:
 - id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `sch-systemic-family` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من *The Intersubjective Mirror in Family Therapy* (2017) بترجمة عربية معتمدة."
 ---

@@ -6,7 +6,7 @@ level: "متوسط"
 title: "جونيل سيدِربلاد"
 en: "Gunnel Cederblad"
 crumb: "تحليل المعاملات (TA) ← تطوير ← جونيل سيدربلاد"
-dates: "السويد · [DRAFT-UNKNOWN]"
+dates: "السويد · [غير مؤكد]"
 country: "السويد"
 language: "السويدية"
 active_start: 1990

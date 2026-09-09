@@ -13,10 +13,9 @@ active_end: "مستمر"
 part: "psychology"
 edges:
 related:
-- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 - id: "con-neurodiversity-affirming", title: "الإرشاد المؤيد للتنوع العصبي", type: "مفهوم"
-- id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
 gaps:
+  - "**حُذف رابطٌ مُقحَم 2026-09-08:** كان `related` يحمل `con-authenticity` («الأصالة») حشواً من دفعةٍ قالبية، ولا يُذكَر المفهومُ في متن هذا الملف ولا صلةَ له بموضوعه."
   - "تاريخ 'Neurodiversity' كمصطلح (Judy Singer, 1998) يستحق مصدراً."
   - "الفرق بين النموذج 'medical' والنموذج 'social' و'neurodiversity' في التوحد يستحق توثيقاً."
 ---

@@ -18,10 +18,10 @@ related:
 - id: "thk-hhendrix", title: "هارفيل هندريكس", type: "مفكر"
 - id: "thk-sdeshacer", title: "ستيف دي شيزر", type: "مفكر"
 - id: "thk-iberg", title: "إنسو كيم بيرغ", type: "مفكر"
-- id: "thk-whtillmann", type: "مفكر", title: "و. تيلمان"
-- id: "sch-imago", type: "مدرسة", title: "العلاج بالـ Imago"
-- id: "con-divorce-busting", type: "مفهوم", title: "تحطيم الطلاق"
+- id: "sch-imago", title: "العلاج بالـ Imago", type: "مدرسة"
 gaps:
+  - "إحالة معلَّقة أُزيلت: «و. تيلمان» (thk-whtillmann) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
+  - "إحالة معلَّقة أُزيلت: «تحطيم الطلاق» (con-divorce-busting) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
   - "سنة الميلاد 1955 تقريبية (مبنية على تاريخ أطروحتها الأولى)."
   - "تفاصيل 'Divorce Busting' بالعربية موثّقة جزئياً."
 ---

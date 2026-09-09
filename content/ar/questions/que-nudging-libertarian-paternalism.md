@@ -2,7 +2,7 @@
 slug: "que-nudging-libertarian-paternalism"
 id: "QUE-0077"
 type: "سؤال توليدي"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "هل يحق للدولة وخوارزمياتها توجيه وخز سلوكيات المواطنين لصالح صحتهم؟"
 en: "Nudge Theory and Libertarian Paternalism: Gentle Guidance or Stealth Manipulation?"
@@ -16,6 +16,7 @@ related:
 - id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
 - id: "thk-habermas", title: "يورغن هابرماس", type: "مفكر"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `sch-cognitive-behavioral` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "كاس سنستين وحاييم هاوسمان لا يملكان ملف مفكر مستقل في الأطلس حتى الآن — طُلب إنشاؤهما."
   - "توسيع شبكة العلاقات مع المدارس المجاورة (فلسفة السياسات العامة، أخلاقيات التصميم الرقمي) قيد المتابعة التحريرية."
 ---

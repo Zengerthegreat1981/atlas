@@ -6,7 +6,7 @@ level: "متقدم"
 title: "روبرت روتيلا"
 en: "Robert J. Rotella"
 crumb: "علم نفس الرياضة ← تطوير ← روبرت روتيلا"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1985

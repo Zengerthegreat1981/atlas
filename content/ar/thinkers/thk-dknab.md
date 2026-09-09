@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
 part: "psychology"
-crumb: "الأطلس ← thinkers ← دوغلاس كناب"
+crumb: "التثقيف النفسي ← الناس ← دوغلاس كناب"
 edges:
 - rel: "belongs_to", target: "br-psychoeducation", target_type: "تيار"
 related:

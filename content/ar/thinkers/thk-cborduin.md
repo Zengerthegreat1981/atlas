@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1983
 active_end: "مستمر"
 part: "psychology"
-crumb: "الأطلس ← thinkers ← تشارلز بوردوين"
+crumb: "العلاج متعدد الأنظمة (MST) ← الناس ← تشارلز بوردوين"
 edges:
 - rel: "belongs_to", target: "br-mst", target_type: "تيار"
 related:

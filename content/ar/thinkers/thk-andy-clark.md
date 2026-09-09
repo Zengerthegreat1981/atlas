@@ -2,7 +2,7 @@
 slug: "thk-andy-clark"
 id: "THK-2801"
 type: "مفكر"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "آندي كلارك"
 en: "Andy Clark"
@@ -18,6 +18,7 @@ related:
 - id: "dbt-extended-mind-clark-chalmers", title: "فرضية العقل الممتد وتخطي حدود الجمجمة (Clark & Chalmers)", type: "جدل"
 - id: "ctx-dot-com-bubble-internet-revolution", title: "ثورة الإنترنت وفقاعة الدوت كوم وميلاد المجتمع الشبكي الرقمي", type: "سياق/تقليد"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «psychology» وصار «philosophy» اتّساقاً مع أشقّائه تحت `sch-phil-mind-analytic` (وأغلبيتُهم «philosophy» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
 ---

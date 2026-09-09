@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← جاك ليتشنر"
+crumb: "الناس ← جاك ليتشنر"
 edges: []
 related: []
 gaps:

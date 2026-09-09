@@ -5,7 +5,7 @@ type: "حدث تاريخي"
 level: "متقدم"
 title: "نشر الدليل التشخيصي الخامس والجدل حول التضخم وإلغاء المحاور"
 en: "Publication of DSM-5 and the Diagnostic Inflation Controversy"
-crumb: "المدرسة الوجودية ← الأحداث التاريخية ← نشر الدليل التشخيصي الخامس DSM-5"
+crumb: "تاريخ علم النفس والطب النفسي ← الأحداث التاريخية ← نشر الدليل التشخيصي الخامس DSM-5"
 active_start: 2013
 active_end: "مستمر"
 event_date: "2013-05-18"
@@ -17,10 +17,9 @@ related:
 - id: "dis-retts-disorder-historical", title: "اضطراب ريت التاريخي (Rett's Disorder)", type: "اضطراب/حالة إكلينيكية"
 - id: "crt-dsm-cultural-bias", title: "التحيز الثقافي في DSM", type: "نقد خارجي موثَّق"
 - id: "classification-dsm-5-tr", title: "الدليل التشخيصي والإحصائي للاضطرابات النفسية، النسخة الخامسة المنقَّحة (DSM-5-TR)", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-aspergers-disorder-historical", title: "اضطراب أسبيرجر التاريخي (Asperger's Disorder / Syndrome)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-gender-identity-disorder-historical", title: "اضطراب الهوية الجنسية التاريخي (Gender Identity Disorder)", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-retts-disorder-historical", title: "اضطراب ريت التاريخي (Rett's Disorder)", type: "اضطراب/حالة إكلينيكية"
 gaps:
+  - "**صُحِّح مسار التنقّل 2026-09-08:** كان الجزء الأول «المدرسة الوجودية» ختماً قالبياً، واستُبدل بـ«تاريخ علم النفس والطب النفسي» — حدثٌ في تاريخ الحقل لا صلةَ له بالوجودية."
   - "التاريخ الدقيق والصياغة الكاملة لبيان توماس إنسل بشأن معايير RDoC (أُشير إليه هنا بإيجاز) تحتاج توثيقاً أرشيفياً من موقع NIMH"
   - "حملة المقاطعة الدولية من جمعيات علم النفس الإنساني والبريطانية لـ DSM-5 تتطلب تفصيلاً (أسماء الجمعيات وتواريخ البيانات)"
 ---

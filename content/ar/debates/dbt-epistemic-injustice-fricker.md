@@ -13,6 +13,7 @@ related:
 - id: "con-epistemic-injustice-fricker-concept", title: "الظلم الإبستمولوجي والشهادي والتأويلي (Epistemic Injustice)", type: "مفهوم"
 - id: "que-epistemic-injustice-fricker", title: "كيف يسلب التمييز الطبقي والعنصري مصداقية شهادة المظلومين (الظلم المعرفي)؟", type: "سؤال توليدي"
 - id: "sch-feminism-black", title: "النسوية السوداء", type: "مدرسة"
+- id: "thk-miranda-fricker", title: "ميراندا فريكر", type: "مفكر"
 gaps:
   - "لا ملف مفكر (thk-) لميراندا فريكر نفسها في الأطلس رغم كونها موضوع الملف بالاسم — طلب slug مسجَّل في requests-minimax.md."
   - "لا ملف مفكر لكريستي دوتسون (Kristie Dotson) ولا لخوسيه مدينا (José Medina)، الطرف الناقد الفعلي في هذا الجدل — طلب slug مسجَّل."

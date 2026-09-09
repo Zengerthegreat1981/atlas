@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← جوليا غوتمان"
+crumb: "طريقة غوتمان في العلاج الزوجي ← الناس ← جولي شوارتز غوتمان"
 edges:
 - rel: "belongs_to", target: "tec-gottman-method", target_type: "تقنية/تدخل علاجي"
 related:

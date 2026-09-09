@@ -2,7 +2,7 @@
 slug: "trm-supervenience-philosophy-mind"
 id: "TRM-0088"
 type: "مصطلح لغوي متنازع عليه"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "التبعية أو الانبثاقية المشروطة (Supervenience)"
 en: "Translating Supervenience: Ontological Dependence, Non-Reductive Physicalism, and Mind-Brain"
@@ -15,6 +15,7 @@ related:
 - id: "sch-phil-mind-analytic", title: "فلسفة العقل التحليلية (كمظلة)", type: "مدرسة"
 - id: "thk-donald-davidson", title: "دونالد ديفيدسون", type: "مفكر"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «psychology» وصار «philosophy» اتّساقاً مع أشقّائه تحت `sch-phil-mind-analytic` (وأغلبيتُهم «philosophy» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "لم تُراجَع بعد نسخة كيم في Supervenience and Mind (1993) من مصدرها الأولي مباشرة — الاعتماد حالياً على شروح ثانوية."
   - "علاقة المصطلح بحجة الزومبي الفلسفي عند تشالمرز (1996) لم تُفصَّل بعد."
 ---

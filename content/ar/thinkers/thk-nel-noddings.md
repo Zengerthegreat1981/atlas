@@ -15,7 +15,7 @@ crumb: "الأخلاق النسوية وفلسفة التربية ← رواد �
 edges:
 - rel: "belongs_to", target: "sch-care-ethics", target_type: "مدرسة"
 related:
-- id: "thk-cgilligan", title: "كارول جيليجان", type: "مفكر"
+- id: "thk-gilligan", title: "كارول غيليغان", type: "مفكر"
 - id: "thk-bhooks", title: "بيل هوكس", type: "مفكر"
 - id: "que-care-ethics-vs-justice-ethics", title: "هل الأخلاق النسوية القائمة على الرعاية تتفوق على أخلاق القوانين الصارمة؟", type: "سؤال"
 gaps:

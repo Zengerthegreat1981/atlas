@@ -6,7 +6,7 @@ level: "متوسط"
 title: "بوب بيك"
 en: "Bob Beck"
 crumb: "السيبرنتيكا النفسية ← تطوير ← بوب بيك"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980

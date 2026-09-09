@@ -13,7 +13,7 @@ active_start: 1988
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "tec-cpt", title: "علاج المعالجة المعرفية (CPT)", type: "تقنية/تدخل علاجي"
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
@@ -23,6 +23,7 @@ related:
 - id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
 - id: "thk-ecker", title: "بروس إيكر", type: "مفكر"
 gaps:
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-cbt` — وهو **ملفُّ إحالةٍ** لا مدرسة (صار إحالةً في دفعة دمجٍ سابقة ولم تُنقَل الأنسابُ الواردةُ إليه)، فنُقل إلى البديل المعتمد `sch-cognitive-behavioral`."
   - "سنة الميلاد غير موثّقة من مصدر أولي."
   - "دور كانديس مونسون (Candice Monson) بالتحديد في تطوير CPT — ما إذا كانت شريكة تأسيس منذ البداية (1988) أم انضمت لاحقاً — يحتاج توثيقاً أدق."
   - "لا اقتباس مباشر منسوب لها بمصدر ورقم صفحة تم التحقق منه."

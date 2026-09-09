@@ -16,9 +16,9 @@ edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
-- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 gaps:
+  - "**حُذف رابطٌ مُقحَم 2026-09-08:** كان `related` يحمل `con-authenticity` («الأصالة») حشواً من دفعةٍ قالبية، ولا يُذكَر المفهومُ في متن هذا الملف ولا صلةَ له بموضوعه."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
   - "مفهوما 'تعدد حالات الذات' (Multiplicity of Self-States) و'الوقوف في المسافات البينية' (Standing in the Spaces) يستحقان توثيقاً."
   - "تم تصحيح تاريخ الميلاد من 1935 إلى 1931 (توفي 18 مايو 2020 عن عمر 89 عاماً) بناءً على مقال تأبيني في International Journal of Psychoanalysis (Routledge/Taylor & Francis) وموقع ISSTD."

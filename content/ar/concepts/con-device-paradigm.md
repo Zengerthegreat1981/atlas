@@ -5,17 +5,20 @@ type: "مفهوم"
 level: "متقدم"
 title: "نموذج الجهاز"
 en: "The Device Paradigm (Borgmann)"
-crumb: "المدرسة الوجودية ← المفاهيم ← نموذج الجهاز"
-part: "psychology"
+crumb: "فلسفة التكنولوجيا ← المفاهيم ← نموذج الجهاز"
+part: "philosophy"
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-philosophy-of-technology", target_type: "مدرسة"
 related:
 - id: "thk-borgmann", title: "ألبرت بورغمان", type: "مفكر"
 - id: "con-focal-practices", title: "الممارسات المحورية", type: "مفهوم"
 - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «psychology» وصار «philosophy» اتّساقاً مع أشقّائه تحت `sch-philosophy-of-technology` (وأغلبيتُهم «philosophy» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-philosophy-of-technology` بحسب المجال المُصحَّح في مسار التنقّل («فلسفة التكنولوجيا»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
+  - "**صُحِّح مسار التنقّل 2026-09-08:** كان الجزء الأول «المدرسة الوجودية» ختماً قالبياً؛ واستُبدل بـ«فلسفة التكنولوجيا». المصدر: نقضٌ يدويّ — مفهومُ ألبرت بورغمان في نقد التكنولوجيا. ولم يُشتقَّ من `belongs_to` لأنّ الحقلَ في هذا الحشد مختومٌ آلياً على «الوجودية العلاجية» حتى لمدخلاتٍ فلسفيةٍ تسبق الوجودية بقرون."
   - "كتاب بورغمان 'Technology and the Character of Contemporary Life' (1984) يحتاج مراجعة من المصدر الأولي."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "رابطا هايدجر ودريفوس أُزيلا من related لأن المتن لا يذكرهما بالاسم؛ صلتهما بنموذج الجهاز تحتاج توثيقاً نصياً قبل إعادة إضافتهما."

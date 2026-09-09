@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1950
 active_end: 2003
 part: "psychology"
-crumb: "الأطلس ← thinkers ← دونالد أو. كليفتون"
+crumb: "العلاج المرتكز على مواطن القوة ← الناس ← دونالد أو. كليفتون"
 edges:
 - rel: "belongs_to", target: "tec-strengths-based-therapy", target_type: "تقنية/تدخل علاجي"
 related:

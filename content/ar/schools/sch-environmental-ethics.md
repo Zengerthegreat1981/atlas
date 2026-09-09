@@ -13,8 +13,7 @@ language: "متعددة"
 cultural_origin: "anglo-american"
 active_start: 1962
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "sch-comparative-philosophy", target_type: "مظلة"
+edges: []
 related:
 - id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
 - id: "sch-social-ecology", title: "الإيكولوجيا الاجتماعية", type: "مدرسة"
@@ -22,25 +21,20 @@ related:
 - id: "con-land-ethic", title: "أخلاق الأرض (Land Ethic)", type: "مفهوم"
 - id: "wrk-sand-county-almanac", title: "تقويم مقاطعة الرمال (A Sand County Almanac)", type: "عمل / كتاب"
 gaps:
+  - "**فُرِّغ حقلُ الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-comparative-philosophy` ختماً قالبياً — الفلسفةُ المقارنةُ منهجٌ ومجالٌ مستقلّ، لا مظلّةٌ للفلسفات التطبيقية المعاصرة. وهذه مدرسةُ نِدٍّ أو مظلّةٌ مستقلّة، فبقي الحقلُ فارغاً؛ ولم يُوضَع أبٌ تقريبيٌّ لأنّ أباً خاطئاً أسوأُ من غياب أب."
   - "نصوص Aldo Leopold, Rachel Carson, Arne Næss, Holmes Rolston III, Bryan Norton need review."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
-
 # فلسفة البيئة / الأخلاق البيئية
-
 تيار فلسفي يُطبّق الأخلاق على العلاقة بين الإنسان والطبيعة، يُركّز على حماية البيئة.
-
 ## الأفكار المركزية
-
 - **Land Ethic (أخلاق الأرض)**: عند Leopold، «شيء صحيح عندما يحفظ سلامة المجتمع البيئي».
 - **Intrinsic Value of Nature**: عند Rolston، القيمة الذاتية للطبيعة.
 - **Biocentrism (مركزية الحياة)**: كل الكائنات الحية لها قيمة أخلاقية.
 - **Ecoholism**: عند Routley، أزمة بيئية.
 - **Sustainability (الاستدامة)**: في تقرير Brundtland (1987).
 - **Future Generations**: حقوق الأجيال القادمة.
-
 ## الفلاسفة
-
 - **Aldo Leopold (ألدو ليوبولد، 1887-1948)**: «A Sand County Almanac» (1949).
 - **Rachel Carson (ريتشل كارسون، 1907-1964)**: «Silent Spring» (1962).
 - **Arne Næss (أرنه نايس، 1912-2009)**: «The Shallow and the Deep» (1973).
@@ -48,20 +42,14 @@ gaps:
 - **Bryan Norton (براين نورتون)**: «Toward Unity Among Environmentalists» (1991).
 - **Andrew Light (أندرو لايت)**: بيئي حديث.
 - **Robin Attfield (روبن أتفيلد)**: «Environmental Philosophy» (1994).
-
 ## الأثر
-
 - أثّرت في الحركات البيئية العالمية.
 - أثّرت في القانون الدولي (مؤتمر ستوكهولم 1972، ريو 1992).
 - أثّرت في السياسات المناخية.
-
 ## القيد
-
 - تواجه انتقادات بسبب المركزية الأنثروبوسنتية في بعض المقاربات.
 - تواجه انتقادات بسبب تهميش الفقر العالمي.
-
 ## المصادر
-
 - Leopold, Aldo. *A Sand County Almanac*. Oxford University Press, 1949.
 - Carson, Rachel. *Silent Spring*. Houghton Mifflin, 1962.
 - Næss, Arne. "The Shallow and the Deep, Long-Range Ecology Movement." *Inquiry*, 1973.

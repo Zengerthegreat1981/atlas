@@ -13,7 +13,7 @@ active_start: 1956
 active_end: 1970
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "sch-transactional-analysis", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-transactional-analysis", target_type: "مدرسة"
 related:
 - id: "thk-aabrer", title: "كارل أبراهام", type: "مفكر"
 - id: "thk-sferenczi", title: "ساندور فيرينتسي", type: "مفكر"

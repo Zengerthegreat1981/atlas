@@ -6,7 +6,7 @@ level: "متقدم"
 title: "مايكل بِرِلمان"
 en: "Michael A. Perelman"
 crumb: "الجنس والهوية ← العلاج الجنسي ← مايكل بيرلمان"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980

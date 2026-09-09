@@ -16,9 +16,9 @@ edges:
 - rel: "belongs_to", target: "br-bowen-systems", target_type: "تيار"
 related:
 - id: "thk-mbowen", title: "موراي بوين", type: "مفكر"
-- id: "thk-pkerr", type: "مفكر", title: "مايكل كير"
-- id: "thk-eauerbach", type: "مفكر", title: "إيغن أويرباتش"
+- id: "thk-mkerr", title: "مايكل كير", type: "مفكر"
 gaps:
+  - "إحالة معلَّقة أُزيلت: «إيغن أويرباتش» (thk-eauerbach) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
   - "سنة الميلاد غير منشورة."
   - "لا كتاب منشور بهذا الاسم في WorldCat (حتى آب 2026)."
   - "العمل المشار إليه ('The Intimate Wilderness') — 1977، محرَّر بيرسي جيل (Percy H. Gwynne) — لا يظهر فيه اسم Fogarty في السجلات الأكاديمية."

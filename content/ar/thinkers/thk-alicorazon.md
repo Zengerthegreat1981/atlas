@@ -6,7 +6,7 @@ level: "متقدم"
 title: "ألي كورازون"
 en: "Ali B. Coronado"
 crumb: "Sikolohiyang Pilipino (Filipino Psychology) ← تطوير ← ألي كورازون"
-dates: "الفلبين · [DRAFT-UNKNOWN]"
+dates: "الفلبين · [غير مؤكد]"
 country: "الفلبين"
 language: "الفلبينية/الإنجليزية"
 active_start: 1995

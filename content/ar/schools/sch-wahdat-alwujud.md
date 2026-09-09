@@ -14,7 +14,7 @@ language: "العربية (مع الفارسية)"
 active_start: 1160
 active_end: 1400
 edges:
-- rel: "belongs_to", target: "br-irfan-shuhudi-sirhindi", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-islamic-sufism", target_type: "مدرسة"
 - rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مظلة"
 related:
 - id: "sch-wahdat-alshuhud", title: "وحدة الشهود", type: "مدرسة"
@@ -23,7 +23,10 @@ related:
 - id: "thk-jalal-al-din-rumi", title: "جلال الدين الرومي (مولانا)", type: "مفكر"
 - id: "thk-ahmad-sirhindi", title: "الشيخ أحمد السرهندي (المجدد الثاني)", type: "مفكر"
 - id: "con-wahdat-al-wujud", title: "وحدة الوجود", type: "مفهوم"
+- id: "thk-ibn-sabin", title: "عبد الحق بن إبراهيم بن سبعين المرسي", type: "مفكر"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `br-irfan-shuhudi-sirhindi`، ونُقل إلى `sch-islamic-sufism` — عرفانُ ابن عربي تصوُّفٌ إسلاميّ لا فلسفةٌ مشائية."
+  - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "مسألة نسبة تعبير «وحدة الوجود» لابن عربي نفسه: هل استعمله أم ابتدعه من بعده الفارابي الطوسي؟"
 ---
 

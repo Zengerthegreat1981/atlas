@@ -6,7 +6,7 @@ level: "مبتدئ"
 title: "كيم كوان-سونغ"
 en: "Kim Kwan-sung"
 crumb: "أطر غير غربية ← المفكرون ← كيم كوان-سونغ"
-dates: "كوريا الجنوبية · [DRAFT-UNKNOWN]"
+dates: "كوريا الجنوبية · [غير مؤكد]"
 country: "كوريا الجنوبية"
 language: "الكورية"
 active_start: 1977

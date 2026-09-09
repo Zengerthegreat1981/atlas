@@ -5,12 +5,12 @@ type: "مفهوم"
 level: "متوسط"
 title: "الاغتراب"
 en: "Alienation"
-crumb: "المدرسة الوجودية ← المفاهيم ← الاغتراب"
+crumb: "الفلسفة الوجودية ← المفاهيم ← الاغتراب"
 part: "philosophy"
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "con-isolation", title: "العزلة", type: "مفهوم"
 - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
@@ -20,6 +20,8 @@ related:
 - id: "con-alienation-marxist-vs-existentialist", title: "الاغتراب — الماركسي مقابل الوجودي", type: "مفهوم"
 - id: "con-bad-faith-mauvaise-foi", title: "سوء النية والهروب من الحرية (Bad Faith / Mauvaise Foi)", type: "مفهوم"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-existentialism` بحسب المجال المُصحَّح في مسار التنقّل («الفلسفة الوجودية»). ومدخلٌ فلسفيٌّ لا ينتمي إلى مدرسةِ علاجٍ نفسيٍّ إكلينيكي."
+  - "**صُحِّح مسار التنقّل 2026-09-08:** كان الجزء الأول «المدرسة الوجودية» ختماً قالبياً؛ واستُبدل بـ«الفلسفة الوجودية». المصدر: وجودي مُدقَّق — الجيرةُ وجودية، ودُقِّق الوسمُ بحسب part. ولم يُشتقَّ من `belongs_to` لأنّ الحقلَ في هذا الحشد مختومٌ آلياً على «الوجودية العلاجية» حتى لمدخلاتٍ فلسفيةٍ تسبق الوجودية بقرون."
   - "المصادر الأولية (نصوص هيغل التأسيسية عن Entfremdung في فينومينولوجيا الروح) تحتاج توثيقاً إضافياً بالصفحة."
 ---
 

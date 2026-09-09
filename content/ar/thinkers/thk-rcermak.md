@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1975
 active_end: "مستمر"
 part: "psychology"
-crumb: "الأطلس ← thinkers ← شارون سيرماك"
+crumb: "الناس ← شارون سيرماك"
 edges: []
 related:
 - id: "thk-jayres", title: "جين أَيرس", type: "مفكر"

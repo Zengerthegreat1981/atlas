@@ -11,7 +11,7 @@ language: "الكورية"
 active_start: 1990
 active_end: "مستمر"
 part: "psychology"
-crumb: "الأطلس ← thinkers ← بارك جونغ-إيك"
+crumb: "الهوابيونغ (Hwabyung) ← الناس ← بارك جونغ-إيك"
 edges:
 - rel: "belongs_to", target: "dis-hwabyung", target_type: "مدرسة"
 related:

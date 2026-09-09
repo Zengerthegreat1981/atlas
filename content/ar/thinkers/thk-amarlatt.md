@@ -13,7 +13,7 @@ active_start: 1973
 active_end: 2011
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "tec-relapse-prevention", title: "منع الانتكاس (RP)", type: "تقنية/تدخل علاجي"
 - id: "tec-mbrp", title: "الوقاية من الانتكاس القائمة على اليقظة الذهنية (MBRP)", type: "تقنية/تدخل علاجي"
@@ -22,6 +22,7 @@ related:
 - id: "thk-kwitkiewitz", title: "كايتي ويتكيفيتش", type: "مفكر"
 - id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
 gaps:
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-cbt` — وهو **ملفُّ إحالةٍ** لا مدرسة (صار إحالةً في دفعة دمجٍ سابقة ولم تُنقَل الأنسابُ الواردةُ إليه)، فنُقل إلى البديل المعتمد `sch-cognitive-behavioral`."
   - "لا يوجد في الأطلس ملف لجوديث غوردون (Judith R. Gordon) شريكته في تأليف *Relapse Prevention* (1985)، ولا لسارة بوين (Sarah Bowen) الشريكة في دليل MBRP (2011) — كلاهما مطلوب في requests-spark.md."
   - "ألبرت باندورا غائب عن الأطلس، ومارلات بنى شرط «الكفاءة الذاتية» في نموذج منع الانتكاس على نظريته — الرابط مفقود لغياب الملف لا لغياب الصلة."
   - "تاريخ أول صياغة صريحة لـ«تأثير انتهاك الامتناع» غير محسوم: النص السابق كان ينسبه إلى 1973 بلا مرجع، والمصدر المتاح هنا هو فصل 1980 مع غوردون."

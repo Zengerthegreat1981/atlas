@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1963
 active_end: "مستمر"
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← وليام ريتشاردز"
+crumb: "الناس ← وليام ريتشاردز"
 edges: []
 related:
 - id: "thk-mmithoefer", title: "مايكل ميثوفير (نفس مايكل ميثوفر)", type: "مفكر"

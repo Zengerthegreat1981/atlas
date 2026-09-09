@@ -14,16 +14,16 @@ active_end: 2016
 part: "psychology"
 crumb: "علاج الدراما (Psychodrama) ← مؤسِّسو المنهجية ← زيركا مورينو"
 edges:
-- rel: "belongs_to", target: "br-psychodrama", type: "تيار"
+- rel: "belongs_to", target: "br-psychodrama", target_type: "تيار"
 related:
-- id: "thk-jlmoreno", type: "مفكر", title: "جاكوب ل. مورينو"
-- id: "thk-rjlandy", type: "مفكر", title: "روبرت لاندي"
-- id: "thk-aboal", type: "مفكر", title: "أوغوستو بوال"
-- id: "thk-pslade", type: "مفكر", title: "بيتر سليد"
-- id: "thk-gkellermann", type: "مفكر", title: "جورج كيلرمان"
-- id: "thk-rfox", type: "مفكر", title: "جوناثان فوكس"
-- id: "thk-hhudolin", type: "مفكر", title: "هوارد هدولن"
+- id: "thk-jmoreno", title: "جاكوب مورينو", type: "مفكر"
+- id: "thk-rlandy-md", title: "روبرت لاندي", type: "مفكر"
+- id: "thk-aboal", title: "أوغوستو بوال", type: "مفكر"
+- id: "thk-pslade", title: "بيتر سليد", type: "مفكر"
 gaps:
+  - "إحالة معلَّقة أُزيلت: «جورج كيلرمان» (thk-gkellermann) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
+  - "إحالة معلَّقة أُزيلت: «جوناثان فوكس» (thk-rfox) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
+  - "إحالة معلَّقة أُزيلت: «هوارد هدولن» (thk-hhudolin) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
   - "تفاصيل 'الفترة المخملية' (Velvet Period) في Beaver Run موثّقة جزئياً."
   - "قائمة كاملة لمنشوراتها موثّقة في 'The Quintessential Zerka' (2006)."
 ---

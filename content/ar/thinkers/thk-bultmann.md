@@ -5,7 +5,7 @@ type: "مفكر"
 level: "متقدم"
 title: "رودولف بولتمان"
 en: "Rudolf Bultmann"
-crumb: "المدرسة الوجودية ← الناس ← رودولف بولتمان"
+crumb: "اللاهوت الوجودي ← الناس ← رودولف بولتمان"
 dates: "ألمانيا · 1884–1976"
 active_start: 1941
 active_end: 1960
@@ -13,7 +13,7 @@ country: "ألمانيا"
 language: "الألمانية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism-religious", target_type: "مدرسة"
 related:
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "wrk-being-time", title: "الوجود والزمان", type: "عمل / كتاب"
@@ -24,6 +24,8 @@ related:
 - id: "thk-barth", title: "كارل بارث", type: "مفكر"
 - id: "con-demythologization", title: "نزع الأسطورة", type: "مفهوم"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-existentialism-religious` بحسب المجال المُصحَّح في مسار التنقّل («اللاهوت الوجودي»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
+  - "**صُحِّح مسار التنقّل 2026-09-08:** كان الجزء الأول «المدرسة الوجودية» ختماً قالبياً؛ واستُبدل بـ«اللاهوت الوجودي». المصدر: نقضٌ يدويّ — بولتمان صاحبُ نزع الأسطورة في اللاهوت. ولم يُشتقَّ من `belongs_to` لأنّ الحقلَ في هذا الحشد مختومٌ آلياً على «الوجودية العلاجية» حتى لمدخلاتٍ فلسفيةٍ تسبق الوجودية بقرون."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
   - "مشروعه في 'نزع الأسطورة' (Demythologization) وقراءة النصوص بأنطولوجيا هايدجر يستحق توثيقاً."
 ---

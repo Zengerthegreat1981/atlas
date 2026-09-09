@@ -5,21 +5,24 @@ type: "مفكر"
 level: "متقدم"
 title: "آرون غورفيتش"
 en: "Aron Gurwitsch"
-crumb: "المدرسة الوجودية ← الناس ← آرون غورفيتش"
+crumb: "الظاهراتية ← الناس ← آرون غورفيتش"
 dates: "ليتوانيا / أمريكا · 1901–1973"
 active_start: 1957
 active_end: 1973
 country: "ليتوانيا / أمريكا"
 language: "الفرنسية / الألمانية / الإنجليزية"
-part: "psychology"
+part: "philosophy"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
 related:
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
 - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 - id: "thk-schutz", title: "ألفريد شوتز", type: "مفكر"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «psychology» وصار «philosophy» اتّساقاً مع أشقّائه تحت `sch-phenomenology` (وأغلبيتُهم «philosophy» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-phenomenology` بحسب المجال المُصحَّح في مسار التنقّل («الظاهراتية»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
+  - "**صُحِّح مسار التنقّل 2026-09-08:** كان الجزء الأول «المدرسة الوجودية» ختماً قالبياً، واستُبدل بـ«الظاهراتية» — غورفيتش ظاهراتيٌّ من حلقة هوسرل."
   - "لا يوجد اقتباس مباشر موثوق من *The Field of Consciousness* (1957) بترجمة عربية معتمدة."
   - "كتابه 'مجال الوعي' (The Field of Consciousness, 1957) والدمج بين الفينومينولوجيا ونظرية الجشطالت يستحقان إدراجاً."
 ---

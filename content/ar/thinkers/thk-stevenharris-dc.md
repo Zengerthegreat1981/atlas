@@ -6,7 +6,7 @@ level: "متوسط"
 title: "ستيفن هاريس"
 en: "Steven M. Harris"
 crumb: "Discernment Counseling (الاستشارة التمييزية) ← تطوير ← ستيفن هاريس"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2010

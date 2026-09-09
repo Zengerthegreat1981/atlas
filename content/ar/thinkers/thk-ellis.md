@@ -14,7 +14,7 @@ active_start: 1955
 active_end: 2007
 edges:
 - rel: "belongs_to", target: "sch-rebt", target_type: "مدرسة"
-- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 - rel: "influenced_by", target: "sch-stoicism", target_type: "مدرسة"
 related:
 - id: "rel-psychoanalysis-cbt", title: "التحليل النفسي والعلاج المعرفي-السلوكي: من الردّ إلى الهجين", type: "علاقة بين مدرستين"
@@ -29,6 +29,7 @@ related:
 - id: "tec-cbt-cognitive-restructuring", title: "إعادة الهيكلة المعرفية (Cognitive Restructuring) في CBT", type: "تقنية/تدخل علاجي"
 - id: "evt-cbt-founding-1950s-60s", title: "تأسيس العلاج المعرفي السلوكي (CBT) في الخمسينيات والستينيات", type: "حدث تاريخي"
 gaps:
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-cbt` — وهو **ملفُّ إحالةٍ** لا مدرسة (صار إحالةً في دفعة دمجٍ سابقة ولم تُنقَل الأنسابُ الواردةُ إليه)، فنُقل إلى البديل المعتمد `sch-cognitive-behavioral`."
   - "لا اقتباس منسوب بعنوان وسنة وصفحة: العبارة الشائعة عنه في الأدبيات الإنجليزية («The best years of your life…») تدور بلا إسناد إلى عمل محدَّد، فحُذفت من المتن في هذه المراجعة."
   - "«The Philosophy of REBT» (2013) حُذف من قائمة الأعمال: لم يتأكّد وجود كتاب بهذا العنوان وهذه السنة، والعنوان لم يُستبدل بآخر."
   - "اسم مُحلِّله في الأربعينيات وسنوات التحليل غير موثَّقين؛ الرواية المتداولة تنسب التحليل إلى معالج من مدرسة كارِن هورني بلا تاريخ محدَّد."

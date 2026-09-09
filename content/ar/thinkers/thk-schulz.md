@@ -5,13 +5,13 @@ type: "مفكر"
 level: "متقدم"
 title: "بيتر شولتز"
 en: "Peter Schulz"
-crumb: "المدرسة الوجودية ← الناس ← بيتر شولتز"
+crumb: "العلاج النفسي الوجودي ← الناس ← بيتر شولتز"
 dates: "النمسا · معاصر"
 country: "النمسا"
 language: "الألمانية"
 active_start: null
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
@@ -22,7 +22,6 @@ related:
 - id: "thk-may", title: "رولو ماي", type: "مفكر"
 - id: "con-fundamental-existential-motivations", title: "الدوافع الوجودية الأربعة الأساسية", type: "مفهوم"
 - id: "con-meaning", title: "المعنى", type: "مفهوم"
-- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 ---
 
 # حُجر

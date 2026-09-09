@@ -11,13 +11,14 @@ country: "الدنمارك"
 language: "إنجليزية"
 active_start: 2010
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-polyvagal-informed-therapy", target_type: "مدرسة"
 related:
 - id: "thk-rscaer", title: "روبرت سكاير", type: "مفكر"
 - id: "thk-stephen-porges", title: "ستيفن بورجِس", type: "مفكر"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `sch-polyvagal-informed-therapy` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "لا مصدر أولي متاح يحدد سنة ميلاده بدقة."
   - "لا اقتباس مباشر منسوب له بمصدر ورقم صفحة تم التحقق منه."
 ---

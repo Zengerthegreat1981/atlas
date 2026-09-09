@@ -13,10 +13,9 @@ active_end: "مستمر"
 part: "psychology"
 edges:
 related:
-- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 - id: "con-affirmative-therapy", title: "العلاج التأكيدي (Affirmative Therapy)", type: "مفهوم"
-- id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
 gaps:
+  - "**حُذف رابطٌ مُقحَم 2026-09-08:** كان `related` يحمل `con-authenticity` («الأصالة») حشواً من دفعةٍ قالبية، ولا يُذكَر المفهومُ في متن هذا الملف ولا صلةَ له بموضوعه."
   - "حذف APA من الـhomosexuality كـdisorder (1973) يستحق توثيقاً."
   - "العلاقة بين 'Gay-Affirmative' و'LGBTQ+ Affirmative' يستحق توضيحاً."
 ---

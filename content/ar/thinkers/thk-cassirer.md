@@ -21,7 +21,9 @@ related:
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
 - id: "wrk-essay-on-man-cassirer", title: "مقال عن الإنسان (An Essay on Man) - كاسيرر", type: "عمل / كتاب"
 - id: "wrk-symbolic-forms-cassirer", title: "فلسفة الأشكال الرمزية (Philosophie der symbolischen Formen) - كاسيرر", type: "عمل / كتاب"
+- id: "evt-davos-conference-cassirer-heidegger-1929", title: "انعقاد مؤتمر دافوس الفلسفي بسويسرا (1929 م)", type: "حدث تاريخي"
 gaps:
+  - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
 - "الروابط المُحتفظ بها من نسخة سابقة بلا تبرير في المتن (thk-wundt، thk-marx، thk-bachelard، thk-calkins، thk-fc-schiller، thk-munsterberg، thk-titchener، con-world-hypotheses-pepper) أُزيلت؛ لم يُعثر على واقعة موثقة تربط كاسيرر بأي منهم مباشرة."
 - "لا توجد مدرسة `sch-philosophy-symbolic-forms` في الأطلس، فيبقى `belongs_to` على `sch-neokantian` وحده — وهو يصف منشأه الماربورغي لا نسقه الخاص."
 - "الترجمة العربية: لم يُتحقق من وجود ترجمة عربية معتمدة لـ*Philosophie der symbolischen Formen* أو *An Essay on Man*، فلا عنوان عربي ولا دار نشر ولا سنة متاحة للاستشهاد."

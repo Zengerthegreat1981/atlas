@@ -6,11 +6,11 @@ level: "متوسط"
 title: "جاكلين پيرت"
 en: "Jacqueline Peart"
 crumb: "العدالة التصالحية (العدالة التصالحية) ← تطوير ← جاكلين پيرت"
-dates: "[DRAFT-UNKNOWN]"
-country: "[DRAFT-UNKNOWN]"
+dates: "[غير مؤكد]"
+country: "[غير مؤكد]"
 language: "الإنجليزية"
-active_start: "[DRAFT-UNKNOWN]"
-active_end: "[DRAFT-UNKNOWN]"
+active_start: null
+active_end: null
 part: "philosophy"
 edges:
 - rel: "belongs_to", target: "br-restorative-justice", target_type: "تيار"

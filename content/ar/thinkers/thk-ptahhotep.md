@@ -12,7 +12,7 @@ language: "المصرية القديمة (الهيروغليفية)"
 active_start: -2450
 active_end: -2400
 active_source: "lifespan"
-crumb: "الأطلس ← thinkers ← بتاح حتب"
+crumb: "تقليد الحكمة المصرية (ماعت) ← الناس ← بتاح حتب"
 edges:
 - rel: "belongs_to", target: "sch-egyptian-maat", target_type: "مدرسة"
 related:

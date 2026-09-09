@@ -2,7 +2,7 @@
 slug: "trm-tabula-rasa-locke"
 id: "TRM-0090"
 type: "مصطلح لغوي متنازع عليه"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "الصفحة البيضاء (Tabula Rasa): العقل الفطري الخالي من الأفكار"
 en: "Translating Tabula Rasa: Blank Slate, Empiricist Epistemology, and Locke's White Paper"
@@ -15,6 +15,7 @@ edges:
 related:
 - id: "axi-tabula-rasa-rule", title: "بديهية اللوح الفارغ (Tabula Rasa Axiom)", type: "بديهية/مبدأ تأسيسي"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «psychology» وصار «philosophy» اتّساقاً مع أشقّائه تحت `sch-british-empiricism` (وأغلبيتُهم «philosophy» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "[حجر] دُمج هذا الملف إحالةً إلى axi-tabula-rasa-rule (AXM-0021) — نفس مفهوم Tabula Rasa عند لوك، نفس thk-locke، نفس sch-british-empiricism؛ الملف الآخر أعمق توثيقاً (مصادر أولية بالفصل والصفحة، نقد تشومسكي/بينكر) فأُبقي عليه كمعتمد."
 ---
 # الصفحة البيضاء (Tabula Rasa): العقل الفطري الخالي من الأفكار

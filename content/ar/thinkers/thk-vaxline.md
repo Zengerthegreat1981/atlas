@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1947
 active_end: 1988
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← فيرجينيا أَكسلاين"
+crumb: "الناس ← فيرجينيا أَكسلاين"
 edges: []
 related:
 - id: "thk-bguerney", title: "برنارد غيرني", type: "مفكر"

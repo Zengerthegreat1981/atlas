@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1957
 active_end: 2013
-part: "philosophy"
+part: "psychology"
 crumb: "العلاج الجنسي ← مؤسسة مشاركة ← فرجينيا جونسون"
 edges:
 - rel: "belongs_to", target: "br-sex-therapy", target_type: "تيار"
@@ -19,6 +19,7 @@ related:
 - id: "thk-hkaplan", title: "هيلين سنغر كابلان", type: "مفكر"
 - id: "br-sex-therapy", title: "العلاج الجنسي", type: "تيار"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `br-sex-therapy` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "مذكراتها الشخصية وعلاقتها بماسترز بعد الطلاق (1992) لم تُنشر بعد."
   - "دورها بعد إغلاق المعهد (1994) موثّقة جزئياً."
 ---

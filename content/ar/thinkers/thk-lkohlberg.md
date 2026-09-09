@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1958
 active_end: 1987
 part: "psychology"
-crumb: "الأطلس ← thinkers ← لورنس كولبرغ"
+crumb: "علم النفس النمائي (Developmental Psychology) ← الناس ← لورنس كولبرغ"
 edges:
 - rel: "belongs_to", target: "sch-developmental", target_type: "مدرسة"
 related:

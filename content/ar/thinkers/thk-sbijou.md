@@ -2,6 +2,7 @@
 slug: "thk-sbijou"
 id: "THK-1911"
 type: "مفكر"
+part: "psychology"
 level: "متقدم"
 title: "سيدني و. بيجو"
 en: "Sidney W. Bijou"

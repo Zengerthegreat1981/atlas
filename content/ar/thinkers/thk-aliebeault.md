@@ -11,7 +11,7 @@ language: "الفرنسية"
 active_start: 1860
 active_end: 1904
 part: "psychology"
-crumb: "الأطلس ← thinkers ← أمبرواز ليبو"
+crumb: "الناس ← أمبرواز ليبو"
 edges: []
 related:
 - id: "thk-fmesmer", title: "فرانتس أنطون ميسمر", type: "مفكر"

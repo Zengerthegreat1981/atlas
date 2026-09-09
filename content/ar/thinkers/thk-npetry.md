@@ -13,12 +13,13 @@ active_start: 1995
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "thk-shiggins", title: "ستيفن تي. هيغينز", type: "مفكر"
 - id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 - id: "tec-contingency-management", title: "إدارة الطوارئ", type: "تقنية/تدخل علاجي"
 gaps:
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-cbt` — وهو **ملفُّ إحالةٍ** لا مدرسة (صار إحالةً في دفعة دمجٍ سابقة ولم تُنقَل الأنسابُ الواردةُ إليه)، فنُقل إلى البديل المعتمد `sch-cognitive-behavioral`."
   - "تاريخ الميلاد الدقيق غير متاح في المصادر المتاحة."
   - "مسيرتها في جامعة Connecticut Health Center — موضع بحث."
 ---

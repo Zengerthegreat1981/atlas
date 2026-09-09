@@ -5,18 +5,20 @@ type: "مفهوم"
 level: "متقدم"
 title: "الذنب الأنطولوجي"
 en: "Ontological Guilt"
-crumb: "المدرسة الوجودية ← المفاهيم ← الذنب الأنطولوجي"
+crumb: "الفلسفة الوجودية ← المفاهيم ← الذنب الأنطولوجي"
 part: "philosophy"
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
 - id: "con-guilt", title: "الذنب", type: "مفهوم"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "wrk-being-time", title: "الوجود والزمان", type: "عمل / كتاب"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-existentialism` بحسب المجال المُصحَّح في مسار التنقّل («الفلسفة الوجودية»). ومدخلٌ فلسفيٌّ لا ينتمي إلى مدرسةِ علاجٍ نفسيٍّ إكلينيكي."
+  - "**صُحِّح مسار التنقّل 2026-09-08:** كان الجزء الأول «المدرسة الوجودية» ختماً قالبياً، واستُبدل بـ«الفلسفة الوجودية» — الذنبُ الأنطولوجي مقولةٌ وجودية."
   - "هذا مفهوم فلسفي مجرد بدرجة عالية، ويحتاج مراجعة أعمق من نص Being and Time الأصلي قبل توسيعه أكثر"
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---

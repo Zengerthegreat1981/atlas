@@ -7,7 +7,7 @@ level: "مبتدئ"
 title: "رولنز (Stephen Rollins)"
 en: "Stephen Rollins"
 crumb: "علاج بمساعدة نفسية ← مؤسِّسون ← رولنز"
-dates: "[DRAFT-UNKNOWN]"
+dates: "[غير مؤكد]"
 active_start: null
 active_end: null
 country: "الولايات المتحدة"

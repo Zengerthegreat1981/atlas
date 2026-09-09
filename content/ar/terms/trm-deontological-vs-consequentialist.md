@@ -2,7 +2,7 @@
 slug: "trm-deontological-vs-consequentialist"
 id: "TRM-0035"
 type: "مصطلح لغوي متنازع عليه"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "الأخلاق الواجبية والتبعية (Deontology vs. Consequentialism)"
 en: "Translating Deontological and Consequentialist Ethics: Duty-Based vs. Outcome-Based Morality"
@@ -15,6 +15,7 @@ related:
 - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
 - id: "thk-bentham", title: "جيريمي بنثام", type: "مفكر"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «psychology» وصار «philosophy» اتّساقاً مع أشقّائه تحت `sch-kant-critical` (وأغلبيتُهم «philosophy» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "موقف ميل التعديلي على نفعية بنثام (جودة اللذة مقابل كميتها في Utilitarianism، 1863) لم يُفصّل بعد."
   - "رابط مقترح لم يتحقق بعد في الأطلس: جون ستيوارت ميل (thk-mill)."
 ---

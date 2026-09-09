@@ -15,9 +15,9 @@ crumb: "فلسفة الفيزياء وميكانيكا الكم ← رواد ←
 edges:
 - rel: "belongs_to", target: "sch-phil-science", target_type: "مدرسة"
 related:
-- id: "thk-richard-dawkins", type: "مفكر", title: "ريتشارد دوكينز"
-- id: "thk-albert-einstein", type: "مفكر", title: "ألبرت أينشتاين"
-- id: "met-feynman-chess-gods", type: "استعارة", title: "شطرنج الآلهة"
+- id: "thk-richard-dawkins", title: "ريتشارد دوكينز", type: "مفكر"
+- id: "thk-albert-einstein", title: "ألبرت أينشتاين", type: "مفكر"
+- id: "met-feynman-chess-gods", title: "شطرنج الآلهة", type: "استعارة"
 gaps:
   - "جودة الترجمة العربية المتاحة لـ'Surely You're Joking, Mr. Feynman!' لم تُراجع نقدياً."
   - "تفاصيل محاضرات 'The Character of Physical Law' (1965، Mees Lectures في Rochester) كما بُثّت على BBC/CBS لم تُراجع من مصدر أرشيفي أولي."

@@ -19,9 +19,9 @@ related:
 - id: "thk-anaximenes", title: "أنكسمانس الميليسي", type: "مفكر"
 - id: "thk-pythagoras", title: "فيثاغورس", type: "مفكر"
 - id: "thk-heraclitus", title: "هيراقليطس", type: "مفكر"
-- id: "thk-anaxagoras", type: "مفكر", title: "أناكساغوراس"
-- id: "sch-milesian", type: "مدرسة", title: "المدرسة الميليسية"
-- id: "con-arche-principle", type: "مفهوم", title: "الأرخيه (الأصل الأول)"
+- id: "thk-anaxagoras", title: "أناكساغوراس", type: "مفكر"
+- id: "sch-milesian", title: "المدرسة الميليسية", type: "مدرسة"
+- id: "con-arche-principle", title: "الأرخيه (الأصل الأول)", type: "مفهوم"
 gaps:
   - "تفاصيل تنبؤه بكسوف الشمس (28 مايو 585 ق.م) موثّقة في هيرودوتس."
   - "نص 'حول الانقلاب الصيفي' و'حول الاعتدال الربيعي' فُقدت."

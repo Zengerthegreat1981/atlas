@@ -12,10 +12,11 @@ crumb: "فلسفة الصدمة والوجودية النقدية ← مفكرو
 active_start: 1966
 active_end: 1978
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "exp-jean-amery-torture-gestapo", title: "تجربة جان أميري مع تعذيب الجستابو وفقدان الثقة في العالم", type: "خبرة معيشة"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-existentialism` بحسب المجال المُصحَّح في مسار التنقّل («فلسفة الصدمة والوجودية النقدية»). ومدخلٌ فلسفيٌّ لا ينتمي إلى مدرسةِ علاجٍ نفسيٍّ إكلينيكي."
   - "لا يوجد اقتباس مباشر موثوق من *Jenseits von Schuld und Sühne* (At the Mind's Limits) بترجمة عربية معتمدة."
   - "تفاصيل محاولة انتحاره الأولى (بروكسل، 1974) منقولة عن مصادر ثانوية لا عن وثيقة أولية."
 ---

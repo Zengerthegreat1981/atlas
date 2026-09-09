@@ -6,7 +6,7 @@ level: "متوسط"
 title: "ألكسندرا فاركاش"
 en: "Alexandra Farkas"
 crumb: "العلاج الحسي-الحركي (Sensorimotor Psychotherapy) ← تطوير ← ألكسندرا فاركاش"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2015

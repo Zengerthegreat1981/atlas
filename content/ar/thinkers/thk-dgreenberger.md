@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1985
 active_end: "مستمر"
 part: "psychology"
-crumb: "الأطلس ← thinkers ← دِنيس غرينبرغر"
+crumb: "العلاج المعرفي السلوكي (CBT) ← الناس ← دِنيس غرينبرغر"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:

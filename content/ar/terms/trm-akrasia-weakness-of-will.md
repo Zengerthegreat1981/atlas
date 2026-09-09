@@ -2,7 +2,7 @@
 slug: "trm-akrasia-weakness-of-will"
 id: "TRM-0025"
 type: "مصطلح لغوي متنازع عليه"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "الأكراسيا أو ضعف الإرادة (Akrasia): التصرف بعكس ما يمليه العقل"
 en: "Translating Akrasia: Weakness of Will, Incontinence, and Moral Self-Betrayal"
@@ -16,6 +16,7 @@ related:
 - id: "thk-aristotle", title: "أرسطو", type: "مفكر"
 - id: "thk-socrates", title: "سقراط", type: "مفكر"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «psychology» وصار «philosophy» اتّساقاً مع أشقّائه تحت `sch-aristotelianism` (وأغلبيتُهم «philosophy» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "موقف سقراط من الأكراسيا (إنكار إمكانها، واعتبارها جهلاً) موثّق من محاورة أفلاطون بروتاغوراس، لا من نص لسقراط نفسه — لا كتابات سقراطية مباشرة وصلتنا."
   - "تفسير أرسطو الدقيق للقياس العملي (النص اليوناني وحل الإشكال) يحتاج فقرة موسّعة من الكتاب السابع من الأخلاق النيقوماخية بدل الملخص الحالي."
 ---

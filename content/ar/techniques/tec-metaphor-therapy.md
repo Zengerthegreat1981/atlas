@@ -13,12 +13,11 @@ language: "الإنجليزية"
 part: "psychology"
 evidence_level: "traditional"
 edges:
-- rel: "belongs_to", target: "sch-ericksonian-hypnosis", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-ericksonian-hypnotherapy", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-merickson", target_type: "مفكر"
 related:
-- id: "sch-ericksonian-hypnosis", title: "التنويم الإريكسوني", type: "مدرسة"
-- id: "thk-merickson", title: "ميلتون إريكسون", type: "مفكر"
 - id: "tec-ericksonian-hypnotherapy", title: "التنويم الإيحائي الإريكسوني", type: "تقنية/تدخل علاجي"
+- id: "thk-merickson", title: "ميلتون إريكسون", type: "مفكر"
 - id: "tec-narrative-therapy", title: "العلاج السردي", type: "تقنية/تدخل علاجي"
 gaps:
   - "الأشكال المختلفة للاستعارة (التعويضية، الإيقاعية، التوضيحية، الإحيائية) في كتابات إريكسون لم تُصنّف بشكل محكّم."

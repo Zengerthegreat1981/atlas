@@ -8,14 +8,14 @@ en: "Stephen Burgess"
 dates: "أستراليا"
 country: "أستراليا"
 language: "الإنجليزية"
-active_start: "[DRAFT-UNKNOWN]"
+active_start: null
 active_end: "مستمر"
 part: "philosophy"
 crumb: "طريقة فيلدنكرايس ← تطوير ← ستيفن بورغس"
 edges:
-- rel: "belongs_to", target: "tec-feldenkrais-method", type: "تيار"
+- rel: "belongs_to", target: "tec-feldenkrais-method", target_type: "تيار"
 related:
-- id: "thk-mfeldenkrais", type: "مفكر", title: "موشيه فيلدنكرايس"
+- id: "thk-mfeldenkrais", title: "موشيه فيلدنكرايس", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "لا توجد سيرة ذاتية منشورة لـ 'Stephen Burgess' في IFF (International Feldenkrais Federation) حتى آب 2026."

@@ -16,7 +16,6 @@ edges:
 related:
 - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
 - id: "thk-biko", title: "ستيف بيكو", type: "مفكر"
-- id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
 gaps:
   - "تاريخ Ignacio Martín-Baró في UCA (El Salvador) يستحق توثيقاً."
   - "علاقته بعلم النفس الفوكوي اللاتيني تستحق تفصيلاً."

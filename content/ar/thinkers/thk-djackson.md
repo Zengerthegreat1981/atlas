@@ -13,7 +13,7 @@ active_start: 1956
 active_end: 1968
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-strategic-family", target_type: "مدرسة"
+- rel: "belongs_to", target: "العلاج الأسري الاستراتيجي", target_type: "مدرسة"
 related:
 - id: "con-double-bind", title: "الرباط المزدوج (Double Bind)", type: "مفهوم"
 - id: "thk-pwatzlawick", title: "بول واتزلاويك", type: "مفكر"

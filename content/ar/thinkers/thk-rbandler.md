@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1972
 active_end: "مستمر"
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← ريتشارد بَندلر"
+crumb: "البرمجة اللغوية العصبية (NLP) ← الناس ← ريتشارد بَندلر"
 edges:
 - rel: "belongs_to", target: "br-nlp-systemic", target_type: "تيار"
 related:

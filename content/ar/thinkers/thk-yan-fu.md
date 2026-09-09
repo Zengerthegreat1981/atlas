@@ -12,7 +12,7 @@ language: "الصينية (الكلاسيكية)"
 active_start: 1879
 active_end: 1921
 active_source: "lifespan"
-crumb: "الأطلس ← thinkers ← يان فو (مُحدِّث الصين ومُترجم الفلسفة الغربية)"
+crumb: "الليبرالية الصينية الحديثة ← الناس ← يان فو (مُحدِّث الصين ومُترجم الفلسفة الغربية)"
 edges:
 - rel: "belongs_to", target: "sch-chinese-liberalism-modern", target_type: "مدرسة"
 related:

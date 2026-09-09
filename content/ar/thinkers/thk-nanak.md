@@ -12,7 +12,7 @@ language: "البنجابية (Gurmukhi)، الفارسية، السنسكريت
 active_start: 1500
 active_end: 1539
 active_source: "lifespan"
-crumb: "الأطلس ← thinkers ← غورو ناناك (مؤسس السيخية)"
+crumb: "السيخية الفلسفية ← الناس ← غورو ناناك (مؤسس السيخية)"
 edges:
 - rel: "belongs_to", target: "sch-sikh-philosophy", target_type: "مدرسة"
 related:

@@ -10,12 +10,14 @@ crumb: "المفاهيم الفلسفية الكبرى ← إبستمولوجي�
 active_start: 1980
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "br-logical-positivism-vienna-circle", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-epistemology", target_type: "مدرسة"
 related:
 - id: "con-reliabilism-epistemology", title: "الموثوقية في نظرية المعرفة (Reliabilism)", type: "مفهوم"
 - id: "con-gettier-problem", title: "معضلة جيتيير في تعريف المعرفة (Gettier Problem)", type: "مفهوم"
 - id: "con-virtue-ethics", title: "أخلاق الفضيلة وتحقيق السعادة الإنسانية (Virtue Ethics / Eudaimonia)", type: "مفهوم"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى حلقة فيينا — ختماً قالبياً حُمِل آلياً عند دمج ملفٍّ مزدوج. ومباحثُ نظرية المعرفة المعاصرة (مشكلةُ غيتييه 1963 وما بعدها) لاحقةٌ للوضعية المنطقية وناقدةٌ لها، فنُقل الانتماءُ إلى `sch-epistemology`."
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `br-logical-positivism-vienna-circle`، وقد صار ذلك الملفُّ **إحالةً** إلى `sch-vienna-circle` بعد دمج ملفَّين مزدوجَين، فنُقل الانتماءُ إلى المعتمد."
   - "لا يوجد في الأطلس ملف مفكر مستقل لإرنست سوسا (Ernest Sosa) أو ليندا زاغزيبسكي (Linda Zagzebski)، وهما المؤسسان الرئيسيان للتيار، فلم يُربط أي منهما بالاسم."
   - "لم يُوثَّق بعد اقتباس مباشر من نصوص سوسا أو زاغزيبسكي لإدراجه في هذا الملف."
   - "رابط belongs_to الحالي (br-logical-positivism-vienna-circle) لا يمثل الانتماء المدرسي الفعلي للتيار (إبستمولوجيا تحليلية معاصرة، لا وضعية منطقية فيينية)؛ لا توجد في الأطلس مدرسة 'إبستمولوجيا الفضيلة' أو 'إبستمولوجيا تحليلية معاصرة' مخصصة لإعادة الربط الصحيح."

@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1970
 active_end: 2021
-part: "philosophy"
+part: "psychology"
 crumb: "العلاج الأسري الاستراتيجي MRI/Palo Alto ← علاج أسري نسوي ← بيغي باب"
 edges:
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
@@ -18,6 +18,7 @@ related:
 - id: "thk-osilver", title: "أولغا سيلفرشتاين", type: "مفكر"
 - id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `sch-systemic-family` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "حُذفت روابط related كانت تشاور على ملفات غير موجودة (thk-bcarter، thk-mwalter، thk-ackerman)."
   - "مذكراتها المهنية في Ackerman Institute لم تُنشر بعد."
 ---

@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1973
 active_end: "مستمر"
 part: "psychology"
-crumb: "الأطلس ← thinkers ← إيلينور روش"
+crumb: "مقاربات الإدراك المتجسد ← الناس ← إيلينور روش"
 edges:
 - rel: "belongs_to", target: "br-embodied-cognition-therapy", target_type: "تيار"
 related:

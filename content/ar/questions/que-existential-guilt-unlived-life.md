@@ -2,7 +2,7 @@
 slug: "que-existential-guilt-unlived-life"
 id: "QUE-0043"
 type: "سؤال توليدي"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "ما هو الذنب الوجودي وكيف ينشأ من خيانة الفرد لإمكاناته الحقيقية؟"
 en: "Existential Guilt and the Unlived Life: Heidegger, Rank, and Yalom"
@@ -17,6 +17,7 @@ related:
 - id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
 - id: "wrk-being-time", title: "الوجود والزمان", type: "عمل / كتاب"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `sch-existential-therapy` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "لم تُراجَع فصول *Existential Psychotherapy* (يالوم، 1980) و*Will Therapy* (رانك، 1936) من نسخة أولية مباشرة؛ الاعتماد هنا على صياغاتها المركزية الموثّقة في أدبيات العلاج الوجودي."
 ---
 

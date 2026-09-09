@@ -10,7 +10,7 @@ crumb: "علم النفس الديني ← الخبرات المعيشية ← �
 active_start: 1902
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "sch-psychology-of-religion", target_type: "مدرسة"
+- rel: "relates_to", target: "علم نفس الدين", target_type: "مدرسة"
 related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 - id: "exp-mystical-experience-james", title: "التجربة الصوفية عند وليم جيمس: خصائصها الأربع", type: "خبرة معيشة"

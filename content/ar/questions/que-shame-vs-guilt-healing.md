@@ -2,7 +2,7 @@
 slug: "que-shame-vs-guilt-healing"
 id: "QUE-0092"
 type: "سؤال توليدي"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "ما الفارق بين شعور الذنب («فعلت شيئاً سيئاً») وشعور العار («أنا كلي سيئ»)؟"
 en: "Shame vs. Guilt: Self-Condemnation vs. Behavioral Accountability (Brené Brown)"
@@ -16,6 +16,7 @@ related:
 - id: "thk-pgilbert", title: "بول جيلبرت", type: "مفكر"
 - id: "thk-brene-brown", title: "برينيه براون", type: "مفكر"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `sch-cft` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "لا يوجد ملف مستقل لجون تانجني أو لكتابها المرجعي (Shame and Guilt, 2002) في الأطلس، فبقيت مذكورة في المتن بلا رابط related."
   - "لا يوجد ملف لهيلين بلوك لويس أو لكتابها (Shame and Guilt in Neurosis, 1971) رغم كونه الأصل التحليلي للتفرقة، فبقيت مذكورة في المتن فقط."
 ---

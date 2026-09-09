@@ -10,12 +10,14 @@ crumb: "المفاهيم الفلسفية الكبرى ← التداخل الب
 active_start: 2000
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "br-logical-positivism-vienna-circle", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-epistemology", target_type: "مدرسة"
 related:
 - id: "con-contextualism-epistemic", title: "السياقية الإبستمولوجية (Epistemic Contextualism)", type: "مفهوم"
 - id: "con-reliabilism-epistemology", title: "الموثوقية في نظرية المعرفة (Reliabilism)", type: "مفهوم"
 - id: "dbt-internalism-vs-externalism-epistemic", title: "جدل الداخلية مقابل الخارجية في نظرية المعرفة", type: "جدل"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى حلقة فيينا — ختماً قالبياً حُمِل آلياً عند دمج ملفٍّ مزدوج. ومباحثُ نظرية المعرفة المعاصرة (مشكلةُ غيتييه 1963 وما بعدها) لاحقةٌ للوضعية المنطقية وناقدةٌ لها، فنُقل الانتماءُ إلى `sch-epistemology`."
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `br-logical-positivism-vienna-circle`، وقد صار ذلك الملفُّ **إحالةً** إلى `sch-vienna-circle` بعد دمج ملفَّين مزدوجَين، فنُقل الانتماءُ إلى المعتمد."
   - "التحليل الإبستمولوجي واللغوي الدقيق لتطور المفهوم عبر التاريخ."
 ---
 

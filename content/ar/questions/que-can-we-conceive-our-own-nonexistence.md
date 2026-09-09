@@ -10,11 +10,12 @@ crumb: "الفلسفة الوجودية وسيكولوجيا الأعماق ← 
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-existentialism` بحسب المجال المُصحَّح في مسار التنقّل («الفلسفة الوجودية وسيكولوجيا الأعماق»). ومدخلٌ فلسفيٌّ لا ينتمي إلى مدرسةِ علاجٍ نفسيٍّ إكلينيكي."
   - "ملف مستقل لإرنست بيكر (Ernest Becker) وأبيقور غير موجودين بعد في الأطلس، فالإحالة إليهما هنا نصية بالاسم والسنة فقط، من غير رابط related."
   - "نص فرويد الدقيق («Zeitgemässes über Krieg und Tod»، 1915) لم يُراجَع من الأصل الألماني، والصياغة العربية هنا مأخوذة من ترجمات ثانوية متداولة."
 ---

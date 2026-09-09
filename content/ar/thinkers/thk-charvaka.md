@@ -12,7 +12,7 @@ language: "السنسكريتية"
 active_start: -600
 active_end: -100
 active_source: "lifespan"
-crumb: "الأطلس ← thinkers ← تشارڤاكا (مؤسس لوكاياتا / المادية الهندية)"
+crumb: "شارفاكا / لوكاياتا (المادية الهندية) ← الناس ← تشارڤاكا (مؤسس لوكاياتا / المادية الهندية)"
 edges:
 - rel: "belongs_to", target: "sch-charvaka", target_type: "مدرسة"
 related:

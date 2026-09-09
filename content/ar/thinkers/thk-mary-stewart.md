@@ -16,11 +16,11 @@ edges:
 - rel: "belongs_to", target: "br-transactional-analysis", target_type: "تيار"
 related:
 - id: "thk-eburne", title: "إريك بيرن", type: "مفكر"
-- id: "thk-tstonge", type: "مفكر", title: "توماس هاريس (TA)"
-- id: "thk-twhite", type: "مفكر", title: "توني وايت"
-- id: "thk-ckertész", type: "مفكر", title: "كورنيليا كيرتيز"
-- id: "br-transactional-analysis", type: "تيار", title: "تحليل المعاملات (TA)"
+- id: "thk-thomas-harris", title: "توماس أ. هاريس", type: "مفكر"
+- id: "thk-tony-white", title: "توني وايت", type: "مفكر"
+- id: "br-transactional-analysis", title: "تحليل المعاملات (TA)", type: "تيار"
 gaps:
+  - "إحالة معلَّقة أُزيلت: «كورنيليا كيرتيز» (thk-ckertész) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
   - "سنة الميلاد غير منشورة."
   - "لا توجد سيرة ذاتية منشورة لـ 'Mary Stewart' في ITA (International Transactional Analysis Association) حتى آب 2026."
   - "الاحتمال: خلط مع 'Mary Stewart' (كاتبة رومانسية، 1916–2014) أو 'Mary Stewart-Merriman' (صحفية)."

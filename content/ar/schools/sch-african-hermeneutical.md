@@ -20,7 +20,9 @@ related:
 - id: "sch-ethnophilosophy", title: "الإثنوفلسفة", type: "مدرسة"
 - id: "sch-hermeneutics", title: "الهرمنيوطيقا الفلسفية (Philosophische Hermeneutik)", type: "مدرسة"
 - id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية (Philosophical Postmodernism)", type: "مدرسة"
+- id: "thk-okot-pbitek", title: "أوكوت بِتِك", type: "مفكر"
 gaps:
+  - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "نصوص Tsenay Serequeberhan (The Hermeneutics of African Philosophy, 1996) وP. Londoño تحتاج مراجعة من المصدر الأولي."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---

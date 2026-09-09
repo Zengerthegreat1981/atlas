@@ -13,12 +13,13 @@ active_end: 1987
 part: "philosophy"
 crumb: "أخلاقيات الشهادة والفلسفة الوجودية ← مفكرون ← بريمو ليفي"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
 - id: "exp-primo-levi-auschwitz-survival", title: "بريمو ليفي في أوشفيتز", type: "خبرة معيشة"
 - id: "thk-arendt", title: "حنة آرندت", type: "مفكر"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-existentialism` بحسب المجال المُصحَّح في مسار التنقّل («أخلاقيات الشهادة والفلسفة الوجودية»). ومدخلٌ فلسفيٌّ لا ينتمي إلى مدرسةِ علاجٍ نفسيٍّ إكلينيكي."
   - "حُذفت روابط related كانت تشاور على ملفات غير موجودة (thk-ewiesel، thk-jlacan، thk-primo-levi-book-if-this-is-a-man)."
   - "تفاصيل وفاته (انتحار أم حادث؟) لا تزال موضع خلاف بين دارسيه."
 ---

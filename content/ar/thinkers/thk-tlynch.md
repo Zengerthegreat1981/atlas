@@ -13,7 +13,7 @@ active_start: 2006
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "tec-ro-dbt", title: "العلاج الجدلي السلوكي الموجه للضبط المفرط (RO-DBT)", type: "تقنية/تدخل علاجي"
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
@@ -22,6 +22,7 @@ related:
 - id: "con-overcontrol", title: "الضبط المفرط (Overcontrol)", type: "مفهوم"
 - id: "evt-dbt-founding-1990s", title: "تأسيس العلاج الجدلي السلوكي (DBT) في التسعينيات", type: "حدث تاريخي"
 gaps:
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-cbt` — وهو **ملفُّ إحالةٍ** لا مدرسة (صار إحالةً في دفعة دمجٍ سابقة ولم تُنقَل الأنسابُ الواردةُ إليه)، فنُقل إلى البديل المعتمد `sch-cognitive-behavioral`."
   - "سنة الميلاد الدقيقة وانتماء لينش لجامعة ديوك لم يُراجعا من مصدر أولي بعد."
 ---
 # توماس لينش

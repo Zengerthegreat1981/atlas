@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 2000
 active_end: "مستمر"
 part: "psychology"
-crumb: "الأطلس ← thinkers ← تيموثي بيكمور"
+crumb: "العلاج بمساعدة الذكاء الاصطناعي / العلاج بالدردشة الآلية ← الناس ← تيموثي بيكمور"
 edges:
 - rel: "belongs_to", target: "br-ai-chatbot-therapy", target_type: "تيار"
 related:

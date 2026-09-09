@@ -2,7 +2,7 @@
 slug: "trm-veil-of-ignorance-rawls"
 id: "TRM-0096"
 type: "مصطلح لغوي متنازع عليه"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "حجاب الجهل (Veil of Ignorance): التجرد من المصالح لتحقيق العدالة"
 en: "Translating Veil of Ignorance: Original Position, Impartial Justice, and Fairness in Rawls"
@@ -16,6 +16,7 @@ related:
 - id: "thk-rawls", title: "جون رولز", type: "مفكر"
 - id: "met-rawls-original-position", title: "الموقف الأصلي لجون رولز: استعارة التفاوض العادل خلف حجاب الجهل", type: "استعارة/مجاز مؤسِّس"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «psychology» وصار «philosophy» اتّساقاً مع أشقّائه تحت `sch-contractualism` (وأغلبيتُهم «philosophy» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "لا يوجد نص عربي رسمي معتمد لترجمة *A Theory of Justice* (1971) متاح للتحقق من صياغة الفقرات المقتبسة هنا؛ الصياغة اعتماداً على النص الإنجليزي الأصلي."
 ---
 # حجاب الجهل (Veil of Ignorance): التجرد من المصالح لتحقيق العدالة

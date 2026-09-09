@@ -5,7 +5,7 @@ type: "مفكر"
 level: "متقدم"
 title: "ستيف بيكو"
 en: "Steve Biko"
-crumb: "المدرسة الوجودية ← الناس ← ستيف بيكو"
+crumb: "الوجودية السوداء ← الناس ← ستيف بيكو"
 dates: "جنوب أفريقيا · 1946–1977"
 active_start: 1946
 active_end: 1977
@@ -14,7 +14,7 @@ country: "جنوب أفريقيا"
 language: "الإنجليزية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-black-existentialism", target_type: "مدرسة"
 related:
 - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
 - id: "con-freedom", title: "الحرية", type: "مفهوم"
@@ -23,6 +23,8 @@ related:
 - id: "thk-cesaire", title: "إيمي سيزير", type: "مفكر"
 - id: "br-critical-liberation-therapy", title: "العلاج النقدي-التحرري", type: "تيار"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-black-existentialism` بحسب المجال المُصحَّح في مسار التنقّل («الوجودية السوداء»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
+  - "**صُحِّح مسار التنقّل 2026-09-08:** كان الجزء الأول «المدرسة الوجودية» ختماً قالبياً؛ واستُبدل بـ«الوجودية السوداء». المصدر: نقضٌ يدويّ — بيكو من الوعي الأسود، وللأطلس ملفُّ `sch-black-existentialism`. ولم يُشتقَّ من `belongs_to` لأنّ الحقلَ في هذا الحشد مختومٌ آلياً على «الوجودية العلاجية» حتى لمدخلاتٍ فلسفيةٍ تسبق الوجودية بقرون."
   - "مفهوم 'الوعي الأسود' (Black Consciousness) كتحرر نفسي ووجودي من الاستعمار الداخلي يستحق إدراجاً."
 ---
 

@@ -12,7 +12,7 @@ language: "الهندوستانية الوسطى (البراكريت، Ardhamaga
 active_start: -580
 active_end: -527
 active_source: "lifespan"
-crumb: "الأطلس ← thinkers ← ماهاڤيرا (مؤسس الجاينية)"
+crumb: "الجاينية الفلسفية ← الناس ← ماهاڤيرا (مؤسس الجاينية)"
 edges:
 - rel: "belongs_to", target: "sch-jainism", target_type: "مدرسة"
 related:

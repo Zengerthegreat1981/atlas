@@ -10,12 +10,13 @@ crumb: "الميتافيزيقا النيتشوية وفلسفة الحياة �
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-existentialism-atheist", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-nietzscheanism", target_type: "مدرسة"
 related:
 - id: "con-will-to-power", title: "إرادة القوة (Wille zur Macht)", type: "مفهوم"
 - id: "axi-will-to-power-axiom", title: "إرادة القوة كجوهر للصيرورة (Will to Power)", type: "بديهية/مبدأ تأسيسي"
 - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existentialism-atheist` ختماً قالبياً، ونُقل إلى `sch-nietzscheanism` بحسب المجال المُصحَّح في مسار التنقّل («الميتافيزيقا النيتشوية وفلسفة الحياة»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
   - "هذا الملف كان يغطي مفهوم إرادة القوة (تعريفه، التشويه الفاشي له، مقارنته بإرادة البقاء الدارونية والشوبنهاورية) بمحتوى أقل عمقاً من ملفين آخرين موجودين بالفعل تحت نفس الموضوع: con-will-to-power (تعريف موسّع، الفرق عن داروين/شوبنهاور، الأخلاق، الإرث المعاصر، مصادر) وaxi-will-to-power-axiom (المبدأ الميتافيزيقي، نزاع أصالة كتاب Der Wille zur Macht، قراءة هايدغر، مصادر). القرار: تحويل هذا الملف لإحالة دائمة بدل ازدواج التغطية (قاعدة 6 في MINIMAX.md)."
 ---
 

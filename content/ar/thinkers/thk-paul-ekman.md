@@ -18,6 +18,7 @@ related:
 - id: "stu-strack-facial-feedback-pen", title: "تجربة فريتز ستراك للتغذية الراجعة الوجهية وأزمة تكرارها (1988)", type: "دراسة"
 - id: "wrk-emotions-revealed", title: "المشاعر المكشوفة: إدراك الوجوه والمشاعر لتحسين التواصل", type: "عمل"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` اسماً نصّياً «علم نفس الانفعال» لا يُحلّ إلى ملفّ، وقد أُنشئت المدرسةُ `sch-emotion-psychology` فأُسند الانتماءُ إليها."
   - "حُذفت روابط related كانت تشاور على ملفات غير موجودة (thk-cdarwin، thk-ssroufe، thk-jpanksepp، thk-rplutchik، thk-cizard، thk-kfischer، thk-friesen)."
   - "التفاصيل الكاملة لـFACS 2 في 2002 غير موثّقة عربياً."
 ---

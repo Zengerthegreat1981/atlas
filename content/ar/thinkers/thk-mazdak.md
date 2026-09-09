@@ -12,7 +12,7 @@ language: "البهلوية (الفارسية الوسطى)"
 active_start: 488
 active_end: 528
 active_source: "lifespan"
-crumb: "الأطلس ← thinkers ← مزدك"
+crumb: "المزدكية ← الناس ← مزدك"
 edges:
 - rel: "belongs_to", target: "sch-mazdakism", target_type: "مدرسة"
 related:

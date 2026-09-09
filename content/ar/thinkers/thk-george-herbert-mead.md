@@ -12,7 +12,7 @@ language: "الإنجليزية"
 active_start: 1894
 active_end: 1931
 active_source: "lifespan"
-crumb: "الأطلس ← thinkers ← جورج هربرت ميد (مؤسِّس السُلوكية الاجتماعية)"
+crumb: "البراغماتية الكلاسيكية ← الناس ← جورج هربرت ميد (مؤسِّس السُلوكية الاجتماعية)"
 edges:
 - rel: "belongs_to", target: "sch-pragmatism-classical", target_type: "مدرسة"
 related:

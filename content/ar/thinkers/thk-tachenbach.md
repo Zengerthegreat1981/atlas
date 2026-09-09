@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1966
 active_end: "مستمر"
 part: "psychology"
-crumb: "الأطلس ← thinkers ← توماس أشنباخ"
+crumb: "العلاج بتفاعل الوالد-الطفل (PCIT) ← الناس ← توماس أشنباخ"
 edges:
 - rel: "belongs_to", target: "br-pcit", target_type: "تيار"
 related:

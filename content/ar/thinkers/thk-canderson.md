@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1968
 active_end: 2014
 part: "psychology"
-crumb: "الأطلس ← thinkers ← كارول أندرسون"
+crumb: "التثقيف النفسي ← الناس ← كارول أندرسون"
 edges:
 - rel: "belongs_to", target: "br-psychoeducation", target_type: "تيار"
 related:

@@ -10,7 +10,7 @@ active_start: 1980
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "con-id-psychotherapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-psychotherapy-intellectual-disability", target_type: "تيار"
 related:
 - id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "sch-behaviorism", title: "السلوكية (Behaviorism)", type: "مدرسة"
@@ -18,6 +18,7 @@ related:
 - id: "con-sensory-integration", title: "التكامل الحسي (نظرية عيرز)", type: "مفهوم"
 - id: "con-social-model-disability", title: "النموذج الاجتماعي للإعاقة (Social Model)", type: "مفهوم"
 gaps:
+  - "**صُحِّحت حلقةٌ ذاتية 2026-09-08:** كان `belongs_to` يشير إلى `con-id-psychotherapy` — أي إلى الملفّ نفسِه، وهي حلقةٌ مغلقةٌ لا معنى لها، أصلُها اختلاطُ بادئةٍ في الـslug. ونُقل إلى `br-psychotherapy-intellectual-disability`: التيّارُ المقابلُ موجودٌ في الأطلس."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
 

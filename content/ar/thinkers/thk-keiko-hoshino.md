@@ -6,7 +6,7 @@ level: "متوسط"
 title: "كيكو هوشينو"
 en: "Keiko Hoshino"
 crumb: "علاج نايكان ← تطوير ← كيكو هوشينو"
-dates: "اليابان · [DRAFT-UNKNOWN]"
+dates: "اليابان · [غير مؤكد]"
 country: "اليابان"
 language: "اليابانية"
 active_start: 1980

@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1976
 active_end: "مستمر"
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← روبرت ليفنسون"
+crumb: "الناس ← روبرت ليفنسون"
 edges: []
 related:
 - id: "thk-jgottman", title: "جون غوتمان", type: "مفكر"

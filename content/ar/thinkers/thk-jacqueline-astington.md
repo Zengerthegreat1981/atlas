@@ -6,7 +6,7 @@ level: "متوسط"
 title: "جاكلين أستنغتون"
 en: "Jacqueline A. Astington"
 crumb: "تحليل المعاملات (TA) ← تطوير ← جاكلين أستنغتون"
-dates: "كندا/الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "كندا/الولايات المتحدة · [غير مؤكد]"
 country: "كندا"
 language: "الإنجليزية"
 active_start: 2010

@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1984
 active_end: "مستمر"
 part: "psychology"
-crumb: "الأطلس ← thinkers ← بِسِل فان دير كولك"
+crumb: "التجربة الجسدية (Somatic Experiencing) ← الناس ← بِسِل فان دير كولك"
 edges:
 - rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
 related:

@@ -13,7 +13,7 @@ active_start: 1990
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "thk-pgilbert", title: "بول جيلبرت", type: "مفكر"
 - id: "met-schema-modes-theatre", title: "مسرح أنماط المخططات لجيفري يونغ: استعارة الحوار بين أجزاء الذات المتصارعة", type: "استعارة/مجاز مؤسِّس"
@@ -21,6 +21,7 @@ related:
 - id: "tec-schema-therapy", title: "علاج المخطط", type: "تقنية/تدخل علاجي"
 - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
 gaps:
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-cbt` — وهو **ملفُّ إحالةٍ** لا مدرسة (صار إحالةً في دفعة دمجٍ سابقة ولم تُنقَل الأنسابُ الواردةُ إليه)، فنُقل إلى البديل المعتمد `sch-cognitive-behavioral`."
   - "سنة الميلاد 1950 تقريبية ولم تُثبَّت من سيرة ذاتية رسمية."
   - "تواريخ محددة (بالشهر/السنة) لانتقاله من مركز بيك إلى تأسيس معهد علاج المخطط الخاص به غير متاحة لنا."
   - "لم يُعثر على نص اقتباس مباشر منسوب له بعبارته الحرفية في المصادر المتاحة لنا."

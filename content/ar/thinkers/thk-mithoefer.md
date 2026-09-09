@@ -6,7 +6,7 @@ level: "متوسط"
 title: "مايكل ميثوفر"
 en: "Michael Mithoefer"
 crumb: "العلاج بمساعدة السيكوديلك ← الناس ← MAPS-أبحاث ← مايكل ميثوفر"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2001

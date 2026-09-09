@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 2002
 active_end: "مستمر"
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← لويس كوتزولينو"
+crumb: "علم الأحياء العصبي البيني-الشخصي (IPNB) ← الناس ← لويس كوتزولينو"
 edges:
 - rel: "belongs_to", target: "br-interpersonal-neurobiology", target_type: "تيار"
 related:

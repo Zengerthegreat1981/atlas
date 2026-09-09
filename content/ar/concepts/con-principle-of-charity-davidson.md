@@ -10,13 +10,15 @@ crumb: "المفاهيم الفلسفية الكبرى ← مبدأ الإحسا
 active_start: 1973
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "br-logical-positivism-vienna-circle", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-epistemology", target_type: "مدرسة"
 related:
 - id: "thk-donald-davidson", title: "دونالد ديفيدسون", type: "مفكر"
 - id: "thk-wquine", title: "ويلارد فان أورمان كواين", type: "مفكر"
 - id: "con-anomalous-monism-davidson", title: "الأحادية الشاذة لديفيدسون (Anomalous Monism)", type: "مفهوم"
 - id: "sch-formal-phil-language", title: "فلسفة اللغة المثالية/الشكلية المعاصرة", type: "مدرسة"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى حلقة فيينا — ختماً قالبياً حُمِل آلياً عند دمج ملفٍّ مزدوج. ومباحثُ نظرية المعرفة المعاصرة (مشكلةُ غيتييه 1963 وما بعدها) لاحقةٌ للوضعية المنطقية وناقدةٌ لها، فنُقل الانتماءُ إلى `sch-epistemology`."
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `br-logical-positivism-vienna-circle`، وقد صار ذلك الملفُّ **إحالةً** إلى `sch-vienna-circle` بعد دمج ملفَّين مزدوجَين، فنُقل الانتماءُ إلى المعتمد."
   - "التحليل الإبستمولوجي واللغوي الدقيق لتطور المفهوم عبر التاريخ."
   - "لم يُعثر بعد على اقتباس مباشر موثّق من نص ديفيدسون الأصلي (Radical Interpretation، 1973) يمكن إدراجه هنا."
 ---

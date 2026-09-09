@@ -12,7 +12,7 @@ language: "العربية"
 active_start: 1010
 active_end: 1058
 active_source: "lifespan"
-crumb: "الأطلس ← thinkers ← الماوردي (أبو الحسن علي بن محمد / فقيه السياسة)"
+crumb: "الأشعرية ← الناس ← الماوردي (أبو الحسن علي بن محمد / فقيه السياسة)"
 edges:
 - rel: "belongs_to", target: "sch-ashariyya", target_type: "مدرسة"
 related:

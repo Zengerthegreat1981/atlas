@@ -6,11 +6,11 @@ level: "متقدم"
 title: "كارلو كيرانن"
 en: "Kaarlo Keränen"
 crumb: "الحوار المفتوح ← تطوير ← كارلو كيرانن"
-dates: "فنلندا · [DRAFT-UNKNOWN]"
+dates: "فنلندا · [غير مؤكد]"
 country: "فنلندا"
 language: "الفنلندية"
 active_start: 1990
-active_end: "[DRAFT-UNKNOWN]"
+active_end: null
 part: "philosophy"
 edges:
 - rel: "belongs_to", target: "tec-open-dialogue", target_type: "تقنية/تدخل علاجي"

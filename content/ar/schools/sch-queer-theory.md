@@ -22,7 +22,9 @@ related:
 - id: "sch-deconstruction", title: "التفكيكية", type: "مدرسة"
 - id: "sch-transfeminism", title: "الترانسفيمينية (نسوية العابرين جنسياً)", type: "مدرسة"
 - id: "con-queer-theory", title: "النظرية الكويرية", type: "مفهوم"
+- id: "con-gender-performativity-concept", title: "الأداء الجندري وتفكيك الهوية الطبيعية (Gender Performativity)", type: "مفهوم"
 gaps:
+  - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "نصوص Sedgwick, Butler, Halperin, Warner, Foucault (History of Sexuality) تحتاج مراجعة من المصدر الأولي."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---

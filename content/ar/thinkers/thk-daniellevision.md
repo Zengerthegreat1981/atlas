@@ -6,7 +6,7 @@ level: "متقدم"
 title: "دانييل ليڤيسون"
 en: "Danielle Levison"
 crumb: "العلاج بالحركة والرقص ← تطوير ← دانييل ليڤيسون"
-dates: "الولايات المتحدة/إسرائيل · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة/إسرائيل · [غير مؤكد]"
 country: "إسرائيل"
 language: "الإنجليزية"
 active_start: 1990

@@ -10,7 +10,7 @@ crumb: "الفلسفة اليونانية القديمة ← السياقات و
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "sch-socratic", target_type: "مدرسة"
+- rel: "relates_to", target: "السقراطية", target_type: "مدرسة"
 related:
 - id: "thk-socrates", title: "سقراط", type: "مفكر"
 - id: "thk-plato", title: "أفلاطون", type: "مفكر"

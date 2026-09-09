@@ -5,7 +5,7 @@ type: "مفكر"
 level: "متقدم"
 title: "هنري برغسون"
 en: "Henri Bergson"
-crumb: "المدرسة الوجودية ← الناس ← هنري برغسون"
+crumb: "فلسفة الحياة ← الناس ← هنري برغسون"
 dates: "فرنسا · 1859–1941"
 active_start: 1889
 active_end: 1932
@@ -13,7 +13,7 @@ language: "الفرنسية"
 country: "فرنسا"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-lebensphilosophie", target_type: "مدرسة"
 related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 - id: "thk-minkowski", title: "أوجين مينكوفسكي", type: "مفكر"
@@ -21,6 +21,8 @@ related:
 - id: "wrk-matter-and-memory-bergson", title: "المادة والذاكرة (Matière et Mémoire) - برغسون", type: "عمل / كتاب"
 - id: "wrk-time-and-free-will-bergson", title: "مقالة في المعطيات الفورية للوعي (Essai sur les données immédiates de la conscience) - برغسون", type: "عمل / كتاب"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-lebensphilosophie` بحسب المجال المُصحَّح في مسار التنقّل («فلسفة الحياة»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
+  - "**صُحِّح مسار التنقّل 2026-09-08:** كان الجزء الأول «المدرسة الوجودية» ختماً قالبياً؛ واستُبدل بـ«فلسفة الحياة». المصدر: نقضٌ يدويّ — برغسون صاحبُ فلسفة الحياة والديمومة. ولم يُشتقَّ من `belongs_to` لأنّ الحقلَ في هذا الحشد مختومٌ آلياً على «الوجودية العلاجية» حتى لمدخلاتٍ فلسفيةٍ تسبق الوجودية بقرون."
   - "علاقته بهوسرل وهايدجر (حوار نقدي غير مباشر حول الزمن) غير مفصّلة هنا بعد."
   - "حائز جائزة نوبل في الآداب 1927 — التفاصيل الدقيقة لسياق الجائزة لم تُراجع من مصدر أولي."
   - "دُمج معه الملف المكرَّر thk-henri-bergson (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."

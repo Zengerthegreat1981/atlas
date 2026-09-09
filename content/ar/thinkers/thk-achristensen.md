@@ -13,12 +13,13 @@ active_start: 1979
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "tec-ibct", title: "العلاج السلوكي التكاملي للأزواج (IBCT)", type: "تقنية/تدخل علاجي"
 - id: "thk-njacobson", title: "نيل س. جاكوبسون", type: "مفكر"
 - id: "con-marsha-acceptance-change", title: "جدلية القبول والتغيير في العلاج الزوجي", type: "مفهوم"
 gaps:
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-cbt` — وهو **ملفُّ إحالةٍ** لا مدرسة (صار إحالةً في دفعة دمجٍ سابقة ولم تُنقَل الأنسابُ الواردةُ إليه)، فنُقل إلى البديل المعتمد `sch-cognitive-behavioral`."
   - "تاريخ الميلاد الدقيق (1945 المذكور في `dates` غير مؤكَّد من مصدر أولي)؛ المؤكَّد فقط أنه حصل على الدكتوراه في علم النفس الإكلينيكي من جامعة أوريغون عام 1976 (مصدر: صفحته في UCLA)."
   - "لا يوجد اقتباس مباشر موثوق من *Acceptance and Change in Couple Therapy* (1996) بترجمة عربية معتمدة."
 ---

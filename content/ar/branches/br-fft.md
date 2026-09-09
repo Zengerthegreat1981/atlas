@@ -15,9 +15,8 @@ edges:
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
-- id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
-- id: "br-sikolohiyang-pilipino", title: "علم النفس الفلبيني الأصيل (إنريكيز)", type: "تيار"
 gaps:
+  - "**حُذف رابطٌ مُقحَم 2026-09-08:** كان `related` يحمل `br-sikolohiyang-pilipino` (علم النفس الفلبيني الأصيل) بلا أيِّ مسوّغ — ولا يُذكَر الفلبينُ ولا إنريكيز ولا «kapwa» في متن هذا الملفّ. وهو من دفعةٍ قالبيةٍ رُصد هدفُها الأوّل من قبل وأُغفل هذا."
   - "تاريخ البدء في Children's Memorial Hospital في شيكاغو يستحق مصدراً."
   - "نموذج الانتشار العالمي (FFT LLC) يستحق توثيقاً."
 ---

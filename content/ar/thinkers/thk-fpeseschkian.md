@@ -11,7 +11,7 @@ language: "الألمانية/الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← فريد بيسشكيان"
+crumb: "العلاج النفسي الإيجابي لبيسشكيان ← الناس ← فريد بيسشكيان"
 edges:
 - rel: "belongs_to", target: "tec-positive-psychotherapy-peseschkian", target_type: "تقنية/تدخل علاجي"
 related:

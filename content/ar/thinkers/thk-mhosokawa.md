@@ -11,7 +11,7 @@ language: "اليابانية، الإنجليزية"
 active_start: 1975
 active_end: "مستمر"
 part: "psychology"
-crumb: "الأطلس ← thinkers ← ميتشيو هوسوكاوا"
+crumb: "الناس ← ميتشيو هوسوكاوا"
 edges: []
 related: []
 gaps:

@@ -12,7 +12,7 @@ language: "الصينية (الكلاسيكية)"
 active_start: 1170
 active_end: 1193
 active_source: "lifespan"
-crumb: "الأطلس ← thinkers ← لو شيانغ شان (مؤسس مدرسة العقل / القلب)"
+crumb: "مدرسة العقل/القلب (Xinxue / Lu-Wang) ← الناس ← لو شيانغ شان (مؤسس مدرسة العقل / القلب)"
 edges:
 - rel: "belongs_to", target: "sch-xinxue", target_type: "مدرسة"
 - rel: "founded", target: "sch-xinxue", target_type: "مدرسة"

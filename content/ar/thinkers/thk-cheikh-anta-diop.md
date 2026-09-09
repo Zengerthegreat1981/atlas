@@ -12,7 +12,7 @@ language: "الفرنسية، الوولوف، العربية"
 active_start: 1948
 active_end: 1986
 active_source: "lifespan"
-crumb: "الأطلس ← thinkers ← شيخ أنتا ديوب (المؤسِّس العلمي للأفروسنتريزم)"
+crumb: "أفريقية المركز (Afrocentrism) ← الناس ← شيخ أنتا ديوب (المؤسِّس العلمي للأفروسنتريزم)"
 edges:
 - rel: "belongs_to", target: "sch-afrocentrism", target_type: "مدرسة"
 - rel: "belongs_to", target: "sch-pan-africanism", target_type: "مدرسة"

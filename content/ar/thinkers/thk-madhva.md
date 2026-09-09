@@ -12,7 +12,7 @@ language: "السنسكريتية، الكانادية"
 active_start: 1230
 active_end: 1278
 active_source: "lifespan"
-crumb: "الأطلس ← thinkers ← مادهافا (دفايتا فيدانتا)"
+crumb: "دفايتا فيدانتا (التثنية) ← الناس ← مادهافا (دفايتا فيدانتا)"
 edges:
 - rel: "belongs_to", target: "sch-dvaita-vedanta", target_type: "مدرسة"
 related:

@@ -8,7 +8,7 @@ en: "Hypnotic Suggestibility"
 crumb: "التنويم ← المفاهيم ← القابلية للإيحاء"
 active_start: 1930
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "مدرسة"
 related:
@@ -17,6 +17,7 @@ related:
 - id: "con-hypnotic-trance", title: "الغشية التنويمية", type: "مفهوم"
 - id: "br-clinical-hypnotherapy", title: "التنويم العلاجي السريري", type: "تيار"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `br-clinical-hypnotherapy` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "المقاييس المعيارية (Stanford Hypnotic Susceptibility Scale) ودرجات القابلية لم تُوثّق بدقة كافية."
 ---
 

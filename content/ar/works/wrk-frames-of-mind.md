@@ -17,7 +17,7 @@ publication_year: 1983
 original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
-- rel: "authored_by", target: "thk-gardner", target_type: "مفكر"
+- rel: "authored_by", target: "هوارد غاردنر", target_type: "مفكر"
 gaps:
   - "المؤلف هوارد غاردنر (Howard Gardner) ليس له ملف مفكر مستقل موسَّع في الأطلس بعد رغم وجود author_slug يشير إلى thk-gardner."
   - "لم يثبت وجود ترجمة عربية منشورة لهذا العمل بثلاثيّ مترجم وناشر وسنة كامل: بُحث عن ذلك ولم يُعثر عليه."

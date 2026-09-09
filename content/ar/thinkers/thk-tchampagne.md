@@ -13,11 +13,11 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "التكامل الحسي ← تطوير ← تينا شامبانيا"
 edges:
-- rel: "belongs_to", target: "br-sensory-integration", type: "تيار"
+- rel: "belongs_to", target: "br-sensory-integration", target_type: "تيار"
 related:
-- id: "thk-jayres", type: "مفكر", title: "جين أَيرس"
-- id: "thk-rschaaf", type: "مفكر", title: "روزان شاف"
-- id: "thk-lmiller", type: "مفكر", title: "لوسي جين ميلر"
+- id: "thk-jayres", title: "جين أَيرس", type: "مفكر"
+- id: "thk-rschaaf", title: "روزان شاف", type: "مفكر"
+- id: "thk-lmiller", title: "لوسي جين ميلر", type: "مفكر"
 gaps:
   - "لا توجد سيرة ذاتية منشورة لـ 'Tina Champagne' في WPS أو USC Chan (حتى آب 2026)."
   - "الاحتمال: الاسم مُدخل من بيانات ممارسي OT في خدمات الصحة النفسية."

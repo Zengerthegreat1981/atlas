@@ -19,6 +19,7 @@ related:
 - id: "thk-ptedeschi", title: "رافائيل تيدِسكي", type: "مفكر"
 - id: "thk-deraldwing-sue", title: "ديرالد وينغ سو", type: "مفكر"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` اسماً نصّياً «الإرشاد متعدد الثقافات» لا يُحلّ إلى ملفّ، وقد أُنشئت المدرسةُ `sch-multicultural-counseling` فأُسند الانتماءُ إليها."
   - "لا يوجد اقتباس مباشر موثوق من *Counseling American Minorities* (1983) بترجمة عربية معتمدة."
   - "تم التحقق عبر ويكيبيديا وصحيفتي Santa Barbara Independent وMail Tribune (نعي 2008) من أنه وُلد في 10 فبراير 1940 وتوفي في 11 يناير 2008 بسانتا باربارا؛ عُيِّن في UCSB سنة 1972 وتقاعد أستاذاً فخرياً سنة 2002. نسخة المسودة السابقة (1940–2017) كانت خاطئة في سنة الوفاة."
   - "تصحيح: اسم النموذج الوارد سابقاً في هذا الملف («نموذج ATMS» بالحروف Attitudes, Treatment, Matching, Skills) غير موثّق في أي مصدر أكاديمي تم العثور عليه، ويبدو تسمية ملفَّقة. النموذج الموثَّق فعلياً هو «النموذج الثلاثي الأبعاد» (A Three-Dimensional Model for Counseling Racial/Ethnic Minorities)، نُشر 1993 بالاشتراك مع Chalmer Thompson وSheila Grant، ويقوم على ثلاثة أبعاد: مستوى التأقلم الثقافي للعميل (acculturation)، وموقع سبب المشكلة (locus of problem etiology)، وأهداف المساعدة (goals of helping). تم تصحيح النص أدناه تبعاً لذلك."

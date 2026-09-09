@@ -12,7 +12,7 @@ language: "الإنجليزية، البنغالية، السنسكريتية"
 active_start: 1886
 active_end: 1902
 active_source: "lifespan"
-crumb: "الأطلس ← thinkers ← سوامي فيفيكاناندا (نيو-فيدانتا)"
+crumb: "نيو-فيدانتا (الفيدانتا الحديثة) ← الناس ← سوامي فيفيكاناندا (نيو-فيدانتا)"
 edges:
 - rel: "belongs_to", target: "sch-neo-vedanta", target_type: "مدرسة"
 related:

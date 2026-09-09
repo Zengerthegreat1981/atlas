@@ -10,7 +10,7 @@ active_start: 1960
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "con-aba-autism", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-aba-autism", target_type: "تيار"
 related:
 - id: "thk-lovaas", title: "إيفار لوفاس", type: "مفكر"
 - id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
@@ -21,6 +21,7 @@ related:
 - id: "con-neurodiversity-affirming", title: "الإرشاد المؤيد للتنوع العصبي", type: "مفهوم"
 - id: "crt-neurodiversity-aba-critique", title: "نقد حقوق ذوي الإعاقة/التنوع العصبي لـ ABA: قمع، لا علاج", type: "نقد خارجي موثَّق"
 gaps:
+  - "**صُحِّحت حلقةٌ ذاتية 2026-09-08:** كان `belongs_to` يشير إلى `con-aba-autism` — أي إلى الملفّ نفسِه، وهي حلقةٌ مغلقةٌ لا معنى لها، أصلُها اختلاطُ بادئةٍ في الـslug. ونُقل إلى `br-aba-autism`: التيّارُ المقابلُ موجودٌ بالاسم نفسِه — اختلاطُ بادئةٍ ظاهر."
   - "أعمال Lovaas الكاملة لم تُراجع بشكل منفصل."
 ---
 

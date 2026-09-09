@@ -6,10 +6,10 @@ level: "مبتدئ"
 title: "التغذية الراجعة العصبية (Neurofeedback)"
 en: "Neurofeedback / EEG Biofeedback"
 crumb: "التغذية الراجعة العصبية ← المفاهيم ← التغذية الراجعة العصبية"
-country: "[DRAFT-UNKNOWN]"
+country: "[غير مؤكد]"
 active_start: 1967
 active_end: "مستمر"
-language: "[DRAFT-UNKNOWN]"
+language: "[غير مؤكد]"
 part: "psychology"
 related:
 - id: "thk-jgruzelier", title: "جون غروزولير", type: "مفكر"

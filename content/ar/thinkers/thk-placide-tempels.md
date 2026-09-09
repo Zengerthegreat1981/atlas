@@ -12,7 +12,7 @@ language: "الفلمنكية، الفرنسية، السواحلية"
 active_start: 1945
 active_end: 1962
 active_source: "lifespan"
-crumb: "الأطلس ← thinkers ← بلاسيد تيمبلس (مُكتشف الفلسفة البانتو)"
+crumb: "الإثنوفلسفة ← الناس ← بلاسيد تيمبلس (مُكتشف الفلسفة البانتو)"
 edges:
 - rel: "belongs_to", target: "sch-ethnophilosophy", target_type: "مدرسة"
 - rel: "founded", target: "sch-ethnophilosophy", target_type: "مدرسة"

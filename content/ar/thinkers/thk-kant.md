@@ -24,7 +24,17 @@ related:
 - id: "sch-german-idealism", title: "المثالية الألمانية (كمظلة)", type: "مدرسة"
 - id: "wrk-time-and-free-will-bergson", title: "مقالة في المعطيات الفورية للوعي (Essai sur les données immédiates de la conscience) - برغسون", type: "عمل / كتاب"
 - id: "ctx-french-revolution-terror-rights", title: "الثورة الفرنسية ووثيقة حقوق الإنسان وصدمة عهد الإرهاب", type: "سياق/تقليد"
+- id: "trm-anschawung-intuition-kant", title: "الحدس الحسي (Anschauung): الإدراك العياني المباشر", type: "مصطلح لغوي متنازع عليه"
+- id: "met-kant-copernican-revolution", title: "الثورة الكوبرنيكية لكانط: استعارة انقلاب مركزية المعرفة", type: "استعارة/مجاز مؤسِّس"
+- id: "que-moral-relativism-vs-absolutism", title: "هل القيم الأخلاقية موضوعية ومطلقة أم نتاج ثقافي نسبي؟", type: "سؤال توليدي"
+- id: "wrk-perpetual-peace-kant", title: "نحو سلام دائم لإيمانويل كانط", type: "عمل / كتاب"
+- id: "que-what-is-reality", title: "ما الْوَاقِع؟", type: "سؤال توليدي"
+- id: "con-kingdom-of-ends-kant", title: "مملكة الغايات الأخلاقية (Kingdom of Ends)", type: "مفهوم"
+- id: "que-justice-vs-retribution", title: "ما هو الأساس الفلسفي للعقاب: القصاص أم الإصلاح والردع؟", type: "سؤال توليدي"
+- id: "rel-kant-apperception-central-executive", title: "وحدة الإدراك المتعالي لكانط والوظائف التنفيذية للدماغ", type: "علاقة بين مدرستين"
+- id: "wrk-religion-within-bounds-of-reason-kant", title: "الدين في حدود العقل المجرد لإيمانويل كانط", type: "عمل / كتاب"
 gaps:
+  - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشاراتٌ إلى 9 عقدةً كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "علاقة كانط بالثورة الفرنسية لم تُوثّق مباشرة."
   - "لا يوجد اقتباس مباشر موثوق من 'Kategorischer Imperativ' بعد."
 ---

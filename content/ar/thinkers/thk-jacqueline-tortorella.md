@@ -6,11 +6,11 @@ level: "متوسط"
 title: "جاكلين تورتوريلا"
 en: "Jacqueline Tortorella"
 crumb: "العلاج الزوجي المرتكز على الانفعال (EFT) ← تطوير ← جاكلين تورتوريلا"
-dates: "[DRAFT-UNKNOWN]"
-country: "[DRAFT-UNKNOWN]"
+dates: "[غير مؤكد]"
+country: "[غير مؤكد]"
 language: "الإنجليزية"
-active_start: "[DRAFT-UNKNOWN]"
-active_end: "[DRAFT-UNKNOWN]"
+active_start: null
+active_end: null
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-eft-couples", target_type: "مدرسة"

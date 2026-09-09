@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1995
 active_end: "مستمر"
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← كارين بَد"
+crumb: "العلاج بتفاعل الوالد-الطفل (PCIT) ← الناس ← كارين بَد"
 edges:
 - rel: "belongs_to", target: "br-pcit", target_type: "تيار"
 related:

@@ -23,7 +23,9 @@ related:
 - id: "wrk-symbolic-forms-cassirer", title: "فلسفة الأشكال الرمزية (Philosophie der symbolischen Formen) - كاسيرر", type: "عمل / كتاب"
 - id: "stu-wundt-leipzig-1879", title: "مختبر لايبزيغ 1879: تأسيس علم النفس التجريبي", type: "دراسة وبحث"
 - id: "con-psychophysics-fechner", title: "علم النفس الفيزيائي (Psychophysics)", type: "مفهوم"
+- id: "wrk-beitrage-sinneswahrnehmung", title: "أبحاث في نظرية الإدراك الحسي", type: "عمل / كتاب"
 gaps:
+  - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "رابط مقترح لم يتحقق بعد في الأطلس: علم النفس التجريبي (sch-experimental-psychology)"
 - "لم تُراجع بعد من نسخة أصلية مباشرة (Grundzüge der physiologischen Psychologie, 1874)."
 - "التمييز بين علم النفس التجريبي و«الفلسفة الرسمية» (Logik, 1880; Ethik, 1886) عند فونت يحتاج مراجعة موسعة."

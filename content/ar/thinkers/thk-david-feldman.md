@@ -6,7 +6,7 @@ level: "متوسط"
 title: "ديفيد ب. فيلدمان"
 en: "David B. Feldman"
 crumb: "العلاج القائم على الأمل (Snyder) ← تطوير ← ديفيد ب. فيلدمان"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2005

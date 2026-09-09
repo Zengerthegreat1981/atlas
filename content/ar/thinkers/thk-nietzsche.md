@@ -5,7 +5,7 @@ type: "مفكر"
 level: "متوسط"
 title: "فريدريش نيتشه"
 en: "Friedrich Nietzsche"
-crumb: "المدرسة الوجودية ← الناس ← فريدريش نيتشه"
+crumb: "النيتشوية ← الناس ← فريدريش نيتشه"
 dates: "ألمانيا · 1844–1900"
 active_start: 1882
 active_end: 1889
@@ -13,7 +13,7 @@ language: "الألمانية"
 country: "ألمانيا"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-nietzscheanism", target_type: "مدرسة"
 related:
 - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
 - id: "con-meaning", title: "المعنى", type: "مفهوم"
@@ -37,7 +37,19 @@ related:
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "sch-nietzscheanism", title: "النيتشوية", type: "مدرسة"
 - id: "wrk-philosophy-mirror-nature", title: "الفلسفة ومرآة الطبيعة (Philosophy and the Mirror of Nature)", type: "عمل / كتاب"
+- id: "wrk-human-all-too-human-nietzsche", title: "إنساني مفرط في إنسانيته لفريدريش نيتشه", type: "عمل / كتاب"
+- id: "que-nature-of-suffering", title: "هل المعاناة عَرَض مرضي يجب استئصاله أم بعد تكويني للوعي؟", type: "سؤال توليدي"
+- id: "trm-amor-fati-nietzsche-stoic", title: "أمور فاتي (Amor Fati): حب القدر والرضا بالصيرورة", type: "مصطلح لغوي متنازع عليه"
+- id: "con-amor-fati", title: "حب القدر وتقبل حتمية الحياة الوجودية (Amor Fati)", type: "مفهوم"
+- id: "con-perspectivism-nietzsche", title: "المنظورية المعرفية (Perspectivism)", type: "مفهوم"
+- id: "con-death-of-god-nietzsche", title: "موت الإله وأزمة العدمية (Death of God)", type: "مفهوم"
+- id: "exp-nietzsche-turin-horse", title: "تجربة نيتشه في تورينو مع الحصان (1889): الانهيار والشفقة التراجيدية", type: "خبرة معيشة"
+- id: "rel-nietzsche-sublimation-freudian-defense", title: "التسامي والإعلاء عند نيتشه وآليات الدفاع النفسي", type: "علاقة بين مدرستين"
+- id: "thk-frey-rohn", title: "ليليان فري-رون", type: "مفكر"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-nietzscheanism` بحسب المجال المُصحَّح في مسار التنقّل («النيتشوية»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
+  - "**صُحِّح مسار التنقّل 2026-09-08:** كان الجزء الأول «المدرسة الوجودية» ختماً قالبياً؛ واستُبدل بـ«النيتشوية». المصدر: جيرة — جيرةُ العقدة تشير إلى sch-nietzscheanism. ولم يُشتقَّ من `belongs_to` لأنّ الحقلَ في هذا الحشد مختومٌ آلياً على «الوجودية العلاجية» حتى لمدخلاتٍ فلسفيةٍ تسبق الوجودية بقرون."
+  - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشاراتٌ إلى 9 عقدةً كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "بيانات الأعمال والتواريخ والترجمات العربية — تحتاج تثبيتاً"
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---

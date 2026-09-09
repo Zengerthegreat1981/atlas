@@ -11,12 +11,12 @@ language: "الإنجليزية/الهندية"
 active_start: 2012
 active_end: "مستمر"
 part: "psychology"
-crumb: "الأطلس ← thinkers ← نيخيل خانا"
+crumb: "علم النفس الإيجابي ← الناس ← نيخيل خانا"
 edges:
 - rel: "belongs_to", target: "br-positive-psychology", target_type: "تيار"
 related:
 - id: "thk-fvanderzee", title: "فرانك فان دير زي", type: "مفكر"
-- id: "thk-mcsikszentmihalyi", type: "مفكر", title: "ميهالي تشيكسنتميهالي"
+- id: "thk-csikszentmihalyi", title: "ميهاي تشيكسنتميهاي", type: "مفكر"
 gaps:
   - "السيرة الذاتية الكاملة (الجامعة، النشأة) غير منشورة."
   - "محتوى 'مركز التدريب في بنغالور' وأبحاثه الميدانية لم يُنشر بعد."

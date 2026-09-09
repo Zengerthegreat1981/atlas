@@ -8,17 +8,17 @@ en: "Olga Verderese"
 dates: "البرازيل"
 country: "البرازيل"
 language: "البرتغالية"
-active_start: "[DRAFT-UNKNOWN]"
+active_start: null
 active_end: "مستمر"
 part: "philosophy"
 crumb: "التحليلية النسوية ← تطوير ← أولغا فِرْدِرِيس"
 edges:
-- rel: "belongs_to", target: "sch-analytical-psychology", type: "مدرسة"
+- rel: "belongs_to", target: "sch-analytical-psychology", target_type: "مدرسة"
 related:
-- id: "thk-nisesilveira", type: "مفكر", title: "نيسي دا سيلفيرا"
-- id: "thk-mwoodman", type: "مفكر", title: "ماريون وودمان"
-- id: "thk-ajohnson", type: "مفكر", title: "ألان جونسون"
+- id: "thk-nisesilveira", title: "نيسي دا سيلفيرا", type: "مفكر"
+- id: "thk-mwoodman", title: "ماريون وودمان", type: "مفكر"
 gaps:
+  - "إحالة معلَّقة أُزيلت: «ألان جونسون» (thk-ajohnson) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
   - "لا توجد سيرة ذاتية منشورة لـ 'Olga Verderese' في SBrPA (Sociedade Brasileira de Psicanálise) حتى آب 2026."
   - "الاحتمال: خلط مع 'Olga L. Verderese' (محلِّلة يونغية في PUC-SP) أو 'Olga Drigo Verderese' (باحثة في برازيل)."
   - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'Jungian Brasil Feminism' عام."

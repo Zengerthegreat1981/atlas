@@ -12,7 +12,7 @@ language: "السنسكريتية"
 active_start: 780
 active_end: 820
 active_source: "lifespan"
-crumb: "الأطلس ← thinkers ← ماندانا ميشرا (جسر الميمنسا وأدفايتا)"
+crumb: "ميمامسا (بورفا ميمامسا) ← الناس ← ماندانا ميشرا (جسر الميمنسا وأدفايتا)"
 edges:
 - rel: "belongs_to", target: "sch-mimamsa", target_type: "مدرسة"
 - rel: "belongs_to", target: "sch-advaita-vedanta", target_type: "مدرسة"
@@ -23,7 +23,9 @@ related:
 - id: "thk-shankara", title: "شانكارا (أدفايتا فيدانتا)", type: "مفكر"
 - id: "thk-kumarila-bhatta", title: "كوماريلا بهاتا", type: "مفكر"
 - id: "ctx-hindu-philosophical-traditions", title: "التقاليد الفلسفية الهندية الكبرى", type: "سياق/تقليد"
+- id: "thk-vachaspati-misra", title: "فاتشاسباتي ميشرا (مُنَظِّم أدفايتا فيدانتا)", type: "مفكر"
 gaps:
+  - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "تاريخ حياته موضع خلاف (تقليدياً معاصر شانكارا، لكن بعض الباحثين يقدّمه)."
   - "نسبة 'Vidhi-viveka' و'Sambandha-viveka' إليه أو إلى Sureśvara موضع نقاش."
   - "لا يوجد اقتباس مباشر موثوق من 'Brahma-siddhi' بالعربية."

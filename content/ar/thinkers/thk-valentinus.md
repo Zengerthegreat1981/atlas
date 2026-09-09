@@ -11,7 +11,7 @@ country: "مصر (الإسكندرية)، روما"
 language: "اليونانية"
 active_start: 130
 active_end: 160
-crumb: "الأطلس ← thinkers ← فالنتينوس (مؤسس الفالنتينية)"
+crumb: "الغنوصية القديمة (بفروعها) ← الناس ← فالنتينوس (مؤسس الفالنتينية)"
 edges:
 - rel: "belongs_to", target: "sch-gnosticism", target_type: "مدرسة"
 related:

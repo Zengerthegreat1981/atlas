@@ -17,7 +17,12 @@ related:
 - id: "thk-bergson", title: "هنري برغسون", type: "مفكر"
 - id: "wrk-matter-and-memory-bergson", title: "المادة والذاكرة (Matière et Mémoire) - برغسون", type: "عمل / كتاب"
 - id: "dbt-recovered-memory-validity", title: "جدل الذاكرة المُستعادة: حقيقية أم زائفة؟", type: "جدل"
+- id: "stu-scoville-milner-patient-hm", title: "دراسة سكوفيل وميلنر الكلاسيكية للحالة H.M. ودور الحصين في الذاكرة", type: "دراسة وبحث"
+- id: "stu-sperling-iconic-memory", title: "تجارب سبيرلينج للتقرير الجزئي والذاكرة الأيقونية الحسية", type: "دراسة وبحث"
+- id: "stu-peterson-peterson-short-term-memory", title: "تجربة بيترسون وبيترسون حول تلاشي الذاكرة قصيرة المدى ومنع التسميع", type: "دراسة وبحث"
+- id: "stu-roediger-mcdermott-drm", title: "تجارب روديغر وماكديرموت لنموذج DRM للذاكرة الزائفة بالقوائم اللفظية", type: "دراسة وبحث"
 gaps:
+  - "**رُبطت عقدٌ معزولة 2026-09-08 بخريطةٍ محقَّقةٍ يدوياً:** `stu-scoville-milner-patient-hm` (الدراسةُ المؤسِّسةُ لتمييز أنظمة الذاكرة)، `stu-sperling-iconic-memory` (تجاربُ الذاكرة الأيقونية)، `stu-peterson-peterson-short-term-memory` (تلاشي الذاكرة قصيرة المدى)، `stu-roediger-mcdermott-drm` (نموذجُ DRM للذاكرة الزائفة). وهذه الملفاتُ كان `related` فيها حشوَ «الأصالة» وحده فحُذف، فبقيت بلا رابطٍ وارد؛ ولم يكن في المستودع تسويغٌ آليٌّ لربطها، فرُبطت بحكمٍ تحريريٍّ مقصورٍ على العلاقات البيّنة."
   - "الآليات الجزيئية للتأييد طويل الأمد (LTP) في الحُصين وعلاقتها بتثبيت الذكريات تحتاج فصلاً عصبياً مستقلاً."
   - "التطبيقات الإكلينيكية لإعادة تثبيت الذاكرة (Memory Reconsolidation) في علاج اضطراب ما بعد الصدمة تتطلب مراجعة إضافية، وربما ربطاً بـ dbt-memory-reconsolidation-vs-extinction لاحقاً."
   - "روابط دراسات (stu-tulving-encoding-specificity، stu-baddeley-hitch-working-memory، stu-bartlett-war-of-ghosts، stu-ebbinghaus-forgetting-curve) حُذفت من related لأن مهمة إعادة البناء هذه (Task 9) مخصصة لفئات thk-/sch-/con-/wrk-/dbt- فقط؛ الدراسات نفسها موجودة وصحيحة الـslug ويمكن إعادتها إذا وسّع نطاق لاحق فئات الربط."

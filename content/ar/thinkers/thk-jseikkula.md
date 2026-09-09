@@ -11,7 +11,7 @@ country: "فنلندا"
 language: "الفنلندية/الإنجليزية"
 active_start: 1984
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
@@ -20,6 +20,7 @@ related:
 - id: "rel-daoism-systemic", title: "الطاوية الفلسفية والعلاج الأسري/النظامي: من وُو-وِي إلى الدائرية", type: "علاقة بين مدرستين"
 - id: "thk-maryolson", title: "ماري أولسون", type: "مفكر"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `sch-systemic-family` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "اقتباس مباشر من سيكولا لم يُعثر عليه بعد بمصدر وسنة محددين."
   - "edges.belongs_to.target كان نصاً حراً 'الحوار المفتوح (Open Dialogue)' بدل slug معتمد — استُبدل بـ sch-systemic-family، المدرسة التي يستند إليها المتن صراحةً (باختين، فيغوتسكي، بيتسون، والتقليد النَّسَقي)."
 ---

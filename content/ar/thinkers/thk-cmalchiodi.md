@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← كاثي مالكيودي"
+crumb: "الناس ← كاثي مالكيودي"
 edges:
 - rel: "belongs_to", target: "sch-art-therapy", target_type: "مدرسة"
 related:
@@ -19,6 +19,7 @@ related:
 - id: "thk-mnaumburg", title: "مارغريت نومبورغ", type: "مفكر"
 - id: "thk-ahill", title: "أدريان هيل", type: "مفكر"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` اسماً نصّياً «العلاج بالفن» لا يُحلّ إلى ملفّ، وقد أُنشئت المدرسةُ `sch-art-therapy` فأُسند الانتماءُ إليها."
   - "لا يوجد اقتباس مباشر موثوق من «الصدمة والعلاج بالفنون التعبيرية» (Trauma and Expressive Arts Therapy, 2015) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بات أوغدن (thk-pogden)."
 ---

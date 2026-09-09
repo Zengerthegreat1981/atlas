@@ -10,11 +10,12 @@ crumb: "المفاهيم الفلسفية الكبرى ← المفاهيم ال
 active_start: 1985
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-analytic-ethics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-metaethics", target_type: "مدرسة"
 related:
 - id: "thk-jmcdowell", title: "جون ماكدوويل", type: "مفكر"
 - id: "dbt-moral-realism-vs-moral-relativism", title: "الواقعية الأخلاقية مقابل النسبية الأخلاقية والذاتية", type: "جدل"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` اسماً نصّياً «الأخلاق التحليلية» لا يُحلّ إلى ملفّ، وقد أُنشئت المدرسةُ `sch-metaethics` فأُسند الانتماءُ إليها."
   - "لا يوجد ملف مفكر معتمد لبرنارد ويليامز (Bernard Williams) في الأطلس حتى الآن رغم أنه صاحب المصطلح الأصلي (1985) — يوجد مسودة عند Spark فقط (thk-bernard-williams)، غير صالحة للربط بها بعد."
   - "موقف كليفورد غيرتز (Clifford Geertz) من «الوصف السميك» في الأنثروبولوجيا (1973) كسابقة اصطلاحية للتمييز عند ويليامز لم يُوثَّق بنص محدد."
   - "رد سايمون بلاكبيرن (Simon Blackburn) الإسقاطي (Projectivist) على حجة ويليامز يحتاج استشهاداً مباشراً بالصفحة والسنة."

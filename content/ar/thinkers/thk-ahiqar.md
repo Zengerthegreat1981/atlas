@@ -12,7 +12,7 @@ language: "الأرامية"
 active_start: -700
 active_end: -500
 active_source: "lifespan"
-crumb: "الأطلس ← thinkers ← أخيقار (الحكيم الآرامي)"
+crumb: "تقليد الحكمة الرافدية ← الناس ← أخيقار (الحكيم الآرامي)"
 edges:
 - rel: "belongs_to", target: "sch-mesopotamian-wisdom", target_type: "مدرسة"
 related:

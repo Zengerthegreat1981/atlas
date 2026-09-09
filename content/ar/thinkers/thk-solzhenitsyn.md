@@ -13,12 +13,13 @@ active_end: 2008
 part: "philosophy"
 crumb: "الأدب الوجودي والفلسفة السياسية ← مفكرون ← ألكسندر سولجينيتسين"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "thk-arendt", title: "حنة آرندت", type: "مفكر"
 - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
 - id: "exp-solzhenitsyn-gulag-cancer-ward", title: "تجربة سولجينيتسين في معسكرات الغولاج وجناح السرطان", type: "خبرة معيشة"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-existentialism` بحسب المجال المُصحَّح في مسار التنقّل («الأدب الوجودي والفلسفة السياسية»). ومدخلٌ فلسفيٌّ لا ينتمي إلى مدرسةِ علاجٍ نفسيٍّ إكلينيكي."
   - "التفاصيل الكاملة لسنواته في المنفى (1974–1994) موثّقة جزئياً في مذكراته."
   - "تأثيره في الفلسفة الغربية أقل من تأثيره في الأدب والمسيحية الأرثوذكسية."
 ---

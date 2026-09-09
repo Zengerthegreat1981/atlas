@@ -11,12 +11,13 @@ language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← بيتر سميث"
+crumb: "الناس ← بيتر سميث"
 edges:
-- rel: "belongs_to", target: "sch-school-bullying-research", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-bullying-research", target_type: "مدرسة"
 related:
 - id: "thk-dolweus", title: "دان أولِس", type: "مفكر"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` اسماً نصّياً «بحوث التنمّر المدرسي» لا يُحلّ إلى ملفّ، وقد أُنشئت المدرسةُ `sch-bullying-research` فأُسند الانتماءُ إليها."
   - "حُذفت روابط related كانت تشاور على ملفات غير موجودة (thk-keinarsen، thk-ssharp، thk-fvolkwein)."
   - "السيرة الذاتية الكاملة (الجامعة، أطروحته) لم تُنشر على الإنترنت."
 ---

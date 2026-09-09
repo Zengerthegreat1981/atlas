@@ -18,8 +18,10 @@ related:
 - id: "thk-sjohnson", title: "سو جونسون", type: "مفكر"
 - id: "con-secure-attachment", title: "التعلق الآمن (Secure Attachment)", type: "مفهوم"
 - id: "br-attachment-theory", title: "نظرية التعلق (Attachment Theory)", type: "فرع"
+- id: "trm-attachment-style", title: "أَنْمَاط التَّعَلُّق (Attachment Styles)", type: "مصطلح لغوي متنازع عليه"
 
 gaps:
+  - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "التصنيف الأبعادي لبارثولوميو وهورويتز (1991) مذكور في المتن لكن لا يوجد ملف مفكر منشور له (Kim Bartholomew) أو لـ Leonard Horowitz في content/ar/ حالياً."
   - "صفحة سنان شيفر (Phillip Shaver) موجودة كمسودة فقط (content/ar/drafts/thinkers/thk-shaver.md) وليست منشورة، فلم تُدرج كرابط."
   - "الجدل حول التصنيف الرباعي مقابل البُعدي مستمر في الأبحاث المعاصرة."

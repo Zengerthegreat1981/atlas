@@ -11,13 +11,14 @@ active_start: 1991
 active_end: "مستمر"
 country: "ألمانيا"
 language: "الألمانية"
-part: "psychology"
+part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
 related:
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «psychology» وصار «philosophy» اتّساقاً مع أشقّائه تحت `sch-phenomenology` (وأغلبيتُهم «philosophy» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "الاسم في السجل الأصلي ورد بصيغة مختصرة 'F. Herzog'؛ البحث لم يؤكد وجود شخص بهذا الاسم في هذا الحقل، بينما وجد بثقة عالية عالم النفس الألماني ماكس هرتسوغ (Max Herzog) العامل في نفس الحقل بالضبط، فتم تصحيح الاسم إليه."
   - "لا تتوفر تفاصيل موثقة كافية عن سيرته الأكاديمية الكاملة أو تاريخ ميلاده."
 ---

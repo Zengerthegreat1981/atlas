@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1988
 active_end: 2012
 part: "psychology"
-crumb: "الأطلس ← thinkers ← كريستوفر بيترسون"
+crumb: "العلاج المرتكز على مواطن القوة ← الناس ← كريستوفر بيترسون"
 edges:
 - rel: "belongs_to", target: "tec-strengths-based-therapy", target_type: "تقنية/تدخل علاجي"
 related:

@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-bergson", title: "هنري برغسون", type: "مفكر"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-- id: "thk-merleau-ponty", type: "مفكر", title: "موريس مرلو-بونتي"
+- id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
 - id: "thk-ricoeur", title: "بول ريكور", type: "مفكر"
 - id: "thk-derrida", title: "جاك دريدا", type: "مفكر"
 - id: "thk-levinas", title: "إيمانويل ليفيناس", type: "مفكر"

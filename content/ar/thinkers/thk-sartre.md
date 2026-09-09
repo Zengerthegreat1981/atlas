@@ -5,7 +5,7 @@ type: "مفكر"
 level: "متوسط"
 title: "جان بول سارتر"
 en: "Jean-Paul Sartre"
-crumb: "المدرسة الوجودية ← الناس ← جان بول سارتر"
+crumb: "الفلسفة الوجودية ← الناس ← جان بول سارتر"
 dates: "فرنسا · 1905–1980"
 active_start: 1938
 active_end: 1980
@@ -13,7 +13,7 @@ language: "الفرنسية"
 country: "فرنسا"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
 - id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
@@ -62,7 +62,19 @@ related:
 - id: "thk-lequier", title: "جول لوكييه", type: "مفكر"
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
 - id: "ctx-post-ww2-existential-angst", title: "أوروبا ما بعد الحرب العالمية الثانية وسيادة القلق الوجودي والعبث", type: "سياق/تقليد"
+- id: "wrk-being-nothingness", title: "الوجود والعدم", type: "عمل / كتاب"
+- id: "evt-sartre-existentialism-is-a-humanism-lecture-1945", title: "محاضرة سارتر 'الوجودية نزعة إنسانية' في باريس (1945 م)", type: "حدث تاريخي"
+- id: "exp-sartre-mescaline-crabs", title: "تجربة جان بول سارتر مع الميسكالين وهلوسة السرطانات (1935)", type: "خبرة معيشة"
+- id: "wrk-being-and-nothingness-sartre", title: "الوجود والعدم لجان بول سارتر (L'Être et le Néant)", type: "عمل / كتاب"
+- id: "que-existential-isolation-connection", title: "كيف نتصالح مع العزلة الوجودية المطلقة ونبني صلة حميمة بالآخرين؟", type: "سؤال توليدي"
+- id: "que-meaning-in-indifferent-universe", title: "كيف ينشأ المعنى في كون طبيعي غير مبالٍ؟", type: "سؤال توليدي"
+- id: "exp-vertigo-existential-sartre", title: "دوار الحرية عند سارتر: تجربة الوقوف على حافة الهاوية", type: "خبرة معيشة"
+- id: "thk-raphael", title: "د. د. رافائيل", type: "مفكر"
+- id: "con-inner-experience", title: "الخبرة الباطنية القصوى", type: "مفهوم"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-existentialism` بحسب المجال المُصحَّح في مسار التنقّل («الفلسفة الوجودية»). ومدخلٌ فلسفيٌّ لا ينتمي إلى مدرسةِ علاجٍ نفسيٍّ إكلينيكي."
+  - "**صُحِّح مسار التنقّل 2026-09-08:** كان الجزء الأول «المدرسة الوجودية» ختماً قالبياً؛ واستُبدل بـ«الفلسفة الوجودية». المصدر: وجودي مُدقَّق — الجيرةُ وجودية، ودُقِّق الوسمُ بحسب part. ولم يُشتقَّ من `belongs_to` لأنّ الحقلَ في هذا الحشد مختومٌ آلياً على «الوجودية العلاجية» حتى لمدخلاتٍ فلسفيةٍ تسبق الوجودية بقرون."
+  - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشاراتٌ إلى 9 عقدةً كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "الترجمات العربية المعتمدة لعناوين أعماله (دور نشر وسنوات نشر عربية محددة) غير مثبتة."
 ---
 

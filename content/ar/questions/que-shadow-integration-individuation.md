@@ -2,7 +2,7 @@
 slug: "que-shadow-integration-individuation"
 id: "QUE-0091"
 type: "سؤال توليدي"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "كيف يتصالح الإنسان مع جوانب الظل في شخصيته دون استسلام لنزواتها؟"
 en: "Shadow Integration in Jungian Psychology: Befriending the Dark Side Safely"
@@ -16,7 +16,9 @@ related:
 - id: "met-jung-shadow-gold", title: "ذهب الظل ليونغ: استعارة الكنوز الإبداعية المخبأة في الجوانب المظلمة", type: "استعارة/مجاز مؤسِّس"
 - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
 - id: "thk-jordan-peterson", title: "جوردان بيترسون", type: "مفكر"
+- id: "con-shadow", title: "الظلّ (Shadow)", type: "مفهوم"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `br-jungian` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "لا يوجد ملف مستقل لروبرت بلاي أو لكتابه (A Little Book on the Human Shadow, 1988) في الأطلس، فبقي مذكوراً في المتن بلا رابط related."
 ---
 # كيف يتصالح الإنسان مع جوانب الظل في شخصيته دون استسلام لنزواتها؟

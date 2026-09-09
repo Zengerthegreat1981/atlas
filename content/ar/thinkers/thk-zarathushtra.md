@@ -12,7 +12,7 @@ language: "الفارسية القديمة (الأفستية)"
 active_start: -1500
 active_end: -1100
 active_source: "lifespan"
-crumb: "الأطلس ← thinkers ← زرادشت (زَرَتُشْتْرَة)"
+crumb: "الزرادشتية الفلسفية ← الناس ← زرادشت (زَرَتُشْتْرَة)"
 edges:
 - rel: "belongs_to", target: "sch-zoroastrian-philosophy", target_type: "مدرسة"
 related:

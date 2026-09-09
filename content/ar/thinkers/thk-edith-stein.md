@@ -12,7 +12,7 @@ language: "الألمانية"
 active_start: 1915
 active_end: 1942
 active_source: "lifespan"
-crumb: "الأطلس ← thinkers ← إديث شتاين (ظاهراتية، توماوية، شهيدة)"
+crumb: "الظاهراتية (Phänomenologie) ← الناس ← إديث شتاين (ظاهراتية، توماوية، شهيدة)"
 edges:
 - rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
 - rel: "belongs_to", target: "sch-phenomenology-hermeneutic", target_type: "مدرسة"

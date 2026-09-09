@@ -11,12 +11,13 @@ country: "إيطاليا"
 language: "الإيطالية"
 active_start: 1980
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
 - id: "thk-mselvini", title: "مارا سيلفيني-بالازولي", type: "مفكر"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `sch-systemic-family` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "ببليوغرافيا كتبها الفردية غير متوفرة هنا؛ عناوين ظهرت في مسودة سابقة ('La sessualità maschile'، 'Amore e violenza') لم يتأكد نسبتها إليها فحُذفت."
 ---

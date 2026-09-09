@@ -2,7 +2,7 @@
 slug: "que-is-jealousy-evolutionary-or-insecurity"
 id: "QUE-0059"
 type: "سؤال توليدي"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "هل الغيرة العاطفية استجابة تطورية لحماية الاستثمار الأسري أم هشاشة تعلقية؟"
 en: "Is Romantic Jealousy an Adaptive Evolutionary Mechanism or Attachment Insecurity?"
@@ -15,6 +15,7 @@ related:
 - id: "thk-david-buss", title: "ديفيد باس", type: "مفكر"
 - id: "thk-sjohnson", title: "سو جونسون", type: "مفكر"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `sch-developmental` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "لا يوجد نص يجمع باس وجونسون في مناظرة مباشرة — التنافس هنا بين إطارين بحثيين منشورين لا حوار شخصي موثق."
   - "أثر الثقافة (المجتمعات المتعددة الأزواج مثلاً) على الفرضية التطورية عند باس لم يُراجَع هنا من مصدر أولي."
 ---

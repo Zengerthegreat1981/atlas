@@ -11,7 +11,7 @@ language: "الفرنسية"
 active_start: 1784
 active_end: 1825
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← ماركيز دي بويزيغور"
+crumb: "الماسمرية (Mesmerism) ← الناس ← ماركيز دي بويزيغور"
 edges:
 - rel: "belongs_to", target: "tec-mesmerism-historical", target_type: "تقنية"
 related:

@@ -10,12 +10,13 @@ crumb: "الفلسفة الوجودية الدينية ← الاستعارات 
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-kierkegaardian", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism-religious", target_type: "مدرسة"
 related:
 - id: "sch-kierkegaardian", title: "الكيركغاردية (الوجودية المبكرة الدينية)", type: "مدرسة"
 - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
 - id: "wrk-kierkegaard-fear-and-trembling", title: "كتاب خوف ورعدة لسورين كيركغارد (1843)", type: "عمل / كتاب"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-kierkegaardian` ختماً قالبياً، ونُقل إلى `sch-existentialism-religious` بحسب المجال المُصحَّح في مسار التنقّل («الفلسفة الوجودية الدينية»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
   - "الترجمة الإنجليزية الشائعة leap of faith قد تختصر وتُسطّح كلمة Spring الدنماركية عند كيركغارد نفسه، وهذا فرق يحتاج تتبعاً نصياً أدق داخل الأطلس."
 ---
 # قفزة الإيمان لكيركغارد: استعارة الانتقال الوجودي فوق سبعين ألف قامة

@@ -5,7 +5,7 @@ type: "مفكر"
 level: "متقدم"
 title: "ناي يونسكو"
 en: "Nae Ionescu"
-crumb: "المدرسة الوجودية ← الناس ← ناي يونسكو"
+crumb: "الفلسفة الوجودية ← الناس ← ناي يونسكو"
 dates: "رومانيا · 1890–1940"
 active_start: 1930
 active_end: 1940
@@ -13,13 +13,15 @@ country: "رومانيا"
 language: "الرومانية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "thk-cioran", title: "إميل سيوران", type: "مفكر"
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية", type: "خبرة معيشة"
 - id: "con-absurd", title: "العبث", type: "مفهوم"
 - id: "thk-ionesco", title: "أوجين يونسكو", type: "مفكر"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-existentialism` بحسب المجال المُصحَّح في مسار التنقّل («الفلسفة الوجودية»). ومدخلٌ فلسفيٌّ لا ينتمي إلى مدرسةِ علاجٍ نفسيٍّ إكلينيكي."
+  - "**صُحِّح مسار التنقّل 2026-09-08:** كان الجزء الأول «المدرسة الوجودية» ختماً قالبياً؛ واستُبدل بـ«الفلسفة الوجودية». المصدر: وجودي مُدقَّق — الجيرةُ وجودية، ودُقِّق الوسمُ بحسب part. ولم يُشتقَّ من `belongs_to` لأنّ الحقلَ في هذا الحشد مختومٌ آلياً على «الوجودية العلاجية» حتى لمدخلاتٍ فلسفيةٍ تسبق الوجودية بقرون."
   - "الترجمة العربية لاسمه (ناي يونسكو أو ناي يونِسكو) اجتهادية."
   - "نشرته الكاملة: Curs de metafizică, Opere I, II, III, IV (منشورة في السبعينيات)."
   - "علاقته بحركة حرس الحديد (Iron Guard) موضع خلاف تاريخي."

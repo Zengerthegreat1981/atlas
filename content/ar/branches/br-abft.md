@@ -14,7 +14,6 @@ part: "psychology"
 related:
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
-- id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
 gaps:
   - "تاريخ التطوير في جامعة Clark يستحق مصدراً."
   - "الفرق بين ABFT و EFT للمراهقين (ودور Levy) يستحق توثيقاً."

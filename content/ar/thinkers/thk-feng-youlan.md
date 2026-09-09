@@ -12,7 +12,7 @@ language: "الصينية (ماندارين)"
 active_start: 1923
 active_end: 1990
 active_source: "lifespan"
-crumb: "الأطلس ← thinkers ← فنغ يو-لان (الفلسوف المؤسِّس للنيوكونفوشية الحديثة)"
+crumb: "الكونفوشية الجديدة (مظلة) ← الناس ← فنغ يو-لان (الفلسوف المؤسِّس للنيوكونفوشية الحديثة)"
 edges:
 - rel: "belongs_to", target: "sch-neoconfucianism", target_type: "مدرسة"
 related:

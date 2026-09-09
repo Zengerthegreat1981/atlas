@@ -13,7 +13,7 @@ active_start: 1980
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "sch-ericksonian-hypnosis", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-ericksonian-hypnotherapy", target_type: "مدرسة"
 related:
 - id: "thk-merickson", title: "ميلتون إريكسون", type: "مفكر"
 - id: "con-utilization-principle", title: "مبدأ الاستفادة", type: "مفهوم"

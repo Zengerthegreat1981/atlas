@@ -6,7 +6,7 @@ level: "مبتدئ"
 title: "ركاب الحافلة: استعارة الذات والأفكار في علاج القبول والالتزام"
 en: "Passengers on the Bus: The ACT Metaphor for Self and Internal Experiences"
 crumb: "علاج القبول والالتزام (ACT) ← الاستعارات المؤسِّسة ← ركاب الحافلة"
-part: "philosophy"
+part: "psychology"
 active_start: null
 active_end: "مستمر"
 edges:
@@ -18,6 +18,7 @@ related:
 - id: "tec-cbt-cog-thought-defusion", title: "الانفصال عن الأفكار (Defusion)", type: "تقنية/تدخل علاجي"
 - id: "rel-act", title: "القبول والالتزام — الجار المحرِج", type: "علاقة بين مدرستين"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `sch-act` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "لم تُحدَّد بعد الصفحة أو الفصل الدقيق في طبعة 1999 الذي يتضمن أول صياغة كاملة للسكريبت."
 ---
 

@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1985
 active_end: "مستمر"
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← برنت أتكينسون"
+crumb: "الناس ← برنت أتكينسون"
 edges: []
 related:
 - id: "thk-dwile", title: "دانيال وايل", type: "مفكر"

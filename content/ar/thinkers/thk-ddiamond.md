@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 2000
 active_end: "مستمر"
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← دانيال دايموند"
+crumb: "العلاج الأسري المرتكز على التعلق (ABFT) ← الناس ← دانيال دايموند"
 edges:
 - rel: "belongs_to", target: "br-abft", target_type: "تيار"
 related:

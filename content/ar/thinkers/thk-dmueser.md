@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1985
 active_end: "مستمر"
 part: "psychology"
-crumb: "الأطلس ← thinkers ← كيم ميوزر"
+crumb: "التثقيف النفسي ← الناس ← كيم ميوزر"
 edges:
 - rel: "belongs_to", target: "br-psychoeducation", target_type: "تيار"
 related:

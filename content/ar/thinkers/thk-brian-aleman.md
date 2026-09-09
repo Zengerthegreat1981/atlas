@@ -6,7 +6,7 @@ level: "متقدم"
 title: "براين ألمان"
 en: "Brian M. Alman"
 crumb: "التنويم العلاجي التكاملي ← تأسيس ← براين ألمان"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1985

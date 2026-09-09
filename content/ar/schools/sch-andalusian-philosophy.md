@@ -15,14 +15,17 @@ active_start: 1050
 active_end: 1300
 edges:
 - rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مظلة"
-- rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مظلة"
 related:
 - id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
 - id: "sch-wahdat-alwujud", title: "العرفان النظري (وحدة الوجود)", type: "مدرسة"
 - id: "thk-ibn-rushd", title: "أبو الوليد محمد بن أحمد بن رشد (الشارح الأكبر)", type: "مفكر"
 - id: "thk-ibn-tufayl", title: "أبو بكر محمد بن عبد الملك بن طفيل", type: "مفكر"
 - id: "con-occasionalism-ashari", title: "العناية الإلهية (العرضية عند الأشعري)", type: "مفهوم"
+- id: "evt-expulsion-of-jews-and-muslims-spain-1492", title: "سقوط غرناطة وطرد المسلمين واليهود من الأندلس (1492 م)", type: "حدث تاريخي"
+- id: "thk-ibn-hazm", title: "أبو محمد علي بن أحمد بن حزم الأندلسي", type: "مفكر"
 gaps:
+  - "**حُذف حرفُ انتماءٍ مكرَّر 2026-09-08:** كان `edges` يحمل البندَ `belongs_to` نفسَه مرّتين حرفياً."
+  - "**رُبطت عقدٌ معزولة 2026-09-08 بخريطةٍ محقَّقةٍ يدوياً:** `evt-expulsion-of-jews-and-muslims-spain-1492` (نهايةُ الحضور الأندلسي)، `thk-ibn-hazm` (من أعلام الأندلس). وهذه الملفاتُ كان `related` فيها حشوَ «الأصالة» وحده فحُذف، فبقيت بلا رابطٍ وارد؛ ولم يكن في المستودع تسويغٌ آليٌّ لربطها، فرُبطت بحكمٍ تحريريٍّ مقصورٍ على العلاقات البيّنة."
   - "مصير كثير من فلاسفة الأندلس بعد سقوط المدن (قرطبة 1236، إشبيلية 1248) يحتاج توثيقاً."
   - "اقتباس مباشر موثوق من «تهافت التهافت» لم يُدرج بعد ويحتاج مراجعة."
 ---

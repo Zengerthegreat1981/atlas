@@ -14,7 +14,7 @@ edges:
 related:
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
-- id: "crt-critique-of-act-dbt", title: "نقد ACT وَ DBT: مَفَاهِيم «**الْمَوْجَة الثَّالِثَة**» كَانْتِهَازِيَّة", type: "نقد خارجي موثَّق"
+- id: "crt-critique-of-act-dbt", title: "نقد ACT و DBT: مفاهيم «الموجة الثالثة» كانتهازية", type: "نقد خارجي موثق"
 gaps:
   - "لم تُراجع من نسخة أصلية مباشرة لمقال Hofmann & Asmundson (2008) بعد."
   - "رد هايز التفصيلي على مراجعة أوست (2008) لم يُدرج."

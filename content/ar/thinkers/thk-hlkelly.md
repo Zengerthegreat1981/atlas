@@ -11,12 +11,13 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1980
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-imago", target_type: "مدرسة"
 related:
 - id: "thk-hhendrix", title: "هارفيل هندريكس", type: "مفكر"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `sch-imago` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "⚠️ **ازدواج ملف مؤكَّد**: تحقّقتُ وهذا الملف (thk-hlkelly) يصف الشخص نفسه تماماً الذي يصفه `content/ar/thinkers/thk-helen-lakelly-hunt.md` — نفس الاسم (Helen LaKelly Hunt)، نفس تاريخ الميلاد (1949)، نفس الزواج من هارفيل هندريكس ونفس مسار تأسيس علاج إيماغو، ونفس قائمة الأعمال تقريباً (Faith and Feminism 2004، And the Spirit Moved Them 2017، إلخ). هذا الازدواج موثَّق سابقاً في ملف thk-helen-lakelly-hunt.md نفسه (بالإشارة إلى Task 3.18، 2026-08-27). لم أدمج/أحذف أياً من الملفين — القرار متروك للمنسّق/رئيس التحرير."
   - "سنة الميلاد (1949) مؤكَّدة تقريبياً من مصادر ثانوية عامة (Wikipedia) لكن دون إسناد أوّلي مباشر (شهادة ميلاد أو سيرة موثّقة رسمياً)."
   - "التعليم: بحسب مصادر مستقلة (صفحة SMU وWikipedia)، تحمل هانت درجات من Southern Methodist University (BA وMLA وMA in Counseling) ودكتوراه من Union Theological Seminary (2004) — تفاصيل التعليم غير مذكورة في هذا الملف أصلاً فلا تعارض، لكن يُنصَح بإضافتها عند أي تحديث لاحق ليتطابق مع الملف الآخر."

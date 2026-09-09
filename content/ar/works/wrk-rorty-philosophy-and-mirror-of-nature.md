@@ -5,8 +5,8 @@ type: "عمل / كتاب"
 level: "متقدم"
 title: "الفلسفة ومرآة الطبيعة"
 en: "Philosophy and the Mirror of Nature (Rorty, 1979)"
-crumb: "المدرسة الوجودية ← الأعمال ← الفلسفة ومرآة الطبيعة (ريتشارد رورتي)"
-part: "psychology"
+crumb: "البراغماتية ← الأعمال ← الفلسفة ومرآة الطبيعة (ريتشارد رورتي)"
+part: "philosophy"
 active_start: 1979
 active_end: 1979
 author: "ريتشارد رورتي"
@@ -14,15 +14,18 @@ author_slug: "thk-rorty"
 publication_year: 1979
 original_language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-pragmatism-classical", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-rorty", target_type: "مفكر"
 related:
 - id: "thk-rorty", title: "ريتشارد رورتي", type: "مفكر"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
 - id: "thk-dewey", title: "جون ديوي", type: "مفكر"
-- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «psychology» وصار «philosophy» اتّساقاً مع أشقّائه تحت `sch-pragmatism-classical` (وأغلبيتُهم «philosophy» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-pragmatism-classical` بحسب المجال المُصحَّح في مسار التنقّل («البراغماتية»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
+  - "**صُحِّح مسار التنقّل 2026-09-08:** كان الجزء الأول «المدرسة الوجودية» ختماً قالبياً، واستُبدل بـ«البراغماتية» — نصُّ رورتي البراغماتي."
+  - "**حُذف رابطٌ مُقحَم 2026-09-08:** كان `related` يحمل `con-authenticity` («الأصالة») حشواً من دفعةٍ قالبية، ولا يُذكَر المفهومُ في متن هذا الملف ولا صلةَ له بموضوعه."
   - "لهذا العمل ملفّ ثانٍ في الأطلس هو wrk-philosophy-mirror-nature؛ الملفان يتناولان نفس الكتاب ولم يُدمَجا."
   - "تصنيف الكتاب ضمن مدرسة 'الوجودية العلاجية' علاقة بعيدة: رورتي فيلسوف تحليلي-براغماتي لا معالِج وجودي، وربط الكتاب بهذه المدرسة هنا موروث في التصنيف لا موثَّق في نصّ الكتاب نفسه."
   - "لم يثبت وجود ترجمة عربية منشورة لهذا العمل: بُحث عن مترجم وناشر وسنة ولم يُعثر على أيٍّ منها."

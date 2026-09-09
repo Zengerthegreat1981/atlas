@@ -11,12 +11,13 @@ language: "الإنجليزية"
 active_start: 1970
 active_end: "مستمر"
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← راندي هوتون"
+crumb: "العلاج البدائي / صرخة الولادة ← الناس ← راندي هوتون"
 edges:
 - rel: "belongs_to", target: "br-primal-therapy", target_type: "تيار"
 related:
 - id: "thk-ajanov", title: "آرثر يانوف", type: "مفكر"
-- id: "thk-jgrogan", type: "مفكر", title: "جينيفر بيكر-فلينت"
+gaps:
+  - "إحالة معلَّقة أُزيلت: «جينيفر بيكر-فلينت» (thk-jgrogan) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
 ---
 
 gaps:

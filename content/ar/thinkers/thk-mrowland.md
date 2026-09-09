@@ -11,15 +11,15 @@ language: "الإنجليزية"
 active_start: 2000
 active_end: "مستمر"
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← ميليسا رولاند"
+crumb: "العلاج متعدد الأنظمة (MST) ← الناس ← ميليسا رولاند"
 edges:
 - rel: "belongs_to", target: "tec-multisystemic-therapy", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-shenggeler", title: "سكوت هِنغلَر", type: "مفكر"
 - id: "thk-cborduin", title: "تشارلز بوردوين", type: "مفكر"
 - id: "thk-sschoenwald", title: "سونيا ك. شونوالد", type: "مفكر"
-- id: "thk-apickrel", type: "مفكر", title: "أماندا بِيكرل"
 gaps:
+  - "إحالة معلَّقة أُزيلت: «أماندا بِيكرل» (thk-apickrel) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
   - "سنة الميلاد غير منشورة."
   - "نسبة 'Melisa D. Rowland' إلى برامج MST-SUD موثّقة جزئياً في وثائق MST Institute."
   - "التفاصيل الكاملة للدراسات العشوائية على MST-SUD (2005+) موثّقة جزئياً."

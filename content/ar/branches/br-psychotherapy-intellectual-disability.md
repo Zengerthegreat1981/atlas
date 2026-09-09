@@ -14,9 +14,8 @@ part: "psychology"
 edges:
 related:
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
-- id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
-- id: "br-sikolohiyang-pilipino", title: "علم النفس الفلبيني الأصيل (إنريكيز)", type: "تيار"
 gaps:
+  - "**حُذف رابطٌ مُقحَم 2026-09-08:** كان `related` يحمل `br-sikolohiyang-pilipino` (علم النفس الفلبيني الأصيل) بلا أيِّ مسوّغ — ولا يُذكَر الفلبينُ ولا إنريكيز ولا «kapwa» في متن هذا الملفّ. وهو من دفعةٍ قالبيةٍ رُصد هدفُها الأوّل من قبل وأُغفل هذا."
   - "تاريخ تكيّف CBT مع الإعاقة الذهنية (Bhaumik, Branford) يستحق توثيقاً."
   - "الفرق بين 'cognitive-behavioral' و'psychodynamic' للإعاقة الذهنية يستحق توضيحاً."
 ---

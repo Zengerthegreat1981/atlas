@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1910
 active_end: 1950
 part: "psychology"
-crumb: "الأطلس ← thinkers ← سري أوروبندو"
+crumb: "فلسفة أوروبندو (اليوغا التكاملية) ← الناس ← سري أوروبندو"
 edges:
 - rel: "belongs_to", target: "sch-aurobindo", target_type: "مدرسة"
 related:

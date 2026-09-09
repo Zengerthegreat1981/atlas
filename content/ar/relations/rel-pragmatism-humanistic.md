@@ -26,7 +26,7 @@ gaps:
 
 # البراغماتية الأمريكية وعلم النفس الإنساني: من وليم جيمس إلى روجرز
 
-واحدة من أعمق علاقات الانتقال الفلسفي إلى علم النفس في **السياق الأمريكي**. **وليام جيمس** (1842-1910) — أب البراغماتية الفلسفية ومؤسس علم النفس الأمريكي — مهّد لـ**علم النفس الوظيفي** (Functionalism)، الذي مهّد لـ**علم النفس الإنساني** (Humanistic Psychology) عند روجرز وماسلو. سلسلة: **جيمس → Dewey → Angell → Tolman → Rogers → Maslow**.
+واحدة من أعمق علاقات الانتقال الفلسفي إلى علم النفس في **السياق الأمريكي**. **وليام جيمس** (1842-1910) — أب البراغماتية الفلسفية ومؤسس علم النفس الأمريكي — مهّد لـعلم النفس الوظيفي** (Functionalism)، الذي مهّد لـعلم النفس الإنساني** (Humanistic Psychology) عند روجرز وماسلو. سلسلة: **جيمس → Dewey → Angell → Tolman → Rogers → Maslow**.
 
 ## السياق الفلسفي: البراغماتية
 
@@ -89,7 +89,7 @@ gaps:
 
 ## الجسور في علم النفس الاجتماعي
 
-**جوردون أولبورت** (Gordon Allport، 1897-1967) في *Personality: A Psychological Interpretation* (1937) قارن بين **علم النفس الوظيفي** (Chicago) و**التحليل النفسي** (Vienna) و**البراغماتية** (Harvard). أصرّ على أن «الشخص» (Person) كيان **متماسك وقيم**، قابل للدراسة علمية.
+**جوردون أولبورت** (Gordon Allport، 1897-1967) في *Personality: A Psychological Interpretation* (1937) قارن بين **علم النفس الوظيفي** (Chicago) و**التحليل النفسي** (Vienna) و**البراغماتية** (Harvard). أصرّ على أن «الشخص» كيان **متماسك وقيم**، قابل للدراسة علمية.
 
 **فروم** (Fromm، 1900-1980) في *Escape from Freedom* (1941) و*Man for Himself* (1947) ربط بين:
 - **الماركسية** (نقد الاستغلال).
@@ -116,7 +116,7 @@ gaps:
 - **Taylor, E. (1996)**: *William James on Consciousness Beyond the Margin*، يربط جيمس بماسلو.
 - **Garrison, J. (1995)**: *Dewey, James, and the Logic of Inquiry*، يربط ديوي بأبحاث علم النفس الإنساني.
 - **Colapietro, V. (1993)**: *Peirce's Approach to the Self*، قارن Peirce بـ Rogers.
-- **West, C. (1989): *The American Evasion of Philosophy*، فصل عن جيمس وعلم النفس الإنساني.
+- West, C. (1989): *The American Evasion of Philosophy*، فصل عن جيمس وعلم النفس الإنساني.
 - **Rorty, A. O. (Ed.). (1982)**: *Explaining Emotions*، جيمس وفلسفة الانفعالات.
 
 ## الاختلافات الجوهرية

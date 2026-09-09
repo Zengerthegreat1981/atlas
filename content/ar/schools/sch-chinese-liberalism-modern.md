@@ -22,7 +22,9 @@ related:
 - id: "con-chinese-verification-ism", title: "الشك المنهجي (Doubting-ism / 怀疑主义)", type: "مفهوم"
 - id: "wrk-outline-chinese-philosophy", title: "مخطط تاريخ الفلسفة الصينية (Outline of the History of Chinese Philosophy)", type: "عمل / كتاب"
 - id: "dbt-hu-shi-vs-liang-shuming", title: "هو شي ضد ليانغ شومنغ: عولمة أم هوية كونفوشية؟", type: "جدل"
+- id: "thk-yan-fu", title: "يان فو (مُحدِّث الصين ومُترجم الفلسفة الغربية)", type: "مفكر"
 gaps:
+  - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "نصوص Hu Shih, Liang Qichao, Hu Shi, Liang Shuming need review."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---

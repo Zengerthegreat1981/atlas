@@ -12,7 +12,7 @@ language: "الإنجليزية، التاميلية، السنسكريتية"
 active_start: 1918
 active_end: 1975
 active_source: "lifespan"
-crumb: "الأطلس ← thinkers ← سرافيتي رادهاكريشنان (نيو-فيدانتا / فيلسوف عالمي)"
+crumb: "نيو-فيدانتا (الفيدانتا الحديثة) ← الناس ← سرافيتي رادهاكريشنان (نيو-فيدانتا / فيلسوف عالمي)"
 edges:
 - rel: "belongs_to", target: "sch-neo-vedanta", target_type: "مدرسة"
 related:

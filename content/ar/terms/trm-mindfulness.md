@@ -10,7 +10,7 @@ crumb: "العلاج باليقظة الذهنية ← المصطلحات ← ا
 active_start: 1979
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "sch-clinical-mindfulness", target_type: "مدرسة"
+- rel: "relates_to", target: "اليقظة الذهنية الإكلينيكية", target_type: "مدرسة"
 related:
 - id: "thk-buddha", title: "بوذا (سيدهارتا غوتاما)", type: "مفكر"
 gaps:
@@ -22,21 +22,31 @@ gaps:
   - "الفرق بين 'اليقظة' و'التأمل' (Meditation) و'التركيز' (Concentration) في البوذية يحتاج فصلاً."
   - "الفرق بين 'اليقظة' و'التأمل الذاتي' (Reflection) في علم النفس المعرفي يحتاج توثيقاً."
 ---
-# اليَقَظَة الذِّهْنِيَّة (Mindfulness)
+# اليقظة الذهنية (Mindfulness)
 
-«**انْتِبَاه**» (Attention) «**مُتَعَمَّد**» (Intentional) لِـ**اللَّحْظَة الحَالِيَّة** (Present Moment) بِـ**«مَوْقِف غَيْر تَقْوِيميّ**» (Non-Judgmental Attitude). مَصْطَلَح مُسْتَوْرَد مِن «**السَّتِي**» (Sati) البُوذِيَّة، وَوَضَعَه جُون كابات-زين (Jon Kabat-Zinn) فِي 1979 كَـ**مُكَوِّن** لِـ**«**نَظَام التَّخْفِيض مِن الإجْهَاد القَائِم عَلَى اليَقَظَة**» (MBSR)** فِي «**مَرْكَز الطِّبّ**» (University of Massachusetts Medical School).
+انتباه متعمد لـ**اللحظة الحالية** (Present Moment) ب**«موقف غير تقويمي». مصطلح مستورد من الستي البوذية، ووضعه جون كابات-زين (Jon Kabat-Zinn) في 1979 كـ**مكون** لـ«نظام التخفيض من الإجهاد القائم على اليقظة» (MBSR)** في «مركز الطب» (University of Massachusetts Medical School).
 
-## المَكَوِّنَات
+## المكونات
 
-(1) **الانْتِبَاه** (Attention): «**مُتَعَمَّد**» (Intentional) لِـ**اللَّحْظَة الحَالِيَّة** (Present Moment). (2) **اللَّحْظَة الحَالِيَّة** (Present Moment): «**الآن**» (Now) — لَا «**مَاضٍ**» (Past) وَلَا «**مُسْتَقْبَل**» (Future). (3) **غَيْر تَقْوِيمِيّ** (Non-Judgmental): «**مُلاحَظَة**» (Observe) بِـ**«دُون** تَصْنِيف** (Without Categorization) «**جَيِّد/سَيِّئ**». (4) **غَيْر مُتَفَاعِل** (Non-Reactive): «**مُلاحَظَة**» بِـ**«دُون** رَدّ فِعْل** (Without Reaction) «**تَلقائيّ**». (5) **وَاعٍ** (Aware): «**مَلِمّ**» (Cognizant) بِـ**«مَا** يَحْدُث** (What is Happening).
+- **الانتباه** (Attention): «متعمد» لـ**اللحظة الحالية** (Present Moment).
+- **اللحظة الحالية** (Present Moment): الآن — لا ماض ولا مستقبل.
+- غير تقويمي (Non-Judgmental): ملاحظة بدون تصنيف (Without Categorization) جيد/سيئ.
+- غير متفاعل (Non-Reactive): ملاحظة بدون رد فعل (Without Reaction) تلقائي.
+- واع (Aware): ملم بما يحدث (What is Happening).
 
-## التَّطبيقات
+## التطبيقات
 
-(1) **MBSR** (Mindfulness-Based Stress Reduction، Kabat-Zinn، 1979): «**يُساعد**» مَع «**إجْهَاد**»، «**أَلَم مُزْمِن**»، «**مَرَض**». (2) **MBCT** (Mindfulness-Based Cognitive Therapy، Segal، Williams، Teasdale، 2002): «**وِقَايَة**» مِن «**انْكِسَار الاكْتِئَاب**» (Depression Relapse). (3) **ACT** (Acceptance and Commitment Therapy، Hayes، 2004): «**تَفَكُّك**» (Defusion) عَن «**أَفْكار**». (4) **DBT** (Dialectical Behavior Therapy، Linehan، 1993): «**مَهَارَة**» (Skill) لِـ**«**اضْطِراب الشَّخْصِيَّة الحَدِّيَّة**» (BPD). (5) **MBE** (Mindfulness-Based Exposure، 2010): لِـ**«**اضْطِرَاب مَا بَعْد الصَّدْمَة**» (PTSD).
+- **MBSR** (Mindfulness-Based Stress Reduction، Kabat-Zinn، 1979): يساعد مع إجهاد، «ألم مزمن»، مرض.
+- **MBCT** (Mindfulness-Based Cognitive Therapy، Segal، Williams، Teasdale، 2002): «وقاية» من «انكسار الاكتئاب».
+- **ACT** (Acceptance and Commitment Therapy، Hayes، 2004): «تفكك» عن «أفكار».
+- **DBT** (Dialectical Behavior Therapy، Linehan، 1993): «مهارة» لـ«اضطراب الشخصية الحدية».
+- **MBE** (Mindfulness-Based Exposure، 2010): لـ«اضطراب ما بعد الصدمة».
 
-## الفَرق عَن «التَّأَمُّل» و«التَّركِيز»
+## الفرق عن «التأمل» و«التركيز»
 
-(1) **اليَقَظَة** (Mindfulness): «**انْتِبَاه مَفْتوح**» (Open Monitoring) — «**مُلاحَظَة**» «**كُلّ**» مَا يَظْهَر. (2) **التَّركِيز** (Concentration، Samadhi): «**انْتِبَاه مُوَجَّه**» (Focused Attention) — عَلَى «**مَوْضُوع وَاحِد**». (3) **التَّأَمُّل** (Meditation): «**عَمَلِيَّة**» (Practice) «**شَامِلَة**» (Comprehensive) تَشْمَل «**كُلَيْهِمَا**».
+- **اليقظة** (Mindfulness): «انتباه مفتوح» — «ملاحظة» «كل» ما يظهر.
+- **التركيز** (Concentration، Samadhi): «انتباه موجه» — على «موضوع واحد».
+- **التأمل** (Meditation): عملية شاملة تشمل كليهما.
 
 ## المصادر
 

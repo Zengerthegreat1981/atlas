@@ -10,13 +10,14 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1970
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 crumb: "العلاج الأسري البنيوي ← شخص المعالج ← هاري أبونت"
 edges:
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
 - id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `sch-systemic-family` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "سنة الميلاد 1934 في الـfrontmatter بلا سند منشور في المادة المتاحة، ولا يوجد شهر ولا مكان ميلاد."
   - "لا اقتباس مثبت هنا: *Bread & Spirit* (1994) و*The Person of the Therapist Training Model* (2016) لم يُترجَما إلى العربية، فلا صفحة عربية يُحال إليها."
   - "نتائج قياس أثر تدريب POTT (هل خُضع لتقييم مضبوط؟ وبأي مقياس؟) غير متاحة في المادة المستعملة هنا."

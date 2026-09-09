@@ -13,10 +13,9 @@ edges:
 - rel: "belongs_to", target: "sch-ifs", target_type: "مدرسة"
 related:
 - id: "tec-ifs-parts-mapping", title: "تخطيط الأجزاء (Parts Mapping) في IFS", type: "تقنية/تدخل علاجي"
-- id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
-- id: "br-sikolohiyang-pilipino", title: "علم النفس الفلبيني الأصيل (إنريكيز)", type: "تيار"
 - id: "thk-richard-schwartz", title: "ريتشارد شوارتز", type: "مفكر"
 gaps:
+  - "**حُذف رابطٌ مُقحَم 2026-09-08:** كان `related` يحمل `br-sikolohiyang-pilipino` (علم النفس الفلبيني الأصيل) بلا أيِّ مسوّغ — ولا يُذكَر الفلبينُ ولا إنريكيز ولا «kapwa» في متن هذا الملفّ. وهو من دفعةٍ قالبيةٍ رُصد هدفُها الأوّل من قبل وأُغفل هذا."
   - "رابط مقترح لم يتحقق بعد في الأطلس: نظام الأسرة الداخلية (IFS) (con-ifs)"
   - "نتائج التجارب السريرية العشوائية على IFS محدودة نسبياً."
 ---

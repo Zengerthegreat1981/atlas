@@ -13,12 +13,13 @@ active_start: 1955
 active_end: 2004
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 - id: "thk-donbaer", title: "دونالد م. باير", type: "مفكر"
 - id: "thk-cferster", title: "تشارلز فيرستر", type: "مفكر"
 gaps:
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-cbt` — وهو **ملفُّ إحالةٍ** لا مدرسة (صار إحالةً في دفعة دمجٍ سابقة ولم تُنقَل الأنسابُ الواردةُ إليه)، فنُقل إلى البديل المعتمد `sch-cognitive-behavioral`."
   - "تفاصيل مشروع «Human Operant Lab» في Kansas (تواريخ محددة للتجارب والمشاركين) — موضع بحث."
 ---
 

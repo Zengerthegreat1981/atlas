@@ -10,7 +10,7 @@ dates: "1962 · توماس كون"
 language: "الإنجليزية"
 active_start: 1962
 active_end: 1962
-part: "psychology"
+part: "philosophy"
 author: "توماس صامويل كوهن"
 author_slug: "thk-thomas-kuhn"
 publication_year: 1962
@@ -27,6 +27,7 @@ related:
 - id: "thk-imre-lakatos", title: "إيمري لاكاتوش", type: "مفكر"
 - id: "thk-pfeyerabend", title: "بول فايرابند", type: "مفكر"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «psychology» وصار «philosophy» اتّساقاً مع أشقّائه تحت `sch-phil-science` (وأغلبيتُهم «philosophy» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "تتداول ترجمات عربية لهذا العمل، لكن لم يتيسّر تثبيت ثلاثيّ المترجم والناشر والسنة لأيٍّ منها، فلم تُسمَّ أيّ ترجمة هنا."
   - "لا يوجد اقتباس مباشر موثوق من *The Structure of Scientific Revolutions* (1962) بترجمة عربية معتمدة، فلم يُقتبس منه هنا."
   - "أطروحة كون في تاريخ العلم قبل 1962 (وبخاصة *The Copernican Revolution*, 1957) وصلتها ببنية الكتاب لم تُراجَع هنا من النصّ نفسه."

@@ -6,7 +6,7 @@ level: "مبتدئ"
 title: "سيغفريد أوتمر"
 en: "Siegfried Othmer"
 crumb: "التغذية الراجعة العصبية ← الناس ← Infra-Low Neurofeedback ← سيغفريد أوتمر"
-dates: "ألمانيا/الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "ألمانيا/الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2003

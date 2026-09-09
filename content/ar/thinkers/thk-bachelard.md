@@ -13,15 +13,16 @@ active_end: 1962
 country: "فرنسا"
 language: "الفرنسية"
 edges:
-- rel: "belongs_to", target: "sch-phenomenology-existential", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
 related:
 - id: "thk-bergson", title: "هنري برغسون", type: "مفكر"
-- id: "thk-canguilhem", title: "جورج كانغيلم", type: "مفكر"
 - id: "thk-louis-althusser", title: "لويس ألتوسير", type: "مفكر"
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
 - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
 - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-phenomenology-existential` ختماً قالبياً، ونُقل إلى `sch-phenomenology` بحسب المجال المُصحَّح في مسار التنقّل («الجسر (فلسفة ↔ علم نفس) / باشلار ظاهراتيُّ الخيال وفيلسوفُ علم، لا ظاهراتياً وجودياً»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
+  - "إحالة معلَّقة أُزيلت: «جورج كانغيلم» (thk-canguilhem) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
 - "سنة الطبعة الأولى للترجمة العربية «جماليات المكان» (غالب هلسا) غير محقَّقة هنا؛ المذكور في المصادر طبعة المؤسسة الجامعية ببيروت بلا تثبيت سنة."
 - "*L'Air et les songes* (1943) و*La Terre et les rêveries de la volonté* (1948) غير مقروءين في هذا الملف، فمحتواهما غائب عن قسم «ما أعطاه»."
 - "لا ترجمة عربية معتمدة محقَّقة لـ*La Formation de l'esprit scientifique* (1938) مسمّاة في هذا الملف — ناقص: اسم المترجم والناشر."

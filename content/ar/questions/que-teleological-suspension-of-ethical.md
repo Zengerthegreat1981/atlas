@@ -10,7 +10,7 @@ crumb: "الفلسفة الأخلاقية والوجودية ← الأسئلة 
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-kierkegaardian", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "sch-kierkegaardian", title: "الكيركغاردية (الوجودية المبكرة الدينية)", type: "مدرسة"
 - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
@@ -18,6 +18,7 @@ related:
 - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
 - id: "thk-levinas", title: "إيمانويل ليفيناس", type: "مفكر"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-kierkegaardian` ختماً قالبياً، ونُقل إلى `sch-existentialism` بحسب المجال المُصحَّح في مسار التنقّل («الفلسفة الأخلاقية والوجودية»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
   - "لم يُراجَع النص الأصلي لـ«نزاع الكليات» (Der Streit der Fakultäten، 1798) لكانط مباشرة؛ الاستشهاد هنا يعتمد على الترجمة الإنجليزية المتداولة في أدبيات الأخلاق الكانطية."
   - "موقف ليفيناس هنا مأخوذ من مقالته «كيركغارد: الوجود والأخلاق» (1963)؛ لم تُراجَع الترجمة العربية إن وُجدت."
 ---

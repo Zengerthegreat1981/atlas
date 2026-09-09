@@ -10,12 +10,13 @@ crumb: "الفلسفة الوجودية وسيكولوجيا الحرية ← م
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-existentialism-atheist", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "sch-existentialism-atheist", title: "الوجودية الملحدة (Atheist Existentialism)", type: "مدرسة"
 - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
 - id: "met-sartre-cafe-waiter-bad-faith", title: "نادل المقهى لسارتر: استعارة سوء النية والتمثيل المسرحي للدور", type: "استعارة/مجاز مؤسِّس"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existentialism-atheist` ختماً قالبياً، ونُقل إلى `sch-existentialism` بحسب المجال المُصحَّح في مسار التنقّل («الفلسفة الوجودية وسيكولوجيا الحرية»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
   - "لا توجد ترجمة عربية كاملة معتمدة ومنشورة لكتاب «الوجود والعدم» (1943) يمكن الاستناد إليها لتثبيت مقابل عربي واحد متفق عليه لعبارة mauvaise foi؛ الترجمات المذكورة هنا اجتهادات متفرقة من كتّاب عرب لا ترجمة كاملة للنص."
 ---
 # سوء النية (Mauvaise foi): خداع الذات والهروب من مسؤولية الحرية

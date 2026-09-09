@@ -8,17 +8,17 @@ en: "Peg Pendry"
 dates: "الولايات المتحدة"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-active_start: "[DRAFT-UNKNOWN]"
+active_start: null
 active_end: "مستمر"
 part: "philosophy"
 crumb: "فرق العكس العاكسة (Reflecting Teams) ← تطوير ← بيغ پيندر"
 edges:
 - rel: "belongs_to", target: "tec-reflecting-teams", target_type: "تقنية/تدخل علاجي"
 related:
-- id: "thk-tandersen", type: "مفكر", title: "توم أندرسن"
-- id: "thk-jelmhurst", type: "مفكر", title: "جاكي إلموهرست"
-- id: "thk-handersen", type: "مفكر", title: "هارجيت أندرسن"
+- id: "thk-tandersen", title: "توم أندرسن", type: "مفكر"
 gaps:
+  - "إحالة معلَّقة أُزيلت: «جاكي إلموهرست» (thk-jelmhurst) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
+  - "إحالة معلَّقة أُزيلت: «هارجيت أندرسن» (thk-handersen) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "لا توجد سيرة ذاتية منشورة لـ 'Peg Pendry' في 'Reflecting Team Network' حتى آب 2026."
   - "الاحتمال: الاسم مُدخل من بيانات ممارسي العلاج الأسري في أمريكا."

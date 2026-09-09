@@ -6,7 +6,7 @@ level: "متوسط"
 title: "خوسيه أرسينيو"
 en: "José Arsenio"
 crumb: "Sikolohiyang Pilipino (Filipino Psychology) ← تطوير ← خوسيه أرسينيو"
-dates: "الفلبين · [DRAFT-UNKNOWN]"
+dates: "الفلبين · [غير مؤكد]"
 country: "الفلبين"
 language: "الفلبينية/الإنجليزية"
 active_start: 2005

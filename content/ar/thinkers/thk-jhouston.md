@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1971
 active_end: 2026
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← جين هيوستن"
+crumb: "الناس ← جين هيوستن"
 edges: []
 related:
 - id: "thk-werhard", title: "ويرنر إيرهارد", type: "مفكر"

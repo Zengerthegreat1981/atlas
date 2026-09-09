@@ -17,9 +17,9 @@ edges:
 related:
 - id: "thk-jayres", title: "جين أَيرس", type: "مفكر"
 - id: "thk-lmiller", title: "لوسي جين ميلر", type: "مفكر"
-- id: "thk-rschaaf", type: "مفكر", title: "روزان شاف"
-- id: "thk-ssmith", type: "مفكر", title: "سارة سميث"
+- id: "thk-rschaaf", title: "روزان شاف", type: "مفكر"
 gaps:
+  - "إحالة معلَّقة أُزيلت: «سارة سميث» (thk-ssmith) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
   - "سنة الميلاد غير منشورة في السيرة الذاتية المتاحة."
   - "لا توجد سيرة ذاتية منشورة لـ 'Zoë Mailloux' في USC (حيث تعمل) قبل 2010."
   - "الاحتمال: الاسم مُدخل من بيانات التواصل الحسي (USC Chan Sensory Integration)."

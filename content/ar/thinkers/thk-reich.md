@@ -11,7 +11,7 @@ language: "الألمانية، الإنجليزية"
 active_start: 1923
 active_end: 1957
 part: "psychology"
-crumb: "الأطلس ← thinkers ← فيلهلم رايخ"
+crumb: "التحليل النفسي (Psychoanalysis) ← الناس ← فيلهلم رايخ"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:

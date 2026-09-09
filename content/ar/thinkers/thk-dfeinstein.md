@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 2000
 active_end: "مستمر"
 part: "psychology"
-crumb: "الأطلس ← thinkers ← ديفيد فاينشتاين"
+crumb: "الناس ← ديفيد فاينشتاين"
 edges: []
 related:
 - id: "thk-rcallahan", title: "روجر كالاهان", type: "مفكر"

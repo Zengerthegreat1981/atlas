@@ -11,16 +11,18 @@ language: "الألمانية/الإنجليزية"
 active_start: 1905
 active_end: 1939
 part: "philosophy"
-crumb: "المدرسة الوجودية ← مؤسِّس ← أوتو رانك"
+crumb: "التحليل النفسي ← مؤسِّس ← أوتو رانك"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-- id: "thk-freud", type: "مفكر", title: "سيغموند فرويد"
-- id: "thk-may", type: "مفكر", title: "رولو ماي"
-- id: "thk-fromm-reichmann", type: "مفكر", title: "فريدا فروم-رايشمان"
-- id: "evt-wednesday-psychological-society-1902", type: "حدث", title: "تأسيس جمعية الأربعاء النفسية"
-- id: "sch-psychoanalysis", type: "مدرسة", title: "التحليل النفسي (Psychoanalysis)"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-may", title: "رولو ماي", type: "مفكر"
+- id: "thk-fromm-reichmann", title: "فريدا فروم-رايشمان", type: "مفكر"
+- id: "evt-wednesday-psychological-society-1902", title: "تأسيس جمعية الأربعاء النفسية", type: "حدث"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-psychoanalysis` بحسب المجال المُصحَّح في مسار التنقّل («التحليل النفسي»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
+  - "**صُحِّح مسار التنقّل 2026-09-08:** كان الجزء الأول «المدرسة الوجودية» ختماً قالبياً؛ واستُبدل بـ«التحليل النفسي». المصدر: جيرة — جيرةُ العقدة تشير إلى sch-psychoanalysis. ولم يُشتقَّ من `belongs_to` لأنّ الحقلَ في هذا الحشد مختومٌ آلياً على «الوجودية العلاجية» حتى لمدخلاتٍ فلسفيةٍ تسبق الوجودية بقرون."
   - "نص 'صدمة الميلاد' (1924) بالعربية متاح جزئياً بترجمة رائدة."
   - "تفاصيل الانشقاق مع فرويد (1926) موثّقة في رسائل فرويد."
   - "لا يوجد ملف مستقل موثَّق حالياً في الأطلس لرودولف أبرت (Rudolf Allers) ولا لأنيتا رانك (Anita Rank) ولا لمترجم إنجليزي بعينه لأعماله، فحُذفت روابطهم من related؛ ذكرهم في المتن نصّي فقط دون رابط."

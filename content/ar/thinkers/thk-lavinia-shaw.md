@@ -6,7 +6,7 @@ level: "متوسط"
 title: "لاڤينيا شو"
 en: "Lavinia Shaw"
 crumb: "طريقة فيلدنكرايس ← تطوير ← لاڤينيا شو"
-dates: "المملكة المتحدة · [DRAFT-UNKNOWN]"
+dates: "المملكة المتحدة · [غير مؤكد]"
 country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 2005

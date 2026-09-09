@@ -6,8 +6,8 @@ level: "متوسط"
 title: "جيمس غومپرت"
 en: "James Gumpert"
 crumb: "العلاج القائم على الأمل (Snyder) ← تطوير ← جيمس غومپرت"
-dates: "[DRAFT-UNKNOWN]"
-country: "[DRAFT-UNKNOWN]"
+dates: "[غير مؤكد]"
+country: "[غير مؤكد]"
 language: "الإنجليزية"
 active_start: null
 active_end: null

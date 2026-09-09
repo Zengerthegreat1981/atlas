@@ -2,7 +2,7 @@
 slug: "thk-isaac-newton"
 id: "THK-2805"
 type: "مفكر"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "إسحاق نيوتن"
 en: "Sir Isaac Newton"
@@ -17,6 +17,7 @@ related:
 - id: "dia-leibniz-clarke-correspondence", title: "مراسلات لايبنتز وكلارك 1715 حول الزمان والمكان والعناية", type: "حوار مع مدرسة مجاورة"
 - id: "ctx-scientific-revolution-17th", title: "الثورة العلمية في القرن السابع عشر والميكانيكية الجديدة", type: "سياق/تقليد"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «psychology» وصار «philosophy» اتّساقاً مع أشقّائه تحت `sch-phil-science` (وأغلبيتُهم «philosophy» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
 ---

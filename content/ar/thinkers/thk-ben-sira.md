@@ -12,7 +12,7 @@ language: "العبرية (الأصل)"
 active_start: -200
 active_end: -175
 active_source: "lifespan"
-crumb: "الأطلس ← thinkers ← يشوع بن سيراخ (ابن سيرا)"
+crumb: "تقليد الحكمة العبرية القديمة ← الناس ← يشوع بن سيراخ (ابن سيرا)"
 edges:
 - rel: "belongs_to", target: "sch-hebrew-wisdom", target_type: "مدرسة"
 related:

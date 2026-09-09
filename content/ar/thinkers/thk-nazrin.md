@@ -18,8 +18,8 @@ related:
 - id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 - id: "thk-rfoxx", title: "ريتشارد فُكْس", type: "مفكر"
 - id: "thk-sbijou", title: "سيدني و. بيجو", type: "مفكر"
-- id: "tec-token-economy", title: "اقتصاد الرموز", type: "تقنية/تدخل علاجي"
 gaps:
+  - "إحالة معلَّقة أُزيلت: «اقتصاد الرموز» (tec-token-economy) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
   - "الـslug 'thk-nazrin' خطأ كتابي لـ'Azrin'."
   - "كتاب 'Token Economy' (1966، مع Holz) من أهم كتب العلاج السلوكي الجماعي."
   - "روابط thk-tholz (ت. هولز) وthk-vburr (فيرن بَرّ) وcon-cra وcon-toilet-training حُذفت — لا ملفات مستقلة لها في الأطلس بعد رغم ذكرها في المتن."

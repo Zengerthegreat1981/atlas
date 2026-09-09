@@ -10,7 +10,7 @@ dates: "المملكة المتحدة / نيوزيلندا · وُلدت 1940"
 country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1974
-active_end: "[DRAFT-UNKNOWN]"
+active_end: null
 part: "philosophy"
 edges:
 - rel: "belongs_to", target: "con-feminist-psychoanalysis", target_type: "مفهوم"

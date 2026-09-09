@@ -19,7 +19,9 @@ related:
 - id: "sch-interculturalidad", title: "فلسفة العبور الثقافي", type: "مدرسة"
 - id: "sch-indigenismo", title: "الإنديجينيزمو", type: "مدرسة"
 - id: "sch-decolonial-latin", title: "الفلسفة الديكولونيالية اللاتينية", type: "مدرسة"
+- id: "con-buen-vivir-sumak-kawsay", title: "العيش الكريم المتناغم (Buen Vivir / Sumak Kawsay)", type: "مفهوم"
 gaps:
+  - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "نصوص Alberto Acosta, Eduardo Gudynas, Javier Medina, Satya Chávez need review."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---

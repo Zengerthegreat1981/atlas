@@ -17,7 +17,6 @@ edges:
 related:
 - id: "thk-ajanov", title: "آرثر يانوف", type: "مفكر"
 - id: "con-primal-pain", title: "الألم البدائي", type: "مفهوم"
-- id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
 gaps:
   - "تاريخ انحسار الحركة (1980s) لم يُوثّق بدقة كافية."
   - "ادعاءات يانوف حول نسبة النجاح لم تُحقق تجريبياً."

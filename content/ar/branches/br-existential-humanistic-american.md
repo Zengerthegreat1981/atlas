@@ -13,7 +13,7 @@ active_end: "مستمر"
 language: "الإنجليزية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-schneider", target_type: "مفكر"
 - rel: "developed_by", target: "thk-ecraig", target_type: "مفكر"
 related:
@@ -24,6 +24,7 @@ related:
 - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-humanistic` بحسب المجال المُصحَّح في مسار التنقّل («الإنسانية»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
   - "التفاصيل الكاملة لخلاف شنايدر مع يالوم حول 'التعددية' مقابل 'اللاتعددية' (Pluralism vs. Monism) في العلاج."
   - "تاريخ بدء الحركة رسمياً (1985 تقريبي) يحتاج تحقق."
 ---

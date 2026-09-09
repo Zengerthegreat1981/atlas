@@ -6,7 +6,7 @@ level: "متوسط"
 title: "دبرا كريمر"
 en: "Deborah K. Kremer"
 crumb: "العلاج بالتصوير الضوئي (PhotoTherapy) ← تطوير ← دبرا كريمر"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2015

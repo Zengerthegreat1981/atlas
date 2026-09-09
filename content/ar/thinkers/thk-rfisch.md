@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1960
 active_end: 2011
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← ريتشارد فيش"
+crumb: "العلاج القصير الاستراتيجي ← الناس ← ريتشارد فيش"
 edges:
 - rel: "belongs_to", target: "br-brief-strategic-therapy", target_type: "مدرسة"
 related:

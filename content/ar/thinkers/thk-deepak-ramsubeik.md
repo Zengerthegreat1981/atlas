@@ -6,7 +6,7 @@ level: "متقدم"
 title: "ديپاك رامسوبك"
 en: "Deepak Ramsubick"
 crumb: "علم النفس الفيدي (المستند إلى الفيد) ← تطوير ← ديپاك رامسوبك"
-dates: "الهند · [DRAFT-UNKNOWN]"
+dates: "الهند · [غير مؤكد]"
 country: "الهند"
 language: "الإنجليزية/السنسكريتية"
 active_start: 1980

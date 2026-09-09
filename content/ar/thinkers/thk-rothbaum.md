@@ -6,14 +6,14 @@ level: "متوسط"
 title: "باربارا أولسبي روثباوم"
 en: "Barbara Olasov Rothbaum"
 crumb: "المعرفية السلوكية ← الناس ← باربارا روثباوم"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "tec-prolonged-exposure", title: "التعرض المطوّل (PE)", type: "تقنية/تدخل علاجي"
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
@@ -21,6 +21,7 @@ related:
 - id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
 - id: "thk-ecker", title: "بروس إيكر", type: "مفكر"
 gaps:
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-cbt` — وهو **ملفُّ إحالةٍ** لا مدرسة (صار إحالةً في دفعة دمجٍ سابقة ولم تُنقَل الأنسابُ الواردةُ إليه)، فنُقل إلى البديل المعتمد `sch-cognitive-behavioral`."
   - "سنة ميلادها الدقيقة لم تُثبَّت في المصادر المتاحة لنا."
   - "تفاصيل زمنية دقيقة (شهر/سنة) لبداية تجربتها الرائدة في Emory University حول الواقع الافتراضي في علاج رهاب المرتفعات غير متاحة لنا."
   - "لم يُعثر على نص اقتباس مباشر منسوب لها بعبارتها الحرفية في المصادر المتاحة لنا."

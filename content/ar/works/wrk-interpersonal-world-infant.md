@@ -16,7 +16,7 @@ active_start: 1985
 active_end: 1985
 part: "psychology"
 edges:
-- rel: "authored_by", target: "thk-daniel-stern", target_type: "مفكر"
+- rel: "authored_by", target: "thk-dstern", target_type: "مفكر"
 related:
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 gaps:

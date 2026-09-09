@@ -11,7 +11,7 @@ language: "الألمانية/الإنجليزية"
 active_start: 1992
 active_end: "مستمر"
 part: "psychology"
-crumb: "الأطلس ← thinkers ← بيتر غَسَر"
+crumb: "العلاج بمساعدة السايكديلية (Psychedelic-Assisted Therapy) ← الناس ← بيتر غَسَر"
 edges:
 - rel: "belongs_to", target: "sch-psychedelic-assisted-therapy", target_type: "مدرسة"
 related:

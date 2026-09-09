@@ -6,7 +6,7 @@ level: "متقدم"
 title: "ستيفن لانكتون"
 en: "Stephen R. Lankton"
 crumb: "التنويم الإريكسوني ← تطوير ← ستيفن لانكتون"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1975

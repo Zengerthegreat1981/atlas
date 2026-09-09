@@ -13,13 +13,14 @@ active_start: 1996
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "thk-njacobson", title: "نيل س. جاكوبسون", type: "مفكر"
 - id: "thk-maddis", title: "مايكل إي. آديس", type: "مفكر"
 - id: "tec-behavioral-activation", title: "التنشيط السلوكي (BA)", type: "تقنية/تدخل علاجي"
 - id: "con-behavioral-activation", title: "التنشيط السلوكي (مفهوم علاجي)", type: "مفهوم"
 gaps:
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-cbt` — وهو **ملفُّ إحالةٍ** لا مدرسة (صار إحالةً في دفعة دمجٍ سابقة ولم تُنقَل الأنسابُ الواردةُ إليه)، فنُقل إلى البديل المعتمد `sch-cognitive-behavioral`."
   - "تاريخ الميلاد الدقيق غير متاح في المصادر المتاحة."
   - "لا يوجد اقتباس مباشر موثوق من «التنشيط السلوكي للاكتئاب: دليل إكلينيكي» (Behavioral Activation for Depression: A Clinician's Guide, 2001) بترجمة عربية معتمدة."
   - "تأكَّد أنه كان عضواً في فريق دراسة جامعة واشنطن لعلاج الاكتئاب (Treatments for Depression Study) مع Jacobson وAddis، وأنه انتقل لاحقاً إلى جامعة ماساتشوستس أمهرست؛ تفاصيل التواريخ الدقيقة للانتقال غير متاحة في المصادر المفتوحة."

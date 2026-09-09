@@ -10,7 +10,7 @@ part: "psychology"
 active_start: 1956
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "sch-cognitive-psychology", target_type: "مدرسة"
+- rel: "relates_to", target: "علم النفس المعرفي", target_type: "مدرسة"
 related:
 - id: "met-turing-test-imitation-game", title: "لعبة المحاكاة وتفكير الآلة: استعارة تورينغ للذكاء", type: "استعارة/مجاز مؤسِّس"
 gaps:

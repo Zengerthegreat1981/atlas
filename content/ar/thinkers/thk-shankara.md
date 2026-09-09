@@ -12,7 +12,7 @@ language: "السنسكريتية"
 active_start: 800
 active_end: 820
 active_source: "lifespan"
-crumb: "الأطلس ← thinkers ← شانكارا (أدفايتا فيدانتا)"
+crumb: "أدفايتا فيدانتا (اللاتثنية) ← الناس ← شانكارا (أدفايتا فيدانتا)"
 edges:
 - rel: "belongs_to", target: "sch-advaita-vedanta", target_type: "مدرسة"
 related:
@@ -21,7 +21,9 @@ related:
 - id: "dbt-advaita-vs-dvaita", title: "أدفايتا فيدانتا في مقابل دفايتا فيدانتا: هل العالم وهم أم حقيقة؟", type: "جدل"
 - id: "dbt-shunyata-vs-brahman", title: "شُونْياتا في مقابل براهمان: الفراغ ضد الجوهر", type: "جدل"
 - id: "ctx-hindu-philosophical-traditions", title: "التقاليد الفلسفية الهندية الكبرى", type: "سياق/تقليد"
+- id: "con-adhyasa-superimposition-shankara", title: "الإسقاط والالتباس الوهمي (Adhyasa / Superimposition)", type: "مفهوم"
 gaps:
+  - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "التفاصيل الدقيقة لحياته (تواريخ، أماكن، حوارات) مبنية على التقليد الهندوسي ولا تُعتمد تاريخياً."
   - "لا ترجمة عربية موحدة لأعمّ أعماله (Brahma Sutra Bhashya, Upanishad Bhasyas)."
 ---

@@ -14,14 +14,18 @@ active_start: 1580
 active_end: 1750
 cultural_origin: "indian"
 edges:
-- rel: "belongs_to", target: "br-irfan-shuhudi-sirhindi", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-wahdat-alshuhud", target_type: "مدرسة"
 related:
 - id: "sch-wahdat-alwujud", title: "العرفان النظري (وحدة الوجود)", type: "مدرسة"
 - id: "sch-ismaili", title: "الفلسفة الإسماعيلية", type: "مدرسة"
 - id: "thk-ahmad-sirhindi", title: "الشيخ أحمد السرهندي (المجدد الثاني)", type: "مفكر"
 - id: "thk-abd-al-karim-al-jili", title: "عبد الكريم بن إبراهيم الجيلي", type: "مفكر"
 - id: "thk-sadr-al-din-al-qunawi", title: "صدر الدين محمد بن إسحاق القونوي", type: "مفكر"
+- id: "con-khayal-creative-imagination", title: "الخيال الخلاق والبرزخية الكونية (Creative Imagination)", type: "مفهوم"
+- id: "con-ayan-thabita-archetypes", title: "الأعيان الثابتة والصور العلمية الأزلية (A'yan Thabita)", type: "مفهوم"
 gaps:
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `br-irfan-shuhudi-sirhindi`، وقد صار ذلك الملفُّ **إحالةً** إلى `sch-wahdat-alshuhud` بعد دمج ملفَّين مزدوجَين، فنُقل الانتماءُ إلى المعتمد."
+  - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشاراتٌ إلى 2 عقدةً كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "الفرق بين الأكبرية والصديقية في إطار «وحدة الشهود» (هل هما مدرستان منفصلتان أم تيار واحد) يحتاج بحثاً."
   - "اقتباسات «أسرار الذات الإلهية» للشيخ أحمد السرهندي تحتاج تحققاً ومراجعة من المصدر الأولي قبل الاستشهاد المباشر بها."
 ---

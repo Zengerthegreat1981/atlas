@@ -6,7 +6,7 @@ level: "متقدم"
 title: "آرثر بيكر-ويدمان"
 en: "Arthur Becker-Weidman"
 crumb: "العلاج التفاعلي النمائي الثنائي (DDP) ← تطوير ← آرثر بيكر-ويدمان"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2000

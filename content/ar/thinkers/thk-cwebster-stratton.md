@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← كارولين ويبستر-ستراتون"
+crumb: "العلاج بتفاعل الوالد-الطفل (PCIT) ← الناس ← كارولين ويبستر-ستراتون"
 edges:
 - rel: "belongs_to", target: "br-pcit", target_type: "تيار"
 related:

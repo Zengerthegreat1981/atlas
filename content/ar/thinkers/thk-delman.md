@@ -10,8 +10,8 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1949
 active_end: 1967
-part: "philosophy"
-crumb: "الأطلس ← thinkers ← ديف إلمان"
+part: "psychology"
+crumb: "التنويم العلاجي السريري ← الناس ← ديف إلمان"
 edges:
 - rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "تيار"
 related:
@@ -20,6 +20,7 @@ related:
 - id: "thk-tbarber", title: "ثيودور باربر", type: "مفكر"
 - id: "thk-joseph-barber", title: "جوزيف باربر", type: "مفكر"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `br-clinical-hypnotherapy` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "لا يوجد اقتباس مباشر موثوق من *Findings in Hypnosis* (1964) بترجمة عربية معتمدة."
   - "تحقّق: بدأ إلمان تعليم التنويم للأطباء عام 1949 (لا 1947)، ودرّب نحو 7500–10000 طبيب وطبيب أسنان بين 1949–1962 (مصدر: elmanhypnosis.com / Dave Elman Hypnosis Institute)."
 ---

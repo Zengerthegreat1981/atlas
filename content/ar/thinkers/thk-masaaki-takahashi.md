@@ -6,7 +6,7 @@ level: "متوسط"
 title: "ماساكي تاكاهاشي"
 en: "Masaaki Takahashi"
 crumb: "علاج نايكان ← تطوير ← ماساكي تاكاهاشي"
-dates: "اليابان · [DRAFT-UNKNOWN]"
+dates: "اليابان · [غير مؤكد]"
 country: "اليابان"
 language: "اليابانية"
 active_start: 1980

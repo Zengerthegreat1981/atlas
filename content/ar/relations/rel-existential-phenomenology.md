@@ -3,40 +3,26 @@ slug: "rel-existential-phenomenology"
 id: "REL-1005"
 type: "علاقة بين مدرستين"
 level: "متوسط"
-title: "الوجودية والظاهراتية: من Husserl إلى Heidegger إلى العلاج"
-en: "الوجودية والظاهراتية: من Husserl إلى Heidegger إلى العلاج"
-crumb: "العلاقات بين المدارس ←  × الظاهراتية (Phänomenologie)"
-language: "العربية"
 part: "psychology"
-edges:
-- rel: "connects", target: "", target_type: "مدرسة"
-- rel: "connects", target: "sch-phenomenology", target_type: "مدرسة"
+title: "الوجودية والظاهراتية: من Husserl إلى Heidegger إلى العلاج — إحالة، انظر rel-phenomenology-existential-therapy"
+en: "Merged — see rel-phenomenology-existential-therapy"
+crumb: "العلاقات بين المدارس ← [إحالة]"
+active_start: null
+active_end: null
+edges: []
 related:
-- id: "sch-existentialism", title: "", type: "مدرسة"
-- id: "sch-phenomenology", title: "الظاهراتية (Phänomenologie)", type: "مدرسة"
-- id: "rel-gestalt-existential", title: "الجشطالتية والوجودية: Perls بوصفه حلقة وصل", type: "علاقة بين مدرستين"
-- id: "rel-psychodynamic-attachment", title: "النظرية الديناميكية ونظرية التعلق: من Bowlby إلى Fonagy", type: "علاقة بين مدرستين"
-- id: "rel-confucian-self-cultivation-family-systems", title: "تزكية الذات الكونفوشية والعلاج الأسري النظامي (Bowen)", type: "علاقة بين مدرستين"
+- id: "rel-phenomenology-existential-therapy", title: "الظاهراتية الفلسفية والعلاج النفسي الوجودي: من هوسرل إلى بينسفانغر وبوس", type: "علاقة بين مدرستين"
 gaps:
-  - "الوصف أعلاه هو نقطة بداية — يحتاج توسعاً تفصيلياً بالمصادر الأولية."
+  - "**دُمج 2026-09-07:** هذا الملف من دفعة قالبية قديمة في `relations/` (متن مولَّد واحد: «التقارب / الاختلاف / التكامل» بلا خصوصية للزوج) تتقاطع مع علاقات مكتوبة بـslugs أخرى. مسوّغ الدمج: الملف الهدف يشترك مع هذا الملف في **طرفَي** العلاقة معاً، ويفصّل مسار «هوسرل ← هايدغر ← العلاج» عبر ياسبرز وبينسفانغر وبوس وماي."
+  - "لا يُعاد كتابة متن تحت هذا الـslug. الـslug باقٍ ولم يُحذف عملاً بقاعدة عدم إعادة التسمية، فكل رابط وارد يصل إلى هذه الإحالة. النسخة الأصلية في `agents_specs/merge-archive-2026-09-07/rel-existential-phenomenology.md.archived.2026-09-07`."
 ---
 
-# الوجودية والظاهراتية: من Husserl إلى Heidegger إلى العلاج
+# الوجودية والظاهراتية: من Husserl إلى Heidegger إلى العلاج — إحالة
 
-الجذور الفلسفية للعلاج الوجودي
+**دُمج هذا الملف.** المعالجة الكاملة لهذه العلاقة في `rel-phenomenology-existential-therapy` — «الظاهراتية الفلسفية والعلاج النفسي الوجودي: من هوسرل إلى بينسفانغر وبوس».
 
-## طبيعة العلاقة
-
-تشير العلاقة بين **** و **الظاهراتية (Phänomenologie)** إلى تقاطع تاريخي ومنهجي يمكن تلخيصه في:
-- **التقارب**: مشاركة في الإشكاليات السريرية (اضطرابات مشتركة، حالات مماثلة).
-- **الاختلاف**: مناهج علاجية مختلفة (مثلاً CBT مقابل ديناميكي).
-- **التكامل**: مدارس حديثة تجمع بينهما (مثل MBCT كجسر بين CBT واليقظة).
-
-## انظر أيضاً
-
-- 
-- الظاهراتية (Phänomenologie)
+الملف الهدف يشترك مع هذا الملف في **طرفَي** العلاقة معاً، ويفصّل مسار «هوسرل ← هايدغر ← العلاج» عبر ياسبرز وبينسفانغر وبوس وماي.
 
 ## المصادر
 
-يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.
+التوثيق البيبليوغرافي في الملف المُحال إليه `rel-phenomenology-existential-therapy`، لا في هذه الإحالة.

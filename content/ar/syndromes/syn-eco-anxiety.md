@@ -10,11 +10,12 @@ crumb: "علم النفس ← متلازمات معاصرة ← قلق المن�
 active_start: 2010
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-ecological-psychology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ecopsychology", target_type: "مدرسة"
 related:
 - id: "syn-burnout", title: "متلازمة الاحتراق الوظيفي والمهني", type: "متلازمة"
 - id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` اسماً نصّياً «علم النفس الإيكولوجي» لا يُحلّ إلى ملفّ، وقد أُنشئت المدرسةُ `sch-ecopsychology` فأُسند الانتماءُ إليها."
   - "رابط مقترح لم يتحقق بعد في الأطلس: تغيّر المناخ (con-climate-change)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: اضطرابات القلق (dis-anxiety)"
   - "التمييز بين eco-anxiety وeco-grief موثّق لكن غير مفصّل في الأبحاث."

@@ -6,7 +6,7 @@ level: "متوسط"
 title: "الحد من الضرر (Harm Reduction)"
 en: "Harm Reduction"
 crumb: "الإدمان ← المفاهيم ← الحد من الضرر"
-country: "[DRAFT-UNKNOWN]"
+country: "[غير مؤكد]"
 active_start: 1926
 active_end: "مستمر"
 language: "الإنجليزية"

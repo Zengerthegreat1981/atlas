@@ -19,6 +19,7 @@ related:
 - id: "thk-frederickleong", title: "فريديريك ليونغ", type: "مفكر"
 - id: "thk-janethelms", title: "جانيت هيلمز", type: "مفكر"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` اسماً نصّياً «الإرشاد متعدد الثقافات» لا يُحلّ إلى ملفّ، وقد أُنشئت المدرسةُ `sch-multicultural-counseling` فأُسند الانتماءُ إليها."
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
   - "لا يوجد اقتباس مباشر موثوق من *Counseling the Culturally Different* (1981) بترجمة عربية معتمدة."
   - "edges.belongs_to يشير إلى sch-multicultural-counseling، وهذا الملف موجود حالياً في content/ar/drafts/minimax/schools/ وليس منشوراً في content/ar/schools/؛ يلزم نشره أو تصويب الربط."

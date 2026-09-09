@@ -6,7 +6,7 @@ level: "مبتدئ"
 title: "تشانغ يالين"
 en: "Zhang Yalin (Daniel Y. L. Zhang)"
 crumb: "أطر غير غربية ← المفكرون ← تشانغ يالين"
-dates: "الصين · [DRAFT-UNKNOWN]"
+dates: "الصين · [غير مؤكد]"
 country: "الصين"
 language: "الصينية / الإنجليزية"
 active_start: 2005

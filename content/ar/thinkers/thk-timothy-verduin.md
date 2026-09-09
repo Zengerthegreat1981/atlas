@@ -7,7 +7,7 @@ level: "مبتدئ"
 title: "تيموثي فيردوين (Timothy Verduin)"
 en: "Timothy Verduin"
 crumb: "EFT للأزواج ← مساهمون ← تيموثي فيردوين"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · [غير مؤكد]"
 active_start: null
 active_end: "غير محدد"
 country: "الولايات المتحدة"

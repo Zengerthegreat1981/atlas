@@ -15,10 +15,10 @@ crumb: "مدرسة التحليل النفسي ← الناس ← رِيناتا
 edges:
 - rel: "belongs_to", target: "sch-analytical-psychology", target_type: "مدرسة"
 related:
-- id: "thk-zoja", type: "مفكر", title: "لويجي تسويا"
-- id: "thk-mestherharding", type: "مفكر", title: "ماري إستر هاردينغ"
-- id: "thk-twolff", type: "مفكر", title: "توني فولف"
-- id: "thk-cgj", type: "مفكر", title: "كارل غوستاف يونغ"
+- id: "thk-zoja", title: "لويجي تسويا", type: "مفكر"
+- id: "thk-meharding", title: "ماري إستر هاردينغ", type: "مفكر"
+- id: "thk-twolff", title: "توني فولف", type: "مفكر"
+- id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 gaps:
   - "لا توجد سيرة ذاتية منشورة لـ 'Renata Vendramini' في AIPA (Associazione Italiana di Psicologia Analitica) حتى آب 2026."
   - "الكتاب المشار إليه ('La Femminilità Ritrovata', التسعينيات) لا يظهر في SBN (Biblioteca Nazionale Italiana)."

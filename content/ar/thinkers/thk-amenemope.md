@@ -12,7 +12,7 @@ language: "المصرية القديمة (الهيروغليفية)"
 active_start: -1200
 active_end: -1000
 active_source: "lifespan"
-crumb: "الأطلس ← thinkers ← أمِنْمُوپ"
+crumb: "تقليد الحكمة المصرية (ماعت) ← الناس ← أمِنْمُوپ"
 edges:
 - rel: "belongs_to", target: "sch-egyptian-maat", target_type: "مدرسة"
 related:

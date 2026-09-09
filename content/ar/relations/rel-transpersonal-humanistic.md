@@ -10,7 +10,7 @@ active_start: 1968
 active_end: "مستمر"
 part: "bridge"
 edges:
-- rel: "belongs_to", target: "br-transpersonal-psychology", target_type: "تيار"
+- rel: "belongs_to", target: "sch-transpersonal", target_type: "مدرسة"
 - rel: "relates_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
 - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
@@ -21,6 +21,7 @@ related:
 - id: "thk-kwilber", title: "كين ويلبر", type: "مفكر"
 - id: "thk-sutich", title: "أنتوني سوتيتش", type: "مفكر"
 gaps:
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `br-transpersonal-psychology` — وهو **ملفُّ إحالةٍ** لا مدرسة (صار إحالةً في دفعة دمجٍ سابقة ولم تُنقَل الأنسابُ الواردةُ إليه)، فنُقل إلى البديل المعتمد `sch-transpersonal`."
   - "ترتيب 'الموجات' الأربع (تحليل نفسي = 1، سلوكية = 2، إنسانية = 3، عبر شخصية = 4) ليس موحداً في الأدبيات — ماسلو نفسه اقترح 'الموجة الرابعة' (1968)، لكن ويلبر أعاد تفسير النظام بأكمله لاحقاً."
   - "علاقة ويلبر بـ 'AQAL' (All Quadrants, All Levels) كنموذج تكاملي — التفاصيل لم تُراجع بعد."
   - "لم يُستخدم في هذا الملف اقتباس حرفي منقول من ماسلو أو غروف يصف علاقتهما الشخصية أو ظروف تأسيس الحركة مباشرة — الاعتماد هنا على تسلسل تاريخي موثّق من عناوين الأعمال وتواريخها لا على شهادات منقولة بالنص."

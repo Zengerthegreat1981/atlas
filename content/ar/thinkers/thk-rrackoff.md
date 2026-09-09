@@ -13,7 +13,7 @@ active_start: 1953
 active_end: 2009
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "sch-general-systems-theory", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-general-systems-cybernetics", target_type: "مدرسة"
 related:
 - id: "thk-lbertalanffy", title: "لودفيغ فون برتالانفي", type: "مفكر"
 - id: "thk-sbeer", title: "ستافورد بير", type: "مفكر"

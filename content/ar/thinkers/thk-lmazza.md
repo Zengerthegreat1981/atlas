@@ -6,7 +6,7 @@ level: "مبتدئ"
 title: "نيكولاس مازا"
 en: "Nicholas Mazza"
 crumb: "الجماعية/التعبيرية/الفنية ← المفكرون ← نيكولاس مازا"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1981

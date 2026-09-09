@@ -36,13 +36,13 @@ gaps:
 ## ما أعطاه
 
 - **"محاولة لنظرية جديدة في القدرة التصوّرية الإنسانية" (Versuch einer neuen Theorie des menschlichen Vorstellungsvermögens, 1789)**: عمله الأبرز الذي قدّم فيه "نظرية القدرة التصوّرية" (Theorie des Vorstellungsvermögens) بوصفها "حَجَر أساس" (Grundlage) لِكلّ فلسفة. الهدف: تقديم "مبدأ واحد" يُوحّد فلسفة كانط النقدية.
-- **"مبدأ الوعي" (Satz des Bewußtseins)": المبدأ الأساسي: "التمثيل (Vorstellung) يتميّز عن موضوعه ومن الذات التي تُمثّله، ويُشار إليه في العقل بواسطة هذا التمييز." صاغه بأسلوب واضح خلافاً لـ"نقد العقل الخالص" المعقّد.
+- "مبدأ الوعي" (Satz des Bewußtseins)": المبدأ الأساسي: "التمثيل (Vorstellung) يتميّز عن موضوعه ومن الذات التي تُمثّله، ويُشار إليه في العقل بواسطة هذا التمييز." صاغه بأسلوب واضح خلافاً لـ"نقد العقل الخالص" المعقّد.
 - **"Letters on the Kantian Philosophy" (Briefe über die Kantische Philosophie, 1786-1787)**: رسائل في صحف شهيرة لِـGöttingisches Magazin der Wissenschaften und Litteratur، عرّبت كانط لجمهور واسع.
-- **"دفاع عن كانط" (Verteidigung des Kantianismus)": ضد هجمات على كانط من Schulze (Enesidemus) وFeder.
+- "دفاع عن كانط" (Verteidigung des Kantianismus)": ضد هجمات على كانط من Schulze (Enesidemus) وFeder.
 - **"مقالات في المعجم الفلسفي" (Beyträge zur Berichtigung bisheriger Mißverständnisse der Philosophen, 1790)**: إسهام إضافي في توضيح فلسفة كانط.
-- **"التأمّلات اللاحقة" (Über die bisherigen Schicksale der Kantischen Philosophie, التسعينيات من القرن الثامن عشر)": تأمّلات حول "مصير" الفلسفة الكانطية.
-- **"فلسفة فينيون" (Fenelonian Mysticism)": تحوّله في سنواته الأخيرة (العشرينيات من القرن التاسع عشر) نحو "مسيحية صوفية" مُتأثّرة بـFrançois de Fénelon، وهو ما أثار دهشة طلّابه.
-- **"نقد Fichte" (1800)": مقالات ضد "Wissenschaftslehre"، حيث طوّر موقفه الخاص خارج الـFichte.
+- "التأمّلات اللاحقة" (Über die bisherigen Schicksale der Kantischen Philosophie, التسعينيات من القرن الثامن عشر)": تأمّلات حول "مصير" الفلسفة الكانطية.
+- "فلسفة فينيون" (Fenelonian Mysticism)": تحوّله في سنواته الأخيرة (العشرينيات من القرن التاسع عشر) نحو "مسيحية صوفية" مُتأثّرة بـFrançois de Fénelon، وهو ما أثار دهشة طلّابه.
+- "نقد Fichte" (1800)": مقالات ضد "Wissenschaftslehre"، حيث طوّر موقفه الخاص خارج الـFichte.
 
 ## موقعه من التيار
 

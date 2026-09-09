@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1985
 active_end: "مستمر"
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← برنارد روزن"
+crumb: "الناس ← برنارد روزن"
 edges: []
 related:
 - id: "thk-hliddle", title: "هوارد ليدل", type: "مفكر"

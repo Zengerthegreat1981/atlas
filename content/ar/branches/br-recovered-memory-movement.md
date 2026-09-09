@@ -16,10 +16,9 @@ edges:
 related:
 - id: "con-recovered-memory-controversy", title: "الجدل حول الذاكرة المُستعادة", type: "مفهوم"
 - id: "br-relational-cultural", title: "النظرية العلائقية الثقافية النسوية", type: "تيار"
-- id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
-- id: "br-sikolohiyang-pilipino", title: "علم النفس الفلبيني الأصيل (إنريكيز)", type: "تيار"
 - id: "br-kleinian", title: "المدرسة الكلاينية", type: "تيار"
 gaps:
+  - "**حُذف رابطٌ مُقحَم 2026-09-08:** كان `related` يحمل `br-sikolohiyang-pilipino` (علم النفس الفلبيني الأصيل) بلا أيِّ مسوّغ — ولا يُذكَر الفلبينُ ولا إنريكيز ولا «kapwa» في متن هذا الملفّ. وهو من دفعةٍ قالبيةٍ رُصد هدفُها الأوّل من قبل وأُغفل هذا."
   - "الأسماء الرئيسية (Lorna Smith Benjamin, Richard Ofshe, Elizabeth Loftus) لم تُكتب مسودات منفصلة."
   - "الجدل القضائي (False Memory Syndrome Foundation) لم يُوثّق بدقة كافية."
 ---

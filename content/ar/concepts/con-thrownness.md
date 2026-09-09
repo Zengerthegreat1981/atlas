@@ -5,12 +5,12 @@ type: "مفهوم"
 level: "متقدم"
 title: "القذف / الإلقاء (Geworfenheit)"
 en: "Thrownness (Geworfenheit)"
-crumb: "المدرسة الوجودية ← المفاهيم ← القذف / الإلقاء (Geworfenheit)"
+crumb: "الفلسفة الوجودية ← المفاهيم ← القذف / الإلقاء (Geworfenheit)"
 part: "philosophy"
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
@@ -20,6 +20,8 @@ related:
 - id: "con-freedom", title: "الحرية", type: "مفهوم"
 - id: "con-geworfenheit-thrownness", title: "الرميّة والواقعية المشروطة (Geworfenheit / Thrownness)", type: "مفهوم"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-existentialism` بحسب المجال المُصحَّح في مسار التنقّل («الفلسفة الوجودية»). ومدخلٌ فلسفيٌّ لا ينتمي إلى مدرسةِ علاجٍ نفسيٍّ إكلينيكي."
+  - "**صُحِّح مسار التنقّل 2026-09-08:** كان الجزء الأول «المدرسة الوجودية» ختماً قالبياً؛ واستُبدل بـ«الفلسفة الوجودية». المصدر: وجودي مُدقَّق — الجيرةُ وجودية، ودُقِّق الوسمُ بحسب part. ولم يُشتقَّ من `belongs_to` لأنّ الحقلَ في هذا الحشد مختومٌ آلياً على «الوجودية العلاجية» حتى لمدخلاتٍ فلسفيةٍ تسبق الوجودية بقرون."
   - "لا يوجد بعد أداة قياس (ins-) لمفهوم القذف/الإلقاء، وطبيعته الفلسفية المجردة تجعل قياسه الكمي صعباً أصلاً"
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---

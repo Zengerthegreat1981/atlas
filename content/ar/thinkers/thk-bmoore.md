@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1971
 active_end: "مستمر"
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← بوب مور"
+crumb: "الناس ← بوب مور"
 edges: []
 related:
 - id: "thk-werhard", title: "ويرنر إيرهارد", type: "مفكر"

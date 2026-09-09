@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← بيل أوهَنلون"
+crumb: "العلاج المختصر القائم على الحل (SFBT) ← الناس ← بيل أوهَنلون"
 edges:
 - rel: "belongs_to", target: "sch-solution-focused", target_type: "مدرسة"
 related:

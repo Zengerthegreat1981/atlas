@@ -12,7 +12,7 @@ language: "البولندية، الألمانية"
 active_start: 1918
 active_end: 1968
 active_source: "lifespan"
-crumb: "الأطلس ← thinkers ← رومان إنغاردن (ظاهراتي الأدب والجمال)"
+crumb: "الظاهراتية (Phänomenologie) ← الناس ← رومان إنغاردن (ظاهراتي الأدب والجمال)"
 edges:
 - rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
 related:

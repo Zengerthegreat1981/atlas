@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1953
 active_end: 2008
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← ألكسندر لوين"
+crumb: "التحليل الطاقي الحيوي (لوين) ← الناس ← ألكسندر لوين"
 edges:
 - rel: "belongs_to", target: "br-bioenergetic-analysis", target_type: "تيار"
 related:

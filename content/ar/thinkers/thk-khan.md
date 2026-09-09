@@ -16,9 +16,9 @@ edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
-- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 gaps:
+  - "**حُذف رابطٌ مُقحَم 2026-09-08:** كان `related` يحمل `con-authenticity` («الأصالة») حشواً من دفعةٍ قالبية، ولا يُذكَر المفهومُ في متن هذا الملف ولا صلةَ له بموضوعه."
   - "لا يوجد اقتباس مباشر موثوق من *The Privacy of the Self* (1974) بترجمة عربية معتمدة."
   - "مفهوما 'الصدمة التراكمية' (Cumulative Trauma) و'خصوصية الذات' يستحقان إدراجاً."
 ---

@@ -16,9 +16,9 @@ edges:
 - rel: "belongs_to", target: "br-nlp-systemic", target_type: "تيار"
 related:
 - id: "thk-rbandler", title: "ريتشارد بَندلر", type: "مفكر"
-- id: "thk-merickson", type: "مفكر", title: "ميلتون إريكسون"
-- id: "thk-pwatzlawick", type: "مفكر", title: "بول فاتزلاويك"
-- id: "thk-gbateson", type: "مفكر", title: "غريغوري بيتسون"
+- id: "thk-merickson", title: "ميلتون إريكسون", type: "مفكر"
+- id: "thk-pwatzlawick", title: "بول فاتزلاويك", type: "مفكر"
+- id: "thk-gbateson", title: "غريغوري بيتسون", type: "مفكر"
 - id: "thk-trobbins", title: "توني روبنز", type: "مفكر"
 gaps:
   - "سنة الميلاد غير منشورة."
@@ -27,26 +27,26 @@ gaps:
 
 # ستيف جِليغَن
 
-معالج نفسي أمريكي، ومؤسِّس **«العلاج بالسحر»** (Generative Trance / Socratic Enchantment) ضمن إطار **NLP**. أحد أكثر الممارسين تأثيراً في NLP الإكلينيكي.
+معالج نفسي أمريكي، ومؤسِّس «العلاج بالسحر» (Generative Trance / Socratic Enchantment) ضمن إطار **NLP**. أحد أكثر الممارسين تأثيراً في NLP الإكلينيكي.
 
 ## ما أعطاه
 
-- **«Therapeutic Trances: Cooperation with Unconscious Processes»** (1987، Irvington): الكتاب المؤسِّس. قدَّم فيه مفهوم **«Trance السقراطي»** (Socratic Trance) كبديل للتنويم الإريكسوني.
-- **«Generative Trance: Slay Your Dragons»** (2012): يلخّص فيه «علاج السحر التوليدي» كنموذج إكلينيكي.
-- **«The Generative Trance Scripts: The Realms of the Mind»** (2017، مع Rebecca E. Lindsey): كنّاب تجارب تنويم مُصمَّمة لـ«البحث عن الحل الداخلي».
-- **«Generative Change in Context: The Socratic Dialogue in Therapy»** (2007): تطبيق «الحوار السقراطي» في العلاج.
-- **«The Courage to Love»** (2010، مع Connirae Andreas): عن «الحب العلاجي» كعملية تغيير.
-- **«Walking in Two Worlds: Skills for Spiritually Oriented Therapists»** (2004، مع Reese E. Myers).
+- «Therapeutic Trances: Cooperation with Unconscious Processes» (1987، Irvington): الكتاب المؤسِّس. قدَّم فيه مفهوم «Trance السقراطي» كبديل للتنويم الإريكسوني.
+- «Generative Trance: Slay Your Dragons» (2012): يلخّص فيه «علاج السحر التوليدي» كنموذج إكلينيكي.
+- «The Generative Trance Scripts: The Realms of the Mind» (2017، مع Rebecca E. Lindsey): كنّاب تجارب تنويم مُصمَّمة لـ«البحث عن الحل الداخلي».
+- «Generative Change in Context: The Socratic Dialogue in Therapy» (2007): تطبيق «الحوار السقراطي» في العلاج.
+- «The Courage to Love» (2010، مع Connirae Andreas): عن «الحب العلاجي» كعملية تغيير.
+- «Walking in Two Worlds: Skills for Spiritually Oriented Therapists» (2004، مع Reese E. Myers).
 
-## «العلاج بالسحر التوليدي» (Generative Trance)
+## «العلاج بالسحر التوليدي»
 
 أهم مفاهيمه. يختلف عن «التنويم الإريكسوني» التقليدي في:
 - **التركيز على المستقبل** (لا على الماضي مثل التحليل النفسي).
-- **«السحر» (Enchantment)** كحالة وعي تشاركية (لا «فقدان وعي»).
+- **«السحر»** كحالة وعي تشاركية (لا «فقدان وعي»).
 - **استخدام «القصص» والميتافورات** كأدوات تنويم (لا «الإيحاء المباشر» مثل إريكسون).
-- **«تطوير الموارد» (Resource Development)** في الجسد.
+- **«تطوير الموارد»** في الجسد.
 
-## «الحوار السقراطي» (Socratic Dialogue)
+## «الحوار السقراطي»
 
 تطبيق «منهج سقراط» في العلاج. السؤال «ما الذي يحميك من أن تكون كما تريد؟» يفتح «متاهة المعتقدات» للوصول إلى «المخارج».
 
@@ -54,8 +54,8 @@ gaps:
 
 تنتمي كتاباته إلى:
 - **NLP** (Neuro-Linguistic Programming) — مع **بَندلر** و**غريندر**.
-- **«العلاج القصير» (Brief Therapy)** — مع **بول فاتزلاويك** و**مجموعة بالو ألتو» (MRI).
-- **«العلاج الإسكتلندي» (Ericksonian Therapy)** — تفسيرات جديدة لإريكسون.
+- «العلاج القصير» — مع بول فاتزلاويك ومجموعة بالو ألتو» (MRI).
+- **«العلاج الإسكتلندي»** — تفسيرات جديدة لإريكسون.
 
 ## شُبَكُه العلمية
 
@@ -67,7 +67,7 @@ gaps:
 
 ## إرثه
 
-- **«ICCP (International Creative Collisions in Psychology)»**: شبكة التدريب الدولية.
+- «ICCP (International Creative Collisions in Psychology)»: شبكة التدريب الدولية.
 - **«The Steve Gilligan» San Diego Center**: مركز تدريبه الرسمي.
 
 ## المصادر

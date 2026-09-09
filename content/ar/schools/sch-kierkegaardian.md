@@ -16,7 +16,7 @@ active_end: 1855
 active_source: "lifespan"
 edges:
 - rel: "evolved_into", target: "sch-existentialism", target_type: "مظلة"
-- rel: "belongs_to", target: "sch-hegel-left", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
 - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
@@ -26,7 +26,10 @@ related:
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
 - id: "thk-marcel", title: "غابرييل مارسِل", type: "مفكر"
+- id: "rel-kierkegaard-angst-generalized-anxiety", title: "القلق الوجودي لكيركغارد واضطراب القلق المعمم (GAD)", type: "علاقة بين مدرستين"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-hegel-left`، ونُقل إلى `sch-existentialism` — لِيدُه: «قوامه نقد النظام الهيغلي»؛ وعنوانُه يسمّيه «الوجودية المبكرة الدينية». وإدراجُه تحت الهيغلية اليسارية عكسُ الحقيقة."
+  - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "رابط مقترح لـ«هانس لاسن مارتنزن» (thk-martensen) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "إسهامات مايغرن (Martensen) في 'الأخلاق' (1878) وقصة علاقته بكيركيغارد لم تُراجع بعد."
 ---

@@ -15,13 +15,13 @@ crumb: "ABA البرازيلية ← تطوير ← ماريّا أميليا م
 edges:
 - rel: "belongs_to", target: "br-radical-behaviorism", target_type: "تيار"
 related:
-- id: "thk-fkeller", type: "مفكر", title: "فريد س. كيلّر"
-- id: "thk-hjguilhardi", type: "مفكر", title: "هيليو جوزيه غيلاردي"
-- id: "thk-bfskinner", type: "مفكر", title: "ب. ف. سكينر"
-- id: "thk-mbanacos", type: "مفكر", title: "مارسيو بناكوس"
-- id: "thk-rkerbauy", type: "مفكر", title: "راثيل كربّوي"
-- id: "thk-mgmtomaz", type: "مفكر", title: "ماركوس غيسو توماز"
+- id: "thk-fkeller", title: "فريد س. كيلّر", type: "مفكر"
+- id: "thk-hjguilhardi", title: "هيليو جوزيه غيلاردي", type: "مفكر"
+- id: "thk-rkerbauy", title: "راثيل كربّوي", type: "مفكر"
 gaps:
+  - "إحالة معلَّقة أُزيلت: «ب. ف. سكينر» (thk-bfskinner) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
+  - "إحالة معلَّقة أُزيلت: «مارسيو بناكوس» (thk-mbanacos) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
+  - "إحالة معلَّقة أُزيلت: «ماركوس غيسو توماز» (thk-mgmtomaz) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
   - "سنة الميلاد غير منشورة."
   - "لا توجد سيرة ذاتية منشورة لـ 'Maria Amélia Matos' في SciELO (حتى آب 2026)."
   - "الاحتمال: خلط مع 'Maria Amelia Rodrigues' (محللة سلوكية في PUC-SP) أو 'Maria Amelia Fernandes' (مُحلِّلة سلوكية في USP)."

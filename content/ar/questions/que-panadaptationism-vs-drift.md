@@ -2,7 +2,7 @@
 slug: "que-panadaptationism-vs-drift"
 id: "QUE-0079"
 type: "سؤال توليدي"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "هل كل سلوك وعاطفة بشرية تكيف وراثي نفعي أم نتاج طفرات عشوائية؟"
 en: "Adaptationism vs. Genetic Drift: Is Every Human Trait an Evolutionary Adaptation?"
@@ -16,6 +16,7 @@ related:
 - id: "thk-david-buss", title: "ديفيد باس", type: "مفكر"
 - id: "dbt-evolutionary-psychology-adaptation-vs-spandrel", title: "علم النفس التطوري بين التكيف الحتمي والمصادفات البيولوجية", type: "جدل"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `sch-developmental` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "لم يُوثَّق بعد رد مباشر ومسمّى من باس على مقال «Spandrels» (1979) نفسه بخلاف نقاشه العام لمنهج التكيف."
 ---
 

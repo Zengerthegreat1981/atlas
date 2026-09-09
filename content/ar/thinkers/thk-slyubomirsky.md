@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1994
 active_end: "مستمر"
 part: "psychology"
-crumb: "الأطلس ← thinkers ← سونيا ليوبوميرسكي"
+crumb: "علم النفس الإيجابي (Positive Psychology) ← الناس ← سونيا ليوبوميرسكي"
 edges:
 - rel: "belongs_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:

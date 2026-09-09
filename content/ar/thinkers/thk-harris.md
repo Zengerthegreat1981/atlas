@@ -16,9 +16,9 @@ edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "rel-psychoanalysis", title: "التحليل النفسي — الانفصال والاحتفاظ", type: "علاقة بين مدرستين"
-- id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 gaps:
+  - "**حُذف رابطٌ مُقحَم 2026-09-08:** كان `related` يحمل `con-authenticity` («الأصالة») حشواً من دفعةٍ قالبية، ولا يُذكَر المفهومُ في متن هذا الملف ولا صلةَ له بموضوعه."
   - "لا يوجد اقتباس مباشر موثوق من *Gender as Soft Assembly* (2005) بترجمة عربية معتمدة."
   - "كتابها «النوع بوصفه تشكيلاً مرناً» (Gender as Soft Assembly, 2005) وتفكيك قوالب الهوية يستحقان عرضاً أوسع."
 ---

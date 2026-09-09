@@ -6,7 +6,7 @@ level: "متقدم"
 title: "آسين علادين"
 en: "Assen Alladin"
 crumb: "التنويم والهيبنوثيرابي ← المفكرون ← آسين علادين"
-dates: "كندا · [DRAFT-UNKNOWN]"
+dates: "كندا · [غير مؤكد]"
 country: "كندا"
 language: "الإنجليزية"
 active_start: 1988

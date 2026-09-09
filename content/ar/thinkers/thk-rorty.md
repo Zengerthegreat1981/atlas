@@ -5,7 +5,7 @@ type: "مفكر"
 level: "متقدم"
 title: "ريتشارد رورتي"
 en: "Richard Rorty"
-crumb: "المدرسة الوجودية ← الناس ← ريتشارد رورتي"
+crumb: "البراغماتية ← الناس ← ريتشارد رورتي"
 dates: "أمريكا · 1931–2007"
 active_start: 1961
 active_end: 2007
@@ -13,7 +13,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-pragmatism-classical", target_type: "مدرسة"
 related:
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
@@ -21,6 +21,8 @@ related:
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 - id: "wrk-philosophy-mirror-nature", title: "الفلسفة ومرآة الطبيعة (Philosophy and the Mirror of Nature)", type: "عمل / كتاب"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-pragmatism-classical` بحسب المجال المُصحَّح في مسار التنقّل («البراغماتية»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
+  - "**صُحِّح مسار التنقّل 2026-09-08:** كان الجزء الأول «المدرسة الوجودية» ختماً قالبياً؛ واستُبدل بـ«البراغماتية». المصدر: نقضٌ يدويّ — رورتي براغماتيٌّ جديد. ولم يُشتقَّ من `belongs_to` لأنّ الحقلَ في هذا الحشد مختومٌ آلياً على «الوجودية العلاجية» حتى لمدخلاتٍ فلسفيةٍ تسبق الوجودية بقرون."
   - "علاقته الفكرية بديوي وجيمس (البراغماتية الكلاسيكية) لم تُفصَّل بعد."
 ---
 

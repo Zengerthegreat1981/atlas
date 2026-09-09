@@ -20,7 +20,6 @@ related:
 - id: "tec-sandplay-therapy", title: "العلاج باللعب في الرمل (يونغي)", type: "تقنية/تدخل علاجي"
 - id: "con-aba-autism", title: "ABA للتوحد", type: "مفهوم"
 - id: "con-social-model-disability", title: "النموذج الاجتماعي للإعاقة (Social Model)", type: "مفهوم"
-- id: "con-social-model-disability", title: "النموذج الاجتماعي للإعاقة (Social Model)", type: "مفهوم"
 - id: "dis-aspergers-disorder-historical", title: "اضطراب أسبيرجر التاريخي (Asperger's Disorder / Syndrome)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-retts-disorder-historical", title: "اضطراب ريت التاريخي (Rett's Disorder)", type: "اضطراب/حالة إكلينيكية"
 - id: "syn-fragile-x-behavioral", title: "متلازمة الصبغي X الهش السلوكية المعرفية", type: "متلازمة"

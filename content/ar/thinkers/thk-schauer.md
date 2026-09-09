@@ -6,18 +6,19 @@ level: "متوسط"
 title: "ماغي شاور"
 en: "Maggie Schauer"
 crumb: "المعرفية السلوكية ← الناس ← ماغي شاور"
-dates: "ألمانيا / بريطانيا · [DRAFT-UNKNOWN]"
+dates: "ألمانيا / بريطانيا · [غير مؤكد]"
 country: "ألمانيا"
 language: "الإنجليزية / الألمانية"
 active_start: 2005
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "tec-net", title: "العلاج بالتعرض السردي (NET)", type: "تقنية/تدخل علاجي"
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-cbt` — وهو **ملفُّ إحالةٍ** لا مدرسة (صار إحالةً في دفعة دمجٍ سابقة ولم تُنقَل الأنسابُ الواردةُ إليه)، فنُقل إلى البديل المعتمد `sch-cognitive-behavioral`."
   - "سنة الميلاد تقريبية، تستحق توثيقاً من مصدر أولي."
   - "تفاصيل فترة عملها المبكر في جامعة كونستانز مع فرانك نويز تستحق توثيقاً."
 ---

@@ -6,7 +6,7 @@ level: "متوسط"
 title: "ماريان كلاين"
 en: "Marianne Kline"
 crumb: "الخبرة الجسدية ← تطوير ← ماريان كلاين"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2000

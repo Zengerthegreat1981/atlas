@@ -6,7 +6,7 @@ level: "متقدم"
 title: "بيتر كلاف"
 en: "Peter Clough"
 crumb: "علم نفس الأداء (علم نفس الأداء) ← تطوير ← بيتر كلاف"
-dates: "المملكة المتحدة · [DRAFT-UNKNOWN]"
+dates: "المملكة المتحدة · [غير مؤكد]"
 country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 2000

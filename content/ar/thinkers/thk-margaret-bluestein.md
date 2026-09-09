@@ -6,7 +6,7 @@ level: "متوسط"
 title: "مارغريت بلوستين"
 en: "Margaret Bluestein"
 crumb: "الأنساق الأسرية الداخلية (IFS) ← تطوير ← مارغريت بلوستين"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2010

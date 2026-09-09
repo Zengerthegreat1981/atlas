@@ -6,7 +6,7 @@ level: "متوسط"
 title: "مادلين ساندبرغ"
 en: "Madeleine Sandberg"
 crumb: "التركيز (Focusing) ← تطوير ← مادلين ساندبرغ"
-dates: "السويد · [DRAFT-UNKNOWN]"
+dates: "السويد · [غير مؤكد]"
 country: "السويد"
 language: "السويدية"
 active_start: 2010

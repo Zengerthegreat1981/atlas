@@ -13,12 +13,13 @@ active_start: 1978
 active_end: 2025
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-ecotherapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ecopsychology", target_type: "مدرسة"
 related:
 - id: "thk-mlouv", title: "ريتشارد لوف", type: "مفكر"
 - id: "thk-arne-naess", title: "أرنه نايس", type: "مفكر"
 - id: "thk-lroszak", title: "ثيودور روزاك", type: "مفكر"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` اسماً نصّياً «العلاج البيئي» لا يُحلّ إلى ملفّ، وقد أُنشئت المدرسةُ `sch-ecopsychology` فأُسند الانتماءُ إليها."
   - "لا يوجد اقتباس مباشر موثوق من *World as Lover, World as Self* (1991) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ثيودور روزاك (thk-lroszak)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ثيودور روزاك (thk-lroszak)."

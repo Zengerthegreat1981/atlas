@@ -13,11 +13,12 @@ active_start: 2004
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "tec-mbrp", title: "الوقاية من الانتكاس القائمة على اليقظة الذهنية (MBRP)", type: "تقنية/تدخل علاجي"
 - id: "thk-amarlatt", title: "ألان مارلات", type: "مفكر"
 gaps:
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-cbt` — وهو **ملفُّ إحالةٍ** لا مدرسة (صار إحالةً في دفعة دمجٍ سابقة ولم تُنقَل الأنسابُ الواردةُ إليه)، فنُقل إلى البديل المعتمد `sch-cognitive-behavioral`."
   - "سنة الميلاد الدقيقة (1975) لم تُؤكَّد من مصدر أولي؛ المؤكَّد أنها أستاذة متميّزة (Distinguished Professor) ومديرة مركز CASAA بجامعة نيو مكسيكو، وحصلت على الدكتوراه في علم النفس الإكلينيكي من جامعة واشنطن عام 2005 بإشراف ألان مارلات."
   - "لا يوجد اقتباس مباشر موثوق من *Mindfulness-Based Relapse Prevention for Addictive Behaviors* (2011) بترجمة عربية معتمدة."
 ---

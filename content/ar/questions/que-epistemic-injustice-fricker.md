@@ -15,6 +15,7 @@ related:
 - id: "dbt-epistemic-injustice-fricker", title: "الظلم الإبستمولوجي والشهادي والتأويلي لميراندا فريكر", type: "جدل"
 - id: "con-epistemic-injustice-fricker-concept", title: "الظلم الإبستمولوجي والشهادي والتأويلي (Epistemic Injustice)", type: "مفهوم"
 - id: "con-standpoint-epistemology", title: "إبستمولوجيا الموقع (الموقف)", type: "مفهوم"
+- id: "thk-miranda-fricker", title: "ميراندا فريكر", type: "مفكر"
 gaps:
   - "لا يوجد ملف مفكر (thk-) لميراندا فريكر ولا لكريستي دوتسون ولا لخوسيه مدينا في الأطلس حالياً رغم كونهم أطراف الجدل بالاسم؛ الاستناد هنا على العناوين الأولية نفسها المذكورة في المتن."
 ---

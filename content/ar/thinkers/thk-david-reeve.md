@@ -6,7 +6,7 @@ level: "متوسط"
 title: "ديفيد ريڤ"
 en: "David P. Reeve"
 crumb: "علم نفس الرياضة (علم النفس الرياضي) ← تطوير ← ديفيد ريڤ"
-dates: "المملكة المتحدة · [DRAFT-UNKNOWN]"
+dates: "المملكة المتحدة · [غير مؤكد]"
 country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 2010

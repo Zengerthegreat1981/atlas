@@ -13,7 +13,7 @@ active_start: 1999
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
 - id: "thk-alecmiller", title: "أليك ميلر", type: "مفكر"
@@ -22,6 +22,7 @@ related:
 - id: "thk-tlynch", title: "توماس لينش", type: "مفكر"
 - id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
 gaps:
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-cbt` — وهو **ملفُّ إحالةٍ** لا مدرسة (صار إحالةً في دفعة دمجٍ سابقة ولم تُنقَل الأنسابُ الواردةُ إليه)، فنُقل إلى البديل المعتمد `sch-cognitive-behavioral`."
   - "سنة الميلاد الدقيقة لراثوس لم تُراجَع من مصدر أولي بعد؛ التعليم: بكالوريوس من جامعة كورنيل ودكتوراه من جامعة ستوني بروك (مصدر: Behavioral Tech Institute / Guilford)."
   - "لا يوجد اقتباس مباشر موثوق من *Dialectical Behavior Therapy with Suicidal Adolescents* (2007) بترجمة عربية معتمدة."
   - "كان الملف يربط بـ`thk-amiller` بعنوان «أليس ميلر» — وهي مؤلفة *مأساة الطفل الموهوب* السويسرية، لا صلة لها بـDBT؛ وشريكة راثوس هو **أليك ميلر** (Alec L. Miller). صُحّح الرابط."

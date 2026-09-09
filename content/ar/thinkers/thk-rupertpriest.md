@@ -15,9 +15,9 @@ crumb: "طريقة فيلدنكرايس ← تطوير ← روبرت بريست
 edges:
 - rel: "belongs_to", target: "tec-feldenkrais-method", target_type: "تيار"
 related:
-- id: "thk-mfeldenkrais", type: "مفكر", title: "موشيه فيلدنكرايس"
-- id: "thk-effinger", type: "مفكر", title: "إيلان إفينغر"
+- id: "thk-mfeldenkrais", title: "موشيه فيلدنكرايس", type: "مفكر"
 gaps:
+  - "إحالة معلَّقة أُزيلت: «إيلان إفينغر» (thk-effinger) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
   - "سنة الميلاد غير منشورة."
   - "لا توجد سيرة ذاتية منشورة لـ 'Robert Priest' في IFF (International Feldenkrais Federation) حتى آب 2026."
   - "الاحتمال: خلط مع 'Robert Priest' (معالج حركي، حقل مختلف) أو 'Robert S. Priest' (كاتب علمي)."

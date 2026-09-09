@@ -13,7 +13,7 @@ part: "psychology"
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
@@ -21,6 +21,7 @@ related:
 - id: "thk-shiggins", title: "ستيفن تي. هيغينز", type: "مفكر"
 - id: "thk-njacobson", title: "نيل س. جاكوبسون", type: "مفكر"
 gaps:
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-cbt` — وهو **ملفُّ إحالةٍ** لا مدرسة (صار إحالةً في دفعة دمجٍ سابقة ولم تُنقَل الأنسابُ الواردةُ إليه)، فنُقل إلى البديل المعتمد `sch-cognitive-behavioral`."
   - "لا يوجد اقتباس منسوب بمصدر وسنة من «تعديل السلوك المعرفي» (1977)."
   - "صُحِّحت سنة صياغة SIT من 1971 إلى 1977 (تاريخ نشر Cognitive-Behavior Modification: An Integrative Approach)؛ يسبقها مخطوط غير منشور لمايكنباوم وكاميرون بعنوان Stress Inoculation: A Skills Training Approach to Anxiety Management من جامعة واترلو عام 1972."
 ---

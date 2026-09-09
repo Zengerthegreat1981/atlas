@@ -10,7 +10,7 @@ dates: "[غير مؤكد]"
 country: "ألمانيا"
 language: "الألمانية"
 active_start: 1980
-active_end: "[DRAFT-UNKNOWN]"
+active_end: null
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-schultz-hencke", target_type: "تيار"

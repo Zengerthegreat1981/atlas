@@ -10,8 +10,8 @@ country: "إيطاليا"
 language: "الإيطالية"
 active_start: 1982
 active_end: "مستمر"
-part: "philosophy"
-crumb: "الأطلس ← thinkers ← ستيفانو تشيريلو"
+part: "psychology"
+crumb: "العلاج الأسري والنظامي (Systemic/Family Therapy) ← الناس ← ستيفانو تشيريلو"
 edges:
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
@@ -20,6 +20,7 @@ related:
 - id: "thk-boscolo", title: "لويجي بوسكولو", type: "مفكر"
 - id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `sch-systemic-family` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "السيرة الذاتية الكاملة (نشأته، دراسته) لم تُنشر على الإنترنت."
   - "تاريخ ميلاده الدقيق: 1952 تقديري بناءً على بدء عمله العلاجي 1982 في سن 30."
   - "كتبه بالإيطالية لم تُترجم كلها للإنجليزية."

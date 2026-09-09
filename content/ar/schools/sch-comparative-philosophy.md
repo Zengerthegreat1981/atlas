@@ -13,8 +13,7 @@ language: "متعددة"
 cultural_origin: "european"
 active_start: 1924
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "sch-comparative-philosophy", target_type: "مظلة"
+edges: []
 related:
 - id: "sch-intercultural-philosophy", title: "الفلسفة بين-الثقافية", type: "مدرسة"
 - id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
@@ -24,25 +23,22 @@ related:
 - id: "thk-buddha", title: "بوذا (سيدهارتا غوتاما)", type: "مفكر"
 - id: "thk-zhuangzi", title: "تشوانغ تزو", type: "مفكر"
 - id: "thk-radhakrishnan", title: "سرافيتي رادهاكريشنان (نيو-فيدانتا / فيلسوف عالمي)", type: "مفكر"
+- id: "thk-raju", title: "ب. ت. راجو", type: "مفكر"
 gaps:
+  - "**فُرِّغ حقلُ الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-comparative-philosophy` ختماً قالبياً — و**العقدةُ كانت تُعلن نفسَها أباً لنفسِها**، وهي حلقةٌ مغلقةٌ لا معنى لها. الفلسفةُ المقارنةُ منهجٌ ومجالٌ مستقلّ، لا مظلّةٌ للفلسفات التطبيقية المعاصرة. وهذه مدرسةُ نِدٍّ أو مظلّةٌ مستقلّة، فبقي الحقلُ فارغاً؛ ولم يُوضَع أبٌ تقريبيٌّ لأنّ أباً خاطئاً أسوأُ من غياب أب."
+  - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "نصوص P.J. Masson-Oursel, Edward Conze, Wing-tsit Chan, Eliot Deutsch need review."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
-
 # الفلسفة المقارنة
-
 حقل فلسفي يُقارن بين تقاليد فلسفية مختلفة (الشرقية والغربية، القديمة والمعاصرة).
-
 ## الأفكار المركزية
-
 - **East-West Philosophy (شرق-غرب)**: المقارنة بين الفلسفة الأوروبية والآسيوية.
 - **Tournier Cross-Cultural Encounters**: استكشاف تقاطع التقاليد.
 - **Metaphilosophical Foundations**: أسس الفلسفة المقارنة.
 - **Parallels and Divergences**: التوازيات والاختلافات.
 - **Universalism vs. Relativism**: الكونية مقابل النسبية.
-
 ## الفلاسفة
-
 - **P.J. Masson-Oursel (ماسون أورسيل، 1883-1956)**: «La philosophie comparée» (1924) — مصطلح.
 - **Edward Conze (إدوارد كونزه، 1904-1979)**: «Buddhist Thought in India» (1962).
 - **Wing-tsit Chan (تشانغ وينغ-تسيت، 1901-1994)**: «A Source Book in Chinese Philosophy» (1963).
@@ -50,20 +46,14 @@ gaps:
 - **Thomas Kasulis (توماس كاسوليس)**: «Zen Action / Zen Person» (1981).
 - **Henry Rosemont Jr. (هنري روزمونت)**: «A Chinese Mirror» (1991).
 - **A.C. Graham (أنجلوس غراهام، 1919-1991)**: «Disputers of the Tao» (1989).
-
 ## الأثر
-
 - أنتجت قارئات جديدة لأفلاطون، أرسطو، كانط في ضوء الفلسفة الآسيوية.
 - أثّرت في علم مقارنة الأديان.
 - أثّرت في الفلسفة البين-ثقافية.
-
 ## القيد
-
 - تواجه انتقادات بسبب «الشمولية» (Universalism).
 - تواجه انتقادات بسبب Eurocentrism أحياناً.
-
 ## المصادر
-
 - Masson-Oursel, Paul. *La philosophie comparée*. Félix Alcan, 1924.
 - Chan, Wing-tsit. *A Source Book in Chinese Philosophy*. Princeton University Press, 1963.
 - Graham, A.C. *Disputers of the Tao: Philosophical Argument in Ancient China*. Open Court, 1989.

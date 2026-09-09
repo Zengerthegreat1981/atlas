@@ -11,7 +11,7 @@ language: "الإسبانية، الإنجليزية"
 active_start: 1965
 active_end: 2014
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← براوليو مونتالفو"
+crumb: "العلاج الأسري البنيوي (Structural Family Therapy) ← الناس ← براوليو مونتالفو"
 edges:
 - rel: "belongs_to", target: "br-structural-family", target_type: "تيار"
 related:

@@ -6,7 +6,7 @@ level: "متوسط"
 title: "جيم أكرمان"
 en: "Jim Ackerman"
 crumb: "إعادة الولادة (Rebirthing) ← تطوير ← جيم أكرمان"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2005

@@ -2,7 +2,7 @@
 slug: "trm-lebensform-form-of-life-wittgenstein"
 id: "TRM-0065"
 type: "مصطلح لغوي متنازع عليه"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "شكل الحياة (Lebensform): الإطار الثقافي الحاكم للغة"
 en: "Translating Lebensform: Form of Life, Cultural Substrate, and Intersubjective Agreement"
@@ -15,6 +15,7 @@ related:
 - id: "thk-lwittgenstein", title: "لودفيغ فيتغنشتاين", type: "مفكر"
 - id: "sch-ordinary-language", title: "فلسفة اللغة العادية", type: "مدرسة"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «psychology» وصار «philosophy» اتّساقاً مع أشقّائه تحت `sch-ordinary-language` (وأغلبيتُهم «philosophy» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "لا توجد ترجمة عربية معيارية متفق عليها لمصطلح Lebensform يمكن الإحالة إليها؛ الترجمات الثلاث المذكورة كلها مستخدمة في الأدبيات العربية المتفرقة دون حسم."
   - "علاقة المفهوم بنقاش الأنثروبولوجيا الفلسفية (بلسنر، غيلن) غير مغطاة هنا وتحتاج ملفاً مستقلاً."
 ---

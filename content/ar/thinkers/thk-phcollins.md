@@ -30,14 +30,14 @@ gaps:
 
 ## ما أعطتها
 
-- **«Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment»** (1990، طبعة منقّحة 2000 و2009): الكتاب المؤسِّس لها. ترجم إلى أكثر من 12 لغة. طوَّرت فيه «نظرية الموقف» (Standpoint Theory) النسوية السوداء.
-- **«Race, Class, and Gender: An Anthology»** (Wadsworth, 1992، بالاشتراك مع مارغريت آندرسون): أنطولوجيا مرجعية.
-- **«Black Sexual Politics: African Americans, Gender, and the New Racism»** (2004): ربط العرق بالجنس في السياق الأمريكي.
-- **«Another Kind of Public Education: Race, Schools, the Media, and Democratic Possibilities»** (2009).
-- **«On Intellectual Activism»** (2012): تأمّلات في دور الأكاديمي-الناشط.
-- **«Intersectionality as Critical Social Theory»** (Duke UP, 2019): تأطير مفصَّل للتقاطع كنظرية اجتماعية نقدية.
+- «Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment» (1990، طبعة منقّحة 2000 و2009): الكتاب المؤسِّس لها. ترجم إلى أكثر من 12 لغة. طوَّرت فيه «نظرية الموقف» النسوية السوداء.
+- «Race, Class, and Gender: An Anthology» (Wadsworth, 1992، بالاشتراك مع مارغريت آندرسون): أنطولوجيا مرجعية.
+- «Black Sexual Politics: African Americans, Gender, and the New Racism» (2004): ربط العرق بالجنس في السياق الأمريكي.
+- «Another Kind of Public Education: Race, Schools, the Media, and Democratic Possibilities» (2009).
+- «On Intellectual Activism» (2012): تأمّلات في دور الأكاديمي-الناشط.
+- «Intersectionality as Critical Social Theory» (Duke UP, 2019): تأطير مفصَّل للتقاطع كنظرية اجتماعية نقدية.
 
-## مفهوم «مصفوفة القمع» (Matrix of Domination)
+## مفهوم «مصفوفة القمع»
 
 أهم مفاهيمها: نموذج تحليلي للقمع يأخذ في الاعتبار **أربعة أبعاد متقاطعة**:
 1. **العرق** (Race).
@@ -49,16 +49,16 @@ gaps:
 
 ## موقعها من التيار
 
-- مؤسِّسة «**الفكر النسوي الأسود**» (Black Feminist Thought) كنظرية اجتماعية.
-- تأثّرت بـ**بيل هوكس** (النسوية السوداء المُعاشة) و**أنجيلا ديفيس** و**أليس ووكر** («تأمّرات أمهاتنا البرية»).
+- مؤسِّسة «الفكر النسوي الأسود» كنظرية اجتماعية.
+- تأثّرت بـبيل هوكس (النسوية السوداء المُعاشة) وأنجيلا ديفيس وأليس ووكر («تأمّرات أمهاتنا البرية»).
 - تختلف عن **التقاطعية** القانونية لكيمبرلي كرينشو في كونها أوسع: تشمل كل نقد اجتماعي، لا فقط تحليل القانون.
 
 ## شُبَكُها العلمية
 
 - **بيل هوكس (bell hooks, 1952–2021)**: شريكتها في تطوير النسوية السوداء.
-- **كيمبرلي كرينشو (Kimberlé Crenshaw)**: تلميذتها التي اشتقت مفهوم «التقاطع» (Intersectionality) عام 1989.
+- **كيمبرلي كرينشو (Kimberlé Crenshaw)**: تلميذتها التي اشتقت مفهوم «التقاطع» عام 1989.
 - **تشاندرا موهانتاي (Chandra Mohanty)**: زميلتها في «النسوية ما بعد الكولونيالية».
-- **أليس ووكر (Alice Walker)**: صاغت «تأمّرات أمهاتنا البرية» (Womanism) في 1983.
+- **أليس ووكر (Alice Walker)**: صاغت «تأمّرات أمهاتنا البرية» في 1983.
 
 ## المصادر
 

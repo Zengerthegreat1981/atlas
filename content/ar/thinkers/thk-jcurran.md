@@ -13,12 +13,13 @@ active_start: 1977
 active_end: 2000
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "tec-social-skills-training", title: "تدريب المهارات الاجتماعية (SST)", type: "تقنية/تدخل علاجي"
 - id: "thk-jwolpe", title: "جوزف وُلبّي", type: "مفكر"
 - id: "con-social-skills", title: "المهارات الاجتماعية (تدريب)", type: "مفهوم"
 gaps:
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-cbt` — وهو **ملفُّ إحالةٍ** لا مدرسة (صار إحالةً في دفعة دمجٍ سابقة ولم تُنقَل الأنسابُ الواردةُ إليه)، فنُقل إلى البديل المعتمد `sch-cognitive-behavioral`."
   - "تاريخ الميلاد والوفاة الدقيقان غير متاحين في المصادر المتاحة."
   - "لا يوجد اقتباس مباشر موثوق من *Social Skills Training: A Practical Handbook* (1982) بترجمة عربية معتمدة."
   - "تفاصيل مسيرته في مركز Buffalo VA الطبي — موضع بحث."

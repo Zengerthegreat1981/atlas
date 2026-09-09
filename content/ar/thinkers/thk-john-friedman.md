@@ -6,7 +6,7 @@ level: "متوسط"
 title: "جون فريدمان"
 en: "John Friedman"
 crumb: "العلاج القائم على الأمل (Snyder) ← تطوير ← جون فريدمان"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2012

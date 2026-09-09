@@ -11,9 +11,9 @@ language: "الإنجليزية، الألمانية"
 active_start: 1964
 active_end: 2019
 part: "psychology"
-crumb: "الأطلس ← thinkers ← رالف ميتزنر"
+crumb: "علم النفس عبر الشخصي (القوة الرابعة) — إحالة، انظر sch-transpersonal ← الناس ← رالف ميتزنر"
 edges:
-- rel: "belongs_to", target: "br-transpersonal-psychology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-transpersonal", target_type: "مدرسة"
 related:
 - id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
 - id: "thk-tleary", title: "تيموثي ليري", type: "مفكر"
@@ -21,6 +21,7 @@ related:
 - id: "thk-jlilly", title: "جون لِلي", type: "مفكر"
 - id: "thk-wrichards", title: "وليام ريتشاردز", type: "مفكر"
 gaps:
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `br-transpersonal-psychology` — وهو **ملفُّ إحالةٍ** لا مدرسة (صار إحالةً في دفعة دمجٍ سابقة ولم تُنقَل الأنسابُ الواردةُ إليه)، فنُقل إلى البديل المعتمد `sch-transpersonal`."
   - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لـرالف ميتزنر."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---

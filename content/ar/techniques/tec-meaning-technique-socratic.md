@@ -11,7 +11,7 @@ active_start: 1955
 active_end: "مستمر"
 evidence_level: "traditional"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 - rel: "formulated_by", target: "thk-frankl", target_type: "مفكر"
 related:
 - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
@@ -20,6 +20,7 @@ related:
 - id: "tec-paradoxical-intention", title: "النية المتناقضة", type: "تقنية/تدخل علاجي"
 - id: "dis-insomnia-disorder", title: "اضطراب الأرق", type: "اضطراب/حالة إكلينيكية"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-humanistic` بحسب المجال المُصحَّح في مسار التنقّل («الإنسانية»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
   - "لا يوجد اقتباس مباشر من فرانكل موثّق بترقيم صفحة من The Doctor and the Soul بعد — العرض الحالي إعادة صياغة لا اقتباس حرفي."
   - "لا توجد دراسة معشاة (RCT) موثقة في الأطلس اختبرت Dereflection تحديداً بمعزل عن النية المتناقضة — أغلب الأدلة على العلاج بالمعنى ككل تخص Meaning-Centered Psychotherapy (tec-meaning-centered-psychotherapy) لا هذه التقنية بعينها."
 ---

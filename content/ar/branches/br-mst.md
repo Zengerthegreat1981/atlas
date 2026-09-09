@@ -15,7 +15,6 @@ edges:
 related:
 - id: "thk-charles-glisson", title: "تشارلز غليسون", type: "مفكر"
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
-- id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
 gaps:
   - "تاريخ التطوير الدقيق في Medical University of South Carolina يستحق مصدراً."
   - "نموذج العمل مع criminal justice system يستحق تفصيلاً."

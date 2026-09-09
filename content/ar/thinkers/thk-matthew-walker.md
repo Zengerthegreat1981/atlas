@@ -13,10 +13,11 @@ active_start: 2000
 active_end: "مستمر"
 crumb: "علم الأعصاب وسيكولوجيا النوم ← الناس ← ماثيو ووكر"
 edges:
-- rel: "belongs_to", target: "sch-sleep-neuroscience", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-sleep-science", target_type: "مدرسة"
 related:
 - id: "wrk-why-we-sleep", title: "لماذا ننام: اكتشف طاقة النوم والأحلام", type: "عمل"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` اسماً نصّياً «علم أعصاب النوم» لا يُحلّ إلى ملفّ، وقد أُنشئت المدرسةُ `sch-sleep-science` فأُسند الانتماءُ إليها."
   - "نص كتاب 'لماذا ننام' بالعربية لم يُراجع بعد."
   - "تفاصيل البودكاست 'Matt Walker Podcast' موثّقة جزئياً."
   - "روابط related السابقة إلى thk-jhorne وthk-arec وthk-siegel ودis-insomnia أُزيلت لأن الملفات المستهدفة غير موجودة في الأطلس."

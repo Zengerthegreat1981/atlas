@@ -2,7 +2,7 @@
 slug: "que-intergenerational-healing-rituals"
 id: "QUE-0051"
 type: "سؤال توليدي"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "كيف تلتئم الصدمات المتوارثة عبر الأجيال في الثقافات الجمعية؟"
 en: "Intergenerational Trauma and Collective Healing: Epigenetics, Rituals, and Indigenous Wisdom"
@@ -17,6 +17,7 @@ related:
 - id: "thk-eduardo-duran", title: "إدواردو دوران", type: "مفكر"
 - id: "ctx-transgenerational-epigenetics-trauma", title: "علم الوراثة اللاجينية وفرضية انتقال الصدمات عبر الأجيال: أدلة وحدودها", type: "سياق/تقليد"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `sch-indigenous-psychology` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
 ---

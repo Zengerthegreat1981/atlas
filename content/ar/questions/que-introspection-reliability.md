@@ -2,7 +2,7 @@
 slug: "que-introspection-reliability"
 id: "QUE-0053"
 type: "سؤال توليدي"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "هل الاستبطان وسيلة موثوقة لمعرفة الذات أم حكاية تبريرية لاحقة؟"
 en: "Is Introspection a Reliable Guide to the Self or Post-Hoc Confabulation?"
@@ -15,6 +15,7 @@ related:
 - id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
 - id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `sch-cognitive-behavioral` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
 ---

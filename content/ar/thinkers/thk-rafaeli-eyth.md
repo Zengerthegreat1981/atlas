@@ -8,17 +8,17 @@ en: "Rafaeli Eyth"
 dates: "الولايات المتحدة/إسرائيل"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-active_start: "[DRAFT-UNKNOWN]"
+active_start: null
 active_end: "مستمر"
 part: "philosophy"
 crumb: "علم نفس الأداء (Performance Psychology) ← تطوير ← رافائيل إيدث"
 edges:
-- rel: "belongs_to", target: "br-performance-psychology", type: "تيار"
+- rel: "belongs_to", target: "br-performance-psychology", target_type: "تيار"
 related:
-- id: "thk-rsuinn", type: "مفكر", title: "ريتشارد سوين"
-- id: "thk-khabegger", type: "مفكر", title: "كارين هابغر"
-- id: "thk-jloehr", type: "مفكر", title: "جيم لور"
+- id: "thk-rsuinn", title: "ريتشارد سوين", type: "مفكر"
+- id: "thk-jim-loehr", title: "جيم لور", type: "مفكر"
 gaps:
+  - "إحالة معلَّقة أُزيلت: «كارين هابغر» (thk-khabegger) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "لا توجد سيرة ذاتية منشورة لـ 'Rafaeli Eyth' في ISSP (International Society of Sport Psychology) حتى آب 2026."
   - "الاحتمال: خلط مع 'Rafaeli Eytan' (منظمة دروس يوغا إسرائيلية) أو 'Rafael Eyth' (لاعب تنس قديم)."

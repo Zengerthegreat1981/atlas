@@ -5,18 +5,20 @@ type: "مفهوم"
 level: "متقدم"
 title: "نزع الأسطورة"
 en: "Demythologization (Bultmann)"
-crumb: "المدرسة الوجودية ← المفاهيم ← نزع الأسطورة"
+crumb: "اللاهوت الوجودي ← المفاهيم ← نزع الأسطورة"
 part: "philosophy"
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism-religious", target_type: "مدرسة"
 related:
 - id: "thk-bultmann", title: "رودولف بولتمان", type: "مفكر"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "thk-barth", title: "كارل بارث", type: "مفكر"
 - id: "con-existence-existentialism", title: "الوجودية (Existence) في الفلسفة الوجودية", type: "مفهوم"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-existentialism-religious` بحسب المجال المُصحَّح في مسار التنقّل («اللاهوت الوجودي»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
+  - "**صُحِّح مسار التنقّل 2026-09-08:** كان الجزء الأول «المدرسة الوجودية» ختماً قالبياً؛ واستُبدل بـ«اللاهوت الوجودي». المصدر: نقضٌ يدويّ — نزعُ الأسطورة مقولةٌ لاهوتية عند بولتمان. ولم يُشتقَّ من `belongs_to` لأنّ الحقلَ في هذا الحشد مختومٌ آلياً على «الوجودية العلاجية» حتى لمدخلاتٍ فلسفيةٍ تسبق الوجودية بقرون."
   - "رابط مقترح لـ«الأسطورة» (con-myth) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "النص الأصلي 'Neues Testament und Mythologie' (1941) لبولتمان يحتاج مراجعة من المصدر الأولي للخطوات المنهجية."
 ---

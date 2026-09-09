@@ -2,7 +2,7 @@
 slug: "dia-frankl-may-meaning-debate"
 id: "DIA-0038"
 type: "حوار مع مدرسة مجاورة"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "سجال فرانكل وماي في مجلة العلاج الإنساني: هل اللوغوثيرابيا سلطوية؟"
 en: "The Frankl-May Print Debate: Is Logotherapy Authoritarian?"
@@ -15,6 +15,7 @@ related:
 - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
 - id: "thk-may", title: "رولو ماي", type: "مفكر"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `sch-existential-therapy` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "لا يوجد توثيق للقاء شخصي مباشر بين فرانكل وماي؛ السجال جرى بالكامل عبر مقالات منشورة في مجلة واحدة على مدى عام."
   - "نص مقال ماي الأصلي 'Response to Bulka's Article' (خريف 1978) غير متاح كاملاً هنا؛ الاعتماد على اقتباسات ثانوية موثقة."
 ---

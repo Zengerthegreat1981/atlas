@@ -11,9 +11,9 @@ language: "البرتغالية، الإسبانية"
 active_start: 1971
 active_end: 2009
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← أوغوستو بوال"
+crumb: "العلاج بالدراما والمسرح ← الناس ← أوغوستو بوال"
 edges:
-- rel: "belongs_to", target: "sch-drama-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-drama-therapy", target_type: "مدرسة"
 related:
 - id: "thk-jmoreno", title: "جاكوب مورينو", type: "مفكر"
 - id: "thk-zmoreno", title: "زيركا ت. مورينو", type: "مفكر"

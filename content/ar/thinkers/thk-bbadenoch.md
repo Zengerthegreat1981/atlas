@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 2000
 active_end: "مستمر"
 part: "psychology"
-crumb: "الأطلس ← thinkers ← بوني بادنوك"
+crumb: "علم الأحياء العصبي البيني-الشخصي (IPNB) ← الناس ← بوني بادنوك"
 edges:
 - rel: "belongs_to", target: "br-interpersonal-neurobiology", target_type: "تيار"
 related:

@@ -13,7 +13,7 @@ active_start: 1982
 active_end: 1999
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "thk-cmartell", title: "كريستوفر ر. مارتل", type: "مفكر"
 - id: "thk-maddis", title: "مايكل إي. آديس", type: "مفكر"
@@ -21,6 +21,7 @@ related:
 - id: "tec-behavioral-activation", title: "التنشيط السلوكي (BA)", type: "تقنية/تدخل علاجي"
 - id: "con-marsha-acceptance-change", title: "جدلية القبول والتغيير في العلاج الزوجي", type: "مفهوم"
 gaps:
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-cbt` — وهو **ملفُّ إحالةٍ** لا مدرسة (صار إحالةً في دفعة دمجٍ سابقة ولم تُنقَل الأنسابُ الواردةُ إليه)، فنُقل إلى البديل المعتمد `sch-cognitive-behavioral`."
   - "تفاصيل أبحاثه المبكرة حول العلاج الزوجي السلوكي مع Margolin — موضع بحث."
   - "روابط `thk-dmeichenbaum` و`thk-kelly-george` أُزيلت — لا جملة في المتن تبرر صلتهما بعمل جاكوبسون."
 ---

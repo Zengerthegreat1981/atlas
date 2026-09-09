@@ -12,7 +12,7 @@ language: "الإنجليزية"
 active_start: 1912
 active_end: 1962
 active_source: "lifespan"
-crumb: "الأطلس ← thinkers ← كلارنس إيرفينغ لويس (مؤسِّس البراغماتية التصوّرية)"
+crumb: "البراغماتية الكلاسيكية ← الناس ← كلارنس إيرفينغ لويس (مؤسِّس البراغماتية التصوّرية)"
 edges:
 - rel: "belongs_to", target: "sch-pragmatism-classical", target_type: "مدرسة"
 - rel: "belongs_to", target: "sch-neopragmatism", target_type: "مدرسة"

@@ -6,18 +6,19 @@ level: "متقدم"
 title: "ريموند و. نوفاكو"
 en: "Raymond W. Novaco"
 crumb: "المعرفية السلوكية ← الناس ← ريموند نوفاكو"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1975
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "thk-krischer", title: "باري كريشر", type: "مفكر"
 - id: "tec-stress-inoculation-training", title: "التدريب على تحصين الضغوط (SIT)", type: "تقنية/تدخل علاجي"
 gaps:
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-cbt` — وهو **ملفُّ إحالةٍ** لا مدرسة (صار إحالةً في دفعة دمجٍ سابقة ولم تُنقَل الأنسابُ الواردةُ إليه)، فنُقل إلى البديل المعتمد `sch-cognitive-behavioral`."
   - "سنة الميلاد تقريبية، تستحق توثيقاً من مصدر أولي."
   - "تفاصيل عمله في جامعة كاليفورنيا (Irvine) ودراساته عن الغضب والعدوان تستحق توثيقاً."
 ---

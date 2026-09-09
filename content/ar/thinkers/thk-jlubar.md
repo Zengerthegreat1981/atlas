@@ -6,7 +6,7 @@ level: "متقدم"
 title: "جويل لوبار"
 en: "Joel F. Lubar"
 crumb: "التغذية الراجعة العصبية ← الناس ← Neurofeedback التاريخي ← جويل لوبار"
-dates: "الولايات المتحدة · 1938–[DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · 1938–[غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1976

@@ -8,7 +8,7 @@ en: "Marxist/Class Critique of Psychology: Psychology as Social Control"
 crumb: "النقد الخارجي ← النقد الماركسي ← النقد الماركسي/الطبقي لعلم النفس"
 active_start: 1964
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-marxism", target_type: "مدرسة"
 - rel: "relates_to", target: "sch-positive-psychology", target_type: "مدرسة"
@@ -19,6 +19,7 @@ related:
 - id: "crt-medicalization-of-poverty", title: "التطبيب للفقر: تفسير المرضي للمشكلات الاجتماعية", type: "نقد خارجي موثَّق"
 - id: "crt-marx-theses-on-feuerbach", title: "أطروحات ماركس حول فيورباخ ونقد الفلسفة التأملية", type: "نقد خارجي موثَّق"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «psychology» وصار «philosophy» اتّساقاً مع أشقّائه تحت `sch-marxism` (وأغلبيتُهم «philosophy» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "المسودة السابقة من هذا الملف نسبت اقتباسات مباشرة بصيغة حرفية لـHollway (1989) وWalkerdine (1997)، ومراجع لم يتيسّر التحقق من وجودها إطلاقاً (Cabaniss & Mermigos 2017، Nimtz 2017، Charles Zegeye 1984 'The Socialist Way of Life'، Carlos Moya 1985، Richard Wolin 1993 'The Fevered Frontier'، Mary Jackson 2010 'Critical Community Psychology'، Crawford 2013). حُذفت جميعها لعدم القدرة على تأكيدها؛ الكتاب الحقيقي بعنوان قريب هو *Critical Community Psychology* لكاجان وبيرتون ودكيت ولوثوم وصديقي (2011) لا لـ'Mary Jackson'."
   - "موقف فوكو (1975، *المراقبة والمعاقبة*) من علم النفس الماركسي تحديداً — لا اقتباس مباشر متاح يربط النصّين."
   - "رد مباشر موثّق من سكينر أو من داخل CBT على هذا النقد بالذات — غير متاح في هذه المسودة."

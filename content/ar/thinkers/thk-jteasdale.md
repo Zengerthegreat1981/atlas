@@ -13,7 +13,7 @@ active_start: 1995
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "tec-mbct", title: "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)", type: "تقنية/تدخل علاجي"
 - id: "thk-zsegal", title: "زيندل سيغال", type: "مفكر"
@@ -21,6 +21,7 @@ related:
 - id: "rel-buddhism-thirdwave", title: "البوذية والموجة الثالثة من العلاجات: استيراد اليقظة من فيباسانا إلى MBSR وACT وDBT", type: "علاقة بين مدرستين"
 - id: "tec-mbct-three-minute-breathing", title: "مساحة التنفس الثلاث دقائق (Three Minute Breathing Space) في MBCT", type: "تقنية/تدخل علاجي"
 gaps:
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-cbt` — وهو **ملفُّ إحالةٍ** لا مدرسة (صار إحالةً في دفعة دمجٍ سابقة ولم تُنقَل الأنسابُ الواردةُ إليه)، فنُقل إلى البديل المعتمد `sch-cognitive-behavioral`."
   - "نظرية «الشبكات المعرفية التفاعلية» (Interactive Cognitive Subsystems) التي صاغها تيزديل في 1983 وأثرها العميق على تطوير MBCT تحتاج توثيقاً إضافياً."
   - "لا يوجد اقتباس مباشر موثوق من *Mindfulness-Based Cognitive Therapy for Depression* (2002) بترجمة عربية معتمدة."
 ---

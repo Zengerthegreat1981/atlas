@@ -6,7 +6,7 @@ level: "متوسط"
 title: "بريان هيوز"
 en: "Brian Hug"
 crumb: "العلاج التفاعلي النمائي الثنائي (DDP) ← تطوير ← بريان هيوز"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2012

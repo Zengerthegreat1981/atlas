@@ -6,10 +6,10 @@ level: "متوسط"
 title: "التجربة السيكوديلية"
 en: "Psychedelic Experience"
 crumb: "العلاج بمساعدة السيكوديلك ← المفاهيم ← التجربة السيكوديلية"
-country: "[DRAFT-UNKNOWN]"
+country: "[غير مؤكد]"
 active_start: 1954
 active_end: "مستمر"
-language: "[DRAFT-UNKNOWN]"
+language: "[غير مؤكد]"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-psychedelic-assisted-therapy", target_type: "مدرسة"

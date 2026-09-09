@@ -12,7 +12,7 @@ language: "الفرنسية"
 active_start: 1943
 active_end: 1990
 active_source: "lifespan"
-crumb: "الأطلس ← thinkers ← ميكائيل دوفرين (ظاهراتي الخبرة الجمالية)"
+crumb: "الظاهراتية (Phänomenologie) ← الناس ← ميكائيل دوفرين (ظاهراتي الخبرة الجمالية)"
 edges:
 - rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
 - rel: "belongs_to", target: "sch-phenomenology-somatic", target_type: "مدرسة"

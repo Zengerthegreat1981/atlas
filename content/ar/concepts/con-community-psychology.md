@@ -10,13 +10,14 @@ active_start: 1965
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "con-community-psychology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-liberation-psychology", target_type: "مدرسة"
 related:
 - id: "thk-imartinbaro", title: "إغناثيو مارتن-بارو", type: "مفكر"
 - id: "thk-pfreire", title: "باولو فريري", type: "مفكر"
 - id: "sch-liberation-psychology", title: "علم نفس التحرر", type: "مدرسة"
 - id: "wrk-martinbaro-psychology-liberation", title: "علم النفس للتحرير (Psicología de la liberación)", type: "عمل / كتاب"
 gaps:
+  - "**صُحِّحت حلقةٌ ذاتية 2026-09-08:** كان `belongs_to` يشير إلى `con-community-psychology` — أي إلى الملفّ نفسِه، وهي حلقةٌ مغلقةٌ لا معنى لها، أصلُها اختلاطُ بادئةٍ في الـslug. ونُقل إلى `sch-liberation-psychology`: علمُ النفس المجتمعيُّ التحرُّريُّ من علم نفس التحرر."
   - "السيرة الكاملة لم تُراجع من مصدر أولي."
 ---
 

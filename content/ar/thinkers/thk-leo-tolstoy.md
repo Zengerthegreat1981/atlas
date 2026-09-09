@@ -2,7 +2,7 @@
 slug: "thk-leo-tolstoy"
 id: "THK-2806"
 type: "مفكر"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "ليو تولستوي"
 en: "Leo Tolstoy"
@@ -12,11 +12,13 @@ crumb: "الفلسفة الوجودية والأدب الروسي ← رواد �
 active_start: 1852
 active_end: 1910
 edges:
-- rel: "belongs_to", target: "sch-existentialism-religious", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "exp-tolstoy-midlife-crisis", title: "أزمة منتصف العمر والتحول الروحي عند ليو تولستوي", type: "خبرة معيشة"
 - id: "ctx-late-tsarist-russia-intelligentsia", title: "روسيا القيصرية المتأخرة وصراع السلافوفيليا والتغريب والعدمية", type: "سياق/تقليد"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «psychology» وصار «philosophy» اتّساقاً مع أشقّائه تحت `sch-existentialism` (وأغلبيتُهم «philosophy» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existentialism-religious` ختماً قالبياً، ونُقل إلى `sch-existentialism` بحسب المجال المُصحَّح في مسار التنقّل («الفلسفة الوجودية والأدب الروسي»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
   - "لا يوجد اقتباس مباشر موثوق بترجمة عربية معتمدة من *A Confession* أو *The Kingdom of God Is Within You*."
   - "تفاصيل مراسلاته المباشرة مع غاندي (تواريخ الرسائل ونصوصها) تحتاج توثيقاً أدق من مصدر أولي."
   - "توسيع شبكة العلاقات مع المدارس المجاورة (الوجودية الدينية، اللاعنف السياسي) قيد المتابعة التحريرية."

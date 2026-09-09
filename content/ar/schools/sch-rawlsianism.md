@@ -23,7 +23,11 @@ related:
 - id: "con-veil-ignorance", title: "حجاب الجهل", type: "مفهوم"
 - id: "wrk-theory-of-justice", title: "نظرية العدالة (A Theory of Justice, 1971)", type: "عمل / كتاب"
 - id: "dbt-rawls-nozick-justice", title: "جدل رولز-نوزيك: العدالة كإنصاف مقابل الحق في الاستحقاق", type: "جدل"
+- id: "axi-veil-of-ignorance-rule", title: "حجاب الجهل والإنصاف (Veil of Ignorance)", type: "بديهية/مبدأ تأسيسي"
+- id: "axi-difference-principle-rule", title: "مبدأ الاختلاف لرولز (Difference Principle)", type: "بديهية/مبدأ تأسيسي"
+- id: "con-difference-principle-concept", title: "مبدأ الاختلاف والعدالة التوزيعية (Difference Principle)", type: "مفهوم"
 gaps:
+  - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشاراتٌ إلى 3 عقدةً كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "نصوص Rawls (A Theory of Justice, Political Liberalism, Justice as Fairness) تحتاج مراجعة من المصدر الأولي."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---

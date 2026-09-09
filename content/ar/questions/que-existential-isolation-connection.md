@@ -2,7 +2,7 @@
 slug: "que-existential-isolation-connection"
 id: "QUE-0044"
 type: "سؤال توليدي"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "كيف نتصالح مع العزلة الوجودية المطلقة ونبني صلة حميمة بالآخرين؟"
 en: "Existential Isolation vs. Relational Intimacy: Bridging the Unbridgeable Gulf"
@@ -16,6 +16,7 @@ related:
 - id: "thk-mbuber", title: "مارتن بُبَر", type: "مفكر"
 - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `sch-existential-therapy` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "لا يوجد نص من فروم عُثر عليه بصيغة اقتباس مباشر مؤرَّخ يخص العزلة الوجودية تحديداً؛ الإشارة إليه حُذفت والاكتفاء بيالوم وبوبر وسارتر كأصحاب المواقف الثلاثة الموثقة."
 ---
 

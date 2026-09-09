@@ -5,7 +5,7 @@ type: "مفكر"
 level: "متقدم"
 title: "ألفونس دي فالهنز"
 en: "Alphonse de Waelhens"
-crumb: "المدرسة الوجودية ← الناس ← ألفونس دي فالهنز"
+crumb: "الظاهراتية ← الناس ← ألفونس دي فالهنز"
 dates: "بلجيكا · 1911–1981"
 active_start: 1942
 active_end: 1972
@@ -13,7 +13,7 @@ country: "بلجيكا"
 language: "الفرنسية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
 related:
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
@@ -21,6 +21,8 @@ related:
 - id: "rel-phenopath", title: "الظاهراتية النفسية المرضية — الحليف", type: "علاقة بين مدرستين"
 - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-phenomenology` بحسب المجال المُصحَّح في مسار التنقّل («الظاهراتية»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
+  - "**صُحِّح مسار التنقّل 2026-09-08:** كان الجزء الأول «المدرسة الوجودية» ختماً قالبياً، واستُبدل بـ«الظاهراتية» — دي فالهنز ظاهراتيٌّ بلجيكي."
   - "لا يوجد اقتباس مباشر موثوق من *La Philosophie de Martin Heidegger* (1942) بترجمة عربية معتمدة."
   - "دراسته الرائدة حول فينومينولوجيا هايدجر (1942) والفصام والتحليل النفسي تستحق توثيقاً."
 ---

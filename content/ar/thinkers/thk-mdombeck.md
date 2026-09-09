@@ -5,7 +5,7 @@ type: "مفكر"
 level: "مبتدئ"
 title: "مارك دومبيك"
 en: "Mark R. Dombeck"
-dates: "[DRAFT-UNKNOWN]"
+dates: "[غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1990

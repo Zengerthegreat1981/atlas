@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← ألان شور"
+crumb: "علم الأحياء العصبي البيني-الشخصي (IPNB) ← الناس ← ألان شور"
 edges:
 - rel: "belongs_to", target: "br-interpersonal-neurobiology", target_type: "تيار"
 related:

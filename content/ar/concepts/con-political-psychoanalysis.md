@@ -10,7 +10,7 @@ active_start: 1970
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "con-political-psychoanalysis", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-sljizek", title: "سلافوي جيجك", type: "مفكر"
 - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
@@ -20,6 +20,7 @@ related:
 - id: "con-cultural-psychoanalysis", title: "التحليل النفسي الثقافي", type: "مفهوم"
 - id: "con-feminist-psychoanalysis", title: "التحليل النفسي النسوي", type: "مفهوم"
 gaps:
+  - "**صُحِّحت حلقةٌ ذاتية 2026-09-08:** كان `belongs_to` يشير إلى `con-political-psychoanalysis` — أي إلى الملفّ نفسِه، وهي حلقةٌ مغلقةٌ لا معنى لها، أصلُها اختلاطُ بادئةٍ في الـslug. ونُقل إلى `sch-psychoanalysis`: مقولةٌ في التحليل النفسي."
   - "لم يُعثر بعد على اقتباس مباشر موثوق يمكن نسبته للمصدر الأولي."
 ---
 

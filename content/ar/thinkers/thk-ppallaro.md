@@ -11,9 +11,9 @@ language: "الإنجليزية/الإيطالية"
 active_start: 1985
 active_end: "مستمر"
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← باتريتسيا بالارو"
+crumb: "الحركة الأصيلة ← الناس ← باتريتسيا بالارو"
 edges:
-- rel: "belongs_to", target: "sch-authentic-movement", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-authentic-movement", target_type: "مدرسة"
 related:
 - id: "thk-mwhitehouse", title: "ماري ستاركس وايتهاوس", type: "مفكر"
 - id: "thk-jadler", title: "جانيت أدلر", type: "مفكر"

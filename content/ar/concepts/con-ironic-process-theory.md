@@ -11,7 +11,7 @@ crumb: "علم النفس المعرفي والإكلينيكي ← المفاه
 active_start: 1987
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "dis-ocd", title: "اضطراب الوسواس القهري", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-insomnia-disorder", title: "اضطراب الأرق", type: "اضطراب/حالة إكلينيكية"
@@ -20,6 +20,7 @@ related:
 - id: "wrk-happiness-trap", title: "فخ السعادة: كيف تتوقف عن الصراع وتبدأ في العيش", type: "عمل / كتاب"
 - id: "thk-russ-harris", title: "روس هاريس", type: "مفكر"
 gaps:
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-cbt` — وهو **ملفُّ إحالةٍ** لا مدرسة (صار إحالةً في دفعة دمجٍ سابقة ولم تُنقَل الأنسابُ الواردةُ إليه)، فنُقل إلى البديل المعتمد `sch-cognitive-behavioral`."
   - "طلب slug جديد: thk- لدانيال ويغنر (Daniel Wegner)، عالم النفس الذي صاغ نظرية المعالجة الارتدادية عام 1987 وأجرى تجربة «الدب الأبيض» — مذكور صراحة بالاسم في متن هذا الملف، ولا يوجد ملف thk- مطابق له في الأطلس. type: مفكر، part: psychology."
   - "لم يُعثر حتى الآن على اقتباس مباشر مسنَد بمصدر أولي لهذا المفهوم."
 ---

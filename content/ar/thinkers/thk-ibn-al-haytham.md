@@ -12,7 +12,7 @@ language: "العربية"
 active_start: 1000
 active_end: 1039
 active_source: "lifespan"
-crumb: "الأطلس ← thinkers ← ابن الهيثم (الحسن بن الحسن / Alhazen)"
+crumb: "الفلسفة المشائية الإسلامية ← الناس ← ابن الهيثم (الحسن بن الحسن / Alhazen)"
 edges:
 - rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 - rel: "belongs_to", target: "sch-mutazila", target_type: "مدرسة"

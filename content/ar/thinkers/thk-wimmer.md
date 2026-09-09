@@ -18,7 +18,9 @@ related:
 - id: "con-interculturality", title: "البين-ثقافية (Interkulturalität)", type: "مفهوم"
 - id: "sch-intercultural-philosophy", title: "الفلسفة بين-الثقافية", type: "مدرسة"
 - id: "wrk-intercultural-philosophy-wimmer", title: "الفلسفة البين-ثقافية (Interkulturelle Philosophie)", type: "عمل / كتاب"
+- id: "stu-wimmer-perner-false-belief", title: "تجربة فيمر وبيرنر للمهمة الكلاسيكية للاعتقاد الخاطئ ونظرية العقل", type: "دراسة وبحث"
 gaps:
+  - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "لم تُراجع بعدُ طبعة IKO الأصلية لـ *Interkulturelle Philosophie* (2004) ولا المجلدات اللاحقة."
   - "لا اقتباس مباشر منسوب له بمصدر ورقم صفحة تم التحقق منه."
 ---

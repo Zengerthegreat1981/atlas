@@ -11,12 +11,13 @@ country: "كندا"
 language: "إنجليزية"
 active_start: 1980
 active_end: 2012
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
 - id: "thk-vsatir", title: "فيرجينيا ساتير", type: "مفكر"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `sch-systemic-family` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "لا يوجد ملف مدرسي مستقل لـ'نموذج ساتير للنمو' في الأطلس؛ رُبطت غوموري بـsch-systemic-family (المدرسة الأم الفعلية لفيرجينيا ساتير نفسها) بدلاً من اسم حر."
 ---
 

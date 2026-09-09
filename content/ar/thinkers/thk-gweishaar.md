@@ -6,11 +6,11 @@ level: "متوسط"
 title: "إريك وايشار"
 en: "Eric Weishaar"
 crumb: "مدرسة علم النفس الفردي ← الناس ← إريك وايشار"
-dates: "[DRAFT-UNKNOWN]"
-country: "[DRAFT-UNKNOWN]"
+dates: "[غير مؤكد]"
+country: "[غير مؤكد]"
 language: "الإنجليزية"
-active_start: "[DRAFT-UNKNOWN]"
-active_end: "[DRAFT-UNKNOWN]"
+active_start: null
+active_end: null
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-adlerian", target_type: "تيار"

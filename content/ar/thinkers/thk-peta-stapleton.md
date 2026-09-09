@@ -6,7 +6,7 @@ level: "متقدم"
 title: "بيتا ستاپلتون"
 en: "Peta Stapleton"
 crumb: "تقنيات الحرية الانفعالية (EFT) ← تطوير ← بيتا ستاپلتون"
-dates: "أستراليا · [DRAFT-UNKNOWN]"
+dates: "أستراليا · [غير مؤكد]"
 country: "أستراليا"
 language: "الإنجليزية"
 active_start: 2010

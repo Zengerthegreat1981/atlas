@@ -8,15 +8,15 @@ en: "Susan Tynes"
 dates: "الولايات المتحدة"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-active_start: "[DRAFT-UNKNOWN]"
+active_start: null
 active_end: "مستمر"
 part: "philosophy"
 crumb: "العلاج بالتصوير الضوئي (PhotoTherapy) ← تطوير ← سوزان تاينز"
 edges:
 - rel: "belongs_to", target: "tec-phototherapy", target_type: "تيار"
 related:
-- id: "thk-jweiser", type: "مفكر", title: "جودي وايزر"
-- id: "thk-dkrauss", type: "مفكر", title: "ديفيد كراوس"
+- id: "thk-judy-weiser", title: "جودي وايزر (مؤسِّسة العلاج بالصور الفوتوغرافية)", type: "مفكر"
+- id: "thk-david-krauss", title: "ديفيد أ. كراوس", type: "مفكر"
 gaps:
   - "لا توجد سيرة ذاتية منشورة لـ 'Susan Tynes' في حقل PhotoTherapy في PsycINFO (حتى آب 2026)."
   - "الاحتمال: الاسم مُدخل من بيانات ممارسي PhotoTherapy."

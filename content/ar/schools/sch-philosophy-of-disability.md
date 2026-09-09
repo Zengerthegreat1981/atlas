@@ -13,33 +13,29 @@ cultural_origin: "anglo-american"
 language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "sch-comparative-philosophy", target_type: "مظلة"
+edges: []
 related:
 - id: "sch-environmental-ethics", title: "فلسفة البيئة", type: "مدرسة"
 - id: "sch-care-ethics", title: "أخلاقيات الرعاية", type: "مدرسة"
 - id: "wrk-disability-rights-wrongs", title: "حقوق وأخطاء الإعاقة (Disability Rights and Wrongs)", type: "عمل / كتاب"
 - id: "thk-shakespeare", title: "توم شكسبير", type: "مفكر"
 - id: "con-occasionalism-ashari", title: "العناية الإلهية (العرضية عند الأشعري)", type: "مفهوم"
+- id: "dbt-disability-social-model-vs-medical-model", title: "النموذج الاجتماعي للإعاقة مقابل النموذج الطبي العضوي", type: "جدل"
 gaps:
+  - "**فُرِّغ حقلُ الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-comparative-philosophy` ختماً قالبياً — الفلسفةُ المقارنةُ منهجٌ ومجالٌ مستقلّ، لا مظلّةٌ للفلسفات التطبيقية المعاصرة. وهذه مدرسةُ نِدٍّ أو مظلّةٌ مستقلّة، فبقي الحقلُ فارغاً؛ ولم يُوضَع أبٌ تقريبيٌّ لأنّ أباً خاطئاً أسوأُ من غياب أب."
+  - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "رابط مقترح لـ«النسوية» (sch-feminism) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Eva Kittay, Lennard Davis, Tom Shakespeare, Michael Bérubé, Sunaura Taylor, Rosemarie Garland-Thomson need review."
 ---
-
 # فلسفة الإعاقة
-
 حقل فلسفي يَدرس الإعاقة من منظور فلسفي-أخلاقي، مُنكراً النماذج الطبية التقليدية.
-
 ## الأفكار المركزية
-
 - **النموذج الاجتماعي (Social Model)**: الإعاقة بنية اجتماعية لا قصور فردي.
 - **Disability Identity (هوية الإعاقة)**: تجربة فريدة.
 - **Disability Studies (دراسات الإعاقة)**: حقل أكاديمي.
 - **Crip Theory (نظرية الإعاقة)**: عند McRuer.
 - **Dysgenic Critique**: نقد علم تحسين النسل.
-
 ## الفلاسفة
-
 - **Eva Feder Kittay (إيفي فِدَر كيتي)**: «Love's Labor» (1999).
 - **Lennard Davis (لينارد ديفيز)**: «Enforcing Normalcy» (1995).
 - **Tom Shakespeare (توم شكسبير)**: «The Social Model of Disability» (2006).
@@ -48,20 +44,14 @@ gaps:
 - **Rosemarie Garland-Thomson (روزماري غارلاند-تومسون)**: «Staring» (2009).
 - **Robert McRuer (روبرت مكريور)**: «Crip Theory» (2006).
 - **Alison Kafer (أليسون كيفر)**: «Feminist, Queer, Crip» (2013).
-
 ## الأثر
-
 - أثّرت في قانون الإعاقة.
 - أثّرت في علم النفس العيادي.
 - أثّرت في حركات حقوق الإعاقة.
-
 ## القيد
-
 - تواجه انتقادات بسبب التعميم بين الإعاقات المختلفة.
 - تواجه انتقادات بسبب أحياناً إهمال البُعد الطبي.
-
 ## المصادر
-
 - Kittay, Eva Feder. *Love's Labor: Essays on Women, Equality, and Dependency*. New York: Routledge, 1999.
 - Davis, Lennard J. *Enforcing Normalcy: Disability, Deafness, and the Body*. London: Verso, 1995.
 - Shakespeare, Tom. *Disability Rights and Wrongs*. London: Routledge, 2006.

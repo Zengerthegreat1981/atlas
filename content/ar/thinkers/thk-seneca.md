@@ -20,7 +20,7 @@ related:
 - id: "thk-musonius-rufus", title: "موسونيوس روفوس", type: "مفكر"
 - id: "sch-stoicism", title: "الرواقية (Stoicism)", type: "مدرسة"
 - id: "ctx-stoa-poikile-athens", title: "سياق الرواق الملون في أثينا والتربية الرواقية المدنية", type: "سياق/تقليد"
-- id: "thk-posidonius", type: "مفكر", title: "بوسيدونيوس الأفامي"
+- id: "thk-posidonius", title: "بوسيدونيوس الأفامي", type: "مفكر"
 gaps:
   - "تفاصيل «سبع سنوات نيرون الأولى الجيدة» (Quinquennium Neronis) موثّقة في تاسيتوس."
   - "نسبة بعض الرسائل إلى سينينا الأكبر (Seneca the Elder) تحتاج فصلاً."

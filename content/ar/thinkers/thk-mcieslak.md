@@ -5,11 +5,11 @@ type: "مفكر"
 level: "مبتدئ"
 title: "ماريك تشيسلاك"
 en: "Marek Cieslak"
-dates: "[DRAFT-UNKNOWN]"
-country: "[DRAFT-UNKNOWN]"
-language: "[DRAFT-UNKNOWN]"
-active_start: "[DRAFT-UNKNOWN]"
-active_end: "[DRAFT-UNKNOWN]"
+dates: "[غير مؤكد]"
+country: "[غير مؤكد]"
+language: "[غير مؤكد]"
+active_start: null
+active_end: null
 part: "psychology"
 crumb: "البحث الظاهراتي ← الأبحاث المعاصرة ← ماريك تشيسلاك"
 edges: []

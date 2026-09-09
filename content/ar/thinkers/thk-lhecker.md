@@ -10,7 +10,7 @@ dates: "[غير مؤكد]"
 country: "[غير مؤكد]"
 language: "الإنجليزية"
 active_start: 1980
-active_end: "[DRAFT-UNKNOWN]"
+active_end: null
 part: "philosophy"
 edges: []
 related: []

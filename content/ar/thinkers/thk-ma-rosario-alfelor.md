@@ -6,7 +6,7 @@ level: "متوسط"
 title: "ماريا روساريو ألفيلور"
 en: "Ma. Rosario Alfelor"
 crumb: "Sikolohiyang Pilipino (Filipino Psychology) ← تطوير ← ماريا روساريو ألفيلور"
-dates: "الفلبين · [DRAFT-UNKNOWN]"
+dates: "الفلبين · [غير مؤكد]"
 country: "الفلبين"
 language: "الفلبينية/الإنجليزية"
 active_start: 2005

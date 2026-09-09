@@ -6,10 +6,10 @@ level: "متوسط"
 title: "المرونة العصبية في سياق الصدمة"
 en: "Neuroplasticity in Trauma Context"
 crumb: "العلاج المتمركز حول الصدمة ← المفاهيم ← المرونة العصبية"
-country: "[DRAFT-UNKNOWN]"
+country: "[غير مؤكد]"
 active_start: 2000
 active_end: "مستمر"
-language: "[DRAFT-UNKNOWN]"
+language: "[غير مؤكد]"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "مدرسة"

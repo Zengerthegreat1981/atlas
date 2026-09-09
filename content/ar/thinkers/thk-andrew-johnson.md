@@ -6,7 +6,7 @@ level: "متوسط"
 title: "أندرو جونسون"
 en: "Andrew Johnson"
 crumb: "أسلوب إلمان في التنويم ← تطوير ← أندرو جونسون"
-dates: "المملكة المتحدة · [DRAFT-UNKNOWN]"
+dates: "المملكة المتحدة · [غير مؤكد]"
 country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 2010

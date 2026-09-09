@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
 part: "psychology"
-crumb: "الأطلس ← thinkers ← تيري غيلنغهام"
+crumb: "طريقة هاكومي التجريبية المرتكزة على الجسد ← الناس ← تيري غيلنغهام"
 edges:
 - rel: "belongs_to", target: "tec-hakomi", target_type: "تقنية/تدخل علاجي"
 related: []

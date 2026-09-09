@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "إنجليزية وإسبانية"
 active_start: 1975
 active_end: 2022
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
@@ -19,6 +19,7 @@ related:
 - id: "thk-merickson", title: "ميلتون إريكسون", type: "مفكر"
 - id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `sch-systemic-family` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
 - "ازدواج slug معروف: يوجد ملف بنفس الـslug في `content/ar/drafts/spark/thinkers/thk-cmadanes.md` — لم يُلمس هنا، والقرار متروك لرئيس التحرير."
 - "حُذف من المتن *The Secret Life of Families: Truth-Telling, Privacy, and Reconciliation* المنسوب إليها: العنوان بهذه الصيغة الفرعية لإيفان إمبر-بلاك لا لمادانس."
 - "حُذفت نسبة *Behind the One-Way Mirror* إلى «1981 مع جاي هالي»: الكتاب صدر عن Jossey-Bass باسمها وحدها، و1981 هو تاريخ *Strategic Family Therapy*."

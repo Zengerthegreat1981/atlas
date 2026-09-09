@@ -6,11 +6,11 @@ level: "متقدم"
 title: "هيلموت هوبر"
 en: "Helmut Huber"
 crumb: "التحليل النفسي الجديد (شولتز-هينكه) ← علم نفس الشخصية ← هيلموت هوبر"
-dates: "[DRAFT-UNKNOWN]"
-country: "[DRAFT-UNKNOWN]"
+dates: "[غير مؤكد]"
+country: "[غير مؤكد]"
 language: "ألمانية"
-active_start: "[DRAFT-UNKNOWN]"
-active_end: "[DRAFT-UNKNOWN]"
+active_start: null
+active_end: null
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-schultz-hencke", target_type: "تيار"

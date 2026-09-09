@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 2010
 active_end: "مستمر"
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← إيما كول"
+crumb: "الناس ← إيما كول"
 edges: []
 related: []
 gaps:

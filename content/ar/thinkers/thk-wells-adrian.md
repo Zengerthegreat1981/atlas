@@ -6,19 +6,20 @@ level: "متقدم"
 title: "أدريان ويلز"
 en: "Adrian Wells"
 crumb: "المعرفية السلوكية ← الناس ← أدريان ويلز"
-dates: "بريطانيا · [DRAFT-UNKNOWN]"
+dates: "بريطانيا · [غير مؤكد]"
 country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1995
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "tec-metacognitive-therapy", title: "العلاج ما وراء المعرفي (MCT)", type: "تقنية/تدخل علاجي"
 - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
 gaps:
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-cbt` — وهو **ملفُّ إحالةٍ** لا مدرسة (صار إحالةً في دفعة دمجٍ سابقة ولم تُنقَل الأنسابُ الواردةُ إليه)، فنُقل إلى البديل المعتمد `sch-cognitive-behavioral`."
   - "سنة الميلاد وسنوات عمله في جامعة مانشستر (التي كان يرأس فيها سابقاً مركز MCT) تستحق توثيقاً."
 ---
 

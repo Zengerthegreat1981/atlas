@@ -18,7 +18,10 @@ related:
 - id: "thk-cameier", title: "كارل ألفرد ماير", type: "مفكر"
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-kalff", title: "دورا كالف", type: "مفكر"
+- id: "thk-cyamanaka", title: "تشيي ياماناكا", type: "مفكر"
+- id: "thk-jnakamura", title: "[مؤسِّسو Sandplay Therapy Japan / JST] - Japanese Sandplay second generation", type: "مفكر"
 gaps:
+  - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشاراتٌ إلى 2 عقدةً كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "لا يوجد اقتباس مباشر موثوق من *The Japanese Psyche: Major Motifs in the Fairy Tales of Japan* (1988) بترجمة عربية معتمدة."
   - "ترجمة أعماله الكبيرة (12 مجلّداً) للإنجليزية — جزئية، ولا تزال تستحق جهداً معمارياً."
 ---

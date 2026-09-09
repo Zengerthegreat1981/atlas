@@ -11,7 +11,7 @@ language: "الألمانية"
 active_start: 1949
 active_end: 1973
 part: "psychology"
-crumb: "الأطلس ← thinkers ← جين غيبسر"
+crumb: "الناس ← جين غيبسر"
 edges: []
 related:
 - id: "thk-kwilber", title: "كين ويلبر", type: "مفكر"

@@ -13,34 +13,30 @@ cultural_origin: "anglo-american"
 language: "متعددة"
 active_start: 2014
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "sch-comparative-philosophy", target_type: "مظلة"
+edges: []
 related:
 - id: "sch-philosophy-of-technology", title: "فلسفة التكنولوجيا", type: "مدرسة"
 - id: "sch-utilitarianism-contemporary", title: "النفعية المعاصرة", type: "مدرسة"
 - id: "sch-virtue-ethics", title: "أخلاقيات الفضيلة الجديدة (النيوأرسطية)", type: "مدرسة"
 - id: "con-algorithmic-bias", title: "التحيز الخوارزمي (Algorithmic Bias)", type: "مفهوم"
 - id: "wrk-atlas-of-ai-crawford", title: "أطلس الذكاء الاصطناعي (Atlas of AI)", type: "عمل / كتاب"
+- id: "dbt-ai-personhood-and-moral-status", title: "الأهلية الأخلاقية والشخصية القانونية للذكاء الاصطناعي", type: "جدل"
 gaps:
+  - "**فُرِّغ حقلُ الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-comparative-philosophy` ختماً قالبياً — الفلسفةُ المقارنةُ منهجٌ ومجالٌ مستقلّ، لا مظلّةٌ للفلسفات التطبيقية المعاصرة. وهذه مدرسةُ نِدٍّ أو مظلّةٌ مستقلّة، فبقي الحقلُ فارغاً؛ ولم يُوضَع أبٌ تقريبيٌّ لأنّ أباً خاطئاً أسوأُ من غياب أب."
+  - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "رابط مقترح لـ«أخلاق الواجب» (sch-deontology) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "نصوص Luciano Floridi, Nick Bostrom, Kate Crawford, Timnit Gebru need review."
 ---
-
 # أخلاقيات الذكاء الاصطناعي
-
 حقل فلسفي معاصر يَدرس الأسئلة الأخلاقية التي يطرحها الذكاء الاصطناعي على المجتمع.
-
 ## الأفكار المركزية
-
 - **Algorithmic Bias (التحيز الخوارزمي)**: التمييز في نظم التعلم الآلي.
 - **Information Ethics (أخلاقيات المعلومات)**: عند Floridi.
 - **Existential Risk (الخطر الوجودي)**: عند Bostrom، تهديدات الذكاء العام.
 - **Alignment (التوافق)**: محاذاة الذكاء مع القيم الإنسانية.
 - **AI Safety (سلامة الذكاء الاصطناعي)**: أمن النظم.
 - **Moral Status of AI**: هل الآلة كائن أخلاقي؟
-
 ## الفلاسفة
-
 - **Luciano Floridi (لوشيانو فلوريدي)**: «The Ethics of Information» (2013).
 - **Nick Bostrom (نيك بوستروم)**: «Superintelligence» (2014).
 - **Kate Crawford (كيت كراوفورد)**: «Atlas of AI» (2021).
@@ -48,20 +44,14 @@ gaps:
 - **Yann LeCun (يان لوكون)**: رئيس أبحاث AI في Meta.
 - **Stuart Russell (ستيوارت راسل)**: «Human Compatible» (2019).
 - **Safiya Umoja Noble (صفية نوبيل)**: «Algorithms of Oppression» (2018).
-
 ## الأثر
-
 - أثّرت في التشريعات (AI Act للاتحاد الأوروبي، 2024).
 - أثّرت في أخلاقيات البيانات.
 - أثّرت في علم النفس المعرفي.
-
 ## القيد
-
 - تواجه انتقادات بسبب التقنية المعيارية.
 - تواجه انتقادات بسبب إهمال التأثيرات على الفئات المهمّشة.
-
 ## المصادر
-
 - Luciano Floridi, *The Ethics of Information* (Oxford University Press, 2013).
 - Nick Bostrom, *Superintelligence: Paths, Dangers, Strategies* (Oxford University Press, 2014).
 - Kate Crawford, *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence* (Yale University Press, 2021).

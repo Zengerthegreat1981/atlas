@@ -14,8 +14,10 @@ part: "psychology"
 related:
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 - id: "rel-systemic-psychoanalysis", title: "النظامية الأسرية والتحليل النفسي: الرفض المبكر ثم الجسور اللاحقة", type: "علاقة بين مدرستين"
-- id: "br-ml-personalized-therapy", title: "العلاج المخصّص بالتعلّم الآلي", type: "تيار"
+- id: "thk-bcwhite", title: "برنارد وايت", type: "مفكر"
+- id: "thk-eimber", title: "إيفان إمبير-بلاك", type: "مفكر"
 gaps:
+  - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشاراتٌ إلى 2 عقدةً كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "تاريخ ISTDP للأزواج (Davanloo) يستحق توثيقاً."
   - "الفرق بين 'Object Relations Couples Therapy' (Scharff & Scharff) و'Short-Term Dynamic Couples Therapy' (Christensen & Heavey) يستحق توضيحاً."
 ---

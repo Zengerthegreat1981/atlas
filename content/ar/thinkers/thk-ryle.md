@@ -6,18 +6,19 @@ level: "متقدم"
 title: "أنتوني رايل"
 en: "Anthony Ryle"
 crumb: "المعرفية السلوكية ← الناس ← أنتوني رايل"
-dates: "بريطانيا · [DRAFT-UNKNOWN]"
+dates: "بريطانيا · [غير مؤكد]"
 country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1984
 active_end: 2010
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "tec-cat", title: "العلاج المعرفي التحليلي (CAT)", type: "تقنية/تدخل علاجي"
 - id: "br-independents", title: "مدرسة الإندبندنتس / الوسط البريطانية", type: "تيار"
 gaps:
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-cbt` — وهو **ملفُّ إحالةٍ** لا مدرسة (صار إحالةً في دفعة دمجٍ سابقة ولم تُنقَل الأنسابُ الواردةُ إليه)، فنُقل إلى البديل المعتمد `sch-cognitive-behavioral`."
   - "سنة الميلاد والسنوات الدقيقة لعمله في مستشفى غايز (Guy's Hospital) وفي تطوير CAT لم تُراجع من مصدر أولي."
   - "علاقته الشخصية والفكرية مع المعالج النفسي الأمريكي روبرت ليبورسكي تستحق توثيقاً."
 ---

@@ -13,15 +13,16 @@ active_start: 1965
 active_end: 2015
 crumb: "علم الأعصاب السريري والسرديات النفسية ← الناس ← أوليفر ساكس"
 edges:
-- rel: "belongs_to", target: "br-behavioral-neurology", target_type: "تيار"
+- rel: "belongs_to", target: "sch-behavioral-neurology", target_type: "مدرسة"
 related:
-- id: "thk-mdgwinn", type: "مفكر", title: "ماريون بومر (معالجة الحركة)"
-- id: "thk-thhe", type: "مفكر", title: "توماس ويليس"
 - id: "syn-tourette", title: "متلازمة جيل دو لا توريت", type: "متلازمة"
-- id: "thk-freud", type: "مفكر", title: "سيغموند فرويد"
-- id: "thk-szasz", type: "مفكر", title: "توماس زاس"
-- id: "wrk-man-mistook-wife-hat", type: "عمل", title: "الرجل الذي حسب زوجته قبعة"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-szasz", title: "توماس زاس", type: "مفكر"
+- id: "wrk-man-mistook-wife-hat", title: "الرجل الذي حسب زوجته قبعة", type: "عمل"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` اسماً نصّياً «طب الأعصاب السلوكي» لا يُحلّ إلى ملفّ، وقد أُنشئت المدرسةُ `sch-behavioral-neurology` فأُسند الانتماءُ إليها."
+  - "إحالة معلَّقة أُزيلت: «ماريون بومر (معالجة الحركة)» (thk-mdgwinn) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
+  - "إحالة معلَّقة أُزيلت: «توماس ويليس» (thk-thhe) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
   - "تفاصيل علاجه مع إدمانه للحلوى (Geschwind syndrome) في السبعينيات موثّقة في 'On the Move' (2015)، لكن تحتاج مراجعة أدق للسياق الإكلينيكي."
   - "روابط thk-alsacks وthk-jglean وthk-rwurtman حُذفت — لا ملفات مستقلة لهم في الأطلس بعد رغم ذكرهم في المتن."
 ---

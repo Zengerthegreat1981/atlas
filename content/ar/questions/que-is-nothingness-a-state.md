@@ -10,7 +10,7 @@ crumb: "الأنطولوجيا والميتافيزيقا الوجودية ← �
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-existentialism-atheist", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "sch-existentialism-atheist", title: "الوجودية الملحدة (Atheist Existentialism)", type: "مدرسة"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
@@ -18,6 +18,7 @@ related:
 - id: "thk-parmenides", title: "بارمنيدس الإيلي", type: "مفكر"
 - id: "thk-rcarnap", title: "رودولف كارناب", type: "مفكر"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existentialism-atheist` ختماً قالبياً، ونُقل إلى `sch-existentialism` بحسب المجال المُصحَّح في مسار التنقّل («الأنطولوجيا والميتافيزيقا الوجودية»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
   - "لم يُحسَم بعد موقع الجدل بين هايدجر وكارناب داخل خريطة الأطلس كخلاف تحليلي/قاري مباشر (نوعه dbt- لا مجرد سؤال) — يُترك للمراجعة التحريرية."
 ---
 

@@ -10,8 +10,8 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1966
 active_end: 2018
-part: "philosophy"
-crumb: "الأطلس ← thinkers ← ديانا باومرند"
+part: "psychology"
+crumb: "علم النفس النمائي (Developmental Psychology) ← الناس ← ديانا باومرند"
 edges:
 - rel: "belongs_to", target: "sch-developmental", target_type: "مدرسة"
 related:
@@ -20,6 +20,7 @@ related:
 - id: "thk-lkohlberg", title: "لورنس كولبرغ", type: "مفكر"
 - id: "thk-jkagan", title: "جيروم كاغان", type: "مفكر"
 gaps:
+  - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `sch-developmental` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "لا يوجد اقتباس مباشر موثوق من *Effects of Authoritative Parental Control on Child Behavior* (1966) بترجمة عربية معتمدة."
   - "مقالات باومرند الأصلية في دوريات علم نفس النمو لم تُراجع من طبعاتها الأولى."
 ---

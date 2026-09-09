@@ -16,12 +16,13 @@ active_end: 2007
 edges:
 - rel: "belongs_to", target: "sch-taoist-cognitive-therapy", target_type: "مدرسة"
 related:
-- id: "sch-taoist-cognitive-therapy", title: "الطاوية المعرفية", type: "مدرسة"
 - id: "thk-jingqiyong", title: "يانغ ديشن", type: "مفكر"
 - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
 - id: "con-mindfulness", title: "اليقظة الذهنية", type: "مفهوم"
 - id: "con-dialectics", title: "الجدل", type: "مفهوم"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` اسماً نصّياً «العلاج المعرفي الطاوي» لا يُحلّ إلى ملفّ، وقد أُنشئت المدرسةُ `sch-taoist-cognitive-therapy` فأُسند الانتماءُ إليها."
+  - "إحالة معلَّقة أُزيلت: «الطاوية المعرفية» (sch-taoist-cognitive-therapy) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
   - "تاريخ ميلاده (1935 في تيانجين أو 1936) غير مؤكّد بسبب فجوات في السيرة الذاتية الرسمية."
   - "دوره في مركز علم النفس الإكلينيكي بأكاديمية العلوم الصينية (CAS) موثّق جزئياً."
   - "ترجمة «العلاج المعرفي الطاوي» إلى العربية متفرّقة، غالباً في رسائل جامعية."

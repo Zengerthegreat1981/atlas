@@ -13,13 +13,14 @@ active_start: 1995
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "tec-mbct", title: "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)", type: "تقنية/تدخل علاجي"
 - id: "thk-zsegal", title: "زيندل سيغال", type: "مفكر"
 - id: "thk-jteasdale", title: "جون تيزديل", type: "مفكر"
 - id: "ctx-mindfulness-mbsr-medical-integration", title: "دمج اليقظة الذهنية في الطب المعاصر مع جون كابات زين", type: "سياق/تقليد"
 gaps:
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-cbt` — وهو **ملفُّ إحالةٍ** لا مدرسة (صار إحالةً في دفعة دمجٍ سابقة ولم تُنقَل الأنسابُ الواردةُ إليه)، فنُقل إلى البديل المعتمد `sch-cognitive-behavioral`."
   - "سنة الميلاد الدقيقة (1952 مذكورة في بعض التراجم الأكاديمية دون تأكيد من سيرة ذاتية رسمية) تحتاج تحققاً."
 ---
 # مارك ويليامز

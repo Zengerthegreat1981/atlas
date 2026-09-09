@@ -19,7 +19,7 @@ related:
 - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
 - id: "br-feminist-therapy", title: "العلاج النفسي النسوي", type: "تيار"
 - id: "br-self-actualization-maslow", title: "علم نفس تحقيق الذات (ماسلو)", type: "تيار"
-- id: "crt-critique-of-humanistic-therapy", title: "نقد الْعِلَاج الْإِنْسَانِيّ: تَحْقِيق الذَّات أَمْ «**أَنَانِيَّة**» (Narcissism) مُتَعَالِيَة؟", type: "نقد خارجي موثَّق"
+- id: "crt-critique-of-humanistic-therapy", title: "نقد العلاج الإنساني: تحقيق الذات أم «أنانية» متعالية؟", type: "نقد خارجي موثق"
 gaps:
   - "تفاصيل نقد Chesler (1972) لروجرز تحديداً — لا اقتباس مباشر."
   - "موقف ماسلو نفسه من النساء كـ'ذوات نفس' (نادراً ما ناقش) — لا مراجعة نصية."

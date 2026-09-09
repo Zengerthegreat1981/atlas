@@ -13,10 +13,11 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "العلاج الإيجابي عبر-الثقافي (Peseschkian) ← تطوير ← مانفريد شيربكا"
 edges:
-- rel: "belongs_to", target: "sch-positive-psychotherapy-peseschkian", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-positive-psychotherapy", target_type: "مدرسة"
 related:
 - id: "thk-npeseschkian", title: "نصرت بيسشكيان", type: "مفكر"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` اسماً نصّياً «العلاج النفسي الإيجابي (بسشكيان)» لا يُحلّ إلى ملفّ، وقد أُنشئت المدرسةُ `sch-positive-psychotherapy` فأُسند الانتماءُ إليها."
   - "السيرة الذاتية الكاملة (نشأته، أطروحته) غير منشورة على الإنترنت."
   - "الفصل الدقيق بين أعماله في Göttingen وأعماله في WAPP Wiesbaden يحتاج مراجعة."
   - "روابط related السابقة إلى thk-mpeseschkian وthk-wapp وbr-positive-psychotherapy أُزيلت لأن الملفات المستهدفة غير موجودة في الأطلس."

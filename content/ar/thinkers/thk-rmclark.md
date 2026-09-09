@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: null
 active_end: null
 part: "philosophy"
-crumb: "الأطلس ← thinkers ← روبرت كلارك"
+crumb: "الناس ← روبرت كلارك"
 edges: []
 related: []
 gaps:

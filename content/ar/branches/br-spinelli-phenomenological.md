@@ -13,13 +13,14 @@ active_end: "مستمر"
 language: "الإنجليزية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-spinelli", target_type: "مفكر"
 related:
 - id: "thk-spinelli", title: "إرنستو سبينيللي", type: "مفكر"
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
 - id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-humanistic` بحسب المجال المُصحَّح في مسار التنقّل («الإنسانية»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
   - "تاريخ بدء التيار (1989 تقريبي) يحتاج تحقق من نص Spinelli الأصلي."
   - "الفرق بين 'العلاج الظاهراتي' عند سبينيلّي و'الوجودي-الظاهراتي' عند فان دورزن يحتاج تحليل."
 ---

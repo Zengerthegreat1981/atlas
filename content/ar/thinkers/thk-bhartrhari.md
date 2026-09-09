@@ -12,7 +12,7 @@ language: "السنسكريتية"
 active_start: 470
 active_end: 510
 active_source: "lifespan"
-crumb: "الأطلس ← thinkers ← بهارتريهاري (فيلسوف اللغة السنسكريتية)"
+crumb: "فيدانتا (كمظلة) ← الناس ← بهارتريهاري (فيلسوف اللغة السنسكريتية)"
 edges:
 - rel: "belongs_to", target: "sch-vedanta", target_type: "مدرسة"
 related:

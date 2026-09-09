@@ -11,7 +11,7 @@ language: "الإنجليزية"
 active_start: 1998
 active_end: "مستمر"
 part: "psychology"
-crumb: "الأطلس ← thinkers ← باربرا فريدريكسون"
+crumb: "علم النفس الإيجابي (Positive Psychology) ← الناس ← باربرا فريدريكسون"
 edges:
 - rel: "belongs_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:

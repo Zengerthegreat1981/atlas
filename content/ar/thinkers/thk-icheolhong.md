@@ -6,7 +6,7 @@ level: "مبتدئ"
 title: "تشو هي-سو"
 en: "Cho Hee-soo / Hesoo Cha"
 crumb: "أطر غير غربية ← المفكرون ← تشو هي-سو"
-dates: "كوريا الجنوبية · [DRAFT-UNKNOWN]"
+dates: "كوريا الجنوبية · [غير مؤكد]"
 country: "كوريا الجنوبية"
 language: "الكورية / الإنجليزية"
 active_start: 2000

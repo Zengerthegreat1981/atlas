@@ -6,7 +6,7 @@ level: "مبتدئ"
 title: "ريتشارد ريبو"
 en: "Richard J. Reynolds (T. Taizan Maezumi / Rev. Daitsu Tom Wright)"
 crumb: "أطر غير غربية ← المفكرون ← ريتشارد ريبو"
-dates: "[DRAFT-UNKNOWN]"
+dates: "[غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980

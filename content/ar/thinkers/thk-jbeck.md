@@ -13,12 +13,13 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "العلاج المعرفي ← التدريب والتقنين ← جوديث بِك"
 edges:
-- rel: "belongs_to", target: "sch-cbt", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "thk-jburns", title: "ديفيد بيرنز", type: "مفكر"
 - id: "thk-dgreenberger", title: "دِنيس غرينبرغر", type: "مفكر"
 gaps:
+  - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-cbt` — وهو **ملفُّ إحالةٍ** لا مدرسة (صار إحالةً في دفعة دمجٍ سابقة ولم تُنقَل الأنسابُ الواردةُ إليه)، فنُقل إلى البديل المعتمد `sch-cognitive-behavioral`."
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من *Cognitive Behavior Therapy: Basics and Beyond* (1995) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: دِنيز د. ديفيد (thk-dgreenberger)."

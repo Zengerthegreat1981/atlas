@@ -10,7 +10,7 @@ crumb: "علم النفس المعرفي ← الخبرات المعيشة ← �
 active_start: 1876
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "sch-cognitive-psychology", target_type: "مدرسة"
+- rel: "relates_to", target: "علم النفس المعرفي", target_type: "مدرسة"
 related:
 - id: "con-memory", title: "الذاكرة", type: "مفهوم"
 - id: "con-dissociation", title: "الانفصال", type: "مفهوم"

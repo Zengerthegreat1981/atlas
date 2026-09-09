@@ -14,12 +14,13 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "العلاج النفسي التأملي ← الميتا (Loving-Kindness) في العلاج ← شارون سالزبرغ"
 edges:
-- rel: "belongs_to", target: "br-metta-meditation", target_type: "تيار"
+- rel: "belongs_to", target: "sch-engaged-buddhism", target_type: "مدرسة"
 related:
 - id: "thk-ctrungpa", title: "تشوغيام ترونغبا", type: "مفكر"
 - id: "thk-jkornfield", title: "جاك كورنفيلد", type: "مفكر"
 - id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` اسماً نصّياً «تأمّل المحبة (Metta)» لا يُحلّ إلى ملفّ، وقد أُنشئت المدرسةُ `sch-engaged-buddhism` فأُسند الانتماءُ إليها. **و«تأمّلُ المحبة» تقنيةٌ لا مدرسة**، وانتماءُ الملفّ مذكورٌ في لِيده: «تأمُّلُ الميتا وبوذيةُ الإشراك»."
   - "نص 'Lovingkindness' (1995) بالعربية موثّق جزئياً."
   - "تفاصيل تأسيس IMS (Insight Meditation Society) مع Kornfield وGoldstein موثّقة في مقابلات Salzberg."
 ---

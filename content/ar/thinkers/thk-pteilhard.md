@@ -11,7 +11,7 @@ language: "الفرنسية"
 active_start: 1920
 active_end: 1955
 part: "psychology"
-crumb: "الأطلس ← thinkers ← بيار تيار دي شاردان"
+crumb: "الناس ← بيار تيار دي شاردان"
 edges: []
 related:
 - id: "thk-kwilber", title: "كين ويلبر", type: "مفكر"

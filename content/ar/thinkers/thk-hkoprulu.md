@@ -6,7 +6,7 @@ level: "مبتدئ"
 title: "حازم قبرلو (حازم كوبرولو)"
 en: "Hazim Koprulu"
 crumb: "أطر غير غربية ← المفكرون ← حازم كوبرولو"
-dates: "تركيا · [DRAFT-UNKNOWN]"
+dates: "تركيا · [غير مؤكد]"
 country: "تركيا"
 language: "التركية / العربية / الإنجليزية"
 active_start: null

@@ -6,7 +6,7 @@ level: "مبتدئ"
 title: "لايني روزنزويغ"
 en: "Laney Rosenzweig"
 crumb: "العلاج المتمركز حول الصدمة ← الناس ← ART ← لايني روزنزويغ"
-dates: "الولايات المتحدة · [DRAFT-UNKNOWN]"
+dates: "الولايات المتحدة · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2008

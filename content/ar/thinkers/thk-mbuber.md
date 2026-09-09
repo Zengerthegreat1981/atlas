@@ -13,7 +13,7 @@ language: "الألمانية"
 active_start: 1902
 active_end: 1965
 edges:
-- rel: "belongs_to", target: "sch-existentialism-religious", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-judaism-existential", target_type: "مدرسة"
 related:
 - id: "sch-existentialism-religious", title: "الوجودية الدينية/المسيحية", type: "مدرسة"
 - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
@@ -34,6 +34,7 @@ related:
 - id: "thk-moustakas", title: "كلارك موستاكاس", type: "مفكر"
 - id: "tec-five-dimensions-therapeutic-relationship", title: "نموذج الأبعاد الخمسة للعلاقة العلاجية", type: "تقنية/تدخل علاجي"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existentialism-religious` ختماً قالبياً، ونُقل إلى `sch-judaism-existential` بحسب المجال المُصحَّح في مسار التنقّل («الفلسفة / بوبر من الفلسفة اليهودية الحوارية، وللأطلس ملفُّها»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
   - "التفاصيل الدقيقة لعلاقة بُبَر بالحركة الصهيونية لم تُحلّل في هذا الملف."
   - "لا يوجد اقتباس مباشر موثوق من 'أنا وأنت' (1923)."
   - "دُمج معه الملف المكرَّر thk-buber (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."

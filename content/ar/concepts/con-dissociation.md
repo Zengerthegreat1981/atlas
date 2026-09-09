@@ -6,10 +6,10 @@ level: "متوسط"
 title: "الانفصال (Dissociation)"
 en: "Dissociation"
 crumb: "العلاج المتمركز حول الصدمة ← المفاهيم ← الانفصال"
-country: "[DRAFT-UNKNOWN]"
+country: "[غير مؤكد]"
 active_start: 1880
 active_end: "مستمر"
-language: "[DRAFT-UNKNOWN]"
+language: "[غير مؤكد]"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "مدرسة"
@@ -21,7 +21,9 @@ related:
 - id: "tec-comprehensive-resource-model", title: "نموذج الموارد الشامل للصدمة (CRM)", type: "تقنية"
 - id: "sch-polyvagal-informed-therapy", title: "العلاج المستنير بنظرية البوليفاجال", type: "مدرسة"
 - id: "dbt-trauma-memory-repression", title: "هل يمكن كبت ذكريات الصدمة؟", type: "جدل"
+- id: "exp-unheimlich-freud", title: "تجربة الأَلِيف المُقْلِق (Unheimlich) عند فرويد: ما هو مألوف يَتحول إلى غريب", type: "خبرة معيشة"
 gaps:
+  - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "رابط con-imago-fractured-self أُزيل: لا توجد صلة مشروحة في متن هذا الملف بين الانفصال ومفهوم 'الذات المتشظية' في علاج Imago."
 ---
 # الانفصال (Dissociation)

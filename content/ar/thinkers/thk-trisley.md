@@ -19,8 +19,8 @@ related:
 - id: "thk-donbaer", title: "دونالد م. باير", type: "مفكر"
 - id: "thk-mwolf", title: "مونتروز م. وولف", type: "مفكر"
 - id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
-- id: "thk-lovaas", type: "مفكر", title: "إيفار لوفاس"
-- id: "thk-sbijou", type: "مفكر", title: "سيدني و. بيجو"
+- id: "thk-lovaas", title: "إيفار لوفاس", type: "مفكر"
+- id: "thk-sbijou", title: "سيدني و. بيجو", type: "مفكر"
 gaps:
   - "نص 'The 30 Million Word Gap' (1995) موثّق في الكتاب."
   - "تفاصيل عمله في 'مركز جامعة كانساس للحياة المتوازنة' موثّقة جزئياً."

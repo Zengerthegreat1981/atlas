@@ -5,7 +5,7 @@ type: "مفكر"
 level: "متقدم"
 title: "هانيلوره فاس"
 en: "Hannelore Wass"
-crumb: "المدرسة الوجودية ← الناس ← هانيلوره فاس"
+crumb: "الفلسفة الوجودية ← الناس ← هانيلوره فاس"
 dates: "ألمانيا / أمريكا · 1926–2007"
 active_start: 1979
 active_end: 1995
@@ -13,7 +13,7 @@ country: "ألمانيا / أمريكا"
 language: "الإنجليزية / الألمانية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "con-death", title: "الموت", type: "مفهوم"
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
@@ -21,6 +21,8 @@ related:
 - id: "thk-lifton", title: "روبرت جاي ليفتون", type: "مفكر"
 - id: "thk-kubler-ross", title: "إليزابيث كوبلر-روس", type: "مفكر"
 gaps:
+  - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-existentialism` بحسب المجال المُصحَّح في مسار التنقّل («الفلسفة الوجودية»). ومدخلٌ فلسفيٌّ لا ينتمي إلى مدرسةِ علاجٍ نفسيٍّ إكلينيكي."
+  - "**صُحِّح مسار التنقّل 2026-09-08:** كان الجزء الأول «المدرسة الوجودية» ختماً قالبياً؛ واستُبدل بـ«الفلسفة الوجودية». المصدر: وجودي مُدقَّق — الجيرةُ وجودية، ودُقِّق الوسمُ بحسب part. ولم يُشتقَّ من `belongs_to` لأنّ الحقلَ في هذا الحشد مختومٌ آلياً على «الوجودية العلاجية» حتى لمدخلاتٍ فلسفيةٍ تسبق الوجودية بقرون."
   - "الاسم الكامل: Hannelore Wass (هانِلُوره فاس)."
   - "مجلة 'Death Studies' أُسست باسم 'Death Education' في 1977، ثم تغير اسمها في 1985 إلى 'Death Studies'."
 ---
