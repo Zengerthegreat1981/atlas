@@ -10,7 +10,7 @@ crumb: "الجسر (فلسفة ↔ علم نفس) ← المفاهيم ← تي�
 active_start: 1890
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "rel-phenomenology-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-pragmatism-classical", target_type: "مدرسة"
 related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
@@ -20,6 +20,7 @@ related:
 gaps:
   - "التمييز بين تيار الوعي عند جيمس (النفسي) وعند هوسرل (الظاهراتي) وعند برغسون (الفلسفي) يحتاج فصلاً مستقلاً."
   - "الاستخدام الأدبي (جيمس جويس، فرجينيا وولف، مارسيل بروست) خارج الأطلس."
+  - "**صُحِّح النسب/النطاق 2026-09-10:** كان أبوه `rel-phenomenology-existential-therapy` وصُحِّح إلى `sch-pragmatism-classical` — تيّارُ الوعي من «مبادئ علم النفس» لوليم جيمس (1890)، وجيمس من مؤسِّسي البراغماتية."
 ---
 # تيار الوعي (Stream of Consciousness): التدفق المستمر للخبرة
 

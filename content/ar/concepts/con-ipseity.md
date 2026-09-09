@@ -10,7 +10,7 @@ crumb: "الجسر (فلسفة ↔ علم نفس) ← المفاهيم ← ال�
 active_start: 1990
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "rel-phenomenology-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenological-psychiatry", target_type: "مدرسة"
 related:
 - id: "thk-ricoeur", title: "بول ريكور", type: "مفكر"
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
@@ -25,6 +25,7 @@ gaps:
   - "لم يُعثر على اقتباس مباشر منسوب لريكور يمكن توثيقه بدقة."
   - "الفرق بين الذاتية في الفلسفة الظاهراتية والذاتية في علم النفس التحليلي (Jung's Self) يحتاج فصلاً."
   - "الاستخدامات في علاج اضطرابات الشخصية والفصام تحتاج توثيقاً إكلينيكياً."
+  - "**صُحِّح النسب/النطاق 2026-09-10:** كان أبوه `rel-phenomenology-existential-therapy` وصُحِّح إلى `sch-phenomenological-psychiatry` — الإنّيةُ (Ipseity) واضطرابُها محورُ الطب النفسي الظاهراتي عند ساس وبارناس."
 ---
 
 # الذاتية (Ipseity): الهوية كذات فاعلة عبر الزمن

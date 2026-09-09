@@ -10,13 +10,11 @@ crumb: "الفلسفة ← البوذية ← تشان (الصينية)"
 dates: "الصين · من القرن 6 م إلى القرن 13 م"
 country: "الصين"
 language: "الصينية الكلاسيكية"
-active_start: 600
+active_start: 520
 active_end: 1300
 cultural_origin: "east-asian"
 edges:
 - rel: "evolved_from", target: "sch-tathagatagarbha", target_type: "مدرسة"
-- rel: "evolved_from", target: "sch-tiantai", target_type: "مدرسة"
-- rel: "evolved_from", target: "sch-huayan", target_type: "مدرسة"
 related:
 - id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
 - id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"
@@ -28,6 +26,9 @@ related:
 gaps:
   - "نصوص Bodhidharma، Huineng (Platform Sutra)، Zhaozhou Congshen (Blue Cliff Record) تحتاج مراجعة من المصدر الأولي."
   - "التمييز بين الأسطورة والتاريخ في تأريخ Chan يستحق بحثاً نقدياً."
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُذف `evolved_from → sch-huayan` — معكوس: تشان (600) أقدمُ من هوايان (660)؛ ويبقى نسبُها إلى تيانتاي وتاثاغاتاغاربها."
+  - "**صُحِّح النسب/النطاق 2026-09-10:** وُسِّع `active_start` من 600 إلى 520 — بوديدارما (نحو 470–543) مؤسِّسُ تشان في الرواية التقليدية وعضوٌ في المدرسة، ونشاطُه من 510 — فبدايةُ 600 كانت تُقصي مؤسِّسَها."
+  - "**صُحِّح النسب/النطاق 2026-09-10:** حُذف `evolved_from → sch-tiantai` — تيانتاي (580) لاحقةٌ على بدايةِ تشان بروايتها التقليدية (بوديدارما، نحو 520)، فأثّرت فيها ولم تكن أصلاً لها. ويبقى نسبُها إلى تاثاغاتاغاربها (250)."
 ---
 
 # تشان (الصينية)

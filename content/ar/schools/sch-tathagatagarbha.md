@@ -15,7 +15,6 @@ active_end: "مستمر"
 cultural_origin: "indian"
 edges:
 - rel: "evolved_from", target: "sch-madhyamaka", target_type: "مدرسة"
-- rel: "evolved_from", target: "sch-yogacara", target_type: "مدرسة"
 related:
 - id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
 - id: "sch-yogacara", title: "يوغاكارا", type: "مدرسة"
@@ -23,6 +22,7 @@ related:
 - id: "sch-zen-soto", title: "زن: سوتو", type: "مدرسة"
 gaps:
   - "نصوص Tathāgatagarbha Sūtra وMahāyāna Mahāparinirvāṇa Sūtra وUttaratantra (Maitreya/Asaṅga) تحتاج مراجعة من المصدر الأولي."
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُذف `evolved_from → sch-yogacara` — معكوس: تاثاغاتاغاربها (250) أقدمُ من يوغاكارا (350)؛ ويبقى نسبُها إلى مادهياماكا."
 ---
 
 # تاثاغاتاغاربها (طبيعة البوذا)

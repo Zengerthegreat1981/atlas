@@ -16,7 +16,6 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-existentialism", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-phenomenology", target_type: "مدرسة"
-- rel: "evolved_from", target: "br-ego-psychology", target_type: "تيار"
 related:
 - id: "sch-humanistic", title: "علم النفس الإنساني", type: "مدرسة"
 - id: "evt-egaz-moniz-nobel-lobotomy-1949", title: "منح إيغاس مونيز جائزة نوبل لجراحة الفص الجبهي وصعود وحظر اللوبوتومي", type: "حدث تاريخي"
@@ -66,6 +65,7 @@ gaps:
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ألكسندرا فاركاش (thk-alexandra-farkas)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ألي كورازون (thk-alicorazon)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إيمي مورغان (thk-amy-morgan)."
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُذف `evolved_from → br-ego-psychology` — العلاجُ الوجوديُّ (1930) سابقٌ على علم نفس الأنا (1937) ولم يخرج منه؛ ويبقى نسبُه إلى الوجودية والظاهراتية."
 ---
 # الوجودية العلاجية (Existential Therapy)
 

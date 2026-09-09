@@ -10,7 +10,7 @@ crumb: "الجسر (فلسفة ↔ علم نفس) ← المفاهيم ← ال�
 active_start: 1844
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "rel-phenomenology-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-kierkegaardian", target_type: "مدرسة"
 related:
 - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
@@ -22,6 +22,7 @@ gaps:
   - "التمييز بين Angst (القلق الوجودي) عند كيركغارد/هايدغر وAngst (القلق النفسي) في علم النفس الإكلينيكي يحتاج فصلاً مستقلاً."
   - "الفرق بين القلق الوجودي والخوف (Fear) عند سارتر (Fear vs. Angst) يحتاج توثيقاً."
   - "العلاقة باضطرابات القلق الإكلينيكية (GAD، Panic، Social Anxiety) تحتاج فصلاً علاجياً."
+  - "**صُحِّح النسب/النطاق 2026-09-10:** كان أبوه `rel-phenomenology-existential-therapy` وصُحِّح إلى `sch-kierkegaardian` — القلقُ (Angest) عنوانُ كتاب كيركغارد 1844 — وهو تاريخُ المفهوم نفسُه."
 ---
 # القلق الوجودي (Angst): مواجهة اللا-محدود في الذات
 

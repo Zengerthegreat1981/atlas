@@ -16,7 +16,7 @@ author_slug: "thk-kkoffka"
 publication_year: 1921
 original_language: "الألمانية"
 edges:
-- rel: "belongs_to", target: "wrk-gestalt-psychology-kohler", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-gestalt-berlin", target_type: "تيار"
 - rel: "authored_by", target: "thk-kkoffka", target_type: "مفكر"
 related:
 - id: "thk-kkoffka", title: "كورت كوفكا", type: "مفكر"
@@ -25,6 +25,7 @@ gaps:
   - "سنة الترجمة الإنجليزية الأولى (*The Growth of the Mind*) غير محسومة بين 1924 و1928 في المصادر المتاحة — لم يُتحقّق من طبعة أولى ضدّ طبعة منقّحة على نسخة أصلية."
   - "لم يثبت وجود ترجمة عربية منشورة لهذا العمل: بُحث عن مترجم وناشر وسنة ولم يُعثر على أيٍّ منها."
   - "active_end صُحِّح إلى 1921 (سنة النشر): كان مضبوطاً سابقاً على 1950 بلا سند موثَّق في المتن أو المصادر لتلك السنة تحديداً."
+  - "**صُحِّح النسب/النطاق 2026-09-10:** كان أبوه `wrk-gestalt-psychology-kohler` وصُحِّح إلى `br-gestalt-berlin` — أبوها كان **عملاً** آخرَ لا مدرسة، ومعكوساً زمنياً (1921 تحت 1929)."
 ---
 
 # أساسيات النمو الذهني

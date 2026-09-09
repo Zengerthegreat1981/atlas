@@ -13,9 +13,10 @@ language: "العربية"
 active_start: 1235
 active_end: 1274
 edges:
-- rel: "belongs_to", target: "sch-akbari", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-irfan-nazari-akbari", target_type: "تيار"
 gaps:
   - "لا توجد ترجمة عربية حديثة محقّقة لمجمل مراسلاته مع نصير الدين الطوسي في نسخة واحدة."
+  - "**صُحِّح النسب/النطاق 2026-09-10:** كان أبوه `sch-akbari` وصُحِّح إلى `br-irfan-nazari-akbari` — القونويُّ (ت 1274) أبرزُ شارحي ابن عربي، ومتنُ `br-irfan-nazari-akbari` يسمّيه صراحةً."
 ---
 
 # صدر الدين محمد بن إسحاق القونوي

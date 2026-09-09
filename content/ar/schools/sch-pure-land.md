@@ -15,7 +15,6 @@ active_start: 150
 active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-madhyamaka", target_type: "مدرسة"
-- rel: "evolved_from", target: "sch-tathagatagarbha", target_type: "مدرسة"
 related:
 - id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
 - id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها (طبيعة البوذا)", type: "مدرسة"
@@ -24,6 +23,7 @@ related:
 gaps:
   - "نصوص Tanluan، Daochuo، Shandao (الصين) وHōnen (اليابان) تحتاج مراجعة من المصدر الأولي."
   - "السوترات الكبرى (Sukhāvatīvyūha، Amitābha Sūtra، Amitāyurdhyāna Sūtra) معقّدة وتنقسم إلى إصدارات."
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُذف `evolved_from → sch-tathagatagarbha` — معكوس: الأرضُ الطاهرة (150) أقدمُ من تاثاغاتاغاربها (250)؛ ويبقى نسبُها إلى مادهياماكا."
 ---
 
 # الأرض الطاهرة (جينغتو / جودو)

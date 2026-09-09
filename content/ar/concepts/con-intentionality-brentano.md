@@ -10,7 +10,7 @@ crumb: "الجسر (فلسفة ↔ علم نفس) ← المفاهيم ← ال�
 active_start: 1874
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "rel-phenomenology-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
 related:
 - id: "thk-brentano", title: "فرانتس برنتانو", type: "مفكر"
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
@@ -23,6 +23,7 @@ related:
 gaps:
   - "التمييز بين أنواع القصدية (الإدراكية، الحكمية، العاطفية) يحتاج تفصيلاً أكبر."
   - "نسب الفكرة إلى أرسطو وأوغسطين وفارابـي في التراث القديم غير مشمول هنا."
+  - "**صُحِّح النسب/النطاق 2026-09-10:** كان أبوه `rel-phenomenology-existential-therapy` وصُحِّح إلى `sch-phenomenology` — القصديةُ عند برنتانو (1874) الأساسُ الذي بنى عليه هوسرل الظاهراتية."
 ---
 
 # القصدية (Intentionalität) عند برنتانو

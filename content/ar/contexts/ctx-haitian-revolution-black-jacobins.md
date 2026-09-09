@@ -10,7 +10,7 @@ crumb: "فلسفة التحرر ونقد الاستعمار ← السياقات
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-postcolonial-philosophy", target_type: "مدرسة"
 related:
 - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
 - id: "ctx-latin-american-coloniality", title: "السياق الاستعماري لأمريكا اللاتينية وفلسفة التحرير", type: "سياق/تقليد"
@@ -18,6 +18,7 @@ gaps:
   - "لا يوجد اقتباس مباشر موثّق بصفحة ورقم من كتاب C.L.R. James 'The Black Jacobins' (1938) أو من كتاب Susan Buck-Morss 'Hegel, Haiti, and Universal History' (2009)."
   - "أُشيع أن هيغل صاغ جدلية السيد والعبد متأثراً مباشرة بأخبار ثورة هايتي (أطروحة Buck-Morss)؛ هذه أطروحة تفسيرية موضع نقاش أكاديمي، وليست حقيقة تاريخية مؤكدة بإجماع المؤرخين، ويجب عرضها كفرضية منسوبة لا كواقعة."
   - "الربط بين الصدمة الاستعمارية في هايتي ومفهوم 'اللانفسنة الاجتماعية' (Sociogeny) عند فانون يحتاج توثيقاً نصياً مباشراً من 'بشرة سوداء، أقنعة بيضاء' (1952)."
+  - "**صُحِّح نسبُ السياق 2026-09-10:** كان أبوه `sch-social-psychology` وصُحِّح إلى `sch-postcolonial-philosophy` — الثورةُ الهايتية سياقٌ لفلسفة ما بعد الاستعمار لا لعلم النفس الاجتماعي."
 ---
 # الثورة الهايتية (1791) وإسقاط العبودية وتحدي التنوير الأوروبي
 

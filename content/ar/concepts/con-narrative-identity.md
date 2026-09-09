@@ -10,7 +10,7 @@ crumb: "الجسر (فلسفة ↔ علم نفس) ← المفاهيم ← ال�
 active_start: 1985
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "rel-phenomenology-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-hermeneutics", target_type: "مدرسة"
 related:
 - id: "thk-ricoeur", title: "بول ريكور", type: "مفكر"
 - id: "thk-macintyre", title: "ألاسدير ماكنتاير", type: "مفكر"
@@ -24,6 +24,7 @@ gaps:
   - "لا يوجد قسم ## المصادر لعدم توفر مراجع محققة تغطي الامتداد الجسري (فلسفة ↔ علاج) تحديداً."
   - "التطبيقات في علاج اضطرابات ما بعد الصدمة (علاج الصدمة السردية) تحتاج توثيقاً إكلينيكياً."
   - "ملاحظة ازدواج: تحقق فعلي أن con-narrative-identity-ricoeur.md ملف منفصل ومعتمد رسمياً (راجع content/ar/drafts/EXISTING_SLUGS.md)، وليس تكراراً خاطئاً — هذا الملف (bridge) يغطي الامتداد النفسي-العلاجي للمفهوم، بينما الملف الآخر (philosophy) يغطي صياغة ريكور الفلسفية الدقيقة. لا حاجة للدمج."
+  - "**صُحِّح النسب/النطاق 2026-09-10:** كان أبوه `rel-phenomenology-existential-therapy` وصُحِّح إلى `sch-hermeneutics` — الهويةُ السردية عند ريكور، من صميم الهرمنيوطيقا الفلسفية."
 ---
 
 # الهوية السردية (Narrative Identity): أنا كقصة أرويها عن نفسي

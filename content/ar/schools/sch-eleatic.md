@@ -13,9 +13,7 @@ language: "اليونانية"
 active_start: -540
 active_end: -440
 cultural_origin: "greek"
-edges:
-- rel: "superseded_by", target: "sch-academy-platonic", target_type: "مدرسة"
-- rel: "superseded_by", target: "sch-academic-skepticism", target_type: "مدرسة"
+edges: []
 related:
 - id: "sch-milesian", title: "المدرسة الميليسية", type: "مدرسة"
 - id: "sch-pythagorean", title: "الفيثاغورية", type: "مدرسة"
@@ -25,6 +23,8 @@ gaps:
   - "لا نعرف الكثير عن بارمنيدس نفسه كشخص؛ معلوماتنا عنه متأخرة وفيها كثير من الحشو الأسطوري."
   - "لا توجد نصوص كاملة لزينون الإيلي أو ميليسوس — وصلتنا شذرات فقط."
   - "حدود الانتماء إلى 'مدرسة' موحّدة غير محسومة: هل بارمنيدس وزينون وميليسوس فعلاً تيار متّسق أم مجرّد تشارك في دفاع مشترك عن الواحد؟"
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُذف `superseded_by → sch-academic-skepticism` — فجوةُ 175 سنةً بلا تعاقب."
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُذف `superseded_by → sch-academy-platonic` — أفلاطون استوعب بارمنيدس ولم «يتجاوز» الإيليةَ التي انقضت قبل تأسيس الأكاديمية."
 ---
 
 # المدرسة الإيلية (Eleatic School)

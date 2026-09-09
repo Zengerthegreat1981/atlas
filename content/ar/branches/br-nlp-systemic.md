@@ -13,7 +13,7 @@ active_end: "مستمر"
 language: "الإنجليزية"
 part: "psychology"
 edges:
-- rel: "split_into", target: "tec-systemic-nlp-tad-james", target_type: "مدرسة"
+- rel: "relates_to", target: "tec-systemic-nlp-tad-james", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-rbandler", target_type: "مفكر"
 - rel: "developed_by", target: "thk-jgrind", target_type: "مفكر"
 related:
@@ -23,6 +23,7 @@ related:
 gaps:
   - "ادعاءات الأصل الأكاديمي لـNLP (UC Santa Cruz) لم تُوثّق بدقة كافية."
   - "الانتقادات الأكاديمية لـNLP (Lack of empirical support) لم تُحسم."
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُوِّل `split_into → tec-systemic-nlp-tad-james` إلى `relates_to` — هدفُ الحرف **تقنية** لا مدرسة."
 ---
 
 # البرمجة اللغوية العصبية (NLP)

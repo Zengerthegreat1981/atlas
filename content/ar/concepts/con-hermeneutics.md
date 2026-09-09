@@ -10,7 +10,8 @@ crumb: "الجسر (فلسفة ↔ علم نفس) ← المفاهيم ← ال�
 active_start: 1654
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "rel-phenomenology-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-hermeneutics", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-phenomenology-hermeneutic", target_type: "مدرسة"
 related:
 - id: "thk-schleiermacher", title: "فريدريش شلايرماخر", type: "مفكر"
 - id: "thk-dilthey", title: "فيلهلم دلتاي", type: "مفكر"
@@ -25,6 +26,7 @@ gaps:
 - "لم يُعثر على اقتباس مباشر موثّق من غادامير أو ريكور بالعربية أو الألمانية/الفرنسية بنصّه الحرفي وصفحته الدقيقة؛ الأفكار معروضة أعلاه بالمعنى."
 - "الفرق بين الهَرْمِنِيوطيقا والمنهجيات التفسيرية في علم الاجتماع (Weber) والعلوم الإنسانية (Geisteswissenschaften) يحتاج توثيقاً."
 - "الانتقادات ما بعد البنيوية (Derrida) لِهَرْمِنِيوطيقا غادامير تحتاج فصلاً."
+  - "**صُحِّح النسب/النطاق 2026-09-10:** كان أبوه `rel-phenomenology-existential-therapy` وصُحِّح إلى `sch-hermeneutics` — علمُ التأويل موضعُه مدرستُه؛ ويُسجَّل أنّ المصطلحَ (1654) أقدمُ من الهرمنيوطيقا الفلسفية (1960)."
 ---
 
 # الهَرْمِنِيوطيقا (Hermeneutics): فنّ التأويل والفهم

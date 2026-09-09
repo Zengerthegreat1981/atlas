@@ -15,7 +15,6 @@ active_end: "مستمر"
 cultural_origin: "anglo-american"
 edges:
 - rel: "belongs_to", target: "sch-phil-science", target_type: "مظلة"
-- rel: "superseded_by", target: "sch-analytic-metaphysics", target_type: "مدرسة"
 related:
 - id: "thk-hputnam", title: "هيلاري بوتنام", type: "مفكر"
 - id: "con-no-miracle-argument", title: "حجة المعجزة (No-Miracle Argument)", type: "مفهوم"
@@ -27,6 +26,7 @@ gaps:
   - "جاريت ليبلين (thk-leplin) غير موجود في الأطلس — لا ملف معتمد ولا مسودة."
   - "الفارق بين الواقعية العلمية عند بويد والتجريبية البنائية عند فان فراسن لم يُحلّل بدقة في المصادر الأولية المتاحة."
   - "نقد الواقعية الكيانية (Entity Realism) عند فان فراسن لم يُراجع من نص 'البنية' (Structure, 2006)."
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُذف `superseded_by → sch-analytic-metaphysics` — نصفُ حلقةِ تجاوزٍ متبادلة: كلُّ ملفٍّ يقول إنّ الآخرَ تجاوزه — ولا أحدَ منهما تجاوز الآخر."
 ---
 
 # الواقعية العلمية / اللاواقعية العلمية

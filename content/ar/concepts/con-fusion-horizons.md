@@ -10,7 +10,7 @@ crumb: "الجسر (فلسفة ↔ علم نفس) ← المفاهيم ← ان�
 active_start: 1960
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "rel-phenomenology-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-hermeneutics", target_type: "مدرسة"
 related:
 - id: "thk-gadamer", title: "هانز-غيورغ غادامير", type: "مفكر"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
@@ -24,6 +24,7 @@ gaps:
   - "مفهوم الأفق (Horizont) عند غادامير وعلاقته بـ«الزمنية» (Temporalität) عند هايدغر تحتاج فصلاً مستقلاً."
   - "التطبيق في العلاج متعدد الثقافات وفي التعددية الثقافية (multicultural counseling) يحتاج توثيقاً بأسماء وسنوات محددة (Sue وPedersen مذكوران بلا مرجع مؤرَّخ)."
   - "ملاحظة ازدواج: con-fusion-of-horizons-gadamer.md يغطي نفس مفهوم Horizontverschmelzung عند غادامير من الزاوية الفلسفية البحتة (بلا الامتداد النفسي/العلاجي هنا) — الملفان لم يُدمجا بناءً على تعليمات المهمة، لكن التداخل حقيقي ويستحق قرار تحرير لاحقاً (دمج أو تمييز واضح في العنوانين)."
+  - "**صُحِّح النسب/النطاق 2026-09-10:** كان أبوه `rel-phenomenology-existential-therapy` وصُحِّح إلى `sch-hermeneutics` — انصهارُ الآفاق مقولةُ غادامير في «الحقيقة والمنهج» (1960) — عامُ تأسيس المدرسة."
 ---
 
 # اندماج الآفاق (Horizontverschmelzung): فهم الذات عبر الآخر

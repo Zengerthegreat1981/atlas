@@ -10,12 +10,13 @@ crumb: "الحكمة الشرقية القديمة وأخلاقيات الخلو
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-egyptian-maat", target_type: "مدرسة"
 related:
 - id: "que-roots-of-morality-evolution-reason", title: "جذور الأخلاق", type: "سؤال توليدي"
 - id: "thk-amenemope", title: "أمِنْمُوپ", type: "مفكر"
 gaps:
   - "لم يُراجَع الترقيم الدقيق لفصول 'كتاب الموتى' (عادة 192 فصلاً/تعويذة في نسخ العصر المتأخر) من مصدر أولي."
+  - "**صُحِّح نسبُ السياق 2026-09-10:** كان أبوه `sch-humanistic` وصُحِّح إلى `sch-egyptian-maat` — ماعت المصريةُ القديمة موضعُها تقليدُ الحكمة المصرية الموجودُ في الأطلس، لا علمَ النفس الإنساني."
 ---
 # مصر القديمة ومفهوم «الماعت» كعدالة ونظام كوني أخلاقي
 

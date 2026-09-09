@@ -14,8 +14,7 @@ active_start: 1860
 active_end: "مستمر"
 active_source: "lifespan"
 cultural_origin: "east-asian"
-edges:
-- rel: "evolved_into", target: "sch-donghak", target_type: "مظلة"
+edges: []
 related:
 - id: "sch-silhak", title: "سيلهاك", type: "مدرسة"
 - id: "sch-korean-neoconfucian", title: "النيوكونفوشية الكورية", type: "مدرسة"
@@ -23,6 +22,7 @@ gaps:
   - "الفاصل بين دونغهاك الديني وفلسفته السياسية الاجتماعية (خاصة في القرن 19-20) يحتاج تدقيقاً."
   - "لا اقتباس مباشر موثوق من 'يونغ-هيو' (Yeong-gye) متاح في هذه المسودة."
   - "تأثير 'دونغهاك' على 'تشيوندوغيو' في القرن 20 (الحركة العمالية، الاستقلال) بحاجة إلى سرد أعمق."
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُذف `evolved_into → sch-donghak` — إشارةٌ ذاتية: الملفُّ يُعلن أنه تطوّر إلى نفسِه."
 ---
 
 # دونغهاك / تشوندوغيو

@@ -16,7 +16,7 @@ active_end: "مستمر"
 register: "clinical"
 evidence_level: "well-established"
 edges:
-- rel: "evolved_from", target: "sch-cbt", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-zsegal", target_type: "مفكر"
 - rel: "developed_by", target: "thk-mwilliams", target_type: "مفكر"
 - rel: "developed_by", target: "thk-jteasdale", target_type: "مفكر"
@@ -35,6 +35,7 @@ related:
 gaps:
   - "النموذج الآلي (كيف تقلل MBCT خطر الانتكاسة) ما يزال مُتنازَعاً عليه تجريبياً."
   - "العلاقة بين MBCT وبحوث MBSR الأصلية (Kabat-Zinn 1990) موثّقة جزئياً."
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** أُعيد توجيهُ `evolved_from` من `sch-cbt` إلى `sch-cognitive-behavioral` — `sch-cbt` ملفُّ إحالةٍ مهجورٌ بعد دمجٍ سابق؛ والمدرسةُ الفعليةُ هي `sch-cognitive-behavioral`."
 ---
 
 # العلاج المعرفي القائم على اليقظة الذهنية (MBCT)

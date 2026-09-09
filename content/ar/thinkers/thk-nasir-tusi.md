@@ -13,7 +13,7 @@ active_end: 1274
 country: "الإسماعيلية، المغول (الإيلخانية)"
 language: "العربية والفارسية"
 edges:
-- rel: "belongs_to", target: "sch-isfahan", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 related:
 - id: "sch-isfahan", title: "مدرسة أصفهان الفلسفية", type: "مدرسة"
 - id: "sch-shiraz", title: "مدرسة شيراز الفلسفية", type: "مدرسة"
@@ -22,6 +22,7 @@ related:
 gaps:
   - "تفاصيل تحوّله من الإسماعيلية إلى التشيع الاثني عشري موضع نقاش."
   - "دُمج معه الملف المكرَّر thk-nasir-al-din-al-tusi (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
+  - "**صُحِّح النسب/النطاق 2026-09-10:** كان أبوه `sch-isfahan` وصُحِّح إلى `sch-islamic-peripatetic` — الطوسيُّ (1201–1274) سابقٌ على مدرسة أصفهان (1570) بثلاثة قرون؛ وموضعُه المشائيةُ الإسلامية (850–1400) لشرحه إشاراتِ ابن سينا."
 ---
 
 # نصير الدين الطوسي (الخواجة نصير)

@@ -15,7 +15,6 @@ active_start: 1630
 active_end: 1800
 edges:
 - rel: "evolved_from", target: "sch-renaissance-humanism", target_type: "مدرسة"
-- rel: "evolved_from", target: "br-scholasticism-second-salamanca", target_type: "مدرسة"
 related:
 - id: "sch-lockeanism", title: "اللوكية", type: "مدرسة"
 - id: "sch-berkeleianism", title: "المثالية الذاتية البركلية", type: "مدرسة"
@@ -31,6 +30,7 @@ gaps:
   - "التمييز بين 'التجريبية' (Empiricism) و'الذرية' (Atomism) معقّد تاريخياً."
   - "نصوص لوك وبيركلي وهيوم بالإنجليزية تحتاج مراجعة من المصدر الأولي."
   - "لم يُعثر بعد على اقتباس مباشر قابل للتوثيق من 'An Essay Concerning Human Understanding'."
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُذف `evolved_from → br-scholasticism-second-salamanca` — التجريبيةُ البريطانية خرجت من بيكون وهوبز، لا من مدرسة سلامنكا — ويبقى نسبُها إلى الإنسانية النهضوية (وأثرُ سواريز في ديكارت ولايبنتز موثَّقٌ فأُبقي هناك)."
 ---
 
 # التجريبية البريطانية (كمظلة)

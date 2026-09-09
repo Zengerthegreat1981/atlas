@@ -21,7 +21,7 @@ edges:
 - rel: "evolved_into", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 - rel: "evolved_into", target: "sch-act", target_type: "مدرسة"
 - rel: "evolved_into", target: "sch-dbt", target_type: "مدرسة"
-- rel: "evolved_into", target: "con-applied-behavior-analysis", target_type: "تيار"
+- rel: "evolved_into", target: "con-applied-behavior-analysis", target_type: "مفهوم"
 related:
 - id: "thk-ipavlov", title: "إيفان بافلوف", type: "مفكر"
 - id: "thk-jwatson", title: "جون ب. واتسون", type: "مفكر"
@@ -40,6 +40,7 @@ gaps:
   - "التواريخ الدقيقة للتطورات المبكرة (واطسون 1913، سكينر 1938، بافلوف 1897/1903) موثّقة لكن لم تُقارن في هذا الملف."
   - "علاقة 'الثورة المعرفية' (1956، Miller-Galanter-Pribram، 1960 Chomsky) بإعادة تقويم السلوكية لم تُحلّل في هذا الملف."
   - "لا اقتباس مباشر مُدرَج في هذا الملف من واطسون أو سكينر أو بافلوف — يحتاج مراجعة من النص الأصلي."
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** صُحِّح `target_type` في `evolved_into → con-applied-behavior-analysis` إلى «مفهوم» — تحليلُ السلوك التطبيقي ثمرةُ السلوكية الراديكالية فعلاً، لكنه مُصنَّفٌ «مفهوم» ويستحقّ أن يكون تياراً (`br-`)."
 ---
 
 # السلوكية (Behaviorism)

@@ -10,7 +10,7 @@ crumb: "الجسر (فلسفة ↔ علم نفس) ← المفاهيم ← ال�
 active_start: 1943
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "rel-phenomenology-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology-existential", target_type: "مدرسة"
 related:
 - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
@@ -22,6 +22,7 @@ related:
 - id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
 gaps:
 - "الاستخدامات في علم النفس التحرري (Liberation Psychology) وفي علم نفس ما بعد الاستعمار تحتاج توثيقاً."
+  - "**صُحِّح النسب/النطاق 2026-09-10:** كان أبوه `rel-phenomenology-existential-therapy` وصُحِّح إلى `sch-phenomenology-existential` — الواقعانيةُ (Faktizität) مقولةٌ هيدغريةٌ-سارترية في الظاهراتية الوجودية."
 ---
 
 # الفعلانية (Facticité): واقع المَوْجود الذي لا يُمكن تَغييره

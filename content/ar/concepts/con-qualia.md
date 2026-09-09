@@ -10,7 +10,7 @@ crumb: "الجسر (فلسفة ↔ علم نفس) ← المفاهيم ← ال�
 active_start: 1982
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "rel-phenomenology-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phil-mind-analytic", target_type: "مدرسة"
 related:
 - id: "con-mind-body", title: "مشكلة العقل والجسد", type: "مفهوم"
 - id: "axm-intentionality", title: "القصدية", type: "بديهية/مبدأ تأسيسي"
@@ -23,6 +23,7 @@ gaps:
   - "لم يُعثر على اقتباس إنجليزي مطابق حرفياً وموثّق الصفحة من Nagel (1974) أو Jackson (1982) أو Chalmers (1996) يصلح للاستشهاد المباشر؛ أطروحاتهم معروضة في المتن بالمعنى."
   - "الربط بين الكواليا والعلاج بالتركيز (Focusing) عند Gendlin يحتاج فصلاً مستقلاً."
   - "النقاشات المعاصرة في علم النفس الإدراكي (metacognition, interoception) تحتاج ربطاً."
+  - "**صُحِّح النسب/النطاق 2026-09-10:** كان أبوه `rel-phenomenology-existential-therapy` وصُحِّح إلى `sch-phil-mind-analytic` — الكواليا مقولةٌ في فلسفة العقل التحليلية (جاكسون 1982) لا في العلاج الظاهراتي."
 ---
 # الكواليا (Qualia): الكيف المتعالي للتجربة
 

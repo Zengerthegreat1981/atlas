@@ -14,7 +14,7 @@ language: "الإنجليزية"
 active_start: 1843
 active_end: 1883
 edges:
-- rel: "belongs_to", target: "sch-feminism-black", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-feminism-black", target_type: "مدرسة"
 related:
 - id: "thk-lorde", title: "أودري لورد", type: "مفكر"
 - id: "thk-crenshaw", title: "كيمبرلي كرنشو", type: "مفكر"
@@ -26,6 +26,7 @@ gaps:
   - "تأثيرها في المنح الدراسية المعاصرة (Spillers، hooks، Collins) موثّق جزئياً."
   - "علاقتها بماري كيدي وسينيكا فولز موثّقة بشكل غير مكتمل في المصادر الأوّلية."
   - "نشاطها في إلغاء تجارة الخمور في ما بعد الحرب الأهلية لم يُدرس أكاديمياً بعد."
+  - "**صُحِّح النسب/النطاق 2026-09-10:** حُوِّل `belongs_to → sch-feminism-black` إلى `relates_to` — سوجورنر تروث (1797–1883) سلفٌ للنسوية السوداء (1970) لا عضوٌ فيها — بينهما قرن. الصلةُ باقيةٌ والساقطُ ادّعاءُ العضوية."
 ---
 
 # سوجورنر تروث

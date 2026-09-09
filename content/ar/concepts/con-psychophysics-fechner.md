@@ -10,7 +10,7 @@ crumb: "الجسر (فلسفة ↔ علم نفس) ← المفاهيم ← عل�
 active_start: 1860
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "rel-phenomenology-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-biological-neuro", target_type: "مدرسة"
 related:
 - id: "thk-fechner", title: "غوستاف فيخنر", type: "مفكر"
 - id: "thk-helmholtz", title: "هرمان فون هلمهولتز", type: "مفكر"
@@ -24,6 +24,7 @@ gaps:
   - "التطبيقات المعاصرة لعلم النفس الفيزيائي في علم النفس الإكلينيكي محدودة التوثيق."
   - "نسب القانون الأساسي لفيخنر مقابل ستيفنز (Power Law) موضع نقاش."
   - "لم يُربط بإرنست هاينريش ويبر ولا بستانلي سميث ستيفنز: لا يوجد لهما ملف مفكر مستقل في الأطلس بعد (thk-weber موجود لكنه ماكس فيبر، وthk-astevens هو أنتوني ستيفنز التحليلي، لا الباحث في علم النفس الفيزيائي) — سُجِّل في agents_specs/requests-minimax.md."
+  - "**صُحِّح النسب/النطاق 2026-09-10:** كان أبوه `rel-phenomenology-existential-therapy` وصُحِّح إلى `sch-biological-neuro` — الفيزياءُ النفسية عند فِخنر (1860) أصلُ القياس النفسي التجريبي."
 ---
 
 # علم النفس الفيزيائي (Psychophysics)

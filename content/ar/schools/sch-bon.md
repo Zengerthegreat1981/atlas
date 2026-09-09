@@ -13,8 +13,7 @@ language: "التبتية"
 cultural_origin: "south-asian"
 active_start: -1000
 active_end: "مستمر"
-edges:
-- rel: "evolved_from", target: "sch-shramana", target_type: "مظلة"
+edges: []
 related:
 - id: "sch-shramana", title: "المدارس الشرامنية المبكرة", type: "مدرسة"
 - id: "sch-nyingma", title: "نينغما", type: "مدرسة"
@@ -23,6 +22,7 @@ related:
 gaps:
   - "النصوص الأصلية لـBön (mDo 'dus، Gzer Myig، gZi brjid) تحتاج مراجعة من المصدر الأولي."
   - "التمييز بين Bön القديمة وBön التانترية المعاصرة يستحق بحثاً نقدياً."
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُذف `evolved_from → sch-shramana` — البون تقليدٌ تبتيٌّ سابقٌ للبوذية، لا فرعٌ من الشرامنية الهندية (600 ق.م) — والحرفُ معكوسٌ زمنياً أيضاً."
 ---
 # البون (التقليد الديني التبت الأصلي)
 

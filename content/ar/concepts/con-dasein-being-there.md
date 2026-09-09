@@ -10,7 +10,7 @@ crumb: "الجسر (فلسفة ↔ علم نفس) ← المفاهيم ← ال�
 active_start: 1927
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "rel-phenomenology-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology-existential", target_type: "مدرسة"
 related:
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "thk-boss", title: "ميدارد بوس", type: "مفكر"
@@ -23,6 +23,7 @@ gaps:
 - "علاقة الدازاين بـ«الزمنية» (Temporality) عند هايدغر تحتاج ربطاً مع con-time-consciousness."
 - "ملاحظة تكرار محتمل: هذا الملف (con-dasein-being-there) وcon-dasein-being-in-the-world يبدوان معالجة متشابهة لنفس مفهوم الدازاين؛ يحتاجان تمييزاً واضحاً بينهما (لم يُدمجا هنا)."
 - "روابط الأصالة (con-authenticity)، الانغلاف (con-thrownness)، والوجود نحو الموت (con-being-toward-death) أُزيلت من related لأن متن الملف الحالي لا يشرح صلتها بالدازاين؛ تحتاج فقرة تبرير قبل إعادة الربط."
+  - "**صُحِّح النسب/النطاق 2026-09-10:** كان أبوه `rel-phenomenology-existential-therapy` وصُحِّح إلى `sch-phenomenology-existential` — الدازاين من «الوجود والزمان» (1927) — وهو عامُ تأسيسِ الظاهراتية الوجودية بعينه."
 ---
 
 # الدازاين (Dasein): الكائن الذي أسئلته عن وجوده

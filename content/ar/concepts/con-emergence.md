@@ -10,7 +10,7 @@ crumb: "الجسر (فلسفة ↔ علم نفس) ← المفاهيم ← ال�
 active_start: 1875
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "rel-phenomenology-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phil-science", target_type: "مدرسة"
 related:
 - id: "con-mind-body", title: "مشكلة العقل والجسد", type: "مفهوم"
 - id: "con-reductionism", title: "الاختزالية", type: "مفهوم"
@@ -25,6 +25,7 @@ gaps:
   - "الاختزالية والشمولية (Holism) والوظيفية (Functionalism) مذكورة كمفاهيم مقابلة في المتن، لكن لا يوجد ملف con-holism أو con-functionalism في الأطلس بعد."
   - "التمييز بين النشوء القوي (Strong Emergence) والنشوء الضعيف (Weak Emergence) يحتاج توثيقاً."
   - "الربط مع نظرية الأنظمة المعقدة (Complex Systems Theory) ونظرية المعلومات يحتاج فصلاً؛ لا يوجد ملف مفهوم مخصص بعد."
+  - "**صُحِّح النسب/النطاق 2026-09-10:** كان أبوه `rel-phenomenology-existential-therapy` وصُحِّح إلى `sch-phil-science` — النشوءُ (Emergence) مقولةٌ في فلسفة العلم ومبحثِ الاختزال."
 ---
 
 # النشوء (Emergence): خصائص لا تُختزل في أجزائها

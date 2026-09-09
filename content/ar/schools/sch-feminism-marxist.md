@@ -15,7 +15,6 @@ active_start: 1884
 active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-marxism", target_type: "مدرسة"
-- rel: "evolved_from", target: "sch-feminism-radical", target_type: "مدرسة"
 related:
 - id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
 - id: "sch-feminism-radical", title: "النسوية الراديكالية", type: "مدرسة"
@@ -23,6 +22,7 @@ related:
 gaps:
   - "نصوص Zetkin, Kollontai, Dalla Costa, Vogel, Ferguson, Federici تحتاج مراجعة من المصدر الأولي."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُذف `evolved_from → sch-feminism-radical` — معكوس: النسويةُ الماركسية (1884، إنجلز) أقدمُ من الراديكالية (1967)؛ ويبقى نسبُها إلى الماركسية."
 ---
 
 # النسوية الماركسية / الاشتراكية

@@ -13,9 +13,7 @@ language: "اليونانية، اللاتينية، السريانية، الع
 active_start: -335
 active_end: 1650
 cultural_origin: "greek"
-edges:
-- rel: "evolved_into", target: "sch-middle-platonism", target_type: "مدرسة"
-- rel: "evolved_into", target: "sch-neoplatonism", target_type: "مدرسة"
+edges: []
 related:
 - id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية", type: "مدرسة"
 - id: "sch-middle-platonism", title: "الأفلاطونية الوسطى", type: "مدرسة"
@@ -49,6 +47,8 @@ gaps:
   - "حوالي 31 عملاً من أصل 200 عملاً لأرسطو فُقدت (ما يُسمى 'الأرسطية الفاسدة'، Theophrastus, Protrepticus, Eudemus). 31 عملاً فقط هي 'الكوربوس' المعتمد."
   - "نصوص الأرسطية المنقولة إلى العربية (عبر السريانية) تختلف عن النصوص اليونانية (Athenian Edition) في كثير من المواضع."
   - "هل أرسطو 'مؤسّس' مذهب أم 'معلّم متأرجح'؟ خلاف فيلسوفي معاصر متجدد (Terence Irwin vs Martha Nussbaum vs Myles Burnyeat)."
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُذف `evolved_into → sch-middle-platonism` — الأفلاطونيةُ الوسطى ثمرةُ الأكاديمية لا المشائية — والحرفُ الصحيحُ مثبتٌ في ملفّ الأكاديمية."
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُذف `evolved_into → sch-neoplatonism` — الأفلاطونيةُ المحدثة ثمرةُ الأفلاطونية (والحرفُ مثبتٌ من الأكاديمية والوسطى)؛ استيعابُها أرسطو ليس نسباً منه."
 ---
 # المشائية / الأرسطية (Aristotelianism)
 

@@ -10,7 +10,7 @@ crumb: "الجسر (فلسفة ↔ علم نفس) ← المفاهيم ← ال�
 active_start: 1874
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "rel-phenomenology-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
 related:
 - id: "thk-brentano", title: "فرانتس برنتانو", type: "مفكر"
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
@@ -25,6 +25,7 @@ related:
 gaps:
   - "التمييز بين الأفعال الواعية والظواهر الفيزيولوجية يحتاج أمثلة سريرية."
   - "نسبت الفكرة إلى تراث المدرس الاسمي (Occam) غير مغطاة هنا."
+  - "**صُحِّح النسب/النطاق 2026-09-10:** كان أبوه `rel-phenomenology-existential-therapy` وصُحِّح إلى `sch-phenomenology` — أفعالُ الوعي من علم النفس الوصفي عند برنتانو، أصلِ الظاهراتية."
 ---
 
 # الأفعال الواعية عند برنتانو

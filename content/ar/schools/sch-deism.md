@@ -14,7 +14,6 @@ language: "الإنجليزية، الفرنسية، الألمانية، الل
 active_start: 1620
 active_end: 1850
 edges:
-- rel: "evolved_from", target: "sch-enlightenment", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-renaissance-humanism", target_type: "مدرسة"
 related:
 - id: "thk-voltaire", title: "فولتير", type: "مفكر"
@@ -25,6 +24,7 @@ related:
 gaps:
   - "نصوص تولاند وتيندال وكولينز بالإنجليزية تحتاج مراجعة من المصدر الأولي."
   - "التمييز بين 'الربوبية' و'الإلحاد' و'الربوبية الطبيعية' (Natural Religion) معقّد."
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُذف `evolved_from → sch-enlightenment` — الربوبيةُ (1620) سابقةٌ على التنوير (1680)؛ ويبقى نسبُها إلى الإنسانية النهضوية."
 ---
 
 # الربوبية (Deism)

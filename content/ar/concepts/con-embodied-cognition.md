@@ -10,7 +10,7 @@ crumb: "الجسر (فلسفة ↔ علم نفس) ← المفاهيم ← ال�
 active_start: 1980
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "rel-phenomenology-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology-somatic", target_type: "مدرسة"
 related:
 - id: "thk-varela", title: "فرانسيسكو فاريلا", type: "مفكر"
 - id: "thk-george-lakoff", title: "جورج لاكوف", type: "مفكر"
@@ -23,6 +23,7 @@ gaps:
   - "التمييز بين أربعة برامج بحثية (Lakoff، Varela، Clark، Gallagher) يحتاج فصلاً مستقلاً."
   - "التطبيقات في علم النفس العصبي والعلاج الحركي تحتاج توثيقاً."
   - "الصلة بمرلوبونتي والجسد المعيش (Lived Body) غير مذكورة صراحة في المتن الحالي رغم شيوعها في أدبيات الإدراك المتجسد؛ تحتاج فقرة تربط البرنامج بأصوله الفينومينولوجية بالاسم قبل إدراجهما كرابط."
+  - "**صُحِّح النسب/النطاق 2026-09-10:** كان أبوه `rel-phenomenology-existential-therapy` وصُحِّح إلى `sch-phenomenology-somatic` — المعرفةُ المتجسّدة الامتدادُ المعاصرُ للظاهراتية الجسدية."
 ---
 
 # الإدراك المتجسد (Embodied Cognition): العقل يَتمدّد في الجسد

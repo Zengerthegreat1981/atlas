@@ -15,7 +15,6 @@ active_start: -265
 active_end: -80
 edges:
 - rel: "belongs_to", target: "sch-academy-platonic", target_type: "مظلة"
-- rel: "evolved_into", target: "sch-academy-platonic", target_type: "مدرسة"
 - rel: "evolved_into", target: "sch-eclecticism", target_type: "مدرسة"
 related:
 - id: "sch-pyrrhonism", title: "الشك البيروني", type: "مدرسة"
@@ -26,6 +25,7 @@ gaps:
   - "كتب الشكّاك الأكاديميين (خاصة كارنئادس) فُقدت بالكامل — وصلتنا شذرات من خلال شيشرون ونعمانيديس وPlutarch."
   - "مصادرنا الرئيسية معادية: شيشرون كان يكره كارنئادس لوصفه 'مُشوّش' لأخلاق الرومان."
   - "الفجوة بين 'الأكاديمية الشكية' و'الأكاديمية الانتقائية' (Antiochus) ليست واضحة المعالم."
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُذف `evolved_into → sch-academy-platonic` — معكوس: الشكُّ الأكاديميُّ (265 ق.م) طورٌ داخل الأكاديمية (387 ق.م)، والحرفُ الصحيحُ مثبتٌ في ملفّ الأكاديمية."
 ---
 
 # الشك الأكاديمي (Academic Skepticism)

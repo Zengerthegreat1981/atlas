@@ -15,7 +15,7 @@ active_start: 1983
 active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-cognitive-behavioral", target_type: "مدرسة"
-- rel: "evolved_from", target: "con-biosocial-dbt", target_type: "مفهوم"
+- rel: "grounded_in", target: "con-biosocial-dbt", target_type: "مفهوم"
 - rel: "founded_by", target: "thk-mlinehan", target_type: "مفكر"
 related:
 - id: "rel-act", title: "القبول والالتزام — الجار المحرِج", type: "علاقة بين مدرستين"
@@ -44,6 +44,7 @@ gaps:
   - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "التفاصيل الشخصية لتشخيص لينيهان الذاتي لم تُراجع من مذكراتها *Building a Life Worth Living*."
   - "التطبيقات الحديثة لـ DBT في اضطرابات ما بعد الصدمة (DBT-PE) لم تُوثَّق بعمق هنا."
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُوِّل `evolved_from → con-biosocial-dbt` إلى `grounded_in` — النظريةُ البيولوجية-الاجتماعية **جزءٌ من** DBT لا سلفٌ خرج منه — فالحرفُ الصحيحُ تأسيسٌ لا نسب."
 ---
 # العلاج الجدلي السلوكي (DBT)
 

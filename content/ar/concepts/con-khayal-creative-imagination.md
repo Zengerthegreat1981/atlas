@@ -10,13 +10,14 @@ crumb: "المفاهيم الفلسفية الكبرى ← الخيال الخل
 active_start: 1220
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-akbari", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-wahdat-alwujud", target_type: "مدرسة"
 related:
 - id: "thk-ibn-arabi", title: "محيي الدين بن عربي (الشيخ الأكبر)", type: "مفكر"
 - id: "con-alam-al-mithal-imaginal", title: "عالم المثال والبرزخ الروحي (Alam al-Mithal / Mundus Imaginalis)", type: "مفهوم"
 - id: "con-alam-al-jabarut-malakut-nasut", title: "عوالم الوجود الأربعة: الناسوت والملكوت والجبروت واللاهوت", type: "مفهوم"
 gaps:
   - "المصادر الأولية والتحليل المعجمي والمفاهيمي لتطور المصطلح."
+  - "**صُحِّح النسب/النطاق 2026-09-10:** كان أبوه `sch-akbari` وصُحِّح إلى `sch-wahdat-alwujud` — الخيالُ الخلاق من صميم ميتافيزيقا ابن عربي."
 ---
 
 # الخيال الخلاق والبرزخية الكونية (Creative Imagination)

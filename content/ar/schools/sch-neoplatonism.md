@@ -13,8 +13,7 @@ language: "اليونانية، اللاتينية"
 cultural_origin: "greek"
 active_start: 245
 active_end: 529
-edges:
-- rel: "absorbed_by", target: "sch-existentialism-religious", target_type: "مظلة"
+edges: []
 related:
 - id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية", type: "مدرسة"
 - id: "sch-middle-platonism", title: "الأفلاطونية الوسطى", type: "مدرسة"
@@ -34,6 +33,7 @@ gaps:
   - "تعريف 'الأفلاطونية المحدثة' (Neoplatonism) وضعه الفيلسوف الإنجليزي Thomas Taylor (1790s)، ولم يُستخدم في المصادر القديمة."
   - "بعض أعمال أفلوطين الـ 54 'إنّاديات' (Enneads) فقدت (خاصة II 9, III 9, V 7)."
   - "هل كانت 'الأفلاطونية المحدثة' ضد المسيحية أم مرتبطة بها؟ خلاف تاريخي ضخم."
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُذف `absorbed_by → sch-existentialism-religious` — فجوةُ 1,400 سنة بلا سندٍ في المتن؛ الأفلاطونيةُ المحدثةُ انتقلت إلى الآبائية والإسلامية لا إلى وجودية القرن 20."
 ---
 # الأفلاطونية المحدثة (Neoplatonism)
 

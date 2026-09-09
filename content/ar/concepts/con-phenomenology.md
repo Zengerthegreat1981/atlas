@@ -10,7 +10,7 @@ crumb: "الجسر (فلسفة ↔ علم نفس) ← المفاهيم ← ال�
 active_start: 1900
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "rel-phenomenology-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
 related:
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
@@ -26,6 +26,7 @@ gaps:
 - "التمييز بين الظاهراتية الألمانية والفرنسية (German vs. French Phenomenology) يحتاج توثيقاً."
 - "اقتباس مباشر مسنَد بصفحة من *Logische Untersuchungen* لهوسرل لم يُدرَج بعد."
 - "التطبيقات في علم النفس النوعي (IPA) وفي الطب النفسي الظاهراتي (Jaspers, Boss) تحتاج فصلاً."
+  - "**صُحِّح النسب/النطاق 2026-09-10:** كان أبوه `rel-phenomenology-existential-therapy` وصُحِّح إلى `sch-phenomenology` — المفهومُ المؤسِّسُ للمدرسة نفسِها."
 ---
 # الظاهراتية (Phenomenology): علم وصف الظواهر كما تُعطى
 

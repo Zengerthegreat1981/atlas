@@ -10,7 +10,7 @@ crumb: "الجسر (فلسفة ↔ علم نفس) ← المفاهيم ← عا�
 active_start: 1936
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "rel-phenomenology-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
 related:
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
 - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
@@ -21,6 +21,7 @@ gaps:
 - "التمييز بين Lebenswelt عند هوسرل وعند هايدغر (In-der-Welt-sein) يحتاج مراجعة دقيقة."
 - "لم يُدرَج بعد اقتباس مباشر موثّق من نص هوسرل الأصلي في هذه المسودة."
 - "التطبيقات في علم النفس البيئي (Barker) وفي علم نفس الصحة (Carel) تحتاج توثيقاً."
+  - "**صُحِّح النسب/النطاق 2026-09-10:** كان أبوه `rel-phenomenology-existential-therapy` وصُحِّح إلى `sch-phenomenology` — عالَمُ الحياة (Lebenswelt) من «أزمة العلوم» لهوسرل (1936)."
 ---
 
 # عالم الحياة (Lebenswelt): العالم المعيش قبل الموضوعي

@@ -13,8 +13,7 @@ cultural_origin: "anglo-american"
 language: "الألمانية، الإنجليزية"
 active_start: 1908
 active_end: "مستمر"
-edges:
-- rel: "evolved_from", target: "sch-behaviorism", target_type: "مدرسة"
+edges: []
 related:
 - id: "sch-behaviorism", title: "السلوكية", type: "مدرسة"
 - id: "sch-developmental", title: "علم النفس النمائي (Developmental Psychology)", type: "مدرسة"
@@ -45,6 +44,7 @@ gaps:
   - "التمييز بين 'علم النفس الاجتماعي' (social psychology) و'علم النفس المجتمعي' (community psychology) و'السوسيولوجيا' ليس موحّداً في المراجع العربية."
   - "تاريخ موجة 'الأزمة' (Crisis in Social Psychology، 1970s) التي هاجمت المنهجية التجريبية موثّقة لكن تفاصيل تأثيرها على الانقسام بين علم النفس الاجتماعي النفسي والسوسيولوجيا غير مفصّلة."
   - "لم يُدرَج اقتباس مباشر من مصدر أولي في هذه المسودة."
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُذف `evolved_from → sch-behaviorism` — معكوس: علمُ النفس الاجتماعي (1908، مكدوغال وروس) أقدمُ من السلوكية (1913)."
 ---
 # علم النفس الاجتماعي (Social Psychology)
 

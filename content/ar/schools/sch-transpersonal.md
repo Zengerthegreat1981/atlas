@@ -17,7 +17,7 @@ edges:
 - rel: "evolved_from", target: "sch-humanistic", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-buddhist-psychology", target_type: "تيار"
 - rel: "evolved_from", target: "sch-advaita-vedanta", target_type: "مدرسة"
-- rel: "split_into", target: "tec-holotropic-breathwork", target_type: "تيار"
+- rel: "relates_to", target: "tec-holotropic-breathwork", target_type: "تيار"
 - rel: "split_into", target: "sch-psychedelic-assisted-therapy", target_type: "مدرسة"
 related:
 - id: "thk-kwilber", title: "كين ويلبر", type: "مفكر"
@@ -42,6 +42,7 @@ gaps:
   - "العلاقة بين علم النفس عبر الشخصي وعلم النفس البوذي و'الموجة الثالثة' (ACT، DBT) ليست موحّدة في المراجع."
   - "نقد Wilber للنظريات النفسية الأخرى (Wilber-Combs lattice) موثّق جزئياً في كتبه لكن لم يُحلّل في هذا الملف."
   - "روابط evolved_from/split_into لـ'علم النفس التحليلي (يونغ)'، 'الصوفية'، 'الأنثروبولوجيا الروحية'، 'علم النفس اليقظ'، 'علم النفس الشاماني' أُزيلت — لا يوجد لها ملف sch-/br- فعلي في الأطلس بعد، رغم ذكرها في المتن كسياق فكري ومراحل تاريخية."
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُوِّل `split_into → tec-holotropic-breathwork` إلى `relates_to` — التنفّسُ الهولوتروبي **تقنيةٌ** طوّرها غروف داخل المدرسة، لا مدرسةً انشقّت عنها."
 ---
 # علم النفس عبر الشخصي (Transpersonal Psychology)
 

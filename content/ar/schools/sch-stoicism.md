@@ -13,9 +13,7 @@ language: "اليونانية، اللاتينية"
 cultural_origin: "greek"
 active_start: -300
 active_end: 250
-edges:
-- rel: "evolved_into", target: "sch-aristotelianism", target_type: "مدرسة"
-- rel: "absorbed_by", target: "sch-existentialism-religious", target_type: "مظلة"
+edges: []
 related:
 - id: "sch-cynicism", title: "الكلبية", type: "مدرسة"
 - id: "sch-aristotelianism", title: "المشائية / الأرسطية", type: "مدرسة"
@@ -46,6 +44,8 @@ gaps:
   - "من 535 عملاً كتبها الرواقيون (حسب ديوغانس لايرتي 7.39) فُقد 99% منها — وصلتنا شذرات فقط."
   - "الرواقيون 'الجدد' (مثل Posidonius، Seneca، Marcus Aurelius) لم يكونوا جميعاً متّسقين مع المؤسّسين (Zenon, Cleanthes, Chrysippus)."
   - "حدود التأثير الرواقي على لاهوت بولس الرسول والقديس أوغسطينوس موضوع خلاف تاريخي ضخم."
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُذف `absorbed_by → sch-existentialism-religious` — فجوةُ ألفَي سنة، ولا يذكر متنُ أيٍّ من الطرفين استيعاباً — الرواقيةُ انقضت في القرن 3م."
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُذف `evolved_into → sch-aristotelianism` — المشائيةُ (335 ق.م) أقدمُ من الرواقية (300 ق.م) فلا تكون ثمرةً لها."
 ---
 # الرواقية (Stoicism)
 

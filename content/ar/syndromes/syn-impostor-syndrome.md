@@ -9,8 +9,7 @@ en: "Impostor Syndrome"
 crumb: "علم النفس ← متلازمات معاصرة ← متلازمة المحتال"
 active_start: 1978
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+edges: []
 related:
 - id: "con-cognitive-distortion", title: "التشوهات المعرفية", type: "مفهوم"
 - id: "con-self-efficacy", title: "الكفاءة الذاتية", type: "مفهوم"
@@ -26,6 +25,7 @@ gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: بولين كلانس (thk-pclance)"
   - "التمييز بين 'متلازمة' و'تجربة' موضع جدل في الأدبيات."
   - "**دمج 2026-08-27:** كان يوجد ملف مكرر بنفس الموضوع تحت content/ar/syndromes/syn-impostor.md (SYN-0091). اعتُمد هذا الملف (syn-impostor-syndrome) كنسخة قانونية لعمق تغطيته (الأنواع الفرعية الخمسة، النماذج النظرية الأربعة، الدراسات الحديثة، المصادر). نُقلت إليه العناصر الفريدة المفيدة من النسخة المدموجة: روابط dis-social-anxiety-disorder وdis-gad وdis-avoidant-personality، والتمييز عن con-jonah-complex (عقدة يونان عند ماسلو). حُوّل syn-impostor.md إلى ملف إحالة دائمة، وحُدّثت 4 ملفات كانت تشير إليه لتشير إلى syn-impostor-syndrome بدلاً منه. النسخة الأصلية محفوظة في agents_specs/quarantine-spark-archive/syn-impostor.md.archived.2026-08-27."
+  - "**رُفع نسبٌ مختومٌ قالبياً 2026-09-10:** كان هذا الملفُّ يُعلن `sch-cognitive-behavioral` أباً له، وهو ختمٌ قالبيٌّ من دفعة إنشاءٍ سابقة: لا يذكر متنُ المدرسة هذه العقدةَ، ولا يُسند المتنُ هنا انتماءً إليها (وحيث ذُكر العلاجُ المعرفيُّ السلوكيُّ فبوصفه علاجاً يُستعمل، لا مدرسةً تنتمي إليها العقدة). فحُذف الحرفُ ولم يُعوَّض — والمتلازمةُ كيانٌ وصفيٌّ لا عضوٌ في مدرسةٍ علاجية."
 ---
 
 # متلازمة المحتال (Impostor Syndrome)

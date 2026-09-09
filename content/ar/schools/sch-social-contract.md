@@ -14,7 +14,6 @@ cultural_origin: "european"
 active_start: 1640
 active_end: 1900
 edges:
-- rel: "evolved_from", target: "sch-enlightenment", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-british-empiricism", target_type: "مدرسة"
 related:
 - id: "sch-enlightenment", title: "فلسفة التنوير", type: "مدرسة"
@@ -26,6 +25,7 @@ gaps:
   - "نصوص هوبز ولوك وروسو بالإنجليزية والفرنسية تحتاج مراجعة من المصدر الأولي."
   - "نسخة 'Du Contrat Social' (1762) لروسو المستخدمة هنا مترجمة، لم تُراجع من الطبعة الفرنسية الأصلية."
   - "التمييز بين 'العقد الاجتماعي' كتيار وككتاب محدد (روسو) معقّد."
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُذف `evolved_from → sch-enlightenment` — العقدُ الاجتماعي (1640، هوبز) سابقٌ على التنوير (1680)؛ ويبقى نسبُه إلى التجريبية البريطانية."
 ---
 # العقد الاجتماعي (كتيار فلسفي سياسي)
 

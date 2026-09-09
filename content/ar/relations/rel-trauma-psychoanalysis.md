@@ -10,7 +10,7 @@ active_start: 1889
 active_end: "مستمر"
 part: "bridge"
 edges:
-- rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "مدرسة"
+- rel: "relates_to", target: "br-sensorimotor-trauma-applications", target_type: "مدرسة"
 - rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "br-classical-psychoanalysis", title: "التحليل النفسي الفرويدي الكلاسيكي", type: "تيار"
@@ -26,6 +26,7 @@ gaps:
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: إدنا ب. فوا (thk-foa)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: باتريشيا أ. ريسك (thk-resick)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بابي روتشيلد (thk-rothschild)."
+  - "**صُحِّح النسب/النطاق 2026-09-10:** حُوِّل `belongs_to → br-sensorimotor-trauma-applications` إلى `relates_to` — هذا ملفُّ **علاقةٍ بين مدرستين** يؤرّخ خطَّ الصدمة من جانيه (1889)، فلا يكون عضواً في تيّارٍ تأسّس 1995."
 ---
 
 # العلاج المتمركز حول الصدمة والتحليل النفسي: من إغفال إلى تكريم

@@ -10,7 +10,7 @@ crumb: "الجسر (فلسفة ↔ علم نفس) ← المفاهيم ← فر�
 active_start: 1942
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "rel-phenomenology-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-pragmatism-classical", target_type: "مدرسة"
 related:
 - id: "thk-pepper", title: "ستيفن كول بِبِر", type: "مفكر"
 - id: "thk-cassirer", title: "إرنست كاسيرر", type: "مفكر"
@@ -18,6 +18,7 @@ related:
 gaps:
   - "إسهام بِبِر في علم نفس الإبداع غير موثّق بشكل كافٍ في المصادر العربية."
   - "نسبت الفروض إلى مدارس بعينها (الذرية، العشوائية) تحتاج تدقيقاً."
+  - "**صُحِّح النسب/النطاق 2026-09-10:** كان أبوه `rel-phenomenology-existential-therapy` وصُحِّح إلى `sch-pragmatism-classical` — فروضُ العالَم لستيفن بيبر (1942) في التقليد البراغماتي، وعليها بُنيت السياقيةُ الوظيفية."
 ---
 
 # فروض العالم (World Hypotheses) عند بِبِر

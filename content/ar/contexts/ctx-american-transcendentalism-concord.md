@@ -10,12 +10,13 @@ crumb: "الفلسفة الأمريكية والأدب الإنساني ← ال
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
 - id: "thk-emerson", title: "رالف والدو إمرسون", type: "مفكر"
 - id: "thk-thoreau", title: "هنري ديفيد ثورو", type: "مفكر"
 gaps:
   - "لم تُراجَع من مصدر أولي القائمة الكاملة لأعضاء 'نادي التعالوية' (Transcendental Club) المؤسَّس 1836."
+  - "**صُحِّح نسبُ السياق 2026-09-10:** حُوِّل `belongs_to` إلى `relates_to` نحو `sch-humanistic` — التعالويةُ (1836) سلفٌ فكريٌّ معترَفٌ به لعلم النفس الإنساني (1954) لا عضوٌ فيه — إمرسون سابقٌ على ماسلو بقرن. الرابطُ باقٍ والقصدُ التحريريُّ محفوظ؛ الساقطُ هو ادّعاءُ العضوية."
 ---
 # التعالوية الأمريكية في كونكورد والاعتماد على الذات
 

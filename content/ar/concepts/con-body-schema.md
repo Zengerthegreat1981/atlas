@@ -10,7 +10,7 @@ crumb: "الجسر (فلسفة ↔ علم نفس) ← المفاهيم ← مخ�
 active_start: 1935
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "rel-phenomenology-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology-somatic", target_type: "مدرسة"
 related:
 - id: "rel-phenomenology-existential-therapy", title: "الظاهراتية الفلسفية والعلاج النفسي الوجودي: من هوسرل إلى بينسفانغر وبوس", type: "علاقة بين مدرستين"
 - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
@@ -28,6 +28,7 @@ gaps:
   - "التمييز بين مخطط الجسد (Body Schema) وصورة الجسد (Body Image) يحتاج فصلاً مفاهيمياً."
   - "التطبيقات في علاج السكتة الدماغية (Stroke Rehabilitation) وفي علاج البتر الوهمي (Phantom Limb) عند Ramachandran تحتاج توثيقاً إكلينيكياً."
   - "الفرق بين مخطط الجسد في علم الأعصاب (Neuroscience) ومخطط الجسد في الفلسفة يحتاج فصلاً."
+  - "**صُحِّح النسب/النطاق 2026-09-10:** كان أبوه `rel-phenomenology-existential-therapy` وصُحِّح إلى `sch-phenomenology-somatic` — مخطّطُ الجسد محورُ الظاهراتية الجسدية عند ميرلوبونتي."
 ---
 
 # مخطط الجسد (Body Schema): النظام اللاواعي للحركة

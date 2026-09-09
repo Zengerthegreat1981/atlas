@@ -17,8 +17,8 @@ edges:
 - rel: "split_into", target: "sch-fichte", target_type: "مدرسة"
 - rel: "split_into", target: "sch-schelling", target_type: "مدرسة"
 - rel: "split_into", target: "sch-hegelianism", target_type: "مدرسة"
-- rel: "split_into", target: "sch-kant-critical", target_type: "مدرسة"
 - rel: "split_into", target: "sch-neokantian", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-kant-critical", target_type: "مدرسة"
 related:
 - id: "thk-fichte", title: "يوهان غوتليب فيشته", type: "مفكر"
 - id: "thk-schelling", title: "فريدريش شيلينغ", type: "مفكر"
@@ -35,6 +35,7 @@ related:
 - id: "thk-schopenhauer", title: "أرتور شوبنهاور", type: "مفكر"
 gaps:
   - "المظلة الإجرائية لمذهب واسع ومتنازع عليه؛ الفترة النهائية (1815–1831) أقل توثيقاً."
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُذف `split_into → sch-kant-critical` — معكوس: الكانطيةُ النقدية (1781) سابقةٌ على المثالية الألمانية (1785) وأصلٌ لها لا فرعٌ منها — ويُضاف بدلَه حرفُ `evolved_from` في الاتجاه الصحيح."
 ---
 # المثالية الألمانية (كمظلة)
 

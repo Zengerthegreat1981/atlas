@@ -13,7 +13,7 @@ part: "philosophy"
 active_start: null
 active_end: 1954
 edges:
-- rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
 related:
 - id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
 - id: "thk-lowen", title: "ألكسندر لوين", type: "مفكر"
@@ -23,6 +23,7 @@ related:
 gaps:
   - "سبب وفاته المبكرة (52 سنة) وطبيعة مرضه الأخير غير موثقين في مصدر أولي."
   - "لم يُعثر على اقتباس منسوب له بمصدر أولي وسنة، فحُذف من المتن ولم يُستبدل."
+  - "**صُحِّح النسب/النطاق 2026-09-10:** حُوِّل `belongs_to → sch-somatic-experiencing` إلى `relates_to` — ثيودور وولف (ت 1954) مترجمُ رايش إلى الإنجليزية، توفّي قبل تأسيس التجربة الجسدية (1990). الصلةُ باقيةٌ والساقطُ ادّعاءُ العضوية."
 ---
 
 # ثيودور ب. وولف

@@ -13,7 +13,8 @@ country: "ألمانيا"
 language: "الألمانية"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "sch-hermeneutics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-lebensphilosophie", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-hermeneutics", target_type: "مدرسة"
 related:
 - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
@@ -29,6 +30,7 @@ gaps:
   - "لم يُراجع بعد من نسخة أصلية مباشرة (مقدمة إلى العلوم الإنسانية، 1883)."
   - "أُضيف بعد ملاحظة المستخدم إن اسمه مذكور في «خط تطوّر المدرسة» (طبقة 1855–1900) من غير رابط فعلي."
   - "دُمج معه الملف المكرَّر thk-wilhelm-dilthey (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
+  - "**صُحِّح النسب/النطاق 2026-09-10:** كان أبوه `sch-hermeneutics` وصُحِّح إلى `sch-lebensphilosophie` — دلتاي (1833–1911) سابقٌ على هرمنيوطيقا غادامير (1960)؛ وموضعُه فلسفةُ الحياة (1870–1920) وهو من أعلامها — وتبقى صلتُه بالهرمنيوطيقا حرفَ `relates_to`."
 ---
 
 # فيلهلم دلتاي

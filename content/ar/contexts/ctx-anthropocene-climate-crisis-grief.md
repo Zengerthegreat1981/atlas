@@ -10,7 +10,7 @@ crumb: "الفلسفة البيئية وعلم النفس الإيكولوجي �
 active_start: 2000
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ecopsychology", target_type: "مدرسة"
 related:
 - id: "que-climate-grief-solastalgia", title: "الحزن المناخي", type: "سؤال توليدي"
 - id: "thk-jonas", title: "هانز يوناس", type: "مفكر"
@@ -20,6 +20,7 @@ related:
 gaps:
   - "لم يُراجَع نص مقال كروتزن وستورمر (2000) في نشرة IGBP مباشرة ضمن مصادر المشروع، والاستشهاد قائم على مراجع ثانوية."
   - "لم تُراجَع مباشرة ورقة ألبرشت (2005) 'Solastalgia' في مجلة Philosophy Activism Nature."
+  - "**صُحِّح نسبُ السياق 2026-09-10:** كان أبوه `sch-humanistic` وصُحِّح إلى `sch-ecopsychology` — الحزنُ المناخيُّ والأنثروبوسين موضعُهما علمُ النفس الإيكولوجي، وهو أدقُّ من علم النفس الإنساني."
 ---
 # عصر الأنثروبوسين وأزمة المناخ وظاهرة «الحزن البيئي»
 

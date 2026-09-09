@@ -14,8 +14,8 @@ active_start: 1952
 active_end: "مستمر"
 cultural_origin: "anglo-american"
 edges:
-- rel: "split_into", target: "tec-structural-family-therapy", target_type: "تيار"
-- rel: "split_into", target: "tec-strategic-family-therapy", target_type: "تيار"
+- rel: "split_into", target: "tec-structural-family-therapy", target_type: "تقنية/تدخل علاجي"
+- rel: "split_into", target: "tec-strategic-family-therapy", target_type: "تقنية/تدخل علاجي"
 - rel: "split_into", target: "br-bowen-systems", target_type: "تيار"
 related:
 - id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
@@ -54,6 +54,8 @@ gaps:
   - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "التمييز الدقيق بين 'العلاج الأسري' و'العلاج الزوجي' و'العلاج النظامي' ليس موحّداً في الأدبيات — أحياناً تترادف، وأحياناً تتفرّق."
   - "المساهمة الإيطالية (مدرسة ميلانو بالاتزولي-سيلفيني-تشيكّو) موثّقة في الأدبيات الأوروبية أكثر من الإنجليزية، تحتاج ترجمة موسّعة."
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** صُحِّح `target_type` في `split_into → tec-structural-family-therapy` إلى «تقنية/تدخل علاجي» — الانشقاقُ صحيحٌ تاريخياً (مينوتشين)، لكنّ الهدفَ مُصنَّفٌ في الأطلس «تقنية» ويستحقّ أن يكون تياراً (`br-`)."
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** صُحِّح `target_type` في `split_into → tec-strategic-family-therapy` إلى «تقنية/تدخل علاجي» — الانشقاقُ صحيحٌ تاريخياً (هيلي ومادانيس)، لكنّ الهدفَ مُصنَّفٌ «تقنية» ويستحقّ أن يكون تياراً (`br-`)."
 ---
 # العلاج الأسري والنظامي (Systemic/Family Therapy)
 

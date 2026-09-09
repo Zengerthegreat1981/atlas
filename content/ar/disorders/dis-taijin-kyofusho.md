@@ -11,8 +11,7 @@ icd11_code: null
 active_start: 1970
 active_end: "مستمر"
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+edges: []
 related:
 - id: "syn-acute-anxiety", title: "القلق الحاد", type: "متلازمة"
 - id: "syn-emotional-numbing", title: "الخمول الانفعالي / التخدير", type: "متلازمة"
@@ -25,6 +24,7 @@ gaps:
   - "لا يوجد كود DSM-5-TR أو ICD-11 مستقل لهذه المتلازمة؛ يُدرَج TKS في DSM-5/5-TR ضمن ملحق «المفاهيم الثقافية للضيق» (Cultural Concepts of Distress) لا كفئة تشخيصية قائمة بذاتها، وICD-11 لا يفردها برمز مستقل — لذا الحقلان null هنا وليسا سهواً."
   - "تطوير شوما موريتا (Shoma Morita) لعلاج موريتا (Morita Therapy) كخط علاجي تقليدي لتايجين كيوفوشو لم يُراجع بعد من مصدر أولي."
   - "**دمج 2026-08-27:** كان يوجد ملف مكرر بنفس الموضوع تحت content/ar/syndromes/syn-taijin-kyofusho.md (SYN-0172، نفس الحالة تحت نوع 'متلازمة' بدل 'اضطراب/حالة إكلينيكية'). اعتُمد هذا الملف (dis-taijin-kyofusho) كنسخة قانونية لعمق وصفه (الأنواع الفرعية الأربعة حسب أوكونوغي، الجدل حول تصنيفها). نُقلت إليه العناصر الفريدة المفيدة من النسخة المدموجة: رابط المدرسة sch-cognitive-behavioral، وروابط dis-social-anxiety-disorder وdis-body-dysmorphic-disorder وcrt-postcolonial-critique-dsm، والإشارة إلى علاج موريتا. حُوّل syn-taijin-kyofusho.md إلى ملف إحالة دائمة، وحُدّثت 5 ملفات كانت تشير إليه لتشير إلى dis-taijin-kyofusho بدلاً منه. النسخة الأصلية محفوظة في agents_specs/quarantine-spark-archive/syn-taijin-kyofusho.md.archived.2026-08-27."
+  - "**رُفع نسبٌ مختومٌ قالبياً 2026-09-10:** كان هذا الملفُّ يُعلن `sch-cognitive-behavioral` أباً له، وهو ختمٌ قالبيٌّ من دفعة إنشاءٍ سابقة: لا يذكر متنُ المدرسة هذه العقدةَ، ولا يُسند المتنُ هنا انتماءً إليها (وحيث ذُكر العلاجُ المعرفيُّ السلوكيُّ فبوصفه علاجاً يُستعمل، لا مدرسةً تنتمي إليها العقدة). فحُذف الحرفُ ولم يُعوَّض — والمتلازمةُ كيانٌ وصفيٌّ لا عضوٌ في مدرسةٍ علاجية."
 ---
 
 # تاي جين كيو فوشو (Taijin Kyofusho)

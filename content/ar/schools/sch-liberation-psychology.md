@@ -16,7 +16,6 @@ evidence_level: "experimental"
 active_start: 1986
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "belongs_to", target: "sch-liberation-philosophy", target_type: "مدرسة"
 related:
 - id: "exp-rosa-parks-montgomery-bus-refusal", title: "رفض روزا باركس التنازل عن مقعدها في حافلة مونتغمري (1955)", type: "خبرة معيشة"
@@ -36,6 +35,7 @@ related:
 - id: "thk-marisol-montoya", title: "ماريسول مونتويا (Marisol Montoya)", type: "مفكر"
 gaps:
   - "لا تاريخ نهاية موثّق — الحقل في توسعة مع تطبيع جزئي في الجامعات الأمريكية اللاتينية الرسمية."
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُذف `evolved_from → sch-psychoanalysis` — مارتين-بارو خرج من علم النفس الاجتماعي ولاهوت التحرير وفريري، لا من التحليل النفسي."
 ---
 # علم نفس التحرر
 

@@ -13,7 +13,7 @@ active_end: "مستمر"
 language: "الإنجليزية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "rel-act", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-act", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-lstevenhayes", target_type: "مفكر"
 related:
 - id: "rel-act", title: "القبول والالتزام — الجار المحرِج", type: "علاقة بين مدرستين"
@@ -22,6 +22,7 @@ related:
 gaps:
   - "الأساس اللساني والتجريبي لنظرية إطار العلاقات (RFT) حول الاستجابة العلائقية المشتقة (Derived Relational Responding)."
   - "فلسفة البراغماتية الوظيفية وكيف تحل السياقية الوظيفية معضلة الحقيقة والصدق العلمي عبر 'العملية والقابلية للتطبيق'."
+  - "**صُحِّح النسب/النطاق 2026-09-10:** كان أبوه `rel-act` وصُحِّح إلى `sch-act` — السياقيةُ الوظيفية ونظريةُ إطار العلاقات الأساسُ النظريُّ لـACT؛ وأبوها كان ملفَّ علاقةٍ لا مدرسة."
 ---
 
 # السياقية الوظيفية ونظرية إطار العلاقات (RFT)

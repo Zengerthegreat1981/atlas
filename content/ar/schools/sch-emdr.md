@@ -17,7 +17,6 @@ evidence_level: "controversial"
 cultural_origin: "anglo-american"
 edges:
 - rel: "belongs_to", target: "sch-trauma-psychology", target_type: "مدرسة"
-- rel: "evolved_from", target: "sch-behaviorism", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-francine-shapiro", target_type: "مفكر"
 related:
 - id: "thk-besselvanderkolk", title: "بِسِل فَن دِر كولك", type: "مفكر"
@@ -51,6 +50,7 @@ gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الذاكرة الصادمة (con-traumatic-memory)"
   - "الآلية العصبية لـ EMDR (لماذا حركات العين تساعد) لا تزال مثيرة للجدل الأكاديمي."
   - "النقد المعرفي (McNally 1999) والأدلة المؤيدة (APA 2004) موثّقة جزئياً، تحتاج فصلاً."
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُذف `evolved_from → sch-behaviorism` — EMDR نشأ من ملاحظة شابيرو وبراديغم التعرّض، ونسبُه المثبتُ إلى علم نفس الصدمة أدقُّ من السلوكية."
 ---
 # إعادة المعالجة عبر حركات العين وتخفيف الأعراض (EMDR)
 

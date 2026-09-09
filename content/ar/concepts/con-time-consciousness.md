@@ -10,7 +10,7 @@ crumb: "الجسر (فلسفة ↔ علم نفس) ← المفاهيم ← وع�
 active_start: 1905
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "rel-phenomenology-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
 related:
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
@@ -24,6 +24,7 @@ related:
 gaps:
   - "التمييز بين وعي الزمن عند هوسرل (الظاهراتي) وعند هايدغر (الزمنية الوجودية) وعند برغسون (المدة) يحتاج فصلاً مستقلاً."
   - "التطبيقات في علاج اضطرابات الزمن في الاكتئاب والفصام (كلاين، موسكفيتس) تحتاج توثيقاً إكلينيكياً."
+  - "**صُحِّح النسب/النطاق 2026-09-10:** كان أبوه `rel-phenomenology-existential-therapy` وصُحِّح إلى `sch-phenomenology` — وعيُ الزمن الداخليِّ من محاضرات هوسرل."
 ---
 # وعي الزمن (Zeitbewußtsein): الحاضر المتضمن للماضي والمستقبل
 

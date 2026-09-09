@@ -10,7 +10,7 @@ crumb: "الجسر (فلسفة ↔ علم نفس) ← المفاهيم ← ال�
 active_start: 1845
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "rel-phenomenology-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-marxism", target_type: "مدرسة"
 related:
 - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
 - id: "thk-arendt", title: "حنة آرندت", type: "مفكر"
@@ -22,6 +22,7 @@ gaps:
   - "التمييز بين براكسيس ماركس وبراكسيس آرندت يحتاج فصلاً مستقلاً."
   - "التطبيقات في علم نفس التحرر (Martin-Baro، Moane) وفي علم النفس المجتمعي (Community Psychology) تحتاج توثيقاً."
   - "نقد البراكسيس من منظور ما بعد الحداثة (Lyotard) يحتاج فصلاً."
+  - "**صُحِّح النسب/النطاق 2026-09-10:** كان أبوه `rel-phenomenology-existential-therapy` وصُحِّح إلى `sch-marxism` — البراكسيس من «أطروحات عن فويرباخ» (1845) — مقولةٌ ماركسيةٌ لا ظاهراتية."
 ---
 
 # البراكسيس (Praxis): الفعل المتأمل الذي يَغيّر العالم

@@ -15,7 +15,6 @@ active_start: 1400
 active_end: 1900
 edges:
 - rel: "evolved_from", target: "sch-renaissance-humanism", target_type: "مدرسة"
-- rel: "evolved_from", target: "sch-enlightenment", target_type: "مدرسة"
 related:
 - id: "sch-renaissance-humanism", title: "الإنسانية النهضوية", type: "مدرسة"
 - id: "sch-enlightenment", title: "فلسفة التنوير", type: "مدرسة"
@@ -29,6 +28,7 @@ gaps:
   - "نصوص ماكيافيلي وبيكون وهارنغتون بالإيطالية والإنجليزية تحتاج مراجعة من المصدر الأولي."
   - "الاقتباسات من 'Il Principe' لماكيافيلي تحتاج مراجعة إضافية من المصدر الإيطالي الأصلي."
   - "التمييز بين 'الجمهورية المدنية' و'الجمهورية المدنية الجديدة' معقّد (انظر sch-civic-republicanism)."
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُذف `evolved_from → sch-enlightenment` — الجمهوريةُ المدنية (1400) سابقةٌ على التنوير (1680)؛ ويبقى نسبُها إلى الإنسانية النهضوية."
 ---
 
 # الجمهورية المدنية (Civic Republicanism)

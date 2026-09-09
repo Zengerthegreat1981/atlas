@@ -10,7 +10,7 @@ crumb: "الجسر (فلسفة ↔ علم نفس) ← المفاهيم ← ال�
 active_start: 1867
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "rel-phenomenology-existential-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-biological-neuro", target_type: "مدرسة"
 related:
 - id: "thk-helmholtz", title: "هرمان فون هلمهولتز", type: "مفكر"
 - id: "thk-fechner", title: "غوستاف فيخنر", type: "مفكر"
@@ -19,6 +19,7 @@ related:
 gaps:
   - "التفاصيل التقنية للتجارب المعاصرة على الاستدلال اللاواعي محدودة التوثيق هنا."
   - "نسبت الفكرة إلى الإغريق (أبقراط، أفلاطون) مذكورة بإيجاز فقط."
+  - "**صُحِّح النسب/النطاق 2026-09-10:** كان أبوه `rel-phenomenology-existential-therapy` وصُحِّح إلى `sch-biological-neuro` — الاستدلالُ اللاواعي عند هلمهولتز (1867) من أصول علم النفس التجريبي."
 ---
 
 # الاستدلال اللاواعي (Unconscious Inference) عند هلمهولتز

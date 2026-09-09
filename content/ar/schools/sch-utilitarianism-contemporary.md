@@ -15,7 +15,6 @@ active_start: 1950
 active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "br-classical-utilitarianism-bentham-mill", target_type: "تيار"
-- rel: "superseded_by", target: "sch-contractualism", target_type: "مدرسة"
 related:
 - id: "thk-mill", title: "جون ستيوارت ميل", type: "مفكر"
 - id: "thk-dparfit", title: "ديريك بارفيت", type: "مفكر"
@@ -30,6 +29,7 @@ gaps:
   - "الفارق بين «النفعية المؤهَّلة» (Qualified Utilitarianism) عند سمارت (1956) و«النفعية المباشرة» لم يُحلّل بدقة في المصادر الأولية."
   - "اقتباسات سينغر من 'تحرير الحيوان' (1975) في هذا الملف تحتاج مراجعة مقابل النص الأصلي."
   - "نقد 'الأمثال غير القابلة للقياس' (Incommensurable Values) في النفعية المعاصرة لم يُراجع."
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُذف `superseded_by → sch-contractualism` — النفعيةُ المعاصرة والتعاقديةُ خصمان متعاصران حيّان، لا سلفٌ وخلف."
 ---
 # النفعية المعاصرة
 تيار أخلاقي نشط منذ خمسينيات القرن العشرين، أعاد إحياء مبدأ «أعظم سعادة لأكبر عدد» في السياق التحليلي المعاصر. لم يعد الأمر «دفاعاً بسيطاً» عن النفعية الكلاسيكية (مل، بنتام) بل ظهرت نسخ مختلفة: نفعية الفعل (Act-Utilitarianism)، نفعية القاعدة (Rule-Utilitarianism)، النفعية المزدوجة (Two-Level Utilitarianism عند سيرل، 1983)، النفعية المثالية (Ideal Utilitarianism عند مور، 1903)، ونفعية التفضيل (Preference Utilitarianism عند سينغر، هارم، 1972).

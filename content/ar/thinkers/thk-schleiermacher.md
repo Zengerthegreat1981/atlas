@@ -13,13 +13,15 @@ language: "الألمانية"
 active_start: 1798
 active_end: 1834
 edges:
-- rel: "belongs_to", target: "sch-hermeneutics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-romanticism", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-hermeneutics", target_type: "مدرسة"
 related:
 - id: "sch-hermeneutics", title: "الهرمنيوطيقا الفلسفية (Philosophische Hermeneutik)", type: "مدرسة"
 - id: "con-hermeneutics", title: "الهَرْمِنِيوطيقا (Hermeneutics): فنّ التأويل والفهم", type: "مفهوم"
 gaps:
   - "لا توجد ترجمة عربية كاملة معتمدة لـ'Hermeneutik und Kritik' (محاضراته 1805–1833)، ما يحدّ من دقة نقل مصطلحاته التقنية (Verstehen، Auslegung) في هذا الملف."
   - "علاقته المباشرة بشلايرماخر الشاب في حلقة الرومانسية الألمانية (شليغل، نوفاليس) وأثرها على 'خطابات في الدين' لم تُفصَّل هنا."
+  - "**صُحِّح النسب/النطاق 2026-09-10:** كان أبوه `sch-hermeneutics` وصُحِّح إلى `sch-romanticism` — شلايرماخر (1768–1834) سابقٌ على هرمنيوطيقا غادامير (1960) بقرنٍ ونصف؛ وموضعُه الرومانسيةُ الفلسفية (1790–1850) وهي حقبتُه — وتبقى صلتُه بالهرمنيوطيقا حرفَ `relates_to` لأنه مؤسِّسُ تأويلِها الحديث."
 ---
 
 # فريدريش شلايرماخر

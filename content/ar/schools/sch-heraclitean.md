@@ -13,8 +13,7 @@ language: "اليونانية الأيونية"
 active_start: -535
 active_end: -475
 cultural_origin: "greek"
-edges:
-- rel: "evolved_into", target: "sch-academy-platonic", target_type: "مظلة"
+edges: []
 related:
 - id: "sch-milesian", title: "المدرسة الميليسية", type: "مدرسة"
 - id: "sch-eleatic", title: "المدرسة الإيلية", type: "مدرسة"
@@ -25,6 +24,7 @@ gaps:
   - "النص الأصلي وصلنا في شذرات (نحو 130 شذرة حسب Diels-Kranz)، كثير منها قابل لتأويلات متضاربة."
   - "لا اقتباس مباشر موثّق بنسبة 100% — الأقدمى قراءاته تأتي من أفلاطون وأرسطو."
   - "هل هرقليطس 'مؤسس' تيار أم فيلسوف فردي؟ استخدامه يشير إلى فرد لا مدرسة منتظمة."
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُذف `evolved_into → sch-academy-platonic` — أثرُ هيراقليطس في أفلاطون (محاورة كراتيلوس) أثرٌ لا نسبٌ مؤسِّس — يتخطّى الحرفُ جيلين."
 ---
 
 # الهيراقليطية (Heraclitean Thought)

@@ -16,7 +16,6 @@ cultural_origin: "european"
 register: "academic"
 evidence_level: "well-established"
 edges:
-- rel: "evolved_from", target: "sch-developmental", target_type: "مدرسة"
 - rel: "split_into", target: "br-affective-neuroscience-informed", target_type: "تيار"
 - rel: "split_into", target: "طب الأعصاب السلوكي", target_type: "تيار"
 - rel: "split_into", target: "علم الأعصاب المعرفي", target_type: "مدرسة"
@@ -47,6 +46,7 @@ gaps:
   - "العلاقة بين علم النفس البيولوجي وعلم النفس التطوري غير موحَّدة، كليهما يتعامل مع الجسد والتطور لكن بمناهج مختلفة."
   - "التقسيمات الفرعية (Behavioral Neurology، Cognitive Neuroscience، Affective Neuroscience) تحتاج فصولاً مستقلة في `br-`."
   - "رابطا evolved_from لـ«علم وظائف الأعضاء» و«علم النفس الفيزيولوجي (Wundt)» أُزيلا — لا يوجد slug معتمد يطابقهما في الأطلس حالياً."
+  - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُذف `evolved_from → sch-developmental` — معكوس وبلا سند: علمُ النفس البيولوجي (1879، فونت) أقدمُ من النمائي (1882) ولم يخرج منه."
 ---
 # علم النفس البيولوجي والعصبي (Biological & Neuropsychology)
 
