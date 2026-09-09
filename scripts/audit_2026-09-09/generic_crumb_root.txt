@@ -1,0 +1,123 @@
+thk-rlevenson	philosophy	الناس ← روبرت ليفنسون
+thk-skalama	philosophy	الناس ← سام كالاما
+thk-michaelsweeting	philosophy	الناس ← مايكل سويتنغ
+thk-robert-burgess	philosophy	الناس ← روبرت إل. بَرجِس
+thk-pekkajokinen	psychology	الناس ← بيكا يوكينن
+thk-mking	philosophy	الناس ← ميليسا كينغ
+thk-pgodfrey	philosophy	الناس ← بيتر غودفري
+thk-ttshishiku	psychology	الناس ← تِمُوتي تشيشيكو
+thk-rmclark	philosophy	الناس ← روبرت كلارك
+thk-francis-galton	psychology	الناس ← قياس الفروق الفردية ← فرانسيس غالتون
+thk-margaretbodkin	psychology	الناس ← مارغريت بودكن
+thk-ttolksdorf	philosophy	الناس ← تيودور تولكسدورف
+thk-michael-guthrie	philosophy	الناس ← مايكل غوثري
+thk-sharron-hapai	psychology	الناس ← شارون هاپاي
+thk-marciamarx	psychology	الناس ← مارسيا ماركس
+thk-pteilhard	psychology	الناس ← بيار تيار دي شاردان
+thk-dfeinstein	psychology	الناس ← ديفيد فاينشتاين
+thk-ahill	psychology	الناس ← أدريان هيل
+thk-mhosokawa	psychology	الناس ← ميتشيو هوسوكاوا
+thk-peter-bloom	psychology	الناس ← بيتر بلوم
+thk-rkovarsky	philosophy	الناس ← ريكاردو كوفارسكي
+thk-batkinson	philosophy	الناس ← برنت أتكينسون
+thk-wboechat	psychology	الناس ← فالتَر بُويْتشات
+thk-aliebeault	psychology	الناس ← أمبرواز ليبو
+thk-pfisher	philosophy	الناس ← بيتر فيشر
+thk-rklenck	psychology	الناس ← [مؤسِّسو الجمعيات التحليلية البريطانية]
+thk-dchurch	psychology	الناس ← داوسون تشيرش
+thk-paula-penda	psychology	الناس ← بولا بيندا (Paula Penda)
+thk-ecolle	philosophy	الناس ← إيما كول
+thk-yvaniedmon	psychology	الناس ← إيڤاني إدمون
+thk-rgreening	philosophy	الناس ← ريتشارد إ. غرينينغ
+thk-mclayton	philosophy	الناس ← جي. ماكس كلايتون
+thk-mschwarz	psychology	الناس ← مارغريت شوارز
+thk-rcasals	psychology	الناس ← راميرو كاسالس
+thk-jerome-bruner	psychology	الناس ← علم النفس المعرفي والثقافي ← جيروم برونر
+thk-paulgthomas	philosophy	الناس ← بول جي. توماس
+thk-cgarrett	psychology	الناس ← كولين غاريت
+thk-cmalchiodi	philosophy	الناس ← كاثي مالكيودي
+thk-rlina	philosophy	الناس ← ريك لينا
+thk-wood	psychology	الناس ← جون-ماينارد وود
+thk-zhangyongqiang	psychology	الناس ← تشانغ يونغ تشيانغ
+thk-jbeker	psychology	الناس ← جوناثان بِكر
+thk-westphal	philosophy	الناس ← فريدريش فستفال
+thk-mworden	philosophy	الناس ← مارك ووردن
+thk-jgedo	philosophy	الناس ← جون جيدو
+thk-pipitea	philosophy	الناس ← مايكل بيبيتي
+thk-rcermak	psychology	الناس ← شارون سيرماك
+thk-mrothery	philosophy	الناس ← مارك روتشرِي
+thk-jherman	psychology	الناس ← جوديث هِرمان
+thk-saberg-abramovitz	philosophy	الناس ← أَسْترِيد بِرغ وكارول أبراموفيتش
+thk-vaxline	philosophy	الناس ← فيرجينيا أَكسلاين
+thk-rmhinshaw	philosophy	الناس ← روبرت هينشو
+thk-mchen	philosophy	الناس ← مارفن تشِن
+thk-wrichards	philosophy	الناس ← وليام ريتشاردز
+thk-jlchner	philosophy	الناس ← جاك ليتشنر
+thk-young	philosophy	الناس ← سارة يونغ
+thk-apert	philosophy	الناس ← أنا أريتي
+thk-miranda-fricker	philosophy	الناس ← نظرية المعرفة الاجتماعية ← ميراندا فريكر
+thk-maharishi	psychology	الناس ← مهارشي ماهيش يوغي
+thk-markwelch	philosophy	الناس ← مارك ويلش
+thk-leehyungjun	psychology	الناس ← لي هيونغ-جون
+thk-nwatanabe	psychology	الناس ← نوبو واتانابي
+thk-paul-thorne	philosophy	الناس ← بول ثورن
+thk-alan-turing	philosophy	الناس ← فلسفة العقل والذكاء الاصطناعي ← ألان تورينغ
+thk-raltezor	philosophy	الناس ← روبرتو آلتِزور
+thk-rk-narayan	psychology	الناس ← راماكريشنا نارايان
+thk-mingshengli	psychology	الناس ← لي مينغ شنغ
+thk-niosepa	psychology	الناس ← نانا إيوسيبا
+thk-jhouston	philosophy	الناس ← جين هيوستن
+thk-robertduvall	psychology	الناس ← روبرت دوفال
+thk-nepstein	psychology	الناس ← نيكولاس إبستين
+thk-penelopeeast	psychology	الناس ← بينيلوبي إيست
+thk-randystabler	psychology	الناس ← راندي ستابلر
+thk-rosemaryalara	psychology	الناس ← روزماري أَلارا
+thk-marisaberkouwer	psychology	الناس ← ماريسا بيركوور
+thk-wolfgang-pauli	philosophy	الناس ← على تخوم علم النفس ← فولفغانغ باولي
+thk-werner	philosophy	الناس ← هيلموت فيرنر
+thk-sdouglas	philosophy	الناس ← سو دوغلاس
+thk-brosen	philosophy	الناس ← برنارد روزن
+thk-petersmith	philosophy	الناس ← بيتر سميث
+thk-bmoore	philosophy	الناس ← بوب مور
+thk-rkerbauy	psychology	الناس ← راثيل كربّوي
+thk-jerome-frank	psychology	الناس ← العوامل المشتركة في العلاج ← جيروم فرانك
+thk-melissaschaefer	psychology	الناس ← ميليسا شيفر
+thk-minopaulin	psychology	الناس ← مينو بولين
+thk-rbauer	philosophy	الناس ← روبرت باور
+thk-rick-levy	psychology	الناس ← ريك أ. ليفي
+thk-ormijares	philosophy	الناس ← أوسكار رودريغيث ميجاريس
+thk-jgebser	psychology	الناس ← جين غيبسر
+thk-jjoyce	philosophy	الناس ← [مدخل غير محقَّق]
+thk-nbustos	philosophy	الناس ← نوربيرتو بوستوس
+thk-dolweus	philosophy	الناس ← دان أولِس
+thk-jgantt	philosophy	الناس ← جوزيف غانت
+thk-robert-cornelis	psychology	الناس ← روبرت كورنليس
+thk-pcarducci	philosophy	الناس ← باولا كاردوتشي
+thk-yongjingqi	psychology	الناس ← يونغ جينغ تشي
+thk-rmosak	psychology	الناس ← روبرت موشارك
+thk-ppower	philosophy	الناس ← باميلا ج. باور
+crt-critique-of-solution-focused	psychology	نقد ← الْعِلَاج الْمُرْكَز عَلَى الْحَلّ
+crt-critique-of-act-dbt	psychology	نقد ← ACT وَ DBT
+crt-critique-of-emotionally-focused	psychology	نقد ← الْعِلَاج بِالْمَشَاعِر (EFT)
+crt-critique-of-psychodynamic-therapy	psychology	نقد ← الْعِلَاج النَّفْسَحَرَكِيّ
+crt-critique-of-trauma-therapy	psychology	نقد ← صِنَاعَة الصَّدْمَة
+crt-critique-of-trauma-informed-care	psychology	نقد ← الرِّعَايَة الواعية بالصدمة
+crt-critique-of-family-systems	psychology	نقد ← الْعِلَاج الْأُسَريّ النِّظَامِيّ
+crt-critique-of-grit-research	psychology	نقد ← Grit
+crt-critique-of-emdr	psychology	نقد ← EMDR
+crt-critique-of-existential-therapy	psychology	نقد ← الْعِلَاج الْوُجُودِيّ
+crt-critique-of-couples-therapy-effectiveness	psychology	نقد ← فَعَّالِيَّة العلاج الزوجي
+crt-critique-of-gratitude-research	psychology	نقد ← بَحْث الامتنان
+crt-critique-of-resilience-training	psychology	نقد ← تَدْرِيب المرونة
+crt-critique-of-self-help-genre	psychology	نقد ← أدب المساعدة الذاتية
+crt-critique-of-couples-therapy	psychology	نقد ← الْعِلَاج الزَّوْجِيّ
+crt-critique-of-mindfulness	psychology	نقد ← الْيَقَظَة الذِّهْنِيَّة
+crt-critique-of-gestalt-therapy	psychology	نقد ← الْعِلَاج بِالْجِشْطَلْت
+crt-critique-of-evolutionary-psychology	psychology	نقد ← عِلْم النَّفْس التَّطَوُّرِيّ
+crt-critique-of-narrative-therapy	psychology	نقد ← الْعِلَاج بِالْحِكَايَة
+crt-critique-of-burnout-industry	psychology	نقد ← صِنَاعَة الاحتِرَاق
+crt-critique-of-cbt	psychology	نقد ← CBT
+crt-critique-of-somatic-experiencing	psychology	نقد ← Somatic Experiencing
+crt-critique-of-positive-psychology	psychology	نقد ← عِلْم النَّفْس الْإِيجَابِيّ
+crt-critique-of-humanistic-therapy	psychology	نقد ← الْعِلَاج الْإِنْسَانِيّ
+crt-critique-of-ifs-internal-family-systems	psychology	نقد ← IFS

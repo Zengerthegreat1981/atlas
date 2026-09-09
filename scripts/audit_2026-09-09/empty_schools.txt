@@ -1,0 +1,118 @@
+br-ml-personalized-therapy	psychology	2	العلاج المخصّص بالتعلّم الآلي
+br-yogacara-classical	philosophy	0	يوغاكارا الوعي الخالص — مدرسة يوغاكارا
+br-scholasticism-second-salamanca	philosophy	0	السكولاستية الثانية ومدرسة سلامنكا — الس
+br-spinozism-monism	philosophy	0	السبينوزية الأحادية والحلولية الطبيعية —
+br-maturidism-samarqand	philosophy	0	الماتريدية السمرقندية الكلاسيكية — المدر
+br-irfan-shuhudi-sirhindi	philosophy	0	العرفان الشهودي الإصلاحي — التصوف الفلسف
+br-christian-patristics-latin	philosophy	0	الآبائية المسيحية الغربية واللاتينية — ا
+br-mutazila-basra	philosophy	2	مدرسة البصرة الكلامية — المعتزلة
+br-neoplatonism-athenian	philosophy	0	الأفلاطونية المحدثة الأثينية — الأفلاطون
+br-scholasticism-nominalist-via-moderna	philosophy	0	السكولاستية الاسمية والطريق الحديث (Via 
+br-german-idealism-hegelian	philosophy	2	المثالية الهيغلية المطلقة — المثالية الأ
+br-jewish-philosophy-rationalist-averroist	philosophy	0	الفلسفة اليهودية العقلانية والرشدية الوس
+br-british-empiricism-classical	philosophy	2	التجريبية البريطانية الكلاسيكية — التجري
+br-hikmat-mutaaliya-qom-contemporary	philosophy	0	الحكمة المتعالية المعاصرة بمدرسة قم — ال
+br-daoism-classical-lao-zhuang	philosophy	0	الداووية الفلسفية الكلاسيكية (لاو-تشوانغ
+br-pyrrhonism-systemic-empiric	philosophy	0	الشك البيروني النسقي الإمبيريقي — الشك ا
+br-jainism-digambara-philosophy	philosophy	0	الفلسفة الجاينية الديغامبارية — الجاينية
+br-yoga-classical-raja	philosophy	0	الراجا يوغا الفلسفية — مدرسة اليوغا
+br-logical-atomism-early-analytic	philosophy	0	الذرية المنطقية وفلسفة التحليل المبكرة
+br-ifs-clinical-applications	psychology	2	IFS في التطبيقات السريرية: علاج اضطرابات
+br-curanderismo	philosophy	1	الشفاء الشعبي (Curanderismo)
+br-stoicism-middle	philosophy	0	الرواقية الوسطى — المدرسة الرواقية
+br-madhyamaka-svatantrika	philosophy	0	مادهياماكا سفاتانتريكا — مدرسة مادهياماك
+br-stoicism-early	philosophy	0	الرواقية القديمة — المدرسة الرواقية
+br-neoplatonism-alexandrian	philosophy	0	الأفلاطونية المحدثة الإسكندرانية — الأفل
+br-logical-positivism-vienna-circle	philosophy	1	الوضعية المنطقية وحلقة فيينا — الفلسفة ا
+br-ultra-brief-psychotherapy	psychology	1	العلاج فائق القصر
+br-leibnizian-wolffian-enlightenment	philosophy	0	الفلسفة اللايبنتزية-الفولفية — التنوير ا
+br-neo-kantianism-marburg	philosophy	0	الكانطية الجديدة: مدرسة ماربورغ المنطقية
+br-occasionalism-classical	philosophy	0	الأوكازيونية الكلاسيكية والمناسبة — الأو
+br-vishishtadvaita-classical	philosophy	0	الفيشيشتادفايتا — فيدانتا اللا-اثنانية ا
+br-classical-pragmatism	philosophy	0	البراغماتية الكلاسيكية — المدرسة البراغم
+br-huayan-interpenetration	philosophy	0	الهوايان وشبكة إندرا — البوذية الصينية
+br-jainism-shvetambara-philosophy	philosophy	0	الفلسفة الجاينية الشفيتامبارية — الجايني
+br-psychocoaching	psychology	1	التدريب النفسي / Psy-coaching
+br-platonism-middle-academy	philosophy	0	الأكاديمية الوسطى الشكية — الأكاديمية ال
+br-korean-silhak-practical	philosophy	0	السيلهاك والتعلم العملي الكوري — الفلسفة
+br-asharism-early	philosophy	0	الأشعرية المبكرة — المدرسة الأشعرية
+br-aristotelianism-late-hellenistic	philosophy	0	المشائية الهلينستية وشراح أرسطو — المدرس
+br-falsafa-mashshaiyya-eastern	philosophy	0	المشائية الإسلامية المشرقية — الفلسفة ال
+br-charvaka-lokayata-materialism	philosophy	0	المادية اللوكاياتية — مدرسة شارفاكا
+br-tibetan-gelug	philosophy	0	الغيلوغ التبتية (أصحاب القبعات الصفر) — 
+br-ibadi-kalam-rustamid-oman	philosophy	0	علم الكلام الإباضي — الكلام الإباضي
+br-tiantai-lotus-philosophy	philosophy	0	التيانتاي وفلسفة سوترا اللوتس — البوذية 
+br-christian-patristics-greek	philosophy	0	الآبائية المسيحية الشرقية واليونانية — ا
+br-ishraq-commentators	philosophy	0	شراح ومجددو الإشراق — المدرسة الإشراقية
+br-navya-nyaya-new-logic	philosophy	0	النافيا-نيايا (المنطق الهندي الجديد) — م
+br-platonism-old-academy	philosophy	0	الأكاديمية القديمة — الأكاديمية الأفلاطو
+br-neoplatonism-syrian	philosophy	0	الأفلاطونية المحدثة السورية — الأفلاطوني
+br-epicureanism-roman	philosophy	0	الأبيقورية الرومانية والإيطالية — المدرس
+br-nyaya-classical-prachina	philosophy	0	النيايا القديمة — مدرسة النيايا الهندية
+br-tibetan-nyingma-dzogchen	philosophy	0	النينغما التبتية ودزوغتشن — البوذية التب
+br-zen-rinzai	philosophy	0	الرينزاي زن — البوذية اليابانية
+br-young-hegelians-left	philosophy	0	هيغليو اليسار والنقد الراديكالي — الهيغل
+br-hikmat-mutaaliya-isfahan	philosophy	0	الحكمة المتعالية لمدرسة أصفهان — الحكمة 
+br-predictive-processing-informed	psychology	2	العلاج المستنير بالمعالجة التوقعية
+br-platonism-new-academy	philosophy	0	الأكاديمية الجديدة الاحتمالية — الأكاديم
+br-mohism-logical-late	philosophy	0	الموهية المتأخرة والمنطق — المدرسة الموه
+br-zaidi-kalam-hadawi	philosophy	0	الكلام الزيدي الهادوي — الكلام الزيدي
+br-purva-mimamsa-bhatta	philosophy	0	الميمامسا البهاتية — مدرسة الميمامسا
+br-scholasticism-franciscan-scotist	philosophy	0	السكولاستية الفرنسيسكانية السكوتية — الس
+br-dvaita-vedanta-classical	philosophy	0	الدفايتا فيدانتا — الفيدانتا الثنائية ال
+br-american-transcendentalism	philosophy	0	التجاوزية الأمريكية وفلسفة الطبيعة — الت
+br-madhyamaka-prasangika	philosophy	0	مادهياماكا برَسانغيكا — مدرسة مادهياماكا
+br-control-mastery	psychology	2	نظرية السيطرة والإتقان
+br-transpersonal-psychology	psychology	1	علم النفس عبر الشخصي (القوة الرابعة) — إ
+br-daoism-xuanxue-neo-daoism	philosophy	0	الداووية الجديدة: التعلم الغامض (شوان شي
+br-imami-theology-hilla-philosophical	philosophy	0	الكلام الإمامي الفلسفي لمدرسة الحلة ومرا
+br-scholasticism-high-thomist	philosophy	0	السكولاستية التوماوية العليا — السكولاست
+br-fft	psychology	1	العلاج الأسري الوظيفي (FFT)
+br-haskalah-jewish-enlightenment	philosophy	0	الهسكلاه (التنوير الفلسفي اليهودي) — الت
+br-zen-soto-classical	philosophy	1	زن سوتو الكلاسيكي — البوذية اليابانية
+br-neo-kantianism-baden	philosophy	0	الكانطية الجديدة: مدرسة بادن القيمية وال
+br-ordinary-language-philosophy-oxford	philosophy	0	فلسفة اللغة العادية وأكسفورد — الفلسفة ا
+br-neoplatonism-roman	philosophy	2	الأفلاطونية المحدثة الرومانية — الأفلاطو
+br-epicureanism-garden	philosophy	0	أبيقورية الحديقة الكلاسيكية — المدرسة ال
+br-irfan-nazari-akbari	philosophy	0	العرفان النظري الأكبري — التصوف الفلسفي
+br-german-idealism-fichtean	philosophy	0	المثالية الذاتية الفيختية — المثالية الأ
+br-cb-sex-therapy	psychology	1	العلاج الجنسي المعرفي السلوكي
+br-scottish-enlightenment-common-sense	philosophy	0	تنوير اسكتلندا وفلسفة الحس المشترك — الح
+br-classical-utilitarianism-bentham-mill	philosophy	0	النفعية الكلاسيكية التشريعية والليبرالية
+br-legalism-fajia-qin	philosophy	0	الشرعية والقانونية الصينية (فاجيا) — مدر
+br-neoconfucianism-xinxue-lu-wang	philosophy	0	الكونفوشية الجديدة: مدرسة العقل والقلب (
+br-confucianism-early-pre-qin	philosophy	0	الكونفوشية الكلاسيكية ما قبل تشين — الكو
+br-samkhya-classical	philosophy	0	السامخيا الكلاسيكية الثنائية — مدرسة الس
+br-pyrrhonism-early	philosophy	0	الشك البيروني المبكر — الشك البيروني
+br-classical-marxism	philosophy	0	الماركسية الكلاسيكية والمادية التاريخية 
+br-asharism-late-philosophical	philosophy	1	الأشعرية المتأخرة الفلسفية — الأشعرية
+br-advaita-vedanta-classical	philosophy	2	الأدفايتا فيدانتا الكلاسيكية — الفيدانتا
+br-imami-theology-qom-baghdad	philosophy	0	الكلام الإمامي لمدرستي قم وبغداد — الكلا
+br-mutazila-baghdad	philosophy	0	مدرسة بغداد الكلامية — المعتزلة
+br-kyoto-school-first-generation	philosophy	0	مدرسة كيوتو: الجيل التأسيسي — مدرسة كيوت
+br-ishraq-classical	philosophy	0	الإشراقية الكلاسيكية — المدرسة الإشراقية
+br-german-idealism-schellingian	philosophy	0	المثالية الموضوعية وفلسفة الطبيعة الشيلن
+br-kabbalah-lurianic-theosophy	philosophy	0	القبالة اللوريانية الفلسفية — القبالة
+br-teletherapy	philosophy	2	العلاج عن بُعد / العلاج عبر الإنترنت
+br-french-enlightenment-encyclopedists	philosophy	0	التنوير الفرنسي والموسوعيون — التنوير
+br-serious-games-therapy	psychology	2	العلاج بالألعاب الإلكترونية / الألعاب ال
+br-neoconfucianism-lixue-cheng-zhu	philosophy	0	الكونفوشية الجديدة: مدرسة المبدأ (لي شوي
+br-aristotelianism-early-peripatetic	philosophy	0	المشائية المبكرة — المدرسة المشائية
+br-buddhist-logic-pramana	philosophy	0	المنطق ونظرية المعرفة البوذية (البرامانا
+br-falsafa-mashshaiyya-western-andalusian	philosophy	2	المشائية الأندلسية والمغربية — الفلسفة ا
+br-vaisheshika-classical	philosophy	0	الفايشيشيكا الذرية الكلاسيكية — مدرسة ال
+br-pure-land-jodo-shinshu	philosophy	0	الأرض الطاهرة وجودو شينشو — البوذية اليا
+br-cartesianism-orthodox	philosophy	0	الديكارتية الأرثوذكسية والعقلانية — الدي
+sch-nahua-aztec	philosophy	2	فلسفة الناهوا/الأزتك (مفهوم تيوتل)
+sch-donghak	philosophy	2	دونغهاك / تشوندوغيو
+sch-ikhwan-safa	philosophy	2	إخوان الصفا
+sch-dogon	philosophy	2	فلسفة الدوجون (مالي)
+sch-shingaku	philosophy	2	شينغاكو (تعلم القلب الياباني)
+sch-maya-philosophy	philosophy	2	الفلسفة الماياوية
+sch-post-kyoto	philosophy	1	ما بعد مدرسة كيوتو
+sch-pancasila	philosophy	2	بانتشاسيلا (الفلسفة السياسية الإندونيسية
+sch-vietnamese-triple	philosophy	2	الترادف الثلاثي الفيتنامي (Tam Giáo Đồng
+sch-adat	philosophy	1	أدات (العرف الفلسفي في إندونيسيا وماليزي
+sch-rangaku	philosophy	2	رانغاكو (التعلم الهولندي)
+sch-cbt	psychology	1	العلاج المعرفي السلوكي (CBT) — إحالة، ان
+sch-conservatism-philosophical	philosophy	1	المحافظية الفلسفية

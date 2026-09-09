@@ -1,0 +1,14 @@
+rel-humanistic-existential	الإنسانية والوجودية: من Rogers وMaslow إلى Yalom
+rel-behavioral-activation-depression	التنشيط السلوكي والاكتئاب: من Lewinsohn إلى Jacobson
+rel-dbt-bpd	العلاج الجدلي السلوكي واضطراب الشخصية الحدية: ولادة DBT من عيادة Linehan
+rel-act-cbt-third-wave	العلاج بالقبول والالتزام والموجة الثالثة من CBT: من الجدل إلى التشارك
+sch-sanlun	Sanlun (三論، Three Treatise School)
+sch-jodo-shinshu	Jōdo Shinshū (浄土真宗، True Pure Land School)
+sch-chan	Chan (禪، Chinese Zen)
+sch-shingon	Shingon (真言، Japanese Esoteric Buddhism)
+sch-huayan	Huayan (華嚴، Avataṃsaka)
+sch-pure-land	Pure Land (淨土، Jìngtǔ / Jōdo)
+sch-faxiang	Faxiang (法相، Chinese Yogācāra / Consciousness-Only)
+sch-seon	Seon (선، Korean Zen)
+sch-truc-lam	Trúc Lâm (竹林، Vietnamese Buddhism)
+sch-nichiren	Nichiren (日蓮، Nichiren Buddhism)

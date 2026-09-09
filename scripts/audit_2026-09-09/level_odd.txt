@@ -1,0 +1,20 @@
+rel-humanistic	
+rel-phenopath	
+rel-psychoanalysis	
+rel-act	
+thk-yihuazhu	أساسي
+thk-stephen-talley	أساسي
+thk-wmuller	أساسي
+dbt-evidence	
+dbt-school-or-attitude	
+dbt-spiritual	
+dbt-unconscious	
+dbt-structures	
+dbt-individualism	
+dbt-laing	
+dbt-langle-frankl	
+wrk-being-nothingness	
+br-logotherapy	
+br-daseins	
+br-british	
+br-humanistic	

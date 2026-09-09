@@ -1,0 +1,5 @@
+classification-icd-11	اضطراب/حالة إكلينيكية
+classification-dsm-5-tr	اضطراب/حالة إكلينيكية
+wrk-two-dogmas	عمل / مقالة
+con-dream-interpretation-technique	تقنية
+qst-mind-body-interaction-problem	سؤال توليدي

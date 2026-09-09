@@ -1,0 +1,35 @@
+ctx-ancient-athens-agora	relates_to	السقراطية
+stu-wundt-leipzig-1879	relates_to	البنيوية (فونت وتيتشنر)
+thk-cwhitaker	developed	العلاج الأسري الخبراتي
+thk-djackson	belongs_to	العلاج الأسري الاستراتيجي
+trm-schemata	relates_to	علم النفس المعرفي
+trm-mindfulness	relates_to	اليقظة الذهنية الإكلينيكية
+met-mind-as-computer	relates_to	علم النفس المعرفي
+met-mind-as-theater-gazzaniga	relates_to	علم الأعصاب المعرفي
+met-self-as-actor-mask	relates_to	التفاعلية الرمزية
+dbt-cognitive-deficit-vs-distortion	relates_to	علم النفس المعرفي
+dbt-medication-children	relates_to	طب نفس الطفل
+dbt-group-vs-individual-therapy	relates_to	العلاج الجماعي
+exp-deja-vu	relates_to	علم النفس المعرفي
+exp-flashback-ptsd	relates_to	علم نفس الصدمة
+exp-jamais-vu	relates_to	علم النفس المعرفي
+exp-near-death-experience	relates_to	علم الموت (Thanatology)
+exp-conversion-experience	relates_to	علم نفس الدين
+wrk-goffman-presentation-self	authored_by	إرفينغ غوفمان
+wrk-frames-of-mind	authored_by	هوارد غاردنر
+wrk-nature-intelligence	authored_by	تشارلز سبيرمان
+crt-critique-of-trauma-therapy	relates_to	علم نفس الصدمة
+crt-critique-of-trauma-informed-care	relates_to	علم نفس الصدمة
+crt-critique-of-emdr	relates_to	علم نفس الصدمة
+crt-critique-of-mindfulness	relates_to	اليقظة الذهنية الإكلينيكية
+sch-indigenous-psychology	evolved_from	علم النفس عبر الثقافي
+sch-developmental	split_into	النمو المعرفي
+sch-developmental	split_into	النمو النفسي-الاجتماعي
+sch-developmental	split_into	النمو الأخلاقي
+sch-developmental	split_into	النمو اللغوي
+sch-developmental	split_into	نمو المراهقة
+sch-biological-neuro	split_into	طب الأعصاب السلوكي
+sch-biological-neuro	split_into	علم الأعصاب المعرفي
+sch-biological-neuro	split_into	علم النفس العصبي الإكلينيكي
+sch-biological-neuro	split_into	علم الأدوية النفسية
+que-what-is-love	relates_to	علم نفس الحب

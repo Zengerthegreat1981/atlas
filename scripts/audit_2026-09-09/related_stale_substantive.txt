@@ -1,0 +1,371 @@
+rel-psychodynamic-attachment	thk-ainsworth	ماري أينسورث	ماري إينسورث
+rel-psychodynamic-attachment	thk-afreud	أنّا فرويد	أنا فرويد
+rel-psychodynamic-attachment	thk-fonagy	بيتر فوناجي	بيتر فوناغي
+rel-psychodynamic-attachment	rel-mbt-mentalization	العلاج القائم على الانعكاس الذهني (	الانعكاس الذهني وعلاجه (MBT): حين ي
+rel-confucian-self-cultivation-family-systems	rel-neuropsychoanalysis	علم النفس العصبي والتحليل النفسي: م	التحليل النفسي وعلم الأعصاب: مشروع 
+rel-confucian-self-cultivation-family-systems	rel-transpersonal-jungian	عبر الشخصية والتحليلية اليونغية: من	عبر الشخصية والتحليلية اليونغية: أب
+rel-integrative-humanistic-common-factors	rel-neuropsychoanalysis	علم النفس العصبي والتحليل النفسي: م	التحليل النفسي وعلم الأعصاب: مشروع 
+rel-psychedelic-transpersonal	rel-ipmb-evidence-based	العلاج النفسي المبني على الأدلة وال	الممارسة المبنية على الأدلة وجدل ال
+rel-phenomenology-existential-therapy	rel-psychodynamic-attachment	النظرية الديناميكية ونظرية التعلق: 	التحليل النفسي ونظرية التعلّق: من ط
+rel-humanistic-existential	rel-psychodynamic-attachment	النظرية الديناميكية ونظرية التعلق: 	التحليل النفسي ونظرية التعلّق: من ط
+rel-phenopath	rel-cft-compassion	العلاج المركّز على التعاطف (CFT) وG	العلاج المتمحور حول التعاطف وعلم ال
+rel-phenopath	rel-experimental-phenomenology	الظاهراتية التجريبية: من Husserl إل	الظاهراتية الفلسفية والمنهج النوعي:
+rel-marxist-alienation-occupational-burnout	rel-experimental-phenomenology	الظاهراتية التجريبية: من Husserl إل	الظاهراتية الفلسفية والمنهج النوعي:
+rel-neuropsychoanalysis	thk-panksepp	ياك بانكسِب	ياكوب بانكسيب
+rel-neuropsychoanalysis	thk-ekandel	إريك كاندل	إريك كاندِل
+rel-neuropsychoanalysis	crt-popper-falsifiability-psychoanalysis	نقد بوبر: التحليل النفسي وقابلية ال	نقد كارل بوبر لمعيار القابلية للتكذ
+rel-heraclitus-dialectical-behavior-therapy	rel-narrative-constructionist	العلاج السردي والبنائية: من White إ	العلاج السردي والبنائية الاجتماعية:
+rel-transpersonal-jungian	thk-kwilber	كِن ويلبر	كين ويلبر
+rel-transpersonal-jungian	thk-edinger	إدوارد إدِنجر	إدوارد إف. إيدينغر
+rel-mbct-cbt	thk-segal	زِندل سيغال	حنا سيغال
+rel-mbct-cbt	thk-jkabat-zinn	جون كابات-زِن	جون كابات-زين
+rel-mbct-cbt	thk-beck	أرون بيك	آرون تيموثي بيك
+rel-mbct-cbt	tec-mbsr	خفض التوتر القائم على اليقظة (MBSR)	برنامج خفض الضغوط القائم على اليقظة
+rel-mbct-cbt	tec-mbct-three-minute-breathing	فضاء التنفّس الثلاثي الدقائق	مساحة التنفس الثلاث دقائق (Three Mi
+rel-mbct-cbt	crt-critique-of-mindfulness	نقد تجريد اليقظة من البوذية: «McMin	نقد تَجْرِيد الْيَقَظَة مِن الْبُوذ
+rel-deleuze-schizoanalysis-institutional-psychotherapy	rel-ipmb-evidence-based	العلاج النفسي المبني على الأدلة وال	الممارسة المبنية على الأدلة وجدل ال
+rel-emdr-trauma	rel-trauma-ptsd-therapy	علاج الصدمة واضطراب ما بعد الصدمة: 	اضطراب الكرب التالي للصدمة وعلاجاته
+rel-family-systems-bowen	br-bowen-systems	أنساق بوين	العلاج الأسري بالأنساق (Bowen Famil
+rel-family-systems-bowen	thk-jhaley	جاي هيلي	جاي هالي
+rel-cft-compassion	thk-pgilbert	بول غيلبرت	بول جيلبرت
+rel-cft-compassion	thk-kristin-neff	كريستِن نِف	كريستين نيف
+rel-cft-compassion	con-cft-compassion-systems	نُظُم التعاطف الثلاثة في CFT	الأنظمة الثلاثة لتنظيم الانفعال (CF
+rel-cft-compassion	con-cft-soothing-system	نظام التطمين في CFT	نظام التهدئة والدوائر الانفعالية ال
+rel-cft-compassion	con-buddhist-compassion-karuna	كارونا: التعاطف البوذي	الكَرُونَا / الرَّحْمَة البُوذِيَّة
+rel-cft-compassion	con-bodhicitta-compassion	بوديتشيتّا	البودهيتشيتا ونية الاستنارة الشاملة
+rel-cft-compassion	tec-compassionate-mind-training	تدريب العقل المتعاطف (CMT)	تقنية تدريب العقل العطوف وتخيل الذا
+rel-hypnosis-psychoanalysis	rel-trauma-ptsd-therapy	علاج الصدمة واضطراب ما بعد الصدمة: 	اضطراب الكرب التالي للصدمة وعلاجاته
+rel-experimental-phenomenology	stu-descriptive-phenomenological-method-giorgi	المنهج الظاهراتي الوصفي (جورجي)	المنهج الفينومينولوجي الوصفي (جيورج
+rel-experimental-phenomenology	thk-giorgi	أماديو جورجي	أميديو جيورجي
+rel-experimental-phenomenology	thk-merleau-ponty	موريس ميرلوبونتي	موريس مرلو-بونتي
+rel-experimental-phenomenology	con-lifeworld	العالم المعيش (Lebenswelt)	عالم الحياة (Lebenswelt): العالم ال
+rel-experimental-phenomenology	dbt-qualitative-vs-quantitative-psychology	جدل المنهج النوعي مقابل الكمّي في ع	البحث الكيفي الظاهراتي مقابل القياس
+rel-behaviorism-cognitive	rel-cultural-feminist	علم النفس النسوي والثقافي: من Gilli	العلاج النسوي والنظرية العلائقية-ال
+rel-ipmb-evidence-based	dbt-common-factors-vs-specific-ingredients	جدل العوامل المشتركة مقابل المكوّنا	عوامل العلاج المشتركة (طائر الدودو)
+rel-ipmb-evidence-based	dbt-empirically-validated-vs-evidence-based	جدل «مُثبَت تجريبياً» مقابل «مبني ع	جدل العلاج بالأدلة التجريبية ضد الم
+rel-ipmb-evidence-based	dbt-evidence-based-vs-practice-based-evidence	جدل الأدلة المبنية على الممارسة مقا	جِدَل الْمَمَارَسَة الْقَائِمَة عَل
+rel-merleau-ponty-body-schema-body-dysmorphia	rel-cft-compassion	العلاج المركّز على التعاطف (CFT) وG	العلاج المتمحور حول التعاطف وعلم ال
+rel-daoist-wuwei-gestalt-therapy	rel-mbt-mentalization	العلاج القائم على التنميط العقلي (M	الانعكاس الذهني وعلاجه (MBT): حين ي
+rel-mbt-mentalization	thk-fonagy	بيتر فوناجي	بيتر فوناغي
+rel-mbt-mentalization	wrk-affect-regulation-mentalization	تنظيم الوجدان والانعكاس الذهني ونمو	تنظيم الوجدان والذهنية وتطور الذات
+rel-mbt-mentalization	wrk-mbt-manual	دليل العلاج بالانعكاس الذهني	دليل العلاج المعرفي القائم على اليق
+rel-behavioral-activation-depression	rel-psychodynamic-attachment	النظرية الديناميكية ونظرية التعلق: 	التحليل النفسي ونظرية التعلّق: من ط
+rel-cbt-mindfulness	rel-mbct-cbt	العلاج المعرفي القائم على اليقظة (M	MBCT والعلاج المعرفي: علاجٌ صُنع لم
+rel-dbt-bpd	rel-psychodynamic-attachment	النظرية الديناميكية ونظرية التعلق: 	التحليل النفسي ونظرية التعلّق: من ط
+rel-advaita-vedanta-transpersonal	rel-family-systems-bowen	العلاج الأسري ونظرية Bowen: منظومات	العلاج الأسري ونظرية بوين: مدرسةٌ ت
+rel-act-cbt-third-wave	rel-psychodynamic-attachment	النظرية الديناميكية ونظرية التعلق: 	التحليل النفسي ونظرية التعلّق: من ط
+rel-damasio-spinoza-somatic-markers-neuroscience	rel-mbct-cbt	العلاج المعرفي القائم على اليقظة (M	MBCT والعلاج المعرفي: علاجٌ صُنع لم
+rel-systemic-behavioral	rel-trauma-ptsd-therapy	علاج الصدمة واضطراب ما بعد الصدمة: 	اضطراب الكرب التالي للصدمة وعلاجاته
+rel-trauma-ptsd-therapy	thk-besselvanderkolk	بِسِل فان دير كولك	بِسِل فَن دِر كولك
+rel-trauma-ptsd-therapy	thk-foa	إدنا فوا	إدنا ب. فوا
+rel-trauma-ptsd-therapy	tec-emdr-eight-phase-protocol	بروتوكول EMDR الثماني المراحل	بروتوكول المراحل الثمانية والتحفيز 
+rel-trauma-ptsd-therapy	crt-critique-of-emdr	نقد EMDR	نقد الْآلِيَّة الْعِلْمِيَّة لِـ EM
+rel-trauma-ptsd-therapy	evt-emdr-founding-1987	نشأة EMDR 1987	اكتشاف Francine Shapiro لـ EMDR (19
+rel-post-structuralism-antipsychiatry	rel-transpersonal-jungian	عبر الشخصية والتحليلية اليونغية: من	عبر الشخصية والتحليلية اليونغية: أب
+rel-act	rel-family-systems-bowen	العلاج الأسري ونظرية Bowen: منظومات	العلاج الأسري ونظرية بوين: مدرسةٌ ت
+rel-aristotle-positive-psychology	sch-aristotelianism	المشائية الأرسطية	المشائية / الأرسطية (Aristotelianis
+rel-cultural-feminist	thk-crenshaw	كيمبرلي كرِنشو	كيمبرلي كرنشو
+rel-cultural-feminist	br-intersectional-feminist	النسوية التقاطعية	علم النفس النسوي التقاطعي
+rel-cultural-feminist	rel-gilligan-care-ethics-relational-therapy	أخلاقيات الرعاية لغيليغان والعلاج ا	أخلاقيات الرعاية لغيليغان والعلاج ا
+rel-narrative-constructionist	thk-kgergen	كِنِث غيرغِن	كينيث جيرغن
+rel-narrative-constructionist	tec-narrative-definitional-ceremony	حفل التعريف السردي	مراسم التعريف واستدعاء الشهود الخار
+rel-narrative-constructionist	rel-foucault-narrative-therapy-externalization	جنيالوجيا فوكو وتقنية «خارجنة المشك	جنيالوجيا فوكو وتقنية 'خارجنة المشك
+rel-advaita-vedanta-transpersonal-psychology	rel-mbct-cbt	العلاج المعرفي القائم على اليقظة (M	MBCT والعلاج المعرفي: علاجٌ صُنع لم
+syn-sinking-heart	con-grief	الحزن كمسار للتفريد	الحزن كمسار للتفرّد
+syn-ghost-sickness	con-grief	الحزن كمسار للتفريد	الحزن كمسار للتفرّد
+syn-tsunami-ghosts	con-grief	الحزن كمسار للتفريد	الحزن كمسار للتفرّد
+syn-cassandra	con-epistemic-injustice-fricker-concept	الظلم الإبستمولوجي والشهادي والتأوي	الظلم الإبستمولوجي: الشهادي والتأوي
+syn-ataque-de-nervios	con-grief	الحزن كمسار للتفريد	الحزن كمسار للتفرّد
+thk-sgilligan	thk-pwatzlawick	بول فاتزلاويك	بول واتزلاويك
+thk-sgilligan	thk-gbateson	غريغوري بيتسون	غريغوري باتسون
+thk-michael-yellow-bird	br-decolonizing-therapy	إنهاء استعمار العلاج النفسي	نزع استعمار العلاج النفسي (دوران وي
+thk-michael-yellow-bird	con-decolonizing-therapy	إنهاء استعمار العلاج	العلاج اللااستعماري (Decolonizing T
+thk-wampold	dbt-therapist-effects-treatment-effects	جِدَل تَأْثِيرَات الْمُعَالِج ضِد ت	جدل تأثيرات المعالج ضد تأثيرات العل
+thk-francis-galton	dbt-nature-vs-nurture-intelligence-personality	الطبيعة أم التنشئة في الذكاء والشخص	جدل الطبيعة والتنشئة في الذكاء والش
+thk-francis-galton	dbt-cultural-bias-iq-testing	التحيُّز الثقافي في اختبارات الذكاء	جدل التحيز الثقافي في اختبارات الذك
+thk-francis-galton	evt-immigration-act-iq-testing-1924	قانون الهجرة الأمريكي واختبارات الذ	استخدام اختبارات الذكاء في إقرار قا
+thk-francis-galton	evt-cyril-burt-twin-data-controversy-1976	جدل بيانات التوائم عند سيريل بيرت 1	جدل وتدقيق بيانات توائم سيريل بيرت 
+thk-francis-galton	stu-minnesota-twins-reared-apart	دراسة مينيسوتا للتوائم المُربّاة مت	دراسة مينيسوتا للتوائم المتماثلة ال
+thk-francis-galton	con-word-association	التداعي اللفظي	تجربة تداعي الكلمات (الارتباط اللفظ
+thk-thales	thk-anaxagoras	أناكساغوراس	أنكساغوراس الكلازوميني
+thk-thales	con-arche-principle	الأرخيه (الأصل الأول)	الأرخيه — المبدأ والأصل الأول (Arch
+thk-antonio-gramsci	con-cultural-capital-bourdieu	رأس المال الثقافي (بوردِي)	رأس المال الثقافي والرمزي (Cultural
+thk-puysgur	thk-afaria	أبّي فاريا (جوزيه كوستوديو دي فاريا	أبِي فاريا
+thk-golwalkar	sch-vedanta	الفلسفة الفيدانتا	فيدانتا (كمظلة)
+thk-diogenes-sinope	sch-cynicism	المدرسة الكلبية	الكلبية (Cynicism)
+thk-astevens	con-archetype	الأركيتيب	النموذج الأصلي (Archetype)
+thk-bolen	con-archetype	الأركيتيب (النموذج الأصلي)	النموذج الأصلي (Archetype)
+thk-katie-laperriere	con-eft-couples-emotion-focused	النهج المتمحور حول المشاعر	النَّهْج الْمُتَمَحْوَر حَوْل الْمَ
+thk-rputnam	trm-habitus-bourdieu	الهابيتوس عند بورديو	الهَابِيتُوس (Habitus) عند بورديو: 
+thk-jerome-bruner	thk-gbateson	غريغوري بيتسون	غريغوري باتسون
+thk-tim-ferriss	crt-critique-of-self-help-genre	نقد أدب المساعدة الذاتية	نقد أدَبّ «سَاعِد نَفْسَك»: التَّحْ
+thk-ppenn	con-grief	الحزن كمسار للتفريد	الحزن كمسار للتفرّد
+thk-edith-stein	con-epoché-phenomenological-reduction	الإيبوخي (Epoché): التعليق المنهجي 	الإيبوخي (Epoché) — إحالة، انظر con
+thk-stephen-jay-gould	que-panadaptationism-vs-drift	هل كل سمات التكيف وراثي نفعي؟	هل كل سلوك وعاطفة بشرية تكيف وراثي 
+thk-stephen-jay-gould	dbt-evolutionary-psychology-adaptation-vs-spandrel	التكيف في علم النفس التطوري	علم النفس التطوري بين التكيف الحتمي
+thk-gary-yontef	br-relational-gestalt	الجشطلت العلائقي	الجشطالت العلائقي المعاصر
+thk-gary-yontef	br-gestalt-therapy	العلاج الجشطلتي	علاج الجشطالت
+thk-gary-yontef	sch-gestalt-therapy	مدرسة العلاج الجشطلتي	علاج الجشطالت (Gestalt Therapy)
+thk-gary-yontef	thk-mbuber	مارتن بوبر	مارتن بُبَر
+thk-samuel-kimbles	con-cultural-complex	العقدة الثقافية	المركّب الثقافي والظلال الجمعية
+thk-epictetus	sch-stoicism	المدرسة الرواقية	الرواقية (Stoicism)
+thk-gweber	thk-jjoyce	مارغريت بِي	[مدخل غير محقَّق]
+thk-lisbeth-marcher	br-bodynamic-analysis	التحليل البوديناميكي	التحليل البودينامي وتطور العضلات
+thk-lisbeth-marcher	thk-reich	فيلهلم رايش	فيلهلم رايخ
+thk-lisbeth-marcher	br-embodied-relational-therapy	العلاج العلائقي المُجسَّد	العلاج العلائقي المجسد (ERT)
+thk-parmenides	thk-anaxagoras	أناكساغوراس	أنكساغوراس الكلازوميني
+thk-dennis-saleebey	tec-strengths-based-therapy	العلاج القائم على نقاط القوّة	العلاج المرتكز على مواطن القوة
+thk-dennis-saleebey	rel-rawlsian-justice-social-work-psychology	عدالة رولز والخدمة الاجتماعية	العدالة كإنصاف لرولز وممارسات علم ا
+thk-spielrein	con-death-instinct	غريزة الموت والدافع التدميري للتحول	غريزة الموت والدافع التدميري (Todes
+thk-miranda-fricker	con-epistemic-injustice-fricker-concept	الظلم المعرفي	الظلم الإبستمولوجي: الشهادي والتأوي
+thk-miranda-fricker	dbt-epistemic-injustice-fricker	مناظرة الظلم المعرفي	الظلم الإبستمولوجي والشهادي والتأوي
+thk-miranda-fricker	que-epistemic-injustice-fricker	سؤال الظلم المعرفي	كيف يسلب التمييز الطبقي والعنصري مص
+thk-tmoriyama	thk-hjguilhardi	هيليو جيلاردي	هيليو جوزيه غيلاردي
+thk-alan-turing	met-turing-test-imitation-game	اختبار تورينغ / لعبة التقليد	لعبة المحاكاة وتفكير الآلة: استعارة
+thk-alan-turing	que-turing-test-sufficiency	هل يكفي اجتيازُ اختبار تورينغ للحكم	هل النجاح في محاكاة السلوك اللغوي ا
+thk-alan-turing	con-chinese-room-argument-searle	حجّة الغرفة الصينية	تجربة الغرفة الصينية ودحض الذكاء ال
+thk-alan-turing	thk-john-searle	جون سيرل	جون روجرز سيرل
+thk-alan-turing	thk-daniel-dennett	دانييل دِنِت	دانيال دينيت
+thk-ereichelt	thk-cwhitaker-pt	جون مارش	[مدخل غير محقَّق — منسوب إلى TEACCH
+thk-ereichelt	thk-jroddy	ج. لوك ويلز	[مدخل غير محقَّق — منسوب إلى TEACCH
+thk-rank	thk-fromm-reichmann	فريدا فروم-رايشمان	فريدا فروم-رايخمان
+thk-oliver-sacks	thk-szasz	توماس زاس	توماس ساس
+thk-harville-hendrix	con-imago-dialogue-process	عمليّة الحوار Imago: إعادة اتصال عا	عَمَلِيَّة الْحِوَار Imago: إِعَادَ
+thk-harville-hendrix	con-imago-fractured-self	الذات المتشظّية في Imago: الجزء الذ	الذَّات الْمُتَشَظِّيَة فِي Imago: 
+thk-mnichols	thk-pwatzlawick	بول فاتسلافيك	بول واتزلاويك
+thk-ronald-siegel	tec-mbsr	MBSR (الحد من الإجهاد باليقظة الذهن	برنامج خفض الضغوط القائم على اليقظة
+thk-lopezpedraza	thk-atobart	آنا تيريزا دي توبار	أنا تيريزا دي توبار
+thk-wolfgang-pauli	thk-vonfranz	ماري-لويز فون فرانتس	ماري-لويز فون فرانز
+thk-gmesibov	thk-cwhitaker-pt	جون مارش	[مدخل غير محقَّق — منسوب إلى TEACCH
+thk-gmesibov	thk-jroddy	ج. لوك ويلز	[مدخل غير محقَّق — منسوب إلى TEACCH
+thk-jerome-frank	dbt-common-factors-vs-specific-ingredients	العوامل المشتركة أم المكوّنات النوع	عوامل العلاج المشتركة (طائر الدودو)
+thk-jerome-frank	rel-integrative-cbt-common-factors	المعرفي السلوكي والعوامل المشتركة	التكاملية (العامل المشترك) والعلاج 
+thk-jerome-frank	rel-integrative-humanistic-common-factors	الإنساني والعوامل المشتركة	التكاملية (العامل المشترك) والإنسان
+thk-jerome-frank	rel-integrative-psychoanalysis-common-factors	التحليل النفسي والعوامل المشتركة	التكاملية (العامل المشترك) والتحليل
+thk-dai-zhen	sch-kaozheng	التعلّم الإثباتي (كاوتشنغ)	التعلم الإثباتي (Kaozheng / Evident
+thk-rene-girard	thk-claude-levi-strauss	كلود ليفي شتراوس	كلود ليفي-ستراوس
+thk-rene-girard	que-mimetic-desire-girard	سؤال الرغبة المحاكية لجيرار	هل رغباتنا أصيلة تنبع من ذواتنا أم 
+thk-szasz	dbt-mental-illness-brain-disease	جِدَل الْمَرَض النَّفْسِيّ كَمَرَض 	جدل المرض النفسي كمرض دماغ: الاختزا
+thk-alasdair-macleod	con-solution-talk	حديث الحل	حَدِيث الْحَلّ (Solution Talk) في S
+dis-prolonged-grief	con-grief	الحزن كمسار للتفريد	الحزن كمسار للتفرّد
+dis-adhd	dbt-medication-children	جِدَل دَوَاء الاضْطِرَابات النَّفْس	جدل دواء الاضطرابات النفسية للأطفال
+dis-schizophrenia	dbt-mental-illness-brain-disease	جِدَل الْمَرَض النَّفْسِيّ كَمَرَض 	جدل المرض النفسي كمرض دماغ: الاختزا
+met-psyche-as-butterfly	con-archetype	الأركيتيب (النموذج الأصلي)	النموذج الأصلي (Archetype)
+dbt-epistemic-injustice-fricker	con-epistemic-injustice-fricker-concept	الظلم الإبستمولوجي والشهادي والتأوي	الظلم الإبستمولوجي: الشهادي والتأوي
+exp-abyss-gaze	con-anguish-angst	القلق الوُجودي	القلق الوجودي (Angst): مواجهة اللا-
+wrk-12-rules-for-life	con-archetype	الأركيتيب (النموذج الأصلي)	النموذج الأصلي (Archetype)
+wrk-affective-neuroscience	rel-neuropsychoanalysis	علم النفس العصبي والتحليل النفسي: م	التحليل النفسي وعلم الأعصاب: مشروع 
+wrk-ideen-i	con-epoche-phenomenological-reduction	الرد الفينومينولوجي وتعليق العالم ا	الإيبوخي والرد الفينومينولوجي (Epoc
+wrk-the-wretched-of-the-earth-fanon	wrk-black-skin-white-masks-fanon	بشرة سوداء، أقنعة بيضاء	بشرة سوداء أقنعة بيضاء لفرانز فانون
+wrk-the-rebel-camus	wrk-myth-sisyphus	أسطورة سيزيف لألبير كامو	أسطورة سيزيف (Le Mythe de Sisyphe)
+con-sensorimotor-three-way-model	con-three-way-model-sensorimotor	النَّمُوذَج الثُّلاثِيّ لِـ Sensori	النموذج الثلاثي لـ Sensorimotor: ان
+con-ayan-thabita-archetypes	thk-ibn-arabi	ابن عربي	محيي الدين بن عربي (الشيخ الأكبر)
+con-ayan-thabita-archetypes	wrk-fusus-al-hikam-ibn-arabi	فصوص الحكم لابن عربي	فصوص الحكم لمحيي الدين بن عربي
+con-ayan-thabita-archetypes	thk-ibn-sina	ابن سينا	أبو علي الحسين بن عبد الله بن سينا 
+con-ayan-thabita-archetypes	thk-mulla-sadra	ملّا صدرا	ملا صدرا الشيرازي (صدر الدين الشيرا
+con-primary-self	con-archetype	الأركيتيب (النموذج الأصلي)	النموذج الأصلي (Archetype)
+con-seven-habits	wrk-7-habits	العادات السبع للناس الأكثر فعالية	العادات السبع للناس الأكثر فاعلية
+con-seven-habits	crt-critique-of-self-help-genre	نقد أدب المساعدة الذاتية	نقد أدَبّ «سَاعِد نَفْسَك»: التَّحْ
+con-evolutionary-psychoanalysis	con-death-instinct	غريزة الموت والدافع التدميري للتحول	غريزة الموت والدافع التدميري (Todes
+con-five-stages-of-grief	con-grief	الحزن كمسار للتفريد	الحزن كمسار للتفرّد
+con-inner-experience	con-ecstatic-moment	اللحظة النشواتية وجماليات الأركيتيب	الصورة والجماليات في علم النفس الأر
+con-cunning-of-reason-hegel	thk-hegel	غيورغ فيلهلم فريدريش هيغل	جورج فيلهلم فريدريش هيغل
+con-cunning-of-reason-hegel	con-absolute-spirit-hegel	الروح المطلق عند هيغل	الروح المطلق وتمظهراته (Absolute Sp
+con-psychological-type	ins-mbti	مؤشّر مايرز-بريغز (MBTI)	مؤشر مايرز-بريجز للأنماط
+con-bad-faith-mauvaise-foi	thk-heidegger	مارتن هايدغر	مارتن هايدجر
+con-body-without-organs	rel-deleuze-schizoanalysis-institutional-psychotherapy	التحليل الفصامي لدولوز والعلاج النف	التحليل الفصامي لدولوز والعلاج النف
+con-inner-child-popular	con-archetype	الأركيتيب (النموذج الأصلي)	النموذج الأصلي (Archetype)
+con-dzogchen-great-perfection	sch-nyingma	النينغما	نينغما (البوذية التبتية القديمة)
+con-dzogchen-great-perfection	br-tibetan-nyingma-dzogchen	النينغما ودزوغتشن	النينغما التبتية ودزوغتشن — البوذية
+con-brahman-nirguna-saguna	con-brahman	البراهمان	براهمان (المطلق / الحقيقة الكونية)
+con-brahman-nirguna-saguna	sch-vedanta	الفيدانتا	فيدانتا (كمظلة)
+con-brahman-nirguna-saguna	sch-advaita-vedanta	الأدفايتا فيدانتا	أدفايتا فيدانتا (اللاتثنية)
+con-brahman-nirguna-saguna	con-maya-vedanta	المايا في الفيدانتا	مايا (الوهم الفلسفي / الظهور الكوني
+con-extended-mind-clark-chalmers	dbt-extended-mind-clark-chalmers	جدل العقل الممتد	فرضية العقل الممتد وتخطي حدود الجمج
+con-extended-mind-clark-chalmers	con-embodied-cognition	المعرفة المجسَّدة	الإدراك المتجسد (Embodied Cognition
+con-post-christian	con-archetypes	النماذج البدائية والأنماط الأولية ل	النماذج البدائية (Archetypes) — إحا
+con-occasionalism-malebranche-concept	sch-occasionalism	الأوكازيونية (Occasionalism)	الأوكازيونيالية (Occasionalism)
+con-occasionalism-malebranche-concept	con-mind-body	إشكالية العقل والجسد	مشكلة العقل والجسد
+con-occasionalism-malebranche-concept	wrk-search-after-truth-malebranche	البحث عن الحقيقة لمالبرانش	البحث عن الحقيقة لنيكولا مالبرانش
+con-occasionalism-malebranche-concept	thk-al-ghazali	أبو حامد الغزالي	أبو حامد محمد بن محمد الغزالي (حجة 
+con-endurantism-vs-perdurantism	rel-parfit-personal-identity-multiplicity-therapy	الهوية الشخصية عند بارفيت وتعدّد أج	الهوية الشخصية عند بارفيت وتعدد أجز
+con-endurantism-vs-perdurantism	rel-hume-bundle-self-dissociation	حزمة الإدراكات لهيوم واضطرابات التف	حزمة الإدراكات لهيوم واضطرابات التف
+con-symbol	con-archetypes	النماذج البدائية والأنماط الأولية ل	النماذج البدائية (Archetypes) — إحا
+con-ascetic-denial-of-will	thk-schopenhauer	آرثر شوبنهاور	أرتور شوبنهاور
+con-ascetic-denial-of-will	sch-pessimism	التشاؤمية (Pessimism)	التشاؤمية الفلسفية
+con-ascetic-denial-of-will	con-will-to-live-schopenhauer	إرادة الحياة عند شوبنهاور	إرادة الحياة العمياء (Will to Live)
+con-dukkha-suffering	con-anikka-impermanence	الأنيتشا (اللاثبات)	الأنيكا والتغير الدائم لجميع الظواه
+con-dukkha-suffering	con-anatta-non-self-concept	الأناتّا (اللا-ذات)	الأناتا ونفي الذات الثابتة في البوذ
+con-dukkha-suffering	con-samsara	السامسارا	سامسارا (دورة الوجود / التَناسُخ)
+con-dukkha-suffering	con-nirvana-extinction	النِرفانا	النيرفانا والانطفاء والتحرر البوذي 
+con-best-of-all-possible-worlds	thk-leibniz	غوتفريد فيلهلم لايبنتس	غوتفريد فيلهلم لايبنتز
+con-best-of-all-possible-worlds	sch-leibnizianism	اللايبنتسية (Leibnizianism)	اللايبنتزية
+con-best-of-all-possible-worlds	wrk-theodicy-leibniz	الثيوديسيا لغوتفريد لايبنتس	الثيوديسيا للايبنتز في عدالة الله و
+con-emanative-scheme-avicenna	thk-ibn-sina	ابن سينا	أبو علي الحسين بن عبد الله بن سينا 
+con-emanative-scheme-avicenna	sch-islamic-peripatetic	المشّائية الإسلامية	الفلسفة المشائية الإسلامية
+con-emanative-scheme-avicenna	con-emanation-islamic	الفيض في الفلسفة الإسلامية	الفيض الإلهي (المشائية الإسلامية)
+con-emanative-scheme-avicenna	con-active-intellect-nous-poietikos	العقل الفعّال	العقل الفعال والمفارق (Active Intel
+con-emanative-scheme-avicenna	thk-al-ghazali	أبو حامد الغزالي	أبو حامد محمد بن محمد الغزالي (حجة 
+con-collective-unconscious	thk-vonfranz	ماري-لويز فون فرانتس	ماري-لويز فون فرانز
+con-valkyrie	con-archetype	الأركيتيب (النموذج الأصلي)	النموذج الأصلي (Archetype)
+con-elimination-of-metaphysics	sch-vienna-circle	حلقة فيينا (Vienna Circle)	الوضعية المنطقية (حلقة فيينا)
+con-elimination-of-metaphysics	con-verification-principle-vienna	مبدأ التحقّق	مبدأ التحقق الوضعي التجريبي (Verifi
+con-elimination-of-metaphysics	thk-lwittgenstein	لودفيغ فتغنشتاين	لودفيغ فيتغنشتاين
+con-elimination-of-metaphysics	thk-heidegger	مارتن هايدغر	مارتن هايدجر
+con-here-and-now	thk-jkabat-zinn	جون كابات زين	جون كابات-زين
+con-ecopsychoanalysis	con-death-instinct	غريزة الموت والدافع التدميري للتحول	غريزة الموت والدافع التدميري (Todes
+con-apoha-exclusion-buddhist-semantics	thk-dignaga	دِغناغا	دينّاغا
+con-apoha-exclusion-buddhist-semantics	sch-yogacara	اليوغاتشارا	يوغاكارا / فيجنانافادا
+con-apoha-exclusion-buddhist-semantics	con-anatta-non-self-concept	الأناتّا (اللا-ذات)	الأناتا ونفي الذات الثابتة في البوذ
+con-apoha-exclusion-buddhist-semantics	con-anikka-impermanence	الأنيتشا (اللاثبات)	الأنيكا والتغير الدائم لجميع الظواه
+con-apoha-exclusion-buddhist-semantics	con-universals-debate	جدل الكلّيات	جدل الكليات (مشكلة الكُنْه)
+con-apoha-exclusion-buddhist-semantics	con-nominalism-universals-concept	الاسمية ومشكلة الكلّيات	الاسمية وإنكار الوجود الواقعي للكلي
+con-culture-industry-adorno	thk-adorno	تيودور أدورنو	ثيودور أدورنو
+con-culture-industry-adorno	sch-frankfurt-school	مدرسة فرانكفورت (Frankfurt School)	النظرية النقدية / مدرسة فرانكفورت (
+con-culture-industry-adorno	con-cultural-capital-bourdieu	رأس المال الثقافي عند بورديو	رأس المال الثقافي والرمزي (Cultural
+con-culture-industry-adorno	rel-frankfurt-school-critical-psychiatry	النظرية النقدية لمدرسة فرانكفورت وا	النظرية النقدية لمدرسة فرانكفورت وا
+con-epistemic-injustice-fricker-concept	dbt-epistemic-injustice-fricker	جدل الظلم الإبستمولوجي عند فريكر	الظلم الإبستمولوجي والشهادي والتأوي
+con-epistemic-injustice-fricker-concept	thk-crenshaw	كيمبرلي كرِنشو	كيمبرلي كرنشو
+con-cultural-complex	con-intergenerational-historical-trauma	الصدمة التاريخية بين الأجيال	الصدمة التاريخية متعددة الأجيال لدى
+con-synchronicity	con-parapsychology	علم النفس الخوارقي	ما وراء علم النفس والظواهر الخارقة 
+con-synchronicity	thk-vonfranz	ماري-لويز فون فرانتس	ماري-لويز فون فرانز
+con-phenomenology	con-epoché-phenomenological-reduction	الإيبوخي (Epoché): التعليق المنهجي 	الإيبوخي (Epoché) — إحالة، انظر con
+con-deep-ecology-naess	wrk-ecology-community-lifestyle	الإيكولوجيا والمجتمع وأسلوب الحياة 	الإيكولوجيا والمجتمع ونمط الحياة (E
+con-deep-ecology-naess	con-deep-vs-shallow	العميق مقابل السطحي في الإيكولوجيا	الإيكولوجيا الضحلة مقابل العميقة (S
+con-deep-ecology-naess	thk-gandhi	المهاتما غاندي	موهانداس كرمشاند غاندي
+con-deep-ecology-naess	con-land-ethic	أخلاقيات الأرض	أخلاق الأرض (Land Ethic)
+con-apeiron-boundless	thk-anaximander	أنكسيمندر	أنكسمندر الميليسي
+con-apeiron-boundless	sch-milesian	المدرسة المِلطية	المدرسة الميليسية (ما قبل سقراط الط
+con-apeiron-boundless	thk-anaximenes	أنكسيمانس	أنكسمانس الميليسي
+con-bayan-irfan-burhan-jabri	thk-ibn-rushd	ابن رشد	أبو الوليد محمد بن أحمد بن رشد (الش
+con-bayan-irfan-burhan-jabri	thk-ibn-sina	ابن سينا	أبو علي الحسين بن عبد الله بن سينا 
+con-bayan-irfan-burhan-jabri	thk-ibn-arabi	ابن عربي	محيي الدين بن عربي (الشيخ الأكبر)
+con-bayan-irfan-burhan-jabri	thk-al-ghazali	أبو حامد الغزالي	أبو حامد محمد بن محمد الغزالي (حجة 
+con-self-jung	trm-individuation-jung	التفرُّد (Individuation)	التفرد واكتمال الذات (Individuation
+con-self-jung	trm-persona-jung	القناع (Persona)	القناع الاجتماعي (Persona): الواجهة
+con-self-jung	thk-vonfranz	ماري-لويز فون فرانتس	ماري-لويز فون فرانز
+con-amae	con-attachment-styles	أنماط التعلّق	أساليب التعلق (Attachment Styles)
+con-amae	con-cross-cultural-psychoanalysis	التحليل النفسي عبر الثقافي	التحليل النفسي العابر للثقافات
+con-shadow	trm-persona-jung	القناع (Persona)	القناع الاجتماعي (Persona): الواجهة
+con-shadow	trm-individuation-jung	التفرُّد (Individuation)	التفرد واكتمال الذات (Individuation
+con-shadow	met-jung-shadow-gold	ذهبُ الظلّ	ذهب الظل ليونغ: استعارة الكنوز الإب
+con-shadow	que-shadow-integration-individuation	هل دمجُ الظلّ شرطٌ للتفرُّد؟	كيف يتصالح الإنسان مع جوانب الظل في
+con-shadow	con-cultural-complex	العقدة الثقافية	المركّب الثقافي والظلال الجمعية
+con-explanatory-gap-levine	dbt-mind-body-dualism-vs-physicalism	جدل الثنائية مقابل الفيزيائية	جدل مشكلة العقل والجسد: الثنائية مق
+con-explanatory-gap-levine	con-mind-body	إشكالية العقل والجسد	مشكلة العقل والجسد
+con-ipt-focus	con-grief	الحزن كمسار للتفريد	الحزن كمسار للتفرّد
+con-chinese-room-argument-searle	thk-john-searle	جون سيرل	جون روجرز سيرل
+con-noema-and-noesis-husserl	con-epoche-phenomenological-reduction	الرد الفينومينولوجي وتعليق العالم ا	الإيبوخي والرد الفينومينولوجي (Epoc
+con-archetype	thk-astevens	أنتوني ستيفنز	أَنتوني ستيفنز
+crt-adhd-overdiagnosis	dbt-medication-children	جِدَل دَوَاء الاضْطِرَابات النَّفْس	جدل دواء الاضطرابات النفسية للأطفال
+crt-feminist-critique-humanistic	br-self-actualization-maslow	علم نفس تحقيق الذات (ماسلو)	علم نفس تحقيق الذات والدافعية الإنس
+crt-critique-of-resilience-training	crt-critique-of-positive-psychology	نقد علم النفس الإيجابي	نقد عِلْم النَّفْس الْإِيجَابِيّ مِ
+crt-critique-of-resilience-training	crt-critique-of-trauma-therapy	نقد صناعة الصدمة	نقد «صِنَاعَة الصَّدْمَة»: مَنْ يَس
+br-sikolohiyang-pilipino	crt-postcolonial-critique-dsm	النقد ما بعد الكولونيالي لـDSM	النقد ما بعد الاستعماري لـ DSM: الت
+br-african-centered-psychology	crt-postcolonial-critique-cbt	النقد ما بعد الكولونيالي للعلاج الم	النقد ما بعد الاستعماري للعلاج المع
+br-african-centered-psychology	crt-postcolonial-critique-dsm	النقد ما بعد الكولونيالي لـDSM	النقد ما بعد الاستعماري لـ DSM: الت
+br-african-centered-psychology	con-intergenerational-historical-trauma	الصدمة التاريخية بين الأجيال	الصدمة التاريخية متعددة الأجيال لدى
+br-embodied-relational-therapy	thk-mtotton	نِك توتون	مارك توتون
+br-embodied-relational-therapy	br-bioenergetic-analysis	التحليل البيوإنرجيتي	التحليل الطاقي الحيوي (لوين)
+br-embodied-relational-therapy	tec-focusing-oriented	العلاج الموجَّه بالتركيز	العلاج الموجه بالتركيز والإحساس الم
+br-embodied-relational-therapy	thk-rresnick	روبرت ريزنيك	روبرت رِسنيك
+br-embodied-relational-therapy	con-nature-deficit	نقص الطبيعة	متلازمة عجز الطبيعة
+br-schultz-hencke	thk-khorney	كارين هورني	كارين هُورْني
+br-discursive-psychology	thk-ahepburn	أليكسا هيبورن	ألكسا هِبِرن
+br-discursive-psychology	thk-sspeer	سوزان سبير	سوزان سبيير
+br-discursive-psychology	thk-kgergen	كِنِث غيرغِن	كينيث جيرغن
+br-discursive-psychology	thk-lwittgenstein	لودفيغ فتغنشتاين	لودفيغ فيتغنشتاين
+br-purposive-behaviorism	br-social-learning-theory	نظرية التعلّم الاجتماعي	نظرية التعلم الاجتماعي والمعرفي
+br-purposive-behaviorism	thk-ectolman	إدوارد تشيس تولمان	إدوارد تولمان
+br-purposive-behaviorism	thk-jwatson	جون واطسون	جون ب. واتسون
+br-decolonizing-therapy	con-intergenerational-historical-trauma	الصدمة التاريخية بين الأجيال	الصدمة التاريخية متعددة الأجيال لدى
+br-decolonizing-therapy	crt-postcolonial-critique-dsm	النقد ما بعد الكولونيالي لـDSM	النقد ما بعد الاستعماري لـ DSM: الت
+br-vegetotherapy-orgonomy	thk-reich	فيلهلم رايش	فيلهلم رايخ
+br-vegetotherapy-orgonomy	br-bioenergetic-analysis	التحليل البيوإنرجيتي	التحليل الطاقي الحيوي (لوين)
+br-gestalt-theoretical-psychotherapy	br-gestalt-berlin	الجشطالت البرلينية	علم النفس الجشطالتي (مدرسة برلين)
+br-gestalt-theoretical-psychotherapy	thk-wkohler	فولفغانغ كولر	فولفغانغ كولَر
+br-gestalt-theoretical-psychotherapy	thk-wmetzger	فولفغانغ ميتسغر	فولفغانغ ميتزغر
+br-gestalt-theoretical-psychotherapy	axm-holism-gestalt	الكلّية الجشطالتية	مبدأ الكلية (Gestalt)
+br-ibp	br-bioenergetic-analysis	التحليل البيوإنرجيتي	التحليل الطاقي الحيوي (لوين)
+br-ibp	thk-reich	فيلهلم رايش	فيلهلم رايخ
+br-biodynamic-psychology	thk-boyesen	غيردا بويسن	غيردا بويزن
+br-biodynamic-psychology	thk-reich	فيلهلم رايش	فيلهلم رايخ
+br-biodynamic-psychology	br-bioenergetic-analysis	التحليل البيوإنرجيتي	التحليل الطاقي الحيوي (لوين)
+br-constructivist-cognitive	thk-kelly-george	جورج كيلي	جورج ألكسندر كيلي
+br-constructivist-cognitive	br-personal-construct-psychology	علم نفس التكوينات الشخصية	سيكولوجيا الأطر الشخصية (جورج كيلي)
+br-constructivist-cognitive	tec-beck-cognitive-therapy	العلاج المعرفي لبيك	العلاج المعرفي الكلاسيكي لبيك
+br-constructivist-cognitive	thk-mahoney	مايكل ماهوني	ماريان ماهونِي
+br-constructivist-cognitive	thk-beck	أرون بيك	آرون تيموثي بيك
+br-bodynamic-analysis	br-bioenergetic-analysis	التحليل البيوإنرجيتي	التحليل الطاقي الحيوي (لوين)
+br-bodynamic-analysis	thk-reich	فيلهلم رايش	فيلهلم رايخ
+br-bodynamic-analysis	sch-sensorimotor-psychotherapy	العلاج النفسي السنسوريموتور	العلاج النفسي حسي-حركي (Sensorimoto
+br-neobehaviorism	thk-jwatson	جون واطسون	جون ب. واتسون
+br-neobehaviorism	sch-vienna-circle	حلقة فيينا (Vienna Circle)	الوضعية المنطقية (حلقة فيينا)
+br-feminist-therapy	br-intersectional-feminist	النسوية التقاطعية	علم النفس النسوي التقاطعي
+br-family-sandplay	con-archetype	الأركيتيب (النموذج الأصلي)	النموذج الأصلي (Archetype)
+br-liberation-psychology	thk-imartinbaro	إغناسيو مارتين-بارو	إغناثيو مارتن-بارو
+br-liberation-psychology	tec-anti-oppressive-practice	الممارسة المناهضة للقهر	الممارسة المناهضة للاضطهاد (AOP)
+br-liberation-psychology	crt-postcolonial-critique-cbt	النقد ما بعد الكولونيالي للعلاج الم	النقد ما بعد الاستعماري للعلاج المع
+br-liberation-psychology	crt-postcolonial-critique-psychoanalysis	النقد ما بعد الكولونيالي للتحليل ال	النقد ما بعد الاستعماري للتحليل الن
+br-liberation-psychology	thk-fanon	فرانز فانون	فرانتز فانون
+br-neo-freudian	thk-khorney	كارين هورني	كارين هُورْني
+br-sensorimotor-trauma-applications	con-sensorimotor-three-way-model	النموذج الثلاثي للسنسوريموتور	النموذج الثلاثي (الإدراك - الانفعال
+br-relational-gestalt	thk-mbuber	مارتن بوبر	مارتن بُبَر
+br-relational-psychoanalysis	thk-jbenjamin	جيسيكا بنجامين	جيسيكا بِنْجامِين
+br-interpersonal-neurobiology	tec-eft-couples	العلاج المتمحور حول المشاعر للأزواج	العلاج المرتكز على العاطفة للأزواج 
+br-interpersonal-neurobiology	thk-fonagy	بيتر فوناجي	بيتر فوناغي
+br-psychoanalytic-couple-family	thk-fairbairn	رونالد فيربيرن	رونالد فَيرْبيرن
+sch-taoist-cognitive-therapy	sch-daoism-philosophical	الطاوية الفلسفية	الداووية الفلسفية
+sch-taoist-cognitive-therapy	con-wuwei	الوو-وي (اللافعل)	الوو وي (無為) — عدم الفعل الإجباري
+sch-art-therapy	br-expressive-arts-therapy	العلاج بالفنون التعبيرية	الفنون التعبيرية التعددية (Intermod
+sch-cross-cultural-psychology	con-emic-etic	الإيميك والإتيك (Emic vs. Etic)	الإيميتيك والإتيك (Emic vs. Etic)
+sch-cross-cultural-psychology	con-amae	الأماي (Amae)	أماي (الاعتمادية الحميمية والتكامل 
+sch-presocratics	thk-parmenides	بارمينيدس	بارمنيدس الإيلي
+sch-presocratics	thk-democritus	ديمقريطس	ديموقريطس الأبديري
+sch-presocratics	con-apeiron-boundless	الأبيرون (اللامحدود)	الأبيرون — اللامتناهي واللامتعين (A
+sch-ecopsychology	con-deep-ecology-naess	الإيكولوجيا العميقة (نايس)	الإيكولوجيا العميقة والقيمة الذاتية
+sch-phenomenology-hermeneutic	rel-daseinsanalysis-heideggerian-phenomenology	تحليل الدازاين والظاهراتية الهايدغر	تحليل الدازاين والظاهراتية الهايدغر
+sch-twelve-step	con-twelve-steps	الخطوات الاثنتا عشرة	برنامج الاثنتي عشرة خطوة (12-Step)
+sch-twelve-step	con-harm-reduction	تقليل الضرر	الحد من الضرر (Harm Reduction)
+sch-cognitive-psychology	stu-loftus-misinformation-effect	دراسات لوفتوس حول تأثير المعلومات ا	دراسات لوفتوس الأصلية حول تأثير الم
+sch-behavioral-neurology	stu-broca-tan-localization	دراسة بروكا للمريض تان	دراسة بروكا التاريخية للمريض 'تان' 
+sch-behavioral-neurology	stu-scoville-milner-patient-hm	دراسة سكوفيل وميلنر للحالة H.M.	دراسة سكوفيل وميلنر الكلاسيكية للحا
+sch-behavioral-neurology	stu-sperry-gazzaniga-split-brain	دراسات سبيري وغازانيغا على الدماغ ا	دراسات سبيري وغازانيغا على مرضى الد
+sch-behavioral-neurology	con-neuroplasticity	المطاوعة العصبية	اللدونة العصبية (Neuroplasticity)
+sch-ipt	con-grief	الحزن كمسار للتفريد	الحزن كمسار للتفرّد
+sch-bullying-research	dbt-violent-media-child-aggression	جدل تأثير الإعلام العنيف على عدوان 	جدل تأثير الشاشات والألعاب الإلكترو
+sch-metaethics	sch-contractualism	التعاقدية الأخلاقية الحديثة	التعاقدية/التعاقدانية الأخلاقية الح
+sch-emotion-psychology	con-emotional-intelligence	الذكاء الانفعالي	الذكاء العاطفي
+sch-cultural-psychology	con-amae	الأماي (Amae)	أماي (الاعتمادية الحميمية والتكامل 
+sch-cultural-psychology	con-cultural-complex	العقدة الثقافية	المركّب الثقافي والظلال الجمعية
+sch-phenomenological-research	con-epoche-phenomenological-reduction	الإيبوخي والاختزال الظاهراتي	الإيبوخي والرد الفينومينولوجي (Epoc
+sch-phenomenological-research	stu-heuristic-research	البحث الاستكشافي (موستاكاس)	البحث الكشفي / الاستكشافي (Heuristi
+sch-contemplative-psychotherapy	sch-engaged-buddhism	البوذية المُشرِكة	البوذية المنخرطة اجتماعياً
+sch-trauma-psychology	sch-emdr	إعادة المعالجة عبر حركات العين (EMD	إعادة المعالجة عبر حركات العين وتخف
+sch-trauma-psychology	sch-somatic-experiencing	الخبرة الجسدية (Somatic Experiencin	التجربة الجسدية (Somatic Experienci
+sch-trauma-psychology	sch-sensorimotor-psychotherapy	العلاج الحسي-الحركي	العلاج النفسي حسي-حركي (Sensorimoto
+sch-trauma-psychology	thk-besselvanderkolk	بيسل فان دير كولك	بِسِل فَن دِر كولك
+sch-trauma-psychology	thk-jherman	جوديث ل. هيرمان	جوديث هِرمان
+sch-trauma-psychology	con-window-of-tolerance	نافذة التحمّل	نافذة التحمل (Window of Tolerance)
+sch-trauma-psychology	evt-shell-shock-ww1-craiglockhart-1917	صدمة القذائف ومشفى كريغلوكهارت 1917	صدمة القذائف في الحرب العالمية الأو
+sch-cognitive-neuroscience	con-neuroplasticity	المطاوعة العصبية	اللدونة العصبية (Neuroplasticity)
+sch-cognitive-neuroscience	stu-sperry-gazzaniga-split-brain	دراسات سبيري وغازانيغا على الدماغ ا	دراسات سبيري وغازانيغا على مرضى الد
+sch-cognitive-neuroscience	stu-libet-voluntary-action-readiness	تجارب ليبيت حول الفعل الإرادي	تجارب ليبيت حول جهد الاستعداد والوع
+sch-phenomenological-psychiatry	thk-gebsattel	فيكتور فون غبزاتل	فيكتور فون غيبساتل
+sch-phenomenological-psychiatry	thk-weizsacker	فيكتور فون فايتسكر	فيكتور فون فايتسزيكر
+sch-phenomenological-psychiatry	thk-buytendijk	فريدريك بويتندايك	فريدريك بايتنديك
+sch-phenomenological-psychiatry	thk-vandenberg	ي. ه. فان دن برغ	يان هندريك فان دن بيرغ
+sch-phenomenological-psychiatry	thk-tatossian	آرثر تاتوسيان	أرتور تاتوسيان
+sch-phenomenological-psychiatry	thk-stanghellini	جيوفاني ستانغيليني	جوفاني ستانغليني
+sch-phenomenological-psychiatry	wrk-general-psychopathology	علم الأمراض النفسية العام (ياسبرز 1	علم النفس المرضي العام
+sch-phenomenological-psychiatry	wrk-lived-time	الزمن المعاش (مينكوفسكي 1933)	الزمن المُعاش
+que-epistemic-injustice-fricker	con-epistemic-injustice-fricker-concept	الظلم الإبستمولوجي والشهادي والتأوي	الظلم الإبستمولوجي: الشهادي والتأوي
+tec-sandplay-therapy	tec-play-therapy-branches	فروع العلاج باللعب	العلاج باللعب ومداخله المتعددة
+tec-sandplay-therapy	dis-autism-spectrum	طيف التوحّد	اضطراب طيف التوحد
+tec-sensorimotor-pendulation	con-sensorimotor-three-way-model	النموذج الثلاثي للسنسوريموتور	النموذج الثلاثي (الإدراك - الانفعال
+tec-rolfing	br-bioenergetic-analysis	التحليل البيوإنرجيتي	التحليل الطاقي الحيوي (لوين)
+tec-rolfing	thk-reich	فيلهلم رايش	فيلهلم رايخ
+tec-strengths-based-therapy	thk-mseligman	مارتن سليغمان	مارتن سليجمان
+tec-strengths-based-therapy	tec-sfbt	العلاج المتمركز على الحلول (SFBT)	العلاج الموجز المرتكز على الحل (SFB
+tec-strengths-based-therapy	crt-critique-of-resilience-training	نقد تدريب المرونة	نقد تَدْرِيب «الْمَرونة»: مَن يَتَح
+tec-socratic-existential-dialogue	tec-four-existential-dimensions-healing	الأبعاد الوجودية الأربعة	الأبعاد الأربعة للشفاء: الجسدي، الن

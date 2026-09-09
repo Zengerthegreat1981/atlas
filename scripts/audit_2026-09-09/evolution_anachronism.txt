@@ -1,0 +1,15 @@
+sch-presocratics	split_into	sch-milesian	-585	-624
+sch-stoicism	evolved_into	sch-aristotelianism	-300	-335
+sch-kokugaku	split_into	sch-mitogaku	1728	1657
+sch-chan	evolved_from	sch-huayan	600	660
+sch-deism	evolved_from	sch-enlightenment	1620	1680
+sch-tathagatagarbha	evolved_from	sch-yogacara	250	350
+sch-pure-land	evolved_from	sch-tathagatagarbha	150	250
+sch-feminism-marxist	evolved_from	sch-feminism-radical	1884	1967
+sch-social-contract	evolved_from	sch-enlightenment	1640	1680
+sch-experimental-philosophy	superseded_by	sch-quinean-naturalism	2001	1951
+sch-civic-republicanism	evolved_from	sch-enlightenment	1400	1680
+sch-academic-skepticism	evolved_into	sch-academy-platonic	-265	-387
+sch-ashariyya	superseded_by	sch-mutazila	900	720
+sch-comtian-positivism	evolved_into	sch-utilitarianism	1830	1789
+sch-bon	evolved_from	sch-shramana	-1000	-600

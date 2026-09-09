@@ -1,0 +1,59 @@
+thk-erickson-erl	Ernest Lawrence Rossi	إرنست لورنس روسي
+thk-bbundy	Karen Budd	كارين بَد
+thk-rreibo	Richard J. Reynolds (T. Taizan Maezumi / Rev. Daitsu Tom Wright)	ريتشارد ريبو
+thk-twsalisbury	Unidentified placeholder — no single documented person	شخصية غير محدَّدة (حجر — لا يو
+thk-ricoeur	Paul Ricœur	بول ريكور
+thk-lmorrnah	Abraham Kawai'ae'a	إبراهام كاوانيوآ
+thk-gotama-nyaya	Akshapada Gautama	أكشابادا غوتاما
+thk-sbooth	Sandra Lindaman	ساندرا لينداما
+thk-elifellows	Joseph L. White Jr.	جوزيف ل. وايت جونيور
+thk-andrew-barnes	Emily Black	إيميلي بلاك
+thk-jeberenz	Dan Olweus	دان أولڤيوس
+thk-fkfu	Frank H. Fu	فرانك هـ. فو
+thk-fcaine	Florence Cane	فلورنس كاني
+thk-jrivett	Jordan Reed	جوردان ريد
+thk-ali	Ann Li	آن لي
+thk-klew	Kurt Lewin	كورت لوين
+thk-ecolle	Emma Cole	إيما كول
+thk-jboss	David Berceli	ديفيد بيرسيلي
+thk-rmritchie	Ralph Metzner	رالف ميتزنر
+thk-hliddle-clin	Craig E. Henderson	كريغ هندرسون
+thk-sdesha	Kamlesh D. Patel (Daaji) — slug mismatch, needs correct slug	كاملِش دي. باتيل / داجي (حجر —
+thk-brueger	Bernd Rüger	بيرند رويغر
+thk-jingqiyong	Yang Desen (Yang Deshen)	يانغ ديشن
+thk-dhook	Dennis Fox	دِنيس فوكس
+thk-jmertz	Mario Trevi	ماريو تريفي
+thk-jbeker	Jonathan Becker	جوناثان بِكر
+thk-hu-shi	Hu Shih	هو شي (Hu Shih)
+thk-jchales	John Charles	جون تشارلز
+thk-jkadden	Kathleen M. Carroll	كاثلين كاري
+thk-hkrystal	Hiroshi Kawashima	هيروشي كاواشيما
+thk-lfish	Lawrence Fischbein	لورانس فيشباين
+thk-lonan	Luigi Onnis	لويجي أونيس
+thk-dhanna	Michael J. Goldstein	مايكل ج. غولدشتاين
+thk-sgreys	Daniel A. Hughes	دانيال هيوز
+thk-idmarshall	Thomas Hanna	توماس هانا
+thk-ttu	Tu Weiming	توي وي-مينغ (دو وي-مينغ)
+thk-jgould	James Lubin	جيمس ليبشيتز
+thk-lsaari	Lucien Lévy-Bruhl	لوسيان ليفي-برول
+thk-gotama-kanad	Aksapada Gautama (Founder of Nyaya)	أكساپادا غوتاما (مؤسس نيايا)
+thk-icheolhong	Cho Hee-soo / Hesoo Cha	تشو هي-سو
+thk-fmodestin	Patrick W. Corrigan	باتريك كوريغان
+thk-trore	Sir Mason Durie (Te Whare Tapa Whā creator)	ماسون دوري
+thk-hershman	Dina Wardi	دينا هيرشمان
+thk-aabrer	Karl Abraham	كارل أبراهام
+thk-ddinste	Dorothy Dinnerstein	دوروثي دينرشتاين
+thk-rwilliams	Roger T. Ames (redirect)	روجر ت. أيمز (إحالة)
+thk-dluo	Dong Liu	دونغ ليو
+thk-albertellis-somatic	Amy E. Fontana	إيمي فونتانا
+thk-ey	Henri Ey	هنري إي
+thk-rcabrera	Akinsola A. Akiwowo (misfiled)	أكينسولا أكيووو — محتوى تحت ال
+thk-slima	Sílvia Tatiana Maurer Lane	سيلفيا ليما
+thk-sdeshacer	Steve de Shazer	ستيف دي شيزر
+thk-jakhan	Wade W. Nobles	ويد نوبلز
+thk-eburne	Eric Berne	إريك بيرن
+thk-ummasvati	Acharya Umaswati	أشاريا أومسفاتي
+thk-aboller	Armand Volkas	أرماند فولكاس
+thk-jramiro	Jean-Luc Ramaro	جان-لوك رامارو
+thk-bleuler-jung-assoc	Franz Riklin Sr.	فرانتس ريكلين
+thk-dkirkland	Don Hanlon Johnson	دانيال كيركلاند

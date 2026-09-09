@@ -1,0 +1,13 @@
+thk-mgrof	redirect_to
+thk-alicorazon	verification_status
+thk-bruceperkins	status
+thk-mmithoefer	crumbs
+trm-archetype	redirect_to
+trm-tabula-rasa-locke	redirect_to
+trm-ubertragung-transference	redirect_to
+trm-verdrangung-repression	redirect_to
+wrk-being-nothingness	redirect_to
+wrk-being-and-nothingness-sartre	redirect_to
+wrk-merleau-ponty-phenomenology-perception	redirect_to
+wrk-the-structure-of-scientific-revolutions-kuhn	redirect_to
+que-what-is-self	redirect_to

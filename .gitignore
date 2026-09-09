@@ -23,3 +23,6 @@ data-en.json
 index.html
 index-en.html
 preview-atlas-visuals.html
+
+# Session scratchpad (local only)
+scratchpad/
