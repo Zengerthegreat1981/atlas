@@ -14,7 +14,6 @@ edges:
 related:
 - id: "sch-ethnophilosophy", title: "الإثنوفلسفة", type: "مدرسة"
 - id: "con-ubuntu", title: "الأوبونتو (Ubuntu)", type: "مفهوم"
-- id: "con-ubuntu-african-humanism", title: "أوبونتو — الإنسانية التضامنية الأفريقية (Ubuntu)", type: "مفهوم"
 - id: "thk-wiredu", title: "كواي وايردو", type: "مفكر"
 - id: "thk-hountondji", title: "بولين هينتونجي", type: "مفكر"
 gaps:

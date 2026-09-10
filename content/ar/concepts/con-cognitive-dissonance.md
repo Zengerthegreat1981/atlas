@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
-- id: "thk-lfestinger", title: "ليون فِستِنغر", type: "مفكر"
+- id: "thk-leon-festinger", title: "ليون فيستنغر (Leon Festinger)", type: "مفكر"
 - id: "axm-cognitive-consistency", title: "بديهية الاستواء المعرفي", type: "بديهية/مبدأ تأسيسي"
 - id: "wrk-festinger-cognitive-dissonance", title: "نظرية التنافر المعرفي (A Theory of Cognitive Dissonance)", type: "عمل / كتاب"
 - id: "stu-festinger-cognitive-dissonance", title: "تجربة فستنجر وكارلسميث للتنافر المعرفي والتعويض غير الكافي", type: "دراسة وبحث"

@@ -15,7 +15,7 @@ crumb: "Imago ← مؤسِّسون ← سوزان أندرسون"
 edges:
 - rel: "belongs_to", target: "sch-imago", target_type: "مدرسة"
 related:
-- id: "thk-hhendrix", title: "هارفيل هندريكس", type: "مفكر"
+- id: "thk-harville-hendrix", title: "هارفيل هندرِكس (Harville Hendrix)", type: "مفكر"
 - id: "con-imago-childhood-wound", title: "جرح الطفولة", type: "مفهوم"
 - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
 gaps:

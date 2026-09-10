@@ -21,7 +21,7 @@ related:
 - id: "sch-african-hermeneutical", title: "الفلسفة الأفريقية التأويلية", type: "مدرسة"
 - id: "sch-african-psychology", title: "علم النفس الأفريقي", type: "مدرسة"
 - id: "sch-african-decolonial", title: "الفلسفة الأفريقية الديكولونيالية", type: "مدرسة"
-- id: "con-ubuntu-african-humanism", title: "أوبونتو — الإنسانية التضامنية الأفريقية (Ubuntu)", type: "مفهوم"
+- id: "con-ubuntu", title: "الأوبونتو (Ubuntu)", type: "مفهوم"
 gaps:
   - "كتاب 'Decolonizing African Religion' (1990s) صدر بعد وفاته ولم يُنقَّح."
   - "لا توجد ترجمة عربية لـSong of Lawino أو Hare and Hornbill."

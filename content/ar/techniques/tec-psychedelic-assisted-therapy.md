@@ -15,12 +15,12 @@ part: "psychology"
 evidence_level: "probably-efficacious"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
-- rel: "pioneered_by", target: "thk-griffiths", target_type: "مفكر"
+- rel: "pioneered_by", target: "thk-roland-griffiths", target_type: "مفكر"
 related:
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "br-transpersonal-psychology", title: "علم النفس عبر الشخصي (القوة الرابعة)", type: "تيار"
-- id: "thk-griffiths", title: "رولاند غريفيثز", type: "مفكر"
+- id: "thk-roland-griffiths", title: "رولاند غريفثز", type: "مفكر"
 - id: "con-mdma-ptsd", title: "MDMA (إكستاسي) في علاج PTSD", type: "مفهوم"
 - id: "con-psilocybin-depression", title: "الْعِلَاج بِالسِّلِيكُوبِين لِلاِكْتِئَاب", type: "مفهوم"
 gaps:

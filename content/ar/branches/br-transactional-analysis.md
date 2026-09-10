@@ -14,7 +14,7 @@ language: "الإنجليزية"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-- rel: "developed_by", target: "thk-eburne", target_type: "مفكر"
+- rel: "developed_by", target: "thk-berne", target_type: "مفكر"
 related:
 - id: "thk-tony-white", title: "توني وايت", type: "مفكر"
 - id: "thk-gunnel-cederblad", title: "جونيل سيدِربلاد", type: "مفكر"

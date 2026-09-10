@@ -18,7 +18,7 @@ edges:
 related:
 - id: "thk-gandhi", title: "غاندي", type: "مفكر"
 - id: "sch-gandhianism", title: "الغاندية", type: "مدرسة"
-- id: "con-ahimsa-non-violence", title: "الأهيمسا واللا-عنف الشامل في الفكر الهندي (Ahimsa)", type: "مفهوم"
+- id: "con-ahimsa", title: "أحيمسا (مبدأ اللاإيذاء)", type: "مفهوم"
 - id: "con-satyagraha", title: "ساتياغراها (قوة الحقيقة)", type: "مفهوم"
 gaps:
   - "تفاصيل طفولته في غاغود (Kolaba district) مع عائلته البراهمة موثّقة جزئياً."

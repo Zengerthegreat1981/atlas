@@ -17,11 +17,15 @@ related:
 - id: "sch-scholasticism", title: "المدرسية (السكولاستية) — كمظلة", type: "مدرسة"
 - id: "sch-thomism", title: "التوماوية", type: "مدرسة"
 - id: "thk-aquinas", title: "توما الأكويني", type: "مفكر"
-- id: "con-substance-and-accident", title: "الجوهر والعرض (Substance and Accident)", type: "مفهوم"
+- id: "thk-aristotle", title: "أرسطو", type: "مفكر"
+- id: "sch-aristotelianism", title: "المشائية / الأرسطية (Aristotelianism)", type: "مدرسة"
+- id: "con-hylomorphism-substance", title: "الهيولومورفية ومركب المادة والصورة (Hylomorphism)", type: "مفهوم"
+- id: "con-four-causes-aristotle", title: "العلل الأربع الأرسطية (The Four Causes)", type: "مفهوم"
 gaps:
   - "تطبيق اللاهوت (التثليث) على الجوهر والعرض موضع نقاش."
   - "لا يوجد اقتباس مباشر موثوق."
   - "هذا الملف مكرر مضموناً مع con-substance-and-accident (الأصل الأرسطي)، يحتاج دمج بشري."
+  - "**نُقلت روابطُ المدموج 2026-09-10:** أُضيفت 4 إشارةً كانت في `con-substance-and-accident` قبل دمجه ولم تكن هنا — وإغفالُها كان سيُخرج عقداً من دائرة الوصول بالتنقّل. والمنقولُ روابطُ المدموج الصادرةُ فقط، بلا اختراعِ صلةٍ جديدة."
 ---
 
 # الجوهر والعرض (Substance / Accident)

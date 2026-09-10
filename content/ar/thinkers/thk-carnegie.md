@@ -17,9 +17,15 @@ edges:
 - rel: "belongs_to", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
 - id: "wrk-how-to-win-friends", title: "كيف تكسب الأصدقاء وتؤثر في الناس", type: "عمل / كتاب"
+- id: "thk-napoleon-hill", title: "نابليون هيل", type: "مفكر"
+- id: "thk-stephen-covey", title: "ستيفن كوفي", type: "مفكر"
+- id: "thk-louise-hay", title: "لويز هاي", type: "مفكر"
+- id: "thk-shakti-gawain", title: "شَكتي غَوَين", type: "مفكر"
+- id: "con-emotional-intelligence", title: "الذكاء العاطفي", type: "مفهوم"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "غياب اقتباس مباشر موثَّق بمصدر وسنة محددين لـديل كارنيجي في الأدبيات المتاحة."
+  - "**نُقلت روابطُ المدموج 2026-09-10:** أُضيفت 5 إشارةً كانت في `thk-dale-carnegie` قبل دمجه ولم تكن هنا — وإغفالُها كان سيُخرج عقداً من دائرة الوصول بالتنقّل. والمنقولُ روابطُ المدموج الصادرةُ فقط، بلا اختراعِ صلةٍ جديدة."
 ---
 
 # ديل كارنيجي

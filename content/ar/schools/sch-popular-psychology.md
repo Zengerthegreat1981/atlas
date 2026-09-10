@@ -16,7 +16,7 @@ active_end: "مستمر"
 edges:
 - rel: "distinct_from", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "thk-dale-carnegie", title: "ديل كارنيجي", type: "مفكر"
+- id: "thk-carnegie", title: "ديل كارنيجي", type: "مفكر"
 - id: "thk-de-bono", title: "إدوارد دي بونو", type: "مفكر"
 - id: "thk-gladwell", title: "مالكولم غلادويل", type: "مفكر"
 - id: "thk-goleman", title: "دانيال غولمان", type: "مفكر"

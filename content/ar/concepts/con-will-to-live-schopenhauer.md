@@ -18,9 +18,16 @@ related:
 - id: "con-ascetic-denial-of-will", title: "الزهد ونفي الإرادة والشفقة الكونية (Denial of the Will)", type: "مفهوم"
 - id: "con-aesthetic-contemplation-schopenhauer", title: "التأمل الجمالي والتحرر الفني من رغبات الإرادة", type: "مفهوم"
 - id: "con-will-to-power", title: "إرادة القوة (Wille zur Macht)", type: "مفهوم"
+- id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
+- id: "thk-camus", title: "ألبير كامو", type: "مفكر"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
 gaps:
   - "الاقتباس الحرفي من الطبعة الألمانية الأصلية (Die Welt als Wille und Vorstellung، الكتاب الرابع) لم يُراجَع بعد من النص الأولي."
   - "التحليل الإبستمولوجي واللغوي الدقيق لتطور المفهوم عبر تلقّيه الفرنسي (بلوندو) والهندي (تأثر شوبنهاور بالأوبنشاد) يحتاج تفصيلاً أوسع."
+  - "**نُقلت روابطُ المدموج 2026-09-10:** أُضيفت 6 إشارةً كانت في `con-blind-will-to-life` قبل دمجه ولم تكن هنا — وإغفالُها كان سيُخرج عقداً من دائرة الوصول بالتنقّل. والمنقولُ روابطُ المدموج الصادرةُ فقط، بلا اختراعِ صلةٍ جديدة."
 ---
 
 # إرادة الحياة العمياء (Will to Live)

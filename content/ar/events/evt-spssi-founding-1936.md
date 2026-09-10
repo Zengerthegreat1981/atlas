@@ -15,7 +15,7 @@ part: "psychology"
 related:
 - id: "thk-dewey", title: "جون ديوي", type: "مفكر"
 - id: "thk-jdollard", title: "جون دولارد", type: "مفكر"
-- id: "thk-lfestinger", title: "ليون فِستِنغر", type: "مفكر"
+- id: "thk-leon-festinger", title: "ليون فيستنغر (Leon Festinger)", type: "مفكر"
 - id: "thk-gallport", title: "جوردون ألبورت", type: "مفكر"
 - id: "thk-smead", title: "شيري ميد", type: "مفكر"
 - id: "thk-kelly-george", title: "جورج ألكسندر كيلي", type: "مفكر"

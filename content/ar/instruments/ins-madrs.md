@@ -17,7 +17,7 @@ evidence_level: "well-established"
 edges:
   []
 related:
-- id: "ins-ham-d", title: "مقياس هاملتون لتقييم الاكتئاب", type: "أداة قياس"
+- id: "ins-hamilton-hdrs", title: "مقياس هاملتون لتقييم الاكتئاب (HDRS / HAM-D)", type: "أداة قياس"
 - id: "ins-bdi-ii", title: "مقياس بيك للاكتئاب", type: "أداة قياس"
 gaps:
   - "حساسية البنود العشرة للتغير الدوائي السريع تحتاج توثيقاً إضافياً."

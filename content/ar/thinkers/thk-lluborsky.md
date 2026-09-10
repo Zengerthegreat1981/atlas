@@ -16,42 +16,46 @@ edges:
 - rel: "belongs_to", target: "br-cyclical-psychodynamics", target_type: "تيار"
 related:
 - id: "thk-rwachtel", title: "بول ل. واتشتِل", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:
   - "السيرة الذاتية الكاملة في Penn لم تُراجع."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
   - "تصحيح: المؤلف الثاني لدراسة 1975 هو B. Singer (بارتون سنجر)، لا 'L. T. Singer' كما ورد سابقاً في هذا الملف؛ العنوان الكامل هو Luborsky, L., Singer, B., & Luborsky, L. (1975), 'Comparative studies of psychotherapies: Is it true that everyone has won and all must have prizes?', Archives of General Psychiatry, 32, 995-1008."
   - "إسهامه الأشهر إكلينيكياً هو مقياس 'الموضوع الصراعي العلائقي المحوري' (Core Conflictual Relationship Theme - CCRT)، وهو أداة لتحليل أنماط العلاقات المتكررة في سرديات المريض، ولم يكن مذكوراً في المسودة الأصلية رغم كونه أكثر إسهاماته استشهاداً في أدبيات العلاج الديناميكي."
+  - "**نُقل المتنُ من المكرَّر 2026-09-10:** دُمج `thk-jluborsky` في هذا الملفّ، وكان متنُه أغزرَ (576 كلمة مقابل 233) — فنُقل متنُه إلى هنا كاملاً بدل أن يُفقد، لأنّ الباقيَ اختير بصحّة الـslug لا بغزارة المتن. وعنوانُ المتن (`# …`) عُدِّل إلى عنوان هذا الملفّ. والنسخةُ الأصليةُ محفوظةٌ في الأرشيف."
+  - "**نُقلت روابطُ المدموج 2026-09-10:** أُضيفت 1 إشارةً كانت في `thk-jluborsky` قبل دمجه ولم تكن هنا — وإغفالُها كان سيُخرج عقداً من دائرة الوصول بالتنقّل. والمنقولُ روابطُ المدموج الصادرةُ فقط، بلا اختراعِ صلةٍ جديدة."
 ---
 
 # ليستر لوبورسكي
 
-عالم نفس إكلينيكي، أستاذ في جامعة Penn، أحد رواد الأبحاث المضبوطة في فعالية العلاج النفسي (Outcome Research). أطروحته "Dodo Bird Verdict" الشهيرة أثّرت في كل من Wachtel وتيار التكاملي.
+عالم نفس إكلينيكي ومحلّل أمريكي، أستاذ في جامعة بنسلفانيا، ومن مؤسِّسي **«العلاج التعبيري-الداعم»** (Supportive-Expressive Therapy)، وأحد أهمّ من أدخل **منهج البحث التجريبي** إلى قلب التحليل النفسي.
 
 ## ما أعطاه
 
-- **"Dodo Bird Verdict"** (1975، مع B. Singer): القائلة بأن كل العلاجات النفسية تنتج نتائج متقاربة، استناداً إلى مراجعة الأدبيات.
-- **"Supportive-Expressive Therapy"**: نموذج علاجي ديناميكي قصير الأجل، مفصّل في كتابه *Principles of Psychoanalytic Psychotherapy: A Manual for Supportive-Expressive Treatment* (1984).
-- **"Core Conflictual Relationship Theme" (CCRT)**: مقياس منهجي لاستخلاص "الموضوع الصراعي العلائقي المحوري" من سرديات المريض عن علاقاته، ويُعَدّ الأداة المحورية في العلاج الداعم-التعبيري ومن أكثر إسهامات لوبورسكي تأثيراً في أبحاث العملية العلاجية.
-- **"Psychotherapy Research"** كحقل أكاديمي: من المساهمين الكبار في تأسيسه.
-- **كتب**: *Handbook of Psychotherapy and Behavior Change* (محرر، مع P. Crits-Christoph).
+- **حكم طائر الدودو** (1975): في مراجعته مع سينغر ولوبورسكي لكلّ المقارنات المضبوطة المتاحة بين مدارس العلاج، خلص إلى أن الفروق بينها في النتائج ضئيلة أو معدومة، واستعار من *أليس في بلاد العجائب* عبارة الدودو بعد السباق: **«الكلّ فاز، وعلى الجميع أن ينالوا جوائز»**. وهذه الورقة هي ما فتح النقاش الذي لم يُغلق منذ خمسين سنة حول **العوامل المشتركة** بين المدارس (التحالف، والتوقّع، وشخص المعالج) في مقابل التقنيات الخاصة بكلٍّ منها. ومفارقتها أنها صدرت عن محلّل — أي أن أشدّ ضربة وُجّهت إلى تميّز المدارس جاءت من داخل أقدمها.
+
+- **موضوع الصراع العلائقي المركزي** (CCRT، 1976 فصاعداً): أوّل طريقة **مقنَّنة وقابلة للقياس بين مقيّمَين مستقلَّين** لاستخراج ما يسمّيه التحليل «التحويل». يُفرَّغ ما يرويه المريض عن علاقاته إلى وحدات سردية، ثم يُستخرج منها النمط المتكرّر بثلاثة مكوّنات: **الرغبة** (W)، و**استجابة الآخر المتوقَّعة** (RO)، و**استجابة الذات** (RS). وبذلك صار مفهومٌ ظلّ قرناً موضوعَ حدسٍ سريري قابلاً للاختبار — ووجد لوبورسكي أن النمط المستخرج من روايات المريض عن الخارج **يطابق** ما يجري بينه وبين معالجه، وهو أقرب دليل تجريبي أُنتج على وجود التحويل.
+
+- **دليل SET** (*Principles of Psychoanalytic Psychotherapy*, 1984): أوّل **دليل إجرائي** لعلاج ديناميكي — أي أوّل ترجمة للتحليل إلى صيغة تصلح للتجارب المضبوطة. وقد جعل ذلك العلاج الديناميكي قابلاً لأن يُقارَن بـCBT في تصميم واحد، بعد أن كان استثناؤه من التجارب مبرَّراً بأنه «لا يُقنَّن».
 
 ## موقعه من التيار
 
-يقف لوبورسكي عند ملتقى التحليل النفسي، البحث التجريبي، وعلم النفس السريري. تأثيره المحوري في أن صار ممكناً الحديث عن "فعالية" العلاج النفسي بمعايير مضبوطة.
+من «ما بعد فرويد» الأكثر «علمية»، أستاذ في «قسم أبحاث النتائج» في Penn، حلقة وصل بين التحليل النفسي و«الطب النفسي القائم على الأدلة» (Evidence-Based Psychiatry). وأشهر ما أعطاه على الإطلاق **«حُكم طائر الدودو»**: في مراجعته المرجعية مع روث سينغر (1975) بعنوان «هل صحيح أن الجميع فاز وأن على الكلّ أن ينال جائزة؟» قارن نتائج العلاجات النفسية المختلفة فوجد **فروقاً ضئيلة** بينها رغم تباين نظرياتها — ما يرجّح أن **العوامل المشتركة** (التحالف العلاجي، والتوقّع، وعلاقة المعالج) تفسّر معظم الأثر لا التقنية المميّزة. وهي أطروحة ما زالت محور أوسع جدل في بحث فاعلية العلاج إلى اليوم.
+
+## القيد
+«حكم الدودو» نفسه صار محلّ نزاع مستمرّ: يردّ عليه خصومه بأن التكافؤ الظاهر يخفي فروقاً حقيقية في اضطرابات بعينها (كالتعرّض في الوسواس القهري واضطراب ما بعد الصدمة)، وأن المقارنات القديمة كانت ضعيفة القوة الإحصائية فعجزت عن كشف فروق موجودة. ووُجّه إلى لوبورسكي نفسه اعتراض أحرج: أنه أظهر لاحقاً أن **ولاء الباحث** لمدرسته يفسّر جزءاً معتبراً من الفروق المنشورة — وهي نتيجة تُضعف الأدبيات كلّها بما فيها أدبيّاته هو، وقد قالها رغم ذلك.
+
+أما CCRT فيُؤخذ عليه أنه يقيس ما **يرويه** المريض عن علاقاته لا ما يجري فيها، وأن التفريغ يعتمد حكم المقيّم مهما قُنّن.
 
 ## أهم أعماله
 
-- *Handbook of Psychotherapy and Behavior Change* (محرر، مع Crits-Christoph).
-- "Dodo Bird Verdict" (1975).
-- "Countertransference" (مقالات).
+"Comparative Studies of Psychotherapies: Is It True That Everyone Has Won and All Must Have Prizes?" (1975، مع سينغر ولوبورسكي)، *Archives of General Psychiatry* — ورقة «حكم الدودو» · *Principles of Psychoanalytic Psychotherapy: A Manual for Supportive-Expressive Treatment* (1984) · *Understanding Transference: The CCRT Method* (1990، مع بول كريتس-كريستوف) · *Who Will Benefit from Psychotherapy?* (1988، مع آخرين).
 
-## القيد
-- **Dodo Bird Verdict** موضع جدل مستمر، ولا سيما في ضوء الفروقات الفعلية بين العلاجات في فئات بعينها.
+> **تصحيح:** كان هذا الملف يسمّيه **«جوزيف»** وصوابه **لِستر**، ويؤرّخ حياته 1919–2004 وصوابه 1920–2009، وينسب إليه تأسيس **مركز بنسلفانيا لأبحاث الوقاية** — وهو مركز مارتن سليغمان.
 
 ## المصادر
 
-- [Lester Luborsky — Wikipedia](https://en.wikipedia.org/wiki/Lester_Luborsky)
-- [Lester Bernard Luborsky (1920–2009) — Obituary, ResearchGate](https://www.researchgate.net/publication/224046422_Lester_Bernard_Luborsky_1920-2009_Obituary)
-- [Luborsky, L., Singer, B., & Luborsky, L. (1975). Comparative studies of psychotherapies — PubMed](https://pubmed.ncbi.nlm.nih.gov/239666/)
-- [The Dodo Bird Verdict Is Alive and Well—Mostly (2002) — Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1093/clipsy.9.1.2)
-- [Supportive-Expressive Dynamic Psychotherapy — ResearchGate](https://www.researchgate.net/publication/315381649_Supportive-Expressive_Dynamic_Psychotherapy)
+- Lester Luborsky, Wikipedia: https://en.wikipedia.org/wiki/Lester_Luborsky
+- "Lester Bernard Luborsky (1920–2009)", obituary, ResearchGate: https://www.researchgate.net/publication/224046422_Lester_Bernard_Luborsky_1920-2009_Obituary
+- Luborsky, L., Singer, B., & Luborsky, L. (1975). "Comparative Studies of Psychotherapies: Is It True That 'Everyone Has Won and All Must Have Prizes'?" *Archives of General Psychiatry*.
+- Luborsky, L., & Rosenthal, R. (2002). "The Dodo Bird Verdict Is Alive and Well—Mostly." *Clinical Psychology: Science and Practice*: https://onlinelibrary.wiley.com/doi/10.1093/clipsy.9.1.2

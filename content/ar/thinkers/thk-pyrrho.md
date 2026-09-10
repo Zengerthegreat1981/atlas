@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-pyrrhonism", target_type: "مدرسة"
 related:
 - id: "con-epoche-suspension", title: "الإيبوخيه وتعليق الحكم (Epoché)", type: "مفهوم"
-- id: "con-ataraxia-epicurean", title: "الأتاراكسيا والسكينة النفسية (Ataraxia)", type: "مفهوم"
+- id: "con-ataraxia", title: "الأتاراكسيا والسكينة النفسية", type: "مفهوم"
 - id: "sch-pyrrhonism", title: "الشك البيروني", type: "مدرسة"
 - id: "thk-sextus-empiricus", title: "سكستوس إمبيريكوس", type: "مفكر"
 gaps:

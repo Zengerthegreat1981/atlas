@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "br-transactional-analysis", target_type: "تيار"
 related:
 - id: "thk-tony-white", title: "توني وايت", type: "مفكر"
-- id: "thk-eburne", title: "إريك بيرن", type: "مفكر"
+- id: "thk-berne", title: "إريك بيرن", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Verbal Judo: The Gentle Art of Persuasion* (1993) بترجمة عربية معتمدة."
   - "سنة الميلاد مختلَف عليها بين المصادر: Condor Security تذكر 1942، لكن Find a Grave وصحيفة The Citizen (Auburn, NY) في نعيه وActive1/Corrections1 تذكر 5 سبتمبر 1941 (اسمه الكامل: George Jarvis Thompson III). اعتُمد هنا 1941 لتوافق سجلّ الوفاة الرسمي (69 عاماً عند الوفاة في 7 يونيو 2011) مع هذا التاريخ."

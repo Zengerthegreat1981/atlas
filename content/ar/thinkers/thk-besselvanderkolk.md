@@ -18,7 +18,7 @@ related:
 - id: "dbt-trauma-memory-repression", title: "هل يمكن كبت ذكريات الصدمة؟", type: "جدل"
 - id: "thk-jherman", title: "جوديث هِرمان", type: "مفكر"
 - id: "thk-francine-shapiro", title: "فرانسين شابيرو", type: "مفكر"
-- id: "thk-peter-levine", title: "بيتر ليفين", type: "مفكر"
+- id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
 gaps:
   - "إحالة معلَّقة أُزيلت: «أونو فان دير هارت» (thk-van-der-hart) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
   - "لا تتوفّر ترجمة عربية معتمدة لـ*The Body Keeps the Score* (2014) يمكن الاقتباس منها بأرقام صفحات، ولذلك لا اقتباس في هذا المدخل."

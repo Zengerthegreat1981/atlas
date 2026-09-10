@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges: []
 related:
 - id: "thk-panksepp", title: "ياكوب بانكسيب", type: "مفكر"
-- id: "thk-ekman", title: "بول إيكمان", type: "مفكر"
+- id: "thk-paul-ekman", title: "بول إيكمان", type: "مفكر"
 - id: "br-affective-neuroscience-informed", title: "العلاج المستنير بعلم الأعصاب الوجداني", type: "تيار"
 - id: "con-anxiety", title: "القلق", type: "مفهوم"
 - id: "dis-specific-phobia", title: "الرهاب المحدد", type: "اضطراب"

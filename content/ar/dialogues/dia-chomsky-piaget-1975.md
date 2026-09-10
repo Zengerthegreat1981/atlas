@@ -10,7 +10,7 @@ crumb: "الفلسفة والمناظرات الكبرى ← الحوارات و
 active_start: 1975
 active_end: 1975
 related:
-- id: "thk-nchomsky", title: "نعوم تشومسكي", type: "مفكر"
+- id: "thk-noam-chomsky", title: "نعوم تشومسكي", type: "مفكر"
 - id: "thk-piaget", title: "جان بياجيه", type: "مفكر"
 gaps:
   - "لم يُتحقق من وجود ملف مفكر مستقل لجيري فودور (Jerry Fodor) أو هيلاري بوتنام (Hilary Putnam) في الأطلس رغم مشاركتهما الفعلية في المناظرة بمداخلات مؤثرة — إن لم يوجدا فهما مرشحان لطلب slug جديد."

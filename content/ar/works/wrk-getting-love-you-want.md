@@ -17,10 +17,10 @@ original_language: "الإنجليزية"
 active_start: 1988
 active_end: 1988
 edges:
-- rel: "written_by", target: "thk-hhendrix", target_type: "مفكر"
+- rel: "written_by", target: "thk-harville-hendrix", target_type: "مفكر"
 related:
 - id: "sch-imago", title: "العلاج بالـ Imago", type: "مدرسة"
-- id: "thk-hhendrix", title: "هارفيل هندريكس", type: "مفكر"
+- id: "thk-harville-hendrix", title: "هارفيل هندرِكس (Harville Hendrix)", type: "مفكر"
 gaps:
   - "لم يثبت وجود ترجمة عربية منشورة لهذا العمل: بُحث عن مترجم وناشر وسنة ولم يُعثر على أيٍّ منها."
   - "الشاهد التجريبي المستقل على فعالية العلاج بالإيماجو محدود جداً قياساً بانتشار الكتاب وبرامج التدريب المبنية عليه؛ معظم ما يُستشهد به دراسات صغيرة أو غير محكّمة."

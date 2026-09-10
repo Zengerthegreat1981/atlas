@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-imago", target_type: "مدرسة"
 related:
-- id: "thk-hhendrix", title: "هارفيل هندريكس", type: "مفكر"
+- id: "thk-harville-hendrix", title: "هارفيل هندرِكس (Harville Hendrix)", type: "مفكر"
 - id: "con-imago-childhood-wound", title: "جرح الطفولة وصورة الشريك اللاواعية في علاج الإيماغو", type: "مفهوم"
 - id: "sch-imago", title: "العلاج بالـ Imago", type: "مدرسة"
 - id: "tec-imago-dialogue-protocol", title: "بروتوكول حوار الإيماغو الثلاثي: المرآة، التصديق، والتعاطف", type: "تقنية/تدخل علاجي"

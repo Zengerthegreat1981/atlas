@@ -47,7 +47,7 @@ related:
 - id: "evt-esalen-institute-founding-1962", title: "تأسيس معهد إيسالن وانطلاق حركة الإمكانات البشرية في بيغ سور", type: "حدث تاريخي"
 - id: "thk-aboller", title: "أرماند فولكاس", type: "مفكر"
 - id: "thk-brianweiss", title: "برايان وايس", type: "مفكر"
-- id: "thk-cloemadanes", title: "كلوي مادانيس", type: "مفكر"
+- id: "thk-cmadanes", title: "كلوي مادانس", type: "مفكر"
 - id: "thk-danbrown-ddp", title: "دانيال ب. براون", type: "مفكر"
 - id: "thk-david-krauss", title: "ديفيد أ. كراوس", type: "مفكر"
 - id: "thk-deraldwing-sue", title: "ديرالد وينغ سو", type: "مفكر"

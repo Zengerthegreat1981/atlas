@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-- id: "thk-rice", title: "لورا إن. رايس", type: "مفكر"
+- id: "thk-lrice", title: "لورا نورين رايس", type: "مفكر"
 - id: "thk-panksepp", title: "ياكوب بانكسيب", type: "مفكر"
 - id: "tec-eft-individual", title: "العلاج المرتكز على العاطفة للأفراد (EFT)", type: "تقنية/تدخل علاجي"
 - id: "tec-eft-couples", title: "العلاج المرتكز على العاطفة للأزواج (EFT)", type: "تقنية/تدخل علاجي"

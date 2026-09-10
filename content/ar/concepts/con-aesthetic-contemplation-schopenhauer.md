@@ -15,7 +15,7 @@ related:
 - id: "sch-pessimism", title: "التشاؤمية الفلسفية", type: "مدرسة"
 - id: "thk-schopenhauer", title: "أرتور شوبنهاور", type: "مفكر"
 - id: "wrk-the-world-as-will-and-representation-schopenhauer", title: "العالم إرادة وتمثلاً لأرثر شوبنهاور", type: "عمل / كتاب"
-- id: "con-blind-will-to-life", title: "إرادة الحياة العمياء", type: "مفهوم"
+- id: "con-will-to-live-schopenhauer", title: "إرادة الحياة العمياء (Will to Live)", type: "مفهوم"
 - id: "con-ascetic-denial-of-will", title: "الزهد ونفي الإرادة والشفقة الكونية (Denial of the Will)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق بالعربية من 'العالم إرادة وتمثلاً' يصف تجربة التأمل الجمالي بلفظها الأصلي."

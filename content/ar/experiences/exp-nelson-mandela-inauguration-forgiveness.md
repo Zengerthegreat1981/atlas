@@ -15,7 +15,7 @@ related:
 - id: "ctx-civil-rights-liberation-psychology", title: "حركة الحقوق المدنية وتأسيس علم النفس التحرري ونقد المركزية", type: "سياق/تقليد"
 - id: "thk-mandela", title: "نيلسون مانديلا", type: "مفكر"
 - id: "ctx-post-apartheid-south-africa-trc", title: "جنوب أفريقيا بعد الأبارتهايد ولجان الحقيقة والمصالحة الوطنية", type: "سياق/تقليد"
-- id: "con-ubuntu-african-humanism", title: "أوبونتو — الإنسانية التضامنية الأفريقية (Ubuntu)", type: "مفهوم"
+- id: "con-ubuntu", title: "الأوبونتو (Ubuntu)", type: "مفهوم"
 - id: "exp-mandela-robben-island-quarry", title: "سنوات نيلسون مانديلا في سجن جزيرة روبن وتحويل المحنة لمدرسة", type: "خبرة معيشة"
 gaps:
   - "يحتاج المتن اقتباساً حرفياً موثقاً من نص خطاب التنصيب في 10 مايو 1994 بدل الصياغة بالمعنى؛ يُراجع من الأرشيف الرسمي لمؤسسة نيلسون مانديلا."

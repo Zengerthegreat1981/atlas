@@ -15,7 +15,7 @@ crumb: "Imago ← المطوّرون ← ميشيل وينر-ديفيس"
 edges:
 - rel: "belongs_to", target: "sch-imago", target_type: "مدرسة"
 related:
-- id: "thk-hhendrix", title: "هارفيل هندريكس", type: "مفكر"
+- id: "thk-harville-hendrix", title: "هارفيل هندرِكس (Harville Hendrix)", type: "مفكر"
 - id: "thk-sdeshacer", title: "ستيف دي شيزر", type: "مفكر"
 - id: "thk-iberg", title: "إنسو كيم بيرغ", type: "مفكر"
 - id: "sch-imago", title: "العلاج بالـ Imago", type: "مدرسة"

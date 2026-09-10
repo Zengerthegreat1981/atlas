@@ -15,7 +15,7 @@ crumb: "تحليل المعاملات (TA) ← تطوير ← ماري ستيو�
 edges:
 - rel: "belongs_to", target: "br-transactional-analysis", target_type: "تيار"
 related:
-- id: "thk-eburne", title: "إريك بيرن", type: "مفكر"
+- id: "thk-berne", title: "إريك بيرن", type: "مفكر"
 - id: "thk-thomas-harris", title: "توماس أ. هاريس", type: "مفكر"
 - id: "thk-tony-white", title: "توني وايت", type: "مفكر"
 - id: "br-transactional-analysis", title: "تحليل المعاملات (TA)", type: "تيار"

@@ -21,9 +21,18 @@ related:
 - id: "con-imago-childhood-wound", title: "جرح الطفولة وصورة الشريك اللاواعية في علاج الإيماغو", type: "مفهوم"
 - id: "con-imago-dialogue-process", title: "عمليّة الحوار Imago: إعادة اتصال عاطفي", type: "مفهوم"
 - id: "con-imago-fractured-self", title: "الذات المتشظّية في Imago: الجزء الذي يتكرّر", type: "مفهوم"
+- id: "thk-sjohnson", title: "سو جونسون", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "wrk-getting-love-you-want", title: "الحصول على الحب الذي تريده: دليل الأزواج", type: "عمل / كتاب"
+- id: "sch-imago", title: "العلاج بالـ Imago", type: "مدرسة"
+- id: "thk-helen-lakelly-hunt", title: "هيلين لاكيلي هانت (المشاركة في تأسيس علاج إيماغو العلائقي)", type: "مفكر"
+- id: "tec-imago-dialogue", title: "حوار الإيماغو (Imago Dialogue)", type: "تقنية/تدخل علاجي"
 gaps:
   - "تاريخ الانفصال الرسمي عن مشروعه العلاجي (Imago Relationships International) في 2009 يحتاج مراجعة."
   - "لا يوجد اقتباس مباشر موثّق من 'الحصول على الحب الذي تريده' (1988)."
+  - "**نُقلت روابطُ المدموج 2026-09-10:** أُضيفت 8 إشارةً كانت في `thk-hhendrix` قبل دمجه ولم تكن هنا — وإغفالُها كان سيُخرج عقداً من دائرة الوصول بالتنقّل. والمنقولُ روابطُ المدموج الصادرةُ فقط، بلا اختراعِ صلةٍ جديدة."
 ---
 
 # هارفيل هندرِكس (Harville Hendrix)

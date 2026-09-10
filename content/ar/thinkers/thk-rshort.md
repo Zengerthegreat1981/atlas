@@ -15,7 +15,7 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-imago", target_type: "مدرسة"
 related:
-- id: "thk-hhendrix", title: "هارفيل هندريكس", type: "مفكر"
+- id: "thk-harville-hendrix", title: "هارفيل هندرِكس (Harville Hendrix)", type: "مفكر"
 - id: "thk-stephen-lankton", title: "ستيفن لانكتون", type: "مفكر"
 - id: "thk-mwhite", title: "مايكل وايت", type: "مفكر"
 gaps:

@@ -15,13 +15,13 @@ active_start: 1980
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
-- rel: "founded_by", target: "thk-hhendrix", target_type: "مفكر"
-- rel: "co_founded_by", target: "thk-hlkelly", target_type: "مفكر"
+- rel: "founded_by", target: "thk-harville-hendrix", target_type: "مفكر"
+- rel: "co_founded_by", target: "thk-helen-lakelly-hunt", target_type: "مفكر"
 - rel: "influenced_by", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "influenced_by", target: "br-attachment-theory", target_type: "مدرسة"
 related:
 - id: "tec-imago-relationship-therapy", title: "علاج العلاقات إيماغو", type: "تقنية/تدخل علاجي"
-- id: "thk-hhendrix", title: "هارفيل هندريكس", type: "مفكر"
+- id: "thk-harville-hendrix", title: "هارفيل هندرِكس (Harville Hendrix)", type: "مفكر"
 - id: "thk-sjohnson", title: "سو جونسون", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"

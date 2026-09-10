@@ -13,7 +13,7 @@ active_end: "مستمر"
 edges:
   []
 related:
-- id: "thk-nchomsky", title: "نعوم تشومسكي", type: "مفكر"
+- id: "thk-noam-chomsky", title: "نعوم تشومسكي", type: "مفكر"
 - id: "stu-miller-magical-number-seven", title: "دراسة ميلر عن الرقم السحري سبعة وسعة معالجة المعلومات", type: "دراسة وبحث"
 - id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
 gaps:

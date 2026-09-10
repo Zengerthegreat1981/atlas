@@ -19,7 +19,7 @@ edges:
 - rel: "belongs_to", target: "sch-zoroastrian-philosophy", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-zoroaster", target_type: "مفكر"
 related:
-- id: "thk-zarathushtra", title: "زرادشت", type: "مفكر"
+- id: "thk-zoroaster", title: "زرادشت", type: "مفكر"
 - id: "sch-zoroastrian-philosophy", title: "الزرادشتية الفلسفية", type: "مدرسة"
 - id: "con-asha", title: "أشا", type: "مفهوم"
 gaps:

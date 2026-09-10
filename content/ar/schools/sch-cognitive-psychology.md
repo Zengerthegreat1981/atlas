@@ -21,7 +21,7 @@ related:
 - id: "thk-amos-tversky", title: "عاموس تفيرسكي", type: "مفكر"
 - id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
 - id: "thk-elizabeth-loftus", title: "إليزابيث لوفتوس", type: "مفكر"
-- id: "thk-nchomsky", title: "نعوم تشومسكي", type: "مفكر"
+- id: "thk-noam-chomsky", title: "نعوم تشومسكي", type: "مفكر"
 - id: "con-memory", title: "الذاكرة", type: "مفهوم"
 - id: "con-attention", title: "الانتباه", type: "مفهوم"
 - id: "con-cognitive-dissonance", title: "التنافر المعرفي", type: "مفهوم"

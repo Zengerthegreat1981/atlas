@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-anarchism-contemporary", target_type: "مدرسة"
 related:
-- id: "thk-nchomsky", title: "نعوم تشومسكي", type: "مفكر"
+- id: "thk-noam-chomsky", title: "نعوم تشومسكي", type: "مفكر"
 - id: "thk-graeber", title: "ديفيد غريبر", type: "مفكر"
 - id: "sch-anarchism-contemporary", title: "الفوضوية المعاصرة", type: "مدرسة"
 gaps:

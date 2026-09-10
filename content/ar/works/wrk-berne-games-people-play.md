@@ -17,9 +17,9 @@ active_start: 1964
 active_end: 1964
 part: "psychology"
 edges:
-- rel: "authored_by", target: "thk-eburne", target_type: "مفكر"
+- rel: "authored_by", target: "thk-berne", target_type: "مفكر"
 related:
-- id: "thk-eburne", title: "إريك بيرن", type: "مفكر"
+- id: "thk-berne", title: "إريك بيرن", type: "مفكر"
 - id: "thk-thomas-harris", title: "توماس أ. هاريس", type: "مفكر"
 - id: "br-transactional-analysis", title: "تحليل المعاملات (TA)", type: "تيار"
 - id: "tec-ego-state", title: "علاج حالات الأنا (Ego State Therapy)", type: "تقنية/تدخل علاجي"

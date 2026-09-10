@@ -12,7 +12,7 @@ active_end: "مستمر"
 language: "متعدد اللغات"
 edges: []
 related:
-- id: "con-blind-will-to-life", title: "إرادة الحياة العمياء", type: "مفهوم"
+- id: "con-will-to-live-schopenhauer", title: "إرادة الحياة العمياء (Will to Live)", type: "مفهوم"
 - id: "dis-binge-eating-disorder", title: "اضطراب نهم الطعام", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-intellectual-disability", title: "الإعاقة الذهنية", type: "اضطراب/حالة إكلينيكية"
 gaps:

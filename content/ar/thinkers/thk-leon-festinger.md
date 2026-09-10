@@ -19,11 +19,17 @@ related:
 - id: "con-cognitive-dissonance", title: "التنافر المعرفي", type: "مفهوم"
 - id: "wrk-festinger-cognitive-dissonance", title: "التنافر المعرفي (A Theory of Cognitive Dissonance)", type: "عمل / كتاب"
 - id: "con-spotlight-effect", title: "تأثير بقعة الضوء (المبالغة في تقدير انتباه الآخرين لأخطائنا)", type: "مفهوم"
+- id: "thk-klew", title: "كورت لوين", type: "مفكر"
+- id: "con-cognitive-distortion", title: "التشوهات المعرفية", type: "مفهوم"
+- id: "stu-schachter-singer-two-factor-emotion", title: "تجربة شاختر وسينغر لنظرية العاملين للانفعال وحقن الأدرينالين (1962)", type: "دراسة وبحث"
+- id: "thk-sasch", title: "سولومون آش", type: "مفكر"
+- id: "stu-ross-fundamental-attribution-error", title: "دراسة روس عن خطأ الإسناد الأساسي في لعبة المسابقات", type: "دراسة وبحث"
 gaps:
   - "تفاصيل خلاف فيستنغر مع ميلتون روكيش في تفسير 'نظرية المقارنة الاجتماعية' (1954) تحتاج مراجعة."
   - "لا يوجد اقتباس مباشر موثّق من 'When Prophecy Fails'."
   - "تحقّق: active_start = 1945 مؤكَّد (التحق فيستنغر بمركز أبحاث ديناميكيات الجماعة لكيرت لوين في MIT عام 1945 بعد نيله الدكتوراه من آيوا عام 1942؛ مصادر: Britannica، National Academies biographical memoir). لا 1942 كما اقترحت المسودة."
   - "ازدواج ملفات: يوجد ملف آخر بنفس الموضوع (Leon Festinger, 1919-1989) بعنوان thk-lfestinger.md — يحتاج قرار رئيس التحرير لدمج الملفين أو الإحالة بينهما."
+  - "**نُقلت روابطُ المدموج 2026-09-10:** أُضيفت 5 إشارةً كانت في `thk-lfestinger` قبل دمجه ولم تكن هنا — وإغفالُها كان سيُخرج عقداً من دائرة الوصول بالتنقّل. والمنقولُ روابطُ المدموج الصادرةُ فقط، بلا اختراعِ صلةٍ جديدة."
 ---
 
 # ليون فيستنغر (Leon Festinger)

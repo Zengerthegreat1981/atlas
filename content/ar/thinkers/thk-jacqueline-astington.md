@@ -19,7 +19,7 @@ related:
 - id: "con-social-skills", title: "المهارات الاجتماعية (تدريب)", type: "مفهوم"
 - id: "br-transactional-analysis", title: "تحليل المعاملات (TA)", type: "تيار"
 - id: "thk-tony-white", title: "توني وايت", type: "مفكر"
-- id: "thk-eburne", title: "إريك بيرن", type: "مفكر"
+- id: "thk-berne", title: "إريك بيرن", type: "مفكر"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."

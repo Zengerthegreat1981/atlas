@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-amncube", title: "ألبرت مْنكوبِي", type: "مفكر"
 - id: "thk-bdanner", title: "بيرنارد دانِفَر", type: "مفكر"
-- id: "thk-jbiko", title: "ستيفن بيكو النفسي", type: "مفكر"
+- id: "thk-biko", title: "ستيف بيكو", type: "مفكر"
 - id: "thk-nmanganyi", title: "إن تشاباني مَنغاني", type: "مفكر"
 - id: "thk-ttshishiku", title: "تِمُوتي تشيشيكو", type: "مفكر"
 gaps:

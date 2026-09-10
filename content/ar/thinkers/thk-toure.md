@@ -21,7 +21,7 @@ related:
 - id: "sch-african-socialism", title: "الاشتراكية الأفريقية", type: "مدرسة"
 - id: "sch-pan-africanism", title: "عموم أفريقيا", type: "مدرسة"
 - id: "sch-marxism", title: "الماركسية", type: "مدرسة"
-- id: "con-ubuntu-african-humanism", title: "أوبونتو — الإنسانية التضامنية الأفريقية (Ubuntu)", type: "مفهوم"
+- id: "con-ubuntu", title: "الأوبونتو (Ubuntu)", type: "مفهوم"
 gaps:
   - "مقارنة سياسات توري الاقتصاديّة بنموذج تانزانيا (Nyerere) لم تُحلَّل أكاديمياً."
   - "لا توجد ترجمة عربية لكتاباته حول 'L'Unité africaine'."

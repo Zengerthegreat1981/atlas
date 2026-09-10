@@ -14,7 +14,7 @@ active_end: "مستمر"
 crumb: "علم النفس المعرفي واللسانيات التطورية ← الناس ← ستيفن بينكر"
 edges:
 related:
-- id: "thk-nchomsky", title: "نعوم تشومسكي", type: "مفكر"
+- id: "thk-noam-chomsky", title: "نعوم تشومسكي", type: "مفكر"
 - id: "thk-daniel-dennett", title: "دانيال دينيت", type: "مفكر"
 - id: "thk-richard-dawkins", title: "ريتشارد دوكينز", type: "مفكر"
 - id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"

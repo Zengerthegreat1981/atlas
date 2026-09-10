@@ -3,48 +3,27 @@ slug: "thk-michael-yapko-jr"
 id: "THK-2721"
 type: "مفكر"
 level: "مبتدئ"
-title: "مايكل يابكو"
-en: "Michael D. Yapko"
-dates: "الولايات المتحدة · [غير مؤكد]"
-country: "الولايات المتحدة"
-language: "الإنجليزية"
-active_start: 1983
-active_end: "مستمر"
 part: "psychology"
-crumb: "التنويم الإريكسوني ← تطوير ← مايكل يابكو"
-edges:
-- rel: "belongs_to", target: "tec-ericksonian-hypnotherapy", target_type: "تقنية/تدخل علاجي"
+title: "مايكل يابكو — إحالة، انظر thk-michael-yapko"
+en: "Merged — see thk-michael-yapko"
+crumb: "التنويم الإريكسوني ← [إحالة]"
+active_start: null
+active_end: null
+redirect_to: "thk-michael-yapko"
+edges: []
 related:
-- id: "thk-merickson", title: "ميلتون إريكسون", type: "مفكر"
+- id: "thk-michael-yapko", title: "مايكل يابكو", type: "مفكر"
 gaps:
-  - "**تصحيح 2026-08-27:** الملف كان يحمل خلطاً كاملاً مع شخص باسم 'Daniel P. Behnke' في نسخة سابقة؛ صُحِّح المتن ليطابق الـslug والـen (Michael D. Yapko) فقط. لقب «الابن» في العنوان كان خطأً — لا يُعرف مايكل د. يابكو بلقب Jr.، فحُذف من العنوان."
-  - "سنة الميلاد غير موثّقة بمصدر أولي؛ لا تُذكر في frontmatter تجنباً للتخمين."
-  - "روابط related السابقة إلى thk-jzeig وthk-erossi وthk-ebateson وthk-wsobol أُزيلت لأن الملفات المستهدفة غير موجودة في الأطلس."
+  - "**دُمج 2026-09-10:** كان في الأطلس ملفّان لهذا المدخل. مسوّغُ الدمج: ملفّان لمايكل يابكو؛ ولاحقةُ `-jr` لا سندَ لها. والباقي `thk-michael-yapko` لأنّ متنَه أغزر (271 كلمة مقابل 154)."
+  - "الـslug باقٍ ولم يُحذف عملاً بقاعدة المستودع في عدم إعادة التسمية، فكلُّ رابطٍ واردٍ من خارج المستودع يصل إلى هذه الإحالة. وكلُّ إشاراتِ الأطلس الداخليةِ أُعيدت كتابتُها إلى `thk-michael-yapko` مباشرةً. النسخةُ الأصلية في `agents_specs/merge-archive-2026-09-10/thk-michael-yapko-jr.md.archived.2026-09-10`."
 ---
 
-# مايكل يابكو
+# مايكل يابكو — إحالة
 
-معالج نفسي أمريكي، من أبرز روّاد **التنويم الإريكسوني** (Ericksonian Hypnosis) وتطبيقه في علاج الاكتئاب.
+**دُمج هذا الملف.** المعالجةُ الكاملةُ في `thk-michael-yapko` — «مايكل يابكو».
 
-## ما أعطاه
-
-- **«Trancework: An Introduction to the Practice of Clinical Hypnosis»** (1983): الكتاب المرجعي الأول في التنويم الإكلينيكي، يُدرَّس في عشرات برامج التدريب.
-- **«When Living Hurts: A Book of Hope»** (1989): عن الاكتئاب من منظور تنويمي.
-- **«Breaking the Patterns of Depression»** (1997): عن استخدام التنويم في علاج الاكتئاب.
-- **«Suggestions of Abuse: True or False?»** (1994): عن ذكريات الطفولة المُسترجعة.
-- **«Hypnosis and the Treatment of Depression: Strategies for Change»** (2001).
-
-## موقعه من التيار
-
-تنتمي كتاباته إلى تقاطع **«التنويم الإريكسوني»** (تلمذته على تراث ميلتون إريكسون) و**«علاج الاكتئاب»** بمقاربة إكلينيكية تطبيقية.
-
-## شُبَكُه العلمية
-
-- **ميلتون إريكسون (Milton H. Erickson, 1901–1980)**: المصدر التأسيسي للتنويم الإريكسوني الذي بنى عليه يابكو عمله.
+ملفّان لمايكل يابكو؛ ولاحقةُ `-jr` لا سندَ لها.
 
 ## المصادر
 
-- Yapko, M. (1983). *Trancework*. Brunner/Mazel.
-- Yapko, M. (1997). *Breaking the Patterns of Depression*. Broadway Books.
-- Yapko, M. (2001). *Hypnosis and the Treatment of Depression*. Brunner/Routledge.
-- Yapko, M. (1994). *Suggestions of Abuse*. Brunner/Mazel.
+التوثيقُ البيبليوغرافيُّ في الملفِّ المُحال إليه `thk-michael-yapko`، لا في هذه الإحالة.

@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-imago", target_type: "مدرسة"
 related:
-- id: "thk-hhendrix", title: "هارفيل هندريكس", type: "مفكر"
+- id: "thk-harville-hendrix", title: "هارفيل هندرِكس (Harville Hendrix)", type: "مفكر"
 - id: "sch-imago", title: "العلاج بالـ Imago", type: "مدرسة"
 - id: "con-imago-fractured-self", title: "الذَّات الْمُتَشَظِّيَة فِي Imago: الجُزْء الَّذِي يَتَكَرَّر", type: "مفهوم"
 - id: "tec-imago-dialogue", title: "حوار الإيماغو (Imago Dialogue)", type: "تقنية/تدخل علاجي"

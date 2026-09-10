@@ -19,12 +19,11 @@ edges:
 related:
 - id: "thk-klew", title: "كورت لوين", type: "مفكر"
 - id: "thk-sasch", title: "سولومون آش", type: "مفكر"
-- id: "wrk-obedience-to-authority", title: "الانصياع للسلطة", type: "عمل / كتاب"
+- id: "wrk-milgram-obedience-authority", title: "الطاعة للسلطة (Obedience to Authority)", type: "عمل / كتاب"
 - id: "stu-milgram-obedience", title: "تجربة ميلغرام للطاعة والسلطة", type: "دراسة وبحث"
 - id: "con-agentic-state-milgram", title: "الحالة الوكالية والانصياع للسلطة", type: "مفهوم"
 - id: "con-bystander-effect", title: "تأثير المتفرج وتشتت المسؤولية", type: "مفهوم"
 - id: "thk-philip-zimbardo", title: "فيليب زيمباردو", type: "مفكر"
-- id: "wrk-milgram-obedience-authority", title: "الطاعة للسلطة (Obedience to Authority)", type: "عمل / كتاب"
 gaps:
   - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "تفاصيل نشأته في نيويورك قبل دراسته الجامعية لم تُراجع من مصدر أولي."

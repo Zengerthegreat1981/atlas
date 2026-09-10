@@ -11,9 +11,9 @@ active_start: null
 active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-social-psychology", target_type: "مدرسة"
-- rel: "formulated_by", target: "thk-lfestinger", target_type: "مفكر"
+- rel: "formulated_by", target: "thk-leon-festinger", target_type: "مفكر"
 related:
-- id: "thk-lfestinger", title: "ليون فِستِنغر", type: "مفكر"
+- id: "thk-leon-festinger", title: "ليون فيستنغر (Leon Festinger)", type: "مفكر"
 - id: "stu-festinger-cognitive-dissonance", title: "تجربة فستنجر وكارلسميث للتنافر المعرفي والتعويض غير الكافي", type: "دراسة وبحث"
 - id: "con-cognitive-dissonance", title: "التنافر المعرفي", type: "مفهوم"
 gaps:

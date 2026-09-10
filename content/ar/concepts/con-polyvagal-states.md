@@ -19,7 +19,6 @@ related:
 - id: "con-polyvagal-theory", title: "النظرية العصبية المبهمية المتعددة (Polyvagal Theory)", type: "مفهوم"
 - id: "con-polyvagal-theory-popular", title: "السلم العصبي المبهم والتنظيم الذاتي (Polyvagal Ladder)", type: "مفهوم"
 - id: "con-window-of-tolerance", title: "نافذة التحمل (Window of Tolerance)", type: "مفهوم"
-- id: "con-window-of-tolerance-detailed", title: "نافذة التحمل — مفصَّل (Window of Tolerance — Detailed)", type: "مفهوم"
 - id: "con-neuroception-polyvagal", title: "النيوروسبشن (Neuroception) والحالات العصبية المبهمية", type: "مفهوم"
 - id: "con-attachment-styles", title: "أساليب التعلق (Attachment Styles)", type: "مفهوم"
 gaps:

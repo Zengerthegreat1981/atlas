@@ -16,7 +16,7 @@ main_finding: "من حصلوا على دولار واحد فقط لقاء الك
 replication_status: "replicated"
 related:
 - id: "con-cognitive-dissonance", title: "التنافر المعرفي", type: "مفهوم"
-- id: "thk-lfestinger", title: "ليون فِستِنغر", type: "مفكر"
+- id: "thk-leon-festinger", title: "ليون فيستنغر (Leon Festinger)", type: "مفكر"
 - id: "trm-cognitive-dissonance", title: "التَّنَاقُض المعرفي (Cognitive Dissonance)", type: "مصطلح لغوي متنازع عليه"
 gaps:
   - "**دُقِّق مسار التنقّل 2026-09-08:** كان الوسمُ الأول «علم النفس» عامّاً (وُضع عند تصحيح وسمِ «المدرسة الوجودية» الخاطئ)، ورُفع إلى «علم النفس الاجتماعي» بخريطةٍ يدوية."

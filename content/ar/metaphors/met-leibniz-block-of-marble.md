@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-continental-rationalism", target_type: "مدرسة"
 related:
 - id: "thk-leibniz", title: "غوتفريد فيلهلم لايبنتز", type: "مفكر"
-- id: "thk-nchomsky", title: "نعوم تشومسكي", type: "مفكر"
+- id: "thk-noam-chomsky", title: "نعوم تشومسكي", type: "مفكر"
 - id: "wrk-new-essays-on-human-understanding-leibniz", title: "أبحاث جديدة في الفهم البشري للايبنتز", type: "عمل / كتاب"
 gaps:
   - "المقدمة التي وردت فيها استعارة الرخام كُتبت بالفرنسية ونُشرت بعد وفاة لايبنتز بنحو نصف قرن (1765)؛ لا يوجد توثيق بعد لموقعها تحديداً من الحوار بين شخصيتي فيلاليت (Philalèthe) وتيوفيل (Théophile) في متن الكتاب."

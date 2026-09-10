@@ -21,11 +21,15 @@ related:
 - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
 - id: "br-transactional-analysis", title: "تحليل المعاملات (TA)", type: "تيار"
 - id: "sch-ipt", title: "العلاج بين الأشخاص (IPT)", type: "مدرسة"
+- id: "thk-aabrer", title: "كارل أبراهام", type: "مفكر"
+- id: "thk-sferenczi", title: "ساندور فيرينتسي", type: "مفكر"
+- id: "thk-tony-white", title: "توني وايت", type: "مفكر"
 gaps:
   - "مفهوم 'الألعاب النفسية' (Games People Play) يحتاج مراجعة منهجية في ضوء علم النفس المعاصر."
   - "علاقته بـPaul Federn وErik Erikson لم تُوثَّق في رسائل شخصية."
   - "لا توجد ترجمة عربية لـTransactional Analysis in Psychotherapy (1961)."
   - "تصحيح (تحقّق ويب 2026-09-03): كان بيرن مقيماً نفسياً (resident) في Yale لا مُدرِّساً؛ صُحِّح المتن. تأسيس ITAA كان عام 1964 لا 1958. صيغة الألعاب النفسية الموثَّقة هي 'Formula G' (Con+Gimmick=Response-Switch-Crossup-Payoff) لا 'AHT' كما ورد سابقاً — حُذف المصطلح المُلفَّق. The Happy Valley (1968) كتاب حكائي رمزي لا مذكرات شخصية."
+  - "**نُقلت روابطُ المدموج 2026-09-10:** أُضيفت 3 إشارةً كانت في `thk-eburne` قبل دمجه ولم تكن هنا — وإغفالُها كان سيُخرج عقداً من دائرة الوصول بالتنقّل. والمنقولُ روابطُ المدموج الصادرةُ فقط، بلا اختراعِ صلةٍ جديدة."
 ---
 
 # إريك بيرن

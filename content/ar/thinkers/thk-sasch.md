@@ -21,7 +21,7 @@ related:
 - id: "stu-asch-conformity", title: "تجربة آش للامتثال والضغط الجماعي", type: "دراسة وبحث"
 - id: "thk-stanley-milgram", title: "ستانلي ميلغرام", type: "مفكر"
 - id: "thk-philip-zimbardo", title: "فيليب زيمباردو", type: "مفكر"
-- id: "thk-lfestinger", title: "ليون فِستِنغر", type: "مفكر"
+- id: "thk-leon-festinger", title: "ليون فيستنغر (Leon Festinger)", type: "مفكر"
 - id: "con-bystander-effect", title: "تأثير المتفرج وتشتت المسؤولية", type: "مفهوم"
 - id: "stu-lewin-leadership-climates", title: "دراسة كيرت ليفين للمناخات والأنماط القيادية الثلاثة (1939)", type: "دراسة وبحث"
 gaps:

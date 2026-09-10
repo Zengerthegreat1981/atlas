@@ -41,7 +41,7 @@ related:
 - id: "tec-act-def-leaves-on-a-stream", title: "أوراق على النهر", type: "تقنية/تدخل علاجي"
 - id: "syn-craving-urge", title: "الرغبة الملحّة", type: "متلازمة"
 - id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
-- id: "con-blind-will-to-life", title: "إرادة الحياة العمياء", type: "مفهوم"
+- id: "con-will-to-live-schopenhauer", title: "إرادة الحياة العمياء (Will to Live)", type: "مفهوم"
 gaps:
   - "التفاصيل الدقيقة لتمييز Kleptomania عن السرقة العادية (في DSM-5-TR و ICD-11) لم تُراجع من المصدر الأولي."
   - "الفاعلية المحدودة لـ Naltrexone و SSRIs في Kleptomania لم تُقارَن بدقة من مصدر أولي."

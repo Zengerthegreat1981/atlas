@@ -17,10 +17,10 @@ original_language: "الإنجليزية"
 active_start: 1999
 active_end: 1999
 edges:
-- rel: "written_by", target: "thk-marshall-rosenberg", target_type: "مفكر"
+- rel: "written_by", target: "thk-msrosenberg", target_type: "مفكر"
 related:
 - id: "con-nonviolent-communication", title: "التواصل غير العنيف (لغة التعاطف وفض النزاعات NVC)", type: "مفهوم"
-- id: "thk-marshall-rosenberg", title: "مارشال روزنبرغ", type: "مفكر"
+- id: "thk-msrosenberg", title: "مارشال روزنبرغ (التواصل اللاعنفي)", type: "مفكر"
 gaps:
   - "رقم توزيع بعينه (نسخ مباعة، عدد لغات الترجمة) لم يثبت بمصدر مستقل موثوق مسند إلى هذا الكتاب تحديداً، فحُذف من المتن."
   - "لم يثبت وجود ترجمة عربية منشورة لهذا العمل بثلاثيّ مترجم وناشر وسنة: بُحث عنها ولم يُعثر على ما يثبتها بثقة كافية."

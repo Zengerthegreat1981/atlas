@@ -13,7 +13,7 @@ edges:
 - rel: "relates_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
 - id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
-- id: "thk-nchomsky", title: "نعوم تشومسكي", type: "مفكر"
+- id: "thk-noam-chomsky", title: "نعوم تشومسكي", type: "مفكر"
 gaps:
   - "تاريخ أول بناء فعلي للجهاز في مختبر سكينر بجامعة هارفارد (أواخر العشرينيات) غير موثّق بدقة يوم-بيوم، فقط سنة النشر العلمي 1938 مؤكدة."
   - "لا يوجد رابط معتمد في الأطلس لمفهوم 'التعزيز الإيجابي' (con-positive-reinforcement) ليُربط صراحة."

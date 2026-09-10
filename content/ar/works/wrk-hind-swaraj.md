@@ -21,7 +21,7 @@ related:
 - id: "sch-gandhianism", title: "الغاندية (كفلسفة سياسية-أخلاقية)", type: "مدرسة"
 - id: "thk-gandhi", title: "موهانداس كرمشاند غاندي", type: "مفكر"
 - id: "con-satyagraha", title: "ساتياغراها (قوة الحقيقة)", type: "مفهوم"
-- id: "con-ahimsa-non-violence", title: "الأهيمسا واللا-عنف الشامل في الفكر الهندي (Ahimsa)", type: "مفهوم"
+- id: "con-ahimsa", title: "أحيمسا (مبدأ اللاإيذاء)", type: "مفهوم"
 - id: "exp-gandhi-pietermaritzburg-train-ejection", title: "طرد غاندي من قطار بيترماريتزبرغ (1893) وميلاد فلسفة الساتياغراها", type: "خبرة معيشة"
 - id: "dbt-tagore-vs-gandhi", title: "طاغور ضد غاندي: الوحدة الروحية أم العمل السياسي المباشر؟", type: "جدل"
 - id: "dbt-ambedkar-vs-gandhi-caste", title: "أمبيدكار ضد غاندي: إصلاح الطبقية أم إبادتها؟", type: "جدل"

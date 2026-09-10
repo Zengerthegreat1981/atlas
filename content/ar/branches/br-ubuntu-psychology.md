@@ -20,7 +20,7 @@ related:
 - id: "thk-mramose", title: "مويبِنغ ديزموند ماغوناو رَموسي", type: "مفكر"
 - id: "thk-bdanner", title: "بيرنارد دانِفَر", type: "مفكر"
 - id: "thk-ttshishiku", title: "تِمُوتي تشيشيكو", type: "مفكر"
-- id: "thk-jbiko", title: "ستيفن بيكو النفسي", type: "مفكر"
+- id: "thk-biko", title: "ستيف بيكو", type: "مفكر"
 - id: "thk-dtutu", title: "ديزموند توتو", type: "مفكر"
 - id: "con-ubuntu", title: "الأوبونتو (Ubuntu)", type: "مفهوم"
 gaps:

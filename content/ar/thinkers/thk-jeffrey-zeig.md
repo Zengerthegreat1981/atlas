@@ -18,7 +18,7 @@ related:
 - id: "thk-merickson", title: "ميلتون إريكسون", type: "مفكر"
 - id: "con-utilization-principle", title: "مبدأ الاستفادة", type: "مفهوم"
 - id: "thk-erickson-erl", title: "إرنست لورنس روسي", type: "مفكر"
-- id: "thk-michael-yapko-jr", title: "مايكل يابكو", type: "مفكر"
+- id: "thk-michael-yapko", title: "مايكل يابكو", type: "مفكر"
 - id: "thk-stephen-lankton", title: "ستيفن لانكتون", type: "مفكر"
 - id: "thk-bill-ohanlon", title: "وليام هدسون أوهانلون", type: "مفكر"
 gaps:

@@ -17,7 +17,6 @@ edges:
 related:
 - id: "wrk-self-compassion-neff", title: "التعاطف مع الذات: القوة المثبتة لمعاملة نفسك بلطف", type: "عمل / كتاب"
 - id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
-- id: "wrk-self-compassion", title: "الذات المتعاطفة: القوة المثبتة للطف مع نفسك", type: "عمل / كتاب"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق من *Self-Compassion: The Proven Power of Being Kind to Yourself* (2011) بترجمة عربية معتمدة."

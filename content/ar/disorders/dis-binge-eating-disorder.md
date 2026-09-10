@@ -32,7 +32,7 @@ related:
 - id: "tec-dbt-er-opposite-action", title: "الفعل المعاكس", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-check-the-facts", title: "مراجعة الحقائق", type: "تقنية/تدخل علاجي"
 - id: "tec-behavioral-activation", title: "التنشيط السلوكي", type: "تقنية/تدخل علاجي"
-- id: "con-blind-will-to-life", title: "إرادة الحياة العمياء", type: "مفهوم"
+- id: "con-will-to-live-schopenhauer", title: "إرادة الحياة العمياء (Will to Live)", type: "مفهوم"
 - id: "syn-craving-urge", title: "الرغبة الملحّة (craving)", type: "متلازمة"
 - id: "syn-night-eating", title: "متلازمة الأكل الليلي (Night Eating Syndrome)", type: "متلازمة"
 - id: "syn-prader-willi-hyperphagia", title: "متلازمة برادر–فيلي السلوكية الغذائية (النهام القهري الوراثي)", type: "متلازمة"

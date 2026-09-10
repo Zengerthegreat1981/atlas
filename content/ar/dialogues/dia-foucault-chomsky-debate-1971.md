@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-post-structuralism", target_type: "مدرسة"
 related:
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
-- id: "thk-nchomsky", title: "نعوم تشومسكي", type: "مفكر"
+- id: "thk-noam-chomsky", title: "نعوم تشومسكي", type: "مفكر"
 gaps:
   - "لم يُراجع تسجيل الفيديو الأصلي مباشرة؛ الاعتماد هنا على نص المناظرة المنشور في كتاب Human Nature: Justice versus Power (Souvenir Press, 1974)."
 ---

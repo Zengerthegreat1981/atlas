@@ -16,7 +16,7 @@ edges:
 related:
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "con-neuroplasticity", title: "اللدونة العصبية (Neuroplasticity)", type: "مفهوم"
-- id: "thk-peter-levine", title: "بيتر ليفين", type: "مفكر"
+- id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
 - id: "sch-somatic-experiencing", title: "التجربة الجسدية (Somatic Experiencing)", type: "مدرسة"
 - id: "thk-dsiegel", title: "دان سيغل", type: "مفكر"
 - id: "con-window-of-tolerance", title: "نافذة التحمل (Window of Tolerance)", type: "مفهوم"

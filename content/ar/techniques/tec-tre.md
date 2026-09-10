@@ -14,7 +14,7 @@ language: "الإنجليزية"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
-- rel: "developed_by", target: "thk-jboss", target_type: "مفكر"
+- rel: "developed_by", target: "thk-david-berceli", target_type: "مفكر"
 related:
 - id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
 - id: "thk-david-berceli", title: "ديفيد بيرسيلي", type: "مفكر"

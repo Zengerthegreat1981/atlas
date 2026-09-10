@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
 - id: "sch-phenomenology-somatic", title: "الظاهراتية الجسدية (Somatic Phenomenology)", type: "مدرسة"
-- id: "wrk-phenomenology-of-perception-merleau-ponty", title: "فينومينولوجيا الإدراك لموريس ميرلوبونتي", type: "عمل"
+- id: "wrk-phenomenology-perception-merleau-ponty", title: "ظاهراتية الإدراك (Phénoménologie de la perception) - ميرلوبونتي", type: "عمل / كتاب"
 - id: "con-body-schema", title: "مخطط الجسد (Body Schema): النظام اللاواعي للحركة", type: "مفهوم"
 gaps:
   - "لا يوجد ملف عمل مخصص لكتاب مرلو-بونتي غير المكتمل 'المرئي واللامرئي' (Le Visible et l'invisible، 1964) الذي صيغ فيه مفهوم الكيازما نفسه."

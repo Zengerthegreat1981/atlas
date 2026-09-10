@@ -21,13 +21,17 @@ related:
 - id: "br-psychosynthesis", title: "التركيب النفسي (أساجيولي)", type: "تيار"
 - id: "thk-glasser", title: "ويليام غلاسر", type: "مفكر"
 - id: "thk-rollnick", title: "ستيفن رولنيك", type: "مفكر"
-- id: "thk-rice", title: "لورا إن. رايس", type: "مفكر"
+- id: "thk-lrice", title: "لورا نورين رايس", type: "مفكر"
 - id: "thk-dabrowski", title: "كازيمير دابروفسكي", type: "مفكر"
 - id: "thk-farrelly", title: "فرانك فاريلي", type: "مفكر"
 - id: "thk-lieberman", title: "أليسيا ليبرمان", type: "مفكر"
+- id: "sch-transpersonal", title: "علم النفس عبر الشخصي (Transpersonal Psychology)", type: "مدرسة"
+- id: "con-unconscious", title: "اللاشعور / اللاوعي النفسي الكلاسيكي (The Unconscious)", type: "مفهوم"
+- id: "con-self-actualization", title: "تحقيق الذات (Self-Actualization)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *The Act of Will* (1973) بترجمة عربية معتمدة."
   - "قائمة أعماله الكاملة بالعناوين الإيطالية الأصلية تحتاج تحقق أدق (توجد إشارات متضاربة لعنوان أطروحته المبكرة ولتواريخ بعض المقالات)."
+  - "**نُقلت روابطُ المدموج 2026-09-10:** أُضيفت 3 إشارةً كانت في `thk-robert-assagioli` قبل دمجه ولم تكن هنا — وإغفالُها كان سيُخرج عقداً من دائرة الوصول بالتنقّل. والمنقولُ روابطُ المدموج الصادرةُ فقط، بلا اختراعِ صلةٍ جديدة."
 ---
 
 # روبرتو أساجيولي

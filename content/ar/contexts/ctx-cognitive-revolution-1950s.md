@@ -13,7 +13,7 @@ active_end: 1960
 edges:
 - rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "thk-nchomsky", title: "نعوم تشومسكي", type: "مفكر"
+- id: "thk-noam-chomsky", title: "نعوم تشومسكي", type: "مفكر"
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 gaps:
   - "محاضر ندوة المعلومات النظرية بمعهد MIT (11-13 سبتمبر 1956) بكامل أوراقها لم تُراجع مباشرة؛ الاعتماد هنا على وصف جورج ميلر اللاحق للحدث."

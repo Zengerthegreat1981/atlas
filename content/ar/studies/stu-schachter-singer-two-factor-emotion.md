@@ -17,7 +17,7 @@ replication_status: "contested"
 edges:
   []
 related:
-- id: "thk-lfestinger", title: "ليون فِستِنغر", type: "مفكر"
+- id: "thk-leon-festinger", title: "ليون فيستنغر (Leon Festinger)", type: "مفكر"
 - id: "stu-dutton-aron-suspension-bridge", title: "تجربة دونالد داتون وآرثر آرون للجسر المعلق والجاذبية العاطفية (1974)", type: "دراسة وبحث"
 gaps:
   - "حقن مادة الإبينفرين (Suproxin الوهمي) والتفاعل مع ممثل متفائل ومرح أو ممثل غاضب ومستفز."

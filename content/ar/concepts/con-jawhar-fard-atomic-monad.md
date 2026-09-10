@@ -17,7 +17,7 @@ related:
 - id: "con-atom-void", title: "الذرة والفراغ المادي (Atom and Void)", type: "مفهوم"
 - id: "con-occasionalism-kalam-atomic", title: "العرضية الذرية ونفي السببية الذاتية في الكلام (Occasionalism)", type: "مفهوم"
 - id: "con-logical-atomism-concept", title: "الذرية المنطقية وتطابق اللغة والواقع (Logical Atomism)", type: "مفهوم"
-- id: "con-substance-and-accident", title: "الجوهر والعرض (Substance and Accident)", type: "مفهوم"
+- id: "con-substance-accident", title: "الجوهر والعرض (Substance / Accident)", type: "مفهوم"
 gaps:
   - "التحليل الإبستمولوجي واللغوي الدقيق لتطور المفهوم عبر التاريخ."
   - "لم يُعثر بعد على اقتباس أصلي موثّق من نصوص الأشعري يمكن إسناده مباشرة لهذا المفهوم."

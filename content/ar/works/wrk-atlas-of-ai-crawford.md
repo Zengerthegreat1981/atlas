@@ -18,7 +18,7 @@ edges:
 - rel: "belongs_to", target: "sch-ai-ethics", target_type: "مدرسة"
 related:
 - id: "sch-ai-ethics", title: "أخلاقيات الذكاء الاصطناعي", type: "مدرسة"
-- id: "thk-ekman", title: "بول إيكمان", type: "مفكر"
+- id: "thk-paul-ekman", title: "بول إيكمان", type: "مفكر"
 - id: "stu-ekman-original-facial", title: "دراسات إكمان الأصلية عن عالمية تعبيرات الوجه", type: "دراسة"
 - id: "stu-himba-facial", title: "دراسة الهيمبا حول تصنيف تعبيرات الوجه", type: "دراسة"
 - id: "thk-floridi", title: "لوشيانو فلوريدي", type: "مفكر"

@@ -18,7 +18,7 @@ related:
 - id: "br-ubuntu-psychology", title: "علم نفس الأوبونتو", type: "تيار"
 - id: "thk-mramose", title: "مويبِنغ ديزموند ماغوناو رَموسي", type: "مفكر"
 - id: "thk-dtutu", title: "ديزموند توتو", type: "مفكر"
-- id: "thk-jbiko", title: "ستيفن بيكو", type: "مفكر"
+- id: "thk-biko", title: "ستيف بيكو", type: "مفكر"
 gaps:
   - "سنة الميلاد بالتحديد (1940) موثقة في عدة مراجع."
   - "الترجمة العربية لاسمه اجتهادية (الأصح: تشاباني مانغاني)."

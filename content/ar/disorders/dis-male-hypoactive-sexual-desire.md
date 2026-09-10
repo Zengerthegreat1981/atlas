@@ -22,7 +22,7 @@ related:
 - id: "tec-cbt-cog-cognitive-reframing", title: "إعادة الصياغة/التأطير المعرفي", type: "تقنية/تدخل علاجي"
 - id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
 - id: "tec-sex-therapy-overview", title: "العلاج الجنسي (Sex Therapy)", type: "تقنية/تدخل علاجي"
-- id: "con-blind-will-to-life", title: "إرادة الحياة العمياء", type: "مفهوم"
+- id: "con-will-to-live-schopenhauer", title: "إرادة الحياة العمياء (Will to Live)", type: "مفهوم"
 gaps:
   - "التفاصيل الدقيقة لمعايير DSM-5-TR لم تُراجع من المصدر الأولي."
   - "الفاعلية المقارنة للعلاج الدوائي (testosterone) والعلاج النفسي غير موثقة بدقة."

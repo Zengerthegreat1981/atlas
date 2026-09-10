@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-rmdoblin", title: "ريك دابلن", type: "مفكر"
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
-- id: "thk-griffiths", title: "رولاند غريفيثز", type: "مفكر"
+- id: "thk-roland-griffiths", title: "رولاند غريفثز", type: "مفكر"
 - id: "thk-kmithoefer", title: "آن ميثوفر", type: "مفكر"
 - id: "thk-mmithoefer", title: "مايكل ميثوفير", type: "مفكر"
 gaps:

@@ -18,7 +18,6 @@ edges:
 related:
 - id: "wrk-instructions-ptahhotep", title: "تعاليم بتاح حتب", type: "عمل / كتاب"
 - id: "wrk-maxims-ptahhotep", title: "حكم وتعاليم بتاح حتب", type: "عمل / كتاب"
-- id: "con-maat-ethics", title: "ماعت — النظام الأخلاقي والكوني (Ma'at)", type: "مفهوم"
 - id: "con-maat", title: "ماعت (التناغم الكوني)", type: "مفهوم"
 - id: "sch-egyptian-maat", title: "تقليد الحكمة المصرية (ماعت)", type: "مدرسة"
 gaps:

@@ -15,7 +15,7 @@ part: "psychology"
 evidence_level: "probably-efficacious"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-- rel: "developed_by", target: "thk-jluborsky", target_type: "مفكر"
+- rel: "developed_by", target: "thk-lluborsky", target_type: "مفكر"
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-wampold", title: "بروس وامبولد", type: "مفكر"

@@ -19,7 +19,7 @@ related:
 - id: "thk-brentano", title: "فرانتس برنتانو", type: "مفكر"
 - id: "thk-gfrege", title: "غوتلوب فريغه", type: "مفكر"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-- id: "thk-stein", title: "إديث شتاين", type: "مفكر"
+- id: "thk-edith-stein", title: "إديث شتاين (ظاهراتية، توماوية، شهيدة)", type: "مفكر"
 - id: "thk-fink", title: "أويغن فينك", type: "مفكر"
 - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
 - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"

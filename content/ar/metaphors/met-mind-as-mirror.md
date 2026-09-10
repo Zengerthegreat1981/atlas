@@ -16,7 +16,7 @@ related:
 - id: "thk-descartes", title: "رينيه ديكارت", type: "مفكر"
 - id: "thk-locke", title: "جون لوك", type: "مفكر"
 - id: "thk-rorty", title: "ريتشارد رورتي", type: "مفكر"
-- id: "wrk-rorty-philosophy-and-mirror-of-nature", title: "الفلسفة ومرآة الطبيعة", type: "عمل"
+- id: "wrk-philosophy-mirror-nature", title: "الفلسفة ومرآة الطبيعة (Philosophy and the Mirror of Nature)", type: "عمل / كتاب"
 - id: "crt-rorty-mirror-of-nature", title: "نقد رورتي للفلسفة كمرآة عاكسة للطبيعة", type: "نقد"
 - id: "axi-tabula-rasa-rule", title: "بديهية اللوح الفارغ (Tabula Rasa Axiom)", type: "بديهية/مبدأ تأسيسي"
 gaps:

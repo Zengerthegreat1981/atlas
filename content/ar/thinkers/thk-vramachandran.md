@@ -16,7 +16,7 @@ edges: []
 related:
 - id: "thk-msolms", title: "مارك سولمز", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-- id: "thk-nchomsky", title: "نعوم تشومسكي", type: "مفكر"
+- id: "thk-noam-chomsky", title: "نعوم تشومسكي", type: "مفكر"
 gaps:
   - "لا يوجد slug مدرسة/تيار حقيقي في الأطلس يقابل مجاله البيني (علم الأعصاب السلوكي)، فحُذف رابط belongs_to بدل اختراع slug."
 ---

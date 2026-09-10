@@ -17,9 +17,9 @@ original_language: "الإنجليزية"
 active_start: 2003
 active_end: 2003
 edges:
-- rel: "written_by", target: "thk-ekman", target_type: "مفكر"
+- rel: "written_by", target: "thk-paul-ekman", target_type: "مفكر"
 related:
-- id: "thk-ekman", title: "بول إيكمان", type: "مفكر"
+- id: "thk-paul-ekman", title: "بول إيكمان", type: "مفكر"
 gaps:
   - "لبول إيكمان ملفّان في الأطلس: `thk-ekman` و`thk-paul-ekman`، وكلاهما بالعنوان نفسه «بول إيكمان». وُصل هذا الملف بـ`thk-ekman` وحده، ولم يُدمج شيء ولم يُنقل slug — القرار للمحرِّر."
   - "لم يثبت وجود ترجمة عربية منشورة لهذا العمل: بُحث عن مترجم وناشر وسنة ولم يُعثر على أيٍّ منها."

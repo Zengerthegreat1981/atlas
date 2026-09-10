@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "br-transactional-analysis", target_type: "تيار"
 related:
 - id: "br-transactional-analysis", title: "تحليل المعاملات (TA)", type: "تيار"
-- id: "thk-eburne", title: "إريك بيرن", type: "مفكر"
+- id: "thk-berne", title: "إريك بيرن", type: "مفكر"
 - id: "con-dissociation", title: "الانفصال", type: "مفهوم"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي."

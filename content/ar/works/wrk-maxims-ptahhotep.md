@@ -19,7 +19,7 @@ edges:
 - rel: "belongs_to", target: "sch-egyptian-maat", target_type: "مدرسة"
 related:
 - id: "thk-ptahhotep", title: "بتاح حتب", type: "مفكر"
-- id: "con-maat-ethics", title: "ماعت — النظام الأخلاقي والكوني (Ma'at)", type: "مفهوم"
+- id: "con-maat", title: "ماعت (التناغم الكوني)", type: "مفهوم"
 gaps:
   - "تحليل الفروق بين النسخ البردية المحفوظة في العصرين الإقطاعي والدولة الوسطى."
   - "تحقّق فعلي (دفعة 6.17): يوجد ملف آخر في الأطلس لنفس العمل بعنوان مختلف: `wrk-instructions-ptahhotep` (نفس المؤلَّف، نفس السنة التقديرية -2400) — ازدواج غير مسجَّل في FINDING-duplicate-works-slugs.md حتى الآن. لم يُدمَج ولم يُنقل بينهما شيء هنا، وهو مبلَّغ للمحرِّر للحسم."

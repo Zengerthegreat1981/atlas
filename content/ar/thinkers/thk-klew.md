@@ -15,7 +15,7 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
-- id: "thk-lfestinger", title: "ليون فِستِنغر", type: "مفكر"
+- id: "thk-leon-festinger", title: "ليون فيستنغر (Leon Festinger)", type: "مفكر"
 - id: "thk-stanley-milgram", title: "ستانلي ميلغرام", type: "مفكر"
 - id: "thk-sasch", title: "سولومون آش", type: "مفكر"
 - id: "thk-dcartwright", title: "دوروين كارترايت", type: "مفكر"

@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-lucretius", title: "لوكريتيوس كاروس", type: "مفكر"
 - id: "trm-ataraxia-epicurean-pyrrhonic", title: "الأتاراكسيا (Ataraxia): طمأنينة البال وخلو النفس من الاضطراب", type: "مصطلح لغوي متنازع عليه"
-- id: "con-ataraxia-epicurean", title: "الأتاراكسيا والسكينة النفسية (Ataraxia)", type: "مفهوم"
+- id: "con-ataraxia", title: "الأتاراكسيا والسكينة النفسية", type: "مفهوم"
 - id: "sch-epicureanism", title: "الأبيقورية (Epicureanism)", type: "مدرسة"
 - id: "thk-democritus", title: "ديموقريطس الأبديري", type: "مفكر"
 - id: "evt-founding-of-epicurus-garden-306bc", title: "تأسيس حديقة أبيقور في أثينا (306 ق.م)", type: "حدث تاريخي"

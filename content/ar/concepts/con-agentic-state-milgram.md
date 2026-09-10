@@ -16,7 +16,7 @@ related:
 - id: "thk-stanley-milgram", title: "ستانلي ميلغرام", type: "مفكر"
 - id: "sch-social-psychology", title: "علم النفس الاجتماعي (Social Psychology)", type: "مدرسة"
 - id: "stu-milgram-obedience", title: "تجربة ميلغرام للطاعة والسلطة", type: "دراسة وبحث"
-- id: "wrk-obedience-to-authority", title: "الانصياع للسلطة: نظرة تجريبية", type: "عمل / كتاب"
+- id: "wrk-milgram-obedience-authority", title: "الطاعة للسلطة (Obedience to Authority)", type: "عمل / كتاب"
 gaps:
   - "الانتقال بين الحالة الذاتية المستقلة (Autonomous State) والحالة الوكالية (Agentic State) يحتاج تفصيلاً أوسع لعتبات التحول بينهما."
   - "لا تتوفر ترجمة عربية موثقة لاقتباس حرفي من كتاب ميلغرام يمكن إدراجه هنا."

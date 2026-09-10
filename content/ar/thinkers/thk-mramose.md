@@ -14,7 +14,7 @@ active_end: "مستمر"
 part: "philosophy"
 edges: []
 related:
-- id: "thk-jbiko", title: "ستيفن بيكو النفسي", type: "مفكر"
+- id: "thk-biko", title: "ستيف بيكو", type: "مفكر"
 - id: "thk-nmanganyi", title: "إن تشاباني مَنغاني", type: "مفكر"
 - id: "thk-ttshishiku", title: "تِمُوتي تشيشيكو", type: "مفكر"
 - id: "con-ubuntu", title: "أوبونتو (Ubuntu)", type: "مفهوم"

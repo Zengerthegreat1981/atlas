@@ -39,7 +39,7 @@ related:
 - id: "que-why-is-there-suffering-existential", title: "لماذا نتألم وكيف نحول المعاناة التراجيدية إلى إنجاز إنساني وبصيرة؟", type: "سؤال توليدي"
 - id: "thk-young", title: "سارة يونغ", type: "مفكر"
 - id: "wrk-sickness-death", title: "المرض حتى الموت", type: "عمل / كتاب"
-- id: "wrk-rorty-philosophy-and-mirror-of-nature", title: "الفلسفة ومرآة الطبيعة", type: "عمل / كتاب"
+- id: "wrk-philosophy-mirror-nature", title: "الفلسفة ومرآة الطبيعة (Philosophy and the Mirror of Nature)", type: "عمل / كتاب"
 - id: "axm-nadaista-manifesto", title: "بيان النادائية (Nadaísmo) — العدمية الكولومبية", type: "بديهية/مبدأ تأسيسي"
 - id: "br-existential-humanistic-american", title: "الإنساني-الوجودي الأمريكي (شنايدر، كريك)", type: "تيار"
 - id: "thk-serlin", title: "إيلين سيرلين", type: "مفكر"
