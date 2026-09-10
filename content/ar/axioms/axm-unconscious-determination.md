@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-- id: "con-unconscious", title: "اللاوعي", type: "مفهوم"
+- id: "con-unconscious", title: "اللاشعور / اللاوعي النفسي الكلاسيكي (The Unconscious)", type: "مفهوم"
 - id: "thk-karl-popper", title: "سير كارل بوبر", type: "مفكر"
 - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
 gaps:

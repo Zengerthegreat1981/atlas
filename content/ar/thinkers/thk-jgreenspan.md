@@ -11,9 +11,9 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2000
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
-- rel: "belongs_to", target: "tec-dir-floortime", target_type: "تقنية"
+- rel: "belongs_to", target: "tec-dir-floortime", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-sgreenspan", title: "ستانلي غرينسبان", type: "مفكر"
 - id: "thk-aklinger", title: "أتسيلا كلاينغر", type: "مفكر"
@@ -21,6 +21,7 @@ gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
   - "شخصية موثَّقة عبر مصادر مستقلة (موقع The Floortime Center وموقع stanleygreenspan.com)؛ ليست مرشحة للحجر، لكن تفاصيل إضافية (منشورات فردية، سيرة أكاديمية) لم تُراجع بعد."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-dir-floortime` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # جايك غرينسبان

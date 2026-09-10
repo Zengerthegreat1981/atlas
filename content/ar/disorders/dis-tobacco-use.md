@@ -15,10 +15,10 @@ part: "psychology"
 related:
 - id: "con-addiction", title: "الإدمان والبحث الروحي المشوه", type: "مفهوم"
 - id: "tec-motivational-interviewing", title: "المقابلات الدافعية (MI)", type: "تقنية/تدخل علاجي"
-- id: "tec-contingency-management", title: "إدارة الطوارئ", type: "تقنية/تدخل علاجي"
+- id: "tec-contingency-management", title: "إدارة الطوارئ والتعزيز السلوكي", type: "تقنية/تدخل علاجي"
 - id: "tec-relapse-prevention", title: "منع الانتكاس (RP)", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-decisional-balance-sheet", title: "ميزان القرار (الإيجابيات والسلبيات)", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-urge-surfing", title: "ركوب موجة الرغبة الملحّة", type: "تقنية/تدخل علاجي"
+- id: "tec-act-pres-urge-surfing", title: "ركوب موجة الرغبة الملحّة (ACT)", type: "تقنية/تدخل علاجي"
 - id: "syn-craving-urge", title: "الرغبة الملحّة (craving)", type: "متلازمة"
 - id: "ins-fagerstrom-nicotine", title: "مقياس فاجرستروم للاعتماد على النيكوتين", type: "أداة قياس"
 gaps:

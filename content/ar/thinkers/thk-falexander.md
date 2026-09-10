@@ -13,7 +13,7 @@ active_start: 1894
 active_end: 1955
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "tec-alexander-technique", target_type: "تقنية"
+- rel: "belongs_to", target: "tec-alexander-technique", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-mfeldenkrais", title: "موشيه فيلدنكرايس", type: "مفكر"
 gaps:

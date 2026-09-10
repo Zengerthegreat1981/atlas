@@ -16,7 +16,7 @@ active_source: "lifespan"
 cultural_origin: "east-asian"
 edges: []
 related:
-- id: "sch-kogaku", title: "كوغاكو", type: "مدرسة"
+- id: "sch-kogaku", title: "كوغاكو (التعلم القديم / الكونفوشية اليابانية)", type: "مدرسة"
 - id: "sch-shinto-philosophical", title: "الشنتو الفلسفي", type: "مدرسة"
 gaps:
   - "التمييز بين شينغاكو الأصلي (إشيدا بايجان) وشينغاكو الشعبي (ناكايمَ) غير محسوم."

@@ -11,9 +11,9 @@ dates: "سانتا كروز · من 1976"
 active_start: 1976
 active_end: "مستمر"
 language: "الإنجليزية"
-part: "psychology"
+part: "philosophy"
 edges:
-- rel: "relates_to", target: "tec-systemic-nlp-tad-james", target_type: "مدرسة"
+- rel: "relates_to", target: "tec-systemic-nlp-tad-james", target_type: "تقنية/تدخل علاجي"
 - rel: "developed_by", target: "thk-rbandler", target_type: "مفكر"
 - rel: "developed_by", target: "thk-jgrind", target_type: "مفكر"
 related:
@@ -24,6 +24,7 @@ gaps:
   - "ادعاءات الأصل الأكاديمي لـNLP (UC Santa Cruz) لم تُوثّق بدقة كافية."
   - "الانتقادات الأكاديمية لـNLP (Lack of empirical support) لم تُحسم."
   - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُوِّل `split_into → tec-systemic-nlp-tad-james` إلى `relates_to` — هدفُ الحرف **تقنية** لا مدرسة."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» ويخالف 9 من أبنائه — فالخطأُ في الأب لا في الأبناء، وصُحِّح إلى «philosophy» بأغلبية الأسرة."
 ---
 
 # البرمجة اللغوية العصبية (NLP)

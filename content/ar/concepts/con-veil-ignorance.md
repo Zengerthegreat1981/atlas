@@ -13,9 +13,9 @@ edges:
 - rel: "belongs_to", target: "sch-rawlsianism", target_type: "مدرسة"
 related:
 - id: "thk-rawls", title: "جون رولز", type: "مفكر"
-- id: "sch-rawlsianism", title: "الليبرالية السياسية المعاصرة", type: "مدرسة"
+- id: "sch-rawlsianism", title: "الليبرالية السياسية المعاصرة (الرولزية وما بعدها)", type: "مدرسة"
 - id: "thk-sandel", title: "مايكل ساندل", type: "مفكر"
-- id: "crt-sandel-unencumbered-self", title: "نقد ساندل للذات غير المقيدة في الليبرالية الرولزية", type: "نقد"
+- id: "crt-sandel-unencumbered-self", title: "نقد ساندل للذات غير المقيدة في الليبرالية الرولزية", type: "نقد خارجي موثَّق"
 - id: "dbt-rawls-nozick-justice", title: "جدل رولز-نوزيك: العدالة كإنصاف مقابل الحق في الاستحقاق", type: "جدل"
 - id: "con-original-position-veil-of-ignorance", title: "الوضع الأصلي وحجاب الجهل (Original Position & Veil of Ignorance)", type: "مفهوم"
 gaps:

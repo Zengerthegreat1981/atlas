@@ -10,7 +10,7 @@ country: "الهند"
 language: "الإنجليزية"
 active_start: 1910
 active_end: 1950
-part: "psychology"
+part: "philosophy"
 crumb: "فلسفة أوروبندو (اليوغا التكاملية) ← الناس ← سري أوروبندو"
 edges:
 - rel: "belongs_to", target: "sch-aurobindo", target_type: "مدرسة"
@@ -24,6 +24,7 @@ related:
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *The Life Divine* (1914–1921) بترجمة عربية معتمدة."
   - "لم تُراجع أعماله بعد من طبعة أصلية مباشرة (The Life Divine, 1914–1921; Savitri, 1950–1951)."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-aurobindo` موسومٌ «philosophy» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # سري أوروبندو

@@ -14,14 +14,14 @@ language: "الإنجليزية"
 part: "psychology"
 edges: []
 related:
-- id: "thk-ahepburn", title: "أليكسا هيبورن", type: "مفكر"
-- id: "thk-sspeer", title: "سوزان سبير", type: "مفكر"
+- id: "thk-ahepburn", title: "ألكسا هِبِرن", type: "مفكر"
+- id: "thk-sspeer", title: "سوزان سبيير", type: "مفكر"
 - id: "thk-rwooffitt", title: "روبن ووفيت", type: "مفكر"
 - id: "thk-mbillig", title: "مايكل بيليغ", type: "مفكر"
 - id: "br-social-constructionism", title: "العلاج النفسي والبنائية الاجتماعية", type: "تيار"
-- id: "thk-kgergen", title: "كِنِث غيرغِن", type: "مفكر"
+- id: "thk-kgergen", title: "كينيث جيرغن", type: "مفكر"
 - id: "sch-narrative-therapy", title: "العلاج السردي (Narrative Therapy)", type: "مدرسة"
-- id: "thk-lwittgenstein", title: "لودفيغ فتغنشتاين", type: "مفكر"
+- id: "thk-lwittgenstein", title: "لودفيغ فيتغنشتاين", type: "مفكر"
 gaps:
   - "**فُرِّغ حقلُ الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-humanistic` وهو نسبٌ خاطئ — بوتر وويذرل: «ما بعد الاتّجاهات والسلوك» — تيّارٌ نقديٌّ خطابيّ لا إنسانيّ. ولا ملفَّ لـ«علم النفس النقدي» في الأطلس. فبقي الحقلُ فارغاً؛ ولم يُوضَع أبٌ تقريبيٌّ لأنّ أباً خاطئاً أسوأُ من غياب أب."
   - "**كُتب متنه 2026-09-07** من الفجوات المسجَّلة، وكانت تسمّي المطلوب: كتابَ **بوتر وويذرل** *الخطاب وعلم النفس الاجتماعي* (1987)، وتحليلَ المحادثة والخطاب بوصفهما أفعالاً اجتماعية منتِجة للهوية والمشاعر لا انعكاساتٍ سلبية لعقلٍ داخلي."

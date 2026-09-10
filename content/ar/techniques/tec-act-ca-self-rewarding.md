@@ -18,9 +18,9 @@ related:
 - id: "tec-act-ca-willingness-to-fail-forward", title: "الاستعداد للفشل والتقدم رغمه", type: "تقنية/تدخل علاجي"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
-- id: "stu-lepper-overjustification", title: "دراسة ليبر ونيسبيت لفرط التبرير وتآكل الدافع الداخلي لدى الأطفال", type: "دراسة"
-- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب"
-- id: "dis-binge-eating-disorder", title: "اضطراب نهم الطعام", type: "اضطراب"
+- id: "stu-lepper-overjustification", title: "دراسة ليبر ونيسبيت لفرط التبرير وتآكل الدافع الداخلي لدى الأطفال", type: "دراسة وبحث"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-binge-eating-disorder", title: "اضطراب نهم الطعام", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "لا توجد دراسة أثر منفصلة موثّقة لمكافأة الذات كتقنية ACT محدّدة (بمعزل عن أدبيات التعزيز الإيجابي العامة عند سكينر ودراسة فرط التبرير)؛ evidence_level محافظ لهذا السبب."
 ---

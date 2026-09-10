@@ -16,7 +16,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-phenomenology", target_type: "مدرسة"
 related:
-- id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
+- id: "sch-phenomenology", title: "الظاهراتية (Phänomenologie)", type: "مدرسة"
 - id: "sch-feminism-existential", title: "النسوية الوجودية", type: "مدرسة"
 - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
 - id: "thk-ricoeur", title: "بول ريكور", type: "مفكر"

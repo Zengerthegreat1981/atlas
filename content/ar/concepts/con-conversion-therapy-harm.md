@@ -10,7 +10,7 @@ active_start: 2009
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "br-conversion-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-conversion-therapy", target_type: "تيار"
 related:
 - id: "br-conversion-therapy", title: "العلاج بالتحويل (Reparative Therapy)", type: "تيار"
 - id: "con-affirmative-therapy", title: "العلاج التأكيدي (Affirmative Therapy)", type: "مفهوم"

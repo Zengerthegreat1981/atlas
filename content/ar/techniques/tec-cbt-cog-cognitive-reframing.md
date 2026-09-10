@@ -18,7 +18,7 @@ edges:
 related:
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-socratic-questioning", title: "التساؤل السقراطي", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-int-perspective-taking", title: "تبنّي منظور الآخر", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-int-perspective-taking", title: "تبنّي منظور الآخر (CBT)", type: "تقنية/تدخل علاجي"
 - id: "thk-pwatzlawick", title: "بول واتزلاويك", type: "مفكر"
 gaps:
   - "التمييز بين إعادة التأطير كتقنية CBT مستقلة (بيك) وبين إعادة التأطير في العلاج الأسري الاستراتيجي (واتزلاويك، فريق ميلانو) غير موثَّق بمصدر أولي مقارن هنا؛ الفقرة الحالية تصف التشابه دون إحالة إلى نص منشور بعينه."

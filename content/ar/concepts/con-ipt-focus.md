@@ -13,7 +13,7 @@ language: "الإنجليزية (الأصل)"
 edges:
 - rel: "belongs_to", target: "sch-ipt", target_type: "مدرسة"
 related:
-- id: "con-grief", title: "الحزن كمسار للتفريد", type: "مفهوم"
+- id: "con-grief", title: "الحزن كمسار للتفرّد", type: "مفهوم"
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 - id: "con-attachment-styles", title: "أساليب التعلق (Attachment Styles)", type: "مفهوم"
 - id: "con-relationality-indigenous", title: "العلاقية (Relationality)", type: "مفهوم"

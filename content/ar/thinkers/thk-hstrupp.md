@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "إنجليزية وألمانية"
 active_start: 1955
 active_end: 2006
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-cyclical-psychodynamics", target_type: "تيار"
 related:
@@ -19,6 +19,7 @@ related:
 gaps:
   - "السيرة الذاتية الكاملة في Vanderbilt لم تُراجع."
   - "لا يوجد اقتباس مباشر موثوق من *Psychotherapy in a New Key* (1984) بترجمة عربية معتمدة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-cyclical-psychodynamics` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # هانس ستروب

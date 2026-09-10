@@ -15,7 +15,7 @@ edges:
 related:
 - id: "thk-gadamer", title: "هانز-غيورغ غادامير", type: "مفكر"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-- id: "sch-hermeneutics", title: "الهرمنيوطيقا الفلسفية", type: "مدرسة"
+- id: "sch-hermeneutics", title: "الهرمنيوطيقا الفلسفية (Philosophische Hermeneutik)", type: "مدرسة"
 gaps:
   - "الفرق بين 'الدائرة' عند شلايرماخر وعند هايدغر وعند غادامير لم يُحلّل في هذا الملف."
   - "لا يوجد اقتباس مباشر موثوق من 'الحقيقة والمنهج' (1960)."

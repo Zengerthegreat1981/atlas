@@ -15,7 +15,7 @@ part: "psychology"
 related:
 - id: "tec-cbt-beh-habit-reversal-training", title: "تدريب عكس العادة", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
-- id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
+- id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات (ACT)", type: "تقنية/تدخل علاجي"
 - id: "tec-psychoeducational-family", title: "العلاج الأسري التثقيفي النفسي", type: "تقنية/تدخل علاجي"
 - id: "tec-supportive-psychotherapy", title: "العلاج النفسي الديناميكي الداعم", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-boundary-setting-techniques", title: "تقنيات وضع الحدود", type: "تقنية/تدخل علاجي"

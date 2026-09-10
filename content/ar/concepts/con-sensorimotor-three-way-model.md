@@ -2,7 +2,7 @@
 slug: "con-sensorimotor-three-way-model"
 id: "CON-0857"
 type: "مفهوم"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "النموذج الثلاثي (الإدراك - الانفعال - الحس-حركة)"
 en: "Three-Way Model (Cognitive-Affective-Sensorimotor)"
@@ -10,26 +10,28 @@ crumb: "علم النفس ← العلاج النفسي حسي-حركي ← ال
 register: "clinical"
 evidence_level: "emerging"
 dates: "صاغته Pat Ogden في 2006"
-active_start: null
+active_start: 2006
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-sensorimotor-psychotherapy", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-pogden", target_type: "مفكر"
 related:
-- id: "sch-sensorimotor-psychotherapy", title: "العلاج النفسي حسي-حركي", type: "مدرسة"
+- id: "sch-sensorimotor-psychotherapy", title: "العلاج النفسي حسي-حركي (Sensorimotor Psychotherapy)", type: "مدرسة"
 - id: "thk-bvdkolk", title: "بِسِل فان دير كولك", type: "مفكر"
 - id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
 - id: "sch-somatic-experiencing", title: "التجربة الجسدية (Somatic Experiencing)", type: "مدرسة"
-- id: "con-trauma", title: "الصدمة النفسية", type: "مفهوم"
-- id: "con-dissociation", title: "الانفصال", type: "مفهوم"
-- id: "con-three-way-model-sensorimotor", title: "النَّمُوذَج الثُّلاثِيّ لِـ Sensorimotor: اِنْتِبَاه، تَأْثِير، فِكْر", type: "مفهوم"
+- id: "con-trauma", title: "الصدمة النفسية في التحليلية", type: "مفهوم"
+- id: "con-dissociation", title: "الانفصال (Dissociation)", type: "مفهوم"
+- id: "con-three-way-model-sensorimotor", title: "النموذج الثلاثي لـ Sensorimotor: انتباه، تأثير، فكر", type: "مفهوم"
 - id: "tec-sensorimotor-pendulation", title: "البندلة (Pendulation) في العلاج السنسوريموتور", type: "تقنية/تدخل علاجي"
 - id: "br-sensorimotor-trauma-applications", title: "العلاج السنسوريموتور: تطبيقات الصدمة المتقدمة", type: "تيار"
-- id: "wrk-ogden-trauma-and-the-body", title: "كتاب الصدمة والجسد: نهج سنسوريموتور لبات أوغدن (2006)", type: "عمل"
+- id: "wrk-ogden-trauma-and-the-body", title: "كتاب الصدمة والجسد: نهج سنسوريموتور لبات أوغدن (2006)", type: "عمل / كتاب"
 gaps:
   - "النموذج الثلاثي صاغته Ogden في *Trauma and the Body* (2006)؛ التطويرات اللاحقة في *Sensorimotor Psychotherapy* (2015) موثَّقة لكن تحتاج مراجعة."
   - "الأساس التجريبي للنموذج في طور البناء (RCTs محدودة)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بات أوغدن (thk-pogden)."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («صاغته Pat Ogden في 2006») فاستُخرجت: 2006."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-sensorimotor-psychotherapy` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # النموذج الثلاثي (الإدراك - الانفعال - الحس-حركة)

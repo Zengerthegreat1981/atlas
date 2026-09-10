@@ -11,7 +11,7 @@ dates: "لندن · ثلاثينيات وأربعينيات القرن العش�
 active_start: 1926
 active_end: "مستمر"
 language: "الإنجليزية"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-klein", target_type: "مفكر"
@@ -25,6 +25,7 @@ related:
 gaps:
   - "النقاشات المثيرة للجدل (Controversial Discussions 1941-1945) بين الكلاينيين والأنافرويديين في الجمعية البريطانية تحتاج توثيقاً تاريخياً دقيقاً."
   - "تفاصيل التمييز بين الإسقاط العادي والتماهي الإسقاطي (Projective Identification) في الأدبيات الكلاينية المبكرة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # المدرسة الكلاينية

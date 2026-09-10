@@ -20,7 +20,7 @@ edges:
 related:
 - id: "thk-pascal", title: "بليز باسكال", type: "مفكر"
 - id: "exp-pascal-night-of-fire", title: "ليلة النار لبليز باسكال (1654): اكتشاف إله القلوب واليقين الحي", type: "خبرة معيشة"
-- id: "crt-pascal-critique-of-cartesian-rationalism", title: "نقد باسكال للعقلانية الديكارتية والربوبية الجافة", type: "نقد"
+- id: "crt-pascal-critique-of-cartesian-rationalism", title: "نقد باسكال للعقلانية الديكارتية والربوبية الجافة", type: "نقد خارجي موثَّق"
 - id: "thk-montaigne", title: "ميشيل دي مونتين", type: "مفكر"
 - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
 - id: "thk-goldmann", title: "لوسيان غولدمان", type: "مفكر"

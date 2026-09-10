@@ -18,7 +18,7 @@ original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-indigenous-philosophy-contemporary", target_type: "مدرسة"
 related:
-- id: "sch-indigenous-philosophy-contemporary", title: "فلسفات السكان الأصليين المعاصرة", type: "مدرسة"
+- id: "sch-indigenous-philosophy-contemporary", title: "فلسفات السكان الأصليين المعاصرة (كمظلة نقدية عابرة للمناطق)", type: "مدرسة"
 - id: "thk-kimmerer", title: "روبن وال كيميرير", type: "مفكر"
 gaps:
   - "لم يثبت وجود ترجمة عربية منشورة لهذا العمل: بُحث عن مترجم وناشر وسنة ولم يُعثر على أيٍّ منها."

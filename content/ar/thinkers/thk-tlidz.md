@@ -13,7 +13,7 @@ active_start: 1952
 active_end: 1985
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "br-cyclical-psychodynamics", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-cyclical-psychodynamics", target_type: "تيار"
 related:
 - id: "thk-rwachtel", title: "بول ل. واتشتِل", type: "مفكر"
 gaps:

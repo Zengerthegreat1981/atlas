@@ -14,9 +14,9 @@ publication_year: 1998
 original_language: "الإسبانية"
 active_start: 1986
 active_end: 1998
-part: "psychology"
+part: "philosophy"
 edges:
-- rel: "belongs_to", target: "br-liberation-psychology", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-liberation-psychology", target_type: "تيار"
 related:
 - id: "crt-marxist-critique-psychology", title: "النقد الماركسي/الطبقي لعلم النفس: علم نفس السيطرة الاجتماعية", type: "نقد خارجي موثَّق"
 - id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري لـ DSM: التصنيف كخريطة جيوسياسية للمعاناة المقبولة", type: "نقد خارجي موثَّق"
@@ -26,6 +26,7 @@ gaps:
   - "تصحيح توثيقي مهم: العنوان بصيغته هذه ('Psicología de la liberación' كتاباً) هو **تجميع لمقالات مارتن-بارو نشرته دار Trotta الإسبانية عام 1998 بعد اغتياله بتسع سنوات**، بتحرير وتقديم أماليو بلانكو (Amalio Blanco) — وليس كتاباً ألّفه مارتن-بارو ونشره بنفسه عام 1986 كما أوحى الحقل الموروث `en:` والتاريخ السابق في هذا الملف. الأصل الأقرب لعام 1986 هو مقالته المرجعية «Hacia una psicología de la liberación» (نحو علم نفس للتحرير)، المنشورة في Boletín de Psicología (UCA) العدد 22 عام 1986 — وهي **مقالة لا كتاب**، أُدرجت لاحقاً ضمن التجميع المنشور 1998. صُحِّح `publication_year` و`active_end` إلى 1998 تبعاً لذلك، وتُطلب مراجعة بشرية للتأكد من مطابقة هذا الملف لأيّ الكيانين (المقالة أم الكتاب المجمَّع) يُقصَد فعلاً في بنية الأطلس.",
   - "لم يثبت وجود ترجمة عربية منشورة لهذا العمل (لا للمقالة ولا للكتاب المجمَّع): بُحث عن مترجم وناشر وسنة ولم يُعثر على أيٍّ منها."
   - "دُمج مع ملف مفكّره الرئيس (thk-imartinbaro) ملفٌّ مكرَّر (thk-ignacio-martin-baro) — الأصل محفوظ في content/ar/_merged/؛ هذا لا يمسّ ملف العمل نفسه لكنه مسجَّل للسياق."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-liberation-psychology` موسومٌ «philosophy» — فوُحِّد على وسم الأب."
 ---
 
 # علم النفس للتحرير (Psicología de la liberación)

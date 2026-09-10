@@ -10,16 +10,17 @@ country: "الولايات المتحدة"
 language: "الإنجليزية/الإيطالية"
 active_start: 1985
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 crumb: "الحركة الأصيلة ← الناس ← باتريتسيا بالارو"
 edges:
-- rel: "belongs_to", target: "tec-authentic-movement", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-authentic-movement", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-mary-whitehouse", title: "ماري وايتهاوس", type: "مفكر"
 - id: "thk-jadler", title: "جانيت أدلر", type: "مفكر"
 gaps:
   - "حُذف رابطان related كانا يشاوران على ملفات غير موجودة (thk-jchodorow، thk-cjung)."
   - "سنة الميلاد الدقيقة غير منشورة في السيرة الذاتية المتاحة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-authentic-movement` موسومٌ «psychology» — فوُحِّد على وسم الأب."
 ---
 
 # باتريتسيا بالارو

@@ -16,7 +16,7 @@ active_source: "lifespan"
 edges:
 - rel: "belongs_to", target: "sch-mohism", target_type: "مدرسة"
 related:
-- id: "sch-mohism", title: "الموهية", type: "مدرسة"
+- id: "sch-mohism", title: "الموهية (Mohism / Mojia)", type: "مدرسة"
 - id: "thk-confucius", title: "كونفوشيوس (كونغ زي)", type: "مفكر"
 - id: "con-fate-mohist", title: "نفي القدر في الموهية", type: "مفهوم"
 - id: "con-jianai", title: "جيان آي (兼愛) — الإحسان الشامل", type: "مفهوم"

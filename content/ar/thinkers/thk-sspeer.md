@@ -13,13 +13,13 @@ active_start: 2002
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "br-discursive-psychology", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-discursive-psychology", target_type: "تيار"
 related:
 - id: "br-discursive-psychology", title: "علم النفس الخطابي (بوتر وويذرل)", type: "تيار"
 - id: "thk-ahepburn", title: "ألكسا هِبِرن", type: "مفكر"
 - id: "thk-jpotter", title: "جوناثان بوتر", type: "مفكر"
 - id: "thk-dedwards", title: "ديرِك إدواردز", type: "مفكر"
-- id: "con-queer-theory", title: "نظرية الكويري", type: "مفهوم"
+- id: "con-queer-theory", title: "النظرية الكويرية", type: "مفهوم"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي (تُقدَّر 1970 بناءً على تخرّجها من جامعة Loughborough)."
   - "كتاب 'Sex Talk' (2006) والنسخة اللاحقة 'Talking Sex' (2015) موثّقتان في المكتبة البريطانية."

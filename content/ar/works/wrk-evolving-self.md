@@ -19,7 +19,7 @@ edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-robert-kegan", target_type: "مفكر"
 related:
-- id: "con-actualizing-tendency", title: "نزعة التحقق الذاتي", type: "مفهوم"
+- id: "con-actualizing-tendency", title: "نزعة التحقق الذاتي (Actualizing Tendency)", type: "مفهوم"
 gaps:
   - "لم يثبت وجود ترجمة عربية منشورة لهذا العمل: بُحث عن مترجم وناشر وسنة ولم يُعثر على أيٍّ منها."
   - "لا يوجد اقتباس مباشر موثوق من The Evolving Self (1982) بترجمة عربية معتمدة."

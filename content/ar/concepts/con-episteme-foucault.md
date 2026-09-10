@@ -15,7 +15,7 @@ related:
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
 - id: "sch-post-structuralism", title: "ما بعد البنيوية (Post-structuralisme)", type: "مدرسة"
 - id: "sch-structuralism", title: "البنيوية (Structuralisme)", type: "مدرسة"
-- id: "wrk-foucault-order-of-things", title: "كتاب الكلمات والأشياء لميشيل فوكو (1966)", type: "عمل"
+- id: "wrk-foucault-order-of-things", title: "كتاب الكلمات والأشياء لميشيل فوكو (1966)", type: "عمل / كتاب"
 - id: "con-governmentality-foucault", title: "الحكومية وعقلانية الحكم (Governmentality)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق ومنسوب بدقة إلى نص فوكو الأصلي حول الإبستميه."

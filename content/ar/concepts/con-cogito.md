@@ -15,8 +15,8 @@ edges:
 related:
 - id: "thk-descartes", title: "رينيه ديكارت", type: "مفكر"
 - id: "sch-cartesianism", title: "الديكارتية", type: "مدرسة"
-- id: "wrk-discourse-on-method-descartes", title: "مقال عن المنهج لرينيه ديكارت", type: "عمل"
-- id: "wrk-descartes-meditations", title: "كتاب تأملات في الفلسفة الأولى لرينيه ديكارت (1641)", type: "عمل"
+- id: "wrk-discourse-on-method-descartes", title: "مقال عن المنهج لرينيه ديكارت", type: "عمل / كتاب"
+- id: "wrk-descartes-meditations", title: "كتاب تأملات في الفلسفة الأولى لرينيه ديكارت (1641)", type: "عمل / كتاب"
 - id: "thk-augustine", title: "أوغسطينوس", type: "مفكر"
 - id: "thk-malebranche", title: "نيكولا مالبرانش", type: "مفكر"
 - id: "thk-leibniz", title: "غوتفريد فيلهلم لايبنتز", type: "مفكر"

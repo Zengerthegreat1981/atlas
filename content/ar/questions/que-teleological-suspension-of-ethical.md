@@ -14,7 +14,7 @@ edges:
 related:
 - id: "sch-kierkegaardian", title: "الكيركغاردية (الوجودية المبكرة الدينية)", type: "مدرسة"
 - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
-- id: "wrk-kierkegaard-fear-and-trembling", title: "خوف ورعدة", type: "عمل / كتاب"
+- id: "wrk-kierkegaard-fear-and-trembling", title: "كتاب خوف ورعدة لسورين كيركغارد (1843)", type: "عمل / كتاب"
 - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
 - id: "thk-levinas", title: "إيمانويل ليفيناس", type: "مفكر"
 gaps:

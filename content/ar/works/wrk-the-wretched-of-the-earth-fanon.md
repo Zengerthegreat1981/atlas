@@ -18,7 +18,7 @@ edges:
 - rel: "authored_by", target: "thk-fanon", target_type: "مفكر"
 related:
 - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
-- id: "wrk-black-skin-white-masks-fanon", title: "بشرة سوداء، أقنعة بيضاء", type: "عمل / كتاب"
+- id: "wrk-black-skin-white-masks-fanon", title: "بشرة سوداء أقنعة بيضاء لفرانز فانون", type: "عمل / كتاب"
 gaps:
   - "لا يوجد اقتباس منسوب بمصدر وسنة من «معذبو الأرض» (1961) (الفجوة نفسها مسجَّلة في ملف فانون `thk-fanon`)."
   - "لا يثبت وجود ترجمة عربية معتمدة بثلاثيّها الكامل (مترجم/دار/سنة): بُحث ولم يُعثر على تثبيت كافٍ."

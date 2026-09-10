@@ -17,7 +17,7 @@ edges:
 related:
 - id: "sch-pythagorean", title: "الفيثاغورية (Pythagoreanism)", type: "مدرسة"
 - id: "thk-plato", title: "أفلاطون", type: "مفكر"
-- id: "thk-thales", title: "طاليس", type: "مفكر"
+- id: "thk-thales", title: "طاليس الميليسي", type: "مفكر"
 - id: "thk-anaximander", title: "أنكسمندر الميليسي", type: "مفكر"
 - id: "thk-anaximenes", title: "أنكسمانس الميليسي", type: "مفكر"
 - id: "thk-empedocles", title: "أنباذوقليس الأكراغاسي", type: "مفكر"

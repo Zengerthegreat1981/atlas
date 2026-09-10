@@ -16,7 +16,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
-- id: "wrk-way-of-the-peaceful-warrior", title: "طريق المحارب السلمي", type: "عمل / كتاب"
+- id: "wrk-way-of-the-peaceful-warrior", title: "طريق المحارب السلمي: كتاب يغير الحياة", type: "عمل / كتاب"
 gaps:
   - "غياب اقتباس مباشر موثَّق بمصدر وسنة محددين لـدان ميلمان في الأدبيات المتاحة."
 ---

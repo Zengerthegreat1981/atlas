@@ -2,7 +2,7 @@
 slug: "con-somatic-action-systems"
 id: "CON-1250"
 type: "مفهوم"
-part: "psychology"
+part: "philosophy"
 level: "متوسط"
 title: "أنظمة الفعل الحركي والتكامل الدفاعي في السنسوريموتور"
 en: "Action Systems and Defensive Integration in Sensorimotor Psychotherapy"
@@ -18,6 +18,7 @@ related:
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة (العلاج بالتجربة الجسدية عند بيتر لڤين مثلاً) قيد المتابعة التحريرية."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-sensorimotor-psychotherapy` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # أنظمة الفعل الحركي والتكامل الدفاعي في السنسوريموتور

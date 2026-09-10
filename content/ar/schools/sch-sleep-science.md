@@ -16,11 +16,11 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-biological-neuro", target_type: "مدرسة"
 related:
-- id: "sch-biological-neuro", title: "علم النفس البيولوجي والعصبي", type: "مدرسة"
-- id: "sch-cognitive-neuroscience", title: "علم الأعصاب المعرفي", type: "مدرسة"
+- id: "sch-biological-neuro", title: "علم النفس البيولوجي والعصبي (Biological & Neuropsychology)", type: "مدرسة"
+- id: "sch-cognitive-neuroscience", title: "علم الأعصاب المعرفي (Cognitive Neuroscience)", type: "مدرسة"
 - id: "thk-matthew-walker", title: "ماثيو ووكر", type: "مفكر"
 - id: "con-memory", title: "الذاكرة", type: "مفهوم"
-- id: "con-dream-interpretation", title: "تفسير الأحلام", type: "مفهوم"
+- id: "con-dream-interpretation", title: "تفسير الأحلام والتضخيم الأركيتيبي", type: "مفهوم"
 - id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 gaps:
   - "**أُنشئ هذا الملف 2026-09-08:** كان اسمُ «علم أعصاب النوم» يُستعمل أباً نصّياً في `belongs_to` لملفّ ماثيو ووكر بلا ملفٍّ يقابله."

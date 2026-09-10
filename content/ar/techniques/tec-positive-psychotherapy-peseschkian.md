@@ -19,7 +19,7 @@ edges:
 related:
 - id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
 - id: "thk-npeseschkian", title: "نصرت بيسشكيان", type: "مفكر"
-- id: "dis-somatic-symptom-disorder", title: "اضطراب الأعراض الجسدية", type: "اضطراب"
+- id: "dis-somatic-symptom-disorder", title: "اضطراب الأعراض الجسدية", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-positive-psychotherapy", title: "العلاج النفسي الإيجابي", type: "تقنية/تدخل علاجي"
 gaps:
   - "نموذج التوازن رباعي الأبعاد لنصرت بيسشكيان (Nossrat Peseschkian): الجسد/الصحة، الإنجاز/العمل، العلاقات، والمستقبل/المعنى."

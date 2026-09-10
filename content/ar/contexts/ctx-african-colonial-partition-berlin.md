@@ -2,7 +2,7 @@
 slug: "ctx-african-colonial-partition-berlin"
 id: "CTX-0040"
 type: "سياق/تقليد"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "مؤتمر برلين (1884) وتقسيم إفريقيا وتأسيس العنف الاستعماري"
 en: "The Berlin Conference (1884-1885): The Scramble for Africa and Colonial Trauma"
@@ -15,6 +15,7 @@ related:
 - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
 gaps:
   - "لم يُراجَع رقم ضحايا الكونغو البلجيكية (يُقدَّر عادة بين 5 و10 ملايين بين 1885 و1908) من مصدر أولي — تركناه دون رقم محدد تجنباً للتلفيق."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-african-psychology` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 # مؤتمر برلين (1884) وتقسيم إفريقيا وتأسيس العنف الاستعماري
 

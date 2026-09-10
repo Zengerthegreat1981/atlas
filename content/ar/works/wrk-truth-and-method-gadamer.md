@@ -23,7 +23,7 @@ related:
 - id: "con-fusion-of-horizons-gadamer", title: "انصهار الآفاق التأويلية (Fusion of Horizons / Horizontverschmelzung)", type: "مفهوم"
 - id: "con-hermeneutics", title: "الهَرْمِنِيوطيقا (Hermeneutics): فنّ التأويل والفهم", type: "مفهوم"
 - id: "con-hermeneutic-circle", title: "الدائرة الهرمنيوطيقية (Hermeneutic Circle)", type: "مفهوم"
-- id: "dia-gadamer-derrida-1981", title: "حوار غادامير ودريدا 1981 في معهد غوته بباريس", type: "حوار"
+- id: "dia-gadamer-derrida-1981", title: "حوار غادامير ودريدا 1981 في معهد غوته بباريس", type: "حوار مع مدرسة مجاورة"
 gaps:
   - "لم يثبت وجود ترجمة عربية منشورة لهذا العمل: بُحث عن مترجم وناشر وسنة ولم يُعثر على أيٍّ منها."
   - "تاريخ المخطوطات لا ينطبق هنا (عمل قرن عشرين لمؤلف حيّ وقت النشر)، لكن الملف لم يراجع بعد تاريخ الترجمة الإنجليزية القياسية (Weinsheimer & Marshall, 1989 عن طبعة 1975 الأولى ثم 2004 المنقّحة) ببياناتها الكاملة."

@@ -15,7 +15,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-posthumanism", target_type: "مدرسة"
 related:
-- id: "sch-posthumanism", title: "ما بعد الإنسانية", type: "مدرسة"
+- id: "sch-posthumanism", title: "ما بعد الإنسانية (Posthumanism)", type: "مدرسة"
 - id: "sch-feminism-french-poststructural", title: "النسوية الفرنسية (ما بعد بنيوية)", type: "مدرسة"
 - id: "con-cyborg", title: "الكائن الهجين (Cyborg)", type: "مفهوم"
 gaps:

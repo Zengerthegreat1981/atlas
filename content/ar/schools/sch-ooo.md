@@ -17,9 +17,9 @@ edges:
 - rel: "belongs_to", target: "sch-speculative-realism", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-speculative-realism", target_type: "مدرسة"
 related:
-- id: "sch-speculative-realism", title: "الواقعية المضاربة", type: "مدرسة"
-- id: "sch-new-materialism", title: "المادية الجديدة", type: "مدرسة"
-- id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
+- id: "sch-speculative-realism", title: "الواقعية المضاربة (Speculative Realism)", type: "مدرسة"
+- id: "sch-new-materialism", title: "المادية الجديدة (New Materialism)", type: "مدرسة"
+- id: "sch-phenomenology", title: "الظاهراتية (Phänomenologie)", type: "مدرسة"
 - id: "thk-graham-harman", title: "غراهام هارمان", type: "مفكر"
 - id: "con-demythologization", title: "نزع الأسطورة", type: "مفهوم"
 - id: "con-existence-existentialism", title: "الوجودية (Existence) في الفلسفة الوجودية", type: "مفهوم"

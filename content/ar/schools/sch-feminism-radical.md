@@ -15,7 +15,7 @@ active_start: 1967
 active_end: "مستمر"
 related:
 - id: "sch-feminism-liberal", title: "النسوية الليبرالية", type: "مدرسة"
-- id: "sch-feminism-marxist", title: "النسوية الماركسية", type: "مدرسة"
+- id: "sch-feminism-marxist", title: "النسوية الماركسية / الاشتراكية", type: "مدرسة"
 - id: "sch-radical-democracy", title: "الديمقراطية الراديكالية", type: "مدرسة"
 - id: "sch-transfeminism", title: "الترانسفيمينية (نسوية العابرين جنسياً)", type: "مدرسة"
 - id: "con-patriarchy", title: "النظام الأبوي (البطريركية)", type: "مفهوم"

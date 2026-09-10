@@ -12,7 +12,7 @@ active_end: "مستمر"
 language: "متعدد اللغات"
 edges: []
 related:
-- id: "syn-munchausen", title: "متلازمة مونخهاوزن", type: "متلازمة"
+- id: "syn-munchausen", title: "متلازمة مونخهاوزن (الاضطراب المفتعل المزمن الجسيم)", type: "متلازمة"
 - id: "dis-factitious", title: "اضطراب مفتعل (Factitious Disorder)", type: "اضطراب/حالة إكلينيكية"
 - id: "con-narrative-identity", title: "الهوية السردية (Narrative Identity): أنا كقصة أرويها عن نفسي", type: "مفهوم"
 gaps:

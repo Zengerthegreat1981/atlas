@@ -16,7 +16,7 @@ related:
 - id: "thk-gandhi", title: "موهانداس كرمشاند غاندي", type: "مفكر"
 - id: "thk-machiavelli", title: "نيكولو مكيافيلي", type: "مفكر"
 - id: "con-satyagraha", title: "ساتياغراها (قوة الحقيقة)", type: "مفهوم"
-- id: "wrk-the-prince-machiavelli", title: "الأمير لنيكولو مكيافيلي", type: "عمل"
+- id: "wrk-the-prince-machiavelli", title: "الأمير لنيكولو مكيافيلي", type: "عمل / كتاب"
 gaps:
   - "لم تُراجع بعدُ مراسلات غاندي مع طولستوي (1909-1910) التي أثّرت مباشرة في صياغته لفكرة اللاعنف في Hind Swaraj."
   - "موقف نهرو من الاستخدام العملي لغاندي كأداة تفاوضية (لا كعقيدة مطلقة) غير موثّق هنا."

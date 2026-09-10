@@ -16,8 +16,8 @@ edges:
 - rel: "belongs_to", target: "sch-eft-couples", target_type: "مدرسة"
 related:
 - id: "thk-sjohnson", title: "سو جونسون", type: "مفكر"
-- id: "thk-timothy-verduin", title: "تيموثي فيردوين", type: "مفكر"
-- id: "con-eft-couples-emotion-focused", title: "النهج المتمحور حول المشاعر", type: "مفهوم"
+- id: "thk-timothy-verduin", title: "تيموثي فيردوين (Timothy Verduin)", type: "مفكر"
+- id: "con-eft-couples-emotion-focused", title: "النَّهْج الْمُتَمَحْوَر حَوْل الْمَشَاعِر فِي EFT", type: "مفهوم"
 gaps:
   - "**قرار حجر منفَّذ**: حُجزت هذه المدخلة في `agents_specs/quarantine-spark.md` بتاريخ 2026-08-26: لا يوجد أي مؤلَّف أو بحث أو ذكر مستقل باسم «كايتي لابيريير» (Katie LaPerriere) كباحثة/مشرفة في EFT خارج وصف السجل التأسيسي؛ نسخته في المسودات أُزيلت حينها. يُنفَّذ القرار على الملف المعتمد الآن بتاريخ 2026-09-03: أُفرغ المتن من كل الادّعاءات غير الموثَّقة (السيرة، الإسهامات، الأعمال)."
   - "الروابط في `related` (`thk-sjohnson`، `thk-timothy-verduin`، مفهوم النهج المتمحور حول المشاعر) بلا مبرَّر في المتن بعد حذف السيرة، وأُبقيت بأمر عدم تعديل الروابط."

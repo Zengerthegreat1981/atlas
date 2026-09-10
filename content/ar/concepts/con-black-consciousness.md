@@ -18,7 +18,7 @@ related:
 - id: "thk-biko", title: "ستيف بيكو", type: "مفكر"
 - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
 - id: "thk-cesaire", title: "إيمي سيزير", type: "مفكر"
-- id: "sch-existential-therapy", title: "الوجودية العلاجية", type: "مدرسة"
+- id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
 - id: "con-freedom", title: "الحرية", type: "مفهوم"
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 - id: "con-alienation", title: "الاغتراب", type: "مفهوم"

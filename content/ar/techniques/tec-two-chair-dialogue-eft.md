@@ -15,7 +15,7 @@ related:
 - id: "sch-eft", title: "العلاج المتمحور حول المشاعر (EFT)", type: "مدرسة"
 - id: "thk-lgreenberg", title: "ليزلي غرينبرغ", type: "مفكر"
 - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
-- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-cft", title: "العلاج المرتكز على الشفقة (CFT)", type: "تقنية/تدخل علاجي"
 evidence_level: "probably-efficacious"
 gaps:

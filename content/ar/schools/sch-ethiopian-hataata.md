@@ -16,7 +16,7 @@ active_end: "مستمر"
 active_source: "lifespan"
 edges:
 related:
-- id: "sch-akan", title: "فلسفة الأكان", type: "مدرسة"
+- id: "sch-akan", title: "فلسفة الأكان (غانا)", type: "مدرسة"
 - id: "thk-yacob", title: "زارا يعقوب", type: "مفكر"
 - id: "con-solution-focused-miracle-q", title: "سؤال المعجزة (Miracle Question) في العلاج المختصر القائم على الحل", type: "مفهوم"
 - id: "con-two-eyed-seeing-indigenous", title: "الرؤية بعينين: دمج الحكمة الأصلية بالعلوم المعاصرة", type: "مفهوم"

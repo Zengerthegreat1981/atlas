@@ -15,7 +15,7 @@ active_end: 1949
 cultural_origin: "european"
 edges:
 - rel: "evolved_into", target: "sch-personalism-contemporary", target_type: "مدرسة"
-- rel: "belongs_to", target: "sch-american-idealism", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-american-idealism", target_type: "مدرسة"
 related:
 - id: "thk-mounier", title: "إيمانويل مونييه", type: "مفكر"
 - id: "thk-blondel", title: "موريس بلونديل", type: "مفكر"

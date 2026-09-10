@@ -2,7 +2,7 @@
 slug: "que-what-is-spiritual-bypassing"
 id: "QUE-0102"
 type: "سؤال توليدي"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "كيف يستخدم الفرد المفاهيم الروحية للهروب من مواجهة جراحه النفسية؟"
 en: "Spiritual Bypassing: How Spiritual Concepts Can Defend Against Psychological Wounds"
@@ -19,6 +19,7 @@ related:
 gaps:
   - "جون ويلوود (John Welwood)، صائغ المصطلح أصلاً (1984)، لا يوجد له ملف thk- مستقل في هذا الأطلس رغم ذِكره في عدة ملفات أخرى (thk-eckhart-tolle، thk-jrubin، rel-psychedelic-transpersonal)."
   - "روبرت أوغسطس ماسترز (Robert Augustus Masters)، مؤلف الكتاب المرجعي عن الظاهرة (2010)، لا يوجد له ملف thk- في هذا الأطلس (ملاحظة: thk-wmasters الموجود هو وليام ماسترز، شخص آخر تماماً — لا علاقة له بالموضوع)."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-transpersonal` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # كيف يستخدم الفرد المفاهيم الروحية للهروب من مواجهة جراحه النفسية؟

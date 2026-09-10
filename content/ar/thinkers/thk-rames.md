@@ -18,7 +18,7 @@ edges:
 - rel: "belongs_to", target: "sch-confucian-psychology", target_type: "مدرسة"
 related:
 - id: "sch-confucian-psychology", title: "علم النفس الكونفوشي", type: "مدرسة"
-- id: "sch-buddhist-psychology", title: "علم النفس البوذي", type: "مدرسة"
+- id: "sch-buddhist-psychology", title: "علم النفس البوذي (Buddhist Psychology)", type: "مدرسة"
 - id: "thk-ttu", title: "توي وي-مينغ (دو وي-مينغ)", type: "مفكر"
 - id: "con-ren", title: "الرن (仁) — الإنسانية الرحيمة", type: "مفهوم"
 - id: "con-li", title: "اللي (禮) — الطقس والأدب", type: "مفهوم"

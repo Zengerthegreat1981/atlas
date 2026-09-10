@@ -13,8 +13,8 @@ edges:
   - rel: "relates_to", target: "sch-continental-rationalism", target_type: "مدرسة"
   - rel: "relates_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
 related:
-  - id: "sch-continental-rationalism", title: "العقلانية القارية", type: "مدرسة"
-  - id: "sch-somatic-experiencing", title: "التجربة الجسدية", type: "مدرسة"
+  - id: "sch-continental-rationalism", title: "العقلانية القارية (كمظلة)", type: "مدرسة"
+  - id: "sch-somatic-experiencing", title: "التجربة الجسدية (Somatic Experiencing)", type: "مدرسة"
   - id: "thk-spinoza", title: "باروخ سبينوزا", type: "مفكر"
   - id: "thk-damasio", title: "أنطونيو داماسيو", type: "مفكر"
 gaps:

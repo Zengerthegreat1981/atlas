@@ -12,7 +12,7 @@ active_start: 1985
 active_end: "مستمر"
 part: "psychology"
 related:
-- id: "con-behavioral-activation", title: "التنشيط السلوكي", type: "مفهوم"
+- id: "con-behavioral-activation", title: "التنشيط السلوكي (مفهوم علاجي)", type: "مفهوم"
 gaps:
   - "**حُذف رابطٌ مُقحَم 2026-09-08:** كان `related` يحمل `br-sikolohiyang-pilipino` (علم النفس الفلبيني الأصيل) بلا أيِّ مسوّغ — ولا يُذكَر الفلبينُ ولا إنريكيز ولا «kapwa» في متن هذا الملفّ. وهو من دفعةٍ قالبيةٍ رُصد هدفُها الأوّل من قبل وأُغفل هذا."
   - "تاريخ Koegel في UCSB يستحق توثيقاً."

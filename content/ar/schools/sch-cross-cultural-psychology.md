@@ -16,12 +16,12 @@ active_end: "مستمر"
 edges:
 - rel: "split_into", target: "sch-cultural-psychology", target_type: "مدرسة"
 related:
-- id: "con-emic-etic", title: "الإيميك والإتيك (Emic vs. Etic)", type: "مفهوم"
-- id: "sch-cultural-psychology", title: "علم النفس الثقافي", type: "مدرسة"
+- id: "con-emic-etic", title: "الإيميتيك والإتيك (Emic vs. Etic)", type: "مفهوم"
+- id: "sch-cultural-psychology", title: "علم النفس الثقافي (Cultural Psychology)", type: "مدرسة"
 - id: "sch-indigenous-psychology", title: "علم نفس الشعوب الأصلية", type: "مدرسة"
-- id: "sch-multicultural-counseling", title: "الإرشاد متعدد الثقافات", type: "مدرسة"
-- id: "con-amae", title: "الأماي (Amae)", type: "مفهوم"
-- id: "dbt-cultural-bias-iq-testing", title: "جدل التحيز الثقافي في اختبارات الذكاء", type: "جدل"
+- id: "sch-multicultural-counseling", title: "الإرشاد متعدد الثقافات (Multicultural Counseling)", type: "مدرسة"
+- id: "con-amae", title: "أماي (الاعتمادية الحميمية والتكامل النفسي)", type: "مفهوم"
+- id: "dbt-cultural-bias-iq-testing", title: "جدل التحيز الثقافي في اختبارات الذكاء وصلاحيتها المقارنة", type: "جدل"
 gaps:
   - "**أُنشئ هذا الملف 2026-09-08:** كان اسمُ «علم النفس عبر الثقافي» يُستعمل أباً نصّياً في `belongs_to` لـ`con-emic-etic` ولـ`sch-indigenous-psychology` بلا ملفٍّ يقابله."
   - "**لا ملفَّ في الأطلس لـ**: **جون بِري** (John W. Berry، صاحبُ نموذج التثاقف) ولا **غيرت هوفستيده** (Geert Hofstede) ولا **هاري تريانديس** (Harry Triandis) ولا **شالوم شفارتز** (Shalom Schwartz) — وهم أعمدةُ الحقل ومذكورون في المتن. وهذا أثقلُ غيابٍ في الملفّ."

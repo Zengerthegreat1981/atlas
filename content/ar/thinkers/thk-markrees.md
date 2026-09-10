@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1975
 active_end: 2006
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "tec-feldenkrais-method", target_type: "تقنية/تدخل علاجي"
 related:
@@ -19,6 +19,7 @@ related:
 gaps:
   - "لم يُعثر على اقتباس منسوب له بمصدر وسنة محدَّدين."
   - "تفاصيل ممارسته الإكلينيكية اليومية (غير تدريبه المباشر مع فيلدنكرايس وكتابة السيرة) غير موثّقة بدقة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-feldenkrais-method` موسومٌ «psychology» — فوُحِّد على وسم الأب."
 ---
 
 # مارك ريس

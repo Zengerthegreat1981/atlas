@@ -15,11 +15,11 @@ evidence_level: "متوسط"
 related:
 - id: "thk-szasz", title: "توماس ساس", type: "مفكر"
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
-- id: "dbt-diagnostic-concept-creep", title: "جدل التمييع التشخيصي وتوسع تصنيفات الدليل التشخيصي", type: "جدل"
+- id: "dbt-diagnostic-concept-creep", title: "جدل التمييع التشخيصي وتوسع تصنيفات الدليل التشخيصي في الطب النفسي", type: "جدل"
 - id: "dbt-categorical-vs-dimensional-diagnosis", title: "التصنيف الفئوي مقابل الأبعادي للاضطرابات النفسية", type: "جدل"
 - id: "dbt-prolonged-grief-disorder-legitimacy", title: "جدل شرعنة اضطراب الحزن المطوّل", type: "جدل"
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-depressive-personality-historical", title: "اضطراب الشخصية الاكتئابية التاريخي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-depressive-personality-historical", title: "اضطراب الشخصية الاكتئابية التاريخي (Depressive Personality Disorder)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "لا مدرسة باسم 'فلسفة الطب النفسي' موجودة حالياً في schools/ ليُربط بها هذا الملف عبر edges؛ رابط belongs_to سابق كان يشير لنص حر بلا slug حقيقي وحُذف — يحتاج تسجيل طلب slug جديد."
   - "النقاشات المعاصرة (2020+) حول تطوير مفهوم 'الخلل الضار' (Harmful Dysfunction) بعد واكفيلد لم تُراجع بعد."

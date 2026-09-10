@@ -15,8 +15,8 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-- id: "br-bioenergetic-analysis", title: "التحليل البيوإنرجيتي", type: "تيار"
-- id: "thk-reich", title: "فيلهلم رايش", type: "مفكر"
+- id: "br-bioenergetic-analysis", title: "التحليل الطاقي الحيوي (لوين)", type: "تيار"
+- id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
 - id: "sch-gestalt-therapy", title: "علاج الجشطالت (Gestalt Therapy)", type: "مدرسة"
 - id: "br-self-psychology", title: "علم نفس الذات", type: "تيار"
 - id: "thk-kohut", title: "هاينز كوهوت", type: "مفكر"

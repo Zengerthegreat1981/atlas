@@ -16,7 +16,7 @@ active_end: 1800
 related:
 - id: "sch-vaisheshika", title: "فايشيشيكا", type: "مدرسة"
 - id: "sch-samkhya", title: "سامخيا", type: "مدرسة"
-- id: "sch-yoga", title: "يوغا الفلسفية", type: "مدرسة"
+- id: "sch-yoga", title: "يوغا الفلسفية (باتانجالي)", type: "مدرسة"
 - id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
 - id: "thk-gotama-kanad", title: "أكساپادا غوتاما (مؤسس نيايا)", type: "مفكر"
 - id: "br-nyaya-classical-prachina", title: "النيايا القديمة — مدرسة النيايا الهندية", type: "تيار"

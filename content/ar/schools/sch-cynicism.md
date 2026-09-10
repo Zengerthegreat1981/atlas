@@ -16,9 +16,9 @@ active_end: 500
 edges:
 - rel: "evolved_into", target: "sch-stoicism", target_type: "مدرسة"
 related:
-- id: "sch-stoicism", title: "الرواقية", type: "مدرسة"
-- id: "sch-sophistry", title: "السفسطائية", type: "مدرسة"
-- id: "sch-cyrenaic", title: "المدرسة القورينائية", type: "مدرسة"
+- id: "sch-stoicism", title: "الرواقية (Stoicism)", type: "مدرسة"
+- id: "sch-sophistry", title: "السفسطائية (Sophistry)", type: "مدرسة"
+- id: "sch-cyrenaic", title: "المدرسة القورينائية (Cyrenaic School)", type: "مدرسة"
 - id: "thk-crates-thebes", title: "كراتيس الطيبي", type: "مفكر"
 - id: "thk-diogenes-sinope", title: "ديوجين السينوبي", type: "مفكر"
 - id: "thk-hipparchia", title: "هيبارشيا من مارونيا", type: "مفكر"

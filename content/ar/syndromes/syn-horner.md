@@ -12,7 +12,7 @@ active_end: "مستمر"
 language: "متعدد اللغات"
 edges: []
 related:
-- id: "syn-wallenberg", title: "متلازمة فالنبرغ", type: "متلازمة"
+- id: "syn-wallenberg", title: "متلازمة فالنبرغ (المتلازمة البصلية الجانبية)", type: "متلازمة"
 - id: "con-lived-body", title: "الجسد المعيش (Leib vs. Körper)", type: "مفهوم"
 gaps:
   - "أبحاث يوهان فريدريش هورنر (1869) وتلف مسار الأعصاب السمبثاوية إلى العين والوجه."

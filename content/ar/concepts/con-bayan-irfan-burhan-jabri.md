@@ -13,11 +13,11 @@ edges:
 - rel: "belongs_to", target: "sch-islamic-critical-thought", target_type: "مدرسة"
 related:
 - id: "thk-mohammed-abed-al-jabri", title: "محمد عابد الجابري", type: "مفكر"
-- id: "sch-islamic-critical-thought", title: "الفكر الإسلامي النقدي", type: "مدرسة"
-- id: "thk-ibn-rushd", title: "ابن رشد", type: "مفكر"
-- id: "thk-ibn-sina", title: "ابن سينا", type: "مفكر"
-- id: "thk-ibn-arabi", title: "ابن عربي", type: "مفكر"
-- id: "thk-al-ghazali", title: "أبو حامد الغزالي", type: "مفكر"
+- id: "sch-islamic-critical-thought", title: "الفكر الإسلامي النقدي المعاصر", type: "مدرسة"
+- id: "thk-ibn-rushd", title: "أبو الوليد محمد بن أحمد بن رشد (الشارح الأكبر)", type: "مفكر"
+- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا (الشيخ الرئيس)", type: "مفكر"
+- id: "thk-ibn-arabi", title: "محيي الدين بن عربي (الشيخ الأكبر)", type: "مفكر"
+- id: "thk-al-ghazali", title: "أبو حامد محمد بن محمد الغزالي (حجة الإسلام)", type: "مفكر"
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
 gaps:
   - "**كُتب متنه 2026-09-07.** والفجوتان المسجَّلتان كانتا تنصّان على أن المتن لا يوثّق أعمال الجابري بأسمائها ولا يفصّل تطوّر المفهوم — وقد أُثبتت أجزاءُ *نقد العقل العربي* الأربعة وبُنيت الأنظمةُ الثلاثة والنتيجةُ التي انتهى إليها ومعها النقد."

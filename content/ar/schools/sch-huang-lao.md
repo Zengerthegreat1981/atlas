@@ -16,13 +16,14 @@ active_end: -50
 active_source: "lifespan"
 related:
 - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
-- id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
-- id: "sch-yinyang", title: "مدرسة الين-يانغ", type: "مدرسة"
+- id: "sch-legalism", title: "الشرعية / القانونية (Fajia)", type: "مدرسة"
+- id: "sch-yinyang", title: "مدرسة الين-يانغ (Naturalists / Yin-Yangjia)", type: "مدرسة"
 - id: "wrk-huanglao-texts", title: "نصوص هوانغ-لاو (مجموعة)", type: "عمل / كتاب"
 gaps:
   - "النصوص الكاملة (Huainanzi، Taipingjing) نُقلت هنا في ترجماتها الإنجليزية ولم تُقارن بالنص الأصلي."
   - "تحديد 'مؤسِّس' المدرسة ليس حاسماً: الاسم يشير إلى هوانغ دي ولاو تزو بوصفهما مرجعَين."
   - "لم تُدرَج في هذه المسودة مقارنة سطرية بين ترجمة Huainanzi الإنجليزية والنص الصيني الأصلي."
+  - "**نُظِّفت الأقسام 2026-09-10:** مُيِّز 1 عنوانَ قسمٍ مكرَّرٍ حرفياً بترقيمه."
 ---
 
 # هوانغ-لاو (Huang-Lao)
@@ -48,7 +49,7 @@ gaps:
 - انقرضت كتيار مدرسي، لكن رواسبها باقية في: الفلسفة الطبية (الصينية الكلاسيكية)، في الممارسة الإدارية الإمبراطورية، وفي «الفن العسكري» (الذي يصرّ على أن «أفضل قائد هو الذي لا يُحارب»).
 - في التسعينيات القرن العشرين، أعاد روبن آر. وآخرون قراءتها كـ«ليبرالية صينية مبكرة» (مع تحفّظ)، فاستعادوا فكرة «الحاكم المحدود» من التراث الصيني.
 
-## المصادر
+## المصادر (2)
 
 - Peerenboom, R. P. (1993). *Law and Morality in Ancient China: The Silk Manuscripts of Huang-Lao*. State University of New York Press.
 - Chang, Leo S., & Feng, Yu (1998). *The Four Political Treatises of the Yellow Emperor*. University of Hawai'i Press.

@@ -10,10 +10,10 @@ country: "أستراليا"
 language: "الإنجليزية"
 active_start: null
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 crumb: "طريقة فيلدنكرايس ← تطوير ← ستيفن بورغس"
 edges:
-- rel: "belongs_to", target: "tec-feldenkrais-method", target_type: "تيار"
+- rel: "belongs_to", target: "tec-feldenkrais-method", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-mfeldenkrais", title: "موشيه فيلدنكرايس", type: "مفكر"
 gaps:
@@ -21,6 +21,7 @@ gaps:
   - "لا توجد سيرة ذاتية منشورة لـ 'Stephen Burgess' في IFF (International Feldenkrais Federation) حتى آب 2026."
   - "الاحتمال: خلط مع 'Stephen Burgess' (محاضر في علم الإحصاء الحيوي، جامعة ساوثهامبتون) أو 'Stephen Burgess' (ممثل أسترالي، حقل مختلف)."
   - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'Feldenkrais Australasia' عام."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-feldenkrais-method` موسومٌ «psychology» — فوُحِّد على وسم الأب."
 ---
 
 # ستيفن بورغس

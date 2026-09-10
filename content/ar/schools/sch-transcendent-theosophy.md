@@ -14,8 +14,8 @@ active_start: 1600
 active_end: "مستمر"
 cultural_origin: "islamic-arabic"
 edges:
-- rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مظلة"
-- rel: "belongs_to", target: "sch-isfahan", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-isfahan", target_type: "مدرسة"
 related:
 - id: "sch-isfahan", title: "مدرسة أصفهان الفلسفية", type: "مدرسة"
 - id: "sch-ishraqiyya", title: "الإشراقية", type: "مدرسة"

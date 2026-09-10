@@ -17,7 +17,7 @@ edges:
 related:
 - id: "con-epoche-suspension", title: "الإيبوخيه وتعليق الحكم (Epoché)", type: "مفهوم"
 - id: "con-ataraxia", title: "الأتاراكسيا والسكينة النفسية", type: "مفهوم"
-- id: "sch-pyrrhonism", title: "الشك البيروني", type: "مدرسة"
+- id: "sch-pyrrhonism", title: "الشك البيروني (Pyrrhonian Skepticism)", type: "مدرسة"
 - id: "thk-sextus-empiricus", title: "سكستوس إمبيريكوس", type: "مفكر"
 gaps:
   - "درجة تأثّر بيرون الفعلية بالحكماء العراة في الهند مسألة موضع نقاش أكاديمي غير محسوم (بيكويذ مقابل منتقديه)."

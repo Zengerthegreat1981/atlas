@@ -9,8 +9,8 @@ crumb: "التحليل النفسي ← الناس ← Kleinian (تأسيسي) �
 dates: "بولندا / بريطانيا · 1901–1983"
 country: "المملكة المتحدة"
 language: "الإنجليزية / الألمانية"
-part: "philosophy"
-active_start: null
+part: "psychology"
+active_start: 1901
 active_end: 1983
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
@@ -21,6 +21,8 @@ related:
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *The Experience of the Skin in Early Object-Relations* (1968) بترجمة عربية معتمدة."
   - "لم يُراجَع نصّ *The Experience of the Skin in Early Object-Relations* (1968) من مصدره الأصلي."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («بولندا / بريطانيا · 1901–1983») فاستُخرجت: 1901."
 ---
 
 # إستر بيك

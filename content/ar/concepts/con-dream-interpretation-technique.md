@@ -20,7 +20,7 @@ related:
 - id: "thk-klein", title: "ميلاني كلاين", type: "مفكر"
 - id: "thk-karl-popper", title: "سير كارل بوبر", type: "مفكر"
 - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
-- id: "wrk-die-traumdeutung", title: "تفسير الأحلام", type: "عمل"
+- id: "wrk-die-traumdeutung", title: "تفسير الأحلام", type: "عمل / كتاب"
 - id: "con-free-association", title: "التداعي الحرّ (Free Association)", type: "مفهوم"
 - id: "con-transference", title: "التحويل والتحويل المقابل في العلاقة العلاجية (Transference)", type: "مفهوم"
 gaps:

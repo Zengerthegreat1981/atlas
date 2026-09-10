@@ -16,7 +16,7 @@ related:
 - id: "thk-galileo-galilei", title: "غاليليو غاليلي", type: "مفكر"
 - id: "thk-berkeley", title: "جورج باركلي", type: "مفكر"
 - id: "sch-british-empiricism", title: "التجريبية البريطانية (كمظلة)", type: "مدرسة"
-- id: "wrk-an-essay-concerning-human-understanding-locke", title: "رسالة في الفهم البشري لجون لوك", type: "عمل"
+- id: "wrk-an-essay-concerning-human-understanding-locke", title: "رسالة في الفهم البشري لجون لوك", type: "عمل / كتاب"
 - id: "con-qualia", title: "الكواليا (Qualia): الكيف المتعالي للتجربة", type: "مفهوم"
 - id: "dbt-mary-the-super-scientist-qualia", title: "مفارقة ماري عالمة الألوان والخبرة الذاتية الكواليا", type: "جدل"
 gaps:

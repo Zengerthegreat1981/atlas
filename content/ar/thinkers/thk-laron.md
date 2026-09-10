@@ -5,13 +5,13 @@ type: "مفكر"
 level: "متقدم"
 title: "لويس آرون"
 en: "Lewis Aron"
-crumb: "مدرسة التحليل النفسي ← العلائقية ← لويس آرون"
+crumb: "التحليل النفسي ← العلائقية ← لويس آرون"
 dates: "أمريكا · 1952–2019"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1990
 active_end: 2019
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "belongs_to", target: "br-relational-psychoanalysis", target_type: "تيار"
@@ -28,6 +28,8 @@ gaps:
   - "سنة تأسيس مركز ساندور فيرينتسي في The New School for Social Research، ومدة إدارته لبرنامج NYU، غير محدَّدتين في المصادر المراجَعة."
   - "لا ترجمة عربية معتمدة لأيٍّ من كتب آرون، فلا اقتباس عربي منسوب إلى صفحة في *A Meeting of Minds* (1996)."
   - "`thk-galit-atlas` و`thk-kstarr` (كارن ستار) و`thk-adrienne-harris` — شركاؤه في التأليف والتحرير — بلا ملفات في الأطلس، فبقيت أسماؤهم في المتن بلا روابط."
+  - "**وُحِّد مسارُ التنقّل 2026-09-10:** كان «مدرسة التحليل النفسي» وصار «التحليل النفسي» — لأنّ الجذرَ كان منقسماً بين صيغتين للشيء نفسِه، فيعرض فهرسُ التصفّح موضعين لموضعٍ واحد."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-relational-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # لويس آرون

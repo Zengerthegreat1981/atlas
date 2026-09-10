@@ -17,8 +17,8 @@ related:
 - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
 - id: "thk-feuerbach", title: "لودفيغ أندرياس فيورباخ", type: "مفكر"
 - id: "con-commodity-fetishism", title: "صنمية السلعة والتشيؤ (Commodity Fetishism)", type: "مفهوم"
-- id: "wrk-economic-philosophic-manuscripts-1844", title: "مخطوطات باريس الاقتصادية والفلسفية 1844 لماركس", type: "عمل"
-- id: "wrk-capital-marx", title: "رأس المال لكارل ماركس (Das Kapital)", type: "عمل"
+- id: "wrk-economic-philosophic-manuscripts-1844", title: "مخطوطات باريس الاقتصادية والفلسفية 1844 لماركس", type: "عمل / كتاب"
+- id: "wrk-capital-marx", title: "رأس المال لكارل ماركس (Das Kapital)", type: "عمل / كتاب"
 gaps:
   - "لم تُراجع بعد المخطوطات الأربعة لعام 1844 (Ökonomisch-philosophische Manuskripte) من مصدر أولي مباشر لاستخراج اقتباس موثق."
   - "لا يوجد بعد تمييز موثّق بين استخدام هيغل المبكر لمصطلح Entfremdung واستخدام ماركس اللاحق له."

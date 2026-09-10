@@ -17,7 +17,7 @@ related:
 - id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
 - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
 - id: "sch-transpersonal", title: "علم النفس عبر الشخصي (Transpersonal Psychology)", type: "مدرسة"
-- id: "rel-family-systems-bowen", title: "العلاج الأسري ونظرية Bowen: منظوماتية الأجيال", type: "علاقة بين مدرستين"
+- id: "rel-family-systems-bowen", title: "العلاج الأسري ونظرية بوين: مدرسةٌ تُعالج الأسرة بأن تُخرج فرداً منها", type: "علاقة بين مدرستين"
 gaps:
   - "Wilber (1977، 1995) يستلهم من Vedānta لكن لا يقبلها كما هي. يدمج مع سلسلته \"الطيف\" (Spectrum) وتأويلات يقرأ Vygotsky، Piaget، Habermas. التوثيق الأكاديمي للتلفيق والابتعاد في آن واحد."
   - "الفرق بين \"الأدفايتا المنهجية\" (شانكارا) و\"الأدفايتا الخبرية\" (رامانا ماهارشي) وتأثيره على Grof لم يُحلّل في هذا الملف."

@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
-- id: "tec-classical-behavior-therapy", title: "العلاج السلوكي الكلاسيكي وإزالة التحسس", type: "تقنية/تدخل علاجي"
+- id: "tec-classical-behavior-therapy", title: "العلاج السلوكي الكلاسيكي وإزالة التحسس المنهجي", type: "تقنية/تدخل علاجي"
 - id: "con-applied-behavior-analysis", title: "تحليل السلوك التطبيقي (ABA)", type: "مفهوم"
 - id: "con-aversion-therapy", title: "علاج النفور (تاريخي)", type: "مفهوم"
 - id: "rel-behaviorism-cognitive", title: "السلوكية والمعرفية: الثورة المعرفية داخل السلوكية", type: "علاقة بين مدرستين"

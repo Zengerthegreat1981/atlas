@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-ai-ethics", target_type: "مدرسة"
 related:
 - id: "sch-ai-ethics", title: "أخلاقيات الذكاء الاصطناعي", type: "مدرسة"
-- id: "wrk-atlas-of-ai-crawford", title: "أطلس الذكاء الاصطناعي (Atlas of AI)", type: "عمل"
+- id: "wrk-atlas-of-ai-crawford", title: "أطلس الذكاء الاصطناعي (Atlas of AI)", type: "عمل / كتاب"
 gaps:
   - "لم تُراجع بعدُ دراسات Buolamwini & Gebru (Gender Shades, 2018) ولا Noble (Algorithms of Oppression, 2018)."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

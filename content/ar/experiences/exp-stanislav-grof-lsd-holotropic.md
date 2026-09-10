@@ -2,7 +2,7 @@
 slug: "exp-stanislav-grof-lsd-holotropic"
 id: "EXP-0053"
 type: "خبرة معيشة"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "تجارب ستانيسلاف غروف مع التنفس الهولتروبي والمصفوفات الوالدية"
 en: "Stanislav Grof's Research on Perinatal Matrices and Holotropic Breathwork"
@@ -18,6 +18,7 @@ related:
 - id: "thk-cgrof", title: "كريستينا غروف", type: "مفكر"
 gaps:
   - "تحديد تاريخ الجلسة الأولى بدقة (مصادر تذكر 1956 وأخرى مطلع 1957) يحتاج تدقيقاً في سيرته الذاتية When the Impossible Happens (2006)."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-transpersonal` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # تجارب ستانيسلاف غروف مع التنفس الهولتروبي والمصفوفات الوالدية

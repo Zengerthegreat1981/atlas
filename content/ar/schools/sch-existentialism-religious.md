@@ -16,8 +16,8 @@ active_end: 1980
 edges:
 - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
-- id: "sch-existentialism", title: "الوجودية", type: "مدرسة"
-- id: "sch-existentialism-atheist", title: "الوجودية الملحدة", type: "مدرسة"
+- id: "sch-existentialism", title: "الوجودية (Existentialism)", type: "مدرسة"
+- id: "sch-existentialism-atheist", title: "الوجودية الملحدة (Atheist Existentialism)", type: "مدرسة"
 - id: "thk-mbuber", title: "مارتن بُبَر", type: "مفكر"
 - id: "sch-personalism-contemporary", title: "الشخصانية المعاصرة (Contemporary Personalism)", type: "مدرسة"
 gaps:

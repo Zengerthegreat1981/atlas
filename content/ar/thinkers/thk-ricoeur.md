@@ -15,8 +15,8 @@ part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-hermeneutics", target_type: "مدرسة"
 related:
-- id: "thk-husserl", title: "هوسرل", type: "مفكر"
-- id: "thk-gadamer", title: "غادامير", type: "مفكر"
+- id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
+- id: "thk-gadamer", title: "هانز-غيورغ غادامير", type: "مفكر"
 - id: "thk-marcel", title: "غابرييل مارسِل", type: "مفكر"
 - id: "con-guilt", title: "الذنب", type: "مفهوم"
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"

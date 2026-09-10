@@ -15,8 +15,8 @@ related:
 - id: "exp-peak-experience-maslow", title: "تجربة الذروة عند ماسلو: لحظات الأَلْمَع والأَعَمَق", type: "خبرة معيشة"
 - id: "exp-aesthetic-experience", title: "التجربة الجمالية: انْخِراط الحواس في الجمال", type: "خبرة معيشة"
 - id: "thk-csikszentmihalyi", title: "ميهاي تشيكسنتميهاي", type: "مفكر"
-- id: "wrk-flow-csikszentmihalyi", title: "التدفق: سيكولوجيا التجربة المثلى", type: "عمل"
-- id: "stu-deci-intrinsic-motivation", title: "دراسات ديسي وراين للتحفيز الداخلي ونظرية التحديد الذاتي", type: "دراسة"
+- id: "wrk-flow-csikszentmihalyi", title: "التدفق: سيكولوجيا التجربة المثلى", type: "عمل / كتاب"
+- id: "stu-deci-intrinsic-motivation", title: "دراسات ديسي وراين للتحفيز الداخلي ونظرية التحديد الذاتي", type: "دراسة وبحث"
 - id: "rel-humanistic-positive", title: "الإنسانية وعلم النفس الإيجابي: ابن ينسى أباه", type: "علاقة بين مدرستين"
 gaps:
 - "مقارنة تجربة الفيض عبر ميادين مختلفة (تسلق الصخور، الشطرنج، الجراحة) تحتاج فصلاً يستند إلى بيانات أخذ العينات التجريبية (ESM) الأصلية لا إلى وصف عام."

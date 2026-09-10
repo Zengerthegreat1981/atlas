@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
 - id: "sch-phenomenology", title: "الظاهراتية (Phänomenologie)", type: "مدرسة"
-- id: "wrk-ideas-pertaining-to-pure-phenomenology-husserl", title: "أفكار نحو فينومينولوجيا خالصة لإدموند هوسرل (Ideen I)", type: "عمل"
+- id: "wrk-ideas-pertaining-to-pure-phenomenology-husserl", title: "أفكار نحو فينومينولوجيا خالصة لإدموند هوسرل (Ideen I)", type: "عمل / كتاب"
 - id: "con-epoche-suspension", title: "الإيبوخيه وتعليق الحكم (Epoché)", type: "مفهوم"
 - id: "con-cartesian-doubt-method", title: "الشك المنهجي الديكارتي (Methodic Doubt)", type: "مفهوم"
 - id: "thk-descartes", title: "رينيه ديكارت", type: "مفكر"

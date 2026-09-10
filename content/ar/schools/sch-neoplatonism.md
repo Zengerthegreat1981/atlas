@@ -15,9 +15,9 @@ active_start: 245
 active_end: 529
 edges: []
 related:
-- id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية", type: "مدرسة"
-- id: "sch-middle-platonism", title: "الأفلاطونية الوسطى", type: "مدرسة"
-- id: "sch-aristotelianism", title: "المشائية / الأرسطية", type: "مدرسة"
+- id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية (القديمة/الوسطى/الجديدة الشكية)", type: "مدرسة"
+- id: "sch-middle-platonism", title: "الأفلاطونية الوسطى (Middle Platonism)", type: "مدرسة"
+- id: "sch-aristotelianism", title: "المشائية / الأرسطية (Aristotelianism)", type: "مدرسة"
 - id: "trm-nous-anaxagoras-plotinus", title: "النوس (Nous): العقل الخالص والفيض الإلهي", type: "مصطلح لغوي متنازع عليه"
 - id: "br-neoplatonism-alexandrian", title: "الأفلاطونية المحدثة الإسكندرانية — الأفلاطونية المحدثة", type: "تيار"
 - id: "br-neoplatonism-athenian", title: "الأفلاطونية المحدثة الأثينية — الأفلاطونية المحدثة", type: "تيار"

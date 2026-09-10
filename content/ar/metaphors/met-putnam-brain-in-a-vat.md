@@ -14,7 +14,7 @@ edges:
 related:
 - id: "que-simulation-hypothesis-reality", title: "هل يمكن أن نكون كائنات رقمية تعيش داخل محاكاة حاسوبية فائقة؟", type: "سؤال توليدي"
 - id: "thk-hputnam", title: "هيلاري بوتنام", type: "مفكر"
-- id: "met-descartes-evil-demon", title: "الشيطان الماكر لديكارت", type: "استعارة/مجاز مؤسِّس"
+- id: "met-descartes-evil-demon", title: "الشيطان الماكر لديكارت: استعارة الشك المنهجي الجذري", type: "استعارة/مجاز مؤسِّس"
 - id: "thk-bostrom", title: "نيك بوستروم", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر من نص بوتنام (1981) لصيغة الحجة الدلالية بالكامل — الملف يلخّص البنية العامة للحجة فقط."

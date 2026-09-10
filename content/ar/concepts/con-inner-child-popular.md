@@ -16,9 +16,9 @@ related:
 - id: "wrk-homecoming-inner-child", title: "العودة إلى الوطن: استعادة طفلك الداخلي وحمايته", type: "عمل / كتاب"
 - id: "thk-john-bradshaw", title: "جون برادشو", type: "مفكر"
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-- id: "con-archetype", title: "الأركيتيب (النموذج الأصلي)", type: "مفهوم"
+- id: "con-archetype", title: "النموذج الأصلي (Archetype)", type: "مفهوم"
 - id: "thk-berne", title: "إريك بيرن", type: "مفكر"
-- id: "tec-ego-state", title: "علاج حالات الأنا (Ego State Therapy)", type: "تقنية"
+- id: "tec-ego-state", title: "علاج حالات الأنا (Ego State Therapy)", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا يوجد ملف wrk- مستقل لعمل يونغ أو بيرن الذي صاغا فيه النمط البدئي وحالة أنا الطفل، لربطهما بالاسم بدل الاكتفاء بالمفهوم."
 ---

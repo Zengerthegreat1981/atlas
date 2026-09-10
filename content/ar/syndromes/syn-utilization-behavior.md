@@ -12,7 +12,7 @@ active_end: "مستمر"
 language: "متعدد اللغات"
 edges: []
 related:
-- id: "syn-environmental-dependency", title: "متلازمة التبعية للبيئة", type: "متلازمة"
+- id: "syn-environmental-dependency", title: "متلازمة التبعية للبيئة وسلوك الاستخدام القهري (Lhermitte)", type: "متلازمة"
 - id: "dis-major-neurocognitive", title: "اضطراب معرفي عصبي رئيسي (الخرف)", type: "اضطراب/حالة إكلينيكية"
 - id: "con-utilization-principle", title: "مبدأ الاستفادة", type: "مفهوم"
 gaps:

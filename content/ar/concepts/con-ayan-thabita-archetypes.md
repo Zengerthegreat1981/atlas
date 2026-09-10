@@ -12,12 +12,12 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-wahdat-alwujud", target_type: "مدرسة"
 related:
-- id: "thk-ibn-arabi", title: "ابن عربي", type: "مفكر"
-- id: "sch-akbari", title: "المدرسة الأكبرية", type: "مدرسة"
-- id: "wrk-fusus-al-hikam-ibn-arabi", title: "فصوص الحكم لابن عربي", type: "عمل"
-- id: "con-wahdat-al-wujud-oneness-of-being", title: "وحدة الوجود", type: "مفهوم"
-- id: "thk-ibn-sina", title: "ابن سينا", type: "مفكر"
-- id: "thk-mulla-sadra", title: "ملّا صدرا", type: "مفكر"
+- id: "thk-ibn-arabi", title: "محيي الدين بن عربي (الشيخ الأكبر)", type: "مفكر"
+- id: "sch-akbari", title: "المدرسة الأكبرية (مدرسة الإمبراطور أكبر المغولي)", type: "مدرسة"
+- id: "wrk-fusus-al-hikam-ibn-arabi", title: "فصوص الحكم لمحيي الدين بن عربي", type: "عمل / كتاب"
+- id: "con-wahdat-al-wujud-oneness-of-being", title: "وحدة الوجود العرفانية (Wahdat al-Wujud)", type: "مفهوم"
+- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا (الشيخ الرئيس)", type: "مفكر"
+- id: "thk-mulla-sadra", title: "ملا صدرا الشيرازي (صدر الدين الشيرازي)", type: "مفكر"
 gaps:
   - "**كُتب متنه 2026-09-07.** والفجوةُ المسجَّلة كانت تنصّ على أن «المصادرَ الأولية والتحليلَ المعجمي لتطوّر المصطلح عبر شرّاح ابن عربي (كالقيصري والجيلي) لم تُوثَّق بعد» — وقد أُثبت أصلُ المفهوم ومسألتُه ومقارنتُه بالمثال الأفلاطوني، وبقيت **معالجةُ الشرّاح** غيرَ مفصَّلة كما كانت."
   - "لا ملفَّ في الأطلس لداود القيصري ولا لعبد الكريم الجيلي، وهما أهمُّ شارحَين للمفهوم؛ فتعذّر ربطُهما وذُكرا في المتن."

@@ -2,7 +2,7 @@
 slug: "que-climate-grief-solastalgia"
 id: "QUE-0124"
 type: "سؤال توليدي"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "كيف يواجه الإنسان المعاصر الحزن المناخي والسولاستالجيا في عصر الأنثروبوسين؟"
 en: "How Does Modern Humanity Confront Climate Grief and Solastalgia in the Anthropocene?"
@@ -12,11 +12,12 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-- id: "ctx-anthropocene-climate-crisis-grief", title: "عصر الأنثروبوسين وأزمة المناخ", type: "سياق/تقليد"
+- id: "ctx-anthropocene-climate-crisis-grief", title: "عصر الأنثروبوسين وأزمة المناخ وظاهرة «الحزن البيئي»", type: "سياق/تقليد"
 - id: "thk-lroszak", title: "ثيودور روزاك", type: "مفكر"
 - id: "thk-jonas", title: "هانز يوناس", type: "مفكر"
 gaps:
   - "لم تُراجَع مباشرة ورقة ألبرشت (2005) 'Solastalgia' في مجلة Philosophy Activism Nature؛ الاستشهاد قائم على مراجع ثانوية موثّقة في ctx-anthropocene-climate-crisis-grief."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-humanistic` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 # كيف يواجه الإنسان المعاصر الحزن المناخي والسولاستالجيا في عصر الأنثروبوسين؟
 

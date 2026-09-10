@@ -15,9 +15,9 @@ active_start: 1940
 active_end: "مستمر"
 related:
 - id: "sch-indigenismo", title: "الإنديجينيزمو", type: "مدرسة"
-- id: "sch-decolonial-latin", title: "الفلسفة الديكولونيالية اللاتينية", type: "مدرسة"
+- id: "sch-decolonial-latin", title: "الفلسفة الديكولونيالية اللاتينية الأمريكية", type: "مدرسة"
 - id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
-- id: "sch-arielismo", title: "فلسفة الهوية اللاتينية", type: "مدرسة"
+- id: "sch-arielismo", title: "فلسفة الهوية اللاتينية الأمريكية (الأرييلية)", type: "مدرسة"
 - id: "sch-caribbean-philosophy", title: "فلسفة الكاريبي (الهوية والكريولية)", type: "مدرسة"
 gaps:
   - "نصوص Fernando Ortiz (Cuban Counterpoint), Nestor García Canclini, Serge Gruzinski, Édouard Glissant need review."

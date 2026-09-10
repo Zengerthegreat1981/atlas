@@ -18,7 +18,7 @@ edges:
 related:
 - id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
 - id: "tec-hope-therapy", title: "علاج الأمل", type: "تقنية/تدخل علاجي"
-- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-positive-psychotherapy-peseschkian", title: "العلاج النفسي الإيجابي لبيسشكيان", type: "تقنية/تدخل علاجي"
 gaps:
   - "البروتوكول المعياري المكوّن من 14 جلسة لتاياب راشد ومارتن سليغمان (Tayyab Rashid & Martin Seligman)."

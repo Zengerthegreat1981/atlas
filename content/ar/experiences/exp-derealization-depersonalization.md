@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "dis-depersonalization-derealization", title: "اضطراب تبدّد الشخصية/الواقع", type: "اضطراب"
+- id: "dis-depersonalization-derealization", title: "اضطراب تبدّد الشخصية/الواقع", type: "اضطراب/حالة إكلينيكية"
 - id: "exp-depersonalization", title: "تَبَدُّد الشَّخصية (Depersonalization): أنا غَريب عن نَفسي", type: "خبرة معيشة"
 - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
 - id: "exp-nausea-sartre", title: "الغثيان السارتري: تجربة الاكتشاف الفجائي لوجود العالم", type: "خبرة معيشة"

@@ -10,9 +10,9 @@ country: "[غير مؤكد]"
 active_start: 1992
 active_end: "مستمر"
 language: "[غير مؤكد]"
-part: "psychology"
+part: "philosophy"
 edges:
-- rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "تيار"
 related:
 - id: "thk-jherman", title: "جوديث هِرمان", type: "مفكر"
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
@@ -23,6 +23,7 @@ related:
 gaps:
   - "الصياغة الأصلية تعود إلى جوديث هرمان (Judith Herman) في كتابها «الصدمة والتعافي» (1992)."
   - "إدراج C-PTSD رسمياً في ICD-11 (2018) — اضطراب منفصل عن PTSD."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-sensorimotor-trauma-applications` موسومٌ «philosophy» — فوُحِّد على وسم الأب."
 ---
 
 # اضطراب الكرب التالي للصدمة المعقد (C-PTSD)

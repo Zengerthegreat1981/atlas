@@ -11,7 +11,7 @@ country: "كوستاريكا"
 language: "الإسبانية"
 active_start: 1973
 active_end: 2016
-part: "psychology"
+part: "philosophy"
 edges:
 - rel: "belongs_to", target: "br-liberation-psychology", target_type: "تيار"
 related:
@@ -19,6 +19,7 @@ related:
 - id: "thk-imartinbaro", title: "إغناثيو مارتن-بارو", type: "مفكر"
 gaps:
   - "تحقّق (بحث ويب، مؤكَّد): وُلد فرانسيسكو غوتيريس بيريز في بورغوس، إسبانيا سنة 1928، ونال دكتوراه في علوم التربية سنة 1977 (جامعة كومبلوتنسي مدريد) ودكتوراه أخرى من الجامعة الوطنية في كوستاريكا؛ أسّس المعهد اللاتيني الأمريكي للتربية التواصلية (ILPEC) وترأّسه، وفي 2003 أسّس برنامج دكتوراه في «الوساطة التربوية» بجامعة لاسال في سان خوسيه؛ توفي في 15 نوفمبر 2016 عن عمر 88 عاماً (مصادر: SIGNIS، Red Educom، Educomunicación Facso)."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-liberation-psychology` موسومٌ «philosophy» — فوُحِّد على وسم الأب."
 ---
 
 # فرانسيسكو غوتيريس

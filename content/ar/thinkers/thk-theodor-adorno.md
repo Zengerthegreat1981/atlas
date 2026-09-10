@@ -15,7 +15,7 @@ active_end: 1969
 edges:
 - rel: "belongs_to", target: "sch-frankfurt-school", target_type: "مدرسة"
 related:
-- id: "sch-frankfurt-school", title: "مدرسة فرانكفورت", type: "مدرسة"
+- id: "sch-frankfurt-school", title: "النظرية النقدية / مدرسة فرانكفورت (Frankfurter Schule)", type: "مدرسة"
 - id: "thk-max-horkheimer", title: "ماكس هوركهايمر", type: "مفكر"
 - id: "thk-habermas", title: "يورغن هابرماس", type: "مفكر"
 gaps:

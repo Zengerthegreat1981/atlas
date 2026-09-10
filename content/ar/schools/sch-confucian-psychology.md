@@ -20,11 +20,11 @@ edges:
 - rel: "evolved_from", target: "sch-newconfucianism-modern", target_type: "مدرسة"
 related:
 - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
-- id: "sch-newconfucianism-modern", title: "الكونفوشية الجديدة الحديثة", type: "مدرسة"
+- id: "sch-newconfucianism-modern", title: "الكونفوشية الجديدة الحديثة (Modern New Confucianism)", type: "مدرسة"
 - id: "sch-korean-neoconfucian", title: "النيوكونفوشية الكورية", type: "مدرسة"
 - id: "sch-engaged-buddhism", title: "البوذية المنخرطة اجتماعياً", type: "مدرسة"
 - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
-- id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
+- id: "sch-phenomenology", title: "الظاهراتية (Phänomenologie)", type: "مدرسة"
 - id: "thk-confucius", title: "كونفوشيوس (كونغ زي)", type: "مفكر"
 - id: "thk-akaptchuk", title: "تيد ج. كابتْشُك", type: "مفكر"
 - id: "con-confucian-ren", title: "الإنسانية (Ren 仁, Confucianism)", type: "مفهوم"

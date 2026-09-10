@@ -8,17 +8,18 @@ en: "Han (한)"
 crumb: "أطر غير غربية ← المفاهيم ← هان"
 active_start: 1970
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-indigenous-psychology", target_type: "مدرسة"
 related:
-- id: "dis-hwabyung", title: "الهوابيونغ", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-hwabyung", title: "الهوابيونغ (Hwabyung)", type: "اضطراب/حالة إكلينيكية"
 - id: "con-hwabyung-concept", title: "الهوابيونغ (مفهوم ثقافي)", type: "مفهوم"
 - id: "con-jeong-korean", title: "جونغ (Jeong، 정)", type: "مفهوم"
 gaps:
   - "النظريات الأدبية لـHan في الأدب الكوري (Park Hwa-seong) لم تُوثّق بدقة."
   - "يوجد اقتباس موثّق من Park Wan-suh في المتن؛ لم يُعثر بعد على اقتباس مباشر موثّق من Hwang Sok-yong أو من كيم كوان-سونغ بخصوص Han تحديداً."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: كيم كوان-سونغ (thk-kimkwansung)."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-indigenous-psychology` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # هان (Han، 한)

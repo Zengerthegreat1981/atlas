@@ -12,9 +12,9 @@ active_end: -399
 related:
 - id: "thk-socrates", title: "سقراط", type: "مفكر"
 - id: "thk-plato", title: "أفلاطون", type: "مفكر"
-- id: "trm-aporia-socratic", title: "الأبوريا (Aporia): الحيرة الفلسفية وانسداد الأفق المنطقي", type: "مصطلح"
-- id: "trm-dialectic-greek", title: "الجدلية (Dialectic / Dialektikē)", type: "مصطلح"
-- id: "tec-cbt-cog-socratic-questioning", title: "التساؤل السقراطي", type: "تقنية"
+- id: "trm-aporia-socratic", title: "الأبوريا (Aporia): الحيرة الفلسفية وانسداد الأفق المنطقي", type: "مصطلح لغوي متنازع عليه"
+- id: "trm-dialectic-greek", title: "الجدلية (Dialectic / Dialektikē)", type: "مصطلح لغوي متنازع عليه"
+- id: "tec-cbt-cog-socratic-questioning", title: "التساؤل السقراطي", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا سلسلة موثقة لمدرسة سقراطية رسمية له — لم يترك سقراط مؤسسة تعليمية مسجَّلة بخلاف تلامذته المباشرين (أفلاطون وغيره)، لذا لا رابط belongs_to لمدرسة محددة."
 ---

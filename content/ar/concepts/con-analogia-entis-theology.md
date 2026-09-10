@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-aquinas", title: "توما الأكويني", type: "مفكر"
 - id: "sch-thomism", title: "التوماوية", type: "مدرسة"
-- id: "wrk-summa-theologiae-aquinas", title: "الخلاصة اللاهوتية لتوما الإكويني", type: "عمل"
+- id: "wrk-summa-theologiae-aquinas", title: "الخلاصة اللاهوتية لتوما الإكويني", type: "عمل / كتاب"
 gaps:
   - "المصادر الأولية والتحليل المعجمي والمفاهيمي لتطور المصطلح."
 ---

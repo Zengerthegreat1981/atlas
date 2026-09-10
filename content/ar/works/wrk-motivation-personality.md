@@ -21,8 +21,8 @@ edges:
 related:
 - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
 - id: "br-self-actualization-maslow", title: "علم نفس تحقيق الذات والدافعية الإنسانية (ماسلو)", type: "تيار"
-- id: "con-self-actualization", title: "تحقيق الذات", type: "مفهوم"
-- id: "con-peak-experience", title: "خبرة الذروة", type: "مفهوم"
+- id: "con-self-actualization", title: "تحقيق الذات (Self-Actualization)", type: "مفهوم"
+- id: "con-peak-experience", title: "خبرة الذروة (Peak Experience)", type: "مفهوم"
 gaps:
   - "لم يثبت وجود ترجمة عربية منشورة لهذا العمل: بُحث عن مترجم وناشر وسنة ولم يُعثر على أيٍّ منها."
   - "عدد الحالات في عيّنة «المحقِّقين لذواتهم» يتفاوت بين فصل ماسلو 1950 وطبعتَي 1954 و1970، ولم يُحصَر العدد الدقيق في كل طبعة من نصّ الطبعة نفسها."

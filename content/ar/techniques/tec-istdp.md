@@ -18,7 +18,7 @@ edges:
 related:
 - id: "thk-hdavanloo", title: "حبيب دَفانلو", type: "مفكر"
 - id: "sch-istdp", title: "العلاج النفسي الديناميكي قصير المدى المكثف (ISTDP)", type: "مدرسة"
-- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-stpp", title: "التحليل النفسي الديناميكي قصير المدى (STPP)", type: "تقنية/تدخل علاجي"
 - id: "tec-istdp-head-on-collision", title: "تقنية المواجهة الصريحة مع المقاومة في ISTDP", type: "تقنية/تدخل علاجي"
 gaps:

@@ -2,7 +2,7 @@
 slug: "br-daseins"
 id: "BRN-0101"
 type: "تيار"
-level: ""
+level: "مبتدئ"
 title: "التحليل الوجودي والدازاين"
 en: "Daseinsanalysis"
 country: "سويسرا / ألمانيا"
@@ -17,7 +17,7 @@ edges:
 - rel: "developed_by", target: "thk-binswanger", target_type: "مفكر"
 - rel: "developed_by", target: "thk-boss", target_type: "مفكر"
 - rel: "contrasts_with", target: "br-humanistic", target_type: "تيار"
-- rel: "influenced", target: "rel-phenopath", target_type: "حقل"
+- rel: "influenced", target: "rel-phenopath", target_type: "علاقة بين مدرستين"
 related:
 - id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
 - id: "thk-boss", title: "ميدارد بوس", type: "مفكر"
@@ -29,6 +29,7 @@ gaps:
   - "**صُحِّح مسار التنقّل 2026-09-08:** كان الجزء الأول «المدرسة الوجودية» ختماً قالبياً؛ واستُبدل بـ«الفلسفة الوجودية». المصدر: وجودي مُدقَّق — الجيرةُ وجودية، ودُقِّق الوسمُ بحسب part. ولم يُشتقَّ من `belongs_to` لأنّ الحقلَ في هذا الحشد مختومٌ آلياً على «الوجودية العلاجية» حتى لمدخلاتٍ فلسفيةٍ تسبق الوجودية بقرون."
   - "المصادر الأولية بالألمانية والفرنسية وترجماتها — لم تُدخل"
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "**عُبِّئ `level` 2026-09-10:** كان فارغاً وهو خارجُ المعجم (مبتدئ/متوسط/متقدم). وقُدِّر بكثافة المتن (231 كلمة) ← «مبتدئ»."
 ---
 # التحليل الوجودي والدازاين
 

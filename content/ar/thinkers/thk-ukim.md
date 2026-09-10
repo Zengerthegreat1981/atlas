@@ -2,7 +2,7 @@
 slug: "thk-ukim"
 id: "THK-2263"
 type: "مفكر"
-part: "psychology"
+part: "philosophy"
 cultural_origin: "east-asian"
 level: "متقدم"
 title: "ويتشول كيم"
@@ -20,11 +20,12 @@ edges:
 related:
 - id: "sch-indigenous-psychology", title: "علم نفس الشعوب الأصلية", type: "مدرسة"
 - id: "sch-confucian-psychology", title: "علم النفس الكونفوشي", type: "مدرسة"
-- id: "con-emic-etic", title: "الإيميتيك والإتيك", type: "مفهوم"
+- id: "con-emic-etic", title: "الإيميتيك والإتيك (Emic vs. Etic)", type: "مفهوم"
 gaps:
   - "لم يوجد ملف مستقل في الأطلس لعلم النفس العابر-الثقافي (Cross-Cultural Psychology بمعنى بيري وترياندس)، فحُذف رابط evolved_from إلى sch-cross-cultural-psychology وسُجِّلت المدرسة الغائبة في missing-schools.md."
   - "جون دبليو. بيري (John W. Berry)، شريك كيم في تحرير Indigenous Psychologies (1993)، بلا ملف مستقل في الأطلس بعد."
   - "سنة الميلاد (1947) واردة في مصادر ثانوية أكاديمية، لم تُراجع من سيرة ذاتية أولية موقّعة."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-indigenous-psychology` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # ويتشول كيم

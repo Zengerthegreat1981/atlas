@@ -14,9 +14,9 @@ active_start: 500
 active_end: 1700
 cultural_origin: "indian"
 related:
-- id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
+- id: "sch-vedanta", title: "فيدانتا (كمظلة)", type: "مدرسة"
 - id: "sch-sikh-philosophy", title: "السيخية الفلسفية", type: "مدرسة"
-- id: "sch-acintya-bhedabheda", title: "أتشينتيا بيدا أبيدا", type: "مدرسة"
+- id: "sch-acintya-bhedabheda", title: "أتشينتيا بيدا أبيدا (تشايتانية)", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«التصوف الإسلامي» (sch-sufism) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "أشعار Alvars وNayanars تحتاج مراجعة من المصدر الأولي."

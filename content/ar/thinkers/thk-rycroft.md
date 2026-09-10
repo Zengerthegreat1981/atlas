@@ -9,8 +9,8 @@ crumb: "التحليل النفسي ← الناس ← Independent Group ← ت�
 dates: "بريطانيا · 1914–1998"
 country: "المملكة المتحدة"
 language: "الإنجليزية"
-part: "philosophy"
-active_start: null
+part: "psychology"
+active_start: 1914
 active_end: 1998
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
@@ -20,6 +20,8 @@ related:
 gaps:
   - "لا اقتباس مباشر منسوب له بمصدر ورقم صفحة تم التحقق منه."
   - "تفاصيل تدريبه التحليلي الدقيقة في British Psychoanalytical Society (سنوات الإشراف، أسماء لجان التدريب) غير موثّقة هنا."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («بريطانيا · 1914–1998») فاستُخرجت: 1914."
 ---
 
 # تشارلز ريكروفت

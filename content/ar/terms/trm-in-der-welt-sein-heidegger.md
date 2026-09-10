@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
 related:
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-- id: "trm-dasein-translation", title: "الدازاين", type: "مصطلح لغوي متنازع عليه"
+- id: "trm-dasein-translation", title: "ترجمة الدازاين (Dasein): الكينونة-هناك أم الوجود العيني؟", type: "مصطلح لغوي متنازع عليه"
 gaps:
   - "لا توجد ترجمة عربية معتمدة إجماعاً للمصطلح؛ النسخ المتداولة (الكينونة-في-العالم، الوجود-في-العالم) كلها اجتهادات مترجمين لا يوجد بينها حسم أكاديمي موثق هنا."
 ---

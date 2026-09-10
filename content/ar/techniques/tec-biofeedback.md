@@ -17,7 +17,7 @@ edges:
 related:
 - id: "con-neurofeedback", title: "التغذية الراجعة العصبية (Neurofeedback)", type: "مفهوم"
 - id: "con-operant-conditioning", title: "الإشتراط الإجرائي (الإشراط السكينري)", type: "مفهوم"
-- id: "dis-panic-disorder", title: "اضطراب الهلع", type: "اضطراب"
+- id: "dis-panic-disorder", title: "اضطراب الهلع", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الإرخاء العضلي التدريجي", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا يوجد ملف مفكر موثّق في الأطلس عن نيل إ. ميلر (Neal E. Miller) صاحب بحث 1969 التأسيسي في مجلة Science عن الاشتراط الإجرائي للاستجابات اللاإرادية — طلب slug مؤجَّل."

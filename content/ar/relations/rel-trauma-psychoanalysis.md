@@ -10,7 +10,7 @@ active_start: 1889
 active_end: "مستمر"
 part: "bridge"
 edges:
-- rel: "relates_to", target: "br-sensorimotor-trauma-applications", target_type: "مدرسة"
+- rel: "relates_to", target: "br-sensorimotor-trauma-applications", target_type: "تيار"
 - rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "br-classical-psychoanalysis", title: "التحليل النفسي الفرويدي الكلاسيكي", type: "تيار"

@@ -13,10 +13,10 @@ active_start: 1960
 active_end: 1999
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "tec-contextual-family-therapy", target_type: "تقنية"
+- rel: "belongs_to", target: "tec-contextual-family-therapy", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-boszormenyi", title: "إيفان بوسورميني-ناجي", type: "مفكر"
-- id: "tec-contextual-family-therapy", title: "العلاج الأسري السياقي متعدد الأجيال", type: "تقنية"
+- id: "tec-contextual-family-therapy", title: "العلاج الأسري السياقي متعدد الأجيال", type: "تقنية/تدخل علاجي"
 gaps:
   - "لم يُعثر حتى الآن على اقتباس منسوب له موثّق بمصدر وسنة محدَّدين."
   - "رابط أُزيل سابقاً: مايكل كير (thk-mkerr) — وريث نظرية بوين، ولا صلة موثّقة له بفرامو مذكورة في متن هذا الملف."

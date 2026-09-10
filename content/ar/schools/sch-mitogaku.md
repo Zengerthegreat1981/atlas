@@ -16,8 +16,8 @@ active_end: 1873
 active_source: "lifespan"
 related:
 - id: "sch-neoconfucianism", title: "الكونفوشية الجديدة (مظلة)", type: "مدرسة"
-- id: "sch-kokugaku", title: "كوكوغاكو", type: "مدرسة"
-- id: "sch-kogaku", title: "كوغاكو", type: "مدرسة"
+- id: "sch-kokugaku", title: "كوكوغاكو (الدراسات الوطنية اليابانية)", type: "مدرسة"
+- id: "sch-kogaku", title: "كوغاكو (التعلم القديم / الكونفوشية اليابانية)", type: "مدرسة"
 - id: "sch-rangaku", title: "رانغاكو (التعلم الهولندي)", type: "مدرسة"
 gaps:
   - "الإسهامات المبكرة لـ'توكوغاوا ميتسوكوني' و'آزُومَا يَسُو' بحاجة إلى تحقق من النصوص الأصلية."

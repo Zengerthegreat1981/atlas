@@ -16,7 +16,7 @@ related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-msolms", title: "مارك سولمز", type: "مفكر"
 - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
-- id: "con-death-instinct", title: "غريزة الموت والدافع التدميري للتحول", type: "مفهوم"
+- id: "con-death-instinct", title: "غريزة الموت والدافع التدميري (Todestrieb / Thanatos)", type: "مفهوم"
 - id: "con-oedipus-complex", title: "عقدة أوديب (الدينامية النفسية الجنسية في التحليل النفسي)", type: "مفهوم"
 - id: "con-attachment-styles", title: "أساليب التعلق (Attachment Styles)", type: "مفهوم"
 gaps:

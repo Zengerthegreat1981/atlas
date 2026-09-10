@@ -15,12 +15,12 @@ edges:
 - rel: "connects", target: "dbt-common-factors-vs-specific-ingredients", target_type: "جدل"
 related:
 - id: "con-evidence-based-practice", title: "الممارسة المبنية على الأدلة (Evidence-Based Practice)", type: "مفهوم"
-- id: "dbt-common-factors-vs-specific-ingredients", title: "جدل العوامل المشتركة مقابل المكوّنات النوعية", type: "جدل"
+- id: "dbt-common-factors-vs-specific-ingredients", title: "عوامل العلاج المشتركة (طائر الدودو) مقابل التقنيات المحددة للمدارس", type: "جدل"
 - id: "thk-wampold", title: "بروس وامبولد", type: "مفكر"
 - id: "thk-heysenck", title: "هَانز آيسنك", type: "مفكر"
-- id: "dbt-empirically-validated-vs-evidence-based", title: "جدل «مُثبَت تجريبياً» مقابل «مبني على الأدلة»", type: "جدل"
-- id: "dbt-evidence-based-vs-practice-based-evidence", title: "جدل الأدلة المبنية على الممارسة مقابل الممارسة المبنية على الأدلة", type: "جدل"
-- id: "rel-integrative-cbt-common-factors", title: "التكاملية (العامل المشترك) والعلاج المعرفي-السلوكي", type: "علاقة بين مدرستين"
+- id: "dbt-empirically-validated-vs-evidence-based", title: "جدل العلاج بالأدلة التجريبية ضد الممارسة القائمة على الأدلة", type: "جدل"
+- id: "dbt-evidence-based-vs-practice-based-evidence", title: "جِدَل الْمَمَارَسَة الْقَائِمَة عَلَى الْأَدِلَّة ضِدّ الْأَدِلَّة الْقَائِمَة عَلَى الْمَمَارَسَة: أَيُّ طَرَف يَفْتَرِض الْآخَر؟", type: "جدل"
+- id: "rel-integrative-cbt-common-factors", title: "التكاملية (العامل المشترك) والعلاج المعرفي-السلوكي: تحدّي الصلة", type: "علاقة بين مدرستين"
 - id: "rel-integrative-humanistic-common-factors", title: "التكاملية (العامل المشترك) والإنسانية: الأم الأصلية", type: "علاقة بين مدرستين"
 gaps:
   - "**كُتب متنه 2026-09-07**: كان الملف من دفعة قالبية، وطرفاه في الترويسة كانا فارغين. لم يُدمج لأن ملفات `rel-integrative-*-common-factors` تعالج علاقةَ العوامل المشتركة بمدرسةٍ بعينها، وهذا يعالج الجدلَ المنهجي نفسه: مَن يستحقّ اسم «مسنَد بالأدلة»."

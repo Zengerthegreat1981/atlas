@@ -15,7 +15,7 @@ related:
 - id: "thk-darwin", title: "تشارلز داروين", type: "مفكر"
 - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
 - id: "thk-hume", title: "ديفيد هيوم", type: "مفكر"
-- id: "trm-is-ought-problem-hume", title: "مغالطة الكائن والواجب", type: "مصطلح لغوي متنازع عليه"
+- id: "trm-is-ought-problem-hume", title: "مغالطة الكائن والواجب (Is-Ought Problem / Hume's Guillotine)", type: "مصطلح لغوي متنازع عليه"
 gaps:
   - "لا يوجد بعد مدخل thk- في الأطلس لفرانس دي وال (Frans de Waal)، صاحب أبرز الأبحاث المعاصرة في السلوك الأخلاقي عند الرئيسيات (*Good Natured*، 1996)؛ استُشهد به في المتن دون رابط داخلي لعدم وجود ملف معتمد."
 ---

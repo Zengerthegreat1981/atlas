@@ -16,7 +16,7 @@ active_end: "مستمر"
 edges: []
 related:
 - id: "sch-shramana", title: "المدارس الشرامنية المبكرة", type: "مدرسة"
-- id: "sch-nyingma", title: "نينغما", type: "مدرسة"
+- id: "sch-nyingma", title: "نينغما (البوذية التبتية القديمة)", type: "مدرسة"
 - id: "sch-zoroastrian-philosophy", title: "الزرادشتية الفلسفية", type: "مدرسة"
 - id: "sch-zurvanism", title: "الزروانية", type: "مدرسة"
 gaps:

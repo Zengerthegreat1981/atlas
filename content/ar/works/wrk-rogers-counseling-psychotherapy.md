@@ -20,8 +20,8 @@ edges:
 - rel: "authored_by", target: "thk-rogers", target_type: "مفكر"
 related:
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-- id: "wrk-becoming-person", title: "أن نصير أشخاصاً", type: "عمل / كتاب"
-- id: "wrk-motivation-personality", title: "الدافعية والشخصية", type: "عمل / كتاب"
+- id: "wrk-becoming-person", title: "أن نصير أشخاصاً (On Becoming a Person)", type: "عمل / كتاب"
+- id: "wrk-motivation-personality", title: "الدافعية والشخصية (Motivation and Personality)", type: "عمل / كتاب"
 - id: "wrk-rogers-client-centered-1951", title: "العلاج المتمركز حول العميل (Client-Centered Therapy)", type: "عمل / كتاب"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من نص كتاب Counseling and Psychotherapy (1942) نفسه في هذا الملف؛ الوصف مبني على مصادر ثانوية تُلخّص محتواه."

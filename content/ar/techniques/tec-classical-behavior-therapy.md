@@ -21,7 +21,7 @@ related:
 - id: "con-systematic-desensitization", title: "إزالة التحسس المنهجي", type: "مفهوم"
 - id: "con-reciprocal-inhibition", title: "التثبيط المتبادل", type: "مفهوم"
 - id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
-- id: "tec-erp", title: "التعرض ومنع الاستجابة", type: "تقنية/تدخل علاجي"
+- id: "tec-erp", title: "التعرض ومنع الاستجابة (ERP)", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الإرخاء العضلي التدريجي", type: "تقنية/تدخل علاجي"
 gaps:
   - "كتاب جوزيف وولب التأسيسي 'العلاج النفسي بالإشراط المضاد' (Psychotherapy by Reciprocal Inhibition, 1958)."

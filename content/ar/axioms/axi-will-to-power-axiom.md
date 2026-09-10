@@ -15,10 +15,10 @@ edges:
 related:
 - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
 - id: "con-will-to-power", title: "إرادة القوة (Wille zur Macht)", type: "مفهوم"
-- id: "wrk-thus-spoke-zarathustra-nietzsche", title: "هكذا تكلم زرادشت لفريدريش نيتشه", type: "عمل"
-- id: "wrk-beyond-good-and-evil-nietzsche", title: "ما وراء الخير والشر لفريدريش نيتشه", type: "عمل"
+- id: "wrk-thus-spoke-zarathustra-nietzsche", title: "هكذا تكلم زرادشت لفريدريش نيتشه", type: "عمل / كتاب"
+- id: "wrk-beyond-good-and-evil-nietzsche", title: "ما وراء الخير والشر لفريدريش نيتشه", type: "عمل / كتاب"
 - id: "con-eternal-recurrence-nietzsche", title: "العود الأبدي للذات والحدث (Eternal Recurrence)", type: "مفهوم"
-- id: "crt-nietzsche-critique-of-christian-morality", title: "نقد نيتشه للأخلاق المسيحية والأفلاطونية", type: "نقد"
+- id: "crt-nietzsche-critique-of-christian-morality", title: "نقد نيتشه للأخلاق المسيحية والأفلاطونية", type: "نقد خارجي موثَّق"
 gaps:
   - "لا يوجد نص واحد منظم كتبه نيتشه بعنوان Der Wille zur Macht؛ الكتاب الذي نُشر بهذا الاسم (1901، وسّعته أخته إليزابيث فورستر-نيتشه 1906) مُجمَّع من مسودات لم يعتمدها هو، وهذا يستحق تفصيلاً أكبر من مجرد الإشارة في المتن."
   - "قراءة هايدغر لإرادة القوة كـ'ميتافيزيقا الذاتية' (في محاضراته عن نيتشه 1936–1940) لم تُلخَّص بدقة كافية هنا."

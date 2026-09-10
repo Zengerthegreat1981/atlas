@@ -16,8 +16,8 @@ edges:
 - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
-- id: "sch-absurdism", title: "العبثية", type: "مدرسة"
-- id: "con-meaning", title: "المعنى", type: "مفهوم"
+- id: "sch-absurdism", title: "العبثية (Absurdism / Le Mythe de Sisyphe)", type: "مدرسة"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 - id: "thk-dostoevsky", title: "فيودور دوستويفسكي", type: "مفكر"
 - id: "thk-kafka", title: "فرانز كافكا", type: "مفكر"
 - id: "thk-bakewell", title: "سارة بيكويل", type: "مفكر"

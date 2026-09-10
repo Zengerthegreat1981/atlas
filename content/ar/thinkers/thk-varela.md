@@ -10,7 +10,7 @@ dates: "تشيلي · 1946–2001"
 country: "تشيلي / فرنسا"
 language: "إسبانية / إنجليزية / فرنسية"
 part: "psychology"
-active_start: null
+active_start: 1946
 active_end: 2001
 edges:
 - rel: "belongs_to", target: "br-embodied-cognition-therapy", target_type: "تيار"
@@ -25,6 +25,7 @@ related:
 gaps:
   - "المسار الفكري من autopoiesis إلى neurophenomenology مُعقّد، يستحق مصدراً أوسع."
   - "تأثيره على Therapy الفعلي أقل مباشرة من تأثيره على الفلسفة."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («تشيلي · 1946–2001») فاستُخرجت: 1946."
 ---
 
 # فرانسيسكو فاريلا

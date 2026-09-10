@@ -23,7 +23,7 @@ related:
 - id: "thk-william-ockham", title: "وليم الأوكامي", type: "مفكر"
 - id: "sch-latin-averroism", title: "الرشدية اللاتينية", type: "مدرسة"
 - id: "sch-scholasticism", title: "المدرسية (السكولاستية) — كمظلة", type: "مدرسة"
-- id: "sch-civic-republicanism", title: "الجمهورية المدنية", type: "مدرسة"
+- id: "sch-civic-republicanism", title: "الجمهورية المدنية (Civic Republicanism)", type: "مدرسة"
 gaps:
   - "علاقته بِWilliam of Ockham في بلاط لودفيغ الباباوي (ميونخ) لم تُوثَّق في رسائل."
   - "لا توجد طبعة عربية موثّقة لـDefensor Pacis (1324)."

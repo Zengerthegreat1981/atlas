@@ -25,7 +25,7 @@ related:
 - id: "wrk-existential-psychotherapy", title: "العلاج النفسي الوجودي", type: "عمل / كتاب"
 - id: "rel-somatic-existential", title: "الجسدية/الجسمانية والوجودية: ميرلوبونتي كجسر فينومينولوجي", type: "علاقة بين مدرستين"
 - id: "rel-kierkegaardianism-nietzscheanism-existential-therapy", title: "الفلسفة الوجودية المبكرة (كيركيغارد ونيتشه) والعلاج النفسي الوجودي: من القلق إلى فرانكل ويالوم", type: "علاقة بين مدرستين"
-- id: "rel-psychodynamic-attachment", title: "النظرية الديناميكية ونظرية التعلق: من Bowlby إلى Fonagy", type: "علاقة بين مدرستين"
+- id: "rel-psychodynamic-attachment", title: "التحليل النفسي ونظرية التعلّق: من طردِ بولبي إلى عودته وارثاً", type: "علاقة بين مدرستين"
 gaps:
   - "التمييز بين 'Daseinsanalyse' عند بوس (مبنية على هايدغر) و'Existenzanalyse' عند بينسفانغر (مبنية على ياسبرز وهوسرل) — لا يزال غامضاً في الأدبيات العربية."
   - "مدى تأثر فرانكل بفلسفة ياسبرز (التي درّسها) قبل تأسيسه 'العلاج بالمعنى' لم يُراجع بدقة."

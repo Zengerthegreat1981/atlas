@@ -11,14 +11,15 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1964
 active_end: 2019
-part: "philosophy"
+part: "psychology"
 edges:
-- rel: "belongs_to", target: "tec-filial-therapy", target_type: "تقنية"
+- rel: "belongs_to", target: "tec-filial-therapy", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-cschaefer", title: "تشارلز شيفر", type: "مفكر"
 - id: "thk-louise-guerney", title: "لويس غيرني", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Filial Therapy: Description and Rationale* (1964) بترجمة عربية معتمدة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-filial-therapy` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # برنارد غيرني

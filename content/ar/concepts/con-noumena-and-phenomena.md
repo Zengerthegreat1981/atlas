@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
 - id: "sch-kant-critical", title: "الكانطية النقدية", type: "مدرسة"
-- id: "wrk-critique-of-pure-reason-kant", title: "نقد العقل الخالص لإيمانويل كانط", type: "عمل"
+- id: "wrk-critique-of-pure-reason-kant", title: "نقد العقل الخالص لإيمانويل كانط", type: "عمل / كتاب"
 - id: "con-transcendental-idealism-kant", title: "المثالية الترنسندنتالية (Transcendental Idealism)", type: "مفهوم"
 - id: "con-categories-of-understanding-kant", title: "مقولات الفهم الخالص الاثنتا عشرة (Categories)", type: "مفهوم"
 gaps:

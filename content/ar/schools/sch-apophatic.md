@@ -17,8 +17,8 @@ edges:
 - rel: "evolved_from", target: "sch-neoplatonism", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-patristics", target_type: "مدرسة"
 related:
-- id: "sch-neoplatonism", title: "الأفلاطونية المحدثة", type: "مدرسة"
-- id: "sch-patristics", title: "الآبائية المسيحية", type: "مدرسة"
+- id: "sch-neoplatonism", title: "الأفلاطونية المحدثة (Neoplatonism)", type: "مدرسة"
+- id: "sch-patristics", title: "الآبائية المسيحية (Patristics)", type: "مدرسة"
 - id: "sch-kabbalah", title: "القبّالة (كتيار فلسفي-رمزي)", type: "مدرسة"
 - id: "thk-pseudo-dionysius", title: "ديونيسيوس المجهول (المُنتحل / الإله الزائف)", type: "مفكر"
 - id: "con-negative-attributes", title: "الصفات السلبية (Via Negativa)", type: "مفهوم"

@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "dbt-antidepressants-efficacy-debate", title: "جدل الفاعلية البيولوجية لمضادات الاكتئاب وفرضية السيروتونين", type: "جدل"
-- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
 - id: "con-mind-body", title: "مشكلة العقل والجسد", type: "مفهوم"
 gaps:

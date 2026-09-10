@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "dis-delusional", title: "اضطراب الوهام", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-bipolar-i", title: "الاضطراب ثنائي القطب من النوع الأول", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-bipolar-i", title: "اضطراب ثنائي القطب من النوع الأول", type: "اضطراب/حالة إكلينيكية"
 - id: "con-the-look-of-the-other-sartre", title: "نظرة الآخر وتشييء الوعي (The Look of the Other)", type: "مفهوم"
 gaps:
   - "توثيق كتاب كليرامبو الأساسي عام 1921 (Les psychoses passionnelles) يحتاج مراجعة فرنسية مباشرة."

@@ -12,8 +12,8 @@ active_end: "مستمر"
 language: "متعدد اللغات"
 edges: []
 related:
-- id: "dis-mdd", title: "اضطراب الاكتئاب", type: "اضطراب/حالة إكلينيكية"
-- id: "syn-locked-in", title: "متلازمة الانغلاق العصبي", type: "متلازمة"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-locked-in", title: "متلازمة الانغلاق العصبي (الحبس الداخلي مع سلامة الوعي)", type: "متلازمة"
 - id: "con-will-to-live-schopenhauer", title: "إرادة الحياة العمياء (Will to Live)", type: "مفهوم"
 gaps:
   - "أبحاث كيرنز (Cairns 1941) وتلف التلفيف الحزامي الأمامي (Anterior Cingulate Cortex)."

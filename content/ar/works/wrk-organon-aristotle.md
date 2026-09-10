@@ -18,9 +18,9 @@ edges:
 - rel: "authored_by", target: "thk-aristotle", target_type: "مفكر"
 related:
 - id: "thk-aristotle", title: "أرسطو", type: "مفكر"
-- id: "wrk-categories-aristotle", title: "المقولات", type: "عمل / كتاب"
-- id: "wrk-prior-analytics-aristotle", title: "التحليلات الأولى", type: "عمل / كتاب"
-- id: "wrk-posterior-analytics-aristotle", title: "التحليلات الثانية", type: "عمل / كتاب"
+- id: "wrk-categories-aristotle", title: "المقولات لأرسطو (Categoriae)", type: "عمل / كتاب"
+- id: "wrk-prior-analytics-aristotle", title: "التحليلات الأولى لأرسطو (Prior Analytics)", type: "عمل / كتاب"
+- id: "wrk-posterior-analytics-aristotle", title: "التحليلات الثانية لأرسطو (Posterior Analytics)", type: "عمل / كتاب"
 gaps:
   - "الأورغانون ليس كتاباً واحداً بل مجموعة ست رسائل مستقلة جُمعت لاحقاً؛ لا سنة نشر واحدة له، فـ publication_year هنا null بحق لا بنقص توثيق."
   - "الأطلس يحمل ملفات مستقلة لثلاث من الرسائل الست (wrk-categories-aristotle، wrk-prior-analytics-aristotle، wrk-posterior-analytics-aristotle) — لم أدمج محتواها هنا ولم أنقل فصولاً منها؛ هذا الملف يتناول المجموعة ككلّ، لا كل رسالة بتفصيلها."

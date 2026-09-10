@@ -14,7 +14,7 @@ cultural_origin: "anglo-american"
 active_start: 1860
 active_end: 1920
 edges:
-- rel: "belongs_to", target: "sch-german-idealism", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-german-idealism", target_type: "مدرسة"
 related:
 - id: "sch-process-philosophy", title: "فلسفة العملية (Process Philosophy)", type: "مدرسة"
 gaps:

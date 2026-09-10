@@ -10,7 +10,7 @@ crumb: "علم النفس التحليلي وسيكولوجيا الأعماق �
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "br-jungian", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-jungian", target_type: "تيار"
 related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "exp-jung-confrontation-unconscious", title: "سرد يونغ الذاتي لخبرة المواجهة مع اللاوعي والكتاب الأحمر", type: "خبرة معيشة"

@@ -15,7 +15,7 @@ sample_size: ""
 main_finding: "المشاهد يدرك حركة وهمية (في فرقة 60-200 مللي ثانية) بين ضوءين ثابتين يظهران بالتتابع، رغم عدم وجود حركة فيزيائية فعلية"
 replication_status: "replicated"
 edges:
-- rel: "relates_to", target: "br-gestalt-berlin", target_type: "مدرسة"
+- rel: "relates_to", target: "br-gestalt-berlin", target_type: "تيار"
 related:
 - id: "thk-wkohler", title: "فولفغانغ كولَر", type: "مفكر"
 gaps:

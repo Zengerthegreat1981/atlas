@@ -2,7 +2,7 @@
 slug: "con-decolonizing-therapy"
 id: "CON-0817"
 type: "مفهوم"
-part: "psychology"
+part: "philosophy"
 cultural_origin: "latin-american"
 level: "متقدم"
 title: "العلاج اللااستعماري (Decolonizing Therapy)"
@@ -27,6 +27,8 @@ gaps:
   - "النقاشات الحديثة (Adams, Tuck) حول 'الاستعمار المُستمر' و'مناهضة الاستعمار' موثّقة جزئياً."
   - "التطبيقات العملية للعلاج اللااستعماري في أمريكا اللاتينية وأمريكا الشمالية موثّقة جزئياً."
   - "علم النفس الأفريقي (sch-african-psychology) غير مذكور في المتن رغم وروده سابقاً في related؛ حُذف لعدم وجود تبرير نصي."
+  - "**نُظِّفت الأقسام 2026-09-10:** مُيِّز 1 عنوانَ قسمٍ مكرَّرٍ حرفياً بترقيمه."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-liberation-psychology` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # العلاج اللااستعماري (Decolonizing Therapy)
@@ -123,7 +125,7 @@ gaps:
 - يفتح فضاء لمقاربات غير غربية.
 - يعيد ربط علم النفس بالعدالة الاجتماعية.
 
-## المرجع الأساسي
+## المرجع الأساسي (2)
 
 - Martín-Baró, I. (1994). *Psychology of Liberation: Theory and Applications*.
 - Freire, P. (1968/2000). *Pedagogy of the Oppressed*.

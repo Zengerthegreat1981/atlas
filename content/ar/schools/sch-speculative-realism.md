@@ -17,8 +17,8 @@ edges:
 - rel: "split_into", target: "sch-ooo", target_type: "مدرسة"
 related:
 - id: "sch-ooo", title: "الأنطولوجيا الموجهة نحو الشيء (Object-Oriented Ontology)", type: "مدرسة"
-- id: "sch-new-materialism", title: "المادية الجديدة", type: "مدرسة"
-- id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية", type: "مدرسة"
+- id: "sch-new-materialism", title: "المادية الجديدة (New Materialism)", type: "مدرسة"
+- id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية (Philosophical Postmodernism)", type: "مدرسة"
 - id: "thk-quentin-meillassoux", title: "كونتين ميياسو", type: "مفكر"
 - id: "con-process-constructivism", title: "النظرية البنائية للعملية (Process Constructivism)", type: "مفهوم"
 - id: "con-modal-realism-david-lewis", title: "الواقعية المشروطة للعوالم الممكنة (Modal Realism)", type: "مفهوم"

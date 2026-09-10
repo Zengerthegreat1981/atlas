@@ -16,7 +16,7 @@ active_source: "lifespan"
 edges:
 - rel: "belongs_to", target: "sch-legalism", target_type: "مدرسة"
 related:
-- id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
+- id: "sch-legalism", title: "الشرعية / القانونية (Fajia)", type: "مدرسة"
 - id: "thk-hanfeizi", title: "هان في تزو", type: "مفكر"
 - id: "thk-shen-buhai", title: "شين بو هاي", type: "مفكر"
 gaps:

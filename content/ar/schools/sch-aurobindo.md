@@ -14,10 +14,10 @@ cultural_origin: "indian"
 active_start: 1910
 active_end: 1950
 edges:
-- rel: "evolved_from", target: "sch-neo-vedanta", target_type: "مظلة"
+- rel: "evolved_from", target: "sch-neo-vedanta", target_type: "مدرسة"
 related:
-- id: "sch-neo-vedanta", title: "نيو-فيدانتا", type: "مدرسة"
-- id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
+- id: "sch-neo-vedanta", title: "نيو-فيدانتا (الفيدانتا الحديثة)", type: "مدرسة"
+- id: "sch-vedanta", title: "فيدانتا (كمظلة)", type: "مدرسة"
 - id: "con-supramental", title: "ما فوق الذهن (Supramental)", type: "مفهوم"
 - id: "wrk-life-divine", title: "الحياة الإلهية (The Life Divine)", type: "عمل / كتاب"
 - id: "dbt-aurobindo-vs-vivekananda", title: "أوروبندو ضد فيفيكاناندا: فيدانتا تَصالحية أم يوغا تَحوّلية؟", type: "جدل"

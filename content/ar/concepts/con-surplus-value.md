@@ -15,7 +15,7 @@ edges:
 related:
 - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
 - id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
-- id: "wrk-capital-marx", title: "رأس المال", type: "عمل"
+- id: "wrk-capital-marx", title: "رأس المال لكارل ماركس (Das Kapital)", type: "عمل / كتاب"
 - id: "con-surplus-value-marx", title: "فائض القيمة والاستغلال الطبقي (Surplus Value)", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«ديفيد ريكاردو» (thk-ricardo) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

@@ -16,8 +16,8 @@ active_end: 1850
 edges:
 - rel: "relates_to", target: "sch-wahdat-alwujud", target_type: "مدرسة"
 related:
-- id: "sch-wahdat-alwujud", title: "العرفان النظري (وحدة الوجود)", type: "مدرسة"
-- id: "sch-akbari", title: "المدرسة الأكبرية", type: "مدرسة"
+- id: "sch-wahdat-alwujud", title: "العرفان النظري / وحدة الوجود (المدرسة الأكبرية — الشيخ الأكبر ابن عربي)", type: "مدرسة"
+- id: "sch-akbari", title: "المدرسة الأكبرية (مدرسة الإمبراطور أكبر المغولي)", type: "مدرسة"
 - id: "sch-salafism-modern", title: "السلفية الكلامية الحديثة", type: "مدرسة"
 - id: "thk-ahmad-sirhindi", title: "الشيخ أحمد السرهندي (المجدد الثاني)", type: "مفكر"
 - id: "con-sirr-khafi-akhfa-subtle-centers", title: "اللطائف الست (Lata'if-i Sitta)", type: "مفهوم"

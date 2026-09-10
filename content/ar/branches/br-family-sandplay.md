@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "psychology"
 related:
 - id: "thk-kalff", title: "دورا كالف", type: "مفكر"
-- id: "con-archetype", title: "الأركيتيب (النموذج الأصلي)", type: "مفهوم"
+- id: "con-archetype", title: "النموذج الأصلي (Archetype)", type: "مفهوم"
 gaps:
   - "تاريخ Family Sandplay (Kalff) يستحق توثيقاً."
   - "الفرق بين 'Sandtray Therapy' و'Kalffian Sandplay' يستحق توضيحاً."

@@ -14,7 +14,7 @@ edges:
 related:
 - id: "sch-mingjia", title: "مدرسة الأسماء / المنطقيون (Mingjia)", type: "مدرسة"
 - id: "thk-gongsun-long", title: "غونغسون لونغ (أعلام التمييز، أعلام الحِجّة)", type: "مفكر"
-- id: "wrk-gongsunlongzi", title: "كتاب غونغسون لونغ (غونغسون لونغ تزو)", type: "عمل"
+- id: "wrk-gongsunlongzi", title: "كتاب غونغسون لونغ (غونغسون لونغ تزو)", type: "عمل / كتاب"
 - id: "thk-mozi", title: "مو زي (مو دي)", type: "مفكر"
 - id: "thk-huishi", title: "هوي شي (هوي تشي)", type: "مفكر"
 - id: "thk-zhu-xi", title: "تشو هسي", type: "مفكر"

@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
 related:
 - id: "thk-pierrakos", title: "جون س. بيراكوس", type: "مفكر"
-- id: "thk-epierrakos", title: "إيڤا بيراكوس", type: "مفكر"
+- id: "thk-epierrakos", title: "إيڤا بيراكوس (بروش)", type: "مفكر"
 - id: "thk-navarro", title: "فيديريكو نافارو", type: "مفكر"
 - id: "thk-kelley", title: "تشارلز كيلي", type: "مفكر"
 - id: "thk-gferri", title: "جينوفينو فيري", type: "مفكر"
@@ -24,6 +24,8 @@ gaps:
   - "قرار حجر موثَّق في `agents_specs/quarantine-spark.md` بتاريخ 2026-08-26: غير موثَّقة كباحثة مستقلة بمؤلَّفات منشورة؛ ارتبط اسمها كزوجة/مساعدة لجون بيراكوس فقط، وقد أُزيلت من المسودات آنذاك."
   - "تنفيذ القرار بتاريخ 2026-09-03: حُذفت من المتن كل الدعاوى غير القابلة للتوثيق — إدارة Institute of Core Energetics، نشر Core Energetics في أمريكا اللاتينية، والمساهمة في كتب Pierrakos الأخيرة — لتعذّر العثور على مصدر مستقل يوثّقها بصفتها باحثة أو مفكِّرة مستقلة."
   - "الروابط في `related` (`thk-pierrakos`، `thk-epierrakos`، `thk-navarro`، `thk-kelley`، `thk-gferri`) بلا مبرَّر في المتن بعد حذف السيرة، وأُبقيت بأمر عدم تعديل الروابط."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-somatic-experiencing` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-somatic-experiencing` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # دورا غوميز بيراكوس

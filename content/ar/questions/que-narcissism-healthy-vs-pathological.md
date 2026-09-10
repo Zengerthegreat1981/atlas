@@ -2,7 +2,7 @@
 slug: "que-narcissism-healthy-vs-pathological"
 id: "QUE-0075"
 type: "سؤال توليدي"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "أين ينتهي حب الذات والتقدير الصحي ويبدأ النرجسية الاستغلالية المرضية؟"
 en: "Healthy vs. Pathological Narcissism: Self-Esteem, Grandiosity, and Empathy Deficits"
@@ -16,6 +16,7 @@ related:
 - id: "thk-kernberg", title: "أوتو كيرنبرغ", type: "مفكر"
 gaps:
   - "الخلاف لم يُحسم إكلينيكياً بين الاتجاهين؛ لا يوجد إجماع بحثي حاسم يُذكر هنا لأنه غير موجود أصلاً."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # أين ينتهي حب الذات والتقدير الصحي ويبدأ النرجسية الاستغلالية المرضية؟

@@ -16,9 +16,9 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-post-structuralism", target_type: "مدرسة"
 related:
-- id: "sch-post-structuralism", title: "ما بعد البنيوية", type: "مدرسة"
-- id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية", type: "مدرسة"
-- id: "sch-phenomenology-hermeneutic", title: "الظاهراتية التأويلية", type: "مدرسة"
+- id: "sch-post-structuralism", title: "ما بعد البنيوية (Post-structuralisme)", type: "مدرسة"
+- id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية (Philosophical Postmodernism)", type: "مدرسة"
+- id: "sch-phenomenology-hermeneutic", title: "الظاهراتية التأويلية (Hermeneutic Phenomenology)", type: "مدرسة"
 - id: "dia-derrida-searle-1977", title: "سجال دريدا وسيرل 1977: أفعال الكلام والتفكيك والقصدية", type: "حوار مع مدرسة مجاورة"
 - id: "dia-levinas-derrida-hospitality", title: "سجال ليفيناس ودريدا: أخلاق الغيرية والضيافة اللانهائية المستحيلة", type: "حوار مع مدرسة مجاورة"
 - id: "exp-derrida-algerian-jewish-exclusion", title: "تجربة دريدا وطرده من المدرسة في الجزائر وفقدان الهوية الأحادية", type: "خبرة معيشة"

@@ -16,8 +16,8 @@ active_end: 1880
 edges:
 - rel: "evolved_from", target: "sch-enlightenment", target_type: "مدرسة"
 related:
-- id: "sch-enlightenment", title: "فلسفة التنوير", type: "مدرسة"
-- id: "sch-judaism-reform", title: "اليهودية الإصلاحية", type: "مدرسة"
+- id: "sch-enlightenment", title: "فلسفة التنوير (كمظلة عامة)", type: "مدرسة"
+- id: "sch-judaism-reform", title: "اليهودية الإصلاحية (كتيار فكري)", type: "مدرسة"
 - id: "thk-mendelssohn", title: "موسى مندلسون", type: "مفكر"
 - id: "br-haskalah-jewish-enlightenment", title: "الهسكلاه (التنوير الفلسفي اليهودي) — التنوير", type: "تيار"
 - id: "thk-krochmal", title: "ناحمن كروخمَل", type: "مفكر"

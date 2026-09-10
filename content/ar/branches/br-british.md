@@ -2,7 +2,7 @@
 slug: "br-british"
 id: "BRN-0104"
 type: "تيار"
-level: ""
+level: "مبتدئ"
 title: "الوجودي-الظاهراتي البريطاني"
 en: "British existential-phenomenological"
 country: "المملكة المتحدة"
@@ -13,13 +13,13 @@ active_end: "مستمر"
 part: "philosophy"
 edges:
 - rel: "part_of", target: "sch-existential-therapy", target_type: "مدرسة"
-- rel: "developed_by", target: "thk-vandeurzen", target_type: "مفكرة"
+- rel: "developed_by", target: "thk-vandeurzen", target_type: "مفكر"
 - rel: "critiques", target: "br-humanistic", target_type: "تيار"
-- rel: "influenced_by", target: "sch-phenomenology", target_type: "منهج"
-- rel: "contains", target: "br-relational", target_type: "فرع"
+- rel: "influenced_by", target: "sch-phenomenology", target_type: "مدرسة"
+- rel: "contains", target: "br-relational", target_type: "تيار"
 related:
-- id: "thk-vandeurzen", title: "فان دورزن", type: "مفكر"
-- id: "thk-spinelli", title: "سبينيللي", type: "مفكر"
+- id: "thk-vandeurzen", title: "إيمي فان دورزن", type: "مفكر"
+- id: "thk-spinelli", title: "إرنستو سبينيللي", type: "مفكر"
 - id: "dbt-british-yalom", title: "البريطانيون ضد التيار الأمريكي", type: "جدل"
 - id: "dbt-structures", title: "هل توجد بنى وجودية ثابتة؟", type: "جدل"
 - id: "thk-ctaylor", title: "كريغ تايلور", type: "مفكر"
@@ -29,6 +29,7 @@ gaps:
   - "**صُحِّح مسار التنقّل 2026-09-08:** كان الجزء الأول «المدرسة الوجودية» ختماً قالبياً، واستُبدل بـ«العلاج النفسي الوجودي» — التيارُ البريطانيُّ أحدُ تيارات المدرسة."
   - "تواريخ التأسيس والمجلات والبرامج بمصادرها — تحتاج تثبيتاً"
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "**عُبِّئ `level` 2026-09-10:** كان فارغاً وهو خارجُ المعجم (مبتدئ/متوسط/متقدم). وقُدِّر بكثافة المتن (190 كلمة) ← «مبتدئ»."
 ---
 # الوجودي-الظاهراتي البريطاني
 

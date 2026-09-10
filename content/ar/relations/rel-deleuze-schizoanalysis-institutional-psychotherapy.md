@@ -11,11 +11,11 @@ active_start: 1972
 active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-post-structuralism", target_type: "مدرسة"
-- rel: "relates_to", target: "br-antipsychiatry", target_type: "مدرسة"
+- rel: "relates_to", target: "br-antipsychiatry", target_type: "تيار"
 related:
 - id: "rel-confucian-self-cultivation-family-systems", title: "تزكية الذات الكونفوشية والعلاج الأسري النظامي (Bowen)", type: "علاقة بين مدرستين"
 - id: "rel-integrative-humanistic-common-factors", title: "التكاملية (العامل المشترك) والإنسانية: الأم الأصلية", type: "علاقة بين مدرستين"
-- id: "rel-ipmb-evidence-based", title: "العلاج النفسي المبني على الأدلة والمقاربات التكاملية: من الجدل إلى التعاون", type: "علاقة بين مدرستين"
+- id: "rel-ipmb-evidence-based", title: "الممارسة المبنية على الأدلة وجدل العوامل المشتركة: هل يعالج البروتوكول أم المعالج؟", type: "علاقة بين مدرستين"
 gaps:
   - "لا توجد ترجمة عربية معتمدة لاقتباس محدد من غواتاري عن تجربة لا بورد يمكن نقله هنا حرفياً بثقة."
   - "دور فرانسوا توسكيل كمؤسس فعلي للعلاج المؤسسي (سابق على أوري وغواتاري) يحتاج توسيعاً في المتن لتفادي اختزال تاريخ الحركة في لا بورد وحدها."

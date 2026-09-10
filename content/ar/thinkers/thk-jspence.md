@@ -11,13 +11,14 @@ country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1974
 active_end: 1992
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "tec-phototherapy", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "tec-phototherapy", title: "العلاج بالصور الفوتوغرافية (Phototherapy)", type: "تقنية/تدخل علاجي"
 gaps:
   - "تفاصيل تكوينها المهني المبكر (عملها كمصوّرة أعراس وبورتريهات تجارية قبل 1974) موثّقة جزئياً فقط."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-phototherapy` موسومٌ «psychology» — فوُحِّد على وسم الأب."
 ---
 
 # جو سبنس

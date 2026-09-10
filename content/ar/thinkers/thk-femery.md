@@ -11,13 +11,14 @@ country: "أستراليا"
 language: "الإنجليزية"
 active_start: 1955
 active_end: 1997
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-general-systems-cybernetics", target_type: "تيار"
 related:
 - id: "thk-lbertalanffy", title: "لودفيغ فون برتالانفي", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من "The Causal Texture of Organizational Environments" (1965) بترجمة عربية معتمدة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-general-systems-cybernetics` موسومٌ «psychology» — فوُحِّد على وسم الأب."
 ---
 
 # فريد إيمري

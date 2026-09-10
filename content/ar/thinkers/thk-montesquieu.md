@@ -16,8 +16,8 @@ edges:
 - rel: "belongs_to", target: "sch-civic-republicanism", target_type: "مدرسة"
 - rel: "belongs_to", target: "sch-enlightenment", target_type: "مدرسة"
 related:
-- id: "sch-civic-republicanism", title: "الجمهورية المدنية", type: "مدرسة"
-- id: "sch-enlightenment", title: "فلسفة التنوير", type: "مدرسة"
+- id: "sch-civic-republicanism", title: "الجمهورية المدنية (Civic Republicanism)", type: "مدرسة"
+- id: "sch-enlightenment", title: "فلسفة التنوير (كمظلة عامة)", type: "مدرسة"
 - id: "thk-rousseau", title: "جان جاك روسو", type: "مفكر"
 - id: "thk-locke", title: "جون لوك", type: "مفكر"
 gaps:

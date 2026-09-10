@@ -16,7 +16,7 @@ cultural_origin: "indian"
 edges:
 - rel: "belongs_to", target: "sch-wahdat-alshuhud", target_type: "مدرسة"
 related:
-- id: "sch-wahdat-alwujud", title: "العرفان النظري (وحدة الوجود)", type: "مدرسة"
+- id: "sch-wahdat-alwujud", title: "العرفان النظري / وحدة الوجود (المدرسة الأكبرية — الشيخ الأكبر ابن عربي)", type: "مدرسة"
 - id: "sch-ismaili", title: "الفلسفة الإسماعيلية", type: "مدرسة"
 - id: "thk-ahmad-sirhindi", title: "الشيخ أحمد السرهندي (المجدد الثاني)", type: "مفكر"
 - id: "thk-abd-al-karim-al-jili", title: "عبد الكريم بن إبراهيم الجيلي", type: "مفكر"

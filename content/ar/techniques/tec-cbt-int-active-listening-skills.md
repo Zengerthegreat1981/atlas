@@ -17,7 +17,7 @@ edges:
 evidence_level: "traditional"
 related:
 - id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-int-perspective-taking", title: "تبنّي منظور الآخر", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-int-perspective-taking", title: "تبنّي منظور الآخر (CBT)", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-conflict-resolution-training", title: "تدريب حل النزاعات", type: "تقنية/تدخل علاجي"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
 gaps:

@@ -17,7 +17,7 @@ replication_status: "replicated"
 edges:
   []
 related:
-- id: "con-fundamental-attribution-error", title: "خطأ العزو الأساسي", type: "مفهوم"
+- id: "con-fundamental-attribution-error", title: "خطأ العزو الأساسي (عزو تصرفات الآخرين لطباعهم وتصرفاتنا للظروف)", type: "مفهوم"
 - id: "dis-autism-spectrum", title: "اضطراب طيف التوحد", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "حجم العينة الدقيق (عدد المشاركين وتوزيعهم على شروط العرض) غير موثق برقم مؤكد."

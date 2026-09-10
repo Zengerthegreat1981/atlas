@@ -15,7 +15,7 @@ edges:
 - rel: "belongs_to", target: "sch-renaissance-naturalism", target_type: "مدرسة"
 related:
 - id: "thk-galileo-galilei", title: "غاليليو غاليلي", type: "مفكر"
-- id: "thk-descartes", title: "ديكارت", type: "مفكر"
+- id: "thk-descartes", title: "رينيه ديكارت", type: "مفكر"
 gaps:
   - "محاضر الاستجوابات الكاملة الأربعة (أبريل–يونيو 1633) المحفوظة في أرشيف الفاتيكان تحتاج مراجعة نصية مباشرة"
   - "صحة نسبة عبارة «ومع ذلك فهي تدور» (Eppur si muove) لغاليليو نفسه مشكوك فيها تاريخياً؛ لا يوجد توثيق معاصر للمحاكمة يثبتها، وأول ظهور مكتوب لها يعود إلى القرن الثامن عشر"

@@ -19,7 +19,7 @@ related:
 - id: "thk-gbond", title: "غاري بوند", type: "مفكر"
 - id: "thk-gshepherd", title: "جيفري شيبرد", type: "مفكر"
 - id: "thk-brapp", title: "تشارلز راب", type: "مفكر"
-- id: "con-recovery-model", title: "نموذج التعافي", type: "مفهوم"
+- id: "con-recovery-model", title: "نموذج التعافي (Recovery)", type: "مفهوم"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "كتاب 'The Alchemy of Survival' (1989) من أهم كتبها."

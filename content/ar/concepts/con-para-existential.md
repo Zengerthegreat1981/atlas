@@ -15,8 +15,8 @@ related:
 - id: "thk-obecker", title: "أوسكار بيكر", type: "مفكر"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "sch-phenomenology-existential", title: "الظاهراتية الوجودية (Existential Phenomenology)", type: "مدرسة"
-- id: "wrk-being-and-time-heidegger", title: "الكينونة والزمان لمارتن هايدغر", type: "عمل"
-- id: "con-existence-existentialism", title: "الوجود", type: "مفهوم"
+- id: "wrk-being-and-time-heidegger", title: "الكينونة والزمان لمارتن هايدغر", type: "عمل / كتاب"
+- id: "con-existence-existentialism", title: "الوجودية (Existence) في الفلسفة الوجودية", type: "مفهوم"
 gaps:
   - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-existentialism` بحسب المجال المُصحَّح في مسار التنقّل («الفلسفة الوجودية»). ومدخلٌ فلسفيٌّ لا ينتمي إلى مدرسةِ علاجٍ نفسيٍّ إكلينيكي."
   - "**صُحِّح مسار التنقّل 2026-09-08:** كان الجزء الأول «المدرسة الوجودية» ختماً قالبياً؛ واستُبدل بـ«الفلسفة الوجودية». المصدر: وجودي مُدقَّق — الجيرةُ وجودية، ودُقِّق الوسمُ بحسب part. ولم يُشتقَّ من `belongs_to` لأنّ الحقلَ في هذا الحشد مختومٌ آلياً على «الوجودية العلاجية» حتى لمدخلاتٍ فلسفيةٍ تسبق الوجودية بقرون."

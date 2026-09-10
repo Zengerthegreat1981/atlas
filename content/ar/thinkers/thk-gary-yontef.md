@@ -15,13 +15,13 @@ crumb: "العلاج الجشطلتي ← المنعطف العلائقي ← غ
 edges:
 - rel: "belongs_to", target: "br-relational-gestalt", target_type: "تيار"
 related:
-- id: "br-relational-gestalt", title: "الجشطلت العلائقي", type: "تيار"
-- id: "br-gestalt-therapy", title: "العلاج الجشطلتي", type: "تيار"
-- id: "sch-gestalt-therapy", title: "مدرسة العلاج الجشطلتي", type: "مدرسة"
+- id: "br-relational-gestalt", title: "الجشطالت العلائقي المعاصر", type: "تيار"
+- id: "br-gestalt-therapy", title: "علاج الجشطالت", type: "تيار"
+- id: "sch-gestalt-therapy", title: "علاج الجشطالت (Gestalt Therapy)", type: "مدرسة"
 - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
 - id: "thk-lperls", title: "لورا بيرلز", type: "مفكر"
 - id: "thk-goodman", title: "بول غودمان", type: "مفكر"
-- id: "thk-mbuber", title: "مارتن بوبر", type: "مفكر"
+- id: "thk-mbuber", title: "مارتن بُبَر", type: "مفكر"
 gaps:
   - "**كُتب متنُه 2026-09-07:** كان يونتيف مذكوراً بوصفه صاحبَ المنعطف العلائقي في ملفّ `br-relational-gestalt` بلا ملفٍّ يُعرِّفه."
   - "لا ملفَّ في الأطلس لـ**لين جيكوبس** شريكِه في معهد لوس أنجلوس، ولا لـ**إرفينغ ولين بولستر**."

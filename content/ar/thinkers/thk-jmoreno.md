@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "الألمانية، الإنجليزية"
 active_start: 1921
 active_end: 1974
-part: "psychology"
+part: "philosophy"
 crumb: "السيكودراما ← المؤسس ← جاكوب ليفي مورينو"
 edges:
 - rel: "belongs_to", target: "br-psychodrama", target_type: "تيار"
@@ -23,6 +23,7 @@ related:
 - id: "br-psychodrama", title: "السيكودراما والسوسيومتري", type: "تيار"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Who Shall Survive? A New Approach to the Problem of Human Interrelations* (1934) بترجمة عربية معتمدة."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-psychodrama` موسومٌ «philosophy» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # جاكوب مورينو

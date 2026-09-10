@@ -14,7 +14,7 @@ evidence_level: "probably-efficacious"
 edges:
 - rel: "belongs_to", target: "sch-act", target_type: "مدرسة"
 related:
-- id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
+- id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري (ACT)", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-dropping-the-struggle", title: "إسقاط الصراع (مفتاح الصراع)", type: "تقنية/تدخل علاجي"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "tec-act-acc-creative-hopelessness", title: "اليأس الخلّاق", type: "تقنية/تدخل علاجي"

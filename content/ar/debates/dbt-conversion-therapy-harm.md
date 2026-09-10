@@ -10,7 +10,7 @@ active_start: 1970
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "br-conversion-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-conversion-therapy", target_type: "تيار"
 related:
 - id: "thk-jnicolosi", title: "جوزيف نيكولوسي", type: "مفكر"
 - id: "con-conversion-therapy-harm", title: "ضرر العلاج بالتحويل", type: "مفهوم"

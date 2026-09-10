@@ -11,9 +11,9 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
-- rel: "belongs_to", target: "tec-ericksonian-hypnotherapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-ericksonian-hypnotherapy", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-merickson", title: "ميلتون إريكسون", type: "مفكر"
 - id: "con-utilization-principle", title: "مبدأ الاستفادة", type: "مفهوم"
@@ -28,6 +28,7 @@ gaps:
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: دانيال بيت (thk-michael-yapko-jr)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ستيفن لانكتون (thk-stephen-lankton)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: وليام هدسون (thk-bill-ohanlon)."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-ericksonian-hypnotherapy` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # جيفري زايغ

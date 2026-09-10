@@ -18,9 +18,9 @@ edges:
 related:
 - id: "sch-eft", title: "العلاج المتمحور حول المشاعر (EFT)", type: "مدرسة"
 - id: "thk-greenberg-lisa", title: "ليزلي س. غرينبرغ", type: "مفكر"
-- id: "con-maladaptive-emotion", title: "الانفعالات المُحوَّلة", type: "مفهوم"
+- id: "con-maladaptive-emotion", title: "الانفعالات المُحوَّلة / غير التكيفية (Maladaptive Emotions)", type: "مفهوم"
 - id: "con-primary-adaptive-maladaptive-emotions", title: "الانفعالات الأولية والثانوية في العلاج الموجه بالانفعال (EFT)", type: "مفهوم"
-- id: "tec-stair-nt", title: "تنظيم الانفعالات", type: "تقنية/تدخل علاجي"
+- id: "tec-stair-nt", title: "بروتوكول تدريب تنظيم الانفعالات والعلاقات للصدمة (STAIR-NT)", type: "تقنية/تدخل علاجي"
 - id: "tec-two-chair-dialogue-eft", title: "تقنية حوار الكرسيين لتجاوز النقد الذاتي في EFT", type: "تقنية/تدخل علاجي"
 - id: "tec-empty-chair-dialogue-eft", title: "تقنية الكرسي الفارغ لحسم الأعمال غير المكتملة في EFT", type: "تقنية/تدخل علاجي"
 gaps:

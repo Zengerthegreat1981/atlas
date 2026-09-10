@@ -11,7 +11,7 @@ dates: "لندن وباريس · أربعينيات القرن العشرين"
 active_start: 1940
 active_end: "مستمر"
 language: "الإنجليزية / الفرنسية"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-bion", target_type: "مفكر"
@@ -23,6 +23,7 @@ related:
 gaps:
   - "الفرق بين 'التحليل في المجموعة' (Analysis in Group) و'تحليل المجموعة ككل' (Analysis of Group) عند فولكس وبيون."
   - "مفهوم 'الجهاز النفسي الجمعي' (Group Psychic Apparatus) عند رينيه كاييس وأغلفة المجموعة عند أنزيو."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # التحليل النفسي الجماعي وتحليل المجموعات

@@ -2,7 +2,7 @@
 slug: "dbt-chemical-imbalance-myth-neuroplasticity"
 id: "DBT-0424"
 type: "جدل"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "أسطورة الاختلال الكيميائي مقابل فرضية المرونة العصبية"
 en: "The Chemical Imbalance Debate vs. Neuroplasticity and Network Models"
@@ -17,6 +17,7 @@ related:
 gaps:
   - "رد جوهار-كاوين-براوننغ (2023) لم يُراجع من نسخة أصلية مباشرة بعد."
   - "مقال دومان ومونتيجيا (2006) عن النموذج العصبي-الغذائي (neurotrophic) لم يُراجع من نسخة أصلية بعد."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-biological-neuro` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # أسطورة الاختلال الكيميائي مقابل فرضية المرونة العصبية

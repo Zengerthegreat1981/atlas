@@ -15,7 +15,7 @@ active_start: -350
 active_end: -150
 active_source: "lifespan"
 related:
-- id: "sch-mohism", title: "الموهية", type: "مدرسة"
+- id: "sch-mohism", title: "الموهية (Mohism / Mojia)", type: "مدرسة"
 - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
 - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
 - id: "con-bian", title: "بيان (辯) — الجدل والتمييز", type: "مفهوم"

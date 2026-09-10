@@ -2,7 +2,7 @@
 slug: "que-why-is-there-suffering-existential"
 id: "QUE-0103"
 type: "سؤال توليدي"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "لماذا نتألم وكيف نحول المعاناة التراجيدية إلى إنجاز إنساني وبصيرة؟"
 en: "The Existential Problem of Suffering: Transforming Tragedy into Human Triumph"
@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "br-logotherapy", target_type: "تيار"
 related:
 - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
-- id: "wrk-frankl-mans-search-for-meaning", title: "الإنسان يبحث عن المعنى", type: "عمل / كتاب"
+- id: "wrk-frankl-mans-search-for-meaning", title: "كتاب الإنسان يبحث عن المعنى لفيكتور فرانكل (1946)", type: "عمل / كتاب"
 - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
 - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
 - id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
@@ -23,6 +23,7 @@ gaps:
   - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `br-logotherapy` بحسب المجال المُصحَّح في مسار التنقّل («العلاج بالمعنى والوجودية»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
   - "لم يُتحقق من الصفحة الدقيقة لاقتباس فرانكل («يمكن أن يُسلب من الإنسان...») في طبعة 1946 الألمانية الأصلية مقابل الترجمة الإنجليزية 1959 — النص هنا عن الترجمة الشائعة."
   - "موقف نيتشه (آمور فاتي) غير مربوط بملف مفكر مخصص في هذا الأطلس رغم كونه المرجع الفلسفي المباشر لفرانكل هنا؛ يحتاج تحققاً."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-logotherapy` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 # لماذا نتألم وكيف نحول المعاناة التراجيدية إلى إنجاز إنساني وبصيرة؟
 

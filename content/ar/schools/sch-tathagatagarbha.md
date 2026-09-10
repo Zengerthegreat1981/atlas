@@ -17,7 +17,7 @@ edges:
 - rel: "evolved_from", target: "sch-madhyamaka", target_type: "مدرسة"
 related:
 - id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
-- id: "sch-yogacara", title: "يوغاكارا", type: "مدرسة"
+- id: "sch-yogacara", title: "يوغاكارا / فيجنانافادا", type: "مدرسة"
 - id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
 - id: "sch-zen-soto", title: "زن: سوتو", type: "مدرسة"
 gaps:

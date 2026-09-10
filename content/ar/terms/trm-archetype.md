@@ -11,9 +11,9 @@ active_start: 1919
 active_end: "مستمر"
 redirect_to: "trm-archetyp-archetype-jung"
 edges:
-- rel: "relates_to", target: "br-jungian", target_type: "مدرسة"
+- rel: "relates_to", target: "br-jungian", target_type: "تيار"
 related:
-- id: "trm-archetyp-archetype-jung", title: "النمط البدائي (Archetype): البنى الرمزية في اللاوعي الجمعي", type: "مصطلح"
+- id: "trm-archetyp-archetype-jung", title: "النمط البدائي (Archetype): البنى الرمزية في اللاوعي الجمعي", type: "مصطلح لغوي متنازع عليه"
 gaps:
   - "[حجر] دُمج هذا الملف إحالةً إلى trm-archetyp-archetype-jung (TRM-0030) — نفس مفهوم Archetype اليونغي بنفس المصدر (thk-jung) ونفس المدرسة (br-jungian)؛ الملف الآخر أعمق توثيقاً (مصادر أولية، تمييز الموقف المبكر/المتأخر ليونغ) فأُبقي عليه كمعتمد."
   - "**وُسم العنوان 2026-09-10:** كان هذا الملفُّ إحالةً مُصرِّحةً في متنه إلى `trm-archetyp-archetype-jung`، لكنّ عنوانَه لا يُبيّن ذلك — فيظهر في الفهارس والبحث مدخلاً كاملاً يزاحم الملفَّ القانونيَّ بعنوانٍ يكاد يطابقه. وهو العيبُ نفسُه الذي أُصلح في `sch-cbt` قبلاً."

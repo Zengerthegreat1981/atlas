@@ -31,7 +31,7 @@ related:
 - id: "syn-truman-show", title: "متلازمة عرض ترومان التوهمية (وهم تلفزيون الواقع)", type: "متلازمة"
 - id: "syn-van-gogh-syndrome", title: "متلازمة فان غوخ وتشويه الذات في الذهان المزمن", type: "متلازمة"
 - id: "ins-scid-5", title: "المقابلة الإكلينيكية المقننة لتشخيص اضطرابات الدليل الخامس (SCID-5)", type: "أداة قياس"
-- id: "dbt-mental-illness-brain-disease", title: "جِدَل الْمَرَض النَّفْسِيّ كَمَرَض دِمَاغ", type: "جدل"
+- id: "dbt-mental-illness-brain-disease", title: "جدل المرض النفسي كمرض دماغ: الاختزال العصبي وحدوده", type: "جدل"
 - id: "con-schizoanalysis-desiring-machines", title: "التحليل الفصامي وآلات الرغبة (Schizoanalysis)", type: "مفهوم"
 - id: "exp-elyn-saks-schizophrenia-center", title: "تجربة إلين ساكس مع الفصام والتفوق الأكاديمي («المركز لا يصمد»)", type: "خبرة معيشة"
 gaps:

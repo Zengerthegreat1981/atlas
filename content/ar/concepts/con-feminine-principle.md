@@ -11,7 +11,7 @@ dates: "من الثمانينيات"
 active_start: 1982
 active_end: "مستمر"
 language: "الإنجليزية"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
@@ -21,6 +21,7 @@ related:
 - id: "con-anima-animus", title: "الأنيما والأنيموس", type: "مفهوم"
 gaps:
   - "لا يوجد عمل بعنوان مستقل موثّق يحمل صياغة 'BodySoul' كعمل منشور (wrk-) بخلاف كتبها الثلاثة المذكورة في thk-mwoodman — يحتاج تحقق قبل إضافة رابط wrk-."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # المبدأ الأنثوي وتجسيد الجسد

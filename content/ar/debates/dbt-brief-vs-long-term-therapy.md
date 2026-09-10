@@ -17,7 +17,7 @@ related:
 - id: "thk-kohut", title: "هاينز كوهوت", type: "مفكر"
 - id: "thk-fonagy", title: "بيتر فوناغي", type: "مفكر"
 - id: "thk-bateman", title: "أنتوني بيتمان", type: "مفكر"
-- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب"
+- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"
 - id: "dbt-acceptance-vs-cognitive-change", title: "القبول والانفتاح الانفعالي مقابل إعادة التقييم المعرفي", type: "جدل"
 gaps:
   - "نص دراسة Consumer Reports الأصلية (Seligman, 1995) بجداولها الإحصائية الكاملة لم يُراجَع مباشرة؛ الاعتماد على ملخصات ثانوية موثوقة لنتائجها."

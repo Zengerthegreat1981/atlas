@@ -2,7 +2,7 @@
 slug: "sch-indigenous-psychology"
 id: "SCH-0357"
 type: "مدرسة"
-part: "psychology"
+part: "philosophy"
 cultural_origin: "indigenous"
 level: "متوسط"
 title: "علم نفس الشعوب الأصلية"
@@ -19,8 +19,8 @@ edges:
 - rel: "evolved_from", target: "sch-cross-cultural-psychology", target_type: "مدرسة"
 - rel: "belongs_to", target: "sch-indigenous-philosophy-contemporary", target_type: "مدرسة"
 related:
-- id: "sch-north-american-indigenous", title: "فلسفات السكان الأصليين بأمريكا الشمالية", type: "مدرسة"
-- id: "sch-indigenous-philosophy-contemporary", title: "فلسفات السكان الأصليين المعاصرة", type: "مدرسة"
+- id: "sch-north-american-indigenous", title: "فلسفات السكان الأصليين بأمريكا الشمالية (لاكوتا، نافاهو، أوجيبوي… كمظلة)", type: "مدرسة"
+- id: "sch-indigenous-philosophy-contemporary", title: "فلسفات السكان الأصليين المعاصرة (كمظلة نقدية عابرة للمناطق)", type: "مدرسة"
 - id: "sch-african-psychology", title: "علم النفس الأفريقي", type: "مدرسة"
 - id: "sch-liberation-psychology", title: "علم نفس التحرر", type: "مدرسة"
 - id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
@@ -30,10 +30,10 @@ related:
 - id: "thk-kimmerer", title: "روبن وال كيميرير", type: "مفكر"
 - id: "thk-elifellows", title: "جوزيف ل. وايت جونيور", type: "مفكر"
 - id: "thk-lsaari", title: "لوسيان ليفي-برول", type: "مفكر"
-- id: "con-emic-etic", title: "الإيميتيك والإتيك", type: "مفهوم"
-- id: "con-two-eyed-seeing", title: "الرؤية بعينين", type: "مفهوم"
-- id: "con-historical-trauma", title: "الصدمة التاريخية", type: "مفهوم"
-- id: "con-land-based-healing", title: "الشفاء القائم على الأرض", type: "مفهوم"
+- id: "con-emic-etic", title: "الإيميتيك والإتيك (Emic vs. Etic)", type: "مفهوم"
+- id: "con-two-eyed-seeing", title: "الرؤية بعينين (Etuaptmumk / Two-Eyed Seeing)", type: "مفهوم"
+- id: "con-historical-trauma", title: "الصدمة التاريخية (Historical Trauma)", type: "مفهوم"
+- id: "con-land-based-healing", title: "الشفاء القائم على الأرض (Land-Based Healing)", type: "مفهوم"
 - id: "con-intergenerational-historical-trauma", title: "الصدمة التاريخية متعددة الأجيال لدى الشعوب الأصلية", type: "مفهوم"
 - id: "con-two-eyed-seeing-indigenous", title: "الرؤية بعينين: دمج الحكمة الأصلية بالعلوم المعاصرة", type: "مفهوم"
 - id: "que-intergenerational-healing-rituals", title: "كيف تلتئم الصدمات المتوارثة عبر الأجيال في الثقافات الجمعية؟", type: "سؤال توليدي"
@@ -44,6 +44,7 @@ gaps:
   - "التمييز بين «علم نفس الشعوب الأصلية» بوصفه تخصصاً أكاديمياً والحركة السياسية للشعوب الأصلية لم يُحلّ بدقة هنا."
   - "لا يوجد اقتباس مباشر موثوق في هذه المسودة."
   - "**حُلَّ هدفٌ نصّيٌّ 2026-09-10:** وُجِّه `evolved_from` من النصِّ «علم النفس عبر الثقافي» إلى `sch-cross-cultural-psychology`."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-indigenous-philosophy-contemporary` موسومٌ «philosophy» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 # علم نفس الشعوب الأصلية
 حقل نشأ في مطلع التسعينيات ضمن انتقادات علم النفس العابر-الثقافي الأنجلو-أمريكي، يطالب بأن تدرس «النفس» كما تشكّلت في سياقات ثقافية ولغوية محددة، لا كما تبلورت في فصول علم النفس الأنجلو-أوروبية. يختلف عن «علم النفس العابر-الثقافي» (Cross-Cultural Psychology) في أنه يأخذ بجدّ أن لكل ثقافة «بنية معرفية» (cognitive structure) خاصة، وأن تعميم النموذج الغربي يُنتج تشوهاً منهجياً لا مجرد تكيّفاً.

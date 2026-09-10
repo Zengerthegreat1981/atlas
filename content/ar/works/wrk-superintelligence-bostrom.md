@@ -17,7 +17,7 @@ active_end: 2014
 edges:
 - rel: "belongs_to", target: "sch-transhumanism", target_type: "مدرسة"
 related:
-- id: "sch-transhumanism", title: "الإنسانية العابرة", type: "مدرسة"
+- id: "sch-transhumanism", title: "الإنسانية العابرة (Transhumanism)", type: "مدرسة"
 - id: "thk-bostrom", title: "نيك بوستروم", type: "مفكر"
 gaps:
   - "لم يثبت وجود ترجمة عربية منشورة لهذا العمل: بُحث عن مترجم وناشر وسنة ولم يُعثر على أيٍّ منها."

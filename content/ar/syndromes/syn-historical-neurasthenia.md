@@ -12,7 +12,7 @@ active_end: 1980
 language: "متعدد اللغات"
 edges: []
 related:
-- id: "con-neurosis-historical-framework", title: "العصاب: الإطار التنظيمي التاريخي", type: "مفهوم"
+- id: "con-neurosis-historical-framework", title: "العصاب: الإطار التنظيمي التاريخي للاضطرابات النفسية", type: "مفهوم"
 - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
 - id: "con-anxiety", title: "القلق", type: "مفهوم"
 gaps:

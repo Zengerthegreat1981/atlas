@@ -17,8 +17,8 @@ edges:
 related:
 - id: "thk-kanada", title: "كاشيابا كانادا", type: "مفكر"
 - id: "con-atom-void", title: "الذرة والفراغ المادي (Atom and Void)", type: "مفهوم"
-- id: "sch-atomism-greek", title: "الذرية اليونانية", type: "مدرسة"
-- id: "thk-epicur", title: "أبيقور", type: "مفكر"
+- id: "sch-atomism-greek", title: "الذرية اليونانية (Greek Atomism)", type: "مدرسة"
+- id: "thk-epicur", title: "أبيقور الساموسي", type: "مفكر"
 gaps:
   - "مذهبه الأخلاقي في 'البهجة النفسية' (Euthymia) وتوازنه مع المادية الميكانيكية."
 ---

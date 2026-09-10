@@ -23,7 +23,7 @@ related:
 - id: "thk-brentano", title: "فرانتس برنتانو", type: "مفكر"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "sch-phenomenology", title: "الظاهراتية (Phänomenologie)", type: "مدرسة"
-- id: "con-epoche-phenomenological-reduction", title: "الرد الفينومينولوجي وتعليق العالم الطبيعي (Reduction)", type: "مفهوم"
+- id: "con-epoche-phenomenological-reduction", title: "الإيبوخي والرد الفينومينولوجي (Epoché / Phenomenological Reduction)", type: "مفهوم"
 - id: "con-intentionality-brentano", title: "القصدية (Intentionalität) عند برنتانو", type: "مفهوم"
 - id: "wrk-logical-investigations-husserl", title: "أبحاث منطقية لإدموند هوسرل (Logische Untersuchungen)", type: "عمل / كتاب"
 gaps:

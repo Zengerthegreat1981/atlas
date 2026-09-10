@@ -14,7 +14,7 @@ edges:
 related:
 - id: "sch-feminism-liberal", title: "النسوية الليبرالية", type: "مدرسة"
 - id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
-- id: "wrk-second-sex", title: "الجنس الثاني", type: "عمل / كتاب"
+- id: "wrk-second-sex", title: "الجنس الثاني (Le Deuxième Sexe, 1949)", type: "عمل / كتاب"
 gaps:
   - "المقطع منقول من مذكرات بوفوار «قوة الأشياء» (La Force des choses، 1963) بترجمة ثانوية عن الفرنسية؛ يحتاج مراجعة مقابل الأصل الفرنسي قبل الاعتماد النهائي."
 ---

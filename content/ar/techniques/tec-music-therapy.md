@@ -20,7 +20,7 @@ related:
 - id: "br-expressive-arts-therapy", title: "الفنون التعبيرية التعددية (Intermodal Expressive Arts)", type: "تيار"
 - id: "tec-dance-movement-therapy", title: "العلاج بالرقص والحركة (DMT)", type: "تقنية/تدخل علاجي"
 - id: "wrk-polyvagal-theory-2011", title: "نظرية بولي فاغال: الأسس العصبية للسلوك الاجتماعي", type: "عمل / كتاب"
-- id: "dis-autism-spectrum", title: "اضطراب طيف التوحد", type: "اضطراب"
+- id: "dis-autism-spectrum", title: "اضطراب طيف التوحد", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "النموذجان الأساسيان: العلاج بالموسيقى الإبداعية لنوردوف-روبنز (Nordoff-Robbins Creative Music Therapy) وطريقة بوني في الصور الموجهة بالموسيقى (GIM)."
   - "دراسة تجريبية محددة (بعينة وتصميم وسنة) تثبت أو تنفي فاعلية العلاج بالموسيقى لم تُوثَّق بعد؛ الأدلة المذكورة هنا مستقاة من مراجعات كوكرين المنهجية العامة دون تفاصيل عيّنة بعينها."

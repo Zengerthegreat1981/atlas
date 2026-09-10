@@ -10,10 +10,10 @@ country: "اليابان"
 language: "اليابانية"
 active_start: null
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 crumb: "علاج نايكان ← تطوير ← ميتشيو ميزونو"
 edges:
-- rel: "belongs_to", target: "tec-naikan-therapy", target_type: "تيار"
+- rel: "belongs_to", target: "tec-naikan-therapy", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-yishin", title: "يوشيموتو إيشين", type: "مفكر"
 gaps:
@@ -24,6 +24,7 @@ gaps:
   - "لا توجد سيرة ذاتية منشورة لـ 'Michio Mizuno' في J-STAGE (قاعدة الأبحاث اليابانية) حتى آب 2026."
   - "الاحتمال: خلط مع 'Michio Mizuno' (لاعب جودو ياباني، 1934–، حقل مختلف) أو 'Michio Take' (أكاديمي علم نفس في اليابان)."
   - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'Naikan Kyoto' عام."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-naikan-therapy` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # ميتشيو ميزونو

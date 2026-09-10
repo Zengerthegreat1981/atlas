@@ -22,7 +22,7 @@ related:
 - id: "thk-dkalsched", title: "دونالد كَلشد", type: "مفكر"
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "thk-dsiegel", title: "دان سيغل", type: "مفكر"
-- id: "con-attachment-styles-popular", title: "أنماط التعلق في العلاقات المعاصرة", type: "مفهوم"
+- id: "con-attachment-styles-popular", title: "أنماط التعلق في العلاقات المعاصرة (الآمن، القلق، التجنبي)", type: "مفهوم"
 - id: "con-eft-couples-stuck-points", title: "نِقَاط الِانْحِراف فِي EFT: تَثْبِيت 'الْمَشَاعِر الْخَاطِئَة'", type: "مفهوم"
 - id: "dbt-couples-therapy-vs-individual-depression", title: "جدل العلاج الزوجي مقابل العلاج الفردي للاكتئاب", type: "جدل"
 - id: "crt-critique-of-couples-therapy-effectiveness", title: "نقد فَعَّالِيَّة الْعِلَاج الزَّوْجِيّ: «مَشَاكِل الْأَزْوَاج» هَل تُحُلّ؟", type: "نقد خارجي موثَّق"

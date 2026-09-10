@@ -12,13 +12,13 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-hegelianism", target_type: "مدرسة"
 related:
-- id: "thk-hegel", title: "غيورغ فيلهلم فريدريش هيغل", type: "مفكر"
-- id: "sch-hegelianism", title: "الهيغلية (Hegelianism)", type: "مدرسة"
-- id: "wrk-lectures-on-philosophy-of-history-hegel", title: "محاضرات في فلسفة التاريخ لهيغل", type: "عمل"
-- id: "con-absolute-spirit-hegel", title: "الروح المطلق عند هيغل", type: "مفهوم"
+- id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
+- id: "sch-hegelianism", title: "الهيغلية", type: "مدرسة"
+- id: "wrk-lectures-on-philosophy-of-history-hegel", title: "محاضرات في فلسفة التاريخ لهيغل", type: "عمل / كتاب"
+- id: "con-absolute-spirit-hegel", title: "الروح المطلق وتمظهراته (Absolute Spirit)", type: "مفهوم"
 - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
 - id: "thk-adam-smith", title: "آدم سميث", type: "مفكر"
-- id: "thk-karl-popper", title: "كارل بوبر", type: "مفكر"
+- id: "thk-karl-popper", title: "سير كارل بوبر", type: "مفكر"
 gaps:
   - "**كُتب متنه 2026-09-07.** والفجوتان المسجَّلتان كانتا تنصّان على أن المتن لا يذكر أمثلةً تاريخية محدَّدة استعملها هيغل (كنابليون) ولا فيه اقتباسٌ من نصّه — وقد أُثبت مثالُ قيصر ونابليون وبنيةُ الأهواء، بلا اقتباسٍ حرفي (انظر أدناه)."
   - "لم أُثبت اقتباساً حرفياً من نصّ هيغل لأني لا أنقل عن ترجمةٍ بين يديّ؛ وعبارةُ «الفردِ التاريخي-العالمي» وعبارةُ «لا شيء عظيمٍ في العالم أُنجز بلا هوى» مشهورتان عنه وقد عُرضت مضامينُهما منسوبةً إليه بلا علامتَي تنصيص."

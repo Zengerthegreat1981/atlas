@@ -6,7 +6,7 @@ part: "psychology"
 level: "متقدم"
 title: "نقد Somatic Experiencing: نَظَرِيَّة «الطَّاقَة الْمَحْبُوسَة» لَيْسَتْ مُوَضَّحَة"
 en: "Critique of Somatic Experiencing: 'Trapped Energy' Theory Underdetermined"
-crumb: "نقد ← Somatic Experiencing"
+crumb: "النقد الخارجي ← Somatic Experiencing"
 active_start: 2007
 active_end: "مستمر"
 edges:
@@ -19,6 +19,7 @@ gaps:
 - "لم تُراجع من نسخة أصلية مباشرة بعد (Kuhfuß et al., 2021; Grossman, 2016/2023)."
 - "الجدل حول نظرية بورجز متعدد الاتجاهات العصبية (Polyvagal Theory) أوسع من ملف SE وحده — يحتاج ملفاً مستقلاً يربط بورجز وغروسمان."
 - "لا يوجد اقتباس مباشر من ليفين نفسه رداً على غروسمان أو كوفوس متاح لي هنا."
+  - "**وُحِّد مسارُ التنقّل 2026-09-10:** كان «نقد» وصار «النقد الخارجي» — لأنّ الجذرَ كان منقسماً بين صيغتين للشيء نفسِه، فيعرض فهرسُ التصفّح موضعين لموضعٍ واحد."
 ---
 # نقد Somatic Experiencing: نَظَرِيَّة «الطَّاقَة الْمَحْبُوسَة» لَيْسَتْ مُوَضَّحَة
 

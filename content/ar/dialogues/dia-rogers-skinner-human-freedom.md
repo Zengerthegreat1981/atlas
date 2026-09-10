@@ -13,7 +13,7 @@ edges:
 - rel: "relates_to", target: "sch-behaviorism", target_type: "مدرسة"
 - rel: "relates_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-- id: "sch-behaviorism", title: "السلوكية", type: "مدرسة"
+- id: "sch-behaviorism", title: "السلوكية (Behaviorism)", type: "مدرسة"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
 - id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 - id: "dia-rogers-skinner-1956", title: "مناظرة روجرز وسكينر 1956: السيطرة السلوكية مقابل حرية الإنسان", type: "حوار مع مدرسة مجاورة"

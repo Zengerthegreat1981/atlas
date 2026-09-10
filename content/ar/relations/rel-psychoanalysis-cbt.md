@@ -17,7 +17,7 @@ related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
-- id: "wrk-beck-cognitive-therapy", title: "العلاج المعرفي والاضطرابات الانفعالية", type: "عمل / كتاب"
+- id: "wrk-beck-cognitive-therapy", title: "العلاج المعرفي والاضطرابات الانفعالية (Cognitive Therapy and the Emotional Disorders)", type: "عمل / كتاب"
 - id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"
 gaps:
   - "بيك وإيليس كلاهما مدرّب أصلا في التحليل النفسي قبل أن يبتكرا CBT — تفاصيل السيرة الدقيقة في سنوات التدريب 1950s تحتاج توثيقاً أولياً."

@@ -18,7 +18,7 @@ related:
 - id: "tec-cbt-emo-coping-statements", title: "عبارات التأقلم", type: "تقنية/تدخل علاجي"
 - id: "tec-cognitive-reappraisal", title: "إعادة التقييم المعرفي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-deep-breathing-techniques", title: "تقنيات التنفس العميق", type: "تقنية/تدخل علاجي"
-- id: "tec-act-acc-willingness-vs-willfulness", title: "الاستعداد مقابل العناد", type: "تقنية/تدخل علاجي"
+- id: "tec-act-acc-willingness-vs-willfulness", title: "الاستعداد مقابل العناد (ACT)", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-dropping-the-struggle", title: "إسقاط الصراع (مفتاح الصراع)", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-leaves-on-a-stream", title: "أوراق على النهر", type: "تقنية/تدخل علاجي"
 - id: "tec-act-val-values-based-decision-making", title: "اتخاذ القرار المبني على القيم", type: "تقنية/تدخل علاجي"

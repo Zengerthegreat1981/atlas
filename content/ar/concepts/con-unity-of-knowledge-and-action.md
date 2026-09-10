@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-xinxue", target_type: "مدرسة"
 related:
-- id: "thk-wang-yangming", title: "وانغ يانغ مينغ", type: "مفكر"
+- id: "thk-wang-yangming", title: "وانغ يانغ مينغ (وانغ شو رن)", type: "مفكر"
 - id: "sch-xinxue", title: "مدرسة العقل/القلب (Xinxue / Lu-Wang)", type: "مدرسة"
 - id: "con-zhixing-heyi", title: "الوحدة بين المعرفة والفعل (知行合一)", type: "مفهوم"
 - id: "con-liangzhi", title: "الحدس الأخلاقي (良知 liángzhī)", type: "مفهوم"

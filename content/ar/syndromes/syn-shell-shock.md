@@ -12,9 +12,9 @@ active_end: 1945
 language: "متعدد اللغات"
 edges: []
 related:
-- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-acute-stress-disorder", title: "اضطراب الكرب الحاد", type: "اضطراب/حالة إكلينيكية"
-- id: "evt-shell-shock-ww1-craiglockhart-1917", title: "صدمة القذائف في الحرب العالمية الأولى", type: "حدث تاريخي"
+- id: "evt-shell-shock-ww1-craiglockhart-1917", title: "صدمة القذائف في الحرب العالمية الأولى وتأسيس مشفى كريغلوكهارت العسكري", type: "حدث تاريخي"
 - id: "syn-effort-syndrome", title: "متلازمة الجهد الحربي والقلب العصبي الحاد (Lewis 1917)", type: "متلازمة"
 - id: "con-trauma", title: "الصدمة النفسية في التحليلية", type: "مفهوم"
 gaps:

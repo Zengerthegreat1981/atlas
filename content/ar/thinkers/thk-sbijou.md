@@ -10,7 +10,7 @@ crumb: "السلوكية (Behaviorism) ← الناس ← سيدني و. بيج�
 dates: "أمريكا · 1908–1988"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-active_start: null
+active_start: 1908
 active_end: 1988
 edges:
 - rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
@@ -22,6 +22,7 @@ related:
 gaps:
   - "سنة الميلاد (1908) والوفاة (1988) موثَّقتان في عدة مراجع."
   - "موقعه في الـJABA (Journal of Applied Behavior Analysis) كان مؤسِّساً في 1968."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («أمريكا · 1908–1988») فاستُخرجت: 1908."
 ---
 
 # سيدني و. بيجو

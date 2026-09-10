@@ -10,10 +10,10 @@ active_start: 1949
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "تيار"
 evidence_level: "controversial"
 related:
-- id: "thk-mwagreich", title: "موريس هـ. فيغوتش", type: "مفكر"
+- id: "thk-mwagreich", title: "موريس هـ. فيغوتش (حجر)", type: "مفكر"
 - id: "tec-recovered-memory-technique", title: "تقنية الذاكرة المُستعادة", type: "تقنية/تدخل علاجي"
 - id: "tec-emdr", title: "إزالة التحسس وإعادة المعالجة بحركات العين (EMDR)", type: "تقنية/تدخل علاجي"
 gaps:

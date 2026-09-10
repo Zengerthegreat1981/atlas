@@ -8,7 +8,7 @@ en: "Jeong (정)"
 crumb: "أطر غير غربية ← المفاهيم ← جونغ"
 active_start: 2000
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-korean-neoconfucian", target_type: "مدرسة"
 related:
@@ -18,6 +18,7 @@ related:
 gaps:
   - "النظريات الأدبية لـJeong في الأدب الكوري المعاصر لم تُوثّق بدقة."
   - "لم يُعثر بعد على اقتباس أصلي موثّق يمكن إسناده مباشرة لهذا المفهوم."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-korean-neoconfucian` موسومٌ «philosophy» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # جونغ (Jeong، 정)

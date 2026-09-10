@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "dis-major-neurocognitive", title: "اضطراب معرفي عصبي رئيسي (الخرف)", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-mdd", title: "اضطراب الاكتئاب", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "syn-apathetic-frontal", title: "متلازمة الفص الجبهي اللامبالية والخرس الحركي (Akinetic Mutism)", type: "متلازمة"
 - id: "con-hard-problem-of-consciousness", title: "المشكلة الصعبة للوعي والكواليا (The Hard Problem of Consciousness)", type: "مفهوم"
 gaps:

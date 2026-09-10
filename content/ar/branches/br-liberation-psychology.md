@@ -11,19 +11,19 @@ dates: "من 1986"
 active_start: 1986
 active_end: "مستمر"
 language: "الإسبانية"
-part: "psychology"
+part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-liberation-psychology", target_type: "مدرسة"
 - rel: "founded_by", target: "thk-imartinbaro", target_type: "مفكر"
 related:
-- id: "thk-imartinbaro", title: "إغناسيو مارتين-بارو", type: "مفكر"
-- id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي", type: "تيار"
-- id: "br-decolonizing-therapy", title: "نزع استعمار العلاج النفسي", type: "تيار"
-- id: "tec-anti-oppressive-practice", title: "الممارسة المناهضة للقهر", type: "تقنية/تدخل علاجي"
-- id: "crt-postcolonial-critique-cbt", title: "النقد ما بعد الكولونيالي للعلاج المعرفي-السلوكي", type: "نقد خارجي موثَّق"
-- id: "crt-postcolonial-critique-psychoanalysis", title: "النقد ما بعد الكولونيالي للتحليل النفسي", type: "نقد خارجي موثَّق"
-- id: "thk-fanon", title: "فرانز فانون", type: "مفكر"
-- id: "rel-fanon-sociogeny-liberation-psychology", title: "تكوين المجتمع لفانون وعلم نفس التحرير", type: "علاقة بين مدرستين"
+- id: "thk-imartinbaro", title: "إغناثيو مارتن-بارو", type: "مفكر"
+- id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي (النسوي والكويري وما بعد الكولونيالي)", type: "تيار"
+- id: "br-decolonizing-therapy", title: "نزع استعمار العلاج النفسي (دوران ويلو بيرد)", type: "تيار"
+- id: "tec-anti-oppressive-practice", title: "الممارسة المناهضة للاضطهاد (AOP)", type: "تقنية/تدخل علاجي"
+- id: "crt-postcolonial-critique-cbt", title: "النقد ما بعد الاستعماري للعلاج المعرفي-السلوكي: تصدير بروتوكول فردي كعلاج عالمي", type: "نقد خارجي موثَّق"
+- id: "crt-postcolonial-critique-psychoanalysis", title: "النقد ما بعد الاستعماري للتحليل النفسي: الأنا الأوروبية كمعيار كوني للنفس", type: "نقد خارجي موثَّق"
+- id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
+- id: "rel-fanon-sociogeny-liberation-psychology", title: "تكوين المجتمع لفانون وعلم نفس التحرير لمارتين-بارو", type: "علاقة بين مدرستين"
 gaps:
   - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-humanistic`، ونُقل إلى `sch-liberation-psychology` — للأطلس مدرسةٌ لعلم نفس التحرر، وهي موضعُه."
   - "**كُتب متنه 2026-09-07** من الفجوات المسجَّلة فيه، وكانت تسمّي المطلوب: كتابَ مارتين-بارو التأسيسي، والمهامَّ الثلاث، وأثرَ لاهوت التحرير."
@@ -31,6 +31,7 @@ gaps:
   - "أعمالُ مارتين-بارو الإسبانية *Acción e ideología* (1983) و*Sistema, grupo y poder* (1989) أُثبتت بعنوانَيها وسنتَيهما؛ والمجموعةُ الإنجليزية *Writings for a Liberation Psychology* (1994) صدرت بعد وفاته بتحرير آرون أرون وشون كورن."
   - "لا ملفَّ في الأطلس لباولو فريري ولا للاهوت التحرير ولا لـ«البحث بالمشاركة الفعّالة» (IAP) عند فالس بوردا، وكلُّها مذكورةٌ هنا وتستحقّ ملفاتٍ."
   - "المشروعاتُ المعاصرة في هذا التيار (في المكسيك وجنوب أفريقيا والفلبين) مذكورةٌ اتّجاهاً بلا نسبةٍ إلى مؤلَّفٍ بعينه."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-liberation-psychology` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # علم نفس التحرير (مارتين-بارو)

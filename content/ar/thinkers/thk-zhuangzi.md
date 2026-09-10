@@ -17,7 +17,7 @@ edges:
 - rel: "belongs_to", target: "sch-daoism-philosophical", target_type: "مدرسة"
 related:
 - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
-- id: "thk-laozi", title: "لاو تزو", type: "مفكر"
+- id: "thk-laozi", title: "لاو تزو (لاو دان)", type: "مفكر"
 - id: "thk-huishi", title: "هوي شي (هوي تشي)", type: "مفكر"
 - id: "rel-daoism-systemic", title: "الطاوية الفلسفية والعلاج الأسري/النظامي: من وُو-وِي إلى الدائرية", type: "علاقة بين مدرستين"
 gaps:

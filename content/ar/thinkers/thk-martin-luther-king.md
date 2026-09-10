@@ -18,7 +18,7 @@ related:
 - id: "exp-rosa-parks-montgomery-bus-refusal", title: "رفض روزا باركس التنازل عن مقعدها في حافلة مونتغمري (1955)", type: "خبرة معيشة"
 - id: "exp-martin-luther-king-birmingham-jail", title: "سجن مارتن لوثر كينغ في برمنغهام وكتابة رسالته الخالدة", type: "خبرة معيشة"
 - id: "thk-gandhi", title: "موهانداس كرمشاند غاندي", type: "مفكر"
-- id: "thk-malcolm-x", title: "مالكوم إكس", type: "مفكر"
+- id: "thk-malcolm-x", title: "مالكوم إكس (الحاج مالك الشباز)", type: "مفكر"
 - id: "thk-thoreau", title: "هنري ديفيد ثورو", type: "مفكر"
 - id: "thk-web-dubois", title: "دبليو. إي. بي. دو بوا", type: "مفكر"
 gaps:

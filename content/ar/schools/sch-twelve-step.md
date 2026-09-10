@@ -18,10 +18,10 @@ edges:
 related:
 - id: "thk-bwilson", title: "بيل ويلسون (مؤسس AA)", type: "مفكر"
 - id: "thk-dbob", title: "د. بوب (روبرت هولبروك سميث)", type: "مفكر"
-- id: "con-twelve-steps", title: "الخطوات الاثنتا عشرة", type: "مفهوم"
-- id: "con-addiction", title: "الإدمان", type: "مفهوم"
-- id: "br-medical-model-addiction", title: "النموذج الطبي للإدمان", type: "تيار"
-- id: "con-harm-reduction", title: "تقليل الضرر", type: "مفهوم"
+- id: "con-twelve-steps", title: "برنامج الاثنتي عشرة خطوة (12-Step)", type: "مفهوم"
+- id: "con-addiction", title: "الإدمان والبحث الروحي المشوه", type: "مفهوم"
+- id: "br-medical-model-addiction", title: "النموذج الطبي للإدمان مقابل نموذج المرض المزمن", type: "تيار"
+- id: "con-harm-reduction", title: "الحد من الضرر (Harm Reduction)", type: "مفهوم"
 - id: "thk-amarlatt", title: "ألان مارلات", type: "مفكر"
 gaps:
   - "**أُنشئ هذا الملف 2026-09-08:** كان اسمُ «علم نفس الإدمان» يُستعمل أباً نصّياً في `belongs_to` لمؤسِّسَي AA. **ولم يُسمَّ هذا الملفُّ بذلك الاسم** لأنّ ويلسون وسميث لم يُنشئا حقلاً أكاديمياً في علم النفس بل **تقليداً في العون المتبادل**، ونسبتُهما إلى «علم نفس الإدمان» خطأٌ في التصنيف. فأُنشئ الملفُّ باسم التقليد الذي أسّساه فعلاً."

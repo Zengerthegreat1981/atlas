@@ -19,9 +19,9 @@ related:
 - id: "thk-deraldwing-sue", title: "ديرالد وينغ سو", type: "مفكر"
 - id: "thk-donaldatkinson", title: "دونالد ر. أتكينسون", type: "مفكر"
 - id: "thk-frederickleong", title: "فريديريك ليونغ", type: "مفكر"
-- id: "sch-cross-cultural-psychology", title: "علم النفس عبر الثقافي", type: "مدرسة"
+- id: "sch-cross-cultural-psychology", title: "علم النفس عبر الثقافي (Cross-Cultural Psychology)", type: "مدرسة"
 - id: "sch-indigenous-psychology", title: "علم نفس الشعوب الأصلية", type: "مدرسة"
-- id: "br-decolonizing-therapy", title: "نزع استعمار العلاج النفسي", type: "تيار"
+- id: "br-decolonizing-therapy", title: "نزع استعمار العلاج النفسي (دوران ويلو بيرد)", type: "تيار"
 - id: "sch-african-psychology", title: "علم النفس الأفريقي", type: "مدرسة"
 gaps:
   - "**أُنشئ هذا الملف 2026-09-08:** كان اسمُ «الإرشاد متعدد الثقافات» يُستعمل أباً نصّياً في `belongs_to` لثلاثة ملفاتِ مفكِّرين بلا ملفٍّ يقابله."

@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "syn-burnout", title: "متلازمة الاحتراق الوظيفي والمهني", type: "متلازمة"
-- id: "syn-executive-stress", title: "متلازمة ضغط المديرين التنفيذيين", type: "متلازمة"
+- id: "syn-executive-stress", title: "متلازمة ضغط المديرين التنفيذيين وقرحة التوتر", type: "متلازمة"
 - id: "con-status-anxiety-concept", title: "قلق المكانة الاجتماعية والمقارنة الطبقية (Status Anxiety)", type: "مفهوم"
 gaps:
   - "دراسات وايتهول الأولى والثانية بإشراف السير مايكل مارموت (Michael Marmot) على موظفي الخدمة المدنية البريطانية."

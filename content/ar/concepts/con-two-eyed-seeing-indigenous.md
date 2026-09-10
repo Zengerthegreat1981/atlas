@@ -2,7 +2,7 @@
 slug: "con-two-eyed-seeing-indigenous"
 id: "CON-1253"
 type: "مفهوم"
-part: "psychology"
+part: "philosophy"
 level: "متوسط"
 title: "الرؤية بعينين: دمج الحكمة الأصلية بالعلوم المعاصرة"
 en: "Two-Eyed Seeing (Etuaptmumk): Integrative Indigenous and Western Knowledge"
@@ -15,10 +15,11 @@ related:
 - id: "sch-indigenous-psychology", title: "علم نفس الشعوب الأصلية", type: "مدرسة"
 - id: "thk-eduardo-duran", title: "إدواردو دوران", type: "مفكر"
 - id: "con-two-eyed-seeing", title: "الرؤية بعينين (Etuaptmumk / Two-Eyed Seeing)", type: "مفهوم"
-- id: "con-emic-etic", title: "الإيميتيك والإتيك", type: "مفهوم"
+- id: "con-emic-etic", title: "الإيميتيك والإتيك (Emic vs. Etic)", type: "مفهوم"
 gaps:
   - "هذا الملف مكرِّر فعلياً لملف con-two-eyed-seeing (CON-0866) الذي يوثّق نفس المفهوم بتفصيل أدق (صائغاه بالاسم: تشيرل بارتليت وألبرت مارشال، 2004) — يُرجَّح دمج الاثنين أو حذف أحدهما في مراجعة لاحقة؛ الملف الحالي أُبقي عليه هنا لأن مسار العمل الحالي (Task 9) غير مخوَّل بحذف ملفات."
   - "رابط thk-cbartlett (تشيرل بارتليت) وthk-amarshall (ألبرت مارشال) — الصائغان الفعليان للمصطلح — غير موجودين بعد كملفات مستقلة في الأطلس؛ الرابط الحالي إلى thk-eduardo-duran بديل تقريبي (طبيب نفسي من الشعوب الأصلية يستخدم المفهوم إكلينيكياً في علاج جرح الروح، لا صائغ المصطلح)."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-indigenous-psychology` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # الرؤية بعينين: دمج الحكمة الأصلية بالعلوم المعاصرة

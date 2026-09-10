@@ -18,7 +18,7 @@ edges:
 related:
 - id: "thk-delman", title: "ديف إلمان", type: "مفكر"
 - id: "tec-cognitive-hypnotherapy", title: "التنويم الإيحائي المعرفي", type: "تقنية/تدخل علاجي"
-- id: "dis-specific-phobia", title: "الرهاب المحدد", type: "اضطراب"
+- id: "dis-specific-phobia", title: "الرهاب المحدد", type: "اضطراب/حالة إكلينيكية"
 - id: "thk-andrew-barnes", title: "إيميلي بلاك", type: "مفكر"
 - id: "thk-andrew-johnson", title: "أندرو جونسون", type: "مفكر"
 gaps:

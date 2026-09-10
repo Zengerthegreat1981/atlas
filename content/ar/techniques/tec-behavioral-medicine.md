@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "con-behavioral-medicine", title: "الطب السلوكي والصحة السلوكية", type: "مفهوم"
-- id: "con-stimulus-control", title: "التحكم بالمنبّهات", type: "مفهوم"
+- id: "con-stimulus-control", title: "التحكم بالمنبّهات (علاج)", type: "مفهوم"
 - id: "dis-insomnia-disorder", title: "اضطراب الأرق", type: "اضطراب/حالة إكلينيكية"
 - id: "con-behavioral-epilepsy", title: "العلاج السلوكي للصرع", type: "مفهوم"
 evidence_level: "well-established"

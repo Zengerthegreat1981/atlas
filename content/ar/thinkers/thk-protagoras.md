@@ -19,8 +19,8 @@ related:
 - id: "thk-socrates", title: "سقراط", type: "مفكر"
 - id: "thk-plato", title: "أفلاطون", type: "مفكر"
 - id: "thk-hippias", title: "هيبياس الإليسي", type: "مفكر"
-- id: "thk-heraclitus", title: "هيراقليطس", type: "مفكر"
-- id: "thk-pythagoras", title: "فيثاغورس", type: "مفكر"
+- id: "thk-heraclitus", title: "هيراقليطس الإفسيسي", type: "مفكر"
+- id: "thk-pythagoras", title: "فيثاغورس الساموسي", type: "مفكر"
 gaps:
   - "كتبه لم تصل كاملة (فُقدت إلا أجزاء وشهادات من أفلاطون وديوجانس اللايرتي)."
   - "تاريخ ميلاده/وفاته: 490–420 ق.م تقريبي."

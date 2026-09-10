@@ -13,8 +13,8 @@ edges:
 - rel: "belongs_to", target: "sch-utilitarianism", target_type: "مدرسة"
 related:
 - id: "thk-mill", title: "جون ستيوارت ميل", type: "مفكر"
-- id: "wrk-on-liberty-mill", title: "عن الحرية لجون ستيوارت ميل", type: "عمل"
-- id: "br-classical-utilitarianism-bentham-mill", title: "النفعية الكلاسيكية التشريعية والليبرالية — النفعية", type: "فرع"
+- id: "wrk-on-liberty-mill", title: "عن الحرية لجون ستيوارت ميل", type: "عمل / كتاب"
+- id: "br-classical-utilitarianism-bentham-mill", title: "النفعية الكلاسيكية التشريعية والليبرالية — النفعية", type: "تيار"
 gaps:
   - "ردّ ميل نفسه على اعتراض ديفلن غير موثَّق هنا؛ الجدل مذكور من طرف هارت فقط."
 ---

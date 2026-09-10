@@ -14,7 +14,7 @@ edges:
 related:
 - id: "sch-philosophy-of-technology", title: "فلسفة التكنولوجيا", type: "مدرسة"
 - id: "thk-heidegger-technology", title: "مارتن هايدجر (كفيلسوف للتكنولوجيا)", type: "مفكر"
-- id: "wrk-question-concerning-technology", title: "السؤال حول التقنية (Die Frage nach der Technik)", type: "عمل"
+- id: "wrk-question-concerning-technology", title: "السؤال حول التقنية (Die Frage nach der Technik)", type: "عمل / كتاب"
 - id: "con-alienation-entfremdung-marx", title: "الاغتراب والعمل المستلب (Alienation / Entfremdung)", type: "مفهوم"
 gaps:
   - "لم تُراجع بعدُ طبعة Vorträge und Aufsätze (1954)."

@@ -7,7 +7,7 @@ part: "psychology"
 level: "متوسط"
 title: "عقدة مادونا–العاهرة (انشطار الرغبة والاحترام في العلاقات)"
 en: "Madonna–Whore Complex"
-crumb: "مدرسة التحليل النفسي وعلم النفس الإكلينيكي ← المفاهيم ← عقدة مادونا–العاهرة"
+crumb: "التحليل النفسي ← المفاهيم ← عقدة مادونا–العاهرة"
 active_start: 1912
 active_end: "مستمر"
 edges:
@@ -17,9 +17,10 @@ related:
 - id: "thk-esther-perel", title: "إستر بيريل", type: "مفكر"
 - id: "wrk-mating-in-captivity", title: "التزاوج في الأسر: سيكولوجيا الرغبة في العلاقات الطويلة", type: "عمل / كتاب"
 - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
-- id: "trm-spaltung-splitting-freud-klein", title: "الانشطار الدفاعي (Spaltung / Splitting): انقسام الذات والموضوع", type: "مصطلح"
+- id: "trm-spaltung-splitting-freud-klein", title: "الانشطار الدفاعي (Spaltung / Splitting): انقسام الذات والموضوع", type: "مصطلح لغوي متنازع عليه"
 gaps:
   - "ورقة فرويد الأصلية (1912) 'حول أعم التدهورات في الحياة الجنسية' (Über die allgemeinste Erniedrigung des Liebeslebens)."
+  - "**وُحِّد مسارُ التنقّل 2026-09-10:** كان «مدرسة التحليل النفسي وعلم النفس الإكلينيكي» وصار «التحليل النفسي» — لأنّ الجذرَ كان منقسماً بين صيغتين للشيء نفسِه، فيعرض فهرسُ التصفّح موضعين لموضعٍ واحد."
 ---
 
 # عقدة مادونا–العاهرة (انشطار الرغبة والاحترام في العلاقات)

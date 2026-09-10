@@ -16,7 +16,7 @@ active_source: "lifespan"
 cultural_origin: "indigenous"
 related:
 - id: "sch-maya-philosophy", title: "الفلسفة الماياوية", type: "مدرسة"
-- id: "sch-andean-philosophy", title: "الفلسفة الأنديزية", type: "مدرسة"
+- id: "sch-andean-philosophy", title: "الفلسفة الأنديزية (كيتشوا-أيمارا؛ آيني، سومَك كاوساي)", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«الغزو الإسباني» (sch-spanish-conquest) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "النصوص الأصلية Nahua (Codices، خاصة Codex Borgia وFlorentine Codex) تحتاج مراجعة من المصدر الأولي."

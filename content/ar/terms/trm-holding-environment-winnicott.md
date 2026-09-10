@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
-- id: "met-winnicott-mirror-mother-face", title: "وجه الأم كالمرآة", type: "استعارة/مجاز مؤسِّس"
+- id: "met-winnicott-mirror-mother-face", title: "وجه الأم كالمرآة لوينيكوت: استعارة انعكاس الذات وبناء الأمان الوجودي", type: "استعارة/مجاز مؤسِّس"
 gaps:
   - "لا ذكر لتمييز وينيكوت بين 'الأم الكافية بما يكفي' (good-enough mother) والاحتضان المثالي المستحيل — تبسيط شائع للمفهوم يخلط بينهما، ولم يُصحَّح هنا."
   - "استخدام المصطلح خارج التحليل النفسي (في نظريات التعلق البالغ، والعمل الاجتماعي، والتعليم) غير مغطّى."

@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-nietzscheanism", target_type: "مدرسة"
 related:
 - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
-- id: "wrk-on-the-genealogy-of-morals-nietzsche", title: "في جنيالوجيا الأخلاق لفريدريش نيتشه", type: "عمل"
+- id: "wrk-on-the-genealogy-of-morals-nietzsche", title: "في جنيالوجيا الأخلاق لفريدريش نيتشه", type: "عمل / كتاب"
 - id: "con-master-slave-morality-nietzsche", title: "أخلاق السادة وأخلاق العبيد (Master-Slave Morality)", type: "مفهوم"
 - id: "con-will-to-power", title: "إرادة القوة (Wille zur Macht)", type: "مفهوم"
 gaps:

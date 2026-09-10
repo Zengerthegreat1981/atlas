@@ -10,7 +10,7 @@ active_start: 1980
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "br-abstinence-vs-harm-reduction", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-abstinence-vs-harm-reduction", target_type: "تيار"
 related:
 - id: "br-abstinence-vs-harm-reduction", title: "الامتناع الكامل مقابل الحد من الضرر", type: "تيار"
 - id: "thk-bwilson", title: "بيل ويلسون (مؤسس AA)", type: "مفكر"

@@ -16,8 +16,8 @@ active_source: "lifespan"
 edges:
 - rel: "belongs_to", target: "sch-legalism", target_type: "مدرسة"
 related:
-- id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
-- id: "thk-shang-yang", title: "شانغ يانغ", type: "مفكر"
+- id: "sch-legalism", title: "الشرعية / القانونية (Fajia)", type: "مدرسة"
+- id: "thk-shang-yang", title: "شانغ يانغ (غي وي شيانغ)", type: "مفكر"
 - id: "thk-hanfeizi", title: "هان في تزو", type: "مفكر"
 - id: "con-shu", title: "الشو (術) — التكنيك الإداري", type: "مفهوم"
 gaps:

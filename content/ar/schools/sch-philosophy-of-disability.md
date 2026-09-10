@@ -15,8 +15,8 @@ active_start: 1990
 active_end: "مستمر"
 edges: []
 related:
-- id: "sch-environmental-ethics", title: "فلسفة البيئة", type: "مدرسة"
-- id: "sch-care-ethics", title: "أخلاقيات الرعاية", type: "مدرسة"
+- id: "sch-environmental-ethics", title: "فلسفة البيئة / الأخلاق البيئية", type: "مدرسة"
+- id: "sch-care-ethics", title: "أخلاقيات الرعاية (Care Ethics)", type: "مدرسة"
 - id: "wrk-disability-rights-wrongs", title: "حقوق وأخطاء الإعاقة (Disability Rights and Wrongs)", type: "عمل / كتاب"
 - id: "thk-shakespeare", title: "توم شكسبير", type: "مفكر"
 - id: "con-occasionalism-ashari", title: "العناية الإلهية (العرضية عند الأشعري)", type: "مفهوم"

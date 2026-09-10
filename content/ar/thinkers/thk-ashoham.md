@@ -11,7 +11,7 @@ country: "إسرائيل"
 language: "الإنجليزية/العبرية"
 active_start: 1980
 active_end: 2010
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-brief-strategic-therapy", target_type: "تيار"
 related:
@@ -24,6 +24,7 @@ gaps:
   - "لا يوجد اقتباس مباشر موثوق من *The Marital Couple in the Midst of the Family* (1991) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جورجيو ناردوني (thk-gnardone)."
   - "مرشح للحجر (quarantine candidate): لم يُعثر عبر بحث ويب مستقل على أي أثر لشخص باسم 'Arthur Shoham' بوصفه معالجاً نفسياً/عالم اجتماع في جامعة بن غوريون، ولا على الكتاب المذكور *The Marital Couple in the Midst of the Family* (1991). عمليات بحث متعددة أعادت فقط نتائج لأشخاص مختلفين يحملون لقب Shoham (Shlomo Giora Shoham، Uri Shoham، Varda Shoham/V. Shoham الباحثة في العلاج الزوجي، Amir Shoham). يُحتمل أن يكون الاسم والمحتوى بالكامل تلفيقاً أو خلطاً بين عدة أشخاص؛ يوصى بمراجعة يدوية أو نقل الملف للحجر ما لم يُعثر على مصدر أولي يثبت وجوده."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-brief-strategic-therapy` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # آرثر شوهام

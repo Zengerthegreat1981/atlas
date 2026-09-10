@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1954
 active_end: 2001
-part: "philosophy"
+part: "psychology"
 crumb: "دراسات الوعي ← الحرمان الحسي وخزّان العزل ← جون لِلي"
 edges:
 - rel: "belongs_to", target: "sch-transpersonal", target_type: "مدرسة"
@@ -20,6 +20,7 @@ related:
 - id: "stu-lilly-sensory-deprivation-tank", title: "دراسات جون ليلي الأولى في الحرمان الحسي وخزانات الطفو", type: "دراسة وبحث"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *The Center of the Cyclone* (1972) بترجمة عربية معتمدة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-transpersonal` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # جون لِلي

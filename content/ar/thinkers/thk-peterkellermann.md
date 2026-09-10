@@ -11,15 +11,16 @@ country: "إسرائيل"
 language: "الإنجليزية"
 active_start: 1979
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
 edges:
-- rel: "belongs_to", target: "br-psychodrama", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-psychodrama", target_type: "تيار"
 related:
 - id: "thk-moreno", title: "يعقوب ليفي مورينو", type: "مفكر"
 - id: "thk-adamblatner", title: "آدم بلاتنر", type: "مفكر"
 gaps:
   - "سنة الميلاد تم تقديرها تقريبياً من سياقات السيرة، يرجى التحقق من مصدر أولي."
   - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لـبيتر كيلرمان."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-psychodrama` موسومٌ «philosophy» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # بيتر كيلرمان

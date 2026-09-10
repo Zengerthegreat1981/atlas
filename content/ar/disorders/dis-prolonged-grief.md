@@ -14,7 +14,7 @@ active_end: "مستمر"
 edges:
   []
 related:
-- id: "con-grief", title: "الحزن كمسار للتفريد", type: "مفهوم"
+- id: "con-grief", title: "الحزن كمسار للتفرّد", type: "مفهوم"
 - id: "con-sadness", title: "الحزن", type: "مفهوم"
 - id: "con-death", title: "الموت", type: "مفهوم"
 - id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"

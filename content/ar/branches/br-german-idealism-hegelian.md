@@ -13,8 +13,8 @@ active_end: 1840
 edges:
 - rel: "belongs_to", target: "sch-hegelianism", target_type: "مدرسة"
 related:
-- id: "thk-hegel", title: "هيغل", type: "مفكر"
-- id: "con-master-slave-dialectic-hegel", title: "جدلية السيد والعبد", type: "مفهوم"
+- id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
+- id: "con-master-slave-dialectic-hegel", title: "جدلية السيد والعبد وصراع الاعتراف (Master-Slave Dialectic)", type: "مفهوم"
 - id: "sch-hegelianism", title: "الهيغلية", type: "مدرسة"
 - id: "sch-hegel-left", title: "الهيغلية اليسارية / هيغليو الشباب", type: "مدرسة"
 - id: "con-dialectics", title: "الجدلية (Dialektik)", type: "مفهوم"

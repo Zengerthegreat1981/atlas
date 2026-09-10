@@ -12,7 +12,7 @@ active_start: 1935
 active_end: "مستمر"
 part: "philosophy"
 related:
-- id: "con-addiction", title: "الإدمان", type: "مفهوم"
+- id: "con-addiction", title: "الإدمان والبحث الروحي المشوه", type: "مفهوم"
 - id: "con-rat-park", title: "تجربة Rat Park", type: "مفهوم"
 gaps:
   - "تاريخ صدام 12-Step مع النموذج الأوروبي يستحق توثيقاً."

@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-abdallah-laroui", title: "عبد الله العروي", type: "مفكر"
 - id: "sch-islamic-critical-thought", title: "الفكر الإسلامي النقدي المعاصر", type: "مدرسة"
-- id: "wrk-tarikhaniyya-laroui", title: "مفهوم التاريخانية وتاريخانية العروي", type: "عمل"
+- id: "wrk-tarikhaniyya-laroui", title: "مفهوم التاريخانية وتاريخانية العروي", type: "عمل / كتاب"
 gaps:
   - "التاريخ الدقيق ومكان نشر النص الأول الذي صاغ فيه العروي هذا الموقف (بالفرنسية أصلاً) غير مؤكدين في مادة الملف الحالية."
 ---

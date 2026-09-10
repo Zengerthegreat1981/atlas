@@ -15,9 +15,9 @@ edges:
 related:
 - id: "sch-aedp", title: "العلاج النفسي الديناميكي التعزيزي المتسارع (AEDP)", type: "مدرسة"
 - id: "thk-fosha", title: "ديانا فوشا", type: "مفكر"
-- id: "tec-aedp", title: "العلاج الديناميكي التجريبي المتسارع (AEDP)", type: "تقنية"
-- id: "tec-aedp-relational-reflectiveness", title: "الانعكاسية العلائقية (Relational Reflectiveness) في AEDP", type: "تقنية"
-- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب"
+- id: "tec-aedp", title: "العلاج الديناميكي التجريبي المتسارع (AEDP)", type: "تقنية/تدخل علاجي"
+- id: "tec-aedp-relational-reflectiveness", title: "الانعكاسية العلائقية (Relational Reflectiveness) في AEDP", type: "تقنية/تدخل علاجي"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 evidence_level: "experimental"
 gaps:
   - "لم يُتحقق من نسبة العبارة الافتتاحية «لا ينبغي لأحد أن يعالج آلامه وحده» لفوشا بمصدر ونص محدد بالإنجليزية؛ يُوصف المبدأ هنا بصياغة عامة دون اقتباس حرفي."

@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-habermas", title: "يورغن هابرماس", type: "مفكر"
 - id: "sch-frankfurt-school", title: "النظرية النقدية / مدرسة فرانكفورت (Frankfurter Schule)", type: "مدرسة"
-- id: "wrk-structural-transformation-public-sphere-habermas", title: "التحول البنيوي للفضاء العام ليورغن هابرماس", type: "عمل"
+- id: "wrk-structural-transformation-public-sphere-habermas", title: "التحول البنيوي للفضاء العام ليورغن هابرماس", type: "عمل / كتاب"
 - id: "con-lifeworld-lebenswelt", title: "عالم الحياة المعاش (Lebenswelt)", type: "مفهوم"
 - id: "con-communicative-action-concept", title: "الفعل التواصلي والعقلانية التداولية (Communicative Action)", type: "مفهوم"
 - id: "con-deliberative-democracy", title: "الديمقراطية التداولية", type: "مفهوم"

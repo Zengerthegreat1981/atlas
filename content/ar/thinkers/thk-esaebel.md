@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
-- id: "tec-dbt-specialized", title: "بروتوكولات DBT التخصصية", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-specialized", title: "بروتوكولات DBT التخصصية (المراهقين والإدمان واضطرابات الأكل)", type: "تقنية/تدخل علاجي"
 - id: "thk-amarlatt", title: "ألان مارلات", type: "مفكر"
 - id: "thk-tlynch", title: "توماس لينش", type: "مفكر"
 - id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"

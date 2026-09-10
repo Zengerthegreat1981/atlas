@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-nietzscheanism", target_type: "مدرسة"
 related:
 - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
-- id: "con-meaning", title: "المعنى", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 - id: "thk-dostoevsky", title: "فيودور دوستويفسكي", type: "مفكر"
 - id: "thk-schopenhauer", title: "أرتور شوبنهاور", type: "مفكر"
 - id: "thk-rorty", title: "ريتشارد رورتي", type: "مفكر"

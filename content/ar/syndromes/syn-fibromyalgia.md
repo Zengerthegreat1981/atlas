@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "dis-somatic-symptom-disorder", title: "اضطراب الأعراض الجسدية", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-persistent-depressive-disorder", title: "اضطراب الاكتئاب المستمر", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-persistent-depressive-disorder", title: "اضطراب الاكتئاب المستمر (عسر المزاج)", type: "اضطراب/حالة إكلينيكية"
 - id: "con-mind-body", title: "مشكلة العقل والجسد", type: "مفهوم"
 gaps:
   - "معايير الكلية الأمريكية لأمراض الروماتيزم (ACR 2010/2016) ومفهوم التحسس المركزي للألم."

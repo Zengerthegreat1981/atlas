@@ -2,7 +2,7 @@
 slug: "exp-abraham-maslow-oceanic-heart-attack"
 id: "EXP-0019"
 type: "خبرة معيشة"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "نوبة ماسلو القلبية واكتشافه للخبرات الذروية بعد النجاة"
 en: "Abraham Maslow's Post-Heart-Attack Epiphany: Peak Experiences and Plateau Being"
@@ -13,10 +13,11 @@ edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
 - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
-- id: "wrk-maslow-motivation-and-personality", title: "الدافعية والشخصية", type: "عمل / كتاب"
+- id: "wrk-maslow-motivation-and-personality", title: "كتاب الدافعية والشخصية لأبراهام ماسلو (1954)", type: "عمل / كتاب"
 gaps:
   - "الاقتباس المباشر عن الشعور بأن الحياة صارت 'إضافة ثمينة' موثّق في مقابلات ومصادر ثانوية موثوقة عن ماسلو، لا في وثيقة أولية رُوجعت هنا مباشرة؛ التاريخ الدقيق لبداية 'خبرة الهضبة' (1967 مقابل قرب وفاته 1970) يحتاج تدقيقاً إضافياً بين المصادر."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-humanistic` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # نوبة ماسلو القلبية واكتشافه للخبرات الذروية بعد النجاة

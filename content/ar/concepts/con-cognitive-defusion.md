@@ -14,8 +14,8 @@ edges:
 related:
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
-- id: "con-mindfulness", title: "اليقظة الذهنية", type: "مفهوم"
-- id: "tec-act-defusion-leaves-stream", title: "أوراق الشجر على النهر", type: "تقنية/تدخل علاجي"
+- id: "con-mindfulness", title: "اليقظة الذهنية (Mindfulness)", type: "مفهوم"
+- id: "tec-act-defusion-leaves-stream", title: "أوراق الشجر على النهر (Leaves on a Stream) في ACT", type: "تقنية/تدخل علاجي"
 - id: "tec-mbsr", title: "برنامج خفض الضغوط القائم على اليقظة الذهنية (MBSR)", type: "تقنية/تدخل علاجي"
 - id: "tec-mbct", title: "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)", type: "تقنية/تدخل علاجي"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"

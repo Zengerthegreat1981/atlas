@@ -21,7 +21,7 @@ related:
 - id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
 - id: "thk-titchener", title: "إدوارد بردجِس تيتشنر", type: "مفكر"
 - id: "tec-cbt-cognitive-restructuring", title: "إعادة الهيكلة المعرفية (Cognitive Restructuring) في CBT", type: "تقنية/تدخل علاجي"
-- id: "dis-social-anxiety-disorder", title: "اضطراب القلق الاجتماعي", type: "اضطراب"
+- id: "dis-social-anxiety-disorder", title: "اضطراب القلق الاجتماعي", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."
   - "إسناد التأثير المعرفي الصوتي إلى تجارب إدوارد تيتشنر الكلاسيكية (أواخر القرن 19) غير موثَّق بدقّة تاريخياً — التقنية سُمّيت تيمّناً بملاحظته لا بتصميم مباشر منه، والاسم شائع في أدبيات ACT دون إسناد أولي محدد."

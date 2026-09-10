@@ -10,10 +10,10 @@ crumb: "علم النفس التحليلي اليونغي ← مصطلحات و�
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "br-jungian", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-jungian", target_type: "تيار"
 related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-- id: "met-jung-shadow-gold", title: "ذهب الظل ليونغ", type: "استعارة/مجاز مؤسِّس"
+- id: "met-jung-shadow-gold", title: "ذهب الظل ليونغ: استعارة الكنوز الإبداعية المخبأة في الجوانب المظلمة", type: "استعارة/مجاز مؤسِّس"
 gaps:
   - "لا يوجد إجماع بين شرّاح يونغ على ترتيب صارم وحيد لمراحل التفرد؛ التسلسل المذكور هنا تبسيط تربوي شائع، ويونغ نفسه لم يقدمه كخطوات متتابعة صارمة بل كعملية دائرية متكررة."
 ---

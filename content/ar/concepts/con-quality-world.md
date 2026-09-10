@@ -6,7 +6,7 @@ level: "متوسط"
 title: "العالم النوعي (Quality World)"
 en: "Quality World (Glasser)"
 crumb: "الإنسانية ← المفاهيم ← العالم النوعي"
-part: "philosophy"
+part: "psychology"
 active_start: null
 active_end: "مستمر"
 edges:
@@ -14,11 +14,12 @@ edges:
 - rel: "formulated_by", target: "thk-glasser", target_type: "مفكر"
 related:
 - id: "thk-glasser", title: "ويليام غلاسر", type: "مفكر"
-- id: "con-choice-theory", title: "نظرية الاختيار", type: "مفهوم"
+- id: "con-choice-theory", title: "نظرية الاختيار (Choice Theory)", type: "مفهوم"
 - id: "br-glasser-reality-therapy", title: "علاج الواقع ونظرية الاختيار (غلاسر)", type: "تيار"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من غلاسر بعد."
   - "الفرق بين 'العالم النوعي' و'الذات المثالية' (روجرز) يحتاج تحليل."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-humanistic` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # العالم النوعي (Quality World)

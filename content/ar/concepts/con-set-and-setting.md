@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-tleary", title: "تيموثي ليري", type: "مفكر"
 - id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
-- id: "thk-rollins", title: "رولنز", type: "مفكر"
+- id: "thk-rollins", title: "رولنز (Stephen Rollins)", type: "مفكر"
 - id: "sch-psychedelic-assisted-therapy", title: "العلاج بمساعدة السايكديلية (Psychedelic-Assisted Therapy)", type: "مدرسة"
 gaps:
   - "لم تُراجع من نسخة أصلية مباشرة بعد (Hartogsohn, 2017)."

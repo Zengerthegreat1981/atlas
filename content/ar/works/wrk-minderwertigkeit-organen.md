@@ -16,7 +16,7 @@ author_slug: "thk-adler"
 publication_year: 1907
 original_language: "الألمانية"
 edges:
-- rel: "belongs_to", target: "br-adlerian", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-adlerian", target_type: "تيار"
 - rel: "authored_by", target: "thk-adler", target_type: "مفكر"
 related:
 - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"

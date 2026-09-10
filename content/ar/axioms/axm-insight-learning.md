@@ -10,7 +10,7 @@ crumb: "الجشطلتية ← البديهيات التأسيسية ← الت�
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "br-gestalt-berlin", target_type: "فرع"
+- rel: "relates_to", target: "br-gestalt-berlin", target_type: "تيار"
 - rel: "formulated_by", target: "thk-wkohler", target_type: "مفكر"
 related:
 - id: "thk-wkohler", title: "فولفغانغ كولَر", type: "مفكر"

@@ -16,7 +16,7 @@ crumb: "علم النفس الشعبي والتفكير الإيجابي ← ا�
 edges:
 - rel: "belongs_to", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
-- id: "wrk-power-of-positive-thinking", title: "كتاب: قوة التفكير الإيجابي (1952)", type: "عمل"
+- id: "wrk-power-of-positive-thinking", title: "قوة التفكير الإيجابي", type: "عمل / كتاب"
 gaps:
   - "التفاصيل الدقيقة لانخراطه في «لجنة الحرية الدينية في أمريكا» موثّقة جزئياً."
   - "نقده اللاحق من قبل الحركة النفسية الأمريكية (APA) لادعائه شفاء أمراض نفسية بالصلاة موثّق جزئياً."

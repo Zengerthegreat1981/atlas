@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-psychiatric-rehabilitation", target_type: "تيار"
 related:
@@ -21,6 +21,7 @@ gaps:
   - "لم يُعثر لاسم «Alan Schultz» على مدخل في أي فهرس لمؤلفي العلاج الاجتماعي ولا في قوائم هيئة East Side Institute؛ الملف مرشَّح للإدراج في `agents_specs/quarantine-spark.md` وينتظر قرار رئيس التحرير."
   - "حقول `dates` و`active_start: 1990` و`country` غير مسندة إلى أي مصدر، وتبقى معلَّقة حتى تُحدَّد هوية صاحب الملف."
   - "قسم `## المصادر` محذوف عن قصد: لا يوجد مرجع واحد بقلم صاحب الملف ولا عنه تحديداً، والمراجع المتاحة كلها عن فريد نيومان ولويز هولزمان — وهي لا تُحتسب توثيقاً له (قاعدة 5)."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-psychiatric-rehabilitation` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # ألان شولتز

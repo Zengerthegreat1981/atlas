@@ -15,9 +15,9 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "con-stimulus-control", title: "التحكم بالمنبّهات (مفهوم)", type: "مفهوم"
-- id: "con-classical-conditioning", title: "الإشتراط الكلاسيكي", type: "مفهوم"
-- id: "con-operant-conditioning", title: "الإشتراط الإجرائي", type: "مفهوم"
+- id: "con-stimulus-control", title: "التحكم بالمنبّهات (علاج)", type: "مفهوم"
+- id: "con-classical-conditioning", title: "الإشتراط الكلاسيكي (الإشراط البافلوفي)", type: "مفهوم"
+- id: "con-operant-conditioning", title: "الإشتراط الإجرائي (الإشراط السكينري)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس منسوب بمصدر وسنة من نص بوتزن الأصلي (1972) عن التحكم بالمنبّهات."
   - "تطبيقات العلاج في إدارة الوزن (إزالة المنبهات في المطبخ) وعلاج الباروفيليا — موضع بحث."

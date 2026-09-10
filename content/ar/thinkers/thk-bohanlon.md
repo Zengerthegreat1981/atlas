@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 crumb: "العلاج المختصر القائم على الحل (SFBT) ← الناس ← بيل أوهَنلون"
 edges:
 - rel: "belongs_to", target: "sch-solution-focused", target_type: "مدرسة"
@@ -20,6 +20,7 @@ gaps:
   - "سنة الميلاد (1952) تم التحقق منها عبر Wikidata (2 أغسطس 1952)؛ لم يُعثر على تأكيد إضافي من مصدر بيوغرافي رسمي أول."
   - "لا يوجد اقتباس مباشر موثوق من *Taproots* (1987) بترجمة عربية معتمدة."
   - "أُزيل رابط 'إيما كول' (thk-ecolle) من `related`: ذلك الملف محجور (لا مصادر مستقلة تدعمه) بحسب `agents_specs/quarantine-spark.md`؛ الشريكة الفعلية في تأسيس Solution-Oriented Therapy هي ميشيل واينر-ديفيس (Michele Weiner-Davis)، ولا يوجد ملف مفكر لها بعد في الأطلس."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-solution-focused` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # بيل أوهَنلون

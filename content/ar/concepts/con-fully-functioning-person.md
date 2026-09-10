@@ -6,7 +6,7 @@ level: "متوسط"
 title: "الشخصية العاملة بكامل طاقتها (Fully Functioning Person)"
 en: "Fully Functioning Person"
 crumb: "الإنسانية ← المفاهيم ← الشخصية العاملة بكامل طاقتها"
-part: "philosophy"
+part: "psychology"
 active_start: null
 active_end: "مستمر"
 edges:
@@ -22,6 +22,7 @@ gaps:
   - "لا يوجد اقتباس مباشر موثوق من روجرز بعد."
   - "عمل روجرز *On Becoming a Person* (1961) — المرجع الأساسي لهذا المفهوم — لا يقابله ملف wrk- في الأطلس؛ طُلب slug جديد له في requests-minimax.md بدل اختراعه."
   - "con-actualizing-tendency وdbt-rogers-vs-may-authenticity أُزيلا من related لأن نزعة التحقق الذاتي وأصالة ماي غير مذكورتين في المتن."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-humanistic` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # الشخصية العاملة بكامل طاقتها (Fully Functioning Person)

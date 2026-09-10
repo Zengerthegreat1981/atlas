@@ -13,10 +13,10 @@ language: "السنسكريتية"
 active_start: 730
 active_end: 750
 edges:
-- rel: "belongs_to", target: "br-purva-mimamsa-prabhakara", target_type: "فرع مدرسة"
+- rel: "belongs_to", target: "br-purva-mimamsa-prabhakara", target_type: "تيار"
 related:
 - id: "sch-mimamsa", title: "ميمامسا (بورفا ميمامسا)", type: "مدرسة"
-- id: "br-purva-mimamsa-prabhakara", title: "الميمامسا البرابهاكرية — مدرسة الميمامسا", type: "فرع مدرسة"
+- id: "br-purva-mimamsa-prabhakara", title: "الميمامسا البرابهاكرية — مدرسة الميمامسا", type: "تيار"
 gaps:
   - "مذهبه محفوظ عبر تلميذه شاليكاناتا ميشرا لا عبر نصّ أصلي كامل متداول بترجمة نقدية عربية؛ لا يوجد نص كامل يمكن الاقتباس منه مباشرة."
   - "التواريخ الدقيقة لميلاده ووفاته غير مؤكَّدة (يُقدَّرها الباحثون تقريباً في النصف الأول من القرن الثامن الميلادي، معاصراً لكوماريلا بهاتا)."

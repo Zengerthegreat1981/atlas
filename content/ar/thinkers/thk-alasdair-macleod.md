@@ -16,8 +16,8 @@ edges:
 - rel: "belongs_to", target: "sch-solution-focused", target_type: "مدرسة"
 related:
 - id: "thk-sdeshacer", title: "ستيف دي شيزر", type: "مفكر"
-- id: "thk-chris-iveson", title: "كريس إيفسون", type: "مفكر"
-- id: "con-solution-talk", title: "حديث الحل", type: "مفهوم"
+- id: "thk-chris-iveson", title: "كريس إيفسون (Chris Iveson)", type: "مفكر"
+- id: "con-solution-talk", title: "حَدِيث الْحَلّ (Solution Talk) في SFT", type: "مفهوم"
 gaps:
   - "لم تُراجع من نسخة أصلية مباشرة بعد."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."

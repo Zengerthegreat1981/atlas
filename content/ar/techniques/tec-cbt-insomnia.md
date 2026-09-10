@@ -19,7 +19,7 @@ related:
 - id: "thk-morin", title: "تشارلز م. مورين", type: "مفكر"
 - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
 - id: "tec-ccbt", title: "العلاج المعرفي السلوكي المحوسب (cCBT)", type: "تقنية/تدخل علاجي"
-- id: "dis-insomnia-disorder", title: "اضطراب الأرق", type: "اضطراب"
+- id: "dis-insomnia-disorder", title: "اضطراب الأرق", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "آرثر سبيلمان (Arthur Spielman)، شريك مورين في نموذج 3P وبروتوكول تقييد النوم، ليس له ملف مفكر بـslug في الأطلس — رصدته في agents_specs/requests-spark.md بدل اختراع رابط."
   - "لا توجد في الأطلس دراسة مستقلة موثّقة (مؤلف/سنة/حجم عينة/نتيجة رقمية) تقارن CBT-I بالعلاج الدوائي أو تختبر إعادة تكراره؛ evidence_level (well-established) مبني على إجماع الإرشادات الإكلينيكية الدولية (AASM وNICE) المذكور في متن ملف thk-morin وليس على دراسة بعينها موثّقة هنا."

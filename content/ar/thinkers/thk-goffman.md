@@ -17,9 +17,9 @@ edges:
 related:
 - id: "sch-social-psychology", title: "علم النفس الاجتماعي (Social Psychology)", type: "مدرسة"
 - id: "wrk-goffman-presentation-self", title: "تقديم الذات في الحياة اليومية (The Presentation of Self in Everyday Life)", type: "عمل / كتاب"
-- id: "met-self-as-actor-mask", title: "الذات كممثّل على مسرح: استعارة غوفمان الدرامية", type: "استعارة/مجاز مؤسِّس"
+- id: "met-self-as-actor-mask", title: "الذَّات كَمُمَثِّل وقِناع: استعارة الأَداء الاجْتِماعي", type: "استعارة/مجاز مؤسِّس"
 - id: "con-psychiatric-reform", title: "الإصلاح النفسي الإنساني", type: "مفهوم"
-- id: "ctx-deinstitutionalization-psychiatric-reform", title: "إخراج المرضى من المصحّات وحركة الإصلاح النفسي", type: "سياق/تقليد"
+- id: "ctx-deinstitutionalization-psychiatric-reform", title: "حركة إلغاء المصحات النفسية والطب النفسي المجتمعي", type: "سياق/تقليد"
 gaps:
   - "«التفاعلية الرمزية» (symbolic interactionism) — وهي الإطارُ السوسيولوجيُّ الذي يُنسَب غوفمان إليه عادةً — **غائبةٌ عن الأطلس** فلا ملفَّ لها؛ فأُسند إلى علم النفس الاجتماعي وهو أقربُ موضعٍ قائم. وغوفمان نفسُه رفض التصنيفَ وسمّى منهجَه «تحليلَ إطارٍ»."
   - "*الملاجئ* (Asylums, 1961) و*الوصمة* (Stigma, 1963) و*تحليل الإطار* (Frame Analysis, 1974) لا ملفَّ لأيٍّ منها في الأطلس بعد، مع أنّ الأوّلَين أعظمُ أثرِه في الطب النفسي."

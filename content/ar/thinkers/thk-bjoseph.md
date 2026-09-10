@@ -10,7 +10,7 @@ dates: "بريطانيا · 1917–2013"
 country: "المملكة المتحدة"
 language: "الإنجليزية"
 part: "psychology"
-active_start: null
+active_start: 1917
 active_end: 2013
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
@@ -20,13 +20,14 @@ related:
 - id: "thk-segal", title: "حنا سيغال", type: "مفكر"
 - id: "thk-rosenfeld", title: "هربرت روزنفيلد", type: "مفكر"
 - id: "thk-spillius", title: "إلِزابت بوت سپِليوس", type: "مفكر"
-- id: "br-kleinian", title: "المدرسة الكلاينية", type: "فرع"
+- id: "br-kleinian", title: "المدرسة الكلاينية", type: "تيار"
 - id: "con-transference", title: "التحويل والتحويل المقابل في العلاقة العلاجية (Transference)", type: "مفهوم"
 gaps:
   - "ناقص من الملف: سنة تأهّلها محلّلةً في جمعية التحليل النفسي البريطانية، واسم محلّليها ومشرفيها في التدريب — ولم تُراجَع أيٌّ منها هنا من سجلّ الجمعية."
   - "أرقام صفحات ورقتَي 1982 و1985 في *International Journal of Psychoanalysis* غير مثبتة في المتن."
   - "عملان كانا مذكورين في هذه الصفحة — «Psychoanalytic Casework» (1999) و«Here and Now» (2013) — حُذفا: لم يُعثر لهما على أي أثر في ببليوغرافيا جوزف، والمجموعة الوحيدة الموثّقة من أوراقها هي مجلّد 1989."
   - "حقل active_start فارغ لأن سنة بداية ممارستها التحليلية لم تُحدَّد من مصدر."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («بريطانيا · 1917–2013») فاستُخرجت: 1917."
 ---
 
 # بيتي جوزف

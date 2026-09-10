@@ -8,7 +8,7 @@ en: "Medical vs Chronic Disease Model of Addiction"
 crumb: "المفاهيم ← مدارس علاجية خاصة ← النموذج الطبي للإدمان"
 active_start: 1990
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-medical-model-addiction", target_type: "تيار"
 related:
@@ -20,6 +20,7 @@ related:
 gaps:
   - "**صُحِّحت حلقةٌ ذاتية 2026-09-08:** كان `belongs_to` يشير إلى `con-addiction-model-debate` — أي إلى الملفّ نفسِه، وهي حلقةٌ مغلقةٌ لا معنى لها، أصلُها اختلاطُ بادئةٍ في الـslug. ونُقل إلى `br-medical-model-addiction`: التيّارُ المقابلُ موجودٌ في الأطلس."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-medical-model-addiction` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # النموذج الطبي للإدمان مقابل نموذج الإدمان كمرض مزمن

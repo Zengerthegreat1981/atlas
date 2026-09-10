@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "syn-burnout", title: "متلازمة الاحتراق الوظيفي والمهني", type: "متلازمة"
-- id: "syn-broken-heart-takotsubo", title: "متلازمة تاكوتسوبو", type: "متلازمة"
+- id: "syn-broken-heart-takotsubo", title: "متلازمة تاكوتسوبو (متلازمة القلب المنكسر النفسية الجسدية)", type: "متلازمة"
 - id: "con-alienation-marxist-vs-existentialist", title: "الاغتراب — الماركسي مقابل الوجودي", type: "مفهوم"
 gaps:
   - "الاعتراف القانوني بضحايا الكاروشي في القانون الياباني (1987) وإحصاءات السكتات القلبية والانتحار المهني (Karojisatsu)."

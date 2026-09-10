@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-langle", title: "ألفريد لانغله", type: "مفكر"
 - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
-- id: "con-will-to-meaning", title: "الإرادة في المعنى", type: "مفهوم"
+- id: "con-will-to-meaning", title: "الإرادة في المعنى (Will to Meaning)", type: "مفهوم"
 - id: "con-four-fundamentals-langle", title: "الشروط الأربعة الأساسية للتحليل الوجودي (لانغله)", type: "مفهوم"
 gaps:
   - "هل اطّلع فرانكل شخصياً على الصياغة الكاملة لـ«الشروط الأربعة» قبل وفاته 1997، أم فقط على صيغتها الأولى من الثمانينيات؟ لم أجد نصاً يحسم هذا."

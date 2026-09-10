@@ -16,7 +16,7 @@ active_end: 1996
 edges:
 - rel: "belongs_to", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
-- id: "wrk-peter-pan-syndrome", title: "متلازمة بيتر بان", type: "عمل / كتاب"
+- id: "wrk-peter-pan-syndrome", title: "متلازمة بيتر بان: الرجال الذين لم يكبروا قط", type: "عمل / كتاب"
 - id: "con-peter-pan-complex", title: "عقدة / متلازمة بيتر بان (عدم النضج والهروب من المسؤولية)", type: "مفهوم"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."

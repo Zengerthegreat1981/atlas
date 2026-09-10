@@ -10,10 +10,10 @@ crumb: "علم النفس التحليلي وسيكولوجيا التكيف ←
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "br-jungian", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-jungian", target_type: "تيار"
 related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-- id: "br-jungian", title: "التحليلية اليونغية", type: "مدرسة"
+- id: "br-jungian", title: "التحليلية اليونغية", type: "تيار"
 gaps:
   - "لا يوجد ترجيح موثّق لأي مقابل عربي معتمد (قناع، بيرسونا، شخصية ظاهرية) في المعاجم النفسية العربية المرجعية؛ الفقرة عن نزاع الترجمة استنتاج من الاستخدام الشائع لا من مصدر معجمي أولي محدد."
 ---

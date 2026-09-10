@@ -17,8 +17,8 @@ edges:
 - rel: "evolved_from", target: "sch-mahasanghika", target_type: "مدرسة"
 related:
 - id: "sch-theravada", title: "ثيرافادا", type: "مدرسة"
-- id: "sch-abhidharma", title: "سارفاستيفادا", type: "مدرسة"
-- id: "sch-yogacara", title: "يوغاكارا", type: "مدرسة"
+- id: "sch-abhidharma", title: "مدارس الأبيدارما (سارفاستيفادا، فايبهاشيكا، سوترانتيكا)", type: "مدرسة"
+- id: "sch-yogacara", title: "يوغاكارا / فيجنانافادا", type: "مدرسة"
 - id: "sch-zen-soto", title: "زن: سوتو", type: "مدرسة"
 - id: "dbt-shunyata-vs-brahman", title: "شُونْياتا في مقابل براهمان: الفراغ ضد الجوهر", type: "جدل"
 - id: "br-madhyamaka-prasangika", title: "مادهياماكا برَسانغيكا — مدرسة مادهياماكا", type: "تيار"

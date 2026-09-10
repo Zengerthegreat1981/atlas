@@ -18,8 +18,8 @@ edges:
 - rel: "evolved_into", target: "sch-neoconfucianism", target_type: "مدرسة"
 related:
 - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
-- id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
-- id: "sch-mohism", title: "الموهية", type: "مدرسة"
+- id: "sch-legalism", title: "الشرعية / القانونية (Fajia)", type: "مدرسة"
+- id: "sch-mohism", title: "الموهية (Mohism / Mojia)", type: "مدرسة"
 - id: "con-confucian-self", title: "الذات الكونفوشيوسية", type: "مفهوم"
 - id: "wrk-lunyu", title: "المحاورات (لون يو)", type: "عمل / كتاب"
 - id: "dbt-human-nature-debate", title: "جدل الطبيعة البشرية في الكونفوشية المبكرة: خير منسيوس ضدّ شرّ شون تزو", type: "جدل"

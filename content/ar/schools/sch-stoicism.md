@@ -15,10 +15,10 @@ active_start: -300
 active_end: 250
 edges: []
 related:
-- id: "sch-cynicism", title: "الكلبية", type: "مدرسة"
-- id: "sch-aristotelianism", title: "المشائية / الأرسطية", type: "مدرسة"
-- id: "sch-epicureanism", title: "الأبيقورية", type: "مدرسة"
-- id: "sch-sophistry", title: "السفسطائية", type: "مدرسة"
+- id: "sch-cynicism", title: "الكلبية (Cynicism)", type: "مدرسة"
+- id: "sch-aristotelianism", title: "المشائية / الأرسطية (Aristotelianism)", type: "مدرسة"
+- id: "sch-epicureanism", title: "الأبيقورية (Epicureanism)", type: "مدرسة"
+- id: "sch-sophistry", title: "السفسطائية (Sophistry)", type: "مدرسة"
 - id: "con-cosmopolitanism", title: "المواطنة الكونية (الكوزموبوليتية)", type: "مفهوم"
 - id: "wrk-marcus-aurelius-meditations", title: "كتاب التأملات للإمبراطور ماركوس أوريليوس", type: "عمل / كتاب"
 - id: "exp-marcus-aurelius-danube-campaigns", title: "ماركوس أوريليوس على جبهة نهر الدانوب وتدوين التأملات", type: "خبرة معيشة"
@@ -29,7 +29,7 @@ related:
 - id: "thk-posidonius", title: "بوسيدونيوس الأفامي", type: "مفكر"
 - id: "thk-panaetius", title: "بانيتيوس الرودسي", type: "مفكر"
 - id: "thk-marcus-aurelius", title: "ماركوس أوريليوس", type: "مفكر"
-- id: "thk-seneca", title: "لوكيوس أنيوس سينيكا", type: "مفكر"
+- id: "thk-seneca", title: "لوكيوس أنيوس سينيكا (سينيكا الأصغر)", type: "مفكر"
 - id: "thk-epictetus", title: "إبكتيتوس", type: "مفكر"
 - id: "thk-musonius-rufus", title: "موسونيوس روفوس", type: "مفكر"
 - id: "br-stoicism-early", title: "الرواقية القديمة — المدرسة الرواقية", type: "تيار"

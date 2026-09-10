@@ -15,12 +15,12 @@ active_start: 1923
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-western-marxism", target_type: "مدرسة"
-- rel: "evolved_from", target: "br-classical-marxism", target_type: "مدرسة"
+- rel: "evolved_from", target: "br-classical-marxism", target_type: "تيار"
 related:
-- id: "sch-western-marxism", title: "الماركسية الغربية", type: "مدرسة"
-- id: "sch-hermeneutics-critical", title: "الهرمنيوطيقا النقدية", type: "مدرسة"
-- id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية", type: "مدرسة"
-- id: "rel-hegelianism-psychoanalysis", title: "الهيغلية والتحليل النفسي: من ماركس إلى لاكان", type: "علاقة بين مدرستين"
+- id: "sch-western-marxism", title: "الماركسية الغربية (Western Marxism)", type: "مدرسة"
+- id: "sch-hermeneutics-critical", title: "الهرمنيوطيقا النقدية (Critical Hermeneutics)", type: "مدرسة"
+- id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية (Philosophical Postmodernism)", type: "مدرسة"
+- id: "rel-hegelianism-psychoanalysis", title: "الهيغلية والتحليل النفسي", type: "علاقة بين مدرستين"
 - id: "que-fear-of-freedom-fromm", title: "لماذا يهرب الإنسان من حريته ويلجأ للاستسلام الطوعي للاستبداد؟", type: "سؤال توليدي"
 - id: "evt-founding-of-frankfurt-institute-1923", title: "تأسيس معهد البحث الاجتماعي في فرانكفورت (1923 م)", type: "حدث تاريخي"
 - id: "crt-adorno-horkheimer-dialectic-of-enlightenment", title: "نقد أدورنو وهوركهايمر لجدل التنوير والعقل الأداتي", type: "نقد خارجي موثَّق"

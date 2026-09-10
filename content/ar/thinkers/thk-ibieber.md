@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1962
 active_end: 1985
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-conversion-therapy", target_type: "تيار"
 related:
@@ -20,6 +20,7 @@ related:
 gaps:
   - "تفاصيل تأثيره على السياسات العامة في الستينيات لم تُوثّق بشكل مستقل."
   - "لا يوجد اقتباس مباشر موثوق من *Homosexuality: A Psychoanalytic Study* (1962) بترجمة عربية معتمدة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-conversion-therapy` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # إرفنغ بيبر

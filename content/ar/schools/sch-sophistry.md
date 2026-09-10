@@ -16,9 +16,9 @@ active_end: -380
 edges:
 - rel: "superseded_by", target: "sch-academy-platonic", target_type: "مدرسة"
 related:
-- id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية", type: "مدرسة"
-- id: "sch-megarian", title: "المدرسة الميغارية", type: "مدرسة"
-- id: "sch-cyrenaic", title: "المدرسة القورينائية", type: "مدرسة"
+- id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية (القديمة/الوسطى/الجديدة الشكية)", type: "مدرسة"
+- id: "sch-megarian", title: "المدرسة الميغارية (Megarian School)", type: "مدرسة"
+- id: "sch-cyrenaic", title: "المدرسة القورينائية (Cyrenaic School)", type: "مدرسة"
 - id: "thk-prodicus", title: "بروديكوس الكيوسي", type: "مفكر"
 - id: "thk-thrasymachus", title: "ثراسيماتخوس الخلقيدوني", type: "مفكر"
 - id: "axi-homo-mensura-axiom", title: "الإنسان مقياس كل شيء (Homo Mensura)", type: "بديهية/مبدأ تأسيسي"

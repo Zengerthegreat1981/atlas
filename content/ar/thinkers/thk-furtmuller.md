@@ -10,15 +10,16 @@ dates: "النمسا · 1880–1951"
 country: "النمسا"
 language: "الألمانية"
 part: "psychology"
-active_start: null
+active_start: 1880
 active_end: 1951
 edges:
-- rel: "belongs_to", target: "br-adlerian", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-adlerian", target_type: "تيار"
 related:
 - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
 - id: "thk-wexberg", title: "إيروين ويكسبرغ", type: "مفكر"
 gaps:
   - "لم يُعثر في هذا الملف على اقتباس مباشر منسوب لفورتمولر بمصدر وسنة محددين، فلم يُدرَج أي اقتباس تفادياً للتأليف."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («النمسا · 1880–1951») فاستُخرجت: 1880."
 ---
 
 # كارل فورتمولر

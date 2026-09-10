@@ -15,7 +15,7 @@ part: "psychology"
 edges: []
 related:
 - id: "thk-rollnick", title: "ستيفن رولنيك", type: "مفكر"
-- id: "thk-wmiller", title: "ويليام ميلر", type: "مفكر"
+- id: "thk-wmiller", title: "ويليام ميلر (William R. Miller)", type: "مفكر"
 - id: "thk-jkadden", title: "كاثلين كاري", type: "مفكر"
 - id: "con-psilocybin", title: "السيلوسيبين في العلاج النفسي", type: "مفهوم"
 gaps:

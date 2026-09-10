@@ -17,7 +17,7 @@ edges:
 - rel: "belongs_to", target: "sch-environmental-ethics", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-leopold", target_type: "مفكر"
 related:
-- id: "sch-environmental-ethics", title: "فلسفة البيئة", type: "مدرسة"
+- id: "sch-environmental-ethics", title: "فلسفة البيئة / الأخلاق البيئية", type: "مدرسة"
 - id: "thk-leopold", title: "ألدو ليوبولد", type: "مفكر"
 gaps:
   - "لم يثبت وجود ترجمة عربية منشورة لهذا العمل: بُحث عن مترجم وناشر وسنة ولم يُعثر على أيٍّ منها."

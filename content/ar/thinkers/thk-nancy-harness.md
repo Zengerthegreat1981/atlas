@@ -10,7 +10,7 @@ country: "كندا"
 language: "الإنجليزية"
 active_start: null
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
 crumb: "العدالة التصالحية ← تطوير ← نانسي هارنيس"
 edges:
 - rel: "belongs_to", target: "br-restorative-justice", target_type: "تيار"
@@ -23,6 +23,7 @@ gaps:
   - "لا توجد سيرة ذاتية منشورة لـ 'Nancy Harness' في RJOI (Restorative Justice Organization of Indonesia) أو IIRP (International Institute for Restorative Practices) حتى آب 2026."
   - "الاحتمال: خلط مع 'Nancy Reeni Harness' (ممارسة RJ في كندا، حقل مختلف) أو 'Nancy Harness' (خبيرة في الوساطة الكندية)."
   - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'RJ Canada' عام."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-restorative-justice` موسومٌ «philosophy» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # نانسي هارنِس

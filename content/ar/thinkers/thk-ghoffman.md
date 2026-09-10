@@ -11,9 +11,9 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2000
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
-- rel: "belongs_to", target: "tec-circle-of-security", target_type: "تقنية"
+- rel: "belongs_to", target: "tec-circle-of-security", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-rmarvin", title: "روبرت مارفن", type: "مفكر"
 - id: "thk-kcooper", title: "غلين كوبر", type: "مفكر"
@@ -21,6 +21,7 @@ gaps:
   - "سنة ميلاد هوفمان ناقصة في هذا الملف؛ السِيَر المهنية العامة لا تذكرها بإسناد، ولذلك حُدِّد حقل dates بالقرن فقط."
   - "كان هذا الملف يحمل اسم «غلين هوفمان / Glen T. Hoffman» — وهو خلطٌ بين اسمَي مؤسِّسَين اثنين: غلين كوبر وكِنت هوفمان. صُحِّح الاسم، ويبقى تعديل الـslug قراراً تحريرياً."
   - "لا يوجد اقتباس مباشر موثوق من *The Circle of Security Intervention* (2013) بترجمة عربية معتمدة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-circle-of-security` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # كِنت هوفمان

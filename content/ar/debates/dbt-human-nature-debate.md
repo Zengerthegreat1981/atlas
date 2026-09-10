@@ -13,9 +13,9 @@ edges:
 - rel: "belongs_to", target: "sch-confucian-early", target_type: "مدرسة"
 related:
 - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
-- id: "thk-mencius", title: "منسيوس", type: "مفكر"
-- id: "thk-xunzi", title: "شون تزو", type: "مفكر"
-- id: "thk-confucius", title: "كونفوشيوس", type: "مفكر"
+- id: "thk-mencius", title: "منسيوس (منغ زي)", type: "مفكر"
+- id: "thk-xunzi", title: "شون تزو (شون كوانغ)", type: "مفكر"
+- id: "thk-confucius", title: "كونفوشيوس (كونغ زي)", type: "مفكر"
 gaps:
   - "المواقف الوسط (مثل غاو زي Gao Zi) في جدل الطبيعة البشرية لم تُغطَّ هنا."
   - "لا يوجد اقتباس مباشر موثّق من نصّ صيني أصلي في هذه المسودة."

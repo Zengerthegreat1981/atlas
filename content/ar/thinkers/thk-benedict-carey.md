@@ -16,7 +16,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
-- id: "wrk-how-we-learn", title: "كيف نتعلم", type: "عمل / كتاب"
+- id: "wrk-how-we-learn", title: "كيف نتعلم: الحقيقة المدهشة عن وقت ومكان وكيفية حدوث التعلم", type: "عمل / كتاب"
 gaps:
   - "بيانات السيرة الذاتية وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق من *كيف نتعلم* (2014) بترجمة عربية معتمدة."

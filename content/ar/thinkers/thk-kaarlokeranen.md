@@ -11,13 +11,14 @@ country: "فنلندا"
 language: "الفنلندية"
 active_start: 1990
 active_end: null
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "tec-open-dialogue", target_type: "تقنية/تدخل علاجي"
 gaps:
   - "سنة الميلاد وسنة التوقف عن العمل غير موثقة في هذا المسوّد."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
   - "تعارض هوية: الـslug (thk-kaarlokeranen) يشير إلى شخص، وحقل en يقول «Kaarlo Keränen». يحتاج تحقيقاً وقراراً بإعادة التسمية أو تصحيح المحتوى — لا تُصلَح آلياً لأن إعادة تسمية الـslug تكسر الروابط."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-open-dialogue` موسومٌ «psychology» — فوُحِّد على وسم الأب."
 ---
 
 # كارلو كيرانن

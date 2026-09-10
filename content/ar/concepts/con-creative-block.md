@@ -10,7 +10,7 @@ active_start: 1960
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "br-expressive-arts-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-expressive-arts-therapy", target_type: "تيار"
 related:
 - id: "br-expressive-arts-therapy", title: "الفنون التعبيرية التعددية (Intermodal Expressive Arts)", type: "تيار"
 - id: "thk-smcniff", title: "شون ماكنيف", type: "مفكر"

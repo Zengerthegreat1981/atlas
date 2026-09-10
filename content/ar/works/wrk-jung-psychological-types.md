@@ -14,7 +14,7 @@ author_slug: "thk-jung"
 publication_year: 1921
 original_language: "الألمانية"
 edges:
-- rel: "belongs_to", target: "br-jungian", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-jungian", target_type: "تيار"
 related:
 - id: "met-jung-archetype-crystal-lattice", title: "الشبكة البلورية ليونغ: استعارة الأنماط البدائية كبنى استعدادية مسبقة", type: "استعارة/مجاز مؤسِّس"
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"

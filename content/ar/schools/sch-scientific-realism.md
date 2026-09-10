@@ -14,12 +14,12 @@ active_start: 1960
 active_end: "مستمر"
 cultural_origin: "anglo-american"
 edges:
-- rel: "belongs_to", target: "sch-phil-science", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-phil-science", target_type: "مدرسة"
 related:
 - id: "thk-hputnam", title: "هيلاري بوتنام", type: "مفكر"
 - id: "con-no-miracle-argument", title: "حجة المعجزة (No-Miracle Argument)", type: "مفهوم"
 - id: "thk-bas-van-fraassen", title: "باس فان فراسين (Bas C. van Fraassen)", type: "مفكر"
-- id: "thk-karl-popper", title: "كارل بوبر", type: "مفكر"
+- id: "thk-karl-popper", title: "سير كارل بوبر", type: "مفكر"
 gaps:
   - "ريتشارد بويد (thk-boyd) غير موجود في الأطلس — لا ملف معتمد ولا مسودة."
   - "ستافروس بسيلوس (thk-psillos) غير موجود في الأطلس — لا ملف معتمد ولا مسودة."

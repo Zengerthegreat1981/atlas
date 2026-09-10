@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-thomism", target_type: "مدرسة"
 related:
 - id: "thk-aquinas", title: "توما الأكويني", type: "مفكر"
-- id: "wrk-summa-theologiae-aquinas", title: "الخلاصة اللاهوتية لتوما الإكويني", type: "عمل"
+- id: "wrk-summa-theologiae-aquinas", title: "الخلاصة اللاهوتية لتوما الإكويني", type: "عمل / كتاب"
 - id: "con-natural-law-aquinas-concept", title: "القانون الطبيعي والمشاركة العقلية في الحكمة الأزلية (Natural Law)", type: "مفهوم"
 gaps:
   - "صياغة غريزنيز-فينيس (1965-1980) للنظرية الطبيعية الجديدة لم تُفصَّل هنا، فقط أُشير إليها كتطبيق لاحق."

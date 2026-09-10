@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-aristotle", title: "أرسطو", type: "مفكر"
 - id: "thk-thomas-aquinas", title: "القديس توما الإكويني", type: "مفكر"
-- id: "thk-albertus-magnus", title: "القديس ألبيرتوس ماغنوس", type: "مفكر"
+- id: "thk-albertus-magnus", title: "القديس ألبيرتوس ماغنوس (ألبير الكبير)", type: "مفكر"
 - id: "sch-aristotelianism", title: "المشائية / الأرسطية (Aristotelianism)", type: "مدرسة"
 - id: "con-universals-debate", title: "جدل الكليات (مشكلة الكُنْه)", type: "مفهوم"
 gaps:

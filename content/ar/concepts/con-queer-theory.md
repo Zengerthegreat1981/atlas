@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-butler", title: "جوديث بتلر", type: "مفكر"
 - id: "sch-queer-theory", title: "النظرية الكويرية", type: "مدرسة"
-- id: "wrk-gender-trouble", title: "إشكالية النوع (Gender Trouble, 1990)", type: "عمل"
+- id: "wrk-gender-trouble", title: "إشكالية النوع (Gender Trouble, 1990)", type: "عمل / كتاب"
 - id: "con-gender-performativity", title: "أداء النوع (الجنوسة الأدائية)", type: "مفهوم"
 - id: "sch-feminism-french-poststructural", title: "النسوية الفرنسية (ما بعد بنيوية)", type: "مدرسة"
 - id: "dbt-trans-exclusionary-radical-feminism", title: "جدل النسوية الراديكالية واستبعاد الترانس", type: "جدل"

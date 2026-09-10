@@ -17,7 +17,7 @@ evidence_level: "well-established"
 edges:
   []
 related:
-- id: "con-boundaries-psychological", title: "الحدود النفسية والعاطفية", type: "مفهوم"
+- id: "con-boundaries-psychological", title: "الحدود النفسية والعاطفية في العلاقات", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«اضطراب الشخصية الحدية» (dis-borderline-personality) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "أبحاث كيم غراتز ولوليزا رومر (Gratz & Roemer 2004) في جامعة ماساتشوستس."

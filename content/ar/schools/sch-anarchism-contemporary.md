@@ -18,7 +18,7 @@ edges:
 related:
 - id: "sch-anarchism", title: "الأناركية الكلاسيكية", type: "مدرسة"
 - id: "sch-radical-democracy", title: "الديمقراطية الراديكالية", type: "مدرسة"
-- id: "sch-post-structuralism", title: "ما بعد البنيوية", type: "مدرسة"
+- id: "sch-post-structuralism", title: "ما بعد البنيوية (Post-structuralisme)", type: "مدرسة"
 - id: "dbt-anarchism-vs-state", title: "جدل الفوضوية مع الدولة: هل يمكن الاستغناء عن الدولة؟", type: "جدل"
 - id: "thk-noam-chomsky", title: "نعوم تشومسكي", type: "مفكر"
 gaps:

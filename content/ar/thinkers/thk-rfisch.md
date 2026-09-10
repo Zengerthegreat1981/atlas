@@ -10,16 +10,17 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1960
 active_end: 2011
-part: "philosophy"
+part: "psychology"
 crumb: "العلاج القصير الاستراتيجي ← الناس ← ريتشارد فيش"
 edges:
-- rel: "belongs_to", target: "br-brief-strategic-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-brief-strategic-therapy", target_type: "تيار"
 related:
 - id: "thk-pwatzlawick", title: "بول واتزلاويك", type: "مفكر"
 - id: "thk-jweakland", title: "جون وِكلاند", type: "مفكر"
 gaps:
   - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لـريتشارد فيش."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-brief-strategic-therapy` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # ريتشارد فيش

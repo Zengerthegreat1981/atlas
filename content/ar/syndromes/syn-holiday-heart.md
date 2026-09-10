@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "dis-alcohol-use-disorder", title: "اضطراب استخدام الكحول", type: "اضطراب/حالة إكلينيكية"
-- id: "syn-broken-heart-takotsubo", title: "متلازمة تاكوتسوبو", type: "متلازمة"
+- id: "syn-broken-heart-takotsubo", title: "متلازمة تاكوتسوبو (متلازمة القلب المنكسر النفسية الجسدية)", type: "متلازمة"
 - id: "con-mind-body", title: "مشكلة العقل والجسد", type: "مفهوم"
 gaps:
   - "أبحاث فيليب إيتنغر (Philip Ettinger 1978) الأصلية في مجلة القلب الأمريكية (AJH)."

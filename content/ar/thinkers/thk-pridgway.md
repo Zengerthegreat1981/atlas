@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: null
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-psychiatric-rehabilitation", target_type: "تيار"
 related:
@@ -19,6 +19,7 @@ related:
 gaps:
   - "التفاصيل السابقة في هذا الملف (جنسيتها البريطانية، تسمية «نموذج الانتقال»، الاستشهادات بمجلة British Journal of Psychiatry) لم يتيسّر تأكيدها من مصدر مستقل، وحُذفت لعدم القدرة على توثيقها بدقة."
   - "سيرتها المهنية الكاملة وتاريخ ميلادها ووفاتها (إن وُجدت) غير محددة من مصدر متاح."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-psychiatric-rehabilitation` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # باتريسيا رِدجوِي

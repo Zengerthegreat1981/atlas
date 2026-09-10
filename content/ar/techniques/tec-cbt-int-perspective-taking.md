@@ -18,8 +18,8 @@ edges:
 related:
 - id: "tec-cbt-int-active-listening-skills", title: "مهارات الإصغاء الفعّال", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-reframing", title: "إعادة الصياغة/التأطير المعرفي", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-int-self-validation", title: "التصديق الذاتي", type: "تقنية/تدخل علاجي"
-- id: "tec-act-sac-perspective-taking", title: "تبنّي منظور مختلف", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-int-self-validation", title: "التصديق الذاتي (CBT)", type: "تقنية/تدخل علاجي"
+- id: "tec-act-sac-perspective-taking", title: "تبنّي منظور مختلف (ACT)", type: "تقنية/تدخل علاجي"
 gaps:
   - "روبرت سيلمان (Robert Selman) صاحب النموذج التطوري لتبنّي المنظور الاجتماعي (خمس مراحل، منشور 1980) لا يوجد له ملف مفكر في الأطلس، فبقي الاسم في المتن دون رابط."
   - "لا يوجد في الأطلس ملف مفهوم فلسفي/معرفي مخصص لنظرية العقل (Theory of Mind) يمكن ربطه هنا رغم أن المتن يعتمد عليها مباشرة."

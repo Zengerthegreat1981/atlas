@@ -20,7 +20,7 @@ related:
 - id: "sch-buddhist-modernism", title: "البوذية الحداثية", type: "مدرسة"
 - id: "sch-truc-lam", title: "تروك لام (البوذية الفيتنامية)", type: "مدرسة"
 - id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
-- id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"
+- id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها (طبيعة البوذا)", type: "مدرسة"
 - id: "sch-theravada", title: "ثيرافادا", type: "مدرسة"
 gaps:
   - "نصوص Thích Nhất Hạnh (The Heart of the Buddha's Teaching، Being Peace) تحتاج مراجعة من المصدر الأولي."

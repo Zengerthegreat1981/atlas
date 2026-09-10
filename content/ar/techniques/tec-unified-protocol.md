@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "thk-barlow", title: "ديفيد هـ. بارلو", type: "مفكر"
-- id: "tec-process-based-cbt", title: "العلاج المعرفي السلوكي القائم على العمليات", type: "تقنية/تدخل علاجي"
+- id: "tec-process-based-cbt", title: "العلاج المعرفي السلوكي القائم على العمليات والبروتوكول الموحد", type: "تقنية/تدخل علاجي"
 - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-panic-disorder", title: "اضطراب الهلع", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-transdiagnostic-cbt", title: "العلاج المعرفي السلوكي العابر للتشخيص", type: "تقنية/تدخل علاجي"

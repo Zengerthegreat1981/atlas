@@ -11,10 +11,10 @@ dates: "2008"
 active_start: 2008
 active_end: "مستمر"
 language: "الإنجليزية"
-part: "psychology"
+part: "philosophy"
 evidence_level: "experimental"
 edges:
-- rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "تيار"
 related:
 - id: "thk-francine-shapiro", title: "فرانسين شابيرو", type: "مفكر"
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
@@ -24,6 +24,7 @@ related:
 gaps:
   - "لا توجد نسخة موحّدة موثقة لاسم مبتكرة ART بالعربية (Laney Rosenzweig)؛ لا يوجد لها slug `thk-` في EXISTING_SLUGS.md فلم تُربط، رغم ذكر اسمها في المتن."
   - "الدراسات الأولية على ART (تجارب صغيرة العينة على قدامى المحاربين) تُظهر نتائج واعدة في PTSD، لكن لا يوجد slug `stu-` لدراسة بعينها موثّقة في الأطلس، فلم يُذكر اسم باحث أو رقم عينة تجنباً لاختراع مصدر."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-sensorimotor-trauma-applications` موسومٌ «philosophy» — فوُحِّد على وسم الأب."
 ---
 
 # العلاج بالحل السريع المعجَّل (ART)

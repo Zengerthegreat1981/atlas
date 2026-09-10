@@ -12,10 +12,10 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-phil-mind-analytic", target_type: "مدرسة"
 related:
-- id: "thk-john-searle", title: "جون سيرل", type: "مفكر"
-- id: "sch-phil-mind-analytic", title: "فلسفة العقل التحليلية", type: "مدرسة"
-- id: "con-intentionality", title: "القصدية (Intentionality)", type: "مفهوم"
-- id: "con-hard-problem-of-consciousness", title: "المشكلة الصعبة للوعي", type: "مفهوم"
+- id: "thk-john-searle", title: "جون روجرز سيرل", type: "مفكر"
+- id: "sch-phil-mind-analytic", title: "فلسفة العقل التحليلية (كمظلة)", type: "مدرسة"
+- id: "con-intentionality", title: "القصدية (Intentionalität)", type: "مفهوم"
+- id: "con-hard-problem-of-consciousness", title: "المشكلة الصعبة للوعي والكواليا (The Hard Problem of Consciousness)", type: "مفهوم"
 - id: "con-functionalism-mind", title: "الوظيفية في فلسفة العقل", type: "مفهوم"
 gaps:
   - "**كُتب متنه 2026-09-07.** والفجوتان المسجَّلتان كانتا تطلبان توثيقَ المصدر الأولي وذكرَ الخصوم والمفاهيم المقابلة بالاسم (الذكاءُ الاصطناعي القوي، اختبارُ تورنغ) — وقد كُتبت كلُّها مع الردود الأربعة الرئيسية."

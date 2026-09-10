@@ -17,9 +17,9 @@ edges:
 related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-jbeebe", title: "جون بيب", type: "مفكر"
-- id: "wrk-jung-psychological-types", title: "كتاب الأنماط النفسية لكارل غوستاف يونغ (1921)", type: "عمل"
+- id: "wrk-jung-psychological-types", title: "كتاب الأنماط النفسية لكارل غوستاف يونغ (1921)", type: "عمل / كتاب"
 - id: "con-archetype", title: "النموذج الأصلي (Archetype)", type: "مفهوم"
-- id: "ins-mbti", title: "مؤشّر مايرز-بريغز (MBTI)", type: "أداة قياس"
+- id: "ins-mbti", title: "مؤشر مايرز-بريجز للأنماط", type: "أداة قياس"
 - id: "br-jungian", title: "التحليلية اليونغية", type: "تيار"
 gaps:
   - "**كُتب متنه 2026-09-07**، والفجوة المسجَّلة كانت تسمّي المطلوب: «نموذج جون بيب الثماني لربط الوظائف بالأركيتيبات»."

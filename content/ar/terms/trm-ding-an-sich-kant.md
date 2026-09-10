@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-kant-critical", target_type: "مدرسة"
 related:
 - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
-- id: "que-can-we-know-things-in-themselves", title: "الشيء في ذاته", type: "سؤال توليدي"
+- id: "que-can-we-know-things-in-themselves", title: "هل يمكن للإنسان معرفة الشيء في ذاته أم محكوم بظواهر الإدراك؟", type: "سؤال توليدي"
 gaps:
   - "نقد هيغل المباشر لمفهوم الشيء في ذاته (في «موسوعة العلوم الفلسفية») يحتاج نقلاً وتفصيلاً بدل الإشارة العابرة."
   - "قراءة الوضعية المنطقية (خاصة كارناب) لمفهوم النومين كـ«لا معنى ميتافيزيقي» غير مغطاة."

@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
-- id: "ctx-civil-rights-liberation-psychology", title: "حركة الحقوق المدنية", type: "سياق/تقليد"
+- id: "ctx-civil-rights-liberation-psychology", title: "حركة الحقوق المدنية وتأسيس علم النفس التحرري ونقد المركزية", type: "سياق/تقليد"
 - id: "thk-rmenakem", title: "ريزما ميناكم", type: "مفكر"
 - id: "thk-crenshaw", title: "كيمبرلي كرنشو", type: "مفكر"
 gaps:

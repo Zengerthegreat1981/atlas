@@ -15,7 +15,7 @@ active_end: 1965
 edges:
 - rel: "belongs_to", target: "sch-judaism-existential", target_type: "مدرسة"
 related:
-- id: "sch-existentialism-religious", title: "الوجودية الدينية/المسيحية", type: "مدرسة"
+- id: "sch-existentialism-religious", title: "الوجودية الدينية/المسيحية (Christian Existentialism)", type: "مدرسة"
 - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 - id: "thk-marcel", title: "غابرييل مارسِل", type: "مفكر"

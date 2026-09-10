@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1998
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-embodied-relational-therapy", target_type: "تيار"
 related:
@@ -21,6 +21,7 @@ gaps:
   - "لا يوجد اقتباس مباشر موثوق من *The Power of Countertransference: Innovations in Analytic Technique* (1991) بترجمة عربية معتمدة."
   - "نسبة نقد صريح 'للإفراط في الإفصاح المتبادل عند بعض العلائقيين' لم تُعثر لها على مصدر مباشر يسمّي موقفاً صريحاً مُصرَّحاً به منها ضد زملاء بأسمائهم؛ الصياغة الحالية استنتاج من عمومية أطروحتها لا اقتباس مباشر."
   - "تفاصيل التدريب المبكر لم تُراجع من مصدر أولي."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-embodied-relational-therapy` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # كارِن مارودا

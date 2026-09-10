@@ -13,7 +13,7 @@ part: "psychology"
 dsm5tr_code: null
 icd11_code: null
 related:
-- id: "dis-autism-spectrum", title: "اضطراب طيف التوحد (ASD)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-autism-spectrum", title: "اضطراب طيف التوحد", type: "اضطراب/حالة إكلينيكية"
 - id: "evt-dsm-5-publication-2013", title: "نشر الدليل التشخيصي الخامس والجدل حول التضخم وإلغاء المحاور", type: "حدث تاريخي"
 - id: "con-mind-body", title: "مشكلة العقل والجسد", type: "مفهوم"
 gaps:

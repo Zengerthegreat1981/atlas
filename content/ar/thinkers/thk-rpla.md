@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "philosophy"
 crumb: "التحليلية للشعرية ← تطوير ← روبرتو بلاث"
 edges:
-- rel: "belongs_to", target: "sch-analytical-psychology", target_type: "تيار"
+- rel: "belongs_to", target: "sch-analytical-psychology", target_type: "مدرسة"
 related:
 - id: "thk-zoja", title: "لويجي تسويا", type: "مفكر"
 - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"

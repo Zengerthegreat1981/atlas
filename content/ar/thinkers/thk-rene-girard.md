@@ -18,9 +18,9 @@ related:
 - id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
 - id: "thk-blanchot", title: "موريس بلانشو", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-- id: "thk-claude-levi-strauss", title: "كلود ليفي شتراوس", type: "مفكر"
+- id: "thk-claude-levi-strauss", title: "كلود ليفي-ستراوس", type: "مفكر"
 - id: "thk-ricoeur", title: "بول ريكور", type: "مفكر"
-- id: "que-mimetic-desire-girard", title: "سؤال الرغبة المحاكية لجيرار", type: "سؤال"
+- id: "que-mimetic-desire-girard", title: "هل رغباتنا أصيلة تنبع من ذواتنا أم مستعارة بالمحاكاة؟", type: "سؤال توليدي"
 gaps:
   - "نص 'الشيء المنسي منذ قرن من الزمان' (Ce que j'ai appris en Asie) بالعربية موثّق جزئياً."
   - "تأثيره في علم النفس التطوري (مع Brian Boyd حول 'On the Origin of Stories') يحتاج فصلاً."

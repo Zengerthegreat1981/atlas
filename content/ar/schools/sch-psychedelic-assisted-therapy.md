@@ -22,10 +22,10 @@ edges:
 - rel: "revived_by", target: "thk-rmdoblin", target_type: "مفكر"
 related:
 - id: "thk-mjohnson", title: "ماثيو جونسون", type: "مفكر"
-- id: "sch-biological-neuro", title: "علم النفس البيولوجي والعصبي", type: "مدرسة"
+- id: "sch-biological-neuro", title: "علم النفس البيولوجي والعصبي (Biological & Neuropsychology)", type: "مدرسة"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "con-trauma", title: "الصدمة النفسية في التحليلية", type: "مفهوم"
-- id: "con-dissociation", title: "الانفصال", type: "مفهوم"
+- id: "con-dissociation", title: "الانفصال (Dissociation)", type: "مفهوم"
 - id: "con-addiction", title: "الإدمان والبحث الروحي المشوه", type: "مفهوم"
 - id: "con-psychedelic-experience", title: "التجربة السيكوديلية", type: "مفهوم"
 - id: "con-mdma-ptsd", title: "MDMA (إكستاسي) في علاج PTSD", type: "مفهوم"

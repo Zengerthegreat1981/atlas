@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "br-neurodiversity-affirming", target_type: "تيار"
 related:
 - id: "thk-bbettelheim", title: "برونو بِتِّلهايم", type: "مفكر"
-- id: "thk-lovaas", title: "أولاف إيفار لوفاس", type: "مفكر"
+- id: "thk-lovaas", title: "إيفار لوفاس", type: "مفكر"
 - id: "exp-temple-grandin-autism-squeeze-machine", title: "تجربة تيمبل غراندين مع التوحد وابتكار آلة الاحتضان", type: "خبرة معيشة"
 gaps:
   - "تفاصيل طفولتها وعلاقتها بعلم النفس السلوكي التطبيقي (ABA) موثّقة جزئياً في سيرة عام 2006."

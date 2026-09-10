@@ -2,7 +2,7 @@
 slug: "tec-brainspotting"
 id: "TEC-0382"
 type: "تقنية/تدخل علاجي"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "براين سبوتِنغ (Brainspotting)"
 en: "Brainspotting"
@@ -15,10 +15,11 @@ evidence_level: "experimental"
 related:
 - id: "tec-emdr", title: "إزالة التحسس وإعادة المعالجة بحركات العين (EMDR)", type: "تقنية/تدخل علاجي"
 - id: "thk-dgrand", title: "ديفيد غراند", type: "مفكر"
-- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "دراسة هيلدبراند 2014 عن المحاربين القدامى مذكورة في المتن بلا مدخل مستقل من نوع stu- في الأطلس — لم يُتحقق من صحة عزوها (سنة/عيّنة) من مصدر أولي."
   - "النظرية العصبية لـ Brainspotting (ربط موضع العين بمواقع تخزين عصبية للصدمة) لم تُختبر بتصوير عصبي مباشر بعد."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-somatic-experiencing` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 # براين سبوتِنغ (Brainspotting)
 

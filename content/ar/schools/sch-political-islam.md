@@ -15,10 +15,10 @@ active_end: "مستمر"
 cultural_origin: "islamic-arabic"
 edges:
 related:
-- id: "sch-islamic-reform", title: "الإصلاحية الإسلامية", type: "مدرسة"
+- id: "sch-islamic-reform", title: "الإصلاحية الإسلامية (النهضة)", type: "مدرسة"
 - id: "sch-salafism-modern", title: "السلفية الكلامية الحديثة", type: "مدرسة"
 - id: "sch-islamic-critical-thought", title: "الفكر الإسلامي النقدي المعاصر", type: "مدرسة"
-- id: "sch-occasionalism", title: "الأوكازيونيالية", type: "مدرسة"
+- id: "sch-occasionalism", title: "الأوكازيونيالية (Occasionalism)", type: "مدرسة"
 gaps:
   - "نصوص حسن البنا، سيد قطب، مودودي، خميني، طارق رمضان، وهبة الزحيلي need review."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

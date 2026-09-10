@@ -29,7 +29,7 @@ related:
 - id: "rel-integrative-humanistic-common-factors", title: "التكاملية (العامل المشترك) والإنسانية: الأم الأصلية", type: "علاقة بين مدرستين"
 - id: "rel-psychoanalysis-humanistic", title: "التحليل النفسي والإنسانية: من الانشقاق إلى تقاطع دافعي", type: "علاقة بين مدرستين"
 - id: "rel-transpersonal-humanistic", title: "عبر الشخصية والإنسانية: ولادة الموجة الرابعة", type: "علاقة بين مدرستين"
-- id: "crt-critique-of-humanistic-therapy", title: "نقد العلاج الإنساني: تحقيق الذات أم «أنانية» متعالية؟", type: "نقد خارجي موثق"
+- id: "crt-critique-of-humanistic-therapy", title: "نقد العلاج الإنساني: تحقيق الذات أم «أنانية» متعالية؟", type: "نقد خارجي موثَّق"
 - id: "ctx-esalen-institute-human-potential", title: "معهد إيسالن وميلاد حركة الإمكانات البشرية والنيو-إيدج", type: "سياق/تقليد"
 - id: "que-what-is-mental-health", title: "ما هو المعيار الحقيقي للصحة النفسية: التكيف أم اكتمال الفاعلية؟", type: "سؤال توليدي"
 - id: "thk-warren-bennis", title: "وارين غ. بينيس", type: "مفكر"

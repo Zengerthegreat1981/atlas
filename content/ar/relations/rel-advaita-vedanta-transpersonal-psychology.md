@@ -15,7 +15,7 @@ edges:
 related:
 - id: "rel-confucian-self-cultivation-family-systems", title: "تزكية الذات الكونفوشية والعلاج الأسري النظامي (Bowen)", type: "علاقة بين مدرستين"
 - id: "rel-integrative-humanistic-common-factors", title: "التكاملية (العامل المشترك) والإنسانية: الأم الأصلية", type: "علاقة بين مدرستين"
-- id: "rel-mbct-cbt", title: "العلاج المعرفي القائم على اليقظة (MBCT) والـCBT: من الوقاية من الانتكاس إلى العلاج", type: "علاقة بين مدرستين"
+- id: "rel-mbct-cbt", title: "MBCT والعلاج المعرفي: علاجٌ صُنع لمنع النكس فغيّر معنى «المعرفي»", type: "علاقة بين مدرستين"
 gaps:
   - "هذا الملف يكرر مضمون rel-advaita-vedanta-transpersonal (نفس الجسر: شنكرا/رامانا-ماهارشي إلى ويلبر وغروف)؛ لم يُحسم بعد أيهما يبقى مستقلاً وأيهما يتحول إلى إحالة (redirect_to) — قرار يحتاج مراجعة بشرية لتفادي ازدواج."
 ---

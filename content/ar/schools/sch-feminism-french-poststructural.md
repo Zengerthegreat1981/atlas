@@ -16,9 +16,9 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-post-structuralism", target_type: "مدرسة"
 related:
-- id: "sch-post-structuralism", title: "ما بعد البنيوية", type: "مدرسة"
+- id: "sch-post-structuralism", title: "ما بعد البنيوية (Post-structuralisme)", type: "مدرسة"
 - id: "sch-feminism-existential", title: "النسوية الوجودية", type: "مدرسة"
-- id: "sch-deconstruction", title: "التفكيكية", type: "مدرسة"
+- id: "sch-deconstruction", title: "التفكيكية (Déconstruction)", type: "مدرسة"
 - id: "con-gender-performativity", title: "أداء النوع (الجنوسة الأدائية)", type: "مفهوم"
 - id: "wrk-gender-trouble", title: "إشكالية النوع (Gender Trouble, 1990)", type: "عمل / كتاب"
 gaps:

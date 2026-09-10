@@ -2,7 +2,7 @@
 slug: "thk-plevine"
 id: "THK-2253"
 type: "مفكر"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "بيتر ليفين"
 en: "Peter A. Levine"
@@ -18,13 +18,13 @@ related:
 - id: "rel-trauma-somatic", title: "العلاج بالصدمة والعلاج الجسدي: Somatic Experiencing كجسر", type: "علاقة بين مدرستين"
 - id: "rel-psychoanalysis-somatic", title: "التحليل النفسي والجسدية: رايش كمنشق، ليفين كجسر", type: "علاقة بين مدرستين"
 - id: "tec-somatic-trauma", title: "العلاج الجسدي للصدمة (Somatic Trauma Therapy)", type: "تقنية/تدخل علاجي"
-- id: "wrk-waking-the-tiger", title: "إيقاظ النمر", type: "عمل / كتاب"
+- id: "wrk-waking-the-tiger", title: "إيقاظ النمر: شفاء الصدمة", type: "عمل / كتاب"
 - id: "thk-besselvanderkolk", title: "بِسِل فَن دِر كولك", type: "مفكر"
 - id: "thk-dsiegel", title: "دان سيغل", type: "مفكر"
 - id: "thk-rscaer", title: "روبرت سكاير", type: "مفكر"
 - id: "thk-fonagy", title: "بيتر فوناغي", type: "مفكر"
 - id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
-- id: "con-somatic-experiencing-popular", title: "التجربة الجسدية وتفريغ شحنة الصدمة", type: "مفهوم"
+- id: "con-somatic-experiencing-popular", title: "التجربة الجسدية وتفريغ شحنة الصدمة (Somatic Experiencing)", type: "مفهوم"
 - id: "crt-critique-of-somatic-experiencing", title: "نقد Somatic Experiencing: نَظَرِيَّة «الطَّاقَة الْمَحْبُوسَة» لَيْسَتْ مُوَضَّحَة", type: "نقد خارجي موثَّق"
 - id: "tec-sensorimotor-pendulation", title: "البندلة (Pendulation) في العلاج السنسوريموتور", type: "تقنية/تدخل علاجي"
 - id: "tec-somatic-experiencing-tracking", title: "تتبع الإحساس الجسدي (Sensation Tracking) في SE", type: "تقنية/تدخل علاجي"
@@ -40,6 +40,7 @@ gaps:
   - "السيرة الذاتية المبكرة (التدريب في الفيزياء الحيوية مع هيبر وطبيعة عمله مع ناس) موثّقة في سيرته الذاتية لكنها تحتاج تحققاً إضافياً."
   - "دُمج معه الملف المكرَّر thk-peter-levine-counseling (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
   - "الملف المكرَّر thk-peter-levine (نفس الشخص، اتُّخذ قرار الازدواج لصالح هذا الملف لأنه الأكثر ربطاً بالشبكة — راجع تقرير Task 2.49) حُوِّل إلى إحالة صريحة."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-somatic-experiencing` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 # بيتر ليفين
 

@@ -19,7 +19,7 @@ related:
 - id: "thk-shiggins", title: "ستيفن تي. هيغينز", type: "مفكر"
 - id: "thk-npetry", title: "نانسي م. بيتري", type: "مفكر"
 - id: "con-voucher-based-reinforcement", title: "التعزيز المعتمد على القسائم", type: "مفهوم"
-- id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي", type: "تيار"
+- id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي (ABA)", type: "تيار"
 - id: "dis-cannabis-use", title: "اضطراب استخدام الحشيش", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-hallucinogen-use", title: "اضطراب استخدام المُهلوسات", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-inhalant-use", title: "اضطراب استخدام المواد المستنشقة", type: "اضطراب/حالة إكلينيكية"

@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "dis-major-neurocognitive", title: "اضطراب معرفي عصبي رئيسي (الخرف)", type: "اضطراب/حالة إكلينيكية"
-- id: "syn-gerstmann", title: "متلازمة غيرستمان", type: "متلازمة"
+- id: "syn-gerstmann", title: "متلازمة غيرستمان (العمه الإصبعي وتعذر الحساب والكتابة)", type: "متلازمة"
 - id: "con-body-schema", title: "مخطط الجسد (Body Schema): النظام اللاواعي للحركة", type: "مفهوم"
 gaps:
   - "أبحاث بيك (Arnold Pick 1908) في عجز التوجيه الطوبوغرافي لمخطط الجسد."

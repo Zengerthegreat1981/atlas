@@ -14,7 +14,7 @@ evidence_level: "experimental"
 edges:
 - rel: "belongs_to", target: "sch-act", target_type: "مدرسة"
 related:
-- id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
+- id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري (ACT)", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-dropping-the-struggle", title: "إسقاط الصراع (مفتاح الصراع)", type: "تقنية/تدخل علاجي"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "tec-dbt-dt-turning-the-mind", title: "توجيه العقل", type: "تقنية/تدخل علاجي"
@@ -22,7 +22,7 @@ related:
 - id: "tec-act-acc-creative-hopelessness", title: "اليأس الخلّاق", type: "تقنية/تدخل علاجي"
 - id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
 - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
-- id: "tec-dbt-dt-willingness-vs-willfulness", title: "الاستعداد مقابل العناد", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-willingness-vs-willfulness", title: "الاستعداد مقابل العناد (DBT)", type: "تقنية/تدخل علاجي"
 gaps:
   - "دراسة (stu-) تختبر هذا التمييز اللغوي بحد ذاته بمعزل عن حزمة ACT ككل: غير موجودة في الأطلس."
   - "تاريخ نشر هايز لهذا التمييز تحديداً (1986 مقابل تواريخ لاحقة في أدبيات ACT): غير مؤكد بدقة."

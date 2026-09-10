@@ -8,9 +8,9 @@ en: "Dynamic Couple and Family Therapy"
 crumb: "المفاهيم ← مدارس علاجية خاصة ← العلاج الديناميكي للأزواج والأسرة"
 active_start: 1978
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
-- rel: "belongs_to", target: "br-dynamic-couples-family-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-dynamic-couples-family-therapy", target_type: "تيار"
 related:
 - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
@@ -25,6 +25,7 @@ related:
 gaps:
   - "'جيلبرت كلاركين' و'دان شوالتز' مذكوران في المتن (خطوط كلاركين/كيرنبرج، وشوالتز) لكن لا يوجد ملف thk- مطابق لأي منهما، فلم يُدرجا في related."
   - "الروابط السابقة إلى thk-bcwhite (برنارد وايت) وthk-osilver (أولغا سيلفرشتاين) كانت تشير إلى ملفات غير موجودة أصلاً في content/ar/، وthk-eimber وthk-nackerman غير مذكورين في متن الملف؛ حُذفت جميعها."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-dynamic-couples-family-therapy` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # العلاج الديناميكي للأزواج والأسرة

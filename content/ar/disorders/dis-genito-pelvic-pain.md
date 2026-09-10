@@ -18,10 +18,10 @@ related:
 - id: "tec-cbt-emo-interoceptive-awareness-training", title: "تدريب الوعي بالإحساس الداخلي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
-- id: "tec-behavioral-medicine", title: "الطب السلوكي", type: "تقنية/تدخل علاجي"
+- id: "tec-behavioral-medicine", title: "الطب السلوكي/الصحة السلوكية (تدخل)", type: "تقنية/تدخل علاجي"
 - id: "syn-acute-anxiety", title: "القلق الحاد", type: "متلازمة"
 - id: "tec-sex-therapy-overview", title: "العلاج الجنسي (Sex Therapy)", type: "تقنية/تدخل علاجي"
-- id: "tec-vaginal-dilator-therapy", title: "علاج موسّعات المهبل", type: "تقنية/تدخل علاجي"
+- id: "tec-vaginal-dilator-therapy", title: "علاج موسّعات المهبل (Vaginal Dilator Therapy)", type: "تقنية/تدخل علاجي"
 gaps:
   - "التفاصيل الدقيقة لمعايير DSM-5-TR (دمج vaginismus + dyspareunia في 2013) لم تُراجع من المصدر الأولي."
   - "التمييز بين الألم الناجم عن عضلات قاع الحوض (myofascial) والناجم عن حالات نسائية لم يُشرح."

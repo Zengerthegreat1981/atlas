@@ -13,7 +13,7 @@ edges:
   []
 related:
 - id: "con-boundaries-psychological", title: "الحدود النفسية والعاطفية في العلاقات", type: "مفهوم"
-- id: "wrk-whole-brain-child", title: "طفل المخ الكامل", type: "عمل / كتاب"
+- id: "wrk-whole-brain-child", title: "طفل المخ الكامل: 12 استراتيجية ثورية لرعاية عقل طفلك النامي", type: "عمل / كتاب"
 gaps:
   - "تطوير ماكوبي ومارتن (1983) للنموذج الرباعي بإضافة النمط المهمل (Uninvolved)."
 study_year: 1967

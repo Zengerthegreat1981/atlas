@@ -6,14 +6,14 @@ part: "psychology"
 level: "متقدم"
 title: "نقد الْعِلَاج بِالْجِشْطَلْت: تَقْنِيكَات دَرَامِيَّة أَمْ بَحْث عِلْمِيّ؟"
 en: "Critique of Gestalt Therapy: Dramatic Techniques or Scientific Research?"
-crumb: "نقد ← الْعِلَاج بِالْجِشْطَلْت"
+crumb: "النقد الخارجي ← الْعِلَاج بِالْجِشْطَلْت"
 active_start: 1970
 active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-gestalt-therapy", target_type: "مدرسة"
 related:
-- id: "crt-replication-crisis", title: "أزمة التكرار", type: "نقد خارجي موثَّق"
-- id: "crt-popper-critique-of-historicism", title: "نقد بوبر", type: "نقد خارجي موثَّق"
+- id: "crt-replication-crisis", title: "نقد أزمة التكرار العلمي: ميتا-تحليلات لا تتطابق", type: "نقد خارجي موثَّق"
+- id: "crt-popper-critique-of-historicism", title: "نقد بوبر للنزعة التاريخية والشمولية في الفلسفة", type: "نقد خارجي موثَّق"
 - id: "crt-critique-of-solution-focused", title: "نقد الْعِلَاج الْمُرْكَز عَلَى الْحَلّ: هَل «تَجَاهُل الْمَشْكَلَة» هُوَ نَفْسُه مَشْكَلَة؟", type: "نقد خارجي موثَّق"
 - id: "crt-baudrillard-critique-of-hyperreality", title: "نقد بودريار للمحاكاة الفائقة واختفاء الواقع", type: "نقد خارجي موثَّق"
 - id: "crt-feminist-critique-behaviorism", title: "النقد النسوي للسلوكية: نزع الجنسانية عن الإشراط الجنسي", type: "نقد خارجي موثَّق"
@@ -22,6 +22,7 @@ gaps:
 - "لم تُراجع من نسخة أصلية مباشرة بعد."
 - "اقتباس Smith 1976 المباشر لم يُتحقق من نصه الأصلي بعد."
 - "الفرق بين هذا النقد ونقد العلاج بالتجربة يحتاج فصلاً."
+  - "**وُحِّد مسارُ التنقّل 2026-09-10:** كان «نقد» وصار «النقد الخارجي» — لأنّ الجذرَ كان منقسماً بين صيغتين للشيء نفسِه، فيعرض فهرسُ التصفّح موضعين لموضعٍ واحد."
 ---
 # نقد العلاج بالجشطلت: تقنيكات درامية أم بحث علمي؟
 

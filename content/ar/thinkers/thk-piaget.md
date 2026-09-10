@@ -27,7 +27,7 @@ related:
 - id: "thk-fonagy", title: "بيتر فوناغي", type: "مفكر"
 - id: "con-zpd", title: "منطقة النمو القريب (Zone of Proximal Development)", type: "مفهوم"
 - id: "con-cognitive-development-stages", title: "مراحل النمو المعرفي الأربع (Piaget)", type: "مفهوم"
-- id: "con-piaget-schema", title: "المخطط (Schema)", type: "مفهوم"
+- id: "con-piaget-schema", title: "المخطط (Schema) عند بياجيه", type: "مفهوم"
 - id: "dbt-nature-nurture", title: "جِدَل الطَّبِيعَة وَالتَّرْبِيَة (Nature vs. Nurture): مَن يَصْنَع السُّلُوك؟", type: "جدل"
 - id: "stu-piaget-object-permanence-a-not-b", title: "تجارب بياجيه لخطأ A-not-B وديمومة الشيء", type: "دراسة وبحث"
 - id: "wrk-langage-pensee-enfant", title: "اللغة والفكر عند الطفل", type: "عمل / كتاب"

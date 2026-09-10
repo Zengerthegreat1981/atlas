@@ -10,7 +10,7 @@ active_start: 1950
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "تيار"
 related:
 - id: "thk-ovogt", title: "أوسكار فوغت", type: "مفكر"
 - id: "con-hypnotic-trance", title: "الغشية التنويمية", type: "مفهوم"

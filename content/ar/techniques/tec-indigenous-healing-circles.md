@@ -2,7 +2,7 @@
 slug: "tec-indigenous-healing-circles"
 id: "TEC-0351"
 type: "تقنية/تدخل علاجي"
-part: "psychology"
+part: "philosophy"
 level: "متوسط"
 title: "دوائر الشفاء والطقوس المجتمعية للشعوب الأصلية"
 en: "Indigenous Healing Circles and Talking Circle Protocols"
@@ -15,10 +15,11 @@ edges:
 related:
 - id: "sch-indigenous-psychology", title: "علم نفس الشعوب الأصلية", type: "مدرسة"
 - id: "thk-eduardo-duran", title: "إدواردو دوران", type: "مفكر"
-- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-motivational-interviewing", title: "المقابلات الدافعية (MI)", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا توجد تجربة عشوائية محكّمة منشورة تقيس أثر دوائر الشفاء تحديداً في عزل عن مكوّنات أخرى من برامج التعافي من الإدمان لدى مجتمعات الشعوب الأصلية."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-indigenous-psychology` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # دوائر الشفاء والطقوس المجتمعية للشعوب الأصلية

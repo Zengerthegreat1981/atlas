@@ -15,7 +15,7 @@ active_start: 1957
 active_end: 1990
 edges: []
 related:
-- id: "sch-pan-africanism", title: "عموم أفريقيا", type: "مدرسة"
+- id: "sch-pan-africanism", title: "عموم أفريقيا (Pan-Africanism)", type: "مدرسة"
 - id: "sch-african-national-ideology", title: "الفلسفة الوطنية-الأيديولوجية الأفريقية", type: "مدرسة"
 - id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
 - id: "thk-sankara", title: "توماس سانكارا", type: "مفكر"

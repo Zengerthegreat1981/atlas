@@ -21,7 +21,7 @@ related:
 - id: "con-polyvagal-theory", title: "النظرية العصبية المبهمية المتعددة (Polyvagal Theory)", type: "مفهوم"
 - id: "con-neuroception-polyvagal", title: "النيوروسبشن (Neuroception) والحالات العصبية المبهمية", type: "مفهوم"
 - id: "con-polyvagal-states", title: "حالات الجهاز العصبي المتعدّد (Polyvagal States)", type: "مفهوم"
-- id: "tec-polyvagal-ladder-mapping", title: "تقنية رسم خريطة السلم العصبي والمحفزات المبهمية", type: "تقنية"
+- id: "tec-polyvagal-ladder-mapping", title: "تقنية رسم خريطة السلم العصبي والمحفزات المبهمية", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا تُذكر ترجمة عربية لأن الأطلس لم يثبت طبعة عربية للكتاب بمترجم وناشر وسنة."
   - "لم يُثبت هنا أي ردّ منشور لبورغس على ورقة غروسمان 2023، ولا موقع الدوريات المتخصصة منه."

@@ -18,7 +18,7 @@ edges:
   []
 related:
 - id: "ins-stai", title: "مقياس القلق كحالة وسمة", type: "أداة قياس"
-- id: "dis-hwabyung", title: "الهوابيونغ (Hwabyung)", type: "متلازمة"
+- id: "dis-hwabyung", title: "الهوابيونغ (Hwabyung)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "أبحاث تشارلز سبيلبرغر (Charles Spielberger 1999) والتقنين العربي لأحمد عبد الخالق ومحمد الشناوي."
 ---

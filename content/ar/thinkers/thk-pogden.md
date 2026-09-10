@@ -2,7 +2,7 @@
 slug: "thk-pogden"
 id: "THK-2254"
 type: "مفكر"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "بات أوغدن"
 en: "Pat Ogden"
@@ -28,7 +28,7 @@ related:
 - id: "thk-fonagy", title: "بيتر فوناغي", type: "مفكر"
 - id: "thk-rscaer", title: "روبرت سكاير", type: "مفكر"
 - id: "sch-somatic-experiencing", title: "التجربة الجسدية (Somatic Experiencing)", type: "مدرسة"
-- id: "con-somatic-experiencing-popular", title: "التجربة الجسدية وتفريغ شحنة الصدمة", type: "مفهوم"
+- id: "con-somatic-experiencing-popular", title: "التجربة الجسدية وتفريغ شحنة الصدمة (Somatic Experiencing)", type: "مفهوم"
 - id: "con-three-way-model-sensorimotor", title: "النموذج الثلاثي لـ Sensorimotor: انتباه، تأثير، فكر", type: "مفهوم"
 - id: "thk-kelleycolleen", title: "كولين كيلي", type: "مفكر"
 - id: "thk-rothschild", title: "بابي روتشيلد", type: "مفكر"
@@ -38,6 +38,7 @@ gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: ستيفن بورجِس (thk-sporges)"
   - "سنة التأسيس الدقيقة لمعهد SPI وموقعه الحالي يحتاجان تحققاً من مصدر أولي."
   - "لم يُعثر على اقتباس مباشر من نصوص أوغدن قابل للتوثيق بمصدر وصفحة، فحُذف قسم الاقتباسات."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-sensorimotor-psychotherapy` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 # بات أوغدن
 

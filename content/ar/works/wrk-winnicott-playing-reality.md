@@ -20,7 +20,7 @@ edges:
 - rel: "authored_by", target: "thk-winnicott", target_type: "مفكر"
 related:
 - id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
-- id: "sch-psychoanalysis", title: "التحليل النفسي", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "لم يثبت وجود ترجمة عربية منشورة لهذا العمل: بُحث عن مترجم وناشر وسنة ولم يُعثر على أيٍّ منها."
   - "لا يوجد اقتباس مباشر موثوق من *Playing and Reality* (1971) بترجمة عربية معتمدة."

@@ -20,7 +20,7 @@ related:
 - id: "sch-ethnophilosophy", title: "الإثنوفلسفة", type: "مدرسة"
 - id: "sch-sage-philosophy", title: "فلسفة الحكيم (Sage Philosophy)", type: "مدرسة"
 - id: "sch-ubuntu-traditional", title: "فلسفة أوبونتو التقليدية", type: "مدرسة"
-- id: "sch-african-professional-philosophy", title: "الفلسفة الأفريقية المهنية", type: "مدرسة"
+- id: "sch-african-professional-philosophy", title: "الفلسفة الأفريقية المهنية/الأكاديمية", type: "مدرسة"
 gaps:
   - "**فُرِّغ حقلُ الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-african-psychology` ختماً قالبياً — مدرسةٌ في علم النفس لا تصلح أباً لمدارسَ فلسفية؛ والمظلّةُ الصحيحة «الفلسفة الأفريقية» لا ملفَّ لها في الأطلس. وهذه مدرسةُ نِدٍّ أو مظلّةٌ مستقلّة، فبقي الحقلُ فارغاً؛ ولم يُوضَع أبٌ تقريبيٌّ لأنّ أباً خاطئاً أسوأُ من غياب أب."
   - "نصوص Desmond Tutu (No Future Without Forgiveness, 1999) وMbigi وBroodryk وRamose تحتاج مراجعة من المصدر الأولي."

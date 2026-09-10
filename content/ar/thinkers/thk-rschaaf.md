@@ -13,7 +13,7 @@ active_start: 1985
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "br-sensory-integration", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-sensory-integration", target_type: "تيار"
 related:
 - id: "thk-jayres", title: "جين أَيرس", type: "مفكر"
 - id: "thk-lmiller", title: "لوسي جين ميلر", type: "مفكر"

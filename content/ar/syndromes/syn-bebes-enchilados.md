@@ -12,7 +12,7 @@ active_end: "مستمر"
 language: "متعدد اللغات"
 edges: []
 related:
-- id: "syn-mal-de-ojo", title: "متلازمة العين الشريرة", type: "متلازمة"
+- id: "syn-mal-de-ojo", title: "متلازمة العين الشريرة والحسد الجسدي (Mal de Ojo)", type: "متلازمة"
 - id: "dis-somatic-symptom-disorder", title: "اضطراب الأعراض الجسدية", type: "اضطراب/حالة إكلينيكية"
 - id: "con-mind-body", title: "مشكلة العقل والجسد", type: "مفهوم"
 gaps:

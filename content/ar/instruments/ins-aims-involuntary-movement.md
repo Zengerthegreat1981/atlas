@@ -17,8 +17,8 @@ evidence_level: "well-established"
 edges:
   []
 related:
-- id: "syn-tardive-dyskinesia", title: "متلازمة خلل الحركة المتأخر", type: "متلازمة"
-- id: "syn-rabbit-syndrome", title: "متلازمة الأرنب", type: "متلازمة"
+- id: "syn-tardive-dyskinesia", title: "متلازمة خلل الحركة المتأخر الدوائية (Tardive Dyskinesia)", type: "متلازمة"
+- id: "syn-rabbit-syndrome", title: "متلازمة الأرنب (الرعاش الفموي الحركي الدوائي)", type: "متلازمة"
 gaps:
   - "تطوير المعهد الوطني للصحة النفسية الأمريكي (NIMH / William Guy 1976) للكشف المبكر عن خلل الحركة المتأخر."
 ---

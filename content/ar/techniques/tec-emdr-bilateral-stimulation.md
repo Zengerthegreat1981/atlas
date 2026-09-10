@@ -14,7 +14,7 @@ edges:
 - rel: "belongs_to", target: "sch-emdr", target_type: "مدرسة"
 related:
 - id: "sch-emdr", title: "إعادة المعالجة عبر حركات العين وتخفيف الأعراض (EMDR)", type: "مدرسة"
-- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-prolonged-exposure", title: "التعرض المطوّل (PE)", type: "تقنية/تدخل علاجي"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: فرانسين شابيرو (thk-fshapiro) — مبتكرة EMDR غير موثقة بملف مفكر مستقل حتى الآن؛ الملف يشير إليها بالاسم في المتن فقط."

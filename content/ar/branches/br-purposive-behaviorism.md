@@ -16,11 +16,11 @@ edges:
 - rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
 - id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
-- id: "br-social-learning-theory", title: "نظرية التعلّم الاجتماعي", type: "تيار"
+- id: "br-social-learning-theory", title: "نظرية التعلم الاجتماعي والمعرفي", type: "تيار"
 - id: "rel-behaviorism-cognitive", title: "السلوكية والمعرفية: الثورة المعرفية داخل السلوكية", type: "علاقة بين مدرستين"
 - id: "br-neobehaviorism", title: "السلوكية الجديدة (النيوسلوكية)", type: "تيار"
-- id: "thk-ectolman", title: "إدوارد تشيس تولمان", type: "مفكر"
-- id: "thk-jwatson", title: "جون واطسون", type: "مفكر"
+- id: "thk-ectolman", title: "إدوارد تولمان", type: "مفكر"
+- id: "thk-jwatson", title: "جون ب. واتسون", type: "مفكر"
 - id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 gaps:
   - "**كُتب متنه 2026-09-07** من الفجوات المسجَّلة، وكانت تسمّي المطلوب: تجاربَ الخرائط المعرفية والتعلّمِ الكامن في المتاهات، وأثرَ **المتغيّرات المتداخلة** في نشأة علم النفس المعرفي."

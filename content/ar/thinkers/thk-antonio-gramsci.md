@@ -17,9 +17,9 @@ edges:
 - rel: "developed", target: "sch-western-marxism", target_type: "مدرسة"
 related:
 - id: "thk-giorgio-agamben", title: "جورجو أغامبين", type: "مفكر"
-- id: "sch-marxism-humanist", title: "الماركسية الإنسانية", type: "مدرسة"
+- id: "sch-marxism-humanist", title: "الماركسية الإنسانية (Humanist Marxism / Marxisme humaniste)", type: "مدرسة"
 - id: "con-hegemony-gramsci", title: "الهيمنة الثقافية والأيديولوجية (Cultural Hegemony)", type: "مفهوم"
-- id: "con-cultural-capital-bourdieu", title: "رأس المال الثقافي (بوردِي)", type: "مفهوم"
+- id: "con-cultural-capital-bourdieu", title: "رأس المال الثقافي والرمزي (Cultural Capital)", type: "مفهوم"
 gaps:
   - "تفاصيل نشاطه السري في الكومنترن الإيطالي (1922-1926) موثّقة جزئياً."
   - "نصوصه السجينية (Quaderni) تتضمّن تشويهات ناتجة عن الرقابة، تحتاج قراءة نقدية."

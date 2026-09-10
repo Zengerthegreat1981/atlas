@@ -5,11 +5,11 @@ type: "مفكر"
 level: "متوسط"
 title: "[مؤسِّسو SFJA / ISAP / NYAAP / JPA / IRSJA / PCSJA / CSJA / DSJA / GAJA / JAWA / NCSJA / NMSJA / OVAJA / PAJA / PNSJA / PSJA]"
 en: "Founders of US Jungian associations and institutes"
-crumb: "مدرسة التحليل النفسي ← الناس ← مؤسِّسو الجمعيات والمعاهد التحليلية في الولايات المتحدة"
+crumb: "التحليل النفسي ← الناس ← مؤسِّسو الجمعيات والمعاهد التحليلية في الولايات المتحدة"
 dates: "أمريكا · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-part: "philosophy"
+part: "psychology"
 active_start: null
 active_end: "مستمر"
 edges:
@@ -21,30 +21,13 @@ related:
 gaps:
   - "عنصر placeholder — كلّ جمعية أمريكية تستحق ملفاً مستقلاً."
   - "هوية المؤسِّسين الفعليين لـ 19 معهداً/جمعية أمريكية موثّقة في IAAP — غير موثّقة مركزياً في هذا البحث."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
+  - "**وُحِّد مسارُ التنقّل 2026-09-10:** كان «مدرسة التحليل النفسي» وصار «التحليل النفسي» — لأنّ الجذرَ كان منقسماً بين صيغتين للشيء نفسِه، فيعرض فهرسُ التصفّح موضعين لموضعٍ واحد."
+  - "**نُظِّفت الأقسام 2026-09-10:** حُذف 20 قسماً فارغاً (أقلَّ من 15 حرفاً) — والعنوانُ الفارغ يُوهم القارئَ أنّ مضموناً حُجب."
 ---
 
 # [مؤسِّسو SFJA / ISAP / NYAAP / JPA / IRSJA / PCSJA / CSJA / DSJA / GAJA / JAWA / NCSJA / NMSJA / OVAJA / PAJA / PNSJA / PSJA]
 
-## CGJIZ (CG Jung Institute Zurich) — سويسرا (الجذر)
-## CGJIC (CG Jung Institute of Colorado) — Boulder
-## CGJILA (CG Jung Institute of Los Angeles) — LA (مؤسسوها: James Kirsch 1943)
-## CGJIS (CG Jung Institute of Seattle) — Seattle
-## CGJISD (CG Jung Institute of San Diego) — San Diego
-## CGJISF (Society of Jungian Analysts of Northern California / CGJISF) — SF (مؤسسوها: Henderson, Wheelwright 1940)
-## CGJSCSC (CG Jung Study Center of Southern California) — LA
-## CGJUNGNE (CG Jung Institute of New England) — Boston
-## CSJA (Chicago Society of Jungian Analysts) — Chicago (مؤسسوها: J. Wheelwright, M. Stein)
-## DSJA (Dallas Society of Jungian Analysts) — Dallas
-## GAJA (Georgia Association of Jungian Analysts) — Atlanta
-## IRSJA (Inter-Regional Society of Jungian Analysts) — عبر الأقاليم
-## JAWA (Jungian Analysts of Washington Association) — Washington
-## JPA (Jungian Psychoanalytic Association) — New York
-## NCSJA (North Carolina Society of Jungian Analysts) — NC
-## NMSJA (New Mexico Society of Jungian Analysts) — NM
-## NYAAP (New York Association for Analytical Psychology) — NY
-## OVAJA (Ohio Valley Association of Jungian Analysts) — Ohio
-## PAJA (Philadelphia Association of Jungian Analysts) — Philadelphia
-## PNSJA (Pacific Northwest Society of Jungian Analysts) — PNW
 ## PSJA (Pittsburgh Society of Jungian Analysts) — Pittsburgh
 
 ملف placeholder موحد، يجب فصله لوصف كل واحد مع المؤسسين الفعليين.

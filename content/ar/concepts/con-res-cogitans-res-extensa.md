@@ -16,7 +16,7 @@ related:
 - id: "sch-cartesianism", title: "الديكارتية", type: "مدرسة"
 - id: "con-cogito", title: "الكوجيتو: أنا أفكر إذن أنا موجود", type: "مفهوم"
 - id: "con-mind-body", title: "مشكلة العقل والجسد", type: "مفهوم"
-- id: "wrk-meditations-on-first-philosophy-descartes", title: "تأملات في الفلسفة الأولى لديكارت", type: "عمل"
+- id: "wrk-meditations-on-first-philosophy-descartes", title: "تأملات في الفلسفة الأولى لديكارت", type: "عمل / كتاب"
 gaps:
   - "المصادر الأولية والتحليل المعجمي والمفاهيمي لتطور المصطلح."
 ---

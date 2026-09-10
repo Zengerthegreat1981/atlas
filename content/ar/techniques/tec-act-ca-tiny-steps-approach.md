@@ -18,7 +18,7 @@ related:
 - id: "tec-act-ca-if-then-planning", title: "التخطيط الشرطي (إذا-فعندئذ)", type: "تقنية/تدخل علاجي"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
-- id: "dis-adhd", title: "اضطراب نقص الانتباه وفرط الحركة", type: "اضطراب"
+- id: "dis-adhd", title: "اضطراب نقص الانتباه وفرط الحركة", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-cbt-beh-graded-task-assignment", title: "تدريج المهام", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا توجد دراسة منشورة موثّقة تفحص فعالية «أسلوب الخطوات الصغيرة» كتقنية مستقلة داخل ACT؛ evidence_level حُدِّد تحفظياً كـexperimental لهذا السبب."

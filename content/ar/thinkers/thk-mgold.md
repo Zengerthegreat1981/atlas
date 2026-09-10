@@ -20,7 +20,7 @@ related:
 - id: "br-psychiatric-vocational-rehab", title: "التأهيل المهني النفسي", type: "تيار"
 - id: "thk-pwehman", title: "بول ويهَمان", type: "مفكر"
 - id: "thk-mfarkas", title: "ماريان فاركاش", type: "مفكر"
-- id: "con-supported-employment", title: "التوظيف المدعوم", type: "مفهوم"
+- id: "con-supported-employment", title: "التوظيف المدعوم (Supported Employment)", type: "مفهوم"
 gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "رابط لنموذج التوظيف الفردي والدعم (IPS) أُزيل لعدم وجود ملف con-ips فعلاً في الأطلس."

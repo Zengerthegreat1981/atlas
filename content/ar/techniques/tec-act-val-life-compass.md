@@ -18,7 +18,7 @@ related:
 - id: "tec-act-val-values-based-decision-making", title: "اتخاذ القرار المبني على القيم", type: "تقنية/تدخل علاجي"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
-- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-cbt-mind-values-clarification", title: "توضيح القيم", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا توجد دراسة مستقلة (RCT أو غيرها) قيّمت «بوصلة الحياة» تحديداً كتقنية منفصلة؛ الأدلة المتاحة هي أدلة فعالية ACT ككل، لا هذا التمرين بعينه."

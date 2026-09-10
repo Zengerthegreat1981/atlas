@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-suhrawardi", title: "شهاب الدين يحيى بن حبش السهروردي (شيخ الإشراق)", type: "مفكر"
 - id: "sch-ishraqiyya", title: "الإشراقية", type: "مدرسة"
-- id: "wrk-hikmat-al-ishraq-suhrawardi", title: "حكمة الإشراق للسهروردي", type: "عمل"
+- id: "wrk-hikmat-al-ishraq-suhrawardi", title: "حكمة الإشراق للسهروردي", type: "عمل / كتاب"
 - id: "con-emanation-islamic", title: "الفيض الإلهي (المشائية الإسلامية)", type: "مفهوم"
 - id: "dbt-ishraq-vs-mashsha-epistemology", title: "البرهان المشائي مقابل الذوق الإشراقي والعلم الحضوري", type: "جدل"
 gaps:

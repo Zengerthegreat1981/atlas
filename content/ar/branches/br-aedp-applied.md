@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-fosha", title: "ديانا فوشا", type: "مفكر"
 - id: "con-aedp-emotion", title: "الْعَوَاطِف التَّكَيُّفِيَّة في AEDP: الْغَضَب الصَّحِيّ، الْحُزْن الصَّحِيّ، الْخَجَل الصَّحِيّ", type: "مفهوم"
-- id: "tec-aedp-emotion-to-emotion-processing", title: "المعالجة من عاطفة إلى عاطفة", type: "تقنية/تدخل علاجي"
+- id: "tec-aedp-emotion-to-emotion-processing", title: "المعالجة من عاطفة إلى عاطفة (Emotion-to-Emotion Processing)", type: "تقنية/تدخل علاجي"
 gaps:
   - "تفاصيل تكييف AEDP للسجون والمؤسسات محدودة في المصادر العربية."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-zonghengjia", target_type: "مدرسة"
 related:
-- id: "sch-zonghengjia", title: "مدرسة الدبلوماسيين (زونغ هنغ جيا)", type: "مدرسة"
+- id: "sch-zonghengjia", title: "مدرسة الدبلوماسيين (Zonghengjia)", type: "مدرسة"
 - id: "thk-su-qin", title: "سو تشين", type: "مفكر"
 gaps:
   - "التفاصيل الدقيقة لتطبيق 'الاستراتيجيات' في القرن 21 لم تُغطّ هنا."

@@ -13,7 +13,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
-- id: "sch-social-psychology", title: "علم النفس الاجتماعي", type: "مدرسة"
+- id: "sch-social-psychology", title: "علم النفس الاجتماعي (Social Psychology)", type: "مدرسة"
 gaps:
   - "قيمة edges الأصلية 'علم النفس التطوري وعلم الأعصاب الاجتماعي' كانت نصاً حراً بلا slug مطابق في content/ar/schools؛ استُبدلت بـ sch-social-psychology كأقرب مدرسة موثقة، وتحتاج مراجعة دقيقة. طُلب slug جديد لمدرسة علم النفس التطوري في requests-minimax.md."
   - "لا يوجد ملف thk- موثق لروبن دانبار (Robin Dunbar) في content/ar/thinkers؛ طُلب slug جديد له في requests-minimax.md، وتعذّر لذلك إضافة رابط مفكر مباشر في related."

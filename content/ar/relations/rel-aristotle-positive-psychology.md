@@ -13,7 +13,7 @@ edges:
 - rel: "relates_to", target: "sch-aristotelianism", target_type: "مدرسة"
 - rel: "relates_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
-- id: "sch-aristotelianism", title: "المشائية الأرسطية", type: "مدرسة"
+- id: "sch-aristotelianism", title: "المشائية / الأرسطية (Aristotelianism)", type: "مدرسة"
 - id: "thk-aristotle", title: "أرسطو", type: "مفكر"
 - id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"
 gaps:

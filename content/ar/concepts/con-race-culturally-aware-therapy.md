@@ -15,7 +15,7 @@ related:
 - id: "thk-deraldwing-sue", title: "ديرالد وينغ سو", type: "مفكر"
 - id: "thk-janethelms", title: "جانيت هيلمز", type: "مفكر"
 - id: "thk-lcarter", title: "ليندا كارتر", type: "مفكر"
-- id: "crt-critical-race-critique-psychology", title: "النقد العرقي النقدي لعلم النفس: تاريخ اختبارات الذكاء والتشخيص", type: "نقد"
+- id: "crt-critical-race-critique-psychology", title: "النقد العرقي النقدي لعلم النفس: تاريخ اختبارات الذكاء والتشخيص", type: "نقد خارجي موثَّق"
 gaps:
   - "التمييز بين Cultural Competence وCultural Humility يستحق مراجعة."
   - "لا يوجد ملف br- بعنوان مطابق لـ«العلاج المراعي للعرق والثقافة» (edges.belongs_to يشير إلى br-race-culturally-aware غير الموجود، ولا يوجد بديل موثّق مطابق — br-relational-cultural موضوع مختلف) — سُجّل في agents_specs/requests-minimax.md R-014."

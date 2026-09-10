@@ -18,9 +18,9 @@ edges:
 - rel: "split_into", target: "sch-phenomenology-somatic", target_type: "مدرسة"
 - rel: "split_into", target: "sch-existentialism", target_type: "مدرسة"
 related:
-- id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
-- id: "sch-existentialism", title: "الوجودية", type: "مدرسة"
-- id: "sch-phenomenology-somatic", title: "الظاهراتية الجسدية", type: "مدرسة"
+- id: "sch-phenomenology", title: "الظاهراتية (Phänomenologie)", type: "مدرسة"
+- id: "sch-existentialism", title: "الوجودية (Existentialism)", type: "مدرسة"
+- id: "sch-phenomenology-somatic", title: "الظاهراتية الجسدية (Somatic Phenomenology)", type: "مدرسة"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
 - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"

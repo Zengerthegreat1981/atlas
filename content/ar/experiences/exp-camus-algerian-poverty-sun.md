@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
-- id: "wrk-myth-sisyphus", title: "أسطورة سيزيف (Le Mythe de Sisyphe)", type: "عمل"
+- id: "wrk-myth-sisyphus", title: "أسطورة سيزيف (Le Mythe de Sisyphe)", type: "عمل / كتاب"
 - id: "con-absurd-and-revolt-camus", title: "العبث والتمرد المستمر (The Absurd and Revolt)", type: "مفهوم"
 gaps:
   - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existentialism-atheist` ختماً قالبياً، ونُقل إلى `sch-existentialism` بحسب المجال المُصحَّح في مسار التنقّل («الفلسفة العبثية والوجودية»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."

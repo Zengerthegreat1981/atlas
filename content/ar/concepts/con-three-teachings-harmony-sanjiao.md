@@ -11,9 +11,9 @@ active_start: 600
 active_end: "مستمر"
 edges: []
 related:
-- id: "thk-confucius", title: "كونفوشيوس", type: "مفكر"
+- id: "thk-confucius", title: "كونفوشيوس (كونغ زي)", type: "مفكر"
 - id: "thk-laozi", title: "لاو تزو (لاو دان)", type: "مفكر"
-- id: "thk-buddha", title: "بوذا", type: "مفكر"
+- id: "thk-buddha", title: "بوذا (سيدهارتا غوتاما)", type: "مفكر"
 - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
 - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
 - id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"

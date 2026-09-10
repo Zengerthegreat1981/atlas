@@ -12,8 +12,8 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-ambedkar-philosophy", target_type: "مدرسة"
 related:
-- id: "sch-ambedkar-philosophy", title: "الأمبيدكارية", type: "مدرسة"
-- id: "sch-gandhianism", title: "الغاندية", type: "مدرسة"
+- id: "sch-ambedkar-philosophy", title: "الأمبيدكارية (نقد الطبقية والفلسفة الدستورية)", type: "مدرسة"
+- id: "sch-gandhianism", title: "الغاندية (كفلسفة سياسية-أخلاقية)", type: "مدرسة"
 - id: "thk-ambedkar", title: "بيماراو رامجي أمبيدكار", type: "مفكر"
 - id: "thk-gandhi", title: "موهانداس كرمشاند غاندي", type: "مفكر"
 gaps:

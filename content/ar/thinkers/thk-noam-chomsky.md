@@ -18,7 +18,7 @@ related:
 - id: "thk-graeber", title: "ديفيد غريبر", type: "مفكر"
 - id: "thk-bakunin", title: "ميخائيل باكونين", type: "مفكر"
 - id: "thk-proudhon", title: "بيير جوزيف برودون", type: "مفكر"
-- id: "con-state-of-exception-agamben", title: "حالة الاستثناء والسيادة", type: "مفهوم"
+- id: "con-state-of-exception-agamben", title: "حالة الاستثناء والسيادة (State of Exception)", type: "مفهوم"
 - id: "dbt-anarchism-vs-state", title: "جدل الفوضوية مع الدولة: هل يمكن الاستغناء عن الدولة؟", type: "جدل"
 - id: "ctx-cognitive-revolution-1950s", title: "الثورة المعرفية في الخمسينيات وحوسبة العقل واللغويات التوليدية", type: "سياق/تقليد"
 - id: "dia-chomsky-piaget-1975", title: "مناظرة تشومسكي وبياجيه 1975 في مركز روايومون", type: "حوار مع مدرسة مجاورة"

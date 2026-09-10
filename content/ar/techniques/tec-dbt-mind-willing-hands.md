@@ -16,7 +16,7 @@ edges:
 - rel: "developed_by", target: "thk-mlinehan", target_type: "مفكر"
 related:
 - id: "tec-dbt-mind-half-smiling", title: "الابتسامة النصفية", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-dt-willingness-vs-willfulness", title: "الاستعداد مقابل العناد", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-willingness-vs-willfulness", title: "الاستعداد مقابل العناد (DBT)", type: "تقنية/تدخل علاجي"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
 - id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"

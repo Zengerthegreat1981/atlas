@@ -16,9 +16,9 @@ edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 - rel: "founded_by", target: "thk-reich", target_type: "مفكر"
 related:
-- id: "thk-reich", title: "فيلهلم رايش", type: "مفكر"
-- id: "br-bioenergetic-analysis", title: "التحليل البيوإنرجيتي", type: "تيار"
-- id: "rel-psychoanalysis-somatic", title: "التحليل النفسي والجسدية: رايش كمنشق", type: "علاقة بين مدرستين"
+- id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
+- id: "br-bioenergetic-analysis", title: "التحليل الطاقي الحيوي (لوين)", type: "تيار"
+- id: "rel-psychoanalysis-somatic", title: "التحليل النفسي والجسدية: رايش كمنشق، ليفين كجسر", type: "علاقة بين مدرستين"
 - id: "br-biodynamic-psychology", title: "علم النفس البيودينامي والتدليك الحركي (بويسن)", type: "تيار"
 - id: "thk-lowen", title: "ألكسندر لوين", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"

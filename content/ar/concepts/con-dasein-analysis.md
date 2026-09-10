@@ -6,7 +6,7 @@ level: "متقدم"
 title: "تحليل الدازاين (Daseinsanalysis)"
 en: "Daseinsanalysis"
 crumb: "الإنسانية ← المفاهيم ← تحليل الدازاين"
-part: "philosophy"
+part: "psychology"
 active_start: null
 active_end: "مستمر"
 edges:
@@ -25,6 +25,7 @@ gaps:
   - "الفرق التفصيلي بين 'تحليل الدازاين' (بنسوانغر) و'التحليل الوجودي' (بوس) يحتاج تحقق."
   - "أرقام الصفحات/الطبعات الدقيقة للاقتباسات من Grundformen und Erkenntnis menschlichen Daseins وGrundriss der Medizin und der Psychologie غير مثبتة بعد."
   - "هذا الملف وcon-dasein-being-in-the-world.md وcon-dasein-being-there.md قد تكون معالجات متداخلة لنفس عائلة المفاهيم؛ يلزم تحقق من الفريق لتحديد ما إذا كانت تستهدف زوايا مختلفة أم تكراراً يجب توحيده لاحقاً (لم تُدمَج هنا)."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-humanistic` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # تحليل الدازاين (Daseinsanalysis)

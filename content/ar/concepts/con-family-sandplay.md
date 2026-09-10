@@ -8,7 +8,7 @@ en: "Family Sandplay Therapy"
 crumb: "المفاهيم ← مدارس علاجية خاصة ← علاج الأسر الرملية"
 active_start: 1990
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-family-sandplay", target_type: "تيار"
 related:
@@ -19,6 +19,7 @@ related:
 gaps:
   - "لا يوجد توثيق أولي لخط Ester Weder أو خط Homeyer & Sweeney بأسماء أعمال وسنوات محددة — الأسماء واردة في أدبيات ثانوية فقط."
   - "لا مصدر أولي مؤكد (كتاب أو مقال محكّم) يوثّق تأسيس هذا التيار باسم مؤسس وسنة — قسم المصادر محذوف لهذا السبب."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-family-sandplay` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 # علاج الأسر الرملية
 

@@ -16,14 +16,14 @@ edges:
 - rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
 - id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
-- id: "br-radical-behaviorism", title: "السلوكية الراديكالية", type: "تيار"
+- id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي (ABA)", type: "تيار"
 - id: "br-purposive-behaviorism", title: "السلوكية الغائية والمعرفية المبكرة (تولمان)", type: "تيار"
 - id: "rel-behaviorism-cognitive", title: "السلوكية والمعرفية: الثورة المعرفية داخل السلوكية", type: "علاقة بين مدرستين"
 - id: "thk-ectolman", title: "إدوارد تولمان", type: "مفكر"
 - id: "thk-clhull", title: "كلارك هال", type: "مفكر"
 - id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
-- id: "thk-jwatson", title: "جون واطسون", type: "مفكر"
-- id: "sch-vienna-circle", title: "حلقة فيينا (Vienna Circle)", type: "مدرسة"
+- id: "thk-jwatson", title: "جون ب. واتسون", type: "مفكر"
+- id: "sch-vienna-circle", title: "الوضعية المنطقية (حلقة فيينا)", type: "مدرسة"
 gaps:
   - "**كُتب متنه 2026-09-07** من الفجوات المسجَّلة، وكانت تسمّي المطلوب: مرحلةَ الوضعية المنطقية وأثرَها في صياغة المفاهيم الإجرائية، والتحوّلاتِ المنهجية التي أفضت إلى الموجة المعرفية الأولى."
   - "أسماءُ المتغيّرات في نسق هُل ومعادلاتُه أُثبتت بمسمّياتها المستقرّة؛ ولم أُدرج صيغتَه الرياضية ولا أرقامَ ثوابتها."

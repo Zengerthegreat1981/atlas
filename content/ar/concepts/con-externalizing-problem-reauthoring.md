@@ -15,7 +15,7 @@ related:
 - id: "sch-narrative-therapy", title: "العلاج السردي (Narrative Therapy)", type: "مدرسة"
 - id: "thk-mwhite", title: "مايكل وايت", type: "مفكر"
 - id: "thk-depston", title: "ديفيد إبستون", type: "مفكر"
-- id: "wrk-white-epston-narrative-means", title: "كتاب الوسائل السردية للغايات العلاجية لمايكل وايت وديفيد إبستون (1990)", type: "عمل"
+- id: "wrk-white-epston-narrative-means", title: "كتاب الوسائل السردية للغايات العلاجية لمايكل وايت وديفيد إبستون (1990)", type: "عمل / كتاب"
 - id: "con-unique-outcomes-sparkling", title: "الاستثناءات واللحظات المتألقة في العلاج السردي", type: "مفهوم"
 - id: "dbt-trauma-narrative-vs-medical-model", title: "جِدَل نَمُوذَج السَّرْد ضِد النَّمُوذَج الطِّبِّيّ فِي عِلَاج الصَّدْمَة", type: "جدل"
 gaps:

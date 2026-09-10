@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-fichte", title: "يوهان غوتليب فيشته", type: "مفكر"
 - id: "sch-fichte", title: "الفيختية", type: "مدرسة"
-- id: "wrk-science-of-knowledge-fichte", title: "نظرية العلم لفيخته (Wissenschaftslehre)", type: "عمل"
+- id: "wrk-science-of-knowledge-fichte", title: "نظرية العلم لفيخته (Wissenschaftslehre)", type: "عمل / كتاب"
 - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
 - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
 - id: "con-absolute-spirit-hegel", title: "الروح المطلق وتمظهراته (Absolute Spirit)", type: "مفهوم"

@@ -13,7 +13,7 @@ redirect_to: "trm-transference-countertransference"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-- id: "trm-transference-countertransference", title: "التَّحَوُّل (Transference) والمَقَاوَمة المُتَقَابِلَة (Countertransference)", type: "مصطلح"
+- id: "trm-transference-countertransference", title: "التَّحَوُّل (Transference) والمَقَاوَمة المُتَقَابِلَة (Countertransference)", type: "مصطلح لغوي متنازع عليه"
 gaps:
   - "[حجر] دُمج هذا الملف إحالةً إلى trm-transference-countertransference (TRM-0122) — نفس مفهوم Übertragung/Transference الفرويدي بنفس المصدر (thk-freud) ونفس المدرسة (sch-psychoanalysis)؛ الملف الآخر أعمق توثيقاً (مصادر مؤرَّخة: فرويد 1912 و1910، هايمان 1949، كوهوت 1971، بوردين 1979، بيك 2011؛ تصنيف رباعي للتحويل؛ تمييز عن الإسقاط) فأُبقي عليه كمعتمد."
   - "**وُسم العنوان 2026-09-10:** كان هذا الملفُّ إحالةً مُصرِّحةً في متنه إلى `trm-transference-countertransference`، لكنّ عنوانَه لا يُبيّن ذلك — فيظهر في الفهارس والبحث مدخلاً كاملاً يزاحم الملفَّ القانونيَّ بعنوانٍ يكاد يطابقه. وهو العيبُ نفسُه الذي أُصلح في `sch-cbt` قبلاً."

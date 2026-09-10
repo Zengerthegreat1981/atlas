@@ -16,7 +16,7 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-cognitive-psychology", target_type: "مدرسة"
 related:
-- id: "sch-cognitive-psychology", title: "علم النفس المعرفي", type: "مدرسة"
+- id: "sch-cognitive-psychology", title: "علم النفس المعرفي (Cognitive Psychology)", type: "مدرسة"
 - id: "thk-paul-ekman", title: "بول إيكمان", type: "مفكر"
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 - id: "thk-darwin", title: "تشارلز داروين", type: "مفكر"
@@ -24,7 +24,7 @@ related:
 - id: "con-sadness", title: "الحزن", type: "مفهوم"
 - id: "con-shame-guilt", title: "الخزي والذنب", type: "مفهوم"
 - id: "con-jealousy-envy", title: "الغيرة والحسد", type: "مفهوم"
-- id: "con-emotional-intelligence", title: "الذكاء الانفعالي", type: "مفهوم"
+- id: "con-emotional-intelligence", title: "الذكاء العاطفي", type: "مفهوم"
 - id: "stu-ekman-original-facial", title: "دراسات إكمان الأصلية عن عالمية تعبيرات الوجه", type: "دراسة وبحث"
 - id: "stu-himba-facial", title: "دراسة الهيمبا حول تصنيف تعبيرات الوجه", type: "دراسة وبحث"
 gaps:

@@ -16,7 +16,7 @@ active_end: 900
 edges:
 - rel: "evolved_from", target: "sch-madhyamaka", target_type: "مدرسة"
 related:
-- id: "sch-madhyamaka", title: "مادهياماكا", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
 - id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
 - id: "sch-faxiang", title: "فاشيانغ (يوغاكارا الصينية)", type: "مدرسة"
 - id: "sch-phenomenology", title: "الظاهراتية (Phänomenologie)", type: "مدرسة"

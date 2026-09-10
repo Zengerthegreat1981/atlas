@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 crumb: "إدارة الحالات ← التوظيف المدعوم (IPS) ← غاري بوند"
 edges:
 - rel: "belongs_to", target: "br-case-management", target_type: "تيار"
@@ -23,6 +23,7 @@ gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من *Individual Placement and Support* (2012) بترجمة عربية معتمدة."
   - "edges.belongs_to صُحِّح من نص حرّ 'إدارة الحالات' إلى slug موجود فعلياً (br-case-management)."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-case-management` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # غاري بوند

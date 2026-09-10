@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "syn-tardive-dyskinesia", title: "متلازمة خلل الحركة المتأخر الدوائية (Tardive Dyskinesia)", type: "متلازمة"
-- id: "dis-delirium", title: "الهذيان", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-delirium", title: "الهذيان والتشوش الحاد", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-schizophrenia", title: "الفصام", type: "اضطراب/حالة إكلينيكية"
 - id: "con-mind-body", title: "مشكلة العقل والجسد", type: "مفهوم"
 gaps:

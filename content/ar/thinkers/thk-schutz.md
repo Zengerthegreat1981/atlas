@@ -20,7 +20,7 @@ related:
 - id: "con-time", title: "الزمن", type: "مفهوم"
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 - id: "thk-natanson", title: "موريس ناتانسون", type: "مفكر"
-- id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
+- id: "sch-phenomenology", title: "الظاهراتية (Phänomenologie)", type: "مدرسة"
 gaps:
   - "**وُحِّد حقل `part` 2026-09-08:** كان «psychology» وصار «philosophy» اتّساقاً مع أشقّائه تحت `sch-phenomenology` (وأغلبيتُهم «philosophy» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-phenomenology` بحسب المجال المُصحَّح في مسار التنقّل («الظاهراتية»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."

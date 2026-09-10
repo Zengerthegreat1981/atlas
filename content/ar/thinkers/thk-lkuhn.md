@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1990
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "tec-circle-of-security", target_type: "تقنية/تدخل علاجي"
 related:
@@ -22,6 +22,7 @@ gaps:
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
   - "الرابط thk-kcooper كان معنوَناً خطأً «كينيث كوبر»؛ الملف المستهدَف عنوانه الفعلي «غلين كوبر» (Glen Cooper)، أحد مؤسِّسي Circle of Security."
   - "مرشح للحجر (quarantine): بحث ويب مكثف (2026-09) عن 'Linda Kuhn' + Circle of Security / attachment / disorganized attachment لم يُظهر أي وجود مستقل موثَّق لباحثة بهذا الاسم مرتبطة بـCircle of Security. مؤسسو ومطوّرو COS الموثَّقون هم Glen Cooper وKent Hoffman وBert Powell (وRobert Marvin كباحث متعاون). لم يُعثر على أي منشور علمي أو سيرة ذاتية منسوبة لـ'Linda Kuhn' في هذا السياق؛ يُحتمل أنها اسم ملفَّق أو خلط مع باحثة أخرى (توجد 'Linda Kuhn' أخرى، عالمة نفس في جامعة لوند، لا صلة لها بـCOS). يُوصى بمراجعة بشرية لتحديد إن كان الملف يجب حجره أو حذفه أو إعادة تسميته لشخص حقيقي."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-circle-of-security` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # ليندا كون

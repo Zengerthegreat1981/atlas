@@ -13,10 +13,10 @@ edges:
 - rel: "belongs_to", target: "sch-ecofeminism", target_type: "مدرسة"
 related:
 - id: "thk-gilligan", title: "كارول غيليغان", type: "مفكر"
-- id: "wrk-in-a-different-voice-gilligan", title: "بصوت مختلف لكارول غيليغان (In a Different Voice)", type: "عمل"
+- id: "wrk-in-a-different-voice-gilligan", title: "بصوت مختلف لكارول غيليغان (In a Different Voice)", type: "عمل / كتاب"
 - id: "thk-lkohlberg", title: "لورنس كولبرغ", type: "مفكر"
 - id: "dbt-heinz-dilemma-kohlberg-gilligan", title: "معضلة هاينز الأخلاقية بين منطق العدالة وأخلاق الرعاية", type: "جدل"
-- id: "crt-gilligan-critique-of-kohlberg-moral-stages", title: "نقد كارول غيليغان لنظرية كولبرغ في النمو الأخلاقي", type: "نقد"
+- id: "crt-gilligan-critique-of-kohlberg-moral-stages", title: "نقد كارول غيليغان لنظرية كولبرغ في النمو الأخلاقي", type: "نقد خارجي موثَّق"
 - id: "thk-nussbaum", title: "مارثا نوسباوم", type: "مفكر"
 - id: "thk-butler", title: "جوديث بتلر", type: "مفكر"
 - id: "sch-ecofeminism", title: "النسوية البيئية (Ecofeminism)", type: "مدرسة"

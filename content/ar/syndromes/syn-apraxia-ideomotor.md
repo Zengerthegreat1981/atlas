@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "dis-major-neurocognitive", title: "اضطراب معرفي عصبي رئيسي (الخرف)", type: "اضطراب/حالة إكلينيكية"
-- id: "syn-alien-hand", title: "متلازمة اليد الغريبة", type: "متلازمة"
+- id: "syn-alien-hand", title: "متلازمة اليد الغريبة / اليد الفضائية", type: "متلازمة"
 - id: "con-unity-of-knowledge-and-action", title: "وحدة المعرفة والعمل (Zhi Xing He Yi)", type: "مفهوم"
 gaps:
   - "أبحاث هوغو ليبمان (Hugo Liepmann 1900) الكلاسيكية في تخطيط الأفعال الحركية القشرية."

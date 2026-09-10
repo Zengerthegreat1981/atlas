@@ -14,7 +14,7 @@ edges:
 related:
 - id: "sch-legalism", title: "الشرعية / القانونية (Fajia)", type: "مدرسة"
 - id: "thk-hanfeizi", title: "هان في تزو", type: "مفكر"
-- id: "wrk-hanfeizi", title: "كتاب هان في تزو", type: "عمل"
+- id: "wrk-hanfeizi", title: "كتاب هان في تزو", type: "عمل / كتاب"
 - id: "con-fa", title: "الفا (法) — القانون الموضوعي", type: "مفهوم"
 - id: "con-shu", title: "الشو (術) — التكنيك الإداري", type: "مفهوم"
 - id: "thk-shen-buhai", title: "شين بو هاي", type: "مفكر"

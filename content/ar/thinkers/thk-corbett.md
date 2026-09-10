@@ -9,8 +9,8 @@ crumb: "التحليل النفسي ← الناس ← ديني-روحي معا�
 dates: "بريطانيا / أمريكا · 1945–2025"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-part: "philosophy"
-active_start: null
+part: "psychology"
+active_start: 1945
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
@@ -19,6 +19,8 @@ related:
 - id: "thk-edinger", title: "إدوارد إف. إيدينغر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر من *The Religious Function of the Psyche* (1996) بترجمة عربية معتمدة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («بريطانيا / أمريكا · 1945–2025») فاستُخرجت: 1945."
 ---
 
 # ليونيل كوربت

@@ -20,7 +20,7 @@ related:
 - id: "sch-ockhamism", title: "الأوكامية / الاسمية", type: "مدرسة"
 - id: "thk-augustine", title: "أوغسطينوس", type: "مفكر"
 - id: "thk-aquinas", title: "توما الأكويني", type: "مفكر"
-- id: "thk-bonaventure", title: "بونافنتورا", type: "مفكر"
+- id: "thk-bonaventure", title: "بونافنتورا (جيوفاني دي فيدانزا)", type: "مفكر"
 - id: "thk-peter-abelard", title: "بيتر أبيلار", type: "مفكر"
 - id: "thk-william-ockham", title: "وليم الأوكامي", type: "مفكر"
 - id: "con-univocity-of-being-scotus", title: "التواطؤ الوجودي للفظ والمعنى (Univocity of Being)", type: "مفهوم"

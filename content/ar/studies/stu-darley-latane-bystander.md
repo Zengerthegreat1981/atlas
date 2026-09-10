@@ -10,7 +10,7 @@ active_start: 1968
 active_end: 2011
 part: "psychology"
 related:
-- id: "con-responsibility", title: "المسؤولية الوجودية", type: "مفهوم"
+- id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
 study_year: 1968
 design: "تجربة معملية"
 main_finding: "احتمالية وسرعة تدخل المشارك لنجدة ضحية تنخفض كلما زاد عدد الشهود المعتقد وجودهم، بسبب توزيع المسؤولية"

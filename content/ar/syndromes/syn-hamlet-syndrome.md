@@ -12,7 +12,7 @@ active_end: "مستمر"
 language: "متعدد اللغات"
 edges: []
 related:
-- id: "con-analysis-paralysis", title: "شلل التحليل والتردد المفرط", type: "مفهوم"
+- id: "con-analysis-paralysis", title: "شلل التحليل والتردد المفرط (Analysis Paralysis)", type: "مفهوم"
 - id: "dis-ocd", title: "اضطراب الوسواس القهري", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "تحليلات التحليل النفسي لمسرحية شكسبير (إرنست جونز وفرويد) وسيكولوجيا الشلل الوجودي."

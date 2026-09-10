@@ -14,11 +14,11 @@ cultural_origin: "indigenous"
 active_start: 1990
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-indigenous-philosophy-contemporary", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-indigenous-philosophy-contemporary", target_type: "مدرسة"
 related:
-- id: "sch-interculturalidad", title: "فلسفة العبور الثقافي", type: "مدرسة"
+- id: "sch-interculturalidad", title: "فلسفة العبور الثقافي (Interculturalidad)", type: "مدرسة"
 - id: "sch-indigenismo", title: "الإنديجينيزمو", type: "مدرسة"
-- id: "sch-decolonial-latin", title: "الفلسفة الديكولونيالية اللاتينية", type: "مدرسة"
+- id: "sch-decolonial-latin", title: "الفلسفة الديكولونيالية اللاتينية الأمريكية", type: "مدرسة"
 - id: "con-buen-vivir-sumak-kawsay", title: "العيش الكريم المتناغم (Buen Vivir / Sumak Kawsay)", type: "مفهوم"
 gaps:
   - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."

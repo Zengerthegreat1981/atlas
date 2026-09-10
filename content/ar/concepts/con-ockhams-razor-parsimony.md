@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-william-ockham", title: "وليم الأوكامي", type: "مفكر"
 - id: "sch-ockhamism", title: "الأوكامية / الاسمية", type: "مدرسة"
-- id: "wrk-summa-logicae-ockham", title: "خلاصة المنطق لوليم الأوكامي (Summa Logicae)", type: "عمل"
+- id: "wrk-summa-logicae-ockham", title: "خلاصة المنطق لوليم الأوكامي (Summa Logicae)", type: "عمل / كتاب"
 - id: "con-ockhams-razor", title: "شفرة أوكام — مبدأ الاقتصاد المعرفي (Ockham's Razor)", type: "مفهوم"
 - id: "con-falsificationism-popper", title: "معيار القابلية للتكذيب والحد المعرفي (Falsificationism)", type: "مفهوم"
 gaps:

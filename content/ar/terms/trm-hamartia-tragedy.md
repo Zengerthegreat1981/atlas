@@ -14,7 +14,7 @@ edges:
 related:
 - id: "sch-aristotelianism", title: "المشائية / الأرسطية (Aristotelianism)", type: "مدرسة"
 - id: "thk-aristotle", title: "أرسطو", type: "مفكر"
-- id: "trm-catharsis-aristotle-freud", title: "الكاثارسيس", type: "مصطلح لغوي متنازع عليه"
+- id: "trm-catharsis-aristotle-freud", title: "الكاثارسيس (Catharsis): التطهير التراجيدي والتفريغ الانفعالي", type: "مصطلح لغوي متنازع عليه"
 gaps:
   - "لا يوجد رابط wrk- في الأطلس لكتاب أرسطو 'فن الشعر' (Poetics) نفسه — يحتاج طلب slug جديد."
   - "مدى مسؤولية البطل الأخلاقية عن الهامارتيا (هل هي قصور معرفي بحت أم فيها أثر أخلاقي جزئي) مسألة خلافية بين شراح أرسطو ولم يُحسم فيها موقف واحد هنا."

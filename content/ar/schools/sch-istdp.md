@@ -19,7 +19,7 @@ edges:
 - rel: "developed_by", target: "thk-hdavanloo", target_type: "مفكر"
 related:
 - id: "thk-hdavanloo", title: "حبيب دَفانلو", type: "مفكر"
-- id: "con-repression", title: "الكبت والآليات الدفاعية الأولية", type: "مفهوم"
+- id: "con-repression", title: "الكبت والآليات الدفاعية الأولية (Repression)", type: "مفهوم"
 - id: "con-transference", title: "التحويل والتحويل المقابل في العلاقة العلاجية (Transference)", type: "مفهوم"
 - id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
 - id: "tec-istdp", title: "العلاج الديناميكي المكثف قصير المدى (ISTDP)", type: "تقنية/تدخل علاجي"

@@ -15,7 +15,7 @@ edges:
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-- id: "con-unconscious", title: "اللاوعي", type: "مفهوم"
+- id: "con-unconscious", title: "اللاشعور / اللاوعي النفسي الكلاسيكي (The Unconscious)", type: "مفهوم"
 gaps:
   - "التمييز بين اللاوعي التحليلي واللاوعي المعرفي العصبي لم يُمثَّل بعمق كافٍ."
   - "نقد فرويد للوعي الزائف (consciousness as epiphenomenon) يحتاج تفصيلاً فلسفياً."

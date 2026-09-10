@@ -18,8 +18,8 @@ related:
 - id: "thk-laing", title: "ر. د. لاينغ", type: "مفكر"
 - id: "thk-szasz", title: "توماس ساس", type: "مفكر"
 - id: "thk-dcooper", title: "ديفيد كوبر", type: "مفكر"
-- id: "crt-anti-psychiatry-critique", title: "نقد مناهضة الطب النفسي المؤسسي: DSM كأداة سيطرة", type: "نقد"
-- id: "rel-transpersonal-jungian", title: "عبر الشخصية والتحليلية اليونغية: من Wilber إلى Edinger", type: "علاقة بين مدرستين"
+- id: "crt-anti-psychiatry-critique", title: "نقد مناهضة الطب النفسي المؤسسي: DSM كأداة سيطرة", type: "نقد خارجي موثَّق"
+- id: "rel-transpersonal-jungian", title: "عبر الشخصية والتحليلية اليونغية: أبٌ لا يُنكَر وابنٌ يُراجِعه", type: "علاقة بين مدرستين"
 gaps:
   - "العلاقة بين فوكو و Szasz موثّقة جزئياً (Szasz انتقد فوكو عام 1970)، لكن التفاصيل الأكاديمية للنقد المتبادل بين فوكو و Szasz لم تُحلّل في هذا الملف."
   - "Deleuze و Guattari (Anti-Oedipus، 1972) استلهموا فوكو لكن في اتجاه مختلف عن فوكو، تفاصيل العلاقة في هذا الملف غير مكتملة."

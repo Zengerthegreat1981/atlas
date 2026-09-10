@@ -15,7 +15,7 @@ edges:
 related:
 - id: "sch-istdp", title: "العلاج النفسي الديناميكي قصير المدى المكثف (ISTDP)", type: "مدرسة"
 - id: "thk-hdavanloo", title: "حبيب دَفانلو", type: "مفكر"
-- id: "dis-panic-disorder", title: "اضطراب الهلع", type: "اضطراب"
+- id: "dis-panic-disorder", title: "اضطراب الهلع", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-somatic-experiencing", title: "التجربة الجسدية للصدمة (SE)", type: "تقنية/تدخل علاجي"
 gaps:
   - "دراسة أثبتت أو نفت هذا البروتوكول تحديداً (بمعزل عن ISTDP ككل) بعيّنة ومقياس نتيجة محدد لم تُراجع بعد."

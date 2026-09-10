@@ -9,17 +9,19 @@ crumb: "التحليل النفسي ← الناس ← اللاكانية (تط�
 dates: "سلوفينيا · مواليد 1949"
 country: "سلوفينيا"
 language: "الإنجليزية / السلوفينية / الفرنسية"
-part: "philosophy"
-active_start: null
+part: "psychology"
+active_start: 1949
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-ystavrakakis", title: "يانيس ستافراكاكيس", type: "مفكر"
 - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
-- id: "thk-hegel", title: "هيغل", type: "مفكر"
+- id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
 gaps:
   - "قائمة مؤلفاته تتجاوز 60 عنواناً؛ لم يُثبَّت هنا سوى الأبرز، وتواريخ الترجمات العربية غير مثبتة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («سلوفينيا · مواليد 1949») فاستُخرجت: 1949."
 ---
 
 # سلافوي جيجك

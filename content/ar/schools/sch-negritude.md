@@ -15,9 +15,9 @@ active_start: 1932
 active_end: 1980
 edges: []
 related:
-- id: "sch-pan-africanism", title: "عموم أفريقيا", type: "مدرسة"
+- id: "sch-pan-africanism", title: "عموم أفريقيا (Pan-Africanism)", type: "مدرسة"
 - id: "sch-african-national-ideology", title: "الفلسفة الوطنية-الأيديولوجية الأفريقية", type: "مدرسة"
-- id: "sch-afrocentrism", title: "أفريقية المركز", type: "مدرسة"
+- id: "sch-afrocentrism", title: "أفريقية المركز (Afrocentrism)", type: "مدرسة"
 - id: "sch-african-socialism", title: "الاشتراكية الأفريقية", type: "مدرسة"
 - id: "thk-cesaire", title: "إيمي سيزير", type: "مفكر"
 - id: "sch-caribbean-philosophy", title: "فلسفة الكاريبي (الهوية والكريولية)", type: "مدرسة"

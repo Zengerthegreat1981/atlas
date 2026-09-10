@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-daoism-philosophical", target_type: "مدرسة"
 related:
 - id: "thk-laozi", title: "لاو تزو (لاو دان)", type: "مفكر"
-- id: "met-daoist-uncarved-block", title: "الخشب غير المنحوت", type: "استعارة/مجاز مؤسِّس"
+- id: "met-daoist-uncarved-block", title: "الخشب غير المنحوت (Pu) في الطاوية: استعارة البساطة الفطرية والانسجام", type: "استعارة/مجاز مؤسِّس"
 - id: "ctx-warring-states-china-hundred-schools", title: "عصر الممالك المتحاربة في الصين وازدهار «مائة مدرسة فكرية»", type: "سياق/تقليد"
 gaps:
   - "الترجمات الإنجليزية المتنافسة لـWu Wei (Slingerland مقابل ترجمات Ames وHall) تحتاج مقارنة نصية مباشرة لم تُنجز هنا."

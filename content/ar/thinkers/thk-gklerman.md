@@ -20,7 +20,7 @@ related:
 - id: "sch-ipt", title: "العلاج بين الأشخاص (IPT)", type: "مدرسة"
 - id: "thk-mweissman", title: "ميري وايسمان", type: "مفكر"
 - id: "con-ipt-focus", title: "التركيز على المشكلات الشخصية (IPT)", type: "مفهوم"
-- id: "dis-mdd", title: "الاكتئاب", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: علاج الاكتئاب (sch-depression-treatment)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: ميرنا وايسمان (thk-mmyrna)"

@@ -18,9 +18,9 @@ related:
 - id: "tec-act-ca-smart-goals-in-act", title: "الأهداف الذكية (SMART) في ACT", type: "تقنية/تدخل علاجي"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
-- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب"
-- id: "dis-binge-eating-disorder", title: "اضطراب نهم الطعام", type: "اضطراب"
-- id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-binge-eating-disorder", title: "اضطراب نهم الطعام", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "بيتر غولفيتزر (Peter Gollwitzer)، مبتكر Implementation Intentions الأصلية، غير موجود بslug في الأطلس (لا thk له) — لا يمكن الربط به رغم ذكره بالاسم في المتن."
   - "لا توجد دراسة ميتا-تحليل موثّقة في EXISTING_SLUGS لأبحاث Gollwitzer نفسها (لا stu- مطابقة)، لذا evidence_level هنا مبني على تصنيف ACT العام لا على دراسة Implementation Intentions مباشرة."

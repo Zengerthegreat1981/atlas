@@ -14,13 +14,13 @@ cultural_origin: "indian"
 active_start: -500
 active_end: -350
 edges:
-- rel: "evolved_from", target: "sch-shramana", target_type: "مظلة"
+- rel: "evolved_from", target: "sch-shramana", target_type: "مدرسة"
 related:
 - id: "sch-shramana", title: "المدارس الشرامنية المبكرة", type: "مدرسة"
 - id: "sch-theravada", title: "ثيرافادا", type: "مدرسة"
-- id: "sch-abhidharma", title: "سارفاستيفادا", type: "مدرسة"
+- id: "sch-abhidharma", title: "مدارس الأبيدارما (سارفاستيفادا، فايبهاشيكا، سوترانتيكا)", type: "مدرسة"
 - id: "sch-mahasanghika", title: "الماهاسامغيكا", type: "مدرسة"
-- id: "sch-madhyamaka", title: "مادهياماكا", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
 - id: "exp-alan-watts-satori-awakening", title: "تجارب آلان واتس الاستنارية في نقل حكمة الزن إلى الغرب", type: "خبرة معيشة"
 - id: "trm-karma-eastern", title: "الكارما (Karma): قانون الفعل والجزاء الأخلاقي والمسؤولية الكونية", type: "مصطلح لغوي متنازع عليه"
 - id: "met-buddhist-monkey-mind", title: "عقل القرد في البوذية: استعارة التشتت والقفز المستمر بين الأفكار", type: "استعارة/مجاز مؤسِّس"

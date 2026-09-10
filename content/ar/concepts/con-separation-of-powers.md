@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-enlightenment", target_type: "مدرسة"
 related:
 - id: "thk-montesquieu", title: "مونتسكيو", type: "مفكر"
-- id: "wrk-spirit-of-the-laws-montesquieu", title: "روح القوانين لمونتسكيو", type: "عمل"
+- id: "wrk-spirit-of-the-laws-montesquieu", title: "روح القوانين لمونتسكيو", type: "عمل / كتاب"
 - id: "thk-locke", title: "جون لوك", type: "مفكر"
 gaps:
   - "أثر لوك المباشر على مونتسكيو (عبر فصله بين السلطة التشريعية والتنفيذية في «الحكومة المدنية الثاني»، 1689) يحتاج تفصيلاً أدق من الإحالة العامة الحالية."

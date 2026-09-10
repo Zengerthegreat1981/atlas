@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-rawlsianism", target_type: "مدرسة"
 related:
 - id: "thk-rawls", title: "جون رولز", type: "مفكر"
-- id: "wrk-a-theory-of-justice-rawls", title: "نظرية في العدالة لجون رولز", type: "عمل"
+- id: "wrk-a-theory-of-justice-rawls", title: "نظرية في العدالة لجون رولز", type: "عمل / كتاب"
 - id: "con-original-position-veil-of-ignorance", title: "الوضع الأصلي وحجاب الجهل (Original Position & Veil of Ignorance)", type: "مفهوم"
 - id: "con-social-contract-theory", title: "نظرية العقد الاجتماعي (Social Contract)", type: "مفهوم"
 - id: "con-political-liberalism", title: "الإجماع المتداخل", type: "مفهوم"

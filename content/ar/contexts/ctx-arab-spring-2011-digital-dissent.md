@@ -2,7 +2,7 @@
 slug: "ctx-arab-spring-2011-digital-dissent"
 id: "CTX-0048"
 type: "سياق/تقليد"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "الربيع العربي (2011) وثورات الميادين وسيكولوجيا كسر الخوف"
 en: "The Arab Spring (2011): Tahrir Square, Digital Mobilization, and Overcoming Fear"
@@ -13,10 +13,11 @@ edges:
 - rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
 - id: "ctx-arabic-nahda", title: "سياق عصر النهضة الفكرية والنفسية العربية وتحديث الفكر", type: "سياق/تقليد"
-- id: "ctx-iranian-revolution-1979-political-islam", title: "الثورة الإيرانية (1979)", type: "سياق/تقليد"
+- id: "ctx-iranian-revolution-1979-political-islam", title: "الثورة الإيرانية (1979) وصعود الإسلام السياسي كفاعل جيوسياسي", type: "سياق/تقليد"
 gaps:
   - "لم تُراجع مباشرة إحصاءات ضحايا كل ثورة قطرياً (تونس، مصر، ليبيا، سوريا، اليمن) من مصادر أممية أولية ضمن هذا المشروع."
   - "الأدب النفسي المتخصص عن 'كسر جدار الخوف' (كمفهوم إكلينيكي موثق لا استعارة صحفية) غير موثق بعد بمصدر أكاديمي محدد."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-social-psychology` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 # الربيع العربي (2011) وثورات الميادين وسيكولوجيا كسر الخوف
 

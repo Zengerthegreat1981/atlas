@@ -12,7 +12,7 @@ active_end: "مستمر"
 language: "متعدد اللغات"
 edges: []
 related:
-- id: "syn-broken-heart-takotsubo", title: "متلازمة تاكوتسوبو", type: "متلازمة"
+- id: "syn-broken-heart-takotsubo", title: "متلازمة تاكوتسوبو (متلازمة القلب المنكسر النفسية الجسدية)", type: "متلازمة"
 - id: "dis-acute-stress-disorder", title: "اضطراب الكرب الحاد", type: "اضطراب/حالة إكلينيكية"
 - id: "con-will-to-live-schopenhauer", title: "إرادة الحياة العمياء (Will to Live)", type: "مفهوم"
 gaps:

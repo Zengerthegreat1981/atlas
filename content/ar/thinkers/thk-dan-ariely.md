@@ -14,7 +14,7 @@ active_start: 1998
 active_end: "مستمر"
 edges: []
 related:
-- id: "wrk-predictably-irrational", title: "اللامنطقية المتوقعة", type: "عمل / كتاب"
+- id: "wrk-predictably-irrational", title: "اللامنطقية المتوقعة: القوى الخفية التي تشكل قراراتنا", type: "عمل / كتاب"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثوق من *Predictably Irrational* (2008) بترجمة عربية معتمدة."

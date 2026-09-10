@@ -19,7 +19,7 @@ related:
 - id: "con-trauma", title: "الصدمة النفسية في التحليلية", type: "مفهوم"
 - id: "con-complex-ptsd", title: "اضطراب الكرب التالي للصدمة المعقد (C-PTSD)", type: "مفهوم"
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
-- id: "br-feminist-therapy", title: "العلاج النفسي النسوي", type: "تيار"
+- id: "br-feminist-therapy", title: "العلاج النفسي النسوي — الإنسانية وما بعدها", type: "تيار"
 - id: "crt-diagnosis-feminist", title: "نقد التشخيص: المنظور النسوي", type: "نقد خارجي موثَّق"
 gaps:
   - "Kaplan (1983) *The 'New Narcissism' in the BORDERLINE Patient*، Caplan (1995) *They Say You're Crazy*، Herman (1992) *Trauma and Recovery* — لم تُراجع من مصادر أولية مباشرة في هذه المسودة."

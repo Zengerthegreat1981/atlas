@@ -10,7 +10,7 @@ dates: "أمريكا · 1899–1996"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
-active_start: null
+active_start: 1899
 active_end: 1996
 edges:
 - rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
@@ -21,6 +21,7 @@ related:
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Good-bye, Teacher…* (1968) بترجمة عربية معتمدة."
   - "لم تُراجع مقالات كيلّر في *Journal of Applied Behavior Analysis* في أصولها."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («أمريكا · 1899–1996») فاستُخرجت: 1899."
 ---
 
 # فريد س. كيلّر

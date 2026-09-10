@@ -9,7 +9,7 @@ crumb: "علم نفس الجسد ← الناس ← Bioenergetics في ألما�
 dates: "ألمانيا · 1964–"
 country: "ألمانيا"
 language: "الألمانية / الإنجليزية"
-part: "psychology"
+part: "philosophy"
 active_start: 1997
 active_end: "مستمر"
 edges:
@@ -21,6 +21,7 @@ related:
 - id: "thk-epierrakos", title: "إيڤا بيراكوس (بروش)", type: "مفكر"
 gaps:
   - "لائحة أعماله المنشورة بالألمانية لم تُراجع بالكامل من مصدر أولي؛ الاعتماد على السيرة المنشورة على موقع IIBA/SGfBA."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-somatic-experiencing` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # توماس هاينريش

@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-goleman", title: "دانيال غولمان", type: "مفكر"
 - id: "wrk-emotional-intelligence", title: "الذكاء العاطفي", type: "عمل / كتاب"
-- id: "trm-alexithymia-psychosomatic", title: "الأليكسيثيميا (Alexithymia): العجز عن قراءة وتسمية الانفعالات", type: "مصطلح"
+- id: "trm-alexithymia-psychosomatic", title: "الأليكسيثيميا (Alexithymia): العجز عن قراءة وتسمية الانفعالات", type: "مصطلح لغوي متنازع عليه"
 - id: "ins-msceit-emotional-intelligence", title: "اختبار ماير-سالوفي-كاروسو للذكاء العاطفي (MSCEIT)", type: "أداة قياس"
 gaps:
   - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."

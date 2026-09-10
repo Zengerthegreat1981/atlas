@@ -19,7 +19,7 @@ related:
 - id: "dis-prolonged-grief", title: "اضطراب الحزن المطوّل", type: "اضطراب/حالة إكلينيكية"
 - id: "dbt-prolonged-grief-disorder-legitimacy", title: "جدل شرعنة اضطراب الحزن المطوّل", type: "جدل"
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-- id: "con-grief", title: "الحزن كمسار للتفريد", type: "مفهوم"
+- id: "con-grief", title: "الحزن كمسار للتفرّد", type: "مفهوم"
 gaps:
   - "التأكيد المعاصر على أن المراحل ليست خطية متسلسلة بل أمواجاً وجدانية متداخلة."
 ---

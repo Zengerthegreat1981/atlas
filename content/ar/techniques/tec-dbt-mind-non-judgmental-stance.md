@@ -15,7 +15,7 @@ edges:
 evidence_level: "probably-efficacious"
 related:
 - id: "tec-dbt-mind-observe", title: "الملاحظة", type: "تقنية/تدخل علاجي"
-- id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
+- id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري (ACT)", type: "تقنية/تدخل علاجي"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
 - id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"

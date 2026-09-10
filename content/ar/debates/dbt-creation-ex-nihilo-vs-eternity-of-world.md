@@ -16,9 +16,9 @@ related:
 - id: "thk-ibn-rushd", title: "أبو الوليد محمد بن أحمد بن رشد (الشارح الأكبر)", type: "مفكر"
 - id: "thk-thomas-aquinas", title: "القديس توما الإكويني", type: "مفكر"
 - id: "thk-john-philoponus", title: "يوحنا فيلوبونوس (النحوي)", type: "مفكر"
-- id: "wrk-tahafut-al-falasifa-ghazali", title: "تهافت الفلاسفة لأبي حامد الغزالي", type: "عمل"
-- id: "wrk-tahafut-al-tahafut-averroes", title: "تهافت التهافت لابن رشد", type: "عمل"
-- id: "dia-ghazali-averroes-dispute", title: "السجال الميتافيزيقي بين الغزالي وابن رشد حول السببية", type: "حوار"
+- id: "wrk-tahafut-al-falasifa-ghazali", title: "تهافت الفلاسفة لأبي حامد الغزالي", type: "عمل / كتاب"
+- id: "wrk-tahafut-al-tahafut-averroes", title: "تهافت التهافت لابن رشد", type: "عمل / كتاب"
+- id: "dia-ghazali-averroes-dispute", title: "السجال الميتافيزيقي بين الغزالي وابن رشد حول السببية", type: "حوار مع مدرسة مجاورة"
 gaps:
   - "حجة الأكويني الخاصة بأن العقل وحده لا يحسم المسألة (الخلق حدث إيماني لا برهاني) — تحتاج اقتباساً مباشراً من Summa Theologiae I, q.46."
 ---

@@ -11,20 +11,21 @@ dates: "نيويورك · ثمانينيات القرن العشرين"
 active_start: 1983
 active_end: "مستمر"
 language: "الإنجليزية"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-mitchell", target_type: "مفكر"
 - rel: "developed_by", target: "thk-jgreenberg", target_type: "مفكر"
 related:
 - id: "thk-mitchell", title: "ستيفن ميتشل", type: "مفكر"
-- id: "thk-jbenjamin", title: "جيسيكا بنجامين", type: "مفكر"
+- id: "thk-jbenjamin", title: "جيسيكا بِنْجامِين", type: "مفكر"
 - id: "thk-bromberg", title: "فيليب برومبرغ", type: "مفكر"
 - id: "thk-chodorow", title: "نانسي تشودورو", type: "مفكر"
 - id: "thk-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"
 gaps:
   - "التمييز بين التحليل العلائقي كحركة واسعة ونظرية البين-ذاتية وسيكولوجيا الذات يحتاج تدقيقاً."
   - "مفهوم 'التمثيل المشترك' (Enactment) ودوره الإكلينيكي في المدرسة العلائقية المعاصرة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # التحليل النفسي العلائقي الأمريكي

@@ -13,13 +13,13 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "التنويم الذاتي ← تطوير ← ستيغ راسموسن"
 edges:
-- rel: "belongs_to", target: "tec-self-hypnosis-progressive", target_type: "تيار"
+- rel: "belongs_to", target: "tec-self-hypnosis-progressive", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-emilecoue", title: "إميل كوي", type: "مفكر"
 - id: "thk-ovogt", title: "أوسكار فوغت", type: "مفكر"
 - id: "thk-merickson", title: "ميلتون إريكسون", type: "مفكر"
 - id: "thk-wkroger", title: "وليام كروغر", type: "مفكر"
-- id: "tec-self-hypnosis-progressive", title: "التنويم الذاتي (كإطار علاجي)", type: "تقنية"
+- id: "tec-self-hypnosis-progressive", title: "التنويم الذاتي (كإطار علاجي)", type: "تقنية/تدخل علاجي"
 gaps:
   - "إحالة معلَّقة أُزيلت: «ب. ك. ب. كابلان» (thk-bkapp) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
   - "إحالة معلَّقة أُزيلت: «بريندان هيلي» (thk-phealey) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."

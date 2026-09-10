@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1970
 active_end: 2002
-part: "philosophy"
+part: "psychology"
 register: "literary"
 crumb: "الشعر العلاجي ← تعليم الشعر ← كينيث كوخ"
 edges:
@@ -20,6 +20,7 @@ related:
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Wishes, Lies, and Dreams: Teaching Children to Write Poetry* (1970) بترجمة عربية معتمدة."
   - "لا تعاون أو التقاء موثَّق بين كوخ ونيكولاس مازا (thk-lmazza)؛ الرابط بينهما في هذا الملف اصطلاحي فقط (كلاهما مرجع في أدبيات الشعر العلاجي)، لا تاريخي."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-poetry-therapy` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # كينيث كوخ

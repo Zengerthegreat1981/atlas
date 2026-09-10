@@ -20,7 +20,7 @@ edges:
 - rel: "belongs_to", target: "sch-chinese-liberalism-modern", target_type: "مدرسة"
 related:
 - id: "sch-chinese-liberalism-modern", title: "الليبرالية الصينية الحديثة", type: "مدرسة"
-- id: "thk-hu-shi", title: "هو شي", type: "مفكر"
+- id: "thk-hu-shi", title: "هو شي (Hu Shih)", type: "مفكر"
 gaps:
   - "لم تُراجع بعدُ طبعة The Commercial Press (商务印书馆) الأصلية، 1919، مباشرةً؛ الاعتماد هنا على وصف ثانوي للمحتوى."
   - "لا يوجد اقتباس مباشر موثّق من الكتاب في هذا الملف."

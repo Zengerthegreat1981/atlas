@@ -21,10 +21,10 @@ related:
 - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
 - id: "con-isolation", title: "العزلة", type: "مفهوم"
 - id: "con-alienation-marx", title: "الاغتراب الماركسي (Entfremdung)", type: "مفهوم"
-- id: "evt-weimar-congress-split-1911", title: "انشقاق ألفرد أدلر عن جمعية فيينا للتحليل النفسي وتأسيس علم النفس الفردي", type: "حدث تاريخي"
+- id: "evt-weimar-congress-split-1911", title: "انشقاق ألفرد أدلر عن جمعية فيينا للتحليل النفسي وتأسيس علم النفس الفردي (1911)", type: "حدث تاريخي"
 - id: "br-integrative-psychoanalysis", title: "التحليل النفسي التكاملي", type: "تيار"
 - id: "br-neo-freudian", title: "الفرويدية الجديدة والتحليل البيني-الشخصي", type: "تيار"
-- id: "rel-hegelianism-psychoanalysis", title: "الهيغلية والتحليل النفسي: من ماركس إلى لاكان", type: "علاقة بين مدرستين"
+- id: "rel-hegelianism-psychoanalysis", title: "الهيغلية والتحليل النفسي", type: "علاقة بين مدرستين"
 - id: "con-neo-freudian", title: "الفرويدية الجديدة (Neo-Freudian)", type: "مفهوم"
 gaps:
   - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-psychoanalysis` بحسب المجال المُصحَّح في مسار التنقّل («التحليل النفسي»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."

@@ -15,7 +15,7 @@ related:
 - id: "thk-paul-ekman", title: "بول إيكمان", type: "مفكر"
 - id: "br-affective-neuroscience-informed", title: "العلاج المستنير بعلم الأعصاب الوجداني", type: "تيار"
 - id: "con-anxiety", title: "القلق", type: "مفهوم"
-- id: "dis-specific-phobia", title: "الرهاب المحدد", type: "اضطراب"
+- id: "dis-specific-phobia", title: "الرهاب المحدد", type: "اضطراب/حالة إكلينيكية"
 - id: "ctx-arabic-self", title: "النفس في التراث العربي الإسلامي", type: "سياق/تقليد"
 - id: "stu-himba-facial", title: "دراسة الهيمبا حول تصنيف تعبيرات الوجه", type: "دراسة وبحث"
 - id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"

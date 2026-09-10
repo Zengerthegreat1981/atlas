@@ -14,11 +14,11 @@ active_start: -600
 active_end: 1200
 cultural_origin: "indian"
 edges:
-- rel: "evolved_from", target: "sch-shramana", target_type: "مظلة"
+- rel: "evolved_from", target: "sch-shramana", target_type: "مدرسة"
 related:
 - id: "sch-shramana", title: "المدارس الشرامنية المبكرة", type: "مدرسة"
 - id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
-- id: "sch-ajivika", title: "آجيفيكا", type: "مدرسة"
+- id: "sch-ajivika", title: "آجيفيكا (القدرية الهندية)", type: "مدرسة"
 - id: "sch-jainism", title: "الجاينية الفلسفية", type: "مدرسة"
 - id: "thk-charvaka", title: "تشارڤاكا (مؤسس لوكاياتا / المادية الهندية)", type: "مفكر"
 - id: "br-charvaka-lokayata-materialism", title: "المادية اللوكاياتية — مدرسة شارفاكا", type: "تيار"

@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-madhyamaka", target_type: "مدرسة"
 related:
 - id: "thk-nagarjuna", title: "ناغارجونا (مؤسس مادهياماكا)", type: "مفكر"
-- id: "wrk-mula-madhyamaka-karika-nagarjuna", title: "مولامادهياماكاركريكا لناغارجونا", type: "عمل"
+- id: "wrk-mula-madhyamaka-karika-nagarjuna", title: "مولامادهياماكاركريكا لناغارجونا", type: "عمل / كتاب"
 - id: "sch-abhidharma", title: "مدارس الأبيدارما (سارفاستيفادا، فايبهاشيكا، سوترانتيكا)", type: "مدرسة"
 - id: "sch-nyaya", title: "نيايا (المنطق الكلاسيكي الهندي)", type: "مدرسة"
 - id: "thk-chandrakirti", title: "تشاندركيرتي", type: "مفكر"

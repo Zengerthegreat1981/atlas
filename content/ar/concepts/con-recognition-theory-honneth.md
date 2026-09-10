@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-axel-honneth", title: "أكسل هونيث", type: "مفكر"
 - id: "sch-frankfurt-school", title: "النظرية النقدية / مدرسة فرانكفورت (Frankfurter Schule)", type: "مدرسة"
-- id: "wrk-hegel-phenomenology-spirit", title: "كتاب فينومينولوجيا الروح لجورج هيغل (1807)", type: "عمل"
+- id: "wrk-hegel-phenomenology-spirit", title: "كتاب فينومينولوجيا الروح لجورج هيغل (1807)", type: "عمل / كتاب"
 - id: "con-recognition-struggle", title: "الاعتراف (النضال من أجله)", type: "مفهوم"
 gaps:
   - "ملاحظة ازدواج محتمل: هذا الملف وcon-recognition-struggle كلاهما يغطّي نظرية الاعتراف عند هونيث من زاويتين متقاربتين؛ تحقق فعلي أكّد وجود الملفين منفصلين بعنوانين مختلفين حرفياً، فأُبقيا منفصلين مع ربط متبادل بدل الدمج — قرار الدمج/الفصل النهائي خارج نطاق هذه المهمة."

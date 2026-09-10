@@ -11,7 +11,7 @@ dates: "من 1990s"
 active_start: 1994
 active_end: "مستمر"
 language: "الإنجليزية/الخوسا/الزولو"
-part: "psychology"
+part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-ubuntu", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-dtutu", target_type: "مفكر"
@@ -25,6 +25,7 @@ related:
 - id: "con-ubuntu", title: "الأوبونتو (Ubuntu)", type: "مفهوم"
 gaps:
   - "الامتداد العلاجي لـUbuntu (Ubuntu Therapy, Mpho Tutu) لم يُوثّق بدقة كافية."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-ubuntu` موسومٌ «philosophy» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # علم نفس الأوبونتو

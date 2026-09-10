@@ -14,7 +14,7 @@ active_start: 1836
 active_end: 1860
 cultural_origin: "anglo-american"
 edges:
-- rel: "belongs_to", target: "sch-romanticism", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-romanticism", target_type: "مدرسة"
 - rel: "evolved_into", target: "sch-pragmatism-classical", target_type: "مدرسة"
 related:
 - id: "sch-neo-vedanta", title: "نيو-فيدانتا (الفيدانتا الحديثة)", type: "مدرسة"

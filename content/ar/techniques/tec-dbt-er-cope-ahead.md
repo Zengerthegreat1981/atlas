@@ -18,7 +18,7 @@ related:
 - id: "tec-dbt-spec-cope-ahead-for-trauma-triggers", title: "الاستعداد المسبق لمحفزات الصدمة", type: "تقنية/تدخل علاجي"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
-- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب"
+- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-prolonged-exposure", title: "التعرض المطوّل (PE)", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا يوجد في الأطلس ملف دراسة (stu-/std-) يفحص فعالية «الاستعداد المسبق للتأقلم» تحديداً كمهارة منفصلة عن حزمة ABC PLEASE أو حزمة DBT الكاملة."

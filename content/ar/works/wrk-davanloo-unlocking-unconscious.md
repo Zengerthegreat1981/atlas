@@ -20,7 +20,7 @@ related:
 - id: "thk-hdavanloo", title: "حبيب دَفانلو", type: "مفكر"
 - id: "con-istdp-unlocking", title: "فتح اللاوعي (Unlocking the Unconscious, ISTDP)", type: "مفهوم"
 - id: "con-istdp-key-techniques", title: "التقنيات الأساسية في ISTDP: تحدّي الدفاع، تحمّل القلق، تحليل الأنا الأعلى، والتخلّل العلاجي", type: "مفهوم"
-- id: "tec-istdp-head-on-collision", title: "تقنية المواجهة الصريحة مع المقاومة في ISTDP", type: "تقنية"
+- id: "tec-istdp-head-on-collision", title: "تقنية المواجهة الصريحة مع المقاومة في ISTDP", type: "تقنية/تدخل علاجي"
 gaps:
   - "إحالة معلَّقة أُزيلت: «ديفيد مالان» (thk-malan) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
   - "إحالة معلَّقة أُزيلت: «بيتر سيفنيوس» (thk-sifneos) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."

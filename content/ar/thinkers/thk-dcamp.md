@@ -11,7 +11,7 @@ country: "كندا"
 language: "الإنجليزية"
 active_start: 2000
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "tec-collaborative-language-systems", target_type: "تقنية/تدخل علاجي"
 related:
@@ -22,6 +22,7 @@ gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
   - "مرشح للحجر (quarantine candidate): بحث ويب مكثف (بالاسمين Dennise Campbell وDenise Campbell، مع 'collaborative language systems' و'Canadian Journal of Counselling and Psychotherapy') لم يعثر على أي أثر مستقل لمعالِجة أسرية كندية بهذا الاسم مرتبطة بهذا النموذج العلاجي أو بهذه المنشورات. لا صفحة أكاديمية، لا سيرة ذاتية، لا استشهادات. يُشتبه بأن الملف قد يكون تلفيقاً أو خلطاً مع شخص آخر؛ يوصى بمراجعة يدوية أو حجر الملف حتى يُثبت وجودها بمصدر أولي."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-collaborative-language-systems` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # دِنيس كامبل

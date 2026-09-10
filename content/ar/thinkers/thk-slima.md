@@ -10,7 +10,7 @@ country: "البرازيل"
 language: "برتغالية"
 active_start: 1970
 active_end: 2006
-part: "psychology"
+part: "philosophy"
 crumb: "علم نفس التحرير ← أمريكا اللاتينية ← سيلفيا ليما"
 edges:
 - rel: "belongs_to", target: "br-liberation-psychology", target_type: "تيار"
@@ -21,6 +21,7 @@ related:
 gaps:
   - "قائمة منشوراتها الكاملة في PUC-SP غير مفهرسة بالعربية."
   - "علاقتها المباشرة بمارتن-بارو وثّقت في مقابلات 1985 ولم تُنشر بالعربية."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-liberation-psychology` موسومٌ «philosophy» — فوُحِّد على وسم الأب."
 ---
 
 # سيلفيا ليما

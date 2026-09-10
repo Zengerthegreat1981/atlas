@@ -15,7 +15,7 @@ related:
 - id: "thk-rawls", title: "جون رولز", type: "مفكر"
 - id: "sch-rawlsianism", title: "الليبرالية السياسية المعاصرة (الرولزية وما بعدها)", type: "مدرسة"
 - id: "con-veil-ignorance", title: "حجاب الجهل", type: "مفهوم"
-- id: "wrk-theory-of-justice", title: "نظرية العدالة (A Theory of Justice, 1971)", type: "عمل"
+- id: "wrk-theory-of-justice", title: "نظرية العدالة (A Theory of Justice, 1971)", type: "عمل / كتاب"
 - id: "thk-nozick", title: "روبرت نوزيك", type: "مفكر"
 - id: "dbt-rawls-nozick-justice", title: "جدل رولز-نوزيك: العدالة كإنصاف مقابل الحق في الاستحقاق", type: "جدل"
 gaps:

@@ -11,7 +11,7 @@ country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 2008
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-phenomenology-hermeneutic", target_type: "مدرسة"
 related:
@@ -20,6 +20,7 @@ related:
 - id: "thk-eengelhardt", title: "هـ. تريسترام إنغلهارت الابن", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدر يؤكد ارتباطها بجامعة أبردين؛ صُحّح النص للاعتماد على جامعة دندي فقط استناداً إلى صفحتها الرسمية."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-phenomenology-hermeneutic` موسومٌ «philosophy» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # دانييلا ميرسيكا

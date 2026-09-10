@@ -15,7 +15,7 @@ related:
 - id: "thk-sen", title: "أمارتيا سين", type: "مفكر"
 - id: "thk-nussbaum", title: "مارثا نوسباوم", type: "مفكر"
 - id: "thk-nozick", title: "روبرت نوزيك", type: "مفكر"
-- id: "sch-utilitarianism", title: "النفعية (Utilitarianism)", type: "مدرسة"
+- id: "sch-utilitarianism", title: "النفعية", type: "مدرسة"
 gaps:
   - "ملف con-capability-approach-sen-nussbaum.md يبدو نسخة موازية لنفس المفهوم بعنوان وصياغة مختلفين؛ يحتاج قرار دمج أو تمييز واضح لا يدخل ضمن نطاق هذه المهمة (لم يُدمج، مسجَّل هنا فقط)."
   - "النصوص التأسيسية (Sen 1981, 1999; Nussbaum 2000, 2006) تحتاج مراجعة من المصدر الأولي، ولا يوجد ملف عمل (wrk-) لأي منها بعد."

@@ -13,9 +13,9 @@ edges:
 - rel: "belongs_to", target: "sch-confucian-early", target_type: "مدرسة"
 related:
 - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
-- id: "con-li", title: "اللي (禮) — الطقس", type: "مفهوم"
-- id: "thk-confucius", title: "كونفوشيوس", type: "مفكر"
-- id: "thk-mencius", title: "منسيوس", type: "مفكر"
+- id: "con-li", title: "اللي (禮) — الطقس والأدب", type: "مفهوم"
+- id: "thk-confucius", title: "كونفوشيوس (كونغ زي)", type: "مفكر"
+- id: "thk-mencius", title: "منسيوس (منغ زي)", type: "مفكر"
 - id: "wrk-lunyu", title: "المحاورات (لون يو)", type: "عمل / كتاب"
 gaps:
   - "تطبيقات تشنغ مينغ في خطاب منسيوس (مثل 'ملك بالاسم فقط') لم تُقارن بالنص الأصلي."

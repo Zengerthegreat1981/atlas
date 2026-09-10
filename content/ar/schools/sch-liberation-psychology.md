@@ -2,7 +2,7 @@
 slug: "sch-liberation-psychology"
 id: "SCH-0361"
 type: "مدرسة"
-part: "psychology"
+part: "philosophy"
 cultural_origin: "latin-american"
 level: "متوسط"
 title: "علم نفس التحرر"
@@ -32,10 +32,11 @@ related:
 - id: "thk-pfreire", title: "باولو فريري", type: "مفكر"
 - id: "con-decolonizing-therapy", title: "العلاج اللااستعماري (Decolonizing Therapy)", type: "مفهوم"
 - id: "thk-cora-zanuso", title: "كورا زانوسو (Cora Zanuso)", type: "مفكر"
-- id: "thk-marisol-montoya", title: "ماريسول مونتويا (Marisol Montoya)", type: "مفكر"
+- id: "thk-marisol-montoya", title: "ماريسول مونتويا", type: "مفكر"
 gaps:
   - "لا تاريخ نهاية موثّق — الحقل في توسعة مع تطبيع جزئي في الجامعات الأمريكية اللاتينية الرسمية."
   - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُذف `evolved_from → sch-psychoanalysis` — مارتين-بارو خرج من علم النفس الاجتماعي ولاهوت التحرير وفريري، لا من التحليل النفسي."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-liberation-philosophy` موسومٌ «philosophy» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 # علم نفس التحرر
 

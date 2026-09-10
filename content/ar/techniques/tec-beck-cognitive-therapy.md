@@ -18,8 +18,8 @@ edges:
 - rel: "created_by", target: "thk-beck", target_type: "مفكر"
 related:
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
-- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب"
-- id: "wrk-beck-cognitive-therapy-depression", title: "كتاب العلاج المعرفي للاكتئاب لآرون بيك (1979)", type: "عمل"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
+- id: "wrk-beck-cognitive-therapy-depression", title: "كتاب العلاج المعرفي للاكتئاب لآرون بيك (1979)", type: "عمل / كتاب"
 - id: "tec-rebt", title: "العلاج العقلاني الانفعالي السلوكي (REBT)", type: "تقنية/تدخل علاجي"
 - id: "tec-schema-therapy", title: "علاج المخطط", type: "تقنية/تدخل علاجي"
 - id: "tec-cognitive-reappraisal", title: "إعادة التقييم المعرفي", type: "تقنية/تدخل علاجي"

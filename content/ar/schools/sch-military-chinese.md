@@ -16,8 +16,8 @@ active_end: -100
 active_source: "lifespan"
 related:
 - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
-- id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
-- id: "sch-zonghengjia", title: "مدرسة الدبلوماسيين", type: "مدرسة"
+- id: "sch-legalism", title: "الشرعية / القانونية (Fajia)", type: "مدرسة"
+- id: "sch-zonghengjia", title: "مدرسة الدبلوماسيين (Zonghengjia)", type: "مدرسة"
 - id: "thk-sunzi", title: "سون تزو (سون وو)", type: "مفكر"
 - id: "thk-sun-bin", title: "سون بن (孫臏)", type: "مفكر"
 - id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"

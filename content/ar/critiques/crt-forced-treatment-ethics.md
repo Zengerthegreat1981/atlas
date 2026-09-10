@@ -16,9 +16,9 @@ related:
 - id: "thk-laing", title: "ر. د. لاينغ", type: "مفكر"
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
 - id: "thk-basaglia", title: "فرانكو بازاليا", type: "مفكر"
-- id: "crt-anti-psychiatry-critique", title: "نقد مناهضة الطب النفسي المؤسسي", type: "نقد خارجي موثَّق"
+- id: "crt-anti-psychiatry-critique", title: "نقد مناهضة الطب النفسي المؤسسي: DSM كأداة سيطرة", type: "نقد خارجي موثَّق"
 - id: "br-antipsychiatry", title: "التيار المضاد للطب النفسي", type: "تيار"
-- id: "evt-deinstitutionalization-movement-1960", title: "حركة إلغاء المأسسة", type: "حدث تاريخي"
+- id: "evt-deinstitutionalization-movement-1960", title: "حركة إلغاء المأسسة وتفريغ المصحات النفسية الكبرى في أمريكا وأوروبا", type: "حدث تاريخي"
 - id: "evt-basaglia-law-italy-1978", title: "صدور قانون بازاليا في إيطاليا والإغلاق الإلزامي الكامل للمصحات النفسية", type: "حدث تاريخي"
 gaps:
   - "Szasz (1961/1963)، Chodoff (1976)، Perlin (2017) — لم تُراجع من المصدر الأولي بعد."

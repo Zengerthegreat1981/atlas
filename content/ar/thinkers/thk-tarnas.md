@@ -10,7 +10,7 @@ dates: "أمريكا · مواليد 1950"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
-active_start: null
+active_start: 1950
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
@@ -19,6 +19,7 @@ related:
 - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
 gaps:
   - "منهجه في ربط أنماط علم الفلك التاريخي بالتحولات الثقافية (Archetypal Astrology) موضع جدل أكاديمي حاد لم يُوثَّق نقاشه هنا بالتفصيل."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («أمريكا · مواليد 1950») فاستُخرجت: 1950."
 ---
 
 # ريتشارد تارناس

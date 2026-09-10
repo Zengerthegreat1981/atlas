@@ -15,8 +15,8 @@ related:
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "wrk-beck-cognitive-therapy", title: "العلاج المعرفي والاضطرابات الانفعالية (Cognitive Therapy and the Emotional Disorders)", type: "عمل / كتاب"
 - id: "wrk-beck-cognitive-therapy-depression", title: "كتاب العلاج المعرفي للاكتئاب لآرون بيك (1979)", type: "عمل / كتاب"
-- id: "exp-aaron-beck-depression-anger-inward", title: "أبحاث بيك المبكرة واكتشاف التشوهات المعرفية بدلاً من الغضب المكبوت", type: "تجربة"
-- id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية"
+- id: "exp-aaron-beck-depression-anger-inward", title: "أبحاث بيك المبكرة واكتشاف التشوهات المعرفية بدلاً من الغضب المكبوت", type: "خبرة معيشة"
+- id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
 gaps:
   - "لم يُحسم بعد ما إذا كان بيك استعمل لفظ «شريط كاسيت» حرفياً في طبعة 1976 أم أن الصياغة الشائعة تعود لشروح لاحقة لتلاميذه؛ يحتاج الأمر مراجعة نصية مباشرة للفصل الثالث من الكتاب."
 ---

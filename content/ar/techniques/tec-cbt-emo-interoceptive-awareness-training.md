@@ -17,7 +17,7 @@ edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "tec-cbt-exp-interoceptive-exposure", title: "التعرض للإحساس الداخلي", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-body-scan", title: "مسح الجسد", type: "تقنية/تدخل علاجي"
+- id: "tec-act-pres-body-scan", title: "مسح الجسد (ACT)", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-anger-management-techniques", title: "تقنيات إدارة الغضب", type: "تقنية/تدخل علاجي"
 - id: "thk-barlow", title: "ديفيد هـ. بارلو", type: "مفكر"
 - id: "dis-anxiety-due-to-medical", title: "اضطراب القلق بسبب حالة طبية أخرى", type: "اضطراب/حالة إكلينيكية"

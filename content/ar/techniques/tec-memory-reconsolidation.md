@@ -11,20 +11,21 @@ dates: "أواخر التسعينيات"
 active_start: 2010
 active_end: "مستمر"
 language: "الإنجليزية"
-part: "psychology"
+part: "philosophy"
 edges:
-- rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "تيار"
 - rel: "developed_by", target: "thk-ecker", target_type: "مفكر"
 evidence_level: "experimental"
 related:
 - id: "thk-ecker", title: "بروس إيكر", type: "مفكر"
 - id: "thk-ekandel", title: "إريك كاندِل", type: "مفكر"
 - id: "thk-jledoux", title: "جوزيف لودوكس", type: "مفكر"
-- id: "tec-emdr", title: "إزالة التحسس وإعادة المعالجة بحركات العين (EMDR)", type: "تقنية"
-- id: "tec-prolonged-exposure", title: "التعرض المطوّل (PE)", type: "تقنية"
+- id: "tec-emdr", title: "إزالة التحسس وإعادة المعالجة بحركات العين (EMDR)", type: "تقنية/تدخل علاجي"
+- id: "tec-prolonged-exposure", title: "التعرض المطوّل (PE)", type: "تقنية/تدخل علاجي"
 gaps:
   - "تقنية 'مطابقة' (Match-Cue) لاستحضار الذكرى بالظروف الأصلية قبل إدخال معلومات متناقضة تحتاج مصدراً أولياً (كتاب إيكر وأورك 2012 غير متاح للمراجعة هنا)."
   - "دور ريجل أورك (Robin Ecker/Hulley) كمطوّر مشارك للنموذج (علاج التماسك — Coherence Therapy) غير موثّق بـslug صحيح؛ لم يُدرج رابطه تجنباً لاختراع تطابق id/title."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-sensorimotor-trauma-applications` موسومٌ «philosophy» — فوُحِّد على وسم الأب."
 ---
 
 # العلاج بإعادة توحيد الذاكرة (Memory Reconsolidation Therapy)

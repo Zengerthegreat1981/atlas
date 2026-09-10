@@ -6,7 +6,7 @@ level: "مبتدئ"
 title: "التقبل الإيجابي غير المشروط (Unconditional Positive Regard)"
 en: "Unconditional Positive Regard"
 crumb: "الإنسانية ← المفاهيم ← التقبل الإيجابي غير المشروط"
-part: "philosophy"
+part: "psychology"
 active_start: null
 active_end: "مستمر"
 edges:
@@ -21,6 +21,7 @@ related:
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من روجرز بعد."
   - "التمييز بين 'التقبل غير المشروط' و'الدفء' (Warmth) يحتاج تحقق من نص روجرز الأصلي."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-humanistic` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # التقبل الإيجابي غير المشروط (Unconditional Positive Regard)

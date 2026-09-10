@@ -17,7 +17,7 @@ part: "psychology"
 related:
 - id: "con-modeling", title: "النمذجة (التعلم بالملاحظة)", type: "مفهوم"
 - id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
-- id: "con-responsibility", title: "المسؤولية الوجودية", type: "مفهوم"
+- id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
 - id: "dbt-violent-media-child-aggression", title: "جدل تأثير الشاشات والألعاب الإلكترونية العنيفة على العدوان عند الأطفال", type: "جدل"
 gaps:
   - "**دُقِّق مسار التنقّل 2026-09-08:** كان الوسمُ الأول «علم النفس» عامّاً (وُضع عند تصحيح وسمِ «المدرسة الوجودية» الخاطئ)، ورُفع إلى «علم نفس التعلّم والسلوك» بخريطةٍ يدوية."

@@ -17,9 +17,9 @@ edges:
 - rel: "evolved_from", target: "sch-buddhism-early", target_type: "مدرسة"
 related:
 - id: "sch-theravada", title: "ثيرافادا", type: "مدرسة"
-- id: "sch-abhidharma", title: "سارفاستيفادا", type: "مدرسة"
-- id: "sch-madhyamaka", title: "مادهياماكا", type: "مدرسة"
-- id: "sch-yogacara", title: "يوغاكارا", type: "مدرسة"
+- id: "sch-abhidharma", title: "مدارس الأبيدارما (سارفاستيفادا، فايبهاشيكا، سوترانتيكا)", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
+- id: "sch-yogacara", title: "يوغاكارا / فيجنانافادا", type: "مدرسة"
 gaps:
   - "النصوص الأصلية للماهاسامغيكا مفقودة (بقيت في التقليد الشفهي)."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

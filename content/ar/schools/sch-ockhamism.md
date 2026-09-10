@@ -14,12 +14,12 @@ active_start: 1310
 active_end: 1500
 cultural_origin: "european"
 edges:
-- rel: "belongs_to", target: "sch-scholasticism", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-scholasticism", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-scotism", target_type: "مدرسة"
 related:
-- id: "sch-scholasticism", title: "المدرسية (السكولاستية)", type: "مدرسة"
+- id: "sch-scholasticism", title: "المدرسية (السكولاستية) — كمظلة", type: "مدرسة"
 - id: "sch-scotism", title: "السكوتية", type: "مدرسة"
-- id: "sch-conceptualism", title: "التصورية", type: "مدرسة"
+- id: "sch-conceptualism", title: "التصورية (Conceptualism)", type: "مدرسة"
 - id: "thk-william-ockham", title: "وليم الأوكامي", type: "مفكر"
 - id: "dbt-realism-vs-nominalism", title: "الواقعية في مقابل الاسمية: الكليات — حقيقة أم اسم؟", type: "جدل"
 - id: "br-scholasticism-nominalist-via-moderna", title: "السكولاستية الاسمية والطريق الحديث (Via Moderna)", type: "تيار"

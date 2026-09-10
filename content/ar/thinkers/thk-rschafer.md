@@ -9,8 +9,8 @@ crumb: "التحليل النفسي ← الناس ← التحليل التكا
 dates: "أمريكا · 1922–2018"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-part: "philosophy"
-active_start: null
+part: "psychology"
+active_start: 1922
 active_end: 2018
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
@@ -19,6 +19,8 @@ related:
 - id: "thk-mitchell", title: "ستيفن ميتشل", type: "مفكر"
 gaps:
   - "تاريخ وفاته 5 أغسطس 2018 مؤكد من مصادر متعددة (Sigourney Award، مجلة Contemporary Psychoanalysis)، لكن تفاصيل مراسلاته الشخصية مع دونالد سبنس وجورج كلاين غير موثقة أولياً في هذا الملف."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («أمريكا · 1922–2018») فاستُخرجت: 1922."
 ---
 
 # روي شَيفِر

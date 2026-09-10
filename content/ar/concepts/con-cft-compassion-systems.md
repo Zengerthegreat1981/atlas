@@ -2,7 +2,7 @@
 slug: "con-cft-compassion-systems"
 id: "CON-0811"
 type: "مفهوم"
-part: "psychology"
+part: "philosophy"
 level: "متوسط"
 title: "الأنظمة الثلاثة لتنظيم الانفعال (CFT)"
 en: "Three Circles Model of Emotion Regulation (Gilbert)"
@@ -23,6 +23,7 @@ gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: نظام السعي (con-drive-system)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: نظام التهدئة (con-soothing-system)"
   - "التطبيقات السريرية لـ CFT مع فئات سكانية محددة (PTSD، اضطرابات الأكل) موثّقة جزئياً."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-cft` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ في الواجهة."
 ---
 
 # الأنظمة الثلاثة لتنظيم الانفعال (CFT)

@@ -17,7 +17,7 @@ related:
 - id: "thk-locke", title: "جون لوك", type: "مفكر"
 - id: "thk-rorty", title: "ريتشارد رورتي", type: "مفكر"
 - id: "wrk-philosophy-mirror-nature", title: "الفلسفة ومرآة الطبيعة (Philosophy and the Mirror of Nature)", type: "عمل / كتاب"
-- id: "crt-rorty-mirror-of-nature", title: "نقد رورتي للفلسفة كمرآة عاكسة للطبيعة", type: "نقد"
+- id: "crt-rorty-mirror-of-nature", title: "نقد رورتي للفلسفة كمرآة عاكسة للطبيعة", type: "نقد خارجي موثَّق"
 - id: "axi-tabula-rasa-rule", title: "بديهية اللوح الفارغ (Tabula Rasa Axiom)", type: "بديهية/مبدأ تأسيسي"
 gaps:
   - "**وُحِّد حقل `part` 2026-09-08:** كان «psychology» وصار «philosophy» اتّساقاً مع أشقّائه تحت `sch-phil-mind-analytic` (وأغلبيتُهم «philosophy» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."

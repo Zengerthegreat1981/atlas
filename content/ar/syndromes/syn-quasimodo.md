@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "dis-body-dysmorphic-disorder", title: "اضطراب خلل التشكّل الجسدي", type: "اضطراب/حالة إكلينيكية"
-- id: "syn-dorian-gray", title: "متلازمة دوريان غراي", type: "متلازمة"
+- id: "syn-dorian-gray", title: "متلازمة دوريان غراي (الرعب من الشيخوخة والتشبث بالشباب)", type: "متلازمة"
 - id: "con-the-look-of-the-other-sartre", title: "نظرة الآخر وتشييء الوعي (The Look of the Other)", type: "مفهوم"
 gaps:
   - "الأدبيات السيكياترية الروسية والإيطالية المستوحاة من رواية أحدب نوتردام لفيكتور هوغو."

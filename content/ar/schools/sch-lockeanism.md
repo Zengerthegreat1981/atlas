@@ -14,7 +14,7 @@ language: "الإنجليزية، اللاتينية، الفرنسية"
 active_start: 1680
 active_end: 1780
 edges:
-- rel: "belongs_to", target: "sch-british-empiricism", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-british-empiricism", target_type: "مدرسة"
 related:
 - id: "sch-british-empiricism", title: "التجريبية البريطانية (كمظلة)", type: "مدرسة"
 - id: "sch-berkeleianism", title: "المثالية الذاتية البركلية", type: "مدرسة"

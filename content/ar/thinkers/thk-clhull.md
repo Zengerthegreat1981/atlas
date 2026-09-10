@@ -10,7 +10,7 @@ dates: "أمريكا · 1884–1952"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
-active_start: null
+active_start: 1884
 active_end: 1952
 edges:
 - rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
@@ -21,6 +21,7 @@ related:
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من «مبادئ السلوك» (Principles of Behavior, 1943) بترجمة عربية معتمدة."
   - "وفاته المبكرة (1952) قبل إكمال نظريته — موضع بحث."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («أمريكا · 1884–1952») فاستُخرجت: 1884."
 ---
 
 # كلارك هال

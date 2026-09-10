@@ -2,7 +2,7 @@
 slug: "exp-bessel-van-der-kolk-vietnam-vets"
 id: "EXP-0087"
 type: "خبرة معيشة"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "لقاء فان دير كولك بالمحاربين القدامى واكتشاف تجسد الصدمة"
 en: "Bessel van der Kolk with Vietnam Veterans in Boston: How the Body Keeps the Score"
@@ -18,6 +18,7 @@ related:
 gaps:
   - "تفاصيل حوار 'توم' معاد بناؤها اعتماداً على ما ورد في مقدمة كتاب The Body Keeps the Score؛ الصياغة الحرفية للحوار في هذا الملف اجتهاد سردي وليست اقتباساً مباشراً."
   - "الملف يفترض ضمنياً أن فان دير كولك يروي بصيغة المتكلم؛ هذا أسلوب تمثيلي (dramatized first-person) وليس نقلاً حرفياً عن مقابلة أو مذكرات موثقة بنفس الصياغة."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-somatic-experiencing` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # لقاء فان دير كولك بالمحاربين القدامى واكتشاف تجسد الصدمة

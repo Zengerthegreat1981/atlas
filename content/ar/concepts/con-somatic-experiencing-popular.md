@@ -3,7 +3,7 @@ slug: "con-somatic-experiencing-popular"
 id: "CON-0745"
 type: "مفهوم"
 register: "popular"
-part: "psychology"
+part: "philosophy"
 level: "متوسط"
 title: "التجربة الجسدية وتفريغ شحنة الصدمة (Somatic Experiencing)"
 en: "Somatic Experiencing (SE Concept)"
@@ -13,13 +13,14 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
 related:
-- id: "wrk-waking-the-tiger", title: "إيقاظ النمر", type: "عمل / كتاب"
+- id: "wrk-waking-the-tiger", title: "إيقاظ النمر: شفاء الصدمة", type: "عمل / كتاب"
 - id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
-- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "con-somatic-experiencing", title: "التَّجْرِبَة الْجِسَدِيَّة (Somatic Experiencing): مَنَهَج لِـ**شِفَاء الصَّدْمَة**", type: "مفهوم"
 gaps:
   - "تطبيقات الاستشعار الجسدي (Felt Sense) في علاج الألم العضلي والصدمات المعقدة."
   - "لا توجد في هذا الملف مقتطفات منقولة حرفياً من كتاب إيقاظ النمر أو غيره من نصوص ليفين."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-somatic-experiencing` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # التجربة الجسدية وتفريغ شحنة الصدمة (Somatic Experiencing)

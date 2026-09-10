@@ -6,7 +6,7 @@ level: "مبتدئ"
 title: "روح المقابلة التحفيزية (MI Spirit)"
 en: "Motivational Interviewing Spirit"
 crumb: "الإنسانية ← المفاهيم ← روح المقابلة التحفيزية"
-part: "philosophy"
+part: "psychology"
 active_start: null
 active_end: "مستمر"
 edges:
@@ -22,6 +22,7 @@ related:
 - id: "con-unconditional-positive-regard", title: "التقبل الإيجابي غير المشروط (Unconditional Positive Regard)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من ميلر/رولنيك بعد."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-humanistic` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # روح المقابلة التحفيزية (MI Spirit)

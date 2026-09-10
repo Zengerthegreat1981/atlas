@@ -12,8 +12,8 @@ active_end: "مستمر"
 language: "متعدد اللغات"
 edges: []
 related:
-- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
-- id: "syn-restless-legs", title: "متلازمة تململ الساقين", type: "متلازمة"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
+- id: "syn-restless-legs", title: "متلازمة تململ الساقين ويليس-إيكبوم", type: "متلازمة"
 - id: "con-body-schema", title: "مخطط الجسد (Body Schema): النظام اللاواعي للحركة", type: "مفهوم"
 gaps:
   - "صياغة لاديسلاف هاسكوفيتش (Ladislav Haškovec 1901) للمصطلح ومقاييس بارنز لتقييم الأكاثيسيا (BARS) لم تُراجع بعد من مصدر أولي محقق."

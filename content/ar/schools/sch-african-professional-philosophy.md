@@ -16,7 +16,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-ethnophilosophy", target_type: "مدرسة"
 related:
-- id: "sch-sage-philosophy", title: "فلسفة الحكيم", type: "مدرسة"
+- id: "sch-sage-philosophy", title: "فلسفة الحكيم (Sage Philosophy)", type: "مدرسة"
 - id: "sch-ethnophilosophy", title: "الإثنوفلسفة", type: "مدرسة"
 - id: "sch-african-hermeneutical", title: "الفلسفة الأفريقية التأويلية", type: "مدرسة"
 - id: "thk-hountondji", title: "بولين هينتونجي", type: "مفكر"

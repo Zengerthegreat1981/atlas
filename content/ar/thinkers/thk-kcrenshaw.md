@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1989
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
 edges:
 - rel: "belongs_to", target: "br-intersectional-feminist", target_type: "تيار"
 related:
@@ -22,6 +22,7 @@ gaps:
   - "سنة الميلاد 1959 تقريبية، تستحق توثيقاً."
   - "دورها في تأطير «Critical Race Theory» يستحق توثيقاً."
   - "لا يوجد اقتباس مباشر موثوق من *Demarginalizing the Intersection of Race and Sex* (1989) بترجمة عربية معتمدة."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-intersectional-feminist` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # كيمبرلي كرينشو

@@ -8,9 +8,9 @@ en: "TEACCH Program"
 crumb: "المفاهيم ← مدارس علاجية متخصصة ← TEACCH"
 active_start: 1972
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
-- rel: "belongs_to", target: "br-teacch", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-teacch", target_type: "تيار"
 related:
 - id: "con-aba-autism", title: "ABA للتوحد", type: "مفهوم"
 - id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
@@ -19,6 +19,7 @@ related:
 - id: "br-teacch", title: "TEACCH", type: "تيار"
 gaps:
   - "التمييز بين خط Schopler-Mesibov الكلاسيكي وTEACCH-for-Schools من حيث درجة الالتزام بالبروتوكول الأصلي يحتاج مصدراً منشوراً يقارن بينهما مباشرة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-teacch` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # TEACCH (تدريس التوحد ومن يعانون من صعوبات التواصل)

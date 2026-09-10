@@ -14,12 +14,12 @@ active_start: 1550
 active_end: 1756
 cultural_origin: "european"
 edges:
-- rel: "belongs_to", target: "sch-scholasticism", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-scholasticism", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-thomism", target_type: "مدرسة"
 related:
 - id: "sch-scholasticism", title: "المدرسية (السكولاستية) — كمظلة", type: "مدرسة"
 - id: "sch-thomism", title: "التوماوية", type: "مدرسة"
-- id: "sch-deism", title: "الربوبية", type: "مدرسة"
+- id: "sch-deism", title: "الربوبية (Deism)", type: "مدرسة"
 - id: "thk-suarez", title: "فرانسيسكو سواريز", type: "مفكر"
 - id: "thk-francisco-de-vitoria", title: "فرانسيسكو دي فيتوريا", type: "مفكر"
 gaps:

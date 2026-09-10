@@ -16,8 +16,8 @@ crumb: "علم النفس الشعبي والحكمة التولتيكية ← �
 edges:
 - rel: "belongs_to", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
-- id: "wrk-four-agreements", title: "الاتفاقيات الأربع", type: "عمل / كتاب"
-- id: "con-four-agreements", title: "الاتفاقيات الأربع", type: "مفهوم"
+- id: "wrk-four-agreements", title: "الاتفاقيات الأربع: دليل عملي للحرية الشخصية", type: "عمل / كتاب"
+- id: "con-four-agreements", title: "الاتفاقيات الأربع (مصفوفة التحرر النفسي والسلام الداخلي)", type: "مفهوم"
 gaps:
   - "تفاصيل نشأته في تييرا دي لوس سوليس (نياهوي) موثّقة في مذكراته."
   - "مصداقية التولتيكية كتقليد تاريخي حقيقي موثّقة جزئياً (Floyd & Jarell 2010)."

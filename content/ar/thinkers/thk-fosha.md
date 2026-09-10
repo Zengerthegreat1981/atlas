@@ -22,7 +22,7 @@ related:
 - id: "thk-besselvanderkolk", title: "بِسِل فَن دِر كولك", type: "مفكر"
 - id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
 - id: "thk-mitchell", title: "ستيفن ميتشل", type: "مفكر"
-- id: "con-attachment-styles-popular", title: "أنماط التعلق في العلاقات المعاصرة", type: "مفهوم"
+- id: "con-attachment-styles-popular", title: "أنماط التعلق في العلاقات المعاصرة (الآمن، القلق، التجنبي)", type: "مفهوم"
 - id: "tec-aedp-metatherapeutic-processing", title: "المعالجة فوق-العلاجية (Metatherapeutic Processing) في AEDP", type: "تقنية/تدخل علاجي"
 - id: "tec-aedp-relational-reflectiveness", title: "الانعكاسية العلائقية (Relational Reflectiveness) في AEDP", type: "تقنية/تدخل علاجي"
 - id: "br-aedp-applied", title: "AEDP التطبيقي: علاج الصدمات المعقدة في العيادات", type: "تيار"

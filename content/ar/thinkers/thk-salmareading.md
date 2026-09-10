@@ -10,7 +10,7 @@ country: "نيوزيلندا"
 language: "الإنجليزية (مع الماورية)"
 active_start: null
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 crumb: "Te Whare Tapa Whā (نموذج) ← تطوير ← سالما ريدنغ"
 edges:
 - rel: "belongs_to", target: "con-te-whare-tapa-wha", target_type: "مفهوم"
@@ -22,6 +22,7 @@ gaps:
   - "لا توجد سيرة ذاتية منشورة لـ 'Salma Reading' في Te Pou حتى آب 2026."
   - "الاحتمال: الاسم مُدخل من بيانات الباحثين في صحة الطفل الماوري."
   - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'Māori Child Mental Health' عام."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `con-te-whare-tapa-wha` موسومٌ «psychology» — فوُحِّد على وسم الأب."
 ---
 
 # سالما ريدنغ

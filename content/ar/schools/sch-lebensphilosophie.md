@@ -14,8 +14,8 @@ active_start: 1870
 active_end: 1920
 cultural_origin: "european"
 edges:
-- rel: "evolved_into", target: "sch-phenomenology", target_type: "مظلة"
-- rel: "belongs_to", target: "sch-romanticism", target_type: "مظلة"
+- rel: "evolved_into", target: "sch-phenomenology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-romanticism", target_type: "مدرسة"
 related:
 - id: "thk-dilthey", title: "فيلهلم دلتاي", type: "مفكر"
 - id: "thk-bergson", title: "هنري برغسون", type: "مفكر"

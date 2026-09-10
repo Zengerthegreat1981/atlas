@@ -15,8 +15,8 @@ active_start: 200
 active_end: 1697
 active_source: "lifespan"
 related:
-- id: "sch-nahua-aztec", title: "فلسفة الناهوا/الأزتك", type: "مدرسة"
-- id: "sch-andean-philosophy", title: "الفلسفة الأنديزية", type: "مدرسة"
+- id: "sch-nahua-aztec", title: "فلسفة الناهوا/الأزتك (مفهوم تيوتل)", type: "مدرسة"
+- id: "sch-andean-philosophy", title: "الفلسفة الأنديزية (كيتشوا-أيمارا؛ آيني، سومَك كاوساي)", type: "مدرسة"
 gaps:
   - "نصوص Popol Vuh وChilam Balam وDresden Codex تحتاج مراجعة من المصدر الأولي."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

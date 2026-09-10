@@ -8,21 +8,22 @@ en: "Jouissance"
 crumb: "التحليل النفسي ← المفاهيم ← اللذّة"
 dates: "1960s-اليوم"
 language: "الفرنسية / الإنجليزية"
-part: "philosophy"
+part: "psychology"
 active_start: null
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-- rel: "developed_by", target: "wrk-ecrits", target_type: "مفكر"
+- rel: "developed_by", target: "wrk-ecrits", target_type: "عمل / كتاب"
 related:
 - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-- id: "wrk-ecrits", title: "الكتابات (Écrits) — جاك لاكان", type: "عمل"
+- id: "wrk-ecrits", title: "الكتابات (Écrits) — جاك لاكان", type: "عمل / كتاب"
 - id: "con-pleasure", title: "اللذة", type: "مفهوم"
 gaps:
   - "لم يُدرَج اقتباس أولي موثّق في هذه المسودة."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # اللذّة (Jouissance)

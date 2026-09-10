@@ -15,7 +15,7 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-african-psychology", target_type: "مدرسة"
 related:
-- id: "con-ubuntu-relational-health", title: "فلسفة الأوبونتو والصحة النفسية العلائقية", type: "مفهوم"
+- id: "con-ubuntu-relational-health", title: "فلسفة الأوبونتو والصحة النفسية العلائقية في علم النفس الأفريقي", type: "مفهوم"
 - id: "thk-jakhan", title: "ويد نوبلز", type: "مفكر"
 - id: "thk-mramose", title: "مويبِنغ ديزموند ماغوناو رَموسي", type: "مفكر"
 gaps:

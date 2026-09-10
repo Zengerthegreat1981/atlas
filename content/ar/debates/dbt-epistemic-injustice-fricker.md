@@ -10,7 +10,7 @@ crumb: "المباحث الفلسفية الكبرى ← الجدالات وال
 active_start: 2007
 active_end: "مستمر"
 related:
-- id: "con-epistemic-injustice-fricker-concept", title: "الظلم الإبستمولوجي والشهادي والتأويلي (Epistemic Injustice)", type: "مفهوم"
+- id: "con-epistemic-injustice-fricker-concept", title: "الظلم الإبستمولوجي: الشهادي والتأويلي (Epistemic Injustice)", type: "مفهوم"
 - id: "que-epistemic-injustice-fricker", title: "كيف يسلب التمييز الطبقي والعنصري مصداقية شهادة المظلومين (الظلم المعرفي)؟", type: "سؤال توليدي"
 - id: "sch-feminism-black", title: "النسوية السوداء", type: "مدرسة"
 - id: "thk-miranda-fricker", title: "ميراندا فريكر", type: "مفكر"

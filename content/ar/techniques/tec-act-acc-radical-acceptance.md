@@ -23,7 +23,7 @@ related:
 - id: "tec-dbt-dt-rescue-thinking", title: "التفكير الإنقاذي", type: "تقنية/تدخل علاجي"
 - id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
-- id: "tec-dbt-dt-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-radical-acceptance", title: "التقبل الجذري (DBT)", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا توجد دراسة مفردة موثّقة تختبر هذا التمرين بعينه معزولاً عن الأدلة العامة لحزمة ACT، فـ evidence_level مبني على أدلة ACT ككل لا على تجربة مضبوطة للتمرين نفسه."
   - "اقتباس منشور موثّق من مارشا لينهان يصف هذا التمرين بالتحديد: غير متاح."

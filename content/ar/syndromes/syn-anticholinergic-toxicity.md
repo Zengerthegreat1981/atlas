@@ -12,8 +12,8 @@ active_end: "مستمر"
 language: "متعدد اللغات"
 edges: []
 related:
-- id: "dis-delirium", title: "الهذيان", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-bipolar-i", title: "الاضطراب ثنائي القطب من النوع الأول", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-delirium", title: "الهذيان والتشوش الحاد", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-bipolar-i", title: "اضطراب ثنائي القطب من النوع الأول", type: "اضطراب/حالة إكلينيكية"
 - id: "con-unconscious-inference", title: "الاستدلال اللاواعي (Unconscious Inference) عند هلمهولتز", type: "مفهوم"
 gaps:
   - "البيت التذكيري الطبي الكلاسيكي للسمية الكولينية المضادة (Mad as a hatter, Red as a beet...)."

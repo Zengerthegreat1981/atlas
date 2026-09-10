@@ -27,7 +27,7 @@ related:
 - id: "tec-act-pres-mindful-breathing", title: "التنفس بيقظة", type: "تقنية/تدخل علاجي"
 - id: "tec-act-val-bullseye-exercise", title: "تمرين لوحة الهدف (Bullseye)", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-cope-ahead", title: "الاستعداد المسبق للتأقلم (C)", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-ie-dear-man", title: "DEAR MAN", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-ie-dear-man", title: "دير مان (DEAR MAN) — مهارة شدة الطلب والرفض", type: "تقنية/تدخل علاجي"
 - id: "syn-loneliness-isolation", title: "العزلة والوحدة", type: "متلازمة"
 gaps:
   - "الفروقات بين DSM-5-TR و ICD-11 في تعريف الصمت الانتقائي لم تُراجع من المصدرين الأوليين."

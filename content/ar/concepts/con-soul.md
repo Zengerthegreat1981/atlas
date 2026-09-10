@@ -11,7 +11,7 @@ dates: "من السبعينيات"
 active_start: 1975
 active_end: "مستمر"
 language: "الإنجليزية"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
@@ -24,6 +24,7 @@ related:
 gaps:
   - "التمييز بين 'الأنا والروح' و'النفس والعمق' في علم نفس الأركيتيب لهيلمان."
   - "الجدل بين صنع النفس الظاهراتي والتأويل المنطقي الباطني عند غيغيريش."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # النفس وصنع النفس

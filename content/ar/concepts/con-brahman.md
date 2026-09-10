@@ -20,8 +20,8 @@ related:
 - id: "sch-vishishtadvaita", title: "فيشيشتادفايتا", type: "مدرسة"
 - id: "thk-plotinus", title: "أفلوطين", type: "مفكر"
 - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
-- id: "wrk-daodejing", title: "كتاب الطريق والفضيلة (داو ده جينغ)", type: "عمل"
-- id: "wrk-upanishads", title: "الأوبانيشاد الرئيسية", type: "عمل"
+- id: "wrk-daodejing", title: "كتاب الطريق والفضيلة (داو ده جينغ)", type: "عمل / كتاب"
+- id: "wrk-upanishads", title: "الأوبانيشاد الرئيسية", type: "عمل / كتاب"
 gaps:
   - "التمييز بين براهمان الإلهي وبراهمان المطلق غير محسوم في كل المدارس."
   - "لا يوجد تعريف فلسفي حديث موحد لبراهمان في الأدب العربي."

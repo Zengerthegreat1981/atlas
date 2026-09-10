@@ -13,8 +13,8 @@ active_end: 1300
 edges:
 - rel: "belongs_to", target: "sch-advaita-vedanta", target_type: "مدرسة"
 related:
-- id: "thk-shankara", title: "شانكارا", type: "مفكر"
-- id: "con-atman-brahman-vedanta", title: "الأتمان والبراهمان", type: "مفهوم"
+- id: "thk-shankara", title: "شانكارا (أدفايتا فيدانتا)", type: "مفكر"
+- id: "con-atman-brahman-vedanta", title: "الأتمان والبراهمان ووحدة الوعي الكوني (Atman-Brahman)", type: "مفهوم"
 - id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا (اللاتثنية)", type: "مدرسة"
 - id: "thk-mandana-misra", title: "ماندانا ميشرا (جسر الميمنسا وأدفايتا)", type: "مفكر"
 - id: "thk-gaudapada", title: "غودابادا", type: "مفكر"

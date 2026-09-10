@@ -14,7 +14,7 @@ language: "الألمانية، الإنجليزية، الفرنسية"
 active_start: 1790
 active_end: 1850
 edges:
-- rel: "evolved_into", target: "sch-german-idealism", target_type: "مظلة"
+- rel: "evolved_into", target: "sch-german-idealism", target_type: "مدرسة"
 - rel: "evolved_into", target: "sch-lebensphilosophie", target_type: "مدرسة"
 related:
 - id: "sch-arielismo", title: "فلسفة الهوية اللاتينية الأمريكية (الأرييلية)", type: "مدرسة"

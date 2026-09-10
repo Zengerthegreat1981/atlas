@@ -10,7 +10,7 @@ dates: "النمسا / أمريكا · 1929–2025"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
-active_start: null
+active_start: 1929
 active_end: 2025
 edges:
 - rel: "belongs_to", target: "br-adlerian", target_type: "تيار"
@@ -20,6 +20,7 @@ related:
 - id: "thk-blbettner", title: "بيتي لو بيتنر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس منسوب بمصدر وسنة من «النظرية الأدلرية» (2009)."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («النمسا / أمريكا · 1929–2025») فاستُخرجت: 1929."
 ---
 
 # إيفا درايكرز فيرغوسون

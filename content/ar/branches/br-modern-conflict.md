@@ -11,7 +11,7 @@ dates: "نيويورك · من أواخر السبعينيات"
 active_start: 1976
 active_end: "مستمر"
 language: "الإنجليزية"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-cbrenner", target_type: "مفكر"
@@ -22,6 +22,7 @@ related:
 gaps:
   - "نقد برينر لتقسيم الجهاز النفسي الثلاثي الصارم (الهو/الأنا/الأنا الأعلى) وتفضيله لمفهوم التشكيل التوفيقي الشامل."
   - "مفهوم الكرب الانفعالي (Calamity) ومشاعر الحزن والذنب في نظرية الصراع الحديثة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # نظرية الصراع الحديثة — التحليل النفسي

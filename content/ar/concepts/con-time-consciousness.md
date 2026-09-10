@@ -16,10 +16,10 @@ related:
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "thk-bergson", title: "هنري برغسون", type: "مفكر"
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
-- id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
+- id: "sch-phenomenology", title: "الظاهراتية (Phänomenologie)", type: "مدرسة"
 - id: "con-time", title: "الزمن", type: "مفهوم"
-- id: "con-stream-of-consciousness", title: "تيار الوعي", type: "مفهوم"
-- id: "axm-intentionality", title: "القصدية", type: "بديهية/مبدأ تأسيسي"
+- id: "con-stream-of-consciousness", title: "تيار الوعي (Stream of Consciousness): التدفق المستمر للخبرة", type: "مفهوم"
+- id: "axm-intentionality", title: "بديهية القصديةّة (Intentionality)", type: "بديهية/مبدأ تأسيسي"
 - id: "dbt-presentism-vs-eternalism-time", title: "جدل الحاضرية مقابل الأبدية في فلسفة الزمان", type: "جدل"
 gaps:
   - "التمييز بين وعي الزمن عند هوسرل (الظاهراتي) وعند هايدغر (الزمنية الوجودية) وعند برغسون (المدة) يحتاج فصلاً مستقلاً."

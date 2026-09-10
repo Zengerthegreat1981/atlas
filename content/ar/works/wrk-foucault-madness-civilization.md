@@ -21,8 +21,8 @@ edges:
 related:
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
 - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
-- id: "wrk-divided-self", title: "الذات المنقسمة", type: "عمل"
-- id: "wrk-ecrits", title: "الكتابات (Écrits) — جاك لاكان", type: "عمل"
+- id: "wrk-divided-self", title: "الذات المنقسمة", type: "عمل / كتاب"
+- id: "wrk-ecrits", title: "الكتابات (Écrits) — جاك لاكان", type: "عمل / كتاب"
 gaps:
   - "**وُحِّد حقل `part` 2026-09-08:** كان «psychology» وصار «philosophy» اتّساقاً مع أشقّائه تحت `sch-post-structuralism` (وأغلبيتُهم «philosophy» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "يوجد ملف عمل آخر لنفس الكتاب: `wrk-madness-and-civilization-foucault` (WRK-0627، نحو 742 حرفاً)، وهو طرف ازدواج مسجَّل. هذا الملف الأطول والأكثر تفصيلاً حالياً، لكنه لم يُدمج مع الآخر ولم يُنقل slug — القرار متروك للمحرِّر."

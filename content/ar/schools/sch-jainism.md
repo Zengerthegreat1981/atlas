@@ -14,7 +14,7 @@ cultural_origin: "indian"
 active_start: -599
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "sch-shramana", target_type: "مظلة"
+- rel: "evolved_from", target: "sch-shramana", target_type: "مدرسة"
 related:
 - id: "sch-shramana", title: "المدارس الشرامنية المبكرة", type: "مدرسة"
 - id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"

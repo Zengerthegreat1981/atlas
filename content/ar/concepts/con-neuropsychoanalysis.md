@@ -9,7 +9,7 @@ crumb: "التحليل النفسي ← المفاهيم ← التحليل ال
 dates: "1999-اليوم"
 language: "الإنجليزية"
 part: "psychology"
-active_start: null
+active_start: 1999
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
@@ -24,6 +24,7 @@ related:
 gaps:
   - "لم يُعثر حتى الآن على اقتباس مباشر قابل للتوثيق من هذا المصدر."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («1999-اليوم») فاستُخرجت: 1999."
 ---
 
 # التحليل النفسي العصبي (Neuropsychoanalysis)

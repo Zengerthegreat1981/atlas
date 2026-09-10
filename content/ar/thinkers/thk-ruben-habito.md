@@ -15,9 +15,9 @@ language: "الإنجليزية، اليابانية، الفلبينية"
 edges:
 - rel: "belongs_to", target: "sch-buddhist-psychology", target_type: "مدرسة"
 related:
-- id: "thk-mkwee", title: "ميشيل كوي", type: "مفكر"
+- id: "thk-mkwee", title: "ميشيل كوي (م. ج. ت. كوي)", type: "مفكر"
 - id: "thk-suzuki", title: "د. ت. سوزوكي", type: "مفكر"
-- id: "con-mindfulness", title: "اليقظة الذهنية", type: "مفهوم"
+- id: "con-mindfulness", title: "اليقظة الذهنية (Mindfulness)", type: "مفهوم"
 gaps:
   - "لم يُعثر على اقتباس منسوب مباشرة لهابيتو أثناء البحث المتاح."
   - "تفاصيل استخدامه لمصطلحات 'Zazenkin' كنموذج علاجي جماعي غير موثّقة بمصدر أولي — أُزيلت من المتن."

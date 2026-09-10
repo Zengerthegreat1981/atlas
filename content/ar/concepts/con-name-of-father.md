@@ -9,15 +9,15 @@ crumb: "التحليل النفسي ← المفاهيم ← اسم الأب"
 dates: "1957-اليوم"
 language: "الفرنسية / الإنجليزية"
 part: "psychology"
-active_start: null
+active_start: 1957
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-- rel: "developed_by", target: "wrk-ecrits", target_type: "مفكر"
+- rel: "developed_by", target: "wrk-ecrits", target_type: "عمل / كتاب"
 related:
 - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
 - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
-- id: "wrk-ecrits", title: "الكتابات (Écrits) — جاك لاكان", type: "عمل"
+- id: "wrk-ecrits", title: "الكتابات (Écrits) — جاك لاكان", type: "عمل / كتاب"
 - id: "con-oedipus-complex", title: "عقدة أوديب (الدينامية النفسية الجنسية في التحليل النفسي)", type: "مفهوم"
 - id: "thk-jcmilner", title: "جان-كلود ميلنر", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
@@ -25,6 +25,7 @@ related:
 gaps:
   - "لم يُعثر على اقتباس أصلي موثّق يمكن نسبته مباشرة لمصدر محدد."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («1957-اليوم») فاستُخرجت: 1957."
 ---
 
 # اسم الأب (Nom-du-Père)

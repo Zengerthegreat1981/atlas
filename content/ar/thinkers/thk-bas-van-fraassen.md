@@ -18,8 +18,8 @@ related:
 - id: "thk-karl-popper", title: "سير كارل بوبر", type: "مفكر"
 - id: "thk-thomas-kuhn", title: "توماس صامويل كوهن", type: "مفكر"
 - id: "sch-scientific-realism", title: "الواقعية العلمية / اللاواقعية العلمية", type: "مدرسة"
-- id: "wrk-kuhn-structure-revolutions", title: "بنية الثورات العلمية (كون)", type: "عمل / كتاب"
-- id: "wrk-popper-open-society", title: "المجتمع المفتوح وأعداؤه (بوبر)", type: "عمل / كتاب"
+- id: "wrk-kuhn-structure-revolutions", title: "بنية الثورات العلمية (The Structure of Scientific Revolutions)", type: "عمل / كتاب"
+- id: "wrk-popper-open-society", title: "المجتمع المفتوح وأعداؤه", type: "عمل / كتاب"
 gaps:
   - "تفاصيل عمله في جامعة Princeton (1976 حتى انتقاله إلى San Francisco State University عام 1990) تحتاج مراجعة بيبلوغرافية إضافية."
   - "لا يوجد اقتباس مباشر موثّق من «الصورة العلمية» (The Scientific Image, 1980) بترجمة عربية معتمدة."

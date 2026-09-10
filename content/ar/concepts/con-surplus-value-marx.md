@@ -16,7 +16,7 @@ related:
 - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
 - id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
 - id: "con-surplus-value", title: "فائض القيمة (Mehrwert)", type: "مفهوم"
-- id: "wrk-capital-marx", title: "رأس المال", type: "عمل"
+- id: "wrk-capital-marx", title: "رأس المال لكارل ماركس (Das Kapital)", type: "عمل / كتاب"
 gaps:
   - "التمييز الدقيق بين هذا الملف وملف con-surplus-value يحتاج مراجعة تحريرية — الاثنان يغطيان مفهوم فائض القيمة الماركسي نفسه من زاويتين متقاربتين (الاقتصادية مقابل الاستغلال الطبقي)، وقد يستحقان دمجاً."
 ---

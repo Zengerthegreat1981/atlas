@@ -17,7 +17,7 @@ edges: []
 related:
 - id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
 - id: "sch-social-ecology", title: "الإيكولوجيا الاجتماعية", type: "مدرسة"
-- id: "sch-ecofeminism", title: "النسوية البيئية", type: "مدرسة"
+- id: "sch-ecofeminism", title: "النسوية البيئية (Ecofeminism)", type: "مدرسة"
 - id: "con-land-ethic", title: "أخلاق الأرض (Land Ethic)", type: "مفهوم"
 - id: "wrk-sand-county-almanac", title: "تقويم مقاطعة الرمال (A Sand County Almanac)", type: "عمل / كتاب"
 gaps:

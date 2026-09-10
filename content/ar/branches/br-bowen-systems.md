@@ -14,18 +14,20 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
-- id: "sch-systemic-family", title: "العلاج الأسري والنظامي", type: "مدرسة"
+- id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
 - id: "thk-mbowen", title: "موراي بوين", type: "مفكر"
 - id: "thk-mkerr", title: "مايكل كير", type: "مفكر"
-- id: "con-differentiation-self", title: "التمايز عن الذات", type: "مفهوم"
-- id: "con-triangulation", title: "التثليث", type: "مفهوم"
-- id: "con-family-projection-process", title: "عملية الإسقاط الأسري", type: "مفهوم"
-- id: "con-emotional-cutoff", title: "القطع العاطفي", type: "مفهوم"
-- id: "con-genogram", title: "الجنوجرام", type: "مفهوم"
-- id: "con-multigenerational-transmission", title: "النقل متعدد الأجيال", type: "مفهوم"
+- id: "con-differentiation-self", title: "التمايز عن الذات (Differentiation of Self)", type: "مفهوم"
+- id: "con-triangulation", title: "التثليث (Triangulation)", type: "مفهوم"
+- id: "con-family-projection-process", title: "عملية الإسقاط الأسري (Family Projection Process)", type: "مفهوم"
+- id: "con-emotional-cutoff", title: "القطع العاطفي (Emotional Cutoff)", type: "مفهوم"
+- id: "con-genogram", title: "الجنوجرام (Genogram) — شجرة العائلة العلاجية", type: "مفهوم"
+- id: "con-multigenerational-transmission", title: "النقل متعدد الأجيال (Multigenerational Transmission Process)", type: "مفهوم"
 gaps:
   - "تفاصيل مشروع بوين للبحث في NIMH (1954-1959) على التوائم موثّقة جزئياً."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» ويخالف 3 من أبنائه — فالخطأُ في الأب لا في الأبناء، وصُحِّح إلى «philosophy» بأغلبية الأسرة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-systemic-family` موسومٌ «psychology» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # العلاج الأسري بالأنساق (Bowen Family Systems)

@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "br-irfan-nazari-akbari", target_type: "تيار"
 related:
 - id: "thk-ibn-arabi", title: "محيي الدين بن عربي (الشيخ الأكبر)", type: "مفكر"
-- id: "sch-akbari", title: "المدرسة الأكبرية", type: "مدرسة"
+- id: "sch-akbari", title: "المدرسة الأكبرية (مدرسة الإمبراطور أكبر المغولي)", type: "مدرسة"
 - id: "wrk-al-insan-al-kamil-jili", title: "الإنسان الكامل في معرفة الأواخر والأوائل للجيلي", type: "عمل / كتاب"
 - id: "con-wahdat-al-wujud", title: "وحدة الوجود", type: "مفهوم"
 - id: "con-al-insan-al-kamil-concept", title: "الإنسان الكامل والبرزخية الجامعة (Al-Insan al-Kamil)", type: "مفهوم"

@@ -15,10 +15,12 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-bowen-systems", target_type: "تيار"
 related:
-- id: "con-emotional-cutoff", title: "القطع العاطفي", type: "مفهوم"
+- id: "con-emotional-cutoff", title: "القطع العاطفي (Emotional Cutoff)", type: "مفهوم"
 gaps:
   - "سنة الميلاد الدقيقة غير معروفة في المصادر المتاحة."
   - "صلة عمله المباشرة بتيار بوسورميني-ناجي (العلاج الأسري السياقي) غير موثّقة بمصدر أولي — أُزيل رابط thk-boszormenyi لعدم توثيق الصلة؛ عمله مبني على نظرية بوين لا نظرية بوسورميني-ناجي."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-bowen-systems` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-bowen-systems` موسومٌ «psychology» — فوُحِّد على وسم الأب."
 ---
 
 # مايكل كير

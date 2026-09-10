@@ -16,7 +16,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
-- id: "wrk-power-of-now", title: "قوة الآن", type: "عمل / كتاب"
+- id: "wrk-power-of-now", title: "قوة الآن: دليل إلى التنوير الروحي", type: "عمل / كتاب"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "غياب اقتباس مباشر موثَّق بمصدر وسنة محددين لـإيكهارت تول في الأدبيات المتاحة."

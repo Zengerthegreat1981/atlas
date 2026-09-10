@@ -15,7 +15,7 @@ edges:
 - rel: "belongs_to", target: "sch-madhyamaka", target_type: "مدرسة"
 related:
 - id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
-- id: "thk-nagarjuna", title: "ناغارجونا", type: "مفكر"
+- id: "thk-nagarjuna", title: "ناغارجونا (مؤسس مادهياماكا)", type: "مفكر"
 - id: "dbt-shunyata-vs-brahman", title: "شُونْياتا في مقابل براهمان: الفراغ ضد الجوهر", type: "جدل"
 gaps:
   - "الفرق بين Śūnyatā في Prasangika وSvātantrika موضع خلاف."

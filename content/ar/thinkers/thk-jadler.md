@@ -10,14 +10,15 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 crumb: "الحركة الأصيلة ← الجيل الثاني ← جانيت أدلر"
 edges:
-- rel: "belongs_to", target: "tec-authentic-movement", target_type: "تقنية"
+- rel: "belongs_to", target: "tec-authentic-movement", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-mary-whitehouse", title: "ماري وايتهاوس", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Offering from the Conscious Body* (2002) بترجمة عربية معتمدة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-authentic-movement` موسومٌ «psychology» — فوُحِّد على وسم الأب."
 ---
 
 # جانيت أدلر

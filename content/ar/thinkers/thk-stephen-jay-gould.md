@@ -17,9 +17,9 @@ edges:
 related:
 - id: "thk-richard-dawkins", title: "ريتشارد دوكينز", type: "مفكر"
 - id: "thk-steven-pinker", title: "ستيفن بينكر", type: "مفكر"
-- id: "met-spandrels-of-san-marco", title: "ركائز كنيسة سان ماركو", type: "استعارة"
-- id: "que-panadaptationism-vs-drift", title: "هل كل سمات التكيف وراثي نفعي؟", type: "سؤال"
-- id: "dbt-evolutionary-psychology-adaptation-vs-spandrel", title: "التكيف في علم النفس التطوري", type: "جدل"
+- id: "met-spandrels-of-san-marco", title: "ركائز كنيسة سان ماركو لستيفن جاي غولد: استعارة النواتج التطورية العرضية", type: "استعارة/مجاز مؤسِّس"
+- id: "que-panadaptationism-vs-drift", title: "هل كل سلوك وعاطفة بشرية تكيف وراثي نفعي أم نتاج طفرات عشوائية؟", type: "سؤال توليدي"
+- id: "dbt-evolutionary-psychology-adaptation-vs-spandrel", title: "علم النفس التطوري بين التكيف الحتمي والمصادفات البيولوجية", type: "جدل"
 gaps:
   - "نص 'The Mismeasure of Man' (1996) بالعربية غير مترجم بشكل مكتمل."
   - "تفاصيل 'Punk Eek' (اسم النكتة على 'Punctuated Equilibrium') موثّقة في مقالاته."

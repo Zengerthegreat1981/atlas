@@ -8,7 +8,7 @@ en: "Intersubjectivity"
 crumb: "التحليل النفسي ← المفاهيم ← البين-ذاتية"
 dates: "السبعينيات-اليوم"
 language: "الإنجليزية"
-part: "philosophy"
+part: "psychology"
 active_start: null
 active_end: "مستمر"
 edges:
@@ -25,6 +25,7 @@ related:
 gaps:
   - "تأثير الفلسفة الظاهراتية (Husserl, Heidegger) على Stolorow و Atwood يحتاج عرضاً أكاديمياً دقيقاً."
   - "لم يُعثر على اقتباس مباشر منسوب لستولورو وأتوود وأورانج يمكن توثيقه بدقة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # البين-ذاتية (Intersubjectivity)

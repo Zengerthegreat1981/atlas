@@ -14,8 +14,8 @@ active_start: 1570
 active_end: 1800
 cultural_origin: "islamic-arabic"
 edges:
-- rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مظلة"
-- rel: "belongs_to", target: "sch-shiraz", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-shiraz", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-shiraz", target_type: "مدرسة"
 related:
 - id: "sch-transcendent-theosophy", title: "الحكمة المتعالية (الملا صدرا)", type: "مدرسة"

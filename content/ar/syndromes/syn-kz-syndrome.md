@@ -12,7 +12,7 @@ active_end: "مستمر"
 language: "متعدد اللغات"
 edges: []
 related:
-- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "syn-survivor-guilt-syndrome", title: "متلازمة ذنب الناجي", type: "متلازمة"
 - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
 - id: "con-will-to-meaning", title: "الإرادة في المعنى (Will to Meaning)", type: "مفهوم"

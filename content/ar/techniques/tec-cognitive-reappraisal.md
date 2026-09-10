@@ -14,7 +14,7 @@ edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "thk-lazarus", title: "أرنولد لازاروس", type: "مفكر"
-- id: "dis-social-anxiety-disorder", title: "اضطراب القلق الاجتماعي", type: "اضطراب"
+- id: "dis-social-anxiety-disorder", title: "اضطراب القلق الاجتماعي", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-cbt-cog-thought-defusion", title: "الانفصال عن الأفكار (Defusion)", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا توجد دراسة فعالية محددة برقم عيّنة موثقة داخل هذا الملف؛ الأدلة المذكورة (Gross 1998, Ochsner & Gross 2005) نظرية-تجريبية عامة عن آلية التنظيم الانفعالي، لا تجربة عشوائية محكومة على بروتوكول علاجي بعينه."

@@ -9,8 +9,8 @@ crumb: "التحليل النفسي ← الناس ← إبداعي-شعري م�
 dates: "الولايات المتحدة · وُلدت 28 يوليو 1943"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-part: "philosophy"
-active_start: null
+part: "psychology"
+active_start: 1943
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
@@ -21,6 +21,8 @@ gaps:
   - "لا يوجد اقتباس مباشر موثوق من *The Motherline* (1990) بترجمة عربية معتمدة."
   - "تصحيح (تحقّق ويب 2026-09-01): وُلدت في 28 يوليو 1943 في أوكلاند، كاليفورنيا (بحسب World Biographical Encyclopedia وسيرتها المنشورة)؛ أصبحت عضواً محلِّلاً معتمَداً في معهد س. غ. يونغ في سان فرانسيسكو عام 1993، وعملت محرّرة الشعر والقصة في مجلة *Psychological Perspectives* لا *Quadrant Journal*."
   - "تصحيح (تحقّق ويب 2026-09-03): «أهم أعمالها» في الملف كانت تنسب إليها عنوانين غير موجودين («Evening Will Come» 2010 و«My Mother My Daughter» 2018). العناوين الموثَّقة الفعلية: *The Motherline* (1990)، مجموعتا شعر *red clay is talking* (2000) و*crimes of the dreamer* (2005) عن Scarlet Tanager Books، *The Sister from Below: When the Muse Gets Her Way* (2009)، ومجموعة الشعر *Adagio and Lamentation* (2010) عن Fisher King Press."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («الولايات المتحدة · وُلدت 28 يوليو 1943») فاستُخرجت: 1943."
 ---
 
 # ناعومي روث لوينسكي

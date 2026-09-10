@@ -10,7 +10,7 @@ active_start: 1990
 active_end: 2005
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "br-recovered-memory-movement", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-recovered-memory-movement", target_type: "تيار"
 related:
 - id: "dbt-trauma-memory-repression", title: "هل يمكن كبت ذكريات الصدمة؟", type: "جدل"
 - id: "con-recovered-memory-controversy", title: "الجدل حول الذاكرة المُستعادة", type: "مفهوم"

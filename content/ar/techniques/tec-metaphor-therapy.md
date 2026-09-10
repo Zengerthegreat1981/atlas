@@ -13,7 +13,7 @@ language: "الإنجليزية"
 part: "psychology"
 evidence_level: "traditional"
 edges:
-- rel: "belongs_to", target: "tec-ericksonian-hypnotherapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-ericksonian-hypnotherapy", target_type: "تقنية/تدخل علاجي"
 - rel: "developed_by", target: "thk-merickson", target_type: "مفكر"
 related:
 - id: "tec-ericksonian-hypnotherapy", title: "التنويم الإيحائي الإريكسوني", type: "تقنية/تدخل علاجي"

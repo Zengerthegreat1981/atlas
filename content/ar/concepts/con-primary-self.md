@@ -20,7 +20,7 @@ related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "con-false-self-vs-true-self", title: "الذات المزيفة مقابل الذات الحقيقية", type: "مفهوم"
-- id: "con-archetype", title: "الأركيتيب (النموذج الأصلي)", type: "مفهوم"
+- id: "con-archetype", title: "النموذج الأصلي (Archetype)", type: "مفهوم"
 gaps:
   - "تطبيق مفهوم الذات الأولية في علاج التوحد واضطرابات الطفولة المبكرة في مدرسة لندن التحليلية."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

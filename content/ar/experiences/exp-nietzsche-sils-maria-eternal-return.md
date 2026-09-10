@@ -16,8 +16,8 @@ related:
 - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
 - id: "con-eternal-recurrence-nietzsche", title: "العود الأبدي للذات والحدث (Eternal Recurrence)", type: "مفهوم"
 - id: "con-amor-fati-nietzsche", title: "حب القدر والرضا بالصيرورة (Amor Fati)", type: "مفهوم"
-- id: "wrk-thus-spoke-zarathustra-nietzsche", title: "هكذا تكلم زرادشت لفريدريش نيتشه", type: "عمل"
-- id: "wrk-the-gay-science-nietzsche", title: "العلم الجذل لفريدريش نيتشه (Die fröhliche Wissenschaft)", type: "عمل"
+- id: "wrk-thus-spoke-zarathustra-nietzsche", title: "هكذا تكلم زرادشت لفريدريش نيتشه", type: "عمل / كتاب"
+- id: "wrk-the-gay-science-nietzsche", title: "العلم الجذل لفريدريش نيتشه (Die fröhliche Wissenschaft)", type: "عمل / كتاب"
 gaps:
   - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existentialism-atheist` ختماً قالبياً، ونُقل إلى `sch-existentialism` بحسب المجال المُصحَّح في مسار التنقّل («الفلسفة النيتشوية والوجودية»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
   - "يحتاج المتن اقتباساً حرفياً موثقاً من نص «العلم الجذل» الفقرة 341 (الشيطان في أشد ساعات العزلة) بدل الصياغة بالمعنى، مع ترقيم الفقرة في الترجمة العربية المعتمدة."

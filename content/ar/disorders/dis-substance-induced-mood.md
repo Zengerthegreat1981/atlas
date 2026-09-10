@@ -15,8 +15,8 @@ part: "psychology"
 related:
 - id: "con-sadness", title: "الحزن", type: "مفهوم"
 - id: "dis-alcohol-use-disorder", title: "اضطراب استخدام الكحول", type: "اضطراب/حالة إكلينيكية"
-- id: "tec-behavioral-activation", title: "التنشيط السلوكي", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-dt-tipp", title: "TIPP", type: "تقنية/تدخل علاجي"
+- id: "tec-behavioral-activation", title: "التنشيط السلوكي (BA)", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-tipp", title: "تيب (TIPP)", type: "تقنية/تدخل علاجي"
 - id: "syn-craving-urge", title: "الرغبة الملحّة (craving)", type: "متلازمة"
 - id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
 gaps:

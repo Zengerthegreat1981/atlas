@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1950
 active_end: 1979
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "tec-dance-movement-therapy", target_type: "تقنية/تدخل علاجي"
 related:
@@ -21,6 +21,7 @@ related:
 gaps:
   - "دقة تاريخ نشأة 'الحركة الحقيقية' (منتصف الخمسينيات تقريباً) غير محدَّدة بسنة واحدة متفق عليها في المصادر."
   - "لا يوجد اقتباس مباشر منسوب بمصدر وسنة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-dance-movement-therapy` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # ماري وايتهاوس

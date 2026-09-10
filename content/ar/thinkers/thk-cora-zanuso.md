@@ -2,7 +2,7 @@
 slug: "thk-cora-zanuso"
 id: "THK-2820"
 type: "مفكر"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "كورا زانوسو (Cora Zanuso)"
 en: "Cora Zanuso: Latin American Liberation Psychology"
@@ -17,11 +17,12 @@ edges:
 related:
 - id: "thk-pfreire", title: "باولو فريري", type: "مفكر"
 - id: "thk-imartinbaro", title: "إغناثيو مارتن-بارو", type: "مفكر"
-- id: "con-decolonizing-therapy", title: "العلاج اللااستعماري", type: "مفهوم"
+- id: "con-decolonizing-therapy", title: "العلاج اللااستعماري (Decolonizing Therapy)", type: "مفهوم"
 gaps:
   - "**مرشح للحجر (quarantine):** لم يُعثر على أي أثر مستقل لشخص باسم «Cora Zanuso» في مجال علم النفس التحرري أو في الأدبيات الأكاديمية البرازيلية/البرتغالية بعد بحث ويب مباشر (بالإنجليزية والبرتغالية). نتائج البحث عن \"Cora Zanuso\" psicologia libertação وعن \"Cora Zanuso\" psychologist لا تُظهر أي وجود لهذا الاسم؛ الاسم الوحيد القريب هو المصمم الإيطالي Marco Zanuso، وهو شخص مختلف تماماً ولا صلة له بعلم النفس. لا توجد صفحة ويكيبيديا، ولا منشورات أكاديمية، ولا ذِكر في مصادر علم النفس التحرري البرازيلي (التي تذكر أسماء مثل راكيل غوزو Raquel Guzzo وإغناثيو مارتين-بارو) تحت هذا الاسم."
   - "جميع التفاصيل الواردة في هذا الملف (تدريسها في جامعة ساو باولو، مفاهيم «Psicologia e Pobreza» و«Formação de Psicólogos») غير موثّقة بأي مصدر مستقل، ويُحتمل أنها معلومات مؤلَّفة (ملفَّقة) وليست واقعية."
   - "يوصى بمراجعة هذا الملف من قِبل محرر بشري لاتخاذ قرار الحجر أو الحذف، إذ لم يُعثر على أي دليل يثبت وجود الشخص."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-liberation-psychology` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # كورا زانوسو (Cora Zanuso)

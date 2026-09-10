@@ -16,9 +16,9 @@ active_end: 270
 edges:
 - rel: "evolved_into", target: "sch-neoplatonism", target_type: "مدرسة"
 related:
-- id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية", type: "مدرسة"
-- id: "sch-neoplatonism", title: "الأفلاطونية المحدثة", type: "مدرسة"
-- id: "sch-aristotelianism", title: "المشائية / الأرسطية", type: "مدرسة"
+- id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية (القديمة/الوسطى/الجديدة الشكية)", type: "مدرسة"
+- id: "sch-neoplatonism", title: "الأفلاطونية المحدثة (Neoplatonism)", type: "مدرسة"
+- id: "sch-aristotelianism", title: "المشائية / الأرسطية (Aristotelianism)", type: "مدرسة"
 - id: "sch-eclecticism", title: "الانتقائية الهلنستية-الرومانية (Hellenistic-Roman Eclecticism)", type: "مدرسة"
 - id: "thk-antiochus-ascalon", title: "أنطيوخوس العسقلاني", type: "مفكر"
 - id: "thk-numenius", title: "نومينيوس الأفامي", type: "مفكر"

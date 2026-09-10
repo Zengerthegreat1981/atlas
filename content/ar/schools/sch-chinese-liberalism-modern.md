@@ -16,7 +16,7 @@ cultural_origin: "east-asian"
 edges:
 - rel: "evolved_from", target: "sch-neoconfucianism", target_type: "مدرسة"
 related:
-- id: "sch-neoconfucianism", title: "الكونفوشية الجديدة", type: "مدرسة"
+- id: "sch-neoconfucianism", title: "الكونفوشية الجديدة (مظلة)", type: "مدرسة"
 - id: "sch-classical-liberalism-early", title: "الليبرالية الكلاسيكية المبكرة", type: "مدرسة"
 - id: "sch-chinese-marxism", title: "الماركسية الصينية / الماوية", type: "مدرسة"
 - id: "con-chinese-verification-ism", title: "الشك المنهجي (Doubting-ism / 怀疑主义)", type: "مفهوم"

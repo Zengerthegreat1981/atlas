@@ -12,8 +12,8 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-nyingma", target_type: "مدرسة"
 related:
-- id: "sch-nyingma", title: "النينغما", type: "مدرسة"
-- id: "br-tibetan-nyingma-dzogchen", title: "النينغما ودزوغتشن", type: "تيار"
+- id: "sch-nyingma", title: "نينغما (البوذية التبتية القديمة)", type: "مدرسة"
+- id: "br-tibetan-nyingma-dzogchen", title: "النينغما التبتية ودزوغتشن — البوذية التبتية", type: "تيار"
 - id: "thk-longchenpa", title: "لونغتشين رابجامبا", type: "مفكر"
 - id: "con-tibetan-tantra", title: "التنترا التبتية والرمزية الأركيتيبية", type: "مفهوم"
 - id: "con-tibetan-buddhism", title: "البوذية التبتية والتحليل النفسي", type: "مفهوم"

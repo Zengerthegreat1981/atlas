@@ -16,7 +16,7 @@ related:
 - id: "con-leap-of-faith-kierkegaard", title: "الوثبة الإيمانية المطلقة (Leap of Faith)", type: "مفهوم"
 - id: "con-absurd", title: "العبث", type: "مفهوم"
 - id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
-- id: "wrk-fear-and-trembling-kierkegaard", title: "خوف ورعدة لسورين كيركغارد", type: "عمل"
+- id: "wrk-fear-and-trembling-kierkegaard", title: "خوف ورعدة لسورين كيركغارد", type: "عمل / كتاب"
 gaps:
   - "التحليل الإبستمولوجي واللغوي الدقيق لتطور المفهوم عبر التاريخ."
 ---

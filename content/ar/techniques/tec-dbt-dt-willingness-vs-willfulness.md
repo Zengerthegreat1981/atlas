@@ -19,8 +19,8 @@ related:
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
 - id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-dbt-dt-turning-the-mind", title: "توجيه العقل", type: "تقنية/تدخل علاجي"
-- id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
-- id: "tec-act-acc-willingness-vs-willfulness", title: "الاستعداد مقابل العناد", type: "تقنية/تدخل علاجي"
+- id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري (ACT)", type: "تقنية/تدخل علاجي"
+- id: "tec-act-acc-willingness-vs-willfulness", title: "الاستعداد مقابل العناد (ACT)", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا توجد دراسة (stu-) في الأطلس تختبر تمييز الاستعداد/العناد بحد ذاته بمعزل عن حزمة تحمل الضغوط في DBT ككل، ولذلك evidence_level تحفظي رغم أدلة DBT ككل."
   - "الملف مكرر مفهومياً مع tec-act-acc-willingness-vs-willfulness من مدرسة ACT — نفس التمييز اللغوي منسوب في الأدبيتين إلى مصدر واحد سابق (جيرالد ماي، كتاب Will and Spirit، 1982)، وتبنّته لينهان في DBT عام 1993 وهايز لاحقاً في ACT. سُجّل الرابط بينهما دون دمج الملفين بناءً على تعليمات المهمة."

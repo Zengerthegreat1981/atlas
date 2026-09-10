@@ -17,8 +17,8 @@ edges:
 related:
 - id: "thk-rbandler", title: "ريتشارد بَندلر", type: "مفكر"
 - id: "thk-merickson", title: "ميلتون إريكسون", type: "مفكر"
-- id: "thk-pwatzlawick", title: "بول فاتزلاويك", type: "مفكر"
-- id: "thk-gbateson", title: "غريغوري بيتسون", type: "مفكر"
+- id: "thk-pwatzlawick", title: "بول واتزلاويك", type: "مفكر"
+- id: "thk-gbateson", title: "غريغوري باتسون", type: "مفكر"
 - id: "thk-trobbins", title: "توني روبنز", type: "مفكر"
 gaps:
   - "سنة الميلاد غير منشورة."

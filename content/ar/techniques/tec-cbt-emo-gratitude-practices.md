@@ -17,7 +17,7 @@ edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "tec-cbt-emo-emotion-focused-coping", title: "التأقلم المرتكز على الانفعال", type: "تقنية/تدخل علاجي"
-- id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
+- id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات (ACT)", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-journaling-for-self-reflection", title: "كتابة اليوميات للتأمل الذاتي", type: "تقنية/تدخل علاجي"
 - id: "thk-emmons", title: "روبرت إيمونز", type: "مفكر"
 - id: "crt-critique-of-gratitude-research", title: "نقد بحوث الامتنان: هل «اكتب ثلاثة أشياء تشكر عليها» يغيّر شيئاً؟", type: "نقد خارجي موثَّق"

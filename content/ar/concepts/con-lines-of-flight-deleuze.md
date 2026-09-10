@@ -17,7 +17,7 @@ related:
 - id: "thk-guattari", title: "فيليكس غواتاري", type: "مفكر"
 - id: "con-rhizome-deleuze-guattari", title: "الجذمور والشبكات اللامركزية (Rhizome)", type: "مفهوم"
 - id: "con-body-without-organs", title: "الجسد بلا أعضاء وتدفق الرغبة (Body without Organs)", type: "مفهوم"
-- id: "wrk-a-thousand-plateaus-deleuze-guattari", title: "ألف هضبة لدولوز وغاتاري (Mille Plateaux)", type: "عمل"
+- id: "wrk-a-thousand-plateaus-deleuze-guattari", title: "ألف هضبة لدولوز وغاتاري (Mille Plateaux)", type: "عمل / كتاب"
 gaps:
   - "التحليل الإبستمولوجي واللغوي الدقيق لتطور المفهوم عبر التاريخ."
   - "لم يُدرَج بعد اقتباس مباشر موثّق من نص دولوز وغاتاري الأصلي في هذه المسودة."

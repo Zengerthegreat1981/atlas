@@ -16,10 +16,10 @@ cultural_origin: "greek"
 edges:
 - rel: "evolved_into", target: "sch-middle-platonism", target_type: "مدرسة"
 related:
-- id: "sch-stoicism", title: "الرواقية", type: "مدرسة"
-- id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية", type: "مدرسة"
-- id: "sch-aristotelianism", title: "المشائية / الأرسطية", type: "مدرسة"
-- id: "sch-academic-skepticism", title: "الشك الأكاديمي", type: "مدرسة"
+- id: "sch-stoicism", title: "الرواقية (Stoicism)", type: "مدرسة"
+- id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية (القديمة/الوسطى/الجديدة الشكية)", type: "مدرسة"
+- id: "sch-aristotelianism", title: "المشائية / الأرسطية (Aristotelianism)", type: "مدرسة"
+- id: "sch-academic-skepticism", title: "الشك الأكاديمي (Academic Skepticism)", type: "مدرسة"
 gaps:
   - "مصطلح 'eclecticism' (انتقائية) نُحت في القرن 18 م (Christian August Brandis) ولم يكن له وجود في المصادر القديمة."
   - "هل الانتقائيون 'تيار' أم 'اتّجاه غير ملتزم'؟ خلاف فيلسوفي مستمر."

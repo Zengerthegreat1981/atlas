@@ -17,7 +17,7 @@ edges:
 - rel: "belongs_to", target: "sch-aristotelianism", target_type: "مدرسة"
 related:
 - id: "thk-aristotle", title: "أرسطو", type: "مفكر"
-- id: "sch-aristotelianism", title: "الأرسطية", type: "مدرسة"
+- id: "sch-aristotelianism", title: "المشائية / الأرسطية (Aristotelianism)", type: "مدرسة"
 gaps:
   - "لم يثبت وجود ترجمة عربية منشورة لهذا العمل: بُحث عن مترجم وناشر وسنة ولم يُعثر على أيٍّ منها. (النص وصل العربية قديماً ضمن حركة الترجمة عبر شراح ونقلة كإسحاق بن حنين، لكن لم تتحقق هنا طبعة عربية حديثة بثلاثيّ مترجم/ناشر/سنة.)"
   - "التحقيق النقدي الحديث للمخطوطات اليونانية (كطبعة Minio-Paluello 1949 في سلسلة Oxford Classical Texts) لم يُثبَت هنا بديلاً موثَّقاً عن الطبعات القديمة."

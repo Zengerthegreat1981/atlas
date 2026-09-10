@@ -18,7 +18,7 @@ related:
 - id: "tec-act-def-carrying-a-card-with-your-thought", title: "حمل بطاقة بالفكرة", type: "تقنية/تدخل علاجي"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
-- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "con-cognitive-restructuring", title: "إعادة الهيكلة المعرفية (Cognitive Restructuring)", type: "مفهوم"
 - id: "sch-sensorimotor-psychotherapy", title: "العلاج النفسي حسي-حركي (Sensorimotor Psychotherapy)", type: "مدرسة"
 gaps:

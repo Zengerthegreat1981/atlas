@@ -21,7 +21,7 @@ related:
 - id: "ctx-arabic-self", title: "النفس في التراث العربي الإسلامي", type: "سياق/تقليد"
 - id: "ctx-greek-philosophy-of-psyche", title: "فلسفة النفس في التراث اليوناني", type: "سياق/تقليد"
 - id: "ctx-miskawayh-character", title: "ابن مسكويه وتهذيب الأخلاق", type: "سياق/تقليد"
-- id: "ctx-alexandria-library-hellenism", title: "مدرسة الإسكندرية", type: "سياق/تقليد"
+- id: "ctx-alexandria-library-hellenism", title: "مدرسة الإسكندرية ومكتبتها الكبرى وتلاقي الثقافات الهيلينستية", type: "سياق/تقليد"
 - id: "thk-plato", title: "أفلاطون", type: "مفكر"
 - id: "thk-porphyry", title: "فرفوريوس الصوري", type: "مفكر"
 - id: "wrk-theology-of-aristotle-pseudo", title: "أثولوجيا أرسطو (المنحول / تاسوعات أفلوطين)", type: "عمل / كتاب"

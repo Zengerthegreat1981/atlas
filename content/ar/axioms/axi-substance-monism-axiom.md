@@ -12,8 +12,8 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-spinozism", target_type: "مدرسة"
 related:
-- id: "thk-spinoza", title: "سبينوزا", type: "مفكر"
-- id: "thk-descartes", title: "ديكارت", type: "مفكر"
+- id: "thk-spinoza", title: "باروخ سبينوزا", type: "مفكر"
+- id: "thk-descartes", title: "رينيه ديكارت", type: "مفكر"
 - id: "dbt-mind-body-dualism-vs-physicalism", title: "جدل مشكلة العقل والجسد: الثنائية مقابل الفيزيائية والمادية", type: "جدل"
 gaps:
   - "لم يُراجَع نص *الأخلاق* الكامل بالترجمة العربية المعتمدة؛ الاعتماد هنا على الطبعة اللاتينية والترجمات الإنجليزية القياسية."

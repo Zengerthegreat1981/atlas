@@ -5,13 +5,13 @@ type: "مفكر"
 level: "متقدم"
 title: "دونا أورانج"
 en: "Donna Orange"
-crumb: "مدرسة التحليل النفسي ← البين-ذاتية ← دونا أورانج"
+crumb: "التحليل النفسي ← البين-ذاتية ← دونا أورانج"
 dates: "أمريكا · 1940s–"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1995
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "belongs_to", target: "br-intersubjective-psychoanalysis", target_type: "تيار"
@@ -22,6 +22,8 @@ related:
 gaps:
   - "مفهوم التماسك (Coherence) في علم نفس الذات لم يُراجع بعد من مصادر أولية."
   - "لا يوجد اقتباس مباشر موثوق من *Emotional Understanding* (1995) بترجمة عربية معتمدة."
+  - "**وُحِّد مسارُ التنقّل 2026-09-10:** كان «مدرسة التحليل النفسي» وصار «التحليل النفسي» — لأنّ الجذرَ كان منقسماً بين صيغتين للشيء نفسِه، فيعرض فهرسُ التصفّح موضعين لموضعٍ واحد."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-intersubjective-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # دونا أورانج

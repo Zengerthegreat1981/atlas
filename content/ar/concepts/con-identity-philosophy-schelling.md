@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-schelling", target_type: "مدرسة"
 related:
 - id: "thk-schelling", title: "فريدريش شيلينغ", type: "مفكر"
-- id: "sch-german-idealism", title: "المثالية الألمانية", type: "مدرسة"
+- id: "sch-german-idealism", title: "المثالية الألمانية (كمظلة)", type: "مدرسة"
 - id: "con-absolute-ego-fichte", title: "الأنا المطلق الفاعل (The Absolute Ego)", type: "مفهوم"
 - id: "con-absolute-spirit-hegel", title: "الروح المطلق وتمظهراته (Absolute Spirit)", type: "مفهوم"
 gaps:

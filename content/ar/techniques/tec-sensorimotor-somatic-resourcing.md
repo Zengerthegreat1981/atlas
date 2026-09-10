@@ -2,7 +2,7 @@
 slug: "tec-sensorimotor-somatic-resourcing"
 id: "TEC-0360"
 type: "تقنية/تدخل علاجي"
-part: "psychology"
+part: "philosophy"
 level: "متوسط"
 title: "تقنية بناء الموارد الجسدية وتثبيت الاتزان السنسوريموتور"
 en: "Somatic Resourcing and Boundary Stabilization in Sensorimotor Therapy"
@@ -17,6 +17,7 @@ gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بات أوغدن (thk-pogden)."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-sensorimotor-psychotherapy` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # تقنية بناء الموارد الجسدية وتثبيت الاتزان السنسوريموتور

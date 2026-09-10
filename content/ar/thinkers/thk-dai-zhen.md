@@ -16,7 +16,7 @@ active_source: "lifespan"
 edges:
 - rel: "belongs_to", target: "sch-kaozheng", target_type: "مدرسة"
 related:
-- id: "sch-kaozheng", title: "التعلّم الإثباتي (كاوتشنغ)", type: "مدرسة"
+- id: "sch-kaozheng", title: "التعلم الإثباتي (Kaozheng / Evidential Learning)", type: "مدرسة"
 - id: "thk-zhu-xi", title: "تشو هسي", type: "مفكر"
 gaps:
   - "رابط مقترح لـ«هوانغ تسونغ شي» (thk-huang-zongxi) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

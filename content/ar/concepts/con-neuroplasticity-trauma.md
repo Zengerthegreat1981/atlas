@@ -10,9 +10,9 @@ country: "[غير مؤكد]"
 active_start: 2000
 active_end: "مستمر"
 language: "[غير مؤكد]"
-part: "psychology"
+part: "philosophy"
 edges:
-- rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "تيار"
 related:
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "con-neuroplasticity", title: "اللدونة العصبية (Neuroplasticity)", type: "مفهوم"
@@ -27,6 +27,7 @@ gaps:
   - "لم يُعثر حتى الآن على اقتباس مباشر قابل للتوثيق من هذا المصدر."
   - "تحقُّق ازدواج: هذا الملف مختص بالمرونة العصبية في سياق الصدمة تحديداً (تطبيق إكلينيكي ضمن مدرسة العلاج السنسوريموتور)، بينما con-neuroplasticity.md هو المفهوم العام في علم النفس البيولوجي بلا تخصيص إكلينيكي — لا يوجد تطابق فعلي يستدعي الدمج، وتم ربطهما كمفهومين متكاملين. **ملاحظة أضافها Task 9**: نفس الازدواج المحتمل رُصد أيضاً في دفعة موازية على con-neuroplasticity.md — يُسجَّل هنا فقط بلا حسم، للمراجعة المركزية."
   - "رُفعت الروابط التالية من related لعدم وجود سبب مذكور في متن هذا الملف تحديداً: thk-robert-sapolsky (غير مذكور بالاسم في المتن)، wrk-emdr-1995 (المتن يذكر EMDR كدراسات عامة لا هذا العمل بالتحديد)، crt-neuroscience-critique-classic-theories (لا يوجد نقد عصبي-علمي مذكور بالاسم في المتن)، con-trauma (المتن يتحدث عن سياق الصدمة عموماً دون ربط صريح بهذا الملف تحديداً)."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-sensorimotor-trauma-applications` موسومٌ «philosophy» — فوُحِّد على وسم الأب."
 ---
 # المرونة العصبية في سياق الصدمة
 

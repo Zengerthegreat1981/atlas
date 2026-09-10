@@ -14,8 +14,8 @@ language: "الألمانية، الإنجليزية"
 active_start: 1844
 active_end: 1895
 edges:
-- rel: "evolved_into", target: "sch-western-marxism", target_type: "مظلة"
-- rel: "belongs_to", target: "sch-hegel-left", target_type: "مظلة"
+- rel: "evolved_into", target: "sch-western-marxism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-hegel-left", target_type: "مدرسة"
 related:
 - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
 - id: "thk-engels", title: "فريدريش إنغلز", type: "مفكر"

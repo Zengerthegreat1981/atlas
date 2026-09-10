@@ -10,7 +10,7 @@ country: "البرتغال، فرنسا"
 language: "البرتغالية، الفرنسية"
 active_start: 1813
 active_end: 1819
-part: "philosophy"
+part: "psychology"
 crumb: "الماسمرية (Mesmerism) ← الناس ← أبِي فاريا"
 edges:
 - rel: "belongs_to", target: "tec-mesmerism-historical", target_type: "تقنية/تدخل علاجي"
@@ -20,6 +20,7 @@ related:
 - id: "thk-hbernheim", title: "هيبوليت برنهايم", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *De la cause du sommeil lucide* (1819) بترجمة عربية معتمدة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-mesmerism-historical` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # أبِي فاريا

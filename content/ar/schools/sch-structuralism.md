@@ -16,8 +16,8 @@ active_end: 1980
 edges:
 - rel: "evolved_into", target: "sch-post-structuralism", target_type: "مدرسة"
 related:
-- id: "sch-post-structuralism", title: "ما بعد البنيوية", type: "مدرسة"
-- id: "sch-marxism-structuralist", title: "الماركسية البنيوية", type: "مدرسة"
+- id: "sch-post-structuralism", title: "ما بعد البنيوية (Post-structuralisme)", type: "مدرسة"
+- id: "sch-marxism-structuralist", title: "الماركسية البنيوية (Structuralist Marxism / Marxisme structuraliste)", type: "مدرسة"
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
 - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
 - id: "thk-deleuze", title: "جيل دولوز", type: "مفكر"

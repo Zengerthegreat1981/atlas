@@ -2,7 +2,7 @@
 slug: "exp-susanna-kaysen-mclean-hospital"
 id: "EXP-0120"
 type: "خبرة معيشة"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "تجربة سوزانا كايسن في مصحة ماكلين وتأليف Girl, Interrupted"
 en: "Susanna Kaysen at McLean Hospital: Borderline Diagnosis and Girl, Interrupted"
@@ -16,6 +16,7 @@ related:
 - id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "لم أعثر على نص أصلي كامل لتقرير التشخيص المنسوب لطبيبي (Dr. Wick) غير المقتطفات التي أوردتها كايسن نفسها في كتابها؛ التحقق من الملف الطبي الأصلي يتطلب الوصول لأرشيف مصحة ماكلين نفسه."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 # تجربة سوزانا كايسن في مصحة ماكلين وتأليف Girl, Interrupted
 

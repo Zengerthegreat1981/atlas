@@ -16,10 +16,10 @@ active_end: 250
 edges:
 - rel: "evolved_into", target: "sch-academic-skepticism", target_type: "مدرسة"
 related:
-- id: "sch-academic-skepticism", title: "الشك الأكاديمي", type: "مدرسة"
-- id: "sch-megarian", title: "المدرسة الميغارية", type: "مدرسة"
-- id: "sch-sophistry", title: "السفسطائية", type: "مدرسة"
-- id: "sch-stoicism", title: "الرواقية", type: "مدرسة"
+- id: "sch-academic-skepticism", title: "الشك الأكاديمي (Academic Skepticism)", type: "مدرسة"
+- id: "sch-megarian", title: "المدرسة الميغارية (Megarian School)", type: "مدرسة"
+- id: "sch-sophistry", title: "السفسطائية (Sophistry)", type: "مدرسة"
+- id: "sch-stoicism", title: "الرواقية (Stoicism)", type: "مدرسة"
 - id: "br-pyrrhonism-early", title: "الشك البيروني المبكر — الشك البيروني", type: "تيار"
 - id: "br-pyrrhonism-systemic-empiric", title: "الشك البيروني النسقي الإمبيريقي — الشك البيروني", type: "تيار"
 - id: "con-ad-ignorantiam-appeal-to-ignorance", title: "مغالطة الاحتكام إلى الجهل (Ad Ignorantiam)", type: "مفهوم"

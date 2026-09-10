@@ -17,7 +17,7 @@ edges:
 - rel: "evolved_from", target: "sch-comtian-positivism", target_type: "مدرسة"
 related:
 - id: "sch-comtian-positivism", title: "الوضعية / الكومتية", type: "مدرسة"
-- id: "sch-arielismo", title: "فلسفة الهوية اللاتينية الأمريكية", type: "مدرسة"
+- id: "sch-arielismo", title: "فلسفة الهوية اللاتينية الأمريكية (الأرييلية)", type: "مدرسة"
 - id: "sch-liberation-philosophy", title: "فلسفة التحرير اللاتينية الأمريكية", type: "مدرسة"
 gaps:
   - "نصوص أباديا (Orden y Progreso) وJosé Ingenieros وAntonio Gramsci (تحليلها) need review."

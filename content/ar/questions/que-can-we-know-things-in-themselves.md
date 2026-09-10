@@ -14,7 +14,7 @@ edges:
 related:
 - id: "trm-ding-an-sich-kant", title: "الشيء في ذاته (Ding an sich): الجوهر الممتنع عن التجربة الحسية", type: "مصطلح لغوي متنازع عليه"
 - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
-- id: "wrk-kant-critique-pure-reason", title: "نقد العقل الخالص", type: "عمل / كتاب"
+- id: "wrk-kant-critique-pure-reason", title: "كتاب نقد العقل الخالص لإيمانويل كانط (1781)", type: "عمل / كتاب"
 - id: "thk-schopenhauer", title: "أرتور شوبنهاور", type: "مفكر"
 - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
 gaps:

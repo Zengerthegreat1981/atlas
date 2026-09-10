@@ -8,7 +8,7 @@ en: "Systemic NLP (Tad James)"
 crumb: "التنويم وNLP ← التقنيات ← NLP النظامي"
 active_start: 1989
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
 evidence_level: "controversial"
 edges:
 - rel: "belongs_to", target: "br-nlp-systemic", target_type: "تيار"
@@ -22,6 +22,7 @@ related:
 gaps:
   - "تاريخ تأسيس Time Line Therapy™ Association لم يُوثّق بدقة."
   - "لا توجد في الأطلس دراسة مُسمّاة (stu-) تُقيّم NLP النظامي أو Time Line Therapy™ تحديداً بالاسم؛ الحكم بـ«controversial» مبني على غياب أي دليل تجريبي منضبط منشور، وهو نفس الحكم الذي وثّقته مراجعات NLP الكلاسيكي (Sharpley 1987؛ Witkowski 2010) بلا استثناء موثّق لهذا الفرع تحديداً — هذه فجوة مصدر ثانوية لا أصلية."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-nlp-systemic` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # NLP النظامي (Systemic NLP — تاد جيمس)

@@ -18,7 +18,7 @@ related:
 - id: "tec-dbt-mind-mindfulness-of-current-emotion", title: "اليقظة تجاه الانفعال الحالي", type: "تقنية/تدخل علاجي"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
-- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب"
+- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-dbt-er-opposite-action", title: "الفعل المعاكس", type: "تقنية/تدخل علاجي"
 gaps:
   - "لم يُراجع من مصدر أولي مباشر بعد."

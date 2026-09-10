@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-locke", title: "جون لوك", type: "مفكر"
 - id: "sch-british-empiricism", title: "التجريبية البريطانية (كمظلة)", type: "مدرسة"
-- id: "wrk-two-treatises-of-government-locke", title: "رسالتان في الحكم المدني لجون لوك", type: "عمل"
+- id: "wrk-two-treatises-of-government-locke", title: "رسالتان في الحكم المدني لجون لوك", type: "عمل / كتاب"
 - id: "con-social-contract-theory", title: "نظرية العقد الاجتماعي (Social Contract)", type: "مفهوم"
 - id: "con-negative-liberty-berlin", title: "الحرية السلبية وغياب القيود القسرية (Negative Liberty)", type: "مفهوم"
 gaps:

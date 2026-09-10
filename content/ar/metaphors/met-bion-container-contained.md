@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
 - id: "trm-reverie-bion", title: "السهو الأمومي الاستيعابي (Maternal Reverie): هضم الانفعالات الخام للطفل", type: "مصطلح لغوي متنازع عليه"
-- id: "br-bionian", title: "مدرسة بيون في التحليل النفسي", type: "مدرسة"
+- id: "br-bionian", title: "مدرسة بيون في التحليل النفسي", type: "تيار"
 gaps:
   - "لم تُراجَع بعد الفروق بين صياغة بيون لـ«عناصر بيتا/ألفا» في Learning from Experience (1962) وتطويره اللاحق للمفهوم في Elements of Psycho-Analysis (1963)."
 ---

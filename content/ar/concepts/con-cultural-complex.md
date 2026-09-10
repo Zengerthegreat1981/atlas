@@ -19,7 +19,7 @@ related:
 - id: "con-complex", title: "العقدة النفسية المركبة (Complex)", type: "مفهوم"
 - id: "con-cultural-unconscious", title: "اللاوعي الثقافي", type: "مفهوم"
 - id: "thk-jhenderson", title: "جوزيف لويس هندرسون", type: "مفكر"
-- id: "con-intergenerational-historical-trauma", title: "الصدمة التاريخية بين الأجيال", type: "مفهوم"
+- id: "con-intergenerational-historical-trauma", title: "الصدمة التاريخية متعددة الأجيال لدى الشعوب الأصلية", type: "مفهوم"
 - id: "br-jungian", title: "التحليلية اليونغية", type: "تيار"
 - id: "thk-samuel-kimbles", title: "صامويل ل. كيمبلز", type: "مفكر"
 gaps:

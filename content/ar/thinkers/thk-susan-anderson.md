@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-imago", target_type: "مدرسة"
 related:
 - id: "thk-harville-hendrix", title: "هارفيل هندرِكس (Harville Hendrix)", type: "مفكر"
-- id: "con-imago-childhood-wound", title: "جرح الطفولة", type: "مفهوم"
+- id: "con-imago-childhood-wound", title: "جرح الطفولة وصورة الشريك اللاواعية في علاج الإيماغو", type: "مفهوم"
 - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
 gaps:
   - "تفاصيل 'Abandonment Recovery Workbook' (2005) بالعربية موثّقة جزئياً."

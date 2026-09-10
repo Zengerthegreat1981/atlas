@@ -18,7 +18,7 @@ related:
 - id: "tec-act-val-values-clarification-worksheet", title: "ورقة عمل توضيح القيم", type: "تقنية/تدخل علاجي"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
-- id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب"
+- id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-cbt-mind-values-clarification", title: "توضيح القيم", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا توجد دراسة مستقلة قيّمت «اتخاذ القرار المبني على القيم» تحديداً كتمرين منفصل؛ الأدلة المتاحة أدلة فعالية ACT ككل، لا هذا التمرين بعينه."

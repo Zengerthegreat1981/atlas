@@ -15,12 +15,12 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-- id: "thk-boyesen", title: "غيردا بويسن", type: "مفكر"
-- id: "thk-reich", title: "فيلهلم رايش", type: "مفكر"
-- id: "br-bioenergetic-analysis", title: "التحليل البيوإنرجيتي", type: "تيار"
+- id: "thk-boyesen", title: "غيردا بويزن", type: "مفكر"
+- id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
+- id: "br-bioenergetic-analysis", title: "التحليل الطاقي الحيوي (لوين)", type: "تيار"
 - id: "br-vegetotherapy-orgonomy", title: "العلاج النباتي وطاقة الأورغون (الامتدادات الرايخية)", type: "تيار"
 - id: "sch-somatic-experiencing", title: "التجربة الجسدية (Somatic Experiencing)", type: "مدرسة"
-- id: "rel-psychoanalysis-somatic", title: "التحليل النفسي والجسدية: رايش كمنشق", type: "علاقة بين مدرستين"
+- id: "rel-psychoanalysis-somatic", title: "التحليل النفسي والجسدية: رايش كمنشق، ليفين كجسر", type: "علاقة بين مدرستين"
 - id: "thk-bboyesen", title: "غاستون بوييسن", type: "مفكر"
 gaps:
   - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."

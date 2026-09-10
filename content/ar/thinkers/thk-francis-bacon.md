@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-british-empiricism", target_type: "مدرسة"
 related:
 - id: "thk-locke", title: "جون لوك", type: "مفكر"
-- id: "thk-descartes", title: "ديكارت", type: "مفكر"
+- id: "thk-descartes", title: "رينيه ديكارت", type: "مفكر"
 - id: "con-subjection-of-nature-bacon", title: "تسخير الطبيعة والهيمنة التقنية (Mastery over Nature)", type: "مفهوم"
 - id: "wrk-novum-organum-bacon", title: "الأورغانون الجديد لفرانسيس بيكون", type: "عمل / كتاب"
 gaps:

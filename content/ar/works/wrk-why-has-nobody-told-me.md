@@ -22,7 +22,7 @@ related:
 - id: "thk-julie-smith", title: "جولي سميث", type: "مفكر"
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
-- id: "tec-cbt-cognitive-restructuring", title: "إعادة الهيكلة المعرفية (Cognitive Restructuring) في CBT", type: "تقنية"
+- id: "tec-cbt-cognitive-restructuring", title: "إعادة الهيكلة المعرفية (Cognitive Restructuring) في CBT", type: "تقنية/تدخل علاجي"
 - id: "wrk-feeling-good", title: "الشعور بالرضا: العلاج الجديد للمزاج", type: "عمل / كتاب"
 - id: "wrk-dopamine-nation", title: "أمة الدوبامين: إيجاد التوازن في عصر الإفراط", type: "عمل / كتاب"
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"

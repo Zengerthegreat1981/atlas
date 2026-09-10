@@ -24,7 +24,7 @@ related:
 - id: "thk-fonagy", title: "بيتر فوناغي", type: "مفكر"
 - id: "con-attachment-styles", title: "أساليب التعلق (Attachment Styles)", type: "مفهوم"
 - id: "con-mentalization", title: "الانعكاس الذهني (Mentalization)", type: "مفهوم"
-- id: "con-secure-attachment", title: "التعلق الآمن", type: "مفهوم"
+- id: "con-secure-attachment", title: "التعلق الآمن (Secure Attachment)", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: هاري هارلو (thk-harlow)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: التعلق (con-attachment)"

@@ -14,9 +14,9 @@ edges:
 - rel: "critiques", target: "thk-alazm", target_type: "مفكر"
 related:
 - id: "thk-alazm", title: "صادق جلال العظم", type: "مفكر"
-- id: "evt-arab-defeat-1967-philosophical-turn", title: "هزيمة 1967 وانطلاق مشاريع نقد التراث والعقل العربي", type: "حدث"
+- id: "evt-arab-defeat-1967-philosophical-turn", title: "هزيمة 1967 وانطلاق مشاريع نقد التراث والعقل العربي", type: "حدث تاريخي"
 - id: "crt-al-jabri-critique-of-irfani-reason", title: "نقد الجابري للعقل العرفاني والغنوصي في الثقافة العربية", type: "نقد خارجي موثَّق"
-- id: "dia-taha-abderrahmane-al-jabri", title: "نقد طه عبد الرحمن لمشروع الجابري في نقد العقل العربي (1994)", type: "حوار"
+- id: "dia-taha-abderrahmane-al-jabri", title: "نقد طه عبد الرحمن لمشروع الجابري في نقد العقل العربي (1994)", type: "حوار مع مدرسة مجاورة"
 - id: "sch-islamic-critical-thought", title: "الفكر الإسلامي النقدي المعاصر", type: "مدرسة"
 gaps:
   - "اقتباس مباشر من الطبعة الأولى لـ*نقد الفكر الديني* (1969) موثَّق بالصفحة."

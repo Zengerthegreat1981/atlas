@@ -19,7 +19,7 @@ related:
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 - id: "tec-dbt-spec-problem-solving-framework", title: "إطار حل المشكلات", type: "تقنية/تدخل علاجي"
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
-- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب"
+- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا يوجد في الأطلس ملف دراسة (stu-/std-) يفحص فعالية «مراجعة الحقائق» تحديداً كمهارة منفصلة؛ تجارب فعالية DBT الموثقة تقيس حزمة المهارات ككل، لا هذه المهارة بمعزل عن غيرها."

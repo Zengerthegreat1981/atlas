@@ -14,8 +14,8 @@ edges:
 related:
 - id: "thk-enrique-dussel", title: "إنريكي دوسيل", type: "مفكر"
 - id: "wrk-philosophy-of-liberation-dussel", title: "فلسفة التحرير لإنريكي دوسيل", type: "عمل / كتاب"
-- id: "crt-dussel-critique-of-eurocentrism", title: "نقد إنريكي دوسيل لمركزية أوروبا وخرافة الحداثة", type: "نقد"
-- id: "dia-dussel-ricoeur-liberation", title: "حوار إنريكي دوسيل وبول ريكور حول فلسفة التحرير", type: "حوار"
+- id: "crt-dussel-critique-of-eurocentrism", title: "نقد إنريكي دوسيل لمركزية أوروبا وخرافة الحداثة", type: "نقد خارجي موثَّق"
+- id: "dia-dussel-ricoeur-liberation", title: "حوار إنريكي دوسيل وبول ريكور حول فلسفة التحرير", type: "حوار مع مدرسة مجاورة"
 gaps:
   - "المصادر الأولية والتحليل المعجمي والمفاهيمي لتطور المصطلح transmodernidad عبر طبعات كتاب Ética de la Liberación (1998) المتعاقبة."
 ---

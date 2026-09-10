@@ -17,7 +17,7 @@ edges:
 related:
 - id: "sch-feminism-postcolonial", title: "النسوية ما بعد الاستعمار", type: "مدرسة"
 - id: "sch-feminism-liberal", title: "النسوية الليبرالية", type: "مدرسة"
-- id: "sch-wahdat-alwujud", title: "العرفان النظري (وحدة الوجود)", type: "مدرسة"
+- id: "sch-wahdat-alwujud", title: "العرفان النظري / وحدة الوجود (المدرسة الأكبرية — الشيخ الأكبر ابن عربي)", type: "مدرسة"
 - id: "sch-islamic-critical-thought", title: "الفكر الإسلامي النقدي المعاصر", type: "مدرسة"
 gaps:
   - "نصوص مرفت التلاوي، فاطمة المرنيسي، أمينة ودود، أصيلة جلال، أسما بيلهيل need review."

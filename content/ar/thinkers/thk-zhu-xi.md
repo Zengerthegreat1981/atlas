@@ -18,7 +18,7 @@ edges:
 related:
 - id: "sch-lixue", title: "مدرسة المبدأ (Lixue / Cheng-Zhu)", type: "مدرسة"
 - id: "thk-cheng-yi", title: "تشنغ يي", type: "مفكر"
-- id: "thk-wang-yangming", title: "وانغ يانغ مينغ", type: "مفكر"
+- id: "thk-wang-yangming", title: "وانغ يانغ مينغ (وانغ شو رن)", type: "مفكر"
 - id: "thk-dai-zhen", title: "داي تشن", type: "مفكر"
 gaps:
   - "التفاصيل الدقيقة لتطوّر فكره في المراحل الأولى من حياته (قبل 1160) لم تُراجَع من طبعة محقّقة هنا."

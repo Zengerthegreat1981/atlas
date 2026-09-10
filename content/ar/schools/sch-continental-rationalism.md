@@ -15,12 +15,12 @@ active_start: 1630
 active_end: 1780
 edges:
 - rel: "evolved_from", target: "sch-aristotelianism", target_type: "مدرسة"
-- rel: "evolved_from", target: "br-scholasticism-second-salamanca", target_type: "مدرسة"
+- rel: "evolved_from", target: "br-scholasticism-second-salamanca", target_type: "تيار"
 related:
 - id: "sch-cartesianism", title: "الديكارتية", type: "مدرسة"
 - id: "sch-spinozism", title: "السبينوزية", type: "مدرسة"
 - id: "sch-leibnizianism", title: "اللايبنتزية", type: "مدرسة"
-- id: "sch-british-empiricism", title: "التجريبية البريطانية", type: "مدرسة"
+- id: "sch-british-empiricism", title: "التجريبية البريطانية (كمظلة)", type: "مدرسة"
 - id: "que-problem-of-evil-theodicy", title: "كيف يتوافق وجود الشر والمعاناة الفادحة مع وجود إله كلي القدرة والرحمة؟", type: "سؤال توليدي"
 gaps:
   - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."

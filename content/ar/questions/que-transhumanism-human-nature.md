@@ -15,7 +15,7 @@ related:
 - id: "thk-bostrom", title: "نيك بوستروم", type: "مفكر"
 - id: "thk-habermas", title: "يورغن هابرماس", type: "مفكر"
 - id: "thk-sandel", title: "مايكل ساندل", type: "مفكر"
-- id: "ctx-silicon-valley-techno-utopianism", title: "وادي السيليكون واليوتوبيا التقنية", type: "سياق/تقليد"
+- id: "ctx-silicon-valley-techno-utopianism", title: "وادي السيليكون واليوتوبيا التقنية ونزعة التجاوز الإنساني", type: "سياق/تقليد"
 gaps:
   - "لم تُراجَع الترجمة العربية لكتاب هابرماس Die Zukunft der menschlichen Natur (2001)؛ الاستشهاد هنا يعتمد على النسخة الإنجليزية The Future of Human Nature (2003)."
   - "لا يوجد ملف عمل (wrk-) في الأطلس بعد لكتاب ساندل The Case Against Perfection (2007) ولا لمقالة بوستروم In Defense of Posthuman Dignity (2005)؛ سُجِّل الطلب."

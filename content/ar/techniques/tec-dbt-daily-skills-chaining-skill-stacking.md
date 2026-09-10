@@ -18,7 +18,7 @@ related:
 - id: "tec-dbt-dt-tipp", title: "تيب (TIPP)", type: "تقنية/تدخل علاجي"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
-- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب"
+- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-relapse-prevention", title: "منع الانتكاس (RP)", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا توجد دراسة منفصلة تقيس فعالية «تسلسل المهارات» كتمرين قائم بذاته خارج تجارب حزمة DBT الكاملة التي وضعتها مارشا لينهان."

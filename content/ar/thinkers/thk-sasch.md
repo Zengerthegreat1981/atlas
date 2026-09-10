@@ -22,7 +22,7 @@ related:
 - id: "thk-stanley-milgram", title: "ستانلي ميلغرام", type: "مفكر"
 - id: "thk-philip-zimbardo", title: "فيليب زيمباردو", type: "مفكر"
 - id: "thk-leon-festinger", title: "ليون فيستنغر (Leon Festinger)", type: "مفكر"
-- id: "con-bystander-effect", title: "تأثير المتفرج وتشتت المسؤولية", type: "مفهوم"
+- id: "con-bystander-effect", title: "تأثير المتفرج وتشتت المسؤولية (Bystander Effect)", type: "مفهوم"
 - id: "stu-lewin-leadership-climates", title: "دراسة كيرت ليفين للمناخات والأنماط القيادية الثلاثة (1939)", type: "دراسة وبحث"
 gaps:
   - "تاريخ الميلاد بالتحديد (سبتمبر 1907) لم يُراجع من مصدر أولي موقّع، وارد فقط من مصادر ثانوية أكاديمية."

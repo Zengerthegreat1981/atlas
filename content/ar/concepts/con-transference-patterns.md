@@ -19,8 +19,8 @@ related:
 - id: "thk-mitchell", title: "ستيفن ميتشل", type: "مفكر"
 - id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
 - id: "con-transference", title: "التحويل والتحويل المقابل في العلاقة العلاجية (Transference)", type: "مفهوم"
-- id: "con-free-association", title: "التداعي الحرّ", type: "مفهوم"
-- id: "con-analytic-neutrality", title: "الحياد التحليلي", type: "مفهوم"
+- id: "con-free-association", title: "التداعي الحرّ (Free Association)", type: "مفهوم"
+- id: "con-analytic-neutrality", title: "الحياد التحليلي (Analytic Neutrality)", type: "مفهوم"
 gaps:
   - "التمييز بين 'التصنّع الواسع' (Widely Spread Transference) و'التصنّع الجزئي' في فرويد (1912) لم يُوثَّق في الأطلس."
   - "لا يوجد اقتباس مباشر موثوق من Heimann (1949) حول مفهوم Countertransference."

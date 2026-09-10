@@ -18,7 +18,7 @@ edges:
 related:
 - id: "thk-mtsai", title: "مافيس تساي", type: "مفكر"
 - id: "thk-rkohlen", title: "روبرت ج. كولنبرغ", type: "مفكر"
-- id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي", type: "تيار"
+- id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي (ABA)", type: "تيار"
 - id: "br-functional-contextualism-rft", title: "السياقية الوظيفية ونظرية إطار العلاقات (RFT)", type: "تيار"
 - id: "dis-avoidant-personality", title: "اضطراب الشخصية التجنبية", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-schema-therapy", title: "علاج المخطط", type: "تقنية/تدخل علاجي"

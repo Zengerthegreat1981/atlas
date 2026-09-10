@@ -2,7 +2,7 @@
 slug: "que-forgiveness-of-self-compassion"
 id: "QUE-0047"
 type: "سؤال توليدي"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "كيف يغفر الإنسان لنفسه أخطاء الماضي التي أضرت بأحبائه دون تبرير؟"
 en: "Self-Forgiveness and Moral Reparation: Moving Beyond Toxic Guilt Without Self-Deception"
@@ -18,6 +18,7 @@ related:
 gaps:
   - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `sch-cft` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "لم تُراجَع الترجمة العربية لنماذج إنرايت وجيلبرت ونيف مقابل النصوص الإنجليزية الأصلية كلمة بكلمة."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-cft` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ في الواجهة."
 ---
 
 # كيف يغفر الإنسان لنفسه أخطاء الماضي التي أضرت بأحبائه دون تبرير؟

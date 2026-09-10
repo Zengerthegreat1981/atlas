@@ -2,7 +2,7 @@
 slug: "con-emic-etic"
 id: "CON-0822"
 type: "مفهوم"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "الإيميتيك والإتيك (Emic vs. Etic)"
 en: "Emic vs. Etic Approaches"
@@ -10,7 +10,7 @@ crumb: "علم النفس ← علم نفس الشعوب الأصلية ← مف
 register: "academic"
 evidence_level: "well-established"
 dates: "تمييز صاغه Pike في 1967"
-active_start: null
+active_start: 1967
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-indigenous-psychology", target_type: "مدرسة"
@@ -30,6 +30,8 @@ gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: صنع المعنى الثقافي-السياقي (con-cultural-meaning-making)"
   - "التمييز بين 'الإيميتيك' و'الإتيك' في الأدبيات النفسية المعاصرة أكثر تعقيداً مما تصفه هذه المسودة؛ كثير من الباحثين يستخدمون 'إيتيك مُقيَّد' (derived etic) أو 'إيتيك مُقارن' (imposed etic)."
   - "نقد 'الثنائية الإيميتكية/الإتيكية' نفسها (Kraut 2017 في الأنثروبولوجيا الفلسفية) يحتاج مراجعة؛ لا يوجد ملف مفكر مطابق لريتشارد كرات في الأطلس."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («تمييز صاغه Pike في 1967») فاستُخرجت: 1967."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-indigenous-psychology` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ في الواجهة."
 ---
 
 # الإيميتيك والإتيك (Emic vs. Etic)

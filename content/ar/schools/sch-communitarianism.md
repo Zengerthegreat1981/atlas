@@ -16,8 +16,8 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-aristotelianism", target_type: "مدرسة"
 related:
-- id: "sch-rawlsianism", title: "الليبرالية السياسية المعاصرة", type: "مدرسة"
-- id: "sch-aristotelianism", title: "المشائية / الأرسطية", type: "مدرسة"
+- id: "sch-rawlsianism", title: "الليبرالية السياسية المعاصرة (الرولزية وما بعدها)", type: "مدرسة"
+- id: "sch-aristotelianism", title: "المشائية / الأرسطية (Aristotelianism)", type: "مدرسة"
 - id: "sch-civic-republicanism", title: "الجمهورية المدنية (Civic Republicanism)", type: "مدرسة"
 - id: "con-communitarian-self", title: "الذات المتجذرة", type: "مفهوم"
 - id: "con-recognition-struggle", title: "الاعتراف (النضال من أجله)", type: "مفهوم"

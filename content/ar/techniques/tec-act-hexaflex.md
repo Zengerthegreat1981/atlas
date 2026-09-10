@@ -24,8 +24,8 @@ related:
 - id: "br-functional-contextualism-rft", title: "السياقية الوظيفية ونظرية إطار العلاقات (RFT)", type: "تيار"
 - id: "tec-acceptance-based-bt", title: "العلاج السلوكي القائم على القبول (ABBT)", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cognitive-restructuring", title: "إعادة الهيكلة المعرفية (Cognitive Restructuring) في CBT", type: "تقنية/تدخل علاجي"
-- id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب"
-- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب"
+- id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "لا توجد في الأطلس دراسة (stu-) مفردة موثّقة بعنوانها الدقيق لأي من التجارب العشوائية المؤكِّدة لفاعلية Hexaflex (مثل مراجعات A-Tanaka-Matsumi أو التحليلات التلوية لـ Hayes وزملائه) — الرابط لم يُدرَج لعدم وجود slug مطابق."
   - "لا يوجد ملف مفكر مستقل لكيرك ستروسال أو كيلي ويلسون (شريكا هايز في تأليف نموذج ACT وHexaflex 1999) في EXISTING_SLUGS — ذُكرا بالاسم في المتن دون رابط."

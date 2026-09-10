@@ -14,10 +14,10 @@ cultural_origin: "indian"
 active_start: 1893
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "sch-vedanta", target_type: "مظلة"
+- rel: "evolved_from", target: "sch-vedanta", target_type: "مدرسة"
 related:
-- id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
-- id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"
+- id: "sch-vedanta", title: "فيدانتا (كمظلة)", type: "مدرسة"
+- id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا (اللاتثنية)", type: "مدرسة"
 - id: "sch-pragmatism-classical", title: "البراغماتية الكلاسيكية", type: "مدرسة"
 - id: "sch-transcendentalism", title: "التجاوزية الأمريكية", type: "مدرسة"
 - id: "sch-neohinduism", title: "الهندوسية الجديدة (إصلاح القرن 19)", type: "مدرسة"

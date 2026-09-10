@@ -15,7 +15,7 @@ icd11_code: null
 dsm4_code_historical: "299.80"
 icd10_code_historical: "F84.5"
 related:
-- id: "dis-autism-spectrum", title: "اضطراب طيف التوحد (ASD)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-autism-spectrum", title: "اضطراب طيف التوحد", type: "اضطراب/حالة إكلينيكية"
 - id: "evt-dsm-5-publication-2013", title: "نشر الدليل التشخيصي الخامس والجدل حول التضخم وإلغاء المحاور", type: "حدث تاريخي"
 - id: "crt-neurodiversity-aba-critique", title: "نقد حقوق ذوي الإعاقة/التنوع العصبي لـ ABA: قمع، لا علاج", type: "نقد خارجي موثَّق"
 - id: "con-neurodiversity-affirming", title: "الإرشاد المؤيد للتنوع العصبي", type: "مفهوم"

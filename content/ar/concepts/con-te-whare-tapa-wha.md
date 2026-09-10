@@ -8,7 +8,7 @@ en: "Te Whare Tapa Whā (Four-Sided House)"
 crumb: "أطر غير غربية ← المفاهيم ← تي-فاري-تابا-فا"
 active_start: 1982
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-kaupapa-maori", target_type: "مدرسة"
 related:
@@ -18,6 +18,7 @@ related:
 gaps:
   - "الاستقبال الرسمي (وزارة الصحة النيوزيلندية 1984) لم يُوثّق بدقة كافية — لا مصدر أولي مؤكد لتاريخ الاعتماد أو نصه."
   - "لا مصدر منشور موثّق يوثّق مقولة مباشرة منسوبة لماسون دوري نفسه عن هذا النموذج."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-kaupapa-maori` موسومٌ «psychology» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # تي-فاري-تابا-فا (Te Whare Tapa Whā)

@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-structuralism", target_type: "مدرسة"
 related:
-- id: "con-meaning", title: "المعنى", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: اللغة (con-language)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: نوام تشومسكي (thk-chomsky)"

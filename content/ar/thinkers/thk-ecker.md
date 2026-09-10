@@ -17,7 +17,7 @@ edges:
 related:
 - id: "tec-coherence-therapy", title: "علاج التماسك وإعادة توحيد الذاكرة", type: "تقنية/تدخل علاجي"
 - id: "tec-memory-reconsolidation", title: "العلاج بإعادة توحيد الذاكرة (Memory Reconsolidation Therapy)", type: "تقنية/تدخل علاجي"
-- id: "dbt-memory-reconsolidation-vs-extinction", title: "إعادة توطيد ومحو الذاكرة الصادمة مقابل الإخماد والتثبيط السلوكي", type: "نقاش"
+- id: "dbt-memory-reconsolidation-vs-extinction", title: "إعادة توطيد ومحو الذاكرة الصادمة مقابل الإخماد والتثبيط السلوكي", type: "جدل"
 - id: "thk-jledoux", title: "جوزيف لودوكس", type: "مفكر"
 gaps:
   - "**نُقل الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-cbt` — وهو **ملفُّ إحالةٍ** لا مدرسة (صار إحالةً في دفعة دمجٍ سابقة ولم تُنقَل الأنسابُ الواردةُ إليه)، فنُقل إلى البديل المعتمد `sch-cognitive-behavioral`."

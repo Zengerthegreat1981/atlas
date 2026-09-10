@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1986
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
 crumb: "النسوية التقاطعية ← نظرية القمع المتقاطع ← باتريشا هيل كولينز"
 edges:
 - rel: "belongs_to", target: "br-intersectional-feminist", target_type: "تيار"
@@ -22,6 +22,7 @@ related:
 gaps:
   - "حُذفت روابط related كانت تشاور على ملفات غير موجودة (thk-awalker، thk-phcollins-book-black-feminist-thought)."
   - "تأثيرها في علم النفس الإكلينيكي محدود مقارنةً بعلم الاجتماع."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-intersectional-feminist` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # باتريشا هيل كولينز

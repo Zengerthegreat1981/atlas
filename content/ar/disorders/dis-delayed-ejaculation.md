@@ -15,7 +15,7 @@ part: "psychology"
 related:
 - id: "con-will-to-live-schopenhauer", title: "إرادة الحياة العمياء (Will to Live)", type: "مفهوم"
 - id: "tec-sensate-focus", title: "التركيز الحسي", type: "تقنية/تدخل علاجي"
-- id: "tec-behavioral-medicine", title: "الطب السلوكي", type: "تقنية/تدخل علاجي"
+- id: "tec-behavioral-medicine", title: "الطب السلوكي/الصحة السلوكية (تدخل)", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
 - id: "syn-acute-anxiety", title: "القلق الحاد", type: "متلازمة"

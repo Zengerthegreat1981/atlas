@@ -20,7 +20,7 @@ edges:
 related:
 - id: "thk-spinoza", title: "باروخ سبينوزا", type: "مفكر"
 - id: "thk-damasio", title: "أنطونيو داماسيو", type: "مفكر"
-- id: "rel-damasio-spinoza-somatic-markers-neuroscience", title: "العلامات الجسدية لداماسيو ونظرية سبينوزا في الانفعالات", type: "علاقة"
+- id: "rel-damasio-spinoza-somatic-markers-neuroscience", title: "العلامات الجسدية لداماسيو ونظرية سبينوزا في الانفعالات", type: "علاقة بين مدرستين"
 gaps:
   - "توجد ترجمات عربية منشورة لـ*Ethica* لكن لم يُتحقّق من ثلاثي (المترجم · الناشر · سنة الطبعة) لأيٍّ منها، فلم تُذكر أي ترجمة بعينها في المتن."
   - "لا يوجد اقتباس مباشر موثوق من *Ethica* (1677) بترجمة عربية معتمدة يمكن إسناده بطبعة وصفحة."

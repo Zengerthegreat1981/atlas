@@ -23,7 +23,7 @@ related:
 - id: "thk-jordan-peterson", title: "جوردان بيترسون", type: "مفكر"
 - id: "sch-popular-psychology", title: "علم النفس الشعبي", type: "مدرسة"
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-- id: "con-archetype", title: "الأركيتيب (النموذج الأصلي)", type: "مفهوم"
+- id: "con-archetype", title: "النموذج الأصلي (Archetype)", type: "مفهوم"
 - id: "thk-solzhenitsyn", title: "ألكسندر سولجينيتسين", type: "مفكر"
 gaps:
   - "لم أستطع إثبات بيانات ترجمة عربية معتمدة (مترجم/ناشر/سنة)؛ العنوان يُتداول عربياً في صيغ متعدّدة على المنصّات، ولا يظهر في `## المصادر` ترجمة عربية لهذا السبب."

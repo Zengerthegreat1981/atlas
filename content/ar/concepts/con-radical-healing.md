@@ -14,7 +14,7 @@ edges:
 related:
 - id: "con-race-culturally-aware-therapy", title: "العلاج المراعي للعرق والثقافة", type: "مفهوم"
 - id: "sch-afrocentrism", title: "أفريقية المركز (Afrocentrism)", type: "مدرسة"
-- id: "crt-critical-race-critique-psychology", title: "النقد العرقي النقدي لعلم النفس: تاريخ اختبارات الذكاء والتشخيص", type: "نقد"
+- id: "crt-critical-race-critique-psychology", title: "النقد العرقي النقدي لعلم النفس: تاريخ اختبارات الذكاء والتشخيص", type: "نقد خارجي موثَّق"
 gaps:
   - "مؤسسا الحركة **برينديل فرنش** و**كريستوفر نيفيل** لم يُعثر لهما على ملف thk- في الأطلس (بحث فعلي عن \"French\" و\"Neville\" في content/ar/thinkers لم يُظهر تطابقاً) — سُجّل في agents_specs/requests-minimax.md R-016."
   - "لم يُعثر على اقتباس مباشر موثّق من مؤسسي الحركة بنصّه الإنجليزي الدقيق يصلح للاستشهاد."

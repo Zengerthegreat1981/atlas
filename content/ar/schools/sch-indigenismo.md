@@ -14,9 +14,9 @@ active_start: 1920
 active_end: 1970
 cultural_origin: "latin-american"
 related:
-- id: "sch-arielismo", title: "فلسفة الهوية اللاتينية", type: "مدرسة"
-- id: "sch-mestizaje", title: "فلسفة الهجنة", type: "مدرسة"
-- id: "sch-liberation-philosophy", title: "فلسفة التحرير اللاتينية", type: "مدرسة"
+- id: "sch-arielismo", title: "فلسفة الهوية اللاتينية الأمريكية (الأرييلية)", type: "مدرسة"
+- id: "sch-mestizaje", title: "فلسفة الهجنة / المِستيساخي", type: "مدرسة"
+- id: "sch-liberation-philosophy", title: "فلسفة التحرير اللاتينية الأمريكية", type: "مدرسة"
 gaps:
   - "نصوص José Carlos Mariátegui, Manuel Gamio, Gilberto Freyre, Vasconcelos (La Raza Cósmica) need review."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

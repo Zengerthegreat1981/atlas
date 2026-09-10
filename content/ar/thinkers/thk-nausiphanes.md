@@ -18,7 +18,7 @@ related:
 - id: "thk-democritus", title: "ديموقريطس الأبديري", type: "مفكر"
 - id: "thk-leucippus", title: "لوقيبوس الميليسي", type: "مفكر"
 - id: "thk-epicur", title: "أبيقور الساموسي", type: "مفكر"
-- id: "sch-atomism-greek", title: "الذرية اليونانية", type: "مدرسة"
+- id: "sch-atomism-greek", title: "الذرية اليونانية (Greek Atomism)", type: "مدرسة"
 - id: "con-atom-void", title: "الذرة والفراغ المادي (Atom and Void)", type: "مفهوم"
 gaps:
   - "تاريخ الميلاد والوفاة غير محسوم (يُقدَّر نحو 360–300 ق.م)."

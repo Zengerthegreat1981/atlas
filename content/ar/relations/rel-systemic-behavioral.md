@@ -13,12 +13,12 @@ edges:
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 - rel: "relates_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
-- id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي", type: "تيار"
+- id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي (ABA)", type: "تيار"
 - id: "thk-pwatzlawick", title: "بول واتزلاويك", type: "مفكر"
 - id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
 - id: "thk-mbowen", title: "موراي بوين", type: "مفكر"
 - id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
-- id: "rel-trauma-ptsd-therapy", title: "علاج الصدمة واضطراب ما بعد الصدمة: من Horowitz إلى EMDR", type: "علاقة بين مدرستين"
+- id: "rel-trauma-ptsd-therapy", title: "اضطراب الكرب التالي للصدمة وعلاجاته: تشخيصٌ صنعته السياسة وعلاجٌ سبق تفسيره", type: "علاقة بين مدرستين"
 gaps:
   - "العلاج السلوكي الأسري التقليدي (Liberman، 1970s) لم يوثّق بشكل كافٍ في الأدبيات العربية."
   - "دور 'العلاج الوظيفي للأسرة' (FFT, Alexander 1973) و'إدارة الطوارئ' في سياق أسري لم يُحلّل بدقة."

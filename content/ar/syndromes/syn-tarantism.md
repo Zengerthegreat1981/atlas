@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "dis-dissociative-amnesia", title: "فقدان الذاكرة التفارقي", type: "اضطراب/حالة إكلينيكية"
-- id: "syn-st-vitus-dance", title: "متلازمة رقصة القديس فيتوس", type: "متلازمة"
+- id: "syn-st-vitus-dance", title: "متلازمة رقصة القديس فيتوس (طاعون الرقص والهستيريا الجماعية)", type: "متلازمة"
 - id: "con-catharsis-integration", title: "التطهير الاندماجي (كاتارسيس مورينو)", type: "مفهوم"
 gaps:
   - "أبحاث إرنستو دي مارتينو (Ernesto de Martino 1959) الأنثروبولوجية في جنوب إيطاليا."

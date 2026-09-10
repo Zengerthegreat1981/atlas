@@ -2,7 +2,7 @@
 slug: "tec-sensorimotor-pendulation"
 id: "TEC-0377"
 type: "تقنية/تدخل علاجي"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "البندلة (Pendulation) في العلاج السنسوريموتور"
 en: "Sensorimotor Pendulation"
@@ -14,12 +14,13 @@ edges:
 related:
 - id: "thk-pogden", title: "بات أوغدن", type: "مفكر"
 - id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
-- id: "con-sensorimotor-three-way-model", title: "النموذج الثلاثي للسنسوريموتور", type: "مفهوم"
-- id: "con-titration-pendulation", title: "التقطير والبندلة", type: "مفهوم"
+- id: "con-sensorimotor-three-way-model", title: "النموذج الثلاثي (الإدراك - الانفعال - الحس-حركة)", type: "مفهوم"
+- id: "con-titration-pendulation", title: "التقطير والبندلة في العلاج الجسدي للصدمات", type: "مفهوم"
 - id: "br-sensorimotor-trauma-applications", title: "العلاج السنسوريموتور: تطبيقات الصدمة المتقدمة", type: "تيار"
 gaps:
   - "البروتوكول التفصيلي للتعامل مع الجروح العميقة في الجسد موثّق لكن غير مكتمل."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-sensorimotor-psychotherapy` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 # البندلة (Pendulation) في العلاج السنسوريموتور
 

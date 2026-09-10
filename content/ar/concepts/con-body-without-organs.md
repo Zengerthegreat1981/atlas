@@ -12,12 +12,12 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-post-structuralism", target_type: "مدرسة"
 related:
-- id: "sch-post-structuralism", title: "ما بعد البنيوية (Post-Structuralism)", type: "مدرسة"
+- id: "sch-post-structuralism", title: "ما بعد البنيوية (Post-structuralisme)", type: "مدرسة"
 - id: "thk-deleuze", title: "جيل دولوز", type: "مفكر"
 - id: "thk-guattari", title: "فيليكس غواتاري", type: "مفكر"
 - id: "thk-spinoza", title: "باروخ سبينوزا", type: "مفكر"
-- id: "rel-deleuze-schizoanalysis-institutional-psychotherapy", title: "التحليل الفصامي لدولوز والعلاج النفسي المؤسّسي", type: "علاقة بين مدرستين"
-- id: "rel-deleuze-rhizome-neurodiversity-movement", title: "الجذمور الدولوزي وحركة التنوع العصبي", type: "علاقة بين مدرستين"
+- id: "rel-deleuze-schizoanalysis-institutional-psychotherapy", title: "التحليل الفصامي لدولوز والعلاج النفسي المؤسسي (Guattari/Oury)", type: "علاقة بين مدرستين"
+- id: "rel-deleuze-rhizome-neurodiversity-movement", title: "الجذمور الدولوزي وحركة التنوع العصبي (Neurodiversity)", type: "علاقة بين مدرستين"
 gaps:
   - "**كُتب متنه 2026-09-07.** والفجوتان المسجَّلتان كانتا تنصّان على أن المتن «نصٌّ تعميمي عام لا يذكر دولوز أو غواتاري بالاسم ولا يشير إلى مصدر المفهوم النصّي (L'Anti-Œdipe، 1972)» وأن ربطَهما مقترحٌ ولم يُضف — فأُضيفا وكُتب المتن من نصّهما."
   - "**أنتونان أرتو بلا ملف في الأطلس** وهو صاحبُ العبارة الأصلي، ومذكور في المتن والمصادر."

@@ -17,8 +17,8 @@ edges:
 related:
 - id: "thk-jweakland", title: "جون وِكلاند", type: "مفكر"
 - id: "thk-jhaley", title: "جاي هالي", type: "مفكر"
-- id: "con-triangulation", title: "التثليث", type: "مفهوم"
-- id: "con-double-bind", title: "الرباط المزدوج", type: "مفهوم"
+- id: "con-triangulation", title: "التثليث (Triangulation)", type: "مفهوم"
+- id: "con-double-bind", title: "الرباط المزدوج (Double Bind)", type: "مفهوم"
 - id: "crt-medicalization-of-poverty", title: "التطبيب للفقر: تفسير المرضي للمشكلات الاجتماعية", type: "نقد خارجي موثَّق"
 - id: "rel-postmodern-systemic", title: "ما بعد الحداثة البنائية والنظامية الأسرية: من رحم المناهضة", type: "علاقة بين مدرستين"
 - id: "rel-systemic-psychoanalysis", title: "النظامية الأسرية والتحليل النفسي: الرفض المبكر ثم الجسور اللاحقة", type: "علاقة بين مدرستين"

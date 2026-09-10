@@ -21,7 +21,7 @@ edges:
 - rel: "evolved_from", target: "sch-systemic-family", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-richard-schwartz", target_type: "مفكر"
 related:
-- id: "thk-richard-schwartz", title: "ريتشارد شوارتز (IFS)", type: "مفكر"
+- id: "thk-richard-schwartz", title: "ريتشارد شوارتز", type: "مفكر"
 - id: "wrk-internal-family-systems-1995", title: "أنظمة الأسرة الداخلية (1995)", type: "عمل / كتاب"
 - id: "br-ifs-protocol", title: "بروتوكول IFS", type: "تيار"
 - id: "sch-polyvagal-informed-therapy", title: "العلاج المستنير بنظرية البوليفاجال", type: "مدرسة"

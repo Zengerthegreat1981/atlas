@@ -15,9 +15,9 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
-- id: "wrk-righteous-mind", title: "العقل الصالح", type: "عمل / كتاب"
-- id: "wrk-anxious-generation", title: "الجيل القلق", type: "عمل / كتاب"
-- id: "wrk-happiness-hypothesis", title: "فرضية السعادة", type: "عمل / كتاب"
+- id: "wrk-righteous-mind", title: "العقل الصالح: لماذا ينقسم الأخيار حول السياسة والدين", type: "عمل / كتاب"
+- id: "wrk-anxious-generation", title: "الجيل القلق: كيف تؤدي إعادة برمجة الطفولة العظيمة إلى وباء المرض النفسي", type: "عمل / كتاب"
+- id: "wrk-happiness-hypothesis", title: "فرضية السعادة: كشف الحقيقة الحديثة في الحكمة القديمة", type: "عمل / كتاب"
 - id: "stu-kohlberg-moral-development", title: "دراسة لورنس كولبرغ لمراحل النمو الأخلاقي ومعضلة هاينز", type: "دراسة وبحث"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."

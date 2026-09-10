@@ -15,14 +15,14 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-gestalt-therapy", target_type: "مدرسة"
 related:
-- id: "br-gestalt-berlin", title: "الجشطالت البرلينية", type: "تيار"
+- id: "br-gestalt-berlin", title: "علم النفس الجشطالتي (مدرسة برلين)", type: "تيار"
 - id: "br-gestalt-therapy", title: "علاج الجشطالت", type: "تيار"
 - id: "thk-mwertheimer", title: "ماكس فيرتهايمر", type: "مفكر"
-- id: "thk-wkohler", title: "فولفغانغ كولر", type: "مفكر"
+- id: "thk-wkohler", title: "فولفغانغ كولَر", type: "مفكر"
 - id: "thk-kkoffka", title: "كورت كوفكا", type: "مفكر"
-- id: "thk-wmetzger", title: "فولفغانغ ميتسغر", type: "مفكر"
+- id: "thk-wmetzger", title: "فولفغانغ ميتزغر", type: "مفكر"
 - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
-- id: "axm-holism-gestalt", title: "الكلّية الجشطالتية", type: "مسلَّمة"
+- id: "axm-holism-gestalt", title: "مبدأ الكلية (Gestalt)", type: "بديهية/مبدأ تأسيسي"
 gaps:
   - "**كُتب متنه 2026-09-07** من الفجوات المسجَّلة، وكانت تسمّي المطلوب: إسهاماتَ **هانس-يورغن فالتر** في إعادة ربط العلاج بنظريات مدرسة برلين الأصلية، والاعتمادَ على نظرية المجال والظاهراتية النقدية بديلاً عن الأسلوب المسرحي الفردي لبيرلز."
   - "**هانس-يورغن فالتر بلا ملف مفكّر في الأطلس** — وهو مؤسِّس هذا التيار وصاحبُ نصّه المرجعي (1977/1978)؛ لا يمكن ربطُه. غيابٌ لافت يستحقّ ملفاً."

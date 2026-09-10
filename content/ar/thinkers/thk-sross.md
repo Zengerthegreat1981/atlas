@@ -18,7 +18,7 @@ related:
 - id: "thk-roland-griffiths", title: "رولاند غريفثز", type: "مفكر"
 - id: "thk-mjohnson", title: "ماثيو جونسون", type: "مفكر"
 - id: "thk-rmdoblin", title: "ريك دابلن", type: "مفكر"
-- id: "con-psilocybin", title: "السيلوسيبين", type: "مفهوم"
+- id: "con-psilocybin", title: "السيلوسيبين في العلاج النفسي", type: "مفهوم"
 gaps:
   - "سنة الميلاد (1950) تقريبية."
   - "تجربة 2016 منشورة في *Journal of Psychopharmacology*."

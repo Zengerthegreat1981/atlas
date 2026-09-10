@@ -17,7 +17,7 @@ edges:
 - rel: "evolved_from", target: "sch-romanticism", target_type: "مدرسة"
 related:
 - id: "sch-romanticism", title: "الرومانسية الفلسفية", type: "مدرسة"
-- id: "sch-positivism-latin", title: "الوضعية اللاتينية", type: "مدرسة"
+- id: "sch-positivism-latin", title: "الوضعية اللاتينية (في أمريكا اللاتينية)", type: "مدرسة"
 - id: "sch-liberation-philosophy", title: "فلسفة التحرير اللاتينية الأمريكية", type: "مدرسة"
 gaps:
   - "نصوص José Enrique Rodó (Ariel, 1900) وJuan Carlos Gómez need review."

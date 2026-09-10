@@ -11,13 +11,14 @@ country: "إيطاليا"
 language: "الإنجليزية"
 active_start: 1966
 active_end: 2026
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-general-systems-cybernetics", target_type: "تيار"
 related:
 - id: "thk-lbertalanffy", title: "لودفيغ فون برتالانفي", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *The Systems View of the World* (1972) بترجمة عربية معتمدة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-general-systems-cybernetics` موسومٌ «psychology» — فوُحِّد على وسم الأب."
 ---
 
 # إرفين لازلو

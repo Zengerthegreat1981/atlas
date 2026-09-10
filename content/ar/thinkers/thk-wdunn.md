@@ -11,13 +11,14 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1999
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-sensory-integration", target_type: "تيار"
 related:
 - id: "thk-jayres", title: "جين أَيرس", type: "مفكر"
 gaps:
   - "سنة ميلادها الدقيقة لم تُحدَّد في السير الأكاديمية العامة المتاحة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-sensory-integration` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # ويني دون

@@ -19,7 +19,7 @@ edges:
 related:
 - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
 - id: "thk-engels", title: "فريدريش إنغلز", type: "مفكر"
-- id: "rel-hegelianism-psychoanalysis", title: "الهيغلية والتحليل النفسي: من ماركس إلى لاكان", type: "علاقة بين مدرستين"
+- id: "rel-hegelianism-psychoanalysis", title: "الهيغلية والتحليل النفسي", type: "علاقة بين مدرستين"
 - id: "thk-feuerbach", title: "لودفيغ أندرياس فيورباخ", type: "مفكر"
 - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
 - id: "con-alienation-marx", title: "الاغتراب الماركسي (Entfremdung)", type: "مفهوم"

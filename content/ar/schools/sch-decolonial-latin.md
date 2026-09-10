@@ -14,7 +14,7 @@ cultural_origin: "latin-american"
 active_start: 1998
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-decolonial-philosophy", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-decolonial-philosophy", target_type: "مدرسة"
 related:
 - id: "sch-mestizaje", title: "فلسفة الهجنة / المِستيساخي", type: "مدرسة"
 - id: "sch-liberation-philosophy", title: "فلسفة التحرير اللاتينية الأمريكية", type: "مدرسة"

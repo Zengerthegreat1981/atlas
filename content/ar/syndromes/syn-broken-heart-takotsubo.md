@@ -14,7 +14,7 @@ edges: []
 related:
 - id: "dis-acute-stress-disorder", title: "اضطراب الكرب الحاد", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-prolonged-grief", title: "اضطراب الحزن المطوّل", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "syn-holiday-heart", title: "متلازمة قلب العطلات الحادة (اضطراب النظم النفسي الكحولي)", type: "متلازمة"
 - id: "syn-karoshi-overwork", title: "متلازمة كاروشي (الموت المفاجئ من فرط العمل في اليابان)", type: "متلازمة"
 - id: "syn-psychogenic-death-cannon", title: "متلازمة الموت النفسي بالاستسلام واليأس الصدمي (Voodoo Death)", type: "متلازمة"

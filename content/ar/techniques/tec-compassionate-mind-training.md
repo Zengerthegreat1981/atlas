@@ -2,7 +2,7 @@
 slug: "tec-compassionate-mind-training"
 id: "TEC-0343"
 type: "تقنية/تدخل علاجي"
-part: "psychology"
+part: "philosophy"
 level: "متوسط"
 title: "تقنية تدريب العقل العطوف وتخيل الذات الرحيمة في CFT"
 en: "Compassionate Mind Training (CMT) and Compassionate Self Imagery"
@@ -17,10 +17,11 @@ related:
 - id: "sch-cft", title: "العلاج المتمحور حول التعاطف (CFT)", type: "مدرسة"
 - id: "thk-pgilbert", title: "بول جيلبرت", type: "مفكر"
 - id: "dis-binge-eating-disorder", title: "اضطراب نهم الطعام", type: "اضطراب/حالة إكلينيكية"
-- id: "tec-cbt-emo-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-self-compassion-exercises", title: "تمارين الرأفة بالذات (CBT)", type: "تقنية/تدخل علاجي"
 gaps:
   - "لم يُحدَّد في مادة الملف عدد وتصميم التجارب السريرية المعشّاة (RCT) التي أجراها جيلبرت وفريقه على CMT بمعزل عن CFT ككل؛ الأثر المذكور (خفض الكورتيزول، تراجع الاكتئاب والعار) غير مربوط برقم عينة أو سنة نشر بعينها."
   - "حجم الأثر (effect size) لتمارين تخيل الذات الرحيمة تحديداً مقابل باقي حزمة CFT غير مفصول في المصادر المتاحة، فلا يمكن تقييمه بدقة كتقنية منفردة."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-cft` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ في الواجهة."
 ---
 
 # تقنية تدريب العقل العطوف وتخيل الذات الرحيمة في CFT

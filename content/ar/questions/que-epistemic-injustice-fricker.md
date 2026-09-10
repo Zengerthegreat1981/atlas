@@ -13,7 +13,7 @@ edges:
 - rel: "relates_to", target: "sch-feminism-black", target_type: "مدرسة"
 related:
 - id: "dbt-epistemic-injustice-fricker", title: "الظلم الإبستمولوجي والشهادي والتأويلي لميراندا فريكر", type: "جدل"
-- id: "con-epistemic-injustice-fricker-concept", title: "الظلم الإبستمولوجي والشهادي والتأويلي (Epistemic Injustice)", type: "مفهوم"
+- id: "con-epistemic-injustice-fricker-concept", title: "الظلم الإبستمولوجي: الشهادي والتأويلي (Epistemic Injustice)", type: "مفهوم"
 - id: "con-standpoint-epistemology", title: "إبستمولوجيا الموقع (الموقف)", type: "مفهوم"
 - id: "thk-miranda-fricker", title: "ميراندا فريكر", type: "مفكر"
 gaps:

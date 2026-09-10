@@ -12,10 +12,10 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-wahdat-alwujud", target_type: "مدرسة"
 related:
-- id: "sch-akbari", title: "المدرسة الأكبرية", type: "مدرسة"
+- id: "sch-akbari", title: "المدرسة الأكبرية (مدرسة الإمبراطور أكبر المغولي)", type: "مدرسة"
 - id: "thk-ibn-arabi", title: "محيي الدين بن عربي (الشيخ الأكبر)", type: "مفكر"
 - id: "thk-abd-al-karim-al-jili", title: "عبد الكريم بن إبراهيم الجيلي", type: "مفكر"
-- id: "wrk-al-insan-al-kamil-jili", title: "الإنسان الكامل في معرفة الأواخر والأوائل للجيلي", type: "عمل"
+- id: "wrk-al-insan-al-kamil-jili", title: "الإنسان الكامل في معرفة الأواخر والأوائل للجيلي", type: "عمل / كتاب"
 - id: "con-wahdat-al-wujud", title: "وحدة الوجود", type: "مفهوم"
 gaps:
   - "المصادر الأولية بالعربية (نصوص ابن عربي والجيلي مباشرة) لم تُقتبس هنا حرفياً؛ الاعتماد كان على وصف تحليلي للمفهوم."

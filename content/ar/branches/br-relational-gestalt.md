@@ -16,13 +16,13 @@ edges:
 - rel: "belongs_to", target: "sch-gestalt-therapy", target_type: "مدرسة"
 related:
 - id: "sch-gestalt-therapy", title: "علاج الجشطالت (Gestalt Therapy)", type: "مدرسة"
-- id: "thk-mbuber", title: "مارتن بوبر", type: "مفكر"
+- id: "thk-mbuber", title: "مارتن بُبَر", type: "مفكر"
 - id: "br-gestalt-therapy", title: "علاج الجشطالت", type: "تيار"
 - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
 - id: "thk-lperls", title: "لورا بيرلز", type: "مفكر"
 - id: "rel-buber-i-thou-humanistic-counseling", title: "فلسفة الأنا-وأنت لمارتن بوبر والإرشاد المتمركز حول العميل", type: "علاقة بين مدرستين"
-- id: "br-relational-psychoanalysis", title: "التحليل النفسي العلائقي", type: "تيار"
-- id: "rel-humanistic-existential-gestalt", title: "الإنسانية-الوجودية والجشطالتية: الجذور الظاهراتية", type: "علاقة بين مدرستين"
+- id: "br-relational-psychoanalysis", title: "التحليل النفسي العلائقي الأمريكي", type: "تيار"
+- id: "rel-humanistic-existential-gestalt", title: "الإنسانية-الوجودية والجشطالتية: الجذور الظاهراتية المشتركة", type: "علاقة بين مدرستين"
 - id: "thk-gary-yontef", title: "غاري يونتيف", type: "مفكر"
 gaps:
   - "**كُتب متنه 2026-09-07** من الفجوات المسجَّلة، وكانت تسمّي المطلوب: أعمالَ **غاري يونتيف** و**ريتشارد هايكنر** و**لين جاكوبس**، وتأصيلَ فلسفة الحوار (أنا-أنت) لبوبر، والانتقالَ من مواجهة بيرلز إلى الحوار البين-ذاتي والتأطير الميداني."

@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1950
 active_end: 2004
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-general-systems-cybernetics", target_type: "تيار"
 related:
@@ -19,6 +19,7 @@ related:
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *The Systems Approach* (1968) بترجمة عربية معتمدة."
   - "تفاصيل دقيقة عن أعوام تأسيس مركز أبحاث علوم الإدارة (Center for Research in Management Science) في بيركلي لم تُتحقَّق بدقة السنة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-general-systems-cybernetics` موسومٌ «psychology» — فوُحِّد على وسم الأب."
 ---
 
 # سي. ويست تشرتشمان

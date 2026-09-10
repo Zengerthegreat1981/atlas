@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges: []
 related:
 - id: "con-cognitive-distortion", title: "التشوهات المعرفية", type: "مفهوم"
-- id: "con-self-efficacy", title: "الكفاءة الذاتية", type: "مفهوم"
+- id: "con-self-efficacy", title: "الكفاءة الذاتية (الذاتية المدركة)", type: "مفهوم"
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 - id: "syn-burnout", title: "متلازمة الاحتراق الوظيفي والمهني", type: "متلازمة"
 - id: "syn-caregiver-burnout", title: "متلازمة إجهاد مقدّم الرعاية المزمن", type: "متلازمة"

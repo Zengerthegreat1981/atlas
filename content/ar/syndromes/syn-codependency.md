@@ -12,8 +12,8 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
-- id: "con-attachment-styles", title: "أساليب التعلق", type: "مفهوم"
-- id: "con-boundaries-psychological", title: "الحدود النفسية", type: "مفهوم"
+- id: "con-attachment-styles", title: "أساليب التعلق (Attachment Styles)", type: "مفهوم"
+- id: "con-boundaries-psychological", title: "الحدود النفسية والعاطفية في العلاقات", type: "مفهوم"
 - id: "syn-burnout", title: "متلازمة الاحتراق الوظيفي والمهني", type: "متلازمة"
 - id: "syn-caregiver-burnout", title: "متلازمة إجهاد مقدّم الرعاية المزمن", type: "متلازمة"
 - id: "syn-battered-woman", title: "متلازمة المرأة المعنفة (العجز المتعلم والصدمة الزوجية المزمنة)", type: "متلازمة"

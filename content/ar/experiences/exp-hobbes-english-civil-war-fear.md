@@ -15,7 +15,7 @@ related:
 - id: "sch-social-contract", title: "العقد الاجتماعي (كتيار فلسفي سياسي)", type: "مدرسة"
 - id: "thk-hobbes", title: "توماس هوبز", type: "مفكر"
 - id: "met-hobbes-leviathan", title: "ليفياثان هوبز: استعارة الدولة التنين وابتلاع فوضى حالة الطبيعة", type: "استعارة/مجاز مؤسِّس"
-- id: "wrk-leviathan-hobbes", title: "اللفياثان لتوماس هوبز (Leviathan)", type: "عمل"
+- id: "wrk-leviathan-hobbes", title: "اللفياثان لتوماس هوبز (Leviathan)", type: "عمل / كتاب"
 gaps:
   - "لا يوجد دليل مباشر على أن هوبز كان بالفعل أول اسم على أي قائمة استهداف برلمانية بعينها عام 1640؛ خوفه من ذلك موثّق في مذكراته الذاتية لا في وثيقة برلمانية رسمية تسمّيه."
   - "الاقتباس اللاتيني من «Vita Carmine Expressa» منقول هنا بترجمته الإنجليزية الشائعة (\"my mother gave birth to twins, myself and fear\")، لا عن تحقيق نقدي كامل للنص اللاتيني الأصلي."

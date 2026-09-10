@@ -10,13 +10,13 @@ active_start: 1775
 active_end: 1850
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "تيار"
 - rel: "developed_by", target: "thk-fmesmer", target_type: "مفكر"
 evidence_level: "traditional"
 related:
 - id: "thk-fmesmer", title: "فرانتس أنطون ميسمر", type: "مفكر"
 - id: "con-hypnotic-trance", title: "الغشية التنويمية", type: "مفهوم"
-- id: "tec-ericksonian-hypnotherapy", title: "التنويم الإيحائي الإريكسوني", type: "تقنية"
+- id: "tec-ericksonian-hypnotherapy", title: "التنويم الإيحائي الإريكسوني", type: "تقنية/تدخل علاجي"
 gaps:
   - "تفاصيل الممارسة (الباكيه، المسّ) لم تُوثّق بدقة كافية من مصدر أولي."
   - "جيمس بريد (James Braid) مذكور بالاسم كمن أعاد تفسير الظاهرة عصبياً (1843)، لكن لا يوجد له مدخل مفكر (`thk-`) في الأطلس — لم يُضف رابط تجنباً لاختراع slug."

@@ -13,7 +13,7 @@ active_end: 2003
 part: "psychology"
 crumb: "العلاج بالحركة والرقص ← الناس ← بيني لويس"
 edges:
-- rel: "belongs_to", target: "tec-dance-movement-therapy", target_type: "تيار"
+- rel: "belongs_to", target: "tec-dance-movement-therapy", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-mary-whitehouse", title: "ماري وايتهاوس", type: "مفكر"
 gaps:

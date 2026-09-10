@@ -19,10 +19,10 @@ edges:
 - rel: "evolved_from", target: "sch-kagyu", target_type: "مدرسة"
 related:
 - id: "sch-vajrayana", title: "فاجرايانا / البوذية التانترية", type: "مدرسة"
-- id: "sch-sakya", title: "ساكيا", type: "مدرسة"
-- id: "sch-kagyu", title: "كاغيو", type: "مدرسة"
-- id: "sch-nyingma", title: "نينغما", type: "مدرسة"
-- id: "sch-jonang", title: "جونانغ", type: "مدرسة"
+- id: "sch-sakya", title: "ساكيا (البوذية التبتية)", type: "مدرسة"
+- id: "sch-kagyu", title: "كاغيو (البوذية التبتية)", type: "مدرسة"
+- id: "sch-nyingma", title: "نينغما (البوذية التبتية القديمة)", type: "مدرسة"
+- id: "sch-jonang", title: "جونانغ (شينتونغ)", type: "مدرسة"
 - id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
 - id: "br-tibetan-gelug", title: "الغيلوغ التبتية (أصحاب القبعات الصفر) — البوذية التبتية", type: "تيار"
 gaps:

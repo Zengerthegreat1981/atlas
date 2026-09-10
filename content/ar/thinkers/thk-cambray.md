@@ -10,7 +10,7 @@ dates: "أمريكا · مواليد 1955"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
-active_start: null
+active_start: 1955
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
@@ -21,6 +21,7 @@ related:
 gaps:
   - "لا تتوفر سنة ميلاد مؤكدة بشكل ثابت في المصادر المتاحة (1955 تقدير تقريبي)."
   - "لا يوجد اقتباس مباشر موثوق من *Synchronicity: Nature and Psyche in an Interconnected Universe* (2009) بترجمة عربية معتمدة."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («أمريكا · مواليد 1955») فاستُخرجت: 1955."
 ---
 
 # جوزيف كامبري

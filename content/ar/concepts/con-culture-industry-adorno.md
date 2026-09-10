@@ -12,13 +12,13 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-frankfurt-school", target_type: "مدرسة"
 related:
-- id: "thk-adorno", title: "تيودور أدورنو", type: "مفكر"
+- id: "thk-adorno", title: "ثيودور أدورنو", type: "مفكر"
 - id: "thk-max-horkheimer", title: "ماكس هوركهايمر", type: "مفكر"
-- id: "sch-frankfurt-school", title: "مدرسة فرانكفورت (Frankfurt School)", type: "مدرسة"
-- id: "wrk-dialectic-of-enlightenment-adorno-horkheimer", title: "جدل التنوير لأدورنو وهوركهايمر", type: "عمل"
+- id: "sch-frankfurt-school", title: "النظرية النقدية / مدرسة فرانكفورت (Frankfurter Schule)", type: "مدرسة"
+- id: "wrk-dialectic-of-enlightenment-adorno-horkheimer", title: "جدل التنوير لأدورنو وهوركهايمر", type: "عمل / كتاب"
 - id: "thk-walter-benjamin", title: "فالتر بنيامين", type: "مفكر"
-- id: "con-cultural-capital-bourdieu", title: "رأس المال الثقافي عند بورديو", type: "مفهوم"
-- id: "rel-frankfurt-school-critical-psychiatry", title: "النظرية النقدية لمدرسة فرانكفورت والطب النفسي النقدي", type: "علاقة بين مدرستين"
+- id: "con-cultural-capital-bourdieu", title: "رأس المال الثقافي والرمزي (Cultural Capital)", type: "مفهوم"
+- id: "rel-frankfurt-school-critical-psychiatry", title: "النظرية النقدية لمدرسة فرانكفورت والطب النفسي الاجتماعي", type: "علاقة بين مدرستين"
 gaps:
   - "**كُتب متنه 2026-09-07.** والفجوتان المسجَّلتان كانتا تنصّان على أن المتن لا يشرح **كيف ولماذا** صيغ المصطلح في *جدل التنوير*، ولا يذكر أمثلةً ولا آليات، ولا فيه اقتباسٌ من أدورنو — وقد كُتبت الآلياتُ الأربع والأمثلة وسببُ اختيار المصطلح."
   - "لم أُثبت اقتباساً حرفياً من نصّ أدورنو لأني لا أنقل من ترجمةٍ بين يديّ؛ وعُرضت أطروحاتُه بصياغةٍ منسوبةٍ إليه لا بين علامتَي تنصيص."

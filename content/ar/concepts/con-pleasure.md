@@ -10,7 +10,7 @@ crumb: "الفلسفة والتحليل النفسي ← المفاهيم الأ
 active_start: 1920
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "br-classical-psychoanalysis", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-classical-psychoanalysis", target_type: "تيار"
 related:
 - id: "axm-hedonic-principle", title: "المبدأ الهيدوني (مبدأ اللذة-الألم)", type: "بديهية/مبدأ تأسيسي"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"

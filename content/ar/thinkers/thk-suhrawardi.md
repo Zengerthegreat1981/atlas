@@ -24,8 +24,8 @@ related:
 - id: "thk-parmenides", title: "بارمنيدس الإيلي", type: "مفكر"
 - id: "thk-plato", title: "أفلاطون", type: "مفكر"
 - id: "thk-empedocles", title: "أنباذوقليس الأكراغاسي", type: "مفكر"
-- id: "met-suhrawardi-light-shadow", title: "نور الأنوار والظلمات", type: "استعارة"
-- id: "trm-hikmah-falsafa-islamic", title: "الحكمة (Hikmah)", type: "مصطلح"
+- id: "met-suhrawardi-light-shadow", title: "نور الأنوار والظلمات للسهروردي: استعارة الوجود الإشراقي وتفاضل المراتب", type: "استعارة/مجاز مؤسِّس"
+- id: "trm-hikmah-falsafa-islamic", title: "الحكمة (Hikmah): الجمع بين البرهان العقلي والذوق الإشراقي", type: "مصطلح لغوي متنازع عليه"
 - id: "wrk-al-musharaat-suhrawardi", title: "المشارعات والمطارحات لشهاب الدين السهروردي", type: "عمل / كتاب"
 - id: "wrk-hayakil-al-nur-suhrawardi", title: "هياكل النور لشهاب الدين السهروردي", type: "عمل / كتاب"
 gaps:

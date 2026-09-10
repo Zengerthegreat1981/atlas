@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا (الشيخ الرئيس)", type: "مفكر"
 - id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
-- id: "wrk-al-shifa-avicenna", title: "كتاب الشفاء لابن سينا (موسوعة الفلسفة)", type: "عمل"
+- id: "wrk-al-shifa-avicenna", title: "كتاب الشفاء لابن سينا (موسوعة الفلسفة)", type: "عمل / كتاب"
 - id: "con-asalat-al-wujud-primacy-of-existence", title: "أصالة الوجود واعتبارية الماهية (Primacy of Existence)", type: "مفهوم"
 - id: "thk-mulla-sadra", title: "ملا صدرا الشيرازي (صدر الدين الشيرازي)", type: "مفكر"
 gaps:

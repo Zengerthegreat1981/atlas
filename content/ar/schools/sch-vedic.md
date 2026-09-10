@@ -16,7 +16,7 @@ active_end: -800
 active_source: "lifespan"
 related:
 - id: "sch-upanishadic", title: "الفلسفة الأوبانيشادية", type: "مدرسة"
-- id: "sch-mimamsa", title: "ميمامسا", type: "مدرسة"
+- id: "sch-mimamsa", title: "ميمامسا (بورفا ميمامسا)", type: "مدرسة"
 gaps:
   - "النصوص الفيدية (Rg, Yajur, Sama, Atharva) تحتاج مراجعة من المصدر الأولي."
 ---

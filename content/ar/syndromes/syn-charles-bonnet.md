@@ -12,7 +12,7 @@ active_end: "مستمر"
 language: "متعدد اللغات"
 edges: []
 related:
-- id: "dis-delirium", title: "الهذيان", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-delirium", title: "الهذيان والتشوش الحاد", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-major-neurocognitive", title: "اضطراب معرفي عصبي رئيسي (الخرف)", type: "اضطراب/حالة إكلينيكية"
 - id: "syn-balint", title: "متلازمة بالينت (العمه البصري الحركي وتعذر رؤية المتزامن)", type: "متلازمة"
 - id: "syn-visual-snow", title: "متلازمة الثلج البصري النفسية العصبية", type: "متلازمة"

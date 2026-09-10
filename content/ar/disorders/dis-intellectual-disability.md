@@ -14,7 +14,7 @@ language: "متعدد اللغات"
 part: "psychology"
 related:
 - id: "con-nafs-natiqa-rational-soul", title: "النفس الناطقة وتجردها العقلي (Rational Soul)", type: "مفهوم"
-- id: "tec-social-skills-training", title: "تدريب المهارات الاجتماعية", type: "تقنية/تدخل علاجي"
+- id: "tec-social-skills-training", title: "تدريب المهارات الاجتماعية (SST)", type: "تقنية/تدخل علاجي"
 - id: "tec-behavioral-activation", title: "التنشيط السلوكي (BA)", type: "تقنية/تدخل علاجي"
 - id: "tec-act-pres-mindful-breathing", title: "التنفس بيقظة", type: "تقنية/تدخل علاجي"
 - id: "tec-play-therapy-branches", title: "العلاج باللعب ومداخله المتعددة", type: "تقنية/تدخل علاجي"

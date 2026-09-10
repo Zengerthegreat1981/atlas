@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 crumb: "العلاج النفسي والبنائية الاجتماعية ← الناس ← شيلا ماكنامي"
 edges:
 - rel: "belongs_to", target: "br-social-constructionism", target_type: "تيار"
@@ -21,6 +21,7 @@ related:
 gaps:
   - "سنة الميلاد غير منشورة في السيرة الذاتية المتاحة."
   - "قائمة منشوراتها الكاملة في *Journal of Family Therapy* و*Family Process* تحتاج فهرسة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-social-constructionism` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # شيلا ماكنامي

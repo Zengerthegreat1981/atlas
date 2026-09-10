@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "dis-depersonalization-derealization", title: "اضطراب تبدّد الشخصية/الواقع", type: "اضطراب/حالة إكلينيكية"
-- id: "syn-somatoparaphrenia", title: "متلازمة السوماتوبارافرينيا", type: "متلازمة"
+- id: "syn-somatoparaphrenia", title: "متلازمة السوماتوبارافرينيا (إنكار ملكية الأطراف المشلولة)", type: "متلازمة"
 - id: "con-lived-body", title: "الجسد المعيش (Leib vs. Körper)", type: "مفهوم"
 gaps:
   - "أبحاث جوزيف بابينسكي (1914) ودور القشرة الجدارية الصدغية."

@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-rousseau", title: "جان جاك روسو", type: "مفكر"
 - id: "sch-social-contract", title: "العقد الاجتماعي (كتيار فلسفي سياسي)", type: "مدرسة"
-- id: "wrk-the-social-contract-rousseau", title: "العقد الاجتماعي لجان جاك روسو", type: "عمل"
+- id: "wrk-the-social-contract-rousseau", title: "العقد الاجتماعي لجان جاك روسو", type: "عمل / كتاب"
 - id: "con-amour-propre-vs-amour-de-soi", title: "حب الذات الزائف مقابل حب الذات الطبيعي", type: "مفهوم"
 - id: "thk-hobbes", title: "توماس هوبز", type: "مفكر"
 - id: "thk-locke", title: "جون لوك", type: "مفكر"

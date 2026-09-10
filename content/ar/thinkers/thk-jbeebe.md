@@ -5,22 +5,24 @@ type: "مفكر"
 level: "متقدم"
 title: "جون بيب"
 en: "John Beebe"
-crumb: "مدرسة التحليل النفسي ← الناس ← جون بيب"
+crumb: "التحليل النفسي ← الناس ← جون بيب"
 dates: "أمريكا · مواليد 1939"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
-active_start: null
+active_start: 1939
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-vonfranz", title: "ماري-لويز فون فرانز", type: "مفكر"
-- id: "con-psychological-type", title: "الأنماط النفسية", type: "مفهوم"
+- id: "con-psychological-type", title: "الأنماط النفسية والوظائف المعرفية", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Integrity in Depth* (1992) بترجمة عربية معتمدة."
   - "لم تُراجع الطبعة الأصلية من *Energies and Patterns in Psychological Type* (2017)."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («أمريكا · مواليد 1939») فاستُخرجت: 1939."
+  - "**وُحِّد مسارُ التنقّل 2026-09-10:** كان «مدرسة التحليل النفسي» وصار «التحليل النفسي» — لأنّ الجذرَ كان منقسماً بين صيغتين للشيء نفسِه، فيعرض فهرسُ التصفّح موضعين لموضعٍ واحد."
 ---
 
 # جون بيب

@@ -8,7 +8,7 @@ en: "Liberation Community Psychology"
 crumb: "المفاهيم ← مدارس اجتماعية ← علم النفس المجتمعي التحرري"
 active_start: 1965
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-liberation-psychology", target_type: "مدرسة"
 related:
@@ -19,6 +19,7 @@ related:
 gaps:
   - "**صُحِّحت حلقةٌ ذاتية 2026-09-08:** كان `belongs_to` يشير إلى `con-community-psychology` — أي إلى الملفّ نفسِه، وهي حلقةٌ مغلقةٌ لا معنى لها، أصلُها اختلاطُ بادئةٍ في الـslug. ونُقل إلى `sch-liberation-psychology`: علمُ النفس المجتمعيُّ التحرُّريُّ من علم نفس التحرر."
   - "السيرة الكاملة لم تُراجع من مصدر أولي."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-liberation-psychology` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # علم النفس المجتمعي التحرري

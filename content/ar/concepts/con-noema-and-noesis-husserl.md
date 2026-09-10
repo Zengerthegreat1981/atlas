@@ -15,7 +15,7 @@ related:
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
 - id: "sch-phenomenology", title: "الظاهراتية (Phänomenologie)", type: "مدرسة"
 - id: "wrk-ideas-pertaining-to-pure-phenomenology-husserl", title: "أفكار نحو فينومينولوجيا خالصة لإدموند هوسرل (Ideen I)", type: "عمل / كتاب"
-- id: "con-epoche-phenomenological-reduction", title: "الرد الفينومينولوجي وتعليق العالم الطبيعي (Reduction)", type: "مفهوم"
+- id: "con-epoche-phenomenological-reduction", title: "الإيبوخي والرد الفينومينولوجي (Epoché / Phenomenological Reduction)", type: "مفهوم"
 - id: "con-epoche-suspension", title: "الإيبوخيه وتعليق الحكم (Epoché)", type: "مفهوم"
 - id: "con-intersubjectivity", title: "البين-ذاتية (Intersubjectivity)", type: "مفهوم"
 gaps:

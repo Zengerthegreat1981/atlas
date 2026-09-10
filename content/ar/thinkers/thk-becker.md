@@ -15,7 +15,7 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-- id: "thk-yalom", title: "يالوم", type: "مفكر"
+- id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
 - id: "con-death", title: "الموت", type: "مفهوم"
 - id: "thk-pyszczynski", title: "توم بيسزينسكي", type: "مفكر"
 - id: "thk-lifton", title: "روبرت جاي ليفتون", type: "مفكر"

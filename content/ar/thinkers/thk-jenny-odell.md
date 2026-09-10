@@ -16,10 +16,10 @@ active_end: "مستمر"
 edges: []
 related:
 - id: "thk-oliver-burkeman", title: "أوليفر بوركمان", type: "مفكر"
-- id: "wrk-four-thousand-weeks", title: "أربعة آلاف أسبوع", type: "عمل / كتاب"
-- id: "wrk-slow-productivity", title: "الإنتاجية البطيئة", type: "عمل / كتاب"
-- id: "con-toxic-positivity", title: "الإيجابية السامة (إنكار المشاعر الصعبة)", type: "مفهوم"
-- id: "con-deep-work", title: "العمل العميق (التركيز المعرفي المكثف)", type: "مفهوم"
+- id: "wrk-four-thousand-weeks", title: "أربعة آلاف أسبوع: إدارة الوقت للفانين", type: "عمل / كتاب"
+- id: "wrk-slow-productivity", title: "الإنتاجية البطيئة: الفقدان الطبيعي للإبداع والإنجاز البشري", type: "عمل / كتاب"
+- id: "con-toxic-positivity", title: "الإيجابية السامة (إنكار المشاعر الصعبة والإلزام بالتفاؤل)", type: "مفهوم"
+- id: "con-deep-work", title: "العمل العميق (التركيز المعرفي المكثف في العصر الرقمي)", type: "مفهوم"
 gaps:
   - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«الفلسفة النفسية ونقد الإنتاجية السامة» في content/ar/schools أو branches."
   - "لا يوجد اقتباس مباشر موثّق من 'كيف لا تفعل شيئاً' (2019) بترجمة عربية معتمدة."

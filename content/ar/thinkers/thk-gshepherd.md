@@ -10,7 +10,7 @@ country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 crumb: "التعافي وإدارة الحالات ← ImROC ← جيفري شيبرد"
 edges:
 - rel: "belongs_to", target: "br-case-management", target_type: "تيار"
@@ -23,6 +23,7 @@ gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من *Making Recovery a Reality* (2008) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: تشارلز راب (thk-brapp)."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-case-management` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # جيفري شيبرد

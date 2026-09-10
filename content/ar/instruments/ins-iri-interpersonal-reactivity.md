@@ -17,8 +17,8 @@ evidence_level: "أداة راسخة وواسعة الاستخدام بحثيا�
 edges:
   []
 related:
-- id: "ins-eq-empathy-quotient", title: "مقياس حاصل التعاطف", type: "أداة قياس"
-- id: "syn-compassion-fatigue", title: "متلازمة التعب من التعاطف", type: "متلازمة"
+- id: "ins-eq-empathy-quotient", title: "مقياس حاصل التعاطف السيكولوجي (EQ - Baron-Cohen)", type: "أداة قياس"
+- id: "syn-compassion-fatigue", title: "متلازمة التعب من التعاطف (إجهاد الشفقة لدى مقدمي الرعاية)", type: "متلازمة"
 gaps:
   - "أبحاث مارك ديفيس (Mark H. Davis 1980/1983) في جامعة تكساس وتفكيك التعاطف إلى 4 أبعاد فرعية."
 ---

@@ -11,7 +11,7 @@ dates: "باريس · من خمسينيات القرن العشرين"
 active_start: 1953
 active_end: "مستمر"
 language: "الفرنسية"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-lacan", target_type: "مفكر"
@@ -24,6 +24,7 @@ related:
 gaps:
   - "التحول بين لاكان البنيوي (اللغوي في الخمسينيات) ولاكان الطوبولوجي ومفهوم Jouissance والواقعي (السبعينيات)."
   - "ممارسات الجلسة متغيرة الطول (Variable-Length Session) والجدل حول شرعيتها في الرابطة الدولية للتحليل النفسي (IPA)."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # التحليل النفسي اللاكاني وما بعد لاكان

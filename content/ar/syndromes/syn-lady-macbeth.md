@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "dis-ocd", title: "اضطراب الوسواس القهري", type: "اضطراب/حالة إكلينيكية"
-- id: "con-lady-macbeth-effect", title: "تأثير الليدي ماكبث", type: "مفهوم"
+- id: "con-lady-macbeth-effect", title: "تأثير الليدي ماكبث والتطهر الجسدي من الذنب الأخلاقي", type: "مفهوم"
 - id: "con-guilt", title: "الذنب", type: "مفهوم"
 gaps:
   - "تجارب تشين-بو تشونغ وميدوز (Zhong & Liljenquist 2006) في مجلة Science."

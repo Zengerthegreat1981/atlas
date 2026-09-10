@@ -16,7 +16,7 @@ related:
 - id: "thk-charlestaylor", title: "تشارلز تايلور", type: "مفكر"
 - id: "thk-macintyre", title: "ألاسدير ماكنتاير", type: "مفكر"
 - id: "thk-axel-honneth", title: "أكسل هونيث", type: "مفكر"
-- id: "wrk-hegel-phenomenology-spirit", title: "كتاب فينومينولوجيا الروح لجورج هيغل (1807)", type: "عمل"
+- id: "wrk-hegel-phenomenology-spirit", title: "كتاب فينومينولوجيا الروح لجورج هيغل (1807)", type: "عمل / كتاب"
 - id: "con-recognition-theory-honneth", title: "الاعتراف والصراع من أجل الكرامة (Recognition Theory)", type: "مفهوم"
 gaps:
   - "ملاحظة ازدواج محتمل: هذا الملف وcon-recognition-theory-honneth كلاهما يغطّي نظرية الاعتراف عند هونيث (Struggle for Recognition, 1992) من زاويتين متقاربتين؛ تحقق فعلي أكّد وجود الملفين منفصلين بعنوانين مختلفين حرفياً، فأُبقيا منفصلين مع ربط متبادل بدل الدمج — قرار الدمج/الفصل النهائي خارج نطاق هذه المهمة."

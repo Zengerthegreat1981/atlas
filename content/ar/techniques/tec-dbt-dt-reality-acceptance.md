@@ -14,7 +14,7 @@ evidence_level: "probably-efficacious"
 edges:
 - rel: "belongs_to", target: "sch-dbt", target_type: "مدرسة"
 related:
-- id: "tec-dbt-dt-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-radical-acceptance", title: "التقبل الجذري (DBT)", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-dt-practicing-imperfection", title: "ممارسة عدم الكمال", type: "تقنية/تدخل علاجي"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"

@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
-- id: "con-meaning", title: "المعنى", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 - id: "thk-ortega", title: "خوسيه أورتيغا إي غاسيت", type: "مفكر"
 - id: "thk-zambrano", title: "ماريا ثامبرانو", type: "مفكر"
 - id: "thk-machado", title: "أنطونيو ماتشادو", type: "مفكر"

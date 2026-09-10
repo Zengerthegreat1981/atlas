@@ -2,7 +2,7 @@
 slug: "thk-jgone"
 id: "THK-2234"
 type: "مفكر"
-part: "psychology"
+part: "philosophy"
 cultural_origin: "indigenous"
 level: "متقدم"
 title: "جوزيف ب. غون"
@@ -21,7 +21,7 @@ related:
 - id: "sch-indigenous-psychology", title: "علم نفس الشعوب الأصلية", type: "مدرسة"
 - id: "thk-mbraveheart", title: "ماريا يلوهورس بريف هارت", type: "مفكر"
 - id: "thk-ukim", title: "ويتشول كيم", type: "مفكر"
-- id: "con-historical-trauma", title: "الصدمة التاريخية", type: "مفهوم"
+- id: "con-historical-trauma", title: "الصدمة التاريخية (Historical Trauma)", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الطب النفسي الثقافي (sch-cultural-psychiatry)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: لورنس كيرماير (thk-lkirmayer)"
@@ -29,6 +29,7 @@ gaps:
   - "سنة الميلاد غير مؤكَّدة من مصدر أولي متاح بعد (تقدَّر في الستينيات)."
   - "نقده لمنهجية DSM في تشخيص اضطرابات السكان الأصليين موثّق في أعماله، لكن 'الصياغة الثقافية' (Cultural Formulation) التي اقترحها DSM-5 لم تُقيَّم بعدُ من حيث التطبيق الفعلي في سياقات السكان الأصليين."
   - "لا يوجد اقتباس مباشر موثوق في هذه المسودة."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-indigenous-psychology` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # جوزيف ب. غون

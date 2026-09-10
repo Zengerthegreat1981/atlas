@@ -20,7 +20,7 @@ edges:
 - rel: "authored_by", target: "thk-hanfeizi", target_type: "مفكر"
 related:
 - id: "thk-hanfeizi", title: "هان في تزو", type: "مفكر"
-- id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
+- id: "sch-legalism", title: "الشرعية / القانونية (Fajia)", type: "مدرسة"
 gaps:
   - "لهذا العمل ملفّ ثانٍ في الأطلس هو wrk-hanfeizi (أطول وأكثر تفصيلاً)؛ الملفان يتناولان نفس الكتاب ولم يُدمَجا."
   - "الفصل بين الفصول الأصلية والفصول المنسوبة إلى تلاميذ هان في تزو بعد وفاته لم يُحسم هنا."

@@ -17,7 +17,7 @@ edges:
 - rel: "belongs_to", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
 - id: "thk-miguel-ruiz", title: "دون ميغيل رويز", type: "مفكر"
-- id: "sch-transpersonal", title: "علم النفس عبر الشخصي", type: "مدرسة"
+- id: "sch-transpersonal", title: "علم النفس عبر الشخصي (Transpersonal Psychology)", type: "مدرسة"
 - id: "con-alam-al-mithal-imaginal", title: "عالم المثال والبرزخ الروحي (Alam al-Mithal / Mundus Imaginalis)", type: "مفهوم"
 - id: "con-hypnotic-trance", title: "الغشية التنويمية", type: "مفهوم"
 gaps:

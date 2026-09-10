@@ -18,8 +18,8 @@ related:
 - id: "tec-act-ca-tiny-steps-approach", title: "أسلوب الخطوات الصغيرة", type: "تقنية/تدخل علاجي"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
-- id: "wrk-hayes-acceptance-commitment-therapy", title: "كتاب العلاج بالقبول والالتزام لستيفن هايز (1999)", type: "عمل"
-- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب"
+- id: "wrk-hayes-acceptance-commitment-therapy", title: "كتاب العلاج بالقبول والالتزام لستيفن هايز (1999)", type: "عمل / كتاب"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-cbt-prob-smart-goal-setting", title: "تحديد الأهداف بطريقة SMART", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا توجد دراسة منشورة موثّقة تفحص تحديداً فعالية دمج معيار SMART داخل ACT (بمعزل عن فعالية ACT ذاتها)؛ evidence_level حُدِّد تحفظياً كـexperimental لهذا السبب."

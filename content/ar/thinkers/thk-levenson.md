@@ -11,7 +11,7 @@ active_start: 1972
 active_end: 2022
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-relational-psychoanalysis", target_type: "تيار"
 related:
@@ -23,6 +23,7 @@ gaps:
   - "**حُذف رابطٌ مُقحَم 2026-09-08:** كان `related` يحمل `con-authenticity` («الأصالة») حشواً من دفعةٍ قالبية، ولا يُذكَر المفهومُ في متن هذا الملف ولا صلةَ له بموضوعه."
   - "لا يوجد اقتباس مباشر موثوق من *The Fallacy of Understanding* (1972) بترجمة عربية معتمدة."
   - "أطروحته حول الغموض والمشاركة الفعلية في المجال التحليلي البين-شخصي تحتاج توثيقاً."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-relational-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # إدغار ليفنسون

@@ -11,7 +11,7 @@ dates: "1980s–1990s"
 active_start: 1985
 active_end: 1995
 language: "الإنجليزية"
-part: "philosophy"
+part: "psychology"
 edges:
 related:
 - id: "con-recovered-memory-controversy", title: "الجدل حول الذاكرة المُستعادة", type: "مفهوم"
@@ -21,6 +21,7 @@ gaps:
   - "**حُذف رابطٌ مُقحَم 2026-09-08:** كان `related` يحمل `br-sikolohiyang-pilipino` (علم النفس الفلبيني الأصيل) بلا أيِّ مسوّغ — ولا يُذكَر الفلبينُ ولا إنريكيز ولا «kapwa» في متن هذا الملفّ. وهو من دفعةٍ قالبيةٍ رُصد هدفُها الأوّل من قبل وأُغفل هذا."
   - "الأسماء الرئيسية (Lorna Smith Benjamin, Richard Ofshe, Elizabeth Loftus) لم تُكتب مسودات منفصلة."
   - "الجدل القضائي (False Memory Syndrome Foundation) لم يُوثّق بدقة كافية."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» ويخالف 3 من أبنائه — فالخطأُ في الأب لا في الأبناء، وصُحِّح إلى «psychology» بأغلبية الأسرة."
 ---
 
 # حركة الذاكرة المُستعادة العلاجية

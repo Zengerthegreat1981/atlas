@@ -14,10 +14,10 @@ language: "متعدد اللغات"
 part: "psychology"
 related:
 - id: "tec-motivational-interviewing", title: "المقابلات الدافعية (MI)", type: "تقنية/تدخل علاجي"
-- id: "tec-contingency-management", title: "إدارة الطوارئ", type: "تقنية/تدخل علاجي"
+- id: "tec-contingency-management", title: "إدارة الطوارئ والتعزيز السلوكي", type: "تقنية/تدخل علاجي"
 - id: "tec-relapse-prevention", title: "منع الانتكاس (RP)", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-urge-surfing", title: "ركوب موجة الرغبة الملحّة", type: "تقنية/تدخل علاجي"
+- id: "tec-act-pres-urge-surfing", title: "ركوب موجة الرغبة الملحّة (ACT)", type: "تقنية/تدخل علاجي"
 - id: "syn-craving-urge", title: "الرغبة الملحّة (craving)", type: "متلازمة"
 - id: "con-addiction", title: "الإدمان والبحث الروحي المشوه", type: "مفهوم"
 gaps:

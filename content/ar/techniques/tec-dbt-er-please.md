@@ -17,7 +17,7 @@ evidence_level: "probably-efficacious"
 related:
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
 - id: "tec-dbt-er-abc-please", title: "ايه بي سي بليز (ABC PLEASE) — خفض الهشاشة الانفعالية", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-er-mindful-eating", title: "الأكل بيقظة", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-er-mindful-eating", title: "الأكل بيقظة (DBT)", type: "تقنية/تدخل علاجي"
 - id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 gaps:

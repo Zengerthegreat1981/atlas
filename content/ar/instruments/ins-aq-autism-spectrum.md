@@ -19,7 +19,7 @@ edges:
 related:
 - id: "ins-sq-systemizing-quotient", title: "مقياس حاصل التنظيم والنظامة المعرفية (SQ-R)", type: "أداة قياس"
 - id: "dis-autism-spectrum", title: "اضطراب طيف التوحد", type: "اضطراب/حالة إكلينيكية"
-- id: "ins-eq-empathy-quotient", title: "مقياس حاصل التعاطف", type: "أداة قياس"
+- id: "ins-eq-empathy-quotient", title: "مقياس حاصل التعاطف السيكولوجي (EQ - Baron-Cohen)", type: "أداة قياس"
 gaps:
   - "أبحاث سيمون بارون كوهين ومركز أبحاث التوحد بكامبريدج (2001) ونقطة القطع (32/50)."
 ---

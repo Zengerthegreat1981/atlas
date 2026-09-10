@@ -17,8 +17,8 @@ replication_status: "contested"
 edges:
   []
 related:
-- id: "wrk-paradox-of-choice", title: "مفارقة الاختيار", type: "عمل / كتاب"
-- id: "con-paradox-of-choice", title: "مفارقة الاختيار وشلل القرار", type: "مفهوم"
+- id: "wrk-paradox-of-choice", title: "مفارقة الاختيار: لماذا يعني المزيد القليل", type: "عمل / كتاب"
+- id: "con-paradox-of-choice", title: "مفارقة الاختيار وشلل القرار (Paradox of Choice)", type: "مفهوم"
 - id: "thk-sheena-iyengar", title: "شينا إينغار", type: "مفكر"
 gaps:
   - "التطبيق في متجر دريغر بكاليفورنيا والمقارنة بين شاشات عرض 24 نكهة مقابل 6 نكهات."

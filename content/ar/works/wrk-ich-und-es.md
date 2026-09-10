@@ -10,7 +10,7 @@ dates: "1923 · سيغموند فرويد"
 active_start: 1923
 active_end: 1923
 language: "الألمانية"
-part: "philosophy"
+part: "psychology"
 author: "سيغموند فرويد"
 author_slug: "thk-freud"
 publication_year: 1923
@@ -19,12 +19,13 @@ edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-freud", target_type: "مفكر"
 related:
-- id: "wrk-freud-beyond-pleasure-principle", title: "ما وراء مبدأ اللذة", type: "عمل"
-- id: "trm-todestrieb-death-drive", title: "غريزة الموت والهدام (Todestrieb / Thanatos)", type: "مصطلح"
+- id: "wrk-freud-beyond-pleasure-principle", title: "ما وراء مبدأ اللذة", type: "عمل / كتاب"
+- id: "trm-todestrieb-death-drive", title: "غريزة الموت والهدام (Todestrieb / Thanatos)", type: "مصطلح لغوي متنازع عليه"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:
   - "تتداول ترجمات عربية لهذا العمل (منها ضمن مشاريع ترجمة أعمال فرويد الكاملة إلى العربية)، لكن لم يتيسّر تثبيت ثلاثيّ المترجم والناشر والسنة لأيٍّ منها، فلم تُسمَّ أيّ ترجمة هنا."
   - "الترجمة الإنجليزية المعتمدة (Standard Edition، جيمس ستراتشي، 1961) لم تُراجَع مقارنةً بالأصل الألماني للتحقق من دقّتها."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # الأنا والهو

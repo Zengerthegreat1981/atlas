@@ -17,7 +17,7 @@ edges:
 - rel: "belongs_to", target: "sch-hegel-left", target_type: "مدرسة"
 related:
 - id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
-- id: "sch-hegel-left", title: "الهيغلية اليسارية", type: "مدرسة"
+- id: "sch-hegel-left", title: "الهيغلية اليسارية / هيغليو الشباب", type: "مدرسة"
 - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
 - id: "thk-engels", title: "فريدريش إنغلز", type: "مفكر"
 - id: "con-dialectics", title: "الجدلية (Dialektik)", type: "مفهوم"

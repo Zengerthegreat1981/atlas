@@ -17,8 +17,8 @@ evidence_level: "probably-efficacious"
 edges:
   []
 related:
-- id: "ins-eq-empathy-quotient", title: "مقياس حاصل التعاطف", type: "أداة قياس"
-- id: "ins-aq-autism-spectrum", title: "مقياس حاصل طيف التوحد", type: "أداة قياس"
+- id: "ins-eq-empathy-quotient", title: "مقياس حاصل التعاطف السيكولوجي (EQ - Baron-Cohen)", type: "أداة قياس"
+- id: "ins-aq-autism-spectrum", title: "مقياس حاصل طيف التوحد للبالغين (AQ - Baron-Cohen)", type: "أداة قياس"
 gaps:
   - "تطوير نظرية E-S (التعاطف-التنظيم) لسيمون بارون كوهين عام 2003."
 ---

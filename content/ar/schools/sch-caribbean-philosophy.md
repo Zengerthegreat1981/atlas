@@ -14,9 +14,9 @@ active_start: 1969
 active_end: "مستمر"
 cultural_origin: "latin-american"
 related:
-- id: "sch-mestizaje", title: "فلسفة الهجنة", type: "مدرسة"
-- id: "sch-decolonial-latin", title: "الفلسفة الديكولونيالية اللاتينية", type: "مدرسة"
-- id: "sch-negritude", title: "الزنوجة", type: "مدرسة"
+- id: "sch-mestizaje", title: "فلسفة الهجنة / المِستيساخي", type: "مدرسة"
+- id: "sch-decolonial-latin", title: "الفلسفة الديكولونيالية اللاتينية الأمريكية", type: "مدرسة"
+- id: "sch-negritude", title: "الزنوجة (Négritude)", type: "مدرسة"
 gaps:
   - "نصوص Édouard Glissant, Patrick Chamoiseau, Raphaël Confiant, Maryse Condé need review."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

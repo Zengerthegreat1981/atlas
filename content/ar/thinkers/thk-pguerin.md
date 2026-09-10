@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1972
 active_end: 2014
-part: "philosophy"
+part: "psychology"
 crumb: "العلاج الأسري بالأنساق (Bowen Family Systems) ← الناس ← فيليب غيرين"
 edges:
 - rel: "belongs_to", target: "br-bowen-systems", target_type: "تيار"
@@ -19,6 +19,7 @@ related:
 gaps:
   - "تاريخ الميلاد والوفاة بالضبط (1932–2014) لم يُراجَع من سجل رسمي أو نعي مؤرشف؛ الاعتماد على مراجع ثانوية متكررة فقط."
   - "لا توجد معلومات موثقة عن نشأته أو تدريبه قبل جورجتاون."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-bowen-systems` موسومٌ «psychology» — فوُحِّد على وسم الأب."
 ---
 
 # فيليب غيرين

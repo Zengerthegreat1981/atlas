@@ -15,8 +15,8 @@ crumb: "علم النفس الانفعالي ولغة الجسد ← الناس 
 edges:
 - rel: "belongs_to", target: "sch-emotion-psychology", target_type: "مدرسة"
 related:
-- id: "stu-strack-facial-feedback-pen", title: "تجربة فريتز ستراك للتغذية الراجعة الوجهية وأزمة تكرارها (1988)", type: "دراسة"
-- id: "wrk-emotions-revealed", title: "المشاعر المكشوفة: إدراك الوجوه والمشاعر لتحسين التواصل", type: "عمل"
+- id: "stu-strack-facial-feedback-pen", title: "تجربة فريتز ستراك للتغذية الراجعة الوجهية وأزمة تكرارها (1988)", type: "دراسة وبحث"
+- id: "wrk-emotions-revealed", title: "المشاعر المكشوفة: إدراك الوجوه والمشاعر لتحسين التواصل", type: "عمل / كتاب"
 - id: "sch-eft", title: "العلاج المتمحور حول المشاعر (EFT)", type: "مدرسة"
 - id: "con-primary-emotion", title: "الانفعالات الأولية (Adaptive / Primary Emotions)", type: "مفهوم"
 gaps:

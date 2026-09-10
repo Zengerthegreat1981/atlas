@@ -12,12 +12,12 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-hegelianism", target_type: "مدرسة"
 related:
-- id: "thk-hegel", title: "هيغل", type: "مفكر"
+- id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
 - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
 - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
 - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
 - id: "sch-hegelianism", title: "الهيغلية", type: "مدرسة"
-- id: "wrk-hegel-phenomenology-spirit", title: "كتاب فينومينولوجيا الروح لجورج هيغل (1807)", type: "عمل"
+- id: "wrk-hegel-phenomenology-spirit", title: "كتاب فينومينولوجيا الروح لجورج هيغل (1807)", type: "عمل / كتاب"
 - id: "con-recognition-struggle", title: "الاعتراف (النضال من أجله)", type: "مفهوم"
 - id: "con-alienation-marx", title: "الاغتراب الماركسي (Entfremdung)", type: "مفهوم"
 gaps:

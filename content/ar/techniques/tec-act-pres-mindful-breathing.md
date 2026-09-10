@@ -15,7 +15,7 @@ edges:
 evidence_level: "probably-efficacious"
 related:
 - id: "tec-act-pres-anchoring-in-the-five-senses", title: "الرسو في الحواس الخمس", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-body-scan", title: "مسح الجسد", type: "تقنية/تدخل علاجي"
+- id: "tec-act-pres-body-scan", title: "مسح الجسد (ACT)", type: "تقنية/تدخل علاجي"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
 - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"

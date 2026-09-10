@@ -18,12 +18,12 @@ edges:
 - rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
 - id: "stu-stanford-prison", title: "تجربة سجن ستانفورد", type: "دراسة وبحث"
-- id: "wrk-lucifer-effect", title: "تأثير لوسيفر", type: "عمل / كتاب"
+- id: "wrk-lucifer-effect", title: "تأثير لوسيفر: كيف يتحول الأخيار إلى أشرار", type: "عمل / كتاب"
 - id: "thk-stanley-milgram", title: "ستانلي ميلغرام", type: "مفكر"
 - id: "thk-sasch", title: "سولومون آش", type: "مفكر"
-- id: "con-bystander-effect", title: "تأثير المتفرج وتشتت المسؤولية", type: "مفهوم"
-- id: "con-fundamental-attribution-error", title: "خطأ العزو الأساسي", type: "مفهوم"
-- id: "stu-latane-darley-smoke", title: "تجربة الغرفة المليئة بالدخان", type: "دراسة وبحث"
+- id: "con-bystander-effect", title: "تأثير المتفرج وتشتت المسؤولية (Bystander Effect)", type: "مفهوم"
+- id: "con-fundamental-attribution-error", title: "خطأ العزو الأساسي (عزو تصرفات الآخرين لطباعهم وتصرفاتنا للظروف)", type: "مفهوم"
+- id: "stu-latane-darley-smoke", title: "تجربة الغرفة المليئة بالدخان والجهل التعددي", type: "دراسة وبحث"
 - id: "con-lucifer-effect", title: "تأثير لوسيفر وسيكولوجيا الشر المؤسسي (The Lucifer Effect)", type: "مفهوم"
 gaps:
   - "قائمة مؤلفاته الكاملة بعد عام 2010 لم تُراجع من فهرس أولي."

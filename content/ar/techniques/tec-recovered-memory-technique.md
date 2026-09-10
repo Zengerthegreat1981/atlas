@@ -11,7 +11,7 @@ active_end: 1996
 part: "psychology"
 evidence_level: "discredited"
 edges:
-- rel: "belongs_to", target: "br-recovered-memory-movement", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-recovered-memory-movement", target_type: "تيار"
 related:
 - id: "dbt-recovered-memory-validity", title: "جدل الذاكرة المُستعادة: حقيقية أم زائفة؟", type: "جدل"
 - id: "con-recovered-memory-controversy", title: "الجدل حول الذاكرة المُستعادة", type: "مفهوم"

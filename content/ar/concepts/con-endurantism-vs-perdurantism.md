@@ -12,11 +12,11 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-analytic-metaphysics", target_type: "مدرسة"
 related:
-- id: "sch-analytic-metaphysics", title: "الميتافيزيقا التحليلية", type: "مدرسة"
+- id: "sch-analytic-metaphysics", title: "الميتافيزيقا التحليلية المعاصرة", type: "مدرسة"
 - id: "thk-dlewis", title: "ديفيد لويس", type: "مفكر"
-- id: "con-narrative-identity", title: "الهوية السردية", type: "مفهوم"
-- id: "rel-parfit-personal-identity-multiplicity-therapy", title: "الهوية الشخصية عند بارفيت وتعدّد أجزاء الذات", type: "علاقة بين مدرستين"
-- id: "rel-hume-bundle-self-dissociation", title: "حزمة الإدراكات لهيوم واضطرابات التفكّك", type: "علاقة بين مدرستين"
+- id: "con-narrative-identity", title: "الهوية السردية (Narrative Identity): أنا كقصة أرويها عن نفسي", type: "مفهوم"
+- id: "rel-parfit-personal-identity-multiplicity-therapy", title: "الهوية الشخصية عند بارفيت وتعدد أجزاء الذات (IFS)", type: "علاقة بين مدرستين"
+- id: "rel-hume-bundle-self-dissociation", title: "حزمة الإدراكات لهيوم واضطرابات التفكك وتبدد الشخصية", type: "علاقة بين مدرستين"
 gaps:
   - "**كُتب متنه 2026-09-07.** والفجوتان المسجَّلتان كانتا تنصّان على أن «أصحابَ المفهوم المؤسّسين وأعمالَهم المرجعية (مثل نقاشات ديفيد لويس حول الهوية عبر الزمن) غيرُ موثّقين في المتن» — وقد أُثبت موضعُ لويس ومسألةُ الخصائص الزمنية والصلةُ بنظريات الزمان."
   - "الاصطلاحان endurantism/perdurantism شاعا في الأدبيات في الثمانينيات ويُنسب تثبيتُهما إلى ديفيد لويس في *On the Plurality of Worlds* (1986)؛ ولم أُثبت أوّلَ من استعملهما بهذا المعنى، فهو محلُّ نظر."

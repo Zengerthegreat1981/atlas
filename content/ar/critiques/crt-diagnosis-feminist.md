@@ -11,7 +11,7 @@ active_start: 1970
 active_end: "مستمر"
 edges:
 related:
-- id: "crt-feminist-critique-behaviorism", title: "النقد النسوي للسلوكية", type: "نقد خارجي موثَّق"
+- id: "crt-feminist-critique-behaviorism", title: "النقد النسوي للسلوكية: نزع الجنسانية عن الإشراط الجنسي", type: "نقد خارجي موثَّق"
 - id: "crt-borderline-gendered-diagnosis", title: "اضطراب الشخصية الحدية: تشخيص جندري؟", type: "نقد خارجي موثَّق"
 - id: "crt-dsm-cultural-bias", title: "التحيز الثقافي في DSM", type: "نقد خارجي موثَّق"
 - id: "crt-anti-psychiatry-critique", title: "نقد مناهضة الطب النفسي المؤسسي: DSM كأداة سيطرة", type: "نقد خارجي موثَّق"

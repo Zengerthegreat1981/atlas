@@ -12,7 +12,7 @@ active_end: "مستمر"
 language: "متعدد اللغات"
 edges: []
 related:
-- id: "syn-neuroleptic-malignant", title: "المتلازمة الخبيثة لمضادات الذهان", type: "متلازمة"
+- id: "syn-neuroleptic-malignant", title: "المتلازمة الخبيثة لمضادات الذهان (حالة الطوارئ الدوائية الحادة)", type: "متلازمة"
 - id: "dis-schizophrenia", title: "الفصام", type: "اضطراب/حالة إكلينيكية"
 - id: "ins-aims-involuntary-movement", title: "مقياس الحركات اللاإرادية غير الطبيعية (AIMS)", type: "أداة قياس"
 - id: "con-lived-body", title: "الجسد المعيش (Leib vs. Körper)", type: "مفهوم"

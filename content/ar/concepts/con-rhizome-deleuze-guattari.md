@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-deleuze", title: "جيل دولوز", type: "مفكر"
 - id: "thk-guattari", title: "فيليكس غواتاري", type: "مفكر"
-- id: "wrk-a-thousand-plateaus-deleuze-guattari", title: "ألف هضبة لدولوز وغاتاري (Mille Plateaux)", type: "عمل"
+- id: "wrk-a-thousand-plateaus-deleuze-guattari", title: "ألف هضبة لدولوز وغاتاري (Mille Plateaux)", type: "عمل / كتاب"
 - id: "con-body-without-organs", title: "الجسد بلا أعضاء وتدفق الرغبة (Body without Organs)", type: "مفهوم"
 - id: "con-schizoanalysis-desiring-machines", title: "التحليل الفصامي وآلات الرغبة (Schizoanalysis)", type: "مفهوم"
 - id: "con-rhizomatic-learning-deleuze", title: "التعلم الجذموري والمعرفة المتشعبة (Rhizomatic Learning)", type: "مفهوم"

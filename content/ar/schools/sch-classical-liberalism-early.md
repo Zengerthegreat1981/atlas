@@ -18,10 +18,10 @@ edges:
 - rel: "evolved_from", target: "sch-enlightenment", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-british-empiricism", target_type: "مدرسة"
 related:
-- id: "sch-lockeanism", title: "اللوكية", type: "مدرسة"
-- id: "sch-social-contract", title: "العقد الاجتماعي", type: "مدرسة"
-- id: "sch-enlightenment", title: "فلسفة التنوير", type: "مدرسة"
-- id: "sch-deism", title: "الربوبية", type: "مدرسة"
+- id: "sch-lockeanism", title: "اللوكية (اللوكية التجريبية)", type: "مدرسة"
+- id: "sch-social-contract", title: "العقد الاجتماعي (كتيار فلسفي سياسي)", type: "مدرسة"
+- id: "sch-enlightenment", title: "فلسفة التنوير (كمظلة عامة)", type: "مدرسة"
+- id: "sch-deism", title: "الربوبية (Deism)", type: "مدرسة"
 gaps:
   - "نصوص آدم سميث وبنتام وماديسون بالإنجليزية والفرنسية تحتاج مراجعة من المصدر الأولي."
   - "الاقتباسات من 'The Wealth of Nations' لآدم سميث تحتاج مراجعة إضافية من المصدر الإنجليزي الأصلي."

@@ -10,10 +10,10 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2000
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 crumb: "العلاج بالحركة والرقص ← تطوير ← سوزان كوخ"
 edges:
-- rel: "belongs_to", target: "tec-dance-movement-therapy", target_type: "تيار"
+- rel: "belongs_to", target: "tec-dance-movement-therapy", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-mchace", title: "ماريان تشيس", type: "مفكر"
 - id: "thk-trudi-schoop", title: "ترودي شوپ", type: "مفكر"
@@ -25,6 +25,7 @@ gaps:
   - "لا توجد سيرة ذاتية منشورة لـ 'Susan Koch' في ADTA (الجمعية الأمريكية للعلاج بالحركة) حتى آب 2026."
   - "الاحتمال: خلط مع 'Susan C. Koch' (أستاذة في جامعة مينيسوتا، حقل الإعلام) أو 'Susan Koch' (باحثة في علوم الكمبيوتر)."
   - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'DMT Older Adults' عام."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-dance-movement-therapy` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # سوزان كوخ

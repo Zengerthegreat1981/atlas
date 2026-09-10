@@ -14,7 +14,7 @@ active_start: 1050
 active_end: 1400
 cultural_origin: "european"
 edges:
-- rel: "belongs_to", target: "sch-scholasticism", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-scholasticism", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-neoplatonism", target_type: "مدرسة"
 related:
 - id: "sch-scholasticism", title: "المدرسية (السكولاستية) — كمظلة", type: "مدرسة"

@@ -15,7 +15,7 @@ active_end: 2024
 edges:
 - rel: "belongs_to", target: "sch-islamic-critical-thought", target_type: "مدرسة"
 related:
-- id: "thk-mohammed-abed-al-jabri", title: "الجابري", type: "مفكر"
+- id: "thk-mohammed-abed-al-jabri", title: "محمد عابد الجابري", type: "مفكر"
 - id: "wrk-sual-al-akhlaq-taha-abderrahmane", title: "سؤال الأخلاق لطه عبد الرحمن", type: "عمل / كتاب"
 - id: "crt-taha-abderrahmane-critique-of-western-modernity", title: "نقد طه عبد الرحمن للواقع الحداثي الغربي وفصله عن الأخلاق", type: "نقد خارجي موثَّق"
 gaps:

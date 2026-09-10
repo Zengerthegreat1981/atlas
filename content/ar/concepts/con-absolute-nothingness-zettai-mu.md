@@ -19,8 +19,8 @@ related:
 - id: "con-basho-logic-of-place", title: "الباشو ومنطق المكان في مدرسة كيوتو (Basho)", type: "مفهوم"
 - id: "con-pure-experience-nishida", title: "التجربة الخالصة (Pure Experience)", type: "مفهوم"
 - id: "dbt-nishida-vs-tanabe", title: "نيشيدا ضد تانابه: الذات المطلقة أم المنطق التَفارقى؟", type: "جدل"
-- id: "wrk-an-inquiry-into-the-good-nishida", title: "بحث في الخير لكيتارو نيشيدا (Zen no Kenkyu)", type: "عمل"
-- id: "wrk-religion-and-nothingness-nishitani", title: "الدين والعدم لكيجي نيشيتاني", type: "عمل"
+- id: "wrk-an-inquiry-into-the-good-nishida", title: "بحث في الخير لكيتارو نيشيدا (Zen no Kenkyu)", type: "عمل / كتاب"
+- id: "wrk-religion-and-nothingness-nishitani", title: "الدين والعدم لكيجي نيشيتاني", type: "عمل / كتاب"
 gaps:
   - "لا تتوفر ترجمة عربية موثقة لنصوص نيشيدا ونيشيتاني الأصلية يمكن الاستشهاد بها حرفياً."
   - "أثر المفهوم على مدرسة ما بعد كيوتو لم يُفصَّل بعد."

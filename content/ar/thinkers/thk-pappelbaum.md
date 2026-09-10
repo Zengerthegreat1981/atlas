@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1977
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-therapeutic-risk-assessment", target_type: "تيار"
 related:
@@ -19,6 +19,7 @@ related:
 - id: "thk-jmonahan", title: "جون موناهان", type: "مفكر"
 gaps:
   - "تفاصيل مسيرته المبكرة في هارفارد قبل الانتقال إلى Columbia تحتاج توثيقاً من سيرته الرسمية."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-therapeutic-risk-assessment` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # بول أبلباوم

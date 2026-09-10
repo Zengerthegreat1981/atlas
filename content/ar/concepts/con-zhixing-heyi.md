@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-xinxue", target_type: "مدرسة"
 related:
 - id: "sch-xinxue", title: "مدرسة العقل/القلب (Xinxue / Lu-Wang)", type: "مدرسة"
-- id: "thk-wang-yangming", title: "وانغ يانغ مينغ", type: "مفكر"
+- id: "thk-wang-yangming", title: "وانغ يانغ مينغ (وانغ شو رن)", type: "مفكر"
 - id: "con-liangzhi", title: "الحدس الأخلاقي (良知 liángzhī)", type: "مفهوم"
 - id: "thk-zhu-xi", title: "تشو هسي", type: "مفكر"
 - id: "sch-lixue", title: "مدرسة المبدأ (Lixue / Cheng-Zhu)", type: "مدرسة"

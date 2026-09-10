@@ -17,7 +17,7 @@ related:
 - id: "thk-jteasdale", title: "جون تيزديل", type: "مفكر"
 - id: "thk-zsegal", title: "زيندل سيغال", type: "مفكر"
 - id: "con-mindfulness", title: "اليقظة الذهنية (Mindfulness)", type: "مفهوم"
-- id: "tec-cbt-mind-mindfulness-meditation", title: "تأمل اليقظة الذهنية", type: "تقنية"
+- id: "tec-cbt-mind-mindfulness-meditation", title: "تأمل اليقظة الذهنية", type: "تقنية/تدخل علاجي"
 gaps:
   - "**ازدواج غير مُدمَج بقرار تحريري صريح**: هذا الملف (tec-mbct-three-minute-breathing) وملف tec-mbct-3min-breathing-space يغطيان نفس التمرين بالضبط (مساحة التنفس الثلاث دقائق في MBCT). طُلب صراحة عدم دمجهما في هذه الدفعة، فقط تسجيل الازدواج ليقرر رئيس التحرير المعالجة. ملف مفهوم ثالث موازٍ موجود أيضاً: con-cbt-mbt-mindfulness-3min-breathing-space."
   - "دراسة Kuyken et al. 2010 المذكورة هي تجربة MBCT الكاملة (مقارنة بمضادات الاكتئاب الوقائية) لا دراسة مخصصة لمساحة التنفس الثلاث دقائق وحدها كمكوّن منعزل — لا توجد بيانات كمية منفصلة عن مساهمة هذا التمرين تحديداً في نتيجة البرنامج."

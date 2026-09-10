@@ -2,7 +2,7 @@
 slug: "dbt-general-factor-psychopathology-p"
 id: "DBT-0430"
 type: "جدل"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "هل يفسر العامل العام للاعتلال النفسي (P-Factor) تداخل الاضطرابات؟"
 en: "The General Factor of Psychopathology (P-Factor) Debate"
@@ -16,6 +16,7 @@ related:
 gaps:
   - "نظرية الشبكات لدنّي بورسبوم (Denny Borsboom) وإيكو فرايد (Eiko Fried) — النقد المضاد الأبرز لفكرة العامل الكامن الواحد — ليس لها مدخل مفكر منشور في الأطلس الرئيسي بعد (موجودة فقط في مسودات Spark)."
   - "دراسة الذرية طولية دنيدن (Dunedin Study) التي بُني عليها p-factor أصلاً غير موثّقة هنا كمصدر بيانات مستقل."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-biological-neuro` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # هل يفسر العامل العام للاعتلال النفسي (P-Factor) تداخل الاضطرابات؟

@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-enlightenment", target_type: "مدرسة"
 related:
 - id: "thk-rousseau", title: "جان جاك روسو", type: "مفكر"
-- id: "wrk-emile-on-education-rousseau", title: "إميل أو في التربية لروسو", type: "عمل"
+- id: "wrk-emile-on-education-rousseau", title: "إميل أو في التربية لروسو", type: "عمل / كتاب"
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 - id: "con-false-self-vs-true-self", title: "الذات المزيفة مقابل الذات الحقيقية", type: "مفهوم"
 - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"

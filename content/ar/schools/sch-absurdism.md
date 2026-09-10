@@ -14,11 +14,11 @@ language: "الفرنسية"
 active_start: 1942
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-existentialism", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-existentialism-atheist", target_type: "مدرسة"
 related:
-- id: "sch-existentialism", title: "الوجودية", type: "مدرسة"
-- id: "sch-existentialism-atheist", title: "الوجودية الملحدة", type: "مدرسة"
+- id: "sch-existentialism", title: "الوجودية (Existentialism)", type: "مدرسة"
+- id: "sch-existentialism-atheist", title: "الوجودية الملحدة (Atheist Existentialism)", type: "مدرسة"
 - id: "wrk-myth-sisyphus", title: "أسطورة سيزيف (Le Mythe de Sisyphe)", type: "عمل / كتاب"
 gaps:
   - "لا يوجد تماسك مؤسسي واضح لمدرسة 'عبثية' بعد كامو؛ هذا الملف يصف تيارًا فرديًا ممتدًا."

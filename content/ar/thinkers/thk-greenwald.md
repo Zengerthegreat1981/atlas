@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2005
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
 edges:
 - rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "تيار"
 related:
@@ -23,6 +23,7 @@ gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
   - "تم التحقق عبر ويكيبيديا (Ricky Greenwald) وموقع Trauma Institute & Child Trauma Institute من أن الاسم الصحيح هو 'ريكي غرينوالد' (وليس 'راي')، وأنه عالم نفس إكلينيكي (part: psychology) مؤسِّس ومدير معهد الصدمات (Trauma Institute & Child Trauma Institute)."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-sensorimotor-trauma-applications` موسومٌ «philosophy» — فوُحِّد على وسم الأب."
 ---
 
 # ريكي غرينوالد

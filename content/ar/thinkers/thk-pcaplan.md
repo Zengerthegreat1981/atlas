@@ -18,7 +18,7 @@ related:
 - id: "thk-sbem", title: "ساندرا بيم", type: "مفكر"
 - id: "thk-jbmiller", title: "جين بيكر ميلر", type: "مفكر"
 - id: "thk-mpbargreen", title: "ماري بيندر غرين", type: "مفكر"
-- id: "crt-borderline-gendered-diagnosis", title: "اضطراب الشخصية الحدية: تشخيص جندري؟", type: "نقد"
+- id: "crt-borderline-gendered-diagnosis", title: "اضطراب الشخصية الحدية: تشخيص جندري؟", type: "نقد خارجي موثَّق"
 gaps:
   - "إحالة معلَّقة أُزيلت: «كاثلين ساوثارد» (thk-ksouthard) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
   - "إحالة معلَّقة أُزيلت: «تريزا كابلان (أختها)» (thk-tcaplan) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."

@@ -18,8 +18,8 @@ related:
 - id: "thk-arne-naess", title: "أرنه نايس", type: "مفكر"
 - id: "wrk-sand-county-almanac", title: "تقويم مقاطعة الرمال (A Sand County Almanac)", type: "عمل / كتاب"
 - id: "con-land-ethic", title: "أخلاق الأرض (Land Ethic)", type: "مفهوم"
-- id: "sch-environmental-ethics", title: "فلسفة البيئة", type: "مدرسة"
-- id: "thk-holmes-rolston", title: "هولمز رولستون", type: "مفكر"
+- id: "sch-environmental-ethics", title: "فلسفة البيئة / الأخلاق البيئية", type: "مدرسة"
+- id: "thk-holmes-rolston", title: "هولمز رولستون الثالث (Holmes Rolston III)", type: "مفكر"
 gaps:
   - "عنوان مقالته عن البرية في *Journal of Forestry* سنة 1921 لم يُثبَت هنا نصاً، ولا موضعها من المجلد."
   - "لا تُعرف لهذا الملف ترجمة عربية معتمدة لـ *A Sand County Almanac*؛ الاقتباس أدناه مُعرَّب عن الإنجليزية."

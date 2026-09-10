@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-phil-mind-analytic", target_type: "مدرسة"
 related:
 - id: "con-mind-body", title: "مشكلة العقل والجسد", type: "مفهوم"
-- id: "axm-intentionality", title: "القصدية", type: "بديهية/مبدأ تأسيسي"
+- id: "axm-intentionality", title: "بديهية القصديةّة (Intentionality)", type: "بديهية/مبدأ تأسيسي"
 - id: "thk-nagel", title: "توماس ناغل", type: "مفكر"
 - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
 - id: "con-emergence", title: "النشوء (Emergence): خصائص لا تُختزل في أجزائها", type: "مفهوم"

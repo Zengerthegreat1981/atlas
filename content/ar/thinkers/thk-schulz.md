@@ -21,7 +21,7 @@ related:
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "thk-may", title: "رولو ماي", type: "مفكر"
 - id: "con-fundamental-existential-motivations", title: "الدوافع الوجودية الأربعة الأساسية", type: "مفهوم"
-- id: "con-meaning", title: "المعنى", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 ---
 
 # حُجر

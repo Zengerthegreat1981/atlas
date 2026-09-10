@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 crumb: "التكامل الحسي ← تطوير ← زوي مايو"
 edges:
 - rel: "belongs_to", target: "br-sensory-integration", target_type: "تيار"
@@ -24,6 +24,7 @@ gaps:
   - "لا توجد سيرة ذاتية منشورة لـ 'Zoë Mailloux' في USC (حيث تعمل) قبل 2010."
   - "الاحتمال: الاسم مُدخل من بيانات التواصل الحسي (USC Chan Sensory Integration)."
   - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'Sensory Integration' عام."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-sensory-integration` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # زوي مايو

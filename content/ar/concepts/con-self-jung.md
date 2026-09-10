@@ -17,14 +17,14 @@ edges:
 related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "br-jungian", title: "التحليلية اليونغية", type: "تيار"
-- id: "con-collective-unconscious", title: "اللاوعي الجماعي", type: "مفهوم"
+- id: "con-collective-unconscious", title: "اللاوعي الجماعي (Collective Unconscious)", type: "مفهوم"
 - id: "con-archetype", title: "النموذج الأصلي (Archetype)", type: "مفهوم"
 - id: "con-shadow", title: "الظلّ (Shadow)", type: "مفهوم"
 - id: "con-anima-animus", title: "الأنيما والأنيموس", type: "مفهوم"
-- id: "trm-individuation-jung", title: "التفرُّد (Individuation)", type: "مصطلح"
-- id: "trm-persona-jung", title: "القناع (Persona)", type: "مصطلح"
+- id: "trm-individuation-jung", title: "التفرد واكتمال الذات (Individuation): رحلة النضج وتكامل النفس", type: "مصطلح لغوي متنازع عليه"
+- id: "trm-persona-jung", title: "القناع الاجتماعي (Persona): الواجهة الظاهرية للتكيف مع العالم", type: "مصطلح لغوي متنازع عليه"
 - id: "con-synchronicity", title: "التزامن (Synchronicity)", type: "مفهوم"
-- id: "thk-vonfranz", title: "ماري-لويز فون فرانتس", type: "مفكر"
+- id: "thk-vonfranz", title: "ماري-لويز فون فرانز", type: "مفكر"
 - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
 gaps:
   - "**كُتب متنُه 2026-09-07:** نبّه على غيابه ملفُّ `con-archetype`؛ ولم يكن في الأطلس ما يُميِّز «الذات» اليونغية عن «الذات» في علم النفس التجريبي (self-concept) أو عند كوهوت، وهو خلطٌ شائع."

@@ -19,7 +19,7 @@ related:
 - id: "tec-naikan-therapy", title: "علاج نايكان والتأمل الاستبطاني", type: "تقنية/تدخل علاجي"
 - id: "tec-act-hexaflex", title: "نموذج القبول والالتزام والمصفوفة السداسية (Hexaflex)", type: "تقنية/تدخل علاجي"
 - id: "con-makoto-naka-ima", title: "ماكوتو / ناكا-إيما", type: "مفهوم"
-- id: "dis-social-anxiety-disorder", title: "اضطراب القلق الاجتماعي", type: "اضطراب"
+- id: "dis-social-anxiety-disorder", title: "اضطراب القلق الاجتماعي", type: "اضطراب/حالة إكلينيكية"
 - id: "thk-hkrystal", title: "هيروشي كاواشيما", type: "مفكر"
 - id: "thk-tkora", title: "تاكيهيسا كورّا", type: "مفكر"
 gaps:

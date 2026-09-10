@@ -15,7 +15,7 @@ related:
 - id: "sch-legalism", title: "الشرعية / القانونية (Fajia)", type: "مدرسة"
 - id: "thk-shang-yang", title: "شانغ يانغ (غي وي شيانغ)", type: "مفكر"
 - id: "thk-hanfeizi", title: "هان في تزو", type: "مفكر"
-- id: "wrk-hanfeizi", title: "كتاب هان في تزو", type: "عمل"
+- id: "wrk-hanfeizi", title: "كتاب هان في تزو", type: "عمل / كتاب"
 - id: "con-shu", title: "الشو (術) — التكنيك الإداري", type: "مفهوم"
 - id: "con-fa-shu-shi-legalism", title: "الأركان الثلاثة للشرعية الصينية (Fa, Shu, Shi)", type: "مفهوم"
 - id: "con-li", title: "اللي (禮) — الطقس والأدب", type: "مفهوم"

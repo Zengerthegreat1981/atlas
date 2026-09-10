@@ -10,21 +10,22 @@ country: "الولايات المتحدة"
 active_start: 1988
 active_end: "مستمر"
 language: "الإنجليزية"
-part: "psychology"
+part: "philosophy"
 evidence_level: "controversial"
 edges:
-- rel: "belongs_to", target: "tec-systemic-nlp-tad-james", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-systemic-nlp-tad-james", target_type: "تقنية/تدخل علاجي"
 - rel: "developed_by", target: "thk-tjames", target_type: "مفكر"
 related:
 - id: "thk-tjames", title: "تاد جيمس", type: "مفكر"
-- id: "br-nlp-systemic", title: "البرمجة اللغوية العصبية (NLP)", type: "مدرسة"
-- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب"
+- id: "br-nlp-systemic", title: "البرمجة اللغوية العصبية (NLP)", type: "تيار"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-emdr", title: "إزالة التحسس وإعادة المعالجة بحركات العين (EMDR)", type: "تقنية/تدخل علاجي"
 gaps:
   - "الإثبات التجريبي المستقل لآليات خط الزمن خارج نطاق أدبيات NLP لم يُوثّق."
   - "العلاقة بين خط الزمن وأساليب العلاج بالتخيل الموجّه (Guided Imagery) في الأدبيات الأكاديمية لم تُقارن."
   - "لم يُعثر على اقتباس مباشر موثوق."
   - "لا توجد دراسة محكّمة مستقلة (خارج أدبيات NLP نفسها) تثبت أو تنفي فعالية خط الزمن تحديداً؛ التصنيفات النقدية لـNLP (مثل مراجعة Witkowski 2010) تتناول المدرسة الأم لا التقنية بعينها بالاسم."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `tec-systemic-nlp-tad-james` موسومٌ «philosophy» — فوُحِّد على وسم الأب."
 ---
 
 # علاج خط الزمن (Time Line Therapy™)

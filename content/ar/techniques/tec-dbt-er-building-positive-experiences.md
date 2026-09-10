@@ -18,7 +18,7 @@ related:
 - id: "tec-dbt-er-accumulating-positives-build-mastery", title: "تجميع الإيجابيات طويلة المدى وبناء الإتقان (B)", type: "تقنية/تدخل علاجي"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
-- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب"
+- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "لا توجد في الأطلس دراسة منفصلة تعزل أثر «A» عن حزمة ABC PLEASE أو عن حزمة DBT الشاملة؛ فعاليتها موثقة ضمن تجارب DBT الكلية لا كمكوّن مستقل."
 ---

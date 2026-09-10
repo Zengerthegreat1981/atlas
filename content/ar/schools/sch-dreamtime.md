@@ -15,8 +15,8 @@ active_end: "مستمر"
 active_source: "lifespan"
 cultural_origin: "indigenous"
 related:
-- id: "sch-kaupapa-maori", title: "Kaupapa Māori", type: "مدرسة"
-- id: "sch-indigenous-philosophy-contemporary", title: "فلسفات السكان الأصليين المعاصرة", type: "مدرسة"
+- id: "sch-kaupapa-maori", title: "Kaupapa Māori (فلسفة الماوري)", type: "مدرسة"
+- id: "sch-indigenous-philosophy-contemporary", title: "فلسفات السكان الأصليين المعاصرة (كمظلة نقدية عابرة للمناطق)", type: "مدرسة"
 - id: "con-dreamtime", title: "زمن الأحلام (Dreamtime / Tjukurrpa)", type: "مفهوم"
 gaps:
   - "النصوص الأصلية للسكان الأصليين الأستراليين (شفهية) تحتاج مراجعة من المصدر الأولي."

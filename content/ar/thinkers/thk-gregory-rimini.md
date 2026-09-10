@@ -19,7 +19,7 @@ related:
 - id: "thk-william-ockham", title: "وليم الأوكامي", type: "مفكر"
 - id: "sch-ockhamism", title: "الأوكامية / الاسمية", type: "مدرسة"
 - id: "con-nominalism-universals-concept", title: "الاسمية وإنكار الوجود الواقعي للكليات (Nominalism)", type: "مفهوم"
-- id: "con-universals-debate", title: "جدل الكليات", type: "مفهوم"
+- id: "con-universals-debate", title: "جدل الكليات (مشكلة الكُنْه)", type: "مفهوم"
 gaps:
   - "تاريخ ميلاده (نحو 1300) غير مؤكّد. السيرة الأولى في أواخر القرن 14 تتحدّث عن «شاب يافع». "
   - "علاقته بجماعة الرهبان الأوغسطينيين في ريميني قبل سفره إلى باريس موثّقة جزئياً."

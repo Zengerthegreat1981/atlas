@@ -9,7 +9,7 @@ crumb: "علم نفس الجسد ← الناس ← Bioenergetics في أمري�
 dates: "البرازيل · [غير مؤكد]"
 country: "البرازيل"
 language: "البرتغالية / الإنجليزية"
-part: "psychology"
+part: "philosophy"
 active_start: null
 active_end: "مستمر"
 edges:
@@ -21,6 +21,7 @@ related:
 - id: "thk-epierrakos", title: "إيڤا بيراكوس (بروش)", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-somatic-experiencing` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # ماي ناسيمينتو

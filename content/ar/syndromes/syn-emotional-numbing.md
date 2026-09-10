@@ -15,7 +15,7 @@ edges:
 related:
 - id: "tec-cbt-mind-grounding-techniques", title: "تقنيات التأريض (الرسو)", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-mindfulness-meditation", title: "تأمل اليقظة الذهنية", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-body-scan", title: "مسح الجسد", type: "تقنية/تدخل علاجي"
+- id: "tec-act-pres-body-scan", title: "مسح الجسد (ACT)", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-pleasant-activity-scheduling", title: "جدولة الأنشطة الممتعة", type: "تقنية/تدخل علاجي"
 - id: "tec-act-sac-noticing-who-is-noticing", title: "ملاحظة 'مين اللي بيلاحظ'", type: "تقنية/تدخل علاجي"
 - id: "tec-act-sac-the-sky-and-weather-metaphor", title: "استعارة السماء والطقس", type: "تقنية/تدخل علاجي"

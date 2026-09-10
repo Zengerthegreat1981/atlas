@@ -10,16 +10,17 @@ country: "الولايات المتحدة"
 language: "الإنجليزية/الألمانية"
 active_start: 1959
 active_end: 1977
-part: "philosophy"
+part: "psychology"
 crumb: "العلاج بالموسيقى ← الناس ← بول نوردوف"
 edges:
-- rel: "belongs_to", target: "tec-music-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-music-therapy", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-crobbins", title: "كلايف روبنز", type: "مفكر"
 - id: "thk-egaston", title: "إ. ثوريت غاستون", type: "مفكر"
 gaps:
   - "حُذف رابطان related كانا يشاوران على ملفات غير موجودة (thk-rsteiner، br-music-therapy — مدرسة العلاج بالموسيقى نفسها بلا ملف sch-/br- معتمد، سُجّلت في missing-schools.md)."
   - "أعماله الموسيقية المبكرة (ما قبل 1958) غير مفهرسة بشكل منهجي."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-music-therapy` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # بول نوردوف

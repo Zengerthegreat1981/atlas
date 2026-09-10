@@ -21,7 +21,7 @@ related:
 - id: "thk-ricoeur", title: "بول ريكور", type: "مفكر"
 - id: "thk-derrida", title: "جاك دريدا", type: "مفكر"
 - id: "thk-levinas", title: "إيمانويل ليفيناس", type: "مفكر"
-- id: "que-can-we-forgive-the-unforgivable", title: "هل يمكن للإنسان أن يغفر ما لا يغتفر وما هي شروط المسامحة الجذرية؟", type: "سؤال"
+- id: "que-can-we-forgive-the-unforgivable", title: "هل يمكن للإنسان أن يغفر ما لا يغتفر وما هي شروط المسامحة الجذرية؟", type: "سؤال توليدي"
 gaps:
   - "تفاصيل 'Traitement du Mal' بالعربية موثّقة جزئياً."
   - "علاقته مع Ricoeur في نقاشات 'الذاكرة التاريخية' موثّقة جزئياً."

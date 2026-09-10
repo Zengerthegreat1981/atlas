@@ -16,7 +16,7 @@ related:
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
 - id: "con-panopticon-surveillance", title: "البانوبتيكون ومجتمع المراقبة (The Panopticon)", type: "مفهوم"
 - id: "wrk-discipline-and-punish-foucault", title: "المراقبة والمعاقبة لميشيل فوكو (Surveiller et punir)", type: "عمل / كتاب"
-- id: "br-classical-utilitarianism-bentham-mill", title: "النفعية الكلاسيكية التشريعية والليبرالية — النفعية", type: "مدرسة"
+- id: "br-classical-utilitarianism-bentham-mill", title: "النفعية الكلاسيكية التشريعية والليبرالية — النفعية", type: "تيار"
 - id: "trm-dispositif-foucault", title: "الجهاز أو المنظومة الإجرائية (Dispositif): شبكة علاقات السلطة والمعرفة", type: "مصطلح لغوي متنازع عليه"
 - id: "que-biopolitics-power-over-life", title: "كيف تحولت السلطة من حق القتل إلى إدارة الحياة والجسد (البيوبوليتيك)؟", type: "سؤال توليدي"
 gaps:

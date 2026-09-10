@@ -12,8 +12,8 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-leibnizianism", target_type: "مدرسة"
 related:
-- id: "thk-leibniz", title: "لايبنتز", type: "مفكر"
-- id: "thk-spinoza", title: "سبينوزا", type: "مفكر"
+- id: "thk-leibniz", title: "غوتفريد فيلهلم لايبنتز", type: "مفكر"
+- id: "thk-spinoza", title: "باروخ سبينوزا", type: "مفكر"
 - id: "con-identity-of-indiscernibles", title: "تطابق اللامتمايزات (Identity of Indiscernibles)", type: "مفهوم"
 gaps:
   - "لم يُراجَع نص مراسلات كلارك-لايبنتز (1715-1716) من مصدر أولي مترجم؛ الاعتماد هنا على وصف ثانوي لمضمونها."

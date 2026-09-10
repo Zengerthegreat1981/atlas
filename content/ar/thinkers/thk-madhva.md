@@ -16,8 +16,8 @@ crumb: "دفايتا فيدانتا (التثنية) ← الناس ← ماده
 edges:
 - rel: "belongs_to", target: "sch-dvaita-vedanta", target_type: "مدرسة"
 related:
-- id: "sch-dvaita-vedanta", title: "دفايتا فيدانتا", type: "مدرسة"
-- id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"
+- id: "sch-dvaita-vedanta", title: "دفايتا فيدانتا (التثنية)", type: "مدرسة"
+- id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا (اللاتثنية)", type: "مدرسة"
 - id: "sch-vishishtadvaita", title: "فيشيشتادفايتا", type: "مدرسة"
 - id: "dbt-advaita-vs-dvaita", title: "أدفايتا فيدانتا في مقابل دفايتا فيدانتا: هل العالم وهم أم حقيقة؟", type: "جدل"
 - id: "ctx-hindu-philosophical-traditions", title: "التقاليد الفلسفية الهندية الكبرى", type: "سياق/تقليد"

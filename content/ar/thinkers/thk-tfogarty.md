@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1975
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 crumb: "العلاج الأسري بالأنساق (Bowen) ← الناس ← توماس فوغارتي"
 edges:
 - rel: "belongs_to", target: "br-bowen-systems", target_type: "تيار"
@@ -24,6 +24,7 @@ gaps:
   - "العمل المشار إليه ('The Intimate Wilderness') — 1977، محرَّر بيرسي جيل (Percy H. Gwynne) — لا يظهر فيه اسم Fogarty في السجلات الأكاديمية."
   - "الاحتمال: خلط مع 'Thomas S. Fogarty' (الطبيب والمخترع في Mayo Clinic، حامل براءة اختراع قسطرة Fogarty، 1926–2017) أو 'Thomas J. Fogarty' (صناعات)."
   - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'Bowen Family Systems' عام."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-bowen-systems` موسومٌ «psychology» — فوُحِّد على وسم الأب."
 ---
 
 # توماس ف. فوغارتي

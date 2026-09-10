@@ -16,7 +16,7 @@ edges: []
 related:
 - id: "thk-leopoldo-zea", title: "ليوبولدو زيا", type: "مفكر"
 - id: "ctx-latin-american-coloniality", title: "السياق الاستعماري لأمريكا اللاتينية وفلسفة التحرير", type: "سياق/تقليد"
-- id: "sch-andean-philosophy", title: "الفلسفة الأنديزية (كيتشوا-أيمارا)", type: "مدرسة"
+- id: "sch-andean-philosophy", title: "الفلسفة الأنديزية (كيتشوا-أيمارا؛ آيني، سومَك كاوساي)", type: "مدرسة"
 - id: "sch-indigenismo", title: "الإنديجينيزمو", type: "مدرسة"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *7 ensayos de interpretación de la realidad peruana* (1928) بترجمة عربية معتمدة."

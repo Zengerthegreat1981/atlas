@@ -18,8 +18,8 @@ related:
 - id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
 - id: "tec-act-sac-the-sky-and-weather-metaphor", title: "استعارة السماء والطقس", type: "تقنية/تدخل علاجي"
 - id: "tec-act-sac-noticing-who-is-noticing", title: "ملاحظة 'مين اللي بيلاحظ'", type: "تقنية/تدخل علاجي"
-- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب"
-- id: "dis-panic-disorder", title: "اضطراب الهلع", type: "اضطراب"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-panic-disorder", title: "اضطراب الهلع", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-dbt-dt-tipp", title: "تيب (TIPP)", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا توجد دراسة محددة بالاسم والسنة تثبت فعالية 'المكان الآمن' كتقنية مستقلة؛ الأدلة المتاحة عن imagery rescripting وsafe place visualization عموماً في العلاج بالتنويم، لا عن هذا الشكل تحديداً ضمن ACT."

@@ -22,7 +22,7 @@ related:
 - id: "thk-csikszentmihalyi", title: "ميهاي تشيكسنتميهاي", type: "مفكر"
 - id: "con-flow", title: "التدفق (Flow)", type: "مفهوم"
 - id: "con-flow-state-popular", title: "حالة التدفق الذهني والاستغراق (Flow State)", type: "مفهوم"
-- id: "exp-flow-state-csikszentmihalyi", title: "تجربة الفيض (Flow) عند تشيكزينتميهايلي: الاندماج الكامل في النشاط", type: "تجربة"
+- id: "exp-flow-state-csikszentmihalyi", title: "تجربة الفيض (Flow) عند تشيكزينتميهايلي: الاندماج الكامل في النشاط", type: "خبرة معيشة"
 gaps:
   - "لم أعثر على ترجمة عربية للكتاب يمكن تثبيت اسم مترجمها ودار نشرها وسنتها، فلم يُدرَج شيء تحت هذا البند."
   - "أرقام صفحات طبعة Harper & Row 1990 غير مراجَعة هنا، ولذلك لا اقتباس حرفي في الملف."

@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
 related:
@@ -25,6 +25,7 @@ gaps:
   - "سنة رئاسته للجمعية الدولية لدراسات الكرب الصدمي (ISTSS) وتاريخ تأسيس مركز الصدمة في بروكلاين غير مُحقَّقين هنا."
   - "مآل دعواه القضائية ضد Justice Resource Institute بعد 2018 غير معروف."
   - "أُزيل رابطان لمدخلين غير متحقَّق منهما نُقلا إلى المسودات: thk-albertellis-somatic وthk-mariannekline."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-somatic-experiencing` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # بِسِل فَن دِر كولك

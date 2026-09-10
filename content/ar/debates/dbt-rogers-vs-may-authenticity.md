@@ -16,7 +16,7 @@ related:
 - id: "thk-may", title: "رولو ماي", type: "مفكر"
 - id: "thk-bugental", title: "جيمس بوجنتال", type: "مفكر"
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
-- id: "con-fully-functioning-person", title: "الشخصية العاملة بكامل طاقتها", type: "مفهوم"
+- id: "con-fully-functioning-person", title: "الشخصية العاملة بكامل طاقتها (Fully Functioning Person)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من نص الجدل بعد."
   - "التفاصيل الكاملة لموقف تيليش من الأصالة (Paul Tillich) تحتاج تحقق."

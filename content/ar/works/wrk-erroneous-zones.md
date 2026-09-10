@@ -21,7 +21,7 @@ edges:
 related:
 - id: "thk-wayne-dyer", title: "واين داير", type: "مفكر"
 - id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
-- id: "tec-rebt", title: "العلاج العقلاني الانفعالي السلوكي (REBT)", type: "تقنية"
+- id: "tec-rebt", title: "العلاج العقلاني الانفعالي السلوكي (REBT)", type: "تقنية/تدخل علاجي"
 - id: "wrk-reason-emotion-psychotherapy-ellis", title: "العقل والانفعال في العلاج النفسي", type: "عمل / كتاب"
 gaps:
   - "الموضع والسنة الدقيقان لاعتراض ألبرت إليس على الكتاب (أي مقابلة أو مقالة صرّح فيها بذلك) لم يُوثَّقا."

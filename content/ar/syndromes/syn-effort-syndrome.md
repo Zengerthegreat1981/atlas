@@ -12,9 +12,9 @@ active_end: 1945
 language: "متعدد اللغات"
 edges: []
 related:
-- id: "syn-da-costa", title: "متلازمة دا كوستا", type: "متلازمة"
+- id: "syn-da-costa", title: "متلازمة دا كوستا (قلب الجندي / الوهن الدوري العصبي التاريخي)", type: "متلازمة"
 - id: "dis-panic-disorder", title: "اضطراب الهلع", type: "اضطراب/حالة إكلينيكية"
-- id: "syn-shell-shock", title: "متلازمة صدمة القذائف", type: "متلازمة"
+- id: "syn-shell-shock", title: "متلازمة صدمة القذائف (صدمة الحرب العالمية الأولى)", type: "متلازمة"
 - id: "con-lived-body", title: "الجسد المعيش (Leib vs. Körper)", type: "مفهوم"
 gaps:
   - "أبحاث السير توماس لويس (Sir Thomas Lewis 1917) في مستشفى سوفولك العسكري خلال الحرب العالمية الأولى."

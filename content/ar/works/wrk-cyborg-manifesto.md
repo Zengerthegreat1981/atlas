@@ -18,7 +18,7 @@ original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-posthumanism", target_type: "مدرسة"
 related:
-- id: "sch-posthumanism", title: "ما بعد الإنسانية", type: "مدرسة"
+- id: "sch-posthumanism", title: "ما بعد الإنسانية (Posthumanism)", type: "مدرسة"
 - id: "thk-haraway", title: "دونا هاراواي", type: "مفكر"
 gaps:
   - "لم يثبت وجود ترجمة عربية منشورة لهذا المقال بثلاثيّها الكامل: بُحث عن مترجم وناشر وسنة ولم يُعثر على أيٍّ منها."

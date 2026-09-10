@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1965
 active_end: 2024
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-gestalt-therapy", target_type: "مدرسة"
 related:
@@ -24,6 +24,7 @@ gaps:
   - "تعارض في مكان الميلاد: مدخل ويكيبيديا الإنجليزي يذكر تشيكوسلوفاكيا (13 أبريل 1922) بينما حقل `dates` و`country` في هذا الملف يقولان الولايات المتحدة."
   - "التقسيم الفعلي للفصول بين إرفينغ وميريام بولستر داخل *Gestalt Therapy Integrated* (1973) و*From the Radical Center* (1999) غير مبيَّن في الطبعتين، فلا يمكن فصل إسهام كل منهما."
   - "سنة نشر *Enchantment and Gestalt Therapy* غير محسومة (طبعة Routledge مقابل تواريخ فهرسة أقدم)، فحُذف العمل من قائمة الأعمال بدل ذكره بسنة غير مؤكدة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-gestalt-therapy` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # إرفينغ بولستر

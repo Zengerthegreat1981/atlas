@@ -17,9 +17,9 @@ edges:
 - rel: "evolved_from", target: "sch-feminism-french-poststructural", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-post-structuralism", target_type: "مدرسة"
 related:
-- id: "sch-feminism-french-poststructural", title: "النسوية الفرنسية", type: "مدرسة"
-- id: "sch-post-structuralism", title: "ما بعد البنيوية", type: "مدرسة"
-- id: "sch-deconstruction", title: "التفكيكية", type: "مدرسة"
+- id: "sch-feminism-french-poststructural", title: "النسوية الفرنسية (ما بعد بنيوية)", type: "مدرسة"
+- id: "sch-post-structuralism", title: "ما بعد البنيوية (Post-structuralisme)", type: "مدرسة"
+- id: "sch-deconstruction", title: "التفكيكية (Déconstruction)", type: "مدرسة"
 - id: "sch-transfeminism", title: "الترانسفيمينية (نسوية العابرين جنسياً)", type: "مدرسة"
 - id: "con-queer-theory", title: "النظرية الكويرية", type: "مفهوم"
 - id: "con-gender-performativity-concept", title: "الأداء الجندري وتفكيك الهوية الطبيعية (Gender Performativity)", type: "مفهوم"

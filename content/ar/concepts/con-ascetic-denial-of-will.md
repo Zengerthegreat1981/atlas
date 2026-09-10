@@ -12,9 +12,9 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-pessimism", target_type: "مدرسة"
 related:
-- id: "thk-schopenhauer", title: "آرثر شوبنهاور", type: "مفكر"
-- id: "sch-pessimism", title: "التشاؤمية (Pessimism)", type: "مدرسة"
-- id: "con-will-to-live-schopenhauer", title: "إرادة الحياة عند شوبنهاور", type: "مفهوم"
+- id: "thk-schopenhauer", title: "أرتور شوبنهاور", type: "مفكر"
+- id: "sch-pessimism", title: "التشاؤمية الفلسفية", type: "مدرسة"
+- id: "con-will-to-live-schopenhauer", title: "إرادة الحياة العمياء (Will to Live)", type: "مفهوم"
 - id: "con-dukkha-suffering", title: "الدكها والمعاناة الوجودية في البوذية (Dukkha)", type: "مفهوم"
 - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
 - id: "rel-schopenhauer-freudian-psychoanalysis", title: "التشاؤمية الشوبنهاورية وإرادة الحياة واللاوعي الفرويدي", type: "علاقة بين مدرستين"

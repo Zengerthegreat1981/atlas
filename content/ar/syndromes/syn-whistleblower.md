@@ -12,7 +12,7 @@ active_end: "مستمر"
 language: "متعدد اللغات"
 edges: []
 related:
-- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-adjustment-disorders", title: "اضطرابات التكيّف", type: "اضطراب/حالة إكلينيكية"
 - id: "con-parrhesia-fearless-speech", title: "القول الصريح والشجاعة الحوارية (Parrhesia)", type: "مفهوم"
 gaps:

@@ -14,7 +14,7 @@ cultural_origin: "islamic-arabic"
 active_start: 940
 active_end: 1050
 edges:
-- rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 - rel: "belongs_to", target: "sch-ismaili", target_type: "مدرسة"
 related:
 - id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"

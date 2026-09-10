@@ -6,7 +6,7 @@ part: "psychology"
 level: "متقدم"
 title: "نقد الْآلِيَّة الْعِلْمِيَّة لِـ EMDR: هَل حَرَكَة الْعَيْن هِيَ الْأَسَاس؟"
 en: "Critique of EMDR Mechanism: Is Eye Movement the Active Ingredient?"
-crumb: "نقد ← EMDR"
+crumb: "النقد الخارجي ← EMDR"
 active_start: 2000
 active_end: "مستمر"
 edges:
@@ -14,13 +14,14 @@ edges:
 related:
 - id: "thk-francine-shapiro", title: "فرانسين شابيرو", type: "مفكر"
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
-- id: "crt-replication-crisis", title: "أزمة التكرار", type: "نقد خارجي موثَّق"
+- id: "crt-replication-crisis", title: "نقد أزمة التكرار العلمي: ميتا-تحليلات لا تتطابق", type: "نقد خارجي موثَّق"
 - id: "crt-neuroscience-critique-classic-theories", title: "النقد العصبي-العلمي للنظريات الكلاسيكية: فجوة الدليل العصبي", type: "نقد خارجي موثَّق"
 - id: "dbt-emdr-vs-cbt", title: "جدل EMDR ضد CBT المركز على الصدمة لاضطراب ما بعد الصدمة", type: "جدل"
 gaps:
 - "لم تُراجع من نسخة أصلية مباشرة بعد (McNally, 1999; Lilienfeld, 2001; Herbert et al., 2013)."
 - "النقاشات الحديثة (2018-2024) حول فعالية EMDR تحتاج فصلاً مستقلاً."
   - "**حُلَّ هدفٌ نصّيٌّ 2026-09-10:** وُجِّه `relates_to` من النصِّ «علم نفس الصدمة» إلى `sch-trauma-psychology`."
+  - "**وُحِّد مسارُ التنقّل 2026-09-10:** كان «نقد» وصار «النقد الخارجي» — لأنّ الجذرَ كان منقسماً بين صيغتين للشيء نفسِه، فيعرض فهرسُ التصفّح موضعين لموضعٍ واحد."
 ---
 # نقد الآلية العلمية ل EMDR: هل حركة العين هي الأساس؟
 

@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
-- id: "sch-phenomenology-somatic", title: "الظاهراتية الجسدية", type: "مدرسة"
+- id: "sch-phenomenology-somatic", title: "الظاهراتية الجسدية (Somatic Phenomenology)", type: "مدرسة"
 gaps:
   - "الفرق بين 'ظاهراتية الجسد' عند هنري و'ظاهراتية الجسد' عند مِرلو-بونتي لم يُحلّل."
   - "لا يوجد اقتباس مباشر موثوق من 'الجوهر الظاهراتي' (1963)."

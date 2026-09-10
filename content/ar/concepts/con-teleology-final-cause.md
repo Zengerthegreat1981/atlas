@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-aristotelianism", target_type: "مدرسة"
 related:
 - id: "thk-aristotle", title: "أرسطو", type: "مفكر"
-- id: "sch-aristotelianism", title: "الأرسطية", type: "مدرسة"
+- id: "sch-aristotelianism", title: "المشائية / الأرسطية (Aristotelianism)", type: "مدرسة"
 gaps:
   - "غياب مقارنة موثّقة بمصدر مباشر بين الغائية الأرسطية وغائية كانط التنظيمية في نقد الحكم (1790) — الفرق بينهما جوهري (تكوينية مقابل تنظيمية) ولم يُفصَّل هنا."
   - "لا يوجد تتبع موثّق لموقف علم الأحياء التطوري المعاصر (الغائية الزائفة/teleonomy عند مايكل) من إرث المفهوم."

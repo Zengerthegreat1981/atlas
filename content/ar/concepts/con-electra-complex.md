@@ -15,7 +15,7 @@ edges:
 related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-- id: "sch-psychoanalysis", title: "التحليل النفسي", type: "مدرسة"
+- id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "con-oedipus-complex", title: "عقدة أوديب (الدينامية النفسية الجنسية في التحليل النفسي)", type: "مفهوم"
 - id: "thk-khorney", title: "كارين هُورْني", type: "مفكر"
 gaps:

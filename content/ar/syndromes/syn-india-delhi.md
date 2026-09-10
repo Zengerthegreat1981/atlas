@@ -12,8 +12,8 @@ active_end: "مستمر"
 language: "متعدد اللغات"
 edges: []
 related:
-- id: "syn-jerusalem", title: "متلازمة القدس", type: "متلازمة"
-- id: "syn-paris", title: "متلازمة باريس", type: "متلازمة"
+- id: "syn-jerusalem", title: "متلازمة القدس (الذهان الموقفي الديني العابر لزوار الأماكن المقدسة)", type: "متلازمة"
+- id: "syn-paris", title: "متلازمة باريس (الصدمة الثقافية الحادة والانهيار الموقفي)", type: "متلازمة"
 - id: "dis-brief-psychotic", title: "الذهان القصير", type: "اضطراب/حالة إكلينيكية"
 - id: "con-orientalism", title: "الاستشراق (Orientalism)", type: "مفهوم"
 gaps:

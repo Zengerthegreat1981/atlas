@@ -14,15 +14,16 @@ publication_year: 1968
 original_language: "البرتغالية"
 active_start: 1968
 active_end: 1970
-part: "psychology"
+part: "philosophy"
 edges:
-- rel: "belongs_to", target: "br-liberation-psychology", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-liberation-psychology", target_type: "تيار"
 related:
 - id: "thk-pfreire", title: "باولو فريري", type: "مفكر"
-- id: "con-conscientization-paulo-freire", title: "الوعي النقدي", type: "مفهوم"
+- id: "con-conscientization-paulo-freire", title: "الوعي النقدي (Conscientização)", type: "مفهوم"
 gaps:
   - "لم يتيسّر تثبيت رقم صفحات أو دار النشر الدقيقة للطبعة البرتغالية الأولى (1968، البرازيل/تشيلي)، فلم يُذكر ذلك في المتن."
   - "الترجمة الإنجليزية (مايرا برغمان راموس، 1970، Herder & Herder) مثبتة، لكن لم تُراجَع نسخة منها مباشرة للتحقق من فروق بين الطبعتين البرتغالية والإنجليزية."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-liberation-psychology` موسومٌ «philosophy» — فوُحِّد على وسم الأب."
 ---
 
 # تعليم المضطهدين (Pedagogy of the Oppressed)

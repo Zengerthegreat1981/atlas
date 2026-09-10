@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-islamic-critical-thought", target_type: "مدرسة"
 related:
 - id: "thk-taha-abderrahmane", title: "طه عبد الرحمن", type: "مفكر"
-- id: "thk-mohammed-abed-al-jabri", title: "الجابري", type: "مفكر"
+- id: "thk-mohammed-abed-al-jabri", title: "محمد عابد الجابري", type: "مفكر"
 gaps:
   - "لا قسم مصادر بعد؛ يحتاج دراسات نقدية عربية محدَّدة عن مشروع طه عبد الرحمن (بعنوانها وسنتها) لا كتبه هو فقط."
 ---

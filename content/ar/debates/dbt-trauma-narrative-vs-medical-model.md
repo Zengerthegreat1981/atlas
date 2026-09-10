@@ -13,7 +13,7 @@ edges:
 - rel: "relates_to", target: "dis-ptsd", target_type: "اضطراب/حالة إكلينيكية"
 related:
 - id: "crt-critique-of-trauma-therapy", title: "نقد «صِنَاعَة الصَّدْمَة»: مَنْ يَسْتَفِيد مِن تَطْبِيب الصَّدْمَة؟", type: "نقد خارجي موثَّق"
-- id: "sch-narrative-therapy", title: "العلاج السردي", type: "مدرسة"
+- id: "sch-narrative-therapy", title: "العلاج السردي (Narrative Therapy)", type: "مدرسة"
 - id: "thk-besselvanderkolk", title: "بِسِل فَن دِر كولك", type: "مفكر"
 - id: "thk-jherman", title: "جوديث هِرمان", type: "مفكر"
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"

@@ -16,7 +16,7 @@ edges:
 related:
 - id: "sch-augustinianism", title: "الأوغسطينية", type: "مدرسة"
 - id: "thk-augustine", title: "أوغسطينوس", type: "مفكر"
-- id: "wrk-de-trinitate-augustine", title: "في الثالوث للقديس أوغسطينوس (De Trinitate)", type: "عمل"
+- id: "wrk-de-trinitate-augustine", title: "في الثالوث للقديس أوغسطينوس (De Trinitate)", type: "عمل / كتاب"
 - id: "sch-neoplatonism", title: "الأفلاطونية المحدثة (Neoplatonism)", type: "مدرسة"
 - id: "thk-maimonides", title: "موسى بن ميمون (رمبام)", type: "مفكر"
 - id: "thk-anselm-canterbury", title: "أنسيلم من كانتربري", type: "مفكر"

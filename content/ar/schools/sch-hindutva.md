@@ -14,9 +14,9 @@ language: "الهندية، الإنجليزية، السنسكريتية"
 active_start: 1923
 active_end: "مستمر"
 related:
-- id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
+- id: "sch-vedanta", title: "فيدانتا (كمظلة)", type: "مدرسة"
 - id: "sch-nationalism-philosophical", title: "القومية الفلسفية", type: "مدرسة"
-- id: "sch-gandhianism", title: "الغاندية", type: "مدرسة"
+- id: "sch-gandhianism", title: "الغاندية (كفلسفة سياسية-أخلاقية)", type: "مدرسة"
 - id: "con-hindutva", title: "هندوتفا (الهندوسية كقومية)", type: "مفهوم"
 - id: "wrk-essentials-hindutva", title: "أصول الهندوتفا (Essentials of Hindutva)", type: "عمل / كتاب"
 - id: "dbt-hindutva-vs-secularism-india", title: "هندوتفا ضد العلمانية الهندية: هل العلمانية حياد أم تَغريب ثقافي؟", type: "جدل"

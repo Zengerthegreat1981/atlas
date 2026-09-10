@@ -14,7 +14,7 @@ cultural_origin: "indian"
 active_start: -200
 active_end: 900
 related:
-- id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
+- id: "sch-vedanta", title: "فيدانتا (كمظلة)", type: "مدرسة"
 - id: "sch-vedic", title: "الفكر الفيدي الطقسي", type: "مدرسة"
 - id: "thk-mandana-misra", title: "ماندانا ميشرا (جسر الميمنسا وأدفايتا)", type: "مفكر"
 - id: "con-zurvan", title: "زروان (الزمن المطلق / القدر)", type: "مفهوم"

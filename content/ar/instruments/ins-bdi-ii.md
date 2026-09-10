@@ -16,7 +16,7 @@ validity_note: "صدق تزامني فائق مع مقياس هاملتون لل
 evidence_level: "well-established"
 related:
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
-- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "dbt-psychotherapy-vs-pharmacotherapy-depression", title: "جدل فعالية العلاج النفسي مقابل الدواء في علاج الاكتئاب الجسيم", type: "جدل"
 - id: "ins-hads", title: "مقياس قلق واكتئاب المستشفيات (HADS)", type: "أداة قياس"
 - id: "ins-madrs", title: "مقياس مونتغمري–آسبرغ لتقييم الاكتئاب (MADRS)", type: "أداة قياس"

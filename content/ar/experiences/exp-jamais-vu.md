@@ -13,7 +13,7 @@ edges:
 - rel: "relates_to", target: "sch-cognitive-psychology", target_type: "مدرسة"
 related:
 - id: "con-memory", title: "الذاكرة", type: "مفهوم"
-- id: "con-dissociation", title: "الانفصال", type: "مفهوم"
+- id: "con-dissociation", title: "الانفصال (Dissociation)", type: "مفهوم"
 - id: "exp-deja-vu", title: "تجربة الديجافو (Déjà Vu): الإحساس بأنني عشتُ هذه اللحظة من قبل", type: "خبرة معيشة"
 gaps:
 - "دراسة مولان وأوكونور صُمِّمت وعُرضت أول مرة عام 2006 (ونالت جائزة إيغ نوبل)، لكنها لم تُنشر كورقة محكّمة كاملة إلا عام 2020 في مجلة Memory تحت عنوان مختلف عمّا تُعرف به شعبياً؛ رقم المجلد والصفحة الدقيقين يحتاجان مراجعة مكتبية مباشرة للمجلة."

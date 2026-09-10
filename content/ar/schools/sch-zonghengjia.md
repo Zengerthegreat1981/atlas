@@ -15,9 +15,9 @@ active_end: -221
 active_source: "lifespan"
 cultural_origin: "east-asian"
 related:
-- id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
-- id: "sch-military-chinese", title: "المدرسة العسكرية الصينية", type: "مدرسة"
-- id: "sch-mohism", title: "الموهية", type: "مدرسة"
+- id: "sch-legalism", title: "الشرعية / القانونية (Fajia)", type: "مدرسة"
+- id: "sch-military-chinese", title: "المدرسة العسكرية الصينية (Bingjia)", type: "مدرسة"
+- id: "sch-mohism", title: "الموهية (Mohism / Mojia)", type: "مدرسة"
 - id: "con-hezong", title: "الاستراتيجيات الدبلوماسية (合纵-连横)", type: "مفهوم"
 gaps:
   - "نصوص Su Qin وZhang Yi الأصلية لم تصلنا، وما نعرفه من 'Strategies of the Warring States' (Zhan Guo Ce)."

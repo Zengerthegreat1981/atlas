@@ -16,7 +16,7 @@ edges:
 related:
 - id: "sch-developmental", title: "علم النفس النمائي (Developmental Psychology)", type: "مدرسة"
 - id: "thk-piaget", title: "جان بياجيه", type: "مفكر"
-- id: "con-cognitive-development-stages", title: "مراحل النمو المعرفي", type: "مفهوم"
+- id: "con-cognitive-development-stages", title: "مراحل النمو المعرفي الأربع (Piaget)", type: "مفهوم"
 - id: "thk-vygotsky", title: "ليف فيغوتسكي", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الاستيعاب (con-assimilation)"

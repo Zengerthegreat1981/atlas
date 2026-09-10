@@ -19,7 +19,7 @@ edges:
 - rel: "written_by", target: "thk-heidegger", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
-- id: "thk-heidegger", title: "هايدجر", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "wrk-zollikon", title: "ندوات تسوليكون", type: "عمل / كتاب"
 - id: "dbt-boss-binswanger", title: "بينسوانغر أم بوس؟", type: "جدل"
 gaps:

@@ -17,9 +17,9 @@ edges:
 related:
 - id: "thk-savarkar", title: "فيناياك دامودار سافاركار", type: "مفكر"
 - id: "sch-upanishadic", title: "الفلسفة الأوبانيشادية", type: "مدرسة"
-- id: "sch-hindutva", title: "هندوتفا", type: "مدرسة"
-- id: "sch-vedanta", title: "الفلسفة الفيدانتا", type: "مدرسة"
-- id: "con-hindutva", title: "هندوتفا", type: "مفهوم"
+- id: "sch-hindutva", title: "الفلسفة الهندوسية القومية (هندوتفا)", type: "مدرسة"
+- id: "sch-vedanta", title: "فيدانتا (كمظلة)", type: "مدرسة"
+- id: "con-hindutva", title: "هندوتفا (الهندوسية كقومية)", type: "مفهوم"
 gaps:
   - "كتاب Bunch of Thoughts يحتاج مراجعة من المصدر الأولي خاصة الفصل المعنون 'Nationhood'."
   - "علاقته بسَوَركار (الأب الروحي) مُعادِلتها الأكاديمية غير محسومة."

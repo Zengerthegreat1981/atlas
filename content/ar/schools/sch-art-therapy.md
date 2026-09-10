@@ -19,9 +19,9 @@ related:
 - id: "thk-ahill", title: "أدريان هيل", type: "مفكر"
 - id: "thk-ekramer", title: "إديث كرامر", type: "مفكر"
 - id: "thk-cmalchiodi", title: "كاثي مالكيودي", type: "مفكر"
-- id: "br-expressive-arts-therapy", title: "العلاج بالفنون التعبيرية", type: "تيار"
+- id: "br-expressive-arts-therapy", title: "الفنون التعبيرية التعددية (Intermodal Expressive Arts)", type: "تيار"
 - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
-- id: "tec-drama-therapy", title: "العلاج بالدراما", type: "تقنية/تدخل علاجي"
+- id: "tec-drama-therapy", title: "العلاج بالدراما والمسرح", type: "تقنية/تدخل علاجي"
 gaps:
   - "**أُنشئ هذا الملف 2026-09-08:** كان اسمُ «العلاج بالفن» يُستعمل أباً نصّياً في `belongs_to` لثلاثة ملفاتِ مفكِّرين (هيل، كرامر، مالكيودي) بلا ملفٍّ يقابله."
   - "**لا ملفَّ في الأطلس لـ**: **مارغريت نومبورغ** (Margaret Naumburg، صاحبةُ الخطّ التحليلي «الفنُّ علاجاً نفسياً») ولا **مارغريت لوينفيلد** (Margaret Lowenfeld) — وهما مذكورتان في المتن. وغيابُ نومبورغ ثقيل: هي الطرفُ الثاني في الخصومة المؤسِّسة للحقل."

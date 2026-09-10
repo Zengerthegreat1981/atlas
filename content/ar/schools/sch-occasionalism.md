@@ -17,7 +17,7 @@ edges:
 - rel: "evolved_from", target: "sch-cartesianism", target_type: "مدرسة"
 related:
 - id: "sch-cartesianism", title: "الديكارتية", type: "مدرسة"
-- id: "sch-continental-rationalism", title: "العقلانية القارية", type: "مدرسة"
+- id: "sch-continental-rationalism", title: "العقلانية القارية (كمظلة)", type: "مدرسة"
 - id: "thk-malebranche", title: "نيكولا مالبرانش", type: "مفكر"
 - id: "con-occasionalism-malebranche-concept", title: "الأوكازيونية ورؤية الأشياء في الله (Vision in God)", type: "مفهوم"
 - id: "br-occasionalism-classical", title: "الأوكازيونية الكلاسيكية والمناسبة — الأوكازيونيالية", type: "تيار"

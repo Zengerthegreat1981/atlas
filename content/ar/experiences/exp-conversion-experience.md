@@ -14,7 +14,7 @@ related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 - id: "exp-mystical-experience-james", title: "التجربة الصوفية عند وليم جيمس: خصائصها الأربع", type: "خبرة معيشة"
 - id: "exp-william-james-panic-freewill", title: "نوبة هلع وليام جيمس في المصحة وقراره الإيماني بحرية الإرادة", type: "خبرة معيشة"
-- id: "wrk-varieties-of-religious-experience-james", title: "تنوعات الخبرة الدينية لويليام جيمس", type: "عمل"
+- id: "wrk-varieties-of-religious-experience-james", title: "تنوعات الخبرة الدينية لويليام جيمس", type: "عمل / كتاب"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: بولس الطَرسوسي (لا يوجد slug مطابق حالياً في EXISTING_SLUGS)."
   - "دراسة إدوين ستاربَك (Edwin Starbuck, 1899) التي استقى منها جيمس عيّنات الاستبيانات تحتاج ملف مستقل (stu- أو thk-)."

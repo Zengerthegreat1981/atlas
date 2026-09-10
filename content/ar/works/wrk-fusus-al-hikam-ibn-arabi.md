@@ -20,7 +20,7 @@ edges:
 - rel: "authored_by", target: "thk-ibn-arabi", target_type: "مفكر"
 related:
 - id: "thk-ibn-arabi", title: "محيي الدين بن عربي (الشيخ الأكبر)", type: "مفكر"
-- id: "sch-akbari", title: "المدرسة الأكبرية", type: "مدرسة"
+- id: "sch-akbari", title: "المدرسة الأكبرية (مدرسة الإمبراطور أكبر المغولي)", type: "مدرسة"
 - id: "wrk-al-futuhat-al-makkiyya-ibn-arabi", title: "الفتوحات المكية لابن عربي", type: "عمل / كتاب"
 gaps:
   - "حقل publication_year مضبوط على 1229 وهو **تاريخ التأليف** المذكور في مقدّمة الكتاب نفسه (627هـ) لا تاريخ نشر: النصّ سبق الطباعة بستّة قرون، ولا «طبعة أولى» له بالمعنى الحديث."

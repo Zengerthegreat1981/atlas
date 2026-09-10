@@ -12,9 +12,9 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "br-antipsychiatry", target_type: "تيار"
 related:
-- id: "crt-marxist-critique-psychology", title: "النقد الماركسي/الطبقي لعلم النفس", type: "نقد خارجي موثَّق"
-- id: "crt-critical-race-critique-psychology", title: "النقد العرقي النقدي لعلم النفس", type: "نقد خارجي موثَّق"
-- id: "crt-anti-psychiatry-critique", title: "نقد مناهضة الطب النفسي المؤسسي", type: "نقد خارجي موثَّق"
+- id: "crt-marxist-critique-psychology", title: "النقد الماركسي/الطبقي لعلم النفس: علم نفس السيطرة الاجتماعية", type: "نقد خارجي موثَّق"
+- id: "crt-critical-race-critique-psychology", title: "النقد العرقي النقدي لعلم النفس: تاريخ اختبارات الذكاء والتشخيص", type: "نقد خارجي موثَّق"
+- id: "crt-anti-psychiatry-critique", title: "نقد مناهضة الطب النفسي المؤسسي: DSM كأداة سيطرة", type: "نقد خارجي موثَّق"
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
 - id: "thk-gbateson", title: "غريغوري باتسون", type: "مفكر"
 - id: "con-coloniality", title: "الكولونيالية (Coloniality)", type: "مفهوم"

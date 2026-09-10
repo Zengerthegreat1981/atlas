@@ -19,7 +19,7 @@ related:
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 - id: "tec-dbt-mind-mindfulness-of-others", title: "اليقظة تجاه الآخرين", type: "تقنية/تدخل علاجي"
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
-- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب"
+- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-cbt-int-assertiveness-training", title: "تدريب التوكيدية", type: "تقنية/تدخل علاجي"
 gaps:
   - "لم يُعثر على تجربة معشاة تعزل أثر GIVE وحدها عن باقي وحدة العلاقات الفعالة؛ الدليل التجريبي متاح على مستوى حزمة DBT الكاملة لا المهارة منفردة."

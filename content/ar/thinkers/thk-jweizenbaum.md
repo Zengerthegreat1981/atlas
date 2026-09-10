@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية، الألمانية"
 active_start: 1966
 active_end: 2008
-part: "philosophy"
+part: "psychology"
 crumb: "العلاج بمساعدة الذكاء الاصطناعي ← النقد المؤسِّس ← جوزيف فايزنباوم"
 edges:
 - rel: "belongs_to", target: "br-ai-chatbot-therapy", target_type: "تيار"
@@ -20,6 +20,7 @@ related:
 - id: "br-ai-chatbot-therapy", title: "العلاج بمساعدة الذكاء الاصطناعي / العلاج بالدردشة الآلية", type: "تيار"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Computer Power and Human Reason: From Judgment to Calculation* (1976) بترجمة عربية معتمدة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-ai-chatbot-therapy` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # جوزيف فايزنباوم

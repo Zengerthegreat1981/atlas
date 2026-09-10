@@ -16,7 +16,7 @@ crumb: "أدفايتا فيدانتا (اللاتثنية) ← الناس ← ش
 edges:
 - rel: "belongs_to", target: "sch-advaita-vedanta", target_type: "مدرسة"
 related:
-- id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"
+- id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا (اللاتثنية)", type: "مدرسة"
 - id: "sch-vedanta", title: "فيدانتا (كمظلة)", type: "مدرسة"
 - id: "dbt-advaita-vs-dvaita", title: "أدفايتا فيدانتا في مقابل دفايتا فيدانتا: هل العالم وهم أم حقيقة؟", type: "جدل"
 - id: "dbt-shunyata-vs-brahman", title: "شُونْياتا في مقابل براهمان: الفراغ ضد الجوهر", type: "جدل"

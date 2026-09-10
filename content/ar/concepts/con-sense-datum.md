@@ -13,7 +13,7 @@ language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-new-realism", target_type: "مدرسة"
 related:
-- id: "sch-new-realism", title: "الواقعية الجديدة", type: "مدرسة"
+- id: "sch-new-realism", title: "الواقعية الجديدة (البريطانية-الأمريكية المبكرة)", type: "مدرسة"
 - id: "sch-critical-realism", title: "الواقعية النقدية", type: "مدرسة"
 - id: "thk-ge-moore", title: "جورج إدوارد مور", type: "مفكر"
 - id: "thk-bertrand-russell", title: "برتراند راسل", type: "مفكر"

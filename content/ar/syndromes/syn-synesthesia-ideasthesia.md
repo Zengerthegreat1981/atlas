@@ -12,7 +12,7 @@ active_end: "مستمر"
 language: "متعدد اللغات"
 edges: []
 related:
-- id: "syn-savant", title: "متلازمة العبقري / سافانت", type: "متلازمة"
+- id: "syn-savant", title: "متلازمة العبقري / سافانت (القدرات الاستثنائية الفائقة)", type: "متلازمة"
 - id: "thk-csikszentmihalyi", title: "ميهاي تشيكسنتميهاي", type: "مفكر"
 - id: "con-qualia-subjective-experience", title: "الكواليا والصفات الكيفية للخبرة (Qualia)", type: "مفهوم"
 gaps:

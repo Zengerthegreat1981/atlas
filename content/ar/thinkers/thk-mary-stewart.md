@@ -10,7 +10,7 @@ country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 crumb: "تحليل المعاملات (TA) ← تطوير ← ماري ستيوارت"
 edges:
 - rel: "belongs_to", target: "br-transactional-analysis", target_type: "تيار"
@@ -25,6 +25,7 @@ gaps:
   - "لا توجد سيرة ذاتية منشورة لـ 'Mary Stewart' في ITA (International Transactional Analysis Association) حتى آب 2026."
   - "الاحتمال: خلط مع 'Mary Stewart' (كاتبة رومانسية، 1916–2014) أو 'Mary Stewart-Merriman' (صحفية)."
   - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'TA UK Couples' عام."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-transactional-analysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # ماري ستيوارت

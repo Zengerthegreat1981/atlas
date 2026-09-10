@@ -15,7 +15,7 @@ edges:
 related:
 - id: "thk-hdavanloo", title: "حبيب دَفانلو", type: "مفكر"
 - id: "sch-istdp", title: "العلاج النفسي الديناميكي قصير المدى المكثف (ISTDP)", type: "مدرسة"
-- id: "wrk-davanloo-unlocking-unconscious", title: "كتاب فتح اللاوعي: تقنيات ISTDP لحبيب دافانلو (1990)", type: "عمل"
+- id: "wrk-davanloo-unlocking-unconscious", title: "كتاب فتح اللاوعي: تقنيات ISTDP لحبيب دافانلو (1990)", type: "عمل / كتاب"
 - id: "con-triangle-conflict-persons", title: "مثلث الصراع ومثلث الأشخاص في ISTDP", type: "مفهوم"
 - id: "con-istdp-key-techniques", title: "التقنيات الأساسية في ISTDP: تحدّي الدفاع، تحمّل القلق، تحليل الأنا الأعلى، والتخلّل العلاجي", type: "مفهوم"
 - id: "con-unconscious", title: "اللاشعور / اللاوعي النفسي الكلاسيكي (The Unconscious)", type: "مفهوم"

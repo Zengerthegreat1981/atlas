@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-ishraqiyya", target_type: "مدرسة"
 related:
 - id: "thk-suhrawardi", title: "شهاب الدين يحيى بن حبش السهروردي (شيخ الإشراق)", type: "مفكر"
-- id: "wrk-hikmat-al-ishraq-suhrawardi", title: "حكمة الإشراق للسهروردي", type: "عمل"
+- id: "wrk-hikmat-al-ishraq-suhrawardi", title: "حكمة الإشراق للسهروردي", type: "عمل / كتاب"
 - id: "thk-qutb-al-din-al-shirazi", title: "قطب الدين محمود بن مسعود الشيرازي", type: "مفكر"
 - id: "thk-mulla-sadra", title: "ملا صدرا الشيرازي (صدر الدين الشيرازي)", type: "مفكر"
 - id: "sch-ishraqiyya", title: "الإشراقية", type: "مدرسة"

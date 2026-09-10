@@ -14,8 +14,8 @@ active_start: 1860
 active_end: 1940
 cultural_origin: "islamic-arabic"
 edges:
-- rel: "evolved_into", target: "sch-islamic-critical-thought", target_type: "مظلة"
-- rel: "belongs_to", target: "sch-islamic-reform", target_type: "مظلة"
+- rel: "evolved_into", target: "sch-islamic-critical-thought", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-islamic-reform", target_type: "مدرسة"
 related:
 - id: "thk-alam", title: "محمود أمين العالم", type: "مفكر"
 - id: "thk-badawi", title: "عبد الرحمن بدوي", type: "مفكر"

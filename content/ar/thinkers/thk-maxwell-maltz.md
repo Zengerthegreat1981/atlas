@@ -20,7 +20,7 @@ related:
 - id: "thk-paulgthomas", title: "بول جي. توماس", type: "مفكر"
 - id: "thk-rbandler", title: "ريتشارد بَندلر", type: "مفكر"
 - id: "thk-norman-vincent-peale", title: "نورمان فنسنت بيل", type: "مفكر"
-- id: "wrk-psycho-cybernetics", title: "السايكوسبرنتيكس", type: "عمل"
+- id: "wrk-psycho-cybernetics", title: "السايكوسبرنتيكس: التحكم النفسي الآلي والصورة الذاتية", type: "عمل / كتاب"
 gaps:
   - "تفاصيل هجرته من النمسا (1939) غير موثّقة بدقة."
   - "التفاصيل الكاملة لـ'الجمعية الأمريكية لجراحي التجميل' التي ترأسها موثّقة جزئياً."

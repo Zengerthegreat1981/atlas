@@ -16,7 +16,7 @@ edges: []
 related:
 - id: "thk-jlubar", title: "جويل لوبار", type: "مفكر"
 - id: "thk-ssterman", title: "م. باري ستيرمان", type: "مفكر"
-- id: "con-neurofeedback", title: "التغذية الراجعة العصبية", type: "مفهوم"
+- id: "con-neurofeedback", title: "التغذية الراجعة العصبية (Neurofeedback)", type: "مفهوم"
 gaps:
   - "سنة الميلاد غير موثقة."
   - "بروتوكول ILF (Infra-Low Frequency) طوّره أوتمر مع زوجته سوزان في 2003."

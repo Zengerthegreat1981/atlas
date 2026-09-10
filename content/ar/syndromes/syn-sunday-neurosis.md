@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "thk-sferenczi", title: "ساندور فيرينتسي", type: "مفكر"
-- id: "dis-mdd", title: "اضطراب الاكتئاب", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "wrk-mans-search", title: "الإنسان يبحث عن المعنى", type: "عمل / كتاب"
 - id: "con-existential-vacuum", title: "الفراغ الوجودي", type: "مفهوم"
 gaps:

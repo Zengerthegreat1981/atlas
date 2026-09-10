@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-analytic-metaphysics", target_type: "مدرسة"
 related:
 - id: "thk-skripke", title: "سول كريبكي", type: "مفكر"
-- id: "wrk-naming-and-necessity-kripke", title: "التسمية والضرورة لسول كريبكي (Naming and Necessity)", type: "عمل"
+- id: "wrk-naming-and-necessity-kripke", title: "التسمية والضرورة لسول كريبكي (Naming and Necessity)", type: "عمل / كتاب"
 - id: "con-rigid-designators-kripke", title: "المعينات الصلبة والضرورة البعدية (Rigid Designators)", type: "مفهوم"
 - id: "sch-analytic-metaphysics", title: "الميتافيزيقا التحليلية المعاصرة", type: "مدرسة"
 gaps:

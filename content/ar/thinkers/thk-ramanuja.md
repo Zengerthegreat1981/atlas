@@ -17,7 +17,7 @@ edges:
 - rel: "belongs_to", target: "sch-vishishtadvaita", target_type: "مدرسة"
 related:
 - id: "sch-vishishtadvaita", title: "فيشيشتادفايتا", type: "مدرسة"
-- id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"
+- id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا (اللاتثنية)", type: "مدرسة"
 - id: "wrk-shri-bhashya-ramanuja", title: "شري بهاشيا لرامانوجا", type: "عمل / كتاب"
 gaps:
   - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."

@@ -15,15 +15,15 @@ active_start: 1969
 active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-humanistic", target_type: "مدرسة"
-- rel: "evolved_from", target: "sch-buddhist-psychology", target_type: "تيار"
+- rel: "evolved_from", target: "sch-buddhist-psychology", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-advaita-vedanta", target_type: "مدرسة"
-- rel: "relates_to", target: "tec-holotropic-breathwork", target_type: "تيار"
+- rel: "relates_to", target: "tec-holotropic-breathwork", target_type: "تقنية/تدخل علاجي"
 - rel: "split_into", target: "sch-psychedelic-assisted-therapy", target_type: "مدرسة"
 related:
 - id: "thk-kwilber", title: "كين ويلبر", type: "مفكر"
 - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
 - id: "thk-sutich", title: "أنتوني سوتيتش", type: "مفكر"
-- id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"
+- id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا (اللاتثنية)", type: "مدرسة"
 - id: "thk-rwalsh", title: "روجر والش", type: "مفكر"
 - id: "thk-rmwashburn", title: "مايكل واشبورن", type: "مفكر"
 - id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"

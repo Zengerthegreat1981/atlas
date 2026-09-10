@@ -21,8 +21,8 @@ related:
 - id: "thk-sasch", title: "سولومون آش", type: "مفكر"
 - id: "wrk-milgram-obedience-authority", title: "الطاعة للسلطة (Obedience to Authority)", type: "عمل / كتاب"
 - id: "stu-milgram-obedience", title: "تجربة ميلغرام للطاعة والسلطة", type: "دراسة وبحث"
-- id: "con-agentic-state-milgram", title: "الحالة الوكالية والانصياع للسلطة", type: "مفهوم"
-- id: "con-bystander-effect", title: "تأثير المتفرج وتشتت المسؤولية", type: "مفهوم"
+- id: "con-agentic-state-milgram", title: "الحالة الوكالية والانصياع للسلطة (The Agentic State)", type: "مفهوم"
+- id: "con-bystander-effect", title: "تأثير المتفرج وتشتت المسؤولية (Bystander Effect)", type: "مفهوم"
 - id: "thk-philip-zimbardo", title: "فيليب زيمباردو", type: "مفكر"
 gaps:
   - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."

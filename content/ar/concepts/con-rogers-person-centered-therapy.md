@@ -19,7 +19,7 @@ related:
 - id: "con-unconditional-positive-regard", title: "التقبل الإيجابي غير المشروط (Unconditional Positive Regard)", type: "مفهوم"
 - id: "con-conditions-of-worth", title: "شروط القبول والقيمة", type: "مفهوم"
 - id: "con-here-and-now", title: "اللحظة الراهنة (Here-and-Now)", type: "مفهوم"
-- id: "con-self-actualization", title: "تحقيق الذات", type: "مفهوم"
+- id: "con-self-actualization", title: "تحقيق الذات (Self-Actualization)", type: "مفهوم"
 - id: "br-person-centered", title: "العلاج المتمركز حول العميل (روجرز)", type: "تيار"
 - id: "tec-person-centered-core-conditions", title: "الشروط اللازمة والكافية للعلاج المتمركز حول العميل", type: "تقنية/تدخل علاجي"
 gaps:

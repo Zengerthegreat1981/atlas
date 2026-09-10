@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-hassan-hanafi", title: "حسن حنفي", type: "مفكر"
 - id: "sch-islamic-critical-thought", title: "الفكر الإسلامي النقدي المعاصر", type: "مدرسة"
-- id: "wrk-min-al-aqida-ila-al-thawra-hanafi", title: "من العقيدة إلى الثورة لحسن حنفي", type: "عمل"
+- id: "wrk-min-al-aqida-ila-al-thawra-hanafi", title: "من العقيدة إلى الثورة لحسن حنفي", type: "عمل / كتاب"
 gaps:
   - "التحليل الإبستمولوجي واللغوي الدقيق لتطور المفهوم عبر التاريخ."
 ---

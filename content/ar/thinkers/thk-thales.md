@@ -15,13 +15,13 @@ crumb: "الفلسفة اليونانية القديمة ← المدرسة ال
 edges:
 - rel: "belongs_to", target: "sch-milesian", target_type: "مدرسة"
 related:
-- id: "thk-anaximander", title: "أنكسمندر", type: "مفكر"
+- id: "thk-anaximander", title: "أنكسمندر الميليسي", type: "مفكر"
 - id: "thk-anaximenes", title: "أنكسمانس الميليسي", type: "مفكر"
-- id: "thk-pythagoras", title: "فيثاغورس", type: "مفكر"
-- id: "thk-heraclitus", title: "هيراقليطس", type: "مفكر"
-- id: "thk-anaxagoras", title: "أناكساغوراس", type: "مفكر"
-- id: "sch-milesian", title: "المدرسة الميليسية", type: "مدرسة"
-- id: "con-arche-principle", title: "الأرخيه (الأصل الأول)", type: "مفهوم"
+- id: "thk-pythagoras", title: "فيثاغورس الساموسي", type: "مفكر"
+- id: "thk-heraclitus", title: "هيراقليطس الإفسيسي", type: "مفكر"
+- id: "thk-anaxagoras", title: "أنكساغوراس الكلازوميني", type: "مفكر"
+- id: "sch-milesian", title: "المدرسة الميليسية (ما قبل سقراط الطبيعية)", type: "مدرسة"
+- id: "con-arche-principle", title: "الأرخيه — المبدأ والأصل الأول (Archē)", type: "مفهوم"
 gaps:
   - "تفاصيل تنبؤه بكسوف الشمس (28 مايو 585 ق.م) موثّقة في هيرودوتس."
   - "نص 'حول الانقلاب الصيفي' و'حول الاعتدال الربيعي' فُقدت."

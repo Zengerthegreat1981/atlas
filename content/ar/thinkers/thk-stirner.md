@@ -17,7 +17,7 @@ related:
 - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
 - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
-- id: "thk-hegel", title: "هيغل", type: "مفكر"
+- id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
 - id: "con-freedom", title: "الحرية", type: "مفهوم"
 - id: "con-authenticity", title: "الأصالة", type: "مفهوم"
 - id: "con-alienation", title: "الاغتراب", type: "مفهوم"

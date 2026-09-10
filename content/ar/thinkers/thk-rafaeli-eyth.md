@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: null
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 crumb: "علم نفس الأداء (Performance Psychology) ← تطوير ← رافائيل إيدث"
 edges:
 - rel: "belongs_to", target: "br-performance-psychology", target_type: "تيار"
@@ -23,6 +23,7 @@ gaps:
   - "لا توجد سيرة ذاتية منشورة لـ 'Rafaeli Eyth' في ISSP (International Society of Sport Psychology) حتى آب 2026."
   - "الاحتمال: خلط مع 'Rafaeli Eytan' (منظمة دروس يوغا إسرائيلية) أو 'Rafael Eyth' (لاعب تنس قديم)."
   - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'Performance Psychology' عام."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-performance-psychology` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # رافائيل إيدث

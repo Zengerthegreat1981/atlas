@@ -10,7 +10,7 @@ country: "المملكة المتحدة"
 language: "إنجليزية"
 active_start: 1998
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
 crumb: "النسوية التقاطعية ← فلسفة نسوية ← سارة أحمد"
 edges:
 - rel: "belongs_to", target: "br-intersectional-feminist", target_type: "تيار"
@@ -23,6 +23,7 @@ related:
 gaps:
   - "تفاصيل سيرتها المبكرة (نشأتها في أستراليا، دراستها في أديليد) موثّقة جزئياً."
   - "جدل «استقالة جامعة غولدسميث» (2021) يحتاج فصلاً منفصلاً."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-intersectional-feminist` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # سارة أحمد

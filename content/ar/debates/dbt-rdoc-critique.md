@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-biological-neuro", target_type: "مدرسة"
 related:
 - id: "dbt-categorical-vs-dimensional-diagnosis", title: "التصنيف الفئوي مقابل الأبعادي للاضطرابات النفسية", type: "جدل"
-- id: "dbt-diagnostic-concept-creep", title: "جدل التمييع التشخيصي وتوسع تصنيفات الدليل التشخيصي", type: "جدل"
+- id: "dbt-diagnostic-concept-creep", title: "جدل التمييع التشخيصي وتوسع تصنيفات الدليل التشخيصي في الطب النفسي", type: "جدل"
 - id: "dbt-psychology-replication-crisis", title: "أزمة تكرار النتائج في علم النفس التجريبي", type: "جدل"
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "dbt-categorical-vs-dimensional-rdoc-vs-dsm", title: "جدل RDoC مقابل DSM: أبعاد عصبية أم فئات سريرية؟", type: "جدل"

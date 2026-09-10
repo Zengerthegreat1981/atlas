@@ -14,7 +14,7 @@ author_slug: "thk-adler"
 publication_year: 1927
 original_language: "الألمانية"
 edges:
-- rel: "belongs_to", target: "br-adlerian", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-adlerian", target_type: "تيار"
 related:
 - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
 - id: "br-adlerian", title: "علم النفس الفردي الأدلري", type: "تيار"

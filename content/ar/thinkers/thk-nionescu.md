@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "thk-cioran", title: "إميل سيوران", type: "مفكر"
-- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية", type: "خبرة معيشة"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 - id: "con-absurd", title: "العبث", type: "مفهوم"
 - id: "thk-ionesco", title: "أوجين يونسكو", type: "مفكر"
 gaps:

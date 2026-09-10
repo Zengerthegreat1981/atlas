@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-jdollard", title: "جون دولارد", type: "مفكر"
 - id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
-- id: "con-modeling", title: "النمذجة", type: "مفهوم"
+- id: "con-modeling", title: "النمذجة (التعلم بالملاحظة)", type: "مفهوم"
 gaps:
   - "الفرق الدقيق بين نظرية Miller-Dollard الأصلية (1941) ونظرية Bandura المُوسَّعة (1963) — يحتاج تدقيقاً."
 ---

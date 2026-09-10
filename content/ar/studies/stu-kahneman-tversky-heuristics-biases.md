@@ -12,7 +12,7 @@ active_end: 1974
 edges:
   []
 related:
-- id: "con-confirmation-bias", title: "انحياز التأكيد", type: "مفهوم"
+- id: "con-confirmation-bias", title: "انحياز التأكيد (البحث الانتقائي عما يثبت المعتقد المسبق)", type: "مفهوم"
 - id: "wrk-thinking-fast-slow", title: "التفكير، السريع والبطيء", type: "عمل / كتاب"
 - id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
 study_year: 1974

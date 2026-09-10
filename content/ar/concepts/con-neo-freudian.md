@@ -8,7 +8,7 @@ en: "Neo-Freudianism"
 crumb: "التحليل النفسي ← المفاهيم ← الفرويدية الجديدة"
 dates: "1930s-اليوم"
 language: "الإنجليزية"
-part: "philosophy"
+part: "psychology"
 active_start: null
 active_end: "مستمر"
 edges:
@@ -20,6 +20,7 @@ related:
 - id: "thk-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # الفرويدية الجديدة (Neo-Freudian)

@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-post-structuralism", target_type: "مدرسة"
 related:
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
-- id: "wrk-discipline-and-punish-foucault", title: "المراقبة والمعاقبة لميشيل فوكو (Surveiller et punir)", type: "عمل"
+- id: "wrk-discipline-and-punish-foucault", title: "المراقبة والمعاقبة لميشيل فوكو (Surveiller et punir)", type: "عمل / كتاب"
 - id: "con-panopticon-surveillance", title: "البانوبتيكون ومجتمع المراقبة (The Panopticon)", type: "مفهوم"
 - id: "con-governmentality-foucault", title: "الحكومية وعقلانية الحكم (Governmentality)", type: "مفهوم"
 - id: "con-biopolitics-and-biopower", title: "السلطة الحيوية والبيوبوليتيك (Biopolitics and Biopower)", type: "مفهوم"

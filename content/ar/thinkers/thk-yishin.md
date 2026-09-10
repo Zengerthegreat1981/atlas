@@ -14,7 +14,7 @@ active_end: 2000
 part: "psychology"
 edges: []
 related:
-- id: "tec-naikan-therapy", title: "علاج نايكان", type: "تقنية/تدخل علاجي"
+- id: "tec-naikan-therapy", title: "علاج نايكان والتأمل الاستبطاني", type: "تقنية/تدخل علاجي"
 - id: "thk-keiko-hoshino", title: "كيكو هوشينو", type: "مفكر"
 - id: "thk-masaaki-takahashi", title: "ماساكي تاكاهاشي", type: "مفكر"
 - id: "thk-michio-mizuno", title: "ميتشيو ميزونو", type: "مفكر"

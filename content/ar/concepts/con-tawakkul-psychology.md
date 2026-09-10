@@ -15,7 +15,7 @@ related:
 - id: "con-ataraxia", title: "الأتاراكسيا والسكينة النفسية", type: "مفهوم"
 - id: "con-zuhd-detachment", title: "الزهد والتحرر من أسر التعلق المادي (Zuhd / Detachment)", type: "مفهوم"
 - id: "thk-al-ghazali", title: "أبو حامد محمد بن محمد الغزالي (حجة الإسلام)", type: "مفكر"
-- id: "sch-wahdat-alwujud", title: "العرفان النظري (وحدة الوجود)", type: "مدرسة"
+- id: "sch-wahdat-alwujud", title: "العرفان النظري / وحدة الوجود (المدرسة الأكبرية — الشيخ الأكبر ابن عربي)", type: "مدرسة"
 - id: "con-tawakkul", title: "التوكل (Tawakkul)", type: "مفهوم"
 gaps:
   - "كتاب التوحيد والتوكل في «إحياء علوم الدين» للغزالي والموازنة بين الأخذ بالأسباب وتسليم النتائج."

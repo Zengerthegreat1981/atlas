@@ -17,7 +17,7 @@ cultural_origin: "african"
 edges:
 related:
 - id: "sch-ifa", title: "تقاليد اليوروبا الفلسفية (Ifá)", type: "مدرسة"
-- id: "sch-ubuntu-traditional", title: "أوبونتو التقليدية", type: "مدرسة"
+- id: "sch-ubuntu-traditional", title: "فلسفة أوبونتو التقليدية", type: "مدرسة"
 - id: "con-sankofa", title: "سانكوفا (Sankofa) — العودة إلى الجذور", type: "مفهوم"
 - id: "sch-dogon", title: "فلسفة الدوجون (مالي)", type: "مدرسة"
 gaps:

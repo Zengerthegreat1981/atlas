@@ -10,10 +10,10 @@ country: "النرويج"
 language: "النرويجية/الإنجليزية"
 active_start: 1985
 active_end: 2007
-part: "philosophy"
+part: "psychology"
 crumb: "الحوار المفتوح في الرعاية النفسية والذهان ← الناس ← توم أندرسن"
 edges:
-- rel: "belongs_to", target: "tec-open-dialogue", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-open-dialogue", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-jseikkula", title: "ياكو سيكولا", type: "مفكر"
 - id: "thk-balakare", title: "بيرجيتّا ألاكارِ", type: "مفكر"
@@ -23,6 +23,7 @@ gaps:
   - "علاقته المباشرة مع سيلفيني بالاتسولي في النرويج تحتاج توثيقاً."
   - "تأثيره في تأسيس «الحوار المفتوح» في توركو يحتاج فصلاً."
   - "حُذف رابط 'كنوت سفينسن' (thk-kjerg) لعدم وجود ملف مفكر مستقل بهذا الاسم في الأطلس."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-open-dialogue` موسومٌ «psychology» — فوُحِّد على وسم الأب."
 ---
 
 # توم أندرسن

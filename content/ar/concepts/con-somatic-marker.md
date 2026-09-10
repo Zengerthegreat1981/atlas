@@ -14,10 +14,10 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-biological-neuro", target_type: "مدرسة"
 related:
-- id: "sch-biological-neuro", title: "علم النفس البيولوجي والعصبي", type: "مدرسة"
+- id: "sch-biological-neuro", title: "علم النفس البيولوجي والعصبي (Biological & Neuropsychology)", type: "مدرسة"
 - id: "thk-damasio", title: "أنطونيو داماسيو", type: "مفكر"
-- id: "tec-act-val-values-based-decision-making", title: "اتخاذ القرار", type: "تقنية/تدخل علاجي"
-- id: "wrk-descartes-error", title: "خطأ ديكارت", type: "عمل / كتاب"
+- id: "tec-act-val-values-based-decision-making", title: "اتخاذ القرار المبني على القيم", type: "تقنية/تدخل علاجي"
+- id: "wrk-descartes-error", title: "خطأ ديكارت: العاطفة والعقل والدماغ البشري", type: "عمل / كتاب"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: باروخ شيفر (thk-bschiffer)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: روبرت باور (thk-bauer)"

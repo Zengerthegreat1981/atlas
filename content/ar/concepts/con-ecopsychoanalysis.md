@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-- id: "con-death-instinct", title: "غريزة الموت والدافع التدميري للتحول", type: "مفهوم"
+- id: "con-death-instinct", title: "غريزة الموت والدافع التدميري (Todestrieb / Thanatos)", type: "مفهوم"
 - id: "syn-eco-anxiety", title: "قلق المناخ (Eco-Anxiety)", type: "متلازمة"
 gaps:
   - "الهوية العلمية الدقيقة لكل من فيرنون رينولدز وسوزان سكيدلسكي وتيموثي ويذرز (الخطوط الثلاثة المذكورة في المتن) لم تُراجع أو تُوثَّق بمصدر مؤكد."

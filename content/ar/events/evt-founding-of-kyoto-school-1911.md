@@ -13,7 +13,7 @@ active_start: 1911
 active_end: 1913
 related:
 - id: "thk-nishida", title: "كيتارو نيشيدا", type: "مفكر"
-- id: "wrk-an-inquiry-into-the-good-nishida", title: "بحث في الخير لكيتارو نيشيدا (Zen no Kenkyu)", type: "عمل"
+- id: "wrk-an-inquiry-into-the-good-nishida", title: "بحث في الخير لكيتارو نيشيدا (Zen no Kenkyu)", type: "عمل / كتاب"
 - id: "con-pure-experience-nishida", title: "التجربة الخالصة (Pure Experience)", type: "مفهوم"
 - id: "sch-kyoto", title: "مدرسة كيوتو", type: "مدرسة"
 gaps:

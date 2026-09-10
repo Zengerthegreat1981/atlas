@@ -2,7 +2,7 @@
 slug: "thk-wade-nobles"
 id: "THK-2809"
 type: "مفكر"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "وايد دبليو. نوبلز (نانا كواكو بيركو الأول)"
 en: "Wade W. Nobles (Nana Kwaku Berko I)"
@@ -17,11 +17,12 @@ edges:
 related:
 - id: "thk-mandela", title: "نيلسون مانديلا", type: "مفكر"
 - id: "thk-phcollins", title: "باتريشا هيل كولينز", type: "مفكر"
-- id: "que-are-human-rights-universal", title: "هل حقوق الإنسان كونية ومطلقة أم اختراع إمبريالي غربي مفروض؟", type: "سؤال"
+- id: "que-are-human-rights-universal", title: "هل حقوق الإنسان كونية ومطلقة أم اختراع إمبريالي غربي مفروض؟", type: "سؤال توليدي"
 - id: "con-ubuntu-relational-health", title: "فلسفة الأوبونتو والصحة النفسية العلائقية في علم النفس الأفريقي", type: "مفهوم"
 gaps:
   - "نص 'African Philosophy: Foundations of Black Psychology' (1985) لم يُراجع بالعربية."
   - "تفاصيل تتويجه زعيماً تقليدياً في غانا موثّقة جزئياً."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-african-psychology` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # وايد دبليو. نوبلز

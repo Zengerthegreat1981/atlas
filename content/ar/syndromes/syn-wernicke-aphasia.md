@@ -12,7 +12,7 @@ active_end: "مستمر"
 language: "متعدد اللغات"
 edges: []
 related:
-- id: "syn-broca-aphasia", title: "متلازمة حبسة بروكا", type: "متلازمة"
+- id: "syn-broca-aphasia", title: "متلازمة حبسة بروكا التعبيرية (تعذر الطلاقة الكلامية النطقية)", type: "متلازمة"
 - id: "syn-conduction-aphasia", title: "متلازمة حبسة التوصيل (عجز التكرار اللفظي المباشر)", type: "متلازمة"
 - id: "con-picture-theory-of-language", title: "النظرية التصويرية للغة في التراكتاتوس (Picture Theory)", type: "مفهوم"
 gaps:

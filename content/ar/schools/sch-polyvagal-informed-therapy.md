@@ -20,7 +20,7 @@ edges:
 - rel: "developed_by", target: "thk-stephen-porges", target_type: "مفكر"
 - rel: "influenced_by", target: "sch-somatic-experiencing", target_type: "مدرسة"
 related:
-- id: "con-polyvagal-theory-popular", title: "السلم العصبي المبهم والتنظيم الذاتي", type: "مفهوم"
+- id: "con-polyvagal-theory-popular", title: "السلم العصبي المبهم والتنظيم الذاتي (Polyvagal Ladder)", type: "مفهوم"
 - id: "con-trauma", title: "الصدمة النفسية في التحليلية", type: "مفهوم"
 - id: "con-dissociation", title: "الانفصال (Dissociation)", type: "مفهوم"
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"

@@ -15,9 +15,9 @@ edges:
 related:
 - id: "sch-aedp", title: "العلاج النفسي الديناميكي التعزيزي المتسارع (AEDP)", type: "مدرسة"
 - id: "thk-fosha", title: "ديانا فوشا", type: "مفكر"
-- id: "tec-aedp", title: "العلاج الديناميكي التجريبي المتسارع (AEDP)", type: "تقنية"
-- id: "tec-aedp-metatherapeutic-processing", title: "المعالجة فوق-العلاجية (Metatherapeutic Processing) في AEDP", type: "تقنية"
-- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب"
+- id: "tec-aedp", title: "العلاج الديناميكي التجريبي المتسارع (AEDP)", type: "تقنية/تدخل علاجي"
+- id: "tec-aedp-metatherapeutic-processing", title: "المعالجة فوق-العلاجية (Metatherapeutic Processing) في AEDP", type: "تقنية/تدخل علاجي"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 evidence_level: "experimental"
 gaps:
   - "مصطلح Vis Medicatrix Naturae غير موثق كتعبير تستخدمه فوشا نفسها في كتاباتها المنشورة؛ الأقرب توثيقاً هو مفهومها «التحوّل» (Transformance) في كتاب 2000 — حُذفت الفقرة المرتبطة بالمصطلح غير الموثق."

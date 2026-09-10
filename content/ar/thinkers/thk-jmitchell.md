@@ -11,7 +11,7 @@ country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1974
 active_end: null
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "con-feminist-psychoanalysis", target_type: "مفهوم"
 related:
@@ -24,6 +24,7 @@ gaps:
   - "التفاصيل السيرية لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من *Psychoanalysis and Feminism* (1974) بترجمة عربية معتمدة."
   - "تحقّق إضافي (2026-09-04): هوية جوليت ميتشل كمحللة نفسية ونسوية بريطانية، وبيانات كتابيها (1974 و1986)، مؤكَّدة عبر ويكيبيديا وPEP-Web وVerso Books؛ لم يُعثر على خطأ إضافي في المتن الحالي."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `con-feminist-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب."
 ---
 
 # جوليت ميتشل

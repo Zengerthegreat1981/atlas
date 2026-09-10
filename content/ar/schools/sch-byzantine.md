@@ -17,9 +17,9 @@ edges:
 - rel: "evolved_from", target: "sch-patristics", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-neoplatonism", target_type: "مدرسة"
 related:
-- id: "sch-patristics", title: "الآبائية المسيحية", type: "مدرسة"
+- id: "sch-patristics", title: "الآبائية المسيحية (Patristics)", type: "مدرسة"
 - id: "sch-apophatic", title: "اللاهوت السلبي / الأبوفاتي", type: "مدرسة"
-- id: "sch-neoplatonism", title: "الأفلاطونية المحدثة", type: "مدرسة"
+- id: "sch-neoplatonism", title: "الأفلاطونية المحدثة (Neoplatonism)", type: "مدرسة"
 - id: "thk-john-damascene", title: "يوحنا الدمشقي", type: "مفكر"
 - id: "thk-maximus-confessor", title: "مكسيموس المعترف", type: "مفكر"
 gaps:

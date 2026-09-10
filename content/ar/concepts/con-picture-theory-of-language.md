@@ -14,11 +14,11 @@ edges:
 related:
 - id: "thk-lwittgenstein", title: "لودفيغ فيتغنشتاين", type: "مفكر"
 - id: "sch-logical-atomism", title: "الذرية المنطقية", type: "مدرسة"
-- id: "wrk-tractatus", title: "رسالة منطقية-فلسفية (Tractatus Logico-Philosophicus)", type: "عمل"
+- id: "wrk-tractatus", title: "رسالة منطقية-فلسفية (Tractatus Logico-Philosophicus)", type: "عمل / كتاب"
 - id: "sch-vienna-circle", title: "الوضعية المنطقية (حلقة فيينا)", type: "مدرسة"
 - id: "con-verification-principle-vienna", title: "مبدأ التحقق الوضعي التجريبي (Verification Principle)", type: "مفهوم"
 - id: "con-language-games-late-wittgenstein", title: "ألعاب اللغة وسياقات الحياة (Language-Games / Sprachspiele)", type: "مفهوم"
-- id: "wrk-philosophical-investigations-wittgenstein", title: "بحوث فلسفية للودفيغ فيتغنشتاين", type: "عمل"
+- id: "wrk-philosophical-investigations-wittgenstein", title: "بحوث فلسفية للودفيغ فيتغنشتاين", type: "عمل / كتاب"
 gaps:
   - "المصادر الأولية والتحليل المعجمي والمفاهيمي لتطور المصطلح."
   - "لم يُرصد بعد اقتباس مباشر موثّق من نص التراكتاتوس الأصلي لهذا الملف."

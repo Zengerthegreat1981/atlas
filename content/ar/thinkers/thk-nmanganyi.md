@@ -11,7 +11,7 @@ country: "إفريقيا الجنوبية"
 language: "الإنجليزية"
 active_start: 1973
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
 edges:
 - rel: "belongs_to", target: "br-ubuntu-psychology", target_type: "تيار"
 related:
@@ -23,6 +23,7 @@ gaps:
   - "سنة الميلاد بالتحديد (1940) موثقة في عدة مراجع."
   - "الترجمة العربية لاسمه اجتهادية (الأصح: تشاباني مانغاني)."
   - "روابط thk-amncube (الملف الحقيقي المرتبط بهذا الـid شخص مختلف تماماً — نكازيلو نكوبي) وthk-ftem وcon-ubuntu-psych وcon-decolonization-psych حُذفت — لا ملفات مستقلة توثّق هؤلاء أو تلك المفاهيم في الأطلس بعد."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-ubuntu-psychology` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # إن تشاباني مانغاني

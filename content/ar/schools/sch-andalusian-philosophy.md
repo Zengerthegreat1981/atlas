@@ -14,10 +14,10 @@ cultural_origin: "islamic-arabic"
 active_start: 1050
 active_end: 1300
 edges:
-- rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 related:
 - id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
-- id: "sch-wahdat-alwujud", title: "العرفان النظري (وحدة الوجود)", type: "مدرسة"
+- id: "sch-wahdat-alwujud", title: "العرفان النظري / وحدة الوجود (المدرسة الأكبرية — الشيخ الأكبر ابن عربي)", type: "مدرسة"
 - id: "thk-ibn-rushd", title: "أبو الوليد محمد بن أحمد بن رشد (الشارح الأكبر)", type: "مفكر"
 - id: "thk-ibn-tufayl", title: "أبو بكر محمد بن عبد الملك بن طفيل", type: "مفكر"
 - id: "con-occasionalism-ashari", title: "العناية الإلهية (العرضية عند الأشعري)", type: "مفهوم"

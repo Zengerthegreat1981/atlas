@@ -2,7 +2,7 @@
 slug: "ctx-cairo-al-azhar-fatimid-mamluk"
 id: "CTX-0054"
 type: "سياق/تقليد"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "القاهرة الفاطمية والمملوكية والأزهر كمركز إشعاع للعلوم"
 en: "Fatimid and Mamluk Cairo: Al-Azhar, Bimaristans, and Encyclopedic Scholarship"
@@ -16,6 +16,7 @@ related:
 - id: "thk-ibn-khaldun", title: "عبد الرحمن بن محمد بن خلدون الحضرمي", type: "مفكر"
 gaps:
   - "الوصف الدقيق لبرنامج العلاج بالموسيقى في بيمارستان قلاوون (تأسس 1284) يحتاج مصدراً أولياً متخصصاً في تاريخ الطب الإسلامي، لا مجرد إشارات عامة متكررة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-islamic-psychology` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 # القاهرة الفاطمية والمملوكية والأزهر كمركز إشعاع للعلوم
 

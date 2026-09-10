@@ -15,7 +15,7 @@ edges:
 related:
 - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
 - id: "rel-phenopath", title: "الظاهراتية النفسية المرضية — الحليف", type: "علاقة بين مدرستين"
-- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية", type: "خبرة معيشة"
+- id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 - id: "thk-minkowski", title: "أوجين مينكوفسكي", type: "مفكر"
 - id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
 gaps:

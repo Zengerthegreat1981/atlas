@@ -15,10 +15,10 @@ crumb: "علم الأعصاب السريري والسرديات النفسية �
 edges:
 - rel: "belongs_to", target: "sch-behavioral-neurology", target_type: "مدرسة"
 related:
-- id: "syn-tourette", title: "متلازمة جيل دو لا توريت", type: "متلازمة"
+- id: "syn-tourette", title: "متلازمة جيل دو لا توريت (العرات الحركية والصوتية المزمنة)", type: "متلازمة"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-- id: "thk-szasz", title: "توماس زاس", type: "مفكر"
-- id: "wrk-man-mistook-wife-hat", title: "الرجل الذي حسب زوجته قبعة", type: "عمل"
+- id: "thk-szasz", title: "توماس ساس", type: "مفكر"
+- id: "wrk-man-mistook-wife-hat", title: "الرجل الذي حسب زوجته قبعة وقصص سريرية أخرى", type: "عمل / كتاب"
 gaps:
   - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` اسماً نصّياً «طب الأعصاب السلوكي» لا يُحلّ إلى ملفّ، وقد أُنشئت المدرسةُ `sch-behavioral-neurology` فأُسند الانتماءُ إليها."
   - "إحالة معلَّقة أُزيلت: «ماريون بومر (معالجة الحركة)» (thk-mdgwinn) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."

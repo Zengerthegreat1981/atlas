@@ -15,7 +15,7 @@ active_start: 1818
 active_end: 1900
 edges:
 - rel: "evolved_into", target: "sch-nietzscheanism", target_type: "مدرسة"
-- rel: "evolved_into", target: "sch-existentialism", target_type: "مظلة"
+- rel: "evolved_into", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "thk-schopenhauer", title: "أرتور شوبنهاور", type: "مفكر"
 - id: "thk-zapffe", title: "بيتر فيسيل زابفه", type: "مفكر"

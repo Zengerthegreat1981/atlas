@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "dis-somatic-symptom-disorder", title: "اضطراب الأعراض الجسدية", type: "اضطراب/حالة إكلينيكية"
-- id: "syn-electromagnetic-hypersensitivity", title: "متلازمة الحساسية الكهرومغناطيسية", type: "متلازمة"
+- id: "syn-electromagnetic-hypersensitivity", title: "متلازمة الحساسية الكهرومغناطيسية الوهمية (EHS)", type: "متلازمة"
 - id: "con-mind-body", title: "مشكلة العقل والجسد", type: "مفهوم"
 gaps:
   - "أبحاث نينا بيربونت (Nina Pierpont 2009) والدراسات المقارنة حول تأثير نوسيبو (Nocebo Effect)."

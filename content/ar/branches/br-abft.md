@@ -10,13 +10,14 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1996
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
 related:
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "تاريخ التطوير في جامعة Clark يستحق مصدراً."
   - "الفرق بين ABFT و EFT للمراهقين (ودور Levy) يستحق توثيقاً."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» ويخالف 3 من أبنائه — فالخطأُ في الأب لا في الأبناء، وصُحِّح إلى «philosophy» بأغلبية الأسرة."
 ---
 
 # العلاج الأسري المرتكز على التعلق (ABFT)

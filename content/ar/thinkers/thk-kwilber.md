@@ -20,7 +20,7 @@ related:
 - id: "thk-ctart", title: "تشارلز تارت", type: "مفكر"
 - id: "thk-fvaughan", title: "فرانسيس فوغان", type: "مفكر"
 - id: "thk-eugenetaylor", title: "يوجين تيلور", type: "مفكر"
-- id: "sch-transpersonal", title: "علم النفس عبر الشخصي", type: "مدرسة"
+- id: "sch-transpersonal", title: "علم النفس عبر الشخصي (Transpersonal Psychology)", type: "مدرسة"
 - id: "thk-jferrer", title: "خورخي فيرير", type: "مفكر"
 - id: "thk-jgebser", title: "جين غيبسر", type: "مفكر"
 - id: "thk-pteilhard", title: "بيار تيار دي شاردان", type: "مفكر"

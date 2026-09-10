@@ -13,7 +13,7 @@ edges:
 - rel: "discussed_in", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
 - id: "con-isolation", title: "العزلة", type: "مفهوم"
-- id: "thk-bugental", title: "بوجنتال", type: "مفكر"
+- id: "thk-bugental", title: "جيمس بوجنتال", type: "مفكر"
 - id: "thk-mbuber", title: "مارتن بُبَر", type: "مفكر"
 - id: "con-chatbot-therapeutic-alliance", title: "التحالف العلاجي مع chatbot", type: "مفهوم"
 - id: "wrk-affect-regulation-mentalization", title: "تنظيم الوجدان والذهنية وتطور الذات", type: "عمل / كتاب"

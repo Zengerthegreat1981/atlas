@@ -24,7 +24,7 @@ related:
 - id: "sch-logical-atomism", title: "الذرية المنطقية", type: "مدرسة"
 - id: "thk-bertrand-russell", title: "برتراند راسل", type: "مفكر"
 - id: "sch-vienna-circle", title: "الوضعية المنطقية (حلقة فيينا)", type: "مدرسة"
-- id: "wrk-philosophical-investigations-wittgenstein", title: "بحوث فلسفية للودفيغ فيتغنشتاين", type: "عمل"
+- id: "wrk-philosophical-investigations-wittgenstein", title: "بحوث فلسفية للودفيغ فيتغنشتاين", type: "عمل / كتاب"
 gaps:
   - "لم تُثبت في هذه المراجعة بيانات نشر أي ترجمة عربية للكتاب (اسم المترجم، الناشر، سنة الصدور)، فلم تُذكر ترجمة عربية في المتن ولا في المصادر."
   - "العدد الدقيق للقضايا المرقّمة في الطبعة الألمانية الأولى لم يُحصَ من الطبعة نفسها."

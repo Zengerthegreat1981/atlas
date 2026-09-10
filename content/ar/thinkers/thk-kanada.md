@@ -15,8 +15,8 @@ active_end: -250
 edges:
 - rel: "belongs_to", target: "sch-vaisheshika", target_type: "مدرسة"
 related:
-- id: "sch-vaisheshika", title: "الفايشيشيكا", type: "مدرسة"
-- id: "thk-democritus", title: "ديموقريطس", type: "مفكر"
+- id: "sch-vaisheshika", title: "فايشيشيكا", type: "مدرسة"
+- id: "thk-democritus", title: "ديموقريطس الأبديري", type: "مفكر"
 gaps:
   - "النظرية الذرية (Parmanu) ومقولات الوجود الست في الفايشيشيكا سوترا."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."

@@ -9,7 +9,7 @@ crumb: "التحليل النفسي ← الناس ← خيميائي-إكلين
 dates: "أمريكا · 1943–"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-part: "philosophy"
+part: "psychology"
 active_start: 1980
 active_end: "مستمر"
 edges:
@@ -18,7 +18,8 @@ related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-edinger", title: "إدوارد إف. إيدينغر", type: "مفكر"
 - id: "thk-schwartzsalant", title: "ناثان شوارتز-سالانت", type: "مفكر"
-gaps: []
+gaps:
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # ستانتون مارلان

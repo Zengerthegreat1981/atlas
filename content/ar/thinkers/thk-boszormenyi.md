@@ -11,11 +11,11 @@ country: "الولايات المتحدة (من أصل مجري)"
 language: "الإنجليزية"
 active_start: 1965
 active_end: 2000
-part: "philosophy"
+part: "psychology"
 edges:
-- rel: "belongs_to", target: "tec-contextual-family-therapy", target_type: "تقنية"
+- rel: "belongs_to", target: "tec-contextual-family-therapy", target_type: "تقنية/تدخل علاجي"
 related:
-- id: "tec-contextual-family-therapy", title: "العلاج الأسري السياقي متعدد الأجيال", type: "تقنية"
+- id: "tec-contextual-family-therapy", title: "العلاج الأسري السياقي متعدد الأجيال", type: "تقنية/تدخل علاجي"
 - id: "thk-jframo", title: "جيمس فرامو", type: "مفكر"
 - id: "thk-mbowen", title: "موراي بوين", type: "مفكر"
 - id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
@@ -24,6 +24,7 @@ gaps:
   - "سنة تأسيسه قسم العلاج الأسري في معهد شرق بنسلفانيا للطب النفسي (EPPI) غير مثبَّتة هنا، وكذلك سنة هجرته من المجر إلى الولايات المتحدة."
   - "حُذِف من هذا المدخل مفهوم «الثقة ضمن الحدود المنطقية» ووصفه بأنه امتداد لـ«التعلق الآمن»، وحُذِفت نسبة أداتَي «إعادة التوصيف» و«حلقات العدالة» إليه: لم يُعثَر على أيٍّ منها في عمل منشور له."
   - "عنوان *Contextual Therapy* (1987) المذكور سابقاً غير دقيق؛ صُحِّح إلى *Foundations of Contextual Therapy* (1987)، وهو مجموعة أوراقه لا كتاباً مؤلَّفاً ابتداءً."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-contextual-family-therapy` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # إيفان بوسورميني-ناجي

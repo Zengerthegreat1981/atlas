@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
 - id: "sch-nietzscheanism", title: "النيتشوية", type: "مدرسة"
-- id: "wrk-the-birth-of-tragedy-nietzsche", title: "مولد التراجيديا لفريدريش نيتشه", type: "عمل"
+- id: "wrk-the-birth-of-tragedy-nietzsche", title: "مولد التراجيديا لفريدريش نيتشه", type: "عمل / كتاب"
 - id: "con-will-to-power", title: "إرادة القوة (Wille zur Macht)", type: "مفهوم"
 - id: "con-ubermensch-overman", title: "الإنسان المتفوق والأعلى (Übermensch)", type: "مفهوم"
 gaps:

@@ -12,11 +12,11 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-ecopsychology", target_type: "مدرسة"
 related:
-- id: "que-climate-grief-solastalgia", title: "الحزن المناخي", type: "سؤال توليدي"
+- id: "que-climate-grief-solastalgia", title: "كيف يواجه الإنسان المعاصر الحزن المناخي والسولاستالجيا في عصر الأنثروبوسين؟", type: "سؤال توليدي"
 - id: "thk-jonas", title: "هانز يوناس", type: "مفكر"
 - id: "thk-lroszak", title: "ثيودور روزاك", type: "مفكر"
 - id: "con-ecopsychoanalysis", title: "التحليل النفسي البيئي", type: "مفهوم"
-- id: "con-ecology-of-freedom", title: "إيكولوجيا الحرية", type: "مفهوم"
+- id: "con-ecology-of-freedom", title: "إيكولوجيا الحرية (Ecology of Freedom)", type: "مفهوم"
 gaps:
   - "لم يُراجَع نص مقال كروتزن وستورمر (2000) في نشرة IGBP مباشرة ضمن مصادر المشروع، والاستشهاد قائم على مراجع ثانوية."
   - "لم تُراجَع مباشرة ورقة ألبرشت (2005) 'Solastalgia' في مجلة Philosophy Activism Nature."

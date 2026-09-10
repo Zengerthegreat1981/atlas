@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1990
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
 edges:
 - rel: "belongs_to", target: "br-peer-support", target_type: "تيار"
 related:
@@ -25,6 +25,7 @@ gaps:
   - "تصحيح: كتاب *Mental Health, Social Mirror* (2007) ليس من تأليف ديفيدسون؛ مؤلفوه هم William R. Avison وJane D. McLeod وBernice A. Pescosolido (Springer، 2007). أُزيل الاستشهاد الخاطئ من متن الملف واستُبدل بأعماله الفعلية بعد مراجعة مصادر مستقلة."
   - "تصحيح: كتاب *The Roots of the Recovery Movement in Psychiatry: Lessons Learned* (Wiley-Blackwell، 2010) هو تأليف مشترك (وليس تحرير) بين Larry Davidson وJaak Rakfeldt وJohn Strauss؛ لا وجود لمؤلف باسم 'P. Rudof' في أي مصدر مستقل — تم تصحيح الاسم."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: دانيال فيشر (thk-dfisher)."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-peer-support` موسومٌ «philosophy» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # لاري ديفيدسون

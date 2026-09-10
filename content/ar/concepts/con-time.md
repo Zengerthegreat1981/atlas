@@ -12,12 +12,12 @@ active_end: "مستمر"
 edges:
 - rel: "discussed_in", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-- id: "thk-minkowski", title: "مينكوفسكي", type: "مفكر"
+- id: "thk-minkowski", title: "أوجين مينكوفسكي", type: "مفكر"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "wrk-lived-time", title: "الزمن المُعاش", type: "عمل / كتاب"
 - id: "thk-bergson", title: "هنري برغسون", type: "مفكر"
 - id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
-- id: "con-time-consciousness", title: "وعي الزمن (Zeitbewußtsein)", type: "مفهوم"
+- id: "con-time-consciousness", title: "وعي الزمن (Zeitbewußtsein): الحاضر المتضمن للماضي والمستقبل", type: "مفهوم"
 - id: "dbt-presentism-vs-eternalism-time", title: "جدل الحاضرية مقابل الأبدية في فلسفة الزمان", type: "جدل"
 - id: "thk-king", title: "بيرل كينغ", type: "مفكر"
 gaps:

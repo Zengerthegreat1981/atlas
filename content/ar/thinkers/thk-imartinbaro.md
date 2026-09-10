@@ -11,9 +11,9 @@ country: "السلفادور"
 language: "الإسبانية"
 active_start: 1975
 active_end: 1989
-part: "psychology"
+part: "philosophy"
 edges:
-- rel: "belongs_to", target: "br-liberation-psychology", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-liberation-psychology", target_type: "تيار"
 related:
 - id: "thk-pfreire", title: "باولو فريري", type: "مفكر"
 - id: "thk-fgutier", title: "فرانسيسكو غوتيريس", type: "مفكر"
@@ -28,6 +28,7 @@ gaps:
   - "لا تتوفر مصادر توثّق اقتباساً مباشراً منسوباً له بنص وسنة محدَّدين."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: تشو هي-سو (thk-icheolhong)."
   - "دُمج معه الملف المكرَّر thk-ignacio-martin-baro (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-liberation-psychology` موسومٌ «philosophy» — فوُحِّد على وسم الأب."
 ---
 
 # إغناثيو مارتن-بارو

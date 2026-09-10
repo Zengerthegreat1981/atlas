@@ -16,14 +16,14 @@ edges:
 related:
 - id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
 - id: "tec-bowen-family-systems", title: "علاج الأنساق الأسرية لبوين والتمايز الذاتي", type: "تقنية/تدخل علاجي"
-- id: "br-bowen-systems", title: "أنساق بوين", type: "تيار"
+- id: "br-bowen-systems", title: "العلاج الأسري بالأنساق (Bowen Family Systems)", type: "تيار"
 - id: "thk-mbowen", title: "موراي بوين", type: "مفكر"
 - id: "thk-mkerr", title: "مايكل كير", type: "مفكر"
 - id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
-- id: "thk-jhaley", title: "جاي هيلي", type: "مفكر"
-- id: "con-family-projection-process", title: "عملية الإسقاط الأسري", type: "مفهوم"
+- id: "thk-jhaley", title: "جاي هالي", type: "مفكر"
+- id: "con-family-projection-process", title: "عملية الإسقاط الأسري (Family Projection Process)", type: "مفهوم"
 - id: "con-triangulation", title: "التثليث (Triangulation)", type: "مفهوم"
-- id: "br-general-systems-cybernetics", title: "الأنساق العامة والسيبرنطيقا", type: "تيار"
+- id: "br-general-systems-cybernetics", title: "نظرية الأنساق العامة والسيبرنطيقا", type: "تيار"
 gaps:
   - "**كُتب متنه 2026-09-07**: كان الملف من دفعة قالبية. لم يُدمج لأن نظائره في الأطلس تعالج النظامية مع التحليل النفسي أو السلوكية أو ما بعد الحداثة أو الطاوية — ولا ملف لهذا الزوج (النظامية × بوين)."
   - "«مقياس التمايز» (Differentiation of Self Scale) الذي وضعه بوين نظرياً من 0 إلى 100 لم يُقنَّن قياسياً قبولاً عامّاً؛ ولم أُدرج هنا أرقاماً عن خصائصه السيكومترية."

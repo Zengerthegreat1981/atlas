@@ -15,7 +15,7 @@ active_end: 135
 edges:
 - rel: "belongs_to", target: "sch-stoicism", target_type: "مدرسة"
 related:
-- id: "sch-stoicism", title: "المدرسة الرواقية", type: "مدرسة"
+- id: "sch-stoicism", title: "الرواقية (Stoicism)", type: "مدرسة"
 - id: "thk-marcus-aurelius", title: "ماركوس أوريليوس", type: "مفكر"
 - id: "rel-stoicism-cbt", title: "الرواقية والعلاج المعرفي السلوكي: من إبكتيتوس إلى بيك", type: "علاقة بين مدرستين"
 - id: "wrk-discourses-epictetus", title: "المحاورات لإبكتيتوس (Discourses)", type: "عمل / كتاب"

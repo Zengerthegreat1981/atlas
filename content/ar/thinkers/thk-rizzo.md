@@ -10,7 +10,7 @@ dates: "الولايات المتحدة · 1960–"
 country: "الولايات المتحدة"
 language: "إنجليزية"
 part: "psychology"
-active_start: null
+active_start: 1960
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "br-vr-therapy", target_type: "تيار"
@@ -23,6 +23,7 @@ related:
 - id: "thk-sbouchard", title: "ستيفان بوشار", type: "مفكر"
 gaps:
   - "سنة ميلاده الدقيقة (العقد السبعيني من القرن 20) غير موثّقة بمصدر أولي منشور."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («الولايات المتحدة · 1960–») فاستُخرجت: 1960."
 ---
 
 # ألبرت «سكيب» ريزو

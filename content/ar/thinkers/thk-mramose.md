@@ -17,7 +17,7 @@ related:
 - id: "thk-biko", title: "ستيف بيكو", type: "مفكر"
 - id: "thk-nmanganyi", title: "إن تشاباني مَنغاني", type: "مفكر"
 - id: "thk-ttshishiku", title: "تِمُوتي تشيشيكو", type: "مفكر"
-- id: "con-ubuntu", title: "أوبونتو (Ubuntu)", type: "مفهوم"
+- id: "con-ubuntu", title: "الأوبونتو (Ubuntu)", type: "مفهوم"
 gaps:
   - "السيرة الذاتية الدقيقة تحتاج مراجعة (السنة 1948 من ويكيبيديا لكن تحتاج تحققاً من مصدر أكاديمي)."
   - "الترجمة العربية لاسم 'Mogobe B. Ramose' اجتهادية، والأصح 'موغوبي'."

@@ -13,19 +13,20 @@ active_start: 1865
 active_end: 1911
 crumb: "الناس ← قياس الفروق الفردية ← فرانسيس غالتون"
 edges:
-- rel: "influenced", target: "dbt-nature-vs-nurture-intelligence-personality", target_type: "مناظرة"
+- rel: "influenced", target: "dbt-nature-vs-nurture-intelligence-personality", target_type: "جدل"
 related:
-- id: "dbt-nature-vs-nurture-intelligence-personality", title: "الطبيعة أم التنشئة في الذكاء والشخصية؟", type: "مناظرة"
-- id: "dbt-cultural-bias-iq-testing", title: "التحيُّز الثقافي في اختبارات الذكاء", type: "مناظرة"
-- id: "evt-immigration-act-iq-testing-1924", title: "قانون الهجرة الأمريكي واختبارات الذكاء 1924", type: "حدث"
-- id: "evt-cyril-burt-twin-data-controversy-1976", title: "جدل بيانات التوائم عند سيريل بيرت 1976", type: "حدث"
-- id: "stu-minnesota-twins-reared-apart", title: "دراسة مينيسوتا للتوائم المُربّاة متفرِّقين", type: "دراسة"
+- id: "dbt-nature-vs-nurture-intelligence-personality", title: "جدل الطبيعة والتنشئة في الذكاء والشخصية", type: "جدل"
+- id: "dbt-cultural-bias-iq-testing", title: "جدل التحيز الثقافي في اختبارات الذكاء وصلاحيتها المقارنة", type: "جدل"
+- id: "evt-immigration-act-iq-testing-1924", title: "استخدام اختبارات الذكاء في إقرار قانون الهجرة الأمريكي لعام 1924", type: "حدث تاريخي"
+- id: "evt-cyril-burt-twin-data-controversy-1976", title: "جدل وتدقيق بيانات توائم سيريل بيرت حول وراثة الذكاء", type: "حدث تاريخي"
+- id: "stu-minnesota-twins-reared-apart", title: "دراسة مينيسوتا للتوائم المتماثلة المتبناة منفصلة والوراثة السلوكية", type: "دراسة وبحث"
 - id: "thk-darwin", title: "تشارلز داروين", type: "مفكر"
-- id: "con-word-association", title: "التداعي اللفظي", type: "مفهوم"
+- id: "con-word-association", title: "تجربة تداعي الكلمات (الارتباط اللفظي)", type: "مفهوم"
 gaps:
   - "**كُتب متنُه 2026-09-07:** كان غالتون أصلاً لعدّة ملفاتٍ في الأطلس (اختبارُ الذكاء، التداعي اللفظي، مناظرةُ الطبيعة والتنشئة) بلا ملفٍّ يُعرِّفه."
   - "لا ملفَّ في الأطلس لـ**كارل بيرسون** ولا لـ**تشارلز سبيرمان**، وهما حلقتا الوصل بين غالتون والإحصاء النفسي اللاحق."
   - "لا ملفَّ مستقلَّ في الأطلس لتاريخ **حركة تحسين النسل** ولا لتطبيقاتها التشريعية، وهي مذكورةٌ هنا إجمالاً."
+  - "**جذرُ مسارٍ عامٌّ 2026-09-10:** جذرُ مسار التنقّل هنا «الناس» بلا مدرسةٍ تُقدّمه، فيظهر في فهرس التصفّح تحت جذرٍ لا يدلُّ على موضعٍ في الأطلس. ولا يمكن استخراجُ المدرسة آلياً لأنّ هذا الملفَّ **بلا `belongs_to`** أصلاً — فتصحيحُ الجذر يقتضي أوّلاً إسنادَ الملفِّ إلى مدرسة، وهو قرارٌ تحريريٌّ يحتاج قراءةَ المتن. مُسجَّلٌ لا مُصلَح."
 ---
 
 # فرانسيس غالتون

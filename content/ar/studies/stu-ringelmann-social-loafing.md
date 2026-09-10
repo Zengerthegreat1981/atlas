@@ -10,7 +10,7 @@ active_start: 1913
 active_end: 1913
 part: "psychology"
 related:
-- id: "con-responsibility", title: "المسؤولية الوجودية", type: "مفهوم"
+- id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
 study_year: 1913
 design: "تجريبي ميداني (مقارنة أداء فردي بأداء جماعي، بين المجموعات المتزايدة الحجم)"
 sample_size: ""

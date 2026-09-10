@@ -11,7 +11,7 @@ country: "فرنسا"
 language: "الفرنسية"
 active_start: 2003
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "tec-contemplative-psychotherapy", target_type: "تقنية/تدخل علاجي"
 related:
@@ -24,6 +24,7 @@ gaps:
   - "الشراكة العلمية مع ريتشارد ديفيدسون في مختبر Mind & Life موثقة."
   - "كتاب *Altruism* (2015) مع بورنهام من أهم كتبه في علم النفس الإيجابي."
   - "روابط thk-rmind (ريتشارد ديفيدسون) وthk-dgoswami (ديباك شوبرا) وcon-contemplative-neuroscience وcon-altruism حُذفت — لا ملفات مستقلة لها في الأطلس بعد رغم ذكرها في المتن."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-contemplative-psychotherapy` موسومٌ «psychology» — فوُحِّد على وسم الأب."
 ---
 
 # ماتيو ريكار

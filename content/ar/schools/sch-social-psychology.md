@@ -15,7 +15,7 @@ active_start: 1908
 active_end: "مستمر"
 edges: []
 related:
-- id: "sch-behaviorism", title: "السلوكية", type: "مدرسة"
+- id: "sch-behaviorism", title: "السلوكية (Behaviorism)", type: "مدرسة"
 - id: "sch-developmental", title: "علم النفس النمائي (Developmental Psychology)", type: "مدرسة"
 - id: "con-barnum-forer-effect", title: "تأثير بارنوم / فورير (سيكولوجيا تصديق التوصيفات الفضفاضة والأبراج)", type: "مفهوم"
 - id: "thk-venriquez", title: "فيرجوليو إنريكيز", type: "مفكر"

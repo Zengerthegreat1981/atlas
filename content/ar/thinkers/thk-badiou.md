@@ -9,8 +9,8 @@ crumb: "التحليل النفسي ← الناس ← ما بعد لاكان �
 dates: "فرنسا · مواليد 1937"
 country: "فرنسا"
 language: "الفرنسية"
-part: "philosophy"
-active_start: null
+part: "psychology"
+active_start: 1937
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
@@ -21,6 +21,8 @@ related:
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *L'Être et l'événement* (1988) بترجمة عربية معتمدة."
   - "لم تُراجع أعماله بعد من طبعة أصلية مباشرة (L'Éthique, 1993; Logiques des mondes, 2006)."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («فرنسا · مواليد 1937») فاستُخرجت: 1937."
 ---
 
 # ألان باديو

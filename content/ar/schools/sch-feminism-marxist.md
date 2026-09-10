@@ -18,7 +18,7 @@ edges:
 related:
 - id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
 - id: "sch-feminism-radical", title: "النسوية الراديكالية", type: "مدرسة"
-- id: "sch-western-marxism", title: "الماركسية الغربية", type: "مدرسة"
+- id: "sch-western-marxism", title: "الماركسية الغربية (Western Marxism)", type: "مدرسة"
 gaps:
   - "نصوص Zetkin, Kollontai, Dalla Costa, Vogel, Ferguson, Federici تحتاج مراجعة من المصدر الأولي."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

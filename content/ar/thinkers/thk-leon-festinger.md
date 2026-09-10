@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-daniel-gilbert", title: "دانيال جيلبرت", type: "مفكر"
 - id: "con-cognitive-dissonance", title: "التنافر المعرفي", type: "مفهوم"
-- id: "wrk-festinger-cognitive-dissonance", title: "التنافر المعرفي (A Theory of Cognitive Dissonance)", type: "عمل / كتاب"
+- id: "wrk-festinger-cognitive-dissonance", title: "نظرية التنافر المعرفي (A Theory of Cognitive Dissonance)", type: "عمل / كتاب"
 - id: "con-spotlight-effect", title: "تأثير بقعة الضوء (المبالغة في تقدير انتباه الآخرين لأخطائنا)", type: "مفهوم"
 - id: "thk-klew", title: "كورت لوين", type: "مفكر"
 - id: "con-cognitive-distortion", title: "التشوهات المعرفية", type: "مفهوم"

@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-breuer", title: "يوزف بروير", type: "مفكر"
-- id: "con-unconscious", title: "اللاوعي", type: "مفهوم"
+- id: "con-unconscious", title: "اللاشعور / اللاوعي النفسي الكلاسيكي (The Unconscious)", type: "مفهوم"
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
 - "الفرق بين الكبت (Repression) في فرويد والكبت المتعمَّد الواعي (Suppression) في علم النفس المعرفي يحتاج فصلاً بمصدر أولي مستقل."

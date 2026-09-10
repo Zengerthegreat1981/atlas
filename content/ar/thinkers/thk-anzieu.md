@@ -11,7 +11,7 @@ active_start: 1956
 active_end: 1996
 country: "فرنسا"
 language: "الفرنسية"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
@@ -30,6 +30,7 @@ gaps:
   - "لم تُعثر ترجمة عربية معتمدة لـ*Le Moi-peau* (1985)، فلا يمكن نقل عبارة منه بصيغة عربية منشورة."
   - "سنة صدور *Les enveloppes psychiques* بالفرنسية غير محسومة هنا؛ المتاح هو الإحالة إلى المجلد المحرَّر في ترجمته الإنجليزية (1990)."
   - "تاريخ *Beckett et le psychanalyste* وناشره لم يُثبتا، فحُذف العمل من قائمة الأعمال."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # ديدييه أنزيو

@@ -14,8 +14,8 @@ edges:
 related:
 - id: "thk-william-ockham", title: "وليم الأوكامي", type: "مفكر"
 - id: "thk-duns-scotus", title: "يوحنا دونز سكوتوس (الدكتور سوتيل)", type: "مفكر"
-- id: "wrk-summa-logicae-ockham", title: "خلاصة المنطق لوليم الأوكامي (Summa Logicae)", type: "عمل"
-- id: "wrk-ordinatio-duns-scotus", title: "الأورديناتيو لجون دانز سكوتس (Opus Oxoniense)", type: "عمل"
+- id: "wrk-summa-logicae-ockham", title: "خلاصة المنطق لوليم الأوكامي (Summa Logicae)", type: "عمل / كتاب"
+- id: "wrk-ordinatio-duns-scotus", title: "الأورديناتيو لجون دانز سكوتس (Opus Oxoniense)", type: "عمل / كتاب"
 - id: "thk-thomas-aquinas", title: "القديس توما الإكويني", type: "مفكر"
 - id: "con-natural-law-aquinas-concept", title: "القانون الطبيعي والمشاركة العقلية في الحكمة الأزلية (Natural Law)", type: "مفهوم"
 - id: "dbt-qadar-free-will-in-kalam", title: "جدل القدر والجبر والاختيار في علم الكلام الإسلامي", type: "جدل"

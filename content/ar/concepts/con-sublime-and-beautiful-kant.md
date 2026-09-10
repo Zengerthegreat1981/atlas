@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
 - id: "sch-kant-critical", title: "الكانطية النقدية", type: "مدرسة"
-- id: "wrk-critique-of-judgment-kant", title: "نقد ملكة الحكم لإيمانويل كانط", type: "عمل"
+- id: "wrk-critique-of-judgment-kant", title: "نقد ملكة الحكم لإيمانويل كانط", type: "عمل / كتاب"
 gaps:
   - "التحليل الإبستمولوجي واللغوي الدقيق لتطور المفهوم عبر التاريخ."
 ---

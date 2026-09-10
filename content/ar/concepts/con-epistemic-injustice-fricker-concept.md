@@ -12,9 +12,9 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-epistemology", target_type: "مدرسة"
 related:
-- id: "dbt-epistemic-injustice-fricker", title: "جدل الظلم الإبستمولوجي عند فريكر", type: "جدل"
+- id: "dbt-epistemic-injustice-fricker", title: "الظلم الإبستمولوجي والشهادي والتأويلي لميراندا فريكر", type: "جدل"
 - id: "thk-bhooks", title: "بيل هوكس", type: "مفكر"
-- id: "thk-crenshaw", title: "كيمبرلي كرِنشو", type: "مفكر"
+- id: "thk-crenshaw", title: "كيمبرلي كرنشو", type: "مفكر"
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
 - id: "thk-miranda-fricker", title: "ميراندا فريكر", type: "مفكر"
 gaps:

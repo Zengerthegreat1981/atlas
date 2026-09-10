@@ -8,7 +8,7 @@ en: "Critical-Liberation Therapy"
 crumb: "العدالة والمجتمع ← العلاج النقدي-التحرري ← المفهوم"
 active_start: 1990
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
 edges:
 - rel: "belongs_to", target: "br-critical-liberation-therapy", target_type: "تيار"
 related:
@@ -18,6 +18,7 @@ gaps:
   - "نسبة الإطار إلى Mary Watkins وKenneth Shulman موجودة في المتن لكن دون توثيق ببليوغرافي كامل (طبعة، ناشر)، ولا توجد صفحة مفكر مستقلة لأي منهما لربطها."
   - "الرابطان السابقان (con-intersectionality وcon-anti-oppressive-practice) حُذفا لعدم ورود إشارة فعلية لهما في متن المقال."
   - "لا يوجد اقتباس موثّق مباشر لـ Watkins أو Shulman يمكن نسبته لهما بدقة."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-critical-liberation-therapy` موسومٌ «philosophy» — فوُحِّد على وسم الأب."
 ---
 
 # العلاج النقدي-التحرري

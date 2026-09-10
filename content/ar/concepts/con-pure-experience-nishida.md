@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-nishida", title: "كيتارو نيشيدا", type: "مفكر"
 - id: "sch-kyoto", title: "مدرسة كيوتو", type: "مدرسة"
-- id: "wrk-an-inquiry-into-the-good-nishida", title: "بحث في الخير لكيتارو نيشيدا (Zen no Kenkyu)", type: "عمل"
+- id: "wrk-an-inquiry-into-the-good-nishida", title: "بحث في الخير لكيتارو نيشيدا (Zen no Kenkyu)", type: "عمل / كتاب"
 - id: "thk-locke", title: "جون لوك", type: "مفكر"
 - id: "thk-descartes", title: "رينيه ديكارت", type: "مفكر"
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"

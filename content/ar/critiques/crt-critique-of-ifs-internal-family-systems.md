@@ -6,20 +6,21 @@ part: "psychology"
 level: "متقدم"
 title: "نقد نِظَام الْعَائِلَة الدَّاخِلِيَّة (IFS): نَظَرِيَّة سَرْدِيَّة لَا مَنْهَج عِلَاجِيّ مُوَثَّق"
 en: "Critique of Internal Family Systems (IFS): Narrative Theory, Not Documented Method"
-crumb: "نقد ← IFS"
+crumb: "النقد الخارجي ← IFS"
 active_start: 2015
 active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
 - id: "thk-richard-schwartz", title: "ريتشارد شوارتز", type: "مفكر"
-- id: "crt-replication-crisis", title: "أزمة التكرار", type: "نقد خارجي موثَّق"
+- id: "crt-replication-crisis", title: "نقد أزمة التكرار العلمي: ميتا-تحليلات لا تتطابق", type: "نقد خارجي موثَّق"
 - id: "crt-critique-of-trauma-therapy", title: "نقد «صِنَاعَة الصَّدْمَة»: مَنْ يَسْتَفِيد مِن تَطْبِيب الصَّدْمَة؟", type: "نقد خارجي موثَّق"
 - id: "crt-critique-of-solution-focused", title: "نقد الْعِلَاج الْمُرْكَز عَلَى الْحَلّ: هَل «تَجَاهُل الْمَشْكَلَة» هُوَ نَفْسُه مَشْكَلَة؟", type: "نقد خارجي موثَّق"
 - id: "crt-baudrillard-critique-of-hyperreality", title: "نقد بودريار للمحاكاة الفائقة واختفاء الواقع", type: "نقد خارجي موثَّق"
 gaps:
 - "لم تُراجع من نسخة أصلية مباشرة بعد."
 - "الفرق بين هذا النقد والنقد المعرفي (Sahdra, Shaver) يحتاج فصلاً."
+  - "**وُحِّد مسارُ التنقّل 2026-09-10:** كان «نقد» وصار «النقد الخارجي» — لأنّ الجذرَ كان منقسماً بين صيغتين للشيء نفسِه، فيعرض فهرسُ التصفّح موضعين لموضعٍ واحد."
 ---
 # نقد نظام العائلة الداخلية (IFS): نظرية سردية لا منهج علاجي موثق
 

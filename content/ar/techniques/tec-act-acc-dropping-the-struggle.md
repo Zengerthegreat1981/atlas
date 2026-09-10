@@ -14,12 +14,12 @@ edges:
 - rel: "belongs_to", target: "sch-act", target_type: "مدرسة"
 evidence_level: "experimental"
 related:
-- id: "tec-act-acc-willingness-vs-willfulness", title: "الاستعداد مقابل العناد", type: "تقنية/تدخل علاجي"
+- id: "tec-act-acc-willingness-vs-willfulness", title: "الاستعداد مقابل العناد (ACT)", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-pain-vs-suffering", title: "الألم مقابل المعاناة", type: "تقنية/تدخل علاجي"
 - id: "tec-act-acc-creative-hopelessness", title: "اليأس الخلّاق", type: "تقنية/تدخل علاجي"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
-- id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب"
+- id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا توجد دراسة محددة موثّقة في الأطلس تختبر استعارة مفتاح الصراع بمعزل عن باقي حزمة ACT، فـevidence_level تحفظي (experimental)."

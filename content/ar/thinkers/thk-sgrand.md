@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2000
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
@@ -20,6 +20,7 @@ gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "عنوان (The Body in Psychoanalysis and Psychoanalytic Treatment, 2001) لم يُتحقق منه في فهرس ناشر موثوق؛ العمل الموثّق فعلياً هو The Reproduction of Evil (2000)."
   - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لـسو غراند."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # سو غراند

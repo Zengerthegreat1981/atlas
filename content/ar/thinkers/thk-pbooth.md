@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1967
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 crumb: "Theraplay (العلاج بالألعاب العلائقي) ← الناس ← فيليس بوث"
 edges:
 - rel: "belongs_to", target: "br-theraplay", target_type: "تيار"
@@ -19,6 +19,7 @@ related:
 gaps:
   - "حُذفت روابط related كانت تشاور على ملفات غير موجودة (thk-tlsachs، thk-ebowlby، thk-pcrittenden)."
   - "السيرة الذاتية الكاملة (نشأتها، دراستها) غير منشورة على الإنترنت."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-theraplay` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # فيليس بوث

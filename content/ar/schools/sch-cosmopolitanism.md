@@ -14,9 +14,9 @@ cultural_origin: "greek"
 active_start: -400
 active_end: "مستمر"
 related:
-- id: "sch-stoicism", title: "الرواقية", type: "مدرسة"
-- id: "sch-cynicism", title: "الكلبية", type: "مدرسة"
-- id: "sch-rawlsianism", title: "الليبرالية السياسية المعاصرة", type: "مدرسة"
+- id: "sch-stoicism", title: "الرواقية (Stoicism)", type: "مدرسة"
+- id: "sch-cynicism", title: "الكلبية (Cynicism)", type: "مدرسة"
+- id: "sch-rawlsianism", title: "الليبرالية السياسية المعاصرة (الرولزية وما بعدها)", type: "مدرسة"
 - id: "thk-sen", title: "أمارتيا سين", type: "مفكر"
 - id: "thk-nussbaum", title: "مارثا نوسباوم", type: "مفكر"
 - id: "con-capabilities-approach", title: "نهج القدرات", type: "مفهوم"

@@ -14,7 +14,7 @@ edges:
 related:
 - id: "sch-leibnizianism", title: "اللايبنتزية", type: "مدرسة"
 - id: "thk-leibniz", title: "غوتفريد فيلهلم لايبنتز", type: "مفكر"
-- id: "wrk-monadology-leibniz", title: "المونادولوجيا لغوتفريد لايبنتز", type: "عمل"
+- id: "wrk-monadology-leibniz", title: "المونادولوجيا لغوتفريد لايبنتز", type: "عمل / كتاب"
 - id: "con-monad", title: "المونادات (Monades)", type: "مفهوم"
 - id: "con-jawhar-fard-atomic-monad", title: "الجوهر الفرد والجزء الذي لا يتجزأ (Atomism in Kalam)", type: "مفهوم"
 gaps:

@@ -19,7 +19,7 @@ related:
 - id: "thk-jonas", title: "هانز يوناس", type: "مفكر"
 - id: "sch-philosophy-of-technology", title: "فلسفة التكنولوجيا", type: "مدرسة"
 - id: "con-gestell", title: "الإطار (Gestell)", type: "مفهوم"
-- id: "wrk-question-concerning-technology", title: "السؤال حول التقنية (هايدجر)", type: "عمل / كتاب"
+- id: "wrk-question-concerning-technology", title: "السؤال حول التقنية (Die Frage nach der Technik)", type: "عمل / كتاب"
 gaps:
   - "تأثير كتابته المبكرة في مجلة The New Yorker على تكوين وعي أمريكي بالتقنية يحتاج مراجعة."
   - "لا يوجد اقتباس مباشر موثّق من 'خماسي القوى' (The Pentagon of Power, 1970) — تم تصحيح ترجمة العنوان سابقاً من 'الآلة الخامسة' الخاطئة إلى 'خماسي القوى' بعد التحقق (2026-09-04)."

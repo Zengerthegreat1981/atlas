@@ -19,7 +19,7 @@ edges:
 - rel: "belongs_to", target: "sch-spinozism", target_type: "مدرسة"
 related:
 - id: "exp-spinoza-excommunication-amsterdam", title: "حرمان سبينوزا الكنسي في أمستردام (1656) وعزلته التنويرية", type: "خبرة معيشة"
-- id: "thk-spinoza", title: "سبينوزا", type: "مفكر"
+- id: "thk-spinoza", title: "باروخ سبينوزا", type: "مفكر"
 gaps:
   - "يوجد ملف آخر لنفس العمل: wrk-spinoza-ethics (أطول وعُمِّق سابقاً)؛ لم يُدمَج الملفان ولم يُنقل slug."
   - "تتداول ترجمات عربية لهذا العمل، لكن لم يتيسّر تثبيت ثلاثيّ المترجم والناشر والسنة لأيٍّ منها، فلم تُسمَّ أيّ ترجمة هنا."

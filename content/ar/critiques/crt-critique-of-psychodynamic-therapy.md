@@ -6,20 +6,21 @@ part: "psychology"
 level: "متقدم"
 title: "نقد الْعِلَاج النَّفْسَحَرَكِيّ: لِمَاذَا الْاِسْتِبْصَار لَيْسَ كَافِيًا؟"
 en: "Critique of Psychodynamic Therapy: Why Insight Isn't Enough"
-crumb: "نقد ← الْعِلَاج النَّفْسَحَرَكِيّ"
+crumb: "النقد الخارجي ← الْعِلَاج النَّفْسَحَرَكِيّ"
 active_start: 1970
 active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-- id: "crt-popper-critique-psychoanalysis", title: "نقد بوبر للتحليل النفسي", type: "نقد خارجي موثَّق"
-- id: "crt-replication-crisis", title: "أزمة التكرار", type: "نقد خارجي موثَّق"
-- id: "crt-critique-of-cbt", title: "نقد CBT", type: "نقد خارجي موثَّق"
+- id: "crt-popper-critique-psychoanalysis", title: "نقد بوبر للتحليل النفسي: قابلية التفنيد كشرط للعلمية", type: "نقد خارجي موثَّق"
+- id: "crt-replication-crisis", title: "نقد أزمة التكرار العلمي: ميتا-تحليلات لا تتطابق", type: "نقد خارجي موثَّق"
+- id: "crt-critique-of-cbt", title: "نقد CBT: «اِفْتِقَار إِلَى نَظَرِيَّة شَامِلَة» أَمْ «اِسْتِفَادَة مِن سُلُوكِيَّة سُلَطَوِيَّة»؟", type: "نقد خارجي موثَّق"
 - id: "crt-critique-of-solution-focused", title: "نقد الْعِلَاج الْمُرْكَز عَلَى الْحَلّ: هَل «تَجَاهُل الْمَشْكَلَة» هُوَ نَفْسُه مَشْكَلَة؟", type: "نقد خارجي موثَّق"
 - id: "crt-baudrillard-critique-of-hyperreality", title: "نقد بودريار للمحاكاة الفائقة واختفاء الواقع", type: "نقد خارجي موثَّق"
 gaps:
 - "لم تُراجع من نسخة أصلية مباشرة بعد (Crits-Christoph, 1998; Shedler, 2010)."
 - "الفرق بين هذا النقد والنقد الكاثوليكي للتحليل النفسي يحتاج فصلاً."
+  - "**وُحِّد مسارُ التنقّل 2026-09-10:** كان «نقد» وصار «النقد الخارجي» — لأنّ الجذرَ كان منقسماً بين صيغتين للشيء نفسِه، فيعرض فهرسُ التصفّح موضعين لموضعٍ واحد."
 ---
 # نقد العلاج النفسحركي: لماذا الاستبصار ليس كافيا؟
 

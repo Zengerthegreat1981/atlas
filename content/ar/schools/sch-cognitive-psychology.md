@@ -25,8 +25,8 @@ related:
 - id: "con-memory", title: "الذاكرة", type: "مفهوم"
 - id: "con-attention", title: "الانتباه", type: "مفهوم"
 - id: "con-cognitive-dissonance", title: "التنافر المعرفي", type: "مفهوم"
-- id: "stu-miller-magical-number-seven", title: "دراسة ميلر عن الرقم السحري سبعة", type: "دراسة وبحث"
-- id: "stu-loftus-misinformation-effect", title: "دراسات لوفتوس حول تأثير المعلومات المضللة", type: "دراسة وبحث"
+- id: "stu-miller-magical-number-seven", title: "دراسة ميلر عن الرقم السحري سبعة وسعة معالجة المعلومات", type: "دراسة وبحث"
+- id: "stu-loftus-misinformation-effect", title: "دراسات لوفتوس الأصلية حول تأثير المعلومات المضللة وتعديل الذاكرة", type: "دراسة وبحث"
 - id: "thk-gardner", title: "هوارد غاردنر", type: "مفكر"
 gaps:
   - "**أُنشئ هذا الملف 2026-09-08:** كان اسمُ «علم النفس المعرفي» يُستعمل أباً نصّياً في `belongs_to` لملفَّي تفيرسكي ولوفتوس بلا ملفٍّ يقابله، وكان اثنا عشرَ ملفَّ دراسةٍ موسوماً به في مسار التنقّل. فسُدّ الغياب."

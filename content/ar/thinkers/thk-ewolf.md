@@ -10,7 +10,7 @@ dates: "ألمانيا / الولايات المتحدة · 1921–2018"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
-active_start: null
+active_start: 1921
 active_end: 2018
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
@@ -19,6 +19,7 @@ related:
 - id: "thk-ornstein", title: "بول ه. أورنشتاين", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Treating the Self* (1988) بترجمة عربية معتمدة."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («ألمانيا / الولايات المتحدة · 1921–2018») فاستُخرجت: 1921."
 ---
 
 # إرنست س. وولف

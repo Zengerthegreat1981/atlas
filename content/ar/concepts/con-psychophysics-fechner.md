@@ -17,7 +17,7 @@ related:
 - id: "thk-wundt", title: "فيلهلم فونت", type: "مفكر"
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
 - id: "thk-claude-levi-strauss", title: "كلود ليفي-ستراوس", type: "مفكر"
-- id: "con-qualia", title: "الكواليا (Qualia)", type: "مفهوم"
+- id: "con-qualia", title: "الكواليا (Qualia): الكيف المتعالي للتجربة", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: مقياس هاميلتون لتقييم الاكتئاب (HDRS) (stu-hamilton-hdrs)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: مقياس هاميلتون للقلق (HAMA) (stu-hamilton-hama)"

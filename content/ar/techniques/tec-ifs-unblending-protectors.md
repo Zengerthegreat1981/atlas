@@ -17,7 +17,7 @@ related:
 - id: "con-ifs-parts-self-leadership", title: "نموذج الأجزاء والذات القائدة في نظام الأسرة الداخلية (IFS)", type: "مفهوم"
 - id: "thk-richard-schwartz", title: "ريتشارد شوارتز", type: "مفكر"
 - id: "tec-ifs-self-leadership", title: "قيادة الذات (Self Leadership) في IFS", type: "تقنية/تدخل علاجي"
-- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-empty-chair-dialogue-eft", title: "تقنية الكرسي الفارغ لحسم الأعمال غير المكتملة في EFT", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا توجد دراسة عشوائية محكّمة تختبر بروتوكول فك الاندماج بمعزل عن نموذج IFS الكامل؛ الدليل التجريبي المتاح (شاديك وزملاؤها 2013) يقيّم البرنامج العلاجي ككل لا هذه الخطوة تحديداً."

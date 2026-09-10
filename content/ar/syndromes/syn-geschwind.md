@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "dis-obsessive-compulsive-personality", title: "اضطراب الشخصية الوسواسية", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-bipolar-i", title: "الاضطراب ثنائي القطب من النوع الأول", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-bipolar-i", title: "اضطراب ثنائي القطب من النوع الأول", type: "اضطراب/حالة إكلينيكية"
 - id: "con-will-to-meaning", title: "الإرادة في المعنى (Will to Meaning)", type: "مفهوم"
 gaps:
   - "أبحاث نورمان غيرشفيند وديفيد بير (1975) في توصيف الشخصية الصدغية البينية."

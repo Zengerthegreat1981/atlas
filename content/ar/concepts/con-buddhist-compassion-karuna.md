@@ -14,7 +14,7 @@ edges:
 related:
 - id: "con-cft-self-compassion", title: "التعاطف مع الذات (Self-Compassion, CFT)", type: "مفهوم"
 - id: "thk-pgilbert", title: "بول جيلبرت", type: "مفكر"
-- id: "wrk-gilbert-compassionate-mind", title: "كتاب العقل العطوف: نهج جديد لتحديات الحياة لبول غيلبرت (2009)", type: "عمل"
+- id: "wrk-gilbert-compassionate-mind", title: "كتاب العقل العطوف: نهج جديد لتحديات الحياة لبول غيلبرت (2009)", type: "عمل / كتاب"
 - id: "thk-ssalzberg", title: "شارون سالزبرغ", type: "مفكر"
 gaps:
   - "الدالاي لاما مذكور في المتن (Ethics for the New Millennium، 2001) لكن لا يوجد ملف مفكر مقابل له في الأطلس بعد."

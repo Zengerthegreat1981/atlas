@@ -10,7 +10,7 @@ dates: "النمسا · 1905–1984"
 country: "النمسا / فرنسا"
 language: "الألمانية / الفرنسية"
 part: "psychology"
-active_start: null
+active_start: 1905
 active_end: 1984
 edges:
 - rel: "belongs_to", target: "br-adlerian", target_type: "تيار"
@@ -22,6 +22,7 @@ related:
 - id: "thk-rowenaansbacher", title: "روينا ريبين آنسْباخِر", type: "مفكر"
 gaps:
   - "التفاصيل المتعلقة بتأثير أدلر على «ثلاثية الإطفائيين» (Die Wasseträger Gottes) تحتاج فحصاً نصياً."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («النمسا · 1905–1984») فاستُخرجت: 1905."
 ---
 
 # مَنِس سپِربر

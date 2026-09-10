@@ -15,7 +15,7 @@ part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
 related:
-- id: "sch-phenomenology", title: "الظاهراتية (الفينومينولوجيا)", type: "مدرسة"
+- id: "sch-phenomenology", title: "الظاهراتية (Phänomenologie)", type: "مدرسة"
 - id: "thk-brentano", title: "فرانتس برنتانو", type: "مفكر"
 - id: "thk-gfrege", title: "غوتلوب فريغه", type: "مفكر"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"

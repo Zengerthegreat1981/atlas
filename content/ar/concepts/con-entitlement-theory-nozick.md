@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-nozick", title: "روبرت نوزيك", type: "مفكر"
 - id: "sch-libertarianism", title: "الليبرتارية", type: "مدرسة"
-- id: "wrk-anarchy-state-and-utopia-nozick", title: "الفوضى والدولة واليوتوبيا لروبرت نوزيك", type: "عمل"
+- id: "wrk-anarchy-state-and-utopia-nozick", title: "الفوضى والدولة واليوتوبيا لروبرت نوزيك", type: "عمل / كتاب"
 - id: "dbt-rawls-nozick-justice", title: "جدل رولز-نوزيك: العدالة كإنصاف مقابل الحق في الاستحقاق", type: "جدل"
 gaps:
   - "التحليل الإبستمولوجي واللغوي الدقيق لتطور المفهوم عبر التاريخ."

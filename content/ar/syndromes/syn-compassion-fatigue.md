@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "syn-burnout", title: "متلازمة الاحتراق الوظيفي والمهني", type: "متلازمة"
-- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-acute-stress-disorder", title: "اضطراب الكرب الحاد", type: "اضطراب/حالة إكلينيكية"
 - id: "ins-iri-interpersonal-reactivity", title: "مؤشر التفاعل البين–شخصي لأبعاد التعاطف الأربعة (IRI)", type: "أداة قياس"
 - id: "con-buddhist-compassion-karuna", title: "الكَرُونَا / الرَّحْمَة البُوذِيَّة (Karunā)", type: "مفهوم"

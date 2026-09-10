@@ -10,7 +10,7 @@ part: "bridge"
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "تيار"
 - rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-fmesmer", title: "فرانتس أنطون ميسمر", type: "مفكر"
@@ -18,7 +18,7 @@ related:
 - id: "con-hypnotic-trance", title: "الغشية التنويمية", type: "مفهوم"
 - id: "rel-confucian-self-cultivation-family-systems", title: "تزكية الذات الكونفوشية والعلاج الأسري النظامي (Bowen)", type: "علاقة بين مدرستين"
 - id: "rel-integrative-humanistic-common-factors", title: "التكاملية (العامل المشترك) والإنسانية: الأم الأصلية", type: "علاقة بين مدرستين"
-- id: "rel-trauma-ptsd-therapy", title: "علاج الصدمة واضطراب ما بعد الصدمة: من Horowitz إلى EMDR", type: "علاقة بين مدرستين"
+- id: "rel-trauma-ptsd-therapy", title: "اضطراب الكرب التالي للصدمة وعلاجاته: تشخيصٌ صنعته السياسة وعلاجٌ سبق تفسيره", type: "علاقة بين مدرستين"
 gaps:
   - "الانتقال من التنويم إلى الكلام الحر عند فرويد لم يُوثّق بدقة كافية."
   - "لم تُدرَج في هذا الملف أقسام اقتباسات؛ نص فرويد الأدق حول أسباب هجره التنويم (Studies on Hysteria، 1895، مع بروير) لم يُراجَع مباشرة لاستخراج اقتباس حرفي دقيق."

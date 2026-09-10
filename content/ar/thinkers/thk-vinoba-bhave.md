@@ -16,8 +16,8 @@ active_end: 1982
 edges:
 - rel: "belongs_to", target: "sch-gandhianism", target_type: "مدرسة"
 related:
-- id: "thk-gandhi", title: "غاندي", type: "مفكر"
-- id: "sch-gandhianism", title: "الغاندية", type: "مدرسة"
+- id: "thk-gandhi", title: "موهانداس كرمشاند غاندي", type: "مفكر"
+- id: "sch-gandhianism", title: "الغاندية (كفلسفة سياسية-أخلاقية)", type: "مدرسة"
 - id: "con-ahimsa", title: "أحيمسا (مبدأ اللاإيذاء)", type: "مفهوم"
 - id: "con-satyagraha", title: "ساتياغراها (قوة الحقيقة)", type: "مفهوم"
 gaps:

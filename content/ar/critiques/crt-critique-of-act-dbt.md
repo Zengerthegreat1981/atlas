@@ -6,7 +6,7 @@ part: "psychology"
 level: "متقدم"
 title: "نقد ACT و DBT: مفاهيم «الموجة الثالثة» كانتهازية"
 en: "Critique of ACT and DBT: 'Third Wave' Concepts as Opportunistic"
-crumb: "نقد ← ACT وَ DBT"
+crumb: "النقد الخارجي ← ACT وَ DBT"
 active_start: 2010
 active_end: "مستمر"
 edges:
@@ -14,12 +14,13 @@ edges:
 related:
 - id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
-- id: "crt-replication-crisis", title: "أزمة التكرار", type: "نقد خارجي موثَّق"
+- id: "crt-replication-crisis", title: "نقد أزمة التكرار العلمي: ميتا-تحليلات لا تتطابق", type: "نقد خارجي موثَّق"
 - id: "crt-commodification-critique", title: "النقد الاقتصادي/التسليعي لـ'صناعة العافية' و'صناعة الإيجابية'", type: "نقد خارجي موثَّق"
 - id: "dbt-cbt-third-wave-vs-second-wave", title: "جِدَل الْمَوْجَة الثَّالِثَة لِـ**CBT** ضِد الثَّانِيّة: تَطَوُّر أَم انْفِصَال؟", type: "جدل"
 gaps:
 - "لم تُراجع من نسخة أصلية مباشرة بعد؛ اقتباس Baardseth et al. (2013) و Hoffman et al. (2015) غير موثَّق بنص مباشر."
 - "الفرق بين هذا النقد والنقد المعرفي العميق (Hayes على فلسفة اللغة) يحتاج فصلاً."
+  - "**وُحِّد مسارُ التنقّل 2026-09-10:** كان «نقد» وصار «النقد الخارجي» — لأنّ الجذرَ كان منقسماً بين صيغتين للشيء نفسِه، فيعرض فهرسُ التصفّح موضعين لموضعٍ واحد."
 ---
 # نقد ACT و DBT: مفاهيم «الموجة الثالثة» كانتهازية
 

@@ -2,7 +2,7 @@
 slug: "thk-marisol-montoya"
 id: "THK-2827"
 type: "مفكر"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "ماريسول مونتويا"
 en: "Marisol Montoya"
@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-pfreire", title: "باولو فريري", type: "مفكر"
 - id: "thk-imartinbaro", title: "إغناثيو مارتن-بارو", type: "مفكر"
-- id: "con-decolonizing-therapy", title: "العلاج اللااستعماري", type: "مفهوم"
+- id: "con-decolonizing-therapy", title: "العلاج اللااستعماري (Decolonizing Therapy)", type: "مفهوم"
 - id: "sch-liberation-psychology", title: "علم نفس التحرر", type: "مدرسة"
 - id: "br-liberation-psychology", title: "علم نفس التحرير (مارتين-بارو)", type: "تيار"
 gaps:
@@ -26,6 +26,7 @@ gaps:
   - "إحالة معلَّقة أُزيلت: «كارلوس فلوريس» (thk-cflores) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
   - "تفاصيل 'Psicología Social Comunitaria de Liberación' (1993) موثّقة جزئياً."
   - "نسبةً لتطبيق علم النفس مع الشعوب الأصلية (إمارا، ناوا، وايو) موثّقة جزئياً."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-liberation-psychology` موسومٌ «philosophy» — فوُحِّد على وسم الأب."
 ---
 
 # ماريسول مونتويا

@@ -17,7 +17,7 @@ related:
 - id: "tec-cbt-beh-behavioral-rehearsal", title: "التدريب السلوكي المتكرر", type: "تقنية/تدخل علاجي"
 - id: "tec-act-pres-mindful-breathing", title: "التنفس بيقظة", type: "تقنية/تدخل علاجي"
 - id: "tec-act-def-labeling-thoughts", title: "تسمية الأفكار", type: "تقنية/تدخل علاجي"
-- id: "tec-social-skills-training", title: "تدريب المهارات الاجتماعية", type: "تقنية/تدخل علاجي"
+- id: "tec-social-skills-training", title: "تدريب المهارات الاجتماعية (SST)", type: "تقنية/تدخل علاجي"
 - id: "con-body-schema", title: "مخطط الجسد (Body Schema): النظام اللاواعي للحركة", type: "مفهوم"
 gaps:
   - "اضطراب التنسيق التنموي حالة نمائية عصبية؛ التدخل الأساسي هو علاج وظيفي (OT) وتأهيل حركي، لا علاج نفسي."

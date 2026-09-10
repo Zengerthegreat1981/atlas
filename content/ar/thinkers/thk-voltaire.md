@@ -14,7 +14,7 @@ active_start: 1734
 active_end: 1778
 edges: []
 related:
-- id: "ctx-european-enlightenment", title: "سياق عصر التنوير الأوروبي", type: "سياق/تقليد"
+- id: "ctx-european-enlightenment", title: "سياق عصر التنوير الأوروبي والعقلانية النقدية", type: "سياق/تقليد"
 - id: "thk-rousseau", title: "جان جاك روسو", type: "مفكر"
 - id: "thk-locke", title: "جون لوك", type: "مفكر"
 - id: "sch-deism", title: "الربوبية (Deism)", type: "مدرسة"

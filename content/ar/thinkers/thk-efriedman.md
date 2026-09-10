@@ -10,15 +10,16 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980
 active_end: 1996
-part: "philosophy"
+part: "psychology"
 crumb: "العلاج الأسري بالأنساق (بوين) ← الجيل الثاني ← إدوين فريدمان"
 edges:
-- rel: "belongs_to", target: "br-bowen-systems", target_type: "فرع"
+- rel: "belongs_to", target: "br-bowen-systems", target_type: "تيار"
 related:
 - id: "thk-mbowen", title: "موراي بوين", type: "مفكر"
 gaps:
   - "تفاصيل سنوات التدريب مع موراي بوين لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من *Generation to Generation: Family Process in Church and Synagogue* (1985) بترجمة عربية معتمدة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-bowen-systems` موسومٌ «psychology» — فوُحِّد على وسم الأب."
 ---
 
 # إدوين فريدمان

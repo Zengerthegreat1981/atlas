@@ -17,7 +17,7 @@ edges:
 related:
 - id: "wrk-superintelligence-bostrom", title: "الذكاء الخارق (Superintelligence)", type: "عمل / كتاب"
 - id: "con-existential-risk", title: "الخطر الوجودي (Existential Risk)", type: "مفهوم"
-- id: "sch-transhumanism", title: "الإنسانية العابرة", type: "مدرسة"
+- id: "sch-transhumanism", title: "الإنسانية العابرة (Transhumanism)", type: "مدرسة"
 gaps:
   - "لم تُراجع بعدُ طبعة Oxford University Press لـ *Superintelligence* (2014)."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."

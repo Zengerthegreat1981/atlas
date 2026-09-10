@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-mulla-sadra", title: "ملا صدرا الشيرازي (صدر الدين الشيرازي)", type: "مفكر"
 - id: "sch-transcendent-theosophy", title: "الحكمة المتعالية (الملا صدرا)", type: "مدرسة"
-- id: "wrk-asfar-arbaa-mulla-sadra", title: "الحكمة المتعالية في الأسفار العقلية الأربعة لملا صدرا", type: "عمل"
+- id: "wrk-asfar-arbaa-mulla-sadra", title: "الحكمة المتعالية في الأسفار العقلية الأربعة لملا صدرا", type: "عمل / كتاب"
 - id: "con-nafs-natiqa-rational-soul", title: "النفس الناطقة وتجردها العقلي (Rational Soul)", type: "مفهوم"
 - id: "con-wahdat-al-wujud-oneness-of-being", title: "وحدة الوجود العرفانية (Wahdat al-Wujud)", type: "مفهوم"
 - id: "con-knowledge-by-presence-ilm-huduri", title: "العلم الحضوري والشهود الذاتي (Knowledge by Presence)", type: "مفهوم"

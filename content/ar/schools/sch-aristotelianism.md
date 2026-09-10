@@ -15,9 +15,9 @@ active_end: 1650
 cultural_origin: "greek"
 edges: []
 related:
-- id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية", type: "مدرسة"
-- id: "sch-middle-platonism", title: "الأفلاطونية الوسطى", type: "مدرسة"
-- id: "sch-stoicism", title: "الرواقية", type: "مدرسة"
+- id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية (القديمة/الوسطى/الجديدة الشكية)", type: "مدرسة"
+- id: "sch-middle-platonism", title: "الأفلاطونية الوسطى (Middle Platonism)", type: "مدرسة"
+- id: "sch-stoicism", title: "الرواقية (Stoicism)", type: "مدرسة"
 - id: "wrk-aristotle-nicomachean-ethics", title: "كتاب الأخلاق النيقوماخية لأرسطو", type: "عمل / كتاب"
 - id: "dbt-virtue-ethics-vs-consequentialism-ai", title: "أخلاق الفضيلة مقابل العواقبية في حوكمة الذكاء الاصطناعي", type: "جدل"
 - id: "trm-akrasia-weakness-of-will", title: "الأكراسيا أو ضعف الإرادة (Akrasia): التصرف بعكس ما يمليه العقل", type: "مصطلح لغوي متنازع عليه"

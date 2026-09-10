@@ -19,7 +19,7 @@ edges:
 - rel: "written_by", target: "thk-laing", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
-- id: "thk-laing", title: "لاينغ", type: "مفكر"
+- id: "thk-laing", title: "ر. د. لاينغ", type: "مفكر"
 - id: "dbt-laing", title: "هل الذهان رحلة ذات معنى؟", type: "جدل"
 - id: "br-british", title: "الوجودي-الظاهراتي البريطاني", type: "تيار"
 gaps:

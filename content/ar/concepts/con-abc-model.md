@@ -11,13 +11,13 @@ active_start: 1962
 language: "الإنجليزية"
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "tec-rebt", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-rebt", target_type: "تقنية/تدخل علاجي"
 - rel: "formulated_by", target: "thk-ellis", target_type: "مفكر"
 related:
 - id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
 - id: "sch-rebt", title: "العلاج العقلاني الانفعالي السلوكي (REBT)", type: "مدرسة"
 - id: "tec-rebt", title: "العلاج العقلاني الانفعالي السلوكي (REBT)", type: "تقنية/تدخل علاجي"
-- id: "wrk-reason-emotion-psychotherapy-ellis", title: "العقل والانفعال في العلاج النفسي", type: "عمل"
+- id: "wrk-reason-emotion-psychotherapy-ellis", title: "العقل والانفعال في العلاج النفسي", type: "عمل / كتاب"
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "thk-stoics", title: "الرواقيون (سينيكا وإبيكتيتوس)", type: "مفكر"
 gaps:

@@ -2,7 +2,7 @@
 slug: "sch-cft"
 id: "SCH-0349"
 type: "مدرسة"
-part: "psychology"
+part: "philosophy"
 level: "متوسط"
 title: "العلاج المتمحور حول التعاطف (CFT)"
 en: "Compassion-Focused Therapy (CFT)"
@@ -26,7 +26,7 @@ related:
 - id: "wrk-self-compassion-neff", title: "التعاطف مع الذات: القوة المثبتة لمعاملة نفسك بلطف", type: "عمل / كتاب"
 - id: "ins-self-compassion-scale", title: "مقياس التعاطف مع الذات لـ نيف (SCS)", type: "أداة قياس"
 - id: "sch-buddhist-modernism", title: "البوذية الحداثية", type: "مدرسة"
-- id: "syn-compassion-fatigue", title: "إجهاد الشفقة", type: "متلازمة"
+- id: "syn-compassion-fatigue", title: "متلازمة التعب من التعاطف (إجهاد الشفقة لدى مقدمي الرعاية)", type: "متلازمة"
 - id: "con-cft-self-compassion", title: "التعاطف مع الذات (Self-Compassion, CFT)", type: "مفهوم"
 - id: "con-cft-soothing-system", title: "نظام التهدئة والدوائر الانفعالية الثلاث في العلاج بالشفقة (CFT)", type: "مفهوم"
 - id: "tec-compassionate-mind-training", title: "تقنية تدريب العقل العطوف وتخيل الذات الرحيمة في CFT", type: "تقنية/تدخل علاجي"
@@ -38,6 +38,7 @@ gaps:
   - "التجارب العشوائية المضبوطة على CFT لا تزال في نمو (خاصة خارج اضطرابات الأكل والصدمات)."
   - "لا اقتباس مباشر موثوق متاح هنا بصياغته الأصلية."
   - "الفروق الدقيقة بين CFT وعلاج التعاطف مع الذات (Neff) تحتاج فصلاً أوضح."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-buddhist-modernism` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ في الواجهة."
 ---
 # العلاج المتمحور حول التعاطف (CFT)
 

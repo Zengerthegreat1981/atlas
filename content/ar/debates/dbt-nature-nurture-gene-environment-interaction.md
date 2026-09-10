@@ -12,7 +12,7 @@ active_end: "مستمر"
 related:
 - id: "sch-biological-neuro", title: "علم النفس البيولوجي والعصبي (Biological & Neuropsychology)", type: "مدرسة"
 - id: "con-reductionism", title: "الاختزالية", type: "مفهوم"
-- id: "dbt-nature-nurture", title: "جِدَل الطَّبِيعَة وَالتَّرْبِيَة", type: "جدل"
+- id: "dbt-nature-nurture", title: "جِدَل الطَّبِيعَة وَالتَّرْبِيَة (Nature vs. Nurture): مَن يَصْنَع السُّلُوك؟", type: "جدل"
 gaps:
   - "دراسة Caspi et al. (2003) حول جين 5-HTTLPR والصدمة موثقة في المتن (Science 301, 386-389)؛ إعادة إنتاجها لم تنجح بشكل كامل في دراسات لاحقة (Risch et al., 2009) — نقطة يجب إضافتها لموازنة الجدل"
   - "الفرق بين rGE (الارتباط الجيني-البيئي) وGxE (التفاعل الجيني-البيئي) ليس مفصولاً بوضوح في المتن الحالي — يحتاج فقرة مستقلة"

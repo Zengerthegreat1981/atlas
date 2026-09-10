@@ -13,9 +13,9 @@ edges:
 - rel: "belongs_to", target: "sch-marxism", target_type: "مدرسة"
 - rel: "relates_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
-- id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي", type: "تيار"
+- id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي (النسوي والكويري وما بعد الكولونيالي)", type: "تيار"
 - id: "dbt-individualism", title: "الفردانية والعمى عن السلطة", type: "جدل"
-- id: "wrk-martinbaro-psychology-liberation", title: "علم النفس للتحرير", type: "عمل / كتاب"
+- id: "wrk-martinbaro-psychology-liberation", title: "علم النفس للتحرير (Psicología de la liberación)", type: "عمل / كتاب"
 - id: "crt-medicalization-of-poverty", title: "التطبيب للفقر: تفسير المرضي للمشكلات الاجتماعية", type: "نقد خارجي موثَّق"
 - id: "crt-marx-theses-on-feuerbach", title: "أطروحات ماركس حول فيورباخ ونقد الفلسفة التأملية", type: "نقد خارجي موثَّق"
 gaps:

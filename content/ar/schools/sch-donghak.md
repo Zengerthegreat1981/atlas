@@ -16,7 +16,7 @@ active_source: "lifespan"
 cultural_origin: "east-asian"
 edges: []
 related:
-- id: "sch-silhak", title: "سيلهاك", type: "مدرسة"
+- id: "sch-silhak", title: "سيلهاك (التعلم العملي الكوري)", type: "مدرسة"
 - id: "sch-korean-neoconfucian", title: "النيوكونفوشية الكورية", type: "مدرسة"
 gaps:
   - "الفاصل بين دونغهاك الديني وفلسفته السياسية الاجتماعية (خاصة في القرن 19-20) يحتاج تدقيقاً."

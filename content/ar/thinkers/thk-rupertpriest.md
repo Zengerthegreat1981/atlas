@@ -10,10 +10,10 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2010
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 crumb: "طريقة فيلدنكرايس ← تطوير ← روبرت بريست"
 edges:
-- rel: "belongs_to", target: "tec-feldenkrais-method", target_type: "تيار"
+- rel: "belongs_to", target: "tec-feldenkrais-method", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-mfeldenkrais", title: "موشيه فيلدنكرايس", type: "مفكر"
 gaps:
@@ -22,6 +22,7 @@ gaps:
   - "لا توجد سيرة ذاتية منشورة لـ 'Robert Priest' في IFF (International Feldenkrais Federation) حتى آب 2026."
   - "الاحتمال: خلط مع 'Robert Priest' (معالج حركي، حقل مختلف) أو 'Robert S. Priest' (كاتب علمي)."
   - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'Feldenkrais Academy' عام."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-feldenkrais-method` موسومٌ «psychology» — فوُحِّد على وسم الأب."
 ---
 
 # روبرت بريست

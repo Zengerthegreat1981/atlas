@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
 - id: "sch-existentialism-atheist", title: "الوجودية الملحدة (Atheist Existentialism)", type: "مدرسة"
-- id: "wrk-sartre-being-and-nothingness", title: "كتاب الوجود والعدم لجان بول سارتر (1943)", type: "عمل"
+- id: "wrk-sartre-being-and-nothingness", title: "كتاب الوجود والعدم لجان بول سارتر (1943)", type: "عمل / كتاب"
 - id: "con-bad-faith-mauvaise-foi", title: "سوء النية والهروب من الحرية (Bad Faith / Mauvaise Foi)", type: "مفهوم"
 - id: "con-facticity", title: "الفعلانية (Facticité): واقع المَوْجود الذي لا يُمكن تَغييره", type: "مفهوم"
 gaps:

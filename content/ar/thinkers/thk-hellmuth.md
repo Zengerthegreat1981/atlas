@@ -9,8 +9,8 @@ crumb: "التحليل النفسي ← الناس ← التحليل النفس
 dates: "النمسا · 1871–1924"
 country: "النمسا"
 language: "الألمانية"
-part: "philosophy"
-active_start: null
+part: "psychology"
+active_start: 1871
 active_end: 1924
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
@@ -19,6 +19,8 @@ related:
 gaps:
   - "تأثيرها على Anna Freud و Klein غير معترف به رسمياً، يحتاج عرضاً دقيقاً."
   - "لا يوجد اقتباس مباشر موثوق من *Zur Technik der Kinderanalyse* (1921) بترجمة عربية معتمدة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («النمسا · 1871–1924») فاستُخرجت: 1871."
 ---
 
 # هيرمين هوغ-هيلموث

@@ -8,7 +8,7 @@ en: "Anti-Oppressive Practice"
 crumb: "العدالة والمجتمع ← الممارسة المناهضة للقمع ← المفهوم"
 active_start: 1985
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
 edges:
 - rel: "belongs_to", target: "br-liberation-psychology", target_type: "تيار"
 related:
@@ -20,6 +20,7 @@ gaps:
   - "نسبة الإطار إلى Dalrymple وBurke الكنديين تستحق توثيقاً من مصدر أولي."
   - "لا يوجد اقتباس موثّق منسوب لمؤسسي الإطار."
   - "رابط edges.belongs_to صُحّح من slug غير موجود (br-anti-oppressive) إلى br-liberation-psychology، وهو التيار الذي يذكر هذا الملف فعلاً (tec-anti-oppressive-practice) في related الخاص به."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-liberation-psychology` موسومٌ «philosophy» — فوُحِّد على وسم الأب."
 ---
 
 # الممارسة المناهضة للقمع

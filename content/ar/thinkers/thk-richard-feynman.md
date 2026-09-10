@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-richard-dawkins", title: "ريتشارد دوكينز", type: "مفكر"
 - id: "thk-albert-einstein", title: "ألبرت أينشتاين", type: "مفكر"
-- id: "met-feynman-chess-gods", title: "شطرنج الآلهة", type: "استعارة"
+- id: "met-feynman-chess-gods", title: "شطرنج الآلهة لريتشارد فاينمان: استعارة اكتشاف قوانين الطبيعة في الفيزياء", type: "استعارة/مجاز مؤسِّس"
 gaps:
   - "جودة الترجمة العربية المتاحة لـ'Surely You're Joking, Mr. Feynman!' لم تُراجع نقدياً."
   - "تفاصيل محاضرات 'The Character of Physical Law' (1965، Mees Lectures في Rochester) كما بُثّت على BBC/CBS لم تُراجع من مصدر أرشيفي أولي."

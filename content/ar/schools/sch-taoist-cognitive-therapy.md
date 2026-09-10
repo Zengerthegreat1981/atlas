@@ -16,12 +16,12 @@ active_end: "مستمر"
 edges:
 - rel: "grounded_in", target: "sch-daoism-philosophical", target_type: "مدرسة"
 related:
-- id: "sch-daoism-philosophical", title: "الطاوية الفلسفية", type: "مدرسة"
+- id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
 - id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "thk-deng-yuanhai", title: "دنغ يوان-هاي", type: "مفكر"
 - id: "thk-zhangyalin", title: "تشانغ يالين", type: "مفكر"
-- id: "con-taoist-cognitive-therapy-concept", title: "العلاج المعرفي الطاوي", type: "مفهوم"
-- id: "con-wuwei", title: "الوو-وي (اللافعل)", type: "مفهوم"
+- id: "con-taoist-cognitive-therapy-concept", title: "العلاج المعرفي الطاوي (Taoist Cognitive Therapy)", type: "مفهوم"
+- id: "con-wuwei", title: "الوو وي (無為) — عدم الفعل الإجباري", type: "مفهوم"
 - id: "sch-indigenous-psychology", title: "علم نفس الشعوب الأصلية", type: "مدرسة"
 gaps:
   - "**أُنشئ هذا الملف 2026-09-08:** كان اسمُ «العلاج المعرفي الطاوي» يُستعمل أباً نصّياً في `belongs_to` لملفّ دنغ يوان-هاي بلا ملفٍّ يقابله. وكانت في `content/ar/drafts/minimax/schools/` مسوّدةٌ غيرُ معتمدةٍ بهذا الاسم (سُجِّل ذلك في `agents_specs/missing-schools.md`)، ولم أعتمدها ولم أنسخ منها — كُتب هذا المتنُ من المصادر."

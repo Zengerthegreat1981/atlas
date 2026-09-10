@@ -15,13 +15,13 @@ active_end: -370
 edges:
 - rel: "belongs_to", target: "sch-atomism-greek", target_type: "مدرسة"
 related:
-- id: "thk-democritus", title: "ديموقريطس", type: "مفكر"
+- id: "thk-democritus", title: "ديموقريطس الأبديري", type: "مفكر"
 - id: "thk-leucippus", title: "لوقيبوس الميليسي", type: "مفكر"
 - id: "thk-nausiphanes", title: "نوسيفانس الطيبي (Nausiphanes of Teos)", type: "مفكر"
-- id: "thk-epicur", title: "أبيقور", type: "مفكر"
-- id: "sch-atomism-greek", title: "الذرية اليونانية", type: "مدرسة"
+- id: "thk-epicur", title: "أبيقور الساموسي", type: "مفكر"
+- id: "sch-atomism-greek", title: "الذرية اليونانية (Greek Atomism)", type: "مدرسة"
 - id: "con-atom-void", title: "الذرة والفراغ المادي (Atom and Void)", type: "مفهوم"
-- id: "con-jawhar-fard-atomic-monad", title: "الجوهر الفرد", type: "مفهوم"
+- id: "con-jawhar-fard-atomic-monad", title: "الجوهر الفرد والجزء الذي لا يتجزأ (Atomism in Kalam)", type: "مفهوم"
 gaps:
   - "كتاباته مفقودة بالكامل، وخلاصة آرائنا مستمدة من Ploutarkhos وTheophrastos."
   - "تاريخ ولادته ووفاته غير محدّد بدقة (نحو 440–370 ق.م كتقدير معاصر)."

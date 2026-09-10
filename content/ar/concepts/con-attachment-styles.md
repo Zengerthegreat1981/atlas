@@ -17,7 +17,7 @@ related:
 - id: "thk-cindy-hazan", title: "سيندي هازان (Cindy Hazan)", type: "مفكر"
 - id: "thk-sjohnson", title: "سو جونسون", type: "مفكر"
 - id: "con-secure-attachment", title: "التعلق الآمن (Secure Attachment)", type: "مفهوم"
-- id: "br-attachment-theory", title: "نظرية التعلق (Attachment Theory)", type: "فرع"
+- id: "br-attachment-theory", title: "نظرية التعلق (Attachment Theory)", type: "تيار"
 - id: "trm-attachment-style", title: "أَنْمَاط التَّعَلُّق (Attachment Styles)", type: "مصطلح لغوي متنازع عليه"
 
 gaps:

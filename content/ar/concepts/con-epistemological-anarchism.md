@@ -12,7 +12,7 @@ active_end: "مستمر"
 related:
 - id: "thk-pfeyerabend", title: "بول فايرابند", type: "مفكر"
 - id: "sch-phil-science", title: "فلسفة العلم (كمظلة)", type: "مدرسة"
-- id: "wrk-against-method-feyerabend", title: "ضد المنهج لبول فايراباند (Against Method)", type: "عمل"
+- id: "wrk-against-method-feyerabend", title: "ضد المنهج لبول فايراباند (Against Method)", type: "عمل / كتاب"
 gaps:
   - "لم يُذكر في المتن شرح مبدأ 'كل شيء جائز' (anything goes) رغم وروده في عنوان الملف، ولا الأمثلة التاريخية التي استند إليها فايراباند (مثل غاليليو)."
   - "لا يوجد في المتن تفصيل للعلاقة أو الاختلاف بين الفوضوية المعرفية عند فايراباند ومفهوم اللا-مقايسة عند كون (Kuhn) رغم تشابه السياق الفلسفي (فلسفة العلم)."

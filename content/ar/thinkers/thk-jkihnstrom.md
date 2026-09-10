@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "التنويم العلاجي ← البحث التجريبي ← جون كينستروم"
 edges:
-- rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "تيار"
 related:
 - id: "thk-morne", title: "مارتن أورن", type: "مفكر"
 - id: "thk-delman", title: "ديف إلمان", type: "مفكر"

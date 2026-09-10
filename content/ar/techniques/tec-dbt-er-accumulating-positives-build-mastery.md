@@ -18,7 +18,7 @@ related:
 - id: "tec-dbt-er-building-positive-experiences", title: "بناء تجارب إيجابية قصيرة المدى (A)", type: "تقنية/تدخل علاجي"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
-- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب"
+- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "لا توجد دراسة منفصلة في الأطلس تختبر مهارة Build Mastery بمعزل عن حزمة ABC PLEASE أو حزمة مهارات DBT ككل؛ الأدلة المتاحة تخص فعالية DBT الشاملة لا هذه المهارة الفرعية تحديداً."
 ---

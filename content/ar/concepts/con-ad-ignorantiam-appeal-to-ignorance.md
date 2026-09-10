@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-pyrrhonism", target_type: "مدرسة"
 related:
 - id: "thk-locke", title: "جون لوك", type: "مفكر"
-- id: "wrk-an-essay-concerning-human-understanding-locke", title: "رسالة في الفهم البشري لجون لوك", type: "عمل"
+- id: "wrk-an-essay-concerning-human-understanding-locke", title: "رسالة في الفهم البشري لجون لوك", type: "عمل / كتاب"
 - id: "con-ad-hominem-fallacy", title: "مغالطة الشخصنة ومهاجمة القائل (Ad Hominem)", type: "مفهوم"
 gaps:
   - "التحليل الإبستمولوجي واللغوي الدقيق لتطور المفهوم عبر التاريخ."

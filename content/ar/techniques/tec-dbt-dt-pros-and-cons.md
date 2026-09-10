@@ -16,10 +16,10 @@ edges:
 - rel: "created_by", target: "thk-mlinehan", target_type: "مفكر"
 related:
 - id: "tec-dbt-dt-stop", title: "توقف (STOP)", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-dt-willingness-vs-willfulness", title: "الاستعداد مقابل العناد", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-willingness-vs-willfulness", title: "الاستعداد مقابل العناد (DBT)", type: "تقنية/تدخل علاجي"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
-- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب"
+- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "لا توجد داخل الأطلس دراسة منفصلة تعزل أثر هذه المهارة بالذات عن باقي حزمة مهارات تحمل الضغوط؛ فعاليتها موثّقة فقط ضمن نتائج تجارب DBT الكاملة (مثل تجربة لينهان 1991 على السلوك الانتحاري المتكرر)."
   - "اقتباس منشور موثّق من مارشا لينهان يخص هذه المهارة تحديداً: غير متاح."

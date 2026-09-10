@@ -11,7 +11,7 @@ country: "الأرجنتين"
 language: "إسبانية/إنجليزية"
 active_start: 1970
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "tec-strategic-family-therapy", target_type: "تقنية/تدخل علاجي"
 related:
@@ -19,6 +19,7 @@ related:
 gaps:
   - "تاريخ الميلاد غير مؤكَّد من مصدر أولي (السِيَر الأكاديمية المنشورة لا تذكره بإسناد)."
   - "تصحيح: لا وجود لكتاب بعنوان *Network: A Framework for the Description of Human Interaction* (1975) في قائمة مؤلفاته الموثّقة على sluzki.com؛ الأقرب لهذا الوصف هو كتابه المشترك مع Donald C. Ransom بعنوان *Double-Bind: The Foundation of the Communicational Approach to the Family* (1976)، وكتابه الإسباني عن الأزواج *Psicopatología y Psicoterapia de la Pareja* (1975). صُحح المتن تبعاً لذلك."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-strategic-family-therapy` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # كارلوس سلوزكي

@@ -14,9 +14,9 @@ edges:
 - rel: "critiques", target: "thk-mohammed-abed-al-jabri", target_type: "مفكر"
 related:
 - id: "thk-mohammed-abed-al-jabri", title: "محمد عابد الجابري", type: "مفكر"
-- id: "wrk-bunyat-al-aql-al-arabi-jabri", title: "بنية العقل العربي لمحمد عابد الجابري", type: "عمل"
+- id: "wrk-bunyat-al-aql-al-arabi-jabri", title: "بنية العقل العربي لمحمد عابد الجابري", type: "عمل / كتاب"
 - id: "con-bayan-irfan-burhan-jabri", title: "البيان والعرفان والبرهان في العقل العربي (الجابري)", type: "مفهوم"
-- id: "dia-taha-abderrahmane-al-jabri", title: "نقد طه عبد الرحمن لمشروع الجابري في نقد العقل العربي (1994)", type: "حوار"
+- id: "dia-taha-abderrahmane-al-jabri", title: "نقد طه عبد الرحمن لمشروع الجابري في نقد العقل العربي (1994)", type: "حوار مع مدرسة مجاورة"
 - id: "crt-al-azm-critique-of-religious-thought", title: "نقد صادق جلال العظم للفكر الديني الغيبي بعد هزيمة 1967", type: "نقد خارجي موثَّق"
 gaps:
   - "اقتباس مباشر موثَّق بالصفحة من *بنية العقل العربي* (1984) حول تعريف العرفان."

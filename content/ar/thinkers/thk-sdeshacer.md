@@ -17,9 +17,9 @@ evidence_level: "well-established"
 edges:
 - rel: "belongs_to", target: "sch-solution-focused", target_type: "مدرسة"
 related:
-- id: "sch-solution-focused", title: "العلاج المختصر القائم على الحل", type: "مدرسة"
+- id: "sch-solution-focused", title: "العلاج المختصر القائم على الحل (SFBT)", type: "مدرسة"
 - id: "thk-iberg", title: "إنسو كيم بيرغ", type: "مفكر"
-- id: "con-solution-focused-miracle-q", title: "سؤال المعجزة", type: "مفهوم"
+- id: "con-solution-focused-miracle-q", title: "سؤال المعجزة (Miracle Question) في العلاج المختصر القائم على الحل", type: "مفهوم"
 - id: "dbt-brief-vs-long-term-therapy", title: "جِدَل الْعِلَاج الْقَصِير ضِد الطَّوِيل: أَيُّهُمَا أَفْضَل؟", type: "جدل"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: ويليام أوهير (thk-wdoerr)"

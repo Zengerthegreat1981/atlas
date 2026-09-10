@@ -18,9 +18,9 @@ edges:
 related:
 - id: "thk-kalff", title: "دورا كالف", type: "مفكر"
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-- id: "tec-play-therapy-branches", title: "فروع العلاج باللعب", type: "تقنية/تدخل علاجي"
+- id: "tec-play-therapy-branches", title: "العلاج باللعب ومداخله المتعددة", type: "تقنية/تدخل علاجي"
 - id: "con-family-sandplay", title: "علاج الأسر الرملية", type: "مفهوم"
-- id: "dis-autism-spectrum", title: "طيف التوحّد", type: "اضطراب"
+- id: "dis-autism-spectrum", title: "اضطراب طيف التوحد", type: "اضطراب/حالة إكلينيكية"
 - id: "con-archetype", title: "النموذج الأصلي (Archetype)", type: "مفهوم"
 - id: "br-jungian", title: "التحليلية اليونغية", type: "تيار"
 gaps:

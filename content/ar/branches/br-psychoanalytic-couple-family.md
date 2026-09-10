@@ -11,17 +11,18 @@ dates: "لندن وميريلاند · من الستينيات"
 active_start: 1965
 active_end: "مستمر"
 language: "الإنجليزية"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-- id: "thk-fairbairn", title: "رونالد فيربيرن", type: "مفكر"
+- id: "thk-fairbairn", title: "رونالد فَيرْبيرن", type: "مفكر"
 - id: "thk-winnicott", title: "دونالد وينيكوت", type: "مفكر"
 - id: "thk-dcooper", title: "ديفيد كوبر", type: "مفكر"
 - id: "rel-systemic-psychoanalysis", title: "النظامية الأسرية والتحليل النفسي: الرفض المبكر ثم الجسور اللاحقة", type: "علاقة بين مدرستين"
 gaps:
   - "تأسيس عيادة تافيستوك للعلاقات الزوجية بلندن (Tavistock Relationships) وأعمال هنري ديكس (Henry Dicks) التأسيسية."
   - "تطبيقات نظرية علاقات الموضوع الأسرية عند ديفيد وجيل شارف (David & Jill Scharff)."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 # العلاج التحليلي للأزواج والأسرة
 

@@ -16,7 +16,7 @@ active_end: "مستمر"
 edges: []
 related:
 - id: "sch-philosophy-of-technology", title: "فلسفة التكنولوجيا", type: "مدرسة"
-- id: "sch-posthumanism", title: "ما بعد الإنسانية", type: "مدرسة"
+- id: "sch-posthumanism", title: "ما بعد الإنسانية (Posthumanism)", type: "مدرسة"
 - id: "sch-ai-ethics", title: "أخلاقيات الذكاء الاصطناعي", type: "مدرسة"
 - id: "con-existential-risk", title: "الخطر الوجودي (Existential Risk)", type: "مفهوم"
 - id: "wrk-superintelligence-bostrom", title: "الذكاء الخارق (Superintelligence)", type: "عمل / كتاب"

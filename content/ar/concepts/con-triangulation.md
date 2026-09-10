@@ -16,9 +16,9 @@ edges:
 related:
 - id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
 - id: "thk-mbowen", title: "موراي بوين", type: "مفكر"
-- id: "con-differentiation-self", title: "التمايز عن الذات", type: "مفهوم"
-- id: "con-double-bind", title: "الرباط المزدوج", type: "مفهوم"
-- id: "con-family-projection-process", title: "عملية الإسقاط الأسري", type: "مفهوم"
+- id: "con-differentiation-self", title: "التمايز عن الذات (Differentiation of Self)", type: "مفهوم"
+- id: "con-double-bind", title: "الرباط المزدوج (Double Bind)", type: "مفهوم"
+- id: "con-family-projection-process", title: "عملية الإسقاط الأسري (Family Projection Process)", type: "مفهوم"
 - id: "thk-gbateson", title: "غريغوري باتسون", type: "مفكر"
 gaps:
   - "التمييز بين 'التثليث الأولي' (primary) و'التثليث المعقد' (complex) موثّق جزئياً في كتابات كير وفوغارتي."

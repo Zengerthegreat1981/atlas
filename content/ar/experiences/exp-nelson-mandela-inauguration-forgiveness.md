@@ -2,7 +2,7 @@
 slug: "exp-nelson-mandela-inauguration-forgiveness"
 id: "EXP-0110"
 type: "خبرة معيشة"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "لحظة تنصيب مانديلا رئيساً ودعوة سجانه لحضور الحفل"
 en: "Nelson Mandela's Inauguration (1994): Inviting His Jailer and The Spirit of Ubuntu"
@@ -19,6 +19,7 @@ related:
 - id: "exp-mandela-robben-island-quarry", title: "سنوات نيلسون مانديلا في سجن جزيرة روبن وتحويل المحنة لمدرسة", type: "خبرة معيشة"
 gaps:
   - "يحتاج المتن اقتباساً حرفياً موثقاً من نص خطاب التنصيب في 10 مايو 1994 بدل الصياغة بالمعنى؛ يُراجع من الأرشيف الرسمي لمؤسسة نيلسون مانديلا."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-african-psychology` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # لحظة تنصيب مانديلا رئيساً ودعوة سجانه لحضور الحفل

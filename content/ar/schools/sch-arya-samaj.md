@@ -14,7 +14,7 @@ language: "الهندية، السنسكريتية، الأردية"
 active_start: 1875
 active_end: 1947
 edges:
-- rel: "belongs_to", target: "sch-neohinduism", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-neohinduism", target_type: "مدرسة"
 - rel: "superseded_by", target: "sch-hindutva", target_type: "مدرسة"
 related:
 - id: "thk-dayananda", title: "سوامي دياناندا ساراسواتي", type: "مفكر"

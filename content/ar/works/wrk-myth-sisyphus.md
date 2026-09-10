@@ -21,7 +21,7 @@ edges:
 - rel: "authored_by", target: "thk-camus", target_type: "مفكر"
 related:
 - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
-- id: "sch-absurdism", title: "العبثية", type: "مدرسة"
+- id: "sch-absurdism", title: "العبثية (Absurdism / Le Mythe de Sisyphe)", type: "مدرسة"
 gaps:
   - "للعمل ملفّ ثانٍ في الأطلس (wrk-the-myth-of-sisyphus-camus)؛ الملفان لم يُدمَجا ولم يُنقل بينهما شيء هنا، وهذا الملف عُمِّق باستقلالية عن ذاك."
   - "لم يثبت هنا وجود ترجمة عربية معتمدة لهذا العمل بثلاثيّها الكامل (مترجم وناشر وسنة)؛ بُحث عن ذلك ولم يُعثر عليه."

@@ -18,11 +18,11 @@ edges:
 - rel: "developed_by", target: "thk-lstevenhayes", target_type: "مفكر"
 related:
 - id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
-- id: "wrk-hayes-acceptance-commitment-therapy", title: "كتاب العلاج بالقبول والالتزام لستيفن هايز (1999)", type: "عمل"
+- id: "wrk-hayes-acceptance-commitment-therapy", title: "كتاب العلاج بالقبول والالتزام لستيفن هايز (1999)", type: "عمل / كتاب"
 - id: "tec-cbt-prob-smart-goal-setting", title: "تحديد الأهداف بطريقة SMART", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-journaling-for-self-reflection", title: "كتابة اليوميات للتأمل الذاتي", type: "تقنية/تدخل علاجي"
-- id: "tec-act-val-values-clarification-worksheet", title: "ورقة عمل توضيح القيم (ACT)", type: "تقنية/تدخل علاجي"
-- id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
+- id: "tec-act-val-values-clarification-worksheet", title: "ورقة عمل توضيح القيم", type: "تقنية/تدخل علاجي"
+- id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات (ACT)", type: "تقنية/تدخل علاجي"
 gaps:
   - "أصل التقنية التربوي عند لويس راثس وزملائه (Raths, Harmin & Simon, 1966، كتاب Values and Teaching) خارج نطاق العلاج النفسي ولا يوجد له ملف مفكر في الأطلس — طُلب slug في requests-spark.md."
   - "دراسة كمّية مستقلة تختبر توضيح القيم كتقنية منفصلة عن حزمة ACT الكاملة غير متاحة؛ الأدلة الحالية مأخوذة من تجارب ACT الشاملة وليست من عزل هذا المكوّن وحده."

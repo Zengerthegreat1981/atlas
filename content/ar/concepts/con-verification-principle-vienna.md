@@ -14,7 +14,7 @@ edges:
 related:
 - id: "con-verification-principle", title: "مبدأ التحقق", type: "مفهوم"
 - id: "con-picture-theory-of-language", title: "النظرية التصويرية للغة في التراكتاتوس (Picture Theory)", type: "مفهوم"
-- id: "con-elimination-of-metaphysics", title: "استبعاد الميتافيزيقا", type: "مفهوم"
+- id: "con-elimination-of-metaphysics", title: "استبعاد الميتافيزيقا ونقد اللامعنى (Elimination of Metaphysics)", type: "مفهوم"
 gaps:
   - "هذا المدخل يكرر مضمون con-verification-principle (نفس المبدأ، نفس المدرسة) دون فرق مادي موثّق بينهما؛ يحتاج تحديد ما الذي يميّز الصياغة هنا عن الصياغة هناك بالرجوع لمصدر أولي."
   - "نص البيان التأسيسي لحلقة فيينا (Wissenschaftliche Weltauffassung, 1929) الذي يُنسب صياغة المبدأ إليه لم يُراجع مباشرة."

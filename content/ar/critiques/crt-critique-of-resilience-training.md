@@ -6,14 +6,14 @@ part: "psychology"
 level: "متقدم"
 title: "نقد تَدْرِيب «الْمَرونة»: مَن يَتَحَمَّل مَسْؤُولِيَّة الْفَشَل النِّظَامِيّ؟"
 en: "Critique of Resilience Training: Who Bears Responsibility for Systemic Failure?"
-crumb: "نقد ← تَدْرِيب المرونة"
+crumb: "النقد الخارجي ← تَدْرِيب المرونة"
 active_start: 2015
 active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
-- id: "crt-critique-of-positive-psychology", title: "نقد علم النفس الإيجابي", type: "نقد خارجي موثَّق"
-- id: "crt-critique-of-trauma-therapy", title: "نقد صناعة الصدمة", type: "نقد خارجي موثَّق"
+- id: "crt-critique-of-positive-psychology", title: "نقد عِلْم النَّفْس الْإِيجَابِيّ مِن مَنْظُور السِّيَاسَة الاجْتِمَاعِيَّة", type: "نقد خارجي موثَّق"
+- id: "crt-critique-of-trauma-therapy", title: "نقد «صِنَاعَة الصَّدْمَة»: مَنْ يَسْتَفِيد مِن تَطْبِيب الصَّدْمَة؟", type: "نقد خارجي موثَّق"
 - id: "crt-critique-of-solution-focused", title: "نقد الْعِلَاج الْمُرْكَز عَلَى الْحَلّ: هَل «تَجَاهُل الْمَشْكَلَة» هُوَ نَفْسُه مَشْكَلَة؟", type: "نقد خارجي موثَّق"
 - id: "crt-baudrillard-critique-of-hyperreality", title: "نقد بودريار للمحاكاة الفائقة واختفاء الواقع", type: "نقد خارجي موثَّق"
 - id: "crt-feminist-critique-behaviorism", title: "النقد النسوي للسلوكية: نزع الجنسانية عن الإشراط الجنسي", type: "نقد خارجي موثَّق"
@@ -22,6 +22,7 @@ gaps:
   - "لم تُراجع من نسخة أصلية مباشرة بعد؛ اقتُبس عرض ثانوي لأطروحة Cederström & Spicer (The Wellness Syndrome, 2015) وأطروحة Neocleous (Resisting Resilience, 2013)، لا النصان الأصليان."
   - "لم يُعثر على اقتباس حرفي مباشر من Cederström & Spicer أو Neocleous في هذه المسودة — الاعتماد على وصف الحجج من العناوين والملخصات المتاحة."
   - "الفرق بين هذا النقد ونقد صناعة الصدمة (TIC) يحتاج فصلاً أوضح — كلاهما يتقاطع حول «تحميل الفرد» لكن بمداخل مختلفة (تنظيمي مقابل إكلينيكي)."
+  - "**وُحِّد مسارُ التنقّل 2026-09-10:** كان «نقد» وصار «النقد الخارجي» — لأنّ الجذرَ كان منقسماً بين صيغتين للشيء نفسِه، فيعرض فهرسُ التصفّح موضعين لموضعٍ واحد."
 ---
 # نقد تدريب «المرونة»: من يتحمل مسؤولية الفشل النظامي؟
 

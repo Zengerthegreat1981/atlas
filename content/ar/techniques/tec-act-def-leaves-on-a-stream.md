@@ -18,7 +18,7 @@ related:
 - id: "tec-act-def-observing-self-talk", title: "ملاحظة الحديث الذاتي", type: "تقنية/تدخل علاجي"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
-- id: "dis-ocd", title: "اضطراب الوسواس القهري", type: "اضطراب"
+- id: "dis-ocd", title: "اضطراب الوسواس القهري", type: "اضطراب/حالة إكلينيكية"
 - id: "con-cognitive-restructuring", title: "إعادة الهيكلة المعرفية (Cognitive Restructuring)", type: "مفهوم"
 gaps:
   - "لا توجد دراسة مفردة موثّقة في الأطلس تقيّم فعالية «أوراق على النهر» بذاتها؛ الأدلة المتاحة عن ACT ككل غير موثّقة هنا، لذا evidence_level محافظ (experimental)."

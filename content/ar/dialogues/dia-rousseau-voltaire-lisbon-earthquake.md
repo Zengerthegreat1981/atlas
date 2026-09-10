@@ -12,9 +12,9 @@ active_end: 1756
 related:
 - id: "thk-rousseau", title: "جان جاك روسو", type: "مفكر"
 - id: "thk-voltaire", title: "فولتير", type: "مفكر"
-- id: "thk-leibniz", title: "لايبنتز", type: "مفكر"
-- id: "evt-lisbon-earthquake-1755-philosophical", title: "زلزال لشبونة 1755 وتفجير النقاش الفلسفي حول الشر والتفاؤل", type: "حدث"
-- id: "wrk-candide-voltaire", title: "كانديد أو التفاؤل لفولتير", type: "عمل"
+- id: "thk-leibniz", title: "غوتفريد فيلهلم لايبنتز", type: "مفكر"
+- id: "evt-lisbon-earthquake-1755-philosophical", title: "زلزال لشبونة 1755 وتفجير النقاش الفلسفي حول الشر والتفاؤل", type: "حدث تاريخي"
+- id: "wrk-candide-voltaire", title: "كانديد أو التفاؤل لفولتير", type: "عمل / كتاب"
 gaps:
   - "رد فولتير المباشر على رسالة روسو غير موثّق كنص منشور موجَّه له بالاسم؛ رده يُقرأ عادة في *كانديد* (1759) الذي يهجو التفاؤل اللايبنتزي دون تسمية روسو صراحةً."
 ---

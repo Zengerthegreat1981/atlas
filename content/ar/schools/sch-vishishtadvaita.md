@@ -14,11 +14,11 @@ active_start: 1000
 active_end: "مستمر"
 cultural_origin: "indian"
 edges:
-- rel: "belongs_to", target: "sch-vedanta", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-vedanta", target_type: "مدرسة"
 related:
-- id: "sch-vedanta", title: "فيدانتا", type: "مدرسة"
-- id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"
-- id: "sch-dvaita-vedanta", title: "دفايتا فيدانتا", type: "مدرسة"
+- id: "sch-vedanta", title: "فيدانتا (كمظلة)", type: "مدرسة"
+- id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا (اللاتثنية)", type: "مدرسة"
+- id: "sch-dvaita-vedanta", title: "دفايتا فيدانتا (التثنية)", type: "مدرسة"
 - id: "thk-ramanuja", title: "رامانوجا (فيشيشتادفايتا)", type: "مفكر"
 - id: "br-vishishtadvaita-classical", title: "الفيشيشتادفايتا — فيدانتا اللا-اثنانية الموصوفة", type: "تيار"
 gaps:

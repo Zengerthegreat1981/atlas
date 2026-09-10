@@ -14,11 +14,11 @@ evidence_level: "probably-efficacious"
 edges:
 - rel: "belongs_to", target: "sch-act", target_type: "مدرسة"
 related:
-- id: "tec-act-pres-body-scan", title: "مسح الجسد", type: "تقنية/تدخل علاجي"
+- id: "tec-act-pres-body-scan", title: "مسح الجسد (ACT)", type: "تقنية/تدخل علاجي"
 - id: "tec-act-pres-anchoring-in-the-five-senses", title: "الرسو في الحواس الخمس", type: "تقنية/تدخل علاجي"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
-- id: "tec-dbt-er-mindful-eating", title: "الأكل بيقظة", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-er-mindful-eating", title: "الأكل بيقظة (DBT)", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-please", title: "بليز (PLEASE) — خفض الحساسية للمشاعر السلبية", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-mind-participate", title: "المشاركة", type: "تقنية/تدخل علاجي"
 - id: "dis-arfid", title: "اضطراب تجنّب/تقييد الطعام (ARFID)", type: "اضطراب/حالة إكلينيكية"

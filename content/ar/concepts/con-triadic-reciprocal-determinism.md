@@ -13,8 +13,8 @@ edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
-- id: "con-self-efficacy", title: "الكفاءة الذاتية", type: "مفهوم"
-- id: "con-modeling", title: "النمذجة", type: "مفهوم"
+- id: "con-self-efficacy", title: "الكفاءة الذاتية (الذاتية المدركة)", type: "مفهوم"
+- id: "con-modeling", title: "النمذجة (التعلم بالملاحظة)", type: "مفهوم"
 gaps:
   - "نقد «الحتمية» في النموذج — هل هي حتمية فعلاً أم احتمالية؟ — موضع فلسفي."
 ---

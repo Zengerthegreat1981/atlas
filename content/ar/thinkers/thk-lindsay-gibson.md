@@ -17,7 +17,7 @@ edges:
 - rel: "belongs_to", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
 - id: "wrk-emotionally-immature-parents", title: "أبناء بالغون لوالدين غير ناضجين عاطفياً: التعافي من والدين متباعدين أو رافضين أو منغلقين على ذاتيهما", type: "عمل / كتاب"
-- id: "con-emotional-immaturity-parents", title: "اللاتنضج العاطفي الوالدي", type: "مفهوم"
+- id: "con-emotional-immaturity-parents", title: "اللاتنضج العاطفي الوالدي والإهمال غير المرئي", type: "مفهوم"
 gaps:
   - "سنة الميلاد المسجَّلة في `dates` (1952) غير مسندة إلى مصدر منشور؛ ولا تُعرف جامعة الدكتوراه ولا سنتها."
   - "لا يُعرف رقم مبيعات موثَّق للكتب، ولا هل صدرت ترجمة عربية معتمدة لأيٍّ منها ومن ناشرها."

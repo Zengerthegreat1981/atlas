@@ -14,7 +14,7 @@ edges:
 - rel: "formulated_by", target: "thk-mahavira", target_type: "مفكر"
 related:
 - id: "thk-mahavira", title: "ماهاڤيرا (مؤسس الجاينية)", type: "مفكر"
-- id: "sch-jainism", title: "الجاينية", type: "مدرسة"
+- id: "sch-jainism", title: "الجاينية الفلسفية", type: "مدرسة"
 - id: "con-anekantavada-non-absolutism", title: "الأنكانتافادا ونسبية الحقيقة وتعدد الرؤى (Anekantavada)", type: "مفهوم"
 gaps:
   - "نص أوّلي مترجم من Tattvarthasutra (أومّاسڤاتي) أو من شروح Samantabhadra يُظهر الصياغة السباعية الكاملة (Saptabhangi) بأمثلة، لتوثيق الآلية بدقة أكبر من الوصف العام."

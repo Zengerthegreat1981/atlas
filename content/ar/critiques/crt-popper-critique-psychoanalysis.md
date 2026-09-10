@@ -11,7 +11,7 @@ active_end: "مستمر"
 part: "psychology"
 edges:
 - rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-- rel: "relates_to", target: "br-jungian", target_type: "مدرسة"
+- rel: "relates_to", target: "br-jungian", target_type: "تيار"
 related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "br-classical-psychoanalysis", title: "التحليل النفسي الفرويدي الكلاسيكي", type: "تيار"

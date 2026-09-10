@@ -11,13 +11,14 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1951
 active_end: 1994
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-gestalt-therapy", target_type: "مدرسة"
 related:
 - id: "sch-gestalt-therapy", title: "علاج الجشطالت (Gestalt Therapy)", type: "مدرسة"
 gaps:
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-gestalt-therapy` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # إيزادور فروم

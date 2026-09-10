@@ -8,7 +8,7 @@ en: "Vocabulaire de la Psychanalyse (The Language of Psycho-Analysis)"
 crumb: "التحليل النفسي ← الأعمال ← معجم التحليل النفسي"
 dates: "باريس · 1967"
 language: "الفرنسية"
-part: "philosophy"
+part: "psychology"
 author: "جان لابلانش وجان-برتران بونتاليس"
 publication_year: 1967
 original_language: "الفرنسية"
@@ -24,6 +24,7 @@ related:
 gaps:
   - "اسم دار النشر الفرنسية الأولى (Presses Universitaires de France) والطبعات اللاحقة لم يُراجع من مصدر أولي بدقة."
   - "لم يثبت وجود ترجمة عربية منشورة لهذا العمل: بُحث عن مترجم وناشر وسنة ولم يُعثر على أيٍّ منها."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # معجم التحليل النفسي (Vocabulaire de la Psychanalyse)

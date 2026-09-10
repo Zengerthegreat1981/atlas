@@ -2,7 +2,7 @@
 slug: "con-cft-self-compassion"
 id: "CON-0812"
 type: "مفهوم"
-part: "psychology"
+part: "philosophy"
 level: "مبتدئ"
 title: "التعاطف مع الذات (Self-Compassion, CFT)"
 en: "Self-Compassion (Neff, CFT)"
@@ -22,6 +22,7 @@ related:
 gaps:
   - "التمييز العملي بين 'الرحمة بالذات' و'الشفقة بالذات' في الترجمات العربية لا يزال غير موحَّد في الأدبيات."
   - "لا يوجد ملف مستقل في الأطلس للمقال التأسيسي لنيف (Self and Identity، 2003) أو لبرنامج Mindful Self-Compassion وكريستوفر جيرمر، رغم ذكرهما في المتن."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-cft` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ في الواجهة."
 ---
 
 # التعاطف مع الذات (Self-Compassion, CFT)

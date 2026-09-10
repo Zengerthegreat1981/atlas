@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-hume", title: "ديفيد هيوم", type: "مفكر"
 - id: "sch-humeanism", title: "الهيومية (الشكّ التجريبي)", type: "مدرسة"
-- id: "wrk-enquiry-concerning-human-understanding-hume", title: "تحقيق في الفهم البشري لديفيد هيوم", type: "عمل"
+- id: "wrk-enquiry-concerning-human-understanding-hume", title: "تحقيق في الفهم البشري لديفيد هيوم", type: "عمل / كتاب"
 - id: "con-synthetic-a-priori-judgments", title: "القضايا التركيبية القبلية (Synthetic A Priori)", type: "مفهوم"
 - id: "con-problem-of-induction", title: "مشكلة الاستقراء عند هيوم (Hume's Problem of Induction)", type: "مفهوم"
 - id: "con-verification-principle", title: "مبدأ التحقق", type: "مفهوم"

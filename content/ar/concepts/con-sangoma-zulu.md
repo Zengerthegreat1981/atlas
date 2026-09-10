@@ -12,7 +12,7 @@ part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-ubuntu-traditional", target_type: "مدرسة"
 related:
-- id: "con-ubuntu", title: "أوبونتو", type: "مفهوم"
+- id: "con-ubuntu", title: "الأوبونتو (Ubuntu)", type: "مفهوم"
 - id: "thk-vbuhrmann", title: "فيرا بوهرمان", type: "مفكر"
 - id: "sch-african-psychology", title: "علم النفس الأفريقي", type: "مدرسة"
 gaps:

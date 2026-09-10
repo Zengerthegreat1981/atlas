@@ -15,7 +15,7 @@ edges:
 - rel: "belongs_to", target: "sch-act", target_type: "مدرسة"
 related:
 - id: "tec-act-acc-emotional-exposure", title: "التعرض الانفعالي", type: "تقنية/تدخل علاجي"
-- id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
+- id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري (ACT)", type: "تقنية/تدخل علاجي"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
 gaps:

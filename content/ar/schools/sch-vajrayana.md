@@ -18,11 +18,11 @@ edges:
 - rel: "evolved_from", target: "sch-tathagatagarbha", target_type: "مدرسة"
 related:
 - id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
-- id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"
-- id: "sch-nyingma", title: "نينغما", type: "مدرسة"
-- id: "sch-kagyu", title: "كاغيو", type: "مدرسة"
-- id: "sch-sakya", title: "ساكيا", type: "مدرسة"
-- id: "sch-gelug", title: "غيلوغ", type: "مدرسة"
+- id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها (طبيعة البوذا)", type: "مدرسة"
+- id: "sch-nyingma", title: "نينغما (البوذية التبتية القديمة)", type: "مدرسة"
+- id: "sch-kagyu", title: "كاغيو (البوذية التبتية)", type: "مدرسة"
+- id: "sch-sakya", title: "ساكيا (البوذية التبتية)", type: "مدرسة"
+- id: "sch-gelug", title: "غيلوغ (البوذية التبتية)", type: "مدرسة"
 - id: "sch-shakta-tantra", title: "الشاكتية والتانترا الفلسفية", type: "مدرسة"
 gaps:
   - "النصوص التانترية (Guhyasamāja Tantra، Hevajra Tantra، Cakrasaṃvara) تتطلب مراجعة من المصدر الأولي."

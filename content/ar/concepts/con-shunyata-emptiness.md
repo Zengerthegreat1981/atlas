@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-madhyamaka", target_type: "مدرسة"
 related:
-- id: "thk-nagarjuna", title: "ناغارجونا", type: "مفكر"
+- id: "thk-nagarjuna", title: "ناغارجونا (مؤسس مادهياماكا)", type: "مفكر"
 - id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
 gaps:
   - "الفرق بين الفراغ البوذي والعدمية الغربية (Nihilism) لم يُشرح هنا بمصدر يقارن الموقفين اسماً بسنة."

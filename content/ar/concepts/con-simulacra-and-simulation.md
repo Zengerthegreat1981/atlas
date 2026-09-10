@@ -13,11 +13,11 @@ edges:
 - rel: "belongs_to", target: "sch-postmodernism-philosophical", target_type: "مدرسة"
 related:
 - id: "thk-jean-baudrillard", title: "جان بودريار", type: "مفكر"
-- id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية", type: "مدرسة"
-- id: "wrk-simulacra-and-simulation-baudrillard", title: "المحاكاة والمصطنع لجان بودريار", type: "عمل"
-- id: "trm-simulacra-baudrillard", title: "الأيقونة الشبيهة والمحاكاة الفائقة (Simulacra & Simulation)", type: "مصطلح"
-- id: "met-baudrillard-desert-of-the-real", title: "صحراء الواقع لجان بودريار", type: "استعارة"
-- id: "crt-baudrillard-critique-of-hyperreality", title: "نقد بودريار للمحاكاة الفائقة واختفاء الواقع", type: "نقد"
+- id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية (Philosophical Postmodernism)", type: "مدرسة"
+- id: "wrk-simulacra-and-simulation-baudrillard", title: "المحاكاة والمصطنع لجان بودريار", type: "عمل / كتاب"
+- id: "trm-simulacra-baudrillard", title: "الأيقونة الشبيهة والمحاكاة الفائقة (Simulacra & Simulation)", type: "مصطلح لغوي متنازع عليه"
+- id: "met-baudrillard-desert-of-the-real", title: "صحراء الواقع لجان بودريار: استعارة المحاكاة الفائقة واختفاء الأصل", type: "استعارة/مجاز مؤسِّس"
+- id: "crt-baudrillard-critique-of-hyperreality", title: "نقد بودريار للمحاكاة الفائقة واختفاء الواقع", type: "نقد خارجي موثَّق"
 gaps:
   - "التحليل الإبستمولوجي واللغوي الدقيق لتطور المفهوم عبر مراحل بودريار الأربع للصورة."
   - "لم يُعثر على اقتباس مباشر موثَّق من نص Simulacra et Simulation (1981) بالفرنسية أو ترجمته."

@@ -18,13 +18,15 @@ related:
 - id: "thk-ddinste", title: "دوروثي دينرشتاين", type: "مفكر"
 - id: "thk-jflax", title: "جين فلاكس", type: "مفكر"
 - id: "thk-butler", title: "جوديث بتلر", type: "مفكر"
-- id: "wrk-gender-trouble-butler", title: "مشكلة الجندر لجوديث بتلر (Gender Trouble)", type: "عمل"
+- id: "wrk-gender-trouble-butler", title: "مشكلة الجندر لجوديث بتلر (Gender Trouble)", type: "عمل / كتاب"
 - id: "con-relational-matrix", title: "المصفوفة العلائقية (Relational Matrix)", type: "مفهوم"
 - id: "con-intersectional-feminism", title: "علم النفس النسوي التقاطعي", type: "مفهوم"
 - id: "con-queer-psychoanalysis", title: "التحليل النفسي الكويري", type: "مفهوم"
 - id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "لم تُراجع الأطروحات التفصيلية للويس إريغاري وجوليا كريستيفا كممثلتين للنسوية الفرنسية اللاكانية بعد."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» ويخالف 3 من أبنائه — فالخطأُ في الأب لا في الأبناء، وصُحِّح إلى «philosophy» بأغلبية الأسرة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # التحليل النفسي النسوي

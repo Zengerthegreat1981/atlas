@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "الإسبانية، الإنجليزية"
 active_start: 1965
 active_end: 2014
-part: "philosophy"
+part: "psychology"
 crumb: "العلاج الأسري البنيوي (Structural Family Therapy) ← الناس ← براوليو مونتالفو"
 edges:
 - rel: "belongs_to", target: "br-structural-family", target_type: "تيار"
@@ -19,6 +19,7 @@ related:
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Families of the Slums* (1967) بترجمة عربية معتمدة."
   - "تاريخ الوفاة مُصحَّح إلى 31 مارس 2014 (لا 2013) استناداً إلى نعي صحيفة Philadelphia Inquirer (2014/04/06) وموقع French Funerals & Cremations، اللذين يذكران وفاته عن عمر 80 عاماً في ألباكركي، نيومكسيكو؛ وُلد ونشأ في أغوادييا، بورتوريكو."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-structural-family` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # براوليو مونتالفو

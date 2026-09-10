@@ -11,15 +11,16 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1979
 active_end: 2015
-part: "philosophy"
+part: "psychology"
 edges:
-- rel: "belongs_to", target: "tec-prep-program", target_type: "تقنية"
+- rel: "belongs_to", target: "tec-prep-program", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-hmarkman", title: "هوارد ماركمن", type: "مفكر"
 gaps:
   - "تاريخا الميلاد والوفاة غير مؤكَّدين من مصدر أولي (السِيَر الأكاديمية المنشورة لا تذكرهما بإسناد)."
   - "لا يوجد اقتباس مباشر موثوق من *When Partners Become Parents: The Big Life Change for Couples* (1992) بترجمة عربية معتمدة."
   - "برنامج \"Bringing Baby Home\" التدخّلي كان منسوباً خطأً لكارولين كوان — هذا البرنامج من تطوير جون وجولي غوتمان (معهد غوتمان)، وليس من عمل عائلة كوان؛ أُزيلت هذه الإشارة الخاطئة من المتن."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-prep-program` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # كارولين بيبي كوان

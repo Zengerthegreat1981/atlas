@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
   []
 related:
-- id: "ins-panss", title: "مقياس المتلازمة الإيجابية والسلبية", type: "أداة قياس"
+- id: "ins-panss", title: "مقياس المتلازمة الإيجابية والسلبية لتقييم الفصام (PANSS)", type: "أداة قياس"
 - id: "dis-schizophrenia", title: "الفصام", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "أبحاث جون أوفرهول ودونالد غورهام (Overall & Gorham 1962) وتوسيع المقياس إلى 24 بنداً (BPRS-E)."

@@ -13,7 +13,7 @@ edges:
 - rel: "relates_to", target: "dis-ptsd", target_type: "اضطراب/حالة إكلينيكية"
 related:
 - id: "thk-jherman", title: "جوديث هِرمان", type: "مفكر"
-- id: "sch-emdr", title: "EMDR", type: "مدرسة"
+- id: "sch-emdr", title: "إعادة المعالجة عبر حركات العين وتخفيف الأعراض (EMDR)", type: "مدرسة"
 - id: "sch-ifs", title: "نظام الأسرة الداخلية (IFS — Internal Family Systems)", type: "مدرسة"
 - id: "tec-cpt", title: "علاج المعالجة المعرفية (CPT)", type: "تقنية/تدخل علاجي"
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"

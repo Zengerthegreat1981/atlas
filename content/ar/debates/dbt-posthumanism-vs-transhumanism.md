@@ -14,8 +14,8 @@ edges:
 related:
 - id: "thk-haraway", title: "دونا هاراواي", type: "مفكر"
 - id: "thk-bostrom", title: "نيك بوستروم", type: "مفكر"
-- id: "sch-posthumanism", title: "ما بعد الإنسانية", type: "مدرسة"
-- id: "sch-transhumanism", title: "الإنسانية العابرة", type: "مدرسة"
+- id: "sch-posthumanism", title: "ما بعد الإنسانية (Posthumanism)", type: "مدرسة"
+- id: "sch-transhumanism", title: "الإنسانية العابرة (Transhumanism)", type: "مدرسة"
 - id: "con-cyborg", title: "الكائن الهجين (Cyborg)", type: "مفهوم"
 - id: "con-existential-risk", title: "الخطر الوجودي (Existential Risk)", type: "مفهوم"
 gaps:

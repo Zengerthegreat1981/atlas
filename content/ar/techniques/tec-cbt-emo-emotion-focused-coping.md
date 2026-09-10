@@ -18,7 +18,7 @@ edges:
 related:
 - id: "tec-cbt-emo-gratitude-practices", title: "ممارسات الامتنان", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-distress-tolerance-techniques", title: "تقنيات تحمل الضغط", type: "تقنية/تدخل علاجي"
-- id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
+- id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات (ACT)", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-coping-statements", title: "عبارات التأقلم", type: "تقنية/تدخل علاجي"
 - id: "dis-adjustment-disorders", title: "اضطرابات التكيّف", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-prolonged-grief", title: "اضطراب الحزن المطوّل", type: "اضطراب/حالة إكلينيكية"

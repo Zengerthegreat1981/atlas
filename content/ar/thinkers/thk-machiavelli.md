@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-civic-republicanism", target_type: "مدرسة"
 related:
 - id: "wrk-the-prince-machiavelli", title: "الأمير لنيكولو مكيافيلي", type: "عمل / كتاب"
-- id: "sch-civic-republicanism", title: "الجمهورية المدنية", type: "مدرسة"
+- id: "sch-civic-republicanism", title: "الجمهورية المدنية (Civic Republicanism)", type: "مدرسة"
 - id: "thk-hobbes", title: "توماس هوبز", type: "مفكر"
 - id: "wrk-discourses-on-livy-machiavelli", title: "مطولات في العقد الأول لتيتوس ليفيوس لمكيافيلي", type: "عمل / كتاب"
 gaps:

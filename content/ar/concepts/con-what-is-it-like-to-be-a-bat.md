@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-phil-mind-analytic", target_type: "مدرسة"
 related:
 - id: "thk-nagel", title: "توماس ناغل", type: "مفكر"
-- id: "sch-phil-mind-analytic", title: "فلسفة العقل التحليلية", type: "مدرسة"
+- id: "sch-phil-mind-analytic", title: "فلسفة العقل التحليلية (كمظلة)", type: "مدرسة"
 - id: "con-hard-problem-of-consciousness", title: "المشكلة الصعبة للوعي والكواليا (The Hard Problem of Consciousness)", type: "مفهوم"
 - id: "con-explanatory-gap-levine", title: "الفجوة التفسيرية بين المادة والشعور (Explanatory Gap)", type: "مفهوم"
 - id: "dbt-mary-the-super-scientist-qualia", title: "مفارقة ماري عالمة الألوان والخبرة الذاتية الكواليا", type: "جدل"

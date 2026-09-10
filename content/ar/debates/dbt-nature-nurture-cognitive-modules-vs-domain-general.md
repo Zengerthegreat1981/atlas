@@ -14,7 +14,7 @@ related:
 - id: "thk-vygotsky", title: "ليف فيغوتسكي", type: "مفكر"
 - id: "sch-behaviorism", title: "السلوكية (Behaviorism)", type: "مدرسة"
 - id: "con-cognitive-development-stages", title: "مراحل النمو المعرفي الأربع (Piaget)", type: "مفهوم"
-- id: "dbt-nature-nurture", title: "جِدَل الطَّبِيعَة وَالتَّرْبِيَة", type: "جدل"
+- id: "dbt-nature-nurture", title: "جِدَل الطَّبِيعَة وَالتَّرْبِيَة (Nature vs. Nurture): مَن يَصْنَع السُّلُوك؟", type: "جدل"
 gaps:
   - "نظرية الوحدات النمطية لكارل فودور (Fodor, *The Modularity of Mind*, 1983) — أحد الطرفين الأصليين لهذا الجدل — لا ملف مفكر له في الأطلس (thk-fodor غير موجود)؛ طُلب في requests-minimax.md"
   - "الطرف الفطري في هذا الملف يستند بالاسم إلى تشومسكي وبنكر وكوزميدس وتووبي، والطرف البيئي يستند إلى رومِلهارت وماكليلاند وسبِلكه وإلمان وكارميلوف-سميث وجيري — لا يوجد ملف مفكر واحد لأي منهم في الأطلس (thk-chomsky، thk-pinker، thk-cosmides، thk-tooby، thk-rumelhart، thk-mcclelland، thk-spelke، thk-elman، thk-karmiloff-smith، thk-geary كلها غير موجودة)؛ طُلبوا في requests-minimax.md"

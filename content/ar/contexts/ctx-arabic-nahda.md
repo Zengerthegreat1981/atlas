@@ -14,7 +14,7 @@ edges:
 related:
 - id: "sch-islamic-reform", title: "الإصلاحية الإسلامية (النهضة)", type: "مدرسة"
 - id: "thk-tahtawi", title: "رفاعة الطهطاوي", type: "مفكر"
-- id: "thk-muhammad-abduh", title: "محمد عبده", type: "مفكر"
+- id: "thk-muhammad-abduh", title: "محمد عبده (الإمام)", type: "مفكر"
 - id: "ctx-arab-spring-2011-digital-dissent", title: "الربيع العربي (2011) وثورات الميادين وسيكولوجيا كسر الخوف", type: "سياق/تقليد"
 - id: "ctx-iranian-revolution-1979-political-islam", title: "الثورة الإيرانية (1979) وصعود الإسلام السياسي كفاعل جيوسياسي", type: "سياق/تقليد"
 gaps:

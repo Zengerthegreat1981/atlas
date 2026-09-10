@@ -16,12 +16,12 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-cross-cultural-psychology", target_type: "مدرسة"
 related:
-- id: "sch-cross-cultural-psychology", title: "علم النفس عبر الثقافي", type: "مدرسة"
+- id: "sch-cross-cultural-psychology", title: "علم النفس عبر الثقافي (Cross-Cultural Psychology)", type: "مدرسة"
 - id: "thk-vygotsky", title: "ليف فيغوتسكي", type: "مفكر"
 - id: "thk-jerome-bruner", title: "جيروم برونر", type: "مفكر"
 - id: "syn-hikikomori", title: "متلازمة الهيكوموري (Hikikomori)", type: "متلازمة"
-- id: "con-amae", title: "الأماي (Amae)", type: "مفهوم"
-- id: "con-cultural-complex", title: "العقدة الثقافية", type: "مفهوم"
+- id: "con-amae", title: "أماي (الاعتمادية الحميمية والتكامل النفسي)", type: "مفهوم"
+- id: "con-cultural-complex", title: "المركّب الثقافي والظلال الجمعية", type: "مفهوم"
 - id: "sch-indigenous-psychology", title: "علم نفس الشعوب الأصلية", type: "مدرسة"
 gaps:
   - "**أُنشئ هذا الملف 2026-09-08:** كان اسمُ «علم النفس الثقافي» يُستعمل أباً نصّياً في `belongs_to` لـ`syn-hikikomori` بلا ملفٍّ يقابله."

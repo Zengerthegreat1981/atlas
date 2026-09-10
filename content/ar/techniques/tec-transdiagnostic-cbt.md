@@ -16,8 +16,8 @@ evidence_level: "probably-efficacious"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "tec-unified-protocol", title: "البروتوكول الموحّد", type: "تقنية/تدخل علاجي"
-- id: "tec-process-based-cbt", title: "العلاج المعرفي السلوكي القائم على العمليات", type: "تقنية/تدخل علاجي"
+- id: "tec-unified-protocol", title: "البروتوكول الموحّد للاضطرابات الانفعالية (UP)", type: "تقنية/تدخل علاجي"
+- id: "tec-process-based-cbt", title: "العلاج المعرفي السلوكي القائم على العمليات والبروتوكول الموحد", type: "تقنية/تدخل علاجي"
 - id: "tec-metacognitive-therapy", title: "العلاج ما وراء المعرفي (MCT)", type: "تقنية/تدخل علاجي"
 - id: "thk-barlow", title: "ديفيد هـ. بارلو", type: "مفكر"
 - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"

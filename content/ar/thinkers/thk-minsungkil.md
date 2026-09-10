@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "الهوابيونغ (Hwabyung) ← الناس ← مين سونغ-كيل"
 edges:
-- rel: "belongs_to", target: "dis-hwabyung", target_type: "مدرسة"
+- rel: "belongs_to", target: "dis-hwabyung", target_type: "اضطراب/حالة إكلينيكية"
 related:
 - id: "thk-parkjongik", title: "بارك جونغ-إيك", type: "مفكر"
 - id: "thk-kimkwansung", title: "كيم كوان-سونغ", type: "مفكر"

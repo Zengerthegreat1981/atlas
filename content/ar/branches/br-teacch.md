@@ -15,7 +15,7 @@ related:
 - id: "thk-eschopler", title: "إريك شوبلر", type: "مفكر"
 - id: "thk-ereichelt", title: "روبرت جاي رايشلر", type: "مفكر"
 - id: "thk-gmesibov", title: "غاري ميسيبوف", type: "مفكر"
-- id: "con-behavioral-activation", title: "التنشيط السلوكي", type: "مفهوم"
+- id: "con-behavioral-activation", title: "التنشيط السلوكي (مفهوم علاجي)", type: "مفهوم"
 - id: "con-structured-teaching-teacch", title: "التدريس المنظم (Structured Teaching)", type: "مفهوم"
 - id: "con-teacch", title: "TEACCH (تدريس التوحد ومن يعانون من صعوبات التواصل)", type: "مفهوم"
 gaps:

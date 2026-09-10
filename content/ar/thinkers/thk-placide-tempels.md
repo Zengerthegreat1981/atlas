@@ -23,7 +23,7 @@ related:
 - id: "thk-senghor", title: "ليوبولد سيدار سنغور", type: "مفكر"
 - id: "thk-wiredu", title: "كواي وايردو", type: "مفكر"
 - id: "thk-hountondji", title: "بولين هينتونجي", type: "مفكر"
-- id: "ctx-african-colonial-partition-berlin", title: "مؤتمر برلين (1884) وتقسيم إفريقيا", type: "سياق/تقليد"
+- id: "ctx-african-colonial-partition-berlin", title: "مؤتمر برلين (1884) وتقسيم إفريقيا وتأسيس العنف الاستعماري", type: "سياق/تقليد"
 gaps:
   - "عمله الأصلي مكتوب بالفلمنكية (1945)، ترجم لفرنسية 1949، للإنجليزية 1959 — الأسبقية الفلمنكية تجعل 'التفسير' اللاحق ناقصاً."
   - "مصطلح 'Bantu Philosophy' أُسيء استخدامه لاحقاً كمرادف لـ'Ethnophilosophy'."

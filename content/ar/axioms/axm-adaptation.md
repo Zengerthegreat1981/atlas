@@ -17,7 +17,7 @@ related:
 - id: "thk-david-buss", title: "ديفيد باس", type: "مفكر"
 - id: "thk-stephen-jay-gould", title: "ستيفن جاي غولد", type: "مفكر"
 - id: "dbt-evolutionary-psychology-adaptation-vs-spandrel", title: "علم النفس التطوري بين التكيف الحتمي والمصادفات البيولوجية", type: "جدل"
-- id: "crt-critique-of-evolutionary-psychology", title: "نقد عِلْم النَّفْس التَّطَوُّرِيّ: «قِصَص فَوْق تَطَوُّرِيَّة» غَيْر قَابِلَة لِلتَّفْنِيد", type: "نقد"
+- id: "crt-critique-of-evolutionary-psychology", title: "نقد عِلْم النَّفْس التَّطَوُّرِيّ: «قِصَص فَوْق تَطَوُّرِيَّة» غَيْر قَابِلَة لِلتَّفْنِيد", type: "نقد خارجي موثَّق"
 gaps:
   - "نظرية 'الفضاء التصميمي' (Design Space) عند دانيال دينيت لم تُربط بملف مستقل بعد."
   - "الانتقاء الطبيعي كآلية بيولوجية للتكيف (داروين، 1859) لم يُفرد بملف مفهوم مستقل عن هذه البديهية بعد."

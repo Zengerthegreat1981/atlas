@@ -15,12 +15,12 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-- id: "br-bioenergetic-analysis", title: "التحليل البيوإنرجيتي", type: "تيار"
+- id: "br-bioenergetic-analysis", title: "التحليل الطاقي الحيوي (لوين)", type: "تيار"
 - id: "br-biodynamic-psychology", title: "علم النفس البيودينامي والتدليك الحركي (بويسن)", type: "تيار"
 - id: "br-vegetotherapy-orgonomy", title: "العلاج النباتي وطاقة الأورغون (الامتدادات الرايخية)", type: "تيار"
-- id: "thk-reich", title: "فيلهلم رايش", type: "مفكر"
+- id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
 - id: "sch-somatic-experiencing", title: "التجربة الجسدية (Somatic Experiencing)", type: "مدرسة"
-- id: "sch-sensorimotor-psychotherapy", title: "العلاج النفسي السنسوريموتور", type: "مدرسة"
+- id: "sch-sensorimotor-psychotherapy", title: "العلاج النفسي حسي-حركي (Sensorimotor Psychotherapy)", type: "مدرسة"
 - id: "thk-lisbeth-marcher", title: "ليزبيث مارشر", type: "مفكر"
 gaps:
   - "**كُتب متنه 2026-09-07** من الفجوات المسجَّلة، وكانت تسمّي المطلوب: **الخريطةَ الجسدية لليزبيث مارشر** التي تربط كلَّ عضلةٍ بمرحلةٍ نمائية، والتمييزَ بين الاستجابة الخاضعة (Hypo) والمقاومة (Hyper)."

@@ -12,7 +12,7 @@ active_end: 1920
 language: "الألمانية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "br-adlerian", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-adlerian", target_type: "تيار"
 - rel: "authored_by", target: "thk-adler", target_type: "مفكر"
 author: "ألفرد أدلر"
 author_slug: "thk-adler"
@@ -20,7 +20,7 @@ publication_year: 1920
 original_language: "الألمانية"
 related:
 - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
-- id: "br-adlerian", title: "علم النفس الفردي الأدلري", type: "مدرسة"
+- id: "br-adlerian", title: "علم النفس الفردي الأدلري", type: "تيار"
 - id: "wrk-adler-understanding-human-nature", title: "كتاب فهم الطبيعة البشرية لألفرد أدلر (1927)", type: "عمل / كتاب"
 gaps:
   - "لم يثبت وجود ترجمة عربية منشورة لهذا الكتاب: بُحث عن مترجم وناشر وسنة ولم يُعثر على أيٍّ منها."

@@ -20,7 +20,7 @@ edges:
 - rel: "belongs_to", target: "sch-neopragmatism", target_type: "مدرسة"
 related:
 - id: "thk-rorty", title: "ريتشارد رورتي", type: "مفكر"
-- id: "sch-neopragmatism", title: "البراغماتية الجديدة (Neopragmatism)", type: "مدرسة"
+- id: "sch-neopragmatism", title: "البراغماتية الجديدة", type: "مدرسة"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
 - id: "thk-dewey", title: "جون ديوي", type: "مفكر"

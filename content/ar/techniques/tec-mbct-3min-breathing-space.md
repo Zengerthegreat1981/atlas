@@ -17,8 +17,8 @@ related:
 - id: "thk-mwilliams", title: "مارك ويليامز", type: "مفكر"
 - id: "thk-jteasdale", title: "جون تيزديل", type: "مفكر"
 - id: "thk-zsegal", title: "زيندل سيغال", type: "مفكر"
-- id: "tec-cbt-mind-mindfulness-meditation", title: "تأمل اليقظة الذهنية", type: "تقنية"
-- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب"
+- id: "tec-cbt-mind-mindfulness-meditation", title: "تأمل اليقظة الذهنية", type: "تقنية/تدخل علاجي"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "**ازدواج غير مُدمَج بقرار تحريري صريح**: هذا الملف (tec-mbct-3min-breathing-space) وملف tec-mbct-three-minute-breathing يغطيان نفس التمرين بالضبط (مساحة التنفس الثلاث دقائق في MBCT) بمحتوى وعمق مختلفين — الأول مختصر بلا دراسات مذكورة، الثاني أطول ويذكر دراسات Kuyken 2010 وFledderus 2013. طُلب صراحة عدم دمجهما في هذه الدفعة، فقط تسجيل الازدواج ليقرر رئيس التحرير المعالجة (دمج أو إحالة أحدهما للآخر). ملف مفهوم ثالث موازٍ موجود أيضاً: con-cbt-mbt-mindfulness-3min-breathing-space."
   - "لم يُتحقق من رقم الصفحة أو الفصل بالضبط في دليل Segal, Williams & Teasdale (2002) الذي وُصف فيه البروتوكول أول مرة."

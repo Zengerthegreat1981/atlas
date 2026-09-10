@@ -14,14 +14,14 @@ active_start: 1250
 active_end: "مستمر"
 cultural_origin: "european"
 edges:
-- rel: "belongs_to", target: "sch-scholasticism", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-scholasticism", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-patristics", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 related:
-- id: "sch-scholasticism", title: "المدرسية (السكولاستية)", type: "مدرسة"
+- id: "sch-scholasticism", title: "المدرسية (السكولاستية) — كمظلة", type: "مدرسة"
 - id: "sch-augustinianism", title: "الأوغسطينية", type: "مدرسة"
 - id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
-- id: "sch-second-scholasticism", title: "السكولاستية الثانية", type: "مدرسة"
+- id: "sch-second-scholasticism", title: "السكولاستية الثانية (إسبانيا، عصر النهضة)", type: "مدرسة"
 - id: "wrk-summa-theologiae", title: "الخلاصة اللاهوتية (Summa Theologiae)", type: "عمل / كتاب"
 - id: "dbt-thomism-vs-scotism", title: "التوماوية في مقابل السكوتية: العقل أم الإرادة؟", type: "جدل"
 - id: "br-scholasticism-high-thomist", title: "السكولاستية التوماوية العليا — السكولاستية", type: "تيار"

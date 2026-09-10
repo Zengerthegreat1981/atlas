@@ -17,7 +17,7 @@ edges:
 - rel: "belongs_to", target: "sch-motivational-interviewing", target_type: "مدرسة"
 related:
 - id: "sch-motivational-interviewing", title: "المقابلة التحفيزية (Motivational Interviewing)", type: "مدرسة"
-- id: "thk-wmiller", title: "ويليام ميلر", type: "مفكر"
+- id: "thk-wmiller", title: "ويليام ميلر (William R. Miller)", type: "مفكر"
 - id: "thk-rollnick", title: "ستيفن رولنيك", type: "مفكر"
 gaps:
   - "الطبعة الأولى (1991) صدرت بمؤلف واحد فعلياً هو ميلر منفرداً في بعض الفهارس المبكرة؛ لم نتحقّق من صيغة الغلاف الدقيقة لعام 1991 مقابل الطبعة الثانية (2002) التي تحمل الاسمين معاً بوضوح على أنها العمل المرجعي الموسَّع — إن ظهر تعارض في التأليف بين الطبعتين فليُراجَع.

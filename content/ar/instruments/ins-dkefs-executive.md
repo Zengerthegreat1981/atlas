@@ -17,7 +17,7 @@ evidence_level: "well-established"
 edges:
   []
 related:
-- id: "syn-dysexecutive", title: "متلازمة القصور التنفيذي الجبهي", type: "متلازمة"
+- id: "syn-dysexecutive", title: "متلازمة القصور التنفيذي الجبهي (Dysexecutive Syndrome)", type: "متلازمة"
 - id: "ins-wisconsin-card-sorting", title: "اختبار ويسكونسن لتصنيف البطاقات", type: "أداة قياس"
 - id: "ins-stroop-color-word", title: "اختبار ستروب للألوان والكلمات", type: "أداة قياس"
 - id: "ins-trail-making-test", title: "اختبار ربط المسارات", type: "أداة قياس"

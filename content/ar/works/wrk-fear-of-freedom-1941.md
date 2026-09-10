@@ -24,7 +24,7 @@ related:
 - id: "wrk-ethics-ambiguity", title: "أخلاق الغموض", type: "عمل / كتاب"
 - id: "thk-may", title: "رولو ماي", type: "مفكر"
 - id: "con-self-serving-bias", title: "انحياز خدمة الذات وتبرير الفشل (Self-Serving Bias)", type: "مفهوم"
-- id: "con-self-ownership", title: "ملكية الذات", type: "مفهوم"
+- id: "con-self-ownership", title: "الحق الذاتي (ملكية الذات)", type: "مفهوم"
 gaps:
   - "للعمل ملف ثانٍ في الأطلس بعنوان بديل («الهروب من الحرية»، `wrk-fromm-escape-freedom`) يعالج الكتاب نفسه بترجمة عنوان مختلفة للعنوان الإنجليزي الواحد؛ الملفان لم يُدمَجا (ازدواج مسجَّل)، ولم تُضَف روابط بينهما هنا عمداً."
   - "لا يوجد اقتباس مباشر موثوق من نصّ Escape from Freedom / The Fear of Freedom (1941) في هذه المسودة."

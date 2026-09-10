@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1938
 active_end: 1988
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
@@ -20,6 +20,7 @@ related:
 gaps:
   - "تفاصيل اختبار التصوّر الموضوعي (TAT) لم تُراجع بعد."
   - "لا يوجد اقتباس مباشر موثوق من *Explorations in Personality* (1938) بترجمة عربية معتمدة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-humanistic` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # هنري موراي

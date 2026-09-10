@@ -12,7 +12,7 @@ active_end: "مستمر"
 language: "متعدد اللغات"
 edges: []
 related:
-- id: "syn-latah", title: "متلازمة لاتها", type: "متلازمة"
+- id: "syn-latah", title: "متلازمة لاتها (المحاكاة القهرية والاستجابة المفرطة للإجفال)", type: "متلازمة"
 - id: "dis-dissociative-amnesia", title: "فقدان الذاكرة التفارقي", type: "اضطراب/حالة إكلينيكية"
 - id: "con-freedom", title: "الحرية", type: "مفهوم"
 gaps:

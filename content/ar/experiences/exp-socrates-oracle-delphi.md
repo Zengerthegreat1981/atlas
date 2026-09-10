@@ -15,7 +15,7 @@ related:
 - id: "thk-socrates", title: "سقراط", type: "مفكر"
 - id: "thk-plato", title: "أفلاطون", type: "مفكر"
 - id: "wrk-apology-plato", title: "دفاع سقراط لأفلاطون (Apologia)", type: "عمل / كتاب"
-- id: "evt-trial-and-death-of-socrates-399bc", title: "محاكمة وإعدام سقراط في أثينا (399 ق.م)", type: "حدث"
+- id: "evt-trial-and-death-of-socrates-399bc", title: "محاكمة وإعدام سقراط في أثينا (399 ق.م)", type: "حدث تاريخي"
 gaps:
   - "الواقعة منقولة حصراً عبر رواية أفلاطون في «الدفاع» (21a)؛ لا يوجد مصدر مستقل يؤكدها من خارج الدائرة السقراطية، وشهادة صديق سقراط خيريفون نفسه غير موجودة بخط يده."
 ---

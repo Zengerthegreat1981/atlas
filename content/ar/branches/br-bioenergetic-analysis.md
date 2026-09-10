@@ -17,7 +17,7 @@ edges:
 - rel: "developed_by", target: "thk-lowen", target_type: "مفكر"
 related:
 - id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
-- id: "tec-somatic-experiencing", title: "التجربة الجسدية للصدمة", type: "تقنية/تدخل علاجي"
+- id: "tec-somatic-experiencing", title: "التجربة الجسدية للصدمة (SE)", type: "تقنية/تدخل علاجي"
 - id: "tec-gestalt-bodywork", title: "عمل الجسد الجشطالتي", type: "تقنية/تدخل علاجي"
 - id: "tec-rolfing", title: "الرولفينغ والتكامل الهيكلي الجسدي", type: "تقنية/تدخل علاجي"
 - id: "br-biodynamic-psychology", title: "علم النفس البيودينامي والتدليك الحركي (بويسن)", type: "تيار"

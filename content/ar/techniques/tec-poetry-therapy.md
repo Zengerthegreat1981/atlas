@@ -20,7 +20,7 @@ related:
 - id: "thk-jpennebaker", title: "جيمس و. بينيبيكر", type: "مفكر"
 - id: "br-expressive-arts-therapy", title: "الفنون التعبيرية التعددية (Intermodal Expressive Arts)", type: "تيار"
 - id: "tec-bibliotherapy", title: "العلاج بالقراءة والبيبليوثيرابيا", type: "تقنية/تدخل علاجي"
-- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "نموذج نيكولاس مازا التفاعلي ثلاثي الأبعاد: الاستقبالي/الإملائي، التعبيري/الإبداعي، والرمزي/الطقوسي."
 ---

@@ -17,8 +17,8 @@ related:
 - id: "tec-act-def-titchener-s-repetition", title: "تكرار تيتشنر", type: "تقنية/تدخل علاجي"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
-- id: "dis-social-anxiety-disorder", title: "اضطراب القلق الاجتماعي", type: "اضطراب"
-- id: "dis-illness-anxiety", title: "قلق المرض", type: "اضطراب"
+- id: "dis-social-anxiety-disorder", title: "اضطراب القلق الاجتماعي", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-illness-anxiety", title: "قلق المرض", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا توجد دراسة محددة موثّقة في الأطلس تختبر غناء الأفكار بمعزل عن باقي حزمة ACT، فـevidence_level هنا تحفظي (experimental)."

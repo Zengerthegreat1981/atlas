@@ -18,9 +18,9 @@ edges:
 - rel: "split_into", target: "sch-marxism-structuralist", target_type: "مدرسة"
 - rel: "split_into", target: "sch-marxism-humanist", target_type: "مدرسة"
 related:
-- id: "sch-frankfurt-school", title: "النظرية النقدية / مدرسة فرانكفورت", type: "مدرسة"
-- id: "sch-marxism-structuralist", title: "الماركسية البنيوية", type: "مدرسة"
-- id: "sch-marxism-humanist", title: "الماركسية الإنسانية", type: "مدرسة"
+- id: "sch-frankfurt-school", title: "النظرية النقدية / مدرسة فرانكفورت (Frankfurter Schule)", type: "مدرسة"
+- id: "sch-marxism-structuralist", title: "الماركسية البنيوية (Structuralist Marxism / Marxisme structuraliste)", type: "مدرسة"
+- id: "sch-marxism-humanist", title: "الماركسية الإنسانية (Humanist Marxism / Marxisme humaniste)", type: "مدرسة"
 gaps:
   - "**فُرِّغ حقلُ الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existentialism` ختماً قالبياً، ولا صلةَ لهذا الملفّ بالوجودية — مجالُه «الفلسفة / الماركسية الغربية مدرسةٌ مستقلّة». و**لا مدرسةَ لهذا المجال في الأطلس** تُنسب إليه، فبقي الحقلُ فارغاً على اصطلاح المستودع؛ ولم يُوضَع أبٌ تقريبيٌّ لأنّ أباً خاطئاً أسوأُ من غياب أب."
   - "مصطلح 'الماركسية الغربية' يشير في الأصل إلى كتاب Perry Anderson (*Considerations on Western Marxism*, 1976)، ومجاله غير محصور بدقة."

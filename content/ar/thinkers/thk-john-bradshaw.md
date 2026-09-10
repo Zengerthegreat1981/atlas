@@ -23,7 +23,7 @@ related:
 - id: "con-shame-self-criticism", title: "الخزي ونقد الذات", type: "مفهوم"
 - id: "thk-berne", title: "إريك بيرن", type: "مفكر"
 - id: "thk-elizabeth-loftus", title: "إليزابيث لوفتوس", type: "مفكر"
-- id: "dbt-recovered-memory-validity", title: "جدل الذاكرة المُستعادة: حقيقية أم زائفة؟", type: "مناظرة"
+- id: "dbt-recovered-memory-validity", title: "جدل الذاكرة المُستعادة: حقيقية أم زائفة؟", type: "جدل"
 - id: "con-ifs-parts-self-leadership", title: "نموذج الأجزاء والذات القائدة في نظام الأسرة الداخلية (IFS)", type: "مفهوم"
 - id: "thk-young-jeffrey", title: "جيفري يونغ", type: "مفكر"
 - id: "thk-pgilbert", title: "بول جيلبرت", type: "مفكر"

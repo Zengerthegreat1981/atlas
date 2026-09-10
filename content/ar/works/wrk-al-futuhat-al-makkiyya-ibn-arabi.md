@@ -18,7 +18,7 @@ edges:
 - rel: "authored_by", target: "thk-ibn-arabi", target_type: "مفكر"
 related:
 - id: "thk-ibn-arabi", title: "محيي الدين بن عربي (الشيخ الأكبر)", type: "مفكر"
-- id: "sch-akbari", title: "المدرسة الأكبرية", type: "مدرسة"
+- id: "sch-akbari", title: "المدرسة الأكبرية (مدرسة الإمبراطور أكبر المغولي)", type: "مدرسة"
 - id: "wrk-fusus-al-hikam-ibn-arabi", title: "فصوص الحكم لمحيي الدين بن عربي", type: "عمل / كتاب"
 - id: "con-wahdat-al-wujud", title: "وحدة الوجود", type: "مفهوم"
 - id: "thk-sadr-al-din-al-qunawi", title: "صدر الدين محمد بن إسحاق القونوي", type: "مفكر"

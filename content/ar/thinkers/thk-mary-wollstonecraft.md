@@ -17,7 +17,7 @@ edges:
 - rel: "belongs_to", target: "sch-feminism-liberal", target_type: "مدرسة"
 - rel: "founded", target: "sch-feminism-liberal", target_type: "مدرسة"
 related:
-- id: "sch-enlightenment", title: "فلسفة التنوير", type: "مدرسة"
+- id: "sch-enlightenment", title: "فلسفة التنوير (كمظلة عامة)", type: "مدرسة"
 - id: "con-natural-rights-locke", title: "الحقوق الطبيعية الأصيلة للإنسان (Natural Rights)", type: "مفهوم"
 gaps:
   - "تفاصيل طفولتها في سيبنهامز (Esher) مع الأب العنيف (إدوارد جون) موثّقة بشكل متفاوت."

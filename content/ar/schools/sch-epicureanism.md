@@ -15,10 +15,10 @@ active_start: -306
 active_end: 250
 edges: []
 related:
-- id: "sch-cyrenaic", title: "المدرسة القورينائية", type: "مدرسة"
-- id: "sch-atomism-greek", title: "الذرية اليونانية", type: "مدرسة"
-- id: "sch-stoicism", title: "الرواقية", type: "مدرسة"
-- id: "sch-academic-skepticism", title: "الشك الأكاديمي", type: "مدرسة"
+- id: "sch-cyrenaic", title: "المدرسة القورينائية (Cyrenaic School)", type: "مدرسة"
+- id: "sch-atomism-greek", title: "الذرية اليونانية (Greek Atomism)", type: "مدرسة"
+- id: "sch-stoicism", title: "الرواقية (Stoicism)", type: "مدرسة"
+- id: "sch-academic-skepticism", title: "الشك الأكاديمي (Academic Skepticism)", type: "مدرسة"
 - id: "trm-ataraxia-epicurean-pyrrhonic", title: "الأتاراكسيا (Ataraxia): طمأنينة البال وخلو النفس من الاضطراب", type: "مصطلح لغوي متنازع عليه"
 - id: "br-epicureanism-garden", title: "أبيقورية الحديقة الكلاسيكية — المدرسة الأبيقورية", type: "تيار"
 - id: "br-epicureanism-roman", title: "الأبيقورية الرومانية والإيطالية — المدرسة الأبيقورية", type: "تيار"

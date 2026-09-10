@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
-- id: "syn-charles-bonnet", title: "متلازمة تشارلز بونيه", type: "متلازمة"
+- id: "syn-charles-bonnet", title: "متلازمة تشارلز بونيه (الهلاوس البصرية المعقدة لدى فاقدي البصر)", type: "متلازمة"
 - id: "con-embodied-perception-merleau-ponty", title: "الإدراك المتجسد والجسد المعاش (Embodied Perception)", type: "مفهوم"
 gaps:
   - "معايير التصنيف الدولي لاضطرابات الصداع (ICHD-3) وفرط استثارة القشرة البصرية."

@@ -13,7 +13,7 @@ active_start: 1976
 active_end: 2020
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "br-expressive-arts-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-expressive-arts-therapy", target_type: "تيار"
 related:
 - id: "thk-smcniff", title: "شون ماكنيف", type: "مفكر"
 gaps:

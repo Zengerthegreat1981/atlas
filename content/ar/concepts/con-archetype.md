@@ -19,11 +19,11 @@ related:
 - id: "br-jungian", title: "التحليلية اليونغية", type: "تيار"
 - id: "thk-jjacobi", title: "يولاندا ياكوبي", type: "مفكر"
 - id: "thk-bolen", title: "جين شينودا بولن", type: "مفكر"
-- id: "thk-astevens", title: "أنتوني ستيفنز", type: "مفكر"
+- id: "thk-astevens", title: "أَنتوني ستيفنز", type: "مفكر"
 - id: "con-anima-animus", title: "الأنيما والأنيموس", type: "مفهوم"
 - id: "con-complex", title: "العقدة النفسية المركبة (Complex)", type: "مفهوم"
 - id: "br-family-sandplay", title: "علاج الأسر الرملية", type: "تيار"
-- id: "con-collective-unconscious", title: "اللاوعي الجماعي", type: "مفهوم"
+- id: "con-collective-unconscious", title: "اللاوعي الجماعي (Collective Unconscious)", type: "مفهوم"
 - id: "con-shadow", title: "الظلّ (Shadow)", type: "مفهوم"
 - id: "con-self-jung", title: "الذات (Self) عند يونغ", type: "مفهوم"
 gaps:

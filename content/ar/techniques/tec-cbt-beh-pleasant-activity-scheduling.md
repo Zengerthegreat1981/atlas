@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 evidence_level: "probably-efficacious"
 related:
-- id: "rel-behavioral-activation-depression", title: "التنشيط السلوكي والاكتئاب: من Lewinsohn إلى Jacobson", type: "علاقة"
+- id: "rel-behavioral-activation-depression", title: "التنشيط السلوكي والاكتئاب: من Lewinsohn إلى Jacobson", type: "علاقة بين مدرستين"
 - id: "tec-behavioral-activation", title: "التنشيط السلوكي (BA)", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-graded-task-assignment", title: "تدريج المهام", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-prob-prioritization-time-management", title: "الأولويات وإدارة الوقت", type: "تقنية/تدخل علاجي"

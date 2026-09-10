@@ -10,7 +10,7 @@ active_start: 1970
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "br-primal-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-primal-therapy", target_type: "تيار"
 related:
 - id: "thk-ajanov", title: "آرثر يانوف", type: "مفكر"
 - id: "wrk-janov-primal-scream", title: "الصرخة البدائية (The Primal Scream)", type: "عمل / كتاب"

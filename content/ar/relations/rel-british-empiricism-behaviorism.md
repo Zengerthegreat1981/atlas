@@ -19,8 +19,8 @@ related:
 - id: "thk-jwatson", title: "جون ب. واتسون", type: "مفكر"
 - id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 - id: "thk-ipavlov", title: "إيفان بافلوف", type: "مفكر"
-- id: "sch-lockeanism", title: "اللوكية", type: "مدرسة"
-- id: "sch-humeanism", title: "الهيومية", type: "مدرسة"
+- id: "sch-lockeanism", title: "اللوكية (اللوكية التجريبية)", type: "مدرسة"
+- id: "sch-humeanism", title: "الهيومية (الشكّ التجريبي)", type: "مدرسة"
 - id: "sch-berkeleianism", title: "المثالية الذاتية البركلية", type: "مدرسة"
 - id: "rel-behaviorism-cognitive", title: "السلوكية والمعرفية: الثورة المعرفية داخل السلوكية", type: "علاقة بين مدرستين"
 gaps:

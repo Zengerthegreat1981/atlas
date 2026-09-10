@@ -2,7 +2,7 @@
 slug: "sch-somatic-experiencing"
 id: "SCH-0370"
 type: "مدرسة"
-part: "psychology"
+part: "philosophy"
 level: "متوسط"
 title: "التجربة الجسدية (Somatic Experiencing)"
 en: "Somatic Experiencing (SE)"
@@ -19,14 +19,14 @@ edges:
 - rel: "belongs_to", target: "sch-phenomenology-somatic", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-- id: "con-somatic-experiencing-popular", title: "التجربة الجسدية وتفريغ شحنة الصدمة", type: "مفهوم"
+- id: "con-somatic-experiencing-popular", title: "التجربة الجسدية وتفريغ شحنة الصدمة (Somatic Experiencing)", type: "مفهوم"
 - id: "con-trauma", title: "الصدمة النفسية في التحليلية", type: "مفهوم"
 - id: "con-dissociation", title: "الانفصال (Dissociation)", type: "مفهوم"
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "sch-emdr", title: "إعادة المعالجة عبر حركات العين وتخفيف الأعراض (EMDR)", type: "مدرسة"
 - id: "sch-ifs", title: "نظام الأسرة الداخلية (IFS — Internal Family Systems)", type: "مدرسة"
 - id: "sch-phenomenology-somatic", title: "الظاهراتية الجسدية (Somatic Phenomenology)", type: "مدرسة"
-- id: "thk-plevine", title: "بيتر ليفين (Somatic Experiencing)", type: "مفكر"
+- id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
 - id: "sch-polyvagal-informed-therapy", title: "العلاج المستنير بنظرية البوليفاجال", type: "مدرسة"
 - id: "tec-trauma-discharge-somatic", title: "تقنية تفريغ الصدمة والاهتزاز العضلي التلقائي", type: "تقنية/تدخل علاجي"
 - id: "exp-bessel-van-der-kolk-vietnam-vets", title: "لقاء فان دير كولك بالمحاربين القدامى واكتشاف تجسد الصدمة", type: "خبرة معيشة"
@@ -40,6 +40,7 @@ gaps:
   - "الأدلة التجريبية لـ SE ما تزال في نمو، مع تجارب عشوائية مضبوطة محدودة."
   - "النموذج الآلي العصبي (كيف تكمل استجابة البقاء المُعلَّقة) موثَّق جزئياً."
   - "لم يُدرَج اقتباس مباشر من مصدر أولي في هذه المسودة."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-phenomenology-somatic` موسومٌ «philosophy» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 # التجربة الجسدية (Somatic Experiencing)
 

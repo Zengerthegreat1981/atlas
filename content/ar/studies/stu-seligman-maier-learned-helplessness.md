@@ -15,7 +15,7 @@ main_finding: "الكلاب المعرضة لصدمات كهربائية حتم�
 replication_status: "replicated"
 part: "psychology"
 related:
-- id: "con-learned-helplessness", title: "العجز المتعلم", type: "مفهوم"
+- id: "con-learned-helplessness", title: "العجز المتعلم (Learned Helplessness)", type: "مفهوم"
 - id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"
 - id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"
 gaps:

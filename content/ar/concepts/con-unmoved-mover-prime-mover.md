@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-aristotle", title: "أرسطو", type: "مفكر"
 - id: "thk-aquinas", title: "توما الأكويني", type: "مفكر"
-- id: "wrk-metaphysics-aristotle", title: "الميتافيزيقا لأرسطو (ما بعد الطبيعة)", type: "عمل"
+- id: "wrk-metaphysics-aristotle", title: "الميتافيزيقا لأرسطو (ما بعد الطبيعة)", type: "عمل / كتاب"
 - id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
 - id: "sch-aristotelianism", title: "المشائية / الأرسطية (Aristotelianism)", type: "مدرسة"
 gaps:

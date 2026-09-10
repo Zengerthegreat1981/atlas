@@ -23,7 +23,7 @@ related:
 - id: "tec-act-sac-the-house-of-self-exercise", title: "تمرين بيت الذات", type: "تقنية/تدخل علاجي"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "tec-cbt-cog-thought-defusion", title: "الانفصال عن الأفكار (Defusion)", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-int-perspective-taking", title: "تبنّي منظور الآخر", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-int-perspective-taking", title: "تبنّي منظور الآخر (CBT)", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا يوجد اقتباس نصي مباشر موثّق من هايز أو ماكهيو (Louise McHugh، كتبت مراجعات RFT عن deictic framing وperspective-taking) لصيغة التمرين تحديداً — الوصف مبنيّ على ملخص عام لتقنيات الذات كسياق في أدبيات ACT."
   - "لا توجد تجربة عشوائية محكّمة موثّقة هنا تفحص هذا التمرين بمفرده على اضطرابات الشخصية الثلاثة المذكورة في related — الربط نظري (نقص أخذ المنظور كسمة موصوفة إكلينيكياً لكل منها) لا نتيجة بحثية مباشرة، ولذلك evidence_level محافظ (تجريبي)."

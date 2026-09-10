@@ -12,16 +12,16 @@ active_start: 1970
 active_end: "مستمر"
 edges:
 - rel: "connects", target: "sch-phenomenology", target_type: "مدرسة"
-- rel: "connects", target: "stu-descriptive-phenomenological-method-giorgi", target_type: "دراسة"
+- rel: "connects", target: "stu-descriptive-phenomenological-method-giorgi", target_type: "دراسة وبحث"
 related:
 - id: "sch-phenomenology", title: "الظاهراتية (Phänomenologie)", type: "مدرسة"
-- id: "stu-descriptive-phenomenological-method-giorgi", title: "المنهج الظاهراتي الوصفي (جورجي)", type: "دراسة"
+- id: "stu-descriptive-phenomenological-method-giorgi", title: "المنهج الفينومينولوجي الوصفي (جيورجي)", type: "دراسة وبحث"
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
-- id: "thk-giorgi", title: "أماديو جورجي", type: "مفكر"
-- id: "thk-merleau-ponty", title: "موريس ميرلوبونتي", type: "مفكر"
+- id: "thk-giorgi", title: "أميديو جيورجي", type: "مفكر"
+- id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
 - id: "con-epoche-phenomenological-reduction", title: "الإيبوخي والرد الفينومينولوجي (Epoché / Phenomenological Reduction)", type: "مفهوم"
-- id: "con-lifeworld", title: "العالم المعيش (Lebenswelt)", type: "مفهوم"
-- id: "dbt-qualitative-vs-quantitative-psychology", title: "جدل المنهج النوعي مقابل الكمّي في علم النفس", type: "جدل"
+- id: "con-lifeworld", title: "عالم الحياة (Lebenswelt): العالم المعيش قبل الموضوعي", type: "مفهوم"
+- id: "dbt-qualitative-vs-quantitative-psychology", title: "البحث الكيفي الظاهراتي مقابل القياس الكمي الإحصائي في علم النفس", type: "جدل"
 - id: "rel-husserl-bracketing-phenomenological-interview", title: "الإيبوخيه والوضع بين قوسين في المقابلة الفينومينولوجية", type: "علاقة بين مدرستين"
 gaps:
   - "**كُتب متنه 2026-09-07**: كان الملف من دفعة قالبية. لم يُدمج في `rel-phenomenology-existential-therapy` لأن ذاك يعالج الظاهراتية بوصفها أصلاً للعلاج الوجودي، وهذا يعالجها بوصفها أصلاً لمنهج **بحثي** — وهما مساران متمايزان."

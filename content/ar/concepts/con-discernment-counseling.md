@@ -8,18 +8,19 @@ en: "Discernment Counseling"
 crumb: "المفاهيم ← مدارس علاجية خاصة ← الاستشارة التمييزية"
 active_start: 2010
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
-- rel: "belongs_to", target: "tec-discernment-counseling", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-discernment-counseling", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-wdoherty", title: "بيل دوهرتي", type: "مفكر"
-- id: "br-discernment-counseling", title: "الإرشاد التمييزي (Discernment Counseling)", type: "مدرسة"
-- id: "tec-discernment-counseling", title: "إرشاد التمييز والبت الزوجي", type: "تقنية"
+- id: "br-discernment-counseling", title: "الإرشاد التمييزي (Discernment Counseling)", type: "تيار"
+- id: "tec-discernment-counseling", title: "إرشاد التمييز والبت الزوجي", type: "تقنية/تدخل علاجي"
 - id: "thk-carolyn-dalglish", title: "كارولين دالجليش", type: "مفكر"
 gaps:
   - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "أسماء المطورين المشاركين لدوهرتي (أندرو شنك، كارولين دالجليش، جينا براون، ستيفن تالي، توماس سيلز) موجودة كملفات مفكرين لكن دورهم في تطوير النموذج غير مذكور في متن هذا الملف؛ يلزم توثيقه قبل ربطهم."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-discernment-counseling` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # الاستشارة التمييزية (Discernment Counseling)

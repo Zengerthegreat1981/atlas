@@ -17,7 +17,7 @@ evidence_level: "well-established"
 edges:
   []
 related:
-- id: "ins-bdi-ii", title: "مقياس بيك للاكتئاب", type: "أداة قياس"
+- id: "ins-bdi-ii", title: "مقياس بيك للاكتئاب - الإصدار الثاني", type: "أداة قياس"
 - id: "dis-somatic-symptom-disorder", title: "اضطراب الأعراض الجسدية", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "أبحاث ر. ب. زيغموند وسنايث (A.S. Zigmond & R.P. Snaith 1983) في المستشفيات العامة."

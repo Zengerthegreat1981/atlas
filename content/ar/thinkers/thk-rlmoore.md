@@ -10,7 +10,7 @@ dates: "أمريكا · 1942–2016"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
-active_start: null
+active_start: 1942
 active_end: 2016
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
@@ -19,6 +19,7 @@ related:
 - id: "thk-jbeebe", title: "جون بيب", type: "مفكر"
 gaps:
   - "ظروف نهاية حياته (2016) موثّقة إعلامياً باتهامات بسوء ممارسة إكلينيكية أدت لطرده من C. G. Jung Institute of Chicago ومن IAAP قُبيل وفاته في نفس العام، لكن التفاصيل الدقيقة لم تُراجع من مصدر أولي هنا."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («أمريكا · 1942–2016») فاستُخرجت: 1942."
 ---
 
 # روبرت ل. مور

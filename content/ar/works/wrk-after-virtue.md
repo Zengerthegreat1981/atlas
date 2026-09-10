@@ -22,7 +22,7 @@ edges:
 related:
 - id: "thk-macintyre", title: "ألاسدير ماكنتاير", type: "مفكر"
 - id: "sch-virtue-ethics", title: "أخلاقيات الفضيلة الجديدة (النيوأرسطية)", type: "مدرسة"
-- id: "crt-macintyre-after-virtue", title: "نقد ماكنتاير للحداثة الأخلاقية وفقدان التماسك القيمي", type: "نقد"
+- id: "crt-macintyre-after-virtue", title: "نقد ماكنتاير للحداثة الأخلاقية وفقدان التماسك القيمي", type: "نقد خارجي موثَّق"
 - id: "thk-sandel", title: "مايكل ساندل", type: "مفكر"
 - id: "sch-communitarianism", title: "الجماعاتية", type: "مدرسة"
 - id: "thk-charlestaylor", title: "تشارلز تايلور", type: "مفكر"

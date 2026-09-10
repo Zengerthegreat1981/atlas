@@ -13,7 +13,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-- id: "wrk-highly-sensitive-person", title: "الشخص عالي الحساسية", type: "عمل / كتاب"
+- id: "wrk-highly-sensitive-person", title: "الشخص عالي الحساسية: كيف تزدهر عندما يغمرك العالم", type: "عمل / كتاب"
 - id: "thk-elaine-aron", title: "إيلين آرون", type: "مفكر"
 gaps:
   - "الربط بين سمة HSP والتصوير العصبي الوظيفي للوزة والقشرة الجزيرية."

@@ -6,7 +6,7 @@ level: "مبتدئ"
 title: "نزعة التحقق الذاتي (Actualizing Tendency)"
 en: "Actualizing Tendency"
 crumb: "الإنسانية ← المفاهيم ← نزعة التحقق الذاتي"
-part: "philosophy"
+part: "psychology"
 active_start: null
 active_end: "مستمر"
 edges:
@@ -20,6 +20,7 @@ related:
 gaps:
   - "الفرق الدقيق بين 'Actualizing Tendency' (نزعة) و 'Self-actualization' (تحقق ذاتي) يحتاج سياق تاريخي."
   - "لا يوجد اقتباس مباشر موثوق من روجرز بعد."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-humanistic` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # نزعة التحقق الذاتي (Actualizing Tendency)

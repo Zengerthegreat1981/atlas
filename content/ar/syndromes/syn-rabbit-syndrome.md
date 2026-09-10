@@ -12,7 +12,7 @@ active_end: "مستمر"
 language: "متعدد اللغات"
 edges: []
 related:
-- id: "syn-tardive-dyskinesia", title: "متلازمة خلل الحركة المتأخر", type: "متلازمة"
+- id: "syn-tardive-dyskinesia", title: "متلازمة خلل الحركة المتأخر الدوائية (Tardive Dyskinesia)", type: "متلازمة"
 - id: "dis-schizophrenia", title: "الفصام", type: "اضطراب/حالة إكلينيكية"
 - id: "ins-aims-involuntary-movement", title: "مقياس الحركات اللاإرادية غير الطبيعية (AIMS)", type: "أداة قياس"
 - id: "con-body-schema", title: "مخطط الجسد (Body Schema): النظام اللاواعي للحركة", type: "مفهوم"

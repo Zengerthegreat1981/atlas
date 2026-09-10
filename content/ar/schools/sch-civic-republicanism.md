@@ -17,8 +17,8 @@ edges:
 - rel: "evolved_from", target: "sch-renaissance-humanism", target_type: "مدرسة"
 related:
 - id: "sch-renaissance-humanism", title: "الإنسانية النهضوية", type: "مدرسة"
-- id: "sch-enlightenment", title: "فلسفة التنوير", type: "مدرسة"
-- id: "sch-social-contract", title: "العقد الاجتماعي", type: "مدرسة"
+- id: "sch-enlightenment", title: "فلسفة التنوير (كمظلة عامة)", type: "مدرسة"
+- id: "sch-social-contract", title: "العقد الاجتماعي (كتيار فلسفي سياسي)", type: "مدرسة"
 - id: "sch-classical-liberalism-early", title: "الليبرالية الكلاسيكية المبكرة", type: "مدرسة"
 - id: "thk-montesquieu", title: "مونتسكيو", type: "مفكر"
 - id: "sch-conservatism-philosophical", title: "المحافظية الفلسفية", type: "مدرسة"

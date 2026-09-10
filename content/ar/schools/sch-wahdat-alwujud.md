@@ -15,10 +15,10 @@ active_start: 1160
 active_end: 1400
 edges:
 - rel: "belongs_to", target: "sch-islamic-sufism", target_type: "مدرسة"
-- rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 related:
 - id: "sch-wahdat-alshuhud", title: "وحدة الشهود", type: "مدرسة"
-- id: "sch-akbari", title: "المدرسة الأكبرية", type: "مدرسة"
+- id: "sch-akbari", title: "المدرسة الأكبرية (مدرسة الإمبراطور أكبر المغولي)", type: "مدرسة"
 - id: "sch-ishraqiyya", title: "الإشراقية", type: "مدرسة"
 - id: "thk-jalal-al-din-rumi", title: "جلال الدين الرومي (مولانا)", type: "مفكر"
 - id: "thk-ahmad-sirhindi", title: "الشيخ أحمد السرهندي (المجدد الثاني)", type: "مفكر"

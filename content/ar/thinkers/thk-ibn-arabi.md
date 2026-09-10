@@ -18,7 +18,7 @@ related:
 - id: "exp-ibn-arabi-damascus-visions", title: "رؤى ابن عربي في مكة ودمشق وتدوين الفتوحات المكية", type: "خبرة معيشة"
 - id: "con-wahdat-al-wujud-oneness-of-being", title: "وحدة الوجود العرفانية (Wahdat al-Wujud)", type: "مفهوم"
 - id: "con-wahdat-al-wujud", title: "وحدة الوجود", type: "مفهوم"
-- id: "sch-wahdat-alwujud", title: "العرفان النظري (وحدة الوجود)", type: "مدرسة"
+- id: "sch-wahdat-alwujud", title: "العرفان النظري / وحدة الوجود (المدرسة الأكبرية — الشيخ الأكبر ابن عربي)", type: "مدرسة"
 - id: "sch-ishraqiyya", title: "الإشراقية", type: "مدرسة"
 - id: "wrk-insha-al-dawa-ir-ibn-arabi", title: "إنشاء الدوائر الإحاطية لمحيي الدين بن عربي", type: "عمل / كتاب"
 gaps:

@@ -9,7 +9,7 @@ crumb: "علم نفس الجسد ← الناس ← Bioenergetics في أمري�
 dates: "أمريكا · [غير مؤكد]"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-part: "psychology"
+part: "philosophy"
 active_start: null
 active_end: "مستمر"
 edges:
@@ -23,6 +23,7 @@ related:
 - id: "thk-kelley", title: "تشارلز كيلي", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة في المصادر المتاحة."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-somatic-experiencing` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # ماريانا إيكبيرغ

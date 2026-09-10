@@ -18,7 +18,7 @@ edges:
   []
 related:
 - id: "dbt-categorical-vs-dimensional", title: "جدل التصنيف الفئوي مقابل الأبعادي (نسخة موجزة ومُحالة)", type: "جدل"
-- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-schizophrenia", title: "الفصام", type: "اضطراب/حالة إكلينيكية"
 gaps: []
 ---

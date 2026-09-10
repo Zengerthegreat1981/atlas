@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-karl-popper", title: "سير كارل بوبر", type: "مفكر"
 - id: "sch-phil-science", title: "فلسفة العلم (كمظلة)", type: "مدرسة"
-- id: "wrk-the-logic-of-scientific-discovery-popper", title: "منطق الكشف العلمي لكارل بوبر", type: "عمل"
+- id: "wrk-the-logic-of-scientific-discovery-popper", title: "منطق الكشف العلمي لكارل بوبر", type: "عمل / كتاب"
 - id: "dbt-verification-vs-falsification", title: "التحقق أم التفنيد: أيهما معيار العلمية؟", type: "جدل"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من الترجمة العربية لكتاب بوبر يحدد صياغته الحرفية لمعيار التكذيب."

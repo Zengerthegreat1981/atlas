@@ -15,11 +15,11 @@ crumb: "العلاج الجسدي النفسي ← مؤسِّسون ← ليزب
 edges:
 - rel: "founded", target: "br-bodynamic-analysis", target_type: "تيار"
 related:
-- id: "br-bodynamic-analysis", title: "التحليل البوديناميكي", type: "تيار"
+- id: "br-bodynamic-analysis", title: "التحليل البودينامي وتطور العضلات", type: "تيار"
 - id: "br-biodynamic-psychology", title: "علم النفس البيودينامي والتدليك الحركي (بويسن)", type: "تيار"
 - id: "br-vegetotherapy-orgonomy", title: "العلاج النباتي وطاقة الأورغون (الامتدادات الرايخية)", type: "تيار"
-- id: "thk-reich", title: "فيلهلم رايش", type: "مفكر"
-- id: "br-embodied-relational-therapy", title: "العلاج العلائقي المُجسَّد", type: "تيار"
+- id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
+- id: "br-embodied-relational-therapy", title: "العلاج العلائقي المجسد (ERT)", type: "تيار"
 gaps:
   - "**كُتب متنُه 2026-09-07:** سجّل ملفُّ `br-bodynamic-analysis` غيابَها نصّاً بوصفه «غياباً لافتاً يستحقّ ملفاً»، فكُتب."
   - "**دعوى الخريطة العضلية-النمائية لا سندَ لها** — انظر التحوُّط في المتن؛ ونُقل التحوُّطُ نفسُه من ملفّ التيار."

@@ -15,7 +15,7 @@ edges:
 related:
 - id: "sch-ifs", title: "نظام الأسرة الداخلية (IFS — Internal Family Systems)", type: "مدرسة"
 - id: "thk-richard-schwartz", title: "ريتشارد شوارتز", type: "مفكر"
-- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-emdr", title: "إزالة التحسس وإعادة المعالجة بحركات العين (EMDR)", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا يوجد في الأطلس مدخل stu- مخصص لتجربة Hodgdon, Anderson, Southwell, Hrubec & Schwartz (2022) على PTSD؛ العدد المتاح صغير (n=41) وغير مقارَن بضبط نشط، لذا لا يمكن اعتباره دليلاً حاسماً."

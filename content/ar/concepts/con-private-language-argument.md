@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-ordinary-language", target_type: "مدرسة"
 related:
 - id: "thk-lwittgenstein", title: "لودفيغ فيتغنشتاين", type: "مفكر"
-- id: "wrk-philosophical-investigations-wittgenstein", title: "بحوث فلسفية للودفيغ فيتغنشتاين", type: "عمل"
+- id: "wrk-philosophical-investigations-wittgenstein", title: "بحوث فلسفية للودفيغ فيتغنشتاين", type: "عمل / كتاب"
 - id: "con-language-games-late-wittgenstein", title: "ألعاب اللغة وسياقات الحياة (Language-Games / Sprachspiele)", type: "مفهوم"
 - id: "sch-ordinary-language", title: "فلسفة اللغة العادية", type: "مدرسة"
 gaps:

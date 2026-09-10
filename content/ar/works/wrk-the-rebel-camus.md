@@ -17,7 +17,7 @@ edges:
 - rel: "belongs_to", target: "sch-absurdism", target_type: "مدرسة"
 related:
 - id: "sch-absurdism", title: "العبثية (Absurdism / Le Mythe de Sisyphe)", type: "مدرسة"
-- id: "wrk-myth-sisyphus", title: "أسطورة سيزيف لألبير كامو", type: "عمل / كتاب"
+- id: "wrk-myth-sisyphus", title: "أسطورة سيزيف (Le Mythe de Sisyphe)", type: "عمل / كتاب"
 gaps:
   - "لم يُعثر في هذه المسودة على ثلاثيّ مترجم/دار/سنة موثَّق لطبعة عربية معتمدة لهذا الكتاب، فلم تُثبَت أي ترجمة هنا."
   - "لا يوجد اقتباس مباشر موثوق من طبعة Gallimard 1951 الفرنسية نفسها في هذه المسودة؛ الوصف مبنيّ على عرض ثانوي لمحتوى الكتاب."

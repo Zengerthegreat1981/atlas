@@ -10,13 +10,13 @@ dates: "1934 · ياكوب مورينو"
 language: "الإنجليزية"
 active_start: 1934
 active_end: 1934
-part: "psychology"
+part: "philosophy"
 author: "جاكوب مورينو"
 author_slug: "thk-jmoreno"
 publication_year: 1934
 original_language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "br-psychodrama", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-psychodrama", target_type: "تيار"
 - rel: "authored_by", target: "thk-jmoreno", target_type: "مفكر"
 related:
 - id: "thk-jmoreno", title: "جاكوب مورينو", type: "مفكر"
@@ -24,6 +24,7 @@ related:
 gaps:
   - "لم يتيسّر تثبيت ثلاثيّ مترجم وناشر وسنة لأيّ ترجمة عربية معتمدة لهذا الكتاب، فلا تُسمّى ترجمة هنا."
   - "الطبعتان اللاحقتان (1953، 1978) غيّرتا العنوان الفرعي إلى Foundations of Sociometry, Group Psychotherapy, and Sociodrama وأضافتا مادة موسَّعة؛ تفاصيل الفروق الدقيقة بين الطبعات الثلاث لم تُراجَع بنداً بنداً هنا."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-psychodrama` موسومٌ «philosophy» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # من سيبقى على قيد الحياة؟ (Who Shall Survive?)

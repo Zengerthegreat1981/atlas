@@ -15,8 +15,8 @@ active_start: 1900
 active_end: "مستمر"
 edges: []
 related:
-- id: "sch-negritude", title: "الزنوجة", type: "مدرسة"
-- id: "sch-afrocentrism", title: "أفريقية المركز", type: "مدرسة"
+- id: "sch-negritude", title: "الزنوجة (Négritude)", type: "مدرسة"
+- id: "sch-afrocentrism", title: "أفريقية المركز (Afrocentrism)", type: "مدرسة"
 - id: "sch-african-national-ideology", title: "الفلسفة الوطنية-الأيديولوجية الأفريقية", type: "مدرسة"
 - id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
 gaps:

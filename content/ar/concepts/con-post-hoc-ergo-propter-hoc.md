@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-humeanism", target_type: "مدرسة"
 related:
 - id: "thk-hume", title: "ديفيد هيوم", type: "مفكر"
-- id: "wrk-treatise-of-human-nature-hume", title: "رسالة في الطبيعة البشرية لديفيد هيوم", type: "عمل"
+- id: "wrk-treatise-of-human-nature-hume", title: "رسالة في الطبيعة البشرية لديفيد هيوم", type: "عمل / كتاب"
 - id: "sch-humeanism", title: "الهيومية (الشكّ التجريبي)", type: "مدرسة"
 - id: "con-fallacy-of-affirming-consequent", title: "مغالطة إثبات التالي الصورية (Affirming the Consequent)", type: "مفهوم"
 - id: "con-sunk-cost-fallacy", title: "مغالطة التكلفة الغارقة (التمسك بالخسائر والخيارات الفاشلة)", type: "مفهوم"

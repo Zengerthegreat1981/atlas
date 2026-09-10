@@ -15,8 +15,8 @@ active_start: 1872
 active_end: 1900
 active_source: "lifespan"
 edges:
-- rel: "belongs_to", target: "sch-pessimism", target_type: "مظلة"
-- rel: "evolved_into", target: "sch-existentialism", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-pessimism", target_type: "مدرسة"
+- rel: "evolved_into", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"

@@ -18,8 +18,8 @@ edges:
 related:
 - id: "thk-jingqiyong", title: "يانغ ديشن", type: "مفكر"
 - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
-- id: "con-mindfulness", title: "اليقظة الذهنية", type: "مفهوم"
-- id: "con-dialectics", title: "الجدل", type: "مفهوم"
+- id: "con-mindfulness", title: "اليقظة الذهنية (Mindfulness)", type: "مفهوم"
+- id: "con-dialectics", title: "الجدلية (Dialektik)", type: "مفهوم"
 gaps:
   - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` اسماً نصّياً «العلاج المعرفي الطاوي» لا يُحلّ إلى ملفّ، وقد أُنشئت المدرسةُ `sch-taoist-cognitive-therapy` فأُسند الانتماءُ إليها."
   - "إحالة معلَّقة أُزيلت: «الطاوية المعرفية» (sch-taoist-cognitive-therapy) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."

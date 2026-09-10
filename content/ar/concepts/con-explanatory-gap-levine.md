@@ -12,13 +12,13 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-phil-mind-analytic", target_type: "مدرسة"
 related:
-- id: "con-hard-problem-of-consciousness", title: "المشكلة الصعبة للوعي", type: "مفهوم"
-- id: "con-qualia", title: "الكواليا", type: "مفهوم"
-- id: "dbt-mind-body-dualism-vs-physicalism", title: "جدل الثنائية مقابل الفيزيائية", type: "جدل"
-- id: "con-mind-body", title: "إشكالية العقل والجسد", type: "مفهوم"
+- id: "con-hard-problem-of-consciousness", title: "المشكلة الصعبة للوعي والكواليا (The Hard Problem of Consciousness)", type: "مفهوم"
+- id: "con-qualia", title: "الكواليا (Qualia): الكيف المتعالي للتجربة", type: "مفهوم"
+- id: "dbt-mind-body-dualism-vs-physicalism", title: "جدل مشكلة العقل والجسد: الثنائية مقابل الفيزيائية والمادية", type: "جدل"
+- id: "con-mind-body", title: "مشكلة العقل والجسد", type: "مفهوم"
 - id: "thk-david-chalmers", title: "ديفيد تشالمرز", type: "مفكر"
 - id: "thk-daniel-dennett", title: "دانيال دينيت", type: "مفكر"
-- id: "sch-phil-mind-analytic", title: "فلسفة العقل التحليلية", type: "مدرسة"
+- id: "sch-phil-mind-analytic", title: "فلسفة العقل التحليلية (كمظلة)", type: "مدرسة"
 gaps:
   - "**كُتب متنه 2026-09-07.** والفجوةُ المسجَّلة كانت تنصّ على أن **جوزيف ليفين** صائغَ المصطلح (1983) بلا ملفِ مفكّرٍ في الأطلس فتعذّر ربطُه — وهي فجوةٌ قائمة: هو مذكورٌ في المتن والمصادر ولا يمكن ربطُه، ويستحقّ ملفاً مستقلاً."
   - "التمييزُ الحاسم بين الفجوة التفسيرية (دعوى **إبستمولوجية** عن حدود التفسير) والمشكلة الصعبة (تُقرأ غالباً دعوى **أنطولوجية**) معروضٌ هنا؛ ولا يزال محلَّ نقاشٍ هل هما مسألةٌ واحدة أم مسألتان."

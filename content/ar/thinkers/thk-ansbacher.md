@@ -10,7 +10,7 @@ dates: "ألمانيا / أمريكا · 1904–2006"
 country: "الولايات المتحدة"
 language: "الألمانية / الإنجليزية"
 part: "psychology"
-active_start: null
+active_start: 1904
 active_end: 2006
 edges:
 - rel: "belongs_to", target: "br-adlerian", target_type: "تيار"
@@ -21,6 +21,7 @@ related:
 gaps:
   - "تفاصيل عمل آنسْباخِر مع Rowena في إصداراته اللاحقة (السنوات 1980–2000) تحتاج توثيقاً."
   - "لا يوجد اقتباس مباشر موثوق من *The Individual Psychology of Alfred Adler* (1956) بترجمة عربية معتمدة."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («ألمانيا / أمريكا · 1904–2006») فاستُخرجت: 1904."
 ---
 
 # هاينز ل. آنسْباخِر

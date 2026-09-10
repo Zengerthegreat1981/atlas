@@ -19,7 +19,7 @@ related:
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 - id: "tec-dbt-daily-daily-mindfulness-check-in", title: "تسجيل يقظة يومي", type: "تقنية/تدخل علاجي"
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
-- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب"
+- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-cbt-mind-cbt-thought-log-thought-record", title: "سجل الأفكار المعرفي", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا توجد دراسة منفصلة تعزل أثر بطاقة اليوميات نفسها عن حزمة DBT الكاملة؛ فعاليتها الرقمية مستمدة من تجارب DBT ككل لا من البطاقة وحدها."

@@ -21,7 +21,7 @@ edges:
 related:
 - id: "thk-klew", title: "كورت لوين", type: "مفكر"
 - id: "sch-social-psychology", title: "علم النفس الاجتماعي (Social Psychology)", type: "مدرسة"
-- id: "stu-lewin-leadership-climates", title: "دراسة كيرت ليفين للمناخات والأنماط القيادية الثلاثة (1939)", type: "دراسة"
+- id: "stu-lewin-leadership-climates", title: "دراسة كيرت ليفين للمناخات والأنماط القيادية الثلاثة (1939)", type: "دراسة وبحث"
 - id: "thk-dcartwright", title: "دوروين كارترايت", type: "مفكر"
 gaps:
   - "الفهرس الكامل للمقالات المضمّنة في طبعة 1948 (عددها وترتيبها الدقيق) لم يُقابَل على نسخة من الطبعة الأصلية."

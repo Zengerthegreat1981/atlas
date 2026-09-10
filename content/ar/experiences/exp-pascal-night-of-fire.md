@@ -13,8 +13,8 @@ edges:
 - rel: "relates_to", target: "sch-existentialism-religious", target_type: "مدرسة"
 related:
 - id: "thk-pascal", title: "بليز باسكال", type: "مفكر"
-- id: "wrk-pensees-pascal", title: "خواطر بليز باسكال (Pensées)", type: "عمل"
-- id: "crt-pascal-critique-of-cartesian-rationalism", title: "نقد باسكال للعقلانية الديكارتية والربوبية الجافة", type: "نقد"
+- id: "wrk-pensees-pascal", title: "خواطر بليز باسكال (Pensées)", type: "عمل / كتاب"
+- id: "crt-pascal-critique-of-cartesian-rationalism", title: "نقد باسكال للعقلانية الديكارتية والربوبية الجافة", type: "نقد خارجي موثَّق"
 gaps:
   - "نص الميموريال الأصلي بالفرنسية واللاتينية المُختلطة لم يُدرج كاملاً هنا؛ الترجمة المقدَّمة مقتطفة ومختصرة."
 ---

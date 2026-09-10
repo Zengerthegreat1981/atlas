@@ -19,8 +19,8 @@ edges:
 related:
 - id: "sch-ai-ethics", title: "أخلاقيات الذكاء الاصطناعي", type: "مدرسة"
 - id: "thk-paul-ekman", title: "بول إيكمان", type: "مفكر"
-- id: "stu-ekman-original-facial", title: "دراسات إكمان الأصلية عن عالمية تعبيرات الوجه", type: "دراسة"
-- id: "stu-himba-facial", title: "دراسة الهيمبا حول تصنيف تعبيرات الوجه", type: "دراسة"
+- id: "stu-ekman-original-facial", title: "دراسات إكمان الأصلية عن عالمية تعبيرات الوجه", type: "دراسة وبحث"
+- id: "stu-himba-facial", title: "دراسة الهيمبا حول تصنيف تعبيرات الوجه", type: "دراسة وبحث"
 - id: "thk-floridi", title: "لوشيانو فلوريدي", type: "مفكر"
 gaps:
   - "لم يثبت وجود ترجمة عربية منشورة لهذا العمل: بُحث عن مترجم وناشر وسنة ولم يُعثر على أيٍّ منها."

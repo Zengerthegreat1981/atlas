@@ -18,14 +18,14 @@ edges:
 - rel: "developed", target: "sch-eft", target_type: "مدرسة"
 related:
 - id: "sch-eft", title: "العلاج المتمحور حول المشاعر (EFT)", type: "مدرسة"
-- id: "sch-eft-couples", title: "العلاج الزوجي المتمحور حول المشاعر", type: "مدرسة"
+- id: "sch-eft-couples", title: "العلاج الزوجي المتمحور حول المشاعر (EFT for Couples)", type: "مدرسة"
 - id: "thk-lrice", title: "لورا نورين رايس", type: "مفكر"
 - id: "thk-sjohnson", title: "سو جونسون", type: "مفكر"
 - id: "thk-gendlin", title: "يوجين جندلين", type: "مفكر"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-- id: "con-two-chair-dialogue", title: "تقنية الكرسيين", type: "مفهوم"
+- id: "con-two-chair-dialogue", title: "تقنية الكرسيين (حوار الكرسيين)", type: "مفهوم"
 - id: "con-empty-chair", title: "تقنية الكرسي الفارغ", type: "مفهوم"
-- id: "con-primary-emotion", title: "الانفعالات الأولية", type: "مفهوم"
+- id: "con-primary-emotion", title: "الانفعالات الأولية (Adaptive / Primary Emotions)", type: "مفهوم"
 - id: "tec-process-experiential-tasks", title: "المهام العلاجية بالانفعال (Emotion-Focused Tasks)", type: "تقنية/تدخل علاجي"
 gaps:
   - "ازدواج مؤكَّد: هذا الملف (THK-1111) يصف الشخص نفسه الموصوف في content/ar/thinkers/thk-lgreenberg.md (THK-2239، 'ليزلي غرينبرغ') — نفس تاريخ الميلاد (1945)، نفس بلد النشاط (كندا)، نفس تأسيس EFT مع لورا رايس وسو جونسون. اكتُشف الازدواج في دفعة 4.33 وسُجِّل في ملف thk-lgreenberg.md أيضاً. يلزم قرار توحيد/دمج من رئيس التحرير؛ لم يُحذف أو يُدمج هذا الملف لأن القرار خارج نطاق هذه المهمة. ملف thk-lgreenberg.md أكثر توثيقاً (تاريخ ميلاد دقيق 30 سبتمبر 1945 في جوهانسبرغ، جنوب أفريقيا، مع مصادر) وقد يكون هو النسخة المرجعية المرشحة للإبقاء."

@@ -11,7 +11,7 @@ country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 2000
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-performance-psychology", target_type: "تيار"
 related:
@@ -20,6 +20,7 @@ related:
 gaps:
   - "سنة ميلاده الدقيقة غير مؤكدة في المصادر المتاحة."
   - "لا يوجد اقتباس مباشر موثوق منسوب له بنص وسنة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-performance-psychology` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # بيتر كلاف

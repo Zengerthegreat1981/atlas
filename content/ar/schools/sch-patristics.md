@@ -17,7 +17,7 @@ edges:
 - rel: "evolved_from", target: "sch-middle-platonism", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-judaism-hellenistic", target_type: "مدرسة"
 related:
-- id: "sch-middle-platonism", title: "الأفلاطونية الوسطى", type: "مدرسة"
+- id: "sch-middle-platonism", title: "الأفلاطونية الوسطى (Middle Platonism)", type: "مدرسة"
 - id: "sch-augustinianism", title: "الأوغسطينية", type: "مدرسة"
 - id: "sch-apophatic", title: "اللاهوت السلبي / الأبوفاتي", type: "مدرسة"
 - id: "sch-byzantine", title: "الفلسفة البيزنطية", type: "مدرسة"

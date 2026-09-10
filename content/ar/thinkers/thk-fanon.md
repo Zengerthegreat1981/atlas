@@ -25,7 +25,7 @@ related:
 - id: "thk-mannoni", title: "أوكتاف مانوني", type: "مفكر"
 - id: "br-critical-liberation-therapy", title: "العلاج النقدي-التحرري", type: "تيار"
 - id: "ctx-civil-rights-liberation-psychology", title: "حركة الحقوق المدنية وتأسيس علم النفس التحرري ونقد المركزية", type: "سياق/تقليد"
-- id: "sch-decolonial-philosophy", title: "الفلسفة الديكولونيالية", type: "مدرسة"
+- id: "sch-decolonial-philosophy", title: "الفلسفة الديكولونيالية (كمظلة عالمية)", type: "مدرسة"
 - id: "rel-marxism-critical-psychology", title: "العلاقة بين المادية الماركسية وعلم النفس النقدي والتحرري", type: "علاقة بين مدرستين"
 - id: "ctx-african-colonial-partition-berlin", title: "مؤتمر برلين (1884) وتقسيم إفريقيا وتأسيس العنف الاستعماري", type: "سياق/تقليد"
 - id: "ctx-algerian-revolution-fanon-anti-colonialism", title: "الثورة الجزائرية ونضال التحرر وتأسيس الفكر المناهض للاستعمار", type: "سياق/تقليد"
@@ -33,7 +33,7 @@ related:
 - id: "ctx-haitian-revolution-black-jacobins", title: "الثورة الهايتية (1791) وإسقاط العبودية وتحدي التنوير الأوروبي", type: "سياق/تقليد"
 - id: "thk-imartinbaro", title: "إغناثيو مارتن-بارو", type: "مفكر"
 - id: "thk-pfreire", title: "باولو فريري", type: "مفكر"
-- id: "con-decolonizing-therapy", title: "العلاج اللااستعماري", type: "مفهوم"
+- id: "con-decolonizing-therapy", title: "العلاج اللااستعماري (Decolonizing Therapy)", type: "مفهوم"
 - id: "rel-fanon-colonial-neurosis-multicultural-counseling", title: "العصاب الاستعماري لفانون والإرشاد متعدد الثقافات", type: "علاقة بين مدرستين"
 gaps:
   - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-liberation-psychology` بحسب المجال المُصحَّح في مسار التنقّل («علم نفس التحرر»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
@@ -44,6 +44,8 @@ gaps:
   - "كتاباته الطبّية-النفسية المنشورة في *L'Information psychiatrique* عن ممارسته في البليدة — ومنها تجربته في «العلاج المؤسسي» وإصلاح العنبر — تستحق ملفّاً مستقلاً؛ الحاضر منه هنا هو فانون المُنظِّر لا فانون الطبيب."
   - "دُمج معه الملف المكرَّر thk-frantz-fanon (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
   - "دُمج معه الملف المكرَّر thk-frantz-fanon-psy (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-liberation-psychology` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-liberation-psychology` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 # فرانتز فانون
 

@@ -12,8 +12,8 @@ active_end: "مستمر"
 language: "متعدد اللغات"
 edges: []
 related:
-- id: "dis-persistent-depressive-disorder", title: "اضطراب الاكتئاب المستمر", type: "اضطراب/حالة إكلينيكية"
-- id: "wrk-mating-in-captivity", title: "التزاوج في الأسر", type: "عمل / كتاب"
+- id: "dis-persistent-depressive-disorder", title: "اضطراب الاكتئاب المستمر (عسر المزاج)", type: "اضطراب/حالة إكلينيكية"
+- id: "wrk-mating-in-captivity", title: "التزاوج في الأسر: سيكولوجيا الرغبة في العلاقات الطويلة", type: "عمل / كتاب"
 - id: "con-pleasure", title: "اللذة", type: "مفهوم"
 gaps:
   - "أبحاث هيلين سينغر كابلان (Helen Singer Kaplan 1979) وإدراجها في معايير DSM-III وDSM-5-TR."

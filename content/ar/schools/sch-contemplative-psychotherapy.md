@@ -16,13 +16,13 @@ active_end: "مستمر"
 edges:
 - rel: "grounded_in", target: "sch-buddhist-psychology", target_type: "مدرسة"
 related:
-- id: "sch-buddhist-psychology", title: "علم النفس البوذي", type: "مدرسة"
-- id: "thk-ctrungpa", title: "شوغيام ترونغبا", type: "مفكر"
+- id: "sch-buddhist-psychology", title: "علم النفس البوذي (Buddhist Psychology)", type: "مدرسة"
+- id: "thk-ctrungpa", title: "تشوغيام ترونغبا", type: "مفكر"
 - id: "thk-jkornfield", title: "جاك كورنفيلد", type: "مفكر"
 - id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
-- id: "con-mindfulness", title: "اليقظة الذهنية", type: "مفهوم"
-- id: "sch-engaged-buddhism", title: "البوذية المُشرِكة", type: "مدرسة"
-- id: "sch-transpersonal", title: "علم النفس عبر الشخصي", type: "مدرسة"
+- id: "con-mindfulness", title: "اليقظة الذهنية (Mindfulness)", type: "مفهوم"
+- id: "sch-engaged-buddhism", title: "البوذية المنخرطة اجتماعياً", type: "مدرسة"
+- id: "sch-transpersonal", title: "علم النفس عبر الشخصي (Transpersonal Psychology)", type: "مدرسة"
 gaps:
   - "**أُنشئ هذا الملف 2026-09-08:** كان اسمُ «العلاج النفسي التأملي» يُستعمل أباً نصّياً في `belongs_to` لملفّ جاك كورنفيلد بلا ملفٍّ يقابله."
   - "**تنبيهٌ على موضع كورنفيلد:** كورنفيلد من **تقليد البصيرة** (Insight Meditation / Vipassanā) ومن مؤسِّسي *Insight Meditation Society*، وهو تقليدٌ **متمايزٌ** عن مدرسة ناروبا التيبتية. ورُبط هنا لأنه كان يُعلن هذه المدرسةَ أباً في المستودع، ولأنّ الحقلَ يُستعمل مظلّةً جامعة — **لا لأنه من مدرسة ناروبا**."

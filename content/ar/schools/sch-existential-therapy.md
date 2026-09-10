@@ -17,7 +17,7 @@ edges:
 - rel: "evolved_from", target: "sch-existentialism", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-phenomenology", target_type: "مدرسة"
 related:
-- id: "sch-humanistic", title: "علم النفس الإنساني", type: "مدرسة"
+- id: "sch-humanistic", title: "علم النفس الإنساني (Humanistic Psychology)", type: "مدرسة"
 - id: "evt-egaz-moniz-nobel-lobotomy-1949", title: "منح إيغاس مونيز جائزة نوبل لجراحة الفص الجبهي وصعود وحظر اللوبوتومي", type: "حدث تاريخي"
 - id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
 - id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
@@ -34,7 +34,7 @@ related:
 - id: "thk-marcel", title: "غابرييل مارسِل", type: "مفكر"
 - id: "thk-dilthey", title: "فيلهلم دلتاي", type: "مفكر"
 - id: "dia-lacan-heidegger-anxiety-seminar", title: "سيمينار لاكان العاشر حول القلق: حوار خفي مع هايدجر", type: "حوار مع مدرسة مجاورة"
-- id: "thk-stirner", title: "ماكس شتيرنر (يوهان كاسبار شميت)", type: "مفكر"
+- id: "thk-stirner", title: "ماكس شتيرنر", type: "مفكر"
 - id: "exp-may-sanatorium-anxiety", title: "سرد رولو ماي الذاتي لخبرة العزلة والقلق الوجودي في مصحة السل", type: "خبرة معيشة"
 - id: "que-why-is-there-suffering-existential", title: "لماذا نتألم وكيف نحول المعاناة التراجيدية إلى إنجاز إنساني وبصيرة؟", type: "سؤال توليدي"
 - id: "thk-young", title: "سارة يونغ", type: "مفكر"

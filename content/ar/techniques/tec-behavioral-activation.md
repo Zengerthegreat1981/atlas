@@ -17,7 +17,7 @@ edges:
 related:
 - id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي (ABA)", type: "تيار"
 - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
-- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 evidence_level: "well-established"
 gaps:
   - "نموذج TRAP (المحفز، الاستجابة، نمط التجنب) ونموذج TRAC البديل للتغلب على الانسحاب الاكتئابي لم يُفصَّل هنا."

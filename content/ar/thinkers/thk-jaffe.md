@@ -5,22 +5,24 @@ type: "مفكر"
 level: "متقدم"
 title: "أنييلا يافّه"
 en: "Aniela Jaffé"
-crumb: "مدرسة التحليل النفسي ← الناس ← أنييلا يافّه"
+crumb: "التحليل النفسي ← الناس ← أنييلا يافّه"
 dates: "ألمانيا / سويسرا · 1903–1991"
 country: "سويسرا"
 language: "الألمانية"
 part: "psychology"
-active_start: null
+active_start: 1903
 active_end: 1991
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-ejung", title: "إيما يونغ", type: "مفكر"
-- id: "con-parapsychology", title: "ما وراء علم النفس والظواهر الخارقة", type: "مفهوم"
+- id: "con-parapsychology", title: "ما وراء علم النفس والظواهر الخارقة في التقليد اليونغي", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *The Myth of Meaning* (1970) بترجمة عربية معتمدة."
   - "صدر كتاب المحادثات الكاملة بين يونغ ويافّه، «Jung's Life and Work: Interviews for Memories, Dreams, Reflections with Aniela Jaffé» (تحرير Sonu Shamdasani، سلسلة Philemon Foundation)، عن Princeton University Press في 2 ديسمبر 2025 — يحتوي أكثر من ضعف ما استُخدم في «ذكريات، أحلام، تأملات»، ويستحق تلخيصاً مستقلاً لاحقاً."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («ألمانيا / سويسرا · 1903–1991») فاستُخرجت: 1903."
+  - "**وُحِّد مسارُ التنقّل 2026-09-10:** كان «مدرسة التحليل النفسي» وصار «التحليل النفسي» — لأنّ الجذرَ كان منقسماً بين صيغتين للشيء نفسِه، فيعرض فهرسُ التصفّح موضعين لموضعٍ واحد."
 ---
 
 # أنييلا يافّه

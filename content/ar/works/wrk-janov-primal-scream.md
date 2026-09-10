@@ -17,7 +17,7 @@ original_language: "الإنجليزية"
 active_start: 1970
 active_end: 1970
 edges:
-- rel: "belongs_to", target: "br-primal-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-primal-therapy", target_type: "تيار"
 related:
 - id: "thk-ajanov", title: "آرثر يانوف", type: "مفكر"
 - id: "con-primal-pain", title: "الألم البدائي", type: "مفهوم"

@@ -16,9 +16,9 @@ cultural_origin: "greek"
 edges:
 - rel: "evolved_into", target: "sch-middle-platonism", target_type: "مدرسة"
 related:
-- id: "sch-milesian", title: "المدرسة الميليسية", type: "مدرسة"
-- id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية", type: "مدرسة"
-- id: "sch-middle-platonism", title: "الأفلاطونية الوسطى", type: "مدرسة"
+- id: "sch-milesian", title: "المدرسة الميليسية (ما قبل سقراط الطبيعية)", type: "مدرسة"
+- id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية (القديمة/الوسطى/الجديدة الشكية)", type: "مدرسة"
+- id: "sch-middle-platonism", title: "الأفلاطونية الوسطى (Middle Platonism)", type: "مدرسة"
 - id: "thk-archytas", title: "أرخيتاس التارنتي", type: "مفكر"
 - id: "thk-pythagoras", title: "فيثاغورس الساموسي", type: "مفكر"
 - id: "thk-philolaus", title: "فيلولاوس الكروتوني", type: "مفكر"

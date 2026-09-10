@@ -9,7 +9,7 @@ crumb: "التحليل النفسي ← الناس ← Independent Group ← ر�
 dates: "بريطانيا · [غير مؤكد]"
 country: "المملكة المتحدة"
 language: "الإنجليزية"
-part: "philosophy"
+part: "psychology"
 active_start: null
 active_end: "مستمر"
 edges:
@@ -19,6 +19,7 @@ related:
 - id: "thk-fairbairn", title: "رونالد فَيرْبيرن", type: "مفكر"
 gaps:
   - "سنة الميلاد الدقيقة وحالته (حي/متوفى) غير مؤكدتين في المصادر المتاحة — `active_end: مستمر` غير مثبت."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # رونالد بِرِتن

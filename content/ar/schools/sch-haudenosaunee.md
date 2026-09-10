@@ -15,9 +15,9 @@ active_start: 1100
 active_end: "مستمر"
 active_source: "lifespan"
 related:
-- id: "sch-kaupapa-maori", title: "Kaupapa Māori", type: "مدرسة"
-- id: "sch-dreamtime", title: "Dreaming / Dreamtime", type: "مدرسة"
-- id: "sch-north-american-indigenous", title: "فلسفات السكان الأصليين بأمريكا الشمالية", type: "مدرسة"
+- id: "sch-kaupapa-maori", title: "Kaupapa Māori (فلسفة الماوري)", type: "مدرسة"
+- id: "sch-dreamtime", title: "Dreaming / Dreamtime (فلسفة السكان الأصليين الأستراليين)", type: "مدرسة"
+- id: "sch-north-american-indigenous", title: "فلسفات السكان الأصليين بأمريكا الشمالية (لاكوتا، نافاهو، أوجيبوي… كمظلة)", type: "مدرسة"
 gaps:
   - "نصوص الإنشاء الكبير (The Great Law) وJeff Lehman need review."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

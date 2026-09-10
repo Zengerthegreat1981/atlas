@@ -11,14 +11,14 @@ country: "كندا"
 language: "الإنجليزية"
 active_start: 2000
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "tec-focusing-oriented", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
 - id: "thk-gendlin", title: "يوجين جندلين", type: "مفكر"
 - id: "thk-lwittgenstein", title: "لودفيغ فيتغنشتاين", type: "مفكر"
-- id: "tec-focusing-oriented", title: "العلاج الموجه بالتركيز والإحساس المعيش", type: "تقنية"
+- id: "tec-focusing-oriented", title: "العلاج الموجه بالتركيز والإحساس المعيش", type: "تقنية/تدخل علاجي"
 - id: "con-felt-sense", title: "الإحساس الجسدي المُحسَّس (Felt Sense)", type: "مفهوم"
 gaps:
   - "سنة الميلاد ومكانه غير مذكورين في هذا المدخل، ولم يُعثر على إسناد لهما في السِيَر المهنية العامة."
@@ -26,6 +26,7 @@ gaps:
   - "الناقص من *The Focusing Manual* (2007): بيانات الناشر والطبعة، ولا تُعرف له ترجمة عربية."
   - "الناقص عن *Wittgenstein and Psychotherapy* (2014): مراجعات نقدية منشورة يمكن الإحالة إليها لتقدير أثر الكتاب."
   - "لم يُوثَّق في هذا الملف تاريخ محدَّد لتأسيس برنامج التركيز في إيست أنجليا ولا سنوات إدارته له."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-focusing-oriented` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # كامبيل پيرتون

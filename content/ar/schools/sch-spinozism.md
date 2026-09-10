@@ -14,11 +14,11 @@ cultural_origin: "european"
 active_start: 1660
 active_end: 1750
 edges:
-- rel: "belongs_to", target: "sch-continental-rationalism", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-continental-rationalism", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-cartesianism", target_type: "مدرسة"
 related:
 - id: "sch-cartesianism", title: "الديكارتية", type: "مدرسة"
-- id: "sch-continental-rationalism", title: "العقلانية القارية", type: "مدرسة"
+- id: "sch-continental-rationalism", title: "العقلانية القارية (كمظلة)", type: "مدرسة"
 - id: "sch-leibnizianism", title: "اللايبنتزية", type: "مدرسة"
 - id: "sch-kabbalah", title: "القبّالة (كتيار فلسفي-رمزي)", type: "مدرسة"
 - id: "br-spinozism-monism", title: "السبينوزية الأحادية والحلولية الطبيعية — السبينوزية", type: "تيار"

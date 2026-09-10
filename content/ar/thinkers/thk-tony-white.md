@@ -17,7 +17,7 @@ edges:
 related:
 - id: "br-transactional-analysis", title: "تحليل المعاملات (TA)", type: "تيار"
 - id: "thk-berne", title: "إريك بيرن", type: "مفكر"
-- id: "con-dissociation", title: "الانفصال", type: "مفهوم"
+- id: "con-dissociation", title: "الانفصال (Dissociation)", type: "مفهوم"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي."
   - "حُذفت روابط thk-mtaibi وthk-gcarmichael وthk-crosenberg وcon-ego-state وcon-scripts لعدم وجود ملفات مستقلة بهذه الـids في الأطلس، رغم ذكر أسماء 'مورين تايبي' و'غاري كارمايكل' و'تشارلز روزنبرغ' و'كولين روز' في المتن الأصلي دون توثيق مستقل لهم."

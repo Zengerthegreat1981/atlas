@@ -17,10 +17,10 @@ edges:
 - rel: "evolved_from", target: "sch-patristics", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-middle-platonism", target_type: "مدرسة"
 related:
-- id: "sch-patristics", title: "الآبائية المسيحية", type: "مدرسة"
+- id: "sch-patristics", title: "الآبائية المسيحية (Patristics)", type: "مدرسة"
 - id: "sch-apophatic", title: "اللاهوت السلبي / الأبوفاتي", type: "مدرسة"
-- id: "sch-middle-platonism", title: "الأفلاطونية الوسطى", type: "مدرسة"
-- id: "sch-scholasticism", title: "المدرسية (السكولاستية)", type: "مدرسة"
+- id: "sch-middle-platonism", title: "الأفلاطونية الوسطى (Middle Platonism)", type: "مدرسة"
+- id: "sch-scholasticism", title: "المدرسية (السكولاستية) — كمظلة", type: "مدرسة"
 - id: "thk-bonaventure", title: "بونافنتورا (جيوفاني دي فيدانزا)", type: "مفكر"
 - id: "con-divine-illumination", title: "الإشراق الإلهي (نظرية المعرفة الأوغسطينية)", type: "مفهوم"
 - id: "wrk-city-of-god", title: "مدينة الله (De Civitate Dei)", type: "عمل / كتاب"

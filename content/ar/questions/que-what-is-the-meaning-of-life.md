@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-existentialism-atheist", target_type: "مدرسة"
 related:
-- id: "con-meaning", title: "المعنى", type: "مفهوم"
+- id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 - id: "con-existential-vacuum", title: "الفراغ الوجودي", type: "مفهوم"
 - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
 - id: "thk-camus", title: "ألبير كامو", type: "مفكر"

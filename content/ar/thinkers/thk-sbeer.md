@@ -11,9 +11,9 @@ country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1959
 active_end: 2002
-part: "philosophy"
+part: "psychology"
 edges:
-- rel: "belongs_to", target: "br-general-systems-cybernetics", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-general-systems-cybernetics", target_type: "تيار"
 related:
 - id: "thk-lbertalanffy", title: "لودفيغ فون برتالانفي", type: "مفكر"
 - id: "thk-norbert-wiener", title: "نوربرت فينر", type: "مفكر"
@@ -21,6 +21,7 @@ gaps:
   - "سنة الميلاد (1926) والوفاة (2002) موثَّقتان في عدة مراجع."
   - "تفاصيل الفترة التشيلي (1971-1973) موثّقة في مذكراته وفي سيرة رولاند لوسِه (2006)."
   - "ينتمي بير إلى «النظرية العامة للأنظمة» أكثر من كونه عالم نفس، لكن أطروحاته مؤثرة في العلاج الأسري النظامي."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-general-systems-cybernetics` موسومٌ «psychology» — فوُحِّد على وسم الأب."
 ---
 
 # ستافورد بير

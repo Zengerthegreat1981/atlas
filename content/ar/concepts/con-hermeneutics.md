@@ -19,8 +19,8 @@ related:
 - id: "thk-gadamer", title: "هانز-غيورغ غادامير", type: "مفكر"
 - id: "thk-ricoeur", title: "بول ريكور", type: "مفكر"
 - id: "con-hermeneutic-circle", title: "الدائرة الهرمنيوطيقية (Hermeneutic Circle)", type: "مفهوم"
-- id: "con-fusion-horizons", title: "اندماج الآفاق", type: "مفهوم"
-- id: "con-narrative-identity", title: "الهوية السردية", type: "مفهوم"
+- id: "con-fusion-horizons", title: "اندماج الآفاق (Horizontverschmelzung): فهم الذات عبر الآخر", type: "مفهوم"
+- id: "con-narrative-identity", title: "الهوية السردية (Narrative Identity): أنا كقصة أرويها عن نفسي", type: "مفهوم"
 gaps:
 - "تاريخ الحركة من Ast (1808) عبر Schleiermacher، Dilthey، Heidegger، Gadamer، Ricoeur يحتاج فصلاً مستقلاً."
 - "لم يُعثر على اقتباس مباشر موثّق من غادامير أو ريكور بالعربية أو الألمانية/الفرنسية بنصّه الحرفي وصفحته الدقيقة؛ الأفكار معروضة أعلاه بالمعنى."

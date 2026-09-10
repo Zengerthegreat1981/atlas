@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-chinese-liberalism-modern", target_type: "مدرسة"
 related:
 - id: "sch-chinese-liberalism-modern", title: "الليبرالية الصينية الحديثة", type: "مدرسة"
-- id: "thk-hu-shi", title: "هو شي", type: "مفكر"
+- id: "thk-hu-shi", title: "هو شي (Hu Shih)", type: "مفكر"
 - id: "thk-liang-shuming", title: "ليانغ شو مينغ", type: "مفكر"
 gaps:
   - "لم تُراجع بعدُ ردود الفعل في مجلة *New Youth* (新青年) ومجلة *Eastern Miscellany* (东方杂志)."

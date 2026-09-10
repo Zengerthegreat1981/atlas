@@ -13,7 +13,7 @@ active_start: 1995
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "br-embodied-relational-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-embodied-relational-therapy", target_type: "تيار"
 related:
 - id: "br-embodied-relational-therapy", title: "العلاج العلائقي المجسد (ERT)", type: "تيار"
 - id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"

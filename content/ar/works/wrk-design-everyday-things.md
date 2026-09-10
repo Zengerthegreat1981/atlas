@@ -17,7 +17,7 @@ original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "que-does-perception-represent-reality", title: "هل تعكس حواسنا العالم الفيزيائي بدقة أم تقدم واجهة تطورية للبقاء؟", type: "سؤال"
+- id: "que-does-perception-represent-reality", title: "هل تعكس حواسنا العالم الفيزيائي بدقة أم تقدم واجهة تطورية للبقاء؟", type: "سؤال توليدي"
 - id: "con-schema", title: "المخطط المعرفي", type: "مفهوم"
 gaps:
   - "لم أستطع إثبات ترجمة عربية معتمدة للكتاب ببيانات مترجم وناشر وسنة، ولذلك تقتصر `## المصادر` على الطبعتين الإنجليزيتين (1988 و2013)."

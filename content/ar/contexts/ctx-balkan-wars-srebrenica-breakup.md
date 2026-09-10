@@ -2,7 +2,7 @@
 slug: "ctx-balkan-wars-srebrenica-breakup"
 id: "CTX-0049"
 type: "سياق/تقليد"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "حروب البلقان وتفكك يوغوسلافيا ومأساة التطهير العرقي في أوروبا"
 en: "The Yugoslav Wars (1991-1999): The Breakup, Srebrenica Genocide, and European Failure"
@@ -12,10 +12,11 @@ active_end: 1999
 edges:
 - rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
-- id: "ctx-nuremberg-trials-crimes-humanity", title: "محاكمات نورمبرغ", type: "سياق/تقليد"
-- id: "evt-nuremberg-trials-1945-crimes-against-humanity", title: "محاكمات نورمبرغ 1945", type: "حدث"
+- id: "ctx-nuremberg-trials-crimes-humanity", title: "محاكمات نورمبرغ وميلاد القانون الجنائي الدولي وحقوق الإنسان", type: "سياق/تقليد"
+- id: "evt-nuremberg-trials-1945-crimes-against-humanity", title: "محاكمات نورمبرغ 1945 وصياغة مفهوم 'جرائم ضد الإنسانية'", type: "حدث تاريخي"
 gaps:
   - "شهادات الناجين من سريبرينيتسا لم تُراجع من أرشيف المحكمة الجنائية الدولية ليوغوسلافيا السابقة (ICTY) مباشرة ضمن هذا المشروع."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-social-psychology` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 # حروب البلقان وتفكك يوغوسلافيا ومأساة التطهير العرقي في أوروبا
 

@@ -5,7 +5,7 @@ type: "مدرسة"
 part: "philosophy"
 level: "متوسط"
 title: "جودو شينشو"
-en: "Jōdo Shinshū (浄土真宗، True Pure Land School)"
+en: "Jōdo Shinshū (浄土真宗, True Pure Land School)"
 crumb: "الفلسفة ← البوذية ← جودو شينشو"
 dates: "اليابان · من القرن 13 م إلى اليوم"
 country: "اليابان"
@@ -18,7 +18,7 @@ edges:
 related:
 - id: "sch-pure-land", title: "الأرض الطاهرة (جينغتو / جودو)", type: "مدرسة"
 - id: "sch-tendai-japan", title: "تنداي اليابانية", type: "مدرسة"
-- id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"
+- id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها (طبيعة البوذا)", type: "مدرسة"
 - id: "br-pure-land-jodo-shinshu", title: "الأرض الطاهرة وجودو شينشو — البوذية اليابانية", type: "تيار"
 gaps:
   - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."

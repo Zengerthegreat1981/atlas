@@ -14,7 +14,7 @@ language: "الإنجليزية"
 active_start: 1950
 active_end: 1995
 edges:
-- rel: "belongs_to", target: "br-transactional-analysis", target_type: "فرع"
+- rel: "belongs_to", target: "br-transactional-analysis", target_type: "تيار"
 related:
 - id: "wrk-berne-games-people-play", title: "ألعاب الناس (Games People Play)", type: "عمل / كتاب"
 - id: "wrk-im-ok-youre-ok", title: "أنا بخير، أنت بخير", type: "عمل / كتاب"

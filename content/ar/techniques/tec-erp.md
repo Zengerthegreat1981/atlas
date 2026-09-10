@@ -17,7 +17,7 @@ edges:
 - rel: "developed_by", target: "thk-foa", target_type: "مفكر"
 evidence_level: "well-established"
 related:
-- id: "dis-ocd", title: "اضطراب الوسواس القهري", type: "اضطراب"
+- id: "dis-ocd", title: "اضطراب الوسواس القهري", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-classical-behavior-therapy", title: "العلاج السلوكي الكلاسيكي وإزالة التحسس المنهجي", type: "تقنية/تدخل علاجي"
 - id: "tec-prolonged-exposure", title: "التعرض المطوّل (PE)", type: "تقنية/تدخل علاجي"
 - id: "con-exposure-habituation", title: "التعود بالتعرض", type: "مفهوم"

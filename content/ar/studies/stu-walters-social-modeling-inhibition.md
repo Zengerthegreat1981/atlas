@@ -10,7 +10,7 @@ active_start: 1963
 active_end: 1967
 part: "psychology"
 related:
-- id: "con-responsibility", title: "المسؤولية الوجودية", type: "مفهوم"
+- id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
 study_year: 1963
 design: "تجريبي مخبري (بين المجموعات، مقارنة شروط نموذج ممتثل/معاقب/غير معاقب)"
 sample_size: ""

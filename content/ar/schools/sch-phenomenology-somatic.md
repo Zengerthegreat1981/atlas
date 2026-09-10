@@ -17,8 +17,8 @@ edges:
 - rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-phenomenology-existential", target_type: "مدرسة"
 related:
-- id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
-- id: "sch-phenomenology-existential", title: "الظاهراتية الوجودية", type: "مدرسة"
+- id: "sch-phenomenology", title: "الظاهراتية (Phänomenologie)", type: "مدرسة"
+- id: "sch-phenomenology-existential", title: "الظاهراتية الوجودية (Existential Phenomenology)", type: "مدرسة"
 - id: "thk-mhenry", title: "ميشيل هنري", type: "مفكر"
 - id: "con-lived-body", title: "الجسد المعيش (Leib vs. Körper)", type: "مفهوم"
 - id: "rel-merleau-ponty-embodiment-somatic-experiencing", title: "الجسد المعاش لميرلوبونتي والعلاج النفسي الجسدي (Levine/Ogden)", type: "علاقة بين مدرستين"

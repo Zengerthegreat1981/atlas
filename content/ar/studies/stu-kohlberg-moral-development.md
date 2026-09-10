@@ -17,7 +17,7 @@ replication_status: "contested"
 edges:
   []
 related:
-- id: "wrk-righteous-mind", title: "العقل الصالح", type: "عمل / كتاب"
+- id: "wrk-righteous-mind", title: "العقل الصالح: لماذا ينقسم الأخيار حول السياسة والدين", type: "عمل / كتاب"
 - id: "thk-jonathan-haidt", title: "جوناثان هايدت", type: "مفكر"
 gaps:
   - "النقد النسوي لكارول غيليغان (Carol Gilligan 1982) وأخلاق الرعاية مقابل أخلاق العدالة."

@@ -16,9 +16,9 @@ active_end: -270
 edges:
 - rel: "superseded_by", target: "sch-epicureanism", target_type: "مدرسة"
 related:
-- id: "sch-milesian", title: "المدرسة الميليسية", type: "مدرسة"
-- id: "sch-eleatic", title: "المدرسة الإيلية", type: "مدرسة"
-- id: "sch-epicureanism", title: "الأبيقورية", type: "مدرسة"
+- id: "sch-milesian", title: "المدرسة الميليسية (ما قبل سقراط الطبيعية)", type: "مدرسة"
+- id: "sch-eleatic", title: "المدرسة الإيلية (Eleatic School)", type: "مدرسة"
+- id: "sch-epicureanism", title: "الأبيقورية (Epicureanism)", type: "مدرسة"
 - id: "thk-democritus", title: "ديموقريطس الأبديري", type: "مفكر"
 - id: "con-no-miracle-argument", title: "حجة المعجزة (No-Miracle Argument)", type: "مفهوم"
 - id: "con-fogg-behavior-model", title: "نموذج فوغ السلوكي (معادلة تغيير السلوك B=MAP)", type: "مفهوم"

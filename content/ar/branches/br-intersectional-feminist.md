@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1989
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-intersectionality", target_type: "مدرسة"
 related:
@@ -22,6 +22,7 @@ related:
 gaps:
   - "مقال Crenshaw الأصلي (1989) في University of Chicago Legal Forum لم يُراجع نصّه."
   - "العلاقة بين 'Black Feminism' و'intersectionality' تستحق توثيقاً."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-intersectionality` موسومٌ «philosophy» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # علم النفس النسوي التقاطعي

@@ -14,11 +14,11 @@ active_start: 1970
 active_end: "مستمر"
 cultural_origin: "indigenous"
 related:
-- id: "sch-bowen-ferrer-vivir", title: "بوين فيفير / سومَك كاوساي", type: "مدرسة"
-- id: "sch-ubuntu", title: "أوبونتو", type: "مدرسة"
-- id: "sch-decolonial-philosophy", title: "الفلسفة الديكولونيالية", type: "مدرسة"
-- id: "con-two-eyed-seeing", title: "الرؤية بعينين", type: "مفهوم"
-- id: "con-land-based-healing", title: "الشفاء القائم على الأرض", type: "مفهوم"
+- id: "sch-bowen-ferrer-vivir", title: "فلسفة بوين فيفير / سومَك كاوساي (المعاصرة)", type: "مدرسة"
+- id: "sch-ubuntu", title: "فلسفة أوبونتو المعاصرة", type: "مدرسة"
+- id: "sch-decolonial-philosophy", title: "الفلسفة الديكولونيالية (كمظلة عالمية)", type: "مدرسة"
+- id: "con-two-eyed-seeing", title: "الرؤية بعينين (Etuaptmumk / Two-Eyed Seeing)", type: "مفهوم"
+- id: "con-land-based-healing", title: "الشفاء القائم على الأرض (Land-Based Healing)", type: "مفهوم"
 - id: "wrk-braiding-sweetgrass", title: "ضفائر العشب الحلو (Braiding Sweetgrass)", type: "عمل / كتاب"
 gaps:
   - "نصوص Vine Deloria Jr., Linda Tuhiwai Smith, Rauna Kuokkanen, Max Charlesworth, Aileen Moreton-Robinson need review."

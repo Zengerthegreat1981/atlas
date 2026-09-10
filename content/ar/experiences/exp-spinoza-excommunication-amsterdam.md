@@ -13,9 +13,9 @@ edges:
 - rel: "belongs_to", target: "sch-continental-rationalism", target_type: "مدرسة"
 related:
 - id: "thk-spinoza", title: "باروخ سبينوزا", type: "مفكر"
-- id: "wrk-ethics-spinoza", title: "الأخلاق", type: "عمل / كتاب"
+- id: "wrk-ethics-spinoza", title: "علم الأخلاق لباروخ سبينوزا", type: "عمل / كتاب"
 - id: "ctx-dutch-golden-age-toleration", title: "العصر الذهبي الهولندي وأمستردام كعاصمة للتسامح والنشر الحر", type: "سياق/تقليد"
-- id: "evt-excommunication-of-spinoza-1656", title: "حرم ونفي باروخ سبينوزا من الكنيس اليهودي في أمستردام (1656 م)", type: "حدث"
+- id: "evt-excommunication-of-spinoza-1656", title: "حرم ونفي باروخ سبينوزا من الكنيس اليهودي في أمستردام (1656 م)", type: "حدث تاريخي"
 gaps:
   - "النص الكامل لصك الحرم محفوظ في سجلات الطائفة اليهودية البرتغالية بأمستردام (Talmud Torah)؛ الترجمة العربية الدقيقة لبنوده الأصلية بالعبرية والبرتغالية تحتاج مراجعة من مختص بالمصدر الأرشيفي مباشرة قبل اقتباس أي عبارة حرفية منه."
 ---

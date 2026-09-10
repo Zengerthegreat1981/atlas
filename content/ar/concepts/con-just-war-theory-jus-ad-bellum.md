@@ -14,10 +14,10 @@ edges:
 related:
 - id: "thk-aquinas", title: "توما الأكويني", type: "مفكر"
 - id: "sch-thomism", title: "التوماوية", type: "مدرسة"
-- id: "wrk-summa-theologiae-aquinas", title: "الخلاصة اللاهوتية لتوما الإكويني", type: "عمل"
+- id: "wrk-summa-theologiae-aquinas", title: "الخلاصة اللاهوتية لتوما الإكويني", type: "عمل / كتاب"
 - id: "con-natural-law-aquinas-concept", title: "القانون الطبيعي والمشاركة العقلية في الحكمة الأزلية (Natural Law)", type: "مفهوم"
 - id: "thk-augustine", title: "أوغسطينوس", type: "مفكر"
-- id: "que-just-war-theory-ethics", title: "هل توجد حرب عادلة أخلاقياً وما هي معايير الدفاع المشروع والعدوان؟", type: "سؤال"
+- id: "que-just-war-theory-ethics", title: "هل توجد حرب عادلة أخلاقياً وما هي معايير الدفاع المشروع والعدوان؟", type: "سؤال توليدي"
 - id: "dbt-gandhi-vs-machiavelli", title: "غاندي ضد المكيافيلية: هل السياسة الممكنة تقتضي العنف؟", type: "جدل"
 gaps:
   - "التحليل الإبستمولوجي واللغوي الدقيق لتطور المفهوم عبر التاريخ."

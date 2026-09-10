@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "الهوابيونغ (Hwabyung) ← الناس ← بارك جونغ-إيك"
 edges:
-- rel: "belongs_to", target: "dis-hwabyung", target_type: "مدرسة"
+- rel: "belongs_to", target: "dis-hwabyung", target_type: "اضطراب/حالة إكلينيكية"
 related:
 - id: "thk-kimkwansung", title: "كيم كوان-سونغ", type: "مفكر"
 gaps:

@@ -17,8 +17,8 @@ replication_status: "replicated"
 edges:
   []
 related:
-- id: "con-framing-effect", title: "تأثير التأطير المعرفي واللغوي", type: "مفهوم"
-- id: "wrk-how-we-learn", title: "كيف نتعلم", type: "عمل / كتاب"
+- id: "con-framing-effect", title: "تأثير التأطير المعرفي واللغوي (Framing Effect)", type: "مفهوم"
+- id: "wrk-how-we-learn", title: "كيف نتعلم: الحقيقة المدهشة عن وقت ومكان وكيفية حدوث التعلم", type: "عمل / كتاب"
 gaps:
   - "نص 'غسيل الملابس' الغامض وتجربة بالون السيريناد البصري."
   - "حجم العينة الدقيق لكل تجربة فرعية غير مؤكد من الذاكرة؛ يحتاج رجوعاً للورقة الأصلية (Journal of Verbal Learning and Verbal Behavior, 1972) قبل إثبات رقم محدد"

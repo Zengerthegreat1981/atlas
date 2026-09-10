@@ -17,7 +17,7 @@ edges:
 - rel: "evolved_from", target: "sch-classical-liberalism-early", target_type: "مدرسة"
 related:
 - id: "sch-classical-liberalism-early", title: "الليبرالية الكلاسيكية المبكرة", type: "مدرسة"
-- id: "sch-rawlsianism", title: "الليبرالية السياسية المعاصرة", type: "مدرسة"
+- id: "sch-rawlsianism", title: "الليبرالية السياسية المعاصرة (الرولزية وما بعدها)", type: "مدرسة"
 - id: "sch-anarchism-contemporary", title: "الفوضوية المعاصرة", type: "مدرسة"
 - id: "wrk-anarchy-state-utopia", title: "اللاإكراه، الدولة، واليوتوبيا (Anarchy, State, and Utopia, 1974)", type: "عمل / كتاب"
 - id: "dbt-libertarianism-vs-egalitarian-liberalism", title: "الليبرتارية لنوزيك مقابل الليبرالية التوزيعية لرولز", type: "جدل"

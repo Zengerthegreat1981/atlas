@@ -2,7 +2,7 @@
 slug: "que-intergenerational-healing-rituals"
 id: "QUE-0051"
 type: "سؤال توليدي"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "كيف تلتئم الصدمات المتوارثة عبر الأجيال في الثقافات الجمعية؟"
 en: "Intergenerational Trauma and Collective Healing: Epigenetics, Rituals, and Indigenous Wisdom"
@@ -20,6 +20,7 @@ gaps:
   - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `sch-indigenous-psychology` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-indigenous-psychology` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # كيف تلتئم الصدمات المتوارثة عبر الأجيال في الثقافات الجمعية؟

@@ -15,13 +15,13 @@ crumb: "علم النفس التحليلي ← اللاوعي الثقافي ←
 edges:
 - rel: "influenced", target: "con-cultural-complex", target_type: "مفهوم"
 related:
-- id: "con-cultural-complex", title: "العقدة الثقافية", type: "مفهوم"
+- id: "con-cultural-complex", title: "المركّب الثقافي والظلال الجمعية", type: "مفهوم"
 - id: "con-cultural-unconscious", title: "اللاوعي الثقافي", type: "مفهوم"
 - id: "thk-singer", title: "توماس سينغر", type: "مفكر"
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "br-jungian", title: "التحليلية اليونغية", type: "تيار"
 - id: "con-complex", title: "العقدة النفسية المركبة (Complex)", type: "مفهوم"
-- id: "con-collective-unconscious", title: "اللاوعي الجماعي", type: "مفهوم"
+- id: "con-collective-unconscious", title: "اللاوعي الجماعي (Collective Unconscious)", type: "مفهوم"
 gaps:
   - "**كُتب متنُه 2026-09-07:** كان كيمبلز شريكَ توماس سينغر في المفهوم الذي له ملفٌّ في الأطلس، بلا ملفٍّ يُعرِّفه."
   - "لا ملفَّ في الأطلس لـ**جوزيف هندرسون**، صاحبِ مصطلح «اللاوعي الثقافي» الذي بنى عليه كيمبلز وسينغر."

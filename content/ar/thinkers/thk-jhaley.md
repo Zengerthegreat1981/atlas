@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
 - id: "thk-gbateson", title: "غريغوري باتسون", type: "مفكر"
-- id: "con-double-bind", title: "الرباط المزدوج", type: "مفهوم"
+- id: "con-double-bind", title: "الرباط المزدوج (Double Bind)", type: "مفهوم"
 - id: "thk-pwatzlawick", title: "بول واتزلاويك", type: "مفكر"
 - id: "thk-merickson", title: "ميلتون إريكسون", type: "مفكر"
 - id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"

@@ -28,7 +28,7 @@ related:
 - id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 - id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
 - id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
-- id: "br-radical-behaviorism", title: "السلوكية الراديكالية", type: "تيار"
+- id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي (ABA)", type: "تيار"
 - id: "br-purposive-behaviorism", title: "السلوكية الغائية والمعرفية المبكرة (تولمان)", type: "تيار"
 - id: "br-hullian-behaviorism", title: "السلوكية الهالية ونظرية خفض الدافع", type: "تيار"
 - id: "br-neobehaviorism", title: "السلوكية الجديدة (النيوسلوكية)", type: "تيار"

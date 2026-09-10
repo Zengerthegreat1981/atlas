@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-deleuze", title: "جيل دولوز", type: "مفكر"
 - id: "thk-guattari", title: "فيليكس غواتاري", type: "مفكر"
-- id: "wrk-anti-oedipus-deleuze-guattari", title: "الرأسمالية والانفصام: ضد أوديب لدولوز وغاتاري", type: "عمل"
+- id: "wrk-anti-oedipus-deleuze-guattari", title: "الرأسمالية والانفصام: ضد أوديب لدولوز وغاتاري", type: "عمل / كتاب"
 - id: "con-body-without-organs", title: "الجسد بلا أعضاء وتدفق الرغبة (Body without Organs)", type: "مفهوم"
 - id: "con-rhizome-deleuze-guattari", title: "الجذمور والشبكات اللامركزية (Rhizome)", type: "مفهوم"
 - id: "con-oedipus-complex", title: "عقدة أوديب (الدينامية النفسية الجنسية في التحليل النفسي)", type: "مفهوم"

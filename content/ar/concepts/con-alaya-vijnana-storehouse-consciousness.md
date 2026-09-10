@@ -15,7 +15,7 @@ related:
 - id: "sch-yogacara", title: "يوغاكارا / فيجنانافادا", type: "مدرسة"
 - id: "thk-asanga", title: "أسانغا", type: "مفكر"
 - id: "thk-vasubandhu", title: "فاسوباندو", type: "مفكر"
-- id: "wrk-vimsatika-vijnaptimatrata-vasubandhu", title: "عشرون بيتاً في الوعي الخالص لفاسوباندو", type: "عمل"
+- id: "wrk-vimsatika-vijnaptimatrata-vasubandhu", title: "عشرون بيتاً في الوعي الخالص لفاسوباندو", type: "عمل / كتاب"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من نصوص أسانغا أو فاسوباندو الأصلية (Yogācārabhūmi، Triṃśikā) في هذا الملف."
   - "التمييز الدقيق بين alaya-vijnana ومفهوم manas (الوعي السابع) في نموذج الوعي الثماني ليوغاكارا يحتاج ملفاً مستقلاً."

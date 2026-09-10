@@ -18,7 +18,7 @@ related:
 - id: "tec-dbt-daily-skills-chaining-skill-stacking", title: "تسلسل المهارات (Skill Stacking)", type: "تقنية/تدخل علاجي"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
-- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب"
+- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-cbt-mind-cbt-thought-log-thought-record", title: "سجل الأفكار المعرفي", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا توجد دراسة منفصلة تقيس أثر «المراجعة الأسبوعية» كتمرين بمعزل عن حزمة تدريب المهارات الكاملة التي وضعتها مارشا لينهان سنة 1993."

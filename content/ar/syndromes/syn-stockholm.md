@@ -12,7 +12,7 @@ active_end: "مستمر"
 language: "متعدد اللغات"
 edges: []
 related:
-- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-acute-stress-disorder", title: "اضطراب الكرب الحاد", type: "اضطراب/حالة إكلينيكية"
 - id: "syn-survivor-guilt-syndrome", title: "متلازمة ذنب الناجي", type: "متلازمة"
 - id: "con-gaslighting-popular", title: "التلاعب بالعقول والتضليل النفسي في الثقافة الشعبية (Gaslighting)", type: "مفهوم"

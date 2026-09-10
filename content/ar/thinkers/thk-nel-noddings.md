@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-gilligan", title: "كارول غيليغان", type: "مفكر"
 - id: "thk-bhooks", title: "بيل هوكس", type: "مفكر"
-- id: "que-care-ethics-vs-justice-ethics", title: "هل الأخلاق النسوية القائمة على الرعاية تتفوق على أخلاق القوانين الصارمة؟", type: "سؤال"
+- id: "que-care-ethics-vs-justice-ethics", title: "هل الأخلاق النسوية القائمة على الرعاية تتفوق على أخلاق القوانين الصارمة؟", type: "سؤال توليدي"
 gaps:
   - "تفاصيل عملها في K-12 كأم ومعلّمة موثّقة في سيرتها."
   - "مقارنة 'Caring' (1984) مع 'Justice as Fairness' (Rawls 1971) تحتاج فصلاً مفصلاً."

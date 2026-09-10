@@ -5,13 +5,13 @@ type: "مفكر"
 level: "متقدم"
 title: "جورج أتوود"
 en: "George Atwood"
-crumb: "مدرسة التحليل النفسي ← البين-ذاتية ← جورج أتوود"
+crumb: "التحليل النفسي ← البين-ذاتية ← جورج أتوود"
 dates: "أمريكا · 1944–"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1979
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "belongs_to", target: "br-intersubjective-psychoanalysis", target_type: "تيار"
@@ -23,6 +23,8 @@ related:
 gaps:
   - "تلخيص فكرة الأنا بوصفها منظومة وهمية (Illusory system) لم يُراجَع بعد في مصادر أولية."
   - "لا يوجد اقتباس مباشر موثوق من *Faces in a Cloud* (1979) بترجمة عربية معتمدة."
+  - "**وُحِّد مسارُ التنقّل 2026-09-10:** كان «مدرسة التحليل النفسي» وصار «التحليل النفسي» — لأنّ الجذرَ كان منقسماً بين صيغتين للشيء نفسِه، فيعرض فهرسُ التصفّح موضعين لموضعٍ واحد."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-intersubjective-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # جورج أتوود

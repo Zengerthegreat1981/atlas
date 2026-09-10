@@ -17,7 +17,7 @@ related:
 - id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
 - id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
-- id: "tec-mbsr", title: "MBSR (الحد من الإجهاد باليقظة الذهنية)", type: "تقنية/تدخل علاجي"
+- id: "tec-mbsr", title: "برنامج خفض الضغوط القائم على اليقظة الذهنية (MBSR)", type: "تقنية/تدخل علاجي"
 gaps:
   - "تفاصيل تعاونه مع «Mindfulness-Based Stress Reduction» (MBSR) في UMass موثّقة جزئياً."
   - "لا يوجد ملف مدرسة/تيار (sch-/br-) معتمد لـ«اليقظة الذهنية الإكلينيكية» في الأطلس، فحُذف edge belongs_to وسُجّل في missing-schools.md. كما لا يوجد ملف مستقل موثَّق حالياً لروسي كابات-زين (زوجة جون كابات-زين) في الأطلس، فحُذف رابطها من related؛ ذُكرت في المتن نصّياً دون رابط."

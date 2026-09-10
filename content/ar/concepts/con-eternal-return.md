@@ -15,8 +15,8 @@ edges:
 related:
 - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
 - id: "sch-nietzscheanism", title: "النيتشوية", type: "مدرسة"
-- id: "wrk-the-gay-science-nietzsche", title: "العلم الجذل لفريدريش نيتشه (Die fröhliche Wissenschaft)", type: "عمل"
-- id: "wrk-thus-spoke-zarathustra-nietzsche", title: "هكذا تكلم زرادشت لفريدريش نيتشه", type: "عمل"
+- id: "wrk-the-gay-science-nietzsche", title: "العلم الجذل لفريدريش نيتشه (Die fröhliche Wissenschaft)", type: "عمل / كتاب"
+- id: "wrk-thus-spoke-zarathustra-nietzsche", title: "هكذا تكلم زرادشت لفريدريش نيتشه", type: "عمل / كتاب"
 - id: "thk-heraclitus", title: "هيراقليطس الإفسيسي", type: "مفكر"
 - id: "sch-stoicism", title: "الرواقية (Stoicism)", type: "مدرسة"
 - id: "thk-schopenhauer", title: "أرتور شوبنهاور", type: "مفكر"

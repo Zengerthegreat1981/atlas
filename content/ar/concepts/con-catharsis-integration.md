@@ -10,7 +10,7 @@ active_start: 1921
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "br-psychodrama", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-psychodrama", target_type: "تيار"
 related:
 - id: "thk-moreno", title: "يعقوب ليفي مورينو", type: "مفكر"
 - id: "br-psychodrama", title: "السيكودراما والسوسيومتري", type: "تيار"

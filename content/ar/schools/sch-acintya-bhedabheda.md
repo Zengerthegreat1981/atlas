@@ -14,8 +14,8 @@ active_start: 1486
 active_end: "مستمر"
 cultural_origin: "indian"
 edges:
-- rel: "belongs_to", target: "sch-vedanta", target_type: "مظلة"
-- rel: "belongs_to", target: "sch-bhakti-movement", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-vedanta", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-bhakti-movement", target_type: "مدرسة"
 related:
 - id: "sch-vedanta", title: "فيدانتا (كمظلة)", type: "مدرسة"
 - id: "sch-bhakti-movement", title: "حركة البهاكتي الفلسفية", type: "مدرسة"

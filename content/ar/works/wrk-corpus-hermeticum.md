@@ -19,7 +19,7 @@ edges:
 - rel: "belongs_to", target: "sch-hermeticism", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-hermes-trismegistus", target_type: "مفكر"
 related:
-- id: "thk-hermes-trismegistus", title: "هرمس ثلاثي العظمة", type: "مفكر"
+- id: "thk-hermes-trismegistus", title: "هرمس ثلاثي العظمة (شخصية تقليدية)", type: "مفكر"
 - id: "sch-hermeticism", title: "الهرمسية", type: "مدرسة"
 - id: "con-as-above-so-below", title: "كما في الأعلى كذلك في الأسفل", type: "مفهوم"
 gaps:

@@ -17,9 +17,9 @@ edges:
 related:
 - id: "thk-tleary", title: "تيموثي ليري", type: "مفكر"
 - id: "thk-ahofmann", title: "ألبرت هوفمان", type: "مفكر"
-- id: "thk-peter-bloom", title: "بيتر بلوم (Peter Bloom)", type: "مفكر"
+- id: "thk-peter-bloom", title: "بيتر بلوم", type: "مفكر"
 - id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
-- id: "thk-mmithoefer", title: "مايكل ميثوفير", type: "مفكر"
+- id: "thk-mithoefer", title: "مايكل ميثوفر", type: "مفكر"
 - id: "rel-psychedelic-transpersonal", title: "العلاج بمساعدة المواد النفسانية وعبر الشخصية: جد مشترك تاريخي", type: "علاقة بين مدرستين"
 gaps:
   - "التاريخ الدقيق لتحويل MAPS إلى 'Lykos Therapeutics' كشركة ربحية، وتفاصيل هيكل الملكية الجديد، لم تُراجع من مصدر أولي محدَّث."

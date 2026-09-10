@@ -17,15 +17,15 @@ author_slug: "thk-zsegal"
 publication_year: 2002
 original_language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "tec-mbct", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-mbct", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "sch-mbct", title: "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)", type: "مدرسة"
 - id: "thk-zsegal", title: "زيندل سيغال", type: "مفكر"
 - id: "thk-mwilliams", title: "مارك ويليامز", type: "مفكر"
 - id: "thk-jteasdale", title: "جون تيزديل", type: "مفكر"
-- id: "con-mindfulness", title: "اليقظة الذهنية", type: "مفهوم"
+- id: "con-mindfulness", title: "اليقظة الذهنية (Mindfulness)", type: "مفهوم"
 - id: "con-cognitive-decentering", title: "اللامركزية المعرفية", type: "مفهوم"
-- id: "dis-mdd", title: "الاكتئاب", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "تتداول ترجمات/عروض عربية لمحتوى هذا الكتاب، لكن لم يتيسّر تثبيت ثلاثيّ المترجم والناشر والسنة لأيٍّ منها، فلم تُسمَّ أيّ ترجمة هنا."
   - "الفصل الإضافي في الطبعة الثانية (2013) عن اليقظة الذهنية والقلق لم يُفحص هنا استقلالاً عن بقية الكتاب."

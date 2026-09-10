@@ -16,13 +16,13 @@ edges:
 related:
 - id: "con-mentalization", title: "الانعكاس الذهني (Mentalization)", type: "مفهوم"
 - id: "tec-mbt", title: "العلاج بالانعكاس الذهني (MBT)", type: "تقنية/تدخل علاجي"
-- id: "thk-fonagy", title: "بيتر فوناجي", type: "مفكر"
+- id: "thk-fonagy", title: "بيتر فوناغي", type: "مفكر"
 - id: "thk-bateman", title: "أنتوني بيتمان", type: "مفكر"
 - id: "thk-mtarget", title: "ماري تارجت", type: "مفكر"
-- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب"
+- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
-- id: "wrk-affect-regulation-mentalization", title: "تنظيم الوجدان والانعكاس الذهني ونمو الذات", type: "عمل"
-- id: "wrk-mbt-manual", title: "دليل العلاج بالانعكاس الذهني", type: "عمل"
+- id: "wrk-affect-regulation-mentalization", title: "تنظيم الوجدان والذهنية وتطور الذات", type: "عمل / كتاب"
+- id: "wrk-mbt-manual", title: "دليل العلاج المعرفي القائم على اليقظة الذهنية للاكتئاب (MBCT)", type: "عمل / كتاب"
 - id: "rel-psychodynamic-attachment", title: "التحليل النفسي ونظرية التعلّق: من طردِ بولبي إلى عودته وارثاً", type: "علاقة بين مدرستين"
 gaps:
   - "**كُتب متنه 2026-09-07**: كان الملف من دفعة قالبية. لم يُدمج لأن الأطلس لا يحوي علاقة تعالج تحوُّل هذا المفهوم إلى علاج، وله ملفَّا مفهوم وتقنية منفصلان بلا ملف يصل بينهما."

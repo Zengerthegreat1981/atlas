@@ -17,7 +17,7 @@ related:
 - id: "wrk-phenomenology-perception-merleau-ponty", title: "ظاهراتية الإدراك (Phénoménologie de la perception) - ميرلوبونتي", type: "عمل / كتاب"
 - id: "thk-ricoeur", title: "بول ريكور", type: "مفكر"
 - id: "thk-vramachandran", title: "ف. س. راماشاندران", type: "مفكر"
-- id: "dis-body-dysmorphic-disorder", title: "اضطراب خلل التشكّل الجسدي", type: "اضطراب"
+- id: "dis-body-dysmorphic-disorder", title: "اضطراب خلل التشكّل الجسدي", type: "اضطراب/حالة إكلينيكية"
 - id: "con-lived-body", title: "الجسد المعيش (Leib vs. Körper)", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: هنري هيد (thk-head) — المصطلح صِيغ على يده لكن لا يوجد ملف مفكر خاص به بعد."

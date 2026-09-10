@@ -15,8 +15,8 @@ active_end: "مستمر"
 edges: []
 related:
 - id: "wrk-hidden-potential", title: "إمكانات خفية: العلم الذي يكتشف ما بداخلك", type: "عمل / كتاب"
-- id: "wrk-think-again", title: "فكر مرة أخرى", type: "عمل / كتاب"
-- id: "wrk-give-and-take", title: "الأخذ والعطاء", type: "عمل / كتاب"
+- id: "wrk-think-again", title: "فكر مرة أخرى: قوة معرفة ما لا تعرفه", type: "عمل / كتاب"
+- id: "wrk-give-and-take", title: "الأخذ والعطاء: نهج ثوري للنجاح", type: "عمل / كتاب"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Give and Take* (2013) بترجمة عربية معتمدة."
   - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«علم النفس التنظيمي والدافعية» في content/ar/schools أو branches."

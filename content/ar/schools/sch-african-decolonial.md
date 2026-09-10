@@ -14,7 +14,7 @@ language: "متعددة"
 active_start: 2000
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-decolonial-philosophy", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-decolonial-philosophy", target_type: "مدرسة"
 related:
 - id: "sch-pan-africanism", title: "عموم أفريقيا (Pan-Africanism)", type: "مدرسة"
 - id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"

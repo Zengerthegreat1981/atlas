@@ -19,7 +19,7 @@ related:
 - id: "thk-heraclitus", title: "هيراقليطس الإفسيسي", type: "مفكر"
 - id: "con-logos-heraclitus", title: "اللوغوس الكوني عند هيراقليطس (Heraclitean Logos)", type: "مفهوم"
 - id: "thk-chrysippus", title: "خريسيبوس السولي", type: "مفكر"
-- id: "trm-logos-heraclitus-stoic", title: "اللوغوس (Logos): الكلمة والعقل الكلي ونظام الوجود", type: "مصطلح"
+- id: "trm-logos-heraclitus-stoic", title: "اللوغوس (Logos): الكلمة والعقل الكلي ونظام الوجود", type: "مصطلح لغوي متنازع عليه"
 - id: "con-chokmah-hebrew", title: "حُخْمَة (الحكمة العبرية)", type: "مفهوم"
 - id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا (الشيخ الرئيس)", type: "مفكر"
 - id: "con-active-intellect-nous-poietikos", title: "العقل الفعال والمفارق (Active Intellect / Nous Poietikos)", type: "مفهوم"

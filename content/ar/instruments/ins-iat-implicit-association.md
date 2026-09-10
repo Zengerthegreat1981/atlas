@@ -17,7 +17,7 @@ evidence_level: "controversial"
 edges:
   []
 related:
-- id: "con-confirmation-bias", title: "انحياز التأكيد", type: "مفهوم"
+- id: "con-confirmation-bias", title: "انحياز التأكيد (البحث الانتقائي عما يثبت المعتقد المسبق)", type: "مفهوم"
 - id: "crt-replication-crisis", title: "نقد أزمة التكرار العلمي: ميتا-تحليلات لا تتطابق", type: "نقد خارجي موثَّق"
 gaps:
   - "أبحاث أنتوني غرينوالد ومحزارين باناجي (Greenwald et al. 1998) في هارفارد والجدل السيكومتري حول ثبات الاختبار وإعادة الاختبار (Test-Retest Reliability)."

@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2002
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 crumb: "علم الأحياء العصبي البيني-الشخصي (IPNB) ← الناس ← لويس كوتزولينو"
 edges:
 - rel: "belongs_to", target: "br-interpersonal-neurobiology", target_type: "تيار"
@@ -20,6 +20,7 @@ related:
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *The Neuroscience of Psychotherapy* (2002) بترجمة عربية معتمدة."
   - "رابط أُزيل: «روبرت كيلر» (thk-rkeller) لا ملف له في الأطلس ولا ذكر له في متن هذا الملف — slug وهمي لا وجود له."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-interpersonal-neurobiology` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # لويس كوتزولينو

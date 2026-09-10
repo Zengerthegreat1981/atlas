@@ -18,7 +18,7 @@ original_language: "الإنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-care-ethics", target_type: "مدرسة"
 related:
-- id: "sch-care-ethics", title: "أخلاقيات الرعاية", type: "مدرسة"
+- id: "sch-care-ethics", title: "أخلاقيات الرعاية (Care Ethics)", type: "مدرسة"
 - id: "thk-gilligan", title: "كارول غيليغان", type: "مفكر"
 gaps:
   - "يوجد ملف ثانٍ لهذا العمل بعنوان `wrk-in-a-different-voice-gilligan` (750 حرفاً وقت التسجيل، مسجَّل في FINDING-duplicate-works-slugs.md) — لم يُدمَج، وهذا الملف عُمِّق كما هو دون المساس بالآخر."

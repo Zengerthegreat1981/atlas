@@ -15,7 +15,7 @@ active_end: 1994
 edges:
 - rel: "belongs_to", target: "sch-phil-science", target_type: "مدرسة"
 related:
-- id: "sch-phil-science", title: "فلسفة العلم", type: "مدرسة"
+- id: "sch-phil-science", title: "فلسفة العلم (كمظلة)", type: "مدرسة"
 - id: "thk-thomas-kuhn", title: "توماس صامويل كوهن", type: "مفكر"
 - id: "ctx-post-truth-polarization-social-media", title: "عصر «ما بعد الحقيقة» وخوارزميات الاستقطاب وغرف الصدى الرقمية", type: "سياق/تقليد"
 gaps: []

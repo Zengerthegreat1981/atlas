@@ -13,7 +13,7 @@ active_start: 1965
 active_end: 2023
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "tec-biofeedback", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-biofeedback", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-sothmer", title: "سيغفريد أوتمر", type: "مفكر"
 - id: "thk-jlubar", title: "جويل لوبار", type: "مفكر"

@@ -20,7 +20,7 @@ related:
 - id: "thk-mrowland", title: "ميليسا رولاند", type: "مفكر"
 - id: "thk-pfisher", title: "بيتر فيشر", type: "مفكر"
 - id: "thk-charles-glisson", title: "تشارلز غليسون", type: "مفكر"
-- id: "thk-david-erceg", title: "ديفيد إرسغ", type: "مفكر"
+- id: "thk-david-erceg", title: "ديفيد إرسغ-هيرن", type: "مفكر"
 - id: "thk-jgould", title: "جيمس ليبشيتز", type: "مفكر"
 - id: "thk-melissaschaefer", title: "ميليسا شيفر", type: "مفكر"
 - id: "thk-philippe-cunningham", title: "فيليب كَننغهام", type: "مفكر"

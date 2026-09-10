@@ -10,7 +10,7 @@ part: "psychology"
 active_start: 1935
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "br-jungian", target_type: "مدرسة"
+- rel: "relates_to", target: "br-jungian", target_type: "تيار"
 related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-edinger", title: "إدوارد إف. إيدينغر", type: "مفكر"

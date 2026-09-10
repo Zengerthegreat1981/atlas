@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 - id: "thk-nsugiyama", title: "نَأوكو سُوگييامَا", type: "مفكر"
-- id: "thk-hjguilhardi", title: "هيليو جيلاردي", type: "مفكر"
+- id: "thk-hjguilhardi", title: "هيليو جوزيه غيلاردي", type: "مفكر"
 gaps:
   - "اسم 'Tetsumi Moriyama' (الاسم الأول 'Tetsumi' بالأنثوي، الصحيح هو 'Tetsuo' — الاسم الذكوري) يوحي بنسخة مغلوطة من الاسم الياباني."
   - "لا توجد سيرة ذاتية منشورة لهذا الاسم في Tokiwa University أو J-ABA."

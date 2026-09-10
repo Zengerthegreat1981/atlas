@@ -2,7 +2,7 @@
 slug: "sch-kaupapa-maori"
 id: "SCH-0172"
 type: "مدرسة"
-part: "philosophy"
+part: "psychology"
 level: "متوسط"
 title: "Kaupapa Māori (فلسفة الماوري)"
 en: "Kaupapa Māori (Māori Philosophy)"
@@ -22,6 +22,7 @@ related:
 gaps:
   - "نصوص Graham Hingangaroa Smith وLinda Tuhiwai Smith (دائماً) need review."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» ويخالف 6 من أبنائه — فالخطأُ في الأب لا في الأبناء، وصُحِّح إلى «psychology» بأغلبية الأسرة."
 ---
 
 # Kaupapa Māori (فلسفة الماوري)

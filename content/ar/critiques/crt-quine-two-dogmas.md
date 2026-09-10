@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-quinean-naturalism", target_type: "مدرسة"
 related:
 - id: "thk-wquine", title: "ويلارد فان أورمان كواين", type: "مفكر"
-- id: "wrk-two-dogmas", title: "عقيدتان من عقائد التجريبية (Two Dogmas of Empiricism)", type: "عمل / كتاب"
+- id: "wrk-two-dogmas", title: "عقيدتان من عقائد التجريبية (Two Dogmas of Empiricism)", type: "عمل / مقالة"
 - id: "dbt-analytic-synthetic-distinction", title: "جدل التمييز بين القضايا التحليلية والتركيبية", type: "جدل"
 gaps:
   - "رد كارناب المباشر (في مراسلاته مع كواين ومقالاته اللاحقة) غير ملخَّص هنا بالتفصيل النصي."

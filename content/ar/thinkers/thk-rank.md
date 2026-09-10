@@ -10,15 +10,15 @@ country: "الولايات المتحدة"
 language: "الألمانية/الإنجليزية"
 active_start: 1905
 active_end: 1939
-part: "philosophy"
+part: "psychology"
 crumb: "التحليل النفسي ← مؤسِّس ← أوتو رانك"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-may", title: "رولو ماي", type: "مفكر"
-- id: "thk-fromm-reichmann", title: "فريدا فروم-رايشمان", type: "مفكر"
-- id: "evt-wednesday-psychological-society-1902", title: "تأسيس جمعية الأربعاء النفسية", type: "حدث"
+- id: "thk-fromm-reichmann", title: "فريدا فروم-رايخمان", type: "مفكر"
+- id: "evt-wednesday-psychological-society-1902", title: "تأسيس جمعية الأربعاء النفسية في فيينا", type: "حدث تاريخي"
 - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 gaps:
   - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-psychoanalysis` بحسب المجال المُصحَّح في مسار التنقّل («التحليل النفسي»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."
@@ -26,6 +26,7 @@ gaps:
   - "نص 'صدمة الميلاد' (1924) بالعربية متاح جزئياً بترجمة رائدة."
   - "تفاصيل الانشقاق مع فرويد (1926) موثّقة في رسائل فرويد."
   - "لا يوجد ملف مستقل موثَّق حالياً في الأطلس لرودولف أبرت (Rudolf Allers) ولا لأنيتا رانك (Anita Rank) ولا لمترجم إنجليزي بعينه لأعماله، فحُذفت روابطهم من related؛ ذكرهم في المتن نصّي فقط دون رابط."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # أوتو رانك

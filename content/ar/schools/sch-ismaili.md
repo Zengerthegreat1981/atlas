@@ -14,7 +14,7 @@ cultural_origin: "islamic-arabic"
 active_start: 870
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 related:
 - id: "sch-imami-kalam", title: "الكلام الإمامي الاثنا عشري", type: "مدرسة"
 - id: "sch-ikhwan-safa", title: "إخوان الصفا", type: "مدرسة"

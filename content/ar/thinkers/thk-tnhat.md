@@ -11,7 +11,7 @@ country: "فرنسا (من أصل فيتنامي)"
 language: "الفيتنامية/الإنجليزية"
 active_start: 1960
 active_end: 2022
-part: "psychology"
+part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-engaged-buddhism", target_type: "مدرسة"
 related:
@@ -21,6 +21,7 @@ related:
 gaps:
   - "لا اقتباس مباشر منسوب له بمصدر ورقم صفحة تم التحقق منه."
   - "تفاصيل مساره من فيتنام إلى فرنسا (منفاه بعد 1966) وتأسيس Plum Village عام 1982 بالضبط تحتاج توثيقاً أدق."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-engaged-buddhism` موسومٌ «philosophy» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # تِك نات هان

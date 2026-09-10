@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "dis-body-dysmorphic-disorder", title: "اضطراب خلل التشكّل الجسدي", type: "اضطراب/حالة إكلينيكية"
-- id: "syn-somatoparaphrenia", title: "متلازمة السوماتوبارافرينيا", type: "متلازمة"
+- id: "syn-somatoparaphrenia", title: "متلازمة السوماتوبارافرينيا (إنكار ملكية الأطراف المشلولة)", type: "متلازمة"
 - id: "con-body-schema", title: "مخطط الجسد (Body Schema): النظام اللاواعي للحركة", type: "مفهوم"
 gaps:
   - "أبحاث جون ماني (John Money 1977) ومايكل فيرست (Michael First 2005) ودراسات التصوير العصبي للقشرة الجدارية العليا."

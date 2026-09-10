@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-new-realism", target_type: "مدرسة"
 related:
 - id: "sch-american-idealism", title: "المثالية الأمريكية", type: "مدرسة"
-- id: "sch-new-realism", title: "الواقعية الجديدة", type: "مدرسة"
+- id: "sch-new-realism", title: "الواقعية الجديدة (البريطانية-الأمريكية المبكرة)", type: "مدرسة"
 gaps:
   - "التفاصيل الدقيقة لموقفه من 'البيانات الحسية' بعد انقسام 1920 لم تُراجع من المصدر الأولي."
   - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لـرالف بارتون بيرّي."

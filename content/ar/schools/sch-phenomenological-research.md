@@ -17,15 +17,15 @@ edges:
 - rel: "grounded_in", target: "sch-phenomenology", target_type: "مدرسة"
 related:
 - id: "sch-phenomenology", title: "الظاهراتية (Phänomenologie)", type: "مدرسة"
-- id: "sch-phenomenological-psychiatry", title: "الطب النفسي الظاهراتي", type: "مدرسة"
+- id: "sch-phenomenological-psychiatry", title: "الطب النفسي الظاهراتي (Phenomenological Psychiatry)", type: "مدرسة"
 - id: "thk-giorgi", title: "أميديو جيورجي", type: "مفكر"
 - id: "thk-wertz", title: "فريدريك فيرتز", type: "مفكر"
 - id: "thk-lfinlay", title: "ليندا فينلاي", type: "مفكر"
 - id: "thk-fahrenberg", title: "يوخن فارنبرغ", type: "مفكر"
 - id: "thk-moustakas", title: "كلارك موستاكاس", type: "مفكر"
 - id: "thk-fherzog", title: "ف. هرتسوغ", type: "مفكر"
-- id: "con-epoche-phenomenological-reduction", title: "الإيبوخي والاختزال الظاهراتي", type: "مفهوم"
-- id: "stu-heuristic-research", title: "البحث الاستكشافي (موستاكاس)", type: "دراسة وبحث"
+- id: "con-epoche-phenomenological-reduction", title: "الإيبوخي والرد الفينومينولوجي (Epoché / Phenomenological Reduction)", type: "مفهوم"
+- id: "stu-heuristic-research", title: "البحث الكشفي / الاستكشافي (Heuristic Research)", type: "دراسة وبحث"
 - id: "stu-descriptive-phenomenological-method-giorgi", title: "المنهج الفينومينولوجي الوصفي (جيورجي)", type: "دراسة وبحث"
 gaps:
   - "**أُنشئ هذا الملف 2026-09-08:** كان اسمُ «منهجية البحث الظاهراتي» يُستعمل أباً نصّياً في `belongs_to` لملفَّين، وكانت ستّةُ ملفاتٍ موسومةً بـ«مناهج البحث الظاهراتي» في مسار التنقّل بلا مدرسةٍ تجمعها."

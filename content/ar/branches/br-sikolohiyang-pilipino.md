@@ -11,7 +11,7 @@ dates: "من 1975"
 active_start: 1975
 active_end: "مستمر"
 language: "الفلبينية"
-part: "psychology"
+part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-indigenous-psychology", target_type: "مدرسة"
 related:
@@ -19,7 +19,7 @@ related:
 - id: "br-liberation-psychology", title: "علم نفس التحرير (مارتين-بارو)", type: "تيار"
 - id: "br-african-centered-psychology", title: "علم النفس الإفريقي المتمركز (نوبلز وأكبر)", type: "تيار"
 - id: "con-amae", title: "أماي (الاعتمادية الحميمية والتكامل النفسي)", type: "مفهوم"
-- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الكولونيالي لـDSM", type: "نقد خارجي موثَّق"
+- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري لـ DSM: التصنيف كخريطة جيوسياسية للمعاناة المقبولة", type: "نقد خارجي موثَّق"
 - id: "br-psychocoaching", title: "التدريب النفسي / Psy-coaching", type: "تيار"
 gaps:
   - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-humanistic`، ونُقل إلى `sch-indigenous-psychology` — علمُ النفس الفلبيني الأصيل من علم نفس الشعوب الأصلية."
@@ -29,6 +29,7 @@ gaps:
   - "**أُزيلت من `related` روابطُ لا صلةَ لها بالمتن**: كان الملف يشير إلى `br-ml-personalized-therapy` (العلاجُ المشخَّص بالتعلّم الآلي) و`br-kleinian` (الكلاينية) بلا أي مسوّغ في المتن — وهو نمطٌ من الربط العشوائي لوحظ في هذه الدفعة من ملفات التيارات."
   - "مستوياتُ العلاقة الثمانية عند إنريكيز أُثبتت بحسب ما هو مستقرّ في الأدبيات؛ ولم أُثبت ترقيمَها من نصّه بالصفحة."
   - "لا ملفَّ في الأطلس لمفاهيم **كابوا** ولا **هيا** ولا **باكيكيسَما** مستقلّةً، وهي لازمةٌ ومذكورةٌ هنا."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-indigenous-psychology` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # علم النفس الفلبيني الأصيل (إنريكيز)

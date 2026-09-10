@@ -14,7 +14,7 @@ edges:
 - rel: "belongs_to", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
 - id: "wrk-scarcity-mullainathan", title: "الندرة: لماذا يعني القليل جداً الكثير جداً", type: "عمل / كتاب"
-- id: "con-loss-aversion", title: "كراهية الخسارة", type: "مفهوم"
+- id: "con-loss-aversion", title: "كراهية الخسارة وتفضيل تجنب الألم على كسب المكاسب", type: "مفهوم"
 gaps:
   - "تجارب زراعة قصب السكر في الهند وأثر دورة الحصاد والسيولة المالية على الأداء المعرفي."
 ---

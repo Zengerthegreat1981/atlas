@@ -10,7 +10,7 @@ dates: "أمريكا · 1922–1981"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 part: "psychology"
-active_start: null
+active_start: 1922
 active_end: 1981
 edges:
 - rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
@@ -22,6 +22,7 @@ related:
 - id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Schedules of Reinforcement* (1957) بترجمة عربية معتمدة."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («أمريكا · 1922–1981») فاستُخرجت: 1922."
 ---
 
 # تشارلز فيرستر

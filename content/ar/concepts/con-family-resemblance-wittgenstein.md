@@ -14,11 +14,11 @@ edges:
 related:
 - id: "thk-lwittgenstein", title: "لودفيغ فيتغنشتاين", type: "مفكر"
 - id: "sch-ordinary-language", title: "فلسفة اللغة العادية", type: "مدرسة"
-- id: "wrk-philosophical-investigations-wittgenstein", title: "بحوث فلسفية للودفيغ فيتغنشتاين", type: "عمل"
+- id: "wrk-philosophical-investigations-wittgenstein", title: "بحوث فلسفية للودفيغ فيتغنشتاين", type: "عمل / كتاب"
 - id: "con-language-games-late-wittgenstein", title: "ألعاب اللغة وسياقات الحياة (Language-Games / Sprachspiele)", type: "مفهوم"
 - id: "con-private-language-argument", title: "استحالة اللغة الخاصة الباطنية (Private Language Argument)", type: "مفهوم"
 - id: "dbt-problem-of-universals", title: "جدل الكليات: الواقعية والتصورية والاسمية", type: "جدل"
-- id: "trm-family-resemblance-wittgenstein", title: "التشابه العائلي (Family Resemblance): المفاهيم المتشابكة بلا جوهر موحد", type: "مصطلح"
+- id: "trm-family-resemblance-wittgenstein", title: "التشابه العائلي (Family Resemblance): المفاهيم المتشابكة بلا جوهر موحد", type: "مصطلح لغوي متنازع عليه"
 gaps:
   - "لا يتوفر نص اقتباس مباشر موثق بالصفحة من الفقرات 66-67 من Philosophical Investigations."
   - "لم تُراجع علاقة المفهوم بنظرية النماذج الأولية لإليانور روش (Prototype Theory) بمصدر أولي مستقل — الرابط موجود بالفعل في trm-family-resemblance-wittgenstein."

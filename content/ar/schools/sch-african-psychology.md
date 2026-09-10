@@ -20,7 +20,7 @@ edges:
 related:
 - id: "sch-ubuntu", title: "فلسفة أوبونتو المعاصرة", type: "مدرسة"
 - id: "sch-ubuntu-traditional", title: "فلسفة أوبونتو التقليدية", type: "مدرسة"
-- id: "sch-african-professional-philosophy", title: "الفلسفة الأفريقية المهنية", type: "مدرسة"
+- id: "sch-african-professional-philosophy", title: "الفلسفة الأفريقية المهنية/الأكاديمية", type: "مدرسة"
 - id: "sch-african-decolonial", title: "الفلسفة الأفريقية الديكولونيالية", type: "مدرسة"
 - id: "sch-african-cross-cultural", title: "الفلسفة الأفريقية بين-الثقافية", type: "مدرسة"
 - id: "sch-african-hermeneutical", title: "الفلسفة الأفريقية التأويلية", type: "مدرسة"

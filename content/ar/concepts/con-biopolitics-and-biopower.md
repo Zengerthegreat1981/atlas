@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
 - id: "con-governmentality-foucault", title: "الحكومية وعقلانية الحكم (Governmentality)", type: "مفهوم"
-- id: "wrk-discipline-and-punish-foucault", title: "المراقبة والمعاقبة لميشيل فوكو (Surveiller et punir)", type: "عمل"
+- id: "wrk-discipline-and-punish-foucault", title: "المراقبة والمعاقبة لميشيل فوكو (Surveiller et punir)", type: "عمل / كتاب"
 gaps:
   - "لا يوجد ربط بالعمل المصدر (محاضرات 'يجب الدفاع عن المجتمع' 1975-1976 أو 'إرادة المعرفة') لأن ملف عمل مخصّص له غير موجود بعد في الأطلس."
   - "التحليل الإبستمولوجي واللغوي الدقيق لتطور المفهوم عبر التاريخ."

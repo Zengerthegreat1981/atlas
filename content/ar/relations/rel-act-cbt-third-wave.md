@@ -4,7 +4,7 @@ id: "REL-1001"
 type: "علاقة بين مدرستين"
 level: "متوسط"
 title: "العلاج بالقبول والالتزام والموجة الثالثة من CBT: من الجدل إلى التشارك"
-en: "العلاج بالقبول والالتزام والموجة الثالثة من CBT: من الجدل إلى التشارك"
+en: "ACT and the Third Wave of CBT: From Controversy to Convergence"
 crumb: "العلاقات بين المدارس ← العلاج بالقبول والالتزام (ACT) × العلاج المعرفي السلوكي"
 language: "العربية"
 part: "psychology"
@@ -14,7 +14,7 @@ edges:
 related:
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "rel-humanistic-positive", title: "الإنسانية وعلم النفس الإيجابي: ابن ينسى أباه", type: "علاقة بين مدرستين"
-- id: "rel-psychodynamic-attachment", title: "النظرية الديناميكية ونظرية التعلق: من Bowlby إلى Fonagy", type: "علاقة بين مدرستين"
+- id: "rel-psychodynamic-attachment", title: "التحليل النفسي ونظرية التعلّق: من طردِ بولبي إلى عودته وارثاً", type: "علاقة بين مدرستين"
 - id: "rel-confucian-self-cultivation-family-systems", title: "تزكية الذات الكونفوشية والعلاج الأسري النظامي (Bowen)", type: "علاقة بين مدرستين"
 gaps:
   - "الوصف أعلاه هو نقطة بداية — يحتاج توسعاً تفصيلياً بالمصادر الأولية."

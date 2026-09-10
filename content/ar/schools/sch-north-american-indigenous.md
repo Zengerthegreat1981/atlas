@@ -15,9 +15,9 @@ active_start: -1000
 active_end: "مستمر"
 active_source: "lifespan"
 related:
-- id: "sch-haudenosaunee", title: "فلسفات الهاودينوسوني", type: "مدرسة"
-- id: "sch-dreamtime", title: "Dreaming / Dreamtime", type: "مدرسة"
-- id: "sch-indigenous-philosophy-contemporary", title: "فلسفات السكان الأصليين المعاصرة", type: "مدرسة"
+- id: "sch-haudenosaunee", title: "فلسفات الهاودينوسوني/الإيروكوا", type: "مدرسة"
+- id: "sch-dreamtime", title: "Dreaming / Dreamtime (فلسفة السكان الأصليين الأستراليين)", type: "مدرسة"
+- id: "sch-indigenous-philosophy-contemporary", title: "فلسفات السكان الأصليين المعاصرة (كمظلة نقدية عابرة للمناطق)", type: "مدرسة"
 gaps:
   - "النصوص الأصلية للسكان الأصليين الأمريكيين (متفرقة) تحتاج مراجعة من المصدر الأولي."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-existentialism-atheist", target_type: "مدرسة"
 related:
-- id: "thk-buddha", title: "بوذا", type: "مفكر"
+- id: "thk-buddha", title: "بوذا (سيدهارتا غوتاما)", type: "مفكر"
 - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: المعاناة (con-suffering)"

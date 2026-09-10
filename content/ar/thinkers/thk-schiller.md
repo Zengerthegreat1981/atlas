@@ -20,7 +20,7 @@ related:
 - id: "thk-fichte", title: "يوهان غوتليب فيشته", type: "مفكر"
 - id: "thk-holderlin", title: "فريدريش هولدرلين", type: "مفكر"
 - id: "thk-schelling", title: "فريدريش شيلينغ", type: "مفكر"
-- id: "ctx-weimar-classicism-goethe-schiller", title: "الكلاسيكية الفيمارية", type: "سياق/تقليد"
+- id: "ctx-weimar-classicism-goethe-schiller", title: "الكلاسيكية الفيمارية وغوته وشيلر وتثقيف الإنسان الجمالي", type: "سياق/تقليد"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:
   - "تفاصيل دراسته في مدرسة «Hohe Karlsschule» الطبية في شتوتغارت موثّقة جزئياً."

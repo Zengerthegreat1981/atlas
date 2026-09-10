@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
 - id: "thk-bentham", title: "جيريمي بنثام", type: "مفكر"
-- id: "wrk-discipline-and-punish-foucault", title: "المراقبة والمعاقبة لميشيل فوكو (Surveiller et punir)", type: "عمل"
+- id: "wrk-discipline-and-punish-foucault", title: "المراقبة والمعاقبة لميشيل فوكو (Surveiller et punir)", type: "عمل / كتاب"
 - id: "con-panopticism-surveillance-society", title: "المراقبة البانوبتيكية والضبط المجتمعي (Panopticism)", type: "مفهوم"
 - id: "con-governmentality-foucault", title: "الحكومية وعقلانية الحكم (Governmentality)", type: "مفهوم"
 gaps:

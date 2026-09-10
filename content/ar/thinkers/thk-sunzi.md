@@ -16,7 +16,7 @@ active_source: "lifespan"
 edges:
 - rel: "belongs_to", target: "sch-military-chinese", target_type: "مدرسة"
 related:
-- id: "sch-military-chinese", title: "المدرسة العسكرية الصينية", type: "مدرسة"
+- id: "sch-military-chinese", title: "المدرسة العسكرية الصينية (Bingjia)", type: "مدرسة"
 - id: "wrk-artofwar", title: "فن الحرب (سون تزو)", type: "عمل / كتاب"
 gaps:
   - "وجود سون تزو التاريخي موضع خلاف. بعض الأكاديميين (مثل Roger Ames، 1993) يرون أن 'فن الحرب' كُتب في القرن 4 ق.م لا القرن 6 ق.م."

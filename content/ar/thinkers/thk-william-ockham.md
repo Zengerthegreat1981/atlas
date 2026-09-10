@@ -15,7 +15,7 @@ language: "اللاتينية"
 edges:
 - rel: "belongs_to", target: "sch-ockhamism", target_type: "مدرسة"
 related:
-- id: "con-ockhams-razor", title: "شفرة أوكام", type: "مفهوم"
+- id: "con-ockhams-razor", title: "شفرة أوكام — مبدأ الاقتصاد المعرفي (Ockham's Razor)", type: "مفهوم"
 - id: "sch-ockhamism", title: "الأوكامية / الاسمية", type: "مدرسة"
 - id: "sch-scotism", title: "السكوتية", type: "مدرسة"
 gaps:

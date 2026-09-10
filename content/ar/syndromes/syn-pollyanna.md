@@ -12,7 +12,7 @@ active_end: "مستمر"
 language: "متعدد اللغات"
 edges: []
 related:
-- id: "con-toxic-positivity", title: "الإيجابية السامة", type: "مفهوم"
+- id: "con-toxic-positivity", title: "الإيجابية السامة (إنكار المشاعر الصعبة والإلزام بالتفاؤل)", type: "مفهوم"
 - id: "dis-adjustment-disorders", title: "اضطرابات التكيّف", type: "اضطراب/حالة إكلينيكية"
 - id: "con-optimism", title: "التفاؤل", type: "مفهوم"
 gaps:

@@ -17,11 +17,11 @@ edges:
 - rel: "belongs_to", target: "sch-phenomenology", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-phenomenology-existential", target_type: "مدرسة"
 related:
-- id: "sch-phenomenology", title: "الظاهراتية", type: "مدرسة"
-- id: "sch-hermeneutics", title: "الهرمنيوطيقا الفلسفية", type: "مدرسة"
-- id: "sch-phenomenology-existential", title: "الظاهراتية الوجودية", type: "مدرسة"
+- id: "sch-phenomenology", title: "الظاهراتية (Phänomenologie)", type: "مدرسة"
+- id: "sch-hermeneutics", title: "الهرمنيوطيقا الفلسفية (Philosophische Hermeneutik)", type: "مدرسة"
+- id: "sch-phenomenology-existential", title: "الظاهراتية الوجودية (Existential Phenomenology)", type: "مدرسة"
 - id: "thk-dmercieca", title: "دانييلا ميرسيكا", type: "مفكر"
-- id: "rel-daseinsanalysis-heideggerian-phenomenology", title: "تحليل الدازاين والظاهراتية الهايدغرية: من «الكينونة والزمن» إلى العيادة", type: "علاقة بين مدرستين"
+- id: "rel-daseinsanalysis-heideggerian-phenomenology", title: "تحليل الدازاين والظاهراتية الهايدغرية: من \'الكينونة والزمن\' إلى العيادة", type: "علاقة بين مدرستين"
 - id: "thk-edith-stein", title: "إديث شتاين (ظاهراتية، توماوية، شهيدة)", type: "مفكر"
 gaps:
   - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشاراتٌ إلى 3 عقدةً كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."

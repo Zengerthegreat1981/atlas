@@ -14,7 +14,7 @@ active_end: "مستمر"
 part: "psychology"
 edges: []
 related:
-- id: "con-psilocybin", title: "السيلوسيبين", type: "مفهوم"
+- id: "con-psilocybin", title: "السيلوسيبين في العلاج النفسي", type: "مفهوم"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي (تخرّج من جامعة Howard عام 2002 تقريباً)."
   - "تجربة psilocybin للتدخين (Johnson et al. 2014) هي التجربة السريرية الأولى لإدمان التدخين بالـ psilocybin."

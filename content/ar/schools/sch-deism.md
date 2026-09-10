@@ -19,8 +19,8 @@ related:
 - id: "thk-voltaire", title: "فولتير", type: "مفكر"
 - id: "sch-second-scholasticism", title: "السكولاستية الثانية (إسبانيا، عصر النهضة)", type: "مدرسة"
 - id: "sch-classical-liberalism-early", title: "الليبرالية الكلاسيكية المبكرة", type: "مدرسة"
-- id: "sch-enlightenment", title: "فلسفة التنوير", type: "مدرسة"
-- id: "sch-british-empiricism", title: "التجريبية البريطانية", type: "مدرسة"
+- id: "sch-enlightenment", title: "فلسفة التنوير (كمظلة عامة)", type: "مدرسة"
+- id: "sch-british-empiricism", title: "التجريبية البريطانية (كمظلة)", type: "مدرسة"
 gaps:
   - "نصوص تولاند وتيندال وكولينز بالإنجليزية تحتاج مراجعة من المصدر الأولي."
   - "التمييز بين 'الربوبية' و'الإلحاد' و'الربوبية الطبيعية' (Natural Religion) معقّد."

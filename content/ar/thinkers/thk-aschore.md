@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 crumb: "علم الأحياء العصبي البيني-الشخصي (IPNB) ← الناس ← ألان شور"
 edges:
 - rel: "belongs_to", target: "br-interpersonal-neurobiology", target_type: "تيار"
@@ -20,6 +20,7 @@ related:
 - id: "thk-lcozolino", title: "لويس كوتزولينو", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Affect Regulation and the Origin of the Self* (1994) بترجمة عربية معتمدة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-interpersonal-neurobiology` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # ألان شور

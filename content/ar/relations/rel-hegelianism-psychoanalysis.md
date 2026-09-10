@@ -13,7 +13,7 @@ edges:
 - rel: "relates_to", target: "sch-german-idealism", target_type: "مدرسة"
 - rel: "relates_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-- id: "sch-german-idealism", title: "المثالية الألمانية", type: "مدرسة"
+- id: "sch-german-idealism", title: "المثالية الألمانية (كمظلة)", type: "مدرسة"
 - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"

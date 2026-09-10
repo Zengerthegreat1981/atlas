@@ -17,8 +17,8 @@ related:
 - id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
 - id: "thk-mandolfi", title: "ماورو أندولفي", type: "مفكر"
 - id: "thk-cprata", title: "جوليانا براتا", type: "مفكر"
-- id: "thk-pwatzlawick", title: "بول فاتسلافيك", type: "مفكر"
-- id: "con-joining", title: "الانضمام العلاجي", type: "مفهوم"
+- id: "thk-pwatzlawick", title: "بول واتزلاويك", type: "مفكر"
+- id: "con-joining", title: "الانضمام العلاجي (Joining)", type: "مفهوم"
 gaps:
   - "لا توجد ملفات مستقلة في الأطلس لـ«العلاج الأسري البنيوي» أو «العلاج الأسري» أو «الحدود في الأسرة» كمفاهيم منفصلة (توجد تقنية tec-structural-family-therapy فقط، ليست مدرسة)؛ الروابط إليها كمفاهيم أُزيلت وسُجّلت في missing-schools.md."
   - "كتاب 'Family Therapy: Concepts and Methods' (2009، مع Davis) بحاجة لتأكيد الطبعة الدقيقة من مصدر أولي."

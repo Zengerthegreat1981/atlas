@@ -14,7 +14,7 @@ active_start: 1870
 active_end: 1930
 cultural_origin: "anglo-american"
 edges:
-- rel: "belongs_to", target: "sch-british-idealism", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-british-idealism", target_type: "مدرسة"
 - rel: "superseded_by", target: "sch-pragmatism-classical", target_type: "مدرسة"
 related:
 - id: "sch-personalism", title: "الفلسفة الشخصية (الشخصانية المبكرة)", type: "مدرسة"

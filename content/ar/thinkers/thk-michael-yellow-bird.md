@@ -2,7 +2,7 @@
 slug: "thk-michael-yellow-bird"
 id: "THK-6350"
 type: "مفكر"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "مايكل يلو بيرد"
 en: "Michael Yellow Bird"
@@ -15,16 +15,17 @@ crumb: "إنهاء استعمار العلاج ← مؤسِّسون ← مايك
 edges:
 - rel: "belongs_to", target: "br-decolonizing-therapy", target_type: "تيار"
 related:
-- id: "br-decolonizing-therapy", title: "إنهاء استعمار العلاج النفسي", type: "تيار"
-- id: "con-decolonizing-therapy", title: "إنهاء استعمار العلاج", type: "مفهوم"
+- id: "br-decolonizing-therapy", title: "نزع استعمار العلاج النفسي (دوران ويلو بيرد)", type: "تيار"
+- id: "con-decolonizing-therapy", title: "العلاج اللااستعماري (Decolonizing Therapy)", type: "مفهوم"
 - id: "thk-eduardo-duran", title: "إدواردو دوران", type: "مفكر"
-- id: "con-historical-trauma", title: "الصدمة التاريخية", type: "مفهوم"
-- id: "con-mindfulness", title: "اليقظة الذهنية", type: "مفهوم"
+- id: "con-historical-trauma", title: "الصدمة التاريخية (Historical Trauma)", type: "مفهوم"
+- id: "con-mindfulness", title: "اليقظة الذهنية (Mindfulness)", type: "مفهوم"
 gaps:
   - "**كُتب متنُه 2026-09-07:** كان يلو بيرد مذكوراً في ملفّ `br-decolonizing-therapy` بلا ملفٍّ يُعرِّفه."
   - "لا ملفَّ في الأطلس لـ**ماريا يلو هورس براف هارت**، صاحبةِ مفهوم الصدمة التاريخية لدى الشعوب الأصلية."
   - "**«إنهاءُ الاستعمار العصبي» دعوى نظريةٌ لم تُختبَر** بتصميمٍ مضبوط — انظر التحوُّطَ في المتن."
   - "سنةُ ميلاده مأخوذةٌ من سِيَرٍ مؤسّسيةٍ منشورة، ولم أجد لها تأكيداً من مصدرٍ ثانٍ مستقلّ."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-decolonizing-therapy` موسومٌ «philosophy» — فوُحِّد على وسم الأب."
 ---
 
 # مايكل يلو بيرد

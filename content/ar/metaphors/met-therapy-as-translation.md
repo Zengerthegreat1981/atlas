@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-- id: "wrk-die-traumdeutung", title: "تفسير الأحلام", type: "عمل"
+- id: "wrk-die-traumdeutung", title: "تفسير الأحلام", type: "عمل / كتاب"
 gaps:
   - "استخدام بول ريكور الصريح لمصطلح 'الترجمة' (بالفرنسية) بدل 'التأويل' في نصوصه عن التحليل النفسي لم يتحقق منه بنص أولي بعد."
   - "تأريخ محدد لأول استخدام صريح لعبارة 'therapy as translation' في أدبيات العلاج الأسري لم يتحقق منه بعد."

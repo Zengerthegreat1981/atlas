@@ -8,7 +8,7 @@ en: "Yoga Therapy"
 crumb: "أطر غير غربية ← المفاهيم ← علاج اليوغا"
 active_start: 1960
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-yoga", target_type: "مدرسة"
 related:
@@ -16,6 +16,7 @@ related:
 gaps:
   - "Swami Satchidananda وKrishnamacharya وDesikachar بلا ملفات مفكرين في الأطلس بعد؛ لم يُربطوا بـ related لعدم وجود slug معتمد."
   - "لا توجد ## المصادر موثقة لهذا الملف — يحتاج مراجع أكاديمية عن علاج اليوغا (مثل أبحاث IAYT) قبل إضافة القسم."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-yoga` موسومٌ «philosophy» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # علاج اليوغا (Yoga Therapy)

@@ -20,7 +20,7 @@ related:
 - id: "thk-cgrof", title: "كريستينا غروف", type: "مفكر"
 - id: "thk-eugenetaylor", title: "يوجين تيلور", type: "مفكر"
 - id: "thk-ahofmann", title: "ألبرت هوفمان", type: "مفكر"
-- id: "sch-transpersonal", title: "علم النفس عبر الشخصي", type: "مدرسة"
+- id: "sch-transpersonal", title: "علم النفس عبر الشخصي (Transpersonal Psychology)", type: "مدرسة"
 - id: "thk-lorr", title: "ليونارد أور", type: "مفكر"
 - id: "crt-scientific-critique-transpersonal", title: "نقد الأوساط العلمية لعلم النفس عبر الشخصي والروحانيات: علم زائف؟", type: "نقد خارجي موثَّق"
 - id: "rel-psychedelic-transpersonal", title: "العلاج بمساعدة المواد النفسانية وعبر الشخصية: جد مشترك تاريخي", type: "علاقة بين مدرستين"

@@ -13,11 +13,11 @@ active_start: null
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-- rel: "developed_by", target: "wrk-ecrits", target_type: "مفكر"
+- rel: "developed_by", target: "wrk-ecrits", target_type: "عمل / كتاب"
 related:
 - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
 - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
-- id: "wrk-ecrits", title: "الكتابات (Écrits)", type: "عمل"
+- id: "wrk-ecrits", title: "الكتابات (Écrits) — جاك لاكان", type: "عمل / كتاب"
 - id: "con-real-symbolic-imaginary", title: "الثلاثي الحقيقي-الرمزي-المتخيل (RSI)", type: "مفهوم"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 gaps:

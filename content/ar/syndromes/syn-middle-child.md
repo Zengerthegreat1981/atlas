@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "thk-adler", title: "ألفرد أدلر", type: "مفكر"
-- id: "con-inferiority-superiority-complex", title: "عقدة النقص وعقدة التفوق", type: "مفهوم"
+- id: "con-inferiority-superiority-complex", title: "عقدة النقص وعقدة التفوق (دينامية التعويض في علم النفس الفردي)", type: "مفهوم"
 gaps:
   - "نظرية ألفرد أدلر في ترتيب الولادة (Birth Order Theory 1927) والأبحاث السيكولوجية التنموية الحديثة."
   - "لم يُعثر بعد على اقتباس أولي موثّق من نص أدلر نفسه عن موقع الطفل الأوسط تحديداً."

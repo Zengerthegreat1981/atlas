@@ -15,7 +15,7 @@ active_end: -526
 edges:
 - rel: "belongs_to", target: "sch-milesian", target_type: "مدرسة"
 related:
-- id: "thk-anaximander", title: "أنكسمندر", type: "مفكر"
+- id: "thk-anaximander", title: "أنكسمندر الميليسي", type: "مفكر"
 gaps:
   - "آلية التكاثف والتخلخل وتأثيرها على الفلاسفة الذريين اللاحقين."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."

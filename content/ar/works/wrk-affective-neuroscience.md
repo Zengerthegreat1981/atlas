@@ -22,7 +22,7 @@ related:
 - id: "thk-panksepp", title: "ياكوب بانكسيب", type: "مفكر"
 - id: "thk-jledoux", title: "جوزيف لودوكس", type: "مفكر"
 - id: "br-affective-neuroscience-informed", title: "العلاج المستنير بعلم الأعصاب الوجداني", type: "تيار"
-- id: "rel-neuropsychoanalysis", title: "علم النفس العصبي والتحليل النفسي: من Solms إلى Panksepp", type: "علاقة بين مدرستين"
+- id: "rel-neuropsychoanalysis", title: "التحليل النفسي وعلم الأعصاب: مشروع 1895 يُستأنف بعد قرن", type: "علاقة بين مدرستين"
 - id: "wrk-descartes-error", title: "خطأ ديكارت: العاطفة والعقل والدماغ البشري", type: "عمل / كتاب"
 gaps:
   - "لم تثبت لدينا ترجمة عربية للكتاب باسم مترجم وناشر وسنة، فلم يُدرج شيء عربي في المصادر."

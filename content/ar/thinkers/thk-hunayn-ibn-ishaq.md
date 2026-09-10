@@ -15,7 +15,7 @@ active_end: 873
 edges:
 - rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 related:
-- id: "thk-al-kindi", title: "الكندي", type: "مفكر"
+- id: "thk-al-kindi", title: "أبو يوسف يعقوب بن إسحاق الكندي", type: "مفكر"
 gaps:
   - "منهجه الرائد في تحقيق المخطوطات ومقارنة النسخ اليونانية المتعددة لضبط النص العربي."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."

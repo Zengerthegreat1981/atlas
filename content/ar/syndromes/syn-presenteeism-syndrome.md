@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "syn-burnout", title: "متلازمة الاحتراق الوظيفي والمهني", type: "متلازمة"
-- id: "syn-boreout", title: "متلازمة الملل الوظيفي", type: "متلازمة"
+- id: "syn-boreout", title: "متلازمة الملل الوظيفي والإنهاك بالرتابة (Boreout)", type: "متلازمة"
 - id: "con-false-self-vs-true-self", title: "الذات المزيفة مقابل الذات الحقيقية", type: "مفهوم"
 gaps:
   - "أبحاث كاري كوبر (Cary Cooper 1995) في علم النفس التنظيمي وتكلفة الإنتاجية المفقودة."

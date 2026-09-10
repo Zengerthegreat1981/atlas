@@ -18,9 +18,9 @@ evidence_level: "راسخ لحالات معيّنة (Well-Established for Specif
 edges:
 - rel: "founded_by", target: "thk-iberg", target_type: "مفكر"
 related:
-- id: "sch-systemic-family", title: "العلاج الأسري والنظامي", type: "مدرسة"
+- id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
-- id: "sch-dbt", title: "علاج الجدلي السلوكي (DBT)", type: "مدرسة"
+- id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "thk-sdeshacer", title: "ستيف دي شيزر", type: "مفكر"

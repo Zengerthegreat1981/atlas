@@ -10,7 +10,7 @@ dates: "الولايات المتحدة · 1927–"
 country: "الولايات المتحدة"
 language: "إنجليزية"
 part: "psychology"
-active_start: null
+active_start: 1927
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "br-sport-psychology", target_type: "تيار"
@@ -24,6 +24,7 @@ related:
 gaps:
   - "سنة الميلاد 1927 تقريبية، وسنة الوفاة (إن وُجدت) لم تُراجع."
   - "مسيرته في San Jose State University تستحق توثيقاً."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («الولايات المتحدة · 1927–») فاستُخرجت: 1927."
 ---
 
 # بروس أوكيف

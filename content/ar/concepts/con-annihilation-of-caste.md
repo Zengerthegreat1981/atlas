@@ -14,7 +14,7 @@ edges:
 related:
 - id: "sch-ambedkar-philosophy", title: "الأمبيدكارية (نقد الطبقية والفلسفة الدستورية)", type: "مدرسة"
 - id: "thk-ambedkar", title: "بيماراو رامجي أمبيدكار", type: "مفكر"
-- id: "wrk-annihilation-of-caste", title: "إبادة الطبقية (Annihilation of Caste)", type: "عمل"
+- id: "wrk-annihilation-of-caste", title: "إبادة الطبقية (Annihilation of Caste)", type: "عمل / كتاب"
 - id: "thk-gandhi", title: "موهانداس كرمشاند غاندي", type: "مفكر"
 - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
 - id: "dbt-ambedkar-vs-gandhi-caste", title: "أمبيدكار ضد غاندي: إصلاح الطبقية أم إبادتها؟", type: "جدل"

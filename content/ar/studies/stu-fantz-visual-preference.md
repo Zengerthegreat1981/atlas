@@ -17,7 +17,7 @@ active_end: 1961
 edges:
   []
 related:
-- id: "syn-prosopagnosia", title: "متلازمة عمه تعرف الوجوه", type: "متلازمة"
+- id: "syn-prosopagnosia", title: "متلازمة عمه تعرف الوجوه (عمى الوجوه)", type: "متلازمة"
 gaps:
   - "تصميم 'غرفة النظر' (Looking Chamber) وتسجيل مدة تثبيت بصر الرضيع بالثواني."
   - "sample_size: عدد الرضّع المشاركين لم يُراجع من المصدر الأولي (Fantz, 1961, Scientific American)."

@@ -14,7 +14,7 @@ cultural_origin: "anglo-american"
 active_start: 1790
 active_end: "مستمر"
 related:
-- id: "sch-civic-republicanism", title: "الجمهورية المدنية", type: "مدرسة"
+- id: "sch-civic-republicanism", title: "الجمهورية المدنية (Civic Republicanism)", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«إدموند بيرك» (sch-burke) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "رابط مقترح لـ«نيو-أرسطية» (sch-neo-aristotelian) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

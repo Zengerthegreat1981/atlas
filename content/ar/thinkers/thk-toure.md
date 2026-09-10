@@ -19,8 +19,8 @@ related:
 - id: "thk-sankara", title: "توماس سانكارا", type: "مفكر"
 - id: "thk-senghor", title: "ليوبولد سيدار سنغور", type: "مفكر"
 - id: "sch-african-socialism", title: "الاشتراكية الأفريقية", type: "مدرسة"
-- id: "sch-pan-africanism", title: "عموم أفريقيا", type: "مدرسة"
-- id: "sch-marxism", title: "الماركسية", type: "مدرسة"
+- id: "sch-pan-africanism", title: "عموم أفريقيا (Pan-Africanism)", type: "مدرسة"
+- id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
 - id: "con-ubuntu", title: "الأوبونتو (Ubuntu)", type: "مفهوم"
 gaps:
   - "مقارنة سياسات توري الاقتصاديّة بنموذج تانزانيا (Nyerere) لم تُحلَّل أكاديمياً."

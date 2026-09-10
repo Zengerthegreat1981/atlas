@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
 - id: "thk-aferro", title: "أنطونينو فيرو", type: "مفكر"
-- id: "trm-reverie-bion", title: "السهو الأمومي الاستيعابي (Maternal Reverie): هضم الانفعالات الخام للطفل", type: "مصطلح"
+- id: "trm-reverie-bion", title: "السهو الأمومي الاستيعابي (Maternal Reverie): هضم الانفعالات الخام للطفل", type: "مصطلح لغوي متنازع عليه"
 gaps:
   - "سنة الميلاد غير منشورة في صفحته عند Routledge ولا في سيرته عند Confer، والحقل `active_start` ما زال `null` لعدم وجود سنة أول منشور موثقة."
   - "كان الملف ينسب إليه كتاب *The Intimate Edge* — وهو لدارلين إهرنبرغ (1992) لا له — وتأسيسَ «حركة فلورنسا» مع شخص باسم Natalia Bermudez لا أثر له؛ أُسقط الاثنان."

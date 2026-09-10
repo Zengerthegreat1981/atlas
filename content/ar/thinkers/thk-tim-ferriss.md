@@ -15,9 +15,9 @@ active_start: 2007
 active_end: "مستمر"
 edges: []
 related:
-- id: "wrk-four-hour-workweek", title: "أسبوع عمل من 4 ساعات: اهرب من الروتين وعش في أي مكان وانضم إلى الأثرياء الجدد", type: "عمل"
+- id: "wrk-four-hour-workweek", title: "أسبوع عمل من 4 ساعات: اهرب من الروتين وعش في أي مكان وانضم إلى الأثرياء الجدد", type: "عمل / كتاب"
 - id: "sch-popular-psychology", title: "علم النفس الشعبي", type: "مدرسة"
-- id: "crt-critique-of-self-help-genre", title: "نقد أدب المساعدة الذاتية", type: "نقد خارجي موثَّق"
+- id: "crt-critique-of-self-help-genre", title: "نقد أدَبّ «سَاعِد نَفْسَك»: التَّحْوِيل التِّجَارِيّ لِـ**عِلْم النَّفْس**", type: "نقد خارجي موثَّق"
 - id: "con-seven-habits", title: "العادات السبع للفاعلية والنمو الشخصي", type: "مفهوم"
 - id: "thk-rmdoblin", title: "ريك دابلن", type: "مفكر"
 - id: "thk-james-allen", title: "جيمس ألين", type: "مفكر"

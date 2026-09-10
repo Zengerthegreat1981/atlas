@@ -19,7 +19,7 @@ edges:
 related:
 - id: "sch-augustinianism", title: "الأوغسطينية", type: "مدرسة"
 - id: "sch-chartres", title: "مدرسة شارتر", type: "مدرسة"
-- id: "sch-scholasticism", title: "المدرسية (السكولاستية)", type: "مدرسة"
+- id: "sch-scholasticism", title: "المدرسية (السكولاستية) — كمظلة", type: "مدرسة"
 - id: "thk-hugo-saint-victor", title: "هوغو من سانت فيكتور", type: "مفكر"
 gaps:
   - "نصوص أوغسطينوس الريمسي وأوغسطينوس الفيكتوري باللاتينية تحتاج مراجعة من المصدر الأولي."

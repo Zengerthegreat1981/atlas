@@ -18,7 +18,7 @@ related:
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
 - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
 - id: "sch-african-decolonial", title: "الفلسفة الأفريقية الديكولونيالية", type: "مدرسة"
-- id: "sch-afropessimism", title: "الأفروبيسيميزم", type: "مدرسة"
+- id: "sch-afropessimism", title: "الأفروبيسيميزم (Afropessimism)", type: "مدرسة"
 gaps:
   - "نصوص مبيمبي (On the Postcolony, Necropolitics) تحتاج مراجعة من طبعاتها الأصلية بدل الاعتماد على ملخصات ثانوية."
 ---

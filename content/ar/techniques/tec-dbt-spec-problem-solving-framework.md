@@ -16,7 +16,7 @@ edges:
 related:
 - id: "tec-dbt-er-check-the-facts", title: "مراجعة الحقائق", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-mind-effectiveness", title: "الفعالية", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-dt-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-radical-acceptance", title: "التقبل الجذري (DBT)", type: "تقنية/تدخل علاجي"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 gaps:
   - "نسبة تحسّن المرضى بعد تطبيق الإطار كمهارة منفصلة عن حزمة DBT الكاملة لم تُدرس بمعزل عنها."

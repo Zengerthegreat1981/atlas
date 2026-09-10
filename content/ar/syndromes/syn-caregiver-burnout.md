@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "syn-burnout", title: "متلازمة الاحتراق الوظيفي والمهني", type: "متلازمة"
-- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-adjustment-disorders", title: "اضطرابات التكيّف", type: "اضطراب/حالة إكلينيكية"
 - id: "syn-impostor-syndrome", title: "متلازمة المحتال (Impostor Syndrome)", type: "متلازمة"
 - id: "syn-codependency", title: "الاعتمادية المرضية (Codependency)", type: "متلازمة"

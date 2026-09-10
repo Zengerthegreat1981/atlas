@@ -27,7 +27,7 @@ related:
 - id: "tec-act-pres-mindful-breathing", title: "التنفس بيقظة", type: "تقنية/تدخل علاجي"
 - id: "tec-act-val-values-clarification-worksheet", title: "ورقة عمل توضيح القيم", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-cope-ahead", title: "الاستعداد المسبق للتأقلم (C)", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-dt-tipp", title: "TIPP", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-tipp", title: "تيب (TIPP)", type: "تقنية/تدخل علاجي"
 - id: "syn-acute-anxiety", title: "القلق الحاد", type: "متلازمة"
 gaps:
   - "الفروقات الدقيقة بين DSM-5-TR و ICD-11 في تعريف قلق الانفصال عند البالغين لم تُراجع من المصدرين الأوليين."

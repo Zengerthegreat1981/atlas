@@ -11,10 +11,10 @@ dates: "2005"
 active_start: 2005
 active_end: "مستمر"
 language: "الإنجليزية"
-part: "psychology"
+part: "philosophy"
 evidence_level: "probably-efficacious"
 edges:
-- rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "تيار"
 related:
 - id: "thk-greenwald", title: "ريكي غرينوالد", type: "مفكر"
 - id: "thk-foa", title: "إدنا ب. فوا", type: "مفكر"
@@ -23,6 +23,7 @@ related:
 - id: "tec-prolonged-exposure", title: "التعرض المطوّل (PE)", type: "تقنية/تدخل علاجي"
 gaps:
   - "دراسة تحكّم عشوائية منشورة تقارن PC مباشرة بـ EMDR أو التعرض المطوّل بعينة إكلينيكية — المتاح لدى الباحث حالياً دراسات حالة وتجارب صغيرة غير محكّمة بدرجة كافية للتوثيق هنا."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-sensorimotor-trauma-applications` موسومٌ «philosophy» — فوُحِّد على وسم الأب."
 ---
 
 # تقنية العد التصاعدي (Progressive Counting)

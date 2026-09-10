@@ -11,7 +11,7 @@ active_end: "مستمر"
 part: "bridge"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-- rel: "relates_to", target: "br-jungian", target_type: "مدرسة"
+- rel: "relates_to", target: "br-jungian", target_type: "تيار"
 related:
 - id: "br-classical-psychoanalysis", title: "التحليل النفسي الفرويدي الكلاسيكي", type: "تيار"
 - id: "br-jungian", title: "التحليلية اليونغية", type: "تيار"

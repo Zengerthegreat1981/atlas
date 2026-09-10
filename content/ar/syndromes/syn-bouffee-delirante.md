@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "dis-brief-psychotic", title: "الذهان القصير", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-bipolar-i", title: "الاضطراب ثنائي القطب من النوع الأول", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-bipolar-i", title: "اضطراب ثنائي القطب من النوع الأول", type: "اضطراب/حالة إكلينيكية"
 - id: "con-neurosis-historical-framework", title: "العصاب: الإطار التنظيمي التاريخي للاضطرابات النفسية", type: "مفهوم"
 gaps:
   - "أبحاث فالنتين ماغنان (Valentin Magnan 1886) في الطب النفسي الفرنسي وغرب إفريقيا."

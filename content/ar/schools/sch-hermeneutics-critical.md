@@ -17,9 +17,9 @@ edges:
 - rel: "belongs_to", target: "sch-hermeneutics", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-frankfurt-school", target_type: "مدرسة"
 related:
-- id: "sch-hermeneutics", title: "الهرمنيوطيقا الفلسفية", type: "مدرسة"
-- id: "sch-frankfurt-school", title: "النظرية النقدية / مدرسة فرانكفورت", type: "مدرسة"
-- id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية", type: "مدرسة"
+- id: "sch-hermeneutics", title: "الهرمنيوطيقا الفلسفية (Philosophische Hermeneutik)", type: "مدرسة"
+- id: "sch-frankfurt-school", title: "النظرية النقدية / مدرسة فرانكفورت (Frankfurter Schule)", type: "مدرسة"
+- id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية (Philosophical Postmodernism)", type: "مدرسة"
 - id: "thk-oapel", title: "كارل-أوتو آبل", type: "مفكر"
 - id: "thk-richard-bernstein", title: "ريتشارد ج. برنشتاين", type: "مفكر"
 gaps:

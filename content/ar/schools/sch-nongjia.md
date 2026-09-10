@@ -17,7 +17,7 @@ active_source: "lifespan"
 related:
 - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
 - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
-- id: "sch-legalism", title: "الشرعية / القانونية", type: "مدرسة"
+- id: "sch-legalism", title: "الشرعية / القانونية (Fajia)", type: "مدرسة"
 - id: "thk-xu-xing", title: "شو شينغ", type: "مفكر"
 gaps:
   - "نصوص Xu Xing الأصلية لم تصلنا، وما نعرفه عبر اقتباسات مَنشيوس والكنفوشيّين."

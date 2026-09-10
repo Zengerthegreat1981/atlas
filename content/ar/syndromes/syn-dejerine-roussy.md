@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "dis-somatic-symptom-disorder", title: "اضطراب الأعراض الجسدية", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-mdd", title: "اضطراب الاكتئاب", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "con-qualia-subjective-experience", title: "الكواليا والصفات الكيفية للخبرة (Qualia)", type: "مفهوم"
 gaps:
   - "أبحاث جوزيف ديجرين وغوستاف روسي (1906) حول احتشاء النواة البطنية الخلفية في المهاد."

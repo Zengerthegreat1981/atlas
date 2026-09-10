@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-jmoreno", title: "جاكوب مورينو", type: "مفكر"
 - id: "thk-zmoreno", title: "زيركا ت. مورينو", type: "مفكر"
-- id: "tec-psychodrama", title: "السيكودراما", type: "تقنية/تدخل علاجي"
+- id: "tec-psychodrama", title: "السيكودراما (مورينو)", type: "تقنية/تدخل علاجي"
 - id: "con-catharsis-integration", title: "التطهير الاندماجي (كاتارسيس مورينو)", type: "مفهوم"
 - id: "thk-tkellermann", title: "بيتر فيليكس كِلرمان", type: "مفكر"
 gaps:

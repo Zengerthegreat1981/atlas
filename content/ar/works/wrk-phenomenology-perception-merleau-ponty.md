@@ -21,8 +21,8 @@ related:
 - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
-- id: "con-lived-body", title: "الجسد المعيش", type: "مفهوم"
-- id: "con-body-schema", title: "مخطط الجسد", type: "مفهوم"
+- id: "con-lived-body", title: "الجسد المعيش (Leib vs. Körper)", type: "مفهوم"
+- id: "con-body-schema", title: "مخطط الجسد (Body Schema): النظام اللاواعي للحركة", type: "مفهوم"
 gaps:
 - "للعمل نفسه ملفّ ثانٍ في الأطلس هو wrk-merleau-ponty-phenomenology-perception، وقد حُوِّل بالفعل إلى كعب إحالة (redirect_to) يشير إلى هذا الملف — لا تعارض قائماً، وهذا الملف هو المعتمد."
 - "الفرق التفصيلي بين طبعة 1945 وإعادة الطبع مع مقدّمة جديدة سنة 1960 (لم يكتبها ميرلوبونتي بل ألحقها ناشرون لاحقون بمناسبات مختلفة) يحتاج تحقيقاً ببليوغرافياً إضافياً."

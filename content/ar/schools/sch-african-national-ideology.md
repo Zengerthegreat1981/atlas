@@ -15,9 +15,9 @@ active_start: 1948
 active_end: 1980
 edges: []
 related:
-- id: "sch-ubuntu", title: "أوبونتو", type: "مدرسة"
-- id: "sch-pan-africanism", title: "عموم أفريقيا", type: "مدرسة"
-- id: "sch-negritude", title: "الزنوجة", type: "مدرسة"
+- id: "sch-ubuntu", title: "فلسفة أوبونتو المعاصرة", type: "مدرسة"
+- id: "sch-pan-africanism", title: "عموم أفريقيا (Pan-Africanism)", type: "مدرسة"
+- id: "sch-negritude", title: "الزنوجة (Négritude)", type: "مدرسة"
 gaps:
   - "**فُرِّغ حقلُ الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-african-psychology` ختماً قالبياً — مدرسةٌ في علم النفس لا تصلح أباً لمدارسَ فلسفية؛ والمظلّةُ الصحيحة «الفلسفة الأفريقية» لا ملفَّ لها في الأطلس. وهذه مدرسةُ نِدٍّ أو مظلّةٌ مستقلّة، فبقي الحقلُ فارغاً؛ ولم يُوضَع أبٌ تقريبيٌّ لأنّ أباً خاطئاً أسوأُ من غياب أب."
   - "نصوص Nkrumah (Consciencism), Nyerere (Ujamaa), Senghor, Cabral, Touré تحتاج مراجعة من المصدر الأولي."

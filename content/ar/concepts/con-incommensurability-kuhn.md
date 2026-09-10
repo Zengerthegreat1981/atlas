@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-thomas-kuhn", title: "توماس صامويل كوهن", type: "مفكر"
 - id: "sch-phil-science", title: "فلسفة العلم (كمظلة)", type: "مدرسة"
-- id: "wrk-kuhn-structure-revolutions", title: "بنية الثورات العلمية (The Structure of Scientific Revolutions)", type: "عمل"
+- id: "wrk-kuhn-structure-revolutions", title: "بنية الثورات العلمية (The Structure of Scientific Revolutions)", type: "عمل / كتاب"
 - id: "con-paradigm-shift-kuhn", title: "الانزياح البارادايمي والثورات العلمية (Paradigm Shift)", type: "مفهوم"
 gaps:
   - "المصادر الأولية والتحليل المعجمي والمفاهيمي لتطور المصطلح."

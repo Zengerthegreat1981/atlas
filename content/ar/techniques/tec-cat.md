@@ -19,7 +19,7 @@ related:
 - id: "thk-ryle", title: "أنتوني رايل", type: "مفكر"
 - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
 - id: "br-independents", title: "مدرسة الإندبندنتس / الوسط البريطانية", type: "تيار"
-- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب"
+- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "الدمج بين نظرية بياجيه ونظرية فيغوتسكي ونظرية علاقات الموضوع عند أنتوني رايل (Anthony Ryle)."
   - "أدوات CAT البصرية: الخريطة التسلسلية الإجرائية (Sequential Diagrammatic Reformulation) وخطاب إعادة الصياغة (Reformulation Letter)."

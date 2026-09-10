@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1981
 active_end: 2021
-part: "psychology"
+part: "philosophy"
 edges:
 - rel: "belongs_to", target: "br-intersectional-feminist", target_type: "تيار"
 related:
@@ -23,6 +23,7 @@ related:
 - id: "crt-diagnosis-feminist", title: "نقد التشخيص: المنظور النسوي", type: "نقد خارجي موثَّق"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *All About Love* (2000) بترجمة عربية معتمدة."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-intersectional-feminist` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # بيل هوكس

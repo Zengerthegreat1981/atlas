@@ -16,12 +16,12 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-phil-mind-analytic", target_type: "مدرسة"
 related:
-- id: "con-thick-and-thin-moral-concepts", title: "المفاهيم الأخلاقية السميكة والرقيقة", type: "مفهوم"
+- id: "con-thick-and-thin-moral-concepts", title: "المفاهيم الأخلاقية السميكة والرقيقة (Thick & Thin Concepts)", type: "مفهوم"
 - id: "sch-virtue-ethics", title: "أخلاقيات الفضيلة الجديدة (النيوأرسطية)", type: "مدرسة"
 - id: "sch-kantian-ethics-contemporary", title: "الكانطية الأخلاقية المعاصرة", type: "مدرسة"
 - id: "sch-utilitarianism-contemporary", title: "النفعية المعاصرة", type: "مدرسة"
-- id: "sch-contractualism", title: "التعاقدية الأخلاقية الحديثة", type: "مدرسة"
-- id: "sch-phil-mind-analytic", title: "فلسفة العقل التحليلية", type: "مدرسة"
+- id: "sch-contractualism", title: "التعاقدية/التعاقدانية الأخلاقية الحديثة", type: "مدرسة"
+- id: "sch-phil-mind-analytic", title: "فلسفة العقل التحليلية (كمظلة)", type: "مدرسة"
 - id: "sch-epistemology", title: "نظرية المعرفة (إبستمولوجيا)", type: "مدرسة"
 gaps:
   - "**أُنشئ هذا الملف 2026-09-08:** كان اسمُ «الأخلاق التحليلية» يُستعمل أباً نصّياً في `belongs_to` لـ`con-thick-and-thin-moral-concepts` بلا ملفٍّ يقابله."

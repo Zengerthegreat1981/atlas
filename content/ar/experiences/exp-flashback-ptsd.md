@@ -15,10 +15,10 @@ related:
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "con-trauma", title: "الصدمة النفسية في التحليلية", type: "مفهوم"
 - id: "con-memory", title: "الذاكرة", type: "مفهوم"
-- id: "trm-dissociation", title: "الانْفِصَال (Dissociation): انْفِصَام الذَّاكِرَة، الهَوِيَّة، الوَعْي", type: "مصطلح"
+- id: "trm-dissociation", title: "الانْفِصَال (Dissociation): انْفِصَام الذَّاكِرَة، الهَوِيَّة، الوَعْي", type: "مصطلح لغوي متنازع عليه"
 - id: "dis-nightmare-disorder", title: "اضطراب الكوابيس", type: "اضطراب/حالة إكلينيكية"
 - id: "con-somatic-memory", title: "الذَّاكِرَة الْجِسَدِيَّة (Somatic Memory)", type: "مفهوم"
-- id: "evt-vietnam-veterans-ptsd-advocacy-1980", title: "حركة قدامى محاربي فيتنام وإقرار اضطراب كرب ما بعد الصدمة رسمياً في DSM-III", type: "حدث"
+- id: "evt-vietnam-veterans-ptsd-advocacy-1980", title: "حركة قدامى محاربي فيتنام وإقرار اضطراب كرب ما بعد الصدمة رسمياً في DSM-III", type: "حدث تاريخي"
 gaps:
 - "الفرق الإكلينيكي الدقيق بين الـ Flashback والكابوس القهري (dis-nightmare-disorder) — كلاهما إعادة إحياء حسّية لكن بحالة وعي مختلفة (يقظة/نوم REM) — يحتاج فصلاً منفصلاً يقارن المعيارين التشخيصيين في DSM-5."
   - "**حُلَّ هدفٌ نصّيٌّ 2026-09-10:** وُجِّه `relates_to` من النصِّ «علم نفس الصدمة» إلى `sch-trauma-psychology`."

@@ -17,7 +17,7 @@ original_language: "الإنجليزية"
 active_start: 2007
 active_end: 2007
 edges:
-- rel: "belongs_to", target: "tec-mbct", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-mbct", target_type: "تقنية/تدخل علاجي"
 - rel: "written_by", target: "thk-mwilliams", target_type: "مفكر"
 related:
 - id: "thk-mwilliams", title: "مارك ويليامز", type: "مفكر"

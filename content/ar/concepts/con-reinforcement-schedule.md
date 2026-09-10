@@ -18,7 +18,7 @@ related:
 - id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "con-matching-law", title: "قانون التطابق", type: "مفهوم"
 - id: "con-applied-behavior-analysis", title: "تحليل السلوك التطبيقي (ABA)", type: "مفهوم"
-- id: "dis-gambling-disorder", title: "اضطراب القمار", type: "اضطراب"
+- id: "dis-gambling-disorder", title: "اضطراب القمار", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "لم يُعثر على اقتباس مباشر موثّق من سكينر أو فيرستر بخصوص جداول التعزيز بنصّه الإنجليزي الدقيق يصلح للاستشهاد."
   - "تطبيقات جداول التعزيز في إدارة الطوارئ (VBR) وعلاج الإدمان — موضع تفصيل سريري."

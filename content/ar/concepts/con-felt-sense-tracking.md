@@ -2,7 +2,7 @@
 slug: "con-felt-sense-tracking"
 id: "CON-1241"
 type: "مفهوم"
-part: "psychology"
+part: "philosophy"
 level: "متوسط"
 title: "التتبع الحسي للإحساس المستبطن (Felt Sense)"
 en: "Felt Sense Tracking in Somatic Psychotherapy"
@@ -22,6 +22,7 @@ related:
 - id: "wrk-waking-the-tiger", title: "إيقاظ النمر: شفاء الصدمة", type: "عمل / كتاب"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-somatic-experiencing` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # التتبع الحسي للإحساس المستبطن (Felt Sense)

@@ -15,7 +15,7 @@ active_end: 1989
 edges:
 - rel: "belongs_to", target: "sch-critical-realism", target_type: "مدرسة"
 related:
-- id: "sch-critical-realism", title: "الواقعية النقدية (Critical Realism)", type: "مدرسة"
+- id: "sch-critical-realism", title: "الواقعية النقدية", type: "مدرسة"
 - id: "thk-jmcdowell", title: "جون ماكدوويل", type: "مفكر"
 - id: "thk-rbrandom", title: "روبرت براندوم", type: "مفكر"
 - id: "con-myth-of-given", title: "خرافة المعطيات (Myth of the Given)", type: "مفهوم"

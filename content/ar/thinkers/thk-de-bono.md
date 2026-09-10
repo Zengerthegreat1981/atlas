@@ -21,7 +21,7 @@ related:
 - id: "thk-csikszentmihalyi", title: "ميهاي تشيكسنتميهاي", type: "مفكر"
 - id: "con-creative-block", title: "الانسداد الإبداعي", type: "مفهوم"
 - id: "wrk-six-thinking-hats", title: "قبعات التفكير الست", type: "عمل / كتاب"
-- id: "con-six-thinking-hats", title: "قبعات التفكير الست", type: "مفهوم"
+- id: "con-six-thinking-hats", title: "قبعات التفكير الست (التفكير المتوازي وإدارة الاجتماعات)", type: "مفهوم"
 - id: "stu-duncker-candle-problem", title: "تجربة كارل دونكر لمشكلة الشمعة والجمود الوظيفي (1945)", type: "دراسة وبحث"
 gaps:
   - "**ازدواج بنيوي قائم (لم يُحلّ هنا):** يوجد للرجل نفسه ثلاثة ملفات — هذا الملف (THK-6228) وهو المعتمد قانونياً بقرار 2026-08-27، وthk-edward-de-bono (THK-0981) وهو ملف إحالة محجور، ومسودة كاملة لا تزال تحمل سيرة تحت الـslug المحجور في content/ar/drafts/spark/thinkers/thk-edward-de-bono.md وgaps فيها يطلب قراراً صدر بالفعل. المسودة لم تُحذف ولم تُعدَّل (قاعدة 6)، وسُجّلت في requests-spark.md."

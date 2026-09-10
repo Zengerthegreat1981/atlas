@@ -13,8 +13,8 @@ active_end: 1050
 edges:
 - rel: "belongs_to", target: "sch-mutazila", target_type: "مدرسة"
 related:
-- id: "thk-wasil-ibn-ata", title: "واصل بن عطاء", type: "مفكر"
-- id: "thk-qadi-abd-al-jabbar", title: "القاضي عبد الجبار", type: "مفكر"
+- id: "thk-wasil-ibn-ata", title: "واصل بن عطاء الغزال", type: "مفكر"
+- id: "thk-qadi-abd-al-jabbar", title: "القاضي عبد الجبار بن أحمد الهمذاني", type: "مفكر"
 - id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"
 - id: "dbt-qadar-free-will-in-kalam", title: "جدل القدر والجبر والاختيار في علم الكلام الإسلامي", type: "جدل"
 - id: "con-five-principles-mutazila", title: "الأصول الخمسة للمعتزلة (The Five Principles of Mu'tazilism)", type: "مفهوم"

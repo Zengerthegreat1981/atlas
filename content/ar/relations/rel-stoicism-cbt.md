@@ -16,9 +16,9 @@ related:
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
 - id: "con-dichotomy-of-control", title: "ثنائية التحكم", type: "مفهوم"
-- id: "wrk-beck-cognitive-therapy", title: "العلاج المعرفي والاضطرابات الانفعالية", type: "عمل / كتاب"
-- id: "rel-cbt-thirdwave", title: "CBT والموجة الثالثة", type: "علاقة بين مدرستين"
-- id: "rel-cbt-nonwestern", title: "المعرفية-السلوكية والأطر غير الغربية", type: "علاقة بين مدرستين"
+- id: "wrk-beck-cognitive-therapy", title: "العلاج المعرفي والاضطرابات الانفعالية (Cognitive Therapy and the Emotional Disorders)", type: "عمل / كتاب"
+- id: "rel-cbt-thirdwave", title: "CBT والموجة الثالثة: من التطوّر إلى الانشقاق الهادئ", type: "علاقة بين مدرستين"
+- id: "rel-cbt-nonwestern", title: "المعرفية-السلوكية والأطر غير الغربية: استيراد اليقظة البوذية", type: "علاقة بين مدرستين"
 - id: "ctx-stoicism", title: "الفلسفة الرواقية", type: "سياق/تقليد"
 gaps:
   - "مفهوم 'ثنائية التحكم' عند إبكتيتوس (Enchiridion §1) ورد ذكره عند بيك صراحةً، لكن التوثيق الأكاديمي للفجوة بين صياغة إبكتيتوس الأصلية (فيزيائية-كونية) وصياغة بيك الإكلينيكية (معرفية-موقفية) لا يزال غير محصور في مصدر أولي."

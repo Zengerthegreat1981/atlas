@@ -19,7 +19,7 @@ related:
 - id: "dia-buddha-kassapa-asceticism", title: "حوار بوذا وكاسابا: نبذ التقشف الشديد وتأسيس المسار الأوسط", type: "حوار مع مدرسة مجاورة"
 - id: "trm-dukkha-buddhism", title: "الدوكا (Dukkha): المعاناة وانعدام الرضا الجوهري في الوجود", type: "مصطلح لغوي متنازع عليه"
 - id: "trm-dharma-hindu-buddhist", title: "الدارما (Dharma): النظام الأخلاقي والواجب والحقيقة الكونية", type: "مصطلح لغوي متنازع عليه"
-- id: "sch-buddhism-early", title: "البوذية المبكرة (تعاليم ما قبل الانقسام المدرسي)", type: "مدرسة"
+- id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
 - id: "sch-theravada", title: "ثيرافادا", type: "مدرسة"
 - id: "trm-mindfulness", title: "اليَقَظَة الذِّهْنِيَّة (Mindfulness)", type: "مصطلح لغوي متنازع عليه"
 gaps:

@@ -10,10 +10,10 @@ country: "البرازيل"
 language: "البرتغالية، الإسبانية"
 active_start: 1971
 active_end: 2009
-part: "philosophy"
+part: "psychology"
 crumb: "العلاج بالدراما والمسرح ← الناس ← أوغوستو بوال"
 edges:
-- rel: "belongs_to", target: "tec-drama-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-drama-therapy", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-jmoreno", title: "جاكوب مورينو", type: "مفكر"
 - id: "thk-zmoreno", title: "زيركا ت. مورينو", type: "مفكر"
@@ -21,6 +21,7 @@ related:
 - id: "thk-pslade", title: "بيتر سليد", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Theatre of the Oppressed* (1974) بترجمة عربية معتمدة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-drama-therapy` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # أوغوستو بوال

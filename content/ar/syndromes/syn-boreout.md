@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "syn-burnout", title: "متلازمة الاحتراق الوظيفي والمهني", type: "متلازمة"
-- id: "dis-persistent-depressive-disorder", title: "اضطراب الاكتئاب المستمر", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-persistent-depressive-disorder", title: "اضطراب الاكتئاب المستمر (عسر المزاج)", type: "اضطراب/حالة إكلينيكية"
 - id: "syn-presenteeism-syndrome", title: "متلازمة الحضور الشكلي والإنهاك في بيئة العمل (Presenteeism)", type: "متلازمة"
 - id: "syn-decisional-procrastination", title: "التسويف القرار (Decisional Procrastination)", type: "متلازمة"
 - id: "con-boredom-existential", title: "الملل الوجودي", type: "مفهوم"

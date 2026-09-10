@@ -10,7 +10,7 @@ active_start: 1930
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "تيار"
 related:
 - id: "thk-ihilgard", title: "إرنست ر. هيلغارد", type: "مفكر"
 - id: "thk-merickson", title: "ميلتون إريكسون", type: "مفكر"

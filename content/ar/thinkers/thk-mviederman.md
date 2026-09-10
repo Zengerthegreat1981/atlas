@@ -15,7 +15,7 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "tec-hypno-analysis", target_type: "تقنية/تدخل علاجي"
 related:
-- id: "thk-mwagreich", title: "موريس هـ. فيغوتش", type: "مفكر"
+- id: "thk-mwagreich", title: "موريس هـ. فيغوتش (حجر)", type: "مفكر"
 - id: "tec-hypno-analysis", title: "التنويم التحليلي (Hypno-analysis)", type: "تقنية/تدخل علاجي"
 gaps:
   - "روابط thk-mgill (مرسيدس جيل) وthk-hkroger (هيلموت كارغ) وcon-clinical-hypnosis وcon-attachment وcon-life-story حُذفت — لا ملفات مستقلة لها في الأطلس بعد رغم ذكرها في المتن."

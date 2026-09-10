@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "dis-major-neurocognitive", title: "اضطراب معرفي عصبي رئيسي (الخرف)", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-delirium", title: "الهذيان", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-delirium", title: "الهذيان والتشوش الحاد", type: "اضطراب/حالة إكلينيكية"
 - id: "con-bad-faith-mauvaise-foi", title: "سوء النية والهروب من الحرية (Bad Faith / Mauvaise Foi)", type: "مفهوم"
 gaps:
   - "أبحاث غابرييل أنطون (Gabriel Anton 1899) وجوزيف بابينسكي."

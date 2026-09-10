@@ -14,7 +14,7 @@ edges:
 related:
 - id: "sch-neoplatonism", title: "الأفلاطونية المحدثة (Neoplatonism)", type: "مدرسة"
 - id: "thk-plotinus", title: "أفلوطين", type: "مفكر"
-- id: "met-plotinus-emanation-sun", title: "فيض الشمس لأفلوطين", type: "استعارة/مجاز مؤسِّس"
+- id: "met-plotinus-emanation-sun", title: "فيض الشمس لأفلوطين: استعارة الصدور والانبعاث الأنطولوجي", type: "استعارة/مجاز مؤسِّس"
 - id: "thk-anaxagoras", title: "أنكساغوراس الكلازوميني", type: "مفكر"
 - id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا (الشيخ الرئيس)", type: "مفكر"
 gaps:

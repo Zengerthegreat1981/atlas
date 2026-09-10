@@ -13,16 +13,17 @@ active_start: 1936
 active_end: 1954
 crumb: "الناس ← فلسفة العقل والذكاء الاصطناعي ← ألان تورينغ"
 edges:
-- rel: "influenced", target: "met-turing-test-imitation-game", target_type: "استعارة"
+- rel: "influenced", target: "met-turing-test-imitation-game", target_type: "استعارة/مجاز مؤسِّس"
 related:
-- id: "met-turing-test-imitation-game", title: "اختبار تورينغ / لعبة التقليد", type: "استعارة"
-- id: "que-turing-test-sufficiency", title: "هل يكفي اجتيازُ اختبار تورينغ للحكم بالتفكير؟", type: "سؤال"
-- id: "con-chinese-room-argument-searle", title: "حجّة الغرفة الصينية", type: "مفهوم"
-- id: "thk-john-searle", title: "جون سيرل", type: "مفكر"
-- id: "thk-daniel-dennett", title: "دانييل دِنِت", type: "مفكر"
+- id: "met-turing-test-imitation-game", title: "لعبة المحاكاة وتفكير الآلة: استعارة تورينغ للذكاء", type: "استعارة/مجاز مؤسِّس"
+- id: "que-turing-test-sufficiency", title: "هل النجاح في محاكاة السلوك اللغوي البشري معيار كافٍ لإثبات التفكير؟", type: "سؤال توليدي"
+- id: "con-chinese-room-argument-searle", title: "تجربة الغرفة الصينية ودحض الذكاء الاصطناعي القوي (Chinese Room)", type: "مفهوم"
+- id: "thk-john-searle", title: "جون روجرز سيرل", type: "مفكر"
+- id: "thk-daniel-dennett", title: "دانيال دينيت", type: "مفكر"
 gaps:
   - "**كُتب متنُه 2026-09-07:** كان اسمُ تورينغ يتردّد في ملفّي الاستعارة والسؤال وفي ملفات فلسفة العقل بلا ملفٍّ يُعرِّفه."
   - "لا ملفَّ في الأطلس لعملِه في **التشكُّل الحيوي** (morphogenesis)، وهو مسارٌ مستقلٌّ عن مسار العقل."
+  - "**جذرُ مسارٍ عامٌّ 2026-09-10:** جذرُ مسار التنقّل هنا «الناس» بلا مدرسةٍ تُقدّمه، فيظهر في فهرس التصفّح تحت جذرٍ لا يدلُّ على موضعٍ في الأطلس. ولا يمكن استخراجُ المدرسة آلياً لأنّ هذا الملفَّ **بلا `belongs_to`** أصلاً — فتصحيحُ الجذر يقتضي أوّلاً إسنادَ الملفِّ إلى مدرسة، وهو قرارٌ تحريريٌّ يحتاج قراءةَ المتن. مُسجَّلٌ لا مُصلَح."
 ---
 
 # ألان تورينغ

@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-butler", title: "جوديث بتلر", type: "مفكر"
 - id: "sch-feminism-french-poststructural", title: "النسوية الفرنسية (ما بعد بنيوية)", type: "مدرسة"
-- id: "wrk-gender-trouble", title: "إشكالية النوع (Gender Trouble, 1990)", type: "عمل"
+- id: "wrk-gender-trouble", title: "إشكالية النوع (Gender Trouble, 1990)", type: "عمل / كتاب"
 - id: "sch-queer-theory", title: "النظرية الكويرية", type: "مدرسة"
 - id: "thk-jaustin", title: "جون لانغشو أوستن", type: "مفكر"
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"

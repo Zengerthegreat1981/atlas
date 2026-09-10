@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-sophistry", target_type: "مدرسة"
 related:
 - id: "thk-protagoras", title: "بروتاغوراس الأبديري", type: "مفكر"
-- id: "wrk-theaetetus-plato", title: "ثياتيتوس لأفلاطون في نظرية المعرفة", type: "عمل"
+- id: "wrk-theaetetus-plato", title: "ثياتيتوس لأفلاطون في نظرية المعرفة", type: "عمل / كتاب"
 gaps:
   - "نص كتاب بروتاغوراس الأصلي (الحقيقة/Aletheia) مفقود؛ العبارة تصلنا عبر أفلاطون وسكستوس إمبيريكوس فقط، لا بإسناد مباشر."
 ---

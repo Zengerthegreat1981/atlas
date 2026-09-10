@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1984
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
 crumb: "التجربة الجسدية (Somatic Experiencing) ← الناس ← بِسِل فان دير كولك"
 edges:
 - rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
@@ -24,6 +24,7 @@ gaps:
   - "رابط «بيتر ليفين» (thk-plevine) أُزيل — الاسم غير مذكور في المتن؛ لا واقعة أو نص مشترك موثّق يربطه بفان دير كولك هنا."
   - "رابطا «النموذج الثلاثي لـ Sensorimotor» (con-sensorimotor-three-way-model وcon-three-way-model-sensorimotor) أُزيلا — المفهوم غير مذكور إطلاقاً في المتن، وهما أصلاً يبدوان مدخلين مكرَّرين لنفس المفهوم بعنوانين مختلفين."
   - "تكرار محتمل: يوجد أيضاً ملف thk-besselvanderkolk معتمد في content/ar/thinkers/ لنفس الشخص على الأرجح (بِسِل فان دير كولك) — لم يُدمج أو يُحذف أي ملف هنا، هذا قرار يحتاج مراجعة رئيس التحرير."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-somatic-experiencing` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # بِسِل فان دير كولك

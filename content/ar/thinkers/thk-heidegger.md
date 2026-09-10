@@ -79,7 +79,7 @@ related:
 - id: "con-hermeneutics", title: "الهَرْمِنِيوطيقا (Hermeneutics): فنّ التأويل والفهم", type: "مفهوم"
 - id: "con-phenomenology", title: "الظاهراتية (Phenomenology): علم وصف الظواهر كما تُعطى", type: "مفهوم"
 - id: "wrk-phenomenology-perception-merleau-ponty", title: "ظاهراتية الإدراك (Phénoménologie de la perception) - ميرلوبونتي", type: "عمل / كتاب"
-- id: "sch-phenomenology-existential", title: "الظاهراتية الوجودية", type: "مدرسة"
+- id: "sch-phenomenology-existential", title: "الظاهراتية الوجودية (Existential Phenomenology)", type: "مدرسة"
 - id: "que-death-and-finitude-value", title: "هل يمنح الموت وقصر الحياة معنى للوجود أم يفرغه من المعنى؟", type: "سؤال توليدي"
 - id: "que-why-something-rather-than-nothing", title: "لماذا يوجد شيء بدلاً من لا شيء؟", type: "سؤال توليدي"
 - id: "trm-aletheia-truth-unconcealment", title: "الأليثيا (Aletheia): الحقيقة كـ انكشاف ورفع للحجب", type: "مصطلح لغوي متنازع عليه"

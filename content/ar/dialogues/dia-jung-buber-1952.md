@@ -10,7 +10,7 @@ crumb: "سيكولوجيا الأعماق والفلسفة الوجودية ← 
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "br-jungian", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-jungian", target_type: "تيار"
 related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-mbuber", title: "مارتن بُبَر", type: "مفكر"

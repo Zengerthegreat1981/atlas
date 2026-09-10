@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: null
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 crumb: "فرق العكس العاكسة (Reflecting Teams) ← تطوير ← بيغ پيندر"
 edges:
 - rel: "belongs_to", target: "tec-reflecting-teams", target_type: "تقنية/تدخل علاجي"
@@ -23,6 +23,7 @@ gaps:
   - "لا توجد سيرة ذاتية منشورة لـ 'Peg Pendry' في 'Reflecting Team Network' حتى آب 2026."
   - "الاحتمال: الاسم مُدخل من بيانات ممارسي العلاج الأسري في أمريكا."
   - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'Reflecting Teams USA' عام."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-reflecting-teams` موسومٌ «psychology» — فوُحِّد على وسم الأب."
 ---
 
 # بيغ پيندر

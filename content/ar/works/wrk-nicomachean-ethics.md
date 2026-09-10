@@ -19,7 +19,7 @@ edges:
 - rel: "belongs_to", target: "sch-aristotelianism", target_type: "مدرسة"
 related:
 - id: "thk-aristotle", title: "أرسطو", type: "مفكر"
-- id: "con-virtue-ethics", title: "أخلاق الفضيلة", type: "مفهوم"
+- id: "con-virtue-ethics", title: "أخلاق الفضيلة وتحقيق السعادة الإنسانية (Virtue Ethics / Eudaimonia)", type: "مفهوم"
 gaps:
   - "يوجد في الأطلس ملف ثانٍ للعمل نفسه هو `wrk-aristotle-nicomachean-ethics` (WRK-0764) — ازدواج مسجَّل في نطاق slugs الأعمال؛ عُمِّق هذا الملف باستقلالية عنه ولم يُدمج معه ولم يُربط به عمداً، والقرار النهائي متروك للمراجعة التحريرية."
   - "الجدل حول تسمية الكتاب نسبة إلى نيقوماخوس والد أرسطو أم ابنه لم يُحسم؛ كلا الطرحين متداول في الشروح دون ترجيح قاطع في المصادر المتاحة هنا."

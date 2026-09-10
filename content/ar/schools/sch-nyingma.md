@@ -18,8 +18,8 @@ edges:
 - rel: "evolved_from", target: "sch-tathagatagarbha", target_type: "مدرسة"
 related:
 - id: "sch-vajrayana", title: "فاجرايانا / البوذية التانترية", type: "مدرسة"
-- id: "sch-kagyu", title: "كاغيو", type: "مدرسة"
-- id: "sch-bon", title: "البون", type: "مدرسة"
+- id: "sch-kagyu", title: "كاغيو (البوذية التبتية)", type: "مدرسة"
+- id: "sch-bon", title: "البون (التقليد الديني التبت الأصلي)", type: "مدرسة"
 gaps:
   - "نصوص Kama وTerma (الكنوز المخفية) والمخطوطات الأصلية لـPadmasambhava تحتاج مراجعة من المصدر الأولي."
   - "التمييز بين التقليد الأصلي والكنوز المُكتشَفة لاحقاً (gter ston) يستحق فحصاً نقدياً."

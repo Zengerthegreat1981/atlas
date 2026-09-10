@@ -17,10 +17,10 @@ edges:
 related:
 - id: "thk-baal-shem-tov", title: "إسرائيل بن إليعزر (بعل شيم طوف)", type: "مفكر"
 - id: "thk-mendelssohn", title: "موسى مندلسون", type: "مفكر"
-- id: "thk-isaac-luria", title: "إسحاق لوريا", type: "مفكر"
-- id: "sch-hasidic", title: "الحسيدية", type: "مدرسة"
+- id: "thk-isaac-luria", title: "إسحاق لوريا (الأري)", type: "مفكر"
+- id: "sch-hasidic", title: "الحسيدية الفلسفية", type: "مدرسة"
 - id: "sch-kabbalah-lurianic", title: "القبّالة اللوريانية", type: "مدرسة"
-- id: "sch-haskalah", title: "هَسْكَلاة", type: "مدرسة"
+- id: "sch-haskalah", title: "هَسْكَلاة (التنوير اليهودي)", type: "مدرسة"
 - id: "con-tzimtzum", title: "القبض الإلهي (تيمتسوم)", type: "مفهوم"
 gaps:
   - "Tanya (1796) لم تُترجم كاملة إلى العربية."

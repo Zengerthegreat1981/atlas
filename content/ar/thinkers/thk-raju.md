@@ -17,9 +17,9 @@ edges:
 related:
 - id: "thk-masson-oursel", title: "بول-لويس ماسون-أورسيل", type: "مفكر"
 - id: "thk-tagore", title: "رابندراناث طاغور", type: "مفكر"
-- id: "thk-radhakrishnan", title: "سرافيتي رادهاكريشنان", type: "مفكر"
+- id: "thk-radhakrishnan", title: "سرافيتي رادهاكريشنان (نيو-فيدانتا / فيلسوف عالمي)", type: "مفكر"
 - id: "sch-comparative-philosophy", title: "الفلسفة المقارنة", type: "مدرسة"
-- id: "sch-neo-vedanta", title: "نيو-فيدانتا", type: "مدرسة"
+- id: "sch-neo-vedanta", title: "نيو-فيدانتا (الفيدانتا الحديثة)", type: "مدرسة"
 - id: "thk-sri-aurobindo", title: "شري أوروبندو غوش", type: "مفكر"
 gaps:
   - "أعماله عن Gadamer لم تُراجَع منهجياً في سياق المقارنة مع Shankara."

@@ -2,7 +2,7 @@
 slug: "br-logotherapy"
 id: "BRN-0102"
 type: "تيار"
-level: ""
+level: "مبتدئ"
 title: "العلاج بالمعنى والتحليل الوجودي"
 en: "Logotherapy & Existential Analysis"
 country: "النمسا"
@@ -17,8 +17,8 @@ edges:
 - rel: "relates_to", target: "thk-langle", target_type: "مفكر"
 - rel: "relates_to", target: "thk-langle", target_type: "مفكر"
 related:
-- id: "thk-frankl", title: "فرانكل", type: "مفكر"
-- id: "thk-langle", title: "لانغله", type: "مفكر"
+- id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
+- id: "thk-langle", title: "ألفريد لانغله", type: "مفكر"
 - id: "dbt-langle-frankl", title: "لانغله ضد فرانكل", type: "جدل"
 - id: "dbt-meaning-found", title: "هل المعنى يُكتشَف أم يُصنَع؟", type: "جدل"
 - id: "tec-meaning-technique-socratic", title: "تقنية المنعطف الوجودي (Logotherapy's Dereflection)", type: "تقنية/تدخل علاجي"
@@ -27,6 +27,7 @@ gaps:
   - "بيانات الأعمال الأصلية بالألمانية وتواريخها — تحتاج تثبيتاً"
   - "انشقاق التسعينيات أنتج مؤسسة منفصلة (GLE — التحليل الوجودي عند لانغله) لسه مالهاش عنصر تيار (br-) مستقل في الأطلس؛ edge split_into بيشاور مؤقتاً على مؤسسها (thk-langle) بدل عنصر مؤسسي مخصص. لو أُنشئ عنصر br- منفصل لاحقاً، لازم يتحدّث الرابط ده ليشاور عليه هو مباشرة."
   - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُوِّل `split_into → thk-langle` إلى `relates_to` — هدفُ الحرف **مفكّر** لا مدرسة: لانغله انشقّ عن اللوغوثيرابي وأسّس التحليلَ الوجودي، فالعلاقةُ صلةٌ لا انشقاقُ مدرسةٍ عن مدرسة."
+  - "**عُبِّئ `level` 2026-09-10:** كان فارغاً وهو خارجُ المعجم (مبتدئ/متوسط/متقدم). وقُدِّر بكثافة المتن (211 كلمة) ← «مبتدئ»."
 ---
 
 # العلاج بالمعنى والتحليل الوجودي

@@ -18,7 +18,7 @@ edges:
 related:
 - id: "thk-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"
 - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
-- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-behavioral-activation", title: "التنشيط السلوكي (BA)", type: "تقنية/تدخل علاجي"
 gaps:
   - "دراسة إسناد فعالية IPT للاكتئاب الجسيم برقم عيّنة ومصدر منشور محدد لم تُراجع بعد."

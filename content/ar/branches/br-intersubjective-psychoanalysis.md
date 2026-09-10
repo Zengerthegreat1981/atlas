@@ -11,7 +11,7 @@ dates: "كاليفورنيا ونيويورك · من أواخر السبعين�
 active_start: 1978
 active_end: "مستمر"
 language: "الإنجليزية"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-stolorow", target_type: "مفكر"
@@ -25,6 +25,7 @@ related:
 gaps:
   - "الدمج الفينومينولوجي بين هايدجر وسيكولوجيا الذات عند ستولورو وأتوود يحتاج توثيقاً فلسفياً أعمق."
   - "مفهوم 'الصدمة الانفعالية كفقدان للوطن الوجودي' (Emotional Trauma and Existential Homelessness) يستحق إبرازاً خاصاً."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # النظرية البين-ذاتية في التحليل النفسي

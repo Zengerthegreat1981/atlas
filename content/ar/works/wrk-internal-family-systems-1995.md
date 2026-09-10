@@ -22,9 +22,9 @@ edges:
 related:
 - id: "thk-richard-schwartz", title: "ريتشارد شوارتز", type: "مفكر"
 - id: "con-dissociation", title: "الانفصال (Dissociation)", type: "مفهوم"
-- id: "con-trauma", title: "الصدمة النفسية", type: "مفهوم"
+- id: "con-trauma", title: "الصدمة النفسية في التحليلية", type: "مفهوم"
 - id: "con-false-self-vs-true-self", title: "الذات المزيفة مقابل الذات الحقيقية", type: "مفهوم"
-- id: "con-primary-self", title: "الذات الأولية", type: "مفهوم"
+- id: "con-primary-self", title: "الذات الأولية والتفكك التكاملي", type: "مفهوم"
 - id: "con-ego-self", title: "محور الأنا–الذات", type: "مفهوم"
 gaps:
   - "يوجد ملف عمل ثانٍ لهذا الكتاب في الأطلس: `wrk-schwartz-internal-family-systems` — ازدواج مسجَّل لم يُحسم بعد؛ لم يُدمج هذا الملف معه ولم يُربط به عمداً بانتظار قرار تحريري."

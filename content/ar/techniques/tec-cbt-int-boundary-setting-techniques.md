@@ -18,7 +18,7 @@ edges:
 related:
 - id: "tec-cbt-int-assertiveness-training", title: "تدريب التوكيدية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-int-self-validation", title: "التصديق الذاتي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-int-self-validation", title: "التصديق الذاتي (CBT)", type: "تقنية/تدخل علاجي"
 - id: "dis-dependent-personality", title: "اضطراب الشخصية الاعتمادية", type: "اضطراب/حالة إكلينيكية"
 - id: "thk-mbowen", title: "موراي بوين", type: "مفكر"
 gaps:

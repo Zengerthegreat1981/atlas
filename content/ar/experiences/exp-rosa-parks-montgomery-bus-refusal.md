@@ -2,7 +2,7 @@
 slug: "exp-rosa-parks-montgomery-bus-refusal"
 id: "EXP-0115"
 type: "خبرة معيشة"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "رفض روزا باركس التنازل عن مقعدها في حافلة مونتغمري (1955)"
 en: "Rosa Parks's Quiet Defiance on the Montgomery Bus (1955): The Power of a Dignified 'No'"
@@ -17,6 +17,7 @@ related:
 - id: "thk-martin-luther-king", title: "مارتن لوثر كينغ الابن", type: "مفكر"
 gaps:
   - "لم أوثّق بعد موقف E.D. Nixon وكلود كولفن (Claude Colvin) اللذين سبقا باركس بأشهر برفض مماثل؛ المقارنة بينهما تحتاج فقرة مستقلة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-social-psychology` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # رفض روزا باركس التنازل عن مقعدها في حافلة مونتغمري (1955)

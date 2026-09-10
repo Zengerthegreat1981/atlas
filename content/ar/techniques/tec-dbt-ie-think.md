@@ -18,8 +18,8 @@ related:
 - id: "tec-dbt-ie-levels-of-validation", title: "مستويات التصديق الستة", type: "تقنية/تدخل علاجي"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
-- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب"
-- id: "tec-cbt-int-perspective-taking", title: "تبنّي منظور الآخر", type: "تقنية/تدخل علاجي"
+- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-cbt-int-perspective-taking", title: "تبنّي منظور الآخر (CBT)", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا توجد دراسة منفصلة تختبر THINK بمعزل عن وحدة الفعالية البينية أو حزمة DBT الكاملة، لأنها أُضيفت للبروتوكول عام 2015 دون تجربة مستقلة منشورة."
 ---

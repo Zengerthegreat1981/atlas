@@ -12,7 +12,7 @@ part: "psychology"
 related:
 - id: "thk-leon-festinger", title: "ليون فيستنغر (Leon Festinger)", type: "مفكر"
 - id: "con-fundamental-attribution-error", title: "خطأ العزو الأساسي (عزو تصرفات الآخرين لطباعهم وتصرفاتنا للظروف)", type: "مفهوم"
-- id: "con-responsibility", title: "المسؤولية الوجودية", type: "مفهوم"
+- id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
 study_year: 1977
 design: "تجربة معملية بتصميم بين-المجموعات مع توزيع عشوائي للأدوار (واضع أسئلة/متسابق/ملاحظ)"
 sample_size: ""

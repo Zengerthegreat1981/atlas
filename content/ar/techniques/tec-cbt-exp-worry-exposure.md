@@ -19,7 +19,7 @@ related:
 - id: "tec-cbt-exp-flooding", title: "الإغراق", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-exp-exposure-hierarchy-building", title: "بناء سلّم التعرض التدريجي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-distress-tolerance-techniques", title: "تقنيات تحمل الضغط", type: "تقنية/تدخل علاجي"
-- id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب"
+- id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "لا يوجد لتوماس بوركوفيك (Thomas Borkovec)، مبتكر التقنية، ملف مفكر بـslug في الأطلس حالياً — رصدته في agents_specs/requests-spark.md بدل اختراع رابط."
   - "لا توجد في الأطلس دراسة مستقلة موثّقة (مؤلف/سنة/نتيجة رقمية) تقيّم فعالية التعرض للقلق تحديداً مقابل ضبط الأعراض دوائياً أو مقابل إعادة البناء المعرفي التقليدي في GAD؛ evidence_level هنا اجتهادي محافظ لعدم توفر دراسة مصدر أولي بعينها."

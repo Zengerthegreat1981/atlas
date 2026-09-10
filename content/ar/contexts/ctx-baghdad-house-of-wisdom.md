@@ -12,11 +12,11 @@ active_end: 1000
 edges:
 - rel: "relates_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 related:
-- id: "thk-al-kindi", title: "يعقوب بن إسحاق الكندي", type: "مفكر"
+- id: "thk-al-kindi", title: "أبو يوسف يعقوب بن إسحاق الكندي", type: "مفكر"
 - id: "thk-al-farabi", title: "أبو نصر محمد بن محمد الفارابي", type: "مفكر"
 - id: "thk-hunayn-ibn-ishaq", title: "حنين بن إسحاق العبادي", type: "مفكر"
-- id: "ctx-sassanid-gundeshapur-medicine", title: "أكاديمية جنديسابور", type: "سياق/تقليد"
-- id: "dia-al-kindi-mu-tazila-creation", title: "حوار الكندي والمعتزلة", type: "حوار"
+- id: "ctx-sassanid-gundeshapur-medicine", title: "أكاديمية جنديسابور وتلاقي الطب اليوناني والفارسي والهندي", type: "سياق/تقليد"
+- id: "dia-al-kindi-mu-tazila-creation", title: "حوار الكندي والمعتزلة: حدوث العالم والتوحيد والعقلانية الفلسفية", type: "حوار مع مدرسة مجاورة"
 gaps:
   - "لا توجد وثائق أرشيفية أولية عن الهيكل الإداري الدقيق لبيت الحكمة (مقابل الروايات المتأخرة كابن النديم في الفهرست) ضمن مصادر هذا المشروع."
 ---

@@ -17,8 +17,8 @@ edges:
 related:
 - id: "thk-jcurran", title: "جيمس ب. كورّان", type: "مفكر"
 - id: "thk-rlindsl", title: "أورغن ر. ليندزلي", type: "مفكر"
-- id: "con-social-skills", title: "المهارات الاجتماعية (مفهوم)", type: "مفهوم"
-- id: "con-modeling", title: "النمذجة", type: "مفهوم"
+- id: "con-social-skills", title: "المهارات الاجتماعية (تدريب)", type: "مفهوم"
+- id: "con-modeling", title: "النمذجة (التعلم بالملاحظة)", type: "مفهوم"
 - id: "dis-developmental-coordination", title: "اضطراب التنسيق التنموي", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "لا يوجد اقتباس منسوب بمصدر وسنة من أدلة تدريب المهارات الاجتماعية الأصلية."

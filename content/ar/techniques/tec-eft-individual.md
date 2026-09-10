@@ -20,7 +20,7 @@ related:
 - id: "thk-lgreenberg", title: "ليزلي غرينبرغ", type: "مفكر"
 - id: "tec-process-experiential", title: "العلاج التجريبي-العملياتي", type: "تقنية/تدخل علاجي"
 - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
-- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 evidence_level: "well-established"
 gaps:
   - "تصنيف الانفعالات الأربعة لليزلي غرينبرغ (الانفعالات الأولية التكيفية، الأولية غير التكيفية، الثانوية التفاعلية، والأداتية/التلاعبية)."

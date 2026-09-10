@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "tec-contemplative-psychotherapy", target_type: "تقنية/تدخل علاجي"
 related:
@@ -21,6 +21,7 @@ related:
 gaps:
   - "لا يوجد اقتباس مباشر موثَّق بمصدر وسنة محددين لهذا المفكر في هذا الملف."
   - "تفاصيل تأسيس نظام «اليقظة الموحَّدة» (السنة الدقيقة، الأطر المؤسسية الأولى) لم تُراجع من مصدر أولي."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-contemplative-psychotherapy` موسومٌ «psychology» — فوُحِّد على وسم الأب."
 ---
 
 # شِنزِن يانغ

@@ -15,7 +15,7 @@ edges:
 - rel: "belongs_to", target: "sch-dbt", target_type: "مدرسة"
 related:
 - id: "tec-dbt-ie-give", title: "جيف (GIVE) — الحفاظ على العلاقة بفعالية", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-er-self-validation", title: "التصديق الذاتي", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-er-self-validation", title: "التصديق الذاتي (DBT)", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-ie-silent-validation", title: "التصديق الصامت", type: "تقنية/تدخل علاجي"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 - id: "tec-dbt-mind-mindfulness-of-others", title: "اليقظة تجاه الآخرين", type: "تقنية/تدخل علاجي"

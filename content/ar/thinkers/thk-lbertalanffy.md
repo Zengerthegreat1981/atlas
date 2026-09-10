@@ -11,7 +11,7 @@ country: "النمسا/كندا"
 language: "الألمانية/الإنجليزية"
 active_start: 1945
 active_end: 1972
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-general-systems-cybernetics", target_type: "تيار"
 related:
@@ -24,6 +24,7 @@ related:
 - id: "thk-sbeer", title: "ستافورد بير", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *General System Theory* (1968) بترجمة عربية معتمدة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-general-systems-cybernetics` موسومٌ «psychology» — فوُحِّد على وسم الأب."
 ---
 
 # لودفيغ فون برتالانفي

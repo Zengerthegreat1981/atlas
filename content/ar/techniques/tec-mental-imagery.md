@@ -16,7 +16,7 @@ evidence_level: "probably-efficacious"
 related:
 - id: "thk-rsuinn", title: "ريتشارد سوين", type: "مفكر"
 - id: "con-pre-performance-routine", title: "الطقوس السابقة للأداء", type: "مفهوم"
-- id: "tec-imagery-rescripting", title: "إعادة كتابة سردية التخيل (Imagery Rescripting)", type: "تقنية"
+- id: "tec-imagery-rescripting", title: "إعادة كتابة سردية التخيل (Imagery Rescripting)", type: "تقنية/تدخل علاجي"
 gaps:
   - "تجارب سوين الأصلية (1969) على مقياس VMBR (Visuo-Motor Behavior Rehearsal) تستحق مراجعة منهجية من مصدرها الأولي — التصميم والعينة غير موثقين هنا."
   - "أرقام دراسات التصوير العصبي (fMRI) المشار إليها في المتن غير محددة بمصدر أو سنة."

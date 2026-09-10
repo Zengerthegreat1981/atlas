@@ -19,7 +19,7 @@ related:
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
 - id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"
-- id: "tec-cbt-int-self-validation", title: "التصديق الذاتي", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-int-self-validation", title: "التصديق الذاتي (CBT)", type: "تقنية/تدخل علاجي"
 gaps:
   - "دراسة تجريبية تختبر أثر (التصديق الذاتي) بمفرده كمكوّن معزول عن حزمة DBT الكاملة: غير متاحة — أثره مستمد من دراسات DBT الكلية (Linehan et al., 1991, Archives of General Psychiatry, على مريضات BPD)."
   - "اقتباس منشور موثّق من Linehan يخص هذا التمرين تحديداً بنصه: غير متاح."

@@ -14,11 +14,11 @@ active_start: 1890
 active_end: 1941
 cultural_origin: "indian"
 edges:
-- rel: "evolved_from", target: "sch-neo-vedanta", target_type: "مظلة"
+- rel: "evolved_from", target: "sch-neo-vedanta", target_type: "مدرسة"
 related:
-- id: "sch-neo-vedanta", title: "نيو-فيدانتا", type: "مدرسة"
-- id: "sch-gandhianism", title: "الغاندية", type: "مدرسة"
-- id: "sch-bhakti-movement", title: "حركة البهاكتي", type: "مدرسة"
+- id: "sch-neo-vedanta", title: "نيو-فيدانتا (الفيدانتا الحديثة)", type: "مدرسة"
+- id: "sch-gandhianism", title: "الغاندية (كفلسفة سياسية-أخلاقية)", type: "مدرسة"
+- id: "sch-bhakti-movement", title: "حركة البهاكتي الفلسفية", type: "مدرسة"
 - id: "con-surplus-in-man", title: "الزيادة في الإنسان (Surplus in Man)", type: "مفهوم"
 - id: "wrk-sadhana-tagore", title: "سادانا: تحقيق الحياة", type: "عمل / كتاب"
 - id: "dbt-tagore-vs-gandhi", title: "طاغور ضد غاندي: الوحدة الروحية أم العمل السياسي المباشر؟", type: "جدل"

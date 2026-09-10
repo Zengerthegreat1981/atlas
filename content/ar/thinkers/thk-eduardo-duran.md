@@ -2,14 +2,14 @@
 slug: "thk-eduardo-duran"
 id: "THK-2803"
 type: "مفكر"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "إدواردو دوران"
 en: "Eduardo Duran"
 dates: "الولايات المتحدة · 1953–"
 country: "الولايات المتحدة"
 crumb: "علم النفس التحرري والشعوب الأصلية ← رواد ← إدواردو دوران"
-active_start: null
+active_start: 1953
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-indigenous-psychology", target_type: "مدرسة"
@@ -21,6 +21,8 @@ related:
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («الولايات المتحدة · 1953–») فاستُخرجت: 1953."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-indigenous-psychology` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # إدواردو دوران

@@ -16,9 +16,9 @@ active_end: 1800
 edges:
 - rel: "evolved_from", target: "sch-renaissance-humanism", target_type: "مدرسة"
 related:
-- id: "sch-lockeanism", title: "اللوكية", type: "مدرسة"
+- id: "sch-lockeanism", title: "اللوكية (اللوكية التجريبية)", type: "مدرسة"
 - id: "sch-berkeleianism", title: "المثالية الذاتية البركلية", type: "مدرسة"
-- id: "sch-humeanism", title: "الهيومية", type: "مدرسة"
+- id: "sch-humeanism", title: "الهيومية (الشكّ التجريبي)", type: "مدرسة"
 - id: "sch-scottish-common-sense", title: "فلسفة الحس المشترك الاسكتلندية", type: "مدرسة"
 - id: "br-british-empiricism-classical", title: "التجريبية البريطانية الكلاسيكية — التجريبية", type: "تيار"
 - id: "que-problem-of-induction-justification", title: "كيف نبرر عقلانياً ثقتنا في أن الشمس ستشرق غداً؟", type: "سؤال توليدي"

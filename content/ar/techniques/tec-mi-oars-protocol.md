@@ -15,7 +15,7 @@ edges:
 - rel: "developed_by", target: "thk-wmiller", target_type: "مفكر"
 related:
 - id: "sch-motivational-interviewing", title: "المقابلة التحفيزية (Motivational Interviewing)", type: "مدرسة"
-- id: "thk-wmiller", title: "ويليام ميلر", type: "مفكر"
+- id: "thk-wmiller", title: "ويليام ميلر (William R. Miller)", type: "مفكر"
 - id: "dis-alcohol-use-disorder", title: "اضطراب استخدام الكحول", type: "اضطراب/حالة إكلينيكية"
 - id: "con-motivational-interviewing-oars", title: "تقنية OARS في المقابلة التحفيزية", type: "مفهوم"
 gaps:

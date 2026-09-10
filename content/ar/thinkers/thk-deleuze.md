@@ -17,8 +17,8 @@ edges:
 related:
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
 - id: "ctx-postmodern-critical-tradition", title: "سياق ما بعد الحداثة والنقد التفكيكي والتحرري", type: "سياق/تقليد"
-- id: "rel-post-structuralism-antipsychiatry", title: "ما بعد البنيوية ومناهضة الطب النفسي", type: "علاقة بين مدرستين"
-- id: "sch-post-structuralism", title: "ما بعد البنيوية", type: "مدرسة"
+- id: "rel-post-structuralism-antipsychiatry", title: "ما بعد البنيوية ومناهضة الطب النفسي: من فوكو إلى ساس", type: "علاقة بين مدرستين"
+- id: "sch-post-structuralism", title: "ما بعد البنيوية (Post-structuralisme)", type: "مدرسة"
 - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
 - id: "thk-spinoza", title: "باروخ سبينوزا", type: "مفكر"
 - id: "ctx-paris-may-1968-intellectual", title: "أحداث مايو 1968 في باريس وثورة ما بعد البنيوية والتفكيك", type: "سياق/تقليد"

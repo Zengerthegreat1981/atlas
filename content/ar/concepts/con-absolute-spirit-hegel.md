@@ -18,8 +18,8 @@ related:
 - id: "con-master-slave-dialectic-hegel", title: "جدلية السيد والعبد وصراع الاعتراف (Master-Slave Dialectic)", type: "مفهوم"
 - id: "con-cunning-of-reason-hegel", title: "مكر العقل التاريخي (Cunning of Reason / List der Vernunft)", type: "مفهوم"
 - id: "con-alienation-marx", title: "الاغتراب الماركسي (Entfremdung)", type: "مفهوم"
-- id: "wrk-hegel-phenomenology-spirit", title: "كتاب فينومينولوجيا الروح لجورج هيغل (1807)", type: "عمل"
-- id: "wrk-encyclopedia-philosophical-sciences-hegel", title: "موسوعة العلوم الفلسفية لغيورغ هيغل", type: "عمل"
+- id: "wrk-hegel-phenomenology-spirit", title: "كتاب فينومينولوجيا الروح لجورج هيغل (1807)", type: "عمل / كتاب"
+- id: "wrk-encyclopedia-philosophical-sciences-hegel", title: "موسوعة العلوم الفلسفية لغيورغ هيغل", type: "عمل / كتاب"
 gaps:
   - "التحليل الإبستمولوجي واللغوي الدقيق لتطور المفهوم عبر التاريخ من نسخته اللاهوتية المبكرة (بيرن وفرانكفورت) إلى صياغته النهائية في «موسوعة العلوم الفلسفية»."
 ---

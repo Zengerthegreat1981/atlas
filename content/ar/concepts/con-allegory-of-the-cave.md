@@ -15,7 +15,7 @@ related:
 - id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية (القديمة/الوسطى/الجديدة الشكية)", type: "مدرسة"
 - id: "thk-plato", title: "أفلاطون", type: "مفكر"
 - id: "thk-socrates", title: "سقراط", type: "مفكر"
-- id: "wrk-republic-plato", title: "الجمهورية لأفلاطون (Politeia)", type: "عمل"
+- id: "wrk-republic-plato", title: "الجمهورية لأفلاطون (Politeia)", type: "عمل / كتاب"
 - id: "con-theory-of-forms", title: "نظرية المُثُل الأفلاطونية (Platonic Theory of Forms)", type: "مفهوم"
 - id: "con-philosopher-king-ideal", title: "الملك الفيلسوف والحاكم الحكيم (Philosopher King)", type: "مفهوم"
 - id: "con-anamnesis-recollection", title: "التذكر واستذكار المعرفة (Anamnesis)", type: "مفهوم"

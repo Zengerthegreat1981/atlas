@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية/السويدية"
 active_start: 1980
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 crumb: "الحركة الأصيلة ← الناس ← تينا سترومستد"
 edges:
 - rel: "belongs_to", target: "tec-authentic-movement", target_type: "تقنية/تدخل علاجي"
@@ -22,6 +22,7 @@ gaps:
   - "سنة الميلاد غير منشورة في السيرة الذاتية المتاحة."
   - "كتابتها عن Soul's Body Center و'Dreamdancing' كمناهج خاصة بها تحتاج توثيقاً أكبر."
   - "حُذف رابط 'جوان شودوروف' (Joan Chodorow) لعدم وجود ملف مفكر مستقل بهذا الاسم في الأطلس (الملفات الموجودة بأسماء مشابهة thk-chodorow/thk-lchodorow هي لنانسي تشودورو، شخصية مختلفة) رغم ذكرها بالاسم في المتن كزميلة في تطوير الحركة الأصيلة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-authentic-movement` موسومٌ «psychology» — فوُحِّد على وسم الأب."
 ---
 
 # تينا سترومستد

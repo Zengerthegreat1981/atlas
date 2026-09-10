@@ -20,7 +20,7 @@ related:
 - id: "thk-zsegal", title: "زيندل سيغال", type: "مفكر"
 - id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
 - id: "br-constructivist-cognitive", title: "العلاج المعرفي البنائي", type: "تيار"
-- id: "wrk-beck-cognitive-therapy", title: "العلاج المعرفي والاضطرابات الانفعالية", type: "عمل / كتاب"
+- id: "wrk-beck-cognitive-therapy", title: "العلاج المعرفي والاضطرابات الانفعالية (Cognitive Therapy and the Emotional Disorders)", type: "عمل / كتاب"
 - id: "rel-buddhism-thirdwave", title: "البوذية والموجة الثالثة من العلاجات: استيراد اليقظة من فيباسانا إلى MBSR وACT وDBT", type: "علاقة بين مدرستين"
 gaps:
   - "هل الموجة الثالثة 'تطوّر' CBT أم 'انشقاق' عنها؟ — هايز نفسه يقول الأول، نقّاد كثيرون يقولون الثاني. لا حكم قاطع في الأدبيات."

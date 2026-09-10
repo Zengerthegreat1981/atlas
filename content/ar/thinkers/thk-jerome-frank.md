@@ -13,17 +13,18 @@ active_start: 1949
 active_end: 1995
 crumb: "الناس ← العوامل المشتركة في العلاج ← جيروم فرانك"
 edges:
-- rel: "influenced", target: "dbt-common-factors-vs-specific-ingredients", target_type: "مناظرة"
+- rel: "influenced", target: "dbt-common-factors-vs-specific-ingredients", target_type: "جدل"
 related:
-- id: "dbt-common-factors-vs-specific-ingredients", title: "العوامل المشتركة أم المكوّنات النوعية؟", type: "مناظرة"
-- id: "rel-integrative-cbt-common-factors", title: "المعرفي السلوكي والعوامل المشتركة", type: "علاقة"
-- id: "rel-integrative-humanistic-common-factors", title: "الإنساني والعوامل المشتركة", type: "علاقة"
-- id: "rel-integrative-psychoanalysis-common-factors", title: "التحليل النفسي والعوامل المشتركة", type: "علاقة"
+- id: "dbt-common-factors-vs-specific-ingredients", title: "عوامل العلاج المشتركة (طائر الدودو) مقابل التقنيات المحددة للمدارس", type: "جدل"
+- id: "rel-integrative-cbt-common-factors", title: "التكاملية (العامل المشترك) والعلاج المعرفي-السلوكي: تحدّي الصلة", type: "علاقة بين مدرستين"
+- id: "rel-integrative-humanistic-common-factors", title: "التكاملية (العامل المشترك) والإنسانية: الأم الأصلية", type: "علاقة بين مدرستين"
+- id: "rel-integrative-psychoanalysis-common-factors", title: "التكاملية (العامل المشترك) والتحليل النفسي: دفاع قديم", type: "علاقة بين مدرستين"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
 gaps:
   - "**كُتب متنُه 2026-09-07:** كان فرانك ركناً في مناظرة العوامل المشتركة داخل الأطلس بلا ملفٍّ يُعرِّفه."
   - "الطبعةُ الثالثة من *Persuasion and Healing* (1991) شارك فيها ابنتُه **جوليا ب. فرانك**، ولا ملفَّ لها في الأطلس."
   - "لا ملفَّ في الأطلس لمفهوم **الإحباط المعنوي** (demoralization) بذاته، وهو أخصُّ ما أضافه."
+  - "**جذرُ مسارٍ عامٌّ 2026-09-10:** جذرُ مسار التنقّل هنا «الناس» بلا مدرسةٍ تُقدّمه، فيظهر في فهرس التصفّح تحت جذرٍ لا يدلُّ على موضعٍ في الأطلس. ولا يمكن استخراجُ المدرسة آلياً لأنّ هذا الملفَّ **بلا `belongs_to`** أصلاً — فتصحيحُ الجذر يقتضي أوّلاً إسنادَ الملفِّ إلى مدرسة، وهو قرارٌ تحريريٌّ يحتاج قراءةَ المتن. مُسجَّلٌ لا مُصلَح."
 ---
 
 # جيروم د. فرانك

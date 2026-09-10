@@ -17,8 +17,8 @@ evidence_level: "أداة راسخة وواسعة الاستخدام بحثيا�
 edges:
   []
 related:
-- id: "ins-aq-autism-spectrum", title: "مقياس حاصل طيف التوحد", type: "أداة قياس"
-- id: "ins-sq-systemizing-quotient", title: "مقياس حاصل التنظيم والنظامة", type: "أداة قياس"
+- id: "ins-aq-autism-spectrum", title: "مقياس حاصل طيف التوحد للبالغين (AQ - Baron-Cohen)", type: "أداة قياس"
+- id: "ins-sq-systemizing-quotient", title: "مقياس حاصل التنظيم والنظامة المعرفية (SQ-R)", type: "أداة قياس"
 - id: "ins-iri-interpersonal-reactivity", title: "مؤشر التفاعل البين–شخصي لأبعاد التعاطف الأربعة (IRI)", type: "أداة قياس"
 gaps:
   - "أبحاث بارون كوهين وويليرايت (Baron-Cohen & Wheelwright 2004) ونظرية الدماغ مفرط الذكورة (Extreme Male Brain)."

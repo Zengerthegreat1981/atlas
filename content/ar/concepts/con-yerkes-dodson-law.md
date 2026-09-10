@@ -14,7 +14,7 @@ edges:
 - rel: "belongs_to", target: "sch-biological-neuro", target_type: "مدرسة"
 related:
 - id: "syn-burnout", title: "متلازمة الاحتراق الوظيفي والمهني", type: "متلازمة"
-- id: "con-flow-state-popular", title: "حالة التدفق الذهني والاستغراق", type: "مفهوم"
+- id: "con-flow-state-popular", title: "حالة التدفق الذهني والاستغراق (Flow State)", type: "مفهوم"
 gaps:
   - "تجارب روبرت يركيز وجون دودسون الأصلية (1908) ونموذج القوس المقلوب (Inverted-U Model)."
   - "لم يُعثر على اقتباس منسوب مباشرة ليركيز أو دودسون في هذه المسودة."

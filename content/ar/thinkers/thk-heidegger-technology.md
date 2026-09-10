@@ -18,7 +18,7 @@ related:
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "wrk-question-concerning-technology", title: "السؤال حول التقنية (Die Frage nach der Technik)", type: "عمل / كتاب"
 - id: "con-gestell", title: "الإطار (Gestell)", type: "مفهوم"
-- id: "trm-gestell-enframing-heidegger", title: "الغشتيل أو الإطار التقني (Gestell): حصار التقنية للوجود وتحويله لمورد", type: "مصطلح"
+- id: "trm-gestell-enframing-heidegger", title: "الغشتيل أو الإطار التقني (Gestell): حصار التقنية للوجود وتحويله لمورد", type: "مصطلح لغوي متنازع عليه"
 - id: "crt-heidegger-critique-of-technology", title: "نقد هايدغر للتقنية والنسيان الأنطولوجي للوجود", type: "نقد خارجي موثَّق"
 - id: "sch-philosophy-of-technology", title: "فلسفة التكنولوجيا", type: "مدرسة"
 - id: "thk-holderlin", title: "فريدريش هولدرلين", type: "مفكر"

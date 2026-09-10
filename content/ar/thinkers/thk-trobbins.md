@@ -13,7 +13,7 @@ active_start: 1983
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "br-nlp-systemic", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-nlp-systemic", target_type: "تيار"
 related:
 - id: "thk-jdelozier", title: "جوديث دِلوزييه", type: "مفكر"
 - id: "thk-sgilligan", title: "ستيف جِليغَن", type: "مفكر"

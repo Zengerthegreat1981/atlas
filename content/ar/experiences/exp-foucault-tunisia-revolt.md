@@ -14,8 +14,8 @@ edges:
 related:
 - id: "sch-post-structuralism", title: "ما بعد البنيوية (Post-structuralisme)", type: "مدرسة"
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
-- id: "wrk-discipline-and-punish-foucault", title: "المراقبة والمعاقبة لميشيل فوكو (Surveiller et punir)", type: "عمل"
-- id: "con-pastoral-power-foucault", title: "السلطة الرعوية وتوجيه الضمائر", type: "مفهوم"
+- id: "wrk-discipline-and-punish-foucault", title: "المراقبة والمعاقبة لميشيل فوكو (Surveiller et punir)", type: "عمل / كتاب"
+- id: "con-pastoral-power-foucault", title: "السلطة الرعوية وتوجيه الضمائر (Pastoral Power)", type: "مفهوم"
 gaps:
 - "مذكرات وشهادات الطلاب التونسيين الذين آواهم فوكو (مجموعة Perspectives) غير مُدرجة بعد كمصدر أولي مستقل عن روايات فوكو نفسه في مقابلات تروبادوري."
 - "تاريخ المغادرة الفعلي لتونس هو أكتوبر 1968 (بعد نحو عامين ونصف في منصبه)، وليس مايو 1968 كما ورد في مسودة سابقة من هذا الملف؛ صُحح هنا استناداً إلى مصادر ثانوية (Medien 2020؛ ويكيبيديا الإنجليزية) ولم يُطابَق بعد مباشرة مع سيرة إريبون أو ماسي."

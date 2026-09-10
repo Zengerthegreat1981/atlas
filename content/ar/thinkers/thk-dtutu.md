@@ -11,7 +11,7 @@ country: "جنوب أفريقيا"
 language: "الإنجليزية / الزولو / السوتو"
 active_start: 1976
 active_end: 2021
-part: "psychology"
+part: "philosophy"
 edges:
 - rel: "belongs_to", target: "br-ubuntu-psychology", target_type: "تيار"
 related:
@@ -24,6 +24,7 @@ gaps:
   - "التفاصيل الدقيقة لمسيرته اللاهوتية في لندن لم تُوثّق."
   - "لا يوجد اقتباس مباشر موثوق من *No Future Without Forgiveness* (1999) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: مافو توتو فان فورث (thk-mtutufurth)."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-ubuntu-psychology` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # ديزموند توتو

@@ -18,7 +18,7 @@ related:
 - id: "tec-dbt-er-understanding-the-function-of-emotions", title: "وظائف المشاعر والانفعالات", type: "تقنية/تدخل علاجي"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
-- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب"
+- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-act-def-labeling-thoughts", title: "تسمية الأفكار", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا توجد دراسة تفكيكية (dismantling study) تعزل أثر تسمية الانفعال وحدها عن باقي حزمة مهارات تنظيم الانفعال في DBT؛ evidence_level هنا محسوب على مستوى الحزمة الكاملة (تجربة لينهان 1991 على BPD) لا التقنية المفردة."

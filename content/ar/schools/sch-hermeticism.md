@@ -17,7 +17,7 @@ edges:
 - rel: "evolved_from", target: "sch-gnosticism", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-egyptian-maat", target_type: "مدرسة"
 related:
-- id: "sch-gnosticism", title: "الغنوصية القديمة", type: "مدرسة"
+- id: "sch-gnosticism", title: "الغنوصية القديمة (بفروعها)", type: "مدرسة"
 - id: "sch-neoplatonism", title: "الأفلاطونية المحدثة (Neoplatonism)", type: "مدرسة"
 - id: "sch-renaissance-humanism", title: "الإنسانية النهضوية", type: "مدرسة"
 - id: "wrk-corpus-hermeticum", title: "الكوربوس الهرمسية", type: "عمل / كتاب"

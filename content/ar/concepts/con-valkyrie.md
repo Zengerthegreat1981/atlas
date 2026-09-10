@@ -11,7 +11,7 @@ dates: "أواخر القرن العشرين"
 active_start: 1980
 active_end: "مستمر"
 language: "الإنجليزية"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
@@ -19,11 +19,12 @@ related:
 - id: "thk-twolff", title: "توني فولف", type: "مفكر"
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
-- id: "con-archetype", title: "الأركيتيب (النموذج الأصلي)", type: "مفهوم"
+- id: "con-archetype", title: "النموذج الأصلي (Archetype)", type: "مفهوم"
 - id: "con-anima-animus", title: "الأنيما والأنيموس", type: "مفهوم"
 gaps:
   - "الرمزية الإسكندنافية للفالكيري كتجسيد للشجاعة الأنثوية والتحول في مواجهة الموت."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # أركيتيب الفالكيري والمحاربة الأنثوية

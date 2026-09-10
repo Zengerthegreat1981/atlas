@@ -16,8 +16,8 @@ active_end: 1948
 edges:
 - rel: "evolved_from", target: "sch-bhakti-movement", target_type: "مدرسة"
 related:
-- id: "sch-bhakti-movement", title: "حركة البهاكتي", type: "مدرسة"
-- id: "sch-neo-vedanta", title: "نيو-فيدانتا", type: "مدرسة"
+- id: "sch-bhakti-movement", title: "حركة البهاكتي الفلسفية", type: "مدرسة"
+- id: "sch-neo-vedanta", title: "نيو-فيدانتا (الفيدانتا الحديثة)", type: "مدرسة"
 - id: "wrk-hind-swaraj", title: "هند سواراج (الحكم الذاتي الهندي)", type: "عمل / كتاب"
 - id: "dbt-ambedkar-vs-gandhi-caste", title: "أمبيدكار ضد غاندي: إصلاح الطبقية أم إبادتها؟", type: "جدل"
 - id: "dbt-gandhi-vs-machiavelli", title: "غاندي ضد المكيافيلية: هل السياسة الممكنة تقتضي العنف؟", type: "جدل"

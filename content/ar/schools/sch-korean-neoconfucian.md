@@ -15,7 +15,7 @@ active_start: 1350
 active_end: 1910
 active_source: "lifespan"
 edges:
-- rel: "belongs_to", target: "sch-neoconfucianism", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-neoconfucianism", target_type: "مدرسة"
 - rel: "split_into", target: "sch-silhak", target_type: "مدرسة"
 related:
 - id: "sch-donghak", title: "دونغهاك / تشوندوغيو", type: "مدرسة"

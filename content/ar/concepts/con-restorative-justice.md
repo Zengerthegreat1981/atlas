@@ -8,7 +8,7 @@ en: "Restorative Justice"
 crumb: "العدالة والمجتمع ← العدالة التصالحية ← المفهوم"
 active_start: 1970
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
 edges:
 - rel: "belongs_to", target: "br-restorative-justice", target_type: "تيار"
 related:
@@ -18,6 +18,7 @@ related:
 gaps:
   - "نسبة الإطار إلى Howard Zehr تستحق توثيقاً."
   - "أُزيلت روابط لثلاثة مفكرين (نانسي هارنِس، إريك پيرسون، توم كورنول) لأن ملفاتهم غير موثّقة أو محجورة (توم كورنول محجور فعلياً)، ولا يمكن تبرير وجودهم في المتن."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-restorative-justice` موسومٌ «philosophy» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # العدالة التصالحية

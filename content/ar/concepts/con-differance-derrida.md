@@ -15,7 +15,7 @@ related:
 - id: "thk-derrida", title: "جاك دريدا", type: "مفكر"
 - id: "sch-deconstruction", title: "التفكيكية (Déconstruction)", type: "مدرسة"
 - id: "con-deconstruction-logocentrism", title: "التفكيكية ونقد التمركز حول اللوغوس (Logocentrism)", type: "مفهوم"
-- id: "crt-derrida-critique-of-logocentrism", title: "نقد دريدا للتمركز حول اللوغوس وميتافيزيقا الحضور", type: "نقد"
+- id: "crt-derrida-critique-of-logocentrism", title: "نقد دريدا للتمركز حول اللوغوس وميتافيزيقا الحضور", type: "نقد خارجي موثَّق"
 gaps:
   - "لم يُعثر على اقتباس مباشر موثّق من نص دريدا 'La différance' (1968) ضمن المصادر المتاحة؛ يحتاج توثيقاً من المصدر الأولي."
   - "التحليل اللغوي الدقيق لعلاقة المفهوم بنقد دريدا لـ'ميتافيزيقا الحضور' وبمشروع سوسير في اللسانيات لم يُوثَّق بعد."

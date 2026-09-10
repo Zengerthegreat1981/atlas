@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-multicultural-counseling", target_type: "مدرسة"
 related:
 - id: "thk-josephtrimble", title: "جوزيف ترايمبل", type: "مفكر"
-- id: "thk-ptedeschi", title: "رافائيل تيدِسكي", type: "مفكر"
+- id: "thk-ptedeschi", title: "رافائيل تيدِسكي (حجر)", type: "مفكر"
 - id: "thk-deraldwing-sue", title: "ديرالد وينغ سو", type: "مفكر"
 gaps:
   - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` اسماً نصّياً «الإرشاد متعدد الثقافات» لا يُحلّ إلى ملفّ، وقد أُنشئت المدرسةُ `sch-multicultural-counseling` فأُسند الانتماءُ إليها."

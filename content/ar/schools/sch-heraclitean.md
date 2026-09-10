@@ -15,9 +15,9 @@ active_end: -475
 cultural_origin: "greek"
 edges: []
 related:
-- id: "sch-milesian", title: "المدرسة الميليسية", type: "مدرسة"
-- id: "sch-eleatic", title: "المدرسة الإيلية", type: "مدرسة"
-- id: "sch-stoicism", title: "الرواقية", type: "مدرسة"
+- id: "sch-milesian", title: "المدرسة الميليسية (ما قبل سقراط الطبيعية)", type: "مدرسة"
+- id: "sch-eleatic", title: "المدرسة الإيلية (Eleatic School)", type: "مدرسة"
+- id: "sch-stoicism", title: "الرواقية (Stoicism)", type: "مدرسة"
 - id: "thk-heraclitus", title: "هيراقليطس الإفسيسي", type: "مفكر"
 - id: "con-logos-heraclitus", title: "اللوغوس الكوني عند هيراقليطس (Heraclitean Logos)", type: "مفهوم"
 gaps:

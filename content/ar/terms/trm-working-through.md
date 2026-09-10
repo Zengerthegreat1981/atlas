@@ -21,6 +21,7 @@ gaps:
   - "نسبة النقد التفصيلي إلى Babiak (2001) و de Shazer (1985) بصيغتهما الدقيقة هنا لم تُراجع من النص الأصلي مباشرة؛ استُبعد ذكرهما من المتن حتى تتوفر مراجعة أولية."
   - "الفرق بين 'العمل مع الذات' في التحليل النفسي و'العمل العميق' (Deep Work) في علم النفس الإيجابي يحتاج فصلاً."
   - "العلاقة بـ'الإدماج المعرفي' (Cognitive Integration) في علم النفس المعرفي تحتاج توثيقاً."
+  - "**نُظِّفت الأقسام 2026-09-10:** مُيِّز 1 عنوانَ قسمٍ مكرَّرٍ حرفياً بترقيمه."
 ---
 # العمل مع الذات (Working Through): معالجة الموانع
 
@@ -56,6 +57,6 @@ gaps:
 - Freud, S. (1914). *Remembering, Repeating and Working-Through* (Further Recommendations on the Technique of Psycho-Analysis II).
 - Eysenck, H. J. (1952). *The Effects of Psychotherapy: An Evaluation*. Journal of Consulting Psychology, 16(5).
 
-## المصادر
+## المصادر (2)
 
 لم تستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.

@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-wahdat-alwujud", target_type: "مدرسة"
 related:
 - id: "con-wahdat-al-wujud", title: "وحدة الوجود", type: "مفهوم"
-- id: "sch-wahdat-alwujud", title: "العرفان النظري (وحدة الوجود)", type: "مدرسة"
+- id: "sch-wahdat-alwujud", title: "العرفان النظري / وحدة الوجود (المدرسة الأكبرية — الشيخ الأكبر ابن عربي)", type: "مدرسة"
 gaps:
   - "التمييز بين 'وحدة الوجود' عنده وعند ابن عربي موضع نقاش."
   - "لا يوجد اقتباس مباشر موثوق من 'النفحات الإلهية'."

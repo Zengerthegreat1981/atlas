@@ -17,7 +17,7 @@ edges:
 - rel: "evolved_from", target: "sch-buddhism-early", target_type: "مدرسة"
 related:
 - id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
-- id: "sch-gandhianism", title: "الغاندية", type: "مدرسة"
+- id: "sch-gandhianism", title: "الغاندية (كفلسفة سياسية-أخلاقية)", type: "مدرسة"
 - id: "con-annihilation-of-caste", title: "إبادة الطبقية (Annihilation of Caste)", type: "مفهوم"
 - id: "wrk-annihilation-of-caste", title: "إبادة الطبقية (Annihilation of Caste)", type: "عمل / كتاب"
 - id: "dbt-ambedkar-vs-gandhi-caste", title: "أمبيدكار ضد غاندي: إصلاح الطبقية أم إبادتها؟", type: "جدل"

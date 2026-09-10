@@ -17,9 +17,9 @@ edges:
 - rel: "developed", target: "tec-phototherapy", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-david-krauss", title: "ديفيد أ. كراوس", type: "مفكر"
-- id: "sch-narrative-therapy", title: "العلاج السردي", type: "مدرسة"
+- id: "sch-narrative-therapy", title: "العلاج السردي (Narrative Therapy)", type: "مدرسة"
 - id: "con-family-projection-process", title: "عملية الإسقاط الأسري (Family Projection Process)", type: "مفهوم"
-- id: "con-self-actualization", title: "تحقيق الذات", type: "مفهوم"
+- id: "con-self-actualization", title: "تحقيق الذات (Self-Actualization)", type: "مفهوم"
 gaps:
   - "تصحيح: النسخة السابقة من هذا الملف زعمت أن وايزر تُوفّيت سنة 2016 وأنها وُلدت 1946 في مونتريال وتخرّجت من جامعة كونكورديا — هذه معلومات لم تجد لها أي سند مستقل عند المراجعة؛ والمؤكَّد أنها ما تزال نشطة حتى 2025-2026 (مؤتمرات وورش عمل مُعلَنة رسمياً على موقع مركزها)، فحُذفت تلك التواريخ والتفاصيل غير المؤكَّدة."
   - "سنة ميلادها الدقيقة وتفاصيل تعليمها الجامعي (المؤسسة والتخصص الدقيق) غير موثّقة في مصادر مستقلة يمكن الوصول إليها؛ السيرة المنشورة على موقعها لا تذكرهما."

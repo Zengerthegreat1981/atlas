@@ -10,17 +10,18 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1953
 active_end: 2008
-part: "philosophy"
+part: "psychology"
 crumb: "التحليل الطاقي الحيوي (لوين) ← الناس ← ألكسندر لوين"
 edges:
 - rel: "belongs_to", target: "br-bioenergetic-analysis", target_type: "تيار"
 related:
 - id: "thk-reich", title: "فيلهلم رايخ", type: "مفكر"
 - id: "thk-apesso", title: "ألبرت بيسّو", type: "مفكر"
-- id: "thk-dboyden", title: "ديان بوييدن", type: "مفكر"
+- id: "thk-dboyden", title: "ديان بوييدن-بيسّو", type: "مفكر"
 - id: "thk-ekeleman", title: "ستانلي كِلمان", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *The Language of the Body* (1958) بترجمة عربية معتمدة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-bioenergetic-analysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # ألكسندر لوين

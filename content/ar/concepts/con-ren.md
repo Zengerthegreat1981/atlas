@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-confucian-early", target_type: "مدرسة"
 related:
 - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
-- id: "con-li", title: "اللي (禮) — الطقس", type: "مفهوم"
+- id: "con-li", title: "اللي (禮) — الطقس والأدب", type: "مفهوم"
 - id: "con-jianai", title: "جيان آي (兼愛) — الإحسان الشامل", type: "مفهوم"
 gaps:
   - "الفرق الدقيق بين 'Rén' و'Humanitas' اللاتينية و'Menschlichkeit' الألمانية لم يُحلّ."

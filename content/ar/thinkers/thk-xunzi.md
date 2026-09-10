@@ -18,7 +18,7 @@ edges:
 related:
 - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
 - id: "thk-confucius", title: "كونفوشيوس (كونغ زي)", type: "مفكر"
-- id: "thk-mencius", title: "منسيوس", type: "مفكر"
+- id: "thk-mencius", title: "منسيوس (منغ زي)", type: "مفكر"
 - id: "thk-hanfeizi", title: "هان في تزو", type: "مفكر"
 - id: "dbt-human-nature-debate", title: "جدل الطبيعة البشرية في الكونفوشية المبكرة: خير منسيوس ضدّ شرّ شون تزو", type: "جدل"
 gaps:

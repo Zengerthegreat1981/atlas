@@ -15,7 +15,7 @@ edges:
 related:
 - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
-- id: "sch-phenomenology-somatic", title: "الظاهراتية الجسدية", type: "مدرسة"
+- id: "sch-phenomenology-somatic", title: "الظاهراتية الجسدية (Somatic Phenomenology)", type: "مدرسة"
 - id: "wrk-phenomenology-perception-merleau-ponty", title: "ظاهراتية الإدراك (Phénoménologie de la perception) - ميرلوبونتي", type: "عمل / كتاب"
 - id: "con-body-schema", title: "مخطط الجسد (Body Schema): النظام اللاواعي للحركة", type: "مفهوم"
 - id: "con-mind-body", title: "مشكلة العقل والجسد", type: "مفهوم"

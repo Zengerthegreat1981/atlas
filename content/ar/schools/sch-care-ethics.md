@@ -16,7 +16,7 @@ cultural_origin: "anglo-american"
 edges: []
 related:
 - id: "sch-feminism-radical", title: "النسوية الراديكالية", type: "مدرسة"
-- id: "sch-virtue-ethics", title: "أخلاقيات الفضيلة الجديدة", type: "مدرسة"
+- id: "sch-virtue-ethics", title: "أخلاقيات الفضيلة الجديدة (النيوأرسطية)", type: "مدرسة"
 - id: "wrk-different-voice", title: "صوت مختلف (In a Different Voice)", type: "عمل / كتاب"
 - id: "thk-nel-noddings", title: "نيل نودينغز", type: "مفكر"
 - id: "thk-gilligan", title: "كارول غيليغان", type: "مفكر"

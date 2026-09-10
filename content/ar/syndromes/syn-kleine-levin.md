@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "dis-hypersomnolence", title: "اضطراب فرط النوم", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-bipolar-i", title: "الاضطراب ثنائي القطب من النوع الأول", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-bipolar-i", title: "اضطراب ثنائي القطب من النوع الأول", type: "اضطراب/حالة إكلينيكية"
 - id: "con-time-consciousness", title: "وعي الزمن (Zeitbewußtsein): الحاضر المتضمن للماضي والمستقبل", type: "مفهوم"
 gaps:
   - "أبحاث ويلي كلاين وماكس ليفين ومسارات الخلل الوطائي الحوفي."

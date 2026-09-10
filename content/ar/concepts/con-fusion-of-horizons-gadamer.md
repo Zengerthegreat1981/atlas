@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-gadamer", title: "هانز-غيورغ غادامير", type: "مفكر"
 - id: "sch-hermeneutics", title: "الهرمنيوطيقا الفلسفية (Philosophische Hermeneutik)", type: "مدرسة"
-- id: "wrk-truth-and-method-gadamer", title: "الحقيقة والمنهج لهانز غيورغ غادامير", type: "عمل"
+- id: "wrk-truth-and-method-gadamer", title: "الحقيقة والمنهج لهانز غيورغ غادامير", type: "عمل / كتاب"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "con-hermeneutic-circle", title: "الدائرة الهرمنيوطيقية (Hermeneutic Circle)", type: "مفهوم"
 gaps:

@@ -10,7 +10,7 @@ crumb: "علم النفس التحليلي ونظرية النماذج البد�
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "br-jungian", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-jungian", target_type: "تيار"
 related:
 - id: "trm-archetyp-archetype-jung", title: "النمط البدائي (Archetype): البنى الرمزية في اللاوعي الجمعي", type: "مصطلح لغوي متنازع عليه"
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"

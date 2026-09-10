@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
-- id: "exp-primo-levi-auschwitz-survival", title: "بريمو ليفي في أوشفيتز", type: "خبرة معيشة"
+- id: "exp-primo-levi-auschwitz-survival", title: "تجربة بريمو ليفي في أوشفيتز وتوثيق تدمير الإنسانية في «هل هذا إنسان؟»", type: "خبرة معيشة"
 - id: "thk-arendt", title: "حنة آرندت", type: "مفكر"
 gaps:
   - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-existentialism` بحسب المجال المُصحَّح في مسار التنقّل («أخلاقيات الشهادة والفلسفة الوجودية»). ومدخلٌ فلسفيٌّ لا ينتمي إلى مدرسةِ علاجٍ نفسيٍّ إكلينيكي."

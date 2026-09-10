@@ -18,7 +18,7 @@ edges:
   []
 related:
 - id: "con-attention", title: "الانتباه", type: "مفهوم"
-- id: "con-spotlight-effect", title: "تأثير بقعة الضوء", type: "مفهوم"
+- id: "con-spotlight-effect", title: "تأثير بقعة الضوء (المبالغة في تقدير انتباه الآخرين لأخطائنا)", type: "مفهوم"
 - id: "wrk-thinking-fast-slow", title: "التفكير، السريع والبطيء", type: "عمل / كتاب"
 gaps:
   - "دراسة أولريك نايسر الأصلية (1975) ومعدل غياب رؤية الغوريلا (50% من المشاركين)."

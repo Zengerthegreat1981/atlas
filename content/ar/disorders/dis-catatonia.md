@@ -14,7 +14,7 @@ language: "متعدد اللغات"
 part: "psychology"
 related:
 - id: "dis-schizophrenia", title: "الفصام", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "dbt-ect-efficacy-and-ethics", title: "جدل فعالية وأخلاقيات العلاج بالصدمة الكهربائية", type: "جدل"
 - id: "con-wu-wei-non-action", title: "الوو-وي واللا-فعل العفوي في الداووية (Wu Wei)", type: "مفهوم"
 gaps:

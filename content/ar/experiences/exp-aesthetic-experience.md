@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
 - id: "thk-dewey", title: "جون ديوي", type: "مفكر"
-- id: "exp-flow-state-csikszentmihalyi", title: "تجربة الفيض", type: "خبرة معيشة"
+- id: "exp-flow-state-csikszentmihalyi", title: "تجربة الفيض (Flow) عند تشيكزينتميهايلي: الاندماج الكامل في النشاط", type: "خبرة معيشة"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: إدموند بِرك (thk-burke)."
   - "رابط مقترح لم يتحقق بعد في الأطلس: الحُكم الجمالي (con-aesthetic-judgment)."

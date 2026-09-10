@@ -20,7 +20,7 @@ related:
 - id: "con-transference", title: "التحويل والتحويل المقابل في العلاقة العلاجية (Transference)", type: "مفهوم"
 - id: "con-unconscious", title: "اللاشعور / اللاوعي النفسي الكلاسيكي (The Unconscious)", type: "مفهوم"
 - id: "con-repression", title: "الكبت والآليات الدفاعية الأولية (Repression)", type: "مفهوم"
-- id: "wrk-freud-interpretation-of-dreams", title: "كتاب تفسير الأحلام لسيغموند فرويد (1899)", type: "عمل"
+- id: "wrk-freud-interpretation-of-dreams", title: "كتاب تفسير الأحلام لسيغموند فرويد (1899)", type: "عمل / كتاب"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من Freud (1900, *Die Traumdeutung*) بعد."
   - "التمييز بين 'الانتباه الحرّ المُعلَّق' (Free-Floating Attention) و'الحياد التحليلي' (Evenly Suspended Attention) يحتاج توثيقاً — الاسمان الإنجليزيان في المتن معكوسان عن مسمّياتهما التقليدية ولم يُتحقق أيهما يقابل أيهما فعلياً."

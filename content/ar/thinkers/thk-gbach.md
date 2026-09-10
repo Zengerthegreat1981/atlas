@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1966
 active_end: 1986
-part: "philosophy"
+part: "psychology"
 crumb: "حركة اللقاء الجماعي ← مجموعات الماراثون ← جورج بَخ"
 edges:
 - rel: "belongs_to", target: "tec-encounter-groups", target_type: "تقنية/تدخل علاجي"
@@ -19,6 +19,7 @@ related:
 gaps:
   - "تاريخ الميلاد الدقيق لم يُوثّق بعد."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-encounter-groups` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # جورج بَخ

@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-aquinas", title: "توما الأكويني", type: "مفكر"
 - id: "sch-thomism", title: "التوماوية", type: "مدرسة"
-- id: "wrk-summa-theologiae", title: "الخلاصة اللاهوتية (Summa Theologiae)", type: "عمل"
+- id: "wrk-summa-theologiae", title: "الخلاصة اللاهوتية (Summa Theologiae)", type: "عمل / كتاب"
 - id: "con-teleology-final-cause", title: "الغائية والعلة الغائية (Teleology)", type: "مفهوم"
 - id: "con-ontological-argument-anselm", title: "البرهان الأنطولوجي لوجود الله (Ontological Argument)", type: "مفهوم"
 - id: "thk-anselm-canterbury", title: "أنسيلم من كانتربري", type: "مفكر"

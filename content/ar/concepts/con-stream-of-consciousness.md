@@ -15,8 +15,8 @@ related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
 - id: "thk-bergson", title: "هنري برغسون", type: "مفكر"
-- id: "axm-intentionality", title: "القصدية", type: "بديهية/مبدأ تأسيسي"
-- id: "con-time-consciousness", title: "وعي الزمن", type: "مفهوم"
+- id: "axm-intentionality", title: "بديهية القصديةّة (Intentionality)", type: "بديهية/مبدأ تأسيسي"
+- id: "con-time-consciousness", title: "وعي الزمن (Zeitbewußtsein): الحاضر المتضمن للماضي والمستقبل", type: "مفهوم"
 gaps:
   - "التمييز بين تيار الوعي عند جيمس (النفسي) وعند هوسرل (الظاهراتي) وعند برغسون (الفلسفي) يحتاج فصلاً مستقلاً."
   - "الاستخدام الأدبي (جيمس جويس، فرجينيا وولف، مارسيل بروست) خارج الأطلس."

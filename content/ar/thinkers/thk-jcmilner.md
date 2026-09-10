@@ -9,7 +9,7 @@ crumb: "التحليل النفسي ← الناس ← اللاكانية ← ج
 dates: "فرنسا · مواليد 1941"
 country: "فرنسا"
 language: "الفرنسية"
-part: "philosophy"
+part: "psychology"
 active_start: 1978
 active_end: "مستمر"
 edges:
@@ -20,6 +20,7 @@ related:
 - id: "thk-jamiller", title: "جاك-أَلان ميلِّر", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *L'Amour de la langue* (1978) بترجمة عربية معتمدة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # جان-كلود ميلنر

@@ -9,7 +9,7 @@ crumb: "السلوكية (Behaviorism) ← الناس ← نَثَان هـ. أ�
 dates: "أمريكا · 1930–2013"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-active_start: null
+active_start: 1930
 active_end: 2013
 part: "psychology"
 edges:
@@ -23,6 +23,7 @@ gaps:
   - "الـslug 'thk-nazrin' خطأ كتابي لـ'Azrin'."
   - "كتاب 'Token Economy' (1966، مع Holz) من أهم كتب العلاج السلوكي الجماعي."
   - "روابط thk-tholz (ت. هولز) وthk-vburr (فيرن بَرّ) وcon-cra وcon-toilet-training حُذفت — لا ملفات مستقلة لها في الأطلس بعد رغم ذكرها في المتن."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («أمريكا · 1930–2013») فاستُخرجت: 1930."
 ---
 
 # نَثَان هـ. أزّرين

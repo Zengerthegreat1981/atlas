@@ -16,7 +16,7 @@ related:
 - id: "sch-ipt", title: "العلاج بين الأشخاص (IPT)", type: "مدرسة"
 - id: "thk-gklerman", title: "جيرالد كليرمان", type: "مفكر"
 - id: "thk-mweissman", title: "ميري وايسمان", type: "مفكر"
-- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-behavioral-activation", title: "التنشيط السلوكي (BA)", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا توجد دراسة موثّقة في هذا الأطلس تقيس تحليل التواصل كمكوّن معزول عن باقي بروتوكول IPT."

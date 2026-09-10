@@ -2,7 +2,7 @@
 slug: "exp-ernest-shackleton-endurance-survival"
 id: "EXP-0093"
 type: "خبرة معيشة"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "ملحمة شاكلتون وسفينة إندورانس والنجاة في جليد القطب الجنوبي"
 en: "Ernest Shackleton and the Endurance Expedition (1914-1916): Crisis Leadership and Survival"
@@ -15,6 +15,7 @@ related:
 - id: "que-why-is-there-suffering-existential", title: "لماذا نتألم وكيف نحول المعاناة التراجيدية إلى إنجاز إنساني وبصيرة؟", type: "سؤال توليدي"
 gaps:
   - "النص مبني على مذكرات شاكلتون *South* (1919) ورواية القبطان فرانك ورسلي؛ يحتاج تدقيقاً لغوياً على ترجمة أسماء السفن والأماكن (قارب جيمس كيرد، خليج الملك هاكون)."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-humanistic` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # ملحمة شاكلتون وسفينة إندورانس والنجاة في جليد القطب الجنوبي

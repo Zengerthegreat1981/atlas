@@ -17,7 +17,7 @@ edges:
 - rel: "grounded_in", target: "sch-frankfurt-school", target_type: "مدرسة"
 - rel: "split_into", target: "br-discursive-psychology", target_type: "تيار"
 related:
-- id: "sch-frankfurt-school", title: "النظرية النقدية / مدرسة فرانكفورت", type: "مدرسة"
+- id: "sch-frankfurt-school", title: "النظرية النقدية / مدرسة فرانكفورت (Frankfurter Schule)", type: "مدرسة"
 - id: "br-discursive-psychology", title: "علم النفس الخطابي (بوتر وويذرل)", type: "تيار"
 - id: "sch-liberation-psychology", title: "علم نفس التحرر", type: "مدرسة"
 - id: "thk-iparker", title: "إيان باركر", type: "مفكر"

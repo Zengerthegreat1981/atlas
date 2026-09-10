@@ -14,8 +14,8 @@ edges:
 related:
 - id: "thk-plato", title: "أفلاطون", type: "مفكر"
 - id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية (القديمة/الوسطى/الجديدة الشكية)", type: "مدرسة"
-- id: "wrk-meno-plato", title: "مينون لأفلاطون في طبيعة الفضيلة والتعلم", type: "عمل"
-- id: "wrk-phaedo-plato", title: "فيدون لأفلاطون في خلود النفس", type: "عمل"
+- id: "wrk-meno-plato", title: "مينون لأفلاطون في طبيعة الفضيلة والتعلم", type: "عمل / كتاب"
+- id: "wrk-phaedo-plato", title: "فيدون لأفلاطون في خلود النفس", type: "عمل / كتاب"
 - id: "con-theory-of-forms", title: "نظرية المُثُل الأفلاطونية (Platonic Theory of Forms)", type: "مفهوم"
 - id: "con-tripartite-soul-plato", title: "النفس الثلاثية الأفلاطونية (Tripartite Soul)", type: "مفهوم"
 gaps:

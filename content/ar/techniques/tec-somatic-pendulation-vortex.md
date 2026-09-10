@@ -2,7 +2,7 @@
 slug: "tec-somatic-pendulation-vortex"
 id: "TEC-0363"
 type: "تقنية/تدخل علاجي"
-part: "psychology"
+part: "philosophy"
 level: "متوسط"
 title: "تقنية البندلة الإيقاعية بين دوامة الصدمة ودوامة الشفاء"
 en: "Rhythmic Pendulation Technique between Trauma and Healing Vortices"
@@ -17,6 +17,7 @@ related:
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-somatic-experiencing` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # تقنية البندلة الإيقاعية بين دوامة الصدمة ودوامة الشفاء

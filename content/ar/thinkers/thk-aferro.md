@@ -10,7 +10,7 @@ dates: "إيطاليا · 1947–"
 country: "إيطاليا"
 language: "الإيطالية / الإنجليزية"
 part: "psychology"
-active_start: null
+active_start: 1947
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
@@ -19,6 +19,7 @@ related:
 - id: "thk-bion", title: "ويلفريد بيون", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *The Bi-Personal Field* (1992/1999) بترجمة عربية معتمدة."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («إيطاليا · 1947–») فاستُخرجت: 1947."
 ---
 
 # أنطونينو فيرو

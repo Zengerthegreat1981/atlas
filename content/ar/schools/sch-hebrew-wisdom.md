@@ -15,9 +15,9 @@ active_start: -1000
 active_end: -100
 related:
 - id: "sch-egyptian-maat", title: "تقليد الحكمة المصرية (ماعت)", type: "مدرسة"
-- id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية", type: "مدرسة"
+- id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية (الإسكندرانية)", type: "مدرسة"
 - id: "sch-zoroastrian-philosophy", title: "الزرادشتية الفلسفية", type: "مدرسة"
-- id: "sch-patristics", title: "الآبائية المسيحية", type: "مدرسة"
+- id: "sch-patristics", title: "الآبائية المسيحية (Patristics)", type: "مدرسة"
 - id: "thk-ben-sira", title: "يشوع بن سيراخ (ابن سيرا)", type: "مفكر"
 - id: "thk-solomon-hebrew", title: "سليمان (في التقليد التوراتي)", type: "مفكر"
 - id: "wrk-book-of-proverbs", title: "سفر الأمثال (مِشْلاي)", type: "عمل / كتاب"

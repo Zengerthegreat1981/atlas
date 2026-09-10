@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
-- id: "thk-augustine", title: "أوغسطين", type: "مفكر"
+- id: "thk-augustine", title: "أوغسطينوس", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: المغفرة (con-forgiveness)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الضغينة (con-grudge)"

@@ -14,11 +14,11 @@ cultural_origin: "anglo-american"
 active_start: 1709
 active_end: 1780
 edges:
-- rel: "belongs_to", target: "sch-british-empiricism", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-british-empiricism", target_type: "مدرسة"
 related:
-- id: "sch-british-empiricism", title: "التجريبية البريطانية", type: "مدرسة"
-- id: "sch-lockeanism", title: "اللوكية", type: "مدرسة"
-- id: "sch-humeanism", title: "الهيومية", type: "مدرسة"
+- id: "sch-british-empiricism", title: "التجريبية البريطانية (كمظلة)", type: "مدرسة"
+- id: "sch-lockeanism", title: "اللوكية (اللوكية التجريبية)", type: "مدرسة"
+- id: "sch-humeanism", title: "الهيومية (الشكّ التجريبي)", type: "مدرسة"
 - id: "rel-british-empiricism-behaviorism", title: "التجريبية البريطانية والسلوكية: من لوك إلى واطسون", type: "علاقة بين مدرستين"
 - id: "con-esse-est-percipi", title: "الوجود هو الإدراك الحسي (Esse Est Percipi)", type: "مفهوم"
 gaps:

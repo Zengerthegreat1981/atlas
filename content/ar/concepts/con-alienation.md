@@ -15,7 +15,7 @@ related:
 - id: "con-isolation", title: "العزلة", type: "مفهوم"
 - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
 - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
-- id: "wrk-economic-philosophic-manuscripts-1844", title: "مخطوطات باريس الاقتصادية والفلسفية 1844 لماركس", type: "عمل"
+- id: "wrk-economic-philosophic-manuscripts-1844", title: "مخطوطات باريس الاقتصادية والفلسفية 1844 لماركس", type: "عمل / كتاب"
 - id: "sch-existential-therapy", title: "الوجودية العلاجية (Existential Therapy)", type: "مدرسة"
 - id: "con-alienation-marxist-vs-existentialist", title: "الاغتراب — الماركسي مقابل الوجودي", type: "مفهوم"
 - id: "con-bad-faith-mauvaise-foi", title: "سوء النية والهروب من الحرية (Bad Faith / Mauvaise Foi)", type: "مفهوم"

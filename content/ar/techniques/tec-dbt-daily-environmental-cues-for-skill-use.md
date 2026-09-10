@@ -18,7 +18,7 @@ related:
 - id: "tec-dbt-daily-skills-chaining-skill-stacking", title: "تسلسل المهارات (Skill Stacking)", type: "تقنية/تدخل علاجي"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
-- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب"
+- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا توجد دراسة منفصلة تقيس أثر «المحفزات البيئية» بمعزل عن حزمة تدريب مهارات DBT الكاملة التي طورتها مارشا لينهان سنة 1993."

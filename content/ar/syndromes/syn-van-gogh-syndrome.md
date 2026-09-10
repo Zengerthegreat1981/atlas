@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "dis-schizophrenia", title: "الفصام", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-bipolar-i", title: "الاضطراب ثنائي القطب من النوع الأول", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-bipolar-i", title: "اضطراب ثنائي القطب من النوع الأول", type: "اضطراب/حالة إكلينيكية"
 - id: "con-jouissance", title: "اللذّة (Jouissance)", type: "مفهوم"
 gaps:
   - "السجلات التاريخية والطبية النفسية لبتر الرسام فنسنت فان غوخ لأذنه وسيكولوجيا إيذاء الذات البليغ (Major Self-Mutilation)."

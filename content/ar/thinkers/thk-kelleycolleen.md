@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-sensorimotor-psychotherapy", target_type: "مدرسة"
 related:
@@ -24,6 +24,7 @@ gaps:
   - "**مرشح للحجر (تحقّق سلبي)**: بحث ويب مباشر عن 'Colleen Kelley' + Sensorimotor Psychotherapy/Pat Ogden لم يُظهر أي أثر مستقل لشخص بهذا الاسم كمطوِّرة أو مدرِّبة معتمدة في هذا التيار. موقع Sensorimotor Psychotherapy Institute يضمّ مدرّبة باسم قريب هو 'Kelley L. Callahan' (وليس Colleen Kelley)، وقد يكون الملف خلطاً بين الاسمين أو تلفيقاً. كتاب *Sensorimotor Psychotherapy: Interventions for Trauma and Attachment* (2015) مؤلَّفاه الفعليان هما Pat Ogden و Janina Fisher، وليس فيه أي مؤلفة باسم Colleen Kelley — العزو الوارد سابقاً في هذا الملف لهذا الكتاب كان خاطئاً وتم حذفه."
   - "سنة الميلاد غير موثقة."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-sensorimotor-psychotherapy` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # كولين كيلي

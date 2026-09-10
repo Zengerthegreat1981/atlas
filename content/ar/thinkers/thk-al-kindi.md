@@ -18,7 +18,7 @@ related:
 - id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
 - id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"
 - id: "ctx-baghdad-house-of-wisdom", title: "بيت الحكمة في بغداد وحركة الترجمة الكبرى", type: "سياق/تقليد"
-- id: "wrk-fi-al-falsafa-al-ula-kindi", title: "في الفلسفة الأولى للكندي", type: "عمل"
+- id: "wrk-fi-al-falsafa-al-ula-kindi", title: "في الفلسفة الأولى للكندي", type: "عمل / كتاب"
 - id: "thk-aristotle", title: "أرسطو", type: "مفكر"
 - id: "thk-al-farabi", title: "أبو نصر محمد بن محمد الفارابي", type: "مفكر"
 - id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا (الشيخ الرئيس)", type: "مفكر"

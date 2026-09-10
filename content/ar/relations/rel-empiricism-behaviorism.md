@@ -13,8 +13,8 @@ edges:
   - rel: "relates_to", target: "sch-british-empiricism", target_type: "مدرسة"
   - rel: "relates_to", target: "sch-behaviorism", target_type: "مدرسة"
 related:
-  - id: "sch-british-empiricism", title: "التجريبية البريطانية", type: "مدرسة"
-  - id: "sch-behaviorism", title: "السلوكية", type: "مدرسة"
+  - id: "sch-british-empiricism", title: "التجريبية البريطانية (كمظلة)", type: "مدرسة"
+  - id: "sch-behaviorism", title: "السلوكية (Behaviorism)", type: "مدرسة"
   - id: "thk-locke", title: "جون لوك", type: "مفكر"
   - id: "thk-hume", title: "ديفيد هيوم", type: "مفكر"
   - id: "thk-fskinner", title: "بورهوس فريدريك سكينر", type: "مفكر"

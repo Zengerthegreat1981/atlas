@@ -11,7 +11,7 @@ dates: "من 2003"
 active_start: 2003
 active_end: "مستمر"
 language: "الإنجليزية"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
@@ -23,6 +23,7 @@ related:
 gaps:
   - "قراءة ديفيد تاسي لعلم نفس الأركيتيب في المجتمعات العلمانية الحديثة."
   - "البحث عن المعنى والروحانية الوجودية خارج المؤسسات الكنسية التقليدية."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # اللاوعي ما بعد المسيحي

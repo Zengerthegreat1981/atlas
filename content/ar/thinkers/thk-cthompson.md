@@ -9,8 +9,8 @@ crumb: "التحليل النفسي ← الناس ← الفرويدية الج
 dates: "أمريكا · 1893–1958"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
-part: "philosophy"
-active_start: null
+part: "psychology"
+active_start: 1893
 active_end: 1958
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
@@ -21,6 +21,8 @@ related:
 gaps:
   - "لا يوجد اقتباس مباشر من *Psychoanalysis: Evolution and Development* (1950) بترجمة عربية معتمدة."
   - "لم تُراجع من نسخة أصلية مباشرة بعد."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («أمريكا · 1893–1958») فاستُخرجت: 1893."
 ---
 
 # كلارا تومسون

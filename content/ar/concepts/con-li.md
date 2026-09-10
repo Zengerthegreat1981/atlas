@@ -14,7 +14,7 @@ edges:
 related:
 - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
 - id: "thk-confucius", title: "كونفوشيوس (كونغ زي)", type: "مفكر"
-- id: "wrk-lunyu", title: "المحاورات (لون يو)", type: "عمل"
+- id: "wrk-lunyu", title: "المحاورات (لون يو)", type: "عمل / كتاب"
 - id: "con-ren", title: "الرن (仁) — الإنسانية الرحيمة", type: "مفهوم"
 - id: "con-zheng-ming", title: "تشنغ مينغ (正名) — تصحيح الأسماء", type: "مفهوم"
 - id: "thk-xunzi", title: "شون تزو (شون كوانغ)", type: "مفكر"

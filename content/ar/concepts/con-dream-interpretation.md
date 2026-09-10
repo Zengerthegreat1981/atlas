@@ -19,9 +19,9 @@ related:
 - id: "thk-vonfranz", title: "ماري-لويز فون فرانز", type: "مفكر"
 - id: "thk-rstein", title: "روبرت شتاين", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-- id: "con-dream-interpretation-technique", title: "تقنية تفسير الأحلام (Dream Interpretation Technique)", type: "مفهوم"
+- id: "con-dream-interpretation-technique", title: "تقنية تفسير الأحلام (Dream Interpretation Technique)", type: "تقنية"
 - id: "con-archetype", title: "النموذج الأصلي (Archetype)", type: "مفهوم"
-- id: "wrk-studien-hysterie", title: "دراسات في الهستيريا", type: "عمل"
+- id: "wrk-studien-hysterie", title: "دراسات في الهستيريا", type: "عمل / كتاب"
 - id: "br-jungian", title: "التحليلية اليونغية", type: "تيار"
 gaps:
   - "**كُتب متنه 2026-09-07.** والفجوة المسجَّلة كانت تطلب «الخطوات السريرية السبع عند روبرت شتاين» — **ولم أُثبتها**: لم أعثر على مصدرٍ يوثّق أن روبرت شتاين نظّم سبع خطوات بهذا العدد والترتيب. فعُرض هنا المنهجُ اليونغي كما يقرّره يونغ وفون فرانز بمصادره، وبقيت نسبةُ «الخطوات السبع» إلى شتاين **غيرَ متحقَّقة** ولم تُكتب في المتن."

@@ -16,9 +16,9 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-environmental-ethics", target_type: "مدرسة"
 related:
-- id: "sch-environmental-ethics", title: "فلسفة البيئة", type: "مدرسة"
+- id: "sch-environmental-ethics", title: "فلسفة البيئة / الأخلاق البيئية", type: "مدرسة"
 - id: "sch-social-ecology", title: "الإيكولوجيا الاجتماعية", type: "مدرسة"
-- id: "sch-ecofeminism", title: "النسوية البيئية", type: "مدرسة"
+- id: "sch-ecofeminism", title: "النسوية البيئية (Ecofeminism)", type: "مدرسة"
 - id: "con-deep-vs-shallow", title: "الإيكولوجيا الضحلة مقابل العميقة (Shallow vs. Deep)", type: "مفهوم"
 - id: "wrk-ecology-community-lifestyle", title: "الإيكولوجيا والمجتمع ونمط الحياة (Ecology, Community and Lifestyle)", type: "عمل / كتاب"
 - id: "thk-bill-devall", title: "بيل ديفال", type: "مفكر"

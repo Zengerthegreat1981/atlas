@@ -2,7 +2,7 @@
 slug: "sch-sikolohiyang-pilipino"
 id: "SCH-0289"
 type: "مدرسة"
-part: "philosophy"
+part: "psychology"
 level: "متوسط"
 title: "سيكولوهيانغ بيليبينو (علم النفس/الفلسفة الفلبينية الأصلية)"
 en: "Sikolohiyang Pilipino (Filipino Psychology / Sikolohiyang Pilipino)"
@@ -24,6 +24,7 @@ gaps:
   - "الفصل بين 'Sikolohiyang Pilipino' كحركة علم نفس وحركة فلسفية (Filipino Philosophy proper) غير محسوم."
   - "لا اقتباس مباشر موثوق من Virgilio Enriquez متاح في هذه المسودة."
   - "رابط belongs_to إلى 'الفلسفة الفلبينية' (مظلة) أُزيل مؤقتاً لعدم وجود ملف مدرسة لها بعد — سُجّلت في agents_specs/missing-schools.md."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» ويخالف 4 من أبنائه — فالخطأُ في الأب لا في الأبناء، وصُحِّح إلى «psychology» بأغلبية الأسرة."
 ---
 
 # سيكولوهيانغ بيليبينو (علم النفس/الفلسفة الفلبينية الأصلية)

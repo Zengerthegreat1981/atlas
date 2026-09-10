@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-islamic-sufism", target_type: "مدرسة"
 related:
-- id: "trm-fana-baqa-sufism", title: "الفناء والبقاء", type: "مصطلح لغوي متنازع عليه"
+- id: "trm-fana-baqa-sufism", title: "الفناء والبقاء (Fana and Baqa): ذوبان الأنا وثبات الوجود الإلهي", type: "مصطلح لغوي متنازع عليه"
 - id: "sch-islamic-sufism", title: "التصوف الإسلامي الكلاسيكي (التصوف)", type: "مدرسة"
 gaps:
   - "إحالة معلَّقة أُزيلت: «الحسين بن منصور الحلاج» (thk-al-hallaj) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."

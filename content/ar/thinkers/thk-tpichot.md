@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1993
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 crumb: "SFBT ← تطبيق سريري ← تيري بيشو"
 edges:
 - rel: "belongs_to", target: "sch-solution-focused", target_type: "مدرسة"
@@ -22,6 +22,7 @@ related:
 gaps:
   - "سنة الميلاد الدقيقة غير منشورة في السيرة الذاتية المتاحة."
   - "دورها الإداري في BRIEF Family Therapy Center Minneapolis موثّق جزئياً."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-solution-focused` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # تيري بيشو

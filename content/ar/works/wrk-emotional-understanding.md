@@ -12,17 +12,18 @@ author: "دونا أورانج"
 author_slug: "thk-lorange"
 publication_year: 1995
 original_language: "الإنجليزية"
-part: "philosophy"
+part: "psychology"
 active_start: 1995
 active_end: 1995
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-- id: "con-intersubjectivity", title: "البين-ذاتية", type: "مفهوم"
+- id: "con-intersubjectivity", title: "البين-ذاتية (Intersubjectivity)", type: "مفهوم"
 gaps:
   - "العنوان الفرعي كان مثبتاً سابقاً بصياغة خاطئة (\"The Intersubjective Ethics of Therapeutic Practice\")، وهذا عنوان لا يخص هذا الكتاب — العنوان الفرعي الفعلي المثبت في سجلّ الناشر (Guilford Press) هو \"Studies in Psychoanalytic Epistemology\"؛ صُحِّح هنا. يُحتمَل أن الصياغة القديمة خلطت بين هذا الكتاب وكتاب لاحق لأورانج عن الأخلاق العلاجية (مثل The Suffering Stranger, 2011) لم يُتحقّق من عنوانه هنا فلا يُذكر."
   - "الملف يحمل author_slug: thk-lorange بينما ملف مفكر آخر بعنوان مطابق تقريباً (دونا م. أورانج) موجود تحت thk-dorange أيضاً؛ لم يُحسم هنا أيّ الاثنين الصواب أو إن كانا ازدواجاً — هذا قرار خارج نطاق ملف العمل، يُبلَّغ لا يُنفَّذ."
   - "لم يثبت وجود ترجمة عربية منشورة لهذا العمل: بُحث عن مترجم وناشر وسنة ولم يُعثر على أيٍّ منها."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # الفهم العاطفي: دراسات في نظرية المعرفة التحليلية النفسية

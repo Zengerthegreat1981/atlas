@@ -13,7 +13,7 @@ active_start: 1970
 active_end: 2021
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "br-psychodrama", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-psychodrama", target_type: "تيار"
 related:
 - id: "thk-moreno", title: "يعقوب ليفي مورينو", type: "مفكر"
 - id: "thk-marciamarx", title: "مارسيا ماركس", type: "مفكر"

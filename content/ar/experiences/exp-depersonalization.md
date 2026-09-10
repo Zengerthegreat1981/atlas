@@ -13,7 +13,7 @@ edges:
 - rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "con-dissociation", title: "الانفصال (Dissociation)", type: "مفهوم"
-- id: "dis-depersonalization-derealization", title: "اضطراب تبدّد الشخصية/الواقع", type: "اضطراب"
+- id: "dis-depersonalization-derealization", title: "اضطراب تبدّد الشخصية/الواقع", type: "اضطراب/حالة إكلينيكية"
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 gaps:
   - "الفرق الدقيق بين تبدد الشخصية العرضي (Transient) الذي يمر به أغلب الناس واضطراب تبدد الشخصية/الواقع المزمن (DPDR) بحاجة إلى فصل سريري أوضح بمعايير المدة والشدة."

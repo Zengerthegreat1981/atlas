@@ -14,9 +14,9 @@ cultural_origin: "european"
 active_start: 1680
 active_end: 1831
 edges:
-- rel: "belongs_to", target: "sch-continental-rationalism", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-continental-rationalism", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-cartesianism", target_type: "مدرسة"
-- rel: "evolved_from", target: "br-scholasticism-second-salamanca", target_type: "مدرسة"
+- rel: "evolved_from", target: "br-scholasticism-second-salamanca", target_type: "تيار"
 related:
 - id: "sch-cartesianism", title: "الديكارتية", type: "مدرسة"
 - id: "sch-spinozism", title: "السبينوزية", type: "مدرسة"

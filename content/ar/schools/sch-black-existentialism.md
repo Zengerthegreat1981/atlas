@@ -16,8 +16,8 @@ cultural_origin: "african"
 edges:
 - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
-- id: "sch-existentialism", title: "الوجودية", type: "مدرسة"
-- id: "sch-negritude", title: "الزنوجة", type: "مدرسة"
+- id: "sch-existentialism", title: "الوجودية (Existentialism)", type: "مدرسة"
+- id: "sch-negritude", title: "الزنوجة (Négritude)", type: "مدرسة"
 - id: "sch-feminism-black", title: "النسوية السوداء", type: "مدرسة"
 - id: "thk-cesaire", title: "إيمي سيزير", type: "مفكر"
 gaps:

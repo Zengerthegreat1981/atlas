@@ -2,7 +2,7 @@
 slug: "exp-pat-ogden-body-movement-sensorimotor"
 id: "EXP-0111"
 type: "خبرة معيشة"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "ملاحظات بات أوغدن الحركية في المصحات وميلاد السنسوريموتور"
 en: "Pat Ogden's Observations of Somatic Patterns in Psychiatric Patients: Sensorimotor Psychotherapy"
@@ -15,10 +15,11 @@ related:
 - id: "thk-pogden", title: "بات أوغدن", type: "مفكر"
 - id: "sch-sensorimotor-psychotherapy", title: "العلاج النفسي حسي-حركي (Sensorimotor Psychotherapy)", type: "مدرسة"
 - id: "met-sensorimotor-somatic-container", title: "الإناء الجسدي الحاوي في السنسوريموتور: استعارة نافذة التحمل الحركي", type: "استعارة/مجاز مؤسِّس"
-- id: "wrk-ogden-trauma-and-the-body", title: "كتاب الصدمة والجسد: نهج سنسوريموتور لبات أوغدن (2006)", type: "عمل"
-- id: "tec-sensorimotor-pendulation", title: "البندلة (Pendulation) في العلاج السنسوريموتور", type: "تقنية"
+- id: "wrk-ogden-trauma-and-the-body", title: "كتاب الصدمة والجسد: نهج سنسوريموتور لبات أوغدن (2006)", type: "عمل / كتاب"
+- id: "tec-sensorimotor-pendulation", title: "البندلة (Pendulation) في العلاج السنسوريموتور", type: "تقنية/تدخل علاجي"
 gaps:
   - "التسلسل الزمني الدقيق للقاءات أوغدن مع بورغس وفان دير كولك في أوائل التسعينات يحتاج مصدراً أولياً محدداً بالتاريخ."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-sensorimotor-psychotherapy` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 # ملاحظات بات أوغدن الحركية في المصحات وميلاد السنسوريموتور
 

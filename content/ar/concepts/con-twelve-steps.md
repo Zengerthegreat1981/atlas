@@ -12,10 +12,10 @@ active_end: "مستمر"
 language: "الإنجليزية"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "br-medical-model-addiction", target_type: "فرع"
+- rel: "belongs_to", target: "br-medical-model-addiction", target_type: "تيار"
 related:
 - id: "rel-addiction-cbt", title: "الإدمان وتغيير السلوك والعلاج المعرفي-السلوكي: المقابلة التحفيزية ومنع الانتكاس", type: "علاقة بين مدرستين"
-- id: "thk-bwilson", title: "بيل ويلسون", type: "مفكر"
+- id: "thk-bwilson", title: "بيل ويلسون (مؤسس AA)", type: "مفكر"
 - id: "thk-dbob", title: "د. بوب (روبرت هولبروك سميث)", type: "مفكر"
 - id: "con-abstinence-vs-harm-reduction", title: "الامتناع الكامل مقابل الحد من الضرر", type: "مفهوم"
 gaps:

@@ -16,7 +16,7 @@ edges:
 related:
 - id: "sch-polyvagal-informed-therapy", title: "العلاج المستنير بنظرية البوليفاجال", type: "مدرسة"
 - id: "thk-dana", title: "ديب دانا", type: "مفكر"
-- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-cbt-mind-grounding-techniques", title: "تقنيات التأريض (الرسو)", type: "تقنية/تدخل علاجي"
 - id: "con-polyvagal-theory", title: "النظرية العصبية المبهمية المتعددة (Polyvagal Theory)", type: "مفهوم"
 gaps:

@@ -18,9 +18,9 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-buddhist-psychology", target_type: "مدرسة"
 related:
-- id: "sch-buddhist-psychology", title: "علم النفس البوذي", type: "مدرسة"
+- id: "sch-buddhist-psychology", title: "علم النفس البوذي (Buddhist Psychology)", type: "مدرسة"
 - id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
-- id: "con-mindfulness", title: "اليقظة الذهنية", type: "مفهوم"
+- id: "con-mindfulness", title: "اليقظة الذهنية (Mindfulness)", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: تقاليد اليقظة الذهنية (sch-mindfulness-traditions)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الدالاي لاما (thk-dalailama)"

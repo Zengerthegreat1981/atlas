@@ -16,7 +16,7 @@ related:
 - id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
 - id: "thk-jherman", title: "جوديث هِرمان", type: "مفكر"
 - id: "thk-lbrown", title: "لورا س. براون", type: "مفكر"
-- id: "br-feminist-therapy", title: "العلاج النفسي النسوي", type: "تيار"
+- id: "br-feminist-therapy", title: "العلاج النفسي النسوي — الإنسانية وما بعدها", type: "تيار"
 - id: "br-cb-sex-therapy", title: "العلاج الجنسي المعرفي السلوكي", type: "تيار"
 - id: "con-cognitive-distortion", title: "التشوهات المعرفية", type: "مفهوم"
 gaps:

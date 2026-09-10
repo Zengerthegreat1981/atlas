@@ -10,7 +10,7 @@ country: "أمريكا اللاتينية / عالمي"
 language: "إسبانية / إنجليزية / برتغالية"
 active_start: 1970
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-liberation-psychology", target_type: "مدرسة"
 related:
@@ -19,6 +19,7 @@ related:
 gaps:
   - "تاريخ Ignacio Martín-Baró في UCA (El Salvador) يستحق توثيقاً."
   - "علاقته بعلم النفس الفوكوي اللاتيني تستحق تفصيلاً."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-liberation-psychology` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # العلاج النقدي-التحرري

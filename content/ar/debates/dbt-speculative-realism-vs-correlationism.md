@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-speculative-realism", target_type: "مدرسة"
 related:
-- id: "sch-speculative-realism", title: "الواقعية المضاربة", type: "مدرسة"
+- id: "sch-speculative-realism", title: "الواقعية المضاربة (Speculative Realism)", type: "مدرسة"
 - id: "thk-quentin-meillassoux", title: "كونتين ميياسو", type: "مفكر"
 - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
 gaps:

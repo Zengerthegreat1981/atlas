@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "dis-adhd", title: "اضطراب نقص الانتباه وفرط الحركة", type: "اضطراب/حالة إكلينيكية"
-- id: "wrk-anxious-generation", title: "الجيل القلق", type: "عمل / كتاب"
+- id: "wrk-anxious-generation", title: "الجيل القلق: كيف تؤدي إعادة برمجة الطفولة العظيمة إلى وباء المرض النفسي", type: "عمل / كتاب"
 - id: "con-simulacra-and-simulation", title: "المصطنع والمحاكاة الفائقة (Simulacra and Simulation)", type: "مفهوم"
 gaps:
   - "أبحاث د. فيكتوريا دانكلي (Victoria Dunckley 2012) في الطب النفسي العصبي للأطفال."

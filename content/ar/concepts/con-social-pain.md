@@ -15,7 +15,7 @@ edges:
 related:
 - id: "axm-hedonic-principle", title: "المبدأ الهيدوني (مبدأ اللذة-الألم)", type: "بديهية/مبدأ تأسيسي"
 - id: "con-ubuntu", title: "الأوبونتو (Ubuntu)", type: "مفهوم"
-- id: "wrk-loneliness-cacioppo", title: "الوحدة: الطبيعة البشرية", type: "عمل / كتاب"
+- id: "wrk-loneliness-cacioppo", title: "الوحدة: الطبيعة البشرية والحاجة للترابط الاجتماعي", type: "عمل / كتاب"
 - id: "thk-john-cacioppo", title: "جون كاسيوبو", type: "مفكر"
 gaps:
   - "تجارب Cyberball ومسح الدماغ بالرنين المغناطيسي لنعومي أيزنبرغر وماثيو ليبرمان (2003)."

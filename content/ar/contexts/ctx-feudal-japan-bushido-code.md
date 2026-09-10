@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-buddhist-psychology", target_type: "مدرسة"
 related:
 - id: "ctx-kyoto-school-zen-modernity", title: "مدرسة كيوتو وتلاقي الزن البوذي مع الفلسفة القارية", type: "سياق/تقليد"
-- id: "stu-terror-management-theory", title: "دراسات نظرية إدارة الرعب", type: "دراسة"
+- id: "stu-terror-management-theory", title: "دراسات نظرية إدارة الرعب", type: "دراسة وبحث"
 - id: "thk-becker", title: "إرنست بيكر", type: "مفكر"
 gaps:
   - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `sch-buddhist-psychology` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."

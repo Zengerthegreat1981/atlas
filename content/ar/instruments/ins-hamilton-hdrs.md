@@ -18,7 +18,7 @@ edges:
 - rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
-- id: "ins-bdi-ii", title: "مقياس بيك للاكتئاب", type: "أداة قياس"
+- id: "ins-bdi-ii", title: "مقياس بيك للاكتئاب - الإصدار الثاني", type: "أداة قياس"
 - id: "ins-phq-9", title: "استبيان صحة المريض للاكتئاب - 9 بنود", type: "أداة قياس"
 - id: "ins-hamilton-hama", title: "مقياس هاملتون للقلق (HAM-A / HARS)", type: "أداة قياس"
 - id: "dbt-psychotherapy-vs-pharmacotherapy-depression", title: "جدل فعالية العلاج النفسي مقابل الدواء في علاج الاكتئاب الجسيم", type: "جدل"

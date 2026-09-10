@@ -18,7 +18,7 @@ edges:
 related:
 - id: "tec-cbt-emo-deep-breathing-techniques", title: "تقنيات التنفس العميق", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-box-breathing", title: "التنفس المربّع", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-body-scan", title: "مسح الجسد", type: "تقنية/تدخل علاجي"
+- id: "tec-act-pres-body-scan", title: "مسح الجسد (ACT)", type: "تقنية/تدخل علاجي"
 - id: "dis-anxiety-due-to-medical", title: "اضطراب القلق بسبب حالة طبية أخرى", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "مبتكر التقنية إدموند جاكوبسون ليس له ملف مفكر في الأطلس؛ الـslug الأقرب اسماً (thk-jacobson) يخص إديث جاكوبسون، محللة نفسية مختلفة تماماً، ولا يصح الربط به. طُلب slug جديد في requests-spark.md."

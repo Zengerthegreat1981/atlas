@@ -17,10 +17,10 @@ edges:
 - rel: "belongs_to", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
 - id: "thk-esther-perel", title: "إستر بيريل", type: "مفكر"
-- id: "con-imago", title: "الإيماجو (Imago)", type: "مفهوم"
+- id: "con-imago", title: "الإيماجو", type: "مفهوم"
 - id: "con-imago-childhood-wound", title: "جرح الطفولة وصورة الشريك اللاواعية في علاج الإيماغو", type: "مفهوم"
-- id: "con-imago-dialogue-process", title: "عمليّة الحوار Imago: إعادة اتصال عاطفي", type: "مفهوم"
-- id: "con-imago-fractured-self", title: "الذات المتشظّية في Imago: الجزء الذي يتكرّر", type: "مفهوم"
+- id: "con-imago-dialogue-process", title: "عَمَلِيَّة الْحِوَار Imago: إِعَادَة اتِّصَال عَاطِفِيّ", type: "مفهوم"
+- id: "con-imago-fractured-self", title: "الذَّات الْمُتَشَظِّيَة فِي Imago: الجُزْء الَّذِي يَتَكَرَّر", type: "مفهوم"
 - id: "thk-sjohnson", title: "سو جونسون", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"

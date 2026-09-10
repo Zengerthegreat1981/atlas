@@ -18,7 +18,7 @@ edges:
   []
 related:
 - id: "tec-cbt-mind-mindfulness-meditation", title: "تأمل اليقظة الذهنية", type: "تقنية/تدخل علاجي"
-- id: "wrk-mindful-way-through-depression", title: "طريقة اليقظة الذهنية للتغلب على الاكتئاب", type: "عمل / كتاب"
+- id: "wrk-mindful-way-through-depression", title: "طريقة اليقظة الذهنية للتغلب على الاكتئاب: تحرير نفسك من التعاسة المزمنة", type: "عمل / كتاب"
 gaps:
   - "التحليل العاملي التكاملي لروث باير وفريقها (Ruth Baer et al. 2006) لمقاييس اليقظة الذهنية الكبرى."
   - "لم يُعثر بعد على اقتباس مباشر يمكن نسبته بثقة لمصدره الأصلي."

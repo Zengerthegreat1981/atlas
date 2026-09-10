@@ -2,7 +2,7 @@
 slug: "con-historical-trauma"
 id: "CON-0831"
 type: "مفهوم"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "الصدمة التاريخية (Historical Trauma)"
 en: "Historical Trauma"
@@ -11,7 +11,7 @@ register: "academic"
 evidence_level: "well-established"
 cultural_origin: "indigenous"
 dates: "مفهوم صاغته Brave Heart في 1995"
-active_start: null
+active_start: 1995
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-indigenous-psychology", target_type: "مدرسة"
@@ -27,6 +27,8 @@ gaps:
   - "'جوزيف ب. غون' (thk-jgone) موجود فقط كمسودة غير معتمدة في drafts/spark/thinkers/ وليس كملف منشور تحت thinkers/؛ لا يُربط هنا حتى يُرقّى."
   - "مفهوم 'الحزن التاريخي غير المُعالَج' (Historical Unresolved Grief) الذي صاغته بريف هارت (1995) لا يملك ملف con- مستقل في الأطلس؛ con-grief الموجود مفهوم يونغي مختلف تماماً (الحزن كمسار للتفريد) ولا يصح ربطه هنا."
   - "التمييز بين 'الصدمة التاريخية' و'الصدمة الجماعية' و'الصدمة المؤسسية' ليس موحَّداً في الأدبيات؛ Brave Heart (2003) حاولت الفصل لكن الاستعمال لا يزال متداخلاً."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («مفهوم صاغته Brave Heart في 1995») فاستُخرجت: 1995."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-indigenous-psychology` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # الصدمة التاريخية (Historical Trauma)

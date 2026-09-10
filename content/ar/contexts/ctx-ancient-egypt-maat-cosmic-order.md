@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-egyptian-maat", target_type: "مدرسة"
 related:
-- id: "que-roots-of-morality-evolution-reason", title: "جذور الأخلاق", type: "سؤال توليدي"
+- id: "que-roots-of-morality-evolution-reason", title: "ما هي جذور الأخلاق: هل هي غريزة تطورية بيولوجية أم تشريع عقلاني معياري؟", type: "سؤال توليدي"
 - id: "thk-amenemope", title: "أمِنْمُوپ", type: "مفكر"
 gaps:
   - "لم يُراجَع الترقيم الدقيق لفصول 'كتاب الموتى' (عادة 192 فصلاً/تعويذة في نسخ العصر المتأخر) من مصدر أولي."

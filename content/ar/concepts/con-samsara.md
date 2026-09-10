@@ -16,11 +16,11 @@ edges:
 related:
 - id: "con-karma-philosophy", title: "كارما (الفعل وعواقبه)", type: "مفهوم"
 - id: "sch-upanishadic", title: "الفلسفة الأوبانيشادية", type: "مدرسة"
-- id: "sch-buddhism-early", title: "البوذية المبكرة (تعاليم ما قبل الانقسام المدرسي)", type: "مدرسة"
-- id: "thk-shankara", title: "شانكارا", type: "مفكر"
-- id: "thk-ramanuja", title: "رامانوجا", type: "مفكر"
+- id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
+- id: "thk-shankara", title: "شانكارا (أدفايتا فيدانتا)", type: "مفكر"
+- id: "thk-ramanuja", title: "رامانوجا (فيشيشتادفايتا)", type: "مفكر"
 - id: "thk-madhva", title: "مادهافا (دفايتا فيدانتا)", type: "مفكر"
-- id: "sch-jainism", title: "الجاينية", type: "مدرسة"
+- id: "sch-jainism", title: "الجاينية الفلسفية", type: "مدرسة"
 - id: "sch-charvaka", title: "شارفاكا / لوكاياتا (المادية الهندية)", type: "مدرسة"
 gaps:
   - "الفرق بين سامسارا في الفيدانتا، سامسارا في الجاينية، وسامسارا في البوذية يحتاج مراجعة."

@@ -10,7 +10,7 @@ country: "ألمانيا"
 language: "الألمانية"
 active_start: 1980
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 crumb: "العلاج الإيجابي عبر-الثقافي (Peseschkian) ← تطوير ← مانفريد شيربكا"
 edges:
 - rel: "belongs_to", target: "sch-positive-psychotherapy", target_type: "مدرسة"
@@ -21,6 +21,7 @@ gaps:
   - "السيرة الذاتية الكاملة (نشأته، أطروحته) غير منشورة على الإنترنت."
   - "الفصل الدقيق بين أعماله في Göttingen وأعماله في WAPP Wiesbaden يحتاج مراجعة."
   - "روابط related السابقة إلى thk-mpeseschkian وthk-wapp وbr-positive-psychotherapy أُزيلت لأن الملفات المستهدفة غير موجودة في الأطلس."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-positive-psychotherapy` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # مانفريد شيربكا

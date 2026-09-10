@@ -16,7 +16,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
-- id: "wrk-atomic-habits", title: "العادات الذرية", type: "عمل / كتاب"
+- id: "wrk-atomic-habits", title: "العادات الذرية: طريقة سهلة ومثبتة لبناء عادات جيدة والتخلص من السيئة", type: "عمل / كتاب"
 gaps:
   - "لم يُعثر في هذه المراجعة على اقتباس منفرد موثَّق بصفحة ومصدر من نص كلير نفسه (بخلاف أطروحاته المشروحة أعلاه بالاسم)."
 ---

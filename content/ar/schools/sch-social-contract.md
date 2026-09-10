@@ -16,7 +16,7 @@ active_end: 1900
 edges:
 - rel: "evolved_from", target: "sch-british-empiricism", target_type: "مدرسة"
 related:
-- id: "sch-enlightenment", title: "فلسفة التنوير", type: "مدرسة"
+- id: "sch-enlightenment", title: "فلسفة التنوير (كمظلة عامة)", type: "مدرسة"
 - id: "sch-classical-liberalism-early", title: "الليبرالية الكلاسيكية المبكرة", type: "مدرسة"
 - id: "sch-civic-republicanism", title: "الجمهورية المدنية (Civic Republicanism)", type: "مدرسة"
 - id: "sch-lockeanism", title: "اللوكية (اللوكية التجريبية)", type: "مدرسة"

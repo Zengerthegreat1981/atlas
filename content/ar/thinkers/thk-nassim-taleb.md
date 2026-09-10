@@ -2,7 +2,7 @@
 slug: "thk-nassim-taleb"
 id: "THK-1665"
 type: "مفكر"
-part: "philosophy"
+part: "psychology"
 register: "popular"
 level: "متقدم"
 title: "نسيم نيقولا طالب"
@@ -16,13 +16,14 @@ crumb: "علم النفس المعرفي واللايقين وفلسفة الم�
 edges:
 - rel: "belongs_to", target: "con-antifragility", target_type: "مفهوم"
 related:
-- id: "wrk-black-swan", title: "البجعة السوداء: تداعيات الأحداث غير المحتملة", type: "عمل"
-- id: "wrk-antifragile", title: "ضد الهشاشة: الأشياء التي تستفيد من الفوضى والاضطراب", type: "عمل"
-- id: "con-antifragility", title: "ضد الهشاشة", type: "مفهوم"
+- id: "wrk-black-swan", title: "البجعة السوداء: تداعيات الأحداث غير المحتملة", type: "عمل / كتاب"
+- id: "wrk-antifragile", title: "ضد الهشاشة: الأشياء التي تستفيد من الفوضى والاضطراب", type: "عمل / كتاب"
+- id: "con-antifragility", title: "ضد الهشاشة (النمو والازدهار عبر الصدمات والاضطراب)", type: "مفهوم"
 gaps:
   - "تفاصيل عمله في «Universa Investments» موثّقة جزئياً."
   - "علاقته بالفلاسفة اليونانيين (هيراقليطس، سيكستوس إمبيريكوس) موثّقة في 'Antifragile' فقط."
   - "روابط thk-kpopper (كارل بوبر) وthk-fnietzsche (فريدريش نيتشه) وthk-rfeynman (ريتشارد فاينمان) وthk-jbdebt (دانيال كانمان) حُذفت — لا ملفات مستقلة لهم في الأطلس بعد رغم ذكرهم في المتن."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `con-antifragility` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # نسيم نيقولا طالب

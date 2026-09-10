@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "syn-hikikomori", title: "متلازمة الهيكوموري (Hikikomori)", type: "متلازمة"
-- id: "con-peter-pan-complex", title: "عقدة / متلازمة بيتر بان", type: "مفهوم"
+- id: "con-peter-pan-complex", title: "عقدة / متلازمة بيتر بان (عدم النضج والهروب من المسؤولية)", type: "مفهوم"
 - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
 gaps:
   - "صياغة عالم الاجتماع الياباني ماساهيرو يامادا (Masahiro Yamada 1999) للمصطلح."

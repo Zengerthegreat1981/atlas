@@ -17,9 +17,9 @@ related:
 - id: "thk-jherman", title: "جوديث هِرمان", type: "مفكر"
 - id: "thk-lbrown", title: "لورا س. براون", type: "مفكر"
 - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-- id: "br-feminist-therapy", title: "العلاج النفسي النسوي", type: "تيار"
-- id: "br-self-actualization-maslow", title: "علم نفس تحقيق الذات (ماسلو)", type: "تيار"
-- id: "crt-critique-of-humanistic-therapy", title: "نقد العلاج الإنساني: تحقيق الذات أم «أنانية» متعالية؟", type: "نقد خارجي موثق"
+- id: "br-feminist-therapy", title: "العلاج النفسي النسوي — الإنسانية وما بعدها", type: "تيار"
+- id: "br-self-actualization-maslow", title: "علم نفس تحقيق الذات والدافعية الإنسانية (ماسلو)", type: "تيار"
+- id: "crt-critique-of-humanistic-therapy", title: "نقد العلاج الإنساني: تحقيق الذات أم «أنانية» متعالية؟", type: "نقد خارجي موثَّق"
 gaps:
   - "تفاصيل نقد Chesler (1972) لروجرز تحديداً — لا اقتباس مباشر."
   - "موقف ماسلو نفسه من النساء كـ'ذوات نفس' (نادراً ما ناقش) — لا مراجعة نصية."

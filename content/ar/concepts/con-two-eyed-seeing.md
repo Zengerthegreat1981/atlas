@@ -2,7 +2,7 @@
 slug: "con-two-eyed-seeing"
 id: "CON-0866"
 type: "مفهوم"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "الرؤية بعينين (Etuaptmumk / Two-Eyed Seeing)"
 en: "Two-Eyed Seeing (Etuaptmumk)"
@@ -11,15 +11,15 @@ register: "academic"
 evidence_level: "emerging"
 cultural_origin: "indigenous"
 dates: "صاغها Bartlett & Marshall في 2004"
-active_start: null
+active_start: 2004
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-indigenous-psychology", target_type: "مدرسة"
 related:
 - id: "sch-indigenous-psychology", title: "علم نفس الشعوب الأصلية", type: "مدرسة"
-- id: "sch-indigenous-philosophy-contemporary", title: "فلسفات السكان الأصليين المعاصرة", type: "مدرسة"
+- id: "sch-indigenous-philosophy-contemporary", title: "فلسفات السكان الأصليين المعاصرة (كمظلة نقدية عابرة للمناطق)", type: "مدرسة"
 - id: "thk-ukim", title: "ويتشول كيم", type: "مفكر"
-- id: "con-emic-etic", title: "الإيميتيك والإتيك", type: "مفهوم"
+- id: "con-emic-etic", title: "الإيميتيك والإتيك (Emic vs. Etic)", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: تشيرل بارتليت (thk-cbartlett)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: ألبرت مارشال (thk-amarshall)"
@@ -27,6 +27,8 @@ gaps:
   - "المفهوم صاغه Bartlett, Marshall & Marshall (2012) في سياق تعليم البيئة مع شعوب الميغماق (Mi'kmaq) في كندا؛ تعميمه على سياقات أخرى (آسيوية، أفريقية) يحتاج مراجعة."
   - "الأساس التجريبي (RCT) لـTwo-Eyed Seeing في العلاج النفسي محدود؛ معظم الأدبيات وصفية أو سردية."
   - "لا يوجد اقتباس مباشر موثوق في هذه المسودة."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («صاغها Bartlett & Marshall في 2004») فاستُخرجت: 2004."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-indigenous-psychology` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # الرؤية بعينين (Etuaptmumk / Two-Eyed Seeing)

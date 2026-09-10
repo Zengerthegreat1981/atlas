@@ -2,7 +2,7 @@
 slug: "trm-proprioception-interoception"
 id: "TRM-0079"
 type: "مصطلح لغوي متنازع عليه"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "استقبال الحس العميق والإحساس الداخلي (Proprioception & Interoception)"
 en: "Translating Proprioception and Interoception: Bodily Position Sense vs. Visceral Awareness"
@@ -17,6 +17,7 @@ related:
 gaps:
   - "لم تُراجع بعد ترجمة شارلز شيرينغتون الأصلية لعام 1906 (proprioceptive/exteroceptive/interoceptive) من مصدر عربي محقق يحدد أول من استعمل مقابلاتها العربية في الأدبيات الطبية المصرية أو الشامية."
   - "مقياس A. D. Craig التفصيلي لمسارات الألياف Aδ وC اللاميالينية الناقلة للإحساس الداخلي عبر الحبل الشوكي إلى الجزيرة الخلفية ثم الأمامية غير مشروح في المتن؛ الاكتفاء هنا بالخلاصة الوظيفية لا التشريحية."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-somatic-experiencing` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # استقبال الحس العميق والإحساس الداخلي (Proprioception & Interoception)

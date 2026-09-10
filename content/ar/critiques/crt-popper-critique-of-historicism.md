@@ -14,7 +14,7 @@ edges:
 - rel: "relates_to", target: "sch-marxism", target_type: "مدرسة"
 related:
 - id: "thk-karl-popper", title: "سير كارل بوبر", type: "مفكر"
-- id: "wrk-popper-open-society", title: "المجتمع المفتوح وأعداؤه", type: "عمل"
+- id: "wrk-popper-open-society", title: "المجتمع المفتوح وأعداؤه", type: "عمل / كتاب"
 - id: "thk-plato", title: "أفلاطون", type: "مفكر"
 - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
 - id: "thk-marx", title: "كارل ماركس", type: "مفكر"

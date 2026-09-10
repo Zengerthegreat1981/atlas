@@ -11,7 +11,7 @@ active_end: "مستمر"
 part: "psychology"
 edges:
 related:
-- id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي", type: "تيار"
+- id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي (ABA)", type: "تيار"
 - id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي (النسوي والكويري وما بعد الكولونيالي)", type: "تيار"
 - id: "dbt-conversion-therapy-harm", title: "جدل العلاج بالتحويل: مفيد أم ضار؟", type: "جدل"
 gaps:

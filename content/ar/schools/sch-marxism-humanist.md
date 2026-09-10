@@ -16,9 +16,9 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-western-marxism", target_type: "مدرسة"
 related:
-- id: "sch-western-marxism", title: "الماركسية الغربية", type: "مدرسة"
-- id: "sch-marxism-structuralist", title: "الماركسية البنيوية", type: "مدرسة"
-- id: "sch-existentialism-atheist", title: "الوجودية الملحدة", type: "مدرسة"
+- id: "sch-western-marxism", title: "الماركسية الغربية (Western Marxism)", type: "مدرسة"
+- id: "sch-marxism-structuralist", title: "الماركسية البنيوية (Structuralist Marxism / Marxisme structuraliste)", type: "مدرسة"
+- id: "sch-existentialism-atheist", title: "الوجودية الملحدة (Atheist Existentialism)", type: "مدرسة"
 gaps:
   - "حدود 'الإنسانية' في الماركسية الإنسانية (مقابل 'الوضعية الماركسية') غير محصورة بدقة."
   - "العلاقة مع الماركسية اللاتينية (Hélder Câmara، Ignacio Ellacuría) في لاهوت التحرير تحتاج ربطًا منفصلاً."

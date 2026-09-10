@@ -15,9 +15,9 @@ edges:
 related:
 - id: "sch-emdr", title: "إعادة المعالجة عبر حركات العين وتخفيف الأعراض (EMDR)", type: "مدرسة"
 - id: "thk-francine-shapiro", title: "فرانسين شابيرو", type: "مفكر"
-- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب"
-- id: "tec-emdr-eight-phase-protocol", title: "بروتوكول المراحل الثمانية والتحفيز الثنائي لـ EMDR", type: "تقنية"
-- id: "tec-cbt-mind-grounding-techniques", title: "تقنيات التأريض (الرسو)", type: "تقنية"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-emdr-eight-phase-protocol", title: "بروتوكول المراحل الثمانية والتحفيز الثنائي لـ EMDR", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-mind-grounding-techniques", title: "تقنيات التأريض (الرسو)", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا يوجد في الأطلس حالياً slug مستقل لدراسة Korn & Leeds (2002) نفسها — الاكتفاء بذكرها في المتن والمصادر."
   - "الفرق بين Resourcing العام (tec-emdr-resourcing) وRDI كبروتوكول منظّم للمرحلة الثانية غير مفصّل بالكامل في الأطلس."

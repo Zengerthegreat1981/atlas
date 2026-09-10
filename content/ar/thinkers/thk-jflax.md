@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1980
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "con-feminist-psychoanalysis", target_type: "مفهوم"
 related:
@@ -21,6 +21,7 @@ related:
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Thinking Fragments* (1990) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جوليا ميتشِل (thk-jmitchell)."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `con-feminist-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب."
 ---
 
 # جين فلاكس

@@ -10,7 +10,7 @@ crumb: "علم النفس التحليلي والتكامل الذاتي ← ا�
 active_start: null
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "br-jungian", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-jungian", target_type: "تيار"
 related:
 - id: "trm-individuation-jung", title: "التفرد واكتمال الذات (Individuation): رحلة النضج وتكامل النفس", type: "مصطلح لغوي متنازع عليه"
 - id: "que-shadow-integration-individuation", title: "كيف يتصالح الإنسان مع جوانب الظل في شخصيته دون استسلام لنزواتها؟", type: "سؤال توليدي"

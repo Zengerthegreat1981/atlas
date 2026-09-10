@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-queer-theory", target_type: "مدرسة"
 related:
 - id: "thk-butler", title: "جوديث بتلر", type: "مفكر"
-- id: "wrk-gender-trouble-butler", title: "مشكلة الجندر لجوديث بتلر (Gender Trouble)", type: "عمل"
+- id: "wrk-gender-trouble-butler", title: "مشكلة الجندر لجوديث بتلر (Gender Trouble)", type: "عمل / كتاب"
 - id: "dbt-feminist-essentialism-vs-constructionism", title: "جدل الجوهرية مقابل البنائية في النسوية", type: "جدل"
 gaps:
   - "لا ملف مفكر (thk-) لكاثلين ستوك (Kathleen Stock)، الطرف الناقد الفعلي المعاصر لبتلر في هذا الجدل بالذات — طلب slug مسجَّل في requests-minimax.md."

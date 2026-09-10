@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-socrates", title: "سقراط", type: "مفكر"
 - id: "thk-aristotle", title: "أرسطو", type: "مفكر"
-- id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية", type: "مدرسة"
+- id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية (القديمة/الوسطى/الجديدة الشكية)", type: "مدرسة"
 - id: "ctx-ancient-athens-agora", title: "الأغورا الأثينية والحوار السقراطي في الديمقراطية الكلاسيكية", type: "سياق/تقليد"
 - id: "ctx-ancient-sparta-discipline", title: "سياق إسبرطة القديمة ونظام الأغوجي وسيكولوجيا الانضباط الجمعي", type: "سياق/تقليد"
 - id: "wrk-crito-plato", title: "كريتون لأفلاطون في طاعة القوانين", type: "عمل / كتاب"

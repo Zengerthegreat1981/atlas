@@ -17,7 +17,7 @@ edges:
 - rel: "belongs_to", target: "sch-psychedelic-assisted-therapy", target_type: "مدرسة"
 related:
 - id: "thk-amithoefer", title: "آن ميثوفير", type: "مفكر"
-- id: "thk-mmithoefer", title: "مايكل ميثوفير", type: "مفكر"
+- id: "thk-mithoefer", title: "مايكل ميثوفر", type: "مفكر"
 gaps:
   - "تم التحقق (أيلول 2026): هذا سجل مكرر لنفس الشخص الموثّق في الملف المعتمد thk-amithoefer؛ تحوّل إلى قيد إحالة."
   - "**أُضيف `redirect_to` 2026-09-10:** كان هدفُ هذه الإحالة مذكوراً في العنوان أو المتن فقط، فلا يقرأه أيُّ سكربتٍ أو فحص. وأُثبت الحقلُ صراحةً نحو `thk-amithoefer`."

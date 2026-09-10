@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "dis-major-neurocognitive", title: "اضطراب معرفي عصبي رئيسي (الخرف)", type: "اضطراب/حالة إكلينيكية"
-- id: "syn-capgras", title: "متلازمة كابغرا", type: "متلازمة"
+- id: "syn-capgras", title: "متلازمة كابغرا (وهم استبدال المقربين ببدلاء)", type: "متلازمة"
 - id: "stu-fantz-visual-preference", title: "تجارب روبرت فانتز للتفضيل البصري وإدراك الوجوه لدى الرضع (1961)", type: "دراسة وبحث"
 - id: "con-the-look-of-the-other-sartre", title: "نظرة الآخر وتشييء الوعي (The Look of the Other)", type: "مفهوم"
 gaps:

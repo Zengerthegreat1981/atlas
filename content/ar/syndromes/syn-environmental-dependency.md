@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "dis-major-neurocognitive", title: "اضطراب معرفي عصبي رئيسي (الخرف)", type: "اضطراب/حالة إكلينيكية"
-- id: "syn-utilization-behavior", title: "متلازمة سلوك الاستخدام والتقليد", type: "متلازمة"
+- id: "syn-utilization-behavior", title: "متلازمة سلوك الاستخدام والتقليد الجبهي", type: "متلازمة"
 - id: "con-autonomy-kantian", title: "الاستقلالية (Autonomy) في الكانطية الأخلاقية", type: "مفهوم"
 gaps:
   - "أبحاث فرانسوا ليرميت (François Lhermitte 1983) في مستشفى السالبتريير بباريس وتلف القشرة الجبهية الحجاجية."

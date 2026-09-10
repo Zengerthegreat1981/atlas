@@ -14,13 +14,13 @@ language: "اليونانية، اللاتينية"
 active_start: -265
 active_end: -80
 edges:
-- rel: "belongs_to", target: "sch-academy-platonic", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-academy-platonic", target_type: "مدرسة"
 - rel: "evolved_into", target: "sch-eclecticism", target_type: "مدرسة"
 related:
-- id: "sch-pyrrhonism", title: "الشك البيروني", type: "مدرسة"
-- id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية", type: "مدرسة"
-- id: "sch-megarian", title: "المدرسة الميغارية", type: "مدرسة"
-- id: "sch-sophistry", title: "السفسطائية", type: "مدرسة"
+- id: "sch-pyrrhonism", title: "الشك البيروني (Pyrrhonian Skepticism)", type: "مدرسة"
+- id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية (القديمة/الوسطى/الجديدة الشكية)", type: "مدرسة"
+- id: "sch-megarian", title: "المدرسة الميغارية (Megarian School)", type: "مدرسة"
+- id: "sch-sophistry", title: "السفسطائية (Sophistry)", type: "مدرسة"
 gaps:
   - "كتب الشكّاك الأكاديميين (خاصة كارنئادس) فُقدت بالكامل — وصلتنا شذرات من خلال شيشرون ونعمانيديس وPlutarch."
   - "مصادرنا الرئيسية معادية: شيشرون كان يكره كارنئادس لوصفه 'مُشوّش' لأخلاق الرومان."

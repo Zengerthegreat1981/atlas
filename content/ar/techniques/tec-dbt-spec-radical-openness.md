@@ -18,7 +18,7 @@ related:
 - id: "tec-ro-dbt", title: "العلاج الجدلي السلوكي الموجه للضبط المفرط (RO-DBT)", type: "تقنية/تدخل علاجي"
 - id: "thk-tlynch", title: "توماس لينش", type: "مفكر"
 - id: "con-overcontrol", title: "الضبط المفرط (Overcontrol)", type: "مفهوم"
-- id: "tec-dbt-dt-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-dt-radical-acceptance", title: "التقبل الجذري (DBT)", type: "تقنية/تدخل علاجي"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 gaps:
   - "نتائج تجربة RefraMED العشوائية المضبوطة (Lynch وزملاؤه، 2020، British Journal of Psychiatry) على RO-DBT في الاكتئاب المزمن لم تُراجع من المصدر الأولي بعد."

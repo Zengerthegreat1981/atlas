@@ -2,7 +2,7 @@
 slug: "exp-mandela-robben-island-quarry"
 id: "EXP-0104"
 type: "خبرة معيشة"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "سنوات نيلسون مانديلا في سجن جزيرة روبن وتحويل المحنة لمدرسة"
 en: "Nelson Mandela on Robben Island (1964-1982): The Lime Quarry and the Mastery of Bitterness"
@@ -16,6 +16,7 @@ related:
 - id: "thk-mandela", title: "نيلسون مانديلا", type: "مفكر"
 gaps:
   - "النص يعتمد على الترجمة العربية لسيرة (المسيرة الطويلة نحو الحرية)؛ يلزم مراجعة اقتباساتها المباشرة على الطبعة الإنجليزية الأصلية (Little, Brown, 1994) لضبط الصياغة الحرفية."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-social-psychology` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # سنوات نيلسون مانديلا في سجن جزيرة روبن وتحويل المحنة لمدرسة

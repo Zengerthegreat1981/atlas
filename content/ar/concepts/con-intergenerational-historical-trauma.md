@@ -2,7 +2,7 @@
 slug: "con-intergenerational-historical-trauma"
 id: "CON-1245"
 type: "مفهوم"
-part: "psychology"
+part: "philosophy"
 level: "متوسط"
 title: "الصدمة التاريخية متعددة الأجيال لدى الشعوب الأصلية"
 en: "Intergenerational Historical Trauma in Indigenous Communities"
@@ -18,6 +18,7 @@ related:
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-indigenous-psychology` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # الصدمة التاريخية متعددة الأجيال لدى الشعوب الأصلية

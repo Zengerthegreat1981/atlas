@@ -16,8 +16,8 @@ related:
 - id: "thk-adorno", title: "ثيودور أدورنو", type: "مفكر"
 - id: "thk-marcuse", title: "هربرت ماركوزه", type: "مفكر"
 - id: "sch-frankfurt-school", title: "النظرية النقدية / مدرسة فرانكفورت (Frankfurter Schule)", type: "مدرسة"
-- id: "wrk-dialectic-of-enlightenment-adorno-horkheimer", title: "جدل التنوير لأدورنو وهوركهايمر", type: "عمل"
-- id: "wrk-one-dimensional-man-marcuse", title: "الإنسان ذو البعد الواحد لهربرت ماركوزه", type: "عمل"
+- id: "wrk-dialectic-of-enlightenment-adorno-horkheimer", title: "جدل التنوير لأدورنو وهوركهايمر", type: "عمل / كتاب"
+- id: "wrk-one-dimensional-man-marcuse", title: "الإنسان ذو البعد الواحد لهربرت ماركوزه", type: "عمل / كتاب"
 gaps:
   - "التحليل الإبستمولوجي واللغوي الدقيق لتطور المفهوم عبر التاريخ."
 ---

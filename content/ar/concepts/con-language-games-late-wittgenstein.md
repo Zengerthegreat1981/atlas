@@ -14,9 +14,9 @@ edges:
 related:
 - id: "sch-ordinary-language", title: "فلسفة اللغة العادية", type: "مدرسة"
 - id: "thk-lwittgenstein", title: "لودفيغ فيتغنشتاين", type: "مفكر"
-- id: "wrk-philosophical-investigations-wittgenstein", title: "بحوث فلسفية للودفيغ فيتغنشتاين", type: "عمل"
-- id: "trm-sprachspiel-language-game-wittgenstein", title: "ألعاب اللغة (Sprachspiel): المعنى في سياق الاستخدام الحي", type: "مصطلح"
-- id: "trm-lebensform-form-of-life-wittgenstein", title: "شكل الحياة (Lebensform): الإطار الثقافي الحاكم للغة", type: "مصطلح"
+- id: "wrk-philosophical-investigations-wittgenstein", title: "بحوث فلسفية للودفيغ فيتغنشتاين", type: "عمل / كتاب"
+- id: "trm-sprachspiel-language-game-wittgenstein", title: "ألعاب اللغة (Sprachspiel): المعنى في سياق الاستخدام الحي", type: "مصطلح لغوي متنازع عليه"
+- id: "trm-lebensform-form-of-life-wittgenstein", title: "شكل الحياة (Lebensform): الإطار الثقافي الحاكم للغة", type: "مصطلح لغوي متنازع عليه"
 - id: "con-family-resemblance-wittgenstein", title: "شبه العائلة والمفاهيم المفتوحة (Family Resemblance)", type: "مفهوم"
 - id: "con-private-language-argument", title: "استحالة اللغة الخاصة الباطنية (Private Language Argument)", type: "مفهوم"
 gaps:

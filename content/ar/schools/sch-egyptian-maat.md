@@ -17,7 +17,7 @@ cultural_origin: "african"
 edges:
 related:
 - id: "sch-mesopotamian-wisdom", title: "تقليد الحكمة الرافدية", type: "مدرسة"
-- id: "thk-amenemope", title: "أمِنْمُوپ (آمنمحات)", type: "مفكر"
+- id: "thk-amenemope", title: "أمِنْمُوپ", type: "مفكر"
 - id: "con-isfet", title: "إسفت (الفوضى / اللا-تناغم)", type: "مفهوم"
 - id: "wrk-instructions-ptahhotep", title: "تعاليم بتاح حتب", type: "عمل / كتاب"
 gaps:

@@ -18,7 +18,7 @@ edges:
 related:
 - id: "tec-poetry-therapy", title: "العلاج بالشعر والتعبير الأدبي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الإرخاء العضلي التدريجي", type: "تقنية/تدخل علاجي"
-- id: "dis-illness-anxiety", title: "قلق المرض", type: "اضطراب"
+- id: "dis-illness-anxiety", title: "قلق المرض", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "المراحل النفسية الثلاث للبيبليوثيرابيا: التماهي (Identification)، التطهير الوجداني (Catharsis)، والاستبصار (Insight)."
   - "التمييز بين البيبليوثيرابيا التنموية الإرشادية والبيبليوثيرابيا الإكلينيكية العلاجية."

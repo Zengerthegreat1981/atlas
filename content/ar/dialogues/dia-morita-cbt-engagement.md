@@ -10,7 +10,7 @@ part: "psychology"
 active_start: "2016"
 active_end: "2016"
 edges:
-- rel: "belongs_to", target: "tec-morita-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-morita-therapy", target_type: "تقنية/تدخل علاجي"
 - rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "thk-smorita", title: "شوما موريتا", type: "مفكر"

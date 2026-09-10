@@ -9,7 +9,7 @@ crumb: "التحليل النفسي ← المفاهيم ← نظرية الصر
 dates: "1966-اليوم"
 language: "الإنجليزية"
 part: "psychology"
-active_start: null
+active_start: 1966
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
@@ -21,6 +21,7 @@ related:
 - id: "thk-afreud", title: "أنا فرويد", type: "مفكر"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («1966-اليوم») فاستُخرجت: 1966."
 ---
 
 # نظرية الصراع الحديث (Modern Conflict Theory)

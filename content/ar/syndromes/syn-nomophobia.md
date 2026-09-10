@@ -12,7 +12,7 @@ active_end: "مستمر"
 language: "متعدد اللغات"
 edges: []
 related:
-- id: "syn-fomo", title: "متلازمة الخوف من فوات الشيء", type: "متلازمة"
+- id: "syn-fomo", title: "متلازمة الخوف من فوات الشيء (FOMO)", type: "متلازمة"
 - id: "dis-specific-phobia", title: "الرهاب المحدد", type: "اضطراب/حالة إكلينيكية"
 - id: "con-anxiety", title: "القلق", type: "مفهوم"
 gaps:

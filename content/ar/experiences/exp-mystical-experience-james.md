@@ -16,7 +16,7 @@ related:
 - id: "exp-numinous-otto", title: "التجربة العددية (Numinous) عند رودولف أوتو: المَهيب المُتَعالي", type: "خبرة معيشة"
 - id: "exp-conversion-experience", title: "التجربة التَّحَوُّلية (Conversion Experience): تَحوُّل داخلي مفاجئ", type: "خبرة معيشة"
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
-- id: "wrk-varieties-of-religious-experience-james", title: "تنوعات الخبرة الدينية لويليام جيمس", type: "عمل"
+- id: "wrk-varieties-of-religious-experience-james", title: "تنوعات الخبرة الدينية لويليام جيمس", type: "عمل / كتاب"
 gaps:
   - "لا يوجد مدخل مستقل لوالتر ستايس (Walter Stace) في الأطلس بعد؛ تصنيفه Introvertive/Extrovertive (Mysticism and Philosophy، 1960) مذكور هنا استطراداً فقط."
   - "محاضرات جيفورد (Gifford Lectures) التي أُلقيت فيها مادة الكتاب بجامعة إدنبرة بين 1901-1902 تحتاج توثيقاً منفصلاً كحدث."

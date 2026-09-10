@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-phil-science", target_type: "مدرسة"
 related:
-- id: "thk-karl-popper", title: "كارل بوبر", type: "مفكر"
+- id: "thk-karl-popper", title: "سير كارل بوبر", type: "مفكر"
 - id: "wrk-popper-open-society", title: "المجتمع المفتوح وأعداؤه", type: "عمل / كتاب"
 - id: "thk-marcuse", title: "هربرت ماركوزه", type: "مفكر"
 - id: "thk-rawls", title: "جون رولز", type: "مفكر"

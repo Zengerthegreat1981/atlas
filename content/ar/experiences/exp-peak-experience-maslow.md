@@ -19,7 +19,7 @@ related:
 - id: "exp-flow-state-csikszentmihalyi", title: "تجربة الفيض (Flow) عند تشيكزينتميهايلي: الاندماج الكامل في النشاط", type: "خبرة معيشة"
 - id: "exp-mystical-experience-james", title: "التجربة الصوفية عند وليم جيمس: خصائصها الأربع", type: "خبرة معيشة"
 - id: "exp-abraham-maslow-oceanic-heart-attack", title: "نوبة ماسلو القلبية واكتشافه للخبرات الذروية بعد النجاة", type: "خبرة معيشة"
-- id: "wrk-maslow-motivation-and-personality", title: "كتاب الدافعية والشخصية لأبراهام ماسلو (1954)", type: "عمل"
+- id: "wrk-maslow-motivation-and-personality", title: "كتاب الدافعية والشخصية لأبراهام ماسلو (1954)", type: "عمل / كتاب"
 gaps:
 - "التمييز بين تجربة الذروة (Peak Experience) وتجربة الهضبة (Plateau Experience) التي أضافها ماسلو لاحقاً في كتابه Farther Reaches of Human Nature (1971) يحتاج ملفاً منفصلاً."
 - "مقارنة تجربة الذروة بمفهومي الساتوري الزِّني والموكشا الهندوسي تحتاج مصادر مقارنة أولية، لا تُذكر هنا لغياب توثيق كافٍ."

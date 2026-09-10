@@ -17,9 +17,9 @@ edges:
 - rel: "evolved_from", target: "sch-middle-platonism", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-neoplatonism", target_type: "مدرسة"
 related:
-- id: "sch-middle-platonism", title: "الأفلاطونية الوسطى", type: "مدرسة"
+- id: "sch-middle-platonism", title: "الأفلاطونية الوسطى (Middle Platonism)", type: "مدرسة"
 - id: "sch-victorines", title: "الفيكتورية", type: "مدرسة"
-- id: "sch-scholasticism", title: "المدرسية (السكولاستية)", type: "مدرسة"
+- id: "sch-scholasticism", title: "المدرسية (السكولاستية) — كمظلة", type: "مدرسة"
 - id: "thk-bernardo-chartres", title: "برنارد من شارتر", type: "مفكر"
 gaps:
   - "نصوص تييري من شارتر وبرنارد من شارتر باللاتينية تحتاج مراجعة من المصدر الأولي."

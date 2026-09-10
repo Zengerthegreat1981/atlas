@@ -16,10 +16,10 @@ edges:
 - rel: "created_by", target: "thk-mlinehan", target_type: "مفكر"
 related:
 - id: "tec-dbt-dt-reality-acceptance", title: "تقبل الواقع الكامل", type: "تقنية/تدخل علاجي"
-- id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري", type: "تقنية/تدخل علاجي"
+- id: "tec-act-acc-radical-acceptance", title: "التقبل الجذري (ACT)", type: "تقنية/تدخل علاجي"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
-- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب"
+- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "لا توجد دراسة منفصلة داخل الأطلس تختبر هذه المهارة تحديداً بمعزل عن حزمة DBT الكاملة؛ تجارب لينهان المنشورة (مثل تجربة 1991 المقارِنة بالعلاج المعتاد) قيّمت البرنامج ككل لا هذا التمرين وحده."
   - "اقتباس منشور موثّق من مارشا لينهان يخص هذه المهارة تحديداً: غير متاح."

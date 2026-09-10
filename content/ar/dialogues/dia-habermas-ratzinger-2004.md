@@ -11,7 +11,7 @@ active_start: 2004
 active_end: 2004
 related:
 - id: "thk-habermas", title: "يورغن هابرماس", type: "مفكر"
-- id: "sch-hermeneutics", title: "الهرمنيوطيقا الفلسفية", type: "مدرسة"
+- id: "sch-hermeneutics", title: "الهرمنيوطيقا الفلسفية (Philosophische Hermeneutik)", type: "مدرسة"
 gaps:
   - "لا يوجد ملف مفكر مخصص للكاردينال يوزف راتسينغر (البابا بندكت السادس عشر) في الأطلس حالياً؛ لذا تعذّر ربط `related` بصفحته."
   - "نص المداخلتين الكامل بالألمانية (منشور في *Dialektik der Säkularisierung*) لم يُراجع سطراً بسطر هنا؛ الاعتماد على الملخصات الثانوية الموثقة لموضوعي المداخلتين."

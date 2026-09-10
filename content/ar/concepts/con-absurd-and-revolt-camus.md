@@ -14,8 +14,8 @@ edges:
 related:
 - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
 - id: "sch-absurdism", title: "العبثية (Absurdism / Le Mythe de Sisyphe)", type: "مدرسة"
-- id: "wrk-myth-sisyphus", title: "أسطورة سيزيف (Le Mythe de Sisyphe)", type: "عمل"
-- id: "wrk-the-rebel-camus", title: "الإنسان المتمرد لألبير كامو (L'Homme révolté)", type: "عمل"
+- id: "wrk-myth-sisyphus", title: "أسطورة سيزيف (Le Mythe de Sisyphe)", type: "عمل / كتاب"
+- id: "wrk-the-rebel-camus", title: "الإنسان المتمرد لألبير كامو (L'Homme révolté)", type: "عمل / كتاب"
 gaps:
   - "التحليل الإبستمولوجي واللغوي الدقيق لتطور المفهوم عبر التاريخ."
 ---

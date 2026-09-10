@@ -24,8 +24,8 @@ related:
 - id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي (ABA)", type: "تيار"
 - id: "br-social-learning-theory", title: "نظرية التعلم الاجتماعي والمعرفي", type: "تيار"
 - id: "con-modeling", title: "النمذجة (التعلم بالملاحظة)", type: "مفهوم"
-- id: "stu-bandura-bobo-doll", title: "تجارب باندورا الأصلية لدمية بوبو والعدوان الملاحظ", type: "دراسة"
-- id: "stu-bandura-vicarious-reinforcement", title: "دراسات باندورا حول التعزيز غير المباشر وتثبيط السلوك بالملاحظة", type: "دراسة"
+- id: "stu-bandura-bobo-doll", title: "تجارب باندورا الأصلية لدمية بوبو والعدوان الملاحظ", type: "دراسة وبحث"
+- id: "stu-bandura-vicarious-reinforcement", title: "دراسات باندورا حول التعزيز غير المباشر وتثبيط السلوك بالملاحظة", type: "دراسة وبحث"
 - id: "wrk-skinner-behavior-organisms", title: "سلوك الكائن الحي (The Behavior of Organisms)", type: "عمل / كتاب"
 - id: "thk-jwolpe", title: "جوزف وُلبّي", type: "مفكر"
 gaps:

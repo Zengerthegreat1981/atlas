@@ -12,7 +12,7 @@ active_end: "مستمر"
 language: "متعدد اللغات"
 edges: []
 related:
-- id: "syn-wernicke-aphasia", title: "متلازمة حبسة فيرنيكه", type: "متلازمة"
+- id: "syn-wernicke-aphasia", title: "متلازمة حبسة فيرنيكه الاستقبالية (عمه فهم الكلام والتلفيق اللفظي)", type: "متلازمة"
 - id: "con-language-of-thought-mentalese", title: "لغة الفكر والمنتاليز لجيري فودور (Language of Thought)", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«اضطرابات التواصل» (dis-communication-disorders) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

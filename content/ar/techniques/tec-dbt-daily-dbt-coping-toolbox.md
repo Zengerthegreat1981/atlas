@@ -18,7 +18,7 @@ related:
 - id: "tec-dbt-daily-environmental-cues-for-skill-use", title: "محفزات بيئية لتذكّر استخدام المهارة", type: "تقنية/تدخل علاجي"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
-- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب"
+- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-relapse-prevention", title: "منع الانتكاس (RP)", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا توجد دراسة منفصلة تقيس فعالية «صندوق الأدوات» كتمرين قائم بذاته خارج تجارب حزمة DBT الكاملة."

@@ -15,7 +15,7 @@ active_start: 1843
 active_end: 1855
 active_source: "lifespan"
 edges:
-- rel: "evolved_into", target: "sch-existentialism", target_type: "مظلة"
+- rel: "evolved_into", target: "sch-existentialism", target_type: "مدرسة"
 - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
 - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"

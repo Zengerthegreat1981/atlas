@@ -9,7 +9,7 @@ crumb: "التحليل النفسي ← المفاهيم ← الخبرة غير
 dates: "1997-اليوم"
 language: "الإنجليزية"
 part: "psychology"
-active_start: null
+active_start: 1997
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
@@ -23,6 +23,7 @@ related:
 gaps:
   - "لم يُراجَع نص الفصل الأول من Unformulated Experience (1997) مباشرة في هذا الملف؛ الوصف يعتمد على ملخصات ثانوية للمفهوم لا على اقتباس محدد الصفحة."
   - "لا يوثّق هذا الملف السنة التي التقى فيها Stern بـ Stephen Mitchell داخل حركة التحليل العلائقي، ولا العمل المشترك الذي جمعهما إن وُجد."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («1997-اليوم») فاستُخرجت: 1997."
 ---
 
 # الخبرة غير المُمثّلة (Unrepresented Experience)

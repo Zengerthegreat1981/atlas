@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "dis-adjustment-disorders", title: "اضطرابات التكيّف", type: "اضطراب/حالة إكلينيكية"
-- id: "dis-persistent-depressive-disorder", title: "اضطراب الاكتئاب المستمر", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-persistent-depressive-disorder", title: "اضطراب الاكتئاب المستمر (عسر المزاج)", type: "اضطراب/حالة إكلينيكية"
 - id: "con-midlife", title: "أزمة منتصف العمر والمرور الأوسط", type: "مفهوم"
 gaps:
   - "أبحاث إليوت جاك (Elliott Jaques 1965) ونظرية إريكسون في التوليدية مقابل الركود (Generativity vs Stagnation)."

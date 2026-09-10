@@ -18,7 +18,7 @@ related:
 - id: "thk-daniel-dennett", title: "دانيال دينيت", type: "مفكر"
 - id: "thk-richard-dawkins", title: "ريتشارد دوكينز", type: "مفكر"
 - id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
-- id: "wrk-blank-slate", title: "الصفحة البيضاء: الإنكار الحديث للطبيعة البشرية", type: "عمل"
+- id: "wrk-blank-slate", title: "الصفحة البيضاء: الإنكار الحديث للطبيعة البشرية", type: "عمل / كتاب"
 - id: "que-nature-vs-nurture", title: "ما الذي يشكّل الإنسان: الفطرة والوراثة أم البيئة والتنشئة؟", type: "سؤال توليدي"
 gaps:
   - "تأثيره في العلوم السياسية (Rationality) موثّق جزئياً في 'Enlightenment Now' (2018)."

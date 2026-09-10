@@ -19,7 +19,7 @@ edges:
 related:
 - id: "sch-renaissance-neoplatonism", title: "الأفلاطونية المحدثة في عصر النهضة", type: "مدرسة"
 - id: "sch-renaissance-naturalism", title: "الطبيعانية النهضوية", type: "مدرسة"
-- id: "sch-enlightenment", title: "فلسفة التنوير", type: "مدرسة"
+- id: "sch-enlightenment", title: "فلسفة التنوير (كمظلة عامة)", type: "مدرسة"
 - id: "thk-erasmus", title: "دسيديريوس إراسموس", type: "مفكر"
 - id: "thk-petrarca", title: "فرانشيسكو بترارك", type: "مفكر"
 - id: "thk-pico", title: "جيوفاني بيكو ديلا ميراندولا", type: "مفكر"

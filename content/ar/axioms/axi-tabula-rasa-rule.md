@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-british-empiricism", target_type: "مدرسة"
 related:
 - id: "thk-locke", title: "جون لوك", type: "مفكر"
-- id: "thk-descartes", title: "ديكارت", type: "مفكر"
+- id: "thk-descartes", title: "رينيه ديكارت", type: "مفكر"
 - id: "dbt-innatism-vs-empiricism", title: "جدل الفطرية المعرفية مقابل التجريبية الحسية", type: "جدل"
 gaps:
   - "لم يُراجَع نص مقالة في الفهم البشري الكامل بالطبعة النقدية؛ الاعتماد هنا على الفصل الأول من الكتاب الثاني تحديداً."

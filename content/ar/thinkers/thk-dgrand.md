@@ -11,9 +11,9 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2003
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
 edges:
-- rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "تيار"
 related:
 - id: "thk-francine-shapiro", title: "فرانسين شابيرو", type: "مفكر"
 - id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
@@ -23,6 +23,7 @@ gaps:
   - "سنة الميلاد الدقيقة لم تُراجع من مصدر أولي (الترويسة تحمل [غير مؤكد])."
   - "لا يوجد اقتباس مباشر موثوق من *Brainspotting: The Discovery and Development* (2013) بترجمة عربية معتمدة."
   - "مصادر السيرة المهنية (site برينزسبوتينغ الرسمي) تصف دكتوراه غراند دون تحديد مانحها بوضوح كافٍ للتوثيق هنا؛ لم يُثبَت اسم المؤسسة من مصدر مستقل."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-sensorimotor-trauma-applications` موسومٌ «philosophy» — فوُحِّد على وسم الأب."
 ---
 
 # ديفيد غراند

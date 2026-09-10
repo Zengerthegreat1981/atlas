@@ -20,7 +20,7 @@ related:
 - id: "thk-cwebster-stratton", title: "كارولين ويبستر-ستراتون", type: "مفكر"
 - id: "thk-czeanah", title: "تشارلز زيناه", type: "مفكر"
 - id: "thk-seyberg", title: "شيلا إيبِرغ", type: "مفكر"
-- id: "dis-adhd", title: "اضطراب نقص الانتباه وفرط الحركة (ADHD)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-adhd", title: "اضطراب نقص الانتباه وفرط الحركة", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "كتاب 'Taking Charge of ADHD' (1995، Guilford) يُعدّ المرجع الكلاسيكي للأهل."
   - "النقد المعرفي لـDSM-5 (خاصةً تضييق تعريف ADHD) في 'Barkley vs. WPRO' يستحق توثيقاً."

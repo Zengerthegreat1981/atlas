@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-heraclitus", title: "هيراقليطس الإفسيسي", type: "مفكر"
 - id: "sch-heraclitean", title: "الهيراقليطية (Heraclitean Thought)", type: "مدرسة"
-- id: "trm-logos-heraclitus-stoic", title: "اللوغوس (Logos): الكلمة والعقل الكلي ونظام الوجود", type: "مصطلح"
+- id: "trm-logos-heraclitus-stoic", title: "اللوغوس (Logos): الكلمة والعقل الكلي ونظام الوجود", type: "مصطلح لغوي متنازع عليه"
 - id: "con-logos-philo", title: "اللوغوس (الكلمة الإلهية) عند فيلو", type: "مفهوم"
 gaps:
   - "انتقال اللوغوس من هيراقليطس إلى الفلسفة الرواقية واللاهوت الفيلوني والمسيحي."

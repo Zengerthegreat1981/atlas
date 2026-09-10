@@ -17,7 +17,7 @@ replication_status: "contested"
 edges:
   []
 related:
-- id: "con-flow-state-popular", title: "حالة التدفق الذهني والاستغراق", type: "مفهوم"
+- id: "con-flow-state-popular", title: "حالة التدفق الذهني والاستغراق (Flow State)", type: "مفهوم"
 - id: "thk-kkoffka", title: "كورت كوفكا", type: "مفكر"
 gaps:
   - "أبحاث كوهلر في جزيرة تينيريف (1913–1917) ودراسة الشمبانزي الشهير 'سلطان'."

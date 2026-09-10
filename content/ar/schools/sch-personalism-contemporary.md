@@ -16,7 +16,7 @@ cultural_origin: "european"
 edges:
 - rel: "evolved_from", target: "sch-personalism", target_type: "مدرسة"
 related:
-- id: "sch-existentialism-religious", title: "الوجودية الدينية/المسيحية", type: "مدرسة"
+- id: "sch-existentialism-religious", title: "الوجودية الدينية/المسيحية (Christian Existentialism)", type: "مدرسة"
 - id: "sch-personalism", title: "الفلسفة الشخصية (الشخصانية المبكرة)", type: "مدرسة"
 gaps:
   - "**فُرِّغ حقلُ الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existentialism` ختماً قالبياً، ولا صلةَ لهذا الملفّ بالوجودية — مجالُه «الفلسفة / الشخصانيةُ تأثّرت بالوجودية ولم تكن فرعاً منها». و**لا مدرسةَ لهذا المجال في الأطلس** تُنسب إليه، فبقي الحقلُ فارغاً على اصطلاح المستودع؛ ولم يُوضَع أبٌ تقريبيٌّ لأنّ أباً خاطئاً أسوأُ من غياب أب."

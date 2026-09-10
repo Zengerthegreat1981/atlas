@@ -17,9 +17,9 @@ edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "thk-bwilson", title: "بيل ويلسون (مؤسس AA)", type: "مفكر"
-- id: "tec-contingency-management", title: "إدارة الطوارئ والتعزيز السلوكي", type: "تقنية"
-- id: "tec-cra", title: "نهج التعزيز المجتمعي (CRA)", type: "تقنية"
-- id: "dis-stimulant-use", title: "اضطراب استخدام المنشطات", type: "اضطراب"
+- id: "tec-contingency-management", title: "إدارة الطوارئ والتعزيز السلوكي", type: "تقنية/تدخل علاجي"
+- id: "tec-cra", title: "نهج التعزيز المجتمعي (CRA)", type: "تقنية/تدخل علاجي"
+- id: "dis-stimulant-use", title: "اضطراب استخدام المنشطات", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "الاسم الدقيق للفريق المؤسِّس في UCLA/Matrix Institute غير موثَّق بمصدر أولي متاح — الملف السابق نسب النموذج لكاثلين كاري (thk-jkadden) وهو خطأ نسبة على الأرجح (كاثلين كاري باحثة CBT للإدمان في جامعة ييل، لا مؤسِّسة Matrix Institute في لوس أنجلوس)؛ الاسم الصحيح المرشَّح (ريتشارد راوسون) غير موجود كسلَج في الأطلس → يحتاج طلب سلَج جديد."
   - "المرجع الأساسي: 'تعليم نموذج المصفوفة للمعالجين' (Matrix Model Therapist's Manual), NIDA 2006."

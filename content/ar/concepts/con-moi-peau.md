@@ -9,7 +9,7 @@ crumb: "التحليل النفسي ← المفاهيم ← الأنا-جلد"
 dates: "1985-اليوم"
 language: "الفرنسية"
 part: "psychology"
-active_start: null
+active_start: 1985
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
@@ -21,6 +21,7 @@ related:
 - id: "con-boundaries-psychological", title: "الحدود النفسية والعاطفية في العلاقات", type: "مفهوم"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («1985-اليوم») فاستُخرجت: 1985."
 ---
 
 # الأنا-جلد (Moi-Peau)

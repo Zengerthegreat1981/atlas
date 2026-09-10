@@ -2,7 +2,7 @@
 slug: "thk-mandela"
 id: "THK-2843"
 type: "مفكر"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "نيلسون مانديلا"
 en: "Nelson Mandela"
@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-african-psychology", target_type: "مدرسة"
 related:
 - id: "exp-nelson-mandela-inauguration-forgiveness", title: "لحظة تنصيب مانديلا رئيساً ودعوة سجانه لحضور الحفل", type: "خبرة معيشة"
-- id: "exp-mandela-robben-island-quarry", title: "مانديلا في سجن جزيرة روبن", type: "خبرة معيشة"
+- id: "exp-mandela-robben-island-quarry", title: "سنوات نيلسون مانديلا في سجن جزيرة روبن وتحويل المحنة لمدرسة", type: "خبرة معيشة"
 - id: "ctx-post-apartheid-south-africa-trc", title: "جنوب أفريقيا بعد الأبارتهايد ولجان الحقيقة والمصالحة الوطنية", type: "سياق/تقليد"
 - id: "thk-dtutu", title: "ديزموند توتو", type: "مفكر"
 - id: "thk-biko", title: "ستيف بيكو", type: "مفكر"
@@ -26,6 +26,7 @@ related:
 gaps:
   - "فلسفة الأوبونتو تعود لسنوات قبل مانديلا (الأب كونتواي ناتسوكيل) — يحتاج فصلاً."
   - "تفاصيل علاقته بحزب المؤتمر الوطني الأفريقي ANC في الستينيات موثّقة جزئياً."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-african-psychology` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # نيلسون مانديلا

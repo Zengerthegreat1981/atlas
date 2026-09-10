@@ -15,10 +15,10 @@ active_end: -440
 cultural_origin: "greek"
 edges: []
 related:
-- id: "sch-milesian", title: "المدرسة الميليسية", type: "مدرسة"
-- id: "sch-pythagorean", title: "الفيثاغورية", type: "مدرسة"
-- id: "sch-heraclitean", title: "الهيراقليطية", type: "مدرسة"
-- id: "sch-atomism-greek", title: "الذرية اليونانية", type: "مدرسة"
+- id: "sch-milesian", title: "المدرسة الميليسية (ما قبل سقراط الطبيعية)", type: "مدرسة"
+- id: "sch-pythagorean", title: "الفيثاغورية (Pythagoreanism)", type: "مدرسة"
+- id: "sch-heraclitean", title: "الهيراقليطية (Heraclitean Thought)", type: "مدرسة"
+- id: "sch-atomism-greek", title: "الذرية اليونانية (Greek Atomism)", type: "مدرسة"
 gaps:
   - "لا نعرف الكثير عن بارمنيدس نفسه كشخص؛ معلوماتنا عنه متأخرة وفيها كثير من الحشو الأسطوري."
   - "لا توجد نصوص كاملة لزينون الإيلي أو ميليسوس — وصلتنا شذرات فقط."

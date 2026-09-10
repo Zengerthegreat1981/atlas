@@ -15,10 +15,10 @@ edges:
 related:
 - id: "sch-emdr", title: "إعادة المعالجة عبر حركات العين وتخفيف الأعراض (EMDR)", type: "مدرسة"
 - id: "thk-francine-shapiro", title: "فرانسين شابيرو", type: "مفكر"
-- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "con-aip-model-emdr", title: "نموذج المعالجة التكيفية للمعلومات (AIP) في EMDR", type: "مفهوم"
-- id: "tec-emdr-rdi-resource-installation", title: "تقنية تثبيت وتطوير الموارد الإيجابية (RDI) في EMDR", type: "تقنية"
-- id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الإرخاء العضلي التدريجي", type: "تقنية"
+- id: "tec-emdr-rdi-resource-installation", title: "تقنية تثبيت وتطوير الموارد الإيجابية (RDI) في EMDR", type: "تقنية/تدخل علاجي"
+- id: "tec-cbt-emo-progressive-muscle-relaxation", title: "الإرخاء العضلي التدريجي", type: "تقنية/تدخل علاجي"
 gaps:
   - "الفرق بين Resourcing العام هنا وبروتوكول RDI المنظّم (tec-emdr-rdi-resource-installation) غير مفصّل بدقة."
   - "لا توجد في الأطلس حالياً دراسة مستقلة بعنوان مخصص لفعالية Resourcing بمعزل عن EMDR الكامل — الاكتفاء بالإشارة إلى Korn & Leeds (2002) في المتن."

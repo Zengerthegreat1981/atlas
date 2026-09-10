@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1966
 active_end: 2010
-part: "philosophy"
+part: "psychology"
 crumb: "حركة الإمكانات البشرية ← إيسالن والإتقان ← جورج ليونارد"
 edges:
 - rel: "belongs_to", target: "tec-encounter-groups", target_type: "تقنية/تدخل علاجي"
@@ -18,6 +18,7 @@ related:
 - id: "thk-wschutz", title: "ويليام شوتز", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Education and Ecstasy* (1968) بترجمة عربية معتمدة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-encounter-groups` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # جورج ليونارد

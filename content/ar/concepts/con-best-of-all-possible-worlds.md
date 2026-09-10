@@ -12,9 +12,9 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-leibnizianism", target_type: "مدرسة"
 related:
-- id: "thk-leibniz", title: "غوتفريد فيلهلم لايبنتس", type: "مفكر"
-- id: "sch-leibnizianism", title: "اللايبنتسية (Leibnizianism)", type: "مدرسة"
-- id: "wrk-theodicy-leibniz", title: "الثيوديسيا لغوتفريد لايبنتس", type: "عمل"
+- id: "thk-leibniz", title: "غوتفريد فيلهلم لايبنتز", type: "مفكر"
+- id: "sch-leibnizianism", title: "اللايبنتزية", type: "مدرسة"
+- id: "wrk-theodicy-leibniz", title: "الثيوديسيا للايبنتز في عدالة الله وحرية الإنسان", type: "عمل / كتاب"
 - id: "thk-voltaire", title: "فولتير", type: "مفكر"
 gaps:
   - "**كُتب متنه 2026-09-07.** والفجوةُ المسجَّلة كانت تطلب «شرحَ البرهان الفعلي في الثيوديسيا (1710) ونقدَ فولتير الساخر» — وقد كُتبا."

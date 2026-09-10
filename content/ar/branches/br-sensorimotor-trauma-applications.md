@@ -2,7 +2,7 @@
 slug: "br-sensorimotor-trauma-applications"
 id: "BRN-0334"
 type: "تيار"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "العلاج السنسوريموتور: تطبيقات الصدمة المتقدمة"
 en: "Sensorimotor Psychotherapy: Advanced Trauma Applications"
@@ -14,11 +14,12 @@ edges:
 related:
 - id: "thk-pogden", title: "بات أوغدن", type: "مفكر"
 - id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
-- id: "con-sensorimotor-three-way-model", title: "النموذج الثلاثي للسنسوريموتور", type: "مفهوم"
-- id: "tec-sensorimotor-pendulation", title: "البندلة", type: "تقنية/تدخل علاجي"
+- id: "con-sensorimotor-three-way-model", title: "النموذج الثلاثي (الإدراك - الانفعال - الحس-حركة)", type: "مفهوم"
+- id: "tec-sensorimotor-pendulation", title: "البندلة (Pendulation) في العلاج السنسوريموتور", type: "تقنية/تدخل علاجي"
 gaps:
   - "الفرق بين Sensorimotor Therapy و Somatic Experiencing في الممارسة موثّق لكن غير مفصّل."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-sensorimotor-psychotherapy` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 # العلاج السنسوريموتور: تطبيقات الصدمة المتقدمة
 

@@ -13,7 +13,7 @@ country: "أمريكا الشمالية/أوروبا"
 language: "إنجليزية"
 evidence_level: "متوسط"
 edges:
-- rel: "belongs_to", target: "br-attachment-theory", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-attachment-theory", target_type: "تيار"
 related:
 - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
 - id: "thk-ainsworth", title: "ماري إينسورث", type: "مفكر"

@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1970
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-gestalt-therapy", target_type: "مدرسة"
 related:
@@ -21,6 +21,7 @@ related:
 gaps:
   - "سنة الميلاد الدقيقة غير مذكورة في المصادر المتاحة."
   - "تفاصيل مساره التدريبي المبكر تحت إشراف فريتز بيرلز في معهد إيسالن غير موثّقة بالسنة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-gestalt-therapy` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # روبرت رِسنيك

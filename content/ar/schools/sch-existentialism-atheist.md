@@ -16,9 +16,9 @@ active_end: 1980
 edges:
 - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
 related:
-- id: "sch-existentialism", title: "الوجودية", type: "مدرسة"
-- id: "sch-existentialism-religious", title: "الوجودية الدينية/المسيحية", type: "مدرسة"
-- id: "sch-absurdism", title: "العبثية", type: "مدرسة"
+- id: "sch-existentialism", title: "الوجودية (Existentialism)", type: "مدرسة"
+- id: "sch-existentialism-religious", title: "الوجودية الدينية/المسيحية (Christian Existentialism)", type: "مدرسة"
+- id: "sch-absurdism", title: "العبثية (Absurdism / Le Mythe de Sisyphe)", type: "مدرسة"
 - id: "exp-camus-algerian-poverty-sun", title: "طفولة كامو في فقر الجزائر وشمس البحر المتوسط ومنبع فلسفة التمرد", type: "خبرة معيشة"
 - id: "exp-nietzsche-sils-maria-eternal-return", title: "إلهام نيتشه بالعود الأبدي بجوار صخرة سيلس ماريا (1881)", type: "خبرة معيشة"
 - id: "trm-mauvaise-foi-bad-faith-sartre", title: "سوء النية (Mauvaise foi): خداع الذات والهروب من مسؤولية الحرية", type: "مصطلح لغوي متنازع عليه"

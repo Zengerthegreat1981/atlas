@@ -16,9 +16,9 @@ active_end: -320
 edges:
 - rel: "superseded_by", target: "sch-epicureanism", target_type: "مدرسة"
 related:
-- id: "sch-epicureanism", title: "الأبيقورية", type: "مدرسة"
-- id: "sch-sophistry", title: "السفسطائية", type: "مدرسة"
-- id: "sch-academic-skepticism", title: "الشك الأكاديمي", type: "مدرسة"
+- id: "sch-epicureanism", title: "الأبيقورية (Epicureanism)", type: "مدرسة"
+- id: "sch-sophistry", title: "السفسطائية (Sophistry)", type: "مدرسة"
+- id: "sch-academic-skepticism", title: "الشك الأكاديمي (Academic Skepticism)", type: "مدرسة"
 - id: "thk-aristippus", title: "أرستبوس القوريني", type: "مفكر"
 gaps:
   - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."

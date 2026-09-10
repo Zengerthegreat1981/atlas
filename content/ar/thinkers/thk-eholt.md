@@ -15,7 +15,7 @@ active_end: 1936
 edges:
 - rel: "belongs_to", target: "sch-new-realism", target_type: "مدرسة"
 related:
-- id: "sch-new-realism", title: "الواقعية الجديدة", type: "مدرسة"
+- id: "sch-new-realism", title: "الواقعية الجديدة (البريطانية-الأمريكية المبكرة)", type: "مدرسة"
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 - id: "thk-ectolman", title: "إدوارد تولمان", type: "مفكر"
 gaps:

@@ -18,14 +18,14 @@ edges:
 evidence_level: "probably-efficacious"
 related:
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
-- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب"
-- id: "tec-cbt-int-perspective-taking", title: "تبنّي منظور الآخر", type: "تقنية/تدخل علاجي"
-- id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات", type: "تقنية/تدخل علاجي"
+- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"
+- id: "tec-cbt-int-perspective-taking", title: "تبنّي منظور الآخر (CBT)", type: "تقنية/تدخل علاجي"
+- id: "tec-act-acc-self-compassion-exercises", title: "تمارين الرأفة بالذات (ACT)", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-boundary-setting-techniques", title: "تقنيات وضع الحدود", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-ie-levels-of-validation", title: "مستويات التصديق الستة", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-er-understanding-the-function-of-emotions", title: "وظائف المشاعر والانفعالات", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
-- id: "tec-dbt-er-self-validation", title: "التصديق الذاتي", type: "تقنية/تدخل علاجي"
+- id: "tec-dbt-er-self-validation", title: "التصديق الذاتي (DBT)", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا اقتباس مباشر من كتاب لينهان (1993) يخصّ عبارة 'self-validation' بنصّها الحرفي — الوصف هنا مبني على بنية مهارات DBT لا على نص منقول."
   - "لا توجد دراسة تفكيكية (dismantling study) تعزل أثر التصديق الذاتي وحده عن باقي حزمة مهارات التنظيم الانفعالي في DBT، فتقييم فعاليته مستقل غير متاح."

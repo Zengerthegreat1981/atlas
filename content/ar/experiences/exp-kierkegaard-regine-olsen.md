@@ -13,8 +13,8 @@ edges:
 - rel: "relates_to", target: "sch-kierkegaardian", target_type: "مدرسة"
 related:
 - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
-- id: "wrk-fear-and-trembling-kierkegaard", title: "خوف ورعدة لسورين كيركغارد", type: "عمل"
-- id: "wrk-either-or-kierkegaard", title: "إما / أو لسورين كيركغارد (Enten-Eller)", type: "عمل"
+- id: "wrk-fear-and-trembling-kierkegaard", title: "خوف ورعدة لسورين كيركغارد", type: "عمل / كتاب"
+- id: "wrk-either-or-kierkegaard", title: "إما / أو لسورين كيركغارد (Enten-Eller)", type: "عمل / كتاب"
 gaps:
   - "النص الكامل لرسالة الفسخ المرفقة بالخاتم بتاريخ 11 أغسطس 1841، ومدى تطابقه حرفياً مع المقطع الذي أورده كيركغارد لاحقاً في Stages on Life's Way (1845)، يحتاجان تدقيقاً مباشراً من الطبعة النقدية الدنماركية (Søren Kierkegaards Skrifter)."
 ---

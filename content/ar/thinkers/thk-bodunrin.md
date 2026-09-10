@@ -17,8 +17,8 @@ edges:
 related:
 - id: "thk-hountondji", title: "بولين هينتونجي", type: "مفكر"
 - id: "thk-wiredu", title: "كواي وايردو", type: "مفكر"
-- id: "thk-alexis-kagame", title: "ألكسيس كاغامي", type: "مفكر"
-- id: "sch-african-professional-philosophy", title: "الفلسفة الأفريقية المهنية", type: "مدرسة"
+- id: "thk-alexis-kagame", title: "ألكسيس كاغامي (مؤسِّس فلسفة الحكيم الأفريقي)", type: "مفكر"
+- id: "sch-african-professional-philosophy", title: "الفلسفة الأفريقية المهنية/الأكاديمية", type: "مدرسة"
 gaps:
   - "سنة الوفاة: أقرب دليل هو وصفه بـ«the late» في مقالة ألبرت موزلي سنة 2001، فالوفاة قبل 2001 دون تاريخ محدّد."
   - "تفاصيل مسيرته الأكاديمية (سنوات بافالو وغرينيل، والدكتوراه من مينيسوتا) تستند إلى سيرة BLERF وحدها ولم يتيسّر تقاطعها مع مصدر ثانٍ."

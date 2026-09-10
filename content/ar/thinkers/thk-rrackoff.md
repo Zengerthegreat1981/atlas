@@ -11,15 +11,16 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1953
 active_end: 2009
-part: "philosophy"
+part: "psychology"
 edges:
-- rel: "belongs_to", target: "br-general-systems-cybernetics", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-general-systems-cybernetics", target_type: "تيار"
 related:
 - id: "thk-lbertalanffy", title: "لودفيغ فون برتالانفي", type: "مفكر"
 - id: "thk-sbeer", title: "ستافورد بير", type: "مفكر"
 - id: "thk-cchurchman", title: "سي. ويست تشرتشمان", type: "مفكر"
 gaps:
   - "الـslug الحالي 'thk-rrackoff' مكتوب بخطأ إملائي (حرف r إضافي) عن 'Russell Ackoff'؛ يحتاج تصحيحاً بشرياً لأن إعادة التسمية الآلية تكسر الروابط الواردة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-general-systems-cybernetics` موسومٌ «psychology» — فوُحِّد على وسم الأب."
 ---
 
 # راسل أكوف

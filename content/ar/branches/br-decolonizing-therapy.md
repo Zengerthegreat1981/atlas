@@ -11,17 +11,17 @@ dates: "من 1995"
 active_start: 1995
 active_end: "مستمر"
 language: "الإنجليزية"
-part: "psychology"
+part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-liberation-psychology", target_type: "مدرسة"
 related:
 - id: "br-liberation-psychology", title: "علم نفس التحرير (مارتين-بارو)", type: "تيار"
-- id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي", type: "تيار"
+- id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي (النسوي والكويري وما بعد الكولونيالي)", type: "تيار"
 - id: "br-sikolohiyang-pilipino", title: "علم النفس الفلبيني الأصيل (إنريكيز)", type: "تيار"
 - id: "br-african-centered-psychology", title: "علم النفس الإفريقي المتمركز (نوبلز وأكبر)", type: "تيار"
-- id: "con-intergenerational-historical-trauma", title: "الصدمة التاريخية بين الأجيال", type: "مفهوم"
-- id: "con-historical-trauma", title: "الصدمة التاريخية", type: "مفهوم"
-- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الكولونيالي لـDSM", type: "نقد خارجي موثَّق"
+- id: "con-intergenerational-historical-trauma", title: "الصدمة التاريخية متعددة الأجيال لدى الشعوب الأصلية", type: "مفهوم"
+- id: "con-historical-trauma", title: "الصدمة التاريخية (Historical Trauma)", type: "مفهوم"
+- id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري لـ DSM: التصنيف كخريطة جيوسياسية للمعاناة المقبولة", type: "نقد خارجي موثَّق"
 - id: "thk-michael-yellow-bird", title: "مايكل يلو بيرد", type: "مفكر"
 gaps:
   - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-humanistic`، ونُقل إلى `sch-liberation-psychology` — نزعُ استعمار العلاج في نسَب علم نفس التحرر لا «الإنساني»."
@@ -30,6 +30,7 @@ gaps:
   - "مفهومُ **الحزن التاريخي غير المحلول** لماريا يلو هورس براف هارت مذكورٌ هنا؛ ولا ملفَّ لها في الأطلس. وأرقامُ دراساتها غيرُ مُدرجة."
   - "أدبياتُ مدارس الإرساليات في كندا والولايات المتحدة وتقريرُ لجنة الحقيقة والمصالحة الكندية (2015) مذكورةٌ بوصفها سياقاً موثَّقاً؛ ولم أُثبت أرقامَه ولا موادَّه."
   - "دعوى **الانتقال البيولوجي** للصدمة عبر الأجيال (الوراثةُ اللاجينية) معروضةٌ هنا بوصفها محلَّ خلافٍ لا نتيجةً مقرَّرة."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-liberation-psychology` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # نزع استعمار العلاج النفسي (دوران ويلو بيرد)

@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-mozi", title: "مو زي (مو دي)", type: "مفكر"
 - id: "sch-mohism", title: "الموهية (Mohism / Mojia)", type: "مدرسة"
-- id: "wrk-mozi-text", title: "كتاب مو زي (مو تزو)", type: "عمل"
+- id: "wrk-mozi-text", title: "كتاب مو زي (مو تزو)", type: "عمل / كتاب"
 - id: "con-ren", title: "الرن (仁) — الإنسانية الرحيمة", type: "مفهوم"
 gaps:
   - "التحليل الإبستمولوجي واللغوي الدقيق لتطور المفهوم عبر التاريخ."

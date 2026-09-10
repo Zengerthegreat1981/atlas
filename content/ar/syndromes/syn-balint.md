@@ -13,7 +13,7 @@ language: "متعدد اللغات"
 edges: []
 related:
 - id: "dis-major-neurocognitive", title: "اضطراب معرفي عصبي رئيسي (الخرف)", type: "اضطراب/حالة إكلينيكية"
-- id: "syn-charles-bonnet", title: "متلازمة تشارلز بونيه", type: "متلازمة"
+- id: "syn-charles-bonnet", title: "متلازمة تشارلز بونيه (الهلاوس البصرية المعقدة لدى فاقدي البصر)", type: "متلازمة"
 - id: "con-embodied-perception-merleau-ponty", title: "الإدراك المتجسد والجسد المعاش (Embodied Perception)", type: "مفهوم"
 gaps:
   - "أبحاث ريزسو بالينت (Rezső Bálint 1909) المجرية وتلف القشرة الجدارية القذالية الثنائية."

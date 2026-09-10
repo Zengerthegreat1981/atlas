@@ -17,12 +17,14 @@ edges:
 related:
 - id: "thk-marisol-montoya", title: "ماريسول مونتويا", type: "مفكر"
 - id: "thk-imartinbaro", title: "إغناثيو مارتن-بارو", type: "مفكر"
-- id: "thk-cora-zanuso", title: "كورا زانوسو", type: "مفكر"
+- id: "thk-cora-zanuso", title: "كورا زانوسو (Cora Zanuso)", type: "مفكر"
 - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
 - id: "wrk-freire-pedagogy-oppressed", title: "تعليم المضطهدين (Pedagogy of the Oppressed)", type: "عمل / كتاب"
 gaps:
   - "إحالة معلَّقة أُزيلت: «أمي كارامب» (thk-ambigueye) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
   - "حُذفت روابط related كانت تشاور على ملفات غير موجودة (con-conscientization، con-dialogical-pedagogy)."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-liberation-psychology` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-liberation-psychology` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # باولو فريري

@@ -19,9 +19,9 @@ related:
 - id: "sch-upanishadic", title: "الفلسفة الأوبانيشادية", type: "مدرسة"
 - id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
 - id: "sch-jainism", title: "الجاينية الفلسفية", type: "مدرسة"
-- id: "sch-ajivika", title: "آجيفيكا", type: "مدرسة"
-- id: "sch-ajnanavada", title: "أجنانا", type: "مدرسة"
-- id: "sch-charvaka", title: "شارفاكا", type: "مدرسة"
+- id: "sch-ajivika", title: "آجيفيكا (القدرية الهندية)", type: "مدرسة"
+- id: "sch-ajnanavada", title: "أجنانا (الشك الشرامني)", type: "مدرسة"
+- id: "sch-charvaka", title: "شارفاكا / لوكاياتا (المادية الهندية)", type: "مدرسة"
 gaps:
   - "النصوص الأصلية للمدارس الشرامنية مفقودة (ما عدا ما نقله البوذية والجاينية) — تحتاج مراجعة من المصدر الأولي المتاح."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

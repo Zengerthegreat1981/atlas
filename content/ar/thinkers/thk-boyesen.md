@@ -9,8 +9,8 @@ crumb: "علم نفس الجسد ← الناس ← Biodynamic ← غيردا ب
 dates: "النرويج / بريطانيا · 1922–2005"
 country: "المملكة المتحدة"
 language: "النرويجية / الإنجليزية / الألمانية"
-part: "psychology"
-active_start: null
+part: "philosophy"
+active_start: 1922
 active_end: 2005
 edges:
 - rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
@@ -21,6 +21,8 @@ related:
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من «بين الجسم والعقل» (Between Body and Mind, 1986) بترجمة عربية معتمدة."
   - "لا يوجد ناشر ولا طبعة محدّدة لأعمالها المذكورة (Between Body and Mind 1986، Freedom from Stress 1982)."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («النرويج / بريطانيا · 1922–2005») فاستُخرجت: 1922."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-somatic-experiencing` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # غيردا بويزن

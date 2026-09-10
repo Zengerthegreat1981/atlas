@@ -15,8 +15,8 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:
-- id: "wrk-art-of-choosing", title: "فن الاختيار", type: "عمل / كتاب"
-- id: "con-paradox-of-choice", title: "مفارقة الاختيار وشلل القرار", type: "مفهوم"
+- id: "wrk-art-of-choosing", title: "فن الاختيار: سيكولوجيا القرارات اليومية والمصيرية", type: "عمل / كتاب"
+- id: "con-paradox-of-choice", title: "مفارقة الاختيار وشلل القرار (Paradox of Choice)", type: "مفهوم"
 - id: "stu-iyengar-lepper-jam-study", title: "تجربة شينا إينغار ومارك ليبر لمربى الاختيار وشلل القرار (2000)", type: "دراسة وبحث"
 gaps:
   - "لا تتوفر ترجمة عربية موثّقة لمقتطف من The Art of Choosing (2010) يصلح للاقتباس المباشر."

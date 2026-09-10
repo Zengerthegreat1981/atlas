@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-ordinary-language", target_type: "مدرسة"
 related:
-- id: "wrk-the-concept-of-mind-ryle", title: "مفهوم العقل لجيلبرت رايل (The Concept of Mind)", type: "عمل"
+- id: "wrk-the-concept-of-mind-ryle", title: "مفهوم العقل لجيلبرت رايل (The Concept of Mind)", type: "عمل / كتاب"
 - id: "sch-ordinary-language", title: "فلسفة اللغة العادية", type: "مدرسة"
 - id: "con-mind-body", title: "مشكلة العقل والجسد", type: "مفهوم"
 - id: "dbt-mind-body-dualism-vs-physicalism", title: "جدل مشكلة العقل والجسد: الثنائية مقابل الفيزيائية والمادية", type: "جدل"

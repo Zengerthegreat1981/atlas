@@ -2,7 +2,7 @@
 slug: "ctx-anti-vietnam-war-counterculture"
 id: "CTX-0047"
 type: "سياق/تقليد"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "الاحتجاجات المناهضة لحرب فيتنام وصعود الثقافة المضادة والهيبيز"
 en: "The Anti-Vietnam War Movement and the 1960s Counterculture: Peace, Psychedelics, and Woodstock"
@@ -12,11 +12,12 @@ active_end: 1975
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-- id: "ctx-paris-may-1968-intellectual", title: "أحداث مايو 1968 في باريس", type: "سياق/تقليد"
-- id: "ctx-esalen-institute-human-potential", title: "معهد إيسالن وميلاد حركة الإمكانات البشرية", type: "سياق/تقليد"
-- id: "evt-esalen-institute-founding-1962", title: "تأسيس معهد إيسالن وانطلاق حركة الإمكانات البشرية في بيغ سور", type: "حدث"
+- id: "ctx-paris-may-1968-intellectual", title: "أحداث مايو 1968 في باريس وثورة ما بعد البنيوية والتفكيك", type: "سياق/تقليد"
+- id: "ctx-esalen-institute-human-potential", title: "معهد إيسالن وميلاد حركة الإمكانات البشرية والنيو-إيدج", type: "سياق/تقليد"
+- id: "evt-esalen-institute-founding-1962", title: "تأسيس معهد إيسالن وانطلاق حركة الإمكانات البشرية في بيغ سور", type: "حدث تاريخي"
 gaps:
   - "أعداد الضحايا والمجندين الأمريكيين في حرب فيتنام (نحو 58,000 قتيل أمريكي و2 مليون فيتنامي) لم تُراجع من مصدر عسكري أرشيفي أولي ضمن هذا المشروع."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-humanistic` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 # الاحتجاجات المناهضة لحرب فيتنام وصعود الثقافة المضادة والهيبيز
 

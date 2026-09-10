@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-daoism-religious", target_type: "مدرسة"
 related:
 - id: "sch-daoism-religious", title: "الداووية الدينية", type: "مدرسة"
-- id: "thk-ge-hong", title: "غي هونغ", type: "مفكر"
+- id: "thk-ge-hong", title: "غي هونغ (باوبو تسو)", type: "مفكر"
 - id: "thk-zhuangzi", title: "تشوانغ تزو", type: "مفكر"
 - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
 - id: "con-wu-wei-non-action", title: "الوو-وي واللا-فعل العفوي في الداووية (Wu Wei)", type: "مفهوم"

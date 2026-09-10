@@ -8,9 +8,9 @@ en: "Intersectional Feminist Psychology"
 crumb: "المفاهيم ← مدارس اجتماعية ← علم النفس النسوي التقاطعي"
 active_start: 1989
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
 edges:
-- rel: "belongs_to", target: "br-intersectional-feminist", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-intersectional-feminist", target_type: "تيار"
 related:
 - id: "con-feminist-psychoanalysis", title: "التحليل النفسي النسوي", type: "مفهوم"
 - id: "con-anti-oppressive-practice", title: "الممارسة المناهضة للقمع", type: "مفهوم"
@@ -22,6 +22,7 @@ gaps:
   - "لم يُعثر على اقتباس مباشر منسوب لمصدر أساسي يمكن توثيقه بدقة."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "تداخل هذا الملف مع مفهوم التقاطعية الفلسفي (con-intersectionality) يحتاج فصلاً أوضح للحدود بين الصياغتين."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-intersectional-feminist` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # علم النفس النسوي التقاطعي

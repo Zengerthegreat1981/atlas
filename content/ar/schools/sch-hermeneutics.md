@@ -17,9 +17,9 @@ edges:
 - rel: "split_into", target: "sch-hermeneutics-critical", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-phenomenology-hermeneutic", target_type: "مدرسة"
 related:
-- id: "sch-phenomenology-hermeneutic", title: "الظاهراتية التأويلية", type: "مدرسة"
-- id: "sch-hermeneutics-critical", title: "الهرمنيوطيقا النقدية", type: "مدرسة"
-- id: "sch-frankfurt-school", title: "النظرية النقدية / مدرسة فرانكفورت", type: "مدرسة"
+- id: "sch-phenomenology-hermeneutic", title: "الظاهراتية التأويلية (Hermeneutic Phenomenology)", type: "مدرسة"
+- id: "sch-hermeneutics-critical", title: "الهرمنيوطيقا النقدية (Critical Hermeneutics)", type: "مدرسة"
+- id: "sch-frankfurt-school", title: "النظرية النقدية / مدرسة فرانكفورت (Frankfurter Schule)", type: "مدرسة"
 - id: "con-hermeneutic-circle", title: "الدائرة الهرمنيوطيقية (Hermeneutic Circle)", type: "مفهوم"
 - id: "thk-schleiermacher", title: "فريدريش شلايرماخر", type: "مفكر"
 - id: "thk-dilthey", title: "فيلهلم دلتاي", type: "مفكر"

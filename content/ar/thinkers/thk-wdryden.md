@@ -11,7 +11,7 @@ country: "المملكة المتحدة"
 language: "إنجليزية"
 active_start: 1985
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
 edges:
 - rel: "belongs_to", target: "br-single-session-therapy", target_type: "تيار"
 related:
@@ -21,6 +21,7 @@ related:
 gaps:
   - "سنة الميلاد الدقيقة (بعد 1950) لم تُراجع من مصدر أولي."
   - "لم يُعثر على اقتباس مباشر قابل للتحقق من مصدر أولي."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-single-session-therapy` موسومٌ «philosophy» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # ويندي دريدن

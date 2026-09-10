@@ -13,7 +13,7 @@ active_start: 1980
 active_end: "مستمر"
 part: "philosophy"
 edges:
-- rel: "belongs_to", target: "br-nlp-systemic", target_type: "فرع"
+- rel: "belongs_to", target: "br-nlp-systemic", target_type: "تيار"
 related:
 - id: "thk-rbandler", title: "ريتشارد بَندلر", type: "مفكر"
 - id: "thk-rdilts", title: "روبرت ديلتس", type: "مفكر"

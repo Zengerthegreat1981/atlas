@@ -13,7 +13,7 @@ active_start: 1990
 active_end: 2024
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "br-dynamic-couples-family-therapy", target_type: "فرع"
+- rel: "belongs_to", target: "br-dynamic-couples-family-therapy", target_type: "تيار"
 related:
 - id: "con-dynamic-couple-family", title: "العلاج الديناميكي للأزواج والأسرة", type: "مفهوم"
 gaps:

@@ -13,10 +13,10 @@ active_start: 1988
 active_end: 2014
 crumb: "منظور نقاط القوّة ← مؤسِّسون ← دينيس ساليبي"
 edges:
-- rel: "influenced", target: "tec-strengths-based-therapy", target_type: "تقنية"
+- rel: "influenced", target: "tec-strengths-based-therapy", target_type: "تقنية/تدخل علاجي"
 related:
-- id: "tec-strengths-based-therapy", title: "العلاج القائم على نقاط القوّة", type: "تقنية"
-- id: "rel-rawlsian-justice-social-work-psychology", title: "عدالة رولز والخدمة الاجتماعية", type: "علاقة"
+- id: "tec-strengths-based-therapy", title: "العلاج المرتكز على مواطن القوة", type: "تقنية/تدخل علاجي"
+- id: "rel-rawlsian-justice-social-work-psychology", title: "العدالة كإنصاف لرولز وممارسات علم النفس المجتمعي والخدمة الاجتماعية", type: "علاقة بين مدرستين"
 gaps:
   - "**كُتب متنُه 2026-09-07:** كان ساليبي أصلَ التقنية التي لها ملفٌّ في الأطلس، بلا ملفٍّ يُعرِّفه."
   - "لا ملفَّ في الأطلس لـ**تشارلز راب** ولا لـ**آن ويك**، وهما شريكاه في مدرسة كانساس ومُطوِّرا **نموذج إدارة الحالة بنقاط القوّة**."

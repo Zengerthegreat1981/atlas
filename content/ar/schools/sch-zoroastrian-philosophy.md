@@ -16,9 +16,9 @@ cultural_origin: "islamic-arabic"
 related:
 - id: "sch-manicheism", title: "المانوية", type: "مدرسة"
 - id: "sch-mazdakism", title: "المزدكية", type: "مدرسة"
-- id: "sch-gnosticism", title: "الغنوصية القديمة", type: "مدرسة"
-- id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية", type: "مدرسة"
-- id: "sch-patristics", title: "الآبائية المسيحية", type: "مدرسة"
+- id: "sch-gnosticism", title: "الغنوصية القديمة (بفروعها)", type: "مدرسة"
+- id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية (الإسكندرانية)", type: "مدرسة"
+- id: "sch-patristics", title: "الآبائية المسيحية (Patristics)", type: "مدرسة"
 - id: "wrk-gathas", title: "الأناشيد الغاثية (Gathas)", type: "عمل / كتاب"
 gaps:
   - "نصوص الأفستا الأصلية تحتاج مراجعة من المصدر الأولي."

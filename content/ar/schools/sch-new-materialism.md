@@ -15,9 +15,9 @@ active_start: 1994
 active_end: "مستمر"
 edges: []
 related:
-- id: "sch-speculative-realism", title: "الواقعية المضاربة", type: "مدرسة"
+- id: "sch-speculative-realism", title: "الواقعية المضاربة (Speculative Realism)", type: "مدرسة"
 - id: "sch-ooo", title: "الأنطولوجيا الموجهة نحو الشيء (Object-Oriented Ontology)", type: "مدرسة"
-- id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية", type: "مدرسة"
+- id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية (Philosophical Postmodernism)", type: "مدرسة"
 - id: "dbt-new-materialism-vs-linguistic-turn", title: "المادية الجديدة لكارين باراد ضد هيمنة التحول اللغوي", type: "جدل"
 gaps:
   - "**فُرِّغ حقلُ الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existentialism` ختماً قالبياً، ولا صلةَ لهذا الملفّ بالوجودية — مجالُه «الفلسفة / المادية الجديدة مدرسةٌ مستقلّةٌ معاصرة». و**لا مدرسةَ لهذا المجال في الأطلس** تُنسب إليه، فبقي الحقلُ فارغاً على اصطلاح المستودع؛ ولم يُوضَع أبٌ تقريبيٌّ لأنّ أباً خاطئاً أسوأُ من غياب أب."

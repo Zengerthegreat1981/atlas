@@ -11,10 +11,10 @@ active_end: "مستمر"
 part: "bridge"
 edges:
 - rel: "belongs_to", target: "sch-behaviorism", target_type: "مدرسة"
-- rel: "relates_to", target: "rel-cbt-nonwestern", target_type: "مدرسة"
+- rel: "relates_to", target: "rel-cbt-nonwestern", target_type: "علاقة بين مدرستين"
 related:
 - id: "br-classical-behaviorism", title: "السلوكية الكلاسيكية", type: "تيار"
-- id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي", type: "تيار"
+- id: "br-radical-behaviorism", title: "السلوكية الراديكالية وتحليل السلوك التطبيقي (ABA)", type: "تيار"
 - id: "br-purposive-behaviorism", title: "السلوكية الغائية والمعرفية المبكرة (تولمان)", type: "تيار"
 - id: "br-neobehaviorism", title: "السلوكية الجديدة (النيوسلوكية)", type: "تيار"
 - id: "br-social-learning-theory", title: "نظرية التعلم الاجتماعي والمعرفي", type: "تيار"
@@ -23,7 +23,7 @@ related:
 - id: "thk-abandura", title: "ألبرت باندورا", type: "مفكر"
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
-- id: "rel-cultural-feminist", title: "علم النفس النسوي والثقافي: من Gilligan إلى hooks", type: "علاقة بين مدرستين"
+- id: "rel-cultural-feminist", title: "العلاج النسوي والنظرية العلائقية-الثقافية: من صوتٍ مختلف إلى تقاطعٍ في القوة", type: "علاقة بين مدرستين"
 gaps:
   - "تاريخ 'الثورة المعرفية' (Miller, Galanter, Pribram 1960 — Plans and the Structure of Behavior) ككتاب مفصلي في إقرار العمليات الذهنية في علم النفس التجريبي يحتاج مراجعة نصية."
   - "نقطة التحوّل الرسمية داخل الـ APA من 'السلوكية' إلى 'المعرفية' لم تُحدّد بيقين تاريخي (تعود عادةً إلى أواخر الستينيات)."

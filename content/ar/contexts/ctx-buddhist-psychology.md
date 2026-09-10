@@ -14,9 +14,9 @@ part: "philosophy"
 edges: []
 related:
 - id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
-- id: "con-mindfulness", title: "اليقظة الذهنية", type: "مفهوم"
+- id: "con-mindfulness", title: "اليقظة الذهنية (Mindfulness)", type: "مفهوم"
 - id: "tec-contemplative-psychotherapy", title: "العلاج النفسي التأملي (جامعة ناروبا)", type: "تقنية/تدخل علاجي"
-- id: "evt-third-wave-cbt-symposium-2004", title: "ندوة إعلان الموجة الثالثة للعلاج المعرفي السلوكي", type: "حدث تاريخي"
+- id: "evt-third-wave-cbt-symposium-2004", title: "ندوة إعلان الموجة الثالثة للعلاج المعرفي السلوكي وتكامل القبول واليقظة الذهنية", type: "حدث تاريخي"
 gaps:
   - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«العلاجات القائمة على اليقظة والقبول (الموجة الثالثة)» في content/ar/schools أو branches."
   - "الترجمة الدقيقة لمصطلحات الأبهيدارما البالية (مثل Cetasika) تحتاج مراجعة متخصص في اللغويات البوذية."

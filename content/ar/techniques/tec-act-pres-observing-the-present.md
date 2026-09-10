@@ -19,7 +19,7 @@ related:
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
 - id: "tec-dbt-mind-observe", title: "الملاحظة", type: "تقنية/تدخل علاجي"
-- id: "tec-act-pres-urge-surfing", title: "ركوب موجة الرغبة الملحّة", type: "تقنية/تدخل علاجي"
+- id: "tec-act-pres-urge-surfing", title: "ركوب موجة الرغبة الملحّة (ACT)", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا توجد دراسة معزولة موثّقة تختبر «ملاحظة الحاضر» كمهارة منفصلة عن حزمة ACT ككل؛ الأدلة المتوفرة عن فعالية ACT إجمالاً وليس عن هذا المكوّن تحديداً."
 ---

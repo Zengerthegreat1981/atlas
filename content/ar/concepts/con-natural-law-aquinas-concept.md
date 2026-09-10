@@ -14,7 +14,7 @@ edges:
 related:
 - id: "sch-thomism", title: "التوماوية", type: "مدرسة"
 - id: "thk-aquinas", title: "توما الأكويني", type: "مفكر"
-- id: "wrk-summa-theologiae-aquinas", title: "الخلاصة اللاهوتية لتوما الإكويني", type: "عمل"
+- id: "wrk-summa-theologiae-aquinas", title: "الخلاصة اللاهوتية لتوما الإكويني", type: "عمل / كتاب"
 - id: "thk-aristotle", title: "أرسطو", type: "مفكر"
 - id: "con-natural-law", title: "القانون الطبيعي", type: "مفهوم"
 gaps:

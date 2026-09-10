@@ -2,7 +2,7 @@
 slug: "thk-pgilbert"
 id: "THK-2250"
 type: "مفكر"
-part: "psychology"
+part: "philosophy"
 level: "متوسط"
 title: "بول جيلبرت"
 en: "Paul Gilbert"
@@ -23,6 +23,7 @@ related:
 - id: "con-shame-self-criticism", title: "الخزي ونقد الذات", type: "مفهوم"
 gaps:
   - "تفاصيل سيرة بول جيلبرت المبكرة في ديربي ومسيرته في مؤسسة الخدمات الصحية الوطنية (NHS) لم تُراجع من مصدر أولي بعد."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-cft` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ في الواجهة."
 ---
 
 # بول جيلبرت

@@ -18,18 +18,20 @@ edges:
 - rel: "belongs_to", target: "sch-newconfucianism-modern", target_type: "مدرسة"
 related:
 - id: "sch-confucian-psychology", title: "علم النفس الكونفوشي", type: "مدرسة"
-- id: "sch-newconfucianism-modern", title: "الكونفوشية الجديدة الحديثة", type: "مدرسة"
+- id: "sch-newconfucianism-modern", title: "الكونفوشية الجديدة الحديثة (Modern New Confucianism)", type: "مدرسة"
 - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
 - id: "thk-confucius", title: "كونفوشيوس (كونغ زي)", type: "مفكر"
 - id: "thk-mencius", title: "منسيوس (منغ زي)", type: "مفكر"
-- id: "sch-buddhist-psychology", title: "علم النفس البوذي", type: "مدرسة"
+- id: "sch-buddhist-psychology", title: "علم النفس البوذي (Buddhist Psychology)", type: "مدرسة"
 - id: "con-ren", title: "الرن (仁) — الإنسانية الرحيمة", type: "مفهوم"
-- id: "con-xiao-filial-piety", title: "بر الوالدين", type: "مفهوم"
+- id: "con-xiao-filial-piety", title: "الشياو — بر الوالدين والوفاء الأسري (Xiao)", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: وانغ يانغ-مينغ (thk-wangyangming)"
   - "السنة الدقيقة لميلاد توي وي-مينغ (1940 أو 1941 في بعض المراجع) لم تُحسم بعد."
   - "لم يُعثر على اقتباس مباشر قابل للتوثيق بمصدر وصفحة محددة."
   - "دُمج معه الملف المكرَّر thk-tfwang (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-newconfucianism-modern` موسومٌ «philosophy» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-confucian-psychology` موسومٌ «psychology» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ في الواجهة."
 ---
 
 # توي وي-مينغ (دو وي-مينغ)

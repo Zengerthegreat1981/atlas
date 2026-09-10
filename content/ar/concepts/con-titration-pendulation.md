@@ -2,7 +2,7 @@
 slug: "con-titration-pendulation"
 id: "CON-1251"
 type: "مفهوم"
-part: "psychology"
+part: "philosophy"
 level: "متوسط"
 title: "التقطير والبندلة في العلاج الجسدي للصدمات"
 en: "Titration and Pendulation in Somatic Experiencing"
@@ -15,12 +15,13 @@ related:
 - id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
 - id: "sch-somatic-experiencing", title: "التجربة الجسدية (Somatic Experiencing)", type: "مدرسة"
 - id: "wrk-waking-the-tiger", title: "إيقاظ النمر: شفاء الصدمة", type: "عمل / كتاب"
-- id: "con-window-of-tolerance", title: "نافذة التحمل", type: "مفهوم"
+- id: "con-window-of-tolerance", title: "نافذة التحمل (Window of Tolerance)", type: "مفهوم"
 - id: "tec-somatic-pendulation-vortex", title: "تقنية البندلة الإيقاعية بين دوامة الصدمة ودوامة الشفاء", type: "تقنية/تدخل علاجي"
 - id: "tec-sensorimotor-pendulation", title: "البندلة (Pendulation) في العلاج السنسوريموتور", type: "تقنية/تدخل علاجي"
 gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "توسيع شبكة العلاقات مع المدارس المجاورة قيد المتابعة التحريرية."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-somatic-experiencing` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # التقطير والبندلة في العلاج الجسدي للصدمات

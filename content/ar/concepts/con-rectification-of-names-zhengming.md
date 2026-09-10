@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-confucius", title: "كونفوشيوس (كونغ زي)", type: "مفكر"
 - id: "sch-confucian-early", title: "الكونفوشية المبكرة", type: "مدرسة"
-- id: "wrk-lunyu", title: "المحاورات (لون يو)", type: "عمل"
+- id: "wrk-lunyu", title: "المحاورات (لون يو)", type: "عمل / كتاب"
 - id: "con-confucian-ren", title: "الإنسانية (Ren 仁, Confucianism)", type: "مفهوم"
 - id: "con-junzi-exemplary-person", title: "الجونزي — الإنسان النبيل والقدوة الأخلاقية (Junzi)", type: "مفهوم"
 gaps:

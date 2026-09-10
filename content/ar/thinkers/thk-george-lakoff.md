@@ -16,7 +16,7 @@ edges: []
 related:
 - id: "con-embodied-cognition", title: "الإدراك المتجسد (Embodied Cognition): العقل يَتمدّد في الجسد", type: "مفهوم"
 - id: "con-framing-effect", title: "تأثير التأطير المعرفي واللغوي (Framing Effect)", type: "مفهوم"
-- id: "wrk-dont-think-of-an-elephant", title: "لا تفكر في فيل", type: "عمل / كتاب"
+- id: "wrk-dont-think-of-an-elephant", title: "لا تفكر في فيل: الأطر اللغوية والمعرفية في السياسة والفكر", type: "عمل / كتاب"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Metaphors We Live By* (1980) بترجمة عربية معتمدة."
   - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«اللسانيات المعرفية وعلم النفس السياسي» في content/ar/schools أو branches."

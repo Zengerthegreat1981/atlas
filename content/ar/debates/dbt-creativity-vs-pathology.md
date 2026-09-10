@@ -8,14 +8,15 @@ en: "Creativity vs. Pathology: Real Link or Myth?"
 crumb: "الجماعية/التعبيرية/الفنية ← الجدالات ← الإبداع والمرض"
 active_start: 1980
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
 edges:
-- rel: "belongs_to", target: "br-expressive-arts-therapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-expressive-arts-therapy", target_type: "تيار"
 related:
 - id: "thk-smcniff", title: "شون ماكنيف", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من نصوص Andreasen أو Ludwig متاح في هذا الملف."
   - "أثر مقياس Barron-Welsh Art Scale في دراسات جاميسون لم يُراجَع من مصدر أولي."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-expressive-arts-therapy` موسومٌ «philosophy» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # الإبداع مقابل المرض النفسي: قرابة حقيقية أم خرافة؟

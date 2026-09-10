@@ -21,7 +21,7 @@ related:
 - id: "thk-oapel", title: "كارل-أوتو آبل", type: "مفكر"
 - id: "thk-dewey", title: "جون ديوي", type: "مفكر"
 - id: "thk-peirce", title: "تشارلز ساندرز بيرس", type: "مفكر"
-- id: "sch-hermeneutics-critical", title: "الهرمنيوطيقا النقدية", type: "مدرسة"
+- id: "sch-hermeneutics-critical", title: "الهرمنيوطيقا النقدية (Critical Hermeneutics)", type: "مدرسة"
 - id: "sch-pragmatism-classical", title: "البراغماتية الكلاسيكية", type: "مدرسة"
 gaps:
   - "أعماله الأخيرة (2010s) عن 'Violence' لم تُترجم إلى العربية."

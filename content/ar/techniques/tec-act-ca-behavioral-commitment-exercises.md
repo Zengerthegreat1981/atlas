@@ -18,8 +18,8 @@ related:
 - id: "tec-act-ca-self-rewarding", title: "مكافأة الذات", type: "تقنية/تدخل علاجي"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
-- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب"
-- id: "dis-binge-eating-disorder", title: "اضطراب نهم الطعام", type: "اضطراب"
+- id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-binge-eating-disorder", title: "اضطراب نهم الطعام", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "لا توجد دراسة أثر منفصلة موثّقة في الأطلس لتمارين الالتزام السلوكي تحديداً (بمعزل عن فعالية ACT ككل)؛ evidence_level هنا محافظ استناداً لتصنيف ACT العام كـ probably-efficacious وليس لدراسة مخصّصة."
   - "أبحاث Wood & Neal على العادات الصحية المذكورة في المتن غير موثّقة بـslug في الأطلس — لا رابط."

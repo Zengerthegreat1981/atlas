@@ -11,9 +11,9 @@ dates: "أواخر التسعينيات"
 active_start: 1998
 active_end: "مستمر"
 language: "الإنجليزية"
-part: "psychology"
+part: "philosophy"
 edges:
-- rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-sensorimotor-trauma-applications", target_type: "تيار"
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "thk-wells-adrian", title: "أدريان ويلز", type: "مفكر"
@@ -23,6 +23,7 @@ evidence_level: "probably-efficacious"
 gaps:
   - "دور ميرا أرتنيس (Merel Kindt / Arnoud Arntz، جامعة أمستردام) في توسيع IR لاضطرابات الشخصية مذكور في المتن لكن ملفه الشخصي غير موجود بعد في الأطلس — لا slug متاح للربط."
   - "حجم أثر IR في التجارب العشوائية المقارنة بـ CPT أو EMDR لعلاج PTSD غير موثّق برقم محدد هنا."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-sensorimotor-trauma-applications` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ في الواجهة."
 ---
 
 # إعادة كتابة سردية التخيل (Imagery Rescripting)

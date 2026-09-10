@@ -14,10 +14,10 @@ edges:
 related:
 - id: "thk-andy-clark", title: "آندي كلارك", type: "مفكر"
 - id: "thk-david-chalmers", title: "ديفيد تشالمرز", type: "مفكر"
-- id: "sch-phil-mind-analytic", title: "فلسفة العقل التحليلية", type: "مدرسة"
-- id: "dbt-extended-mind-clark-chalmers", title: "جدل العقل الممتد", type: "جدل"
+- id: "sch-phil-mind-analytic", title: "فلسفة العقل التحليلية (كمظلة)", type: "مدرسة"
+- id: "dbt-extended-mind-clark-chalmers", title: "فرضية العقل الممتد وتخطي حدود الجمجمة (Clark & Chalmers)", type: "جدل"
 - id: "con-functionalism-mind", title: "الوظيفية في فلسفة العقل", type: "مفهوم"
-- id: "con-embodied-cognition", title: "المعرفة المجسَّدة", type: "مفهوم"
+- id: "con-embodied-cognition", title: "الإدراك المتجسد (Embodied Cognition): العقل يَتمدّد في الجسد", type: "مفهوم"
 gaps:
   - "**كُتب متنه 2026-09-07.** والفجوتان المسجَّلتان كانتا تنصّان على غياب توثيق الورقة الأصلية (1998) ومعيارِ التكافؤ الوظيفي، وعلى انعدام الاقتباس — وقد أُثبتت الورقةُ ومعيارُها ومثالُها المرجعي (أوتّو وإنغا)."
   - "الجدلُ حول ما إذا كان الهاتفُ الذكيّ حالةً من العقل الممتد بحسب المعيار نفسه معروضٌ هنا؛ ولم أنسب فيه موقفاً إلى كلارك أو تشالمرز في مؤلَّفٍ بعينه."

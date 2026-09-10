@@ -20,7 +20,7 @@ related:
 - id: "tec-dbt-er-storytelling-mind-vs-wise-mind", title: "عقل القصص مقابل العقل الحكيم", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-spec-radical-openness", title: "الانفتاح الجذري", type: "تقنية/تدخل علاجي"
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
-- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب"
+- id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-cognitive-reappraisal", title: "إعادة التقييم المعرفي", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا يوجد في الأطلس ملف دراسة (stu-/std-) يفحص أثر التفكير الجدلي بمعزل عن تجارب فعالية DBT ككل على تخفيف الانشطار (Splitting) لدى مرضى اضطراب الشخصية الحدية."

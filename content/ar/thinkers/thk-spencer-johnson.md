@@ -17,8 +17,8 @@ edges:
 - rel: "belongs_to", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
 - id: "thk-ken-blanchard", title: "كين بلانشارد", type: "مفكر"
-- id: "wrk-who-moved-my-cheese", title: "من حرك قطعة الجبن الخاصة بي؟ طريقة مذهلة للتعامل مع التغيير", type: "عمل"
-- id: "wrk-one-minute-manager", title: "كتاب: مدير الدقيقة الواحدة", type: "عمل"
+- id: "wrk-who-moved-my-cheese", title: "من حرك قطعة الجبن الخاصة بي؟ طريقة مذهلة للتعامل مع التغيير", type: "عمل / كتاب"
+- id: "wrk-one-minute-manager", title: "مدير الدقيقة الواحدة", type: "عمل / كتاب"
 gaps:
   - "تفاصيل دراسته الطبّية (جامعة ساوث داكوتا) موثّقة جزئياً."
   - "التفاصيل الدقيقة لمؤسَّسته «Heureka Research» موثّقة جزئياً."

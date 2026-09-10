@@ -13,7 +13,7 @@ active_start: 1972
 active_end: 2010
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "tec-dir-floortime", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-dir-floortime", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "thk-aklinger", title: "أتسيلا كلاينغر", type: "مفكر"
 - id: "thk-fvolkmar", title: "فريد فولكمار", type: "مفكر"

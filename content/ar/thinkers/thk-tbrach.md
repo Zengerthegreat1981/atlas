@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1998
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "tec-contemplative-psychotherapy", target_type: "تقنية/تدخل علاجي"
 related:
@@ -20,6 +20,7 @@ related:
 gaps:
   - "سنة الميلاد بالتحديد (1953) لم تُراجع من مصدر أولي مستقل عن سيرتها الرسمية."
   - "لا يوجد اقتباس مباشر موثَّق بمصدر وسنة لها في هذا الملف."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-contemplative-psychotherapy` موسومٌ «psychology» — فوُحِّد على وسم الأب."
 ---
 
 # تارا براتش

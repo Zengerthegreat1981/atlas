@@ -15,7 +15,7 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-personal-construct-psychology", target_type: "تيار"
 related:
-- id: "br-personal-construct-psychology", title: "سيكولوجيا الأطر الشخصية", type: "تيار"
+- id: "br-personal-construct-psychology", title: "سيكولوجيا الأطر الشخصية (جورج كيلي)", type: "تيار"
 - id: "br-constructivist-cognitive", title: "العلاج المعرفي البنائي", type: "تيار"
 - id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
 - id: "thk-shiggins", title: "ستيفن تي. هيغينز", type: "مفكر"

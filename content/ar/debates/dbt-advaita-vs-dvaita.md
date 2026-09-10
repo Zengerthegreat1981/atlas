@@ -16,7 +16,7 @@ related:
 - id: "sch-dvaita-vedanta", title: "دفايتا فيدانتا (التثنية)", type: "مدرسة"
 - id: "thk-shankara", title: "شانكارا (أدفايتا فيدانتا)", type: "مفكر"
 - id: "thk-madhva", title: "مادهافا (دفايتا فيدانتا)", type: "مفكر"
-- id: "con-maya-vedanta", title: "مايا", type: "مفهوم"
+- id: "con-maya-vedanta", title: "مايا (الوهم الفلسفي / الظهور الكوني)", type: "مفهوم"
 gaps:
   - "التفاصيل الكاملة لموقف راماوجا «الوسط» من هذا الجدل تحتاج مراجعة."
   - "لا اقتباس مباشر من Brahma Sutra Bhashya لشانكارا أو مادهافا متاح بنص معتمد عربي."

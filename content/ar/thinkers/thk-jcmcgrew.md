@@ -11,13 +11,14 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-psychiatric-rehabilitation", target_type: "تيار"
 related:
 - id: "br-psychiatric-rehabilitation", title: "التأهيل النفسي-الاجتماعي", type: "تيار"
 gaps:
   - "سنة الميلاد بالتحديد (1953 في هذا الملف) لم تُؤكَّد من مصدر أولي مستقل؛ ما تأكّد بالبحث هو مسيرته الأكاديمية لا تاريخ ميلاده."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-psychiatric-rehabilitation` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # جون هـ. مَكغْرِي

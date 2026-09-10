@@ -13,7 +13,7 @@ active_start: 1955
 active_end: 2008
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "فرع"
+- rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "تيار"
 related: []
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Clinical Hypnosis: Principles and Applications* (1975) بترجمة عربية معتمدة."

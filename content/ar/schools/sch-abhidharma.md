@@ -17,8 +17,8 @@ edges:
 - rel: "evolved_from", target: "sch-theravada", target_type: "مدرسة"
 related:
 - id: "sch-theravada", title: "ثيرافادا", type: "مدرسة"
-- id: "sch-madhyamaka", title: "مادهياماكا", type: "مدرسة"
-- id: "sch-yogacara", title: "يوغاكارا", type: "مدرسة"
+- id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
+- id: "sch-yogacara", title: "يوغاكارا / فيجنانافادا", type: "مدرسة"
 gaps:
   - "نصوص Abhidharmakośa (لفاسوباندو) وSautrāntika الأصلية تحتاج مراجعة من المصدر الأولي."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

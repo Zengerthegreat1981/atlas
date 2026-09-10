@@ -13,7 +13,7 @@ active_start: 1945
 active_end: 2001
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-clinical-hypnotherapy", target_type: "تيار"
 related:
 - id: "tec-cognitive-hypnotherapy", title: "التنويم الإيحائي المعرفي", type: "تقنية/تدخل علاجي"
 - id: "thk-morne", title: "مارتن أورن", type: "مفكر"

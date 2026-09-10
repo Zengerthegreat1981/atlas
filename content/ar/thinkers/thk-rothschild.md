@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2000
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
 related:
@@ -25,6 +25,7 @@ gaps:
   - "سنة الميلاد الدقيقة (1947) تقريبية."
   - "كتاب '8 Keys to Safety' (2013) من أهم كتبها."
   - "لا يوجد ملف مفهوم (con-) مستقل بعنوان «العلاج الجسدي للصدمة» أو «علاج الصدمة» بهذه الصياغة العامة في الأطلس، فحُذف رابطاهما من related (أقرب ملف موجود فعلياً هو con-somatic-memory الذي أُبقي واستُبدل عنوانه ليطابق)."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-somatic-experiencing` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # بابي روتشيلد

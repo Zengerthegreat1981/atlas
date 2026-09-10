@@ -9,8 +9,8 @@ crumb: "البيئة والنفس ← التحليلية البيئية في أ�
 dates: "جنوب أفريقيا · 1927–2014"
 country: "جنوب أفريقيا"
 language: "الإنجليزية"
-part: "philosophy"
-active_start: null
+part: "psychology"
+active_start: 1927
 active_end: 2014
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
@@ -19,6 +19,8 @@ related:
 - id: "thk-lvdpost", title: "لورنز فان دير بوست", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *The White Rhino Saga* (1972) بترجمة عربية معتمدة."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («جنوب أفريقيا · 1927–2014») فاستُخرجت: 1927."
 ---
 
 # إيان بلاير

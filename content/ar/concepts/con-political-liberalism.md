@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-rawls", title: "جون رولز", type: "مفكر"
 - id: "sch-rawlsianism", title: "الليبرالية السياسية المعاصرة (الرولزية وما بعدها)", type: "مدرسة"
-- id: "wrk-a-theory-of-justice-rawls", title: "نظرية في العدالة لجون رولز", type: "عمل"
+- id: "wrk-a-theory-of-justice-rawls", title: "نظرية في العدالة لجون رولز", type: "عمل / كتاب"
 - id: "con-original-position-veil-of-ignorance", title: "الوضع الأصلي وحجاب الجهل (Original Position & Veil of Ignorance)", type: "مفهوم"
 - id: "con-social-contract-theory", title: "نظرية العقد الاجتماعي (Social Contract)", type: "مفهوم"
 - id: "con-overlapping-consensus-rawls", title: "الإجماع التقاطعي والتعددية المعقولة (Overlapping Consensus)", type: "مفهوم"

@@ -12,8 +12,8 @@ active_end: "مستمر"
 language: "متعدد اللغات"
 edges: []
 related:
-- id: "syn-spiritual-possession-al-mass", title: "متلازمة المَسّ والاضطراب التلبسي", type: "متلازمة"
-- id: "syn-zar", title: "متلازمة الزار", type: "متلازمة"
+- id: "syn-spiritual-possession-al-mass", title: "متلازمة المَسّ والاضطراب التلبسي في الإثنوسيكياتري العربي", type: "متلازمة"
+- id: "syn-zar", title: "متلازمة الزار (طقس التلبس والاضطراب التفارقي في شمال إفريقيا)", type: "متلازمة"
 - id: "dis-dissociative-identity", title: "اضطراب الهوية التفارقي", type: "اضطراب/حالة إكلينيكية"
 - id: "con-anatta-non-self-concept", title: "الأناتا ونفي الذات الثابتة في البوذية (Anatta)", type: "مفهوم"
 gaps:

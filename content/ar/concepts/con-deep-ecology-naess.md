@@ -14,12 +14,12 @@ edges:
 related:
 - id: "thk-arne-naess", title: "أرنه نايس", type: "مفكر"
 - id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
-- id: "wrk-ecology-community-lifestyle", title: "الإيكولوجيا والمجتمع وأسلوب الحياة لأرنه نايس", type: "عمل"
-- id: "con-deep-vs-shallow", title: "العميق مقابل السطحي في الإيكولوجيا", type: "مفهوم"
-- id: "sch-environmental-ethics", title: "الأخلاق البيئية", type: "مدرسة"
+- id: "wrk-ecology-community-lifestyle", title: "الإيكولوجيا والمجتمع ونمط الحياة (Ecology, Community and Lifestyle)", type: "عمل / كتاب"
+- id: "con-deep-vs-shallow", title: "الإيكولوجيا الضحلة مقابل العميقة (Shallow vs. Deep)", type: "مفهوم"
+- id: "sch-environmental-ethics", title: "فلسفة البيئة / الأخلاق البيئية", type: "مدرسة"
 - id: "thk-spinoza", title: "باروخ سبينوزا", type: "مفكر"
-- id: "thk-gandhi", title: "المهاتما غاندي", type: "مفكر"
-- id: "con-land-ethic", title: "أخلاقيات الأرض", type: "مفهوم"
+- id: "thk-gandhi", title: "موهانداس كرمشاند غاندي", type: "مفكر"
+- id: "con-land-ethic", title: "أخلاق الأرض (Land Ethic)", type: "مفهوم"
 gaps:
   - "**كُتب متنه 2026-09-07.** والفجوتان المسجَّلتان كانتا تنصّان على أن «المصادرَ الأولية لأرنه نايس غيرُ موثّقة» وأن «التحليلَ الدقيق لتطوّر المفهوم» ناقص — وقد أُثبتت الورقةُ الأصلية (1973) والمنهاجُ الثماني (1984) والنقدُ الوارد."
   - "المنهاجُ الثماني (Platform) صاغه نايس مع **جورج سيشنز** سنة 1984، ولا ملفَّ لسيشنز في الأطلس فتعذّر ربطُه."

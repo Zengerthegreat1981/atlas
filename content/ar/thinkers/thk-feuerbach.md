@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-hegel-left", target_type: "مدرسة"
 related:
 - id: "sch-hegelianism", title: "الهيغلية", type: "مدرسة"
-- id: "thk-hegel", title: "هيغل", type: "مفكر"
+- id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
 - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
 gaps:
   - "كتاب 'جوهر المسيحية' (1841) ونظرية إسقاط الصفات الإنسانية واغتراب الذات."

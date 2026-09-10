@@ -14,7 +14,7 @@ cultural_origin: "anglo-american"
 active_start: 1960
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-phil-mind-analytic", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-phil-mind-analytic", target_type: "مدرسة"
 related:
 - id: "rel-pragmatism-functional-psychology", title: "العلاقة بين البراغماتية الفلسفية والمدرسة الوظيفية في علم النفس", type: "علاقة بين مدرستين"
 - id: "thk-hputnam", title: "هيلاري بوتنام", type: "مفكر"

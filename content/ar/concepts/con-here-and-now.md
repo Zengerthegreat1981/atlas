@@ -14,11 +14,11 @@ edges:
 related:
 - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
-- id: "thk-jkabat-zinn", title: "جون كابات زين", type: "مفكر"
+- id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
 - id: "sch-gestalt-therapy", title: "علاج الجشطالت (Gestalt Therapy)", type: "مدرسة"
-- id: "con-self-actualization", title: "تحقيق الذات", type: "مفهوم"
-- id: "con-self-actualization-maslow", title: "تحقيق الذات عند ماسلو", type: "مفهوم"
-- id: "con-actualizing-tendency", title: "نزعة التحقق الذاتي", type: "مفهوم"
+- id: "con-self-actualization", title: "تحقيق الذات (Self-Actualization)", type: "مفهوم"
+- id: "con-self-actualization-maslow", title: "تحقيق الذات عند ماسلو (Maslow's Self-Actualization — مفصَّل)", type: "مفهوم"
+- id: "con-actualizing-tendency", title: "نزعة التحقق الذاتي (Actualizing Tendency)", type: "مفهوم"
 - id: "con-mindfulness", title: "اليقظة الذهنية (Mindfulness)", type: "مفهوم"
 gaps:
   - "**وُحِّد حقل `part` 2026-09-08:** كان «psychology» وصار «philosophy» اتّساقاً مع أشقّائه تحت `sch-existentialism` (وأغلبيتُهم «philosophy» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."

@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-jean-francois-lyotard", title: "جان فرانسوا ليوتار", type: "مفكر"
 - id: "sch-postmodernism-philosophical", title: "ما بعد الحداثة الفلسفية (Philosophical Postmodernism)", type: "مدرسة"
-- id: "wrk-the-postmodern-condition-lyotard", title: "الوضع ما بعد الحداثي لجان فرانسوا ليوتار", type: "عمل"
+- id: "wrk-the-postmodern-condition-lyotard", title: "الوضع ما بعد الحداثي لجان فرانسوا ليوتار", type: "عمل / كتاب"
 - id: "con-narrative-identity-ricoeur", title: "الهوية السردية والذات كآخر (Narrative Identity)", type: "مفهوم"
 gaps:
   - "التحليل الإبستمولوجي واللغوي الدقيق لتطور المفهوم عبر التاريخ."

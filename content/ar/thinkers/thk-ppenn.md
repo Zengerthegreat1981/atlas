@@ -20,7 +20,7 @@ related:
 - id: "thk-pwatzlawick", title: "بول واتزلاويك", type: "مفكر"
 - id: "thk-kgergen", title: "كينيث جيرغن", type: "مفكر"
 - id: "tec-collaborative-language-systems", title: "الأنظمة اللغوية التعاونية", type: "تقنية/تدخل علاجي"
-- id: "con-grief", title: "الحزن كمسار للتفريد", type: "مفهوم"
+- id: "con-grief", title: "الحزن كمسار للتفرّد", type: "مفهوم"
 gaps:
   - "حُذف رابطا related كانا يشاوران على ملفات غير موجودة (con-family-therapy، con-language)."
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي. وفاتها مذكورة كـ2007 في بعض المراجع و2006 في أخرى، والفرق لم يُحسم."

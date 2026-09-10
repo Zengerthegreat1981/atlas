@@ -18,7 +18,7 @@ edges:
 - rel: "developed_by", target: "thk-fromm", target_type: "مفكر"
 - rel: "developed_by", target: "thk-sullivan", target_type: "مفكر"
 related:
-- id: "thk-khorney", title: "كارين هورني", type: "مفكر"
+- id: "thk-khorney", title: "كارين هُورْني", type: "مفكر"
 - id: "thk-fromm", title: "إريك فروم", type: "مفكر"
 - id: "thk-sullivan", title: "هاري ستاك سوليفان", type: "مفكر"
 - id: "thk-cthompson", title: "كلارا تومسون", type: "مفكر"

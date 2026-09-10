@@ -16,11 +16,11 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-developmental", target_type: "مدرسة"
 related:
-- id: "sch-developmental", title: "علم النفس النمائي", type: "مدرسة"
-- id: "sch-social-psychology", title: "علم النفس الاجتماعي", type: "مدرسة"
+- id: "sch-developmental", title: "علم النفس النمائي (Developmental Psychology)", type: "مدرسة"
+- id: "sch-social-psychology", title: "علم النفس الاجتماعي (Social Psychology)", type: "مدرسة"
 - id: "thk-dolweus", title: "دان أولِس", type: "مفكر"
 - id: "thk-petersmith", title: "بيتر سميث", type: "مفكر"
-- id: "dbt-violent-media-child-aggression", title: "جدل تأثير الإعلام العنيف على عدوان الأطفال", type: "جدل"
+- id: "dbt-violent-media-child-aggression", title: "جدل تأثير الشاشات والألعاب الإلكترونية العنيفة على العدوان عند الأطفال", type: "جدل"
 gaps:
   - "**أُنشئ هذا الملف 2026-09-08:** كان اسمُ «بحوث التنمّر المدرسي» يُستعمل أباً نصّياً في `belongs_to` لملفَّي أولِس وسميث بلا ملفٍّ يقابله."
   - "**لا ملفَّ في الأطلس لـ**: **كريستينا سالميفالي** (Christina Salmivalli، صاحبةُ نموذج أدوار المشاركين وبرنامج KiVa) ولا **دوروثي إسبيلاج** ولا **كين ريغبي** — وهم أعلامُ الحقل ومذكورون في المتن. **وغيابُ سالميفالي أثقلُها**: برنامجُها من أقوى ما اختُبر في الوقاية."

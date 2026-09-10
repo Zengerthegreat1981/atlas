@@ -13,13 +13,13 @@ edges:
 - rel: "belongs_to", target: "sch-occasionalism", target_type: "مدرسة"
 related:
 - id: "thk-malebranche", title: "نيكولا مالبرانش", type: "مفكر"
-- id: "sch-occasionalism", title: "الأوكازيونية (Occasionalism)", type: "مدرسة"
+- id: "sch-occasionalism", title: "الأوكازيونيالية (Occasionalism)", type: "مدرسة"
 - id: "thk-descartes", title: "رينيه ديكارت", type: "مفكر"
-- id: "sch-cartesianism", title: "الديكارتية (Cartesianism)", type: "مدرسة"
-- id: "con-mind-body", title: "إشكالية العقل والجسد", type: "مفهوم"
-- id: "wrk-search-after-truth-malebranche", title: "البحث عن الحقيقة لمالبرانش", type: "عمل"
+- id: "sch-cartesianism", title: "الديكارتية", type: "مدرسة"
+- id: "con-mind-body", title: "مشكلة العقل والجسد", type: "مفهوم"
+- id: "wrk-search-after-truth-malebranche", title: "البحث عن الحقيقة لنيكولا مالبرانش", type: "عمل / كتاب"
 - id: "thk-hume", title: "ديفيد هيوم", type: "مفكر"
-- id: "thk-al-ghazali", title: "أبو حامد الغزالي", type: "مفكر"
+- id: "thk-al-ghazali", title: "أبو حامد محمد بن محمد الغزالي (حجة الإسلام)", type: "مفكر"
 gaps:
   - "**كُتب متنه 2026-09-07.** والفجوةُ المسجَّلة كانت تنصّ على أن «المصادرَ الأولية والتحليل المعجمي والمفاهيمي للمصطلح» غيرُ موثّقة — وقد أُثبت المصدرُ الأولي والمسألةُ التي وُضع لها المفهوم والفرقُ بين شقَّيه."
   - "التقاربُ بين الأوكازيونية الأشعرية (نظريةُ العادة عند الغزالي والباقلاني) والأوكازيونية المالبرانشية معروضٌ هنا بوصفه **تقارباً في البنية**؛ ومسألةُ ما إذا كان ثمّة أثرٌ تاريخي — بوساطة الترجمات اللاتينية — محلُّ خلافٍ في الدراسات ولم أحسمها ولم أُثبت طريقاً للنقل."

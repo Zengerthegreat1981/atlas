@@ -10,7 +10,7 @@ dates: "ألمانيا / بريطانيا · 1904–1988"
 country: "المملكة المتحدة"
 language: "الألمانية / الإنجليزية"
 part: "psychology"
-active_start: null
+active_start: 1904
 active_end: 1988
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
@@ -21,6 +21,7 @@ related:
 gaps:
   - "تفاصيل الخلاف بين أدلر وفوردام (الذي أدى لتأسيس Association of Jungian Analysts عام 1977) تحتاج توثيقاً معمّقاً."
   - "لا يوجد اقتباس مباشر موثوق من *Studies in Analytical Psychology* (1948) بترجمة عربية معتمدة."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («ألمانيا / بريطانيا · 1904–1988») فاستُخرجت: 1904."
 ---
 
 # غيرهارد أدلر

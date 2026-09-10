@@ -22,7 +22,7 @@ related:
 - id: "sch-lockeanism", title: "اللوكية (اللوكية التجريبية)", type: "مدرسة"
 - id: "sch-british-empiricism", title: "التجريبية البريطانية (كمظلة)", type: "مدرسة"
 - id: "axi-tabula-rasa-rule", title: "بديهية اللوح الفارغ (Tabula Rasa Axiom)", type: "بديهية/مبدأ تأسيسي"
-- id: "con-tabula-rasa", title: "اللوح الفارغ", type: "مفهوم"
+- id: "con-tabula-rasa", title: "اللوح الفارغ (Tabula Rasa)", type: "مفهوم"
 gaps:
  - "أُسقط اقتباس («كلّ ميتافيزيقا هي تجريبية منحطة») لتعذّر ردّه إلى نصّ وصفحة."
  - "أُسقطت نسبة إنكار المادّة المستقلّة والإله إليه، وهي مقلوبة: هو أبَّاتي كاثوليكي يميّز نفسه صريحاً عن باركلي."

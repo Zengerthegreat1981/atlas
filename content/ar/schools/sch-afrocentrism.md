@@ -15,8 +15,8 @@ active_start: 1984
 active_end: "مستمر"
 edges: []
 related:
-- id: "sch-pan-africanism", title: "عموم أفريقيا", type: "مدرسة"
-- id: "sch-negritude", title: "الزنوجة", type: "مدرسة"
+- id: "sch-pan-africanism", title: "عموم أفريقيا (Pan-Africanism)", type: "مدرسة"
+- id: "sch-negritude", title: "الزنوجة (Négritude)", type: "مدرسة"
 - id: "sch-afrofeminism", title: "الفلسفة الأفريقية النسوية", type: "مدرسة"
 - id: "thk-asante", title: "موليفي أسانتي", type: "مفكر"
 - id: "thk-cheikh-anta-diop", title: "شيخ أنتا ديوب (المؤسِّس العلمي للأفروسنتريزم)", type: "مفكر"

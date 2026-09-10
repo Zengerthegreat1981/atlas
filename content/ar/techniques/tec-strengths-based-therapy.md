@@ -15,12 +15,12 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-- id: "thk-mseligman", title: "مارتن سليغمان", type: "مفكر"
-- id: "tec-sfbt", title: "العلاج المتمركز على الحلول (SFBT)", type: "تقنية/تدخل علاجي"
+- id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"
+- id: "tec-sfbt", title: "العلاج الموجز المرتكز على الحل (SFBT)", type: "تقنية/تدخل علاجي"
 - id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
 - id: "sch-narrative-therapy", title: "العلاج السردي (Narrative Therapy)", type: "مدرسة"
-- id: "crt-critique-of-resilience-training", title: "نقد تدريب المرونة", type: "نقد خارجي موثَّق"
+- id: "crt-critique-of-resilience-training", title: "نقد تَدْرِيب «الْمَرونة»: مَن يَتَحَمَّل مَسْؤُولِيَّة الْفَشَل النِّظَامِيّ؟", type: "نقد خارجي موثَّق"
 - id: "thk-dennis-saleebey", title: "دينيس ساليبي", type: "مفكر"
 gaps:
   - "**كُتب متنه 2026-09-07** من الفجوات المسجَّلة، وكانت تسمّي المطلوب: **منظورَ القوّة** عند دينيس سالييبي في العمل الإكلينيكي والاجتماعي، والانتقالَ من نموذج العجز إلى تسخير الموارد."

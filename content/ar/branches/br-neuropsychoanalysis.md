@@ -11,7 +11,7 @@ dates: "لندن وكيب تاون · من أواخر التسعينيات"
 active_start: 1999
 active_end: "مستمر"
 language: "الإنجليزية"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-msolms", target_type: "مفكر"
@@ -26,6 +26,7 @@ related:
 gaps:
   - "الجدل الإبستمولوجي حول أحادية الجانب المزدوج (Dual-Aspect Monism) كحل لمسألة العقل والجسد في التحليل النفسي العصبي."
   - "أثر أبحاث الحلم الرمزي وتنشيط نظام البحث الدوباميني (SEEKING System) على مراجعة نظرية فرويد في الأحلام."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 # التحليل النفسي العصبي
 

@@ -11,7 +11,7 @@ dates: "من العشرينات"
 active_start: 1924
 active_end: "مستمر"
 language: "الألمانية / الصينية"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
@@ -20,6 +20,7 @@ related:
 gaps:
   - "الربط بين الأشكال السداسية (Hexagrams) واللاوعي الجمعي ونظرية التزامن غير السببي."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # كتاب التحوّلات (I Ching) والتزامن

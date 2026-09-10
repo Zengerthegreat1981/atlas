@@ -13,11 +13,11 @@ edges:
 - rel: "belongs_to", target: "sch-vienna-circle", target_type: "مدرسة"
 related:
 - id: "thk-rcarnap", title: "رودولف كارناب", type: "مفكر"
-- id: "sch-vienna-circle", title: "حلقة فيينا (Vienna Circle)", type: "مدرسة"
-- id: "con-verification-principle-vienna", title: "مبدأ التحقّق", type: "مفهوم"
-- id: "thk-lwittgenstein", title: "لودفيغ فتغنشتاين", type: "مفكر"
-- id: "thk-heidegger", title: "مارتن هايدغر", type: "مفكر"
-- id: "thk-karl-popper", title: "كارل بوبر", type: "مفكر"
+- id: "sch-vienna-circle", title: "الوضعية المنطقية (حلقة فيينا)", type: "مدرسة"
+- id: "con-verification-principle-vienna", title: "مبدأ التحقق الوضعي التجريبي (Verification Principle)", type: "مفهوم"
+- id: "thk-lwittgenstein", title: "لودفيغ فيتغنشتاين", type: "مفكر"
+- id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+- id: "thk-karl-popper", title: "سير كارل بوبر", type: "مفكر"
 - id: "thk-wquine", title: "ويلارد فان أورمان كواين", type: "مفكر"
 gaps:
   - "**كُتب متنه 2026-09-07.** والفجوتان المسجَّلتان كانتا تنصّان على أن نصَّ ورقة كارناب (1932) والتحليلَ المفاهيمي غيرُ موثّقين، وأن موقفَ فتغنشتاين المقارب لم يُذكر بالاسم — وقد أُثبتت الورقةُ وموقعُ فتغنشتاين والردودُ التي أسقطت المبدأ."

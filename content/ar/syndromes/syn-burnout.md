@@ -12,7 +12,7 @@ active_end: "مستمر"
 language: "متعدد اللغات"
 edges: []
 related:
-- id: "dis-persistent-depressive-disorder", title: "اضطراب الاكتئاب المستمر", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-persistent-depressive-disorder", title: "اضطراب الاكتئاب المستمر (عسر المزاج)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-adjustment-disorders", title: "اضطرابات التكيّف", type: "اضطراب/حالة إكلينيكية"
 - id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
 - id: "con-yerkes-dodson-law", title: "قانون يركيز–دودسون (العلاقة المنحنية بين التوتر والأداء)", type: "مفهوم"

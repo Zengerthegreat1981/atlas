@@ -14,7 +14,7 @@ edges:
 - rel: "belongs_to", target: "sch-neoplatonism", target_type: "مدرسة"
 related:
 - id: "thk-plotinus", title: "أفلوطين", type: "مفكر"
-- id: "thk-porphyry", title: "فرفوريوس", type: "مفكر"
+- id: "thk-porphyry", title: "فرفوريوس الصوري", type: "مفكر"
 - id: "sch-neoplatonism", title: "الأفلاطونية المحدثة (Neoplatonism)", type: "مدرسة"
 - id: "ctx-alexandria-library-hellenism", title: "مدرسة الإسكندرية ومكتبتها الكبرى وتلاقي الثقافات الهيلينستية", type: "سياق/تقليد"
 - id: "thk-hypatia", title: "هيباتيا السكندرية", type: "مفكر"

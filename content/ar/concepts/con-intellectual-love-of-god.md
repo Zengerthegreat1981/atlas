@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-spinozism", target_type: "مدرسة"
 related:
 - id: "thk-spinoza", title: "باروخ سبينوزا", type: "مفكر"
-- id: "wrk-spinoza-ethics", title: "كتاب الأخلاق لباروخ سبينوزا (1677)", type: "عمل"
+- id: "wrk-spinoza-ethics", title: "كتاب الأخلاق لباروخ سبينوزا (1677)", type: "عمل / كتاب"
 - id: "con-sub-specie-aeternitatis", title: "النظر من منظور الأبدية (Sub Specie Aeternitatis)", type: "مفهوم"
 - id: "con-deus-sive-natura", title: "الله أو الطبيعة (Deus Sive Natura)", type: "مفهوم"
 gaps:

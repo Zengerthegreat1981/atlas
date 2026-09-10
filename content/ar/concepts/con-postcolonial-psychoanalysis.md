@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
-- id: "wrk-black-skin-white-masks-fanon", title: "بشرة سوداء أقنعة بيضاء لفرانز فانون", type: "عمل"
+- id: "wrk-black-skin-white-masks-fanon", title: "بشرة سوداء أقنعة بيضاء لفرانز فانون", type: "عمل / كتاب"
 - id: "thk-said", title: "إدوارد سعيد", type: "مفكر"
 - id: "thk-spivak", title: "غاياتري سبيفاك", type: "مفكر"
 - id: "thk-mbembe", title: "أشيل مبيمبي", type: "مفكر"

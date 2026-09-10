@@ -19,8 +19,8 @@ related:
 - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
 - id: "thk-mcierpka", title: "مانفريد شيربكا", type: "مفكر"
-- id: "sch-systemic-family", title: "العلاج الأسري والنظامي", type: "مدرسة"
-- id: "sch-multicultural-counseling", title: "الإرشاد متعدد الثقافات", type: "مدرسة"
+- id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
+- id: "sch-multicultural-counseling", title: "الإرشاد متعدد الثقافات (Multicultural Counseling)", type: "مدرسة"
 gaps:
   - "**أُنشئ هذا الملف 2026-09-08:** كان اسمُ «العلاج النفسي الإيجابي (بسشكيان)» يُستعمل أباً نصّياً في `belongs_to` لملفّ مانفريد شيربكا بلا ملفٍّ يقابله."
   - "**لا ملفَّ في الأطلس لـ**: **نصرت بسشكيان** (Nossrat Peseschkian، 1933–2010) **مؤسِّسُ هذه المدرسة نفسِها** — وهذا أفدحُ غيابٍ في الملفّ: مدرسةٌ بلا ملفٍّ لصاحبها. ولا **حميد بسشكيان** (ابنُه ورئيسُ الرابطة العالمية)."

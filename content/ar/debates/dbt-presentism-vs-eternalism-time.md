@@ -17,7 +17,7 @@ related:
 - id: "thk-dlewis", title: "ديفيد لويس", type: "مفكر"
 - id: "que-presentism-vs-eternalism-time", title: "هل الحاضر وحده موجود حقيقة أم أن الماضي والمستقبل كينونات قائمة؟", type: "سؤال توليدي"
 - id: "con-time", title: "الزمن", type: "مفهوم"
-- id: "sch-analytic-metaphysics", title: "الميتافيزيقا التحليلية", type: "مدرسة"
+- id: "sch-analytic-metaphysics", title: "الميتافيزيقا التحليلية المعاصرة", type: "مدرسة"
 gaps:
   - "A. N. Prior (مؤسس منطق الأزمنة، ومنه Thank Goodness That's Over, 1959) وNed Markosian (A Defense of Presentism, 2004) لا slug مستقل لهما في الأطلس؛ موقف الحاضرية موثّق هنا بالاسم والسنة دون رابط."
   - "لم تُراجع Putnam (1967) وLewis (1986) من نسخة أصلية مباشرة، بل من ملخصات ثانوية موثقة."

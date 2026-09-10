@@ -17,7 +17,7 @@ edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
 - id: "br-person-centered", title: "العلاج المتمركز حول العميل (روجرز)", type: "تيار"
-- id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي", type: "تيار"
+- id: "br-critical-psychoanalysis", title: "التحليل النفسي النقدي (النسوي والكويري وما بعد الكولونيالي)", type: "تيار"
 - id: "dis-gender-identity-disorder-historical", title: "اضطراب الهوية الجنسية التاريخي (Gender Identity Disorder)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-gender-dysphoria", title: "اضطراب الهوية الجنسية (Gender Dysphoria)", type: "اضطراب/حالة إكلينيكية"
 - id: "br-conversion-therapy", title: "العلاج بالتحويل (Reparative Therapy)", type: "تيار"

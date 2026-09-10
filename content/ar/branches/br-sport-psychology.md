@@ -12,7 +12,7 @@ active_start: 1965
 active_end: "مستمر"
 part: "psychology"
 related:
-- id: "thk-andersericson", title: "أندرس إريكسون", type: "مفكر"
+- id: "thk-andersericson", title: "ك. أندرس إريكسون", type: "مفكر"
 - id: "thk-rafaeli-eyth", title: "رافائيل إيدث", type: "مفكر"
 - id: "thk-jim-loehr", title: "جيم لور", type: "مفكر"
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"

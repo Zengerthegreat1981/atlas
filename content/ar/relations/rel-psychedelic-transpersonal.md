@@ -21,7 +21,7 @@ related:
 - id: "con-psychedelic-experience", title: "التجربة السيكوديلية", type: "مفهوم"
 - id: "con-integration-psychedelic", title: "التكامل النفسياني (Integration)", type: "مفهوم"
 - id: "rel-aristotle-positive-psychology", title: "الأخلاق الأرسطية وعلم النفس الإيجابي", type: "علاقة بين مدرستين"
-- id: "rel-ipmb-evidence-based", title: "العلاج النفسي المبني على الأدلة والمقاربات التكاملية: من الجدل إلى التعاون", type: "علاقة بين مدرستين"
+- id: "rel-ipmb-evidence-based", title: "الممارسة المبنية على الأدلة وجدل العوامل المشتركة: هل يعالج البروتوكول أم المعالج؟", type: "علاقة بين مدرستين"
 gaps:
   - "تفاصيل التجارب الأولى لـ LSD في علاج إدمان الكحول (1960s) — عدم دقة التوثيق."
   - "ما إذا كان دابلن قد تأثّر صراحةً بـ 'On Being a Therapist' (Kottler) — لم يوثّق."

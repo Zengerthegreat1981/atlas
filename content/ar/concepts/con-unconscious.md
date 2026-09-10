@@ -13,7 +13,7 @@ related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
 - id: "con-repression", title: "الكبت والآليات الدفاعية الأولية (Repression)", type: "مفهوم"
-- id: "wrk-freud-interpretation-of-dreams", title: "كتاب تفسير الأحلام لسيغموند فرويد (1899)", type: "عمل"
+- id: "wrk-freud-interpretation-of-dreams", title: "كتاب تفسير الأحلام لسيغموند فرويد (1899)", type: "عمل / كتاب"
 - id: "exp-dream-freud", title: "الحُلم عند فرويد: الطريق الملكي إلى اللاَّوعي", type: "خبرة معيشة"
 - id: "trm-free-association", title: "التَّدَاعِي الحُرّ (Free Association)", type: "مصطلح لغوي متنازع عليه"
 - id: "met-unconscious-as-sea", title: "اللَّاَّوِعْي كَبَحْر: استعارة الأَعْماق", type: "استعارة/مجاز مؤسِّس"

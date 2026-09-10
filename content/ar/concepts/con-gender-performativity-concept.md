@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-queer-theory", target_type: "مدرسة"
 related:
 - id: "thk-butler", title: "جوديث بتلر", type: "مفكر"
-- id: "wrk-gender-trouble", title: "إشكالية النوع (Gender Trouble, 1990)", type: "عمل"
+- id: "wrk-gender-trouble", title: "إشكالية النوع (Gender Trouble, 1990)", type: "عمل / كتاب"
 - id: "sch-queer-theory", title: "النظرية الكويرية", type: "مدرسة"
 - id: "con-queer-theory", title: "النظرية الكويرية", type: "مفهوم"
 - id: "thk-jaustin", title: "جون لانغشو أوستن", type: "مفكر"

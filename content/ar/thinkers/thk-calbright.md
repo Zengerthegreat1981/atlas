@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1997
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
 edges:
 - rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
 related:
@@ -19,6 +19,7 @@ related:
 gaps:
   - "الاسم كان مُدرجاً خطأً سابقاً كـ'كارين ألبريت' (Karen Albright) دون سند مصدري يثبت وجودها؛ صُحِّح إلى الباحثة الحقيقية والموثَّقة آن كوبر ألبريت (Ann Cooper Albright)، أستاذة الرقص بكلية أوبرلين."
   - "عنوان كتابها لعام 2013 كان مُدرجاً خطأً باسم ملفَّق 'Engendering Knowledge: Choreography with Body-Mind Centering'؛ لا وجود لهذا الكتاب. العنوان الصحيح هو *Engaging Bodies: The Politics and Poetics of Corporeality* (Wesleyan University Press, 2013)، الفائز بجائزة Selma Jeanne Cohen. صُحِّح وأُضيفت أعمال أخرى موثَّقة (Traces of Light 2007، Modern Gestures 2010، How to Land 2019)."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-somatic-experiencing` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # آن كوبر ألبريت

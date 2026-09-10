@@ -16,7 +16,7 @@ replication_status: "replicated"
 edges:
   []
 related:
-- id: "syn-dysexecutive", title: "متلازمة القصور التنفيذي الجبهي", type: "متلازمة"
+- id: "syn-dysexecutive", title: "متلازمة القصور التنفيذي الجبهي (Dysexecutive Syndrome)", type: "متلازمة"
 - id: "stu-miller-magical-number-seven", title: "دراسة ميلر عن الرقم السحري سبعة وسعة معالجة المعلومات", type: "دراسة وبحث"
 - id: "ins-corsi-block-tapping", title: "اختبار كورسي للنقر على المكعبات والذاكرة الفضائية (Corsi Block)", type: "أداة قياس"
 gaps:

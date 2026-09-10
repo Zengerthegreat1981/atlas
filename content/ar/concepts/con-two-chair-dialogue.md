@@ -20,7 +20,7 @@ related:
 - id: "thk-greenberg-lisa", title: "ليزلي س. غرينبرغ", type: "مفكر"
 - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
 - id: "con-empty-chair", title: "تقنية الكرسي الفارغ", type: "مفهوم"
-- id: "con-primary-emotion", title: "الانفعالات الأولية", type: "مفهوم"
+- id: "con-primary-emotion", title: "الانفعالات الأولية (Adaptive / Primary Emotions)", type: "مفهوم"
 - id: "tec-process-experiential", title: "العلاج التجريبي-العملياتي", type: "تقنية/تدخل علاجي"
 gaps:
   - "الأدلة التجريبية RCT على فعالية حوار الكرسيين موجودة في دراسات Greenberg et al. (1990s–2000s)؛ لم تُراجع منهجياً في هذه المسودة."

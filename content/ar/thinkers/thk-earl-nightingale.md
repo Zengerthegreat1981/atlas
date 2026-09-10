@@ -16,7 +16,7 @@ active_end: 1989
 edges: []
 related:
 - id: "thk-wayne-dyer", title: "واين داير", type: "مفكر"
-- id: "wrk-power-of-positive-thinking", title: "قوة التفكير الإيجابي (نورمان فنسنت بيل)", type: "عمل / كتاب"
+- id: "wrk-power-of-positive-thinking", title: "قوة التفكير الإيجابي", type: "عمل / كتاب"
 - id: "wrk-think-and-grow-rich", title: "فكر وازدد ثراءً: فلسفة الإنجاز الكلاسيكية", type: "عمل / كتاب"
 gaps:
   - "لا يوجد slug مدرسة (`sch-`) معتمد لـ'علم النفس الشعبي/التنمية الذاتية'. أُفرغ edges.belongs_to بدل استخدام نص حر."

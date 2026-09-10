@@ -19,7 +19,7 @@ related:
 - id: "tec-ifs", title: "علاج منظومة الأسرة الداخلية (IFS)", type: "تقنية/تدخل علاجي"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-federn", title: "بول فيديرن", type: "مفكر"
-- id: "dis-dissociative-identity", title: "اضطراب الهوية التفارقي", type: "اضطراب"
+- id: "dis-dissociative-identity", title: "اضطراب الهوية التفارقي", type: "اضطراب/حالة إكلينيكية"
 evidence_level: "experimental"
 gaps:
   - "الأصول التحليلية لمفهوم حالات الأنا عند بول فيديرن (Paul Federn) وإيدوارد فيدلر."

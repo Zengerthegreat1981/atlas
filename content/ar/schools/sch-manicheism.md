@@ -18,9 +18,9 @@ edges:
 related:
 - id: "sch-zoroastrian-philosophy", title: "الزرادشتية الفلسفية", type: "مدرسة"
 - id: "sch-zurvanism", title: "الزروانية", type: "مدرسة"
-- id: "sch-gnosticism", title: "الغنوصية القديمة", type: "مدرسة"
+- id: "sch-gnosticism", title: "الغنوصية القديمة (بفروعها)", type: "مدرسة"
 - id: "sch-mazdakism", title: "المزدكية", type: "مدرسة"
-- id: "sch-patristics", title: "الآبائية المسيحية", type: "مدرسة"
+- id: "sch-patristics", title: "الآبائية المسيحية (Patristics)", type: "مدرسة"
 - id: "wrk-kephalaia", title: "الرؤوس (كِفَالا - Kephalaia)", type: "عمل / كتاب"
 gaps:
   - "نصوص مانوي الأصلية فقدت (باستثناء 'كفالايا' القبطية و'هوارسفيدان' الفارسية) — تحتاج مراجعة من المصدر الأولي."

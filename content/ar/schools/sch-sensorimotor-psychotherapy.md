@@ -2,7 +2,7 @@
 slug: "sch-sensorimotor-psychotherapy"
 id: "SCH-0368"
 type: "مدرسة"
-part: "psychology"
+part: "philosophy"
 level: "متقدم"
 title: "العلاج النفسي حسي-حركي (Sensorimotor Psychotherapy)"
 en: "Sensorimotor Psychotherapy (SP)"
@@ -21,7 +21,7 @@ edges:
 - rel: "evolved_from", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "influenced_by", target: "sch-somatic-experiencing", target_type: "مدرسة"
 related:
-- id: "con-somatic-experiencing-popular", title: "التجربة الجسدية وتفريغ شحنة الصدمة", type: "مفهوم"
+- id: "con-somatic-experiencing-popular", title: "التجربة الجسدية وتفريغ شحنة الصدمة (Somatic Experiencing)", type: "مفهوم"
 - id: "con-trauma", title: "الصدمة النفسية في التحليلية", type: "مفهوم"
 - id: "con-dissociation", title: "الانفصال (Dissociation)", type: "مفهوم"
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
@@ -40,6 +40,7 @@ related:
 gaps:
   - "العلاقة بين SP وHakomi (المقاربة الجسدية السابقة لـ Ogden) موثّقة جزئياً في الأدبيات."
   - "الأدلة التجريبية لـ SP ما تزال في طور النمو، مع تجارب محدودة."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-phenomenology-somatic` موسومٌ «philosophy» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 # العلاج النفسي حسي-حركي (Sensorimotor Psychotherapy)
 

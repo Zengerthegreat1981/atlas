@@ -18,7 +18,7 @@ related:
 - id: "tec-cbt-emo-coping-statements", title: "عبارات التأقلم", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
 - id: "tec-relapse-prevention", title: "منع الانتكاس (RP)", type: "تقنية/تدخل علاجي"
-- id: "syn-craving-urge", title: "الرغبة الملحّة", type: "متلازمة"
+- id: "syn-craving-urge", title: "الرغبة الملحّة (craving)", type: "متلازمة"
 - id: "dis-frotteuristic-disorder", title: "اضطراب الفروتيوريزم (Frotteuristic Disorder)", type: "اضطراب/حالة إكلينيكية"
 - id: "con-panopticon-surveillance", title: "البانوبتيكون ومجتمع المراقبة (The Panopticon)", type: "مفهوم"
 gaps:

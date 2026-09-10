@@ -5,7 +5,7 @@ type: "مدرسة"
 part: "philosophy"
 level: "متوسط"
 title: "تروك لام (البوذية الفيتنامية)"
-en: "Trúc Lâm (竹林، Vietnamese Buddhism)"
+en: "Trúc Lâm (竹林, Vietnamese Buddhism)"
 crumb: "الفلسفة ← البوذية ← تروك لام (البوذية الفيتنامية)"
 dates: "فيتنام · من القرن 11 م إلى اليوم"
 country: "فيتنام"
@@ -19,7 +19,7 @@ edges:
 related:
 - id: "sch-chan", title: "تشان (الصينية)", type: "مدرسة"
 - id: "sch-tiantai", title: "تيانتاي (الصينية)", type: "مدرسة"
-- id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها", type: "مدرسة"
+- id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها (طبيعة البوذا)", type: "مدرسة"
 gaps:
   - "نصوص Trần Nhân Tông (Cư trần lạc đạo، Đắc thú lâm tuyền thành đạo ca) تحتاج مراجعة من المصدر الأولي."
   - "التفريق بين Trúc Lâm ومدرسة Thiền الفيتنامية الحديثة يستحق بحثاً نقدياً."

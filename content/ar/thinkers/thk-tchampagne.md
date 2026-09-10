@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1995
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 crumb: "التكامل الحسي ← تطوير ← تينا شامبانيا"
 edges:
 - rel: "belongs_to", target: "br-sensory-integration", target_type: "تيار"
@@ -22,6 +22,7 @@ gaps:
   - "لا توجد سيرة ذاتية منشورة لـ 'Tina Champagne' في WPS أو USC Chan (حتى آب 2026)."
   - "الاحتمال: الاسم مُدخل من بيانات ممارسي OT في خدمات الصحة النفسية."
   - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'Sensory Modulation' عام."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-sensory-integration` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
 
 # تينا شامبانيا

@@ -15,7 +15,7 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
-- id: "br-daseins", title: "التحليل الوجودي", type: "تيار"
+- id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
 - id: "thk-dilthey", title: "فيلهلم دلتاي", type: "مفكر"
 - id: "thk-weber", title: "ماكس فيبر", type: "مفكر"
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"

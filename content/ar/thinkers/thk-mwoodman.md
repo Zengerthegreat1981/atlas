@@ -5,21 +5,23 @@ type: "مفكر"
 level: "متقدم"
 title: "ماريون وودمان"
 en: "Marion Woodman"
-crumb: "مدرسة التحليل النفسي ← الناس ← ماريون وودمان"
+crumb: "التحليل النفسي ← الناس ← ماريون وودمان"
 dates: "كندا · 1928–2018"
 country: "كندا"
 language: "الإنجليزية"
 part: "psychology"
-active_start: null
+active_start: 1928
 active_end: 2018
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-lowen", title: "ألكسندر لوين", type: "مفكر"
-- id: "con-feminine-principle", title: "المبدأ الأنثوي", type: "مفهوم"
+- id: "con-feminine-principle", title: "المبدأ الأنثوي وتجسيد الجسد", type: "مفهوم"
 gaps:
   - "تفاصيل علاجها الشخصي من anorexia وkidney collapse — موثّقة في كتبها لكن تحتاج قراءة معمّقة."
+  - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («كندا · 1928–2018») فاستُخرجت: 1928."
+  - "**وُحِّد مسارُ التنقّل 2026-09-10:** كان «مدرسة التحليل النفسي» وصار «التحليل النفسي» — لأنّ الجذرَ كان منقسماً بين صيغتين للشيء نفسِه، فيعرض فهرسُ التصفّح موضعين لموضعٍ واحد."
 ---
 
 # ماريون وودمان

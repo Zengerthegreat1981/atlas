@@ -19,7 +19,7 @@ related:
 - id: "tec-act-acc-creative-hopelessness", title: "اليأس الخلّاق", type: "تقنية/تدخل علاجي"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "thk-lstevenhayes", title: "ستيفن سي. هايز", type: "مفكر"
-- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب"
+- id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-prolonged-exposure", title: "التعرض المطوّل (PE)", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا توجد دراسة محددة موثّقة في الأطلس تختبر التعرض الانفعالي بمعزل عن باقي حزمة ACT، فـevidence_level تحفظي (experimental) وليس مبنياً على تجربة معزولة."

@@ -20,8 +20,8 @@ related:
 - id: "thk-jmacy", title: "جوانا مايسي", type: "مفكر"
 - id: "tec-forest-therapy", title: "العلاج بالغابات (Forest Therapy)", type: "تقنية/تدخل علاجي"
 - id: "syn-eco-anxiety", title: "قلق المناخ (Eco-Anxiety)", type: "متلازمة"
-- id: "con-deep-ecology-naess", title: "الإيكولوجيا العميقة (نايس)", type: "مفهوم"
-- id: "sch-transpersonal", title: "علم النفس عبر الشخصي", type: "مدرسة"
+- id: "con-deep-ecology-naess", title: "الإيكولوجيا العميقة والقيمة الذاتية للبيئة (Deep Ecology)", type: "مفهوم"
+- id: "sch-transpersonal", title: "علم النفس عبر الشخصي (Transpersonal Psychology)", type: "مدرسة"
 gaps:
   - "**رابطٌ لم يُدرَج:** «أخلاقُ الأرض» لليوبولد مذكورةٌ في المتن، وملفُّها `con-land-ethic-leopold` **مؤرشَفٌ في `_merged/` لا معتمَد** — فلم يُربَط. وهذا الملفُّ من مواضع الازدواج المُدمَجة سابقاً، ويحتاج مراجعةً إن أُريد إحياؤه."
   - "**أُنشئ هذا الملف 2026-09-08:** كان اسمان نصّيان — «العلاج البيئي» و«علم النفس الإيكولوجي» — يُستعملان أبوَين في `belongs_to` لـ`tec-forest-therapy` و`thk-jmacy` و`syn-eco-anxiety` بلا ملفٍّ يقابلهما. وجُمعا في ملفٍّ واحدٍ لأنهما في الاستعمال حقلٌ واحد."

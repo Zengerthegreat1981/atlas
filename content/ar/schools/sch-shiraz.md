@@ -14,11 +14,11 @@ cultural_origin: "islamic-arabic"
 active_start: 1250
 active_end: 1650
 edges:
-- rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 related:
 - id: "sch-ishraqiyya", title: "الإشراقية", type: "مدرسة"
 - id: "sch-isfahan", title: "مدرسة أصفهان الفلسفية", type: "مدرسة"
-- id: "sch-transcendent-theosophy", title: "الحكمة المتعالية", type: "مدرسة"
+- id: "sch-transcendent-theosophy", title: "الحكمة المتعالية (الملا صدرا)", type: "مدرسة"
 - id: "thk-ghiyath-al-din-dashtaki", title: "غياث الدين منصور الدشتكي الشيرازي", type: "مفكر"
 gaps:
   - "استمرارية المدرسة من القرن 7 هـ إلى ظهور الملا صدرا (القرن 11 هـ) تحتاج بحثاً أرشيفاً."

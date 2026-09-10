@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-suhrawardi", title: "شهاب الدين يحيى بن حبش السهروردي (شيخ الإشراق)", type: "مفكر"
 - id: "sch-ishraqiyya", title: "الإشراقية", type: "مدرسة"
-- id: "wrk-hikmat-al-ishraq-suhrawardi", title: "حكمة الإشراق للسهروردي", type: "عمل"
+- id: "wrk-hikmat-al-ishraq-suhrawardi", title: "حكمة الإشراق للسهروردي", type: "عمل / كتاب"
 - id: "thk-ibn-arabi", title: "محيي الدين بن عربي (الشيخ الأكبر)", type: "مفكر"
 gaps:
   - "المصادر الأولية والتحليل المعجمي والمفاهيمي لتطور المصطلح، ولا سيما صياغة هنري كوربان الفرنسية «Mundus Imaginalis» في القرن العشرين نقلاً عن التراث الإشراقي وابن عربي."

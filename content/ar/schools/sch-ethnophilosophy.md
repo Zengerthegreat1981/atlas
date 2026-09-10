@@ -15,7 +15,7 @@ active_start: 1945
 active_end: 1990
 edges: []
 related:
-- id: "sch-sage-philosophy", title: "فلسفة الحكيم", type: "مدرسة"
+- id: "sch-sage-philosophy", title: "فلسفة الحكيم (Sage Philosophy)", type: "مدرسة"
 - id: "sch-ubuntu", title: "فلسفة أوبونتو المعاصرة", type: "مدرسة"
 - id: "sch-african-professional-philosophy", title: "الفلسفة الأفريقية المهنية/الأكاديمية", type: "مدرسة"
 - id: "con-omoluabi-yoruba-ethics", title: "الأومولوابي والإنسان الفاضل في أخلاق اليوروبا (Omoluabi)", type: "مفهوم"

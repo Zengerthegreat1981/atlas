@@ -18,7 +18,7 @@ related:
 - id: "thk-leibniz", title: "غوتفريد فيلهلم لايبنتز", type: "مفكر"
 - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
 - id: "sch-leibnizianism", title: "اللايبنتزية", type: "مدرسة"
-- id: "con-best-of-all-possible-worlds", title: "أفضل العوالم الممكنة", type: "مفهوم"
+- id: "con-best-of-all-possible-worlds", title: "أفضل العوالم الممكنة (Best of All Possible Worlds)", type: "مفهوم"
 - id: "con-monad", title: "المونادات (Monades)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثّق من 'العقلانية اللاهوتية' (Theologia Naturalis, 1736-7)."

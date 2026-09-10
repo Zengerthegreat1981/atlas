@@ -10,10 +10,10 @@ part: "psychology"
 active_start: 1912
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "br-jungian", target_type: "مدرسة"
+- rel: "relates_to", target: "br-jungian", target_type: "تيار"
 related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-- id: "con-archetype", title: "الأركيتيب (النموذج الأصلي)", type: "مفهوم"
+- id: "con-archetype", title: "النموذج الأصلي (Archetype)", type: "مفهوم"
 - id: "met-cajal-butterflies-soul", title: "فراشات الروح: استعارة كاخال للتشابك والخلايا العصبية", type: "استعارة/مجاز مؤسِّس"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: ماري-لويزه فون فرانتس (thk-von-franz)."

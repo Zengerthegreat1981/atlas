@@ -25,7 +25,7 @@ related:
 - id: "evt-drapetomania-cartwright-1851", title: "صياغة صموئيل كارترايت لتشخيص درابتومانيا ومرضنة هروب العبيد في الجنوب الأمريكي", type: "حدث تاريخي"
 - id: "dbt-mental-illness-vs-problem", title: "المرض العقلي: مرض أم مشكلة حياتية؟", type: "جدل"
 - id: "crt-forced-treatment-ethics", title: "أخلاقيات العلاج القسري", type: "نقد خارجي موثَّق"
-- id: "dbt-mental-illness-brain-disease", title: "جِدَل الْمَرَض النَّفْسِيّ كَمَرَض دِمَاغ", type: "جدل"
+- id: "dbt-mental-illness-brain-disease", title: "جدل المرض النفسي كمرض دماغ: الاختزال العصبي وحدوده", type: "جدل"
 - id: "dbt-mental-illness-social-construction", title: "جدل التصنيف النفسي كبناء اجتماعي: روزنهان ضد سبيتزر", type: "جدل"
 - id: "ctx-deinstitutionalization-psychiatric-reform", title: "حركة إلغاء المصحات النفسية والطب النفسي المجتمعي", type: "سياق/تقليد"
 gaps:

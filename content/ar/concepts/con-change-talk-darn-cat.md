@@ -15,7 +15,7 @@ related:
 - id: "sch-motivational-interviewing", title: "المقابلة التحفيزية (Motivational Interviewing)", type: "مدرسة"
 - id: "thk-wmiller", title: "ويليام ميلر (William R. Miller)", type: "مفكر"
 - id: "thk-rollnick", title: "ستيفن رولنيك", type: "مفكر"
-- id: "wrk-miller-rollnick-motivational-interviewing", title: "كتاب المقابلة التحفيزية: مساعدة الناس على التغيير لميلر ورولنيك (1991)", type: "عمل"
+- id: "wrk-miller-rollnick-motivational-interviewing", title: "كتاب المقابلة التحفيزية: مساعدة الناس على التغيير لميلر ورولنيك (1991)", type: "عمل / كتاب"
 - id: "con-motivational-interviewing-oars", title: "تقنية OARS في المقابلة التحفيزية", type: "مفهوم"
 gaps:
   - "لا يوجد ربط موثق بمقياس كمي معتمد لقياس نسبة حديث التغيير إلى حديث الاستمرار داخل الجلسة."

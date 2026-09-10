@@ -22,7 +22,7 @@ edges:
 related:
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
-- id: "con-grief", title: "الحزن كمسار للتفريد", type: "مفهوم"
+- id: "con-grief", title: "الحزن كمسار للتفرّد", type: "مفهوم"
 - id: "con-attachment-styles-popular", title: "أنماط التعلق في العلاقات المعاصرة (الآمن، القلق، التجنبي)", type: "مفهوم"
 - id: "con-interpersonal-unconscious", title: "اللاوعي بين الأشخاص", type: "مفهوم"
 - id: "thk-mweissman", title: "ميري وايسمان", type: "مفكر"

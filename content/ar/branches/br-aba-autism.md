@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "psychology"
 related:
 - id: "crt-neurodiversity-aba-critique", title: "نقد حقوق ذوي الإعاقة/التنوع العصبي لـ ABA: قمع، لا علاج", type: "نقد خارجي موثَّق"
-- id: "con-behavioral-activation", title: "التنشيط السلوكي", type: "مفهوم"
+- id: "con-behavioral-activation", title: "التنشيط السلوكي (مفهوم علاجي)", type: "مفهوم"
 - id: "crt-disability-studies-critique", title: "نقد دراسات الإعاقة للتصنيف التشخيصي: DSM كأداة تمييز", type: "نقد خارجي موثَّق"
 gaps:
   - "تاريخ Lovaas's UCLA Young Autism Project يستحق توثيقاً."

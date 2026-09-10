@@ -8,9 +8,9 @@ en: "Conscientization (Conscientização)"
 crumb: "أطر غير غربية ← المفاهيم ← الوعي النقدي"
 active_start: 1967
 active_end: "مستمر"
-part: "psychology"
+part: "philosophy"
 edges:
-- rel: "belongs_to", target: "br-liberation-psychology", target_type: "مدرسة"
+- rel: "belongs_to", target: "br-liberation-psychology", target_type: "تيار"
 related:
 - id: "thk-pfreire", title: "باولو فريري", type: "مفكر"
 - id: "thk-imartinbaro", title: "إغناثيو مارتن-بارو", type: "مفكر"
@@ -19,6 +19,7 @@ gaps:
   - "العلاقة بين الوعي النقدي والمناهج النسوية اللاحقة (Bell Hooks) لم تُوثّق بدقة."
   - "وُجد ذكر صريح لـ«Bonnie Duran» بجانب إدواردو دوران في المتن (فقرة «في علم النفس المناهض للاستعمار»)، لكن لا يوجد ملف thk- مطابق لها في الأطلس — طُلب slug جديد في requests-minimax.md."
   - "wrk-freire-pedagogy-oppressed كان مربوطاً سابقاً رغم أن عنوان العمل («تعليم المضطهدين») غير مذكور حرفياً في متن هذا الملف — أُزيل الرابط لعدم التبرير النصي، رغم كونه العمل المحوري لفريري."
+  - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-liberation-psychology` موسومٌ «philosophy» — فوُحِّد على وسم الأب."
 ---
 
 # الوعي النقدي (Conscientização)

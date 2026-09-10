@@ -23,7 +23,7 @@ related:
 - id: "con-optimism", title: "التفاؤل", type: "مفهوم"
 - id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"
 - id: "con-learned-helplessness", title: "العجز المتعلم (Learned Helplessness)", type: "مفهوم"
-- id: "stu-seligman-maier-learned-helplessness", title: "تجارب أوفيرماير وماير وسليجمان الأصلية في العجز المُتعلَّم لدى الكلاب", type: "دراسة"
+- id: "stu-seligman-maier-learned-helplessness", title: "تجارب أوفيرماير وماير وسليجمان الأصلية في العجز المُتعلَّم لدى الكلاب", type: "دراسة وبحث"
 - id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
 gaps:
   - "لم تُثبت في هذه المراجعة بيانات نشر أي ترجمة عربية للكتاب (اسم المترجم، الناشر، سنة الصدور)، فلم تُذكر ترجمة عربية في المتن ولا في المصادر."

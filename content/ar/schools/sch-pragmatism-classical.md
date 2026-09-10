@@ -15,7 +15,7 @@ active_end: 1930
 cultural_origin: "anglo-american"
 edges:
 - rel: "evolved_into", target: "sch-neopragmatism", target_type: "مدرسة"
-- rel: "belongs_to", target: "sch-american-idealism", target_type: "مظلة"
+- rel: "belongs_to", target: "sch-american-idealism", target_type: "مدرسة"
 related:
 - id: "thk-peirce", title: "تشارلز ساندرز بيرس", type: "مفكر"
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
