@@ -10,7 +10,7 @@ country: "الولايات المتحدة / عالمي"
 language: "متعدد"
 active_start: 1975
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 related:
 - id: "thk-patdeegan", title: "بات ديغان", type: "مفكر"
@@ -21,6 +21,7 @@ related:
 gaps:
   - "تاريخ 'Consumer/Survivor Movement' لم يُراجع من مصدر أولي."
   - "الفرق بين Peer Support وMutual Aid يستحق توثيقاً."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» — الدعمُ النظيرُ ممارسةٌ في التأهيل النفسي-الاجتماعي. "
 ---
 
 # الدعم النظير

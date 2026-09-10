@@ -10,7 +10,7 @@ country: "أستراليا / الولايات المتحدة / عالمي"
 language: "إنجليزية"
 active_start: 1990
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 related:
 - id: "thk-mtalmon", title: "موشيه تالمون", type: "مفكر"
 - id: "thk-wdryden", title: "ويندي دريدن", type: "مفكر"
@@ -20,6 +20,7 @@ related:
 gaps:
   - "تاريخ الدورات (Talbot, 1990) يستحق توثيقاً."
   - "الفرق بين SST وWalk-in Therapy يستحق توثيقاً."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» — العلاجُ بجلسةٍ واحدةٍ صيغةٌ علاجيةٌ إكلينيكية. "
 ---
 
 # العلاج بجلسة واحدة

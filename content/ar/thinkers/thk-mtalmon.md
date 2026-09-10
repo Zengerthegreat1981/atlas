@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1985
 active_end: 2010
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-single-session-therapy", target_type: "تيار"
 related:
@@ -21,6 +21,7 @@ related:
 gaps:
   - "لم يُعثر على سنة ميلاد موشيه تالمون في مصدر أولي أو ثانوي متاح."
   - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-single-session-therapy` موسومٌ «philosophy» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» تبعاً لأبٍ كان موسوماً «philosophy» خطأً؛ وصُحِّح الأبُ فصُحِّح معه."
 ---
 
 # موشيه تالمون

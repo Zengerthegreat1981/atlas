@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1995
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-single-session-therapy", target_type: "تيار"
 related:
@@ -21,6 +21,7 @@ related:
 - id: "thk-wbennett", title: "وين بينيت", type: "مفكر"
 gaps:
   - "سنة ميلاده لم تظهر في أي من المصادر المتاحة (سيرته المهنية توثّق نشاطه من التسعينيات فقط)."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» تبعاً لأبٍ كان موسوماً «philosophy» خطأً؛ وصُحِّح الأبُ فصُحِّح معه."
 ---
 
 # مايكل ف. هويت

@@ -2,10 +2,11 @@
   "version": "0.0.1",
   "configurations": [
     {
-      "name": "dashboard",
+      "name": "atlas",
       "runtimeExecutable": "python3",
-      "runtimeArgs": ["-m", "http.server", "8777", "--directory", "/Users/minamoheb/Desktop"],
-      "port": 8777
+      "runtimeArgs": ["-m", "http.server", "8778", "--directory", "/Users/mina/Desktop/Atlas"],
+      "port": 8778,
+      "url": "http://localhost:8778/index.html"
     }
   ]
 }

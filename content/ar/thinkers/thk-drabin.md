@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2010
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 crumb: "العلاج الأسري المرتكز على التعلق (ABFT) ← الناس ← ديان رابين"
 edges:
 - rel: "belongs_to", target: "br-abft", target_type: "تيار"
@@ -21,6 +21,7 @@ gaps:
   - "الكتاب المذكور *Attachment-Based Family Therapy for Adolescents* (2015) لا يُطابق أي عنوان منشور فعلي تم العثور عليه؛ العناوين الموثّقة لـ Diamond, Diamond & Levy هي *Attachment-Based Family Therapy for Depressed Adolescents* (APA، 2014) ومقالة *Attachment-based family therapy for depressed and suicidal adolescents: theory, clinical model and empirical support* (2015)، وكلاهما لا يُنسب فيه أي مؤلف باسم ديان رابين."
   - "سنوات الميلاد لم تُراجع من مصدر أولي، ولا يوجد تاريخ ميلاد أو ملف تعريف أكاديمي/مؤسسي يمكن التحقق منه لهذا الاسم."
   - "لا يوجد اقتباس مباشر موثوق منسوب لهذا الشخص."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» تبعاً لأبٍ كان موسوماً «philosophy» خطأً؛ وصُحِّح الأبُ فصُحِّح معه."
 ---
 
 # ديان رابين

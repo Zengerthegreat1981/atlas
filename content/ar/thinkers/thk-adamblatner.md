@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1970
 active_end: 2021
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-psychodrama", target_type: "تيار"
 related:
@@ -24,6 +24,7 @@ gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Acting-In* (1973) بترجمة عربية معتمدة."
   - "ملاحظة سابقة زعمت إزالة روابط مارسيا ماركس/بول هولمز/بيتر كيلرمان إلى المسودات؛ تبيّن عند المراجعة أن الملفات الثلاثة (thk-marciamarx, thk-paulholmes, thk-peterkellermann) موجودة فعلياً في content/ar/thinkers، فأُبقيت الروابط والملاحظة القديمة غير دقيقة."
   - "تصحيح: سنة الوفاة كانت مُدرجة خطأً 2020 في نسخة سابقة؛ الصحيح وفق ويكيبيديا وموقع Blatner.com هو 1 أكتوبر 2021."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» تبعاً لأبٍ كان موسوماً «philosophy» خطأً؛ وصُحِّح الأبُ فصُحِّح معه."
 ---
 
 # آدم بلاتنر

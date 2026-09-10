@@ -228,6 +228,198 @@ def main():
     bad("فجوةٌ تدّعي غيابَ ملفٍّ موجود", len(stale), stale, fatal=False) if stale \
         else ok("لا فجوةَ تدّعي غيابَ موجود")
 
+    # ══════════════════════════════════════════════════════════════════
+    # فحوصٌ أُضيفت 2026-09-10 بعد مراجعةٍ ختاميةٍ كشفت أخطاءً لم يكن أيٌّ
+    # من الفحوص السابقة يراها: أنسابٌ مختومةٌ قالبياً، وحروفُ نسبٍ معكوسةٌ
+    # زمنياً، و51 مجموعةً مكرَّرة، وslugs تحمل اسمَ شخصٍ آخر. وكلُّ فحصٍ
+    # هنا يمنع رجوعَ خللٍ **وقع فعلاً** لا خللاً متوهَّماً.
+    # ══════════════════════════════════════════════════════════════════
+    import unicodedata as _ud
+
+    def _redirect(s):
+        n = d[s]
+        return bool(n.get("redirect_to")) or n.get("status") == "quarantined" \
+            or "إحالة" in (n.get("title") or "") or "حجر" in (n.get("title") or "")
+
+    def _yr(v):
+        try: return int(v)
+        except (TypeError, ValueError): return None
+
+    print("\n[10] سلامةُ الأضلاع كلِّها (لا `belongs_to` وحده)")
+    alld = [(s, e[0], e[1]) for s, n in d.items() for e in n.get("edges", []) if e[1] not in slugs]
+    bad("حرفٌ هدفُه ليس ملفاً قائماً", len(alld), [f"{a} —{b}→ {c}" for a, b, c in alld]) if alld \
+        else ok("كلُّ حرفٍ في `edges` هدفُه ملفٌّ قائم")
+    mm = [(s, e[1], e[2], d[e[1]]["type"]) for s, n in d.items() for e in n.get("edges", [])
+          if e[1] in slugs and e[2] and e[2] != d[e[1]].get("type")]
+    bad("`target_type` يخالف نوعَ الهدف", len(mm), [f"{a}→{b}: «{c}» ≠ «{e}»" for a, b, c, e in mm]) \
+        if mm else ok("`target_type` مطابقٌ لنوع الهدف في كلِّ حرف")
+
+    print("\n[11] حروفُ النسب التاريخي")
+    LIN = {"evolved_into", "evolved_from", "superseded_by", "split_into", "absorbed_by"}
+    nonsch = [(s, e[0], e[1]) for s, n in d.items() for e in n.get("edges", [])
+              if e[0] in LIN and e[1] in slugs and not e[1].startswith(("sch-", "br-"))]
+    ALLOW_NONSCH = {("sch-systemic-family", "split_into", "tec-structural-family-therapy"),
+                    ("sch-systemic-family", "split_into", "tec-strategic-family-therapy"),
+                    ("sch-behaviorism", "evolved_into", "con-applied-behavior-analysis")}
+    nonsch = [x for x in nonsch if tuple(x) not in ALLOW_NONSCH]
+    bad("حرفُ نسبٍ هدفُه ليس مدرسةً/تيّاراً", len(nonsch),
+        [f"{a} —{b}→ {c}" for a, b, c in nonsch]) if nonsch \
+        else ok("كلُّ حرفِ نسبٍ هدفُه مدرسةٌ أو تيّار", info=f"{len(ALLOW_NONSCH)} مُستثنىً بحكمٍ مُعلَن")
+    ana = []
+    for s, n in d.items():
+        for e in n.get("edges", []):
+            if e[0] not in LIN or e[1] not in slugs: continue
+            a, p2 = _yr(n.get("active_start")), _yr(d[e[1]].get("active_start"))
+            if a is None or p2 is None: continue
+            if e[0] == "evolved_from" and p2 > a + 30: ana.append(f"{s}[{a}] ←{e[0]}— {e[1]}[{p2}]")
+            elif e[0] != "evolved_from" and p2 < a - 30: ana.append(f"{s}[{a}] —{e[0]}→ {e[1]}[{p2}]")
+    bad("حرفُ نسبٍ معكوسٌ زمنياً", len(ana), ana) if ana \
+        else ok("لا حرفَ نسبٍ يجعل المتقدِّمَ ثمرةً للمتأخّر")
+
+    print("\n[12] الأنسابُ المختومةُ قالبياً")
+    CBTW = ("المعرفي السلوكي", "المعرفية السلوكية", "المعرفي-السلوكي", "CBT", "العلاج المعرفي")
+    st = []
+    for s, n in d.items():
+        if s.split("-")[0] not in ("syn", "dis") : continue
+        if not any(e[0] == "belongs_to" and e[1] == "sch-cognitive-behavioral" for e in n.get("edges", [])):
+            continue
+        st.append(s)
+    bad("متلازمةٌ/اضطرابٌ ينتمي إلى CBT (ختمٌ قالبيّ)", len(st), st) if st \
+        else ok("لا متلازمةَ مختومةً بالانتماء إلى CBT")
+    # يكفي أن يطابق `part` **أحدَ** آبائه: عقدةٌ لها أبوان في قسمين مختلفين
+    # (كأكابتشوك تحت الكونفوشية النفسية والكونفوشية الحديثة) تجمع القسمين
+    # بطبعها، فلا يصحُّ إفشالُها على مخالفةِ أحدِهما.
+    par2 = collections.defaultdict(list)
+    for s, n in d.items():
+        for e in n.get("edges", []):
+            if e[0] == "belongs_to" and e[1] in slugs:
+                par2[s].append(e[1])
+    ppm = []
+    for s, ps in par2.items():
+        if d[s].get("part") in ("bridge", None):
+            continue
+        cand = [p for p in ps if d[p].get("part") not in ("bridge", None)]
+        if cand and d[s]["part"] not in {d[p]["part"] for p in cand}:
+            ppm.append(f"{s} ({d[s]['part']}) ⊂ " + " / ".join(f"{p} ({d[p].get('part')})" for p in cand))
+    bad("`part` يخالف وسمَ الأب", len(ppm), ppm) if ppm \
+        else ok("`part` مطابقٌ لوسم الأب في كلِّ العقد")
+
+    print("\n[13] التكرار")
+    def _na(t):
+        t = re.sub(r'[ً-ْٰٖ-ٟ]', '', t or '')
+        t = re.sub(r'[إأآٱ]', 'ا', t); t = re.sub(r'[ىي]', 'ي', t)
+        t = t.replace('ة', 'ه').replace('ـ', '')
+        t = re.sub(r'\s*\(.*?\)', '', t); t = re.sub(r'\s*—.*$', '', t)
+        return re.sub(r'[^\w\s]', '', re.sub(r'\s+', ' ', t)).strip()
+    def _ne(t):
+        t = _ud.normalize("NFKD", t or "").encode("ascii", "ignore").decode().lower()
+        return re.sub(r'\s+', ' ', re.sub(r'[^a-z0-9 ]', ' ', t)).strip()
+    # أزواجٌ رُوجعت وتقرّر **عدمُ** دمجها بحكمٍ تحريريٍّ مُعلَن (المرحلة 3)
+    ALLOW_DUP = {
+        ("con-li", "con-li-principle-neoconfucian"), ("con-jouissance", "con-pleasure"),
+        ("con-anxiety", "con-anxiety-existential"),
+        ("con-alienation", "con-alienation-marxist-vs-existentialist"),
+        ("thk-heidegger", "thk-heidegger-technology"),
+        ("br-existential-humanistic-american", "br-humanistic"),
+        ("thk-cwhitaker-pt", "thk-jjoyce"), ("thk-cwhitaker-pt", "thk-jroddy"),
+        ("thk-jjoyce", "thk-jroddy"),
+        # تقنياتٌ بعينها تُدرَّس في مدرستين بصياغتين وإسنادين مختلفين، ومُيِّزت
+        # عناوينُها بلاحقة المدرسة — والمُطبِّعُ هنا يُسقط ما بين القوسين فتبدو
+        # متطابقة. أُبقيت بقرارٍ مكتوبٍ في `p3_merge_duplicates.py`.
+        ("tec-act-acc-radical-acceptance", "tec-dbt-dt-radical-acceptance"),
+        ("tec-act-acc-self-compassion-exercises", "tec-cbt-emo-self-compassion-exercises"),
+        ("tec-act-acc-willingness-vs-willfulness", "tec-dbt-dt-willingness-vs-willfulness"),
+        ("tec-act-pres-body-scan", "tec-cbt-mind-body-scan"),
+        ("tec-act-pres-mindful-eating", "tec-dbt-er-mindful-eating"),
+        ("tec-act-pres-urge-surfing", "tec-dbt-dt-urge-surfing"),
+        ("tec-act-sac-perspective-taking", "tec-cbt-int-perspective-taking"),
+        ("tec-cbt-int-self-validation", "tec-dbt-er-self-validation"),
+    }
+    grp = collections.defaultdict(set)
+    for s, n in d.items():
+        if _redirect(s): continue
+        pre = s.split("-")[0]
+        a, e2 = _na(n.get("title")), _ne(n.get("en"))
+        if a: grp[(pre, "ar", a)].add(s)
+        if e2 and len(e2) > 3 and "unverified" not in e2 and "merged" not in e2:
+            grp[(pre, "en", e2)].add(s)
+    dups = set()
+    for v in grp.values():
+        v = sorted(v)
+        for i in range(len(v)):
+            for j in range(i + 1, len(v)):
+                if (v[i], v[j]) not in ALLOW_DUP: dups.add((v[i], v[j]))
+    bad("عقدتان حيّتان بالعنوان/الاسم نفسِه", len(dups), [f"{a} = {b}" for a, b in sorted(dups)]) \
+        if dups else ok("لا تكرارَ حيّاً غيرَ مُعلَن", info=f"{len(ALLOW_DUP)} زوجاً مُستثنىً بقرارٍ مكتوب")
+
+    print("\n[14] الإحالاتُ والحجر")
+    nort = [s for s in d if _redirect(s) and not d[s].get("redirect_to")
+            and d[s].get("status") != "quarantined"]
+    bad("إحالةٌ بلا `redirect_to` ولا وسمِ حجر", len(nort), nort) if nort \
+        else ok("كلُّ إحالةٍ تحمل `redirect_to`، وكلُّ محجورٍ يحمل وسمَه")
+    badt = [f"{s} → {d[s]['redirect_to']}" for s in d
+            if d[s].get("redirect_to") and d[s]["redirect_to"] not in slugs]
+    bad("`redirect_to` يشير إلى ملفٍّ غيرِ موجود", len(badt), badt) if badt \
+        else ok("كلُّ `redirect_to` يُحلّ إلى ملفٍّ قائم")
+    tord = [f"{s} → {r[0]}" for s, n in d.items() if not _redirect(s)
+            for r in n.get("related", []) if r[0] in slugs and _redirect(r[0])]
+    bad("رابطٌ حيٌّ ينتهي إلى إحالة/محجور", len(tord), tord, fatal=False) if tord \
+        else ok("لا رابطَ حيٍّ ينتهي إلى إحالة")
+
+    print("\n[15] البادئاتُ والحقولُ المُعجمية")
+    PRE = ("thk", "con", "sch", "br", "tec", "wrk", "rel", "dbt", "que", "met", "trm",
+           "ins", "stu", "evt", "exp", "crt", "dia", "syn", "dis", "ctx", "axm", "axi")
+    op = [s for s in d if s.split("-")[0] not in PRE]
+    bad("بادئةٌ خارجَ المعجم", len(op), op, fatal=False) if op else ok("كلُّ بادئةٍ من المعجم")
+    lv = [f"{s}: «{d[s].get('level')}»" for s in d if d[s].get("level") not in ("مبتدئ", "متوسط", "متقدم")]
+    bad("`level` خارجَ المعجم", len(lv), lv) if lv else ok("`level` من المعجم في كلِّ عقدة")
+    pt = [f"{s}: «{d[s].get('part')}»" for s in d if d[s].get("part") not in ("philosophy", "psychology", "bridge")]
+    bad("`part` خارجَ المعجم", len(pt), pt, fatal=False) if pt else ok("`part` من المعجم في كلِّ عقدة")
+    ena = [s for s in d if re.search(r'[؀-ۿ]', d[s].get("en") or "")]
+    bad("حقلُ `en` فيه عربية", len(ena), ena) if ena else ok("لا عربيةَ في حقل `en`")
+
+    print("\n[16] مطابقةُ العنوان لِما تشير إليه الروابط")
+    stale_t = [f"{s}→{r[0]}: «{r[1][:26]}» ≠ «{(d[r[0]].get('title') or '')[:26]}»"
+               for s, n in d.items() for r in n.get("related", [])
+               if r[0] in slugs and r[1].strip() != (d[r[0]].get("title") or "").strip()]
+    bad("عنوانٌ في `related` يخالف عنوانَ الهدف", len(stale_t), stale_t) if stale_t \
+        else ok("كلُّ عنوانٍ في `related` مطابقٌ لهدفه")
+    stale_y = [f"{s}→{r[0]}" for s, n in d.items() for r in n.get("related", [])
+               if r[0] in slugs and r[2] != d[r[0]].get("type")]
+    bad("نوعٌ في `related` يخالف نوعَ الهدف", len(stale_y), stale_y) if stale_y \
+        else ok("كلُّ نوعٍ في `related` مطابقٌ لهدفه")
+
+    print("\n[17] قسمُ المصادر — المضمونُ لا العنوان")
+    PH = ("يفتقر هذا الملف", "لا تتوفر مصادر", "لم تُتَح", "بلا مصادر",
+          "لم تُستكمل بعد مراجعة المصادر")
+    hollow = []
+    for s, n in d.items():
+        if _redirect(s): continue
+        sec = [x[1] for x in n.get("sections", []) if x[0] == "المصادر"]
+        txt = sec[0].strip() if sec else ""
+        if not sec or len(txt) < 40 or any(p in txt for p in PH): hollow.append(s)
+    bad("قسمُ مصادرٍ قالبيٌّ أو أقصرُ من 40 حرفاً", len(hollow), hollow, fatal=False,
+        info="عملٌ تحريريٌّ مستمرّ — يُقاس ولا يُفشِل البناء") if hollow \
+        else ok("كلُّ ملفٍّ حيٍّ فيه مصادرُ فعلية")
+
+    print("\n[18] ما يقرأه القالبُ الثابت")
+    exp = os.path.join(ROOT, "scripts", "template", "data_extras.json")
+    if os.path.exists(exp):
+        raw = open(exp, encoding="utf-8").read()
+        ref = set(re.findall(r'"((?:' + "|".join(PRE) + r')-[a-z0-9\-]+)"', raw))
+        miss = sorted(x for x in ref if x not in slugs)
+        bad("`data_extras.json` يشير إلى ملفٍّ غيرِ موجود", len(miss), miss) if miss \
+            else ok("كلُّ slug في `data_extras.json` يُحلّ إلى ملفٍّ قائم")
+        rd = sorted(x for x in ref if x in slugs and _redirect(x))
+        bad("`data_extras.json` يشير إلى إحالة/محجور", len(rd), rd, fatal=False) if rd \
+            else ok("لا إشارةَ من القالب إلى إحالة")
+    mdl = []
+    for f in files:
+        t = open(f, encoding="utf-8").read()
+        if re.search(r'\]\([a-zA-Z0-9\-_]+\.md\)', t): mdl.append(os.path.basename(f)[:-3])
+    bad("رابطُ ماركداون إلى ملفّ `.md` (لا يفسّره الأطلس)", len(mdl), mdl) if mdl \
+        else ok("لا روابطَ ماركداون إلى ملفات")
+
     # ── الخلاصة
     print(f"\n{'='*66}")
     if FAILURES:

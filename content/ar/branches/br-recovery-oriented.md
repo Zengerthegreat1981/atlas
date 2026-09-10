@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1990
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 related:
 - id: "thk-patdeegan", title: "بات ديغان", type: "مفكر"
@@ -20,6 +20,7 @@ related:
 gaps:
   - "SAMHSA 10 Guiding Principles (2011) لم تُراجع نصّها الرسمي."
   - "العلاقة بين 'recovery' في مجال الإدمان و'recovery' في الصحة النفسية تستحق توثيقاً."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» — الممارسةُ الموجَّهةُ نحو التعافي إطارٌ في خدمات الصحة النفسية. "
 ---
 
 # الممارسة الموجَّهة نحو التعافي

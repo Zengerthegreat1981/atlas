@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1997
 active_end: 2021
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-peer-support", target_type: "تيار"
 related:
@@ -20,6 +20,7 @@ related:
 gaps:
   - "سنة الوفاة (2021) غير مؤكدة من مصدر أولي مستقل."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: دانيال فيشر (thk-dfisher)."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» تبعاً لأبٍ كان موسوماً «philosophy» خطأً؛ وصُحِّح الأبُ فصُحِّح معه."
 ---
 
 # ماري إيلين كوبلاند

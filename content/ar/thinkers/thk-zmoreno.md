@@ -2,7 +2,7 @@
 slug: "thk-zmoreno"
 id: "THK-2152"
 type: "مفكر"
-part: "philosophy"
+part: "psychology"
 level: "متقدم"
 title: "زيركا ت. مورينو"
 en: "Zerka T. Moreno"
@@ -27,6 +27,7 @@ gaps:
   - "تفاصيل 'الفترة المخملية' (Velvet Period) في Beaver Run موثّقة جزئياً."
   - "قائمة كاملة لمنشوراتها موثّقة في 'The Quintessential Zerka' (2006)."
   - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-psychodrama` موسومٌ «philosophy» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» تبعاً لأبٍ كان موسوماً «philosophy» خطأً؛ وصُحِّح الأبُ فصُحِّح معه."
 ---
 
 # زيركا تومين مورينو

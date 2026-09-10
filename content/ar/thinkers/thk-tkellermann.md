@@ -11,7 +11,7 @@ country: "إسرائيل"
 language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-psychodrama", target_type: "تيار"
 related:
@@ -19,6 +19,7 @@ related:
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "الفترة الدقيقة لعمله كمديرٍ تنفيذي لمركز AMCHA لناجي الهولوكوست (نحو 2001–2004 بحسب مصادر ثانوية) تحتاج تأكيداً من مصدر أولي."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» تبعاً لأبٍ كان موسوماً «philosophy» خطأً؛ وصُحِّح الأبُ فصُحِّح معه."
 ---
 
 # بيتر فيليكس كِلرمان

@@ -10,7 +10,7 @@ country: "البرازيل"
 language: "البرتغالية"
 active_start: null
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 crumb: "التحليلية النسوية ← تطوير ← أولغا فِرْدِرِيس"
 edges:
 - rel: "belongs_to", target: "sch-analytical-psychology", target_type: "مدرسة"
@@ -22,6 +22,7 @@ gaps:
   - "لا توجد سيرة ذاتية منشورة لـ 'Olga Verderese' في SBrPA (Sociedade Brasileira de Psicanálise) حتى آب 2026."
   - "الاحتمال: خلط مع 'Olga L. Verderese' (محلِّلة يونغية في PUC-SP) أو 'Olga Drigo Verderese' (باحثة في برازيل)."
   - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'Jungian Brasil Feminism' عام."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» تبعاً لأبٍ كان موسوماً «philosophy» خطأً؛ وصُحِّح الأبُ فصُحِّح معه."
 ---
 
 # أولغا فِرْدِرِيس

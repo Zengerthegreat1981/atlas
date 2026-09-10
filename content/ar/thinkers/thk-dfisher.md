@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1992
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-peer-support", target_type: "تيار"
 related:
@@ -29,6 +29,7 @@ gaps:
   - "سنة نشر دليل PACE وناشره غير مثبتين هنا؛ وُصف كإصدار للمركز دون سنة لتعذّر التحقق."
   - "يوجد في الأطلس ملف ثانٍ، `thk-dan-fisher` بحقل `en: \"Dan B. Fisher\"`، يصف الشخص نفسه (تأسيس National Empowerment Center، اللجنة الرئاسية 2002–2003) — ازدواج مُبلَّغ عنه للتحرير ولم يُدمج هنا."
   - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-peer-support` موسومٌ «philosophy» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» تبعاً لأبٍ كان موسوماً «philosophy» خطأً؛ وصُحِّح الأبُ فصُحِّح معه."
 ---
 
 # دانيال فيشر

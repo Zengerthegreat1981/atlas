@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "إنجليزية"
 active_start: 1998
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-peer-support", target_type: "تيار"
 related:
@@ -21,6 +21,7 @@ related:
 gaps:
   - "سنة ميلادها غير مذكورة في المصادر المتاحة."
   - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-peer-support` موسومٌ «philosophy» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» تبعاً لأبٍ كان موسوماً «philosophy» خطأً؛ وصُحِّح الأبُ فصُحِّح معه."
 ---
 
 # شيري ميد

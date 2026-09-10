@@ -11,7 +11,7 @@ country: "المملكة المتحدة"
 language: "الإنجليزية"
 active_start: 1980
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-psychodrama", target_type: "تيار"
 related:
@@ -21,6 +21,7 @@ related:
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لبول هولمز."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» تبعاً لأبٍ كان موسوماً «philosophy» خطأً؛ وصُحِّح الأبُ فصُحِّح معه."
 ---
 
 # بول هولمز

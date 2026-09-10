@@ -10,7 +10,7 @@ country: "الأرجنتين"
 language: "الإسبانية"
 active_start: null
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 crumb: "التحليلية للشعرية ← تطوير ← روبرتو بلاث"
 edges:
 - rel: "belongs_to", target: "sch-analytical-psychology", target_type: "مدرسة"
@@ -25,6 +25,7 @@ gaps:
   - "الكتاب المشار إليه ('Borges y la Escritura del Inconsciente') لا يظهر في WorldCat (حتى آب 2026)."
   - "الاحتمال: خلط مع 'Roberto J. Plá' (أستاذ الأدب الأرجنتيني في Universidad del Salvador، حقل مختلف)."
   - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'Jungian Argentina' عام."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» تبعاً لأبٍ كان موسوماً «philosophy» خطأً؛ وصُحِّح الأبُ فصُحِّح معه."
 ---
 
 # روبرتو خ. بلاث

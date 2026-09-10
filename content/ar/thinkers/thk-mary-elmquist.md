@@ -10,7 +10,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2010
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 crumb: "الممارسة الموجَّهة نحو التعافي ← تطوير ← ماري إلمكويست"
 edges:
 - rel: "belongs_to", target: "br-recovery-oriented", target_type: "تيار"
@@ -25,6 +25,7 @@ gaps:
   - "لا توجد سيرة ذاتية منشورة لـ 'Mary Elmquist' في SAMHSA (الولايات المتحدة) حتى آب 2026."
   - "الاحتمال: خلط مع 'Mary Elmquist' (ممرضة في Minnesota) أو 'Mary Elmquist-Jones' (ممارس في SAMSHA)."
   - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'SAMHSA Recovery' عام."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» تبعاً لأبٍ كان موسوماً «philosophy» خطأً؛ وصُحِّح الأبُ فصُحِّح معه."
 ---
 
 # ماري إلمكويست

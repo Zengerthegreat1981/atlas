@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1995
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-recovery-oriented", target_type: "تيار"
 related:
@@ -28,6 +28,7 @@ gaps:
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: شيرمان كيرتز (thk-kurtz-sherman)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ماري إلمكويست (thk-mary-elmquist)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بات ديغان (thk-patdeegan)."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» تبعاً لأبٍ كان موسوماً «philosophy» خطأً؛ وصُحِّح الأبُ فصُحِّح معه."
 ---
 
 # دان فيشر

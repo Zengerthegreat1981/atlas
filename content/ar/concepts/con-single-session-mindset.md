@@ -8,7 +8,7 @@ en: "Single-Session Mindset"
 crumb: "العلاج القصير كعائلة مستقلة ← العلاج بجلسة واحدة ← عقلية الجلسة الواحدة"
 active_start: 2010
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-single-session-therapy", target_type: "تيار"
 related:
@@ -18,6 +18,7 @@ gaps:
   - "نسبة الفكرة الرئيسية إلى Talmon (1990) أو تطورات حديثة تستحق توثيقاً."
   - "لم يُعثر على اقتباس مباشر موثَّق من كتاب Talmon (1990) نفسه."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: وين بينيت (thk-wbennett)."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» تبعاً لأبٍ كان موسوماً «philosophy» خطأً؛ وصُحِّح الأبُ فصُحِّح معه."
 ---
 # عقلية الجلسة الواحدة
 

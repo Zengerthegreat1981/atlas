@@ -11,7 +11,7 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1998
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-recovery-oriented", target_type: "تيار"
 related:
@@ -21,6 +21,7 @@ related:
 gaps:
   - "سنة الميلاد تقريبية، تستحق توثيقاً من سيرته الرسمية."
   - "تفاصيل بداية عمله في Chestnut Health Systems (السنة الدقيقة) تستحق توثيقاً."
+  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» تبعاً لأبٍ كان موسوماً «philosophy» خطأً؛ وصُحِّح الأبُ فصُحِّح معه."
 ---
 
 # وليام وايت
