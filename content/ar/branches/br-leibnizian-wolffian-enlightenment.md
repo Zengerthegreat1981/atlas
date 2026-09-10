@@ -11,8 +11,17 @@ active_start: 1720
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-leibnizianism", target_type: "مدرسة"
+related:
+- id: "sch-leibnizianism", title: "اللايبنتزية", type: "مدرسة"
+- id: "con-monad", title: "المونادات (Monades)", type: "مفهوم"
+- id: "con-identity-of-indiscernibles", title: "تطابق اللامتمايزات (Identity of Indiscernibles)", type: "مفهوم"
+- id: "wrk-monadology-leibniz", title: "المونادولوجيا لغوتفريد لايبنتز", type: "عمل / كتاب"
+- id: "con-monad-simple-substance", title: "الموناد والجوهر الروحي البسيط (Monad)", type: "مفهوم"
+- id: "con-best-of-all-possible-worlds", title: "أفضل العوالم الممكنة (Best of All Possible Worlds)", type: "مفهوم"
+- id: "axi-principle-of-sufficient-reason", title: "مبدأ السبب الكافي (Principle of Sufficient Reason)", type: "بديهية/مبدأ تأسيسي"
 gaps:
   - "لم تُراجَع نسخة كاملة من \"الميتافيزيقا الألمانية\" لفولف (1720) بالألمانية للتحقق حرفياً من ترتيبه المدرسي لأقسام الفلسفة."
+  - "**أُغلق طريقٌ مسدود 2026-09-10:** كان هذا الملفُّ بأقلَّ من ثلاثة روابطَ ولا أعضاءَ له، فمن يهبط عليه لا يجد مخرجاً. فأُضيف 7 رابطاً إلى أبوها وأشقّائه في شجرة الانتماء — وكلُّهم معلومون من الشجرة نفسِها، فلا صلةَ مُخترَعة."
 ---
 
 # الفلسفة اللايبنتزية-الفولفية — التنوير الألماني

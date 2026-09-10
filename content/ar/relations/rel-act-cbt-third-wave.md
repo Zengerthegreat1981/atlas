@@ -13,7 +13,7 @@ edges:
 - rel: "connects", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
-- id: "rel-positive-humanistic", title: "علم النفس الإيجابي والإنسانية: من Maslow إلى Seligman", type: "علاقة بين مدرستين"
+- id: "rel-humanistic-positive", title: "الإنسانية وعلم النفس الإيجابي: ابن ينسى أباه", type: "علاقة بين مدرستين"
 - id: "rel-psychodynamic-attachment", title: "النظرية الديناميكية ونظرية التعلق: من Bowlby إلى Fonagy", type: "علاقة بين مدرستين"
 - id: "rel-confucian-self-cultivation-family-systems", title: "تزكية الذات الكونفوشية والعلاج الأسري النظامي (Bowen)", type: "علاقة بين مدرستين"
 gaps:

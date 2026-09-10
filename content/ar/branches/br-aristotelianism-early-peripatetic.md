@@ -11,9 +11,18 @@ active_start: -322
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-aristotelianism", target_type: "مدرسة"
+related:
+- id: "sch-aristotelianism", title: "المشائية / الأرسطية (Aristotelianism)", type: "مدرسة"
+- id: "thk-aristotle", title: "أرسطو", type: "مفكر"
+- id: "con-eudaimonia-wellbeing", title: "اليودايمونيا — السعادة والازدهار الإنساني (Eudaimonia)", type: "مفهوم"
+- id: "con-fallacy-of-affirming-consequent", title: "مغالطة إثبات التالي الصورية (Affirming the Consequent)", type: "مفهوم"
+- id: "con-hylomorphism", title: "الهيلومورفية — المادة والصورة عند أرسطو (Hylomorphism)", type: "مفهوم"
+- id: "wrk-nicomachean-ethics", title: "الأخلاق النيقوماخية لأرسطو", type: "عمل / كتاب"
+- id: "wrk-metaphysics-aristotle", title: "الميتافيزيقا لأرسطو (ما بعد الطبيعة)", type: "عمل / كتاب"
 gaps:
   - "لا توجد بطاقات مفكرين مستقلة في الأطلس حتى الآن لثاوفرسطس أو ستراتون اللامبساكي لربطها هنا عبر related."
   - "لم يُعثر على اقتباس عربي موثوق مترجم مباشرة من نصوص ثاوفرسطس (مثل 'تاريخ النبات') يمكن إسناده هنا بدقة."
+  - "**أُغلق طريقٌ مسدود 2026-09-10:** كان هذا الملفُّ بأقلَّ من ثلاثة روابطَ ولا أعضاءَ له، فمن يهبط عليه لا يجد مخرجاً. فأُضيف 7 رابطاً إلى أبوها وأشقّائه في شجرة الانتماء — وكلُّهم معلومون من الشجرة نفسِها، فلا صلةَ مُخترَعة."
 ---
 
 # المشائية المبكرة — المدرسة المشائية

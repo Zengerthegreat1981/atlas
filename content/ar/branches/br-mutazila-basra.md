@@ -15,8 +15,16 @@ edges:
 related:
 - id: "thk-wasil-ibn-ata", title: "واصل بن عطاء", type: "مفكر"
 - id: "thk-qadi-abd-al-jabbar", title: "القاضي عبد الجبار", type: "مفكر"
+- id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"
+- id: "dbt-qadar-free-will-in-kalam", title: "جدل القدر والجبر والاختيار في علم الكلام الإسلامي", type: "جدل"
+- id: "con-five-principles-mutazila", title: "الأصول الخمسة للمعتزلة (The Five Principles of Mu'tazilism)", type: "مفهوم"
+- id: "thk-ibn-al-haytham", title: "ابن الهيثم (الحسن بن الحسن / Alhazen)", type: "مفكر"
+- id: "dbt-divine-command-theory-vs-autonomous-ethics", title: "نظرية الأمر الإلهي مقابل الأخلاق العقلانية المستقلة", type: "جدل"
+- id: "dbt-husn-qubh-rational-ethics-kalam", title: "الحسن والقبح العقليان بين المعتزلة والأشاعرة", type: "جدل"
+- id: "wrk-sharh-usul-al-khamsa-abd-al-jabbar", title: "شرح الأصول الخمسة للقاضي عبد الجبار", type: "عمل / كتاب"
 gaps:
   - "لم تُراجَع نسخة كاملة من \"المغني في أبواب التوحيد والعدل\" للقاضي عبد الجبار (20 مجلداً، أغلبها مفقود جزئياً) للتحقق حرفياً من صياغة الأصول الخمسة."
+  - "**أُغلق طريقٌ مسدود 2026-09-10:** كان هذا الملفُّ بأقلَّ من ثلاثة روابطَ ولا أعضاءَ له، فمن يهبط عليه لا يجد مخرجاً. فأُضيف 7 رابطاً إلى أبوها وأشقّائه في شجرة الانتماء — وكلُّهم معلومون من الشجرة نفسِها، فلا صلةَ مُخترَعة."
 ---
 
 # مدرسة البصرة الكلامية — المعتزلة

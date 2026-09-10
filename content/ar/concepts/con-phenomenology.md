@@ -17,7 +17,7 @@ related:
 - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
 - id: "thk-ricoeur", title: "بول ريكور", type: "مفكر"
 - id: "axm-intentionality", title: "بديهية القصديةّة (Intentionality)", type: "بديهية/مبدأ تأسيسي"
-- id: "con-epoché-phenomenological-reduction", title: "الإيبوخي (Epoché): التعليق المنهجي للحكم", type: "مفهوم"
+- id: "con-epoche-phenomenological-reduction", title: "الإيبوخي والرد الفينومينولوجي (Epoché / Phenomenological Reduction)", type: "مفهوم"
 - id: "con-lived-body", title: "الجسد المعيش (Leib vs. Körper)", type: "مفهوم"
 - id: "con-lifeworld", title: "عالم الحياة (Lebenswelt): العالم المعيش قبل الموضوعي", type: "مفهوم"
 - id: "con-conscious-acts", title: "الأفعال الواعية عند برنتانو", type: "مفهوم"

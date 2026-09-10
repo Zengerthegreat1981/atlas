@@ -11,9 +11,18 @@ active_start: 1650
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-cartesianism", target_type: "مدرسة"
+related:
+- id: "sch-cartesianism", title: "الديكارتية", type: "مدرسة"
+- id: "con-res-cogitans-res-extensa", title: "الجوهر المفكر والجوهر الممتد (Res Cogitans & Res Extensa)", type: "مفهوم"
+- id: "con-cogito", title: "الكوجيتو: أنا أفكر إذن أنا موجود", type: "مفهوم"
+- id: "wrk-meditations-on-first-philosophy-descartes", title: "تأملات في الفلسفة الأولى لديكارت", type: "عمل / كتاب"
+- id: "axi-cogito-ergo-sum-rule", title: "الكوجيتو واليقين الذاتي (Cogito Ergo Sum)", type: "بديهية/مبدأ تأسيسي"
+- id: "wrk-discourse-on-method-descartes", title: "مقال عن المنهج لرينيه ديكارت", type: "عمل / كتاب"
+- id: "con-cartesian-doubt-method", title: "الشك المنهجي الديكارتي (Methodic Doubt)", type: "مفهوم"
 gaps:
   - "لا توجد بطاقات مفكرين مستقلة في الأطلس حتى الآن لأنطوان أرنو أو بيير سيلفان ريجيس لربطها هنا عبر related."
   - "لم يُعثر على اقتباس عربي موثوق مترجم مباشرة من 'منطق پور-رويال' لأرنو ونيكول يمكن إسناده هنا بدقة."
+  - "**أُغلق طريقٌ مسدود 2026-09-10:** كان هذا الملفُّ بأقلَّ من ثلاثة روابطَ ولا أعضاءَ له، فمن يهبط عليه لا يجد مخرجاً. فأُضيف 7 رابطاً إلى أبوها وأشقّائه في شجرة الانتماء — وكلُّهم معلومون من الشجرة نفسِها، فلا صلةَ مُخترَعة."
 ---
 
 # الديكارتية الأرثوذكسية والعقلانية — الديكارتية

@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-decolonial-latin", target_type: "مدرسة"
 related:
 - id: "thk-anibal-quijano", title: "أنيبال كويخانو", type: "مفكر"
-- id: "con-coloniality-of-power-quijano", title: "استعمارية السلطة والمعرفة (Coloniality of Power)", type: "مفهوم"
+- id: "con-coloniality-of-power-concept", title: "استعمارية السلطة والتصنيف العرقي (Coloniality of Power)", type: "مفهوم"
 - id: "crt-dussel-critique-of-eurocentrism", title: "نقد إنريكي دوسيل لمركزية أوروبا وخرافة الحداثة", type: "نقد خارجي موثَّق"
 gaps:
   - "النص الإسباني الأصلي لـ'Colonialidad del poder, eurocentrismo y América Latina' (2000) لم يُراجع مباشرة؛ الاعتماد على الترجمة الإنجليزية المنشورة في Nepantla: Views from South."

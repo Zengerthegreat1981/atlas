@@ -20,7 +20,7 @@ related:
 - id: "sch-berkeleianism", title: "المثالية الذاتية البركلية", type: "مدرسة"
 - id: "sch-humeanism", title: "الهيومية (الشكّ التجريبي)", type: "مدرسة"
 - id: "sch-classical-liberalism-early", title: "الليبرالية الكلاسيكية المبكرة", type: "مدرسة"
-- id: "axm-tabula-rasa", title: "مبدأ اللوح الفارغ (Tabula Rasa)", type: "بديهية/مبدأ تأسيسي"
+- id: "axi-tabula-rasa-rule", title: "بديهية اللوح الفارغ (Tabula Rasa Axiom)", type: "بديهية/مبدأ تأسيسي"
 - id: "rel-british-empiricism-behaviorism", title: "التجريبية البريطانية والسلوكية: من لوك إلى واطسون", type: "علاقة بين مدرستين"
 - id: "met-cartesian-theater", title: "المسرح الكارتيزي: وهم المركز الموحد للوعي", type: "استعارة/مجاز مؤسِّس"
 

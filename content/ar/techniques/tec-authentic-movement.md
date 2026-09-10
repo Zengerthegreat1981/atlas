@@ -18,7 +18,7 @@ edges:
 related:
 - id: "tec-dance-movement-therapy", title: "العلاج بالرقص والحركة (DMT)", type: "تقنية/تدخل علاجي"
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-- id: "thk-mwhitehouse", title: "ماري ستاركس وايتهاوس", type: "مفكر"
+- id: "thk-mary-whitehouse", title: "ماري وايتهاوس", type: "مفكر"
 - id: "thk-jadler", title: "جانيت أدلر", type: "مفكر"
 - id: "thk-ppallaro", title: "باتريتسيا بالارو", type: "مفكر"
 gaps:

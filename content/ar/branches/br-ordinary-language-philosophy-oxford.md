@@ -11,9 +11,18 @@ active_start: 1945
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-ordinary-language", target_type: "مدرسة"
+related:
+- id: "sch-ordinary-language", title: "فلسفة اللغة العادية", type: "مدرسة"
+- id: "thk-jaustin", title: "جون لانغشو أوستن", type: "مفكر"
+- id: "wrk-philosophical-investigations-wittgenstein", title: "بحوث فلسفية للودفيغ فيتغنشتاين", type: "عمل / كتاب"
+- id: "con-language-games-late-wittgenstein", title: "ألعاب اللغة وسياقات الحياة (Language-Games / Sprachspiele)", type: "مفهوم"
+- id: "trm-sprachspiel-language-game-wittgenstein", title: "ألعاب اللغة (Sprachspiel): المعنى في سياق الاستخدام الحي", type: "مصطلح لغوي متنازع عليه"
+- id: "wrk-sense-and-sensibilia", title: "الإحساس والبيانات الحسية (Sense and Sensibilia)", type: "عمل / كتاب"
+- id: "con-private-language-argument", title: "استحالة اللغة الخاصة الباطنية (Private Language Argument)", type: "مفهوم"
 gaps:
   - "تفاصيل تراجع التيار أمام الدلالة الشكلية في السبعينيات (كريبكي، مونتاغيو) تحتاج مصدراً أولياً في تاريخ الفلسفة التحليلية."
   - "لا تتوفر ترجمة عربية موثوقة لمقطع من أوستن أو رايل أو غرايس يمكن الاستشهاد به مباشرة."
+  - "**أُغلق طريقٌ مسدود 2026-09-10:** كان هذا الملفُّ بأقلَّ من ثلاثة روابطَ ولا أعضاءَ له، فمن يهبط عليه لا يجد مخرجاً. فأُضيف 7 رابطاً إلى أبوها وأشقّائه في شجرة الانتماء — وكلُّهم معلومون من الشجرة نفسِها، فلا صلةَ مُخترَعة."
 ---
 
 # فلسفة اللغة العادية وأكسفورد — الفلسفة التحليلية

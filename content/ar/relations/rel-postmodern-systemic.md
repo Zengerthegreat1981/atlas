@@ -20,7 +20,7 @@ related:
 - id: "thk-iparker", title: "إيان باركر", type: "مفكر"
 - id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
 - id: "thk-gbateson", title: "غريغوري باتسون", type: "مفكر"
-- id: "rel-gestalt-existential", title: "الجشطالتية والوجودية: Perls بوصفه حلقة وصل", type: "علاقة بين مدرستين"
+- id: "rel-humanistic-existential-gestalt", title: "الإنسانية-الوجودية والجشطالتية: الجذور الظاهراتية المشتركة", type: "علاقة بين مدرستين"
 gaps:
   - "تأثير ميشيل فوكو (1975، Discipline and Punish) على مايكل وايت لم يُوثّق بدقة في الأدبيات العربية."
   - "الفرق بين 'البنائية' (Constructivism) و'البنائية الاجتماعية' (Social Constructionism) دقيق، ولم يُحلّ في الأدبيات المتوفرة."

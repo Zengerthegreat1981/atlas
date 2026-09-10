@@ -11,9 +11,18 @@ active_start: 1848
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-marxism", target_type: "مدرسة"
+related:
+- id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
+- id: "thk-engels", title: "فريدريش إنغلز", type: "مفكر"
+- id: "con-alienation-marx", title: "الاغتراب الماركسي (Entfremdung)", type: "مفهوم"
+- id: "wrk-capital-marx", title: "رأس المال لكارل ماركس (Das Kapital)", type: "عمل / كتاب"
+- id: "wrk-economic-philosophic-manuscripts-1844", title: "مخطوطات باريس الاقتصادية والفلسفية 1844 لماركس", type: "عمل / كتاب"
+- id: "con-commodity-fetishism", title: "صنمية السلعة والتشيؤ (Commodity Fetishism)", type: "مفهوم"
+- id: "trm-entfremdung-alienation-marx-hegel", title: "الاغتراب والاستلاب (Entfremdung): تشيؤ الذات وفقدان الجوهر", type: "مصطلح لغوي متنازع عليه"
 gaps:
   - "لا توجد بطاقة مفكر مستقلة في الأطلس حتى الآن لفريدريش إنجلز لربطها هنا عبر related."
   - "لم يُعثر على اقتباس عربي دقيق مؤكد الترجمة من 'بيان الحزب الشيوعي' يمكن إسناده هنا دون التحقق من طبعة الترجمة المرجعية بالضبط."
+  - "**أُغلق طريقٌ مسدود 2026-09-10:** كان هذا الملفُّ بأقلَّ من ثلاثة روابطَ ولا أعضاءَ له، فمن يهبط عليه لا يجد مخرجاً. فأُضيف 7 رابطاً إلى أبوها وأشقّائه في شجرة الانتماء — وكلُّهم معلومون من الشجرة نفسِها، فلا صلةَ مُخترَعة."
 ---
 
 # الماركسية الكلاسيكية والمادية التاريخية — الماركسية

@@ -11,12 +11,14 @@ language: "الإنجليزية"
 active_start: null
 active_end: null
 crumb: "الاستشارات متعددة الثقافات ← [حجر]"
+status: "quarantined"
 edges: []
 related: []
 gaps:
   - "**حُجر 2026-08-27:** لم يُعثر على أي دليل مستقل على وجود عالم نفس باسم 'Raphael G. Tedeschi' مرتبط بالاستشارات متعددة الثقافات (Multicultural Counseling). الأسماء المرجعية الموثّقة في هذا الحقل هي Derald Wing Sue وJanet Helms وPaul Pedersen وThomas Parham. الاسم الأقرب صوتياً والموثَّق فعلاً هو **Richard G. Tedeschi**، لكنه باحث في **النمو ما بعد الصدمة (Posttraumatic Growth)** مع Lawrence Calhoun — مجال مختلف تماماً عن الاستشارات متعددة الثقافات، ما يرجّح أن هذا الملف نتج عن خلط أو اختلاق هوية لا عن خطأ كتابي بسيط."
   - "النسخة الأصلية محفوظة في agents_specs/quarantine-minimax-archive/thk-ptedeschi.md.archived.2026-08-27."
   - "التفاصيل في agents_specs/quarantine-minimax.md."
+  - "**وُسم بالحجر 2026-09-10:** هذا الملفُّ **محجورٌ لا مُحال**: لم يُوثَّق مضمونُه ولا يوجد ملفٌّ يُحال إليه، فلا يصحُّ إعطاؤه `redirect_to`. وأُضيف `status: quarantined` ليُقرأ الفرقُ آلياً بين الإحالة والحجر."
 ---
 
 # رافائيل تيدِسكي (حجر)

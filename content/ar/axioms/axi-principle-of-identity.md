@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-aristotelianism", target_type: "مدرسة"
 related:
-- id: "axm-tabula-rasa", title: "مبدأ اللوح الفارغ (Tabula Rasa)", type: "بديهية/مبدأ تأسيسي"
+- id: "axi-tabula-rasa-rule", title: "بديهية اللوح الفارغ (Tabula Rasa Axiom)", type: "بديهية/مبدأ تأسيسي"
 - id: "axm-intentionality", title: "بديهية القصديةّة (Intentionality)", type: "بديهية/مبدأ تأسيسي"
 gaps:
   - "لا يوجد ربط في الأطلس حتى الآن بمدخل مستقل لـ لايبنتز (Gottfried Wilhelm Leibniz، 1646–1716) رغم أنه صاحب الصياغة المنطقية الحديثة (Identity of Indiscernibles) التي أعادت تأسيس المبدأ."

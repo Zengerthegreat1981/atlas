@@ -11,12 +11,14 @@ language: "الإنجليزية"
 active_start: null
 active_end: null
 crumb: "الفلسفة ← التحليلية ← فلسفة العلم ← [حجر]"
+redirect_to: "thk-thomas-kuhn"
 edges: []
 related:
 - id: "thk-thomas-kuhn", title: "توماس صامويل كوهن", type: "مفكر"
 gaps:
   - "**حُجر 2026-08-27:** المتن يصف توماس كون (Thomas Kuhn) فعلياً، لكن الـslug 'pkuhn' لا يطابق اسمه إطلاقاً (لا يبدأ اسمه ولا لقبه بحرف P) — علامة تحذير قاعدة 6. الملف أيضاً ازدواج لملف موجود بالفعل تحت slug صحيح: thk-thomas-kuhn (نفس الشخص، نفس التواريخ 1922–1996). النسخة الأصلية قبل الحجر محفوظة في agents_specs/quarantine-minimax-archive/thk-pkuhn.md.archived.2026-08-27."
   - "طلب slug صحيح مسجّل في agents_specs/requests-minimax.md — القرار المرجّح هو الدمج في thk-thomas-kuhn وتحويل هذا الملف لإحالة دائمة، مع تحديث الروابط الواردة إليه (4 ملفات وقت الحجر)."
+  - "**أُضيف `redirect_to` 2026-09-10:** كان هدفُ هذه الإحالة مذكوراً في العنوان أو المتن فقط، فلا يقرأه أيُّ سكربتٍ أو فحص. وأُثبت الحقلُ صراحةً نحو `thk-thomas-kuhn`."
 ---
 
 # توماس كون (حجر)

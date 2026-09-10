@@ -41,7 +41,6 @@ related:
 - id: "con-lived-body", title: "الجسد المعيش (Leib vs. Körper)", type: "مفهوم"
 - id: "con-phenomenology", title: "الظاهراتية (Phenomenology): علم وصف الظواهر كما تُعطى", type: "مفهوم"
 - id: "wrk-phenomenology-perception-merleau-ponty", title: "ظاهراتية الإدراك (Phénoménologie de la perception) - ميرلوبونتي", type: "عمل / كتاب"
-- id: "wrk-merleau-ponty-phenomenology-perception", title: "كتاب فينومينولوجيا الإدراك لموريس ميرلوبونتي (1945)", type: "عمل / كتاب"
 - id: "con-chiasm-the-flesh-merleau-ponty", title: "الكيازما ولحمة العالم المعاش (The Chiasm / The Flesh)", type: "مفهوم"
 gaps:
   - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-existential-therapy` ختماً قالبياً، ونُقل إلى `sch-phenomenology-existential` بحسب المجال المُصحَّح في مسار التنقّل («الظاهراتية الوجودية»). ولم يُشتقَّ من الحقل السابق لأنه كان مختوماً آلياً."

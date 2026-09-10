@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-- id: "trm-verdrangung-repression", title: "الكبت اللاشعوري (Verdrängung): إزاحة الأفكار المهددة من الوعي", type: "مصطلح لغوي متنازع عليه"
+- id: "trm-repression", title: "الكَبْت (Repression): طَرْد المُؤلم مِن الوَعْي", type: "مصطلح لغوي متنازع عليه"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "wrk-studien-hysterie", title: "دراسات في الهستيريا", type: "عمل / كتاب"
 - id: "met-therapy-as-archaeology", title: "الحفر في الماضي كهدف علاجي: من فرويد إلى نقد المدارس المرتكزة على الحاضر", type: "استعارة/مجاز مؤسِّس"

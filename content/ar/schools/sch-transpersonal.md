@@ -23,7 +23,6 @@ related:
 - id: "thk-kwilber", title: "كين ويلبر", type: "مفكر"
 - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
 - id: "thk-sutich", title: "أنتوني سوتيتش", type: "مفكر"
-- id: "br-transpersonal-psychology", title: "علم النفس عبر الشخصي (القوة الرابعة)", type: "تيار"
 - id: "sch-advaita-vedanta", title: "أدفايتا فيدانتا", type: "مدرسة"
 - id: "thk-rwalsh", title: "روجر والش", type: "مفكر"
 - id: "thk-rmwashburn", title: "مايكل واشبورن", type: "مفكر"

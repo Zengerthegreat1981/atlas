@@ -12,6 +12,7 @@ active_end: null
 country: "نيجيريا"
 language: "الإنجليزية/اليوربا"
 part: "psychology"
+status: "quarantined"
 edges: []
 related: []
 gaps:
@@ -19,6 +20,7 @@ gaps:
   - "النسخة الأصلية محفوظة في archive."
   - "طلب slug جديد صحيح لسيرة أكينسولا أكيووو الحقيقية مسجَّل في agents_specs/requests-minimax.md (مقترح: thk-aakiwowo)."
   - "التفاصيل في agents_specs/quarantine-minimax.md."
+  - "**وُسم بالحجر 2026-09-10:** هذا الملفُّ **محجورٌ لا مُحال**: لم يُوثَّق مضمونُه ولا يوجد ملفٌّ يُحال إليه، فلا يصحُّ إعطاؤه `redirect_to`. وأُضيف `status: quarantined` ليُقرأ الفرقُ آلياً بين الإحالة والحجر."
 ---
 
 # أكينسولا أكيووو — محتوى تحت الحجر

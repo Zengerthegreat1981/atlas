@@ -15,7 +15,7 @@ crumb: "الحركة الأصيلة ← الجيل الثاني ← جانيت �
 edges:
 - rel: "belongs_to", target: "tec-authentic-movement", target_type: "تقنية"
 related:
-- id: "thk-mwhitehouse", title: "ماري ستاركس وايتهاوس", type: "مفكر"
+- id: "thk-mary-whitehouse", title: "ماري وايتهاوس", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Offering from the Conscious Body* (2002) بترجمة عربية معتمدة."
 ---

@@ -9,12 +9,14 @@ en: "Epoché — merged, see con-epoche-phenomenological-reduction"
 crumb: "المفاهيم الفلسفية الكبرى ← المفاهيم المنهجية ← [إحالة]"
 active_start: null
 active_end: null
+redirect_to: "con-epoche-phenomenological-reduction"
 edges: []
 related:
 - id: "con-epoche-phenomenological-reduction", title: "الإيبوخي والرد الفينومينولوجي (Epoché / Phenomenological Reduction)", type: "مفهوم"
 gaps:
   - "**دُمج 2026-09-07:** كان هذا الملف والملف `con-epoche-phenomenological-reduction` يتناولان المفهوم الواحد نفسه بـslugين لا يفرّقهما إلا همزة في «إيبوخي» — وكلٌّ منهما يقرّ في `gaps` بوجود الآخر ويؤجّل القرار. المتن هنا كان الأغنى (تمييزٌ صريح عن الشكّ الديكارتي وعن شوتز، وامتدادٌ إلى IPA والعلاج الوجودي) فنُقل بكامله إلى الملف الآخر، لأن الـslug هناك لاتيني خالص يصلح للروابط بخلاف هذا المهموز."
   - "لا يُعاد كتابة متن تحت هذا الـslug. الـslug باقٍ ولم يُحذف عملاً بقاعدة عدم إعادة التسمية: كل رابط وارد إليه يصل إلى هذه الإحالة. النسخة الأصلية في `agents_specs/merge-archive-2026-09-07/con-epoché-phenomenological-reduction.md.archived.2026-09-07`."
+  - "**أُضيف `redirect_to` 2026-09-10:** كان هدفُ هذه الإحالة مذكوراً في العنوان أو المتن فقط، فلا يقرأه أيُّ سكربتٍ أو فحص. وأُثبت الحقلُ صراحةً نحو `con-epoche-phenomenological-reduction`."
 ---
 
 # الإيبوخي (Epoché) — إحالة

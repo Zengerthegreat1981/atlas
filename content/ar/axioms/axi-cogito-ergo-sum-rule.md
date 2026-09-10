@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-cartesianism", target_type: "مدرسة"
 related:
-- id: "axm-tabula-rasa", title: "مبدأ اللوح الفارغ (Tabula Rasa)", type: "بديهية/مبدأ تأسيسي"
+- id: "axi-tabula-rasa-rule", title: "بديهية اللوح الفارغ (Tabula Rasa Axiom)", type: "بديهية/مبدأ تأسيسي"
 - id: "axm-intentionality", title: "بديهية القصديةّة (Intentionality)", type: "بديهية/مبدأ تأسيسي"
 - id: "trm-cogito-ergo-sum", title: "الكوجيتو (Cogito): أنا أفكر إذن أنا موجود ودلالته", type: "مصطلح لغوي متنازع عليه"
 gaps:

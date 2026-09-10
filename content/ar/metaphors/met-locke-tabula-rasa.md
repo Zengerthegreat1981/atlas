@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-british-empiricism", target_type: "مدرسة"
 related:
-- id: "trm-tabula-rasa-locke", title: "الصفحة البيضاء (Tabula Rasa): العقل الفطري الخالي من الأفكار", type: "مصطلح لغوي متنازع عليه"
+- id: "axi-tabula-rasa-rule", title: "بديهية اللوح الفارغ (Tabula Rasa Axiom)", type: "بديهية/مبدأ تأسيسي"
 - id: "exp-locke-exile-holland-toleration", title: "نفي جون لوك إلى هولندا وتأليف رسالة في التسامح", type: "خبرة معيشة"
 - id: "thk-locke", title: "جون لوك", type: "مفكر"
 gaps:

@@ -11,8 +11,17 @@ active_start: 1677
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-spinozism", target_type: "مدرسة"
+related:
+- id: "sch-spinozism", title: "السبينوزية", type: "مدرسة"
+- id: "ctx-dutch-golden-age-toleration", title: "العصر الذهبي الهولندي وأمستردام كعاصمة للتسامح والنشر الحر", type: "سياق/تقليد"
+- id: "con-conatus-self-preservation", title: "الكوناتوس وسعي البقاء (Conatus)", type: "مفهوم"
+- id: "axi-substance-monism-axiom", title: "أحادية الجوهر المطلقة (Substance Monism)", type: "بديهية/مبدأ تأسيسي"
+- id: "wrk-theologico-political-treatise-spinoza", title: "رسالة في اللاهوت والسياسة لباروخ سبينوزا", type: "عمل / كتاب"
+- id: "wrk-ethics-spinoza", title: "علم الأخلاق لباروخ سبينوزا", type: "عمل / كتاب"
+- id: "con-intellectual-love-of-god", title: "الحب العقلي لله (Amor Dei Intellectualis)", type: "مفهوم"
 gaps:
   - "لم يُراجَع نص *الأخلاق* (Ethica, 1677) بترجمته العربية المعتمدة (جلال الدين سعيد) لضبط مصطلحات 'الجوهر' و'الصفة' و'الكيفية' مقابل اللاتينية الأصلية substantia/attributum/modus."
+  - "**أُغلق طريقٌ مسدود 2026-09-10:** كان هذا الملفُّ بأقلَّ من ثلاثة روابطَ ولا أعضاءَ له، فمن يهبط عليه لا يجد مخرجاً. فأُضيف 7 رابطاً إلى أبوها وأشقّائه في شجرة الانتماء — وكلُّهم معلومون من الشجرة نفسِها، فلا صلةَ مُخترَعة."
 ---
 
 # السبينوزية الأحادية والحلولية الطبيعية — السبينوزية

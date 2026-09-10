@@ -19,7 +19,7 @@ edges:
 - rel: "intersects_with", target: "sch-biological-neuro", target_type: "مدرسة"
 - rel: "intersects_with", target: "con-mindfulness", target_type: "مفهوم"
 - rel: "founded_by", target: "thk-tleary", target_type: "مفكر"
-- rel: "revived_by", target: "thk-rick-doblin", target_type: "مفكر"
+- rel: "revived_by", target: "thk-rmdoblin", target_type: "مفكر"
 related:
 - id: "thk-mjohnson", title: "ماثيو جونسون", type: "مفكر"
 - id: "sch-biological-neuro", title: "علم النفس البيولوجي والعصبي", type: "مدرسة"
@@ -32,7 +32,7 @@ related:
 - id: "con-psilocybin", title: "السيلوسيبين في العلاج النفسي", type: "مفهوم"
 - id: "thk-charles-grob", title: "تشارلز غروب", type: "مفكر"
 - id: "thk-roland-griffiths", title: "رولاند غريفثز", type: "مفكر"
-- id: "thk-rick-doblin", title: "ريك دوبان", type: "مفكر"
+- id: "thk-rmdoblin", title: "ريك دابلن", type: "مفكر"
 - id: "thk-david-nichols", title: "ديفيد نيكولز", type: "مفكر"
 - id: "thk-michael-pollan", title: "مايكل بولان", type: "مفكر"
 gaps:

@@ -11,8 +11,17 @@ active_start: 1620
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-transcendent-theosophy", target_type: "مدرسة"
+related:
+- id: "sch-transcendent-theosophy", title: "الحكمة المتعالية (الملا صدرا)", type: "مدرسة"
+- id: "thk-mulla-sadra", title: "ملا صدرا الشيرازي (صدر الدين الشيرازي)", type: "مفكر"
+- id: "con-asalat-al-wujud-primacy-of-existence", title: "أصالة الوجود واعتبارية الماهية (Primacy of Existence)", type: "مفهوم"
+- id: "con-gradational-monism-tashkik", title: "التشكيك الوجودي والتفاضل في الشدة (Tashkik al-Wujud)", type: "مفهوم"
+- id: "thk-hadi-sabzawari", title: "ملا هادي بن مهدي السبزواري", type: "مفكر"
+- id: "thk-morteza-motahhari", title: "الشهيد مرتضى مطهري", type: "مفكر"
+- id: "thk-allameh-tabatabai", title: "السيد محمد حسين الطباطبائي", type: "مفكر"
 gaps:
   - "لم يُراجَع نص الأسفار الأربعة (الحكمة المتعالية في الأسفار العقلية الأربعة) مباشرة بالعربية لضبط اقتباس دقيق برقم صفحة."
+  - "**أُغلق طريقٌ مسدود 2026-09-10:** كان هذا الملفُّ بأقلَّ من ثلاثة روابطَ ولا أعضاءَ له، فمن يهبط عليه لا يجد مخرجاً. فأُضيف 7 رابطاً إلى أبوها وأشقّائه في شجرة الانتماء — وكلُّهم معلومون من الشجرة نفسِها، فلا صلةَ مُخترَعة."
 ---
 
 # الحكمة المتعالية لمدرسة أصفهان — الحكمة المتعالية

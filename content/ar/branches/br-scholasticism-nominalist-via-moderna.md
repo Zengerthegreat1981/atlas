@@ -11,9 +11,18 @@ active_start: 1320
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-ockhamism", target_type: "مدرسة"
+related:
+- id: "sch-ockhamism", title: "الأوكامية / الاسمية", type: "مدرسة"
+- id: "thk-william-ockham", title: "وليم الأوكامي", type: "مفكر"
+- id: "con-nominalism-universals-concept", title: "الاسمية وإنكار الوجود الواقعي للكليات (Nominalism)", type: "مفهوم"
+- id: "wrk-summa-logicae-ockham", title: "خلاصة المنطق لوليم الأوكامي (Summa Logicae)", type: "عمل / كتاب"
+- id: "con-voluntarism-divine-will", title: "الإرادوية وأسبقية الإرادة على العقل (Voluntarism)", type: "مفهوم"
+- id: "con-ockhams-razor", title: "شفرة أوكام — مبدأ الاقتصاد المعرفي (Ockham's Razor)", type: "مفهوم"
+- id: "thk-gregory-rimini", title: "غريغوري الريميني", type: "مفكر"
 gaps:
   - "تفاصيل نظرية غريغوريوس الريميني عن الإيمان والبرهان الفلسفي تحتاج توسيعاً من نصوصه اللاتينية الأصلية."
   - "لا تتوفر ترجمة عربية موثوقة لمقطع من وليم الأوكامي يمكن الاستشهاد به مباشرة."
+  - "**أُغلق طريقٌ مسدود 2026-09-10:** كان هذا الملفُّ بأقلَّ من ثلاثة روابطَ ولا أعضاءَ له، فمن يهبط عليه لا يجد مخرجاً. فأُضيف 7 رابطاً إلى أبوها وأشقّائه في شجرة الانتماء — وكلُّهم معلومون من الشجرة نفسِها، فلا صلةَ مُخترَعة."
 ---
 
 # السكولاستية الاسمية والطريق الحديث (Via Moderna)

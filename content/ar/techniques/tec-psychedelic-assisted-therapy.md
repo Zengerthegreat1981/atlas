@@ -19,7 +19,7 @@ edges:
 related:
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
-- id: "br-transpersonal-psychology", title: "علم النفس عبر الشخصي (القوة الرابعة)", type: "تيار"
+- id: "sch-transpersonal", title: "علم النفس عبر الشخصي (Transpersonal Psychology)", type: "مدرسة"
 - id: "thk-roland-griffiths", title: "رولاند غريفثز", type: "مفكر"
 - id: "con-mdma-ptsd", title: "MDMA (إكستاسي) في علاج PTSD", type: "مفهوم"
 - id: "con-psilocybin-depression", title: "الْعِلَاج بِالسِّلِيكُوبِين لِلاِكْتِئَاب", type: "مفهوم"

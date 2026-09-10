@@ -15,7 +15,7 @@ crumb: "الحركة الأصيلة ← الناس ← باتريتسيا بال
 edges:
 - rel: "belongs_to", target: "tec-authentic-movement", target_type: "مدرسة"
 related:
-- id: "thk-mwhitehouse", title: "ماري ستاركس وايتهاوس", type: "مفكر"
+- id: "thk-mary-whitehouse", title: "ماري وايتهاوس", type: "مفكر"
 - id: "thk-jadler", title: "جانيت أدلر", type: "مفكر"
 gaps:
   - "حُذف رابطان related كانا يشاوران على ملفات غير موجودة (thk-jchodorow، thk-cjung)."

@@ -18,7 +18,7 @@ related:
 - id: "br-peer-support", title: "الدعم النظير", type: "تيار"
 - id: "thk-jchamberlin", title: "جودي تشامبرلين", type: "مفكر"
 - id: "thk-mcopeland", title: "ماري إيلين كوبلاند", type: "مفكر"
-- id: "thk-pdeegan", title: "باتريشا ديجان", type: "مفكر"
+- id: "thk-patdeegan", title: "بات ديغان", type: "مفكر"
 - id: "thk-smead", title: "شيري ميد", type: "مفكر"
 gaps:
   - "تاريخ الميلاد الدقيق غير متاح؛ السِيَر المهنية المنشورة تكتفي بالإشارة إلى القرن العشرين دون إسناد."

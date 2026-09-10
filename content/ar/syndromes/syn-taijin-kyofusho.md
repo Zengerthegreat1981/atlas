@@ -10,12 +10,14 @@ crumb: "الاضطرابات والمتلازمات ← المتلازمات ا�
 active_start: 1930
 active_end: "مستمر"
 language: "متعدد اللغات"
+redirect_to: "dis-taijin-kyofusho"
 edges: []
 related:
 - id: "dis-taijin-kyofusho", title: "تاي جين كيو فوشو (Taijin Kyofusho)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "**حُجر 2026-08-27:** هذا الملف كان يغطي متلازمة تايجين كيوفوشو تحت نوع 'متلازمة'، وهو نفس الموضوع الموثّق بتفصيل أعمق (الأنواع الفرعية الأربعة حسب أوكونوغي، الجدل حول تصنيفها) في ملف آخر تحت نوع 'اضطراب/حالة إكلينيكية' وslug مختلف: dis-taijin-kyofusho. الملف الأصلي قبل الحجر محفوظ في agents_specs/quarantine-spark-archive/syn-taijin-kyofusho.md.archived.2026-08-27."
   - "العناصر الفريدة المفيدة من هذا الملف (رابط المدرسة sch-cognitive-behavioral، وروابط dis-social-anxiety-disorder وdis-body-dysmorphic-disorder وcrt-postcolonial-critique-dsm، والإشارة إلى علاج موريتا) نُقلت إلى dis-taijin-kyofusho.md. القرار المرجّح هو الدمج في dis-taijin-kyofusho وتحويل هذا الملف لإحالة دائمة، مع تحديث 5 ملفات كانت تشير إليه (وقت الحجر)."
+  - "**أُضيف `redirect_to` 2026-09-10:** كان هدفُ هذه الإحالة مذكوراً في العنوان أو المتن فقط، فلا يقرأه أيُّ سكربتٍ أو فحص. وأُثبت الحقلُ صراحةً نحو `dis-taijin-kyofusho`."
 ---
 
 # متلازمة تايجين كيوفوشو (حجر)

@@ -24,7 +24,7 @@ related:
 - id: "trm-mauvaise-foi-bad-faith-sartre", title: "سوء النية (Mauvaise foi): خداع الذات والهروب من مسؤولية الحرية", type: "مصطلح لغوي متنازع عليه"
 - id: "trm-ressentiment-nietzsche", title: "الحقد الوجودي والضغينة (Ressentiment): أخلاق العبيد وتزييف القيم", type: "مصطلح لغوي متنازع عليه"
 - id: "trm-ubermensch-overman-nietzsche", title: "الإنسان المتفوق (Übermensch): تجاوز الذات وتوليد القيم الجديدة", type: "مصطلح لغوي متنازع عليه"
-- id: "trm-wille-zur-macht-nietzsche", title: "إرادة القوة (Wille zur Macht) — إحالة، انظر con-will-to-power وaxi-will-to-power-axiom", type: "مصطلح لغوي متنازع عليه"
+- id: "con-will-to-power", title: "إرادة القوة (Wille zur Macht)", type: "مفهوم"
 - id: "met-sartre-paperknife-essence", title: "سكين الورق لسارتر: استعارة أسبقية الوجود على الماهية", type: "استعارة/مجاز مؤسِّس"
 - id: "que-is-nothingness-a-state", title: "هل العدم حالة وجودية قابلة للتصور أم مجرد سلب عقلي لغوي؟", type: "سؤال توليدي"
 - id: "exp-existential-boredom", title: "الملل الوجودي: تجربة اللا-مَعنى المُستمر", type: "خبرة معيشة"

@@ -14,7 +14,6 @@ edges:
 related:
 - id: "thk-anibal-quijano", title: "أنيبال كويخانو", type: "مفكر"
 - id: "sch-decolonial-latin", title: "الفلسفة الديكولونيالية اللاتينية الأمريكية", type: "مدرسة"
-- id: "con-coloniality-of-power-quijano", title: "استعمارية السلطة والمعرفة (Coloniality of Power)", type: "مفهوم"
 gaps:
   - "ملف con-coloniality-of-power-quijano يغطي نفس المفهوم (استعمارية السلطة عند كويخانو) بشكل مستقل — ازدواج محتمل يحتاج قرار دمج من رئيس التحرير."
   - "لا يتوفر نص أو ترجمة عربية موثقة لمقال كويخانو الأصلي '(Coloniality of Power, Eurocentrism, and Latin America)' الذي صاغ فيه المصطلح."

@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-thomism", target_type: "مدرسة"
 related:
-- id: "axm-tabula-rasa", title: "مبدأ اللوح الفارغ (Tabula Rasa)", type: "بديهية/مبدأ تأسيسي"
+- id: "axi-tabula-rasa-rule", title: "بديهية اللوح الفارغ (Tabula Rasa Axiom)", type: "بديهية/مبدأ تأسيسي"
 - id: "axm-intentionality", title: "بديهية القصديةّة (Intentionality)", type: "بديهية/مبدأ تأسيسي"
 gaps:
   - "لا يوجد في الأطلس ملف مستقل لإريش بريفارا (Erich Przywara) أو لكارل بارت يوثّق مناظرة 1932 مباشرة؛ الإشارة هنا للسياق التاريخي فقط دون ربط بـrelated لعدم توفر slug."

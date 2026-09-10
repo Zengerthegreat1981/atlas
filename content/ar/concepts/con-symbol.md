@@ -19,7 +19,7 @@ related:
 - id: "wrk-essay-on-man-cassirer", title: "مقال عن الإنسان (An Essay on Man) - كاسيرر", type: "عمل / كتاب"
 - id: "wrk-symbolic-forms-cassirer", title: "فلسفة الأشكال الرمزية (Philosophie der symbolischen Formen) - كاسيرر", type: "عمل / كتاب"
 - id: "sch-neokantian", title: "الكانطية الجديدة (ماربورغ وبادن)", type: "مدرسة"
-- id: "con-archetypes", title: "النماذج البدائية والأنماط الأولية للاشعور الجمعي (Archetypes)", type: "مفهوم"
+- id: "con-archetype", title: "النموذج الأصلي (Archetype)", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: السيميائية (sch-semiotic)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: المنطق الرمزي (sch-symbolic-logic)"

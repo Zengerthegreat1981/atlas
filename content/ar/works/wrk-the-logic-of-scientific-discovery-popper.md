@@ -14,7 +14,7 @@ edges:
 related:
 - id: "trm-falsifiability-popper", title: "القابلية للتكذيب والخطأ (Falsifiability): معيار العلم التجريبي الصارم", type: "مصطلح لغوي متنازع عليه"
 - id: "thk-karl-popper", title: "سير كارل بوبر", type: "مفكر"
-- id: "wrk-the-structure-of-scientific-revolutions-kuhn", title: "بنية الثورات العلمية لتوماس كوهن", type: "عمل / كتاب"
+- id: "wrk-kuhn-structure-revolutions", title: "بنية الثورات العلمية (The Structure of Scientific Revolutions)", type: "عمل / كتاب"
 - id: "thk-imre-lakatos", title: "إيمري لاكاتوش", type: "مفكر"
 - id: "thk-pfeyerabend", title: "بول فايرابند", type: "مفكر"
 - id: "thk-wquine", title: "ويلارد فان أورمان كواين", type: "مفكر"

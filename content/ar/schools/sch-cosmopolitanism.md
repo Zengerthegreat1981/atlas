@@ -20,7 +20,6 @@ related:
 - id: "thk-sen", title: "أمارتيا سين", type: "مفكر"
 - id: "thk-nussbaum", title: "مارثا نوسباوم", type: "مفكر"
 - id: "con-capabilities-approach", title: "نهج القدرات", type: "مفهوم"
-- id: "con-cosmopolitanism-world-citizen", title: "المواطنة العالمية والكوزموبوليتية (Cosmopolitanism)", type: "مفهوم"
 - id: "con-cosmopolitanism", title: "المواطنة الكونية (الكوزموبوليتية)", type: "مفهوم"
 - id: "dbt-cosmopolitanism-vs-communitarian-patriotism", title: "المواطنة الكونية مقابل الوطنية والانتماء الجماعاتي", type: "جدل"
 gaps:

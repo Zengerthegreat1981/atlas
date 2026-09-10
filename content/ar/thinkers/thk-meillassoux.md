@@ -12,11 +12,13 @@ language: "الفرنسية"
 part: "philosophy"
 active_start: 1997
 active_end: "مستمر"
+redirect_to: "thk-quentin-meillassoux"
 edges: []
 related:
 - id: "thk-quentin-meillassoux", title: "كونتين ميياسو", type: "مفكر"
 gaps:
   - "هذا ملف ازدواج مؤكَّد: نفس الشخص (Quentin Meillassoux، فيلسوف فرنسي، مؤسس الواقعية المضاربة) موثّق فعلياً على thk-quentin-meillassoux، وهو الملف الأكثر روابط واردة حقيقية (مرتبط من sch-speculative-realism نفسه). كل تفاصيله الحقيقية والمصادر موجودة هناك."
+  - "**أُضيف `redirect_to` 2026-09-10:** كان هدفُ هذه الإحالة مذكوراً في العنوان أو المتن فقط، فلا يقرأه أيُّ سكربتٍ أو فحص. وأُثبت الحقلُ صراحةً نحو `thk-quentin-meillassoux`."
 ---
 
 # كونتين ميياسو (إحالة)

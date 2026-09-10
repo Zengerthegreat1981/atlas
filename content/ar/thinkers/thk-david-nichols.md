@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-roland-griffiths", title: "رولاند غريفثز", type: "مفكر"
 - id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
-- id: "thk-rick-doblin", title: "ريك دوبان", type: "مفكر"
+- id: "thk-rmdoblin", title: "ريك دابلن", type: "مفكر"
 - id: "con-psilocybin", title: "السيلوسيبين في العلاج النفسي", type: "مفهوم"
 - id: "sch-psychedelic-assisted-therapy", title: "العلاج بمساعدة السايكديلية (Psychedelic-Assisted Therapy)", type: "مدرسة"
 gaps:

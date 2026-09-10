@@ -19,7 +19,7 @@ related:
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-hillman", title: "جيمس هيلمان", type: "مفكر"
 - id: "sch-psychoanalysis", title: "التحليل النفسي (Psychoanalysis)", type: "مدرسة"
-- id: "con-archetypes", title: "النماذج البدائية والأنماط الأولية للاشعور الجمعي (Archetypes)", type: "مفهوم"
+- id: "con-archetype", title: "النموذج الأصلي (Archetype)", type: "مفهوم"
 gaps:
   - "قراءة ديفيد تاسي لعلم نفس الأركيتيب في المجتمعات العلمانية الحديثة."
   - "البحث عن المعنى والروحانية الوجودية خارج المؤسسات الكنسية التقليدية."

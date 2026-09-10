@@ -21,7 +21,7 @@ related:
 - id: "thk-berkeley", title: "جورج باركلي", type: "مفكر"
 - id: "sch-lockeanism", title: "اللوكية (اللوكية التجريبية)", type: "مدرسة"
 - id: "sch-british-empiricism", title: "التجريبية البريطانية (كمظلة)", type: "مدرسة"
-- id: "axm-tabula-rasa", title: "مبدأ اللوح الفارغ", type: "بديهية/مبدأ تأسيسي"
+- id: "axi-tabula-rasa-rule", title: "بديهية اللوح الفارغ (Tabula Rasa Axiom)", type: "بديهية/مبدأ تأسيسي"
 - id: "con-tabula-rasa", title: "اللوح الفارغ", type: "مفهوم"
 gaps:
  - "أُسقط اقتباس («كلّ ميتافيزيقا هي تجريبية منحطة») لتعذّر ردّه إلى نصّ وصفحة."

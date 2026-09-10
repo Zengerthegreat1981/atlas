@@ -16,8 +16,8 @@ edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 evidence_level: "controversial"
 related:
-- id: "thk-mgrof", title: "ستانيسلاف غروف", type: "مفكر"
-- id: "br-transpersonal-psychology", title: "علم النفس عبر الشخصي", type: "تيار"
+- id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"
+- id: "sch-transpersonal", title: "علم النفس عبر الشخصي (Transpersonal Psychology)", type: "مدرسة"
 - id: "tec-psychedelic-assisted-therapy", title: "العلاج النفسي بمساعدة المواد السيكوديلية (PAP)", type: "تقنية/تدخل علاجي"
 gaps:
   - "مصفوفات الولادة الحيوية الأربع (Basic Perinatal Matrices - BPM) والوصول إلى طبقات الذاكرة الجنينية والتجاوزية — تحتاج مصدراً أولياً موثقاً."

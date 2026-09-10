@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "philosophy"
 edges:
 related:
-- id: "thk-pdeegan", title: "باتريشا ديجان", type: "مفكر"
+- id: "thk-patdeegan", title: "بات ديغان", type: "مفكر"
 - id: "thk-smead", title: "شيري ميد", type: "مفكر"
 - id: "thk-jchamberlin", title: "جودي تشامبرلين", type: "مفكر"
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"

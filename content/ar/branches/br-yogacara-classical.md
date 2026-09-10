@@ -11,8 +11,17 @@ active_start: 380
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-yogacara", target_type: "مدرسة"
+related:
+- id: "sch-yogacara", title: "يوغاكارا / فيجنانافادا", type: "مدرسة"
+- id: "thk-vasubandhu", title: "فاسوباندو", type: "مفكر"
+- id: "thk-asanga", title: "أسانغا", type: "مفكر"
+- id: "thk-dharmakirti", title: "دارماكيرتي", type: "مفكر"
+- id: "thk-dignaga", title: "دينّاغا", type: "مفكر"
+- id: "con-trisvabhava-three-natures", title: "الطبائع الثلاث للوجود والمعرفة في اليوغاكارا (Trisvabhava)", type: "مفهوم"
+- id: "con-vijnapti-matra-consciousness-only", title: "التمثل والوعي الخالص في اليوغاكارا (Vijnapti-matra)", type: "مفهوم"
 gaps:
   - "لا توجد ترجمة عربية محققة لـ*Triṃśikā-vijñaptimātratā* لفاسوباندو؛ الاقتباس أدناه منقول عبر ترجمة إنجليزية وسيطة (Stefan Anacker) لا عن السنسكريتية أو الصينية مباشرة."
+  - "**أُغلق طريقٌ مسدود 2026-09-10:** كان هذا الملفُّ بأقلَّ من ثلاثة روابطَ ولا أعضاءَ له، فمن يهبط عليه لا يجد مخرجاً. فأُضيف 7 رابطاً إلى أبوها وأشقّائه في شجرة الانتماء — وكلُّهم معلومون من الشجرة نفسِها، فلا صلةَ مُخترَعة."
 ---
 
 # يوغاكارا الوعي الخالص — مدرسة يوغاكارا

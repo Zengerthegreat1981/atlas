@@ -11,9 +11,17 @@ active_start: 1290
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-scotism", target_type: "مدرسة"
+related:
+- id: "sch-scotism", title: "السكوتية", type: "مدرسة"
+- id: "thk-duns-scotus", title: "يوحنا دونز سكوتوس (الدكتور سوتيل)", type: "مفكر"
+- id: "axi-univocity-of-being-axiom", title: "التواطؤ الوجودي لسكوتس (Univocity of Being)", type: "بديهية/مبدأ تأسيسي"
+- id: "wrk-ordinatio-duns-scotus", title: "الأورديناتيو لجون دانز سكوتس (Opus Oxoniense)", type: "عمل / كتاب"
+- id: "con-haecceity-thisness-scotus", title: "الهذّية والتشخص الفردي العيني (Haecceity / Thisness)", type: "مفهوم"
+- id: "con-univocity-of-being-scotus", title: "التواطؤ الوجودي للفظ والمعنى (Univocity of Being)", type: "مفهوم"
 gaps:
   - "تفاصيل جدل سكوتس مع التوماويين حول «الاشتراك التناظري/الأحادي» (univocity) لمفهوم الوجود تحتاج توسيعاً من نصوصه اللاتينية الأصلية."
   - "لا تتوفر ترجمة عربية موثوقة لمقطع من بونافنتورا أو دانز سكوتس يمكن الاستشهاد به مباشرة."
+  - "**أُغلق طريقٌ مسدود 2026-09-10:** كان هذا الملفُّ بأقلَّ من ثلاثة روابطَ ولا أعضاءَ له، فمن يهبط عليه لا يجد مخرجاً. فأُضيف 6 رابطاً إلى أبوها وأشقّائه في شجرة الانتماء — وكلُّهم معلومون من الشجرة نفسِها، فلا صلةَ مُخترَعة."
 ---
 
 # السكولاستية الفرنسيسكانية السكوتية — السكولاستية

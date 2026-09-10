@@ -9,12 +9,14 @@ en: "The Mind-Body Interaction — duplicate, see qst-mind-body-interaction-prob
 crumb: "فلسفة العقل والطب النفسي الجسدي ← الأسئلة المولِّدة ← [حجر]"
 active_start: null
 active_end: "مستمر"
+status: "quarantined"
 edges: []
 related:
 - id: "qst-mind-body-interaction-problem", title: "كيف يؤثر غير المادي في المادي؟ معضلة التفاعل بين النفس والجسد", type: "سؤال توليدي"
 gaps:
   - "**حُجر 2026-09-01:** هذا الملف يطرح نفس السؤال التوليدي بالضبط (تفاعل العقل/النفس اللامادي مع الجسد المادي، عبر نفس زوج الإجابتين: تفاعلية ديكارت والغدة الصنوبرية 1649 مقابل أحادية سبينوزا 1677) الموثَّق بتفصيل أعمق ومصادر أولية مباشرة (Meditationes 1641، Passiones Animae 1649، Ethica 1677) في ملف آخر معتمد بالفعل: qst-mind-body-interaction-problem (QUE-0129). النسخة الأصلية قبل الحجر محفوظة في agents_specs/quarantine-minimax-archive/que-mind-body-interaction.md.archived.2026-09-01."
   - "طلب حسم الازدواج مسجَّل في agents_specs/requests-minimax.md — القرار المرجّح دمج أي روابط واردة فريدة (لم يوجد أي ملف يشير لهذا الـslug وقت الحجر) في qst-mind-body-interaction-problem وإبقاء هذا الملف إحالة دائمة."
+  - "**وُسم بالحجر 2026-09-10:** هذا الملفُّ **محجورٌ لا مُحال**: لم يُوثَّق مضمونُه ولا يوجد ملفٌّ يُحال إليه، فلا يصحُّ إعطاؤه `redirect_to`. وأُضيف `status: quarantined` ليُقرأ الفرقُ آلياً بين الإحالة والحجر."
 ---
 
 # كيف يؤثر الفكر غير المادي في الجسد المادي؟ (حجر)

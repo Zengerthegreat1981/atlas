@@ -10,7 +10,7 @@ crumb: "العلاج باليقظة ← جدالات منهجية ← علاجي
 active_start: 1979
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "sch-cbt", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "crt-critique-of-mindfulness", title: "نقد تَجْرِيد الْيَقَظَة مِن الْبُوذِيَّة: «Mcmindfulness»", type: "نقد خارجي موثَّق"
 - id: "con-mindfulness", title: "اليقظة الذهنية (Mindfulness)", type: "مفهوم"

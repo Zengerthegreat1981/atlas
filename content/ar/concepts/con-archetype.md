@@ -22,7 +22,6 @@ related:
 - id: "thk-astevens", title: "أنتوني ستيفنز", type: "مفكر"
 - id: "con-anima-animus", title: "الأنيما والأنيموس", type: "مفهوم"
 - id: "con-complex", title: "العقدة النفسية المركبة (Complex)", type: "مفهوم"
-- id: "con-archetypes", title: "النماذج البدائية (Archetypes) — إحالة", type: "مفهوم"
 - id: "br-family-sandplay", title: "علاج الأسر الرملية", type: "تيار"
 - id: "con-collective-unconscious", title: "اللاوعي الجماعي", type: "مفهوم"
 - id: "con-shadow", title: "الظلّ (Shadow)", type: "مفهوم"

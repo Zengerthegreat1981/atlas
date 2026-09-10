@@ -15,7 +15,7 @@ crumb: "العلاج بالحركة والرقص ← الناس ← بيني ل�
 edges:
 - rel: "belongs_to", target: "tec-dance-movement-therapy", target_type: "تيار"
 related:
-- id: "thk-mwhitehouse", title: "ماري ستاركس وايتهاوس", type: "مفكر"
+- id: "thk-mary-whitehouse", title: "ماري وايتهاوس", type: "مفكر"
 gaps:
   - "إحالة معلَّقة أُزيلت: «مارينا ديلو» (thk-mdileo) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
   - "إحالة معلَّقة أُزيلت: «شيرلي مكلاري» (thk-cmcalary) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."

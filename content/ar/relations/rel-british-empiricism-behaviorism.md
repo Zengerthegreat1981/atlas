@@ -22,7 +22,7 @@ related:
 - id: "sch-lockeanism", title: "اللوكية", type: "مدرسة"
 - id: "sch-humeanism", title: "الهيومية", type: "مدرسة"
 - id: "sch-berkeleianism", title: "المثالية الذاتية البركلية", type: "مدرسة"
-- id: "rel-cognitive-revolution", title: "الثورة المعرفية في علم النفس: من Chomsky إلى Neisser", type: "علاقة بين مدرستين"
+- id: "rel-behaviorism-cognitive", title: "السلوكية والمعرفية: الثورة المعرفية داخل السلوكية", type: "علاقة بين مدرستين"
 gaps:
   - "العلاقة المباشرة بين هيوم وواطسون موثّقة في المراجع الثانوية (Boring 1950، Buckholz 1990) لكن لا اقتباس مباشر من واطسون عن هيوم."
   - "تأثير التطورية الداروينية على نشأة السلوكية (Darwin→Romanes→Morgan→Watson) موثّق لكن تفاصيله في هذا الملف غير مكتملة."

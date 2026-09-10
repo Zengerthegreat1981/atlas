@@ -11,6 +11,7 @@ language: "الإنجليزية"
 active_start: null
 active_end: null
 crumb: "الموجة الثالثة ← الناس ← [حجر]"
+redirect_to: "thk-jkabat-zinn"
 edges: []
 related:
 - id: "thk-jkabat-zinn", title: "جون كابات-زين", type: "مفكر"
@@ -18,6 +19,7 @@ gaps:
   - "**حُجر 2026-08-27 (قرار رئيس التحرير):** هذا الملف ازدواج تام لملف thk-jkabat-zinn (نفس الشخص، نفس التواريخ 1944–). thk-jkabat-zinn أقرب لأسلوب الأطلس النثري المعتمد، فاعتُمد كملف قانوني ودُمج هذا الملف فيه. النسخة الأصلية قبل الحجر محفوظة في agents_specs/quarantine-spark-archive/thk-jkabat.md.archived.2026-08-27."
   - "التفاصيل المفيدة التي كانت فريدة لهذا الملف (ترجمة عنوان 'Coming to Our Senses' كـ«العودة إلى حواسنا»، وانتقادات McMindfulness/Purser 2019) نُقلت إلى thk-jkabat-zinn.md."
   - "لا توجد ملفات أخرى في content/ar/ كانت تشير إلى thk-jkabat في related/edges (تحقّق 2026-08-27)."
+  - "**أُضيف `redirect_to` 2026-09-10:** كان هدفُ هذه الإحالة مذكوراً في العنوان أو المتن فقط، فلا يقرأه أيُّ سكربتٍ أو فحص. وأُثبت الحقلُ صراحةً نحو `thk-jkabat-zinn`."
 ---
 
 # جون كابات-زين (حجر)

@@ -17,7 +17,6 @@ related:
 - id: "thk-locke", title: "جون لوك", type: "مفكر"
 - id: "sch-british-empiricism", title: "التجريبية البريطانية (كمظلة)", type: "مدرسة"
 - id: "axi-tabula-rasa-rule", title: "بديهية اللوح الفارغ (Tabula Rasa Axiom)", type: "بديهية"
-- id: "trm-tabula-rasa-locke", title: "الصفحة البيضاء (Tabula Rasa): العقل الفطري الخالي من الأفكار", type: "مصطلح"
 gaps:
   - "هذا الملف يكاد يكرّر موضوعياً ملف con-tabula-rasa (نفس المفهوم، نفس الصائغ جون لوك 1689، نفس المدرسة عبر sch-lockeanism/sch-british-empiricism) وهناك أيضاً axi-tabula-rasa-rule وtrm-tabula-rasa-locke يغطيان الجانبين البديهي والمصطلحي لنفس الفكرة — القرار البشري بدمج هذه الملفات الأربعة أو الإبقاء على كل منها بزاوية متمايزة (مفهوم عام / بديهية منهجية / مدخل مصطلحي) لم يُتَّخذ بعد، ويحتاج مراجعة تحريرية مباشرة."
 ---

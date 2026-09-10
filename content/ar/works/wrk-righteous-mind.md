@@ -55,4 +55,4 @@ gaps:
 ## المصادر
 
 - Haidt, Jonathan. *The Righteous Mind: Why Good People Are Divided by Politics and Religion*. Pantheon Books, 2012 (الطبعة الأصلية).
-- ملف المؤلِّف: [جوناثان هايدت](thk-jonathan-haidt.md)، الذي يميّز صراحة بين أطروحة هذا الكتاب (الأسس الأخلاقية الستّة) وأطروحة *The Happiness Hypothesis* السابقة (استعارة الفيل والراكب).
+- ملف المؤلِّف: `thk-jonathan-haidt`، الذي يميّز صراحة بين أطروحة هذا الكتاب (الأسس الأخلاقية الستّة) وأطروحة *The Happiness Hypothesis* السابقة (استعارة الفيل والراكب).

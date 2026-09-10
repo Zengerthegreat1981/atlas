@@ -11,6 +11,7 @@ language: "الإنجليزية"
 active_start: null
 active_end: null
 crumb: "إرشاد التمييز والبت الزوجي ← [حجر]"
+status: "quarantined"
 edges: []
 related: []
 gaps:
@@ -19,6 +20,7 @@ gaps:
   - "النسخة الأصلية قبل الحجر محفوظة في agents_specs/quarantine-spark-archive/thk-kathylaurenceau.md.archived.2026-08-27."
   - "لا توجد ملفات أخرى في content/ar/ كانت تشير إلى thk-kathylaurenceau في related/edges (تحقّق 2026-08-27)."
   - "نسخة المسودة غير المعتمدة content/ar/drafts/spark/thinkers/thk-kathylaurenceau.md حُذفت بالكامل بتاريخ 2026-08-27 (مسودة لم تُعتمد قط لشخص مؤكَّد اختلاقه، لا حاجة لإحالة)."
+  - "**وُسم بالحجر 2026-09-10:** هذا الملفُّ **محجورٌ لا مُحال**: لم يُوثَّق مضمونُه ولا يوجد ملفٌّ يُحال إليه، فلا يصحُّ إعطاؤه `redirect_to`. وأُضيف `status: quarantined` ليُقرأ الفرقُ آلياً بين الإحالة والحجر."
 ---
 
 # كاثي لورنسو (حجر)

@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-nietzscheanism", target_type: "مدرسة"
 related:
-- id: "trm-wille-zur-macht-nietzsche", title: "إرادة القوة (Wille zur Macht) — إحالة، انظر con-will-to-power وaxi-will-to-power-axiom", type: "مصطلح لغوي متنازع عليه"
+- id: "con-will-to-power", title: "إرادة القوة (Wille zur Macht)", type: "مفهوم"
 - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
 - id: "wrk-nietzsche-thus-spoke-zarathustra", title: "كتاب هكذا تكلم زرادشت لفريدريش نيتشه (1883)", type: "عمل / كتاب"
 gaps:

@@ -9,6 +9,7 @@ en: "The Blank Slate Axiom — duplicate, see axi-tabula-rasa-rule"
 crumb: "الفلسفة ← البديهيات التأسيسية ← [حجر]"
 active_start: null
 active_end: "مستمر"
+redirect_to: "axi-tabula-rasa-rule"
 edges:
 - rel: "relates_to", target: "axi-tabula-rasa-rule", target_type: "بديهية/مبدأ تأسيسي"
 related:
@@ -16,6 +17,7 @@ related:
 gaps:
   - "حُجر 2026-09-01: هذا الملف كان يغطي نفس بديهية اللوح الفارغ عند جون لوك (An Essay Concerning Human Understanding، 1690) الموثّقة بتفصيل أعمق (نص الاقتباس بالفصل والباب، خلفية ديكارت، الأصل الأرسطي للمصطلح، النقد التشومسكي والتطوري، ومصادر محققة) في axi-tabula-rasa-rule تحت slug مختلف. القرار المرجّح: إحالة دائمة، لا كتابة سيرة موازية لنفس المبدأ تحت هذا الـslug (قاعدة 6 في MINIMAX.md)."
   - "18 ملفاً في الأطلس ما زالوا يشيرون لـaxm-tabula-rasa (راجع agents_specs/requests-minimax.md أو تقرير هذه الدفعة) — تحديثها لتشاور axi-tabula-rasa-rule خارج نطاق هذه الدفعة، ويحتاج تكليفاً منفصلاً."
+  - "**أُضيف `redirect_to` 2026-09-10:** كان هدفُ هذه الإحالة مذكوراً في العنوان أو المتن فقط، فلا يقرأه أيُّ سكربتٍ أو فحص. وأُثبت الحقلُ صراحةً نحو `axi-tabula-rasa-rule`."
 ---
 
 # مبدأ اللوح الفارغ (حجر)

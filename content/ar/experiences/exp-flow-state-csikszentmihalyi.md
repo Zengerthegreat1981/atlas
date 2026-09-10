@@ -17,7 +17,7 @@ related:
 - id: "thk-csikszentmihalyi", title: "ميهاي تشيكسنتميهاي", type: "مفكر"
 - id: "wrk-flow-csikszentmihalyi", title: "التدفق: سيكولوجيا التجربة المثلى", type: "عمل"
 - id: "stu-deci-intrinsic-motivation", title: "دراسات ديسي وراين للتحفيز الداخلي ونظرية التحديد الذاتي", type: "دراسة"
-- id: "rel-positive-humanistic", title: "علم النفس الإيجابي والإنسانية: من Maslow إلى Seligman", type: "علاقة"
+- id: "rel-humanistic-positive", title: "الإنسانية وعلم النفس الإيجابي: ابن ينسى أباه", type: "علاقة بين مدرستين"
 gaps:
 - "مقارنة تجربة الفيض عبر ميادين مختلفة (تسلق الصخور، الشطرنج، الجراحة) تحتاج فصلاً يستند إلى بيانات أخذ العينات التجريبية (ESM) الأصلية لا إلى وصف عام."
 ---

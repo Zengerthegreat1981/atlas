@@ -15,7 +15,7 @@ edges:
 related:
 - id: "rel-confucian-self-cultivation-family-systems", title: "تزكية الذات الكونفوشية والعلاج الأسري النظامي (Bowen)", type: "علاقة بين مدرستين"
 - id: "rel-integrative-humanistic-common-factors", title: "التكاملية (العامل المشترك) والإنسانية: الأم الأصلية", type: "علاقة بين مدرستين"
-- id: "rel-emdr-trauma", title: "إعادة المعالجة عبر حركات العين وعلاج الصدمة: من Shapiro إلى van der Kolk", type: "علاقة بين مدرستين"
+- id: "rel-trauma-ptsd-therapy", title: "اضطراب الكرب التالي للصدمة وعلاجاته: تشخيصٌ صنعته السياسة وعلاجٌ سبق تفسيره", type: "علاقة بين مدرستين"
 - id: "rel-narrative-constructionist", title: "العلاج السردي والبنائية: من White إلى Gergen", type: "علاقة بين مدرستين"
 gaps:
   - "لا يوجد نص لمارشا لينهان نفسها يحيل صراحة إلى هيراقليطس بالاسم؛ الصلة هنا تحليلية استخلصها شراح لاحقون، لا مصدر أولي موثّق يربطهما مباشرة."

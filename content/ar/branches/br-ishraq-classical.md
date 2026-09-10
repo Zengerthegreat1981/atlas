@@ -11,8 +11,17 @@ active_start: 1180
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-ishraqiyya", target_type: "مدرسة"
+related:
+- id: "sch-ishraqiyya", title: "الإشراقية", type: "مدرسة"
+- id: "thk-suhrawardi", title: "شهاب الدين يحيى بن حبش السهروردي (شيخ الإشراق)", type: "مفكر"
+- id: "wrk-hikmat-al-ishraq-suhrawardi", title: "حكمة الإشراق للسهروردي", type: "عمل / كتاب"
+- id: "con-alam-al-mithal-imaginal", title: "عالم المثال والبرزخ الروحي (Alam al-Mithal / Mundus Imaginalis)", type: "مفهوم"
+- id: "con-knowledge-by-presence-ilm-huduri", title: "العلم الحضوري والشهود الذاتي (Knowledge by Presence)", type: "مفهوم"
+- id: "thk-al-shahrazuri", title: "شمس الدين محمد بن محمود الشهرزوري", type: "مفكر"
+- id: "thk-qutb-al-din-al-shirazi", title: "قطب الدين محمود بن مسعود الشيرازي", type: "مفكر"
 gaps:
   - "لم تُراجَع نسخة كاملة من \"حكمة الإشراق\" بالعربية للتحقق حرفياً من صياغة تراتب الأنوار ونقد المشائين."
+  - "**أُغلق طريقٌ مسدود 2026-09-10:** كان هذا الملفُّ بأقلَّ من ثلاثة روابطَ ولا أعضاءَ له، فمن يهبط عليه لا يجد مخرجاً. فأُضيف 7 رابطاً إلى أبوها وأشقّائه في شجرة الانتماء — وكلُّهم معلومون من الشجرة نفسِها، فلا صلةَ مُخترَعة."
 ---
 
 # الإشراقية الكلاسيكية — المدرسة الإشراقية

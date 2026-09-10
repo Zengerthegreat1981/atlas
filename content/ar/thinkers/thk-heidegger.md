@@ -64,7 +64,7 @@ related:
 - id: "thk-barrett", title: "ويليام باريت", type: "مفكر"
 - id: "thk-marcuse", title: "هربرت ماركوزه", type: "مفكر"
 - id: "thk-lowith", title: "كارل لوفيت", type: "مفكر"
-- id: "thk-stein", title: "إديث شتاين", type: "مفكر"
+- id: "thk-edith-stein", title: "إديث شتاين (ظاهراتية، توماوية، شهيدة)", type: "مفكر"
 - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
 - id: "thk-jonas", title: "هانز يوناس", type: "مفكر"
 - id: "thk-levinas", title: "إيمانويل ليفيناس", type: "مفكر"

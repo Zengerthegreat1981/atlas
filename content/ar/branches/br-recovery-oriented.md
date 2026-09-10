@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "philosophy"
 edges:
 related:
-- id: "thk-pdeegan", title: "باتريشا ديجان", type: "مفكر"
+- id: "thk-patdeegan", title: "بات ديغان", type: "مفكر"
 - id: "con-recovery-model", title: "نموذج التعافي (Recovery)", type: "مفهوم"
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 - id: "thk-dan-fisher", title: "دان فيشر", type: "مفكر"

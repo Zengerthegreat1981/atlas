@@ -16,7 +16,7 @@ evidence_level: "traditional"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-- id: "br-transpersonal-psychology", title: "علم النفس عبر الشخصي (القوة الرابعة)", type: "تيار"
+- id: "sch-transpersonal", title: "علم النفس عبر الشخصي (Transpersonal Psychology)", type: "مدرسة"
 - id: "tec-meaning-centered-psychotherapy", title: "العلاج النفسي المرتكز على المعنى", type: "تقنية/تدخل علاجي"
 gaps:
   - "ملف مستقل لأنطون بويسن (Anton Boisen)، مؤسس حركة التعليم الرعوي الإكلينيكي (Clinical Pastoral Education) عام 1925 في مستشفى وستربورو النفسي بولاية ماساتشوستس — غير موجود بعد في الأطلس؛ التوثيق الإكلينيكي الدقيق لدوره يحتاج ملفاً مستقلاً."

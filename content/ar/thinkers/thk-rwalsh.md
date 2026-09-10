@@ -15,7 +15,6 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-transpersonal", target_type: "مدرسة"
 related:
-- id: "br-transpersonal-psychology", title: "علم النفس عبر الشخصي (القوة الرابعة)", type: "تيار"
 - id: "sch-transpersonal", title: "علم النفس عبر الشخصي (Transpersonal Psychology)", type: "مدرسة"
 gaps:
   - "تاريخ دقيق لبداية تدريسه في جامعة كاليفورنيا-إرفين وتفاصيل تخصصه الأول (طب نفسي أم فلسفة) تحتاج توثيقاً من سيرته الرسمية."

@@ -12,11 +12,13 @@ language: "الإنجليزية"
 part: "psychology"
 active_start: 1980
 active_end: "مستمر"
+redirect_to: "thk-rkthaler"
 edges: []
 related:
 - id: "thk-rkthaler", title: "ريتشارد هـ. ثالر", type: "مفكر"
 gaps:
   - "هذا ملف ازدواج مؤكَّد: نفس الشخص (Richard H. Thaler، مؤسس الاقتصاد السلوكي المعاصر، جائزة نوبل 2017) موثّق فعلياً على thk-rkthaler (دفعة 2.23)، وهو الأكثر روابط واردة حقيقية (wrk-nudge كـauthor_slug، thk-kahneman، thk-rkahneman). كل تفاصيله الحقيقية والمصادر موجودة هناك."
+  - "**أُضيف `redirect_to` 2026-09-10:** كان هدفُ هذه الإحالة مذكوراً في العنوان أو المتن فقط، فلا يقرأه أيُّ سكربتٍ أو فحص. وأُثبت الحقلُ صراحةً نحو `thk-rkthaler`."
 ---
 
 # ريتشارد ثالر (إحالة)

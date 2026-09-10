@@ -4,7 +4,7 @@ id: "WRK-0734"
 type: "عمل / كتاب"
 part: "philosophy"
 level: "متقدم"
-title: "بنية الثورات العلمية لتوماس كوهن"
+title: "بنية الثورات العلمية لتوماس كوهن — إحالة، انظر wrk-kuhn-structure-revolutions"
 en: "The Structure Of Scientific Revolutions Kuhn"
 crumb: "المكتبة الفلسفية ← أمهات الأعمال والمصادر ← بنية الثورات العلمية لتوماس كوهن"
 active_start: 1962
@@ -20,11 +20,12 @@ related:
 - id: "wrk-kuhn-structure-revolutions", title: "بنية الثورات العلمية (The Structure of Scientific Revolutions)", type: "عمل / كتاب"
 gaps:
   - "[حجر] دُمج هذا الملف إحالةً إلى wrk-kuhn-structure-revolutions (WRK-0366) — نفس الكتاب، والملف المعتمد أعمق بكثير (78 سطراً مقابل 25) ومرتبط فعلياً بـcon-paradigm-shift-kuhn وcon-incommensurability-kuhn وsch-kuhnianism."
+  - "**وُسم العنوان 2026-09-10:** كان هذا الملفُّ إحالةً مُصرِّحةً في متنه إلى `wrk-kuhn-structure-revolutions`، لكنّ عنوانَه لا يُبيّن ذلك — فيظهر في الفهارس والبحث مدخلاً كاملاً يزاحم الملفَّ القانونيَّ بعنوانٍ يكاد يطابقه. وهو العيبُ نفسُه الذي أُصلح في `sch-cbt` قبلاً."
 ---
 
 # بنية الثورات العلمية لتوماس كوهن
 
-**ملاحظة تحرير**: دُمج هذا الملف إحالةً إلى [wrk-kuhn-structure-revolutions](wrk-kuhn-structure-revolutions.md) — راجع الملف المعتمد للمحتوى الكامل.
+**ملاحظة تحرير**: دُمج هذا الملف إحالةً إلى `wrk-kuhn-structure-revolutions` — راجع الملف المعتمد للمحتوى الكامل.
 
 ## المصادر
 

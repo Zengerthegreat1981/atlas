@@ -15,10 +15,18 @@ edges:
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+- id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
+- id: "sch-narrative-therapy", title: "العلاج السردي (Narrative Therapy)", type: "مدرسة"
+- id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
+- id: "thk-mbowen", title: "موراي بوين", type: "مفكر"
+- id: "sch-eft-couples", title: "العلاج الزوجي المتمحور حول المشاعر (EFT for Couples)", type: "مدرسة"
+- id: "sch-imago", title: "العلاج بالـ Imago", type: "مدرسة"
+- id: "tec-psychoeducational-family", title: "العلاج الأسري التثقيفي النفسي", type: "تقنية/تدخل علاجي"
 gaps:
   - "**حُذف رابطٌ مُقحَم 2026-09-08:** كان `related` يحمل `br-sikolohiyang-pilipino` (علم النفس الفلبيني الأصيل) بلا أيِّ مسوّغ — ولا يُذكَر الفلبينُ ولا إنريكيز ولا «kapwa» في متن هذا الملفّ. وهو من دفعةٍ قالبيةٍ رُصد هدفُها الأوّل من قبل وأُغفل هذا."
   - "تاريخ البدء في Children's Memorial Hospital في شيكاغو يستحق مصدراً."
   - "نموذج الانتشار العالمي (FFT LLC) يستحق توثيقاً."
+  - "**أُغلق طريقٌ مسدود 2026-09-10:** كان هذا الملفُّ بأقلَّ من ثلاثة روابطَ ولا أعضاءَ له، فمن يهبط عليه لا يجد مخرجاً. فأُضيف 7 رابطاً إلى أبوها وأشقّائه في شجرة الانتماء — وكلُّهم معلومون من الشجرة نفسِها، فلا صلةَ مُخترَعة."
 ---
 
 # العلاج الأسري الوظيفي (FFT)

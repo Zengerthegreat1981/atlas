@@ -21,7 +21,7 @@ related:
 - id: "sch-phenomenology-hermeneutic", title: "الظاهراتية التأويلية (Hermeneutic Phenomenology)", type: "مدرسة"
 - id: "sch-existentialism-religious", title: "الوجودية الدينية/المسيحية (Christian Existentialism)", type: "مدرسة"
 - id: "con-intentionality", title: "القصدية (Intentionalität)", type: "مفهوم"
-- id: "con-epoché-phenomenological-reduction", title: "الإيبوخي (Epoché): التعليق المنهجي للحكم", type: "مفهوم"
+- id: "con-epoche-phenomenological-reduction", title: "الإيبوخي والرد الفينومينولوجي (Epoché / Phenomenological Reduction)", type: "مفهوم"
 - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"

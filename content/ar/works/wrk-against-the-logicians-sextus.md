@@ -52,4 +52,4 @@ gaps:
 
 - Sextus Empiricus. *Against the Logicians*. Translated by Richard Bett. Cambridge University Press, 2005.
 - Sextus Empiricus. *Against the Logicians* (Adversus Mathematicos VII–VIII). Translated by R. G. Bury. Loeb Classical Library, 1935.
-- ملف المؤلف: [سكستوس إمبيريكوس](thk-sextus-empiricus.md).
+- ملف المؤلف: `thk-sextus-empiricus`.

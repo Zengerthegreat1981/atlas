@@ -10,12 +10,14 @@ crumb: "الاضطرابات والمتلازمات ← المتلازمات ا�
 active_start: 1978
 active_end: "مستمر"
 language: "متعدد اللغات"
+redirect_to: "syn-impostor-syndrome"
 edges: []
 related:
 - id: "syn-impostor-syndrome", title: "متلازمة المحتال (Impostor Syndrome)", type: "متلازمة"
 gaps:
   - "**حُجر 2026-08-27:** هذا الملف كان يغطي ظاهرة/متلازمة المحتال بمحتوى أقصر من الملف الآخر المعتمد في هذا الأطلس تحت الموضوع نفسه: syn-impostor-syndrome (تغطية أعمق للأنواع الفرعية الخمسة، النماذج النظرية الأربعة، الدراسات الحديثة، والمصادر). الملف الأصلي قبل الحجر محفوظ في agents_specs/quarantine-spark-archive/syn-impostor.md.archived.2026-08-27."
   - "العناصر الفريدة المفيدة من هذا الملف (روابط dis-social-anxiety-disorder وdis-gad وdis-avoidant-personality، والتمييز عن con-jonah-complex) نُقلت إلى syn-impostor-syndrome.md. القرار المرجّح هو الدمج في syn-impostor-syndrome وتحويل هذا الملف لإحالة دائمة، مع تحديث 4 ملفات كانت تشير إليه (وقت الحجر)."
+  - "**أُضيف `redirect_to` 2026-09-10:** كان هدفُ هذه الإحالة مذكوراً في العنوان أو المتن فقط، فلا يقرأه أيُّ سكربتٍ أو فحص. وأُثبت الحقلُ صراحةً نحو `syn-impostor-syndrome`."
 ---
 
 # ظاهرة / متلازمة المحتال (حجر)

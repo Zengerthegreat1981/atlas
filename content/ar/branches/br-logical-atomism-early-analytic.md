@@ -11,8 +11,17 @@ active_start: 1918
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-logical-atomism", target_type: "مدرسة"
+related:
+- id: "sch-logical-atomism", title: "الذرية المنطقية", type: "مدرسة"
+- id: "thk-lwittgenstein", title: "لودفيغ فيتغنشتاين", type: "مفكر"
+- id: "thk-bertrand-russell", title: "برتراند راسل", type: "مفكر"
+- id: "wrk-tractatus", title: "رسالة منطقية-فلسفية (Tractatus Logico-Philosophicus)", type: "عمل / كتاب"
+- id: "con-picture-theory-of-language", title: "النظرية التصويرية للغة في التراكتاتوس (Picture Theory)", type: "مفهوم"
+- id: "wrk-tractatus-logico-philosophicus-wittgenstein", title: "الرسالة المنطقية الفلسفية لفيتغنشتاين (Tractatus)", type: "عمل / كتاب"
+- id: "con-compositionality-principle-frege", title: "مبدأ التركيبية الدلالية لفريجه (Compositionality)", type: "مفهوم"
 gaps:
   - "لم تُراجَع نسخة كاملة من محاضرات راسل \"فلسفة الذرية المنطقية\" (1918) بالإنجليزية للتحقق حرفياً من صياغته لعلاقة اللغة بـ\"الوقائع الذرية\"."
+  - "**أُغلق طريقٌ مسدود 2026-09-10:** كان هذا الملفُّ بأقلَّ من ثلاثة روابطَ ولا أعضاءَ له، فمن يهبط عليه لا يجد مخرجاً. فأُضيف 7 رابطاً إلى أبوها وأشقّائه في شجرة الانتماء — وكلُّهم معلومون من الشجرة نفسِها، فلا صلةَ مُخترَعة."
 ---
 
 # الذرية المنطقية وفلسفة التحليل المبكرة

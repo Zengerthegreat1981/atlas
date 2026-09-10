@@ -15,7 +15,7 @@ related:
 - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
 - id: "con-categorical-imperative-kant", title: "الأمر الأخلاقي المطلق عند كانط (Categorical Imperative)", type: "مفهوم"
 - id: "con-autonomy-kantian", title: "الاستقلالية (Autonomy) في الكانطية الأخلاقية", type: "مفهوم"
-- id: "con-cosmopolitanism-world-citizen", title: "المواطنة العالمية والكوزموبوليتية (Cosmopolitanism)", type: "مفهوم"
+- id: "con-cosmopolitanism", title: "المواطنة الكونية (الكوزموبوليتية)", type: "مفهوم"
 - id: "wrk-critique-of-practical-reason-kant", title: "نقد العقل العملي لإيمانويل كانط", type: "عمل"
 gaps:
   - "التحليل الإبستمولوجي واللغوي الدقيق لتطور المفهوم عبر التاريخ."

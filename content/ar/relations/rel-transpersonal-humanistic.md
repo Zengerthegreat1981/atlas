@@ -14,7 +14,7 @@ edges:
 - rel: "relates_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
 - id: "br-humanistic", title: "الإنساني-الوجودي الأمريكي", type: "تيار"
-- id: "br-transpersonal-psychology", title: "علم النفس عبر الشخصي", type: "تيار"
+- id: "sch-transpersonal", title: "علم النفس عبر الشخصي (Transpersonal Psychology)", type: "مدرسة"
 - id: "br-self-actualization-maslow", title: "علم نفس تحقيق الذات والدافعية الإنسانية (ماسلو)", type: "تيار"
 - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
 - id: "thk-sgrof", title: "ستانيسلاف غروف", type: "مفكر"

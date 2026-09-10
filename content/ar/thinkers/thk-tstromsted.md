@@ -15,7 +15,7 @@ crumb: "الحركة الأصيلة ← الناس ← تينا سترومستد
 edges:
 - rel: "belongs_to", target: "tec-authentic-movement", target_type: "تقنية/تدخل علاجي"
 related:
-- id: "thk-mwhitehouse", title: "ماري ستاركس وايتهاوس", type: "مفكر"
+- id: "thk-mary-whitehouse", title: "ماري وايتهاوس", type: "مفكر"
 - id: "thk-jadler", title: "جانيت أدلر", type: "مفكر"
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 gaps:

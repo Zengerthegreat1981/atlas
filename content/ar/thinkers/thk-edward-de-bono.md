@@ -11,6 +11,7 @@ language: "الإنجليزية"
 active_start: null
 active_end: null
 crumb: "علم النفس الشعبي والتفكير الجانبي ← [حجر]"
+redirect_to: "thk-de-bono"
 edges: []
 related:
 - id: "thk-de-bono", title: "إدوارد دي بونو", type: "مفكر"
@@ -18,6 +19,7 @@ gaps:
   - "**حُجر 2026-08-27 (قرار رئيس التحرير):** هذا الملف ازدواج تام لملف thk-de-bono (نفس الشخص، نفس التواريخ 1933–2021). thk-de-bono أعمق توثيقاً (اقتباس موثّق، شبكة related أوسع)، فاعتُمد كملف قانوني ودُمج هذا الملف فيه. النسخة الأصلية قبل الحجر محفوظة في agents_specs/quarantine-spark-archive/thk-edward-de-bono.md.archived.2026-08-27."
   - "التفاصيل المفيدة التي كانت فريدة لهذا الملف (مثل روابط stu-duncker-candle-problem وwrk-six-thinking-hats وcon-six-thinking-hats، وفقرة 'القيد' حول محدودية التحقق التجريبي) نُقلت إلى thk-de-bono.md."
   - "الروابط الواردة من stu-duncker-candle-problem.md وwrk-six-thinking-hats.md وcon-six-thinking-hats.md حُدّثت لتشير إلى thk-de-bono بدل هذا الـslug."
+  - "**أُضيف `redirect_to` 2026-09-10:** كان هدفُ هذه الإحالة مذكوراً في العنوان أو المتن فقط، فلا يقرأه أيُّ سكربتٍ أو فحص. وأُثبت الحقلُ صراحةً نحو `thk-de-bono`."
 ---
 
 # إدوارد دي بونو (حجر)

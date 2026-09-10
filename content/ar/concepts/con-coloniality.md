@@ -17,7 +17,7 @@ related:
 - id: "thk-said", title: "إدوارد سعيد", type: "مفكر"
 - id: "sch-decolonial-philosophy", title: "الفلسفة الديكولونيالية (كمظلة عالمية)", type: "مدرسة"
 - id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
-- id: "con-coloniality-of-power-quijano", title: "استعمارية السلطة والمعرفة (Coloniality of Power)", type: "مفهوم"
+- id: "con-coloniality-of-power-concept", title: "استعمارية السلطة والتصنيف العرقي (Coloniality of Power)", type: "مفهوم"
 gaps:
   - "لم تُراجع بعدُ مقالة Quijano الأصلية 'Coloniality of Power' (2000) ولا Mignolo *The Idea of Latin America* (2005)."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."

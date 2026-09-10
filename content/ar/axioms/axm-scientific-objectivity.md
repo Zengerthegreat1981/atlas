@@ -11,7 +11,7 @@ active_start: null
 active_end: "مستمر"
 edges:
 - rel: "formulated_by", target: "thk-jwatson", target_type: "مفكر"
-- rel: "relates_to", target: "br-logical-positivism-vienna-circle", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-vienna-circle", target_type: "مدرسة"
 related:
 - id: "axm-reductionism", title: "بديهية الاختزالية", type: "بديهية/مبدأ تأسيسي"
 - id: "con-reductionism", title: "الاختزالية", type: "مفهوم"

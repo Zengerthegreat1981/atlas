@@ -11,8 +11,17 @@ active_start: 1911
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-kyoto", target_type: "مدرسة"
+related:
+- id: "sch-kyoto", title: "مدرسة كيوتو", type: "مدرسة"
+- id: "thk-nishida", title: "كيتارو نيشيدا", type: "مفكر"
+- id: "thk-nishitani", title: "كيجي نيشيتاني", type: "مفكر"
+- id: "wrk-an-inquiry-into-the-good-nishida", title: "بحث في الخير لكيتارو نيشيدا (Zen no Kenkyu)", type: "عمل / كتاب"
+- id: "con-absolute-nothingness-zettai-mu", title: "العدم المطلق الإيجابي في مدرسة كيوتو (Zettai Mu)", type: "مفهوم"
+- id: "con-pure-experience-nishida", title: "التجربة الخالصة (Pure Experience)", type: "مفهوم"
+- id: "dbt-nishida-vs-tanabe", title: "نيشيدا ضد تانابه: الذات المطلقة أم المنطق التَفارقى؟", type: "جدل"
 gaps:
   - "لم تُراجَع الترجمة اليابانية الأصلية لـ\"دراسة عن الخير\" لنيشيدا (1911) للتحقق حرفياً من صياغة مفهوم \"التجربة المحضة\"."
+  - "**أُغلق طريقٌ مسدود 2026-09-10:** كان هذا الملفُّ بأقلَّ من ثلاثة روابطَ ولا أعضاءَ له، فمن يهبط عليه لا يجد مخرجاً. فأُضيف 7 رابطاً إلى أبوها وأشقّائه في شجرة الانتماء — وكلُّهم معلومون من الشجرة نفسِها، فلا صلةَ مُخترَعة."
 ---
 
 # مدرسة كيوتو: الجيل التأسيسي — مدرسة كيوتو
