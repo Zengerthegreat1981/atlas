@@ -13,13 +13,14 @@ active_start: 1956
 active_end: 1968
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "العلاج الأسري الاستراتيجي", target_type: "مدرسة"
+- rel: "belongs_to", target: "tec-strategic-family-therapy", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "con-double-bind", title: "الرباط المزدوج (Double Bind)", type: "مفهوم"
 - id: "thk-pwatzlawick", title: "بول واتزلاويك", type: "مفكر"
 gaps:
   - "السيرة الذاتية الكاملة في MRI لم تُراجع من مصدر أولي (أرشيف MRI في جامعة لويزيانا مونرو)."
   - "لا يوجد اقتباس مباشر موثوق من *Pragmatics of Human Communication* (1967) بترجمة عربية معتمدة."
+  - "**حُلَّ هدفٌ نصّيٌّ 2026-09-10:** وُجِّه `belongs_to` من النصِّ «العلاج الأسري الاستراتيجي» إلى `tec-strategic-family-therapy`."
 ---
 
 # دون جاكسون

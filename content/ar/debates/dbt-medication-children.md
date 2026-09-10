@@ -9,8 +9,7 @@ en: "Psychiatric Medication for Children: The Debate"
 crumb: "طب نفس الأطفال ← جدالات علاجية ← دواء للأطفال"
 active_start: 1999
 active_end: "مستمر"
-edges:
-- rel: "relates_to", target: "طب نفس الطفل", target_type: "مدرسة"
+edges: []
 related:
 - id: "dis-adhd", title: "اضطراب نقص الانتباه وفرط الحركة", type: "اضطراب/حالة إكلينيكية"
 - id: "thk-rbarkley", title: "راسِل باركلي", type: "مفكر"
@@ -20,6 +19,7 @@ gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: بيتر بريغن (thk-breggin) — مؤلف Talking Back to Ritalin (1998)، الناقد الأبرز لتصنيف ADHD نفسه."
   - "رابط مقترح لم يتحقق بعد في الأطلس: سامي تيميمي (thk-timimi)، المذكور فعلاً في crt-adhd-overdiagnosis ولا slug مفكر مستقل له بعد."
   - "بيانات نتائج متابعة MTA بعد 36 شهراً (Jensen et al., 2007) لم تُراجع من نسخة أصلية مباشرة."
+  - "**حُلَّ هدفٌ نصّيٌّ 2026-09-10:** حُذف حرفٌ ميتٌ `relates_to → «طب نفس الطفل»` — لا ملفَّ لطبِّ نفس الطفل كمدرسة؛ والموجودُ `br-child-psychoanalysis` وهو تيّارٌ تحليليٌّ بعينه."
 ---
 
 # جدل دواء الاضطرابات النفسية للأطفال

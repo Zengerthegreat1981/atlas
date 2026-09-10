@@ -16,7 +16,6 @@ register: "clinical"
 evidence_level: "experimental"
 edges:
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
-- rel: "developed", target: "العلاج الأسري الخبراتي", target_type: "تيار"
 related:
 - id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
 - id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
@@ -30,6 +29,7 @@ gaps:
   - "لا يُعرف من هذا الملف تاريخ التحاقه بقسم الطب النفسي في إيموري ولا سنة تخرجه في الطب، ولا الأسماء الكاملة للمشاركين في مؤتمر Sea Island 1955 غير مالون ووركنتين."
   - "لا تُعرف دراسة نتائج (outcome study) واحدة منشورة على نموذجه، ولذلك خُفِّض evidence_level من probably-efficacious إلى experimental."
   - "belongs_to هنا sch-systemic-family فقط؛ تصنيف علاقته بمدارس أخرى قرار تحريري معلّق لم يُمَس في هذا الملف."
+  - "**حُلَّ هدفٌ نصّيٌّ 2026-09-10:** حُذف حرفٌ ميتٌ `developed → «العلاج الأسري الخبراتي»` — لا ملفَّ للعلاج الأسري الخبراتي (ويتاكر)."
 ---
 
 # كارل ويتاكر

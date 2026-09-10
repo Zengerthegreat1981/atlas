@@ -10,7 +10,7 @@ crumb: "الصحة النَّفْسية والجُزْحية ← الخبرات 
 active_start: 1980
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "علم نفس الصدمة", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-trauma-psychology", target_type: "مدرسة"
 related:
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "con-trauma", title: "الصدمة النفسية في التحليلية", type: "مفهوم"
@@ -21,6 +21,7 @@ related:
 - id: "evt-vietnam-veterans-ptsd-advocacy-1980", title: "حركة قدامى محاربي فيتنام وإقرار اضطراب كرب ما بعد الصدمة رسمياً في DSM-III", type: "حدث"
 gaps:
 - "الفرق الإكلينيكي الدقيق بين الـ Flashback والكابوس القهري (dis-nightmare-disorder) — كلاهما إعادة إحياء حسّية لكن بحالة وعي مختلفة (يقظة/نوم REM) — يحتاج فصلاً منفصلاً يقارن المعيارين التشخيصيين في DSM-5."
+  - "**حُلَّ هدفٌ نصّيٌّ 2026-09-10:** وُجِّه `relates_to` من النصِّ «علم نفس الصدمة» إلى `sch-trauma-psychology`."
 ---
 # الـ Flashback في اضطراب ما بعد الصَّدمة: إعادة العَيْش القَسَرية
 

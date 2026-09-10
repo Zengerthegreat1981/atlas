@@ -10,7 +10,7 @@ crumb: "نقد ← صِنَاعَة الصَّدْمَة"
 active_start: 1999
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "علم نفس الصدمة", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-trauma-psychology", target_type: "مدرسة"
 related:
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "crt-medicalization-of-poverty", title: "التطبيب للفقر: تفسير المرضي للمشكلات الاجتماعية", type: "نقد خارجي موثَّق"
@@ -22,6 +22,7 @@ gaps:
 - "لم تُراجع من نسخة أصلية مباشرة بعد (Summerfield, 1999; Fassin & Rechtman, 2009)."
 - "الفرق بين هذا النقد (الاجتماعي/الأنثروبولوجي لتوسّع تشخيص PTSD) والنقد المعرفي لتقنيات علاجية بعينها (EMDR، Somatic Experiencing) يحتاج فصلاً صريحاً."
 - "sch-trauma-psychology المشار إليه في edges غير موجود كملف مدرسة مستقل في الأطلس حتى الآن — سُجِّل في agents_specs/missing-schools.md."
+  - "**حُلَّ هدفٌ نصّيٌّ 2026-09-10:** وُجِّه `relates_to` من النصِّ «علم نفس الصدمة» إلى `sch-trauma-psychology`."
 ---
 # نقد «صناعة الصدمة»: من يستفيد من تطبيب الصدمة؟
 

@@ -10,7 +10,7 @@ part: "psychology"
 active_start: 1956
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "علم النفس المعرفي", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-cognitive-psychology", target_type: "مدرسة"
 related:
 - id: "met-turing-test-imitation-game", title: "لعبة المحاكاة وتفكير الآلة: استعارة تورينغ للذكاء", type: "استعارة/مجاز مؤسِّس"
 gaps:
@@ -18,6 +18,7 @@ gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: جورج ميلر (thk-miller)"
   - "التمييز بين 'الوظيفية' (Functionalism) و'الذكاء الاصطناعي الكلاسيكي' (GOFAI) يحتاج فصلاً مستقلاً في الأطلس."
   - "هدف edges الحالي sch-cognitive-psychology موجود حالياً في drafts/minimax/schools/ لا في مجلد schools/ النهائي؛ يحتاج تأكيداً أن الملف سيُنشر بهذا المعرّف نفسه قبل اعتماد الرابط نهائياً."
+  - "**حُلَّ هدفٌ نصّيٌّ 2026-09-10:** وُجِّه `relates_to` من النصِّ «علم النفس المعرفي» إلى `sch-cognitive-psychology`."
 ---
 
 # العقل كحاسوب: استعارة المَعالجة المعلوماتية

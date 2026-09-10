@@ -9,8 +9,7 @@ en: "Critique of Mindfulness Decontextualized from Buddhism: 'McMindfulness'"
 crumb: "نقد ← الْيَقَظَة الذِّهْنِيَّة"
 active_start: 2013
 active_end: "مستمر"
-edges:
-- rel: "relates_to", target: "اليقظة الذهنية الإكلينيكية", target_type: "مدرسة"
+edges: []
 related:
 - id: "crt-commodification-critique", title: "النقد الاقتصادي/التسليعي لـ'صناعة العافية' و'صناعة الإيجابية'", type: "نقد خارجي موثَّق"
 - id: "dbt-mindfulness-clinical-vs-spiritual", title: "جدل اليقظة كأداة علاجية ضد ممارسة روحية", type: "جدل"
@@ -23,6 +22,7 @@ gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: نقد الليبرالية الجديدة (crt-neoliberalism-psychology)"
   - "لم تُراجع من نسخة أصلية مباشرة بعد (Purser, 2019; Forbes, 2019)."
   - "الفرق بين هذا النقد والنقد العلماني للبوذية يحتاج فصلاً."
+  - "**حُلَّ هدفٌ نصّيٌّ 2026-09-10:** حُذف حرفٌ ميتٌ `relates_to → «اليقظة الذهنية الإكلينيكية»` — لا ملفَّ لليقظة الذهنية الإكلينيكية كمدرسةٍ جامعة؛ والموجودُ `sch-mbct` وهو برنامجٌ بعينه لا المظلّة."
 ---
 # نقد تجريد اليقظة من البوذية: «Mcmindfulness»
 

@@ -10,7 +10,7 @@ crumb: "نقد ← EMDR"
 active_start: 2000
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "علم نفس الصدمة", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-trauma-psychology", target_type: "مدرسة"
 related:
 - id: "thk-francine-shapiro", title: "فرانسين شابيرو", type: "مفكر"
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
@@ -20,6 +20,7 @@ related:
 gaps:
 - "لم تُراجع من نسخة أصلية مباشرة بعد (McNally, 1999; Lilienfeld, 2001; Herbert et al., 2013)."
 - "النقاشات الحديثة (2018-2024) حول فعالية EMDR تحتاج فصلاً مستقلاً."
+  - "**حُلَّ هدفٌ نصّيٌّ 2026-09-10:** وُجِّه `relates_to` من النصِّ «علم نفس الصدمة» إلى `sch-trauma-psychology`."
 ---
 # نقد الآلية العلمية ل EMDR: هل حركة العين هي الأساس؟
 

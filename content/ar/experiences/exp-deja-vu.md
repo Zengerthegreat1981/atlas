@@ -10,7 +10,7 @@ crumb: "علم النفس المعرفي ← الخبرات المعيشية ←
 active_start: 1876
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "علم النفس المعرفي", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-cognitive-psychology", target_type: "مدرسة"
 related:
 - id: "exp-jamais-vu", title: "تجربة الجامافو (Jamais Vu): المألوف الذي يَتحول إلى غريب", type: "خبرة معيشة"
 - id: "con-memory", title: "الذاكرة", type: "مفهوم"
@@ -19,6 +19,7 @@ gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: إميل بويراك (لا يوجد slug مطابق حالياً في EXISTING_SLUGS، رغم وجوده هو من صاغ المصطلح سنة 1876)."
   - "أبحاث كريس مولن (Chris Moulin, Leeds) حول 'الديجافو الفَصّي' عند مرضى الصرع تحتاج ملف stu- أو thk- مستقل في الأطلس."
   - "الفرق بين الديجافو و'الذكريات الزائفة' (False Memories) عند إليزابيث لوفتوس (Elizabeth Loftus) يحتاج توثيقاً — thk-elizabeth-loftus موجود في الأطلس ويمكن ربطه لاحقاً."
+  - "**حُلَّ هدفٌ نصّيٌّ 2026-09-10:** وُجِّه `relates_to` من النصِّ «علم النفس المعرفي» إلى `sch-cognitive-psychology`."
 ---
 # تجربة الديجافو (Déjà Vu): الإحساس بأنني عشتُ هذه اللحظة من قبل
 

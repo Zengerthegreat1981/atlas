@@ -10,13 +10,14 @@ crumb: "علم النفس المعرفي ← جَدالات مَنْهَجِيّ
 active_start: 1976
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "علم النفس المعرفي", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-cognitive-psychology", target_type: "مدرسة"
 related:
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "con-cognitive-distortion", title: "التشوهات المعرفية", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يُنشأ بعد في الأطلس: ريتشارد إنجرام (thk-ingram) — صاحب نموذج النقص المعرفي."
   - "لم تُراجع نسخة أصلية مباشرة من Ingram (1990)؛ الاعتماد على ملخصات ثانوية."
+  - "**حُلَّ هدفٌ نصّيٌّ 2026-09-10:** وُجِّه `relates_to` من النصِّ «علم النفس المعرفي» إلى `sch-cognitive-psychology`."
 ---
 
 # جِدَل الِاِنْحِرَاف الْمَعْرِفِيّ ضِد التَّشَوُّه الْمَعْرِفِيّ

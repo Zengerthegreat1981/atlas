@@ -10,7 +10,7 @@ crumb: "نقد ← الرِّعَايَة الواعية بالصدمة"
 active_start: 2016
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "علم نفس الصدمة", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-trauma-psychology", target_type: "مدرسة"
 related:
 - id: "crt-critique-of-trauma-therapy", title: "نقد «صِنَاعَة الصَّدْمَة»: مَنْ يَسْتَفِيد مِن تَطْبِيب الصَّدْمَة؟", type: "نقد خارجي موثَّق"
 - id: "crt-commodification-critique", title: "النقد الاقتصادي/التسليعي لـ'صناعة العافية' و'صناعة الإيجابية'", type: "نقد خارجي موثَّق"
@@ -18,6 +18,7 @@ gaps:
 - "لم تُراجع من نسخة أصلية مباشرة بعد (Berliner & Kolko, 2016)."
 - "رابط مقترح لم يتحقق بعد في الأطلس: نقد الليبرالية الجديدة (crt-neoliberalism-psychology)."
 - "sch-trauma-psychology المشار إليه في edges غير موجود كملف مدرسة مستقل في الأطلس حتى الآن — سُجِّل في agents_specs/missing-schools.md."
+  - "**حُلَّ هدفٌ نصّيٌّ 2026-09-10:** وُجِّه `relates_to` من النصِّ «علم نفس الصدمة» إلى `sch-trauma-psychology`."
 ---
 # نقد «الرِّعَايَة الْوَاعِيَة بِالْصَّدْمَة»: تَحَوُّل مَفْهُوم إِلَى شِعَار
 

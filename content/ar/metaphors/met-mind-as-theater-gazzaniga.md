@@ -10,7 +10,7 @@ part: "psychology"
 active_start: 1990
 active_end: "مستمر"
 edges:
-- rel: "relates_to", target: "علم الأعصاب المعرفي", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-cognitive-neuroscience", target_type: "مدرسة"
 related:
 - id: "met-cartesian-theater", title: "المسرح الكارتيزي: وهم المركز الموحد للوعي", type: "استعارة/مجاز مؤسِّس"
 gaps:
@@ -22,6 +22,7 @@ gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: انْشِطار الدِّماغ (con-split-brain)"
   - "تم توضيح الفرق بين 'المسرح' عند غازّانيغا (بنية عصبية مرصودة تجريبياً) و'المسرح الكارتيزي' عند دينيت (نقد فلسفي لوهم افتراضي، انظر met-cartesian-theater) في قسم مخصص أعلاه، دفعة 12."
   - "نص الاقتباس الدقيق من غازّانيغا لِمُصْطَلَح 'المُفَسِّر' (The Interpreter) في *Who's in Charge?* (2011) غَير مُتَوفِّر هُنا بِصِيغَته الحَرْفِيَّة."
+  - "**حُلَّ هدفٌ نصّيٌّ 2026-09-10:** وُجِّه `relates_to` من النصِّ «علم الأعصاب المعرفي» إلى `sch-cognitive-neuroscience`."
 ---
 
 # العقل كمسرح: استعارة غازانيغا للعقل المتعدد

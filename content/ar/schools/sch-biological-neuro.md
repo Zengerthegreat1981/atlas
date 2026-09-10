@@ -17,10 +17,8 @@ register: "academic"
 evidence_level: "well-established"
 edges:
 - rel: "split_into", target: "br-affective-neuroscience-informed", target_type: "تيار"
-- rel: "split_into", target: "طب الأعصاب السلوكي", target_type: "تيار"
-- rel: "split_into", target: "علم الأعصاب المعرفي", target_type: "مدرسة"
-- rel: "split_into", target: "علم النفس العصبي الإكلينيكي", target_type: "تيار"
-- rel: "split_into", target: "علم الأدوية النفسية", target_type: "تيار"
+- rel: "split_into", target: "sch-behavioral-neurology", target_type: "مدرسة"
+- rel: "split_into", target: "sch-cognitive-neuroscience", target_type: "مدرسة"
 related:
 - id: "thk-damasio", title: "أنطونيو داماسيو", type: "مفكر"
 - id: "thk-jledoux", title: "جوزيف لودو", type: "مفكر"
@@ -47,6 +45,7 @@ gaps:
   - "التقسيمات الفرعية (Behavioral Neurology، Cognitive Neuroscience، Affective Neuroscience) تحتاج فصولاً مستقلة في `br-`."
   - "رابطا evolved_from لـ«علم وظائف الأعضاء» و«علم النفس الفيزيولوجي (Wundt)» أُزيلا — لا يوجد slug معتمد يطابقهما في الأطلس حالياً."
   - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** حُذف `evolved_from → sch-developmental` — معكوس وبلا سند: علمُ النفس البيولوجي (1879، فونت) أقدمُ من النمائي (1882) ولم يخرج منه."
+  - "**حُلَّ هدفٌ نصّيٌّ 2026-09-10:** وُجِّه `split_into` من النصِّ «طب الأعصاب السلوكي» إلى `sch-behavioral-neurology`؛ ووُجِّه `split_into` من النصِّ «علم الأعصاب المعرفي» إلى `sch-cognitive-neuroscience`؛ وحُذف حرفٌ ميتٌ `split_into → «علم النفس العصبي الإكلينيكي»` — لا ملفَّ لعلم النفس العصبي الإكلينيكي؛ وحُذف حرفٌ ميتٌ `split_into → «علم الأدوية النفسية»` — لا ملفَّ لعلم الأدوية النفسية."
 ---
 # علم النفس البيولوجي والعصبي (Biological & Neuropsychology)
 

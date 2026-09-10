@@ -9,14 +9,14 @@ en: "Group vs. Individual Therapy: Which is Better?"
 crumb: "علم النفس الإكلينيكي ← جَدالات عِلَاجِيّة ← الْجَمَاعِيّ ضِد الْفَرْدِيّ"
 active_start: 1970
 active_end: "مستمر"
-edges:
-- rel: "relates_to", target: "العلاج الجماعي", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: العوامل العلاجية في الجماعة (con-group-therapeutic-factors)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: الضيق الكوني (con-universal-distress)"
   - "لم تُراجع من نسخة أصلية مباشرة بعد (Yalom, 1995; McDermut et al., 2001)."
+  - "**حُلَّ هدفٌ نصّيٌّ 2026-09-10:** حُذف حرفٌ ميتٌ `relates_to → «العلاج الجماعي»` — لا ملفَّ للعلاج الجماعي كمدرسةٍ أو تيّار."
 ---
 
 # جدل العلاج الجماعي ضد الفردي: أيهما أفضل؟

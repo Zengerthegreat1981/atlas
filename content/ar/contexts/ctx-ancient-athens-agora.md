@@ -9,13 +9,13 @@ en: "The Athenian Agora: Socratic Dialogue, Civic Debate, and Direct Democracy"
 crumb: "الفلسفة اليونانية القديمة ← السياقات والتقاليد ← الأغورا الأثينية"
 active_start: null
 active_end: "مستمر"
-edges:
-- rel: "relates_to", target: "السقراطية", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-socrates", title: "سقراط", type: "مفكر"
 - id: "thk-plato", title: "أفلاطون", type: "مفكر"
 gaps:
   - "لم يُراجَع نص دفاع سقراط (أفلاطون، Apology) من طبعة أولية موثقة — الاعتماد هنا على معرفة عامة بمضمونه لا نص مقتبس."
+  - "**حُلَّ هدفٌ نصّيٌّ 2026-09-10:** حُذف حرفٌ ميتٌ `relates_to → «السقراطية»` — لا ملفَّ للسقراطية؛ و`sch-presocratics` **ما قبلَ** السقراطية أي شيءٌ آخرُ تماماً فلا يصحُّ التوجيهُ إليه."
 ---
 
 # الأغورا الأثينية والحوار السقراطي في الديمقراطية الكلاسيكية

@@ -9,8 +9,7 @@ en: "Near-Death Experience (NDE): Between the World and Death"
 crumb: "طب نفس الطوارئ ← الخبرات المعيشية ← تجربة الاقتراب من الموت"
 active_start: 1975
 active_end: "مستمر"
-edges:
-- rel: "relates_to", target: "علم الموت (Thanatology)", target_type: "مدرسة"
+edges: []
 related:
 - id: "con-dissociation", title: "الانفصال (Dissociation)", type: "مفهوم"
 - id: "exp-out-of-body-experience", title: "تجربة الخروج من الجسد (OBE): رؤية العالم من خارج الذات", type: "خبرة معيشة"
@@ -18,6 +17,7 @@ gaps:
   - "لا يوجد بعد مدخل مستقل في الأطلس لريموند مودي أو بيم فان لومل أو بروس غريسون كمفكرين رغم مركزيتهم في تأسيس هذا الحقل."
   - "التمييز بين NDE العَرَضية الناتجة عن سكتة قلبية وNDE المُستحثّة بمواد كالكيتامين لم يُفصَّل بعد."
   - "رابط edges يشير إلى sch-thanatology، لكن هذا الملف لا يزال في drafts/minimax ولم يُنشر بعد ضمن content/ar/schools؛ يحتاج مراجعة حين يُعتمد."
+  - "**حُلَّ هدفٌ نصّيٌّ 2026-09-10:** حُذف حرفٌ ميتٌ `relates_to → «علم الموت (Thanatology)»` — لا ملفَّ لعلم الموت (Thanatology)."
 ---
 # تجربة الاقتراب من الموت (NDE): بين العَالَم والمَوت
 

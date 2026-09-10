@@ -16,13 +16,15 @@ author_slug: "thk-spearman"
 publication_year: 1923
 original_language: "الإنجليزية"
 edges:
-- rel: "authored_by", target: "تشارلز سبيرمان", target_type: "مفكر"
+- rel: "authored_by", target: "thk-spearman", target_type: "مفكر"
 related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
+- id: "thk-spearman", title: "تشارلز سبيرمان", type: "مفكر"
 gaps:
   - "كتاب Spearman السابق (1904, «General Intelligence, Objectively Determined and Measured») وكتابه اللاحق (1927, *The Abilities of Man*) يعيدان بعض المفاهيم — التحقق من تطوّرها عبر الكتب الثلاثة لم يُنجز بعد."
-  - "لا يوجد ملفّ مفكر (thk-) لـ Spearman في الفهرس بعد؛ author_slug يشير إلى thk-spearman وهو غير موجود حالياً — قرار بنيوي خارج نطاق هذا الملف، مسجَّل هنا فقط."
   - "لم يثبت وجود ترجمة عربية منشورة لهذا العمل: بُحث عن مترجم وناشر وسنة ولم يُعثر على أيٍّ منها."
+  - "**حُلَّ هدفٌ نصّيٌّ 2026-09-10:** وُجِّه `authored_by` من النصِّ «تشارلز سبيرمان» إلى `thk-spearman`."
+  - "**سُدَّت فجوةٌ 2026-09-10:** أُنشئ ملفُّ المؤلِّف `thk-spearman` ورُبط، وحُذفت الفجوةُ التي كانت تُعلن غيابَه. ويبقى أنّ **علمَ النفس الفارقيَّ غائبٌ عن الأطلس كمدرسة**، فسبيرمان بلا موضعِ انتماءٍ صحيح."
 ---
 
 # طبيعة الذكاء ومبادئ الإدراك
