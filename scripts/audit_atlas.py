@@ -420,6 +420,40 @@ def main():
     bad("رابطُ ماركداون إلى ملفّ `.md` (لا يفسّره الأطلس)", len(mdl), mdl) if mdl \
         else ok("لا روابطَ ماركداون إلى ملفات")
 
+    print("\n[19] سلامةُ الملفّ على القرص (خللٌ يُهمله البناءُ بصمت)")
+    # أُضيف 2026-09-10 بعد أن كشفت المراجعةُ المستقلّةُ ثلاثةَ أصنافٍ من الخلل
+    # **لا يشكو منها البناءُ ولا تظهر في data.json**: فجواتٌ مكتوبةٌ في الملفّ
+    # وغيرُ مقروءةٍ (39 فجوةً استُرجعت)، ومفاتيحُ مكرَّرةٌ يقرأ البناءُ آخرَها
+    # ويُهمل أوّلَها، وكتلٌ مكرَّرةٌ يقرأها البناءُ بالمصادفة.
+    dupk, badgap, dupblk = [], [], []
+    for f in files:
+        b = os.path.basename(f)[:-3]
+        raw = open(f, encoding="utf-8").read()
+        m = re.match(r'^---\n(.*?)\n---\n', raw, re.S)
+        if not m: continue
+        fm = m.group(1)
+        lines = fm.split("\n")
+        ks = [x.group(1) for l in lines if (x := re.match(r'^([a-zA-Z0-9_-]+):', l))]
+        for k, c2 in collections.Counter(ks).items():
+            if c2 > 1:
+                (dupblk if k in ("related", "edges", "gaps") else dupk).append(f"{b}: {k} ×{c2}")
+        try:
+            gi = next(i for i, l in enumerate(lines) if re.match(r'^gaps:\s*$', l))
+        except StopIteration:
+            continue
+        j = gi + 1
+        while j < len(lines) and (lines[j].startswith("  ") or lines[j].startswith("- ")):
+            l = lines[j]
+            if l.strip().startswith("- ") and not re.match(r'^\s*-\s*".*"\s*$', l):
+                badgap.append(f"{b}: {l.strip()[:60]}")
+            j += 1
+    bad("مفتاحٌ مكرَّرٌ في frontmatter", len(dupk), dupk) if dupk \
+        else ok("لا مفتاحَ مكرَّراً في أيِّ frontmatter")
+    bad("كتلةٌ (`related`/`edges`/`gaps`) مُعلَنةٌ مرّتين", len(dupblk), dupblk) if dupblk \
+        else ok("لا كتلةَ مُعلَنةً مرّتين")
+    bad("بندُ `gaps` لا ينتهي بعلامة اقتباسٍ فيُهمله البناءُ بصمت", len(badgap), badgap) if badgap \
+        else ok("كلُّ بنود `gaps` يقرأها البناء")
+
     # ── الخلاصة
     print(f"\n{'='*66}")
     if FAILURES:
