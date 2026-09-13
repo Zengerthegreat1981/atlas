@@ -12,14 +12,15 @@ language: "الإنجليزية"
 active_start: 2005
 active_end: "مستمر"
 part: "philosophy"
+status: "quarantined"
 edges: []
 related: []
 gaps:
   - "**حُجر 2026-08-27:** لم يُعثر على أي دليل مستقل على وجود شخصية باسم Michael Der Meer مرتبطة بتقنية ألكسندر (Alexander Technique) في الأدبيات الأكاديمية أو في سجلات الجمعيات المهنية (AmSAT، STAT). الشخص الحقيقي الأبرز في هذا المجال بلقب مشابه هو Michael D. Frederick (مدرّس معتمد، مؤسس مؤتمرات Alexander Technique الدولية الثلاثة الأولى) — لا صلة توثيقية بينه وبين الاسم 'Der Meer'."
   - "التفاصيل في agents_specs/quarantine-minimax.md."
   - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-michael-der-meer.md.archived.2026-08-27"
+  - "**أُثبت `status: quarantined` 2026-09-13:** متنُ هذا الملفّ يعلن الحجرَ صراحةً، ولم يكن في ترويسته ما يقوله — فكانت الأدواتُ والفحوصُ تعدُّه حيّاً، وتحسبه في نسبة الوصول، وتطالب بربطه. الوسمُ يجعل ما في المتن مقروءاً آلياً."
 ---
-
 # مايكل ديرمر
 
 (Michael Der Meer)

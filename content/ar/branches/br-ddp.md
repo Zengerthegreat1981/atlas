@@ -13,15 +13,12 @@ active_end: "مستمر"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
-- rel: "developed_by", target: "thk-sgreys", target_type: "مفكر"
 related:
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 - id: "thk-jbaylin", title: "جون بايلين", type: "مفكر"
-- id: "thk-sdouglas", title: "سو دوغلاس", type: "مفكر"
 - id: "thk-arthurbeckerweidman", title: "آرثر بيكر-ويدمان", type: "مفكر"
 - id: "thk-theresaglasser", title: "تيريزا غلاسر", type: "مفكر"
 - id: "thk-kgolding", title: "كيم غولدنغ", type: "مفكر"
-- id: "thk-sgreys", title: "دانيال هيوز", type: "مفكر"
 - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "br-theraplay", title: "Theraplay (العلاج بالألعاب العلائقي)", type: "تيار"
@@ -33,6 +30,7 @@ gaps:
   - "علاج الصدمات الارتباطية التطورية المزمنة لدى الأطفال بالتبني والرعاية البديلة."
   - "دراسة تقييمية تُثبت أو تنفي فعالية DDP بمنهجية RCT لم تتوفر لي كمصدر موثّق؛ التصنيف probably-efficacious مبني على انتشار البروتوكول إكلينيكياً لا على دراسة بعينها مذكورة هنا."
   - "**دُمج tec-ddp في هذا الملفّ 2026-09-13:** كان العنصران يصفان الشيءَ نفسَه تحت بادئتين مختلفتين، فنُقل ما انفرد به tec-ddp إلى هنا وصار إحالةً. نسختُه قبل الدمج في `content/ar/_merged/tec-ddp.md`."
+  - "**أُزيلت 3 إشارةً إلى ملفاتٍ محجورة 2026-09-13:** `thk-sgreys`، `thk-sdouglas`. كلُّها ملفاتٌ متنُها يعلن أنّه لا يمكن توثيقُ صاحبها من مصدرٍ مستقلّ، فالرابطُ يقود القارئَ إلى طريقٍ مسدود. تُعاد إن رُفع الحجر."
 ---
 # العلاج النفسي النمائي الثنائي (DDP)
 

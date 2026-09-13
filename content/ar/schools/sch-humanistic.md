@@ -71,7 +71,6 @@ related:
 - id: "thk-minsungkil", title: "مين سونغ-كيل", type: "مفكر"
 - id: "thk-mjohnson", title: "ماثيو جونسون", type: "مفكر"
 - id: "thk-mviederman", title: "ميلتون فيدرمان", type: "مفكر"
-- id: "thk-mworden", title: "مارك ووردن", type: "مفكر"
 - id: "thk-parkjongik", title: "بارك جونغ-إيك", type: "مفكر"
 - id: "thk-penny-lewis", title: "بيني لويس", type: "مفكر"
 - id: "thk-rhassan", title: "رفة حسن", type: "مفكر"
@@ -79,7 +78,6 @@ related:
 - id: "thk-seyberg", title: "شيلا إيبِرغ", type: "مفكر"
 - id: "thk-sross", title: "ستيفن روس", type: "مفكر"
 - id: "thk-sshaikh", title: "سعدية شيخ", type: "مفكر"
-- id: "thk-tsexton", title: "توني سيكستون", type: "مفكر"
 - id: "wrk-alchemist", title: "الخيميائي: رحلة البحث عن الأسطورة الشخصية", type: "عمل / كتاب"
 - id: "wrk-frames-of-mind", title: "عقول متعددة: نظرية الذكاءات المتعددة", type: "عمل / كتاب"
 - id: "wrk-inquiries-human-faculty", title: "تحقيقات في القدرات الإنسانية", type: "عمل / كتاب"
@@ -145,6 +143,7 @@ gaps:
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: روبرت إيميري (thk-robert-emery)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جون شلين (thk-johnshlien)."
   - "أُزيل رابطُ `related` إلى `thk-ptedeschi` — الهدفُ ملفٌّ محجورٌ (شخصيةٌ/مدخلٌ غيرُ موثَّق الوجود)، فالرابطُ يقود القارئَ إلى طريقٍ مسدود. يُعاد إن رُفع الحجر."
+  - "**أُزيلت 2 إشارةً إلى ملفاتٍ محجورة 2026-09-13:** `thk-mworden`، `thk-tsexton`. كلُّها ملفاتٌ متنُها يعلن أنّه لا يمكن توثيقُ صاحبها من مصدرٍ مستقلّ، فالرابطُ يقود القارئَ إلى طريقٍ مسدود. تُعاد إن رُفع الحجر."
 ---
 # علم النفس الإنساني (Humanistic Psychology)
 

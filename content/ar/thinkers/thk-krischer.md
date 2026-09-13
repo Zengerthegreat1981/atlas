@@ -13,14 +13,18 @@ active_start: null
 active_end: null
 part: "psychology"
 edges:
+- rel: "belongs_to", target: "br-aggression-treatment", target_type: "تيار"
 related:
+- id: "thk-novaco", title: "ريموند و. نوفاكو", type: "مفكر"
+- id: "thk-jcgibbs", title: "جون سي. غيبز", type: "مفكر"
+- id: "thk-araine", title: "أدريان راين", type: "مفكر"
 gaps:
   - "هوية هذا المدخل غير مؤكَّدة وربما مختلَقة: تحقّقنا عبر البحث المباشر (Amazon, ERIC, Research Press) أن المؤلِّفين الموثّقين لبرنامج Aggression Replacement Training (ART) وكتابه المرجعي *Aggression Replacement Training: A Comprehensive Intervention for Aggressive Youth* هم Arnold P. Goldstein وBarry Glick وJohn C. Gibbs — ولم يظهر في أي مصدر أكاديمي أو ببليوغرافي شخص باسم 'Barry Krischer' كمشارك في تطوير ART."
   - "الاسم الحقيقي الوحيد المعروف بهذا الشكل ('Barry Krischer') هو مدّعٍ عام سابق لمقاطعة بالم بيتش بولاية فلوريدا، لا صلة له بعلم النفس الإكلينيكي؛ يُرجَّح أن هذا الملف خلطٌ بينه وبين Barry Glick أو اسم مختلَق تماماً."
   - "ملف thk-jcgibbs نفسه يسجّل في gaps أن رابط thk-krischer 'أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات' — ما يؤكد أن هذا المدخل كان مرشّحاً للحجر من قبل ولم يُستكمل الإجراء في وقته."
   - "يُوصى بحذف هذا المدخل نهائياً أو استبداله بمدخل حقيقي عن Barry Glick إن رغب رئيس التحرير في تغطية الشريك الفعلي الثالث لـGoldstein في ART."
+  - "**رُبطت عقدةٌ معزولة 2026-09-13:** لم يكن لهذا الملفّ أيُّ `related` ولا `edges`، فكان طريقاً مسدوداً لمن يصل إليه. وكلُّ إشارةٍ أُضيفت هنا **عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً** — إمّا ملفٌّ يشير إليه فعلاً، وإمّا مدرسةٌ يسمّيها مسارُ التنقّل في ترويسته. لم تُخترَع واحدةٌ منها."
 ---
-
 # باري كريشر
 
 **هوية هذا الشخص غير مؤكَّدة.** بحثٌ مباشر (Amazon، ERIC، Research Press، مواقع أكاديمية) لم يُظهر أي مصدر يوثّق مشاركة شخص باسم "Barry Krischer" في تطوير برنامج **تدريب استبدال العدوانية (Aggression Replacement Training, ART)**. المؤلِّفون الثلاثة الموثّقون للبرنامج ولكتابه المرجعي هم **Arnold P. Goldstein** و**Barry Glick** و**John C. Gibbs** — ويشترك "Barry Glick" و"Barry Krischer" في الاسم الأول فقط، ما يرجّح أن هذا المدخل ناتج عن خلط بين الاثنين أو عن تأليف اسم غير موجود أصلاً.

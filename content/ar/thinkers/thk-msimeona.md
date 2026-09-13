@@ -17,14 +17,11 @@ edges:
 related:
 - id: "thk-jramiro", title: "جان-لوك رامارو", type: "مفكر"
 - id: "thk-lmorrnah", title: "إبراهام كاوانيوآ", type: "مفكر"
-- id: "thk-mking", title: "ميليسا كينغ", type: "مفكر"
-- id: "thk-niosepa", title: "نانا إيوسيبا", type: "مفكر"
-- id: "thk-skalama", title: "سام كالاما", type: "مفكر"
 - id: "con-ho-oponopono", title: "هو-أوبونوبونو (Ho'oponopono)", type: "مفهوم"
 gaps:
   - "التفاصيل الكاملة لمسيرتها كمعالجة Kahuna لم تُوثّق بدقة."
+  - "**أُزيلت 3 إشارةً إلى ملفاتٍ محجورة 2026-09-13:** `thk-mking`، `thk-niosepa`، `thk-skalama`. كلُّها ملفاتٌ متنُها يعلن أنّه لا يمكن توثيقُ صاحبها من مصدرٍ مستقلّ، فالرابطُ يقود القارئَ إلى طريقٍ مسدود. تُعاد إن رُفع الحجر."
 ---
-
 # مورّنا سيميونّا
 
 معالجة "Kahuna" (Kahuna La'au Lapa'au) هاوائية (1913–1992) وعالمة نفس ومدربة Ho'oponopono، رائدة في تكييف ممارسة Ho'oponopono القديمة لتتناسب مع السياق المعاصر (1976).

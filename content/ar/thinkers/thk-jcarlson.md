@@ -15,14 +15,13 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-adlerian", target_type: "تيار"
 related:
-- id: "thk-rmanaster", title: "رايتشل ماناستر", type: "مفكر"
 - id: "thk-hmosak", title: "هارولد موساك", type: "مفكر"
-- id: "thk-rsperry", title: "روبرت سبيري", type: "مفكر"
 gaps:
   - "إسهاماته المعاصرة (2010s–2020s) لم تُراجَع بعد."
   - "لا يوجد اقتباس مباشر موثوق من *Adlerian Therapy: Theory and Practice* (2006) بترجمة عربية معتمدة."
   - "**وُحِّد مسارُ التنقّل 2026-09-10:** كان «مدرسة علم النفس الفردي» وصار «علم النفس الفردي» — لأنّ الجذرَ كان منقسماً بين صيغتين للشيء نفسِه، فيعرض فهرسُ التصفّح موضعين لموضعٍ واحد."
   - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): [In Memoriam: Jon D. Carlson, Ed.D., Psy.D. — Adler University](https://web.archive.org/web/20250514111413/https://www.adler.edu/2017/05/08/in-memoriam-jon-d-carlson-ed-d-psy-d/)"
+  - "**أُزيلت 2 إشارةً إلى ملفاتٍ محجورة 2026-09-13:** `thk-rmanaster`، `thk-rsperry`. كلُّها ملفاتٌ متنُها يعلن أنّه لا يمكن توثيقُ صاحبها من مصدرٍ مستقلّ، فالرابطُ يقود القارئَ إلى طريقٍ مسدود. تُعاد إن رُفع الحجر."
 ---
 # جون كارلسون
 

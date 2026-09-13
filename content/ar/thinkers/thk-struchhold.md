@@ -12,6 +12,7 @@ language: "الألمانية"
 part: "philosophy"
 active_start: null
 active_end: "مستمر"
+status: "quarantined"
 edges: []
 related: []
 gaps:
@@ -20,8 +21,8 @@ gaps:
   - "التفاصيل في agents_specs/quarantine-minimax.md."
   - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-struchhold.md.archived.2026-08-27"
   - "لطلبات البحث: agents_specs/requests-minimax.md"
+  - "**أُثبت `status: quarantined` 2026-09-13:** متنُ هذا الملفّ يعلن الحجرَ صراحةً، ولم يكن في ترويسته ما يقوله — فكانت الأدواتُ والفحوصُ تعدُّه حيّاً، وتحسبه في نسبة الوصول، وتطالب بربطه. الوسمُ يجعل ما في المتن مقروءاً آلياً."
 ---
-
 # هوبيرتوس شتروخهولد
 
 (Hubertus Struchhold)

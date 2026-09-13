@@ -12,6 +12,7 @@ language: "الألمانية"
 active_start: null
 active_end: "مستمر"
 part: "psychology"
+status: "quarantined"
 edges:
 - rel: "belongs_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
@@ -22,8 +23,9 @@ related:
 - id: "thk-may", title: "رولو ماي", type: "مفكر"
 - id: "con-fundamental-existential-motivations", title: "الدوافع الوجودية الأربعة الأساسية", type: "مفهوم"
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
+gaps:
+  - "**أُثبت `status: quarantined` 2026-09-13:** متنُ هذا الملفّ يعلن الحجرَ صراحةً، ولم يكن في ترويسته ما يقوله — فكانت الأدواتُ والفحوصُ تعدُّه حيّاً، وتحسبه في نسبة الوصول، وتطالب بربطه. الوسمُ يجعل ما في المتن مقروءاً آلياً."
 ---
-
 # حُجر
 
 **هذا الملف في الحجر.** لا يمكن توثيقه من مصادر أكاديمية رصينة (تم التحقق آب 2026).

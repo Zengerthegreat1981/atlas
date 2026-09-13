@@ -12,16 +12,18 @@ language: "الإنجليزية"
 active_start: 1995
 active_end: 2023
 part: "psychology"
-edges: []
-related: []
+edges:
+  []
+related:
+- id: "thk-gendlin", title: "يوجين جندلين", type: "مفكر"
 gaps:
   - "لا يوجد slug معتمد لمدرسة/تقنية «التركيز» (Focusing) في content/ar/schools؛ الموجود حالياً مسودة فقط (sch-focusing) وتقنية (tec-focusing-oriented)، فأُفرغ edges.belongs_to حتى يُعتمد slug مناسب."
   - "تصحيح: النسخة السابقة من هذا الملف نسبت لها تأسيس منظمة باسم «Toronto Center for Focusing-Oriented Therapy» — لم يُعثر على أي مصدر بهذا الاسم. المنظمة الموثقة التي أسّستها/أدارتها هي «Focusing for Creative Living» في تورونتو."
   - "تصحيح: النسخة السابقة نسبت لها كتاباً بعنوان «Integrating Experiential Focusing: A Guide for Clinicians» (Archetype Press, 2002) — لم يُعثر على أي دليل لهذا العنوان أو هذا الناشر. الكتاب الموثَّق الوحيد بعنوان مشابه هو *Integrating Experiential and Brief Therapy: How To Do Deep Therapy – Briefly and How To Do Brief Therapy – Deeply*، الصادر عن Focusing For Creative Living (المصادر المتاحة تختلف حول السنة الدقيقة، على الأرجح 2003 أو طبعة لاحقة)."
   - "تصحيح: لم يُعثر على أي دليل لوجود كتاب بعنوان «Focusing in Action» (1999) لجايسون؛ أُزيل من المتن لعدم التحقق."
   - "الاسم الكامل الأحدث الموثّق لها هو Bala Jaison-Rosen. تاريخ ميلادها غير مؤكَّد."
+  - "**رُبطت عقدةٌ معزولة 2026-09-13:** لم يكن لهذا الملفّ أيُّ `related` ولا `edges`، فكان طريقاً مسدوداً لمن يصل إليه. وكلُّ إشارةٍ أُضيفت هنا **عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً** — إمّا ملفٌّ يشير إليه فعلاً، وإمّا مدرسةٌ يسمّيها مسارُ التنقّل في ترويسته. لم تُخترَع واحدةٌ منها."
 ---
-
 # بالا جايسون
 
 معالجة نفسية إكلينيكية (PhD) في تورونتو، ومديرة مؤسسة «Focusing for Creative Living» — برنامج تدريب في العلاج بالتركيز (Focusing-Oriented Therapy). تدرّبت مباشرة تحت إشراف يوجين جندلين (Eugene Gendlin) مؤسس منهج التركيز، وظهرت في سلسلة مقابلات «Conversations» الرسمية على موقع International Focusing Institute (ديسمبر 2009). توفيت في مارس 2023، ونُشر تأبين رسمي لها على نفس الموقع بقلم بولا نويك (Paula Nowick).

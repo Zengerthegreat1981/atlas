@@ -12,15 +12,19 @@ language: "اليابانية"
 part: "philosophy"
 active_start: null
 active_end: "مستمر"
-edges: []
-related: []
+status: "quarantined"
+edges:
+  []
+related:
+- id: "thk-yishin", title: "يوشيموتو إيشين", type: "مفكر"
 gaps:
   - "**حُجر 2026-08-27:** لم يُعثر على أي توثيق مستقل لشخص باسم Teruo Ohta كمعالج/منظّر في نايكان في قواعد البيانات اليابانية (J-STAGE وCiNii وJapan Naikan Counseling Association وNaikan Research Society). النسخة الأصلية محفوظة في archive."
   - "التفاصيل في agents_specs/quarantine-minimax.md."
   - "للاطلاع على النسخة الأصلية الكاملة: agents_specs/quarantine-minimax-archive/thk-teruo-ohta.md.archived.2026-08-27"
   - "لطلبات البحث: agents_specs/requests-minimax.md"
+  - "**رُبطت عقدةٌ معزولة 2026-09-13:** لم يكن لهذا الملفّ أيُّ `related` ولا `edges`، فكان طريقاً مسدوداً لمن يصل إليه. وكلُّ إشارةٍ أُضيفت هنا **عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً** — إمّا ملفٌّ يشير إليه فعلاً، وإمّا مدرسةٌ يسمّيها مسارُ التنقّل في ترويسته. لم تُخترَع واحدةٌ منها."
+  - "**أُثبت `status: quarantined` 2026-09-13:** متنُ هذا الملفّ يعلن الحجرَ صراحةً، ولم يكن في ترويسته ما يقوله — فكانت الأدواتُ والفحوصُ تعدُّه حيّاً، وتحسبه في نسبة الوصول، وتطالب بربطه. الوسمُ يجعل ما في المتن مقروءاً آلياً."
 ---
-
 # تيرو أوتا
 
 (Teruo Ohta)
