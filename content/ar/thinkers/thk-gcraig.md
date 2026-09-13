@@ -15,6 +15,7 @@ crumb: "علاجات حقل الفكر (TFT) ← تقنية الحرية الع�
 edges:
 - rel: "belongs_to", target: "br-energy-psychology", target_type: "تيار"
 related:
+- id: "thk-tfleming", title: "تاباس فليمينغ", type: "مفكر"
 - id: "thk-fgallo", title: "فريد غالو", type: "مفكر"
 - id: "br-energy-psychology", title: "علم نفس الطاقة (Energy Psychology)", type: "تيار"
 - id: "tec-eft-tapping", title: "تقنيات الحرية الانفعالية (EFT / النقر)", type: "تقنية/تدخل علاجي"
