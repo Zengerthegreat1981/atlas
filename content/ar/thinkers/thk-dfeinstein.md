@@ -15,6 +15,7 @@ crumb: "الناس ← ديفيد فاينشتاين"
 edges:
 - rel: "belongs_to", target: "br-energy-psychology", target_type: "تيار"
 related:
+- id: "thk-dhoverkramer", title: "دوروثيا هوفر-كرامر", type: "مفكر"
 - id: "thk-dgruder", title: "ديفيد غرودر", type: "مفكر"
 - id: "thk-fgallo", title: "فريد غالو", type: "مفكر"
 - id: "br-energy-psychology", title: "علم نفس الطاقة (Energy Psychology)", type: "تيار"
