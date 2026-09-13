@@ -13,7 +13,7 @@ items_count: 10
 target_population: "الأمهات في فترة ما بعد الولادة (وتُستخدم أيضاً أثناء الحمل)"
 reliability: "اتساق داخلي جيد (ألفا حوالي 0.87 في الدراسة الأصلية)"
 validity_note: "صدق تلازمي مع مقاييس الاكتئاب الإكلينيكية في عينة التقنين الأصلية؛ نقطة القطع الشائعة 12/13"
-evidence_level: "well-established"
+psychometric_standing: "well-established"
 edges:
   []
 related:

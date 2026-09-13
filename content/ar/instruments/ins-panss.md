@@ -13,7 +13,7 @@ items_count: 30
 target_population: "مرضى بالغون مشخّصون باضطرابات طيف الفصام (في العيادات والمستشفيات وتجارب الأدوية)"
 reliability: "موثوقية بين المقيّمين مرتفعة عند تدريب المقيّمين على المقابلة النمطية المقننة (SCI-PANSS)"
 validity_note: "بنية عاملية ثلاثية (إيجابي/سلبي/عام) مؤكدة عبر تجارب دوائية متعددة، مع نقاش مستمر حول تمايز بعض البنود العامة عن البعدين الآخرين"
-evidence_level: "well-established"
+psychometric_standing: "well-established"
 edges:
   []
 related:

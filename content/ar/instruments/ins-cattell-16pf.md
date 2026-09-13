@@ -13,7 +13,7 @@ items_count: 185
 target_population: "بالغون ومراهقون من سن 16 عاماً فما فوق"
 reliability: "ثبات إعادة التطبيق 0.70–0.85"
 validity_note: "صدق عاملي جزئي؛ الجدل حول استقرار العوامل الستة عشر عبر التحليلات العاملية المستقلة لم يُحسم"
-evidence_level: "probably-efficacious"
+psychometric_standing: "probably-efficacious"
 edges:
   []
 related:

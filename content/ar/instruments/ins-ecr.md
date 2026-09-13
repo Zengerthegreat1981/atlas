@@ -12,7 +12,7 @@ items_count: 36
 target_population: "البالغون في علاقات رومانسية/زواجية"
 reliability: "اتساق داخلي مرتفع (ألفا 0.91-0.94) لبُعدي القلق والتجنب"
 validity_note: "صدق بنائي مدعوم بتحليل عاملي لعدة مقاييس تعلّق سابقة؛ النسخة المنقحة ECR-R (فرالي وزملاؤه 2000) استخدمت نظرية الاستجابة للمفردة (IRT) لتحسين تمييز البنود"
-evidence_level: "well-established"
+psychometric_standing: "well-established"
 part: "psychology"
 related:
 - id: "sch-social-psychology", title: "علم النفس الاجتماعي (Social Psychology)", type: "مدرسة"

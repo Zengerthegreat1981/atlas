@@ -13,7 +13,7 @@ items_count: 22
 target_population: "البالغون المعرّضون لحدث صادم محدد قابل للتحديد زمنياً (كوارث، حوادث، عنف، فقدان)؛ يُستخدم إكلينيكياً وبحثياً"
 reliability: "ثبات داخلي مرتفع (ألفا تتراوح بين 0.87 و0.94 عبر الدراسات)"
 validity_note: "لا يغطي المعيار D لاضطراب ما بعد الصدمة في DSM-5 (التغيرات السلبية في المعرفة والمزاج)؛ يقيس الضيق المصاحب للحدث لا التشخيص الرسمي"
-evidence_level: "well-established"
+psychometric_standing: "well-established"
 related:
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-acute-stress-disorder", title: "اضطراب الكرب الحاد", type: "اضطراب/حالة إكلينيكية"

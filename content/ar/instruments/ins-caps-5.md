@@ -13,7 +13,7 @@ items_count: 30
 target_population: "بالغون (تحوير للأطفال والمراهقين متاح: CAPS-CA-5)"
 reliability: "ثبات بين الفاحصين 0.91–0.98"
 validity_note: "صدق تلازمي مرتفع مع مقاييس PTSD الذاتية والمقابلات الأخرى؛ الإصدار الحالي مبني مباشرة على معايير DSM-5"
-evidence_level: "well-established"
+psychometric_standing: "well-established"
 related:
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 gaps:

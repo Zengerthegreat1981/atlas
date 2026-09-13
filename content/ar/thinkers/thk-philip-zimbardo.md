@@ -13,7 +13,6 @@ active_end: "مستمر"
 country: "الولايات المتحدة"
 language: "الإنجليزية"
 register: "academic"
-evidence_level: "مستندي"
 edges:
 - rel: "belongs_to", target: "sch-social-psychology", target_type: "مدرسة"
 related:

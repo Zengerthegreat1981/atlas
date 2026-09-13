@@ -13,7 +13,7 @@ items_count: "15 اختباراً فرعياً في نسخة WAIS-IV (10 أسا�
 target_population: "بالغون ومراهقون كبار من سن 16 إلى 90 عاماً"
 reliability: "معاملات ثبات مركبة مرتفعة جداً (تتجاوز 0.98 لدرجة الذكاء الكلية FSIQ حسب دليل WAIS-IV)"
 validity_note: "صدق تمايزي فائق وصدق تلازمي موثق مع نسخ وكسلر الأخرى (WISC، WASI-II)؛ يتأثر صدق بعض الاختبارات الفرعية اللفظية بالخلفية التعليمية والثقافية للمفحوص"
-evidence_level: "well-established"
+psychometric_standing: "well-established"
 related:
 - id: "sch-developmental", title: "علم النفس النمائي (Developmental Psychology)", type: "مدرسة"
 - id: "dbt-nature-vs-nurture-intelligence-personality", title: "جدل الطبيعة والتنشئة في الذكاء والشخصية", type: "جدل"

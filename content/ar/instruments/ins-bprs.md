@@ -20,7 +20,7 @@ items_count: 18
 target_population: "مرضى نفسيون بالغون في المستشفيات النفسية، خصوصاً حالات الذهان والفصام"
 reliability: "ثبات بين المقيّمين جيد إلى ممتاز، ويعتمد بشدة على تدريب القائم بالتقييم"
 validity_note: "صدق تلازمي جيد مع مقاييس الذهان الأخرى مثل PANSS"
-evidence_level: "well-established"
+psychometric_standing: "well-established"
 ---
 
 # مقياس التقييم النفسي السريري الموجز (BPRS)

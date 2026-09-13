@@ -13,7 +13,7 @@ items_count: 57
 target_population: "المراهقون والبالغون (13 سنة فأكثر)، في السياقات الإكلينيكية والقضائية والطبية"
 reliability: "اتساق داخلي (ألفا كرونباخ) يتراوح بين 0.73 و0.93 عبر المقاييس الفرعية"
 validity_note: "صدق بنائي مدعوم بالتحليل العاملي التوكيدي للأبعاد الفرعية (State Anger، Trait Anger، Anger-In، Anger-Out، Anger Control)، وصدق تلازمي مع مقاييس العدائية والاكتئاب وضغط الدم"
-evidence_level: "راسخ (established)"
+psychometric_standing: "راسخ (established)"
 edges:
   []
 related:

@@ -13,7 +13,7 @@ items_count: 30
 target_population: "البالغون وكبار السن، خاصة من يُشتبه لديهم اختلال معرفي أو خرف"
 reliability: "ثبات إعادة التطبيق مرتفع (حوالي 0.88 كما هو موثق في المتن)"
 validity_note: "صدق تلازمي جيد مع مقاييس الخرف والتقييم العصبي النفسي الشامل، لكن حساسيته ضعيفة لكشف الاختلال المعرفي الخفيف (MCI)"
-evidence_level: "well-established"
+psychometric_standing: "well-established"
 related:
 - id: "dis-delirium", title: "الهذيان والتشوش الحاد", type: "اضطراب/حالة إكلينيكية"
 gaps:

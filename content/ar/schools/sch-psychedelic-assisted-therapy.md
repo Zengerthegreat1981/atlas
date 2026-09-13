@@ -14,7 +14,7 @@ cultural_origin: "anglo-american"
 active_start: 1960
 active_end: "مستمر"
 register: "academic"
-evidence_level: "تجريبي (Experimental) — مع توسّع سريع في التجارب السريرية العشوائية وتصنيفات اختراق من FDA"
+evidence_level: "experimental"
 edges:
 - rel: "intersects_with", target: "sch-biological-neuro", target_type: "مدرسة"
 - rel: "intersects_with", target: "con-mindfulness", target_type: "مفهوم"

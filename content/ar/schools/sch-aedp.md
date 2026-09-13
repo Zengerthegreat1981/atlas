@@ -14,7 +14,7 @@ language: "الإنجليزية"
 active_start: 1997
 active_end: "مستمر"
 register: "academic"
-evidence_level: "فعّال على الأرجح (Probably Efficacious) وفق تصنيف الدليل العلاجي لقسم 12 من APA"
+evidence_level: "probably-efficacious"
 edges:
 - rel: "evolved_from", target: "sch-gestalt-therapy", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-psychoanalysis", target_type: "مدرسة"

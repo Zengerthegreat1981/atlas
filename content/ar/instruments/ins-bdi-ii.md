@@ -13,7 +13,7 @@ items_count: 21
 target_population: "مراهقون وبالغون (13 سنة فأكثر) لتقييم شدة أعراض الاكتئاب الإكلينيكي"
 reliability: "ثبات اتساق داخلي استثنائي (ألفا كرونباخ 0.92-0.93)؛ ثبات إعادة تطبيق مرتفع على المدى القصير"
 validity_note: "صدق تزامني فائق مع مقياس هاملتون للاكتئاب وتقييمات الأطباء الإكلينيكية"
-evidence_level: "well-established"
+psychometric_standing: "well-established"
 related:
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"

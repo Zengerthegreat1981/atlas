@@ -13,7 +13,7 @@ items_count: 10
 target_population: "البالغون المصابون بالاكتئاب في السياقات الإكلينيكية والبحثية، وبخاصة تجارب الأدوية المضادة للاكتئاب"
 reliability: "ثبات مرتفع بين المُقيِّمين (inter-rater)، مع حساسية عالية لرصد التغير العلاجي عبر الزمن"
 validity_note: "صدق تلازمي مرتفع مع مقياس هاملتون للاكتئاب (HAM-D)؛ يفوقه في الحساسية لتغيرات الأعراض الجوهرية دون تشويش من الأعراض الجسدية"
-evidence_level: "well-established"
+psychometric_standing: "well-established"
 edges:
   []
 related:

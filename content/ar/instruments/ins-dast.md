@@ -13,7 +13,7 @@ items_count: "20 (DAST-20) / 10 (DAST-10)"
 target_population: "المراهقون والبالغون في سياقات الفرز الطبي والإكلينيكي وعلاج الإدمان"
 reliability: "ثبات داخلي ممتاز (ألفا كرونباخ 0.86-0.92)"
 validity_note: "صدق تزامني قوي مع تشخيصات DSM للاضطرابات المرتبطة بتعاطي المواد؛ التحقق المستقل خارج أمريكا الشمالية محدود"
-evidence_level: "well-established"
+psychometric_standing: "well-established"
 related:
 - id: "dis-cannabis-use", title: "اضطراب استخدام الحشيش", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-alcohol-use-disorder", title: "اضطراب استخدام الكحول", type: "اضطراب/حالة إكلينيكية"

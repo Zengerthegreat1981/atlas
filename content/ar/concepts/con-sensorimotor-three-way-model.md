@@ -8,7 +8,7 @@ title: "النموذج الثلاثي (الإدراك - الانفعال - ال�
 en: "Three-Way Model (Cognitive-Affective-Sensorimotor)"
 crumb: "علم النفس ← العلاج النفسي حسي-حركي ← النموذج النظري"
 register: "clinical"
-evidence_level: "emerging"
+evidence_level: "experimental"
 dates: "صاغته Pat Ogden في 2006"
 active_start: 2006
 active_end: "مستمر"

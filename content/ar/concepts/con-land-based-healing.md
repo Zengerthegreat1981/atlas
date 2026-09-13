@@ -8,7 +8,7 @@ title: "الشفاء القائم على الأرض (Land-Based Healing)"
 en: "Land-Based Healing"
 crumb: "علم النفس ← علم نفس الشعوب الأصلية ← مفاهيم جوهرية ← الشفاء القائم على الأرض"
 register: "academic"
-evidence_level: "emerging"
+evidence_level: "experimental"
 cultural_origin: "indigenous"
 dates: "ممارسة قديمة · صِيغت أكاديمياً من 2000s"
 active_start: null

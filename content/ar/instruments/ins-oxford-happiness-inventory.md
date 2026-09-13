@@ -12,7 +12,7 @@ items_count: 29
 target_population: "بالغون من عامة السكان (غير إكلينيكية)"
 reliability: "ألفا كرونباخ 0.90–0.92"
 validity_note: "ارتباط تقاربي قوي بسمتي الانبساط وانخفاض العصابية من نماذج الشخصية الكبرى"
-evidence_level: "well-established"
+psychometric_standing: "well-established"
 part: "psychology"
 related:
 - id: "con-mindfulness", title: "اليقظة الذهنية (Mindfulness)", type: "مفهوم"

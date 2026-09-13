@@ -11,7 +11,6 @@ active_start: 2010
 active_end: "مستمر"
 country: "الولايات المتحدة"
 language: "إنجليزية"
-evidence_level: "متوسط"
 edges:
 - rel: "belongs_to", target: "sch-biological-neuro", target_type: "مدرسة"
 related:

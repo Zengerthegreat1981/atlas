@@ -13,7 +13,7 @@ items_count: 9
 target_population: "بالغون في مراكز الرعاية الأولية والعامة، يُستخدم أيضاً في السياقات الإكلينيكية النفسية"
 reliability: "ثبات داخلي مرتفع (ألفا كرونباخ 0.89)"
 validity_note: "حساسية ونوعية تتجاوز 88% مقابل التشخيص الإكلينيكي؛ عرضة لإيجابيات كاذبة لدى مرضى الألم المزمن أو الحداد الطبيعي"
-evidence_level: "well-established"
+psychometric_standing: "well-established"
 related:
 - id: "thk-rspitzer", title: "روبرت سبيتزر", type: "مفكر"
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"

@@ -23,7 +23,7 @@ items_count: "لا يوجد عدد بنود ثابت؛ يتألف من 10 اخت
 target_population: "من عمر سنتين حتى ما فوق 85 عاماً (أفراد، وليس تطبيقاً جمعياً)"
 reliability: "معامل ثبات مرتفع جداً للدرجة الكلية المركبة (Full Scale IQ)، يتجاوز 0.97 في الإصدار الخامس"
 validity_note: "صدق تزامني وبنائي عالٍ مقارنة ببطاريات وكسلر؛ الصدق عبر الثقافي للنسخ المعرَّبة غير موثّق بنفس القوة"
-evidence_level: "well-established"
+psychometric_standing: "well-established"
 ---
 
 

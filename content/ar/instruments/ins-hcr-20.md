@@ -13,7 +13,7 @@ items_count: 20
 target_population: "بالغون داخل منظومة الطب النفسي الشرعي أو العدالة الجنائية، تحت تقييم خطر العنف المستقبلي"
 reliability: "ثبات بين المقيّمين مقبول إلى جيد للدرجة الكلية في معظم الدراسات، لكنه متغيّر بين المراكز بحسب التدريب"
 validity_note: "قدرة تنبؤية معتدلة (AUC قريب من 0.7 في مراجعات تلوية)؛ الصدق التنبؤي أعلى للسلوك العنيف قصير المدى منه لطويل المدى"
-evidence_level: "probably-efficacious"
+psychometric_standing: "probably-efficacious"
 edges:
 - rel: "belongs_to", target: "br-therapeutic-risk-assessment", target_type: "تيار"
 related:

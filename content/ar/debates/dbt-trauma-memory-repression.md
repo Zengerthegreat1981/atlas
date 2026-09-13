@@ -11,7 +11,6 @@ active_start: 1980
 active_end: "مستمر"
 country: "الولايات المتحدة"
 language: "إنجليزية"
-evidence_level: "متوسط"
 edges:
 - rel: "belongs_to", target: "br-recovered-memory-movement", target_type: "تيار"
 related:

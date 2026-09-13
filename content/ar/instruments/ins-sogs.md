@@ -13,7 +13,7 @@ items_count: 20
 target_population: "البالغون في سياقات علاج الإدمان السلوكي، والفرز الوبائي، والتقييم الجنائي المرتبط بالقمار المرضي"
 reliability: "ثبات إعادة تطبيق ممتاز (0.71) وثبات اتساق داخلي مرتفع جداً (ألفا = 0.97 في العينات الإكلينيكية)"
 validity_note: "صدق تمييزي جيد بين مقامري الكازينوهات والمقامرين المجهولين (Gamblers Anonymous) وعينات ضابطة في دراسة التحقق الأصلية؛ لكن دراسات لاحقة أظهرت ميلاً لتضخيم نسبة الإيجابية الكاذبة في العينات غير الإكلينيكية مقارنة بمعايير DSM اللاحقة"
-evidence_level: "established, but criticized for false positives in non-clinical samples"
+psychometric_standing: "established, but criticized for false positives in non-clinical samples"
 related:
 - id: "dis-gambling-disorder", title: "اضطراب القمار", type: "اضطراب/حالة إكلينيكية"
 gaps:

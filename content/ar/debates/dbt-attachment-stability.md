@@ -11,7 +11,6 @@ active_start: 1991
 active_end: "مستمر"
 country: "أمريكا الشمالية/أوروبا"
 language: "إنجليزية"
-evidence_level: "متوسط"
 edges:
 - rel: "belongs_to", target: "br-attachment-theory", target_type: "تيار"
 related:

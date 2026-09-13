@@ -12,7 +12,7 @@ items_count: 20
 target_population: "بالغون من عامة السكان وطلاب جامعيون؛ يُستخدم أيضاً في العينات الإكلينيكية"
 reliability: "ألفا كرونباخ 0.86–0.90 للانفعال الإيجابي، و0.84–0.87 للانفعال السلبي"
 validity_note: "بنية عاملية ثنائية شبه متعامدة (استقلال إحصائي بين البعدين) مؤكدة عبر التحليل العاملي التوكيدي"
-evidence_level: "well-established"
+psychometric_standing: "well-established"
 part: "psychology"
 related:
 - id: "con-anxiety-existential", title: "القلق (المعرفي والعصبي)", type: "مفهوم"

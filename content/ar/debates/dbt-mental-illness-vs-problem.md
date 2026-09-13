@@ -11,7 +11,6 @@ active_start: 1960
 active_end: "مستمر"
 country: "الولايات المتحدة"
 language: "إنجليزية"
-evidence_level: "متوسط"
 related:
 - id: "thk-szasz", title: "توماس ساس", type: "مفكر"
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"

@@ -13,7 +13,7 @@ items_count: 30
 target_population: "البالغون وكبار السن المشتبه في إصابتهم باختلال معرفي خفيف (MCI) أو خرف مبكر"
 reliability: "ثبات داخلي جيد في الدراسة الأصلية (نصريدين وآخرون، 2005)، وثبات إعادة تطبيق مقبول عبر الدراسات اللاحقة"
 validity_note: "حساسية أعلى من MMSE في كشف الاختلال المعرفي الخفيف كما هو موضح في المتن، مع نوعية أقل قليلاً مما يزيد الإيجابيات الكاذبة"
-evidence_level: "well-established"
+psychometric_standing: "well-established"
 related:
 - id: "dis-delirium", title: "الهذيان والتشوش الحاد", type: "اضطراب/حالة إكلينيكية"
 gaps:

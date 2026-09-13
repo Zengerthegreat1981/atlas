@@ -419,6 +419,17 @@ def main():
     bad("`level` خارجَ المعجم", len(lv), lv) if lv else ok("`level` من المعجم في كلِّ عقدة")
     pt = [f"{s}: «{d[s].get('part')}»" for s in d if d[s].get("part") not in ("philosophy", "psychology", "bridge", "sociology")]
     bad("`part` خارجَ المعجم", len(pt), pt, fatal=False) if pt else ok("`part` من المعجم في كلِّ عقدة")
+    # `evidence_level` معجمُ فعاليةِ علاجٍ لا وصفٌ حرّ — وكان 51 ملفاً يكتب فيه
+    # جملةً نثريةً كاملة. وأدواتُ القياس لا ينطبق عليها هذا المعجم أصلاً، فنُقلت
+    # إلى `psychometric_standing`. هذا الحارسُ يمنع الرجوع.
+    EV = ("well-established", "probably-efficacious", "experimental", "traditional",
+          "controversial", "theoretical", "discredited")
+    evb = [f"{s}: «{d[s].get('evidence_level')}»" for s in d
+           if d[s].get("evidence_level") and d[s]["evidence_level"] not in EV]
+    bad("`evidence_level` خارجَ المعجم", len(evb), evb) if evb else ok("`evidence_level` من المعجم حيثما وُجد")
+    evi = [s for s in d if s.startswith("ins-") and d[s].get("evidence_level")]
+    (bad("أداةُ قياسٍ تحمل `evidence_level` (والصحيحُ `psychometric_standing`)", len(evi), evi, fatal=False)
+     if evi else ok("لا أداةَ قياسٍ تحمل معجمَ فعاليةِ العلاج"))
     ena = [s for s in d if re.search(r'[؀-ۿ]', d[s].get("en") or "")]
     bad("حقلُ `en` فيه عربية", len(ena), ena) if ena else ok("لا عربيةَ في حقل `en`")
 

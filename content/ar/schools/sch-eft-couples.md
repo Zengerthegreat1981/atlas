@@ -14,7 +14,7 @@ active_start: 1984
 active_end: "مستمر"
 register: "academic"
 cultural_origin: "anglo-canadian"
-evidence_level: "راسخ (Well-Established) للعلاج الزوجي وفق تقييم الدليل العلاجي لـAPA Division 12"
+evidence_level: "well-established"
 edges:
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 - rel: "evolved_from", target: "br-attachment-theory", target_type: "تيار"

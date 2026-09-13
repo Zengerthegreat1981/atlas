@@ -12,7 +12,7 @@ items_count: 12
 target_population: "بالغون ومراهقون؛ عيّنات إكلينيكية (اضطراب القلق الاجتماعي) وغير إكلينيكية (طلاب جامعيون في التقنين الأصلي)"
 reliability: "اتساق داخلي مرتفع جداً (كرونباخ ألفا 0.90–0.96 عبر عدة عيّنات)؛ ثبات إعادة الاختبار مقبول إلى جيد"
 validity_note: "صدق تقاربي قوي مع مقاييس القلق الاجتماعي الأخرى (مثل SIAS وSPS)؛ يميز بين مرضى القلق الاجتماعي وغير المصابين"
-evidence_level: "well-established"
+psychometric_standing: "well-established"
 part: "psychology"
 related:
 - id: "dis-social-anxiety-disorder", title: "اضطراب القلق الاجتماعي", type: "اضطراب/حالة إكلينيكية"

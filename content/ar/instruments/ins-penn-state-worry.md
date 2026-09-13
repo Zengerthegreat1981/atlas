@@ -13,7 +13,7 @@ items_count: 16
 target_population: "بالغون، تُستخدم في البحث والسريريات لقياس القلق السمة، أُسست أصلاً على عينات طلابية"
 reliability: "ثبات داخلي مرتفع (ألفا 0.93-0.95)؛ ثبات إعادة اختبار 0.74-0.92 (فترة 2-10 أسابيع)"
 validity_note: "ارتباطات مرتفعة (0.7-0.85) مع BAI وSTAI-T وفرع القلق في SCL-90؛ يميّز بفاعلية مرضى اضطراب القلق المعمم"
-evidence_level: "well-established"
+psychometric_standing: "well-established"
 related:
 - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
 gaps:

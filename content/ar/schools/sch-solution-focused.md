@@ -14,7 +14,7 @@ language: "الإنجليزية"
 active_start: 1982
 active_end: "مستمر"
 register: "academic"
-evidence_level: "راسخ لحالات معيّنة (Well-Established for Specific Problems) وفق تقييم الدليل العلاجي"
+evidence_level: "well-established"
 edges:
 - rel: "founded_by", target: "thk-iberg", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"

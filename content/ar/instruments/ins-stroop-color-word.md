@@ -12,7 +12,7 @@ items_count: 100
 target_population: "الأطفال من سن 7 سنوات فأكثر، والمراهقون والبالغون، في السياقات العصبية-النفسية والإكلينيكية"
 reliability: "ثبات إعادة تطبيق يتراوح بين 0.83 و0.90"
 validity_note: "صدق تلازمي مع مقاييس الانتباه والوظائف التنفيذية، وصدق تمييزي بين المصابين بإصابات الفص الجبهي والقشرة الحزامية الأمامية والأصحاء"
-evidence_level: "راسخ (established)"
+psychometric_standing: "راسخ (established)"
 part: "psychology"
 edges:
   []

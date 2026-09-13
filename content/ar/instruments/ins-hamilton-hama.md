@@ -13,7 +13,7 @@ items_count: 14
 target_population: "بالغون يعانون من أعراض قلق إكلينيكية (يشمل القلق العام والهلع)، يطبَّق بمعرفة إكلينيكي مدرَّب في مقابلة سريرية لا كتقرير ذاتي"
 reliability: "ثبات بين المقيّمين مرتفع (α ≈ 0.83–0.97 عبر الدراسات)"
 validity_note: "صدق تقارني جيد مع STAI وBAI، لكنه لا يميّز جيداً بين أنواع اضطرابات القلق المختلفة (القلق العام مقابل الهلع مقابل الرهاب الاجتماعي)"
-evidence_level: "well-established"
+psychometric_standing: "well-established"
 edges:
 - rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:

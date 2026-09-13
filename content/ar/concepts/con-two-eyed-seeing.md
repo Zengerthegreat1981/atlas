@@ -8,7 +8,7 @@ title: "الرؤية بعينين (Etuaptmumk / Two-Eyed Seeing)"
 en: "Two-Eyed Seeing (Etuaptmumk)"
 crumb: "علم النفس ← علم نفس الشعوب الأصلية ← مفاهيم جوهرية ← الرؤية بعينين"
 register: "academic"
-evidence_level: "emerging"
+evidence_level: "experimental"
 cultural_origin: "indigenous"
 dates: "صاغها Bartlett & Marshall في 2004"
 active_start: 2004

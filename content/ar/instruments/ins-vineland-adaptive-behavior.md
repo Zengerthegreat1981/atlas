@@ -13,7 +13,7 @@ items_count: "يختلف عدد البنود حسب المجال والفئة ا
 target_population: "من الولادة وحتى سن 90+ عاماً، مع تركيز إكلينيكي رئيسي على الأطفال وذوي الإعاقة الذهنية واضطراب طيف التوحد"
 reliability: "ثبات اتساق داخلي مرتفع (يتجاوز 0.95 للدرجة المركبة الشاملة ABC حسب دليل الإصدار الثالث)"
 validity_note: "صدق تلازمي موثق مع مقاييس السلوك التكيفي الأخرى (مثل AAMR/AAIDD Adaptive Behavior Scale) وصدق تمييزي جيد بين عينات الإعاقة الذهنية والعينات النمطية؛ يعتمد على تقرير مُخبر (والد/معلم) لا على أداء مباشر للمفحوص"
-evidence_level: "well-established"
+psychometric_standing: "well-established"
 related:
 - id: "dis-intellectual-disability", title: "الإعاقة الذهنية", type: "اضطراب/حالة إكلينيكية"
 gaps:

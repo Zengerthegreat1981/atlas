@@ -12,7 +12,7 @@ items_count: 5
 target_population: "المراهقون والبالغون في السياقات البحثية والإكلينيكية العامة، دون تخصص بفئة سريرية"
 reliability: "اتساق داخلي مرتفع (ألفا كرونباخ = 0.87) وثبات إعادة تطبيق = 0.82"
 validity_note: "صدق تلازمي وبنائي موثق عبر مئات الدراسات والثقافات مع مقاييس الرفاه الذاتي والعاطفة الإيجابية"
-evidence_level: "راسخ (established)"
+psychometric_standing: "راسخ (established)"
 part: "psychology"
 related:
 - id: "thk-emmons", title: "روبرت إيمونز", type: "مفكر"

@@ -13,7 +13,7 @@ items_count: 17
 target_population: "بالغون مُشخَّصون سريرياً باضطراب اكتئابي، يُطبَّق بمعرفة إكلينيكي مدرَّب لا كتقرير ذاتي"
 reliability: "ثبات بين المقيّمين مرتفع بشكل عام (α تتراوح تقريباً بين 0.82 و0.98 حسب الدراسة والعيّنة)"
 validity_note: "صدق تقارني جيد مع BDI-II وMADRS؛ بنيته العاملية محل نقد متكرر (Bagby وزملاؤه، 2004) لتداخل بنود جسدية مع أعراض دوائية"
-evidence_level: "well-established"
+psychometric_standing: "well-established"
 edges:
 - rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:

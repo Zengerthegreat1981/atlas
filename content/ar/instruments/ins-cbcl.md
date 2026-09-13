@@ -13,7 +13,7 @@ items_count: 113
 target_population: "أطفال ومراهقون من سن 1.5 إلى 18 عاماً (تقرير الوالدين/المعلمين)"
 reliability: "ثبات اتساق داخلي يتجاوز 0.90"
 validity_note: "صدق تلازمي وبنائي موثق واسعاً عبر عقود من الدراسات؛ يعتمد على مصدر إبلاغ خارجي (الوالد أو المعلم) لا على تقرير الطفل ذاته في النسخة الأساسية"
-evidence_level: "well-established"
+psychometric_standing: "well-established"
 related:
 - id: "thk-tachenbach", title: "توماس أشنباخ", type: "مفكر"
 - id: "dis-conduct-disorder", title: "اضطراب السلوك (Conduct Disorder)", type: "اضطراب/حالة إكلينيكية"

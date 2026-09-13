@@ -13,7 +13,7 @@ items_count: 20
 target_population: "بالغون تعرّضوا لحدث صادم مستوفٍ للمعيار (A) في DSM-5، مدنيون وعسكريون"
 reliability: "ثبات داخلي ممتاز (ألفا = 0.94)؛ ثبات إعادة تطبيق 0.82"
 validity_note: "صدق تقاربي جيد مع CAPS-5 (المقابلة الإكلينيكية المدارة)؛ يحتاج ربط الإجابات بحدث صادم محدد للتحقق من صدق المحتوى"
-evidence_level: "well-established"
+psychometric_standing: "well-established"
 related:
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 gaps:

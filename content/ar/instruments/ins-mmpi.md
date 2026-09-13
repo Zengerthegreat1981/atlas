@@ -13,7 +13,7 @@ items_count: 567
 target_population: "بالغون (18 سنة فأكثر) في السياقات الإكلينيكية والقانونية والمهنية"
 reliability: "ثبات إعادة الاختبار مرتفع عموماً على المقاييس الإكلينيكية (غالباً بين 0.70 و0.90 حسب المقياس والفاصل الزمني)"
 validity_note: "صدق تلازمي وتمييزي موثق بعقود من البحث؛ يعتمد على مقاييس صدق داخلية (L وF وK وغيرها) لكشف التزييف والدفاعية"
-evidence_level: "well-established"
+psychometric_standing: "well-established"
 related:
 - id: "dbt-projective-tests-validity", title: "جدل صدق وموثوقية الاختبارات الإسقاطية في السياق الإكلينيكي والقانوني", type: "جدل"
 gaps:

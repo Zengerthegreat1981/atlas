@@ -15,7 +15,7 @@ part: "psychology"
 evidence_level: "discredited"
 edges:
 - rel: "belongs_to", target: "br-energy-medicine", target_type: "تيار"
-- rel: "created", target: "tec-therapeutic-touch", target_type: "تقنية/تدخل علاجي"
+- rel: "developed", target: "tec-therapeutic-touch", target_type: "تقنية/تدخل علاجي"
 related:
 - id: "br-energy-medicine", title: "طبّ الطاقة والعلاجات بالحقل الحيويّ", type: "تيار"
 - id: "tec-therapeutic-touch", title: "اللمسة العلاجية (Therapeutic Touch)", type: "تقنية/تدخل علاجي"
