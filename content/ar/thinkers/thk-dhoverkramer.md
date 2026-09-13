@@ -16,6 +16,9 @@ evidence_level: "controversial"
 edges:
 - rel: "belongs_to", target: "br-energy-psychology", target_type: "تيار"
 related:
+- id: "br-energy-medicine", title: "طبّ الطاقة والعلاجات بالحقل الحيويّ", type: "تيار"
+- id: "tec-healing-touch", title: "اللمسة الشافية (Healing Touch)", type: "تقنية/تدخل علاجي"
+- id: "thk-dkrieger", title: "دولوريس كريغر", type: "مفكر"
 - id: "tec-therapeutic-touch", title: "اللمسة العلاجية (Therapeutic Touch)", type: "تقنية/تدخل علاجي"
 - id: "thk-jmentgen", title: "جانيت منتغن", type: "مفكر"
 - id: "br-energy-psychology", title: "علم نفس الطاقة (Energy Psychology)", type: "تيار"

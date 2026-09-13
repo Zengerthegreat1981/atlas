@@ -16,6 +16,8 @@ evidence_level: "controversial"
 edges:
   []
 related:
+- id: "br-energy-medicine", title: "طبّ الطاقة والعلاجات بالحقل الحيويّ", type: "تيار"
+- id: "tec-healing-touch", title: "اللمسة الشافية (Healing Touch)", type: "تقنية/تدخل علاجي"
 - id: "tec-therapeutic-touch", title: "اللمسة العلاجية (Therapeutic Touch)", type: "تقنية/تدخل علاجي"
 - id: "thk-jmentgen", title: "جانيت منتغن", type: "مفكر"
 - id: "thk-dhoverkramer", title: "دوروثيا هوفر-كرامر", type: "مفكر"

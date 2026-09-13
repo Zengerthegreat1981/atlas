@@ -15,7 +15,6 @@ part: "psychology"
 evidence_level: "controversial"
 edges:
 - rel: "belongs_to", target: "br-energy-medicine", target_type: "تيار"
-- rel: "evolved_from", target: "tec-therapeutic-touch", target_type: "تقنية/تدخل علاجي"
 - rel: "developed_by", target: "thk-jmentgen", target_type: "مفكر"
 related:
 - id: "br-energy-medicine", title: "طبّ الطاقة والعلاجات بالحقل الحيويّ", type: "تيار"
