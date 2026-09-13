@@ -16,6 +16,7 @@ evidence_level: "controversial"
 edges:
 - rel: "belongs_to", target: "br-energy-psychology", target_type: "تيار"
 related:
+- id: "tec-therapeutic-touch", title: "اللمسة العلاجية (Therapeutic Touch)", type: "تقنية/تدخل علاجي"
 - id: "thk-dhoverkramer", title: "دوروثيا هوفر-كرامر", type: "مفكر"
 - id: "thk-dgruder", title: "ديفيد غرودر", type: "مفكر"
 - id: "thk-tfleming", title: "تاباس فليمينغ", type: "مفكر"

@@ -16,6 +16,7 @@ evidence_level: "controversial"
 edges:
   []
 related:
+- id: "tec-therapeutic-touch", title: "اللمسة العلاجية (Therapeutic Touch)", type: "تقنية/تدخل علاجي"
 - id: "thk-jmentgen", title: "جانيت منتغن", type: "مفكر"
 - id: "thk-dhoverkramer", title: "دوروثيا هوفر-كرامر", type: "مفكر"
 - id: "thk-dgruder", title: "ديفيد غرودر", type: "مفكر"
