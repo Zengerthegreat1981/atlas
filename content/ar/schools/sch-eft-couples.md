@@ -30,11 +30,9 @@ related:
 - id: "thk-sjohnson", title: "سو جونسون", type: "مفكر"
 - id: "thk-greenberg-lisa", title: "ليزلي س. غرينبرغ", type: "مفكر"
 - id: "con-eft-couples-bond-cycle", title: "دورة الترابط (The Bond Cycle) في العلاج الزوجي المتمحور حول المشاعر", type: "مفهوم"
-- id: "thk-katie-laperriere", title: "كايتي لابيريير (Katie LaPerriere)", type: "مفكر"
 - id: "con-negative-interaction-cycle-attachment", title: "الدورة التفاعلية السلبية وإصابات التعلق في علاج الأزواج (EFCT)", type: "مفهوم"
 - id: "tec-eft-couples-de-escalation", title: "بروتوكول خفض التصعيد وإعادة هيكلة الرابطة الزوجية (EFCT)", type: "تقنية/تدخل علاجي"
 - id: "met-eft-raw-spots", title: "الأماكن الخام شديدة الحساسية لسو جونسون: استعارة جراح التعلق غير المرئية", type: "استعارة/مجاز مؤسِّس"
-- id: "thk-jacqueline-tortorella", title: "جاكلين تورتوريلا", type: "مفكر"
 - id: "thk-jennifer-olding", title: "جينيفر أولدنغ", type: "مفكر"
 - id: "thk-robert-emery", title: "روبرت إيميري", type: "مفكر"
 gaps:
@@ -42,6 +40,7 @@ gaps:
   - "التفاصيل الدقيقة لتطوّر نموذج الـEFT للعلاج الفردي (Greenberg) وعلاقته بنموذج الزوجي (Johnson) لم تُراجع من مذكرات المؤسِّسين."
   - "لا توجد اقتباسات مباشرة موثّقة من 'Hold Me Tight' تم التحقق منها في كتابة هذا الملف."
   - "التمييز الدقيق بين EFT الكلاسيكية والإصدارات اللاحقة (EFT for Individuals, EFFT, EFIT) لم يُوثَّق بعمق هنا."
+  - "**أُزيلت 2 إشارةً إلى ملفاتٍ محجورة 2026-09-13:** `thk-katie-laperriere`، `thk-jacqueline-tortorella`. متونُها تقرّ بتعذُّر توثيق أصحابها من مصدرٍ مستقلّ، فالرابطُ يقود القارئَ إلى طريقٍ مسدود. تُعاد إن رُفع الحجر."
 ---
 # العلاج الزوجي المتمحور حول المشاعر (EFT for Couples)
 

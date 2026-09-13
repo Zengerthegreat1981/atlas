@@ -15,16 +15,14 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "tec-dir-floortime", target_type: "تقنية/تدخل علاجي"
 related:
-- id: "thk-aklinger", title: "أتسيلا كلاينغر", type: "مفكر"
 - id: "thk-fvolkmar", title: "فريد فولكمار", type: "مفكر"
 - id: "thk-jconstantino", title: "جون كونستانتينو", type: "مفكر"
-- id: "thk-jgreenspan", title: "جايك غرينسبان", type: "مفكر"
 - id: "thk-mbauman", title: "مارغريت باومان", type: "مفكر"
 - id: "thk-swieder", title: "سيرينا ويدِر", type: "مفكر"
 gaps:
   - "sch-dir-floortime ما زال في content/ar/drafts/minimax/schools/ ولم يُرقَّ بعد للمحتوى المعتمد؛ الرابط سيعمل فور الترقية."
+  - "**أُزيلت 2 إشارةً إلى ملفاتٍ محجورة 2026-09-13:** `thk-aklinger`، `thk-jgreenspan`. متونُها تقرّ بتعذُّر توثيق أصحابها من مصدرٍ مستقلّ، فالرابطُ يقود القارئَ إلى طريقٍ مسدود. تُعاد إن رُفع الحجر."
 ---
-
 # ستانلي غرينسبان
 
 طبيب أطفال ومحلل نفسي أمريكي، أستاذ في جامعة جورج واشنطن، مؤسس نموذج **التكامل بين النمو والعلاقات الفردية (DIR/Floortime)**.

@@ -17,10 +17,10 @@ related:
 - id: "con-taoist-cognitive-therapy-concept", title: "العلاج المعرفي الطاوي (Taoist Cognitive Therapy)", type: "مفهوم"
 - id: "con-automatic-thought", title: "الأفكار التلقائية", type: "مفهوم"
 - id: "thk-ruilinzhou", title: "تشو روي-لين", type: "مفكر"
-- id: "thk-yihuazhu", title: "تشو يي-هوا", type: "مفكر"
 gaps:
   - "تاريخ الميلاد الدقيق والموقع الأكاديمي الحالي (Hunan Normal University) لم يُوثّق."
   - "**أُزيلت 3 إشارةً إلى ملفاتٍ محجورة 2026-09-13:** `thk-mingshengli`، `thk-yongjingqi`، `thk-zhangyongqiang`. كلُّها ملفاتٌ متنُها يعلن أنّه لا يمكن توثيقُ صاحبها من مصدرٍ مستقلّ، فالرابطُ يقود القارئَ إلى طريقٍ مسدود. تُعاد إن رُفع الحجر."
+  - "**أُزيلت 1 إشارةً إلى ملفاتٍ محجورة 2026-09-13:** `thk-yihuazhu`. متونُها تقرّ بتعذُّر توثيق أصحابها من مصدرٍ مستقلّ، فالرابطُ يقود القارئَ إلى طريقٍ مسدود. تُعاد إن رُفع الحجر."
 ---
 # تشانغ يالين
 

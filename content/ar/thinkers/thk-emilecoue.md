@@ -18,9 +18,7 @@ related:
 - id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
 - id: "tec-self-hypnosis-progressive", title: "التنويم الذاتي (كإطار علاجي)", type: "تقنية/تدخل علاجي"
 - id: "thk-ovogt", title: "أوسكار فوغت", type: "مفكر"
-- id: "thk-jose-salgado", title: "خوسيه سالغادو", type: "مفكر"
 - id: "thk-melanie-segall", title: "ميلاني سيغال", type: "مفكر"
-- id: "thk-patrice-de-marco", title: "باتريس دي ماركو", type: "مفكر"
 - id: "thk-stig-rasmussen", title: "ستيغ راسموسن", type: "مفكر"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
@@ -28,6 +26,7 @@ gaps:
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ميلاني سيغال (thk-melanie-segall)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: باتريس دي ماركو (thk-patrice-de-marco)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ستيغ راسموسن (thk-stig-rasmussen)."
+  - "**أُزيلت 2 إشارةً إلى ملفاتٍ محجورة 2026-09-13:** `thk-jose-salgado`، `thk-patrice-de-marco`. متونُها تقرّ بتعذُّر توثيق أصحابها من مصدرٍ مستقلّ، فالرابطُ يقود القارئَ إلى طريقٍ مسدود. تُعاد إن رُفع الحجر."
 ---
 # إميل كوي
 

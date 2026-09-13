@@ -15,16 +15,14 @@ part: "philosophy"
 edges: []
 related:
 - id: "thk-kgergen", title: "كينيث جيرغن", type: "مفكر"
-- id: "thk-cdello", title: "كارمن دِل أورو", type: "مفكر"
-- id: "thk-cgerber2", title: "تشارلز جيربر", type: "مفكر"
 - id: "thk-dcamp", title: "دِنيس كامبل", type: "مفكر"
 - id: "thk-jparrh", title: "جون بار", type: "مفكر"
 - id: "thk-ppenn", title: "بيغي بِن", type: "مفكر"
 - id: "rel-postmodern-systemic", title: "ما بعد الحداثة البنائية والنظامية الأسرية: من رحم المناهضة", type: "علاقة بين مدرستين"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Conversation, Language, and Possibilities* (1997) بترجمة عربية معتمدة."
+  - "**أُزيلت 2 إشارةً إلى ملفاتٍ محجورة 2026-09-13:** `thk-cdello`، `thk-cgerber2`. متونُها تقرّ بتعذُّر توثيق أصحابها من مصدرٍ مستقلّ، فالرابطُ يقود القارئَ إلى طريقٍ مسدود. تُعاد إن رُفع الحجر."
 ---
-
 # هارلين أندرسون
 
 معالجة أسرية ومُشرفة إكلينيكية أمريكية، المؤسسة المشاركة لمقاربة **الأنظمة اللغوية التعاونية** (Collaborative Language Systems / CLS) مع هاري غوليشيان في مركز Galveston Family Institute، تكساس.

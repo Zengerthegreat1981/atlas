@@ -13,15 +13,14 @@ active_end: "مستمر"
 part: "psychology"
 related:
 - id: "thk-mtselvini", title: "ماتيو سيلفيني", type: "مفكر"
-- id: "thk-rviaro", title: "روبرتو فيارو", type: "مفكر"
 - id: "thk-ashoham", title: "آرثر شوهام", type: "مفكر"
 - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
 - id: "tec-prescription-task", title: "الوصفة العلاجية (Task Prescription)", type: "تقنية/تدخل علاجي"
 gaps:
   - "تاريخ Palo Alto Group يستحق توثيقاً."
   - "الفرق بين BST وSolution-Focused Brief Therapy يستحق توضيحاً."
+  - "**أُزيلت 1 إشارةً إلى ملفاتٍ محجورة 2026-09-13:** `thk-rviaro`. متونُها تقرّ بتعذُّر توثيق أصحابها من مصدرٍ مستقلّ، فالرابطُ يقود القارئَ إلى طريقٍ مسدود. تُعاد إن رُفع الحجر."
 ---
-
 # العلاج القصير الاستراتيجي
 
 تيار علاجي قصير (5-20 جلسة عادةً) يركّز على استراتيجيات حلّ المشكلة، مُستلهَم من مدرسة Palo Alto للاتصال (Watzlawick، Weakland، Fisch). طوّره **جورجيو ناردوني** في المركز الإيطالي (Brief Therapy Center، Arezzo).

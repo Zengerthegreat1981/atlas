@@ -17,7 +17,6 @@ edges:
 related:
 - id: "thk-marisol-montoya", title: "ماريسول مونتويا", type: "مفكر"
 - id: "thk-imartinbaro", title: "إغناثيو مارتن-بارو", type: "مفكر"
-- id: "thk-cora-zanuso", title: "كورا زانوسو (Cora Zanuso)", type: "مفكر"
 - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
 - id: "wrk-freire-pedagogy-oppressed", title: "تعليم المضطهدين (Pedagogy of the Oppressed)", type: "عمل / كتاب"
 gaps:
@@ -25,8 +24,8 @@ gaps:
   - "حُذفت روابط related كانت تشاور على ملفات غير موجودة (con-conscientization، con-dialogical-pedagogy)."
   - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-liberation-psychology` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
   - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-liberation-psychology` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
+  - "**أُزيلت 1 إشارةً إلى ملفاتٍ محجورة 2026-09-13:** `thk-cora-zanuso`. متونُها تقرّ بتعذُّر توثيق أصحابها من مصدرٍ مستقلّ، فالرابطُ يقود القارئَ إلى طريقٍ مسدود. تُعاد إن رُفع الحجر."
 ---
-
 # باولو فريري
 
 مربٍّ وفيلسوف برازيلي بارز (1921-1997)، مؤسس **التربية التحررية** (Liberation Pedagogy) ومنظّر مفهوم **التوعية** أو **الوعي النقدي** (Conscientization).
