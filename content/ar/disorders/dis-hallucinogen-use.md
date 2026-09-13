@@ -13,7 +13,7 @@ active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
 related:
-- id: "tec-motivational-interviewing", title: "المقابلات الدافعية (MI)", type: "تقنية/تدخل علاجي"
+- id: "sch-motivational-interviewing", title: "المقابلة التحفيزية (Motivational Interviewing)", type: "مدرسة"
 - id: "tec-contingency-management", title: "إدارة الطوارئ والتعزيز السلوكي", type: "تقنية/تدخل علاجي"
 - id: "tec-relapse-prevention", title: "منع الانتكاس (RP)", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
@@ -24,7 +24,6 @@ gaps:
   - "مفهوم 'اضطراب الإدراك المستمر بالـHallucinogens (HPPD)' كحالة منفصلة في DSM-5-TR لم يُقارن نصاً بنص مع ICD-11."
   - "الفعالية النسبية للتدخلات النفسية عبر فئات المُهلوسات المختلفة (LSD, psilocybin, MDMA, ketamine, PCP) لم تُراجع من تجارب مباشرة."
 ---
-
 # اضطراب استخدام المُهلوسات
 
 نمط استخدام لمادة أو أكثر من فئة المُهلوسات (LSD, psilocybin, mescaline, DMT, MDMA, PCP, ketamine وغيرها) يؤدي إلى ضائقة أو ضعف إكلينيكي ملحوظ. يختلف عن "تجربة مُهلوسة عرضية" في تجاوزه لعتبات الاعتماد أو الاستخدام الضار المتكرر، رغم أن كثيراً من المُهلوسات التقليدية (LSD, psilocybin) لا تُنتج اعتماداً جسدياً واضحاً بالمعنى الكلاسيكي.

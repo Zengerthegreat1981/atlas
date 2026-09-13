@@ -20,6 +20,7 @@ edges:
 - rel: "developed_by", target: "thk-zsegal", target_type: "مفكر"
 - rel: "developed_by", target: "thk-mwilliams", target_type: "مفكر"
 - rel: "developed_by", target: "thk-jteasdale", target_type: "مفكر"
+- rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "con-mindfulness", title: "اليقظة الذهنية (Mindfulness)", type: "مفهوم"
@@ -32,14 +33,20 @@ related:
 - id: "br-mbct-program-structure", title: "بنية برنامج MBCT", type: "تيار"
 - id: "con-doing-mode-vs-being-mode", title: "نمط الفعل مقابل نمط الكينونة في العلاج المعرفي القائم على اليقظة (MBCT)", type: "مفهوم"
 - id: "tec-mbct-3min-breathing-space", title: "تقنية مساحة التنفس الثلاث دقائق في MBCT", type: "تقنية/تدخل علاجي"
+- id: "tec-mbsr", title: "برنامج خفض الضغوط القائم على اليقظة الذهنية (MBSR)", type: "تقنية/تدخل علاجي"
+- id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
+- id: "thk-zsegal", title: "زيندل سيغال", type: "مفكر"
+- id: "thk-mwilliams", title: "مارك ويليامز", type: "مفكر"
+- id: "thk-jteasdale", title: "جون تيزديل", type: "مفكر"
 gaps:
   - "النموذج الآلي (كيف تقلل MBCT خطر الانتكاسة) ما يزال مُتنازَعاً عليه تجريبياً."
   - "العلاقة بين MBCT وبحوث MBSR الأصلية (Kabat-Zinn 1990) موثّقة جزئياً."
   - "**صُحِّح حرفُ نسبٍ تاريخي 2026-09-10:** أُعيد توجيهُ `evolved_from` من `sch-cbt` إلى `sch-cognitive-behavioral` — `sch-cbt` ملفُّ إحالةٍ مهجورٌ بعد دمجٍ سابق؛ والمدرسةُ الفعليةُ هي `sch-cognitive-behavioral`."
+  - "لا يوجد ملف `stu-` مستقل في الأطلس لتجربة Teasdale et al. 2000 (Journal of Consulting and Clinical Psychology) ولا لتحليل Kuyken et al. 2015 التلوي (Meta-Analysis of Individual Patient Data، JAMA Psychiatry) رغم ذكرهما في المتن."
+  - "**دُمج tec-mbct في هذا الملفّ 2026-09-13:** كان العنصران يصفان الشيءَ نفسَه تحت بادئتين مختلفتين، فنُقل ما انفرد به tec-mbct إلى هنا وصار إحالةً. نسختُه قبل الدمج في `content/ar/_merged/tec-mbct.md`."
 ---
 
 # العلاج المعرفي القائم على اليقظة الذهنية (MBCT)
-
 العلاج المعرفي القائم على اليقظة الذهنية (Mindfulness-Based Cognitive Therapy — MBCT) علاج جماعي منظَّم طوّره زيندل سيغال (Zindel Segal) ومارك ويليامز (Mark Williams) وجون تيزديل (John Teasdale) في أواخر التسعينيات، ونُشر كتابه التأسيسي عام 2002. يدمج MBCT بين تقنيات اليقظة الذهنية (المستوحاة من برنامج جون كابات-زين MBSR) وعناصر من العلاج المعرفي، في بروتوكول قصير (ثمانية أسابيع) هدفه الأساسي **تقليل خطر انتكاسة الاكتئاب** لدى من تعرّضوا لنوبات اكتئاب متكرّرة. يُعدّ من أكثر علاجات "الموجة الثالثة" دعماً بالأدلة التجريبية، وأوصت به عدة إرشادات علاجية كبرى كخط وقائي من الدرجة الأولى.
 
 ## السياق الفكري والتاريخي

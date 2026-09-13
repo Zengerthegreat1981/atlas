@@ -16,9 +16,9 @@ register: "academic"
 evidence_level: "well-established"
 edges:
 - rel: "belongs_to", target: "sch-positive-psychology", target_type: "مدرسة"
-- rel: "developed", target: "br-positive-psychology", target_type: "تيار"
+- rel: "developed", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
-- id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
 - id: "thk-csikszentmihalyi", title: "ميهاي تشيكسنتميهاي", type: "مفكر"
 - id: "thk-cpeterson", title: "كريستوفر بيترسون", type: "مفكر"
 - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
@@ -43,7 +43,6 @@ gaps:
   - "علاقة سليجمان بالتدخل الإيجابي في الجيش الأمريكي (MPRC) موثّقة جزئياً."
   - "نقد سليجمان المبكر للتحليل النفسي ('ما الخطب بك؟') وتأثيره على حركة علم النفس الإيجابي موثّق بسيرته."
 ---
-
 # مارتن سليجمان
 
 عالم نفس أمريكي، رائد علم النفس الإيجابي (Positive Psychology)، وأحد أكثر علماء النفس تأثيراً في القرن الحادي والعشرين. انتقل من دراسة "الاكتئاب" و"العجز المتعلم" (السبعينيات من القرن العشرين-80s) إلى تأسيس "علم نفس الازدهار" (التسعينيات من القرن العشرين-العقد الأول من القرن الحادي والعشرين) وأخيراً "علم النفس الإيجابي" كحركة عالمية.

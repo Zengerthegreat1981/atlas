@@ -21,7 +21,11 @@ related:
 - id: "con-solution-talk", title: "حَدِيث الْحَلّ (Solution Talk) في SFT", type: "مفهوم"
 gaps:
   - "تاريخ وسنة الميلاد الدقيقة غير محددة بدقة في الأدبيات المتخصصة المتاحة."
+superseded_by: "thk-alasdair-macleod"   # رُقِّيت هذه المسودةُ ونسختُها المعتمدةُ في content/ar/thinkers/thk-alasdair-macleod.md
 ---
+
+> **مسودةٌ مُتجاوَزة.** رُقِّي هذا المدخلُ وصار ملفُّه المعتمدُ `content/ar/thinkers/thk-alasdair-macleod.md`.
+> ما هنا نسخةٌ سابقةٌ محفوظةٌ للسجلّ — لا تُحرَّر ولا تُبنى.
 
 # ألاسدير ماكليود
 

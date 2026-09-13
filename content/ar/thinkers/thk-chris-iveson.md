@@ -44,7 +44,7 @@ gaps:
 
 ## المصادر
 
-- BRIEF — About Us: https://www.brief.org.uk/about-us
+- BRIEF — About Us: https://web.archive.org/web/20260611171510/https://www.brief.org.uk/about-us
 - Iveson, C., George, E., Ratner, H. — *Brief Coaching: A Solution Focused Approach* (Routledge)
 - Iveson, C., George, E., Ratner, H. — *Solution Focused Brief Therapy: 100 Key Points and Techniques* (Routledge, 2012)
 - de Shazer, S. — "A Brief, Informal History of SFBT" (UNLV Journal of Solution-Focused Practices)

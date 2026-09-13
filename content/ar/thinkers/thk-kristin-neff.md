@@ -58,4 +58,4 @@ gaps:
 - [The Self-Compassion Scale — Kristin D. Neff, University of Texas at Austin (PDF)](https://self-compassion.org/wp-content/uploads/2019/09/Neff.inpress.pdf)
 - [Neff, K. D. (2003). Development and validation of a scale to measure self-compassion — Self and Identity](https://www.tandfonline.com/doi/abs/10.1080/15298860309027)
 - [Self-Compassion: Theory, Method, Research, and Intervention — Annual Review of Psychology](https://www.annualreviews.org/content/journals/10.1146/annurev-psych-032420-031047)
-- [Fierce Self-Compassion — Kristin Neff, publisher page (HarperWave)](https://www.harperwave.com/book/9780062991065/Fierce-Self-Compassion-Kristin-Neff/)
+- [Fierce Self-Compassion — Kristin Neff, publisher page (HarperWave)](https://web.archive.org/web/20221205214209/https://www.harperwave.com/book/9780062991065/Fierce-Self-Compassion-Kristin-Neff/)

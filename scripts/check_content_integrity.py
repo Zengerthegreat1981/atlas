@@ -25,7 +25,10 @@ OK_EDG = re.compile(r'-\s*rel:\s*"[^"]*"\s*,\s*target:\s*"[^"]*"\s*,\s*target_ty
 
 all_files = [f for f in glob.glob(os.path.join(BASE, '*', '*.md'))
              if not any(s in f for s in SKIP)]
-targets = [a for a in sys.argv[1:] if a.endswith('.md')] or all_files
+# الملفاتُ المُمرَّرةُ صراحةً تخضع لاستثناء SKIP نفسِه: المسوداتُ والمدموجاتُ
+# خارجَ البناء، وإحالاتُها تُقاس على فهرسٍ لا يضمّها — ففحصُها يُنتج بلاغاً كاذباً.
+targets = [a for a in sys.argv[1:]
+           if a.endswith('.md') and not any(s in a for s in SKIP)] or all_files
 
 index, ids = {}, collections.defaultdict(list)
 for f in all_files:

@@ -18,7 +18,7 @@ related:
 - id: "exp-beauvoir-discovery-of-otherness", title: "تجربة سيمون دي بوفوار واكتشاف الآخرية وتأليف الجنس الثاني", type: "خبرة معيشة"
 - id: "thk-mill", title: "جون ستيوارت ميل", type: "مفكر"
 - id: "thk-pateman", title: "كارول بيتمان", type: "مفكر"
-- id: "con-care-ethics", title: "أخلاقيات الرعاية", type: "مفهوم"
+- id: "sch-care-ethics", title: "أخلاقيات الرعاية (Care Ethics)", type: "مدرسة"
 - id: "con-subaltern", title: "التابع (Subaltern)", type: "مفهوم"
 - id: "con-tabula-rasa", title: "اللوح الفارغ (Tabula Rasa)", type: "مفهوم"
 - id: "thk-mary-wollstonecraft", title: "ماري وولستونكرافت", type: "مفكر"

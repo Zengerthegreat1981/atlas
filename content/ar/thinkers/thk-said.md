@@ -15,8 +15,8 @@ active_end: 2003
 edges:
 - rel: "belongs_to", target: "sch-postcolonial-philosophy", target_type: "مدرسة"
 related:
-- id: "wrk-orientalism-said", title: "الاستشراق (Orientalism)", type: "عمل / كتاب"
-- id: "con-orientalism", title: "الاستشراق (Orientalism)", type: "مفهوم"
+- id: "wrk-orientalism-said", title: "الاستشراق (Orientalism) — الكتاب", type: "عمل / كتاب"
+- id: "con-orientalism", title: "الاستشراق (Orientalism) — المفهوم", type: "مفهوم"
 - id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
 - id: "ctx-early-zionism-colonial-palestine", title: "سياق الصهيونية المبكرة واستعمار فلسطين وأثره على الفكر النقدي", type: "سياق/تقليد"
 - id: "crt-said-orientalism-epistemic-critique", title: "نقد إدوارد سعيد للاستشراق كبنية معرفية سلطوية", type: "نقد خارجي موثَّق"

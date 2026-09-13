@@ -51,6 +51,6 @@ gaps:
 ## المصادر
 
 - Wikipedia (English), "Wilfred Bion" — تواريخ الميلاد والوفاة، النشأة في الهند، ورئاسة الجمعية البريطانية للتحليل النفسي 1962–1965: https://en.wikipedia.org/wiki/Wilfred_Bion
-- W.R. Bion — Biography and Bibliography, sicap.it/merciai/bion: http://www.sicap.it/merciai/bion/en/biobiblio.htm
+- W.R. Bion — Biography and Bibliography, sicap.it/merciai/bion: https://web.archive.org/web/20170401121158/http://www.sicap.it:80/merciai/bion/en/biobiblio.htm
 - Encyclopedia.com, "Bion, Wilfred Ruprecht (1897-1979)": https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/bion-wilfred-ruprecht-1897-1979
 - Bion, W.R. *Experiences in Groups* (1961)، *Learning from Experience* (1962)، *Elements of Psycho-Analysis* (1963)، *Transformations* (1965)، *Attention and Interpretation* (1970) — للتحقق من العناوين والتواريخ.

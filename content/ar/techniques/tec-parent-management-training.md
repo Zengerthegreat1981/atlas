@@ -16,9 +16,9 @@ evidence_level: "well-established"
 edges:
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
-- id: "tec-pcit", title: "العلاج التفاعلي بين الوالدين والطفل (PCIT)", type: "تقنية/تدخل علاجي"
-- id: "tec-functional-family-therapy", title: "العلاج الأسري الوظيفي (FFT)", type: "تقنية/تدخل علاجي"
-- id: "tec-multisystemic-therapy", title: "العلاج متعدد الأنظمة (MST)", type: "تقنية/تدخل علاجي"
+- id: "br-pcit", title: "العلاج بتفاعل الوالد-الطفل (PCIT)", type: "تيار"
+- id: "br-fft", title: "العلاج الأسري الوظيفي (FFT)", type: "تيار"
+- id: "br-mst", title: "العلاج متعدد الأنظمة (MST)", type: "تيار"
 - id: "tec-cbt-beh-habit-reversal-training", title: "تدريب عكس العادة", type: "تقنية/تدخل علاجي"
 - id: "tec-psychoeducational-family", title: "العلاج الأسري التثقيفي النفسي", type: "تقنية/تدخل علاجي"
 gaps:
@@ -28,7 +28,6 @@ gaps:
   - "البروتوكولات المعشّاة لـ ODD / DMDD / CD لكل عمر (3-6، 7-12، 13-18) لم تُفصَّل."
   - "آلان كازدين (Alan Kazdin) غير موجود بأي slug `thk-` في الأطلس (تحقق في EXISTING_SLUGS.md لم يُظهر نتيجة)، فتعذّر ربطه بـ`edges.created_by` — سُجِّل في requests-spark.md."
 ---
-
 # تدريب إدارة السلوك للوالدين (PMT)
 
 عائلة من التدخلات السلوكية-التربوية القائمة على الأدلة، صمّمها آلان كازدين (Alan Kazdin) في جامعة ييل في السبعينيات (تصحيح: النسخة السابقة من هذا الملف كانت تنسبها خطأً إلى اسم "Kazantzakis" غير الصحيح)، لعلاج اضطرابات السلوك عند الأطفال والمراهقين (ODD، CD، DMDD، ADHD). يقوم على مبدأ أن الوالدين هما الوكيل الرئيسي للتغيير في سلوك الطفل، وأن تدريبهما على مبادئ الإشراط الفعّال يخفّف السلوك المضاد للمجتمع ويعزّز السلوك التكيُّفي.

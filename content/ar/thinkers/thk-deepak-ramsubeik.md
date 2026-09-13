@@ -15,8 +15,6 @@ part: "psychology"
 edges: []
 related:
 - id: "thk-svami-akhilananda", title: "سوامي أخيلاناندا", type: "مفكر"
----
-
 gaps:
   - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«علم النفس الفيدي (المستند إلى الفيد)» في content/ar/schools أو branches."
   - "**حُجر 2026-08-26:** هذا المفكر لا يمكن توثيقه من مصادر أكاديمية. النسخة الأصلية محفوظة في archive."

@@ -15,12 +15,11 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
-- id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
 gaps:
   - "بعض التواريخ الفرعية للإنتاج الأكاديمي لم تُراجع من مصدر أولي بعد."
   - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لـتوماس هورا."
 ---
-
 # توماس هورا
 
 طبيب نفسي هنغاري-أمريكي، من أهم من طوّروا **العلاج الوجودي-الإنساني** في سياق **الصراع** مع البوذية والفلسفة الشرقية.

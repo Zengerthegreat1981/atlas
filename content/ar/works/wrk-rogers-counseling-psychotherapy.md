@@ -22,7 +22,7 @@ related:
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
 - id: "wrk-becoming-person", title: "أن نصير أشخاصاً (On Becoming a Person)", type: "عمل / كتاب"
 - id: "wrk-motivation-personality", title: "الدافعية والشخصية (Motivation and Personality)", type: "عمل / كتاب"
-- id: "wrk-rogers-client-centered-1951", title: "العلاج المتمركز حول العميل (Client-Centered Therapy)", type: "عمل / كتاب"
+- id: "wrk-rogers-client-centered-1951", title: "العلاج المتمركز حول العميل — كتاب كارل روجرز (1951)", type: "عمل / كتاب"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من نص كتاب Counseling and Psychotherapy (1942) نفسه في هذا الملف؛ الوصف مبني على مصادر ثانوية تُلخّص محتواه."
   - "تفاصيل التحوّل الدقيقة من مصطلح «العلاج غير الموجَّه» في هذا الكتاب إلى مصطلح «العلاج المتمركز حول العميل» في كتاب 1951 (Client-Centered Therapy) لم تُوثَّق هنا فقرة بفقرة؛ التسلسل العام فقط مذكور."

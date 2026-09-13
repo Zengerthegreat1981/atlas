@@ -21,8 +21,9 @@ related:
 gaps:
   - "تفاصيل تعاونه مع «Mindfulness-Based Stress Reduction» (MBSR) في UMass موثّقة جزئياً."
   - "لا يوجد ملف مدرسة/تيار (sch-/br-) معتمد لـ«اليقظة الذهنية الإكلينيكية» في الأطلس، فحُذف edge belongs_to وسُجّل في missing-schools.md. كما لا يوجد ملف مستقل موثَّق حالياً لروسي كابات-زين (زوجة جون كابات-زين) في الأطلس، فحُذف رابطها من related؛ ذُكرت في المتن نصّياً دون رابط."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): Wikipedia (Ronald D. Siegel): https://en.wikipedia.org/wiki/Ronald_D._Siegel"
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): UMass MBSR: https://www.ummhealth.org/umass-memorial-medical-center/services-treatments/mindfulness-based-stress-reduction-mbsr"
 ---
-
 # رونالد د. سيغل
 
 عالم نفس إكلينيكي أمريكي، وُلد عام 1954. أستاذ مساعد سريري في **قسم الطب النفسي في كلية الطب بجامعة هارفارد** (Harvard Medical School). من أهم منظِّري تطبيق اليقظة الذهنية (Mindfulness) في الممارسة السريرية.
@@ -58,9 +59,7 @@ gaps:
 
 ## المصادر
 
-- Wikipedia (Ronald D. Siegel): https://en.wikipedia.org/wiki/Ronald_D._Siegel
 - Siegel, R. D. (2010). *The Mindfulness Solution*. Bantam.
 - Siegel, R. D., Germer, C. K. & Olendzki, A. (2005). *Mindfulness and Psychotherapy*. Guildford.
 - Siegel, R. D. & Johnson, E. (2001). *Back Sense*. Broadway Books.
 - Linehan, M. M. & Siegel, R. D. (2014). *Sitting Together*. Guildford.
-- UMass MBSR: https://www.ummhealth.org/umass-memorial-medical-center/services-treatments/mindfulness-based-stress-reduction-mbsr

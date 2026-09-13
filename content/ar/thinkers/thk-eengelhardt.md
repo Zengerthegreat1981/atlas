@@ -24,8 +24,8 @@ gaps:
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: دونغ-وي تشن (thk-dwchen)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ف. هرتسوغ (thk-fherzog)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ماريك تشيسلاك (thk-mcieslak)."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): Wikipedia, ”H. Tristram Engelhardt Jr.” — https://en.wikipedia.org/wiki/H._Tristram_Engelhardt_Jr."
 ---
-
 # هـ. تريسترام إنغلهارت الابن
 
 فيلسوف طب أمريكي (1941–2018)، من أهمّ الشخصيات المؤسِّسة لحقل «الأخلاقيات الحيوية» (Bioethics) وفلسفة الطب في أواخر القرن العشرين. حصل على الإجازة الجامعية (1963) والدكتوراه في الفلسفة (1969) من جامعة تكساس في أوستن، ثم على شهادة الطب (MD) من جامعة تولين (1972)، وجمع بذلك بين تكوين فلسفي وطبي معاً. عمل أستاذاً لتاريخ وفلسفة الطب في قسم الفلسفة بجامعة رايس (Rice University)، وأستاذاً فخرياً متميزاً في كلية بايلور للطب (Baylor College of Medicine) منذ 1983. كان أحد مؤسِّسي مجلة *The Journal of Medicine and Philosophy* وسلسلة كتب *Philosophy and Medicine*.
@@ -53,7 +53,6 @@ gaps:
 - **الانتقال من الليبرالية العلمانية إلى الأرثوذكسية المحافظة** طرح تساؤلات حول اتساق مشروعه الفلسفي عبر مراحله.
 
 ## المصادر
-- Wikipedia, "H. Tristram Engelhardt Jr." — https://en.wikipedia.org/wiki/H._Tristram_Engelhardt_Jr.
 - Rice University News, "Engelhardt, leading bioethicist and longtime philosophy professor, dies at 77" (2018) — https://news2.rice.edu/2018/06/22/engelhardt-leading-bioethicist-and-longtime-philosophy-professor-dies-at-77/
 - Daily Nous, "H. Tristram Engelhardt (1941-2018)" — https://dailynous.com/2018/06/25/h-tristram-engelhardt-1941-2018/
 - Bioethics Today, "A Tribute to Professor H. Tristram Engelhardt, Jr., PhD., MD (1941-2018)" — https://bioethicstoday.org/blog/a-tribute-to-professor-h-tristram-engelhardt-jr-phd-md-1941-2018/

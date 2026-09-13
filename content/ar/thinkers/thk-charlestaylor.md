@@ -28,6 +28,7 @@ gaps:
   - "لا يوجد اقتباس مباشر موثوق من «أصول الذات» (Sources of the Self, 1989) بترجمة عربية معتمدة."
   - "مفهوم «أفق المعنى» (horizons of significance) عنده يستحق عنصراً مفاهيمياً مستقلاً."
   - "active_end مضبوط هنا مؤقتاً على «مستمر» لأن تايلور واصل النشر بعد 2007 (مثلاً The Language Animal، 2016)؛ تاريخ وفاته أو توقفه عن النشر غير مؤكد حتى وقت التحرير."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): All Souls College, Oxford: [Professor Charles Taylor](https://web.archive.org/web/20260413080635/https://www.asc.ox.ac.uk/person/professor-charles-taylor)"
 ---
 # تشارلز تايلور
 فيلسوف كندي عظيم، أستاذ في جامعة ماكغيل وأكسفورد، أحد أبرز فلاسفة الذات، الأخلاق، والتأويليات المعاصرة ومؤلف «أصول الذات» و«أخلاق الأصالة».
@@ -41,5 +42,4 @@ gaps:
 أصول الذات: نشأة الهوية الحديثة (Sources of the Self, 1989) · أخلاق الأصالة (The Ethics of Authenticity, 1991) · عصر علماني (A Secular Age, 2007).
 ## المصادر
 - Wikipedia: [Charles Taylor (philosopher)](https://en.wikipedia.org/wiki/Charles_Taylor_(philosopher))
-- All Souls College, Oxford: [Professor Charles Taylor](https://www.asc.ox.ac.uk/person/professor-charles-taylor)
 - Harvard University Press: [Sources of the Self](https://www.hup.harvard.edu/books/9780674824263)

@@ -1,12 +1,15 @@
 #!/usr/bin/env python3
 """Build coverage matrix: count by type for each psychology school."""
+import os as _os
+# جذرُ المستودع يُشتقّ من موضع الملفّ نفسِه — لا مسارٌ مثبَّتٌ لجهازٍ بعينه.
+_ATLAS_ROOT = _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..'))
 import os
 import re
 import json
 from collections import defaultdict
 from datetime import datetime
 
-APPROVED_BASE = "/Users/minamoheb/Desktop/Atlas/content/ar"
+APPROVED_BASE = _ATLAS_ROOT + "/content/ar"
 
 # All type dirs
 TYPES = [
@@ -141,7 +144,7 @@ def build_matrix():
 
 def main():
     data = build_matrix()
-    out_path = '/Users/minamoheb/Desktop/Atlas/data/coverage_matrix.json'
+    out_path = _ATLAS_ROOT + '/data/coverage_matrix.json'
     os.makedirs(os.path.dirname(out_path), exist_ok=True)
     with open(out_path, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)

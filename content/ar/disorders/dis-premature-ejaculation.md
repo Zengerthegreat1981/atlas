@@ -20,7 +20,7 @@ related:
 - id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-deep-breathing-techniques", title: "تقنيات التنفس العميق", type: "تقنية/تدخل علاجي"
 - id: "syn-acute-anxiety", title: "القلق الحاد", type: "متلازمة"
-- id: "tec-sex-therapy-overview", title: "العلاج الجنسي (Sex Therapy)", type: "تقنية/تدخل علاجي"
+- id: "br-sex-therapy", title: "العلاج الجنسي", type: "تيار"
 - id: "tec-stop-start-technique", title: "تقنية التوقف والبدء (Stop-Start)", type: "تقنية/تدخل علاجي"
 - id: "tec-squeeze-technique", title: "تقنية الضغط (Squeeze Technique)", type: "تقنية/تدخل علاجي"
 gaps:
@@ -31,7 +31,6 @@ gaps:
   - "الفرق بين الـ lifelong و acquired variant غير مشروح بدقة."
   - "لم يُراجع من مصدر أولي مباشر بعد."
 ---
-
 # سرعة القذف (القذف المبكر)
 
 اضطراب جنسي عند الذكور يتميز بقذف يحدث قبل أو بعد الإيلاج بفترة قصيرة جداً، وبشكل لا يمكن التحكم فيه، مما يُسبّب ضائقة كبيرة للمريض و/أو شريكته. يُعتبر من أكثر الاضطرابات الجنسية شيوعاً عند الذكور.

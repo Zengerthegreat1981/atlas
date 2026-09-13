@@ -21,8 +21,8 @@ related:
 gaps:
   - "التأثير الكمي لحملات التثقيف النفسي عبر منصات التواصل (تيك توك وإنستغرام) يحتاج دراسة مسحية موثقة."
   - "غياب اقتباس مباشر موثَّق بمصدر وسنة محددين لـجولي سميث في الأدبيات المتاحة."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): Hampshire and Surrey Psychology — صفحة السيرة المهنية: https://www.hampshirepsychology.co.uk/meet-our-teams-2-2/dr-julie-smith/"
 ---
-
 # جولي سميث
 
 **عالمة نفس إكلينيكية** بريطانية (دكتوراه في علم النفس الإكلينيكي، لا طبيبة) ومؤلّفة؛ من أوسع الأصوات انتشاراً في التثقيف النفسي عبر منصّات التواصل، بملايين المتابعين.
@@ -57,4 +57,3 @@ gaps:
 
 - Julie Smith, Wikipedia (EN): https://en.wikipedia.org/wiki/Julie_Smith
 - Dr Julie Smith — السيرة الرسمية والمؤهلات (D.Clin.Psych، جامعة ساوثهامبتون): https://drjulie.co.uk/
-- Hampshire and Surrey Psychology — صفحة السيرة المهنية: https://www.hampshirepsychology.co.uk/meet-our-teams-2-2/dr-julie-smith/

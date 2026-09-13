@@ -24,8 +24,8 @@ gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Emotional Understanding* (1995) بترجمة عربية معتمدة."
   - "**وُحِّد مسارُ التنقّل 2026-09-10:** كان «مدرسة التحليل النفسي» وصار «التحليل النفسي» — لأنّ الجذرَ كان منقسماً بين صيغتين للشيء نفسِه، فيعرض فهرسُ التصفّح موضعين لموضعٍ واحد."
   - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-intersubjective-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (0): Institute for the Psychoanalytic Study of Subjectivity (IPSS), صفحة أعضاء هيئة التدريس — https://ipsspsychoanalysis.org"
 ---
-
 # دونا أورانج
 
 محللة نفسية أمريكية، شريكة ستولورو وأتوود في تطوير نظرية البين-ذاتية (Intersubjectivity)، ومن أبرز منظّري مفهوم التماسك (Coherence) في علم نفس الذات.
@@ -52,5 +52,4 @@ gaps:
 
 - Journal listing, "Hermeneutics, Intersubjectivity Theory, and Psychoanalysis" (Orange, Stolorow, Atwood, 1998) — https://journals.sagepub.com/doi/abs/10.1177/00030651980460020705
 - Routledge, "Working Intersubjectively: Contextualism in Psychoanalytic Practice" (Orange, Atwood, Stolorow) — https://www.routledge.com/Working-Intersubjectively-Contextualism-in-Psychoanalytic-Practice/Orange-Atwood-Stolorow/p/book/9780881633603
-- Institute for the Psychoanalytic Study of Subjectivity (IPSS), صفحة أعضاء هيئة التدريس — https://ipsspsychoanalysis.org
 - Guilford Press, "Emotional Understanding: Studies in Psychoanalytic Epistemology" (Donna M. Orange, 1995)

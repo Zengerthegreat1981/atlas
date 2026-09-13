@@ -21,8 +21,8 @@ related:
 gaps:
   - "تفاصيل حياته الأولى (تعليمه على يد المعتزلة، تحوّله) موضع نقاش تاريخي."
   - "لا يوجد اقتباس مباشر موثوق من 'الإبانة عن أصول الديانة'."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): Stanford Encyclopedia of Philosophy, entries on Islamic theology (Ash'arism): https://plato.stanford.edu/entries/islamic-theology/"
 ---
-
 # أبو الحسن علي بن إسماعيل الأشعري
 
 مؤسس «علم الكلام» الأشعري، أعظم تيار كلامي في الإسلام السني. وُلد في البصرة، ودرس على يد كبار المعتزلة (أبو علي الجبّائي) حتى بلغ الأربعين من عمره، ثم أعلن توبته من المعتزلة في الجامع البصري (913 م) بأسلوب دراماتيكي.
@@ -54,4 +54,3 @@ gaps:
 
 - Encyclopaedia Britannica, "Abu al-Hasan al-Ashari": https://www.britannica.com/biography/Abu-al-Hasan-al-Ashari
 - Wikishia, "Abu l-Hasan al-Ash'ari": https://en.wikishia.net/view/Abu_l-Hasan_al-Ash'ari
-- Stanford Encyclopedia of Philosophy, entries on Islamic theology (Ash'arism): https://plato.stanford.edu/entries/islamic-theology/

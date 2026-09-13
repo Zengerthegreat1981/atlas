@@ -3,12 +3,15 @@
 reconcile_unique_nodes.py
 Reconciles duplicate dialogue and work filenames with 100% unique brand new entities.
 """
+import os as _os
+# جذرُ المستودع يُشتقّ من موضع الملفّ نفسِه — لا مسارٌ مثبَّتٌ لجهازٍ بعينه.
+_ATLAS_ROOT = _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..'))
 
 import os
 from pathlib import Path
 from atlas_content_generator import write_node
 
-CONTENT_AR = Path('/Users/minamoheb/Desktop/Atlas/content/ar')
+CONTENT_AR = Path(_ATLAS_ROOT + '/content/ar')
 
 # 1. Redundant files to remove
 redundant_files = [

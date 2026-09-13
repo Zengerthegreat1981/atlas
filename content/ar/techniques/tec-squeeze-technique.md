@@ -17,7 +17,6 @@ edges:
 related:
 - id: "tec-stop-start-technique", title: "تقنية التوقف والبدء (Stop-Start)", type: "تقنية/تدخل علاجي"
 - id: "tec-sensate-focus", title: "التركيز الحسي", type: "تقنية/تدخل علاجي"
-- id: "tec-sex-therapy-overview", title: "العلاج الجنسي (Sex Therapy)", type: "تقنية/تدخل علاجي"
 - id: "br-sex-therapy", title: "العلاج الجنسي", type: "تيار"
 gaps:
   - "المقارنة المباشرة في فعالية Squeeze مقابل Stop-Start في دراسات عشوائية حديثة لم تُنشَر بشكل قاطع."

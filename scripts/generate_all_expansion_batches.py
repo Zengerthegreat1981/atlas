@@ -7,12 +7,15 @@ Generates the complete expansion batches for Atlas Content Expansion Plan:
   - Batch 3: Landmark Dialogues (20 files in dialogues/)
   - Batch 4: Landmark Masterworks & Core Debates (40 files: works, debates)
 """
+import os as _os
+# جذرُ المستودع يُشتقّ من موضع الملفّ نفسِه — لا مسارٌ مثبَّتٌ لجهازٍ بعينه.
+_ATLAS_ROOT = _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..'))
 
 import os
 import sys
 from pathlib import Path
 
-ATLAS_ROOT = Path('/Users/minamoheb/Desktop/Atlas')
+ATLAS_ROOT = Path(_ATLAS_ROOT)
 CONTENT_AR = ATLAS_ROOT / 'content' / 'ar'
 
 def write_node(folder, slug, frontmatter_dict, lede, sections, edges=None, related=None, gaps=None):
@@ -31,7 +34,7 @@ def write_node(folder, slug, frontmatter_dict, lede, sections, edges=None, relat
         f'en: "{frontmatter_dict.get("en", "")}"',
         f'crumb: "{frontmatter_dict.get("crumb", "")}"',
         f'active_start: {frontmatter_dict.get("active_start", "null")}',
-        f'active_end: {frontmatter_dict.get("active_end", "\"مستمر\"")}',
+        'active_end: ' + str(frontmatter_dict.get("active_end", '"مستمر"')),
     ]
     
     fm_lines.append("edges:")
@@ -58,20 +61,11 @@ def write_node(folder, slug, frontmatter_dict, lede, sections, edges=None, relat
         
     fm_lines.append("---")
     
-    body_parts = [f"# {frontmatter_dict.get('title', '')}
-", lede.strip() + "
-"]
+    body_parts = [f"# {frontmatter_dict.get('title', '')}\n", lede.strip() + "\n"]
     for stitle, sbody in sections:
-        body_parts.append(f"## {stitle}
-
-{sbody.strip()}
-")
+        body_parts.append(f"## {stitle}\n\n{sbody.strip()}\n")
         
-    full_text = "
-".join(fm_lines) + "
-
-" + "
-".join(body_parts)
+    full_text = "\n".join(fm_lines) + "\n\n" + "\n".join(body_parts)
     target_file.write_text(full_text, encoding="utf-8")
     return slug
 

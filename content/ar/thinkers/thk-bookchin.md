@@ -15,7 +15,7 @@ active_end: 2006
 edges:
 - rel: "belongs_to", target: "sch-social-ecology", target_type: "مدرسة"
 related:
-- id: "wrk-ecology-freedom-bookchin", title: "إيكولوجيا الحرية (The Ecology of Freedom)", type: "عمل / كتاب"
+- id: "wrk-ecology-freedom-bookchin", title: "إيكولوجيا الحرية — كتاب موراي بوكتشين (1982)", type: "عمل / كتاب"
 - id: "con-ecology-of-freedom", title: "إيكولوجيا الحرية (Ecology of Freedom)", type: "مفهوم"
 - id: "sch-social-ecology", title: "الإيكولوجيا الاجتماعية", type: "مدرسة"
 - id: "thk-arne-naess", title: "أرنه نايس", type: "مفكر"

@@ -17,8 +17,8 @@ edges:
 evidence_level: "probably-efficacious"
 related:
 - id: "thk-crsnyder", title: "تشارلز ريتشارد سنايدر", type: "مفكر"
-- id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
-- id: "tec-positive-psychotherapy", title: "العلاج النفسي الإيجابي", type: "تقنية/تدخل علاجي"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "tec-positive-psychotherapy", title: "العلاج النفسي الإيجابي عند راشد وسليغمان", type: "تقنية/تدخل علاجي"
 - id: "tec-forgiveness-therapy", title: "علاج التسامح والغفران", type: "تقنية/تدخل علاجي"
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "thk-john-friedman", title: "جون فريدمان", type: "مفكر"
@@ -27,7 +27,6 @@ gaps:
   - "مقياس الأمل المقنن (The Hope Scale) لسنايدر — لا يوجد له مدخل مستقل في `instruments/` بعد لربطه."
   - "بروتوكول الجلسات التفصيلي لعلاج الأمل (عدد الجلسات، بنية كل جلسة) لم يُوثَّق بدقة كافية في هذا الملف."
 ---
-
 # علاج الأمل
 
 تدخل معرفي إيجابي موجه نحو الهدف طوره سي. آر. سنايدر (C. R. Snyder، ١٩٤٤–٢٠٠٦، thk-crsnyder) وفريقه في جامعة كانساس مطلع التسعينيات، يهدف إلى غرس الأمل وتعزيز الفاعلية الذاتية في مواجهة التحديات والأمراض المزمنة. يُصنَّف ضمن العلاج المعرفي السلوكي (sch-cognitive-behavioral) لأنه يعيد بناء أنماط تفكير الفرد حول أهدافه ووسائل تحقيقها بأدوات معرفية-سلوكية مباشرة.

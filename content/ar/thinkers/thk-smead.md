@@ -51,5 +51,5 @@ gaps:
 ## المصادر
 
 - Intentional Peer Support, "Shery Mead" (سيرة ذاتية): https://intentionalpeersupport.org/shery-mead
-- NARPA (National Association for Rights Protection and Advocacy), "Shery Mead": https://www.narpa.org/bios/mead
+- NARPA (National Association for Rights Protection and Advocacy), "Shery Mead": https://web.archive.org/web/20250722024221/http://www.narpa.org/bios/mead
 - Psychology Today, "Shery Mead on Intentional Peer Support" (2016): https://www.psychologytoday.com/us/blog/rethinking-mental-health/201604/shery-mead-intentional-peer-support

@@ -18,7 +18,7 @@ related:
 - id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
 - id: "syn-acute-anxiety", title: "القلق الحاد", type: "متلازمة"
-- id: "tec-sex-therapy-overview", title: "العلاج الجنسي (Sex Therapy)", type: "تقنية/تدخل علاجي"
+- id: "br-sex-therapy", title: "العلاج الجنسي", type: "تيار"
 - id: "tec-directed-masturbation", title: "التدريب الموجّه على الاستمناء (Directed Masturbation)", type: "تقنية/تدخل علاجي"
 - id: "con-pleasure", title: "اللذة", type: "مفهوم"
 gaps:
@@ -28,7 +28,6 @@ gaps:
   - "إسقاط المعتقدات الثقافية على تعريف النشوة غير مشروح."
   - "لم يُراجع من مصدر أولي مباشر بعد."
 ---
-
 # اضطراب النشوة الأنثوية
 
 اضطراب جنسي عند الإناث يتميز بصعوبة متكررة أو مستمرة أو غياب في الوصول إلى النشوة بعد الإثارة الجنسية الكافية، رغم رغبة المرأة في ذلك. يجب أن يُسبّب ضائقة كبيرة، ولا يُفسَّر بحالة طبية أو دوائية أو اضطراب آخر.

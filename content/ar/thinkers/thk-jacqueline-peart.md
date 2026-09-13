@@ -15,7 +15,6 @@ part: "philosophy"
 edges:
 - rel: "belongs_to", target: "br-restorative-justice", target_type: "تيار"
 related:
-- id: "con-restorative-justice", title: "العدالة التصالحية", type: "مفهوم"
 - id: "br-restorative-justice", title: "العدالة التصالحية", type: "تيار"
 - id: "thk-john-braithwaite", title: "جون برايثوايت", type: "مفكر"
 - id: "thk-zehr", title: "هوارد زير", type: "مفكر"
@@ -25,7 +24,6 @@ gaps:
   - "الروابط في `related` (`con-restorative-justice`، `br-restorative-justice`، `thk-john-braithwaite`، `thk-zehr`) أُبقيت بأمر عدم تعديل الروابط، رغم أنها بلا مبرَّر مستقل في المتن بعد الإفراغ."
   - "لم يُحذف الملف ولم يُعَد تسميته ولم يتغيّر الـslug."
 ---
-
 # جاكلين پيرت
 
 **هذا الملف بلا سيرة بعد.** لم يُعثر على أي أثر مستقل لباحثة أو أكاديمية بهذا الاسم في أدبيات العدالة التصالحية الأسترالية أو مع السكان الأصليين. حُذفت الادّعاءات السابقة كلها — راجع `gaps` أعلاه لتفاصيل قرار الحجر وتاريخه.

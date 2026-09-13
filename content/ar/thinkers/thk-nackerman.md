@@ -15,12 +15,11 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-dynamic-couples-family-therapy", target_type: "تيار"
 related:
-- id: "tec-structural-family-therapy", title: "العلاج الأسري البنيوي", type: "تقنية/تدخل علاجي"
-- id: "con-dynamic-couple-family", title: "العلاج الديناميكي للأزواج والأسرة", type: "مفهوم"
+- id: "br-structural-family", title: "العلاج الأسري البنيوي (Structural Family Therapy)", type: "تيار"
+- id: "br-dynamic-couples-family-therapy", title: "العلاج الديناميكي للأزواج والأسرة", type: "تيار"
 gaps:
   - "التاريخ الدقيق لتأسيس Family Mental Health Clinic بمستشفى Mount Sinai (السنة بالتحديد) لم يُراجع من مصدر أولي مباشر."
 ---
-
 # ناثان أكرمان
 
 محلل نفسي أمريكي من أصل روسي، يُعتبر من أهم المؤسسين الأوائل لـ**التحليل النفسي الأسري** (Psychoanalytic Family Therapy). عمل في عيادة الصحة النفسية الأسرية بمستشفى Mount Sinai بنيويورك، وطوّر مقاربة نفسية-تحليلية للعلاقات الأسرية.

@@ -142,7 +142,7 @@
 ---
 
 **ملفات العمل ذات الصلة:**
-- `/Users/minamoheb/Desktop/Atlas/agents_specs/FULL_REVIEW_REPORT.md` (مُصحَّح)
-- `/Users/minamoheb/Desktop/Atlas/agents_specs/FULL_ATLAS_CATALOG.csv` (مُصحَّح، 1792 صفًا بعد الحذف)
-- `/Users/minamoheb/Desktop/Atlas/agents_specs/SCHOOL_COUNTS.csv` (مُعاد توليده بالكامل)
-- `/Users/minamoheb/Desktop/Atlas/agents_specs/FULL_ATLAS_INDEX.md` (لم يُعدَّل — مرجعي فقط)
+- `agents_specs/FULL_REVIEW_REPORT.md` (مُصحَّح)
+- `agents_specs/FULL_ATLAS_CATALOG.csv` (مُصحَّح، 1792 صفًا بعد الحذف)
+- `agents_specs/SCHOOL_COUNTS.csv` (مُعاد توليده بالكامل)
+- `agents_specs/FULL_ATLAS_INDEX.md` (لم يُعدَّل — مرجعي فقط)

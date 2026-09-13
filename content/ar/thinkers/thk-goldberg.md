@@ -48,7 +48,7 @@ gaps:
 ## المصادر
 
 - Arnold Goldberg — Wikipedia: https://en.wikipedia.org/wiki/Arnold_Goldberg
-- "Arnold Goldberg, 1929-2020" — Rush University Medical Center: https://www.rush.edu/news/arnold-goldberg-1929-2020
+- "Arnold Goldberg, 1929-2020" — Rush University Medical Center: https://web.archive.org/web/20260616092659/https://www.rush.edu/news/arnold-goldberg-1929-2020
 - Arnold Goldberg Obituary (1929–2020), Chicago Tribune / Legacy.com: https://www.legacy.com/obituaries/chicagotribune/obituary.aspx?n=arnold-i-goldberg&pid=196869091
 - "The Psychology of the Self: A Casebook" (New York: International Universities Press, 1978), Written with the Collaboration of Heinz Kohut, Edited by Arnold Goldberg — سجل PEP-Web: https://pep-web.org/search/document/MPSA.004.0114A
 - "Moral Stealth: How 'Correct Behavior' Insinuates Itself into Psychotherapeutic Practice" (University of Chicago Press, 2007) — https://press.uchicago.edu/ucp/books/book/chicago/M/bo4154685.html

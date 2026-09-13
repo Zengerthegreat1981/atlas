@@ -42,6 +42,6 @@ gaps:
 
 ## المصادر
 
-- Allan N. Schore, Ph.D. – UCLA Division of Psychology, https://psychology.semel.ucla.edu/allan-n-schore-ph-d/
+- Allan N. Schore, Ph.D. – UCLA Division of Psychology, https://web.archive.org/web/20230205023337/https://psychology.semel.ucla.edu/allan-n-schore-ph-d/
 - Allan Schore – Wikipedia, https://en.wikipedia.org/wiki/Allan_Schore
 - Dr. Allan N. Schore – الموقع الرسمي، https://www.allanschore.com/

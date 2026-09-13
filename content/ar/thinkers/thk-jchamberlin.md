@@ -54,5 +54,5 @@ gaps:
 - Wikipedia, "Judi Chamberlin" — https://en.wikipedia.org/wiki/Judi_Chamberlin
 - Wikipedia, "Psychiatric survivors movement" — https://en.wikipedia.org/wiki/Psychiatric_survivors_movement
 - UMass Amherst Special Collections & University Archives, "Chamberlin, Judi, 1944-2010" — http://scua.library.umass.edu/chamberlin-judi-1944-2010/
-- NARPA, "Judi Chamberlin (1944-2010)" — https://narpa.org/bios/chamberlin
+- NARPA, "Judi Chamberlin (1944-2010)" — https://web.archive.org/web/20251203173758/https://narpa.org/bios/chamberlin
 - UMass Amherst Libraries, "Judi Chamberlin Papers Finding Aid" — http://findingaids.library.umass.edu/ead/mums768

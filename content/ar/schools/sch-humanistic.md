@@ -74,7 +74,6 @@ related:
 - id: "thk-mworden", title: "مارك ووردن", type: "مفكر"
 - id: "thk-parkjongik", title: "بارك جونغ-إيك", type: "مفكر"
 - id: "thk-penny-lewis", title: "بيني لويس", type: "مفكر"
-- id: "thk-ptedeschi", title: "رافائيل تيدِسكي (حجر)", type: "مفكر"
 - id: "thk-rhassan", title: "رفة حسن", type: "مفكر"
 - id: "thk-robertfritz", title: "روبرت فريتز", type: "مفكر"
 - id: "thk-seyberg", title: "شيلا إيبِرغ", type: "مفكر"
@@ -145,6 +144,7 @@ gaps:
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بات ديغان (thk-patdeegan)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: روبرت إيميري (thk-robert-emery)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: جون شلين (thk-johnshlien)."
+  - "أُزيل رابطُ `related` إلى `thk-ptedeschi` — الهدفُ ملفٌّ محجورٌ (شخصيةٌ/مدخلٌ غيرُ موثَّق الوجود)، فالرابطُ يقود القارئَ إلى طريقٍ مسدود. يُعاد إن رُفع الحجر."
 ---
 # علم النفس الإنساني (Humanistic Psychology)
 

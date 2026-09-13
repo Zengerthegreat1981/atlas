@@ -61,4 +61,3 @@ gaps:
 - Mackie, J. L. "Evil and Omnipotence." *Mind* 64, no. 254 (1955): 200–212.
 - James, William. *The Varieties of Religious Experience*. Longmans, Green & Co., 1902.
 - Otto, Rudolf. *Das Heilige*. Breslau, 1917.
-</content>

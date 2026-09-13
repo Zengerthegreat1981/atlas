@@ -30,7 +30,11 @@ gaps:
   - "أربعة ملفات في الأطلس (exp-flashback-ptsd، crt-critique-of-trauma-therapy، crt-critique-of-trauma-informed-care، crt-critique-of-emdr) كانت تشير إلى sch-trauma-psychology كهدف relates_to قبل كتابة هذا الملف، دون أن يكون له وجود مستقل — هذا الملف يسدّ تلك الفجوة الموثَّقة في missing-schools.md."
   - "لم يُعثر على ملف thk- مستقل لبروس د. بيري (Bruce D. Perry، النموذج العصبي-التنموي للصدمة) رغم ذكره في related بملف thk-jherman."
   - "تاريخ التأسيس الدقيق للحقل كتخصص أكاديمي منفصل (بالمقارنة بإدراج PTSD في DSM-III) غير محسوم في مصدر أولي واحد؛ اعتُمدت سنة 1980 (نشر DSM-III) كنقطة انطلاق مؤسسية تقريبية."
+superseded_by: "sch-trauma-psychology"   # رُقِّيت هذه المسودةُ ونسختُها المعتمدةُ في content/ar/schools/sch-trauma-psychology.md
 ---
+
+> **مسودةٌ مُتجاوَزة.** رُقِّي هذا المدخلُ وصار ملفُّه المعتمدُ `content/ar/schools/sch-trauma-psychology.md`.
+> ما هنا نسخةٌ سابقةٌ محفوظةٌ للسجلّ — لا تُحرَّر ولا تُبنى.
 
 # علم نفس الصدمة (Trauma Psychology)
 

@@ -1,7 +1,10 @@
+import os as _os
+# جذرُ المستودع من موضع الملفّ — لا مسارٌ مثبَّتٌ لجهازٍ بعينه.
+_ATLAS_ROOT = _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..'))
 import csv
 
 rows = []
-with open('/Users/minamoheb/Desktop/Atlas/agents_specs/recheck_batch_4.csv') as f:
+with open(_ATLAS_ROOT + '/agents_specs/recheck_batch_4.csv') as f:
     r = list(csv.DictReader(f))
 
 results = {
@@ -71,7 +74,7 @@ results = {
 63: ("LIKELY_FABRICATED","No evidence of a Yvani E. Edmon connected to the Feldenkrais Method.","N-A"),
 }
 
-with open('/Users/minamoheb/Desktop/Atlas/agents_specs/rechecked_batch_4.csv','w',newline='',encoding='utf-8') as f:
+with open(_ATLAS_ROOT + '/agents_specs/rechecked_batch_4.csv','w',newline='',encoding='utf-8') as f:
     w = csv.writer(f)
     w.writerow(["category","title_ar","title_en","slug","active_period","school","status","note","page_created"])
     for i,row in enumerate(rows if False else r):

@@ -13,6 +13,7 @@ active_start: null
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
+- rel: "developed_by", target: "thk-sminuchin", target_type: "مفكر"
 related:
 - id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
 - id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
@@ -22,9 +23,18 @@ related:
 - id: "con-boundaries-psychological", title: "الحدود النفسية والعاطفية في العلاقات", type: "مفهوم"
 - id: "con-enmeshment-disengagement", title: "الانغماس والانفصال الأسري (Enmeshment & Disengagement)", type: "مفهوم"
 - id: "con-joining", title: "الانضمام العلاجي (Joining)", type: "مفهوم"
+- id: "br-general-systems-cybernetics", title: "نظرية الأنساق العامة والسيبرنطيقا", type: "تيار"
+- id: "tec-strategic-family-therapy", title: "العلاج الأسري الاستراتيجي", type: "تقنية/تدخل علاجي"
+- id: "thk-nackerman", title: "ناثان أكرمان", type: "مفكر"
+- id: "dis-anorexia-nervosa", title: "القهم العصبي (أنوريكسيا)", type: "اضطراب/حالة إكلينيكية"
+- id: "thk-jhaley", title: "جاي هالي", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الأسرة النفسجسمية (con-psychosomatic-family)"
   - "تفاصيل تطور العلاج الأسري البنيوي في فيلادلفيا Child Guidance Clinic موثّقة جزئياً."
+  - "كتاب سلفادور مينوشين العمدة 'العائلات والعلاج الأسري' (Families and Family Therapy, 1974)."
+  - "خرائط البنية الأسرية (Family Structure Maps) والمحاور الثلاثة: الحدود، التحالفات، والتسلسل الهرمي."
+  - "لا يوجد ملف دراسة (stu-) في الأطلس لدراسة مينوشين وروزمان وبيكر (Psychosomatic Families, 1978) التي قدّمت الدعم التجريبي الأول للنموذج في فقدان الشهية العصابي عند المراهقين — الرابط هنا نصي فقط لحين إنشاء الملف."
+  - "**دُمج tec-structural-family-therapy في هذا الملفّ 2026-09-13:** كان العنصران يصفان الشيءَ نفسَه تحت بادئتين مختلفتين، فنُقل ما انفرد به tec-structural-family-therapy إلى هنا وصار إحالةً. نسختُه قبل الدمج في `content/ar/_merged/tec-structural-family-therapy.md`."
 ---
 
 # العلاج الأسري البنيوي (Structural Family Therapy)
@@ -72,6 +82,14 @@ gaps:
 - Minuchin, S., Rosman, B. L., & Baker, L. (1978). *Psychosomatic Families*. Harvard University Press.
 - Minuchin, S., & Fishman, H. C. (1981). *Family Therapy Techniques*. Harvard University Press.
 - Colapinto, J. (1991). *Structural Family Therapy*. In A. S. Gurman & D. P. Kniskern (Eds.), *Handbook of Family Therapy*. Brunner/Mazel.
+
+## الحدودُ والأنساقُ الفرعية
+
+- **الحدود** (Boundaries): خطوطُ الفصل والتواصل بين الأنساق الفرعية — **واضحةٌ صحية**، أو **متشابكةٌ ملغومة** (Enmeshed)، أو **متصلّبةٌ معزولة** (Disengaged).
+- **الأنساقُ الفرعية**: النَّسَقُ الزوجيُّ، والوالديُّ، والأخويّ.
+- **التسلسلُ الهرميُّ والسلطة**: قيادةُ الوالدين الواضحةُ الداعمةُ للأسرة.
+
+وقد نشأ النموذجُ في **عيادة إرشاد الطفل بفيلادلفيا** لعلاج اضطرابات السلوك والأمراض السيكوسوماتية وفقدانِ الشهية العصابيِّ عند الأطفال والمراهقين. ويتلخّص التدخّلُ في أن ينضمّ المعالجُ إلى الأسرة (Joining)، ثمّ يطلب **تمثيلَ الصراع حيّاً في الغرفة** (Enactment)، ثمّ يعيد ترسيمَ الحدود وفكَّ التحالفات المرضية غير المتكافئة.
 
 ## المصادر
 

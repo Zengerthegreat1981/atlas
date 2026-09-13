@@ -15,7 +15,6 @@ part: "philosophy"
 edges:
 - rel: "belongs_to", target: "br-restorative-justice", target_type: "تيار"
 related:
-- id: "con-restorative-justice", title: "العدالة التصالحية", type: "مفهوم"
 - id: "br-restorative-justice", title: "العدالة التصالحية", type: "تيار"
 - id: "thk-john-braithwaite", title: "جون برايثوايت", type: "مفكر"
 - id: "thk-zehr", title: "هوارد زير", type: "مفكر"
@@ -24,7 +23,6 @@ gaps:
   - "لم يُعثر على مصدر أولي يثبت هوية الشخص أو جنسيته أو تاريخ ميلاده أو أي عمل منشور باسمه."
   - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-restorative-justice` موسومٌ «philosophy» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
-
 # إريك پيرسون
 
 لم يُعثر على مصدر مستقل وموثوق يثبت وجود مفكر أو باحث منشور بهذا الاسم في أدبيات العدالة التصالحية. راجع قرار الحجر في `agents_specs/quarantine-spark.md` (2026-08-26).

@@ -30,8 +30,8 @@ gaps:
   - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
   - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («كوبا / فنزويلا · 1920–2011») فاستُخرجت: 1920."
   - "**وُحِّد مسارُ التنقّل 2026-09-10:** كان «مدرسة التحليل النفسي» وصار «التحليل النفسي» — لأنّ الجذرَ كان منقسماً بين صيغتين للشيء نفسِه، فيعرض فهرسُ التصفّح موضعين لموضعٍ واحد."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): [ADEPAC — Rafael López-Pedraza (سيرة)](https://web.archive.org/web/20260511190146/https://www.adepac.org/inicio/rafael-lopez-pedraza/)"
 ---
-
 # رافائيل لوبيز-بيدراثا
 
 مفكّر ومحلل يونغي كوباني–فنزويلي، الحلقة الأساسية بين علم نفس الأركيتيب (Hillman) وأمريكا اللاتينية. شارك مع هيلمان وغوغنبوهل-كرايغ في محادثات التأسيس غير الرسمية التي أطلقت دار نشر ومجلة Spring في السبعينيات (لا يوجد توثيق مستقل لتسمية رسمية بعنوان «مجلس Spring House»، فحُذفت هذه التسمية).
@@ -53,7 +53,6 @@ gaps:
 
 ## المصادر
 
-- [ADEPAC — Rafael López-Pedraza (سيرة)](https://www.adepac.org/inicio/rafael-lopez-pedraza/)
 - [Jung Chicago — Rafael Lopez-Pedraza (سيرة)](https://jungchicago.org/speaker/lopez-pedraza-rafael/)
 - [PDF — A homage to Rafael López-Pedraza / Enrique Pardo (Pantheatre)](https://www.pantheatre.com/pdf/1-rafael-lopez-pedraza.pdf)
 - [SVAJ — Entrevista a Rafael López-Pedraza (2003)](https://svaj.net/publicaciones/entrevista-a-rafael-lopez-pedraza/)

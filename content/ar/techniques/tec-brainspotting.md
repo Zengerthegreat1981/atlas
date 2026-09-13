@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
 evidence_level: "experimental"
 related:
-- id: "tec-emdr", title: "إزالة التحسس وإعادة المعالجة بحركات العين (EMDR)", type: "تقنية/تدخل علاجي"
+- id: "sch-emdr", title: "إعادة المعالجة عبر حركات العين وتخفيف الأعراض (EMDR)", type: "مدرسة"
 - id: "thk-dgrand", title: "ديفيد غراند", type: "مفكر"
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 gaps:

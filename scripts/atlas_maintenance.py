@@ -11,10 +11,13 @@ atlas_maintenance.py — صيانة دورية تلقائية أثناء عمل 
 الاستخدام:
   python3 scripts/atlas_maintenance.py
 """
+import os as _os
+# جذرُ المستودع يُشتقّ من موضع الملفّ نفسِه — لا مسارٌ مثبَّتٌ لجهازٍ بعينه.
+_ATLAS_ROOT = _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..'))
 import os, re, sys, json
 import subprocess
 
-ROOT = '/Users/minamoheb/Desktop/Atlas'
+ROOT = _ATLAS_ROOT
 AR = os.path.join(ROOT, 'content/ar')
 
 TYPES = {

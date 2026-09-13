@@ -20,8 +20,8 @@ related:
 gaps:
   - "بيانات السيرة الأساسية (المواليد 1951، الوفاة 5 مارس 2018، جامعة شيكاغو) تحقّقت من مصادر مستقلة (UChicago News)؛ تفاصيل أدق عن مسيرته الأكاديمية المبكرة (نوتردام، آيوا، أوهايو) لم تُراجَع فرداً فرداً."
   - "لا يوجد اقتباس مباشر موثوق من *Loneliness: Human Nature and the Need for Social Connection* (2008) بترجمة عربية معتمدة."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): In memoriam: John Cacioppo (1951–2018). *UChicago Division of the Social Sciences*. https://socialsciences.uchicago.edu/node/4480"
 ---
-
 # جون كاسيوبو
 
 عالم نفس رائد ومؤسس مشارك لمجال 'علم الأعصاب الاجتماعي' (Social Neuroscience) وأستاذ متميز بجامعة شيكاغو؛ كشفت أبحاثه الرائدة في كتابه «الوحدة» عن الأثر الفسيولوجي والمناعي المدمر للعزلة الاجتماعية غير الطوعية.
@@ -48,6 +48,5 @@ gaps:
 ## المصادر
 
 - John T. Cacioppo, pioneer and founder of the field of social neuroscience, 1951–2018. *University of Chicago News*. https://news.uchicago.edu/story/john-t-cacioppo-pioneer-and-founder-field-social-neuroscience-1951-2018
-- In memoriam: John Cacioppo (1951–2018). *UChicago Division of the Social Sciences*. https://socialsciences.uchicago.edu/node/4480
 - Cacioppo, J.T. & Berntson, G.G. (1992). Social psychological contributions to the decade of the brain. *American Psychologist*.
 - Cacioppo, J.T. & Patrick, W. (2008). *Loneliness: Human Nature and the Need for Social Connection*. W.W. Norton.

@@ -17,7 +17,7 @@ edges:
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
 - id: "dis-arfid", title: "اضطراب تجنّب/تقييد الطعام (ARFID)", type: "اضطراب/حالة إكلينيكية"
-- id: "tec-functional-family-therapy", title: "العلاج الأسري الوظيفي (FFT)", type: "تقنية/تدخل علاجي"
+- id: "br-fft", title: "العلاج الأسري الوظيفي (FFT)", type: "تيار"
 - id: "tec-psychoeducational-family", title: "العلاج الأسري التثقيفي النفسي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-exp-exposure-hierarchy-building", title: "بناء سلّم التعرض التدريجي", type: "تقنية/تدخل علاجي"
 gaps:
@@ -26,7 +26,6 @@ gaps:
   - "معدلات النجاح والمقارنة مع CBT-ARFID (Thomas & Eddy) غير موثّقة بدراسات عشوائية كافية."
   - "البروتوكولات المكيّفة للثقافات غير الغربية أو للأسر ذات الدخل المنخفض لم تُفصَّل."
 ---
-
 # العلاج الأسري القائم على الأسرة لـ ARFID (FBT-ARFID)
 
 تكييف لبروتوكول FBT (العلاج الأسري لفقدان الشهية العصابي) الذي ابتكره James Lock و Daniel le Grange في Stanford لعلاج anorexia nervosa، طُوِّر خصيصاً لعلاج اضطراب تجنّب/تقييد الطعام (ARFID) في Johns Hopkins من قبل فريق Nancy Zucker وJennifer Tomasic. يركّز على الأسرة كـ"مورد علاجي" بدل أن تكون جزءاً من المشكلة.

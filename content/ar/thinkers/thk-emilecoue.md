@@ -15,7 +15,7 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "tec-self-hypnosis-progressive", target_type: "تقنية/تدخل علاجي"
 related:
-- id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
 - id: "tec-self-hypnosis-progressive", title: "التنويم الذاتي (كإطار علاجي)", type: "تقنية/تدخل علاجي"
 - id: "thk-ovogt", title: "أوسكار فوغت", type: "مفكر"
 - id: "thk-jose-salgado", title: "خوسيه سالغادو", type: "مفكر"
@@ -29,7 +29,6 @@ gaps:
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: باتريس دي ماركو (thk-patrice-de-marco)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ستيغ راسموسن (thk-stig-rasmussen)."
 ---
-
 # إميل كوي
 
 صيدلي ومعالج نفسي فرنسي، من أهم مؤسسي **التنويم الذاتي** (Autohypnosis) في صورته المنهجية الحديثة.

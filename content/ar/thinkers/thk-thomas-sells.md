@@ -11,17 +11,17 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: null
 active_end: "غير محدد"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-discernment-counseling", target_type: "تيار"
 related:
-- id: "con-discernment-counseling", title: "الاستشارة التمييزية (Discernment Counseling)", type: "مفهوم"
+- id: "br-discernment-counseling", title: "الإرشاد التمييزي (Discernment Counseling)", type: "تيار"
 gaps:
   - "لم يُعثر على مصدر مستقل موثوق يؤكد وجود باحث بهذا الاسم بالتحديد في أدبيات الإرشاد التمييزي؛ المؤسس الموثّق للنموذج هو William (Bill) Doherty بجامعة مينيسوتا. لا يمكن التأكد إن كان 'توماس سيلز' شخصاً حقيقياً منفصلاً، أو خطأ في الاسم، أو التباساً مع باحث آخر."
   - "سنة الميلاد ومكان العمل الأكاديمي غير موثقين."
   - "الأعمال والأبحاث المنسوبة إليه في مسودات سابقة (مقالات في Journal of Marital and Family Therapy، أداة قياس نتائج) لم تُتحقق من وجودها فعلياً، وحُذفت من هذا الملف حتى يتوفر مصدر أولي."
+  - "**صُحِّح `part` 2026-09-13:** كان «philosophy» وأبوه `br-discernment-counseling` صار موسوماً «psychology» بعد دمجه — والإرشادُ التمييزيُّ تدخّلٌ زوجيٌّ إكلينيكيّ. فوُحِّد الوسمُ على الأب."
 ---
-
 # توماس سيلز
 
 هوية هذا الاسم في سياق الإرشاد التمييزي (Discernment Counseling) **غير مؤكدة**. لم يُعثر على مصدر مستقل يوثّق باحثاً أو معالجاً بهذا الاسم مرتبطاً بالنموذج، الذي أسّسه ويليام دوهرتي (William Doherty) في جامعة مينيسوتا.

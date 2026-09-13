@@ -17,8 +17,6 @@ edges:
 related:
 - id: "thk-ssterman", title: "م. باري ستيرمان", type: "مفكر"
 - id: "thk-sothmer", title: "سيغفريد أوتمر", type: "مفكر"
----
-
 gaps:
   - "**حُجر 2026-08-26:** هذا المفكر لا يمكن توثيقه من مصادر أكاديمية. النسخة الأصلية محفوظة في archive."
   - "التفاصيل في agents_specs/quarantine-minimax.md (القسم 2)."

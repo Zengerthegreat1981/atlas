@@ -16,7 +16,7 @@ edges: []
 related:
 - id: "thk-goldstein", title: "كورت غولدشتاين", type: "مفكر"
 - id: "thk-merleau-ponty", title: "موريس مرلو-بونتي", type: "مفكر"
-- id: "br-gestalt-therapy", title: "علاج الجشطالت", type: "تيار"
+- id: "sch-gestalt-therapy", title: "علاج الجشطالت (Gestalt Therapy)", type: "مدرسة"
 - id: "br-gestalt-theoretical-psychotherapy", title: "العلاج النفسي الجشطالتي النظري (GTP)", type: "تيار"
 - id: "rel-humanistic-existential-gestalt", title: "الإنسانية-الوجودية والجشطالتية: الجذور الظاهراتية المشتركة", type: "علاقة بين مدرستين"
 gaps:
@@ -24,8 +24,8 @@ gaps:
   - "قوانين التنظيم الإدراكي لماكس فيرتهايمر، فولفغانغ كوهلر، وكورت كوفكا (الشكل والأرضية، التقارب، التشابه، الإغلاق، والاستمرارية)."
   - "التمييز الدقيق بين علم النفس الجشطالتي الإدراكي المعملي وعلاج الجشطالت الإكلينيكي لبيرلز."
   - "**وُسِّع المتنُ وأُضيفت المصادر 2026-09-10:** كان هذا الملفُّ من أكثر الملفات إشارةً إليه وأقلِّها متناً (أقلَّ من 120 كلمة) وقسمُ مصادره عبارةَ تحوّطٍ لا مصادر. فكُتب المتنُ بأقسامٍ كاملةٍ منها **القيد**، وأُضيفت مصادرُ أوّليةٌ مُسمّاةٌ بالسنة."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): Stanford Encyclopedia of Philosophy, ”Gestalt Psychology” — للأطروحة المركزية وقوانينِ التنظيم ونقدِ الإيزومورفية: https://plato.stanford.edu/entries/gestalt-psychology/"
 ---
-
 # علم النفس الجشطالتي (مدرسة برلين)
 
 المدرسةُ التجريبيةُ الألمانيةُ الكبرى في علم النفس الإدراكي، أسّسها ماكس فيرتهايمر وكورت كوفكا وفولفغانغ كوهلر في برلين، وشعارُها الذي كثيراً ما يُساء نقلُه: **«الكلُّ شيءٌ آخرُ غيرُ مجموع أجزائه»** — لا «أكبرُ من مجموع أجزائه».
@@ -58,6 +58,5 @@ gaps:
 - Max Wertheimer, "Experimentelle Studien über das Sehen von Bewegung," *Zeitschrift für Psychologie* 61 (1912) — ورقةُ حركة فاي، ومبدأُ تأسيس المدرسة.
 - Wolfgang Köhler, *The Mentality of Apes* (1925; الأصلُ الألمانيُّ 1917) — تجاربُ تينيريفه ومفهومُ الاستبصار.
 - Kurt Koffka, *Principles of Gestalt Psychology* (New York: Harcourt, Brace, 1935) — الصياغةُ النسقيةُ الكاملةُ ومفهومُ المجال النفسي.
-- Stanford Encyclopedia of Philosophy, "Gestalt Psychology" — للأطروحة المركزية وقوانينِ التنظيم ونقدِ الإيزومورفية: https://plato.stanford.edu/entries/gestalt-psychology/
 - Wikipedia (English), "Gestalt psychology" — لصياغة الشعار على وجهه الصحيح وهجرةِ الأعلام في الثلاثينيات: https://en.wikipedia.org/wiki/Gestalt_psychology
 - Maurice Merleau-Ponty, *Phénoménologie de la perception* (1945) — للتلقّي الفلسفيِّ للجشطالتية.

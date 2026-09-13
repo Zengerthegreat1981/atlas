@@ -18,8 +18,8 @@ edges:
 related:
 - id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
 - id: "sch-gandhianism", title: "الغاندية (كفلسفة سياسية-أخلاقية)", type: "مدرسة"
-- id: "con-annihilation-of-caste", title: "إبادة الطبقية (Annihilation of Caste)", type: "مفهوم"
-- id: "wrk-annihilation-of-caste", title: "إبادة الطبقية (Annihilation of Caste)", type: "عمل / كتاب"
+- id: "con-annihilation-of-caste", title: "إبادة الطبقية (Annihilation of Caste) — المفهوم", type: "مفهوم"
+- id: "wrk-annihilation-of-caste", title: "إبادة الطبقية (Annihilation of Caste) — الكتاب", type: "عمل / كتاب"
 - id: "dbt-ambedkar-vs-gandhi-caste", title: "أمبيدكار ضد غاندي: إصلاح الطبقية أم إبادتها؟", type: "جدل"
 gaps:
   - "رابط مقترح لـ«نقد الطبقة في الهند» (sch-caste-india) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."

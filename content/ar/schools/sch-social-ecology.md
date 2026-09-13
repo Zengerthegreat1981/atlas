@@ -20,7 +20,7 @@ related:
 - id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
 - id: "sch-anarchism-contemporary", title: "الفوضوية المعاصرة", type: "مدرسة"
 - id: "con-ecology-of-freedom", title: "إيكولوجيا الحرية (Ecology of Freedom)", type: "مفهوم"
-- id: "wrk-ecology-freedom-bookchin", title: "إيكولوجيا الحرية (The Ecology of Freedom)", type: "عمل / كتاب"
+- id: "wrk-ecology-freedom-bookchin", title: "إيكولوجيا الحرية — كتاب موراي بوكتشين (1982)", type: "عمل / كتاب"
 - id: "thk-bookchin", title: "موراي بووكين", type: "مفكر"
 - id: "thk-andre-gorz", title: "أندريه غورز", type: "مفكر"
 gaps:

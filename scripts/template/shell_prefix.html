@@ -693,6 +693,40 @@ html[data-theme=dark] .hlmark{background:#6B5A17;color:#F5EFD9}
  .brand span{display:none}
 }
 
+
+/* ===== ناتجُ مُحوِّل الماركداون (md) =====
+   المتنُ كان يُحقن نصّاً خاماً داخل <p> واحد؛ صار الآن HTML بفقراتٍ وقوائم،
+   فيحتاج هذه القواعد. الأحجامُ هي نفسُها التي كانت مضمَّنةً في السطر قبلُ. */
+.mdbody{font-size:14.5px;margin:4px 0 14px}
+.mdbody .mdp,.lede .mdp,.pvlede .mdp{margin:0 0 10px}
+.mdbody .mdp:last-child,.lede .mdp:last-child,.pvlede .mdp:last-child{margin-bottom:0}
+.mdbody .mdl,.lede .mdl{margin:6px 0 10px;padding-inline-start:22px}
+.mdbody .mdl li,.lede .mdl li{margin:3px 0}
+.mdbody .mdh,.lede .mdh{font-weight:700;margin:12px 0 4px;font-size:14.5px}
+.mdbody .mdq,.lede .mdq{margin:8px 0;padding-inline-start:12px;
+  border-inline-start:3px solid var(--line);color:var(--muted)}
+
+/* بطاقةُ البيانات الوصفية وصندوقُ الإحالة */
+.hm.nosrc{color:var(--warn);font-weight:600}
+.hm.hassrc{color:var(--ok)}
+.factgrid{display:grid;grid-template-columns:max-content 1fr;gap:6px 14px;font-size:14px}
+.factk{color:var(--muted);font-weight:600;white-space:nowrap}
+.factv{color:var(--ink)}
+.factrow{display:contents}
+@media(max-width:560px){.factgrid{grid-template-columns:1fr}
+ .factk{margin-top:6px}}
+.redirectbox{border-inline-start:4px solid var(--warn);background:var(--warnsoft)}
+.rdxhead{font-weight:700;font-size:15px;margin-bottom:6px;color:var(--warn)}
+.rdxbody{font-size:14.5px;margin-bottom:10px}
+.rdxgo{font:inherit;font-size:14px;font-weight:600;cursor:pointer;border:1px solid var(--accent);
+  background:var(--panel);color:var(--accent);border-radius:8px;padding:6px 12px}
+.rdxgo:hover{background:var(--soft)}
+.mdpre{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:13px;line-height:1.55;
+  background:var(--soft);border:1px solid var(--line);border-radius:8px;padding:10px 12px;
+  margin:8px 0;overflow-x:auto;white-space:pre;direction:ltr;text-align:start}
+.mdc{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.92em;
+  background:var(--soft);padding:1px 5px;border-radius:4px;white-space:nowrap}
+.mdbody a[target="_blank"],.lede a[target="_blank"]{text-decoration:underline;text-underline-offset:2px}
 </style>
 </head>
 <body>

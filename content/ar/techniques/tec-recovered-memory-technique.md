@@ -14,11 +14,9 @@ edges:
 - rel: "belongs_to", target: "br-recovered-memory-movement", target_type: "تيار"
 related:
 - id: "dbt-recovered-memory-validity", title: "جدل الذاكرة المُستعادة: حقيقية أم زائفة؟", type: "جدل"
-- id: "con-recovered-memory-controversy", title: "الجدل حول الذاكرة المُستعادة", type: "مفهوم"
 gaps:
   - "البروتوكول (Body Memory، Guided Imagery) لم يُوثّق بدقة كافية من حيث خطوات الجلسة وعدد الجلسات."
 ---
-
 # تقنية الذاكرة المُستعادة
 
 مجموعة من التقنيات التي استُخدمت في الثمانينيات والتسعينيات لاسترجاع ما يُفترض أنه **ذكريات مكبوتة** للإيذاء الجنسي في الطفولة.

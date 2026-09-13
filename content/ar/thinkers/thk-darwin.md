@@ -39,5 +39,5 @@ gaps:
 
 - Darwin, C. (1859). *On the Origin of Species*. John Murray. [Smithsonian Institution](https://www.si.edu/collections/snapshot/origin-species-charles-darwin)
 - "Charles Darwin." *Encyclopædia Britannica*. [britannica.com](https://www.britannica.com/biography/Charles-Darwin)
-- "1859: Darwin Published On the Origin of Species." *National Human Genome Research Institute*. [genome.gov](https://www.genome.gov/25520157/online-education-kit-1859-darwin-published-on-the-origin-of-species-proposing-continual-evolution-of-species)
+- "1859: Darwin Published On the Origin of Species." *National Human Genome Research Institute*. [genome.gov](https://web.archive.org/web/20260730220709/https://www.genome.gov/25520157/online-education-kit-1859-darwin-published-on-the-origin-of-species-proposing-continual-evolution-of-species)
 - "'Origin of Species' is published." *History.com*. [history.com](https://www.history.com/this-day-in-history/november-24/origin-of-species-is-published-2)

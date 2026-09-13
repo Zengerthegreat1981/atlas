@@ -2,12 +2,15 @@
 """
 Check all candidate names against EXISTING_SLUGS.md and all thinker files.
 """
+import os as _os
+# جذرُ المستودع يُشتقّ من موضع الملفّ نفسِه — لا مسارٌ مثبَّتٌ لجهازٍ بعينه.
+_ATLAS_ROOT = _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..'))
 
 import os
 import glob
 import re
 
-ROOT_DIR = "/Users/minamoheb/Desktop/Atlas"
+ROOT_DIR = _ATLAS_ROOT
 EXISTING_SLUGS_PATH = os.path.join(ROOT_DIR, "content/ar/drafts/EXISTING_SLUGS.md")
 
 thinker_files = glob.glob(os.path.join(ROOT_DIR, "content/ar/thinkers/*.md")) + \

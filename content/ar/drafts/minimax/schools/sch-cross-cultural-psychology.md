@@ -23,7 +23,11 @@ related:
 - id: "thk-john-berry", title: "جون دبليو بيري", type: "مفكر"
   - "تأسيس الجمعية الدولية لعلم النفس العابر-الثقافي (IACCP) عام 1972 مرجعه أدبيات ثانوية للحقل، لم يُراجع من وثيقة تأسيسية أولية."
   - "لا يوجد رابط لمجلة Journal of Cross-Cultural Psychology (تأسست 1970) في الأطلس بعد."
+superseded_by: "sch-cross-cultural-psychology"   # رُقِّيت هذه المسودةُ ونسختُها المعتمدةُ في content/ar/schools/sch-cross-cultural-psychology.md
 ---
+
+> **مسودةٌ مُتجاوَزة.** رُقِّي هذا المدخلُ وصار ملفُّه المعتمدُ `content/ar/schools/sch-cross-cultural-psychology.md`.
+> ما هنا نسخةٌ سابقةٌ محفوظةٌ للسجلّ — لا تُحرَّر ولا تُبنى.
 
 # علم النفس العابر-الثقافي (Cross-Cultural Psychology)
 

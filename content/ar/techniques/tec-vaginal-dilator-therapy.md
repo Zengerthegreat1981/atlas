@@ -17,7 +17,6 @@ edges:
 related:
 - id: "tec-sensate-focus", title: "التركيز الحسي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-exp-exposure-hierarchy-building", title: "بناء سلّم التعرض التدريجي", type: "تقنية/تدخل علاجي"
-- id: "tec-sex-therapy-overview", title: "العلاج الجنسي (Sex Therapy)", type: "تقنية/تدخل علاجي"
 - id: "br-sex-therapy", title: "العلاج الجنسي", type: "تيار"
 - id: "dis-genito-pelvic-pain", title: "اضطراب الألم التناسلي الحوضي / الاختراق", type: "اضطراب/حالة إكلينيكية"
 evidence_level: "probably-efficacious"

@@ -19,9 +19,8 @@ evidence_level: "well-established"
 related:
 - id: "thk-hkaplan", title: "هيلين سنغر كابلان", type: "مفكر"
 - id: "tec-sensate-focus", title: "التركيز الحسي", type: "تقنية/تدخل علاجي"
-- id: "tec-sex-therapy-overview", title: "العلاج الجنسي (Sex Therapy)", type: "تقنية/تدخل علاجي"
-- id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
 - id: "br-sex-therapy", title: "العلاج الجنسي", type: "تيار"
+- id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
 gaps:
   - "البروتوكولات المكيّفة للنساء ذوات الإعاقة الحركية أو الحسية أو صعوبات التعلّم لم تُفصَّل."
   - "معدلات النجاح المبلَّغة في المراجعات الحديثة مقابل نتائج Kaplan الأصلية لم تُقارَن."

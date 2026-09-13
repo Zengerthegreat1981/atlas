@@ -26,8 +26,8 @@ gaps:
   - "تاريخُ مولده ووفاته تقديريٌّ (نحو 334–262 ق.م) ومختلَفٌ فيه بين المصادر بنحو خمس سنوات؛ وسنةُ تأسيس المدرسة (نحو 301 ق.م) تقديريةٌ كذلك."
   - "روايةُ ديوجينس اللائرتي عن انتحاره اختياراً بعد كسر إصبعه روايةٌ متأخّرةٌ ذاتُ طابعٍ أدبيٍّ، ولم يُتحقَّق من سندها."
   - "أصلُه الفينيقيُّ ودلالتُه في تلقّي الأثينيين له (كان يُنادى «الفينيقي») لم يُبحث هنا بمصادرَ أوّلية."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): Stanford Encyclopedia of Philosophy, ”Cynicism” — لصلة زينون بكراتيس الكلبي: https://plato.stanford.edu/entries/cynicism/"
 ---
-
 # زينون الرواقي (زينون القِبرصي)
 
 مؤسِّس الرواقية، تاجرٌ فينيقيٌّ من قبرص انقلب فيلسوفاً بعد غرق سفينته، فعلّم في الرواق المزخرف بأثينا حتى صار اسمُ الموضع اسماً لمذهبه.
@@ -60,4 +60,3 @@ gaps:
 - Stanford Encyclopedia of Philosophy, "Stoicism" — الغايةُ الأخلاقية وقسمةُ الفلسفة ثلاثاً: https://plato.stanford.edu/entries/stoicism/
 - Internet Encyclopedia of Philosophy, "Stoicism": https://iep.utm.edu/stoicism/
 - Wikipedia (English), "Zeno of Citium" — التواريخُ التقديرية ونسبةُ التأسيس إلى نحو 301 ق.م: https://en.wikipedia.org/wiki/Zeno_of_Citium
-- Stanford Encyclopedia of Philosophy, "Cynicism" — لصلة زينون بكراتيس الكلبي: https://plato.stanford.edu/entries/cynicism/

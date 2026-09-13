@@ -26,3 +26,15 @@ preview-atlas-visuals.html
 
 # Session scratchpad (local only)
 scratchpad/
+
+# ملفاتٌ لا علاقةَ لها بالأطلس، ومخرجاتٌ مؤقتةٌ كانت متعقَّبةً بالخطأ (2026-09-13)
+جدول_توزيع_الغرف_A4_عرضي.xlsx
+جدول_توزيع_الغرف_A4_عرضي.html
+كشف_الاشتراكات_وتوزيع_الغرف.xlsx
+كشف_توزيع_الغرف.xlsx
+thinker_batch_*
+names_to_check.txt
+app.js
+
+# إعدادات مهارات Claude Code المحلية (فيها بريدُ حسابٍ شخصي)
+.agents/

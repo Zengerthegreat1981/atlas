@@ -46,5 +46,5 @@ gaps:
 ## المصادر
 
 - A. Charles Catania — ويكيبيديا (بالإنجليزية): https://en.wikipedia.org/wiki/A._Charles_Catania
-- A. Charles Catania, Ph.D. — الصفحة الرسمية، قسم علم النفس، UMBC: https://psychology.umbc.edu/people-2/emeritus-faculty/catania/
+- A. Charles Catania, Ph.D. — الصفحة الرسمية، قسم علم النفس، UMBC: https://web.archive.org/web/20260517083213/https://psychology.umbc.edu/people-2/emeritus-faculty/catania/
 - السيرة الذاتية الرسمية (CV)، يناير 2025 — UMBC: https://psychology.umbc.edu/wp-content/uploads/sites/57/2025/01/2025Jan-cv-acc.pdf

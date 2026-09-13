@@ -1986,7 +1986,7 @@ Per session instructions, this task produces a SCOPE LIST ONLY. No `dis-` files 
   - **طبقة المفكرين والعلماء السلوكيين (`thk-`)**: ارتفعت إلى **56 شخصية ومفكراً**، مع إضافة: آدم غرانت، تالي شاروت، أوري غنيزي، جون كاسيوبو، روي باوميستر، جورج لاكوف، روبرت كيغان، شينا إينغار، بي جيه فوغ، غاي وينش، آلان دو بوتون، جاي شيتي، دان ميلمان، روندا بايرن، ميتش ألبوم، وأوليفر بوركمان.
   - **طبقة الكتب البِست سيلر العالمية (`wrk-` مع `register: "popular"`)**: ارتفعت إلى **117 كتاباً**، مع إضافة: *فكر مرة أخرى*، *الأخذ والعطاء*، *السر*، *فكر كراهب*، *ثلاثاءات مع موري*، *قلق السعي إلى المكانة*، *الإسعافات الأولية العاطفية*، *قوة الإرادة*، *انحياز التفاؤل*، *لا تفكر في فيل*، *الوحدة*، *فن الاختيار*، *المناعة ضد التغيير*، *طريق المحارب السلمي*، *الخيميائي*، *العادات الصغيرة*، *الندرة*، و*أربعة آلاف أسبوع*.
   - **طبقة المفاهيم والقوانين والانحيازات السلوكية (`con-`)**: ارتفعت إلى **67 مفهوماً وقانوناً**، مع إضافة: قانون الجذب (`con-law-of-attraction-popular`)، استنزاف الأنا (`con-ego-depletion`)، انحياز التفاؤل (`con-optimism-bias-concept`)، تأثير التأطير (`con-framing-effect`)، الألم الاجتماعي (`con-social-pain`)، شلل التحليل (`con-analysis-paralysis`)، نموذج فوغ السلوكي B=MAP (`con-fogg-behavior-model`)، عقلية الندرة (`con-scarcity-mindset`)، جهاز المشي اللذائذي (`con-hedonic-treadmill`)، خطأ العزو الأساسي (`con-fundamental-attribution-error`)، انحياز خدمة الذات (`con-self-serving-bias`)، كراهية الخسارة (`con-loss-aversion`)، قلق المكانة الاجتماعية (`con-status-anxiety-concept`)، وتأثير الليدي ماكبث (`con-lady-macbeth-effect`).
-  - **فهرس الـ Slugs الشامل للأطلس ([EXISTING_SLUGS.md](content/ar/drafts/EXISTING_SLUGS.md))**: وصل إلى **4069 عنصراً** (418 معتمداً + 3651 مسودة).
+  - **فهرس الـ Slugs الشامل للأطلس ([EXISTING_SLUGS.md](../content/ar/drafts/EXISTING_SLUGS.md))**: وصل إلى **4069 عنصراً** (418 معتمداً + 3651 مسودة).
 
 - [2026-08-21] **مسار Spark — التغطية الكاملة الشاملة للدراسات التاريخية وأدوات القياس السيكومتري والإكلينيكي (`spark-studies-instruments-full-coverage-backlog.md`) — مكتمل 100%**
   - **طبقة الدراسات والأبحاث التجريبية (`stu-`)**: تم رفع الإجمالي إلى **115 دراسة وبحثاً**، مع إضافة 28 دراسة كلاسيكية كبرى شملت:
@@ -2000,14 +2000,14 @@ Per session instructions, this task produces a SCOPE LIST ONLY. No `dis-` files 
     - أدوات الذكاء، القدرات، والوظائف التنفيذية: مقياس وكسلر المختصر للذكاء WASI-II (`ins-wasi-ii`)، نظام دليس-كابلان لتقييم الوظائف التنفيذية D-KEFS (`ins-dkefs-executive`)، واختبار كورسي للنقر على المكعبات والذاكرة الفضائية (`ins-corsi-block-tapping`).
     - أدوات المزاج، الاكتئاب، والانتحار: مقياس الاكتئاب والقلق والتوتر DASS-21 (`ins-dass-21`)، مقياس مونتغمري-آسبرغ للاكتئاب MADRS (`ins-madrs`)، مقياس إدنبرة لاكتئاب ما بعد الولادة EPDS (`ins-epds-edinburgh-postnatal`)، مقياس قلق واكتئاب المستشفيات HADS (`ins-hads`)، مقياس كولومبيا لتقييم خطورة الانتحار C-SSRS (`ins-c-ssrs-suicide`)، ومقياس يونغ لتقييم الهوس السريري YMRS (`ins-ymrs-young-mania`).
     - أدوات الشخصية، التعاطف، واليقظة الذهنية: حاصل التعاطف EQ (`ins-eq-empathy-quotient`)، حاصل التنظيم SQ-R (`ins-sq-systemizing-quotient`)، مؤشر التفاعل البين-شخصي لأبعاد التعاطف IRI (`ins-iri-interpersonal-reactivity`)، استبيان المزاج والطباع البيولوجي لكلونينغر TCI (`ins-tci-cloninger`)، مقياس سمات الشخصية لـ DSM-5 البديل PID-5 (`ins-pid-5`)، مقياس سبيلبرغر لحالة وسمة الغضب STAXI-2 (`ins-staxi-2`)، مقياس صعوبات التنظيم الانفعالي DERS (`ins-ders-emotion-regulation`)، واستبيان أبعاد اليقظة الذهنية الخمسة FFMQ (`ins-ffmq-five-facet-mindfulness`).
-  - **فهرس الـ Slugs الشامل للأطلس ([EXISTING_SLUGS.md](content/ar/drafts/EXISTING_SLUGS.md))**: وصل إلى **4125 عنصراً** (418 معتمداً + 3707 مسودات).
-  - **قائمة النطاق الرسمية**: تم إنشاء وتحديث [studies-instruments-scope-list.md](agents_specs/studies-instruments-scope-list.md) بالكامل وتغطية كافة بنودها بنسبة 100%.
+  - **فهرس الـ Slugs الشامل للأطلس ([EXISTING_SLUGS.md](../content/ar/drafts/EXISTING_SLUGS.md))**: وصل إلى **4125 عنصراً** (418 معتمداً + 3707 مسودات).
+  - **قائمة النطاق الرسمية**: تم إنشاء وتحديث [studies-instruments-scope-list.md](studies-instruments-scope-list.md) بالكامل وتغطية كافة بنودها بنسبة 100%.
 
 - [2026-08-21] **مسار MiniMax — العلاقات العابرة للقسمين (فلسفة ↔ علم نفس، `rel-`) — مكتمل 100%**
 
   **السياق:** بعد إكمال المرحلة الأولى (335 مدرسة فلسفية في `philosophy-schools-backlog.md`) والمرحلة الثانية (قسم الجسر في `bridge-backlog.md`)، تم تنفيذ المرحلة الثالثة والأخيرة: **علاقات `rel-` موثّقة أكاديمياً بين مدارس فلسفية ومدارس نفسية**.
 
-  **قائمة النطاق:** أُنشئ [cross-part-relations-scope-list.md](agents_specs/cross-part-relations-scope-list.md) بـ 8 أزواج مرشحة، 4 منها تم تنفيذها، 4 مؤجّلة.
+  **قائمة النطاق:** أُنشئ [cross-part-relations-scope-list.md](cross-part-relations-scope-list.md) بـ 8 أزواج مرشحة، 4 منها تم تنفيذها، 4 مؤجّلة.
 
   **الأزواج المنفّذة (4 ملفات `rel-` جديدة):**
 
@@ -2063,13 +2063,13 @@ Per session instructions, this task produces a SCOPE LIST ONLY. No `dis-` files 
     - فك اشتباك تشابه الأسماء لـ `thk-solomon` (الملك سليمان التوراتي) بنقله إلى `thk-solomon-hebrew` وتحديث روابطه لمنع التعارض مع الفيلسوف روبرت سولومون (`THK-0540`).
     - دمج وحذف 6 مسودات لمفكرين معتمدين بـ slugs متباينة (`thk-taylor-charles` -> `thk-charlestaylor`, `thk-wdilthey` -> `thk-dilthey`, `thk-chomsky` -> `thk-nchomsky`, `thk-james-william` -> `thk-james`, `thk-mbuber` -> `thk-buber`, `thk-aschutz` -> `thk-schutz`).
     - دمج وتصفية 17 مسودة مكررة داخل المسودات (مثل: `thk-kahneman`, `thk-macintyre`, `thk-peter-singer`, `thk-hooks`, `thk-arne-naess`, `wrk-kuhn-structure-revolutions`, إلخ) وتحديث كافة الإحالات المرجعية.
-    - توثيق التقرير بالكامل في [spark-philosophy-dedup-report.md](agents_specs/spark-philosophy-dedup-report.md).
+    - توثيق التقرير بالكامل في [spark-philosophy-dedup-report.md](spark-philosophy-dedup-report.md).
   - **المهمة 2 (فحص الروابط المعلّقة Phantom Slugs عبر الأطلس)**:
     - فحص أكثر من 10,200 رابط `related:` و `edges:`.
     - تصويب وتحديث 142 رابطاً معلّقاً ناتجاً عن أخطاء كتابية أو عدم تطابق في بادئات الأصناف (`dis-`, `sch-`, `con-`, `thk-`, `tec-`).
     - تنظيف الروابط الصامتة للمفاهيم العامة غير المعرفة في المسودات.
-    - توثيق التقرير بالكامل في [phantom-slugs-audit-report.md](agents_specs/phantom-slugs-audit-report.md).
-  - **فهرس الـ Slugs الشامل للأطلس ([EXISTING_SLUGS.md](content/ar/drafts/EXISTING_SLUGS.md))**: تم تحديثه ليصل إلى **4153 عنصراً** (4038 معتمداً + 115 مسودة) مع **صفر تعارض في الـ Slugs**.
+    - توثيق التقرير بالكامل في [phantom-slugs-audit-report.md](phantom-slugs-audit-report.md).
+  - **فهرس الـ Slugs الشامل للأطلس ([EXISTING_SLUGS.md](../content/ar/drafts/EXISTING_SLUGS.md))**: تم تحديثه ليصل إلى **4153 عنصراً** (4038 معتمداً + 115 مسودة) مع **صفر تعارض في الـ Slugs**.
 
 - [2026-08-21] **مسار MiniMax — العمود الفقري للمدارس النفسية الكبرى + استئناف العلاقات العابرة للقسمين (`minimax-psychology-schools-backbone-pipeline.md`) — مكتمل 100%**
 
@@ -2191,7 +2191,7 @@ Per session instructions, this task produces a SCOPE LIST ONLY. No `dis-` files 
     - جدليات إكلينيكية وعلمية: التشخيص الفئوي DSM مقابل الأبعادي HiTOP (`dbt-categorical-vs-dimensional`)، جدل فاعلية مضادات الاكتئاب السيروتونينية (`dbt-antidepressants-efficacy-debate`)، وجدل التمييع والتضخم التشخيصي (`dbt-concept-creep-psychiatry`).
   - **المسار الثالث (تدقيق وتنظيف المسودات وفهرس الـ Slugs الشامل)**:
     - فحص وتدقيق كافة المسودات، وإزالة النسخ المكررة لمدارس ومفكري المعتمد، وتصويب مدرسة العلاج المعرفي السلوكي `sch-cbt`.
-    - تحديث [EXISTING_SLUGS.md](content/ar/drafts/EXISTING_SLUGS.md) ليصل إجمالي عناصر الأطلس إلى **4,199 عنصراً** (4,150 معتمداً + 49 مسودة نقية) مع **صفر تعارض في الـ Slugs**.
+    - تحديث [EXISTING_SLUGS.md](../content/ar/drafts/EXISTING_SLUGS.md) ليصل إجمالي عناصر الأطلس إلى **4,199 عنصراً** (4,150 معتمداً + 49 مسودة نقية) مع **صفر تعارض في الـ Slugs**.
 
 - [2026-08-22] **مسار Spark — إغلاق الـ81 رابطاً معلقاً المتبقية من تدقيق MiniMax بالكامل (Broken References Closure Pipeline)**
   - **الهدف والمنهجية**: فحص واستقصاء كافة الروابط المعلقة (81 رابطاً) وفق القاعدة الحاكمة: التحقق من وجود الكيان أولاً تحت صياغة/slug مختلف قبل أي قرار، وكتابة مسودات كاملة للفجوات الحقيقية فقط وفق `draft-writer-brief.md`، وتصحيح روابط المسودات في `content/ar/drafts/`، وتوثيق الفجوات الصغرى في `gaps:`.
@@ -2444,9 +2444,9 @@ Per session instructions, this task produces a SCOPE LIST ONLY. No `dis-` files 
     - إجمالي العناصر المعيارية الفريدة المعتمدة: **5,546 عنصراً معتمداً**.
     - إجمالي الروابط الوهمية: **0 روابط وهمية (Zero Phantom Slugs)**.
     - إجمالي التكرارات: **0 تكرار (0 Duplicate Slugs/Titles)**.
-    - تحديث الفهارس: [EXISTING_SLUGS.md](file:///Users/minamoheb/Desktop/Atlas/content/ar/drafts/EXISTING_SLUGS.md)، [coverage_matrix.json](file:///Users/minamoheb/Desktop/Atlas/data/coverage_matrix.json)، و [philosophy_matrix.json](file:///Users/minamoheb/Desktop/Atlas/data/philosophy_matrix.json).
-    - بناء قاعدة البيانات الحية [data.json](file:///Users/minamoheb/Desktop/Atlas/data.json) (5,546 عنصراً).
-    - بناء واجهة الأطلس الحية [index.html](file:///Users/minamoheb/Desktop/Atlas/index.html) بحجم **17.12 ميغابايت (17,948,362 حرفاً)**.
+    - تحديث الفهارس: [EXISTING_SLUGS.md](../content/ar/drafts/EXISTING_SLUGS.md)، [coverage_matrix.json](../data/coverage_matrix.json)، و [philosophy_matrix.json](../data/philosophy_matrix.json).
+    - بناء قاعدة البيانات الحية [data.json](../data.json) (5,546 عنصراً).
+    - بناء واجهة الأطلس الحية [index.html](../index.html) بحجم **17.12 ميغابايت (17,948,362 حرفاً)**.
 
 - [2026-08-22 23:14] **🚨 إنجاز كامل: 0 orphans!**
   - **النتيجة النهائية**: 5546 ملف معتمد، **0 ملف معزول** (من 1651 خط الأساس، -100%).
@@ -2499,8 +2499,8 @@ Per session instructions, this task produces a SCOPE LIST ONLY. No `dis-` files 
        - تعيين المعرفات التسلسلية القياسية لكافة العقد الجديدة (`MET-`, `QUE-`, `TRM-`, `EXP-`, `CTX-`, `DIA-`, `WRK-`, `DBT-`, `CON-`, `TEC-`, `THK-`).
        - التحقق الصارم من انعدام الـ Phantom Slugs عبر كامل شبكة الأطلس (**0 Phantom Slugs**).
        - إعادة بناء فهارس الـ slugs ومصفوفة التغطية ومصفوفة الفلسفة.
-       - توليد قاعدة بيانات الإنتاج الحية [data.json](file:///Users/minamoheb/Desktop/Atlas/data.json) لتصل إلى **5,766 عنصراً معتمداً**.
-       - توليد واجهة الأطلس الحية المدمجة [index.html](file:///Users/minamoheb/Desktop/Atlas/index.html) بحجم **12.25 ميغابايت (12,256,254 حرفاً)**.
+       - توليد قاعدة بيانات الإنتاج الحية [data.json](../data.json) لتصل إلى **5,766 عنصراً معتمداً**.
+       - توليد واجهة الأطلس الحية المدمجة [index.html](../index.html) بحجم **12.25 ميغابايت (12,256,254 حرفاً)**.
 
 - [2026-08-23 00:35] **🚀 توسيع طبقة الاستعارات إلى الحد الأقصى (Metaphors Max Expansion)**:
   - **الهدف**: الاستجابة لطلب المستخدم بتوسيع طبقة الاستعارات التأسيسية (`met-`) في الأطلس إلى أقصى مدى معرفي ممكن.
@@ -2518,8 +2518,8 @@ Per session instructions, this task produces a SCOPE LIST ONLY. No `dis-` files 
     - إضافة مفكرين مرجعيين مؤسسين في `content/ar/thinkers/` (مثل: ريتشارد دوكينز `thk-richard-dawkins`، ريتشارد فاينمان `thk-richard-feynman`، إسحاق نيوتن `thk-isaac-newton`، غاليليو `thk-galileo-galilei`، آدم سميث `thk-adam-smith`، ألبرت أينشتاين `thk-albert-einstein`، ليو تولستوي `thk-leo-tolstoy`، ورينيه جيرار `thk-rene-girard`).
     - تعيين معرفات تسلسلية نظامية لجميع الاستعارات من `MET-0001` إلى `MET-0113`.
     - التحقق التام من انعدام الـ Phantom Slugs عبر كامل شبكة الأطلس (**0 Phantom Slugs**).
-    - إعادة بناء قاعدة بيانات الإنتاج الحية [data.json](file:///Users/minamoheb/Desktop/Atlas/data.json) لتصل إلى **5,858 عنصراً معتمداً**.
-    - إعادة بناء واجهة الأطلس الحية المدمجة [index.html](file:///Users/minamoheb/Desktop/Atlas/index.html) بحجم **12.37 ميغابايت (12,378,594 حرفاً)**.
+    - إعادة بناء قاعدة بيانات الإنتاج الحية [data.json](../data.json) لتصل إلى **5,858 عنصراً معتمداً**.
+    - إعادة بناء واجهة الأطلس الحية المدمجة [index.html](../index.html) بحجم **12.37 ميغابايت (12,378,594 حرفاً)**.
 
 - [2026-08-23 02:15] **🚀 توسيع طبقة الأسئلة التوليدية إلى الحد الأقصى (Generative Questions Max Expansion)**:
   - **الهدف**: الاستجابة لطلب المستخدم بتوسيع طبقة الأسئلة التوليدية (`que-`) في الأطلس إلى أقصى مدى معرفي وفلسفي ونفسي.
@@ -2533,8 +2533,8 @@ Per session instructions, this task produces a SCOPE LIST ONLY. No `dis-` files 
     - إضافة مفكرين وأعمال مرجعية مؤسسة (`thk-nel-noddings`، `thk-vladimir-jankelevitch`، `wrk-popper-open-society`).
     - تعيين معرفات تسلسلية منتظمة لجميع الأسئلة من `QUE-0001` إلى `QUE-0103`.
     - التحقق التام من خلو شبكة الأطلس من الروابط الوهمية (**0 Phantom Slugs**).
-    - إعادة بناء قاعدة بيانات الإنتاج الحية [data.json](file:///Users/minamoheb/Desktop/Atlas/data.json) لتصل إلى **5,941 عنصراً معتمداً**.
-    - إعادة بناء واجهة الأطلس الحية المدمجة [index.html](file:///Users/minamoheb/Desktop/Atlas/index.html) بحجم **12.49 ميغابايت (12,495,362 حرفاً)**.
+    - إعادة بناء قاعدة بيانات الإنتاج الحية [data.json](../data.json) لتصل إلى **5,941 عنصراً معتمداً**.
+    - إعادة بناء واجهة الأطلس الحية المدمجة [index.html](../index.html) بحجم **12.49 ميغابايت (12,495,362 حرفاً)**.
 
 - [2026-08-23 02:25] **🚀 توسيع طبقة المصطلحات اللغوية ونزاعات الترجمة إلى الحد الأقصى (Terms & Translation Disputes Max Expansion)**:
   - **الهدف**: الاستجابة لطلب المستخدم بتوسيع طبقة المصطلحات الفلسفية والنفسية ونزاعات الترجمة (`trm-`) في الأطلس إلى أقصى مدى دلالي وتأصيلي.
@@ -2548,8 +2548,8 @@ Per session instructions, this task produces a SCOPE LIST ONLY. No `dis-` files 
     - إضافة عمل مرجعي مؤسس: كتاب «ما وراء مبدأ اللذة» لسيغموند فرويد (`wrk-freud-beyond-pleasure-principle`).
     - تعيين معرفات تسلسلية منتظمة لجميع المصطلحات من `TRM-0001` إلى `TRM-0103`.
     - التحقق التام من خلو شبكة الأطلس من الروابط الوهمية (**0 Phantom Slugs**).
-    - إعادة بناء قاعدة بيانات الإنتاج الحية [data.json](file:///Users/minamoheb/Desktop/Atlas/data.json) لتتجاوز حاجز الستة آلاف عنصر لأول مرة وتصل إلى **6,022 عنصراً معتمداً**.
-    - إعادة بناء واجهة الأطلس الحية المدمجة [index.html](file:///Users/minamoheb/Desktop/Atlas/index.html) بحجم **12.61 ميغابايت (12,617,763 حرفاً)**.
+    - إعادة بناء قاعدة بيانات الإنتاج الحية [data.json](../data.json) لتتجاوز حاجز الستة آلاف عنصر لأول مرة وتصل إلى **6,022 عنصراً معتمداً**.
+    - إعادة بناء واجهة الأطلس الحية المدمجة [index.html](../index.html) بحجم **12.61 ميغابايت (12,617,763 حرفاً)**.
 
 - [2026-08-23 02:50] **🚀 توسيع طبقة الخبرات المعيشة التحولية إلى الحد الأقصى (Transformative Lived Experiences Max Expansion)**:
   - **الهدف**: الاستجابة لطلب المستخدم بتوسيع طبقة الخبرات المعيشة والتحولات الوجودية والسيرية والسريرية (`exp-`) في الأطلس إلى أقصى مدى سيري وظاهراتي.
@@ -2563,8 +2563,8 @@ Per session instructions, this task produces a SCOPE LIST ONLY. No `dis-` files 
     - إنشاء المفكرين والأعمال والاضطرابات المرجعية المؤسسة: مارتن لوثر كينغ (`thk-martin-luther-king`)، مالكوم إكس (`thk-malcolm-x`)، نيلسون مانديلا (`thk-mandela`)، ألكسندر سولجينيتسين (`thk-solzhenitsyn`)، بريمو ليفي (`thk-primo-levi`)، تيمبل غراندين (`thk-tgrandin`)، جان أميري (`thk-jean-amery`)، ستيفن هوكينغ (`thk-stephen-hawking`)، كتاب «الخيار» لإديث إيجر (`wrk-eger-the-choice`)، كتاب «العقل والانفعال في العلاج النفسي» لألبرت إليس (`wrk-reason-emotion-psychotherapy-ellis`)، اضطراب الشخصية الحدية (`dis-borderline-personality`)، واضطراب الاكتئاب الجسيم (`dis-major-depressive`).
     - تعيين معرفات تسلسلية منتظمة لجميع الخبرات من `EXP-0001` إلى `EXP-0123`.
     - التحقق التام من خلو شبكة الأطلس من الروابط الوهمية (**0 Phantom Slugs**).
-    - إعادة بناء قاعدة بيانات الإنتاج الحية [data.json](file:///Users/minamoheb/Desktop/Atlas/data.json) لتصل إلى **6,325 عنصراً معتمداً**.
-    - إعادة بناء واجهة الأطلس الحية المدمجة [index.html](file:///Users/minamoheb/Desktop/Atlas/index.html) بحجم **13.47 ميغابايت (13,474,728 حرفاً)**.
+    - إعادة بناء قاعدة بيانات الإنتاج الحية [data.json](../data.json) لتصل إلى **6,325 عنصراً معتمداً**.
+    - إعادة بناء واجهة الأطلس الحية المدمجة [index.html](../index.html) بحجم **13.47 ميغابايت (13,474,728 حرفاً)**.
 
 - [2026-08-23 12:50] **🚀 تنفيذ خطة توسيع المحتوى الشاملة (ATLAS_CONTENT_EXPANSION_PLAN) — جولة الترقية والـOrphan Closure**:
   - **الهدف**: تنفيذ المرحلة النهائية من خطة التوسيع: ترقية 211 مسودة إلى معتمد، إغلاق جميع الـorphans، وملء فجوة الجسر.
@@ -2644,8 +2644,8 @@ Per session instructions, this task produces a SCOPE LIST ONLY. No `dis-` files 
     - إنشاء المفكرين والأعمال والأسئلة المرجعية المؤسسة: ماكس فيبر (`thk-weber`)، تشارلز داروين (`thk-darwin`)، ألكسندر لوريا (`thk-luria`)، غوته (`thk-goethe`)، فريدريش شيلر (`thk-schiller`)، جورج أورويل (`thk-orwell`)، روجر بيكون (`thk-roger-bacon`)، الحسن بن الهيثم (`thk-ibn-al-haytham`)، كتاب «أصل الأنواع» لداروين (`wrk-origin-of-species-darwin`)، سؤال جذور الأخلاق (`que-roots-of-morality-evolution-reason`)، سؤال الترانسهيومانيزم (`que-transhumanism-human-nature`)، وسؤال الحزن المناخي (`que-climate-grief-solastalgia`).
     - تعيين معرفات تسلسلية منتظمة لجميع السياقات من `CTX-0001` إلى `CTX-0118`.
     - التحقق التام من خلو شبكة الأطلس من الروابط الوهمية (**0 Phantom Slugs**).
-    - إعادة بناء قاعدة بيانات الإنتاج الحية [data.json](file:///Users/minamoheb/Desktop/Atlas/data.json) لتصل إلى **6,166 عنصراً معتمداً**.
-    - إعادة بناء واجهة الأطلس الحية المدمجة [index.html](file:///Users/minamoheb/Desktop/Atlas/index.html) بحجم **13.30 ميغابايت (13,305,422 حرفاً)**.
+    - إعادة بناء قاعدة بيانات الإنتاج الحية [data.json](../data.json) لتصل إلى **6,166 عنصراً معتمداً**.
+    - إعادة بناء واجهة الأطلس الحية المدمجة [index.html](../index.html) بحجم **13.30 ميغابايت (13,305,422 حرفاً)**.
 
 - [2026-08-23 13:30] **🚀 توسيع المدارس الضعيفة — الموجة الأولى (275 مسودة + 5 DBT + 5 Psychedelic)**:
   - **الهدف**: ترقية الـ275 مسودة thinker الموجودة + إضافة 10 مفكرين جدد للمدارس الضعيفة (DBT + Psychedelic).

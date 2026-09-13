@@ -27,8 +27,8 @@ gaps:
   - "نص 'حول الانقلاب الصيفي' و'حول الاعتدال الربيعي' فُقدت."
   - "هندسته: قياس ارتفاع الأهرامات بالظلال (قصة موثّقة في ديوجانس اللايرتي)."
   - "حُذفت روابط زينوفانيس (thk-pxenophanes)، وكاليس كرومنا وبياس برييني (thk-ccallicles، thk-bias) لعدم وجود ملفات مفكرين مستقلة بهذه الـids في الأطلس، رغم ذكر زينوفانيس وبياس بالاسم في متن الملف."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): Caston, V. (2021). «Thales», in *Stanford Encyclopedia of Philosophy*: https://plato.stanford.edu/entries/thales/"
 ---
-
 # طاليس الميليسي
 
 فيلسوف وعالم رياضيات وفلك يوناني، وُلد نحو 624 ق.م في ميليتوس (إيونيا، على الساحل الغربي لتركيا الحالية). تُوفي نحو 546 ق.م. أول فيلسوف غربي ومن «الحكماء السبعة» لليونان (Solon of Athens, Chilon of Sparta, Pittacus of Mytilene, Bias of Priene, Cleobulus of Lindos, Periander of Corinth, Thales of Miletus).
@@ -88,4 +88,3 @@ gaps:
 - Freeman, K. (1966). *Ancilla to the Pre-Socratic Philosophers*. Harvard UP.
 - Dicks, D. R. (1970). *Early Greek Astronomy to Aristotle*. Cornell UP.
 - Hussey, E. (2006). *The Presocratics*. Routledge.
-- Caston, V. (2021). «Thales», in *Stanford Encyclopedia of Philosophy*: https://plato.stanford.edu/entries/thales/

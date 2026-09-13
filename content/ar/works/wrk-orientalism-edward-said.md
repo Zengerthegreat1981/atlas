@@ -17,7 +17,7 @@ edges:
 - rel: "belongs_to", target: "sch-postcolonial-philosophy", target_type: "مدرسة"
 related:
 - id: "thk-said", title: "إدوارد سعيد", type: "مفكر"
-- id: "con-orientalism", title: "الاستشراق (Orientalism)", type: "مفهوم"
+- id: "con-orientalism", title: "الاستشراق (Orientalism) — المفهوم", type: "مفهوم"
 - id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"
 - id: "thk-alazm", title: "صادق جلال العظم", type: "مفكر"
 - id: "con-postcolonial-psychoanalysis", title: "التحليل النفسي بعد الكولونيالي", type: "مفهوم"

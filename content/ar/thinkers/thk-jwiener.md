@@ -53,5 +53,5 @@ gaps:
 ## المصادر
 - International Association for Analytical Psychology (IAAP), "In the Spotlight – Jan Wiener": https://iaap.org/in-the-spotlight-jan-wiener/
 - "An Interview with Jan Wiener." Conducted by Linda Carter, *Journal of Analytical Psychology* (2024). https://onlinelibrary.wiley.com/doi/10.1111/1468-5922.13032
-- The Society of Analytical Psychology (SAP), London — صفحة التدريب: https://www.thesap.org.uk/training-and-courses/
+- The Society of Analytical Psychology (SAP), London — صفحة التدريب: https://web.archive.org/web/20260822202825/https://www.thesap.org.uk/training-and-courses/
 - Jan Wiener، صفحة الأعمال على Karnac Books: https://www.karnacbooks.com/author.asp?AID=10882

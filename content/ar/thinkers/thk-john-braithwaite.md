@@ -16,7 +16,6 @@ edges:
 - rel: "belongs_to", target: "br-restorative-justice", target_type: "تيار"
 related:
 - id: "thk-zehr", title: "هوارد زير", type: "مفكر"
-- id: "con-restorative-justice", title: "العدالة التصالحية", type: "مفهوم"
 - id: "br-restorative-justice", title: "العدالة التصالحية", type: "تيار"
 - id: "thk-erikpearson", title: "إريك پيرسون", type: "مفكر"
 - id: "thk-jacqueline-peart", title: "جاكلين پيرت", type: "مفكر"
@@ -30,7 +29,6 @@ gaps:
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: نانسي هارنِس (thk-nancy-harness)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: توم كورنول (thk-tom-cornwell)."
 ---
-
 # جون برايثوايت
 
 عالم إجرام واجتماع أسترالي، أستاذ في الجامعة الوطنية الأسترالية. أهمّ منظّري **العدالة التصالحية**، وصاحب نظرية **العار المُعيد للاندماج** التي أعطت الحركةَ أساسها النظري بعد أن كانت ممارسةً بلا نظرية.

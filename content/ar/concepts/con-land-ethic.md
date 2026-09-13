@@ -14,14 +14,12 @@ edges:
 related:
 - id: "sch-environmental-ethics", title: "فلسفة البيئة / الأخلاق البيئية", type: "مدرسة"
 - id: "thk-leopold", title: "ألدو ليوبولد", type: "مفكر"
-- id: "con-deep-ecology-naess", title: "الإيكولوجيا العميقة والقيمة الذاتية للبيئة (Deep Ecology)", type: "مفهوم"
 - id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
 - id: "dbt-anthropocentrism-vs-biocentrism-ethics", title: "المركزية البشرية مقابل المركزية الحيوية البيئية", type: "جدل"
 gaps:
   - "لم تُراجع بعدُ طبعة Oxford University Press الأصلية (1949)."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
-
 # أخلاق الأرض (Land Ethic)
 
 مفهومٌ محوري في فلسفة ليوبولد: تَوسيع الأخلاق لتشمل **الأرض** والمجتمع البيئي كلّه، لا الإنسان فقط.

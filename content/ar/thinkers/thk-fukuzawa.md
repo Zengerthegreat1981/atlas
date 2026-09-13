@@ -21,8 +21,8 @@ gaps:
   - "رابط مقترح لـ«الليبرالية اليابانية الحديثة» (sch-japanese-liberalism-modern) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "تحقّق (بحث ويب، مؤكَّد): تواريخ النشر الثلاثة صحيحة — *Bunmeiron no Gairyaku* (文明論之概略، 1875)، *Gakumon no Susume* (17 جزءاً، 1872–1876)، ومقالة *Datsu-A Ron* (脱亜論، 1885) — طبقاً لـ Monumenta Nipponica وNew World Encyclopedia وNippon.com."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): Keio University. [”History: Keio University”](https://web.archive.org/web/20260204222129/https://www.keio.ac.jp/en/about/history/index.html); [”Yukichi Fukuzawa”](https://www.keio.ac.jp/en/about/philosophy/fukuzawa-en/)."
 ---
-
 # فوكوزاوا يوكيتشي
 
 مُفكّرٌ ومُربٍّ ياباني، مؤسّس **جامعة كيو** (Keio) عام 1858، وواحد من أهم منظّري **حقبة ميجي** (Meiji Restoration). يُعَدّ أبو الليبرالية اليابانية الحديثة وأحد أهم مُنقَلي الفكر الأوروبي إلى اليابان.
@@ -52,7 +52,6 @@ gaps:
 ## المصادر
 
 - Britannica. ["Fukuzawa Yukichi | Japanese Reformer, Meiji Restoration Author & Educator"](https://www.britannica.com/biography/Fukuzawa-Yukichi).
-- Keio University. ["History: Keio University"](https://www.keio.ac.jp/en//about/history/index.html); ["Yukichi Fukuzawa"](https://www.keio.ac.jp/en/about/philosophy/fukuzawa-en/).
 - Monumenta Nipponica, Sophia University. ["An Outline of a Theory of Civilization"](https://dept.sophia.ac.jp/monumenta/monograph/an-outline-of-a-theory-of-civilization-bunmeiron-no-gairyaku/).
 - Nippon.com. ["Fukuzawa Yukichi: Advocate for Education and Independence"](https://www.nippon.com/en/japan-topics/g00714/fukuzawa-yukichi-advocate-for-education-and-independence.html).
 - New World Encyclopedia. ["Fukuzawa Yukichi"](https://www.newworldencyclopedia.org/entry/Fukuzawa_Yukichi).

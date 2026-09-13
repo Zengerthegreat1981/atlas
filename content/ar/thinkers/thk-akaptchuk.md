@@ -71,7 +71,7 @@ gaps:
 ## المصادر
 
 - Ted Kaptchuk — Wikipedia: https://en.wikipedia.org/wiki/Ted_Kaptchuk
-- "Ted J. Kaptchuk | Biography" (السيرة الرسمية): http://tedkaptchuk.com/biography
+- "Ted J. Kaptchuk | Biography" (السيرة الرسمية): https://web.archive.org/web/20200226014322/http://tedkaptchuk.com:80/biography
 - "Ted J. Kaptchuk" — Traditional Chinese and Western Medicine Symposium, Harvard Medical School: https://tcmsymposium.hms.harvard.edu/people/ted-j-kaptchuk
 - "A Conversation with Professor Ted Kaptchuk, a Key Architect of Modern TCM in the West": https://journals.lww.com/cmc/fulltext/2024/03000/a_conversation_with_professor_ted_kaptchuk,_a_key.2.aspx
 - "Ted Kaptchuk of Harvard Medical School studies placebos" — Harvard Magazine: https://www.harvardmagazine.com/2012/12/the-placebo-phenomenon

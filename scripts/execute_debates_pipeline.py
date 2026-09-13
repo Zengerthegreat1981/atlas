@@ -3,6 +3,9 @@
 Execution Script for Scientific & Clinical Debates Pipeline.
 Writes all 10 debates to content/ar/drafts/debates/ and updates backlog + log + slug index.
 """
+import os as _os
+# جذرُ المستودع يُشتقّ من موضع الملفّ نفسِه — لا مسارٌ مثبَّتٌ لجهازٍ بعينه.
+_ATLAS_ROOT = _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..'))
 
 import os
 import sys
@@ -10,7 +13,7 @@ import subprocess
 import re
 from datetime import datetime
 
-ROOT_DIR = "/Users/minamoheb/Desktop/Atlas"
+ROOT_DIR = _ATLAS_ROOT
 BACKLOG_PATH = os.path.join(ROOT_DIR, "agents_specs/clinical-scientific-debates-backlog.md")
 LOG_PATH = os.path.join(ROOT_DIR, "agents_specs/pipeline-progress-log.md")
 DRAFTS_DEBATES_DIR = os.path.join(ROOT_DIR, "content/ar/drafts/debates")

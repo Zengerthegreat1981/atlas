@@ -17,14 +17,12 @@ related:
 - id: "sch-motivational-interviewing", title: "المقابلة التحفيزية (Motivational Interviewing)", type: "مدرسة"
 - id: "thk-wmiller", title: "ويليام ميلر (William R. Miller)", type: "مفكر"
 - id: "thk-rollnick", title: "ستيفن رولنيك", type: "مفكر"
-- id: "tec-motivational-interviewing", title: "المقابلات الدافعية (MI)", type: "تقنية/تدخل علاجي"
 - id: "con-motivational-spirit", title: "روح المقابلة التحفيزية (MI Spirit)", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الحديث المُثبِّط (Sustain Talk) (con-sustain-talk)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: التدحرج مع المقاومة (con-rolling-with-resistance)"
   - "الفعالية عبر ثقافات مختلفة (مقارنة بين الغربية وغير الغربية) لم تُحسم بعد في الأدبيات."
 ---
-
 # تقنية OARS في المقابلة التحفيزية
 
 الأدوات الأربع الأساسية للمقابلة التحفيزية (Motivational Interviewing) طوّرها ميلر ورولنيك (1991، 2002، 2013): الأسئلة المفتوحة، التأكيد، الإصفاء، التلخيص. OARS أدوات إجرائية تعمل ضمن تقنية المقابلات الدافعية (MI) الأوسع، ولا معنى لاستخدامها بمعزل عن روح المقابلة التحفيزية (MI Spirit) التي تؤطر الموقف الداخلي التعاوني للمعالج تجاه العميل.

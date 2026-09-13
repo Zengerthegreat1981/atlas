@@ -19,9 +19,9 @@ related:
 - id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-emotion-focused-coping", title: "التأقلم المرتكز على الانفعال", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
-- id: "tec-motivational-interviewing", title: "المقابلات الدافعية (MI)", type: "تقنية/تدخل علاجي"
+- id: "sch-motivational-interviewing", title: "المقابلة التحفيزية (Motivational Interviewing)", type: "مدرسة"
 - id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
-- id: "tec-sex-therapy-overview", title: "العلاج الجنسي (Sex Therapy)", type: "تقنية/تدخل علاجي"
+- id: "br-sex-therapy", title: "العلاج الجنسي", type: "تيار"
 gaps:
   - "التفاصيل الدقيقة لمعايير DSM-5-TR (دمج Interest + Arousal في 2013) لم تُراجع من المصدر الأولي."
   - "الفاعلية المقارنة بين Flibanserin و Bremelanotide و العلاج الجنسي غير موثقة بدقة."
@@ -30,7 +30,6 @@ gaps:
   - "التفريق بين انخفاض الرغبة الطبيعي بعد سن اليأس والاضطراب الإكلينيكي غير مشروح."
   - "لم يُراجع من مصدر أولي مباشر بعد."
 ---
-
 # اضطراب الاهتمام/الإثارة الجنسية الأنثوية
 
 اضطراب جنسي عند الإناث يتميز بانخفاض أو غياب مستمر في الاهتمام الجنسي / الأفكار / التخيلات، و/أو ضعف الاستجابة للإثارة الجنسية، و/أو نقص الإحساس الجسدي أثناء الإثارة. في DSM-5-TR تم **دمج اضطراب نقص الرغبة واضطراب الإثارة** في تشخيص واحد (تغيير عن DSM-IV).

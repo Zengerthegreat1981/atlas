@@ -25,8 +25,8 @@ gaps:
   - "علاقته مع أنا فرويد (بعد صراع الزعامة 1933) موثّقة جزئياً."
   - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
   - "**وُحِّد مسارُ التنقّل 2026-09-10:** كان «مدرسة التحليل النفسي» وصار «التحليل النفسي» — لأنّ الجذرَ كان منقسماً بين صيغتين للشيء نفسِه، فيعرض فهرسُ التصفّح موضعين لموضعٍ واحد."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): Wikipedia (Richard Sterba): https://en.wikipedia.org/wiki/Richard_Sterba"
 ---
-
 # ريتشارد سْتيربا
 
 محلِّل نفسي نمساوي–أمريكي، وُلد في 5 مايو 1898 في فيينا، وتُوفي في 2 أكتوبر 1989 في ديترويت. من «المدرسة الفيينية الكلاسيكية» في التحليل النفسي.
@@ -68,6 +68,5 @@ gaps:
 - Sterba, R. (1934). «The Dynamics of the Clinical Analysis», *International Journal of Psycho-Analysis* 15: 179–191.
 - Sterba, R. (1934). «The Fate of the Ego in Analytic Therapy», *International Journal of Psycho-Analysis* 15: 117–126.
 - Sterba, R. (1980). *Reminiscences of a Viennese Psychoanalyst*. Wayne State UP.
-- Wikipedia (Richard Sterba): https://en.wikipedia.org/wiki/Richard_Sterba
 - Geha, R. E. (1981). *On the Legacy of Freud and Sterling*. Yale UP.
 - Lombardi, K. L. (2003). «The Self in the Analyst's Mind: Sterba's Legacy», *Journal of the American Psychoanalytic Association* 51(1): 105–120.

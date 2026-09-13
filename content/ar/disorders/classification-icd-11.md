@@ -1,7 +1,7 @@
 ---
 slug: "classification-icd-11"
 id: "CLS-0002"
-type: "اضطراب/حالة إكلينيكية"
+type: "نظام تصنيف تشخيصي"
 level: "مبتدئ"
 title: "التصنيف الدولي للأمراض، النسخة الحادية عشرة (ICD-11)"
 en: "International Classification of Diseases, 11th Revision (ICD-11)"
@@ -11,7 +11,7 @@ active_end: "مستمر"
 language: "الإنجليزية"
 part: "psychology"
 related:
-- id: "classification-dsm-5-tr", title: "الدليل التشخيصي والإحصائي للاضطرابات النفسية، النسخة الخامسة المنقَّحة (DSM-5-TR)", type: "اضطراب/حالة إكلينيكية"
+- id: "classification-dsm-5-tr", title: "الدليل التشخيصي والإحصائي للاضطرابات النفسية، النسخة الخامسة المنقَّحة (DSM-5-TR)", type: "نظام تصنيف تشخيصي"
 - id: "dis-other-specified-mental", title: "اضطراب نفسي آخر محدد", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-unspecified-mental", title: "اضطراب نفسي غير محدد", type: "اضطراب/حالة إكلينيكية"
 - id: "evt-icd-11-cddi-2018", title: "إطلاق ICD-11 واعتماد التوصيفات الإكلينيكية ومتطلبات التشخيص CDDI", type: "حدث تاريخي"

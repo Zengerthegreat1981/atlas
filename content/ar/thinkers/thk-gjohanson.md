@@ -22,8 +22,9 @@ gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Grace Unfolding* (1991) بترجمة عربية معتمدة."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بات أوغدن (thk-pogden)."
   - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-hakomi` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (0): [Hakomi Mindfulness-Centered Somatic Psychotherapy — W. W. Norton, 2015 (Blackwell's listing)](https://blackwells.co.uk/bookshop/product/Hakomi-Mindfulness-Centered-Somatic-Psychotherapy-by-Halko-Weiss-editor-Gregory-J-Johanson-editor-Lorena-Monda-editor/9780393710724)"
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (0): [Gregory Johanson — Official site](https://gregjohanson.com/about-gregory-johanson/)"
 ---
-
 # غريغوري جوهانسون
 
 معالج نفسي أمريكي، من المساهمين البارزين في هاكومي مع كورتز.
@@ -46,7 +47,5 @@ gaps:
 
 ## المصادر
 
-- [Gregory Johanson — Official site](https://gregjohanson.com/about-gregory-johanson/)
 - [Grace Unfolding — Penguin Random House](https://www.penguinrandomhouse.com/books/87556/grace-unfolding-by-greg-johanson-and-ron-kurtz/)
-- [Hakomi Mindfulness-Centered Somatic Psychotherapy — W. W. Norton, 2015 (Blackwell's listing)](https://blackwells.co.uk/bookshop/product/Hakomi-Mindfulness-Centered-Somatic-Psychotherapy-by-Halko-Weiss-editor-Gregory-J-Johanson-editor-Lorena-Monda-editor/9780393710724)
 - [Hakomi — Wikipedia](https://en.wikipedia.org/wiki/Hakomi)

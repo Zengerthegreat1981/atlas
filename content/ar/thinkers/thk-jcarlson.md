@@ -22,8 +22,8 @@ gaps:
   - "إسهاماته المعاصرة (2010s–2020s) لم تُراجَع بعد."
   - "لا يوجد اقتباس مباشر موثوق من *Adlerian Therapy: Theory and Practice* (2006) بترجمة عربية معتمدة."
   - "**وُحِّد مسارُ التنقّل 2026-09-10:** كان «مدرسة علم النفس الفردي» وصار «علم النفس الفردي» — لأنّ الجذرَ كان منقسماً بين صيغتين للشيء نفسِه، فيعرض فهرسُ التصفّح موضعين لموضعٍ واحد."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): [In Memoriam: Jon D. Carlson, Ed.D., Psy.D. — Adler University](https://web.archive.org/web/20250514111413/https://www.adler.edu/2017/05/08/in-memoriam-jon-d-carlson-ed-d-psy-d/)"
 ---
-
 # جون كارلسون
 
 مستشار نفسي أمريكي، من منظّري الإرشاد الأدلري المعاصر بوصفه منهجاً إرشادياً مستقلاً.
@@ -49,7 +49,6 @@ gaps:
 ## المصادر
 
 - [Jon Douglas Carlson (1945–2017) — American Psychologist / APA PsycNet](https://psycnet.apa.org/record/2018-00750-011)
-- [In Memoriam: Jon D. Carlson, Ed.D., Psy.D. — Adler University](https://www.adler.edu/2017/05/08/in-memoriam-jon-d-carlson-ed-d-psy-d/)
 - [Adlerian Therapy: Theory and Practice — APA PsycNet (نص الكتاب)](https://psycnet.apa.org/fulltext/2005-11931-000-FRM.pdf)
 - [Jon Carlson — Psychotherapy.net (السيرة والفيديوهات التدريبية)](https://www.psychotherapy.net/videos/expert/jon-carlson)
 - [JON CARLSON Obituary — Legacy.com / Chicago Tribune](https://www.legacy.com/us/obituaries/chicagotribune/name/jon-carlson-obituary?id=2800453)

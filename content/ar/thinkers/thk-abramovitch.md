@@ -47,7 +47,7 @@ gaps:
 
 ## المصادر
 
-- [Henry Abramovitch — Tel Aviv University (cris.tau.ac.il)](https://cris.tau.ac.il/en/persons/henry-abramovitch/)
+- [Henry Abramovitch — Tel Aviv University (cris.tau.ac.il)](https://web.archive.org/web/20251013222442/https://cris.tau.ac.il/en/persons/henry-abramovitch)
 - [Henry Abramovitch — New York Center for Jungian Studies](https://nyjungcenter.org/presenter/henry-abramovitch/)
 - [Speaking of Jung – Episode 126: Henry Abramovitch](https://speakingofjung.com/podcast/2023/9/28/episode-126-henry-abramovitch)
 - [Henry Abramovitch — Chiron Publications (author page)](https://www.chironpublications.com/product-category/authors/abramovitch-henry/)

@@ -50,5 +50,5 @@ gaps:
 ## المصادر
 
 - Wikipedia (EN): "Jack Kornfield" — https://en.wikipedia.org/wiki/Jack_Kornfield
-- السيرة الرسمية: https://jackkornfield.com/bio/
+- السيرة الرسمية: https://web.archive.org/web/20260814185605/https://jackkornfield.com/bio/
 - Spirit Rock Meditation Center — صفحة المعلّمين: https://www.spiritrock.org/teachers/jack-kornfield

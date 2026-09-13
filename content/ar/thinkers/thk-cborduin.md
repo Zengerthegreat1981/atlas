@@ -21,7 +21,6 @@ related:
 - id: "thk-pfisher", title: "بيتر فيشر", type: "مفكر"
 - id: "thk-charles-glisson", title: "تشارلز غليسون", type: "مفكر"
 - id: "thk-david-erceg", title: "ديفيد إرسغ-هيرن", type: "مفكر"
-- id: "thk-jgould", title: "[مدخل غير محقَّق — منسوب إلى MST]", type: "مفكر"
 - id: "thk-melissaschaefer", title: "ميليسا شيفر", type: "مفكر"
 - id: "thk-philippe-cunningham", title: "فيليب كَننغهام", type: "مفكر"
 - id: "thk-randystabler", title: "راندي ستابلر", type: "مفكر"
@@ -35,8 +34,8 @@ gaps:
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: فيليب كَننغهام (thk-philippe-cunningham)."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: راندي ستابلر (thk-randystabler)."
   - "رقم 'أكثر من 15 دولة' لنشر MST غير مسند لمصدر أولي محدد؛ حُذف من المتن."
+  - "أُزيل رابطُ `related` إلى `thk-jgould` — الهدفُ ملفٌّ محجورٌ (شخصيةٌ/مدخلٌ غيرُ موثَّق الوجود)، فالرابطُ يقود القارئَ إلى طريقٍ مسدود. يُعاد إن رُفع الحجر."
 ---
-
 # تشارلز بوردوين
 
 عالم نفس أمريكي، أستاذ في قسم علم النفس بجامعة ميزوري (University of Missouri) ومدير مشروع ميزوري للجنوح (Missouri Delinquency Project)، ومن أهم المساهمين في تطوير العلاج متعدد الأنظمة (Multisystemic Therapy, MST) إلى جانب سكوت هِنغلَر، وهو مطوّر أحد تكييفات MST الموجّهة لسلوك الأطفال الجنسي المشكِل (MST-PSB).

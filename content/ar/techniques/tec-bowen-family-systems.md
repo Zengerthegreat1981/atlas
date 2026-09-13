@@ -20,13 +20,12 @@ related:
 - id: "con-multigenerational-transmission", title: "النقل متعدد الأجيال (Multigenerational Transmission Process)", type: "مفهوم"
 - id: "br-general-systems-cybernetics", title: "نظرية الأنساق العامة والسيبرنطيقا", type: "تيار"
 - id: "tec-contextual-family-therapy", title: "العلاج الأسري السياقي متعدد الأجيال", type: "تقنية/تدخل علاجي"
-- id: "tec-structural-family-therapy", title: "العلاج الأسري البنيوي", type: "تقنية/تدخل علاجي"
+- id: "br-structural-family", title: "العلاج الأسري البنيوي (Structural Family Therapy)", type: "تيار"
 gaps:
   - "المفاهيم الثمانية المتشابكة لنظرية بوين (تمايز الذات، التثليث Triangulation، الإسقاط الأسري، الانتقال عبر الأجيال، القطيعة الانفعالية Emotional Cutoff)."
   - "أداة شجرة العائلة الموسعة (Genogram) والعمل مع الفرد كعضو في منظومة أسرية متعددة الأجيال."
   - "لا يوجد ملف أداة موثّق في الأطلس عن مقياس Differentiation of Self Inventory (Skowron & Friedlander, 1998) المستخدم لقياس تمايز الذات إكلينيكياً — طلب slug مؤجَّل."
 ---
-
 # علاج الأنساق الأسرية لبوين والتمايز الذاتي
 
 النظرية النسقية-التطورية الشاملة التي أسسها موراي بوين (Murray Bowen) في جامعة جورجتاون، معتبراً الأسرة «وحدة انفعالية متعددة الأجيال».

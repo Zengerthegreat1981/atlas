@@ -19,7 +19,6 @@ related:
 - id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
 - id: "sch-environmental-ethics", title: "فلسفة البيئة / الأخلاق البيئية", type: "مدرسة"
 - id: "sch-social-ecology", title: "الإيكولوجيا الاجتماعية", type: "مدرسة"
-- id: "con-deep-ecology-naess", title: "الإيكولوجيا العميقة والقيمة الذاتية للبيئة (Deep Ecology)", type: "مفهوم"
 - id: "con-deep-vs-shallow", title: "الإيكولوجيا الضحلة مقابل العميقة (Shallow vs. Deep)", type: "مفهوم"
 gaps:
   - "كتابات Devall اللاحقة في التسعينيات لم تُجمع في كتاب أكاديمي موحد."
@@ -27,7 +26,6 @@ gaps:
   - "علاقته بـSessions في تحرير \"Deep Ecology\" تحتاج إعادة تقييم نقدي."
   - "سنة نشر Clearcut: The Tragedy of Industrial Forestry تتراوح بين 1993 (غلاف ورقي) و1994 (غلاف مقوى) في المصادر."
 ---
-
 # بيل ديفال
 
 عالم اجتماع وأستاذ جامعي أمريكي (جامعة Humboldt State في كاليفورنيا)، يُعدّ من المؤسسين المشاركين لمصطلح "الإيكولوجيا العميقة" مع الفيلسوف النرويجي آرنه نايس. ساهم في تحويل الحركة من بيان فلسفي أكاديمي إلى حركة اجتماعية واعية بيئياً في الساحل الغربي الأمريكي.
@@ -59,6 +57,6 @@ gaps:
 
 - Bill Devall (1938–2009), "HSU Sociologist, Environmentalist Dies in Trinidad", Humboldt NOW / Cal Poly Humboldt — https://now.humboldt.edu/news/hsu-sociologist-environmentalist-dies-in-trinidad
 - "Bill Devall Obituary" (2009), Times-Standard — https://www.legacy.com/us/obituaries/times-standard/name/bill-devall-obituary?id=22622651
-- "Profile: Bill Devall", deepecology.net — https://deepecology.net/posts/profiles/bill-devall/
+- "Profile: Bill Devall", deepecology.net — https://web.archive.org/web/20260516083048/https://deepecology.net/posts/profiles/bill-devall/
 - Devall, B. & Sessions, G., *Deep Ecology: Living as if Nature Mattered* (1985), Gibbs Smith.
 - Devall, B. (ed.), *Clearcut: The Tragedy of Industrial Forestry* (Sierra Club Books / Earth Island Press, 1993/1994).

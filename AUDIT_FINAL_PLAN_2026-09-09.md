@@ -104,7 +104,7 @@
 | حقل `en` يحوي عربية | 14 | `en_field_arabic.txt` |
 | `part: sociology` داخل أطلسٍ ثنائيّ | 3 | `sociology_part.txt` |
 | مفتاحٌ مغلوط `crumbs:` بدل `crumb:` | 1 (`thk-mmithoefer`) | `odd_keys.txt` |
-| بادئاتٌ خارج المعجم: `classification-icd-11`, `classification-dsm-5-tr`, `qst-mind-body-interaction-problem`؛ `con-dream-interpretation-technique` بنوع «تقنية» | 5 | `odd_prefix_or_type.txt` |
+| بادئاتٌ خارج المعجم: `classification-icd-11`, `classification-dsm-5-tr`, `que-mind-body-interaction-problem`؛ `con-dream-interpretation-technique` بنوع «تقنية» | 5 | `odd_prefix_or_type.txt` |
 | جذرُ المسار منقسمٌ بين «مدرسة التحليل النفسي» (210) و«التحليل النفسي» (234)، وكذلك «مدرسة علم النفس الفردي»/«علم النفس الفردي» | 444 | `crumb_roots.txt` |
 | جذرُ مسارٍ عامٌّ «الناس ← فلان» بلا مدرسة (123) و«نقد» (25) | 148 | `generic_crumb_root.txt` |
 | بلا `active_start` (يغيب عن الخطّ الزمني)؛ 204 منها في حقل `dates` سنةٌ صريحةٌ قابلةٌ للاستخراج | 1,171 | — |

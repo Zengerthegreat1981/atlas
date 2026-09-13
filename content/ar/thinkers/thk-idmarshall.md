@@ -48,7 +48,7 @@ gaps:
 ## المصادر
 
 - "Thomas Louis Hanna", *Wikipedia*: https://en.wikipedia.org/wiki/Thomas_Louis_Hanna
-- "Thomas Hanna | Educating Somas": http://www.shropshiresomatics.uk/thomas-hanna
+- "Thomas Hanna | Educating Somas": https://web.archive.org/web/20181230043652/http://www.shropshiresomatics.uk/thomas-hanna/
 - "The History of Somatics - How Hanna Somatics was developed", *Somatic Movement Center*: https://somaticmovementcenter.com/history-of-somatics/
 - "Learn More", *Association For Hanna Somatic Education*: https://www.associationforhannasomaticeducation.com/learn-more
 - "Who is Thomas Hanna in the world of Somatics?", *Essential Somatics*: https://essentialsomatics.com/thomas-hanna-somatics/

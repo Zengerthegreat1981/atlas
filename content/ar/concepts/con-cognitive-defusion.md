@@ -17,7 +17,7 @@ related:
 - id: "con-mindfulness", title: "اليقظة الذهنية (Mindfulness)", type: "مفهوم"
 - id: "tec-act-defusion-leaves-stream", title: "أوراق الشجر على النهر (Leaves on a Stream) في ACT", type: "تقنية/تدخل علاجي"
 - id: "tec-mbsr", title: "برنامج خفض الضغوط القائم على اليقظة الذهنية (MBSR)", type: "تقنية/تدخل علاجي"
-- id: "tec-mbct", title: "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)", type: "تقنية/تدخل علاجي"
+- id: "sch-mbct", title: "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)", type: "مدرسة"
 - id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 - id: "sch-cft", title: "العلاج المتمحور حول التعاطف (CFT)", type: "مدرسة"
 gaps:
@@ -25,7 +25,6 @@ gaps:
   - "الفرق بين Defusion و Mindfulness في الأبحاث الحديثة موثّق لكن غير مفصّل."
   - "نظرية الأطر العلائقية (Relational Frame Theory) مذكورة في المتن بلا slug موثَّق في الأطلس بعد."
 ---
-
 # فصل الأفكار (Cognitive Defusion) في ACT
 
 ## التعريف

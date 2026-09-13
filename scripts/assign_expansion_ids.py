@@ -4,12 +4,15 @@ assign_expansion_ids.py
 Assigns sequential canonical IDs (e.g. CON-1236, MET-0004, QUE-0004, TRM-0004, EXP-0004, CTX-0024, DIA-0029, WRK-0762, DBT-0422, TEC-0341)
 to all newly added nodes with [DRAFT-UNKNOWN].
 """
+import os as _os
+# جذرُ المستودع يُشتقّ من موضع الملفّ نفسِه — لا مسارٌ مثبَّتٌ لجهازٍ بعينه.
+_ATLAS_ROOT = _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..'))
 
 import re
 from pathlib import Path
 from collections import defaultdict
 
-CONTENT_AR = Path('/Users/minamoheb/Desktop/Atlas/content/ar')
+CONTENT_AR = Path(_ATLAS_ROOT + '/content/ar')
 
 # 1. Map folder/type to prefix
 PREFIX_MAP = {

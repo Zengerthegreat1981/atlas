@@ -40,5 +40,5 @@ gaps: []
 - Bosnak, R. (1988). *A Little Course in Dreams*. Shambhala Publications.
 - Bosnak, R. (1996). *Tracks in the Wilderness of Dreaming: Exploring Interior Landscape Through Practical Dreamwork*. Delacorte Press.
 - "Embodied imagination". Wikipedia. https://en.wikipedia.org/wiki/Embodied_imagination
-- "Robert Bosnak - Jungian Psychoanalyst & Teacher". Jung Platform. https://jungplatform.com/teacher/robert-bosnak
+- "Robert Bosnak - Jungian Psychoanalyst & Teacher". Jung Platform. https://web.archive.org/web/20251009233806/https://jungplatform.com/teacher/robert-bosnak
 - Hillman, J. (1979). *The Dream and the Underworld*. Harper & Row.

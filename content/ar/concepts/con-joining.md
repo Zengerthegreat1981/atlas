@@ -16,7 +16,7 @@ edges:
 related:
 - id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
 - id: "thk-sminuchin", title: "سلفادور مينوشين", type: "مفكر"
-- id: "tec-structural-family-therapy", title: "العلاج الأسري البنيوي", type: "تقنية/تدخل علاجي"
+- id: "br-structural-family", title: "العلاج الأسري البنيوي (Structural Family Therapy)", type: "تيار"
 - id: "con-family-structure", title: "البنية الأسرية (Family Structure)", type: "مفهوم"
 - id: "con-boundaries-psychological", title: "الحدود النفسية والعاطفية في العلاقات", type: "مفهوم"
 gaps:

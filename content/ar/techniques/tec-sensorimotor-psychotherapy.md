@@ -19,13 +19,12 @@ related:
 - id: "dis-dissociative-identity", title: "اضطراب الهوية التفارقي", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-functional-neurological-symptom", title: "اضطراب الأعراض العصبية الوظيفية (التحويل)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-dissociative-amnesia", title: "فقدان الذاكرة التفارقي", type: "اضطراب/حالة إكلينيكية"
-- id: "tec-somatic-experiencing", title: "التجربة الجسدية للصدمة (SE)", type: "تقنية/تدخل علاجي"
+- id: "sch-somatic-experiencing", title: "التجربة الجسدية (Somatic Experiencing)", type: "مدرسة"
 - id: "thk-bowlby", title: "جون بولبي", type: "مفكر"
 gaps:
   - "دمج بات أوغدن (Pat Ogden) لنموذج المعالجة من أسفل لأعلى (Bottom-Up Processing) مع نظرية الارتباط وعلم الأعصاب الإدراكي."
   - "العمل على إشارات الجسد الدقيقة، الوضعيات، والحركات الدفاعية المبتورة (Incomplete Defensive Actions) لتحقيق الاكتمال العصبي."
 ---
-
 # العلاج النفسي الحركي الحسي
 
 نموذج علاجي جسدي-نفسي متطور أسسته بات أوغدن، مصمم لعلاج الصدمات المعقدة واضطرابات التعلق النمائية عبر استهداف الجسد كمدخل رئيسي للتغيير النفسي والمعرفي («من أسفل إلى أعلى» Bottom-Up Processing).

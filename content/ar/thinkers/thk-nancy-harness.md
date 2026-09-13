@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-john-braithwaite", title: "جون برايثوايت", type: "مفكر"
 - id: "thk-zehr", title: "هوارد زير", type: "مفكر"
-- id: "con-restorative-justice", title: "العدالة التصالحية", type: "مفهوم"
+- id: "br-restorative-justice", title: "العدالة التصالحية", type: "تيار"
 gaps:
   - "سنة الميلاد غير موثقة في هذا المسوّد."
   - "لا توجد سيرة ذاتية منشورة لـ 'Nancy Harness' في RJOI (Restorative Justice Organization of Indonesia) أو IIRP (International Institute for Restorative Practices) حتى آب 2026."
@@ -25,7 +25,6 @@ gaps:
   - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'RJ Canada' عام."
   - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-restorative-justice` موسومٌ «philosophy» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
-
 # نانسي هارنِس
 
 [هذا العنصر يحتاج مراجعة — الاسم المُسجَّل غير موثَّق في العدالة التصالحية الكندية]

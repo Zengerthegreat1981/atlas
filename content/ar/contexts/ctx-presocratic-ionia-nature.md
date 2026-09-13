@@ -19,6 +19,7 @@ gaps:
   - "لا توجد أي نصوص كاملة ناجية لفلاسفة ميليتوس الثلاثة (طاليس، أنكسمندر، أنكسيمينس)؛ كل ما نعرفه عنهم منقول عبر شواهد متأخرة (خاصة أرسطو وثيوفراسطس وسمبليكيوس)، لذا فإن أي عبارة تُنسب إليهم حرفياً كاقتباس مباشر غير موثوقة تاريخياً وينبغي التعامل معها كإعادة صياغة لاحقة لا كنص أصلي."
   - "مقولة 'التحول من الميثوس إلى اللوغوس' إطار تفسيري حديث (بلغ ذروة صياغته عند فرنسيس كورنفورد وفيلهلم نستله في القرن العشرين)، وقد انتقده باحثون لاحقون (مثل جوفري لويد) بوصفه مبالغة تفصل الفلاسفة الأوائل عن استمرارهم الفعلي مع التصورات الأسطورية والدينية المحيطة بهم."
   - "الربط بـ'العقل العلمي' ونظرية المعرفة الحديثة تأويل فلسفي لاحق، لا ادعاء بأن الميليسيين مارسوا منهجاً تجريبياً بالمعنى المعاصر."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): [Stanford Encyclopedia of Philosophy: The Milesians](https://plato.stanford.edu/entries/thales/)"
 ---
 # سياق إيونيا وميلاد الفلسفة الطبيعية والتحول من الميثوس إلى اللوغوس
 
@@ -42,7 +43,6 @@ gaps:
 
 ## المصادر
 
-- [Stanford Encyclopedia of Philosophy: The Milesians](https://plato.stanford.edu/entries/thales/)
 - [Internet Encyclopedia of Philosophy: The Presocratics](https://iep.utm.edu/presocra/)
 - [Britannica: Pre-Socratic Philosophy](https://www.britannica.com/topic/pre-Socratic-philosophy)
 - [Wikipedia: Anaximander](https://en.wikipedia.org/wiki/Anaximander)

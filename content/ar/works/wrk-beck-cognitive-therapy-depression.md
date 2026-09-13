@@ -19,7 +19,7 @@ related:
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "wrk-beck-cognitive-therapy", title: "العلاج المعرفي والاضطرابات الانفعالية (Cognitive Therapy and the Emotional Disorders)", type: "عمل / كتاب"
 - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
-- id: "con-cognitive-restructuring", title: "إعادة الهيكلة المعرفية (Cognitive Restructuring)", type: "مفهوم"
+- id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 - id: "dis-mdd", title: "اضطراب الاكتئاب الجسيم (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "met-beck-automatic-tapes", title: "الأشرطة التلقائية المسجلة لآرون بيك: استعارة الأفكار التلقائية المشوهة", type: "استعارة/مجاز مؤسِّس"
 - id: "met-cbt-colored-glasses", title: "النظارات الملونة في CBT: استعارة المخططات والتشوهات المعرفية", type: "استعارة/مجاز مؤسِّس"
@@ -28,7 +28,6 @@ gaps:
   - "لا يوجد ملف دراسة في الأطلس لتجربة NIMH TDCRP 1989 (إلكين وآخرون)، فذُكرت في المتن بلا رابط."
   - "لا توجد ملفات مفكرين لراش وشو وإيمري، فحقل author_slug يشير إلى بيك وحده؛ الطلب مسجّل في agents_specs/requests-spark.md."
 ---
-
 # كتاب العلاج المعرفي للاكتئاب لآرون بيك (1979)
 
 كتاب من **أربعة مؤلفين** لا من مؤلف واحد: آرون ت. بيك، وأ. جون راش، وبراين ف. شو، وغاري إيمري، صادر عن **Guilford Press** بنيويورك سنة **1979**. نسبتُه إلى بيك منفرداً خطأ متواتر، ومشاركة راش تحديداً هي حلقة الوصل بين الكتاب والتجارب السريرية المبكرة.

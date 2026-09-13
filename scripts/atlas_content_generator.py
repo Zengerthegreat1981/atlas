@@ -3,11 +3,14 @@
 atlas_content_generator.py
 Clean, robust generator module for Atlas content expansion nodes.
 """
+import os as _os
+# جذرُ المستودع يُشتقّ من موضع الملفّ نفسِه — لا مسارٌ مثبَّتٌ لجهازٍ بعينه.
+_ATLAS_ROOT = _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..'))
 
 import os
 from pathlib import Path
 
-ATLAS_ROOT = Path('/Users/minamoheb/Desktop/Atlas')
+ATLAS_ROOT = Path(_ATLAS_ROOT)
 CONTENT_AR = ATLAS_ROOT / 'content' / 'ar'
 
 def write_node(folder, slug, fm, lede, sections, edges=None, related=None, gaps=None):

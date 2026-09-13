@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
-- id: "tec-mbct", title: "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)", type: "تقنية/تدخل علاجي"
+- id: "sch-mbct", title: "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)", type: "مدرسة"
 - id: "thk-zsegal", title: "زيندل سيغال", type: "مفكر"
 - id: "thk-jteasdale", title: "جون تيزديل", type: "مفكر"
 - id: "thk-mwilliams", title: "مارك ويليامز", type: "مفكر"
@@ -23,7 +23,6 @@ related:
 gaps:
   - "التمييز الدقيق بين اللامركزية المعرفية و«الاستبطان الذهني» (Mindfulness) و«التأمل الميتا-معرفي» (Metacognitive Awareness) يحتاج توثيقاً أكاديمياً."
 ---
-
 # اللامركزية المعرفية
 
 القدرة على ملاحظة الأفكار والمشاعر بوصفها أحداثاً ذهنية عابرة، لا حقائق مطلقة عن الذات والعالم. تُعدّ اللامركزية الهدف الإجرائي المركزي لـ MBCT، والآلية المفترضة لمنع انتكاس الاكتئاب المتكرر.

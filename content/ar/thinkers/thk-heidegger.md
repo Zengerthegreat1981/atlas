@@ -71,7 +71,6 @@ related:
 - id: "thk-jaspers", title: "كارل ياسبرز", type: "مفكر"
 - id: "sch-philosophy-of-technology", title: "فلسفة التكنولوجيا", type: "مدرسة"
 - id: "con-being-toward-death", title: "الكينونة-نحو-الموت", type: "مفهوم"
-- id: "con-dasein-analysis", title: "تحليل الدازاين (Daseinsanalysis)", type: "مفهوم"
 - id: "con-hermeneutic-circle", title: "الدائرة الهرمنيوطيقية (Hermeneutic Circle)", type: "مفهوم"
 - id: "wrk-philosophy-mirror-nature", title: "الفلسفة ومرآة الطبيعة (Philosophy and the Mirror of Nature)", type: "عمل / كتاب"
 - id: "crt-adorno-jargon-authenticity-critique", title: "نقد أدورنو: رطانة الأصالة كأيديولوجيا تخديرية", type: "نقد خارجي موثَّق"
@@ -102,7 +101,6 @@ gaps:
   - "دُمج معه الملف المكرَّر thk-martin-heidegger (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
   - "**رُبط بشقيقه 2026-09-10:** لم يُدمج مع `thk-heidegger-technology` — `thk-heidegger-technology` ملفٌّ موضوعيٌّ عن هايدجر **فيلسوفاً للتكنولوجيا** (محاضرة *Die Frage nach der Technik*، 1953) لا ملفَّ شخصٍ ثانٍ — فلم يُدمج. والأصوبُ أن يكون مفهوماً (`con-`) لا مفكّراً، وهذا مُسجَّلٌ فجوةً لا مُصلَحٌ هنا لأنّ إعادةَ التسمية ممنوعة. فأُضيف رابطٌ متبادلٌ ليرى القارئُ الصياغةَ الأخرى."
 ---
-
 # مارتن هايدجر
 
 أثقل مصدر فلسفي للمدرسة، وأكثرهم مقاومةً لأن يُستعمل هكذا.

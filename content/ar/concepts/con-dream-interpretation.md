@@ -19,7 +19,7 @@ related:
 - id: "thk-vonfranz", title: "ماري-لويز فون فرانز", type: "مفكر"
 - id: "thk-rstein", title: "روبرت شتاين", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
-- id: "con-dream-interpretation-technique", title: "تقنية تفسير الأحلام (Dream Interpretation Technique)", type: "تقنية"
+- id: "con-dream-interpretation-technique", title: "تقنية تفسير الأحلام (Dream Interpretation Technique)", type: "تقنية/تدخل علاجي"
 - id: "con-archetype", title: "النموذج الأصلي (Archetype)", type: "مفهوم"
 - id: "wrk-studien-hysterie", title: "دراسات في الهستيريا", type: "عمل / كتاب"
 - id: "br-jungian", title: "التحليلية اليونغية", type: "تيار"

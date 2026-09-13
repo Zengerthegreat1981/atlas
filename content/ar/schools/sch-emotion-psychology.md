@@ -24,7 +24,7 @@ related:
 - id: "con-sadness", title: "الحزن", type: "مفهوم"
 - id: "con-shame-guilt", title: "الخزي والذنب", type: "مفهوم"
 - id: "con-jealousy-envy", title: "الغيرة والحسد", type: "مفهوم"
-- id: "con-emotional-intelligence", title: "الذكاء العاطفي", type: "مفهوم"
+- id: "con-emotional-intelligence", title: "الذكاء العاطفي — المفهوم", type: "مفهوم"
 - id: "stu-ekman-original-facial", title: "دراسات إكمان الأصلية عن عالمية تعبيرات الوجه", type: "دراسة وبحث"
 - id: "stu-himba-facial", title: "دراسة الهيمبا حول تصنيف تعبيرات الوجه", type: "دراسة وبحث"
 gaps:

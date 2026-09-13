@@ -2,12 +2,15 @@
 """
 Detailed examination of all unverified thinker entries
 """
+import os as _os
+# جذرُ المستودع يُشتقّ من موضع الملفّ نفسِه — لا مسارٌ مثبَّتٌ لجهازٍ بعينه.
+_ATLAS_ROOT = _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..'))
 
 import os
 import glob
 import re
 
-ROOT_DIR = "/Users/minamoheb/Desktop/Atlas"
+ROOT_DIR = _ATLAS_ROOT
 EXISTING_SLUGS_PATH = os.path.join(ROOT_DIR, "content/ar/drafts/EXISTING_SLUGS.md")
 STUDIES_DIR = os.path.join(ROOT_DIR, "content/ar/drafts/studies")
 INSTRUMENTS_DIR = os.path.join(ROOT_DIR, "content/ar/drafts/instruments")

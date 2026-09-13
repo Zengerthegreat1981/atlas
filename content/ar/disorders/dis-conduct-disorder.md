@@ -13,9 +13,9 @@ active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
 related:
-- id: "tec-multisystemic-therapy", title: "العلاج متعدد الأنظمة (MST)", type: "تقنية/تدخل علاجي"
-- id: "tec-functional-family-therapy", title: "العلاج الأسري الوظيفي (FFT)", type: "تقنية/تدخل علاجي"
-- id: "tec-pcit", title: "العلاج التفاعلي بين الوالدين والطفل (PCIT)", type: "تقنية/تدخل علاجي"
+- id: "br-mst", title: "العلاج متعدد الأنظمة (MST)", type: "تيار"
+- id: "br-fft", title: "العلاج الأسري الوظيفي (FFT)", type: "تيار"
+- id: "br-pcit", title: "العلاج بتفاعل الوالد-الطفل (PCIT)", type: "تيار"
 - id: "tec-psychoeducational-family", title: "العلاج الأسري التثقيفي النفسي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-anger-management-techniques", title: "تقنيات إدارة الغضب", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-beh-habit-reversal-training", title: "تدريب عكس العادة", type: "تقنية/تدخل علاجي"
@@ -34,7 +34,6 @@ gaps:
   - "التفريق بين childhood-onset و adolescent-onset في الإنذار غير مشروح."
   - "التداخل مع ADHD و ODD في التشخيص والعلاج غير مغطى بالتفصيل."
 ---
-
 # اضطراب السلوك (Conduct Disorder)
 
 اضطراب في مرحلة الطفولة والمراهقة يتميز بنمط مستمر من السلوك الذي ينتهك حقوق الآخرين أو المعايير الاجتماعية الأساسية: العدوانية تجاه الناس والحيوانات، تدمير الممتلكات، الكذب والسرقة، الانتهاكات الجسيمة للقواعد. يختلف عن ODD في شدة السلوك وطبيعته.

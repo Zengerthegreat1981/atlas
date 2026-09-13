@@ -14,12 +14,11 @@ edges:
 related:
 - id: "sch-philosophy-of-disability", title: "فلسفة الإعاقة", type: "مدرسة"
 - id: "thk-shakespeare", title: "توم شكسبير", type: "مفكر"
-- id: "con-neurodiversity-affirming", title: "الإرشاد المؤيد للتنوع العصبي", type: "مفهوم"
+- id: "br-neurodiversity-affirming", title: "الإرشاد التأكيدي للتنوّع العصبي", type: "تيار"
 gaps:
   - "لم تُراجع بعدُ كتابات Mike Oliver (1976-1990) ولا UPIAS (Union of Physically Impaired Against Segregation, 1976)."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
-
 # النموذج الاجتماعي للإعاقة (Social Model)
 
 مفهومٌ مؤسِّس في فلسفة الإعاقة: الإعاقة ليست قصوراً فردياً، بل **بنية اجتماعية** تَستبعد المُعاقين. تَمييز بين **Impairment** (القصور الجسدي) و**Disability** (الإعاقة كظاهرة اجتماعية).

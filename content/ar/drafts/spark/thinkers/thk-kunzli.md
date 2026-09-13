@@ -17,7 +17,11 @@ edges:
 related:
 - id: "con-meaning", title: "المعنى واللامعنى", type: "مفهوم"
 gaps: []
+superseded_by: "thk-kunzli"   # رُقِّيت هذه المسودةُ ونسختُها المعتمدةُ في content/ar/thinkers/thk-kunzli.md
 ---
+
+> **مسودةٌ مُتجاوَزة.** رُقِّي هذا المدخلُ وصار ملفُّه المعتمدُ `content/ar/thinkers/thk-kunzli.md`.
+> ما هنا نسخةٌ سابقةٌ محفوظةٌ للسجلّ — لا تُحرَّر ولا تُبنى.
 
 # فريتز كونزلي
 

@@ -19,8 +19,8 @@ related:
 - id: "sch-feminism-postcolonial", title: "النسوية ما بعد الاستعمار", type: "مدرسة"
 - id: "sch-cosmopolitanism", title: "الكوزموبوليتية الفلسفية", type: "مدرسة"
 - id: "con-coloniality", title: "الكولونيالية (Coloniality)", type: "مفهوم"
-- id: "con-orientalism", title: "الاستشراق (Orientalism)", type: "مفهوم"
-- id: "wrk-orientalism-said", title: "الاستشراق (Orientalism)", type: "عمل / كتاب"
+- id: "con-orientalism", title: "الاستشراق (Orientalism) — المفهوم", type: "مفهوم"
+- id: "wrk-orientalism-said", title: "الاستشراق (Orientalism) — الكتاب", type: "عمل / كتاب"
 gaps:
   - "**فُرِّغ حقلُ الانتماء 2026-09-08:** كان `belongs_to` يشير إلى `sch-comparative-philosophy` ختماً قالبياً — الفلسفةُ المقارنةُ منهجٌ ومجالٌ مستقلّ، لا مظلّةٌ للفلسفات التطبيقية المعاصرة. وهذه مدرسةُ نِدٍّ أو مظلّةٌ مستقلّة، فبقي الحقلُ فارغاً؛ ولم يُوضَع أبٌ تقريبيٌّ لأنّ أباً خاطئاً أسوأُ من غياب أب."
   - "نصوص Edward Said, Homi Bhabha, Gayatri Spivak, Dipesh Chakrabarty need review."

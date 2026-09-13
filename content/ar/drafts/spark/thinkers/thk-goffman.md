@@ -25,7 +25,11 @@ gaps:
   - "لا توجد بعد في الأطلس ملفات مستقلة لأعمال غوفمان الأخرى (Asylums 1961، Stigma 1963، Frame Analysis 1974) رغم مركزيتها؛ العنوان الوحيد الموجود حالياً هو wrk-goffman-presentation-self."
   - "لا يوجد بعد ملف مفهوم مستقل لـ«إدارة الانطباع» (Impression Management) أو «المنظور الدرامي» (Dramaturgical Perspective)، وهما مفهوماه المركزيان؛ يُسجَّلان في `agents_specs/new-element-requests-S10.md`."
   - "لا يوجد اقتباس مباشر موثَّق بالصفحة والطبعة متاح لي الآن."
+superseded_by: "thk-goffman"   # رُقِّيت هذه المسودةُ ونسختُها المعتمدةُ في content/ar/thinkers/thk-goffman.md
 ---
+
+> **مسودةٌ مُتجاوَزة.** رُقِّي هذا المدخلُ وصار ملفُّه المعتمدُ `content/ar/thinkers/thk-goffman.md`.
+> ما هنا نسخةٌ سابقةٌ محفوظةٌ للسجلّ — لا تُحرَّر ولا تُبنى.
 
 # إرفينغ غوفمان
 

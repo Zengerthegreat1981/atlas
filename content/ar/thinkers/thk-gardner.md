@@ -17,7 +17,7 @@ edges:
 related:
 - id: "sch-cognitive-psychology", title: "علم النفس المعرفي (Cognitive Psychology)", type: "مدرسة"
 - id: "wrk-frames-of-mind", title: "عقول متعددة: نظرية الذكاءات المتعددة", type: "عمل / كتاب"
-- id: "con-emotional-intelligence", title: "الذكاء العاطفي", type: "مفهوم"
+- id: "con-emotional-intelligence", title: "الذكاء العاطفي — المفهوم", type: "مفهوم"
 - id: "dbt-nature-vs-nurture-intelligence-personality", title: "جدل الطبيعة والتنشئة في الذكاء والشخصية", type: "جدل"
 gaps:
   - "أعمالُه اللاحقةُ (*Intelligence Reframed* 1999، و*Five Minds for the Future* 2006، ومشروعُ «العمل الجيّد») لا ملفَّ لأيٍّ منها في الأطلس."

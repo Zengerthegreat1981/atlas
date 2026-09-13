@@ -16,7 +16,6 @@ edges:
 - rel: "belongs_to", target: "br-sex-therapy", target_type: "تيار"
 related:
 - id: "tec-sensate-focus", title: "التركيز الحسي", type: "تقنية/تدخل علاجي"
-- id: "tec-sex-therapy-overview", title: "العلاج الجنسي (Sex Therapy)", type: "تقنية/تدخل علاجي"
 - id: "br-sex-therapy", title: "العلاج الجنسي", type: "تيار"
 gaps:
   - "معدّلات النجاح المبلَّغة في Semans الأصلية (1956) مقابل الدراسات اللاحقة لم تُقارَن في هذا المسودة."

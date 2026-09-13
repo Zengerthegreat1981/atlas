@@ -16,8 +16,6 @@ edges:
 - rel: "belongs_to", target: "br-sport-psychology", target_type: "تيار"
 related:
 - id: "thk-ogilvie", title: "بروس أوكيف", type: "مفكر"
----
-
 gaps:
   - "**حُجر 2026-08-26:** هذا المفكر لا يمكن توثيقه من مصادر أكاديمية. النسخة الأصلية محفوظة في archive."
   - "التفاصيل في agents_specs/quarantine-minimax.md (القسم 2)."

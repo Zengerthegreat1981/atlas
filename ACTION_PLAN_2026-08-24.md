@@ -487,7 +487,7 @@ L4.4 (project plan)         L4.5 (backlog جديد)
 | R4 | Orphan count يتذبذب (5 → 0 → 5) بسبب جلسات أخرى | عالٍ | منخفض | L2.6 تشغيل دوري، ليس لمرة واحدة |
 | R5 | كثافة related ترتفع شكلياً لكن بأسماء خاطئة | متوسط | عالٍ | فحص جودة: كل إضافة related يجب أن يُقرأ سياقه |
 | R6 | خطة التوسع تكتب مفكرين بمواقع خاطئة (part/edges) | متوسط | متوسط | تطبيق `part:` validation script بعد كل دفعة |
-| R7 | Auditor-model لا يجد ملف الخطة | منخفض | عالٍ | هذا الملف محفوظ في `/Users/minamoheb/Desktop/Atlas/ACTION_PLAN_2026-08-24.md` |
+| R7 | Auditor-model لا يجد ملف الخطة | منخفض | عالٍ | هذا الملف محفوظ في `ACTION_PLAN_2026-08-24.md` |
 | R8 | المستخدم ينتقل لمشروع آخر قبل اكتمال L4 | متوسط | منخفض | L4.3-4.6 قابلة للتأجيل، L0-L2 يجب إكمالها |
 | R9 | المدرسة الوجودية وحدها 299 مفكر — ضخامة تخلق تحيز في التوصيات | عالٍ | متوسط | L3.1 يضع cap: لا تُكتب مدرسة جديدة بأكثر من 50 مفكر في هذه الدورة |
 | R10 | أخطاء تاريخية في الملفات تُكتشف بعد البناء | عالٍ | عالٍ | L1.1 قبل أي بناء — الـbuild لازم يمرّ على clean data |
@@ -499,7 +499,7 @@ L4.4 (project plan)         L4.5 (backlog جديد)
 **التشغيل الكامل (من 0 إلى Verification):**
 
 ```bash
-cd /Users/minamoheb/Desktop/Atlas
+cd "$(git rev-parse --show-toplevel)"
 
 # === Baseline verification ===
 python3 scripts/reapply_thinkers_audit.py --apply       # L0.1

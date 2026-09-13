@@ -6,10 +6,13 @@ atlas_network_analysis.py — تحليل شبكة الأطلس (L4.1 + L4.2).
   N1: مصفوفة cross-school (أي مدرستين تتشاركان أي مفاهيم)
   N2: ترتيب الـhubs بناءً على degree centrality
 """
+import os as _os
+# جذرُ المستودع يُشتقّ من موضع الملفّ نفسِه — لا مسارٌ مثبَّتٌ لجهازٍ بعينه.
+_ATLAS_ROOT = _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..'))
 import os, re, sys, json
 from collections import defaultdict, Counter
 
-ROOT = '/Users/minamoheb/Desktop/Atlas'
+ROOT = _ATLAS_ROOT
 AR = os.path.join(ROOT, 'content/ar')
 
 def read(p):

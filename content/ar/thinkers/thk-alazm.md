@@ -53,7 +53,7 @@ gaps:
 
 - [Sadiq Jalal al-Azm — Wikipedia](https://en.wikipedia.org/wiki/Sadiq_Jalal_al-Azm)
 - [صادق جلال العظم — ويكيبيديا العربية](https://ar.wikipedia.org/wiki/%D8%B5%D8%A7%D8%AF%D9%82_%D8%AC%D9%84%D8%A7%D9%84_%D8%A7%D9%84%D8%B9%D8%B8%D9%85)
-- [In Memoriam: Sadiq Jalal al-ʿAzm, 1934–2016](http://www.itamarrabinovich.tau.ac.il/publications/147-in-memoriam-sadiq-jalal-al-azm-19342016.html)
+- [In Memoriam: Sadiq Jalal al-ʿAzm, 1934–2016](https://web.archive.org/web/20240123193159/http://www.itamarrabinovich.tau.ac.il/publications/147-in-memoriam-sadiq-jalal-al-azm-19342016.html)
 - [Prominent Syrian philosopher Sadiq Jalal al-Azm dies — The New Arab](https://www.newarab.com/society/2016/12/13/Prominent-Syrian-philosopher-Sadiq-Jalal-al-Azm-dies)
 - [AUB tribute to Sadiq Jalal al-Azm (PDF)](https://www.aub.edu.lb/communications/media/Documents/april-17/tribute-sadiq-jalal-al-azm-EN.pdf)
 - [فكر صادق جلال العظم في مجلة قلمون — المركز العربي لدراسات سوريا المعاصرة (هارمون)](https://www.harmoon.org/researches/%D9%81%D9%83%D8%B1-%D8%B5%D8%A7%D8%AF%D9%82-%D8%AC%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%B9%D8%B8%D9%85-%D9%81%D9%8A-%D9%85%D8%AC%D9%84%D9%91%D8%A9-%D9%82%D9%84%D9%85%D9%88%D9%86/)

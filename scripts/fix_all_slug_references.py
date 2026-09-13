@@ -3,11 +3,14 @@
 fix_all_slug_references.py
 Maps referenced slugs in related: and edges: to canonical on-disk slugs across Atlas.
 """
+import os as _os
+# جذرُ المستودع يُشتقّ من موضع الملفّ نفسِه — لا مسارٌ مثبَّتٌ لجهازٍ بعينه.
+_ATLAS_ROOT = _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..'))
 
 import re
 from pathlib import Path
 
-CONTENT_AR = Path('/Users/minamoheb/Desktop/Atlas/content/ar')
+CONTENT_AR = Path(_ATLAS_ROOT + '/content/ar')
 
 # Exact mapping from old/referenced slugs to canonical on-disk slugs
 SLUG_REPLACEMENTS = {

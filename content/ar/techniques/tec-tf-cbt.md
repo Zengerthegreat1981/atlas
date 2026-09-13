@@ -18,12 +18,11 @@ evidence_level: "well-established"
 related:
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
-- id: "tec-emdr", title: "إزالة التحسس وإعادة المعالجة بحركات العين (EMDR)", type: "تقنية/تدخل علاجي"
+- id: "sch-emdr", title: "إعادة المعالجة عبر حركات العين وتخفيف الأعراض (EMDR)", type: "مدرسة"
 gaps:
   - "نموذج PRACTICE المعياري لجوديث كوهين وأنتوني مانارينو وإستر دبلينغر (Psychoeducation, Parenting skills, Relaxation, Affective modulation, Cognitive coping, Trauma narrative, In vivo exposure, Conjoint sessions, Enhancing safety)."
   - "لا يوجد ملف مفكر مستقل لجوديث كوهين أو أنتوني مانارينو أو إستر دبلينغر في فهرس الأطلس الحالي (EXISTING_SLUGS.md) — الرابط مؤجل لحين استحداث slug صحيح لهم."
 ---
-
 # العلاج المعرفي السلوكي المرتكز على الصدمة للأطفال (TF-CBT)
 
 البروتوكول المعياري الذهبي الأكثر بحثاً واعتماداً دولياً لعلاج الأطفال والمراهقين المعرضين لصدمات العنف وسوء المعاملة والفقد الصادم، طورته جوديث كوهين، أنتوني مانارينو، وإستر دبلينغر.

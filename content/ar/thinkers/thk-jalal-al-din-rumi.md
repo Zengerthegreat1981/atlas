@@ -55,5 +55,5 @@ gaps:
 
 - [Rumi — Wikipedia](https://en.wikipedia.org/wiki/Rumi)
 - [About Jalal al-Din Rumi — Academy of American Poets](https://poets.org/poet/jalal-al-din-rumi)
-- [Jalal al-Din Rumi — The Poetry Foundation](https://www.poetryfoundation.org/poets/jalal-al-din-rumi)
+- [Jalal al-Din Rumi — The Poetry Foundation](https://web.archive.org/web/20260727235103/https://www.poetryfoundation.org/poets/jalal-al-din-rumi)
 - [The Story of Shams al-Tabrīzī and Rumi — Biruni University](https://www.biruni.edu.tr/en/news/news/the-story-of-shams-al-tabrizi-and-rumi)

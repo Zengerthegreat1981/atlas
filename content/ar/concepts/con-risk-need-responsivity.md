@@ -14,7 +14,7 @@ edges:
 related:
 - id: "br-therapeutic-risk-assessment", title: "تقييم المخاطر العلاجي", type: "تيار"
 - id: "con-relapse-prevention-sexual", title: "منع الانتكاسة الجنسية", type: "مفهوم"
-- id: "con-restorative-justice", title: "العدالة التصالحية", type: "مفهوم"
+- id: "br-restorative-justice", title: "العدالة التصالحية", type: "تيار"
 gaps:
   - "نسبة الإطار الرئيسي إلى Andrews وBonta تستحق توثيقاً (كندي، 1990s) — لا يوجد ملف thk- مطابق لأي منهما، مسجَّل في agents_specs/requests-minimax.md."
 ---

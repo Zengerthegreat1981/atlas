@@ -1,7 +1,7 @@
 ---
 slug: "classification-dsm-5-tr"
 id: "CLS-0001"
-type: "اضطراب/حالة إكلينيكية"
+type: "نظام تصنيف تشخيصي"
 level: "مبتدئ"
 title: "الدليل التشخيصي والإحصائي للاضطرابات النفسية، النسخة الخامسة المنقَّحة (DSM-5-TR)"
 en: "Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR)"
@@ -11,7 +11,7 @@ active_end: "مستمر"
 language: "الإنجليزية"
 part: "psychology"
 related:
-- id: "classification-icd-11", title: "التصنيف الدولي للأمراض، النسخة الحادية عشرة (ICD-11)", type: "اضطراب/حالة إكلينيكية"
+- id: "classification-icd-11", title: "التصنيف الدولي للأمراض، النسخة الحادية عشرة (ICD-11)", type: "نظام تصنيف تشخيصي"
 - id: "dis-other-specified-mental", title: "اضطراب نفسي آخر محدد", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-unspecified-mental", title: "اضطراب نفسي غير محدد", type: "اضطراب/حالة إكلينيكية"
 - id: "evt-dsm-1-publication-1952", title: "نشر الدليل التشخيصي والإحصائي الأول وتوحيد تصنيف الطب النفسي الأمريكي", type: "حدث تاريخي"

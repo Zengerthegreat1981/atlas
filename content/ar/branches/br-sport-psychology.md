@@ -31,7 +31,7 @@ gaps:
 
 - **Bruce Ogilvie** و**Thomas Tutko** (San Fernando Valley State College، 1960s): من أوائل من أسّس علماً نفسياً للرياضيين. كتابهما «Problem Athletes and How to Handle Them» (1966) كان علامة فارقة.
 - **Robert Nideffer** (1970s): نظريات الانتباه في الرياضة.
-- Daniel Gould وLarry Lauer»: أبحاث حديثة على الإرهاق الرياضي.
+- Daniel Gould وLarry Lauer: أبحاث حديثة على الإرهاق الرياضي.
 
 ## الفروع الرئيسية
 

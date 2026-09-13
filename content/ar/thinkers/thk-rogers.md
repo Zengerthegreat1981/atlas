@@ -27,7 +27,7 @@ related:
 - id: "thk-combs", title: "آرثر كومبس", type: "مفكر"
 - id: "con-process-constructivism", title: "النظرية البنائية للعملية (Process Constructivism)", type: "مفهوم"
 - id: "wrk-kelly-personal-constructs", title: "سيكولوجية البنى الشخصية (The Psychology of Personal Constructs)", type: "عمل / كتاب"
-- id: "wrk-rogers-client-centered-1951", title: "العلاج المتمركز حول العميل (Client-Centered Therapy)", type: "عمل / كتاب"
+- id: "wrk-rogers-client-centered-1951", title: "العلاج المتمركز حول العميل — كتاب كارل روجرز (1951)", type: "عمل / كتاب"
 - id: "evt-ahp-founding-1961", title: "تأسيس جمعية علم النفس الإنساني وإطلاق القوة الثالثة", type: "حدث تاريخي"
 - id: "evt-esalen-institute-founding-1962", title: "تأسيس معهد إيسالن وانطلاق حركة الإمكانات البشرية في بيغ سور", type: "حدث تاريخي"
 - id: "dbt-rogers-vs-may-authenticity", title: "أصالة روجرز في مقابل أصالة ماي: المعنى الواحد، الدلالة المختلفة", type: "جدل"

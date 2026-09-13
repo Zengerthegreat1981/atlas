@@ -40,7 +40,7 @@ gaps:
 
 ## المصادر
 
-- MBSR Collaborative, "History of MBSR": https://mbsrcollaborative.com/history-of-mbsr
+- MBSR Collaborative, "History of MBSR": https://web.archive.org/web/20260422084100/https://mbsrcollaborative.com/history-of-mbsr
 - Jon Kabat-Zinn, "About Jon Kabat-Zinn": https://jonkabat-zinn.com/about/jon-kabat-zinn/
 - UMass Memorial Health, "Mindfulness-Based Stress Reduction (MBSR)": https://www.ummhealth.org/services-treatments/center-mindfulness/mindfulness-programs/mbsr
 - Hölzel, B. K. et al. (2010), "Stress reduction correlates with structural changes in the amygdala", Social Cognitive and Affective Neuroscience.

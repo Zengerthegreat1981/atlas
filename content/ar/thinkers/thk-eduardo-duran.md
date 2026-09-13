@@ -45,5 +45,5 @@ gaps:
 
 - [Native American Postcolonial Psychology — Amazon (بيانات النشر)](https://www.amazon.com/Native-American-Postcolonial-Psychology-Eduardo/dp/0791423549)
 - [Healing the Soul Wound: Counseling with American Indians and Other Native People — Amazon](https://www.amazon.com/Healing-Soul-Wound-Multicultural-Foundations/dp/0807746894)
-- [Transgenerational Trauma, Soul Wounding and Effects on Health — محاضرة دوران، معاهد الصحة الهندية الأمريكية (IHS)](https://www.ihs.gov/sites/diabetes/themes/responsive2017/display_objects/documents/media/transcripts/Duran_transcript_508c.pdf)
+- [Transgenerational Trauma, Soul Wounding and Effects on Health — محاضرة دوران، معاهد الصحة الهندية الأمريكية (IHS)](https://web.archive.org/web/20240911104727/https://www.ihs.gov/sites/diabetes/themes/responsive2017/display_objects/documents/media/transcripts/Duran_transcript_508c.pdf)
 - [نبذة سيرة ذاتية — Zen Mountain Monastery](https://zmm.org/retreat-teachers/2164/eduardo-duran/)

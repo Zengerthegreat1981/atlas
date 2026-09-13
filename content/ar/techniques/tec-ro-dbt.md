@@ -16,13 +16,12 @@ edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "thk-tlynch", title: "توماس لينش", type: "مفكر"
-- id: "tec-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "تقنية/تدخل علاجي"
+- id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 - id: "con-overcontrol", title: "الضبط المفرط (Overcontrol)", type: "مفهوم"
 gaps:
   - "التمييز بين اضطرابات ضعف الضبط (Undercontrol كالشخصية الحدية) واضطرابات فرط الضبط (Overcontrol كالقهم العصابي والشخصية الوسواسية) عند توماس لينش (Thomas Lynch)."
   - "ركائز الانفتاح الراديكالي الثلاث: التقبل المرن، الانفتاح على المجهول، والإشارات الاجتماعية الواضحة (Social Signaling)."
 ---
-
 # العلاج الجدلي السلوكي الموجه للضبط المفرط (RO-DBT)
 
 تكييف علاجي ثوري قائم على الأدلة ابتكره توماس لينش (Thomas R. Lynch)، مخصص لاضطرابات «فرط الضبط» (Overcontrolled Disorders) مثل: الاكتئاب المقاوم للعلاج، والقهم العصابي (Anorexia)، واضطراب الشخصية الوسواسية، واضطراب الشخصية التجنبية.

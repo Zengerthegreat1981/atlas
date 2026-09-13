@@ -20,8 +20,8 @@ gaps:
   - "نص أطروحته للدكتوراه في Frankfurt (1986) لم يُقرأ مباشرة."
   - "تفاصيل التتويج بجائزة إيران عام 2006 في كتاب 'The Path to Virtue' غير موثّقة عربياً."
   - "الفصل بين قراءته الفلسفية الكلاسيكية وعلم النفس الأكاديمي الحديث يحتاج تفصيلاً أكبر."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): Islamic Psychology صفحة السيرة: https://www.islamicpsychology.org/fullscreen-page/comp-jkqxkdqr/03783396-9e3a-11e8-a9ff-063f49e9a7e4/0/"
 ---
-
 # ياسين محمد
 
 أستاذ كرسي (Senior Professor) في قسم اللغات الأجنبية بجامعة ويسترن كيب بجنوب أفريقيا، متخصص في الفلسفة الإسلامية وعلم النفس الإسلامي. وُلد في جوهانسبرغ عام 1954، وتلقى تعليمه في كيب تاون وديربان (ماجستير في الدراسات الإسلامية) والرياض (ماجستير في الأصول) وأمستردام ثم فرانكفورت (دكتوراه في الأخلاقيات الإسلامية، 1986).
@@ -50,7 +50,6 @@ gaps:
 
 ## المصادر
 
-- Islamic Psychology صفحة السيرة: https://www.islamicpsychology.org/fullscreen-page/comp-jkqxkdqr/03783396-9e3a-11e8-a9ff-063f49e9a7e4/0/
 - Mohamed, Y. (1996). *Fitrah: The Islamic Concept of Human Nature*. Ta-Ha Publishers.
 - Mohamed, Y. (2006). *The Path to Virtue: The Ethical Philosophy of al-Rāghib al-Iṣfahānī*. ICAS Press.
 - Mohamed, Y. & Haque, A. (eds.) (2009). *Psychology of Personality: Islamic Perspectives*. International Association of Islamic Psychology.

@@ -15,12 +15,11 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-dynamic-couples-family-therapy", target_type: "تيار"
 related:
-- id: "con-dynamic-couple-family", title: "العلاج الديناميكي للأزواج والأسرة", type: "مفهوم"
+- id: "br-dynamic-couples-family-therapy", title: "العلاج الديناميكي للأزواج والأسرة", type: "تيار"
 gaps:
   - "حُذفت روابط related كانت تشاور على ملفات غير موجودة (thk-cwaters، thk-bcarter، thk-mtate، thk-vbellak، con-feminist-family-therapy، con-good-enough-family، dis-child-abuse)."
   - "تفاصيل تعاونها الدقيق مع بيتي كارتر خارج الكتب المذكورة في المصادر تحتاج مراجعة من سيرة أولية."
 ---
-
 # أولغا سيلفرشتاين
 
 معالجة أسرية أمريكية بارزة (1920-2009)، عملت في **مركز آكرمان** (Ackerman Institute for the Family) في نيويورك، واشتُهرت بكتابتها عن **«الأسرة الجيدة»** كمفهوم نقدي في **العلاج الأسري النسوي**.
@@ -42,7 +41,7 @@ gaps:
 
 ## علاقتها بالمفاهيم والمدارس
 
-ترتبط [بالعلاج الديناميكي للأزواج والأسرة](con-dynamic-couple-family) كمفهوم مركزي في عملها.
+ترتبط [بالعلاج الديناميكي للأزواج والأسرة](br-dynamic-couples-family-therapy) كمفهوم مركزي في عملها.
 
 ## أهم أعمالها
 

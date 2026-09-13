@@ -45,5 +45,5 @@ gaps:
 ## المصادر
 
 - James Hollis, Wikipedia: https://en.wikipedia.org/wiki/James_Hollis
-- James Hollis، الملف التعريفي، Jung Platform: https://jungplatform.com/james-hollis
+- James Hollis، الملف التعريفي، Jung Platform: https://web.archive.org/web/20260616183954/https://jungplatform.com/james-hollis
 - James Hollis، الملف التعريفي، Houston Seminar: https://houstonseminar.org/hs-speakers/james-hollis/

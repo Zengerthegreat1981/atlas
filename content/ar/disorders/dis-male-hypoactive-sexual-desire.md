@@ -13,15 +13,15 @@ active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
 related:
-- id: "classification-dsm-5-tr", title: "الدليل التشخيصي والإحصائي للاضطرابات النفسية، النسخة الخامسة المنقَّحة (DSM-5-TR)", type: "اضطراب/حالة إكلينيكية"
-- id: "classification-icd-11", title: "التصنيف الدولي للأمراض، النسخة الحادية عشرة (ICD-11)", type: "اضطراب/حالة إكلينيكية"
+- id: "classification-dsm-5-tr", title: "الدليل التشخيصي والإحصائي للاضطرابات النفسية، النسخة الخامسة المنقَّحة (DSM-5-TR)", type: "نظام تصنيف تشخيصي"
+- id: "classification-icd-11", title: "التصنيف الدولي للأمراض، النسخة الحادية عشرة (ICD-11)", type: "نظام تصنيف تشخيصي"
 - id: "tec-sensate-focus", title: "التركيز الحسي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-mind-self-monitoring", title: "المراقبة الذاتية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-emo-emotion-focused-coping", title: "التأقلم المرتكز على الانفعال", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-reframing", title: "إعادة الصياغة/التأطير المعرفي", type: "تقنية/تدخل علاجي"
 - id: "syn-depressive-symptoms", title: "الأعراض الاكتئابية", type: "متلازمة"
-- id: "tec-sex-therapy-overview", title: "العلاج الجنسي (Sex Therapy)", type: "تقنية/تدخل علاجي"
+- id: "br-sex-therapy", title: "العلاج الجنسي", type: "تيار"
 - id: "con-will-to-live-schopenhauer", title: "إرادة الحياة العمياء (Will to Live)", type: "مفهوم"
 gaps:
   - "التفاصيل الدقيقة لمعايير DSM-5-TR لم تُراجع من المصدر الأولي."
@@ -31,7 +31,6 @@ gaps:
   - "مفهوم الـ responsive desire vs spontaneous desire عند الذكور غير مغطى."
   - "لم يُراجع من مصدر أولي مباشر بعد."
 ---
-
 # اضطراب الرغبة الجنسية المنخفضة عند الذكور
 
 اضطراب جنسي عند الذكور يتميز بانخفاض أو غياب مستمر في الأفكار / التخيلات / الرغبة الجنسية، مما يُسبّب ضائقة شخصية كبيرة أو مشاكل في العلاقة. يجب أن تكون الحالة **مزمنة** (6+ أشهر) وألا تُفسَّر بحالة طبية أو دوائية أو اضطراب آخر.

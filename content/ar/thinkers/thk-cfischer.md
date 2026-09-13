@@ -22,8 +22,8 @@ gaps:
   - "**حُذف رابطٌ مُقحَم 2026-09-08:** كان `related` يحمل `con-authenticity` («الأصالة») حشواً من دفعةٍ قالبية، ولا يُذكَر المفهومُ في متن هذا الملف ولا صلةَ له بموضوعه."
   - "لا يوجد اقتباس مباشر موثوق من *Individualizing Psychological Assessment* (1985) بترجمة عربية معتمدة."
   - "نموذجها في 'التقييم النفسي التعاوني والتشاركي' (Collaborative Assessment) يحتاج ربطاً بالتقنيات الإكلينيكية."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (0): [On the Way to Collaborative Psychological Assessment: The Selected Works of Constance T. Fischer — Barnes & Noble](https://valsec.barnesandnoble.com/w/on-the-way-to-collaborative-psychological-assessment-constance-t-fischer/1128277371?ean=9781138310964)"
 ---
-
 # كونستانس فيشر
 
 عالمة نفس إكلينيكية وظاهراتية أمريكية، أستاذة في جامعة دوكين ومبتكرة نموذج «التقييم النفسي الفينومينولوجي والتعاوني/التشاركي» (Collaborative / Individualized Psychological Assessment).
@@ -47,5 +47,4 @@ gaps:
 
 - [Constance T. Fischer — Wikipedia](https://en.wikipedia.org/wiki/Constance_T._Fischer)
 - [Individualizing Psychological Assessment: A Collaborative and Therapeutic Approach — Amazon](https://www.amazon.com/Individualizing-Psychological-Assessment-Collaborative-Therapeutic/dp/0805815864)
-- [On the Way to Collaborative Psychological Assessment: The Selected Works of Constance T. Fischer — Barnes & Noble](https://valsec.barnesandnoble.com/w/on-the-way-to-collaborative-psychological-assessment-constance-t-fischer/1128277371?ean=9781138310964)
 - [Constance Fischer — ResearchGate profile, Duquesne University](https://www.researchgate.net/profile/Constance-Fischer)

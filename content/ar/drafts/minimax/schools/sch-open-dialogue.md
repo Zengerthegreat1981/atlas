@@ -80,4 +80,3 @@ gaps:
 - "Mary Olson on Dialogic Practice and the Open Dialogue Method." Psychology Today، مارس 2016.
 - "Olson: A History of the Open Dialogue Approach in the US." NYAPRS e-News.
 - Institute For Dialogic Practice — صفحة "About the Institute" (dialogicpractice.net).
-</content>

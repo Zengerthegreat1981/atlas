@@ -22,8 +22,8 @@ gaps:
   - "توفي جيم لور في 20 أبريل 2026 عن عمر 83 عاماً؛ التفاصيل السيرية المتأخرة (بعد 2020) لم تُراجع بالكامل من مصادر أولية."
   - "لا يوجد اقتباس مباشر موثوق من *The Power of Full Engagement* (2003) بترجمة عربية معتمدة."
   - "تصحيح: الاسم السابق «LGE Performance System (Loehr-Greenberg-Esfahani)» ومؤلّف كتاب Leading with Character «كوهين» كانا تلفيقاً؛ الصواب: LGE Performance Systems (تأسست مع جاك غروبل)، والمؤلفة المشاركة هي كارين كيني (Caren Kenney)."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (0): Leading with Character, Waterstones (بيانات النشر) — https://www.waterstones.com/book/leading-with-character/james-e-loehr/caren-kenney/9781119781646"
 ---
-
 # جيم لور
 
 عالم نفس أداء أمريكي (1943 – 2026)، من دنفر بولاية كولورادو، ومن أهم مؤسسي **«علم نفس الأداء»** (Performance Psychology) في الرياضة والأعمال. تُوفي في 20 أبريل 2026 عن عمر 83 عاماً.
@@ -51,4 +51,3 @@ gaps:
 - James Loehr, Who Showed Athletes the Power of the Mind, Dies at 83 — https://dnyuz.com/2026/05/06/james-loehr-who-showed-athletes-the-power-of-the-mind-dies-at-83/
 - Jim Loehr — الصفحة الرسمية — https://www.jim-loehr.com/about
 - The Making of a Corporate Athlete, Harvard Business Review (2001) — https://hbr.org/2001/01/the-making-of-a-corporate-athlete
-- Leading with Character, Waterstones (بيانات النشر) — https://www.waterstones.com/book/leading-with-character/james-e-loehr/caren-kenney/9781119781646

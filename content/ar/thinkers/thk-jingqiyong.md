@@ -47,4 +47,4 @@ gaps:
 
 - Chang, D. F. et al., "Let Nature Take Its Course: Cultural Adaptation and Pilot Test of Taoist Cognitive Therapy for Chinese American Immigrants With Generalized Anxiety Disorder", *Frontiers in Psychology*, 2020. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.547852/full
 - "Chinese Taoist Cognitive Therapy for Symptoms of Depression and Anxiety in Adults in China: A Systematic Review and Meta-Analysis", *Frontiers in Psychology* / PMC, 2020. https://pmc.ncbi.nlm.nih.gov/articles/PMC7192096/
-- Doris F. Chang, Ph.D. — صفحة موجزة عن "Taoist Cognitive Therapy" ونشأتها مع Zhang Yalin وYang Desen. http://dorisfchang.com/taoist-cognitive-therapy
+- Doris F. Chang, Ph.D. — صفحة موجزة عن "Taoist Cognitive Therapy" ونشأتها مع Zhang Yalin وYang Desen. https://web.archive.org/web/20250714222110/http://dorisfchang.com/taoist-cognitive-therapy

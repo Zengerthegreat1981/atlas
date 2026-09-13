@@ -53,7 +53,7 @@ gaps:
 
 ## المصادر
 
-- Yehuda, R. et al., "Holocaust Exposure Induced Intergenerational Effects on FKBP5 Methylation," *Biological Psychiatry* (2016)، ملخص متاح عبر Mount Sinai Newsroom: https://www.mountsinai.org/about/newsroom/2015/the-guardian-study-of-holocaust-survivors-finds-trauma-passed-on-to-childrens-genes
+- Yehuda, R. et al., "Holocaust Exposure Induced Intergenerational Effects on FKBP5 Methylation," *Biological Psychiatry* (2016)، ملخص متاح عبر Mount Sinai Newsroom: https://web.archive.org/web/20260520080315/https://www.mountsinai.org/about/newsroom/2015/the-guardian-study-of-holocaust-survivors-finds-trauma-passed-on-to-childrens-genes
 - "Intergenerational Transmission of Stress in Humans," *Neuropsychopharmacology* (2016): https://www.nature.com/articles/npp2015247
 - "Public reception of putative epigenetic mechanisms in the transgenerational effects of trauma," *Environmental Epigenetics*, Oxford Academic (2018): https://academic.oup.com/eep/article/4/2/dvy018/5055599
 - Dias, B.G. & Ressler, K.J., "Parental olfactory experience influences behavior and neural structure in subsequent generations," *Nature Neuroscience* (2013) — النموذج الحيواني المرجعي.

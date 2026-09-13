@@ -13,7 +13,7 @@ active_start: 1998
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "tec-contemplative-psychotherapy", target_type: "تقنية/تدخل علاجي"
+- rel: "belongs_to", target: "sch-contemplative-psychotherapy", target_type: "مدرسة"
 related:
 - id: "thk-jkornfield", title: "جاك كورنفيلد", type: "مفكر"
 - id: "thk-ctrungpa", title: "تشوغيام ترونغبا", type: "مفكر"
@@ -22,7 +22,6 @@ gaps:
   - "لا يوجد اقتباس مباشر موثَّق بمصدر وسنة لها في هذا الملف."
   - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-contemplative-psychotherapy` موسومٌ «psychology» — فوُحِّد على وسم الأب."
 ---
-
 # تارا براتش
 
 معلّمة تأمّل وعالمة نفس إكلينيكية أمريكية، وُلدت عام 1953. أسّست عام 1998 **مركز الاستبصار التأملي لواشنطن** (Insight Meditation Community of Washington, IMCW)، ودمجت بين الـ Mindfulness والعلاج البوذي والعلاج النفسي الغربي.

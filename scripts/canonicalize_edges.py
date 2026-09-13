@@ -1,8 +1,11 @@
+import os as _os
+# جذرُ المستودع يُشتقّ من موضع الملفّ نفسِه — لا مسارٌ مثبَّتٌ لجهازٍ بعينه.
+_ATLAS_ROOT = _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..'))
 import os
 import re
 import json
 
-base = "/Users/minamoheb/Desktop/Atlas/content/ar"
+base = _ATLAS_ROOT + "/content/ar"
 slug_set = set()
 slug_to_title = {}
 title_to_slug = {}

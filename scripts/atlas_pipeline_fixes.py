@@ -15,11 +15,14 @@ atlas_pipeline_fixes.py — إصلاحات بنيوية شاملة للدفعة 
   python3 scripts/atlas_pipeline_fixes.py --dry-run
   python3 scripts/atlas_pipeline_fixes.py --apply
 """
+import os as _os
+# جذرُ المستودع يُشتقّ من موضع الملفّ نفسِه — لا مسارٌ مثبَّتٌ لجهازٍ بعينه.
+_ATLAS_ROOT = _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..'))
 import os, re, sys, json, shutil
 from collections import Counter
 from datetime import date
 
-ROOT = '/Users/minamoheb/Desktop/Atlas'
+ROOT = _ATLAS_ROOT
 CONTENT_AR = os.path.join(ROOT, 'content/ar')
 
 # ----------------- helpers -----------------

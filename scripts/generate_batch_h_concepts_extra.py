@@ -2,9 +2,12 @@
 """
 Batch H: 60 Additional Core Philosophical Concepts to reach > 555 Concepts.
 """
+import os as _os
+# جذرُ المستودع يُشتقّ من موضع الملفّ نفسِه — لا مسارٌ مثبَّتٌ لجهازٍ بعينه.
+_ATLAS_ROOT = _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..'))
 import os
 
-BASE_DIR = "/Users/minamoheb/Desktop/Atlas"
+BASE_DIR = _ATLAS_ROOT
 
 def write_draft(subfolder, slug, frontmatter_dict, body_text):
     out_dir = os.path.join(BASE_DIR, "content", "ar", "drafts", subfolder)

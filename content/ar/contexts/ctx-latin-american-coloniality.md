@@ -18,6 +18,7 @@ related:
 - id: "ctx-latin-american-positivism-order", title: "الوضعية في أمريكا اللاتينية وشعار «النظام والتقدم» في بناء الدول", type: "سياق/تقليد"
 gaps:
   - "**أُصلحت صياغةُ 1 فجوةً ممتدّةٍ على أسطر 2026-09-10:** كانت قيمةُ الفجوة تمتدُّ على أكثرَ من سطرٍ ماديّ، والبناءُ يقرأ الفجواتَ **سطراً سطراً** ويشترط أن ينتهي السطرُ بعلامة الاقتباس — فكان يُسقط الأسطرَ الأولى ويعرض شذرةً من منتصف الجملة، أو يُسقط الفجوةَ كلَّها. فجُمعت كلُّ فجوةٍ في سطرٍ واحد."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): Stanford Encyclopedia of Philosophy, ”Enrique Dussel”: https://plato.stanford.edu/entries/dussel/"
  - "تصحيح تاريخي مهم: صياغة كويخانو الدقيقة لمفهوم «استعمارية السلطة» (coloniality of power) تعود إلى أوائل تسعينيات القرن العشرين لا السبعينيات؛ الخلط شائع لأن تيارات فلسفة التحرير (دوسيل) وتربوية المقهورين (فريري) نشأت فعلاً في أواخر الستينيات وأوائل السبعينيات، لكن مدرسة «الحداثة/الاستعمارية» (modernity/coloniality) بصيغتها المتكاملة مع مينيولو تبلورت لاحقاً في التسعينيات وأوائل الألفية الثالثة. جرى تصحيح الصياغة أدناه. - "الربط بعلم النفس والطب النفسي في القسم الأخير عام ومرسل؛ الأدق ربطه تحديداً بأدبيات إنتاء الاستعمار من علم النفس (decolonial psychology) وبإرث فرانز فانون (الذي لا يظهر بعد في حقل related رغم أنه المرجع الأهم لهذا الانتقال من الفلسفة إلى الطب النفسي)."
 ---
 # السياق الاستعماري لأمريكا اللاتينية وفلسفة التحرير
@@ -39,6 +40,5 @@ gaps:
 ## المصادر
 
 - Global Social Theory, "Quijano, Aníbal": https://globalsocialtheory.org/thinkers/quijano-anibal/
-- Duke University Press, "Aníbal Quijano: Foundational Essays on the Coloniality of Power": https://www.dukeupress.edu/anibal-quijano
-- Stanford Encyclopedia of Philosophy, "Enrique Dussel": https://plato.stanford.edu/entries/dussel/
+- Duke University Press, "Aníbal Quijano: Foundational Essays on the Coloniality of Power": https://web.archive.org/web/20240806072554/https://www.dukeupress.edu/anibal-quijano
 - Wikipedia, "Paulo Freire": https://en.wikipedia.org/wiki/Paulo_Freire

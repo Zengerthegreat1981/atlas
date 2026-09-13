@@ -30,7 +30,11 @@ def bad(name, n, examples=(), fatal=True, info=""):
     if fatal: FAILURES.append(name)
 
 def deprecated(n):
+    """مهجورٌ بقصد: إحالةٌ أو محجور. كان التمييزُ بالعنوان وحدَه، فيفوته المحجورُ
+    الذي بقي عنوانُه اسمَ صاحبِه ووَسمُه في `status` — وهو الأصحُّ والأصرح."""
     t = n.get("title") or ""
+    if n.get("status") == "quarantined" or n.get("redirect_to"):
+        return True
     return ("حجر" in t and "انظر" in t) or ("إحالة" in t)
 
 def main():
@@ -60,8 +64,13 @@ def main():
             if e[1] in slugs: inb[e[1]].add(s)
     orph = [s for s in d if not inb[s]]
     live = [s for s in orph if not deprecated(d[s])]
-    pct = 100 * (len(d) - len(orph)) / len(d)
-    ok("نسبةُ العقد التي يُشار إليها", info=f"{pct:.2f}%  (معزولة {len(orph)}، منها {len(orph)-len(live)} مهجورةٌ بقصد)")
+    # النسبةُ تُحسب على العقد الحيّة وحدَها: الإحالةُ التي لا يشير إليها شيءٌ ليست
+    # عطلاً — هي موجودةٌ أصلاً لتلتقط الروابطَ القديمة. وكان حسابُها على المجموع
+    # يُنزل النسبةَ كلَّما دُمج ملفّان، فيُفشِل الفحصَ على عملٍ صحيح.
+    nlive = sum(1 for s in d if not deprecated(d[s]))
+    pct = 100 * (nlive - len(live)) / nlive
+    ok("نسبةُ العقد الحيّة التي يُشار إليها",
+       info=f"{pct:.2f}%  (معزولةٌ حيّة {len(live)} من {nlive}؛ و{len(orph)-len(live)} إحالةً/محجوراً لا يشير إليها شيءٌ بقصد)")
     if pct < 97: bad("نسبةُ الوصول تراجعت", len(live), live)
     withnothing = [s for s in live if not d[s].get("related") and not d[s].get("edges")]
     ok("المعزولاتُ الحيّة كلُّها بلا بياناتٍ علائقية", info=f"{len(withnothing)}/{len(live)}") \
@@ -163,7 +172,9 @@ def main():
         for k, p in pats.items():
             if re.search(p, t, re.M): hits[k].append(b)
         if t.count("**") % 2: unbal.append(b)
-        if "## المصادر" not in t: nosrc.append(b)
+        # لا `in`: جملةٌ داخل `gaps` تقول «لا يوجد قسم ## المصادر» كانت تُرضي الفحصَ
+        # فيَخضرّ وهو كاذب. الشرطُ عنوانُ قسمٍ في أوّل السطر لا ذكرٌ في أيِّ موضع.
+        if not re.search(r"^##\s*المصادر", t, re.M): nosrc.append(b)
     for k, v in hits.items():
         bad(k, len(v), v) if v else ok(f"لا {k}")
     bad("`**` غيرُ متوازن", len(unbal), unbal) if unbal else ok("`**` متوازنٌ في كلِّ ملفّ")
@@ -309,7 +320,12 @@ def main():
         t = re.sub(r'[ً-ْٰٖ-ٟ]', '', t or '')
         t = re.sub(r'[إأآٱ]', 'ا', t); t = re.sub(r'[ىي]', 'ي', t)
         t = t.replace('ة', 'ه').replace('ـ', '')
-        t = re.sub(r'\s*\(.*?\)', '', t); t = re.sub(r'\s*—.*$', '', t)
+        t = re.sub(r'\s*\(.*?\)', '', t)
+        # كان يُسقط كلَّ ما بعد «—» لأنّ الإحالاتِ توسَم به. لكنّ اللاحقةَ قد تكون
+        # تمييزاً تحريرياً حقيقياً («التحليل النفسي — الانفصال والاحتفاظ»، و«الاستشراق
+        # — الكتاب» مقابل «— المفهوم»)، فإسقاطُها يجعل عنصرين متمايزين يبدوان واحداً.
+        # فلا يُسقط إلا ما يَسِم إحالةً أو حجراً.
+        t = re.sub(r'\s*—\s*(?:إحالة|حجر)\b.*$', '', t)
         return re.sub(r'[^\w\s]', '', re.sub(r'\s+', ' ', t)).strip()
     def _ne(t):
         t = _ud.normalize("NFKD", t or "").encode("ascii", "ignore").decode().lower()
@@ -335,22 +351,47 @@ def main():
         ("tec-act-sac-perspective-taking", "tec-cbt-int-perspective-taking"),
         ("tec-cbt-int-self-validation", "tec-dbt-er-self-validation"),
     }
-    grp = collections.defaultdict(set)
+    # المقارنةُ كانت تُجمَّع بمفتاحٍ أوّلُه بادئةُ الـslug، فلا تقارن عقدتين من بادئتين
+    # مختلفتين أبداً — ومرّت من تحتها 16 مجموعةً بالعنوان العربيِّ نفسِه (مفهومٌ وتيّارٌ
+    # باسمٍ واحد، كتابٌ ومفهومٌ باسمٍ واحد…) يراها القارئُ سطرين متطابقين في الفهرس.
+    # صارت المقارنةُ على العنوان وحدَه عابرةً للبادئات.
+    grp_ar, grp_en = collections.defaultdict(set), collections.defaultdict(set)
     for s, n in d.items():
         if _redirect(s): continue
-        pre = s.split("-")[0]
         a, e2 = _na(n.get("title")), _ne(n.get("en"))
-        if a: grp[(pre, "ar", a)].add(s)
+        if a: grp_ar[a].add(s)
         if e2 and len(e2) > 3 and "unverified" not in e2 and "merged" not in e2:
-            grp[(pre, "en", e2)].add(s)
-    dups = set()
-    for v in grp.values():
-        v = sorted(v)
-        for i in range(len(v)):
-            for j in range(i + 1, len(v)):
-                if (v[i], v[j]) not in ALLOW_DUP: dups.add((v[i], v[j]))
-    bad("عقدتان حيّتان بالعنوان/الاسم نفسِه", len(dups), [f"{a} = {b}" for a, b in sorted(dups)]) \
-        if dups else ok("لا تكرارَ حيّاً غيرَ مُعلَن", info=f"{len(ALLOW_DUP)} زوجاً مُستثنىً بقرارٍ مكتوب")
+            grp_en[e2].add(s)
+
+    def _pairs(grp):
+        out = set()
+        for v in grp.values():
+            v = sorted(v)
+            for i in range(len(v)):
+                for j in range(i + 1, len(v)):
+                    if (v[i], v[j]) not in ALLOW_DUP: out.add((v[i], v[j]))
+        return out
+
+    # داخلَ البادئة الواحدة: تكرارٌ لا مسوِّغَ له — يُفشِل كما كان.
+    # عبرَ البادئات: سؤالٌ تحريريٌّ لا خللٌ آليّ (مدرسةٌ وتقنيتُها، كتابٌ ومفهومٌ يحمل
+    # اسمَه). يُعرَض ولا يُفشِل، والقائمةُ في `DUPLICATES_CROSS_PREFIX_2026-09-13.md`.
+    allp = _pairs(grp_ar)
+    dups = {(a, b) for a, b in allp if a.split("-")[0] == b.split("-")[0]}
+    cross = allp - dups
+    bad("عقدتان حيّتان بالعنوان نفسِه داخلَ البادئة", len(dups), [f"{a} = {b}" for a, b in sorted(dups)]) \
+        if dups else ok("لا عنوانَ مكرَّراً داخلَ بادئةٍ واحدة",
+                        info=f"{len(ALLOW_DUP)} زوجاً مُستثنىً بقرارٍ مكتوب")
+    bad("عقدتان بالعنوان نفسِه عبرَ بادئتين", len(cross), [f"{a} = {b}" for a, b in sorted(cross)],
+        fatal=False, info="مُيِّزت عناوينُها بلاحقة النوع للقارئ؛ قرارُ الدمج تحريريّ") \
+        if cross else ok("لا عنوانَ مكرَّراً عبرَ البادئات")
+
+    # الاسمُ الإنجليزيُّ يُشترك فيه بحقٍّ بين مدرسةٍ وتقنيتها، وبين كتابٍ ومفهومٍ يحمل
+    # اسمَه — فهو مؤشِّرُ ازدواجٍ للمراجعة لا خللٌ يُفشِل البناء.
+    dupe = _pairs(grp_en) - allp
+    bad("عقدتان حيّتان بالاسم الإنجليزيِّ نفسِه", len(dupe),
+        [f"{a} = {b}" for a, b in sorted(dupe)], fatal=False,
+        info="مرشَّحاتُ ازدواجٍ للمراجعة التحريرية — لا يُفشِل البناء") \
+        if dupe else ok("لا اسمَ إنجليزياً مكرَّراً بين عقدتين حيّتين")
 
     print("\n[14] الإحالاتُ والحجر")
     nort = [s for s in d if _redirect(s) and not d[s].get("redirect_to")
@@ -367,13 +408,16 @@ def main():
         else ok("لا رابطَ حيٍّ ينتهي إلى إحالة")
 
     print("\n[15] البادئاتُ والحقولُ المُعجمية")
+    # "classification": نظاما ICD-11 وDSM-5-TR — صنفٌ ثالثٌ مُعلَنٌ بسلسلة معرِّفاتٍ
+    # خاصّةٍ به (CLS-)، وليسا اضطرابين رغم سكناهما مجلّدَ الاضطرابات.
     PRE = ("thk", "con", "sch", "br", "tec", "wrk", "rel", "dbt", "que", "met", "trm",
-           "ins", "stu", "evt", "exp", "crt", "dia", "syn", "dis", "ctx", "axm", "axi")
+           "ins", "stu", "evt", "exp", "crt", "dia", "syn", "dis", "ctx", "axm", "axi",
+           "classification")
     op = [s for s in d if s.split("-")[0] not in PRE]
     bad("بادئةٌ خارجَ المعجم", len(op), op, fatal=False) if op else ok("كلُّ بادئةٍ من المعجم")
     lv = [f"{s}: «{d[s].get('level')}»" for s in d if d[s].get("level") not in ("مبتدئ", "متوسط", "متقدم")]
     bad("`level` خارجَ المعجم", len(lv), lv) if lv else ok("`level` من المعجم في كلِّ عقدة")
-    pt = [f"{s}: «{d[s].get('part')}»" for s in d if d[s].get("part") not in ("philosophy", "psychology", "bridge")]
+    pt = [f"{s}: «{d[s].get('part')}»" for s in d if d[s].get("part") not in ("philosophy", "psychology", "bridge", "sociology")]
     bad("`part` خارجَ المعجم", len(pt), pt, fatal=False) if pt else ok("`part` من المعجم في كلِّ عقدة")
     ena = [s for s in d if re.search(r'[؀-ۿ]', d[s].get("en") or "")]
     bad("حقلُ `en` فيه عربية", len(ena), ena) if ena else ok("لا عربيةَ في حقل `en`")

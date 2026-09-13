@@ -57,4 +57,3 @@ gaps:
 - Hume, David. *An Enquiry Concerning Human Understanding* (1748).
 - Kant, Immanuel. *Kritik der reinen Vernunft* (1781).
 - Gettier, Edmund L. "Is Justified True Belief Knowledge?" *Analysis* 23, no. 6 (1963): 121–123.
-</content>

@@ -15,7 +15,6 @@ edges:
 related:
 - id: "thk-rollnick", title: "ستيفن رولنيك", type: "مفكر"
 - id: "thk-wmiller", title: "ويليام ميلر (William R. Miller)", type: "مفكر"
-- id: "tec-motivational-interviewing", title: "المقابلات الدافعية (MI)", type: "تقنية/تدخل علاجي"
 - id: "sch-motivational-interviewing", title: "المقابلة التحفيزية (Motivational Interviewing)", type: "مدرسة"
 - id: "con-motivational-interviewing-oars", title: "تقنية OARS في المقابلة التحفيزية", type: "مفهوم"
 - id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
@@ -24,7 +23,6 @@ gaps:
   - "لا يوجد اقتباس مباشر موثوق من ميلر/رولنيك بعد."
   - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-humanistic` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
-
 # روح المقابلة التحفيزية (MI Spirit)
 
 الإطار القيمي والأساسي لـ «المقابلة التحفيزية» (Motivational Interviewing)، يصف الموقف الداخلي للمعالج الذي يتبنى روحاً تعاونية، مستحضرة، مقبولة، ومتعاطفة، بدلاً من المواجهة والإقناع.

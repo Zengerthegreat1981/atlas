@@ -14,15 +14,14 @@ edges:
 related:
 - id: "br-liberation-psychology", title: "علم نفس التحرير (مارتين-بارو)", type: "تيار"
 - id: "con-intersectionality", title: "التقاطعية", type: "مفهوم"
-- id: "con-critical-liberation-therapy", title: "العلاج النقدي-التحرري", type: "مفهوم"
-- id: "con-intersectional-feminism", title: "علم النفس النسوي التقاطعي", type: "مفهوم"
+- id: "br-critical-liberation-therapy", title: "العلاج النقدي-التحرري", type: "تيار"
+- id: "br-intersectional-feminist", title: "علم النفس النسوي التقاطعي", type: "تيار"
 gaps:
   - "نسبة الإطار إلى Dalrymple وBurke الكنديين تستحق توثيقاً من مصدر أولي."
   - "لا يوجد اقتباس موثّق منسوب لمؤسسي الإطار."
   - "رابط edges.belongs_to صُحّح من slug غير موجود (br-anti-oppressive) إلى br-liberation-psychology، وهو التيار الذي يذكر هذا الملف فعلاً (tec-anti-oppressive-practice) في related الخاص به."
   - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-liberation-psychology` موسومٌ «philosophy» — فوُحِّد على وسم الأب."
 ---
-
 # الممارسة المناهضة للقمع
 
 إطار عمل في علم النفس الاجتماعي والخدمة الاجتماعية (تحديداً في السياق الكندي والبريطاني) يدعو إلى تحليل ومعالجة بنى القمع الاجتماعية (الطبقية، العرقية، الجندرية) داخل وخلال الممارسة السريرية، بدلاً من التركيز على الفرد بمعزل عن سياقه.

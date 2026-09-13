@@ -16,7 +16,7 @@ related:
 - id: "dis-aspergers-disorder-historical", title: "اضطراب أسبيرجر التاريخي (Asperger's Disorder / Syndrome)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-retts-disorder-historical", title: "اضطراب ريت التاريخي (Rett's Disorder)", type: "اضطراب/حالة إكلينيكية"
 - id: "crt-dsm-cultural-bias", title: "التحيز الثقافي في DSM", type: "نقد خارجي موثَّق"
-- id: "classification-dsm-5-tr", title: "الدليل التشخيصي والإحصائي للاضطرابات النفسية، النسخة الخامسة المنقَّحة (DSM-5-TR)", type: "اضطراب/حالة إكلينيكية"
+- id: "classification-dsm-5-tr", title: "الدليل التشخيصي والإحصائي للاضطرابات النفسية، النسخة الخامسة المنقَّحة (DSM-5-TR)", type: "نظام تصنيف تشخيصي"
 - id: "dis-gender-identity-disorder-historical", title: "اضطراب الهوية الجنسية التاريخي (Gender Identity Disorder)", type: "اضطراب/حالة إكلينيكية"
 gaps:
   - "**صُحِّح مسار التنقّل 2026-09-08:** كان الجزء الأول «المدرسة الوجودية» ختماً قالبياً، واستُبدل بـ«تاريخ علم النفس والطب النفسي» — حدثٌ في تاريخ الحقل لا صلةَ له بالوجودية."

@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "علم النفس الإيجابي ← الناس ← نيخيل خانا"
 edges:
-- rel: "belongs_to", target: "br-positive-psychology", target_type: "تيار"
+- rel: "belongs_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
 - id: "thk-fvanderzee", title: "فرانك فان دير زي", type: "مفكر"
 - id: "thk-csikszentmihalyi", title: "ميهاي تشيكسنتميهاي", type: "مفكر"
@@ -24,7 +24,6 @@ gaps:
   - "رابط thk-apannekeil (ألكساندر بانيكيل) حُذف — لا ملف مستقل له في الأطلس بعد رغم ذكره في المتن."
   - "edges.belongs_to كان يشير إلى br-positive-psychology-india غير الموجود؛ صُحح إلى br-positive-psychology (المدرسة الأم) لعدم وجود مصادر موثّقة كافية لإفراد «علم نفس إيجابي هندي» كتيار مستقل قائم بذاته (بخلاف br-islamic-positive-psychology الموثَّق بمصادر مستقلة). لو تأكدت لاحقاً مصادر لحركة هندية مستقلة موثّقة، يُطلب slug جديد."
 ---
-
 # نيخيل خانا
 
 معالج ومدرِّب هندي في علم النفس الإيجابي، أحد المساهمين في نشر الحركة في جنوب شرق آسيا. أسّس مركزاً للتدريب في **بنغالور**، ويربط في عمله بين علم النفس الإيجابي (Positive Psychology) والفلسفة الهندوسية (الهندوسية).

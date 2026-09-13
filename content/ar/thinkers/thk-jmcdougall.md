@@ -53,5 +53,5 @@ gaps:
 ## المصادر
 
 - Wikipedia (EN): "Joyce McDougall" — https://en.wikipedia.org/wiki/Joyce_McDougall
-- The Sigourney Award — سيرة موجزة: https://www.sigourneyaward.org/recipientlist/2019/1/29/joyce-mcdougall-2001
+- The Sigourney Award — سيرة موجزة: https://web.archive.org/web/20230312103424/https://www.sigourneyaward.org/recipientlist/2019/1/29/joyce-mcdougall-2001
 - International Journal of Psychoanalysis, نعي "Joyce McDougall, 1920–2011": https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-8315.12008

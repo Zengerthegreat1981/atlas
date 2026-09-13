@@ -21,7 +21,11 @@ related:
 gaps:
   - "لا يوجد ملف thk- مستقل لريتشارد شويدر (Richard Shweder) ولا لمايكل كول (Michael Cole) في الأطلس حتى تاريخ كتابة هذا الملف — كلاهما مؤسّس مباشر للحقل، ذُكرا بالاسم في المتن دون رابط تجنباً لاختراع slug. سُجِّلا كطلب في requests-minimax.md."
   - "تأسيس مختبر Laboratory of Comparative Human Cognition الذي أداره مايكل كول (جامعة كاليفورنيا-سان دييغو) مرجعه أدبيات ثانوية للحقل، لم يُراجع من وثيقة تأسيسية أولية."
+superseded_by: "sch-cultural-psychology"   # رُقِّيت هذه المسودةُ ونسختُها المعتمدةُ في content/ar/schools/sch-cultural-psychology.md
 ---
+
+> **مسودةٌ مُتجاوَزة.** رُقِّي هذا المدخلُ وصار ملفُّه المعتمدُ `content/ar/schools/sch-cultural-psychology.md`.
+> ما هنا نسخةٌ سابقةٌ محفوظةٌ للسجلّ — لا تُحرَّر ولا تُبنى.
 
 # علم النفس الثقافي (Cultural Psychology)
 

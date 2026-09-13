@@ -47,4 +47,4 @@ gaps:
 - مركز Waypoint للصحة النفسية، السيرة الرسمية: [waypointcentre.ca/personnel/dr-howard-barbaree](https://www.waypointcentre.ca/personnel/dr-howard-barbaree)
 - ResearchGate، الملف الأكاديمي: [researchgate.net/profile/Howard-Barbaree](https://www.researchgate.net/profile/Howard-Barbaree)
 - Google Scholar، سجل الاستشهادات: [scholar.google.com/citations?user=55K2WjsAAAAJ](https://scholar.google.com/citations?hl=en&user=55K2WjsAAAAJ)
-- Guilford Press، صفحة المؤلف: [cms.guilford.com/author/Howard-E-Barbaree](https://www.cms.guilford.com/author/Howard-E-Barbaree)
+- Guilford Press، صفحة المؤلف: [cms.guilford.com/author/Howard-E-Barbaree](https://web.archive.org/web/20250325113651/https://www.cms.guilford.com/author/Howard-E-Barbaree)

@@ -14,7 +14,6 @@ active_end: "مستمر"
 part: "philosophy"
 edges: []
 related:
-- id: "br-gestalt-therapy", title: "علاج الجشطالت", type: "تيار"
 - id: "sch-gestalt-therapy", title: "علاج الجشطالت (Gestalt Therapy)", type: "مدرسة"
 - id: "thk-jzinker", title: "جوزيف زِنكِر", type: "مفكر"
 - id: "thk-gnaranjo", title: "كلاوديو نارانخو", type: "مفكر"
@@ -22,7 +21,6 @@ gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "لم يُعثر على اقتباس مباشر مُسنَد بمصدر وسنة لـرويلا فرانك."
 ---
-
 # رويلا فرانك
 
 معالجة نفسية جسدانية أمريكية، طوّرت مقاربة تجمع بين تحليل الجسد الحيوي وعلاج الجشطالت. عملت في المركز الجسدي في نيو روشيل، ودرّبت أجيالاً من المعالجين على "التطوير الجسدي للجشطالت" (Somatic Developmental Approach to Gestalt).

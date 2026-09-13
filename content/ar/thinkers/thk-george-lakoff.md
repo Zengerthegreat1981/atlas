@@ -20,8 +20,8 @@ related:
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Metaphors We Live By* (1980) بترجمة عربية معتمدة."
   - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«اللسانيات المعرفية وعلم النفس السياسي» في content/ar/schools أو branches."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): [George Lakoff — University of California, Berkeley, Department of Linguistics](https://linguistics.berkeley.edu/people/emeriti/george-lakoff/)"
 ---
-
 # جورج لاكوف
 
 أستاذ فخري للعلوم اللغوية والإدراكية بجامعة كاليفورنيا في بيركلي؛ رائد نظرية 'الاستعارة المعرفية المجسدة' وصاحب الأثر الهائل في صياغة مفهوم 'التأطير اللغوي' في كتابه «لا تفكر في فيل».
@@ -48,7 +48,6 @@ gaps:
 
 ## المصادر
 
-- [George Lakoff — University of California, Berkeley, Department of Linguistics](https://linguistics.berkeley.edu/people/emeriti/george-lakoff/)
 - [Metaphors We Live By — Wikipedia](https://en.wikipedia.org/wiki/Metaphors_We_Live_By)
 - [Metaphors We Live By — University of Chicago Press, 1980](https://press.uchicago.edu/ucp/books/book/chicago/M/bo3637992.html)
 - [George Lakoff — Wikipedia](https://en.wikipedia.org/wiki/George_Lakoff)

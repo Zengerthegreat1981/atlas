@@ -21,8 +21,8 @@ gaps:
   - "حُذف رابطان related كانا يشاوران على ملفات غير موجودة (thk-jchodorow، thk-cjung)."
   - "سنة الميلاد الدقيقة غير منشورة في السيرة الذاتية المتاحة."
   - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-authentic-movement` موسومٌ «psychology» — فوُحِّد على وسم الأب."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (0): Tributes page: https://www.patriziapallaro.com/"
 ---
-
 # باتريتسيا بالارو
 
 محلِّلة نفسية يونغية (Jungian Analyst) من أصول إيطالية، تعمل في الولايات المتحدة. درست في **C.G. Jung Institute of New York**. من أبرز الكتّاب والباحثين في «الحركة الأصيلة» (Authentic Movement) ومؤسِّسة «Authentic Movement Center».
@@ -54,4 +54,3 @@ gaps:
 - Pallaro, P. (ed.) (1999). *Authentic Movement: Essays by Mary Starks Whitehouse, Janet Adler, and Joan Chodorow*. Jessica Kingsley.
 - Pallaro, P. (2007). «Authentic Movement in the Therapeutic Setting», in Pallaro (ed.), *Authentic Movement: Moving the Body, Moving the Self, Moving the Mind*. Jessica Kingsley.
 - Pallaro, P. (2007). «The Body and Self in Movement: An Italian Perspective», *Body, Movement and Dance in Psychotherapy* 2(1): 23–34.
-- Tributes page: https://www.patriziapallaro.com/

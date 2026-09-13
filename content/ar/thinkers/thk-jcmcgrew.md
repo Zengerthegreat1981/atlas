@@ -42,6 +42,6 @@ gaps:
 
 ## المصادر
 
-- [John McGrew, Ph.D. — ACT Center of Indiana, IUPUI](https://act.psych.iupui.edu/people/faculty/mcgrew-john.html)
+- [John McGrew, Ph.D. — ACT Center of Indiana, IUPUI](https://web.archive.org/web/20240604042616/https://act.psych.iupui.edu/people/faculty/mcgrew-john.html)
 - [John McGrew — ResearchGate profile, IUPUI](https://www.researchgate.net/profile/John-Mcgrew)
 - [McGrew & Bond, "Critical ingredients of assertive community treatment: Judgments of the experts" — Springer](https://link.springer.com/article/10.1007/BF02518752)

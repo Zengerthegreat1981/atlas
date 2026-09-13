@@ -13,7 +13,7 @@ active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
 related:
-- id: "tec-motivational-interviewing", title: "المقابلات الدافعية (MI)", type: "تقنية/تدخل علاجي"
+- id: "sch-motivational-interviewing", title: "المقابلة التحفيزية (Motivational Interviewing)", type: "مدرسة"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-relapse-prevention", title: "منع الانتكاس (RP)", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-decisional-balance-sheet", title: "ميزان القرار (الإيجابيات والسلبيات)", type: "تقنية/تدخل علاجي"
@@ -24,7 +24,6 @@ gaps:
   - "الفرق بين Z-drugs (zolpidem, zopiclone) والبنزوديازيبينات في ICD-11 لم يُقارن نصاً بنص."
   - "إمكانية استخدام فلومازينيل في الانسحاب الحاد لم تُغطَّ نصاً."
 ---
-
 # اضطراب استخدام المهدئات / المنومات
 
 اضطراب يتمحور حول استخدام البنزوديازيبينات، أو z-drugs (zolpidem، zopiclone)، أو مواد مهدئة مُشابهة (barbiturates، meprobamate) بنمط يؤدي إلى اعتماد جسدي، وتحمّل، وانسحاب مُهدِّد للحياة عند الإيقاف المفاجئ. يتميّز بـ"الاستخدام السلمي الظاهري" مع اعتمادية خفيّة طويلة الأمد، خاصة عند كبار السن.

@@ -24,8 +24,8 @@ gaps:
   - "إحالة معلَّقة أُزيلت: «تريزا كابلان (أختها)» (thk-tcaplan) — لا ملف بهذا الـslug في الأطلس، فلا يصحّ إبقاؤه رابطاً. المدخل ناقص حتى يُكتب هدفه."
   - "حُذف رابط related كان يشاور على ملف غير موجود (thk-sphy)."
   - "قائمة كاملة لإسهاماتها في APA خارج ما هو مذكور في المتن تحتاج مراجعة من سيرة أولية."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): Wikipedia (Paula Caplan): https://en.wikipedia.org/wiki/Paula_J._Caplan"
 ---
-
 # بولا جوان كابلان
 
 عالمة نفس إكلينيكية أمريكية-كندية، وُلدت في 25 يوليو 1947 في شيكاغو. تُوفيت في 23 يونيو 2021 في أونتاريو (كندا). أستاذة في **جامعة تورنتو** (2005–2017). من أهم النقاد النسويين لعلم النفس الإكلينيكي الأمريكي.
@@ -76,7 +76,6 @@ gaps:
 
 ## المصادر
 
-- Wikipedia (Paula Caplan): https://en.wikipedia.org/wiki/Paula_J._Caplan
 - Caplan, P. J. (1995). *They Say You're Crazy*. Doubleday.
 - Caplan, P. J. (1997). *The Battle of the Last P*. Women's Press.
 - Caplan, P. J. (2011). *The War on Human Nature*. Rowman & Littlefield.

@@ -86,7 +86,7 @@ gaps:
 
 - **«Clavis Universalis: or, a New Inquiry after Truth»** (1713)
 - **«The Logos»** (1732)
-- **ملاحظات على «مونتاجيو» (Montaigne)» و«باسكال»** (مفقودة).
+- **ملاحظات على «مونتاجيو» (Montaigne) و«باسكال»** (مفقودة).
 
 ## اقتباس مختار
 
@@ -99,5 +99,5 @@ gaps:
 - Arthur Collier, *Wikipedia*: https://en.wikipedia.org/wiki/Arthur_Collier
 - "Arthur Collier", *Encyclopedia.com*: https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/collier-arthur-1680-1732
 - "Arthur Collier", *Encyclopædia Britannica*: https://www.britannica.com/biography/Arthur-Collier
-- *Dictionary of National Biography, 1885-1900*, "Collier, Arthur": https://en.wikisource.org/wiki/Collier,_Arthur_(DNB00)
+- *Dictionary of National Biography, 1885-1900*, "Collier, Arthur": https://web.archive.org/web/20070330222059/http://en.wikisource.org:80/wiki/Collier,_Arthur_(DNB00)
 - Arthur Collier, *Clavis Universalis* (1713), نسخة رقمية: https://archive.org/details/clavisuniversali00colliala

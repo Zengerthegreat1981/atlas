@@ -49,4 +49,4 @@ gaps:
 ## المصادر
 
 - "Philip M. Bromberg (1931–2020). Trauma, dissociation, and the multiple self", *International Journal of Psychoanalysis* / Taylor & Francis: https://www.tandfonline.com/doi/full/10.1080/00207578.2020.1821962
-- "Philip M. Bromberg, PhD 1931-2020", ISSTD News: https://news.isst-d.org/philip-m-bromberg-phd-1931-2020/
+- "Philip M. Bromberg, PhD 1931-2020", ISSTD News: https://web.archive.org/web/20260315144042/https://news.isst-d.org/philip-m-bromberg-phd-1931-2020/

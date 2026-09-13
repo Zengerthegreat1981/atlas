@@ -7048,7 +7048,7 @@
 ### تقنية (1)
 - `con-dream-interpretation-technique` — تقنية تفسير الأحلام (Dream Interpretation Technique) — ✅ معتمد
 ### سؤال توليدي (129)
-- `qst-mind-body-interaction-problem` — كيف يؤثر غير المادي في المادي؟ معضلة التفاعل بين النفس والجسد — ✅ معتمد
+- `que-mind-body-interaction-problem` — كيف يؤثر غير المادي في المادي؟ معضلة التفاعل بين النفس والجسد — ✅ معتمد
 - `que-algorithmic-governance-justice` — هل يمكن للذكاء الاصطناعي إصدار أحكام قضائية خالية من الانحياز البشري؟ — ✅ معتمد
 - `que-animal-consciousness-and-rights` — هل تمتلك الكائنات غير البشرية وعياً ذاتياً وحقوقاً أخلاقية ملزمة؟ — ✅ معتمد
 - `que-anthropic-principle-fine-tuning` — لماذا خُلق الكون مضبوطاً بدقة متناهية تسمح بنشوء الحياة الواعية؟ — ✅ معتمد
@@ -7113,7 +7113,7 @@
 - `que-meaning-in-indifferent-universe` — كيف ينشأ المعنى في كون طبيعي غير مبالٍ؟ — ✅ معتمد
 - `que-meritocracy-tyranny-sandel` — هل الاستحقاق الفردي عدالة حقيقية أم غطرسة تولد الظلم واحتقار الخاسرين؟ — ✅ معتمد
 - `que-mimetic-desire-girard` — هل رغباتنا أصيلة تنبع من ذواتنا أم مستعارة بالمحاكاة؟ — ✅ معتمد
-- `que-mind-body-interaction` — كيف يؤثر الفكر غير المادي في الجسد المادي؟ (حجر — انظر qst-mind-body-interaction-problem) — ✅ معتمد
+- `que-mind-body-interaction` — كيف يؤثر الفكر غير المادي في الجسد المادي؟ (حجر — انظر que-mind-body-interaction-problem) — ✅ معتمد
 - `que-mind-uploading-identity` — إذا رُفعت خريطة الدماغ العصبية على حاسوب فهل يبقى الفرد هو ذاته؟ — ✅ معتمد
 - `que-moral-relativism-vs-absolutism` — هل القيم الأخلاقية موضوعية ومطلقة أم نتاج ثقافي نسبي؟ — ✅ معتمد
 - `que-narcissism-healthy-vs-pathological` — أين ينتهي حب الذات والتقدير الصحي ويبدأ النرجسية الاستغلالية المرضية؟ — ✅ معتمد

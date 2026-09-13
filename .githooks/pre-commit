@@ -1,0 +1,19 @@
+#!/bin/sh
+# فحصُ سلامةٍ قبلَ كلِّ التزام. كانت الفحوصُ تُشغَّل يدوياً فقط، فلا شيءَ يمنع
+# دخولَ خللٍ في دفعةٍ لا يتذكّر صاحبُها تشغيلَها.
+#
+# للتفعيل مرّةً واحدةً في نسخةٍ جديدة:   git config core.hooksPath .githooks
+# ولتخطّيه في التزامٍ بعينه:              git commit --no-verify
+
+set -e
+ROOT=$(git rev-parse --show-toplevel)
+cd "$ROOT"
+
+CHANGED=$(git diff --cached --name-only --diff-filter=ACM -- 'content/ar/*.md' 'content/ar/**/*.md')
+[ -z "$CHANGED" ] && exit 0
+
+echo "→ فحصُ سلامة المحتوى على الملفات المرحَّلة…"
+# shellcheck disable=SC2086
+python3 scripts/check_content_integrity.py $CHANGED || {
+  echo "✗ فحصُ السلامة فشل — أصلِح ما سبق، أو مرِّر --no-verify بمسؤوليتك."; exit 1; }
+echo "✓ سليم."

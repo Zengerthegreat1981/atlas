@@ -15,13 +15,12 @@ related:
 - id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "sch-behaviorism", title: "السلوكية (Behaviorism)", type: "مدرسة"
 - id: "sch-systemic-family", title: "العلاج الأسري والنظامي (Systemic/Family Therapy)", type: "مدرسة"
-- id: "con-sensory-integration", title: "التكامل الحسي (نظرية عيرز)", type: "مفهوم"
+- id: "br-sensory-integration", title: "التكامل الحسي", type: "تيار"
 - id: "con-social-model-disability", title: "النموذج الاجتماعي للإعاقة (Social Model)", type: "مفهوم"
 gaps:
   - "**صُحِّحت حلقةٌ ذاتية 2026-09-08:** كان `belongs_to` يشير إلى `con-id-psychotherapy` — أي إلى الملفّ نفسِه، وهي حلقةٌ مغلقةٌ لا معنى لها، أصلُها اختلاطُ بادئةٍ في الـslug. ونُقل إلى `br-psychotherapy-intellectual-disability`: التيّارُ المقابلُ موجودٌ في الأطلس."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
 ---
-
 # العلاج النفسي للإعاقات الذهنية
 
 مجال في علم النفس الإكلينيكي يطبّق تقنيات العلاج النفسي على الأشخاص ذوي الإعاقة الذهنية. يواجَه تاريخياً بتهميش في الأطر السريرية بسبب "التشخيص المزدوج" (الإعاقة الذهنية مع اضطرابات نفسية أخرى).

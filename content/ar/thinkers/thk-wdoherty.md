@@ -11,17 +11,17 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2011
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-discernment-counseling", target_type: "تيار"
 related:
-- id: "con-discernment-counseling", title: "الاستشارة التمييزية (Discernment Counseling)", type: "مفهوم"
+- id: "br-discernment-counseling", title: "الإرشاد التمييزي (Discernment Counseling)", type: "تيار"
 - id: "thk-stevenharris-dc", title: "ستيفن هاريس", type: "مفكر"
 gaps:
   - "سنة ميلاده الدقيقة (1952 هنا تقريبية) تحتاج توثيقاً من مصدر أولي."
   - "روابط سابقة لأربعة أسماء (بيل ماثيوز، جينيفر شواب، كاثي لورنسو، تيموثي كلانتون) أُزيلت من related لعدم توثيق صلتهم المباشرة بتأسيس Discernment Counseling في المصادر المتاحة، رغم وجود ملفاتهم في الأطلس."
+  - "**صُحِّح `part` 2026-09-13:** كان «philosophy» وأبوه `br-discernment-counseling` صار موسوماً «psychology» بعد دمجه — والإرشادُ التمييزيُّ تدخّلٌ زوجيٌّ إكلينيكيّ. فوُحِّد الوسمُ على الأب."
 ---
-
 # بيل دوهرتي
 
 عالم نفس أسري وأستاذ جامعي أمريكي، مؤسس **Discernment Counseling** (الاستشارة التمييزية) عام 2011 في جامعة مينيسوتا، كعلاج قصير للأزواج في حالة تردد بين البقاء والانفصال.

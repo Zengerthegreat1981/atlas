@@ -29,8 +29,8 @@ gaps:
   - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
   - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («فنزويلا · مواليد 1953») فاستُخرجت: 1953."
   - "**وُحِّد مسارُ التنقّل 2026-09-10:** كان «مدرسة التحليل النفسي» وصار «التحليل النفسي» — لأنّ الجذرَ كان منقسماً بين صيغتين للشيء نفسِه، فيعرض فهرسُ التصفّح موضعين لموضعٍ واحد."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): [الموقع الرسمي لآكسل كابريليس](https://web.archive.org/web/20260624151443/https://www.axelcapriles.com/)"
 ---
-
 # أكسيل كابريليس
 
 محلّل يونغي فنزويلي وأستاذ في الجامعة الكاثوليكية أندريس بيلو (UCAB) في كراكاس، ومدير Fundación C.G. Jung de Venezuela، ورئيس سابق لـ Sociedad Venezolana de Analistas Junguianos (SVAJ).
@@ -54,5 +54,4 @@ gaps:
 
 - [Editorial Océano — Áxel Capriles M.](https://oceano.mx/autores/axel-capriles-m-15894.aspx)
 - [El Nacional — Áxel Capriles, autor polifacético que desvela los secretos de las emociones](https://www.elnacional.com/entretenimiento/axel-capriles-el-autor-polifacetico-que-desvela-los-secretos-de-las-emociones/)
-- [الموقع الرسمي لآكسل كابريليس](https://www.axelcapriles.com/)
 - [Diario de Los Andes — ¿Qué es el complejo del dinero?](https://diariodelosandes.com/que-es-el-complejo-del-dinero-por-jose-luis-colmenares-carias/)

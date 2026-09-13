@@ -29,10 +29,10 @@
 
 اقرأ الملفين دول كاملين قبل ما تبدأ أي حاجة، بالترتيب ده:
 
-1. `/Users/minamoheb/Desktop/Atlas/agents_specs/draft-writer-brief.md` — القاعدة الحاكمة لأي مسودة في المشروع ده.
-2. `/Users/minamoheb/Desktop/Atlas/content/ar/drafts/EXISTING_SLUGS.md` — فهرس كل عنصر موجود فعلاً.
+1. `agents_specs/draft-writer-brief.md` — القاعدة الحاكمة لأي مسودة في المشروع ده.
+2. `content/ar/drafts/EXISTING_SLUGS.md` — فهرس كل عنصر موجود فعلاً.
 
-مهمتك: تعالج جدول `/Users/minamoheb/Desktop/Atlas/agents_specs/master-taxonomy-reference.md` صف صف (18 قسم)، وتقرر لكل صف واحد من نتائج محددة تحت.
+مهمتك: تعالج جدول `agents_specs/master-taxonomy-reference.md` صف صف (18 قسم)، وتقرر لكل صف واحد من نتائج محددة تحت.
 
 ## القاعدة الصحيحة — الأطلس ست مدارس، مش مدرسة واحدة
 

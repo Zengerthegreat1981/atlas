@@ -19,12 +19,12 @@ related:
 - id: "thk-rreibo", title: "ريتشارد ريبو", type: "مفكر"
 gaps:
   - "**أُصلحت صياغةُ 1 فجوةً ممتدّةٍ على أسطر 2026-09-10:** كانت قيمةُ الفجوة تمتدُّ على أكثرَ من سطرٍ ماديّ، والبناءُ يقرأ الفجواتَ **سطراً سطراً** ويشترط أن ينتهي السطرُ بعلامة الاقتباس — فكان يُسقط الأسطرَ الأولى ويعرض شذرةً من منتصف الجملة، أو يُسقط الفجوةَ كلَّها. فجُمعت كلُّ فجوةٍ في سطرٍ واحد."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): International Committee for Morita Therapy — [Kei Nakamura, M.D.](https://web.archive.org/web/20260308001850/http://moritatherapy.org/kei-nakamura-m-d/)"
  - "الاسم الوارد سابقاً في هذا المدخل كان «كويتشي ناكامورا / Kōichi Nakamura»؛ لم يُعثر على أي شخص بهذا الاسم مرتبط بعلاج موريتا. تبيّن أن الشخص الموصوف فعلياً هو **كي ناكامورا (Kei Nakamura, 中村敬)**، أستاذ فخري بجامعة طوكيو جيكاي (Tokyo Jikei University) ورئيس الجمعية اليابانية لعلاج موريتا (JSMT)؛ تم تصحيح الاسم بناءً على تطابق السيرة والأعمال الموصوفة معه. راجع: moritatherapy.org ومجلة Asia-Pacific Psychiatry (2023). - "تاريخ الميلاد الدقيق غير متاح في المصادر الإنجليزية المتاحة؛ السيرة اليابانية تذكر تخرجه من جامعة طوكيو جيكاي عام 1982 وابتعاثه إلى جامعة بريتش كولومبيا (1991-1992)."
   - "لا يوجد اقتباس منسوب بمصدر وسنة مترجم للعربية."
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: ريتشارد ريبو (thk-rreibo)."
   - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لمدرسة «علاج موريتا» (Morita Therapy) في content/ar/schools أو branches بعد."
 ---
-
 # كي ناكامورا
 
 طبيب نفسي ياباني (中村敬، Kei Nakamura)، أستاذ فخري بجامعة طوكيو جيكاي الطبية (Tokyo Jikei University School of Medicine) ومدير مركز علاج موريتا فيها سابقاً، ورئيس الجمعية اليابانية لعلاج موريتا (Japanese Society for Morita Therapy). من أبرز من أعاد قراءة علاج موريتا في القرن الحادي والعشرين وربطه بالعلاج السلوكي المعرفي (CBT) والعلاج بالقبول والالتزام (ACT).
@@ -52,7 +52,6 @@ gaps:
 
 ## المصادر
 
-- International Committee for Morita Therapy — [Kei Nakamura, M.D.](http://moritatherapy.org/kei-nakamura-m-d/)
 - Nakamura K. (2023). "A century of Morita therapy: What has and has not changed." *Asia-Pacific Psychiatry*. [onlinelibrary.wiley.com](https://onlinelibrary.wiley.com/doi/10.1111/appy.12511)
 - ميدكال نوت (نبذة مهنية باليابانية عن الدكتور中村敬): [medicalnote.jp](https://medicalnote.jp/doctors/170911-003-YB)
 - الجمعية اليابانية لعلاج موريتا: [jps-morita.jp](https://www.jps-morita.jp/greeting.html)

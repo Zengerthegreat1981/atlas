@@ -13,8 +13,8 @@ active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
 related:
-- id: "classification-dsm-5-tr", title: "الدليل التشخيصي والإحصائي للاضطرابات النفسية، النسخة الخامسة المنقَّحة (DSM-5-TR)", type: "اضطراب/حالة إكلينيكية"
-- id: "classification-icd-11", title: "التصنيف الدولي للأمراض، النسخة الحادية عشرة (ICD-11)", type: "اضطراب/حالة إكلينيكية"
+- id: "classification-dsm-5-tr", title: "الدليل التشخيصي والإحصائي للاضطرابات النفسية، النسخة الخامسة المنقَّحة (DSM-5-TR)", type: "نظام تصنيف تشخيصي"
+- id: "classification-icd-11", title: "التصنيف الدولي للأمراض، النسخة الحادية عشرة (ICD-11)", type: "نظام تصنيف تشخيصي"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-socratic-questioning", title: "التساؤل السقراطي", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-downward-arrow-technique", title: "تقنية السهم الهابط", type: "تقنية/تدخل علاجي"
@@ -33,7 +33,7 @@ related:
 - id: "tec-dbt-dt-stop", title: "توقف (STOP)", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-dt-improve-the-moment", title: "تحسين اللحظة (IMPROVE)", type: "تقنية/تدخل علاجي"
 - id: "tec-dbt-spec-cope-ahead-for-trauma-triggers", title: "الاستعداد المسبق لمحفزات الصدمة", type: "تقنية/تدخل علاجي"
-- id: "syn-dissociation", title: "الانفصال (dissociation)", type: "متلازمة"
+- id: "con-dissociation", title: "الانفصال (Dissociation)", type: "مفهوم"
 - id: "syn-hypervigilance", title: "فرط اليقظة", type: "متلازمة"
 - id: "syn-emotional-numbing", title: "الخمول الانفعالي / التخدير", type: "متلازمة"
 - id: "syn-psychogenic-death-cannon", title: "متلازمة الموت النفسي بالاستسلام واليأس الصدمي (Voodoo Death)", type: "متلازمة"
@@ -46,7 +46,6 @@ gaps:
   - "لم تُحدَّد الدراسة أو المصدر الأولي الذي استند إليه رقم 20-50% لنسبة تطوّر PTSD من حالات ASD."
   - "لا يوجد بعد تفصيل لكيفية تسجيل ICD-11 لتصنيف QE84 خارج الفصل السادس رسمياً في وثيقة WHO الأولية المتاحة للمراجعة المباشرة هنا."
 ---
-
 # اضطراب الكرب الحاد
 
 اضطراب نفسي يظهر عند التعرّض لحدث صادم أو مهدِّد للحياة (سواء بالتجربة المباشرة أو كشاهد أو بعلم بوقوعه لشخص قريب). يتميز بمجموعة من الأعراض: استرجاع الحدث (flashbacks)، تجنّب، فرط يقظة، خدر عاطفي، وانفصال (dissociation). يستمر الاضطراب لمدة 3 أيام إلى شهر واحد بعد الحدث.

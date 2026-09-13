@@ -24,8 +24,8 @@ gaps:
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: تشارلز راب (thk-brapp)."
   - "تم تصحيح ادعاء غير موثَّق في نسخة سابقة بمشاركتها في 'The ACT Handbook' (1986) الخاص بـ Assertive Community Treatment؛ لا يوجد أي مصدر مستقل يربطها بهذا العمل أو بهذا المجال، وقد حُذف الادعاء. عملها الموثَّق هو في التثقيف النفسي لأسر مرضى الفصام تحديداً، وليس في المتابعة المجتمعية المكثفة (ACT) التي هي مجال بحثي مختلف طوّره آخرون (Test & Stein)."
   - "لا يوجد تأكيد مستقل لعنوان 'Family Psychoeducation (1995, مساهم)' بهذا الشكل؛ استُبدل بالعناوين الموثقة أدناه."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): [University Times – Obituary: Carol M. Anderson](https://web.archive.org/web/20241228140313/https://www.utimes.pitt.edu/archives/?p=33431)"
 ---
-
 # كارول أندرسون
 
 عالمة نفس اجتماعي أمريكية (1939–2014)، أستاذة الطب النفسي والخدمة الاجتماعية في جامعة بيتسبرغ، ومن أبرز مؤسسي "التثقيف النفسي" (Psychoeducation) لأسر مرضى الفصام في صيغته المعاصرة خلال سبعينيات وثمانينيات القرن العشرين، بالتعاون مع جيرارد هوغارتي (Gerard Hogarty) في معهد ومستشفى الطب النفسي الغربي (WPIC) بجامعة بيتسبرغ.
@@ -50,7 +50,6 @@ gaps:
 
 ## المصادر
 
-- [University Times – Obituary: Carol M. Anderson](https://www.utimes.pitt.edu/archives/?p=33431)
 - [Anderson, C.M. et al., "Family Treatment of Adult Schizophrenic Patients: A Psycho-educational Approach", Schizophrenia Bulletin 6(3), 1980](https://academic.oup.com/schizophreniabulletin/article/6/3/490/1908411)
 - [Schizophrenia and the Family: A Practitioner's Guide to Psychoeducation and Management (Google Books)](https://books.google.com/books/about/Schizophrenia_and_the_Family.html?id=y5sQuJwrErsC)
 - [The Social Work Podcast: Family Psychoeducation – Interview with Carol Anderson, Ph.D.](https://socialworkpodcast.blogspot.com/2007/10/family-psychoeducation-interview-with.html)

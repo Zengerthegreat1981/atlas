@@ -25,8 +25,8 @@ related:
 gaps:
   - "تفاصيل 'Traitement du Mal' بالعربية موثّقة جزئياً."
   - "علاقته مع Ricoeur في نقاشات 'الذاكرة التاريخية' موثّقة جزئياً."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): Wikipedia (Vladimir Jankélévitch): https://en.wikipedia.org/wiki/Vladimir_Jank%C3%A9vitch"
 ---
-
 # فلاديمير جانكليفيتش
 
 فيلسوف فرنسي من أصل يهودي روسي، وُلد في 31 أغسطس 1903 في فيرفيي (إقليم كالفادوس، فرنسا). تُوفي في 6 يونيو 1985 في باريس. أستاذ في **جامعة السوربون** (1947–1966) ثم في **جامعة باريس-نانتير** (1966–1979).
@@ -123,7 +123,6 @@ gaps:
 
 ## المصادر
 
-- Wikipedia (Vladimir Jankélévitch): https://en.wikipedia.org/wiki/Vladimir_Jank%C3%A9vitch
 - Jankélévitch, V. (1966). *La Mort*. Flammarion.
 - Jankélévitch, V. (1967). *Le Pardon*. Flammarion.
 - Jankélévitch, V. (1977). *L'Imprescriptible*. Seuil.

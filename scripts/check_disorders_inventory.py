@@ -2,11 +2,14 @@
 """
 Detailed audit of all items in disorders-full-coverage-backlog.md
 """
+import os as _os
+# جذرُ المستودع يُشتقّ من موضع الملفّ نفسِه — لا مسارٌ مثبَّتٌ لجهازٍ بعينه.
+_ATLAS_ROOT = _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..'))
 
 import os
 import re
 
-ROOT_DIR = "/Users/minamoheb/Desktop/Atlas"
+ROOT_DIR = _ATLAS_ROOT
 BACKLOG_PATH = os.path.join(ROOT_DIR, "agents_specs/disorders-full-coverage-backlog.md")
 DISORDERS_DIR = os.path.join(ROOT_DIR, "content/ar/disorders")
 

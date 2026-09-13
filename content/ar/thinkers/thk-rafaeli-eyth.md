@@ -56,5 +56,5 @@ gaps:
 - لا توجد مصادر موثّقة.
 - للتحقق:
   - Sween, R. (1991). *Peak Performance: Mental Skills for Results in Sport*. Croton-on-Hudson: Peak Performance Publishing.
-  - AASP: https://appliedsportpsych.org/
+  - AASP: https://web.archive.org/web/20260909161127/https://appliedsportpsych.org/
   - Loehr, J. (1993). *The New Toughness Training for Sports*. Dutton.

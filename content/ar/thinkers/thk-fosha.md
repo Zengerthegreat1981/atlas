@@ -15,7 +15,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-aedp", target_type: "مدرسة"
 related:
-- id: "tec-aedp", title: "العلاج الديناميكي التجريبي المتسارع (AEDP)", type: "تقنية/تدخل علاجي"
+- id: "sch-aedp", title: "العلاج النفسي الديناميكي التعزيزي المتسارع (AEDP)", type: "مدرسة"
 - id: "thk-greenberg-lisa", title: "ليزلي س. غرينبرغ", type: "مفكر"
 - id: "thk-fonagy", title: "بيتر فوناغي", type: "مفكر"
 - id: "thk-dkalsched", title: "دونالد كَلشد", type: "مفكر"

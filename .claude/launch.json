@@ -4,9 +4,13 @@
     {
       "name": "atlas",
       "runtimeExecutable": "python3",
-      "runtimeArgs": ["-m", "http.server", "8778", "--directory", "/Users/mina/Desktop/Atlas"],
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "8778"
+      ],
       "port": 8778,
-      "url": "http://localhost:8778/index.html"
+      "url": "http://localhost:8778"
     }
   ]
 }

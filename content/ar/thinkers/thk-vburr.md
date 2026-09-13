@@ -21,8 +21,8 @@ related:
 gaps:
   - "سنة الميلاد غير منشورة في السيرة الذاتية المتاحة."
   - "تأثيرها المباشر في علم النفس الإكلينيكي البريطاني أقلّ من تأثيرها الأكاديمي."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): Wikipedia (Vivien Burr): https://en.wikipedia.org/wiki/Vivien_Burr"
 ---
-
 # فيفيَن بار
 
 عالمة نفس بريطانية، أستاذة فخرية (Professor Emerita) في **جامعة إيست أنجليا** (University of East Anglia). من أبرز الأصوات المؤسِّسة لـ**البنائية الاجتماعية** في المملكة المتحدة.
@@ -52,7 +52,6 @@ gaps:
 
 ## المصادر
 
-- Wikipedia (Vivien Burr): https://en.wikipedia.org/wiki/Vivien_Burr
 - Burr, V. (1995/2015). *An Introduction to Social Constructionism*. Routledge.
 - Burr, V. (1998). *Gender and Social Psychology*. Routledge.
 - Burr, V. (2006). *Social Constructionism* (ed.). Routledge.

@@ -154,7 +154,7 @@ gaps:
 - **Toulmin, S. (1990)**: *Cosmopolis*، يستلهم من Dewey، يؤثر على **البحث النوعي**.
 - **Buchler, J. (1955)**: *Philosophical Writings of Peirce*، تعميم الـ Pragmatics.
 - **Putnam, H. (1995)**: *Words and Life*، Pragmatist Turn في فلسفة العقل.
-- **الشخصية» المعاصرة (McAdams، 2006)**: الـ Life Story Interview، تكييف لجيمس.
+- **«الشخصية» المعاصرة (McAdams، 2006)**: الـ Life Story Interview، تكييف لجيمس.
 
 ## مرجعيات أوصى
 

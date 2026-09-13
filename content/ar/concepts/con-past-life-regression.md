@@ -10,17 +10,15 @@ active_start: 1955
 active_end: "مستمر"
 part: "psychology"
 related:
-- id: "con-recovered-memory-controversy", title: "الجدل حول الذاكرة المُستعادة", type: "مفهوم"
+- id: "dbt-recovered-memory-validity", title: "جدل الذاكرة المُستعادة: حقيقية أم زائفة؟", type: "جدل"
 - id: "tec-past-life-regression", title: "العلاج باسترجاع ذكريات الحياة السابقة", type: "تقنية/تدخل علاجي"
 - id: "thk-brianweiss", title: "برايان وايس", type: "مفكر"
-- id: "dbt-recovered-memory-validity", title: "جدل الذاكرة المُستعادة: حقيقية أم زائفة؟", type: "جدل"
 - id: "dbt-trauma-memory-repression", title: "هل يمكن كبت ذكريات الصدمة؟", type: "جدل"
 gaps:
   - "الأسماء المؤسسية (Helen Wambach, Ian Stevenson) لم تُكتب لها مسودات/ملفات مستقلة في الأطلس، فلم تُربط (برايان وايس وحده موجود كملف `thk-brianweiss`)."
   - "النزاع الأكاديمي (في علم النفس والطب النفسي) لم يُوثّق بدقة."
   - "edges.belongs_to كان يشير إلى حركات مثيرة للجدل كنص حر بلا slug مطابق (لا sch- ولا br- بهذا العنوان الحرفي في الأطلس)؛ حُذف الرابط بدل اختراع slug. سُجّل طلب umbrella في requests-minimax.md."
 ---
-
 # استرجاع ذكريات الحياة السابقة
 
 ممارسة علاجية مثيرة للجدل تدّعي أن المشكلات النفسية الراهنة قد تنبع من **تجارب في حيوات سابقة**، وأنه عبر التنويم العميق يمكن للشخص **استرجاع** هذه الحيوات وحلّ الصدمة.

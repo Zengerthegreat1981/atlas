@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "br-medical-model-addiction", target_type: "تيار"
 related:
 - id: "sch-motivational-interviewing", title: "المقابلة التحفيزية (Motivational Interviewing)", type: "مدرسة"
-- id: "con-abstinence-vs-harm-reduction", title: "الامتناع الكامل مقابل الحد من الضرر", type: "مفهوم"
+- id: "br-abstinence-vs-harm-reduction", title: "الامتناع الكامل مقابل الحد من الضرر", type: "تيار"
 - id: "con-rat-park", title: "تجربة Rat Park", type: "مفهوم"
 - id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"
 - id: "con-addiction", title: "الإدمان والبحث الروحي المشوه", type: "مفهوم"
@@ -22,7 +22,6 @@ gaps:
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
   - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-medical-model-addiction` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
-
 # النموذج الطبي للإدمان مقابل نموذج الإدمان كمرض مزمن
 
 جدل أساسي في مجال علاج الإدمان، بين ثلاثة تفسيرات رئيسية:

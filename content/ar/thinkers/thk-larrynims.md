@@ -44,6 +44,6 @@ BSFF، كسائر تقنيات علم نفس الطاقة، تفتقر إلى ق
 ## المصادر
 
 - [Larry Nims Ph.D. Celebration of Life — virtualmemorialgatherings.com](https://virtualmemorialgatherings.com/larry-nims/)
-- [The Official Be Set Free Fast™ Website — A Message from Dr. Nims](https://www.besetfreefast.com/a-message-from-dr-nims)
+- [The Official Be Set Free Fast™ Website — A Message from Dr. Nims](https://web.archive.org/web/20230616235751/https://www.besetfreefast.com/a-message-from-dr-nims)
 - [Be Set Free Fast! — Google Books](https://books.google.com/books/about/Be_Set_Free_Fast.html?id=axV_PQAACAAJ)
 - [History of Tapping (Including EFT) — Thriving Now](https://www.thrivingnow.com/history-of-tapping-eft/)

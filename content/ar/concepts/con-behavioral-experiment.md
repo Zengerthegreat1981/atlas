@@ -17,14 +17,13 @@ related:
 - id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
 - id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي (CBT)", type: "مدرسة"
 - id: "tec-cbt-beh-behavioral-experiments", title: "التجارب السلوكية", type: "تقنية/تدخل علاجي"
-- id: "con-cognitive-restructuring", title: "إعادة الهيكلة المعرفية (Cognitive Restructuring)", type: "مفهوم"
+- id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 - id: "sch-mbct", title: "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)", type: "مدرسة"
 gaps:
   - "التمييز الدقيق بين 'التجربة السلوكية' و'اختبار الواقع' (Reality Testing) في أدبيات بيك يحتاج تحقق."
   - "الجدل حول استخدام التجارب السلوكية في اضطرابات الشخصية (Coviello et al.) لم يوثَّق بعد."
 ---
-
 # التجربة السلوكية (Behavioral Experiment)
 
 مفهوم محوري في العلاج المعرفي السلوكي، يصف اختباراً تجريبياً منظماً يُصمَّم لاختبار صدق معتقدات المريض في ظروف واقعية أو متخيّلة، بهدف تعديل المعتقدات غير المتكيفة التي تحافظ على الاضطراب الانفعالي.

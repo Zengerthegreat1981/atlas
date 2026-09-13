@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "العلاج متعدد الأنظمة (MST) ← الناس ← ميليسا رولاند"
 edges:
-- rel: "belongs_to", target: "tec-multisystemic-therapy", target_type: "تقنية/تدخل علاجي"
+- rel: "belongs_to", target: "br-mst", target_type: "تيار"
 related:
 - id: "thk-shenggeler", title: "سكوت هِنغلَر", type: "مفكر"
 - id: "thk-cborduin", title: "تشارلز بوردوين", type: "مفكر"
@@ -26,7 +26,6 @@ gaps:
   - "edges.belongs_to كان يشير إلى br-multisystemic-therapy غير الموجود؛ صُحح مؤقتاً إلى tec-multisystemic-therapy (الملف الوحيد الموثَّق حالياً لموضوع MST). MST مسجّلة أصلاً في agents_specs/missing-schools.md كمدرسة/تيار كامل مستحق الإنشاء (Task 13) — بعد إنشائها ينبغي تحويل هذا الرابط إليها."
   - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-multisystemic-therapy` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
-
 # ميليسا رولاند
 
 باحثة أمريكية في علم النفس الإكلينيكي، متخصصة في تطوير بروتوكولات **العلاج متعدد الأنظمة (Multisystemic Therapy, MST)**.

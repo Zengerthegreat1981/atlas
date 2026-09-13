@@ -1,3 +1,15 @@
+> ⚠️ **هذا الملفُّ متقادمٌ — تاريخُه 2026-08-25.** كُتب قبل ثلاثِ جولاتِ مراجعةٍ
+> لاحقة، وأرقامُه وأولوياتُه لم تَعُد تصف الحال. ابدأ من الأحدث:
+>
+> | الوثيقة | ما فيها |
+> |---|---|
+> | `AUDIT_INDEPENDENT_2026-09-13.md` | آخرُ مراجعةٍ شاملة وما أُصلح منها |
+> | `AUDIT_CLOSEOUT_2026-09-10.md` | إغلاقُ جولة سبتمبر |
+> | `DUPLICATES_CROSS_PREFIX_2026-09-13.md` | قرارُ دمجٍ مفتوحٌ مطلوب |
+> | `scripts/audit_findings_log.md` | سجلُّ ما وُجد ولماذا |
+>
+> وأمرُ البداية أدناه كان يحمل مساراً لا وجودَ له على هذا الجهاز؛ صُحِّح.
+
 # ابدأ من هنا — تعليمات الجلسة التالية
 
 > اقرأ هذا الملف أولاً، ثم `AUDIT_HANDOFF.md` للتفاصيل، ثم
@@ -8,7 +20,7 @@
 ## 0. أوّل أمر تشغّله — قبل أي شيء
 
 ```bash
-cd /Users/minamoheb/Desktop/Atlas && python3 scripts/reapply_thinkers_audit.py --apply
+cd "$(git rev-parse --show-toplevel)" && python3 scripts/reapply_thinkers_audit.py --apply
 ```
 
 المستودع يُكتب فيه بالتوازي من جلسات أخرى، وتُستبدل الملفات أحياناً بنسخ أقدم.
@@ -42,7 +54,7 @@ cd /Users/minamoheb/Desktop/Atlas && python3 scripts/reapply_thinkers_audit.py -
 ### طريقة العمل المجرَّبة
 
 ```bash
-S=/tmp/claude-501/-Users-minamoheb-Desktop-claude/<session>/scratchpad   # أنشئ سكراتش خاصاً بك
+S=/tmp/claude-501/-Users-<أنت>-Desktop-claude/<session>/scratchpad   # أنشئ سكراتش خاصاً بك
 # اقرأ الدفعة التالية (8 ملفات في المرّة مناسبة):
 for f in $(head -8 scripts/audit_unread_thinkers.txt); do
   echo "════ $f"; sed -n '/^# /,$p' content/ar/thinkers/$f.md; done

@@ -15,14 +15,12 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-narrative-therapy", target_type: "مدرسة"
 related:
-- id: "tec-narrative-therapy", title: "العلاج السردي", type: "تقنية/تدخل علاجي"
 - id: "sch-narrative-therapy", title: "العلاج السردي (Narrative Therapy)", type: "مدرسة"
 gaps:
   - "سنة الميلاد بالتحديد لم تُراجع من مصدر أولي."
   - "تفاصيل نشاطه بعد 2019 (تاريخ الطبعة الثانية من كتابه) لم تُراجع."
   - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-narrative-therapy` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
-
 # ستيفن مادِغان
 
 معالج أسري وزوجي كندي، حاصل على دكتوراه في العلاج الأسري والزوجي، وأول من كتب أطروحة دكتوراه في العلاج السردي. أسّس عام 1992 **Vancouver School for Narrative Therapy** عبر عيادة Yaletown Family Therapy في فانكوفر، بتشجيع مباشر من مايكل وايت، لتكون أول مركز تدريب في العلاج السردي في نصف الكرة الشمالي.

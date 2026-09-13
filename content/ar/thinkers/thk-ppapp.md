@@ -21,8 +21,8 @@ gaps:
   - "**وُحِّد حقل `part` 2026-09-08:** كان «philosophy» وصار «psychology» اتّساقاً مع أشقّائه تحت `sch-systemic-family` (وأغلبيتُهم «psychology» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
   - "حُذفت روابط related كانت تشاور على ملفات غير موجودة (thk-bcarter، thk-mwalter، thk-ackerman)."
   - "مذكراتها المهنية في Ackerman Institute لم تُنشر بعد."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (0): Guilford صفحة المؤلف: https://www.cms.guilford.com/author/Peggy-Papp"
 ---
-
 # بيغي باب
 
 عالمة نفس اجتماعية أمريكية (LCSW)، وُلدت عام 1923 وتوفيت عام 2021. عضو هيئة تدريس كبير في **معهد أكيرمان للأسرة** (Ackerman Institute for the Family) في نيويورك. رائدة العلاج الأسري النسوي في أمريكا.
@@ -58,6 +58,5 @@ gaps:
 
 - Ackerman Institute: https://www.ackerman.org/people/peggy-papp/
 - Psychotherapy Networker: https://www.psychotherapynetworker.org/article/larger-life-2/
-- Guilford صفحة المؤلف: https://www.cms.guilford.com/author/Peggy-Papp
 - Walters, M., Carter, B., Papp, P. & Silverstein, O. (1988). *The Invisible Web: Gender Patterns in Family Relationships*. Guilford.
 - Papp, P. (ed.) (2001). *Couples on the Fault Line*. Guilford.

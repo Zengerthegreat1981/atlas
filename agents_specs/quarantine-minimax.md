@@ -470,4 +470,4 @@ edits_log:
 
 ## القسم — Task 12 batch (2026-09-01): questions/ حجر ازدواج
 
-- **que-mind-body-interaction** (QUE-0015): ازدواج فعلي مع `qst-mind-body-interaction-problem` (QUE-0129) — نفس السؤال (تفاعل العقل/الجسد، تفاعلية ديكارت 1649 مقابل أحادية سبينوزا 1677)، والملف الآخر أعمق توثيقاً (مصادر أولية مباشرة بتواريخ محدَّدة). حُوِّل لقالب الحجر الموحّد + إحالة. لا روابط واردة له وقت الحجر. النسخة الأصلية محفوظة في `agents_specs/quarantine-minimax-archive/que-mind-body-interaction.md.archived.2026-09-01`.
+- **que-mind-body-interaction** (QUE-0015): ازدواج فعلي مع `que-mind-body-interaction-problem` (QUE-0129) — نفس السؤال (تفاعل العقل/الجسد، تفاعلية ديكارت 1649 مقابل أحادية سبينوزا 1677)، والملف الآخر أعمق توثيقاً (مصادر أولية مباشرة بتواريخ محدَّدة). حُوِّل لقالب الحجر الموحّد + إحالة. لا روابط واردة له وقت الحجر. النسخة الأصلية محفوظة في `agents_specs/quarantine-minimax-archive/que-mind-body-interaction.md.archived.2026-09-01`.

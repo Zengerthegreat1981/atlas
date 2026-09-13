@@ -16,9 +16,8 @@ evidence_level: "probably-efficacious"
 edges:
 - rel: "belongs_to", target: "br-sex-therapy", target_type: "تيار"
 related:
-- id: "tec-sex-therapy-overview", title: "العلاج الجنسي (Sex Therapy)", type: "تقنية/تدخل علاجي"
-- id: "tec-sensate-focus", title: "التركيز الحسي", type: "تقنية/تدخل علاجي"
 - id: "br-sex-therapy", title: "العلاج الجنسي", type: "تيار"
+- id: "tec-sensate-focus", title: "التركيز الحسي", type: "تقنية/تدخل علاجي"
 gaps:
   - "الفعالية مع الرجال غير المصابين بإصابات النخاع الشوكي (تأخر القذف المكتسب، السكري، أسباب دوائية) لم تُقارَن بالعلاج الدوائي في دراسات عشوائية."
   - "البروتوكولات المكيّفة للرجال المثليين (للذين يمارسون الجنس الشرجي ويريدون انعكاساً) لم تُفصَّل."

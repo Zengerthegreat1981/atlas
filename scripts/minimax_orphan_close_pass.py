@@ -7,12 +7,15 @@ naturally relevant.
 For each new file, find existing files that should mention it, and add the
 new file to their related.
 """
+import os as _os
+# جذرُ المستودع يُشتقّ من موضع الملفّ نفسِه — لا مسارٌ مثبَّتٌ لجهازٍ بعينه.
+_ATLAS_ROOT = _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..'))
 import re
 import os
 import json
 import sys
 
-APPROVED_BASE = '/Users/minamoheb/Desktop/Atlas/content/ar'
+APPROVED_BASE = _ATLAS_ROOT + '/content/ar'
 
 
 def parse_frontmatter(content):

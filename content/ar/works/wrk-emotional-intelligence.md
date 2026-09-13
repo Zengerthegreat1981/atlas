@@ -3,9 +3,9 @@ slug: "wrk-emotional-intelligence"
 id: "WRK-0294"
 type: "عمل / كتاب"
 level: "مبتدئ"
-title: "الذكاء العاطفي"
+title: "الذكاء العاطفي — الكتاب"
 en: "Emotional Intelligence: Why It Can Matter More Than IQ"
-crumb: "المعرفية السلوكية ← الأعمال ← الذكاء العاطفي"
+crumb: "المعرفية السلوكية ← الأعمال ← الذكاء العاطفي — الكتاب"
 dates: "1995 · دانيال غولمان"
 language: "الإنجليزية"
 active_start: 1995
@@ -19,7 +19,7 @@ edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-goleman", target_type: "مفكر"
 related:
-- id: "con-emotional-intelligence", title: "الذكاء العاطفي", type: "مفهوم"
+- id: "con-emotional-intelligence", title: "الذكاء العاطفي — المفهوم", type: "مفهوم"
 - id: "thk-goleman", title: "دانيال غولمان", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Emotional Intelligence* (1995) بترجمة عربية معتمدة."
@@ -27,8 +27,7 @@ gaps:
   - "أرقام المبيعات والترجمات المتداولة لهذا الكتاب (بالملايين، وبعشرات اللغات) لم تُسند إلى مصدر ناشر أو ببليوغرافي أولي موثوق، فحُذفت من المتن."
 ---
 
-# الذكاء العاطفي
-
+# الذكاء العاطفي — الكتاب
 ## الأطروحة المركزية
 
 النجاح في الحياة — الزواج والعمل والصحة — **لا يتوقّعه معامل الذكاء (IQ) وحده**، بل تفسّر جملةٌ من الكفاءات الانفعالية جانباً كبيراً منه. عواطفنا عند غولمان ليست عوائق أمام التفكير الرشيد، بل **معلومات** ينبغي تعلّم قراءتها وتنظيمها.

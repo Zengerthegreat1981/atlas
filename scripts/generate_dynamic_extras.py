@@ -1,10 +1,13 @@
+import os as _os
+# جذرُ المستودع يُشتقّ من موضع الملفّ نفسِه — لا مسارٌ مثبَّتٌ لجهازٍ بعينه.
+_ATLAS_ROOT = _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..'))
 import os
 import re
 import json
 from pathlib import Path
 from collections import defaultdict
 
-ATLAS_ROOT = Path('/Users/minamoheb/Desktop/Atlas')
+ATLAS_ROOT = Path(_ATLAS_ROOT)
 CONTENT_AR = ATLAS_ROOT / 'content' / 'ar'
 EXTRAS_FILE = ATLAS_ROOT / 'scripts' / 'template' / 'data_extras.json'
 

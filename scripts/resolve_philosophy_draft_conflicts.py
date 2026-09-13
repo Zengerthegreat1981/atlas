@@ -3,10 +3,13 @@
 Resolve slug conflicts between approved and drafts for philosophy elements.
 Merges richer drafts content into approved when appropriate and cleans up duplicates.
 """
+import os as _os
+# جذرُ المستودع يُشتقّ من موضع الملفّ نفسِه — لا مسارٌ مثبَّتٌ لجهازٍ بعينه.
+_ATLAS_ROOT = _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..'))
 import os
 import re
 
-ATLAS_ROOT = "/Users/minamoheb/Desktop/Atlas"
+ATLAS_ROOT = _ATLAS_ROOT
 APPROVED_BASE = os.path.join(ATLAS_ROOT, "content", "ar")
 DRAFTS_BASE = os.path.join(ATLAS_ROOT, "content", "ar", "drafts")
 

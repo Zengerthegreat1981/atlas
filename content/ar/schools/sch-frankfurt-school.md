@@ -15,7 +15,7 @@ active_start: 1923
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-western-marxism", target_type: "مدرسة"
-- rel: "evolved_from", target: "br-classical-marxism", target_type: "تيار"
+- rel: "evolved_from", target: "sch-marxism", target_type: "مدرسة"
 related:
 - id: "sch-western-marxism", title: "الماركسية الغربية (Western Marxism)", type: "مدرسة"
 - id: "sch-hermeneutics-critical", title: "الهرمنيوطيقا النقدية (Critical Hermeneutics)", type: "مدرسة"

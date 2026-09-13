@@ -8,12 +8,12 @@
 
 ## 1. ملخص الإنجاز والمسار التنفيذي
 
-تم إنجاز وتعميق وتوثيق كافة محاور خطة الـ 160 مهمة لقسم الفلسفة والجسر المعتمدة في [PHILOSOPHY_PART_PLAN.md](file:///Users/minamoheb/Desktop/Atlas/agents_specs/PHILOSOPHY_PART_PLAN.md) عبر 8 مراحل متكاملة:
+تم إنجاز وتعميق وتوثيق كافة محاور خطة الـ 160 مهمة لقسم الفلسفة والجسر المعتمدة في [PHILOSOPHY_PART_PLAN.md](PHILOSOPHY_PART_PLAN.md) عبر 8 مراحل متكاملة:
 
 1. **المرحلة 0 (القرارات المعمارية والبنية التحتية):**
-   - اعتماد حقول `philosophical_tradition` و`historical_era` و`cultural_origin` في سجل القرارات [decision-records.md](file:///Users/minamoheb/Desktop/Atlas/agents_specs/decision-records.md).
+   - اعتماد حقول `philosophical_tradition` و`historical_era` و`cultural_origin` في سجل القرارات [decision-records.md](decision-records.md).
    - تفعيل البادئات الرقيقة (`br-`, `axi-`, `dia-`, `evt-`, `crt-`, `rel-`).
-   - تطوير سكريبت [build_philosophy_matrix.py](file:///Users/minamoheb/Desktop/Atlas/scripts/build_philosophy_matrix.py).
+   - تطوير سكريبت [build_philosophy_matrix.py](../scripts/build_philosophy_matrix.py).
 
 2. **المرحلة 1 (الفلسفة القديمة والوسيطة والإسلامية):**
    - تغطية حكمة مصر والرافدين وإيران القديمة.
@@ -57,8 +57,8 @@
 
 8. **المرحلة 7 (قسم الجسر والتدقيق والتكامل النهائي):**
    - 76 علاقة نسقية متعمقة تربط الفلسفة بعلم النفس ومدارسه الإكلينيكية (`rel-`).
-   - تسوية وفحص الفهارس بدون أي تعارضات في [EXISTING_SLUGS.md](file:///Users/minamoheb/Desktop/Atlas/content/ar/drafts/EXISTING_SLUGS.md).
-   - بناء الموقع بنجاح عبر [build_atlas.py](file:///Users/minamoheb/Desktop/Atlas/scripts/build_atlas.py).
+   - تسوية وفحص الفهارس بدون أي تعارضات في [EXISTING_SLUGS.md](../content/ar/drafts/EXISTING_SLUGS.md).
+   - بناء الموقع بنجاح عبر [build_atlas.py](../scripts/build_atlas.py).
 
 ---
 

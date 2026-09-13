@@ -20,7 +20,7 @@ related:
 - id: "tec-cbt-int-communication-skills-training", title: "تدريب مهارات التواصل", type: "تقنية/تدخل علاجي"
 - id: "tec-behavioral-medicine", title: "الطب السلوكي/الصحة السلوكية (تدخل)", type: "تقنية/تدخل علاجي"
 - id: "syn-acute-anxiety", title: "القلق الحاد", type: "متلازمة"
-- id: "tec-sex-therapy-overview", title: "العلاج الجنسي (Sex Therapy)", type: "تقنية/تدخل علاجي"
+- id: "br-sex-therapy", title: "العلاج الجنسي", type: "تيار"
 - id: "tec-vaginal-dilator-therapy", title: "علاج موسّعات المهبل (Vaginal Dilator Therapy)", type: "تقنية/تدخل علاجي"
 gaps:
   - "التفاصيل الدقيقة لمعايير DSM-5-TR (دمج vaginismus + dyspareunia في 2013) لم تُراجع من المصدر الأولي."
@@ -30,7 +30,6 @@ gaps:
   - "التفريق بين الألم الجسدي والـ vaginismus النفسي البحت غير مشروح بدقة."
   - "لم يُراجع من مصدر أولي مباشر بعد."
 ---
-
 # اضطراب الألم التناسلي الحوضي / الاختراق
 
 اضطراب جنسي عند الإناث يتميز بصعوبة مستمرة في واحد أو أكثر من: (1) الجماع المهبلي، (2) الألم التناسلي / الحوضي أثناء الجماع أو محاولة الاختراق، (3) الخوف من الألم أو الاختراق، (4) تشنّج عضلات قاع الحوض أثناء محاولة الاختراق. في DSM-5-TR تم **دمج Vaginismus و Dyspareunia** في تشخيص واحد (تغيير عن DSM-IV).

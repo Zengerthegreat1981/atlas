@@ -14,7 +14,7 @@ edges:
 related:
 - id: "crt-postcolonial-critique-dsm", title: "النقد ما بعد الاستعماري لـ DSM: التصنيف كخريطة جيوسياسية للمعاناة المقبولة", type: "نقد خارجي موثَّق"
 - id: "crt-critical-race-critique-psychology", title: "النقد العرقي النقدي لعلم النفس: تاريخ اختبارات الذكاء والتشخيص", type: "نقد خارجي موثَّق"
-- id: "classification-dsm-5-tr", title: "الدليل التشخيصي والإحصائي للاضطرابات النفسية، النسخة الخامسة المنقَّحة (DSM-5-TR)", type: "اضطراب/حالة إكلينيكية"
+- id: "classification-dsm-5-tr", title: "الدليل التشخيصي والإحصائي للاضطرابات النفسية، النسخة الخامسة المنقَّحة (DSM-5-TR)", type: "نظام تصنيف تشخيصي"
 - id: "evt-dsm-5-publication-2013", title: "نشر الدليل التشخيصي الخامس والجدل حول التضخم وإلغاء المحاور", type: "حدث تاريخي"
 - id: "evt-dsm-3-publication-1980", title: "ثورة DSM-III ونقل الطب النفسي للنموذج التجريبي الوصفي بمعايير سبيتزر", type: "حدث تاريخي"
 - id: "con-cultural-psychoanalysis", title: "التحليل النفسي الثقافي", type: "مفهوم"

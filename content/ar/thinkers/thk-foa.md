@@ -48,5 +48,5 @@ gaps:
 ## المصادر
 
 - Edna B. Foa obituary, The Philadelphia Inquirer (2026): https://www.inquirer.com/obituaries/edna-foa-obituary-penn-philadelphia-psychology-20260331.html
-- "Edna Foa, who pioneered exposure therapy to treat PTSD, dies at 88", The Spokesman-Review: https://www.spokesman.com/stories/2026/apr/12/edna-foa-who-pioneered-exposure-therapy-to-treat-p/
+- "Edna Foa, who pioneered exposure therapy to treat PTSD, dies at 88", The Spokesman-Review: https://web.archive.org/web/20260517190157/https://www.spokesman.com/stories/2026/apr/12/edna-foa-who-pioneered-exposure-therapy-to-treat-p/
 - In Memoriam: Edna B. Foa, PhD — International OCD Foundation: https://iocdf.org/blog/2026/04/09/in-memoriam-edna-b-foa-phd/

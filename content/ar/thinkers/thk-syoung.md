@@ -13,9 +13,9 @@ active_start: 1980
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "tec-contemplative-psychotherapy", target_type: "تقنية/تدخل علاجي"
+- rel: "belongs_to", target: "sch-contemplative-psychotherapy", target_type: "مدرسة"
 related:
-- id: "tec-contemplative-psychotherapy", title: "العلاج النفسي التأملي (جامعة ناروبا)", type: "تقنية/تدخل علاجي"
+- id: "sch-contemplative-psychotherapy", title: "العلاج النفسي التأملي (ناروبا)", type: "مدرسة"
 - id: "thk-ctrungpa", title: "تشوغيام ترونغبا", type: "مفكر"
 - id: "thk-jkornfield", title: "جاك كورنفيلد", type: "مفكر"
 gaps:
@@ -23,7 +23,6 @@ gaps:
   - "تفاصيل تأسيس نظام «اليقظة الموحَّدة» (السنة الدقيقة، الأطر المؤسسية الأولى) لم تُراجع من مصدر أولي."
   - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-contemplative-psychotherapy` موسومٌ «psychology» — فوُحِّد على وسم الأب."
 ---
-
 # شِنزِن يانغ
 
 معلّم تأمّل أمريكي (مواليد 1949)، درس في اليابان وبورما ضمن تقاليد الزِن والفيباسّانا قبل أن يطوّر نظامه الخاص **"اليقظة الموحَّدة"** (Unified Mindfulness)، ويتعاون مع مختبرات علم الأعصاب في دراسة التأمّل تجريبياً.

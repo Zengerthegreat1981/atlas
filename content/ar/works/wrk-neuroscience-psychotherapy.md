@@ -20,7 +20,6 @@ edges:
 - rel: "authored_by", target: "thk-lcozolino", target_type: "مفكر"
 related:
 - id: "thk-lcozolino", title: "لويس كوتزولينو", type: "مفكر"
-- id: "con-neuropsychoanalysis", title: "التحليل النفسي العصبي (Neuropsychoanalysis)", type: "مفهوم"
 - id: "br-neuropsychoanalysis", title: "التحليل النفسي العصبي", type: "تيار"
 gaps:
   - "لم يثبت وجود ترجمة عربية منشورة لهذا العمل: بُحث عن مترجم وناشر وسنة ولم يُعثر على أيٍّ منها."
@@ -29,7 +28,6 @@ gaps:
   - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-neuropsychoanalysis` موسومٌ «philosophy» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
   - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-neuropsychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---
-
 # علم أعصاب العلاج النفسي: بناء وإعادة بناء الدماغ البشري
 
 ## الأطروحة المركزية

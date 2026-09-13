@@ -18,7 +18,7 @@ related:
 - id: "con-aedp-transformance", title: "الْتَحَوُّلية في AEDP: التَّحَوُّل مِن عَاطِفَة تَكَيُّفِيَّة", type: "مفهوم"
 - id: "tec-aedp-metatherapeutic-processing", title: "المعالجة فوق-العلاجية (Metatherapeutic Processing) في AEDP", type: "تقنية/تدخل علاجي"
 - id: "br-aedp-applied", title: "AEDP التطبيقي: علاج الصدمات المعقدة في العيادات", type: "تيار"
-- id: "tec-emdr", title: "إزالة التحسس وإعادة المعالجة بحركات العين (EMDR)", type: "تقنية/تدخل علاجي"
+- id: "sch-emdr", title: "إعادة المعالجة عبر حركات العين وتخفيف الأعراض (EMDR)", type: "مدرسة"
 gaps:
   - "التفاصيل الإجرائية للجلستين 2-3 من العلاج غير مفصّلة هنا."
   - "نسب المساهمات إلى Fosha مقابل Greenberg في تطوير هذا الأسلوب غير واضحة."

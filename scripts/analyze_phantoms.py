@@ -1,8 +1,11 @@
 # -*- coding: utf-8 -*-
+import os as _os
+# جذرُ المستودع يُشتقّ من موضع الملفّ نفسِه — لا مسارٌ مثبَّتٌ لجهازٍ بعينه.
+_ATLAS_ROOT = _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..'))
 import os, glob
 from collections import defaultdict
 
-BASE_DIR = "/Users/minamoheb/Desktop/Atlas"
+BASE_DIR = _ATLAS_ROOT
 
 files = glob.glob(os.path.join(BASE_DIR, "content/ar/drafts/*/*.md")) + glob.glob(os.path.join(BASE_DIR, "content/ar/*/*.md"))
 
@@ -61,12 +64,8 @@ with open("/tmp/phantoms_classified.txt", "w", encoding="utf-8") as out:
     for ph, src_list in sorted(phantoms.items()):
         prefix = ph.split("-")[0] if "-" in ph else ""
         cands = [s for s in all_slugs if (prefix and s.startswith(prefix) and (ph in s or s in ph or ph[4:] == s[4:] or ph.replace("-","") == s.replace("-","")))]
-        out.write("PHANTOM: " + ph + " (in " + str(len(src_list)) + " files)
-")
-        out.write("  Sources: " + ", ".join([os.path.basename(s) for s in src_list]) + "
-")
-        out.write("  Candidates: " + str(cands) + "
-
-")
+        out.write("PHANTOM: " + ph + " (in " + str(len(src_list)) + " files)\n")
+        out.write("  Sources: " + ", ".join([os.path.basename(s) for s in src_list]) + "\n")
+        out.write("  Candidates: " + str(cands) + "\n\n")
 
 print("Classified phantoms written to /tmp/phantoms_classified.txt")

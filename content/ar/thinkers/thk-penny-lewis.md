@@ -38,7 +38,7 @@ gaps:
  5. **النظرية التطورية** (Stark & Loman).
 - «A Taxonomy of Verbal Categories for Dance/Movement Therapy» (1985): تصنيف لمحتوى اللغة في الجلسات.
 - «Laban Movement Analysis Applied to the Behavior of Infants and Young Children» (1984).
-- «Stabat Mater» — Choreographic Work for Ten Women»: عملها الفني.
+- «Stabat Mater» — Choreographic Work for Ten Women: عملها الفني.
 
 ## موقعها من التيار
 

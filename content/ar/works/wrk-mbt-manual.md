@@ -17,7 +17,7 @@ author_slug: "thk-zsegal"
 publication_year: 2002
 original_language: "الإنجليزية"
 edges:
-- rel: "belongs_to", target: "tec-mbct", target_type: "تقنية/تدخل علاجي"
+- rel: "belongs_to", target: "sch-mbct", target_type: "مدرسة"
 related:
 - id: "sch-mbct", title: "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)", type: "مدرسة"
 - id: "thk-zsegal", title: "زيندل سيغال", type: "مفكر"

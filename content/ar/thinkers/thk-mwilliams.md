@@ -15,7 +15,7 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "tec-mbct", title: "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)", type: "تقنية/تدخل علاجي"
+- id: "sch-mbct", title: "العلاج المعرفي القائم على اليقظة الذهنية (MBCT)", type: "مدرسة"
 - id: "thk-zsegal", title: "زيندل سيغال", type: "مفكر"
 - id: "thk-jteasdale", title: "جون تيزديل", type: "مفكر"
 - id: "ctx-mindfulness-mbsr-medical-integration", title: "دمج اليقظة الذهنية في الطب المعاصر مع جون كابات زين", type: "سياق/تقليد"

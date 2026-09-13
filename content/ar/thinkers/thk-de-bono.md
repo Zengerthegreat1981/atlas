@@ -20,7 +20,7 @@ related:
 - id: "thk-goleman", title: "دانيال غولمان", type: "مفكر"
 - id: "thk-csikszentmihalyi", title: "ميهاي تشيكسنتميهاي", type: "مفكر"
 - id: "con-creative-block", title: "الانسداد الإبداعي", type: "مفهوم"
-- id: "wrk-six-thinking-hats", title: "قبعات التفكير الست", type: "عمل / كتاب"
+- id: "wrk-six-thinking-hats", title: "قبعات التفكير الست — كتاب إدوارد دي بونو (1985)", type: "عمل / كتاب"
 - id: "con-six-thinking-hats", title: "قبعات التفكير الست (التفكير المتوازي وإدارة الاجتماعات)", type: "مفهوم"
 - id: "stu-duncker-candle-problem", title: "تجربة كارل دونكر لمشكلة الشمعة والجمود الوظيفي (1945)", type: "دراسة وبحث"
 gaps:

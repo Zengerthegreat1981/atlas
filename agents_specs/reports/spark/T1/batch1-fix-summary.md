@@ -25,7 +25,7 @@
   - أبراهام كاوانيوآ (Abraham Kawai'ae'a) → `thk-abraham-kawai.md`
   - دينا فاردي (Dina Wardi) → `thk-dina-wardi.md`
 - **إعادة كتابة `thk-ebosnak.md`:** كُتبت السيرة بالكامل عن المحلل اليونغي الهولندي **روبرت بوسناك (Robert Bosnak)** ومبتكر التخيل المتجسد ومؤلفاته الأصلية.
-- التقرير الفرعي: [batch1-fix-1.md](file:///Users/minamoheb/Desktop/Atlas/agents_specs/reports/spark/T1/batch1-fix-1.md).
+- التقرير الفرعي: [batch1-fix-1.md](batch1-fix-1.md).
 
 ### أمر 2 — التوثيق الذاتي الحصري والحجر الصحي (58 ملفاً)
 - **إثبات وتعميق الشخصيات الموثقة ذاتياً (3 ملفات):**
@@ -33,7 +33,7 @@
   - بيريكليس كاسترينيديس (`thk-kastrinidis`): مؤلف أبحاث الدازاينسأناليز في *The Humanistic Psychologist*.
   - نكازيلو نكوبي (`thk-amncube`): رائدة العلاج السردي ومبتكرة "شجرة الحياة" (*IJNT* 2006).
 - **الحجر الصحي (55 ملفاً):** حُذفت كافة الملفات التي لا يملك أصحابها مؤلفات أو أبحاثاً منشورة مستقلة وسُجلت في `quarantine-spark.md`.
-- التقرير الفرعي: [batch1-fix-2.md](file:///Users/minamoheb/Desktop/Atlas/agents_specs/reports/spark/T1/batch1-fix-2.md).
+- التقرير الفرعي: [batch1-fix-2.md](batch1-fix-2.md).
 
 ### أمر 3 — تصحيح أخطاء الهوية والنسبة (6 ملفات)
 - `thk-calbright`: تصحيح الهوية إلى **آن كوبر ألبريت (Ann Cooper Albright)** أستاذة الرقص بكلية أوبرلين.
@@ -42,21 +42,21 @@
 - `thk-jacqueline-astington`: مطابقة الاسم العربي مع الاسم الإنجليزي **جانيت وايلد أستنغتون (Janet Wilde Astington)**.
 - `thk-lonan`: تصحيح الهوية والجنس إلى **لويجي أونيس (Luigi Onnis)** (مذكر) أستاذ الطب النفسي والعلاج الأسري بروما.
 - `thk-kaarlokeranen`: تصحيح صفة **كارلو كيرانن (Kaarlo Keränen)** كمدير إكلينيكي في مستشفى كيروبوداس، وتوثيق مصادر دراسات الحوار المفتوح المعتمدة.
-- التقرير الفرعي: [batch1-fix-3.md](file:///Users/minamoheb/Desktop/Atlas/agents_specs/reports/spark/T1/batch1-fix-3.md).
+- التقرير الفرعي: [batch1-fix-3.md](batch1-fix-3.md).
 
 ### أمر 4 — تصحيح وتبرير الروابط (6 ملفات)
 - حجر `thk-apert` لعدم التوثيق وتضارب الرابط.
 - تصحيح وحذف الرابط غير المتطابق في `thk-dgray`.
 - تصحيح النقل الصوتي لـ **بروس أوغيلفي (Bruce Ogilvie)** في `thk-jacqueline-varner`.
 - تبرير الروابط صراحة في المتن في `thk-jmitchell` (جين فلاكس)، و`thk-gadamoli` (أكسيل كابريليس)، و`thk-lovaas` (دونالد باير).
-- التقرير الفرعي: [batch1-fix-4.md](file:///Users/minamoheb/Desktop/Atlas/agents_specs/reports/spark/T1/batch1-fix-4.md).
+- التقرير الفرعي: [batch1-fix-4.md](batch1-fix-4.md).
 
 ### أمر 5 — تنظيف منهجي لحقل `gaps` (كافة المسودات)
 - إزالة تكرار التواريخ والمعلومات الواردة في الـ frontmatter أو المتن.
 - حذف عبارات تبرير الـ slugs التاريخية التزاماً بالقاعدة 6.
 - نقل الإنجازات والألقاب للمتن (مثل وسام الاستحقاق في `thk-cherylfairbairn`).
 - استبدال القوالب العامة بتسمية محددة للنقص الفعلي.
-- التقرير الفرعي: [batch1-fix-5.md](file:///Users/minamoheb/Desktop/Atlas/agents_specs/reports/spark/T1/batch1-fix-5.md).
+- التقرير الفرعي: [batch1-fix-5.md](batch1-fix-5.md).
 
 ### أمر 6 — معالجة المشاكل الفردية الإضافية (12 ملفاً)
 - `thk-jmertz`: إعادة كتابتها عن المحلل اليونغي الإيطالي الفردي **ماريو تريفي (Mario Trevi)**.
@@ -70,21 +70,21 @@
 - `thk-isap`: توثيق مؤلفات بول بروتشه وأورسولا فيرتز (*Trauma and Beyond*).
 - `thk-aboller`: تعزيز قسم «ما قدمه» لأرماند فولكاس بوقائع وتواريخ محددة (1989, 1993, 2009).
 - حجر `thk-amy-morgan` و`thk-dpierrakos` لافتقارهما لمؤلفات مستقلة.
-- التقرير الفرعي: [batch1-fix-6.md](file:///Users/minamoheb/Desktop/Atlas/agents_specs/reports/spark/T1/batch1-fix-6.md).
+- التقرير الفرعي: [batch1-fix-6.md](batch1-fix-6.md).
 
 ---
 
 ## 3. الوثائق المحدثة والمخرجات
-1. **سجل الحجر الصحي:** [quarantine-spark.md](file:///Users/minamoheb/Desktop/Atlas/agents_specs/quarantine-spark.md) (61 قيداً مفصلاً).
-2. **سجل الطلبات والـ slugs:** [requests-spark.md](file:///Users/minamoheb/Desktop/Atlas/agents_specs/requests-spark.md) (11 قيداً).
+1. **سجل الحجر الصحي:** [quarantine-spark.md](../../../quarantine-spark.md) (61 قيداً مفصلاً).
+2. **سجل الطلبات والـ slugs:** [requests-spark.md](../../../requests-spark.md) (11 قيداً).
 3. **التقارير الفرعية:**
-   - [batch1-fix-1.md](file:///Users/minamoheb/Desktop/Atlas/agents_specs/reports/spark/T1/batch1-fix-1.md)
-   - [batch1-fix-2.md](file:///Users/minamoheb/Desktop/Atlas/agents_specs/reports/spark/T1/batch1-fix-2.md)
-   - [batch1-fix-3.md](file:///Users/minamoheb/Desktop/Atlas/agents_specs/reports/spark/T1/batch1-fix-3.md)
-   - [batch1-fix-4.md](file:///Users/minamoheb/Desktop/Atlas/agents_specs/reports/spark/T1/batch1-fix-4.md)
-   - [batch1-fix-5.md](file:///Users/minamoheb/Desktop/Atlas/agents_specs/reports/spark/T1/batch1-fix-5.md)
-   - [batch1-fix-6.md](file:///Users/minamoheb/Desktop/Atlas/agents_specs/reports/spark/T1/batch1-fix-6.md)
-4. **فهرس الـ Slugs:** [EXISTING_SLUGS.md](file:///Users/minamoheb/Desktop/Atlas/content/ar/drafts/EXISTING_SLUGS.md).
+   - [batch1-fix-1.md](batch1-fix-1.md)
+   - [batch1-fix-2.md](batch1-fix-2.md)
+   - [batch1-fix-3.md](batch1-fix-3.md)
+   - [batch1-fix-4.md](batch1-fix-4.md)
+   - [batch1-fix-5.md](batch1-fix-5.md)
+   - [batch1-fix-6.md](batch1-fix-6.md)
+4. **فهرس الـ Slugs:** [EXISTING_SLUGS.md](../../../../content/ar/drafts/EXISTING_SLUGS.md).
 
 ---
 

@@ -24,8 +24,8 @@ gaps:
   - "الاحتمال: الاسم مُدخل من بيانات ممارسي العلاج الأسري في أمريكا."
   - "يحتاج قرار من رئيس التحرير: حجر، تصحيح، أو دمج في ملف 'Reflecting Teams USA' عام."
   - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-reflecting-teams` موسومٌ «psychology» — فوُحِّد على وسم الأب."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (0): Reflecting Team Network: https://www.reflectingteams.org.uk/"
 ---
-
 # بيغ پيندر
 
 [هذا العنصر يحتاج مراجعة — الاسم المُسجَّل غير موثَّق في فرق الانعكاس]
@@ -52,4 +52,3 @@ gaps:
 - لا توجد مصادر موثّقة.
 - للتحقق:
   - Andersen, T. (1991). *The Reflecting Team*. Guilford.
-  - Reflecting Team Network: https://www.reflectingteams.org.uk/

@@ -17,7 +17,6 @@ edges:
 related:
 - id: "sch-care-ethics", title: "أخلاقيات الرعاية (Care Ethics)", type: "مدرسة"
 - id: "thk-lkohlberg", title: "لورنس كولبرغ", type: "مفكر"
-- id: "con-care-ethics", title: "أخلاقيات الرعاية", type: "مفهوم"
 - id: "con-different-voice", title: "الصوت المختلف (In a Different Voice)", type: "مفهوم"
 - id: "ctx-me-too-movement-gender-accountability", title: "حركة MeToo وتفكيك ثقافة الإفلات من العقاب والعنف الجندري", type: "سياق/تقليد"
 gaps:

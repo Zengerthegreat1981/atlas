@@ -62,7 +62,7 @@ gaps:
 - **فلسفة الاحتمال** (Frequentist vs. Bayesian).
 - **علم النفس المعرفي** (Daniel Kahneman، Amos Tversky — «التفكير السريع والبطيء»).
 - **البراغماتية الأمريكية** (William James، John Dewey).
-- التشاؤم الفلسفي» (Schopenhauer, Cioran).
+- «التشاؤم الفلسفي» (Schopenhauer, Cioran).
 
 ## شُبَكُه العلمية
 

@@ -25,8 +25,8 @@ gaps:
   - "سنوات الميلاد لم تُراجع من مصدر أولي."
   - "رابط لنموذج التوظيف الفردي والدعم (IPS) أُزيل لعدم وجود ملف con-ips فعلاً في الأطلس."
   - "رابط لمفهوم المرض النفسي الشديد أُزيل لعدم وجود ملف dis-mental-illness فعلاً في الأطلس."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): *Supported Employment: A Practical Guide* (1993، مع [Mueser](https://en.wikipedia.org/wiki/Kim_Mueser))."
 ---
-
 # مارك غولد
 
 معالج مهني وعالم نفس أمريكي، من المساهمين في تطوير برامج **التوظيف المدعوم** (Supported Employment) للأشخاص ذوي الإعاقات النفسية.
@@ -51,7 +51,6 @@ gaps:
 
 ## أهم أعماله
 
-- *Supported Employment: A Practical Guide* (1993، مع [Mueser](https://en.wikipedia.org/wiki/Kim_Mueser)).
 - Drake, R. E., Bond, G. R., & Becker, D. R. (2012). *Individual Placement and Support: An Evidence-Based Approach to Supported Employment*. Oxford University Press.
 - *The IPS Employment Center* (تحرير).
 - مقالات في *Psychiatric Rehabilitation Journal* و *American Journal of Psychiatry*.

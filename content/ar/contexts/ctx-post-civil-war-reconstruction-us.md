@@ -17,6 +17,7 @@ gaps:
   - "التأريخ الدقيق لعدد الإعدامات خارج القانون (lynching) في هذه الحقبة يختلف بين المصادر (تقديرات NAACP التاريخية وأرشيف Tuskegee وتقارير مشروع Equal Justice Initiative الأحدث لا تتفق على رقم واحد دقيق)، والملف هنا يستخدم النطاقات التقريبية المتفق عليها لا أرقاماً حاسمة."
   - "الربط بين «الوعي المزدوج» عند دو بويز وأطر علم النفس المعاصر (كنظرية الهوية الاجتماعية أو إجهاد الأقلية) اجتهاد تأويلي لاحق وليس ادعاءً كان دو بويز نفسه يصوغه بمصطلحات علم نفس إكلينيكي حديث؛ ينبغي عدم إسقاط مفاهيم معاصرة على نص 1903 دون هذا التحفظ."
   - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-social-psychology` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): [NAACP: History and Founding, 1909](https://naacp.org/about/naacp-history)"
 ---
 # عصر إعادة الإعمار في أمريكا وصعود قوانين جيم كرو والمقاومة
 
@@ -40,4 +41,3 @@ gaps:
 - [W.E.B. Du Bois, *The Souls of Black Folk* (1903), "Of Our Spiritual Strivings"](https://www.gutenberg.org/files/408/408-h/408-h.htm)
 - [The Booker T. Washington Era — Library of Congress, African American Odyssey](https://www.loc.gov/exhibits/african-american-odyssey/booker-t-washington-era.html)
 - [Equal Justice Initiative: Lynching in America](https://eji.org/reports/lynching-in-america/)
-- [NAACP: History and Founding, 1909](https://naacp.org/about/naacp-history)

@@ -18,18 +18,16 @@ edges:
 - rel: "belongs_to", target: "sch-dbt", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-martin-bohus", target_type: "مفكر"
 related:
-- id: "tec-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "تقنية/تدخل علاجي"
+- id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 - id: "tec-prolonged-exposure", title: "التعرض المطوّل (PE)", type: "تقنية/تدخل علاجي"
 - id: "dis-ptsd", title: "اضطراب الكرب التالي للصدمة (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-bpd", title: "اضطراب الشخصية الحدّية (BPD)", type: "اضطراب/حالة إكلينيكية"
-- id: "sch-dbt", title: "العلاج الجدلي السلوكي (DBT)", type: "مدرسة"
 - id: "thk-martin-bohus", title: "مارتن بوهوس", type: "مفكر"
 - id: "thk-mlinehan", title: "مارشا لينهان", type: "مفكر"
 gaps:
   - "الفرق الدقيق بين DBT-PTSD وبروتوكول DBT-PE (DBT مع التعرض) الذي طوّرته لينهان في 2002 يحتاج توثيقاً."
   - "دور أرنولد أرنتز (Arntz) كمطوّر مشارك مع بوهوس غير موثّق بملف مستقل في الأطلس بعد."
 ---
-
 # العلاج الجدلي السلوكي للصدمة (DBT-PTSD)
 
 بروتوكول علاجي يدمج العلاج الجدلي السلوكي (DBT) مع تقنيات التعرض للصدمة، طُوّر خصيصاً للمرضى الذين يعانون من اضطراب الكرب التالي للصدمة (PTSD) المُركّب على اضطراب الشخصية الحدية (BPD).

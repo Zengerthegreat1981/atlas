@@ -23,8 +23,8 @@ gaps:
   - "سنة الميلاد الدقيقة تقديرية (1948، من سياق تخرّجه) ولم تُراجع من مصدر أولي."
   - "تفاصيل عمله المبكر في New Hampshire-Dartmouth Psychiatric Research Center قبل 1980 غير موثّقة هنا."
   - "لا يوجد ملف مستقل موثَّق حالياً في الأطلس لتشارلز موبري (Charles A. Mowbray) ولا جيمس تومبسون (James D. Thompson) ولا تشارلز سيليرز (Charles J. Sayers)، فحُذفت روابطهم من related؛ ذكرهم في المتن نصّي فقط دون رابط."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): Dartmouth (IACSSD): https://www.dartmouth.edu/iacssd/"
 ---
-
 # روبرت إي. دريك
 
 طبيب نفسي أمريكي، أستاذ كرسي «Endowed Professor of Psychiatry» في **كلية الطب في جامعة جونسون هوبكنز** (Johns Hopkins). أستاذ سابق في **Dartmouth Medical School** (1980–2003). أحد أهم منظِّري **«إدارة الحالة» (Case Management)** في الصحة النفسية.
@@ -104,4 +104,3 @@ gaps:
 - Drake, R. E. & Bond, G. R. (2010). «Implementing Integrated Mental Health and Substance Abuse Services», *Journal of Dual Diagnosis* 6(3–4): 217–225.
 - Drake, R. E. et al. (2012). «A Recovery-Oriented Approach to Employment», *Psychiatric Services* 63(7): 710–714.
 - SAMSHA: https://www.samhsa.gov/
-- Dartmouth (IACSSD): https://www.dartmouth.edu/iacssd/

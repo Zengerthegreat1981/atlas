@@ -5,12 +5,15 @@ based on structural relationships (edges).
 
 Optimized: builds a reverse index of edges once, then looks up each orphan.
 """
+import os as _os
+# جذرُ المستودع يُشتقّ من موضع الملفّ نفسِه — لا مسارٌ مثبَّتٌ لجهازٍ بعينه.
+_ATLAS_ROOT = _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..'))
 import os
 import re
 import json
 from collections import defaultdict
 
-APPROVED_BASE = "/Users/minamoheb/Desktop/Atlas/content/ar"
+APPROVED_BASE = _ATLAS_ROOT + "/content/ar"
 
 # Slug -> type mapping
 SLUG_INDEX = {}

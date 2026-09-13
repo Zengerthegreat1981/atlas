@@ -17,13 +17,12 @@ edges:
 - rel: "developed", target: "br-glasser-reality-therapy", target_type: "تيار"
 related:
 - id: "br-person-centered", title: "العلاج المتمركز حول العميل (روجرز)", type: "تيار"
-- id: "tec-reality-choice-therapy", title: "علاج الواقع ونظرية الاختيار", type: "تقنية/تدخل علاجي"
+- id: "br-glasser-reality-therapy", title: "علاج الواقع ونظرية الاختيار (غلاسر)", type: "تيار"
 - id: "con-quality-world", title: "العالم النوعي (Quality World)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Reality Therapy* (1965) بترجمة عربية معتمدة."
   - "تاريخا الميلاد والوفاة (11 مايو 1925 – 23 أغسطس 2013) ومسيرته المهنية (مدينة كليفلاند، جامعة كيس ويسترن ريزيرف، شهادة الطب 1953، تأسيس معهد علاج الواقع 1967) روجعت عبر مصادر مستقلة (Wikipedia، EBSCO Research Starters، GoodTherapy) بتاريخ 2026-09-03."
 ---
-
 # ويليام غلاسر
 
 طبيب نفسي أمريكي ومؤسس «علاج الواقع» (Reality Therapy) و«نظرية الاختيار» (Choice Theory)، ركّز على فكرة أن السلوك الإشكالي ليس مرضاً بل اختياراً واعياً (أو غير واعٍ)، وأن المسؤولية الشخصية والعلاقات الفعّالة هما مفتاح الصحة النفسية.

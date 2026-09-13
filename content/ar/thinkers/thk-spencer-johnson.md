@@ -22,8 +22,8 @@ related:
 gaps:
   - "تفاصيل دراسته الطبّية (جامعة ساوث داكوتا) موثّقة جزئياً."
   - "التفاصيل الدقيقة لمؤسَّسته «Heureka Research» موثّقة جزئياً."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (0): Heureka Research: https://www.heurekaresearch.com/"
 ---
-
 # سبنسر جونسون
 
 طبيب وكاتب أمريكي، وُلد في 14 نوفمبر 1938 في ميتشيغان، وتُوفي في 3 يوليو 2017 في سان دييغو. حائز على MD من **جامعة ساوث داكوتا** (تخصّص في الطب النفسي، دكتوراه من جامعة مينيسوتا). عمل في إدارة الأدوية، في التسويق.
@@ -69,5 +69,4 @@ gaps:
 - Blanchard, K. & Johnson, S. (1982). *The One Minute Manager*. Morrow.
 - Johnson, S. (1998). *Who Moved My Cheese?*. Putnam.
 - Johnson, S. (2003). *The Present*. Putnam.
-- Heureka Research: https://www.heurekaresearch.com/
 - Johnson, S. & Kock, R. (2014). *Peak Performance*. McGraw-Hill.

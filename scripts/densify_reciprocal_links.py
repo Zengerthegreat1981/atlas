@@ -1,12 +1,15 @@
+import os as _os
+# جذرُ المستودع يُشتقّ من موضع الملفّ نفسِه — لا مسارٌ مثبَّتٌ لجهازٍ بعينه.
+_ATLAS_ROOT = _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..'))
 import os, glob, re
 from collections import defaultdict
 
-base = "/Users/minamoheb/Desktop/Atlas/content/ar"
+base = _ATLAS_ROOT + "/content/ar"
 slug_set = set()
 slug_to_file = {}
 slug_to_meta = {}
 
-RELATED_ITEM_RE = re.compile(r"-\s*id:\s*"([^"]*)"\s*,\s*title:\s*"([^"]*)"\s*,\s*type:\s*"([^"]*)"")
+RELATED_ITEM_RE = re.compile(r'-\s*id:\s*"([^"]*)"\s*,\s*title:\s*"([^"]*)"\s*,\s*type:\s*"([^"]*)"')
 
 for root, dirs, files in os.walk(base):
     if "drafts" in root or "_merged" in root:
@@ -19,8 +22,8 @@ for root, dirs, files in os.walk(base):
             slug_to_file[slug] = fpath
             with open(fpath, "r", encoding="utf-8") as fp:
                 txt = fp.read()
-            m_title = re.search(r"^title:\s*"([^"]*)"", txt, re.M)
-            m_type = re.search(r"^type:\s*"([^"]*)"", txt, re.M)
+            m_title = re.search(r'^title:\s*"([^"]*)"', txt, re.M)
+            m_type = re.search(r'^type:\s*"([^"]*)"', txt, re.M)
             slug_to_meta[slug] = {
                 "title": m_title.group(1).strip() if m_title else slug,
                 "type": m_type.group(1).strip() if m_type else "مفكر"
@@ -76,8 +79,7 @@ for slug, fpath in slug_to_file.items():
             elif "related: []" in raw_yaml:
                 new_yaml = raw_yaml.replace("related: []", "related:" + NL + formatted_add)
             elif "related:" in raw_yaml:
-                new_yaml = re.sub(r"(related:\s*
-)", r"" + formatted_add + NL, raw_yaml, count=1)
+                new_yaml = re.sub(r"(related:\s*\n)", lambda m: m.group(1) + formatted_add + NL, raw_yaml, count=1)
             else:
                 if "gaps:" in raw_yaml:
                     new_yaml = raw_yaml.replace("gaps:", "related:" + NL + formatted_add + NL + "gaps:")

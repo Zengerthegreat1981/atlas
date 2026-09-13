@@ -21,7 +21,7 @@ related:
 - id: "br-antipsychiatry", title: "التيار المضاد للطب النفسي", type: "تيار"
 - id: "ctx-therapeutic-community", title: "تقليد المجتمع العلاجي والديمقراطية المؤسسية", type: "سياق/تقليد"
 - id: "dis-schizophrenia", title: "الفصام", type: "اضطراب/حالة إكلينيكية"
-- id: "tec-structural-family-therapy", title: "العلاج الأسري البنيوي", type: "تقنية/تدخل علاجي"
+- id: "br-structural-family", title: "العلاج الأسري البنيوي (Structural Family Therapy)", type: "تيار"
 gaps:
   - "لا توجد في الأطلس دراسة أثر محددة (بعينة وتصميم موثقين) تختبر نتائج نموذج مستشفى هندرسون تحديداً؛ التقييمات المتاحة عن جونز وصفية سردية وليست تجريبية."
 ---

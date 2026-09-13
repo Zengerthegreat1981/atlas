@@ -63,5 +63,5 @@ gaps:
 
 - [Hans Jonas — Encyclopedia.com](https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/jonas-hans)
 - [Hans Jonas — Wikipedia (English)](https://en.wikipedia.org/wiki/Hans_Jonas)
-- [Hans Jonas — peoplepill biography](https://peoplepill.com/i/hans-jonas/)
+- [Hans Jonas — peoplepill biography](https://web.archive.org/web/20231202080811/https://peoplepill.com/i/hans-jonas)
 - [Hans Jonas — Military History Wiki (Jewish Brigade service)](https://military-history.fandom.com/wiki/Hans_Jonas)

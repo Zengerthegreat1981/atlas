@@ -67,7 +67,7 @@ gaps:
 - [Joseph Nicolosi — Wikipedia](https://en.wikipedia.org/wiki/Joseph_Nicolosi)
 - [National Association for Research & Therapy of Homosexuality — Wikipedia](https://en.wikipedia.org/wiki/National_Association_for_Research_%26_Therapy_of_Homosexuality)
 - [Alliance for Therapeutic Choice and Scientific Integrity — Wikipedia](https://en.wikipedia.org/wiki/Alliance_for_Therapeutic_Choice_and_Scientific_Integrity)
-- [Researcher of reparative therapy study retracts claims, says he owes gay community apology — Counseling Today (2012)](https://ct.counseling.org/2012/05/researcher-of-reparative-therapy-study-retracts-claims-says-he-owes-gay-community-apology/)
+- [Researcher of reparative therapy study retracts claims, says he owes gay community apology — Counseling Today (2012)](https://web.archive.org/web/20230923011534/https://ct.counseling.org/2012/05/researcher-of-reparative-therapy-study-retracts-claims-says-he-owes-gay-community-apology/)
 - [Dr. Robert Spitzer, founder of the 'gay cure,' apologizes — PRI/The World](https://theworld.org/stories/2016/07/31/dr-robert-spitzer-founder-gay-cure-apologizes-his-reparative-therapy-study)
 - [Joseph Nicolosi, Father of Reparative Therapy for Homosexuality, Dies Suddenly — Family Research Council](https://www.frc.org/blog/2017/03/joseph-nicolosi-father-reparative-therapy-homosexuality-dies-suddenly)
 - [American Psychological Association Task Force Report on Appropriate Therapeutic Responses to Sexual Orientation (2009)](https://www.apa.org/pi/lgbt/resources/therapeutic-response.pdf)

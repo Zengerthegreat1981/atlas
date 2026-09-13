@@ -2,13 +2,16 @@
 """
 Generate the remaining 8 missing disorder files to complete disorders-full-coverage-backlog.md.
 """
+import os as _os
+# جذرُ المستودع يُشتقّ من موضع الملفّ نفسِه — لا مسارٌ مثبَّتٌ لجهازٍ بعينه.
+_ATLAS_ROOT = _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..'))
 
 import os
 import subprocess
 import re
 from datetime import datetime
 
-ROOT_DIR = "/Users/minamoheb/Desktop/Atlas"
+ROOT_DIR = _ATLAS_ROOT
 DISORDERS_DIR = os.path.join(ROOT_DIR, "content/ar/disorders")
 DRAFTS_DISORDERS_DIR = os.path.join(ROOT_DIR, "content/ar/drafts/disorders")
 BACKLOG_PATH = os.path.join(ROOT_DIR, "agents_specs/disorders-full-coverage-backlog.md")

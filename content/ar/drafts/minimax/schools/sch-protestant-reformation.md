@@ -61,4 +61,3 @@ gaps:
 - Calvin, Jean. *Institutio Christianae Religionis* [مؤسسات الدين المسيحي]. 1536 (طبعة موسعة 1559).
 - MacCulloch, Diarmaid. *The Reformation: A History*. New York: Viking, 2003.
 - Cameron, Euan. *The European Reformation*. Oxford: Oxford University Press, 1991.
-</content>

@@ -1,7 +1,10 @@
+import os as _os
+# جذرُ المستودع يُشتقّ من موضع الملفّ نفسِه — لا مسارٌ مثبَّتٌ لجهازٍ بعينه.
+_ATLAS_ROOT = _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..'))
 import sys
 from pathlib import Path
 
-sys.path.insert(0, "/Users/minamoheb/Desktop/Atlas/scripts")
+sys.path.insert(0, _ATLAS_ROOT + "/scripts")
 from atlas_content_generator import write_node
 
 # All node batches to generate

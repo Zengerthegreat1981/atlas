@@ -16,15 +16,14 @@ edges:
 - rel: "belongs_to", target: "sch-multicultural-counseling", target_type: "مدرسة"
 related:
 - id: "thk-josephtrimble", title: "جوزيف ترايمبل", type: "مفكر"
-- id: "thk-ptedeschi", title: "رافائيل تيدِسكي (حجر)", type: "مفكر"
 - id: "thk-deraldwing-sue", title: "ديرالد وينغ سو", type: "مفكر"
 gaps:
   - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` اسماً نصّياً «الإرشاد متعدد الثقافات» لا يُحلّ إلى ملفّ، وقد أُنشئت المدرسةُ `sch-multicultural-counseling` فأُسند الانتماءُ إليها."
   - "لا يوجد اقتباس مباشر موثوق من *Counseling American Minorities* (1983) بترجمة عربية معتمدة."
   - "تم التحقق عبر ويكيبيديا وصحيفتي Santa Barbara Independent وMail Tribune (نعي 2008) من أنه وُلد في 10 فبراير 1940 وتوفي في 11 يناير 2008 بسانتا باربارا؛ عُيِّن في UCSB سنة 1972 وتقاعد أستاذاً فخرياً سنة 2002. نسخة المسودة السابقة (1940–2017) كانت خاطئة في سنة الوفاة."
   - "تصحيح: اسم النموذج الوارد سابقاً في هذا الملف («نموذج ATMS» بالحروف Attitudes, Treatment, Matching, Skills) غير موثّق في أي مصدر أكاديمي تم العثور عليه، ويبدو تسمية ملفَّقة. النموذج الموثَّق فعلياً هو «النموذج الثلاثي الأبعاد» (A Three-Dimensional Model for Counseling Racial/Ethnic Minorities)، نُشر 1993 بالاشتراك مع Chalmer Thompson وSheila Grant، ويقوم على ثلاثة أبعاد: مستوى التأقلم الثقافي للعميل (acculturation)، وموقع سبب المشكلة (locus of problem etiology)، وأهداف المساعدة (goals of helping). تم تصحيح النص أدناه تبعاً لذلك."
+  - "أُزيل رابطُ `related` إلى `thk-ptedeschi` — الهدفُ ملفٌّ محجورٌ (شخصيةٌ/مدخلٌ غيرُ موثَّق الوجود)، فالرابطُ يقود القارئَ إلى طريقٍ مسدود. يُعاد إن رُفع الحجر."
 ---
-
 # دونالد أتكينسون
 
 أستاذ علم النفس في جامعة كاليفورنيا، من الجيل المؤسس لتيار **الاستشارات متعددة الثقافات** في السبعينيات والثمانينيات.
@@ -50,6 +49,6 @@ gaps:
 
 - Wikipedia — [Donald R. Atkinson](https://en.wikipedia.org/wiki/Donald_R._Atkinson)
 - The Santa Barbara Independent — [نعي دونالد أتكينسون](https://www.independent.com/obits/2008/01/14/donald-atkinson-phd/)
-- Mail Tribune — [نعي دونالد راي أتكينسون](https://www.mailtribune.com/obituaries/2008/01/15/donald-ray-atkinson/)
+- Mail Tribune — [نعي دونالد راي أتكينسون](https://web.archive.org/web/20211204041435/https://www.mailtribune.com/obituaries/2008/01/15/donald-ray-atkinson/)
 - iResearchNet — [Donald Ray Atkinson - History of Counseling](https://psychology.iresearchnet.com/counseling-psychology/history-of-counseling/donald-ray-atkinson/)
 - ResearchGate — [A Three-Dimensional Model for Counseling Racial/Ethnic Minorities](https://www.researchgate.net/publication/234953308_A_Three-Dimensional_Model_for_Counseling_RacialEthnic_Minorities)

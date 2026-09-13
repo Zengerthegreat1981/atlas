@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
 - id: "tec-beck-cognitive-therapy", title: "العلاج المعرفي الكلاسيكي لبيك", type: "تقنية/تدخل علاجي"
-- id: "tec-rebt", title: "العلاج العقلاني الانفعالي السلوكي (REBT)", type: "تقنية/تدخل علاجي"
+- id: "sch-rebt", title: "العلاج العقلاني الانفعالي السلوكي (REBT)", type: "مدرسة"
 - id: "tec-cognitive-reappraisal", title: "إعادة التقييم المعرفي", type: "تقنية/تدخل علاجي"
 - id: "evt-aabt-abct-founding-1966", title: "تأسيس جمعية النهوض بالعلاج السلوكي وتدشين عصر العلاج المعرفي السلوكي", type: "حدث تاريخي"
 - id: "dbt-mental-illness-vs-problem", title: "المرض العقلي: مرض أم مشكلة حياتية؟", type: "جدل"

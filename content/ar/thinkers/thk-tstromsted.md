@@ -55,6 +55,6 @@ gaps:
 ## المصادر
 
 - Authentic Movement Institute Faculty: https://www.authenticmovementinstitute.com/faculty
-- Stromsted, T. (2009). «Authentic Movement: A dance with the divine», *Body, Movement and Dance in Psychotherapy* 4(3): 201–213. https://authenticmovement-bodysoul.com/wp-content/uploads/2020/06/Authentic-Movement_Dance-with-the-Divine-1.pdf
+- Stromsted, T. (2009). «Authentic Movement: A dance with the divine», *Body, Movement and Dance in Psychotherapy* 4(3): 201–213. https://web.archive.org/web/20240531063223/https://authenticmovement-bodysoul.com/wp-content/uploads/2020/06/Authentic-Movement_Dance-with-the-Divine-1.pdf
 - Stromsted, T. (2006). *The Movable Root*. Self-published.
-- Stromsted's Publications: https://authenticmovement-bodysoul.com/publications/
+- Stromsted's Publications: https://web.archive.org/web/20260521040204/https://authenticmovement-bodysoul.com/publications/

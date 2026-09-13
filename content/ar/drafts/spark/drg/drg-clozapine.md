@@ -48,4 +48,3 @@ gaps:
 - Kane, J., Honigfeld, G., Singer, J., Meltzer, H., "Clozapine for the Treatment-Resistant Schizophrenic: A Double-Blind Comparison with Chlorpromazine", *Archives of General Psychiatry*, 45(9), 1988.
 - Lieberman, J. A. et al., "Clinical Antipsychotic Trials of Intervention Effectiveness (CATIE): Effectiveness of Antipsychotic Drugs in Patients with Chronic Schizophrenia", *New England Journal of Medicine*, 353(12), 2005.
 - Meltzer, H. Y., "Clozapine: Balancing Safety with Superior Antipsychotic Efficacy", *Clinical Schizophrenia & Related Psychoses*, 6(3), 2012.
-</content>

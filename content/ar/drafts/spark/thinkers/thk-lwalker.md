@@ -19,7 +19,11 @@ related:
 gaps:
   - "وجود هذه الشخصية غير مؤكَّد: لم يُعثر على أي إثبات مستقل (سجل أكاديمي، فهرس مكتبة، أو ذكر في أدبيات النقد الأكاديمي لـ NARTH) لكتاب 'Surviving Sexual Ambiguity' (1991) أو لمقالات باسم Laura A. Walker في Journal of the National Association of Research and Therapy of Homosexuality. يُترك الملف غامضاً بدل كتابة سيرة واثقة، ويُطلب تحقق إضافي أو نقل للحجر الصحي إذا لم يظهر إثبات."
   - "id في related (thk-jnicolosi) حُذف لأنه لا يزال مسودة غير مرقّاة في content/ar/drafts/spark/thinkers/thk-jnicolosi.md، وليس ملفاً معتمداً بعد."
+superseded_by: "thk-lwalker"   # رُقِّيت هذه المسودةُ ونسختُها المعتمدةُ في content/ar/thinkers/thk-lwalker.md
 ---
+
+> **مسودةٌ مُتجاوَزة.** رُقِّي هذا المدخلُ وصار ملفُّه المعتمدُ `content/ar/thinkers/thk-lwalker.md`.
+> ما هنا نسخةٌ سابقةٌ محفوظةٌ للسجلّ — لا تُحرَّر ولا تُبنى.
 
 # لورا ووكر
 

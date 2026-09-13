@@ -14,7 +14,7 @@ language: "متعدد اللغات"
 part: "psychology"
 related:
 - id: "con-will-to-live-schopenhauer", title: "إرادة الحياة العمياء (Will to Live)", type: "مفهوم"
-- id: "tec-motivational-interviewing", title: "المقابلات الدافعية (MI)", type: "تقنية/تدخل علاجي"
+- id: "sch-motivational-interviewing", title: "المقابلة التحفيزية (Motivational Interviewing)", type: "مدرسة"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-decisional-balance-sheet", title: "ميزان القرار (الإيجابيات والسلبيات)", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-exp-exposure-hierarchy-building", title: "بناء سلّم التعرض التدريجي", type: "تقنية/تدخل علاجي"
@@ -29,7 +29,6 @@ gaps:
   - "الأدلة على naltrexone / nalmefene لـGD في DSM-5-TR guidance لم تُغطَّ نصاً."
   - "الفرق بين GD وbehavioral addictions (internet gaming disorder) في DSM-5-TR لم يُناقَش نصاً."
 ---
-
 # اضطراب القمار
 
 اضطراب سلوكي يتمحور حول نمط مُتكرِّر من سلوك القمار (gambling) يؤدي إلى ضائقة أو ضعف إكلينيكي ملحوظ، يتميّز بفقدان السيطرة، والاستمرار رغم العواقب المالية والشخصية، والرغبة الشديدة. اعترفت به DSM-5 (2013) كأول **إدمان سلوكي غير مرتبط بمادة**، وأكَّد عليه DSM-5-TR وICD-11 (تحت فئة "Disorders due to addictive behaviours").

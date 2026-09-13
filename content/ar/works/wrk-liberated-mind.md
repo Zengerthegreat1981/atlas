@@ -20,14 +20,13 @@ edges:
 - rel: "authored_by", target: "thk-lstevenhayes", target_type: "مفكر"
 related:
 - id: "con-experiential-avoidance", title: "التجنب التجريبي", type: "مفهوم"
-- id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
 - id: "sch-act", title: "العلاج بالقبول والالتزام (ACT)", type: "مدرسة"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من نص الكتاب *A Liberated Mind* (2019) بترجمة عربية معتمدة."
   - "لم يثبت وجود ترجمة عربية منشورة لهذا العمل: بُحث عن مترجم وناشر وسنة ولم يُعثر على أيٍّ منها."
   - "التفاصيل الدقيقة لإصدارات الكتاب (Avery) لم تُراجع من مصدر أولي."
 ---
-
 # العقل المحرر: علم النفس الجديد الثوري للعلاج الذي سيحررك
 
 ## الأطروحة المركزية

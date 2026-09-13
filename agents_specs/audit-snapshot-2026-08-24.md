@@ -19,7 +19,7 @@
 ## Verification commands (run these to verify the snapshot)
 
 ```bash
-cd /Users/minamoheb/Desktop/Atlas
+cd "$(git rev-parse --show-toplevel)"
 
 # 1. File counts
 find content/ar -name "*.md" -not -path "*/_merged/*" | wc -l   # 6471

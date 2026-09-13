@@ -25,8 +25,8 @@ gaps:
   - "edges.belongs_to صُحِّح: كان يشير إلى «التجربة الجسدية» (sch-somatic-experiencing، منهج بيتر ليفين) رغم أن المتن والـcrumb نفسيهما يؤكدان انتماءها إلى «التحليل الطاقي» (Bioenergetic Analysis، IIBA، خطّ رايخ–لوين) — صُحِّح الرابط إلى br-bioenergetic-analysis."
   - "كان الملف ينسب إليها كتاب *The Embodied Mind* — وهو لفاريلا وتومسون وروش — فأُسقط."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): [Helen Resneck-Sannes — بروفايل IIBA (Institute for Bioenergetic Therapy)](https://web.archive.org/web/20260516143829/https://bioenergetic-therapy.com/index.php/en/cb-profile/mildred)"
 ---
-
 # هيلين رِسنِك-سانّيس
 
 عالمة نفس إكلينيكية أمريكية، محلّلة ومدرّبة في IIBA (International Institute for Bioenergetic Analysis)، وأستاذة سابقة في جامعة أنطاكية وجامعة سان فرانسيسكو.
@@ -49,6 +49,5 @@ gaps:
 ## المصادر
 
 - [Helen Resneck-Sannes, "The Embodied Mind" — Bioenergetic Analysis journal](https://bioenergetic-analysis.com/article/view/0743-4804-2007-17-39)
-- [Helen Resneck-Sannes — بروفايل IIBA (Institute for Bioenergetic Therapy)](https://bioenergetic-therapy.com/index.php/en/cb-profile/mildred)
 - [Guy Tonella, Helen Resneck-Sannes, Bob Lewis — Bioenergetic Analysis journal](https://bioenergetic-analysis.com/article/download/0743-4804-2010-20-9/pdf/1543)
 - [Helen Resneck-Sannes, "Bioenergetics: Past, Present and Future" — psychosozial-verlag.de (PDF)](https://psychosozial-verlag.de/resources/openaccess_pdf/36164.pdf)

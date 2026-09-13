@@ -49,4 +49,3 @@ gaps:
 - Substance Abuse and Mental Health Services Administration (SAMHSA), "Medications for Opioid Use Disorder", Treatment Improvement Protocol (TIP) 63, 2021.
 - Volkow, N. D. et al., "Medication-Assisted Therapies — Tackling the Opioid-Overdose Epidemic", *New England Journal of Medicine*, 370(22), 2014.
 - Fudala, P. J. et al., "Office-Based Treatment of Opiate Addiction with a Sublingual-Tablet Formulation of Buprenorphine and Naloxone", *New England Journal of Medicine*, 349(10), 2003.
-</content>

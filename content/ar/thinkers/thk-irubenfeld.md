@@ -44,5 +44,5 @@ gaps:
 
 - Rubenfeld Synergy Foundation, "About Ilana Rubenfeld" — https://rubenfeldsynergy.com/about-ilana-rubenfeld/
 - The Ilana Rubenfeld Foundation, "About" — https://www.rubenfeldfoundation.org/about
-- USABP, "In Memorium: Ilana Rubenfeld, 1934–2022" — https://usabp.org/Viewpoint-News/13216763
+- USABP, "In Memorium: Ilana Rubenfeld, 1934–2022" — https://web.archive.org/web/20251213231106/https://www.usabp.org/Viewpoint-News/13216763
 - New York Times, نعي إيلانا روبنفلد (نُشر يونيو 2023) — https://www.legacy.com/us/obituaries/nytimes/name/ilana-rubenfeld-obituary?id=52314205

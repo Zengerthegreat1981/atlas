@@ -8,6 +8,9 @@ Executes the full 5-stage production promotion and release plan for Atlas:
   Stage 4: Graph cross-linking, zero orphan audit, and updating slug index & matrices
   Stage 5: Production build (data.json + index.html) and verification
 """
+import os as _os
+# جذرُ المستودع يُشتقّ من موضع الملفّ نفسِه — لا مسارٌ مثبَّتٌ لجهازٍ بعينه.
+_ATLAS_ROOT = _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..'))
 
 import os
 import re
@@ -16,7 +19,7 @@ import json
 import shutil
 from pathlib import Path
 
-ATLAS_ROOT = Path('/Users/minamoheb/Desktop/Atlas')
+ATLAS_ROOT = Path(_ATLAS_ROOT)
 CONTENT_AR = ATLAS_ROOT / 'content' / 'ar'
 DRAFTS_AR = CONTENT_AR / 'drafts'
 

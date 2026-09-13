@@ -48,4 +48,3 @@ gaps:
 
 - Engel, G. L. (1977). *The Need for a New Medical Model: A Challenge for Biomedicine*. Science, 196(4286), 129–136.
 - Lipowski, Z. J. (1967). *Review of Consultation Psychiatry and Psychosomatic Medicine*. Psychosomatic Medicine.
-</content>

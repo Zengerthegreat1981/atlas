@@ -14,9 +14,9 @@ language: "الإنجليزية"
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
-- rel: "co-developed", target: "tec-motivational-interviewing", target_type: "تقنية/تدخل علاجي"
+- rel: "co-developed", target: "sch-motivational-interviewing", target_type: "مدرسة"
 related:
-- id: "tec-motivational-interviewing", title: "المقابلات الدافعية (MI)", type: "تقنية/تدخل علاجي"
+- id: "sch-motivational-interviewing", title: "المقابلة التحفيزية (Motivational Interviewing)", type: "مدرسة"
 - id: "con-motivational-spirit", title: "روح المقابلة التحفيزية (MI Spirit)", type: "مفهوم"
 - id: "thk-mgriffiths", title: "مارك غريفيثز", type: "مفكر"
 gaps:
@@ -25,7 +25,6 @@ gaps:
   - "لا يوجد عنصر thk-wmiller في الفهرس (ويليام ميلر المؤسس المشارك) — يحتاج إنشاء في معالجة لاحقة."
   - "روابط `br-psychodynamic-humanistic`، `thk-assagioli`، `thk-dabrowski`، `thk-farrelly`، `thk-lieberman` أُزيلت — لا جملة في المتن تبرر صلتهم برولنيك أو بالمقابلة التحفيزية."
 ---
-
 # ستيفن رولنيك
 
 عالم نفس ويلزي ومتخصص في علم النفس الصحي، شارك ويليام ميلر في تأسيس «المقابلة التحفيزية» (Motivational Interviewing, MI) عام 1991، التقنية العلاجية القصيرة التي أحدثت ثورة في علاج الإدمان والالتزام بالعلاج في الطب السلوكي.

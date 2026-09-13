@@ -15,7 +15,6 @@ edges:
 - rel: "part_of", target: "sch-existential-therapy", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-frankl", target_type: "مفكر"
 - rel: "relates_to", target: "thk-langle", target_type: "مفكر"
-- rel: "relates_to", target: "thk-langle", target_type: "مفكر"
 related:
 - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
 - id: "thk-langle", title: "ألفريد لانغله", type: "مفكر"

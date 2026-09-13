@@ -21,8 +21,9 @@ gaps:
   - "نص كتاب 'لماذا ننام' بالعربية لم يُراجع بعد."
   - "تفاصيل البودكاست 'Matt Walker Podcast' موثّقة جزئياً."
   - "روابط related السابقة إلى thk-jhorne وthk-arec وthk-siegel ودis-insomnia أُزيلت لأن الملفات المستهدفة غير موجودة في الأطلس."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (0): The Matt Walker Podcast: https://www.mattwalkerpodcast.com/"
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (0): Sleep & Neuroimaging Lab, UC Berkeley: https://www.sleepandimaginglab.com/"
 ---
-
 # ماثيو ووكر
 
 عالم أعصاب أمريكي من أصل بريطاني، وُلد عام 1974. أستاذ علم الأعصاب وعلم النفس في **جامعة كاليفورنيا في بيركلي** (UC Berkeley). مؤسِّس **مركز علوم النوم البشري** (Center for Human Sleep Science) في بيركلي.
@@ -58,6 +59,4 @@ gaps:
 
 - Walker, M. (2017). *Why We Sleep*. Scribner.
 - Walker, M. P. (2009). «The Role of Sleep in Cognition and Emotion», *Annals of the New York Academy of Sciences* 1156: 168–197.
-- Sleep & Neuroimaging Lab, UC Berkeley: https://www.sleepandimaginglab.com/
 - Wikipedia: https://en.wikipedia.org/wiki/Matthew_Walker_(scientist)
-- The Matt Walker Podcast: https://www.mattwalkerpodcast.com/

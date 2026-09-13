@@ -2,12 +2,15 @@
 """
 Validate all historical events candidate slugs against existing slugs.
 """
+import os as _os
+# جذرُ المستودع يُشتقّ من موضع الملفّ نفسِه — لا مسارٌ مثبَّتٌ لجهازٍ بعينه.
+_ATLAS_ROOT = _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..'))
 
 import os
 import glob
 import re
 
-ROOT_DIR = "/Users/minamoheb/Desktop/Atlas"
+ROOT_DIR = _ATLAS_ROOT
 
 all_slugs = set()
 for root, dirs, files in os.walk(os.path.join(ROOT_DIR, "content/ar")):

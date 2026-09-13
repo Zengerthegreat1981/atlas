@@ -17,13 +17,12 @@ edges:
 - rel: "developed_by", target: "thk-kgergen", target_type: "مفكر"
 related:
 - id: "br-discursive-psychology", title: "علم النفس الخطابي (بوتر وويذرل)", type: "تيار"
-- id: "tec-narrative-therapy", title: "العلاج السردي", type: "تقنية/تدخل علاجي"
+- id: "sch-narrative-therapy", title: "العلاج السردي (Narrative Therapy)", type: "مدرسة"
 - id: "tec-collaborative-language-systems", title: "الأنظمة اللغوية التعاونية", type: "تقنية/تدخل علاجي"
 gaps:
   - "كتاب كينيث جيرغن (Kenneth Gergen) 'الذات المشبعة' (The Saturated Self, 1991) و'العلاقات والواقع' (1994)."
   - "تفكيك النماذج الطبية الفردية للاضطراب النفسي وتأكيد النشأة العلائقية-اللغوية للوعي والواقع الاجتماعي."
 ---
-
 # العلاج النفسي والبنائية الاجتماعية
 
 الإطار الفلسفي والمعرفي لما بعد الحداثة في العلاج النفسي الذي قاده كينيث جيرغن ومعهد تايوس (Taos Institute)، معتبراً أن كل ما نعتبره «حقيقة» و«مرضاً» و«ذاتاً» هو نتاج اتفاقات لغوية وثقافية وعلاقات تاريخية مشتركة.

@@ -18,8 +18,8 @@ related:
 - id: "sch-transpersonal", title: "علم النفس عبر الشخصي (Transpersonal Psychology)", type: "مدرسة"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Paths Beyond Ego: The Transpersonal Vision* (1993) بترجمة عربية معتمدة."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (0): [Frances Vaughan Transpersonal Pioneer 1935-2017 — Roger Walsh, Journal of Transpersonal Psychology](https://www.questia.com/library/journal/1P4-2052770694/frances-vaughan-transpersonal-pioneer-1935-2017)"
 ---
-
 # فرانسيس فوغان
 
 عالمة نفس إكلينيكية أمريكية، من أهم منظري علم النفس عبر الشخصي في الجيل الثاني. اشتغلت على مفهوم "النمو الروحي" كأداة علاجية، وعلى تداخل علم النفس مع الممارسة التأملية.
@@ -45,7 +45,6 @@ gaps:
 
 ## المصادر
 
-- [Frances Vaughan Transpersonal Pioneer 1935-2017 — Roger Walsh, Journal of Transpersonal Psychology](https://www.questia.com/library/journal/1P4-2052770694/frances-vaughan-transpersonal-pioneer-1935-2017)
 - [Awakening Intuition with Frances Vaughan (1935–2017) — New Thinking Allowed Foundation](https://newthinkingallowed.org/awakening-intuition-with-frances-vaughan-1935-2017/)
 - [Awakening Intuition — Frances E. Vaughan, Google Books](https://books.google.com/books/about/Awakening_Intuition.html?id=2LahTXaAHcoC)
-- [Frances Vaughan — FindCenter](https://www.findcenter.com/teachers/frances-vaughan)
+- [Frances Vaughan — FindCenter](https://web.archive.org/web/20250217234944/https://www.findcenter.com/teachers/frances-vaughan)

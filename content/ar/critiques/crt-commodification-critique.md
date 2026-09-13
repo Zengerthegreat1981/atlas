@@ -12,7 +12,7 @@ part: "psychology"
 edges:
 - rel: "relates_to", target: "sch-positive-psychology", target_type: "مدرسة"
 related:
-- id: "br-positive-psychology", title: "علم النفس الإيجابي", type: "تيار"
+- id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
 - id: "crt-adhd-overdiagnosis", title: "ADHD: تشخيص مُفرط", type: "نقد خارجي موثَّق"
 - id: "crt-critique-of-burnout-industry", title: "نقد صِنَاعَة الاحتِرَاق الْمِهَنِيّ (Burnout): تَطْبِيب الْفَشَل النِّظَامِيّ", type: "نقد خارجي موثَّق"
 - id: "crt-critique-of-self-help-genre", title: "نقد أدَبّ «سَاعِد نَفْسَك»: التَّحْوِيل التِّجَارِيّ لِـ**عِلْم النَّفْس**", type: "نقد خارجي موثَّق"

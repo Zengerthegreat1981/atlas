@@ -35,5 +35,5 @@ gaps:
 ## المصادر
 
 - [In Memoriam: Birgitta Alakare — Mad in America](https://www.madinamerica.com/2021/02/memoriam-birgitta-alakare/)
-- [Birgitta Alakare: Geneva Prize 2021 — JAEC Foundation](https://jaecfoundation.org/2020/06/14/birgitta-alakare-nominated-for-geneva-prize/)
+- [Birgitta Alakare: Geneva Prize 2021 — JAEC Foundation](https://web.archive.org/web/20260411195346/https://jaecfoundation.org/2020/06/14/birgitta-alakare-nominated-for-geneva-prize/)
 - [Open Dialogue Approach — University of New Mexico School of Medicine](https://hsc.unm.edu/medicine/departments/psychiatry/research/open-dialogue/)

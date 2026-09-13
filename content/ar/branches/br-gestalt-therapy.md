@@ -3,41 +3,27 @@ slug: "br-gestalt-therapy"
 id: "BRN-0154"
 type: "تيار"
 level: "مبتدئ"
-title: "علاج الجشطالت"
-en: "Gestalt Therapy"
-crumb: "الإنسانية ← التيارات ← علاج الجشطالت"
 country: "الولايات المتحدة"
 dates: "نيويورك وكاليفورنيا · الخمسينيات"
 active_start: 1951
 active_end: "مستمر"
 language: "الإنجليزية"
 part: "psychology"
+title: "علاج الجشطالت — إحالة، انظر sch-gestalt-therapy"
+en: "Gestalt Therapy — merged, see sch-gestalt-therapy"
+crumb: "الإنسانية ← التيارات ← [إحالة]"
+redirect_to: "sch-gestalt-therapy"
 edges:
-- rel: "belongs_to", target: "sch-gestalt-therapy", target_type: "مدرسة"
-- rel: "developed_by", target: "thk-fperls", target_type: "مفكر"
+  []
 related:
-- id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
-- id: "thk-lperls", title: "لورا بيرلز", type: "مفكر"
-- id: "thk-goodman", title: "بول غودمان", type: "مفكر"
-- id: "br-gestalt-berlin", title: "علم النفس الجشطالتي (مدرسة برلين)", type: "تيار"
-- id: "thk-rresnick", title: "روبرت رِسنيك", type: "مفكر"
-- id: "tec-gestalt-bodywork", title: "عمل الجسد الجشطالتي", type: "تقنية/تدخل علاجي"
-- id: "br-gestalt-theoretical-psychotherapy", title: "العلاج النفسي الجشطالتي النظري (GTP)", type: "تيار"
-- id: "rel-humanistic-existential-gestalt", title: "الإنسانية-الوجودية والجشطالتية: الجذور الظاهراتية المشتركة", type: "علاقة بين مدرستين"
+- id: "sch-gestalt-therapy", title: "علاج الجشطالت (Gestalt Therapy)", type: "مدرسة"
 gaps:
-  - "كتاب 'علاج الجشطالت' التأسيسي (1951) لفريتز بيرلز ولورا بيرلز وبول غودمان ونظرية الذات عند حد الاتصال (Contact Boundary)."
-  - "آليات مقاومة الاتصال الخمس: الإسقاط، الانعطاف (Retroflection)، الإدخال (Introjection)، الاندماج (Confluence)، والانحراف (Deflection)."
+  - "**دُمج في sch-gestalt-therapy بتاريخ 2026-09-13.** كان هذا الملفُّ والملفُّ القانونيُّ يصفان الشيءَ نفسَه تحت بادئتين مختلفتين، فوُحِّدا. نُقل ما انفرد به هذا الملفُّ إلى القانوني، وحُفظت نسختُه قبل الدمج في `content/ar/_merged/br-gestalt-therapy.md`."
 ---
-# علاج الجشطالت
 
-النموذج الإنساني-الظاهراتي-التجريبي الثوري الذي ابتكره فريتز ولورا بيرلز بالتعاون مع الفيلسوف بول غودمان، معيداً توجيه العلاج النفسي نحو «الوعي الحاضر هنا والآن»، والجسد، والتكامل العضوي للكائن في مجاله البيئي.
+# علاج الجشطالت — إحالة
 
-## المفاهيم والتقنيات
+**دُمج هذا المدخلُ في `sch-gestalt-therapy`.** المتنُ الكاملُ والمصادرُ والروابطُ هناك:
+[علاج الجشطالت (Gestalt Therapy)](sch-gestalt-therapy).
 
-- **الوعي الكلي (Awareness)** وتركيز الانتباه على التجربة الحية الفورية في الجسد والمشاعر.
-- **حد الاتصال (Contact Boundary)**: كيف يلتقي الشخص ببيئته وينسحب منها.
-- **تقنية الكرسي الفارغ (Empty Chair)** والمقعد الساخن لتجسيد الصراعات الباطنية وحل الأعمال غير المكتملة.
-
-## المصادر
-
-لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.
+يبقى هذا الملفُّ إحالةً دائمةً كي لا تنكسر الروابطُ القديمةُ إليه.

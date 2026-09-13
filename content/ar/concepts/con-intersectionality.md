@@ -15,15 +15,14 @@ related:
 - id: "thk-crenshaw", title: "كيمبرلي كرنشو", type: "مفكر"
 - id: "thk-bhooks", title: "بيل هوكس", type: "مفكر"
 - id: "sch-intersectionality", title: "النسوية التقاطعية", type: "مدرسة"
-- id: "con-critical-liberation-therapy", title: "العلاج النقدي-التحرري", type: "مفهوم"
+- id: "br-critical-liberation-therapy", title: "العلاج النقدي-التحرري", type: "تيار"
 - id: "con-race-culturally-aware-therapy", title: "العلاج المراعي للعرق والثقافة", type: "مفهوم"
-- id: "con-intersectional-feminism", title: "علم النفس النسوي التقاطعي", type: "مفهوم"
+- id: "br-intersectional-feminist", title: "علم النفس النسوي التقاطعي", type: "تيار"
 gaps:
   - "النص التأسيسي Crenshaw 1989 يحتاج مراجعة من المصدر الأولي."
   - "لم يُعثر على اقتباس مباشر منسوب لكرنشو يمكن توثيقه بدقة."
   - "التداخل مع مفهوم علم النفس النسوي التقاطعي (con-intersectional-feminism) يحتاج فصلاً أوضح بين صياغة فلسفية وصياغة تطبيقية نفسية."
 ---
-
 # التقاطعية
 
 مفهوم صاغته كيمبرلي كرنشو (1989) لتوصيف كيف تتقاطع «محاور القمع» (Race, Gender, Class, Sexuality) لتنتج تجارب لا يمكن فهمها من محور واحد.

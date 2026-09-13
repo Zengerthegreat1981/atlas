@@ -53,4 +53,4 @@ gaps:
 - Gasser, P. et al. (2014). «Safety and efficacy of lysergic acid diethylamide-assisted psychotherapy for anxiety associated with life-threatening diseases», *Journal of Nervous and Mental Disease* 202(7): 513–520.
 - MAPS Bulletin 18(2), 2008: https://maps.org/wp-content/uploads/2008/07/v18n2.pdf
 - ClinicalTrials.gov: https://cdn.clinicaltrials.gov/large-docs/64/NCT00090064/Prot_000.pdf
-- MAPS (1988–1993 follow-up): http://www.maps.org/news-letters/v05n3/05303psy.html
+- MAPS (1988–1993 follow-up): https://web.archive.org/web/20211009224204/https://maps.org/news-letters/v05n3/05303psy.html

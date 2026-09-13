@@ -24,8 +24,8 @@ gaps:
   - "تأثيره في تأسيس «الحوار المفتوح» في توركو يحتاج فصلاً."
   - "حُذف رابط 'كنوت سفينسن' (thk-kjerg) لعدم وجود ملف مفكر مستقل بهذا الاسم في الأطلس."
   - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-open-dialogue` موسومٌ «psychology» — فوُحِّد على وسم الأب."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): Wikipedia (Reflecting Team): https://en.wikipedia.org/wiki/Reflecting_team"
 ---
-
 # توم أندرسن
 
 طبيب نفسي نرويجي، وُلد في 1936 وتُوفي في 2007. أستاذ الطب النفسي في **كلية الطب في الجامعة النرويجية للعلوم والتكنولوجيا** (NTNU) في تروندهايم. من أهم منظِّري **العلاج الأسري الحواري** في شمال أوروبا.
@@ -36,7 +36,7 @@ gaps:
 - «Dialogical Processes and the Reflecting Team» (محرِّر، PCIT Books, 2004).
 - «Some Examples of the «Reflecting Process»» (1985, 1987): المقالات الأولى التي تشرح منهجه.
 - «Crossing the Border» (1997): تطوير نظري للحوار المتعدّد الأصوات.
-- «First-Family Therapy Session as a Conversation with a «Multi-Voiced Self» (2004): مقال نظري مهم.
+- «First-Family Therapy Session as a Conversation with a Multi-Voiced Self» (2004): مقال نظري مهم.
 
 ## موقعه من التيار
 
@@ -63,4 +63,3 @@ gaps:
 - Andersen, T. (1991). *The Reflecting Team: Dialogues and Dialogues About the Dialogues*. Guilford.
 - Andersen, T. (ed.) (2004). *Dialogical Processes and the Reflecting Team*. PCIT Books.
 - Seikkula, J. & Arnkil, T. E. (2006). *Dialogical Meetings in Social Networks*. Karnac.
-- Wikipedia (Reflecting Team): https://en.wikipedia.org/wiki/Reflecting_team

@@ -21,7 +21,7 @@ related:
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
 - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
 - id: "thk-fromm", title: "إريك فروم", type: "مفكر"
-- id: "tec-ipt", title: "العلاج النفسي البيني-الشخصي (IPT)", type: "تقنية/تدخل علاجي"
+- id: "sch-ipt", title: "العلاج بين الأشخاص (IPT)", type: "مدرسة"
 - id: "tec-tldp", title: "العلاج الديناميكي المحدد زمنياً (TLDP)", type: "تقنية/تدخل علاجي"
 - id: "br-cyclical-psychodynamics", title: "الديناميات النفسية الدائرية", type: "تيار"
 - id: "br-neo-freudian", title: "الفرويدية الجديدة والتحليل البيني-الشخصي", type: "تيار"

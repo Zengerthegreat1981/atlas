@@ -26,6 +26,7 @@ gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الإحساس الداخلي (con-interoception)"
   - "الدراسات الحديثة (Hampton et al.) شككت في فرضية العلامة الجسدية كآلية عصبية مباشرة، جادلت أن التأثير الانفعالي على القرار قد لا يحتاج 'إشارة جسدية'."
   - "نموذج iowa gambling task (Bechara) الذي يدعم الفرضية موثّق جزئياً."
+  - "قسمُ «المصادر» في هذا الملفّ كان يسرد عناوينَ مداخلَ أخرى من الأطلس نفسِه مأخوذةً من حقل `related` — أي إحالاتٍ داخليةً لا مصادرَ خارجية. غُيِّر عنوانُ القسم إلى ما يصفه، والملفُّ ما زال بلا مصادرَ موثَّقةٍ خارجية."
 ---
 # العلامة الجسدية (Somatic Marker)
 
@@ -96,8 +97,8 @@ gaps:
 - Bechara, A., Damasio, A. R., Damasio, H., & Anderson, S. W. (1994). Insensitivity to future consequences following damage to human prefrontal cortex. *Cognition*, 50(1-3), 7-15.
 - Damasio, A. R. (1996). The somatic marker hypothesis and the possible functions of the prefrontal cortex. *Philosophical Transactions of the Royal Society B*, 351(1346), 1413-1420.
 
-## المصادر
+## مداخلُ الأطلس المتّصلة
 
-مصادر أساسية مرتبطة بهذا المدخل (وفق حقل `related` في البيانات الوصفية):
+مداخلُ الأطلس المتّصلةُ بهذا المدخل (من حقل `related`) — وهي إحالاتٌ داخلية، لا مصادرُ خارجية:
 
 - *خطأ ديكارت*

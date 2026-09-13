@@ -53,4 +53,3 @@ gaps:
 
 - Akhilananda, S. *Hindu Psychology: Its Meaning for the West*. Vedanta Society of Boston, 1947.
 - Akhilananda, S. *The Wisdom of the Vedas*. Vedanta Society of Boston, 1962.
-</content>

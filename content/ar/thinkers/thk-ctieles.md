@@ -23,8 +23,8 @@ gaps:
   - "السيرة الكاملة بحاجة لتحديد — لم يتم التحقق من وجود الشخص أصلاً."
   - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-psychoanalysis` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
   - "**وُحِّد مسارُ التنقّل 2026-09-10:** كان «مدرسة التحليل النفسي» وصار «التحليل النفسي» — لأنّ الجذرَ كان منقسماً بين صيغتين للشيء نفسِه، فيعرض فهرسُ التصفّح موضعين لموضعٍ واحد."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): Áxel Capriles، ”Movimientos posjunguianos: Conversaciones con Rafael López-Pedraza”: https://web.archive.org/web/20260624151443/https://www.axelcapriles.com/post/movimientos-posjunguianos-conversaciones-con-rafael-l%C3%B3pez-pedraza"
 ---
-
 # سيسليو تيليس
 
 محلّل يونغي فنزويلي، تلميذ لوبيز-بيدراثا في كراكاس، من أهمّ أعلام «التحليلية الكراكاسية» في الجيل الثاني.
@@ -47,5 +47,4 @@ Mitos y Máscaras de la Cultura Venezolana (التسعينيات من القرن
 ## المصادر
 
 - Rafael López-Pedraza, ويكيبيديا بالإسبانية: https://es.wikipedia.org/wiki/Rafael_L%C3%B3pez-Pedraza
-- Áxel Capriles، "Movimientos posjunguianos: Conversaciones con Rafael López-Pedraza": https://www.axelcapriles.com/post/movimientos-posjunguianos-conversaciones-con-rafael-l%C3%B3pez-pedraza
 - Cecilio Tieles (عازف البيانو الكوبي، الشخص الوحيد الموثّق بهذا الاسم)، ويكيبيديا: https://en.wikipedia.org/wiki/Cecilio_Tieles

@@ -25,8 +25,8 @@ gaps:
   - "عنوان وسنة عمله المشترك مع بيري هوفمان حول بروتوكول DBT للعائلات كان مذكوراً خطأً كـ'كتاب DBT for Families'؛ المصدر الموثَّق المتاح هو برنامج «Family Connections» (Hoffman & Fruzzetti، 2005)."
   - "تصحيح: النسخة السابقة وصفته بأنه 'أستاذ علم النفس في جامعة نيفادا، رينو' فقط، بينما هو الآن أستاذ متقاعد (Emeritus) هناك، وعلى ملاك كلية طب هارفارد ويعمل في مستشفى McLean. كما وُصف بأنه 'أسّس مركز التدريب على DBT للعائلات في جامعة نيفادا' وهذا غير دقيق؛ الصحيح أنه شارك في تأسيس مركز مستقل باسم Center for DBT and Families."
   - "ادعاء اعتماد DBT-FT في بروتوكولات NICE وAPA لم يوثَّق بمصدر مستقل فحُذف."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): [Alan Fruzzetti, PhD — Behavioral Tech Institute](https://behavioraltech.org/trainers/alan-fruzzetti-phd/)"
 ---
-
 # آلان فروزّيتي
 
 آلان إي. فروزّيتي أستاذ (متقاعد الآن، Professor Emeritus) علم النفس في جامعة نيفادا، رينو، وهو حالياً أستاذ مشارك في كلية طب هارفارد، ويعمل في مستشفى McLean في بيلمونت، ماساتشوستس (مديراً لبرنامج DBT السكني للفتيان (Boys Residential DBT Program) ومديراً للتدريب في خدمات الأسرة لبرامج 3East). يُعدّ **المطوّر الرئيسي للعلاج الجدلي السلوكي للأزواج والعائلات (DBT-FT)** الذي يُستخدم على نطاق واسع مع أسر المرضى الذين يعانون من اضطراب الشخصية الحدية أو الانفعالات الشديدة.
@@ -69,7 +69,6 @@ gaps:
 
 - [Alan Fruzzetti — Department of Psychology, University of Nevada, Reno](https://www.unr.edu/psychology/alan-fruzzetti)
 - [Alan E. Fruzzetti, PhD — BioMed Well-Being Program, Brown University](https://well-being.biomed.brown.edu/people/alan-e-fruzzetti-phd)
-- [Alan Fruzzetti, PhD — Behavioral Tech Institute](https://behavioraltech.org/trainers/alan-fruzzetti-phd/)
 - [Center for DBT and Families — Meet Our Team](https://www.centerfordbtandfamilies.com/meet-our-team)
 
 ## الأثر والإرث

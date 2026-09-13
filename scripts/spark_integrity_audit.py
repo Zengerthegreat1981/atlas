@@ -1,9 +1,12 @@
 # -*- coding: utf-8 -*-
+import os as _os
+# جذرُ المستودع يُشتقّ من موضع الملفّ نفسِه — لا مسارٌ مثبَّتٌ لجهازٍ بعينه.
+_ATLAS_ROOT = _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..'))
 import os
 import re
 from collections import defaultdict
 
-BASE_DIR = "/Users/minamoheb/Desktop/Atlas"
+BASE_DIR = _ATLAS_ROOT
 DRAFTS_BASE = os.path.join(BASE_DIR, "content/ar/drafts")
 APPROVED_BASE = os.path.join(BASE_DIR, "content/ar")
 

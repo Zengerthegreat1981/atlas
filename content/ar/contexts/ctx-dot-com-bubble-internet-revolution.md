@@ -19,6 +19,7 @@ gaps:
   - "الربط بين انفجار الإنترنت التجاري (1995-2000) وأطروحة «العقل الممتد» لكلارك وتشالمرز (1998) ربط سياقي-زمني أكثر منه ربطاً سببياً مباشراً موثقاً في نص الأطروحة الأصلية نفسها؛ الأطروحة تُبنى على أمثلة معرفية عامة (كالدفتر والحاسبة) لا على الإنترنت تحديداً."
   - "تقدير الخسائر المالية الدقيقة لفقاعة الدوت كوم يتفاوت بين المصادر بحسب المؤشر والفترة الزمنية المعتمدة؛ الأرقام هنا (انهيار مؤشر ناسداك) مأخوذة من مصادر مالية ثانوية لا من بيانات البورصة الأولية."
   - "**صُحِّح نسبُ السياق 2026-09-10:** حُوِّل `belongs_to` إلى `relates_to` نحو `sch-phil-mind-analytic` — فقاعةُ الدوت-كوم سياقٌ اقتصاديٌّ لا يُنتظمه مبحثُ فلسفة العقل التحليلية. الرابطُ باقٍ والقصدُ التحريريُّ محفوظ؛ الساقطُ هو ادّعاءُ العضوية."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): Clark, A. & Chalmers, D., ”The Extended Mind”, Analysis 58(1), 1998 (Stanford Encyclopedia of Philosophy overview): https://plato.stanford.edu/entries/extended-mind/"
 ---
 # ثورة الإنترنت وفقاعة الدوت كوم وميلاد المجتمع الشبكي الرقمي
 
@@ -40,5 +41,4 @@ gaps:
 
 - Wikipedia, "Dot-com bubble": https://en.wikipedia.org/wiki/Dot-com_bubble
 - International Banker, "The Dotcom Bubble Burst (2000)": https://internationalbanker.com/history-of-financial-crises/the-dotcom-bubble-burst-2000/
-- Clark, A. & Chalmers, D., "The Extended Mind", Analysis 58(1), 1998 (Stanford Encyclopedia of Philosophy overview): https://plato.stanford.edu/entries/extended-mind/
 - Castells, M., "The Rise of the Network Society" (The Information Age, Vol. I), Wiley-Blackwell, 1996.

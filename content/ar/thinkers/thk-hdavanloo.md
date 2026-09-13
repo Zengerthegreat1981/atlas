@@ -18,9 +18,8 @@ related:
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-bateman", title: "أنتوني بيتمان", type: "مفكر"
 - id: "thk-fonagy", title: "بيتر فوناغي", type: "مفكر"
-- id: "tec-istdp", title: "العلاج الديناميكي المكثف قصير المدى (ISTDP)", type: "تقنية/تدخل علاجي"
-- id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
 - id: "sch-istdp", title: "العلاج النفسي الديناميكي قصير المدى المكثف (ISTDP)", type: "مدرسة"
+- id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: ديفيد مالان (thk-malan)"
   - "سنة الميلاد 10 أكتوبر 1927 مذكورة في World Biographical Encyclopedia (Prabook) وويكيبيديا الإنجليزية؛ لم تُراجع بعد من سيرة ذاتية أولية منشورة بخط دَفانلو نفسه."
@@ -28,8 +27,8 @@ gaps:
   - "تاريخ الوفاة كان مثبَّتاً خطأً في نسخة سابقة على 2016 (ومصادر أخرى ذكرت 2018)؛ المصادر المتاحة (ويكيبيديا الإنجليزية، وتأبين American Journal of Psychotherapy عام 2024، وموقع ISTDP Switzerland) تذكر وفاته في نوفمبر 2023 عن عمر 96 عاماً."
   - "عنوان كتاب 1980 «Short-Term Dynamic Psychotherapy» صادر عن Jason Aronson بوصفه دَفانلو محرراً (edited)، لا مؤلفاً منفرداً بالضرورة؛ ويوجد كتاب سابق مختلف بعنوان مقارب «Basic Principles and Techniques in Short-Term Dynamic Psychotherapy» (1978, Spectrum Publications) ينبغي عدم الخلط بينهما."
   - "سنة بدء النشاط (active_start: 1978) تقريبية؛ بعض المصادر تُرجع بدايات عمله على الطريقة إلى أوائل الستينيات (1962) في مونتريال قبل أول كتبه المنشورة."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): Wiley, ”Intensive Short-Term Dynamic Psychotherapy: Selected Papers of Habib Davanloo, M.D.”: https://www.wiley.com/en-us/Intensive+Short+Term+Dynamic+Psychotherapy:+Selected+Papers+of+Habib+Davanloo,+M+D+-p-9780471497042"
 ---
-
 # حبيب دَفانلو
 
 طبيب نفسي كندي من أصل إيراني، وأستاذ فخري في جامعة ماكغيل (McGill University) في مونتريال، يُعدّ المؤسِّس الرئيسي لـ **العلاج النفسي الديناميكي المكثّف قصير المدى** (Intensive Short-Term Dynamic Psychotherapy — ISTDP). عمل منذ أواخر السبعينيات على تطوير طريقة علاجية ديناميكية تُختصر في أسابيع بدلاً من سنوات، مع توثيق مصوَّر للجلسات للتحليل والبحث. هاجر من إيران في شبابه، وتدرب في كندا، وتخصص في الطب النفسي الديناميكي في ظل هيمنة التيار التحليلي الكلاسيكي، لكنّه سرعان ما وجد أن العلاج التحليلي التقليدي بطيء جداً لا يستجيب لاحتياجات المرضى المقاومين.
@@ -58,5 +57,4 @@ gaps:
 - Wikipedia (English), "Habib Davanloo": https://en.wikipedia.org/wiki/Habib_Davanloo
 - ISTDP Switzerland, "Personal Obituary for Dr. Habib Davanloo": https://www.istdp.ch/en/Article/personal-obituary-dr-habib-davanloo
 - American Journal of Psychotherapy, "A Tribute: Habib Davanloo, M.D." (2024): https://psychiatryonline.org/doi/10.1176/appi.psychotherapy.20240055
-- Wiley, "Intensive Short-Term Dynamic Psychotherapy: Selected Papers of Habib Davanloo, M.D.": https://www.wiley.com/en-us/Intensive+Short+Term+Dynamic+Psychotherapy:+Selected+Papers+of+Habib+Davanloo,+M+D+-p-9780471497042
 - Cambridge Core / British Journal of Psychiatry, review of "Basic Principles and Techniques in Short-Term Dynamic Psychotherapy" (ed. Davanloo, 1978): https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/abs/basic-principles-and-techniques-in-shortterm-dynamic-psychotherapy-edited-by-h-davanloo-london-sp-medical-and-scientific-books-1978-pp-580-price-2100/2DA791F586FDFF44F7191285BBC6C290

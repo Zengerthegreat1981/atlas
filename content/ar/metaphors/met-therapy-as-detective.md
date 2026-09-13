@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-beck", title: "آرون تيموثي بيك", type: "مفكر"
 - id: "con-automatic-thought", title: "الأفكار التلقائية", type: "مفهوم"
-- id: "con-cognitive-restructuring", title: "إعادة الهيكلة المعرفية (Cognitive Restructuring)", type: "مفهوم"
+- id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
 gaps:
   - "لا يوجد نص مؤكد يثبت أن كريستين بادسكي استخدمت لفظ 'محقق' حرفياً في محاضرتها 1993 — الربط هنا استنتاج من مضمون 'الاكتشاف الموجَّه' نفسه لا اقتباس مباشر."
   - "لا رابط أطلسي متحقق بعد لكريستين بادسكي (thk-padesky) ولا لمفهوم الاستجواب السقراطي (con-socratic-questioning) — يُطلب slug لهما في requests-spark.md."

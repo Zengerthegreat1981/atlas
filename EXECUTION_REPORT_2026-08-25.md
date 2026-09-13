@@ -177,7 +177,7 @@
 ### أوامر التحقق (للمدقق القادم)
 
 ```bash
-cd /Users/minamoheb/Desktop/Atlas
+cd "$(git rev-parse --show-toplevel)"
 python3 scripts/minimax_orphan_audit.py 2>&1 | head -3   # 0
 python3 scripts/spark_integrity_audit.py 2>&1 | tail -5  # 0 phantoms
 python3 scripts/audit_unverified_links.py 2>&1 | head -5  # 0

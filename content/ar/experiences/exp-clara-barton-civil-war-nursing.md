@@ -14,7 +14,7 @@ edges:
 - rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
 related:
 - id: "ctx-civil-rights-liberation-psychology", title: "حركة الحقوق المدنية وتأسيس علم النفس التحرري ونقد المركزية", type: "سياق/تقليد"
-- id: "con-care-ethics", title: "أخلاقيات الرعاية", type: "مفهوم"
+- id: "sch-care-ethics", title: "أخلاقيات الرعاية (Care Ethics)", type: "مدرسة"
 gaps:
   - "علاقة موقف بارتون من معالجة جرحى الطرفين بلا تمييز بأدبيات أخلاقيات الرعاية اللاحقة (نودينغز، جيليجان) لم تُبحث هنا؛ الرابط بـcon-care-ethics إسقاط لاحق لا مصدر أولي عليه من بارتون نفسها."
   - "تصحيح: النسخة السابقة من هذا الملف نسبت لقب Angel of the Battlefield للجراح 'جيمس دنلوب'؛ المصادر التاريخية (بما فيها رسالة الجراح نفسه من أنتيتام) تسمّيه James Dunn (جيمس دن)، وقد صُحح الاسم هنا."

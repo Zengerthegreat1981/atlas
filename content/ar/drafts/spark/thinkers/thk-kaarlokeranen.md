@@ -16,7 +16,11 @@ edges:
 - rel: "belongs_to", target: "tec-open-dialogue", target_type: "تقنية/تدخل علاجي"
 related: []
 gaps: []
+superseded_by: "thk-kaarlokeranen"   # رُقِّيت هذه المسودةُ ونسختُها المعتمدةُ في content/ar/thinkers/thk-kaarlokeranen.md
 ---
+
+> **مسودةٌ مُتجاوَزة.** رُقِّي هذا المدخلُ وصار ملفُّه المعتمدُ `content/ar/thinkers/thk-kaarlokeranen.md`.
+> ما هنا نسخةٌ سابقةٌ محفوظةٌ للسجلّ — لا تُحرَّر ولا تُبنى.
 
 # كارلو كيرانن
 

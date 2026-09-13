@@ -14,7 +14,7 @@ active_start: 1952
 active_end: "مستمر"
 cultural_origin: "anglo-american"
 edges:
-- rel: "split_into", target: "tec-structural-family-therapy", target_type: "تقنية/تدخل علاجي"
+- rel: "split_into", target: "br-structural-family", target_type: "تيار"
 - rel: "split_into", target: "tec-strategic-family-therapy", target_type: "تقنية/تدخل علاجي"
 - rel: "split_into", target: "br-bowen-systems", target_type: "تيار"
 related:

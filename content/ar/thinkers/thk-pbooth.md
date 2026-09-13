@@ -50,7 +50,7 @@ gaps:
 
 ## المصادر
 
-- Theraplay Institute: https://theraplay.org/team/phyllis-booth/
+- Theraplay Institute: https://web.archive.org/web/20260517205141/https://theraplay.org/team/phyllis-booth/
 - Booth, P. & Jernberg, A. (2009/2018). *Theraplay: Helping Parents and Children Build Better Relationships Through Attachment-Based Play*. Guilford (الطبعة الثالثة).
 - Theraplay book excerpt: https://cdn.oujdalibrary.com/books/500/500-theraplay-helping-parents-and-children-build-better-relationships-through-attachment-based-play-(www.tawcer.com).pdf
 - Booth, P. et al. (2005). *Marschak Interaction Method (MIM)*. Theraplay Institute Press.

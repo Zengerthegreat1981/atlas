@@ -14,7 +14,7 @@ language: "متعدد اللغات"
 part: "psychology"
 related:
 - id: "con-addiction", title: "الإدمان والبحث الروحي المشوه", type: "مفهوم"
-- id: "tec-motivational-interviewing", title: "المقابلات الدافعية (MI)", type: "تقنية/تدخل علاجي"
+- id: "sch-motivational-interviewing", title: "المقابلة التحفيزية (Motivational Interviewing)", type: "مدرسة"
 - id: "tec-contingency-management", title: "إدارة الطوارئ والتعزيز السلوكي", type: "تقنية/تدخل علاجي"
 - id: "tec-relapse-prevention", title: "منع الانتكاس (RP)", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
@@ -26,7 +26,6 @@ gaps:
   - "النتائج الطويلة الأمد لتجارب Contingency Management مع المنشطات لم تُراجع من دراسة أولية مباشرة."
   - "لم يُعثر بعد على اقتباس مباشر مؤكد من طبعة DSM-5-TR أو ICD-11 الأصلية لهذا العنصر."
 ---
-
 # اضطراب استخدام المنشطات
 
 نمط من استخدام المنشطات (كوكايين، أمفيتامينات، ميثامفيتامين) يؤدي إلى ضائقة أو ضعف إكلينيكي ملحوظ. المنشطات مواد منبهة للجهاز العصبي المركزي، وإدمانها يتميّز بـ"النهم" (binge patterns) و"الانهيار" (crash) الدوري، مع رغبة شديدة جداً واندفاعية عالية.

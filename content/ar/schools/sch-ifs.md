@@ -22,7 +22,7 @@ edges:
 - rel: "developed_by", target: "thk-richard-schwartz", target_type: "مفكر"
 related:
 - id: "thk-richard-schwartz", title: "ريتشارد شوارتز", type: "مفكر"
-- id: "wrk-internal-family-systems-1995", title: "أنظمة الأسرة الداخلية (1995)", type: "عمل / كتاب"
+- id: "wrk-internal-family-systems-1995", title: "أنظمة الأسرة الداخلية — كتاب ريتشارد شوارتز (1995)", type: "عمل / كتاب"
 - id: "br-ifs-protocol", title: "بروتوكول IFS", type: "تيار"
 - id: "sch-polyvagal-informed-therapy", title: "العلاج المستنير بنظرية البوليفاجال", type: "مدرسة"
 - id: "con-ifs-parts-self-leadership", title: "نموذج الأجزاء والذات القائدة في نظام الأسرة الداخلية (IFS)", type: "مفهوم"

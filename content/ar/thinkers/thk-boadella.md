@@ -24,8 +24,8 @@ gaps:
   - "عنوان كتاب 1993 (*Body in Transformation*) لم يُتحقق منه حرفياً من فهرس ناشر مستقل؛ التأكيد المتاح هو صدور كتاب لبوعِلّا عن دار Coventure سنة 1993 (ISBN 0904576582) دون تأكيد نص العنوان الإنجليزي بدقة."
   - "**عُبِّئ `active_start` 2026-09-10:** كان الحقلُ غائباً فتغيب العقدةُ عن الخطِّ الزمنيّ، والسنةُ صريحةٌ في `dates` («بريطانيا · 1931–2021») فاستُخرجت: 1931."
   - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-somatic-experiencing` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): [مقابلة مع David Boadella، بقلم Esther Frankel — USA Body Psychotherapy Journal، 2006](https://www.ibpj.org/issues/bin/Vol5No1%20USABP%20Journal%202006%20-%20Boadella.pdf)"
 ---
-
 # ديفيد بوعِلّا
 
 محلّل نفسي بريطاني، من تلامذة أولا راكنيس في النرويج، ومؤسِّس Biosynthesis (التخليق الحيوي)، ومن أكثر كتّاب تاريخ Reich علماً ومنهجيةً.
@@ -51,5 +51,4 @@ gaps:
 - [David Boadella – ويكيبيديا الألمانية](https://de.wikipedia.org/wiki/David_Boadella)
 - [David Boadella 1931–2021 "Etwas geht immer weiter" — Body, Movement and Dance in Psychotherapy (تقرير وفاة أكاديمي)](https://www.tandfonline.com/doi/full/10.1080/17432979.2022.2032643)
 - [David Boadella — معهد Biosynthesis الدولي](http://www.biosynthesis.org/html/david_boadella.html)
-- [مقابلة مع David Boadella، بقلم Esther Frankel — USA Body Psychotherapy Journal، 2006](https://www.ibpj.org/issues/bin/Vol5No1%20USABP%20Journal%202006%20-%20Boadella.pdf)
 - [Lifestreams: An Introduction to Biosynthesis — Routledge](https://www.routledge.com/Lifestreams-An-Introduction-to-Biosynthesis/Boadella/p/book/9781138829565)

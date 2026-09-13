@@ -20,7 +20,7 @@ related:
 - id: "sch-somatic-experiencing", title: "التجربة الجسدية (Somatic Experiencing)", type: "مدرسة"
 - id: "thk-dsiegel", title: "دان سيغل", type: "مفكر"
 - id: "con-window-of-tolerance", title: "نافذة التحمل (Window of Tolerance)", type: "مفهوم"
-- id: "tec-emdr", title: "إزالة التحسس وإعادة المعالجة بحركات العين (EMDR)", type: "تقنية/تدخل علاجي"
+- id: "sch-emdr", title: "إعادة المعالجة عبر حركات العين وتخفيف الأعراض (EMDR)", type: "مدرسة"
 gaps:
   - "المفهوم في سياق الصدمة صاغه بيسيل فان دير كولك في كتابه 'الجسد يحتفظ بالأرقام' (2014)."
   - "التجارب المعشاة تُظهر تغيرات هيكلية في الحُصين (Hippocampus) واللوزة الدماغية بعد العلاج النفسي الفعال."

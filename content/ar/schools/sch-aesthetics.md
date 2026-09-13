@@ -59,4 +59,3 @@ gaps:
 - Hegel, G. W. F. *Vorlesungen über die Ästhetik* (محاضرات 1820–1829، نُشرت 1835).
 - Nietzsche, F. *Die Geburt der Tragödie aus dem Geiste der Musik* (1872).
 - Dewey, John. *Art as Experience* (1934).
-</content>

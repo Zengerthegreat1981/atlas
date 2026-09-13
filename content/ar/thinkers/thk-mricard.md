@@ -13,9 +13,9 @@ active_start: 2003
 active_end: "مستمر"
 part: "psychology"
 edges:
-- rel: "belongs_to", target: "tec-contemplative-psychotherapy", target_type: "تقنية/تدخل علاجي"
+- rel: "belongs_to", target: "sch-contemplative-psychotherapy", target_type: "مدرسة"
 related:
-- id: "tec-contemplative-psychotherapy", title: "العلاج النفسي التأملي (جامعة ناروبا)", type: "تقنية/تدخل علاجي"
+- id: "sch-contemplative-psychotherapy", title: "العلاج النفسي التأملي (ناروبا)", type: "مدرسة"
 - id: "thk-ctrungpa", title: "تشوغيام ترونغبا", type: "مفكر"
 - id: "thk-jkornfield", title: "جاك كورنفيلد", type: "مفكر"
 - id: "thk-tnhat", title: "تِك نات هان", type: "مفكر"
@@ -26,7 +26,6 @@ gaps:
   - "روابط thk-rmind (ريتشارد ديفيدسون) وthk-dgoswami (ديباك شوبرا) وcon-contemplative-neuroscience وcon-altruism حُذفت — لا ملفات مستقلة لها في الأطلس بعد رغم ذكرها في المتن."
   - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `tec-contemplative-psychotherapy` موسومٌ «psychology» — فوُحِّد على وسم الأب."
 ---
-
 # ماتيو ريكار
 
 طبيب وبيولوجي فرنسي سابق (1946-)، وراهب بوذي تبتي منذ عام 1979 تحت إرشاد **دارغياي نيغما** (Dilgo Khyentse Rinpoche)، ثم أصبح قريباً من **دالاي لاما الرابع عشر**. يُعدّ من أهم من ربط بين **العلم الغربي** و**التأمّل البوذي** في مجال «علم الأعصاب التأمّلي» (Contemplative Neuroscience).
@@ -48,7 +47,7 @@ gaps:
 
 ## علاقته بالمفاهيم والمدارس
 
-يرتبط بعلم الأعصاب التأملي والإيثار (لا ملفات مستقلة لهما بعد في الأطلس) و[بالعلاج النفسي التأملي](tec-contemplative-psychotherapy) كمفاهيم مركزية.
+يرتبط بعلم الأعصاب التأملي والإيثار (لا ملفات مستقلة لهما بعد في الأطلس) و[بالعلاج النفسي التأملي](sch-contemplative-psychotherapy) كمفاهيم مركزية.
 
 ## أهم أعماله
 

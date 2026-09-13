@@ -4,11 +4,14 @@ Dedup resolution: deletes redundant drafts where an approved version exists.
 Does NOT touch the 6 cross-school techniques (per pipeline log).
 Does NOT touch cross-type dupes that have legitimate different categories.
 """
+import os as _os
+# جذرُ المستودع يُشتقّ من موضع الملفّ نفسِه — لا مسارٌ مثبَّتٌ لجهازٍ بعينه.
+_ATLAS_ROOT = _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..'))
 import os
 import re
 
-DRAFTS_BASE = "/Users/minamoheb/Desktop/Atlas/content/ar/drafts"
-APPROVED_BASE = "/Users/minamoheb/Desktop/Atlas/content/ar"
+DRAFTS_BASE = _ATLAS_ROOT + "/content/ar/drafts"
+APPROVED_BASE = _ATLAS_ROOT + "/content/ar"
 
 # These are the 6 (now 7) cross-school techniques flagged in pipeline-progress-log
 # as 'يحتاج قرار بشري' — DO NOT DELETE

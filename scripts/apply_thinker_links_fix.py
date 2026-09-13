@@ -3,13 +3,16 @@
 Apply thinker links fix to studies and instruments drafts.
 Moves confirmed thinkers from 'أفكار روابط لم تُتحقق' to 'related:' in frontmatter.
 """
+import os as _os
+# جذرُ المستودع يُشتقّ من موضع الملفّ نفسِه — لا مسارٌ مثبَّتٌ لجهازٍ بعينه.
+_ATLAS_ROOT = _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..'))
 
 import os
 import re
 import subprocess
 from datetime import datetime
 
-ROOT_DIR = "/Users/minamoheb/Desktop/Atlas"
+ROOT_DIR = _ATLAS_ROOT
 STUDIES_DIR = os.path.join(ROOT_DIR, "content/ar/drafts/studies")
 INSTRUMENTS_DIR = os.path.join(ROOT_DIR, "content/ar/drafts/instruments")
 LOG_PATH = os.path.join(ROOT_DIR, "agents_specs/pipeline-progress-log.md")

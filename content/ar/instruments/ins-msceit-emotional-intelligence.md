@@ -17,7 +17,7 @@ part: "psychology"
 edges:
 - rel: "relates_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "con-emotional-intelligence", title: "الذكاء العاطفي", type: "مفهوم"
+- id: "con-emotional-intelligence", title: "الذكاء العاطفي — المفهوم", type: "مفهوم"
 gaps:
   - "العلامة الفاصلة (cut-off) للقدرة الكاملة مقابل الأداء المتوسط تختلف بين الإصدارات وتتطلب توثيقاً دقيقاً."
   - "النقد المعرفي للقدرة مقابل نموذج السمة (Bar-On، Goleman) يحتاج تمييزاً منهجياً."

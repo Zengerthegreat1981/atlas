@@ -3,9 +3,6 @@ slug: "tec-contemplative-psychotherapy"
 id: "TEC-0135"
 type: "تقنية/تدخل علاجي"
 level: "متقدم"
-title: "العلاج النفسي التأملي (جامعة ناروبا)"
-en: "Contemplative Psychotherapy (Naropa)"
-crumb: "الإنسانية ← التقنيات والتدخلات ← العلاج النفسي التأملي"
 country: "الولايات المتحدة"
 dates: "جامعة ناروبا · 1976"
 active_start: 1976
@@ -13,24 +10,21 @@ active_end: "مستمر"
 language: "الإنجليزية"
 part: "psychology"
 evidence_level: "traditional"
+title: "العلاج النفسي التأملي (جامعة ناروبا) — إحالة، انظر sch-contemplative-psychotherapy"
+en: "Contemplative Psychotherapy (Naropa) — merged, see sch-contemplative-psychotherapy"
+crumb: "الإنسانية ← التقنيات والتدخلات ← [إحالة]"
+redirect_to: "sch-contemplative-psychotherapy"
 edges:
-- rel: "belongs_to", target: "sch-humanistic", target_type: "مدرسة"
+  []
 related:
-- id: "thk-ctrungpa", title: "تشوغيام ترونغبا", type: "مفكر"
-- id: "thk-mricard", title: "ماتيو ريكار", type: "مفكر"
-- id: "thk-syoung", title: "شِنزِن يانغ", type: "مفكر"
-- id: "tec-buddhist-informed-psychotherapy", title: "العلاج النفسي المستنير بالبوذية", type: "تقنية/تدخل علاجي"
-- id: "ctx-buddhist-psychology", title: "علم النفس البوذي والتقاليد التأملية الشرقية", type: "سياق/تقليد"
+- id: "sch-contemplative-psychotherapy", title: "العلاج النفسي التأملي (ناروبا)", type: "مدرسة"
 gaps:
-  - "لا توجد تجربة عشوائية محكّمة تقيس نتائج البرنامج التدريبي نفسه كتدخل علاجي؛ الأدبيات المتاحة عن ناروبا وصفية ومؤسسية لا تجريبية، ولذلك صُنّف الملف evidence_level: traditional وليس experimental أو probably-efficacious."
-  - "تفاصيل منهج التدريب السريري في البرنامج (ساعات الإشراف، معايير التخرج) غير موثقة برقم محدد يمكن نقله هنا."
-  - "**صُحِّح `part` 2026-09-10:** كان «psychology» ويخالف 3 من أبنائه — فالخطأُ في الأب لا في الأبناء، وصُحِّح إلى «philosophy» بأغلبية الأسرة."
-  - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `sch-humanistic` موسومٌ «psychology» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
+  - "**دُمج في sch-contemplative-psychotherapy بتاريخ 2026-09-13.** كان هذا الملفُّ والملفُّ القانونيُّ يصفان الشيءَ نفسَه تحت بادئتين مختلفتين، فوُحِّدا. نُقل ما انفرد به هذا الملفُّ إلى القانوني، وحُفظت نسختُه قبل الدمج في `content/ar/_merged/tec-contemplative-psychotherapy.md`."
 ---
-# العلاج النفسي التأملي (جامعة ناروبا)
 
-برنامج علاجي وتدريبي رائد أسسه المعلم التبتي تشوجيام ترونغبا (thk-ctrungpa) عام 1976 في جامعة ناروبا ببولدر، كولورادو، يرتكز على الثقة في «الصحة العقلية اللامعة والخير الأساسي» الفطري في كل إنسان مهما بلغت شدة اضطرابه. يتقاطع البرنامج مع تيار العلاج النفسي المستنير بالبوذية (tec-buddhist-informed-psychotherapy) وينهل من علم النفس البوذي والتقاليد التأملية الشرقية (ctx-buddhist-psychology) بوصفها إطاره المرجعي، ويشترك مع ماتيو ريكار (thk-mricard) وشِنزِن يانغ (thk-syoung) في تأكيد مركزية الممارسة التأملية الشخصية للمعالج نفسه لا للعميل وحده كشرط للعمل الإكلينيكي.
+# العلاج النفسي التأملي (جامعة ناروبا) — إحالة
 
-## المصادر
+**دُمج هذا المدخلُ في `sch-contemplative-psychotherapy`.** المتنُ الكاملُ والمصادرُ والروابطُ هناك:
+[العلاج النفسي التأملي (ناروبا)](sch-contemplative-psychotherapy).
 
-يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.
+يبقى هذا الملفُّ إحالةً دائمةً كي لا تنكسر الروابطُ القديمةُ إليه.

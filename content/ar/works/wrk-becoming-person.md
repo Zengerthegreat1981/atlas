@@ -23,7 +23,7 @@ related:
 - id: "br-person-centered", title: "العلاج المتمركز حول العميل (روجرز)", type: "تيار"
 - id: "con-actualizing-tendency", title: "نزعة التحقق الذاتي (Actualizing Tendency)", type: "مفهوم"
 - id: "con-fully-functioning-person", title: "الشخصية العاملة بكامل طاقتها (Fully Functioning Person)", type: "مفهوم"
-- id: "wrk-rogers-client-centered-1951", title: "العلاج المتمركز حول العميل (Client-Centered Therapy)", type: "عمل / كتاب"
+- id: "wrk-rogers-client-centered-1951", title: "العلاج المتمركز حول العميل — كتاب كارل روجرز (1951)", type: "عمل / كتاب"
 - id: "wrk-rogers-counseling-psychotherapy", title: "الإرشاد والعلاج النفسي (Counseling and Psychotherapy)", type: "عمل / كتاب"
 gaps:
   - "لم يثبت وجود ترجمة عربية منشورة لهذا العمل: بُحث عن مترجم وناشر وسنة ولم يُعثر على أيٍّ منها."

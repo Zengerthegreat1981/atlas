@@ -16,13 +16,12 @@ edges:
 - rel: "belongs_to", target: "sch-multicultural-counseling", target_type: "مدرسة"
 related:
 - id: "thk-josephtrimble", title: "جوزيف ترايمبل", type: "مفكر"
-- id: "thk-ptedeschi", title: "رافائيل تيدِسكي (حجر)", type: "مفكر"
 - id: "thk-deraldwing-sue", title: "ديرالد وينغ سو", type: "مفكر"
 gaps:
   - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` اسماً نصّياً «الإرشاد متعدد الثقافات» لا يُحلّ إلى ملفّ، وقد أُنشئت المدرسةُ `sch-multicultural-counseling` فأُسند الانتماءُ إليها."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
+  - "أُزيل رابطُ `related` إلى `thk-ptedeschi` — الهدفُ ملفٌّ محجورٌ (شخصيةٌ/مدخلٌ غيرُ موثَّق الوجود)، فالرابطُ يقود القارئَ إلى طريقٍ مسدود. يُعاد إن رُفع الحجر."
 ---
-
 # فريديريك ليونغ
 
 أمريكي من أصل صيني وُلد وتلقّى تعليمه المبكر في ماليزيا، وانتقل إلى الولايات المتحدة عام 1975 (بكالوريوس من كلية Bates عام 1979، ودكتوراه من جامعة ماريلاند عام 1988 بتخصص مزدوج في الإرشاد وعلم النفس الصناعي/التنظيمي). عمل أستاذاً في **جامعة ولاية ميشيغان (Michigan State University)** ومديراً لاتحاد أبحاث علم النفس متعدد الثقافات، وهو حالياً أستاذ علم النفس التطبيقي في **جامعة الصين الشعبية بهونغ كونغ - شنتشن**. من الشخصيات المؤثرة في **علم النفس متعدد الثقافات**، وركّز على تكييف نظريات الشخصية والإكلينيكية مع السياقات الثقافية الآسيوية والأمريكية الآسيوية.
@@ -47,6 +46,6 @@ gaps:
 ## المصادر
 
 - APA, "Featured Psychologist: Frederick T.L. Leong, PhD": https://www.apa.org/pi/oema/resources/ethnicity-health/psychologists/frederick-leong
-- Michigan State University, Department of Psychology — Leong, Frederick: https://psychology.msu.edu/directory/leong-frederick.html
+- Michigan State University, Department of Psychology — Leong, Frederick: https://web.archive.org/web/20210414051417/https://psychology.msu.edu/directory/leong-frederick.html
 - Sage Reference, Encyclopedia of Counseling — "Leong, Frederick T. L. (1957-)": https://sk.sagepub.com/ency/edvol/counseling/chpt/leong-frederick-t-l-1957
 - Frederick T. L. Leong — Wikidata: https://www.wikidata.org/wiki/Q88013142

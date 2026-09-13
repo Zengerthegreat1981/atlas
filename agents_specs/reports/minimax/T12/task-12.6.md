@@ -7,7 +7,7 @@ preflight_check.py (task.py verify minimax 12.6): صفر مخالفات آلية
 تحقق يدوي إضافي (grep مباشر لكل جملة قائمة سوداء): صفر تطابق
 
 ## ✅ دمج فعلي مطبَّق حسب القاعدة 6 — ازدواج مؤكَّد
-que-mind-body-interaction ↔ qst-mind-body-interaction-problem (12.4): تأكد تطابق كامل (نفس السؤال، نفس زوج ديكارت/سبينوزا، الملف الآخر أعمق توثيقاً). حُوِّل الأول لإحالة موجزة (قالب الحجر الموحَّد)، النسخة الأصلية محفوظة في `agents_specs/quarantine-minimax-archive/`، والحجر مسجَّل في `quarantine-minimax.md` وطلب الدمج في `requests-minimax.md`.
+que-mind-body-interaction ↔ que-mind-body-interaction-problem (12.4): تأكد تطابق كامل (نفس السؤال، نفس زوج ديكارت/سبينوزا، الملف الآخر أعمق توثيقاً). حُوِّل الأول لإحالة موجزة (قالب الحجر الموحَّد)، النسخة الأصلية محفوظة في `agents_specs/quarantine-minimax-archive/`، والحجر مسجَّل في `quarantine-minimax.md` وطلب الدمج في `requests-minimax.md`.
 
 ## تداخل مسجَّل بدون دمج
 que-nature-vs-nurture مقابل dbt-nature-nurture (Task 11) وaxm-nature-vs-nurture (12.2): زاوية مختلفة فعلياً (توليدية-حوارية موجزة: واطسون/سكينر ضد بينكر، مقابل الجدل الأكاديمي الكامل في الملفين الآخرين) — سُجِّل التداخل صراحة في gaps، لا دمج.

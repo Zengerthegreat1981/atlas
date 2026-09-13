@@ -13,7 +13,7 @@ active_end: "مستمر"
 language: "متعدد اللغات"
 part: "psychology"
 related:
-- id: "tec-motivational-interviewing", title: "المقابلات الدافعية (MI)", type: "تقنية/تدخل علاجي"
+- id: "sch-motivational-interviewing", title: "المقابلة التحفيزية (Motivational Interviewing)", type: "مدرسة"
 - id: "tec-contingency-management", title: "إدارة الطوارئ والتعزيز السلوكي", type: "تقنية/تدخل علاجي"
 - id: "tec-relapse-prevention", title: "منع الانتكاس (RP)", type: "تقنية/تدخل علاجي"
 - id: "tec-cbt-cog-cognitive-restructuring", title: "إعادة الصياغة المعرفية", type: "تقنية/تدخل علاجي"
@@ -25,7 +25,6 @@ gaps:
   - "تفاصيل naloxone take-home kits وبرامج الإتاحة في ICD-11 لم تُغطَّ نصاً."
   - "الفروقات بين harm reduction (الحد من الضرر) وabstinence-based treatment في DSM-5-TR لم تُناقَش نصاً."
 ---
-
 # اضطراب استخدام الأفيونات
 
 اضطراب مزمن خطير يتمحور حول استخدام مواد أفيونية (هيروين، أوكسيكودون، فنتانيل، ميثادون المُحوَّل، مسكنات أفيونية بوصفة طبية) بنمط يؤدي إلى اعتماد جسدي، ورغبة شديدة، واستمرار الاستخدام رغم العواقب الطبية والقانونية والاجتماعية. يُعتبر من أعلى اضطرابات استخدام المواد من حيث خطر الجرعة الزائدة والوفاة.

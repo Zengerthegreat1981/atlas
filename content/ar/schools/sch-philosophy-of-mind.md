@@ -52,4 +52,3 @@ gaps:
 - Descartes, René. *Meditationes de Prima Philosophia*, Meditation VI (1641).
 - Nagel, Thomas. "What Is It Like to Be a Bat?" *The Philosophical Review* 83, no. 4 (1974): 435–450.
 - Dennett, Daniel C. *Consciousness Explained*. Boston: Little, Brown and Co., 1991.
-</content>

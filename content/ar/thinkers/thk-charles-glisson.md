@@ -26,8 +26,8 @@ gaps:
   - "edges.belongs_to كان يشير سابقاً إلى نص حر «العلاج متعدد الأنظمة (MST)» بدل الـslug الفعلي — صُحّح إلى `br-mst`."
   - "الوصف الأصلي كان يصفه بـ«عالم نفس اجتماعي»؛ صُحّح إلى باحث في الخدمة الاجتماعية والعلوم التنظيمية (PhD من جامعة واشنطن في سانت لويس)، وهو أدق لتخصصه الفعلي وانتمائه المؤسسي (كلية الخدمة الاجتماعية، جامعة تينيسي)."
   - "**صُحِّح `part` 2026-09-10:** كان «philosophy» بينما أبوه `br-mst` موسومٌ «psychology» — فوُحِّد على وسم الأب. والوسمُ يحكم التصفيةَ والفهارسَ في الواجهة، فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): University of Tennessee, College of Social Work — About the College: https://csw.utk.edu/about-the-college/about-the-college-2"
 ---
-
 # تشارلز غليسون
 
 باحث أمريكي في الخدمة الاجتماعية والعلوم التنظيمية، أستاذ متميّز فخري (Distinguished University Professor Emeritus) في **جامعة تينيسي بنوكسفيل**، ومؤسِّس ومدير سابق لمركز أبحاث خدمات الصحة النفسية للأطفال فيها (تأسّس 1988). اشتهر أساساً بأبحاثه على **الثقافة والمناخ التنظيمي** في مؤسسات رعاية الأطفال، وطوّر بنفسه استراتيجية تدخّل تنظيمي مستقلة تُعرف باسم **ARC** (Availability–Responsiveness–Continuity: التوفّر والاستجابة والاستمرارية)، وشارك في أبحاث تقييم تُعنى بربط هذا النموذج التنظيمي بتطبيق **العلاج المتعدد الأنظمة** (MST) في بيئات فقيرة وريفية.
@@ -50,6 +50,5 @@ gaps:
 ## المصادر
 
 - American Academy of Social Work and Social Welfare — Charles Glisson, PhD, Emeritus (Fellow profile): https://aaswsw.org/fellows/detail/charles-glisson-phd-emeritus/
-- University of Tennessee, College of Social Work — About the College: https://csw.utk.edu/about-the-college/about-the-college-2
 - PubMed — "The ARC Organizational and Community Intervention Strategy for Implementing Evidence-Based Children's Mental Health Treatments": https://pubmed.ncbi.nlm.nih.gov/16320107/
 - William T. Grant Foundation — Charles Glisson (profile): https://wtgrantfoundation.org/people/glisson-charles

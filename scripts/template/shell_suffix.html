@@ -26,6 +26,80 @@ const ALIAS={
    وحدود كلمة عربية (غير حرف عربي قبل/بعد التطابق)، وتجاهل النص الواقع داخل وسم <a> موجود. */
 const AUTOLINK_BLOCKLIST = new Set(['wrk-existence']); // عنوان عام جداً "الوجود" يتطابق مع لغة يومية شائعة
 let __AUTOLINK_TABLE = null;
+/* ===== مُحوِّلُ الماركداون =====
+   متونُ `content/ar` مكتوبةٌ بماركداون: **عريض**، *مائل*، `شفرة`، [نص](slug)،
+   قوائمُ «- »، وعناوينُ «#### ». وكان القالبُ يحقنها في الصفحة كما هي، فتظهر
+   النجومُ والأقواسُ حرفيّةً للقارئ في 3,960 عقدة. هذا المحوِّلُ يقلبها إلى HTML.
+   قاعدتان: (1) ما بين < و > يمرّ كما هو — وسومُ <b> و<br> المكتوبةُ في المتن
+   مقصودةٌ ولا تُمسّ؛ (2) رابطٌ هدفُه slug غير موجودٍ يسقط قوساه ويبقى نصُّه،
+   فلا يرى القارئُ صيغةَ ماركداون مكسورة. ويُستدعى قبل autoLink دائماً، وautoLink
+   لا يربط داخل <a> فلا تتداخل الروابط. */
+function mdInline(t){
+ /* وسمُ HTML حقيقيٌّ فقط: اسمٌ لاتينيّ. المتونُ تكتب أحياناً `wrk-<عمل>-<مؤلِّف>`
+    وهذه ليست وسوماً فلا تُستثنى من التحويل. */
+ return String(t).split(/(<\/?[a-zA-Z][a-zA-Z0-9-]*(?:\s[^>]*)?\/?>)/).map((seg,i)=>{
+  if(i%2) return seg;                       /* وسمُ HTML — يمرّ كما هو */
+  return seg
+   .replace(/`([^`\n]+)`/g,'<code class="mdc">$1</code>')
+   /* <https://…> صيغةُ ماركداون للرابط الصريح، و24 منها في المتون. والمتصفّحُ
+      يبتلعها وسماً مجهولاً فتختفي من الصفحة كلَّها — فتُحوَّل رابطاً. */
+   .replace(/<(https?:\/\/[^>\s]+)>/g,'<a href="$1" target="_blank" rel="noopener">$1</a>')
+   .replace(/\[([^\]\n]+)\]\(([^)\s]+)\)/g,function(m,label,target){
+     if(/^https?:\/\//.test(target))
+       return '<a href="'+target+'" target="_blank" rel="noopener">'+label+'</a>';
+     var t2=target.replace(/^#/,'');
+     if(DATA.nodes[t2]) return '<a class="autolink" data-go="'+t2+'">'+label+'</a>';
+     return label;
+   })
+   /* ترتيبُ قواعد التشديد مقصود: الأخصُّ أوّلاً، وإلا التهمت القاعدةُ العامّةُ
+      نجمةً من الثلاثِ فبقيت واحدةٌ معلَّقةً في النصّ. */
+   .replace(/\*\*\*([^*\n]+)\*\*\*/g,'<strong><em>$1</em></strong>')          /* ***عريضٌ مائل*** */
+   .replace(/\*\*([^*\n]*)\*([^*\n]+)\*\*\*/g,'<strong>$1<em>$2</em></strong>') /* **نصٌّ *مائل*** */
+   .replace(/\*\*((?:[^*\n]|\*(?!\*))+)\*\*/g,function(m,inner){                /* **عريضٌ فيه *مائل* بينه** */
+     return '<strong>'+inner.replace(/\*([^*\n]+)\*/g,'<em>$1</em>')+'</strong>'; })
+   .replace(/(^|[\s(«"—])\*([^*\n]+)\*(?=$|[\s).,،؛:»"—])/g,'$1<em>$2</em>')
+   .replace(/(^|[\s(«"—])_([^_\n]+)_(?=$|[\s).,،؛:»"—])/g,'$1<em>$2</em>')
+   ;
+ }).join('');
+}
+/* رابطٌ عارٍ في المتن: أقسامُ «المصادر» مليئةٌ به وكان نصّاً لا يُنقَر. تُجرى بعد
+   كلِّ التحويلات وعلى ما هو خارجَ الوصلات القائمة وحدَه، وإلا أُعيد ربطُ رابطٍ
+   صار للتوّ داخلَ href فخرج HTML مكسور. */
+function mdBareLinks(html){
+ return String(html).split(/(<a\b[^>]*>[\s\S]*?<\/a>|<[^>]+>)/).map((seg,i)=>
+  i%2 ? seg : seg.replace(/(^|[\s(«])(https?:\/\/[^\s<>«»"')\]]+)/g,
+        '$1<a href="$2" target="_blank" rel="noopener">$2</a>')
+ ).join('');
+}
+function md(raw){
+ if(raw==null) return '';
+ var src=String(raw);
+ var lines=src.split('\n'), out='', list=null, para=[], fence=null;
+ function closeList(){ if(list){ out+='</'+list+'>'; list=null; } }
+ function flushPara(){ if(para.length){ out+='<p class="mdp">'+mdInline(para.join(' '))+'</p>'; para=[]; } }
+ for(var i=0;i<lines.length;i++){
+  var ln=lines[i].trim(), m;
+  /* كتلةُ شفرةٍ مسيَّجة (```): رسومٌ نصيةٌ ومعادلات — تُعرض كما هي بلا أيِّ تحويل */
+  if(/^```/.test(ln)){
+   if(fence===null){ flushPara(); closeList(); fence=[]; }
+   else { out+='<pre class="mdpre">'+fence.join('\n')+'</pre>'; fence=null; }
+   continue;
+  }
+  if(fence!==null){ fence.push(escHTML(lines[i])); continue; }
+  if(!ln){ flushPara(); closeList(); continue; }
+  if((m=ln.match(/^(#{1,6})\s+(.*)$/))){ flushPara(); closeList(); out+='<div class="mdh">'+mdInline(m[2])+'</div>'; continue; }
+  if((m=ln.match(/^[-*+]\s+(.*)$/))){ flushPara(); if(list!=='ul'){ closeList(); out+='<ul class="mdl">'; list='ul'; } out+='<li>'+mdInline(m[1])+'</li>'; continue; }
+  if((m=ln.match(/^\d+[.)]\s+(.*)$/))){ flushPara(); if(list!=='ol'){ closeList(); out+='<ol class="mdl">'; list='ol'; } out+='<li>'+mdInline(m[1])+'</li>'; continue; }
+  if(/^>\s?/.test(ln)){ flushPara(); closeList(); out+='<blockquote class="mdq">'+mdInline(ln.replace(/^>\s?/,''))+'</blockquote>'; continue; }
+  closeList(); para.push(ln);
+ }
+ if(fence!==null) out+='<pre class="mdpre">'+fence.join('\n')+'</pre>';
+ flushPara(); closeList();
+ return mdBareLinks(out);
+}
+/* نصٌّ سطريٌّ (خانةُ جدولٍ أو اقتباس): تحويلٌ سطريٌّ بلا فقراتٍ ولا قوائم */
+function mdLine(raw){ return raw==null?'':mdBareLinks(mdInline(String(raw))); }
+
 function autoLinkTable(){
  if(__AUTOLINK_TABLE) return __AUTOLINK_TABLE;
  const seen=new Map(); const collide=new Set();
@@ -294,7 +368,7 @@ function renderConcepts(){
  h.innerHTML='<p>هذه هي طبقة العمق. بدل أن تقرأ عن كل مفكر على حدة، تمسك مفهوماً واحداً وترى صياغته عند سبعة أو تسعة منهم في جدول واحد — مع ما يترتب على كل صياغة في الغرفة، وخلافها مع غيرها.</p>'+
   '<div class="congrid">'+cons.map(([k,n])=>
    '<div class="concard" data-go="'+k+'"><h5>'+n.title+'</h5><span class="en2">'+n.en+'</span>'+
-   '<p>'+n.lede+'</p><span class="cn">'+(n.table&&n.table.rows?n.table.rows.length+' صياغة مقارنة ←':'مكتوب ←')+'</span></div>').join('')+'</div>'+
+   '<div class="mdbody">'+md(n.lede)+'</div><span class="cn">'+(n.table&&n.table.rows?n.table.rows.length+' صياغة مقارنة ←':'مكتوب ←')+'</span></div>').join('')+'</div>'+
   '<div class="note">القاعدة في كل هذه الجداول: لا يُذكر رأي بلا ما يترتب عليه عملياً، ولا يُذكر اتفاق بلا الخلاف الذي يقابله.</div>';
 }
 
@@ -742,8 +816,17 @@ function quoteAttrEsc(s){
 const QUOTE_COPY_ICON='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="12" height="12" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>';
 const QUOTE_SHARE_ICON='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 13.5l6.8 4M15.4 6.5l-6.8 4"/></svg>';
 function renderQuoteCards(raw,thinkerName){
- const parts=String(raw||'').split(/<br\s*\/?>/i).map(p=>p.trim()).filter(Boolean);
- if(!parts.length) return '<p style="font-size:14.5px;margin:4px 0 14px">'+raw+'</p>';
+ /* الفاصلُ بين الاقتباسات `<br>` في أكثر الملفات، وسطرٌ فارغٌ في بعضها —
+    فيُقسَم على الاثنين، وإلا اندمج اقتباسان في بطاقةٍ واحدة. */
+ const parts=String(raw||'').split(/<br\s*\/?>|\n\s*\n/i).map(p=>p.trim().replace(/\s*\n\s*/g,' ')).filter(Boolean);
+ if(!parts.length) return '<div class="mdbody">'+md(raw)+'</div>';
+ /* بطاقةُ الاقتباس تُرسم بعلامتَي تنصيصٍ وإسنادٍ وزرَّي «نسخ» و«مشاركة كصورة» —
+    فلا يجوز أن يُصَبَّ فيها نصٌّ ليس اقتباساً. و396 قسماً هنا نثرٌ تحريريّ، أكثرُه
+    جملةُ «لا يوجد اقتباس مباشر منقول حرفياً» نفسُها: كانت تُعرض بطاقةَ اقتباسٍ
+    منسوبةً إلى صاحب الملفّ، أي نقيضَ ما تقوله. الشرطُ الآن أن يبدأ النصُّ بعلامة
+    اقتباسٍ فعلية؛ وما عداه يُعرض متناً عادياً. */
+ const looksQuoted=p=>/^[«"”']/.test(p);
+ if(!parts.some(looksQuoted)) return '<div class="mdbody">'+md(raw)+'</div>';
  const cards=parts.map(p=>{
   const m=p.match(/^(.*)\s+—\s+([^—]*)$/);
   let quote=p, attr='';
@@ -755,10 +838,10 @@ function renderQuoteCards(raw,thinkerName){
   return '<div class="quotecard">'+
    '<span class="qverify" title="لم يُفتح المصدر ويُقرأ الموضع بعد — منسوب من معرفة عامة لا من تحقق مضموني">غير متحقَّق</span>'+
    '<span class="qmark">”</span>'+
-   '<p class="qtext">'+quote+'</p>'+
+   '<p class="qtext">'+mdLine(quote)+'</p>'+
    (name||attr?('<div class="qattr">'+
      (name?'<div class="qname">— '+name+'</div>':'')+
-     (attr?'<div class="qbook">'+attr+'</div>':'')+
+     (attr?'<div class="qbook">'+mdLine(attr)+'</div>':'')+
     '</div>'):'')+
    '<div class="qbtns">'+
     '<button type="button" class="qbtn" data-quote-copy="'+dataQuote+'">'+QUOTE_COPY_ICON+'<span class="qbtn-label">نسخ النص</span></button>'+
@@ -944,6 +1027,119 @@ function wireQuiz(n,key){
  });
 }
 
+/* ===== بطاقةُ البيانات الوصفية =====
+   نحو ثلاثين حقلاً في ترويسات الملفات كانت مكتوبةً ولا تُعرض إطلاقاً: رموزُ DSM/ICD
+   في 110 اضطراباتٍ، وسيكومتريةُ 102 أداةِ قياس، وتصميمُ 121 دراسةً وحجمُ عيّنتها
+   وحالُ تكرارها، ومؤلّفُ 592 عملاً وسنةُ نشره. تُعرض هنا بحسب ما يوجد في العنصر،
+   وبترتيبٍ ثابتٍ لا بترتيب كتابتها في الملفّ. */
+const FIELD_LABELS={
+ author:'المؤلِّف', publication_year:'سنةُ النشر', original_language:'لغةُ الأصل',
+ event_date:'تاريخُ الحدث', event_place:'مكانُ الحدث',
+ study_year:'سنةُ الدراسة', design:'التصميم', sample_size:'حجمُ العيّنة',
+ main_finding:'النتيجةُ الرئيسة', replication_status:'حالُ التكرار',
+ items_count:'عددُ البنود', target_population:'الفئةُ المستهدَفة',
+ reliability:'الثبات', validity_note:'ملحوظةُ الصدق',
+ dsm5tr_code:'رمز DSM-5-TR', icd11_code:'رمز ICD-11',
+ dsm4_code_historical:'رمز DSM-IV (تاريخي)', icd10_code_historical:'رمز ICD-10 (تاريخي)',
+ evidence_level:'درجةُ الدليل', cultural_origin:'الأصلُ الثقافي', register:'السِّجلّ',
+ active_source:'سندُ فترة النشاط', birth_country:'بلدُ الميلاد',
+ sociological_tradition:'التقليدُ السوسيولوجي', sociological_paradigm:'النموذجُ السوسيولوجي',
+ verification_status:'حالُ التحقّق', status:'الحالة'
+};
+const FIELD_ORDER=['author','publication_year','original_language','event_date','event_place',
+ 'study_year','design','sample_size','main_finding','replication_status',
+ 'items_count','target_population','reliability','validity_note',
+ 'dsm5tr_code','icd11_code','dsm4_code_historical','icd10_code_historical',
+ 'evidence_level','cultural_origin','register','sociological_tradition','sociological_paradigm',
+ 'birth_country','active_source','verification_status','status'];
+/* قيمُ الحقول المعجمية مكتوبةٌ في الملفات برموزٍ إنجليزية — تُترجم عند العرض فقط،
+   ولا يُمسّ ما في الملفّ (السكربتاتُ والفحوصُ تقرأ الرمزَ لا الترجمة).
+   وما لم يُذكر هنا (نصٌّ حرٌّ) يُعرض كما كُتب. */
+const FIELD_VALUES={
+ evidence_level:{'well-established':'راسخة','probably-efficacious':'مرجَّحةُ الفعالية',
+  'experimental':'تجريبية','traditional':'تراثية','controversial':'متنازَعٌ عليها',
+  'discredited':'مُبطَلة','emerging':'ناشئة','theoretical':'نظرية','moderate':'متوسطة'},
+ register:{'academic':'أكاديمي','clinical':'إكلينيكي','popular':'عامّ/شائع','literary':'أدبي'},
+ replication_status:{'replicated':'تكرَّرت بنجاح','contested':'متنازَعٌ على تكرارها',
+  'untested':'لم تُختبر إعادتُها','failed':'أخفق تكرارُها'},
+ active_source:{'lifespan':'عمرُ صاحبه','compilation':'تاريخُ التدوين'},
+ status:{'quarantined':'محجور'},
+ cultural_origin:{'anglo-american':'أنجلو-أمريكي','anglo-british':'أنجلو-بريطاني',
+  'anglo-canadian':'أنجلو-كندي','european':'أوروبي','european-anglo-american':'أوروبي وأنجلو-أمريكي',
+  'east-asian':'شرق آسيوي','chinese':'صيني','indian':'هندي','south-asian':'جنوب آسيوي',
+  'southeast-asian':'جنوب شرق آسيوي','islamic-arabic':'إسلامي-عربي','greek':'يوناني',
+  'african':'أفريقي','french':'فرنسي','swiss-european':'سويسري-أوروبي',
+  'latin-american':'أمريكي لاتيني','indigenous':'من ثقافاتٍ أصلانية','western':'غربي'}
+};
+function factsHTML(n,key,localAlias){
+ const rows=[];
+ FIELD_ORDER.forEach(f=>{
+  let v=n[f];
+  if(v===undefined||v===null||v==='') return;
+  v=String(v);
+  const dict=FIELD_VALUES[f];
+  if(dict&&dict[v]) v=dict[v];
+  if(f==='author'){
+   /* الاسمُ نصٌّ حرٌّ (قد يكون «مجهول، منسوب إلى…»)، فلا يُقسَّم؛ ويُربَط كلُّه
+      بملفّ المؤلِّف حين يوجد `author_slug` يُحلّ إلى عنصرٍ قائم. */
+   const sls=[n.author_slug,n.author_slug_2].filter(x=>x&&DATA.nodes[x]);
+   const inside=sls.filter(x=>v.indexOf(DATA.nodes[x].title)>=0);
+   if(inside.length){
+    /* اسمُ المؤلِّف مذكورٌ داخل النصّ: يُربَط موضعُه هو، فيبقى النصُّ كما كُتب */
+    inside.forEach(x=>{ const t=DATA.nodes[x].title;
+      v=v.replace(t,'\u0001'+x+'\u0002'+t+'\u0003'); });
+    v=v.replace(/\u0001([^\u0002]+)\u0002([^\u0003]+)\u0003/g,
+                '<a class="autolink" data-go="$1">$2</a>');
+   } else if(sls.length){
+    v='<a class="autolink" data-go="'+sls[0]+'">'+v+'</a>';
+   } else {
+    v=autoLink(mdLine(v),key,localAlias);
+   }
+  } else {
+   v=autoLink(mdLine(v),key,localAlias);
+  }
+  rows.push('<div class="factrow"><span class="factk">'+FIELD_LABELS[f]+'</span>'+
+            '<span class="factv">'+v+'</span></div>');
+ });
+ if(!rows.length) return '';
+ return '<div class="node facts" id="facts-'+key+'">'+
+   '<div style="font-weight:700;font-size:16px;margin-bottom:8px">بياناتُ العنصر</div>'+
+   '<div class="factgrid">'+rows.join('')+'</div></div>';
+}
+/* إحالة: العنصرُ محجورٌ ومتنُه القانونيُّ في ملفٍّ آخر. كان `redirect_to` مكتوباً
+   في 86 ملفاً ولا تقرؤه الواجهةُ إطلاقاً، فيقف القارئُ على صفحةٍ مسدودة. */
+function redirectHTML(n){
+ const t=n.redirect_to; if(!t||!DATA.nodes[t]) return '';
+ return '<div class="node redirectbox">'+
+  '<div class="rdxhead">↪ هذا المدخلُ محالٌ إلى مدخلٍ آخر</div>'+
+  '<div class="rdxbody">المتنُ القانونيُّ الكاملُ لهذا الموضوع في '+
+   '<a class="autolink" data-go="'+t+'">«'+DATA.nodes[t].title+'»</a>. '+
+   'ما دونَه هنا مُبقًى للسجلّ وللإحالات القديمة.</div>'+
+  '<button type="button" class="rdxgo" data-go="'+t+'">انتقل إلى المدخل القانوني ←</button></div>';
+}
+
+/* ===== حالُ التوثيق =====
+   36% من المداخل قسمُ مصادرها جملةٌ قالبيةٌ تقول إنّه لا مصادر، و301 منها كان
+   يسرد مداخلَ الأطلس نفسِه تحت عنوان «المصادر». والقارئُ لا يرى الفرقَ بين مدخلٍ
+   مسنودٍ بمراجعَ ومدخلٍ بلا مرجعٍ واحد إلا إن نزل إلى آخر الصفحة وقرأ. فيُعلَن
+   الحالُ في الترويسة كما يُعلَن «مسودة تحريرية» و«فجوات معرفية». */
+const NO_SOURCE_BOILERPLATE=[
+ 'لا تتوفر حتى الآن قائمة مصادر منفصلة',
+ 'يفتقر هذا الملف إلى قسم مصادر مستقل',
+ 'لم تُستكمل بعد مراجعة المصادر',
+ 'لم يُدرج بعد قسم مصادر مستقل',
+ 'لا تتوفر مصادر مستقلة موثوقة',
+ 'لم تُستكمل بعد مراجعة المصادر البيبليوغرافية'
+];
+function sourceState(n){
+ const sec=(n.sections||[]).filter(s=>s[0]==='المصادر');
+ if(!sec.length) return 'none';
+ const t=sec[0][1]||'';
+ if(NO_SOURCE_BOILERPLATE.some(b=>t.indexOf(b)>=0)) return 'none';
+ if(t.trim().length<40) return 'none';
+ return 'ok';
+}
+
 function renderNode(key){
  const n=DATA.nodes[key];
  const tc=typeClass(n.type);
@@ -967,11 +1163,14 @@ function renderNode(key){
    (n.country?'<span class="tag link" onclick="goFacetIndex(\'country\',\''+n.country.replace(/'/g,"\\'")+'\')" title="تصفّح كل عناصر هذا البلد">🌍 '+n.country+'</span>':'')+
    (n.language?'<span class="tag link" onclick="goFacetIndex(\'language\',\''+n.language.replace(/'/g,"\\'")+'\')" title="تصفّح كل عناصر هذه اللغة">🗣 '+n.language+'</span>':'')+
    '<span class="tag draft">الحالة: مسودة تحريرية</span></div>'+
- '<p class="lede">'+autoLink(n.lede,key,localAlias)+'</p>'+
+ '<div class="lede">'+autoLink(md(n.lede),key,localAlias)+'</div>'+
  '<div class="herometa">'+
   '<span class="hm">⏱ وقت قراءة تقديري: <b>'+mins+'</b> د <span class="est">(تقدير آلي بمعدل ٢٠٠ كلمة/د)</span></span>'+
   '<span class="hm">⇄ علاقات مسجّلة: <b>'+relCount+'</b></span>'+
   (gapCount?'<span class="hm">▢ فجوات معرفية: <b>'+gapCount+'</b></span>':'')+
+  (sourceState(n)==='none'
+    ? '<span class="hm nosrc" title="لا قسمَ مصادرَ خارجيةً موثَّقةً في هذا المدخل بعد — ما فيه مكتوبٌ من معرفةٍ عامةٍ لم تُراجَع على مرجعٍ مُسمّى">⚠ بلا مصادرَ موثَّقة</span>'
+    : '<span class="hm hassrc">✓ له قسمُ مصادر</span>')+
  '</div></div></div>';
 
  const secToc=n.sections.map((s,i)=>({id:'sec-'+key+'-'+i,t:s[0]}));
@@ -1000,17 +1199,17 @@ function renderNode(key){
   (isConcept?('<span class="sep"></span><button class="sbtn" id="shortModeBtn">'+(ST.shortMode[key]?'نسخة كاملة':'نسخة مختصرة')+'</button>'):'')+
   '</div>'+
   '</div>';
- let main='<div id="hero-'+key+'"></div>'+studybarHTML+'<div id="studyBody">';
+ let main='<div id="hero-'+key+'"></div>'+studybarHTML+'<div id="studyBody">'+redirectHTML(n)+factsHTML(n,key,localAlias);
  if(n.table){
   main+='<div class="node" id="tbl-'+key+'"><div style="font-weight:700;font-size:16px;margin-bottom:8px">المفهوم عند كل واحد منهم</div>'+
    '<table><tr>'+n.table.head.map(x=>'<th>'+x+'</th>').join('')+'</tr>'+
-   n.table.rows.map(r=>'<tr>'+r.map((c,i)=>'<td'+(i===0?' style="font-weight:700;white-space:nowrap"':'')+'>'+autoLink(String(c),key,localAlias)+'</td>').join('')+'</tr>').join('')+
+   n.table.rows.map(r=>'<tr>'+r.map((c,i)=>'<td'+(i===0?' style="font-weight:700;white-space:nowrap"':'')+'>'+autoLink(mdLine(String(c)),key,localAlias)+'</td>').join('')+'</tr>').join('')+
    '</table></div>';
  }
  main+='<div class="node'+(isConcept?' fullonly':'')+'">'+n.sections.map((s,i)=>
    (s[0]==='اقتباسات مختارة'
      ? '<div class="sub" id="sec-'+key+'-'+i+'" style="font-size:14px">'+s[0]+'</div>'+renderQuoteCards(s[1],n.title)
-     : '<div class="sub" id="sec-'+key+'-'+i+'" style="font-size:14px">'+s[0]+'</div><p style="font-size:14.5px;margin:4px 0 14px">'+autoLink(s[1],key,localAlias)+'</p>')
+     : '<div class="sub" id="sec-'+key+'-'+i+'" style="font-size:14px">'+s[0]+'</div><div class="mdbody">'+autoLink(md(s[1]),key,localAlias)+'</div>')
    ).join('')+'</div>';
  const rows=conceptRowsFor(key);
  if(rows.length){
@@ -1031,7 +1230,7 @@ function renderNode(key){
    '</div></div>';
  if(gapCount)
   main+='<div class="node" id="gap-'+key+'"><div style="font-weight:700;font-size:16px;margin-bottom:8px">ما ينقص هذا العنصر</div>'+
-   n.gaps.map(g=>'<div class="ph">'+g+'</div>').join('')+'</div>';
+   n.gaps.map(g=>'<div class="ph">'+mdLine(g)+'</div>').join('')+'</div>';
 
  const rn=readNextFor(key);
  if(rn.length){
@@ -1042,7 +1241,7 @@ function renderNode(key){
      (r.reason?'<span class="rnrel">'+r.reason+'</span>':'')+
      '<div style="margin-bottom:6px">'+typeBadge({type:r.type,id:''},false)+'</div>'+
      '<h6>'+r.title+'</h6>'+
-     (r.tgtLede?'<p>'+r.tgtLede+'</p>':'')+
+     (r.tgtLede?'<div class="mdbody">'+md(r.tgtLede)+'</div>':'')+
      '</div>';
    }).join('')+'</div></div>';
  }
@@ -1305,7 +1504,42 @@ function splitCountries(s){ return splitMulti(s).map(x=>COUNTRY_ALIASES[x]||x); 
 function continentsOf(countryField){ return [...new Set(splitCountries(countryField).map(c=>COUNTRY_CONTINENT[c]).filter(Boolean))]; }
 /* المدرسة مُستنتَجة من أول جزء في crumb ("المدرسة الوجودية ← ...") — بدون أي تعديل بيانات،
    فأي مدرسة جديدة تتضاف بعدين تظهر هنا تلقائياً */
-function schoolOf(n){ return n.crumb ? n.crumb.split('←')[0].trim() : ''; }
+/* ===== المدرسةُ التي ينتمي إليها العنصر =====
+   كانت تُشتقّ من أوّل جزءٍ في `crumb`، وهو نصٌّ حرٌّ فيه 1,493 قيمةً مختلفة —
+   982 منها تَرِد مرّةً واحدةً فقط — فصارت قائمةُ «المدرسة» في الخطّ الزمني
+   1,044 خياراً: فهرسٌ ثانٍ للعناصر لا مرشِّحاً يُصفّي. وصارت تُشتقّ الآن من
+   سلسلة `belongs_to` المُحرَّرة صعوداً إلى جذرها: 372 قيمةً، والعنصرُ الذي لا
+   ينتهي نسبُه إلى مدرسةٍ أو تيّارٍ يبقى بلا مدرسةٍ مسجَّلةٍ بدل اختلاق واحدة. */
+let __SCHOOL_OF=null;
+function schoolTable(){
+ if(__SCHOOL_OF) return __SCHOOL_OF;
+ const parent={};
+ Object.keys(DATA.nodes).forEach(k=>{
+  const es=DATA.nodes[k].edges||[];
+  for(let i=0;i<es.length;i++){
+   if(es[i][0]==='belongs_to'&&DATA.nodes[es[i][1]]){ parent[k]=es[i][1]; break; }
+  }
+ });
+ const memo={};
+ const rootOf=k=>{
+  if(memo[k]!==undefined) return memo[k];
+  const seen={}; let c=k;
+  while(parent[c]&&!seen[c]){ seen[c]=1; c=parent[c]; }
+  memo[k]=c; return c;
+ };
+ const out={};
+ Object.keys(DATA.nodes).forEach(k=>{
+  const r=DATA.nodes[rootOf(k)];
+  out[k]=(r&&(r.type==='مدرسة'||r.type==='تيار'))?r.title:'';
+ });
+ __SCHOOL_OF=out; return out;
+}
+function schoolOf(n,key){
+ if(key===undefined){ /* نداءٌ قديمٌ بالعقدة وحدَها: ابحث عن مفتاحها */
+  key=Object.keys(DATA.nodes).find(k=>DATA.nodes[k]===n);
+ }
+ return schoolTable()[key]||'';
+}
 
 /* العصر الفكري مُستنتَج من active_start فقط (تقسيم تاريخي عام مفيد بالذات في الفلسفة) —
    ولا يحتاج أي حقل بيانات جديد. الترتيب هنا زمني (مش أبجدي) عشان يظهر في القائمة بترتيب منطقي. */
@@ -1327,11 +1561,11 @@ function timelineItems(){
 }
 function nodeEffectiveEnd(n){ return n.active_end==='مستمر' ? Infinity : (typeof n.active_end==='number' ? n.active_end : n.active_start); }
 function timelineFilter(items,f){
- return items.filter(([,n])=>{
+ return items.filter(([k,n])=>{
   if(f.country && !splitCountries(n.country).includes(f.country)) return false;
   if(f.continent && !continentsOf(n.country).includes(f.continent)) return false;
   if(f.language && !splitMulti(n.language).includes(f.language)) return false;
-  if(f.school && schoolOf(n)!==f.school) return false;
+  if(f.school && schoolOf(n,k)!==f.school) return false;
   /* person_subtype: حقل اختياري لسه بيتملى تدريجياً على المفكرين (عالم نفس/فيلسوف/كاتب/موسيقي...) —
      العناصر اللي لسه من غيره بتتصفّى من النتيجة لو المستخدم حدد نوع شخص معيّن */
   if(f.personType && n.person_subtype!==f.personType) return false;
@@ -1419,7 +1653,7 @@ function renderGlobalTimeline(filters){
  const countries=[...new Set(all.map(([,n])=>n.country).filter(Boolean).flatMap(splitCountries))].sort((a,b)=>a.localeCompare(b,'ar'));
  const continents=[...new Set(all.flatMap(([,n])=>continentsOf(n.country)))].sort((a,b)=>a.localeCompare(b,'ar'));
  const languages=[...new Set(all.map(([,n])=>n.language).filter(Boolean).flatMap(splitMulti))].sort((a,b)=>a.localeCompare(b,'ar'));
- const schools=[...new Set(all.map(([,n])=>schoolOf(n)).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'ar'));
+ const schools=[...new Set(all.map(([k,n])=>schoolOf(n,k)).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'ar'));
  const personTypes=[...new Set(all.map(([,n])=>n.person_subtype).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'ar'));
  const erasPresent=new Set(all.map(([,n])=>eraOf(n.active_start)));
  const eras=ERAS.filter(e=>erasPresent.has(e.key)); /* ترتيب زمني ثابت، مش أبجدي */
@@ -1938,7 +2172,7 @@ function preview(key) {
   const body =
     '<div class="meta" style="margin-bottom:10px"><span class="tag">' + escHTML(n.type) + '</span>' +
     (n.dates ? '<span class="tag">' + escHTML(n.dates) + '</span>' : '') + '</div>' +
-    '<p class="pvlede">' + autoLink(n.lede, key) + '</p>' +
+    '<div class="pvlede">' + autoLink(md(n.lede), key) + '</div>' +
     (rels ? '<h6>علاقاته</h6><div class="pvrel">' + rels + '</div>' : '') +
     (rel ? '<h6>انتقل إلى</h6><div class="chips">' + rel + '</div>' : '');
   const foot =

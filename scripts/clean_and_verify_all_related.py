@@ -4,13 +4,16 @@ Validate and clean up all related: entries in all 122 study and instrument draft
 Ensures every related entry has a valid existing slug, is formatted on a single line,
 and removes any stray phantom comment lines.
 """
+import os as _os
+# جذرُ المستودع يُشتقّ من موضع الملفّ نفسِه — لا مسارٌ مثبَّتٌ لجهازٍ بعينه.
+_ATLAS_ROOT = _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..'))
 
 import os
 import glob
 import re
 import subprocess
 
-ROOT_DIR = "/Users/minamoheb/Desktop/Atlas"
+ROOT_DIR = _ATLAS_ROOT
 STUDIES_DIR = os.path.join(ROOT_DIR, "content/ar/drafts/studies")
 INSTRUMENTS_DIR = os.path.join(ROOT_DIR, "content/ar/drafts/instruments")
 SCRIPTS_DIR = os.path.join(ROOT_DIR, "scripts")

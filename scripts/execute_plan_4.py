@@ -7,6 +7,9 @@ Executes Plan 4: Specialized Psychology Packages (DSM Evolution & Psychometrics)
   - Phase 3: Classical Psychological Studies (stu-) Cross-linking and Deepening
   - Phase 4: Rebuild indexes, matrices, and live Atlas build
 """
+import os as _os
+# جذرُ المستودع يُشتقّ من موضع الملفّ نفسِه — لا مسارٌ مثبَّتٌ لجهازٍ بعينه.
+_ATLAS_ROOT = _os.path.abspath(_os.path.join(_os.path.dirname(_os.path.abspath(__file__)), '..'))
 
 import os
 import re
@@ -14,7 +17,7 @@ import sys
 import json
 from pathlib import Path
 
-ATLAS_ROOT = Path('/Users/minamoheb/Desktop/Atlas')
+ATLAS_ROOT = Path(_ATLAS_ROOT)
 CONTENT_AR = ATLAS_ROOT / 'content' / 'ar'
 
 RELATED_ITEM_RE = re.compile(r'-\s*id:\s*"([^"]*)"\s*,\s*title:\s*"([^"]*)"\s*,\s*type:\s*"([^"]*)"')

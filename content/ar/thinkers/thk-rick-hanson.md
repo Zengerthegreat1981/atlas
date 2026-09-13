@@ -23,8 +23,8 @@ related:
 gaps:
   - "تفاصيل عمله في «Wellspring Institute for Neuroscience and Contemplative Wisdom» موثّقة جزئياً."
   - "لا يوجد ملف مدرسة/تيار (sch-/br-) معتمد لـ«المرونة العصبية الإكلينيكية» في الأطلس، فحُذف edge belongs_to وسُجّل في missing-schools.md. كما لا يوجد ملف مستقل موثَّق حالياً لشارون بيغلي (Sharon Begley) في الأطلس، فحُذف رابطها من related؛ ذُكرت في المتن نصّياً دون رابط."
+  - "حُذف سطرُ مصدرٍ رابطُه ميّت (404): Wikipedia (Rick Hanson): https://en.wikipedia.org/wiki/Rick_Hanson"
 ---
-
 # ريك هانسون
 
 عالم نفس إكلينيكي أمريكي، وُلد عام 1952. مؤسِّس **«Wellspring Institute for Neuroscience and Contemplative Wisdom»** (منذ 2008). أحد أهم منظِّري «المرونة العصبية» (Neuroplasticity) التطبيقية.
@@ -74,10 +74,9 @@ gaps:
 
 ## المصادر
 
-- Wikipedia (Rick Hanson): https://en.wikipedia.org/wiki/Rick_Hanson
 - Hanson, R. & Mendius, R. (2009). *Buddha's Brain*. New Harbinger.
 - Hanson, R. (2013). *Hardwiring Happiness*. New Harbinger.
 - Hanson, R. (2018). *Resilient*. Harmony Books.
 - Hanson, R. (2020). *Neurodharma*. Harmony Books.
-- Wellspring Institute: https://www.rickhanson.net/
+- Wellspring Institute: https://web.archive.org/web/20231220031950/https://www.rickhanson.net/
 - Davidson, R. & Begley, S. (2012). *The Emotional Life of Your Brain*. Plume.

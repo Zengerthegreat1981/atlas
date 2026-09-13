@@ -18,7 +18,11 @@ related:
 - id: "thk-jgrind", title: "جون غريندر", type: "مفكر"
 - id: "thk-trobbins", title: "توني روبنز", type: "مفكر"
 gaps: []
+superseded_by: "thk-jdelozier"   # رُقِّيت هذه المسودةُ ونسختُها المعتمدةُ في content/ar/thinkers/thk-jdelozier.md
 ---
+
+> **مسودةٌ مُتجاوَزة.** رُقِّي هذا المدخلُ وصار ملفُّه المعتمدُ `content/ar/thinkers/thk-jdelozier.md`.
+> ما هنا نسخةٌ سابقةٌ محفوظةٌ للسجلّ — لا تُحرَّر ولا تُبنى.
 
 # جوديث دِلوزييه
 

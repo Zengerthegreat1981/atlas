@@ -16,8 +16,8 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-popular-psychology", target_type: "مدرسة"
 related:
-- id: "con-emotional-intelligence", title: "الذكاء العاطفي", type: "مفهوم"
-- id: "wrk-emotional-intelligence", title: "الذكاء العاطفي", type: "عمل / كتاب"
+- id: "con-emotional-intelligence", title: "الذكاء العاطفي — المفهوم", type: "مفهوم"
+- id: "wrk-emotional-intelligence", title: "الذكاء العاطفي — الكتاب", type: "عمل / كتاب"
 gaps:
   - "بيانات السيرة الذاتية الدقيقة وتاريخ المنشورات تحتاج مراجعة بيبلوغرافية إضافية."
   - "غياب اقتباس مباشر موثَّق بمصدر وسنة محددين لـدانيال غولمان في الأدبيات المتاحة."

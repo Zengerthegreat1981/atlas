@@ -18,15 +18,14 @@ related:
 - id: "thk-sgreys", title: "دانيال هيوز", type: "مفكر"
 - id: "thk-pogden", title: "بات أوغدن", type: "مفكر"
 - id: "thk-alexandra-farkas", title: "ألكسندرا فاركاش", type: "مفكر"
-- id: "thk-bruceperkins", title: "بروس بيركنز", type: "مفكر"
 - id: "thk-marisaberkouwer", title: "ماريسا بيركوور", type: "مفكر"
 gaps:
   - "**مرشح للحجر (تحقّق سلبي)**: بحث ويب مباشر عن 'Colleen Kelley' + Sensorimotor Psychotherapy/Pat Ogden لم يُظهر أي أثر مستقل لشخص بهذا الاسم كمطوِّرة أو مدرِّبة معتمدة في هذا التيار. موقع Sensorimotor Psychotherapy Institute يضمّ مدرّبة باسم قريب هو 'Kelley L. Callahan' (وليس Colleen Kelley)، وقد يكون الملف خلطاً بين الاسمين أو تلفيقاً. كتاب *Sensorimotor Psychotherapy: Interventions for Trauma and Attachment* (2015) مؤلَّفاه الفعليان هما Pat Ogden و Janina Fisher، وليس فيه أي مؤلفة باسم Colleen Kelley — العزو الوارد سابقاً في هذا الملف لهذا الكتاب كان خاطئاً وتم حذفه."
   - "سنة الميلاد غير موثقة."
   - "لا يوجد اقتباس منسوب بمصدر وسنة."
   - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `sch-sensorimotor-psychotherapy` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
+  - "أُزيل رابطُ `related` إلى `thk-bruceperkins` — الهدفُ ملفٌّ محجورٌ (شخصيةٌ/مدخلٌ غيرُ موثَّق الوجود)، فالرابطُ يقود القارئَ إلى طريقٍ مسدود. يُعاد إن رُفع الحجر."
 ---
-
 # كولين كيلي
 
 **تنبيه تحقق**: لم يُعثر في هذا البحث على أي مصدر مستقل يوثّق وجود معالجة نفسية أمريكية بهذا الاسم كمساهمة في تطوير العلاج الحسي-الحركي. الاسم الأقرب الموثَّق في سجلات معهد Sensorimotor Psychotherapy Institute هو "Kelley L. Callahan"، وهو شخص مختلف. يُحتمل أن يكون هذا الملف خلطاً في الأسماء أو تلفيقاً؛ يُوصى بمراجعته كمرشح للحجر حتى يُعثر على مصدر أولي يثبت وجود الشخص ومساهماتها.

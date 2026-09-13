@@ -11,16 +11,16 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 2010
 active_end: "مستمر"
-part: "philosophy"
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "br-discernment-counseling", target_type: "تيار"
 related:
 - id: "thk-wdoherty", title: "بيل دوهرتي", type: "مفكر"
-- id: "con-discernment-counseling", title: "الاستشارة التمييزية (Discernment Counseling)", type: "مفهوم"
+- id: "br-discernment-counseling", title: "الإرشاد التمييزي (Discernment Counseling)", type: "تيار"
 gaps:
   - "سنة ميلاده غير موثّقة في هذا الملف."
+  - "**صُحِّح `part` 2026-09-13:** كان «philosophy» وأبوه `br-discernment-counseling` صار موسوماً «psychology» بعد دمجه — والإرشادُ التمييزيُّ تدخّلٌ زوجيٌّ إكلينيكيّ. فوُحِّد الوسمُ على الأب."
 ---
-
 # ستيفن هاريس
 
 أستاذ ومدير برنامج العلاج الزوجي والأسري في جامعة مينيسوتا (قسم علم الاجتماع الأسري)، شريك **بيل دوهرتي** في تأليف أول كتاب مرجعي عن **الاستشارة التمييزية** (Discernment Counseling)، نموذج متخصص من خمس جلسات للعمل مع الأزواج المختلفين حول الاستمرار في الزواج أو الطلاق.
