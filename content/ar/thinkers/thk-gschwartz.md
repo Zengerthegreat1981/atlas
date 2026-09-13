@@ -14,6 +14,7 @@ part: "philosophy"
 crumb: "علم نفس الطاقة وبحوث الوعي ← غاري شوارتز"
 edges: []
 related:
+- id: "br-energy-psychology", title: "علم نفس الطاقة (Energy Psychology)", type: "تيار"
 - id: "con-behavioral-medicine", title: "الطب السلوكي والصحة السلوكية", type: "مفهوم"
 - id: "tec-biofeedback", title: "البيوفيتباك (Biofeedback)", type: "تقنية/تدخل علاجي"
 gaps:

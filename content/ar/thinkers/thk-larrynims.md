@@ -13,8 +13,9 @@ active_start: 2000
 active_end: 2024
 part: "psychology"
 edges:
-  []
+- rel: "belongs_to", target: "br-energy-psychology", target_type: "تيار"
 related:
+- id: "br-energy-psychology", title: "علم نفس الطاقة (Energy Psychology)", type: "تيار"
 - id: "thk-rcallahan", title: "روجر كالاهان", type: "مفكر"
 gaps:
   - "بعض الجوانب السيرية لم تُراجع من مصدر أولي."

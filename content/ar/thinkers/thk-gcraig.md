@@ -10,10 +10,12 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1995
 active_end: 2026
-part: "philosophy"
+part: "psychology"
 crumb: "علاجات حقل الفكر (TFT) ← تقنية الحرية العاطفية (EFT) ← غاري كريغ"
-edges: []
+edges:
+- rel: "belongs_to", target: "br-energy-psychology", target_type: "تيار"
 related:
+- id: "br-energy-psychology", title: "علم نفس الطاقة (Energy Psychology)", type: "تيار"
 - id: "tec-eft-tapping", title: "تقنيات الحرية الانفعالية (EFT / النقر)", type: "تقنية/تدخل علاجي"
 - id: "thk-rcallahan", title: "روجر كالاهان", type: "مفكر"
 - id: "thk-nicotole", title: "نيكول تول", type: "مفكر"

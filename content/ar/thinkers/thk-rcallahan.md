@@ -12,8 +12,10 @@ language: "الإنجليزية"
 active_start: 1980
 active_end: 2013
 part: "psychology"
-edges: []
+edges:
+- rel: "belongs_to", target: "br-energy-psychology", target_type: "تيار"
 related:
+- id: "br-energy-psychology", title: "علم نفس الطاقة (Energy Psychology)", type: "تيار"
 - id: "tec-eft-tapping", title: "تقنيات الحرية الانفعالية (EFT / النقر)", type: "تقنية/تدخل علاجي"
 - id: "thk-dchurch", title: "داوسون تشيرش", type: "مفكر"
 - id: "thk-dfeinstein", title: "ديفيد فاينشتاين", type: "مفكر"
