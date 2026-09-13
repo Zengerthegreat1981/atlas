@@ -16,6 +16,7 @@ evidence_level: "controversial"
 edges:
   []
 related:
+- id: "thk-jmentgen", title: "جانيت منتغن", type: "مفكر"
 - id: "thk-dhoverkramer", title: "دوروثيا هوفر-كرامر", type: "مفكر"
 - id: "thk-dgruder", title: "ديفيد غرودر", type: "مفكر"
 - id: "thk-tfleming", title: "تاباس فليمينغ", type: "مفكر"
