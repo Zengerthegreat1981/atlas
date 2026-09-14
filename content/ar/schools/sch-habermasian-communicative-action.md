@@ -18,7 +18,9 @@ edges:
 - rel: "belongs_to", target: "sch-habermasian-public-sphere", target_type: "مدرسة"
 related:
 - id: "con-communicative-action-concept", title: "الفعل التواصلي والعقلانية التداولية (Communicative Action)", type: "مفهوم"
+- id: "dbt-luhmann-habermas-systems-lifeworld", title: "جدل لومان وهابرماس: الأنساق المغلقة مقابل إمكان العقل التواصلي النقدي", type: "جدل"
 gaps:
+  - "**تعميقٌ 2026-09-14:** أُضيف رابط `dbt-luhmann-habermas-systems-lifeworld` (مسندٌ بـ`belongs_to` إلى `sch-luhmannian-autopoietic-systems` في القسم 3؛ هابرماس طرفٌ أصيل فيه)."
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)، ويكمل `sch-habermasian-public-sphere` المنشأ في الدفعة نفسها."
 ---
 
