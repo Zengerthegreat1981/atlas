@@ -18,7 +18,9 @@ edges: []
 related:
 - id: "thk-jane-jacobs", title: "جين جاكوبس", type: "مفكر"
 - id: "con-eyes-on-the-street-jacobs", title: "عيون على الشارع والتنوع الحضري (Eyes on the Street)", type: "مفهوم"
+- id: "wrk-urban-villagers-gans", title: "القرويون الحضريون", type: "عمل"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `wrk-urban-villagers-gans` (يُفرد دراسة غانز الميدانية المذكورة كمصدرٍ ثانٍ) وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8)، ويكمل تراث `sch-chicago-urban-ecology` (الدفعة 2) و`sch-lefebvrean-spatial-sociology`/`sch-harvey-critical-urban-spatial` (الدفعة 4) بزاوية تخطيطية عملية مختلفة."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-jane-jacobs`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
 ---
