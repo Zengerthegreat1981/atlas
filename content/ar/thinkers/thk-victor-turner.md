@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-turnerian-symbolic-anthropology", title: "الأنثروبولوجيا الرمزية والدراما الاجتماعية (Turnerian Symbolic Anthropology)", type: "مدرسة"
 - id: "thk-max-gluckman", title: "ماكس غلوكمان (Max Gluckman)", type: "مفكر"
+- id: "con-liminality-communitas", title: "العتبةُ والكومونيتاس (Liminality & Communitas)", type: "مفهوم"
 gaps: []
 ---
 # فيكتور تيرنر (Victor Turner)

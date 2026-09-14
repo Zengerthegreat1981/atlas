@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-douglas-purity-danger-classification", title: "أنثروبولوجيا النقاء والخطر والتصنيف (Mary Douglas — Purity and Danger)", type: "مدرسة"
 - id: "thk-evans-pritchard", title: "إدوارد إيفانز-بريتشارد (E. E. Evans-Pritchard)", type: "مفكر"
+- id: "con-matter-out-of-place-douglas", title: "مادّةٌ في غير موضعها (Matter Out of Place)", type: "مفهوم"
 gaps: []
 ---
 # ماري دوغلاس (Mary Douglas)
