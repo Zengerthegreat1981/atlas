@@ -158,6 +158,11 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 معلَّقة غير متعلقة في ملفات ألاتاس/سوبالترن غير مُلتزمة لوكيل آخر). **أوّل بند للدفعة التالية:**
 `sch-lemert-primary-secondary-deviance`.
 
+**الدفعة 25 (2026-09-14):** كُتب `thk-lemert` و`con-primary-secondary-deviance`، وأُسندا إلى
+`sch-lemert-primary-secondary-deviance` (موجودة سلفاً) وأُضيفت روابطهما فيها. الفحوص الثلاثة صفر
+على نطاق ملفات هذه الدفعة (الشجرة الكاملة تحمل عزلات وإحالة معلَّقة في ملفات شريعتي/رادكليف-براون
+غير مُلتزمة لوكيل آخر). **أوّل بند للدفعة التالية:** `sch-sutherland-differential-association`.
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
@@ -196,7 +201,7 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 - [x] `sch-goffman-stigma` — سوسيولوجيا الوصمة والهوية المشوهة (Goffman's Sociology of Stigma)
 - [x] `sch-goffman-frame-analysis` — تحليل الأطر والنظام التفاعلي اليومي (Goffman's Frame Analysis & Interaction Order)
 - [ ] `sch-becker-labeling-theory` — نظرية الوصم والانحراف كمسار مهني (Becker's Labelling Theory of Deviance)
-- [ ] `sch-lemert-primary-secondary-deviance` — سوسيولوجيا الانحراف البنائية (Lemert's Primary & Secondary Deviance)
+- [x] `sch-lemert-primary-secondary-deviance` — سوسيولوجيا الانحراف البنائية (Lemert's Primary & Secondary Deviance)
 - [ ] `sch-sutherland-differential-association` — نظرية الارتباط التفاضلي وجرائم الياقات البيضاء (Sutherland's Differential Association Theory)
 - [ ] `sch-hochschild-emotional-labor` — سوسيولوجيا الانفعالات والعمل العاطفي (Hochschild's Sociology of Emotions & Emotional Labor)
 - [ ] `sch-hochschild-care-work` — سوسيولوجيا سلاسل الرعاية العالمية والوردية الثانية (Hochschild's Care Work Sociology)
