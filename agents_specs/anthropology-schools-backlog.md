@@ -92,7 +92,7 @@
 - [x] المنظوريةُ الأمازونية وتعدّدُ الطبائع (Amerindian Perspectivism) — `sch-amerindian-perspectivism`
 - [x] ما وراء الطبيعة/الثقافة (Descola's *Beyond Nature and Culture*) — `sch-descola-beyond-nature-culture`، `thk-philippe-descola`
 - [x] أنثروبولوجيا السكن والمهارة (Ingold — Dwelling, Lines, Making) — `sch-ingold-dwelling-perspective`، `thk-tim-ingold`
-- [ ] الأنثروبولوجيا متعدّدةُ الأنواع (Multispecies Ethnography — Haraway, Tsing, Kohn)
+- [x] الأنثروبولوجيا متعدّدةُ الأنواع (Multispecies Ethnography — Haraway, Tsing, Kohn) — `sch-multispecies-ethnography`، `thk-anna-tsing`
 - [ ] أنثروبولوجيا العلم والتقانة (STS Ethnography — Latour, Rabinow)
 - [ ] الأنثروبولوجيا الرقمية والإثنوغرافيا الشبكية (Digital Anthropology — Miller, Boellstorff)
 - [ ] أنثروبولوجيا الأنثروبوسين والمناخ (Anthropology of the Anthropocene)
