@@ -76,7 +76,7 @@ def analyze_sociology_content():
                     fm = parse_frontmatter(text)
                     part = fm.get("part", "")
                     
-                    is_socio = (part == "sociology") or ("sociology" in fpath) or ("علم الاجتماع" in text[:500])
+                    is_socio = part == "sociology"
                     if is_socio:
                         if is_draft:
                             stats["total_draft_nodes"] += 1

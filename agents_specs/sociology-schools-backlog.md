@@ -1,3 +1,12 @@
+> **موضعُ التوقّف/الاستئناف (2026-09-14):** أُنجزت «الدفعة 0» من `SOCIOLOGY_MISSION_PROMPT.md`:
+> (1) ضُيِّق شرطُ `scripts/build_sociology_matrix.py` إلى `part == "sociology"` وحده،
+> (2) كُتبت 3 مدارسَ حاضنةٍ لسدّ يُتم العقد الثلاث القائمة سابقاً (`sch-contemporary-arab-sociology`،
+> `sch-social-capital-civic`، `sch-conversation-analysis`) وأُسندت إليها العقدُ الثلاث بـ`belongs_to`.
+> المدارسُ الثلاث الجديدة نفسُها بلا أبٍ بعدُ (لا مدرسةَ أمٍّ سوسيولوجية موجودة في المستودع تصلح
+> هدفاً صحيحاً) — هذا متوقَّعٌ ومُوثَّقٌ في `gaps` كلِّ ملفّ، لا خطأً يُصحَّح بأبٍ ملفَّق.
+> `audit_atlas.py` عاد إلى صفرٍ بعد هذه الدفعة. **الدفعةُ التالية (1):** كتابة 60 مدرسةً كبرى إضافية
+> من الأقسام 1–5 أدناه — ابدأ من أوّل بندٍ غيرِ مؤشَّرٍ بـ`[x]`.
+
 # قائمة المدارس والنظريات السوسيولوجية الشاملة — قائمة انتظار (Backlog) لتغطية علم الاجتماع في أطلس
 
 هذا الملف هو **مصدر الحقيقة المرجعي الوحيد** لتتبّع التقدّم في تغطية مدارس/تيارات/بارادايمات **علم الاجتماع (Sociology)** عالمياً،
@@ -81,7 +90,7 @@
 - [ ] السوسيولوجيا التحليلية ونظرية الآليات الاجتماعية (Analytical Sociology: Elster & Hedström)
 - [ ] نظرية التبادل الشبكي وعلاقات القوة-التبعية (Network Exchange Theory: Willer & Cook)
 - [ ] المؤسسية الجديدة في سوسيولوجيا التنظيمات (New Institutionalism in Organizational Sociology: DiMaggio & Powell)
-- [ ] سوسيولوجيا رأس المال الاجتماعي والشبكات المدنية (Putnam's Social Capital Theory)
+- [x] سوسيولوجيا رأس المال الاجتماعي والشبكات المدنية (Putnam's Social Capital Theory) — `sch-social-capital-civic` (دفعة 0، 2026-09-14)
 - [ ] سوسيولوجيا التنظيمات والخلل البيروقراطي (Sociology of Complex Organizations: Gouldner & Blau)
 - [ ] سوسيولوجيا الشبكات الاجتماعية وتحليل البنى (Social Network Analysis Paradigm: Wellman & Granovetter)
 - [ ] سوسيولوجيا المكانة والتمايز الطبقي التراكمي (Cumulative Advantage Theory / Matthew Effect)
@@ -118,7 +127,7 @@
 - [ ] الفينومينولوجيا السوسيولوجية وعالم الحياة المعاش (Schutzian Phenomenological Sociology)
 - [ ] البنائية الاجتماعية للواقع (Berger & Luckmann's Social Constructionism)
 - [ ] الإثنوميثودولوجيا والتفكير العملي العادي (Garfinkelian Ethnomethodology)
-- [ ] تحليل المحادثة والتنظيم التفاعلي الصوري (Conversation Analysis: Sacks & Schegloff)
+- [x] تحليل المحادثة والتنظيم التفاعلي الصوري (Conversation Analysis: Sacks & Schegloff) — `sch-conversation-analysis` (دفعة 0، 2026-09-14)
 - [ ] نظرية الممارسة والهابيتوس (Bourdieu's Theory of Practice & Habitus)
 - [ ] سوسيولوجيا الحقول وأشكال رأس المال (Bourdieu's Field Theory & Forms of Capital)
 - [ ] سوسيولوجيا التمايز وإعادة الإنتاج الثقافي (Bourdieu's Distinction & Cultural Reproduction)
@@ -182,7 +191,7 @@
 - [ ] سوسيولوجيا العمران والتحول البدوي-الحضري الخلدونية (Khaldunian Historical Sociology)
 - [ ] سوسيولوجيا الشخصية الازدواجية وصراع القيم العربي (Al-Wardi's Iraqi & Arab Sociology)
 - [ ] سوسيولوجيا البطريركية المستحدثة والتغير المشوه (Sharabi's Neopatriarchy Sociology)
-- [ ] سوسيولوجيا المجتمع الفسيفسائي والاغتراب العربي (Barakat's Contemporary Arab Society Sociology)
+- [x] سوسيولوجيا المجتمع الفسيفسائي والاغتراب العربي (Barakat's Contemporary Arab Society Sociology) — `sch-contemporary-arab-sociology` (دفعة 0، 2026-09-14)
 - [ ] السوسيولوجيا النسوية العربية ونقد الهيمنة البطريركية (El Saadawi's Arab Feminist Sociology)
 - [ ] التاريخانية والسوسيولوجيا النقدية العربية والإسلامية (Laroui & Shariati's Critical Arab/Islamic Sociology)
 
