@@ -18,8 +18,10 @@ edges: []
 related:
 - id: "sch-durkheimian-sociology-of-religion", title: "سوسيولوجيا الدين والطقوس الجمعية الدوركهايمية", type: "مدرسة"
 - id: "thk-durkheim", title: "إميل دوركهايم", type: "مفكر"
+- id: "wrk-rules-of-sociological-method-durkheim", title: "قواعد المنهج السوسيولوجي", type: "عمل / كتاب"
 gaps:
   - "**سُدَّ 2026-09-14 (مرحلة الحزم، دفعة 9):** كُتب `thk-durkheim` بوسم `part: \"sociology\"` وأُسند إلى هذا الملف بـ`belongs_to`."
+  - "**تعميقٌ 2026-09-14:** أُضيف `wrk-rules-of-sociological-method-durkheim` وربطه هنا."
   - "الجسر إلى دوركهايم/الأنومي والانتحار في قسم النفس والفلسفة مذكورٌ صراحة في القسم 4 من `SOCIOLOGY_MISSION_PROMPT.md` كدفعة أخيرة مخصَّصة؛ لم يُبنَ بعد."
 ---
 
