@@ -18,6 +18,7 @@ edges: []
 related:
 - id: "thk-anibal-quijano", title: "أنيبال كويخانو", type: "مفكر"
 - id: "sch-santos-epistemologies-of-the-south", title: "إبستمولوجيات الجنوب وسوسيولوجيا الغيابات", type: "مدرسة"
+- id: "con-coloniality-of-power-concept", title: "استعمارية السلطة والتصنيف العرقي (Coloniality of Power)", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7). ملف `thk-anibal-quijano` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده. `belongs_to` لهذا الملف نفسه تُرك فارغاً."
 ---

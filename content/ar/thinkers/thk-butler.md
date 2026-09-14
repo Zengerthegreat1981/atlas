@@ -20,6 +20,7 @@ related:
 - id: "sch-feminism-french-poststructural", title: "النسوية الفرنسية (ما بعد بنيوية)", type: "مدرسة"
 - id: "con-gender-performativity", title: "أداء النوع (الجنوسة الأدائية)", type: "مفهوم"
 - id: "wrk-gender-trouble", title: "إشكالية النوع (Gender Trouble, 1990)", type: "عمل / كتاب"
+- id: "sch-butler-gender-performativity", title: "سوسيولوجيا الأداء الجندري وتفكيك الثنائية", type: "مدرسة"
 - id: "crt-butler-critique-of-heteronormativity", title: "نقد جوديث بتلر للمعيارية المغايرة وثنائية الجنس الطبيعي", type: "نقد خارجي موثَّق"
 gaps:
   - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."

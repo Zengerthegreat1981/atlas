@@ -15,9 +15,11 @@ language: "الإنجليزية"
 active_start: 1990
 active_end: 1990
 edges: []
-related: []
+related:
+- id: "thk-butler", title: "جوديث بتلر", type: "مفكر"
+- id: "con-gender-performativity-concept", title: "الأداء الجندري وتفكيك الهوية الطبيعية (Gender Performativity)", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7). لا يوجد بعد ملف مستقل لجوديث بتلر (`thk-judith-butler`)؛ `belongs_to` تُرك فارغاً."
+  - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7). ملف `thk-butler` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً."
 ---
 
 # سوسيولوجيا الأداء الجندري وتفكيك الثنائية

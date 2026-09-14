@@ -17,8 +17,11 @@ active_end: 2014
 edges: []
 related:
 - id: "sch-quijano-coloniality-of-power", title: "سوسيولوجيا استعمارية السلطة والمركزية الأوروبية", type: "مدرسة"
+- id: "thk-boaventura-de-sousa-santos", title: "بوافنتورا دي سوزا سانتوس", type: "مفكر"
+- id: "con-epistemologies-of-the-south-santos", title: "إبستمولوجيات الجنوب وسوسيولوجيا الغيابات (Epistemologies of the South)", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7). لا يوجد بعد ملف مستقل لبوافنتورا دي سوزا سانتوس (`thk-boaventura-de-sousa-santos`)؛ `belongs_to` تُرك فارغاً."
+  - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7)."
+  - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-boaventura-de-sousa-santos`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
 ---
 
 # إبستمولوجيات الجنوب وسوسيولوجيا الغيابات

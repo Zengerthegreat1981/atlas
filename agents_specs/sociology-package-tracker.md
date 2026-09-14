@@ -144,6 +144,12 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 تحمل 3 روابط `related` معلَّقة في ملفات فريزر/أوكلي/سانتوس غير مُلتزمة لوكيل آخر، لم تُلمس هنا).
 **أوّل بند للدفعة التالية:** `sch-goffman-frame-analysis`.
 
+**الدفعة 23 (2026-09-14):** كُتب `con-frame-analysis-goffman` وأُسند إلى `sch-goffman-frame-analysis`
+(موجودة سلفاً) وأُضيف رابطه فيها. الفحوص الثلاثة صفر على نطاق ملفات هذه الدفعة (الشجرة الكاملة
+تحمل عدداً كبيراً من ملفات فريزر/أوكلي/سانتوس/بتلر غير مُلتزمة لوكيل آخر — استُعمل `git reset`
+عام ثم `git add` بمسارات محدَّدة لعزلها قبل هذا الالتزام). **أوّل بند للدفعة التالية:**
+`sch-becker-labeling-theory`.
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
@@ -180,7 +186,7 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 - [x] `sch-goffman-dramaturgical` — النظرية الدراماتورجية وإدارة الانطباع (Goffman's Dramaturgical Sociology)
 - [x] `sch-goffman-total-institutions` — سوسيولوجيا المؤسسات الشاملة والمصحات (Goffman's Total Institutions Sociology)
 - [x] `sch-goffman-stigma` — سوسيولوجيا الوصمة والهوية المشوهة (Goffman's Sociology of Stigma)
-- [ ] `sch-goffman-frame-analysis` — تحليل الأطر والنظام التفاعلي اليومي (Goffman's Frame Analysis & Interaction Order)
+- [x] `sch-goffman-frame-analysis` — تحليل الأطر والنظام التفاعلي اليومي (Goffman's Frame Analysis & Interaction Order)
 - [ ] `sch-becker-labeling-theory` — نظرية الوصم والانحراف كمسار مهني (Becker's Labelling Theory of Deviance)
 - [ ] `sch-lemert-primary-secondary-deviance` — سوسيولوجيا الانحراف البنائية (Lemert's Primary & Secondary Deviance)
 - [ ] `sch-sutherland-differential-association` — نظرية الارتباط التفاضلي وجرائم الياقات البيضاء (Sutherland's Differential Association Theory)
@@ -290,11 +296,11 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 - [x] `sch-hill-collins-black-feminist-sociology` — الفكر النسوي الأسود ومصفوفة الهيمنة (Black Feminist Sociology: Patricia Hill Collins)
 - [x] `sch-sociological-intersectionality` — النظرية التقاطعية السوسيولوجية (Sociological Intersectionality: Crenshaw & Collins)
 - [x] `sch-bell-hooks-critical-feminist-sociology` — النسوية النقدية ومناهضة النظام الأبوي الإمبريالي (bell hooks' Critical Feminist Sociology)
-- [ ] `sch-butler-gender-performativity` — سوسيولوجيا الأداء الجندري وتفكيك الثنائية (Butler's Gender Performativity Sociology)
-- [ ] `sch-oakley-housework-reproduction` — سوسيولوجيا العمل المنزلي وإعادة الإنتاج الجندري (Oakley's Sociology of Housework & Reproduction)
-- [ ] `sch-fraser-social-reproduction-crisis-of-care` — سوسيولوجيا أزمة الرعاية والعدالة الرأسمالية (Fraser's Social Reproduction & Crisis of Care)
-- [ ] `sch-quijano-coloniality-of-power` — سوسيولوجيا استعمارية السلطة والمركزية الأوروبية (Quijano's Coloniality of Power Sociology)
-- [ ] `sch-santos-epistemologies-of-the-south` — إبستمولوجيات الجنوب وسوسيولوجيا الغيابات (Santos' Epistemologies of the South & Cognitive Justice)
+- [x] `sch-butler-gender-performativity` — سوسيولوجيا الأداء الجندري وتفكيك الثنائية (Butler's Gender Performativity Sociology)
+- [x] `sch-oakley-housework-reproduction` — سوسيولوجيا العمل المنزلي وإعادة الإنتاج الجندري (Oakley's Sociology of Housework & Reproduction)
+- [x] `sch-fraser-social-reproduction-crisis-of-care` — سوسيولوجيا أزمة الرعاية والعدالة الرأسمالية (Fraser's Social Reproduction & Crisis of Care)
+- [x] `sch-quijano-coloniality-of-power` — سوسيولوجيا استعمارية السلطة والمركزية الأوروبية (Quijano's Coloniality of Power Sociology)
+- [x] `sch-santos-epistemologies-of-the-south` — إبستمولوجيات الجنوب وسوسيولوجيا الغيابات (Santos' Epistemologies of the South & Cognitive Justice)
 - [ ] `sch-said-sociology-of-orientalism` — النقد السوسيولوجي للاستشراق والتمثيل الإمبريالي (Said's Sociology of Orientalism & Knowledge)
 - [ ] `sch-fanonian-liberation-sociology` — علم الاجتماع التحرري ومناهضة الاستعمار (Fanonian Liberation Sociology & Sociogeny)
 - [ ] `sch-alatas-captive-mind-sociology` — سوسيولوجيا العقل الأسير والتبعية الأكاديمية الآسيوية (Alatas' Captive Mind Sociology)
