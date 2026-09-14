@@ -19,7 +19,9 @@ edges:
 related:
 - id: "thk-weber", title: "ماكس فيبر", type: "مفكر"
 - id: "con-iron-cage-rationalization-weber", title: "العقلنة والقفص الحديدي عند فيبر", type: "مفهوم"
+- id: "dbt-weber-michels-organizational-pessimism", title: "جدل التشاؤم التنظيمي: القفص الحديدي عند فيبر مقابل القانون الحديدي للأوليغارشية عند ميشيلز", type: "جدل"
 gaps:
+  - "**تعميقٌ 2026-09-14:** أُضيف `dbt-weber-michels-organizational-pessimism` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 1 من مهمة بناء قسم علم الاجتماع (القسم 1)، ويكمل `sch-weberian-interpretive-sociology` المنشأ في الدفعة نفسها. `thk-weber` القائم موسومٌ `part: \"philosophy\"`، فالربط عبر `related` وحده لا `belongs_to`."
   - "**سُدَّت الفجوة 2026-09-14:** كُتب `con-iron-cage-rationalization-weber` وأُضيف رابطه هنا مع رابط `thk-weber`."
 ---
