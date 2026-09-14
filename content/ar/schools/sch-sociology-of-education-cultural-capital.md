@@ -19,7 +19,9 @@ related:
 - id: "sch-bourdieu-distinction-cultural-reproduction", title: "سوسيولوجيا التمايز وإعادة الإنتاج الثقافي", type: "مدرسة"
 - id: "thk-basil-bernstein", title: "باسيل برنشتاين", type: "مفكر"
 - id: "con-linguistic-codes-bernstein", title: "الشفرة المقيَّدة والشفرة المُفصَّلة (Restricted & Elaborated Codes)", type: "مفهوم"
+- id: "wrk-class-codes-control-bernstein", title: "الطبقة، الشفرات والضبط", type: "عمل"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `wrk-class-codes-control-bernstein` (يُفرد السلسلة البحثية الكاملة 1971-1990) وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8)، ويكمل `sch-bourdieu-distinction-cultural-reproduction` (الدفعة 5) بمساهمة بريطانية موازية عن اللغة والتعليم."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-basil-bernstein`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
 ---
