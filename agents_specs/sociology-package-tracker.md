@@ -68,11 +68,27 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 **أوّل بند للدفعة التالية:** `sch-khaldunian-ilm-al-umran` و`sch-booth-rowntree-social-survey`
 (لا مفكر مستقل لهما بعد)، ثم الانتقال إلى القسم 2 (شيكاغو والتفاعلية الرمزية).
 
+**الدفعة 12 (2026-09-14):** إكمال آخر بندي القسم 1. لـ`sch-khaldunian-ilm-al-umran` (كان موجوداً
+سلفاً منذ الدفعة 1): أُضيف `con-asabiyyah-ibn-khaldun` (مفهوم العصبية مفصَّلاً) ورابطه في المدرسة
+وفي `thk-ibn-khaldun`. لـ`sch-booth-rowntree-social-survey`: كُتب `thk-booth` و`thk-rowntree`
+(كلاهما جديد) و`con-poverty-line-rowntree`، وأُسندا بـ`belongs_to` وربطا في المدرسة. **بذلك اكتمل
+القسم 1 بأكمله معقولاً** إلا `sch-martineau-feminist-sociology` (يبقى `[~]`، لا `con-`/`wrk-`
+مستقل بعد لمارتينو — أقل مركزية، مؤجَّل). الفحوص الثلاثة صفر. **ملاحظة معرِّفات مهمة:** واجهت هذه
+الدفعة تصادمَي id فعليَّين مع ملفات غير مُلتزمة للوكيل الثاني (`CON-30xx`, `THK-63xx` تكرَّرت)؛ حُلَّا
+برفع معرِّفات هذه الدفعة إلى نطاق أعلى (`THK-6390+`, `CON-3050+`) بدل نطاق `CON-3030s`/`THK-6380s`
+الذي بات مزدحماً بعمل متزامن. **أي دفعة لاحقة يجب أن تتحقق من أعلى id مستعمل فعلياً في الشجرة قبل
+التثبيت، لا الافتراض أن آخر id مُلتزم هو الأعلى**، لأن الشجرة مشتركة بين وكيلين الآن. كذلك: `Write`
+على ملف مدرسة (`sch-khaldunian-ilm-al-umran`) بدل قراءته أولاً أدّى إلى الكتابة فوق نسخة موجودة
+فعلاً (بمعرِّف وفحوى مختلفين) قبل أن يُلتقَط الخطأ بفحص السلامة ويُصحَّح — **درسٌ**: التحقق بـ`find`/`ls`
+مباشرة قبل `Write` على أي مسار جديد الآن، لا الاعتماد على بحث سابق قد يكون فشل صامتاً.
+**أوّل بند للدفعة التالية:** الانتقال إلى القسم 2 (شيكاغو والتفاعلية الرمزية) — أول بنوده:
+`sch-chicago-urban-ecology`.
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
 
-- [ ] `sch-khaldunian-ilm-al-umran` — علم العمران البشري الخلدوني (Ibn Khaldun's Ilm al-Umran)
+- [x] `sch-khaldunian-ilm-al-umran` — علم العمران البشري الخلدوني (Ibn Khaldun's Ilm al-Umran)
 - [~] `sch-comtean-positivism` — الوضعية السوسيولوجية الكلاسيكية (Comtean Positivism)
 - [~] `sch-spencerian-evolutionism` — التطورية الاجتماعية والعضوية (Spencerian Social Evolutionism & Organicism)
 - [~] `sch-marxist-classical-sociology` — المادية التاريخية السوسيولوجية ونظرية الصراع الطبقي (Marxist Classical Sociology)
@@ -83,14 +99,14 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 - [ ] `sch-weberian-religion-capitalism` — سوسيولوجيا الأخلاق الرأسمالية والدين (Weberian Sociology of Religion & Capitalism)
 - [~] `sch-simmelian-formal-sociology` — السوسيولوجيا الصورية والشبكات الدقيقة (Simmelian Formal Sociology)
 - [ ] `sch-simmelian-money-metropolis` — سوسيولوجيا الثقافة الحضرية والمالية (Simmelian Sociology of Money & Metropolis)
-- [~] `sch-sumnerian-evolutionary-sociology` — الداروينية الاجتماعية والأعراف المجتمعية (Sumnerian Evolutionary Sociology)
+- [x] `sch-sumnerian-evolutionary-sociology` — الداروينية الاجتماعية والأعراف المجتمعية (Sumnerian Evolutionary Sociology)
 - [x] `sch-classical-elite-theory` — نظرية النخبة السوسيولوجية الكلاسيكية (Classical Elite Theory: Pareto, Mosca, Michels)
-- [~] `sch-martineau-feminist-sociology` — التأسيس النسوي والمنهجي المبكر (Martineau's Foundational Feminist Sociology)
-- [~] `sch-du-boisian-sociology` — السوسيولوجيا النقدية للأعراق والازدواجية الوجدانية (Du Boisian Sociology)
-- [~] `sch-veblenian-institutional-sociology` — سوسيولوجيا الاستهلاك والمؤسسية التطورية (Veblenian Institutional Sociology)
-- [~] `sch-tonnies-gemeinschaft-gesellschaft` — ثنائية المجتمع المحلي والمجتمع التعاقدي (Tönnies' Gemeinschaft und Gesellschaft)
+- [~] `sch-martineau-feminist-sociology` — التأسيس النسوي والمنهجي المبكر (Martineau's Foundational Feminist Sociology) — لا `con-`/`wrk-` مستقل بعد
+- [x] `sch-du-boisian-sociology` — السوسيولوجيا النقدية للأعراق والازدواجية الوجدانية (Du Boisian Sociology)
+- [x] `sch-veblenian-institutional-sociology` — سوسيولوجيا الاستهلاك والمؤسسية التطورية (Veblenian Institutional Sociology)
+- [x] `sch-tonnies-gemeinschaft-gesellschaft` — ثنائية المجتمع المحلي والمجتمع التعاقدي (Tönnies' Gemeinschaft und Gesellschaft)
 - [x] `sch-tarde-lebon-crowd-theory` — سيكولوجيا الجماهير والتقليد الاجتماعي (Tarde & Le Bon's Crowd & Imitation Theory)
-- [ ] `sch-booth-rowntree-social-survey` — حركة المسوح الاجتماعية والفقر البريطانية (Booth & Rowntree's Social Survey Movement)
+- [x] `sch-booth-rowntree-social-survey` — حركة المسوح الاجتماعية والفقر البريطانية (Booth & Rowntree's Social Survey Movement)
 
 ## 2. مدرسة شيكاغو، التفاعلية الرمزية وسوسيولوجيا الحياة اليومية (Chicago School & Symbolic Interactionism)
 
@@ -178,11 +194,11 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 - [x] `sch-latour-callon-actor-network-theory` — نظرية شبكة الفواعل وسوسيولوجيا الترجمة (Latour & Callon's Actor-Network Theory - ANT)
 - [x] `sch-boltanski-thevenot-sociology-of-worth` — سوسيولوجيا التبرير ونماذج الجدارة (Boltanski & Thévenot's Sociology of Worth / Pragmatic Sociology)
 - [x] `sch-boltanski-chiapello-capitalist-spirit` — سوسيولوجيا نقد الرأسمالية الشبكية (Boltanski & Chiapello's Sociology of Capitalist Spirit)
-- [ ] `sch-douglas-johnson-existential-sociology` — السوسيولوجيا الوجودية والخبرة المعيشة (Douglas & Johnson's Existential Sociology)
-- [ ] `sch-narrative-hermeneutic-sociology` — السوسيولوجيا التأويلية والسردية (Narrative & Hermeneutic Sociology)
-- [ ] `sch-visual-sociology-sensory-ethnography` — السوسيولوجيا البصرية والإثنوغرافيا الحسية (Visual Sociology & Sensory Ethnography)
-- [ ] `sch-contemporary-relational-sociology` — السوسيولوجيا العلائقية المعاصرة (Contemporary Relational Sociology: Emirbayer & Dépelteau)
-- [ ] `sch-archerian-critical-realist-sociology` — الواقعية النقدية السوسيولوجية ونظرية المورفوجينيسيس (Archerian Critical Realist Sociology)
+- [x] `sch-douglas-johnson-existential-sociology` — السوسيولوجيا الوجودية والخبرة المعيشة (Douglas & Johnson's Existential Sociology)
+- [x] `sch-narrative-hermeneutic-sociology` — السوسيولوجيا التأويلية والسردية (Narrative & Hermeneutic Sociology)
+- [x] `sch-visual-sociology-sensory-ethnography` — السوسيولوجيا البصرية والإثنوغرافيا الحسية (Visual Sociology & Sensory Ethnography)
+- [x] `sch-contemporary-relational-sociology` — السوسيولوجيا العلائقية المعاصرة (Contemporary Relational Sociology: Emirbayer & Dépelteau)
+- [x] `sch-archerian-critical-realist-sociology` — الواقعية النقدية السوسيولوجية ونظرية المورفوجينيسيس (Archerian Critical Realist Sociology)
 
 ## 6. النظريات السوسيولوجية المعاصرة، العولمة والمجتمع الرقمي (Contemporary, Globalization & Digital Sociology)
 
