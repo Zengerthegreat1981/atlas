@@ -19,7 +19,9 @@ related:
 - id: "thk-sutherland", title: "إدوين ساذرلاند", type: "مفكر"
 - id: "con-differential-association-theory", title: "نظرية الارتباط التفاضلي عند ساذرلاند", type: "مفهوم"
 - id: "con-white-collar-crime-sutherland", title: "جرائم الياقات البيضاء عند ساذرلاند", type: "مفهوم"
+- id: "dbt-sutherland-differential-vs-positivist-criminology", title: "جدل تفسير الجريمة: التعلم الاجتماعي عند ساذرلاند مقابل الحتمية البيولوجية-النفسية", type: "جدل"
 gaps:
+  - "**تعميقٌ 2026-09-14:** أُضيف `dbt-sutherland-differential-vs-positivist-criminology` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2)."
   - "**سُدَّ 2026-09-14 (الدفعة 26):** كُتب `thk-sutherland`، `con-differential-association-theory`، و`con-white-collar-crime-sutherland` وأُضيفت روابطها هنا."
 ---
