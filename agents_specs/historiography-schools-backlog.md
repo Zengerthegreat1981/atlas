@@ -59,9 +59,9 @@
 - [x] نقدُ المصادر الداخليُّ والخارجيّ — `sch-internal-external-source-criticism`
 - [x] التاريخُ الشفويُّ ومنهجُه (Oral History) — `sch-oral-history-modern-method`
 - [x] الأرشيفُ بوصفه سلطةً ومشكلةً (Archival Turn) — `sch-archival-turn-archive-as-power`
-- [ ] الببليومتريا والتاريخُ الرقميُّ والكمّيّ (Digital History)
-- [ ] التأريخُ المقارنُ ومنهجُ الحالات
-- [ ] الدوريةُ التاريخيةُ ومشكلةُ التقسيم (Periodization)
+- [x] الببليومتريا والتاريخُ الرقميُّ والكمّيّ (Digital History) — `sch-digital-history-computational-methods`
+- [x] التأريخُ المقارنُ ومنهجُ الحالات — `sch-comparative-history-case-method`
+- [x] الدوريةُ التاريخيةُ ومشكلةُ التقسيم (Periodization) — `sch-periodization-problem`
 
 ---
 **الإجمال: 45 بنداً.**
