@@ -324,6 +324,32 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 فرانكفورت) من `sch-latin-american-dependency-theory` (4 بنود من أصل 20 مكتملة فعلاً عبر جلسة
 موازية: دارندورف، ميلز، كولينز، والرشتاين).
 
+**⚠️ إعادة توجيه من المنسِّق (2026-09-14):** الجلسة الموازية بدأت العمل على **القسم 4 كاملاً**؛
+تجنّباً للتعارض، تحوّلت هذه الجلسة بدلاً من ذلك إلى إغلاق فجواتٍ متروكة في الأقسام 1-3:
+
+- **سُدَّت `sch-durkheimian-sociology-of-religion`:** كُتب `con-sacred-profane-collective-effervescence`
+  و`wrk-elementary-forms-religious-life-durkheim` وأُسندا إليها مع رابط `thk-durkheim`.
+- **سُدَّت `sch-weberian-rationalization-bureaucracy`:** كُتب `con-iron-cage-rationalization-weber`
+  وأُسند إليها مع رابط `thk-weber` (part: philosophy، رُبط عبر `related` لا `belongs_to`).
+- **سُدَّت `sch-weberian-religion-capitalism`:** كُتب `wrk-protestant-ethic-spirit-capitalism-weber`
+  و`con-elective-affinity-protestant-ethic` وأُسندا إليها.
+- **سُدَّت `sch-simmelian-money-metropolis`:** كُتب `con-blase-attitude-metropolis-simmel` وأُسند إليها
+  مع رابط `thk-simmel` (موجود سلفاً).
+- **`sch-becker-labeling-theory`:** كانت مكتملة فعلياً منذ الدفعة 24 (خطأ ترقيم `[ ]` سابق)؛ صُحِّحت
+  العلامة إلى `[x]` دون عمل إضافي.
+- **سُدَّت `sch-social-capital-civic`:** كُتب `con-bowling-alone-civic-decline-putnam` وأُسند إليها؛
+  صُحِّحت إشارات قديمة في المتن كانت تزعم غياب ملفات كولمان وبورديو المستقلة رغم كتابتهما لاحقاً
+  (`thk-coleman` في الدفعة 44، `thk-bourdieu` عبر جلسة أخرى)؛ أُضيف رابط `thk-bourdieu`.
+- **سُدَّت `sch-cumulative-advantage-theory`:** كُتب `con-cumulative-advantage-matthew-effect` وأُسند
+  إليها مع رابط `thk-robert-merton`، بدل الاكتفاء بالتوثيق الجزئي ضمن `con-cudos-norms-science`
+  كما اقتُرح مبدئياً — المحتوى الآن أوسع وأدق تخصصاً لموضوع الميزة التراكمية تحديداً.
+
+**بهذا تُغلق الأقسام 1-3 بالكامل تقريباً معقولاً** (يبقى فقط `sch-martineau-feminist-sociology`
+جزئياً `[~]` بلا `con-`/`wrk-` مستقل، مؤجَّل عمداً لأقل مركزية). الفحوص الثلاثة صفر على نطاق كل
+ملفات هذا الدور (فحص الشجرة الكاملة يُظهر 4 مشكلات غير متعلقة في ملفات فقه إسلامي — `thk-al-shatibi`
+وأخواته — من جلسة أخرى). **القسم 4 يبقى بيد الجلسة الموازية بالكامل — لم يُلمس هنا إطلاقاً بعد هذا
+التنبيه.** بانتظار توجيه المنسِّق التالي بشأن توزيع العمل حين يكتمل القسم 4 أو يُحدَّد نطاقٌ آخر.
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
@@ -333,12 +359,12 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 - [~] `sch-spencerian-evolutionism` — التطورية الاجتماعية والعضوية (Spencerian Social Evolutionism & Organicism)
 - [~] `sch-marxist-classical-sociology` — المادية التاريخية السوسيولوجية ونظرية الصراع الطبقي (Marxist Classical Sociology)
 - [~] `sch-durkheimian-structural-functionalism` — البنائية الوظيفية الدوركهايمية (Durkheimian Structural Functionalism)
-- [ ] `sch-durkheimian-sociology-of-religion` — سوسيولوجيا الدين والطقوس الجمعية الدوركهايمية (Durkheimian Sociology of Religion)
+- [x] `sch-durkheimian-sociology-of-religion` — سوسيولوجيا الدين والطقوس الجمعية الدوركهايمية (Durkheimian Sociology of Religion)
 - [~] `sch-weberian-interpretive-sociology` — السوسيولوجيا الفهمية والتفسيرية الفيبرية (Weberian Interpretive Sociology / Verstehen)
-- [ ] `sch-weberian-rationalization-bureaucracy` — سوسيولوجيا العقلنة والبيروقراطية (Sociology of Rationalization & Bureaucracy)
-- [ ] `sch-weberian-religion-capitalism` — سوسيولوجيا الأخلاق الرأسمالية والدين (Weberian Sociology of Religion & Capitalism)
+- [x] `sch-weberian-rationalization-bureaucracy` — سوسيولوجيا العقلنة والبيروقراطية (Sociology of Rationalization & Bureaucracy)
+- [x] `sch-weberian-religion-capitalism` — سوسيولوجيا الأخلاق الرأسمالية والدين (Weberian Sociology of Religion & Capitalism)
 - [~] `sch-simmelian-formal-sociology` — السوسيولوجيا الصورية والشبكات الدقيقة (Simmelian Formal Sociology)
-- [ ] `sch-simmelian-money-metropolis` — سوسيولوجيا الثقافة الحضرية والمالية (Simmelian Sociology of Money & Metropolis)
+- [x] `sch-simmelian-money-metropolis` — سوسيولوجيا الثقافة الحضرية والمالية (Simmelian Sociology of Money & Metropolis)
 - [x] `sch-sumnerian-evolutionary-sociology` — الداروينية الاجتماعية والأعراف المجتمعية (Sumnerian Evolutionary Sociology)
 - [x] `sch-classical-elite-theory` — نظرية النخبة السوسيولوجية الكلاسيكية (Classical Elite Theory: Pareto, Mosca, Michels)
 - [~] `sch-martineau-feminist-sociology` — التأسيس النسوي والمنهجي المبكر (Martineau's Foundational Feminist Sociology) — لا `con-`/`wrk-` مستقل بعد
@@ -389,10 +415,10 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 - [x] `sch-analytical-sociology` — السوسيولوجيا التحليلية ونظرية الآليات الاجتماعية (Analytical Sociology: Elster & Hedström)
 - [x] `sch-network-exchange-theory` — نظرية التبادل الشبكي وعلاقات القوة-التبعية (Network Exchange Theory: Willer & Cook)
 - [x] `sch-new-institutionalism-organizational` — المؤسسية الجديدة في سوسيولوجيا التنظيمات (New Institutionalism in Organizational Sociology: DiMaggio & Powell)
-- [ ] `sch-social-capital-civic` — سوسيولوجيا رأس المال الاجتماعي والشبكات المدنية (Putnam's Social Capital Theory)
+- [x] `sch-social-capital-civic` — سوسيولوجيا رأس المال الاجتماعي والشبكات المدنية (Putnam's Social Capital Theory)
 - [x] `sch-complex-organizations-gouldner-blau` — سوسيولوجيا التنظيمات والخلل البيروقراطي (Sociology of Complex Organizations: Gouldner & Blau)
 - [x] `sch-social-network-analysis-paradigm` — سوسيولوجيا الشبكات الاجتماعية وتحليل البنى (Social Network Analysis Paradigm: Wellman & Granovetter)
-- [ ] `sch-cumulative-advantage-theory` — سوسيولوجيا المكانة والتمايز الطبقي التراكمي (Cumulative Advantage Theory / Matthew Effect)
+- [x] `sch-cumulative-advantage-theory` — سوسيولوجيا المكانة والتمايز الطبقي التراكمي (Cumulative Advantage Theory / Matthew Effect)
 
 ## 4. نظرية الصراع، مدرسة فرانكفورت والماركسية النقدية (Conflict Theory & Critical Sociology)
 
