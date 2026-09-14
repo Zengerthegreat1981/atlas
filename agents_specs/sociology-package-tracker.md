@@ -439,6 +439,35 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 عقد `part: "sociology"` الآن نحو 456+. **أوّل بند للجولة التالية:** تعميق القسم 3 (19 مدرسة) بنفس
 المنهج، بدءاً من `sch-parsonian-action-frame`.
 
+**جولة التعميق الخامسة (2026-09-14) — إكمال القسم 3 بعمقٍ كامل:** أُضيف عنصر تعميق واحد على
+الأقل لكل مدرسة:
+- `sch-parsonian-action-frame` + `dbt-parsons-mills-consensus-vs-conflict`
+- `sch-parsonian-structural-functionalism-agil` + `wrk-social-system-parsons`
+- `sch-parsonian-pattern-variables` + `dbt-modernization-theory-vs-dependency-theory`
+- `sch-neofunctionalism` + `con-strong-program-cultural-sociology-alexander`
+- `sch-mertonian-middle-range` + `wrk-social-theory-social-structure-merton`
+- `sch-mertons-strain-theory` و`sch-durkheimian-structural-functionalism` +
+  `dbt-durkheim-merton-anomie-reformulation` (رُبط من الطرفين)
+- `sch-reference-group-relative-deprivation` + `wrk-american-soldier-stouffer`
+- `sch-mertonian-sociology-of-science` + `dbt-merton-kuhn-sociology-of-science`
+- `sch-luhmannian-autopoietic-systems` + `dbt-luhmann-habermas-systems-lifeworld`
+
+**⚠️ اكتشاف واسترجاع مهم:** عند تعميق `sch-luhmannian-autopoietic-systems`، وُجد أن روابط
+`thk-luhmann` و`con-autopoiesis-social-systems-luhmann` (أُضيفتا في الدفعة 40) قد **اختفتا**
+من الملف — سببها أن تمريرة تصحيح معجم `sociological_tradition` الجماعية (`bc44c3ab`) عملت على
+نسخة قديمة من الملف سبقت إضافتهما، فاستبدلت الملف كاملاً بدل تعديل حقل واحد. **أُعيد الرابطان
+فوراً.** هذا يعني أن أي تمريرة تعديل جماعي عبر نصوص كثيرة (كتصحيح معجم) قد تُسبِّب انحداراً صامتاً
+مشابهاً إن عملت من فرع/نسخة قديمة من الشجرة أثناء تعديلات متزامنة من جلسات أخرى؛ **تحقّقتُ عينياً
+من جميع مدارس الأقسام 1-3 التي مسّتها الدفعات 9-49 من هذه الجلسة (36 مدرسة) بعدّ عناصر `related`
+مقابل ما هو متوقع، ولم يظهر انحدارٌ مماثل في أي ملف آخر غير هذا الواحد.**
+
+**بهذا تكتمل الأقسام 1-3 بعمقٍ حقيقي بالكامل تقريباً** (58 من 59 مدرسة فيها عنصر تعميق واحد على
+الأقل إضافةً للحد الأدنى الأصلي؛ الاستثناء الوحيد المتبقي المسجَّل بوعي: `sch-social-capital-civic`
+و`sch-coleman-rational-choice-sociology` يحملان عنصرين فقط (كافيان) دون عنصر تعميق ثالث إضافي —
+مقبول ضمن معيار «عنصر واحد إضافي على الأقل»). الفحوص الثلاثة صفر على نطاق كل ملفات هذه الجولة.
+عقد `part: "sociology"` الآن نحو **477**. **أوّل بند للجولة التالية:** انتظار توجيه المنسِّق —
+الأقسام 1-3 مكتملة بعمق، والقسم 4 يبقى بيد الجلسة الموازية.
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
