@@ -17,8 +17,10 @@ active_end: 1853
 edges: []
 related:
 - id: "thk-martineau", title: "هارييت مارتينو", type: "مفكر"
+- id: "wrk-how-to-observe-morals-manners-martineau", title: "كيف نلاحظ الأخلاق والأعراف", type: "عمل / كتاب"
 gaps:
   - "**سُدَّ 2026-09-14 (مرحلة الحزم، دفعة 9):** كُتب `thk-martineau` وأُسند إلى هذا الملف بـ`belongs_to`."
+  - "**تعميقٌ 2026-09-14:** كُتب `wrk-how-to-observe-morals-manners-martineau` وأُضيف رابطه هنا، فسدّت آخر فجوة `con-`/`wrk-` جزئية في القسم 1."
 ---
 
 # التأسيس النسوي والمنهجي المبكر
