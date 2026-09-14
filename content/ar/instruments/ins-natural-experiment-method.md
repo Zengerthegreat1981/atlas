@@ -17,6 +17,7 @@ edges:
 related:
 - id: "ins-event-history-analysis", title: "تحليل تاريخ الأحداث (Event History Analysis)", type: "منهج/أداة بحث"
 - id: "ins-hierarchical-linear-modeling", title: "النمذجة الخطية الهرمية (Hierarchical Linear Modeling)", type: "منهج/أداة بحث"
+- id: "ins-audit-field-experiment-discrimination", title: "تجربة التدقيق الميدانية لكشف التمييز (Audit Field Experiment)", type: "منهج/أداة بحث"
 gaps:
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بسدّ فجوة نوع `ins-`. الإسناد إلى `sch-sociology-of-education-cultural-capital` تقريبي بحكم كثرة تطبيق المنهج في دراسات أثر السياسات التعليمية؛ لا مدرسة منهجية عامة أشمل معتمدة."
 ---
