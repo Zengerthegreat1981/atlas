@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-cultural-materialism", title: "المادّيةُ الثقافية (Cultural Materialism)", type: "مدرسة"
 - id: "thk-julian-steward", title: "جوليان ستيوارد (Julian Steward)", type: "مفكر"
+- id: "con-sacred-cow-india-harris", title: "تقديسُ البقرة في الهند (The Sacred Cow)", type: "مفهوم"
 gaps: []
 ---
 # مارفن هاريس (Marvin Harris)
