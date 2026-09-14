@@ -18,7 +18,9 @@ edges:
 - rel: "belongs_to", target: "sch-booth-rowntree-social-survey", target_type: "مدرسة"
 related:
 - id: "thk-rowntree", title: "سيبوم راونتري", type: "مفكر"
+- id: "wrk-life-and-labour-people-london-booth", title: "حياة الناس وعملهم في لندن", type: "عمل / كتاب"
 gaps:
+  - "**سُدَّت الفجوة 2026-09-15:** كُتب `wrk-life-and-labour-people-london-booth` وأُضيف رابطه هنا (ملخصٌ عامٌّ للعمل الضخم لا جردٌ تفصيليٌّ لكل مجلد)."
   - "هذا الملف أُنشئ في الدفعة 12 (مرحلة الحزم). لا ملف `wrk-` مستقل بعد يوثّق *حياة الناس وعملهم في لندن* (17 مجلداً، 1889-1903) تفصيلياً — عمل ضخم متعدد الأجزاء يصعب تلخيصه في ملف واحد دون تسطيح."
 ---
 

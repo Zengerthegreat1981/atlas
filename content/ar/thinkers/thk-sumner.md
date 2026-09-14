@@ -18,7 +18,9 @@ edges:
 - rel: "belongs_to", target: "sch-sumnerian-evolutionary-sociology", target_type: "مدرسة"
 related:
 - id: "con-folkways-mores-sumner", title: "الأعراف الجمعية والأعراف الأخلاقية (Folkways & Mores)", type: "مفهوم"
+- id: "wrk-folkways-sumner", title: "الأعراف الجمعية", type: "عمل / كتاب"
 gaps:
+  - "**سُدَّت الفجوة 2026-09-15:** كُتب `wrk-folkways-sumner` وأُضيف رابطه هنا."
   - "هذا الملف أُنشئ في الدفعة 9 (مرحلة الحزم). لا عمل `wrk-` مستقل بعد يوثّق *Folkways* (1907) تفصيلياً كعمل كامل."
   - "**سُدَّ 2026-09-14 (الدفعة 11):** كُتب `con-folkways-mores-sumner` (يشمل «Folkways» و«Mores» و«Ethnocentrism» معاً) وأُضيف رابطه هنا."
 ---
