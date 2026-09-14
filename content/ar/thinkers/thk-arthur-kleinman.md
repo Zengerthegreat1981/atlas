@@ -16,6 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-kleinman-explanatory-models", target_type: "مدرسة"
 related:
 - id: "sch-kleinman-explanatory-models", title: "النماذجُ التفسيريةُ للمرض (Kleinman's Explanatory Models & Illness Narratives)", type: "مدرسة"
+- id: "con-illness-disease-sickness-kleinman", title: "المرضُ والاعتلالُ والسُّقم (Disease, Illness, Sickness)", type: "مفهوم"
 gaps: []
 ---
 # آرثر كلاينمان (Arthur Kleinman)

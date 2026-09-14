@@ -16,6 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-multispecies-ethnography", target_type: "مدرسة"
 related:
 - id: "sch-multispecies-ethnography", title: "الأنثروبولوجيا متعدّدةُ الأنواع (Multispecies Ethnography — Haraway, Tsing, Kohn)", type: "مدرسة"
+- id: "wrk-mushroom-end-world-tsing", title: "فطرُ نهاية العالم (The Mushroom at the End of the World)", type: "عمل / كتاب"
 gaps:
   - "دونا هاراوي فيلسوفةُ علمٍ وتقنية لا أنثروبولوجية ميدانية بالمعنى الصارم؛ لم يُنشأ لها ملفٌّ مستقلٌّ هنا لعدم توفّر عملٍ ميدانيّ يبرِّر تصنيفَها ضمن هذا القسم تحديداً — ذُكرت نصّاً فقط كمؤثِّرةٍ نظرياً في هذا الحقل."
 ---

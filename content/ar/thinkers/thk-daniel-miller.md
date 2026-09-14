@@ -16,6 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-digital-anthropology", target_type: "مدرسة"
 related:
 - id: "sch-digital-anthropology", title: "الأنثروبولوجيا الرقمية والإثنوغرافيا الشبكية (Digital Anthropology — Miller, Boellstorff)", type: "مدرسة"
+- id: "stu-why-we-post-miller", title: "لماذا ننشر؟ (Why We Post)", type: "دراسة وبحث"
 gaps:
   - "توم بولستورف (Coming of Age in Second Life) لم يُكتب بعد كملفٍّ مستقلّ؛ ذُكر نصّاً في ملفّ المدرسة فقط."
 ---
