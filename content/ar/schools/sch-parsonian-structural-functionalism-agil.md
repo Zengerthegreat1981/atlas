@@ -19,7 +19,9 @@ edges:
 related:
 - id: "thk-parsons", title: "تالكوت بارسونز", type: "مفكر"
 - id: "con-agil-scheme-parsons", title: "نموذج AGIL للمتطلبات الوظيفية عند بارسونز", type: "مفهوم"
+- id: "wrk-social-system-parsons", title: "النسق الاجتماعي", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-14:** أُضيف `wrk-social-system-parsons` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3)، ويكمل `sch-parsonian-action-frame` المنشأ في الدفعة نفسها."
   - "**سُدَّ 2026-09-14 (الدفعة 34):** كُتب `con-agil-scheme-parsons` (يفصّل نموذج AGIL) وأُضيف رابطه هنا مع رابط `thk-parsons`."
 ---
