@@ -16,6 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-chicago-urban-ecology", target_type: "مدرسة"
 related:
 - id: "con-culture-as-toolkit-swidler", title: "الثقافة كأدوات (Culture as Toolkit)", type: "مفهوم"
+- id: "ins-snowball-sampling-method", title: "أخذ العينات بطريقة كرة الثلج (Snowball Sampling)", type: "منهج/أداة بحث"
 gaps:
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بسدّ فجوة كاملة في نوع `ins-` ضمن قسم علم الاجتماع. لا مفكرٍ واحد «مؤسس» موثَّق تاريخياً لهذه التقنية العامة؛ الإسناد إلى مدرسة شيكاغو تقريبي بحكم ريادتها التاريخية المبكرة في استخدام المقابلة الحياتية المعمَّقة (توماس وزنانيكي، شو)."
 ---
