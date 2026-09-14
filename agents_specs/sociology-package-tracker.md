@@ -183,6 +183,11 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 (موجودة سلفاً) وأُضيف رابطه فيها. الفحوص الثلاثة صفر على نطاق ملفات هذه الدفعة (الشجرة الكاملة
 تحمل 5 عزلات في ملفات غير مُلتزمة لوكيل آخر). **أوّل بند للدفعة التالية:** `sch-grounded-theory-school`.
 
+**الدفعة 30 (2026-09-14):** كُتب `thk-glaser`، `thk-anselm-strauss`، و`con-grounded-theory-method`،
+وأُسندت إلى `sch-grounded-theory-school` (موجودة سلفاً) وأُضيفت روابطها فيها. الفحوص الثلاثة صفر
+على نطاق ملفات هذه الدفعة (الشجرة الكاملة تحمل انزياح id واحداً في `sch-cultural-materialism`،
+ملف غير مُلتزم لوكيل آخر). **أوّل بند للدفعة التالية:** `sch-drake-cayton-black-metropolis`.
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
@@ -226,7 +231,7 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 - [x] `sch-hochschild-emotional-labor` — سوسيولوجيا الانفعالات والعمل العاطفي (Hochschild's Sociology of Emotions & Emotional Labor)
 - [x] `sch-hochschild-care-work` — سوسيولوجيا سلاسل الرعاية العالمية والوردية الثانية (Hochschild's Care Work Sociology)
 - [x] `sch-goffmanian-interaction-rituals` — طقوس التفاعل اليومي وحفظ ماء الوجه (Goffmanian Interaction Rituals & Face-Work)
-- [ ] `sch-grounded-theory-school` — مدرسة النظرية المجذرة السوسيولوجية (Grounded Theory School: Glaser & Strauss)
+- [x] `sch-grounded-theory-school` — مدرسة النظرية المجذرة السوسيولوجية (Grounded Theory School: Glaser & Strauss)
 - [ ] `sch-drake-cayton-black-metropolis` — دراسات المتروبوليس الأسود والتفاوت العرقي (Drake & Cayton's Black Metropolis School)
 - [ ] `sch-stryker-burke-structural-interactionism` — التفاعلية الرمزية البنائية ونظرية الهوية (Stryker & Burke's Structural Interactionism)
 
