@@ -80,9 +80,9 @@
 ## 9. الأنثروبولوجيا الطبّية والنفسية (Medical & Psychological)
 
 - [ ] الأنثروبولوجيا الطبّية النقدية (Critical Medical Anthropology)
-- [ ] النماذجُ التفسيريةُ للمرض (Kleinman's Explanatory Models & Illness Narratives)
+- [x] النماذجُ التفسيريةُ للمرض (Kleinman's Explanatory Models & Illness Narratives) — `sch-medical-anthropology` (جذع) + `sch-kleinman-explanatory-models`، `thk-arthur-kleinman`
 - [ ] العنفُ البنيويُّ والصحّة (Structural Violence — Farmer, Scheper-Hughes)
-- [ ] الإثنوبسيكياتري ومتلازماتُ الثقافة (Ethnopsychiatry & Culture-Bound Syndromes)
+- [x] الإثنوبسيكياتري ومتلازماتُ الثقافة (Ethnopsychiatry & Culture-Bound Syndromes) — `sch-ethnopsychiatry-culture-bound-syndromes`، `thk-georges-devereux` — **ربطُ متلازمات الثقافة الثماني (أموك، سوستو، كورو، لاتها، بيبلوكتوك، مرض الأشباح، تايجين كيوفوشو، الأحفاء) بمرساها الأنثروبولوجي محقَّقٌ من جهة الأنثروبولوجيا**
 - [ ] أنثروبولوجيا الشفاء والشامانية (Anthropology of Healing & Shamanism)
 - [ ] الأنثروبولوجيا النفسية وتعلّمُ الثقافة (Psychological Anthropology — Whiting, Shweder, Luhrmann)
 
