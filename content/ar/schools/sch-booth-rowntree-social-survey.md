@@ -19,9 +19,11 @@ related:
 - id: "thk-booth", title: "تشارلز بوث", type: "مفكر"
 - id: "thk-rowntree", title: "سيبوم راونتري", type: "مفكر"
 - id: "con-poverty-line-rowntree", title: "خط الفقر الأولي والثانوي عند راونتري", type: "مفهوم"
+- id: "stu-rowntree-poverty-study-york", title: "دراسة راونتري للفقر في مدينة يورك", type: "دراسة وبحث"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 1 من مهمة بناء قسم علم الاجتماع (القسم 1)."
   - "**سُدَّ 2026-09-14 (الدفعة 12):** كُتب `thk-booth` و`thk-rowntree` و`con-poverty-line-rowntree` وأُضيفت روابطها هنا."
+  - "**تعميقٌ 2026-09-14:** أُضيف `stu-rowntree-poverty-study-york` (أول ملف `stu-` في حزمة هذه المدرسة) وربطه هنا."
 ---
 
 # حركة المسوح الاجتماعية والفقر البريطانية
