@@ -60,10 +60,10 @@
 
 ## 5. اللسانياتُ المعرفية (Cognitive Linguistics)
 
-- [ ] اللسانياتُ المعرفيةُ ونحوُ لانغاكر (Cognitive Grammar)
-- [ ] نظريةُ الاستعارة المفهومية (Lakoff & Johnson — *Metaphors We Live By*)
+- [x] اللسانياتُ المعرفيةُ ونحوُ لانغاكر (Cognitive Grammar) — `sch-cognitive-linguistics`، `thk-ronald-langacker` (الدفعة 8).
+- [x] نظريةُ الاستعارة المفهومية (Lakoff & Johnson — *Metaphors We Live By*) — `con-conceptual-metaphor-theory` (الدفعة 8). لاكوف (psychology) رُبط ولم يُكرَّر؛ مارك جونسون لم يُفرَد بعد.
 - [ ] فضاءاتُ الذهن والمزجُ المفهوميّ (Fauconnier & Turner)
-- [ ] النظريةُ النموذجيةُ والتصنيف (Prototype Theory — Rosch, Berlin & Kay)
+- [~] النظريةُ النموذجيةُ والتصنيف (Prototype Theory — Rosch, Berlin & Kay) — `con-prototype-theory-linguistics` (الدفعة 8). روش (psychology) رُبطت ولم تُكرَّر. يتبقّى: بيرلين وكاي (تصنيف الألوان).
 - [ ] النسبيةُ اللغويةُ وفرضيةُ سابير-وورف (وجدلُها المعاصر: Boroditsky، Levinson)
 
 ## 6. اللغةُ في المجتمع (Sociolinguistics & Anthropology of Language)
