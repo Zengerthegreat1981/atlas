@@ -19,6 +19,7 @@ related:
 - id: "sch-honneth-fraser-recognition-redistribution", title: "سوسيولوجيا الاعتراف والعدالة التوزيعية", type: "مدرسة"
 - id: "thk-nancy-fraser", title: "نانسي فريزر", type: "مفكر"
 - id: "con-crisis-of-care-fraser", title: "أزمة الرعاية والتناقض الاجتماعي-الإنجابي (Crisis of Care)", type: "مفهوم"
+- id: "wrk-contradictions-capital-care-fraser", title: "تناقضات رأس المال والرعاية (Contradictions of Capital and Care)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7). المرتبط بنفس المفكرة نانسي فريزر التي ظهرت في `sch-honneth-fraser-recognition-redistribution` (الدفعة 4) لكن بموضوع مختلف تماماً (إعادة الإنتاج الاجتماعي/الرعاية لا الاعتراف)؛ الملفان مرتبطان عبر `related` لأنهما موضوعان متمايزان للمفكرة نفسها."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-nancy-fraser`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."

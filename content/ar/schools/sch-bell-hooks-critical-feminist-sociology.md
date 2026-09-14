@@ -18,6 +18,7 @@ edges: []
 related:
 - id: "thk-bhooks", title: "بيل هوكس", type: "مفكر"
 - id: "con-imperialist-white-supremacist-patriarchy-hooks", title: "النظام الأبوي الرأسمالي الإمبريالي الأبيض السائد (Imperialist White Supremacist Capitalist Patriarchy)", type: "مفهوم"
+- id: "wrk-aint-i-a-woman-hooks", title: "لست أنا امرأة؟ (Ain't I a Woman)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7). ملف `thk-bhooks` القائم (اسمها الحقيقي غلوريا جين واتكينز) موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً."
 ---

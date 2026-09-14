@@ -18,6 +18,7 @@ edges: []
 related:
 - id: "thk-ann-oakley", title: "آن أوكلي", type: "مفكر"
 - id: "con-sociology-of-housework-oakley", title: "سوسيولوجيا العمل المنزلي غير المرئي (Sociology of Housework)", type: "مفهوم"
+- id: "wrk-sociology-of-housework-oakley", title: "سوسيولوجيا العمل المنزلي (The Sociology of Housework)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7)."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-ann-oakley`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
