@@ -310,6 +310,11 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 **أوّل بند للدفعة التالية:** `sch-complex-organizations-gouldner-blau` ثم بقية القسم 3، ثم إكمال
 القسم 4 من `sch-latin-american-dependency-theory`.
 
+**الدفعة 48 (2026-09-14):** كُتب `thk-gouldner` و`con-mock-representative-bureaucracy-gouldner`،
+وأُسندا إلى `sch-complex-organizations-gouldner-blau` (موجودة سلفاً) وأُضيفت روابطهما فيها، مع
+رابط لـ`thk-peter-blau`. الفحوص الثلاثة صفر. **أوّل بند للدفعة التالية:**
+`sch-social-network-analysis-paradigm` (آخر بند متبقٍّ في القسم 3).
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
@@ -376,7 +381,7 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 - [x] `sch-network-exchange-theory` — نظرية التبادل الشبكي وعلاقات القوة-التبعية (Network Exchange Theory: Willer & Cook)
 - [x] `sch-new-institutionalism-organizational` — المؤسسية الجديدة في سوسيولوجيا التنظيمات (New Institutionalism in Organizational Sociology: DiMaggio & Powell)
 - [ ] `sch-social-capital-civic` — سوسيولوجيا رأس المال الاجتماعي والشبكات المدنية (Putnam's Social Capital Theory)
-- [ ] `sch-complex-organizations-gouldner-blau` — سوسيولوجيا التنظيمات والخلل البيروقراطي (Sociology of Complex Organizations: Gouldner & Blau)
+- [x] `sch-complex-organizations-gouldner-blau` — سوسيولوجيا التنظيمات والخلل البيروقراطي (Sociology of Complex Organizations: Gouldner & Blau)
 - [ ] `sch-social-network-analysis-paradigm` — سوسيولوجيا الشبكات الاجتماعية وتحليل البنى (Social Network Analysis Paradigm: Wellman & Granovetter)
 - [ ] `sch-cumulative-advantage-theory` — سوسيولوجيا المكانة والتمايز الطبقي التراكمي (Cumulative Advantage Theory / Matthew Effect)
 

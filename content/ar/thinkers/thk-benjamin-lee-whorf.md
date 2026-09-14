@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-linguistic-relativity", title: "الأنثروبولوجيا اللسانية وفرضيةُ سابير-وورف (Linguistic Relativity)", type: "مدرسة"
 - id: "thk-edward-sapir", title: "إدوارد سابير (Edward Sapir)", type: "مفكر"
+- id: "wrk-language-thought-reality-whorf", title: "اللغة والفكر والواقع (Language, Thought, and Reality)", type: "عمل / كتاب"
 gaps:
   - "زعمُ وورف الشهير عن «كلمات الإسكيمو للثلج» ومثالُ لغة الهوپي وغياب مفهوم الزمن الخطّي — كلاهما موضعُ نقدٍ لغويٍّ لاحقٍ واسع (جيفري بولوم وآخرون)؛ النقدُ مذكورٌ هنا إجمالاً فقط، ولم يُكتب كملفّ نقدٍ (`crt-`) مستقلّ بعد."
 ---

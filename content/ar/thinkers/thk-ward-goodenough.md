@@ -16,6 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-cognitive-anthropology", target_type: "مدرسة"
 related:
 - id: "sch-cognitive-anthropology", title: "الأنثروبولوجيا المعرفية والإثنوعلوم (Cognitive Anthropology & Ethnoscience)", type: "مدرسة"
+- id: "con-componential-analysis", title: "التحليلُ المكوّنيّ (Componential Analysis)", type: "مفهوم"
 gaps: []
 ---
 # وارد غودإنف (Ward Goodenough)

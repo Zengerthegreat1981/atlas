@@ -16,6 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-manchester-school", target_type: "مدرسة"
 related:
 - id: "sch-manchester-school", title: "مدرسةُ مانشستر وتحليلُ الموقف (Manchester School)", type: "مدرسة"
+- id: "con-extended-case-method-gluckman", title: "منهجُ الحالة الممتدّة (Extended Case Method)", type: "مفهوم"
 gaps: []
 ---
 # ماكس غلوكمان (Max Gluckman)
