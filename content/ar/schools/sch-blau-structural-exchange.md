@@ -16,9 +16,12 @@ active_start: 1964
 active_end: 1977
 edges:
 - rel: "belongs_to", target: "sch-homans-behavioral-exchange", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-peter-blau", title: "بيتر بلاو", type: "مفكر"
+- id: "con-power-imbalance-exchange-blau", title: "السلطة وعدم التكافؤ في التبادل عند بلاو", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3)، ويكمل `sch-homans-behavioral-exchange` المنشأ في الدفعة نفسها. لا يوجد بعد ملف مستقل لبيتر بلاو (`thk-blau`)."
+  - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3)، ويكمل `sch-homans-behavioral-exchange` المنشأ في الدفعة نفسها."
+  - "**سُدَّ 2026-09-14 (الدفعة 43):** كُتب `thk-peter-blau` و`con-power-imbalance-exchange-blau` وأُضيفت روابطهما هنا."
 ---
 
 # نظرية التبادل البنائي والتفاوت الطبقي
