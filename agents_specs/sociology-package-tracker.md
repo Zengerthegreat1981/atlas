@@ -412,6 +412,33 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 **أوّل بند للجولة التالية:** إكمال تعميق بقية القسم 2 (كل مدرسة تحتاج على الأقل عنصراً واحداً
 إضافياً: `wrk-`/`con-`/`dbt-`/`stu-`) ثم القسم 3 بالمنهج نفسه.
 
+**جولة التعميق الرابعة (2026-09-14) — إكمال القسم 2 بعمقٍ كامل (20/20):** أُضيف عنصر تعميق واحد
+على الأقل لكل مدرسة متبقية:
+- `sch-chicago-urban-ecology` + `wrk-the-city-park-burgess`
+- `sch-wirthian-urbanism-ghetto` + `dbt-wirth-gans-urban-village` (تصحيح تجريبي شهير لأطروحة ورث)
+- `sch-cooley-looking-glass-self` و`sch-mead-social-behaviorism` + `dbt-cooley-mead-self-formation`
+  (رُبط من الطرفين)
+- `sch-whyte-participant-observation` + `dbt-whyte-boelen-cornerville-controversy`
+- `sch-blumerian-symbolic-interactionism` + `wrk-symbolic-interactionism-blumer` و
+  `dbt-blumer-stryker-processual-structural-interactionism` (رُبط من الطرفين مع `sch-stryker-burke...`)
+- كل مدارس غوفمان الخمس عُمِّقت: `sch-goffman-dramaturgical` +
+  `wrk-presentation-of-self-goffman`؛ `sch-goffman-total-institutions` +
+  `dbt-goffman-foucault-institutional-power`؛ `sch-goffman-stigma` + `wrk-stigma-goffman`؛
+  `sch-goffman-frame-analysis` + `wrk-frame-analysis-goffman`؛
+  `sch-goffmanian-interaction-rituals` + `wrk-interaction-ritual-goffman`
+- `sch-becker-labeling-theory` + `wrk-outsiders-becker`
+- `sch-lemert-primary-secondary-deviance` + `wrk-social-pathology-lemert`
+- `sch-sutherland-differential-association` + `dbt-sutherland-differential-vs-positivist-criminology`
+- `sch-hochschild-emotional-labor` + `wrk-managed-heart-hochschild`
+- `sch-hochschild-care-work` + `wrk-second-shift-hochschild`
+- `sch-drake-cayton-black-metropolis` + `wrk-black-metropolis-drake-cayton`
+- `sch-stryker-burke-structural-interactionism` (رُبط أعلاه مع بلومر)
+
+**تصادم id واحد حُلَّ فوراً:** `wrk-interaction-ritual-goffman` من `WRK-2400` إلى `WRK-2450`.
+الفحوص الثلاثة صفر على نطاق كل ملفات هذه الجولة. **بهذا يكتمل القسم 2 بعمقٍ حقيقي كامل (20/20).**
+عقد `part: "sociology"` الآن نحو 456+. **أوّل بند للجولة التالية:** تعميق القسم 3 (19 مدرسة) بنفس
+المنهج، بدءاً من `sch-parsonian-action-frame`.
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
