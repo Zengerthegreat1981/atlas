@@ -15,7 +15,9 @@ edges:
 related:
 - id: "thk-c-wright-mills", title: "سي. رايت ميلز", type: "مفكر"
 - id: "con-power-elite-mills", title: "نخبة القوة والتشابك المؤسسي (The Power Elite)", type: "مفهوم"
+- id: "thk-robert-dahl", title: "روبرت دال", type: "مفكر"
 gaps:
+  - "**سُدَّت الفجوة 2026-09-15:** كُتب `thk-robert-dahl` وأُضيف رابطه هنا."
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بتعميق حزم القسم 4. لا ملف مستقل بعد لروبرت دال في قسم علم الاجتماع؛ ذُكر بالاسم دون `related` مباشر إليه."
 ---
 

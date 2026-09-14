@@ -15,7 +15,9 @@ edges:
 related:
 - id: "thk-laclau", title: "إرنستو لاكلاو", type: "مفكر"
 - id: "con-radical-democracy-articulation-laclau-mouffe", title: "التفصيل الخطابي والديمقراطية الراديكالية (Articulation & Radical Democracy)", type: "مفهوم"
+- id: "thk-norman-geras", title: "نورمان جيراس", type: "مفكر"
 gaps:
+  - "**سُدَّت الفجوة 2026-09-15:** كُتب `thk-norman-geras` وأُضيف رابطه هنا."
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بتعميق حزم القسم 4. لا ملف مستقل بعد لنورمان جيراس؛ ذُكر بالاسم دون `related` مباشر إليه."
 ---
 
