@@ -52,8 +52,8 @@
 - [x] فلسفةُ التاريخ التأمّلية (ڤيكو، هيغل، ماركس، توينبي، شبنغلر) — `sch-speculative-philosophy-of-history`
 - [x] الفلسفةُ النقديةُ للتاريخ (دلتاي، كولنغوود، دراي، هِمبل ونموذجُ التغطية) — `sch-critical-philosophy-of-history`
 - [x] مسألةُ الموضوعيةِ والتفسير (كار — *ما التاريخ؟*، إلتون، نوڤيك) — `sch-objectivity-debate-carr-elton-novick`
-- [ ] السببيةُ التاريخيةُ والتاريخُ المضادُّ للواقع (Counterfactual History)
-- [ ] إنكارُ الإبادةِ وحدودُ التمثيل (Friedländer، مسألةُ الهولوكوست في التأريخ)
+- [x] السببيةُ التاريخيةُ والتاريخُ المضادُّ للواقع (Counterfactual History) — `sch-counterfactual-historical-causation`
+- [x] إنكارُ الإبادةِ وحدودُ التمثيل (Friedländer، مسألةُ الهولوكوست في التأريخ) — `sch-genocide-denial-limits-of-representation`
 
 ## 8. المناهجُ والأدوات
 - [ ] نقدُ المصادر الداخليُّ والخارجيّ
