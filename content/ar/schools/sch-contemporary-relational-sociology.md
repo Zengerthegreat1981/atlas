@@ -15,9 +15,12 @@ language: "الإنجليزية"
 active_start: 1997
 active_end: 2013
 edges: []
-related: []
+related:
+- id: "thk-emirbayer", title: "مصطفى إميرباير", type: "مفكر"
+- id: "con-relational-sociology-transactions", title: "العلائقية والمعاملات المتغيرة (Relational Transactions)", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5). لا يوجد بعد ملفات مستقلة لمصطفى إميرباير (`thk-emirbayer`) أو فرانسوا ديبلتو (`thk-depelteau`)؛ `belongs_to` تُرك فارغاً."
+  - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5)."
+  - "**سُدَّ جزئياً 2026-09-14 (دفعة تالية):** أُنشئ `thk-emirbayer`. فرانسوا ديبلتو (`thk-depelteau`) لا يزال بلا ملف مستقل؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً."
 ---
 
 # السوسيولوجيا العلائقية المعاصرة

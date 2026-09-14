@@ -15,9 +15,12 @@ language: "الإنجليزية"
 active_start: 1977
 active_end: 1977
 edges: []
-related: []
+related:
+- id: "thk-jack-douglas", title: "جاك دوغلاس", type: "مفكر"
+- id: "con-existential-sociology-lived-experience", title: "التجربة الوجودية المعيشة (Existential Lived Experience)", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5). لا يوجد بعد ملفات مستقلة لجاك دوغلاس (`thk-jack-douglas`) أو جون جونسون (`thk-john-johnson`)؛ `belongs_to` تُرك فارغاً."
+  - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5)."
+  - "**سُدَّ جزئياً 2026-09-14 (دفعة تالية):** أُنشئ `thk-jack-douglas`. جون جونسون (`thk-john-johnson`) لا يزال بلا ملف مستقل؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً."
   - "تنبيه: ملفات `thk-cdouglas` و`thk-sdouglas` القائمة في المستودع أشخاص آخرون مختلفون تماماً (ليسا جاك دوغلاس عالم الاجتماع)؛ لم تُستخدم خطأً هنا."
 ---
 
