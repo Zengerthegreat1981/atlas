@@ -150,6 +150,14 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 عام ثم `git add` بمسارات محدَّدة لعزلها قبل هذا الالتزام). **أوّل بند للدفعة التالية:**
 `sch-becker-labeling-theory`.
 
+**الدفعة 24 (2026-09-14):** كُتب `con-labeling-theory-becker` وأُسند إلى `sch-becker-labeling-theory`
+(موجودة سلفاً). `thk-howard-becker` كان موجوداً فعلاً (كتبه وكيلٌ آخر في دفعة موازية، مسنداً
+بـ`belongs_to` إلى `sch-visual-sociology-sensory-ethnography` لمساهمته الأقل شهرة في السوسيولوجيا
+البصرية) — رُبط الآن بمساهمته الأشهر (نظرية الوصم) عبر `related` من الجهتين دون ازدواج
+`belongs_to`. الفحوص الثلاثة صفر على نطاق ملفات هذه الدفعة (الشجرة الكاملة تحمل روابط `related`
+معلَّقة غير متعلقة في ملفات ألاتاس/سوبالترن غير مُلتزمة لوكيل آخر). **أوّل بند للدفعة التالية:**
+`sch-lemert-primary-secondary-deviance`.
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
