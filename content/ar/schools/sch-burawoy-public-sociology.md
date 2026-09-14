@@ -18,6 +18,7 @@ edges: []
 related:
 - id: "thk-michael-burawoy", title: "مايكل بوراوي", type: "مفكر"
 - id: "con-public-sociology-burawoy", title: "الأنماط الأربعة لممارسة علم الاجتماع (Public Sociology)", type: "مفهوم"
+- id: "wrk-for-public-sociology-burawoy", title: "من أجل علم اجتماع عام (For Public Sociology)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 6 من مهمة بناء قسم علم الاجتماع (القسم 6)."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-michael-burawoy`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."

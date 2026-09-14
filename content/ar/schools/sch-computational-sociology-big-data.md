@@ -18,6 +18,7 @@ edges: []
 related:
 - id: "thk-duncan-watts", title: "دنكان واتس", type: "مفكر"
 - id: "con-computational-social-science-digital-traces", title: "الآثار الرقمية والعلم الاجتماعي الحوسبي (Digital Traces)", type: "مفهوم"
+- id: "wrk-computational-social-science-lazer-watts", title: "الحياة الاجتماعية والسلوكية الحوسبية (Computational Social Science)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 6 من مهمة بناء قسم علم الاجتماع (القسم 6)، آخر بند فيه."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-duncan-watts`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."

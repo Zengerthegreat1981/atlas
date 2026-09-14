@@ -18,6 +18,7 @@ edges: []
 related:
 - id: "thk-chris-shilling", title: "كريس شيلينغ", type: "مفكر"
 - id: "con-body-project-physical-capital", title: "مشروع الجسد ورأس المال الجسدي (Body Project & Physical Capital)", type: "مفهوم"
+- id: "wrk-body-and-social-theory-shilling", title: "الجسد والنظرية الاجتماعية (The Body and Social Theory)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 6 من مهمة بناء قسم علم الاجتماع (القسم 6)."
   - "**سُدَّ جزئياً 2026-09-14 (دفعة تالية):** أُنشئ `thk-chris-shilling`. براين ترنر (`thk-bryan-turner`) لا يزال بلا ملف مستقل؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً."

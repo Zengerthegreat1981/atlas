@@ -18,6 +18,7 @@ edges: []
 related:
 - id: "thk-james-c-scott", title: "جيمس سي. سكوت", type: "مفكر"
 - id: "con-hidden-transcript-scott", title: "النص الخفي وأسلحة الضعفاء (Hidden Transcript)", type: "مفهوم"
+- id: "wrk-weapons-of-the-weak-scott", title: "أسلحة الضعفاء (Weapons of the Weak)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 6 من مهمة بناء قسم علم الاجتماع (القسم 6)."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-james-c-scott`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها. تنبيه: ملف `thk-scott-peck` القائم شخصٌ مختلفٌ تماماً؛ لم يُستخدم خطأً هنا."
