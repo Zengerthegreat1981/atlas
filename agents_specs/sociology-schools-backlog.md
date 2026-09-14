@@ -4,8 +4,17 @@
 > `sch-social-capital-civic`، `sch-conversation-analysis`) وأُسندت إليها العقدُ الثلاث بـ`belongs_to`.
 > المدارسُ الثلاث الجديدة نفسُها بلا أبٍ بعدُ (لا مدرسةَ أمٍّ سوسيولوجية موجودة في المستودع تصلح
 > هدفاً صحيحاً) — هذا متوقَّعٌ ومُوثَّقٌ في `gaps` كلِّ ملفّ، لا خطأً يُصحَّح بأبٍ ملفَّق.
-> `audit_atlas.py` عاد إلى صفرٍ بعد هذه الدفعة. **الدفعةُ التالية (1):** كتابة 60 مدرسةً كبرى إضافية
-> من الأقسام 1–5 أدناه — ابدأ من أوّل بندٍ غيرِ مؤشَّرٍ بـ`[x]`.
+> `audit_atlas.py` عاد إلى صفرٍ بعد هذه الدفعة.
+>
+> **الدفعةُ 1 (جزء أول، 2026-09-14):** كُتبت 8 مدارس من القسم 1 (كونت، سبنسر، ماركس
+> السوسيولوجي، دوركهايم البنائية الوظيفية وفرعها في الدين، وفيبر الفهمية وفرعاها في
+> العقلنة/البيروقراطية والأخلاق البروتستانتية). كل مدرسة أُمّ بلا `belongs_to` (لا جذر
+> سوسيولوجي عام في المستودع بعد)، وكل مدرسة فرعية أُسندت بـ`belongs_to` الصحيح إلى أمّها
+> ضمن `part: "sociology"` نفسه. `audit_atlas.py` عاد إلى صفرٍ بعد إصلاح مشكلة عزلة (مدارس
+> فرعية بلا إشارة واردة — أُصلحت بإضافة `related` من الأمّ إلى فرعها، علاقة حقيقية لا مختلَقة).
+> **الدفعةُ التالية:** أكمل بقية القسم 1 (بندا Simmel، ثم Sumner، Pareto/Mosca/Michels،
+> Martineau، Du Bois، Veblen، Tönnies، Tarde/Le Bon، Booth/Rowntree) — أوّل بندٍ غيرِ
+> مؤشَّرٍ بـ`[x]` تحت العنوان `## 1.`.
 
 # قائمة المدارس والنظريات السوسيولوجية الشاملة — قائمة انتظار (Backlog) لتغطية علم الاجتماع في أطلس
 
@@ -26,14 +35,14 @@
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
 
 - [ ] علم العمران البشري الخلدوني (Ibn Khaldun's Ilm al-Umran)
-- [ ] الوضعية السوسيولوجية الكلاسيكية (Comtean Positivism)
-- [ ] التطورية الاجتماعية والعضوية (Spencerian Social Evolutionism & Organicism)
-- [ ] المادية التاريخية السوسيولوجية ونظرية الصراع الطبقي (Marxist Classical Sociology)
-- [ ] البنائية الوظيفية الدوركهايمية (Durkheimian Structural Functionalism)
-- [ ] سوسيولوجيا الدين والطقوس الجمعية الدوركهايمية (Durkheimian Sociology of Religion)
-- [ ] السوسيولوجيا الفهمية والتفسيرية الفيبرية (Weberian Interpretive Sociology / Verstehen)
-- [ ] سوسيولوجيا العقلنة والبيروقراطية (Sociology of Rationalization & Bureaucracy)
-- [ ] سوسيولوجيا الأخلاق الرأسمالية والدين (Weberian Sociology of Religion & Capitalism)
+- [x] الوضعية السوسيولوجية الكلاسيكية (Comtean Positivism) — `sch-comtean-positivism` (دفعة 1، 2026-09-14)
+- [x] التطورية الاجتماعية والعضوية (Spencerian Social Evolutionism & Organicism) — `sch-spencerian-evolutionism` (دفعة 1، 2026-09-14)
+- [x] المادية التاريخية السوسيولوجية ونظرية الصراع الطبقي (Marxist Classical Sociology) — `sch-marxist-classical-sociology` (دفعة 1، 2026-09-14)
+- [x] البنائية الوظيفية الدوركهايمية (Durkheimian Structural Functionalism) — `sch-durkheimian-structural-functionalism` (دفعة 1، 2026-09-14)
+- [x] سوسيولوجيا الدين والطقوس الجمعية الدوركهايمية (Durkheimian Sociology of Religion) — `sch-durkheimian-sociology-of-religion` (دفعة 1، 2026-09-14)
+- [x] السوسيولوجيا الفهمية والتفسيرية الفيبرية (Weberian Interpretive Sociology / Verstehen) — `sch-weberian-interpretive-sociology` (دفعة 1، 2026-09-14)
+- [x] سوسيولوجيا العقلنة والبيروقراطية (Sociology of Rationalization & Bureaucracy) — `sch-weberian-rationalization-bureaucracy` (دفعة 1، 2026-09-14)
+- [x] سوسيولوجيا الأخلاق الرأسمالية والدين (Weberian Sociology of Religion & Capitalism) — `sch-weberian-religion-capitalism` (دفعة 1، 2026-09-14)
 - [ ] السوسيولوجيا الصورية والشبكات الدقيقة (Simmelian Formal Sociology)
 - [ ] سوسيولوجيا الثقافة الحضرية والمالية (Simmelian Sociology of Money & Metropolis)
 - [ ] الداروينية الاجتماعية والأعراف المجتمعية (Sumnerian Evolutionary Sociology)
