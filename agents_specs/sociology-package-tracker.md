@@ -273,6 +273,12 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 (build/audit) قدر الإمكان.**
 **أوّل بند للدفعة التالية:** `sch-luhmannian-communication-differentiation`.
 
+**الدفعة 41 (2026-09-14):** كُتب `con-functional-differentiation-luhmann` وأُسند إلى
+`sch-luhmannian-communication-differentiation` (موجودة سلفاً) وأُضيف رابطه فيها مع رابط
+`thk-luhmann`. **تطبيق الدرس الجديد:** التُزم كل ملف فور كتابته (التزامان منفصلان صغيران بدل
+تجميع الدفعة كاملة قبل أول التزام) لتقليل نافذة تعرّض الملفات الجديدة لحذفٍ عرضي. الفحوص الثلاثة
+صفر. **أوّل بند للدفعة التالية:** `sch-homans-behavioral-exchange`.
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
@@ -331,7 +337,7 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 - [x] `sch-mertonian-sociology-of-science` — سوسيولوجيا العلم والمؤسسة الأكاديمية (Mertonian Sociology of Science / CUDOS)
 - [x] `sch-neofunctionalism` — الوظيفية الجديدة والتركيب ما بعد البارسونزي (Neofunctionalism: Alexander & Colomy)
 - [x] `sch-luhmannian-autopoietic-systems` — نظرية الأنساق الاجتماعية الأوتوبويتية (Luhmannian Autopoietic Social Systems Theory)
-- [ ] `sch-luhmannian-communication-differentiation` — سوسيولوجيا التواصل والتمايز النسقي (Luhmannian Sociology of Communication & Differentiation)
+- [x] `sch-luhmannian-communication-differentiation` — سوسيولوجيا التواصل والتمايز النسقي (Luhmannian Sociology of Communication & Differentiation)
 - [ ] `sch-homans-behavioral-exchange` — نظرية التبادل الاجتماعي السلوكية (Homans' Behavioral Social Exchange Theory)
 - [ ] `sch-blau-structural-exchange` — نظرية التبادل البنائي والتفاوت الطبقي (Blau's Structural Exchange Theory)
 - [ ] `sch-coleman-rational-choice-sociology` — سوسيولوجيا الاختيار العقلاني ورأس المال الاجتماعي (Coleman's Rational Choice Sociology)
