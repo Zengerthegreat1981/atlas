@@ -279,6 +279,11 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 تجميع الدفعة كاملة قبل أول التزام) لتقليل نافذة تعرّض الملفات الجديدة لحذفٍ عرضي. الفحوص الثلاثة
 صفر. **أوّل بند للدفعة التالية:** `sch-homans-behavioral-exchange`.
 
+**الدفعة 42 (2026-09-14):** كُتب `thk-homans` و`con-exchange-propositions-homans`، وأُسندا إلى
+`sch-homans-behavioral-exchange` (موجودة سلفاً) وأُضيفت روابطهما فيها. التزامٌ منفصل صغير لكل
+ملف فور كتابته (ثلاثة التزامات) تطبيقاً للدرس المستفاد. الفحوص الثلاثة صفر. **أوّل بند للدفعة
+التالية:** `sch-blau-structural-exchange`.
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
@@ -338,7 +343,7 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 - [x] `sch-neofunctionalism` — الوظيفية الجديدة والتركيب ما بعد البارسونزي (Neofunctionalism: Alexander & Colomy)
 - [x] `sch-luhmannian-autopoietic-systems` — نظرية الأنساق الاجتماعية الأوتوبويتية (Luhmannian Autopoietic Social Systems Theory)
 - [x] `sch-luhmannian-communication-differentiation` — سوسيولوجيا التواصل والتمايز النسقي (Luhmannian Sociology of Communication & Differentiation)
-- [ ] `sch-homans-behavioral-exchange` — نظرية التبادل الاجتماعي السلوكية (Homans' Behavioral Social Exchange Theory)
+- [x] `sch-homans-behavioral-exchange` — نظرية التبادل الاجتماعي السلوكية (Homans' Behavioral Social Exchange Theory)
 - [ ] `sch-blau-structural-exchange` — نظرية التبادل البنائي والتفاوت الطبقي (Blau's Structural Exchange Theory)
 - [ ] `sch-coleman-rational-choice-sociology` — سوسيولوجيا الاختيار العقلاني ورأس المال الاجتماعي (Coleman's Rational Choice Sociology)
 - [ ] `sch-analytical-sociology` — السوسيولوجيا التحليلية ونظرية الآليات الاجتماعية (Analytical Sociology: Elster & Hedström)
