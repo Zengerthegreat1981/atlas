@@ -18,6 +18,7 @@ edges: []
 related:
 - id: "thk-deleuze", title: "جيل دولوز", type: "مفكر"
 - id: "sch-baudrillardian-hyperreality", title: "سوسيولوجيا المحاكاة والمجتمع الاستهلاكي الفائق", type: "مدرسة"
+- id: "con-assemblage-theory-deleuze", title: "نظرية التجميع (Assemblage Theory)", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5). ملف `thk-deleuze` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده. `belongs_to` لهذا الملف نفسه تُرك فارغاً."
 ---

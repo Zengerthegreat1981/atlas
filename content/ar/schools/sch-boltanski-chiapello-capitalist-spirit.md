@@ -16,9 +16,12 @@ active_start: 1999
 active_end: 1999
 edges:
 - rel: "belongs_to", target: "sch-boltanski-thevenot-sociology-of-worth", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-boltanski", title: "لوك بولتانسكي", type: "مفكر"
+- id: "con-orders-of-worth-justification", title: "أنظمة الجدارة والتبرير (Orders of Worth)", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5)، ويكمل `sch-boltanski-thevenot-sociology-of-worth` المنشأ في الدفعة نفسها. لا يوجد بعد ملف مستقل لإيف شيابيلو (`thk-chiapello`)."
+  - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5)، ويكمل `sch-boltanski-thevenot-sociology-of-worth` المنشأ في الدفعة نفسها."
+  - "**سُدَّ جزئياً 2026-09-14 (دفعة تالية):** أُضيف رابط `thk-boltanski` بعد إنشائه. إيف شيابيلو (`thk-chiapello`) لا يزال بلا ملف مستقل."
 ---
 
 # سوسيولوجيا نقد الرأسمالية الشبكية
