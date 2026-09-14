@@ -16,9 +16,11 @@ active_start: 1974
 active_end: 1983
 edges:
 - rel: "belongs_to", target: "sch-goffman-dramaturgical", target_type: "مدرسة"
-related: []
+related:
+- id: "con-frame-analysis-goffman", title: "الإطار والتحويل والتلفيق عند غوفمان", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2)، ويكمل `sch-goffman-dramaturgical` المنشأ في الدفعة نفسها."
+  - "**سُدَّ 2026-09-14 (الدفعة 23):** كُتب `con-frame-analysis-goffman` وأُضيف رابطه هنا."
 ---
 
 # تحليل الأطر والنظام التفاعلي اليومي
