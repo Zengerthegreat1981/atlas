@@ -17,6 +17,8 @@ edges:
 related:
 - id: "sch-geertzian-interpretive-anthropology", title: "الأنثروبولوجيا التأويلية والوصفُ الكثيف (Geertzian Interpretive Anthropology)", type: "مدرسة"
 - id: "thk-marvin-harris", title: "مارفن هاريس (Marvin Harris)", type: "مفكر"
+- id: "con-thick-description-geertz", title: "الوصفُ الكثيف (Thick Description)", type: "مفهوم"
+- id: "wrk-interpretation-of-cultures-geertz", title: "تأويلُ الثقافات (The Interpretation of Cultures)", type: "عمل / كتاب"
 gaps:
   - "تأثّرُ غيرتز بماكس فيبر (فهم المعنى الذاتي، Verstehen) مذكورٌ نصّاً؛ لم يُضَف ضلعُ evolved_from صريح لعدم كتابة سلسلة نسبٍ منهجيةٍ مباشرة بين فيبر وغيرتز في مصدرٍ داخل الأطلس."
 ---
