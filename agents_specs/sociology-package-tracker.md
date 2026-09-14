@@ -152,11 +152,11 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 
 ## 5. الظاهراتية، الإثنوميثودولوجيا، نظرية الممارسة وما بعد البنيوية (Phenomenological, Practice & Post-Structuralist)
 
-- [ ] `sch-schutzian-phenomenological-sociology` — الفينومينولوجيا السوسيولوجية وعالم الحياة المعاش (Schutzian Phenomenological Sociology)
-- [ ] `sch-berger-luckmann-social-construction` — البنائية الاجتماعية للواقع (Berger & Luckmann's Social Constructionism)
-- [ ] `sch-garfinkelian-ethnomethodology` — الإثنوميثودولوجيا والتفكير العملي العادي (Garfinkelian Ethnomethodology)
-- [ ] `sch-conversation-analysis` — تحليل المحادثة والتنظيم التفاعلي الصوري (Conversation Analysis: Sacks & Schegloff)
-- [ ] `sch-bourdieu-practice-habitus` — نظرية الممارسة والهابيتوس (Bourdieu's Theory of Practice & Habitus)
+- [x] `sch-schutzian-phenomenological-sociology` — الفينومينولوجيا السوسيولوجية وعالم الحياة المعاش (Schutzian Phenomenological Sociology)
+- [x] `sch-berger-luckmann-social-construction` — البنائية الاجتماعية للواقع (Berger & Luckmann's Social Constructionism)
+- [x] `sch-garfinkelian-ethnomethodology` — الإثنوميثودولوجيا والتفكير العملي العادي (Garfinkelian Ethnomethodology)
+- [x] `sch-conversation-analysis` — تحليل المحادثة والتنظيم التفاعلي الصوري (Conversation Analysis: Sacks & Schegloff)
+- [x] `sch-bourdieu-practice-habitus` — نظرية الممارسة والهابيتوس (Bourdieu's Theory of Practice & Habitus)
 - [ ] `sch-bourdieu-field-capital` — سوسيولوجيا الحقول وأشكال رأس المال (Bourdieu's Field Theory & Forms of Capital)
 - [ ] `sch-bourdieu-distinction-cultural-reproduction` — سوسيولوجيا التمايز وإعادة الإنتاج الثقافي (Bourdieu's Distinction & Cultural Reproduction)
 - [ ] `sch-foucauldian-disciplinary-power` — سوسيولوجيا السلطة الانضباطية والمراقبة (Foucauldian Disciplinary Power & Surveillance)

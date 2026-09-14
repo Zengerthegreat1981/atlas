@@ -16,9 +16,12 @@ active_start: 1966
 active_end: 1966
 edges:
 - rel: "belongs_to", target: "sch-schutzian-phenomenological-sociology", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-peter-berger", title: "بيتر بيرغر", type: "مفكر"
+- id: "con-social-construction-of-reality", title: "البناء الاجتماعي للواقع (Social Construction of Reality)", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5)، ويكمل `sch-schutzian-phenomenological-sociology` المنشأ في الدفعة نفسها. لا يوجد بعد ملفات مستقلة لبيتر بيرغر (`thk-peter-berger`) أو توماس لوكمان (`thk-thomas-luckmann`)."
+  - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5)، ويكمل `sch-schutzian-phenomenological-sociology` المنشأ في الدفعة نفسها."
+  - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-peter-berger` وأُسند إليه `belongs_to`. توماس لوكمان لا يزال بلا ملف مستقل (`thk-thomas-luckmann`)."
 ---
 
 # البنائية الاجتماعية للواقع

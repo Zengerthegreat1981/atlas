@@ -18,6 +18,7 @@ edges:
 - rel: "belongs_to", target: "sch-garfinkelian-ethnomethodology", target_type: "مدرسة"
 related:
 - id: "thk-hsacks", title: "هارفي ساكس", type: "مفكر"
+- id: "con-turn-taking-conversation-analysis", title: "تنظيم تبادل الأدوار الكلامية (Turn-Taking)", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 0 من مهمة بناء قسم علم الاجتماع، لسدّ يُتم `thk-hsacks` (كان معلَّقاً بلا أب منذ إنشائه). حزمته الكاملة — هارولد غارفينكل، إرفنغ غوفمان، إيمانويل شيغلوف، غيل جيفرسون — لم تُكتب بعد بأسماء مستقلة؛ انظر المهام 5.5–5.7 في `SOCIOLOGY_PART_PLAN.md`."
   - "**سُدَّ 2026-09-14 (الدفعة 5):** أُنشئت `sch-garfinkelian-ethnomethodology` وأُسند إليها `belongs_to` — تحليل المحادثة تفرَّع فعلياً عن إثنوميثودولوجيا غارفينكل، أستاذ ساكس المباشر."
