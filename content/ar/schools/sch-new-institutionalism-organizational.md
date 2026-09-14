@@ -15,9 +15,13 @@ language: "الإنجليزية"
 active_start: 1983
 active_end: 1991
 edges: []
-related: []
+related:
+- id: "thk-dimaggio", title: "بول ديماجيو", type: "مفكر"
+- id: "thk-walter-powell", title: "والتر باول", type: "مفكر"
+- id: "con-institutional-isomorphism-dimaggio-powell", title: "التماثل المؤسسي عند ديماجيو وباول", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3). لا يوجد بعد ملفات مستقلة لبول ديماجيو (`thk-dimaggio`) أو والتر باول (`thk-w-powell`)؛ `belongs_to` تُرك فارغاً."
+  - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3)."
+  - "**سُدَّ 2026-09-14 (الدفعة 47):** كُتب `thk-dimaggio`، `thk-walter-powell`، و`con-institutional-isomorphism-dimaggio-powell` وأُضيفت روابطها هنا."
 ---
 
 # المؤسسية الجديدة في سوسيولوجيا التنظيمات
