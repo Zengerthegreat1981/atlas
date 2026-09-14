@@ -57,10 +57,30 @@
 >   الوردي، شرابي، السعداوي، والعروي مع شريعتي — إضافة إلى `sch-khaldunian-historical-
 >   sociology` فرعاً لـ`sch-khaldunian-ilm-al-umran` (دفعة 1). 6 مفكرين مشتركين مع الفلسفة
 >   (كرنشو، كويخانو، سعيد، فانون، سبيفاك، العروي) رُبطوا عبر `related` فقط.
-> **الدفعةُ التالية (8، الأخيرة):** القسم 8 — الميادين والفروع التخصصية في علم الاجتماع —
-> أوّل بندٍ غيرِ مؤشَّرٍ بـ`[x]` تحت العنوان `## 8.`. بعد إكماله تكتمل قائمة المدارس بأكملها
-> (159/159)، وتبدأ المرحلة التالية من `SOCIOLOGY_MISSION_PROMPT.md`: حزم المفكرين/المفاهيم/
-> الأعمال لكل مدرسة، ثم جسور `part: "bridge"` إلى الفلسفة وعلم النفس.
+> - **الدفعة 8 (2026-09-14، الأخيرة):** القسم 8 مكتملٌ بالكامل (20/20) — سوسيولوجيا المعرفة
+>   والعلوم (مانهايم وبلور)، الثقافة وأنماط الحياة (سويدلر وبيترسون)، الدين والعلمانية (بيرغر
+>   وكازانوفا)، الانحراف والجريمة (هيرشي وكوهين)، الطب والصحة (بارسونز وفريدسون)، الحضرية
+>   وتخطيط المدن (جين جاكوبس)، الريفية (غالبين ونيوبي)، البيئية والاستدامة (كاتون ودنلاب، مكمِّلة
+>   لصدع فوستر الأيضي من الدفعة 6)، الاقتصادية والتجذر (بولاني وغرانوفيتر)، العمل والمهن
+>   (هيوز)، السياسية والمواطنة (مارشال)، التربية ورأس المال الثقافي (برنشتاين، مكمِّلة لتمايز
+>   بورديو من الدفعة 5)، الأسرة والحميمية (بارسونز/بيلز وغيدنز)، الهجرة والشتات (بورتيس
+>   وسافران)، الشيخوخة ودورة الحياة (كامنغ وإلدر)، الشباب والثقافات الفرعية (هبديج)، الفن
+>   والأدب (بيكر)، القانون والضبط (دونالد بلاك)، الحركات الاجتماعية (ماك آدم، مكمِّلة لتيلي
+>   وتارو من الدفعة 4)، والعسكرية (يانوفيتز، آخر بند في القائمة بأكملها).
+>
+> **🎉 قائمة مدارس علم الاجتماع مكتملةٌ بالكامل: 159/159 (100%).** جميع الأقسام الثمانية
+> منجزة. لا بندَ واحداً متبقياً غير مؤشَّرٍ بـ`[x]` في هذا الملف.
+>
+> **المرحلةُ التالية (خارج نطاق هذا الملف):** حسب `SOCIOLOGY_MISSION_PROMPT.md` القسم 4،
+> الدفعات القادمة تنتقل من «الهيكل» (مدارس) إلى «الحزم» — لكل مدرسة من الـ159: مفكروها
+> (`thk-`)، مفاهيمها (`con-`)، أعمالها (`wrk-`)، دراساتها (`stu-`)، جدالاتها (`dbt-`) وغيرها،
+> وصولاً إلى الهدف الكلي 1,200–1,500 عقدة حيّة (الرصيد الحالي بعد هذه الدفعة: نحو 160 عقدة
+> سوسيولوجية — 159 مدرسة + 3 مفكرين قدامى مُسنَدين إليها، بعيداً كثيراً عن الهدف). ثم الدفعة
+> الأخيرة: جسور `part: "bridge"` إلى الفلسفة وعلم النفس (ماركس/الاغتراب، دوركهايم/الأنومي
+> والانتحار، غوفمان/الوصمة والمؤسسات الشاملة، بورديو/الهابيتوس، فوكو المشترك). هذا الملف
+> (`sociology-schools-backlog.md`) لم يعد «موضع التوقف» الأساسي لتتبع التقدّم بعد اكتماله؛
+> الوكيل التالي يحتاج تتبعاً جديداً على مستوى المفكرين/المفاهيم لكل مدرسة (راجع
+> `SOCIOLOGY_PART_PLAN.md` و`agents_specs/decision-records.md` لمعايير الحزم).
 
 # قائمة المدارس والنظريات السوسيولوجية الشاملة — قائمة انتظار (Backlog) لتغطية علم الاجتماع في أطلس
 
@@ -254,23 +274,23 @@
 
 ## 8. الميادين والفروع التخصصية في علم الاجتماع (Specialized Sociological Subdisciplines)
 
-- [ ] سوسيولوجيا المعرفة والعلوم (Sociology of Knowledge & Scientific Knowledge - SSK)
-- [ ] سوسيولوجيا الثقافة وأنماط الحياة (Sociology of Culture & Lifestyles)
-- [ ] سوسيولوجيا الدين والتحولات العلمانية (Sociology of Religion & Post-Secularism)
-- [ ] سوسيولوجيا الانحراف والجريمة والعدالة الجنائية (Sociology of Deviance, Crime & Justice)
-- [ ] السوسيولوجيا الطبية والصحية والسريرية (Medical, Health & Clinical Sociology)
-- [ ] السوسيولوجيا الحضرية وتخطيط المدن (Urban Sociology & Urban Spatial Planning)
-- [ ] السوسيولوجيا الريفية والمجتمعات الزراعية (Rural & Agrarian Sociology)
-- [ ] السوسيولوجيا البيئية والتنمية المستدامة (Environmental Sociology & Sustainability)
-- [ ] السوسيولوجيا الاقتصادية وتجذر الأسواق (Economic Sociology & Embeddedness: Polanyi & Granovetter)
-- [ ] سوسيولوجيا العمل والمهن والتصنيع (Sociology of Work, Occupations & Industrial Relations)
-- [ ] السوسيولوجيا السياسية والدولة والمواطنة (Political Sociology, State & Citizenship)
-- [ ] سوسيولوجيا التربية والتعليم وإعادة الإنتاج (Sociology of Education & Cultural Capital)
-- [ ] سوسيولوجيا الأسرة والنوع الاجتماعي والعلاقات الحميمية (Sociology of Family, Gender & Intimacy)
-- [ ] سوسيولوجيا الهجرة واللجوء والشتات (Sociology of Migration, Asylum & Diaspora)
-- [ ] سوسيولوجيا الشيخوخة ودورة الحياة (Sociology of Aging & Life Course)
-- [ ] سوسيولوجيا الشباب والثقافات الفرعية (Sociology of Youth & Subcultures)
-- [ ] سوسيولوجيا الفن والأدب والجماليات (Sociology of Art, Literature & Aesthetics)
-- [ ] سوسيولوجيا القانون والضبط الاجتماعي (Sociology of Law & Social Control)
-- [ ] سوسيولوجيا الحركات الاجتماعية والعمل الجماعي (Sociology of Social Movements & Collective Action)
-- [ ] السوسيولوجيا العسكرية والنزاعات المسلحة (Military Sociology & Armed Conflict)
+- [x] سوسيولوجيا المعرفة والعلوم (Sociology of Knowledge & Scientific Knowledge - SSK) — `sch-sociology-of-scientific-knowledge` (دفعة 8، 2026-09-14)
+- [x] سوسيولوجيا الثقافة وأنماط الحياة (Sociology of Culture & Lifestyles) — `sch-sociology-of-culture-lifestyles` (دفعة 8، 2026-09-14)
+- [x] سوسيولوجيا الدين والتحولات العلمانية (Sociology of Religion & Post-Secularism) — `sch-sociology-of-religion-post-secularism` (دفعة 8، 2026-09-14)
+- [x] سوسيولوجيا الانحراف والجريمة والعدالة الجنائية (Sociology of Deviance, Crime & Justice) — `sch-sociology-of-deviance-crime-justice` (دفعة 8، 2026-09-14)
+- [x] السوسيولوجيا الطبية والصحية والسريرية (Medical, Health & Clinical Sociology) — `sch-medical-health-clinical-sociology` (دفعة 8، 2026-09-14)
+- [x] السوسيولوجيا الحضرية وتخطيط المدن (Urban Sociology & Urban Spatial Planning) — `sch-urban-sociology-spatial-planning` (دفعة 8، 2026-09-14)
+- [x] السوسيولوجيا الريفية والمجتمعات الزراعية (Rural & Agrarian Sociology) — `sch-rural-agrarian-sociology` (دفعة 8، 2026-09-14)
+- [x] السوسيولوجيا البيئية والتنمية المستدامة (Environmental Sociology & Sustainability) — `sch-environmental-sociology-sustainability` (دفعة 8، 2026-09-14)
+- [x] السوسيولوجيا الاقتصادية وتجذر الأسواق (Economic Sociology & Embeddedness: Polanyi & Granovetter) — `sch-economic-sociology-embeddedness` (دفعة 8، 2026-09-14)
+- [x] سوسيولوجيا العمل والمهن والتصنيع (Sociology of Work, Occupations & Industrial Relations) — `sch-sociology-of-work-occupations` (دفعة 8، 2026-09-14)
+- [x] السوسيولوجيا السياسية والدولة والمواطنة (Political Sociology, State & Citizenship) — `sch-political-sociology-state-citizenship` (دفعة 8، 2026-09-14)
+- [x] سوسيولوجيا التربية والتعليم وإعادة الإنتاج (Sociology of Education & Cultural Capital) — `sch-sociology-of-education-cultural-capital` (دفعة 8، 2026-09-14)
+- [x] سوسيولوجيا الأسرة والنوع الاجتماعي والعلاقات الحميمية (Sociology of Family, Gender & Intimacy) — `sch-sociology-of-family-gender-intimacy` (دفعة 8، 2026-09-14)
+- [x] سوسيولوجيا الهجرة واللجوء والشتات (Sociology of Migration, Asylum & Diaspora) — `sch-sociology-of-migration-diaspora` (دفعة 8، 2026-09-14)
+- [x] سوسيولوجيا الشيخوخة ودورة الحياة (Sociology of Aging & Life Course) — `sch-sociology-of-aging-life-course` (دفعة 8، 2026-09-14)
+- [x] سوسيولوجيا الشباب والثقافات الفرعية (Sociology of Youth & Subcultures) — `sch-sociology-of-youth-subcultures` (دفعة 8، 2026-09-14)
+- [x] سوسيولوجيا الفن والأدب والجماليات (Sociology of Art, Literature & Aesthetics) — `sch-sociology-of-art-literature-aesthetics` (دفعة 8، 2026-09-14)
+- [x] سوسيولوجيا القانون والضبط الاجتماعي (Sociology of Law & Social Control) — `sch-sociology-of-law-social-control` (دفعة 8، 2026-09-14)
+- [x] سوسيولوجيا الحركات الاجتماعية والعمل الجماعي (Sociology of Social Movements & Collective Action) — `sch-sociology-of-social-movements-collective-action` (دفعة 8، 2026-09-14)
+- [x] السوسيولوجيا العسكرية والنزاعات المسلحة (Military Sociology & Armed Conflict) — `sch-military-sociology-armed-conflict` (دفعة 8، 2026-09-14)

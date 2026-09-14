@@ -15,7 +15,8 @@ language: "الإنجليزية"
 active_start: 1980
 active_end: 1999
 edges: []
-related: []
+related:
+- id: "sch-environmental-sociology-sustainability", title: "السوسيولوجيا البيئية والتنمية المستدامة", type: "مدرسة"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 6 من مهمة بناء قسم علم الاجتماع (القسم 6). لا يوجد بعد ملفات مستقلة لألان شنايبرغ (`thk-allan-schnaiberg`) أو جون بيلامي فوستر (`thk-john-bellamy-foster`)؛ `belongs_to` تُرك فارغاً."
 ---

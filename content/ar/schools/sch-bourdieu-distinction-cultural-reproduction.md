@@ -16,7 +16,8 @@ active_start: 1970
 active_end: 1979
 edges:
 - rel: "belongs_to", target: "sch-bourdieu-practice-habitus", target_type: "مدرسة"
-related: []
+related:
+- id: "sch-sociology-of-education-cultural-capital", title: "سوسيولوجيا التربية والتعليم وإعادة الإنتاج", type: "مدرسة"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5)، ويكمل `sch-bourdieu-practice-habitus` المنشأ في الدفعة نفسها."
 ---

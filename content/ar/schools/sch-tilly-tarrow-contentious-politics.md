@@ -16,7 +16,8 @@ active_start: 1978
 active_end: 1998
 edges:
 - rel: "belongs_to", target: "sch-skocpol-comparative-historical-revolutions", target_type: "مدرسة"
-related: []
+related:
+- id: "sch-sociology-of-social-movements-collective-action", title: "سوسيولوجيا الحركات الاجتماعية والعمل الجماعي", type: "مدرسة"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)، ويكمل `sch-skocpol-comparative-historical-revolutions` المنشأ في الدفعة نفسها. لا يوجد بعد ملفات مستقلة لتشارلز تيلي (`thk-charles-tilly`) أو سيدني تارو (`thk-sidney-tarrow`)."
 ---
