@@ -18,6 +18,8 @@ related:
 - id: "sch-feminist-anthropology", title: "الأنثروبولوجيا النسوية وأنثروبولوجيا الجندر (Feminist Anthropology)", type: "مدرسة"
 - id: "thk-talal-asad", title: "طلال أسد (Talal Asad)", type: "مفكر"
 - id: "con-veiled-sentiments-honor-poetry", title: "الشعرُ الشفهيّ والشرفُ عند البدو (Veiled Sentiments)", type: "مفهوم"
+- id: "wrk-veiled-sentiments-abu-lughod", title: "المشاعرُ الملتبسة (Veiled Sentiments)", type: "عمل / كتاب"
+- id: "wrk-do-muslim-women-need-saving-abu-lughod", title: "هل تحتاج المرأةُ المسلمة إلى الإنقاذ؟ (Do Muslim Women Need Saving?)", type: "عمل / كتاب"
 gaps: []
 ---
 # ليلى أبو لغد (Lila Abu-Lughod)

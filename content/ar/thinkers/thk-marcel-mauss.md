@@ -19,6 +19,7 @@ related:
 - id: "thk-durkheim", title: "إميل دوركهايم", type: "مفكر"
 - id: "con-potlatch", title: "البوتلاتش (Potlatch)", type: "مفهوم"
 - id: "con-techniques-of-the-body-mauss", title: "تقنياتُ الجسد (Techniques of the Body)", type: "مفهوم"
+- id: "wrk-essai-sur-le-don-mauss", title: "مقالةٌ في الهبة (Essai sur le don)", type: "عمل / كتاب"
 gaps: []
 ---
 # مارسيل موس (Marcel Mauss)

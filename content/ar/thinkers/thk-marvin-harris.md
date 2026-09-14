@@ -19,6 +19,7 @@ related:
 - id: "thk-julian-steward", title: "جوليان ستيوارد (Julian Steward)", type: "مفكر"
 - id: "con-sacred-cow-india-harris", title: "تقديسُ البقرة في الهند (The Sacred Cow)", type: "مفهوم"
 - id: "wrk-cultural-materialism-harris", title: "المادّيةُ الثقافية: نضالٌ من أجل علمٍ للثقافة (Cultural Materialism)", type: "عمل / كتاب"
+- id: "con-emic-etic-harris", title: "الإيميك والإيتيك (Emic and Etic)", type: "مفهوم"
 gaps: []
 ---
 # مارفن هاريس (Marvin Harris)

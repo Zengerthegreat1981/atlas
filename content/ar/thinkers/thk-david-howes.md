@@ -18,6 +18,7 @@ related:
 - id: "sch-anthropology-of-senses", title: "أنثروبولوجيا الحواسّ (Anthropology of the Senses)", type: "مدرسة"
 - id: "thk-thomas-csordas", title: "توماس كسورداس (Thomas Csordas)", type: "مفكر"
 - id: "con-sensory-order-howes", title: "الترتيبُ الحسّيّ (Sensory Order)", type: "مفهوم"
+- id: "wrk-varieties-sensory-experience-howes", title: "تنوّعُ التجربة الحسّية (Varieties of Sensory Experience)", type: "عمل / كتاب"
 gaps: []
 ---
 # ديڤيد هاوز (David Howes)

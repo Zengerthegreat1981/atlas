@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-cultural-ecology", title: "الإيكولوجيا الثقافية والتطوّريةُ الجديدة (Cultural Ecology)", type: "مدرسة"
 - id: "con-cultural-core-steward", title: "النواةُ الثقافية (Cultural Core)", type: "مفهوم"
+- id: "wrk-theory-culture-change-steward", title: "نظريةُ التغيّر الثقافي (Theory of Culture Change)", type: "عمل / كتاب"
 gaps: []
 ---
 # جوليان ستيوارد (Julian Steward)
