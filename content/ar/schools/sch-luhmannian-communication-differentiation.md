@@ -16,9 +16,12 @@ active_start: 1997
 active_end: 1998
 edges:
 - rel: "belongs_to", target: "sch-luhmannian-autopoietic-systems", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-luhmann", title: "نيكلاس لومان", type: "مفكر"
+- id: "con-functional-differentiation-luhmann", title: "أشكال التمايز الاجتماعي المتعاقبة عند لومان", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3)، ويكمل `sch-luhmannian-autopoietic-systems` المنشأ في الدفعة نفسها."
+  - "**سُدَّ 2026-09-14 (الدفعة 41):** كُتب `con-functional-differentiation-luhmann` وأُضيف رابطه هنا مع رابط `thk-luhmann`."
 ---
 
 # سوسيولوجيا التواصل والتمايز النسقي
