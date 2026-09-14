@@ -15,7 +15,9 @@ edges:
 related:
 - id: "thk-robert-merton", title: "روبرت ك. ميرتون", type: "مفكر"
 - id: "con-cudos-norms-science", title: "معايير CUDOS للبنية المعيارية للعلم عند ميرتون", type: "مفهوم"
+- id: "thk-thomas-kuhn", title: "توماس صامويل كوهن", type: "مفكر"
 gaps:
+  - "**رُبط 2026-09-15:** `thk-thomas-kuhn` موجودٌ بالفعل بوسم `part: \"philosophy\"`؛ أُضيف رابطه هنا عبر `related` دون `belongs_to` (يشترط تطابق `part`)."
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بتعميق حزم القسم 3. لا ملف مستقل بعد لتوماس كون في قسم علم الاجتماع؛ ذُكر بالاسم دون `related` مباشر إليه."
 ---
 
