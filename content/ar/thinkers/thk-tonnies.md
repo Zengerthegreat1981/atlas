@@ -16,7 +16,8 @@ active_end: 1936
 crumb: "علم الاجتماع ← التأسيس الكلاسيكي ← فرديناند تونيس"
 edges:
 - rel: "belongs_to", target: "sch-tonnies-gemeinschaft-gesellschaft", target_type: "مدرسة"
-related: []
+related:
+- id: "con-gemeinschaft-gesellschaft", title: "الجماعة والمجتمع (Gemeinschaft und Gesellschaft)", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 9 (مرحلة الحزم). لا عمل `wrk-` مستقل بعد يوثّق *Gemeinschaft und Gesellschaft* تفصيلياً."
 ---

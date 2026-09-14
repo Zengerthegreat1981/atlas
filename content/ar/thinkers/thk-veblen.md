@@ -16,7 +16,9 @@ active_end: 1929
 crumb: "علم الاجتماع ← التأسيس الكلاسيكي ← ثورستين فيبلن"
 edges:
 - rel: "belongs_to", target: "sch-veblenian-institutional-sociology", target_type: "مدرسة"
-related: []
+related:
+- id: "con-conspicuous-consumption", title: "الاستهلاك اللافت (Conspicuous Consumption)", type: "مفهوم"
+- id: "wrk-theory-of-leisure-class-veblen", title: "نظرية الطبقة المترفة", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 9 (مرحلة الحزم). فيبلن اقتصادي مؤسسي بالتكوين المهني الرسمي أكثر منه عالم اجتماع؛ إدراجه هنا مبنيّ على أثره السوسيولوجي العميق لا انتسابه المهني، على نحو مشابه لملاحظة سابقة عن بوتنام."
 ---

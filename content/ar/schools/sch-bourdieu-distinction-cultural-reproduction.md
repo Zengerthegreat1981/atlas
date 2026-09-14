@@ -18,6 +18,7 @@ edges:
 - rel: "belongs_to", target: "sch-bourdieu-practice-habitus", target_type: "مدرسة"
 related:
 - id: "sch-sociology-of-education-cultural-capital", title: "سوسيولوجيا التربية والتعليم وإعادة الإنتاج", type: "مدرسة"
+- id: "con-conspicuous-consumption", title: "الاستهلاك اللافت (Conspicuous Consumption)", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5)، ويكمل `sch-bourdieu-practice-habitus` المنشأ في الدفعة نفسها."
 ---

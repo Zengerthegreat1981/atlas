@@ -45,6 +45,18 @@
 `wrk-` ودراسات `stu-` لكل مدرسة أُضيف لها مفكر — لم تُكتب بعد لأيٍّ منها)، ثم `sch-khaldunian-ilm-
 al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهما بعد ضمن هذه الدفعة).
 
+**الدفعة 10 (2026-09-14):** أُكملت أول حلقة مفاهيم/أعمال للقسم 1 — 4 ملفات `con-` جديدة
+(`con-anomie-durkheim`, `con-conspicuous-consumption`, `con-gemeinschaft-gesellschaft`,
+`con-iron-law-of-oligarchy`) و2 ملف `wrk-` جديد (`wrk-suicide-durkheim`,
+`wrk-theory-of-leisure-class-veblen`)، مع تحديث `related` في `thk-durkheim`, `thk-michels`,
+`thk-tonnies`, `thk-veblen`، وفي مدرستي `sch-mertons-strain-theory` (ربط بـ`con-anomie-durkheim`
+الأصلي) و`sch-bourdieu-distinction-cultural-reproduction` (ربط بـ`con-conspicuous-consumption`
+كأصل تاريخي لتحليل بورديو). الفحوص الثلاثة كلها صفر. **ملاحظة تنسيق:** وكيلٌ ثانٍ يعمل بالتوازي
+على الأقسام 5–8 من هذا الملف؛ هذه الجلسة تقتصر من الآن فصاعداً على **الأقسام 1–4 فقط**.
+**أوّل بند للدفعة التالية:** بقية مفكري/مفاهيم/أعمال القسم 1 (دو بوا، مارتينو، تارد ولوبون،
+سمنر — لم تُكتب لهم `con-`/`wrk-` بعد)، ثم `sch-khaldunian-ilm-al-umran` و
+`sch-booth-rowntree-social-survey`، ثم الانتقال للقسم 2 (شيكاغو والتفاعلية الرمزية).
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
