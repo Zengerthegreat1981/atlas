@@ -15,9 +15,12 @@ language: "الإنجليزية"
 active_start: 1960
 active_end: 1960
 edges: []
-related: []
+related:
+- id: "thk-morris-janowitz", title: "موريس يانوفيتز", type: "مفكر"
+- id: "con-constabulary-force-janowitz", title: "قوة الشرطي-الجندي (Constabulary Force)", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 8 (الأخيرة) من مهمة بناء قسم علم الاجتماع، آخر بند في `sociology-schools-backlog.md`. لا يوجد بعد ملف مستقل لموريس يانوفيتز (`thk-morris-janowitz`)؛ `belongs_to` تُرك فارغاً."
+  - "هذا الملف أُنشئ في الدفعة 8 (الأخيرة) من مهمة بناء قسم علم الاجتماع، آخر بند في `sociology-schools-backlog.md`."
+  - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-morris-janowitz`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
 ---
 
 # السوسيولوجيا العسكرية والنزاعات المسلحة
