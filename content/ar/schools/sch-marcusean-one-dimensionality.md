@@ -19,8 +19,10 @@ edges:
 related:
 - id: "thk-marcuse", title: "هربرت ماركوزه", type: "مفكر"
 - id: "con-one-dimensional-man-marcuse", title: "المجتمع أحادي البعد والاحتواء الشامل (One-Dimensional Society)", type: "مفهوم"
+- id: "dbt-marcuse-great-refusal-vs-integration-thesis", title: "مفارقة ماركوزه: أطروحة الاحتواء الشامل مقابل «الرفض العظيم» الفعلي لحركة 1968", type: "جدل"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)، ويكمل `sch-frankfurt-critical-sociology` المنشأ في الدفعة نفسها. ملف `thk-marcuse` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده."
+  - "**تعميقٌ 2026-09-14:** أُضيف `dbt-marcuse-great-refusal-vs-integration-thesis` وربطه هنا."
 ---
 
 # سوسيولوجيا المجتمع الصناعي أحادي البعد
