@@ -16,7 +16,9 @@ edges:
 - rel: "belongs_to", target: "sch-rosa-social-acceleration", target_type: "مدرسة"
 related:
 - id: "sch-rosa-social-acceleration", title: "نظرية التسارع الاجتماعي وتغير الإيقاع الزمني", type: "مدرسة"
+- id: "con-resonance-rosa", title: "الرنين (Resonance) عند روزا", type: "مفهوم"
 gaps:
+  - "**سُدَّت الفجوة 2026-09-15:** كُتب `con-resonance-rosa` وأُضيف رابطه هنا."
   - "تنبيه: ملف `thk-ma-rosario-alfelor` القائم في المستودع شخصٌ مختلفٌ كلياً؛ لم يُستخدم خطأً هنا."
   - "مفهومه اللاحق «الرنين» (Resonance، 2016) بديلاً إيجابياً مقترحاً لمواجهة التسارع لم يُستوفَ بالتفصيل الكافي هنا."
 ---

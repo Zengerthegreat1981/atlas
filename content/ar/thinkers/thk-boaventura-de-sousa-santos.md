@@ -17,7 +17,9 @@ edges:
 related:
 - id: "sch-santos-epistemologies-of-the-south", title: "إبستمولوجيات الجنوب وسوسيولوجيا الغيابات", type: "مدرسة"
 - id: "sch-quijano-coloniality-of-power", title: "سوسيولوجيا استعمارية السلطة والمركزية الأوروبية", type: "مدرسة"
+- id: "con-border-thinking-mignolo", title: "التفكير الحدودي والمعرفة التحررية (Border Thinking)", type: "مفهوم"
 gaps:
+  - "**تصحيحُ ملاحظةٍ باتت كاذبة 2026-09-15:** `con-border-thinking-mignolo` موجودٌ بالفعل (كُتب لصاحبه الأصلي ميغنولو)؛ أُضيف رابطه هنا للإشارة لتقاطع سانتوس معه، لا بوصفه صاحب المفهوم."
   - "لم يُستوفَ هنا مفهومه الآخر «التفكير الحدّي» (Border Thinking) المستعار من ميغنولو رغم تقاطعه المباشر."
 ---
 

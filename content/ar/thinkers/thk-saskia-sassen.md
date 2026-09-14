@@ -16,7 +16,9 @@ edges:
 - rel: "belongs_to", target: "sch-sassen-global-city", target_type: "مدرسة"
 related:
 - id: "sch-sassen-global-city", title: "سوسيولوجيا المدينة العالمية وتدفقات رأس المال", type: "مدرسة"
+- id: "con-expulsions-sassen", title: "الطرد (Expulsions) عند ساسن", type: "مفهوم"
 gaps:
+  - "**سُدَّت الفجوة 2026-09-15:** كُتب `con-expulsions-sassen` وأُضيف رابطه هنا."
   - "مفهومها اللاحق «الطرد» (Expulsions، 2014) — إقصاء فئات كاملة من الاقتصاد الرسمي عالمياً — لم يُستوفَ بالتفصيل هنا."
 ---
 

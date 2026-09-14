@@ -17,7 +17,9 @@ edges:
 related:
 - id: "sch-millsian-power-elite", title: "السوسيولوجيا الراديكالية ونقد نخبة القوة", type: "مدرسة"
 - id: "wrk-power-elite-mills", title: "نخبة القوة", type: "عمل / كتاب"
+- id: "con-sociological-imagination-mills", title: "الخيال السوسيولوجي (The Sociological Imagination)", type: "مفهوم"
 gaps:
+  - "**سُدَّت الفجوة 2026-09-15:** كُتب `con-sociological-imagination-mills` وأُضيف رابطه هنا."
   - "**تكثيفٌ 2026-09-15:** أُضيف `wrk-power-elite-mills` وربطه هنا."
   - "مفهومه الآخر المؤثر «الخيال السوسيولوجي» (The Sociological Imagination، 1959) — ربط «المشكلات الخاصة» بـ«القضايا العامة» — لم يُستوفَ بالتفصيل هنا رغم أهميته المنهجية."
 ---

@@ -18,7 +18,9 @@ related:
 - id: "sch-harvey-critical-urban-spatial", title: "الجغرافيا الماركسية والتراكم المكاني", type: "مدرسة"
 - id: "thk-lefebvre", title: "هنري لوفيفر", type: "مفكر"
 - id: "wrk-condition-postmodernity-harvey", title: "شرط ما بعد الحداثة", type: "عمل / كتاب"
+- id: "con-accumulation-by-dispossession-harvey", title: "التراكم عبر نزع الملكية (Accumulation by Dispossession)", type: "مفهوم"
 gaps:
+  - "**تصحيحُ ملاحظةٍ باتت كاذبة 2026-09-15:** `con-accumulation-by-dispossession-harvey` موجودٌ بالفعل (كُتب في دفعةٍ سابقة)؛ أُضيف رابطه هنا."
   - "**تكثيفٌ 2026-09-15:** أُضيف `wrk-condition-postmodernity-harvey` وربطه هنا."
   - "مفهومه اللاحق «التراكم بنزع الملكية» (Accumulation by Dispossession، 2003) خارج نطاق هذا الملف رغم أهميته المباشرة."
 ---
