@@ -19,8 +19,10 @@ related:
 - id: "sch-harvey-critical-urban-spatial", title: "الجغرافيا الماركسية والتراكم المكاني", type: "مدرسة"
 - id: "thk-lefebvre", title: "هنري لوفيفر", type: "مفكر"
 - id: "con-right-to-the-city-lefebvre", title: "إنتاج الفضاء والحق في المدينة (Right to the City)", type: "مفهوم"
+- id: "wrk-production-of-space-lefebvre", title: "إنتاج الفضاء", type: "عمل"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)."
+  - "**تعميقٌ 2026-09-15:** أُضيف `wrk-production-of-space-lefebvre` (يُفرد كتاب *إنتاج الفضاء* 1974 بملفٍّ عملٍ مستقل) وربطه هنا."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-lefebvre`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
 ---
 
