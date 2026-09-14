@@ -16,9 +16,12 @@ active_start: 1972
 active_end: 1972
 edges:
 - rel: "belongs_to", target: "sch-contemporary-arab-sociology", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-nawal-elsaadawi", title: "نوال السعداوي", type: "مفكر"
+- id: "con-multilayered-oppression-elsaadawi", title: "الاضطهاد متعدد الطبقات للمرأة العربية (Multilayered Oppression)", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7)، ويكمل حزمة `sch-contemporary-arab-sociology` المنشأة في الدفعة 0. لا يوجد بعد ملف مستقل لنوال السعداوي (`thk-nawal-elsaadawi`)."
+  - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7)، ويكمل حزمة `sch-contemporary-arab-sociology` المنشأة في الدفعة 0."
+  - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-nawal-elsaadawi`."
   - "السعداوي طبيبة وكاتبة وناشطة سياسية أساساً، وإدراجها هنا كـ«عالمة اجتماع» مبنيّ على أثرها التحليلي السوسيولوجي لا انتسابها المهني الرسمي لعلم الاجتماع الأكاديمي، على نحو مشابه لملاحظة سابقة عن روبرت بوتنام في `sch-social-capital-civic`."
 ---
 

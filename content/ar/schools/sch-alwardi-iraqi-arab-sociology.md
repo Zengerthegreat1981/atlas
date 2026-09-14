@@ -16,9 +16,12 @@ active_start: 1951
 active_end: 1965
 edges:
 - rel: "belongs_to", target: "sch-contemporary-arab-sociology", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-alwardi", title: "علي الوردي", type: "مفكر"
+- id: "con-dual-personality-alwardi", title: "ازدواجية الشخصية وصراع البداوة والحضارة (Dual Personality)", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7)، ويكمل حزمة `sch-contemporary-arab-sociology` المنشأة في الدفعة 0 — كانت غياب علي الوردي مذكورة صراحة في `gaps` ذلك الملف. لا يوجد بعد ملف مستقل لعلي الوردي (`thk-alwardi`)."
+  - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7)، ويكمل حزمة `sch-contemporary-arab-sociology` المنشأة في الدفعة 0."
+  - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-alwardi`."
   - "تنبيه: ملف `thk-al-mawardi` القائم في المستودع هو أبو الحسن الماوردي (فقيه عباسي كلاسيكي)، شخصٌ مختلفٌ كلياً عن علي الوردي (عالم اجتماع عراقي معاصر)؛ تشابه الاسم فقط في الحروف اللاتينية، لم يُخلط بينهما."
 ---
 

@@ -319,11 +319,11 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 - [x] `sch-alatas-captive-mind-sociology` — سوسيولوجيا العقل الأسير والتبعية الأكاديمية الآسيوية (Alatas' Captive Mind Sociology)
 - [x] `sch-subaltern-studies-guha-spivak` — دراسات التابع والتأريخ السوسيولوجي من أسفل (Subaltern Studies: Guha & Spivak)
 - [x] `sch-khaldunian-historical-sociology` — سوسيولوجيا العمران والتحول البدوي-الحضري الخلدونية (Khaldunian Historical Sociology)
-- [ ] `sch-alwardi-iraqi-arab-sociology` — سوسيولوجيا الشخصية الازدواجية وصراع القيم العربي (Al-Wardi's Iraqi & Arab Sociology)
-- [ ] `sch-sharabi-neopatriarchy-sociology` — سوسيولوجيا البطريركية المستحدثة والتغير المشوه (Sharabi's Neopatriarchy Sociology)
-- [ ] `sch-contemporary-arab-sociology` — سوسيولوجيا المجتمع الفسيفسائي والاغتراب العربي (Barakat's Contemporary Arab Society Sociology)
-- [ ] `sch-elsaadawi-arab-feminist-sociology` — السوسيولوجيا النسوية العربية ونقد الهيمنة البطريركية (El Saadawi's Arab Feminist Sociology)
-- [ ] `sch-laroui-shariati-critical-arab-islamic-sociology` — التاريخانية والسوسيولوجيا النقدية العربية والإسلامية (Laroui & Shariati's Critical Arab/Islamic Sociology)
+- [x] `sch-alwardi-iraqi-arab-sociology` — سوسيولوجيا الشخصية الازدواجية وصراع القيم العربي (Al-Wardi's Iraqi & Arab Sociology)
+- [x] `sch-sharabi-neopatriarchy-sociology` — سوسيولوجيا البطريركية المستحدثة والتغير المشوه (Sharabi's Neopatriarchy Sociology)
+- [x] `sch-contemporary-arab-sociology` — سوسيولوجيا المجتمع الفسيفسائي والاغتراب العربي (Barakat's Contemporary Arab Society Sociology)
+- [x] `sch-elsaadawi-arab-feminist-sociology` — السوسيولوجيا النسوية العربية ونقد الهيمنة البطريركية (El Saadawi's Arab Feminist Sociology)
+- [x] `sch-laroui-shariati-critical-arab-islamic-sociology` — التاريخانية والسوسيولوجيا النقدية العربية والإسلامية (Laroui & Shariati's Critical Arab/Islamic Sociology)
 
 ## 8. الميادين والفروع التخصصية في علم الاجتماع (Specialized Sociological Subdisciplines)
 

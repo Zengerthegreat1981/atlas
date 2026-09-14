@@ -16,9 +16,12 @@ active_start: 1988
 active_end: 1988
 edges:
 - rel: "belongs_to", target: "sch-contemporary-arab-sociology", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-hisham-sharabi", title: "هشام شرابي", type: "مفكر"
+- id: "con-neopatriarchy-sharabi", title: "البطريركية المستحدثة والتغيير المشوَّه (Neopatriarchy)", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7)، ويكمل حزمة `sch-contemporary-arab-sociology` المنشأة في الدفعة 0 — كانت غياب هشام شرابي مذكورة صراحة في `gaps` ذلك الملف وفي `gaps` ملف `thk-halim-barakat`. لا يوجد بعد ملف مستقل لهشام شرابي (`thk-sharabi`)."
+  - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7)، ويكمل حزمة `sch-contemporary-arab-sociology` المنشأة في الدفعة 0 — كانت غياب هشام شرابي مذكورة صراحة في `gaps` ذلك الملف وفي `gaps` ملف `thk-halim-barakat`."
+  - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-hisham-sharabi`."
 ---
 
 # سوسيولوجيا البطريركية المستحدثة والتغير المشوه

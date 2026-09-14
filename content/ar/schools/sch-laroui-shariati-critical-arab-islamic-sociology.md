@@ -18,8 +18,11 @@ edges:
 - rel: "belongs_to", target: "sch-contemporary-arab-sociology", target_type: "مدرسة"
 related:
 - id: "thk-abdallah-laroui", title: "عبد الله العروي", type: "مفكر"
+- id: "thk-ali-shariati", title: "علي شريعتي", type: "مفكر"
+- id: "con-arab-historicism-laroui", title: "التاريخانية ونقد الوعي التقليدي (عبد الله العروي)", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7)، ويكمل حزمة `sch-contemporary-arab-sociology` المنشأة في الدفعة 0. ملف `thk-abdallah-laroui` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده لا يمنع `belongs_to` من الأب السوسيولوجي (لأن `belongs_to` يشير إلى مدرسة سوسيولوجية بنفس `part` لا إلى المفكر نفسه). لا يوجد بعد ملف مستقل لعلي شريعتي (`thk-ali-shariati`)."
+  - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7)، ويكمل حزمة `sch-contemporary-arab-sociology` المنشأة في الدفعة 0. ملف `thk-abdallah-laroui` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده لا يمنع `belongs_to` من الأب السوسيولوجي (لأن `belongs_to` يشير إلى مدرسة سوسيولوجية بنفس `part` لا إلى المفكر نفسه)."
+  - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-ali-shariati`."
   - "العروي مؤرخ ومفكر مغربي، وشريعتي عالم اجتماع إيراني بالتكوين الأكاديمي الفعلي (درس في السوربون تحت إشراف غورفيتش)؛ الجمع بينهما هنا يعكس تصنيف `sociology-schools-backlog.md` نفسه بحكم اشتراكهما في نقد الوعي التقليدي بمنهج تاريخاني، لا تعاوناً مباشراً موثقاً بينهما."
 ---
 
