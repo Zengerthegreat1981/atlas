@@ -19,7 +19,9 @@ edges:
 related:
 - id: "thk-blumer", title: "هربرت بلومر", type: "مفكر"
 - id: "con-symbolic-interactionism-premises", title: "الفرضيات الثلاث للتفاعلية الرمزية عند بلومر", type: "مفهوم"
+- id: "wrk-symbolic-interactionism-blumer", title: "التفاعلية الرمزية: المنظور والمنهج", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-14:** أُضيف `wrk-symbolic-interactionism-blumer` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2)، ويكمل `sch-mead-social-behaviorism` المنشأ في الدفعة نفسها."
   - "**سُدَّ 2026-09-14 (الدفعة 19):** كُتب `thk-blumer` و`con-symbolic-interactionism-premises` وأُضيفت روابطهما هنا."
 ---
