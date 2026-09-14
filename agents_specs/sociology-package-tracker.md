@@ -101,6 +101,11 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 `git commit` مباشرة، لا الاكتفاء بـ`git add` سابق قد يُسبَق بعملية `add`/`commit` من الجلسة الأخرى.**
 **أوّل بند للدفعة التالية:** `sch-thomas-znaniecki-life-history`.
 
+**الدفعة 15 (2026-09-14):** كُتب `thk-wi-thomas`، `thk-znaniecki`، `con-thomas-theorem`، و
+`stu-polish-peasant-thomas-znaniecki` (أول ملف `stu-` في قسم علم الاجتماع)، وأُسندت جميعاً إلى
+`sch-thomas-znaniecki-life-history` (موجودة سلفاً منذ الدفعة 2) وأُضيفت روابطها فيها. الفحوص
+الثلاثة صفر. **أوّل بند للدفعة التالية:** `sch-whyte-participant-observation`.
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
@@ -129,7 +134,7 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 
 - [x] `sch-chicago-urban-ecology` — مدرسة شيكاغو الإيكولوجية الحضرية الأولى (First Chicago School / Urban Ecology)
 - [x] `sch-wirthian-urbanism-ghetto` — سوسيولوجيا الحياة الحضرية والغيتو (Wirthian Urbanism & Ghetto Studies)
-- [ ] `sch-thomas-znaniecki-life-history` — منهج دراسات تاريخ الحياة والتعريف بالموقف (Thomas & Znaniecki's Life History & Situational Sociology)
+- [x] `sch-thomas-znaniecki-life-history` — منهج دراسات تاريخ الحياة والتعريف بالموقف (Thomas & Znaniecki's Life History & Situational Sociology)
 - [ ] `sch-whyte-participant-observation` — سوسيولوجيا الملاحظة بالمشاركة والمجتمعات الهامشية (Whyte's Participant Observation Sociology)
 - [ ] `sch-cooley-looking-glass-self` — نظرية الذات المنعكسة في المرآة والجماعات الأولية (Cooley's Looking-Glass Self Theory)
 - [ ] `sch-mead-social-behaviorism` — الأسس البراغماتية للتفاعلية الرمزية (Mead's Social Behaviorism & Mind/Self/Society)

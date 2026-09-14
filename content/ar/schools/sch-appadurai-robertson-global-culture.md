@@ -15,9 +15,12 @@ language: "الإنجليزية"
 active_start: 1990
 active_end: 1996
 edges: []
-related: []
+related:
+- id: "thk-appadurai", title: "أرجون أپادوراي", type: "مفكر"
+- id: "con-scapes-glocalization", title: "المشاهد العولمية والتمحلن (Scapes and Glocalization)", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 6 من مهمة بناء قسم علم الاجتماع (القسم 6). لا يوجد بعد ملفات مستقلة لأرجون أپادوراي (`thk-appadurai`) أو رولاند روبرتسون (`thk-roland-robertson`)؛ `belongs_to` تُرك فارغاً."
+  - "هذا الملف أُنشئ في الدفعة 6 من مهمة بناء قسم علم الاجتماع (القسم 6)."
+  - "**سُدَّ جزئياً 2026-09-14 (دفعة تالية):** أُنشئ `thk-appadurai`. رولاند روبرتسون (`thk-roland-robertson`) لا يزال بلا ملف مستقل؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً."
 ---
 
 # سوسيولوجيا العولمة الثقافية والمشاهد العولمية

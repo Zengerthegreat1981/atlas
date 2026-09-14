@@ -16,9 +16,12 @@ active_start: 1989
 active_end: 2004
 edges:
 - rel: "belongs_to", target: "sch-bauman-liquid-modernity", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-zygmunt-bauman", title: "زيجمونت باومان", type: "مفكر"
+- id: "con-postmodern-ethics-wasted-lives-bauman", title: "الأخلاق ما بعد الحداثية والحياة الفائضة (Wasted Lives)", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 6 من مهمة بناء قسم علم الاجتماع (القسم 6)، ويكمل `sch-bauman-liquid-modernity` المنشأ في الدفعة نفسها."
+  - "ملف `thk-zygmunt-bauman` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده."
 ---
 
 # سوسيولوجيا الأخلاق في عصر الحداثة وما بعد الهولوكوست

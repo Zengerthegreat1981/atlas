@@ -16,7 +16,9 @@ active_start: 2009
 active_end: 2012
 edges:
 - rel: "belongs_to", target: "sch-castells-network-society", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-manuel-castells", title: "مانويل كاستلز", type: "مفكر"
+- id: "con-communication-power-castells", title: "سلطة الاتصال والحركات الرقمية (Communication Power)", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 6 من مهمة بناء قسم علم الاجتماع (القسم 6)، ويكمل `sch-castells-network-society` المنشأ في الدفعة نفسها."
 ---

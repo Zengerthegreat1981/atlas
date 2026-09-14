@@ -17,8 +17,11 @@ active_end: 1998
 edges: []
 related:
 - id: "sch-castells-communication-power", title: "سوسيولوجيا سلطة الاتصال والحركات الرقمية", type: "مدرسة"
+- id: "thk-manuel-castells", title: "مانويل كاستلز", type: "مفكر"
+- id: "con-network-society-castells", title: "مجتمع الشبكات (Network Society)", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 6 من مهمة بناء قسم علم الاجتماع (القسم 6). لا يوجد بعد ملف مستقل لمانويل كاستلز (`thk-manuel-castells`)؛ `belongs_to` تُرك فارغاً."
+  - "هذا الملف أُنشئ في الدفعة 6 من مهمة بناء قسم علم الاجتماع (القسم 6)."
+  - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-manuel-castells`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
 ---
 
 # سوسيولوجيا مجتمع الشبكات والمعلومات
