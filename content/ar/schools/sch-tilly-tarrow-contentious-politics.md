@@ -20,8 +20,10 @@ related:
 - id: "sch-sociology-of-social-movements-collective-action", title: "سوسيولوجيا الحركات الاجتماعية والعمل الجماعي", type: "مدرسة"
 - id: "thk-charles-tilly", title: "تشارلز تيلي", type: "مفكر"
 - id: "con-repertoires-of-contention-tilly", title: "مستودعات المنازعة (Repertoires of Contention)", type: "مفهوم"
+- id: "wrk-dynamics-of-contention-tilly-tarrow-mcadam", title: "ديناميكيات المنازعة", type: "عمل"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)، ويكمل `sch-skocpol-comparative-historical-revolutions` المنشأ في الدفعة نفسها."
+  - "**تعميقٌ 2026-09-15:** أُضيف `wrk-dynamics-of-contention-tilly-tarrow-mcadam` (يُفرد كتاب *ديناميكيات المنازعة* 2001) وربطه هنا."
   - "**سُدَّ جزئياً 2026-09-14 (دفعة تالية):** أُنشئ `thk-charles-tilly`. سيدني تارو (`thk-sidney-tarrow`) لا يزال بلا ملف مستقل."
 ---
 
