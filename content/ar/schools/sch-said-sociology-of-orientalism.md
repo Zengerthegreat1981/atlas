@@ -20,6 +20,7 @@ related:
 - id: "sch-fanonian-liberation-sociology", title: "علم الاجتماع التحرري ومناهضة الاستعمار", type: "مدرسة"
 - id: "sch-subaltern-studies-guha-spivak", title: "دراسات التابع والتأريخ السوسيولوجي من أسفل", type: "مدرسة"
 - id: "con-orientalism", title: "الاستشراق (Orientalism) — المفهوم", type: "مفهوم"
+- id: "wrk-orientalism-said", title: "الاستشراق (Orientalism) — الكتاب", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7). ملف `thk-said` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده. `belongs_to` لهذا الملف نفسه تُرك فارغاً."
 ---
