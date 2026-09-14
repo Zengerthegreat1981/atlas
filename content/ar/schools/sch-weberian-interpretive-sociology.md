@@ -19,8 +19,10 @@ related:
 - id: "sch-weberian-rationalization-bureaucracy", title: "سوسيولوجيا العقلنة والبيروقراطية", type: "مدرسة"
 - id: "sch-weberian-religion-capitalism", title: "سوسيولوجيا الأخلاق الرأسمالية والدين", type: "مدرسة"
 - id: "thk-weber", title: "ماكس فيبر", type: "مفكر"
+- id: "dbt-marx-weber-class-stratification", title: "جدل التراتب أحادي البعد عند ماركس مقابل متعدد الأبعاد عند فيبر", type: "جدل"
 gaps:
   - "**تصحيح 2026-09-14 (مرحلة الحزم):** `thk-weber` موجودٌ فعلاً بوسم `part: \"philosophy\"`؛ الملاحظة السابقة هنا (زعمت غيابه) كانت خطأً. الإشارة الآن عبر `related` وحده لتباين `part`. `belongs_to` يبقى فارغاً لغياب جذر سوسيولوجي عام."
+  - "**تعميقٌ 2026-09-14:** أُضيف رابط `dbt-marx-weber-class-stratification` (مسندٌ بـ`belongs_to` إلى `sch-marxist-classical-sociology`، ورُبط هنا أيضاً بحكم أن فيبر طرفٌ أصيل في الجدل)."
   - "الملفان التاليان في هذه الدفعة (سوسيولوجيا العقلنة والبيروقراطية، وسوسيولوجيا الأخلاق البروتستانتية) يُسندان إلى هذا الملف بـ`belongs_to` بوصفه فرعيهما المباشرين من مشروع فيبر الفهمي الأوسع."
 ---
 
