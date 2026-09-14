@@ -18,7 +18,10 @@ related:
 - id: "sch-intersectionality", title: "النسوية التقاطعية", type: "مدرسة"
 - id: "thk-bhooks", title: "بيل هوكس", type: "مفكر"
 - id: "thk-lorde", title: "أودري لورد", type: "مفكر"
+- id: "sch-critical-race-theory-law", title: "النظريةُ العنصريةُ النقدية (Critical Race Theory — CRT)", type: "مدرسة"
+- id: "thk-derrick-bell", title: "دِريك بِل (Derrick Bell)", type: "مفكر"
 gaps:
+  - "**ربطٌ من قسم نظرية القانون (2026-09-15)**: أُضيف `sch-critical-race-theory-law` و`thk-derrick-bell` — يوثّقان السياقَ القانونيَّ الذي أنتج التقاطعية (النظرية العنصرية النقدية) دون تكرار سيرة كرنشو أو مفهومها هنا."
   - "نصوص Crenshaw (Demarginalizing the Intersection, Mapping the Margins) تحتاج مراجعة من المصدر الأولي."
   - "لا يوجد اقتباس مباشر من *Mapping the Margins* (1991) بترجمة عربية معتمدة."
 ---

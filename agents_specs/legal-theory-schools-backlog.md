@@ -33,7 +33,7 @@
 - [x] الواقعيةُ القانونيةُ الأمريكية (هولمز، لويلين، فرانك — «ما تفعله المحاكم فعلاً») — الدفعةُ 9: `sch-american-legal-realism`، `thk-oliver-wendell-holmes-jr`، `con-prediction-theory-of-law-holmes`، `thk-karl-llewellyn`، `thk-jerome-n-frank` (تنبيهٌ صريح لعدم الخلط بـ`thk-jerome-frank` القائم)
 - [ ] الواقعيةُ الاسكندنافية (هاغرستروم، روس)
 - [x] الدراساتُ القانونيةُ النقدية (CLS — كنيدي، أنغر، لاإحداثيةُ القانون) — الدفعةُ 10: `sch-critical-legal-studies`، `thk-duncan-kennedy`، `thk-roberto-unger`، `con-legal-indeterminacy-cls`
-- [ ] النظريةُ العنصريةُ النقدية (CRT — بِل، كرِنشو، **والتقاطعية**)
+- [x] النظريةُ العنصريةُ النقدية (CRT — بِل، كرِنشو، **والتقاطعية**) — الدفعةُ 11: `sch-critical-race-theory-law`، `thk-derrick-bell`، `con-interest-convergence-bell`؛ ربط بـ`thk-crenshaw` القائم (فلسفة) دون استنساخ
 - [ ] الفقهُ القانونيُّ النسويُّ (ماكينون، ويست، غيليغان في القانون) — **جسرٌ إلى علم النفس**
 - [ ] القانونُ ما بعدَ الاستعماريُّ والقانونُ المقارَن النقديّ
 
