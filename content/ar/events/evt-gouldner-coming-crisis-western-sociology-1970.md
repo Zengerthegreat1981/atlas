@@ -17,8 +17,10 @@ edges:
 - rel: "belongs_to", target: "sch-parsonian-action-frame", target_type: "مدرسة"
 related:
 - id: "thk-gouldner", title: "ألفن غولدنر", type: "مفكر"
+- id: "evt-kuhn-paradigm-shift-sociology-preparadigmatic-debate-1962", title: "استيراد نموذج كوهن للثورات العلمية إلى علم الاجتماع وجدل «ما قبل النموذج الإرشادي» (1962-1975)", type: "حدث تاريخي"
 gaps:
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بسدّ فجوة كاملة في نوع `evt-` ضمن قسم علم الاجتماع."
+  - "**تعميقٌ 2026-09-15:** رُبط بـ`evt-kuhn-paradigm-shift-sociology-preparadigmatic-debate-1962` (الإطار التفسيري الذي استُعير لتحليل هذه الأزمة نفسها)."
 ---
 
 # نشر «الأزمة القادمة لعلم الاجتماع الغربي» لغولدنر وإعلان أفول الإجماع البارسونزي (1970)
