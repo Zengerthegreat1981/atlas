@@ -20,6 +20,7 @@ related:
 - id: "thk-franz-boas", title: "فرانز بواس (Franz Boas)", type: "مفكر"
 - id: "dbt-mead-freeman-samoa-controversy", title: "جدلُ ميد–فريمان في ساموا (The Mead–Freeman Controversy)", type: "جدل"
 - id: "wrk-coming-of-age-samoa-mead", title: "البلوغُ في ساموا (Coming of Age in Samoa)", type: "عمل / كتاب"
+- id: "wrk-sex-temperament-mead", title: "الجنسُ والمزاجُ في ثلاث مجتمعات بدائية (Sex and Temperament)", type: "عمل / كتاب"
 gaps: []
 ---
 # مارغريت ميد (Margaret Mead)
