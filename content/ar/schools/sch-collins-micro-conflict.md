@@ -18,10 +18,12 @@ edges: []
 related:
 - id: "thk-randall-collins", title: "راندال كولينز", type: "مفكر"
 - id: "con-interaction-ritual-chains-collins", title: "سلاسل طقوس التفاعل والطاقة العاطفية (Interaction Ritual Chains)", type: "مفهوم"
+- id: "sch-goffmanian-interaction-rituals", title: "طقوس التفاعل اليومي وحفظ ماء الوجه", type: "مدرسة"
+- id: "dbt-collins-micro-macro-synthesis", title: "جدل التركيب المجهري-الكلي: هل البنية الاجتماعية «حقيقية» أم تراكم تفاعلات؟", type: "جدل"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-randall-collins`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
-  - "يجمع هذا التيار بين نظرية الصراع الكلاسيكية (فيبر) وطقوس التفاعل الغوفمانية-الدوركهايمية؛ الجسر التفصيلي إلى `sch-goffmanian-interaction-rituals` لم يُبنَ بعد كعلاقة صريحة في هذا الملف."
+  - "**تعميقٌ 2026-09-14:** بُني الجسر الصريح إلى `sch-goffmanian-interaction-rituals` (كان مذكوراً نصياً فقط) وأُضيف `dbt-collins-micro-macro-synthesis`."
 ---
 
 # سوسيولوجيا الصراع المجهرية وسلاسل طقوس التفاعل
