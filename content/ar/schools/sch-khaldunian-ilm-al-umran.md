@@ -19,7 +19,9 @@ related:
 - id: "thk-ibn-khaldun", title: "عبد الرحمن بن محمد بن خلدون الحضرمي", type: "مفكر"
 - id: "sch-khaldunian-historical-sociology", title: "سوسيولوجيا العمران والتحول البدوي-الحضري الخلدونية", type: "مدرسة"
 - id: "con-asabiyyah-ibn-khaldun", title: "العصبية عند ابن خلدون", type: "مفهوم"
+- id: "dbt-ibn-khaldun-founder-of-sociology", title: "جدل أسبقية ابن خلدون في تأسيس علم الاجتماع", type: "جدل"
 gaps:
+  - "**تعميقٌ 2026-09-14:** أُضيف `dbt-ibn-khaldun-founder-of-sociology` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 1 من مهمة بناء قسم علم الاجتماع (القسم 1 من `sociology-schools-backlog.md`). `belongs_to` تُرك فارغاً: لا جذر سوسيولوجي عام في المستودع بعد."
   - "**سُدَّ 2026-09-14 (الدفعة 12):** كُتب `con-asabiyyah-ibn-khaldun` (ملف مفهوم مستقل يفصّل «العصبية») وأُضيف رابطه هنا."
   - "ملف `thk-ibn-khaldun` القائم موسومٌ `part: \"philosophy\"` لا `sociology` — فلا يصحّ ربطه بـ`belongs_to` (الفحص القاطع [12] يرفض تباين `part`). الإشارة هنا عبر `related` فقط، وهو حقل لا يشترط تطابق `part`."
