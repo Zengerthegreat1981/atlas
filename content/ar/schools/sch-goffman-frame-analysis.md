@@ -18,8 +18,10 @@ edges:
 - rel: "belongs_to", target: "sch-goffman-dramaturgical", target_type: "مدرسة"
 related:
 - id: "con-frame-analysis-goffman", title: "الإطار والتحويل والتلفيق عند غوفمان", type: "مفهوم"
+- id: "wrk-frame-analysis-goffman", title: "تحليل الأطر: مقال في تنظيم الخبرة", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2)، ويكمل `sch-goffman-dramaturgical` المنشأ في الدفعة نفسها."
+  - "**تعميقٌ 2026-09-14:** أُضيف `wrk-frame-analysis-goffman` وربطه هنا."
   - "**سُدَّ 2026-09-14 (الدفعة 23):** كُتب `con-frame-analysis-goffman` وأُضيف رابطه هنا."
 ---
 
