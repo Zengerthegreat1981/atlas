@@ -16,9 +16,12 @@ active_start: 1904
 active_end: 1922
 edges:
 - rel: "belongs_to", target: "sch-weberian-interpretive-sociology", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-weber", title: "ماكس فيبر", type: "مفكر"
+- id: "con-iron-cage-rationalization-weber", title: "العقلنة والقفص الحديدي عند فيبر", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 1 من مهمة بناء قسم علم الاجتماع (القسم 1)، ويكمل `sch-weberian-interpretive-sociology` المنشأ في الدفعة نفسها. `related` تُرك فارغاً حتى يُكتب `thk-weber`."
+  - "هذا الملف أُنشئ في الدفعة 1 من مهمة بناء قسم علم الاجتماع (القسم 1)، ويكمل `sch-weberian-interpretive-sociology` المنشأ في الدفعة نفسها. `thk-weber` القائم موسومٌ `part: \"philosophy\"`، فالربط عبر `related` وحده لا `belongs_to`."
+  - "**سُدَّت الفجوة 2026-09-14:** كُتب `con-iron-cage-rationalization-weber` وأُضيف رابطه هنا مع رابط `thk-weber`."
 ---
 
 # سوسيولوجيا العقلنة والبيروقراطية
