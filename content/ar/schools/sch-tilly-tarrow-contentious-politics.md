@@ -18,8 +18,11 @@ edges:
 - rel: "belongs_to", target: "sch-skocpol-comparative-historical-revolutions", target_type: "مدرسة"
 related:
 - id: "sch-sociology-of-social-movements-collective-action", title: "سوسيولوجيا الحركات الاجتماعية والعمل الجماعي", type: "مدرسة"
+- id: "thk-charles-tilly", title: "تشارلز تيلي", type: "مفكر"
+- id: "con-repertoires-of-contention-tilly", title: "مستودعات المنازعة (Repertoires of Contention)", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)، ويكمل `sch-skocpol-comparative-historical-revolutions` المنشأ في الدفعة نفسها. لا يوجد بعد ملفات مستقلة لتشارلز تيلي (`thk-charles-tilly`) أو سيدني تارو (`thk-sidney-tarrow`)."
+  - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)، ويكمل `sch-skocpol-comparative-historical-revolutions` المنشأ في الدفعة نفسها."
+  - "**سُدَّ جزئياً 2026-09-14 (دفعة تالية):** أُنشئ `thk-charles-tilly`. سيدني تارو (`thk-sidney-tarrow`) لا يزال بلا ملف مستقل."
 ---
 
 # سوسيولوجيا الحركات الاجتماعية وعمليات التعبئة

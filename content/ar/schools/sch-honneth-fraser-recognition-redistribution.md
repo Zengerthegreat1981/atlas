@@ -18,8 +18,12 @@ edges:
 - rel: "belongs_to", target: "sch-frankfurt-critical-sociology", target_type: "مدرسة"
 related:
 - id: "sch-fraser-social-reproduction-crisis-of-care", title: "سوسيولوجيا أزمة الرعاية والعدالة الرأسمالية", type: "مدرسة"
+- id: "thk-nancy-fraser", title: "نانسي فريزر", type: "مفكر"
+- id: "thk-axel-honneth", title: "أكسل هونيث", type: "مفكر"
+- id: "con-recognition-theory-honneth", title: "الاعتراف والصراع من أجل الكرامة (Recognition Theory)", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)، ويكمل `sch-frankfurt-critical-sociology` المنشأ في الدفعة نفسها. لا يوجد بعد ملفات مستقلة لأكسل هونيث (`thk-axel-honneth`) أو نانسي فريزر (`thk-nancy-fraser`)."
+  - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)، ويكمل `sch-frankfurt-critical-sociology` المنشأ في الدفعة نفسها."
+  - "**سُدَّ 2026-09-14 (دفعة تالية):** أُضيف رابط `thk-nancy-fraser` (موجودة من دفعة سابقة، القسم 7) ومفهوم الاعتراف عند هونيث (part: philosophy، عبر related). أكسل هونيث (`thk-axel-honneth`) موجود بملف مستقل موسوم part: philosophy أيضاً؛ لم يُنشأ ملف sociology مكرَّر له."
 ---
 
 # سوسيولوجيا الاعتراف والعدالة التوزيعية

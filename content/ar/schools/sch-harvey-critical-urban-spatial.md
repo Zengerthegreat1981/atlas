@@ -16,9 +16,12 @@ active_start: 1973
 active_end: 2003
 edges:
 - rel: "belongs_to", target: "sch-lefebvrean-spatial-sociology", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-david-harvey", title: "ديفيد هارفي", type: "مفكر"
+- id: "con-spatial-fix-harvey", title: "الإصلاح المكاني وأزمات فيض التراكم (Spatial Fix)", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)، ويكمل `sch-lefebvrean-spatial-sociology` المنشأ في الدفعة نفسها. لا يوجد بعد ملف مستقل لديفيد هارفي (`thk-david-harvey`)."
+  - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)، ويكمل `sch-lefebvrean-spatial-sociology` المنشأ في الدفعة نفسها."
+  - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-david-harvey`."
 ---
 
 # الجغرافيا الماركسية والتراكم المكاني

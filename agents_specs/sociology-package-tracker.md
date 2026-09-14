@@ -436,12 +436,12 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 - [x] `sch-laclau-mouffe-discourse-hegemony` — ما بعد الماركسية والتحليل الخطابي للصراع (Laclau & Mouffe's Discourse & Hegemony Theory)
 - [x] `sch-miliband-poulantzas-state-theory` — سوسيولوجيا الدولة الرأسمالية (Miliband-Poulantzas State Theory)
 - [x] `sch-wright-analytical-marxist-class` — التحليل الطبقي والمواقع المتناقضة (Wright's Analytical Marxist Class Theory)
-- [ ] `sch-lefebvrean-spatial-sociology` — سوسيولوجيا الفضاء والحق في المدينة (Lefebvrean Spatial Sociology)
-- [ ] `sch-harvey-critical-urban-spatial` — الجغرافيا الماركسية والتراكم المكاني (Harvey's Critical Urban & Spatial Sociology)
-- [ ] `sch-braverman-labor-process` — سوسيولوجيا عملية العمل ونزع المهارة (Braverman's Labor Process Theory)
-- [ ] `sch-honneth-fraser-recognition-redistribution` — سوسيولوجيا الاعتراف والعدالة التوزيعية (Honneth & Fraser's Recognition & Redistribution Theory)
-- [ ] `sch-skocpol-comparative-historical-revolutions` — علم الاجتماع التاريخي والمقارن للثورات (Skocpol's Comparative-Historical Sociology of Revolutions)
-- [ ] `sch-tilly-tarrow-contentious-politics` — سوسيولوجيا الحركات الاجتماعية وعمليات التعبئة (Tilly & Tarrow's Contentious Politics & Social Movements)
+- [x] `sch-lefebvrean-spatial-sociology` — سوسيولوجيا الفضاء والحق في المدينة (Lefebvrean Spatial Sociology)
+- [x] `sch-harvey-critical-urban-spatial` — الجغرافيا الماركسية والتراكم المكاني (Harvey's Critical Urban & Spatial Sociology)
+- [x] `sch-braverman-labor-process` — سوسيولوجيا عملية العمل ونزع المهارة (Braverman's Labor Process Theory)
+- [x] `sch-honneth-fraser-recognition-redistribution` — سوسيولوجيا الاعتراف والعدالة التوزيعية (Honneth & Fraser's Recognition & Redistribution Theory)
+- [x] `sch-skocpol-comparative-historical-revolutions` — علم الاجتماع التاريخي والمقارن للثورات (Skocpol's Comparative-Historical Sociology of Revolutions)
+- [x] `sch-tilly-tarrow-contentious-politics` — سوسيولوجيا الحركات الاجتماعية وعمليات التعبئة (Tilly & Tarrow's Contentious Politics & Social Movements)
 
 ## 5. الظاهراتية، الإثنوميثودولوجيا، نظرية الممارسة وما بعد البنيوية (Phenomenological, Practice & Post-Structuralist)
 
