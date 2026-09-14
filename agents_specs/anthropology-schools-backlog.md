@@ -75,7 +75,7 @@
 - [x] نظريةُ الممارسة والهابيتوس (Bourdieu's Theory of Practice) — موجودةٌ مسبقاً تحت `part: "sociology"` (`thk-bourdieu`، `sch-bourdieu-practice-habitus` وأخواتها) بقلم جلسةٍ متزامنة؛ لم تُستنسَخ، سيُربَط إليها من دفعة الجسور الختامية.
 - [x] البنينةُ والفاعلية (Giddens/Ortner — Practice Theory in Anthropology) — `sch-anthropological-practice-theory`، `thk-sherry-ortner`
 - [x] أنثروبولوجيا الجسد والتجسيد (Embodiment — Csordas, Mauss's Techniques of the Body) — `sch-anthropology-of-embodiment`، `thk-thomas-csordas`
-- [ ] أنثروبولوجيا الحواسّ (Anthropology of the Senses)
+- [x] أنثروبولوجيا الحواسّ (Anthropology of the Senses) — `sch-anthropology-of-senses`، `thk-david-howes` — القسم 8 مكتملٌ الآن بالكامل
 
 ## 9. الأنثروبولوجيا الطبّية والنفسية (Medical & Psychological)
 

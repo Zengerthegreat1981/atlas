@@ -16,9 +16,12 @@ active_start: 1949
 active_end: 1950
 edges:
 - rel: "belongs_to", target: "sch-mertonian-middle-range", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-stouffer", title: "صمويل ستوفر", type: "مفكر"
+- id: "con-relative-deprivation-stouffer-merton", title: "الحرمان النسبي والجماعة المرجعية", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3)، ويكمل `sch-mertonian-middle-range` المنشأ في الدفعة نفسها. لا يوجد بعد ملف مستقل لصمويل ستوفر (`thk-stouffer`)، الذي صاغ «الحرمان النسبي» أصلاً قبل أن يبنيَ عليه ميرتون تنظيراً أوسع."
+  - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3)، ويكمل `sch-mertonian-middle-range` المنشأ في الدفعة نفسها."
+  - "**سُدَّ 2026-09-14 (الدفعة 37):** كُتب `thk-stouffer` و`con-relative-deprivation-stouffer-merton` وأُضيفت روابطهما هنا."
 ---
 
 # نظرية الجماعات المرجعية والحرمان النسبي
