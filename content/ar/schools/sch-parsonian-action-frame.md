@@ -19,8 +19,11 @@ related:
 - id: "sch-parsonian-structural-functionalism-agil", title: "الوظيفية البنائية الشاملة ونموذج AGIL", type: "مدرسة"
 - id: "sch-parsonian-pattern-variables", title: "متغيرات النمط ونظرية التحديث", type: "مدرسة"
 - id: "sch-neofunctionalism", title: "الوظيفية الجديدة والتركيب ما بعد البارسونزي", type: "مدرسة"
+- id: "thk-parsons", title: "تالكوت بارسونز", type: "مفكر"
+- id: "con-action-frame-of-reference-parsons", title: "الإطار المرجعي للفعل عند بارسونز", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3). لا يوجد بعد ملف مستقل لتالكوت بارسونز (`thk-parsons`)؛ `belongs_to` تُرك فارغاً."
+  - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3)."
+  - "**سُدَّ 2026-09-14 (الدفعة 33):** كُتب `thk-parsons` و`con-action-frame-of-reference-parsons` وأُضيفت روابطهما هنا."
 ---
 
 # نظرية الفعل الاجتماعي والتركيب البارسونزي

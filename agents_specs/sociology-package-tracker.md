@@ -203,6 +203,12 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 **أوّل بند للدفعة التالية:** الانتقال إلى القسم 3 (الوظيفية البنائية والتبادل) — أول بنوده:
 `sch-parsonian-action-frame`.
 
+**الدفعة 33 (2026-09-14):** أول بند من القسم 3. كُتب `thk-parsons` و`con-action-frame-of-reference-parsons`،
+وأُسندا إلى `sch-parsonian-action-frame` (موجودة سلفاً) وأُضيفت روابطهما فيها. الفحوص الثلاثة صفر
+على نطاق ملفات هذه الدفعة (الشجرة الكاملة تحمل تصادمات id وانزياحات في ملفات لسانية غير مُلتزمة
+لجلسة ثالثة يبدو أنها بدأت العمل بالتوازي على قسم اللغة). **أوّل بند للدفعة التالية:**
+`sch-parsonian-structural-functionalism-agil`.
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
@@ -252,7 +258,7 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 
 ## 3. الوظيفية البنائية، نظرية الأنساق ونظرية التبادل (Structural Functionalism, Systems & Exchange Theory)
 
-- [ ] `sch-parsonian-action-frame` — نظرية الفعل الاجتماعي والتركيب البارسونزي (Parsonian Action Frame of Reference)
+- [x] `sch-parsonian-action-frame` — نظرية الفعل الاجتماعي والتركيب البارسونزي (Parsonian Action Frame of Reference)
 - [ ] `sch-parsonian-structural-functionalism-agil` — الوظيفية البنائية الشاملة ونموذج AGIL (Parsonian Structural Functionalism)
 - [ ] `sch-parsonian-pattern-variables` — متغيرات النمط ونظرية التحديث (Parsonian Pattern Variables & Modernization Theory)
 - [ ] `sch-mertonian-middle-range` — وظيفية المدى المتوسط والتحليل البنائي (Mertonian Middle-Range Functionalism)
@@ -382,8 +388,8 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 - [x] `sch-sociology-of-family-gender-intimacy` — سوسيولوجيا الأسرة والنوع الاجتماعي والعلاقات الحميمية (Sociology of Family, Gender & Intimacy)
 - [x] `sch-sociology-of-migration-diaspora` — سوسيولوجيا الهجرة واللجوء والشتات (Sociology of Migration, Asylum & Diaspora)
 - [x] `sch-sociology-of-aging-life-course` — سوسيولوجيا الشيخوخة ودورة الحياة (Sociology of Aging & Life Course)
-- [ ] `sch-sociology-of-youth-subcultures` — سوسيولوجيا الشباب والثقافات الفرعية (Sociology of Youth & Subcultures)
-- [ ] `sch-sociology-of-art-literature-aesthetics` — سوسيولوجيا الفن والأدب والجماليات (Sociology of Art, Literature & Aesthetics)
-- [ ] `sch-sociology-of-law-social-control` — سوسيولوجيا القانون والضبط الاجتماعي (Sociology of Law & Social Control)
-- [ ] `sch-sociology-of-social-movements-collective-action` — سوسيولوجيا الحركات الاجتماعية والعمل الجماعي (Sociology of Social Movements & Collective Action)
-- [ ] `sch-military-sociology-armed-conflict` — السوسيولوجيا العسكرية والنزاعات المسلحة (Military Sociology & Armed Conflict)
+- [x] `sch-sociology-of-youth-subcultures` — سوسيولوجيا الشباب والثقافات الفرعية (Sociology of Youth & Subcultures)
+- [x] `sch-sociology-of-art-literature-aesthetics` — سوسيولوجيا الفن والأدب والجماليات (Sociology of Art, Literature & Aesthetics)
+- [x] `sch-sociology-of-law-social-control` — سوسيولوجيا القانون والضبط الاجتماعي (Sociology of Law & Social Control)
+- [x] `sch-sociology-of-social-movements-collective-action` — سوسيولوجيا الحركات الاجتماعية والعمل الجماعي (Sociology of Social Movements & Collective Action)
+- [x] `sch-military-sociology-armed-conflict` — السوسيولوجيا العسكرية والنزاعات المسلحة (Military Sociology & Armed Conflict)
