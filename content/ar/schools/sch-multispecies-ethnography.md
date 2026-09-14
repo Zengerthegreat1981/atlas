@@ -18,6 +18,7 @@ edges:
 - rel: "belongs_to", target: "sch-ontological-turn", target_type: "مدرسة"
 related:
 - id: "thk-anna-tsing", title: "آنّا تسينغ (Anna Tsing)", type: "مفكر"
+- id: "sch-anthropology-of-anthropocene", title: "أنثروبولوجيا الأنثروبوسين والمناخ (Anthropology of the Anthropocene)", type: "مدرسة"
 gaps:
   - "إدواردو كون (How Forests Think) ودونا هاراوي لم يُكتبا بعد كملفّين مستقلّين؛ ذُكرا نصّاً فقط ضمن ملفّ تسينغ وهذا الملفّ."
 ---
