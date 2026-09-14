@@ -19,8 +19,10 @@ edges:
 related:
 - id: "thk-stouffer", title: "صمويل ستوفر", type: "مفكر"
 - id: "con-relative-deprivation-stouffer-merton", title: "الحرمان النسبي والجماعة المرجعية", type: "مفهوم"
+- id: "wrk-american-soldier-stouffer", title: "الجندي الأمريكي: التكيّف أثناء الحياة العسكرية", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3)، ويكمل `sch-mertonian-middle-range` المنشأ في الدفعة نفسها."
+  - "**تعميقٌ 2026-09-14:** أُضيف `wrk-american-soldier-stouffer` وربطه هنا."
   - "**سُدَّ 2026-09-14 (الدفعة 37):** كُتب `thk-stouffer` و`con-relative-deprivation-stouffer-merton` وأُضيفت روابطهما هنا."
 ---
 
