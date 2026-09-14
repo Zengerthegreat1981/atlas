@@ -39,7 +39,7 @@
 - [x] دراساتُ الكتاب المقدّس النقديةُ (النقدُ الأعلى، فرضيةُ الوثائق) — `sch-higher-criticism-biblical-studies` + `thk-julius-wellhausen` + `con-documentary-hypothesis-wellhausen`، الدفعة 3
 - [ ] دراسةُ الأديان الهنديةِ والبوذية أكاديمياً
 - [ ] الأديانُ الأفريقيةُ التقليديةُ ونقدُ تصنيفها
-- [ ] الشامانيةُ بوصفها فئةً مقارَنة — **تقاطعٌ مع الأنثروبولوجيا**
+- [x] الشامانيةُ بوصفها فئةً مقارَنة — `sch-shamanism-comparative-category` + `con-shamanism-category-critique-kehoe` (يربطان بـ`thk-mircea-eliade` الموجود مسبقاً دون تكرار وصف *Le Chamanisme*)، الدفعة 6
 - [x] الحركاتُ الدينيةُ الجديدةُ ومسألةُ «الطائفة» (NRMs & the Cult Debate) — `sch-new-religious-movements-cult-debate` + `thk-eileen-barker` + `con-brainwashing-conversion-debate`، الدفعة 4
 
 ## 6. الطقسُ والأسطورةُ والرمز
