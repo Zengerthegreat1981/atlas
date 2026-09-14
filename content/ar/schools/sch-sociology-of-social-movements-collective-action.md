@@ -19,7 +19,9 @@ related:
 - id: "sch-tilly-tarrow-contentious-politics", title: "سوسيولوجيا الحركات الاجتماعية وعمليات التعبئة", type: "مدرسة"
 - id: "thk-doug-mcadam", title: "دوغ ماك آدم", type: "مفكر"
 - id: "con-political-process-model-mcadam", title: "نموذج العملية السياسية (Political Process Model)", type: "مفهوم"
+- id: "con-collective-action-frames-snow-benford", title: "أطر الفعل الجماعي (Collective Action Frames)", type: "مفهوم"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `con-collective-action-frames-snow-benford` (يُفرد إطار «تأطير الاحتجاج» الثالث المذكور في المتن) وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8)، ويكمل `sch-tilly-tarrow-contentious-politics` (الدفعة 4) بإطار «العملية السياسية» الأكثر تركيزاً على الفرص السياسية المؤسسية."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-doug-mcadam`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
 ---
