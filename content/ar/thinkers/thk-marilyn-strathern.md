@@ -16,6 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-feminist-anthropology", target_type: "مدرسة"
 related:
 - id: "sch-feminist-anthropology", title: "الأنثروبولوجيا النسوية وأنثروبولوجيا الجندر (Feminist Anthropology)", type: "مدرسة"
+- id: "con-dividual-strathern", title: "الشخصُ القابلُ للقسمة (Dividual)", type: "مفهوم"
 gaps: []
 ---
 # ماريلين ستراذرن (Marilyn Strathern)

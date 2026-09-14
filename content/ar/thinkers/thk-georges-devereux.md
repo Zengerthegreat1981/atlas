@@ -16,6 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-ethnopsychiatry-culture-bound-syndromes", target_type: "مدرسة"
 related:
 - id: "sch-ethnopsychiatry-culture-bound-syndromes", title: "الإثنوبسيكياتري ومتلازماتُ الثقافة (Ethnopsychiatry & Culture-Bound Syndromes)", type: "مدرسة"
+- id: "con-culture-bound-syndrome-definition", title: "المتلازمةُ المرتبطة بالثقافة (Culture-Bound Syndrome)", type: "مفهوم"
 gaps: []
 ---
 # جورج ديفرو (Georges Devereux)

@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-amerindian-perspectivism", title: "المنظوريةُ الأمازونية وتعدّدُ الطبائع (Amerindian Perspectivism)", type: "مدرسة"
 - id: "thk-claude-levi-strauss", title: "كلود ليفي-ستراوس", type: "مفكر"
+- id: "con-multinaturalism-viveiros-de-castro", title: "تعدّدُ الطبائع (Multinaturalism)", type: "مفهوم"
 gaps:
   - "علاقتُه بكلود ليڤي-ستروس مذكورةٌ نصّاً (استعارةٌ وتجاوزٌ لبنيويته)؛ لم يُضَف ضلعُ evolved_from صريح لأنّ ملفّ ليڤي-ستروس موسومٌ حالياً `part: \"philosophy\"` والقرارُ بشأنه مُرجَأ (انظر DR-013)."
 ---

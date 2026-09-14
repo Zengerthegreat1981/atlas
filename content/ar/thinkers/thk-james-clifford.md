@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-writing-culture-crisis", title: "أزمةُ التمثيل وكتابةُ الثقافة (Writing Culture — Clifford & Marcus)", type: "مدرسة"
 - id: "thk-talal-asad", title: "طلال أسد (Talal Asad)", type: "مفكر"
+- id: "con-crisis-of-representation-anthropology", title: "أزمةُ التمثيل (Crisis of Representation)", type: "مفهوم"
 gaps: []
 ---
 # جيمس كليفورد (James Clifford)
