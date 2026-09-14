@@ -417,7 +417,7 @@ def main():
     bad("بادئةٌ خارجَ المعجم", len(op), op, fatal=False) if op else ok("كلُّ بادئةٍ من المعجم")
     lv = [f"{s}: «{d[s].get('level')}»" for s in d if d[s].get("level") not in ("مبتدئ", "متوسط", "متقدم")]
     bad("`level` خارجَ المعجم", len(lv), lv) if lv else ok("`level` من المعجم في كلِّ عقدة")
-    pt = [f"{s}: «{d[s].get('part')}»" for s in d if d[s].get("part") not in ("philosophy", "psychology", "bridge", "sociology", "linguistics", "anthropology")]
+    pt = [f"{s}: «{d[s].get('part')}»" for s in d if d[s].get("part") not in ("philosophy", "psychology", "bridge", "sociology", "linguistics", "anthropology", "historiography", "religious-studies", "legal-theory")]
     bad("`part` خارجَ المعجم", len(pt), pt, fatal=False) if pt else ok("`part` من المعجم في كلِّ عقدة")
     # `evidence_level` معجمُ فعاليةِ علاجٍ لا وصفٌ حرّ — وكان 51 ملفاً يكتب فيه
     # جملةً نثريةً كاملة. وأدواتُ القياس لا ينطبق عليها هذا المعجم أصلاً، فنُقلت
