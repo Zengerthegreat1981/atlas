@@ -19,8 +19,10 @@ related:
 - id: "sch-becker-labeling-theory", title: "نظرية الوصم والانحراف كمسار مهني", type: "مدرسة"
 - id: "thk-lemert", title: "إدوين ليمرت", type: "مفكر"
 - id: "con-primary-secondary-deviance", title: "الانحراف الأولي والثانوي عند ليمرت", type: "مفهوم"
+- id: "wrk-social-pathology-lemert", title: "الأمراض الاجتماعية: مقاربة منهجية لنظرية السلوك الاعتلالي الاجتماعي", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2)."
+  - "**تعميقٌ 2026-09-14:** أُضيف `wrk-social-pathology-lemert` وربطه هنا."
   - "**سُدَّ 2026-09-14 (الدفعة 25):** كُتب `thk-lemert` و`con-primary-secondary-deviance` وأُضيفت روابطهما هنا."
 ---
 
