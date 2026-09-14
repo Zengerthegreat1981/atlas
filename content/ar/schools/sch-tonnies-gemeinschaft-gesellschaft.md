@@ -17,8 +17,11 @@ active_end: 1936
 edges: []
 related:
 - id: "thk-tonnies", title: "فرديناند تونيس", type: "مفكر"
+- id: "con-gemeinschaft-gesellschaft", title: "الجماعة والمجتمع (Gemeinschaft und Gesellschaft)", type: "مفهوم"
+- id: "dbt-tonnies-durkheim-solidarity-typologies", title: "جدل تصنيفَي الرابطة الاجتماعية: تونيس مقابل دوركهايم", type: "جدل"
 gaps:
   - "**سُدَّ 2026-09-14 (مرحلة الحزم، دفعة 9):** كُتب `thk-tonnies` وأُسند إلى هذا الملف بـ`belongs_to`."
+  - "**تعميقٌ 2026-09-14:** أُضيف رابط `con-gemeinschaft-gesellschaft` (كُتب بالدفعة 10، لم يُربط هنا بالخطإ) و`dbt-tonnies-durkheim-solidarity-typologies` (جديد)."
 ---
 
 # ثنائية المجتمع المحلي والمجتمع التعاقدي
