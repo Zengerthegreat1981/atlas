@@ -16,6 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-ingold-dwelling-perspective", target_type: "مدرسة"
 related:
 - id: "sch-ingold-dwelling-perspective", title: "أنثروبولوجيا السكن والمهارة (Ingold — Dwelling, Lines, Making)", type: "مدرسة"
+- id: "con-taskscape-ingold", title: "المشهدُ العمليّ (Taskscape)", type: "مفهوم"
 gaps: []
 ---
 # تيم إنغولد (Tim Ingold)

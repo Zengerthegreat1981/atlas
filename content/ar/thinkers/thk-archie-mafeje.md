@@ -16,6 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-african-postcolonial-anthropology", target_type: "مدرسة"
 related:
 - id: "sch-african-postcolonial-anthropology", title: "الأنثروبولوجيا الأفريقية وما بعدَ الاستعمارية (Mafeje, Mudimbe, Comaroffs)", type: "مدرسة"
+- id: "con-ideology-of-tribalism-mafeje", title: "إيديولوجيا القبلية (The Ideology of Tribalism)", type: "مفهوم"
 gaps:
   - "ڤ. ي. موديمبي (V.Y. Mudimbe، The Invention of Africa) والزوجان كوماروف (Jean & John Comaroff) لم يُكتبوا بعد كملفّاتٍ مستقلّة؛ سيُضافون إن توفّرت دفعةٌ لاحقة."
 ---

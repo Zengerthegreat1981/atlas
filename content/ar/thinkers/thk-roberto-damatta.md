@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-latin-american-indigenous-anthropology", title: "الأنثروبولوجيا اللاتينية والسكانُ الأصليون (Indigenous & Latin American Anthropology)", type: "مدرسة"
 - id: "thk-victor-turner", title: "فيكتور تيرنر (Victor Turner)", type: "مفكر"
+- id: "con-house-street-damatta", title: "البيتُ والشارع (A Casa e a Rua)", type: "مفهوم"
 gaps: []
 ---
 # روبرتو داماتا (Roberto DaMatta)

@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-feminist-anthropology", title: "الأنثروبولوجيا النسوية وأنثروبولوجيا الجندر (Feminist Anthropology)", type: "مدرسة"
 - id: "thk-talal-asad", title: "طلال أسد (Talal Asad)", type: "مفكر"
+- id: "con-veiled-sentiments-honor-poetry", title: "الشعرُ الشفهيّ والشرفُ عند البدو (Veiled Sentiments)", type: "مفهوم"
 gaps: []
 ---
 # ليلى أبو لغد (Lila Abu-Lughod)
