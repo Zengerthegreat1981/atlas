@@ -19,6 +19,7 @@ edges:
 related:
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
 - id: "con-episteme-foucault", title: "الإبستميه ونظام الخطاب المعرفي (Episteme)", type: "مفهوم"
+- id: "wrk-the-order-of-things-foucault", title: "الكلمات والأشياء لميشيل فوكو (Les Mots et les Choses)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5)، ويكمل `sch-foucauldian-disciplinary-power` المنشأ في الدفعة نفسها."
   - "ملف `thk-foucault` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده."

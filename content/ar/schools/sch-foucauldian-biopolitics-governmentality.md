@@ -20,6 +20,7 @@ related:
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
 - id: "con-biopolitics-and-biopower", title: "السلطة الحيوية والبيوبوليتيك (Biopolitics and Biopower)", type: "مفهوم"
 - id: "con-governmentality-foucault", title: "الحكومية وعقلانية الحكم (Governmentality)", type: "مفهوم"
+- id: "wrk-history-of-sexuality-vol1-foucault", title: "إرادة المعرفة: تاريخ الجنسانية، المجلد الأول (La Volonté de savoir)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5)، ويكمل `sch-foucauldian-disciplinary-power` المنشأ في الدفعة نفسها."
   - "ملف `thk-foucault` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده."

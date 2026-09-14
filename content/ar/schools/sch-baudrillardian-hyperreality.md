@@ -19,6 +19,7 @@ related:
 - id: "thk-jean-baudrillard", title: "جان بودريار", type: "مفكر"
 - id: "sch-deleuzian-assemblage-sociology", title: "سوسيولوجيا التجميع والإنتاج الاجتماعي", type: "مدرسة"
 - id: "con-simulacra-and-simulation", title: "المصطنع والمحاكاة الفائقة (Simulacra and Simulation)", type: "مفهوم"
+- id: "wrk-simulacra-and-simulation-baudrillard", title: "المحاكاة والمصطنع لجان بودريار", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5). ملف `thk-jean-baudrillard` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده. `belongs_to` لهذا الملف نفسه تُرك فارغاً."
 ---
