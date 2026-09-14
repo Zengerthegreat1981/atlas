@@ -15,9 +15,13 @@ language: "الإنجليزية"
 active_start: 1939
 active_end: 1949
 edges: []
-related: []
+related:
+- id: "thk-sutherland", title: "إدوين ساذرلاند", type: "مفكر"
+- id: "con-differential-association-theory", title: "نظرية الارتباط التفاضلي عند ساذرلاند", type: "مفهوم"
+- id: "con-white-collar-crime-sutherland", title: "جرائم الياقات البيضاء عند ساذرلاند", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2). لا يوجد بعد ملف مستقل لإدوين ساذرلاند (`thk-sutherland`)؛ `belongs_to` تُرك فارغاً."
+  - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2)."
+  - "**سُدَّ 2026-09-14 (الدفعة 26):** كُتب `thk-sutherland`، `con-differential-association-theory`، و`con-white-collar-crime-sutherland` وأُضيفت روابطها هنا."
 ---
 
 # نظرية الارتباط التفاضلي وجرائم الياقات البيضاء
