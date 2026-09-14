@@ -70,7 +70,7 @@
 
 - [x] اللسانياتُ الاجتماعيةُ المتغيّرية (Labovian Variationist Sociolinguistics) — `sch-variationist-sociolinguistics`، `thk-william-labov`، `stu-labov-department-store-r` (الدفعة 7).
 - [ ] إثنوغرافيا التواصل والكفايةُ التواصلية (Hymes — SPEAKING)
-- [ ] الازدواجيةُ اللغويةُ والفصحى والعامّية (Diglossia — Ferguson، والحالةُ العربية)
+- [x] الازدواجيةُ اللغويةُ والفصحى والعامّية (Diglossia — Ferguson، والحالةُ العربية) — `thk-charles-ferguson`، `con-diglossia` (الدفعة 12). حيادٌ صريحٌ محفوظ إزاء سياسات اللغة العربية المعاصرة، مطابقةً لتوجيهات المهمّة.
 - [ ] اللغةُ والجندر (Lakoff، Tannen، Eckert)
 - [ ] التماسُّ اللغويُّ والكريول والبِجن (Contact Linguistics)
 - [ ] السياسةُ اللغويةُ وموتُ اللغات وإحياؤها (Language Policy & Endangerment)
