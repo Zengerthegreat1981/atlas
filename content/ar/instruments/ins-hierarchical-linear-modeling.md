@@ -17,6 +17,7 @@ edges:
 related:
 - id: "ins-event-history-analysis", title: "تحليل تاريخ الأحداث (Event History Analysis)", type: "منهج/أداة بحث"
 - id: "evt-coleman-report-equality-educational-opportunity-1966", title: "صدور تقرير كولمان «المساواة في الفرص التعليمية» وصدمة الاكتشاف حول أثر الأقران (1966)", type: "حدث تاريخي"
+- id: "ins-natural-experiment-method", title: "التجربة الطبيعية (Natural Experiment)", type: "منهج/أداة بحث"
 gaps:
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بسدّ فجوة كاملة في نوع `ins-` ضمن قسم علم الاجتماع. ستيفن رودنبوش (Stephen Raudenbush) لا يزال بلا ملف مستقل. الإسناد إلى `sch-sociology-of-education-cultural-capital` تقريبي بحكم أوسع تطبيقات المنهج تاريخياً (تحليل تأثير الفصل الدراسي والمدرسة على أداء الطلاب الفردي)."
 ---
