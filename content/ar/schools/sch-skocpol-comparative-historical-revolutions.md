@@ -19,8 +19,10 @@ related:
 - id: "sch-tilly-tarrow-contentious-politics", title: "سوسيولوجيا الحركات الاجتماعية وعمليات التعبئة", type: "مدرسة"
 - id: "thk-skocpol", title: "ثيدا سكوتشبول", type: "مفكر"
 - id: "con-state-centered-revolutions-skocpol", title: "الثورات الاجتماعية والانهيار البنيوي للدولة (State-Centered Revolutions)", type: "مفهوم"
+- id: "dbt-skocpol-sewell-structure-vs-ideology-revolutions", title: "جدل تفسير الثورات: الانهيار البنيوي عند سكوتشبول مقابل نقد سيويل الثقافي-الأيديولوجي", type: "جدل"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)."
+  - "**تعميقٌ 2026-09-15:** أُضيف `dbt-skocpol-sewell-structure-vs-ideology-revolutions` (يُفرد نقد إغفال الأيديولوجيا المذكور في المتن) وربطه هنا."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-skocpol`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
 ---
 
