@@ -16,7 +16,7 @@
 - [ ] السياسةُ الشرعيةُ والفرقُ بين الفقه والقانون
 
 ## 2. الوضعيةُ القانونية
-- [ ] الوضعيةُ القانونيةُ الكلاسيكيةُ (بنثام، جون أوستن ونظريةُ الأمر)
+- [x] الوضعيةُ القانونيةُ الكلاسيكيةُ (بنثام، جون أوستن ونظريةُ الأمر) — الدفعةُ 8: `thk-john-austin-jurisprudence` (مع تنبيهٍ صريح على عدم الخلط بـ`thk-jaustin`)، `con-command-theory-of-law-austin`؛ ربط بـ`thk-bentham` القائم
 - [x] النظريةُ الخالصةُ للقانون (كِلسن، القاعدةُ الأساسيةُ Grundnorm، هرمُ القواعد) — الدفعةُ 3: `thk-hans-kelsen`، `con-grundnorm-basic-norm-kelsen`، `wrk-pure-theory-of-law-kelsen`، `sch-legal-positivism-modern`
 - [x] هارت ومفهومُ القانون (القواعدُ الأوليةُ والثانوية، قاعدةُ الاعتراف) — الدفعةُ 3: `thk-hla-hart`، `con-rule-of-recognition-hart`، `wrk-the-concept-of-law-hart`
 - [x] جدلُ هارت–فولر (القانونُ والأخلاقُ وقضايا ما بعد النازية) — الدفعةُ 3: `thk-lon-fuller`، `con-internal-morality-of-law-fuller`، `wrk-the-morality-of-law-fuller`، `dbt-hart-fuller-law-morality-debate`

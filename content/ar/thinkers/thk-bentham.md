@@ -19,7 +19,9 @@ related:
 - id: "sch-utilitarianism", title: "النفعية", type: "مدرسة"
 - id: "thk-mill", title: "جون ستيوارت ميل", type: "مفكر"
 - id: "thk-hume", title: "ديفيد هيوم", type: "مفكر"
+- id: "thk-john-austin-jurisprudence", title: "جون أوستن (John Austin — نظريةُ الأمر القانونية)", type: "مفكر"
 gaps:
+  - "**ربطٌ من قسم نظرية القانون (2026-09-15)**: أُضيف `thk-john-austin-jurisprudence` — تلميذُه المباشرُ الذي أسّس الوضعيةَ القانونيةَ الكلاسيكيةَ أكاديمياً، مطوّراً نقدَ بنثام لبلاكستون إلى نظريةٍ منهجيةٍ متكاملة (نظريةُ الأمر). لم تُستنسخ سيرةُ بنثام هنا."
   - "صيغة 'Fragment on Government' (1776) الدقيقة لبعض عبارات بنثام لم تُراجع من النص الأصلي مباشرة (اعتمد التلخيص على مصادر ثانوية موثوقة)."
   - "لا يوجد اقتباس حرفي مباشر مُسنَد بالصفحة من 'An Introduction to the Principles of Morals and Legislation' لعبارة 'Greatest Happiness Principle' بعد — العبارة موثقة كمضمون لا كنص حرفي مسند بالصفحة."
   - "تصحيح 2026-09-03: عبارة 'nonsense upon stilts' كانت منسوبة خطأً لـ'Fragment on Government' (1776)؛ صحّحت مصدرها إلى 'Anarchical Fallacies' (~1795)، وصُحّح وصف نقد بنثام لبلاكستون في Fragment على أساس ثلاثة محاور موثقة (المنهج، العقد الاجتماعي، السيادة) بدل الصياغة العامة السابقة."
