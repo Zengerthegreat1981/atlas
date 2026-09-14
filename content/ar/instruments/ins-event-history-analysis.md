@@ -16,6 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-social-network-analysis-paradigm", target_type: "مدرسة"
 related:
 - id: "ins-qualitative-comparative-analysis-ragin", title: "التحليل المقارن الكيفي (Qualitative Comparative Analysis - QCA)", type: "منهج/أداة بحث"
+- id: "ins-hierarchical-linear-modeling", title: "النمذجة الخطية الهرمية (Hierarchical Linear Modeling)", type: "منهج/أداة بحث"
 gaps:
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بسدّ فجوة كاملة في نوع `ins-` ضمن قسم علم الاجتماع. بول ألسون (Paul D. Allison) لا يزال بلا ملف مستقل. الإسناد إلى `sch-social-network-analysis-paradigm` تقريبي بحكم قرابة كمية-بنيوية عامة؛ لا مدرسة منهجية أعم معتمدة بعد."
 ---
