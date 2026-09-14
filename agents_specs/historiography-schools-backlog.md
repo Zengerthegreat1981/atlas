@@ -36,9 +36,9 @@
 - [x] المنعطفُ اللغويُّ والتاريخُ بوصفه سرداً (هايدن وايت — *Metahistory*) — `sch-linguistic-turn-metahistory-white`
 - [x] تاريخُ المفاهيم (Begriffsgeschichte — كوزلّك، «زمنُ السرج») — `sch-conceptual-history-koselleck`
 - [x] الأركيولوجيا والجينالوجيا بوصفهما منهجاً (فوكو) — **`thk-foucault` موجود** — `sch-foucauldian-archaeology-genealogy-method`
-- [ ] التاريخُ الجزئيُّ والمصغَّر (Microstoria — غينزبورغ، ليڤي)
-- [ ] تاريخُ الذاكرةِ ومواضعُها (نورا، هالبڤاكس)
-- [ ] الذاكرةُ الجمعيةُ والصدمةُ التاريخية — **جسرٌ إلى علم النفس**
+- [x] التاريخُ الجزئيُّ والمصغَّر (Microstoria — غينزبورغ، ليڤي) — `sch-microstoria-italian-micro-history`
+- [x] تاريخُ الذاكرةِ ومواضعُها (نورا، هالبڤاكس) — `sch-memory-history-nora-halbwachs`
+- [x] الذاكرةُ الجمعيةُ والصدمةُ التاريخية — **جسرٌ إلى علم النفس** — `rel-collective-memory-historical-trauma`
 
 ## 6. ما بعد الاستعمارِ وأصواتُ الأطراف
 - [ ] الدراساتُ التابعةُ (Subaltern Studies — غوها، تشاكرابارتي)
