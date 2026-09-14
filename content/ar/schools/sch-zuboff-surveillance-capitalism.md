@@ -19,6 +19,7 @@ related:
 - id: "sch-srnicek-platform-capitalism", title: "سوسيولوجيا رأسمالية المنصات واقتصاد العمل الحر", type: "مدرسة"
 - id: "thk-shoshana-zuboff", title: "شوشانا زوبوف", type: "مفكر"
 - id: "con-surveillance-capitalism-zuboff", title: "رأسمالية المراقبة والفائض السلوكي (Surveillance Capitalism)", type: "مفهوم"
+- id: "wrk-age-of-surveillance-capitalism-zuboff", title: "عصر رأسمالية المراقبة (The Age of Surveillance Capitalism)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 6 من مهمة بناء قسم علم الاجتماع (القسم 6)."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-shoshana-zuboff`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."

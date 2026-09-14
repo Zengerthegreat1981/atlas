@@ -18,6 +18,7 @@ edges: []
 related:
 - id: "thk-appadurai", title: "أرجون أپادوراي", type: "مفكر"
 - id: "con-scapes-glocalization", title: "المشاهد العولمية والتمحلن (Scapes and Glocalization)", type: "مفهوم"
+- id: "wrk-modernity-at-large-appadurai", title: "الحداثة في حجم كبير (Modernity at Large)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 6 من مهمة بناء قسم علم الاجتماع (القسم 6)."
   - "**سُدَّ جزئياً 2026-09-14 (دفعة تالية):** أُنشئ `thk-appadurai`. رولاند روبرتسون (`thk-roland-robertson`) لا يزال بلا ملف مستقل؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً."

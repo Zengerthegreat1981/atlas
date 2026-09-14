@@ -18,6 +18,7 @@ edges: []
 related:
 - id: "thk-saskia-sassen", title: "ساسكيا ساسن", type: "مفكر"
 - id: "con-global-city-sassen", title: "المدينة العالمية والاستقطاب الحضري (Global City)", type: "مفهوم"
+- id: "wrk-the-global-city-sassen", title: "المدينة العالمية: نيويورك، لندن، طوكيو (The Global City)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 6 من مهمة بناء قسم علم الاجتماع (القسم 6)."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-saskia-sassen`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."

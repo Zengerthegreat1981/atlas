@@ -19,6 +19,7 @@ related:
 - id: "sch-zuboff-surveillance-capitalism", title: "سوسيولوجيا رأسمالية المراقبة", type: "مدرسة"
 - id: "thk-nick-srnicek", title: "نيك سرنيتشيك", type: "مفكر"
 - id: "con-platform-capitalism-srnicek", title: "رأسمالية المنصات (Platform Capitalism)", type: "مفهوم"
+- id: "wrk-platform-capitalism-srnicek", title: "رأسمالية المنصات (Platform Capitalism)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 6 من مهمة بناء قسم علم الاجتماع (القسم 6)، ويكمل `sch-zuboff-surveillance-capitalism` المنشأ في الدفعة نفسها بربط متبادل (تحليلان متوازيان لظاهرة الرأسمالية الرقمية، لا علاقة أمّ-فرع بينهما، لذا استُعمل `related` لا `belongs_to`)."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-nick-srnicek`."
