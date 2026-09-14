@@ -18,7 +18,9 @@ edges: []
 related:
 - id: "thk-eliot-freidson", title: "إليوت فريدسون", type: "مفكر"
 - id: "con-professional-dominance-freidson", title: "الهيمنة المهنية للطب (Professional Dominance)", type: "مفهوم"
+- id: "con-sick-role-parsons", title: "دور المريض (Sick Role)", type: "مفهوم"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `con-sick-role-parsons` (مفهوم بارسونز الأصلي المذكور في المتن) وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8). يتقاطع جزئياً مع `sch-medicalization-biosociality` (الدفعة 6) الذي يركّز على توسع التطبيب، بينما هذا الملف يغطي الحقل الأوسع بدءاً من دور المريض المؤسسي عند بارسونز ومهنة الطب عند فريدسون."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-eliot-freidson`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
 ---
