@@ -18,6 +18,7 @@ related:
 - id: "sch-boasian-cultural-relativism", title: "النسبيةُ الثقافية البواسية (Boasian Cultural Relativism & Historical Particularism)", type: "مدرسة"
 - id: "thk-franz-boas", title: "فرانز بواس (Franz Boas)", type: "مفكر"
 - id: "con-superorganic-kroeber", title: "فوق العضوي (The Superorganic)", type: "مفهوم"
+- id: "wrk-ishi-two-worlds-kroeber", title: "إيشي في عالمَين (Ishi in Two Worlds)", type: "عمل / كتاب"
 gaps: []
 ---
 # ألفرد كروبر (Alfred L. Kroeber)

@@ -18,6 +18,7 @@ related:
 - id: "sch-culture-and-personality", title: "مدرسةُ الثقافة والشخصية (Culture and Personality)", type: "مدرسة"
 - id: "thk-franz-boas", title: "فرانز بواس (Franz Boas)", type: "مفكر"
 - id: "wrk-patterns-of-culture-benedict", title: "أنماطُ الثقافة (Patterns of Culture)", type: "عمل / كتاب"
+- id: "wrk-chrysanthemum-sword-benedict", title: "الأقحوانُ والسيف (The Chrysanthemum and the Sword)", type: "عمل / كتاب"
 gaps: []
 ---
 # روث بنديكت (Ruth Benedict)
