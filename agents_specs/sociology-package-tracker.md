@@ -124,6 +124,11 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 `--no-verify` لهذا الالتزام لأن خطاف ما قبل الالتزام يفحص الشجرة كاملة لا الملفات المرحَّلة فقط).
 **أوّل بند للدفعة التالية:** `sch-blumerian-symbolic-interactionism`.
 
+**الدفعة 19 (2026-09-14):** كُتب `thk-blumer` و`con-symbolic-interactionism-premises`، وأُسندا إلى
+`sch-blumerian-symbolic-interactionism` (موجودة سلفاً) وأُضيفت روابطهما فيها. الفحوص الثلاثة صفر
+على نطاق ملفات هذه الدفعة (الشجرة الكاملة تحمل 3 روابط `related` معلَّقة في ملفات دوروثي سميث غير
+مُلتزمة لوكيل آخر، لم تُلمس هنا). **أوّل بند للدفعة التالية:** `sch-goffman-dramaturgical`.
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
@@ -156,7 +161,7 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 - [x] `sch-whyte-participant-observation` — سوسيولوجيا الملاحظة بالمشاركة والمجتمعات الهامشية (Whyte's Participant Observation Sociology)
 - [x] `sch-cooley-looking-glass-self` — نظرية الذات المنعكسة في المرآة والجماعات الأولية (Cooley's Looking-Glass Self Theory)
 - [x] `sch-mead-social-behaviorism` — الأسس البراغماتية للتفاعلية الرمزية (Mead's Social Behaviorism & Mind/Self/Society)
-- [ ] `sch-blumerian-symbolic-interactionism` — التفاعلية الرمزية المنهجية (Blumerian Symbolic Interactionism)
+- [x] `sch-blumerian-symbolic-interactionism` — التفاعلية الرمزية المنهجية (Blumerian Symbolic Interactionism)
 - [ ] `sch-goffman-dramaturgical` — النظرية الدراماتورجية وإدارة الانطباع (Goffman's Dramaturgical Sociology)
 - [ ] `sch-goffman-total-institutions` — سوسيولوجيا المؤسسات الشاملة والمصحات (Goffman's Total Institutions Sociology)
 - [ ] `sch-goffman-stigma` — سوسيولوجيا الوصمة والهوية المشوهة (Goffman's Sociology of Stigma)

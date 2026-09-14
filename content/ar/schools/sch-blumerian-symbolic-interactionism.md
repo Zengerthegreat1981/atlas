@@ -16,9 +16,12 @@ active_start: 1937
 active_end: 1987
 edges:
 - rel: "belongs_to", target: "sch-mead-social-behaviorism", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-blumer", title: "هربرت بلومر", type: "مفكر"
+- id: "con-symbolic-interactionism-premises", title: "الفرضيات الثلاث للتفاعلية الرمزية عند بلومر", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2)، ويكمل `sch-mead-social-behaviorism` المنشأ في الدفعة نفسها. لا يوجد بعد ملف مستقل لهربرت بلومر (`thk-blumer`)."
+  - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2)، ويكمل `sch-mead-social-behaviorism` المنشأ في الدفعة نفسها."
+  - "**سُدَّ 2026-09-14 (الدفعة 19):** كُتب `thk-blumer` و`con-symbolic-interactionism-premises` وأُضيفت روابطهما هنا."
 ---
 
 # التفاعلية الرمزية المنهجية
