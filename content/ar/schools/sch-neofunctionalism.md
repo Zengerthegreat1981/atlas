@@ -18,8 +18,10 @@ edges:
 - rel: "belongs_to", target: "sch-parsonian-action-frame", target_type: "مدرسة"
 related:
 - id: "thk-jeffrey-alexander", title: "جيفري ألكسندر", type: "مفكر"
+- id: "con-strong-program-cultural-sociology-alexander", title: "البرنامج القوي في علم الاجتماع الثقافي عند ألكسندر", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3)، ويكمل `sch-parsonian-action-frame` المنشأ في الدفعة نفسها."
+  - "**تعميقٌ 2026-09-14:** أُضيف `con-strong-program-cultural-sociology-alexander` وربطه هنا."
   - "**سُدَّ 2026-09-14 (الدفعة 39):** كُتب `thk-jeffrey-alexander` وأُضيف رابطه هنا."
 ---
 
