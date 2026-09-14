@@ -19,7 +19,9 @@ related:
 - id: "sch-lemert-primary-secondary-deviance", title: "سوسيولوجيا الانحراف البنائية", type: "مدرسة"
 - id: "thk-howard-becker", title: "هاورد بيكر", type: "مفكر"
 - id: "con-labeling-theory-becker", title: "نظرية الوصم والمنظمون الأخلاقيون عند بيكر", type: "مفهوم"
+- id: "wrk-outsiders-becker", title: "الغرباء: دراسات في سوسيولوجيا الانحراف", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-14:** أُضيف `wrk-outsiders-becker` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2). تنبيه: `thk-becker` القائم في المستودع هو إرنست بيكر (Ernest Becker)، عالم أنثروبولوجيا وجودي مختلف كلياً، ولا صلة بينهما؛ لم يُستخدم هذا الملف خطأً هنا."
   - "**سُدَّ 2026-09-14 (الدفعة 24):** `thk-howard-becker` موجودٌ فعلاً في المستودع (كُتب في دفعة موازية لوكيلٍ آخر، مسنداً بـ`belongs_to` إلى `sch-visual-sociology-sensory-ethnography`)؛ رُبط هنا عبر `related` وحده (لا `belongs_to`، تفادياً لازدواج انتماء المفكر على مدرستين)، وكُتب `con-labeling-theory-becker` وأُسند إلى هذا الملف بـ`belongs_to`."
   - "`belongs_to` تُرك فارغاً؛ العلاقة التاريخية مع `sch-lemert-primary-secondary-deviance` (السابق زمنياً) حقيقية لكنها علاقة تطور فكري لا انتماء مؤسسي، ولا تُبنى هنا كـ`evolved_from` بلا تأكيد إضافي دقيق لتسلسل الأسبقية الفكرية الموثق."
