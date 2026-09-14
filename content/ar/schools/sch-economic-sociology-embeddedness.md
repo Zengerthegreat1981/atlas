@@ -18,8 +18,10 @@ edges: []
 related:
 - id: "thk-karl-polanyi", title: "كارل بولاني", type: "مفكر"
 - id: "con-embeddedness-polanyi", title: "التجذر والسلع الوهمية (Embeddedness & Fictitious Commodities)", type: "مفهوم"
+- id: "thk-granovetter", title: "مارك غرانوفيتر", type: "مفكر"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8). ملف `thk-granovetter` (قوة الروابط الضعيفة) موجودٌ ضمنياً في `sch-social-network-analysis-paradigm` (الدفعة 3) كمرجع لا كملف مفكر مستقل بعد."
+  - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8)."
+  - "**سُدَّ 2026-09-15 (تعميقٌ):** رُبط `thk-granovetter` هنا عبر `related` (موجودٌ سلفاً بـ`belongs_to` مختلف إلى `sch-social-network-analysis-paradigm`، إذ عمله الأشمل تحليل الشبكات لا التجذر الاقتصادي وحده)."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-karl-polanyi`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
 ---
 
