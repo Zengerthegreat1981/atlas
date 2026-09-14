@@ -18,6 +18,7 @@ related:
 - id: "ins-general-social-survey", title: "المسح الاجتماعي العام (General Social Survey - GSS)", type: "منهج/أداة بحث"
 - id: "crt-homans-rational-choice-critique-parsonian-functionalism", title: "نقد هومانز الاختزالي-السلوكي للوظيفية البنائية البارسونزية", type: "نقد خارجي موثَّق"
 - id: "crt-blumer-critique-variable-analysis-neopositivism", title: "نقد بلومر التفاعلي لـ«تحليل المتغيرات»: فقدان المعنى الذاتي في القياس الكمي", type: "نقد خارجي موثَّق"
+- id: "crt-mills-critique-grand-theory-abstracted-empiricism", title: "نقد ميلز المزدوج: «النظرية الكبرى» البارسونزية مقابل «التجريبية المجردة» اللازارسفلدية", type: "نقد خارجي موثَّق"
 gaps:
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بسدّ فجوة نوع `br-`. بول لازارسفلد (`thk-lazarsfeld`)، الشخصية المركزية لهذا التيار، موجودٌ بملفٍّ مستقل؛ لم يُضَف `related` مباشر إليه هنا تفادياً لعدم التحقق من `belongs_to` القائم لملفه. `belongs_to` تُرك فارغاً عمداً (تيار عابر لا مدرسة واحدة)."
 ---
