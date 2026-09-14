@@ -16,6 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-skocpol-comparative-historical-revolutions", target_type: "مدرسة"
 related:
 - id: "thk-skocpol", title: "ثيدا سكوتشبول", type: "مفكر"
+- id: "ins-comparative-historical-method-mill", title: "المنهج التاريخي المقارن الكلاسيكي (طرائق مِل في الاتفاق والاختلاف)", type: "منهج/أداة بحث"
 gaps:
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بسدّ فجوة كاملة في نوع `ins-` ضمن قسم علم الاجتماع. تشارلز راغن (`thk-charles-ragin`) لا يزال بلا ملف مستقل؛ ذُكر بالاسم دون `related` مباشر إليه."
   - "الإسناد إلى `sch-skocpol-comparative-historical-revolutions` تقريبي بحكم القرابة المنهجية (كلاهما ضمن تقليد علم الاجتماع التاريخي والمقارن)، لا انتماءً مباشراً موثَّقاً لسكوتشبول نفسها لهذا المنهج تحديداً."
