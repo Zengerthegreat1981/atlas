@@ -17,6 +17,7 @@ edges:
 - rel: "belongs_to", target: "sch-chicago-urban-ecology", target_type: "مدرسة"
 related:
 - id: "evt-chicago-first-sociology-department-1892", title: "تأسيس أول قسم أكاديمي مستقل لعلم الاجتماع في العالم بجامعة شيكاغو (1892)", type: "حدث تاريخي"
+- id: "evt-founding-international-sociological-association-1949", title: "تأسيس الجمعية الدولية لعلم الاجتماع تحت مظلة اليونسكو (1949)", type: "حدث تاريخي"
 gaps:
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بسدّ فجوة كاملة في نوع `evt-` ضمن قسم علم الاجتماع. ليستر فرانك وارد (`thk-lester-ward`)، أول رئيس منتخب للجمعية، لا يزال بلا ملف مستقل؛ ذُكر بالاسم دون `related` مباشر إليه."
 ---
