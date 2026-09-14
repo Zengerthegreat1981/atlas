@@ -15,8 +15,16 @@
 >   (يشترط تطابق `part`، فحصٌ قاطعٌ [12] في `audit_atlas.py`). كل عزلةٍ ظهرت بعد كل جزء (مدرسة
 >   فرعية بلا إشارة واردة) أُصلحت بإضافة `related` حقيقي من الأمّ أو من مدرسةٍ شقيقة، لا بعلاقة
 >   مختلَقة. `audit_atlas.py` عاد إلى صفرٍ بعد كل جزءٍ من كل دفعة دون استثناء.
-> **الدفعةُ التالية (3):** القسم 3 — الوظيفية البنائية ونظرية الأنساق والتبادل — أوّل بندٍ
-> غيرِ مؤشَّرٍ بـ`[x]` تحت العنوان `## 3.`.
+> - **الدفعة 3 (2026-09-14):** القسم 3 مكتملٌ بالكامل (19/19) — بارسونز (+فرعان: AGIL،
+>   متغيرات النمط) وفرع الوظيفية الجديدة، ميرتون المدى المتوسط (+3 فروع: التوتر والأنومي،
+>   الجماعة المرجعية، سوسيولوجيا العلم) وفرع رابع أُضيف لاحقاً (الميزة التراكمية/تأثير ماثيو)،
+>   لومان (+فرع التواصل والتمايز)، هومانز (+فرعان: بلاو، التبادل الشبكي)، كولمان (+فرع
+>   السوسيولوجيا التحليلية)، المؤسسية الجديدة التنظيمية، غولدنر وبلاو (التنظيمات المعقدة)،
+>   تحليل الشبكات الاجتماعية. **تصحيح رجعي:** أُضيف `related` من `sch-social-capital-civic`
+>   (دفعة 0) إلى `sch-coleman-rational-choice-sociology` الجديدة (لا `belongs_to`، فهما
+>   صياغتان متنافستان متوازيتان لا علاقة أمّ-فرع).
+> **الدفعةُ التالية (4):** القسم 4 — نظرية الصراع، مدرسة فرانكفورت والماركسية النقدية —
+> أوّل بندٍ غيرِ مؤشَّرٍ بـ`[x]` تحت العنوان `## 4.`.
 
 # قائمة المدارس والنظريات السوسيولوجية الشاملة — قائمة انتظار (Backlog) لتغطية علم الاجتماع في أطلس
 
@@ -85,26 +93,26 @@
 
 ## 3. الوظيفية البنائية، نظرية الأنساق ونظرية التبادل (Structural Functionalism, Systems & Exchange Theory)
 
-- [ ] نظرية الفعل الاجتماعي والتركيب البارسونزي (Parsonian Action Frame of Reference)
-- [ ] الوظيفية البنائية الشاملة ونموذج AGIL (Parsonian Structural Functionalism)
-- [ ] متغيرات النمط ونظرية التحديث (Parsonian Pattern Variables & Modernization Theory)
-- [ ] وظيفية المدى المتوسط والتحليل البنائي (Mertonian Middle-Range Functionalism)
-- [ ] نظرية التوتر والأنومي (Merton's Strain Theory of Deviance)
-- [ ] نظرية الجماعات المرجعية والحرمان النسبي (Reference Group & Relative Deprivation Theory)
-- [ ] سوسيولوجيا العلم والمؤسسة الأكاديمية (Mertonian Sociology of Science / CUDOS)
-- [ ] الوظيفية الجديدة والتركيب ما بعد البارسونزي (Neofunctionalism: Alexander & Colomy)
-- [ ] نظرية الأنساق الاجتماعية الأوتوبويتية (Luhmannian Autopoietic Social Systems Theory)
-- [ ] سوسيولوجيا التواصل والتمايز النسقي (Luhmannian Sociology of Communication & Differentiation)
-- [ ] نظرية التبادل الاجتماعي السلوكية (Homans' Behavioral Social Exchange Theory)
-- [ ] نظرية التبادل البنائي والتفاوت الطبقي (Blau's Structural Exchange Theory)
-- [ ] سوسيولوجيا الاختيار العقلاني ورأس المال الاجتماعي (Coleman's Rational Choice Sociology)
-- [ ] السوسيولوجيا التحليلية ونظرية الآليات الاجتماعية (Analytical Sociology: Elster & Hedström)
-- [ ] نظرية التبادل الشبكي وعلاقات القوة-التبعية (Network Exchange Theory: Willer & Cook)
-- [ ] المؤسسية الجديدة في سوسيولوجيا التنظيمات (New Institutionalism in Organizational Sociology: DiMaggio & Powell)
+- [x] نظرية الفعل الاجتماعي والتركيب البارسونزي (Parsonian Action Frame of Reference) — `sch-parsonian-action-frame` (دفعة 3، 2026-09-14)
+- [x] الوظيفية البنائية الشاملة ونموذج AGIL (Parsonian Structural Functionalism) — `sch-parsonian-structural-functionalism-agil` (دفعة 3، 2026-09-14)
+- [x] متغيرات النمط ونظرية التحديث (Parsonian Pattern Variables & Modernization Theory) — `sch-parsonian-pattern-variables` (دفعة 3، 2026-09-14)
+- [x] وظيفية المدى المتوسط والتحليل البنائي (Mertonian Middle-Range Functionalism) — `sch-mertonian-middle-range` (دفعة 3، 2026-09-14)
+- [x] نظرية التوتر والأنومي (Merton's Strain Theory of Deviance) — `sch-mertons-strain-theory` (دفعة 3، 2026-09-14)
+- [x] نظرية الجماعات المرجعية والحرمان النسبي (Reference Group & Relative Deprivation Theory) — `sch-reference-group-relative-deprivation` (دفعة 3، 2026-09-14)
+- [x] سوسيولوجيا العلم والمؤسسة الأكاديمية (Mertonian Sociology of Science / CUDOS) — `sch-mertonian-sociology-of-science` (دفعة 3، 2026-09-14)
+- [x] الوظيفية الجديدة والتركيب ما بعد البارسونزي (Neofunctionalism: Alexander & Colomy) — `sch-neofunctionalism` (دفعة 3، 2026-09-14)
+- [x] نظرية الأنساق الاجتماعية الأوتوبويتية (Luhmannian Autopoietic Social Systems Theory) — `sch-luhmannian-autopoietic-systems` (دفعة 3، 2026-09-14)
+- [x] سوسيولوجيا التواصل والتمايز النسقي (Luhmannian Sociology of Communication & Differentiation) — `sch-luhmannian-communication-differentiation` (دفعة 3، 2026-09-14)
+- [x] نظرية التبادل الاجتماعي السلوكية (Homans' Behavioral Social Exchange Theory) — `sch-homans-behavioral-exchange` (دفعة 3، 2026-09-14)
+- [x] نظرية التبادل البنائي والتفاوت الطبقي (Blau's Structural Exchange Theory) — `sch-blau-structural-exchange` (دفعة 3، 2026-09-14)
+- [x] سوسيولوجيا الاختيار العقلاني ورأس المال الاجتماعي (Coleman's Rational Choice Sociology) — `sch-coleman-rational-choice-sociology` (دفعة 3، 2026-09-14)
+- [x] السوسيولوجيا التحليلية ونظرية الآليات الاجتماعية (Analytical Sociology: Elster & Hedström) — `sch-analytical-sociology` (دفعة 3، 2026-09-14)
+- [x] نظرية التبادل الشبكي وعلاقات القوة-التبعية (Network Exchange Theory: Willer & Cook) — `sch-network-exchange-theory` (دفعة 3، 2026-09-14)
+- [x] المؤسسية الجديدة في سوسيولوجيا التنظيمات (New Institutionalism in Organizational Sociology: DiMaggio & Powell) — `sch-new-institutionalism-organizational` (دفعة 3، 2026-09-14)
 - [x] سوسيولوجيا رأس المال الاجتماعي والشبكات المدنية (Putnam's Social Capital Theory) — `sch-social-capital-civic` (دفعة 0، 2026-09-14)
-- [ ] سوسيولوجيا التنظيمات والخلل البيروقراطي (Sociology of Complex Organizations: Gouldner & Blau)
-- [ ] سوسيولوجيا الشبكات الاجتماعية وتحليل البنى (Social Network Analysis Paradigm: Wellman & Granovetter)
-- [ ] سوسيولوجيا المكانة والتمايز الطبقي التراكمي (Cumulative Advantage Theory / Matthew Effect)
+- [x] سوسيولوجيا التنظيمات والخلل البيروقراطي (Sociology of Complex Organizations: Gouldner & Blau) — `sch-complex-organizations-gouldner-blau` (دفعة 3، 2026-09-14)
+- [x] سوسيولوجيا الشبكات الاجتماعية وتحليل البنى (Social Network Analysis Paradigm: Wellman & Granovetter) — `sch-social-network-analysis-paradigm` (دفعة 3، 2026-09-14)
+- [x] سوسيولوجيا المكانة والتمايز الطبقي التراكمي (Cumulative Advantage Theory / Matthew Effect) — `sch-cumulative-advantage-theory` (دفعة 3، 2026-09-14)
 
 ---
 
