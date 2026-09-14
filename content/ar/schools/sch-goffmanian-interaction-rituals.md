@@ -16,9 +16,11 @@ active_start: 1967
 active_end: 1967
 edges:
 - rel: "belongs_to", target: "sch-goffman-dramaturgical", target_type: "مدرسة"
-related: []
+related:
+- id: "con-face-work-goffman", title: "العمل على الوجه عند غوفمان", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2)، ويكمل `sch-goffman-dramaturgical` المنشأ في الدفعة نفسها."
+  - "**سُدَّ 2026-09-14 (الدفعة 29):** كُتب `con-face-work-goffman` وأُضيف رابطه هنا."
 ---
 
 # طقوس التفاعل اليومي وحفظ ماء الوجه
