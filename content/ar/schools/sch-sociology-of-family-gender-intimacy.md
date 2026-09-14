@@ -18,8 +18,10 @@ edges: []
 related:
 - id: "thk-anthony-giddens", title: "أنتوني غيدنز", type: "مفكر"
 - id: "con-confluent-love-pure-relationship-giddens", title: "الحب التلاحمي والعلاقة الخالصة (Confluent Love)", type: "مفهوم"
+- id: "thk-robert-bales", title: "روبرت بيلز", type: "مفكر"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8). لا يوجد بعد ملف مستقل لروبرت بيلز (`thk-robert-bales`) عن الأدوار الوظيفية الكلاسيكية للأسرة."
+  - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8)."
+  - "**سُدَّ 2026-09-15 (تعميقٌ):** أُنشئ `thk-robert-bales` وربطه هنا."
   - "ملف `thk-anthony-giddens` القائم موسومٌ `part: \"psychology\"`، فالإشارة إليه عبر `related` وحده؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً."
 ---
 
