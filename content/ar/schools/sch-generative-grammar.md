@@ -21,6 +21,8 @@ related:
 - id: "thk-noam-chomsky", title: "نعوم تشومسكي", type: "مفكر"
 - id: "wrk-syntactic-structures", title: "البنى النحوية (Syntactic Structures)", type: "عمل / كتاب"
 - id: "con-deep-surface-structure", title: "البنيةُ العميقة والبنيةُ السطحية", type: "مفهوم"
+- id: "dbt-innateness-vs-usage-based-language-acquisition", title: "جدلُ الفطرية اللغوية مقابل الاستعمالية في اكتساب اللغة", type: "جدل"
+- id: "sch-first-language-acquisition", title: "اكتسابُ اللغة الأولى ومراحلُه", type: "مدرسة"
 gaps:
   - "**قرارٌ تحريريٌّ محسوم (DR-014)**: نعوم تشومسكي موسومٌ philosophy في الأطلس (thk-noam-chomsky، مُنشَأٌ أصلاً بوصفه فيلسوفَ لغةٍ وسياسة) ولا يُنشأ له نظيرٌ ثانٍ تحت linguistics. هذه العقدةُ (المدرسة) هي التي تحمل الوسمَ linguistics وتربط إليه بـrelated، لا هو."
   - "لا هذا الملفُّ عقدةٌ جذرية: `evolved_from` إلى البنيوية الأمريكية موثَّقٌ تاريخياً (تشومسكي تتلمذ على زيغ هاريس) لا مخترَع."

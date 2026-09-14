@@ -89,7 +89,7 @@
 ## 8. العقلُ والدماغُ واللغة (Psycho- & Neurolinguistics)
 
 - [ ] علمُ اللغة النفسيُّ ومعالجةُ الجملة (Sentence Processing)
-- [ ] اكتسابُ اللغة الأولى ومراحلُه (First Language Acquisition)
+- [x] اكتسابُ اللغة الأولى ومراحلُه (First Language Acquisition) — `sch-first-language-acquisition`، `thk-eric-lenneberg`، `con-critical-period-hypothesis`، `dbt-innateness-vs-usage-based-language-acquisition` (الدفعة 10). حيادٌ صريحٌ محفوظ إزاء جدل الفطرية، ومسألةُ بيراها مسجَّلةٌ كفجوة.
 - [ ] اكتسابُ اللغة الثانيةُ والفترةُ الحرجة (SLA & Critical Period)
 - [ ] علمُ اللغة العصبيُّ ومناطقُ اللغة (Broca، Wernicke، النموذجُ المعاصر) — **`syn-wernicke-aphasia` موجود**
 - [ ] الحُبسةُ واضطراباتُ اللغة (Aphasiology) — **جسرٌ إلى الاضطرابات في الأطلس**

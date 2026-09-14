@@ -20,6 +20,7 @@ related:
 - id: "sch-foucauldian-biopolitics-governmentality", title: "سوسيولوجيا السياسة الحيوية والحكومية", type: "مدرسة"
 - id: "sch-foucauldian-power-knowledge-discourse", title: "سوسيولوجيا المعرفة-السلطة والتشكيلات الخطابية", type: "مدرسة"
 - id: "con-panopticon-surveillance", title: "البانوبتيكون ومجتمع المراقبة (The Panopticon)", type: "مفهوم"
+- id: "wrk-discipline-and-punish-foucault", title: "المراقبة والمعاقبة لميشيل فوكو (Surveiller et punir)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5). ملف `thk-foucault` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده. `belongs_to` لهذا الملف نفسه تُرك فارغاً."
   - "الجسر المشترك مع سوسيولوجيا المؤسسات الشاملة الغوفمانية (`sch-goffman-total-institutions`) مذكور في القسم 4 من `SOCIOLOGY_MISSION_PROMPT.md` كأحد جسور القسم النهائية؛ لم يُبنَ بعد كعلاقة صريحة هنا."

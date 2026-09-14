@@ -20,6 +20,7 @@ related:
 - id: "sch-bourdieu-distinction-cultural-reproduction", title: "سوسيولوجيا التمايز وإعادة الإنتاج الثقافي", type: "مدرسة"
 - id: "thk-bourdieu", title: "بيير بورديو", type: "مفكر"
 - id: "con-habitus-bourdieu", title: "الهابيتوس والاستعدادات الطبقية المتجذرة (Habitus)", type: "مفهوم"
+- id: "wrk-outline-theory-of-practice-bourdieu", title: "مخطط لنظرية في الممارسة (Esquisse d'une théorie de la pratique)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5)."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-bourdieu` تحت `part: \"sociology\"` (بمعزل عن مسودة `content/ar/drafts/spark/thinkers/thk-bourdieu.md` القديمة الموسومة `part: \"bridge\"`). `belongs_to` لهذا الملف نفسه لا يزال فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
