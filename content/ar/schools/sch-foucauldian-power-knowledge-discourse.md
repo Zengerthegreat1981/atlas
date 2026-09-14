@@ -16,9 +16,12 @@ active_start: 1969
 active_end: 1975
 edges:
 - rel: "belongs_to", target: "sch-foucauldian-disciplinary-power", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
+- id: "con-episteme-foucault", title: "الإبستميه ونظام الخطاب المعرفي (Episteme)", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5)، ويكمل `sch-foucauldian-disciplinary-power` المنشأ في الدفعة نفسها."
+  - "ملف `thk-foucault` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده."
 ---
 
 # سوسيولوجيا المعرفة-السلطة والتشكيلات الخطابية

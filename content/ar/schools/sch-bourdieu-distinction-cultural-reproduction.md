@@ -19,8 +19,10 @@ edges:
 related:
 - id: "sch-sociology-of-education-cultural-capital", title: "سوسيولوجيا التربية والتعليم وإعادة الإنتاج", type: "مدرسة"
 - id: "con-conspicuous-consumption", title: "الاستهلاك اللافت (Conspicuous Consumption)", type: "مفهوم"
+- id: "thk-bourdieu", title: "بيير بورديو", type: "مفكر"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5)، ويكمل `sch-bourdieu-practice-habitus` المنشأ في الدفعة نفسها."
+  - "**سُدَّ 2026-09-14 (دفعة تالية):** أُضيف رابط `thk-bourdieu` بعد إنشائه (part: sociology)."
 ---
 
 # سوسيولوجيا التمايز وإعادة الإنتاج الثقافي

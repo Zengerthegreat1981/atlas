@@ -16,9 +16,12 @@ active_start: 1986
 active_end: 1986
 edges:
 - rel: "belongs_to", target: "sch-bourdieu-practice-habitus", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-bourdieu", title: "بيير بورديو", type: "مفكر"
+- id: "con-cultural-capital-bourdieu", title: "رأس المال الثقافي والرمزي (Cultural Capital)", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5)، ويكمل `sch-bourdieu-practice-habitus` المنشأ في الدفعة نفسها."
+  - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-bourdieu` (part: sociology) وأُضيف رابطه هنا مع مفهوم رأس المال الثقافي الموجود سلفاً."
 ---
 
 # سوسيولوجيا الحقول وأشكال رأس المال

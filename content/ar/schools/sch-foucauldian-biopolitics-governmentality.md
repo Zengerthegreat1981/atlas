@@ -16,9 +16,13 @@ active_start: 1976
 active_end: 1979
 edges:
 - rel: "belongs_to", target: "sch-foucauldian-disciplinary-power", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
+- id: "con-biopolitics-and-biopower", title: "السلطة الحيوية والبيوبوليتيك (Biopolitics and Biopower)", type: "مفهوم"
+- id: "con-governmentality-foucault", title: "الحكومية وعقلانية الحكم (Governmentality)", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5)، ويكمل `sch-foucauldian-disciplinary-power` المنشأ في الدفعة نفسها."
+  - "ملف `thk-foucault` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده."
 ---
 
 # سوسيولوجيا السياسة الحيوية والحكومية
