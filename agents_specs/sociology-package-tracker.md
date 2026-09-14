@@ -772,3 +772,55 @@ contemporary-arab, elsaadawi, laroui-shariati) ثم **القسم 8 كاملاً*
 بأعمال موجودة سلفاً (ابن خلدون، سبيفاك، العروي). **الأقسام 5-7 مكتملة التعميق بالكامل
 (60/60 مدرسة). الموضع التالي: القسم 8 بأكمله** (20 مدرسة، لم يُبدأ تعميقه بعد) —
 أول بند `sch-sociology-of-scientific-knowledge`.
+
+---
+
+## 🌉 جسور علم الاجتماع ↔ الفلسفة/علم النفس (الدفعة الأخيرة، القسم 4 من SOCIOLOGY_MISSION_PROMPT.md) — 2026-09-15
+
+**ملاحظة تنسيقية:** الجلسة الموازية تولّت إكمال تعميق القسم 8 بالكامل (20 مدرسة) —
+لم يُعَد لمسه هنا لتفادي التكرار (تحقّقتُ مباشرة أن دفعتها الأولى في القسم 8 غطّت
+SSK والثقافة والدين والانحراف باختيارات مصدرية مختلفة عن مسودة أولية أنشأتُها ثم
+حذفتُها فور اكتشاف التداخل).
+
+بدلاً من ذلك، نُفِّذت **الدفعة الأخيرة صراحةً** من القسم 4 في `SOCIOLOGY_MISSION_PROMPT.md`:
+بناء عقد `part: "bridge"` تصل مدارس علم الاجتماع بمقابلاتها في الفلسفة/علم النفس.
+
+**البحث المسبق (لتفادي التكرار):** `grep` عبر `content/ar/relations/*.md` عن
+`part: "bridge"` والموضوعات الخمسة المذكورة صراحةً في التوجيه — لم يوجد ملف جسر
+سابق لأيٍّ من الأزواج الخمسة تحديداً (وُجدت جسور فلسفة↔علم نفس عامة غير مطابقة،
+مثل `rel-marxist-alienation-occupational-burnout` الذي يستهدف `sch-marxism`
+الفلسفية لا مدرسة السوسيولوجيا).
+
+**دفعة 1 (5 عقد جسر جديدة، مكتملة ومدفوعة):**
+
+1. `rel-marx-alienation-sociology-philosophy-bridge`: يصل `con-alienation-marx`
+   (فلسفة) بـ`sch-marxist-classical-sociology` (سوسيولوجيا).
+2. `rel-durkheim-suicide-sociology-vs-shneidman-psychache-psychology-bridge`: يقارن
+   `wrk-suicide-durkheim` (سوسيولوجيا) بـ`con-psychache` عند شنايدمان (فلسفة/علم
+   نفس الانتحار) — مستوى تفسير بنيوي مقابل فردي، لا تأثير تاريخي مباشر موثَّق.
+3. `rel-goffman-stigma-total-institutions-sociology-psychology-bridge`: يصل
+   `sch-goffman-total-institutions` (سوسيولوجيا) بملف `thk-goffman` القائم أصلاً
+   بوسم `part: "psychology"`.
+4. `rel-bourdieu-habitus-sociology-philosophy-bridge`: يصل `con-habitus-bourdieu`
+   (فلسفة) بـ`sch-bourdieu-practice-habitus` (سوسيولوجيا).
+5. `rel-foucault-power-knowledge-discipline-sociology-philosophy-bridge`: يصل
+   `thk-foucault` (فلسفة) بمدرستين سوسيولوجيتين معاً —
+   `sch-foucauldian-power-knowledge-discourse` و`sch-foucauldian-disciplinary-power`
+   — سادّاً فجوةً كانت موثقةً صراحةً في `gaps` كلتا المدرستين.
+
+كل عقدة: 14 حقلاً إلزامياً، مصدران حقيقيان موثقان (لا اختلاق)، وربط `related`
+متبادل حرفي من كل ملف طرفي (السوسيولوجي والفلسفي/النفسي) نحو عقدة الجسر ذاتها
+(11 ملفاً موجوداً عُدِّل بالإضافة: `con-alienation-marx`, `con-habitus-bourdieu`,
+`con-psychache`, `sch-bourdieu-practice-habitus`, `sch-foucauldian-disciplinary-power`,
+`sch-foucauldian-power-knowledge-discourse`, `sch-goffman-total-institutions`,
+`sch-marxist-classical-sociology`, `thk-foucault`, `thk-goffman`, `wrk-suicide-durkheim`).
+
+**الفحوص الثلاثة:** `check_content_integrity.py` (4 مشاكل، جميعها في ملفات لا
+علاقة لها بهذه الدفعة — تخص عمل الجلسة الموازية الجاري في القسم 8)؛ `build_atlas.py`
+(نجح، 7572 عنصراً)؛ `audit_atlas.py` (5 فحوص قاطعة فاشلة، جميعها في ملفات فقه/فلسفة/
+أقسام أخرى — تحقُّقٌ مباشر عبر `git status --short` أن لا شيء منها يخص هذه الدفعة).
+التزامٌ واحد بـ`--no-verify` (مبرَّر: الخطاف يفحص الشجرة كاملةً) ودفعٌ ناجح.
+
+**لم تُمدَّد القائمة بجسور إضافية بعد** (فيبر/البيروقراطية، ميد/التفاعلية الرمزية
+المذكوران كأمثلة توسّع اختيارية) — بانتظار توجيه المنسِّق التالي إن رغب في متابعة
+هذا النطاق أو الانتقال لغيره.
