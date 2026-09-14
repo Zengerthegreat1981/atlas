@@ -20,7 +20,9 @@ related:
 - id: "thk-laclau", title: "إرنستو لاكلاو", type: "مفكر"
 - id: "thk-cmouffe", title: "شانتال موف", type: "مفكر"
 - id: "con-radical-democracy-articulation-laclau-mouffe", title: "التفصيل الخطابي والديمقراطية الراديكالية (Articulation & Radical Democracy)", type: "مفهوم"
+- id: "dbt-laclau-mouffe-geras-post-marxism-essentialism", title: "جدل التخلي عن الجوهرانية الطبقية: ما بعد الماركسية عند لاكلاو وموف مقابل دفاع جيراس الأرثوذكسي", type: "جدل"
 gaps:
+  - "**تعميقٌ 2026-09-14:** أُضيف `dbt-laclau-mouffe-geras-post-marxism-essentialism` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)، ويكمل `sch-gramscian-cultural-hegemony` المنشأ في الدفعة نفسها. ملفا `thk-laclau` وthk-cmouffe القائمان موسومان `part: \"philosophy\"`، فالإشارة إليهما عبر `related` وحده."
 ---
 
