@@ -46,7 +46,7 @@
 - [x] الأنثروبولوجيا اللسانية وفرضيةُ سابير-وورف (Linguistic Relativity) — `sch-linguistic-relativity`، `thk-edward-sapir`، `thk-benjamin-lee-whorf`
 - [x] الإيكولوجيا الثقافية والتطوّريةُ الجديدة (Cultural Ecology — Steward, White) — `sch-cultural-ecology`، `thk-julian-steward`
 - [x] المادّيةُ الثقافية (Cultural Materialism — Marvin Harris) — `sch-cultural-materialism`، `thk-marvin-harris`
-- [ ] الأنثروبولوجيا المعرفية والإثنوعلوم (Cognitive Anthropology & Ethnoscience)
+- [x] الأنثروبولوجيا المعرفية والإثنوعلوم (Cognitive Anthropology & Ethnoscience) — `sch-cognitive-anthropology`، `thk-ward-goodenough`
 
 ## 5. الأنثروبولوجيا التأويلية والرمزية (Interpretive & Symbolic)
 

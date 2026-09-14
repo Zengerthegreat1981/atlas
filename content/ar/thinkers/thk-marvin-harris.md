@@ -1,6 +1,6 @@
 ---
 slug: "thk-marvin-harris"
-id: "THK-6526"
+id: "THK-6540"
 type: "مفكر"
 part: "anthropology"
 anthropological_tradition: "cultural-materialism"

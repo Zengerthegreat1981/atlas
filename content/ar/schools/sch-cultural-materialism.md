@@ -1,6 +1,6 @@
 ---
 slug: "sch-cultural-materialism"
-id: "SCH-1096"
+id: "SCH-1097"
 type: "مدرسة"
 part: "anthropology"
 anthropological_tradition: "cultural-materialism"
