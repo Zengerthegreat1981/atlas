@@ -52,11 +52,11 @@
 
 ## 4. الوظيفيةُ والنمطية (Functional & Typological)
 
-- [ ] اللسانياتُ الوظيفيةُ المنهجية (Hallidayan SFL)
+- [x] اللسانياتُ الوظيفيةُ المنهجية (Hallidayan SFL) — `sch-systemic-functional-linguistics`، `thk-michael-halliday` (الدفعة 6).
 - [x] النمطيةُ اللغويةُ والكلّياتُ اللغوية (Greenbergian Typology & Word Order Universals) — `sch-linguistic-typology`، `thk-joseph-greenberg`، `con-word-order-universals` (الدفعة 5).
 - [ ] النحوُ الوظيفيُّ ونحوُ الدور والمرجع (Dik، Van Valin)
 - [ ] النحوُ الناشئُ عن الاستعمال (Usage-Based Grammar — Bybee، Tomasello)
-- [ ] نحوُ البُنى (Construction Grammar — Goldberg، Fillmore)
+- [x] نحوُ البُنى (Construction Grammar — Goldberg، Fillmore) — `sch-construction-grammar`، `thk-adele-goldberg` (الدفعة 6). فيلمور وكاي ولايكوف (المؤسسون الآخرون) لم يُفرَدوا بعد.
 
 ## 5. اللسانياتُ المعرفية (Cognitive Linguistics)
 
