@@ -21,7 +21,9 @@ related:
 - id: "thk-dewey", title: "جون ديوي", type: "مفكر"
 - id: "thk-peirce", title: "تشارلز ساندرز بيرس", type: "مفكر"
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
+- id: "rel-mead-symbolic-interactionism-sociology-philosophy-bridge", title: "جورج هربرت ميد بين الفلسفة البراغماتية والتفاعلية الرمزية السوسيولوجية", type: "علاقة بين مدرستين"
 gaps:
+  - "**جسرٌ 2026-09-15:** أُضيف `rel-mead-symbolic-interactionism-sociology-philosophy-bridge` وربطه هنا، يصل هذا الملف بمدرسة `sch-mead-social-behaviorism` السوسيولوجية (part: sociology)."
   - "لم يُنشر كتاباً في حياته (توفي قبل أن ينهي 'Mind, Self, and Society'). 'العقل والمجتمع' (1934) حرّره تلاميذه من محاضراته ونسخهم الإملائية."
   - "علاقته بـPierce موضع خلاف (آخِر 'سلوكي' أم 'ظاهراتي'؟)."
   - "لا يوجد اقتباس مباشر موثوق من 'Mind, Self, and Society' بالعربية الفصحى المعاصرة."

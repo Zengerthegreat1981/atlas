@@ -824,3 +824,63 @@ SSK والثقافة والدين والانحراف باختيارات مصدر
 **لم تُمدَّد القائمة بجسور إضافية بعد** (فيبر/البيروقراطية، ميد/التفاعلية الرمزية
 المذكوران كأمثلة توسّع اختيارية) — بانتظار توجيه المنسِّق التالي إن رغب في متابعة
 هذا النطاق أو الانتقال لغيره.
+
+---
+
+## تعميق القسم 8 بأكمله (جلسة موازية أخرى — الميادين والفروع التخصصية)، 2026-09-15
+
+**⚠️ تعارضٌ عابر في القسم 7 (2026-09-15):** لدى استئناف العمل بعد فاصل، وُجدت في
+الشجرة تعديلاتٌ غير ملتزمة على أربع مدارس من القسم 7 (`sch-contemporary-arab-
+sociology`, `sch-elsaadawi-arab-feminist-sociology`, `sch-laroui-shariati-critical-
+arab-islamic-sociology`, `sch-sharabi-neopatriarchy-sociology`) وثلاثة ملفات `wrk-`
+جديدة و`thk-homans`، تخص عمل **الجلسة الأخرى المخصَّصة بالقسم 7 تحديداً** لا هذه
+الجلسة. تحقَّقٌ فوريٌّ بتوجيه المنسِّق: لا تعارض معرّفات (IDs)، لا تكرار محتوًى؛ عند
+محاولة الالتزام تبيَّن أن الجلسة الأخرى كانت قد التزمت الملفات نفسها بنفسها فعلياً
+(commit `da5cb918`) — أي أن ما بدا تعارضاً كان سباق مزامنة عابراً في الشجرة المشتركة
+انتهى تلقائياً دون فقدان أي عمل ودون الحاجة لدمجٍ يدوي. **الدرس:** حين تظهر تعديلاتٌ
+غير ملتزمة لا تعرفها الجلسة الحالية في نطاق جلسة أخرى، أفضل تصرف هو التحقق (لا
+الحذف ولا الالتزام العشوائي) ثم محاولة الالتزام بحذر — فإما ينجح (وعندها التزامه
+فوراً واجب) أو يتبيّن أنه التزم فعلاً من الطرف الآخر (كما حدث هنا).
+
+بعد ذلك، وبتوجيه المنسِّق الصريح بعدم لمس القسم 7 مجدداً إطلاقاً، طُبِّق تعميق **القسم
+8 بأكمله (20 مدرسة، آخر قسم في `sociology-schools-backlog.md`)**: سوسيولوجيا المعرفة
+والعلوم، الثقافة وأنماط الحياة، الدين والعلمانية، الانحراف والجريمة، الطبية والصحية،
+الحضرية وتخطيط المدن، الريفية والزراعية، البيئية والاستدامة، الاقتصادية والتجذر،
+العمل والمهن، السياسية والمواطنة، التربية وإعادة الإنتاج، الأسرة والنوع الاجتماعي،
+الهجرة والشتات، الشيخوخة ودورة الحياة، الشباب والثقافات الفرعية، الفن والأدب، القانون
+والضبط الاجتماعي، الحركات الاجتماعية، والعسكرية.
+
+**الإضافات (2026-09-15، بنفس معيار التعميق: مصدران حقيقيان، DR-009، ربطٌ متبادل حرفي):**
+- `dbt-science-wars-sokal-affair-ssk-relativism` → `sch-sociology-of-scientific-knowledge`
+- `con-cultural-omnivore-peterson` → `sch-sociology-of-culture-lifestyles`
+- `wrk-sacred-canopy-berger` → `sch-sociology-of-religion-post-secularism` (وربطُ `thk-peter-berger` القائم)
+- `con-moral-panic-folk-devils-cohen` → `sch-sociology-of-deviance-crime-justice`
+- `con-sick-role-parsons` → `sch-medical-health-clinical-sociology`
+- `wrk-urban-villagers-gans` → `sch-urban-sociology-spatial-planning`
+- `thk-charles-galpin` → `sch-rural-agrarian-sociology` (سدَّ فجوةٍ صريحة)
+- `thk-william-catton` → `sch-environmental-sociology-sustainability` (سدَّ فجوةٍ صريحة)
+- ربطُ `thk-granovetter` القائم (بـ`belongs_to` آخر) بـ`sch-economic-sociology-embeddedness` عبر `related`
+- `con-dirty-work-hughes` → `sch-sociology-of-work-occupations`
+- `dbt-mann-marshall-citizenship-linear-critique` → `sch-political-sociology-state-citizenship`
+- `wrk-class-codes-control-bernstein` → `sch-sociology-of-education-cultural-capital`
+- `thk-robert-bales` → `sch-sociology-of-family-gender-intimacy` (سدَّ فجوةٍ صريحة)
+- `thk-william-safran` → `sch-sociology-of-migration-diaspora` (سدَّ فجوةٍ صريحة)
+- `thk-elaine-cumming` → `sch-sociology-of-aging-life-course` (سدَّ فجوةٍ صريحة)
+- `thk-phil-cohen` → `sch-sociology-of-youth-subcultures`
+- `wrk-rules-of-art-bourdieu` → `sch-sociology-of-art-literature-aesthetics`
+- `wrk-general-theory-social-control-black` → `sch-sociology-of-law-social-control`
+- `con-collective-action-frames-snow-benford` → `sch-sociology-of-social-movements-collective-action`
+- `dbt-janowitz-huntington-civil-military-relations` → `sch-military-sociology-armed-conflict`
+
+كل إضافة ملفٌ حقيقيٌّ بمصدرين موثَّقين على الأقل (لا اختلاق)، مُلتزَمٌ فردياً فور
+الكتابة، مع تحقّق الحالة الحية لكل ملف أم عبر `Read` مباشرة قبل كل تعديل. لم يُكتشف
+أي انحدارٍ من نمط Luhmann في ملفات القسم 8.
+
+**النتيجة: القسم 8 مكتمل التعميق بالكامل (20/20 مدرسة)، وبهذا تُستكمَل جولة تعميق
+جميع أقسام `sociology-schools-backlog.md` الثمانية (1 إلى 8) بمعيار «مفكرٌ + مفهومٌ
++ عنصرٌ إضافيٌّ حقيقيٌّ واحد على الأقل» لكل مدرسة، عبر جلستين متوازيتين عملتا بتنسيق
+غير مباشر عبر هذا المتتبع طوال المهمة.**
+
+بانتظار توجيه المنسِّق التالي: تقرير حالة عددية شاملة (هل بلغ إجمالي عقد `part:
+"sociology"` هدف 1,200-1,500؟)، أو تعميقٌ إضافي (عناصر ثالثة/رابعة لمدارس مختارة)،
+أو نطاقٌ جديد كلياً (جسور إضافية، مراجعة مصادر رجعية لأقسام أخرى، إلخ).

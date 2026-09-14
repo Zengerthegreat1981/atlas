@@ -17,7 +17,9 @@ related:
 - id: "sch-social-psychology", title: "علم النفس الاجتماعي (Social Psychology)", type: "مدرسة"
 - id: "stu-milgram-obedience", title: "تجربة ميلغرام للطاعة والسلطة", type: "دراسة وبحث"
 - id: "wrk-milgram-obedience-authority", title: "الطاعة للسلطة (Obedience to Authority)", type: "عمل / كتاب"
+- id: "rel-weber-bureaucracy-sociology-milgram-agentic-state-psychology-bridge", title: "من العقلنة البيروقراطية عند فيبر إلى الحالة الوكالية النفسية عند ميلغرام", type: "علاقة بين مدرستين"
 gaps:
+  - "**جسرٌ 2026-09-15:** أُضيف `rel-weber-bureaucracy-sociology-milgram-agentic-state-psychology-bridge` وربطه هنا، يصل هذا المفهوم بمدرسة `sch-weberian-rationalization-bureaucracy` السوسيولوجية."
   - "الانتقال بين الحالة الذاتية المستقلة (Autonomous State) والحالة الوكالية (Agentic State) يحتاج تفصيلاً أوسع لعتبات التحول بينهما."
   - "لا تتوفر ترجمة عربية موثقة لاقتباس حرفي من كتاب ميلغرام يمكن إدراجه هنا."
 ---
