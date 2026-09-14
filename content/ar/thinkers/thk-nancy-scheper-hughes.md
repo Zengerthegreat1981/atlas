@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-structural-violence-health", title: "العنفُ البنيويُّ والصحّة (Structural Violence — Farmer, Scheper-Hughes)", type: "مدرسة"
 - id: "thk-paul-farmer", title: "پول فارمر (Paul Farmer)", type: "مفكر"
+- id: "wrk-death-without-weeping-scheper-hughes", title: "موتٌ بلا بكاء (Death Without Weeping)", type: "عمل / كتاب"
 gaps: []
 ---
 # نانسي شيپر-هيوز (Nancy Scheper-Hughes)

@@ -18,6 +18,7 @@ related:
 - id: "sch-linguistic-relativity", title: "الأنثروبولوجيا اللسانية وفرضيةُ سابير-وورف (Linguistic Relativity)", type: "مدرسة"
 - id: "thk-franz-boas", title: "فرانز بواس (Franz Boas)", type: "مفكر"
 - id: "con-phonemic-principle-sapir", title: "المبدأُ الفونيميّ عند سابير (The Psychological Reality of the Phoneme)", type: "مفهوم"
+- id: "wrk-language-sapir", title: "اللغة: مدخلٌ إلى دراسة الكلام (Language)", type: "عمل / كتاب"
 gaps: []
 ---
 # إدوارد سابير (Edward Sapir)

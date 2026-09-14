@@ -18,6 +18,7 @@ related:
 - id: "sch-structural-violence-health", title: "العنفُ البنيويُّ والصحّة (Structural Violence — Farmer, Scheper-Hughes)", type: "مدرسة"
 - id: "thk-arthur-kleinman", title: "آرثر كلاينمان (Arthur Kleinman)", type: "مفكر"
 - id: "con-structural-violence-definition", title: "العنفُ البنيويّ (Structural Violence)", type: "مفهوم"
+- id: "wrk-pathologies-of-power-farmer", title: "علمُ أمراض السلطة (Pathologies of Power)", type: "عمل / كتاب"
 gaps: []
 ---
 # پول فارمر (Paul Farmer)

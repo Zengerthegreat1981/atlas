@@ -1,6 +1,6 @@
 ---
 slug: "wrk-reality-and-dream-devereux"
-id: "WRK-9403"
+id: "WRK-9606"
 type: "عمل / كتاب"
 part: "anthropology"
 level: "متقدم"
