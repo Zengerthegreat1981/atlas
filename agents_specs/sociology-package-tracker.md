@@ -216,6 +216,12 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 (اللغة، وهذه الجلسة/علم الاجتماع)؛ استُعمل `git reset` عام ثم `git add` بمسارات محدَّدة لعزل ملفات
 هذه الدفعة فقط قبل الالتزام. **أوّل بند للدفعة التالية:** `sch-parsonian-pattern-variables`.
 
+**الدفعة 35 (2026-09-14):** كُتب `con-pattern-variables-parsons` وأُسند إلى
+`sch-parsonian-pattern-variables` (موجودة سلفاً) وأُضيف رابطه فيها. الفحوص الثلاثة صفر على نطاق
+ملفات هذه الدفعة. **ملاحظة تعايش:** الملفان (المدرسة والمفهوم) التُزما فعلياً عبر التزامٍ لجلسة
+لغوية موازية سحبت فهرس git المشترك (`77f34622`) بدل التزام مستقل من هذه الجلسة؛ لا خطأ محتوى،
+مجرد سباق فهرسة مطابق للحوادث السابقة. **أوّل بند للدفعة التالية:** `sch-mertonian-middle-range`.
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
@@ -267,7 +273,7 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 
 - [x] `sch-parsonian-action-frame` — نظرية الفعل الاجتماعي والتركيب البارسونزي (Parsonian Action Frame of Reference)
 - [x] `sch-parsonian-structural-functionalism-agil` — الوظيفية البنائية الشاملة ونموذج AGIL (Parsonian Structural Functionalism)
-- [ ] `sch-parsonian-pattern-variables` — متغيرات النمط ونظرية التحديث (Parsonian Pattern Variables & Modernization Theory)
+- [x] `sch-parsonian-pattern-variables` — متغيرات النمط ونظرية التحديث (Parsonian Pattern Variables & Modernization Theory)
 - [ ] `sch-mertonian-middle-range` — وظيفية المدى المتوسط والتحليل البنائي (Mertonian Middle-Range Functionalism)
 - [ ] `sch-mertons-strain-theory` — نظرية التوتر والأنومي (Merton's Strain Theory of Deviance)
 - [ ] `sch-reference-group-relative-deprivation` — نظرية الجماعات المرجعية والحرمان النسبي (Reference Group & Relative Deprivation Theory)
