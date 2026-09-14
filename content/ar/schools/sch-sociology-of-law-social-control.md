@@ -18,8 +18,10 @@ edges: []
 related:
 - id: "thk-donald-black", title: "دونالد بلاك", type: "مفكر"
 - id: "con-behavior-of-law-black", title: "سلوك القانون والنظرية الصورية (Behavior of Law)", type: "مفهوم"
+- id: "wrk-general-theory-social-control-black", title: "نحو نظرية عامة للضبط الاجتماعي", type: "عمل"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8)."
+  - "**تعميقٌ 2026-09-15:** أُضيف `wrk-general-theory-social-control-black` (يُفرد الموسوعة المذكورة كمصدرٍ ثانٍ) وربطه هنا."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-donald-black`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
 ---
 
