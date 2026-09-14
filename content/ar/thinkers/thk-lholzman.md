@@ -15,8 +15,8 @@ part: "psychology"
 edges: []
 related:
 - id: "thk-fnewman", title: "فريد نيومان", type: "مفكر"
-- id: "thk-aschultz", title: "ألان شولتز", type: "مفكر"
 gaps:
+  - "**قُطع رابطٌ إلى عقدةٍ حُجرت بتاريخ 2026-09-14** لتعذُّر التحقّق من وجود صاحبها. الرابطُ المحذوف: `thk-aschultz` («ألان شولتز»). ويُعاد متى رُفع الحجر."
   - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«العلاج الاجتماعي (Social Therapy)» في content/ar/schools أو branches."
   - "لا يوجد اقتباس مباشر موثوق من *Performing Psychology* (1999) بترجمة عربية معتمدة."
 ---

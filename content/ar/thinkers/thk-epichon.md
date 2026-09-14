@@ -15,7 +15,7 @@ part: "psychology"
 edges:
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
 related:
-- id: "thk-arascovsky", title: "أرماندو راسكوفسكي", type: "مفكر"
+- id: "thk-arascovsky", title: "أرنالدو راسكوفسكي", type: "مفكر"
 - id: "thk-retchegoyen", title: "ريكاردو أوراسيو إتشغوين", type: "مفكر"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-mlanger", title: "ماري لانغر", type: "مفكر"
