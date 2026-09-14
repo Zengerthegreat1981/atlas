@@ -16,9 +16,12 @@ active_start: 1951
 active_end: 1979
 edges:
 - rel: "belongs_to", target: "sch-parsonian-action-frame", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-parsons", title: "تالكوت بارسونز", type: "مفكر"
+- id: "con-agil-scheme-parsons", title: "نموذج AGIL للمتطلبات الوظيفية عند بارسونز", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3)، ويكمل `sch-parsonian-action-frame` المنشأ في الدفعة نفسها."
+  - "**سُدَّ 2026-09-14 (الدفعة 34):** كُتب `con-agil-scheme-parsons` (يفصّل نموذج AGIL) وأُضيف رابطه هنا مع رابط `thk-parsons`."
 ---
 
 # الوظيفية البنائية الشاملة ونموذج AGIL

@@ -209,6 +209,13 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 لجلسة ثالثة يبدو أنها بدأت العمل بالتوازي على قسم اللغة). **أوّل بند للدفعة التالية:**
 `sch-parsonian-structural-functionalism-agil`.
 
+**الدفعة 34 (2026-09-14):** كُتب `con-agil-scheme-parsons` وأُسند إلى
+`sch-parsonian-structural-functionalism-agil` (موجودة سلفاً) وأُضيف رابطه فيها. الفحوص الثلاثة
+صفر على نطاق ملفات هذه الدفعة. **ملاحظة تعايش مهمة:** ظهرت في الشجرة المشتركة الآن ملفات جلسة
+ثالثة تعمل على `anthropology-schools-backlog.md` (الأنثروبولوجيا) بالتوازي مع الجلستين السابقتين
+(اللغة، وهذه الجلسة/علم الاجتماع)؛ استُعمل `git reset` عام ثم `git add` بمسارات محدَّدة لعزل ملفات
+هذه الدفعة فقط قبل الالتزام. **أوّل بند للدفعة التالية:** `sch-parsonian-pattern-variables`.
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
@@ -259,7 +266,7 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 ## 3. الوظيفية البنائية، نظرية الأنساق ونظرية التبادل (Structural Functionalism, Systems & Exchange Theory)
 
 - [x] `sch-parsonian-action-frame` — نظرية الفعل الاجتماعي والتركيب البارسونزي (Parsonian Action Frame of Reference)
-- [ ] `sch-parsonian-structural-functionalism-agil` — الوظيفية البنائية الشاملة ونموذج AGIL (Parsonian Structural Functionalism)
+- [x] `sch-parsonian-structural-functionalism-agil` — الوظيفية البنائية الشاملة ونموذج AGIL (Parsonian Structural Functionalism)
 - [ ] `sch-parsonian-pattern-variables` — متغيرات النمط ونظرية التحديث (Parsonian Pattern Variables & Modernization Theory)
 - [ ] `sch-mertonian-middle-range` — وظيفية المدى المتوسط والتحليل البنائي (Mertonian Middle-Range Functionalism)
 - [ ] `sch-mertons-strain-theory` — نظرية التوتر والأنومي (Merton's Strain Theory of Deviance)
