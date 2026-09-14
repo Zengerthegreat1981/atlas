@@ -19,6 +19,7 @@ related:
 - id: "sch-dorothy-smith-institutional-ethnography", title: "الإثنوغرافيا المؤسسية", type: "مدرسة"
 - id: "thk-dorothy-smith", title: "دوروثي سميث", type: "مفكر"
 - id: "con-standpoint-epistemology", title: "إبستمولوجيا الموقع (الموقف)", type: "مفهوم"
+- id: "wrk-everyday-world-as-problematic-smith", title: "الموقف اليومي للعالم: علم اجتماع نسوي (The Everyday World as Problematic)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7 من `sociology-schools-backlog.md`)."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-dorothy-smith`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها. مفهوم `con-standpoint-epistemology` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده."

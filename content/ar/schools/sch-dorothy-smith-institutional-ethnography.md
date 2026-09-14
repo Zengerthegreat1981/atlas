@@ -19,6 +19,7 @@ edges:
 related:
 - id: "thk-dorothy-smith", title: "دوروثي سميث", type: "مفكر"
 - id: "con-institutional-ethnography-smith", title: "الإثنوغرافيا المؤسسية والنصوص الحاكمة (Institutional Ethnography)", type: "مفهوم"
+- id: "wrk-institutional-ethnography-smith", title: "المؤسسية الإثنوغرافية: علم اجتماع من أجل الناس (Institutional Ethnography)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7)، ويكمل `sch-dorothy-smith-standpoint-theory` المنشأ في الدفعة نفسها."
 ---
