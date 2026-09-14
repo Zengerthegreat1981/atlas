@@ -16,9 +16,13 @@ active_start: 1945
 active_end: 1945
 edges:
 - rel: "belongs_to", target: "sch-chicago-urban-ecology", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-st-clair-drake", title: "سينت كلير دريك", type: "مفكر"
+- id: "thk-cayton", title: "هوراس كايتون", type: "مفكر"
+- id: "con-residential-segregation-black-metropolis", title: "الفصل السكني في المتروبوليس الأسود", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2). لا يوجد بعد ملفات مستقلة لسينت كلير دريك (`thk-st-clair-drake`) أو هوراس كايتون (`thk-cayton`)."
+  - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2)."
+  - "**سُدَّ 2026-09-14 (الدفعة 31):** كُتب `thk-st-clair-drake`، `thk-cayton`، و`con-residential-segregation-black-metropolis` وأُضيفت روابطها هنا."
 ---
 
 # دراسات المتروبوليس الأسود والتفاوت العرقي
