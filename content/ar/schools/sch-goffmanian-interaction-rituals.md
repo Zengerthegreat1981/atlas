@@ -18,8 +18,10 @@ edges:
 - rel: "belongs_to", target: "sch-goffman-dramaturgical", target_type: "مدرسة"
 related:
 - id: "con-face-work-goffman", title: "العمل على الوجه عند غوفمان", type: "مفهوم"
+- id: "wrk-interaction-ritual-goffman", title: "طقوس التفاعل: مقالات في السلوك وجهاً لوجه", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2)، ويكمل `sch-goffman-dramaturgical` المنشأ في الدفعة نفسها."
+  - "**تعميقٌ 2026-09-14:** أُضيف `wrk-interaction-ritual-goffman` وربطه هنا."
   - "**سُدَّ 2026-09-14 (الدفعة 29):** كُتب `con-face-work-goffman` وأُضيف رابطه هنا."
 ---
 
