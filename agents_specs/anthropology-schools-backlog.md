@@ -42,8 +42,8 @@
 ## 4. المدرسةُ الأمريكية والنسبيةُ الثقافية (American Cultural Anthropology)
 
 - [x] النسبيةُ الثقافية البواسية (Boasian Cultural Relativism & Historical Particularism) — `sch-boasian-cultural-relativism`، `thk-franz-boas`
-- [ ] مدرسةُ الثقافة والشخصية (Culture and Personality — Benedict, Mead)
-- [ ] الأنثروبولوجيا اللسانية وفرضيةُ سابير-وورف (Linguistic Relativity)
+- [x] مدرسةُ الثقافة والشخصية (Culture and Personality — Benedict, Mead) — `sch-culture-and-personality`، `thk-ruth-benedict`، `thk-margaret-mead`
+- [x] الأنثروبولوجيا اللسانية وفرضيةُ سابير-وورف (Linguistic Relativity) — `sch-linguistic-relativity`، `thk-edward-sapir`، `thk-benjamin-lee-whorf`
 - [ ] الإيكولوجيا الثقافية والتطوّريةُ الجديدة (Cultural Ecology — Steward, White)
 - [ ] المادّيةُ الثقافية (Cultural Materialism — Marvin Harris)
 - [ ] الأنثروبولوجيا المعرفية والإثنوعلوم (Cognitive Anthropology & Ethnoscience)
