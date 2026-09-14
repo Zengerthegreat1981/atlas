@@ -36,7 +36,7 @@
 - [x] اللسانياتُ السوسيرية (اللغةُ والكلام، الدالُّ والمدلول، التزامنيُّ والتعاقبيّ) — `sch-saussurean-structuralism`، `thk-ferdinand-de-saussure`، `wrk-cours-de-linguistique-generale`، `con-signifier-signified`، `con-langue-parole` (الدفعة 2).
 - [~] حلقةُ براغ والوظيفيةُ اللسانية (ترويتسكوي، ياكوبسون، الفونيم) — `sch-prague-linguistic-circle`، `thk-roman-jakobson`، `con-phoneme` (الدفعة 2). يتبقّى: تروبتسكوي كمفكرٍ مستقل، السماتُ التمييزية كمفهوم.
 - [x] وظائفُ اللغة عند ياكوبسون ونموذجُ التواصل — `con-jakobson-communication-functions` (الدفعة 4).
-- [ ] حلقةُ كوبنهاغن واللسانياتُ الصورية (يلمسليف، Glossematics)
+- [x] حلقةُ كوبنهاغن واللسانياتُ الصورية (يلمسليف، Glossematics) — `sch-copenhagen-glossematics`، `thk-louis-hjelmslev` (الدفعة 5).
 - [~] البنيويةُ الأمريكيةُ والتوزيعية (بلومفيلد، هاريس) — `sch-american-structural-linguistics`، `thk-leonard-bloomfield` (الدفعة 3). يتبقّى: زيغ هاريس كمفكرٍ مستقل، والتحليلُ التوزيعي كمفهومٍ مفرد.
 - [~] اللسانياتُ التاريخيةُ والمقارنة (النحوُ المقارن، قانونُ غريم، إعادةُ بناء الهندو-أوروبية) — `sch-historical-comparative-linguistics`، `thk-william-jones`، `con-grimms-law` (الدفعة 4). يتبقّى: ياكوب غريم كمفكرٍ مستقل، إعادةُ البناء المقارن كمفهومٍ مفرد.
 
@@ -53,7 +53,7 @@
 ## 4. الوظيفيةُ والنمطية (Functional & Typological)
 
 - [ ] اللسانياتُ الوظيفيةُ المنهجية (Hallidayan SFL)
-- [ ] النمطيةُ اللغويةُ والكلّياتُ اللغوية (Greenbergian Typology & Word Order Universals)
+- [x] النمطيةُ اللغويةُ والكلّياتُ اللغوية (Greenbergian Typology & Word Order Universals) — `sch-linguistic-typology`، `thk-joseph-greenberg`، `con-word-order-universals` (الدفعة 5).
 - [ ] النحوُ الوظيفيُّ ونحوُ الدور والمرجع (Dik، Van Valin)
 - [ ] النحوُ الناشئُ عن الاستعمال (Usage-Based Grammar — Bybee، Tomasello)
 - [ ] نحوُ البُنى (Construction Grammar — Goldberg، Fillmore)
