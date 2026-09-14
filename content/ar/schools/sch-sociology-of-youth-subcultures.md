@@ -18,7 +18,9 @@ edges: []
 related:
 - id: "thk-dick-hebdige", title: "ديك هبديج", type: "مفكر"
 - id: "con-subcultural-style-resistance-hebdige", title: "الطراز والمقاومة الرمزية في الثقافات الفرعية (Subcultural Style)", type: "مفهوم"
+- id: "thk-phil-cohen", title: "فيل كوهين", type: "مفكر"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `thk-phil-cohen` (المفكر الثاني المذكور كمصدرٍ في المتن) وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8)."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-dick-hebdige`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
 ---
