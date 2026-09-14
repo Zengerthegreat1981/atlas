@@ -16,9 +16,12 @@ active_start: 1928
 active_end: 1938
 edges:
 - rel: "belongs_to", target: "sch-chicago-urban-ecology", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-wirth", title: "لويس ورث", type: "مفكر"
+- id: "con-urbanism-as-way-of-life", title: "الحضرية كنمط حياة عند ورث", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2)، ويكمل `sch-chicago-urban-ecology` المنشأ في الدفعة نفسها. لا يوجد بعد ملف مستقل للويس ورث (`thk-wirth`)."
+  - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2)، ويكمل `sch-chicago-urban-ecology` المنشأ في الدفعة نفسها."
+  - "**سُدَّ 2026-09-14 (الدفعة 14):** كُتب `thk-wirth` و`con-urbanism-as-way-of-life` وأُضيفت روابطهما هنا."
 ---
 
 # سوسيولوجيا الحياة الحضرية والغيتو
