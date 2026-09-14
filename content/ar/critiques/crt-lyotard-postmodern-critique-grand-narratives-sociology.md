@@ -14,6 +14,7 @@ edges:
 - rel: "relates_to", target: "sch-parsonian-action-frame", target_type: "مدرسة"
 related:
 - id: "thk-jean-francois-lyotard", title: "جان-فرانسوا ليوتار", type: "مفكر"
+- id: "br-postmodern-sociology-current", title: "التيار ما بعد الحداثي في علم الاجتماع", type: "تيار"
 gaps:
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بسدّ فجوة كاملة في نوع `crt-` ضمن قسم علم الاجتماع. جان-فرانسوا ليوتار (`thk-jean-francois-lyotard`) قد يكون موجوداً بملفٍّ في قسم الفلسفة؛ لم يتحقق من حالته الحية قبل هذا الربط، فالرابط اسميٌّ احتياطي."
 ---
