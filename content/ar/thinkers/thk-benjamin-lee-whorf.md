@@ -18,8 +18,9 @@ related:
 - id: "sch-linguistic-relativity", title: "الأنثروبولوجيا اللسانية وفرضيةُ سابير-وورف (Linguistic Relativity)", type: "مدرسة"
 - id: "thk-edward-sapir", title: "إدوارد سابير (Edward Sapir)", type: "مفكر"
 - id: "wrk-language-thought-reality-whorf", title: "اللغة والفكر والواقع (Language, Thought, and Reality)", type: "عمل / كتاب"
+- id: "con-hopi-time-controversy-whorf", title: "جدلُ زمن الهوپي (The Hopi Time Controversy)", type: "مفهوم"
 gaps:
-  - "زعمُ وورف الشهير عن «كلمات الإسكيمو للثلج» ومثالُ لغة الهوپي وغياب مفهوم الزمن الخطّي — كلاهما موضعُ نقدٍ لغويٍّ لاحقٍ واسع (جيفري بولوم وآخرون)؛ النقدُ مذكورٌ هنا إجمالاً فقط، ولم يُكتب كملفّ نقدٍ (`crt-`) مستقلّ بعد."
+  - "زعمُ وورف عن «كلمات الإسكيمو للثلج» لم يُوسَّع بعد في ملفٍّ مستقلّ؛ مثالُ لغة الهوپي عولج في `con-hopi-time-controversy-whorf`."
 ---
 # بنجامين لي وورف (Benjamin Lee Whorf)
 

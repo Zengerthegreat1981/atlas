@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-descola-beyond-nature-culture", title: "ما وراء الطبيعة/الثقافة (Descola's Beyond Nature and Culture)", type: "مدرسة"
 - id: "thk-eduardo-viveiros-de-castro", title: "إدواردو ڤيڤيروس دي كاسترو (Eduardo Viveiros de Castro)", type: "مفكر"
+- id: "con-four-modes-identification-descola", title: "أنماطُ التماثل الأربعة (The Four Modes of Identification)", type: "مفهوم"
 gaps: []
 ---
 # فيليپ ديسكولا (Philippe Descola)
