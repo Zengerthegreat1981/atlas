@@ -20,7 +20,9 @@ related:
 - id: "sch-blumerian-symbolic-interactionism", title: "التفاعلية الرمزية المنهجية", type: "مدرسة"
 - id: "sch-stryker-burke-structural-interactionism", title: "التفاعلية الرمزية البنائية ونظرية الهوية", type: "مدرسة"
 - id: "con-generalized-other-mead", title: "الآخر المعمَّم عند ميد", type: "مفهوم"
+- id: "dbt-cooley-mead-self-formation", title: "جدل تكوّن الذات: التخيّل الفردي عند كولي مقابل أخذ الدور عند ميد", type: "جدل"
 gaps:
+  - "**تعميقٌ 2026-09-14:** أُضيف رابط `dbt-cooley-mead-self-formation` (مسندٌ بـ`belongs_to` إلى `sch-cooley-looking-glass-self`)."
   - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2). `thk-george-herbert-mead` القائم موسومٌ `part: \"philosophy\"` لا `sociology`، فالإشارة إليه هنا عبر `related` وحده لا `belongs_to` (يشترط تطابق `part`). `belongs_to` لهذا الملف نفسه تُرك فارغاً لغياب جذرٍ سوسيولوجي عام."
   - "**سُدَّ 2026-09-14 (الدفعة 18):** كُتب `con-generalized-other-mead` وأُضيف رابطه هنا."
 ---
