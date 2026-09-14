@@ -38,8 +38,17 @@
 >   وتيفنو (+فرع بولتانسكي وشيابيلو)، دوغلاس وجونسون الوجودية، السردية/التأويلية، البصرية/
 >   الحسية، العلائقية المعاصرة، آرتشر الواقعية النقدية. 4 مفكرين مشتركين مع الفلسفة (شوتز،
 >   فوكو، بودريار، دولوز) رُبطوا عبر `related` فقط.
-> **الدفعةُ التالية (6):** القسم 6 — النظريات المعاصرة والعولمة والمجتمع الرقمي — أوّل بندٍ
-> غيرِ مؤشَّرٍ بـ`[x]` تحت العنوان `## 6.`.
+> - **الدفعة 6 (2026-09-14):** القسم 6 مكتملٌ بالكامل (20/20) — غيدنز الهيكلة (+فرع الحداثة
+>   الفائقة)، بيك مجتمع المخاطرة (+فرع الكوزموبوليتية؛ تنبيهٌ صريح: `thk-beck` القائم شخصٌ
+>   آخر — آرون بيك مؤسس العلاج المعرفي السلوكي، لا أولريش بيك)، باومان الحداثة السائلة
+>   (+فرع الأخلاق وما بعد الهولوكوست)، كاستلز مجتمع الشبكات (+فرع سلطة الاتصال)، ساسن
+>   المدينة العالمية، أپادوراي وروبرتسون العولمة الثقافية، زوبوف رأسمالية المراقبة (+ربط
+>   متبادل مع سرنيتشيك رأسمالية المنصات)، لوبتون السوسيولوجيا الرقمية، روزا التسارع
+>   الاجتماعي، فوستر وشنايبرغ البيئية، كونراد وروز التطبيب، سكوت المقاومة اليومية، بوراوي
+>   علم الاجتماع العام، شيلينغ وترنر الجسد، السوسيولوجيا الحوسبية. 3 مفكرين مشتركين مع
+>   الفلسفة/النفس (غيدنز، باومان) رُبطوا عبر `related` فقط.
+> **الدفعةُ التالية (7):** القسم 7 — السوسيولوجيا النسوية ودراسات الجندر وما بعد الاستعمار
+> والجنوب العالمي — أوّل بندٍ غيرِ مؤشَّرٍ بـ`[x]` تحت العنوان `## 7.`.
 
 # قائمة المدارس والنظريات السوسيولوجية الشاملة — قائمة انتظار (Backlog) لتغطية علم الاجتماع في أطلس
 
@@ -183,26 +192,26 @@
 
 ## 6. النظريات السوسيولوجية المعاصرة، العولمة والمجتمع الرقمي (Contemporary, Globalization & Digital Sociology)
 
-- [ ] نظرية الهيكلة وازدواجية البنية (Giddens' Structuration Theory)
-- [ ] سوسيولوجيا الحداثة الفائقة والانعكاسية (Giddens' Reflexive Modernity & Self-Identity)
-- [ ] نظرية مجتمع المخاطرة والحداثة الثانية (Beck's Risk Society Theory)
-- [ ] سوسيولوجيا الكوزموبوليتية والمخاطر العالمية (Beck's Cosmopolitan Sociology & World at Risk)
-- [ ] سوسيولوجيا الحداثة السائلة (Bauman's Liquid Modernity Paradigm)
-- [ ] سوسيولوجيا الأخلاق في عصر الحداثة وما بعد الهولوكوست (Bauman's Postmodern Ethics & Waste Sociology)
-- [ ] سوسيولوجيا مجتمع الشبكات والمعلومات (Castells' Network Society Theory)
-- [ ] سوسيولوجيا سلطة الاتصال والحركات الرقمية (Castells' Communication Power Sociology)
-- [ ] سوسيولوجيا المدينة العالمية وتدفقات رأس المال (Sassen's Global City & Expulsions Theory)
-- [ ] سوسيولوجيا العولمة الثقافية والمشاهد العولمية (Appadurai & Robertson's Global Culture & Scapes)
-- [ ] سوسيولوجيا رأسمالية المراقبة (Zuboff's Surveillance Capitalism Sociology)
-- [ ] سوسيولوجيا رأسمالية المنصات واقتصاد العمل الحر (Srnicek's Platform Capitalism Sociology)
-- [ ] السوسيولوجيا الرقمية وحكومية البيانات (Lupton's Digital Sociology & Metric Power)
-- [ ] نظرية التسارع الاجتماعي وتغير الإيقاع الزمني (Rosa's Social Acceleration & Resonance Theory)
-- [ ] السوسيولوجيا البيئية ونظرية الصدع الأيضي (Environmental Sociology & Metabolic Rift: Foster & Schnaiberg)
-- [ ] سوسيولوجيا التطبيب والهندسة الحيوية الاجتماعية (Sociology of Medicalization & Biosociality: Conrad & Rose)
-- [ ] سوسيولوجيا المقاومة اليومية والنصوص الخفية (Scott's Everyday Peasant Resistance Sociology)
-- [ ] علم الاجتماع العام وأنماط الممارسة الأربعة (Burawoy's Public Sociology Paradigm)
-- [ ] سوسيولوجيا الجسد والتجسيد الاجتماعي (Sociology of the Body & Embodiment: Shilling & Turner)
-- [ ] السوسيولوجيا الحوسبية وتحليل الآثار الرقمية (Computational Sociology & Big Data Analysis)
+- [x] نظرية الهيكلة وازدواجية البنية (Giddens' Structuration Theory) — `sch-giddens-structuration-theory` (دفعة 6، 2026-09-14)
+- [x] سوسيولوجيا الحداثة الفائقة والانعكاسية (Giddens' Reflexive Modernity & Self-Identity) — `sch-giddens-reflexive-modernity` (دفعة 6، 2026-09-14)
+- [x] نظرية مجتمع المخاطرة والحداثة الثانية (Beck's Risk Society Theory) — `sch-beck-risk-society-theory` (دفعة 6، 2026-09-14)
+- [x] سوسيولوجيا الكوزموبوليتية والمخاطر العالمية (Beck's Cosmopolitan Sociology & World at Risk) — `sch-beck-cosmopolitan-sociology` (دفعة 6، 2026-09-14)
+- [x] سوسيولوجيا الحداثة السائلة (Bauman's Liquid Modernity Paradigm) — `sch-bauman-liquid-modernity` (دفعة 6، 2026-09-14)
+- [x] سوسيولوجيا الأخلاق في عصر الحداثة وما بعد الهولوكوست (Bauman's Postmodern Ethics & Waste Sociology) — `sch-bauman-postmodern-ethics-waste` (دفعة 6، 2026-09-14)
+- [x] سوسيولوجيا مجتمع الشبكات والمعلومات (Castells' Network Society Theory) — `sch-castells-network-society` (دفعة 6، 2026-09-14)
+- [x] سوسيولوجيا سلطة الاتصال والحركات الرقمية (Castells' Communication Power Sociology) — `sch-castells-communication-power` (دفعة 6، 2026-09-14)
+- [x] سوسيولوجيا المدينة العالمية وتدفقات رأس المال (Sassen's Global City & Expulsions Theory) — `sch-sassen-global-city` (دفعة 6، 2026-09-14)
+- [x] سوسيولوجيا العولمة الثقافية والمشاهد العولمية (Appadurai & Robertson's Global Culture & Scapes) — `sch-appadurai-robertson-global-culture` (دفعة 6، 2026-09-14)
+- [x] سوسيولوجيا رأسمالية المراقبة (Zuboff's Surveillance Capitalism Sociology) — `sch-zuboff-surveillance-capitalism` (دفعة 6، 2026-09-14)
+- [x] سوسيولوجيا رأسمالية المنصات واقتصاد العمل الحر (Srnicek's Platform Capitalism Sociology) — `sch-srnicek-platform-capitalism` (دفعة 6، 2026-09-14)
+- [x] السوسيولوجيا الرقمية وحكومية البيانات (Lupton's Digital Sociology & Metric Power) — `sch-lupton-digital-sociology` (دفعة 6، 2026-09-14)
+- [x] نظرية التسارع الاجتماعي وتغير الإيقاع الزمني (Rosa's Social Acceleration & Resonance Theory) — `sch-rosa-social-acceleration` (دفعة 6، 2026-09-14)
+- [x] السوسيولوجيا البيئية ونظرية الصدع الأيضي (Environmental Sociology & Metabolic Rift: Foster & Schnaiberg) — `sch-environmental-sociology-metabolic-rift` (دفعة 6، 2026-09-14)
+- [x] سوسيولوجيا التطبيب والهندسة الحيوية الاجتماعية (Sociology of Medicalization & Biosociality: Conrad & Rose) — `sch-medicalization-biosociality` (دفعة 6، 2026-09-14)
+- [x] سوسيولوجيا المقاومة اليومية والنصوص الخفية (Scott's Everyday Peasant Resistance Sociology) — `sch-scott-everyday-peasant-resistance` (دفعة 6، 2026-09-14)
+- [x] علم الاجتماع العام وأنماط الممارسة الأربعة (Burawoy's Public Sociology Paradigm) — `sch-burawoy-public-sociology` (دفعة 6، 2026-09-14)
+- [x] سوسيولوجيا الجسد والتجسيد الاجتماعي (Sociology of the Body & Embodiment: Shilling & Turner) — `sch-sociology-of-body-embodiment` (دفعة 6، 2026-09-14)
+- [x] السوسيولوجيا الحوسبية وتحليل الآثار الرقمية (Computational Sociology & Big Data Analysis) — `sch-computational-sociology-big-data` (دفعة 6، 2026-09-14)
 
 ---
 
