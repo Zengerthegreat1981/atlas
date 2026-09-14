@@ -18,8 +18,10 @@ edges:
 - rel: "belongs_to", target: "sch-goffman-dramaturgical", target_type: "مدرسة"
 related:
 - id: "con-stigma-discredited-discreditable", title: "الوصمة الظاهرة والخفية عند غوفمان", type: "مفهوم"
+- id: "wrk-stigma-goffman", title: "وصمة العار: ملاحظات حول إدارة الهوية المشوَّهة", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2)، ويكمل `sch-goffman-dramaturgical` المنشأ في الدفعة نفسها."
+  - "**تعميقٌ 2026-09-14:** أُضيف `wrk-stigma-goffman` وربطه هنا."
   - "**سُدَّ 2026-09-14 (الدفعة 22):** كُتب `con-stigma-discredited-discreditable` وأُضيف رابطه هنا."
 ---
 
