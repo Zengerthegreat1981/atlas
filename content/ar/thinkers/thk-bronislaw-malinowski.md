@@ -18,6 +18,7 @@ related:
 - id: "sch-malinowskian-functionalism", title: "الوظيفيةُ المالينوفسكية والملاحظةُ بالمشاركة (Malinowskian Functionalism)", type: "مدرسة"
 - id: "con-kula-ring", title: "حلقةُ الكولا (Kula Ring)", type: "مفهوم"
 - id: "wrk-argonauts-western-pacific-malinowski", title: "حجّاجُ الغرب الأرغونوتية (Argonauts of the Western Pacific)", type: "عمل / كتاب"
+- id: "wrk-diary-strict-sense-malinowski", title: "يومياتٌ بالمعنى الدقيق للكلمة (A Diary in the Strict Sense of the Term)", type: "عمل / كتاب"
 gaps:
   - "لم يُنشأ بعد ملفٌّ مستقلٌّ لـ*حجج الغرب الأرغونوتية* (`wrk-`)؛ سيُضاف في دفعةٍ لاحقة مخصَّصةٍ لأعمال القسم."
 ---

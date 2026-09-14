@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-radcliffe-brown-structural-functionalism", title: "الوظيفيةُ البنائية عند رادكليف-براون (Radcliffe-Brownian Structural Functionalism)", type: "مدرسة"
 - id: "con-organic-analogy-radcliffe-brown", title: "القياسُ العضويّ (Organic Analogy)", type: "مفهوم"
+- id: "wrk-structure-function-primitive-society-radcliffe-brown", title: "البنيةُ والوظيفةُ في المجتمع البدائي (Structure and Function in Primitive Society)", type: "عمل / كتاب"
 gaps:
   - "علاقتُه بإميل دوركهايم مذكورةٌ نصّاً (تأثّر مباشر بمفهوم التضامن الاجتماعي)؛ لم يُضَف ضلعُ `evolved_from` صريح لعدم وجود دليلٍ على مدرسةٍ دوركهايمية بريطانية مستقلة في هذا القسم."
 ---
