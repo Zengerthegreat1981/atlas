@@ -17,6 +17,7 @@ active_end: 1995
 edges: []
 related:
 - id: "thk-talal-asad", title: "طلال أسد (Talal Asad)", type: "مفكر"
+- id: "sch-orientalism-anthropological-object", title: "الاستشراقُ بوصفه مسألةً أنثروبولوجية (Said and the Anthropological Object)", type: "مدرسة"
 gaps:
   - "أنشئ الملفُّ في الدفعة 6 من تأسيس قسم الأنثروبولوجيا. جيمس كليفورد وجورج ماركوس (Writing Culture) لم يُكتبا بعد كملفّين مستقلّين — سيُضافان في دفعةٍ لاحقة لإكمال حزمة القسم 6 (أزمة التمثيل)."
 ---
