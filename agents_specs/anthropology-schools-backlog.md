@@ -59,22 +59,22 @@
 
 - [x] النقدُ ما بعد الاستعماريِّ للأنثروبولوجيا (Asad, *Anthropology and the Colonial Encounter*) — `sch-postcolonial-critique-anthropology`، `thk-talal-asad`
 - [x] أزمةُ التمثيل وكتابةُ الثقافة (*Writing Culture* — Clifford & Marcus) — `sch-writing-culture-crisis`، `thk-james-clifford`
-- [ ] الأنثروبولوجيا النسوية وأنثروبولوجيا الجندر (Feminist Anthropology — Strathern, Abu-Lughod)
-- [ ] الاستشراقُ بوصفه مسألةً أنثروبولوجية (Said and the Anthropological Object)
-- [ ] جدلُ ميد–فريمان في ساموا (The Mead–Freeman Controversy)
+- [x] الأنثروبولوجيا النسوية وأنثروبولوجيا الجندر (Feminist Anthropology — Strathern, Abu-Lughod) — `sch-feminist-anthropology`، `thk-marilyn-strathern`، `thk-lila-abu-lughod`
+- [x] الاستشراقُ بوصفه مسألةً أنثروبولوجية (Said and the Anthropological Object) — `sch-orientalism-anthropological-object` (يربط بـ`thk-said` الموجود دون استنساخ)
+- [x] جدلُ ميد–فريمان في ساموا (The Mead–Freeman Controversy) — `dbt-mead-freeman-samoa-controversy`
 
 ## 7. الاقتصادُ السياسيُّ والأنثروبولوجيا الماركسية (Political Economy)
 
 - [ ] الأنثروبولوجيا الماركسية والبنيوية-الماركسية (Godelier, Meillassoux)
-- [ ] الاقتصادُ السياسيُّ العالميُّ والتاريخ (Eric Wolf — *Europe and the People Without History*)
-- [ ] أنثروبولوجيا المقاومة اليومية (James Scott — Weapons of the Weak, Moral Economy)
+- [x] الاقتصادُ السياسيُّ العالميُّ والتاريخ (Eric Wolf — *Europe and the People Without History*) — `sch-anthropological-political-economy`، `thk-eric-wolf`
+- [x] أنثروبولوجيا المقاومة اليومية (James Scott — Weapons of the Weak, Moral Economy) — موجودةٌ مسبقاً تحت `part: "sociology"` (`sch-scott-everyday-peasant-resistance`، `thk-james-c-scott`) بقلم جلسةٍ متزامنة؛ لم يُستنسَخ، بل رُبط إليها من `sch-anthropological-political-economy`
 - [ ] الأنثروبولوجيا الاقتصادية: الجوهرانيةُ مقابل الصوريّة (Substantivism vs Formalism — Polanyi, Sahlins)
 
 ## 8. الممارسةُ والفاعليةُ والجسد (Practice, Agency, Embodiment)
 
-- [ ] نظريةُ الممارسة والهابيتوس (Bourdieu's Theory of Practice)
-- [ ] البنينةُ والفاعلية (Giddens/Ortner — Practice Theory in Anthropology)
-- [ ] أنثروبولوجيا الجسد والتجسيد (Embodiment — Csordas, Mauss's Techniques of the Body)
+- [x] نظريةُ الممارسة والهابيتوس (Bourdieu's Theory of Practice) — موجودةٌ مسبقاً تحت `part: "sociology"` (`thk-bourdieu`، `sch-bourdieu-practice-habitus` وأخواتها) بقلم جلسةٍ متزامنة؛ لم تُستنسَخ، سيُربَط إليها من دفعة الجسور الختامية.
+- [x] البنينةُ والفاعلية (Giddens/Ortner — Practice Theory in Anthropology) — `sch-anthropological-practice-theory`، `thk-sherry-ortner`
+- [x] أنثروبولوجيا الجسد والتجسيد (Embodiment — Csordas, Mauss's Techniques of the Body) — `sch-anthropology-of-embodiment`، `thk-thomas-csordas`
 - [ ] أنثروبولوجيا الحواسّ (Anthropology of the Senses)
 
 ## 9. الأنثروبولوجيا الطبّية والنفسية (Medical & Psychological)
