@@ -108,10 +108,10 @@
 
 ## 12. المناهجُ والأدوات (Methods & Instruments)
 
-- [ ] الإثنوغرافيا والعملُ الميدانيُّ الطويل (Long-Term Fieldwork)
-- [ ] الملاحظةُ بالمشاركة (Participant Observation)
-- [ ] المقابلةُ الإثنوغرافيةُ وتاريخُ الحياة (Ethnographic Interview & Life History)
-- [ ] المقارنةُ الثقافية وبنكُ الملفّات البشرية (HRAF & Cross-Cultural Comparison)
+- [x] الإثنوغرافيا والعملُ الميدانيُّ الطويل (Long-Term Fieldwork) — `ins-long-term-fieldwork`
+- [x] الملاحظةُ بالمشاركة (Participant Observation) — `ins-participant-observation`
+- [x] المقابلةُ الإثنوغرافيةُ وتاريخُ الحياة (Ethnographic Interview & Life History) — `ins-ethnographic-interview-life-history`
+- [x] المقارنةُ الثقافية وبنكُ الملفّات البشرية (HRAF & Cross-Cultural Comparison) — `ins-hraf-cross-cultural-comparison`
 - [ ] تحليلُ القرابة والمصطلحات (Kinship Terminology & Genealogical Method)
 - [ ] الإثنوغرافيا متعدّدةُ المواقع (Multi-Sited Ethnography — Marcus)
 - [ ] الأنثروبولوجيا البصريةُ والفيلمُ الإثنوغرافيّ (Visual Anthropology)
