@@ -30,8 +30,16 @@
 >   لوفيفر (+فرع هارفي)، برافرمان، سكوتشبول (+فرع تيلي وتارو). ثلاثةُ مفكرين مشتركين مع
 >   الفلسفة (ماركوزه، هابرماس، ألتوسير، غرامشي، لاكلاو، موف) رُبطوا عبر `related` فقط
 >   لتباين `part`، لا `belongs_to`.
-> **الدفعةُ التالية (5):** القسم 5 — الظاهراتية، الإثنوميثودولوجيا، نظرية الممارسة وما بعد
-> البنيوية — أوّل بندٍ غيرِ مؤشَّرٍ بـ`[x]` تحت العنوان `## 5.`.
+> - **الدفعة 5 (2026-09-14):** القسم 5 مكتملٌ بالكامل (19/19) — شوتز (+فرع بيرغر ولوكمان)،
+>   غارفينكل (يسدّ فجوةً موثقة في دفعة 0: `sch-conversation-analysis` أُسندت إليه)، بورديو
+>   (الممارسة/الهابيتوس، +فرعان: الحقول ورأس المال، والتمايز/إعادة الإنتاج — أول ملفات بورديو
+>   في الأطلس رغم ذكره المتكرر في gaps سابقة)، فوكو (السلطة الانضباطية، +فرعان: السياسة
+>   الحيوية، المعرفة-السلطة)، بودريار (+ربط متبادل مع دولوز)، دولوز، لاتور وكالون، بولتانسكي
+>   وتيفنو (+فرع بولتانسكي وشيابيلو)، دوغلاس وجونسون الوجودية، السردية/التأويلية، البصرية/
+>   الحسية، العلائقية المعاصرة، آرتشر الواقعية النقدية. 4 مفكرين مشتركين مع الفلسفة (شوتز،
+>   فوكو، بودريار، دولوز) رُبطوا عبر `related` فقط.
+> **الدفعةُ التالية (6):** القسم 6 — النظريات المعاصرة والعولمة والمجتمع الرقمي — أوّل بندٍ
+> غيرِ مؤشَّرٍ بـ`[x]` تحت العنوان `## 6.`.
 
 # قائمة المدارس والنظريات السوسيولوجية الشاملة — قائمة انتظار (Backlog) لتغطية علم الاجتماع في أطلس
 
@@ -150,26 +158,26 @@
 
 ## 5. الظاهراتية، الإثنوميثودولوجيا، نظرية الممارسة وما بعد البنيوية (Phenomenological, Practice & Post-Structuralist)
 
-- [ ] الفينومينولوجيا السوسيولوجية وعالم الحياة المعاش (Schutzian Phenomenological Sociology)
-- [ ] البنائية الاجتماعية للواقع (Berger & Luckmann's Social Constructionism)
-- [ ] الإثنوميثودولوجيا والتفكير العملي العادي (Garfinkelian Ethnomethodology)
+- [x] الفينومينولوجيا السوسيولوجية وعالم الحياة المعاش (Schutzian Phenomenological Sociology) — `sch-schutzian-phenomenological-sociology` (دفعة 5، 2026-09-14)
+- [x] البنائية الاجتماعية للواقع (Berger & Luckmann's Social Constructionism) — `sch-berger-luckmann-social-construction` (دفعة 5، 2026-09-14)
+- [x] الإثنوميثودولوجيا والتفكير العملي العادي (Garfinkelian Ethnomethodology) — `sch-garfinkelian-ethnomethodology` (دفعة 5، 2026-09-14)
 - [x] تحليل المحادثة والتنظيم التفاعلي الصوري (Conversation Analysis: Sacks & Schegloff) — `sch-conversation-analysis` (دفعة 0، 2026-09-14)
-- [ ] نظرية الممارسة والهابيتوس (Bourdieu's Theory of Practice & Habitus)
-- [ ] سوسيولوجيا الحقول وأشكال رأس المال (Bourdieu's Field Theory & Forms of Capital)
-- [ ] سوسيولوجيا التمايز وإعادة الإنتاج الثقافي (Bourdieu's Distinction & Cultural Reproduction)
-- [ ] سوسيولوجيا السلطة الانضباطية والمراقبة (Foucauldian Disciplinary Power & Surveillance)
-- [ ] سوسيولوجيا السياسة الحيوية والحكومية (Foucauldian Biopolitics & Governmentality)
-- [ ] سوسيولوجيا المعرفة-السلطة والتشكيلات الخطابية (Foucauldian Power/Knowledge & Discourse)
-- [ ] سوسيولوجيا المحاكاة والمجتمع الاستهلاكي الفائق (Baudrillardian Hyperreality & Simulation)
-- [ ] سوسيولوجيا التجميع والإنتاج الاجتماعي (Deleuzian Assemblage Sociology)
-- [ ] نظرية شبكة الفواعل وسوسيولوجيا الترجمة (Latour & Callon's Actor-Network Theory - ANT)
-- [ ] سوسيولوجيا التبرير ونماذج الجدارة (Boltanski & Thévenot's Sociology of Worth / Pragmatic Sociology)
-- [ ] سوسيولوجيا نقد الرأسمالية الشبكية (Boltanski & Chiapello's Sociology of Capitalist Spirit)
-- [ ] السوسيولوجيا الوجودية والخبرة المعيشة (Douglas & Johnson's Existential Sociology)
-- [ ] السوسيولوجيا التأويلية والسردية (Narrative & Hermeneutic Sociology)
-- [ ] السوسيولوجيا البصرية والإثنوغرافيا الحسية (Visual Sociology & Sensory Ethnography)
-- [ ] السوسيولوجيا العلائقية المعاصرة (Contemporary Relational Sociology: Emirbayer & Dépelteau)
-- [ ] الواقعية النقدية السوسيولوجية ونظرية المورفوجينيسيس (Archerian Critical Realist Sociology)
+- [x] نظرية الممارسة والهابيتوس (Bourdieu's Theory of Practice & Habitus) — `sch-bourdieu-practice-habitus` (دفعة 5، 2026-09-14)
+- [x] سوسيولوجيا الحقول وأشكال رأس المال (Bourdieu's Field Theory & Forms of Capital) — `sch-bourdieu-field-capital` (دفعة 5، 2026-09-14)
+- [x] سوسيولوجيا التمايز وإعادة الإنتاج الثقافي (Bourdieu's Distinction & Cultural Reproduction) — `sch-bourdieu-distinction-cultural-reproduction` (دفعة 5، 2026-09-14)
+- [x] سوسيولوجيا السلطة الانضباطية والمراقبة (Foucauldian Disciplinary Power & Surveillance) — `sch-foucauldian-disciplinary-power` (دفعة 5، 2026-09-14)
+- [x] سوسيولوجيا السياسة الحيوية والحكومية (Foucauldian Biopolitics & Governmentality) — `sch-foucauldian-biopolitics-governmentality` (دفعة 5، 2026-09-14)
+- [x] سوسيولوجيا المعرفة-السلطة والتشكيلات الخطابية (Foucauldian Power/Knowledge & Discourse) — `sch-foucauldian-power-knowledge-discourse` (دفعة 5، 2026-09-14)
+- [x] سوسيولوجيا المحاكاة والمجتمع الاستهلاكي الفائق (Baudrillardian Hyperreality & Simulation) — `sch-baudrillardian-hyperreality` (دفعة 5، 2026-09-14)
+- [x] سوسيولوجيا التجميع والإنتاج الاجتماعي (Deleuzian Assemblage Sociology) — `sch-deleuzian-assemblage-sociology` (دفعة 5، 2026-09-14)
+- [x] نظرية شبكة الفواعل وسوسيولوجيا الترجمة (Latour & Callon's Actor-Network Theory - ANT) — `sch-latour-callon-actor-network-theory` (دفعة 5، 2026-09-14)
+- [x] سوسيولوجيا التبرير ونماذج الجدارة (Boltanski & Thévenot's Sociology of Worth / Pragmatic Sociology) — `sch-boltanski-thevenot-sociology-of-worth` (دفعة 5، 2026-09-14)
+- [x] سوسيولوجيا نقد الرأسمالية الشبكية (Boltanski & Chiapello's Sociology of Capitalist Spirit) — `sch-boltanski-chiapello-capitalist-spirit` (دفعة 5، 2026-09-14)
+- [x] السوسيولوجيا الوجودية والخبرة المعيشة (Douglas & Johnson's Existential Sociology) — `sch-douglas-johnson-existential-sociology` (دفعة 5، 2026-09-14)
+- [x] السوسيولوجيا التأويلية والسردية (Narrative & Hermeneutic Sociology) — `sch-narrative-hermeneutic-sociology` (دفعة 5، 2026-09-14)
+- [x] السوسيولوجيا البصرية والإثنوغرافيا الحسية (Visual Sociology & Sensory Ethnography) — `sch-visual-sociology-sensory-ethnography` (دفعة 5، 2026-09-14)
+- [x] السوسيولوجيا العلائقية المعاصرة (Contemporary Relational Sociology: Emirbayer & Dépelteau) — `sch-contemporary-relational-sociology` (دفعة 5، 2026-09-14)
+- [x] الواقعية النقدية السوسيولوجية ونظرية المورفوجينيسيس (Archerian Critical Realist Sociology) — `sch-archerian-critical-realist-sociology` (دفعة 5، 2026-09-14)
 
 ---
 
