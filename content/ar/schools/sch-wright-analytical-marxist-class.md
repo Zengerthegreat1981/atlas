@@ -18,8 +18,10 @@ edges: []
 related:
 - id: "thk-erik-olin-wright", title: "إريك أولين رايت", type: "مفكر"
 - id: "con-contradictory-class-locations-wright", title: "المواقع الطبقية المتناقضة (Contradictory Class Locations)", type: "مفهوم"
+- id: "dbt-wright-goldthorpe-marxist-vs-weberian-class-schemes", title: "جدل تصنيف الطبقات المعاصر: الاستغلال الماركسي عند رايت مقابل السوق الفيبري عند غولدثورب", type: "جدل"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)."
+  - "**تعميقٌ 2026-09-14:** أُضيف `dbt-wright-goldthorpe-marxist-vs-weberian-class-schemes` وربطه هنا."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-erik-olin-wright`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
 ---
 
