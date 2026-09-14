@@ -230,6 +230,14 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 `thk-georges-devereux`، ملف غير مُلتزم لجلسة أنثروبولوجيا موازية). **أوّل بند للدفعة التالية:**
 `sch-reference-group-relative-deprivation`.
 
+**الدفعة 37 (2026-09-14):** كُتب `thk-stouffer` و`con-relative-deprivation-stouffer-merton`،
+وأُسندا إلى `sch-reference-group-relative-deprivation` (موجودة سلفاً) وأُضيفت روابطهما فيها.
+الفحوص الثلاثة صفر على نطاق ملفات هذه الدفعة. **ملاحظة تعايش كبيرة:** لوحظ عند هذه الدفعة أن
+عشرات ملفات المدارس (كأنها عملية تصحيح جماعي — ربما إصلاح معجم `sociological_tradition` المؤجَّل
+المذكور أعلى هذا الملف) أصبحت معدَّلة وغير مُلتزمة في الشجرة المشتركة دفعة واحدة؛ استُعمل
+`git reset` عام ثم `git add` بمسارات محدَّدة لعزل ملفات هذه الدفعة فقط، دون لمس تلك التعديلات
+الجماعية غير المفهومة السبب من هذه الجلسة. **أوّل بند للدفعة التالية:** `sch-mertonian-sociology-of-science`.
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
@@ -284,7 +292,7 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 - [x] `sch-parsonian-pattern-variables` — متغيرات النمط ونظرية التحديث (Parsonian Pattern Variables & Modernization Theory)
 - [x] `sch-mertonian-middle-range` — وظيفية المدى المتوسط والتحليل البنائي (Mertonian Middle-Range Functionalism)
 - [x] `sch-mertons-strain-theory` — نظرية التوتر والأنومي (Merton's Strain Theory of Deviance)
-- [ ] `sch-reference-group-relative-deprivation` — نظرية الجماعات المرجعية والحرمان النسبي (Reference Group & Relative Deprivation Theory)
+- [x] `sch-reference-group-relative-deprivation` — نظرية الجماعات المرجعية والحرمان النسبي (Reference Group & Relative Deprivation Theory)
 - [ ] `sch-mertonian-sociology-of-science` — سوسيولوجيا العلم والمؤسسة الأكاديمية (Mertonian Sociology of Science / CUDOS)
 - [ ] `sch-neofunctionalism` — الوظيفية الجديدة والتركيب ما بعد البارسونزي (Neofunctionalism: Alexander & Colomy)
 - [ ] `sch-luhmannian-autopoietic-systems` — نظرية الأنساق الاجتماعية الأوتوبويتية (Luhmannian Autopoietic Social Systems Theory)
