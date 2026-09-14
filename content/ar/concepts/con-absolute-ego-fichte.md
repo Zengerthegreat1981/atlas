@@ -20,7 +20,7 @@ related:
 - id: "con-absolute-spirit-hegel", title: "الروح المطلق وتمظهراته (Absolute Spirit)", type: "مفهوم"
 gaps:
   - "التحليل الإبستمولوجي واللغوي الدقيق لتطور المفهوم عبر التاريخ."
-  - "قسمُ «المصادر» في هذا الملفّ كان يسرد عناوينَ مداخلَ أخرى من الأطلس نفسِه مأخوذةً من حقل `related` — أي إحالاتٍ داخليةً لا مصادرَ خارجية. غُيِّر عنوانُ القسم إلى ما يصفه، والملفُّ ما زال بلا مصادرَ موثَّقةٍ خارجية."
+  - "أُضيف قسمُ «المصادر» من الأعمال الأوّلية ومن مدخل «موسوعة ستانفورد الفلسفية» المتحقَّقِ من وجوده. **ولم تُراجَع طبعاتُ الأعمال ولا صفحاتُها.**"
 ---
 # الأنا المطلق الفاعل (The Absolute Ego)
 
@@ -39,3 +39,15 @@ gaps:
 مداخلُ الأطلس المتّصلةُ بهذا المدخل (من حقل `related`) — وهي إحالاتٌ داخلية، لا مصادرُ خارجية:
 
 - *نظرية العلم لفيخته (Wissenschaftslehre)*
+
+## المصادر
+
+**أعمالٌ أوّليةٌ يستند إليها المتن:**
+
+- يوهان غوتليب فيشته — *نظرية العلم لفيخته (Wissenschaftslehre)* (1794، بالألمانية)
+
+**مداخلُ مرجعيةٌ محكَّمة:**
+
+- "Fichte, Johann Gottlieb" — *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/johann-fichte/>
+- "Kant, Immanuel" — *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/kant/>
+- "Hegel, Georg Wilhelm Friedrich" — *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/hegel/>

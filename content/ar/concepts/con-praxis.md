@@ -23,7 +23,7 @@ gaps:
   - "التطبيقات في علم نفس التحرر (Martin-Baro، Moane) وفي علم النفس المجتمعي (Community Psychology) تحتاج توثيقاً."
   - "نقد البراكسيس من منظور ما بعد الحداثة (Lyotard) يحتاج فصلاً."
   - "**صُحِّح النسب/النطاق 2026-09-10:** كان أبوه `rel-phenomenology-existential-therapy` وصُحِّح إلى `sch-marxism` — البراكسيس من «أطروحات عن فويرباخ» (1845) — مقولةٌ ماركسيةٌ لا ظاهراتية."
-  - "قسمُ «المصادر» في هذا الملفّ كان يسرد عناوينَ مداخلَ أخرى من الأطلس نفسِه مأخوذةً من حقل `related` — أي إحالاتٍ داخليةً لا مصادرَ خارجية. غُيِّر عنوانُ القسم إلى ما يصفه، والملفُّ ما زال بلا مصادرَ موثَّقةٍ خارجية."
+  - "أُضيف قسمُ «المصادر» من الأعمال الأوّلية ومن مدخل «موسوعة ستانفورد الفلسفية» المتحقَّقِ من وجوده. **ولم تُراجَع طبعاتُ الأعمال ولا صفحاتُها.**"
 ---
 # البراكسيس (Praxis): الفعل المتأمل الذي يَغيّر العالم
 
@@ -46,3 +46,15 @@ gaps:
 مداخلُ الأطلس المتّصلةُ بهذا المدخل (من حقل `related`) — وهي إحالاتٌ داخلية، لا مصادرُ خارجية:
 
 - *تعليم المضطهدين (Pedagogy of the Oppressed)*
+
+## المصادر
+
+**أعمالٌ أوّليةٌ يستند إليها المتن:**
+
+- باولو فريري — *تعليم المضطهدين (Pedagogy of the Oppressed)* (1968، بالبرتغالية)
+
+**مداخلُ مرجعيةٌ محكَّمة:**
+
+- "Marx, Karl" — *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/marx/>
+- "Arendt, Hannah" — *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/arendt/>
+- "Gramsci, Antonio" — *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/gramsci/>

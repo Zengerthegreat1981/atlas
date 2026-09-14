@@ -26,7 +26,7 @@ gaps:
   - "التمييز بين الرمز (Symbol)، والأيقونة (Icon)، والمؤشر (Index) عند بيرس يحتاج فصلاً."
   - "الاستخدام في علم نفس يونغ (الرموز المعمارية للذات، الـArchetypes) خارج نطاق الجسر المباشر."
   - "الفرق بين الرمز والاستعارة (Metaphor) في الأدب يحتاج توثيقاً."
-  - "قسمُ «المصادر» في هذا الملفّ كان يسرد عناوينَ مداخلَ أخرى من الأطلس نفسِه مأخوذةً من حقل `related` — أي إحالاتٍ داخليةً لا مصادرَ خارجية. غُيِّر عنوانُ القسم إلى ما يصفه، والملفُّ ما زال بلا مصادرَ موثَّقةٍ خارجية."
+  - "أُضيف قسمُ «المصادر» من الأعمال الأوّلية ومن مدخل «موسوعة ستانفورد الفلسفية» المتحقَّقِ من وجوده. **ولم تُراجَع طبعاتُ الأعمال ولا صفحاتُها.**"
 ---
 # الرمز (Symbol): ما يَحمل معنى يتجاوز ذاته
 
@@ -50,3 +50,16 @@ gaps:
 
 - *مقال عن الإنسان (An Essay on Man) - كاسيرر*
 - *فلسفة الأشكال الرمزية (Philosophie der symbolischen Formen) - كاسيرر*
+
+## المصادر
+
+**أعمالٌ أوّليةٌ يستند إليها المتن:**
+
+- إرنست كاسيرر — *مقال عن الإنسان (An Essay on Man) - كاسيرر* (1944، بالإنجليزية)
+- إرنست كاسيرر — *فلسفة الأشكال الرمزية (Philosophie der symbolischen Formen) - كاسيرر* (null، بالألمانية)
+
+**مداخلُ مرجعيةٌ محكَّمة:**
+
+- "Cassirer, Ernst" — *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/cassirer/>
+- "Langer, Susanne" — *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/langer/>
+- "Peirce, Charles Sanders" — *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/peirce/>

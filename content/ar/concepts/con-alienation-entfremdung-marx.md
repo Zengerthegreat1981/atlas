@@ -22,7 +22,7 @@ related:
 gaps:
   - "لم تُراجع بعد المخطوطات الأربعة لعام 1844 (Ökonomisch-philosophische Manuskripte) من مصدر أولي مباشر لاستخراج اقتباس موثق."
   - "لا يوجد بعد تمييز موثّق بين استخدام هيغل المبكر لمصطلح Entfremdung واستخدام ماركس اللاحق له."
-  - "قسمُ «المصادر» في هذا الملفّ كان يسرد عناوينَ مداخلَ أخرى من الأطلس نفسِه مأخوذةً من حقل `related` — أي إحالاتٍ داخليةً لا مصادرَ خارجية. غُيِّر عنوانُ القسم إلى ما يصفه، والملفُّ ما زال بلا مصادرَ موثَّقةٍ خارجية."
+  - "أُضيف قسمُ «المصادر» من الأعمال الأوّلية ومن مدخل «موسوعة ستانفورد الفلسفية» المتحقَّقِ من وجوده. **ولم تُراجَع طبعاتُ الأعمال ولا صفحاتُها.**"
 ---
 # الاغتراب والعمل المستلب (Alienation / Entfremdung)
 
@@ -46,3 +46,16 @@ gaps:
 
 - *مخطوطات باريس الاقتصادية والفلسفية 1844 لماركس*
 - *رأس المال لكارل ماركس (Das Kapital)*
+
+## المصادر
+
+**أعمالٌ أوّليةٌ يستند إليها المتن:**
+
+- كارل ماركس — *مخطوطات باريس الاقتصادية والفلسفية 1844 لماركس* (1844، بالألمانية)
+- كارل ماركس — *رأس المال* (1867، بالألمانية)
+
+**مداخلُ مرجعيةٌ محكَّمة:**
+
+- "Marx, Karl" — *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/marx/>
+- "Hegel, Georg Wilhelm Friedrich" — *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/hegel/>
+- "Feuerbach, Ludwig Andreas" — *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/ludwig-feuerbach/>

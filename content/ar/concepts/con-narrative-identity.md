@@ -19,6 +19,7 @@ related:
 - id: "sch-narrative-therapy", title: "العلاج السردي (Narrative Therapy)", type: "مدرسة"
 - id: "con-narrative-identity-ricoeur", title: "الهوية السردية والذات كآخر (Narrative Identity)", type: "مفهوم"
 gaps:
+  - "أُضيف قسمُ «المصادر». **ولم يُتحقَّق من بيانات فصل دانيال دينيت «The Self as a Center of Narrative Gravity» (1992)** المذكورِ في المتن — لم يرد في فهرس Crossref بعنوانه وسنته، فذُكر في المتن ولم يُدرَج في المصادر."
   - "التمييز بين نظرية ريكور (الهوية السردية مقابل الهوية الشخصية) ونظرية دينيت (المركز الذكري للوعي) يحتاج فصلاً مستقلاً."
   - "لم يُعثر على اقتباس أصلي موثّق يمكن نسبته مباشرة لمصدر محدد."
   - "لا يوجد قسم ## المصادر لعدم توفر مراجع محققة تغطي الامتداد الجسري (فلسفة ↔ علاج) تحديداً."
@@ -46,3 +47,15 @@ gaps:
 ## الروابط والسياق
 
 هذا الملف صياغة جسرية (فلسفة ↔ علم نفس) للمفهوم، وثمة ملف فلسفي مقابل هو con-narrative-identity-ricoeur.md يركّز حصراً على صياغة ريكور الدقيقة (idem/ipse) دون الامتداد العلاجي؛ الفصل مقصود كما توضح ملاحظة الازدواج أعلاه. الدائرة الهرمنيوطيقية (con-hermeneutic-circle) هي الآلية المنهجية التي يستعملها ريكور لفهم تشكّل السرد الذاتي، والعلاج السردي (sch-narrative-therapy) هو الامتداد الإكلينيكي المباشر للمفهوم كما يوضح قسم "المعنى النفسي والعلاجي" أعلاه.
+
+## المصادر
+
+**أعمالٌ أوّليةٌ يستند إليها المتن:**
+
+- Paul Ricœur — *Temps et récit* (ثلاثةُ أجزاء، 1983–1985، بالفرنسية؛ الترجمةُ الإنجليزية *Time and Narrative*، University of Chicago Press).
+- Paul Ricœur — *Soi-même comme un autre* (1990، بالفرنسية؛ *Oneself as Another*، University of Chicago Press، 1992).
+- Alasdair MacIntyre — *After Virtue*. London: Duckworth, 1981.
+
+**مداخلُ مرجعيةٌ محكَّمة:**
+
+- "Ricoeur, Paul" — *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/ricoeur/>
