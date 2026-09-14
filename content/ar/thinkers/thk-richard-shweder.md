@@ -16,6 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-psychological-anthropology", target_type: "مدرسة"
 related:
 - id: "sch-psychological-anthropology", title: "الأنثروبولوجيا النفسية وتعلّمُ الثقافة (Psychological Anthropology — Whiting, Shweder, Luhrmann)", type: "مدرسة"
+- id: "con-big-three-morality-shweder", title: "الأخلاقُ الثلاثية (The Big Three of Morality)", type: "مفهوم"
 gaps:
   - "جون ويتينغ وبياتريس ويتينغ (Whiting & Whiting) وتانيا لورمان لم يُكتبوا بعد كملفّاتٍ مستقلّة؛ ذُكروا نصّاً في ملفّ المدرسة كجزءٍ من تاريخها لا كملفّاتٍ قائمة."
 ---

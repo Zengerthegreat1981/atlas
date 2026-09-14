@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-boasian-cultural-relativism", title: "النسبيةُ الثقافية البواسية (Boasian Cultural Relativism & Historical Particularism)", type: "مدرسة"
 - id: "con-cultural-relativism-boas", title: "النسبيةُ الثقافية (Cultural Relativism)", type: "مفهوم"
+- id: "wrk-mind-of-primitive-man-boas", title: "عقلُ الإنسان البدائي (The Mind of Primitive Man)", type: "عمل / كتاب"
 gaps:
   - "ألفرد كروبر لم يُكتب بعد كملفٍّ مستقلّ — سيُضاف إن توفّرت دفعةٌ لاحقة مخصَّصة."
 ---
