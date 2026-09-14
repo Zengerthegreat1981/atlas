@@ -18,8 +18,10 @@ edges: []
 related:
 - id: "thk-c-wright-mills", title: "سي. رايت ميلز", type: "مفكر"
 - id: "con-power-elite-mills", title: "نخبة القوة والتشابك المؤسسي (The Power Elite)", type: "مفهوم"
+- id: "dbt-mills-dahl-power-elite-vs-pluralism", title: "جدل توزيع السلطة الأمريكية: نخبة القوة عند ميلز مقابل التعددية عند دال", type: "جدل"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)."
+  - "**تعميقٌ 2026-09-14:** أُضيف `dbt-mills-dahl-power-elite-vs-pluralism` وربطه هنا."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-c-wright-mills`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
 ---
 
