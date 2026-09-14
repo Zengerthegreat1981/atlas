@@ -643,3 +643,10 @@ analysis-vs-critical-discourse-analysis`. **الموضع التالي:** `sch-bo
 cultural-reproduction` (`wrk-la-distinction-bourdieu`)، و`sch-foucauldian-disciplinary-
 power` (ربط `wrk-discipline-and-punish-foucault` الموجود سلفاً في philosophy).
 **الموضع التالي:** `sch-foucauldian-biopolitics-governmentality` فصاعداً.
+
+**الدفعات 3-5 (2026-09-14):** أُكمل تعميق **القسم 5 بأكمله** (20/20 مدرسة). أُضيفت
+9 ملفات `wrk-` جديدة (شوتز مستثنى مكرر، بيرغر-لوكمان، غارفينكل، بورديو×2، دوغلاس-جونسون،
+لاتور، بولتانسكي-تيفنو، بولتانسكي-شيابيلو، بلامر، بيكر، إميرباير، آرتشر) وربطٌ لأعمال
+فوكو/بودريار/دولوز الموجودة سلفاً في philosophy، بالإضافة إلى `dbt-conversation-
+analysis-vs-critical-discourse-analysis`. **الموضع التالي: القسم 6**، أول بند
+`sch-giddens-structuration-theory`.
