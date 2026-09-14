@@ -18,8 +18,11 @@ edges: []
 related:
 - id: "thk-jose-casanova", title: "خوسيه كازانوفا", type: "مفكر"
 - id: "con-public-religion-privatization-thesis-casanova", title: "الأديان العامة ونقد أطروحة الخصخصة (Public Religion)", type: "مفهوم"
+- id: "wrk-sacred-canopy-berger", title: "المظلة المقدسة", type: "عمل"
+- id: "thk-peter-berger", title: "بيتر بيرغر", type: "مفكر"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8)."
+  - "**تعميقٌ 2026-09-15:** أُضيف `wrk-sacred-canopy-berger` (يُفرد كتاب *المظلة المقدسة* 1967) وربط `thk-peter-berger` (موجودٌ سلفاً بـ`belongs_to` مختلف) عبر `related` هنا."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-jose-casanova`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
 ---
 

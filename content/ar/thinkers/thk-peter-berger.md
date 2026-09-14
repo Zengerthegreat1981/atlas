@@ -17,9 +17,11 @@ edges:
 related:
 - id: "sch-berger-luckmann-social-construction", title: "البنائية الاجتماعية للواقع", type: "مدرسة"
 - id: "sch-schutzian-phenomenological-sociology", title: "الفينومينولوجيا السوسيولوجية وعالم الحياة المعاش", type: "مدرسة"
+- id: "sch-sociology-of-religion-post-secularism", title: "سوسيولوجيا الدين والتحولات العلمانية", type: "مدرسة"
+- id: "wrk-sacred-canopy-berger", title: "المظلة المقدسة", type: "عمل"
 gaps:
   - "شريكه توماس لوكمان لا يزال بلا ملف مستقل؛ الإسناد المشترك للعمل التأسيسي (1966) موثَّق هنا نصياً لا عبر رابط ثنائي."
-  - "أعمال بيرغر اللاحقة في سوسيولوجيا الدين (*The Sacred Canopy*، 1967) وأعماله في سياسات التنمية لم تُستوفَ هنا."
+  - "**سُدَّ 2026-09-15:** أُنشئ `wrk-sacred-canopy-berger` (عمل بيرغر في سوسيولوجيا الدين، 1967) وربط هنا؛ أعماله في سياسات التنمية لا تزال غير مستوفاة."
 ---
 
 # بيتر بيرغر
