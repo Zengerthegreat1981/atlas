@@ -1156,3 +1156,44 @@ small` — كانت جميعها مذكورة اسمياً في `gaps` كفجو�
 - مفكرون ثانويون (`thk-`): 2 عقدة جديدة (المرحلة مستمرة).
 
 مستمرٌّ بدفعات إضافية من تكثيف `thk-` الثانويين ما أمكن.
+
+---
+
+## جولة ثالثة على ins-/crt-/evt-/br- (جلسة موازية أخرى) — 2026-09-15
+
+بتوجيه المنسِّق بعناصر مقترحة محدَّدة لكل نوع، مع التزامٍ صارم بالتحقق من عدم
+التكرار **قبل** الكتابة لكل عنصر (لا بعدها).
+
+**`crt-` (+4، الإجمالي 8 من 30-40):**
+- `crt-mouzelis-critique-alexander-neofunctionalism` (نقد موزيليس للوظيفية الجديدة عند ألكسندر)
+- `crt-lukacs-marxist-critique-weber-rationalization-reification` (نقد لوكاش الماركسي لفيبر)
+- `crt-connell-southern-theory-critique-western-sociological-canon` (نقد كونيل للقانون النظري الغربي، مرتبطٌ بـ`br-global-south-sociology-current`)
+- `crt-harding-feminist-critique-positivist-methodology` (نقد هاردينغ النسوي للموضوعية الوضعية، مرتبطٌ بـ`br-feminist-sociology-current` و`crt-popper-adorno-positivist-dispute-sociology`)
+- **تخطٍّ مبرَّر:** «نقد التبعية لنظرية التحديث» — اكتُشف عند التحقق أن `dbt-modernization-theory-vs-dependency-theory` الموجود سلفاً يغطي المضمون نفسه بالضبط تقريباً؛ لم يُكتب لتفادي التكرار.
+
+**`evt-` (+2، الإجمالي 7 من 35-45):**
+- `evt-coleman-report-equality-educational-opportunity-1966` (تقرير كولمان، مرتبطٌ بـ`ins-hierarchical-linear-modeling`)
+- `evt-kuhn-paradigm-shift-sociology-preparadigmatic-debate-1962` (جدل النموذج الإرشادي الكوهني، مرتبطٌ بحدث أزمة غولدنر)
+- **تخطٍّ مبرَّر:** «تأسيس فرانكفورت 1923» و«انتفاضة 1968» — اكتُشف وجودهما سلفاً (`evt-founding-of-frankfurt-institute-1923`, `evt-may-1968-student-revolt-paris`) من جلسةٍ أخرى.
+- **فجوةٌ صادقة (لم تُخترَع):** «مؤتمر تأسيس الجمعية العربية لعلم الاجتماع» — لم يُعثر على توثيقٍ أوّليٍّ موثوقٍ لحدثٍ محدَّدٍ بهذا الاسم بتاريخٍ ومكانٍ دقيقين؛ تُرك فارغاً بدل اختلاق تفاصيل.
+
+**`ins-` (+3، الإجمالي 13 من 30-40):**
+- `ins-critical-discourse-analysis-fairclough` (تحليل الخطاب النقدي عند فيركلاف، مرتبطٌ بـ`dbt-conversation-analysis-vs-critical-discourse-analysis` الموجود سلفاً)
+- `ins-comparative-historical-method-mill` (طرائق مِل الكلاسيكية، متمايزٌ عن `ins-qualitative-comparative-analysis-ragin` بعلاقة تطورية موضَّحة في `gaps`)
+- `ins-world-values-survey` (مسح القيم العالمي WVS، مرتبطٌ بـ`ins-general-social-survey`)
+- **تخطٍّ مبرَّر:** «الإثنوغرافيا المؤسسية (سميث)» — موجودة سلفاً بالكامل (`sch-dorothy-smith-institutional-ethnography`, `wrk-`, `con-`). «تحليل الشبكة الكمّي (UCINET/متغيرات المركزية)» — تداخلٌ كبيرٌ مع `ins-social-network-analysis-method` الموجود سلفاً (يغطي المركزية والكثافة والتماسك الفرعي)؛ لم يُكتب لتفادي شبه التكرار.
+
+**`br-` (+4، الإجمالي 8 من 60-80):**
+- `br-american-pragmatist-sociology-current` (متمايزٌ عن `sch-mead-social-behaviorism` بتوسيع النطاق لبيرس وجيمس وديوي عموماً)
+- `br-body-emotion-sociology-current` (يربط سوسيولوجيا الجسد بسوسيولوجيا الانفعال دون تكرار أيٍّ منهما)
+- `br-public-sociology-current` (متمايزٌ عن `sch-burawoy-public-sociology` بتتبع التيار عبر دو بوا وميلز وبوراوي معاً، لا بوراوي وحده)
+- `br-neopositivist-variable-sociology-current` (يربط لازارسفلد وهومانز والمقاييس الكمية)
+
+**الإجمالي التراكمي عبر الجولات الثلاث: 13 `ins-`، 8 `crt-`، 7 `evt-`، 8 `br-` =
+36 ملف محتوى + 4 ملفات مفكرين إصلاحية من الجولة السابقة = 40 ملفاً إجمالياً عبر
+هذه المهمة الفرعية. لا تزال جميع الأنواع الأربعة دون الحدّ الأدنى المستهدَف
+(30-80 لكل نوع)، لكنها لم تعد صفراً أو قريبة منه.**
+
+بانتظار توجيه المنسِّق التالي: الاستمرار بدفعاتٍ إضافية (لا تزال أولوية عالية)،
+أو إعادة توازن الجهد نحو أنواعٍ أخرى قريبة من حدودها (`thk-`, `con-`, `wrk-`)
+التي تعمل عليها الجلسة الموازية.
