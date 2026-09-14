@@ -22,9 +22,11 @@ related:
 - id: "sch-cumulative-advantage-theory", title: "سوسيولوجيا المكانة والتمايز الطبقي التراكمي", type: "مدرسة"
 - id: "thk-robert-merton", title: "روبرت ك. ميرتون", type: "مفكر"
 - id: "con-manifest-latent-functions-merton", title: "الوظيفة الظاهرة والكامنة عند ميرتون", type: "مفهوم"
+- id: "wrk-social-theory-social-structure-merton", title: "النظرية الاجتماعية والبنية الاجتماعية", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3). `belongs_to` تُرك فارغاً — درس ميرتون على يد بارسونز في هارفارد لكنه طوّر منهجاً مستقلاً يرفض صراحة «النظرية الكبرى»، فنسبته إلى `sch-parsonian-action-frame` كأمّ تكون مضلِّلة لا دقيقة."
   - "**سُدَّ 2026-09-14 (الدفعة 36):** كُتب `thk-robert-merton` (تنبيه تسمية: لا صلة بـ`thk-merton` القائم، وهو توماس ميرتون الراهب، شخصية مختلفة كلياً) و`con-manifest-latent-functions-merton` وأُضيفت روابطهما هنا."
+  - "**تعميقٌ 2026-09-14:** أُضيف `wrk-social-theory-social-structure-merton` وربطه هنا."
 ---
 
 # وظيفية المدى المتوسط والتحليل البنائي
