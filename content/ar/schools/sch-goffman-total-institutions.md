@@ -18,7 +18,9 @@ edges:
 - rel: "belongs_to", target: "sch-goffman-dramaturgical", target_type: "مدرسة"
 related:
 - id: "con-total-institution-mortification", title: "المؤسسة الشاملة وعملية الإماتة عند غوفمان", type: "مفهوم"
+- id: "dbt-goffman-foucault-institutional-power", title: "جدل تحليل المؤسسات الشاملة: غوفمان التفاعلي مقابل فوكو الخطابي", type: "جدل"
 gaps:
+  - "**تعميقٌ 2026-09-14:** أُضيف `dbt-goffman-foucault-institutional-power` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2)، ويكمل `sch-goffman-dramaturgical` المنشأ في الدفعة نفسها."
   - "**سُدَّ 2026-09-14 (الدفعة 21):** كُتب `con-total-institution-mortification` وأُضيف رابطه هنا."
 ---
