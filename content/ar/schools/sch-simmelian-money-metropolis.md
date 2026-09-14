@@ -16,9 +16,12 @@ active_start: 1900
 active_end: 1903
 edges:
 - rel: "belongs_to", target: "sch-simmelian-formal-sociology", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-simmel", title: "جورج زيمل", type: "مفكر"
+- id: "con-blase-attitude-metropolis-simmel", title: "الموقف المتبلد والعقل المحسوب عند زيمل", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 1 من مهمة بناء قسم علم الاجتماع (القسم 1)، ويكمل `sch-simmelian-formal-sociology` المنشأ في الدفعة نفسها. `related` تُرك فارغاً حتى يُكتب `thk-simmel`."
+  - "هذا الملف أُنشئ في الدفعة 1 من مهمة بناء قسم علم الاجتماع (القسم 1)، ويكمل `sch-simmelian-formal-sociology` المنشأ في الدفعة نفسها."
+  - "**سُدَّت الفجوة 2026-09-14:** كُتب `con-blase-attitude-metropolis-simmel` وأُضيف رابطه هنا مع رابط `thk-simmel`."
 ---
 
 # سوسيولوجيا الثقافة الحضرية والمالية
