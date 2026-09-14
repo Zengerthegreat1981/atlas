@@ -15,9 +15,12 @@ language: "الإنجليزية"
 active_start: 1984
 active_end: 1993
 edges: []
-related: []
+related:
+- id: "thk-chris-shilling", title: "كريس شيلينغ", type: "مفكر"
+- id: "con-body-project-physical-capital", title: "مشروع الجسد ورأس المال الجسدي (Body Project & Physical Capital)", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 6 من مهمة بناء قسم علم الاجتماع (القسم 6). لا يوجد بعد ملفات مستقلة لكريس شيلينغ (`thk-chris-shilling`) أو براين ترنر (`thk-bryan-turner`)؛ `belongs_to` تُرك فارغاً."
+  - "هذا الملف أُنشئ في الدفعة 6 من مهمة بناء قسم علم الاجتماع (القسم 6)."
+  - "**سُدَّ جزئياً 2026-09-14 (دفعة تالية):** أُنشئ `thk-chris-shilling`. براين ترنر (`thk-bryan-turner`) لا يزال بلا ملف مستقل؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً."
 ---
 
 # سوسيولوجيا الجسد والتجسيد الاجتماعي

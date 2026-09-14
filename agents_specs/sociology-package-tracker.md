@@ -257,11 +257,11 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 - [x] `sch-lupton-digital-sociology` — السوسيولوجيا الرقمية وحكومية البيانات (Lupton's Digital Sociology & Metric Power)
 - [x] `sch-rosa-social-acceleration` — نظرية التسارع الاجتماعي وتغير الإيقاع الزمني (Rosa's Social Acceleration & Resonance Theory)
 - [x] `sch-environmental-sociology-metabolic-rift` — السوسيولوجيا البيئية ونظرية الصدع الأيضي (Environmental Sociology & Metabolic Rift: Foster & Schnaiberg)
-- [ ] `sch-medicalization-biosociality` — سوسيولوجيا التطبيب والهندسة الحيوية الاجتماعية (Sociology of Medicalization & Biosociality: Conrad & Rose)
-- [ ] `sch-scott-everyday-peasant-resistance` — سوسيولوجيا المقاومة اليومية والنصوص الخفية (Scott's Everyday Peasant Resistance Sociology)
-- [ ] `sch-burawoy-public-sociology` — علم الاجتماع العام وأنماط الممارسة الأربعة (Burawoy's Public Sociology Paradigm)
-- [ ] `sch-sociology-of-body-embodiment` — سوسيولوجيا الجسد والتجسيد الاجتماعي (Sociology of the Body & Embodiment: Shilling & Turner)
-- [ ] `sch-computational-sociology-big-data` — السوسيولوجيا الحوسبية وتحليل الآثار الرقمية (Computational Sociology & Big Data Analysis)
+- [x] `sch-medicalization-biosociality` — سوسيولوجيا التطبيب والهندسة الحيوية الاجتماعية (Sociology of Medicalization & Biosociality: Conrad & Rose)
+- [x] `sch-scott-everyday-peasant-resistance` — سوسيولوجيا المقاومة اليومية والنصوص الخفية (Scott's Everyday Peasant Resistance Sociology)
+- [x] `sch-burawoy-public-sociology` — علم الاجتماع العام وأنماط الممارسة الأربعة (Burawoy's Public Sociology Paradigm)
+- [x] `sch-sociology-of-body-embodiment` — سوسيولوجيا الجسد والتجسيد الاجتماعي (Sociology of the Body & Embodiment: Shilling & Turner)
+- [x] `sch-computational-sociology-big-data` — السوسيولوجيا الحوسبية وتحليل الآثار الرقمية (Computational Sociology & Big Data Analysis)
 
 ## 7. السوسيولوجيا النسوية، دراسات الجندر، ما بعد الاستعمار والجنوب العالمي (Feminist, Decolonial & Global South)
 
