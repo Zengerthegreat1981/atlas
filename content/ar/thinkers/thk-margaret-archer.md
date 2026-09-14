@@ -16,7 +16,9 @@ edges:
 - rel: "belongs_to", target: "sch-archerian-critical-realist-sociology", target_type: "مدرسة"
 related:
 - id: "sch-archerian-critical-realist-sociology", title: "الواقعية النقدية السوسيولوجية ونظرية المورفوجينيسيس", type: "مدرسة"
+- id: "con-internal-conversation-archer", title: "المحادثة الداخلية عند آرتشر (Internal Conversation)", type: "مفهوم"
 gaps:
+  - "**سُدَّت الفجوة 2026-09-15:** كُتب `con-internal-conversation-archer` وأُضيف رابطه هنا."
   - "أعمالها اللاحقة عن «المحادثة الداخلية» (Internal Conversation) وأنماط التأمل الذاتي (Reflexivity) لم تُستوفَ هنا بالتفصيل."
 ---
 

@@ -14,7 +14,9 @@ edges:
 related:
 - id: "sch-archerian-critical-realist-sociology", title: "الواقعية النقدية السوسيولوجية ونظرية المورفوجينيسيس", type: "مدرسة"
 - id: "thk-margaret-archer", title: "مارغريت آرتشر", type: "مفكر"
+- id: "con-internal-conversation-archer", title: "المحادثة الداخلية عند آرتشر (Internal Conversation)", type: "مفهوم"
 gaps:
+  - "**سُدَّت الفجوة 2026-09-15:** كُتب `con-internal-conversation-archer` وأُضيف رابطه هنا."
   - "لم يُستوفَ هنا تطويرها اللاحق لمفهوم «المحادثة الداخلية» في *Structure, Agency and the Internal Conversation* (2003)."
 ---
 
