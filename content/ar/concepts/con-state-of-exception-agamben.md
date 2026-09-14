@@ -14,8 +14,10 @@ related:
 - id: "con-bare-life-homo-sacer", title: "الحياة العارية والإنسان المستباح (Bare Life / Nuda Vita)", type: "مفهوم"
 - id: "con-biopolitics-and-biopower", title: "السلطة الحيوية والبيوبوليتيك (Biopolitics and Biopower)", type: "مفهوم"
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
+- id: "thk-carl-schmitt", title: "كارل شميت (Carl Schmitt)", type: "مفكر"
+- id: "con-sovereign-exception-schmitt", title: "السيادةُ وحالةُ الاستثناء عند شميت (Sovereign Decision on the Exception)", type: "مفهوم"
 gaps:
-  - "لا توجد مقارنة موثّقة مع مفهوم كارل شميت الأصلي لـ'حالة الاستثناء' (Politische Theologie, 1922) الذي بنى عليه أغامبين نقده."
+  - "**سُدَّ 2026-09-15 (قسم نظرية القانون)**: أُضيف `thk-carl-schmitt` و`con-sovereign-exception-schmitt`، ويوثّقان مفهومَ شميت الأصلي (Politische Theologie, 1922) الذي بنى عليه أغامبين نقده — انظرهما للمقارنة التفصيلية بين الموقفَين (شميت يرى في الاستثناء تجلّياً مشروعاً للسيادة؛ أغامبين يحذّر من تحوّله قاعدةً دائمة)."
   - "لا slug مدرسي مطابق لـ'الفلسفة الإيطالية المعاصرة' التي ينتمي إليها أغامبين — حُذف الرابط والطلب مسجَّل في requests-minimax.md."
 ---
 

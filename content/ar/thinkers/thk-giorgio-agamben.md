@@ -18,7 +18,9 @@ related:
 - id: "thk-antonio-gramsci", title: "أنطونيو غرامشي", type: "مفكر"
 - id: "con-state-of-exception-agamben", title: "حالة الاستثناء والسيادة (State of Exception)", type: "مفهوم"
 - id: "con-bare-life-homo-sacer", title: "الحياة العارية والإنسان المستباح (Bare Life / Nuda Vita)", type: "مفهوم"
+- id: "thk-carl-schmitt", title: "كارل شميت (Carl Schmitt)", type: "مفكر"
 gaps:
+  - "**ربطٌ من قسم نظرية القانون (2026-09-15)**: أُضيف `thk-carl-schmitt` — مصدرُ مفهوم حالة الاستثناء الذي بنى عليه أغامبين نقده، موثَّقٌ بتفصيلٍ في `con-sovereign-exception-schmitt`."
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
   - "لا يوجد اقتباس مباشر موثوق من *Homo Sacer: Il potere sovrano e la nuda vita* (1995) بترجمة عربية معتمدة."
   - "حقل edges.belongs_to فارغ: لا يوجد slug مقابل لـ«الفلسفة الإيطالية المعاصرة» في content/ar/schools أو branches."

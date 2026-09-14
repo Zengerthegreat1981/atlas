@@ -1,0 +1,44 @@
+---
+slug: "wrk-political-theology-schmitt"
+id: "WRK-9877"
+type: "عمل / كتاب"
+part: "legal-theory"
+level: "متقدم"
+title: "اللاهوتُ السياسي (Politische Theologie)"
+author: "كارل شميت"
+author_slug: "thk-carl-schmitt"
+publication_year: 1922
+original_language: "الألمانية"
+en: "Political Theology: Four Chapters on the Concept of Sovereignty"
+crumb: "نظريةُ القانون ← العقابُ والعدالةُ والسيادة ← حالةُ الاستثناء ← اللاهوتُ السياسي"
+legal_tradition: "نظريةُ السيادة وحالةُ الاستثناء"
+active_start: 1922
+active_end: "مستمر"
+edges:
+- rel: "authored_by", target: "thk-carl-schmitt", target_type: "مفكر"
+related:
+- id: "thk-carl-schmitt", title: "كارل شميت (Carl Schmitt)", type: "مفكر"
+- id: "con-sovereign-exception-schmitt", title: "السيادةُ وحالةُ الاستثناء (Sovereign Decision on the Exception)", type: "مفهوم"
+gaps:
+  - "الفصلُ الرابعُ من الكتاب (نقدُ شميت للثيولوجيا السياسية الكاثوليكية المضادة عند دونوسو كورتيس) لم يُعرَض هنا؛ التركيزُ اقتصر على الفصل الأول (تعريف السيادة) بوصفه الأكثرَ تأثيراً في نظرية القانون."
+---
+# اللاهوتُ السياسي (Politische Theologie)
+
+عملٌ قصيرٌ لكن شديدُ التأثير لـ[كارل شميت](thk-carl-schmitt.md)، نُشر عام 1922 وحمل عنواناً فرعياً «أربعةُ فصولٍ في مفهوم السيادة».
+
+## الجملةُ الافتتاحية وأطروحةُ الكتاب
+
+يفتتح شميت الكتابَ بجملته الأشهر: «السيّدُ هو مَن يقرّر في حالة الاستثناء» — انظر تفصيلَ هذه الأطروحة في [السيادة وحالة الاستثناء](con-sovereign-exception-schmitt.md). يطوّر الكتابُ فكرةً موازيةً مثيرةً للجدل: أنّ **المفاهيمَ المركزيةَ في نظرية الدولة الحديثة علمنةٌ لمفاهيمَ لاهوتيةٍ مسيحية** — فالسيّدُ العلمانيُّ القادرُ على تعليق القانون في حالة الطوارئ يوازي بنيوياً الإلهَ القادرَ على التدخّل المعجزيّ الذي يعلّق قوانينَ الطبيعة.
+
+## الجدلُ مع كِلسن
+
+يوجّه الكتابُ نقداً مباشراً لمشروع [هانس كِلسن](thk-hans-kelsen.md) في «النظرية الخالصة للقانون»، معتبراً أنّ افتراضَ نظامٍ قانونيٍّ مكتفٍ بذاته يتجاهل الأصلَ السياسيَّ (لا القانونيّ) لكلّ نظامٍ دستوريّ. هذا الخلافُ استمرّ علناً بين الرجلَين حتى بلغ ذروتَه في جدالهما المباشر عام 1931 حول مَن يحرس الدستورَ الألماني (الرئيسُ عند شميت، المحكمةُ الدستوريةُ عند كِلسن).
+
+## الأثرُ اللاحق
+
+ظلّ الكتابُ مرجعاً محورياً — رغم (وأحياناً بسبب) الجدل الأخلاقي حول مؤلّفه — في نظرية القانون الدستوري ونظرية السيادة طوالَ القرن العشرين، واستعاده [جورجو أغامبين](thk-giorgio-agamben.md) لاحقاً نقطةَ انطلاقٍ لمشروعه النقديّ حول حالة الاستثناء في السياسة المعاصرة.
+
+## المصادر
+
+- Schmitt, Carl. *Political Theology: Four Chapters on the Concept of Sovereignty*. Translated by George Schwab, University of Chicago Press, 2005 (German original: *Politische Theologie*, 1922).
+- Kelsen, Hans. "Wer soll der Hüter der Verfassung sein?" *Die Justiz*, vol. 6, 1931.
