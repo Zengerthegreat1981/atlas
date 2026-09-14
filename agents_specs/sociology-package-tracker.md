@@ -296,6 +296,11 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 وأُسندت إلى `sch-analytical-sociology` (موجودة سلفاً) وأُضيفت روابطها فيها. الفحوص الثلاثة صفر.
 **أوّل بند للدفعة التالية:** `sch-network-exchange-theory`.
 
+**الدفعة 46 (2026-09-14):** كُتب `thk-karen-cook`، `thk-david-willer`، و
+`con-network-exchange-power-dependence`، وأُسندت إلى `sch-network-exchange-theory` (موجودة سلفاً)
+وأُضيفت روابطها فيها. الفحوص الثلاثة صفر. **أوّل بند للدفعة التالية:**
+`sch-new-institutionalism-organizational`.
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
@@ -359,7 +364,7 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 - [x] `sch-blau-structural-exchange` — نظرية التبادل البنائي والتفاوت الطبقي (Blau's Structural Exchange Theory)
 - [x] `sch-coleman-rational-choice-sociology` — سوسيولوجيا الاختيار العقلاني ورأس المال الاجتماعي (Coleman's Rational Choice Sociology)
 - [x] `sch-analytical-sociology` — السوسيولوجيا التحليلية ونظرية الآليات الاجتماعية (Analytical Sociology: Elster & Hedström)
-- [ ] `sch-network-exchange-theory` — نظرية التبادل الشبكي وعلاقات القوة-التبعية (Network Exchange Theory: Willer & Cook)
+- [x] `sch-network-exchange-theory` — نظرية التبادل الشبكي وعلاقات القوة-التبعية (Network Exchange Theory: Willer & Cook)
 - [ ] `sch-new-institutionalism-organizational` — المؤسسية الجديدة في سوسيولوجيا التنظيمات (New Institutionalism in Organizational Sociology: DiMaggio & Powell)
 - [ ] `sch-social-capital-civic` — سوسيولوجيا رأس المال الاجتماعي والشبكات المدنية (Putnam's Social Capital Theory)
 - [ ] `sch-complex-organizations-gouldner-blau` — سوسيولوجيا التنظيمات والخلل البيروقراطي (Sociology of Complex Organizations: Gouldner & Blau)
