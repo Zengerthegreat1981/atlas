@@ -112,10 +112,10 @@
 - [x] الملاحظةُ بالمشاركة (Participant Observation) — `ins-participant-observation`
 - [x] المقابلةُ الإثنوغرافيةُ وتاريخُ الحياة (Ethnographic Interview & Life History) — `ins-ethnographic-interview-life-history`
 - [x] المقارنةُ الثقافية وبنكُ الملفّات البشرية (HRAF & Cross-Cultural Comparison) — `ins-hraf-cross-cultural-comparison`
-- [ ] تحليلُ القرابة والمصطلحات (Kinship Terminology & Genealogical Method)
-- [ ] الإثنوغرافيا متعدّدةُ المواقع (Multi-Sited Ethnography — Marcus)
-- [ ] الأنثروبولوجيا البصريةُ والفيلمُ الإثنوغرافيّ (Visual Anthropology)
-- [ ] أخلاقياتُ البحث والموافقةُ المستنيرة في الميدان (Fieldwork Ethics)
+- [x] تحليلُ القرابة والمصطلحات (Kinship Terminology & Genealogical Method) — `ins-kinship-terminology-genealogical-method`
+- [x] الإثنوغرافيا متعدّدةُ المواقع (Multi-Sited Ethnography — Marcus) — `ins-multi-sited-ethnography`
+- [x] الأنثروبولوجيا البصريةُ والفيلمُ الإثنوغرافيّ (Visual Anthropology) — `ins-visual-anthropology`
+- [x] أخلاقياتُ البحث والموافقةُ المستنيرة في الميدان (Fieldwork Ethics) — `ins-fieldwork-ethics` — القسم 12 مكتمل بالكامل
 
 ---
 
