@@ -16,9 +16,14 @@ active_start: 1918
 active_end: 1920
 edges:
 - rel: "belongs_to", target: "sch-chicago-urban-ecology", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-wi-thomas", title: "ويليام إسحاق توماس", type: "مفكر"
+- id: "thk-znaniecki", title: "فلوريان زنانييكي", type: "مفكر"
+- id: "con-thomas-theorem", title: "نظرية توماس (Thomas Theorem)", type: "مفهوم"
+- id: "stu-polish-peasant-thomas-znaniecki", title: "الفلاح البولندي في أوروبا وأمريكا", type: "دراسة وبحث"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2). لا يوجد بعد ملفات مستقلة لويليام إسحاق توماس (`thk-wi-thomas`) أو فلوريان زنانييكي (`thk-znaniecki`)."
+  - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2)."
+  - "**سُدَّ 2026-09-14 (الدفعة 15):** كُتب `thk-wi-thomas`، `thk-znaniecki`، `con-thomas-theorem`، و`stu-polish-peasant-thomas-znaniecki`، وأُضيفت روابطها هنا."
 ---
 
 # منهج دراسات تاريخ الحياة والتعريف بالموقف
