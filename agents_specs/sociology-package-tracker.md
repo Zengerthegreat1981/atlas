@@ -106,6 +106,12 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 `sch-thomas-znaniecki-life-history` (موجودة سلفاً منذ الدفعة 2) وأُضيفت روابطها فيها. الفحوص
 الثلاثة صفر. **أوّل بند للدفعة التالية:** `sch-whyte-participant-observation`.
 
+**الدفعة 16 (2026-09-14):** كُتب `thk-wf-whyte` و`stu-street-corner-society-whyte`، وأُسندا إلى
+`sch-whyte-participant-observation` (موجودة سلفاً منذ الدفعة 2) وأُضيفت روابطهما فيها. الفحوص
+الثلاثة صفر على نطاق ملفات هذه الدفعة (فحص الشجرة الكاملة يُظهر تصادمَي id وعزلاتٍ في ملفات غير
+مُلتزمة لوكيل آخر — `thk-nick-srnicek`, `thk-deborah-lupton` وغيرها — لم تُلمس هنا). **أوّل بند
+للدفعة التالية:** `sch-cooley-looking-glass-self`.
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
@@ -135,7 +141,7 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 - [x] `sch-chicago-urban-ecology` — مدرسة شيكاغو الإيكولوجية الحضرية الأولى (First Chicago School / Urban Ecology)
 - [x] `sch-wirthian-urbanism-ghetto` — سوسيولوجيا الحياة الحضرية والغيتو (Wirthian Urbanism & Ghetto Studies)
 - [x] `sch-thomas-znaniecki-life-history` — منهج دراسات تاريخ الحياة والتعريف بالموقف (Thomas & Znaniecki's Life History & Situational Sociology)
-- [ ] `sch-whyte-participant-observation` — سوسيولوجيا الملاحظة بالمشاركة والمجتمعات الهامشية (Whyte's Participant Observation Sociology)
+- [x] `sch-whyte-participant-observation` — سوسيولوجيا الملاحظة بالمشاركة والمجتمعات الهامشية (Whyte's Participant Observation Sociology)
 - [ ] `sch-cooley-looking-glass-self` — نظرية الذات المنعكسة في المرآة والجماعات الأولية (Cooley's Looking-Glass Self Theory)
 - [ ] `sch-mead-social-behaviorism` — الأسس البراغماتية للتفاعلية الرمزية (Mead's Social Behaviorism & Mind/Self/Society)
 - [ ] `sch-blumerian-symbolic-interactionism` — التفاعلية الرمزية المنهجية (Blumerian Symbolic Interactionism)

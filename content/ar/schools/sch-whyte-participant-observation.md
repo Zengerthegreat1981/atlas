@@ -16,9 +16,12 @@ active_start: 1943
 active_end: 1955
 edges:
 - rel: "belongs_to", target: "sch-chicago-urban-ecology", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-wf-whyte", title: "ويليام فوت وايت", type: "مفكر"
+- id: "stu-street-corner-society-whyte", title: "مجتمع الزاوية: البنية الاجتماعية لحي إيطالي فقير", type: "دراسة وبحث"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2). لا يوجد بعد ملف مستقل لويليام فوت وايت (`thk-wf-whyte`)."
+  - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2)."
+  - "**سُدَّ 2026-09-14 (الدفعة 16):** كُتب `thk-wf-whyte` و`stu-street-corner-society-whyte` وأُضيفت روابطهما هنا."
 ---
 
 # سوسيولوجيا الملاحظة بالمشاركة والمجتمعات الهامشية
