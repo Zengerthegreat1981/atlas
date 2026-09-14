@@ -301,6 +301,15 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 وأُضيفت روابطها فيها. الفحوص الثلاثة صفر. **أوّل بند للدفعة التالية:**
 `sch-new-institutionalism-organizational`.
 
+**الدفعة 47 (2026-09-14):** كُتب `thk-dimaggio`، `thk-walter-powell`، و
+`con-institutional-isomorphism-dimaggio-powell`، وأُسندت إلى `sch-new-institutionalism-organizational`
+(موجودة سلفاً) وأُضيفت روابطها فيها. الفحوص الثلاثة صفر. **ملاحظة تقدّم في القسم 4:** لوحظ أن
+4 بنود من القسم 4 (`sch-dahrendorfian-conflict-sociology`, `sch-millsian-power-elite`,
+`sch-collins-micro-conflict`, `sch-wallerstein-world-systems`) أُنجزت فعلاً عبر جلسةٍ موازية
+والتُزمت بنجاح (`[x]` أصلاً في القائمة أدناه) — لا تعارض، بل تقدّمٌ حقيقي يقلّل العمل المتبقي.
+**أوّل بند للدفعة التالية:** `sch-complex-organizations-gouldner-blau` ثم بقية القسم 3، ثم إكمال
+القسم 4 من `sch-latin-american-dependency-theory`.
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
@@ -365,7 +374,7 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 - [x] `sch-coleman-rational-choice-sociology` — سوسيولوجيا الاختيار العقلاني ورأس المال الاجتماعي (Coleman's Rational Choice Sociology)
 - [x] `sch-analytical-sociology` — السوسيولوجيا التحليلية ونظرية الآليات الاجتماعية (Analytical Sociology: Elster & Hedström)
 - [x] `sch-network-exchange-theory` — نظرية التبادل الشبكي وعلاقات القوة-التبعية (Network Exchange Theory: Willer & Cook)
-- [ ] `sch-new-institutionalism-organizational` — المؤسسية الجديدة في سوسيولوجيا التنظيمات (New Institutionalism in Organizational Sociology: DiMaggio & Powell)
+- [x] `sch-new-institutionalism-organizational` — المؤسسية الجديدة في سوسيولوجيا التنظيمات (New Institutionalism in Organizational Sociology: DiMaggio & Powell)
 - [ ] `sch-social-capital-civic` — سوسيولوجيا رأس المال الاجتماعي والشبكات المدنية (Putnam's Social Capital Theory)
 - [ ] `sch-complex-organizations-gouldner-blau` — سوسيولوجيا التنظيمات والخلل البيروقراطي (Sociology of Complex Organizations: Gouldner & Blau)
 - [ ] `sch-social-network-analysis-paradigm` — سوسيولوجيا الشبكات الاجتماعية وتحليل البنى (Social Network Analysis Paradigm: Wellman & Granovetter)
