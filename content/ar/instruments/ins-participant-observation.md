@@ -14,6 +14,8 @@ edges:
 related:
 - id: "thk-bronislaw-malinowski", title: "برونيسلاف مالينوفسكي (Bronisław Malinowski)", type: "مفكر"
 - id: "ins-long-term-fieldwork", title: "الإثنوغرافيا والعملُ الميدانيُّ الطويل (Long-Term Fieldwork)", type: "منهج/أداة بحث"
+- id: "ins-ethnographic-interview-life-history", title: "المقابلةُ الإثنوغرافيةُ وتاريخُ الحياة (Ethnographic Interview & Life History)", type: "منهج/أداة بحث"
+- id: "ins-hraf-cross-cultural-comparison", title: "المقارنةُ الثقافية وبنكُ الملفّات البشرية (HRAF & Cross-Cultural Comparison)", type: "منهج/أداة بحث"
 gaps: []
 ---
 # الملاحظةُ بالمشاركة (Participant Observation)
