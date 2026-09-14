@@ -16,9 +16,11 @@ active_start: 1985
 active_end: 1990
 edges:
 - rel: "belongs_to", target: "sch-parsonian-action-frame", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-jeffrey-alexander", title: "جيفري ألكسندر", type: "مفكر"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3)، ويكمل `sch-parsonian-action-frame` المنشأ في الدفعة نفسها. لا يوجد بعد ملف مستقل لجيفري ألكسندر (`thk-jeffrey-alexander`)."
+  - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3)، ويكمل `sch-parsonian-action-frame` المنشأ في الدفعة نفسها."
+  - "**سُدَّ 2026-09-14 (الدفعة 39):** كُتب `thk-jeffrey-alexander` وأُضيف رابطه هنا."
 ---
 
 # الوظيفية الجديدة والتركيب ما بعد البارسونزي
