@@ -677,3 +677,8 @@ power` (ربط `wrk-discipline-and-punish-foucault` الموجود سلفاً ف
 فوكو/بودريار/دولوز الموجودة سلفاً في philosophy، بالإضافة إلى `dbt-conversation-
 analysis-vs-critical-discourse-analysis`. **الموضع التالي: القسم 6**، أول بند
 `sch-giddens-structuration-theory`.
+
+**الدفعات 1-3 من القسم 6 (2026-09-14):** أُضيف عملٌ (`wrk-`) أصليٌّ واحد لكل من أوّل
+12 مدرسة في القسم 6: غيدنز×2، بيك×2، باومان×2، كاستلز×2، ساسن، أپادوراي، زوبوف،
+سرنيتشيك. **الموضع التالي:** `sch-lupton-digital-sociology` فصاعداً (8 مدارس متبقية
+في القسم 6).
