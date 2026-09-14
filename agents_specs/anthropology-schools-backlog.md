@@ -88,8 +88,8 @@
 
 ## 10. المنعطفاتُ المعاصرة (Contemporary Turns)
 
-- [ ] المنعطفُ الأنطولوجيّ (The Ontological Turn — Viveiros de Castro, Holbraad)
-- [ ] المنظوريةُ الأمازونية وتعدّدُ الطبائع (Amerindian Perspectivism)
+- [x] المنعطفُ الأنطولوجيّ (The Ontological Turn — Viveiros de Castro, Holbraad) — `sch-ontological-turn`، `thk-eduardo-viveiros-de-castro`
+- [x] المنظوريةُ الأمازونية وتعدّدُ الطبائع (Amerindian Perspectivism) — `sch-amerindian-perspectivism`
 - [ ] ما وراء الطبيعة/الثقافة (Descola's *Beyond Nature and Culture*)
 - [ ] أنثروبولوجيا السكن والمهارة (Ingold — Dwelling, Lines, Making)
 - [ ] الأنثروبولوجيا متعدّدةُ الأنواع (Multispecies Ethnography — Haraway, Tsing, Kohn)
