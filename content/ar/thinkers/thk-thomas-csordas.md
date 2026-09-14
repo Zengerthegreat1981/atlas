@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-anthropology-of-embodiment", title: "أنثروبولوجيا الجسد والتجسيد (Embodiment — Csordas, Mauss's Techniques of the Body)", type: "مدرسة"
 - id: "thk-marcel-mauss", title: "مارسيل موس (Marcel Mauss)", type: "مفكر"
+- id: "wrk-embodiment-paradigm-csordas", title: "التجسيدُ نموذجاً للأنثروبولوجيا (Embodiment as a Paradigm for Anthropology)", type: "عمل / كتاب"
 gaps: []
 ---
 # توماس كسورداس (Thomas Csordas)
