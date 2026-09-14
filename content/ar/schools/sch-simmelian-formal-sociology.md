@@ -18,8 +18,10 @@ edges: []
 related:
 - id: "sch-simmelian-money-metropolis", title: "سوسيولوجيا الثقافة الحضرية والمالية", type: "مدرسة"
 - id: "thk-simmel", title: "جورج زيمل", type: "مفكر"
+- id: "con-dyad-triad-simmel", title: "الثنائي والثلاثي عند زيمل", type: "مفهوم"
 gaps:
   - "**سُدَّ 2026-09-14 (مرحلة الحزم، دفعة 9):** كُتب `thk-simmel` وأُسند إلى هذا الملف بـ`belongs_to`."
+  - "**تعميقٌ 2026-09-14:** أُضيف `con-dyad-triad-simmel` وربطه هنا."
 ---
 
 # السوسيولوجيا الصورية والشبكات الدقيقة
