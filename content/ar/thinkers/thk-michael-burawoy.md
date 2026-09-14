@@ -16,8 +16,9 @@ edges:
 - rel: "belongs_to", target: "sch-burawoy-public-sociology", target_type: "مدرسة"
 related:
 - id: "sch-burawoy-public-sociology", title: "علم الاجتماع العام وأنماط الممارسة الأربعة", type: "مدرسة"
+- id: "stu-manufacturing-consent-burawoy", title: "صناعة الرضا: التغيّر في عملية العمل تحت الرأسمالية الاحتكارية", type: "دراسة وبحث"
 gaps:
-  - "أعماله الإثنوغرافية المبكرة عن عملية العمل الصناعي (Manufacturing Consent، 1979) خارج نطاق هذا الملف رغم أهميتها في مسيرته."
+  - "**سُدَّت الفجوة 2026-09-15:** كُتب `stu-manufacturing-consent-burawoy` وأُضيف رابطه هنا، موثِّقاً أعماله الإثنوغرافية المبكرة المذكورة أدناه."
 ---
 
 # مايكل بوراوي
