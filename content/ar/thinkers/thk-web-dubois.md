@@ -22,9 +22,11 @@ related:
 - id: "sch-pan-africanism", title: "عموم أفريقيا (Pan-Africanism)", type: "مدرسة"
 - id: "con-race-culturally-aware-therapy", title: "العلاج المراعي للعرق والثقافة", type: "مفهوم"
 - id: "sch-du-boisian-sociology", title: "السوسيولوجيا النقدية للأعراق والازدواجية الوجدانية", type: "مدرسة"
+- id: "con-double-consciousness-dubois", title: "الازدواجية الوجدانية (Double Consciousness) عند دوبوا", type: "مفهوم"
+- id: "wrk-philadelphia-negro-dubois", title: "زنوج فيلادلفيا: دراسة اجتماعية", type: "عمل / كتاب"
 gaps:
   - "**رُبط 2026-09-14 (مرحلة الحزم):** أُضيفت إشارة إلى `sch-du-boisian-sociology` (مدرسة في قسم علم الاجتماع، part: sociology، تعرض إسهامه السوسيولوجي التجريبي المباشر — دراسة فيلادلفيا 1899 ومفهوم الازدواجية الوجدانية — متمايزاً عن دوره الفلسفي والسياسي الأوسع هنا)."
-  - "مفهوم 'الوعي المضاعف' (Double Consciousness) عنده يحتاج ربطاً أوثق بعلم النفس المعاصر وعلم الاجتماع النفسي."
+  - "**سُدَّ 2026-09-14 (الدفعة 11):** كُتب `con-double-consciousness-dubois` و`wrk-philadelphia-negro-dubois` وأُضيف رابطاهما هنا."
   - "علاقته مع القومية الأفريقية لـ Nkrumah تظلّ موضع جدل (هو 'أممي' أكثر منه 'قومي')."
 ---
 

@@ -16,9 +16,11 @@ active_end: 1910
 crumb: "علم الاجتماع ← التأسيس الكلاسيكي ← ويليام غراهام سمنر"
 edges:
 - rel: "belongs_to", target: "sch-sumnerian-evolutionary-sociology", target_type: "مدرسة"
-related: []
+related:
+- id: "con-folkways-mores-sumner", title: "الأعراف الجمعية والأعراف الأخلاقية (Folkways & Mores)", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 9 (مرحلة الحزم). لا عمل `wrk-` مستقل بعد يوثّق *Folkways* (1907) تفصيلياً. لا مفهوم `con-` مستقل بعد لـ«التمركز حول الجماعة» (Ethnocentrism) رغم أن سمنر صاغ المصطلح نفسه."
+  - "هذا الملف أُنشئ في الدفعة 9 (مرحلة الحزم). لا عمل `wrk-` مستقل بعد يوثّق *Folkways* (1907) تفصيلياً كعمل كامل."
+  - "**سُدَّ 2026-09-14 (الدفعة 11):** كُتب `con-folkways-mores-sumner` (يشمل «Folkways» و«Mores» و«Ethnocentrism» معاً) وأُضيف رابطه هنا."
 ---
 
 # ويليام غراهام سمنر

@@ -57,6 +57,17 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 سمنر — لم تُكتب لهم `con-`/`wrk-` بعد)، ثم `sch-khaldunian-ilm-al-umran` و
 `sch-booth-rowntree-social-survey`، ثم الانتقال للقسم 2 (شيكاغو والتفاعلية الرمزية).
 
+**الدفعة 11 (2026-09-14):** أُكملت حلقة ثانية من مفاهيم/أعمال القسم 1 — 4 ملفات `con-` جديدة
+(`con-double-consciousness-dubois`, `con-folkways-mores-sumner`, `con-laws-of-imitation-tarde`,
+`con-crowd-mind-lebon`) و1 ملف `wrk-` جديد (`wrk-philadelphia-negro-dubois`)، مع تحديث `related`
+في `thk-web-dubois`, `thk-sumner`, `thk-tarde`, `thk-lebon`. لم يبقَ في القسم 1 مفهومٌ/عملٌ مستقلٌّ
+لم يُكتب إلا لمارتينو (لا `con-`/`wrk-` مستقل بعد لترجمتها كونت أو منهجها في الملاحظة المقارنة —
+مؤجَّل لأنه أقلّ مركزية من بقية المفاهيم). الفحوص الثلاثة صفر. **ملاحظة تعايش:** جرى العمل في نفس
+شجرة العمل المشتركة مع الوكيل الثاني (الأقسام 5–8)؛ استُعمل `git add` بمسارات محدَّدة لا `-A` لتفادي
+التقاط تعديلاته غير المُلتزمة (`sch-bourdieu-*`, `sch-foucauldian-*`) ضمن هذا الالتزام.
+**أوّل بند للدفعة التالية:** `sch-khaldunian-ilm-al-umran` و`sch-booth-rowntree-social-survey`
+(لا مفكر مستقل لهما بعد)، ثم الانتقال إلى القسم 2 (شيكاغو والتفاعلية الرمزية).
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
