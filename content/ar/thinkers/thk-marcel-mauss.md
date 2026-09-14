@@ -20,7 +20,9 @@ related:
 - id: "con-potlatch", title: "البوتلاتش (Potlatch)", type: "مفهوم"
 - id: "con-techniques-of-the-body-mauss", title: "تقنياتُ الجسد (Techniques of the Body)", type: "مفهوم"
 - id: "wrk-essai-sur-le-don-mauss", title: "مقالةٌ في الهبة (Essai sur le don)", type: "عمل / كتاب"
-gaps: []
+- id: "con-sacrifice-theory-hubert-mauss", title: "نظريةُ القربان عند هوبير وموس (Sacrifice: Its Nature and Function)", type: "مفهوم"
+gaps:
+  - "عملُه المبكر مع هنري هوبير عن القربان (1899) يخصُّ علمَ الأديان المقارن (`part: religious-studies`) لا الأنثروبولوجيا وحدها؛ العقدةُ المستقلة له موجودةٌ هناك (`con-sacrifice-theory-hubert-mauss`) وذُكرت هنا رابطاً فقط دون تكرار المحتوى."
 ---
 # مارسيل موس (Marcel Mauss)
 
