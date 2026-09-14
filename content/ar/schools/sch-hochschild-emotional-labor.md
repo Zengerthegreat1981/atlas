@@ -19,8 +19,10 @@ related:
 - id: "sch-hochschild-care-work", title: "سوسيولوجيا سلاسل الرعاية العالمية والوردية الثانية", type: "مدرسة"
 - id: "thk-hochschild", title: "أرلي راسل هوكشيلد", type: "مفكر"
 - id: "con-emotional-labor-hochschild", title: "العمل العاطفي والتمثيل السطحي والعميق عند هوكشيلد", type: "مفهوم"
+- id: "wrk-managed-heart-hochschild", title: "القلب المُدار: تسليع الشعور الإنساني", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2)."
+  - "**تعميقٌ 2026-09-14:** أُضيف `wrk-managed-heart-hochschild` وربطه هنا."
   - "**سُدَّ 2026-09-14 (الدفعة 27):** كُتب `thk-hochschild` و`con-emotional-labor-hochschild` وأُضيفت روابطهما هنا."
 ---
 
