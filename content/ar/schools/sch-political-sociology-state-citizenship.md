@@ -18,8 +18,10 @@ edges: []
 related:
 - id: "thk-th-marshall", title: "توماس همفري مارشال", type: "مفكر"
 - id: "con-tripartite-citizenship-marshall", title: "المواطنة الثلاثية الأبعاد (Tripartite Citizenship)", type: "مفهوم"
+- id: "dbt-mann-marshall-citizenship-linear-critique", title: "نقد مان لتصور مارشال الخطي للمواطنة: استراتيجيات الطبقة الحاكمة المتباينة", type: "جدل"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8)."
+  - "**تعميقٌ 2026-09-15:** أُضيف `dbt-mann-marshall-citizenship-linear-critique` (يُفرد نقد مان المذكور كمصدرٍ ثانٍ) وربطه هنا."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-th-marshall`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
 ---
 
