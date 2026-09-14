@@ -27,7 +27,7 @@
 
 - [ ] المدرسةُ الدوركهايمية في الأنثروبولوجيا (Année Sociologique)
 - [x] نظريةُ الهبة والتبادل (Maussian Gift Theory) — `sch-maussian-gift-theory`، `thk-marcel-mauss`
-- [ ] طقوسُ العبور (Van Gennep's Rites of Passage)
+- [x] طقوسُ العبور (Van Gennep's Rites of Passage) — `sch-van-gennep-rites-of-passage`، `thk-arnold-van-gennep`
 - [ ] البنيويةُ الأنثروبولوجية (Lévi-Straussian Structuralism)
 - [ ] أنثروبولوجيا الأسطورة والفكر البرّي (Mythologiques / La Pensée Sauvage)
 
@@ -50,15 +50,15 @@
 
 ## 5. الأنثروبولوجيا التأويلية والرمزية (Interpretive & Symbolic)
 
-- [ ] الأنثروبولوجيا التأويلية والوصفُ الكثيف (Geertzian Interpretive Anthropology)
-- [ ] الأنثروبولوجيا الرمزية والدراما الاجتماعية (Turnerian Symbolic Anthropology)
-- [ ] أنثروبولوجيا النقاء والخطر والتصنيف (Mary Douglas — Purity and Danger)
-- [ ] أنثروبولوجيا الطقس والعتبة (Liminality & Communitas)
+- [x] الأنثروبولوجيا التأويلية والوصفُ الكثيف (Geertzian Interpretive Anthropology) — `sch-geertzian-interpretive-anthropology`، `thk-clifford-geertz`
+- [x] الأنثروبولوجيا الرمزية والدراما الاجتماعية (Turnerian Symbolic Anthropology) — `sch-turnerian-symbolic-anthropology`، `thk-victor-turner`
+- [x] أنثروبولوجيا النقاء والخطر والتصنيف (Mary Douglas — Purity and Danger) — `sch-douglas-purity-danger-classification`، `thk-mary-douglas`
+- [x] أنثروبولوجيا الطقس والعتبة (Liminality & Communitas) — مدمَجةٌ في `sch-turnerian-symbolic-anthropology` (نفسُ المفهومين بالتحديد)
 
 ## 6. النقدُ والمنعطفُ الانعكاسيّ (Critique & the Reflexive Turn)
 
-- [ ] النقدُ ما بعد الاستعماريِّ للأنثروبولوجيا (Asad, *Anthropology and the Colonial Encounter*)
-- [ ] أزمةُ التمثيل وكتابةُ الثقافة (*Writing Culture* — Clifford & Marcus)
+- [x] النقدُ ما بعد الاستعماريِّ للأنثروبولوجيا (Asad, *Anthropology and the Colonial Encounter*) — `sch-postcolonial-critique-anthropology`، `thk-talal-asad`
+- [x] أزمةُ التمثيل وكتابةُ الثقافة (*Writing Culture* — Clifford & Marcus) — `sch-writing-culture-crisis`، `thk-james-clifford`
 - [ ] الأنثروبولوجيا النسوية وأنثروبولوجيا الجندر (Feminist Anthropology — Strathern, Abu-Lughod)
 - [ ] الاستشراقُ بوصفه مسألةً أنثروبولوجية (Said and the Anthropological Object)
 - [ ] جدلُ ميد–فريمان في ساموا (The Mead–Freeman Controversy)
