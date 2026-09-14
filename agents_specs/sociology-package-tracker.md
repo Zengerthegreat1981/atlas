@@ -275,11 +275,11 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 
 ## 7. السوسيولوجيا النسوية، دراسات الجندر، ما بعد الاستعمار والجنوب العالمي (Feminist, Decolonial & Global South)
 
-- [ ] `sch-dorothy-smith-standpoint-theory` — نظرية الموقف النسوي في علم الاجتماع (Feminist Standpoint Theory: Dorothy Smith)
-- [ ] `sch-dorothy-smith-institutional-ethnography` — الإثنوغرافيا المؤسسية (Institutional Ethnography: Dorothy Smith)
-- [ ] `sch-hill-collins-black-feminist-sociology` — الفكر النسوي الأسود ومصفوفة الهيمنة (Black Feminist Sociology: Patricia Hill Collins)
-- [ ] `sch-sociological-intersectionality` — النظرية التقاطعية السوسيولوجية (Sociological Intersectionality: Crenshaw & Collins)
-- [ ] `sch-bell-hooks-critical-feminist-sociology` — النسوية النقدية ومناهضة النظام الأبوي الإمبريالي (bell hooks' Critical Feminist Sociology)
+- [x] `sch-dorothy-smith-standpoint-theory` — نظرية الموقف النسوي في علم الاجتماع (Feminist Standpoint Theory: Dorothy Smith)
+- [x] `sch-dorothy-smith-institutional-ethnography` — الإثنوغرافيا المؤسسية (Institutional Ethnography: Dorothy Smith)
+- [x] `sch-hill-collins-black-feminist-sociology` — الفكر النسوي الأسود ومصفوفة الهيمنة (Black Feminist Sociology: Patricia Hill Collins)
+- [x] `sch-sociological-intersectionality` — النظرية التقاطعية السوسيولوجية (Sociological Intersectionality: Crenshaw & Collins)
+- [x] `sch-bell-hooks-critical-feminist-sociology` — النسوية النقدية ومناهضة النظام الأبوي الإمبريالي (bell hooks' Critical Feminist Sociology)
 - [ ] `sch-butler-gender-performativity` — سوسيولوجيا الأداء الجندري وتفكيك الثنائية (Butler's Gender Performativity Sociology)
 - [ ] `sch-oakley-housework-reproduction` — سوسيولوجيا العمل المنزلي وإعادة الإنتاج الجندري (Oakley's Sociology of Housework & Reproduction)
 - [ ] `sch-fraser-social-reproduction-crisis-of-care` — سوسيولوجيا أزمة الرعاية والعدالة الرأسمالية (Fraser's Social Reproduction & Crisis of Care)

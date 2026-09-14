@@ -17,8 +17,11 @@ active_end: 1990
 edges: []
 related:
 - id: "sch-sociological-intersectionality", title: "النظرية التقاطعية السوسيولوجية", type: "مدرسة"
+- id: "thk-phcollins", title: "باتريشا هيل كولينز", type: "مفكر"
+- id: "con-matrix-of-domination-collins", title: "مصفوفة الهيمنة (Matrix of Domination)", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7). لا يوجد بعد ملف مستقل لباتريشيا هيل كولينز (`thk-patricia-hill-collins`)؛ `belongs_to` تُرك فارغاً."
+  - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7)."
+  - "ملف `thk-phcollins` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
 ---
 
 # الفكر النسوي الأسود ومصفوفة الهيمنة

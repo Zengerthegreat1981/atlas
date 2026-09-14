@@ -15,9 +15,11 @@ language: "الإنجليزية"
 active_start: 1981
 active_end: 2000
 edges: []
-related: []
+related:
+- id: "thk-bhooks", title: "بيل هوكس", type: "مفكر"
+- id: "con-imperialist-white-supremacist-patriarchy-hooks", title: "النظام الأبوي الرأسمالي الإمبريالي الأبيض السائد (Imperialist White Supremacist Capitalist Patriarchy)", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7). لا يوجد بعد ملف مستقل لبيل هوكس (`thk-bell-hooks`، اسمها الحقيقي غلوريا جين واتكينز)؛ `belongs_to` تُرك فارغاً."
+  - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7). ملف `thk-bhooks` القائم (اسمها الحقيقي غلوريا جين واتكينز) موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً."
 ---
 
 # النسوية النقدية ومناهضة النظام الأبوي الإمبريالي

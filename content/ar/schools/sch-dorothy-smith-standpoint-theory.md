@@ -17,8 +17,11 @@ active_end: 1987
 edges: []
 related:
 - id: "sch-dorothy-smith-institutional-ethnography", title: "الإثنوغرافيا المؤسسية", type: "مدرسة"
+- id: "thk-dorothy-smith", title: "دوروثي سميث", type: "مفكر"
+- id: "con-standpoint-epistemology", title: "إبستمولوجيا الموقع (الموقف)", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7 من `sociology-schools-backlog.md`). لا يوجد بعد ملف مستقل لدوروثي سميث (`thk-dorothy-smith`)؛ `belongs_to` تُرك فارغاً."
+  - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7 من `sociology-schools-backlog.md`)."
+  - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-dorothy-smith`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها. مفهوم `con-standpoint-epistemology` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده."
 ---
 
 # نظرية الموقف النسوي في علم الاجتماع

@@ -18,6 +18,8 @@ edges:
 - rel: "belongs_to", target: "sch-hill-collins-black-feminist-sociology", target_type: "مدرسة"
 related:
 - id: "thk-crenshaw", title: "كيمبرلي كرنشو", type: "مفكر"
+- id: "thk-phcollins", title: "باتريشا هيل كولينز", type: "مفكر"
+- id: "con-intersectionality", title: "التقاطعية", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7)، ويكمل `sch-hill-collins-black-feminist-sociology` المنشأ في الدفعة نفسها. ملف `thk-crenshaw` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده. تنبيه: يوجد أيضاً ملفٌ مكرَّرٌ محتمَل `thk-kcrenshaw` بالعنوان نفسه تقريباً؛ لم يُستخدم هنا وقد يحتاج توحيداً مستقبلاً خارج نطاق هذه الدفعة."
 ---

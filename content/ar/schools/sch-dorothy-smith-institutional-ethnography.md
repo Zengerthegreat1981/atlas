@@ -16,7 +16,9 @@ active_start: 2005
 active_end: 2005
 edges:
 - rel: "belongs_to", target: "sch-dorothy-smith-standpoint-theory", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-dorothy-smith", title: "دوروثي سميث", type: "مفكر"
+- id: "con-institutional-ethnography-smith", title: "الإثنوغرافيا المؤسسية والنصوص الحاكمة (Institutional Ethnography)", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7)، ويكمل `sch-dorothy-smith-standpoint-theory` المنشأ في الدفعة نفسها."
 ---
