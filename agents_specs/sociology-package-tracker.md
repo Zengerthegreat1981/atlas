@@ -361,7 +361,7 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 - [x] `sch-goffman-total-institutions` — سوسيولوجيا المؤسسات الشاملة والمصحات (Goffman's Total Institutions Sociology)
 - [x] `sch-goffman-stigma` — سوسيولوجيا الوصمة والهوية المشوهة (Goffman's Sociology of Stigma)
 - [x] `sch-goffman-frame-analysis` — تحليل الأطر والنظام التفاعلي اليومي (Goffman's Frame Analysis & Interaction Order)
-- [ ] `sch-becker-labeling-theory` — نظرية الوصم والانحراف كمسار مهني (Becker's Labelling Theory of Deviance)
+- [x] `sch-becker-labeling-theory` — نظرية الوصم والانحراف كمسار مهني (Becker's Labelling Theory of Deviance)
 - [x] `sch-lemert-primary-secondary-deviance` — سوسيولوجيا الانحراف البنائية (Lemert's Primary & Secondary Deviance)
 - [x] `sch-sutherland-differential-association` — نظرية الارتباط التفاضلي وجرائم الياقات البيضاء (Sutherland's Differential Association Theory)
 - [x] `sch-hochschild-emotional-labor` — سوسيولوجيا الانفعالات والعمل العاطفي (Hochschild's Sociology of Emotions & Emotional Labor)
