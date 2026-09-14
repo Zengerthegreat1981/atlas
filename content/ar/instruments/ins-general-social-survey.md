@@ -16,6 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-chicago-urban-ecology", target_type: "مدرسة"
 related:
 - id: "thk-james-davis", title: "جيمس ديفيس", type: "مفكر"
+- id: "ins-world-values-survey", title: "مسح القيم العالمي (World Values Survey - WVS)", type: "منهج/أداة بحث"
 gaps:
   - "**سُدَّ 2026-09-15:** أُنشئ `thk-james-davis` وربطه هنا (كان رابطاً معلَّقاً اكتشفه `audit_atlas.py`). الإسناد إلى `sch-chicago-urban-ecology` تقريبي بحكم عدم وجود مدرسة منهجية عامة أشمل معتمدة؛ المسح نفسه يُدار من مركز أبحاث الرأي القومي (NORC) بجامعة شيكاغو."
 ---
