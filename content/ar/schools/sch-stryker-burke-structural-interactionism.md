@@ -21,7 +21,9 @@ related:
 - id: "thk-peter-burke", title: "بيتر بيرك", type: "مفكر"
 - id: "con-identity-salience-hierarchy-stryker", title: "نظرية الهوية والبروز الهرمي عند ستريكر", type: "مفهوم"
 - id: "con-identity-control-theory-burke", title: "نظرية التحقق من الهوية عند بيرك", type: "مفهوم"
+- id: "dbt-blumer-stryker-processual-structural-interactionism", title: "جدل التفاعلية الرمزية: السيولة التأويلية عند بلومر مقابل البنية القابلة للقياس عند ستريكر", type: "جدل"
 gaps:
+  - "**تعميقٌ 2026-09-14:** أُضيف `dbt-blumer-stryker-processual-structural-interactionism` وربطه هنا — بهذا يكتمل القسم 2 بعمقٍ حقيقي (20/20)."
   - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2)، ويكمل `sch-mead-social-behaviorism` المنشأ في الدفعة نفسها."
   - "**سُدَّ 2026-09-14 (الدفعة 32):** كُتب `thk-stryker`، `thk-peter-burke`، `con-identity-salience-hierarchy-stryker`، و`con-identity-control-theory-burke` وأُضيفت روابطها هنا. بهذا اكتمل القسم 2 بأكمله (20/20)."
 ---
