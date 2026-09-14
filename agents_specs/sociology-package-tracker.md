@@ -729,3 +729,40 @@ coloniality-of-power`، `sch-santos-epistemologies-of-the-south` (عملٌ جد�
 (alatas, subaltern-studies, khaldunian-historical, alwardi, sharabi,
 contemporary-arab, elsaadawi, laroui-shariati) ثم **القسم 8 كاملاً** (20 مدرسة)
 لم يُبدأ تعميقه بعد. الأقسام 5 و6 مكتملة التعميق بالكامل (40/40 مدرسة).
+
+---
+
+## تعميق القسم 4 (جلسة موازية أخرى — نظرية الصراع والماركسية النقدية)، 2026-09-14/15
+
+بتوجيه المنسِّق (بعد تأكيد أن القسم 4 بلغ الحدّ الأدنى 20/20 وأن الجلسة الأخرى
+انتقلت إلى القسم 6)، طُبِّق أسلوب التعميق نفسه المتّبع في الأقسام 1-3 على **القسم 4
+بأكمله (20 مدرسة)**: دارندورف، ميلز، كولنز، والرشتاين، التبعية اللاتينية،
+فرانكفورت، ماركوز، هابرماس، ألتوسير، غرامشي، لاكلاو وموف، ميليباند-بولانتزاس،
+رايت، لوفيفر، هارفي، برافرمان، هونيث-فريزر، سكوتشبول، تيلي وتارو (وقد اكتمل
+تحقّق الحدّ الأدنى للمدرستين الباقيتين — دارندورف وميلز إلخ — في دفعاتٍ سابقة ضمن
+هذه الجلسة نفسها قبل بدء جولة التعميق الحالية).
+
+**الإضافات في جولة التعميق هذه (2026-09-14/15):**
+- `dbt-laclau-mouffe-geras-post-marxism-essentialism` → `sch-laclau-mouffe-discourse-hegemony`
+- `dbt-miliband-poulantzas-instrumentalist-vs-structuralist-state` → `sch-miliband-poulantzas-state-theory`
+- `dbt-wright-goldthorpe-marxist-vs-weberian-class-schemes` → `sch-wright-analytical-marxist-class`
+- `wrk-production-of-space-lefebvre` → `sch-lefebvrean-spatial-sociology`
+- `con-accumulation-by-dispossession-harvey` → `sch-harvey-critical-urban-spatial`
+- `dbt-braverman-labor-process-debate-deskilling-critics` → `sch-braverman-labor-process`
+- `con-bivalent-conception-of-justice-fraser` → `sch-honneth-fraser-recognition-redistribution`
+- `dbt-skocpol-sewell-structure-vs-ideology-revolutions` → `sch-skocpol-comparative-historical-revolutions`
+- `wrk-dynamics-of-contention-tilly-tarrow-mcadam` → `sch-tilly-tarrow-contentious-politics`
+
+كل إضافة عبارة عن ملفٍ حقيقي بمصدرين موثَّقين على الأقل (لا اختلاق)، مرتبطٌ
+بروابط `related` متبادلة حرفية مع المدرسة الأم، ومُلتزَمٌ بشكل فردي فور الكتابة.
+تكرّر التحقّق من الحالة الحية للملف الأم عبر `Read` مباشرة قبل كل تعديل (تطبيقاً
+لدرس انحدار Luhmann المسجَّل أعلاه)؛ لم يُكتشف أي انحدار مماثل في ملفات القسم 4.
+لوحظ أثناء العمل أن الجلسة الموازية (الأقسام 5-8) وصلت أيضاً إلى تعميق كاملٍ
+للأقسام 5 و6 وتتقدّم في القسم 7 بالتوازي — لا تعارض في النطاق.
+
+**النتيجة: القسم 4 مكتمل التعميق بالكامل (20/20 مدرسة)، بمعيار «مفكرٌ + مفهومٌ +
+عنصرٌ إضافي حقيقي واحد على الأقل» لكل مدرسة، مطابقاً لمعيار الأقسام 1، 2، 3، 5، 6.**
+
+بانتظار توجيه المنسِّق التالي: إمّا تقرير حالة، أو الانتقال إلى نطاقٍ آخر (مثل
+المساعدة في القسم 7/8 إذا تغيّر نطاق الجلسة الموازية، أو معالجة أي فجواتٍ متبقية
+في الأقسام 1-6).
