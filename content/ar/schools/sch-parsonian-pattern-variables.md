@@ -16,9 +16,12 @@ active_start: 1951
 active_end: 1966
 edges:
 - rel: "belongs_to", target: "sch-parsonian-action-frame", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-parsons", title: "تالكوت بارسونز", type: "مفكر"
+- id: "con-pattern-variables-parsons", title: "متغيرات النمط الخمسة عند بارسونز", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3)، ويكمل `sch-parsonian-action-frame` المنشأ في الدفعة نفسها."
+  - "**سُدَّ 2026-09-14 (الدفعة 35):** كُتب `con-pattern-variables-parsons` وأُضيف رابطه هنا مع رابط `thk-parsons`."
 ---
 
 # متغيرات النمط ونظرية التحديث

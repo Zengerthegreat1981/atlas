@@ -37,12 +37,12 @@
 - [~] حلقةُ براغ والوظيفيةُ اللسانية (ترويتسكوي، ياكوبسون، الفونيم) — `sch-prague-linguistic-circle`، `thk-roman-jakobson`، `con-phoneme` (الدفعة 2). يتبقّى: تروبتسكوي كمفكرٍ مستقل، السماتُ التمييزية كمفهوم.
 - [ ] وظائفُ اللغة عند ياكوبسون ونموذجُ التواصل
 - [ ] حلقةُ كوبنهاغن واللسانياتُ الصورية (يلمسليف، Glossematics)
-- [ ] البنيويةُ الأمريكيةُ والتوزيعية (بلومفيلد، هاريس)
+- [~] البنيويةُ الأمريكيةُ والتوزيعية (بلومفيلد، هاريس) — `sch-american-structural-linguistics`، `thk-leonard-bloomfield` (الدفعة 3). يتبقّى: زيغ هاريس كمفكرٍ مستقل، والتحليلُ التوزيعي كمفهومٍ مفرد.
 - [ ] اللسانياتُ التاريخيةُ والمقارنة (النحوُ المقارن، قانونُ غريم، إعادةُ بناء الهندو-أوروبية)
 
 ## 3. التوليدية وما بعدها (Generative & Formal)
 
-- [ ] النحوُ التوليديُّ التحويليّ (*Syntactic Structures*، 1957)
+- [x] النحوُ التوليديُّ التحويليّ (*Syntactic Structures*، 1957) — `sch-generative-grammar`، `wrk-syntactic-structures`، `con-deep-surface-structure` (الدفعة 3). `thk-noam-chomsky` (philosophy) رُبط ولم يُكرَّر — قرارٌ محسوم في DR-014.
 - [ ] النظريةُ المعياريةُ والحاكميةُ والربط (Government & Binding)
 - [ ] البرنامجُ الأدنويّ (The Minimalist Program)
 - [ ] النحوُ الكلّيُّ وفقرُ المحفِّز وجدلُ الفطرية (Universal Grammar & the Innateness Debate)
