@@ -350,6 +350,30 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 وأخواته — من جلسة أخرى). **القسم 4 يبقى بيد الجلسة الموازية بالكامل — لم يُلمس هنا إطلاقاً بعد هذا
 التنبيه.** بانتظار توجيه المنسِّق التالي بشأن توزيع العمل حين يكتمل القسم 4 أو يُحدَّد نطاقٌ آخر.
 
+**⚠️ إعادة توجيه ثانية من المنسِّق (2026-09-14):** القسم 4 لا يزال بيد الجلسة الأخرى (14/20)؛
+المهمة الجديدة: **تعميق** حزم الأقسام 1-3 (لا الانتقال) — لكل مدرسة، إضافة `wrk-` إضافي و/أو
+`con-` ثانٍ و/أو `dbt-` (جدل نظري) و/أو `stu-` إن سمح الدليل الحقيقي، دون اختراع. جولة أولى
+(القسم 1 كاملاً + بداية عبور فيبر/زيمل):
+
+- `sch-khaldunian-ilm-al-umran`: + `dbt-ibn-khaldun-founder-of-sociology`.
+- `sch-comtean-positivism`: + `con-law-of-three-stages-comte`.
+- `sch-spencerian-evolutionism`: + `dbt-spencer-durkheim-organic-analogy`.
+- `sch-marxist-classical-sociology` و`sch-weberian-interpretive-sociology`: +
+  `dbt-marx-weber-class-stratification` (رُبط من الطرفين).
+- `sch-durkheimian-structural-functionalism`: + `wrk-rules-of-sociological-method-durkheim`.
+- `sch-weberian-rationalization-bureaucracy` و`sch-classical-elite-theory`: +
+  `dbt-weber-michels-organizational-pessimism` (رُبط من الطرفين؛ ميشيلز تلميذ فيبر المباشر).
+- `sch-simmelian-formal-sociology`: + `con-dyad-triad-simmel`.
+- `sch-sumnerian-evolutionary-sociology`: + `dbt-sumner-ward-social-darwinism-reform` (الطرف
+  الآخر، ليستر فرانك ورد، لا ملف مستقل له بعد؛ ذُكر بالاسم دون `related` مباشر إليه).
+- `sch-martineau-feminist-sociology`: + `wrk-how-to-observe-morals-manners-martineau`.
+  **بهذا يكتمل القسم 1 بأكمله فعلياً (19/19) لا معقولاً فقط.**
+
+الفحوص الثلاثة صفر على نطاق كل ملفات هذه الجولة (واجهت تصادم id واحداً حُلَّ فوراً:
+`dbt-marx-weber-class-stratification` من `DBT-2022` إلى `DBT-2030`). الالتزام السريع لكل ملف
+فور كتابته مطبَّقٌ بانضباط. **أوّل بند للجولة التالية:** الاستمرار في تعميق بقية القسم 1
+(دوبوا، فيبلن، تونيس، تارد ولوبون، بوث وراونتري) ثم القسم 2 كاملاً ثم القسم 3.
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
@@ -367,7 +391,7 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 - [x] `sch-simmelian-money-metropolis` — سوسيولوجيا الثقافة الحضرية والمالية (Simmelian Sociology of Money & Metropolis)
 - [x] `sch-sumnerian-evolutionary-sociology` — الداروينية الاجتماعية والأعراف المجتمعية (Sumnerian Evolutionary Sociology)
 - [x] `sch-classical-elite-theory` — نظرية النخبة السوسيولوجية الكلاسيكية (Classical Elite Theory: Pareto, Mosca, Michels)
-- [~] `sch-martineau-feminist-sociology` — التأسيس النسوي والمنهجي المبكر (Martineau's Foundational Feminist Sociology) — لا `con-`/`wrk-` مستقل بعد
+- [x] `sch-martineau-feminist-sociology` — التأسيس النسوي والمنهجي المبكر (Martineau's Foundational Feminist Sociology)
 - [x] `sch-du-boisian-sociology` — السوسيولوجيا النقدية للأعراق والازدواجية الوجدانية (Du Boisian Sociology)
 - [x] `sch-veblenian-institutional-sociology` — سوسيولوجيا الاستهلاك والمؤسسية التطورية (Veblenian Institutional Sociology)
 - [x] `sch-tonnies-gemeinschaft-gesellschaft` — ثنائية المجتمع المحلي والمجتمع التعاقدي (Tönnies' Gemeinschaft und Gesellschaft)
@@ -566,3 +590,11 @@ Society* (1943)، Du Bois *The Souls of Black Folk* (1903).
 
 **التعديلات المُنفَّذة: صفر.** لا حاجة لتشغيل الفحوص الثلاثة أو الالتزام بمحتوًى جديد،
 إذ لم يُعدَّل أيّ ملف — طبقاً للتعليمة الصريحة بعدم تعديل ملفاتٍ سليمة لمجرد التعديل.
+
+## 🔧 تعميق الأقسام 5-8 (إضافة wrk-/con-/dbt-/stu- ثانوية) — قيد التنفيذ
+
+**الدفعة 1 (2026-09-14):** أُضيف لكل من المدارس الأربع الأولى في القسم 5 عنصرٌ واحد
+إضافي حسب ما سمح به الدليل: `wrk-sinnhafte-aufbau-schutz`، `wrk-social-construction-of-
+reality-berger-luckmann`، `wrk-studies-in-ethnomethodology-garfinkel`، `dbt-conversation-
+analysis-vs-critical-discourse-analysis`. **الموضع التالي:** `sch-bourdieu-practice-habitus`
+فصاعداً (البند الخامس في القسم 5).
