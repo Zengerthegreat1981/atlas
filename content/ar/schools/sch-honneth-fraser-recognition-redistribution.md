@@ -16,7 +16,8 @@ active_start: 2003
 active_end: 2003
 edges:
 - rel: "belongs_to", target: "sch-frankfurt-critical-sociology", target_type: "مدرسة"
-related: []
+related:
+- id: "sch-fraser-social-reproduction-crisis-of-care", title: "سوسيولوجيا أزمة الرعاية والعدالة الرأسمالية", type: "مدرسة"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)، ويكمل `sch-frankfurt-critical-sociology` المنشأ في الدفعة نفسها. لا يوجد بعد ملفات مستقلة لأكسل هونيث (`thk-axel-honneth`) أو نانسي فريزر (`thk-nancy-fraser`)."
 ---

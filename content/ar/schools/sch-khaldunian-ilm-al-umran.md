@@ -17,6 +17,7 @@ active_end: 1406
 edges: []
 related:
 - id: "thk-ibn-khaldun", title: "عبد الرحمن بن محمد بن خلدون الحضرمي", type: "مفكر"
+- id: "sch-khaldunian-historical-sociology", title: "سوسيولوجيا العمران والتحول البدوي-الحضري الخلدونية", type: "مدرسة"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 1 من مهمة بناء قسم علم الاجتماع (القسم 1 من `sociology-schools-backlog.md`). `belongs_to` تُرك فارغاً: لا جذر سوسيولوجي عام في المستودع بعد."
   - "ملف `thk-ibn-khaldun` القائم موسومٌ `part: \"philosophy\"` لا `sociology` — فلا يصحّ ربطه بـ`belongs_to` (الفحص القاطع [12] يرفض تباين `part`). الإشارة هنا عبر `related` فقط، وهو حقل لا يشترط تطابق `part`."

@@ -47,8 +47,20 @@
 >   الاجتماعي، فوستر وشنايبرغ البيئية، كونراد وروز التطبيب، سكوت المقاومة اليومية، بوراوي
 >   علم الاجتماع العام، شيلينغ وترنر الجسد، السوسيولوجيا الحوسبية. 3 مفكرين مشتركين مع
 >   الفلسفة/النفس (غيدنز، باومان) رُبطوا عبر `related` فقط.
-> **الدفعةُ التالية (7):** القسم 7 — السوسيولوجيا النسوية ودراسات الجندر وما بعد الاستعمار
-> والجنوب العالمي — أوّل بندٍ غيرِ مؤشَّرٍ بـ`[x]` تحت العنوان `## 7.`.
+> - **الدفعة 7 (2026-09-14):** القسم 7 مكتملٌ بالكامل (19/19) — دوروثي سميث (+فرع الإثنوغرافيا
+>   المؤسسية)، هيل كولينز (+فرع التقاطعية مع كرنشو)، بيل هوكس، بتلر الأداء الجندري، أوكلي
+>   العمل المنزلي، فريزر أزمة الرعاية (مرتبطة بـsch-honneth-fraser من الدفعة 4 لنفس المفكرة)،
+>   كويخانو استعمارية السلطة (+ربط متبادل مع سانتوس)، سانتوس إبستمولوجيات الجنوب، سعيد نقد
+>   الاستشراق، فانون التحرري، ألاتاس العقل الأسير، دراسات التابع (غوها وسبيفاك) — الثلاثة
+>   الأخيرة مربوطة ببعضها بعضاً (كتلة ما بعد استعمارية واحدة). **أُكملت حزمة `sch-contemporary-
+>   arab-sociology` (فجوة موثقة من الدفعة 0):** أُضيفت 4 مدارس فرعية بـ`belongs_to` صحيح —
+>   الوردي، شرابي، السعداوي، والعروي مع شريعتي — إضافة إلى `sch-khaldunian-historical-
+>   sociology` فرعاً لـ`sch-khaldunian-ilm-al-umran` (دفعة 1). 6 مفكرين مشتركين مع الفلسفة
+>   (كرنشو، كويخانو، سعيد، فانون، سبيفاك، العروي) رُبطوا عبر `related` فقط.
+> **الدفعةُ التالية (8، الأخيرة):** القسم 8 — الميادين والفروع التخصصية في علم الاجتماع —
+> أوّل بندٍ غيرِ مؤشَّرٍ بـ`[x]` تحت العنوان `## 8.`. بعد إكماله تكتمل قائمة المدارس بأكملها
+> (159/159)، وتبدأ المرحلة التالية من `SOCIOLOGY_MISSION_PROMPT.md`: حزم المفكرين/المفاهيم/
+> الأعمال لكل مدرسة، ثم جسور `part: "bridge"` إلى الفلسفة وعلم النفس.
 
 # قائمة المدارس والنظريات السوسيولوجية الشاملة — قائمة انتظار (Backlog) لتغطية علم الاجتماع في أطلس
 
@@ -217,26 +229,26 @@
 
 ## 7. السوسيولوجيا النسوية، دراسات الجندر، ما بعد الاستعمار والجنوب العالمي (Feminist, Decolonial & Global South)
 
-- [ ] نظرية الموقف النسوي في علم الاجتماع (Feminist Standpoint Theory: Dorothy Smith)
-- [ ] الإثنوغرافيا المؤسسية (Institutional Ethnography: Dorothy Smith)
-- [ ] الفكر النسوي الأسود ومصفوفة الهيمنة (Black Feminist Sociology: Patricia Hill Collins)
-- [ ] النظرية التقاطعية السوسيولوجية (Sociological Intersectionality: Crenshaw & Collins)
-- [ ] النسوية النقدية ومناهضة النظام الأبوي الإمبريالي (bell hooks' Critical Feminist Sociology)
-- [ ] سوسيولوجيا الأداء الجندري وتفكيك الثنائية (Butler's Gender Performativity Sociology)
-- [ ] سوسيولوجيا العمل المنزلي وإعادة الإنتاج الجندري (Oakley's Sociology of Housework & Reproduction)
-- [ ] سوسيولوجيا أزمة الرعاية والعدالة الرأسمالية (Fraser's Social Reproduction & Crisis of Care)
-- [ ] سوسيولوجيا استعمارية السلطة والمركزية الأوروبية (Quijano's Coloniality of Power Sociology)
-- [ ] إبستمولوجيات الجنوب وسوسيولوجيا الغيابات (Santos' Epistemologies of the South & Cognitive Justice)
-- [ ] النقد السوسيولوجي للاستشراق والتمثيل الإمبريالي (Said's Sociology of Orientalism & Knowledge)
-- [ ] علم الاجتماع التحرري ومناهضة الاستعمار (Fanonian Liberation Sociology & Sociogeny)
-- [ ] سوسيولوجيا العقل الأسير والتبعية الأكاديمية الآسيوية (Alatas' Captive Mind Sociology)
-- [ ] دراسات التابع والتأريخ السوسيولوجي من أسفل (Subaltern Studies: Guha & Spivak)
-- [ ] سوسيولوجيا العمران والتحول البدوي-الحضري الخلدونية (Khaldunian Historical Sociology)
-- [ ] سوسيولوجيا الشخصية الازدواجية وصراع القيم العربي (Al-Wardi's Iraqi & Arab Sociology)
-- [ ] سوسيولوجيا البطريركية المستحدثة والتغير المشوه (Sharabi's Neopatriarchy Sociology)
+- [x] نظرية الموقف النسوي في علم الاجتماع (Feminist Standpoint Theory: Dorothy Smith) — `sch-dorothy-smith-standpoint-theory` (دفعة 7، 2026-09-14)
+- [x] الإثنوغرافيا المؤسسية (Institutional Ethnography: Dorothy Smith) — `sch-dorothy-smith-institutional-ethnography` (دفعة 7، 2026-09-14)
+- [x] الفكر النسوي الأسود ومصفوفة الهيمنة (Black Feminist Sociology: Patricia Hill Collins) — `sch-hill-collins-black-feminist-sociology` (دفعة 7، 2026-09-14)
+- [x] النظرية التقاطعية السوسيولوجية (Sociological Intersectionality: Crenshaw & Collins) — `sch-sociological-intersectionality` (دفعة 7، 2026-09-14)
+- [x] النسوية النقدية ومناهضة النظام الأبوي الإمبريالي (bell hooks' Critical Feminist Sociology) — `sch-bell-hooks-critical-feminist-sociology` (دفعة 7، 2026-09-14)
+- [x] سوسيولوجيا الأداء الجندري وتفكيك الثنائية (Butler's Gender Performativity Sociology) — `sch-butler-gender-performativity` (دفعة 7، 2026-09-14)
+- [x] سوسيولوجيا العمل المنزلي وإعادة الإنتاج الجندري (Oakley's Sociology of Housework & Reproduction) — `sch-oakley-housework-reproduction` (دفعة 7، 2026-09-14)
+- [x] سوسيولوجيا أزمة الرعاية والعدالة الرأسمالية (Fraser's Social Reproduction & Crisis of Care) — `sch-fraser-social-reproduction-crisis-of-care` (دفعة 7، 2026-09-14)
+- [x] سوسيولوجيا استعمارية السلطة والمركزية الأوروبية (Quijano's Coloniality of Power Sociology) — `sch-quijano-coloniality-of-power` (دفعة 7، 2026-09-14)
+- [x] إبستمولوجيات الجنوب وسوسيولوجيا الغيابات (Santos' Epistemologies of the South & Cognitive Justice) — `sch-santos-epistemologies-of-the-south` (دفعة 7، 2026-09-14)
+- [x] النقد السوسيولوجي للاستشراق والتمثيل الإمبريالي (Said's Sociology of Orientalism & Knowledge) — `sch-said-sociology-of-orientalism` (دفعة 7، 2026-09-14)
+- [x] علم الاجتماع التحرري ومناهضة الاستعمار (Fanonian Liberation Sociology & Sociogeny) — `sch-fanonian-liberation-sociology` (دفعة 7، 2026-09-14)
+- [x] سوسيولوجيا العقل الأسير والتبعية الأكاديمية الآسيوية (Alatas' Captive Mind Sociology) — `sch-alatas-captive-mind-sociology` (دفعة 7، 2026-09-14)
+- [x] دراسات التابع والتأريخ السوسيولوجي من أسفل (Subaltern Studies: Guha & Spivak) — `sch-subaltern-studies-guha-spivak` (دفعة 7، 2026-09-14)
+- [x] سوسيولوجيا العمران والتحول البدوي-الحضري الخلدونية (Khaldunian Historical Sociology) — `sch-khaldunian-historical-sociology` (دفعة 7، 2026-09-14)
+- [x] سوسيولوجيا الشخصية الازدواجية وصراع القيم العربي (Al-Wardi's Iraqi & Arab Sociology) — `sch-alwardi-iraqi-arab-sociology` (دفعة 7، 2026-09-14)
+- [x] سوسيولوجيا البطريركية المستحدثة والتغير المشوه (Sharabi's Neopatriarchy Sociology) — `sch-sharabi-neopatriarchy-sociology` (دفعة 7، 2026-09-14)
 - [x] سوسيولوجيا المجتمع الفسيفسائي والاغتراب العربي (Barakat's Contemporary Arab Society Sociology) — `sch-contemporary-arab-sociology` (دفعة 0، 2026-09-14)
-- [ ] السوسيولوجيا النسوية العربية ونقد الهيمنة البطريركية (El Saadawi's Arab Feminist Sociology)
-- [ ] التاريخانية والسوسيولوجيا النقدية العربية والإسلامية (Laroui & Shariati's Critical Arab/Islamic Sociology)
+- [x] السوسيولوجيا النسوية العربية ونقد الهيمنة البطريركية (El Saadawi's Arab Feminist Sociology) — `sch-elsaadawi-arab-feminist-sociology` (دفعة 7، 2026-09-14)
+- [x] التاريخانية والسوسيولوجيا النقدية العربية والإسلامية (Laroui & Shariati's Critical Arab/Islamic Sociology) — `sch-laroui-shariati-critical-arab-islamic-sociology` (دفعة 7، 2026-09-14)
 
 ---
 
