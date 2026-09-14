@@ -13,8 +13,10 @@ edges:
 - rel: "belongs_to", target: "sch-conversation-analysis", target_type: "مدرسة"
 related:
 - id: "sch-conversation-analysis", title: "تحليل المحادثة", type: "مدرسة"
+- id: "ins-critical-discourse-analysis-fairclough", title: "تحليل الخطاب النقدي (Critical Discourse Analysis - CDA)", type: "منهج/أداة بحث"
 gaps:
   - "لم تُستوفَ هنا كل الردود المتبادلة المنشورة بين الطرفين عبر الدوريات المتخصصة خلال التسعينيات."
+  - "**تعميقٌ 2026-09-15:** رُبط بـ`ins-critical-discourse-analysis-fairclough` الذي يفرد منهج CDA نفسه بوصفه أداةً بحثية مستقلة عن هذا الجدل."
 ---
 
 # جدل تحليل المحادثة مقابل تحليل الخطاب النقدي
