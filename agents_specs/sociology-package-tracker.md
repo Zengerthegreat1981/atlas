@@ -624,3 +624,10 @@ Society* (1943)، Du Bois *The Souls of Black Folk* (1903).
 reality-berger-luckmann`، `wrk-studies-in-ethnomethodology-garfinkel`، `dbt-conversation-
 analysis-vs-critical-discourse-analysis`. **الموضع التالي:** `sch-bourdieu-practice-habitus`
 فصاعداً (البند الخامس في القسم 5).
+
+**الدفعة 2 (2026-09-14):** أُضيف عنصرٌ واحد لكل من `sch-bourdieu-practice-habitus`
+(`wrk-outline-theory-of-practice-bourdieu`)، `sch-bourdieu-field-capital`
+(ربط `con-symbolic-violence-bourdieu` الموجود سلفاً)، `sch-bourdieu-distinction-
+cultural-reproduction` (`wrk-la-distinction-bourdieu`)، و`sch-foucauldian-disciplinary-
+power` (ربط `wrk-discipline-and-punish-foucault` الموجود سلفاً في philosophy).
+**الموضع التالي:** `sch-foucauldian-biopolitics-governmentality` فصاعداً.
