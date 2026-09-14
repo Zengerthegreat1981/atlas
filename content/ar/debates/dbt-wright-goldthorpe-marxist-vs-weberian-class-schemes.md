@@ -15,7 +15,9 @@ edges:
 related:
 - id: "thk-erik-olin-wright", title: "إريك أولين رايت", type: "مفكر"
 - id: "con-contradictory-class-locations-wright", title: "المواقع الطبقية المتناقضة (Contradictory Class Locations)", type: "مفهوم"
+- id: "thk-john-goldthorpe", title: "جون غولدثورب", type: "مفكر"
 gaps:
+  - "**سُدَّت الفجوة 2026-09-15:** كُتب `thk-john-goldthorpe` وأُضيف رابطه هنا."
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بتعميق حزم القسم 4. لا ملف مستقل بعد لجون غولدثورب في قسم علم الاجتماع؛ ذُكر بالاسم دون `related` مباشر إليه."
 ---
 

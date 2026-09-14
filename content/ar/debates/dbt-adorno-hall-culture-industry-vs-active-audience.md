@@ -14,7 +14,9 @@ edges:
 - rel: "belongs_to", target: "sch-frankfurt-critical-sociology", target_type: "مدرسة"
 related:
 - id: "con-culture-industry-adorno", title: "صناعة الثقافة والتسليع الجماهيري (Culture Industry)", type: "مفهوم"
+- id: "thk-stuart-hall", title: "ستيوارت هول", type: "مفكر"
 gaps:
+  - "**سُدَّت الفجوة 2026-09-15:** كُتب `thk-stuart-hall` وأُضيف رابطه هنا."
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بتعميق حزم القسم 4. لا ملف مستقل بعد لستيوارت هول في قسم علم الاجتماع؛ ذُكر بالاسم دون `related` مباشر إليه."
 ---
 

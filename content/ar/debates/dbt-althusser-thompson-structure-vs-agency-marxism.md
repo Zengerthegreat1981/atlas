@@ -15,7 +15,9 @@ edges:
 related:
 - id: "thk-louis-althusser", title: "لويس ألتوسير", type: "مفكر"
 - id: "con-ideological-state-apparatuses", title: "الأجهزة الأيديولوجية للدولة (Ideological State Apparatuses)", type: "مفهوم"
+- id: "thk-e-p-thompson", title: "إ. پ. طومسون", type: "مفكر"
 gaps:
+  - "**سُدَّت الفجوة 2026-09-15:** كُتب `thk-e-p-thompson` وأُضيف رابطه هنا."
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بتعميق حزم القسم 4. لا ملف مستقل بعد للمؤرخ إ. پ. طومسون في قسم علم الاجتماع؛ ذُكر بالاسم دون `related` مباشر إليه."
 ---
 
