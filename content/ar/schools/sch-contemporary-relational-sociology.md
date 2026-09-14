@@ -18,6 +18,7 @@ edges: []
 related:
 - id: "thk-emirbayer", title: "مصطفى إميرباير", type: "مفكر"
 - id: "con-relational-sociology-transactions", title: "العلائقية والمعاملات المتغيرة (Relational Transactions)", type: "مفهوم"
+- id: "wrk-manifesto-relational-sociology-emirbayer", title: "بيان من أجل السوسيولوجيا العلائقية (Manifesto for a Relational Sociology)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5)."
   - "**سُدَّ جزئياً 2026-09-14 (دفعة تالية):** أُنشئ `thk-emirbayer`. فرانسوا ديبلتو (`thk-depelteau`) لا يزال بلا ملف مستقل؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً."

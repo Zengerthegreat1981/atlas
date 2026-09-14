@@ -18,6 +18,7 @@ edges: []
 related:
 - id: "thk-margaret-archer", title: "مارغريت آرتشر", type: "مفكر"
 - id: "con-morphogenetic-theory-archer", title: "نظرية المورفوجينيسيس والثنائية التحليلية (Morphogenetic Theory)", type: "مفهوم"
+- id: "wrk-realist-social-theory-archer", title: "الواقع الاجتماعي: مقاربة مورفوجينيسية (Realist Social Theory)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5)، آخر بند فيه."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-margaret-archer` ومفهوم المورفوجينيسيس المرتبط به؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
