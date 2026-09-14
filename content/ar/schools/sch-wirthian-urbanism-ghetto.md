@@ -20,7 +20,9 @@ related:
 - id: "thk-wirth", title: "لويس ورث", type: "مفكر"
 - id: "con-urbanism-as-way-of-life", title: "الحضرية كنمط حياة عند ورث", type: "مفهوم"
 - id: "dbt-wirth-gans-urban-village", title: "جدل «الحضرية كنمط حياة» عند ورث مقابل «القرية الحضرية» عند غانس", type: "جدل"
+- id: "thk-herbert-gans", title: "هربرت غانس", type: "مفكر"
 gaps:
+  - "**تكثيفٌ 2026-09-15:** كُتب `thk-herbert-gans` وأُضيف رابطه هنا."
   - "**تعميقٌ 2026-09-14:** أُضيف `dbt-wirth-gans-urban-village` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2)، ويكمل `sch-chicago-urban-ecology` المنشأ في الدفعة نفسها."
   - "**سُدَّ 2026-09-14 (الدفعة 14):** كُتب `thk-wirth` و`con-urbanism-as-way-of-life` وأُضيفت روابطهما هنا."
