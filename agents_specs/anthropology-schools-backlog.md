@@ -17,7 +17,7 @@
 
 ## 1. التأسيس والتطوّرية الكلاسيكية (Classical & Evolutionary)
 
-- [ ] الأنثروبولوجيا التطوّرية الكلاسيكية (Classical Evolutionism — Tylor, Morgan)
+- [x] الأنثروبولوجيا التطوّرية الكلاسيكية (Classical Evolutionism — Tylor, Morgan) — `sch-classical-evolutionism`، `thk-edward-tylor`، `thk-lewis-henry-morgan`
 - [ ] الأنثروبولوجيا المقارنة للدين والسحر (Comparative Religion — Frazer)
 - [ ] الانتشارية البريطانية والألمانية-النمساوية (Diffusionism / Kulturkreis)
 - [ ] علمُ العمران الخلدونيّ بوصفه سلفاً أنثروبولوجياً (Ibn Khaldun as Proto-Anthropology)
@@ -26,14 +26,14 @@
 ## 2. المدرسةُ الفرنسية وعلمُ الاجتماع الديني (French Tradition)
 
 - [ ] المدرسةُ الدوركهايمية في الأنثروبولوجيا (Année Sociologique)
-- [ ] نظريةُ الهبة والتبادل (Maussian Gift Theory)
+- [x] نظريةُ الهبة والتبادل (Maussian Gift Theory) — `sch-maussian-gift-theory`، `thk-marcel-mauss`
 - [ ] طقوسُ العبور (Van Gennep's Rites of Passage)
 - [ ] البنيويةُ الأنثروبولوجية (Lévi-Straussian Structuralism)
 - [ ] أنثروبولوجيا الأسطورة والفكر البرّي (Mythologiques / La Pensée Sauvage)
 
 ## 3. الوظيفيةُ البريطانية (British Functionalism)
 
-- [ ] الوظيفيةُ المالينوفسكية والملاحظةُ بالمشاركة (Malinowskian Functionalism)
+- [x] الوظيفيةُ المالينوفسكية والملاحظةُ بالمشاركة (Malinowskian Functionalism) — `sch-malinowskian-functionalism`، `thk-bronislaw-malinowski`
 - [ ] الوظيفيةُ البنائية عند رادكليف-براون (Radcliffe-Brownian Structural Functionalism)
 - [ ] أنثروبولوجيا القرابة والنسب (Descent Theory — Fortes, Evans-Pritchard)
 - [ ] أنثروبولوجيا السحر والعرافة (Evans-Pritchard's *Witchcraft Among the Azande*)
@@ -41,7 +41,7 @@
 
 ## 4. المدرسةُ الأمريكية والنسبيةُ الثقافية (American Cultural Anthropology)
 
-- [ ] النسبيةُ الثقافية البواسية (Boasian Cultural Relativism & Historical Particularism)
+- [x] النسبيةُ الثقافية البواسية (Boasian Cultural Relativism & Historical Particularism) — `sch-boasian-cultural-relativism`، `thk-franz-boas`
 - [ ] مدرسةُ الثقافة والشخصية (Culture and Personality — Benedict, Mead)
 - [ ] الأنثروبولوجيا اللسانية وفرضيةُ سابير-وورف (Linguistic Relativity)
 - [ ] الإيكولوجيا الثقافية والتطوّريةُ الجديدة (Cultural Ecology — Steward, White)
