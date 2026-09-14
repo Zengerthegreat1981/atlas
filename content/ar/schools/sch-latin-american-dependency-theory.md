@@ -19,7 +19,9 @@ related:
 - id: "sch-wallerstein-world-systems", title: "تحليل النظم العالمية والتقسيم الدولي للعمل", type: "مدرسة"
 - id: "thk-cardoso", title: "فرناندو هنريكه كاردوسو", type: "مفكر"
 - id: "con-dependencia-cardoso-dos-santos", title: "التبعية البنيوية والتنمية المتشابكة (Dependencia)", type: "مفهوم"
+- id: "dbt-cardoso-dependent-development-vs-classical-dependency", title: "جدل داخل مدرسة التبعية: التنمية التابعة عند كاردوسو مقابل تنمية التخلف الكلاسيكية", type: "جدل"
 gaps:
+  - "**تعميقٌ 2026-09-14:** أُضيف `dbt-cardoso-dependent-development-vs-classical-dependency` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)، ويكمل `sch-wallerstein-world-systems` المنشأ في الدفعة نفسها."
   - "**سُدَّ جزئياً 2026-09-14 (دفعة تالية):** أُنشئ `thk-cardoso`. ثيوتونيو دوس سانتوس لا يزال بلا ملف مستقل؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً."
 ---
