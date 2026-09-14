@@ -26,7 +26,9 @@ related:
 - id: "thk-habermas", title: "يورغن هابرماس", type: "مفكر"
 - id: "thk-yalom", title: "إيرفين يالوم", type: "مفكر"
 - id: "thk-becker", title: "إرنست بيكر", type: "مفكر"
+- id: "rel-marx-alienation-sociology-philosophy-bridge", title: "الاغتراب الماركسي: من مفهومٍ فلسفيٍّ إلى نظريةٍ سوسيولوجية للصراع الطبقي", type: "علاقة بين مدرستين"
 gaps:
+  - "**جسرٌ 2026-09-15:** أُضيف `rel-marx-alienation-sociology-philosophy-bridge` وربطه هنا، يصل هذا المفهوم بمدرسة `sch-marxist-classical-sociology` السوسيولوجية."
   - "التمييز بين 'الاغتراب' (Entfremdung) و'الموضوعية' (Vergegenständlichung) في 'المخطوطات 1844' لم يُوثّق بدقة."
   - "لا يوجد اقتباس مباشر موثوق من 'Entfremdete Arbeit' بعد."
 ---

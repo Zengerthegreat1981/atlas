@@ -18,7 +18,9 @@ edges: []
 related:
 - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
 - id: "dbt-marx-weber-class-stratification", title: "جدل التراتب أحادي البعد عند ماركس مقابل متعدد الأبعاد عند فيبر", type: "جدل"
+- id: "rel-marx-alienation-sociology-philosophy-bridge", title: "الاغتراب الماركسي: من مفهومٍ فلسفيٍّ إلى نظريةٍ سوسيولوجية للصراع الطبقي", type: "علاقة بين مدرستين"
 gaps:
+  - "**جسرٌ 2026-09-15:** أُضيف `rel-marx-alienation-sociology-philosophy-bridge` (الدفعة الأخيرة من القسم 4 في SOCIOLOGY_MISSION_PROMPT.md) وربطه هنا، يصل هذه المدرسة بمفهوم `con-alienation-marx` الفلسفي."
   - "**تعميقٌ 2026-09-14:** أُضيف `dbt-marx-weber-class-stratification` وربطه هنا."
   - "**تصحيح 2026-09-14 (مرحلة الحزم):** `thk-marx` القائم موسومٌ فعلياً `part: \"bridge\"` لا `philosophy` كما زعمت ملاحظة سابقة هنا دون تحقّق مباشر؛ `sch-marxism` (الأصل الفلسفي) موسومة `part: \"philosophy\"`. كلا القسمين مختلفان عن `part: \"sociology\"` لهذا الملف، فالإشارة إلى `thk-marx` عبر `related` وحده. `belongs_to` يبقى فارغاً بانتظار عقدة جسر (`part: \"bridge\"`) مخصَّصة أو مدرسة سوسيولوجية أمّ مستقلة — مذكورة في القسم 4 من `SOCIOLOGY_MISSION_PROMPT.md` كدفعة جسور أخيرة."
   - "لا يوجد بعد ملف `thk-marx` بوسم `part: \"sociology\"` منفصل؛ ماركس مصنَّف حالياً في قسم الفلسفة فقط."

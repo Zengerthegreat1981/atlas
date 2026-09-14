@@ -12,7 +12,9 @@ active_end: "مستمر"
 related:
 - id: "con-cultural-capital-bourdieu", title: "رأس المال الثقافي والرمزي (Cultural Capital)", type: "مفهوم"
 - id: "con-symbolic-violence-bourdieu", title: "العنف الرمزي والهيمنة اللامرئية (Symbolic Violence)", type: "مفهوم"
+- id: "rel-bourdieu-habitus-sociology-philosophy-bridge", title: "الهابيتوس عند بورديو: بين التنظير الفلسفي لثنائية البنية والفاعلية وتطبيقه السوسيولوجي التجريبي", type: "علاقة بين مدرستين"
 gaps:
+  - "**جسرٌ 2026-09-15:** أُضيف `rel-bourdieu-habitus-sociology-philosophy-bridge` وربطه هنا، يصل هذا المفهوم بمدرسة `sch-bourdieu-practice-habitus` السوسيولوجية (حيث يوجد الآن ملف `thk-bourdieu` معتمد تحت `part: \"sociology\"`)."
   - "صاحب المفهوم بيير بورديو موجود فقط كمسودة في مسار Spark (content/ar/drafts/spark/thinkers/thk-bourdieu.md) وليس ملفاً معتمداً بعد؛ لا يمكن ربطه هنا كـthk- حتى تُرقّى مسودته. حقل belongs_to يشير إلى اسم مدرسة نصي لا slug فعلياً؛ لا توجد مدرسة sch- معتمدة باسم «الفلسفة السياسية المعاصرة» في الأطلس الحالي — مسجّل في missing-schools."
 ---
 

@@ -20,7 +20,9 @@ related:
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
 - id: "con-episteme-foucault", title: "الإبستميه ونظام الخطاب المعرفي (Episteme)", type: "مفهوم"
 - id: "wrk-the-order-of-things-foucault", title: "الكلمات والأشياء لميشيل فوكو (Les Mots et les Choses)", type: "عمل / كتاب"
+- id: "rel-foucault-power-knowledge-discipline-sociology-philosophy-bridge", title: "فوكو المشترك: من الفلسفة النقدية للجنون والسلطة إلى سوسيولوجيا المعرفة-السلطة والانضباط", type: "علاقة بين مدرستين"
 gaps:
+  - "**جسرٌ 2026-09-15:** أُضيف `rel-foucault-power-knowledge-discipline-sociology-philosophy-bridge` (الدفعة الأخيرة من القسم 4 في SOCIOLOGY_MISSION_PROMPT.md)، ويسدّ الفجوة الموثقة أدناه صراحةً بين هذه المدرسة وملف `thk-foucault` الفلسفي."
   - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5)، ويكمل `sch-foucauldian-disciplinary-power` المنشأ في الدفعة نفسها."
   - "ملف `thk-foucault` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده."
 ---
