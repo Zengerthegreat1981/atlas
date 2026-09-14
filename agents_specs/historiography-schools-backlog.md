@@ -56,9 +56,9 @@
 - [x] إنكارُ الإبادةِ وحدودُ التمثيل (Friedländer، مسألةُ الهولوكوست في التأريخ) — `sch-genocide-denial-limits-of-representation`
 
 ## 8. المناهجُ والأدوات
-- [ ] نقدُ المصادر الداخليُّ والخارجيّ
-- [ ] التاريخُ الشفويُّ ومنهجُه (Oral History)
-- [ ] الأرشيفُ بوصفه سلطةً ومشكلةً (Archival Turn)
+- [x] نقدُ المصادر الداخليُّ والخارجيّ — `sch-internal-external-source-criticism`
+- [x] التاريخُ الشفويُّ ومنهجُه (Oral History) — `sch-oral-history-modern-method`
+- [x] الأرشيفُ بوصفه سلطةً ومشكلةً (Archival Turn) — `sch-archival-turn-archive-as-power`
 - [ ] الببليومتريا والتاريخُ الرقميُّ والكمّيّ (Digital History)
 - [ ] التأريخُ المقارنُ ومنهجُ الحالات
 - [ ] الدوريةُ التاريخيةُ ومشكلةُ التقسيم (Periodization)
