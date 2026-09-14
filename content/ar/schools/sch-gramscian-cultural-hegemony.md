@@ -20,7 +20,9 @@ related:
 - id: "sch-laclau-mouffe-discourse-hegemony", title: "ما بعد الماركسية والتحليل الخطابي للصراع", type: "مدرسة"
 - id: "con-hegemony-gramsci", title: "الهيمنة الثقافية والأيديولوجية (Cultural Hegemony)", type: "مفهوم"
 - id: "con-organic-intellectual-gramsci", title: "المثقف العضوي عند غرامشي", type: "مفهوم"
+- id: "wrk-prison-notebooks-gramsci", title: "كراسات السجن", type: "عمل / كتاب"
 gaps:
+  - "**تكثيفٌ 2026-09-15:** أُضيف `wrk-prison-notebooks-gramsci` وربطه هنا."
   - "**تعميقٌ 2026-09-14:** أُضيف `con-organic-intellectual-gramsci` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4). ملف `thk-antonio-gramsci` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده. `belongs_to` لهذا الملف نفسه تُرك فارغاً."
 ---

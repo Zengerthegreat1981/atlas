@@ -16,7 +16,9 @@ edges:
 - rel: "belongs_to", target: "sch-skocpol-comparative-historical-revolutions", target_type: "مدرسة"
 related:
 - id: "sch-skocpol-comparative-historical-revolutions", title: "علم الاجتماع التاريخي والمقارن للثورات", type: "مدرسة"
+- id: "wrk-states-social-revolutions-skocpol", title: "الدول والثورات الاجتماعية", type: "عمل / كتاب"
 gaps:
+  - "**تكثيفٌ 2026-09-15:** أُضيف `wrk-states-social-revolutions-skocpol` وربطه هنا."
   - "عملها اللاحق عن دولة الرفاه الأمريكية (Protecting Soldiers and Mothers، 1992) خارج نطاق هذا الملف."
 ---
 

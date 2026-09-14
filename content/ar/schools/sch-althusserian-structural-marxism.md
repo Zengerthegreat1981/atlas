@@ -20,7 +20,9 @@ related:
 - id: "sch-miliband-poulantzas-state-theory", title: "سوسيولوجيا الدولة الرأسمالية", type: "مدرسة"
 - id: "con-ideological-state-apparatuses", title: "الأجهزة الأيديولوجية للدولة (Ideological State Apparatuses)", type: "مفهوم"
 - id: "dbt-althusser-thompson-structure-vs-agency-marxism", title: "جدل الماركسية البنيوية عند ألتوسير مقابل الماركسية الإنسانية التاريخية عند طومسون", type: "جدل"
+- id: "wrk-for-marx-althusser", title: "من أجل ماركس", type: "عمل / كتاب"
 gaps:
+  - "**تكثيفٌ 2026-09-15:** أُضيف `wrk-for-marx-althusser` وربطه هنا."
   - "**تعميقٌ 2026-09-14:** أُضيف `dbt-althusser-thompson-structure-vs-agency-marxism` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4). ملف `thk-louis-althusser` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده. `belongs_to` لهذا الملف نفسه تُرك فارغاً."
 ---

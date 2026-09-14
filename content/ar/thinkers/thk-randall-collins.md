@@ -16,7 +16,9 @@ edges:
 - rel: "belongs_to", target: "sch-collins-micro-conflict", target_type: "مدرسة"
 related:
 - id: "sch-collins-micro-conflict", title: "سوسيولوجيا الصراع المجهرية وسلاسل طقوس التفاعل", type: "مدرسة"
+- id: "wrk-interaction-ritual-chains-collins", title: "سلاسل طقوس التفاعل", type: "عمل / كتاب"
 gaps:
+  - "**تكثيفٌ 2026-09-15:** أُضيف `wrk-interaction-ritual-chains-collins` وربطه هنا."
   - "الجسر التفصيلي إلى `sch-goffmanian-interaction-rituals` (طقوس التفاعل الغوفمانية التي استلهمها كولينز مباشرة) لم يُبنَ بعد كعلاقة صريحة في هذا الملف."
 ---
 

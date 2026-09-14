@@ -14,7 +14,9 @@ edges:
 related:
 - id: "sch-millsian-power-elite", title: "السوسيولوجيا الراديكالية ونقد نخبة القوة", type: "مدرسة"
 - id: "thk-c-wright-mills", title: "سي. رايت ميلز", type: "مفكر"
+- id: "wrk-power-elite-mills", title: "نخبة القوة", type: "عمل / كتاب"
 gaps:
+  - "**تكثيفٌ 2026-09-15:** أُضيف `wrk-power-elite-mills` وربطه هنا."
   - "لم يُستوفَ هنا الجدل النقدي اللاحق بين أنصار النموذج التعددي (Pluralist) وأنصار نموذج النخبة حول توزيع السلطة الفعلي في الديمقراطيات الغربية."
 ---
 

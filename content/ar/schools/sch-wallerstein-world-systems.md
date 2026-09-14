@@ -20,7 +20,9 @@ related:
 - id: "thk-wallerstein", title: "إيمانويل فالرستين", type: "مفكر"
 - id: "con-core-periphery-wallerstein", title: "المركز والمحيط في النظام العالمي (Core-Periphery)", type: "مفهوم"
 - id: "dbt-modernization-theory-vs-dependency-theory", title: "جدل التحديث الخطي عند بارسونز مقابل نظرية التبعية", type: "جدل"
+- id: "wrk-modern-world-system-wallerstein", title: "النظام العالمي الحديث (المجلد الأول)", type: "عمل / كتاب"
 gaps:
+  - "**رُبطت عقدةٌ معزولة 2026-09-15:** `wrk-modern-world-system-wallerstein` كان معزولاً؛ أُضيف رابطه هنا."
   - "**تعميقٌ 2026-09-14:** أُضيف رابط `dbt-modernization-theory-vs-dependency-theory` (مسندٌ بـ`belongs_to` إلى `sch-parsonian-pattern-variables` في القسم 3؛ فالرستين طرفٌ أصيل فيه بامتداده النظري لنظرية التبعية)."
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-wallerstein`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."

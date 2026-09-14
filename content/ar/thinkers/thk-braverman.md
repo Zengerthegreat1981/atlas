@@ -16,7 +16,9 @@ edges:
 - rel: "belongs_to", target: "sch-braverman-labor-process", target_type: "مدرسة"
 related:
 - id: "sch-braverman-labor-process", title: "سوسيولوجيا عملية العمل ونزع المهارة", type: "مدرسة"
+- id: "wrk-labor-monopoly-capital-braverman", title: "العمل ورأس المال الاحتكاري", type: "عمل / كتاب"
 gaps:
+  - "**تكثيفٌ 2026-09-15:** أُضيف `wrk-labor-monopoly-capital-braverman` وربطه هنا."
   - "كتب برافرمان عمله الوحيد المؤثر هذا وهو عامل مهني سابق قبل انتقاله للكتابة، لا أكاديمي بالتكوين؛ هذا السياق المهني المباشر أثّر في تحليله."
 ---
 

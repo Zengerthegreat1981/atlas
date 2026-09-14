@@ -17,7 +17,9 @@ edges:
 related:
 - id: "sch-wallerstein-world-systems", title: "تحليل النظم العالمية والتقسيم الدولي للعمل", type: "مدرسة"
 - id: "sch-latin-american-dependency-theory", title: "نظرية التبعية السوسيولوجية اللاتينية", type: "مدرسة"
+- id: "wrk-modern-world-system-wallerstein", title: "النظام العالمي الحديث (المجلد الأول)", type: "عمل / كتاب"
 gaps:
+  - "**رُبطت عقدةٌ معزولة 2026-09-15:** `wrk-modern-world-system-wallerstein` كان موجوداً بالفعل لكن معزولاً (لا شيء يشير إليه)؛ أُضيف رابطه هنا (اكتُشف عبر audit_atlas.py، تكثيف wrk-)."
   - "علاقته الفكرية بمدرسة الحوليات الفرنسية (خصوصاً فرنان بروديل) في تطوير المنظور التاريخي طويل المدى لم تُستوفَ هنا."
 ---
 

@@ -16,7 +16,9 @@ edges:
 related:
 - id: "thk-veblen", title: "ثورستين فيبلن", type: "مفكر"
 - id: "sch-bourdieu-distinction-cultural-reproduction", title: "سوسيولوجيا التمايز وإعادة الإنتاج الثقافي", type: "مدرسة"
+- id: "wrk-theory-of-leisure-class-veblen", title: "نظرية الطبقة المترفة", type: "عمل / كتاب"
 gaps:
+  - "**تصحيحُ ملاحظةٍ باتت كاذبة 2026-09-15:** `wrk-theory-of-leisure-class-veblen` موجودٌ بالفعل (كُتب في دفعةٍ سابقة)؛ أُضيف رابطه هنا."
   - "هذا الملف أُنشئ في الدفعة 10 (مرحلة الحزم). لا عمل `wrk-` مستقل بعد يوثّق *نظرية الطبقة المترفة* (1899) تفصيلياً."
 ---
 
