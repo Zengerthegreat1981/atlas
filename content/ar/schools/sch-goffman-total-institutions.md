@@ -20,7 +20,9 @@ related:
 - id: "con-total-institution-mortification", title: "المؤسسة الشاملة وعملية الإماتة عند غوفمان", type: "مفهوم"
 - id: "dbt-goffman-foucault-institutional-power", title: "جدل تحليل المؤسسات الشاملة: غوفمان التفاعلي مقابل فوكو الخطابي", type: "جدل"
 - id: "rel-goffman-stigma-total-institutions-sociology-psychology-bridge", title: "غوفمان بين تحليل الوصمة والمؤسسات الشاملة السوسيولوجي وأثره في علم النفس الإكلينيكي", type: "علاقة بين مدرستين"
+- id: "stu-asylums-fieldwork-goffman", title: "العمل الميداني المتخفّي لغوفمان في مستشفى سانت إليزابيث", type: "دراسة وبحث"
 gaps:
+  - "**دراسةٌ ميدانيةٌ 2026-09-15:** أُضيف `stu-asylums-fieldwork-goffman` وربطه هنا، يفرد العمل الميداني المتخفّي نفسه (1955-1956) بعقدة `stu-` مستقلة."
   - "**جسرٌ 2026-09-15:** أُضيف `rel-goffman-stigma-total-institutions-sociology-psychology-bridge` (الدفعة الأخيرة من القسم 4 في SOCIOLOGY_MISSION_PROMPT.md) وربطه هنا، يصل هذه المدرسة بملف `thk-goffman` الموسوم `part: \"psychology\"`."
   - "**تعميقٌ 2026-09-14:** أُضيف `dbt-goffman-foucault-institutional-power` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2)، ويكمل `sch-goffman-dramaturgical` المنشأ في الدفعة نفسها."
