@@ -23,7 +23,9 @@ related:
 - id: "thk-robert-park", title: "روبرت إزرا بارك", type: "مفكر"
 - id: "thk-ernest-burgess", title: "إرنست واطسون بيرجس", type: "مفكر"
 - id: "con-concentric-zone-model-burgess", title: "نموذج الحلقات المتحدة المركز عند بيرجس", type: "مفهوم"
+- id: "wrk-the-city-park-burgess", title: "المدينة: اقتراحات لدراسة السلوك الإنساني في البيئة الحضرية", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-14:** أُضيف `wrk-the-city-park-burgess` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2 من `sociology-schools-backlog.md`)."
   - "**سُدَّ 2026-09-14 (الدفعة 13):** كُتب `thk-robert-park` و`thk-ernest-burgess` (بادئة `thk-park`/`thk-burgess` كانت مستعملة سلفاً لمفكرين آخرين في أقسام مختلفة، فاستُعملت صيغة الاسم الكامل لتفادي التصادم) و`con-concentric-zone-model-burgess`، وأُضيفت روابطها هنا."
 ---
