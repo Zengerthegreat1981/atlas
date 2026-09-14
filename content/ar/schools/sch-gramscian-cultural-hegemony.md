@@ -18,6 +18,7 @@ edges: []
 related:
 - id: "thk-antonio-gramsci", title: "أنطونيو غرامشي", type: "مفكر"
 - id: "sch-laclau-mouffe-discourse-hegemony", title: "ما بعد الماركسية والتحليل الخطابي للصراع", type: "مدرسة"
+- id: "con-hegemony-gramsci", title: "الهيمنة الثقافية والأيديولوجية (Cultural Hegemony)", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4). ملف `thk-antonio-gramsci` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده. `belongs_to` لهذا الملف نفسه تُرك فارغاً."
 ---

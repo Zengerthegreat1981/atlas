@@ -16,9 +16,13 @@ active_start: 1969
 active_end: 1978
 edges:
 - rel: "belongs_to", target: "sch-althusserian-structural-marxism", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-miliband", title: "رالف ميليباند", type: "مفكر"
+- id: "thk-poulantzas", title: "نيكوس بولانتزاس", type: "مفكر"
+- id: "con-relative-autonomy-state-poulantzas", title: "الاستقلالية النسبية للدولة الرأسمالية (Relative Autonomy)", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)، ويكمل `sch-althusserian-structural-marxism` المنشأ في الدفعة نفسها. لا يوجد بعد ملفات مستقلة لرالف ميليباند (`thk-miliband`) أو نيكوس بولانتزاس (`thk-poulantzas`)."
+  - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)، ويكمل `sch-althusserian-structural-marxism` المنشأ في الدفعة نفسها."
+  - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-miliband` و`thk-poulantzas`."
   - "نُسب هذا الملف إلى الماركسية البنيوية الألتوسيرية بحكم موقف بولانتزاس المباشر (تلميذ ألتوسير)، لكن ميليباند خاصم هذا الإطار البنيوي صراحة في مناظرتهما الشهيرة؛ العلاقة بينهما نقاشية-خلافية لا انتماء موحَّد، وهذا الملف يعرض الطرفين معاً بحكم اشتراكهما في موضوع نظرية الدولة الماركسية لا اتفاقهما."
 ---
 

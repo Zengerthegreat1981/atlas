@@ -18,6 +18,7 @@ edges: []
 related:
 - id: "thk-louis-althusser", title: "لويس ألتوسير", type: "مفكر"
 - id: "sch-miliband-poulantzas-state-theory", title: "سوسيولوجيا الدولة الرأسمالية", type: "مدرسة"
+- id: "con-ideological-state-apparatuses", title: "الأجهزة الأيديولوجية للدولة (Ideological State Apparatuses)", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4). ملف `thk-louis-althusser` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده. `belongs_to` لهذا الملف نفسه تُرك فارغاً."
 ---

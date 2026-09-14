@@ -19,6 +19,7 @@ edges:
 related:
 - id: "thk-laclau", title: "إرنستو لاكلاو", type: "مفكر"
 - id: "thk-cmouffe", title: "شانتال موف", type: "مفكر"
+- id: "con-radical-democracy-articulation-laclau-mouffe", title: "التفصيل الخطابي والديمقراطية الراديكالية (Articulation & Radical Democracy)", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)، ويكمل `sch-gramscian-cultural-hegemony` المنشأ في الدفعة نفسها. ملفا `thk-laclau` وthk-cmouffe القائمان موسومان `part: \"philosophy\"`، فالإشارة إليهما عبر `related` وحده."
 ---
