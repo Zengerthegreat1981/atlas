@@ -373,10 +373,10 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 
 ## 4. نظرية الصراع، مدرسة فرانكفورت والماركسية النقدية (Conflict Theory & Critical Sociology)
 
-- [ ] `sch-dahrendorfian-conflict-sociology` — سوسيولوجيا الصراع الليبرالية (Dahrendorfian Conflict Sociology)
-- [ ] `sch-millsian-power-elite` — السوسيولوجيا الراديكالية ونقد نخبة القوة (Millsian Critical Sociology & The Power Elite)
-- [ ] `sch-collins-micro-conflict` — سوسيولوجيا الصراع المجهرية وسلاسل طقوس التفاعل (Collins' Micro-Conflict Sociology)
-- [ ] `sch-wallerstein-world-systems` — تحليل النظم العالمية والتقسيم الدولي للعمل (Wallerstein's World-Systems Analysis)
+- [x] `sch-dahrendorfian-conflict-sociology` — سوسيولوجيا الصراع الليبرالية (Dahrendorfian Conflict Sociology)
+- [x] `sch-millsian-power-elite` — السوسيولوجيا الراديكالية ونقد نخبة القوة (Millsian Critical Sociology & The Power Elite)
+- [x] `sch-collins-micro-conflict` — سوسيولوجيا الصراع المجهرية وسلاسل طقوس التفاعل (Collins' Micro-Conflict Sociology)
+- [x] `sch-wallerstein-world-systems` — تحليل النظم العالمية والتقسيم الدولي للعمل (Wallerstein's World-Systems Analysis)
 - [ ] `sch-latin-american-dependency-theory` — نظرية التبعية السوسيولوجية اللاتينية (Latin American Dependency Theory: Cardoso, Dos Santos)
 - [ ] `sch-frankfurt-critical-sociology` — النظرية النقدية الأولى والتسليع الثقافي (Frankfurt School Critical Sociology: Horkheimer & Adorno)
 - [ ] `sch-marcusean-one-dimensionality` — سوسيولوجيا المجتمع الصناعي أحادي البعد (Marcusean Critical Sociology of One-Dimensionality)
