@@ -222,6 +222,14 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 لغوية موازية سحبت فهرس git المشترك (`77f34622`) بدل التزام مستقل من هذه الجلسة؛ لا خطأ محتوى،
 مجرد سباق فهرسة مطابق للحوادث السابقة. **أوّل بند للدفعة التالية:** `sch-mertonian-middle-range`.
 
+**الدفعة 36 (2026-09-14):** كُتب `thk-robert-merton` (تنبيه تسمية: `thk-merton` القائم سلفاً هو
+توماس ميرتون الراهب، شخصية مختلفة كلياً؛ استُعمل slug مختلف لتفادي الخلط) و
+`con-manifest-latent-functions-merton`، وأُسندا إلى `sch-mertonian-middle-range` (موجودة سلفاً)
+وأُضيفت روابطهما فيها، مع ربط `thk-robert-merton` أيضاً من `sch-mertons-strain-theory`. الفحوص
+الثلاثة صفر على نطاق ملفات هذه الدفعة (الشجرة الكاملة تحمل روابط معلَّقة غير متعلقة في
+`thk-georges-devereux`، ملف غير مُلتزم لجلسة أنثروبولوجيا موازية). **أوّل بند للدفعة التالية:**
+`sch-reference-group-relative-deprivation`.
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
@@ -274,8 +282,8 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 - [x] `sch-parsonian-action-frame` — نظرية الفعل الاجتماعي والتركيب البارسونزي (Parsonian Action Frame of Reference)
 - [x] `sch-parsonian-structural-functionalism-agil` — الوظيفية البنائية الشاملة ونموذج AGIL (Parsonian Structural Functionalism)
 - [x] `sch-parsonian-pattern-variables` — متغيرات النمط ونظرية التحديث (Parsonian Pattern Variables & Modernization Theory)
-- [ ] `sch-mertonian-middle-range` — وظيفية المدى المتوسط والتحليل البنائي (Mertonian Middle-Range Functionalism)
-- [ ] `sch-mertons-strain-theory` — نظرية التوتر والأنومي (Merton's Strain Theory of Deviance)
+- [x] `sch-mertonian-middle-range` — وظيفية المدى المتوسط والتحليل البنائي (Mertonian Middle-Range Functionalism)
+- [x] `sch-mertons-strain-theory` — نظرية التوتر والأنومي (Merton's Strain Theory of Deviance)
 - [ ] `sch-reference-group-relative-deprivation` — نظرية الجماعات المرجعية والحرمان النسبي (Reference Group & Relative Deprivation Theory)
 - [ ] `sch-mertonian-sociology-of-science` — سوسيولوجيا العلم والمؤسسة الأكاديمية (Mertonian Sociology of Science / CUDOS)
 - [ ] `sch-neofunctionalism` — الوظيفية الجديدة والتركيب ما بعد البارسونزي (Neofunctionalism: Alexander & Colomy)
