@@ -21,7 +21,9 @@ related:
 - id: "sch-neofunctionalism", title: "الوظيفية الجديدة والتركيب ما بعد البارسونزي", type: "مدرسة"
 - id: "thk-parsons", title: "تالكوت بارسونز", type: "مفكر"
 - id: "con-action-frame-of-reference-parsons", title: "الإطار المرجعي للفعل عند بارسونز", type: "مفهوم"
+- id: "dbt-parsons-mills-consensus-vs-conflict", title: "جدل التوافق البنيوي عند بارسونز مقابل نقد ميلز الراديكالي", type: "جدل"
 gaps:
+  - "**تعميقٌ 2026-09-14:** أُضيف `dbt-parsons-mills-consensus-vs-conflict` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3)."
   - "**سُدَّ 2026-09-14 (الدفعة 33):** كُتب `thk-parsons` و`con-action-frame-of-reference-parsons` وأُضيفت روابطهما هنا."
 ---
