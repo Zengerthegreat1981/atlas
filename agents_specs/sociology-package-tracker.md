@@ -17,23 +17,35 @@
 - بعد كل دفعة: `check_content_integrity.py` ثم `build_atlas.py` ثم `audit_atlas.py` (صفر إلزامي)،
   ثم تحديث هذا الملف (`[ ]`→`[~]`→`[x]`)، ثم الالتزام والدفع.
 
-## ⚠️ ملاحظة تصحيحية مؤجَّلة — معجم `sociological_tradition`
+## ✅ ملاحظة تصحيحية — معجم `sociological_tradition` (نُفِّذت 2026-09-14)
 
-القيم المستعملة فعلياً في الدفعات 1–8 لمدارس علم الاجتماع (`classical-foundational`,
-`chicago-interactionist`, `structural-functionalist`, `exchange-rational-choice`, `conflict-critical`,
-`post-structuralist`, `practice-theoretical`, `phenomenological-ethnomethodological`,
+كانت القيم المستعملة فعلياً في الدفعات 1–8 لمدارس علم الاجتماع (`classical-foundational`,
+`chicago-interactionist`, `conflict-critical`, `post-structuralist`, `practice-theoretical`,
 `decolonial-global-south`, `feminist`, `contemporary-globalization`, `specialized-subdiscipline`,
-`systems-theoretical`, `organizational`, `arab-islamic-sociology`) **لا تطابق حرفياً** المعجم المغلق
-المعتمد في DR-009 (`classical-positivist`, `marxian-conflict`, `weberian-interpretive`,
-`structural-functionalist`, `symbolic-interactionist`, `phenomenological-ethnomethodological`,
-`exchange-rational-choice`, `critical-theory`, `structuralist-poststructuralist`, `feminist-gender`,
-`postcolonial-decolonial-global`, `arab-islamic-sociology`, `contemporary-synthetic`,
-`applied-specialized`). لا فحصَ قاطعاً في `audit_atlas.py` يرصد هذا الانحراف حالياً (الحقل غير
-مُتحقَّقٍ منه آلياً)، فلم يُوقِف أيَّ التزام، لكنه انحرافٌ حقيقي عن القرار المعماري المعتمد.
-**القرار لهذه المرحلة:** الملفات الجديدة (حزم المفكرين/المفاهيم) تستعمل معجم DR-009 حرفياً من الآن
-فصاعداً. تصحيح الـ136 ملف مدرسة القائمة مهمةٌ منفصلة مؤجَّلة (لا تُحل ضمن دفعات الحزم)، ويجب ألا
-تُنسى: أضِفها كبند عمل صريح حين يُستكمل بناء الحزم ولا تُغلق هذا الملف قبل تنفيذها أو تسجيلها
-رسمياً كتنازل معماري موثَّق.
+`systems-theoretical`, `organizational`, `critical-race`) **لا تطابق حرفياً** المعجم المغلق
+المعتمد في DR-009. **صُحِّحت جميعها** عبر أربع دفعات صغيرة (129 ملف مدرسة عُدِّلت من أصل 159)
+بخريطة تحويل منطقية:
+- `classical-foundational` → `classical-positivist` (إلا ملفات فيبر/سيميل الخمسة
+  → `weberian-interpretive`، القيمة الصريحة لهما في DR-009)
+- `chicago-interactionist` → `symbolic-interactionist`
+- `post-structuralist`, `practice-theoretical` → `structuralist-poststructuralist`
+- `decolonial-global-south`, `critical-race` → `postcolonial-decolonial-global`
+- `feminist` → `feminist-gender`
+- `contemporary-globalization` → `contemporary-synthetic`
+- `specialized-subdiscipline`, `organizational` → `applied-specialized`
+- `systems-theoretical` → `structural-functionalist` (لومان مذكورٌ صراحةً تحتها في DR-009)
+- `conflict-critical` (كانت الأعقد، 22 ملفاً) → قُسِّمت ملفاً بملف حسب المضمون الفعلي:
+  مدارس فرانكفورت/هابرماس (الفعل التواصلي والمجال العام)/هونيث-فريزر/ماركوزه
+  → `critical-theory`؛ لاكلاو وموف (خطاب ما بعد بنيوي) → `structuralist-poststructuralist`؛
+  البقية (ماركسية كلاسيكية وبنيوية وتحليلية، والرشتاين، دارندورف، كولينز، غرامشي، ميلز،
+  ميليباند-بولانتزاس، بروفرمان، هارفي، لوفيفر، تبعية أمريكا اللاتينية، سكوكبول، تيلي-تارو،
+  سكوت) → `marxian-conflict`.
+
+جميعُ الـ159 ملف مدرسة بـ`part: "sociology"` مطابقةٌ الآن حرفياً لمعجم DR-009 المغلق (تحقُّقٌ
+آليٌّ نهائي عبر سكربت Python مستقل، لا فحص قاطع مضافاً بعد في `audit_atlas.py`). الفحوص
+الثلاثة مرَّت في كل دفعةٍ من الأربع دون أيّ فشلٍ جديد (الفشلُ القاطع الوحيد الظاهر في الشجرة
+عائدٌ لجلسةٍ متزامنة أخرى على الفقه الإسلامي — `thk-al-shatibi` وأخواته — غير متعلقٍ بهذا
+التصحيح إطلاقاً).
 
 ## موضع التوقّف الحالي
 
@@ -248,6 +260,11 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 تصحيح المعجم الجماعية الجارية على نطاق واسع، لم تُلمس). **أوّل بند للدفعة التالية:**
 `sch-luhmannian-autopoietic-systems`.
 
+**الدفعة 40 (2026-09-14):** كُتب `thk-luhmann` و`con-autopoiesis-social-systems-luhmann`، وأُسندا
+إلى `sch-luhmannian-autopoietic-systems` (موجودة سلفاً، وتحديثها التُزم عبر سباق فهرسة مع جلسة
+موازية) وأُضيفت روابطهما فيها. الفحوص الثلاثة صفر على نطاق ملفات هذه الدفعة. **أوّل بند للدفعة
+التالية:** `sch-luhmannian-communication-differentiation`.
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
@@ -305,7 +322,7 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 - [x] `sch-reference-group-relative-deprivation` — نظرية الجماعات المرجعية والحرمان النسبي (Reference Group & Relative Deprivation Theory)
 - [x] `sch-mertonian-sociology-of-science` — سوسيولوجيا العلم والمؤسسة الأكاديمية (Mertonian Sociology of Science / CUDOS)
 - [x] `sch-neofunctionalism` — الوظيفية الجديدة والتركيب ما بعد البارسونزي (Neofunctionalism: Alexander & Colomy)
-- [ ] `sch-luhmannian-autopoietic-systems` — نظرية الأنساق الاجتماعية الأوتوبويتية (Luhmannian Autopoietic Social Systems Theory)
+- [x] `sch-luhmannian-autopoietic-systems` — نظرية الأنساق الاجتماعية الأوتوبويتية (Luhmannian Autopoietic Social Systems Theory)
 - [ ] `sch-luhmannian-communication-differentiation` — سوسيولوجيا التواصل والتمايز النسقي (Luhmannian Sociology of Communication & Differentiation)
 - [ ] `sch-homans-behavioral-exchange` — نظرية التبادل الاجتماعي السلوكية (Homans' Behavioral Social Exchange Theory)
 - [ ] `sch-blau-structural-exchange` — نظرية التبادل البنائي والتفاوت الطبقي (Blau's Structural Exchange Theory)
