@@ -16,8 +16,9 @@ edges:
 - rel: "belongs_to", target: "sch-classical-evolutionism", target_type: "مدرسة"
 related:
 - id: "sch-classical-evolutionism", title: "الأنثروبولوجيا التطوّرية الكلاسيكية (Classical Evolutionism)", type: "مدرسة"
-gaps:
-  - "لم تُربط بعد مفاهيمُ تايلور (الإحيائية، البقايا الثقافية) بملفّات `con-` مستقلة — ستُضاف في دفعةٍ لاحقة."
+- id: "wrk-primitive-culture-tylor", title: "الثقافة البدائية (Primitive Culture)", type: "عمل / كتاب"
+- id: "con-animism-tylor", title: "الإحيائية عند تايلور (Animism)", type: "مفهوم"
+gaps: []
 ---
 # إدوارد بيرنت تايلور (Edward Burnett Tylor)
 
