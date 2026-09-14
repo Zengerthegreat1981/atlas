@@ -18,6 +18,7 @@ related:
 - id: "sch-descent-theory", title: "أنثروبولوجيا القرابة والنسب (Descent Theory)", type: "مدرسة"
 - id: "thk-radcliffe-brown", title: "ألفرد رادكليف-براون (A. R. Radcliffe-Brown)", type: "مفكر"
 - id: "stu-evans-pritchard-azande-witchcraft", title: "السحر والعرافة عند الآزاندي (Witchcraft, Oracles and Magic Among the Azande)", type: "دراسة وبحث"
+- id: "con-segmentary-lineage-system", title: "النسقُ القطاعيّ للنسب (Segmentary Lineage System)", type: "مفهوم"
 gaps: []
 ---
 # إدوارد إيفانز-بريتشارد (E. E. Evans-Pritchard)
