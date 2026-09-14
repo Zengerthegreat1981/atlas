@@ -84,7 +84,7 @@
 - [x] العنفُ البنيويُّ والصحّة (Structural Violence — Farmer, Scheper-Hughes) — `sch-structural-violence-health`، `thk-paul-farmer`، `thk-nancy-scheper-hughes`
 - [x] الإثنوبسيكياتري ومتلازماتُ الثقافة (Ethnopsychiatry & Culture-Bound Syndromes) — `sch-ethnopsychiatry-culture-bound-syndromes`، `thk-georges-devereux` — **ربطُ متلازمات الثقافة الثماني (أموك، سوستو، كورو، لاتها، بيبلوكتوك، مرض الأشباح، تايجين كيوفوشو، الأحفاء) بمرساها الأنثروبولوجي محقَّقٌ من جهة الأنثروبولوجيا**
 - [ ] أنثروبولوجيا الشفاء والشامانية (Anthropology of Healing & Shamanism)
-- [ ] الأنثروبولوجيا النفسية وتعلّمُ الثقافة (Psychological Anthropology — Whiting, Shweder, Luhrmann)
+- [x] الأنثروبولوجيا النفسية وتعلّمُ الثقافة (Psychological Anthropology — Whiting, Shweder, Luhrmann) — `sch-psychological-anthropology`، `thk-richard-shweder` — القسم 9 مكتملٌ الآن باستثناء الأنثروبولوجيا الطبّية النقدية العامّة وأنثروبولوجيا الشفاء والشامانية (مؤجّلتان)
 
 ## 10. المنعطفاتُ المعاصرة (Contemporary Turns)
 
