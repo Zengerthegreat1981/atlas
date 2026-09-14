@@ -18,8 +18,10 @@ edges: []
 related:
 - id: "thk-travis-hirschi", title: "ترافيس هيرشي", type: "مفكر"
 - id: "con-social-bond-theory-hirschi", title: "نظرية الرابطة الاجتماعية (Social Bond Theory)", type: "مفهوم"
+- id: "con-moral-panic-folk-devils-cohen", title: "الذعر الأخلاقي والشيطان الشعبي (Moral Panic & Folk Devils)", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8) كمسح عام للحقل، متمايزاً عن النظريات المحددة السابقة (نظرية التوتر عند ميرتون، الوصم عند بيكر وليمرت، الارتباط التفاضلي عند ساذرلاند — جميعها في القسمين 2 و3)."
+  - "**تعميقٌ 2026-09-15:** أُضيف `con-moral-panic-folk-devils-cohen` (مفهوم كوهين الثاني) وربطه هنا."
   - "**سُدَّ جزئياً 2026-09-14 (دفعة تالية):** أُنشئ `thk-travis-hirschi`. ستانلي كوهين (`thk-stanley-cohen`) لا يزال بلا ملف مستقل؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً."
 ---
 
