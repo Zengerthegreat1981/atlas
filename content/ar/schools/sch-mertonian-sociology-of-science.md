@@ -16,9 +16,12 @@ active_start: 1942
 active_end: 1968
 edges:
 - rel: "belongs_to", target: "sch-mertonian-middle-range", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-robert-merton", title: "روبرت ك. ميرتون", type: "مفكر"
+- id: "con-cudos-norms-science", title: "معايير CUDOS للبنية المعيارية للعلم عند ميرتون", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3)، ويكمل `sch-mertonian-middle-range` المنشأ في الدفعة نفسها."
+  - "**سُدَّ 2026-09-14 (الدفعة 38):** كُتب `con-cudos-norms-science` وأُضيف رابطه هنا مع رابط `thk-robert-merton`."
 ---
 
 # سوسيولوجيا العلم والمؤسسة الأكاديمية
