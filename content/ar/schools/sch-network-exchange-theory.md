@@ -16,9 +16,13 @@ active_start: 1977
 active_end: 1992
 edges:
 - rel: "belongs_to", target: "sch-homans-behavioral-exchange", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-karen-cook", title: "كارين كوك", type: "مفكر"
+- id: "thk-david-willer", title: "ديفيد ويلر", type: "مفكر"
+- id: "con-network-exchange-power-dependence", title: "القوة والتبعية في شبكات التبادل عند كوك وويلر", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3)، ويكمل `sch-homans-behavioral-exchange` المنشأ في الدفعة نفسها. لا يوجد بعد ملفات مستقلة لكارين كوك (`thk-karen-cook`) أو ديفيد ويلر (`thk-david-willer`)."
+  - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3)، ويكمل `sch-homans-behavioral-exchange` المنشأ في الدفعة نفسها."
+  - "**سُدَّ 2026-09-14 (الدفعة 46):** كُتب `thk-karen-cook`، `thk-david-willer`، و`con-network-exchange-power-dependence` وأُضيفت روابطها هنا."
 ---
 
 # نظرية التبادل الشبكي وعلاقات القوة-التبعية
