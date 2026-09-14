@@ -19,6 +19,7 @@ edges:
 related:
 - id: "sch-prague-linguistic-circle", title: "حلقةُ براغ اللسانية (Prague Linguistic Circle)", type: "مدرسة"
 - id: "con-phoneme", title: "الفونيم", type: "مفهوم"
+- id: "con-jakobson-communication-functions", title: "وظائفُ اللغة الستّ عند ياكوبسون", type: "مفهوم"
 - id: "sch-saussurean-structuralism", title: "البنيويةُ السوسيرية (Saussurean Structuralism)", type: "مدرسة"
 gaps:
   - "إسهاماتُه في الشعرية اللسانية (Linguistic Poetics) ونظرية الحُبسة (Aphasia) اللسانية موضوعان واسعان لم يُفرَدا بملفَّي مفهومٍ مستقلَّين بعد."

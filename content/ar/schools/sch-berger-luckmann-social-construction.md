@@ -19,6 +19,7 @@ edges:
 related:
 - id: "thk-peter-berger", title: "بيتر بيرغر", type: "مفكر"
 - id: "con-social-construction-of-reality", title: "البناء الاجتماعي للواقع (Social Construction of Reality)", type: "مفهوم"
+- id: "wrk-social-construction-of-reality-berger-luckmann", title: "البناء الاجتماعي للواقع (The Social Construction of Reality)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5)، ويكمل `sch-schutzian-phenomenological-sociology` المنشأ في الدفعة نفسها."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-peter-berger` وأُسند إليه `belongs_to`. توماس لوكمان لا يزال بلا ملف مستقل (`thk-thomas-luckmann`)."
