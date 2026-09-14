@@ -19,6 +19,7 @@ related:
 - id: "thk-anthony-giddens", title: "أنتوني غيدنز", type: "مفكر"
 - id: "sch-giddens-reflexive-modernity", title: "سوسيولوجيا الحداثة الفائقة والانعكاسية", type: "مدرسة"
 - id: "con-structuration-duality-of-structure", title: "ازدواجية البنية (Duality of Structure)", type: "مفهوم"
+- id: "wrk-constitution-of-society-giddens", title: "دستور المجتمع (The Constitution of Society)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 6 من مهمة بناء قسم علم الاجتماع (القسم 6 من `sociology-schools-backlog.md`). ملف `thk-anthony-giddens` القائم موسومٌ `part: \"psychology\"`، فالإشارة إليه عبر `related` وحده. `belongs_to` لهذا الملف نفسه تُرك فارغاً."
 ---

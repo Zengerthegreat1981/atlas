@@ -19,6 +19,7 @@ related:
 - id: "sch-beck-cosmopolitan-sociology", title: "سوسيولوجيا الكوزموبوليتية والمخاطر العالمية", type: "مدرسة"
 - id: "thk-ulrich-beck", title: "أولريش بيك", type: "مفكر"
 - id: "con-risk-society-beck", title: "مجتمع المخاطرة والحداثة الانعكاسية (Risk Society)", type: "مفهوم"
+- id: "wrk-risikogesellschaft-beck", title: "مجتمع المخاطرة (Risikogesellschaft)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 6 من مهمة بناء قسم علم الاجتماع (القسم 6)."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-ulrich-beck` ومفهوم مجتمع المخاطرة؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."

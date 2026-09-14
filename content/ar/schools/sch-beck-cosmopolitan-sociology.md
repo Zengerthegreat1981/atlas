@@ -19,6 +19,7 @@ edges:
 related:
 - id: "thk-ulrich-beck", title: "أولريش بيك", type: "مفكر"
 - id: "con-cosmopolitanism", title: "المواطنة الكونية (الكوزموبوليتية)", type: "مفهوم"
+- id: "wrk-world-risk-society-beck", title: "مخاطر العالم (World Risk Society)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 6 من مهمة بناء قسم علم الاجتماع (القسم 6)، ويكمل `sch-beck-risk-society-theory` المنشأ في الدفعة نفسها."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُضيف رابط `thk-ulrich-beck` بعد إنشائه. مفهوم `con-cosmopolitanism` القائم موسومٌ `part: \"philosophy\"`؛ الإشارة إليه عبر `related` وحده."
