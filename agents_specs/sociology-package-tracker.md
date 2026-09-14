@@ -720,3 +720,12 @@ analysis-vs-critical-discourse-analysis`. **الموضع التالي: القس�
 أوّل 8 مدارس في القسم 7: سميث×2، هيل كولينز، كرنشو، بيل هوكس، بتلر، أوكلي، فريزر
 (إعادة الإنتاج). **الموضع التالي:** `sch-quijano-coloniality-of-power` فصاعداً
 (12 مدرسة متبقية في القسم 7، ثم القسم 8 كاملاً).
+
+**الدفعة 3 من القسم 7 (2026-09-14):** أُضيف عنصرٌ إضافي لكل من `sch-quijano-
+coloniality-of-power`، `sch-santos-epistemologies-of-the-south` (عملٌ جديد)،
+`sch-said-sociology-of-orientalism`، و`sch-fanonian-liberation-sociology` (ربطٌ
+بأعمال موجودة سلفاً في philosophy). **موضع التوقّف الحالي لمهمة التعميق:**
+`sch-alatas-captive-mind-sociology` فصاعداً — تبقّى 9 مدارس في القسم 7
+(alatas, subaltern-studies, khaldunian-historical, alwardi, sharabi,
+contemporary-arab, elsaadawi, laroui-shariati) ثم **القسم 8 كاملاً** (20 مدرسة)
+لم يُبدأ تعميقه بعد. الأقسام 5 و6 مكتملة التعميق بالكامل (40/40 مدرسة).
