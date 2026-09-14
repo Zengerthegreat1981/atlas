@@ -15,9 +15,10 @@ language: "الألمانية"
 active_start: 1848
 active_end: 1895
 edges: []
-related: []
+related:
+- id: "thk-marx", title: "كارل ماركس", type: "مفكر"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 1 من مهمة بناء قسم علم الاجتماع (القسم 1 من `sociology-schools-backlog.md`). قسم الفلسفة يملك بالفعل `thk-marx` و`sch-marxism`، لكنّ الوصل إليهما هنا `part: \"philosophy\"` بينما هذا الملف `part: \"sociology\"` — والفحص القاطع [12] في `audit_atlas.py` يرفض `belongs_to` عبر أقسام مختلفة. `belongs_to` تُرك فارغاً عمداً بانتظار قرار معماري: إمّا عقدةُ جسرٍ (`part: \"bridge\"`) تربط الفلسفة بعلم الاجتماع (مذكورة في القسم 4 من `SOCIOLOGY_MISSION_PROMPT.md` كدفعة أخيرة)، أو مدرسةٌ سوسيولوجية أمّ مستقلة."
+  - "**تصحيح 2026-09-14 (مرحلة الحزم):** `thk-marx` القائم موسومٌ فعلياً `part: \"bridge\"` لا `philosophy` كما زعمت ملاحظة سابقة هنا دون تحقّق مباشر؛ `sch-marxism` (الأصل الفلسفي) موسومة `part: \"philosophy\"`. كلا القسمين مختلفان عن `part: \"sociology\"` لهذا الملف، فالإشارة إلى `thk-marx` عبر `related` وحده. `belongs_to` يبقى فارغاً بانتظار عقدة جسر (`part: \"bridge\"`) مخصَّصة أو مدرسة سوسيولوجية أمّ مستقلة — مذكورة في القسم 4 من `SOCIOLOGY_MISSION_PROMPT.md` كدفعة جسور أخيرة."
   - "لا يوجد بعد ملف `thk-marx` بوسم `part: \"sociology\"` منفصل؛ ماركس مصنَّف حالياً في قسم الفلسفة فقط."
 ---
 
