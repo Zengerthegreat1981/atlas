@@ -18,8 +18,11 @@ edges: []
 related:
 - id: "thk-tarde", title: "غابرييل تارد", type: "مفكر"
 - id: "thk-lebon", title: "غوستاف لوبون", type: "مفكر"
+- id: "con-laws-of-imitation-tarde", title: "قوانين التقليد (Laws of Imitation) عند تارد", type: "مفهوم"
+- id: "con-crowd-mind-lebon", title: "العقل الجمعي (Crowd Mind) عند لوبون", type: "مفهوم"
 gaps:
   - "**سُدَّ 2026-09-14 (مرحلة الحزم، دفعة 9):** كُتب `thk-tarde` و`thk-lebon` وأُسندا إلى هذا الملف بـ`belongs_to`."
+  - "**تعميقٌ 2026-09-14:** أُضيفت روابط `con-laws-of-imitation-tarde` و`con-crowd-mind-lebon` (كُتبا بالدفعة 11، لم يُربطا هنا بالخطإ)."
   - "تارد ولوبون خصمان فكريان لا مدرسة متحدة بالمعنى الدقيق؛ جُمعا هنا بحكم تزامنهما الزمني واشتراكهما في موضوع الجماهير والتقليد، تبعاً لتصنيف `sociology-schools-backlog.md` نفسه، لا بحكم اتفاقهما."
 ---
 
