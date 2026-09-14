@@ -15,9 +15,12 @@ language: "الإنجليزية"
 active_start: 1961
 active_end: 1961
 edges: []
-related: []
+related:
+- id: "thk-jane-jacobs", title: "جين جاكوبس", type: "مفكر"
+- id: "con-eyes-on-the-street-jacobs", title: "عيون على الشارع والتنوع الحضري (Eyes on the Street)", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8)، ويكمل تراث `sch-chicago-urban-ecology` (الدفعة 2) و`sch-lefebvrean-spatial-sociology`/`sch-harvey-critical-urban-spatial` (الدفعة 4) بزاوية تخطيطية عملية مختلفة. لا يوجد بعد ملف مستقل لجين جاكوبس (`thk-jane-jacobs`)."
+  - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8)، ويكمل تراث `sch-chicago-urban-ecology` (الدفعة 2) و`sch-lefebvrean-spatial-sociology`/`sch-harvey-critical-urban-spatial` (الدفعة 4) بزاوية تخطيطية عملية مختلفة."
+  - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-jane-jacobs`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
 ---
 
 # السوسيولوجيا الحضرية وتخطيط المدن

@@ -15,9 +15,12 @@ language: "الإنجليزية"
 active_start: 1944
 active_end: 1985
 edges: []
-related: []
+related:
+- id: "thk-karl-polanyi", title: "كارل بولاني", type: "مفكر"
+- id: "con-embeddedness-polanyi", title: "التجذر والسلع الوهمية (Embeddedness & Fictitious Commodities)", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8). لا يوجد بعد ملف مستقل لكارل بولاني (`thk-karl-polanyi`)؛ `belongs_to` تُرك فارغاً. ملف `thk-granovetter` (قوة الروابط الضعيفة) موجودٌ ضمنياً في `sch-social-network-analysis-paradigm` (الدفعة 3) كمرجع لا كملف مفكر مستقل بعد."
+  - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8). ملف `thk-granovetter` (قوة الروابط الضعيفة) موجودٌ ضمنياً في `sch-social-network-analysis-paradigm` (الدفعة 3) كمرجع لا كملف مفكر مستقل بعد."
+  - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-karl-polanyi`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
 ---
 
 # السوسيولوجيا الاقتصادية وتجذر الأسواق

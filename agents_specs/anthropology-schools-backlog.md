@@ -44,8 +44,8 @@
 - [x] النسبيةُ الثقافية البواسية (Boasian Cultural Relativism & Historical Particularism) — `sch-boasian-cultural-relativism`، `thk-franz-boas`
 - [x] مدرسةُ الثقافة والشخصية (Culture and Personality — Benedict, Mead) — `sch-culture-and-personality`، `thk-ruth-benedict`، `thk-margaret-mead`
 - [x] الأنثروبولوجيا اللسانية وفرضيةُ سابير-وورف (Linguistic Relativity) — `sch-linguistic-relativity`، `thk-edward-sapir`، `thk-benjamin-lee-whorf`
-- [ ] الإيكولوجيا الثقافية والتطوّريةُ الجديدة (Cultural Ecology — Steward, White)
-- [ ] المادّيةُ الثقافية (Cultural Materialism — Marvin Harris)
+- [x] الإيكولوجيا الثقافية والتطوّريةُ الجديدة (Cultural Ecology — Steward, White) — `sch-cultural-ecology`، `thk-julian-steward`
+- [x] المادّيةُ الثقافية (Cultural Materialism — Marvin Harris) — `sch-cultural-materialism`، `thk-marvin-harris`
 - [ ] الأنثروبولوجيا المعرفية والإثنوعلوم (Cognitive Anthropology & Ethnoscience)
 
 ## 5. الأنثروبولوجيا التأويلية والرمزية (Interpretive & Symbolic)

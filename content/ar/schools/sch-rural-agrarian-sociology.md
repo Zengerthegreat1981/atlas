@@ -15,9 +15,12 @@ language: "الإنجليزية"
 active_start: 1915
 active_end: 1977
 edges: []
-related: []
+related:
+- id: "thk-howard-newby", title: "هوارد نيوبي", type: "مفكر"
+- id: "con-deferential-worker-newby", title: "خنوعية العامل الزراعي (Deferential Worker)", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8). لا يوجد بعد ملفات مستقلة لتشارلز غالبين (`thk-charles-galpin`) أو هوارد نيوبي (`thk-howard-newby`)؛ `belongs_to` تُرك فارغاً."
+  - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8)."
+  - "**سُدَّ جزئياً 2026-09-14 (دفعة تالية):** أُنشئ `thk-howard-newby`. تشارلز غالبين (`thk-charles-galpin`) لا يزال بلا ملف مستقل؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً."
 ---
 
 # السوسيولوجيا الريفية والمجتمعات الزراعية
