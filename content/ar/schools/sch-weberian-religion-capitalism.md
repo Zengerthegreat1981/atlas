@@ -16,9 +16,13 @@ active_start: 1905
 active_end: 1920
 edges:
 - rel: "belongs_to", target: "sch-weberian-interpretive-sociology", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-weber", title: "ماكس فيبر", type: "مفكر"
+- id: "wrk-protestant-ethic-spirit-capitalism-weber", title: "الأخلاق البروتستانتية وروح الرأسمالية", type: "عمل / كتاب"
+- id: "con-elective-affinity-protestant-ethic", title: "القرابة الاختيارية بين الأخلاق البروتستانتية والرأسمالية", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 1 من مهمة بناء قسم علم الاجتماع (القسم 1)، ويكمل `sch-weberian-interpretive-sociology` المنشأ في الدفعة نفسها. `related` تُرك فارغاً حتى يُكتب `thk-weber` وعمل `wrk-protestant-ethic` المستقل."
+  - "هذا الملف أُنشئ في الدفعة 1 من مهمة بناء قسم علم الاجتماع (القسم 1)، ويكمل `sch-weberian-interpretive-sociology` المنشأ في الدفعة نفسها."
+  - "**سُدَّت الفجوة 2026-09-14:** كُتب `wrk-protestant-ethic-spirit-capitalism-weber` و`con-elective-affinity-protestant-ethic` وأُضيفت روابطهما هنا مع رابط `thk-weber`."
 ---
 
 # سوسيولوجيا الأخلاق الرأسمالية والدين
