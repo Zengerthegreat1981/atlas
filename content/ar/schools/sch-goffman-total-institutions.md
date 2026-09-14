@@ -16,9 +16,11 @@ active_start: 1961
 active_end: 1961
 edges:
 - rel: "belongs_to", target: "sch-goffman-dramaturgical", target_type: "مدرسة"
-related: []
+related:
+- id: "con-total-institution-mortification", title: "المؤسسة الشاملة وعملية الإماتة عند غوفمان", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2)، ويكمل `sch-goffman-dramaturgical` المنشأ في الدفعة نفسها."
+  - "**سُدَّ 2026-09-14 (الدفعة 21):** كُتب `con-total-institution-mortification` وأُضيف رابطه هنا."
 ---
 
 # سوسيولوجيا المؤسسات الشاملة والمصحات

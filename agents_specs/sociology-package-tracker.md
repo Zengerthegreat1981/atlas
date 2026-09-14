@@ -134,6 +134,11 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 ملفات هذه الدفعة (الشجرة الكاملة تحمل تصادم id واحداً بين `thk-cooley` المُلتزم و`thk-dorothy-smith`
 غير المُلتزم لوكيل آخر، لم يُلمس هنا). **أوّل بند للدفعة التالية:** `sch-goffman-total-institutions`.
 
+**الدفعة 21 (2026-09-14):** كُتب `con-total-institution-mortification` وأُسند إلى
+`sch-goffman-total-institutions` (موجودة سلفاً) وأُضيف رابطه فيها. الفحوص الثلاثة صفر على نطاق
+ملفات هذه الدفعة (الشجرة الكاملة تحمل عزلة `sch-butler-gender-performativity`، ملف غير مُلتزم
+لوكيل آخر، لم يُلمس هنا). **أوّل بند للدفعة التالية:** `sch-goffman-stigma`.
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
@@ -168,7 +173,7 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 - [x] `sch-mead-social-behaviorism` — الأسس البراغماتية للتفاعلية الرمزية (Mead's Social Behaviorism & Mind/Self/Society)
 - [x] `sch-blumerian-symbolic-interactionism` — التفاعلية الرمزية المنهجية (Blumerian Symbolic Interactionism)
 - [x] `sch-goffman-dramaturgical` — النظرية الدراماتورجية وإدارة الانطباع (Goffman's Dramaturgical Sociology)
-- [ ] `sch-goffman-total-institutions` — سوسيولوجيا المؤسسات الشاملة والمصحات (Goffman's Total Institutions Sociology)
+- [x] `sch-goffman-total-institutions` — سوسيولوجيا المؤسسات الشاملة والمصحات (Goffman's Total Institutions Sociology)
 - [ ] `sch-goffman-stigma` — سوسيولوجيا الوصمة والهوية المشوهة (Goffman's Sociology of Stigma)
 - [ ] `sch-goffman-frame-analysis` — تحليل الأطر والنظام التفاعلي اليومي (Goffman's Frame Analysis & Interaction Order)
 - [ ] `sch-becker-labeling-theory` — نظرية الوصم والانحراف كمسار مهني (Becker's Labelling Theory of Deviance)
