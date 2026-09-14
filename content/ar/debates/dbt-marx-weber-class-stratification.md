@@ -1,6 +1,6 @@
 ---
 slug: "dbt-marx-weber-class-stratification"
-id: "DBT-2022"
+id: "DBT-2030"
 type: "جدل"
 part: "sociology"
 sociological_paradigm: "macro"
