@@ -288,6 +288,10 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 إلى `sch-blau-structural-exchange` (موجودة سلفاً) وأُضيفت روابطهما فيها. الفحوص الثلاثة صفر.
 **أوّل بند للدفعة التالية:** `sch-coleman-rational-choice-sociology`.
 
+**الدفعة 44 (2026-09-14):** كُتب `thk-coleman` و`con-social-capital-coleman`، وأُسندا إلى
+`sch-coleman-rational-choice-sociology` (موجودة سلفاً) وأُضيفت روابطهما فيها. الفحوص الثلاثة صفر.
+**أوّل بند للدفعة التالية:** `sch-analytical-sociology`.
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
@@ -349,7 +353,7 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 - [x] `sch-luhmannian-communication-differentiation` — سوسيولوجيا التواصل والتمايز النسقي (Luhmannian Sociology of Communication & Differentiation)
 - [x] `sch-homans-behavioral-exchange` — نظرية التبادل الاجتماعي السلوكية (Homans' Behavioral Social Exchange Theory)
 - [x] `sch-blau-structural-exchange` — نظرية التبادل البنائي والتفاوت الطبقي (Blau's Structural Exchange Theory)
-- [ ] `sch-coleman-rational-choice-sociology` — سوسيولوجيا الاختيار العقلاني ورأس المال الاجتماعي (Coleman's Rational Choice Sociology)
+- [x] `sch-coleman-rational-choice-sociology` — سوسيولوجيا الاختيار العقلاني ورأس المال الاجتماعي (Coleman's Rational Choice Sociology)
 - [ ] `sch-analytical-sociology` — السوسيولوجيا التحليلية ونظرية الآليات الاجتماعية (Analytical Sociology: Elster & Hedström)
 - [ ] `sch-network-exchange-theory` — نظرية التبادل الشبكي وعلاقات القوة-التبعية (Network Exchange Theory: Willer & Cook)
 - [ ] `sch-new-institutionalism-organizational` — المؤسسية الجديدة في سوسيولوجيا التنظيمات (New Institutionalism in Organizational Sociology: DiMaggio & Powell)

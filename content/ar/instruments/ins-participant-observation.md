@@ -16,6 +16,10 @@ related:
 - id: "ins-long-term-fieldwork", title: "الإثنوغرافيا والعملُ الميدانيُّ الطويل (Long-Term Fieldwork)", type: "منهج/أداة بحث"
 - id: "ins-ethnographic-interview-life-history", title: "المقابلةُ الإثنوغرافيةُ وتاريخُ الحياة (Ethnographic Interview & Life History)", type: "منهج/أداة بحث"
 - id: "ins-hraf-cross-cultural-comparison", title: "المقارنةُ الثقافية وبنكُ الملفّات البشرية (HRAF & Cross-Cultural Comparison)", type: "منهج/أداة بحث"
+- id: "ins-kinship-terminology-genealogical-method", title: "تحليلُ القرابة والمصطلحات (Kinship Terminology & Genealogical Method)", type: "منهج/أداة بحث"
+- id: "ins-multi-sited-ethnography", title: "الإثنوغرافيا متعدّدةُ المواقع (Multi-Sited Ethnography — Marcus)", type: "منهج/أداة بحث"
+- id: "ins-visual-anthropology", title: "الأنثروبولوجيا البصريةُ والفيلمُ الإثنوغرافيّ (Visual Anthropology)", type: "منهج/أداة بحث"
+- id: "ins-fieldwork-ethics", title: "أخلاقياتُ البحث والموافقةُ المستنيرة في الميدان (Fieldwork Ethics)", type: "منهج/أداة بحث"
 gaps: []
 ---
 # الملاحظةُ بالمشاركة (Participant Observation)
