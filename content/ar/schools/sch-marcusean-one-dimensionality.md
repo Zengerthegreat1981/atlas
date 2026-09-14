@@ -18,6 +18,7 @@ edges:
 - rel: "belongs_to", target: "sch-frankfurt-critical-sociology", target_type: "مدرسة"
 related:
 - id: "thk-marcuse", title: "هربرت ماركوزه", type: "مفكر"
+- id: "con-one-dimensional-man-marcuse", title: "المجتمع أحادي البعد والاحتواء الشامل (One-Dimensional Society)", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)، ويكمل `sch-frankfurt-critical-sociology` المنشأ في الدفعة نفسها. ملف `thk-marcuse` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده."
 ---

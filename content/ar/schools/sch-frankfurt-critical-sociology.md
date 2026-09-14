@@ -20,6 +20,7 @@ related:
 - id: "sch-marcusean-one-dimensionality", title: "سوسيولوجيا المجتمع الصناعي أحادي البعد", type: "مدرسة"
 - id: "sch-habermasian-public-sphere", title: "سوسيولوجيا المجال العام والديمقراطية التداولية", type: "مدرسة"
 - id: "sch-honneth-fraser-recognition-redistribution", title: "سوسيولوجيا الاعتراف والعدالة التوزيعية", type: "مدرسة"
+- id: "con-culture-industry-adorno", title: "صناعة الثقافة والتسليع الجماهيري (Culture Industry)", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)، ويعرض البعد السوسيولوجي التطبيقي (صناعة الثقافة، التسليع) لمدرسة فرانكفورت، متمايزاً عن `sch-frankfurt-school` القائمة في قسم الفلسفة (`part: \"philosophy\"`) التي تغطي المشروع الفلسفي الأوسع. الربط بينهما عبر `related` لا `belongs_to` (يشترط تطابق `part`). `belongs_to` لهذا الملف نفسه تُرك فارغاً لغياب جذر سوسيولوجي عام."
 ---

@@ -16,7 +16,8 @@ active_start: 1981
 active_end: 1981
 edges:
 - rel: "belongs_to", target: "sch-habermasian-public-sphere", target_type: "مدرسة"
-related: []
+related:
+- id: "con-communicative-action-concept", title: "الفعل التواصلي والعقلانية التداولية (Communicative Action)", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)، ويكمل `sch-habermasian-public-sphere` المنشأ في الدفعة نفسها."
 ---

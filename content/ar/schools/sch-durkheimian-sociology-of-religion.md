@@ -16,9 +16,13 @@ active_start: 1912
 active_end: 1917
 edges:
 - rel: "belongs_to", target: "sch-durkheimian-structural-functionalism", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-durkheim", title: "إميل دوركهايم", type: "مفكر"
+- id: "con-sacred-profane-collective-effervescence", title: "المقدَّس والمدنَّس والغليان الجمعي عند دوركهايم", type: "مفهوم"
+- id: "wrk-elementary-forms-religious-life-durkheim", title: "الأشكال الأولية للحياة الدينية", type: "عمل / كتاب"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 1 من مهمة بناء قسم علم الاجتماع (القسم 1 من `sociology-schools-backlog.md`)، ويكمل `sch-durkheimian-structural-functionalism` المنشأ في الدفعة نفسها. `related` تُرك فارغاً حتى تُكتب ملفات المفكرين والمفاهيم المرتبطة (`thk-durkheim`, `con-collective-effervescence`)."
+  - "هذا الملف أُنشئ في الدفعة 1 من مهمة بناء قسم علم الاجتماع (القسم 1 من `sociology-schools-backlog.md`)، ويكمل `sch-durkheimian-structural-functionalism` المنشأ في الدفعة نفسها."
+  - "**سُدَّت الفجوة 2026-09-14:** كُتب `con-sacred-profane-collective-effervescence` و`wrk-elementary-forms-religious-life-durkheim` وأُضيفت روابطها هنا مع رابط `thk-durkheim`."
 ---
 
 # سوسيولوجيا الدين والطقوس الجمعية الدوركهايمية
