@@ -20,6 +20,7 @@ related:
 - id: "thk-abdallah-laroui", title: "عبد الله العروي", type: "مفكر"
 - id: "thk-ali-shariati", title: "علي شريعتي", type: "مفكر"
 - id: "con-arab-historicism-laroui", title: "التاريخانية ونقد الوعي التقليدي (عبد الله العروي)", type: "مفهوم"
+- id: "wrk-tarikhaniyya-laroui", title: "مفهوم التاريخانية وتاريخانية العروي", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7)، ويكمل حزمة `sch-contemporary-arab-sociology` المنشأة في الدفعة 0. ملف `thk-abdallah-laroui` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده لا يمنع `belongs_to` من الأب السوسيولوجي (لأن `belongs_to` يشير إلى مدرسة سوسيولوجية بنفس `part` لا إلى المفكر نفسه)."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-ali-shariati`."

@@ -22,6 +22,7 @@ related:
 - id: "con-patriarchy", title: "النظام الأبوي (البطريركية)", type: "مفهوم"
 - id: "sch-alwardi-iraqi-arab-sociology", title: "سوسيولوجيا الشخصية الازدواجية وصراع القيم العربي", type: "مدرسة"
 - id: "sch-sharabi-neopatriarchy-sociology", title: "سوسيولوجيا البطريركية المستحدثة والتغير المشوه", type: "مدرسة"
+- id: "wrk-arab-world-society-culture-state-barakat", title: "المجتمع العربي المعاصر: بحث استطلاعي اجتماعي", type: "عمل / كتاب"
 - id: "sch-elsaadawi-arab-feminist-sociology", title: "السوسيولوجيا النسوية العربية ونقد الهيمنة البطريركية", type: "مدرسة"
 - id: "sch-laroui-shariati-critical-arab-islamic-sociology", title: "التاريخانية والسوسيولوجيا النقدية العربية والإسلامية", type: "مدرسة"
 gaps:

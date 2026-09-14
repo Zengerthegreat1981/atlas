@@ -19,6 +19,7 @@ edges:
 related:
 - id: "thk-hisham-sharabi", title: "هشام شرابي", type: "مفكر"
 - id: "con-neopatriarchy-sharabi", title: "البطريركية المستحدثة والتغيير المشوَّه (Neopatriarchy)", type: "مفهوم"
+- id: "wrk-neopatriarchy-sharabi", title: "البنية البطريركية المستحدثة (Neopatriarchy)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7)، ويكمل حزمة `sch-contemporary-arab-sociology` المنشأة في الدفعة 0 — كانت غياب هشام شرابي مذكورة صراحة في `gaps` ذلك الملف وفي `gaps` ملف `thk-halim-barakat`."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-hisham-sharabi`."
