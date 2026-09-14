@@ -17,8 +17,12 @@ active_end: 1935
 edges: []
 related:
 - id: "thk-web-dubois", title: "دبليو. إي. بي. دو بوا", type: "مفكر"
+- id: "con-double-consciousness-dubois", title: "الازدواجية الوجدانية (Double Consciousness) عند دوبوا", type: "مفهوم"
+- id: "wrk-philadelphia-negro-dubois", title: "زنوج فيلادلفيا: دراسة اجتماعية", type: "عمل / كتاب"
+- id: "con-color-line-dubois", title: "خطّ اللون عند دوبوا", type: "مفهوم"
 gaps:
   - "**تصحيح 2026-09-14 (مرحلة الحزم):** `thk-web-dubois` موجودٌ فعلاً بوسم `part: \"philosophy\"`؛ الملاحظة السابقة هنا (بحثت عن `thk-dubois` وزعمت الغياب) كانت خطأً في التسمية والتحقّق معاً. الإشارة الآن عبر `related` وحده لتباين `part`. `belongs_to` يبقى فارغاً لغياب جذر سوسيولوجي عام."
+  - "**تعميقٌ 2026-09-14:** أُضيفت روابط `con-double-consciousness-dubois` و`wrk-philadelphia-negro-dubois` (كُتبا في الدفعة 11 لكن لم يُربطا من هذا الملف تحديداً بالخطإ) و`con-color-line-dubois` (جديد)."
   - "دوبوا أيضاً مؤسس مباشر لدراسات فيلادلفيا الحضرية التي سبقت مدرسة شيكاغو زمنياً، لكن هذا الرابط (مع القسم 2 من `sociology-schools-backlog.md`) لم يُبنَ بعد."
 ---
 
