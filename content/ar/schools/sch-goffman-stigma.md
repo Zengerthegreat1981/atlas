@@ -16,9 +16,11 @@ active_start: 1963
 active_end: 1963
 edges:
 - rel: "belongs_to", target: "sch-goffman-dramaturgical", target_type: "مدرسة"
-related: []
+related:
+- id: "con-stigma-discredited-discreditable", title: "الوصمة الظاهرة والخفية عند غوفمان", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2)، ويكمل `sch-goffman-dramaturgical` المنشأ في الدفعة نفسها."
+  - "**سُدَّ 2026-09-14 (الدفعة 22):** كُتب `con-stigma-discredited-discreditable` وأُضيف رابطه هنا."
 ---
 
 # سوسيولوجيا الوصمة والهوية المشوهة
