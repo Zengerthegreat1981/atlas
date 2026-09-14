@@ -16,8 +16,9 @@ edges:
 - rel: "belongs_to", target: "sch-boasian-cultural-relativism", target_type: "مدرسة"
 related:
 - id: "sch-boasian-cultural-relativism", title: "النسبيةُ الثقافية البواسية (Boasian Cultural Relativism & Historical Particularism)", type: "مدرسة"
+- id: "con-cultural-relativism-boas", title: "النسبيةُ الثقافية (Cultural Relativism)", type: "مفهوم"
 gaps:
-  - "لم يُنشأ بعد ملفٌّ مستقلٌّ لتلاميذ بواس المباشرين (روث بنديكت، مارغريت ميد، إدوارد سابير، ألفريد كروبر) — سيُضافون في دفعةٍ لاحقة ضمن حزمة الثقافة والشخصية والأنثروبولوجيا اللسانية."
+  - "ألفرد كروبر لم يُكتب بعد كملفٍّ مستقلّ — سيُضاف إن توفّرت دفعةٌ لاحقة مخصَّصة."
 ---
 # فرانز بواس (Franz Boas)
 
