@@ -16,9 +16,13 @@ active_start: 1998
 active_end: 2005
 edges:
 - rel: "belongs_to", target: "sch-coleman-rational-choice-sociology", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-hedstrom", title: "بيتر هيدستروم", type: "مفكر"
+- id: "thk-elster", title: "يون إلستر", type: "مفكر"
+- id: "con-social-mechanisms-analytical-sociology", title: "الآليات الاجتماعية السببية في السوسيولوجيا التحليلية", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3)، ويكمل `sch-coleman-rational-choice-sociology` المنشأ في الدفعة نفسها. لا يوجد بعد ملفات مستقلة ليون إلستر (`thk-elster`) أو بيتر هيدستروم (`thk-hedstrom`)."
+  - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3)، ويكمل `sch-coleman-rational-choice-sociology` المنشأ في الدفعة نفسها."
+  - "**سُدَّ 2026-09-14 (الدفعة 45):** كُتب `thk-hedstrom`، `thk-elster`، و`con-social-mechanisms-analytical-sociology` وأُضيفت روابطها هنا."
 ---
 
 # السوسيولوجيا التحليلية ونظرية الآليات الاجتماعية
