@@ -16,9 +16,12 @@ active_start: 1990
 active_end: 1991
 edges:
 - rel: "belongs_to", target: "sch-giddens-structuration-theory", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-anthony-giddens", title: "أنتوني غيدنز", type: "مفكر"
+- id: "con-reflexive-modernity-self-identity", title: "الحداثة الفائقة والهوية الانعكاسية (Reflexive Self-Identity)", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 6 من مهمة بناء قسم علم الاجتماع (القسم 6)، ويكمل `sch-giddens-structuration-theory` المنشأ في الدفعة نفسها."
+  - "ملف `thk-anthony-giddens` القائم موسومٌ `part: \"psychology\"`، فالإشارة إليه عبر `related` وحده."
 ---
 
 # سوسيولوجيا الحداثة الفائقة والانعكاسية

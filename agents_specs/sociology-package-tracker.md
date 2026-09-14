@@ -91,6 +91,10 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 (فحص الشجرة الكاملة يُظهر عزلة `thk-ulrich-beck`، ملف غير مُلتزم لوكيل آخر، لم يُلمس هنا).
 **أوّل بند للدفعة التالية:** `sch-wirthian-urbanism-ghetto` (سوسيولوجيا الحياة الحضرية والغيتو).
 
+**الدفعة 14 (2026-09-14):** كُتب `thk-wirth` و`con-urbanism-as-way-of-life` وأُسندا إلى
+`sch-wirthian-urbanism-ghetto` (موجودة سلفاً منذ الدفعة 2)، وأُضيفت روابطهما فيها. الفحوص
+الثلاثة صفر. **أوّل بند للدفعة التالية:** `sch-thomas-znaniecki-life-history`.
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
@@ -118,7 +122,7 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 ## 2. مدرسة شيكاغو، التفاعلية الرمزية وسوسيولوجيا الحياة اليومية (Chicago School & Symbolic Interactionism)
 
 - [x] `sch-chicago-urban-ecology` — مدرسة شيكاغو الإيكولوجية الحضرية الأولى (First Chicago School / Urban Ecology)
-- [ ] `sch-wirthian-urbanism-ghetto` — سوسيولوجيا الحياة الحضرية والغيتو (Wirthian Urbanism & Ghetto Studies)
+- [x] `sch-wirthian-urbanism-ghetto` — سوسيولوجيا الحياة الحضرية والغيتو (Wirthian Urbanism & Ghetto Studies)
 - [ ] `sch-thomas-znaniecki-life-history` — منهج دراسات تاريخ الحياة والتعريف بالموقف (Thomas & Znaniecki's Life History & Situational Sociology)
 - [ ] `sch-whyte-participant-observation` — سوسيولوجيا الملاحظة بالمشاركة والمجتمعات الهامشية (Whyte's Participant Observation Sociology)
 - [ ] `sch-cooley-looking-glass-self` — نظرية الذات المنعكسة في المرآة والجماعات الأولية (Cooley's Looking-Glass Self Theory)
@@ -209,11 +213,11 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 
 ## 6. النظريات السوسيولوجية المعاصرة، العولمة والمجتمع الرقمي (Contemporary, Globalization & Digital Sociology)
 
-- [ ] `sch-giddens-structuration-theory` — نظرية الهيكلة وازدواجية البنية (Giddens' Structuration Theory)
-- [ ] `sch-giddens-reflexive-modernity` — سوسيولوجيا الحداثة الفائقة والانعكاسية (Giddens' Reflexive Modernity & Self-Identity)
-- [ ] `sch-beck-risk-society-theory` — نظرية مجتمع المخاطرة والحداثة الثانية (Beck's Risk Society Theory)
-- [ ] `sch-beck-cosmopolitan-sociology` — سوسيولوجيا الكوزموبوليتية والمخاطر العالمية (Beck's Cosmopolitan Sociology & World at Risk)
-- [ ] `sch-bauman-liquid-modernity` — سوسيولوجيا الحداثة السائلة (Bauman's Liquid Modernity Paradigm)
+- [x] `sch-giddens-structuration-theory` — نظرية الهيكلة وازدواجية البنية (Giddens' Structuration Theory)
+- [x] `sch-giddens-reflexive-modernity` — سوسيولوجيا الحداثة الفائقة والانعكاسية (Giddens' Reflexive Modernity & Self-Identity)
+- [x] `sch-beck-risk-society-theory` — نظرية مجتمع المخاطرة والحداثة الثانية (Beck's Risk Society Theory)
+- [x] `sch-beck-cosmopolitan-sociology` — سوسيولوجيا الكوزموبوليتية والمخاطر العالمية (Beck's Cosmopolitan Sociology & World at Risk)
+- [x] `sch-bauman-liquid-modernity` — سوسيولوجيا الحداثة السائلة (Bauman's Liquid Modernity Paradigm)
 - [ ] `sch-bauman-postmodern-ethics-waste` — سوسيولوجيا الأخلاق في عصر الحداثة وما بعد الهولوكوست (Bauman's Postmodern Ethics & Waste Sociology)
 - [ ] `sch-castells-network-society` — سوسيولوجيا مجتمع الشبكات والمعلومات (Castells' Network Society Theory)
 - [ ] `sch-castells-communication-power` — سوسيولوجيا سلطة الاتصال والحركات الرقمية (Castells' Communication Power Sociology)

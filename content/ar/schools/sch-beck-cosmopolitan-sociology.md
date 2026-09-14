@@ -16,9 +16,12 @@ active_start: 2007
 active_end: 2007
 edges:
 - rel: "belongs_to", target: "sch-beck-risk-society-theory", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-ulrich-beck", title: "أولريش بيك", type: "مفكر"
+- id: "con-cosmopolitanism", title: "المواطنة الكونية (الكوزموبوليتية)", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 6 من مهمة بناء قسم علم الاجتماع (القسم 6)، ويكمل `sch-beck-risk-society-theory` المنشأ في الدفعة نفسها."
+  - "**سُدَّ 2026-09-14 (دفعة تالية):** أُضيف رابط `thk-ulrich-beck` بعد إنشائه. مفهوم `con-cosmopolitanism` القائم موسومٌ `part: \"philosophy\"`؛ الإشارة إليه عبر `related` وحده."
 ---
 
 # سوسيولوجيا الكوزموبوليتية والمخاطر العالمية
