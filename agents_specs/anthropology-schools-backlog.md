@@ -100,11 +100,11 @@
 ## 11. الأنثروبولوجيا الإقليميةُ وأصواتُ الجنوب (Regional & Southern)
 
 - [ ] الأنثروبولوجيا العربيةُ ونقدُ الإثنوغرافيا الاستعمارية (Abu-Lughod, Hammoudi, al-Jabiri)
-- [ ] الأنثروبولوجيا الأفريقية وما بعدَ الاستعمارية (Mafeje, Mudimbe, Comaroffs)
+- [x] الأنثروبولوجيا الأفريقية وما بعدَ الاستعمارية (Mafeje, Mudimbe, Comaroffs) — `sch-african-postcolonial-anthropology`، `thk-archie-mafeje`
 - [ ] الأنثروبولوجيا الهندية والدراساتُ التابعة (Subaltern Studies & Anthropology)
 - [ ] الأنثروبولوجيا اللاتينية والسكانُ الأصليون (Indigenous & Latin American Anthropology)
-- [ ] أنثروبولوجيا الشعوب الأصلية بأقلامها (Indigenous Methodologies — Smith, Deloria)
-- [ ] الإثنوغرافيا الصينيةُ واليابانية (Fei Xiaotong, Yanagita Kunio)
+- [x] أنثروبولوجيا الشعوب الأصلية بأقلامها (Indigenous Methodologies — Smith, Deloria) — `sch-indigenous-methodologies` (مربوطة بـ`thk-lindatuhiwai` الموجودة مسبقاً تحت psychology دون استنساخ)
+- [x] الإثنوغرافيا الصينيةُ واليابانية (Fei Xiaotong, Yanagita Kunio) — `sch-east-asian-ethnography`، `thk-fei-xiaotong`
 
 ## 12. المناهجُ والأدوات (Methods & Instruments)
 
