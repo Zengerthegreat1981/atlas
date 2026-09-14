@@ -16,6 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-foucauldian-power-knowledge-discourse", target_type: "مدرسة"
 related:
 - id: "dbt-conversation-analysis-vs-critical-discourse-analysis", title: "جدل تحليل المحادثة مقابل تحليل الخطاب النقدي", type: "جدل"
+- id: "br-ethnomethodological-microsociology-current", title: "تيار الإثنوميثودولوجيا وتحليل المحادثة في السوسيولوجيا الجزئية", type: "تيار"
 gaps:
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بسدّ فجوة نوع `ins-`، مع التحقق المسبق من عدم تكراره: الملف الموجود سلفاً `dbt-conversation-analysis-vs-critical-discourse-analysis` يعرض «الجدل» بين المنهجين، بينما هذا الملف يفرد منهج CDA نفسه (تقنياته وخطواته) بوصفه أداةً بحثية مستقلة. نورمان فيركلاف (`thk-norman-fairclough`) لا يزال بلا ملف مستقل."
 ---
