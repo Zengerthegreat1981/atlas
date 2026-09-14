@@ -18,8 +18,8 @@ related:
 - id: "sch-culture-and-personality", title: "مدرسةُ الثقافة والشخصية (Culture and Personality)", type: "مدرسة"
 - id: "thk-ruth-benedict", title: "روث بنديكت (Ruth Benedict)", type: "مفكر"
 - id: "thk-franz-boas", title: "فرانز بواس (Franz Boas)", type: "مفكر"
-gaps:
-  - "جدلُ ميد–فريمان (Mead–Freeman Controversy) مذكورٌ هنا إجمالاً؛ سيُكتب كملفّ جدل (`dbt-`) مستقلّ في دفعةٍ لاحقة ضمن حزمة القسم 6 من الـbacklog."
+- id: "dbt-mead-freeman-samoa-controversy", title: "جدلُ ميد–فريمان في ساموا (The Mead–Freeman Controversy)", type: "جدل"
+gaps: []
 ---
 # مارغريت ميد (Margaret Mead)
 

@@ -21,6 +21,9 @@ related:
 - id: "sch-african-postcolonial-anthropology", title: "الأنثروبولوجيا الأفريقية وما بعدَ الاستعمارية (Mafeje, Mudimbe, Comaroffs)", type: "مدرسة"
 - id: "sch-indigenous-methodologies", title: "أنثروبولوجيا الشعوب الأصلية بأقلامها (Indigenous Methodologies — Smith, Deloria)", type: "مدرسة"
 - id: "sch-east-asian-ethnography", title: "الإثنوغرافيا الصينيةُ واليابانية (Fei Xiaotong, Yanagita Kunio)", type: "مدرسة"
+- id: "sch-subaltern-studies-guha-spivak", title: "دراسات التابع والتأريخ السوسيولوجي من أسفل", type: "مدرسة"
+- id: "sch-arab-anthropology-colonial-critique", title: "الأنثروبولوجيا العربيةُ ونقدُ الإثنوغرافيا الاستعمارية (Abu-Lughod, Hammoudi, al-Jabiri)", type: "مدرسة"
+- id: "sch-latin-american-indigenous-anthropology", title: "الأنثروبولوجيا اللاتينية والسكانُ الأصليون (Indigenous & Latin American Anthropology)", type: "مدرسة"
 gaps:
   - "أنشئ الملفُّ في الدفعة 6 من تأسيس قسم الأنثروبولوجيا. جيمس كليفورد وجورج ماركوس (Writing Culture) لم يُكتبا بعد كملفّين مستقلّين — سيُضافان في دفعةٍ لاحقة لإكمال حزمة القسم 6 (أزمة التمثيل)."
 ---

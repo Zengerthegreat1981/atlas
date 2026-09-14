@@ -99,10 +99,10 @@
 
 ## 11. الأنثروبولوجيا الإقليميةُ وأصواتُ الجنوب (Regional & Southern)
 
-- [ ] الأنثروبولوجيا العربيةُ ونقدُ الإثنوغرافيا الاستعمارية (Abu-Lughod, Hammoudi, al-Jabiri)
+- [x] الأنثروبولوجيا العربيةُ ونقدُ الإثنوغرافيا الاستعمارية (Abu-Lughod, Hammoudi, al-Jabiri) — `sch-arab-anthropology-colonial-critique`، `thk-abdellah-hammoudi`
 - [x] الأنثروبولوجيا الأفريقية وما بعدَ الاستعمارية (Mafeje, Mudimbe, Comaroffs) — `sch-african-postcolonial-anthropology`، `thk-archie-mafeje`
-- [ ] الأنثروبولوجيا الهندية والدراساتُ التابعة (Subaltern Studies & Anthropology)
-- [ ] الأنثروبولوجيا اللاتينية والسكانُ الأصليون (Indigenous & Latin American Anthropology)
+- [x] الأنثروبولوجيا الهندية والدراساتُ التابعة (Subaltern Studies & Anthropology) — موجودةٌ مسبقاً تحت `part: "sociology"` (`thk-ranajit-guha`، `sch-subaltern-studies-guha-spivak`) بقلم جلسةٍ متزامنة؛ لم تُستنسَخ، رُبطت من `sch-postcolonial-critique-anthropology`.
+- [x] الأنثروبولوجيا اللاتينية والسكانُ الأصليون (Indigenous & Latin American Anthropology) — `sch-latin-american-indigenous-anthropology`، `thk-roberto-damatta` — القسم 11 مكتمل بالكامل
 - [x] أنثروبولوجيا الشعوب الأصلية بأقلامها (Indigenous Methodologies — Smith, Deloria) — `sch-indigenous-methodologies` (مربوطة بـ`thk-lindatuhiwai` الموجودة مسبقاً تحت psychology دون استنساخ)
 - [x] الإثنوغرافيا الصينيةُ واليابانية (Fei Xiaotong, Yanagita Kunio) — `sch-east-asian-ethnography`، `thk-fei-xiaotong`
 
