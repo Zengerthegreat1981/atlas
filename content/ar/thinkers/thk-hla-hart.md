@@ -22,6 +22,8 @@ related:
 - id: "thk-hans-kelsen", title: "هانس كِلسن (Hans Kelsen)", type: "مفكر"
 - id: "thk-lon-fuller", title: "لون فولر (Lon L. Fuller)", type: "مفكر"
 - id: "dbt-hart-fuller-law-morality-debate", title: "جدلُ هارت–فولر (القانونُ والأخلاق)", type: "جدل"
+- id: "thk-ronald-dworkin", title: "رونالد دوركين (Ronald Dworkin)", type: "مفكر"
+- id: "dbt-hart-dworkin-rules-principles", title: "جدلُ هارت–دوركين (القواعدُ والمبادئ)", type: "جدل"
 gaps:
   - "**دورُه في فلسفة اللغة العادية (Ordinary Language Philosophy) بأكسفورد** وتأثّرُه بأوستن الفيلسوف اللغوي (J.L. Austin — لا جون أوستن الحقوقي، وهذا فخُّ تشابهِ أسماء آخر يستحقّ التنبيه صراحةً) أُشير إليه هنا دون تفصيل؛ هذا الملفُّ يعالج هارت الفقيهَ حصراً."
   - "موقفُه في جدل هارت–دِفلن (حول تجريم السلوك الجنسي بين البالغين بالتراضي، إثر تقرير وولفندن 1957) لم يُكتب بعد في عقدةٍ مستقلة؛ يُذكر إجمالاً فقط."

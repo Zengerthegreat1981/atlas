@@ -18,6 +18,7 @@ related:
 - id: "thk-hans-kelsen", title: "هانس كِلسن (Hans Kelsen)", type: "مفكر"
 - id: "thk-hla-hart", title: "هربرت هارت (H.L.A. Hart)", type: "مفكر"
 - id: "thk-lon-fuller", title: "لون فولر (Lon L. Fuller)", type: "مفكر"
+- id: "thk-ronald-dworkin", title: "رونالد دوركين (Ronald Dworkin)", type: "مفكر"
 - id: "sch-usul-al-fiqh-legal-theory", title: "أصولُ الفقه بوصفه نظريةً قانونية (Usul al-Fiqh as Legal Theory)", type: "مدرسة"
 gaps:
   - "هذا الملفُّ أُنشئ في الدفعة 3 من مهمة بناء قسم نظرية القانون (القسم 2 من `legal-theory-schools-backlog.md`)، وهو ثاني جذعٍ رئيسٍ في القسم بعد أصول الفقه. `belongs_to` تُرك فارغاً: لا جذرَ عامّ لنظرية القانون بعد."
