@@ -15,9 +15,12 @@ language: "الإنجليزية"
 active_start: 1986
 active_end: 1992
 edges: []
-related: []
+related:
+- id: "thk-ann-swidler", title: "آن سويدلر", type: "مفكر"
+- id: "con-culture-as-toolkit-swidler", title: "الثقافة كأدوات (Culture as Toolkit)", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8). لا يوجد بعد ملفات مستقلة لآن سويدلر (`thk-ann-swidler`) أو ريتشارد بيترسون (`thk-richard-peterson`)؛ `belongs_to` تُرك فارغاً."
+  - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8)."
+  - "**سُدَّ جزئياً 2026-09-14 (دفعة تالية):** أُنشئ `thk-ann-swidler`. ريتشارد بيترسون (`thk-richard-peterson`) لا يزال بلا ملف مستقل؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً."
 ---
 
 # سوسيولوجيا الثقافة وأنماط الحياة

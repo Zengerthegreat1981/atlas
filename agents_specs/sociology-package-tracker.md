@@ -337,11 +337,11 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 
 ## 8. الميادين والفروع التخصصية في علم الاجتماع (Specialized Sociological Subdisciplines)
 
-- [ ] `sch-sociology-of-scientific-knowledge` — سوسيولوجيا المعرفة والعلوم (Sociology of Knowledge & Scientific Knowledge - SSK)
-- [ ] `sch-sociology-of-culture-lifestyles` — سوسيولوجيا الثقافة وأنماط الحياة (Sociology of Culture & Lifestyles)
-- [ ] `sch-sociology-of-religion-post-secularism` — سوسيولوجيا الدين والتحولات العلمانية (Sociology of Religion & Post-Secularism)
-- [ ] `sch-sociology-of-deviance-crime-justice` — سوسيولوجيا الانحراف والجريمة والعدالة الجنائية (Sociology of Deviance, Crime & Justice)
-- [ ] `sch-medical-health-clinical-sociology` — السوسيولوجيا الطبية والصحية والسريرية (Medical, Health & Clinical Sociology)
+- [x] `sch-sociology-of-scientific-knowledge` — سوسيولوجيا المعرفة والعلوم (Sociology of Knowledge & Scientific Knowledge - SSK)
+- [x] `sch-sociology-of-culture-lifestyles` — سوسيولوجيا الثقافة وأنماط الحياة (Sociology of Culture & Lifestyles)
+- [x] `sch-sociology-of-religion-post-secularism` — سوسيولوجيا الدين والتحولات العلمانية (Sociology of Religion & Post-Secularism)
+- [x] `sch-sociology-of-deviance-crime-justice` — سوسيولوجيا الانحراف والجريمة والعدالة الجنائية (Sociology of Deviance, Crime & Justice)
+- [x] `sch-medical-health-clinical-sociology` — السوسيولوجيا الطبية والصحية والسريرية (Medical, Health & Clinical Sociology)
 - [ ] `sch-urban-sociology-spatial-planning` — السوسيولوجيا الحضرية وتخطيط المدن (Urban Sociology & Urban Spatial Planning)
 - [ ] `sch-rural-agrarian-sociology` — السوسيولوجيا الريفية والمجتمعات الزراعية (Rural & Agrarian Sociology)
 - [ ] `sch-environmental-sociology-sustainability` — السوسيولوجيا البيئية والتنمية المستدامة (Environmental Sociology & Sustainability)

@@ -15,9 +15,12 @@ language: "الإنجليزية"
 active_start: 1967
 active_end: 1994
 edges: []
-related: []
+related:
+- id: "thk-jose-casanova", title: "خوسيه كازانوفا", type: "مفكر"
+- id: "con-public-religion-privatization-thesis-casanova", title: "الأديان العامة ونقد أطروحة الخصخصة (Public Religion)", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8). لا يوجد بعد ملف مستقل لخوسيه كازانوفا (`thk-jose-casanova`)؛ `belongs_to` تُرك فارغاً."
+  - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8)."
+  - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-jose-casanova`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
 ---
 
 # سوسيولوجيا الدين والتحولات العلمانية
