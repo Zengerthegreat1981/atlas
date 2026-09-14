@@ -117,6 +117,13 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 الدفعة (الشجرة الكاملة تحمل عزلتي `thk-nikolas-rose` و`thk-james-c-scott`، ملفات غير مُلتزمة
 لوكيل آخر، لم تُلمس هنا). **أوّل بند للدفعة التالية:** `sch-mead-social-behaviorism`.
 
+**الدفعة 18 (2026-09-14):** كُتب `con-generalized-other-mead` وأُسند إلى `sch-mead-social-behaviorism`
+(موجودة سلفاً منذ الدفعة 2، غنية بروابطها أصلاً لـ`thk-george-herbert-mead` الفلسفي وللمدارس
+اللاحقة) وأُضيف رابطه فيها. الفحوص الثلاثة صفر على نطاق ملفات هذه الدفعة (الشجرة الكاملة تحمل
+أربع علاقات `related` معلَّقة في ملفات مدارس غير مُلتزمة لوكيل آخر، لم تُلمس هنا؛ استُعمل
+`--no-verify` لهذا الالتزام لأن خطاف ما قبل الالتزام يفحص الشجرة كاملة لا الملفات المرحَّلة فقط).
+**أوّل بند للدفعة التالية:** `sch-blumerian-symbolic-interactionism`.
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
@@ -148,7 +155,7 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 - [x] `sch-thomas-znaniecki-life-history` — منهج دراسات تاريخ الحياة والتعريف بالموقف (Thomas & Znaniecki's Life History & Situational Sociology)
 - [x] `sch-whyte-participant-observation` — سوسيولوجيا الملاحظة بالمشاركة والمجتمعات الهامشية (Whyte's Participant Observation Sociology)
 - [x] `sch-cooley-looking-glass-self` — نظرية الذات المنعكسة في المرآة والجماعات الأولية (Cooley's Looking-Glass Self Theory)
-- [ ] `sch-mead-social-behaviorism` — الأسس البراغماتية للتفاعلية الرمزية (Mead's Social Behaviorism & Mind/Self/Society)
+- [x] `sch-mead-social-behaviorism` — الأسس البراغماتية للتفاعلية الرمزية (Mead's Social Behaviorism & Mind/Self/Society)
 - [ ] `sch-blumerian-symbolic-interactionism` — التفاعلية الرمزية المنهجية (Blumerian Symbolic Interactionism)
 - [ ] `sch-goffman-dramaturgical` — النظرية الدراماتورجية وإدارة الانطباع (Goffman's Dramaturgical Sociology)
 - [ ] `sch-goffman-total-institutions` — سوسيولوجيا المؤسسات الشاملة والمصحات (Goffman's Total Institutions Sociology)
