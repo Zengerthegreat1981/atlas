@@ -19,7 +19,9 @@ related:
 - id: "thk-granovetter", title: "مارك غرانوفيتر", type: "مفكر"
 - id: "thk-wellman", title: "باري ويلمان", type: "مفكر"
 - id: "con-weak-ties-embeddedness-granovetter", title: "قوة الروابط الضعيفة والتضمين الاقتصادي عند غرانوفيتر", type: "مفهوم"
+- id: "stu-getting-a-job-granovetter", title: "الحصول على وظيفة: دراسة في الاتصالات والحراك الوظيفي", type: "دراسة وبحث"
 gaps:
+  - "**دراسةٌ ميدانيةٌ 2026-09-15:** أُضيف `stu-getting-a-job-granovetter` وربطه هنا، يفرد الدراسة التجريبية (مقابلات نيوتن) عن المفهوم النظري."
   - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3)."
   - "**سُدَّ 2026-09-14 (الدفعة 49):** كُتب `thk-granovetter`، `thk-wellman`، و`con-weak-ties-embeddedness-granovetter` وأُضيفت روابطها هنا."
 ---
