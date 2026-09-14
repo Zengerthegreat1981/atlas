@@ -19,7 +19,9 @@ related:
 - id: "thk-gouldner", title: "ألفن غولدنر", type: "مفكر"
 - id: "con-mock-representative-bureaucracy-gouldner", title: "البيروقراطية الزائفة والتمثيلية عند غولدنر", type: "مفهوم"
 - id: "thk-peter-blau", title: "بيتر بلاو", type: "مفكر"
+- id: "stu-men-women-corporation-kanter", title: "رجال ونساء الشركة", type: "دراسة وبحث"
 gaps:
+  - "**دراسةٌ ميدانيةٌ 2026-09-15:** أُضيف `stu-men-women-corporation-kanter` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3). `belongs_to` تُرك فارغاً — لا يصح نسبته إلى `sch-parsonian-action-frame` لأن غولدنر انتقد الوظيفية البنائية بشدة لاحقاً في *الأزمة القادمة لعلم الاجتماع الغربي* (1970)، ولا إلى `sch-blau-structural-exchange` لأن هذا العمل المبكر لبلاو نفسه سابقٌ زمنياً على تنظيره في التبادل ومستقل عنه موضوعياً."
   - "**سُدَّ 2026-09-14 (الدفعة 48):** كُتب `thk-gouldner` و`con-mock-representative-bureaucracy-gouldner` وأُضيفت روابطهما هنا، مع رابط إلى `thk-peter-blau` (كُتب في الدفعة 43 لمساهمته اللاحقة في نظرية التبادل)."
 ---
