@@ -16,9 +16,12 @@ active_start: 1377
 active_end: 1406
 edges:
 - rel: "belongs_to", target: "sch-khaldunian-ilm-al-umran", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-ibn-khaldun", title: "عبد الرحمن بن محمد بن خلدون الحضرمي", type: "مفكر"
+- id: "con-asabiyyah-ibn-khaldun", title: "العصبية عند ابن خلدون", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7)، ويعرض جانباً محدداً من مشروع ابن خلدون (دورة البداوة/الحضارة التاريخية) متمايزاً عن `sch-khaldunian-ilm-al-umran` (الدفعة 1) الذي يعرض المشروع العام. `belongs_to` يربطه بها بوصفها الإطار الأشمل."
+  - "ملف `thk-ibn-khaldun` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده."
 ---
 
 # سوسيولوجيا العمران والتحول البدوي-الحضري الخلدونية

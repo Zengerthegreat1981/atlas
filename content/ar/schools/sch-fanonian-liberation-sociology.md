@@ -18,6 +18,7 @@ edges: []
 related:
 - id: "thk-fanon", title: "فرانتز فانون", type: "مفكر"
 - id: "sch-said-sociology-of-orientalism", title: "النقد السوسيولوجي للاستشراق والتمثيل الإمبريالي", type: "مدرسة"
+- id: "con-sociogeny-fanon", title: "السوسيوجينية والعصاب الاستعماري (Sociogeny)", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7). ملف `thk-fanon` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده. `belongs_to` لهذا الملف نفسه تُرك فارغاً."
 ---
