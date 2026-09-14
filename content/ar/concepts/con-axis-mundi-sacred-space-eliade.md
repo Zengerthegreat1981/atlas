@@ -1,6 +1,6 @@
 ---
 slug: "con-axis-mundi-sacred-space-eliade"
-id: "CON-4502"
+id: "CON-9704"
 type: "مفهوم"
 part: "religious-studies"
 level: "متقدم"
