@@ -80,7 +80,7 @@
 ## 7. الخطابُ والتداولية (Discourse & Pragmatics)
 
 - [ ] التداوليةُ ومبدأُ التعاون (Gricean Pragmatics) — **تقاطعٌ مع فلسفة اللغة؛ اربط ولا تكرّر**
-- [ ] نظريةُ الملاءمة (Relevance Theory — Sperber & Wilson)
+- [x] نظريةُ الملاءمة (Relevance Theory — Sperber & Wilson) — `sch-relevance-theory`، `thk-dan-sperber`، `thk-deirdre-wilson` (الدفعة 9). مربوطةٌ نقدياً بـ`thk-pgrice` (philosophy) دون تكراره.
 - [ ] تحليلُ المحادثة (Conversation Analysis — Sacks، Schegloff) — **`thk-hsacks` موجودٌ ومعزول**
 - [ ] تحليلُ الخطاب النقديّ (CDA — Fairclough، van Dijk، Wodak)
 - [ ] لسانياتُ النصِّ وتماسكُه (Text Linguistics — de Beaugrande، Halliday & Hasan)
