@@ -16,9 +16,14 @@ active_start: 1968
 active_end: 2000
 edges:
 - rel: "belongs_to", target: "sch-mead-social-behaviorism", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-stryker", title: "شيلدون ستريكر", type: "مفكر"
+- id: "thk-peter-burke", title: "بيتر بيرك", type: "مفكر"
+- id: "con-identity-salience-hierarchy-stryker", title: "نظرية الهوية والبروز الهرمي عند ستريكر", type: "مفهوم"
+- id: "con-identity-control-theory-burke", title: "نظرية التحقق من الهوية عند بيرك", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2)، ويكمل `sch-mead-social-behaviorism` المنشأ في الدفعة نفسها. لا يوجد بعد ملفات مستقلة لشيلدون ستريكر (`thk-stryker`) أو بيتر بيرك (`thk-peter-burke`)."
+  - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2)، ويكمل `sch-mead-social-behaviorism` المنشأ في الدفعة نفسها."
+  - "**سُدَّ 2026-09-14 (الدفعة 32):** كُتب `thk-stryker`، `thk-peter-burke`، `con-identity-salience-hierarchy-stryker`، و`con-identity-control-theory-burke` وأُضيفت روابطها هنا. بهذا اكتمل القسم 2 بأكمله (20/20)."
 ---
 
 # التفاعلية الرمزية البنائية ونظرية الهوية

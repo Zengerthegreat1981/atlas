@@ -195,6 +195,14 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 معلَّقة متعددة). **أوّل بند للدفعة التالية:** `sch-stryker-burke-structural-interactionism`
 (آخر بند في القسم 2).
 
+**الدفعة 32 (2026-09-14):** كُتب `thk-stryker`، `thk-peter-burke`،
+`con-identity-salience-hierarchy-stryker`، و`con-identity-control-theory-burke`، وأُسندت إلى
+`sch-stryker-burke-structural-interactionism` (موجودة سلفاً) وأُضيفت روابطها فيها. **بهذا اكتمل
+القسم 2 بأكمله (20/20 مدرسة معقولة الحزمة).** الفحوص الثلاثة صفر على نطاق ملفات هذه الدفعة
+(الشجرة الكاملة تحمل روابط معلَّقة غير متعلقة في ملف `thk-mary-douglas` غير مُلتزم لوكيل آخر).
+**أوّل بند للدفعة التالية:** الانتقال إلى القسم 3 (الوظيفية البنائية والتبادل) — أول بنوده:
+`sch-parsonian-action-frame`.
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
@@ -240,7 +248,7 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 - [x] `sch-goffmanian-interaction-rituals` — طقوس التفاعل اليومي وحفظ ماء الوجه (Goffmanian Interaction Rituals & Face-Work)
 - [x] `sch-grounded-theory-school` — مدرسة النظرية المجذرة السوسيولوجية (Grounded Theory School: Glaser & Strauss)
 - [x] `sch-drake-cayton-black-metropolis` — دراسات المتروبوليس الأسود والتفاوت العرقي (Drake & Cayton's Black Metropolis School)
-- [ ] `sch-stryker-burke-structural-interactionism` — التفاعلية الرمزية البنائية ونظرية الهوية (Stryker & Burke's Structural Interactionism)
+- [x] `sch-stryker-burke-structural-interactionism` — التفاعلية الرمزية البنائية ونظرية الهوية (Stryker & Burke's Structural Interactionism)
 
 ## 3. الوظيفية البنائية، نظرية الأنساق ونظرية التبادل (Structural Functionalism, Systems & Exchange Theory)
 
