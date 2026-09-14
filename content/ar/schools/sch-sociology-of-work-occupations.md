@@ -18,7 +18,9 @@ edges: []
 related:
 - id: "thk-everett-hughes", title: "إيفريت هيوز", type: "مفكر"
 - id: "con-career-master-status-hughes", title: "المسار المهني والوضع المهيمن (Career & Master Status)", type: "مفهوم"
+- id: "con-dirty-work-hughes", title: "المهام القذرة (Dirty Work)", type: "مفهوم"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `con-dirty-work-hughes` (مفهوم هيوز الثاني) وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8)، ويكمل تراث `sch-braverman-labor-process` (الدفعة 4) بزاوية تفاعلية-مهنية مختلفة عن التحليل الطبقي البنيوي."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-everett-hughes`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
 ---
