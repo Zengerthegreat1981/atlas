@@ -17,6 +17,8 @@ edges:
 related:
 - id: "sch-east-asian-ethnography", title: "الإثنوغرافيا الصينيةُ واليابانية (Fei Xiaotong, Yanagita Kunio)", type: "مدرسة"
 - id: "thk-bronislaw-malinowski", title: "برونيسلاف مالينوفسكي (Bronisław Malinowski)", type: "مفكر"
+- id: "wrk-peasant-life-china-fei", title: "الحياةُ الفلاحية في الصين (Peasant Life in China)", type: "عمل / كتاب"
+- id: "con-chaxugeju-fei", title: "النسقُ التفاضليّ (差序格局، Chaxugeju)", type: "مفهوم"
 gaps: []
 ---
 # فاي شياوتونغ (Fei Xiaotong / 费孝通)

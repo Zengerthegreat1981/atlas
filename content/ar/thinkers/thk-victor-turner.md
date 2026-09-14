@@ -19,6 +19,7 @@ related:
 - id: "thk-max-gluckman", title: "ماكس غلوكمان (Max Gluckman)", type: "مفكر"
 - id: "con-liminality-communitas", title: "العتبةُ والكومونيتاس (Liminality & Communitas)", type: "مفهوم"
 - id: "wrk-ritual-process-turner", title: "العمليةُ الطقسية (The Ritual Process)", type: "عمل / كتاب"
+- id: "wrk-forest-of-symbols-turner", title: "غابةُ الرموز (The Forest of Symbols)", type: "عمل / كتاب"
 gaps: []
 ---
 # فيكتور تيرنر (Victor Turner)

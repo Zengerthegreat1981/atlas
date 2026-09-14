@@ -19,6 +19,7 @@ related:
 - id: "thk-radcliffe-brown", title: "ألفرد رادكليف-براون (A. R. Radcliffe-Brown)", type: "مفكر"
 - id: "stu-evans-pritchard-azande-witchcraft", title: "السحر والعرافة عند الآزاندي (Witchcraft, Oracles and Magic Among the Azande)", type: "دراسة وبحث"
 - id: "con-segmentary-lineage-system", title: "النسقُ القطاعيّ للنسب (Segmentary Lineage System)", type: "مفهوم"
+- id: "wrk-african-political-systems-fortes-evans-pritchard", title: "الأنساقُ السياسية الأفريقية (African Political Systems)", type: "عمل / كتاب"
 gaps: []
 ---
 # إدوارد إيفانز-بريتشارد (E. E. Evans-Pritchard)

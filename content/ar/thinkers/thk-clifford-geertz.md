@@ -20,6 +20,7 @@ related:
 - id: "con-thick-description-geertz", title: "الوصفُ الكثيف (Thick Description)", type: "مفهوم"
 - id: "wrk-interpretation-of-cultures-geertz", title: "تأويلُ الثقافات (The Interpretation of Cultures)", type: "عمل / كتاب"
 - id: "wrk-negara-theatre-state-geertz", title: "نيغارا: الدولة المسرحية (Negara: The Theatre State)", type: "عمل / كتاب"
+- id: "con-deep-play-geertz", title: "اللعبُ العميق (Deep Play)", type: "مفهوم"
 gaps:
   - "تأثّرُ غيرتز بماكس فيبر (فهم المعنى الذاتي، Verstehen) مذكورٌ نصّاً؛ لم يُضَف ضلعُ evolved_from صريح لعدم كتابة سلسلة نسبٍ منهجيةٍ مباشرة بين فيبر وغيرتز في مصدرٍ داخل الأطلس."
 ---

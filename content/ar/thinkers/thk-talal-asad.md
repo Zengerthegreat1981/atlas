@@ -18,6 +18,7 @@ related:
 - id: "sch-postcolonial-critique-anthropology", title: "النقدُ ما بعد الاستعماريّ للأنثروبولوجيا (Asad, Anthropology and the Colonial Encounter)", type: "مدرسة"
 - id: "thk-evans-pritchard", title: "إدوارد إيفانز-بريتشارد (E. E. Evans-Pritchard)", type: "مفكر"
 - id: "wrk-genealogies-of-religion-asad", title: "جينالوجياتُ الدين (Genealogies of Religion)", type: "عمل / كتاب"
+- id: "wrk-anthropology-colonial-encounter-asad", title: "الأنثروبولوجيا والمواجهةُ الاستعمارية (Anthropology and the Colonial Encounter)", type: "عمل / كتاب"
 gaps:
   - "علاقةُ أسد بإدوارد سعيد ومفهوم الاستشراق مذكورةٌ إجمالاً في ملفّ المدرسة؛ لم تُضَف كضلعٍ صريح لعدم توفّر ملفٍّ مستقلٍّ لسعيد ضمن هذا القسم بعد (هو مُدرَجٌ تحت الأدب المقارن/الاستشراق في قسمٍ آخر من الأطلس)."
 ---

@@ -18,6 +18,7 @@ related:
 - id: "sch-descent-theory", title: "أنثروبولوجيا القرابة والنسب (Descent Theory)", type: "مدرسة"
 - id: "thk-evans-pritchard", title: "إدوارد إيفانز-بريتشارد (E. E. Evans-Pritchard)", type: "مفكر"
 - id: "wrk-web-of-kinship-fortes", title: "شبكةُ القرابة عند التالنسي (The Web of Kinship Among the Tallensi)", type: "عمل / كتاب"
+- id: "wrk-african-political-systems-fortes-evans-pritchard", title: "الأنساقُ السياسية الأفريقية (African Political Systems)", type: "عمل / كتاب"
 gaps: []
 ---
 # مايير فورتس (Meyer Fortes)

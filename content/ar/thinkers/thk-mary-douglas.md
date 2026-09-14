@@ -19,6 +19,7 @@ related:
 - id: "thk-evans-pritchard", title: "إدوارد إيفانز-بريتشارد (E. E. Evans-Pritchard)", type: "مفكر"
 - id: "con-matter-out-of-place-douglas", title: "مادّةٌ في غير موضعها (Matter Out of Place)", type: "مفهوم"
 - id: "wrk-purity-and-danger-douglas", title: "النقاءُ والخطر (Purity and Danger)", type: "عمل / كتاب"
+- id: "wrk-how-institutions-think-douglas", title: "كيف تفكِّر المؤسسات (How Institutions Think)", type: "عمل / كتاب"
 gaps: []
 ---
 # ماري دوغلاس (Mary Douglas)
