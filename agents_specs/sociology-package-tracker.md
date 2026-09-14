@@ -84,6 +84,13 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 **أوّل بند للدفعة التالية:** الانتقال إلى القسم 2 (شيكاغو والتفاعلية الرمزية) — أول بنوده:
 `sch-chicago-urban-ecology`.
 
+**الدفعة 13 (2026-09-14):** أول بند من القسم 2. كُتب `thk-robert-park` و`thk-ernest-burgess`
+(بادئتا `thk-park`/`thk-burgess` مستعملتان سلفاً لمفكرين آخرين مختلفين تماماً، فاستُعملت صيغة
+الاسم الكامل) و`con-concentric-zone-model-burgess`، وأُسندت جميعاً إلى `sch-chicago-urban-ecology`
+(موجودة سلفاً منذ الدفعة 2) وأُضيفت روابطها فيها. الفحوص الثلاثة صفر على نطاق ملفات هذه الدفعة
+(فحص الشجرة الكاملة يُظهر عزلة `thk-ulrich-beck`، ملف غير مُلتزم لوكيل آخر، لم يُلمس هنا).
+**أوّل بند للدفعة التالية:** `sch-wirthian-urbanism-ghetto` (سوسيولوجيا الحياة الحضرية والغيتو).
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
@@ -110,7 +117,7 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 
 ## 2. مدرسة شيكاغو، التفاعلية الرمزية وسوسيولوجيا الحياة اليومية (Chicago School & Symbolic Interactionism)
 
-- [ ] `sch-chicago-urban-ecology` — مدرسة شيكاغو الإيكولوجية الحضرية الأولى (First Chicago School / Urban Ecology)
+- [x] `sch-chicago-urban-ecology` — مدرسة شيكاغو الإيكولوجية الحضرية الأولى (First Chicago School / Urban Ecology)
 - [ ] `sch-wirthian-urbanism-ghetto` — سوسيولوجيا الحياة الحضرية والغيتو (Wirthian Urbanism & Ghetto Studies)
 - [ ] `sch-thomas-znaniecki-life-history` — منهج دراسات تاريخ الحياة والتعريف بالموقف (Thomas & Znaniecki's Life History & Situational Sociology)
 - [ ] `sch-whyte-participant-observation` — سوسيولوجيا الملاحظة بالمشاركة والمجتمعات الهامشية (Whyte's Participant Observation Sociology)

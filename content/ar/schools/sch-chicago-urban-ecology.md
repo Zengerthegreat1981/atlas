@@ -20,8 +20,12 @@ related:
 - id: "sch-thomas-znaniecki-life-history", title: "منهج دراسات تاريخ الحياة والتعريف بالموقف", type: "مدرسة"
 - id: "sch-whyte-participant-observation", title: "سوسيولوجيا الملاحظة بالمشاركة والمجتمعات الهامشية", type: "مدرسة"
 - id: "sch-drake-cayton-black-metropolis", title: "دراسات المتروبوليس الأسود والتفاوت العرقي", type: "مدرسة"
+- id: "thk-robert-park", title: "روبرت إزرا بارك", type: "مفكر"
+- id: "thk-ernest-burgess", title: "إرنست واطسون بيرجس", type: "مفكر"
+- id: "con-concentric-zone-model-burgess", title: "نموذج الحلقات المتحدة المركز عند بيرجس", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2 من `sociology-schools-backlog.md`). لا يوجد بعد ملفات مستقلة لروبرت بارك (`thk-park`) أو إرنست بيرجس (`thk-burgess`)، مؤسِّسا هذا التيار؛ `belongs_to` تُرك فارغاً حتى تُكتب (لا جذر سوسيولوجي عام في المستودع بعد)."
+  - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2 من `sociology-schools-backlog.md`)."
+  - "**سُدَّ 2026-09-14 (الدفعة 13):** كُتب `thk-robert-park` و`thk-ernest-burgess` (بادئة `thk-park`/`thk-burgess` كانت مستعملة سلفاً لمفكرين آخرين في أقسام مختلفة، فاستُعملت صيغة الاسم الكامل لتفادي التصادم) و`con-concentric-zone-model-burgess`، وأُضيفت روابطها هنا."
 ---
 
 # مدرسة شيكاغو الإيكولوجية الحضرية الأولى
