@@ -16,6 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-cultural-ecology", target_type: "مدرسة"
 related:
 - id: "sch-cultural-ecology", title: "الإيكولوجيا الثقافية والتطوّريةُ الجديدة (Cultural Ecology)", type: "مدرسة"
+- id: "con-cultural-core-steward", title: "النواةُ الثقافية (Cultural Core)", type: "مفهوم"
 gaps: []
 ---
 # جوليان ستيوارد (Julian Steward)
