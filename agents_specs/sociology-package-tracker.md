@@ -315,6 +315,15 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 رابط لـ`thk-peter-blau`. الفحوص الثلاثة صفر. **أوّل بند للدفعة التالية:**
 `sch-social-network-analysis-paradigm` (آخر بند متبقٍّ في القسم 3).
 
+**الدفعة 49 (2026-09-14):** كُتب `thk-granovetter`، `thk-wellman`، و
+`con-weak-ties-embeddedness-granovetter`، وأُسندت إلى `sch-social-network-analysis-paradigm`
+(موجودة سلفاً) وأُضيفت روابطها فيها. **بهذا يكتمل القسم 3 بأكمله معقولاً (20/20)** إلا
+`sch-cumulative-advantage-theory` (يبقى بلا حزمة مفكر/مفهوم مستقل، مع أن مفهوم «تأثير ماثيو»
+موثَّق سلفاً ضمن `con-cudos-norms-science` — مؤجَّل لتجنّب ازدواج مع محتوى ميرتون الموجود).
+الفحوص الثلاثة صفر. **أوّل بند للدفعة التالية:** الانتقال إلى القسم 4 (نظرية الصراع ومدرسة
+فرانكفورت) من `sch-latin-american-dependency-theory` (4 بنود من أصل 20 مكتملة فعلاً عبر جلسة
+موازية: دارندورف، ميلز، كولينز، والرشتاين).
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
@@ -382,7 +391,7 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 - [x] `sch-new-institutionalism-organizational` — المؤسسية الجديدة في سوسيولوجيا التنظيمات (New Institutionalism in Organizational Sociology: DiMaggio & Powell)
 - [ ] `sch-social-capital-civic` — سوسيولوجيا رأس المال الاجتماعي والشبكات المدنية (Putnam's Social Capital Theory)
 - [x] `sch-complex-organizations-gouldner-blau` — سوسيولوجيا التنظيمات والخلل البيروقراطي (Sociology of Complex Organizations: Gouldner & Blau)
-- [ ] `sch-social-network-analysis-paradigm` — سوسيولوجيا الشبكات الاجتماعية وتحليل البنى (Social Network Analysis Paradigm: Wellman & Granovetter)
+- [x] `sch-social-network-analysis-paradigm` — سوسيولوجيا الشبكات الاجتماعية وتحليل البنى (Social Network Analysis Paradigm: Wellman & Granovetter)
 - [ ] `sch-cumulative-advantage-theory` — سوسيولوجيا المكانة والتمايز الطبقي التراكمي (Cumulative Advantage Theory / Matthew Effect)
 
 ## 4. نظرية الصراع، مدرسة فرانكفورت والماركسية النقدية (Conflict Theory & Critical Sociology)
