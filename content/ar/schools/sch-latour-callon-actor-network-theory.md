@@ -18,6 +18,7 @@ edges: []
 related:
 - id: "thk-latour", title: "برونو لاتور", type: "مفكر"
 - id: "con-actor-network-theory", title: "نظرية شبكة الفواعل والترجمة (Actor-Network Theory)", type: "مفهوم"
+- id: "wrk-reassembling-the-social-latour", title: "إعادة تجميع الاجتماعي (Reassembling the Social)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5)."
   - "**سُدَّ جزئياً 2026-09-14 (دفعة تالية):** أُنشئ `thk-latour`. ميشيل كالون (`thk-callon`) لا يزال بلا ملف مستقل؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً."

@@ -18,6 +18,7 @@ edges: []
 related:
 - id: "thk-jack-douglas", title: "جاك دوغلاس", type: "مفكر"
 - id: "con-existential-sociology-lived-experience", title: "التجربة الوجودية المعيشة (Existential Lived Experience)", type: "مفهوم"
+- id: "wrk-existential-sociology-douglas-johnson", title: "السوسيولوجيا الوجودية (Existential Sociology)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5)."
   - "**سُدَّ جزئياً 2026-09-14 (دفعة تالية):** أُنشئ `thk-jack-douglas`. جون جونسون (`thk-john-johnson`) لا يزال بلا ملف مستقل؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً."
