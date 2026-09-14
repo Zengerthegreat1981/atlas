@@ -68,7 +68,7 @@
 
 ## 6. اللغةُ في المجتمع (Sociolinguistics & Anthropology of Language)
 
-- [ ] اللسانياتُ الاجتماعيةُ المتغيّرية (Labovian Variationist Sociolinguistics)
+- [x] اللسانياتُ الاجتماعيةُ المتغيّرية (Labovian Variationist Sociolinguistics) — `sch-variationist-sociolinguistics`، `thk-william-labov`، `stu-labov-department-store-r` (الدفعة 7).
 - [ ] إثنوغرافيا التواصل والكفايةُ التواصلية (Hymes — SPEAKING)
 - [ ] الازدواجيةُ اللغويةُ والفصحى والعامّية (Diglossia — Ferguson، والحالةُ العربية)
 - [ ] اللغةُ والجندر (Lakoff، Tannen، Eckert)

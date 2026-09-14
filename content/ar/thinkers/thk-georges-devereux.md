@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-ethnopsychiatry-culture-bound-syndromes", title: "الإثنوبسيكياتري ومتلازماتُ الثقافة (Ethnopsychiatry & Culture-Bound Syndromes)", type: "مدرسة"
 - id: "con-culture-bound-syndrome-definition", title: "المتلازمةُ المرتبطة بالثقافة (Culture-Bound Syndrome)", type: "مفهوم"
+- id: "wrk-reality-and-dream-devereux", title: "الواقعُ والحلم (Reality and Dream)", type: "عمل / كتاب"
 gaps: []
 ---
 # جورج ديفرو (Georges Devereux)
