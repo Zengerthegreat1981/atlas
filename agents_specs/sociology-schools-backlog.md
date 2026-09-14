@@ -23,8 +23,15 @@
 >   تحليل الشبكات الاجتماعية. **تصحيح رجعي:** أُضيف `related` من `sch-social-capital-civic`
 >   (دفعة 0) إلى `sch-coleman-rational-choice-sociology` الجديدة (لا `belongs_to`، فهما
 >   صياغتان متنافستان متوازيتان لا علاقة أمّ-فرع).
-> **الدفعةُ التالية (4):** القسم 4 — نظرية الصراع، مدرسة فرانكفورت والماركسية النقدية —
-> أوّل بندٍ غيرِ مؤشَّرٍ بـ`[x]` تحت العنوان `## 4.`.
+> - **الدفعة 4 (2026-09-14):** القسم 4 مكتملٌ بالكامل (20/20) — دارندورف، ميلز (نخبة القوة)،
+>   كولينز (الصراع المجهري)، فالرستين (+فرع تبعية أمريكا اللاتينية)، فرانكفورت السوسيولوجية
+>   (+3 فروع: ماركوزه، هابرماس المجال العام وفرعه الفعل التواصلي، هونيث وفريزر الاعتراف)،
+>   ألتوسير (+فرع ميليباند-بولانتزاس)، غرامشي (+فرع لاكلاو وموف)، رايت (التحليل الطبقي)،
+>   لوفيفر (+فرع هارفي)، برافرمان، سكوتشبول (+فرع تيلي وتارو). ثلاثةُ مفكرين مشتركين مع
+>   الفلسفة (ماركوزه، هابرماس، ألتوسير، غرامشي، لاكلاو، موف) رُبطوا عبر `related` فقط
+>   لتباين `part`، لا `belongs_to`.
+> **الدفعةُ التالية (5):** القسم 5 — الظاهراتية، الإثنوميثودولوجيا، نظرية الممارسة وما بعد
+> البنيوية — أوّل بندٍ غيرِ مؤشَّرٍ بـ`[x]` تحت العنوان `## 5.`.
 
 # قائمة المدارس والنظريات السوسيولوجية الشاملة — قائمة انتظار (Backlog) لتغطية علم الاجتماع في أطلس
 
@@ -118,26 +125,26 @@
 
 ## 4. نظرية الصراع، مدرسة فرانكفورت والماركسية النقدية (Conflict Theory & Critical Sociology)
 
-- [ ] سوسيولوجيا الصراع الليبرالية (Dahrendorfian Conflict Sociology)
-- [ ] السوسيولوجيا الراديكالية ونقد نخبة القوة (Millsian Critical Sociology & The Power Elite)
-- [ ] سوسيولوجيا الصراع المجهرية وسلاسل طقوس التفاعل (Collins' Micro-Conflict Sociology)
-- [ ] تحليل النظم العالمية والتقسيم الدولي للعمل (Wallerstein's World-Systems Analysis)
-- [ ] نظرية التبعية السوسيولوجية اللاتينية (Latin American Dependency Theory: Cardoso, Dos Santos)
-- [ ] النظرية النقدية الأولى والتسليع الثقافي (Frankfurt School Critical Sociology: Horkheimer & Adorno)
-- [ ] سوسيولوجيا المجتمع الصناعي أحادي البعد (Marcusean Critical Sociology of One-Dimensionality)
-- [ ] سوسيولوجيا المجال العام والديمقراطية التداولية (Habermasian Public Sphere Sociology)
-- [ ] نظرية الفعل التواصلي واستعمار عالم الحياة (Habermasian Theory of Communicative Action)
-- [ ] الماركسية البنيوية وأجهزة الدولة (Althusserian Structural Marxism)
-- [ ] الهيمنة الثقافية والكتلة التاريخية (Gramscian Cultural Hegemony & Historical Bloc)
-- [ ] ما بعد الماركسية والتحليل الخطابي للصراع (Laclau & Mouffe's Discourse & Hegemony Theory)
-- [ ] سوسيولوجيا الدولة الرأسمالية (Miliband-Poulantzas State Theory)
-- [ ] التحليل الطبقي والمواقع المتناقضة (Wright's Analytical Marxist Class Theory)
-- [ ] سوسيولوجيا الفضاء والحق في المدينة (Lefebvrean Spatial Sociology)
-- [ ] الجغرافيا الماركسية والتراكم المكاني (Harvey's Critical Urban & Spatial Sociology)
-- [ ] سوسيولوجيا عملية العمل ونزع المهارة (Braverman's Labor Process Theory)
-- [ ] سوسيولوجيا الاعتراف والعدالة التوزيعية (Honneth & Fraser's Recognition & Redistribution Theory)
-- [ ] علم الاجتماع التاريخي والمقارن للثورات (Skocpol's Comparative-Historical Sociology of Revolutions)
-- [ ] سوسيولوجيا الحركات الاجتماعية وعمليات التعبئة (Tilly & Tarrow's Contentious Politics & Social Movements)
+- [x] سوسيولوجيا الصراع الليبرالية (Dahrendorfian Conflict Sociology) — `sch-dahrendorfian-conflict-sociology` (دفعة 4، 2026-09-14)
+- [x] السوسيولوجيا الراديكالية ونقد نخبة القوة (Millsian Critical Sociology & The Power Elite) — `sch-millsian-power-elite` (دفعة 4، 2026-09-14)
+- [x] سوسيولوجيا الصراع المجهرية وسلاسل طقوس التفاعل (Collins' Micro-Conflict Sociology) — `sch-collins-micro-conflict` (دفعة 4، 2026-09-14)
+- [x] تحليل النظم العالمية والتقسيم الدولي للعمل (Wallerstein's World-Systems Analysis) — `sch-wallerstein-world-systems` (دفعة 4، 2026-09-14)
+- [x] نظرية التبعية السوسيولوجية اللاتينية (Latin American Dependency Theory: Cardoso, Dos Santos) — `sch-latin-american-dependency-theory` (دفعة 4، 2026-09-14)
+- [x] النظرية النقدية الأولى والتسليع الثقافي (Frankfurt School Critical Sociology: Horkheimer & Adorno) — `sch-frankfurt-critical-sociology` (دفعة 4، 2026-09-14)
+- [x] سوسيولوجيا المجتمع الصناعي أحادي البعد (Marcusean Critical Sociology of One-Dimensionality) — `sch-marcusean-one-dimensionality` (دفعة 4، 2026-09-14)
+- [x] سوسيولوجيا المجال العام والديمقراطية التداولية (Habermasian Public Sphere Sociology) — `sch-habermasian-public-sphere` (دفعة 4، 2026-09-14)
+- [x] نظرية الفعل التواصلي واستعمار عالم الحياة (Habermasian Theory of Communicative Action) — `sch-habermasian-communicative-action` (دفعة 4، 2026-09-14)
+- [x] الماركسية البنيوية وأجهزة الدولة (Althusserian Structural Marxism) — `sch-althusserian-structural-marxism` (دفعة 4، 2026-09-14)
+- [x] الهيمنة الثقافية والكتلة التاريخية (Gramscian Cultural Hegemony & Historical Bloc) — `sch-gramscian-cultural-hegemony` (دفعة 4، 2026-09-14)
+- [x] ما بعد الماركسية والتحليل الخطابي للصراع (Laclau & Mouffe's Discourse & Hegemony Theory) — `sch-laclau-mouffe-discourse-hegemony` (دفعة 4، 2026-09-14)
+- [x] سوسيولوجيا الدولة الرأسمالية (Miliband-Poulantzas State Theory) — `sch-miliband-poulantzas-state-theory` (دفعة 4، 2026-09-14)
+- [x] التحليل الطبقي والمواقع المتناقضة (Wright's Analytical Marxist Class Theory) — `sch-wright-analytical-marxist-class` (دفعة 4، 2026-09-14)
+- [x] سوسيولوجيا الفضاء والحق في المدينة (Lefebvrean Spatial Sociology) — `sch-lefebvrean-spatial-sociology` (دفعة 4، 2026-09-14)
+- [x] الجغرافيا الماركسية والتراكم المكاني (Harvey's Critical Urban & Spatial Sociology) — `sch-harvey-critical-urban-spatial` (دفعة 4، 2026-09-14)
+- [x] سوسيولوجيا عملية العمل ونزع المهارة (Braverman's Labor Process Theory) — `sch-braverman-labor-process` (دفعة 4، 2026-09-14)
+- [x] سوسيولوجيا الاعتراف والعدالة التوزيعية (Honneth & Fraser's Recognition & Redistribution Theory) — `sch-honneth-fraser-recognition-redistribution` (دفعة 4، 2026-09-14)
+- [x] علم الاجتماع التاريخي والمقارن للثورات (Skocpol's Comparative-Historical Sociology of Revolutions) — `sch-skocpol-comparative-historical-revolutions` (دفعة 4، 2026-09-14)
+- [x] سوسيولوجيا الحركات الاجتماعية وعمليات التعبئة (Tilly & Tarrow's Contentious Politics & Social Movements) — `sch-tilly-tarrow-contentious-politics` (دفعة 4، 2026-09-14)
 
 ---
 
