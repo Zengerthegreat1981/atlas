@@ -284,6 +284,10 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 ملف فور كتابته (ثلاثة التزامات) تطبيقاً للدرس المستفاد. الفحوص الثلاثة صفر. **أوّل بند للدفعة
 التالية:** `sch-blau-structural-exchange`.
 
+**الدفعة 43 (2026-09-14):** كُتب `thk-peter-blau` و`con-power-imbalance-exchange-blau`، وأُسندا
+إلى `sch-blau-structural-exchange` (موجودة سلفاً) وأُضيفت روابطهما فيها. الفحوص الثلاثة صفر.
+**أوّل بند للدفعة التالية:** `sch-coleman-rational-choice-sociology`.
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
@@ -344,7 +348,7 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 - [x] `sch-luhmannian-autopoietic-systems` — نظرية الأنساق الاجتماعية الأوتوبويتية (Luhmannian Autopoietic Social Systems Theory)
 - [x] `sch-luhmannian-communication-differentiation` — سوسيولوجيا التواصل والتمايز النسقي (Luhmannian Sociology of Communication & Differentiation)
 - [x] `sch-homans-behavioral-exchange` — نظرية التبادل الاجتماعي السلوكية (Homans' Behavioral Social Exchange Theory)
-- [ ] `sch-blau-structural-exchange` — نظرية التبادل البنائي والتفاوت الطبقي (Blau's Structural Exchange Theory)
+- [x] `sch-blau-structural-exchange` — نظرية التبادل البنائي والتفاوت الطبقي (Blau's Structural Exchange Theory)
 - [ ] `sch-coleman-rational-choice-sociology` — سوسيولوجيا الاختيار العقلاني ورأس المال الاجتماعي (Coleman's Rational Choice Sociology)
 - [ ] `sch-analytical-sociology` — السوسيولوجيا التحليلية ونظرية الآليات الاجتماعية (Analytical Sociology: Elster & Hedström)
 - [ ] `sch-network-exchange-theory` — نظرية التبادل الشبكي وعلاقات القوة-التبعية (Network Exchange Theory: Willer & Cook)
