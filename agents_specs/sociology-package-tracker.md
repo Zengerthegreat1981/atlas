@@ -173,6 +173,12 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 نطاق ملفات هذه الدفعة (الشجرة الكاملة تحمل 4 روابط `related` معلَّقة في ملفات غير مُلتزمة لوكيل
 آخر). **أوّل بند للدفعة التالية:** `sch-hochschild-care-work`.
 
+**الدفعة 28 (2026-09-14):** كُتب `con-global-care-chains-hochschild` وأُسند إلى
+`sch-hochschild-care-work` (موجودة سلفاً) وأُضيف رابطه فيها مع رابط `thk-hochschild`. الفحوص
+الثلاثة صفر على نطاق ملفات هذه الدفعة (الشجرة الكاملة تحمل تصادم id واحداً بين `thk-lemert`
+المُلتزم و`thk-ruth-benedict` غير المُلتزم لوكيل آخر). **أوّل بند للدفعة التالية:**
+`sch-goffmanian-interaction-rituals`.
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
@@ -214,7 +220,7 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 - [x] `sch-lemert-primary-secondary-deviance` — سوسيولوجيا الانحراف البنائية (Lemert's Primary & Secondary Deviance)
 - [x] `sch-sutherland-differential-association` — نظرية الارتباط التفاضلي وجرائم الياقات البيضاء (Sutherland's Differential Association Theory)
 - [x] `sch-hochschild-emotional-labor` — سوسيولوجيا الانفعالات والعمل العاطفي (Hochschild's Sociology of Emotions & Emotional Labor)
-- [ ] `sch-hochschild-care-work` — سوسيولوجيا سلاسل الرعاية العالمية والوردية الثانية (Hochschild's Care Work Sociology)
+- [x] `sch-hochschild-care-work` — سوسيولوجيا سلاسل الرعاية العالمية والوردية الثانية (Hochschild's Care Work Sociology)
 - [ ] `sch-goffmanian-interaction-rituals` — طقوس التفاعل اليومي وحفظ ماء الوجه (Goffmanian Interaction Rituals & Face-Work)
 - [ ] `sch-grounded-theory-school` — مدرسة النظرية المجذرة السوسيولوجية (Grounded Theory School: Glaser & Strauss)
 - [ ] `sch-drake-cayton-black-metropolis` — دراسات المتروبوليس الأسود والتفاوت العرقي (Drake & Cayton's Black Metropolis School)

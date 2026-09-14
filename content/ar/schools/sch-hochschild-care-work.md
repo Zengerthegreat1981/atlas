@@ -16,9 +16,12 @@ active_start: 1989
 active_end: 2000
 edges:
 - rel: "belongs_to", target: "sch-hochschild-emotional-labor", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-hochschild", title: "أرلي راسل هوكشيلد", type: "مفكر"
+- id: "con-global-care-chains-hochschild", title: "سلاسل الرعاية العالمية والوردية الثانية عند هوكشيلد", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2)، ويكمل `sch-hochschild-emotional-labor` المنشأ في الدفعة نفسها."
+  - "**سُدَّ 2026-09-14 (الدفعة 28):** كُتب `con-global-care-chains-hochschild` وأُضيف رابطه هنا، إلى جانب رابط `thk-hochschild` (كُتب في الدفعة 27)."
 ---
 
 # سوسيولوجيا سلاسل الرعاية العالمية والوردية الثانية
