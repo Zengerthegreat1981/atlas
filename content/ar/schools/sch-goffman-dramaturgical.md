@@ -22,7 +22,9 @@ related:
 - id: "sch-goffman-frame-analysis", title: "تحليل الأطر والنظام التفاعلي اليومي", type: "مدرسة"
 - id: "sch-goffmanian-interaction-rituals", title: "طقوس التفاعل اليومي وحفظ ماء الوجه", type: "مدرسة"
 - id: "con-front-back-stage-goffman", title: "المنطقة الأمامية والخلفية عند غوفمان", type: "مفهوم"
+- id: "wrk-presentation-of-self-goffman", title: "تقديم الذات في الحياة اليومية", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-14:** أُضيف `wrk-presentation-of-self-goffman` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2). ملف `thk-goffman` القائم موسومٌ `part: \"psychology\"` وليس `sociology`، فالإشارة إليه هنا عبر `related` وحده لا `belongs_to`؛ هذا التصنيف المزدوج لغوفمان بين القسمين مذكور صراحة في القسم 4 من `SOCIOLOGY_MISSION_PROMPT.md` كأحد جسور القسم النهائية المزمعة (لم تُبنَ بعد كعقدة `part: \"bridge\"` مستقلة)."
   - "**سُدَّ 2026-09-14 (الدفعة 20):** كُتب `con-front-back-stage-goffman` وأُضيف رابطه هنا."
   - "`belongs_to` لهذا الملف تُرك فارغاً لغياب جذرٍ سوسيولوجي عام."
