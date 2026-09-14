@@ -17,8 +17,10 @@ active_end: 1910
 edges: []
 related:
 - id: "thk-sumner", title: "ويليام غراهام سمنر", type: "مفكر"
+- id: "dbt-sumner-ward-social-darwinism-reform", title: "جدل الداروينية الاجتماعية اللاإصلاحية عند سمنر مقابل الداروينية الإصلاحية الأمريكية", type: "جدل"
 gaps:
   - "**سُدَّ 2026-09-14 (مرحلة الحزم، دفعة 9):** كُتب `thk-sumner` وأُسند إلى هذا الملف بـ`belongs_to`."
+  - "**تعميقٌ 2026-09-14:** أُضيف `dbt-sumner-ward-social-darwinism-reform` وربطه هنا."
 ---
 
 # الداروينية الاجتماعية والأعراف المجتمعية
