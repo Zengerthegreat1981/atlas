@@ -17,6 +17,7 @@ edges:
 related:
 - id: "ins-event-history-analysis", title: "تحليل تاريخ الأحداث (Event History Analysis)", type: "منهج/أداة بحث"
 - id: "ins-general-social-survey", title: "المسح الاجتماعي العام (General Social Survey - GSS)", type: "منهج/أداة بحث"
+- id: "ins-experience-sampling-method", title: "منهج أخذ عينات الخبرة (Experience Sampling Method)", type: "منهج/أداة بحث"
 gaps:
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بسدّ فجوة نوع `ins-`، مع التحقق المسبق من عدم تكراره مع `ins-general-social-survey` و`ins-event-history-analysis`: يختلف عن الأول بمتابعة الأفراد أنفسهم المتكررة عبر الزمن (لا عينات مقطعية جديدة كل موجة)، ويختلف عن الثاني بتوصيف تصميم جمع البيانات نفسه لا تقنية التحليل الإحصائي اللاحقة له. `belongs_to` تقريبي بحكم استخدامه الشائع في دراسات مسار الحياة."
 ---
