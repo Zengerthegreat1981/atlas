@@ -1,6 +1,6 @@
 ---
 slug: "wrk-interaction-ritual-goffman"
-id: "WRK-2400"
+id: "WRK-2450"
 type: "عمل / كتاب"
 register: "academic"
 part: "sociology"
