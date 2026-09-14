@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-maussian-gift-theory", title: "نظرية الهبة والتبادل (Maussian Gift Theory)", type: "مدرسة"
 - id: "thk-durkheim", title: "إميل دوركهايم", type: "مفكر"
+- id: "con-potlatch", title: "البوتلاتش (Potlatch)", type: "مفهوم"
 gaps:
   - "لم يُنشأ بعد ملفٌّ مستقلٌّ لمفهوم «تقنيات الجسد» (Techniques of the Body, 1934) عند موس؛ سيُضاف ضمن حزمة أنثروبولوجيا الجسد لاحقاً."
 ---
