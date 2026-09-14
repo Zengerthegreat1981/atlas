@@ -34,10 +34,10 @@
 ## 3. الوظيفيةُ البريطانية (British Functionalism)
 
 - [x] الوظيفيةُ المالينوفسكية والملاحظةُ بالمشاركة (Malinowskian Functionalism) — `sch-malinowskian-functionalism`، `thk-bronislaw-malinowski`
-- [ ] الوظيفيةُ البنائية عند رادكليف-براون (Radcliffe-Brownian Structural Functionalism)
-- [ ] أنثروبولوجيا القرابة والنسب (Descent Theory — Fortes, Evans-Pritchard)
-- [ ] أنثروبولوجيا السحر والعرافة (Evans-Pritchard's *Witchcraft Among the Azande*)
-- [ ] مدرسةُ مانشستر وتحليلُ الموقف (Manchester School — Gluckman, Barth)
+- [x] الوظيفيةُ البنائية عند رادكليف-براون (Radcliffe-Brownian Structural Functionalism) — `sch-radcliffe-brown-structural-functionalism`، `thk-radcliffe-brown`
+- [x] أنثروبولوجيا القرابة والنسب (Descent Theory — Fortes, Evans-Pritchard) — `sch-descent-theory`، `thk-evans-pritchard`، `thk-meyer-fortes`
+- [x] أنثروبولوجيا السحر والعرافة (Evans-Pritchard's *Witchcraft Among the Azande*) — `stu-evans-pritchard-azande-witchcraft`
+- [x] مدرسةُ مانشستر وتحليلُ الموقف (Manchester School — Gluckman, Barth) — `sch-manchester-school`، `thk-max-gluckman`
 
 ## 4. المدرسةُ الأمريكية والنسبيةُ الثقافية (American Cultural Anthropology)
 
