@@ -129,6 +129,11 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 على نطاق ملفات هذه الدفعة (الشجرة الكاملة تحمل 3 روابط `related` معلَّقة في ملفات دوروثي سميث غير
 مُلتزمة لوكيل آخر، لم تُلمس هنا). **أوّل بند للدفعة التالية:** `sch-goffman-dramaturgical`.
 
+**الدفعة 20 (2026-09-14):** كُتب `con-front-back-stage-goffman` وأُسند إلى `sch-goffman-dramaturgical`
+(موجودة سلفاً، غنية بروابطها لمدارس غوفمان الأخرى) وأُضيف رابطه فيها. الفحوص الثلاثة صفر على نطاق
+ملفات هذه الدفعة (الشجرة الكاملة تحمل تصادم id واحداً بين `thk-cooley` المُلتزم و`thk-dorothy-smith`
+غير المُلتزم لوكيل آخر، لم يُلمس هنا). **أوّل بند للدفعة التالية:** `sch-goffman-total-institutions`.
+
 ---
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
@@ -162,7 +167,7 @@ al-umran` و`sch-booth-rowntree-social-survey` (لا مفكر مستقل لهم�
 - [x] `sch-cooley-looking-glass-self` — نظرية الذات المنعكسة في المرآة والجماعات الأولية (Cooley's Looking-Glass Self Theory)
 - [x] `sch-mead-social-behaviorism` — الأسس البراغماتية للتفاعلية الرمزية (Mead's Social Behaviorism & Mind/Self/Society)
 - [x] `sch-blumerian-symbolic-interactionism` — التفاعلية الرمزية المنهجية (Blumerian Symbolic Interactionism)
-- [ ] `sch-goffman-dramaturgical` — النظرية الدراماتورجية وإدارة الانطباع (Goffman's Dramaturgical Sociology)
+- [x] `sch-goffman-dramaturgical` — النظرية الدراماتورجية وإدارة الانطباع (Goffman's Dramaturgical Sociology)
 - [ ] `sch-goffman-total-institutions` — سوسيولوجيا المؤسسات الشاملة والمصحات (Goffman's Total Institutions Sociology)
 - [ ] `sch-goffman-stigma` — سوسيولوجيا الوصمة والهوية المشوهة (Goffman's Sociology of Stigma)
 - [ ] `sch-goffman-frame-analysis` — تحليل الأطر والنظام التفاعلي اليومي (Goffman's Frame Analysis & Interaction Order)
