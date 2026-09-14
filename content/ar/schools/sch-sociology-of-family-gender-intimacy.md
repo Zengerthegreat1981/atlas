@@ -15,9 +15,12 @@ language: "الإنجليزية"
 active_start: 1955
 active_end: 1992
 edges: []
-related: []
+related:
+- id: "thk-anthony-giddens", title: "أنتوني غيدنز", type: "مفكر"
+- id: "con-confluent-love-pure-relationship-giddens", title: "الحب التلاحمي والعلاقة الخالصة (Confluent Love)", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8). لا يوجد بعد ملف مستقل لروبرت بيلز (`thk-robert-bales`)؛ `belongs_to` تُرك فارغاً."
+  - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8). لا يوجد بعد ملف مستقل لروبرت بيلز (`thk-robert-bales`) عن الأدوار الوظيفية الكلاسيكية للأسرة."
+  - "ملف `thk-anthony-giddens` القائم موسومٌ `part: \"psychology\"`، فالإشارة إليه عبر `related` وحده؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً."
 ---
 
 # سوسيولوجيا الأسرة والنوع الاجتماعي والعلاقات الحميمية

@@ -15,9 +15,12 @@ language: "الإنجليزية"
 active_start: 1990
 active_end: 1991
 edges: []
-related: []
+related:
+- id: "thk-alejandro-portes", title: "أليخاندرو بورتيس", type: "مفكر"
+- id: "con-segmented-assimilation-portes", title: "الاندماج المتجزئ للمهاجرين (Segmented Assimilation)", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8). لا يوجد بعد ملفات مستقلة لألخاندرو بورتيس (`thk-alejandro-portes`) أو وليام سافران (`thk-william-safran`)؛ `belongs_to` تُرك فارغاً."
+  - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8)."
+  - "**سُدَّ جزئياً 2026-09-14 (دفعة تالية):** أُنشئ `thk-alejandro-portes`. وليام سافران (`thk-william-safran`) لا يزال بلا ملف مستقل؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً."
 ---
 
 # سوسيولوجيا الهجرة واللجوء والشتات

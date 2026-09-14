@@ -15,9 +15,12 @@ language: "الإنجليزية"
 active_start: 1961
 active_end: 1974
 edges: []
-related: []
+related:
+- id: "thk-glen-elder", title: "غلين إلدر", type: "مفكر"
+- id: "con-life-course-perspective-elder", title: "منظور مسار الحياة (Life Course Perspective)", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8). لا يوجد بعد ملفات مستقلة لإيلين كامنغ (`thk-elaine-cumming`) أو غلين إلدر (`thk-glen-elder`)؛ `belongs_to` تُرك فارغاً."
+  - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8)."
+  - "**سُدَّ جزئياً 2026-09-14 (دفعة تالية):** أُنشئ `thk-glen-elder`. إيلين كامنغ (`thk-elaine-cumming`) لا تزال بلا ملف مستقل؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً."
 ---
 
 # سوسيولوجيا الشيخوخة ودورة الحياة
