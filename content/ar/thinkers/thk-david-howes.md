@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-anthropology-of-senses", title: "أنثروبولوجيا الحواسّ (Anthropology of the Senses)", type: "مدرسة"
 - id: "thk-thomas-csordas", title: "توماس كسورداس (Thomas Csordas)", type: "مفكر"
+- id: "con-sensory-order-howes", title: "الترتيبُ الحسّيّ (Sensory Order)", type: "مفهوم"
 gaps: []
 ---
 # ديڤيد هاوز (David Howes)
