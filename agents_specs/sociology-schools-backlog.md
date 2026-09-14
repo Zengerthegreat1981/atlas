@@ -12,9 +12,15 @@
 > سوسيولوجي عام في المستودع بعد)، وكل مدرسة فرعية أُسندت بـ`belongs_to` الصحيح إلى أمّها
 > ضمن `part: "sociology"` نفسه. `audit_atlas.py` عاد إلى صفرٍ بعد إصلاح مشكلة عزلة (مدارس
 > فرعية بلا إشارة واردة — أُصلحت بإضافة `related` من الأمّ إلى فرعها، علاقة حقيقية لا مختلَقة).
-> **الدفعةُ التالية:** أكمل بقية القسم 1 (بندا Simmel، ثم Sumner، Pareto/Mosca/Michels،
-> Martineau، Du Bois، Veblen، Tönnies، Tarde/Le Bon، Booth/Rowntree) — أوّل بندٍ غيرِ
-> مؤشَّرٍ بـ`[x]` تحت العنوان `## 1.`.
+> **الدفعةُ 1 (جزء ثانٍ، 2026-09-14):** أُكمل القسم 1 بالكامل (19/19): ابن خلدون، زيمل
+> وفرعه في المال والحضر، سمنر، نظرية النخبة (باريتو/موسكا/ميشيلز معاً)، مارتينو، دوبوا،
+> فيبلن، تونيس، تارد ولوبون، وبوث وراونتري. القسم 1 **مكتملٌ** الآن.
+> ملاحظة معمارية ثابتة: كل هذه المدارس مدارسُ أمّ بلا `belongs_to` (لا جذر سوسيولوجي عام
+> في المستودع)، وحيث وُجد ملفٌ قائمٌ لنفس المفكر في قسمٍ آخر (ابن خلدون، ماركس — كلاهما
+> `part: \"philosophy\"`) اقتصر الربط على `related` لا `belongs_to` لتفادي مخالفة تطابق
+> `part` (فحصٌ قاطعٌ [12]). `audit_atlas.py` عاد إلى صفرٍ بعد كل جزء.
+> **الدفعةُ التالية (2):** القسم 2 — مدرسة شيكاغو والتفاعلية الرمزية (20 بنداً) — أوّل
+> بندٍ غيرِ مؤشَّرٍ بـ`[x]` تحت العنوان `## 2.`.
 
 # قائمة المدارس والنظريات السوسيولوجية الشاملة — قائمة انتظار (Backlog) لتغطية علم الاجتماع في أطلس
 
@@ -34,7 +40,7 @@
 
 ## 1. التأسيس الكلاسيكي، علم العمران والرواد الأوائل (Classical & Foundational Sociology)
 
-- [ ] علم العمران البشري الخلدوني (Ibn Khaldun's Ilm al-Umran)
+- [x] علم العمران البشري الخلدوني (Ibn Khaldun's Ilm al-Umran) — `sch-khaldunian-ilm-al-umran` (دفعة 1، 2026-09-14)
 - [x] الوضعية السوسيولوجية الكلاسيكية (Comtean Positivism) — `sch-comtean-positivism` (دفعة 1، 2026-09-14)
 - [x] التطورية الاجتماعية والعضوية (Spencerian Social Evolutionism & Organicism) — `sch-spencerian-evolutionism` (دفعة 1، 2026-09-14)
 - [x] المادية التاريخية السوسيولوجية ونظرية الصراع الطبقي (Marxist Classical Sociology) — `sch-marxist-classical-sociology` (دفعة 1، 2026-09-14)
@@ -43,16 +49,16 @@
 - [x] السوسيولوجيا الفهمية والتفسيرية الفيبرية (Weberian Interpretive Sociology / Verstehen) — `sch-weberian-interpretive-sociology` (دفعة 1، 2026-09-14)
 - [x] سوسيولوجيا العقلنة والبيروقراطية (Sociology of Rationalization & Bureaucracy) — `sch-weberian-rationalization-bureaucracy` (دفعة 1، 2026-09-14)
 - [x] سوسيولوجيا الأخلاق الرأسمالية والدين (Weberian Sociology of Religion & Capitalism) — `sch-weberian-religion-capitalism` (دفعة 1، 2026-09-14)
-- [ ] السوسيولوجيا الصورية والشبكات الدقيقة (Simmelian Formal Sociology)
-- [ ] سوسيولوجيا الثقافة الحضرية والمالية (Simmelian Sociology of Money & Metropolis)
-- [ ] الداروينية الاجتماعية والأعراف المجتمعية (Sumnerian Evolutionary Sociology)
-- [ ] نظرية النخبة السوسيولوجية الكلاسيكية (Classical Elite Theory: Pareto, Mosca, Michels)
-- [ ] التأسيس النسوي والمنهجي المبكر (Martineau's Foundational Feminist Sociology)
-- [ ] السوسيولوجيا النقدية للأعراق والازدواجية الوجدانية (Du Boisian Sociology)
-- [ ] سوسيولوجيا الاستهلاك والمؤسسية التطورية (Veblenian Institutional Sociology)
-- [ ] ثنائية المجتمع المحلي والمجتمع التعاقدي (Tönnies' Gemeinschaft und Gesellschaft)
-- [ ] سيكولوجيا الجماهير والتقليد الاجتماعي (Tarde & Le Bon's Crowd & Imitation Theory)
-- [ ] حركة المسوح الاجتماعية والفقر البريطانية (Booth & Rowntree's Social Survey Movement)
+- [x] السوسيولوجيا الصورية والشبكات الدقيقة (Simmelian Formal Sociology) — `sch-simmelian-formal-sociology` (دفعة 1، 2026-09-14)
+- [x] سوسيولوجيا الثقافة الحضرية والمالية (Simmelian Sociology of Money & Metropolis) — `sch-simmelian-money-metropolis` (دفعة 1، 2026-09-14)
+- [x] الداروينية الاجتماعية والأعراف المجتمعية (Sumnerian Evolutionary Sociology) — `sch-sumnerian-evolutionary-sociology` (دفعة 1، 2026-09-14)
+- [x] نظرية النخبة السوسيولوجية الكلاسيكية (Classical Elite Theory: Pareto, Mosca, Michels) — `sch-classical-elite-theory` (دفعة 1، 2026-09-14)
+- [x] التأسيس النسوي والمنهجي المبكر (Martineau's Foundational Feminist Sociology) — `sch-martineau-feminist-sociology` (دفعة 1، 2026-09-14)
+- [x] السوسيولوجيا النقدية للأعراق والازدواجية الوجدانية (Du Boisian Sociology) — `sch-du-boisian-sociology` (دفعة 1، 2026-09-14)
+- [x] سوسيولوجيا الاستهلاك والمؤسسية التطورية (Veblenian Institutional Sociology) — `sch-veblenian-institutional-sociology` (دفعة 1، 2026-09-14)
+- [x] ثنائية المجتمع المحلي والمجتمع التعاقدي (Tönnies' Gemeinschaft und Gesellschaft) — `sch-tonnies-gemeinschaft-gesellschaft` (دفعة 1، 2026-09-14)
+- [x] سيكولوجيا الجماهير والتقليد الاجتماعي (Tarde & Le Bon's Crowd & Imitation Theory) — `sch-tarde-lebon-crowd-theory` (دفعة 1، 2026-09-14)
+- [x] حركة المسوح الاجتماعية والفقر البريطانية (Booth & Rowntree's Social Survey Movement) — `sch-booth-rowntree-social-survey` (دفعة 1، 2026-09-14)
 
 ---
 
