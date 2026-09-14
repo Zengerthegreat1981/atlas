@@ -1,26 +1,22 @@
-> **موضعُ التوقّف/الاستئناف (2026-09-14):** أُنجزت «الدفعة 0» من `SOCIOLOGY_MISSION_PROMPT.md`:
-> (1) ضُيِّق شرطُ `scripts/build_sociology_matrix.py` إلى `part == "sociology"` وحده،
-> (2) كُتبت 3 مدارسَ حاضنةٍ لسدّ يُتم العقد الثلاث القائمة سابقاً (`sch-contemporary-arab-sociology`،
-> `sch-social-capital-civic`، `sch-conversation-analysis`) وأُسندت إليها العقدُ الثلاث بـ`belongs_to`.
-> المدارسُ الثلاث الجديدة نفسُها بلا أبٍ بعدُ (لا مدرسةَ أمٍّ سوسيولوجية موجودة في المستودع تصلح
-> هدفاً صحيحاً) — هذا متوقَّعٌ ومُوثَّقٌ في `gaps` كلِّ ملفّ، لا خطأً يُصحَّح بأبٍ ملفَّق.
-> `audit_atlas.py` عاد إلى صفرٍ بعد هذه الدفعة.
->
-> **الدفعةُ 1 (جزء أول، 2026-09-14):** كُتبت 8 مدارس من القسم 1 (كونت، سبنسر، ماركس
-> السوسيولوجي، دوركهايم البنائية الوظيفية وفرعها في الدين، وفيبر الفهمية وفرعاها في
-> العقلنة/البيروقراطية والأخلاق البروتستانتية). كل مدرسة أُمّ بلا `belongs_to` (لا جذر
-> سوسيولوجي عام في المستودع بعد)، وكل مدرسة فرعية أُسندت بـ`belongs_to` الصحيح إلى أمّها
-> ضمن `part: "sociology"` نفسه. `audit_atlas.py` عاد إلى صفرٍ بعد إصلاح مشكلة عزلة (مدارس
-> فرعية بلا إشارة واردة — أُصلحت بإضافة `related` من الأمّ إلى فرعها، علاقة حقيقية لا مختلَقة).
-> **الدفعةُ 1 (جزء ثانٍ، 2026-09-14):** أُكمل القسم 1 بالكامل (19/19): ابن خلدون، زيمل
-> وفرعه في المال والحضر، سمنر، نظرية النخبة (باريتو/موسكا/ميشيلز معاً)، مارتينو، دوبوا،
-> فيبلن، تونيس، تارد ولوبون، وبوث وراونتري. القسم 1 **مكتملٌ** الآن.
-> ملاحظة معمارية ثابتة: كل هذه المدارس مدارسُ أمّ بلا `belongs_to` (لا جذر سوسيولوجي عام
-> في المستودع)، وحيث وُجد ملفٌ قائمٌ لنفس المفكر في قسمٍ آخر (ابن خلدون، ماركس — كلاهما
-> `part: \"philosophy\"`) اقتصر الربط على `related` لا `belongs_to` لتفادي مخالفة تطابق
-> `part` (فحصٌ قاطعٌ [12]). `audit_atlas.py` عاد إلى صفرٍ بعد كل جزء.
-> **الدفعةُ التالية (2):** القسم 2 — مدرسة شيكاغو والتفاعلية الرمزية (20 بنداً) — أوّل
-> بندٍ غيرِ مؤشَّرٍ بـ`[x]` تحت العنوان `## 2.`.
+> **موضعُ التوقّف/الاستئناف (2026-09-14):**
+> - **الدفعة 0:** تضييق شرط `build_sociology_matrix.py` إلى `part == "sociology"`، وسدّ يُتم
+>   العقد الثلاث القديمة (`sch-contemporary-arab-sociology`، `sch-social-capital-civic`،
+>   `sch-conversation-analysis`).
+> - **الدفعة 1:** القسم 1 مكتملٌ بالكامل (19/19) — كونت، سبنسر، ماركس، دوركهايم (+فرع)،
+>   فيبر (+فرعان)، ابن خلدون، زيمل (+فرع)، سمنر، نظرية النخبة، مارتينو، دوبوا، فيبلن،
+>   تونيس، تارد ولوبون، بوث وراونتري.
+> - **الدفعة 2 (2026-09-14):** القسم 2 مكتملٌ بالكامل (20/20) — شيكاغو الإيكولوجية (+3 فروع:
+>   ورث، توماس/زنانييكي، وايت)، كولي، ميد (+فرعان: بلومر، ستريكر/بيرك)، غوفمان الدراماتورجية
+>   (+4 فروع: المؤسسات الشاملة، الوصمة، تحليل الأطر، طقوس التفاعل)، بيكر، ليمرت، ساذرلاند،
+>   هوكشيلد (+فرع الرعاية العالمية)، النظرية المجذرة، دريك وكايتون (المتروبوليس الأسود).
+> - **قاعدة معمارية ثابتة عبر كل الدفعات:** كل مدرسة أمّ (لا مدرسة أب لها في المستودع) تُترك
+>   `belongs_to` فيها فارغاً صراحة مع توثيق السبب في `gaps`، لا يُختلق أبٌ. حيث وُجد مفكرٌ بنفس
+>   الاسم في قسمٍ آخر (فلسفة/نفس) بـ`part` مختلف، الربط يكون عبر `related` فقط لا `belongs_to`
+>   (يشترط تطابق `part`، فحصٌ قاطعٌ [12] في `audit_atlas.py`). كل عزلةٍ ظهرت بعد كل جزء (مدرسة
+>   فرعية بلا إشارة واردة) أُصلحت بإضافة `related` حقيقي من الأمّ أو من مدرسةٍ شقيقة، لا بعلاقة
+>   مختلَقة. `audit_atlas.py` عاد إلى صفرٍ بعد كل جزءٍ من كل دفعة دون استثناء.
+> **الدفعةُ التالية (3):** القسم 3 — الوظيفية البنائية ونظرية الأنساق والتبادل — أوّل بندٍ
+> غيرِ مؤشَّرٍ بـ`[x]` تحت العنوان `## 3.`.
 
 # قائمة المدارس والنظريات السوسيولوجية الشاملة — قائمة انتظار (Backlog) لتغطية علم الاجتماع في أطلس
 
@@ -64,26 +60,26 @@
 
 ## 2. مدرسة شيكاغو، التفاعلية الرمزية وسوسيولوجيا الحياة اليومية (Chicago School & Symbolic Interactionism)
 
-- [ ] مدرسة شيكاغو الإيكولوجية الحضرية الأولى (First Chicago School / Urban Ecology)
-- [ ] سوسيولوجيا الحياة الحضرية والغيتو (Wirthian Urbanism & Ghetto Studies)
-- [ ] منهج دراسات تاريخ الحياة والتعريف بالموقف (Thomas & Znaniecki's Life History & Situational Sociology)
-- [ ] سوسيولوجيا الملاحظة بالمشاركة والمجتمعات الهامشية (Whyte's Participant Observation Sociology)
-- [ ] نظرية الذات المنعكسة في المرآة والجماعات الأولية (Cooley's Looking-Glass Self Theory)
-- [ ] الأسس البراغماتية للتفاعلية الرمزية (Mead's Social Behaviorism & Mind/Self/Society)
-- [ ] التفاعلية الرمزية المنهجية (Blumerian Symbolic Interactionism)
-- [ ] النظرية الدراماتورجية وإدارة الانطباع (Goffman's Dramaturgical Sociology)
-- [ ] سوسيولوجيا المؤسسات الشاملة والمصحات (Goffman's Total Institutions Sociology)
-- [ ] سوسيولوجيا الوصمة والهوية المشوهة (Goffman's Sociology of Stigma)
-- [ ] تحليل الأطر والنظام التفاعلي اليومي (Goffman's Frame Analysis & Interaction Order)
-- [ ] نظرية الوصم والانحراف كمسار مهني (Becker's Labelling Theory of Deviance)
-- [ ] سوسيولوجيا الانحراف البنائية (Lemert's Primary & Secondary Deviance)
-- [ ] نظرية الارتباط التفاضلي وجرائم الياقات البيضاء (Sutherland's Differential Association Theory)
-- [ ] سوسيولوجيا الانفعالات والعمل العاطفي (Hochschild's Sociology of Emotions & Emotional Labor)
-- [ ] سوسيولوجيا سلاسل الرعاية العالمية والوردية الثانية (Hochschild's Care Work Sociology)
-- [ ] طقوس التفاعل اليومي وحفظ ماء الوجه (Goffmanian Interaction Rituals & Face-Work)
-- [ ] مدرسة النظرية المجذرة السوسيولوجية (Grounded Theory School: Glaser & Strauss)
-- [ ] دراسات المتروبوليس الأسود والتفاوت العرقي (Drake & Cayton's Black Metropolis School)
-- [ ] التفاعلية الرمزية البنائية ونظرية الهوية (Stryker & Burke's Structural Interactionism)
+- [x] مدرسة شيكاغو الإيكولوجية الحضرية الأولى (First Chicago School / Urban Ecology) — `sch-chicago-urban-ecology` (دفعة 2، 2026-09-14)
+- [x] سوسيولوجيا الحياة الحضرية والغيتو (Wirthian Urbanism & Ghetto Studies) — `sch-wirthian-urbanism-ghetto` (دفعة 2، 2026-09-14)
+- [x] منهج دراسات تاريخ الحياة والتعريف بالموقف (Thomas & Znaniecki's Life History & Situational Sociology) — `sch-thomas-znaniecki-life-history` (دفعة 2، 2026-09-14)
+- [x] سوسيولوجيا الملاحظة بالمشاركة والمجتمعات الهامشية (Whyte's Participant Observation Sociology) — `sch-whyte-participant-observation` (دفعة 2، 2026-09-14)
+- [x] نظرية الذات المنعكسة في المرآة والجماعات الأولية (Cooley's Looking-Glass Self Theory) — `sch-cooley-looking-glass-self` (دفعة 2، 2026-09-14)
+- [x] الأسس البراغماتية للتفاعلية الرمزية (Mead's Social Behaviorism & Mind/Self/Society) — `sch-mead-social-behaviorism` (دفعة 2، 2026-09-14)
+- [x] التفاعلية الرمزية المنهجية (Blumerian Symbolic Interactionism) — `sch-blumerian-symbolic-interactionism` (دفعة 2، 2026-09-14)
+- [x] النظرية الدراماتورجية وإدارة الانطباع (Goffman's Dramaturgical Sociology) — `sch-goffman-dramaturgical` (دفعة 2، 2026-09-14)
+- [x] سوسيولوجيا المؤسسات الشاملة والمصحات (Goffman's Total Institutions Sociology) — `sch-goffman-total-institutions` (دفعة 2، 2026-09-14)
+- [x] سوسيولوجيا الوصمة والهوية المشوهة (Goffman's Sociology of Stigma) — `sch-goffman-stigma` (دفعة 2، 2026-09-14)
+- [x] تحليل الأطر والنظام التفاعلي اليومي (Goffman's Frame Analysis & Interaction Order) — `sch-goffman-frame-analysis` (دفعة 2، 2026-09-14)
+- [x] نظرية الوصم والانحراف كمسار مهني (Becker's Labelling Theory of Deviance) — `sch-becker-labeling-theory` (دفعة 2، 2026-09-14)
+- [x] سوسيولوجيا الانحراف البنائية (Lemert's Primary & Secondary Deviance) — `sch-lemert-primary-secondary-deviance` (دفعة 2، 2026-09-14)
+- [x] نظرية الارتباط التفاضلي وجرائم الياقات البيضاء (Sutherland's Differential Association Theory) — `sch-sutherland-differential-association` (دفعة 2، 2026-09-14)
+- [x] سوسيولوجيا الانفعالات والعمل العاطفي (Hochschild's Sociology of Emotions & Emotional Labor) — `sch-hochschild-emotional-labor` (دفعة 2، 2026-09-14)
+- [x] سوسيولوجيا سلاسل الرعاية العالمية والوردية الثانية (Hochschild's Care Work Sociology) — `sch-hochschild-care-work` (دفعة 2، 2026-09-14)
+- [x] طقوس التفاعل اليومي وحفظ ماء الوجه (Goffmanian Interaction Rituals & Face-Work) — `sch-goffmanian-interaction-rituals` (دفعة 2، 2026-09-14)
+- [x] مدرسة النظرية المجذرة السوسيولوجية (Grounded Theory School: Glaser & Strauss) — `sch-grounded-theory-school` (دفعة 2، 2026-09-14)
+- [x] دراسات المتروبوليس الأسود والتفاوت العرقي (Drake & Cayton's Black Metropolis School) — `sch-drake-cayton-black-metropolis` (دفعة 2، 2026-09-14)
+- [x] التفاعلية الرمزية البنائية ونظرية الهوية (Stryker & Burke's Structural Interactionism) — `sch-stryker-burke-structural-interactionism` (دفعة 2، 2026-09-14)
 
 ---
 
