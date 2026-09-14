@@ -20,7 +20,9 @@ related:
 - id: "thk-st-clair-drake", title: "سينت كلير دريك", type: "مفكر"
 - id: "thk-cayton", title: "هوراس كايتون", type: "مفكر"
 - id: "con-residential-segregation-black-metropolis", title: "الفصل السكني في المتروبوليس الأسود", type: "مفهوم"
+- id: "wrk-black-metropolis-drake-cayton", title: "المتروبوليس الأسود: دراسة الحياة الزنجية في مدينة شمالية", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-14:** أُضيف `wrk-black-metropolis-drake-cayton` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2)."
   - "**سُدَّ 2026-09-14 (الدفعة 31):** كُتب `thk-st-clair-drake`، `thk-cayton`، و`con-residential-segregation-black-metropolis` وأُضيفت روابطها هنا."
 ---
