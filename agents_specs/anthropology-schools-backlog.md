@@ -90,8 +90,8 @@
 
 - [x] المنعطفُ الأنطولوجيّ (The Ontological Turn — Viveiros de Castro, Holbraad) — `sch-ontological-turn`، `thk-eduardo-viveiros-de-castro`
 - [x] المنظوريةُ الأمازونية وتعدّدُ الطبائع (Amerindian Perspectivism) — `sch-amerindian-perspectivism`
-- [ ] ما وراء الطبيعة/الثقافة (Descola's *Beyond Nature and Culture*)
-- [ ] أنثروبولوجيا السكن والمهارة (Ingold — Dwelling, Lines, Making)
+- [x] ما وراء الطبيعة/الثقافة (Descola's *Beyond Nature and Culture*) — `sch-descola-beyond-nature-culture`، `thk-philippe-descola`
+- [x] أنثروبولوجيا السكن والمهارة (Ingold — Dwelling, Lines, Making) — `sch-ingold-dwelling-perspective`، `thk-tim-ingold`
 - [ ] الأنثروبولوجيا متعدّدةُ الأنواع (Multispecies Ethnography — Haraway, Tsing, Kohn)
 - [ ] أنثروبولوجيا العلم والتقانة (STS Ethnography — Latour, Rabinow)
 - [ ] الأنثروبولوجيا الرقمية والإثنوغرافيا الشبكية (Digital Anthropology — Miller, Boellstorff)
