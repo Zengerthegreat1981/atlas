@@ -20,6 +20,7 @@ related:
 - id: "sch-said-sociology-of-orientalism", title: "النقد السوسيولوجي للاستشراق والتمثيل الإمبريالي", type: "مدرسة"
 - id: "thk-ranajit-guha", title: "رانجيت غوها", type: "مفكر"
 - id: "con-subaltern-spivak-concept", title: "التابع والمسلوب الصوت (The Subaltern)", type: "مفهوم"
+- id: "wrk-can-the-subaltern-speak", title: "هل يستطيع التابع أن يتكلم؟ (Can the Subaltern Speak?, 1988)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7). ملف `thk-spivak` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-ranajit-guha`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."

@@ -19,6 +19,7 @@ edges:
 related:
 - id: "thk-alwardi", title: "علي الوردي", type: "مفكر"
 - id: "con-dual-personality-alwardi", title: "ازدواجية الشخصية وصراع البداوة والحضارة (Dual Personality)", type: "مفهوم"
+- id: "wrk-shakhsiyat-al-fard-al-iraqi-alwardi", title: "شخصية الفرد العراقي", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7)، ويكمل حزمة `sch-contemporary-arab-sociology` المنشأة في الدفعة 0."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-alwardi`."

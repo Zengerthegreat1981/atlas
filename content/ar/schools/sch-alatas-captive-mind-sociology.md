@@ -18,6 +18,7 @@ edges: []
 related:
 - id: "thk-syed-hussein-alatas", title: "سيد حسين العطاس", type: "مفكر"
 - id: "con-captive-mind-alatas", title: "العقل الأسير والتبعية الأكاديمية (Captive Mind)", type: "مفهوم"
+- id: "wrk-captive-mind-creative-development-alatas", title: "العقل الأسير والتنمية الإبداعية (The Captive Mind and Creative Development)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7)."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-syed-hussein-alatas`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."

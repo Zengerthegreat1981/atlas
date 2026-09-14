@@ -19,6 +19,7 @@ edges:
 related:
 - id: "thk-ibn-khaldun", title: "عبد الرحمن بن محمد بن خلدون الحضرمي", type: "مفكر"
 - id: "con-asabiyyah-ibn-khaldun", title: "العصبية عند ابن خلدون", type: "مفهوم"
+- id: "wrk-al-muqaddimah-ibn-khaldun", title: "مقدمة ابن خلدون في علم العمران البشري", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7)، ويعرض جانباً محدداً من مشروع ابن خلدون (دورة البداوة/الحضارة التاريخية) متمايزاً عن `sch-khaldunian-ilm-al-umran` (الدفعة 1) الذي يعرض المشروع العام. `belongs_to` يربطه بها بوصفها الإطار الأشمل."
   - "ملف `thk-ibn-khaldun` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده."
