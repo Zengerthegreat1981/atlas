@@ -18,6 +18,7 @@ edges: []
 related:
 - id: "thk-hartmut-rosa", title: "هارتموت روزا", type: "مفكر"
 - id: "con-social-acceleration-rosa", title: "التسارع الاجتماعي (Social Acceleration)", type: "مفهوم"
+- id: "wrk-social-acceleration-rosa", title: "التسارع الاجتماعي: نظرية جديدة للحداثة (Social Acceleration)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 6 من مهمة بناء قسم علم الاجتماع (القسم 6)."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-hartmut-rosa`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."

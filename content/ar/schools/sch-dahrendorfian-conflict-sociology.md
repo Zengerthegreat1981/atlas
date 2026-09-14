@@ -18,7 +18,9 @@ edges: []
 related:
 - id: "thk-dahrendorf", title: "رالف دارندورف", type: "مفكر"
 - id: "con-authority-conflict-dahrendorf", title: "صراع السلطة في الجمعيات المنسَّقة قسرياً (Authority Conflict)", type: "مفهوم"
+- id: "dbt-dahrendorf-marx-authority-vs-property", title: "جدل مصدر الصراع الاجتماعي: السلطة عند دارندورف مقابل الملكية عند ماركس", type: "جدل"
 gaps:
+  - "**تعميقٌ 2026-09-14:** أُضيف `dbt-dahrendorf-marx-authority-vs-property` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4 من `sociology-schools-backlog.md`)."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-dahrendorf`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
 ---

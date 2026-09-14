@@ -19,6 +19,7 @@ related:
 - id: "sch-environmental-sociology-sustainability", title: "السوسيولوجيا البيئية والتنمية المستدامة", type: "مدرسة"
 - id: "thk-john-bellamy-foster", title: "جون بيلامي فوستر", type: "مفكر"
 - id: "con-metabolic-rift-foster", title: "الصدع الأيضي (Metabolic Rift)", type: "مفهوم"
+- id: "wrk-marxs-ecology-foster", title: "بيئة ماركس (Marx's Ecology)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 6 من مهمة بناء قسم علم الاجتماع (القسم 6)."
   - "**سُدَّ جزئياً 2026-09-14 (دفعة تالية):** أُنشئ `thk-john-bellamy-foster`. ألان شنايبرغ (`thk-allan-schnaiberg`) لا يزال بلا ملف مستقل؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً."

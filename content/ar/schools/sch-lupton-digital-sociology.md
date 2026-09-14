@@ -18,6 +18,7 @@ edges: []
 related:
 - id: "thk-deborah-lupton", title: "ديبورا لوبتون", type: "مفكر"
 - id: "con-data-governmentality-lupton", title: "حكومية البيانات والقياسية الذاتية (Data Governmentality)", type: "مفهوم"
+- id: "wrk-digital-sociology-lupton", title: "السوسيولوجيا الرقمية (Digital Sociology)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 6 من مهمة بناء قسم علم الاجتماع (القسم 6)."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-deborah-lupton`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
