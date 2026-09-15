@@ -16,7 +16,10 @@ edges:
 - rel: "belongs_to", target: "sch-sociology-of-social-movements-collective-action", target_type: "مدرسة"
 related:
 - id: "con-political-process-model-mcadam", title: "نموذج العملية السياسية (Political Process Model)", type: "مفهوم"
+- id: "thk-david-snow", title: "ديفيد سنو", type: "مفكر"
+- id: "thk-robert-benford", title: "روبرت بنفورد", type: "مفكر"
 gaps:
+  - "**سُدَّت الفجوة 2026-09-15:** كُتب `thk-david-snow` و`thk-robert-benford` وأُضيفت روابطهما هنا."
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بتعميق حزم القسم 8، لإفراد «تأطير الاحتجاج» المذكور إجمالاً في متن المدرسة الأم (أحد الأطر الثلاثة الكبرى) بملفٍّ مفهومٍ مستقل. ديفيد سنو (`thk-david-snow`) وروبرت بنفورد (`thk-robert-benford`) لا يزالان بلا ملفات مستقلة في قسم علم الاجتماع."
 ---
 
