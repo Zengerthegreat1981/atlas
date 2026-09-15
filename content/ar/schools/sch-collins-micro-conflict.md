@@ -21,6 +21,7 @@ related:
 - id: "sch-goffmanian-interaction-rituals", title: "طقوس التفاعل اليومي وحفظ ماء الوجه", type: "مدرسة"
 - id: "dbt-collins-micro-macro-synthesis", title: "جدل التركيب المجهري-الكلي: هل البنية الاجتماعية «حقيقية» أم تراكم تفاعلات؟", type: "جدل"
 - id: "wrk-conflict-sociology-collins-1975", title: "علم اجتماع الصراع: نحو علم تفسيري", type: "عمل / كتاب"
+- id: "wrk-interaction-ritual-chains-collins", title: "سلاسل طقوس التفاعل", type: "عمل / كتاب"
 gaps:
   - "**تعميقٌ 2026-09-15:** أُضيف `wrk-conflict-sociology-collins-1975` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)."
