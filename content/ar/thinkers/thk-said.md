@@ -21,8 +21,10 @@ related:
 - id: "ctx-early-zionism-colonial-palestine", title: "سياق الصهيونية المبكرة واستعمار فلسطين وأثره على الفكر النقدي", type: "سياق/تقليد"
 - id: "crt-said-orientalism-epistemic-critique", title: "نقد إدوارد سعيد للاستشراق كبنية معرفية سلطوية", type: "نقد خارجي موثَّق"
 - id: "wrk-orientalism-edward-said", title: "الاستشراق لإدوارد سعيد (Orientalism)", type: "عمل / كتاب"
+- id: "wrk-culture-and-imperialism-said", title: "الثقافة والإمبريالية", type: "عمل / كتاب"
 - id: "thk-halim-barakat", title: "حليم بركات", type: "مفكر"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `wrk-culture-and-imperialism-said` (part: sociology، belongs_to sch-said-sociology-of-orientalism) وربطه هنا."
   - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشاراتٌ إلى 3 عقدةً كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "رابط مقترح لـ«ميشيل فوكو» (thk-foucault) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "لم تُراجع بعدُ طبعة Pantheon الأصلية لـ *Orientalism* (1978)."
