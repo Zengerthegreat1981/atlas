@@ -14,6 +14,7 @@ edges:
 - rel: "belongs_to", target: "sch-lemert-primary-secondary-deviance", target_type: "مدرسة"
 related:
 - id: "sch-lemert-primary-secondary-deviance", title: "سوسيولوجيا الانحراف البنائية", type: "مدرسة"
+- id: "stu-challenger-launch-decision-vaughan", title: "قرار إطلاق تشالنجر", type: "دراسة وبحث"
 gaps:
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق (فحص ملاحظات gaps وقراءة متن مدارس الأقسام) بسدّ فجوة نوع `stu-`. كاي إريكسون، عالم اجتماع أمريكي (ابن إريك إريكسون عالم النفس)، لا يزال بلا ملف مستقل في الأطلس. الإسناد إلى `sch-lemert-primary-secondary-deviance` تقريبي بحكم القرابة المنهجية العامة لتقليد شيكاغو التفاعلي؛ لا مدرسة متخصصة في سوسيولوجيا الكوارث معتمدة بعد في الأطلس."
 ---
