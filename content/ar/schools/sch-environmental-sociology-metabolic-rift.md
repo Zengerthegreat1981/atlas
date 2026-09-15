@@ -21,6 +21,7 @@ related:
 - id: "con-metabolic-rift-foster", title: "الصدع الأيضي (Metabolic Rift)", type: "مفهوم"
 - id: "wrk-marxs-ecology-foster", title: "بيئة ماركس (Marx's Ecology)", type: "عمل / كتاب"
 - id: "thk-allan-schnaiberg", title: "ألان شنايبرغ", type: "مفكر"
+- id: "wrk-environment-surplus-scarcity-schnaiberg", title: "البيئة: من الوفرة إلى الندرة (The Environment: From Surplus to Scarcity)", type: "عمل / كتاب"
 gaps:
   - "**سُدَّت الفجوة 2026-09-15:** كُتب `thk-allan-schnaiberg` وأُضيف رابطه هنا."
   - "هذا الملف أُنشئ في الدفعة 6 من مهمة بناء قسم علم الاجتماع (القسم 6)."

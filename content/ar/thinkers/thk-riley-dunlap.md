@@ -18,9 +18,10 @@ related:
 - id: "sch-environmental-sociology-sustainability", title: "السوسيولوجيا البيئية والتنمية المستدامة", type: "مدرسة"
 - id: "sch-environmental-sociology-metabolic-rift", title: "السوسيولوجيا البيئية ونظرية الصدع الأيضي", type: "مدرسة"
 - id: "thk-william-catton", title: "ويليام كاتون", type: "مفكر"
+- id: "wrk-environmental-sociology-new-paradigm-catton-dunlap", title: "السوسيولوجيا البيئية: بارادايم جديد (Environmental Sociology: A New Paradigm)", type: "عمل / كتاب"
 gaps:
   - "**تصحيحُ ملاحظةٍ باتت كاذبة 2026-09-15:** `thk-william-catton` موجودٌ بالفعل (كُتب في دفعةٍ سابقة)؛ أُضيف رابطه هنا."
-  - "شريكه ويليام كاتون في المقالة التأسيسية لا يزال بلا ملف مستقل؛ الإسناد المشترك موثَّق نصياً هنا."
+  - "**تعميقٌ 2026-09-15 (ثانٍ):** أُضيف `wrk-environmental-sociology-new-paradigm-catton-dunlap` (المقالة التأسيسية المشتركة) وربطه هنا."
 ---
 
 # ريلي دنلاب

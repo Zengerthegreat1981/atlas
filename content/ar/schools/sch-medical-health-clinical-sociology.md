@@ -21,6 +21,7 @@ related:
 - id: "con-sick-role-parsons", title: "دور المريض (Sick Role)", type: "مفهوم"
 - id: "dbt-parsons-freidson-sick-role-vs-medical-dominance", title: "جدل السوسيولوجيا الطبية: «دور المريض» التكاملي عند بارسونز مقابل نقد الهيمنة المهنية عند فريدسون", type: "جدل"
 - id: "br-medicalization-biopolitics-current", title: "تيار الطبنة والسياسة الحيوية: من السلطة المهنية الطبية إلى المواطنة البيولوجية", type: "تيار"
+- id: "wrk-profession-of-medicine-freidson", title: "مهنة الطب (Profession of Medicine)", type: "عمل / كتاب"
 gaps:
   - "**تعميقٌ 2026-09-15:** أُضيف `con-sick-role-parsons` (مفهوم بارسونز الأصلي المذكور في المتن) وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8). يتقاطع جزئياً مع `sch-medicalization-biosociality` (الدفعة 6) الذي يركّز على توسع التطبيب، بينما هذا الملف يغطي الحقل الأوسع بدءاً من دور المريض المؤسسي عند بارسونز ومهنة الطب عند فريدسون."

@@ -20,6 +20,7 @@ related:
 - id: "thk-riley-dunlap", title: "ريلي دنلاب", type: "مفكر"
 - id: "con-new-ecological-paradigm-dunlap", title: "النموذج البيئي الجديد ونقد الاستثناء الإنساني (New Ecological Paradigm)", type: "مفهوم"
 - id: "thk-william-catton", title: "ويليام كاتون", type: "مفكر"
+- id: "wrk-environmental-sociology-new-paradigm-catton-dunlap", title: "السوسيولوجيا البيئية: بارادايم جديد (Environmental Sociology: A New Paradigm)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8)، ويكمل `sch-environmental-sociology-metabolic-rift` (الدفعة 6) بزاوية تأسيسية مختلفة: هذا الملف يعرض المقالة المؤسِّسة للحقل نفسه (كاتون ودنلاب)، بينما ذلك يعرض تطويراً ماركسياً لاحقاً (فوستر وشنايبرغ) داخل الحقل نفسه."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-riley-dunlap`."

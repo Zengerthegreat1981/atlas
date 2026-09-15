@@ -19,6 +19,7 @@ edges:
 related:
 - id: "sch-environmental-sociology-metabolic-rift", title: "السوسيولوجيا البيئية ونظرية الصدع الأيضي", type: "مدرسة"
 - id: "thk-john-bellamy-foster", title: "جون بيلامي فوستر", type: "مفكر"
+- id: "wrk-environment-surplus-scarcity-schnaiberg", title: "البيئة: من الوفرة إلى الندرة (The Environment: From Surplus to Scarcity)", type: "عمل / كتاب"
 gaps:
   - "أُنشئ 2026-09-15 تنفيذاً لتوجيه المنسِّق (قراءة مباشرة لمتن مدارس الأقسام 1-8)، سادّاً فجوةً موثقةً صراحةً في `gaps` ملف `sch-environmental-sociology-metabolic-rift` القائم."
 ---

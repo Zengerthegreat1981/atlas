@@ -19,6 +19,7 @@ edges:
 related:
 - id: "thk-riley-dunlap", title: "ريلي دنلاب", type: "مفكر"
 - id: "con-new-ecological-paradigm-dunlap", title: "النموذج البيئي الجديد ونقد الاستثناء الإنساني (New Ecological Paradigm)", type: "مفهوم"
+- id: "wrk-environmental-sociology-new-paradigm-catton-dunlap", title: "السوسيولوجيا البيئية: بارادايم جديد (Environmental Sociology: A New Paradigm)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بتعميق حزم القسم 8، لسدّ الفجوة المذكورة صراحة في `gaps` ملف `sch-environmental-sociology-sustainability`. كتابه المنفرد اللاحق *Overshoot* (1980) مذكورٌ هنا دون تفصيل مضمونه الكامل."
 ---
