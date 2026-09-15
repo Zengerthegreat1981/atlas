@@ -16,6 +16,7 @@ related:
 - id: "sch-whyte-participant-observation", title: "سوسيولوجيا الملاحظة بالمشاركة والمجتمعات الهامشية", type: "مدرسة"
 - id: "stu-gang-leader-for-a-day-venkatesh", title: "زعيم عصابة ليوم واحد: أخصائي اجتماعي مارق يتجول بين الأزقة", type: "دراسة وبحث"
 - id: "stu-righteous-dopefiend-bourgois-schonberg", title: "مدمنٌ بارٌّ", type: "دراسة وبحث"
+- id: "stu-cocaine-kids-terry-williams", title: "أطفال الكوكايين", type: "دراسة وبحث"
 gaps:
   - "أُنشئ 2026-09-15 تنفيذاً لتوجيه المنسِّق. لا ملف مستقل بعد لعالم الأنثروبولوجيا فيليب بورغوا (Philippe Bourgois) في الأطلس؛ العمل أنثروبولوجي المنهج بقدر ما هو سوسيولوجي التأثير، فأُدرج هنا لتأثيره المباشر في علم اجتماع الفقر الحضري الأمريكي."
 ---
