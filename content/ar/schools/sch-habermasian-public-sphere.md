@@ -21,7 +21,9 @@ related:
 - id: "sch-habermasian-communicative-action", title: "نظرية الفعل التواصلي واستعمار عالم الحياة", type: "مدرسة"
 - id: "con-public-sphere-offentlichkeit", title: "الفضاء العام الديمقراطي (Public Sphere / Öffentlichkeit)", type: "مفهوم"
 - id: "dbt-habermas-fraser-public-sphere-exclusion", title: "جدل المجال العام الواحد المثالي عند هابرماس مقابل الأجهزة العامة الفرعية المضادة عند فريزر", type: "جدل"
+- id: "wrk-structural-transformation-public-sphere-habermas", title: "التحول البنيوي للفضاء العام ليورغن هابرماس", type: "عمل / كتاب"
 gaps:
+  - "**تصحيحُ ملاحظةٍ باتت كاذبة 2026-09-15:** العمل المحوري لهذا الملف (*التحول البنيوي للمجال العام*، 1962) موثَّقٌ بالفعل بملفٍّ مستقل (`wrk-structural-transformation-public-sphere-habermas`، part: philosophy)، لكنه لم يكن مربوطاً بهذا الملف السوسيولوجي؛ أُضيف عبر `related` لا `belongs_to` (اختلاف `part`)."
   - "**تعميقٌ 2026-09-14:** أُضيف `dbt-habermas-fraser-public-sphere-exclusion` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)، ويكمل `sch-frankfurt-critical-sociology` المنشأ في الدفعة نفسها. ملف `thk-habermas` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده."
 ---

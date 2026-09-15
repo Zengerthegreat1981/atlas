@@ -18,7 +18,9 @@ edges:
 - rel: "authored_by", target: "thk-marcuse", target_type: "مفكر"
 related:
 - id: "thk-marcuse", title: "هربرت ماركوزه", type: "مفكر"
+- id: "sch-marcusean-one-dimensionality", title: "سوسيولوجيا المجتمع الصناعي أحادي البعد", type: "مدرسة"
 gaps:
+  - "**رُبط 2026-09-15:** أُضيفت إشارةٌ إلى `sch-marcusean-one-dimensionality` (القراءة السوسيولوجية التطبيقية للعمل نفسه، part: \"sociology\") عبر `related` لا `belongs_to` لاختلاف `part`."
   - "لم يثبت وجود ترجمة عربية منشورة لهذا العمل: بُحث عن مترجم وناشر وسنة ولم يُعثر على أيٍّ منها."
   - "المخطوطات والمسوّدات السابقة على النشر لم تُراجع من مصدر أولي."
 ---
