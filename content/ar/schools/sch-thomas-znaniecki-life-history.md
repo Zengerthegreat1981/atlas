@@ -21,6 +21,7 @@ related:
 - id: "thk-znaniecki", title: "فلوريان زنانييكي", type: "مفكر"
 - id: "con-thomas-theorem", title: "نظرية توماس (Thomas Theorem)", type: "مفهوم"
 - id: "stu-polish-peasant-thomas-znaniecki", title: "الفلاح البولندي في أوروبا وأمريكا", type: "دراسة وبحث"
+- id: "dbt-blumer-appraisal-polish-peasant-methodology", title: "جدل شرعية الوثيقة الشخصية: تقييم بلومر النقدي (1939) لمنهج «الفلاح البولندي» عند توماس وزنانييكي", type: "جدل"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2)."
   - "**سُدَّ 2026-09-14 (الدفعة 15):** كُتب `thk-wi-thomas`، `thk-znaniecki`، `con-thomas-theorem`، و`stu-polish-peasant-thomas-znaniecki`، وأُضيفت روابطها هنا."
