@@ -17,8 +17,11 @@ edges:
 - rel: "belongs_to", target: "sch-sociology-of-education-cultural-capital", target_type: "مدرسة"
 related:
 - id: "ins-hierarchical-linear-modeling", title: "النمذجة الخطية الهرمية (Hierarchical Linear Modeling)", type: "منهج/أداة بحث"
+- id: "thk-coleman", title: "جيمس كولمان", type: "مفكر"
+- id: "br-education-social-reproduction-current", title: "تيار سوسيولوجيا التعليم وإعادة الإنتاج الاجتماعي: من بورديو وبرنشتاين إلى تقرير كولمان", type: "تيار"
 gaps:
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بسدّ فجوة نوع `evt-`. جيمس كولمان (James S. Coleman)، معدُّ التقرير الرئيسي، لا يزال بلا ملف مستقل باسم مختلف مؤكَّد؛ ذُكر بالاسم دون `related` مباشر إليه."
+  - "**تصحيحٌ 2026-09-15:** `thk-coleman` موجودٌ بالفعل (تحقَّقتُ مباشرةً)؛ أُضيف رابطه هنا، وأُضيف أيضاً `br-education-social-reproduction-current`."
 ---
 
 # صدور تقرير كولمان «المساواة في الفرص التعليمية» وصدمة الاكتشاف حول أثر الأقران (1966)

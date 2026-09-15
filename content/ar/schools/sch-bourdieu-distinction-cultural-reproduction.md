@@ -21,8 +21,10 @@ related:
 - id: "con-conspicuous-consumption", title: "الاستهلاك اللافت (Conspicuous Consumption)", type: "مفهوم"
 - id: "thk-bourdieu", title: "بيير بورديو", type: "مفكر"
 - id: "wrk-la-distinction-bourdieu", title: "التمايز: نقد اجتماعي للحكم الذوقي (La Distinction)", type: "عمل / كتاب"
+- id: "br-education-social-reproduction-current", title: "تيار سوسيولوجيا التعليم وإعادة الإنتاج الاجتماعي: من بورديو وبرنشتاين إلى تقرير كولمان", type: "تيار"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5)، ويكمل `sch-bourdieu-practice-habitus` المنشأ في الدفعة نفسها."
+  - "**تعميقٌ 2026-09-15:** أُضيف `br-education-social-reproduction-current` وربطه هنا."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُضيف رابط `thk-bourdieu` بعد إنشائه (part: sociology)."
 ---
 
