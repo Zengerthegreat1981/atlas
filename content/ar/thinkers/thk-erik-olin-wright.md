@@ -17,7 +17,9 @@ edges:
 related:
 - id: "sch-wright-analytical-marxist-class", title: "التحليل الطبقي والمواقع المتناقضة", type: "مدرسة"
 - id: "wrk-classes-erik-olin-wright", title: "الطبقات", type: "عمل / كتاب"
+- id: "wrk-class-crisis-state-wright", title: "الطبقة والأزمة والدولة", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `wrk-class-crisis-state-wright` وربطه هنا."
   - "**تكثيفٌ 2026-09-15:** أُضيف `wrk-classes-erik-olin-wright` وربطه هنا."
   - "مشروعه اللاحق «البدائل الحقيقية الطوباوية» (Envisioning Real Utopias، 2010) خارج نطاق هذا الملف رغم استمراريته الفكرية معه."
 ---

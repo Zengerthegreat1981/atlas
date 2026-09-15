@@ -17,7 +17,9 @@ edges:
 related:
 - id: "sch-miliband-poulantzas-state-theory", title: "سوسيولوجيا الدولة الرأسمالية", type: "مدرسة"
 - id: "thk-poulantzas", title: "نيكوس بولانتزاس", type: "مفكر"
+- id: "wrk-state-capitalist-society-miliband", title: "الدولة في المجتمع الرأسمالي", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `wrk-state-capitalist-society-miliband` وربطه هنا."
   - "مناظرته الشهيرة مع بولانتزاس (1969-1973) حول طبيعة الدولة الرأسمالية — أداتية مقابل بنيوية — كانت خلافاً حاداً لا تعاوناً؛ هذا الملف يوثّق موقفه هو تحديداً."
 ---
 

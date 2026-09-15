@@ -21,7 +21,9 @@ related:
 - id: "thk-poulantzas", title: "نيكوس بولانتزاس", type: "مفكر"
 - id: "con-relative-autonomy-state-poulantzas", title: "الاستقلالية النسبية للدولة الرأسمالية (Relative Autonomy)", type: "مفهوم"
 - id: "dbt-miliband-poulantzas-instrumentalist-vs-structuralist-state", title: "مناظرة ميليباند-بولانتزاس: التفسير الأداتي مقابل التفسير البنيوي لسلطة الدولة", type: "جدل"
+- id: "wrk-state-capitalist-society-miliband", title: "الدولة في المجتمع الرأسمالي", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `wrk-state-capitalist-society-miliband` وربطه هنا."
   - "**تعميقٌ 2026-09-14:** أُضيف `dbt-miliband-poulantzas-instrumentalist-vs-structuralist-state` (يُفرد المناظرة الموصوفة في المتن بملفٍّ جدلٍ مستقل) وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)، ويكمل `sch-althusserian-structural-marxism` المنشأ في الدفعة نفسها."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-miliband` و`thk-poulantzas`."
