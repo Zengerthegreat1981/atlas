@@ -20,6 +20,7 @@ related:
 - id: "sch-blau-structural-exchange", title: "نظرية التبادل البنائي والتفاوت الطبقي", type: "مدرسة"
 - id: "thk-peter-blau", title: "بيتر بلاو", type: "مفكر"
 - id: "con-power-imbalance-exchange-blau", title: "السلطة وعدم التكافؤ في التبادل عند بلاو", type: "مفهوم"
+- id: "wrk-inequality-heterogeneity-blau", title: "اللامساواة والتغايُر: نظرية أولية للبنية الاجتماعية", type: "عمل / كتاب"
 gaps:
   - "أُنشئ 2026-09-15 تنفيذاً لتوجيه المنسِّق (تعميق wrk-، قراءة مباشرة لمتن مدارس/مفكري الأقسام 1-8). تحقّقتُ عبر grep من غياب ملفٍ مستقل لهذا العمل الرئيسي لبلاو رغم توثيق مفهومه المركزي (con-power-imbalance-exchange-blau) بملفٍّ مستقل بالفعل."
 ---

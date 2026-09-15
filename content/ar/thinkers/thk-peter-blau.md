@@ -20,8 +20,9 @@ related:
 - id: "con-power-imbalance-exchange-blau", title: "السلطة وعدم التكافؤ في التبادل عند بلاو", type: "مفهوم"
 - id: "thk-homans", title: "جورج هومانز", type: "مفكر"
 - id: "wrk-exchange-and-power-social-life-blau", title: "التبادل والسلطة في الحياة الاجتماعية", type: "عمل / كتاب"
+- id: "wrk-inequality-heterogeneity-blau", title: "اللامساواة والتغايُر: نظرية أولية للبنية الاجتماعية", type: "عمل / كتاب"
 gaps:
-  - "**تعميقٌ 2026-09-15:** أُضيف `wrk-exchange-and-power-social-life-blau` وربطه هنا."
+  - "**تعميقٌ 2026-09-15:** أُضيفت `wrk-exchange-and-power-social-life-blau` و`wrk-inequality-heterogeneity-blau` وربطهما هنا."
   - "هذا الملف أُنشئ في الدفعة 43 (مرحلة الحزم). هاجر بلاو من النمسا إلى أمريكا هارباً من النازية عام 1939؛ هذا السياق السيري غير مفصَّل هنا. أسهم بلاو أيضاً في علم اجتماع التنظيمات الرسمية (دراساته الميدانية للبيروقراطية)."
 ---
 
