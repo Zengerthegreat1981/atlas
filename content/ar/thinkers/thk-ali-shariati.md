@@ -17,8 +17,9 @@ edges:
 related:
 - id: "sch-laroui-shariati-critical-arab-islamic-sociology", title: "التاريخانية والسوسيولوجيا النقدية العربية والإسلامية", type: "مدرسة"
 - id: "thk-abdallah-laroui", title: "عبد الله العروي", type: "مفكر"
+- id: "thk-georges-gurvitch", title: "جورج غورفيتش", type: "مفكر"
 gaps:
-  - "علاقته الفكرية بأستاذه جورج غورفيتز (عالم اجتماع فرنسي، أشرف عليه في السوربون) لم تُستوفَ هنا بالتفصيل."
+  - "**سُدَّت الفجوة 2026-09-15:** كُتب `thk-georges-gurvitch` (أستاذه المشرف في السوربون) وأُضيف رابطه هنا."
 ---
 
 # علي شريعتي
