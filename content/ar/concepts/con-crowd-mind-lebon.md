@@ -15,6 +15,7 @@ edges:
 - rel: "belongs_to", target: "sch-tarde-lebon-crowd-theory", target_type: "مدرسة"
 related:
 - id: "thk-lebon", title: "غوستاف لوبون", type: "مفكر"
+- id: "crt-methodological-critique-lebon-crowd-psychology", title: "النقد المنهجي التاريخي لسيكولوجيا الجمهور اللوبونية: غياب الأساس التجريبي والتبسيط المفرط", type: "نقد خارجي موثَّق"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 11 (مرحلة الحزم). يقتصر على مساهمة لوبون في سيكولوجيا الجماهير؛ مواقفه العنصرية الموثَّقة في كتاباتٍ أخرى غير متصلة بهذا المفهوم مذكورة بتحذير صريح في `thk-lebon` لا هنا."
 ---
