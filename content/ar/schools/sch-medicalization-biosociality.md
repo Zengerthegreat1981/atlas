@@ -19,6 +19,7 @@ related:
 - id: "thk-nikolas-rose", title: "نيكولاس روز", type: "مفكر"
 - id: "con-biosociality-rose", title: "التجمعية الحيوية والمواطنة البيولوجية (Biosociality)", type: "مفهوم"
 - id: "wrk-politics-of-life-itself-rose", title: "سياسة الحياة نفسها (The Politics of Life Itself)", type: "عمل / كتاب"
+- id: "br-medicalization-biopolitics-current", title: "تيار الطبنة والسياسة الحيوية: من السلطة المهنية الطبية إلى المواطنة البيولوجية", type: "تيار"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 6 من مهمة بناء قسم علم الاجتماع (القسم 6)."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-nikolas-rose`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها. تنبيه: ملف `thk-econrad` القائم شخصٌ مختلفٌ تماماً عن بيتر كونراد (Peter Conrad) عالم اجتماع التطبيب؛ لم يُستخدم خطأً هنا."
