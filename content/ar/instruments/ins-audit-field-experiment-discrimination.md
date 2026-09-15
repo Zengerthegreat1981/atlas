@@ -16,6 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-sociology-of-work-occupations", target_type: "مدرسة"
 related:
 - id: "ins-natural-experiment-method", title: "التجربة الطبيعية (Natural Experiment)", type: "منهج/أداة بحث"
+- id: "ins-factorial-survey-vignette-method", title: "منهج المسح العاملي بالسيناريوهات (Factorial Survey / Vignette Method)", type: "منهج/أداة بحث"
 gaps:
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بسدّ فجوة نوع `ins-`، مع التحقق المسبق من عدم تكراره مع `ins-natural-experiment-method`: ذلك المنهج يستغل تبايناً واقعياً غير مقصود، بينما هذا يصمِّم الباحث فيه تدخلاً تجريبياً مباشراً ومتحكَّماً به بالكامل (إرسال سير ذاتية مصطنعة) — تجربة حقيقية مُتحكَّم بها لا استغلالاً لواقع قائم. مارينا بيرتراند وسنداهيل مولاناثان (Marianne Bertrand & Sendhil Mullainathan)، أصحاب أشهر تطبيق للمنهج، لا يوجد لهما ملف مستقل بعد."
 ---
