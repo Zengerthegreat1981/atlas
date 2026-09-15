@@ -19,7 +19,10 @@ related:
 - id: "thk-ann-oakley", title: "آن أوكلي", type: "مفكر"
 - id: "con-sociology-of-housework-oakley", title: "سوسيولوجيا العمل المنزلي غير المرئي (Sociology of Housework)", type: "مفهوم"
 - id: "wrk-sociology-of-housework-oakley", title: "سوسيولوجيا العمل المنزلي (The Sociology of Housework)", type: "عمل / كتاب"
+- id: "wrk-sex-gender-society-oakley", title: "الجنس والجندر والمجتمع", type: "عمل / كتاب"
+- id: "con-sex-gender-distinction-oakley", title: "التمييز بين الجنس والجندر عند أوكلي", type: "مفهوم"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيفت `wrk-sex-gender-society-oakley` و`con-sex-gender-distinction-oakley` وربطهما هنا."
   - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7)."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-ann-oakley`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
 ---

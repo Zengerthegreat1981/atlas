@@ -16,7 +16,9 @@ edges:
 - rel: "belongs_to", target: "sch-oakley-housework-reproduction", target_type: "مدرسة"
 related:
 - id: "sch-oakley-housework-reproduction", title: "سوسيولوجيا العمل المنزلي وإعادة الإنتاج الجندري", type: "مدرسة"
+- id: "wrk-sex-gender-society-oakley", title: "الجنس والجندر والمجتمع", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `wrk-sex-gender-society-oakley` وربطه هنا."
   - "أعمالها اللاحقة في منهجية البحث النسوي والتجارب العشوائية المُحكَّمة في العلوم الاجتماعية لم تُستوفَ هنا."
 ---
 
