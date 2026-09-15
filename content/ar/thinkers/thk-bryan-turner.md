@@ -19,6 +19,7 @@ edges:
 related:
 - id: "sch-sociology-of-body-embodiment", title: "سوسيولوجيا الجسد والتجسيد الاجتماعي", type: "مدرسة"
 - id: "thk-chris-shilling", title: "كريس شيلينغ", type: "مفكر"
+- id: "wrk-body-and-society-turner", title: "الجسد والمجتمع (The Body and Society)", type: "عمل / كتاب"
 gaps:
   - "أُنشئ 2026-09-15 تنفيذاً لتوجيه المنسِّق (قراءة مباشرة لمتن مدارس الأقسام 1-8)، سادّاً فجوةً موثقةً صراحةً في `gaps` ملف `sch-sociology-of-body-embodiment` القائم."
 ---

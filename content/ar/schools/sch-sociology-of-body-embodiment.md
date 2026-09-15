@@ -20,8 +20,10 @@ related:
 - id: "con-body-project-physical-capital", title: "مشروع الجسد ورأس المال الجسدي (Body Project & Physical Capital)", type: "مفهوم"
 - id: "wrk-body-and-social-theory-shilling", title: "الجسد والنظرية الاجتماعية (The Body and Social Theory)", type: "عمل / كتاب"
 - id: "thk-bryan-turner", title: "براين ترنر", type: "مفكر"
+- id: "wrk-body-and-society-turner", title: "الجسد والمجتمع (The Body and Society)", type: "عمل / كتاب"
 gaps:
   - "**سُدَّت الفجوة 2026-09-15:** كُتب `thk-bryan-turner` وأُضيف رابطه هنا."
+  - "**تعميقٌ 2026-09-15 (ثانٍ):** أُضيف `wrk-body-and-society-turner` (يُفرد كتابه التأسيسي 1984) وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 6 من مهمة بناء قسم علم الاجتماع (القسم 6)."
   - "**سُدَّ جزئياً 2026-09-14 (دفعة تالية):** أُنشئ `thk-chris-shilling`. براين ترنر (`thk-bryan-turner`) لا يزال بلا ملف مستقل؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً."
 ---
