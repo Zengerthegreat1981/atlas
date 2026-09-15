@@ -20,6 +20,7 @@ related:
 - id: "con-network-exchange-power-dependence", title: "القوة والتبعية في شبكات التبادل عند كوك وويلر", type: "مفهوم"
 - id: "thk-david-willer", title: "ديفيد ويلر", type: "مفكر"
 - id: "wrk-social-exchange-power-networks-cook", title: "التبادل الاجتماعي والقوة في شبكات الهيكل (Social Exchange and Power in Network Structures)", type: "عمل / كتاب"
+- id: "thk-richard-emerson", title: "ريتشارد إم. إيمرسون", type: "مفكر"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 46 (مرحلة الحزم). أستاذة فخرية في جامعة ستانفورد؛ أسهمت أيضاً بأعمال مؤثرة عن سوسيولوجيا الثقة (Trust) خارج نطاق نظرية التبادل الشبكي المباشر، غير مفصَّلة هنا."
 ---
