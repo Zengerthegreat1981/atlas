@@ -19,6 +19,7 @@ related:
 - id: "thk-howard-becker", title: "هاورد بيكر", type: "مفكر"
 - id: "con-art-worlds-becker", title: "عوالم الفن التعاونية (Art Worlds)", type: "مفهوم"
 - id: "wrk-rules-of-art-bourdieu", title: "قواعد الفن", type: "عمل"
+- id: "crt-bourdieu-field-critique-becker-art-worlds-interactionism", title: "نقد بورديو البنيوي لتفاعلية بيكر التعاونية في سوسيولوجيا الفن", type: "نقد خارجي موثَّق"
 gaps:
   - "**تعميقٌ 2026-09-15:** أُضيف `wrk-rules-of-art-bourdieu` (يُفرد كتاب بورديو المذكور كمصدرٍ ثانٍ) وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8). هذا عملٌ آخر لهاورد بيكر (المرتبط أيضاً بـ`sch-becker-labeling-theory` في الدفعة 2 و`sch-visual-sociology-sensory-ethnography` في الدفعة 5)، لكن بموضوع مختلف تماماً (عوالم الفن التعاونية)؛ `belongs_to` تُرك فارغاً لعدم وجود جذر سوسيولوجي عام يجمع أعماله المتعددة."
