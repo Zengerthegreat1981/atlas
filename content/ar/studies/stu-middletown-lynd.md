@@ -15,6 +15,7 @@ edges:
 related:
 - id: "sch-whyte-participant-observation", title: "سوسيولوجيا الملاحظة بالمشاركة والمجتمعات الهامشية", type: "مدرسة"
 - id: "stu-elmtowns-youth-hollingshead", title: "شباب إلمتاون", type: "دراسة وبحث"
+- id: "stu-small-town-mass-society-vidich-bensman", title: "بلدة صغيرة في مجتمع جماهيري", type: "دراسة وبحث"
 gaps:
   - "أُنشئ 2026-09-15 تنفيذاً لتوجيه المنسِّق (دراسات ميدانية سوسيولوجية، القسم الفارغ `stu-`). لا ملف مستقل بعد لروبرت وهيلين ليند (Robert and Helen Lynd) في الأطلس؛ ذُكرا بالاسم دون `related` مباشر إليهما. دراسة المتابعة *Middletown in Transition* (1937) لم تُفصَّل هنا."
 ---
