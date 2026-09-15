@@ -19,9 +19,11 @@ related:
 - id: "thk-anthony-giddens", title: "أنتوني غيدنز", type: "مفكر"
 - id: "con-confluent-love-pure-relationship-giddens", title: "الحب التلاحمي والعلاقة الخالصة (Confluent Love)", type: "مفهوم"
 - id: "thk-robert-bales", title: "روبرت بيلز", type: "مفكر"
+- id: "dbt-parsons-giddens-functionalist-family-vs-pure-relationship", title: "جدل نظرية الأسرة: الأدوار الوظيفية الجندرية الثابتة عند بارسونز-بيلز مقابل «العلاقة الخالصة» المتفاوَضة عند غيدنز", type: "جدل"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8)."
   - "**سُدَّ 2026-09-15 (تعميقٌ):** أُنشئ `thk-robert-bales` وربطه هنا."
+  - "**تعميقٌ 2026-09-15 (ثانٍ):** أُضيف `dbt-parsons-giddens-functionalist-family-vs-pure-relationship` (يُفرد الجدل الموصوف في المتن بملفٍّ مستقل) وربطه هنا."
   - "ملف `thk-anthony-giddens` القائم موسومٌ `part: \"psychology\"`، فالإشارة إليه عبر `related` وحده؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً."
 ---
 

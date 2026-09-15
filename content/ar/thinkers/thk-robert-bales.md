@@ -18,6 +18,7 @@ edges:
 - rel: "belongs_to", target: "sch-sociology-of-family-gender-intimacy", target_type: "مدرسة"
 related:
 - id: "con-confluent-love-pure-relationship-giddens", title: "الحب التلاحمي والعلاقة الخالصة (Confluent Love)", type: "مفهوم"
+- id: "dbt-parsons-giddens-functionalist-family-vs-pure-relationship", title: "جدل نظرية الأسرة: الأدوار الوظيفية الجندرية الثابتة عند بارسونز-بيلز مقابل «العلاقة الخالصة» المتفاوَضة عند غيدنز", type: "جدل"
 gaps:
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بتعميق حزم القسم 8، لسدّ الفجوة المذكورة صراحة في `gaps` ملف `sch-sociology-of-family-gender-intimacy`. عمله المستقل في تحليل التفاعل الجماعي الصغير (Interaction Process Analysis) خارج سياق الأسرة لم يُستوفَ هنا."
 ---

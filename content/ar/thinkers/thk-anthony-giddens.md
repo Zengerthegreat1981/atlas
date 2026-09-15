@@ -17,6 +17,7 @@ related:
 - id: "thk-zygmunt-bauman", title: "زيجمونت باومان", type: "مفكر"
 - id: "sch-sociology-of-family-gender-intimacy", title: "سوسيولوجيا الأسرة والنوع الاجتماعي والعلاقات الحميمية", type: "مدرسة"
 - id: "con-confluent-love-pure-relationship-giddens", title: "الحب التلاحمي والعلاقة الخالصة (Confluent Love)", type: "مفهوم"
+- id: "dbt-parsons-giddens-functionalist-family-vs-pure-relationship", title: "جدل نظرية الأسرة: الأدوار الوظيفية الجندرية الثابتة عند بارسونز-بيلز مقابل «العلاقة الخالصة» المتفاوَضة عند غيدنز", type: "جدل"
 gaps:
   - "نظرية 'الحداثة المتأخرة' و'الحداثة المتطرّفة' عنده تستحق مقاربة مقارنة أعمق مع السيولة عند باومان."
   - "تأثيره كمدير لـ LSE (1997–2003) على سياسة 'الطريق الثالث' لبليير لم يُحلَّل في المصادر العربية."
