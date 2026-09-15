@@ -16,7 +16,9 @@ edges:
 - rel: "belongs_to", target: "sch-political-sociology-state-citizenship", target_type: "مدرسة"
 related:
 - id: "sch-political-sociology-state-citizenship", title: "السوسيولوجيا السياسية والدولة والمواطنة", type: "مدرسة"
+- id: "con-citizenship-social-class-marshall", title: "المواطنة والطبقة الاجتماعية عند مارشال", type: "مفهوم"
 gaps:
+  - "**تكثيفٌ 2026-09-15:** أُضيف `con-citizenship-social-class-marshall` وربطه هنا."
   - "لم يُستوفَ هنا نقد لاحق لتسلسله التطوري (خصوصاً من نانسي فريزر وآخرين) بدعوى إغفاله فوارق الجندر والعرق في تطور المواطنة الفعلية."
 ---
 

@@ -17,7 +17,9 @@ edges:
 related:
 - id: "sch-sociology-of-education-cultural-capital", title: "سوسيولوجيا التربية والتعليم وإعادة الإنتاج", type: "مدرسة"
 - id: "sch-bourdieu-distinction-cultural-reproduction", title: "سوسيولوجيا التمايز وإعادة الإنتاج الثقافي", type: "مدرسة"
+- id: "con-elaborated-restricted-code-bernstein", title: "الشفرة المقيَّدة والشفرة المُفصَّلة عند برنشتاين", type: "مفهوم"
 gaps:
+  - "**تكثيفٌ 2026-09-15:** أُضيف `con-elaborated-restricted-code-bernstein` وربطه هنا."
   - "نظريته حول «الأنماط اللغوية» تعرّضت لنقد حاد بدعوى تحيزها الطبقي الضمني (اعتبار الشفرة المُفصَّلة «أرقى»)؛ هذا النقد مذكور موجزاً لا مفصَّلاً."
 ---
 

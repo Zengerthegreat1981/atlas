@@ -16,7 +16,9 @@ edges:
 - rel: "belongs_to", target: "sch-sociology-of-youth-subcultures", target_type: "مدرسة"
 related:
 - id: "sch-sociology-of-youth-subcultures", title: "سوسيولوجيا الشباب والثقافات الفرعية", type: "مدرسة"
+- id: "con-subculture-symbolic-resistance-hebdige", title: "الثقافة الفرعية والمقاومة الرمزية عند هبديج", type: "مفهوم"
 gaps:
+  - "**تكثيفٌ 2026-09-15:** أُضيف `con-subculture-symbolic-resistance-hebdige` وربطه هنا."
   - "عمله ضمن مركز برمنغهام للدراسات الثقافية المعاصرة (CCCS) ووراثته لتحليل غرامشي عن الهيمنة الثقافية لم يُفصَّلا هنا بالكامل."
 ---
 

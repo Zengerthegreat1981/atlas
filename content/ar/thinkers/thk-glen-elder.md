@@ -16,7 +16,9 @@ edges:
 - rel: "belongs_to", target: "sch-sociology-of-aging-life-course", target_type: "مدرسة"
 related:
 - id: "sch-sociology-of-aging-life-course", title: "سوسيولوجيا الشيخوخة ودورة الحياة", type: "مدرسة"
+- id: "con-life-course-theory-elder", title: "نظرية مسار الحياة عند إلدر (Life Course Theory)", type: "مفهوم"
 gaps:
+  - "**تكثيفٌ 2026-09-15:** أُضيف `con-life-course-theory-elder` وربطه هنا."
   - "إيلين كامنغ، صاحبة نظرية «الانسحاب» (Disengagement Theory) السابقة والمتنازع عليها، لا تزال بلا ملف مستقل."
 ---
 

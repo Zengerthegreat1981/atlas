@@ -16,7 +16,9 @@ edges:
 - rel: "belongs_to", target: "sch-appadurai-robertson-global-culture", target_type: "مدرسة"
 related:
 - id: "sch-appadurai-robertson-global-culture", title: "سوسيولوجيا العولمة الثقافية والمشاهد العولمية", type: "مدرسة"
+- id: "con-scapes-appadurai", title: "المشاهد العالمية الخمسة عند أپادوراي (Scapes)", type: "مفهوم"
 gaps:
+  - "**تكثيفٌ 2026-09-15:** أُضيف `con-scapes-appadurai` وربطه هنا."
   - "رولاند روبرتسون، شريك المدرسة الآخر (صاحب مفهوم «التمحلن»/Glocalization) لا يزال بلا ملف مستقل؛ الإسناد المشترك موثَّق نصياً في هذا الملف."
 ---
 
