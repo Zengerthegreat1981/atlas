@@ -20,6 +20,7 @@ related:
 - id: "thk-parsons", title: "تالكوت بارسونز", type: "مفكر"
 - id: "con-pattern-variables-parsons", title: "متغيرات النمط الخمسة عند بارسونز", type: "مفهوم"
 - id: "dbt-modernization-theory-vs-dependency-theory", title: "جدل التحديث الخطي عند بارسونز مقابل نظرية التبعية", type: "جدل"
+- id: "br-parsonian-functionalist-toolkit-current", title: "تيار الأدوات المفاهيمية البارسونزية: من متغيرات النمط إلى نموذج AGIL", type: "تيار"
 gaps:
   - "**تعميقٌ 2026-09-14:** أُضيف `dbt-modernization-theory-vs-dependency-theory` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3)، ويكمل `sch-parsonian-action-frame` المنشأ في الدفعة نفسها."

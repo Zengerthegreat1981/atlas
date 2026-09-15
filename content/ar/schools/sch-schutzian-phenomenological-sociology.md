@@ -21,6 +21,7 @@ related:
 - id: "con-lifeworld-lebenswelt", title: "عالم الحياة المعاش (Lebenswelt)", type: "مفهوم"
 - id: "wrk-sinnhafte-aufbau-schutz", title: "البنية المعنوية للعالم الاجتماعي (Der sinnhafte Aufbau der sozialen Welt)", type: "عمل / كتاب"
 - id: "con-reciprocity-of-perspectives-schutz", title: "الفرضية العامة للتناظر المنظوري عند شوتز", type: "مفهوم"
+- id: "br-interpretive-meaning-making-current", title: "تيار السوسيولوجيا التأويلية لصنع المعنى: من عالم الحياة المعاش الشوتزي إلى التشكل السردي للهوية", type: "تيار"
 gaps:
   - "**تعميقٌ 2026-09-15:** أُضيف `con-reciprocity-of-perspectives-schutz` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5 من `sociology-schools-backlog.md`). ملف `thk-schutz` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده. `belongs_to` لهذا الملف نفسه تُرك فارغاً."

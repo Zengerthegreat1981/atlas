@@ -18,6 +18,7 @@ edges: []
 related:
 - id: "thk-sumner", title: "ويليام غراهام سمنر", type: "مفكر"
 - id: "dbt-sumner-ward-social-darwinism-reform", title: "جدل الداروينية الاجتماعية اللاإصلاحية عند سمنر مقابل الداروينية الإصلاحية الأمريكية", type: "جدل"
+- id: "br-evolutionary-sociology-current", title: "تيار علم الاجتماع التطوري: من العضوية السبنسرية إلى الأعراف السمنرية", type: "تيار"
 gaps:
   - "**سُدَّ 2026-09-14 (مرحلة الحزم، دفعة 9):** كُتب `thk-sumner` وأُسند إلى هذا الملف بـ`belongs_to`."
   - "**تعميقٌ 2026-09-14:** أُضيف `dbt-sumner-ward-social-darwinism-reform` وربطه هنا."
