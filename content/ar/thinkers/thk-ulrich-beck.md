@@ -17,7 +17,9 @@ edges:
 related:
 - id: "sch-beck-risk-society-theory", title: "نظرية مجتمع المخاطرة والحداثة الثانية", type: "مدرسة"
 - id: "sch-beck-cosmopolitan-sociology", title: "سوسيولوجيا الكوزموبوليتية والمخاطر العالمية", type: "مدرسة"
+- id: "con-methodological-nationalism-beck", title: "القومية المنهجية عند بيك (Methodological Nationalism)", type: "مفهوم"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `con-methodological-nationalism-beck` وربطه هنا."
   - "تنبيه صريح: ملف `thk-beck` القائم في المستودع هو آرون تيموثي بيك (Aaron T. Beck)، مؤسس العلاج المعرفي السلوكي، شخصٌ مختلفٌ كلياً عن أولريش بيك؛ تشابه الاسم فقط. لم يُستخدم ذلك الملف خطأً هنا."
 ---
 

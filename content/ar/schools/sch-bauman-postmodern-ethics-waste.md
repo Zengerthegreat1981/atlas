@@ -20,7 +20,9 @@ related:
 - id: "thk-zygmunt-bauman", title: "زيجمونت باومان", type: "مفكر"
 - id: "con-postmodern-ethics-wasted-lives-bauman", title: "الأخلاق ما بعد الحداثية والحياة الفائضة (Wasted Lives)", type: "مفهوم"
 - id: "wrk-modernity-and-the-holocaust-bauman", title: "الحداثة والهولوكوست (Modernity and the Holocaust)", type: "عمل / كتاب"
+- id: "wrk-wasted-lives-bauman", title: "الحياة المهدرة: الحداثة ومنبوذوها", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `wrk-wasted-lives-bauman` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 6 من مهمة بناء قسم علم الاجتماع (القسم 6)، ويكمل `sch-bauman-liquid-modernity` المنشأ في الدفعة نفسها."
   - "ملف `thk-zygmunt-bauman` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده."
 ---
