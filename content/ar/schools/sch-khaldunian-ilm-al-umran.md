@@ -20,6 +20,7 @@ related:
 - id: "sch-khaldunian-historical-sociology", title: "سوسيولوجيا العمران والتحول البدوي-الحضري الخلدونية", type: "مدرسة"
 - id: "con-asabiyyah-ibn-khaldun", title: "العصبية عند ابن خلدون", type: "مفهوم"
 - id: "dbt-ibn-khaldun-founder-of-sociology", title: "جدل أسبقية ابن خلدون في تأسيس علم الاجتماع", type: "جدل"
+- id: "crt-gellner-application-asabiyyah-generalizability-debate", title: "تطبيق غيلنر الأنثروبولوجي لمفهوم العصبية الخلدوني وإشكالية تعميمه التاريخي", type: "نقد خارجي موثَّق"
 gaps:
   - "**تعميقٌ 2026-09-14:** أُضيف `dbt-ibn-khaldun-founder-of-sociology` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 1 من مهمة بناء قسم علم الاجتماع (القسم 1 من `sociology-schools-backlog.md`). `belongs_to` تُرك فارغاً: لا جذر سوسيولوجي عام في المستودع بعد."
