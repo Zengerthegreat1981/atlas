@@ -22,6 +22,7 @@ related:
 - id: "thk-bourdieu", title: "بيير بورديو", type: "مفكر"
 - id: "wrk-la-distinction-bourdieu", title: "التمايز: نقد اجتماعي للحكم الذوقي (La Distinction)", type: "عمل / كتاب"
 - id: "br-education-social-reproduction-current", title: "تيار سوسيولوجيا التعليم وإعادة الإنتاج الاجتماعي: من بورديو وبرنشتاين إلى تقرير كولمان", type: "تيار"
+- id: "crt-boudon-critique-bourdieu-reproduction-determinism", title: "نقد بودون الفردانيّ المنهجي لحتمية إعادة الإنتاج البورديوية", type: "نقد خارجي موثَّق"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5)، ويكمل `sch-bourdieu-practice-habitus` المنشأ في الدفعة نفسها."
   - "**تعميقٌ 2026-09-15:** أُضيف `br-education-social-reproduction-current` وربطه هنا."
