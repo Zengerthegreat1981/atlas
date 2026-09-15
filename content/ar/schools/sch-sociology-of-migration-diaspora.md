@@ -19,6 +19,7 @@ related:
 - id: "thk-alejandro-portes", title: "أليخاندرو بورتيس", type: "مفكر"
 - id: "con-segmented-assimilation-portes", title: "الاندماج المتجزئ للمهاجرين (Segmented Assimilation)", type: "مفهوم"
 - id: "thk-william-safran", title: "وليام سافران", type: "مفكر"
+- id: "br-race-ethnicity-migration-current", title: "تيار سوسيولوجيا العرق والإثنية والهجرة: من دوبوا إلى نظريات الاندماج المعاصرة", type: "تيار"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8)."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-alejandro-portes`."

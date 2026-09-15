@@ -20,6 +20,7 @@ related:
 - id: "con-double-consciousness-dubois", title: "الازدواجية الوجدانية (Double Consciousness) عند دوبوا", type: "مفهوم"
 - id: "wrk-philadelphia-negro-dubois", title: "زنوج فيلادلفيا: دراسة اجتماعية", type: "عمل / كتاب"
 - id: "con-color-line-dubois", title: "خطّ اللون عند دوبوا", type: "مفهوم"
+- id: "br-race-ethnicity-migration-current", title: "تيار سوسيولوجيا العرق والإثنية والهجرة: من دوبوا إلى نظريات الاندماج المعاصرة", type: "تيار"
 gaps:
   - "**تصحيح 2026-09-14 (مرحلة الحزم):** `thk-web-dubois` موجودٌ فعلاً بوسم `part: \"philosophy\"`؛ الملاحظة السابقة هنا (بحثت عن `thk-dubois` وزعمت الغياب) كانت خطأً في التسمية والتحقّق معاً. الإشارة الآن عبر `related` وحده لتباين `part`. `belongs_to` يبقى فارغاً لغياب جذر سوسيولوجي عام."
   - "**تعميقٌ 2026-09-14:** أُضيفت روابط `con-double-consciousness-dubois` و`wrk-philadelphia-negro-dubois` (كُتبا في الدفعة 11 لكن لم يُربطا من هذا الملف تحديداً بالخطإ) و`con-color-line-dubois` (جديد)."
