@@ -20,6 +20,7 @@ related:
 - id: "thk-skocpol", title: "ثيدا سكوتشبول", type: "مفكر"
 - id: "con-state-centered-revolutions-skocpol", title: "الثورات الاجتماعية والانهيار البنيوي للدولة (State-Centered Revolutions)", type: "مفهوم"
 - id: "dbt-skocpol-sewell-structure-vs-ideology-revolutions", title: "جدل تفسير الثورات: الانهيار البنيوي عند سكوتشبول مقابل نقد سيويل الثقافي-الأيديولوجي", type: "جدل"
+- id: "thk-barrington-moore", title: "بارينغتون مور الابن", type: "مفكر"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)."
   - "**تعميقٌ 2026-09-15:** أُضيف `dbt-skocpol-sewell-structure-vs-ideology-revolutions` (يُفرد نقد إغفال الأيديولوجيا المذكور في المتن) وربطه هنا."
