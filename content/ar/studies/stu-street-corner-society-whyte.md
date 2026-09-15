@@ -14,6 +14,7 @@ edges:
 - rel: "belongs_to", target: "sch-whyte-participant-observation", target_type: "مدرسة"
 related:
 - id: "thk-wf-whyte", title: "ويليام فوت وايت", type: "مفكر"
+- id: "stu-social-order-of-the-slum-suttles", title: "النظام الاجتماعي للحي الفقير", type: "دراسة وبحث"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 16 (مرحلة الحزم). لا تفصيل هنا لإعادة التحقيق النقدية اللاحقة (بولن، 1992) في هوية «دوك» الحقيقية وموثوقية بعض تفاصيل الرواية؛ مذكورة بإيجاز في `thk-wf-whyte` فقط."
 ---
