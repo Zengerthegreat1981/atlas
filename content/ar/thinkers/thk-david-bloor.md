@@ -17,8 +17,9 @@ edges:
 related:
 - id: "sch-sociology-of-scientific-knowledge", title: "سوسيولوجيا المعرفة والعلوم", type: "مدرسة"
 - id: "wrk-knowledge-social-imagery-bloor", title: "المعرفة والتخيّل الاجتماعي (Knowledge and Social Imagery)", type: "عمل / كتاب"
+- id: "thk-barry-barnes", title: "باري بارنس", type: "مفكر"
 gaps:
-  - "لم يُستوفَ هنا تفصيل «مدرسة إدنبرة» المؤسسية التي طوّر فيها بلور برنامجه بالاشتراك مع باري بارنز."
+  - "**سُدَّت الفجوة 2026-09-15:** كُتب `thk-barry-barnes` (شريكه المؤسِّس لـ«مدرسة إدنبرة») وأُضيف رابطه هنا."
 ---
 
 # ديفيد بلور

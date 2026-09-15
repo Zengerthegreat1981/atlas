@@ -22,6 +22,7 @@ related:
 - id: "thk-karl-mannheim", title: "كارل مانهايم", type: "مفكر"
 - id: "evt-founding-4s-society-social-studies-science-1975", title: "تأسيس جمعية الدراسات الاجتماعية للعلوم (4S، 1975) وتوحيد حقل سوسيولوجيا العلم", type: "حدث تاريخي"
 - id: "wrk-knowledge-social-imagery-bloor", title: "المعرفة والتخيّل الاجتماعي (Knowledge and Social Imagery)", type: "عمل / كتاب"
+- id: "thk-barry-barnes", title: "باري بارنس", type: "مفكر"
 gaps:
   - "**سُدَّت الفجوة 2026-09-15:** كُتب `thk-karl-mannheim` وأُضيف رابطه هنا."
   - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8، الأخير، من `sociology-schools-backlog.md`)."
