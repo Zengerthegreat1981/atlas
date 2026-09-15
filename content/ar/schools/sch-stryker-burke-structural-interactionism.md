@@ -22,6 +22,7 @@ related:
 - id: "con-identity-salience-hierarchy-stryker", title: "نظرية الهوية والبروز الهرمي عند ستريكر", type: "مفهوم"
 - id: "con-identity-control-theory-burke", title: "نظرية التحقق من الهوية عند بيرك", type: "مفهوم"
 - id: "dbt-blumer-stryker-processual-structural-interactionism", title: "جدل التفاعلية الرمزية: السيولة التأويلية عند بلومر مقابل البنية القابلة للقياس عند ستريكر", type: "جدل"
+- id: "br-self-identity-theory-current", title: "تيار سوسيولوجيا الذات والهوية: من الذات المنعكسة في المرآة إلى نظرية الهوية البنائية", type: "تيار"
 gaps:
   - "**تعميقٌ 2026-09-14:** أُضيف `dbt-blumer-stryker-processual-structural-interactionism` وربطه هنا — بهذا يكتمل القسم 2 بعمقٍ حقيقي (20/20)."
   - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2)، ويكمل `sch-mead-social-behaviorism` المنشأ في الدفعة نفسها."
