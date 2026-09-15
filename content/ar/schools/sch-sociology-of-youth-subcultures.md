@@ -19,6 +19,7 @@ related:
 - id: "thk-dick-hebdige", title: "ديك هبديج", type: "مفكر"
 - id: "con-subcultural-style-resistance-hebdige", title: "الطراز والمقاومة الرمزية في الثقافات الفرعية (Subcultural Style)", type: "مفهوم"
 - id: "thk-phil-cohen", title: "فيل كوهين", type: "مفكر"
+- id: "br-youth-culture-lifestyle-current", title: "تيار سوسيولوجيا الثقافة الشبابية وأنماط الحياة: من الطراز الفرعي المقاوِم إلى الثقافة كأدوات", type: "تيار"
 gaps:
   - "**تعميقٌ 2026-09-15:** أُضيف `thk-phil-cohen` (المفكر الثاني المذكور كمصدرٍ في المتن) وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8)."

@@ -19,9 +19,11 @@ related:
 - id: "thk-dimaggio", title: "بول ديماجيو", type: "مفكر"
 - id: "thk-walter-powell", title: "والتر باول", type: "مفكر"
 - id: "con-institutional-isomorphism-dimaggio-powell", title: "التماثل المؤسسي عند ديماجيو وباول", type: "مفهوم"
+- id: "br-new-economic-sociology-current", title: "تيار السوسيولوجيا الاقتصادية الجديدة: من التجذر البولانياني إلى المؤسسية الجديدة التنظيمية", type: "تيار"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3)."
   - "**سُدَّ 2026-09-14 (الدفعة 47):** كُتب `thk-dimaggio`، `thk-walter-powell`، و`con-institutional-isomorphism-dimaggio-powell` وأُضيفت روابطها هنا."
+  - "**تعميقٌ 2026-09-15:** أُضيف `br-new-economic-sociology-current` وربطه هنا."
 ---
 
 # المؤسسية الجديدة في سوسيولوجيا التنظيمات

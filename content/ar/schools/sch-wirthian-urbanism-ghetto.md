@@ -21,6 +21,7 @@ related:
 - id: "con-urbanism-as-way-of-life", title: "الحضرية كنمط حياة عند ورث", type: "مفهوم"
 - id: "dbt-wirth-gans-urban-village", title: "جدل «الحضرية كنمط حياة» عند ورث مقابل «القرية الحضرية» عند غانس", type: "جدل"
 - id: "thk-herbert-gans", title: "هربرت غانس", type: "مفكر"
+- id: "br-black-urban-ghetto-studies-current", title: "تيار دراسات الغيتو الحضري الأسود: من الحضرية الورثية إلى المتروبوليس الأسود عند دريك وكايتون", type: "تيار"
 gaps:
   - "**تكثيفٌ 2026-09-15:** كُتب `thk-herbert-gans` وأُضيف رابطه هنا."
   - "**تعميقٌ 2026-09-14:** أُضيف `dbt-wirth-gans-urban-village` وربطه هنا."

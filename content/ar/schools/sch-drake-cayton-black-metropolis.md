@@ -21,6 +21,7 @@ related:
 - id: "thk-cayton", title: "هوراس كايتون", type: "مفكر"
 - id: "con-residential-segregation-black-metropolis", title: "الفصل السكني في المتروبوليس الأسود", type: "مفهوم"
 - id: "wrk-black-metropolis-drake-cayton", title: "المتروبوليس الأسود: دراسة الحياة الزنجية في مدينة شمالية", type: "عمل / كتاب"
+- id: "br-black-urban-ghetto-studies-current", title: "تيار دراسات الغيتو الحضري الأسود: من الحضرية الورثية إلى المتروبوليس الأسود عند دريك وكايتون", type: "تيار"
 gaps:
   - "**تعميقٌ 2026-09-14:** أُضيف `wrk-black-metropolis-drake-cayton` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2)."
