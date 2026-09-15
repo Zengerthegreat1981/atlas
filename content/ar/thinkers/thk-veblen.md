@@ -19,7 +19,9 @@ edges:
 related:
 - id: "con-conspicuous-consumption", title: "الاستهلاك اللافت (Conspicuous Consumption)", type: "مفهوم"
 - id: "wrk-theory-of-leisure-class-veblen", title: "نظرية الطبقة المترفة", type: "عمل / كتاب"
+- id: "con-conspicuous-leisure-veblen", title: "الفراغ اللافت عند فيبلن (Conspicuous Leisure)", type: "مفهوم"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `con-conspicuous-leisure-veblen` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 9 (مرحلة الحزم). فيبلن اقتصادي مؤسسي بالتكوين المهني الرسمي أكثر منه عالم اجتماع؛ إدراجه هنا مبنيّ على أثره السوسيولوجي العميق لا انتسابه المهني، على نحو مشابه لملاحظة سابقة عن بوتنام."
 ---
 

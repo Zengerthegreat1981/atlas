@@ -19,7 +19,9 @@ related:
 - id: "thk-veblen", title: "ثورستين فيبلن", type: "مفكر"
 - id: "con-conspicuous-consumption", title: "الاستهلاك اللافت (Conspicuous Consumption)", type: "مفهوم"
 - id: "wrk-theory-of-leisure-class-veblen", title: "نظرية الطبقة المترفة", type: "عمل / كتاب"
+- id: "con-conspicuous-leisure-veblen", title: "الفراغ اللافت عند فيبلن (Conspicuous Leisure)", type: "مفهوم"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `con-conspicuous-leisure-veblen` وربطه هنا."
   - "**سُدَّ 2026-09-14 (مرحلة الحزم، دفعة 9):** كُتب `thk-veblen` وأُسند إلى هذا الملف بـ`belongs_to`."
   - "**تعميقٌ 2026-09-14:** أُضيفت روابط `con-conspicuous-consumption` و`wrk-theory-of-leisure-class-veblen` (كُتبا في الدفعة 10 لكن لم يُربطا من هذا الملف تحديداً بالخطإ)."
 ---

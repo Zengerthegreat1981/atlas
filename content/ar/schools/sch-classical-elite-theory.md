@@ -20,7 +20,10 @@ related:
 - id: "thk-mosca", title: "غايتانو موسكا", type: "مفكر"
 - id: "thk-michels", title: "روبرت ميشيلز", type: "مفكر"
 - id: "dbt-weber-michels-organizational-pessimism", title: "جدل التشاؤم التنظيمي: القفص الحديدي عند فيبر مقابل القانون الحديدي للأوليغارشية عند ميشيلز", type: "جدل"
+- id: "con-political-class-mosca", title: "الطبقة السياسية عند موسكا (Classe Politica)", type: "مفهوم"
+- id: "con-circulation-of-elites-pareto", title: "تداول النخب عند باريتو (Circolazione delle Élite)", type: "مفهوم"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `con-political-class-mosca` و`con-circulation-of-elites-pareto` وربطاهما هنا (مفهومان مركزيان مذكوران في متن هذا الملف دون ملفات مستقلة سابقاً)."
   - "**تعميقٌ 2026-09-14:** أُضيف رابط `dbt-weber-michels-organizational-pessimism` (مسندٌ بـ`belongs_to` إلى `sch-weberian-rationalization-bureaucracy`)."
   - "**سُدَّ 2026-09-14 (مرحلة الحزم، دفعة 9):** كُتبت ملفات الثلاثة (`thk-pareto`, `thk-mosca`, `thk-michels`) وأُسندت جميعها إلى هذا الملف بـ`belongs_to`."
   - "الثلاثة طوّروا أطروحاتهم بصورة مستقلة نسبياً في العقد نفسه تقريباً، ولا يصح تقديم تصور موحد كأنهم مدرسة منظمة بحلقة واحدة؛ هذا الملف يعرضهم معاً بحكم اشتراكهم في الأطروحة المركزية (حتمية حكم الأقلية)، لا بحكم تعاون مباشر مثبت بينهم."

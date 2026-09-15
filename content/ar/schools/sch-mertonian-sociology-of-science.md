@@ -20,7 +20,9 @@ related:
 - id: "thk-robert-merton", title: "روبرت ك. ميرتون", type: "مفكر"
 - id: "con-cudos-norms-science", title: "معايير CUDOS للبنية المعيارية للعلم عند ميرتون", type: "مفهوم"
 - id: "dbt-merton-kuhn-sociology-of-science", title: "جدل تفسير التغير العلمي: المعايير المؤسسية عند ميرتون مقابل البراديمات عند كون", type: "جدل"
+- id: "con-multiple-discovery-merton", title: "الاكتشاف المتعدد عند ميرتون (Multiple Discovery)", type: "مفهوم"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `con-multiple-discovery-merton` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3)، ويكمل `sch-mertonian-middle-range` المنشأ في الدفعة نفسها."
   - "**تعميقٌ 2026-09-14:** أُضيف `dbt-merton-kuhn-sociology-of-science` وربطه هنا."
   - "**سُدَّ 2026-09-14 (الدفعة 38):** كُتب `con-cudos-norms-science` وأُضيف رابطه هنا مع رابط `thk-robert-merton`."
