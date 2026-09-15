@@ -19,7 +19,9 @@ related:
 - id: "sch-cooley-looking-glass-self", title: "نظرية الذات المنعكسة في المرآة والجماعات الأولية", type: "مدرسة"
 - id: "con-looking-glass-self", title: "الذات المرآوية عند كولي", type: "مفهوم"
 - id: "con-primary-group-cooley", title: "الجماعة الأولية عند كولي (Primary Group)", type: "مفهوم"
+- id: "wrk-human-nature-social-order-cooley", title: "الطبيعة البشرية والنظام الاجتماعي", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `wrk-human-nature-social-order-cooley` وربطه هنا."
   - "**تكثيفٌ 2026-09-15:** أُضيف `con-primary-group-cooley` وربطه هنا (مفهومٌ مركزيٌّ مذكورٌ في متن هذا الملف دون ملف مستقل سابقاً)."
   - "هذا الملف أُنشئ في الدفعة 17 (مرحلة الحزم). `belongs_to` تُرك فارغاً على نفس منطق `sch-cooley-looking-glass-self`: كولي (جامعة ميشيغان) سابقٌ لمدرسة شيكاغو زمنياً ومستقل عنها مؤسسياً وإن تقاطع معها فكرياً؛ نسبته إليها كأمّ عبر `belongs_to` يكون تبسيطاً غير دقيق."
 ---

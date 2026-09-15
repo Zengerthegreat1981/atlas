@@ -20,7 +20,10 @@ related:
 - id: "con-looking-glass-self", title: "الذات المرآوية عند كولي", type: "مفهوم"
 - id: "dbt-cooley-mead-self-formation", title: "جدل تكوّن الذات: التخيّل الفردي عند كولي مقابل أخذ الدور عند ميد", type: "جدل"
 - id: "br-self-identity-theory-current", title: "تيار سوسيولوجيا الذات والهوية: من الذات المنعكسة في المرآة إلى نظرية الهوية البنائية", type: "تيار"
+- id: "con-primary-group-cooley", title: "الجماعة الأولية عند كولي (Primary Group)", type: "مفهوم"
+- id: "wrk-human-nature-social-order-cooley", title: "الطبيعة البشرية والنظام الاجتماعي", type: "عمل / كتاب"
 gaps:
+  - "**تصحيحُ ملاحظةٍ باتت كاذبة 2026-09-15:** `con-primary-group-cooley` موجودٌ بالفعل (`belongs_to` هذا الملف أصلاً) لكنه لم يكن مربوطاً هنا في `related` — أُضيف الآن، مع `wrk-human-nature-social-order-cooley` الجديد."
   - "**تعميقٌ 2026-09-14:** أُضيف `dbt-cooley-mead-self-formation` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2). `belongs_to` تُرك فارغاً لأن كولي (جامعة ميشيغان) سابقٌ لمدرسة شيكاغو زمنياً ومستقل عنها مؤسسياً وإن تقاطع معها فكرياً — نسبته إليها كأمّ يكون تبسيطاً غير دقيق."
   - "**سُدَّ 2026-09-14 (الدفعة 17):** كُتب `thk-cooley` و`con-looking-glass-self` وأُضيفت روابطهما هنا."

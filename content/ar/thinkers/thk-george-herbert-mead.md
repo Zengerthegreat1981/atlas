@@ -23,7 +23,9 @@ related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 - id: "rel-mead-symbolic-interactionism-sociology-philosophy-bridge", title: "جورج هربرت ميد بين الفلسفة البراغماتية والتفاعلية الرمزية السوسيولوجية", type: "علاقة بين مدرستين"
 - id: "thk-manford-kuhn", title: "مانفورد كون", type: "مفكر"
+- id: "wrk-mind-self-society-mead", title: "العقل والذات والمجتمع: من منظور سلوكي اجتماعي", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `wrk-mind-self-society-mead` وربطه هنا."
   - "**سُدَّت الفجوة 2026-09-15:** كُتب `thk-manford-kuhn` وأُضيف رابطه هنا (مدرسة آيوا الكمية المذكورة أدناه)."
   - "**جسرٌ 2026-09-15:** أُضيف `rel-mead-symbolic-interactionism-sociology-philosophy-bridge` وربطه هنا، يصل هذا الملف بمدرسة `sch-mead-social-behaviorism` السوسيولوجية (part: sociology)."
   - "لم يُنشر كتاباً في حياته (توفي قبل أن ينهي 'Mind, Self, and Society'). 'العقل والمجتمع' (1934) حرّره تلاميذه من محاضراته ونسخهم الإملائية."

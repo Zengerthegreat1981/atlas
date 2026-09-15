@@ -22,7 +22,9 @@ related:
 - id: "con-generalized-other-mead", title: "الآخر المعمَّم عند ميد", type: "مفهوم"
 - id: "dbt-cooley-mead-self-formation", title: "جدل تكوّن الذات: التخيّل الفردي عند كولي مقابل أخذ الدور عند ميد", type: "جدل"
 - id: "rel-mead-symbolic-interactionism-sociology-philosophy-bridge", title: "جورج هربرت ميد بين الفلسفة البراغماتية والتفاعلية الرمزية السوسيولوجية", type: "علاقة بين مدرستين"
+- id: "wrk-mind-self-society-mead", title: "العقل والذات والمجتمع: من منظور سلوكي اجتماعي", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `wrk-mind-self-society-mead` وربطه هنا."
   - "**جسرٌ 2026-09-15:** أُضيف `rel-mead-symbolic-interactionism-sociology-philosophy-bridge` وربطه هنا، يصل هذه المدرسة بملف `thk-george-herbert-mead` الفلسفي صراحةً."
   - "**تعميقٌ 2026-09-14:** أُضيف رابط `dbt-cooley-mead-self-formation` (مسندٌ بـ`belongs_to` إلى `sch-cooley-looking-glass-self`)."
   - "هذا الملف أُنشئ في الدفعة 2 من مهمة بناء قسم علم الاجتماع (القسم 2). `thk-george-herbert-mead` القائم موسومٌ `part: \"philosophy\"` لا `sociology`، فالإشارة إليه هنا عبر `related` وحده لا `belongs_to` (يشترط تطابق `part`). `belongs_to` لهذا الملف نفسه تُرك فارغاً لغياب جذرٍ سوسيولوجي عام."
