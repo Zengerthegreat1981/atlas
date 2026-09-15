@@ -2957,3 +2957,27 @@ ethnomethodology`، `sch-blumerian-symbolic-interactionism`،
 الوكيل الآخر في نطاق economic-sociology، غير متعلقة).
 
 مستمرٌّ بدفعاتٍ متتالية في عنقود الأقسام 3-5.
+
+---
+
+## 📚🔗 wrk- ميد وكولي + إصلاح فجوة كاذبة
+
+1. `wrk-mind-self-society-mead` — العمل التأسيسي (1934) لكامل تراث التفاعلية
+   الرمزية، جُمع بعد وفاة ميد من محاضراته.
+2. `wrk-human-nature-social-order-cooley` — العمل الذي صاغ فيه كولي «الذات
+   المرآوية» (1902).
+3. **إصلاح فجوةٍ كاذبة:** `con-primary-group-cooley` كان بالفعل `belongs_to`
+   مدرسة كولي لكن غير مذكورٍ في `related` الخاص بها — أُضيف الآن.
+
+ربطٌ عكسي كامل من `sch-mead-social-behaviorism`، `sch-cooley-looking-glass-
+self`، `thk-george-herbert-mead`، و`thk-cooley`.
+
+**الإجمالي: wrk- 109→111.**
+
+الفحوص الثلاثة نظيفة (رابطٌ معلَّق لعمل الوكيل الآخر في نطاق dbt-honneth-
+fraser، غير متعلق).
+
+**ملخص عنقود الأقسام 3-5 حتى الآن:** غوفمان (Asylums) + إصلاح 3 فجوات كاذبة،
+ثم ميد وكولي + إصلاح فجوة رابعة. مستمرٌّ بدفعاتٍ متتالية؛ التالي: فحص
+sch-conversation-analysis وsch-thomas-znaniecki-life-history وبقية مدارس
+الأقسام 3-5 المتبقية.
