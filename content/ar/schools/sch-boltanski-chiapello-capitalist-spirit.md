@@ -20,7 +20,9 @@ related:
 - id: "thk-boltanski", title: "لوك بولتانسكي", type: "مفكر"
 - id: "con-orders-of-worth-justification", title: "أنظمة الجدارة والتبرير (Orders of Worth)", type: "مفهوم"
 - id: "wrk-nouvel-esprit-capitalisme-boltanski-chiapello", title: "الروح الجديدة للرأسمالية (Le Nouvel Esprit du Capitalisme)", type: "عمل / كتاب"
+- id: "thk-eve-chiapello", title: "إيف شيابيلو", type: "مفكر"
 gaps:
+  - "**سُدَّت الفجوة 2026-09-15:** كُتب `thk-eve-chiapello` وأُضيف رابطه هنا."
   - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5)، ويكمل `sch-boltanski-thevenot-sociology-of-worth` المنشأ في الدفعة نفسها."
   - "**سُدَّ جزئياً 2026-09-14 (دفعة تالية):** أُضيف رابط `thk-boltanski` بعد إنشائه. إيف شيابيلو (`thk-chiapello`) لا يزال بلا ملف مستقل."
 ---
