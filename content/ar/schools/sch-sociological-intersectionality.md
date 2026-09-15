@@ -21,6 +21,7 @@ related:
 - id: "thk-phcollins", title: "باتريشا هيل كولينز", type: "مفكر"
 - id: "con-intersectionality", title: "التقاطعية", type: "مفهوم"
 - id: "wrk-demarginalizing-intersection-crenshaw", title: "إزالة التهميش عن تقاطع العرق والجندر (Demarginalizing the Intersection)", type: "عمل / كتاب"
+- id: "evt-crenshaw-coins-intersectionality-1989", title: "صياغة كيمبرلي كرنشو لمصطلح «التقاطعية» (1989) انطلاقاً من قضايا تمييز قانونية فعلية", type: "حدث تاريخي"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7)، ويكمل `sch-hill-collins-black-feminist-sociology` المنشأ في الدفعة نفسها. ملف `thk-crenshaw` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده. تنبيه: يوجد أيضاً ملفٌ مكرَّرٌ محتمَل `thk-kcrenshaw` بالعنوان نفسه تقريباً؛ لم يُستخدم هنا وقد يحتاج توحيداً مستقبلاً خارج نطاق هذه الدفعة."
 ---
