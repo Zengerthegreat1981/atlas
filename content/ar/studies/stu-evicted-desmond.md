@@ -15,6 +15,7 @@ edges:
 related:
 - id: "sch-urban-sociology-spatial-planning", title: "السوسيولوجيا الحضرية وتخطيط المدن", type: "مدرسة"
 - id: "stu-truly-disadvantaged-wilson", title: "المحرومون فعلاً", type: "دراسة وبحث"
+- id: "stu-making-ends-meet-edin-lein", title: "تدبير أمر المعيشة", type: "دراسة وبحث"
 gaps:
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بسدّ فجوة نوع `stu-`. ماثيو ديزموند، عالم اجتماع أمريكي، لا يزال بلا ملف مستقل في الأطلس."
 ---
