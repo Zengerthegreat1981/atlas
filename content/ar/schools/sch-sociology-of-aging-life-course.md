@@ -19,10 +19,12 @@ related:
 - id: "thk-glen-elder", title: "غلين إلدر", type: "مفكر"
 - id: "con-life-course-perspective-elder", title: "منظور مسار الحياة (Life Course Perspective)", type: "مفهوم"
 - id: "thk-elaine-cumming", title: "إيلين كامنغ", type: "مفكر"
+- id: "dbt-cumming-elder-disengagement-vs-life-course-aging", title: "جدل نظريات الشيخوخة: الانسحاب الوظيفي عند كامنغ مقابل منظور دورة الحياة عند إلدر", type: "جدل"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8)."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-glen-elder`."
   - "**سُدَّ 2026-09-15 (تعميقٌ):** أُنشئ `thk-elaine-cumming` وربطه هنا؛ `belongs_to` لهذا الملف نفسه لا يزال فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
+  - "**تعميقٌ 2026-09-15:** أُضيف `dbt-cumming-elder-disengagement-vs-life-course-aging` (يُفرد الجدل الموصوف أعلاه بملفٍّ جدلٍ مستقل) وربطه هنا."
 ---
 
 # سوسيولوجيا الشيخوخة ودورة الحياة

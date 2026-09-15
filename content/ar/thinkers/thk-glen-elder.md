@@ -18,9 +18,11 @@ related:
 - id: "sch-sociology-of-aging-life-course", title: "سوسيولوجيا الشيخوخة ودورة الحياة", type: "مدرسة"
 - id: "con-life-course-theory-elder", title: "نظرية مسار الحياة عند إلدر (Life Course Theory)", type: "مفهوم"
 - id: "thk-elaine-cumming", title: "إيلين كامنغ", type: "مفكر"
+- id: "dbt-cumming-elder-disengagement-vs-life-course-aging", title: "جدل نظريات الشيخوخة: الانسحاب الوظيفي عند كامنغ مقابل منظور دورة الحياة عند إلدر", type: "جدل"
 gaps:
   - "**تصحيحُ ملاحظةٍ باتت كاذبة 2026-09-15:** `thk-elaine-cumming` موجودٌ بالفعل (كُتب في دفعةٍ سابقة)؛ أُضيف رابطه هنا."
   - "**تكثيفٌ 2026-09-15:** أُضيف `con-life-course-theory-elder` وربطه هنا."
+  - "**تعميقٌ 2026-09-15:** أُضيف `dbt-cumming-elder-disengagement-vs-life-course-aging` وربطه هنا."
   - "إيلين كامنغ، صاحبة نظرية «الانسحاب» (Disengagement Theory) السابقة والمتنازع عليها، لا تزال بلا ملف مستقل."
 ---
 
