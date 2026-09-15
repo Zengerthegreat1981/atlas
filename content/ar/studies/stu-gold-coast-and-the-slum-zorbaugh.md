@@ -14,6 +14,7 @@ edges:
 - rel: "belongs_to", target: "sch-chicago-urban-ecology", target_type: "مدرسة"
 related:
 - id: "sch-chicago-urban-ecology", title: "مدرسة شيكاغو الإيكولوجية الحضرية الأولى", type: "مدرسة"
+- id: "stu-the-hobo-nels-anderson", title: "المتشرد", type: "دراسة وبحث"
 gaps:
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بسدّ فجوة نوع `stu-`. هارفي زورباو، عالم اجتماع أمريكي من الجيل الأول لمدرسة شيكاغو، لا يزال بلا ملف مستقل في الأطلس."
 ---
