@@ -21,6 +21,7 @@ related:
 - id: "con-moral-panic-folk-devils-cohen", title: "الذعر الأخلاقي والشيطان الشعبي (Moral Panic & Folk Devils)", type: "مفهوم"
 - id: "thk-stanley-cohen", title: "ستانلي كوهين", type: "مفكر"
 - id: "ins-self-report-delinquency-survey-hirschi", title: "مسح الانحراف بالإبلاغ الذاتي عند هيرشي (Self-Report Delinquency Survey)", type: "منهج/أداة بحث"
+- id: "wrk-causes-of-delinquency-hirschi", title: "أسباب الجنوح (Causes of Delinquency)", type: "عمل / كتاب"
 gaps:
   - "**سُدَّت الفجوة 2026-09-15:** كُتب `thk-stanley-cohen` وأُضيف رابطه هنا."
   - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8) كمسح عام للحقل، متمايزاً عن النظريات المحددة السابقة (نظرية التوتر عند ميرتون، الوصم عند بيكر وليمرت، الارتباط التفاضلي عند ساذرلاند — جميعها في القسمين 2 و3)."

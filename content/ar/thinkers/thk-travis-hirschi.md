@@ -16,8 +16,10 @@ edges:
 - rel: "belongs_to", target: "sch-sociology-of-deviance-crime-justice", target_type: "مدرسة"
 related:
 - id: "sch-sociology-of-deviance-crime-justice", title: "سوسيولوجيا الانحراف والجريمة والعدالة الجنائية", type: "مدرسة"
+- id: "wrk-causes-of-delinquency-hirschi", title: "أسباب الجنوح (Causes of Delinquency)", type: "عمل / كتاب"
 gaps:
-  - "ستانلي كوهين، المساهم الآخر المذكور في هذا الحقل (بمفهوم «الذعر الأخلاقي»/Moral Panic)، لا يزال بلا ملف مستقل."
+  - "**ملاحظةٌ باتت كاذبة، صُحِّحت 2026-09-15:** `thk-stanley-cohen`، المساهم الآخر المذكور في هذا الحقل (بمفهوم «الذعر الأخلاقي»/Moral Panic)، موثَّقٌ الآن بملفٍّ مستقل."
+  - "**تعميقٌ 2026-09-15 (ثانٍ):** أُضيف `wrk-causes-of-delinquency-hirschi` (كتابه التأسيسي 1969) وربطه هنا."
 ---
 
 # ترافيس هيرشي

@@ -17,8 +17,9 @@ edges:
 related:
 - id: "sch-sociology-of-social-movements-collective-action", title: "سوسيولوجيا الحركات الاجتماعية والعمل الجماعي", type: "مدرسة"
 - id: "sch-tilly-tarrow-contentious-politics", title: "سوسيولوجيا الحركات الاجتماعية وعمليات التعبئة", type: "مدرسة"
+- id: "wrk-political-process-black-insurgency-mcadam", title: "العملية السياسية وتطور التمرد الأسود (Political Process and the Development of Black Insurgency)", type: "عمل / كتاب"
 gaps:
-  - "دراسته المرجعية عن حركة الحقوق المدنية الأمريكية (1930–1970) كحالة تطبيقية مفصَّلة لنظريته لم تُستوفَ هنا."
+  - "**سُدَّت الفجوة 2026-09-15:** أُضيف `wrk-political-process-black-insurgency-mcadam` (كتابه المرجعي عن حركة الحقوق المدنية 1930-1970) وربطه هنا."
 ---
 
 # دوغ ماك آدم

@@ -22,6 +22,8 @@ related:
 - id: "con-collective-action-frames-snow-benford", title: "أطر الفعل الجماعي (Collective Action Frames)", type: "مفهوم"
 - id: "thk-david-snow", title: "ديفيد سنو", type: "مفكر"
 - id: "thk-robert-benford", title: "روبرت بنفورد", type: "مفكر"
+- id: "wrk-political-process-black-insurgency-mcadam", title: "العملية السياسية وتطور التمرد الأسود (Political Process and the Development of Black Insurgency)", type: "عمل / كتاب"
+- id: "wrk-frame-alignment-processes-snow-benford", title: "عمليات مواءمة الأطر والتعبئة المجهرية (Frame Alignment Processes)", type: "عمل / كتاب"
 gaps:
   - "**تكثيفٌ 2026-09-15:** أُضيفت روابط `thk-david-snow` و`thk-robert-benford` (المكتوبَين حديثاً) هنا."
   - "**تعميقٌ 2026-09-15:** أُضيف `con-collective-action-frames-snow-benford` (يُفرد إطار «تأطير الاحتجاج» الثالث المذكور في المتن) وربطه هنا."

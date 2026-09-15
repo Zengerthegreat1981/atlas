@@ -16,6 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-military-sociology-armed-conflict", target_type: "مدرسة"
 related:
 - id: "sch-military-sociology-armed-conflict", title: "السوسيولوجيا العسكرية والنزاعات المسلحة", type: "مدرسة"
+- id: "wrk-professional-soldier-janowitz", title: "الجندي المحترف (The Professional Soldier)", type: "عمل / كتاب"
 gaps:
   - "لم يُستوفَ هنا الجدل النقدي حول مدى واقعية توقعه بتراجع الطابع العسكري المحض لصالح نموذج «الشرطي-الجندي» في السياقات الحربية الفعلية اللاحقة."
 ---

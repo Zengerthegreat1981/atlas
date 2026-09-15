@@ -19,6 +19,7 @@ related:
 - id: "thk-morris-janowitz", title: "موريس يانوفيتز", type: "مفكر"
 - id: "con-constabulary-force-janowitz", title: "قوة الشرطي-الجندي (Constabulary Force)", type: "مفهوم"
 - id: "dbt-janowitz-huntington-civil-military-relations", title: "جدل العلاقات المدنية-العسكرية: التقارب عند يانوفيتز مقابل الاستقلال الموضوعي عند هنتنغتون", type: "جدل"
+- id: "wrk-professional-soldier-janowitz", title: "الجندي المحترف (The Professional Soldier)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 8 (الأخيرة) من مهمة بناء قسم علم الاجتماع، آخر بند في `sociology-schools-backlog.md`."
   - "**تعميقٌ 2026-09-15:** أُضيف `dbt-janowitz-huntington-civil-military-relations` (يُفرد الخلاف مع هنتنغتون المذكور كمصدرٍ ثانٍ) وربطه هنا — هذا آخر بندٍ في جولة تعميق القسم 8 (20/20)."

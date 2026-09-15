@@ -20,6 +20,7 @@ related:
 - id: "sch-sociology-of-social-movements-collective-action", title: "سوسيولوجيا الحركات الاجتماعية والعمل الجماعي", type: "مدرسة"
 - id: "thk-david-snow", title: "ديفيد سنو", type: "مفكر"
 - id: "con-collective-action-frames-snow-benford", title: "أطر الفعل الجماعي (Collective Action Frames)", type: "مفهوم"
+- id: "wrk-frame-alignment-processes-snow-benford", title: "عمليات مواءمة الأطر والتعبئة المجهرية (Frame Alignment Processes)", type: "عمل / كتاب"
 gaps:
   - "أُنشئ 2026-09-15 تنفيذاً لتوجيه المنسِّق (تكثيف thk-، مسح متن con-/wrk-/dbt-)، سادّاً فجوةً موثقةً صراحةً في `gaps` ملف `con-collective-action-frames-snow-benford` القائم."
 ---
