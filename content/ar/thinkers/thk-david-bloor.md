@@ -16,6 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-sociology-of-scientific-knowledge", target_type: "مدرسة"
 related:
 - id: "sch-sociology-of-scientific-knowledge", title: "سوسيولوجيا المعرفة والعلوم", type: "مدرسة"
+- id: "wrk-knowledge-social-imagery-bloor", title: "المعرفة والتخيّل الاجتماعي (Knowledge and Social Imagery)", type: "عمل / كتاب"
 gaps:
   - "لم يُستوفَ هنا تفصيل «مدرسة إدنبرة» المؤسسية التي طوّر فيها بلور برنامجه بالاشتراك مع باري بارنز."
 ---
