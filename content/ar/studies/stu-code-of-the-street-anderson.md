@@ -16,6 +16,7 @@ related:
 - id: "sch-whyte-participant-observation", title: "سوسيولوجيا الملاحظة بالمشاركة والمجتمعات الهامشية", type: "مدرسة"
 - id: "stu-sidewalk-duneier", title: "الرصيف", type: "دراسة وبحث"
 - id: "stu-punished-rios", title: "معاقَبون", type: "دراسة وبحث"
+- id: "stu-honor-and-the-american-dream-horowitz", title: "الشرف والحلم الأمريكي", type: "دراسة وبحث"
 gaps:
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بسدّ فجوة نوع `stu-`. إلايجا أندرسون، عالم اجتماع أمريكي، لا يزال بلا ملف مستقل في الأطلس."
 ---
