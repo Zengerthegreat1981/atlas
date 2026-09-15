@@ -20,6 +20,7 @@ related:
 - id: "thk-anselm-strauss", title: "أنسيلم شتراوس", type: "مفكر"
 - id: "con-grounded-theory-method", title: "منهج النظرية المجذرة عند غلاسر وشتراوس", type: "مفهوم"
 - id: "evt-glaser-strauss-discovery-grounded-theory-1967", title: "نشر «اكتشاف النظرية المجذرة» (1967) لغلاسر وشتراوس وتأسيس منهجٍ نوعي جديد", type: "حدث تاريخي"
+- id: "crt-charmaz-constructivist-critique-grounded-theory-objectivism", title: "نقد تشارماز البنائي للافتراضات الوضعية الضمنية في النظرية المجذرة الكلاسيكية", type: "نقد خارجي موثَّق"
 gaps:
   - "غلاسر وشتراوس انفصلا لاحقاً حول تفسير المنهج نفسه (نزاع منهجي معروف في الأدبيات)؛ هذا الملف يعرض الصياغة التأسيسية المشتركة لعام 1967 فقط، لا الخلاف اللاحق بينهما بالتفصيل (مذكور في `thk-glaser` و`thk-anselm-strauss` و`con-grounded-theory-method`)."
   - "**سُدَّ 2026-09-14 (الدفعة 30):** كُتب `thk-glaser`، `thk-anselm-strauss`، و`con-grounded-theory-method` وأُضيفت روابطها هنا."
