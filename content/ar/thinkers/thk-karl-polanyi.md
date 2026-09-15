@@ -16,8 +16,9 @@ edges:
 - rel: "belongs_to", target: "sch-economic-sociology-embeddedness", target_type: "مدرسة"
 related:
 - id: "sch-economic-sociology-embeddedness", title: "السوسيولوجيا الاقتصادية وتجذر الأسواق", type: "مدرسة"
+- id: "thk-granovetter", title: "مارك غرانوفيتر", type: "مفكر"
 gaps:
-  - "مارك غرانوفتر، الذي أحيا مفهوم «التجذر» سوسيولوجياً لاحقاً (1985)، لا يزال بلا ملف مستقل رغم الإشارة إليه ضمنياً في `sch-social-network-analysis-paradigm`."
+  - "**ملاحظةٌ باتت كاذبة، صُحِّحت 2026-09-15:** `thk-granovetter`، الذي أحيا مفهوم «التجذر» سوسيولوجياً لاحقاً (1985)، موثَّقٌ الآن بملفٍّ مستقل ومربوطٌ أعلاه."
 ---
 
 # كارل بولاني
