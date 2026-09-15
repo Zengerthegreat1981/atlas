@@ -16,6 +16,7 @@ related:
 - id: "sch-urban-sociology-spatial-planning", title: "السوسيولوجيا الحضرية وتخطيط المدن", type: "مدرسة"
 - id: "evt-kerner-commission-report-1968", title: "تقرير لجنة كيرنر (1968) وتشخيص «مجتمعين، أسود وأبيض، منفصلين وغير متكافئين»", type: "حدث تاريخي"
 - id: "stu-truly-disadvantaged-wilson", title: "المحرومون فعلاً", type: "دراسة وبحث"
+- id: "stu-savage-inequalities-kozol", title: "تفاوتاتٌ وحشية", type: "دراسة وبحث"
 gaps:
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بسدّ فجوة نوع `stu-`. دوغلاس ماسي ونانسي دينتون، عالما اجتماع أمريكيان، لا يزالان بلا ملف مستقل في الأطلس."
 ---
