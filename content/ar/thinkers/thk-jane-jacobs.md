@@ -16,6 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-urban-sociology-spatial-planning", target_type: "مدرسة"
 related:
 - id: "sch-urban-sociology-spatial-planning", title: "السوسيولوجيا الحضرية وتخطيط المدن", type: "مدرسة"
+- id: "wrk-death-life-great-american-cities-jacobs", title: "موت الحياة الأمريكية الكبرى في المدن (The Death and Life of Great American Cities)", type: "عمل / كتاب"
 gaps:
   - "لم تُستوفَ هنا حملتها النشطة الشهيرة ضد مخططات روبرت موزس التخطيطية في نيويورك رغم أهميتها في تشكيل أفكارها."
 ---
