@@ -15,6 +15,7 @@ edges:
 related:
 - id: "sch-sociology-of-family-gender-intimacy", title: "سوسيولوجيا الأسرة والنوع الاجتماعي والعلاقات الحميمية", type: "مدرسة"
 - id: "sch-bourdieu-distinction-cultural-reproduction", title: "سوسيولوجيا التمايز وإعادة الإنتاج الثقافي", type: "مدرسة"
+- id: "stu-brave-new-families-stacey", title: "عائلاتٌ جديدةٌ شجاعة", type: "دراسة وبحث"
 gaps:
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بسدّ فجوة نوع `stu-`. آنيت لارو، عالمة اجتماع أمريكية، لا تزال بلا ملف مستقل في الأطلس."
 ---
