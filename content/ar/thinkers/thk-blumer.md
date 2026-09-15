@@ -18,8 +18,10 @@ edges:
 - rel: "belongs_to", target: "sch-blumerian-symbolic-interactionism", target_type: "مدرسة"
 related:
 - id: "con-symbolic-interactionism-premises", title: "الفرضيات الثلاث للتفاعلية الرمزية عند بلومر", type: "مفهوم"
+- id: "dbt-blumer-manford-kuhn-chicago-iowa-symbolic-interactionism", title: "الانقسام المنهجي الأول في التفاعلية الرمزية: مدرسة شيكاغو التأويلية عند بلومر مقابل مدرسة آيوا القياسية عند مانفورد كون", type: "جدل"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 19 (مرحلة الحزم). عمل بلومر أيضاً في علم اجتماع الصناعة والعلاقات العمالية ولعب دوراً استشارياً في لجان حكومية أمريكية بعد الحرب العالمية الثانية؛ هذا الجانب من مسيرته غير مفصَّل هنا."
+  - "**تعميقٌ 2026-09-15:** أُضيف `dbt-blumer-manford-kuhn-chicago-iowa-symbolic-interactionism` وربطه هنا."
 ---
 
 # هربرت بلومر
