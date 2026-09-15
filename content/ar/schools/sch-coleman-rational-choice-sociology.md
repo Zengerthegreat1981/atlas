@@ -19,10 +19,12 @@ related:
 - id: "sch-analytical-sociology", title: "السوسيولوجيا التحليلية ونظرية الآليات الاجتماعية", type: "مدرسة"
 - id: "thk-coleman", title: "جيمس كولمان", type: "مفكر"
 - id: "con-social-capital-coleman", title: "رأس المال الاجتماعي عند كولمان", type: "مفهوم"
+- id: "dbt-bourdieu-coleman-social-capital-conflict-vs-rational-choice", title: "جدل رأس المال الاجتماعي: بورديو الصراعي مقابل كولمان العقلاني", type: "جدل"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3)."
   - "**سُدَّ 2026-09-14 (الدفعة 44):** كُتب `thk-coleman` و`con-social-capital-coleman` وأُضيفت روابطهما هنا."
   - "**يسدّ هذا الملف فجوةً موثَّقةً سابقاً في `sch-social-capital-civic.md`** (دفعة 0)، التي أشارت إلى غياب مدرسة اختيار عقلاني تُسند إليها؛ يُصحَّح `belongs_to` هناك في هذه الدفعة أيضاً."
+  - "**تعميقٌ 2026-09-15:** أُضيف `dbt-bourdieu-coleman-social-capital-conflict-vs-rational-choice` (يُفرد التباين مع صياغة بورديو المذكور أعلاه بملفٍّ جدلٍ مستقل) وربطه هنا."
 ---
 
 # سوسيولوجيا الاختيار العقلاني ورأس المال الاجتماعي
