@@ -20,7 +20,9 @@ related:
 - id: "thk-peter-burke", title: "بيتر بيرك", type: "مفكر"
 - id: "con-identity-salience-hierarchy-stryker", title: "نظرية الهوية والبروز الهرمي عند ستريكر", type: "مفهوم"
 - id: "thk-manford-kuhn", title: "مانفورد كون", type: "مفكر"
+- id: "wrk-symbolic-interactionism-social-structural-stryker", title: "التفاعلية الرمزية: نسخة بنائية اجتماعية", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `wrk-symbolic-interactionism-social-structural-stryker` وربطه هنا."
   - "**سُدَّت الفجوة 2026-09-15:** كُتب `thk-manford-kuhn` وأُضيف رابطه هنا."
   - "هذا الملف أُنشئ في الدفعة 32 (مرحلة الحزم). أستاذ في جامعة إنديانا؛ لا تفصيل هنا لعلاقته المنهجية الدقيقة بمدرسة أيوا للتفاعلية الرمزية (مانفورد كون) التي سبقت تركيزه على القياس البنائي الكمي، رغم أنها سياق تاريخي مباشر لنشأة موقفه."
 ---
