@@ -20,6 +20,7 @@ related:
 - id: "con-strong-programme-ssk-bloor", title: "البرنامج القوي في سوسيولوجيا المعرفة العلمية (Strong Programme)", type: "مفهوم"
 - id: "dbt-science-wars-sokal-affair-ssk-relativism", title: "حروب العلم: قضية سوكال ونسبية البرنامج القوي في سوسيولوجيا المعرفة العلمية", type: "جدل"
 - id: "thk-karl-mannheim", title: "كارل مانهايم", type: "مفكر"
+- id: "evt-founding-4s-society-social-studies-science-1975", title: "تأسيس جمعية الدراسات الاجتماعية للعلوم (4S، 1975) وتوحيد حقل سوسيولوجيا العلم", type: "حدث تاريخي"
 gaps:
   - "**سُدَّت الفجوة 2026-09-15:** كُتب `thk-karl-mannheim` وأُضيف رابطه هنا."
   - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8، الأخير، من `sociology-schools-backlog.md`)."
