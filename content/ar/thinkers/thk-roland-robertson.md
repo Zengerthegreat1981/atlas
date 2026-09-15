@@ -19,7 +19,9 @@ edges:
 related:
 - id: "sch-appadurai-robertson-global-culture", title: "سوسيولوجيا العولمة الثقافية والمشاهد العولمية", type: "مدرسة"
 - id: "thk-appadurai", title: "أرجون أپادوراي", type: "مفكر"
+- id: "wrk-globalization-social-theory-robertson", title: "العولمة: النظرية الاجتماعية والثقافة العالمية", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `wrk-globalization-social-theory-robertson` وربطه هنا."
   - "أُنشئ 2026-09-15 تنفيذاً لتوجيه المنسِّق (قراءة مباشرة لمتن مدارس الأقسام 1-8)، سادّاً فجوةً موثقةً صراحةً في `gaps` ملف `sch-appadurai-robertson-global-culture` القائم."
 ---
 

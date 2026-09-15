@@ -20,7 +20,9 @@ related:
 - id: "con-scapes-glocalization", title: "المشاهد العولمية والتمحلن (Scapes and Glocalization)", type: "مفهوم"
 - id: "wrk-modernity-at-large-appadurai", title: "الحداثة في حجم كبير (Modernity at Large)", type: "عمل / كتاب"
 - id: "thk-roland-robertson", title: "رولاند روبرتسون", type: "مفكر"
+- id: "wrk-globalization-social-theory-robertson", title: "العولمة: النظرية الاجتماعية والثقافة العالمية", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `wrk-globalization-social-theory-robertson` وربطه هنا."
   - "**سُدَّت الفجوة 2026-09-15:** كُتب `thk-roland-robertson` وأُضيف رابطه هنا."
   - "هذا الملف أُنشئ في الدفعة 6 من مهمة بناء قسم علم الاجتماع (القسم 6)."
   - "**سُدَّ جزئياً 2026-09-14 (دفعة تالية):** أُنشئ `thk-appadurai`. رولاند روبرتسون (`thk-roland-robertson`) لا يزال بلا ملف مستقل؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً."
