@@ -18,7 +18,9 @@ edges:
 - rel: "belongs_to", target: "sch-complex-organizations-gouldner-blau", target_type: "مدرسة"
 related:
 - id: "con-mock-representative-bureaucracy-gouldner", title: "البيروقراطية الزائفة والتمثيلية عند غولدنر", type: "مفهوم"
+- id: "wrk-patterns-industrial-bureaucracy-gouldner", title: "أنماط البيروقراطية الصناعية", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `wrk-patterns-industrial-bureaucracy-gouldner` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 48 (مرحلة الحزم). انتقد غولدنر لاحقاً الوظيفية البنائية بشدة في *الأزمة القادمة لعلم الاجتماع الغربي* (1970)، وهو موقف نظري لاحق مختلف عن عمله الميداني المبكر في سوسيولوجيا التنظيمات الموصوف هنا؛ التمايز بينهما مذكور صراحة في `belongs_to` الفارغ لملف المدرسة الأم."
 ---
 
