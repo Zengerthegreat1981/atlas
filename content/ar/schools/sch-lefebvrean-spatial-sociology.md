@@ -20,6 +20,7 @@ related:
 - id: "thk-lefebvre", title: "هنري لوفيفر", type: "مفكر"
 - id: "con-right-to-the-city-lefebvre", title: "إنتاج الفضاء والحق في المدينة (Right to the City)", type: "مفهوم"
 - id: "wrk-production-of-space-lefebvre", title: "إنتاج الفضاء", type: "عمل"
+- id: "br-critical-spatial-sociology-current", title: "تيار سوسيولوجيا الفضاء النقدية: من إنتاج الفضاء عند لوفيفر إلى الجغرافيا الماركسية عند هارفي", type: "تيار"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)."
   - "**تعميقٌ 2026-09-15:** أُضيف `wrk-production-of-space-lefebvre` (يُفرد كتاب *إنتاج الفضاء* 1974 بملفٍّ عملٍ مستقل) وربطه هنا."

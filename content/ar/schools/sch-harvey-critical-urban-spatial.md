@@ -20,6 +20,7 @@ related:
 - id: "thk-david-harvey", title: "ديفيد هارفي", type: "مفكر"
 - id: "con-spatial-fix-harvey", title: "الإصلاح المكاني وأزمات فيض التراكم (Spatial Fix)", type: "مفهوم"
 - id: "con-accumulation-by-dispossession-harvey", title: "التراكم عبر نزع الملكية (Accumulation by Dispossession)", type: "مفهوم"
+- id: "br-critical-spatial-sociology-current", title: "تيار سوسيولوجيا الفضاء النقدية: من إنتاج الفضاء عند لوفيفر إلى الجغرافيا الماركسية عند هارفي", type: "تيار"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)، ويكمل `sch-lefebvrean-spatial-sociology` المنشأ في الدفعة نفسها."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-david-harvey`."
