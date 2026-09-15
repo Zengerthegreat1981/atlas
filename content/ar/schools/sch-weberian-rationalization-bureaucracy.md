@@ -22,7 +22,9 @@ related:
 - id: "dbt-weber-michels-organizational-pessimism", title: "جدل التشاؤم التنظيمي: القفص الحديدي عند فيبر مقابل القانون الحديدي للأوليغارشية عند ميشيلز", type: "جدل"
 - id: "rel-weber-bureaucracy-sociology-milgram-agentic-state-psychology-bridge", title: "من العقلنة البيروقراطية عند فيبر إلى الحالة الوكالية النفسية عند ميلغرام", type: "علاقة بين مدرستين"
 - id: "con-disenchantment-weber", title: "نزع السحر عن العالم عند فيبر (Entzauberung)", type: "مفهوم"
+- id: "wrk-economy-and-society-weber", title: "الاقتصاد والمجتمع", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-15 (عنقودٌ فيبري):** أُضيف `wrk-economy-and-society-weber` وربطه هنا."
   - "**تكثيفٌ 2026-09-15:** أُضيف `con-disenchantment-weber` وربطه هنا (مفهومٌ مركزيٌّ مذكورٌ في متن `thk-weber` دون ملف مستقل سابقاً)."
   - "**جسرٌ 2026-09-15:** أُضيف `rel-weber-bureaucracy-sociology-milgram-agentic-state-psychology-bridge` وربطه هنا، يصل هذه المدرسة بمفهوم `con-agentic-state-milgram` النفسي."
   - "**تعميقٌ 2026-09-14:** أُضيف `dbt-weber-michels-organizational-pessimism` وربطه هنا."

@@ -21,7 +21,11 @@ related:
 - id: "thk-weber", title: "ماكس فيبر", type: "مفكر"
 - id: "dbt-marx-weber-class-stratification", title: "جدل التراتب أحادي البعد عند ماركس مقابل متعدد الأبعاد عند فيبر", type: "جدل"
 - id: "con-types-of-authority-weber", title: "أنماط السلطة الشرعية الثلاثة عند فيبر", type: "مفهوم"
+- id: "con-ideal-type-weber", title: "النمط المثالي عند فيبر (Idealtypus)", type: "مفهوم"
+- id: "con-social-action-types-weber", title: "أنماط الفعل الاجتماعي الأربعة عند فيبر", type: "مفهوم"
+- id: "wrk-economy-and-society-weber", title: "الاقتصاد والمجتمع", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-15 (عنقودٌ فيبري):** أُضيفت `con-ideal-type-weber`، `con-social-action-types-weber`، و`wrk-economy-and-society-weber` وربطها هنا."
   - "**تكثيفٌ 2026-09-15:** أُضيف `con-types-of-authority-weber` وربطه هنا (مفهومٌ مركزيٌّ مذكورٌ في متن `thk-weber` دون ملف مستقل سابقاً)."
   - "**تصحيح 2026-09-14 (مرحلة الحزم):** `thk-weber` موجودٌ فعلاً بوسم `part: \"philosophy\"`؛ الملاحظة السابقة هنا (زعمت غيابه) كانت خطأً. الإشارة الآن عبر `related` وحده لتباين `part`. `belongs_to` يبقى فارغاً لغياب جذر سوسيولوجي عام."
   - "**تعميقٌ 2026-09-14:** أُضيف رابط `dbt-marx-weber-class-stratification` (مسندٌ بـ`belongs_to` إلى `sch-marxist-classical-sociology`، ورُبط هنا أيضاً بحكم أن فيبر طرفٌ أصيل في الجدل)."
