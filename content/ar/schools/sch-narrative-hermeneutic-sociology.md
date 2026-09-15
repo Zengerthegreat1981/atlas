@@ -19,7 +19,9 @@ related:
 - id: "thk-ken-plummer", title: "كين بلامر", type: "مفكر"
 - id: "con-narrative-identity", title: "الهوية السردية (Narrative Identity): أنا كقصة أرويها عن نفسي", type: "مفهوم"
 - id: "wrk-telling-sexual-stories-plummer", title: "قصص الحياة الجنسية (Telling Sexual Stories)", type: "عمل / كتاب"
+- id: "thk-margaret-somers", title: "مارغريت سومرز", type: "مفكر"
 gaps:
+  - "**سُدَّت الفجوة 2026-09-15:** كُتب `thk-margaret-somers` وأُضيف رابطه هنا."
   - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5)."
   - "**سُدَّ جزئياً 2026-09-14 (دفعة تالية):** أُنشئ `thk-ken-plummer`. مارغريت سومرز (`thk-margaret-somers`) لا تزال بلا ملف مستقل؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً."
 ---
