@@ -2897,3 +2897,30 @@ edward-said` (كلاهما philosophy-part، موثَّقٌ صراحةً في ga
 **سُبِر أيضاً** `sch-dorothy-smith-institutional-ethnography` و`sch-alatas-
 captive-mind-sociology` وتبيّن أنهما مكتملا التوثيق جيداً. عنقود القسم 7
 شبه مُستنفَد الآن؛ الانتقال التالي إلى الأقسام 3-5 كما وجّه المنسِّق.
+
+---
+
+## 🆕 عنقودٌ جديد: الأقسام 3-5 (الظاهراتية/التفاعلية الرمزية/غوفمان)
+
+تنفيذاً لتوجيه المنسِّق بالانتقال إلى الأقسام 3-5.
+
+**1 عقدة wrk- جديدة + إصلاح 3 فجوات كاذبة:**
+
+1. `wrk-asylums-goffman` — الكتاب نفسه (1961)، متمايزٌ عن `stu-asylums-
+   fieldwork-goffman` (العمل الميداني المتخفي ذاته، عقدة `stu-` سابقة).
+2. **إصلاح فجوةٍ كاذبة كبرى في `thk-goffman`:** زعمت الملاحظة السابقة غياب
+   ثلاثة أعمالٍ محورية (Asylums/Stigma/Frame Analysis)؛ تبيّن أن اثنين منها
+   (`wrk-stigma-goffman`، `wrk-frame-analysis-goffman`) موجودان بالفعل منذ
+   دفعاتٍ سابقة (بعناوين عربية مختلفة قليلاً) لكن غير مربوطين من ملف المفكر.
+3. **إصلاح فجوةٍ كاذبة في `thk-hsacks`:** زعمت غياب `thk-goffman` رغم وجوده.
+
+سُبِرت أيضاً `sch-berger-luckmann-social-construction`، `sch-garfinkelian-
+ethnomethodology`، `sch-blumerian-symbolic-interactionism`،
+`sch-goffman-dramaturgical`، `sch-goffman-frame-analysis`،
+`sch-goffman-stigma` — جميعها مكتملة التوثيق جيداً (تجارب الخرق موثَّقة
+ضمن `con-ethnomethodology-indexicality` القائم، فلم يُكرَّر بملفٍّ منفصل).
+
+**الإجمالي: wrk- 108→109.** الفحوص الثلاثة نظيفة (روابط br- معلَّقة لعمل
+الوكيل الآخر في نطاق economic-sociology، غير متعلقة).
+
+مستمرٌّ بدفعاتٍ متتالية في عنقود الأقسام 3-5.
