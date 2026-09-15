@@ -23,7 +23,9 @@ related:
 - id: "con-culture-industry-adorno", title: "صناعة الثقافة والتسليع الجماهيري (Culture Industry)", type: "مفهوم"
 - id: "dbt-adorno-hall-culture-industry-vs-active-audience", title: "جدل الجمهور السلبي عند أدورنو مقابل التلقي التفاوضي النشط عند هول", type: "جدل"
 - id: "con-eros-and-civilization-marcuse", title: "الإيروس والحضارة عند ماركوز", type: "مفهوم"
+- id: "wrk-dialectic-of-enlightenment-adorno-horkheimer", title: "جدل التنوير لأدورنو وهوركهايمر", type: "عمل / كتاب"
 gaps:
+  - "**تصحيحُ ملاحظةٍ باتت كاذبة 2026-09-15:** العمل المحوري لهذا الملف (*جدل التنوير*، 1944) موثَّقٌ بالفعل بملفٍّ مستقل (`wrk-dialectic-of-enlightenment-adorno-horkheimer`)، لكنه كان `part: \"philosophy\"` (belongs_to سوسولوجيا فرانكفورت الفلسفية) وغير مربوطٍ من هذا الملف السوسيولوجي؛ أُضيف هنا عبر `related` لا `belongs_to` (اختلاف `part`)، بنفس نمط الاستثناء المعتمد للجسور بين الأقسام."
   - "**تعميقٌ 2026-09-15:** أُضيف `con-eros-and-civilization-marcuse` وربطه هنا."
   - "**تعميقٌ 2026-09-14:** أُضيف `dbt-adorno-hall-culture-industry-vs-active-audience` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)، ويعرض البعد السوسيولوجي التطبيقي (صناعة الثقافة، التسليع) لمدرسة فرانكفورت، متمايزاً عن `sch-frankfurt-school` القائمة في قسم الفلسفة (`part: \"philosophy\"`) التي تغطي المشروع الفلسفي الأوسع. الربط بينهما عبر `related` لا `belongs_to` (يشترط تطابق `part`). `belongs_to` لهذا الملف نفسه تُرك فارغاً لغياب جذر سوسيولوجي عام."
