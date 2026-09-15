@@ -19,6 +19,7 @@ related:
 - id: "thk-everett-hughes", title: "إيفريت هيوز", type: "مفكر"
 - id: "con-career-master-status-hughes", title: "المسار المهني والوضع المهيمن (Career & Master Status)", type: "مفهوم"
 - id: "con-dirty-work-hughes", title: "المهام القذرة (Dirty Work)", type: "مفهوم"
+- id: "br-sociology-of-work-labor-process-current", title: "تيار سوسيولوجيا العمل: من التنظيم المهني إلى نظرية عملية العمل الصراعية", type: "تيار"
 gaps:
   - "**تعميقٌ 2026-09-15:** أُضيف `con-dirty-work-hughes` (مفهوم هيوز الثاني) وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8)، ويكمل تراث `sch-braverman-labor-process` (الدفعة 4) بزاوية تفاعلية-مهنية مختلفة عن التحليل الطبقي البنيوي."

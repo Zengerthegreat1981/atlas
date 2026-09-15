@@ -19,6 +19,7 @@ related:
 - id: "thk-braverman", title: "هاري برافرمان", type: "مفكر"
 - id: "con-deskilling-labor-process-braverman", title: "نزع المهارة وعملية العمل (Deskilling & Labor Process)", type: "مفهوم"
 - id: "dbt-braverman-labor-process-debate-deskilling-critics", title: "مناظرة عملية العمل: نقد أطروحة نزع المهارة الأحادية عند برافرمان", type: "جدل"
+- id: "br-sociology-of-work-labor-process-current", title: "تيار سوسيولوجيا العمل: من التنظيم المهني إلى نظرية عملية العمل الصراعية", type: "تيار"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-braverman`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
