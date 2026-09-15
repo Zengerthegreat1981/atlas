@@ -19,7 +19,10 @@ related:
 - id: "sch-simmelian-money-metropolis", title: "سوسيولوجيا الثقافة الحضرية والمالية", type: "مدرسة"
 - id: "thk-simmel", title: "جورج زيمل", type: "مفكر"
 - id: "con-dyad-triad-simmel", title: "الثنائي والثلاثي عند زيمل", type: "مفهوم"
+- id: "con-stranger-simmel", title: "الغريب عند زيمل (Der Fremde)", type: "مفهوم"
+- id: "wrk-soziologie-simmel-1908", title: "السوسيولوجيا: أبحاث في أشكال التجمّع", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيفت `con-stranger-simmel` و`wrk-soziologie-simmel-1908` وربطهما هنا."
   - "**سُدَّ 2026-09-14 (مرحلة الحزم، دفعة 9):** كُتب `thk-simmel` وأُسند إلى هذا الملف بـ`belongs_to`."
   - "**تعميقٌ 2026-09-14:** أُضيف `con-dyad-triad-simmel` وربطه هنا."
 ---
