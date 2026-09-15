@@ -22,7 +22,9 @@ related:
 - id: "thk-parsons", title: "تالكوت بارسونز", type: "مفكر"
 - id: "con-action-frame-of-reference-parsons", title: "الإطار المرجعي للفعل عند بارسونز", type: "مفهوم"
 - id: "dbt-parsons-mills-consensus-vs-conflict", title: "جدل التوافق البنيوي عند بارسونز مقابل نقد ميلز الراديكالي", type: "جدل"
+- id: "wrk-structure-of-social-action-parsons", title: "بنية الفعل الاجتماعي", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `wrk-structure-of-social-action-parsons` وربطه هنا."
   - "**تعميقٌ 2026-09-14:** أُضيف `dbt-parsons-mills-consensus-vs-conflict` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3)."
   - "**سُدَّ 2026-09-14 (الدفعة 33):** كُتب `thk-parsons` و`con-action-frame-of-reference-parsons` وأُضيفت روابطهما هنا."

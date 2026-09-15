@@ -17,10 +17,12 @@ crumb: "علم الاجتماع ← الوظيفية البنائية ونظري
 edges:
 - rel: "belongs_to", target: "sch-parsonian-action-frame", target_type: "مدرسة"
 related:
+- id: "wrk-structure-of-social-action-parsons", title: "بنية الفعل الاجتماعي", type: "عمل / كتاب"
 - id: "con-action-frame-of-reference-parsons", title: "الإطار المرجعي للفعل عند بارسونز", type: "مفهوم"
 - id: "sch-parsonian-structural-functionalism-agil", title: "الوظيفية البنائية الشاملة ونموذج AGIL", type: "مدرسة"
 - id: "sch-parsonian-pattern-variables", title: "متغيرات النمط ونظرية التحديث", type: "مدرسة"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `wrk-structure-of-social-action-parsons` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 33 (مرحلة الحزم). هيمن بارسونز على علم الاجتماع الأمريكي الأكاديمي لعقود (خصوصاً 1940–1960) قبل أن يتعرض مشروعه لنقد حاد من عدة اتجاهات (نظرية الصراع، التفاعلية الرمزية، الإثنوميثودولوجيا) في الستينيات والسبعينيات؛ هذا التحول التاريخي في استقباله غير مفصَّل هنا تفصيلاً كاملاً."
 ---
 
