@@ -16,6 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-dahrendorfian-conflict-sociology", target_type: "مدرسة"
 related:
 - id: "sch-dahrendorfian-conflict-sociology", title: "سوسيولوجيا الصراع الليبرالية", type: "مدرسة"
+- id: "wrk-class-conflict-industrial-society-dahrendorf", title: "الطبقة الاجتماعية وصراعها الطبقي في المجتمع الصناعي (Class and Class Conflict in Industrial Society)", type: "عمل / كتاب"
 gaps:
   - "مسيرته السياسية اللاحقة (وزيراً ألمانياً ثم عضواً في مجلس اللوردات البريطاني) لم تُستوفَ هنا."
 ---

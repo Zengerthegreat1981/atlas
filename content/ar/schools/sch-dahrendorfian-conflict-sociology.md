@@ -19,6 +19,7 @@ related:
 - id: "thk-dahrendorf", title: "رالف دارندورف", type: "مفكر"
 - id: "con-authority-conflict-dahrendorf", title: "صراع السلطة في الجمعيات المنسَّقة قسرياً (Authority Conflict)", type: "مفهوم"
 - id: "dbt-dahrendorf-marx-authority-vs-property", title: "جدل مصدر الصراع الاجتماعي: السلطة عند دارندورف مقابل الملكية عند ماركس", type: "جدل"
+- id: "wrk-class-conflict-industrial-society-dahrendorf", title: "الطبقة الاجتماعية وصراعها الطبقي في المجتمع الصناعي (Class and Class Conflict in Industrial Society)", type: "عمل / كتاب"
 gaps:
   - "**تعميقٌ 2026-09-14:** أُضيف `dbt-dahrendorf-marx-authority-vs-property` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4 من `sociology-schools-backlog.md`)."
