@@ -20,8 +20,10 @@ related:
 - id: "thk-nancy-fraser", title: "نانسي فريزر", type: "مفكر"
 - id: "con-crisis-of-care-fraser", title: "أزمة الرعاية والتناقض الاجتماعي-الإنجابي (Crisis of Care)", type: "مفهوم"
 - id: "wrk-contradictions-capital-care-fraser", title: "تناقضات رأس المال والرعاية (Contradictions of Capital and Care)", type: "عمل / كتاب"
+- id: "con-global-care-chains-hochschild", title: "سلاسل الرعاية العالمية والوردية الثانية عند هوكشيلد", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7). المرتبط بنفس المفكرة نانسي فريزر التي ظهرت في `sch-honneth-fraser-recognition-redistribution` (الدفعة 4) لكن بموضوع مختلف تماماً (إعادة الإنتاج الاجتماعي/الرعاية لا الاعتراف)؛ الملفان مرتبطان عبر `related` لأنهما موضوعان متمايزان للمفكرة نفسها."
+  - "**تعميقٌ 2026-09-15:** أُضيف رابط `con-global-care-chains-hochschild` (مذكورٌ صراحةً في المتن أعلاه بوصفه تحليلاً متقاطعاً، لكنه لم يكن مربوطاً)."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-nancy-fraser`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
 ---
 

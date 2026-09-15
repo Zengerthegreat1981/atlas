@@ -16,8 +16,10 @@ edges:
 related:
 - id: "thk-hochschild", title: "أرلي راسل هوكشيلد", type: "مفكر"
 - id: "sch-hochschild-care-work", title: "سوسيولوجيا سلاسل الرعاية العالمية والوردية الثانية", type: "مدرسة"
+- id: "sch-fraser-social-reproduction-crisis-of-care", title: "سوسيولوجيا أزمة الرعاية والعدالة الرأسمالية", type: "مدرسة"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 28 (مرحلة الحزم)."
+  - "**تعميقٌ 2026-09-15:** رُبط بـ`sch-fraser-social-reproduction-crisis-of-care` (تحليلٌ متقاطع مذكورٌ صراحةً هناك)."
 ---
 
 # سلاسل الرعاية العالمية والوردية الثانية عند هوكشيلد
