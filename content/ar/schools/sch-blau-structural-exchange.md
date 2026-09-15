@@ -21,6 +21,7 @@ related:
 - id: "con-power-imbalance-exchange-blau", title: "السلطة وعدم التكافؤ في التبادل عند بلاو", type: "مفهوم"
 - id: "wrk-exchange-and-power-social-life-blau", title: "التبادل والسلطة في الحياة الاجتماعية", type: "عمل / كتاب"
 - id: "wrk-inequality-heterogeneity-blau", title: "اللامساواة والتغايُر: نظرية أولية للبنية الاجتماعية", type: "عمل / كتاب"
+- id: "dbt-homans-blau-behavioral-vs-structural-exchange", title: "جدل نظرية التبادل: السلوكية المجهرية عند هومانز مقابل البنائية الأوسع عند بلاو", type: "جدل"
 gaps:
   - "**تعميقٌ 2026-09-15:** أُضيفت `wrk-exchange-and-power-social-life-blau` و`wrk-inequality-heterogeneity-blau` وربطهما هنا."
   - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3)، ويكمل `sch-homans-behavioral-exchange` المنشأ في الدفعة نفسها."
