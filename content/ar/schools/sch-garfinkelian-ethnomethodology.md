@@ -20,6 +20,7 @@ related:
 - id: "thk-garfinkel", title: "هارولد غارفينكل", type: "مفكر"
 - id: "con-ethnomethodology-indexicality", title: "الفهرسة والإنجاز العملي للنظام الاجتماعي (Indexicality)", type: "مفهوم"
 - id: "wrk-studies-in-ethnomethodology-garfinkel", title: "دراسات في الإثنوميثودولوجيا (Studies in Ethnomethodology)", type: "عمل / كتاب"
+- id: "ins-breaching-experiment-garfinkel", title: "تجارب الخرق عند غارفينكل (Breaching Experiments)", type: "منهج/أداة بحث"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5)."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-garfinkel`. `belongs_to` لهذا الملف نفسه لا يزال فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
