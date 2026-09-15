@@ -15,6 +15,7 @@ edges:
 related:
 - id: "sch-sociology-of-religion-post-secularism", title: "سوسيولوجيا الدين والتحولات العلمانية", type: "مدرسة"
 - id: "br-social-capital-theory-current", title: "تيار نظرية رأس المال الاجتماعي: ثلاثة تعريفات متنافسة", type: "تيار"
+- id: "stu-divided-by-faith-emerson-smith", title: "منقسمون بالإيمان", type: "دراسة وبحث"
 gaps:
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بسدّ فجوة نوع `stu-`. ديفيد كامبل، عالم سياسة أمريكي شارك بوتنام تأليف هذا الكتاب، لا يزال بلا ملف مستقل في الأطلس."
 ---
