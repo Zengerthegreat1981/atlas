@@ -20,7 +20,9 @@ related:
 - id: "sch-said-sociology-of-orientalism", title: "النقد السوسيولوجي للاستشراق والتمثيل الإمبريالي", type: "مدرسة"
 - id: "con-sociogeny-fanon", title: "السوسيوجينية والعصاب الاستعماري (Sociogeny)", type: "مفهوم"
 - id: "wrk-the-wretched-of-the-earth-fanon", title: "معذبو الأرض لفرانز فانون (Les Damnés de la Terre)", type: "عمل / كتاب"
+- id: "wrk-black-skin-white-masks-fanon", title: "بشرة سوداء أقنعة بيضاء لفرانز فانون", type: "عمل / كتاب"
 gaps:
+  - "**تصحيحُ ملاحظةٍ باتت كاذبة 2026-09-15:** *بشرة سوداء، أقنعة بيضاء* (1952) — العمل الذي صاغ فيه فانون مفهوم «السوسيوجينيا» الموصوف هنا — موثَّقٌ بالفعل بملفٍّ مستقل (`wrk-black-skin-white-masks-fanon`، part: philosophy، belongs_to sch-decolonial-philosophy)، لكنه لم يكن مربوطاً بهذا الملف السوسيولوجي؛ أُضيف عبر `related` لا `belongs_to` (اختلاف `part`)."
   - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7). ملف `thk-fanon` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده. `belongs_to` لهذا الملف نفسه تُرك فارغاً."
 ---
 

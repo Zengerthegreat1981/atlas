@@ -21,7 +21,9 @@ related:
 - id: "thk-sahmed", title: "سارة أحمد", type: "مفكر"
 - id: "dbt-feminist-universalism-vs-particularism", title: "جدل الكونية مقابل الخصوصية في النسوية", type: "جدل"
 - id: "crt-diagnosis-feminist", title: "نقد التشخيص: المنظور النسوي", type: "نقد خارجي موثَّق"
+- id: "wrk-feminist-theory-margin-to-center-hooks", title: "النظرية النسوية: من الهامش إلى المركز", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `wrk-feminist-theory-margin-to-center-hooks` وربطه هنا."
   - "لا يوجد اقتباس مباشر موثوق من *All About Love* (2000) بترجمة عربية معتمدة."
   - "**صُحِّح `part` 2026-09-10:** كان «psychology» بينما أبوه `br-intersectional-feminist` موسومٌ «philosophy» — فوُحِّد على وسم الأب، لأنّ الوسمَ يحكم التصفيةَ والفهارسَ فاختلافُه عن الأب يُخرج العقدةَ من فهرس قسمها."
 ---

@@ -18,7 +18,9 @@ edges:
 - rel: "written_by", target: "thk-fanon", target_type: "مفكر"
 related:
 - id: "wrk-the-wretched-of-the-earth-fanon", title: "معذبو الأرض لفرانز فانون (Les Damnés de la Terre)", type: "عمل / كتاب"
+- id: "sch-fanonian-liberation-sociology", title: "علم الاجتماع التحرري ومناهضة الاستعمار", type: "مدرسة"
 gaps:
+  - "**رُبط 2026-09-15:** أُضيفت إشارةٌ إلى `sch-fanonian-liberation-sociology` (القراءة السوسيولوجية للعمل نفسه، part: \"sociology\") عبر `related` لا `belongs_to` لاختلاف `part`."
   - "لم يثبت وجود ترجمة عربية منشورة لهذا العمل بثلاثيّها الكامل: بُحث عن مترجم وناشر وسنة ولم يُعثر على تثبيت كافٍ."
   - "لا يوجد اقتباس مباشر موثوق بأرقام صفحات من نص الكتاب في هذا المدخل."
 ---
