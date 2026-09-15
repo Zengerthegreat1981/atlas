@@ -20,6 +20,7 @@ related:
 - id: "sch-mertonian-sociology-of-science", title: "سوسيولوجيا العلم والمؤسسة الأكاديمية", type: "مدرسة"
 - id: "thk-robert-merton", title: "روبرت ك. ميرتون", type: "مفكر"
 - id: "con-cumulative-advantage-matthew-effect", title: "الميزة التراكمية وتأثير ماثيو الممتد", type: "مفهوم"
+- id: "evt-merton-matthew-effect-science-1968", title: "نشر ميرتون مقالة «تأثير ماثيو في العلم» (1968) في مجلة Science", type: "حدث تاريخي"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3)، ويكمل `sch-mertonian-middle-range` المنشأ في دفعة سابقة من الدفعة نفسها."
   - "**سُدَّت الفجوة 2026-09-14:** كُتب `con-cumulative-advantage-matthew-effect` وأُضيف رابطه هنا مع رابط `thk-robert-merton`. لا يوجد بعد ملفات مستقلة لتوماس دي.برييت أو غريغوري إيريش (اكتُفي بمفهوم مستقل يوثّق مراجعتهما 2006 بدل ملفي مفكر منفصلين، لأن مساهمتهما مقالة مراجعة مشتركة واحدة لا مسيرتان بحثيتان مستقلتان موثَّقتان widely)."
