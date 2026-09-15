@@ -22,7 +22,9 @@ related:
 - id: "thk-axel-honneth", title: "أكسل هونيث", type: "مفكر"
 - id: "con-recognition-theory-honneth", title: "الاعتراف والصراع من أجل الكرامة (Recognition Theory)", type: "مفهوم"
 - id: "con-bivalent-conception-of-justice-fraser", title: "التصور ثنائي البعد للعدالة: التوزيع والاعتراف عند فريزر (Bivalent Conception of Justice)", type: "مفهوم"
+- id: "wrk-struggle-for-recognition-honneth", title: "الصراع من أجل الاعتراف", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `wrk-struggle-for-recognition-honneth` وربطه هنا (belongs_to مباشرةً لهذا الملف، لا لملف المفكر philosophy-part)."
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)، ويكمل `sch-frankfurt-critical-sociology` المنشأ في الدفعة نفسها."
   - "**تعميقٌ 2026-09-15:** أُضيف `con-bivalent-conception-of-justice-fraser` (مفهوم فريزر الخاص، متمايز عن نظرية الاعتراف عند هونيث) وربطه هنا."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُضيف رابط `thk-nancy-fraser` (موجودة من دفعة سابقة، القسم 7) ومفهوم الاعتراف عند هونيث (part: philosophy، عبر related). أكسل هونيث (`thk-axel-honneth`) موجود بملف مستقل موسوم part: philosophy أيضاً؛ لم يُنشأ ملف sociology مكرَّر له."
