@@ -24,9 +24,11 @@ related:
 - id: "thk-durkheim", title: "إميل دوركهايم", type: "مفكر"
 - id: "con-anomie-durkheim", title: "الأنومي (Anomie) عند دوركهايم", type: "مفهوم"
 - id: "rel-durkheim-suicide-sociology-vs-shneidman-psychache-psychology-bridge", title: "الانتحار بين التفسير السوسيولوجي البنيوي عند دوركهايم والألم النفسي الفردي عند شنايدمان", type: "علاقة بين مدرستين"
+- id: "dbt-douglas-critique-durkheim-suicide-statistics", title: "جدل موثوقية إحصاءات الانتحار: نقد دوغلاس التأويلي لمنهج دوركهايم الوضعي", type: "جدل"
 gaps:
   - "**جسرٌ 2026-09-15:** أُضيف `rel-durkheim-suicide-sociology-vs-shneidman-psychache-psychology-bridge` (الدفعة الأخيرة من القسم 4 في SOCIOLOGY_MISSION_PROMPT.md) وربطه هنا، يقارن التفسير السوسيولوجي البنيوي للانتحار بالتفسير النفسي الفردي عند شنايدمان."
   - "هذا الملف أُنشئ في الدفعة 10 (مرحلة الحزم). لا تفصيل هنا لنقد لاحق موثَّق لموثوقية الإحصاءات الرسمية الأوروبية التي بنى عليها دوركهايم تحليله (تحيزات تسجيل محتملة، خصوصاً في مناطق كاثوليكية)؛ يحتاج قسماً نقدياً أوسع عند مراجعة لاحقة."
+  - "**سُدَّت الفجوة أعلاه 2026-09-15:** أُنشئ `dbt-douglas-critique-durkheim-suicide-statistics` (يُفرد نقد دوغلاس التأويلي بملفٍّ جدلٍ مستقل) وربطه هنا."
 ---
 
 # الانتحار: دراسة سوسيولوجية

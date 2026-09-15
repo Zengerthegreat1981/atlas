@@ -20,6 +20,7 @@ related:
 - id: "con-existential-sociology-lived-experience", title: "التجربة الوجودية المعيشة (Existential Lived Experience)", type: "مفهوم"
 - id: "wrk-existential-sociology-douglas-johnson", title: "السوسيولوجيا الوجودية (Existential Sociology)", type: "عمل / كتاب"
 - id: "thk-john-johnson-existential", title: "جون م. جونسون", type: "مفكر"
+- id: "dbt-douglas-critique-durkheim-suicide-statistics", title: "جدل موثوقية إحصاءات الانتحار: نقد دوغلاس التأويلي لمنهج دوركهايم الوضعي", type: "جدل"
 gaps:
   - "**سُدَّت الفجوة 2026-09-15:** كُتب `thk-john-johnson-existential` وأُضيف رابطه هنا."
   - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5)."
