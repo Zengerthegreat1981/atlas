@@ -20,7 +20,9 @@ related:
 - id: "thk-anthony-giddens", title: "أنتوني غيدنز", type: "مفكر"
 - id: "con-reflexive-modernity-self-identity", title: "الحداثة الفائقة والهوية الانعكاسية (Reflexive Self-Identity)", type: "مفهوم"
 - id: "wrk-modernity-and-self-identity-giddens", title: "الحداثة والهوية الذاتية (Modernity and Self-Identity)", type: "عمل / كتاب"
+- id: "wrk-consequences-of-modernity-giddens", title: "نتائج الحداثة", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `wrk-consequences-of-modernity-giddens` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 6 من مهمة بناء قسم علم الاجتماع (القسم 6)، ويكمل `sch-giddens-structuration-theory` المنشأ في الدفعة نفسها."
   - "ملف `thk-anthony-giddens` القائم موسومٌ `part: \"psychology\"`، فالإشارة إليه عبر `related` وحده."
 ---

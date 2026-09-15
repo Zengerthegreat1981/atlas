@@ -17,7 +17,9 @@ edges:
 related:
 - id: "sch-castells-network-society", title: "سوسيولوجيا مجتمع الشبكات والمعلومات", type: "مدرسة"
 - id: "sch-castells-communication-power", title: "سوسيولوجيا سلطة الاتصال والحركات الرقمية", type: "مدرسة"
+- id: "wrk-end-of-millennium-castells", title: "نهاية الألفية", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `wrk-end-of-millennium-castells` وربطه هنا."
   - "ثلاثية *عصر المعلومات* (1996–1998) عمل ضخم ثلاثي المجلدات؛ هذا الملف يلخّص فكرتها المركزية دون استيفاء تفاصيلها الإقليمية والاقتصادية الكاملة."
 ---
 
