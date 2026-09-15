@@ -19,6 +19,7 @@ related:
 - id: "thk-howard-newby", title: "هوارد نيوبي", type: "مفكر"
 - id: "con-deferential-worker-newby", title: "خنوعية العامل الزراعي (Deferential Worker)", type: "مفهوم"
 - id: "thk-charles-galpin", title: "تشارلز غالبين", type: "مفكر"
+- id: "ins-community-trade-area-mapping-galpin", title: "رسم حدود المجتمع المحلي عبر منطقة التداول التجاري عند غالبين", type: "منهج/أداة بحث"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8)."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-howard-newby`."
