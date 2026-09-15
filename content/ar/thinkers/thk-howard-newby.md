@@ -16,7 +16,9 @@ edges:
 - rel: "belongs_to", target: "sch-rural-agrarian-sociology", target_type: "مدرسة"
 related:
 - id: "sch-rural-agrarian-sociology", title: "السوسيولوجيا الريفية والمجتمعات الزراعية", type: "مدرسة"
+- id: "thk-charles-galpin", title: "تشارلز غالبين", type: "مفكر"
 gaps:
+  - "**تصحيحُ ملاحظةٍ باتت كاذبة 2026-09-15:** `thk-charles-galpin` موجودٌ بالفعل (كُتب في دفعةٍ سابقة)؛ أُضيف رابطه هنا."
   - "تشارلز غالبين، رائد الحقل الأمريكي المبكر (1915)، لا يزال بلا ملف مستقل؛ الإشارة إليه هنا نصية فقط."
 ---
 

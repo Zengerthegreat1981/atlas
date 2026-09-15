@@ -17,7 +17,9 @@ edges:
 related:
 - id: "sch-environmental-sociology-sustainability", title: "السوسيولوجيا البيئية والتنمية المستدامة", type: "مدرسة"
 - id: "sch-environmental-sociology-metabolic-rift", title: "السوسيولوجيا البيئية ونظرية الصدع الأيضي", type: "مدرسة"
+- id: "thk-william-catton", title: "ويليام كاتون", type: "مفكر"
 gaps:
+  - "**تصحيحُ ملاحظةٍ باتت كاذبة 2026-09-15:** `thk-william-catton` موجودٌ بالفعل (كُتب في دفعةٍ سابقة)؛ أُضيف رابطه هنا."
   - "شريكه ويليام كاتون في المقالة التأسيسية لا يزال بلا ملف مستقل؛ الإسناد المشترك موثَّق نصياً هنا."
 ---
 

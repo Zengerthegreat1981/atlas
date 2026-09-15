@@ -18,7 +18,9 @@ edges:
 - rel: "belongs_to", target: "sch-sociology-of-aging-life-course", target_type: "مدرسة"
 related:
 - id: "con-life-course-perspective-elder", title: "منظور مسار الحياة (Life Course Perspective)", type: "مفهوم"
+- id: "thk-william-henry", title: "وليام إ. هنري", type: "مفكر"
 gaps:
+  - "**سُدَّت الفجوة 2026-09-15:** كُتب `thk-william-henry` وأُضيف رابطه هنا."
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بتعميق حزم القسم 8، لسدّ الفجوة المذكورة صراحة في `gaps` ملف `sch-sociology-of-aging-life-course`. شريكها في التأليف وليام هنري (William E. Henry) لا يزال بلا ملف مستقل؛ الإسناد المشترك موثَّق هنا نصياً لا عبر رابط ثنائي."
 ---
 
