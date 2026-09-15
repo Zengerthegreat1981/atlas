@@ -20,6 +20,7 @@ related:
 - id: "con-confluent-love-pure-relationship-giddens", title: "الحب التلاحمي والعلاقة الخالصة (Confluent Love)", type: "مفهوم"
 - id: "thk-robert-bales", title: "روبرت بيلز", type: "مفكر"
 - id: "dbt-parsons-giddens-functionalist-family-vs-pure-relationship", title: "جدل نظرية الأسرة: الأدوار الوظيفية الجندرية الثابتة عند بارسونز-بيلز مقابل «العلاقة الخالصة» المتفاوَضة عند غيدنز", type: "جدل"
+- id: "br-gender-as-social-accomplishment-current", title: "تيار الجندر كإنجازٍ وأداءٍ اجتماعي: من «فعل الجندر» التفاعلي إلى الأداء الجندري التفكيكي", type: "تيار"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8)."
   - "**سُدَّ 2026-09-15 (تعميقٌ):** أُنشئ `thk-robert-bales` وربطه هنا."

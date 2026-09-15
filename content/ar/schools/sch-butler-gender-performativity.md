@@ -19,6 +19,7 @@ related:
 - id: "thk-butler", title: "جوديث بتلر", type: "مفكر"
 - id: "con-gender-performativity-concept", title: "الأداء الجندري وتفكيك الهوية الطبيعية (Gender Performativity)", type: "مفهوم"
 - id: "wrk-gender-trouble", title: "إشكالية النوع (Gender Trouble, 1990)", type: "عمل / كتاب"
+- id: "br-gender-as-social-accomplishment-current", title: "تيار الجندر كإنجازٍ وأداءٍ اجتماعي: من «فعل الجندر» التفاعلي إلى الأداء الجندري التفكيكي", type: "تيار"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7). ملف `thk-butler` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً."
 ---
