@@ -18,7 +18,9 @@ edges:
 - rel: "belongs_to", target: "sch-homans-behavioral-exchange", target_type: "مدرسة"
 related:
 - id: "con-exchange-propositions-homans", title: "قضايا التبادل السلوكية عند هومانز", type: "مفهوم"
+- id: "wrk-social-behavior-elementary-forms-homans", title: "السلوك الاجتماعي: أشكاله الأولية", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `wrk-social-behavior-elementary-forms-homans` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 42 (مرحلة الحزم). عمل هومانز في جامعة هارفارد بجوار بارسونز نفسه لعقود، رغم خلافهما النظري الجذري؛ هذا السياق المؤسسي المباشر غير مفصَّل هنا."
 ---
 

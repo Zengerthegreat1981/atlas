@@ -20,7 +20,9 @@ related:
 - id: "sch-network-exchange-theory", title: "نظرية التبادل الشبكي وعلاقات القوة-التبعية", type: "مدرسة"
 - id: "thk-homans", title: "جورج هومانز", type: "مفكر"
 - id: "con-exchange-propositions-homans", title: "قضايا التبادل السلوكية عند هومانز", type: "مفهوم"
+- id: "wrk-social-behavior-elementary-forms-homans", title: "السلوك الاجتماعي: أشكاله الأولية", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `wrk-social-behavior-elementary-forms-homans` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3). `belongs_to` تُرك فارغاً — هومانز طوّر نظريته صراحة كنقد للوظيفية البنائية البارسونزية التي اعتبرها مجرد «تصنيف» بلا تفسير سببي حقيقي، فلا يصح نسبتها إليها."
   - "**سُدَّ 2026-09-14 (الدفعة 42):** كُتب `thk-homans` و`con-exchange-propositions-homans` وأُضيفت روابطهما هنا."
 ---
