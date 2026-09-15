@@ -18,6 +18,7 @@ edges:
 related:
 - id: "evt-chicago-first-sociology-department-1892", title: "تأسيس أول قسم أكاديمي مستقل لعلم الاجتماع في العالم بجامعة شيكاغو (1892)", type: "حدث تاريخي"
 - id: "evt-founding-international-sociological-association-1949", title: "تأسيس الجمعية الدولية لعلم الاجتماع تحت مظلة اليونسكو (1949)", type: "حدث تاريخي"
+- id: "evt-founding-american-sociological-review-1936", title: "تأسيس مجلة «المراجعة السوسيولوجية الأمريكية» (1936) وكسر هيمنة مجلة شيكاغو", type: "حدث تاريخي"
 - id: "evt-founding-british-sociological-association-1951", title: "تأسيس الجمعية السوسيولوجية البريطانية (1951)", type: "حدث تاريخي"
 gaps:
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بسدّ فجوة كاملة في نوع `evt-` ضمن قسم علم الاجتماع. ليستر فرانك وارد (`thk-lester-ward`)، أول رئيس منتخب للجمعية، لا يزال بلا ملف مستقل؛ ذُكر بالاسم دون `related` مباشر إليه."
