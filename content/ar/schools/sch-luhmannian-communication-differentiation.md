@@ -19,6 +19,7 @@ edges:
 related:
 - id: "thk-luhmann", title: "نيكلاس لومان", type: "مفكر"
 - id: "con-functional-differentiation-luhmann", title: "أشكال التمايز الاجتماعي المتعاقبة عند لومان", type: "مفهوم"
+- id: "br-luhmannian-systems-theory-current", title: "تيار نظرية الأنساق اللومانية: من الأوتوبويزيس المغلق إلى التمايز الوظيفي المتعاقب", type: "تيار"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3)، ويكمل `sch-luhmannian-autopoietic-systems` المنشأ في الدفعة نفسها."
   - "**سُدَّ 2026-09-14 (الدفعة 41):** كُتب `con-functional-differentiation-luhmann` وأُضيف رابطه هنا مع رابط `thk-luhmann`."
