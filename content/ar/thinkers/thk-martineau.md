@@ -22,7 +22,7 @@ related:
 gaps:
   - "**سُدَّت الفجوة 2026-09-15:** كُتب `wrk-society-in-america-martineau` وأُضيف رابطه هنا (*كيف نلاحظ الأخلاق والعادات* موثَّقٌ سلفاً بملفٍّ منفصل `wrk-how-to-observe-morals-manners-martineau`)."
   - "هذا الملف أُنشئ في الدفعة 9 (مرحلة الحزم). ملف `thk-comte` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه هنا عبر `related` وحده رغم أن مارتينو هي من ترجمت أهم أعماله إلى الإنجليزية."
-  - "لا عمل `wrk-` مستقل بعد يوثّق *Society in America* أو *How to Observe Morals and Manners* تفصيلياً."
+  - "**ملاحظةٌ باتت كاذبة، صُحِّحت 2026-09-15:** كلا العملين موثَّقٌ الآن بملفَي `wrk-` مستقلَّين (`wrk-society-in-america-martineau`, `wrk-how-to-observe-morals-manners-martineau`) ومربوطَين أعلاه."
 ---
 
 # هارييت مارتينو

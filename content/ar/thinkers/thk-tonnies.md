@@ -21,7 +21,8 @@ related:
 - id: "wrk-gemeinschaft-und-gesellschaft-tonnies", title: "الجماعة والمجتمع", type: "عمل / كتاب"
 gaps:
   - "**سُدَّت الفجوة 2026-09-15:** كُتب `wrk-gemeinschaft-und-gesellschaft-tonnies` وأُضيف رابطه هنا."
-  - "هذا الملف أُنشئ في الدفعة 9 (مرحلة الحزم). لا عمل `wrk-` مستقل بعد يوثّق *Gemeinschaft und Gesellschaft* تفصيلياً."
+  - "هذا الملف أُنشئ في الدفعة 9 (مرحلة الحزم)."
+  - "**ملاحظةٌ باتت كاذبة، صُحِّحت 2026-09-15:** `wrk-gemeinschaft-und-gesellschaft-tonnies` موثَّقٌ الآن ومربوطٌ أعلاه."
 ---
 
 # فرديناند تونيس
