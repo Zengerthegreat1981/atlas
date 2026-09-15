@@ -15,7 +15,9 @@ edges:
 - rel: "belongs_to", target: "sch-weberian-rationalization-bureaucracy", target_type: "مدرسة"
 related:
 - id: "thk-weber", title: "ماكس فيبر", type: "مفكر"
+- id: "con-disenchantment-weber", title: "نزع السحر عن العالم عند فيبر (Entzauberung)", type: "مفهوم"
 gaps:
+  - "**رُبط 2026-09-15:** أُضيف رابط `con-disenchantment-weber` (مفهومٌ فيبريٌّ شقيق مترابط) هنا."
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بإغلاق فجوات الأقسام 1-3."
 ---
 
