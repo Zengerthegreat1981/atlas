@@ -21,6 +21,7 @@ related:
 - id: "con-cultural-omnivore-peterson", title: "الأومنيفور الثقافي (Cultural Omnivore)", type: "مفهوم"
 - id: "thk-richard-peterson", title: "ريتشارد بيترسون", type: "مفكر"
 - id: "br-youth-culture-lifestyle-current", title: "تيار سوسيولوجيا الثقافة الشبابية وأنماط الحياة: من الطراز الفرعي المقاوِم إلى الثقافة كأدوات", type: "تيار"
+- id: "wrk-culture-in-action-swidler", title: "الثقافة في الفعل (Culture in Action)", type: "عمل / كتاب"
 gaps:
   - "**سُدَّت الفجوة 2026-09-15:** كُتب `thk-richard-peterson` وأُضيف رابطه هنا."
   - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8)."

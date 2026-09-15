@@ -17,8 +17,11 @@ edges:
 related:
 - id: "sch-sociology-of-youth-subcultures", title: "سوسيولوجيا الشباب والثقافات الفرعية", type: "مدرسة"
 - id: "con-subculture-symbolic-resistance-hebdige", title: "الثقافة الفرعية والمقاومة الرمزية عند هبديج", type: "مفهوم"
+- id: "wrk-subculture-meaning-of-style-hebdige", title: "الثقافة الفرعية: معنى الطراز (Subculture: The Meaning of Style)", type: "عمل / كتاب"
 gaps:
   - "**تكثيفٌ 2026-09-15:** أُضيف `con-subculture-symbolic-resistance-hebdige` وربطه هنا."
+  - "**تعميقٌ 2026-09-15 (ثانٍ):** أُضيف `wrk-subculture-meaning-of-style-hebdige` (كتابه التأسيسي 1979) وربطه هنا."
+  - "⚠️ **ملاحظةٌ للمعالجة لاحقاً (دون تدخّلٍ الآن):** يوجد ازدواجٌ محتمَل بين `con-subculture-symbolic-resistance-hebdige` (هذا الملف) و`con-subcultural-style-resistance-hebdige` (مربوطٌ من `sch-sociology-of-youth-subcultures`) — كلاهما يبدو أنه يغطي مفهوم هبديج نفسه (الطراز/الثقافة الفرعية والمقاومة الرمزية) بعنوانين وslugين مختلفين. يحتاج توحيداً من الوكيل المختص بنطاق con- — خارج نطاق مهمتي الحالية (dbt-/evt-/br-/ins-/crt-/wrk-)."
   - "عمله ضمن مركز برمنغهام للدراسات الثقافية المعاصرة (CCCS) ووراثته لتحليل غرامشي عن الهيمنة الثقافية لم يُفصَّلا هنا بالكامل."
 ---
 

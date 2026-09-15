@@ -16,8 +16,10 @@ edges:
 - rel: "belongs_to", target: "sch-sociology-of-culture-lifestyles", target_type: "مدرسة"
 related:
 - id: "sch-sociology-of-culture-lifestyles", title: "سوسيولوجيا الثقافة وأنماط الحياة", type: "مدرسة"
+- id: "wrk-culture-in-action-swidler", title: "الثقافة في الفعل (Culture in Action)", type: "عمل / كتاب"
 gaps:
-  - "ريتشارد بيترسون، المساهم الآخر في هذا الحقل (بمفهوم «الأومنيفورية الثقافية»/Cultural Omnivorousness)، لا يزال بلا ملف مستقل؛ الإسناد المشترك موثَّق نصياً هنا."
+  - "**ملاحظةٌ باتت كاذبة، صُحِّحت 2026-09-15:** `thk-richard-peterson`، المساهم الآخر في هذا الحقل (بمفهوم «الأومنيفورية الثقافية»/Cultural Omnivorousness)، موثَّقٌ الآن بملفٍّ مستقل."
+  - "**تعميقٌ 2026-09-15 (ثانٍ):** أُضيف `wrk-culture-in-action-swidler` (مقالتها التأسيسية 1986) وربطه هنا."
 ---
 
 # آن سويدلر
