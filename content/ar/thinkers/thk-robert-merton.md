@@ -22,8 +22,9 @@ related:
 - id: "con-anomie-durkheim", title: "الأنومي (Anomie) عند دوركهايم", type: "مفهوم"
 - id: "sch-mertonian-sociology-of-science", title: "سوسيولوجيا العلم والمؤسسة الأكاديمية", type: "مدرسة"
 - id: "con-multiple-discovery-merton", title: "الاكتشاف المتعدد عند ميرتون (Multiple Discovery)", type: "مفهوم"
+- id: "con-strain-theory-modes-adaptation-merton", title: "أنماط التكيّف الخمسة عند ميرتون (Modes of Adaptation)", type: "مفهوم"
 gaps:
-  - "**تعميقٌ 2026-09-15:** أُضيفت روابط `sch-mertonian-sociology-of-science` و`con-multiple-discovery-merton` هنا."
+  - "**تعميقٌ 2026-09-15:** أُضيفت روابط `sch-mertonian-sociology-of-science`، `con-multiple-discovery-merton`، و`con-strain-theory-modes-adaptation-merton` هنا."
   - "هذا الملف أُنشئ في الدفعة 36 (مرحلة الحزم). `belongs_to` تُرك فارغاً بنفس منطق `sch-mertonian-middle-range`: درس ميرتون على يد بارسونز في هارفارد لكنه طوّر منهجاً مستقلاً يرفض صراحة «النظرية الكبرى»، فنسبته إلى `sch-parsonian-action-frame` كأمّ تكون مضلِّلة."
   - "**تنبيه تسمية:** لا صلة بين هذا الملف وملف `thk-merton` القائم في الأطلس، وهو توماس ميرتون (Thomas Merton)، الراهب والكاتب الروحي الأمريكي، شخصية مختلفة كلياً."
 ---

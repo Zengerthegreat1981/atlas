@@ -20,7 +20,9 @@ related:
 - id: "con-anomie-durkheim", title: "الأنومي (Anomie) عند دوركهايم", type: "مفهوم"
 - id: "thk-robert-merton", title: "روبرت ك. ميرتون", type: "مفكر"
 - id: "dbt-durkheim-merton-anomie-reformulation", title: "جدل إعادة صياغة الأنومي: الانهيار المعياري الشامل عند دوركهايم مقابل فجوة الأهداف-الوسائل عند ميرتون", type: "جدل"
+- id: "con-strain-theory-modes-adaptation-merton", title: "أنماط التكيّف الخمسة عند ميرتون (Modes of Adaptation)", type: "مفهوم"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `con-strain-theory-modes-adaptation-merton` وربطه هنا (الأنماط الخمسة نفسها، متمايزةً عن con-anomie-durkheim الدوركهايمي الأصلي)."
   - "**تعميقٌ 2026-09-14:** أُضيف `dbt-durkheim-merton-anomie-reformulation` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3)، ويكمل `sch-mertonian-middle-range` المنشأ في الدفعة نفسها."
   - "**رُبط 2026-09-14 (الدفعة 10):** أُضيفت إشارة إلى `con-anomie-durkheim` — استعار ميرتون المصطلح من دوركهايم لكنه أعاد صياغته جذرياً (بنية اجتماعية غير متكافئة الوسائل، لا فقط انهيار معياري عام)؛ الرابط يوثّق الأصل لا يعني تطابق الصياغتين."
