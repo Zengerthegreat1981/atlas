@@ -16,6 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-medical-health-clinical-sociology", target_type: "مدرسة"
 related:
 - id: "con-professional-dominance-freidson", title: "الهيمنة المهنية للطب (Professional Dominance)", type: "مفهوم"
+- id: "dbt-parsons-freidson-sick-role-vs-medical-dominance", title: "جدل السوسيولوجيا الطبية: «دور المريض» التكاملي عند بارسونز مقابل نقد الهيمنة المهنية عند فريدسون", type: "جدل"
 gaps:
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بتعميق حزم القسم 8، لإفراد مفهوم بارسونز (متمايز عن الهيمنة المهنية عند فريدسون) بملفٍّ مفهومٍ مستقل. تالكوت بارسونز موجودٌ بملف مستقل (`thk-parsons`) ببنية أشمل ضمن القسم 3؛ لم يُضَف رابطٌ مباشر هنا تفادياً لتكرار مضمون مغاير عن نطاق هذا الملف."
 ---

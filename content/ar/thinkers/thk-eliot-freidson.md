@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-medical-health-clinical-sociology", title: "السوسيولوجيا الطبية والصحية والسريرية", type: "مدرسة"
 - id: "sch-medicalization-biosociality", title: "سوسيولوجيا التطبيب والهندسة الحيوية الاجتماعية", type: "مدرسة"
+- id: "dbt-parsons-freidson-sick-role-vs-medical-dominance", title: "جدل السوسيولوجيا الطبية: «دور المريض» التكاملي عند بارسونز مقابل نقد الهيمنة المهنية عند فريدسون", type: "جدل"
 gaps:
   - "علاقة عمله بمفهوم «دور المريض» (Sick Role) عند تالكوت بارسونز، الذي سبقه تاريخياً وشكّل خلفية نظرية له، لم تُفصَّل هنا."
 ---
