@@ -18,7 +18,10 @@ edges:
 - rel: "belongs_to", target: "sch-chicago-urban-ecology", target_type: "مدرسة"
 related:
 - id: "thk-ernest-burgess", title: "إرنست واطسون بيرجس", type: "مفكر"
+- id: "con-marginal-man-park", title: "الرجل الهامشي عند بارك (Marginal Man)", type: "مفهوم"
+- id: "con-human-ecology-park", title: "الإيكولوجيا البشرية عند بارك (Human Ecology)", type: "مفهوم"
 gaps:
+  - "**تكثيفٌ 2026-09-15:** أُضيفت روابط `con-marginal-man-park` و`con-human-ecology-park` (مفهومان مركزيان مذكوران في متن هذا الملف دون ملفات مستقلة سابقاً)."
   - "هذا الملف أُنشئ في الدفعة 13 (مرحلة الحزم). عمل بارك صحفياً ومساعداً لبوكر ت. واشنطن قبل أن يتحول أكاديمياً في سن الخمسين تقريباً — سيرة مهنية غير تقليدية تستحق تفصيلاً أوسع عند مراجعة لاحقة."
 ---
 
