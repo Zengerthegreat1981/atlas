@@ -20,9 +20,11 @@ related:
 - id: "thk-weber", title: "ماكس فيبر", type: "مفكر"
 - id: "wrk-protestant-ethic-spirit-capitalism-weber", title: "الأخلاق البروتستانتية وروح الرأسمالية", type: "عمل / كتاب"
 - id: "con-elective-affinity-protestant-ethic", title: "القرابة الاختيارية بين الأخلاق البروتستانتية والرأسمالية", type: "مفهوم"
+- id: "dbt-weber-marx-idealism-materialism-protestant-ethic", title: "جدل تفسير نشوء الرأسمالية: المثالية الدينية عند فيبر مقابل الحتمية الاقتصادية عند ماركس", type: "جدل"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 1 من مهمة بناء قسم علم الاجتماع (القسم 1)، ويكمل `sch-weberian-interpretive-sociology` المنشأ في الدفعة نفسها."
   - "**سُدَّت الفجوة 2026-09-14:** كُتب `wrk-protestant-ethic-spirit-capitalism-weber` و`con-elective-affinity-protestant-ethic` وأُضيفت روابطهما هنا مع رابط `thk-weber`."
+  - "**تعميقٌ 2026-09-15:** أُضيف `dbt-weber-marx-idealism-materialism-protestant-ethic` (يُفرد الجدل الموصوف في قسم «الموقع من الجدل مع الماركسية» بملفٍّ جدلٍ مستقل) وربطه هنا."
 ---
 
 # سوسيولوجيا الأخلاق الرأسمالية والدين
