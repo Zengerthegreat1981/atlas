@@ -2812,3 +2812,24 @@ feminist-sociology` و`sch-sociological-intersectionality` وتبيّن أنهم
 
 مستمرٌّ بدفعاتٍ متتالية؛ التالي: مواصلة القسم 7 (بقية مدارسه) ثم الأقسام
 3-5 إن استُنفد، كما وجّه المنسِّق.
+
+---
+
+## 📚 wrk- الثقافة والإمبريالية عند سعيد
+
+`wrk-culture-and-imperialism-said` — عمل سعيد الثاني المحوري (1993، منهج
+«القراءة الطباقية»)، بخلاف *الاستشراق* (1978) الموثَّق سلفاً. `belongs_to`
+مباشرةً `sch-said-sociology-of-orientalism`. ربطٌ عكسي كامل.
+
+**ملاحظة تدقيق:** لوحظ أثناء الفحص ازدواجٌ سابقٌ **موجودٌ ومُسجَّل مسبقاً**
+(غير ناتج عن هذه الجلسة) بين `wrk-orientalism-said` و`wrk-orientalism-
+edward-said` (كلاهما philosophy-part، موثَّقٌ صراحةً في gaps الملف الأقدم
+مع إشارة إلى `agents_specs/requests-minimax.md`)؛ لم يُمَسّ، فالحسم قرارٌ
+تحريري بشري خارج نطاق مهمتي.
+
+**wrk- الآن 108/150-180.** الفحوص الثلاثة نظيفة (روابط br- معلَّقة لعمل
+الوكيل الآخر في نطاق modernity-temporality-acceleration، غير متعلقة).
+
+**سُبِر أيضاً** `sch-dorothy-smith-institutional-ethnography` و`sch-alatas-
+captive-mind-sociology` وتبيّن أنهما مكتملا التوثيق جيداً. عنقود القسم 7
+شبه مُستنفَد الآن؛ الانتقال التالي إلى الأقسام 3-5 كما وجّه المنسِّق.
