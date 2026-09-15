@@ -19,6 +19,7 @@ edges:
 related:
 - id: "sch-narrative-hermeneutic-sociology", title: "السوسيولوجيا التأويلية والسردية", type: "مدرسة"
 - id: "thk-ken-plummer", title: "كين بلامر", type: "مفكر"
+- id: "wrk-narrative-constitution-identity-somers", title: "التشكل السردي للهوية (The Narrative Constitution of Identity)", type: "عمل / كتاب"
 gaps:
   - "أُنشئ 2026-09-15 تنفيذاً لتوجيه المنسِّق (قراءة مباشرة لمتن مدارس الأقسام 1-8)، سادّاً فجوةً موثقةً صراحةً في `gaps` ملف `sch-narrative-hermeneutic-sociology` القائم."
 ---

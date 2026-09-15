@@ -21,8 +21,10 @@ related:
 - id: "wrk-telling-sexual-stories-plummer", title: "قصص الحياة الجنسية (Telling Sexual Stories)", type: "عمل / كتاب"
 - id: "thk-margaret-somers", title: "مارغريت سومرز", type: "مفكر"
 - id: "br-interpretive-meaning-making-current", title: "تيار السوسيولوجيا التأويلية لصنع المعنى: من عالم الحياة المعاش الشوتزي إلى التشكل السردي للهوية", type: "تيار"
+- id: "wrk-narrative-constitution-identity-somers", title: "التشكل السردي للهوية (The Narrative Constitution of Identity)", type: "عمل / كتاب"
 gaps:
   - "**سُدَّت الفجوة 2026-09-15:** كُتب `thk-margaret-somers` وأُضيف رابطه هنا."
+  - "**تعميقٌ 2026-09-15 (ثانٍ):** أُضيف `wrk-narrative-constitution-identity-somers` (مقالتها التأسيسية 1994) وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5)."
   - "**سُدَّ جزئياً 2026-09-14 (دفعة تالية):** أُنشئ `thk-ken-plummer`. مارغريت سومرز (`thk-margaret-somers`) لا تزال بلا ملف مستقل؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً."
 ---
