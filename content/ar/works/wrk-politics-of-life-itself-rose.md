@@ -14,7 +14,9 @@ edges:
 related:
 - id: "sch-medicalization-biosociality", title: "سوسيولوجيا التطبيب والهندسة الحيوية الاجتماعية", type: "مدرسة"
 - id: "thk-nikolas-rose", title: "نيكولاس روز", type: "مفكر"
+- id: "thk-peter-conrad", title: "بيتر كونراد", type: "مفكر"
 gaps:
+  - "**سُدَّت الفجوة 2026-09-15:** كُتب `thk-peter-conrad` وأُضيف رابطه هنا."
   - "بيتر كونراد، صاحب مفهوم «التطبيب» الكلاسيكي المكمِّل، لا يزال بلا ملف مستقل. تنبيه: ملف thk-econrad القائم شخصٌ مختلفٌ تماماً."
 ---
 

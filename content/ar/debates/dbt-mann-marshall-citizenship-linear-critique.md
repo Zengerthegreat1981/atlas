@@ -15,7 +15,9 @@ edges:
 related:
 - id: "thk-th-marshall", title: "توماس همفري مارشال", type: "مفكر"
 - id: "con-tripartite-citizenship-marshall", title: "المواطنة الثلاثية الأبعاد (Tripartite Citizenship)", type: "مفهوم"
+- id: "thk-michael-mann", title: "مايكل مان", type: "مفكر"
 gaps:
+  - "**سُدَّت الفجوة 2026-09-15:** كُتب `thk-michael-mann` وأُضيف رابطه هنا."
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بتعميق حزم القسم 8، لإفراد نقد مايكل مان المذكور كمصدرٍ ثانٍ في متن المدرسة الأم بملفٍّ جدلٍ مستقل. مايكل مان (`thk-michael-mann`) لا يزال بلا ملف مستقل في قسم علم الاجتماع؛ ذُكر بالاسم دون `related` مباشر إليه."
 ---
 
