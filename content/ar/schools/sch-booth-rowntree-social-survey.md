@@ -21,6 +21,7 @@ related:
 - id: "con-poverty-line-rowntree", title: "خط الفقر الأولي والثانوي عند راونتري", type: "مفهوم"
 - id: "stu-rowntree-poverty-study-york", title: "دراسة راونتري للفقر في مدينة يورك", type: "دراسة وبحث"
 - id: "evt-booth-life-labour-london-poverty-survey-1889", title: "نشر تشارلز بوث لمسحه الاجتماعي الضخم «حياة الناس وعملهم في لندن» (1889) وميلاد خرائط الفقر", type: "حدث تاريخي"
+- id: "ins-poverty-mapping-booth", title: "خرائط الفقر الاجتماعية عند بوث (Poverty Mapping)", type: "منهج/أداة بحث"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 1 من مهمة بناء قسم علم الاجتماع (القسم 1)."
   - "**سُدَّ 2026-09-14 (الدفعة 12):** كُتب `thk-booth` و`thk-rowntree` و`con-poverty-line-rowntree` وأُضيفت روابطها هنا."
