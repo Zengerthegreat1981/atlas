@@ -20,8 +20,10 @@ related:
 - id: "thk-shoshana-zuboff", title: "شوشانا زوبوف", type: "مفكر"
 - id: "con-surveillance-capitalism-zuboff", title: "رأسمالية المراقبة والفائض السلوكي (Surveillance Capitalism)", type: "مفهوم"
 - id: "wrk-age-of-surveillance-capitalism-zuboff", title: "عصر رأسمالية المراقبة (The Age of Surveillance Capitalism)", type: "عمل / كتاب"
+- id: "br-surveillance-sociology-current", title: "تيار سوسيولوجيا المراقبة: من السلطة الانضباطية الفوكوية إلى رأسمالية المراقبة الرقمية", type: "تيار"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 6 من مهمة بناء قسم علم الاجتماع (القسم 6)."
+  - "**تعميقٌ 2026-09-15:** أُضيف `br-surveillance-sociology-current` وربطه هنا."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-shoshana-zuboff`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
 ---
 

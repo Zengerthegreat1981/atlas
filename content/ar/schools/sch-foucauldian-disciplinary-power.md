@@ -22,9 +22,11 @@ related:
 - id: "con-panopticon-surveillance", title: "البانوبتيكون ومجتمع المراقبة (The Panopticon)", type: "مفهوم"
 - id: "wrk-discipline-and-punish-foucault", title: "المراقبة والمعاقبة لميشيل فوكو (Surveiller et punir)", type: "عمل / كتاب"
 - id: "rel-foucault-power-knowledge-discipline-sociology-philosophy-bridge", title: "فوكو المشترك: من الفلسفة النقدية للجنون والسلطة إلى سوسيولوجيا المعرفة-السلطة والانضباط", type: "علاقة بين مدرستين"
+- id: "br-surveillance-sociology-current", title: "تيار سوسيولوجيا المراقبة: من السلطة الانضباطية الفوكوية إلى رأسمالية المراقبة الرقمية", type: "تيار"
 gaps:
   - "**جسرٌ 2026-09-15:** أُضيف `rel-foucault-power-knowledge-discipline-sociology-philosophy-bridge` (الدفعة الأخيرة من القسم 4 في SOCIOLOGY_MISSION_PROMPT.md)، ويسدّ الفجوة الموثقة أدناه صراحةً مع ملف `thk-foucault` الفلسفي."
   - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5). ملف `thk-foucault` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده. `belongs_to` لهذا الملف نفسه تُرك فارغاً."
+  - "**تعميقٌ 2026-09-15:** أُضيف `br-surveillance-sociology-current` وربطه هنا."
   - "الجسر المشترك مع سوسيولوجيا المؤسسات الشاملة الغوفمانية (`sch-goffman-total-institutions`) مذكور في القسم 4 من `SOCIOLOGY_MISSION_PROMPT.md` كأحد جسور القسم النهائية؛ لم يُبنَ بعد كعلاقة صريحة هنا."
 ---
 
