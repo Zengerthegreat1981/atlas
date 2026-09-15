@@ -20,7 +20,9 @@ related:
 - id: "thk-boltanski", title: "لوك بولتانسكي", type: "مفكر"
 - id: "con-orders-of-worth-justification", title: "أنظمة الجدارة والتبرير (Orders of Worth)", type: "مفهوم"
 - id: "wrk-de-la-justification-boltanski-thevenot", title: "في التبرير: اقتصاديات العظمة (De la justification)", type: "عمل / كتاب"
+- id: "thk-laurent-thevenot", title: "لوران تيفنو", type: "مفكر"
 gaps:
+  - "**سُدَّت الفجوة 2026-09-15:** كُتب `thk-laurent-thevenot` وأُضيف رابطه هنا."
   - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5)."
   - "**سُدَّ جزئياً 2026-09-14 (دفعة تالية):** أُنشئ `thk-boltanski`. لوران تيفنو (`thk-thevenot`) لا يزال بلا ملف مستقل؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً."
 ---

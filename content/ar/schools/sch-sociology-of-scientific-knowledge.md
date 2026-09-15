@@ -19,7 +19,9 @@ related:
 - id: "thk-david-bloor", title: "ديفيد بلور", type: "مفكر"
 - id: "con-strong-programme-ssk-bloor", title: "البرنامج القوي في سوسيولوجيا المعرفة العلمية (Strong Programme)", type: "مفهوم"
 - id: "dbt-science-wars-sokal-affair-ssk-relativism", title: "حروب العلم: قضية سوكال ونسبية البرنامج القوي في سوسيولوجيا المعرفة العلمية", type: "جدل"
+- id: "thk-karl-mannheim", title: "كارل مانهايم", type: "مفكر"
 gaps:
+  - "**سُدَّت الفجوة 2026-09-15:** كُتب `thk-karl-mannheim` وأُضيف رابطه هنا."
   - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8، الأخير، من `sociology-schools-backlog.md`)."
   - "**تعميقٌ 2026-09-15:** أُضيف `dbt-science-wars-sokal-affair-ssk-relativism` (يُفرد «حروب العلم» المذكورة في المتن) وربطه هنا."
   - "**سُدَّ جزئياً 2026-09-14 (دفعة تالية):** أُنشئ `thk-david-bloor`. كارل مانهايم (`thk-karl-mannheim`) لا يزال بلا ملف مستقل؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً."

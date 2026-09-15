@@ -19,7 +19,9 @@ related:
 - id: "thk-ann-swidler", title: "آن سويدلر", type: "مفكر"
 - id: "con-culture-as-toolkit-swidler", title: "الثقافة كأدوات (Culture as Toolkit)", type: "مفهوم"
 - id: "con-cultural-omnivore-peterson", title: "الأومنيفور الثقافي (Cultural Omnivore)", type: "مفهوم"
+- id: "thk-richard-peterson", title: "ريتشارد بيترسون", type: "مفكر"
 gaps:
+  - "**سُدَّت الفجوة 2026-09-15:** كُتب `thk-richard-peterson` وأُضيف رابطه هنا."
   - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8)."
   - "**تعميقٌ 2026-09-15:** أُضيف `con-cultural-omnivore-peterson` (مفهوم بيترسون الثاني) وربطه هنا."
   - "**سُدَّ جزئياً 2026-09-14 (دفعة تالية):** أُنشئ `thk-ann-swidler`. ريتشارد بيترسون (`thk-richard-peterson`) لا يزال بلا ملف مستقل؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً."
