@@ -18,10 +18,13 @@ related:
 - id: "sch-visual-sociology-sensory-ethnography", title: "السوسيولوجيا البصرية والإثنوغرافيا الحسية", type: "مدرسة"
 - id: "sch-becker-labeling-theory", title: "نظرية الوصم والانحراف كمسار مهني", type: "مدرسة"
 - id: "con-labeling-theory-becker", title: "نظرية الوصم والمنظمون الأخلاقيون عند بيكر", type: "مفهوم"
+- id: "con-hierarchy-of-credibility-becker", title: "تراتبية المصداقية عند بيكر (Hierarchy of Credibility)", type: "مفهوم"
+- id: "thk-sarah-pink", title: "سارة بينك", type: "مفكر"
 gaps:
+  - "**تعميقٌ 2026-09-15:** أُضيف `con-hierarchy-of-credibility-becker` وربطه هنا."
+  - "**تصحيحُ ملاحظةٍ باتت كاذبة 2026-09-15:** سارة بينك أصبحت موثَّقةً بملفٍّ مستقل (`thk-sarah-pink`) منذ دفعةٍ سابقة؛ الملاحظة السابقة (زعمت غيابها) لم تعد صحيحة."
   - "بيكر أشهر بمساهمته في نظرية الوصم (Labeling Theory) عبر كتابه *Outsiders* (1963)؛ هذا الملف يركّز على مساهمته الأقل شهرة في السوسيولوجيا البصرية، وهي جزء واحد من مشروعه الأوسع."
   - "**رُبط 2026-09-14 (الدفعة 24):** أُضيفت إشارة إلى `sch-becker-labeling-theory` و`con-labeling-theory-becker` (مساهمته الأشهر في نظرية الوصم، مذكورة إلى الآن في الغايات فقط)."
-  - "سارة بينك، رائدة الإثنوغرافيا الحسية اللاحقة (Sensory Ethnography، 2009)، لا تزال بلا ملف مستقل."
 ---
 
 # هاورد بيكر
