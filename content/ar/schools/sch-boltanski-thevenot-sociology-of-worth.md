@@ -22,6 +22,7 @@ related:
 - id: "wrk-de-la-justification-boltanski-thevenot", title: "في التبرير: اقتصاديات العظمة (De la justification)", type: "عمل / كتاب"
 - id: "thk-laurent-thevenot", title: "لوران تيفنو", type: "مفكر"
 - id: "br-french-pragmatist-justification-current", title: "تيار السوسيولوجيا البراغماتية الفرنسية: من أنظمة التبرير إلى نقد الروح الجديدة للرأسمالية", type: "تيار"
+- id: "dbt-boltanski-bourdieu-pragmatic-vs-critical-sociology", title: "جدل السوسيولوجيا البراغماتية مقابل السوسيولوجيا النقدية: بولتانسكي-تيفنو في مواجهة بورديو", type: "جدل"
 gaps:
   - "**سُدَّت الفجوة 2026-09-15:** كُتب `thk-laurent-thevenot` وأُضيف رابطه هنا."
   - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5)."
