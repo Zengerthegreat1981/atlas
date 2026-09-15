@@ -19,6 +19,7 @@ edges:
 related:
 - id: "thk-karen-cook", title: "كارين كوك", type: "مفكر"
 - id: "con-network-exchange-power-dependence", title: "القوة والتبعية في شبكات التبادل عند كوك وويلر", type: "مفهوم"
+- id: "wrk-social-exchange-power-networks-cook", title: "التبادل الاجتماعي والقوة في شبكات الهيكل (Social Exchange and Power in Network Structures)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 46 (مرحلة الحزم). أستاذ فخري في جامعة كارولاينا الجنوبية؛ أسهم بتطوير نماذج رياضية-بنائية دقيقة للتبادل الشبكي تتجاوز التصميم التجريبي وحده."
 ---

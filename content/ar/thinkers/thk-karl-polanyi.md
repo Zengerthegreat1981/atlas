@@ -17,8 +17,10 @@ edges:
 related:
 - id: "sch-economic-sociology-embeddedness", title: "السوسيولوجيا الاقتصادية وتجذر الأسواق", type: "مدرسة"
 - id: "thk-granovetter", title: "مارك غرانوفيتر", type: "مفكر"
+- id: "wrk-great-transformation-polanyi", title: "التحول الكبير (The Great Transformation)", type: "عمل / كتاب"
 gaps:
   - "**ملاحظةٌ باتت كاذبة، صُحِّحت 2026-09-15:** `thk-granovetter`، الذي أحيا مفهوم «التجذر» سوسيولوجياً لاحقاً (1985)، موثَّقٌ الآن بملفٍّ مستقل ومربوطٌ أعلاه."
+  - "**تعميقٌ 2026-09-15 (ثانٍ):** أُضيف `wrk-great-transformation-polanyi` (كتابه التأسيسي 1944) وربطه هنا."
 ---
 
 # كارل بولاني

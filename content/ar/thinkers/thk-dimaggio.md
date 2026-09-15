@@ -19,6 +19,7 @@ edges:
 related:
 - id: "thk-walter-powell", title: "والتر باول", type: "مفكر"
 - id: "con-institutional-isomorphism-dimaggio-powell", title: "التماثل المؤسسي عند ديماجيو وباول", type: "مفهوم"
+- id: "wrk-iron-cage-revisited-dimaggio-powell", title: "إعادة النظر في القفص الحديدي (The Iron Cage Revisited)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 47 (مرحلة الحزم). أستاذ في جامعة برينستون؛ أسهم أيضاً بعمل مؤثر في علم اجتماع الثقافة والفن (دراساته عن المؤسسات الثقافية غير الربحية)، غير مفصَّل هنا."
 ---

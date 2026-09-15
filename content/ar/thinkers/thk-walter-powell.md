@@ -19,6 +19,7 @@ edges:
 related:
 - id: "thk-dimaggio", title: "بول ديماجيو", type: "مفكر"
 - id: "con-institutional-isomorphism-dimaggio-powell", title: "التماثل المؤسسي عند ديماجيو وباول", type: "مفهوم"
+- id: "wrk-iron-cage-revisited-dimaggio-powell", title: "إعادة النظر في القفص الحديدي (The Iron Cage Revisited)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 47 (مرحلة الحزم). أستاذ في جامعة ستانفورد؛ أسهم أيضاً بأعمال مؤثرة عن شبكات التعاون بين المنظمات وعلم اجتماع الابتكار، غير مفصَّلة هنا."
 ---

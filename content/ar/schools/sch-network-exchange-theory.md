@@ -20,6 +20,7 @@ related:
 - id: "thk-karen-cook", title: "كارين كوك", type: "مفكر"
 - id: "thk-david-willer", title: "ديفيد ويلر", type: "مفكر"
 - id: "con-network-exchange-power-dependence", title: "القوة والتبعية في شبكات التبادل عند كوك وويلر", type: "مفهوم"
+- id: "wrk-social-exchange-power-networks-cook", title: "التبادل الاجتماعي والقوة في شبكات الهيكل (Social Exchange and Power in Network Structures)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3)، ويكمل `sch-homans-behavioral-exchange` المنشأ في الدفعة نفسها."
   - "**سُدَّ 2026-09-14 (الدفعة 46):** كُتب `thk-karen-cook`، `thk-david-willer`، و`con-network-exchange-power-dependence` وأُضيفت روابطها هنا."

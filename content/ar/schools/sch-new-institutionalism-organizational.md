@@ -20,6 +20,7 @@ related:
 - id: "thk-walter-powell", title: "والتر باول", type: "مفكر"
 - id: "con-institutional-isomorphism-dimaggio-powell", title: "التماثل المؤسسي عند ديماجيو وباول", type: "مفهوم"
 - id: "br-new-economic-sociology-current", title: "تيار السوسيولوجيا الاقتصادية الجديدة: من التجذر البولانياني إلى المؤسسية الجديدة التنظيمية", type: "تيار"
+- id: "wrk-iron-cage-revisited-dimaggio-powell", title: "إعادة النظر في القفص الحديدي (The Iron Cage Revisited)", type: "عمل / كتاب"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3)."
   - "**سُدَّ 2026-09-14 (الدفعة 47):** كُتب `thk-dimaggio`، `thk-walter-powell`، و`con-institutional-isomorphism-dimaggio-powell` وأُضيفت روابطها هنا."
