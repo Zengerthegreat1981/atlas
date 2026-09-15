@@ -16,6 +16,7 @@ edges:
 related:
 - id: "thk-michels", title: "روبرت ميشيلز", type: "مفكر"
 - id: "wrk-political-parties-michels", title: "الأحزاب السياسية", type: "عمل / كتاب"
+- id: "br-organizational-sociology-bureaucracy-current", title: "تيار سوسيولوجيا التنظيمات والبيروقراطية: من العقلنة الفيبرية إلى القانون الحديدي للأوليغارشية والخلل التنظيمي", type: "تيار"
 gaps:
   - "**سُدَّت الفجوة 2026-09-15:** كُتب `wrk-political-parties-michels` وأُضيف رابطه هنا."
   - "هذا الملف أُنشئ في الدفعة 10 (مرحلة الحزم). لا عمل `wrk-` مستقل بعد يوثّق *الأحزاب السياسية* (1911) تفصيلياً."

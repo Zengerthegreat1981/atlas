@@ -22,11 +22,13 @@ related:
 - id: "stu-men-women-corporation-kanter", title: "رجال ونساء الشركة", type: "دراسة وبحث"
 - id: "stu-organization-man-whyte", title: "الرجل التنظيمي", type: "دراسة وبحث"
 - id: "stu-japanese-factory-abegglen", title: "المصنع الياباني: أساس التنظيم الاجتماعي البشري", type: "دراسة وبحث"
+- id: "br-organizational-sociology-bureaucracy-current", title: "تيار سوسيولوجيا التنظيمات والبيروقراطية: من العقلنة الفيبرية إلى القانون الحديدي للأوليغارشية والخلل التنظيمي", type: "تيار"
 - id: "wrk-patterns-industrial-bureaucracy-gouldner", title: "أنماط البيروقراطية الصناعية", type: "عمل / كتاب"
 gaps:
   - "**تعميقٌ 2026-09-15:** أُضيف `wrk-patterns-industrial-bureaucracy-gouldner` وربطه هنا."
   - "**دراساتٌ ميدانيةٌ إضافية 2026-09-15 (دفعة 5):** أُضيفت دراستا وايت (الرجل التنظيمي) وأبيغلن (المصنع الياباني) وربطُهما هنا."
   - "**دراسةٌ ميدانيةٌ 2026-09-15:** أُضيف `stu-men-women-corporation-kanter` وربطه هنا."
+  - "**تعميقٌ 2026-09-15 (ثانٍ):** أُضيف `br-organizational-sociology-bureaucracy-current` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3). `belongs_to` تُرك فارغاً — لا يصح نسبته إلى `sch-parsonian-action-frame` لأن غولدنر انتقد الوظيفية البنائية بشدة لاحقاً في *الأزمة القادمة لعلم الاجتماع الغربي* (1970)، ولا إلى `sch-blau-structural-exchange` لأن هذا العمل المبكر لبلاو نفسه سابقٌ زمنياً على تنظيره في التبادل ومستقل عنه موضوعياً."
   - "**سُدَّ 2026-09-14 (الدفعة 48):** كُتب `thk-gouldner` و`con-mock-representative-bureaucracy-gouldner` وأُضيفت روابطهما هنا، مع رابط إلى `thk-peter-blau` (كُتب في الدفعة 43 لمساهمته اللاحقة في نظرية التبادل)."
 ---
