@@ -16,6 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-sociology-of-law-social-control", target_type: "مدرسة"
 related:
 - id: "ins-audit-field-experiment-discrimination", title: "تجربة التدقيق الميدانية لكشف التمييز (Audit Field Experiment)", type: "منهج/أداة بحث"
+- id: "stu-down-and-out-in-america-rossi", title: "معدَمون في أمريكا", type: "دراسة وبحث"
 gaps:
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بسدّ فجوة نوع `ins-`. بيتر روسي (Peter H. Rossi)، مطوِّر المنهج الرئيسي، لا يزال بلا ملف مستقل. الإسناد إلى `sch-sociology-of-law-social-control` تقريبي بحكم استخدامه الشائع في دراسة أحكام العدالة والعقوبة."
 ---
