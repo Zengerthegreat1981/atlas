@@ -20,6 +20,7 @@ related:
 - id: "con-visual-sociology-photo-documentation", title: "التوثيق البصري كأداة تحليل سوسيولوجي (Photo-Documentation)", type: "مفهوم"
 - id: "wrk-photography-and-sociology-becker", title: "التصوير الفوتوغرافي وعلم الاجتماع (Photography and Sociology)", type: "عمل / كتاب"
 - id: "thk-sarah-pink", title: "سارة بينك", type: "مفكر"
+- id: "ins-sensory-ethnography-pink", title: "الإثنوغرافيا الحسية عند بينك (Sensory Ethnography)", type: "منهج/أداة بحث"
 gaps:
   - "**سُدَّت الفجوة 2026-09-15:** كُتب `thk-sarah-pink` وأُضيف رابطه هنا."
   - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5)."
