@@ -21,6 +21,7 @@ related:
 - id: "wrk-sociology-of-housework-oakley", title: "سوسيولوجيا العمل المنزلي (The Sociology of Housework)", type: "عمل / كتاب"
 - id: "wrk-sex-gender-society-oakley", title: "الجنس والجندر والمجتمع", type: "عمل / كتاب"
 - id: "con-sex-gender-distinction-oakley", title: "التمييز بين الجنس والجندر عند أوكلي", type: "مفهوم"
+- id: "ins-feminist-non-hierarchical-interview-oakley", title: "المقابلة النسوية اللاهرمية عند أوكلي (Feminist Non-Hierarchical Interview)", type: "منهج/أداة بحث"
 gaps:
   - "**تعميقٌ 2026-09-15:** أُضيفت `wrk-sex-gender-society-oakley` و`con-sex-gender-distinction-oakley` وربطهما هنا."
   - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7)."
