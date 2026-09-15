@@ -16,6 +16,7 @@ related:
 - id: "sch-sociology-of-family-gender-intimacy", title: "سوسيولوجيا الأسرة والنوع الاجتماعي والعلاقات الحميمية", type: "مدرسة"
 - id: "stu-evicted-desmond", title: "مطرودون", type: "دراسة وبحث"
 - id: "stu-nickel-and-dimed-ehrenreich", title: "بالكاد نكفي", type: "دراسة وبحث"
+- id: "stu-flat-broke-with-children-hays", title: "مُفلِسات وبصحبتهنّ أطفال", type: "دراسة وبحث"
 gaps:
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بسدّ فجوة نوع `stu-`. كاثرين إيدن ولورا لين، عالمتا اجتماع أمريكيتان، لا تزالان بلا ملف مستقل في الأطلس."
 ---
