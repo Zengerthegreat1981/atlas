@@ -14,8 +14,9 @@ edges:
 related:
 - id: "sch-environmental-sociology-metabolic-rift", title: "السوسيولوجيا البيئية ونظرية الصدع الأيضي", type: "مدرسة"
 - id: "thk-john-bellamy-foster", title: "جون بيلامي فوستر", type: "مفكر"
+- id: "thk-allan-schnaiberg", title: "ألان شنايبرغ", type: "مفكر"
 gaps:
-  - "ألان شنايبرغ، صاحب نظرية «طاحونة الإنتاج» المكمِّلة، لا يزال بلا ملف مستقل."
+  - "**سُدَّت الفجوة 2026-09-17:** تحقّقتُ من أن `thk-allan-schnaiberg` موجودٌ فعلاً بملفٍّ مستقل؛ أُضيف رابطه هنا."
 ---
 
 # بيئة ماركس (Marx's Ecology)

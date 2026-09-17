@@ -14,8 +14,9 @@ edges:
 related:
 - id: "sch-douglas-johnson-existential-sociology", title: "السوسيولوجيا الوجودية والخبرة المعيشة", type: "مدرسة"
 - id: "thk-jack-douglas", title: "جاك دوغلاس", type: "مفكر"
+- id: "thk-john-johnson-existential", title: "جون جونسون", type: "مفكر"
 gaps:
-  - "جون جونسون، المحرر المشارك، لا يزال بلا ملف مستقل."
+  - "**سُدَّت الفجوة 2026-09-17:** تحقّقتُ من أن `thk-john-johnson-existential` موجودٌ فعلاً بملفٍّ مستقل؛ أُضيف رابطه هنا."
 ---
 
 # السوسيولوجيا الوجودية (Existential Sociology)

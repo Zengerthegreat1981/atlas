@@ -22,10 +22,11 @@ related:
 - id: "con-repertoires-of-contention-tilly", title: "مستودعات المنازعة (Repertoires of Contention)", type: "مفهوم"
 - id: "wrk-dynamics-of-contention-tilly-tarrow-mcadam", title: "ديناميكيات المنازعة", type: "عمل"
 - id: "dbt-new-social-movements-vs-resource-mobilization-theory", title: "جدل تفسير الحركات الاجتماعية: نظرية الحركات الاجتماعية الجديدة الأوروبية مقابل نظرية تعبئة الموارد الأمريكية", type: "جدل"
+- id: "thk-sidney-tarrow", title: "سيدني تارو", type: "مفكر"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)، ويكمل `sch-skocpol-comparative-historical-revolutions` المنشأ في الدفعة نفسها."
   - "**تعميقٌ 2026-09-15:** أُضيف `wrk-dynamics-of-contention-tilly-tarrow-mcadam` (يُفرد كتاب *ديناميكيات المنازعة* 2001) وربطه هنا."
-  - "**سُدَّ جزئياً 2026-09-14 (دفعة تالية):** أُنشئ `thk-charles-tilly`. سيدني تارو (`thk-sidney-tarrow`) لا يزال بلا ملف مستقل."
+  - "**سُدَّت الفجوة 2026-09-17:** تحقّقتُ من أن `thk-sidney-tarrow` موجودٌ فعلاً بملفٍّ مستقل؛ أُضيف رابطه هنا (كان موجوداً لكن غير مربوطٍ من هذا الملف تحديداً)."
   - "**تعميقٌ 2026-09-15:** أُضيف `dbt-new-social-movements-vs-resource-mobilization-theory` (يسدّ فجوةً كانت كاملةً لجدل تورين-ميلوتشي مقابل ماكارثي-زالد) وربطه هنا."
 ---
 

@@ -14,8 +14,9 @@ edges:
 related:
 - id: "sch-berger-luckmann-social-construction", title: "البنائية الاجتماعية للواقع", type: "مدرسة"
 - id: "thk-peter-berger", title: "بيتر بيرغر", type: "مفكر"
+- id: "thk-thomas-luckmann", title: "توماس لوكمان", type: "مفكر"
 gaps:
-  - "توماس لوكمان، المؤلف المشارك، لا يزال بلا ملف مستقل."
+  - "**سُدَّت الفجوة 2026-09-17:** تحقّقتُ من أن `thk-thomas-luckmann` موجودٌ فعلاً بملفٍّ مستقل؛ أُضيف رابطه هنا."
 ---
 
 # البناء الاجتماعي للواقع (The Social Construction of Reality)

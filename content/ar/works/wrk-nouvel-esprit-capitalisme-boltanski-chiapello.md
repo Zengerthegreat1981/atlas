@@ -14,8 +14,9 @@ edges:
 related:
 - id: "sch-boltanski-chiapello-capitalist-spirit", title: "سوسيولوجيا نقد الرأسمالية الشبكية", type: "مدرسة"
 - id: "thk-boltanski", title: "لوك بولتانسكي", type: "مفكر"
+- id: "thk-eve-chiapello", title: "إيف شيابيلو", type: "مفكر"
 gaps:
-  - "إيف شيابيلو، المؤلفة المشاركة، لا تزال بلا ملف مستقل."
+  - "**سُدَّت الفجوة 2026-09-17:** تحقّقتُ من أن `thk-eve-chiapello` موجودةٌ فعلاً بملفٍّ مستقل؛ أُضيف رابطها هنا."
 ---
 
 # الروح الجديدة للرأسمالية (Le Nouvel Esprit du Capitalisme)

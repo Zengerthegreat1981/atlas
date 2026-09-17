@@ -14,8 +14,9 @@ edges:
 related:
 - id: "sch-sociology-of-body-embodiment", title: "سوسيولوجيا الجسد والتجسيد الاجتماعي", type: "مدرسة"
 - id: "thk-chris-shilling", title: "كريس شيلينغ", type: "مفكر"
+- id: "thk-bryan-turner", title: "براين ترنر", type: "مفكر"
 gaps:
-  - "براين ترنر، المساهم الآخر في هذا الحقل، لا يزال بلا ملف مستقل."
+  - "**سُدَّت الفجوة 2026-09-17:** تحقّقتُ من أن `thk-bryan-turner` موجودٌ فعلاً بملفٍّ مستقل؛ أُضيف رابطه هنا."
 ---
 
 # الجسد والنظرية الاجتماعية (The Body and Social Theory)

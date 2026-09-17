@@ -14,8 +14,9 @@ edges:
 related:
 - id: "sch-boltanski-thevenot-sociology-of-worth", title: "سوسيولوجيا التبرير ونماذج الجدارة", type: "مدرسة"
 - id: "thk-boltanski", title: "لوك بولتانسكي", type: "مفكر"
+- id: "thk-laurent-thevenot", title: "لوران تيفنو", type: "مفكر"
 gaps:
-  - "لوران تيفنو، المؤلف المشارك، لا يزال بلا ملف مستقل."
+  - "**سُدَّت الفجوة 2026-09-17:** تحقّقتُ من أن `thk-laurent-thevenot` موجودٌ فعلاً بملفٍّ مستقل؛ أُضيف رابطه هنا."
 ---
 
 # في التبرير: اقتصاديات العظمة (De la justification)
