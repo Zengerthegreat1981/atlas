@@ -14,8 +14,10 @@ edges:
 - rel: "belongs_to", target: "sch-complex-organizations-gouldner-blau", target_type: "مدرسة"
 related:
 - id: "sch-complex-organizations-gouldner-blau", title: "سوسيولوجيا التنظيمات والخلل البيروقراطي", type: "مدرسة"
+- id: "thk-rosabeth-moss-kanter", title: "روزابيث موس كانتر", type: "مفكر"
 gaps:
-  - "أُنشئ 2026-09-15 تنفيذاً لتوجيه المنسِّق. لا ملف مستقل بعد لعالمة الاجتماع روزابيث موس كانتر (Rosabeth Moss Kanter) في الأطلس."
+  - "أُنشئ 2026-09-15 تنفيذاً لتوجيه المنسِّق."
+  - "**سُدَّت الفجوة 2026-09-17:** كُتب `thk-rosabeth-moss-kanter` وأُضيف رابطه هنا."
 ---
 
 # رجال ونساء الشركة
