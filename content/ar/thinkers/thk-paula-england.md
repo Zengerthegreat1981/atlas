@@ -18,6 +18,7 @@ related:
 - id: "sch-sociology-of-family-gender-intimacy", title: "سوسيولوجيا الأسرة والنوع الاجتماعي والعلاقات الحميمية", type: "مدرسة"
 - id: "thk-andrew-cherlin", title: "أندرو تشيرلن", type: "مفكر"
 - id: "con-uneven-stalled-gender-revolution-england", title: "الثورة الجندرية المتفاوتة والمتعثِّرة عند إنغلاند (Uneven and Stalled Gender Revolution)", type: "مفهوم"
+- id: "wrk-gender-revolution-uneven-stalled-england", title: "الثورة الجندرية: متفاوتة ومتعثِّرة (The Gender Revolution: Uneven and Stalled)", type: "عمل / كتاب"
 gaps:
   - "أُنشئ 2026-09-18 استجابةً لتوجيه المنسِّق بالعودة إلى التركيز الرئيسي على `thk-`/`wrk-`، مُلحَقة بمدرسة سوسيولوجيا الأسرة القائمة بالفعل (تضم أندرو تشيرلن، مُضاف في دورة سابقة) بوصفها من أهم علماء اجتماع الجندر والعمل المعاصرين. تحقّقتُ عبر grep من غياب أي ملف سابق لها، وتحقّقتُ من عنوان مقالتها المؤسِّسة وتاريخها ومجلتها عبر بحث ويب مباشر (The Gender Revolution: Uneven and Stalled، مجلة Gender & Society، 2010) قبل الكتابة."
   - "لم تُستوفَ هنا أبحاثها الموازية الواسعة عن التمييز الجندري في الأجور وسوسيولوجيا العلاقات الحميمية العابرة، بالتفصيل الكافي."
