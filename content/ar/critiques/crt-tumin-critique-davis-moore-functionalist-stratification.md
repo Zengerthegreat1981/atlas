@@ -13,8 +13,13 @@ edges:
 - rel: "relates_to", target: "sch-parsonian-action-frame", target_type: "مدرسة"
 related:
 - id: "br-structural-functionalist-lineage-current", title: "سلالة الوظيفية البنائية من دوركهايم إلى الوظيفية الجديدة", type: "تيار"
+- id: "thk-kingsley-davis", title: "كينغسلي ديفيس", type: "مفكر"
+- id: "thk-wilbert-moore", title: "ويلبرت إ. مور", type: "مفكر"
+- id: "thk-melvin-tumin", title: "ملفن تومين", type: "مفكر"
+- id: "con-davis-moore-functional-necessity-stratification", title: "أطروحة ديفيس-مور عن الضرورة الوظيفية للتفاوت الطبقي", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بسدّ فجوة نوع `crt-`. كينغسلي ديفيس وويلبرت مور (أصحاب الأطروحة الأصلية) وملفن تومين (الناقد) لا يوجد لأيٍّ منهم ملف مستقل بعد في هذا القسم؛ الأطروحة الأصلية نفسها (1945) لا يوجد لها ملف `con-`/`sch-` مستقل أيضاً — هذا الملف يعرض كليهما (الأطروحة والنقد) معاً بحكم غياب أي توثيقٍ سابق لهما في الأطلس."
+  - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بسدّ فجوة نوع `crt-`."
+  - "**سُدَّت الفجوة 2026-09-17:** كُتبت ملفات مستقلة للثلاثة (`thk-kingsley-davis`, `thk-wilbert-moore`, `thk-melvin-tumin`) وللأطروحة الأصلية نفسها (`con-davis-moore-functional-necessity-stratification`)، وأُضيفت روابطها هنا."
 ---
 
 # نقد تومين لأطروحة ديفيس-مور الوظيفية عن التفاوت الطبقي الضروري
