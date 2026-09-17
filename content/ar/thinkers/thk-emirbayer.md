@@ -16,8 +16,9 @@ edges:
 - rel: "belongs_to", target: "sch-contemporary-relational-sociology", target_type: "مدرسة"
 related:
 - id: "sch-contemporary-relational-sociology", title: "السوسيولوجيا العلائقية المعاصرة", type: "مدرسة"
+- id: "thk-francois-depelteau", title: "فرانسوا ديبلتو", type: "مفكر"
 gaps:
-  - "فرانسوا ديبلتو، الذي صاغ لاحقاً «العلائقية الجذرية» (Relational Sociology، 2013) موسّعاً برنامج إميرباير، لا يزال بلا ملف مستقل."
+  - "**تصحيحُ ملاحظةٍ باتت كاذبة 2026-09-17:** الملاحظة السابقة زعمت أن فرانسوا ديبلتو بلا ملف مستقل؛ `thk-francois-depelteau` موجودٌ فعلاً منذ دفعةٍ سابقة، وأُضيف رابطه هنا."
 ---
 
 # مصطفى إميرباير
