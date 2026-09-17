@@ -22,7 +22,9 @@ related:
 - id: "wrk-gender-trouble", title: "إشكالية النوع (Gender Trouble, 1990)", type: "عمل / كتاب"
 - id: "sch-butler-gender-performativity", title: "سوسيولوجيا الأداء الجندري وتفكيك الثنائية", type: "مدرسة"
 - id: "crt-butler-critique-of-heteronormativity", title: "نقد جوديث بتلر للمعيارية المغايرة وثنائية الجنس الطبيعي", type: "نقد خارجي موثَّق"
+- id: "crt-butler-critique-chodorow-gender-essentialism", title: "نقد بتلر لجوهرانية النوع الاجتماعي عند تشودورو", type: "نقد خارجي موثَّق"
 gaps:
+  - "**سُدَّ 2026-09-17 (الدورة 17):** أُضيف ملف `crt-butler-critique-chodorow-gender-essentialism` وربطه هنا، موثِّقاً نقد بتلر الصريح لنظرية تشودورو النفسية-النسوية في *Gender Trouble* (1990)."
   - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "تصحيح: ملاحظة سابقة زعمت أن `thk-foucault` و`thk-derrida` غير موجودين في الأطلس بعد؛ هذا غير صحيح، كلاهما ملفان معتمدان قائمان (`content/ar/thinkers/thk-foucault.md`, `content/ar/thinkers/thk-derrida.md`) — أُعيد ربط دريدا هنا، وفوكو كان مرتبطاً فعلاً رغم الملاحظة المتناقضة."
   - "تنبيه ازدواج: يوجد ملفا عمل منفصلان عن نفس الكتاب — `wrk-gender-trouble` و`wrk-gender-trouble-butler` — لم يُدمَجا هنا احتراماً لقرار تحرير مركزي منفصل بشأن ازدواجات works؛ أُبقي الربط على `wrk-gender-trouble` فقط دون حذف الآخر."
