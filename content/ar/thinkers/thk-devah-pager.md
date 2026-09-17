@@ -18,8 +18,10 @@ related:
 - id: "sch-sociology-of-work-occupations", title: "سوسيولوجيا العمل والمهن والتصنيع", type: "مدرسة"
 - id: "ins-audit-field-experiment-discrimination", title: "تجربة التدقيق الميدانية لكشف التمييز (Audit Field Experiment)", type: "منهج/أداة بحث"
 - id: "con-criminal-record-mark-pager", title: "وصمة السجل الجنائي عند بيجر (Mark of a Criminal Record)", type: "مفهوم"
+- id: "thk-bertrand-mullainathan-audit-study", title: "مارينا بيرتراند وسنداهيل مولايناثان", type: "مفكر"
 gaps:
   - "أُنشئ 2026-09-17 استجابةً لتوجيه المنسِّق بتوليد محتوى أصيل (مع تركيز مستمر على `thk-` بوصفه النوع الأكبر فجوةً)، سادّاً فجوة كانت مسجَّلة صراحةً في `gaps` ملف `ins-audit-field-experiment-discrimination` القائم («لا يوجد ملف مستقل بعد» لأصحاب أشهر تطبيق للمنهج). أُلحِقت بمدرسة سوسيولوجيا العمل والمهن القائمة بالفعل. تحقّقتُ عبر grep من غياب أي ملف سابق لها، وتحقّقتُ من عنوان مقالتها الرئيسية وتاريخها ومجلتها عبر بحث ويب مباشر (The Mark of a Criminal Record، مجلة American Journal of Sociology، 2003) قبل الكتابة."
+  - "**تعميقٌ 2026-09-17 (الدورة 23):** أُضيف ملف `thk-bertrand-mullainathan-audit-study` وربطه هنا، إذ استعارت بيجر منهجهما مباشرة ووسّعته."
   - "لم تُستوفَ هنا كتابها اللاحق *Marked: Race, Crime, and Finding Work in an Era of Mass Incarceration* (2007) الذي وسّع نتائج هذه الدراسة بالتفصيل الكافي."
 ---
 

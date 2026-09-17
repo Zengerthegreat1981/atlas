@@ -18,9 +18,11 @@ related:
 - id: "ins-natural-experiment-method", title: "التجربة الطبيعية (Natural Experiment)", type: "منهج/أداة بحث"
 - id: "ins-factorial-survey-vignette-method", title: "منهج المسح العاملي بالسيناريوهات (Factorial Survey / Vignette Method)", type: "منهج/أداة بحث"
 - id: "thk-devah-pager", title: "ديفا بيجر", type: "مفكر"
+- id: "thk-bertrand-mullainathan-audit-study", title: "مارينا بيرتراند وسنداهيل مولايناثان", type: "مفكر"
 gaps:
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بسدّ فجوة نوع `ins-`، مع التحقق المسبق من عدم تكراره مع `ins-natural-experiment-method`: ذلك المنهج يستغل تبايناً واقعياً غير مقصود، بينما هذا يصمِّم الباحث فيه تدخلاً تجريبياً مباشراً ومتحكَّماً به بالكامل (إرسال سير ذاتية مصطنعة) — تجربة حقيقية مُتحكَّم بها لا استغلالاً لواقع قائم. مارينا بيرتراند وسنداهيل مولاناثان (Marianne Bertrand & Sendhil Mullainathan)، أصحاب أشهر تطبيق للمنهج، لا يوجد لهما ملف مستقل بعد."
   - "**سُدَّ جزئياً 2026-09-17 (الدورة 22):** أُضيف ملف `thk-devah-pager` (ديفا بيجر، صاحبة تطبيق التمييز التفاعلي بين العرق والسجل الجنائي) وربطه هنا؛ لا يزال بيرتراند ومولاناثان دون ملف مستقل."
+  - "**سُدَّ بالكامل 2026-09-17 (الدورة 23، بتوجيه صريح من المنسِّق):** أُضيف ملف `thk-bertrand-mullainathan-audit-study` وربطه هنا، موثِّقاً دراستهما المحورية "Are Emily and Greg More Employable Than Lakisha and Jamal؟" (2004) — أشهر تطبيق للمنهج على الإطلاق."
 ---
 
 # تجربة التدقيق الميدانية لكشف التمييز (Audit Field Experiment)
