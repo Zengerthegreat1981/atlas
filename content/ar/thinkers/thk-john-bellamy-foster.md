@@ -16,8 +16,9 @@ edges:
 - rel: "belongs_to", target: "sch-environmental-sociology-metabolic-rift", target_type: "مدرسة"
 related:
 - id: "sch-environmental-sociology-metabolic-rift", title: "السوسيولوجيا البيئية ونظرية الصدع الأيضي", type: "مدرسة"
+- id: "thk-allan-schnaiberg", title: "ألان شنايبرغ", type: "مفكر"
 gaps:
-  - "ألان شنايبرغ، المساهم الآخر المذكور في عنوان هذه المدرسة (بنظرية «طاحونة الإنتاج»/Treadmill of Production)، لا يزال بلا ملف مستقل؛ الإسناد المشترك موثَّق نصياً هنا."
+  - "**تصحيحُ ملاحظةٍ باتت كاذبة 2026-09-17:** الملاحظة السابقة زعمت أن ألان شنايبرغ بلا ملف مستقل؛ `thk-allan-schnaiberg` موجودٌ فعلاً منذ دفعةٍ سابقة، وأُضيف رابطه هنا."
 ---
 
 # جون بيلامي فوستر

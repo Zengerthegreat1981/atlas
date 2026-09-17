@@ -16,8 +16,9 @@ edges:
 - rel: "belongs_to", target: "sch-douglas-johnson-existential-sociology", target_type: "مدرسة"
 related:
 - id: "sch-douglas-johnson-existential-sociology", title: "السوسيولوجيا الوجودية والخبرة المعيشة", type: "مدرسة"
+- id: "thk-john-johnson-existential", title: "جون م. جونسون", type: "مفكر"
 gaps:
-  - "شريكه جون جونسون (John M. Johnson) لا يزال بلا ملف مستقل؛ الإسناد المشترك لتحرير *Existential Sociology* (1977) موثَّق نصياً هنا لا عبر رابط ثنائي."
+  - "**تصحيحُ ملاحظةٍ باتت كاذبة 2026-09-17:** الملاحظة السابقة زعمت أن شريكه جون جونسون بلا ملف مستقل؛ `thk-john-johnson-existential` موجودٌ فعلاً منذ دفعةٍ سابقة، وأُضيف رابطه هنا."
   - "ملفات `thk-cdouglas` و`thk-sdouglas` القائمة في المستودع أشخاص آخرون مختلفون تماماً؛ لم تُستخدم خطأً هنا."
 ---
 
