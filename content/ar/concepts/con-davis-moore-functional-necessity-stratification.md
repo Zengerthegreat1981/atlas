@@ -1,6 +1,6 @@
 ---
 slug: "con-davis-moore-functional-necessity-stratification"
-id: "CON-10052"
+id: "CON-10058"
 type: "مفهوم"
 part: "sociology"
 level: "متقدم"
