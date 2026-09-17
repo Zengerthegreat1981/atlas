@@ -18,8 +18,10 @@ edges:
 - rel: "belongs_to", target: "sch-neofunctionalism", target_type: "مدرسة"
 related:
 - id: "sch-neofunctionalism", title: "الوظيفية الجديدة والتركيب ما بعد البارسونزي", type: "مدرسة"
+- id: "br-cultural-sociology-strong-program-current", title: "التيار الثقافي القوي في علم الاجتماع (Strong Program in Cultural Sociology)", type: "تيار"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 39 (مرحلة الحزم). أستاذ في جامعة ييل؛ تحوله اللاحق نحو «علم الاجتماع الثقافي القوي» (Strong Program in Cultural Sociology)، وتحليله المؤثر لـ«الصدمة الثقافية» (Cultural Trauma)، تطوران بعد الوظيفية الجديدة غير مفصَّلين هنا تفصيلاً كاملاً."
+  - "**سُدَّ 2026-09-17 (الدورة 18):** أُضيف ملف التيار `br-cultural-sociology-strong-program-current` وربطه هنا، موثِّقاً تحوّله نحو علم الاجتماع الثقافي القوي وأطروحة الصدمة الثقافية المشتركة مع آيرمان وسملسر وآخرين."
 ---
 
 # جيفري ألكسندر
