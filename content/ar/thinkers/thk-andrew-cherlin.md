@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-sociology-of-family-gender-intimacy", title: "سوسيولوجيا الأسرة والنوع الاجتماعي والعلاقات الحميمية", type: "مدرسة"
 - id: "con-deinstitutionalization-marriage-cherlin", title: "إلغاء مأسسة الزواج عند تشيرلن (Deinstitutionalization of Marriage)", type: "مفهوم"
+- id: "wrk-deinstitutionalization-american-marriage-cherlin", title: "إلغاء مأسسة الزواج الأمريكي (The Deinstitutionalization of American Marriage)", type: "عمل / كتاب"
 gaps:
   - "أُنشئ 2026-09-18 استجابةً لتوجيه المنسِّق بالعودة إلى التركيز الرئيسي على `thk-`/`wrk-`، مُلحَقاً بمدرسة سوسيولوجيا الأسرة القائمة بالفعل بوصفه من أهم علماء اجتماع الأسرة والزواج المعاصرين. تحقّقتُ عبر grep من غياب أي ملف سابق له، وتحقّقتُ من عنوان مقالته المؤسِّسة وتاريخها ومجلتها عبر بحث ويب مباشر (The Deinstitutionalization of American Marriage، مجلة Journal of Marriage and Family، 2004) قبل الكتابة."
   - "لم تُستوفَ هنا كتابه اللاحق الموسَّع *The Marriage-Go-Round* (2009) بالتفصيل الكافي."

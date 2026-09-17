@@ -16,6 +16,7 @@ edges:
 related:
 - id: "sch-sociology-of-family-gender-intimacy", title: "سوسيولوجيا الأسرة والنوع الاجتماعي والعلاقات الحميمية", type: "مدرسة"
 - id: "thk-andrew-cherlin", title: "أندرو تشيرلن", type: "مفكر"
+- id: "wrk-deinstitutionalization-american-marriage-cherlin", title: "إلغاء مأسسة الزواج الأمريكي (The Deinstitutionalization of American Marriage)", type: "عمل / كتاب"
 gaps:
   - "أُنشئ 2026-09-18 استجابةً لتوجيه المنسِّق بتوليد محتوى أصيل، ملازمةً ضرورية لمفكرٍ جديد (تشيرلن) لا يوجد له مفهوم قائم بالفعل يمكن الاكتفاء به. تحقّقتُ عبر grep من غياب أي ملف سابق لهذا المفهوم، وتحقّقتُ من عنوان المصدر وتاريخه ومجلته عبر بحث ويب مباشر قبل الكتابة."
   - "لم تُستوفَ هنا مصطلحه اللاحق «الزواج الذروة» (Capstone Marriage) بالتفصيل الكامل رغم ارتباطه المباشر بهذا المفهوم."
