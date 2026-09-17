@@ -4405,3 +4405,66 @@ revelations-2013` عبر كتابه *المراقبة بعد سنودن*؛ لم 
 نفسها بحثاً عن مفكرين مذكورين دون شرح، مماثلاً لنمط مسح thk-)، أو
 العودة للقراءة المباشرة المتأنية لمدارس متبقية، مع توزيع الجهد بين
 thk- وcon-/wrk-.
+
+## جولة العودة إلى القراءة المباشرة العميقة (2026-09-17)
+
+بتوجيهٍ من المنسِّق: نمط البحث عن العبارة الصريحة استُنفد الآن في كل
+أنواع الملفات (sch-/con-/wrk-/crt-/dbt-/evt-/br-/stu-)، فعُدنا إلى
+القراءة المباشرة العميقة (لا بحثٌ عن عبارةٍ صريحة) لمتن مدارسَ لم
+تُقرأ بعمقٍ هذه الجلسة، بحثاً عن أشخاصٍ مذكورين بالاسم الكامل (غالباً
+في المصادر كمؤلفين مشاركين) دون ملفٍّ مستقل.
+
+**ملفات thk- جديدة (THK-10147، 10184–10186):**
+- `thk-edward-shils` (THK-10147) — شريك بارسونز في تأليف *Toward a
+  General Theory of Action* (1951)، مكتشَفٌ عبر قراءة قائمة أعمال
+  بارسونز في `thk-parsons.md`. `belongs_to: sch-parsonian-action-frame`.
+- `thk-syed-farid-alatas` (THK-10184) — نجل سيد حسين العطاس ووريث
+  مشروعه الفكري، له عملٌ مستقلٌ (2006) مذكورٌ في مصادر
+  `sch-alatas-captive-mind-sociology` دون أن يُفرد سابقاً (وليس مجرد
+  تحرير). `belongs_to` أُسند إلى المدرسة نفسها.
+- `thk-sirma-bilge` (THK-10185) — شريكة باتريشيا هيل كولينز في تأليف
+  *Intersectionality* (2016)، مذكورةٌ في مصادر
+  `sch-sociological-intersectionality` دون ملفٍّ مستقل.
+- `thk-david-lazer` (THK-10186) — المؤلف الرئيسي (Lead Author) لمقالة
+  البيان التأسيسي *Computational Social Science* (Science، 2009)
+  المذكورة في مصادر `sch-computational-sociology-big-data` وملف العمل
+  `wrk-computational-social-science-lazer-watts`؛ كان مذكوراً كمؤلفٍ
+  أولٍ في الاستشهاد نفسه دون إفراده رغم أن دنكان واتس (المشارك) كان
+  مُفرداً بالفعل من دفعةٍ سابقة. أُضيف رابطه من الملفين معاً.
+
+**إصلاح فجوةٍ عكسية:** `sch-medicalization-biosociality.md` — ملف
+`thk-peter-conrad` (صاحب مفهوم التطبيب المذكور في متن الملف نفسه) كان
+موجوداً من دفعةٍ سابقة لكنه لم يكن مربوطاً من هذه المدرسة تحديداً؛ أُضيف
+رابطه.
+
+**فحصٌ شاملٌ لعشرات ملفات sch- الأخرى دون العثور على فجواتٍ إضافية**
+(كلها مُشبَعةٌ بالفعل): `sch-political-sociology-state-citizenship`،
+`sch-urban-sociology-spatial-planning`،
+`sch-sociology-of-art-literature-aesthetics`،
+`sch-rural-agrarian-sociology`، `sch-tonnies-gemeinschaft-gesellschaft`،
+`sch-foucauldian-disciplinary-power`،
+`sch-foucauldian-biopolitics-governmentality`،
+`sch-gramscian-cultural-hegemony`، `sch-grounded-theory-school`،
+`sch-dorothy-smith-standpoint-theory`، `sch-quijano-coloniality-of-power`،
+`sch-simmelian-money-metropolis`، `sch-braverman-labor-process`،
+`sch-booth-rowntree-social-survey`، `sch-bauman-liquid-modernity`،
+`sch-baudrillardian-hyperreality`،
+`sch-archerian-critical-realist-sociology`،
+`sch-deleuzian-assemblage-sociology`، `sch-lefebvrean-spatial-sociology`،
+`sch-sociology-of-work-occupations`،
+`sch-scott-everyday-peasant-resistance`، `sch-spencerian-evolutionism`،
+`sch-sumnerian-evolutionary-sociology`، `sch-burawoy-public-sociology`،
+`sch-sociology-of-scientific-knowledge`،
+`sch-boltanski-thevenot-sociology-of-worth`،
+`sch-boltanski-chiapello-capitalist-spirit`،
+`sch-drake-cayton-black-metropolis`،
+`sch-miliband-poulantzas-state-theory`،
+`sch-honneth-fraser-recognition-redistribution`،
+`sch-laclau-mouffe-discourse-hegemony`،
+`sch-berger-luckmann-social-construction`، `sch-tarde-lebon-crowd-theory`،
+`sch-complex-organizations-gouldner-blau`. هذا يؤكّد أن المدارس
+الأكثر «كثافة» (بها مؤلفون مشاركون بارزون) كانت غالباً قد فُحصت ومُلئت
+في دفعاتٍ سابقة من الجلسة نفسها أو جلساتٍ متزامنة. تسعة وعشرون ملفاً
+sch- من أصل 159 المسمّاة `part: sociology` فُحصت في هذه الجولة، ولا
+يزال هناك نحو 100 ملفٍ لم تُقرأ بعمق هذه الجلسة (قائمة كاملة محفوظة عبر
+`grep -l '^part: "sociology"' content/ar/schools/*.md`)، مستمرٌّ بالمسح.
