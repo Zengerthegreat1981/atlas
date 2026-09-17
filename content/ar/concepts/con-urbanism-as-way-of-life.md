@@ -16,8 +16,10 @@ edges:
 related:
 - id: "thk-wirth", title: "لويس ورث", type: "مفكر"
 - id: "con-gemeinschaft-gesellschaft", title: "الجماعة والمجتمع (Gemeinschaft und Gesellschaft)", type: "مفهوم"
+- id: "con-subcultural-theory-urbanism-fischer", title: "النظرية الفرعية-الثقافية للحضرية عند فيشر (Subcultural Theory of Urbanism)", type: "مفهوم"
 gaps:
   - "**سُدَّت فجوةً عكسية 2026-09-17:** أُضيف رابط `con-gemeinschaft-gesellschaft` (موجودٌ فعلاً) لتشابهه الموضوعي المباشر مع أطروحة ورث."
+  - "**سُدَّت فجوةً عكسية 2026-09-17 (الدورة 26):** أُضيف رابط `con-subcultural-theory-urbanism-fischer` (كلود فيشر)، النظرية المضادة التجريبية الأبرز لأطروحة ورث هذه."
 ---
 
 # الحضرية كنمط حياة عند ورث
