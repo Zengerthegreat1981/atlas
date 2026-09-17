@@ -20,8 +20,10 @@ related:
 - id: "con-actor-network-theory", title: "نظرية شبكة الفواعل والترجمة (Actor-Network Theory)", type: "مفهوم"
 - id: "wrk-reassembling-the-social-latour", title: "إعادة تجميع الاجتماعي (Reassembling the Social)", type: "عمل / كتاب"
 - id: "thk-michel-callon", title: "ميشيل كالون", type: "مفكر"
+- id: "thk-john-law", title: "جون لو", type: "مفكر"
 gaps:
   - "**سُدَّت الفجوة 2026-09-15:** كُتب `thk-michel-callon` وأُضيف رابطه هنا."
+  - "**سُدَّت الفجوة 2026-09-17:** كُتب `thk-john-law` (ثالث المؤسسين الفعليين لهذه المدرسة، كان مذكوراً فقط كمحرر مصدرٍ ثانٍ) وأُضيف رابطه هنا."
   - "هذا الملف أُنشئ في الدفعة 5 من مهمة بناء قسم علم الاجتماع (القسم 5)."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-latour`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً."
 ---
