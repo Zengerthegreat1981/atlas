@@ -14,7 +14,9 @@ edges:
 related:
 - id: "sch-sociology-of-aging-life-course", title: "سوسيولوجيا الشيخوخة ودورة الحياة", type: "مدرسة"
 - id: "thk-glen-elder", title: "غلين إلدر", type: "مفكر"
+- id: "con-life-course-theory-elder", title: "نظرية مسار الحياة عند إلدر (Life Course Theory)", type: "مفهوم"
 gaps:
+  - "**مُلاحَظ 2026-09-17:** هذا الملف يتداخل مضموناً بدرجة كبيرة مع `con-life-course-theory-elder` (المبادئ الأربعة نفسها، المصدر نفسه 1974)؛ رُبطا هنا بعضهما ببعض بدل الدمج، لتفادي حذف محتوى دون تفويض صريح بالدمج."
   - "لم تُستوفَ هنا مقارنة تفصيلية مع نظرية «الانسحاب» (Disengagement Theory) السابقة عند كامنغ وهنري التي انتقدها هذا المنظور ضمنياً."
 ---
 
