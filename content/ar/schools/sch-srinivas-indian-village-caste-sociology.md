@@ -17,6 +17,7 @@ active_end: 1999
 edges: []
 related:
 - id: "thk-mn-srinivas", title: "م. ن. سرينيفاس", type: "مفكر"
+- id: "thk-andre-beteille", title: "أندريه بيتيّ", type: "مفكر"
 - id: "con-sanskritization-srinivas", title: "التسنسك والطائفة المهيمنة عند سرينيفاس (Sanskritization & Dominant Caste)", type: "مفهوم"
 gaps:
   - "أُنشئ 2026-09-17 استجابةً لتوجيه المنسِّق بتوليد محتوى أصيل يسدّ ثغرة إقليمية غير مغطاة إطلاقاً في الأطلس (علم الاجتماع الهندي وعلم اجتماع الطائفة). تحقّقتُ عبر grep من غياب أي مدرسة سابقة لهذا الحقل، وتحقّقتُ من عناوين المصادر وتواريخها عبر Open Library وبحث ويب مباشر."
