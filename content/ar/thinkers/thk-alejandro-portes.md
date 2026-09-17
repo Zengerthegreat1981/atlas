@@ -16,8 +16,9 @@ edges:
 - rel: "belongs_to", target: "sch-sociology-of-migration-diaspora", target_type: "مدرسة"
 related:
 - id: "sch-sociology-of-migration-diaspora", title: "سوسيولوجيا الهجرة واللجوء والشتات", type: "مدرسة"
+- id: "thk-ruben-rumbaut", title: "روبين روم بو", type: "مفكر"
 gaps:
-  - "وليام سافران، صاحب معايير «الشتات» الكلاسيكية (1991)، لا يزال بلا ملف مستقل."
+  - "**تصحيحُ ملاحظةٍ باتت كاذبة 2026-09-17:** الملاحظة السابقة زعمت غياب وليام سافران؛ `thk-william-safran` موجودٌ فعلاً منذ دفعةٍ سابقة. أُضيف بدلاً منه رابط `thk-ruben-rumbaut` (شريكه الفعلي المتكرر في التأليف، كان مذكوراً في المصادر دون ملفٍّ مستقل)."
 ---
 
 # أليخاندرو بورتيس
