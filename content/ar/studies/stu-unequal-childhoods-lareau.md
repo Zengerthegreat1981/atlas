@@ -17,8 +17,10 @@ related:
 - id: "sch-bourdieu-distinction-cultural-reproduction", title: "سوسيولوجيا التمايز وإعادة الإنتاج الثقافي", type: "مدرسة"
 - id: "stu-brave-new-families-stacey", title: "عائلاتٌ جديدةٌ شجاعة", type: "دراسة وبحث"
 - id: "stu-class-and-conformity-kohn", title: "الطبقة والامتثال", type: "دراسة وبحث"
+- id: "thk-annette-lareau", title: "آنيت لارو", type: "مفكر"
 gaps:
-  - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بسدّ فجوة نوع `stu-`. آنيت لارو، عالمة اجتماع أمريكية، لا تزال بلا ملف مستقل في الأطلس."
+  - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بسدّ فجوة نوع `stu-`."
+  - "**سُدَّت الفجوة 2026-09-17:** كُتب `thk-annette-lareau` وأُضيف رابطها هنا."
 ---
 
 # طفولات غير متكافئة
