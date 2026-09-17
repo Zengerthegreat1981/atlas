@@ -22,8 +22,10 @@ related:
 - id: "wrk-sex-gender-society-oakley", title: "الجنس والجندر والمجتمع", type: "عمل / كتاب"
 - id: "con-sex-gender-distinction-oakley", title: "التمييز بين الجنس والجندر عند أوكلي", type: "مفهوم"
 - id: "ins-feminist-non-hierarchical-interview-oakley", title: "المقابلة النسوية اللاهرمية عند أوكلي (Feminist Non-Hierarchical Interview)", type: "منهج/أداة بحث"
+- id: "ins-time-use-diary-method", title: "منهج يوميات استخدام الوقت (Time-Use Diary Method)", type: "منهج/أداة بحث"
 gaps:
   - "**تعميقٌ 2026-09-15:** أُضيفت `wrk-sex-gender-society-oakley` و`con-sex-gender-distinction-oakley` وربطهما هنا."
+  - "**تعميقٌ 2026-09-17 (الدورة 17):** أُضيف `ins-time-use-diary-method` وربطه هنا، استجابةً لتوجيه المنسِّق بالتركيز على أنواع `ins-` بعد بلوغ `con-` هدفه العددي."
   - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7)."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-ann-oakley`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
 ---
