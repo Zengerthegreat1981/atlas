@@ -19,8 +19,10 @@ related:
 - id: "sch-durkheimian-sociology-of-religion", title: "سوسيولوجيا الدين والطقوس الجمعية الدوركهايمية", type: "مدرسة"
 - id: "thk-durkheim", title: "إميل دوركهايم", type: "مفكر"
 - id: "wrk-rules-of-sociological-method-durkheim", title: "قواعد المنهج السوسيولوجي", type: "عمل / كتاب"
+- id: "wrk-division-of-labor-durkheim", title: "تقسيم العمل الاجتماعي", type: "عمل / كتاب"
 - id: "dbt-durkheim-merton-anomie-reformulation", title: "جدل إعادة صياغة الأنومي: الانهيار المعياري الشامل عند دوركهايم مقابل فجوة الأهداف-الوسائل عند ميرتون", type: "جدل"
 gaps:
+  - "**سُدَّت فجوةً عكسية 2026-09-17:** `wrk-division-of-labor-durkheim` (كتابه الأول 1893) موجودٌ فعلاً منذ دفعةٍ سابقة (WRK-9990) لكنه لم يكن مربوطاً من هذا الملف السوسيولوجي تحديداً؛ أُضيف رابطه هنا. **تنبيه ذاتي مسجَّل:** حاولتُ ابتداءً إنشاء ملفٍّ جديدٍ لهذا الكتاب (`wrk-division-of-labor-in-society-durkheim`) قبل اكتشاف الملف القائم عبر فحصٍ أدق لـ`content/ar/works/`؛ حُذف الملف الجديد فوراً قبل أي التزام Git، ولم يُترك أثرٌ في السجل."
   - "**تعميقٌ 2026-09-14:** أُضيف رابط `dbt-durkheim-merton-anomie-reformulation` (مسندٌ بـ`belongs_to` إلى `sch-mertons-strain-theory`)."
   - "**سُدَّ 2026-09-14 (مرحلة الحزم، دفعة 9):** كُتب `thk-durkheim` بوسم `part: \"sociology\"` وأُسند إلى هذا الملف بـ`belongs_to`."
   - "**تعميقٌ 2026-09-14:** أُضيف `wrk-rules-of-sociological-method-durkheim` وربطه هنا."
