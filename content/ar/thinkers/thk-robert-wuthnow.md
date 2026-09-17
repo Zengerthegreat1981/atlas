@@ -18,6 +18,7 @@ related:
 - id: "sch-durkheimian-sociology-of-religion", title: "سوسيولوجيا الدين الدوركهايمية", type: "مدرسة"
 - id: "thk-robert-bellah", title: "روبرت بيلا", type: "مفكر"
 - id: "con-religious-restructuring-wuthnow", title: "إعادة تشكُّل الدين الأمريكي عند وثناو (Restructuring of American Religion)", type: "مفهوم"
+- id: "wrk-restructuring-american-religion-wuthnow", title: "إعادة تشكُّل الدين الأمريكي (The Restructuring of American Religion)", type: "عمل / كتاب"
 gaps:
   - "أُنشئ 2026-09-17 استجابةً لتوجيه المنسِّق بتوليد محتوى أصيل (مع تركيز مستمر على `thk-` بوصفه النوع الأكبر فجوةً)، مُلحَقاً بمدرسة سوسيولوجيا الدين الدوركهايمية القائمة بالفعل (التي تضم روبرت بيلا، مُضاف في دورة سابقة) بوصفه من أبرز علماء اجتماع الدين الأمريكي المعاصرين. تحقّقتُ عبر grep من غياب أي ملف سابق له، وتحقّقتُ من عنوان كتابه الرئيسي وتاريخه وناشره عبر بحث ويب مباشر (The Restructuring of American Religion، جامعة برينستون، 1988) قبل الكتابة."
   - "لم تُستوفَ هنا كتابه الموازي *Acts of Compassion* (1991، عن التطوع الديني والرعاية الاجتماعية) بالتفصيل الكافي رغم أهميته وترشيحه لجائزة بوليتزر."
