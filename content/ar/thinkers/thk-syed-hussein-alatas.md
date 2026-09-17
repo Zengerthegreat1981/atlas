@@ -16,8 +16,10 @@ edges:
 - rel: "belongs_to", target: "sch-alatas-captive-mind-sociology", target_type: "مدرسة"
 related:
 - id: "sch-alatas-captive-mind-sociology", title: "سوسيولوجيا العقل الأسير والتبعية الأكاديمية الآسيوية", type: "مدرسة"
+- id: "thk-syed-farid-alatas", title: "سيد فريد العطاس", type: "مفكر"
 gaps:
   - "عمله السابق الأشهر *أسطورة الأصلي الكسول* (The Myth of the Lazy Native، 1977) خارج نطاق هذا الملف رغم صلته الفكرية المباشرة."
+  - "**تعميقٌ 2026-09-17:** كُتب `thk-syed-farid-alatas` (نجله ووريث مشروعه الفكري) وأُضيف رابطه هنا."
 ---
 
 # سيد حسين العطاس
