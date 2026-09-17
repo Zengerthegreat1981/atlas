@@ -16,8 +16,9 @@ edges:
 - rel: "belongs_to", target: "sch-sociology-of-deviance-crime-justice", target_type: "مدرسة"
 related:
 - id: "con-social-bond-theory-hirschi", title: "نظرية الرابطة الاجتماعية (Social Bond Theory)", type: "مفهوم"
+- id: "thk-stanley-cohen", title: "ستانلي كوهين", type: "مفكر"
 gaps:
-  - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بتعميق حزم القسم 8، لإفراد مفهوم كوهين (متمايز عن نظرية الرابطة الاجتماعية عند هيرشي) بملفٍّ مفهومٍ مستقل. ستانلي كوهين (`thk-stanley-cohen`) لا يزال بلا ملف مستقل في قسم علم الاجتماع."
+  - "**سُدَّت فجوةً عكسية 2026-09-17:** ملف `thk-stanley-cohen` موجودٌ فعلاً الآن ومربوطٌ هنا؛ لم يكن موجوداً وقت إنشاء هذا الملف."
 ---
 
 # الذعر الأخلاقي والشيطان الشعبي (Moral Panic & Folk Devils)
