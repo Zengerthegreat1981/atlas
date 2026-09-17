@@ -14,7 +14,9 @@ edges:
 related:
 - id: "sch-beck-cosmopolitan-sociology", title: "سوسيولوجيا الكوزموبوليتية والمخاطر العالمية", type: "مدرسة"
 - id: "thk-ulrich-beck", title: "أولريش بيك", type: "مفكر"
+- id: "con-methodological-nationalism-beck", title: "القومية المنهجية عند بيك (Methodological Nationalism)", type: "مفهوم"
 gaps:
+  - "**سُدَّت فجوةً عكسية 2026-09-17:** أُضيف رابط `con-methodological-nationalism-beck` (يربط هذا العمل بالفعل من جهته)، إذ هذا الكتاب هو أحد مصادره الأساسية."
   - "لم تُستوفَ هنا تطبيقاته اللاحقة على العولمة السياسية في *Was ist Globalisierung?* بالتفصيل الكافي."
 ---
 
