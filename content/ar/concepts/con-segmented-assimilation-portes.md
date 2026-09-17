@@ -14,7 +14,9 @@ edges:
 related:
 - id: "sch-sociology-of-migration-diaspora", title: "سوسيولوجيا الهجرة واللجوء والشتات", type: "مدرسة"
 - id: "thk-alejandro-portes", title: "أليخاندرو بورتيس", type: "مفكر"
+- id: "thk-min-zhou", title: "مين زهو", type: "مفكر"
 gaps:
+  - "**سُدَّت فجوةً عكسية 2026-09-17:** أُضيف رابط `thk-min-zhou` (شريكة بورتيس في مقالة التأسيس 1993)، الموجود الآن ضمن المستودع."
   - "لم يُستوفَ هنا مقارنة تفصيلية مع النموذج الخطي الكلاسيكي (Straight-Line Assimilation) الذي انتقده هذا الإطار."
 ---
 
