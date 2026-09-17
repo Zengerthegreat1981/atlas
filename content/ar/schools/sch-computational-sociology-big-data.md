@@ -20,9 +20,11 @@ related:
 - id: "con-computational-social-science-digital-traces", title: "الآثار الرقمية والعلم الاجتماعي الحوسبي (Digital Traces)", type: "مفهوم"
 - id: "wrk-computational-social-science-lazer-watts", title: "الحياة الاجتماعية والسلوكية الحوسبية (Computational Social Science)", type: "عمل / كتاب"
 - id: "ins-agent-based-modeling-computational-sociology", title: "المحاكاة القائمة على الفاعل (Agent-Based Modeling) في السوسيولوجيا الحوسبية", type: "منهج/أداة بحث"
+- id: "thk-david-lazer", title: "ديفيد لايزر", type: "مفكر"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 6 من مهمة بناء قسم علم الاجتماع (القسم 6)، آخر بند فيه."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-duncan-watts`؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
+  - "**تعميقٌ 2026-09-17:** أُنشئ `thk-david-lazer` (المؤلف الرئيسي لمقالة البيان التأسيسي 2009، مذكورٌ في المصادر دون ملفٍّ مستقل) وأُضيف رابطه هنا."
 ---
 
 # السوسيولوجيا الحوسبية وتحليل الآثار الرقمية
