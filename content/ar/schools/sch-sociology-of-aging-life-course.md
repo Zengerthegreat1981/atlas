@@ -20,7 +20,9 @@ related:
 - id: "con-life-course-perspective-elder", title: "منظور مسار الحياة (Life Course Perspective)", type: "مفهوم"
 - id: "thk-elaine-cumming", title: "إيلين كامنغ", type: "مفكر"
 - id: "dbt-cumming-elder-disengagement-vs-life-course-aging", title: "جدل نظريات الشيخوخة: الانسحاب الوظيفي عند كامنغ مقابل منظور دورة الحياة عند إلدر", type: "جدل"
+- id: "thk-william-henry", title: "وليام إ. هنري", type: "مفكر"
 gaps:
+  - "**تعميقٌ 2026-09-17:** أُضيف رابط `thk-william-henry` (شريك كامنغ في *التقدم في العمر* 1961، له ملفٌّ مستقلٌّ سابق لكنه لم يكن مربوطاً بهذا الملف نفسه)."
   - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8)."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-glen-elder`."
   - "**سُدَّ 2026-09-15 (تعميقٌ):** أُنشئ `thk-elaine-cumming` وربطه هنا؛ `belongs_to` لهذا الملف نفسه لا يزال فارغاً — لا مدرسة أشمل معتمدة يُسند إليها."
