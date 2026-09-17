@@ -18,8 +18,10 @@ related:
 - id: "sch-boltanski-thevenot-sociology-of-worth", title: "سوسيولوجيا التبرير ونماذج الجدارة", type: "مدرسة"
 - id: "sch-boltanski-chiapello-capitalist-spirit", title: "سوسيولوجيا نقد الرأسمالية الشبكية", type: "مدرسة"
 - id: "con-orders-of-worth-justification", title: "أنظمة الجدارة والتبرير (Orders of Worth)", type: "مفهوم"
+- id: "thk-laurent-thevenot", title: "لوران تيفنو", type: "مفكر"
+- id: "thk-eve-chiapello", title: "إيف شيابيلو", type: "مفكر"
 gaps:
-  - "شريكه لوران تيفنو (في *De la justification*) وشريكته إيف شيابيلو (في *الروح الجديدة للرأسمالية*) لا يزالان بلا ملفات مستقلة."
+  - "**تصحيحُ ملاحظةٍ باتت كاذبة 2026-09-17:** الملاحظة السابقة زعمت أن شريكيه لوران تيفنو وإيف شيابيلو بلا ملفات مستقلة؛ كلاهما موثَّقان الآن (`thk-laurent-thevenot`، `thk-eve-chiapello`) منذ دفعةٍ سابقة، وأُضيفت روابطهما هنا."
 ---
 
 # لوك بولتانسكي
