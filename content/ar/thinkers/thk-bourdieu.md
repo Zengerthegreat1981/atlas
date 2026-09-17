@@ -19,6 +19,7 @@ related:
 - id: "sch-bourdieu-field-capital", title: "سوسيولوجيا الحقول وأشكال رأس المال", type: "مدرسة"
 - id: "sch-bourdieu-distinction-cultural-reproduction", title: "سوسيولوجيا التمايز وإعادة الإنتاج الثقافي", type: "مدرسة"
 - id: "con-habitus-bourdieu", title: "الهابيتوس والاستعدادات الطبقية المتجذرة (Habitus)", type: "مفهوم"
+- id: "wrk-forms-of-capital-bourdieu", title: "أشكال رأس المال (The Forms of Capital)", type: "عمل / كتاب"
 gaps:
   - "توجد مسودة سابقة لهذا المفكر في content/ar/drafts/spark/thinkers/thk-bourdieu.md موسومة part: \"bridge\"؛ هذا الملف مستقل عنها ومكتوب من مصادر جديدة تحت part: \"sociology\"، ولم يُحذف الملف الآخر لتفادي التأثير على مسارات أخرى تعتمد عليه."
   - "عمله الميداني المبكر في الجزائر (1958–1962) وأثره على تكوّن مفهوم الهابيتوس لم يُستوفَ بالتفصيل هنا."
