@@ -14,8 +14,10 @@ edges:
 - rel: "belongs_to", target: "sch-sociology-of-family-gender-intimacy", target_type: "مدرسة"
 related:
 - id: "sch-sociology-of-family-gender-intimacy", title: "سوسيولوجيا الأسرة والنوع الاجتماعي والعلاقات الحميمية", type: "مدرسة"
+- id: "thk-mirra-komarovsky", title: "ميرا كوماروفسكي", type: "مفكر"
 gaps:
-  - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بسدّ فجوة نوع `stu-`. ميرا كوماروفسكي، عالمة اجتماع أمريكية، لا يزال بلا ملف مستقل في الأطلس."
+  - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بسدّ فجوة نوع `stu-`."
+  - "**سُدَّت الفجوة 2026-09-17:** كُتب `thk-mirra-komarovsky` وأُضيف رابطها هنا."
 ---
 
 # زواج الطبقة العاملة
