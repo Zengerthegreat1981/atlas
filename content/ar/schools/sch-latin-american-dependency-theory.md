@@ -21,8 +21,10 @@ related:
 - id: "con-dependencia-cardoso-dos-santos", title: "التبعية البنيوية والتنمية المتشابكة (Dependencia)", type: "مفهوم"
 - id: "dbt-cardoso-dependent-development-vs-classical-dependency", title: "جدل داخل مدرسة التبعية: التنمية التابعة عند كاردوسو مقابل تنمية التخلف الكلاسيكية", type: "جدل"
 - id: "thk-theotonio-dos-santos", title: "ثيوتونيو دوس سانتوس", type: "مفكر"
+- id: "thk-enzo-faletto", title: "أنزو فاليتو", type: "مفكر"
 gaps:
   - "**سُدَّت الفجوة 2026-09-15:** كُتب `thk-theotonio-dos-santos` وأُضيف رابطه هنا."
+  - "**سُدَّت الفجوة 2026-09-17:** كُتب `thk-enzo-faletto` (شريك كاردوسو في تأليف *التبعية والتنمية في أمريكا اللاتينية* 1969) وأُضيف رابطه هنا."
   - "**تعميقٌ 2026-09-14:** أُضيف `dbt-cardoso-dependent-development-vs-classical-dependency` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)، ويكمل `sch-wallerstein-world-systems` المنشأ في الدفعة نفسها."
   - "**سُدَّ جزئياً 2026-09-14 (دفعة تالية):** أُنشئ `thk-cardoso`. ثيوتونيو دوس سانتوس لا يزال بلا ملف مستقل؛ `belongs_to` لهذا الملف نفسه تُرك فارغاً."
