@@ -19,6 +19,7 @@ related:
 - id: "thk-candace-west", title: "كاندس ويست", type: "مفكر"
 - id: "thk-don-zimmerman", title: "دون زيمرمان", type: "مفكر"
 - id: "con-gender-as-social-institution-lorber", title: "الجندر بوصفه مؤسسة اجتماعية عند لوربر (Gender as a Social Institution)", type: "مفهوم"
+- id: "wrk-paradoxes-of-gender-lorber", title: "مفارقات الجندر (Paradoxes of Gender)", type: "عمل / كتاب"
 gaps:
   - "أُنشئ 2026-09-17 استجابةً لتوجيه المنسِّق بتوليد محتوى أصيل (مع تركيز مستمر على `thk-` بوصفه النوع الأكبر فجوةً)، مُلحَقة بمدرسة سوسيولوجيا الأسرة والنوع الاجتماعي القائمة بالفعل (التي تضم كانداس ويست ودون زيمرمان، صاحبَي «فعل الجندر» Doing Gender القريب مفاهيمياً). مؤسِّسة رئيسة تحرير مجلة Gender & Society. تحقّقتُ عبر grep من غياب أي ملف سابق لها، وتحقّقتُ من عنوان كتابها الرئيسي وتاريخه وناشره عبر بحث ويب مباشر (Paradoxes of Gender، جامعة ييل، 1994) قبل الكتابة."
   - "لم تُستوفَ هنا كتابها اللاحق *Breaking the Bowls: Degendering and Feminist Change* (2005) الذي اقترحت فيه إلغاء الجندر كتصنيف اجتماعي أساساً، بالتفصيل الكافي."
