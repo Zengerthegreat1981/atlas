@@ -16,8 +16,10 @@ edges:
 - rel: "belongs_to", target: "sch-sociology-of-migration-diaspora", target_type: "مدرسة"
 related:
 - id: "ins-in-depth-semi-structured-interview", title: "المقابلة المعمَّقة شبه المُقنَّنة (In-Depth Semi-Structured Interview)", type: "منهج/أداة بحث"
+- id: "thk-leo-a-goodman", title: "ليو أ. غودمان", type: "مفكر"
 gaps:
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بسدّ فجوة نوع `ins-`. ليو أ. غودمان (Leo A. Goodman)، الإحصائي الذي صاغ الأساس الرياضي للطريقة، لا يوجد له ملف مستقل مؤكَّد في الأطلس (ملفا `thk-goodman` و`thk-jgoodman` القائمان يخصان شخصيتين مختلفتين تماماً — بول غودمان ونلسون غودمان — فلم يُربَط أيٌّ منهما هنا تفادياً لخطإ نسبة). الإسناد إلى `sch-sociology-of-migration-diaspora` تقريبي بحكم الاستخدام الشائع للطريقة في دراسة جماعات مهاجرة يصعب حصرها بمسح عشوائي تقليدي؛ لا مدرسة منهجية عامة أشمل معتمدة."
+  - "**سُدَّ 2026-09-18 (الدورة 49):** أُضيف ملف `thk-leo-a-goodman` وربطه هنا، ملحَقاً بمدرسة الشبكات الاجتماعية القائمة (`sch-social-network-analysis-paradigm`) بدل مدرسة الهجرة التقريبية."
 ---
 
 # أخذ العينات بطريقة كرة الثلج (Snowball Sampling)
