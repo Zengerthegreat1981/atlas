@@ -21,7 +21,9 @@ related:
 - id: "thk-robert-merton", title: "روبرت ك. ميرتون", type: "مفكر"
 - id: "dbt-durkheim-merton-anomie-reformulation", title: "جدل إعادة صياغة الأنومي: الانهيار المعياري الشامل عند دوركهايم مقابل فجوة الأهداف-الوسائل عند ميرتون", type: "جدل"
 - id: "con-strain-theory-modes-adaptation-merton", title: "أنماط التكيّف الخمسة عند ميرتون (Modes of Adaptation)", type: "مفهوم"
+- id: "thk-robert-agnew", title: "روبرت أغنيو", type: "مفكر"
 gaps:
+  - "**سُدَّت الفجوة 2026-09-17:** كُتب `thk-robert-agnew` (صاحب نظرية التوتر العامة 1992، مذكورٌ في المتن دون ملف) وأُضيف رابطه هنا."
   - "**تعميقٌ 2026-09-15:** أُضيف `con-strain-theory-modes-adaptation-merton` وربطه هنا (الأنماط الخمسة نفسها، متمايزةً عن con-anomie-durkheim الدوركهايمي الأصلي)."
   - "**تعميقٌ 2026-09-14:** أُضيف `dbt-durkheim-merton-anomie-reformulation` وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 3 من مهمة بناء قسم علم الاجتماع (القسم 3)، ويكمل `sch-mertonian-middle-range` المنشأ في الدفعة نفسها."
