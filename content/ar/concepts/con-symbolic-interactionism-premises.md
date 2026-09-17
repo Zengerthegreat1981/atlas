@@ -16,8 +16,9 @@ edges:
 related:
 - id: "thk-blumer", title: "هربرت بلومر", type: "مفكر"
 - id: "con-thomas-theorem", title: "نظرية توماس (Thomas Theorem)", type: "مفهوم"
+- id: "con-generalized-other-mead", title: "الآخر المعمَّم عند ميد", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 19 (مرحلة الحزم). لا رابط `related` بعد إلى `con-generalized-other-mead` رغم أن الفرضيات الثلاث تبني مباشرة على تصور ميد عن الذات والمعنى؛ الرابط ضمني عبر `sch-mead-social-behaviorism` بوصفها أمّ `sch-blumerian-symbolic-interactionism`، ولم يُكرَّر صراحة هنا."
+  - "**سُدَّت فجوةً عكسية 2026-09-17:** أُضيف رابط `con-generalized-other-mead` صراحةً، إذ تبني الفرضيات الثلاث مباشرة على تصور ميد عن الذات والمعنى."
 ---
 
 # الفرضيات الثلاث للتفاعلية الرمزية عند بلومر

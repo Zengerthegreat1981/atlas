@@ -14,7 +14,9 @@ edges:
 related:
 - id: "sch-sociology-of-youth-subcultures", title: "سوسيولوجيا الشباب والثقافات الفرعية", type: "مدرسة"
 - id: "thk-dick-hebdige", title: "ديك هبديج", type: "مفكر"
+- id: "con-subculture-symbolic-resistance-hebdige", title: "الثقافة الفرعية والمقاومة الرمزية عند هبديج", type: "مفهوم"
 gaps:
+  - "**مُلاحَظ 2026-09-17:** هذا الملف يتداخل مضموناً بدرجة كبيرة مع `con-subculture-symbolic-resistance-hebdige` (الكتاب نفسه 1979، الأطروحة نفسها)؛ رُبطا هنا بعضهما ببعض بدل الدمج، لتفادي حذف محتوى دون تفويض صريح بالدمج."
   - "لم يُستوفَ هنا تحليل «التسليع» (Incorporation) اللاحق لهذه الثقافات في السوق الاستهلاكية بالتفصيل الكافي."
 ---
 

@@ -15,8 +15,9 @@ edges:
 - rel: "belongs_to", target: "sch-wirthian-urbanism-ghetto", target_type: "مدرسة"
 related:
 - id: "thk-wirth", title: "لويس ورث", type: "مفكر"
+- id: "con-gemeinschaft-gesellschaft", title: "الجماعة والمجتمع (Gemeinschaft und Gesellschaft)", type: "مفهوم"
 gaps:
-  - "هذا الملف أُنشئ في الدفعة 14 (مرحلة الحزم). لا مقارنة مفصَّلة هنا مع مفهوم Gemeinschaft/Gesellschaft عند تونيس (`con-gemeinschaft-gesellschaft`) رغم تشابه موضوعي واضح (كلاهما يقارن الرابطة الحميمة التقليدية بالرابطة الحضرية الحديثة الأكثر تباعداً)؛ الجسر التوضيحي بينهما لم يُبنَ بعد كعلاقة `related` صريحة."
+  - "**سُدَّت فجوةً عكسية 2026-09-17:** أُضيف رابط `con-gemeinschaft-gesellschaft` (موجودٌ فعلاً) لتشابهه الموضوعي المباشر مع أطروحة ورث."
 ---
 
 # الحضرية كنمط حياة عند ورث
