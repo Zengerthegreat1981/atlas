@@ -17,8 +17,11 @@ related:
 - id: "stu-evicted-desmond", title: "مطرودون", type: "دراسة وبحث"
 - id: "stu-nickel-and-dimed-ehrenreich", title: "بالكاد نكفي", type: "دراسة وبحث"
 - id: "stu-flat-broke-with-children-hays", title: "مُفلِسات وبصحبتهنّ أطفال", type: "دراسة وبحث"
+- id: "thk-kathryn-edin", title: "كاثرين إيدن", type: "مفكر"
+- id: "thk-laura-lein", title: "لورا لين", type: "مفكر"
 gaps:
-  - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بسدّ فجوة نوع `stu-`. كاثرين إيدن ولورا لين، عالمتا اجتماع أمريكيتان، لا تزالان بلا ملف مستقل في الأطلس."
+  - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بسدّ فجوة نوع `stu-`."
+  - "**سُدَّت الفجوة 2026-09-17:** كُتب `thk-kathryn-edin` وَ`thk-laura-lein` وأُضيفت روابطهما هنا."
 ---
 
 # تدبير أمر المعيشة
