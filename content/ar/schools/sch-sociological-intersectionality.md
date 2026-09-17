@@ -22,7 +22,9 @@ related:
 - id: "con-intersectionality", title: "التقاطعية", type: "مفهوم"
 - id: "wrk-demarginalizing-intersection-crenshaw", title: "إزالة التهميش عن تقاطع العرق والجندر (Demarginalizing the Intersection)", type: "عمل / كتاب"
 - id: "evt-crenshaw-coins-intersectionality-1989", title: "صياغة كيمبرلي كرنشو لمصطلح «التقاطعية» (1989) انطلاقاً من قضايا تمييز قانونية فعلية", type: "حدث تاريخي"
+- id: "thk-sirma-bilge", title: "سيرما بيلجي", type: "مفكر"
 gaps:
+  - "**تعميقٌ 2026-09-17:** أُضيف `thk-sirma-bilge` (شريكة كولينز في تأليف الكتاب المرجعي *التقاطعية* 2016، مذكورة في المصادر دون شرح) وربطه هنا."
   - "هذا الملف أُنشئ في الدفعة 7 من مهمة بناء قسم علم الاجتماع (القسم 7)، ويكمل `sch-hill-collins-black-feminist-sociology` المنشأ في الدفعة نفسها. ملف `thk-crenshaw` القائم موسومٌ `part: \"philosophy\"`، فالإشارة إليه عبر `related` وحده. تنبيه: يوجد أيضاً ملفٌ مكرَّرٌ محتمَل `thk-kcrenshaw` بالعنوان نفسه تقريباً؛ لم يُستخدم هنا وقد يحتاج توحيداً مستقبلاً خارج نطاق هذه الدفعة."
 ---
 
