@@ -21,7 +21,9 @@ related:
 - id: "con-spatial-fix-harvey", title: "الإصلاح المكاني وأزمات فيض التراكم (Spatial Fix)", type: "مفهوم"
 - id: "con-accumulation-by-dispossession-harvey", title: "التراكم عبر نزع الملكية (Accumulation by Dispossession)", type: "مفهوم"
 - id: "br-critical-spatial-sociology-current", title: "تيار سوسيولوجيا الفضاء النقدية: من إنتاج الفضاء عند لوفيفر إلى الجغرافيا الماركسية عند هارفي", type: "تيار"
+- id: "br-urban-growth-machine-political-economy-current", title: "التيار المعاصر لسوسيولوجيا آلة النمو الحضري والاقتصاد السياسي للمكان", type: "تيار"
 gaps:
+  - "تعميقٌ 2026-09-18: أُضيف رابط `br-urban-growth-machine-political-economy-current`؛ تيار أمريكي مميَّز (لوغان ومولوتش) يحلِّل تحالفات نخبوية محلية ملموسة بديلاً تحليلياً على المستوى المحلي، مكمِّلاً التحليل البنيوي الأشمل عند هارفي."
   - "هذا الملف أُنشئ في الدفعة 4 من مهمة بناء قسم علم الاجتماع (القسم 4)، ويكمل `sch-lefebvrean-spatial-sociology` المنشأ في الدفعة نفسها."
   - "**سُدَّ 2026-09-14 (دفعة تالية):** أُنشئ `thk-david-harvey`."
   - "**تعميقٌ 2026-09-15:** أُضيف `con-accumulation-by-dispossession-harvey` (مفهوم هارفي الثاني، متمايز عن Spatial Fix) وربطه هنا."
