@@ -17,7 +17,9 @@ edges:
 related:
 - id: "sch-contemporary-relational-sociology", title: "السوسيولوجيا العلائقية المعاصرة", type: "مدرسة"
 - id: "thk-francois-depelteau", title: "فرانسوا ديبلتو", type: "مفكر"
+- id: "br-relational-sociology-current", title: "التيار المعاصر للسوسيولوجيا العلائقية", type: "تيار"
 gaps:
+  - "تعميقٌ 2026-09-18: أُضيف رابط `br-relational-sociology-current`، التيار الذي انطلق من بيانه المحوري (1997) وأصبح مرجعاً موحِّداً لعنقود بحثي أوسع."
   - "**تصحيحُ ملاحظةٍ باتت كاذبة 2026-09-17:** الملاحظة السابقة زعمت أن فرانسوا ديبلتو بلا ملف مستقل؛ `thk-francois-depelteau` موجودٌ فعلاً منذ دفعةٍ سابقة، وأُضيف رابطه هنا."
 ---
 
