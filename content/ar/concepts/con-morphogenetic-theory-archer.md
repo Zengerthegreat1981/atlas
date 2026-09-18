@@ -14,8 +14,10 @@ edges:
 related:
 - id: "sch-archerian-critical-realist-sociology", title: "الواقعية النقدية السوسيولوجية ونظرية المورفوجينيسيس", type: "مدرسة"
 - id: "thk-margaret-archer", title: "مارغريت آرتشر", type: "مفكر"
+- id: "crt-archer-critique-giddens-structuration-central-conflation", title: "نقد آرتشر لنظرية الهيكلة عند غيدنز: التلفيق المركزي والثنائية التحليلية", type: "نقد خارجي موثَّق"
 gaps:
   - "لم تُستوفَ هنا المقارنة التفصيلية مع نظرية الهيكلة عند غيدنز التي طوّرت آرتشر إطارها نقداً لها."
+  - "تعميقٌ 2026-09-18: أُضيف رابط `crt-archer-critique-giddens-structuration-central-conflation`، سادّاً الفجوة أعلاه؛ يوثِّق الملف الجديد نقد آرتشر لمفهوم ثنائية البنية عند غيدنز (اتهامها إياه بـ«التلفيق المركزي») واقتراحها البديل («الثنائية التحليلية»)."
 ---
 
 # نظرية المورفوجينيسيس والثنائية التحليلية (Morphogenetic Theory)
