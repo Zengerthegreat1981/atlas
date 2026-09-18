@@ -17,7 +17,9 @@ edges:
 related:
 - id: "stu-american-occupational-structure-blau-duncan", title: "البنية المهنية الأمريكية", type: "دراسة وبحث"
 - id: "thk-peter-blau", title: "بيتر بلاو", type: "مفكر"
+- id: "ins-dissimilarity-index-duncan-segregation", title: "مؤشر التباين لقياس الفصل السكني عند دنكان ودنكان (Index of Dissimilarity)", type: "منهج/أداة بحث"
 gaps:
+  - "تعميقٌ 2026-09-18: أُضيف رابط `ins-dissimilarity-index-duncan-segregation`؛ صاغ دنكان (مع بيفرلي دنكان، 1955) مؤشر التباين المعياري لقياس الفصل السكني، مساهمة منهجية مستقلة سابقة على عمله مع بلاو عن الحراك المهني (1967)، ولا تزال المعيار المرجعي في أبحاث الفصل العرقي السكني حتى اليوم."
   - "هذا الملف أُنشئ استجابةً لتوجيه المنسِّق بمسح متن ملفات `stu-` بحثاً عن باحثين لم يُفردوا. كان مذكوراً بالاسم الكامل في `stu-american-occupational-structure-blau-duncan` (شريك بلاو في التأليف) دون ملفٍّ مستقل. تحقّقتُ عبر `ls`/`find` من غيابه. `belongs_to` أُسند إلى مدرسة بلاو للتبادل البنائي."
 ---
 
