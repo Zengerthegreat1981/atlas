@@ -21,8 +21,10 @@ related:
 - id: "thk-george-herbert-mead", title: "جورج هربرت ميد (مؤسِّس السُلوكية الاجتماعية)", type: "مفكر"
 - id: "thk-stryker", title: "شيلدون ستريكر", type: "مفكر"
 - id: "dbt-blumer-manford-kuhn-chicago-iowa-symbolic-interactionism", title: "الانقسام المنهجي الأول في التفاعلية الرمزية: مدرسة شيكاغو التأويلية عند بلومر مقابل مدرسة آيوا القياسية عند مانفورد كون", type: "جدل"
+- id: "ins-twenty-statements-test-kuhn-mcpartland", title: "اختبار العبارات العشرين لقياس مفهوم الذات عند كون وماكبارتلاند (Twenty Statements Test)", type: "منهج/أداة بحث"
 gaps:
   - "أُنشئ 2026-09-15 تنفيذاً لتوجيه المنسِّق (تكثيف المفكرين الثانويين)، سادّاً فجوةً موثقةً صراحةً في `gaps` ملف `thk-george-herbert-mead` ('طوّر Manford Kuhn... فرعاً كمّياً منافساً يُعرف بـ«مدرسة آيوا»'). تحقّقتُ مباشرة أن `thk-kuhn` القائم شخصيةٌ مختلفةٌ كلياً (رولاند كون، فيلسوف، part: philosophy)."
+  - "تعميقٌ 2026-09-18: أُضيف ملف `ins-twenty-statements-test-kuhn-mcpartland` وربطه هنا، سادّاً الفجوة المذكورة أدناه بالضبط."
   - "أداة قياس التعرف على الذات (Twenty Statements Test) التي طوّرها كون مع توماس مكبارتلاند ذُكرت هنا دون ملف `ins-` مستقل؛ يُترك للوكيل المختص بفئة `ins-`."
   - "**تعميقٌ 2026-09-15:** أُضيف `dbt-blumer-manford-kuhn-chicago-iowa-symbolic-interactionism` (يُفرد هذا الانقسام المنهجي التأسيسي بملفٍّ جدلٍ مستقل) وربطه هنا."
 ---
