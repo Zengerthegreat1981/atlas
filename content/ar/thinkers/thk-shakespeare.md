@@ -18,7 +18,9 @@ related:
 - id: "wrk-disability-rights-wrongs", title: "حقوق وأخطاء الإعاقة (Disability Rights and Wrongs)", type: "عمل / كتاب"
 - id: "con-social-model-disability", title: "النموذج الاجتماعي للإعاقة (Social Model)", type: "مفهوم"
 - id: "sch-philosophy-of-disability", title: "فلسفة الإعاقة", type: "مدرسة"
+- id: "crt-shakespeare-critique-oliver-strong-social-model-disability", title: "نقد توم شكسبير للنموذج الاجتماعي «المتطرف» للإعاقة عند أوليفر", type: "نقد خارجي موثَّق"
 gaps:
+  - "تعميقٌ 2026-09-18: أُضيف رابط `crt-shakespeare-critique-oliver-strong-social-model-disability` (`part: sociology`)؛ يفصِّل نقده لصيغة أوليفر القوية من النموذج الاجتماعي ضمن قسم السوسيولوجيا."
   - "لم تُراجع بعدُ كتابه *The Social Model of Disability* (2006) ولا Disability Rights and Wrongs (2006)."
   - "لا اقتباس مباشر موثّق منه في هذا الملف."
 ---
