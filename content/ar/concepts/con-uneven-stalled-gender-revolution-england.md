@@ -17,6 +17,8 @@ related:
 - id: "sch-sociology-of-family-gender-intimacy", title: "سوسيولوجيا الأسرة والنوع الاجتماعي والعلاقات الحميمية", type: "مدرسة"
 - id: "thk-paula-england", title: "باولا إنغلاند", type: "مفكر"
 - id: "wrk-gender-revolution-uneven-stalled-england", title: "الثورة الجندرية: متفاوتة ومتعثِّرة (The Gender Revolution: Uneven and Stalled)", type: "عمل / كتاب"
+- id: "thk-kathleen-gerson", title: "كاثلين جيرسون", type: "مفكر"
+- id: "wrk-unfinished-revolution-gerson", title: "الثورة غير المكتملة (The Unfinished Revolution)", type: "عمل / كتاب"
 gaps:
   - "أُنشئ 2026-09-18 استجابةً لتوجيه المنسِّق بتوليد محتوى أصيل، ملازمةً ضرورية لمفكرةٍ جديدة (إنغلاند) لا يوجد لها مفهوم قائم بالفعل يمكن الاكتفاء به. تحقّقتُ عبر grep من غياب أي ملف سابق لهذا المفهوم، وتحقّقتُ من عنوان المصدر وتاريخه ومجلته عبر بحث ويب مباشر قبل الكتابة."
   - "لم تُستوفَ هنا الأدلة الإحصائية التفصيلية الكاملة التي استندت إليها إنغلاند (بيانات تعداد وسوق عمل أمريكية عبر عقود) بالتفصيل المنهجي الكامل."
