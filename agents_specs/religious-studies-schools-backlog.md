@@ -51,7 +51,7 @@
 
 ## 7. المناهجُ والجدالات
 - [x] الجدلُ بين المقاربة الاختزاليةِ وغيرِ الاختزالية (Reductionism Debate) — `dbt-reductionism-vs-non-reductionism-religious-studies`، يربط `sch-phenomenology-of-religion-otto-eliade` و`sch-cognitive-science-of-religion` الموجودين مسبقاً؛ الدفعة 10
-- [ ] مسألةُ «الدين» بوصفه مقولةً قابلةً للتعريف أصلاً (Smith — *Imagining Religion*)
+- [x] مسألةُ «الدين» بوصفه مقولةً قابلةً للتعريف أصلاً (Smith — *Imagining Religion*) — `dbt-defining-religion-as-analytic-category` (DBT-2201) + `thk-jonathan-z-smith` (THK-8018) جديدان، يربطان بـ`dbt-reductionism-vs-non-reductionism-religious-studies` و`thk-talal-asad` الموجودين مسبقاً؛ وليام كانتويل سميث تُرك فجوةً موثَّقة، الدفعة 25
 - [x] الداخلُ والخارجُ: Emic/Etic في دراسة الدين — `con-emic-etic-study-of-religion`، يربط بجدل الاختزال أعلاه، الدفعة 10
 - [ ] الإثنوغرافيا الدينيةُ والعملُ الميدانيّ
 - [ ] المسوحُ الكمّيةُ للتديُّن ومقاييسُه — **جسرٌ إلى أدوات القياس**

@@ -21,8 +21,10 @@ related:
 - id: "wrk-anthropology-colonial-encounter-asad", title: "الأنثروبولوجيا والمواجهةُ الاستعمارية (Anthropology and the Colonial Encounter)", type: "عمل / كتاب"
 - id: "wrk-formations-of-secular-asad", title: "تشكيلاتُ العلماني (Formations of the Secular)", type: "عمل / كتاب"
 - id: "thk-veena-das", title: "ڤينا داس (Veena Das)", type: "مفكر"
+- id: "dbt-defining-religion-as-analytic-category", title: "مسألةُ «الدين» بوصفه مقولةً قابلةً للتعريف أصلاً", type: "جدل"
 gaps:
   - "علاقةُ أسد بإدوارد سعيد ومفهوم الاستشراق مذكورةٌ إجمالاً في ملفّ المدرسة؛ لم تُضَف كضلعٍ صريح لعدم توفّر ملفٍّ مستقلٍّ لسعيد ضمن هذا القسم بعد (هو مُدرَجٌ تحت الأدب المقارن/الاستشراق في قسمٍ آخر من الأطلس)."
+  - "أُضيف رابطٌ إلى `dbt-defining-religion-as-analytic-category` (علمُ الأديان المقارن، الدفعة 25) الذي يقارن نقدَه لمقولة 'الدين' بنقد جوناثان ز. سميث المنهجي المختلف الزاوية لنفس المقولة."
 ---
 # طلال أسد (Talal Asad)
 
