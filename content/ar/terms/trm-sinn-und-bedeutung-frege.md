@@ -12,6 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-analytic-metaphysics", target_type: "مدرسة"
 related:
+- id: "sch-formal-semantics-montague-grammar", title: "الدلالةُ الصوريةُ ونحوُ مونتاغيو (Formal Semantics)", type: "مدرسة"
 - id: "thk-gfrege", title: "غوتلوب فريغه", type: "مفكر"
 - id: "thk-bertrand-russell", title: "برتراند راسل", type: "مفكر"
 gaps:

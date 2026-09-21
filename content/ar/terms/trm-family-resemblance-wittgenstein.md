@@ -12,6 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-analytic-metaphysics", target_type: "مدرسة"
 related:
+- id: "con-prototype-theory-linguistics", title: "النظريةُ النموذجيةُ في الدلالة اللسانية", type: "مفهوم"
 - id: "thk-lwittgenstein", title: "لودفيغ فيتغنشتاين", type: "مفكر"
 - id: "wrk-philosophical-investigations-wittgenstein", title: "بحوث فلسفية للودفيغ فيتغنشتاين", type: "عمل / كتاب"
 - id: "con-family-resemblance-wittgenstein", title: "شبه العائلة والمفاهيم المفتوحة (Family Resemblance)", type: "مفهوم"

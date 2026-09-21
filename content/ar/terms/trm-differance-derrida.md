@@ -12,6 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-deconstruction", target_type: "مدرسة"
 related:
+- id: "con-linguistic-value-saussure", title: "القيمةُ اللغوية (Valeur Linguistique)", type: "مفهوم"
 - id: "sch-deconstruction", title: "التفكيكية (Déconstruction)", type: "مدرسة"
 - id: "thk-derrida", title: "جاك دريدا", type: "مفكر"
 - id: "met-derrida-pharmakon", title: "الفارماكون (Pharmakon) لجاك دريدا: استعارة النص كدواء وسم في آن واحد", type: "استعارة/مجاز مؤسِّس"
