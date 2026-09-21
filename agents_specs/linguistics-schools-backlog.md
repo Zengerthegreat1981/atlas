@@ -107,11 +107,13 @@
 
 ## 10. السيمياء وأنظمةُ العلامات (Semiotics)
 
-- [ ] السيمياءُ البيرسية (Peircean Semiotics — الأيقونة والمؤشّر والرمز)
-- [ ] السيميولوجيا السوسيرية وامتدادُها (Barthes — *Mythologies*، *S/Z*)
-- [ ] سيمياءُ إيكو ونظريةُ التأويل (Eco — *A Theory of Semiotics*)
-- [ ] سيمياءُ غريماس والمربّعُ السيميائيّ (Greimasian Structural Semantics)
-- [ ] السيمياءُ الحيويةُ والثقافية (Biosemiotics، Tartu — Lotman)
+- [x] السيمياءُ البيرسية (Peircean Semiotics — الأيقونة والمؤشّر والرمز) — `sch-peircean-semiotics` (الدفعة 15). `thk-peirce` (philosophy) رُبط ولم يُكرَّر.
+- [x] السيميولوجيا السوسيرية وامتدادُها (Barthes — *Mythologies*، *S/Z*) — `sch-structuralist-semiology` (الدفعة 15). `thk-roland-barthes` (bridge) رُبط ولم يُكرَّر.
+- [x] سيمياءُ إيكو ونظريةُ التأويل (Eco — *A Theory of Semiotics*) — `thk-umberto-eco` (الدفعة 15).
+- [x] سيمياءُ غريماس والمربّعُ السيميائيّ (Greimasian Structural Semantics) — `sch-greimassian-semiotics`، `thk-algirdas-greimas` (الدفعة 15).
+- [x] السيمياءُ الحيويةُ والثقافية (Biosemiotics، Tartu — Lotman) — `sch-biosemiotics-tartu`، `thk-juri-lotman` (الدفعة 15). توماس سيبيوك لم يُفرَد بعد.
+
+**القسمُ 10 مكتمل.**
 
 ## 11. المناهجُ والأدوات (Methods & Instruments)
 
