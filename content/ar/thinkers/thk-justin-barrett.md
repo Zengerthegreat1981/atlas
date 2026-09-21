@@ -21,6 +21,7 @@ related:
 - id: "sch-cognitive-science-of-religion", title: "علمُ الأديان المعرفيّ (Cognitive Science of Religion)", type: "مدرسة"
 - id: "con-hyperactive-agency-detection", title: "كاشفُ الفاعلية المفرط النشاط (HADD)", type: "مفهوم"
 - id: "thk-pascal-boyer", title: "پاسكال بوييه", type: "مفكر"
+- id: "thk-scott-atran", title: "سكوت أتران", type: "مفكر"
 gaps:
   - "بارت لاهوتيٌّ إلى جانب كونه عالمَ نفسٍ معرفياً (عمل لاحقاً في مؤسّساتٍ مسيحيةٍ إنجيلية)؛ هذا الانحياز الشخصيّ اللاحق مذكورٌ هنا حياداً دون الخوض في تقييمه، إذ لا يمسّ صحة نظريته العلمية المبكرة موضوع هذا الملف."
 ---

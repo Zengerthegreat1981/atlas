@@ -21,6 +21,7 @@ related:
 - id: "sch-cognitive-science-of-religion", title: "علمُ الأديان المعرفيّ (Cognitive Science of Religion)", type: "مدرسة"
 - id: "con-minimally-counterintuitive-concepts", title: "المفاهيمُ المضادّةُ للحدس قليلاً (Minimally Counterintuitive Concepts)", type: "مفهوم"
 - id: "thk-justin-barrett", title: "جستن بارت", type: "مفكر"
+- id: "thk-scott-atran", title: "سكوت أتران", type: "مفكر"
 gaps:
   - "سيرتُه الأكاديمية المفصّلة (مؤسّسات، إشرافٌ، جوائز) غير مثبّتةٍ بمصدرٍ ثانويٍّ محقَّق في هذه الدفعة؛ اقتُصر على ما توثّقه أعماله المنشورة."
 ---
