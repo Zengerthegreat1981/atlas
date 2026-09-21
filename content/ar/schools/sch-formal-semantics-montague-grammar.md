@@ -17,11 +17,11 @@ active_end: "مستمر"
 edges: []
 related:
 - id: "thk-richard-montague", title: "ريتشارد مونتاغيو", type: "مفكر"
+- id: "thk-barbara-partee", title: "باربارا بارتة", type: "مفكر"
 - id: "sch-generative-grammar", title: "النحوُ التوليديُّ التحويليّ (Generative-Transformational Grammar)", type: "مدرسة"
 - id: "sch-gricean-pragmatics", title: "التداوليةُ الغرايسية (Gricean Pragmatics)", type: "مدرسة"
 gaps:
   - "لا `belongs_to`/`evolved_from`: نشأت الدلالةُ الصوريةُ من تقاطع المنطق الرياضي بأعمال مونتاغيو المنطقية المستقلة عن سلالة تشومسكي التوليدية، لا كامتدادٍ تاريخيٍّ مباشرٍ منها؛ سُجِّلت العلاقةُ بـ`related` لا بعلاقة انحدار."
-  - "باربارا بارتة (Barbara Partee)، أهمُّ مطوِّري نحو مونتاغيو ومحاورةً بين الدلالة الصورية والتوليدية، لم تُفرَد بعد كمفكرةٍ مستقلة — ثغرةٌ صادقةٌ تُترك لدفعةٍ لاحقة."
 ---
 
 # الدلالةُ الصوريةُ ونحوُ مونتاغيو

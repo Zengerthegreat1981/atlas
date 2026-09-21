@@ -18,9 +18,9 @@ edges: []
 related:
 - id: "con-diglossia", title: "الازدواجيةُ اللغوية (Diglossia)", type: "مفهوم"
 - id: "sch-variationist-sociolinguistics", title: "اللسانياتُ الاجتماعيةُ المتغيّرية (Labovian Variationist Sociolinguistics)", type: "مدرسة"
+- id: "thk-derek-bickerton", title: "ديريك بيكرتون", type: "مفكر"
 gaps:
   - "لا `belongs_to`: فرعٌ نشأ من ملاحظاتٍ ميدانيةٍ على لغات الاستعمار والتجارة، لا من انحدارٍ نظريٍّ مباشرٍ من مدرسةٍ لسانيةٍ واحدة."
-  - "ديريك بيكرتون (Derek Bickerton)، صاحبُ فرضية «البرنامج الحيوي للغة» (Bioprogram Hypothesis) المؤثِّرة والمثيرة للجدل في نشأة الكريول، لم يُفرَد بعد كمفكرٍ مستقل."
 ---
 
 # التماسُّ اللغويُّ والكريول والبِجن

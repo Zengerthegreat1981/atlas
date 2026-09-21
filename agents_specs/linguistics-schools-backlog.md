@@ -51,7 +51,7 @@
 
 **القسمُ 3 مكتمل.**
 - [x] النحوُ التوليديُّ المعجميُّ الوظيفيّ وHPSG (بدائلُ صوريّة) — `sch-lexical-functional-grammar-hpsg`، `thk-joan-bresnan` (الدفعة 21، مُعمَّقة بالدفعة 32). إيفان ساغ لم يُفرَد بعد.
-- [x] الدلالةُ الصوريةُ ونحوُ مونتاغيو (Formal Semantics) — `sch-formal-semantics-montague-grammar`، `thk-richard-montague` (الدفعة 14). باربارا بارتة لم تُفرَد بعد.
+- [x] الدلالةُ الصوريةُ ونحوُ مونتاغيو (Formal Semantics) — `sch-formal-semantics-montague-grammar`، `thk-richard-montague`، `thk-barbara-partee` (الدفعة 14، مُكتمَلة بالدفعة 34).
 - [x] الصرفُ التوليديُّ والصواتةُ التوليدية (Generative Phonology — SPE، النظريةُ التفاؤلية) — `sch-generative-phonology` (الدفعة 21). برنس وسمولنسكي لم يُفرَدا بعد.
 
 ## 4. الوظيفيةُ والنمطية (Functional & Typological)
@@ -80,7 +80,7 @@
 - [x] إثنوغرافيا التواصل والكفايةُ التواصلية (Hymes — SPEAKING) — موجودةٌ بالفعل تحت `part: anthropology` (`thk-dell-hymes`، `sch-ethnography-of-communication`، أنشأتها جلسةٌ أخرى، الدفعة 50 هناك). لا تُنشئ نظيراً لسانياً — اربط فقط عند الحاجة (سُجِّل 2026-09-21 بعد محاولة إنشاءٍ مكرِّرة اكتُشفت وتراجعنا عنها).
 - [x] الازدواجيةُ اللغويةُ والفصحى والعامّية (Diglossia — Ferguson، والحالةُ العربية) — `thk-charles-ferguson`، `con-diglossia` (الدفعة 12). حيادٌ صريحٌ محفوظ إزاء سياسات اللغة العربية المعاصرة، مطابقةً لتوجيهات المهمّة.
 - [x] اللغةُ والجندر (Lakoff، Tannen، Eckert) — `sch-language-and-gender`، `thk-deborah-tannen`، `thk-robin-lakoff` (الدفعة 19، مُعمَّقة بالدفعة 33). إكرت لم تُفرَد بعد.
-- [x] التماسُّ اللغويُّ والكريول والبِجن (Contact Linguistics) — `sch-contact-linguistics-creole` (الدفعة 19). ديريك بيكرتون لم يُفرَد بعد.
+- [x] التماسُّ اللغويُّ والكريول والبِجن (Contact Linguistics) — `sch-contact-linguistics-creole`، `thk-derek-bickerton` (الدفعة 19، مُكتمَلة بالدفعة 34).
 - [x] السياسةُ اللغويةُ وموتُ اللغات وإحياؤها (Language Policy & Endangerment) — `sch-language-policy-endangerment` (الدفعة 19). حيادٌ صريحٌ محفوظ إزاء سياسات اللغة الوطنية.
 - [x] اللسانياتُ الاستعماريةُ ونقدُها (Linguistic Imperialism — Phillipson، Makoni & Pennycook) — `sch-linguistic-imperialism`، `thk-robert-phillipson` (الدفعة 20). ماكوني وبينيكوك لم يُفرَدا بعد.
 - [x] الأيديولوجياتُ اللغوية (Language Ideology — Silverstein، Irvine) — `sch-language-ideology`، `thk-michael-silverstein` (الدفعة 20). إرڤين لم تُفرَد بعد.
