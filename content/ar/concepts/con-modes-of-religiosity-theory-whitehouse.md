@@ -17,6 +17,7 @@ related:
 - id: "thk-harvey-whitehouse", title: "هارڤي وايتهاوس (Harvey Whitehouse)", type: "مفكر"
 - id: "sch-cognitive-science-of-religion", title: "علمُ الأديان المعرفيّ (Cognitive Science of Religion)", type: "مدرسة"
 - id: "sch-ritual-theory-religious-studies", title: "نظرياتُ الطقس في علم الأديان المقارن: من روبرتسون سميث إلى هوبير وموس", type: "مدرسة"
+- id: "stu-pomio-kivung-fieldwork-whitehouse-1995", title: "العملُ الميدانيُّ التأسيسيُّ لوايتهاوس: طائفةُ Pomio Kivung في بابوا غينيا الجديدة (1995)", type: "دراسة وبحث"
 gaps:
   - "لم تُدرَج بعد ردودُ الفعل النقدية من أنثروبولوجيين آخرين شكّكوا في صرامة الثنائية (عقائديّ/صوريّ) بوصفها مفرطةَ التبسيط لتنوّعٍ طقسيٍّ أوسع بكثير من نمطين فقط؛ فجوةٌ موثَّقة."
 ---
