@@ -58,7 +58,7 @@
 
 - [x] اللسانياتُ الوظيفيةُ المنهجية (Hallidayan SFL) — `sch-systemic-functional-linguistics`، `thk-michael-halliday` (الدفعة 6).
 - [x] النمطيةُ اللغويةُ والكلّياتُ اللغوية (Greenbergian Typology & Word Order Universals) — `sch-linguistic-typology`، `thk-joseph-greenberg`، `con-word-order-universals` (الدفعة 5).
-- [x] النحوُ الوظيفيُّ ونحوُ الدور والمرجع (Dik، Van Valin) — `sch-role-and-reference-grammar`، `thk-robert-van-valin` (الدفعة 22). ديك لم يُفرَد بعد.
+- [x] النحوُ الوظيفيُّ ونحوُ الدور والمرجع (Dik، Van Valin) — `sch-role-and-reference-grammar`، `thk-robert-van-valin`، `thk-simon-dik` (الدفعة 22، مُكتمَلة بالدفعة 33).
 - [x] النحوُ الناشئُ عن الاستعمال (Usage-Based Grammar — Bybee، Tomasello) — `sch-usage-based-grammar`، `thk-joan-bybee` (الدفعة 22).
 
 **القسمُ 4 مكتمل.**
@@ -79,7 +79,7 @@
 - [x] اللسانياتُ الاجتماعيةُ المتغيّرية (Labovian Variationist Sociolinguistics) — `sch-variationist-sociolinguistics`، `thk-william-labov`، `stu-labov-department-store-r` (الدفعة 7).
 - [x] إثنوغرافيا التواصل والكفايةُ التواصلية (Hymes — SPEAKING) — موجودةٌ بالفعل تحت `part: anthropology` (`thk-dell-hymes`، `sch-ethnography-of-communication`، أنشأتها جلسةٌ أخرى، الدفعة 50 هناك). لا تُنشئ نظيراً لسانياً — اربط فقط عند الحاجة (سُجِّل 2026-09-21 بعد محاولة إنشاءٍ مكرِّرة اكتُشفت وتراجعنا عنها).
 - [x] الازدواجيةُ اللغويةُ والفصحى والعامّية (Diglossia — Ferguson، والحالةُ العربية) — `thk-charles-ferguson`، `con-diglossia` (الدفعة 12). حيادٌ صريحٌ محفوظ إزاء سياسات اللغة العربية المعاصرة، مطابقةً لتوجيهات المهمّة.
-- [x] اللغةُ والجندر (Lakoff، Tannen، Eckert) — `sch-language-and-gender`، `thk-deborah-tannen` (الدفعة 19). لايكوف وإكرت لم تُفرَدا بعد.
+- [x] اللغةُ والجندر (Lakoff، Tannen، Eckert) — `sch-language-and-gender`، `thk-deborah-tannen`، `thk-robin-lakoff` (الدفعة 19، مُعمَّقة بالدفعة 33). إكرت لم تُفرَد بعد.
 - [x] التماسُّ اللغويُّ والكريول والبِجن (Contact Linguistics) — `sch-contact-linguistics-creole` (الدفعة 19). ديريك بيكرتون لم يُفرَد بعد.
 - [x] السياسةُ اللغويةُ وموتُ اللغات وإحياؤها (Language Policy & Endangerment) — `sch-language-policy-endangerment` (الدفعة 19). حيادٌ صريحٌ محفوظ إزاء سياسات اللغة الوطنية.
 - [x] اللسانياتُ الاستعماريةُ ونقدُها (Linguistic Imperialism — Phillipson، Makoni & Pennycook) — `sch-linguistic-imperialism`، `thk-robert-phillipson` (الدفعة 20). ماكوني وبينيكوك لم يُفرَدا بعد.

@@ -17,9 +17,9 @@ active_end: "مستمر"
 edges: []
 related:
 - id: "thk-robert-van-valin", title: "روبرت ﭬان ﭬالِن", type: "مفكر"
+- id: "thk-simon-dik", title: "سيمون ديك", type: "مفكر"
 - id: "sch-systemic-functional-linguistics", title: "اللسانياتُ الوظيفيةُ المنهجية (Systemic Functional Linguistics)", type: "مدرسة"
-gaps:
-  - "سيمون ديك، مؤسّسُ النحو الوظيفي الأصلي في هولندا الذي تفرّع منه لاحقاً «النحو الوظيفي الخطابي» (Functional Discourse Grammar)، لم يُفرَد بعد كمفكرٍ مستقل."
+gaps: []
   - "لا `belongs_to`: تيارٌ وظيفيٌّ نشأ بالتوازي مع اللسانيات الوظيفية المنهجية الهاليدايية دون انحدارٍ مباشرٍ منها."
 ---
 
