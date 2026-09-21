@@ -18,6 +18,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-objectivity-debate-carr-elton-novick", target_type: "مدرسة"
 related:
+- id: "con-inus-condition-mackie", title: "شرطُ INUS عند ماكي في السببية التاريخية", type: "مفهوم"
 - id: "sch-cliometrics-quantitative-economic-history", title: "التاريخُ الكمّيُّ والتاريخُ الاقتصاديُّ القياسيّ (Cliometrics)", type: "مدرسة"
 - id: "sch-objectivity-debate-carr-elton-novick", title: "مسألةُ الموضوعيةِ والتفسير (كار وإلتون ونوڤيك)", type: "مدرسة"
 - id: "sch-genocide-denial-limits-of-representation", title: "إنكارُ الإبادةِ وحدودُ التمثيل (فريدلندر ومسألةُ الهولوكوست في التأريخ)", type: "مدرسة"

@@ -18,6 +18,7 @@ edges:
 - rel: "belongs_to", target: "sch-oral-history-modern-method", target_type: "مدرسة"
 related:
 - id: "thk-ann-laura-stoler", title: "آن لورا ستولر", type: "مفكر"
+- id: "con-colonial-common-sense-stoler", title: "الفطنةُ الاستعمارية المشتركة (Colonial Common Sense) عند ستولر", type: "مفهوم"
 - id: "sch-oral-history-modern-method", title: "التاريخُ الشفويُّ ومنهجُه (Oral History الحديث)", type: "مدرسة"
 - id: "sch-foucauldian-archaeology-genealogy-method", title: "الأركيولوجيا والجينالوجيا بوصفهما منهجاً في كتابة تاريخ الحاضر (فوكو)", type: "مدرسة"
 - id: "sch-subaltern-studies-historiographical-critique", title: "الدراساتُ التابعةُ بوصفها نقداً للتأريخ النخبوي (غوها وتشاكرابارتي)", type: "مدرسة"

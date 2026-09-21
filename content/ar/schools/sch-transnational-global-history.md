@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-african-oral-history-traditions", target_type: "مدرسة"
 related:
+- id: "con-connected-history-subrahmanyam", title: "التاريخُ الاتصاليّ (Connected History) عند سوبراهمانيام", type: "مفهوم"
 - id: "sch-womens-feminist-history", title: "تاريخُ النساءِ والتاريخُ النسويّ (جوان سكوت وناتالي ديڤيس)", type: "مدرسة"
 - id: "sch-world-systems-history-longue-duree", title: "تاريخُ نظام العالم بوصفه وحدةَ تحليلٍ تاريخية (والرشتاين وأريغي)", type: "مدرسة"
 - id: "sch-national-historiography-nation-building", title: "التاريخُ الوطنيُّ وصناعةُ الأمّة (القرنُ التاسعَ عشر)", type: "مدرسة"
