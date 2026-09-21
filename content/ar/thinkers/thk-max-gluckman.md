@@ -18,6 +18,7 @@ related:
 - id: "sch-manchester-school", title: "مدرسةُ مانشستر وتحليلُ الموقف (Manchester School)", type: "مدرسة"
 - id: "con-extended-case-method-gluckman", title: "منهجُ الحالة الممتدّة (Extended Case Method)", type: "مفهوم"
 - id: "wrk-custom-conflict-africa-gluckman", title: "العرفُ والصراعُ في أفريقيا (Custom and Conflict in Africa)", type: "عمل / كتاب"
+- id: "wrk-judicial-process-barotse-gluckman", title: "العمليةُ القضائية عند البارتسي (The Judicial Process Among the Barotse)", type: "عمل / كتاب"
 gaps: []
 ---
 # ماكس غلوكمان (Max Gluckman)

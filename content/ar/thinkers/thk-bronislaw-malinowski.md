@@ -19,6 +19,7 @@ related:
 - id: "con-kula-ring", title: "حلقةُ الكولا (Kula Ring)", type: "مفهوم"
 - id: "wrk-argonauts-western-pacific-malinowski", title: "حجّاجُ الغرب الأرغونوتية (Argonauts of the Western Pacific)", type: "عمل / كتاب"
 - id: "wrk-diary-strict-sense-malinowski", title: "يومياتٌ بالمعنى الدقيق للكلمة (A Diary in the Strict Sense of the Term)", type: "عمل / كتاب"
+- id: "wrk-crime-custom-savage-society-malinowski", title: "الجريمةُ والعرفُ في المجتمع المتوحِّش (Crime and Custom in Savage Society)", type: "عمل / كتاب"
 gaps:
   - "لم يُنشأ بعد ملفٌّ مستقلٌّ لـ*حجج الغرب الأرغونوتية* (`wrk-`)؛ سيُضاف في دفعةٍ لاحقة مخصَّصةٍ لأعمال القسم."
 ---
