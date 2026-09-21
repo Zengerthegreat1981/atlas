@@ -26,6 +26,7 @@ related:
 - id: "thk-giambattista-vico", title: "جيامباتيستا ڤيكو", type: "مفكر"
 - id: "thk-oswald-spengler", title: "أوسفالد شبنغلر", type: "مفكر"
 - id: "thk-arnold-toynbee", title: "أرنولد ج. توينبي", type: "مفكر"
+- id: "con-verum-factum-vico", title: "مبدأُ verum-factum عند ڤيكو", type: "مفهوم"
 gaps:
   - "**لا تكرار 2026-09-14:** `thk-hegel` و`wrk-lectures-on-philosophy-of-history-hegel` و`thk-marx` و`sch-historical-materialism-as-method` موجودون بشرحٍ فلسفيٍّ/منهجيٍّ كاملٍ لكلٍّ منهم؛ هذا الملفّ لا يكرّرهم، بل يضعهم في **سياقٍ مقارنٍ واحد** مع مفكّرين آخرين بوصفهم جميعاً ممثّلين لنمطٍ واحد من فلسفة التاريخ (الأنساق التأمّلية الشاملة)، لا لشرح أيٍّ منهم منفرداً من جديد."
   - "**تحديث 2026-09-21:** أُنشئ `thk-giambattista-vico` و`thk-oswald-spengler` (part: historiography). أمّا `thk-arnold-toynbee` فموجودٌ بالفعل تحت `part: sociology` (belongs_to `sch-khaldunian-ilm-al-umran`، بسياق إشادته بابن خلدون)؛ لم يُنشأ نظيرٌ ثانٍ له امتثالاً لقاعدة عدم التكرار، والرابطُ في `related` يشير إلى ذلك الملفّ القائم مباشرة."

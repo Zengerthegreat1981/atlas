@@ -19,6 +19,7 @@ edges:
 - rel: "belongs_to", target: "sch-linguistic-turn-metahistory-white", target_type: "مدرسة"
 related:
 - id: "thk-carlo-ginzburg", title: "كارلو غينزبورغ", type: "مفكر"
+- id: "con-exceptional-normal-ginzburg", title: "الاستثناءُ الدالّ (Exceptional Normal) عند غينزبورغ", type: "مفهوم"
 - id: "sch-annales-third-generation-mentalities", title: "الجيلُ الثالثُ وتاريخُ الذهنيات (لو غوف وديبي وشارتييه)", type: "مدرسة"
 gaps:
   - "لم تُنشأ بعد عقدُ مفكرين مستقلة لكارلو غينزبورغ أو جيوفاني ليڤي؛ يُذكران هنا وصفاً للمنهج دون سيرتين مستقلتين موثَّقتين — سيُفرَدان في دفعةٍ لاحقة."
