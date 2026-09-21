@@ -22,9 +22,10 @@ related:
 - id: "sch-higher-criticism-biblical-studies", title: "النقدُ الأعلى ودراساتُ الكتاب المقدَّس النقدية", type: "مدرسة"
 - id: "con-documentary-hypothesis-wellhausen", title: "الفرضيةُ الوثائقية (JEDP) عند فلهاوزن", type: "مفهوم"
 - id: "con-form-criticism-gunkel", title: "نقدُ الصيغ الأدبية (Form Criticism) عند غونكل", type: "مفهوم"
+- id: "thk-ernst-troeltsch", title: "إرنست تروِلتش (Ernst Troeltsch)", type: "مفكر"
 gaps:
   - "سُدَّت 2026-09-21 (الدفعة 44): منهجُ نقد الصيغ الأدبية فُصِّل الآن في ملفّ مفهومٍ مستقل: `con-form-criticism-gunkel`. لا يزال لا يوجد ملفّ عملٍ مستقل (`wrk-`) لتفسيره *Genesis* (1901) نفسه؛ فجوةٌ للدفعة القادمة."
-  - "علاقتُه المباشرة بفيلهلم بوسيه (Wilhelm Bousset) وإرنست تروِلتش (Ernst Troeltsch) — زميلَيه المؤسِّسَين في المدرسة نفسها — لم تُفصَّل بملفَّين مستقلَّين بعد؛ مذكوران في متن ملفّ المدرسة."
+  - "سُدَّت جزئياً 2026-09-21 (الدفعة 49): علاقتُه بإرنست تروِلتش (Ernst Troeltsch) فُصِّلت الآن بملفٍّ مستقل (`thk-ernst-troeltsch`). لا يزال لا يوجد ملفّ مستقل لفيلهلم بوسيه (Wilhelm Bousset)؛ مذكورٌ في متن ملفّ المدرسة فقط."
 ---
 
 # هرمان غونكل (Hermann Gunkel)
