@@ -19,6 +19,8 @@ edges:
 related:
 - id: "sch-systemic-functional-linguistics", title: "اللسانياتُ الوظيفيةُ المنهجية (Systemic Functional Linguistics)", type: "مدرسة"
 - id: "thk-teun-van-dijk", title: "تون فان دايك", type: "مفكر"
+- id: "thk-deborah-schiffrin", title: "ديبورا شفرين", type: "مفكر"
+- id: "con-discourse-markers", title: "علاماتُ الخطاب (Discourse Markers)", type: "مفهوم"
 gaps: []
 ---
 
