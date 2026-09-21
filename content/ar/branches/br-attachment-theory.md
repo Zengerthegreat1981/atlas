@@ -25,7 +25,9 @@ related:
 - id: "con-attachment-styles", title: "أساليب التعلق (Attachment Styles)", type: "مفهوم"
 - id: "con-mentalization", title: "الانعكاس الذهني (Mentalization)", type: "مفهوم"
 - id: "con-secure-attachment", title: "التعلق الآمن (Secure Attachment)", type: "مفهوم"
+- id: "sch-attachment-theory-of-religion", title: "نظريةُ التعلّق والدين (Attachment Theory & Religion, Kirkpatrick)", type: "مدرسة"
 gaps:
+  - "أُضيف رابطٌ إلى `sch-attachment-theory-of-religion` (علمُ الأديان المقارن، الدفعة 20) الذي يطبّق هذه النظرية على العلاقة بالإله عند لي كيركباتريك، دون تكرار المحتوى هنا."
   - "رابط مقترح لم يتحقق بعد في الأطلس: هاري هارلو (thk-harlow)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: التعلق (con-attachment)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: النموذج الداخلي للعمل (con-internal-working-model)"
