@@ -21,7 +21,9 @@ related:
 - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
 - id: "con-retributivism-vs-consequentialism-punishment", title: "الاستحقاقيةُ مقابل النتائجية في العقاب (Retributivism vs. Consequentialism)", type: "مفهوم"
 - id: "br-restorative-justice", title: "العدالة التصالحية", type: "تيار"
+- id: "thk-andrew-von-hirsch", title: "أندرو فون هيرش (Andrew von Hirsch)", type: "مفكر"
 gaps:
+  - "**سُدَّ 2026-09-22**: أُضيف `thk-andrew-von-hirsch` (نظريةُ الاستحقاق العادل ومعياريةُ التناسب في العقوبة)."
   - "هذا الملفُّ أُنشئ في الدفعة 15 من مهمة بناء قسم نظرية القانون (القسم 6 من `legal-theory-schools-backlog.md`)."
   - "**اربط ولا تكرّر**: `br-restorative-justice` (فلسفة) موجودٌ ويعالج نموذجَ الإصلاح/التصالح بتفصيلٍ كافٍ؛ لم يُنشأ ملفٌّ مواز، بل اكتُفي بالربط والتأطير النظري العام هنا."
   - "نظريةُ هارت «المختلطة» (Mixed Theory، في *Punishment and Responsibility*, 1968: الغايةُ العامةُ المبرِّرةُ للعقاب نتائجيةٌ/ردعية، لكنّ توزيعَه على الأفراد يجب أن يكون استحقاقياً) لم تُفصَّل في عقدةٍ مستقلة؛ أُشير إليها هنا إجمالاً."

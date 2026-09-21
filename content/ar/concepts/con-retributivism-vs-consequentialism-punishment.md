@@ -17,7 +17,9 @@ related:
 - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
 - id: "sch-philosophy-of-punishment", title: "فلسفةُ العقاب: الردعُ والاستحقاقُ والإصلاح (Philosophy of Punishment)", type: "مدرسة"
 - id: "wrk-punishment-and-responsibility-hart", title: "العقابُ والمسؤولية (Punishment and Responsibility)", type: "عمل / كتاب"
+- id: "thk-andrew-von-hirsch", title: "أندرو فون هيرش (Andrew von Hirsch)", type: "مفكر"
 gaps:
+  - "**سُدَّ 2026-09-22**: أُنشئ `thk-andrew-von-hirsch` (نظريةُ الاستحقاق العادل موثَّقةٌ الآن بملفٍّ مستقل)."
   - "**سُدَّ 2026-09-21**: أُضيفت `wrk-punishment-and-responsibility-hart` (الآن موثَّقةٌ بملفٍّ مستقل)."
   - "محاولاتُ التوفيق اللاحقة (نظريةُ هارت المختلطة، ونظريةُ von Hirsch في «الاستحقاق العادل» Just Deserts، 1976) عُرضت إجمالاً في ملف المدرسة الأمّ ولم تُفرَد هنا بتفصيل."
 ---
