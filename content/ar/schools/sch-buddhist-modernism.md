@@ -22,8 +22,9 @@ related:
 - id: "sch-engaged-buddhism", title: "البوذية المنخرطة اجتماعياً", type: "مدرسة"
 - id: "sch-navayana", title: "بوذية نافايانا (البوذية الجديدة الهندية)", type: "مدرسة"
 - id: "sch-navya-nyaya", title: "نيايا الجديدة (نافيا-نيايا)", type: "مدرسة"
+- id: "thk-t-w-rhys-davids", title: "توماس ويليام رايس ديفيدز (T. W. Rhys Davids)", type: "مفكر"
 gaps:
-  - "نصوص Henry Steel Olcott (Buddhist Catechism)، Dharmapala، T.W. Rhys Davids، D.T. Suzuki تحتاج مراجعة من المصدر الأولي."
+  - "نصوص Henry Steel Olcott (Buddhist Catechism)، Dharmapala، D.T. Suzuki تحتاج مراجعة من المصدر الأولي؛ T.W. Rhys Davids صار له الآن ملفٌّ مستقل تحت `religious-studies` (`thk-t-w-rhys-davids`)."
   - "العلاقة بين Buddhist Modernism والـProtestantism تستحق بحثاً نقدياً."
 ---
 
