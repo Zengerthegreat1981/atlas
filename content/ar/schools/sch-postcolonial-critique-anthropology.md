@@ -24,6 +24,7 @@ related:
 - id: "sch-subaltern-studies-guha-spivak", title: "دراسات التابع والتأريخ السوسيولوجي من أسفل", type: "مدرسة"
 - id: "sch-arab-anthropology-colonial-critique", title: "الأنثروبولوجيا العربيةُ ونقدُ الإثنوغرافيا الاستعمارية (Abu-Lughod, Hammoudi, al-Jabiri)", type: "مدرسة"
 - id: "sch-latin-american-indigenous-anthropology", title: "الأنثروبولوجيا اللاتينية والسكانُ الأصليون (Indigenous & Latin American Anthropology)", type: "مدرسة"
+- id: "thk-james-ferguson", title: "جيمس فيرغسون (James Ferguson)", type: "مفكر"
 gaps:
   - "أنشئ الملفُّ في الدفعة 6 من تأسيس قسم الأنثروبولوجيا. جيمس كليفورد وجورج ماركوس (Writing Culture) لم يُكتبا بعد كملفّين مستقلّين — سيُضافان في دفعةٍ لاحقة لإكمال حزمة القسم 6 (أزمة التمثيل)."
 ---

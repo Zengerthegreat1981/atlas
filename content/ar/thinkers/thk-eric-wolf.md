@@ -18,6 +18,7 @@ related:
 - id: "sch-anthropological-political-economy", title: "الاقتصادُ السياسيُّ العالميُّ والتاريخ (Eric Wolf — Europe and the People Without History)", type: "مدرسة"
 - id: "wrk-europe-people-without-history-wolf", title: "أوروبا والشعوبُ بلا تاريخ (Europe and the People Without History)", type: "عمل / كتاب"
 - id: "wrk-peasant-wars-twentieth-century-wolf", title: "حروبُ الفلاحين في القرن العشرين (Peasant Wars of the Twentieth Century)", type: "عمل / كتاب"
+- id: "thk-michael-taussig", title: "مايكل تاوسيغ (Michael Taussig)", type: "مفكر"
 gaps: []
 ---
 # إريك وولف (Eric Wolf)
