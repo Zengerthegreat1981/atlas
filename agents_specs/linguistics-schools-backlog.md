@@ -88,12 +88,12 @@
 
 ## 8. العقلُ والدماغُ واللغة (Psycho- & Neurolinguistics)
 
-- [ ] علمُ اللغة النفسيُّ ومعالجةُ الجملة (Sentence Processing)
+- [x] علمُ اللغة النفسيُّ ومعالجةُ الجملة (Sentence Processing) — `sch-sentence-processing-psycholinguistics`، `thk-lyn-frazier` (الدفعة 18).
 - [x] اكتسابُ اللغة الأولى ومراحلُه (First Language Acquisition) — `sch-first-language-acquisition`، `thk-eric-lenneberg`، `con-critical-period-hypothesis`، `dbt-innateness-vs-usage-based-language-acquisition` (الدفعة 10). حيادٌ صريحٌ محفوظ إزاء جدل الفطرية، ومسألةُ بيراها مسجَّلةٌ كفجوة.
-- [ ] اكتسابُ اللغة الثانيةُ والفترةُ الحرجة (SLA & Critical Period)
+- [x] اكتسابُ اللغة الثانيةُ والفترةُ الحرجة (SLA & Critical Period) — `sch-second-language-acquisition`، `thk-stephen-krashen` (الدفعة 18). حيادٌ صريحٌ إزاء انطباق فرضية الفترة الحرجة على اللغة الثانية.
 - [x] علمُ اللغة العصبيُّ ومناطقُ اللغة (Broca، Wernicke، النموذجُ المعاصر) — `sch-classical-neurolinguistics`، `thk-paul-broca`، `con-broca-wernicke-lichtheim-model` (الدفعة 11). **جسرٌ منجَز**: `syn-wernicke-aphasia` و`syn-broca-aphasia` (psychology) رُبطا بـ`related` دون تعديل وسمهما، وخرجا بذلك من العزلة.
 - [ ] الحُبسةُ واضطراباتُ اللغة (Aphasiology) — **جسرٌ إلى الاضطرابات في الأطلس**
-- [ ] ثنائيةُ اللغة والدماغ (Bilingualism & Cognitive Control)
+- [x] ثنائيةُ اللغة والدماغ (Bilingualism & Cognitive Control) — `sch-bilingualism-cognitive-control`، `thk-ellen-bialystok` (الدفعة 18).
 - [~] لغةُ الإشارة بوصفها لغةً طبيعية (Sign Language Linguistics) — `sch-sign-language-linguistics` (الدفعة 13)، مربوطةٌ بجسر علم اللغة العصبي. يتبقّى: وليام ستوكو كمفكرٍ مستقل.
 - [ ] أصلُ اللغة وتطوّرها (Language Evolution — Hauser/Chomsky/Fitch، Tomasello)
 
