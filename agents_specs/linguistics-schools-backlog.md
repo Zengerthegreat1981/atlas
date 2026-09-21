@@ -74,17 +74,21 @@
 - [x] اللغةُ والجندر (Lakoff، Tannen، Eckert) — `sch-language-and-gender`، `thk-deborah-tannen` (الدفعة 19). لايكوف وإكرت لم تُفرَدا بعد.
 - [x] التماسُّ اللغويُّ والكريول والبِجن (Contact Linguistics) — `sch-contact-linguistics-creole` (الدفعة 19). ديريك بيكرتون لم يُفرَد بعد.
 - [x] السياسةُ اللغويةُ وموتُ اللغات وإحياؤها (Language Policy & Endangerment) — `sch-language-policy-endangerment` (الدفعة 19). حيادٌ صريحٌ محفوظ إزاء سياسات اللغة الوطنية.
-- [ ] اللسانياتُ الاستعماريةُ ونقدُها (Linguistic Imperialism — Phillipson، Makoni & Pennycook)
-- [ ] الأيديولوجياتُ اللغوية (Language Ideology — Silverstein، Irvine)
+- [x] اللسانياتُ الاستعماريةُ ونقدُها (Linguistic Imperialism — Phillipson، Makoni & Pennycook) — `sch-linguistic-imperialism`، `thk-robert-phillipson` (الدفعة 20). ماكوني وبينيكوك لم يُفرَدا بعد.
+- [x] الأيديولوجياتُ اللغوية (Language Ideology — Silverstein، Irvine) — `sch-language-ideology`، `thk-michael-silverstein` (الدفعة 20). إرڤين لم تُفرَد بعد.
+
+**القسمُ 6 مكتمل.**
 
 ## 7. الخطابُ والتداولية (Discourse & Pragmatics)
 
 - [x] التداوليةُ ومبدأُ التعاون (Gricean Pragmatics) — `sch-gricean-pragmatics`، `con-conversational-implicature` (الدفعة 14). ربطٌ بـ`thk-pgrice` (philosophy) دون تكرار، تطابقاً مع نمط `sch-relevance-theory`.
 - [x] نظريةُ الملاءمة (Relevance Theory — Sperber & Wilson) — `sch-relevance-theory`، `thk-dan-sperber`، `thk-deirdre-wilson` (الدفعة 9). مربوطةٌ نقدياً بـ`thk-pgrice` (philosophy) دون تكراره.
-- [ ] تحليلُ المحادثة (Conversation Analysis — Sacks، Schegloff) — **`thk-hsacks` موجودٌ ومعزول**
+- [x] تحليلُ المحادثة (Conversation Analysis — Sacks، Schegloff) — `thk-hsacks` و`sch-conversation-analysis` موجودان بالفعل تحت `part: sociology` (وليسا معزولَين: hsacks مربوطٌ بـ`belongs_to` إلى المدرسة). لا تُنشئ نظيراً لسانياً؛ اربط عند الحاجة (سُجِّل 2026-09-21).
 - [~] تحليلُ الخطاب النقديّ (CDA — Fairclough، van Dijk، Wodak) — `thk-norman-fairclough`، `thk-teun-van-dijk` (الدفعة 13). لا مدرسةَ `sch-` مستقلة: البنيةُ المؤسسية لـCDA موجودةٌ بالفعل تحت `sociology` (`ins-critical-discourse-analysis-fairclough`، `dbt-conversation-analysis-vs-critical-discourse-analysis`)؛ رُبط إليها دون تكرار. رود فوداك لم تُفرَد بعد.
-- [ ] لسانياتُ النصِّ وتماسكُه (Text Linguistics — de Beaugrande، Halliday & Hasan)
-- [ ] نظريةُ التأدّب ووجهُ المتكلّم (Politeness Theory — Brown & Levinson)
+- [x] لسانياتُ النصِّ وتماسكُه (Text Linguistics — de Beaugrande، Halliday & Hasan) — `sch-text-linguistics` (الدفعة 20).
+- [x] نظريةُ التأدّب ووجهُ المتكلّم (Politeness Theory — Brown & Levinson) — `sch-politeness-theory` (الدفعة 20).
+
+**القسمُ 7 مكتمل (يبقى تحليلُ المحادثة مربوطاً بـthk-hsacks الموجود دون تكرار).**
 
 ## 8. العقلُ والدماغُ واللغة (Psycho- & Neurolinguistics)
 
