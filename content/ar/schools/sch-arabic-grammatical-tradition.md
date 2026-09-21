@@ -22,6 +22,7 @@ related:
 - id: "thk-al-jurjani", title: "عبد القاهر الجرجاني", type: "مفكر"
 - id: "wrk-al-kitab-sibawayh", title: "الكتاب", type: "عمل / كتاب"
 - id: "con-nazm-theory-jurjani", title: "نظرية النظم عند الجرجاني (Nazm Theory)", type: "مفهوم"
+- id: "con-broken-plural-arabic-morphology", title: "جمعُ التكسير في الصرف العربي (Arabic Broken Plural)", type: "مفهوم"
 gaps:
   - "هذه عقدةُ مدرسةٍ جذريةٌ لقسم علم اللغة (لا `belongs_to`، بدايةُ شجرة التقليد العربي)."
   - "المدرستان البصرية والكوفية (الخلاف حول القياس والسماع) لم تُفرَدا بعدُ بملفَّي `br-` مستقلَّين — يُترك ذلك لدفعةٍ لاحقة."
