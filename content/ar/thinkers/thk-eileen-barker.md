@@ -20,6 +20,7 @@ related:
 - id: "sch-new-religious-movements-cult-debate", title: "دراسةُ الحركات الدينية الجديدة وجدلُ «الطائفة»", type: "مدرسة"
 - id: "con-brainwashing-conversion-debate", title: "جدلُ «غسيل الدماغ» مقابل التحوّل الطوعي في الحركات الدينية الجديدة", type: "مفهوم"
 - id: "thk-david-bromley", title: "ديفيد برومّلي", type: "مفكر"
+- id: "thk-james-beckford", title: "جيمس بكفورد", type: "مفكر"
 gaps:
   - "تأسيسها منظمة INFORM (Information Network Focus on Religious Movements) سنة 1988 بدعمٍ من الكنيسة الأنجليكانية والحكومة البريطانية موثَّقٌ إجمالاً؛ تفاصيل تمويلها ونشاطها المؤسّسي الحالي تحتاج مصدراً محدَّثاً أحدث وقت الكتابة."
 ---
