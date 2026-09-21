@@ -23,6 +23,7 @@ related:
 - id: "dbt-reductionism-vs-non-reductionism-religious-studies", title: "الجدلُ بين المقاربة الاختزالية وغير الاختزالية في دراسة الدين", type: "جدل"
 - id: "wrk-imagining-religion-smith", title: "تخيّلُ الدين: من بابل إلى جونزتاون", type: "عمل / كتاب"
 - id: "dbt-comparativism-vs-contextualism-eliade-smith", title: "الجدلُ بين المقارَنة الشاملة والسياقية: إلياده وسميث ومنهج المقارنة الدينية", type: "جدل"
+- id: "thk-wilfred-cantwell-smith", title: "وليام كانتويل سميث (Wilfred Cantwell Smith)", type: "مفكر"
 gaps:
   - "سُدَّت 2026-09-21 (الدفعة 41): أُضيف ملفّ عملٍ مستقل (`wrk-imagining-religion-smith`) لكتابه *Imagining Religion: From Babylon to Jonestown* (1982)، وفُصِّل نقدُه لمنهج إلياده في ملفّ جدلٍ مستقل (`dbt-comparativism-vs-contextualism-eliade-smith`) بدل الإشارة الإجمالية السابقة."
 ---
