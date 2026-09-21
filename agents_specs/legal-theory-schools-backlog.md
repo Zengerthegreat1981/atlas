@@ -35,7 +35,7 @@
 - [x] الدراساتُ القانونيةُ النقدية (CLS — كنيدي، أنغر، لاإحداثيةُ القانون) — الدفعةُ 10: `sch-critical-legal-studies`، `thk-duncan-kennedy`، `thk-roberto-unger`، `con-legal-indeterminacy-cls`
 - [x] النظريةُ العنصريةُ النقدية (CRT — بِل، كرِنشو، **والتقاطعية**) — الدفعةُ 11: `sch-critical-race-theory-law`، `thk-derrick-bell`، `con-interest-convergence-bell`؛ ربط بـ`thk-crenshaw` القائم (فلسفة) دون استنساخ
 - [x] الفقهُ القانونيُّ النسويُّ (ماكينون، ويست، غيليغان في القانون) — **جسرٌ إلى علم النفس** — الدفعةُ 18: `sch-feminist-jurisprudence`، `thk-robin-west`، `con-jurisprudence-and-gender-west`؛ ربط بـ`thk-mackinnon` و`thk-gilligan` القائمَين دون استنساخ
-- [ ] القانونُ ما بعدَ الاستعماريُّ والقانونُ المقارَن النقديّ
+- [x] القانونُ ما بعدَ الاستعماريُّ والقانونُ المقارَن النقديّ — الدفعةُ 20: `sch-twail-postcolonial-international-law`، `thk-antony-anghie`، `con-sovereignty-colonial-encounter-anghie`
 
 ## 5. القانونُ والاقتصادُ والمجتمع
 - [x] التحليلُ الاقتصاديُّ للقانون (كوز، بوزنر، كالابريزي) — **تقاطعٌ مع الاقتصاد السياسيّ** — الدفعةُ 13: `sch-law-and-economics`، `thk-ronald-coase`، `thk-richard-posner-law-economics` (تنبيهٌ صريح لعدم الخلط بـ`thk-posner` القائم)، `con-coase-theorem`؛ كالابريزي لم يُكتب له ملفٌّ مستقل بعد
