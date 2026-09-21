@@ -18,6 +18,7 @@ edges:
 - rel: "evolved_from", target: "sch-american-structural-linguistics", target_type: "مدرسة"
 related:
 - id: "sch-american-structural-linguistics", title: "البنيويةُ الأمريكيةُ والتوزيعية (American Structural Linguistics)", type: "مدرسة"
+- id: "thk-zellig-harris", title: "زيليغ هاريس", type: "مفكر"
 - id: "thk-noam-chomsky", title: "نعوم تشومسكي", type: "مفكر"
 - id: "wrk-syntactic-structures", title: "البنى النحوية (Syntactic Structures)", type: "عمل / كتاب"
 - id: "con-deep-surface-structure", title: "البنيةُ العميقة والبنيةُ السطحية", type: "مفهوم"
