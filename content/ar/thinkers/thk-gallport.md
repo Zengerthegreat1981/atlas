@@ -19,7 +19,9 @@ related:
 - id: "thk-maslow", title: "أبراهام ماسلو", type: "مفكر"
 - id: "thk-csikszentmihalyi", title: "ميهاي تشيكسنتميهاي", type: "مفكر"
 - id: "wrk-allport-personality-1937", title: "الشخصية: تفسير نفسي (Personality: A Psychological Interpretation)", type: "عمل / كتاب"
+- id: "ins-religious-orientation-scale-allport-ross", title: "مقياسُ التوجّه الدينيّ (Religious Orientation Scale, Allport & Ross)", type: "أداة قياس"
 gaps:
+  - "أُضيف رابطٌ إلى `ins-religious-orientation-scale-allport-ross` (علمُ الأديان المقارن، الدفعة 27) الذي يوثّق مقياسه للتوجّه الدينيّ الداخليّ/الخارجيّ (مع ج. م. روس، 1967)، دون تكرار سيرته الكاملة هنا."
   - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "تفصيل نظرية السمات (Traits) لم يُراجَع بعد."
   - "لا يوجد اقتباس مباشر موثوق من *The Nature of Prejudice* (1954) بترجمة عربية معتمدة."

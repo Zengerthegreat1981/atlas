@@ -54,7 +54,7 @@
 - [x] مسألةُ «الدين» بوصفه مقولةً قابلةً للتعريف أصلاً (Smith — *Imagining Religion*) — `dbt-defining-religion-as-analytic-category` (DBT-2201) + `thk-jonathan-z-smith` (THK-8018) جديدان، يربطان بـ`dbt-reductionism-vs-non-reductionism-religious-studies` و`thk-talal-asad` الموجودين مسبقاً؛ وليام كانتويل سميث تُرك فجوةً موثَّقة، الدفعة 25
 - [x] الداخلُ والخارجُ: Emic/Etic في دراسة الدين — `con-emic-etic-study-of-religion`، يربط بجدل الاختزال أعلاه، الدفعة 10
 - [x] الإثنوغرافيا الدينيةُ والعملُ الميدانيّ — `sch-ethnography-of-religion-fieldwork` (SCH-6815) + `thk-robert-orsi` (THK-8019) جديدان، يربطان بـ`thk-bronislaw-malinowski`/`thk-evans-pritchard` الموجودين مسبقاً تحت anthropology دون تكرار، مع روابطَ عكسية في الاثنين؛ دايفد هول تُرك فجوةً موثَّقة، الدفعة 26
-- [ ] المسوحُ الكمّيةُ للتديُّن ومقاييسُه — **جسرٌ إلى أدوات القياس**
+- [x] المسوحُ الكمّيةُ للتديُّن ومقاييسُه — **جسرٌ إلى أدوات القياس** — `ins-religious-orientation-scale-allport-ross` (INS-0345) جديدة، تربط بـ`thk-gallport` الموجود مسبقاً تحت psychology (لم يكن مقياسُه مذكوراً في ملفّه) مع رابطٍ عكسي؛ المسوح الاجتماعية الكبرى (WVS، Pew) تُركت فجوةً موثَّقة؛ **القسم 7 مكتملٌ بالكامل الآن (5/5)**، الدفعة 27
 
 ---
 **الإجمال: 36 بنداً.**
