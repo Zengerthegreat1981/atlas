@@ -28,6 +28,8 @@ related:
 - id: "thk-polkinghorne", title: "دونالد بولكينغهورن", type: "مفكر"
 - id: "thk-viderman", title: "سيرج فيدرمان", type: "مفكر"
 - id: "sch-religious-hermeneutics-sacred-text", title: "الهرمنيوطيقا الدينيةُ وتأويلُ النصّ المقدَّس (شلايرماخر، غادامير، ريكور)", type: "مدرسة"
+- id: "con-hermeneutics-suspicion-recollection-ricoeur", title: "هرمنيوطيقا الشكّ وهرمنيوطيقا الاسترداد عند ريكور", type: "مفهوم"
+- id: "wrk-symbolique-du-mal-ricoeur", title: "رمزيةُ الشرّ", type: "عمل / كتاب"
 gaps:
   - "أُضيف رابطٌ إلى `sch-religious-hermeneutics-sacred-text` (علمُ الأديان المقارن، الدفعة 21) الذي يُبرز تمييزه بين هرمنيوطيقا الشكّ وهرمنيوطيقا الاسترداد مطبَّقاً على الرمز الديني تحديداً دون تكرار سيرته هنا."
   - "**وُحِّد حقل `part` 2026-09-08:** كان «psychology» وصار «philosophy» اتّساقاً مع أشقّائه تحت `sch-hermeneutics` (وأغلبيتُهم «philosophy» وهو قسمُ الأب نفسِه). والحقلُ تنظيميٌّ لا يُعرَض للقارئ، والتصحيحُ لتعارضٍ داخليٍّ في المجموعة."
