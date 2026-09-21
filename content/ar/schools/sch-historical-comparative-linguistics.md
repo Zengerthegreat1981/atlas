@@ -18,10 +18,12 @@ edges: []
 related:
 - id: "thk-william-jones", title: "وليم جونز", type: "مفكر"
 - id: "con-grimms-law", title: "قانونُ غريم", type: "مفهوم"
+- id: "thk-jacob-grimm", title: "ياكوب غريم", type: "مفكر"
+- id: "con-comparative-reconstruction-method", title: "منهجُ إعادة البناء المقارن (Comparative Reconstruction)", type: "مفهوم"
+- id: "thk-elizabeth-traugott", title: "إليزابيث ترواغوت", type: "مفكر"
+- id: "con-grammaticalization", title: "النحويةُ (Grammaticalization)", type: "مفهوم"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`) — سبقت البنيويةَ السوسيرية زمنياً بنحو قرن، وليست فرعاً منها."
-  - "ياكوب غريم نفسُه (صاحبُ القانون الصوتي) لم يُفرَد بعدُ بملفِّ مفكرٍ مستقل — تسجيلٌ للفجوة؛ اكتُفي هنا بتوثيق قانونه في ملفِّ `con-` مستقل."
-  - "منهجُ إعادة البناء الداخلي والمقارن لأصل اللغة الهندوأوروبية الافتراضي (Proto-Indo-European) لم يُفرَد بملفِّ مفهومٍ مستقل بعد."
 ---
 
 # اللسانياتُ التاريخيةُ والمقارنة
