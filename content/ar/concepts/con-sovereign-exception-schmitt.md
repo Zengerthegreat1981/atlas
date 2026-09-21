@@ -16,6 +16,7 @@ related:
 - id: "wrk-political-theology-schmitt", title: "اللاهوتُ السياسي (Politische Theologie)", type: "عمل / كتاب"
 - id: "con-state-of-exception-agamben", title: "حالة الاستثناء والسيادة (State of Exception)", type: "مفهوم"
 - id: "con-grundnorm-basic-norm-kelsen", title: "القاعدةُ الأساسية (Grundnorm)", type: "مفهوم"
+- id: "con-friend-enemy-distinction-schmitt", title: "تمييزُ الصديق والعدوّ (The Friend-Enemy Distinction)", type: "مفهوم"
 gaps:
   - "`belongs_to` تُرك فارغاً لنفس سبب `thk-carl-schmitt`: لا جذعَ مخصَّصاً لنظرية السيادة بعد."
   - "لم يُفصَّل هنا موقفُ شميت اللاحق (بعد 1933) في تبرير القرارات النازية، ولا الفرقُ بين شميتَ المبكر (1922، موضوعُ هذا الملف) وشميتَ في مرحلته النازية؛ يحتاج تناولاً تاريخياً منفصلاً وحذراً."
