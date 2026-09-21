@@ -19,6 +19,7 @@ edges:
 - rel: "belongs_to", target: "sch-microstoria-italian-micro-history", target_type: "مدرسة"
 related:
 - id: "thk-pierre-nora", title: "پيير نورا", type: "مفكر"
+- id: "con-lieu-de-memoire-nora", title: "موضعُ الذاكرة (Lieu de Mémoire) عند نورا", type: "مفهوم"
 - id: "thk-maurice-halbwachs", title: "موريس هالبڤاكس", type: "مفكر"
 - id: "sch-microstoria-italian-micro-history", title: "التاريخُ الجزئيُّ والمصغَّر (Microstoria — غينزبورغ وليڤي)", type: "مدرسة"
 - id: "rel-collective-memory-historical-trauma", title: "الذاكرةُ الجمعيةُ والصدمةُ التاريخية: جسرٌ بين التأريخ وعلم النفس", type: "علاقة بين مدرستين"

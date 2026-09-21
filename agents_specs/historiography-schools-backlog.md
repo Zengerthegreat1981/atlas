@@ -114,6 +114,22 @@
 
 كلُّ الحالات اكُتُشفت بفحصٍ استباقيّ (`find content/ar/thinkers -iname "*اسم*"`) قبل الكتابة، تطبيقاً لقاعدة «لا تخترع نظيراً ثانياً» في مستودعٍ يعمل عليه عدّةُ جلساتٍ بالتوازي.
 
-**الفجوةُ الوحيدة المتبقية من القائمة الأصلية**: صالح أحمد العلي (مؤرّخٌ عراقيّ)، لغياب مصدرين موثَّقين كافيين.
+**فجوةُ صالح أحمد العلي سُدَّت 22 سبتمبر 2026** عبر `thk-salih-ahmad-al-ali`، بعد بحثٍ ويب مباشر تحقّق من مصدرين حقيقيين (ويكيبيديا العربية، ومصادر سيرية عن جائزة الملك فيصل العالمية 1989) — **بهذا اكتملت قائمة الفجوة الأصلية بالكامل دون استثناء**.
 
-**الإجمالي التراكمي النهائي لقسم historiography: 71 عقدة حيّة** (39 `sch-` + 30 `thk-` + 2 `rel-` جسر). انظر `HISTORIOGRAPHY_CLOSEOUT_ADDENDUM_2026-09-21.md` للتفاصيل الكاملة.
+## ١٠. عقد مفاهيم مستقلة (سلسلةٌ جديدة، 22 سبتمبر 2026)
+
+بعد اكتمال عقد المفكرين، بدأت سلسلةٌ لإفراد المفاهيم المنهجية البارزة — المشروحة نصياً بالفعل داخل ملفات المدارس والمفكرين — في عقد `con-` مستقلة قابلة للاستشهاد والربط المباشر من عقدٍ أخرى:
+
+| الملفّ | المدرسة/المفكر المرتبط |
+|---|---|
+| `con-longue-duree-braudel` | `sch-braudel-longue-duree` |
+| `con-covering-law-model-hempel` | `sch-critical-philosophy-of-history` |
+| `con-emplotment-white` | `sch-linguistic-turn-metahistory-white` |
+| `con-verum-factum-vico` | `sch-speculative-philosophy-of-history` |
+| `con-sattelzeit-koselleck` | `sch-conceptual-history-koselleck` |
+| `con-exceptional-normal-ginzburg` | `sch-microstoria-italian-micro-history` |
+| `con-lieu-de-memoire-nora` | `sch-memory-history-nora-halbwachs` |
+| `con-rational-explanation-dray` | `sch-critical-philosophy-of-history` |
+| `con-provincializing-europe-chakrabarty` | `sch-subaltern-studies-historiographical-critique` |
+
+**الإجمالي التراكمي النهائي لقسم historiography: 81 عقدة حيّة** (39 `sch-` + 31 `thk-` + 9 `con-` + 2 `rel-` جسر). انظر `HISTORIOGRAPHY_CLOSEOUT_ADDENDUM_2026-09-21.md` للتفاصيل الكاملة.

@@ -21,6 +21,7 @@ related:
 - id: "thk-ranajit-guha", title: "رانجيت غوها", type: "مفكر"
 - id: "thk-dipesh-chakrabarty", title: "ديبيش تشاكرابارتي", type: "مفكر"
 - id: "thk-spivak", title: "غاياتري سبيفاك", type: "مفكر"
+- id: "con-provincializing-europe-chakrabarty", title: "تجهيلُ أوروبا (Provincializing Europe) عند تشاكرابارتي", type: "مفهوم"
 - id: "sch-subaltern-studies-guha-spivak", title: "دراسات التابع والتأريخ السوسيولوجي من أسفل", type: "مدرسة"
 - id: "sch-arab-modern-historiography-orientalism-critique", title: "التاريخُ العربيُّ الحديثُ ونقدُ الاستشراق (العروي والجابري)", type: "مدرسة"
 gaps:

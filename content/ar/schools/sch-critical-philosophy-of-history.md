@@ -23,6 +23,7 @@ related:
 - id: "thk-carl-hempel", title: "كارل همبل", type: "مفكر"
 - id: "thk-william-dray", title: "ويليام دراي", type: "مفكر"
 - id: "con-covering-law-model-hempel", title: "نموذجُ التغطية القانونية (Covering Law Model)", type: "مفهوم"
+- id: "con-rational-explanation-dray", title: "التفسيرُ العقلانيّ (Rational Explanation) عند دراي", type: "مفهوم"
 - id: "sch-speculative-philosophy-of-history", title: "فلسفةُ التاريخ التأمّلية (ڤيكو وهيغل وماركس وتوينبي وشبنغلر)", type: "مدرسة"
 - id: "sch-objectivity-debate-carr-elton-novick", title: "مسألةُ الموضوعيةِ والتفسير (كار وإلتون ونوڤيك)", type: "مدرسة"
 gaps:
