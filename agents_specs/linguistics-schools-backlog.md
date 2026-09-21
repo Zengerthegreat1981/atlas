@@ -83,7 +83,7 @@
 - [x] التماسُّ اللغويُّ والكريول والبِجن (Contact Linguistics) — `sch-contact-linguistics-creole`، `thk-derek-bickerton` (الدفعة 19، مُكتمَلة بالدفعة 34).
 - [x] السياسةُ اللغويةُ وموتُ اللغات وإحياؤها (Language Policy & Endangerment) — `sch-language-policy-endangerment` (الدفعة 19). حيادٌ صريحٌ محفوظ إزاء سياسات اللغة الوطنية.
 - [x] اللسانياتُ الاستعماريةُ ونقدُها (Linguistic Imperialism — Phillipson، Makoni & Pennycook) — `sch-linguistic-imperialism`، `thk-robert-phillipson` (الدفعة 20). ماكوني وبينيكوك لم يُفرَدا بعد.
-- [x] الأيديولوجياتُ اللغوية (Language Ideology — Silverstein، Irvine) — `sch-language-ideology`، `thk-michael-silverstein` (الدفعة 20). إرڤين لم تُفرَد بعد.
+- [x] الأيديولوجياتُ اللغوية (Language Ideology — Silverstein، Irvine) — `sch-language-ideology`، `thk-michael-silverstein`، `thk-judith-irvine` (الدفعة 20، مُكتمَلة بالدفعة 36).
 
 **القسمُ 6 مكتمل.**
 
@@ -125,7 +125,7 @@
 - [x] السيميولوجيا السوسيرية وامتدادُها (Barthes — *Mythologies*، *S/Z*) — `sch-structuralist-semiology` (الدفعة 15). `thk-roland-barthes` (bridge) رُبط ولم يُكرَّر.
 - [x] سيمياءُ إيكو ونظريةُ التأويل (Eco — *A Theory of Semiotics*) — `thk-umberto-eco` (الدفعة 15).
 - [x] سيمياءُ غريماس والمربّعُ السيميائيّ (Greimasian Structural Semantics) — `sch-greimassian-semiotics`، `thk-algirdas-greimas` (الدفعة 15).
-- [x] السيمياءُ الحيويةُ والثقافية (Biosemiotics، Tartu — Lotman) — `sch-biosemiotics-tartu`، `thk-juri-lotman` (الدفعة 15). توماس سيبيوك لم يُفرَد بعد.
+- [x] السيمياءُ الحيويةُ والثقافية (Biosemiotics، Tartu — Lotman) — `sch-biosemiotics-tartu`، `thk-juri-lotman`، `thk-thomas-sebeok` (الدفعة 15، مُكتمَلة بالدفعة 36).
 
 **القسمُ 10 مكتمل.**
 

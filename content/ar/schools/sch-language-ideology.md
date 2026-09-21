@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges: []
 related:
 - id: "thk-michael-silverstein", title: "مايكل سيلفرستاين", type: "مفكر"
+- id: "thk-judith-irvine", title: "جوديث إرڤين", type: "مفكر"
 - id: "sch-linguistic-imperialism", title: "اللسانياتُ الاستعماريةُ ونقدُها (Linguistic Imperialism)", type: "مدرسة"
 gaps:
   - "لا `belongs_to`: فرعٌ من الأنثروبولوجيا اللغوية نشأ متقاطعاً مع اللسانيات الاجتماعية، لا منحدراً من مدرسةٍ لسانيةٍ نظريةٍ واحدة."

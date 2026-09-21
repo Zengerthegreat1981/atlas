@@ -17,9 +17,9 @@ active_end: "مستمر"
 edges: []
 related:
 - id: "thk-juri-lotman", title: "يوري لوتمان", type: "مفكر"
+- id: "thk-thomas-sebeok", title: "توماس سيبيوك", type: "مفكر"
 - id: "sch-structuralist-semiology", title: "السيميولوجيا السوسيرية وامتدادُها (Structuralist Semiology)", type: "مدرسة"
-gaps:
-  - "توماس سيبيوك (Thomas Sebeok)، مؤسّسُ مصطلح Biosemiotics نفسِه وحلقةُ الوصل الأمريكية بين مدرسة تارتو والسيمياء الحيوية المعاصرة، لم يُفرَد بعد كمفكرٍ مستقل — ثغرةٌ صادقةٌ تُترك لدفعةٍ لاحقة."
+gaps: []
 ---
 
 # مدرسةُ تارتو والسيمياءُ الحيوية
