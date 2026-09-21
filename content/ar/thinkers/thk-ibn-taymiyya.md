@@ -18,7 +18,7 @@ related:
 - id: "sch-athariyya", title: "الأثرية الكلامية", type: "مدرسة"
 - id: "sch-salafism-modern", title: "السلفية الكلامية الحديثة", type: "مدرسة"
 - id: "con-siyasa-shariyya-ibn-taymiyya", title: "السياسةُ الشرعيةُ والفرقُ بين الفقه والقانون (Al-Siyasa al-Shar'iyya)", type: "مفهوم"
-- id: "wrk-al-siyasa-al-shariyya-ibn-taymiyya", title: "السياسةُ الشرعية في إصلاح الراعي والرعية", type: "عمل"
+- id: "wrk-al-siyasa-al-shariyya-ibn-taymiyya", title: "السياسةُ الشرعية في إصلاح الراعي والرعية", type: "عمل / كتاب"
 gaps:
   - "**ربطٌ من قسم نظرية القانون (2026-09-21)**: أُضيفت `con-siyasa-shariyya-ibn-taymiyya` و`wrk-al-siyasa-al-shariyya-ibn-taymiyya` — تعالجان وجهاً مختلفاً تماماً من فكره (نظريةُ الحكم والسلطة التقديرية) لا العقيدةَ الأثرية التي يعالجها هذا الملف؛ لم يُستنسخ شيء."
   - "صُحِّح خلط في المتن السابق: «القواعد السبع» التأسيسية في الصفات هي من رسالة «التدمرية» لا من «الصفدية» (تحقّق عبر WebSearch من مضمون الرسالتين). أُضيفت التدمرية إلى قائمة الأعمال."

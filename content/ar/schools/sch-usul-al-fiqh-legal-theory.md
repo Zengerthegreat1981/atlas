@@ -17,13 +17,13 @@ edges: []
 related:
 - id: "thk-al-shatibi", title: "أبو إسحاق الشاطبي (Al-Shatibi)", type: "مفكر"
 - id: "con-maqasid-al-shariah-shatibi", title: "مقاصدُ الشريعة عند الشاطبي (Maqasid al-Shari'ah)", type: "مفهوم"
-- id: "wrk-al-muwafaqat-shatibi", title: "الموافقاتُ في أصول الشريعة (Al-Muwafaqat)", type: "عمل"
+- id: "wrk-al-muwafaqat-shatibi", title: "الموافقاتُ في أصول الشريعة", type: "عمل / كتاب"
 - id: "con-qiyas-analogical-reasoning", title: "القياسُ (Qiyas — الاستدلالُ التمثيليُّ الشرعي)", type: "مفهوم"
 - id: "con-istihsan-juristic-preference", title: "الاستحسانُ (Istihsan — الاستحسانُ الفقهي)", type: "مفهوم"
-- id: "con-dalalat-al-alfaz-usul", title: "دلالاتُ الألفاظ في أصول الفقه (Dalalat al-Alfaz)", type: "مفهوم"
-- id: "wrk-al-mustasfa-ghazali", title: "المستصفى من علم الأصول", type: "عمل"
+- id: "con-dalalat-al-alfaz-usul", title: "دلالاتُ الألفاظ في أصول الفقه (Dalalat al-Alfaz — Linguistic Implication)", type: "مفهوم"
+- id: "wrk-al-mustasfa-ghazali", title: "المستصفى من علم الأصول", type: "عمل / كتاب"
 - id: "con-siyasa-shariyya-ibn-taymiyya", title: "السياسةُ الشرعيةُ والفرقُ بين الفقه والقانون (Al-Siyasa al-Shar'iyya)", type: "مفهوم"
-- id: "wrk-al-siyasa-al-shariyya-ibn-taymiyya", title: "السياسةُ الشرعية في إصلاح الراعي والرعية", type: "عمل"
+- id: "wrk-al-siyasa-al-shariyya-ibn-taymiyya", title: "السياسةُ الشرعية في إصلاح الراعي والرعية", type: "عمل / كتاب"
 - id: "con-maslaha-mursala-usul", title: "المصالحُ المرسلة (Maslaha Mursala)", type: "مفهوم"
 - id: "con-sadd-al-dharai-usul", title: "سدُّ الذرائع (Sadd al-Dhara'i)", type: "مفهوم"
 gaps:

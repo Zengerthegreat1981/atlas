@@ -18,14 +18,14 @@ edges:
 - rel: "authored_by", target: "thk-ronald-dworkin", target_type: "مفكر"
 related:
 - id: "thk-ronald-dworkin", title: "رونالد دوركين (Ronald Dworkin)", type: "مفكر"
-- id: "wrk-laws-empire-dworkin", title: "إمبراطوريةُ القانون (Law's Empire)", type: "عمل"
+- id: "wrk-laws-empire-dworkin", title: "إمبراطوريةُ القانون (Law's Empire)", type: "عمل / كتاب"
 - id: "con-law-as-integrity-dworkin", title: "القانونُ بوصفه نزاهةً (Law as Integrity)", type: "مفهوم"
 gaps:
   - "مقالاتُ الكتاب الفردية (13 مقالة) تتناول مواضيعَ متنوعة (القضاءُ الليبرالي، حريةُ التعبير والفن، الاقتصادُ والقانون)؛ هذا الملفُّ يعرض المحاورَ الأساسية دون تلخيص كلّ مقالةٍ على حدة."
 ---
 # مسألةُ مبدأ (A Matter of Principle)
 
-مجموعةُ مقالاتٍ لـ[رونالد دوركين](thk-ronald-dworkin.md)، نُشرت عام 1985، تسبق [إمبراطورية القانون](wrk-laws-empire-dworkin.md) (1986) وتمهّد لصياغتها المنهجية النهائية.
+مجموعةُ مقالاتٍ لـ**رونالد دوركين**، نُشرت عام 1985، تسبق **إمبراطورية القانون** (1986) وتمهّد لصياغتها المنهجية النهائية.
 
 ## المحورُ الأول: هل للقضاء دورٌ سياسي مشروع؟
 

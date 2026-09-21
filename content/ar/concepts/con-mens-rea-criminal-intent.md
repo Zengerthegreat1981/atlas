@@ -16,7 +16,7 @@ related:
 - id: "sch-criminal-law-philosophy-responsibility", title: "فلسفةُ القانون الجنائي والمسؤولية (Philosophy of Criminal Law & Responsibility)", type: "مدرسة"
 - id: "con-insanity-defense-mnaghten", title: "الدفاعُ بالجنون وقاعدةُ مكناتن (Insanity Defense)", type: "مفهوم"
 - id: "thk-hla-hart", title: "هربرت هارت (H.L.A. Hart)", type: "مفكر"
-- id: "wrk-punishment-and-responsibility-hart", title: "العقابُ والمسؤولية (Punishment and Responsibility)", type: "عمل"
+- id: "wrk-punishment-and-responsibility-hart", title: "العقابُ والمسؤولية (Punishment and Responsibility)", type: "عمل / كتاب"
 gaps:
   - "**تعميقٌ 2026-09-21**: أُضيفت `wrk-punishment-and-responsibility-hart`."
   - "التمييزُ الدقيقُ بين مستويات القصد الأربعة في *Model Penal Code* (Purposely, Knowingly, Recklessly, Negligently) لم يُفصَّل هنا تفصيلاً قضائياً كاملاً بأمثلة أحكام؛ العرضُ مبدئيٌّ عامّ."
@@ -37,7 +37,7 @@ gaps:
 
 ## الوظيفةُ الفلسفية: لماذا الحالةُ الذهنيةُ شرطٌ للمساءلة؟
 
-يعكس اشتراطُ Mens Rea التزاماً فلسفياً بأنّ **العقابَ الجنائي يفترض فاعلاً عاقلاً قادراً على اختيار فعله**؛ فحين تنعدم هذه القدرةُ انعداماً تاماً — كما في حالات [الدفاع بالجنون](con-insanity-defense-mnaghten.md) — تنتفي شرعيةُ إسناد الجريمة إلى الفاعل من الأساس، لا لأنّ الفعلَ المادي لم يقع، بل لأنّ الركنَ الذهنيَّ اللازمَ لمساءلته أخلاقياً وقانونياً غيرُ متوفّر.
+يعكس اشتراطُ Mens Rea التزاماً فلسفياً بأنّ **العقابَ الجنائي يفترض فاعلاً عاقلاً قادراً على اختيار فعله**؛ فحين تنعدم هذه القدرةُ انعداماً تاماً — كما في حالات **الدفاع بالجنون** — تنتفي شرعيةُ إسناد الجريمة إلى الفاعل من الأساس، لا لأنّ الفعلَ المادي لم يقع، بل لأنّ الركنَ الذهنيَّ اللازمَ لمساءلته أخلاقياً وقانونياً غيرُ متوفّر.
 
 ## المصادر
 

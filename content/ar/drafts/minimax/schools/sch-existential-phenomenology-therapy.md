@@ -29,7 +29,7 @@ related:
 - id: "thk-blankenburg", title: "فولفغانغ بلانكنبورغ", type: "مفكر"
 - id: "thk-brentano", title: "فرانتس برنتانو", type: "مفكر"
 - id: "br-daseins", title: "التحليل الوجودي والدازاين", type: "تيار"
-- id: "con-dasein-analysis", title: "تحليل الدازاين (Daseinsanalysis)", type: "مفهوم"
+- id: "con-dasein-analysis", title: "تحليل الدازاين (Daseinsanalysis) — إحالة، انظر br-daseins", type: "مفهوم"
 - id: "wrk-zollikon", title: "ندوات تسوليكون", type: "عمل / كتاب"
 - id: "dbt-boss-binswanger", title: "بينسوانغر أم بوس؟", type: "جدل"
 - id: "sch-phenomenology", title: "الظاهراتية (Phänomenologie)", type: "مدرسة"

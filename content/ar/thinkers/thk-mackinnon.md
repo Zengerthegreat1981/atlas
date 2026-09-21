@@ -19,7 +19,7 @@ related:
 - id: "thk-pateman", title: "كارول بيتمان", type: "مفكر"
 - id: "dbt-trans-exclusionary-radical-feminism", title: "جدل النسوية الراديكالية واستبعاد الترانس", type: "جدل"
 - id: "sch-feminist-jurisprudence", title: "الفقهُ القانونيُّ النسويُّ (Feminist Jurisprudence)", type: "مدرسة"
-- id: "wrk-toward-a-feminist-theory-of-the-state-mackinnon", title: "نحو نظريةٍ نسويةٍ للدولة (Toward a Feminist Theory of the State)", type: "عمل"
+- id: "wrk-toward-a-feminist-theory-of-the-state-mackinnon", title: "نحو نظريةٍ نسويةٍ للدولة (Toward a Feminist Theory of the State)", type: "عمل / كتاب"
 gaps:
   - "**تعميقٌ 2026-09-21**: أُضيفت `wrk-toward-a-feminist-theory-of-the-state-mackinnon` (كان الكتابُ مذكوراً في المتن دون ملفٍّ `wrk-` مستقل)."
   - "**ربطٌ من قسم نظرية القانون (2026-09-21)**: أُضيف `sch-feminist-jurisprudence` — يوثّق مساهمتَها القانونية (نظرية التحرش الجنسي) ضمن سياق الفقه النسوي الأوسع دون استنساخ سيرتها هنا."
