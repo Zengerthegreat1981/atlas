@@ -19,7 +19,9 @@ related:
 - id: "thk-richard-posner-law-economics", title: "ريتشارد بوزنر (Richard A. Posner)", type: "مفكر"
 - id: "con-coase-theorem", title: "نظريةُ كوز (Coase Theorem)", type: "مفهوم"
 - id: "sch-american-legal-realism", title: "الواقعيةُ القانونيةُ الأمريكية (American Legal Realism)", type: "مدرسة"
+- id: "thk-guido-calabresi", title: "غيدو كالابريزي (Guido Calabresi)", type: "مفكر"
 gaps:
+  - "**سُدَّ 2026-09-21**: أُضيف `thk-guido-calabresi` (كان مذكوراً كفجوةٍ منتظرة)."
   - "هذا الملفُّ أُنشئ في الدفعة 13 من مهمة بناء قسم نظرية القانون (القسم 5 من `legal-theory-schools-backlog.md`). `belongs_to` تُرك فارغاً: لا جذرَ عامّ أعلى منه في نظرية القانون بعد."
   - "**غيدو كالابريزي** (الأصل الثالث للحركة مع كوز وبوزنر، صاحبُ *The Costs of Accidents*, 1970) أُشير إليه إجمالاً هنا؛ لم يُكتب له ملفٌّ مستقل في هذه الدفعة."
   - "**القانونُ السلوكيُّ والاقتصاد** (Behavioral Law and Economics، نقدُ سونستاين وجولز لافتراض العقلانية الكاملة عند بوزنر) لم يُكتب بعد؛ بندٌ منفصلٌ في الـbacklog."

@@ -16,7 +16,9 @@ related:
 - id: "thk-bentham", title: "جيريمي بنثام", type: "مفكر"
 - id: "thk-kant", title: "عمانويل كانط", type: "مفكر"
 - id: "sch-philosophy-of-punishment", title: "فلسفةُ العقاب: الردعُ والاستحقاقُ والإصلاح (Philosophy of Punishment)", type: "مدرسة"
+- id: "wrk-punishment-and-responsibility-hart", title: "العقابُ والمسؤولية (Punishment and Responsibility)", type: "عمل"
 gaps:
+  - "**سُدَّ 2026-09-21**: أُضيفت `wrk-punishment-and-responsibility-hart` (الآن موثَّقةٌ بملفٍّ مستقل)."
   - "محاولاتُ التوفيق اللاحقة (نظريةُ هارت المختلطة، ونظريةُ von Hirsch في «الاستحقاق العادل» Just Deserts، 1976) عُرضت إجمالاً في ملف المدرسة الأمّ ولم تُفرَد هنا بتفصيل."
 ---
 # الاستحقاقيةُ مقابل النتائجية في العقاب (Retributivism vs. Consequentialism)

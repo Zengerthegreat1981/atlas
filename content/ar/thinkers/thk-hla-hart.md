@@ -25,7 +25,9 @@ related:
 - id: "thk-ronald-dworkin", title: "رونالد دوركين (Ronald Dworkin)", type: "مفكر"
 - id: "dbt-hart-dworkin-rules-principles", title: "جدلُ هارت–دوركين (القواعدُ والمبادئ)", type: "جدل"
 - id: "crt-hart-critique-of-kelsen-grundnorm", title: "نقدُ هارت لمفهوم Grundnorm عند كِلسن", type: "نقد خارجي موثَّق"
+- id: "wrk-punishment-and-responsibility-hart", title: "العقابُ والمسؤولية (Punishment and Responsibility)", type: "عمل"
 gaps:
+  - "**تعميقٌ 2026-09-21**: أُضيفت `wrk-punishment-and-responsibility-hart` (1968، النظريةُ المختلطة في العقاب)."
   - "**دورُه في فلسفة اللغة العادية (Ordinary Language Philosophy) بأكسفورد** وتأثّرُه بأوستن الفيلسوف اللغوي (J.L. Austin — لا جون أوستن الحقوقي، وهذا فخُّ تشابهِ أسماء آخر يستحقّ التنبيه صراحةً) أُشير إليه هنا دون تفصيل؛ هذا الملفُّ يعالج هارت الفقيهَ حصراً."
   - "موقفُه في جدل هارت–دِفلن (حول تجريم السلوك الجنسي بين البالغين بالتراضي، إثر تقرير وولفندن 1957) لم يُكتب بعد في عقدةٍ مستقلة؛ يُذكر إجمالاً فقط."
 ---
