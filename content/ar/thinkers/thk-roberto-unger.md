@@ -18,7 +18,9 @@ edges:
 related:
 - id: "sch-critical-legal-studies", title: "الدراساتُ القانونيةُ النقدية (Critical Legal Studies — CLS)", type: "مدرسة"
 - id: "thk-duncan-kennedy", title: "دنكان كينيدي (Duncan Kennedy)", type: "مفكر"
+- id: "wrk-false-necessity-unger", title: "اللاضرورةُ الزائفة (False Necessity)", type: "عمل"
 gaps:
+  - "**تعميقٌ 2026-09-21**: أُضيفت `wrk-false-necessity-unger` (1987، مشروعُ «السياسة البنّاءة» الموسّع)."
   - "مسيرتُه السياسيةُ العملية في البرازيل (وزيرُ الشؤون الاستراتيجية 2007-2009 و2015) ومشروعُه في «السياسة البنّاءة» (Constructive Politics) خارج القانون تحديداً أُشير إليهما إجمالاً فقط."
 ---
 # روبرتو أنغر (Roberto Mangabeira Unger)
