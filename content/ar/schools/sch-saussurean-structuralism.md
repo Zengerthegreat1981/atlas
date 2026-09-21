@@ -20,6 +20,9 @@ related:
 - id: "wrk-cours-de-linguistique-generale", title: "دروسٌ في اللسانيات العامّة", type: "عمل / كتاب"
 - id: "con-signifier-signified", title: "الدالُّ والمدلول", type: "مفهوم"
 - id: "con-langue-parole", title: "اللغةُ والكلام (Langue/Parole)", type: "مفهوم"
+- id: "con-synchrony-diachrony-saussure", title: "التزامنيّةُ والتعاقبية (Synchrony/Diachrony)", type: "مفهوم"
+- id: "con-syntagmatic-paradigmatic-axes", title: "المحورانِ التركيبيُّ والاستبداليّ (Syntagmatic & Paradigmatic Axes)", type: "مفهوم"
+- id: "con-linguistic-value-saussure", title: "القيمةُ اللغوية (Valeur Linguistique)", type: "مفهوم"
 - id: "sch-prague-linguistic-circle", title: "حلقةُ براغ اللسانية (Prague Linguistic Circle)", type: "مدرسة"
 gaps:
   - "هذه عقدةٌ جذريةٌ في شجرة قسم علم اللغة (لا `belongs_to`) — بدايةُ اللسانيات البنيوية الحديثة."
