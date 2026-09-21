@@ -23,6 +23,7 @@ related:
 - id: "con-synchrony-diachrony-saussure", title: "التزامنيّةُ والتعاقبية (Synchrony/Diachrony)", type: "مفهوم"
 - id: "con-syntagmatic-paradigmatic-axes", title: "المحورانِ التركيبيُّ والاستبداليّ (Syntagmatic & Paradigmatic Axes)", type: "مفهوم"
 - id: "con-linguistic-value-saussure", title: "القيمةُ اللغوية (Valeur Linguistique)", type: "مفهوم"
+- id: "con-semantic-field-theory", title: "نظريةُ الحقل الدلالي (Semantic Field Theory)", type: "مفهوم"
 - id: "sch-prague-linguistic-circle", title: "حلقةُ براغ اللسانية (Prague Linguistic Circle)", type: "مدرسة"
 gaps:
   - "هذه عقدةٌ جذريةٌ في شجرة قسم علم اللغة (لا `belongs_to`) — بدايةُ اللسانيات البنيوية الحديثة."
