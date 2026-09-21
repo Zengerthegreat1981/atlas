@@ -14,6 +14,7 @@ edges:
 related:
 - id: "ins-participant-observation", title: "الملاحظةُ بالمشاركة (Participant Observation)", type: "منهج/أداة بحث"
 - id: "thk-franz-boas", title: "فرانز بواس (Franz Boas)", type: "مفكر"
+- id: "thk-paul-radin", title: "پول رادين (Paul Radin)", type: "مفكر"
 gaps: []
 ---
 # المقابلةُ الإثنوغرافيةُ وتاريخُ الحياة (Ethnographic Interview & Life History)

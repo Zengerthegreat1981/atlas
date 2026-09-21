@@ -19,6 +19,7 @@ edges:
 related:
 - id: "thk-edward-sapir", title: "إدوارد سابير (Edward Sapir)", type: "مفكر"
 - id: "thk-benjamin-lee-whorf", title: "بنجامين لي وورف (Benjamin Lee Whorf)", type: "مفكر"
+- id: "sch-ethnography-of-communication", title: "إثنوغرافيا التواصل (Ethnography of Communication)", type: "مدرسة"
 gaps:
   - "الجسرُ إلى علم النفس المعرفي المعاصر (أبحاث النسبية اللغوية التجريبية بعد 1990) لم يُكتب بعد كملفّ `bridge`؛ مذكورٌ ضمن الدفعة الأخيرة المخطَّطة لجسور القسم (انظر ملف المهمة، القسم 5)."
 ---
