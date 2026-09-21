@@ -18,6 +18,8 @@ edges: []
 related:
 - id: "thk-william-labov", title: "وليم لابوف", type: "مفكر"
 - id: "stu-labov-department-store-r", title: "دراسةُ لابوف في متاجر نيويورك (الصوت /r/)", type: "دراسة وبحث"
+- id: "stu-marthas-vineyard-centralization-labov", title: "دراسةُ لابوف في مارثا ﭬينيارد (مركزةُ الصوائت)", type: "دراسة وبحث"
+- id: "con-linguistic-variable-labov", title: "المتغيّرُ اللغوي (The Linguistic Variable)", type: "مفهوم"
 - id: "ins-dialect-atlas-geolinguistics", title: "الأطلسُ اللغويُّ والجغرافيا اللهجية (Dialect Atlas & Geolinguistics)", type: "منهج/أداة بحث"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`) — فرعٌ اجتماعيٌّ كمّيٌّ مستقلٌّ عن التوليدية والبنيوية، نشأ من منهجيةٍ ميدانيةٍ إحصائية لا من نظريةٍ صورية."
