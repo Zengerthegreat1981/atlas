@@ -18,6 +18,7 @@ related:
 - id: "sch-arab-anthropology-colonial-critique", title: "الأنثروبولوجيا العربيةُ ونقدُ الإثنوغرافيا الاستعمارية (Abu-Lughod, Hammoudi, al-Jabiri)", type: "مدرسة"
 - id: "thk-lila-abu-lughod", title: "ليلى أبو لغد (Lila Abu-Lughod)", type: "مفكر"
 - id: "wrk-master-and-disciple-hammoudi", title: "السيدُ والمريد (Master and Disciple)", type: "عمل / كتاب"
+- id: "thk-michael-gilsenan", title: "مايكل غيلسينان (Michael Gilsenan)", type: "مفكر"
 gaps:
   - "محمد عابد الجابري مفكرٌ فلسفيٌّ عربيٌّ (نقد العقل العربي) لا أنثروبولوجيٌّ ميدانيّ بالمعنى الصارم؛ لم يُنشأ له ملفٌّ هنا لعدم توفّر عملٍ أنثروبولوجيٍّ ميدانيّ يبرِّر تصنيفَه ضمن هذا القسم تحديداً — ذُكر اسمُه في عنوان الـbacklog لكن لم يُكتب لعدم توفّر ما يبرِّر ذلك ضمن حدود الأنثروبولوجيا الميدانية."
 ---
