@@ -20,6 +20,7 @@ related:
 - id: "sch-generative-grammar", title: "النحوُ التوليديُّ التحويليّ (Generative-Transformational Grammar)", type: "مدرسة"
 - id: "con-llms-and-linguistic-theory", title: "النماذجُ اللغويةُ الكبرى وأثرُها على النظرية اللغوية", type: "مفهوم"
 - id: "con-chomsky-hierarchy-formal-language-theory", title: "هرميةُ تشومسكي ونظريةُ اللغات الصورية (Chomsky Hierarchy)", type: "مفهوم"
+- id: "con-distributional-semantics-word-embeddings", title: "الدلالةُ التوزيعية وتمثيلاتُ الكلمات المتّجهية (Distributional Semantics & Word Embeddings)", type: "مفهوم"
 gaps:
   - "لا `belongs_to`/`evolved_from`: فرعٌ متعدّدُ الأصول (منطقٌ حاسوبيٌّ، نظريةُ الأتمتة، إحصاءٌ) نشأ بالتوازي مع النحو التوليدي دون انحدارٍ حصريٍّ منه."
 ---

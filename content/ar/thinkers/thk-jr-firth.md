@@ -21,6 +21,7 @@ related:
 - id: "thk-michael-halliday", title: "مايكل هاليداي", type: "مفكر"
 - id: "sch-systemic-functional-linguistics", title: "اللسانياتُ الوظيفيةُ المنهجية (Systemic Functional Linguistics)", type: "مدرسة"
 - id: "thk-john-sinclair", title: "جون سنكلير", type: "مفكر"
+- id: "con-distributional-semantics-word-embeddings", title: "الدلالةُ التوزيعية وتمثيلاتُ الكلمات المتّجهية (Distributional Semantics & Word Embeddings)", type: "مفهوم"
 gaps:
   - "لا `belongs_to` بالمعنى الحصري: فيرث سبق هاليداي تاريخياً وأسّس لمدرسة لندن التي طوّرها هاليداي لاحقاً؛ العلاقةُ سلاليةٌ (أستاذٌ-تلميذ) أُدرجت هنا لتوثيق الأصل التاريخي المباشر الذي كان مسجَّلاً فجوةً في `sch-systemic-functional-linguistics`."
 ---
