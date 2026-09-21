@@ -18,9 +18,11 @@ edges: []
 related:
 - id: "thk-joseph-greenberg", title: "جوزيف غرينبرغ", type: "مفكر"
 - id: "con-word-order-universals", title: "كلّياتُ ترتيب الكلمات", type: "مفهوم"
+- id: "thk-bernard-comrie", title: "برنارد كومري", type: "مفكر"
+- id: "ins-world-atlas-of-language-structures", title: "الأطلسُ العالميُّ لبِنى اللغة (WALS)", type: "منهج/أداة بحث"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`) — منهجٌ استقرائيٌّ مقارنٌ مستقلٌّ عن التوليدية والبنيوية، وإن تقاطع معهما موضوعياً."
-  - "امتداداتُ النمطية المعاصرة (منهجُ WALS — World Atlas of Language Structures، ومساهمات برنارد كومري ومارتن هاسپلماث) لم تُفرَد بملفاتٍ مستقلة بعد."
+  - "مارتن هاسپلماث لم يُفرَد بعد كمفكرٍ مستقل. **سُدَّ جزئياً 2026-09-21 (الدفعة 48)**: أُنشئ `thk-bernard-comrie` و`ins-world-atlas-of-language-structures`."
 ---
 
 # النمطيةُ اللغويةُ والكلّياتُ اللغوية
