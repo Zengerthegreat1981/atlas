@@ -23,7 +23,9 @@ related:
 - id: "que-mimetic-desire-girard", title: "هل رغباتنا أصيلة تنبع من ذواتنا أم مستعارة بالمحاكاة؟", type: "سؤال توليدي"
 - id: "sch-mimetic-theory-violence-sacred-religion", title: "نظريةُ الرغبة المحاكية وآليةُ كبش الفداء في أصل الدين (رينيه جيرار)", type: "مدرسة"
 - id: "crt-jonathan-z-smith-critique-girard-scapegoat-mechanism", title: "نقدُ جوناثان ز. سميث لآلية كبش الفداء عند جيرار (تدجينُ القربان)", type: "نقد خارجي موثَّق"
+- id: "thk-raymund-schwager", title: "ريموند شفاغر (Raymund Schwager)", type: "مفكر"
 gaps:
+  - "سُدَّت 2026-09-22 (الدفعة 80): ريموند شفاغر، أوّلُ من طبَّق نظريةَ الرغبة المحاكية تطبيقاً لاهوتياً منهجياً على النصّ التوراتي-الإنجيلي ومؤسِّسُ مؤتمر العنف والدين (COV&R) عام 1990، صار له الآن ملفٌّ مستقل: `thk-raymund-schwager`، تحت `religious-studies`."
   - "سُدَّت 2026-09-22 (الدفعة 71): نقدُ جوناثان ز. سميث المباشر لآلية كبش الفداء (مناظرة ستانفورد 1983، *Violent Origins* 1987) — أن جيرار يعمّم بنيةً أدبية-أسطورية استثنائية على القربان الطقسيّ الفعليّ 'المُدجَّن' — فُصِّل في ملفّ نقدٍ مستقل: `crt-jonathan-z-smith-critique-girard-scapegoat-mechanism`."
   - "نص 'الشيء المنسي منذ قرن من الزمان' (Ce que j'ai appris en Asie) بالعربية موثّق جزئياً."
   - "تأثيره في علم النفس التطوري (مع Brian Boyd حول 'On the Origin of Stories') يحتاج فصلاً."
