@@ -99,11 +99,11 @@
 
 ## 9. اللغةُ والحاسوبُ والقياس (Computational & Corpus)
 
-- [ ] اللسانياتُ الحاسوبيةُ ومعالجةُ اللغة الطبيعية (NLP)
-- [ ] لسانياتُ المدوّنات ومناهجُها (Corpus Linguistics)
-- [ ] النماذجُ اللغويةُ الكبرى وأثرُها على النظرية اللغوية (LLMs & Linguistic Theory)
-- [ ] الترجمةُ الآليةُ ونظريةُ الترجمة (Translation Studies — Nida، Venuti، Berman)
-- [ ] معالجةُ العربيةِ حاسوبياً وتحدّياتُها الصرفية
+- [x] اللسانياتُ الحاسوبيةُ ومعالجةُ اللغة الطبيعية (NLP) — `sch-computational-linguistics-nlp` (الدفعة 17).
+- [x] لسانياتُ المدوّنات ومناهجُها (Corpus Linguistics) — `sch-corpus-linguistics`، `thk-john-sinclair` (الدفعة 17).
+- [x] النماذجُ اللغويةُ الكبرى وأثرُها على النظرية اللغوية (LLMs & Linguistic Theory) — `con-llms-and-linguistic-theory` (الدفعة 17). حيادٌ صريحٌ محفوظ بلا ترجيح.
+- [x] الترجمةُ الآليةُ ونظريةُ الترجمة (Translation Studies — Nida، Venuti، Berman) — `sch-translation-studies`، `thk-eugene-nida` (الدفعة 17). ڤينوتي وبرمان لم يُفرَدا بعد.
+- [~] معالجةُ العربيةِ حاسوبياً وتحدّياتُها الصرفية — لم يُبدَأ؛ يحتاج مصادرَ عربيةً متخصّصة، مؤجَّلٌ لدفعةٍ لاحقة بعد تحقّقٍ من مصادر حقيقية.
 
 ## 10. السيمياء وأنظمةُ العلامات (Semiotics)
 
