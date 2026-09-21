@@ -21,8 +21,10 @@ related:
 - id: "sch-saussurean-structuralism", title: "البنيويةُ السوسيرية (Saussurean Structuralism)", type: "مدرسة"
 - id: "thk-roman-jakobson", title: "رومان ياكوبسون", type: "مفكر"
 - id: "con-phoneme", title: "الفونيم", type: "مفهوم"
+- id: "thk-nikolai-trubetzkoy", title: "نيكولاي تروبتسكوي", type: "مفكر"
+- id: "con-distinctive-features-phonology", title: "السماتُ التمييزية (Distinctive Features)", type: "مفهوم"
+- id: "con-markedness-theory", title: "نظريةُ الوسم (Markedness Theory)", type: "مفهوم"
 gaps:
-  - "نيكولاي تروبتسكوي (Nikolai Trubetzkoy)، المؤسِّسُ المشارك لعلم الفونولوجيا البنيوية مع ياكوبسون وصاحبُ *أسس الفونولوجيا* (Grundzüge der Phonologie، 1939)، لم يُفرَد بعدُ بملفِّ مفكرٍ مستقل — تسجيلٌ للفجوة."
   - "الوظيفيةُ اللسانية عند حلقة براغ (خصوصاً مفهوم التقطيع الوظيفي للجملة عند ماتيسيوس) موضوعٌ مستقلٌّ لم يُغطَّ في هذا الملف بعد."
 ---
 
