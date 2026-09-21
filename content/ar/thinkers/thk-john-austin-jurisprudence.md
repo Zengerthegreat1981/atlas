@@ -21,7 +21,9 @@ related:
 - id: "thk-hla-hart", title: "هربرت هارت (H.L.A. Hart)", type: "مفكر"
 - id: "wrk-the-concept-of-law-hart", title: "مفهومُ القانون (The Concept of Law)", type: "عمل / كتاب"
 - id: "con-command-theory-of-law-austin", title: "نظريةُ الأمر القانونية (Command Theory of Law)", type: "مفهوم"
+- id: "wrk-province-of-jurisprudence-austin", title: "نطاقُ الفقه القانوني المحدَّد (The Province of Jurisprudence Determined)", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-22**: أُضيفت `wrk-province-of-jurisprudence-austin` (ملفٌّ مستقلٌّ للعمل التأسيسي، كان يُستشهَد به دون ملفّ)."
   - "**تنبيهٌ حاسمٌ لتفادي التباس الأسماء**: هذا الملفُّ يعالج **جون أوستن الفقيه** (1790–1859)، صاحبَ نظرية الأمر القانونية. **لا علاقةَ له بتاتاً** بـ`thk-jaustin` القائمِ في الأطلس (فيلسوفُ لغةٍ من أكسفورد، منتصفُ القرن العشرين، صاحبُ نظرية أفعال الكلام Speech Acts) رغم تطابق اللقب تماماً — شخصيتان مختلفتان تماماً في زمنَين وحقلَين مختلفَين. لم يُربط هذا الملفُّ بـ`thk-jaustin` أبداً تفادياً لهذا الخلط، تنفيذاً لتحذير DR-018 الصريح."
   - "سلطتُه الشهيرةُ كأستاذٍ للفقه في University College London (من 1826) لم تُفصَّل، ولا محاضراتُه المنشورة بعد وفاته (*Lectures on Jurisprudence*, 1863، جمعتها زوجتُه سارة أوستن)."
 ---
