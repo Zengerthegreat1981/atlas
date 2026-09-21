@@ -19,9 +19,9 @@ edges:
 related:
 - id: "sch-ethnography-of-religion-fieldwork", title: "الإثنوغرافيا الدينيةُ والعملُ الميدانيّ", type: "مدرسة"
 - id: "thk-bronislaw-malinowski", title: "برونيسلاف مالينوفسكي (Bronisław Malinowski)", type: "مفكر"
+- id: "thk-david-d-hall", title: "دايفد دي. هول (David D. Hall)", type: "مفكر"
 gaps:
   - "لا يوجد بعد ملفّ عملٍ مستقل (`wrk-`) لكتابه المؤسِّس *The Madonna of 115th Street* (1985) الذي أسّس منهج 'الدين المعيش' ميدانياً بدراسة تعبّد الكاثوليك الإيطاليين-الأمريكيين لمريم العذراء في هارلم."
-  - "علاقتُه المنهجية بدايفد هول (David D. Hall)، الذي صاغ مصطلح 'الدين الشعبي/الشفهي' (Vernacular Religion, 1997) بالتوازي مع مشروع أورسي، لم تُفصَّل؛ لا يوجد ملفٌّ مستقل لهول بعد."
 ---
 
 # روبرت أورسي (Robert A. Orsi)
