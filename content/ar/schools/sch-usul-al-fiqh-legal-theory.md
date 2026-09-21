@@ -26,7 +26,10 @@ related:
 - id: "wrk-al-siyasa-al-shariyya-ibn-taymiyya", title: "السياسةُ الشرعية في إصلاح الراعي والرعية", type: "عمل / كتاب"
 - id: "con-maslaha-mursala-usul", title: "المصالحُ المرسلة (Maslaha Mursala)", type: "مفهوم"
 - id: "con-sadd-al-dharai-usul", title: "سدُّ الذرائع (Sadd al-Dhara'i)", type: "مفهوم"
+- id: "thk-wael-hallaq", title: "وائل حلّاق (Wael B. Hallaq)", type: "مفكر"
+- id: "con-gate-of-ijtihad-debate-hallaq", title: "جدلُ «إغلاق باب الاجتهاد» (The Gate of Ijtihad Debate)", type: "مفهوم"
 gaps:
+  - "**سُدَّ 2026-09-21**: أُضيفت `thk-wael-hallaq` و`con-gate-of-ijtihad-debate-hallaq` (المؤرِّخُ المعاصرُ الذي استُشهد بأعماله مصدراً أساسياً في كل ملفات هذا القسم تقريباً)."
   - "**الدفعةُ 22 (السياسة الشرعية)** أُلحقت هنا؛ القسمُ الأول من الـbacklog (القانون الطبيعي وتقاليده) مكتملٌ بالكامل الآن."
   - "هذا الملفُّ أُنشئ في الدفعة 1 من مهمة بناء قسم نظرية القانون (القسم 1 من `legal-theory-schools-backlog.md`)، وهو أوّلُ عقدةٍ في القسم. `belongs_to` تُرك فارغاً: لا جذرَ عامّ لنظرية القانون في المستودع بعد."
   - "**الدفعةُ 2 (القياس والاستحسان ودلالات الألفاظ)** أُلحقت هنا في `related`؛ حزمةُ أصول الفقه التأسيسية باتت شبهَ مكتملة، وتبقّى تفريعاتٌ (المصالحُ المرسلة، سدُّ الذرائع، الاستصحاب) لدفعةٍ لاحقة إن اتُّسع لها."
