@@ -12,6 +12,7 @@ crumb: "علم اللغة ← اللسانياتُ المعرفية ← الجد
 edges: []
 related:
 - id: "sch-linguistic-relativity", title: "الأنثروبولوجيا اللسانية وفرضيةُ سابير-وورف (Linguistic Relativity)", type: "مدرسة"
+- id: "wrk-language-thought-reality-whorf", title: "اللغة والفكر والواقع (Language, Thought, and Reality)", type: "عمل / كتاب"
 - id: "sch-cognitive-linguistics", title: "اللسانياتُ المعرفية (Cognitive Linguistics)", type: "مدرسة"
 - id: "thk-lera-boroditsky", title: "ليرا بوروديتسكي", type: "مفكر"
 - id: "stu-kuuk-thaayorre-spatial-cognition-boroditsky-gaby", title: "دراسةُ بوروديتسكي وغابي في لغة كووك ثايوري (الإدراك المكاني المطلق)", type: "دراسة وبحث"
