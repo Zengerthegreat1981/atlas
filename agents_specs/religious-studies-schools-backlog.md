@@ -32,7 +32,7 @@
 - [x] التحليلُ النفسيُّ والدين (فرويد و*مستقبل وهم*، يونغ والأنماطُ الأصلية) — `sch-psychology-of-religion-james-freud-jung` (SCH-6807) عقدةٌ توليفيةٌ جديدة تجمع جيمس وفرويد ويونغ، تربط بملفّاتهم الكاملة الموجودة مسبقاً دون تكرار سيرهم، مع روابطَ عكسية في الثلاثة، الدفعة 18
 - [x] علمُ الأديان المعرفيُّ (Boyer، Atran، Barrett — الدينُ بوصفه ناتجاً معرفياً) — `sch-cognitive-science-of-religion` + `thk-pascal-boyer` + `thk-justin-barrett` + `con-minimally-counterintuitive-concepts` + `con-hyperactive-agency-detection`؛ أترن (Atran) وويتهاوس وغوثري تُركوا فجوةً موثّقة، الدفعة 9
 - [ ] التعلُّقُ والدين (Kirkpatrick) — **جسرٌ إلى نظرية التعلّق**
-- [ ] الخبرةُ الصوفيةُ والدماغ (Newberg، d'Aquili) — **وجدلُها المنهجيّ**
+- [x] الخبرةُ الصوفيةُ والدماغ (Newberg، d'Aquili) — **وجدلُها المنهجيّ** — `sch-neurotheology-mystical-brain` (SCH-6808) + `thk-andrew-newberg` (THK-8013) جديدان، يربطان بـ`dbt-reductionism-vs-non-reductionism-religious-studies` و`sch-cognitive-science-of-religion` الموجودين مسبقاً؛ دكويلي تُرك فجوةً موثَّقة (لا مصادر إنجليزية كافية عن سيرته منفصلةً)، الدفعة 19
 
 ## 5. الأديانُ والتقاليدُ بوصفها موضوعاتِ دراسة
 - [ ] دراسةُ الإسلام أكاديمياً ونقدُ الاستشراق

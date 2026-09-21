@@ -19,7 +19,9 @@ related:
 - id: "con-emic-etic-study-of-religion", title: "الداخلُ والخارجُ (Emic/Etic) في دراسة الدين", type: "مفهوم"
 - id: "thk-mircea-eliade", title: "ميرتشيا إلياده", type: "مفكر"
 - id: "thk-pascal-boyer", title: "پاسكال بوييه", type: "مفكر"
+- id: "sch-neurotheology-mystical-brain", title: "اللاهوتُ العصبيّ والخبرةُ الصوفيةُ والدماغ (نيوبرغ ودكويلي)", type: "مدرسة"
 gaps:
+  - "أُضيف رابطٌ إلى `sch-neurotheology-mystical-brain` (الدفعة 19) بوصفه حالةً حدّيةً في هذا الجدل (اختزاليّ منهجياً، متحفّظ فلسفياً)."
   - "هذا الملفّ يوثّق الجدل كخطٍّ فاصلٍ منهجيٍّ داخل الحقل نفسه (بين تيارين قائمين موجودين مسبقاً في الأطلس: `sch-phenomenology-of-religion-otto-eliade` و`sch-cognitive-science-of-religion`)، لا كموقفٍ ثالث مستقل؛ لذا تُرك `edges: []` تفادياً لربطه بمدرسةٍ أمٍّ واحدة يُظلم بها الطرف الآخر."
   - "لم تُدرَج بعدُ أطروحاتُ وين پرودافوت (Wayne Proudfoot) في *Religious Experience* (1985) حول 'الاختزال الوصفي مقابل التفسيري' كمساهمةٍ تصنيفية مهمّة في هذا الجدل تحديداً؛ فجوةٌ موثَّقة لدفعةٍ لاحقة."
   - "لم تُذكَر مساهمة روبرت سيغال (Robert Segal) في الدفاع الصريح عن الاختزالية المنهجية (*Explaining and Interpreting Religion*, 1992) بتفصيل مستقل؛ ذُكر إجمالاً فقط ضمن الموقف الاختزالي."
