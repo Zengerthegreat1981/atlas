@@ -30,7 +30,10 @@ related:
 - id: "con-gate-of-ijtihad-debate-hallaq", title: "جدلُ «إغلاق باب الاجتهاد» (The Gate of Ijtihad Debate)", type: "مفهوم"
 - id: "thk-mohammad-hashim-kamali", title: "محمد هاشم كمالي (Mohammad Hashim Kamali)", type: "مفكر"
 - id: "wrk-al-ihkam-al-amidi", title: "الإحكامُ في أصول الأحكام", type: "عمل / كتاب"
+- id: "thk-al-shafii", title: "محمد بن إدريس الشافعي", type: "مفكر"
+- id: "wrk-al-risala-shafii", title: "الرسالةُ في أصول الفقه", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-22**: أُضيفت `thk-al-shafii` و`wrk-al-risala-shafii` — أوّلُ نصٍّ أصوليٍّ منهجيٍّ مكتمل، كان مذكوراً في المسار التاريخي دون عقدتَين مستقلّتَين."
   - "**تعميقٌ 2026-09-22**: أُضيفت `wrk-al-ihkam-al-amidi` (أحدُ الأركان الأربعة الكلاسيكية لأصول الفقه)."
   - "**تعميقٌ 2026-09-22**: أُضيف `thk-mohammad-hashim-kamali` (مصدرٌ ثانٍ مستشهَدٌ به مراراً عبر هذا القسم)."
   - "**سُدَّ 2026-09-21**: أُضيفت `thk-wael-hallaq` و`con-gate-of-ijtihad-debate-hallaq` (المؤرِّخُ المعاصرُ الذي استُشهد بأعماله مصدراً أساسياً في كل ملفات هذا القسم تقريباً)."
