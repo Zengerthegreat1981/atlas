@@ -69,7 +69,7 @@
 - [x] اللسانياتُ المعرفيةُ ونحوُ لانغاكر (Cognitive Grammar) — `sch-cognitive-linguistics`، `thk-ronald-langacker` (الدفعة 8).
 - [x] نظريةُ الاستعارة المفهومية (Lakoff & Johnson — *Metaphors We Live By*) — `con-conceptual-metaphor-theory` (الدفعة 8). لاكوف (psychology) رُبط ولم يُكرَّر؛ `thk-mark-johnson-linguist` أُنشئ بالدفعة 30.
 - [x] فضاءاتُ الذهن والمزجُ المفهوميّ (Fauconnier & Turner) — `sch-conceptual-blending-theory`، `thk-gilles-fauconnier`، `thk-mark-turner` (الدفعة 21).
-- [~] النظريةُ النموذجيةُ والتصنيف (Prototype Theory — Rosch, Berlin & Kay) — `con-prototype-theory-linguistics` (الدفعة 8). روش (psychology) رُبطت ولم تُكرَّر. يتبقّى: بيرلين وكاي (تصنيف الألوان).
+- [x] النظريةُ النموذجيةُ والتصنيف (Prototype Theory — Rosch, Berlin & Kay) — `con-prototype-theory-linguistics` (الدفعة 8). روش (psychology) رُبطت ولم تُكرَّر. `thk-brent-berlin-paul-kay` أُنشئ بالدفعة 31.
 - [x] النسبيةُ اللغويةُ وفرضيةُ سابير-وورف (وجدلُها المعاصر: Boroditsky، Levinson) — `con-linguistic-relativity-contemporary-debate` (الدفعة 21). `sch-linguistic-relativity` (anthropology) رُبطت ولم تُكرَّر. حيادٌ صريحٌ محفوظ.
 
 **القسمُ 5 مكتمل.**
@@ -106,7 +106,7 @@
 - [x] علمُ اللغة العصبيُّ ومناطقُ اللغة (Broca، Wernicke، النموذجُ المعاصر) — `sch-classical-neurolinguistics`، `thk-paul-broca`، `con-broca-wernicke-lichtheim-model` (الدفعة 11). **جسرٌ منجَز**: `syn-wernicke-aphasia` و`syn-broca-aphasia` (psychology) رُبطا بـ`related` دون تعديل وسمهما، وخرجا بذلك من العزلة.
 - [ ] الحُبسةُ واضطراباتُ اللغة (Aphasiology) — **جسرٌ إلى الاضطرابات في الأطلس**
 - [x] ثنائيةُ اللغة والدماغ (Bilingualism & Cognitive Control) — `sch-bilingualism-cognitive-control`، `thk-ellen-bialystok` (الدفعة 18).
-- [~] لغةُ الإشارة بوصفها لغةً طبيعية (Sign Language Linguistics) — `sch-sign-language-linguistics` (الدفعة 13)، مربوطةٌ بجسر علم اللغة العصبي. يتبقّى: وليام ستوكو كمفكرٍ مستقل.
+- [x] لغةُ الإشارة بوصفها لغةً طبيعية (Sign Language Linguistics) — `sch-sign-language-linguistics`، `thk-william-stokoe` (الدفعة 13، مُكتمَلة بالدفعة 31).
 - [x] أصلُ اللغة وتطوّرها (Language Evolution — Hauser/Chomsky/Fitch، Tomasello) — `sch-language-evolution`، `thk-michael-tomasello` (الدفعة 19). حيادٌ صريحٌ إزاء جدل هاوزر/تشومسكي/فيتش مقابل بينكر/جاكندوف.
 
 **القسمُ 8 مكتمل.**

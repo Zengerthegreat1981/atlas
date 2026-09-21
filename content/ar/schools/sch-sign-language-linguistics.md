@@ -18,8 +18,8 @@ edges: []
 related:
 - id: "con-broca-wernicke-lichtheim-model", title: "نموذجُ بروكا-فيرنيكه-ليختهايم", type: "مفهوم"
 - id: "sch-classical-neurolinguistics", title: "علمُ اللغة العصبيُّ الكلاسيكي (Classical Neurolinguistics)", type: "مدرسة"
-gaps:
-  - "وليام ستوكو (William Stokoe)، مؤسّسُ الحقل ومكتشفُ البنية الصواتية للغة الإشارة الأمريكية (ASL)، لم يُفرَد بعد كمفكرٍ مستقل — ثغرةٌ صادقةٌ تُترك لدفعةٍ لاحقة يُعرَّف فيها بدقةٍ من مصادره الأصلية."
+- id: "thk-william-stokoe", title: "وليام ستوكو", type: "مفكر"
+gaps: []
 ---
 
 # لسانياتُ لغة الإشارة
