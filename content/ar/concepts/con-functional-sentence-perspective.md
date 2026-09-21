@@ -15,6 +15,7 @@ related:
 - id: "thk-vilem-mathesius", title: "ﭬيليم ماتيسيوس", type: "مفكر"
 - id: "sch-systemic-functional-linguistics", title: "اللسانياتُ الوظيفيةُ المنهجية (Systemic Functional Linguistics)", type: "مدرسة"
 - id: "con-metafunctions-halliday", title: "الوظائفُ الفوقية الثلاث (Metafunctions)", type: "مفهوم"
+- id: "con-topic-focus-information-structure", title: "البنيةُ المعلوماتية: الموضوعُ والبؤرة (Information Structure: Topic & Focus)", type: "مفهوم"
 gaps: []
 ---
 
