@@ -13,6 +13,7 @@ edges: []
 related:
 - id: "thk-hsacks", title: "هارفي ساكس", type: "مفكر"
 - id: "thk-emanuel-schegloff", title: "إيمانويل شيغلوف", type: "مفكر"
+- id: "con-silence-pragmatics", title: "السكوتُ فعلاً تواصلياً (The Pragmatics of Silence)", type: "مفهوم"
 gaps:
   - "لا `belongs_to`: البنيةُ المؤسسية لتحليل المحادثة (Conversation Analysis) موجودةٌ بالفعل تحت `part: sociology` (`sch-conversation-analysis`، `thk-hsacks`)؛ هذا الملفُّ يفرد أداتين تحليليتين مركزيتين من ذلك الحقل بصياغةٍ لسانيةٍ تداولية دون إنشاء مدرسةٍ منافسة."
 ---
