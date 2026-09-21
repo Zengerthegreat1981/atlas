@@ -32,6 +32,7 @@ related:
 - id: "wrk-al-ihkam-al-amidi", title: "الإحكامُ في أصول الأحكام", type: "عمل / كتاب"
 - id: "thk-al-shafii", title: "محمد بن إدريس الشافعي", type: "مفكر"
 - id: "wrk-al-risala-shafii", title: "الرسالةُ في أصول الفقه", type: "عمل / كتاب"
+- id: "con-zahiri-rejection-of-qiyas-ibn-hazm", title: "الرفضُ الظاهريُّ للقياس عند ابن حزم", type: "مفهوم"
 gaps:
   - "**تعميقٌ 2026-09-22**: أُضيفت `thk-al-shafii` و`wrk-al-risala-shafii` — أوّلُ نصٍّ أصوليٍّ منهجيٍّ مكتمل، كان مذكوراً في المسار التاريخي دون عقدتَين مستقلّتَين."
   - "**تعميقٌ 2026-09-22**: أُضيفت `wrk-al-ihkam-al-amidi` (أحدُ الأركان الأربعة الكلاسيكية لأصول الفقه)."
