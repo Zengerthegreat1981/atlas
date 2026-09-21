@@ -22,6 +22,7 @@ related:
 - id: "con-comparative-reconstruction-method", title: "منهجُ إعادة البناء المقارن (Comparative Reconstruction)", type: "مفهوم"
 - id: "thk-elizabeth-traugott", title: "إليزابيث ترواغوت", type: "مفكر"
 - id: "con-grammaticalization", title: "النحويةُ (Grammaticalization)", type: "مفهوم"
+- id: "met-stammbaum-family-tree-linguistics", title: "شجرةُ الأنساب اللغوية (Stammbaumtheorie)", type: "استعارة/مجاز مؤسِّس"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`) — سبقت البنيويةَ السوسيرية زمنياً بنحو قرن، وليست فرعاً منها."
 ---
