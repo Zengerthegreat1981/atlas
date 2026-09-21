@@ -148,7 +148,7 @@
 - [x] اكتسابُ اللغة الأولى ومراحلُه (First Language Acquisition) — `sch-first-language-acquisition`، `thk-eric-lenneberg`، `con-critical-period-hypothesis`، `dbt-innateness-vs-usage-based-language-acquisition` (الدفعة 10). حيادٌ صريحٌ محفوظ إزاء جدل الفطرية، ومسألةُ بيراها مسجَّلةٌ كفجوة.
 - [x] اكتسابُ اللغة الثانيةُ والفترةُ الحرجة (SLA & Critical Period) — `sch-second-language-acquisition`، `thk-stephen-krashen` (الدفعة 18). حيادٌ صريحٌ إزاء انطباق فرضية الفترة الحرجة على اللغة الثانية.
 - [x] علمُ اللغة العصبيُّ ومناطقُ اللغة (Broca، Wernicke، النموذجُ المعاصر) — `sch-classical-neurolinguistics`، `thk-paul-broca`، `con-broca-wernicke-lichtheim-model` (الدفعة 11). **جسرٌ منجَز**: `syn-wernicke-aphasia` و`syn-broca-aphasia` (psychology) رُبطا بـ`related` دون تعديل وسمهما، وخرجا بذلك من العزلة.
-- [ ] الحُبسةُ واضطراباتُ اللغة (Aphasiology) — **جسرٌ إلى الاضطرابات في الأطلس**
+- [x] الحُبسةُ واضطراباتُ اللغة (Aphasiology) — `con-aphasiology-classification` (الدفعة 51). جسرٌ مكتمل: يربط 5 متلازماتٍ (broca، wernicke، conduction، global، anomic، كلُّها psychology) دون تكرارها.
 - [x] ثنائيةُ اللغة والدماغ (Bilingualism & Cognitive Control) — `sch-bilingualism-cognitive-control`، `thk-ellen-bialystok` (الدفعة 18).
 - [x] لغةُ الإشارة بوصفها لغةً طبيعية (Sign Language Linguistics) — `sch-sign-language-linguistics`، `thk-william-stokoe` (الدفعة 13، مُكتمَلة بالدفعة 31).
 - [x] أصلُ اللغة وتطوّرها (Language Evolution — Hauser/Chomsky/Fitch، Tomasello) — `sch-language-evolution`، `thk-michael-tomasello` (الدفعة 19). حيادٌ صريحٌ إزاء جدل هاوزر/تشومسكي/فيتش مقابل بينكر/جاكندوف.
