@@ -17,9 +17,10 @@ active_end: "مستمر"
 edges: []
 related:
 - id: "thk-eugene-nida", title: "يوجين نايدا", type: "مفكر"
+- id: "thk-lawrence-venuti", title: "لورانس ڤينوتي", type: "مفكر"
 - id: "sch-computational-linguistics-nlp", title: "اللسانياتُ الحاسوبيةُ ومعالجةُ اللغة الطبيعية (Computational Linguistics & NLP)", type: "مدرسة"
 gaps:
-  - "لورانس ڤينوتي (Lawrence Venuti) وأنطوان برمان (Antoine Berman)، أبرزُ منظّري التوطين/التغريب اللاحقين لنايدا، لم يُفرَدا بعد كمفكرَين مستقلَّين — ثغرةٌ صادقةٌ تُترك لدفعةٍ لاحقة."
+  - "أنطوان برمان (Antoine Berman)، منظّرٌ فرنسيٌّ موازٍ لڤينوتي، لم يُفرَد بعد كمفكرٍ مستقل. **سُدَّ جزئياً 2026-09-21 (الدفعة 37)**: أُنشئ `thk-lawrence-venuti`."
 ---
 
 # الترجمةُ الآليةُ ونظريةُ الترجمة

@@ -19,6 +19,7 @@ edges:
 - rel: "belongs_to", target: "sch-arabic-grammatical-tradition", target_type: "مدرسة"
 related:
 - id: "thk-al-khalil-ibn-ahmad", title: "الخليل بن أحمد الفراهيدي", type: "مفكر"
+- id: "thk-ibn-manzur", title: "ابن منظور", type: "مفكر"
 gaps: []
 ---
 
