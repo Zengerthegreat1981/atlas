@@ -22,6 +22,7 @@ related:
 - id: "ins-world-atlas-of-language-structures", title: "الأطلسُ العالميُّ لبِنى اللغة (WALS)", type: "منهج/أداة بحث"
 - id: "con-linguistic-iconicity", title: "الإيقونيةُ اللغوية (Linguistic Iconicity)", type: "مفهوم"
 - id: "con-evidentiality", title: "الإثباتيةُ أو الاستشهادية (Evidentiality)", type: "مفهوم"
+- id: "con-ergativity", title: "النمطُ الفاعلي-المفعولي مقابل الإرغاتيفي (Nominative-Accusative vs. Ergative Alignment)", type: "مفهوم"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`) — منهجٌ استقرائيٌّ مقارنٌ مستقلٌّ عن التوليدية والبنيوية، وإن تقاطع معهما موضوعياً."
   - "مارتن هاسپلماث لم يُفرَد بعد كمفكرٍ مستقل. **سُدَّ جزئياً 2026-09-21 (الدفعة 48)**: أُنشئ `thk-bernard-comrie` و`ins-world-atlas-of-language-structures`."
