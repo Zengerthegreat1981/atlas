@@ -20,6 +20,7 @@ related:
 - id: "con-phoneme", title: "الفونيم", type: "مفهوم"
 - id: "sch-prague-linguistic-circle", title: "حلقةُ براغ اللسانية (Prague Linguistic Circle)", type: "مدرسة"
 - id: "thk-prince-smolensky", title: "آلان برنس وپول سمولنسكي", type: "مفكر"
+- id: "con-vowel-harmony", title: "توافقُ الصوائت (Vowel Harmony)", type: "مفهوم"
 gaps: []
 ---
 
