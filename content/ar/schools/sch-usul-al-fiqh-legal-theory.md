@@ -34,7 +34,9 @@ related:
 - id: "wrk-al-risala-shafii", title: "الرسالةُ في أصول الفقه", type: "عمل / كتاب"
 - id: "con-zahiri-rejection-of-qiyas-ibn-hazm", title: "الرفضُ الظاهريُّ للقياس عند ابن حزم", type: "مفهوم"
 - id: "con-urf-custom-usul", title: "العُرفُ في أصول الفقه (Al-'Urf — Custom as a Source of Law)", type: "مفهوم"
+- id: "con-istishab-presumption-continuity-usul", title: "الاستصحابُ (Istishab — Presumption of Continuity)", type: "مفهوم"
 gaps:
+  - "**تعميقٌ 2026-09-22**: أُضيف `con-istishab-presumption-continuity-usul` (استمرارُ الحكم الأصلي حتى يقوم دليلٌ على تغيّره؛ آخرُ مصادر الاستدلال الفرعية الكبرى غير المدرَجة)."
   - "**تعميقٌ 2026-09-22**: أُضيف `con-urf-custom-usul` (العرفُ مصدرٌ فرعيٌّ للتشريع، لم يُفرَد له ملفٌّ مستقلٌّ رغم شيوع الاستشهاد به)."
   - "**تعميقٌ 2026-09-22**: أُضيفت `thk-al-shafii` و`wrk-al-risala-shafii` — أوّلُ نصٍّ أصوليٍّ منهجيٍّ مكتمل، كان مذكوراً في المسار التاريخي دون عقدتَين مستقلّتَين."
   - "**تعميقٌ 2026-09-22**: أُضيفت `wrk-al-ihkam-al-amidi` (أحدُ الأركان الأربعة الكلاسيكية لأصول الفقه)."
