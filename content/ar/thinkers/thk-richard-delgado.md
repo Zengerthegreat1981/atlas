@@ -20,6 +20,7 @@ related:
 - id: "thk-derrick-bell", title: "دِريك بِل (Derrick Bell)", type: "مفكر"
 - id: "con-legal-storytelling-counter-narrative", title: "السردُ القانونيُّ المضادّ (Legal Storytelling/Counter-Narrative)", type: "مفهوم"
 - id: "thk-jean-stefancic", title: "جين ستيفانيك (Jean Stefancic)", type: "مفكر"
+- id: "thk-mari-matsuda", title: "ماري ماتسودا (Mari J. Matsuda)", type: "مفكر"
 gaps:
   - "**تعميقٌ 2026-09-22**: أُضيفت `thk-jean-stefancic` (شريكتُه في تأليف المرجع التعريفي)."
   - "**سُدَّ 2026-09-21**: كان مذكوراً كأحد كتّاب المرجع الأساسي لـCRT (*Critical Race Theory: An Introduction*) في `sch-critical-race-theory-law` دون ملفٍّ مستقل؛ أُنشئ الآن."

@@ -21,6 +21,7 @@ related:
 - id: "thk-crenshaw", title: "كيمبرلي كرنشو", type: "مفكر"
 - id: "thk-richard-delgado", title: "ريتشارد دلغادو (Richard Delgado)", type: "مفكر"
 - id: "con-legal-storytelling-counter-narrative", title: "السردُ القانونيُّ المضادّ (Legal Storytelling/Counter-Narrative)", type: "مفهوم"
+- id: "thk-mari-matsuda", title: "ماري ماتسودا (Mari J. Matsuda)", type: "مفكر"
 gaps:
   - "**سُدَّ 2026-09-21**: أُضيفت `thk-richard-delgado` و`con-legal-storytelling-counter-narrative` (منهجُ *And We Are Not Saved* موثَّقٌ الآن بملفٍّ مستقل)."
   - "استقالتُه الاحتجاجيةُ من هارفارد عام 1990 اعتراضاً على غياب أستاذاتٍ من النساء الملوَّنات في هيئة التدريس — حدثٌ مؤسِّسٌ في تاريخ الحركة — أُشير إليه إجمالاً دون تفصيل وقائعه."

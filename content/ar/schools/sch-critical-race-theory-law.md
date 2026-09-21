@@ -22,7 +22,9 @@ related:
 - id: "con-interest-convergence-bell", title: "التقاءُ المصالح (Interest Convergence)", type: "مفهوم"
 - id: "thk-richard-delgado", title: "ريتشارد دلغادو (Richard Delgado)", type: "مفكر"
 - id: "con-legal-storytelling-counter-narrative", title: "السردُ القانونيُّ المضادّ (Legal Storytelling/Counter-Narrative)", type: "مفهوم"
+- id: "thk-mari-matsuda", title: "ماري ماتسودا (Mari J. Matsuda)", type: "مفكر"
 gaps:
+  - "**سُدَّ 2026-09-22**: أُضيفت `thk-mari-matsuda` (رابعُ الأعلام المؤسّسين لـCRT)."
   - "**سُدَّ 2026-09-21**: أُضيفت `thk-richard-delgado` و`con-legal-storytelling-counter-narrative` (كان دلغادو مذكوراً كمؤلِّفٍ في المصادر دون ملفٍّ مستقل)."
   - "هذا الملفُّ أُنشئ في الدفعة 11 من مهمة بناء قسم نظرية القانون (القسم 4 من `legal-theory-schools-backlog.md`)."
   - "**اربط ولا تكرّر**: `thk-crenshaw` (فلسفة) موجودةٌ بالفعل وتوثّق مفهومَ التقاطعية ودورَها في تأسيس CRT بتفصيلٍ جيد؛ لم يُنشأ ملفٌّ ثانٍ لها هنا، بل اكتُفي بالربط."
