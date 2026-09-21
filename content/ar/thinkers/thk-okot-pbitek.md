@@ -22,6 +22,8 @@ related:
 - id: "sch-african-psychology", title: "علم النفس الأفريقي", type: "مدرسة"
 - id: "sch-african-decolonial", title: "الفلسفة الأفريقية الديكولونيالية", type: "مدرسة"
 - id: "con-ubuntu", title: "الأوبونتو (Ubuntu)", type: "مفهوم"
+- id: "thk-john-mbiti", title: "جون مبيتي (John S. Mbiti)", type: "مفكر"
+- id: "sch-african-traditional-religions-classification-debate", title: "الأديانُ الأفريقيةُ التقليديةُ ونقدُ تصنيفها", type: "مدرسة"
 gaps:
   - "كتاب 'Decolonizing African Religion' (1990s) صدر بعد وفاته ولم يُنقَّح."
   - "لا توجد ترجمة عربية لـSong of Lawino أو Hare and Hornbill."
