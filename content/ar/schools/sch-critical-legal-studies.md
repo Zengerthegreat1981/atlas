@@ -20,7 +20,9 @@ related:
 - id: "thk-duncan-kennedy", title: "دنكان كينيدي (Duncan Kennedy)", type: "مفكر"
 - id: "thk-roberto-unger", title: "روبرتو أنغر (Roberto Mangabeira Unger)", type: "مفكر"
 - id: "con-legal-indeterminacy-cls", title: "لاإحداثيةُ القانون والتناقضُ الجوهري (Legal Indeterminacy)", type: "مفهوم"
+- id: "thk-mark-tushnet", title: "مارك توشنت (Mark Tushnet)", type: "مفكر"
 gaps:
+  - "**سُدَّ 2026-09-21**: أُضيف `thk-mark-tushnet` (كان مذكوراً في المصادر دون ملفٍّ مستقل)."
   - "هذا الملفُّ أُنشئ في الدفعة 10 من مهمة بناء قسم نظرية القانون (القسم 4 من `legal-theory-schools-backlog.md`). سُمّي المؤتمرُ التأسيسيُّ الأول للحركة (Conference on Critical Legal Studies) عام 1977 في ويسكونسن؛ لم تُفصَّل هنا وقائعُه."
   - "النظريةُ العنصريةُ النقدية (CRT) والفقهُ القانونيُّ النسويُّ، وكلاهما تفرَّع جزئياً من CLS مع انتقادٍ لتجاهلها معياريّ العرق والنوع الاجتماعي تحديداً، لم يُكتبا بعد؛ بندان منفصلان في الـbacklog."
 ---
