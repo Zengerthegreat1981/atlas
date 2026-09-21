@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-computational-linguistics-nlp", title: "اللسانياتُ الحاسوبيةُ ومعالجةُ اللغة الطبيعية (Computational Linguistics & NLP)", type: "مدرسة"
 - id: "sch-translation-studies", title: "الترجمةُ الآليةُ ونظريةُ الترجمة (Translation Studies)", type: "مدرسة"
+- id: "ctx-cold-war-machine-translation-funding", title: "الحربُ الباردة وتمويلُ الترجمة الآلية المبكرة", type: "سياق/تقليد"
 gaps: []
 ---
 
