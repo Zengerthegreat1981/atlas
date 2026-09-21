@@ -39,6 +39,7 @@ related:
 - id: "con-grammatical-gender-noun-classes", title: "الجنسُ النحويُّ وأصنافُ الأسماء (Grammatical Gender & Noun Classes)", type: "مفهوم"
 - id: "con-writing-systems-typology", title: "نمطيةُ أنظمة الكتابة (Writing Systems Typology)", type: "مفهوم"
 - id: "con-ideophones", title: "المفرداتُ التصويرية (Ideophones)", type: "مفهوم"
+- id: "con-switch-reference-systems", title: "أنظمةُ تبديل المرجع (Switch-Reference Systems)", type: "مفهوم"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`) — منهجٌ استقرائيٌّ مقارنٌ مستقلٌّ عن التوليدية والبنيوية، وإن تقاطع معهما موضوعياً."
   - "مارتن هاسپلماث لم يُفرَد بعد كمفكرٍ مستقل. **سُدَّ جزئياً 2026-09-21 (الدفعة 48)**: أُنشئ `thk-bernard-comrie` و`ins-world-atlas-of-language-structures`."
