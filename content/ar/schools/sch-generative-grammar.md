@@ -22,6 +22,7 @@ related:
 - id: "thk-noam-chomsky", title: "نعوم تشومسكي", type: "مفكر"
 - id: "wrk-syntactic-structures", title: "البنى النحوية (Syntactic Structures)", type: "عمل / كتاب"
 - id: "wrk-aspects-theory-syntax-chomsky", title: "جوانبُ نظرية النحو (Aspects of the Theory of Syntax)", type: "عمل / كتاب"
+- id: "dia-chomsky-skinner-verbal-behavior-review", title: "نقدُ تشومسكي لكتاب سكينر السلوك اللفظي (1959)", type: "حوار مع مدرسة مجاورة"
 - id: "con-deep-surface-structure", title: "البنيةُ العميقة والبنيةُ السطحية", type: "مفهوم"
 - id: "dbt-innateness-vs-usage-based-language-acquisition", title: "جدلُ الفطرية اللغوية مقابل الاستعمالية في اكتساب اللغة", type: "جدل"
 - id: "sch-first-language-acquisition", title: "اكتسابُ اللغة الأولى ومراحلُه", type: "مدرسة"
