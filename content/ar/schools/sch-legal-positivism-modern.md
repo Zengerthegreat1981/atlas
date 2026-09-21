@@ -20,8 +20,12 @@ related:
 - id: "thk-lon-fuller", title: "لون فولر (Lon L. Fuller)", type: "مفكر"
 - id: "thk-ronald-dworkin", title: "رونالد دوركين (Ronald Dworkin)", type: "مفكر"
 - id: "thk-john-austin-jurisprudence", title: "جون أوستن (John Austin — نظريةُ الأمر القانونية)", type: "مفكر"
+- id: "thk-patrick-devlin", title: "باتريك دِفلن (Patrick Devlin)", type: "مفكر"
+- id: "thk-joseph-raz", title: "جوزيف راز (Joseph Raz)", type: "مفكر"
+- id: "thk-jules-coleman", title: "جولز كولمان (Jules Coleman)", type: "مفكر"
 - id: "sch-usul-al-fiqh-legal-theory", title: "أصولُ الفقه بوصفه نظريةً قانونية (Usul al-Fiqh as Legal Theory)", type: "مدرسة"
 gaps:
+  - "**سُدَّ 2026-09-21 (الدفعة 12)**: أُضيف `thk-patrick-devlin`، `thk-joseph-raz`، `thk-jules-coleman` — كانا مذكورَين في `gaps` كبندَين منتظرَين (جدلُ هارت-دِفلن، والوضعيةُ الشاملة/الحصرية). القسمُ 2 من الـbacklog مكتملٌ الآن بالكامل."
   - "**سُدَّ 2026-09-15 (الدفعة 8)**: أُضيف `thk-john-austin-jurisprudence` (الوضعيةُ الكلاسيكية، نظريةُ الأمر) — كان مذكوراً في `gaps` كبندٍ منتظر."
   - "هذا الملفُّ أُنشئ في الدفعة 3 من مهمة بناء قسم نظرية القانون (القسم 2 من `legal-theory-schools-backlog.md`)، وهو ثاني جذعٍ رئيسٍ في القسم بعد أصول الفقه. `belongs_to` تُرك فارغاً: لا جذرَ عامّ لنظرية القانون بعد."
   - "**بنثامُ وأوستنُ (الوضعيةُ الكلاسيكيةُ ونظريةُ الأمر)** لم يُكتبا بعدُ في هذه الدفعة رغم ذكرهما في البند الأصلي بالـbacklog؛ يُترك لدفعةٍ لاحقة صريحة تحت هذا الجذع نفسِه، مع التنبيه على أنّ `thk-bentham` القائمَ فلسفةٌ ولا يُستنسخ."

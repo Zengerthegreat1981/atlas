@@ -20,8 +20,8 @@
 - [x] النظريةُ الخالصةُ للقانون (كِلسن، القاعدةُ الأساسيةُ Grundnorm، هرمُ القواعد) — الدفعةُ 3: `thk-hans-kelsen`، `con-grundnorm-basic-norm-kelsen`، `wrk-pure-theory-of-law-kelsen`، `sch-legal-positivism-modern`
 - [x] هارت ومفهومُ القانون (القواعدُ الأوليةُ والثانوية، قاعدةُ الاعتراف) — الدفعةُ 3: `thk-hla-hart`، `con-rule-of-recognition-hart`، `wrk-the-concept-of-law-hart`
 - [x] جدلُ هارت–فولر (القانونُ والأخلاقُ وقضايا ما بعد النازية) — الدفعةُ 3: `thk-lon-fuller`، `con-internal-morality-of-law-fuller`، `wrk-the-morality-of-law-fuller`، `dbt-hart-fuller-law-morality-debate`
-- [ ] جدلُ هارت–دِفلن (فرضُ الأخلاق قانوناً)
-- [ ] الوضعيةُ الشاملةُ والحصرية (راز، كولمان)
+- [x] جدلُ هارت–دِفلن (فرضُ الأخلاق قانوناً) — الدفعةُ 12: `thk-patrick-devlin`، `dbt-hart-devlin-morals-legislation`
+- [x] الوضعيةُ الشاملةُ والحصرية (راز، كولمان) — الدفعةُ 12: `thk-joseph-raz`، `thk-jules-coleman`، `con-exclusive-inclusive-positivism`
 
 ## 3. التأويلُ والمبدأ
 - [x] دوركين ونظريةُ القانون بوصفه نزاهةً (*Law's Empire*، القاضي هرقل) — الدفعةُ 4: `thk-ronald-dworkin`، `con-law-as-integrity-dworkin`، `wrk-laws-empire-dworkin`
