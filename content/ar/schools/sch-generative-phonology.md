@@ -19,8 +19,8 @@ edges:
 related:
 - id: "con-phoneme", title: "الفونيم", type: "مفهوم"
 - id: "sch-prague-linguistic-circle", title: "حلقةُ براغ اللسانية (Prague Linguistic Circle)", type: "مدرسة"
-gaps:
-  - "آلان برنس (Alan Prince) وپول سمولنسكي (Paul Smolensky)، مؤسّسا النظرية التفاؤلية (Optimality Theory)، لم يُفرَدا بعد كمفكرَين مستقلَّين."
+- id: "thk-prince-smolensky", title: "آلان برنس وپول سمولنسكي", type: "مفكر"
+gaps: []
 ---
 
 # الصرفُ التوليديُّ والصواتةُ التوليدية
