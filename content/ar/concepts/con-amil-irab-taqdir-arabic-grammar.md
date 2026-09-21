@@ -14,6 +14,7 @@ edges:
 related:
 - id: "thk-sibawayh", title: "سيبويه (عمرو بن عثمان بن قنبر)", type: "مفكر"
 - id: "wrk-al-kitab-sibawayh", title: "الكتاب", type: "عمل / كتاب"
+- id: "con-grammatical-case-systems", title: "أنظمةُ الحالة الإعرابية (Grammatical Case Systems)", type: "مفهوم"
 gaps: []
 ---
 
