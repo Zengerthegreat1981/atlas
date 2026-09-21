@@ -19,8 +19,8 @@ edges:
 related:
 - id: "con-diglossia", title: "الازدواجيةُ اللغوية (Diglossia)", type: "مفهوم"
 - id: "sch-language-ideology", title: "الأيديولوجياتُ اللغوية (Language Ideology)", type: "مدرسة"
-gaps:
-  - "وولاس لامبرت، مبتكرُ التقنية، لم يُفرَد بعد كمفكرٍ مستقل — ثغرةٌ صادقةٌ تُترك لدفعةٍ لاحقة."
+- id: "thk-wallace-lambert", title: "وولاس لامبرت", type: "مفكر"
+gaps: []
 ---
 
 # تقنيةُ الهيئة المتطابقة
