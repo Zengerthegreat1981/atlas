@@ -38,7 +38,9 @@
 - [x] وظائفُ اللغة عند ياكوبسون ونموذجُ التواصل — `con-jakobson-communication-functions` (الدفعة 4).
 - [x] حلقةُ كوبنهاغن واللسانياتُ الصورية (يلمسليف، Glossematics) — `sch-copenhagen-glossematics`، `thk-louis-hjelmslev` (الدفعة 5).
 - [x] البنيويةُ الأمريكيةُ والتوزيعية (بلومفيلد، هاريس) — `sch-american-structural-linguistics`، `thk-leonard-bloomfield`، `thk-zellig-harris` (الدفعة 27). ربطُه بتشومسكي (تلميذُه المباشر) موثَّقٌ نصّياً.
-- [~] اللسانياتُ التاريخيةُ والمقارنة (النحوُ المقارن، قانونُ غريم، إعادةُ بناء الهندو-أوروبية) — `sch-historical-comparative-linguistics`، `thk-william-jones`، `con-grimms-law` (الدفعة 4). يتبقّى: ياكوب غريم كمفكرٍ مستقل، إعادةُ البناء المقارن كمفهومٍ مفرد.
+- [x] اللسانياتُ التاريخيةُ والمقارنة (النحوُ المقارن، قانونُ غريم، إعادةُ بناء الهندو-أوروبية) — `sch-historical-comparative-linguistics`، `thk-william-jones`، `con-grimms-law`، `thk-jacob-grimm`، `con-comparative-reconstruction-method` (الدفعة 28).
+
+**القسمُ 2 مكتمل.**
 
 ## 3. التوليدية وما بعدها (Generative & Formal)
 
