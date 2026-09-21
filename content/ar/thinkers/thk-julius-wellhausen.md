@@ -19,6 +19,7 @@ edges:
 related:
 - id: "sch-higher-criticism-biblical-studies", title: "النقدُ الأعلى ودراساتُ الكتاب المقدَّس النقدية", type: "مدرسة"
 - id: "con-documentary-hypothesis-wellhausen", title: "الفرضيةُ الوثائقية (JEDP) عند فلهاوزن", type: "مفهوم"
+- id: "sch-religionsgeschichtliche-schule", title: "مدرسةُ تاريخ الأديان الألمانية (Religionsgeschichtliche Schule)", type: "مدرسة"
 gaps:
   - "استقالته من كرسي اللاهوت في غرايفسفالد سنة 1882 (بعد أن رأى أن نتائجه النقدية تتعارض مع تأهيل طلاب اللاهوت الكنسي) موثّقةٌ في سيرته الأكاديمية؛ لم تُفصَّل هنا بمصدرٍ ثانٍ مستقل وقت الكتابة."
   - "أعماله اللاحقة في تاريخ العرب قبل الإسلام (*Reste arabischen Heidentums*, 1887) خارج نطاق هذا الملف المخصَّص لإسهامه في نقد التوراة تحديداً."
