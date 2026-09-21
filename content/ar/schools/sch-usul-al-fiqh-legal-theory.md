@@ -24,6 +24,8 @@ related:
 - id: "wrk-al-mustasfa-ghazali", title: "المستصفى من علم الأصول", type: "عمل"
 - id: "con-siyasa-shariyya-ibn-taymiyya", title: "السياسةُ الشرعيةُ والفرقُ بين الفقه والقانون (Al-Siyasa al-Shar'iyya)", type: "مفهوم"
 - id: "wrk-al-siyasa-al-shariyya-ibn-taymiyya", title: "السياسةُ الشرعية في إصلاح الراعي والرعية", type: "عمل"
+- id: "con-maslaha-mursala-usul", title: "المصالحُ المرسلة (Maslaha Mursala)", type: "مفهوم"
+- id: "con-sadd-al-dharai-usul", title: "سدُّ الذرائع (Sadd al-Dhara'i)", type: "مفهوم"
 gaps:
   - "**الدفعةُ 22 (السياسة الشرعية)** أُلحقت هنا؛ القسمُ الأول من الـbacklog (القانون الطبيعي وتقاليده) مكتملٌ بالكامل الآن."
   - "هذا الملفُّ أُنشئ في الدفعة 1 من مهمة بناء قسم نظرية القانون (القسم 1 من `legal-theory-schools-backlog.md`)، وهو أوّلُ عقدةٍ في القسم. `belongs_to` تُرك فارغاً: لا جذرَ عامّ لنظرية القانون في المستودع بعد."
