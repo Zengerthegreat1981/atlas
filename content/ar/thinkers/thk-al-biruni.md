@@ -21,6 +21,7 @@ related:
 - id: "sch-manicheism", title: "المانوية", type: "مدرسة"
 - id: "con-zurvan-infinite-time", title: "زُروان والزمان اللانهائي (Zurvan / Infinite Time)", type: "مفهوم"
 - id: "con-emanation-islamic", title: "الفيض الإلهي (المشائية الإسلامية)", type: "مفهوم"
+- id: "dbt-objectivity-spectrum-arabic-heresiography", title: "طيفُ الموضوعية في أدب الملل والنِّحَل العربيِّ الكلاسيكي", type: "جدل"
 gaps:
   - "سنة الميلاد الدقيقة للبيروني (973 أم 962) لا تزال موضع خلاف بين المصادر."
   - "نسب أعماله الفارسية التي فقد معظمها تحتاج مراجعة نقدية."

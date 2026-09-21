@@ -22,6 +22,7 @@ related:
 - id: "thk-al-biruni", title: "أبو الريحان البيروني", type: "مفكر"
 - id: "thk-ibn-hazm", title: "أبو محمد علي بن أحمد بن حزم الأندلسي", type: "مفكر"
 - id: "sch-academic-islamic-studies-orientalism-critique", title: "دراسةُ الإسلام أكاديمياً ونقدُ الاستشراق", type: "مدرسة"
+- id: "dbt-objectivity-spectrum-arabic-heresiography", title: "طيفُ الموضوعية في أدب الملل والنِّحَل العربيِّ الكلاسيكي", type: "جدل"
 gaps:
   - "أُضيف رابطٌ إلى `sch-academic-islamic-studies-orientalism-critique` (الدفعة 22) الذي يقارن مشروعه الوصفيّ قبل الحديث بمشروع الاستشراق الأوروبي الحديث ونقده عند سعيد."
   - "تاريخُ تأليف *الملل والنحل* غير مثبت بدقة؛ active_start اعتُمد تقريباً سنة 1127 (وفق ما ترجّحه بعض الدراسات الاستشراقية لبداية تصنيفه)، وهذا مذكور كتقريب لا يقين."
