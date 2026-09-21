@@ -19,9 +19,9 @@ edges:
 related:
 - id: "thk-louis-hjelmslev", title: "لويس يلمسليف", type: "مفكر"
 - id: "sch-saussurean-structuralism", title: "البنيويةُ السوسيرية (Saussurean Structuralism)", type: "مدرسة"
+- id: "con-form-substance-expression-content-hjelmslev", title: "الشكلُ والجوهرُ في التعبير والمحتوى (Form/Substance، Expression/Content)", type: "مفهوم"
 gaps:
-  - "هانز يورغن أولدال (Hans Jørgen Uldall)، الشريكُ المؤسِّس مع يلمسليف، لم يُفرَد بملفِّ مفكرٍ مستقل."
-  - "التمييزُ الدقيق بين مصطلحات النسق (الشكل، الجوهر، المادة) في كلٍّ من مستوى التعبير والمحتوى موضوعٌ تقنيٌّ لم يُفرَد بملفِّ مفهومٍ مستقل بعد."
+  - "هانز يورغن أولدال (Hans Jørgen Uldall)، الشريكُ المؤسِّس مع يلمسليف، لم يُفرَد بملفِّ مفكرٍ مستقل. **سُدَّ جزئياً 2026-09-21 (الدفعة 49)**: أُنشئت `con-form-substance-expression-content-hjelmslev`."
 ---
 
 # حلقةُ كوبنهاغن واللسانياتُ الصورية
