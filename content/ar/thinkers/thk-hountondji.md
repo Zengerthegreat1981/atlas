@@ -17,7 +17,9 @@ edges:
 related:
 - id: "sch-african-professional-philosophy", title: "الفلسفة الأفريقية المهنية/الأكاديمية", type: "مدرسة"
 - id: "sch-ethnophilosophy", title: "الإثنوفلسفة", type: "مدرسة"
+- id: "sch-african-traditional-religions-classification-debate", title: "الأديانُ الأفريقيةُ التقليديةُ ونقدُ تصنيفها", type: "مدرسة"
 gaps:
+  - "سُدَّت 2026-09-22 (الدفعة 66، عبر religious-studies): رُبط هذا الملفُّ من `sch-african-traditional-religions-classification-debate` بوصف نقده للإثنوفلسفة ممتدّاً ضمناً إلى تصنيف جون مبيتي التصنيفيّ للأديان الأفريقية."
   - "نصوص Hountondji (Sur la philosophie africaine, The Struggle for Meaning) تحتاج مراجعة من المصدر الأولي."
   - "رابط لـ'أكينسولا أكيووو' لا يزال مؤجلاً — الـslug الأصلي (thk-rcabrera) تحت الحجر لعدم مطابقة اسمه (انظر quarantine-minimax.md وطلب R-008)."
   - "رابط لـ'تويين فالولا' (thk-twolofor) أُزيل — الملف المستهدف هوية غير محدَّدة قيد المراجعة (انظر requests-minimax.md R-006)."
