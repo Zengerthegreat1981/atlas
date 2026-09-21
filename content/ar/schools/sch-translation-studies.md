@@ -19,6 +19,7 @@ related:
 - id: "thk-eugene-nida", title: "يوجين نايدا", type: "مفكر"
 - id: "thk-lawrence-venuti", title: "لورانس ڤينوتي", type: "مفكر"
 - id: "sch-computational-linguistics-nlp", title: "اللسانياتُ الحاسوبيةُ ومعالجةُ اللغة الطبيعية (Computational Linguistics & NLP)", type: "مدرسة"
+- id: "evt-alpac-report-machine-translation-1966", title: "تقريرُ ألباك (ALPAC) وأزمةُ تمويل الترجمة الآلية 1966", type: "حدث تاريخي"
 gaps:
   - "أنطوان برمان (Antoine Berman)، منظّرٌ فرنسيٌّ موازٍ لڤينوتي، لم يُفرَد بعد كمفكرٍ مستقل. **سُدَّ جزئياً 2026-09-21 (الدفعة 37)**: أُنشئ `thk-lawrence-venuti`."
 ---
