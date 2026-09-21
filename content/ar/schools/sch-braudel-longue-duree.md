@@ -18,6 +18,7 @@ active_end: 1970
 edges:
 - rel: "belongs_to", target: "sch-annales-first-generation", target_type: "مدرسة"
 related:
+- id: "thk-fernand-braudel", title: "فرنان بروديل", type: "مفكر"
 - id: "sch-annales-first-generation", title: "مدرسةُ الحوليّات — الجيلُ الأوّل (مارك بلوك ولوسيان فيڤر)", type: "مدرسة"
 - id: "sch-annales-third-generation-mentalities", title: "الجيلُ الثالثُ وتاريخُ الذهنيات (لو غوف وديبي وشارتييه)", type: "مدرسة"
 - id: "sch-cliometrics-quantitative-economic-history", title: "التاريخُ الكمّيُّ والتاريخُ الاقتصاديُّ القياسيّ (Cliometrics)", type: "مدرسة"
