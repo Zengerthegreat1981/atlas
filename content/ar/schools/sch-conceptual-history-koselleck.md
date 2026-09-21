@@ -18,6 +18,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-linguistic-turn-metahistory-white", target_type: "مدرسة"
 related:
+- id: "thk-reinhart-koselleck", title: "راينهارت كوزلّك", type: "مفكر"
 - id: "sch-linguistic-turn-metahistory-white", title: "المنعطفُ اللغويُّ والتاريخُ بوصفه سرداً (هايدن وايت — Metahistory)", type: "مدرسة"
 gaps:
   - "لم يُنشأ بعد ملفُّ مفكرٍ مستقلّ لراينهارت كوزلّك (1923–2006)؛ يُذكر هنا وصفاً لمشروعه دون سيرةٍ مستقلة موثَّقة بمصدرين — سيُفرَد له ملفٌّ في دفعةٍ لاحقة."

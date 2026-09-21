@@ -18,6 +18,8 @@ active_end: 1992
 edges:
 - rel: "belongs_to", target: "sch-microstoria-italian-micro-history", target_type: "مدرسة"
 related:
+- id: "thk-pierre-nora", title: "پيير نورا", type: "مفكر"
+- id: "thk-maurice-halbwachs", title: "موريس هالبڤاكس", type: "مفكر"
 - id: "sch-microstoria-italian-micro-history", title: "التاريخُ الجزئيُّ والمصغَّر (Microstoria — غينزبورغ وليڤي)", type: "مدرسة"
 - id: "rel-collective-memory-historical-trauma", title: "الذاكرةُ الجمعيةُ والصدمةُ التاريخية: جسرٌ بين التأريخ وعلم النفس", type: "علاقة بين مدرستين"
 - id: "thk-jeffrey-olick", title: "جيفري أوليك", type: "مفكر"
