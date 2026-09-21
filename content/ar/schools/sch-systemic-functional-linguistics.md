@@ -19,6 +19,7 @@ related:
 - id: "thk-michael-halliday", title: "مايكل هاليداي", type: "مفكر"
 - id: "thk-jr-firth", title: "جون روبرت فيرث", type: "مفكر"
 - id: "con-metafunctions-halliday", title: "الوظائفُ الفوقية الثلاث (Metafunctions)", type: "مفهوم"
+- id: "wrk-introduction-functional-grammar-halliday", title: "مدخلٌ إلى النحو الوظيفي (An Introduction to Functional Grammar)", type: "عمل / كتاب"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`) — تيارٌ وظيفيٌّ مستقلٌّ عن التوليدية والبنيوية الأمريكية، وإن استفاد من تراث مدرسة لندن (فيرث)."
   - "**سُدَّ 2026-09-21 (الدفعة 47)**: أُنشئ `thk-jr-firth` (أصلُ مدرسة لندن) و`con-metafunctions-halliday`."

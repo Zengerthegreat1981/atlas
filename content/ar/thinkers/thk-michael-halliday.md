@@ -18,6 +18,7 @@ edges:
 - rel: "belongs_to", target: "sch-systemic-functional-linguistics", target_type: "مدرسة"
 related:
 - id: "sch-systemic-functional-linguistics", title: "اللسانياتُ الوظيفيةُ المنهجية (Systemic Functional Linguistics)", type: "مدرسة"
+- id: "wrk-introduction-functional-grammar-halliday", title: "مدخلٌ إلى النحو الوظيفي (An Introduction to Functional Grammar)", type: "عمل / كتاب"
 gaps:
   - "بداياتُه الأكاديمية في اللسانيات الصينية (تتلمذ في الصين على وانغ لي) والتأثّر بمدرسة لندن (فيرث) موضوعٌ سياقيٌّ لم يُفصَّل هنا."
   - "مفهومُ السجل (Register) وأنواعُ النصوص (Genre) عنده موضوعٌ واسعٌ في تحليل الخطاب لم يُفرَد بملفِّ مفهومٍ مستقل بعد."
