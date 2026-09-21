@@ -46,9 +46,9 @@
 - [x] النظريةُ المعياريةُ والحاكميةُ والربط (Government & Binding) — `sch-government-and-binding-theory` (الدفعة 14).
 - [x] البرنامجُ الأدنويّ (The Minimalist Program) — `sch-minimalist-program` (الدفعة 14). عمليةُ الدمج (Merge) كمفهومٍ مفرد لم تُنشأ بعد.
 - [ ] النحوُ الكلّيُّ وفقرُ المحفِّز وجدلُ الفطرية (Universal Grammar & the Innateness Debate)
-- [ ] النحوُ التوليديُّ المعجميُّ الوظيفيّ وHPSG (بدائلُ صوريّة)
+- [x] النحوُ التوليديُّ المعجميُّ الوظيفيّ وHPSG (بدائلُ صوريّة) — `sch-lexical-functional-grammar-hpsg` (الدفعة 21). برسنان وساغ لم يُفرَدا بعد.
 - [x] الدلالةُ الصوريةُ ونحوُ مونتاغيو (Formal Semantics) — `sch-formal-semantics-montague-grammar`، `thk-richard-montague` (الدفعة 14). باربارا بارتة لم تُفرَد بعد.
-- [ ] الصرفُ التوليديُّ والصواتةُ التوليدية (Generative Phonology — SPE، النظريةُ التفاؤلية)
+- [x] الصرفُ التوليديُّ والصواتةُ التوليدية (Generative Phonology — SPE، النظريةُ التفاؤلية) — `sch-generative-phonology` (الدفعة 21). برنس وسمولنسكي لم يُفرَدا بعد.
 
 ## 4. الوظيفيةُ والنمطية (Functional & Typological)
 
@@ -62,9 +62,11 @@
 
 - [x] اللسانياتُ المعرفيةُ ونحوُ لانغاكر (Cognitive Grammar) — `sch-cognitive-linguistics`، `thk-ronald-langacker` (الدفعة 8).
 - [x] نظريةُ الاستعارة المفهومية (Lakoff & Johnson — *Metaphors We Live By*) — `con-conceptual-metaphor-theory` (الدفعة 8). لاكوف (psychology) رُبط ولم يُكرَّر؛ مارك جونسون لم يُفرَد بعد.
-- [ ] فضاءاتُ الذهن والمزجُ المفهوميّ (Fauconnier & Turner)
+- [x] فضاءاتُ الذهن والمزجُ المفهوميّ (Fauconnier & Turner) — `sch-conceptual-blending-theory`، `thk-gilles-fauconnier`، `thk-mark-turner` (الدفعة 21).
 - [~] النظريةُ النموذجيةُ والتصنيف (Prototype Theory — Rosch, Berlin & Kay) — `con-prototype-theory-linguistics` (الدفعة 8). روش (psychology) رُبطت ولم تُكرَّر. يتبقّى: بيرلين وكاي (تصنيف الألوان).
-- [ ] النسبيةُ اللغويةُ وفرضيةُ سابير-وورف (وجدلُها المعاصر: Boroditsky، Levinson)
+- [x] النسبيةُ اللغويةُ وفرضيةُ سابير-وورف (وجدلُها المعاصر: Boroditsky، Levinson) — `con-linguistic-relativity-contemporary-debate` (الدفعة 21). `sch-linguistic-relativity` (anthropology) رُبطت ولم تُكرَّر. حيادٌ صريحٌ محفوظ.
+
+**القسمُ 5 مكتمل.**
 
 ## 6. اللغةُ في المجتمع (Sociolinguistics & Anthropology of Language)
 
