@@ -23,8 +23,9 @@ related:
 - id: "con-deafferentation-hypothesis-neurotheology", title: "فرضيةُ إزالة الوارد العصبيّ (Deafferentation) في اللاهوت العصبيّ", type: "مفهوم"
 - id: "wrk-why-god-wont-go-away-newberg-daquili", title: "لماذا لن يختفي الإله: علمُ الدماغ وبيولوجيا الاعتقاد", type: "عمل / كتاب"
 - id: "dbt-neuroimaging-limits-metaphysical-claims-neurotheology", title: "جدلُ حدودِ التصوير العصبيّ: هل يحسم اللاهوتُ العصبيّ سؤالاً ميتافيزيقياً؟", type: "جدل"
+- id: "thk-eugene-daquili", title: "يوجين دكويلي (Eugene G. d'Aquili)", type: "مفكر"
 gaps:
-  - "شريكُه المؤسِّس يوجين دكويلي (Eugene d'Aquili، توفي 1998 قبل نضج المشروع البحثي) لم يُفرَد له ملفٌّ مستقل بعد؛ مذكورٌ في متن ملف المدرسة. فجوةٌ موثَّقة للدفعة القادمة."
+  - "سُدَّت 2026-09-22 (الدفعة 88): شريكُه المؤسِّس يوجين دكويلي (Eugene d'Aquili، توفي 1998) أُفرِد له الآن ملفٌّ مستقل `thk-eugene-daquili` يوثّق مشروعه الأبكر في البنيوية الحيوية التكوينية (Biogenetic Structuralism) قبل الشراكة مع نيوبرغ."
   - "سُدَّت 2026-09-22 (الدفعة 67): أُضيف ملفُّ عملٍ مستقل لكتابه المشترك مع دكويلي *Why God Won't Go Away* (2001) — `wrk-why-god-wont-go-away-newberg-daquili`."
   - "سُدَّت 2026-09-22 (الدفعة 78): الجدلُ المنهجيُّ المذكورُ في المتن أدناه (هل يحسم التصوير العصبي السؤال الميتافيزيقي؟) فُصِّل الآن في ملفّ جدلٍ مستقل يضمّ نقدَ آن تيڤز تحديداً: `dbt-neuroimaging-limits-metaphysical-claims-neurotheology` و`thk-ann-taves`."
 ---
