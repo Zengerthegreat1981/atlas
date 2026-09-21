@@ -25,6 +25,7 @@ related:
 - id: "thk-noam-chomsky", title: "نعوم تشومسكي", type: "مفكر"
 - id: "sch-generative-grammar", title: "النحوُ التوليديُّ التحويليّ (Generative-Transformational Grammar)", type: "مدرسة"
 - id: "con-deep-surface-structure", title: "البنيةُ العميقة والبنيةُ السطحية", type: "مفهوم"
+- id: "wrk-aspects-theory-syntax-chomsky", title: "جوانبُ نظرية النحو (Aspects of the Theory of Syntax)", type: "عمل / كتاب"
 gaps:
   - "الكتابُ في الأصل ملخّصٌ لمحاضرات تشومسكي، ونُشر بمساعدة مورِّس هالي بعد أن رفضته دورُ نشرٍ أكاديميةٍ عدّة قبل قبوله من ناشرٍ هولندي (Mouton)؛ تفصيلُ ذلك التاريخ لم يُستقصَ من مصدرٍ أولي هنا."
   - "الترجمةُ العربية (إن وُجدت) لم تُثبَت بمترجمٍ وناشرٍ وسنةٍ محدَّدين."
