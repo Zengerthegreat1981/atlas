@@ -22,7 +22,9 @@ related:
 - id: "wrk-laws-empire-dworkin", title: "إمبراطوريةُ القانون (Law's Empire)", type: "عمل"
 - id: "dbt-hart-dworkin-rules-principles", title: "جدلُ هارت–دوركين (القواعدُ والمبادئ)", type: "جدل"
 - id: "wrk-a-matter-of-principle-dworkin", title: "مسألةُ مبدأ (A Matter of Principle)", type: "عمل"
+- id: "wrk-taking-rights-seriously-dworkin", title: "أخذُ الحقوق على محمل الجدّ (Taking Rights Seriously)", type: "عمل"
 gaps:
+  - "**تعميقٌ 2026-09-21**: أُضيفت `wrk-taking-rights-seriously-dworkin` (أوّل كتبه، 1977)."
   - "**تعميقٌ 2026-09-21**: أُضيفت `wrk-a-matter-of-principle-dworkin` (1985، حلقةٌ بين نموذج القواعد المبكر وLaw's Empire)."
   - "**`belongs_to` هنا يوثّق موقعَه في خريطة الجدل مع الوضعية الحديثة (خلَف هارت في كرسي أكسفورد وناقشه مباشرة)، لا انتماءً عقدياً** — دوركين ناقدٌ للوضعية لا وضعيٌّ؛ نفسُ المنطق المتّبع مع `thk-lon-fuller` في هذا الجذع."
   - "مساهماتُه في نظرية العدالة التوزيعية (Sovereign Virtue، 2000) ونقده لمساواة الموارد (Equality of Resources) خارجُ نطاق هذا الملف الذي يقتصر على نظريته في طبيعة القانون؛ قد تُربط بـ`thk-rawls` مستقبلاً في عقدةٍ منفصلة."

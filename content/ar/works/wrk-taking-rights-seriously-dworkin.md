@@ -1,0 +1,46 @@
+---
+slug: "wrk-taking-rights-seriously-dworkin"
+id: "WRK-10073"
+type: "عمل / كتاب"
+part: "legal-theory"
+level: "متقدم"
+title: "أخذُ الحقوق على محمل الجدّ (Taking Rights Seriously)"
+author: "رونالد دوركين"
+author_slug: "thk-ronald-dworkin"
+publication_year: 1977
+original_language: "الإنجليزية"
+en: "Taking Rights Seriously"
+crumb: "نظريةُ القانون ← التأويلُ والمبدأ ← دوركين ← أخذُ الحقوق على محمل الجدّ"
+legal_tradition: "التأويليةُ القانونية"
+active_start: 1977
+active_end: "مستمر"
+edges:
+- rel: "authored_by", target: "thk-ronald-dworkin", target_type: "مفكر"
+related:
+- id: "thk-ronald-dworkin", title: "رونالد دوركين (Ronald Dworkin)", type: "مفكر"
+- id: "con-law-as-integrity-dworkin", title: "القانونُ بوصفه نزاهةً (Law as Integrity)", type: "مفهوم"
+- id: "wrk-laws-empire-dworkin", title: "إمبراطوريةُ القانون (Law's Empire)", type: "عمل"
+- id: "dbt-hart-dworkin-rules-principles", title: "جدلُ هارت–دوركين (القواعدُ والمبادئ)", type: "جدل"
+gaps:
+  - "أوّلُ كتابٍ لدوركين، يجمع مقالاتٍ سابقة (منها «نموذج القواعد»، 1967) مع فصولٍ جديدة؛ لم تُراجَع كلُّ المقالات الفردية على حدة هنا."
+---
+# أخذُ الحقوق على محمل الجدّ (Taking Rights Seriously)
+
+أوّلُ كتبِ [رونالد دوركين](thk-ronald-dworkin.md)، نُشر عام 1977، ويجمع مقالاتٍ كتبها منذ 1967 (بما فيها مقالتُه المؤسِّسة «نموذج القواعد» التي انتقد فيها [هارت](thk-hla-hart.md) لأول مرة) إلى جانب فصولٍ جديدة.
+
+## الحقوقُ بوصفها «أوراقَ رابحة» ضدّ الحساب الجمعي
+
+يقدّم الكتابُ الصياغةَ الأولى لأطروحة دوركين الشهيرة: **الحقوقُ الفردية «أوراقُ ربح» (Trumps)** تتفوّق على اعتبارات المنفعة الجمعية العامة — إن كان لشخصٍ حقٌّ في شيء، فلا يجوز تجاوزُ هذا الحقّ لمجرّد أنّ انتهاكه يحقّق منفعةً أكبرَ للمجموع (نقدٌ مباشرٌ للنفعية بوصفها أساساً كافياً للتشريع والقضاء).
+
+## من نموذج القواعد إلى المبادئ
+
+يضمّ الكتابُ الصياغةَ الكاملةَ لاعتراض دوركين المبكر على هارت: أنّ القضاء يستعين في الحالات الصعبة بـ**مبادئ** لا **قواعد**، وأنّ هذه المبادئَ جزءٌ من القانون رغم عدم استيفائها معيار قاعدة الاعتراف الشكلي — انظر [جدل هارت–دوركين](dbt-hart-dworkin-rules-principles.md).
+
+## الأثرُ
+
+أسّس هذا الكتابُ لدوركين مكانتَه بوصفه الناقدَ الرئيسَ للوضعية الهارتية طوال العقود اللاحقة، ومهّد مباشرةً لتطوير أطروحاته اللاحقة في [مسألة مبدأ](wrk-a-matter-of-principle-dworkin.md) (1985) و[إمبراطورية القانون](wrk-laws-empire-dworkin.md) (1986).
+
+## المصادر
+
+- Dworkin, Ronald. *Taking Rights Seriously*. Harvard University Press, 1977.
+- Hart, H.L.A. *The Concept of Law*. 2nd edition with Postscript, Oxford University Press, 1994.

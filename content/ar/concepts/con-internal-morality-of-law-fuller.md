@@ -16,8 +16,9 @@ related:
 - id: "thk-lon-fuller", title: "لون فولر (Lon L. Fuller)", type: "مفكر"
 - id: "wrk-the-morality-of-law-fuller", title: "أخلاقُ القانون (The Morality of Law)", type: "عمل"
 - id: "dbt-hart-fuller-law-morality-debate", title: "جدلُ هارت–فولر (القانونُ والأخلاق)", type: "جدل"
+- id: "crt-hart-critique-of-fuller-internal-morality", title: "نقدُ هارت لـ«الأخلاق الداخلية للقانون» عند فولر", type: "نقد خارجي موثَّق"
 gaps:
-  - "لم يُدرَج هنا نقدُ هارت المباشر لهذه الشروط (وصفُه إياها بأنها «أخلاقُ الحِرفة» لا أخلاقٌ بالمعنى الكامل، شبيهةٌ بمعايير حرفة السمّ الجيد)؛ يُترك لملفّ الجدل نفسِه."
+  - "**سُدَّ 2026-09-21**: أُنشئ `crt-hart-critique-of-fuller-internal-morality` (نقدُ هارت «أخلاقُ الحِرفة» ومثالُ السمّ الجيد)."
 ---
 # الأخلاقُ الداخليةُ للقانون (Internal Morality of Law)
 

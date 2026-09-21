@@ -21,7 +21,9 @@ related:
 - id: "wrk-the-morality-of-law-fuller", title: "أخلاقُ القانون (The Morality of Law)", type: "عمل"
 - id: "thk-hla-hart", title: "هربرت هارت (H.L.A. Hart)", type: "مفكر"
 - id: "dbt-hart-fuller-law-morality-debate", title: "جدلُ هارت–فولر (القانونُ والأخلاق)", type: "جدل"
+- id: "crt-hart-critique-of-fuller-internal-morality", title: "نقدُ هارت لـ«الأخلاق الداخلية للقانون» عند فولر", type: "نقد خارجي موثَّق"
 gaps:
+  - "**تعميقٌ 2026-09-21**: أُضيفت `crt-hart-critique-of-fuller-internal-morality` (مراجعةُ هارت النقدية لكتاب فولر، 1965 — حلقةٌ لاحقة في الجدل)."
   - "**تصنيفُ فولر هنا تحت `sch-legal-positivism-modern`**: قرارٌ تحريريٌّ يستحقّ توضيحاً — فولر ليس وضعياً بل ناقدٌ للوضعية من موقع قانونٍ طبيعيٍّ إجرائي؛ وُضع ضمن هذا الجذع لأنّ جدالَه مع هارت هو ما يعرّف حدودَ الوضعية الحديثة تاريخياً، لا لأنه وضعيّ. الرابطُ `belongs_to` هنا يوثّق موقعَه في خريطة الجدل لا انتماءه العقدي."
 ---
 # لون فولر (Lon L. Fuller)
