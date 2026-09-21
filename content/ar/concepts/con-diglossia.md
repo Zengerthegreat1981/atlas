@@ -1,6 +1,6 @@
 ---
 slug: "con-diglossia"
-id: "CON-9903"
+id: "CON-10530"
 type: "مفهوم"
 part: "linguistics"
 level: "متوسط"

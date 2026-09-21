@@ -43,11 +43,11 @@
 ## 3. التوليدية وما بعدها (Generative & Formal)
 
 - [x] النحوُ التوليديُّ التحويليّ (*Syntactic Structures*، 1957) — `sch-generative-grammar`، `wrk-syntactic-structures`، `con-deep-surface-structure` (الدفعة 3). `thk-noam-chomsky` (philosophy) رُبط ولم يُكرَّر — قرارٌ محسوم في DR-014.
-- [ ] النظريةُ المعياريةُ والحاكميةُ والربط (Government & Binding)
-- [ ] البرنامجُ الأدنويّ (The Minimalist Program)
+- [x] النظريةُ المعياريةُ والحاكميةُ والربط (Government & Binding) — `sch-government-and-binding-theory` (الدفعة 14).
+- [x] البرنامجُ الأدنويّ (The Minimalist Program) — `sch-minimalist-program` (الدفعة 14). عمليةُ الدمج (Merge) كمفهومٍ مفرد لم تُنشأ بعد.
 - [ ] النحوُ الكلّيُّ وفقرُ المحفِّز وجدلُ الفطرية (Universal Grammar & the Innateness Debate)
 - [ ] النحوُ التوليديُّ المعجميُّ الوظيفيّ وHPSG (بدائلُ صوريّة)
-- [ ] الدلالةُ الصوريةُ ونحوُ مونتاغيو (Formal Semantics)
+- [x] الدلالةُ الصوريةُ ونحوُ مونتاغيو (Formal Semantics) — `sch-formal-semantics-montague-grammar`، `thk-richard-montague` (الدفعة 14). باربارا بارتة لم تُفرَد بعد.
 - [ ] الصرفُ التوليديُّ والصواتةُ التوليدية (Generative Phonology — SPE، النظريةُ التفاؤلية)
 
 ## 4. الوظيفيةُ والنمطية (Functional & Typological)
@@ -79,7 +79,7 @@
 
 ## 7. الخطابُ والتداولية (Discourse & Pragmatics)
 
-- [ ] التداوليةُ ومبدأُ التعاون (Gricean Pragmatics) — **تقاطعٌ مع فلسفة اللغة؛ اربط ولا تكرّر**
+- [x] التداوليةُ ومبدأُ التعاون (Gricean Pragmatics) — `sch-gricean-pragmatics`، `con-conversational-implicature` (الدفعة 14). ربطٌ بـ`thk-pgrice` (philosophy) دون تكرار، تطابقاً مع نمط `sch-relevance-theory`.
 - [x] نظريةُ الملاءمة (Relevance Theory — Sperber & Wilson) — `sch-relevance-theory`، `thk-dan-sperber`، `thk-deirdre-wilson` (الدفعة 9). مربوطةٌ نقدياً بـ`thk-pgrice` (philosophy) دون تكراره.
 - [ ] تحليلُ المحادثة (Conversation Analysis — Sacks، Schegloff) — **`thk-hsacks` موجودٌ ومعزول**
 - [~] تحليلُ الخطاب النقديّ (CDA — Fairclough، van Dijk، Wodak) — `thk-norman-fairclough`، `thk-teun-van-dijk` (الدفعة 13). لا مدرسةَ `sch-` مستقلة: البنيةُ المؤسسية لـCDA موجودةٌ بالفعل تحت `sociology` (`ins-critical-discourse-analysis-fairclough`، `dbt-conversation-analysis-vs-critical-discourse-analysis`)؛ رُبط إليها دون تكرار. رود فوداك لم تُفرَد بعد.
