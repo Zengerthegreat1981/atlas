@@ -21,8 +21,9 @@ related:
 - id: "br-attachment-theory", title: "نظرية التعلق (Attachment Theory)", type: "تيار"
 - id: "thk-pehr-granqvist", title: "پهر غرانكڤيست", type: "مفكر"
 - id: "dbt-correspondence-vs-compensation-attachment-religion", title: "جدلُ التطابق مقابل التعويض في نظرية التعلّق والدين", type: "جدل"
+- id: "wrk-attachment-evolution-psychology-of-religion-kirkpatrick", title: "التعلّقُ والتطوّرُ وسيكولوجيا الدين (Attachment, Evolution, and the Psychology of Religion)", type: "عمل"
 gaps:
-  - "لا يوجد بعد ملفّ عملٍ مستقل (`wrk-`) لكتابه *Attachment, Evolution, and the Psychology of Religion* (2005)."
+  - "سُدَّت (الدفعة 65): ملفُّ العمل `wrk-attachment-evolution-psychology-of-religion-kirkpatrick` أُضيف لكتابه *Attachment, Evolution, and the Psychology of Religion* (2004/2005)."
   - "تفاصيلُ مسيرته الأكاديمية الكاملة (كلية ويليام آند ماري) موثَّقةٌ بإيجازٍ فقط لندرة المصادر الثانوية المستقلة عن أعماله المنشورة نفسها."
 ---
 

@@ -21,9 +21,10 @@ related:
 - id: "sch-cognitive-science-of-religion", title: "علمُ الأديان المعرفيّ (Cognitive Science of Religion)", type: "مدرسة"
 - id: "thk-pehr-granqvist", title: "پهر غرانكڤيست", type: "مفكر"
 - id: "dbt-correspondence-vs-compensation-attachment-religion", title: "جدلُ التطابق مقابل التعويض في نظرية التعلّق والدين", type: "جدل"
+- id: "wrk-attachment-evolution-psychology-of-religion-kirkpatrick", title: "التعلّقُ والتطوّرُ وسيكولوجيا الدين (Attachment, Evolution, and the Psychology of Religion)", type: "عمل"
 gaps:
   - "نظريةُ التعلّق الأصلية (بولبي، إينسورث) موجودةٌ بتفصيلٍ كافٍ مسبقاً تحت `psychology` (`br-attachment-theory`، `thk-bowlby`، `thk-ainsworth`)؛ لم تُكرَّر هنا، واكتُفي بربطٍ صريح والتركيز في متن هذا الملف على تطبيقها تحديداً على العلاقة بالإله."
-  - "لا يوجد بعد ملفّ عملٍ مستقل (`wrk-`) لكتاب كيركباتريك *Attachment, Evolution, and the Psychology of Religion* (2005)."
+  - "سُدَّت (الدفعة 65): ملفُّ العمل `wrk-attachment-evolution-psychology-of-religion-kirkpatrick` أُضيف لكتاب كيركباتريك *Attachment, Evolution, and the Psychology of Religion* (2004/2005)."
 ---
 
 # نظريةُ التعلّق والدين (Attachment Theory & Religion, Kirkpatrick)
