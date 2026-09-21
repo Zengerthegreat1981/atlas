@@ -17,6 +17,7 @@ active_end: 1970
 edges: []
 related:
 - id: "thk-paul-broca", title: "پول بروكا", type: "مفكر"
+- id: "thk-carl-wernicke", title: "كارل فيرنيكه", type: "مفكر"
 - id: "con-broca-wernicke-lichtheim-model", title: "نموذجُ بروكا-فيرنيكه-ليختهايم", type: "مفهوم"
 - id: "syn-broca-aphasia", title: "متلازمة حبسة بروكا التعبيرية (تعذر الطلاقة الكلامية النطقية)", type: "متلازمة"
 - id: "syn-wernicke-aphasia", title: "متلازمة حبسة فيرنيكه الاستقبالية (عمه فهم الكلام والتلفيق اللفظي)", type: "متلازمة"
