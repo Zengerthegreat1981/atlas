@@ -21,8 +21,10 @@ related:
 - id: "wrk-interpretation-of-cultures-geertz", title: "تأويلُ الثقافات (The Interpretation of Cultures)", type: "عمل / كتاب"
 - id: "wrk-negara-theatre-state-geertz", title: "نيغارا: الدولة المسرحية (Negara: The Theatre State)", type: "عمل / كتاب"
 - id: "con-deep-play-geertz", title: "اللعبُ العميق (Deep Play)", type: "مفهوم"
+- id: "sch-symbolic-anthropology-of-religion", title: "الأنثروبولوجيا الرمزيةُ والتأويليةُ للدين: تيرنر ودوغلاس وغيرتز", type: "مدرسة"
 gaps:
   - "تأثّرُ غيرتز بماكس فيبر (فهم المعنى الذاتي، Verstehen) مذكورٌ نصّاً؛ لم يُضَف ضلعُ evolved_from صريح لعدم كتابة سلسلة نسبٍ منهجيةٍ مباشرة بين فيبر وغيرتز في مصدرٍ داخل الأطلس."
+  - "أُضيف رابطٌ إلى `sch-symbolic-anthropology-of-religion` (علمُ الأديان المقارن، الدفعة 14) الذي يُبرز تعريفه الدينَ كنسقٍ رمزيّ ودراسته للإسلام المقارَن تحديداً دون تكرار سيرته هنا."
 ---
 # كليفورد غيرتز (Clifford Geertz)
 

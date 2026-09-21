@@ -20,7 +20,9 @@ related:
 - id: "con-liminality-communitas", title: "العتبةُ والكومونيتاس (Liminality & Communitas)", type: "مفهوم"
 - id: "wrk-ritual-process-turner", title: "العمليةُ الطقسية (The Ritual Process)", type: "عمل / كتاب"
 - id: "wrk-forest-of-symbols-turner", title: "غابةُ الرموز (The Forest of Symbols)", type: "عمل / كتاب"
-gaps: []
+- id: "sch-symbolic-anthropology-of-religion", title: "الأنثروبولوجيا الرمزيةُ والتأويليةُ للدين: تيرنر ودوغلاس وغيرتز", type: "مدرسة"
+gaps:
+  - "أُضيف رابطٌ إلى `sch-symbolic-anthropology-of-religion` (علمُ الأديان المقارن، الدفعة 14) الذي يُبرز إسهامه تحديداً في دراسة الدين والحجّ دون تكرار سيرته هنا."
 ---
 # فيكتور تيرنر (Victor Turner)
 

@@ -20,7 +20,9 @@ related:
 - id: "con-matter-out-of-place-douglas", title: "مادّةٌ في غير موضعها (Matter Out of Place)", type: "مفهوم"
 - id: "wrk-purity-and-danger-douglas", title: "النقاءُ والخطر (Purity and Danger)", type: "عمل / كتاب"
 - id: "wrk-how-institutions-think-douglas", title: "كيف تفكِّر المؤسسات (How Institutions Think)", type: "عمل / كتاب"
-gaps: []
+- id: "sch-symbolic-anthropology-of-religion", title: "الأنثروبولوجيا الرمزيةُ والتأويليةُ للدين: تيرنر ودوغلاس وغيرتز", type: "مدرسة"
+gaps:
+  - "أُضيف رابطٌ إلى `sch-symbolic-anthropology-of-religion` (علمُ الأديان المقارن، الدفعة 14) الذي يُبرز تحليلها لمحرَّمات الطعام الدينية تحديداً دون تكرار سيرتها هنا."
 ---
 # ماري دوغلاس (Mary Douglas)
 
