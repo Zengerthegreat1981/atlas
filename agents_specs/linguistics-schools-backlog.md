@@ -50,7 +50,7 @@
 - [x] النحوُ الكلّيُّ وفقرُ المحفِّز وجدلُ الفطرية (Universal Grammar & the Innateness Debate) — `con-poverty-of-the-stimulus-universal-grammar` (الدفعة 22). حيادٌ صريحٌ محفوظ إزاء النقد الاستعمالي.
 
 **القسمُ 3 مكتمل.**
-- [x] النحوُ التوليديُّ المعجميُّ الوظيفيّ وHPSG (بدائلُ صوريّة) — `sch-lexical-functional-grammar-hpsg` (الدفعة 21). برسنان وساغ لم يُفرَدا بعد.
+- [x] النحوُ التوليديُّ المعجميُّ الوظيفيّ وHPSG (بدائلُ صوريّة) — `sch-lexical-functional-grammar-hpsg`، `thk-joan-bresnan` (الدفعة 21، مُعمَّقة بالدفعة 32). إيفان ساغ لم يُفرَد بعد.
 - [x] الدلالةُ الصوريةُ ونحوُ مونتاغيو (Formal Semantics) — `sch-formal-semantics-montague-grammar`، `thk-richard-montague` (الدفعة 14). باربارا بارتة لم تُفرَد بعد.
 - [x] الصرفُ التوليديُّ والصواتةُ التوليدية (Generative Phonology — SPE، النظريةُ التفاؤلية) — `sch-generative-phonology` (الدفعة 21). برنس وسمولنسكي لم يُفرَدا بعد.
 
@@ -92,7 +92,7 @@
 - [x] التداوليةُ ومبدأُ التعاون (Gricean Pragmatics) — `sch-gricean-pragmatics`، `con-conversational-implicature` (الدفعة 14). ربطٌ بـ`thk-pgrice` (philosophy) دون تكرار، تطابقاً مع نمط `sch-relevance-theory`.
 - [x] نظريةُ الملاءمة (Relevance Theory — Sperber & Wilson) — `sch-relevance-theory`، `thk-dan-sperber`، `thk-deirdre-wilson` (الدفعة 9). مربوطةٌ نقدياً بـ`thk-pgrice` (philosophy) دون تكراره.
 - [x] تحليلُ المحادثة (Conversation Analysis — Sacks، Schegloff) — `thk-hsacks` و`sch-conversation-analysis` موجودان بالفعل تحت `part: sociology` (وليسا معزولَين: hsacks مربوطٌ بـ`belongs_to` إلى المدرسة). لا تُنشئ نظيراً لسانياً؛ اربط عند الحاجة (سُجِّل 2026-09-21).
-- [~] تحليلُ الخطاب النقديّ (CDA — Fairclough، van Dijk، Wodak) — `thk-norman-fairclough`، `thk-teun-van-dijk` (الدفعة 13). لا مدرسةَ `sch-` مستقلة: البنيةُ المؤسسية لـCDA موجودةٌ بالفعل تحت `sociology` (`ins-critical-discourse-analysis-fairclough`، `dbt-conversation-analysis-vs-critical-discourse-analysis`)؛ رُبط إليها دون تكرار. رود فوداك لم تُفرَد بعد.
+- [x] تحليلُ الخطاب النقديّ (CDA — Fairclough، van Dijk، Wodak) — `thk-norman-fairclough`، `thk-teun-van-dijk`، `thk-ruth-wodak` (الدفعة 13، مُكتمَلة بالدفعة 32). لا مدرسةَ `sch-` مستقلة: البنيةُ المؤسسية لـCDA موجودةٌ بالفعل تحت `sociology`؛ رُبط دون تكرار.
 - [x] لسانياتُ النصِّ وتماسكُه (Text Linguistics — de Beaugrande، Halliday & Hasan) — `sch-text-linguistics` (الدفعة 20).
 - [x] نظريةُ التأدّب ووجهُ المتكلّم (Politeness Theory — Brown & Levinson) — `sch-politeness-theory` (الدفعة 20).
 

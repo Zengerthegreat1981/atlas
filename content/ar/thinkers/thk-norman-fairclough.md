@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges: []
 related:
 - id: "thk-teun-van-dijk", title: "تون فان دايك", type: "مفكر"
+- id: "thk-ruth-wodak", title: "رود فوداك", type: "مفكر"
 - id: "sch-systemic-functional-linguistics", title: "اللسانياتُ الوظيفيةُ المنهجية", type: "مدرسة"
 - id: "thk-michael-halliday", title: "مايكل هاليداي", type: "مفكر"
 - id: "ins-critical-discourse-analysis-fairclough", title: "تحليل الخطاب النقدي (Critical Discourse Analysis - CDA)", type: "منهج/أداة بحث"

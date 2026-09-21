@@ -18,8 +18,9 @@ edges:
 - rel: "evolved_from", target: "sch-generative-grammar", target_type: "مدرسة"
 related:
 - id: "sch-government-and-binding-theory", title: "نظريةُ الحاكميةِ والربط (Government and Binding Theory)", type: "مدرسة"
+- id: "thk-joan-bresnan", title: "جوان برسنان", type: "مفكر"
 gaps:
-  - "جوان برسنان (Joan Bresnan) مؤسّسةُ LFG، وإيفان ساغ (Ivan Sag) مؤسّسُ HPSG، لم يُفرَدا بعد كمفكرَين مستقلَّين — ثغرةٌ صادقةٌ تُترك لدفعةٍ لاحقة."
+  - "إيفان ساغ (Ivan Sag) مؤسّسُ HPSG لم يُفرَد بعد كمفكرٍ مستقل. **سُدَّ جزئياً 2026-09-21 (الدفعة 32)**: أُنشئ `thk-joan-bresnan` (مؤسّسةُ LFG)."
 ---
 
 # النحوُ التوليديُّ المعجميُّ الوظيفيّ وHPSG
