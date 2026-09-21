@@ -20,7 +20,9 @@ related:
 - id: "thk-antony-anghie", title: "أنتوني أنغي (Antony Anghie)", type: "مفكر"
 - id: "con-sovereignty-colonial-encounter-anghie", title: "السيادةُ ونشأةُ القانون الدولي من رحم اللقاء الاستعماري", type: "مفهوم"
 - id: "thk-balakrishnan-rajagopal", title: "بالاكريشنان راجاغوپال (Balakrishnan Rajagopal)", type: "مفكر"
+- id: "thk-georges-abi-saab", title: "جورج أبي صعب (Georges Abi-Saab)", type: "مفكر"
 gaps:
+  - "**سُدَّ 2026-09-22**: أُضيف `thk-georges-abi-saab` (سابقٌ زمنياً على الجيل المؤسِّس، طرح السؤالَ المبكر عام 1962)."
   - "**سُدَّ 2026-09-21**: أُضيف `thk-balakrishnan-rajagopal` (كان مذكوراً في المصادر دون ملفٍّ مستقل)."
   - "هذا الملفُّ أُنشئ في الدفعة 20 من مهمة بناء قسم نظرية القانون (القسم 4 من `legal-theory-schools-backlog.md`)، وهو آخرُ بندٍ فيه."
   - "التسميةُ الرسميةُ للحركة (TWAIL — Third World Approaches to International Law) نشأت في مؤتمرٍ أكاديميٍّ بجامعة هارفارد عام 1997؛ لم تُفصَّل وقائعُه المؤسِّسة."
