@@ -17,7 +17,9 @@ edges: []
 related:
 - id: "con-legal-hermeneutics-betti-gadamer-debate", title: "الهرمنيوطيقا القانونية: جدلُ بيتّي-غادامير (الموضوعيةُ مقابل التأثّرية التاريخية)", type: "مفهوم"
 - id: "thk-gadamer", title: "هانز-غيورغ غادامير", type: "مفكر"
+- id: "wrk-teoria-generale-interpretazione-betti", title: "نظريةٌ عامّةٌ في التفسير (Teoria generale della interpretazione)", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-22**: أُضيفت `wrk-teoria-generale-interpretazione-betti` (ملفٌّ مستقلٌّ للعمل الموسوعي)."
   - "`belongs_to` تُرك فارغاً: لا يوجد بعدُ في الأطلس جذعٌ مخصَّصٌ للهرمنيوطيقا القانونية تحديداً."
   - "مساهمتُه القانونيةُ المباشرة (أستاذُ القانون المدني الإيطالي وصاحبُ نظريةٍ مؤثرة في تفسير العقود والوصايا) أوسعُ من موقفه الهرمنيوطيقي العام؛ اقتُصر هنا على الأخير."
 ---

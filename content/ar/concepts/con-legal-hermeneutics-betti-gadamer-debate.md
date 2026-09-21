@@ -15,6 +15,7 @@ related:
 - id: "thk-emilio-betti", title: "إميليو بيتّي (Emilio Betti)", type: "مفكر"
 - id: "thk-gadamer", title: "هانز-غيورغ غادامير", type: "مفكر"
 - id: "con-law-as-integrity-dworkin", title: "القانونُ بوصفه نزاهةً (Law as Integrity)", type: "مفهوم"
+- id: "wrk-teoria-generale-interpretazione-betti", title: "نظريةٌ عامّةٌ في التفسير (Teoria generale della interpretazione)", type: "عمل / كتاب"
 gaps:
   - "`belongs_to` تُرك فارغاً لنفس سبب `thk-emilio-betti`."
   - "استعمالُ غادامير نفسِه للتفسير القانوني مثالاً توضيحياً في *Wahrheit und Methode* (قسمٌ كاملٌ عن «المثال الهرمنيوطيقي للتطبيق القانوني») لم يُفصَّل هنا؛ عُرض المنطقُ العامُّ للجدل فقط."
