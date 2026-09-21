@@ -21,7 +21,9 @@ related:
 - id: "wrk-diary-strict-sense-malinowski", title: "يومياتٌ بالمعنى الدقيق للكلمة (A Diary in the Strict Sense of the Term)", type: "عمل / كتاب"
 - id: "wrk-crime-custom-savage-society-malinowski", title: "الجريمةُ والعرفُ في المجتمع المتوحِّش (Crime and Custom in Savage Society)", type: "عمل / كتاب"
 - id: "thk-e-adamson-hoebel", title: "إ. آدمسون هوبل (E. Adamson Hoebel)", type: "مفكر"
+- id: "sch-ethnography-of-religion-fieldwork", title: "الإثنوغرافيا الدينيةُ والعملُ الميدانيّ", type: "مدرسة"
 gaps:
+  - "أُضيف رابطٌ إلى `sch-ethnography-of-religion-fieldwork` (علمُ الأديان المقارن، الدفعة 26) الذي يُبرز تأسيسَه منهج الملاحظة بالمشاركة كأداةٍ لدراسة السحر والدين ميدانياً، دون تكرار سيرته الكاملة هنا."
   - "لم يُنشأ بعد ملفٌّ مستقلٌّ لـ*حجج الغرب الأرغونوتية* (`wrk-`)؛ سيُضاف في دفعةٍ لاحقة مخصَّصةٍ لأعمال القسم."
 ---
 # برونيسلاف مالينوفسكي (Bronisław Malinowski)
