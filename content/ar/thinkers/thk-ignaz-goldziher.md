@@ -21,8 +21,9 @@ related:
 - id: "thk-said", title: "إدوارد سعيد", type: "مفكر"
 - id: "thk-al-shahrastani", title: "أبو الفتح الشهرستاني", type: "مفكر"
 - id: "thk-joseph-schacht", title: "جوزيف شاخت (Joseph Schacht)", type: "مفكر"
+- id: "wrk-muhammedanische-studien-goldziher", title: "دراساتٌ محمدية (Muhammedanische Studien)", type: "عمل"
 gaps:
-  - "لا يوجد بعد ملفّ عملٍ مستقل (`wrk-`) لكتابه *Muhammedanische Studien* (1889–1890، دراساتٌ محمدية) الذي أسّس منهج النقد الحديثي الأكاديمي؛ فجوةٌ للدفعة القادمة."
+  - "سُدَّت 2026-09-22 (دفعةُ تعميق): كتابه *Muhammedanische Studien* فُصِّل الآن في ملفّ عملٍ مستقل: `wrk-muhammedanische-studien-goldziher`."
   - "علاقتُه اليهودية-الهنغارية وموقعُه المزدوج (يهوديٌّ درس الإسلامَ بتعاطفٍ علميّ نادر لعصره، وواجه معاداةَ ساميةٍ أكاديمية في المجر رغم شهرته الدولية) موضوعُ سيرةٍ غنية؛ لُخِّصت هنا إجمالاً فقط."
 ---
 
