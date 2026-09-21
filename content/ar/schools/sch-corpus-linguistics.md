@@ -18,6 +18,7 @@ edges: []
 related:
 - id: "thk-john-sinclair", title: "جون سنكلير", type: "مفكر"
 - id: "ins-grammaticality-judgments", title: "الاختباراتُ النحويةُ وحكمُ المتكلّم الأصليّ (Grammaticality Judgments)", type: "منهج/أداة بحث"
+- id: "con-idioms-formulaic-language", title: "التعابيرُ الاصطلاحية واللغةُ الصيغية (Idioms & Formulaic Language)", type: "مفهوم"
 gaps:
   - "لا `belongs_to`/`evolved_from`: نشأت لسانياتُ المدوّنات كردِّ فعلٍ منهجيٍّ مباشر على الاعتماد التوليديّ على حدس المتكلم (`ins-grammaticality-judgments`)، لا كامتدادٍ تاريخيٍّ من مدرسةٍ سابقة؛ العلاقةُ نقديةٌ سُجِّلت بـ`related`."
 ---
