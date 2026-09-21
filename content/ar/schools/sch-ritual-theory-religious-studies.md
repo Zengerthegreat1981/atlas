@@ -18,11 +18,13 @@ related:
 - id: "thk-william-robertson-smith", title: "وليم روبرتسون سميث", type: "مفكر"
 - id: "thk-catherine-bell", title: "كاثرين بيل", type: "مفكر"
 - id: "thk-roy-rappaport", title: "روي رابابورت", type: "مفكر"
-- id: "thk-marcel-mauss", title: "مارسيل موس", type: "مفكر"
+- id: "thk-marcel-mauss", title: "مارسيل موس (Marcel Mauss)", type: "مفكر"
 - id: "con-sacrifice-theory-hubert-mauss", title: "نظريةُ القربان عند هوبير وموس (Sacrifice: Its Nature and Function)", type: "مفهوم"
 - id: "thk-durkheim", title: "إميل دوركهايم", type: "مفكر"
-- id: "sch-founding-comparative-religion-science-of-religion", title: "تأسيسُ علم الأديان المقارن (ماكس مولر وعلمُ الدين)", type: "مدرسة"
-- id: "con-axis-mundi-sacred-space-eliade", title: "محورُ العالم والمكانُ المقدَّس عند إلياده", type: "مفهوم"
+- id: "sch-founding-comparative-religion-science-of-religion", title: "تأسيسُ «علمِ الدين» (Science of Religion): ماكس مولر ونشأةُ علم الأديان المقارن", type: "مدرسة"
+- id: "con-axis-mundi-sacred-space-eliade", title: "محورُ العالم والفضاءُ المقدَّس عند إلياده", type: "مفهوم"
+- id: "thk-arnold-van-gennep", title: "أرنولد فان جينيب (Arnold van Gennep)", type: "مفكر"
+- id: "sch-van-gennep-rites-of-passage", title: "طقوسُ العبور (Van Gennep's Rites of Passage)", type: "مدرسة"
 gaps:
   - "إميل دوركهايم استفاد مباشرةً من قراءة روبرتسون سميث (القربان الطوطمي) في بناء نظريته عن المقدَّس/المدنَّس في *الصور الأولية للحياة الدينية*؛ هذا الأثر التاريخي المباشر مذكورٌ هنا إجمالاً، ويحتاج ملفَّ علاقةٍ (`rel-`) مستقلاً لو توفّر وقتٌ لتوثيقه بتفصيلٍ ببليوغرافي كامل."
   - "هوبير وموس نُشر بحثهما أصلاً في *L'Année Sociologique* التي أسّسها دوركهايم؛ الصلة المؤسّسية بين الثلاثة (سميث-دوركهايم-موس) تستحق خريطة علاقاتٍ أوسع تتجاوز نطاق هذا الملف."
@@ -38,7 +40,7 @@ gaps:
 
 ## هوبير وموس: نحو نظريةٍ عامة للقربان
 
-طوّر هنري هوبير ومارسيل موس هذا الخيط سوسيولوجياً في دراستهما المشتركة *Essai sur la nature et la fonction du sacrifice* (1899، نُشرت في *L'Année Sociologique*)، والتي تُرجمت لاحقاً بعنوان *Sacrifice: Its Nature and Function*. قدّما نموذجاً إجرائياً للقربان بوصفه **آليةَ عبور** (rite of passage بمعنى إجرائي مبكر) تُوصِّل بين عالمَي المقدَّس والمدنَّس عبر وسيطٍ (الضحية) يُهلَك أو يُكرَّس، فتنتقل صفة القداسة أو تُنقَل عن طريقه دون أن يلامس المُقرِّب المقدَّسَ مباشرةً. هذا النموذج البنيوي — تحديد مراحل الدخول والفعل والخروج من حالة القداسة — أثّر لاحقاً في نظريات الطقوس الانتقالية عند ڤان جينيب وتيرنر.
+طوّر هنري هوبير ومارسيل موس هذا الخيط سوسيولوجياً في دراستهما المشتركة *Essai sur la nature et la fonction du sacrifice* (1899، نُشرت في *L'Année Sociologique*)، والتي تُرجمت لاحقاً بعنوان *Sacrifice: Its Nature and Function*. قدّما نموذجاً إجرائياً للقربان بوصفه **آليةَ عبور** (rite of passage بمعنى إجرائي مبكر) تُوصِّل بين عالمَي المقدَّس والمدنَّس عبر وسيطٍ (الضحية) يُهلَك أو يُكرَّس، فتنتقل صفة القداسة أو تُنقَل عن طريقه دون أن يلامس المُقرِّب المقدَّسَ مباشرةً. هذا النموذج البنيوي — تحديد مراحل الدخول والفعل والخروج من حالة القداسة — أثّر لاحقاً مباشرةً في نموذج أرنولد فان جينيب الثلاثيّ لـ«طقوس العبور» (الانفصال، الحدّ، الإدماج، الموثَّق بتفصيلٍ كافٍ في `sch-van-gennep-rites-of-passage` تحت `anthropology`)، ثم في تطوير ڤيكتور تيرنر لمفهوم «العتبية» (Liminality).
 
 ## الأثر المنهجي
 

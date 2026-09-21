@@ -17,7 +17,9 @@ edges:
 related:
 - id: "sch-van-gennep-rites-of-passage", title: "طقوسُ العبور (Van Gennep's Rites of Passage)", type: "مدرسة"
 - id: "thk-victor-turner", title: "فيكتور تيرنر (Victor Turner)", type: "مفكر"
-gaps: []
+- id: "sch-ritual-theory-religious-studies", title: "نظرياتُ الطقس في علم الأديان المقارن: من روبرتسون سميث إلى هوبير وموس", type: "مدرسة"
+gaps:
+  - "رُبط هذا الملفّ الآن (تعميقٌ عابرٌ للأقسام) بـ`sch-ritual-theory-religious-studies` تحت `religious-studies`، التي توثّق تأثير نموذج هوبير وموس الإجرائي للقربان على نموذج فان جينيب الثلاثيّ لطقوس العبور."
 ---
 # أرنولد فان جينيب (Arnold van Gennep)
 
