@@ -15,7 +15,7 @@ related:
 - id: "sch-transnational-global-history", title: "التاريخُ العابرُ للقومياتِ والتاريخُ العالميّ (Global and Transnational History)", type: "مدرسة"
 gaps:
   - "**عقدةٌ مستقلة 2026-09-22:** المفهومُ نُوقش نصياً داخل `sch-transnational-global-history`؛ هذا الملفّ يُفرده مفهوماً مستقلاً."
-  - "لم يُنشأ بعد ملفُّ مفكرٍ مستقلّ لسانجاي سوبراهمانيام؛ يُذكر هنا وصفاً للمفهوم دون سيرةٍ مستقلة موثَّقة."
+  - "**تحديث 2026-09-22:** أُنشئ `thk-sanjay-subrahmanyam`."
 ---
 # التاريخُ الاتصاليّ (Connected History) عند سوبراهمانيام
 
