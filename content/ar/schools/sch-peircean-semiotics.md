@@ -19,6 +19,7 @@ related:
 - id: "thk-peirce", title: "تشارلز ساندرز بيرس", type: "مفكر"
 - id: "thk-umberto-eco", title: "أمبرتو إيكو", type: "مفكر"
 - id: "sch-structuralist-semiology", title: "السيميولوجيا السوسيرية وامتدادُها (Structuralist Semiology)", type: "مدرسة"
+- id: "con-dictionary-encyclopedia-model-eco", title: "نموذجُ القاموس مقابل الموسوعة (Dictionary vs. Encyclopedia Model)", type: "مفهوم"
 gaps:
   - "`thk-peirce` موسومٌ `philosophy` وموجودٌ بالفعل في الأطلس بفلسفته البراغماتية الكاملة؛ رُبط إليه بـ`related` دون تكرار سيرته. هذه العقدةُ تفرد النسقَ السيميائيَّ الذي طوّره بوصفه إطاراً استُعمل لاحقاً في تحليل الأنظمة اللغوية وغير اللغوية."
   - "لا `evolved_from`: السيمياءُ البيرسية نشأت مستقلةً عن السيميولوجيا السوسيرية (كلاهما طُوِّر في العقد نفسه تقريباً دون تواصلٍ مباشر بين الرجلين)، فلم تُقحَم علاقةُ انحدار."
