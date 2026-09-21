@@ -37,6 +37,7 @@ related:
 - id: "con-comparative-constructions-typology", title: "نمطيةُ تراكيب المقارنة (Comparative Constructions Typology)", type: "مفهوم"
 - id: "con-negation-typology-jespersens-cycle", title: "نمطيةُ النفي ودورةُ يسبرسن (Negation Typology & Jespersen's Cycle)", type: "مفهوم"
 - id: "con-grammatical-gender-noun-classes", title: "الجنسُ النحويُّ وأصنافُ الأسماء (Grammatical Gender & Noun Classes)", type: "مفهوم"
+- id: "con-writing-systems-typology", title: "نمطيةُ أنظمة الكتابة (Writing Systems Typology)", type: "مفهوم"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`) — منهجٌ استقرائيٌّ مقارنٌ مستقلٌّ عن التوليدية والبنيوية، وإن تقاطع معهما موضوعياً."
   - "مارتن هاسپلماث لم يُفرَد بعد كمفكرٍ مستقل. **سُدَّ جزئياً 2026-09-21 (الدفعة 48)**: أُنشئ `thk-bernard-comrie` و`ins-world-atlas-of-language-structures`."
