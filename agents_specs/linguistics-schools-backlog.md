@@ -62,12 +62,12 @@
 - [x] النحوُ الناشئُ عن الاستعمال (Usage-Based Grammar — Bybee، Tomasello) — `sch-usage-based-grammar`، `thk-joan-bybee` (الدفعة 22).
 
 **القسمُ 4 مكتمل.**
-- [x] نحوُ البُنى (Construction Grammar — Goldberg، Fillmore) — `sch-construction-grammar`، `thk-adele-goldberg` (الدفعة 6). فيلمور وكاي ولايكوف (المؤسسون الآخرون) لم يُفرَدوا بعد.
+- [x] نحوُ البُنى (Construction Grammar — Goldberg، Fillmore) — `sch-construction-grammar`، `thk-adele-goldberg`، `thk-charles-fillmore` (الدفعة 6، مُعمَّقة بالدفعة 30). پول كاي ولايكوف (هنا تحديداً) لم يُفرَدوا بعد.
 
 ## 5. اللسانياتُ المعرفية (Cognitive Linguistics)
 
 - [x] اللسانياتُ المعرفيةُ ونحوُ لانغاكر (Cognitive Grammar) — `sch-cognitive-linguistics`، `thk-ronald-langacker` (الدفعة 8).
-- [x] نظريةُ الاستعارة المفهومية (Lakoff & Johnson — *Metaphors We Live By*) — `con-conceptual-metaphor-theory` (الدفعة 8). لاكوف (psychology) رُبط ولم يُكرَّر؛ مارك جونسون لم يُفرَد بعد.
+- [x] نظريةُ الاستعارة المفهومية (Lakoff & Johnson — *Metaphors We Live By*) — `con-conceptual-metaphor-theory` (الدفعة 8). لاكوف (psychology) رُبط ولم يُكرَّر؛ `thk-mark-johnson-linguist` أُنشئ بالدفعة 30.
 - [x] فضاءاتُ الذهن والمزجُ المفهوميّ (Fauconnier & Turner) — `sch-conceptual-blending-theory`، `thk-gilles-fauconnier`، `thk-mark-turner` (الدفعة 21).
 - [~] النظريةُ النموذجيةُ والتصنيف (Prototype Theory — Rosch, Berlin & Kay) — `con-prototype-theory-linguistics` (الدفعة 8). روش (psychology) رُبطت ولم تُكرَّر. يتبقّى: بيرلين وكاي (تصنيف الألوان).
 - [x] النسبيةُ اللغويةُ وفرضيةُ سابير-وورف (وجدلُها المعاصر: Boroditsky، Levinson) — `con-linguistic-relativity-contemporary-debate` (الدفعة 21). `sch-linguistic-relativity` (anthropology) رُبطت ولم تُكرَّر. حيادٌ صريحٌ محفوظ.

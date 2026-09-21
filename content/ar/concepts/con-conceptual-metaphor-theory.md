@@ -18,8 +18,9 @@ edges:
 related:
 - id: "sch-cognitive-linguistics", title: "اللسانياتُ المعرفية (Cognitive Linguistics)", type: "مدرسة"
 - id: "thk-george-lakoff", title: "جورج لاكوف", type: "مفكر"
+- id: "thk-mark-johnson-linguist", title: "مارك جونسون", type: "مفكر"
 gaps:
-  - "جورج لاكوف موسومٌ `psychology` في الأطلس (`thk-george-lakoff`) بوصفه رائداً معرفياً؛ رُبط إليه هنا بـ`related` دون تكرار سيرته. مارك جونسون (الشريكُ المؤلِّف لكتاب *Metaphors We Live By*) لم يُفرَد بعدُ بملفِّ مفكرٍ مستقل — تسجيلٌ للفجوة."
+  - "جورج لاكوف موسومٌ `psychology` في الأطلس (`thk-george-lakoff`) بوصفه رائداً معرفياً؛ رُبط إليه هنا بـ`related` دون تكرار سيرته. **سُدَّ 2026-09-21 (الدفعة 30)**: أُنشئ `thk-mark-johnson-linguist` للشريك المؤلِّف مارك جونسون."
 ---
 
 # نظريةُ الاستعارة المفهومية
