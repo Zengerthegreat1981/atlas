@@ -19,7 +19,9 @@ related:
 - id: "sch-critical-legal-studies", title: "الدراساتُ القانونيةُ النقدية (Critical Legal Studies — CLS)", type: "مدرسة"
 - id: "thk-antony-anghie", title: "أنتوني أنغي (Antony Anghie)", type: "مفكر"
 - id: "con-sovereignty-colonial-encounter-anghie", title: "السيادةُ ونشأةُ القانون الدولي من رحم اللقاء الاستعماري", type: "مفهوم"
+- id: "thk-balakrishnan-rajagopal", title: "بالاكريشنان راجاغوپال (Balakrishnan Rajagopal)", type: "مفكر"
 gaps:
+  - "**سُدَّ 2026-09-21**: أُضيف `thk-balakrishnan-rajagopal` (كان مذكوراً في المصادر دون ملفٍّ مستقل)."
   - "هذا الملفُّ أُنشئ في الدفعة 20 من مهمة بناء قسم نظرية القانون (القسم 4 من `legal-theory-schools-backlog.md`)، وهو آخرُ بندٍ فيه."
   - "التسميةُ الرسميةُ للحركة (TWAIL — Third World Approaches to International Law) نشأت في مؤتمرٍ أكاديميٍّ بجامعة هارفارد عام 1997؛ لم تُفصَّل وقائعُه المؤسِّسة."
 ---

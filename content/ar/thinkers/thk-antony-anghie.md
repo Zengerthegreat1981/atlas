@@ -18,7 +18,9 @@ edges:
 related:
 - id: "sch-twail-postcolonial-international-law", title: "القانونُ ما بعدَ الاستعماريُّ والمقارَنُ النقديّ (TWAIL)", type: "مدرسة"
 - id: "con-sovereignty-colonial-encounter-anghie", title: "السيادةُ ونشأةُ القانون الدولي من رحم اللقاء الاستعماري", type: "مفهوم"
+- id: "thk-balakrishnan-rajagopal", title: "بالاكريشنان راجاغوپال (Balakrishnan Rajagopal)", type: "مفكر"
 gaps:
+  - "**سُدَّ 2026-09-21**: أُضيف `thk-balakrishnan-rajagopal` (منظورٌ مكمّل: نقدُ خطاب التنمية والحركات الاجتماعية «من الأسفل»)."
   - "خلفيتُه السريلانكية وتحليلاتُه المتفرّقة لقضايا القانون الدولي المعاصرة (تدخّلاتٌ إنسانية، مؤسساتٌ مالية دولية) بتفصيلٍ حالاتٍ محدَّدة لم تُعرَض هنا؛ اقتُصر على أطروحته النظرية المركزية."
 ---
 # أنتوني أنغي (Antony Anghie)
