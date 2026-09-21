@@ -12,6 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-shamanism-comparative-category", target_type: "مدرسة"
 related:
+- id: "con-lexical-borrowing-loanwords", title: "الاقتراضُ المعجمي والدخيل (Lexical Borrowing & Loanwords)", type: "مفهوم"
 - id: "sch-shamanism-comparative-category", title: "الشامانيةُ بوصفها فئةً مقارَنة ونقدُ تصنيفها", type: "مدرسة"
 - id: "con-shamanism-category-critique-kehoe", title: "نقدُ فئة «الشامانية» بوصفها بناءً استشراقياً معمَّماً", type: "مفهوم"
 - id: "thk-mircea-eliade", title: "ميرتشيا إلياده", type: "مفكر"

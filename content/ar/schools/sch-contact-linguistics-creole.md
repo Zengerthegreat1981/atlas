@@ -19,6 +19,7 @@ related:
 - id: "con-diglossia", title: "الازدواجيةُ اللغوية (Diglossia)", type: "مفهوم"
 - id: "sch-variationist-sociolinguistics", title: "اللسانياتُ الاجتماعيةُ المتغيّرية (Labovian Variationist Sociolinguistics)", type: "مدرسة"
 - id: "thk-derek-bickerton", title: "ديريك بيكرتون", type: "مفكر"
+- id: "con-lexical-borrowing-loanwords", title: "الاقتراضُ المعجمي والدخيل (Lexical Borrowing & Loanwords)", type: "مفهوم"
 gaps:
   - "لا `belongs_to`: فرعٌ نشأ من ملاحظاتٍ ميدانيةٍ على لغات الاستعمار والتجارة، لا من انحدارٍ نظريٍّ مباشرٍ من مدرسةٍ لسانيةٍ واحدة."
 ---
