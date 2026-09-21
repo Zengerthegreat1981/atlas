@@ -23,6 +23,7 @@ related:
 - id: "syn-wernicke-aphasia", title: "متلازمة حبسة فيرنيكه الاستقبالية (عمه فهم الكلام والتلفيق اللفظي)", type: "متلازمة"
 - id: "con-aphasiology-classification", title: "تصنيفُ الحُبسة اللغوية (Aphasiology)", type: "مفهوم"
 - id: "con-hemispheric-lateralization-language", title: "التخصّصُ النصفيُّ الدماغي للغة (Hemispheric Lateralization of Language)", type: "مفهوم"
+- id: "con-foreign-accent-syndrome", title: "متلازمةُ اللكنة الأجنبية (Foreign Accent Syndrome)", type: "مفهوم"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`) — نشأ هذا التقليدُ من الطب العصبي السريري لا من اللسانيات النظرية، والتقى بها لاحقاً."
   - "المتلازمتان `syn-broca-aphasia` و`syn-wernicke-aphasia` موسومتان `psychology` في الأطلس (ضمن مجلد الاضطرابات السريرية)؛ لم يُعدَّل وسمُهما — هذا الملفُّ يربط إليهما بـ`related` بوصفهما الدليلَ الإكلينيكي المؤسِّس لهذا الفرع اللساني، لا يستنسخهما."
