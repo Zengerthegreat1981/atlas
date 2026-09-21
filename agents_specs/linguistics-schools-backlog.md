@@ -45,7 +45,9 @@
 - [x] النحوُ التوليديُّ التحويليّ (*Syntactic Structures*، 1957) — `sch-generative-grammar`، `wrk-syntactic-structures`، `con-deep-surface-structure` (الدفعة 3). `thk-noam-chomsky` (philosophy) رُبط ولم يُكرَّر — قرارٌ محسوم في DR-014.
 - [x] النظريةُ المعياريةُ والحاكميةُ والربط (Government & Binding) — `sch-government-and-binding-theory` (الدفعة 14).
 - [x] البرنامجُ الأدنويّ (The Minimalist Program) — `sch-minimalist-program` (الدفعة 14). عمليةُ الدمج (Merge) كمفهومٍ مفرد لم تُنشأ بعد.
-- [ ] النحوُ الكلّيُّ وفقرُ المحفِّز وجدلُ الفطرية (Universal Grammar & the Innateness Debate)
+- [x] النحوُ الكلّيُّ وفقرُ المحفِّز وجدلُ الفطرية (Universal Grammar & the Innateness Debate) — `con-poverty-of-the-stimulus-universal-grammar` (الدفعة 22). حيادٌ صريحٌ محفوظ إزاء النقد الاستعمالي.
+
+**القسمُ 3 مكتمل.**
 - [x] النحوُ التوليديُّ المعجميُّ الوظيفيّ وHPSG (بدائلُ صوريّة) — `sch-lexical-functional-grammar-hpsg` (الدفعة 21). برسنان وساغ لم يُفرَدا بعد.
 - [x] الدلالةُ الصوريةُ ونحوُ مونتاغيو (Formal Semantics) — `sch-formal-semantics-montague-grammar`، `thk-richard-montague` (الدفعة 14). باربارا بارتة لم تُفرَد بعد.
 - [x] الصرفُ التوليديُّ والصواتةُ التوليدية (Generative Phonology — SPE، النظريةُ التفاؤلية) — `sch-generative-phonology` (الدفعة 21). برنس وسمولنسكي لم يُفرَدا بعد.
@@ -54,8 +56,10 @@
 
 - [x] اللسانياتُ الوظيفيةُ المنهجية (Hallidayan SFL) — `sch-systemic-functional-linguistics`، `thk-michael-halliday` (الدفعة 6).
 - [x] النمطيةُ اللغويةُ والكلّياتُ اللغوية (Greenbergian Typology & Word Order Universals) — `sch-linguistic-typology`، `thk-joseph-greenberg`، `con-word-order-universals` (الدفعة 5).
-- [ ] النحوُ الوظيفيُّ ونحوُ الدور والمرجع (Dik، Van Valin)
-- [ ] النحوُ الناشئُ عن الاستعمال (Usage-Based Grammar — Bybee، Tomasello)
+- [x] النحوُ الوظيفيُّ ونحوُ الدور والمرجع (Dik، Van Valin) — `sch-role-and-reference-grammar`، `thk-robert-van-valin` (الدفعة 22). ديك لم يُفرَد بعد.
+- [x] النحوُ الناشئُ عن الاستعمال (Usage-Based Grammar — Bybee، Tomasello) — `sch-usage-based-grammar`، `thk-joan-bybee` (الدفعة 22).
+
+**القسمُ 4 مكتمل.**
 - [x] نحوُ البُنى (Construction Grammar — Goldberg، Fillmore) — `sch-construction-grammar`، `thk-adele-goldberg` (الدفعة 6). فيلمور وكاي ولايكوف (المؤسسون الآخرون) لم يُفرَدوا بعد.
 
 ## 5. اللسانياتُ المعرفية (Cognitive Linguistics)
