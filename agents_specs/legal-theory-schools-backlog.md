@@ -26,8 +26,8 @@
 ## 3. التأويلُ والمبدأ
 - [x] دوركين ونظريةُ القانون بوصفه نزاهةً (*Law's Empire*، القاضي هرقل) — الدفعةُ 4: `thk-ronald-dworkin`، `con-law-as-integrity-dworkin`، `wrk-laws-empire-dworkin`
 - [x] جدلُ هارت–دوركين (القواعدُ مقابل المبادئ، الحالاتُ الصعبة) — الدفعةُ 4: `dbt-hart-dworkin-rules-principles`
-- [ ] الأصوليةُ والنصّيةُ في التأويل الدستوريّ (Scalia) ونقدُها
-- [ ] الهرمنيوطيقا القانونيةُ (غادامير في القانون)
+- [x] الأصوليةُ والنصّيةُ في التأويل الدستوريّ (Scalia) ونقدُها — الدفعةُ 17: `thk-antonin-scalia`، `con-textualism-originalism-scalia`
+- [x] الهرمنيوطيقا القانونيةُ (غادامير في القانون) — الدفعةُ 17: `thk-emilio-betti`، `con-legal-hermeneutics-betti-gadamer-debate` (ربط بـ`thk-gadamer` القائم دون استنساخ)
 
 ## 4. الواقعيةُ والنقد
 - [x] الواقعيةُ القانونيةُ الأمريكية (هولمز، لويلين، فرانك — «ما تفعله المحاكم فعلاً») — الدفعةُ 9: `sch-american-legal-realism`، `thk-oliver-wendell-holmes-jr`، `con-prediction-theory-of-law-holmes`، `thk-karl-llewellyn`، `thk-jerome-n-frank` (تنبيهٌ صريح لعدم الخلط بـ`thk-jerome-frank` القائم)
