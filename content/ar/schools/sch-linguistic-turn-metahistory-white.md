@@ -19,6 +19,7 @@ edges:
 - rel: "belongs_to", target: "sch-ibn-khaldun-naqd-al-akhbar", target_type: "مدرسة"
 related:
 - id: "thk-hayden-white", title: "هايدن وايت", type: "مفكر"
+- id: "con-emplotment-white", title: "الحبكةُ السردية (Emplotment) عند هايدن وايت", type: "مفهوم"
 - id: "sch-french-methodical-school", title: "المدرسةُ المنهجيةُ الفرنسيةُ (سينوبوس ولانغلوا ومدخلُ الدراسات التاريخية)", type: "مدرسة"
 - id: "sch-conceptual-history-koselleck", title: "تاريخُ المفاهيم عند كوزلّك (Begriffsgeschichte وزمنُ السرج)", type: "مدرسة"
 - id: "sch-foucauldian-archaeology-genealogy-method", title: "الأركيولوجيا والجينالوجيا بوصفهما منهجاً في كتابة تاريخ الحاضر (فوكو)", type: "مدرسة"
