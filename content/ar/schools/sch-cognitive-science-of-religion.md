@@ -24,7 +24,9 @@ related:
 - id: "con-costly-signaling-theory-of-religion", title: "نظريةُ الإشارة المكلِفة في الدين (Costly Signaling Theory)", type: "مفهوم"
 - id: "thk-harvey-whitehouse", title: "هارڤي وايتهاوس (Harvey Whitehouse)", type: "مفكر"
 - id: "con-modes-of-religiosity-theory-whitehouse", title: "نظريةُ أنماط التديُّن (Modes of Religiosity): العقائديّ مقابل الصوريّ", type: "مفهوم"
+- id: "thk-stewart-guthrie", title: "ستيوارت غوثري (Stewart Guthrie)", type: "مفكر"
 gaps:
+  - "سُدَّت 2026-09-22 (دفعةُ التعميق): ستيوارت غوثري، سابقُ بارت في أطروحة الأنثروبومورفيزم الإدراكي (*Faces in the Clouds*, 1993)، أُفرِد له الآن ملفٌّ مستقل `thk-stewart-guthrie`."
   - "لا مدرسةَ أمٍّ (`belongs_to`) لهذه المدرسة ضمن `religious-studies` بعد؛ تُركت `edges: []` لتفادي ربطٍ كاذبٍ بمدرسةٍ من قسمٍ آخر (اللسانيات المعرفية) لا تنحدر منها هذه المدرسة تاريخياً رغم تقاطع الإطار النظري العامّ معها."
   - "سُدَّت 2026-09-21 (الدفعة 47): هارڤي وايتهاوس ونظريتُه في أنماط التديُّن (العقائديّ/الصوريّ) كانا مذكورَين كفجوةٍ صريحة؛ أُضيف الآن `thk-harvey-whitehouse` و`con-modes-of-religiosity-theory-whitehouse`."
   - "الخلافُ مع الظاهراتية الدينية اللاختزالية (`sch-phenomenology-of-religion-otto-eliade`) هو المحورُ المركزي لِـ'جدل الاختزال' الذي سيُفرَد له ملفُّ جدلٍ مستقل حين يُكتب القسم 7 من الـbacklog (المناهج والجدالات)."

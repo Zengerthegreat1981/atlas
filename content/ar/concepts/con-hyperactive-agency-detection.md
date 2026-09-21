@@ -18,8 +18,9 @@ related:
 - id: "thk-justin-barrett", title: "جستن بارت", type: "مفكر"
 - id: "sch-cognitive-science-of-religion", title: "علمُ الأديان المعرفيّ (Cognitive Science of Religion)", type: "مدرسة"
 - id: "con-minimally-counterintuitive-concepts", title: "المفاهيمُ المضادّةُ للحدس قليلاً (Minimally Counterintuitive Concepts)", type: "مفهوم"
+- id: "thk-stewart-guthrie", title: "ستيوارت غوثري (Stewart Guthrie)", type: "مفكر"
 gaps:
-  - "المصطلح استعاره بارت من ستيوارت غوثري (Stewart Guthrie) الذي طرح فكرةً قريبة (انثروبومورفيزم إدراكي) في *Faces in the Clouds* (1993) قبل صوغ بارت للصيغة المعرفية-التطوّرية الدقيقة HADD؛ غوثري لم يُفرَد له ملفٌّ مستقل في هذه الدفعة (فجوة موثَّقة)."
+  - "سُدَّت 2026-09-22 (دفعةُ التعميق): المصطلح استعاره بارت من ستيوارت غوثري (Stewart Guthrie) الذي طرح فكرةً قريبة (انثروبومورفيزم إدراكي) في *Faces in the Clouds* (1993) قبل صوغ بارت للصيغة المعرفية-التطوّرية الدقيقة HADD؛ أُفرِد لغوثري الآن ملفٌّ مستقل `thk-stewart-guthrie`."
 ---
 
 # كاشفُ الفاعلية المفرط النشاط (HADD)
