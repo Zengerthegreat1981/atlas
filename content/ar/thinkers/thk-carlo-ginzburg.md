@@ -15,6 +15,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-microstoria-italian-micro-history", target_type: "مدرسة"
 related:
+- id: "wrk-the-cheese-and-the-worms-ginzburg", title: "الجبنُ والديدان: كونُ مطحنيٍّ من القرن السادس عشر لكارلو غينزبورغ", type: "عمل / كتاب"
 - id: "sch-microstoria-italian-micro-history", title: "التاريخُ الجزئيُّ والمصغَّر (Microstoria — غينزبورغ وليڤي)", type: "مدرسة"
 gaps:
   - "لم يُبحث بعد عملُه المبكر *العبادات الليلية* (I benandanti، 1966) بتفصيلٍ يتجاوز الإشارة العامة هنا؛ سبق *الجبن والديدان* بعشر سنوات وطبّق منهجاً مشابهاً على طقوسٍ فلاحية شمال إيطالية."

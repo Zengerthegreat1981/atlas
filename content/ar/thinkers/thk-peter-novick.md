@@ -15,6 +15,7 @@ active_end: 2012
 edges:
 - rel: "belongs_to", target: "sch-objectivity-debate-carr-elton-novick", target_type: "مدرسة"
 related:
+- id: "wrk-that-noble-dream-novick", title: "ذلك الحلمُ النبيل: سؤالُ «الموضوعية» والمهنة التاريخية الأمريكية لپيتر نوڤيك", type: "عمل / كتاب"
 - id: "sch-objectivity-debate-carr-elton-novick", title: "مسألةُ الموضوعيةِ والتفسير (كار وإلتون ونوڤيك)", type: "مدرسة"
 - id: "thk-edward-hallett-carr", title: "إدوارد هاليت كار", type: "مفكر"
 - id: "thk-geoffrey-elton", title: "جيفري إلتون", type: "مفكر"

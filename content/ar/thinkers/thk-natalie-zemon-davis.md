@@ -15,6 +15,7 @@ active_end: 2023
 edges:
 - rel: "belongs_to", target: "sch-womens-feminist-history", target_type: "مدرسة"
 related:
+- id: "wrk-the-return-of-martin-guerre-davis", title: "عودةُ مارتان غير لناتالي زيمون ديڤيس", type: "عمل / كتاب"
 - id: "sch-womens-feminist-history", title: "تاريخُ النساءِ والتاريخُ النسويّ (جوان سكوت وناتالي ديڤيس)", type: "مدرسة"
 - id: "thk-joan-wallach-scott", title: "جوان والاش سكوت", type: "مفكر"
 - id: "sch-microstoria-italian-micro-history", title: "التاريخُ الجزئيُّ والمصغَّر (Microstoria — غينزبورغ وليڤي)", type: "مدرسة"
