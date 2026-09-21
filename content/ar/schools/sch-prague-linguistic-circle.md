@@ -24,8 +24,9 @@ related:
 - id: "thk-nikolai-trubetzkoy", title: "نيكولاي تروبتسكوي", type: "مفكر"
 - id: "con-distinctive-features-phonology", title: "السماتُ التمييزية (Distinctive Features)", type: "مفهوم"
 - id: "con-markedness-theory", title: "نظريةُ الوسم (Markedness Theory)", type: "مفهوم"
-gaps:
-  - "الوظيفيةُ اللسانية عند حلقة براغ (خصوصاً مفهوم التقطيع الوظيفي للجملة عند ماتيسيوس) موضوعٌ مستقلٌّ لم يُغطَّ في هذا الملف بعد."
+- id: "thk-vilem-mathesius", title: "ﭬيليم ماتيسيوس", type: "مفكر"
+- id: "con-functional-sentence-perspective", title: "التقطيعُ الوظيفيُّ للجملة (Functional Sentence Perspective)", type: "مفهوم"
+gaps: []
 ---
 
 # حلقةُ براغ اللسانية
