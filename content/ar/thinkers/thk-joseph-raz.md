@@ -20,7 +20,9 @@ related:
 - id: "thk-hla-hart", title: "هربرت هارت (H.L.A. Hart)", type: "مفكر"
 - id: "con-exclusive-inclusive-positivism", title: "الوضعيةُ الحصريةُ والشاملة (Exclusive vs. Inclusive Positivism)", type: "مفهوم"
 - id: "thk-jules-coleman", title: "جولز كولمان (Jules Coleman)", type: "مفكر"
+- id: "wrk-authority-of-law-raz", title: "سلطةُ القانون (The Authority of Law)", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-22**: أُضيفت `wrk-authority-of-law-raz` (ملفٌّ مستقلٌّ للعمل المرجعي، كان يُستشهَد به دون ملفّ)."
   - "نظريتُه في **سلطة القانون** (Authority of Law) و«أطروحة المصادر» (Sources Thesis) الأوسع من مجرّد الجدل حول الوضعية الحصرية، ونظريتُه المستقلّة في الحرية والقيمة (*The Morality of Freedom*, 1986) خارج نطاق نظرية القانون التحليلية، لم تُفصَّلا هنا."
 ---
 # جوزيف راز (Joseph Raz)

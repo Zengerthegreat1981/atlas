@@ -17,6 +17,7 @@ related:
 - id: "thk-jules-coleman", title: "جولز كولمان (Jules Coleman)", type: "مفكر"
 - id: "con-rule-of-recognition-hart", title: "قاعدةُ الاعتراف (Rule of Recognition)", type: "مفهوم"
 - id: "dbt-hart-dworkin-rules-principles", title: "جدلُ هارت–دوركين (القواعدُ والمبادئ)", type: "جدل"
+- id: "wrk-authority-of-law-raz", title: "سلطةُ القانون (The Authority of Law)", type: "عمل / كتاب"
 gaps:
   - "لم تُعرَض هنا مواقفُ فرعيةٌ أخرى داخل الوضعية الشاملة (كموقف Wil Waluchow في *Inclusive Legal Positivism*, 1994) بتفصيلٍ منفصل؛ اقتُصر على الخلاف المحوريّ بين راز وكولمان."
 ---
