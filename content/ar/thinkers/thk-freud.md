@@ -26,6 +26,7 @@ related:
 - id: "crt-neuroscience-critique-classic-theories", title: "النقد العصبي-العلمي للنظريات الكلاسيكية: فجوة الدليل العصبي", type: "نقد خارجي موثَّق"
 - id: "crt-postcolonial-critique-psychoanalysis", title: "النقد ما بعد الاستعماري للتحليل النفسي: الأنا الأوروبية كمعيار كوني للنفس", type: "نقد خارجي موثَّق"
 - id: "crt-religious-conservative-critique-psychoanalysis", title: "النقد الديني/اللاهوتي المحافظ للتحليل النفسي: تهديد للأخلاق", type: "نقد خارجي موثَّق"
+- id: "wrk-future-of-an-illusion-freud", title: "مستقبلُ وهم (Die Zukunft einer Illusion)", type: "عمل / كتاب"
 - id: "crt-research-ethics-historical", title: "نقد أخلاقيات البحث التاريخية: تجارب أسّست مدارس", type: "نقد خارجي موثَّق"
 - id: "tec-stpp", title: "التحليل النفسي الديناميكي قصير المدى (STPP)", type: "تقنية/تدخل علاجي"
 - id: "tec-supportive-expressive", title: "العلاج الداعم-التعبيري", type: "تقنية/تدخل علاجي"
