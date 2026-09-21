@@ -21,9 +21,10 @@ related:
 - id: "dbt-defining-religion-as-analytic-category", title: "مسألةُ «الدين» بوصفه مقولةً قابلةً للتعريف أصلاً", type: "جدل"
 - id: "thk-mircea-eliade", title: "ميرتشيا إلياده", type: "مفكر"
 - id: "dbt-reductionism-vs-non-reductionism-religious-studies", title: "الجدلُ بين المقاربة الاختزالية وغير الاختزالية في دراسة الدين", type: "جدل"
+- id: "wrk-imagining-religion-smith", title: "تخيّلُ الدين: من بابل إلى جونزتاون", type: "عمل / كتاب"
+- id: "dbt-comparativism-vs-contextualism-eliade-smith", title: "الجدلُ بين المقارَنة الشاملة والسياقية: إلياده وسميث ومنهج المقارنة الدينية", type: "جدل"
 gaps:
-  - "لا يوجد بعد ملفّ عملٍ مستقل (`wrk-`) لكتابه *Imagining Religion: From Babylon to Jonestown* (1982) رغم محوريته؛ مذكورٌ بتفصيلٍ في متن هذا الملف وملفّ الجدل. فجوةٌ للدفعة القادمة."
-  - "نقدُه المباشر واللاذع لمنهج إلياده (خاصةً في مقالته 'In Comparison a Magic Dwells') موثَّقٌ هنا وفي ملفّ الجدل؛ لم يُفصَّل بملفّ 'نقد' (`crt-`) منفصل تفادياً لتشظّي المحتوى بين ملفّاتٍ صغيرة جداً."
+  - "سُدَّت 2026-09-21 (الدفعة 41): أُضيف ملفّ عملٍ مستقل (`wrk-imagining-religion-smith`) لكتابه *Imagining Religion: From Babylon to Jonestown* (1982)، وفُصِّل نقدُه لمنهج إلياده في ملفّ جدلٍ مستقل (`dbt-comparativism-vs-contextualism-eliade-smith`) بدل الإشارة الإجمالية السابقة."
 ---
 
 # جوناثان ز. سميث (Jonathan Z. Smith)
