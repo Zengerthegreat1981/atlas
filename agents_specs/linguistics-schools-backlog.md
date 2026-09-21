@@ -71,9 +71,9 @@
 - [x] اللسانياتُ الاجتماعيةُ المتغيّرية (Labovian Variationist Sociolinguistics) — `sch-variationist-sociolinguistics`، `thk-william-labov`، `stu-labov-department-store-r` (الدفعة 7).
 - [x] إثنوغرافيا التواصل والكفايةُ التواصلية (Hymes — SPEAKING) — موجودةٌ بالفعل تحت `part: anthropology` (`thk-dell-hymes`، `sch-ethnography-of-communication`، أنشأتها جلسةٌ أخرى، الدفعة 50 هناك). لا تُنشئ نظيراً لسانياً — اربط فقط عند الحاجة (سُجِّل 2026-09-21 بعد محاولة إنشاءٍ مكرِّرة اكتُشفت وتراجعنا عنها).
 - [x] الازدواجيةُ اللغويةُ والفصحى والعامّية (Diglossia — Ferguson، والحالةُ العربية) — `thk-charles-ferguson`، `con-diglossia` (الدفعة 12). حيادٌ صريحٌ محفوظ إزاء سياسات اللغة العربية المعاصرة، مطابقةً لتوجيهات المهمّة.
-- [ ] اللغةُ والجندر (Lakoff، Tannen، Eckert)
-- [ ] التماسُّ اللغويُّ والكريول والبِجن (Contact Linguistics)
-- [ ] السياسةُ اللغويةُ وموتُ اللغات وإحياؤها (Language Policy & Endangerment)
+- [x] اللغةُ والجندر (Lakoff، Tannen، Eckert) — `sch-language-and-gender`، `thk-deborah-tannen` (الدفعة 19). لايكوف وإكرت لم تُفرَدا بعد.
+- [x] التماسُّ اللغويُّ والكريول والبِجن (Contact Linguistics) — `sch-contact-linguistics-creole` (الدفعة 19). ديريك بيكرتون لم يُفرَد بعد.
+- [x] السياسةُ اللغويةُ وموتُ اللغات وإحياؤها (Language Policy & Endangerment) — `sch-language-policy-endangerment` (الدفعة 19). حيادٌ صريحٌ محفوظ إزاء سياسات اللغة الوطنية.
 - [ ] اللسانياتُ الاستعماريةُ ونقدُها (Linguistic Imperialism — Phillipson، Makoni & Pennycook)
 - [ ] الأيديولوجياتُ اللغوية (Language Ideology — Silverstein، Irvine)
 
@@ -95,7 +95,9 @@
 - [ ] الحُبسةُ واضطراباتُ اللغة (Aphasiology) — **جسرٌ إلى الاضطرابات في الأطلس**
 - [x] ثنائيةُ اللغة والدماغ (Bilingualism & Cognitive Control) — `sch-bilingualism-cognitive-control`، `thk-ellen-bialystok` (الدفعة 18).
 - [~] لغةُ الإشارة بوصفها لغةً طبيعية (Sign Language Linguistics) — `sch-sign-language-linguistics` (الدفعة 13)، مربوطةٌ بجسر علم اللغة العصبي. يتبقّى: وليام ستوكو كمفكرٍ مستقل.
-- [ ] أصلُ اللغة وتطوّرها (Language Evolution — Hauser/Chomsky/Fitch، Tomasello)
+- [x] أصلُ اللغة وتطوّرها (Language Evolution — Hauser/Chomsky/Fitch، Tomasello) — `sch-language-evolution`، `thk-michael-tomasello` (الدفعة 19). حيادٌ صريحٌ إزاء جدل هاوزر/تشومسكي/فيتش مقابل بينكر/جاكندوف.
+
+**القسمُ 8 مكتمل.**
 
 ## 9. اللغةُ والحاسوبُ والقياس (Computational & Corpus)
 
