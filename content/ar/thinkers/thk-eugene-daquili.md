@@ -21,9 +21,11 @@ related:
 - id: "thk-andrew-newberg", title: "أندرو نيوبرغ (Andrew Newberg)", type: "مفكر"
 - id: "wrk-why-god-wont-go-away-newberg-daquili", title: "لماذا لن يختفي الإله: علمُ الدماغ وبيولوجيا الاعتقاد", type: "عمل / كتاب"
 - id: "con-deafferentation-hypothesis-neurotheology", title: "فرضيةُ إزالة الوارد العصبيّ (Deafferentation) في اللاهوت العصبيّ", type: "مفهوم"
+- id: "thk-charles-laughlin", title: "تشارلز لافلن (Charles D. Laughlin)", type: "مفكر"
+- id: "wrk-biogenetic-structuralism-laughlin-daquili", title: "البنيوية الحيوية التكوينية (Biogenetic Structuralism)", type: "عمل / كتاب"
 gaps:
   - "أُنشئ هذا الملفّ 2026-09-22 (الدفعة 88) سدّاً لفجوةٍ كانت موثَّقةً صراحةً في ملفَّي نيوبرغ والمدرسة (لا ملفّ مستقل لشريك نيوبرغ المؤسِّس). لم تُوجد بعدُ ترجمةٌ أو سيرةٌ أكاديميةٌ منشورة كاملة تفصّل مسارَه الشخصيّ (طبيبٌ نفسيٌّ ولاهوتيٌّ بالتكوين قبل تحوّله للأنثروبولوجيا العصبية)؛ الاعتمادُ هنا على عناوين أعماله المنشورة فقط (Open Library) لا على مصدرٍ سيريّ ثانويّ."
-  - "عملاه الأبكر مع Charles Laughlin وJohn McManus (*Biogenetic Structuralism*، 1974، و*The Spectrum of Ritual*، 1979) يستحقّان ملفَّ عملٍ مستقلٍّ إن توفّر مصدرٌ ثانٍ يناقشهما نقدياً؛ اكتُفي هنا بذكرهما في المتن والمصادر."
+  - "سُدَّت 2026-09-22 (دفعةُ تعميق): عملاه الأبكر مع Charles Laughlin وJohn McManus كانا مذكورَين بالاسم فقط. أُفرِد الآن ملفٌّ مستقلٌّ لشريكه لافلن (`thk-charles-laughlin`) ولعملهما المشترك المحوري (`wrk-biogenetic-structuralism-laughlin-daquili`)، بعد توفّر مصدرٍ ثانٍ يناقش العملَ نقدياً (مراجعتان أكاديميتان معاصرتان عبر CrossRef). جون مكمانوس يبقى فجوةً موثَّقة: لم يُفرَد له ملفٌّ مستقل بعد لغياب مصدرٍ مستقلٍّ كافٍ عنه شخصياً."
 ---
 
 # يوجين دكويلي (Eugene G. d'Aquili)
