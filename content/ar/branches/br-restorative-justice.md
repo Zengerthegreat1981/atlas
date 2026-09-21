@@ -20,7 +20,9 @@ related:
 - id: "thk-john-braithwaite", title: "جون برايثوايت", type: "مفكر"
 - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
 - id: "thk-zehr", title: "هوارد زير", type: "مفكر"
+- id: "sch-philosophy-of-punishment", title: "فلسفةُ العقاب: الردعُ والاستحقاقُ والإصلاح (Philosophy of Punishment)", type: "مدرسة"
 gaps:
+  - "**ربطٌ من قسم نظرية القانون (2026-09-21)**: أُضيف `sch-philosophy-of-punishment` — يؤطّر العدالةَ التصالحية ضمن الثنائية الكلاسيكية (الردع والاستحقاق) بوصفها بديلاً ثالثاً، دون تكرار مضمون هذا الملف."
   - "تاريخ RJ في Maori communities (Howard Zehr) يستحق توثيقاً."
   - "الفرق بين 'Community Conferencing' و'Victim-Offender Mediation' يستحق توضيحاً."
   - "نسبة الإطار إلى Howard Zehr تستحق توثيقاً."
