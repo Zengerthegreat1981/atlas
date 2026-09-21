@@ -22,10 +22,11 @@ related:
 - id: "thk-edward-tylor", title: "إدوارد بيرنت تايلور (Edward Burnett Tylor)", type: "مفكر"
 - id: "con-disease-of-language-muller", title: "مرضُ اللغة (Disease of Language) عند ماكس مولر", type: "مفهوم"
 - id: "con-animism-tylor", title: "الإحيائية عند تايلور (Animism)", type: "مفهوم"
+- id: "wrk-making-of-religion-lang", title: "صنعُ الدين (The Making of Religion)", type: "عمل / كتاب"
 gaps:
   - "جدلُه المزدوج مع تايلور (رفضه اطّراد التسلسل التطوّريّ الأحاديّ من الإحيائية البسيطة، عبر أطروحة 'الآلهة العليا البدائية' Primitive High Gods في *صنعُ الدين*) لم يُفصَّل بملفّ جدلٍ (`dbt-` أو `que-`) مستقلٍّ بعد؛ يُترك للقسم 7 (الجدالات) حين يُبنى كاملاً — مذكورٌ هنا إجمالاً في المتن فقط."
-  - "لم يُفرَد لكتابه *صنعُ الدين* (*The Making of Religion*, 1898) ملفُّ عملٍ مستقلٌّ بعد رغم أنه أهمّ نصوصه في نقد المدرسة التطوّرية؛ فجوةٌ موثَّقة تُترك لدفعةٍ لاحقة."
-  - "التحقّقُ اقتصر على عنواني الكتابين وتاريخَي نشرهما عبر Open Library (*Myth, Ritual, and Religion*, 1887؛ *The Making of Religion*, 1898)؛ لم يُراجَع نصُّهما الكامل هنا."
+  - "سُدَّت 2026-09-22 (دفعةٌ لاحقة): أُفرد لكتابه *صنعُ الدين* (*The Making of Religion*, 1898) ملفُّ عملٍ مستقل: `wrk-making-of-religion-lang`."
+  - "التحقّقُ اقتصر على عنواني الكتابين وتاريخَي نشرهما عبر Open Library (*Myth, Ritual, and Religion*, 1887؛ *The Making of Religion*, 1898)؛ لم يُراجَع نصُّ الأول الكامل هنا."
 ---
 
 # أندرو لانغ (Andrew Lang)

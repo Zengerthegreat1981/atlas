@@ -23,6 +23,7 @@ related:
 - id: "sch-myth-theory-religious-studies", title: "نظرياتُ الأسطورة في علم الأديان المقارن", type: "مدرسة"
 - id: "wrk-remarks-on-frazers-golden-bough-wittgenstein", title: "ملاحظاتٌ على الغصن الذهبيّ", type: "عمل / كتاب"
 - id: "thk-andrew-lang", title: "أندرو لانغ (Andrew Lang)", type: "مفكر"
+- id: "wrk-making-of-religion-lang", title: "صنعُ الدين (The Making of Religion)", type: "عمل / كتاب"
 gaps:
   - "الإحيائيةُ عند تايلور موثَّقةٌ بتفصيلٍ كافٍ سابقاً في ملفّه المستقل وفي `con-animism-tylor` (كلاهما تحت anthropology)؛ لم تُكرَّر هنا، واكتُفي بربطٍ صريح والتركيز في متن هذا الملف على البُعد الديني تحديداً (نظرية نشوء الدين) الذي لم يُفرَد له ملفٌّ باسم القسم `religious-studies` من قبل."
   - "فريزر (*الغصن الذهبيّ*) كان مذكوراً كفجوةٍ صريحة في `gaps` ملفّ `sch-classical-evolutionism` (الأنثروبولوجيا)؛ سُدّت هذه الفجوة الآن هنا بملفّ مفكرٍ مستقل ضمن `religious-studies` بدل `anthropology`، لأن مساهمته المحورية دينية (أصل السحر والدين والملك المقدَّس) لا أنثروبولوجية عامة؛ حُذفت إشارة الفجوة من ملفّ الأنثروبولوجيا في هذه الدفعة."
