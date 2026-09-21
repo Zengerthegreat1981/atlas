@@ -19,8 +19,8 @@ edges:
 related:
 - id: "sch-government-and-binding-theory", title: "نظريةُ الحاكميةِ والربط (Government and Binding Theory)", type: "مدرسة"
 - id: "thk-joan-bresnan", title: "جوان برسنان", type: "مفكر"
-gaps:
-  - "إيفان ساغ (Ivan Sag) مؤسّسُ HPSG لم يُفرَد بعد كمفكرٍ مستقل. **سُدَّ جزئياً 2026-09-21 (الدفعة 32)**: أُنشئ `thk-joan-bresnan` (مؤسّسةُ LFG)."
+- id: "thk-ivan-sag", title: "إيفان ساغ", type: "مفكر"
+gaps: []
 ---
 
 # النحوُ التوليديُّ المعجميُّ الوظيفيّ وHPSG

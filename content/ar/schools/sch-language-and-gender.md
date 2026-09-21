@@ -19,8 +19,8 @@ edges:
 related:
 - id: "thk-deborah-tannen", title: "ديبورا تانن", type: "مفكر"
 - id: "thk-robin-lakoff", title: "روبن لايكوف", type: "مفكر"
-gaps:
-  - "بينيلوپي إكرت، رائدةُ نموذج الممارسة الاجتماعية، لم تُفرَد بعد كمفكرةٍ مستقلة. **سُدَّ جزئياً 2026-09-21 (الدفعة 33)**: أُنشئ `thk-robin-lakoff`."
+- id: "thk-penelope-eckert", title: "بينيلوپي إكرت", type: "مفكر"
+gaps: []
 ---
 
 # اللغةُ والجندر
