@@ -19,10 +19,12 @@ related:
 - id: "thk-eric-lenneberg", title: "إريك لينبرغ", type: "مفكر"
 - id: "con-critical-period-hypothesis", title: "فرضيةُ الفترة الحرجة لاكتساب اللغة", type: "مفهوم"
 - id: "sch-generative-grammar", title: "النحوُ التوليديُّ التحويليّ (Generative-Transformational Grammar)", type: "مدرسة"
+- id: "thk-roger-brown", title: "روجر براون", type: "مفكر"
+- id: "con-stages-of-language-acquisition", title: "مراحلُ اكتساب اللغة الأولى (Stages of First Language Acquisition)", type: "مفهوم"
+- id: "thk-steven-pinker", title: "ستيفن بينكر", type: "مفكر"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`) — فرعٌ نمائيٌّ تطبيقيٌّ يتقاطع مع التوليدية والوظيفية معاً دون الانتماء الحصري لإحداهما."
-  - "**قرارٌ تحريري**: ستيفن پينكر (`thk-steven-pinker`، موسومٌ psychology) من أبرز المدافعين عن الفرضية الفطرية في اكتساب اللغة (كتابه *The Language Instinct*، 1994)؛ لم يُنشأ له نظيرٌ هنا، ويُترك الربطُ المباشر به لدفعة الجسور تفادياً لقرارٍ متسرّع."
-  - "مراحلُ الاكتساب التفصيلية (المناغاة، كلمةٌ واحدة، كلمتان، الانفجارُ المفرداتي) لم تُفرَد بملفات مفاهيمَ مستقلة بعد."
+  - "**سُدَّ 2026-09-21 (الدفعة 43)**: رُبط `thk-steven-pinker` (psychology) دون تكرار سيرته؛ وأُنشئت `con-stages-of-language-acquisition` و`thk-roger-brown` لسدّ فجوة مراحل الاكتساب التفصيلية."
   - "برنامجُ مايكل توماسيلو الاستعمالي في اكتساب اللغة (بديلٌ عن الفطرية التوليدية) لم يُغطَّ بعد؛ سيُدرَج ضمن النحو الناشئ عن الاستعمال."
 ---
 

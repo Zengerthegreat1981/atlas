@@ -1,0 +1,44 @@
+---
+slug: "thk-roger-brown"
+id: "THK-11029"
+type: "مفكر"
+part: "linguistics"
+level: "متوسط"
+linguistic_level: "psycholinguistics"
+cultural_origin: "anglo-european"
+title: "روجر براون"
+en: "Roger Brown"
+crumb: "علم اللغة ← العقلُ والدماغُ واللغة ← روجر براون"
+dates: "الولايات المتحدة · 1925–1997"
+country: "الولايات المتحدة"
+language: "الإنجليزية"
+active_start: 1960
+active_end: 1997
+active_source: "lifespan"
+edges:
+- rel: "belongs_to", target: "sch-first-language-acquisition", target_type: "مدرسة"
+related:
+- id: "con-stages-of-language-acquisition", title: "مراحلُ اكتساب اللغة الأولى (Stages of First Language Acquisition)", type: "مفهوم"
+gaps: []
+---
+
+# روجر براون
+
+عالمُ نفسٍ لغويٌّ أمريكيّ، رائدُ الدراسة الطولية المنهجية لاكتساب اللغة عند الأطفال، ومطوّرُ مقياس "متوسط طول الملفوظ" (MLU) الذي صار أداةً معيارية لقياس النمو اللغوي.
+
+## الدراسةُ الطولية الثلاثية: آدم وإيف وسارة
+
+تتبّع براون وفريقُه في جامعة هارفارد نموَّ اللغة عند ثلاثة أطفالٍ (أطلق عليهم أسماءً مستعارة: آدم، وإيف، وسارة) عبر سنواتٍ من التسجيلات المنتظمة لكلامهم التلقائي، في واحدةٍ من أوائل الدراسات الطولية المنهجية الدقيقة لاكتساب اللغة، ونشر نتائجها في عمله المرجعي *A First Language* (1973).
+
+## متوسطُ طول الملفوظ (MLU)
+
+طوّر براون مقياس "متوسط طول الملفوظ" (Mean Length of Utterance، MLU) — متوسط عدد الوحدات الصرفية في ملفوظات الطفل — بوصفه مؤشراً أدقّ للنمو اللغوي من العمر الزمني وحده، إذ يتفاوت الأطفالُ في وتيرة اكتساب اللغة رغم تقارب أعمارهم. قسّم براون مسارَ النمو إلى خمس مراحلَ متدرِّجة وفق قيم MLU، لكلٍّ منها سماتٌ نحويةٌ وصرفيةٌ مميِّزة.
+
+## الأثر
+
+صار مقياسُ MLU أداةً معياريةً في أبحاث اكتساب اللغة والتقييم الإكلينيكي لتأخّر النمو اللغوي، وأسّست منهجيةُ الدراسة الطولية عند براون تقليداً بحثياً محورياً في الحقل.
+
+## المصادر
+
+- Brown, Roger (1973). *A First Language: The Early Stages*. Harvard University Press.
+- Brown, Roger; Bellugi, Ursula (1964). "Three Processes in the Child's Acquisition of Syntax." *Harvard Educational Review* 34(2).
