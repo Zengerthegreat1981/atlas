@@ -23,8 +23,10 @@ related:
 - id: "con-disease-of-language-muller", title: "مرضُ اللغة (Disease of Language) عند ماكس مولر", type: "مفهوم"
 - id: "con-animism-tylor", title: "الإحيائية عند تايلور (Animism)", type: "مفهوم"
 - id: "wrk-making-of-religion-lang", title: "صنعُ الدين (The Making of Religion)", type: "عمل / كتاب"
+- id: "dbt-solar-mythology-vs-anthropological-school-muller-lang", title: "الأسطورةُ الشمسيةُ في مواجهة المدرسة الأنثروبولوجية: جدلُ مولر ولانغ", type: "جدل"
 gaps:
   - "جدلُه المزدوج مع تايلور (رفضه اطّراد التسلسل التطوّريّ الأحاديّ من الإحيائية البسيطة، عبر أطروحة 'الآلهة العليا البدائية' Primitive High Gods في *صنعُ الدين*) لم يُفصَّل بملفّ جدلٍ (`dbt-` أو `que-`) مستقلٍّ بعد؛ يُترك للقسم 7 (الجدالات) حين يُبنى كاملاً — مذكورٌ هنا إجمالاً في المتن فقط."
+  - "سُدَّت 2026-09-22 (الدفعة 98): جدلُه مع مولر حول الأسطورة الشمسية فُصِّل الآن في ملفّ جدلٍ مستقل: `dbt-solar-mythology-vs-anthropological-school-muller-lang`."
   - "سُدَّت 2026-09-22 (دفعةٌ لاحقة): أُفرد لكتابه *صنعُ الدين* (*The Making of Religion*, 1898) ملفُّ عملٍ مستقل: `wrk-making-of-religion-lang`."
   - "التحقّقُ اقتصر على عنواني الكتابين وتاريخَي نشرهما عبر Open Library (*Myth, Ritual, and Religion*, 1887؛ *The Making of Religion*, 1898)؛ لم يُراجَع نصُّ الأول الكامل هنا."
 ---
