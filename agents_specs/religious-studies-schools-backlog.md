@@ -9,7 +9,7 @@
 
 ## 1. التأسيسُ والمقارَنة
 - [x] نشأةُ علم الأديان المقارن (ماكس مولر و«علمُ الدين») — `thk-max-muller` + `sch-founding-comparative-religion-science-of-religion`، يربطان بـ`sch-arabic-comparative-religion-tradition` و`thk-edward-tylor`/`sch-classical-evolutionism` الموجودين مسبقاً دون تكرار؛ فريزر ومدرسة تاريخ الأديان الألمانية تُركا فجوةً موثّقة لدفعةٍ لاحقة، الدفعة 7
-- [ ] المدرسةُ التطوّريةُ في الدين (تايلور والأرواحية، فريزر و*الغصن الذهبيّ*)
+- [x] المدرسةُ التطوّريةُ في الدين (تايلور والأرواحية، فريزر و*الغصن الذهبيّ*) — `sch-evolutionary-theory-of-religion` (SCH-6805) + `thk-james-frazer` (THK-8009) جديدان، يربطان بـ`thk-edward-tylor`/`con-animism-tylor`/`sch-classical-evolutionism` الموجودين مسبقاً تحت anthropology دون تكرار سيرتهم؛ سُدَّت فجوةُ فريزر الموثَّقة في ملفّ sch-classical-evolutionism، الدفعة 15
 - [ ] مدرسةُ تاريخ الأديان الألمانية (Religionsgeschichtliche Schule)
 - [x] التقليدُ العربيُّ في مقارنة الأديان (البيروني، الشهرستاني، ابن حزم) — `sch-arabic-comparative-religion-tradition` + 3 مفكرين + 3 أعمال، الدفعة 1
 

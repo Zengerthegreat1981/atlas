@@ -18,7 +18,9 @@ related:
 - id: "sch-classical-evolutionism", title: "الأنثروبولوجيا التطوّرية الكلاسيكية (Classical Evolutionism)", type: "مدرسة"
 - id: "wrk-primitive-culture-tylor", title: "الثقافة البدائية (Primitive Culture)", type: "عمل / كتاب"
 - id: "con-animism-tylor", title: "الإحيائية عند تايلور (Animism)", type: "مفهوم"
-gaps: []
+- id: "sch-evolutionary-theory-of-religion", title: "المدرسةُ التطوّريةُ في دراسة الدين: تايلور والإحيائية، فريزر والغصنُ الذهبيّ", type: "مدرسة"
+gaps:
+  - "أُضيف رابطٌ إلى `sch-evolutionary-theory-of-religion` (علمُ الأديان المقارن، الدفعة 15) الذي يُبرز نظريته في نشوء الدين تحديداً إلى جانب فريزر، دون تكرار سيرته هنا."
 ---
 # إدوارد بيرنت تايلور (Edward Burnett Tylor)
 
