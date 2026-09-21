@@ -19,6 +19,7 @@ related:
 - id: "thk-dan-sperber", title: "دان سپربر", type: "مفكر"
 - id: "thk-deirdre-wilson", title: "ديردري ويلسون", type: "مفكر"
 - id: "thk-pgrice", title: "هربرت باول غرايس", type: "مفكر"
+- id: "con-ostensive-inferential-communication", title: "التواصلُ الإشاريُّ-الاستدلاليُّ (Ostensive-Inferential Communication)", type: "مفهوم"
 gaps:
   - "**تقاطعٌ مع فلسفة اللغة**: النظريةُ تنطلق نقدياً من مبدأ التعاون عند غرايس (`thk-pgrice`، موسومٌ philosophy وموجودٌ بالفعل في الأطلس)؛ رُبط إليه هنا بـ`related` دون تكرار سيرته أو نظريته."
   - "عقدةٌ جذريةٌ (لا `belongs_to` ولا `evolved_from`): لا مدرسةَ لسانيةٍ أخرى في هذا القسم بعدُ يصحُّ عقدُ انحدارٍ تاريخيٍّ موثَّقٍ منها؛ صلتُها بالتداولية الغرايسية نقديةٌ لا نَسَبية، فلم تُقحَم كعلاقة انتماء."
