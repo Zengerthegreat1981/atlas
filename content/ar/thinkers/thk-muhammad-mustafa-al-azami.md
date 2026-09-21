@@ -23,6 +23,7 @@ related:
 - id: "thk-ignaz-goldziher", title: "إغناتس غولدتسيهر (Ignaz Goldziher)", type: "مفكر"
 - id: "thk-mustafa-al-sibai", title: "مصطفى السباعي", type: "مفكر"
 - id: "thk-harald-motzki", title: "هارالد موتسكي (Harald Motzki)", type: "مفكر"
+- id: "wrk-origins-muhammadan-jurisprudence-schacht", title: "أصولُ الفقه المحمَّديّ (The Origins of Muhammadan Jurisprudence)", type: "عمل"
 gaps:
   - "سُدَّت 2026-09-21 (الدفعة 50): مصطفى السباعي (*السنة ومكانتها في التشريع الإسلامي*)، الردُّ الأكاديميُّ الإسلاميُّ الأسبق زمنياً على غولدتسيهر تحديداً، له الآن ملفٌّ مستقل: `thk-mustafa-al-sibai`."
   - "سُدَّت 2026-09-22: هارالد موتسكي، الذي طوَّر منهج «الإسناد مع المتن» المذكور في متن هذا الملف بصرامةٍ إحصائية أدقّ ونشره داخل الاستشراق الأكاديمي الغربي، له الآن ملفٌّ مستقل: `thk-harald-motzki`."

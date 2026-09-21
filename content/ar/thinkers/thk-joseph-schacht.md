@@ -20,8 +20,9 @@ related:
 - id: "sch-academic-islamic-studies-orientalism-critique", title: "دراسةُ الإسلام أكاديمياً ونقدُ الاستشراق", type: "مدرسة"
 - id: "thk-ignaz-goldziher", title: "إغناتس غولدتسيهر (Ignaz Goldziher)", type: "مفكر"
 - id: "thk-muhammad-mustafa-al-azami", title: "محمد مصطفى الأعظمي", type: "مفكر"
+- id: "wrk-origins-muhammadan-jurisprudence-schacht", title: "أصولُ الفقه المحمَّديّ (The Origins of Muhammadan Jurisprudence)", type: "عمل"
 gaps:
-  - "لا يوجد بعد ملفّ عملٍ مستقل (`wrk-`) لكتابه *The Origins of Muhammadan Jurisprudence* (1950)؛ فجوةٌ للدفعة القادمة."
+  - "سُدَّت 2026-09-22: أُفرِد الآن ملفُّ عملٍ مستقل لكتابه *The Origins of Muhammadan Jurisprudence* (1950): `wrk-origins-muhammadan-jurisprudence-schacht`."
 ---
 
 # جوزيف شاخت (Joseph Schacht)
