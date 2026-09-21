@@ -17,13 +17,14 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-subaltern-studies-historiographical-critique", target_type: "مدرسة"
 related:
+- id: "thk-salih-ahmad-al-ali", title: "صالح أحمد العلي", type: "مفكر"
 - id: "thk-abdallah-laroui", title: "عبد الله العروي", type: "مفكر"
 - id: "thk-mohammed-abed-al-jabri", title: "محمد عابد الجابري", type: "مفكر"
 - id: "con-arab-historicism-laroui", title: "التاريخانية ونقد الوعي التقليدي (عبد الله العروي)", type: "مفهوم"
 - id: "sch-transnational-global-history", title: "التاريخُ العابرُ للقومياتِ والتاريخُ العالميّ (Global and Transnational History)", type: "مدرسة"
 gaps:
   - "**لا تكرار 2026-09-14:** `thk-abdallah-laroui` و`thk-mohammed-abed-al-jabri` و`con-arab-historicism-laroui` موجودون تحت `philosophy` بتحليلٍ فلسفيٍّ شامل لمشروعيهما؛ هذا الملفّ لا يكرّر ذلك، بل يوثّق تحديداً **إسهامهما المنهجيّ في نقد كتابة التاريخ العربي نفسها** (لا مشروعهما الفكري العام)، بربطٍ لا استنساخ."
-  - "**فجوةٌ موثَّقة:** صالح أحمد العلي (مؤرّخ عراقي، تخصّص في تاريخ الجزيرة العربية المبكر) المذكور في الموجز الأصلي لهذه المهمة لم يُبحث بعد لغياب مصدرين موثَّقين كافيين لبناء فقرةٍ عنه في هذه الدفعة؛ يُترك لدفعةٍ لاحقة."
+  - "**تحديث 2026-09-22:** أُنشئ `thk-salih-ahmad-al-ali`، سادّاً الفجوةَ الأخيرة المتبقية من قائمة `HISTORIOGRAPHY_CLOSEOUT_ADDENDUM_2026-09-21.md`."
 ---
 # التاريخُ العربيُّ الحديثُ ونقدُ الاستشراق (العروي والجابري)
 
