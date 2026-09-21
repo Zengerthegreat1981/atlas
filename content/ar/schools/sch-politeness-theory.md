@@ -19,6 +19,7 @@ edges:
 related:
 - id: "sch-gricean-pragmatics", title: "التداوليةُ الغرايسية (Gricean Pragmatics)", type: "مدرسة"
 - id: "con-speech-acts-performatives", title: "أفعال الكلام والقضايا الإنجازية (Speech Acts & Performatives)", type: "مفهوم"
+- id: "con-honorifics-tv-distinction", title: "صيغُ التبجيل والتمييزُ التائي-الڤائي (Honorifics & the T-V Distinction)", type: "مفهوم"
 gaps:
   - "`con-speech-acts-performatives` موسومٌ ضمن نطاق فلسفة اللغة أساساً؛ رُبط إليه بـ`related` بوصف نظرية التأدّب تستعمل مفهوم فعل الكلام أداةً تحليلية دون تكرار شرحه الفلسفي الكامل."
 ---
