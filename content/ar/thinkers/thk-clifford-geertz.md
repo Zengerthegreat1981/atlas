@@ -22,6 +22,7 @@ related:
 - id: "wrk-negara-theatre-state-geertz", title: "نيغارا: الدولة المسرحية (Negara: The Theatre State)", type: "عمل / كتاب"
 - id: "con-deep-play-geertz", title: "اللعبُ العميق (Deep Play)", type: "مفهوم"
 - id: "sch-symbolic-anthropology-of-religion", title: "الأنثروبولوجيا الرمزيةُ والتأويليةُ للدين: تيرنر ودوغلاس وغيرتز", type: "مدرسة"
+- id: "dbt-thick-description-vs-phenomenological-description", title: "الوصفُ الكثيف مقابل الوصف الظاهراتي في دراسة الدين: غيرتز وإلياده", type: "جدل"
 gaps:
   - "تأثّرُ غيرتز بماكس فيبر (فهم المعنى الذاتي، Verstehen) مذكورٌ نصّاً؛ لم يُضَف ضلعُ evolved_from صريح لعدم كتابة سلسلة نسبٍ منهجيةٍ مباشرة بين فيبر وغيرتز في مصدرٍ داخل الأطلس."
   - "أُضيف رابطٌ إلى `sch-symbolic-anthropology-of-religion` (علمُ الأديان المقارن، الدفعة 14) الذي يُبرز تعريفه الدينَ كنسقٍ رمزيّ ودراسته للإسلام المقارَن تحديداً دون تكرار سيرته هنا."
