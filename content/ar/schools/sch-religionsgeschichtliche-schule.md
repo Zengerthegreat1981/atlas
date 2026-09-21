@@ -18,7 +18,7 @@ related:
 - id: "thk-hermann-gunkel", title: "هرمان غونكل (Hermann Gunkel)", type: "مفكر"
 - id: "thk-julius-wellhausen", title: "يوليوس فلهاوزن", type: "مفكر"
 - id: "sch-higher-criticism-biblical-studies", title: "النقدُ الأعلى ودراساتُ الكتاب المقدَّس النقدية", type: "مدرسة"
-- id: "sch-founding-comparative-religion-science-of-religion", title: "تأسيسُ علم الأديان المقارن (ماكس مولر وعلمُ الدين)", type: "مدرسة"
+- id: "sch-founding-comparative-religion-science-of-religion", title: "تأسيسُ «علمِ الدين» (Science of Religion): ماكس مولر ونشأةُ علم الأديان المقارن", type: "مدرسة"
 - id: "sch-evolutionary-theory-of-religion", title: "المدرسةُ التطوّريةُ في دراسة الدين: تايلور والإحيائية، فريزر والغصنُ الذهبيّ", type: "مدرسة"
 gaps:
   - "لم يُضَف بعد ملفٌّ مستقل لفيلهلم بوسيه (Wilhelm Bousset، دراسة الخلفية الهلّينية-الشرقية لليهودية المتأخرة والمسيحية المبكرة) ولا لإرنست تروِلتش (Ernst Troeltsch، اللاهوت النسبي التاريخي)، وكلاهما من المؤسِّسين الأساسيين لهذه المدرسة إلى جانب غونكل؛ ذُكرا في المتن دون رابطٍ مستقل. فجوةٌ موثَّقة للدفعة القادمة."

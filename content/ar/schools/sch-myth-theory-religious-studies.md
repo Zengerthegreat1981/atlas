@@ -21,7 +21,7 @@ related:
 - id: "thk-rene-girard", title: "رينيه جيرار", type: "مفكر"
 - id: "thk-mircea-eliade", title: "مرسيا إلياده", type: "مفكر"
 - id: "sch-ritual-theory-religious-studies", title: "نظرياتُ الطقس في علم الأديان المقارن: من روبرتسون سميث إلى هوبير وموس", type: "مدرسة"
-- id: "sch-founding-comparative-religion-science-of-religion", title: "تأسيسُ علم الأديان المقارن (ماكس مولر وعلمُ الدين)", type: "مدرسة"
+- id: "sch-founding-comparative-religion-science-of-religion", title: "تأسيسُ «علمِ الدين» (Science of Religion): ماكس مولر ونشأةُ علم الأديان المقارن", type: "مدرسة"
 - id: "thk-talal-asad", title: "طلال أسد (Talal Asad)", type: "مفكر"
 - id: "wrk-genealogies-of-religion-asad", title: "جينالوجياتُ الدين (Genealogies of Religion)", type: "عمل / كتاب"
 gaps:

@@ -37,7 +37,7 @@
 ## 5. الأديانُ والتقاليدُ بوصفها موضوعاتِ دراسة
 - [x] دراسةُ الإسلام أكاديمياً ونقدُ الاستشراق — `sch-academic-islamic-studies-orientalism-critique` (SCH-6812) + `thk-ignaz-goldziher` (THK-8015) جديدان، يربطان بـ`thk-said`/`con-orientalism`/`wrk-orientalism-said` (فلسفة، تغطيةٌ استثنائية الغنى مسبقاً) و`thk-al-shahrastani`/`sch-arabic-comparative-religion-tradition` الموجودين مسبقاً دون تكرار، مع روابطَ عكسية؛ جوزيف شاخت والردود الإسلامية الأكاديمية (السباعي، الأعظمي) تُركا فجوةً موثَّقة، الدفعة 22
 - [x] دراساتُ الكتاب المقدّس النقديةُ (النقدُ الأعلى، فرضيةُ الوثائق) — `sch-higher-criticism-biblical-studies` + `thk-julius-wellhausen` + `con-documentary-hypothesis-wellhausen`، الدفعة 3
-- [ ] دراسةُ الأديان الهنديةِ والبوذية أكاديمياً
+- [x] دراسةُ الأديان الهنديةِ والبوذية أكاديمياً — `sch-academic-buddhist-indic-studies` (SCH-6813) + `thk-eugene-burnouf` (THK-8016) جديدان، يربطان بـ`thk-max-muller` الموجود مسبقاً (معلِّمُه) دون تكرار سيرته؛ رايس ديفيدز والنقد ما بعد الاستعماري (لوبيز) تُركا فجوةً موثَّقة، الدفعة 23
 - [ ] الأديانُ الأفريقيةُ التقليديةُ ونقدُ تصنيفها
 - [x] الشامانيةُ بوصفها فئةً مقارَنة — `sch-shamanism-comparative-category` + `con-shamanism-category-critique-kehoe` (يربطان بـ`thk-mircea-eliade` الموجود مسبقاً دون تكرار وصف *Le Chamanisme*)، الدفعة 6
 - [x] الحركاتُ الدينيةُ الجديدةُ ومسألةُ «الطائفة» (NRMs & the Cult Debate) — `sch-new-religious-movements-cult-debate` + `thk-eileen-barker` + `con-brainwashing-conversion-debate`، الدفعة 4

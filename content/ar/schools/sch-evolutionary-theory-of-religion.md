@@ -19,7 +19,7 @@ related:
 - id: "thk-james-frazer", title: "جيمس فريزر (James George Frazer)", type: "مفكر"
 - id: "sch-classical-evolutionism", title: "الأنثروبولوجيا التطوّرية الكلاسيكية (Classical Evolutionism)", type: "مدرسة"
 - id: "con-animism-tylor", title: "الإحيائية عند تايلور (Animism)", type: "مفهوم"
-- id: "sch-founding-comparative-religion-science-of-religion", title: "تأسيسُ علم الأديان المقارن (ماكس مولر وعلمُ الدين)", type: "مدرسة"
+- id: "sch-founding-comparative-religion-science-of-religion", title: "تأسيسُ «علمِ الدين» (Science of Religion): ماكس مولر ونشأةُ علم الأديان المقارن", type: "مدرسة"
 - id: "sch-myth-theory-religious-studies", title: "نظرياتُ الأسطورة في علم الأديان المقارن", type: "مدرسة"
 gaps:
   - "الإحيائيةُ عند تايلور موثَّقةٌ بتفصيلٍ كافٍ سابقاً في ملفّه المستقل وفي `con-animism-tylor` (كلاهما تحت anthropology)؛ لم تُكرَّر هنا، واكتُفي بربطٍ صريح والتركيز في متن هذا الملف على البُعد الديني تحديداً (نظرية نشوء الدين) الذي لم يُفرَد له ملفٌّ باسم القسم `religious-studies` من قبل."
