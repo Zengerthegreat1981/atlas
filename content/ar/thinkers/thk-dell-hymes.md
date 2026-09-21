@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-ethnography-of-communication", title: "إثنوغرافيا التواصل (Ethnography of Communication)", type: "مدرسة"
 - id: "thk-edward-sapir", title: "إدوارد سابير (Edward Sapir)", type: "مفكر"
+- id: "thk-john-gumperz", title: "جون گمپرز (John J. Gumperz)", type: "مفكر"
 gaps: []
 ---
 # ديل هايمز (Dell Hymes)
