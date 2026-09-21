@@ -22,7 +22,9 @@ related:
 - id: "dbt-sacred-books-of-the-east-orientalism-critique", title: "مشروعُ «كتب الشرق المقدَّسة» بوصفه إنتاجاً استعمارياً للمعرفة: مولر في ميزان نقد الاستشراق", type: "جدل"
 - id: "thk-james-frazer", title: "جيمس فريزر (James George Frazer)", type: "مفكر"
 - id: "sch-religionsgeschichtliche-schule", title: "مدرسةُ تاريخ الأديان الألمانية (Religionsgeschichtliche Schule)", type: "مدرسة"
+- id: "con-disease-of-language-muller", title: "مرضُ اللغة (Disease of Language) عند ماكس مولر", type: "مفهوم"
 gaps:
+  - "سُدَّت 2026-09-22 (الدفعة 75): أُضيف مفهومٌ مستقل لأطروحة مولر المحورية 'مرضُ اللغة' (`con-disease-of-language-muller`)، كان مذكوراً إجمالاً في متن ملفّ مولر فقط."
   - "سُدَّت (تصحيحُ فجوةٍ باليةٍ، الدفعة 54): بند فريزر أعلاه كان قد سُدَّ فعلياً منذ الدفعة 15 (`thk-james-frazer`)، وبند مدرسة تاريخ الأديان الألمانية سُدَّ منذ الدفعة 16 (`sch-religionsgeschichtliche-schule`)، لكن هذا الملفَّ لم يُحدَّث وقتها ليعكس ذلك؛ صُحِّحت الفجوتان الآن بإضافة رابطَي `related` الصريحَين أعلاه دون تكرار سيرتهما."
   - "سُدَّت 2026-09-21 (الدفعة 45): نقدُ إدوارد سعيد (*Orientalism*, 1978) لمشروع 'كتب الشرق المقدّسة' بوصفه إنتاجاً استعمارياً للمعرفة فُصِّل الآن في ملفّ جدلٍ مستقل: `dbt-sacred-books-of-the-east-orientalism-critique`."
 ---
