@@ -19,7 +19,10 @@ related:
 - id: "sch-critical-race-theory-law", title: "النظريةُ العنصريةُ النقدية (Critical Race Theory — CRT)", type: "مدرسة"
 - id: "con-interest-convergence-bell", title: "التقاءُ المصالح (Interest Convergence)", type: "مفهوم"
 - id: "thk-crenshaw", title: "كيمبرلي كرنشو", type: "مفكر"
+- id: "thk-richard-delgado", title: "ريتشارد دلغادو (Richard Delgado)", type: "مفكر"
+- id: "con-legal-storytelling-counter-narrative", title: "السردُ القانونيُّ المضادّ (Legal Storytelling/Counter-Narrative)", type: "مفهوم"
 gaps:
+  - "**سُدَّ 2026-09-21**: أُضيفت `thk-richard-delgado` و`con-legal-storytelling-counter-narrative` (منهجُ *And We Are Not Saved* موثَّقٌ الآن بملفٍّ مستقل)."
   - "استقالتُه الاحتجاجيةُ من هارفارد عام 1990 اعتراضاً على غياب أستاذاتٍ من النساء الملوَّنات في هيئة التدريس — حدثٌ مؤسِّسٌ في تاريخ الحركة — أُشير إليه إجمالاً دون تفصيل وقائعه."
   - "أسلوبُه السرديُّ المميَّز (استعمال قصصٍ خياليةٍ وحوارات لعرض حجج قانونية، كما في *And We Are Not Saved*, 1987) لم يُحلَّل منهجياً هنا بوصفه أداةً نظريةً بذاتها (السردُ القانونيُّ النقدي، Legal Storytelling)."
 ---

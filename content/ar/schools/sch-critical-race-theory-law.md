@@ -20,7 +20,10 @@ related:
 - id: "thk-derrick-bell", title: "دِريك بِل (Derrick Bell)", type: "مفكر"
 - id: "thk-crenshaw", title: "كيمبرلي كرنشو", type: "مفكر"
 - id: "con-interest-convergence-bell", title: "التقاءُ المصالح (Interest Convergence)", type: "مفهوم"
+- id: "thk-richard-delgado", title: "ريتشارد دلغادو (Richard Delgado)", type: "مفكر"
+- id: "con-legal-storytelling-counter-narrative", title: "السردُ القانونيُّ المضادّ (Legal Storytelling/Counter-Narrative)", type: "مفهوم"
 gaps:
+  - "**سُدَّ 2026-09-21**: أُضيفت `thk-richard-delgado` و`con-legal-storytelling-counter-narrative` (كان دلغادو مذكوراً كمؤلِّفٍ في المصادر دون ملفٍّ مستقل)."
   - "هذا الملفُّ أُنشئ في الدفعة 11 من مهمة بناء قسم نظرية القانون (القسم 4 من `legal-theory-schools-backlog.md`)."
   - "**اربط ولا تكرّر**: `thk-crenshaw` (فلسفة) موجودةٌ بالفعل وتوثّق مفهومَ التقاطعية ودورَها في تأسيس CRT بتفصيلٍ جيد؛ لم يُنشأ ملفٌّ ثانٍ لها هنا، بل اكتُفي بالربط."
 ---
