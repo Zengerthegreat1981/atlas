@@ -18,6 +18,8 @@ edges: []
 related:
 - id: "thk-ellen-bialystok", title: "إلين بياليستوك", type: "مفكر"
 - id: "sch-second-language-acquisition", title: "اكتسابُ اللغة الثانيةُ والفترةُ الحرجة (SLA & Critical Period)", type: "مدرسة"
+- id: "que-bilingual-one-or-two-grammars", title: "هل يملك ثنائيُّ اللغة نظامَين نحويَّين منفصلَين أم نظاماً واحداً متكاملاً؟", type: "سؤال توليدي"
+- id: "con-code-switching-mixing", title: "التبديلُ والمزجُ الرمزي (Code-Switching & Code-Mixing)", type: "مفهوم"
 gaps:
   - "لا `belongs_to`: فرعٌ يجمع علمَ اللغة النفسي بعلم النفس المعرفي، لا ينحدر تاريخياً من مدرسةٍ لسانيةٍ واحدة."
 ---
