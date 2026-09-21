@@ -34,7 +34,7 @@
 - [ ] الواقعيةُ الاسكندنافية (هاغرستروم، روس)
 - [x] الدراساتُ القانونيةُ النقدية (CLS — كنيدي، أنغر، لاإحداثيةُ القانون) — الدفعةُ 10: `sch-critical-legal-studies`، `thk-duncan-kennedy`، `thk-roberto-unger`، `con-legal-indeterminacy-cls`
 - [x] النظريةُ العنصريةُ النقدية (CRT — بِل، كرِنشو، **والتقاطعية**) — الدفعةُ 11: `sch-critical-race-theory-law`، `thk-derrick-bell`، `con-interest-convergence-bell`؛ ربط بـ`thk-crenshaw` القائم (فلسفة) دون استنساخ
-- [ ] الفقهُ القانونيُّ النسويُّ (ماكينون، ويست، غيليغان في القانون) — **جسرٌ إلى علم النفس**
+- [x] الفقهُ القانونيُّ النسويُّ (ماكينون، ويست، غيليغان في القانون) — **جسرٌ إلى علم النفس** — الدفعةُ 18: `sch-feminist-jurisprudence`، `thk-robin-west`، `con-jurisprudence-and-gender-west`؛ ربط بـ`thk-mackinnon` و`thk-gilligan` القائمَين دون استنساخ
 - [ ] القانونُ ما بعدَ الاستعماريُّ والقانونُ المقارَن النقديّ
 
 ## 5. القانونُ والاقتصادُ والمجتمع

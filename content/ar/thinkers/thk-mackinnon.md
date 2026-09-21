@@ -18,7 +18,9 @@ related:
 - id: "sch-feminism-radical", title: "النسوية الراديكالية", type: "مدرسة"
 - id: "thk-pateman", title: "كارول بيتمان", type: "مفكر"
 - id: "dbt-trans-exclusionary-radical-feminism", title: "جدل النسوية الراديكالية واستبعاد الترانس", type: "جدل"
+- id: "sch-feminist-jurisprudence", title: "الفقهُ القانونيُّ النسويُّ (Feminist Jurisprudence)", type: "مدرسة"
 gaps:
+  - "**ربطٌ من قسم نظرية القانون (2026-09-21)**: أُضيف `sch-feminist-jurisprudence` — يوثّق مساهمتَها القانونية (نظرية التحرش الجنسي) ضمن سياق الفقه النسوي الأوسع دون استنساخ سيرتها هنا."
   - "نصوص MacKinnon (Sexual Harassment, Toward a Feminist Theory of the State) تحتاج مراجعة من المصدر الأولي."
 ---
 

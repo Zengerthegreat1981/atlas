@@ -19,7 +19,9 @@ related:
 - id: "thk-lkohlberg", title: "لورنس كولبرغ", type: "مفكر"
 - id: "con-different-voice", title: "الصوت المختلف (In a Different Voice)", type: "مفهوم"
 - id: "ctx-me-too-movement-gender-accountability", title: "حركة MeToo وتفكيك ثقافة الإفلات من العقاب والعنف الجندري", type: "سياق/تقليد"
+- id: "con-jurisprudence-and-gender-west", title: "الفقهُ القانونيُّ والنوعُ الاجتماعي (Jurisprudence and Gender)", type: "مفهوم"
 gaps:
+  - "**ربطٌ من قسم نظرية القانون (2026-09-21)**: أُضيف `con-jurisprudence-and-gender-west` — يوثّق توظيفَ روبن ويست لنظرية «الصوت المختلف» في نقد نظرية القانون، دون استنساخ نظرية غيليغان النفسية الأساسية الموجودة هنا."
   - "لم تُراجع بعدُ طبعة Harvard University Press الأصلية لـ *In a Different Voice* (1982)."
   - "لا اقتباس مباشر موثّق منها في هذا الملف."
   - "دُمج معه الملف المكرَّر thk-cgilligan (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."
