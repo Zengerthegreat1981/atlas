@@ -18,7 +18,9 @@ edges:
 related:
 - id: "sch-empirical-legal-studies", title: "المنهجُ التجريبيُّ في دراسة القانون (Empirical Legal Studies)", type: "مدرسة"
 - id: "sch-american-legal-realism", title: "الواقعيةُ القانونيةُ الأمريكية (American Legal Realism)", type: "مدرسة"
+- id: "thk-gary-king", title: "غاري كينغ (Gary King)", type: "مفكر"
 gaps:
+  - "**تعميقٌ 2026-09-22**: أُضيف `thk-gary-king` (شريكُها في تأليف The Rules of Inference)."
   - "**سُدَّ 2026-09-21**: كانت مذكورةً كمصدرٍ في `sch-empirical-legal-studies` دون ملفٍّ مستقل؛ أُنشئ الآن."
   - "أعمالُها الأوسع في تحليل سلوك القضاة إحصائياً (خصوصاً *The Behavior of Federal Judges*, 2013، بالاشتراك مع بوسبرغر وياموتو) لم تُفصَّل بتفصيلٍ منهجيّ كامل هنا."
 ---
