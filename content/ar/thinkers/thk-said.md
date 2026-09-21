@@ -24,6 +24,7 @@ related:
 - id: "wrk-culture-and-imperialism-said", title: "الثقافة والإمبريالية", type: "عمل / كتاب"
 - id: "thk-halim-barakat", title: "حليم بركات", type: "مفكر"
 - id: "sch-academic-islamic-studies-orientalism-critique", title: "دراسةُ الإسلام أكاديمياً ونقدُ الاستشراق", type: "مدرسة"
+- id: "dbt-sacred-books-of-the-east-orientalism-critique", title: "مشروعُ «كتب الشرق المقدَّسة» بوصفه إنتاجاً استعمارياً للمعرفة: مولر في ميزان نقد الاستشراق", type: "جدل"
 gaps:
   - "أُضيف رابطٌ إلى `sch-academic-islamic-studies-orientalism-critique` (علمُ الأديان المقارن، الدفعة 22) الذي يُبرز نقدَه لحقل الدراسات الإسلامية تحديداً دون تكرار سيرته الكاملة الموجودة هنا."
   - "**تعميقٌ 2026-09-15:** أُضيف `wrk-culture-and-imperialism-said` (part: sociology، belongs_to sch-said-sociology-of-orientalism) وربطه هنا."

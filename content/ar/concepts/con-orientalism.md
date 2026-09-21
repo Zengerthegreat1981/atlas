@@ -16,6 +16,7 @@ related:
 - id: "thk-said", title: "إدوارد سعيد", type: "مفكر"
 - id: "wrk-orientalism-said", title: "الاستشراق (Orientalism) — الكتاب", type: "عمل / كتاب"
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
+- id: "dbt-sacred-books-of-the-east-orientalism-critique", title: "مشروعُ «كتب الشرق المقدَّسة» بوصفه إنتاجاً استعمارياً للمعرفة: مولر في ميزان نقد الاستشراق", type: "جدل"
 gaps:
   - "لم تُراجع بعدُ طبعة Pantheon Books الأصلية (1978) ولا ردود فعل المؤرخين (ديفيد، برنال، لويز)."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
