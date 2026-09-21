@@ -22,6 +22,7 @@ related:
 - id: "thk-victoria-fromkin", title: "ﭬيكتوريا فرومكين", type: "مفكر"
 - id: "con-speech-errors-slips-tongue", title: "زلّاتُ اللسان وأخطاءُ الكلام (Speech Errors & Slips of the Tongue)", type: "مفهوم"
 - id: "thk-willem-levelt", title: "ﭬيلم ليڤلت", type: "مفكر"
+- id: "con-orthographic-depth-hypothesis", title: "فرضيةُ العمق الكتابي (Orthographic Depth Hypothesis)", type: "مفهوم"
 gaps:
   - "لا `belongs_to`: فرعٌ تجريبيٌّ يختبر تنبّؤات النظريات النحوية زمنياً، لكنه لا ينحدر تاريخياً من مدرسةٍ نظريةٍ واحدة."
 ---

@@ -15,6 +15,7 @@ related:
 - id: "sch-linguistic-typology", title: "النمطيةُ اللغويةُ والكلّياتُ اللغوية (Linguistic Typology & Universals)", type: "مدرسة"
 - id: "con-phoneme", title: "الفونيم", type: "مفهوم"
 - id: "con-morphological-typology", title: "النمطيةُ الصرفية (Morphological Typology)", type: "مفهوم"
+- id: "con-orthographic-depth-hypothesis", title: "فرضيةُ العمق الكتابي (Orthographic Depth Hypothesis)", type: "مفهوم"
 gaps: []
 ---
 
