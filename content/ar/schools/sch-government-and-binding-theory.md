@@ -19,6 +19,8 @@ edges:
 related:
 - id: "thk-noam-chomsky", title: "نعوم تشومسكي", type: "مفكر"
 - id: "con-deep-surface-structure", title: "البنيةُ العميقة والبنيةُ السطحية", type: "مفهوم"
+- id: "con-x-bar-theory", title: "نظريةُ X-Bar (X-Bar Theory)", type: "مفهوم"
+- id: "con-wh-movement-c-command", title: "حركةُ الاستفهام والتحكّمُ-الإسنادي (Wh-Movement & C-Command)", type: "مفهوم"
 - id: "sch-minimalist-program", title: "البرنامجُ الأدنويّ (The Minimalist Program)", type: "مدرسة"
 gaps:
   - "`thk-noam-chomsky` موسومٌ `philosophy` (قرارٌ محسوم في DR-014) ولم يُكرَّر هنا؛ العقدةُ تفرد الإطارَ النظريَّ التقنيَّ الذي طوّره في هذه المرحلة دون إعادة سيرته."
