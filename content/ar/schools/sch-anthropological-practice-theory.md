@@ -17,6 +17,7 @@ active_end: 2000
 edges: []
 related:
 - id: "thk-sherry-ortner", title: "شيري أورتنر (Sherry Ortner)", type: "مفكر"
+- id: "sch-anthropology-of-art-gell", title: "أنثروبولوجيا الفنّ والفاعلية (Anthropology of Art and Agency)", type: "مدرسة"
 gaps:
   - "بيير بورديو (الهابيتوس) وأنطوني غيدنز (نظرية البنينة) موجودان في الأطلس بوسم `part: \"sociology\"` بقلم جلسةٍ متزامنة؛ لم يُستنسخا، والتنسيقُ بينهما وبين هذا الملف يحتاج ربطاً صريحاً لاحقاً في دفعة الجسور الختامية."
 ---
