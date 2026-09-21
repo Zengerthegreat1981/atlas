@@ -19,6 +19,7 @@ related:
 - id: "sch-cognitive-science-of-religion", title: "علمُ الأديان المعرفيّ (Cognitive Science of Religion)", type: "مدرسة"
 - id: "con-minimally-counterintuitive-concepts", title: "المفاهيمُ المضادّةُ للحدس قليلاً (Minimally Counterintuitive Concepts)", type: "مفهوم"
 - id: "thk-stewart-guthrie", title: "ستيوارت غوثري (Stewart Guthrie)", type: "مفكر"
+- id: "con-perceptual-anthropomorphism-guthrie", title: "الأنثروبومورفيزمُ الإدراكيّ (غوثري)", type: "مفهوم"
 gaps:
   - "سُدَّت 2026-09-22 (دفعةُ التعميق): المصطلح استعاره بارت من ستيوارت غوثري (Stewart Guthrie) الذي طرح فكرةً قريبة (انثروبومورفيزم إدراكي) في *Faces in the Clouds* (1993) قبل صوغ بارت للصيغة المعرفية-التطوّرية الدقيقة HADD؛ أُفرِد لغوثري الآن ملفٌّ مستقل `thk-stewart-guthrie`."
 ---

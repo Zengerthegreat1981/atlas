@@ -20,9 +20,10 @@ related:
 - id: "sch-cognitive-science-of-religion", title: "علمُ الأديان المعرفيّ (Cognitive Science of Religion)", type: "مدرسة"
 - id: "con-hyperactive-agency-detection", title: "كاشفُ الفاعلية المفرط النشاط (HADD)", type: "مفهوم"
 - id: "thk-justin-barrett", title: "جستن بارت", type: "مفكر"
+- id: "con-perceptual-anthropomorphism-guthrie", title: "الأنثروبومورفيزمُ الإدراكيّ (غوثري)", type: "مفهوم"
 gaps:
   - "سُدَّت 2026-09-22 (دفعةُ التعميق): كان غوثري مذكوراً فقط في متن `con-hyperactive-agency-detection` كفجوةٍ موثَّقة (استبق بارت في فكرة الأنثروبومورفيزم الإدراكي)؛ أُفرِد له الآن هذا الملفُّ المستقل."
-  - "لم يُفرَد بعدُ لمفهوم «الأنثروبومورفيزم الإدراكيّ» (Perceptual Anthropomorphism) نفسِه ملفُّ `con-` مستقل يفصّل حجّته الكاملة في *Faces in the Clouds* بمعزلٍ عن مقارنته بـHADD؛ فجوةٌ لدفعةٍ لاحقة."
+  - "سُدَّت 2026-09-22 (الدفعة 100): أُفرِد الآن ملفُّ مفهومٍ مستقل `con-perceptual-anthropomorphism-guthrie` يفصّل حجّته الكاملة في *Faces in the Clouds* بمعزلٍ عن مقارنته بـHADD."
 ---
 
 # ستيوارت غوثري (Stewart Guthrie)
