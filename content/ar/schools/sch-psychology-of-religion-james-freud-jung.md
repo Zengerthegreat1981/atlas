@@ -17,10 +17,10 @@ edges:
 related:
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 - id: "wrk-varieties-of-religious-experience-james", title: "تنوعات الخبرة الدينية لويليام جيمس", type: "عمل / كتاب"
-- id: "exp-mystical-experience-james", title: "التجربةُ الصوفيةُ عند وليم جيمس", type: "خبرة معيشة"
+- id: "exp-mystical-experience-james", title: "التجربة الصوفية عند وليم جيمس: خصائصها الأربع", type: "خبرة معيشة"
 - id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
-- id: "sch-cognitive-science-of-religion", title: "علمُ الأديان المعرفيّ", type: "مدرسة"
+- id: "sch-cognitive-science-of-religion", title: "علمُ الأديان المعرفيّ (Cognitive Science of Religion)", type: "مدرسة"
 - id: "thk-rudolf-otto", title: "رودولف أوتو", type: "مفكر"
 gaps:
   - "جيمس وفرويد ويونغ موجودون بتفصيلٍ سيريٍّ كافٍ مسبقاً تحت `bridge`/`psychology`، وأعمالُهم المحورية عن الدين (تنوعات الخبرة الدينية، مستقبل وهم، الأنماط النفسية) موثَّقةٌ في ملفّاتٍ منفصلة أو مذكورةٌ في متن سيرهم؛ قُرِّر عدم تكرارها، والاكتفاء بملفّ مدرسةٍ توليفيٍّ يُبرز تحديداً تقاطع الثلاثة كأصولٍ لحقل 'سيكولوجيا الدين' الأكاديمي."

@@ -18,7 +18,7 @@ related:
 - id: "thk-lee-kirkpatrick", title: "لي كيركباتريك (Lee A. Kirkpatrick)", type: "مفكر"
 - id: "br-attachment-theory", title: "نظرية التعلق (Attachment Theory)", type: "تيار"
 - id: "sch-psychology-of-religion-james-freud-jung", title: "سيكولوجيا الدين: جيمس والتحليلُ النفسيّ (فرويد ويونغ)", type: "مدرسة"
-- id: "sch-cognitive-science-of-religion", title: "علمُ الأديان المعرفيّ", type: "مدرسة"
+- id: "sch-cognitive-science-of-religion", title: "علمُ الأديان المعرفيّ (Cognitive Science of Religion)", type: "مدرسة"
 gaps:
   - "نظريةُ التعلّق الأصلية (بولبي، إينسورث) موجودةٌ بتفصيلٍ كافٍ مسبقاً تحت `psychology` (`br-attachment-theory`، `thk-bowlby`، `thk-ainsworth`)؛ لم تُكرَّر هنا، واكتُفي بربطٍ صريح والتركيز في متن هذا الملف على تطبيقها تحديداً على العلاقة بالإله."
   - "لا يوجد بعد ملفّ عملٍ مستقل (`wrk-`) لكتاب كيركباتريك *Attachment, Evolution, and the Psychology of Religion* (2005)."

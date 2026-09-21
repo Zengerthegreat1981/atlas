@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-founding-comparative-religion-science-of-religion", target_type: "مدرسة"
 related:
 - id: "thk-andrew-newberg", title: "أندرو نيوبرغ (Andrew Newberg)", type: "مفكر"
-- id: "sch-cognitive-science-of-religion", title: "علمُ الأديان المعرفيّ", type: "مدرسة"
+- id: "sch-cognitive-science-of-religion", title: "علمُ الأديان المعرفيّ (Cognitive Science of Religion)", type: "مدرسة"
 - id: "sch-psychology-of-religion-james-freud-jung", title: "سيكولوجيا الدين: جيمس والتحليلُ النفسيّ (فرويد ويونغ)", type: "مدرسة"
 - id: "thk-rudolf-otto", title: "رودولف أوتو", type: "مفكر"
 - id: "dbt-reductionism-vs-non-reductionism-religious-studies", title: "الجدلُ بين المقاربة الاختزالية وغير الاختزالية في دراسة الدين", type: "جدل"

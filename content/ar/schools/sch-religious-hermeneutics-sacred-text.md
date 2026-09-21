@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-phenomenology-of-religion-otto-eliade", target_type: "مدرسة"
 related:
 - id: "thk-schleiermacher", title: "فريدريش شلايرماخر", type: "مفكر"
-- id: "thk-gadamer", title: "هانس-غيورغ غادامير", type: "مفكر"
+- id: "thk-gadamer", title: "هانز-غيورغ غادامير", type: "مفكر"
 - id: "thk-ricoeur", title: "بول ريكور", type: "مفكر"
 - id: "sch-phenomenology-of-religion-otto-eliade", title: "الظاهراتيةُ الدينية: أوتو وإلياده وأثرُهما", type: "مدرسة"
 - id: "sch-higher-criticism-biblical-studies", title: "النقدُ الأعلى ودراساتُ الكتاب المقدَّس النقدية", type: "مدرسة"

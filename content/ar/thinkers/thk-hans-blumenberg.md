@@ -18,7 +18,7 @@ edges:
 - rel: "belongs_to", target: "sch-myth-theory-religious-studies", target_type: "مدرسة"
 related:
 - id: "sch-myth-theory-religious-studies", title: "نظرياتُ الأسطورة في علم الأديان المقارن", type: "مدرسة"
-- id: "thk-claude-levi-strauss", title: "كلود ليفي-ستروس", type: "مفكر"
+- id: "thk-claude-levi-strauss", title: "كلود ليفي-ستراوس", type: "مفكر"
 - id: "thk-joseph-campbell", title: "جوزيف كامبل", type: "مفكر"
 gaps:
   - "علاقتُه بكارل شميت (الجدل حول 'علمنة' المفاهيم اللاهوتية، *Political Theology*) مذكورةٌ إجمالاً في المتن، ولا يوجد ملفٌ مستقلٌّ لشميت ضمن هذا القسم تحديداً؛ فجوةٌ للربط المستقبلي إن أُنشئ."

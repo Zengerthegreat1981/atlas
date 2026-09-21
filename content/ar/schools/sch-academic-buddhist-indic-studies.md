@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-founding-comparative-religion-science-of-religion", target_type: "مدرسة"
 related:
 - id: "thk-eugene-burnouf", title: "أوجين بورنوف (Eugène Burnouf)", type: "مفكر"
-- id: "thk-max-muller", title: "ماكس مولر", type: "مفكر"
+- id: "thk-max-muller", title: "فريدريش ماكس مولر", type: "مفكر"
 - id: "sch-founding-comparative-religion-science-of-religion", title: "تأسيسُ «علمِ الدين» (Science of Religion): ماكس مولر ونشأةُ علم الأديان المقارن", type: "مدرسة"
 - id: "sch-academic-islamic-studies-orientalism-critique", title: "دراسةُ الإسلام أكاديمياً ونقدُ الاستشراق", type: "مدرسة"
 gaps:

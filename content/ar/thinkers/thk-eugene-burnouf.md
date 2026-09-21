@@ -18,7 +18,7 @@ edges:
 - rel: "belongs_to", target: "sch-academic-buddhist-indic-studies", target_type: "مدرسة"
 related:
 - id: "sch-academic-buddhist-indic-studies", title: "دراسةُ الأديان الهنديةِ والبوذية أكاديمياً", type: "مدرسة"
-- id: "thk-max-muller", title: "ماكس مولر", type: "مفكر"
+- id: "thk-max-muller", title: "فريدريش ماكس مولر", type: "مفكر"
 gaps:
   - "لا يوجد بعد ملفّ عملٍ مستقل (`wrk-`) لكتابه *Introduction à l'histoire du Buddhisme indien* (1844) الذي أسّس الدراسة الأكاديمية الغربية للبوذية؛ فجوةٌ للدفعة القادمة."
   - "علاقتُه المباشرة بماكس مولر (كان أستاذَه في باريس قبل انتقال مولر إلى أكسفورد) موثَّقةٌ في متن هذا الملف؛ لم يُضَف ضلعُ `evolved_from` صريح لأن مولر ينتمي إلى مدرسةٍ لاحقة مختلفة التركيز (الفيدا لا البوذية تحديداً)."

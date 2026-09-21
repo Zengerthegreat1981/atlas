@@ -14,8 +14,8 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-phenomenology-of-religion-otto-eliade", target_type: "مدرسة"
 related:
-- id: "thk-mircea-eliade", title: "مرسيا إلياده", type: "مفكر"
-- id: "con-axis-mundi-sacred-space-eliade", title: "محورُ العالم والمكانُ المقدَّس عند إلياده", type: "مفهوم"
+- id: "thk-mircea-eliade", title: "ميرتشيا إلياده", type: "مفكر"
+- id: "con-axis-mundi-sacred-space-eliade", title: "محورُ العالم والفضاءُ المقدَّس عند إلياده", type: "مفهوم"
 - id: "sch-myth-theory-religious-studies", title: "نظرياتُ الأسطورة في علم الأديان المقارن", type: "مدرسة"
 - id: "sch-ritual-theory-religious-studies", title: "نظرياتُ الطقس في علم الأديان المقارن: من روبرتسون سميث إلى هوبير وموس", type: "مدرسة"
 gaps:

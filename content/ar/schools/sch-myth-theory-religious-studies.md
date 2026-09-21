@@ -17,9 +17,9 @@ edges:
 related:
 - id: "thk-joseph-campbell", title: "جوزيف كامبل", type: "مفكر"
 - id: "thk-hans-blumenberg", title: "هانس بلومنبرغ", type: "مفكر"
-- id: "thk-claude-levi-strauss", title: "كلود ليفي-ستروس", type: "مفكر"
+- id: "thk-claude-levi-strauss", title: "كلود ليفي-ستراوس", type: "مفكر"
 - id: "thk-rene-girard", title: "رينيه جيرار", type: "مفكر"
-- id: "thk-mircea-eliade", title: "مرسيا إلياده", type: "مفكر"
+- id: "thk-mircea-eliade", title: "ميرتشيا إلياده", type: "مفكر"
 - id: "sch-ritual-theory-religious-studies", title: "نظرياتُ الطقس في علم الأديان المقارن: من روبرتسون سميث إلى هوبير وموس", type: "مدرسة"
 - id: "sch-founding-comparative-religion-science-of-religion", title: "تأسيسُ «علمِ الدين» (Science of Religion): ماكس مولر ونشأةُ علم الأديان المقارن", type: "مدرسة"
 - id: "thk-talal-asad", title: "طلال أسد (Talal Asad)", type: "مفكر"

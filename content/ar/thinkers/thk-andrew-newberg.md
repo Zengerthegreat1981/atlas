@@ -19,7 +19,7 @@ edges:
 related:
 - id: "sch-neurotheology-mystical-brain", title: "اللاهوتُ العصبيّ والخبرةُ الصوفيةُ والدماغ (نيوبرغ ودكويلي)", type: "مدرسة"
 - id: "sch-psychology-of-religion-james-freud-jung", title: "سيكولوجيا الدين: جيمس والتحليلُ النفسيّ (فرويد ويونغ)", type: "مدرسة"
-- id: "exp-mystical-experience-james", title: "التجربةُ الصوفيةُ عند وليم جيمس", type: "خبرة معيشة"
+- id: "exp-mystical-experience-james", title: "التجربة الصوفية عند وليم جيمس: خصائصها الأربع", type: "خبرة معيشة"
 gaps:
   - "شريكُه المؤسِّس يوجين دكويلي (Eugene d'Aquili، توفي 1998 قبل نضج المشروع البحثي) لم يُفرَد له ملفٌّ مستقل بعد؛ مذكورٌ في متن ملف المدرسة. فجوةٌ موثَّقة للدفعة القادمة."
   - "لا يوجد بعد ملفّ عملٍ مستقل (`wrk-`) لكتابه المشترك مع دكويلي *Why God Won't Go Away* (2001)."
