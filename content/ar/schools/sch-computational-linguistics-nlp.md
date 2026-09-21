@@ -22,6 +22,7 @@ related:
 - id: "con-chomsky-hierarchy-formal-language-theory", title: "هرميةُ تشومسكي ونظريةُ اللغات الصورية (Chomsky Hierarchy)", type: "مفهوم"
 - id: "con-distributional-semantics-word-embeddings", title: "الدلالةُ التوزيعية وتمثيلاتُ الكلمات المتّجهية (Distributional Semantics & Word Embeddings)", type: "مفهوم"
 - id: "evt-alpac-report-machine-translation-1966", title: "تقريرُ ألباك (ALPAC) وأزمةُ تمويل الترجمة الآلية 1966", type: "حدث تاريخي"
+- id: "rel-generative-grammar-statistical-nlp", title: "النحوُ التوليديُّ ومعالجةُ اللغة الإحصائية: جوارٌ متوتِّر", type: "علاقة بين مدرستين"
 gaps:
   - "لا `belongs_to`/`evolved_from`: فرعٌ متعدّدُ الأصول (منطقٌ حاسوبيٌّ، نظريةُ الأتمتة، إحصاءٌ) نشأ بالتوازي مع النحو التوليدي دون انحدارٍ حصريٍّ منه."
 ---
