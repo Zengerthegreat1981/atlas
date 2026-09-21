@@ -17,8 +17,8 @@ active_end: 1940
 edges: []
 related:
 - id: "thk-franz-boas", title: "فرانز بواس (Franz Boas)", type: "مفكر"
-gaps:
-  - "أنشئ الملفُّ في الدفعة 1 من تأسيس قسم الأنثروبولوجيا. تلاميذُ بواس (بنديكت، ميد، سابير، كروبر) ومدرسةُ الثقافة والشخصية المتفرّعة عنها لم يُكتبوا بعد — مُدرَجون في `agents_specs/anthropology-schools-backlog.md` القسم 4 لدفعةٍ لاحقة."
+- id: "sch-applied-action-anthropology-tax", title: "الأنثروبولوجيا الفعلية أو التطبيقية (Action Anthropology)", type: "مدرسة"
+gaps: []
 ---
 # النسبيةُ الثقافية البواسية (Boasian Cultural Relativism & Historical Particularism)
 

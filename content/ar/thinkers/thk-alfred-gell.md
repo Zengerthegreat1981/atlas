@@ -16,6 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-anthropology-of-art-gell", target_type: "مدرسة"
 related:
 - id: "sch-anthropology-of-art-gell", title: "أنثروبولوجيا الفنّ والفاعلية (Anthropology of Art and Agency)", type: "مدرسة"
+- id: "thk-nicholas-thomas", title: "نيكولاس توماس (Nicholas Thomas)", type: "مفكر"
 gaps: []
 ---
 # ألفرد غيل (Alfred Gell)
