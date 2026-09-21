@@ -18,6 +18,7 @@ related:
 - id: "sch-cultural-ecology", title: "الإيكولوجيا الثقافية والتطوّريةُ الجديدة (Cultural Ecology)", type: "مدرسة"
 - id: "con-cultural-core-steward", title: "النواةُ الثقافية (Cultural Core)", type: "مفهوم"
 - id: "wrk-theory-culture-change-steward", title: "نظريةُ التغيّر الثقافي (Theory of Culture Change)", type: "عمل / كتاب"
+- id: "thk-leslie-white", title: "ليزلي وايت (Leslie White)", type: "مفكر"
 gaps: []
 ---
 # جوليان ستيوارد (Julian Steward)

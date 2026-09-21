@@ -19,6 +19,8 @@ related:
 - id: "con-cultural-relativism-boas", title: "النسبيةُ الثقافية (Cultural Relativism)", type: "مفهوم"
 - id: "wrk-mind-of-primitive-man-boas", title: "عقلُ الإنسان البدائي (The Mind of Primitive Man)", type: "عمل / كتاب"
 - id: "thk-alfred-kroeber", title: "ألفرد كروبر (Alfred L. Kroeber)", type: "مفكر"
+- id: "thk-robert-lowie", title: "روبرت لوي (Robert H. Lowie)", type: "مفكر"
+- id: "thk-melville-herskovits", title: "ملڤيل هرسكوفيتز (Melville J. Herskovits)", type: "مفكر"
 gaps: []
 ---
 # فرانز بواس (Franz Boas)
