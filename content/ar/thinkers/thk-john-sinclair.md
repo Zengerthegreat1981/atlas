@@ -20,6 +20,7 @@ edges:
 related:
 - id: "sch-systemic-functional-linguistics", title: "اللسانياتُ الوظيفيةُ المنهجية (Systemic Functional Linguistics)", type: "مدرسة"
 - id: "thk-michael-halliday", title: "مايكل هاليداي", type: "مفكر"
+- id: "thk-jr-firth", title: "جون روبرت فيرث", type: "مفكر"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لأعمال سنكلير الأصلية ضمن مصادر الأطلس؛ الاعتماد على النصوص الإنجليزية الأصلية."
 ---
