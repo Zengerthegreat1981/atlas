@@ -20,9 +20,9 @@ related:
 - id: "con-costly-signaling-theory-of-religion", title: "نظريةُ الإشارة المكلِفة في الدين (Costly Signaling Theory)", type: "مفهوم"
 - id: "thk-richard-sosis", title: "ريتشارد سوسيس (Richard Sosis)", type: "مفكر"
 - id: "sch-cognitive-science-of-religion", title: "علمُ الأديان المعرفيّ (Cognitive Science of Religion)", type: "مدرسة"
+- id: "wrk-religion-hard-to-fake-sign-irons", title: "الدينُ بوصفه إشارةً يصعب تزييفها على الالتزام (Religion as a Hard-to-Fake Sign of Commitment)", type: "عمل"
 gaps:
   - "علاقتُه المنهجية بحقل الأنثروبولوجيا البيئية-التطوّرية الأوسع (بحثه عن الرعي عند اليموت التركمان في إيران قبل الثورة) لم تُفصَّل هنا؛ اقتُصر على مساهمته المباشرة في نظرية الإشارة المكلِفة تفادياً للخروج عن نطاق هذا القسم."
-  - "لا يوجد بعد ملفّ عملٍ مستقل (`wrk-`) لفصله التأسيسي *Religion as a Hard-to-Fake Sign of Commitment* (2001)؛ مذكورٌ في المصادر فقط."
 ---
 
 # وليام إيرونز (William Irons)
