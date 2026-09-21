@@ -117,12 +117,14 @@
 
 ## 11. المناهجُ والأدوات (Methods & Instruments)
 
-- [ ] الاختباراتُ النحويةُ وحكمُ المتكلّم الأصليّ (Grammaticality Judgments)
-- [ ] التسجيلُ الميدانيُّ ووصفُ اللغات (Descriptive Fieldwork)
-- [ ] القياسُ الصوتيُّ والتحليلُ الأكوستيكي (Acoustic Phonetics)
-- [ ] تتبّعُ العين وزمنُ الاستجابة في المعالجة (Eye-Tracking & RT)
-- [ ] الأطلسُ اللغويُّ والجغرافيا اللهجية (Dialect Atlas & Geolinguistics)
-- [ ] المقاييسُ اللغويةُ الإكلينيكية (أدواتُ تقييم اللغة والحُبسة)
+- [x] الاختباراتُ النحويةُ وحكمُ المتكلّم الأصليّ (Grammaticality Judgments) — `ins-grammaticality-judgments` (الدفعة 16).
+- [x] التسجيلُ الميدانيُّ ووصفُ اللغات (Descriptive Fieldwork) — `ins-descriptive-linguistic-fieldwork` (الدفعة 16). فرانز بواز موجودٌ تحت anthropology، لم يُربط بدقّةٍ بعد.
+- [x] القياسُ الصوتيُّ والتحليلُ الأكوستيكي (Acoustic Phonetics) — `ins-acoustic-phonetics` (الدفعة 16).
+- [x] تتبّعُ العين وزمنُ الاستجابة في المعالجة (Eye-Tracking & RT) — `ins-eye-tracking-reaction-time` (الدفعة 16).
+- [x] الأطلسُ اللغويُّ والجغرافيا اللهجية (Dialect Atlas & Geolinguistics) — `ins-dialect-atlas-geolinguistics` (الدفعة 16).
+- [x] المقاييسُ اللغويةُ الإكلينيكية (أدواتُ تقييم اللغة والحُبسة) — `ins-clinical-linguistic-assessment` (الدفعة 16).
+
+**القسمُ 11 مكتمل.**
 
 ---
 
