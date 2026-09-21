@@ -24,6 +24,7 @@ related:
 - id: "con-binding-theory-principles", title: "مبادئُ نظرية الربط أ ب ج (Binding Theory Principles A, B, C)", type: "مفهوم"
 - id: "con-unaccusativity-split-intransitivity", title: "اللاتعدّيةُ الانقسامية (Split Intransitivity / Unaccusativity)", type: "مفهوم"
 - id: "con-raising-control-verbs", title: "أفعالُ الرفعِ مقابل أفعال التحكّم (Raising vs. Control Verbs)", type: "مفهوم"
+- id: "crt-piraha-recursion-challenge-universal-grammar", title: "تحدّي پيراها للعودية الكلّية (Pirahã Challenge to Universal Recursion)", type: "نقد خارجي موثَّق"
 - id: "sch-minimalist-program", title: "البرنامجُ الأدنويّ (The Minimalist Program)", type: "مدرسة"
 gaps:
   - "`thk-noam-chomsky` موسومٌ `philosophy` (قرارٌ محسوم في DR-014) ولم يُكرَّر هنا؛ العقدةُ تفرد الإطارَ النظريَّ التقنيَّ الذي طوّره في هذه المرحلة دون إعادة سيرته."
