@@ -64,4 +64,36 @@
 - [x] الدوريةُ التاريخيةُ ومشكلةُ التقسيم (Periodization) — `sch-periodization-problem`
 
 ---
-**الإجمال: 45 بنداً.**
+**الإجمال: 45 بنداً — مكتملة 100%.**
+
+## ٩. عقد مفكرين مستقلة (دفعةٌ إضافية، 21 سبتمبر 2026)
+
+بعد اكتمال الـ45 بنداً بعقد `sch-` (مدارس)، أُنشئت دفعةٌ لاحقة من عقد مفكرين `thk-` مستقلة سيرةً لكلٍّ منهم، سدّاً لفجوةٍ موثَّقة في تقرير الإغلاق الأصلي. **17 ملفَّ مفكرٍ فعليّ** (يمثّلون 18 شخصاً، إذ يجمع ملفٌّ واحد سينوبوس ولانغلوا):
+
+| الملفّ | المدرسة المرتبطة |
+|---|---|
+| `thk-leopold-von-ranke` | `sch-rankean-historical-positivism` |
+| `thk-marc-bloch` | `sch-annales-first-generation` |
+| `thk-lucien-febvre` | `sch-annales-first-generation` |
+| `thk-fernand-braudel` | `sch-braudel-longue-duree` |
+| `thk-hayden-white` | `sch-linguistic-turn-metahistory-white` |
+| `thk-reinhart-koselleck` | `sch-conceptual-history-koselleck` |
+| `thk-carlo-ginzburg` | `sch-microstoria-italian-micro-history` |
+| `thk-pierre-nora` | `sch-memory-history-nora-halbwachs` |
+| `thk-maurice-halbwachs` | `sch-memory-history-nora-halbwachs` |
+| `thk-edward-hallett-carr` | `sch-objectivity-debate-carr-elton-novick` |
+| `thk-geoffrey-elton` | `sch-objectivity-debate-carr-elton-novick` |
+| `thk-dipesh-chakrabarty` | `sch-subaltern-studies-historiographical-critique` |
+| `thk-joan-wallach-scott` | `sch-womens-feminist-history` |
+| `thk-natalie-zemon-davis` | `sch-womens-feminist-history` |
+| `thk-seignobos-langlois` (ملفٌّ مشترك: سينوبوس ولانغلوا) | `sch-french-methodical-school` |
+| `thk-giambattista-vico` | `sch-speculative-philosophy-of-history` |
+| `thk-oswald-spengler` | `sch-speculative-philosophy-of-history` |
+
+**حالتا تعارضٍ حقيقيّتان اكتُشفتا وحُلّتا دون اختراع نظير:**
+1. **رانجيت غوها** (`thk-ranajit-guha`): موجودٌ بالفعل من جلسة سوسيولوجيا متزامنة (`part: sociology`، `THK-6446`، مرتبطٌ بـ`sch-subaltern-studies-guha-spivak`). لم يُنشأ ملفٌّ ثانٍ؛ اسُتُرجع ملفُّهم عبر `git checkout --` بعد اكتشاف الكتابة الخاطئة فوقه، ووُثِّق القرار في `gaps` ملف `sch-subaltern-studies-historiographical-critique`.
+2. **أرنولد توينبي** (`thk-arnold-toynbee`): موجودٌ بالفعل من جلسة سوسيولوجيا/أنثروبولوجيا متزامنة (`part: sociology`، `THK-10146`، مرتبطٌ بـ`sch-khaldunian-ilm-al-umran`). لم يُنشأ ملفٌّ ثانٍ؛ رُبط عبر `related` من `sch-speculative-philosophy-of-history` دون لمس ملفّه الأصلي.
+
+كلا الحادثتين اكُتُشفتا بفحصٍ استباقيّ (`find content/ar/thinkers -iname "*اسم*"`) قبل الكتابة، تطبيقاً لقاعدة «لا تخترع نظيراً ثانياً» في مستودعٍ يعمل عليه عدّةُ جلساتٍ بالتوازي.
+
+**الإجمالي التراكمي النهائي لقسم historiography: 58 عقدة حيّة** (39 `sch-` + 17 `thk-` + 2 `rel-` جسر). انظر `HISTORIOGRAPHY_CLOSEOUT_ADDENDUM_2026-09-21.md` للتفاصيل الكاملة.
