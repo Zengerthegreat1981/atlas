@@ -15,6 +15,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-memory-history-nora-halbwachs", target_type: "مدرسة"
 related:
+- id: "wrk-les-lieux-de-memoire-nora", title: "مواضعُ الذاكرة لپيير نورا", type: "عمل / كتاب"
 - id: "sch-memory-history-nora-halbwachs", title: "تاريخُ الذاكرةِ ومواضعُها (نورا وهالبڤاكس)", type: "مدرسة"
 - id: "thk-maurice-halbwachs", title: "موريس هالبڤاكس", type: "مفكر"
 gaps:

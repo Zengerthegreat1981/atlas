@@ -15,6 +15,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-subaltern-studies-historiographical-critique", target_type: "مدرسة"
 related:
+- id: "wrk-provincializing-europe-chakrabarty", title: "تجهيلُ أوروبا: الفكرُ ما بعد الاستعماري والفارق التاريخي لديبيش تشاكرابارتي", type: "عمل / كتاب"
 - id: "sch-subaltern-studies-historiographical-critique", title: "الدراساتُ التابعةُ بوصفها نقداً للتأريخ النخبوي (غوها وتشاكرابارتي)", type: "مدرسة"
 - id: "thk-ranajit-guha", title: "رانجيت غوها", type: "مفكر"
 gaps:

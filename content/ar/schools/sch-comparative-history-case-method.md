@@ -18,6 +18,7 @@ edges:
 - rel: "belongs_to", target: "sch-digital-history-computational-methods", target_type: "مدرسة"
 related:
 - id: "thk-barrington-moore", title: "بارينغتون مور الابن", type: "مفكر"
+- id: "wrk-social-origins-dictatorship-democracy-moore", title: "الأصولُ الاجتماعية للديكتاتورية والديمقراطية لبارينغتون مور", type: "عمل / كتاب"
 - id: "sch-digital-history-computational-methods", title: "الببليومتريا والتاريخُ الرقميُّ والكمّيّ (Digital History)", type: "مدرسة"
 - id: "sch-skocpol-comparative-historical-revolutions", title: "علم الاجتماع التاريخي والمقارن للثورات", type: "مدرسة"
 - id: "sch-periodization-problem", title: "الدوريةُ التاريخيةُ ومشكلةُ التقسيم (Periodization)", type: "مدرسة"

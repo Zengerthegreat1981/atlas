@@ -15,6 +15,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-archival-turn-archive-as-power", target_type: "مدرسة"
 related:
+- id: "wrk-along-the-archival-grain-stoler", title: "على النسيج الأرشيفي: قلقٌ إبستيميّ وفطنةٌ استعمارية مشتركة لآن لورا ستولر", type: "عمل / كتاب"
 - id: "sch-archival-turn-archive-as-power", title: "الأرشيفُ بوصفه سلطةً ومشكلةً (Archival Turn)", type: "مدرسة"
 gaps:
   - "لم تُبحث بعد أعمالُها الأنثروبولوجية المبكرة عن العمّال في مزارع سومطرة (Capitalism and Confrontation، 1985) بتفصيلٍ يتجاوز الإشارة العامة هنا؛ سبقت مشروعها الأرشيفي اللاحق."
