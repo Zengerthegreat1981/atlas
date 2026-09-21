@@ -26,7 +26,9 @@ related:
 - id: "exp-locke-exile-holland-toleration", title: "نفي جون لوك إلى هولندا وتأليف رسالة في التسامح", type: "خبرة معيشة"
 - id: "thk-berkeley", title: "جورج باركلي", type: "مفكر"
 - id: "thk-hume", title: "ديفيد هيوم", type: "مفكر"
+- id: "sch-modern-natural-law-social-contract", title: "القانونُ الطبيعيُّ الحديثُ والعقدُ الاجتماعي (Modern Natural Law & Social Contract)", type: "مدرسة"
 gaps:
+  - "**ربطٌ من قسم نظرية القانون (2026-09-21)**: أُضيف `sch-modern-natural-law-social-contract` — يعالج إسهامَه في نظرية القانون تحديداً (القانونُ كحمايةٍ للحقوق الطبيعية السابقة عليه) دون استنساخ سيرته الفلسفية العامة هنا."
   - "لا طبعة عربية معتمدة معروفة لـ*Essay* أو *Two Treatises*: العنوانان العربيان في ملفَّي `wrk-` بلا مترجم ولا ناشر."
   - "أُزيل `axm-tabula-rasa` (عنوانه يشير إلى مدخل محجور) واستُعيض عنه بـ`met-locke-tabula-rasa`؛ وأُزيل `met-cartesian-theater` لأن الاستعارة من صياغة دينيت لا من نص لوك."
   - "أُزيل إسناد «علم النفس الترابطي» و«الأفكار = الكلمات» إلى آدم سميث — لا عمل له فيهما."

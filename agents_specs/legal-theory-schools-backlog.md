@@ -10,7 +10,7 @@
 ## 1. القانونُ الطبيعيُّ وتقاليدُه
 - [x] القانونُ الطبيعيُّ الكلاسيكيُّ (أرسطو، الرواقية، شيشرون) — **موجودٌ مسبقاً** بوصفه فلسفةً عامّة (`con-natural-law`، `part: philosophy`)؛ قرارٌ: اربط ولا تُستنسخ عقدةٌ موازية، إذ لا زاويةَ قانونيةً إضافيةً تستدعي ملفاً منفصلاً بعد.
 - [x] القانونُ الطبيعيُّ الأكوينيّ (الشريعةُ الأزليةُ والطبيعيةُ والوضعية) — **موجودٌ مسبقاً** (`con-natural-law-aquinas-concept`، `part: philosophy`)؛ اربط ولا تُستنسخ.
-- [ ] القانونُ الطبيعيُّ الحديثُ والعقدُ الاجتماعيُّ (غروتيوس، هوبز، لوك، ڤولف)
+- [x] القانونُ الطبيعيُّ الحديثُ والعقدُ الاجتماعيُّ (غروتيوس، هوبز، لوك، ڤولف) — الدفعةُ 21: `sch-modern-natural-law-social-contract`، `thk-hugo-grotius`، `con-pacta-sunt-servanda-grotius`؛ ربط بـ`thk-hobbes` و`thk-locke` القائمَين دون استنساخ؛ ڤولف لم يُكتب له ملفٌّ مستقل
 - [x] القانونُ الطبيعيُّ الجديد (فينيس، غريسيز) — الدفعةُ 7: `thk-john-finnis`، `con-basic-goods-practical-reasonableness-finnis`، `wrk-natural-law-and-natural-rights-finnis` (ربط بـ`con-natural-law-aquinas-concept` القائم)
 - [x] أصولُ الفقه بوصفه نظريةً قانونية (المقاصد، القياس، الاستحسان — الشاطبي، الغزالي) — **الدفعةُ 1 (81fcb58f)**: `sch-usul-al-fiqh-legal-theory`، `thk-al-shatibi`، `con-maqasid-al-shariah-shatibi`، `wrk-al-muwafaqat-shatibi`؛ **الدفعةُ 2**: `con-qiyas-analogical-reasoning`، `con-istihsan-juristic-preference`، `con-dalalat-al-alfaz-usul`، `wrk-al-mustasfa-ghazali` (رُبط بـ`thk-al-ghazali` الفلسفي الموجود دون استنساخ)
 - [ ] السياسةُ الشرعيةُ والفرقُ بين الفقه والقانون
