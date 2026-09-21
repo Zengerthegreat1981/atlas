@@ -26,6 +26,7 @@ related:
 - id: "con-morphological-typology", title: "النمطيةُ الصرفية (Morphological Typology)", type: "مفهوم"
 - id: "con-word-formation-processes", title: "عملياتُ تكوين الكلمات (Word-Formation Processes)", type: "مفهوم"
 - id: "con-clitics", title: "الكليتيكس أو الوحداتُ الملحَقة (Clitics)", type: "مفهوم"
+- id: "con-causative-constructions", title: "تراكيبُ السببية (Causative Constructions)", type: "مفهوم"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`) — منهجٌ استقرائيٌّ مقارنٌ مستقلٌّ عن التوليدية والبنيوية، وإن تقاطع معهما موضوعياً."
   - "مارتن هاسپلماث لم يُفرَد بعد كمفكرٍ مستقل. **سُدَّ جزئياً 2026-09-21 (الدفعة 48)**: أُنشئ `thk-bernard-comrie` و`ins-world-atlas-of-language-structures`."
