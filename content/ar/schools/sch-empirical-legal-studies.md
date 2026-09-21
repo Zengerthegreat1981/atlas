@@ -19,7 +19,9 @@ related:
 - id: "sch-american-legal-realism", title: "الواقعيةُ القانونيةُ الأمريكية (American Legal Realism)", type: "مدرسة"
 - id: "sch-law-and-economics", title: "التحليلُ الاقتصاديُّ للقانون (Law and Economics)", type: "مدرسة"
 - id: "thk-lee-epstein", title: "لي إپستاين (Lee Epstein)", type: "مفكر"
+- id: "thk-theodore-eisenberg", title: "ثيودور أيزنبرغ (Theodore Eisenberg)", type: "مفكر"
 gaps:
+  - "**تعميقٌ 2026-09-22**: أُضيف `thk-theodore-eisenberg` (مؤسِّسٌ مشاركٌ لمجلة الحقل، دراسةُ هيئات المحلَّفين إحصائياً)."
   - "**سُدَّ 2026-09-21**: أُضيفت `thk-lee-epstein` (كانت مذكورةً في المصادر دون ملفٍّ مستقل)."
   - "هذا الملفُّ أُنشئ في الدفعة 23 من مهمة بناء قسم نظرية القانون (القسم 7 من `legal-theory-schools-backlog.md`)."
   - "لم يُكتب ملفٌّ مستقلٌّ لأيّ مؤسّسٍ فرديّ بعينه؛ الحقلُ أقربُ إلى منهجيةٍ جماعيةٍ (مجلاتٌ متخصّصة كـ*Journal of Empirical Legal Studies* منذ 2004) منه إلى مدرسةٍ ذاتِ مفكّرين مؤسِّسين قلائل."
