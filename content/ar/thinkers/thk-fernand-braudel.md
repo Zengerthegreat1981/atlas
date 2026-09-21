@@ -15,6 +15,7 @@ active_end: 1985
 edges:
 - rel: "belongs_to", target: "sch-braudel-longue-duree", target_type: "مدرسة"
 related:
+- id: "wrk-la-mediterranee-braudel", title: "البحرُ المتوسط وعالمُ البحر المتوسط في عصر فيليپ الثاني لفرنان بروديل", type: "عمل / كتاب"
 - id: "sch-braudel-longue-duree", title: "الزمنُ الطويلُ والبنيةُ عند بروديل (*المتوسّط*، longue durée)", type: "مدرسة"
 - id: "thk-lucien-febvre", title: "لوسيان فيڤر", type: "مفكر"
 gaps:

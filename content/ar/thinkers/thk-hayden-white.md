@@ -15,6 +15,7 @@ active_end: 2018
 edges:
 - rel: "belongs_to", target: "sch-linguistic-turn-metahistory-white", target_type: "مدرسة"
 related:
+- id: "wrk-metahistory-white", title: "ما وراء التاريخ: التخيّل التاريخي في أوروبا القرن التاسع عشر لهايدن وايت", type: "عمل / كتاب"
 - id: "sch-linguistic-turn-metahistory-white", title: "المنعطفُ اللغويُّ والتاريخُ بوصفه سرداً (هايدن وايت — Metahistory)", type: "مدرسة"
 - id: "sch-genocide-denial-limits-of-representation", title: "إنكارُ الإبادةِ وحدودُ التمثيل (فريدلندر ومسألةُ الهولوكوست في التأريخ)", type: "مدرسة"
 gaps:

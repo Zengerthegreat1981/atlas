@@ -15,6 +15,7 @@ active_end: 2023
 edges:
 - rel: "belongs_to", target: "sch-annales-third-generation-mentalities", target_type: "مدرسة"
 related:
+- id: "wrk-montaillou-le-roy-ladurie", title: "مونتايو: قريةٌ أوكسيتانية من 1294 إلى 1324 لإيمانويل لو روا لادوري", type: "عمل / كتاب"
 - id: "sch-annales-third-generation-mentalities", title: "الجيلُ الثالثُ وتاريخُ الذهنيات (لو غوف وديبي وشارتييه)", type: "مدرسة"
 - id: "thk-jacques-le-goff", title: "جاك لو غوف", type: "مفكر"
 - id: "sch-microstoria-italian-micro-history", title: "التاريخُ الجزئيُّ والمصغَّر (Microstoria — غينزبورغ وليڤي)", type: "مدرسة"
