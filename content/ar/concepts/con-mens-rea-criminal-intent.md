@@ -17,7 +17,9 @@ related:
 - id: "con-insanity-defense-mnaghten", title: "الدفاعُ بالجنون وقاعدةُ مكناتن (Insanity Defense)", type: "مفهوم"
 - id: "thk-hla-hart", title: "هربرت هارت (H.L.A. Hart)", type: "مفكر"
 - id: "wrk-punishment-and-responsibility-hart", title: "العقابُ والمسؤولية (Punishment and Responsibility)", type: "عمل / كتاب"
+- id: "wrk-model-penal-code", title: "المدوّنةُ الجنائيةُ النموذجية (Model Penal Code)", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-22**: أُضيفت `wrk-model-penal-code` (ملفٌّ مستقلٌّ للمصدر التشريعي)."
   - "**تعميقٌ 2026-09-21**: أُضيفت `wrk-punishment-and-responsibility-hart`."
   - "التمييزُ الدقيقُ بين مستويات القصد الأربعة في *Model Penal Code* (Purposely, Knowingly, Recklessly, Negligently) لم يُفصَّل هنا تفصيلاً قضائياً كاملاً بأمثلة أحكام؛ العرضُ مبدئيٌّ عامّ."
   - "لا يوجد بعدُ ملفٌّ عن **جرائم المسؤولية الصارمة** (Strict Liability Crimes) التي تُعفى فيها الملاحقةُ من إثبات mens rea أصلاً (كبعض جرائم السلامة العامة والتنظيمية) رغم كونها استثناءً مهماً على القاعدة."
