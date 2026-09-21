@@ -22,9 +22,11 @@ related:
 - id: "exp-mystical-experience-james", title: "التجربة الصوفية عند وليم جيمس: خصائصها الأربع", type: "خبرة معيشة"
 - id: "con-deafferentation-hypothesis-neurotheology", title: "فرضيةُ إزالة الوارد العصبيّ (Deafferentation) في اللاهوت العصبيّ", type: "مفهوم"
 - id: "wrk-why-god-wont-go-away-newberg-daquili", title: "لماذا لن يختفي الإله: علمُ الدماغ وبيولوجيا الاعتقاد", type: "عمل / كتاب"
+- id: "dbt-neuroimaging-limits-metaphysical-claims-neurotheology", title: "جدلُ حدودِ التصوير العصبيّ: هل يحسم اللاهوتُ العصبيّ سؤالاً ميتافيزيقياً؟", type: "جدل"
 gaps:
   - "شريكُه المؤسِّس يوجين دكويلي (Eugene d'Aquili، توفي 1998 قبل نضج المشروع البحثي) لم يُفرَد له ملفٌّ مستقل بعد؛ مذكورٌ في متن ملف المدرسة. فجوةٌ موثَّقة للدفعة القادمة."
   - "سُدَّت 2026-09-22 (الدفعة 67): أُضيف ملفُّ عملٍ مستقل لكتابه المشترك مع دكويلي *Why God Won't Go Away* (2001) — `wrk-why-god-wont-go-away-newberg-daquili`."
+  - "سُدَّت 2026-09-22 (الدفعة 78): الجدلُ المنهجيُّ المذكورُ في المتن أدناه (هل يحسم التصوير العصبي السؤال الميتافيزيقي؟) فُصِّل الآن في ملفّ جدلٍ مستقل يضمّ نقدَ آن تيڤز تحديداً: `dbt-neuroimaging-limits-metaphysical-claims-neurotheology` و`thk-ann-taves`."
 ---
 
 # أندرو نيوبرغ (Andrew Newberg)
