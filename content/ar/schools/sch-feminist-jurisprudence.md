@@ -21,7 +21,10 @@ related:
 - id: "thk-robin-west", title: "روبن ويست (Robin West)", type: "مفكر"
 - id: "con-jurisprudence-and-gender-west", title: "الفقهُ القانونيُّ والنوعُ الاجتماعي (Jurisprudence and Gender)", type: "مفهوم"
 - id: "thk-gilligan", title: "كارول غيليغان", type: "مفكر"
+- id: "thk-martha-fineman", title: "مارثا فاينمان (Martha Albertson Fineman)", type: "مفكر"
+- id: "con-vulnerability-theory-fineman", title: "نظريةُ الهشاشة والدولةُ المستجيبة (Vulnerability Theory)", type: "مفهوم"
 gaps:
+  - "**سُدَّ 2026-09-21**: أُضيفت `thk-martha-fineman` و`con-vulnerability-theory-fineman` (الجيلُ الأحدث من الفقه النسوي)."
   - "هذا الملفُّ أُنشئ في الدفعة 18 من مهمة بناء قسم نظرية القانون (القسم 4 من `legal-theory-schools-backlog.md`)."
   - "**اربط ولا تكرّر**: `thk-mackinnon` و`thk-gilligan` موجودتان بالفعل (فلسفة)؛ لم يُنشأ ملفٌّ ثانٍ لأيٍّ منهما، بل اكتُفي بالربط."
 ---

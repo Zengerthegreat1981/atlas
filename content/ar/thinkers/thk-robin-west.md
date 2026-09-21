@@ -20,7 +20,9 @@ related:
 - id: "con-jurisprudence-and-gender-west", title: "الفقهُ القانونيُّ والنوعُ الاجتماعي (Jurisprudence and Gender)", type: "مفهوم"
 - id: "thk-gilligan", title: "كارول غيليغان", type: "مفكر"
 - id: "thk-mackinnon", title: "كاثرين ماك كينون", type: "مفكر"
+- id: "thk-martha-fineman", title: "مارثا فاينمان (Martha Albertson Fineman)", type: "مفكر"
 gaps:
+  - "**سُدَّ 2026-09-21**: أُضيفت `thk-martha-fineman` (الجيلُ الأحدث، نظريةُ الهشاشة)."
   - "أعمالُها اللاحقة الأوسع في نقد الليبرالية القانونية الأمريكية المعاصرة (*Normative Jurisprudence: An Introduction*, 2011) خارجَ نطاق هذا الملف المقتصر على مقالتها التأسيسية."
 ---
 # روبن ويست (Robin West)
