@@ -22,6 +22,7 @@ related:
 - id: "thk-roger-brown", title: "روجر براون", type: "مفكر"
 - id: "con-stages-of-language-acquisition", title: "مراحلُ اكتساب اللغة الأولى (Stages of First Language Acquisition)", type: "مفهوم"
 - id: "thk-steven-pinker", title: "ستيفن بينكر", type: "مفكر"
+- id: "con-overregularization-past-tense-debate", title: "فرطُ التقعيد وجدلُ الأزمنة الفعلية الماضية (Overregularization & the Past-Tense Debate)", type: "مفهوم"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`) — فرعٌ نمائيٌّ تطبيقيٌّ يتقاطع مع التوليدية والوظيفية معاً دون الانتماء الحصري لإحداهما."
   - "**سُدَّ 2026-09-21 (الدفعة 43)**: رُبط `thk-steven-pinker` (psychology) دون تكرار سيرته؛ وأُنشئت `con-stages-of-language-acquisition` و`thk-roger-brown` لسدّ فجوة مراحل الاكتساب التفصيلية."
