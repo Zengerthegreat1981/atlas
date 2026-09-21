@@ -23,9 +23,10 @@ related:
 - id: "thk-justin-barrett", title: "جستن بارت", type: "مفكر"
 - id: "con-minimally-counterintuitive-concepts", title: "المفاهيمُ المضادّةُ للحدس قليلاً (Minimally Counterintuitive Concepts)", type: "مفهوم"
 - id: "con-costly-signaling-theory-of-religion", title: "نظريةُ الإشارة المكلِفة في الدين (Costly Signaling Theory)", type: "مفهوم"
+- id: "thk-harvey-whitehouse", title: "هارڤي وايتهاوس (Harvey Whitehouse)", type: "مفكر"
 gaps:
   - "أتران أنثروبولوجيٌّ معرفيٌّ اشتغل أيضاً بميدانياتٍ سياسيةٍ (دراسة الاستشهاديين والتطرّف العنيف)؛ هذا الشقُّ من عمله لا يخصّ علم الأديان المقارن مباشرةً وتُرك خارج هذا الملفّ عمداً تفادياً للانزلاق نحو موضوعٍ سياسيٍّ لا علميّ."
-  - "هارڤي وايتهاوس (نظرية الأنماط المعرفية للتديّن divergent modes) ما زال فجوةً غير مسدودة ضمن هذه المدرسة؛ يُترك لدفعةٍ لاحقة."
+  - "سُدَّت 2026-09-21 (الدفعة 47): هارڤي وايتهاوس (نظرية الأنماط المعرفية للتديّن) أُضيف بملفٍّ مستقل: `thk-harvey-whitehouse`."
 ---
 
 # سكوت أتران
