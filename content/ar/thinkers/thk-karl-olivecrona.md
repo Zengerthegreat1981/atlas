@@ -18,7 +18,9 @@ edges:
 related:
 - id: "sch-scandinavian-legal-realism", title: "الواقعيةُ القانونيةُ الاسكندنافية (Scandinavian Legal Realism)", type: "مدرسة"
 - id: "thk-alf-ross", title: "ألف روس (Alf Ross)", type: "مفكر"
+- id: "thk-axel-hagerstrom", title: "أكسل هاغرستروم (Axel Hägerström)", type: "مفكر"
 gaps:
+  - "**تعميقٌ 2026-09-22**: أُضيف `thk-axel-hagerstrom` (أستاذُه المباشر، سُدَّ ذِكرُ التحرير هنا جزئياً بربطه)."
   - "**سُدَّ 2026-09-21**: كان مذكوراً كفجوةٍ في `sch-scandinavian-legal-realism` (الدفعة 19)؛ أُنشئ الآن ملفٌّ مستقل."
   - "عملَ محرِّراً للترجمة الإنجليزية لأعمال أستاذه أكسل هاغرستروم (*Inquiries into the Nature of Law and Morals*, 1953)؛ لم يُفصَّل دورُه التحريري هذا هنا."
 ---

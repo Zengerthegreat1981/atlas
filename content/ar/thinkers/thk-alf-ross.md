@@ -19,7 +19,9 @@ related:
 - id: "sch-scandinavian-legal-realism", title: "الواقعيةُ القانونيةُ الاسكندنافية (Scandinavian Legal Realism)", type: "مدرسة"
 - id: "con-ross-tu-tu-legal-concepts", title: "مقالةُ «تو-تو»: المفاهيمُ القانونيةُ الفارغة (Tû-Tû)", type: "مفهوم"
 - id: "thk-hans-kelsen", title: "هانس كِلسن (Hans Kelsen)", type: "مفكر"
+- id: "thk-axel-hagerstrom", title: "أكسل هاغرستروم (Axel Hägerström)", type: "مفكر"
 gaps:
+  - "**تعميقٌ 2026-09-22**: أُضيف `thk-axel-hagerstrom` (المؤسِّسُ الفلسفيُّ الذي بنى عليه روس مباشرةً)."
   - "تلمذتُه المبكرةُ على **هانس كِلسن** في فيينا (قبل تحوّله لاحقاً إلى نقد الوضعية الكِلسنية من موقعٍ تجريبيّ أكثر صرامة) أُشير إليها هنا إجمالاً دون تفصيل مسار تطوّره الفكري الكامل."
 ---
 # ألف روس (Alf Ross)
