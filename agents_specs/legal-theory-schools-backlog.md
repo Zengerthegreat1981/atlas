@@ -49,8 +49,8 @@
 - [x] القانونُ الجنائيُّ والمسؤوليةُ والقصد (mens rea) — **جسرٌ إلى الأهلية العقلية** — الدفعةُ 5: `sch-criminal-law-philosophy-responsibility`، `con-mens-rea-criminal-intent`
 - [x] **الجنونُ والمسؤوليةُ الجنائية** (قاعدةُ مكناتن، الأهليةُ للمحاكمة) — **أعلى عائدٍ في القسم — أُنجز في الدفعة 5**: `con-insanity-defense-mnaghten` (رُبط بـ`evt-mnaghten-rule-1843` القائم دون استنساخ)، `con-competency-to-stand-trial`
 - [x] حالةُ الاستثناءِ والسيادة (شميت، أغامبن — **`thk-giorgio-agamben` موجود**) — الدفعةُ 6: `thk-carl-schmitt`، `con-sovereign-exception-schmitt`، `wrk-political-theology-schmitt` (وسُدّت فجوةٌ موثَّقةٌ في `con-state-of-exception-agamben` القائم)
-- [ ] حقوقُ الإنسان بوصفها نظريةً قانونيةً ونقدُها (موين)
-- [ ] العدالةُ الانتقاليةُ ولجانُ الحقيقة — **جسرٌ إلى الصدمة الجمعية**
+- [x] حقوقُ الإنسان بوصفها نظريةً قانونيةً ونقدُها (موين) — الدفعةُ 16: `thk-samuel-moyn`، `con-human-rights-historical-critique-moyn`
+- [x] العدالةُ الانتقاليةُ ولجانُ الحقيقة — **جسرٌ إلى الصدمة الجمعية** — الدفعةُ 16: `thk-ruti-teitel`، `con-transitional-justice-teitel` (ربط بـ`con-historical-trauma` القائم)
 
 ## 7. المناهج
 - [ ] المنهجُ التحليليُّ في فلسفة القانون
