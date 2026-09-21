@@ -18,6 +18,8 @@ active_end: 1988
 edges:
 - rel: "belongs_to", target: "sch-critical-philosophy-of-history", target_type: "مدرسة"
 related:
+- id: "thk-edward-hallett-carr", title: "إدوارد هاليت كار", type: "مفكر"
+- id: "thk-geoffrey-elton", title: "جيفري إلتون", type: "مفكر"
 - id: "sch-critical-philosophy-of-history", title: "الفلسفةُ النقديةُ للتاريخ (دلتاي وكولنغوود ودراي وهمبل ونموذجُ التغطية)", type: "مدرسة"
 - id: "sch-rankean-historical-positivism", title: "المدرسةُ الرانكيةُ والوضعيةُ التاريخية («كما حدث فعلاً» ونقدُ المصادر)", type: "مدرسة"
 gaps:
