@@ -17,11 +17,12 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-oral-history-modern-method", target_type: "مدرسة"
 related:
+- id: "thk-ann-laura-stoler", title: "آن لورا ستولر", type: "مفكر"
 - id: "sch-oral-history-modern-method", title: "التاريخُ الشفويُّ ومنهجُه (Oral History الحديث)", type: "مدرسة"
 - id: "sch-foucauldian-archaeology-genealogy-method", title: "الأركيولوجيا والجينالوجيا بوصفهما منهجاً في كتابة تاريخ الحاضر (فوكو)", type: "مدرسة"
 - id: "sch-subaltern-studies-historiographical-critique", title: "الدراساتُ التابعةُ بوصفها نقداً للتأريخ النخبوي (غوها وتشاكرابارتي)", type: "مدرسة"
 gaps:
-  - "لم تُنشأ بعد عقدُ مفكرين مستقلة لآن ستولر (صاحبة *Along the Archival Grain*، 2009، أهمّ عملٍ في هذا التيار)؛ يُذكر عملها هنا وصفاً دون سيرةٍ مستقلة موثَّقة."
+  - "**تحديث 2026-09-21:** أُنشئ `thk-ann-laura-stoler`."
   - "**تمييزٌ عن نقد المصادر التقليدي موسومٌ صراحة:** خلافاً لنقد المصادر الكلاسيكي (`sch-internal-external-source-criticism`) الذي يسأل 'هل هذه الوثيقةُ صادقة؟'، يسأل المنعطف الأرشيفيّ سؤالاً أسبق: **'من قرَّر أصلاً ما يُحفَظ في الأرشيف وما يُهمَل أو يُتلَف؟ ولأيّ غرضٍ سلطويّ أُنتِجت هذه الوثيقةُ بالذات؟'** — سؤالٌ عن بنية الأرشيف نفسه لا عن مصداقية وثيقةٍ بعينها بعد وصولها إليه."
 ---
 # الأرشيفُ بوصفه سلطةً ومشكلةً (Archival Turn)

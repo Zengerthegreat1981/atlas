@@ -17,12 +17,14 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-digital-history-computational-methods", target_type: "مدرسة"
 related:
+- id: "thk-barrington-moore", title: "بارينغتون مور الابن", type: "مفكر"
 - id: "sch-digital-history-computational-methods", title: "الببليومتريا والتاريخُ الرقميُّ والكمّيّ (Digital History)", type: "مدرسة"
 - id: "sch-skocpol-comparative-historical-revolutions", title: "علم الاجتماع التاريخي والمقارن للثورات", type: "مدرسة"
 - id: "sch-periodization-problem", title: "الدوريةُ التاريخيةُ ومشكلةُ التقسيم (Periodization)", type: "مدرسة"
 gaps:
   - "**لا تكرار 2026-09-14:** `sch-skocpol-comparative-historical-revolutions` (سوسيولوجيا) يطبّق المنهج المقارن سوسيولوجياً على الثورات تحديداً؛ هذا الملفّ يوثّق **المنهج المقارن بوصفه أداةً تأريخية عامة** تتجاوز موضوع الثورات، مع تركيزٍ على مارك بلوك رائد الفكرة داخل الحوليّات نفسها — ربطٌ لا استنساخ."
   - "لم تُنشأ بعد عقدُ مفكرين مستقلة لثيدا سكوتشپول (موجودةٌ ضمنياً في `sch-skocpol-comparative-historical-revolutions` لكن دون ملفّ `thk-` مستقل بعد يُتحقَّق منه)؛ يُترك هذا للمراجعة."
+  - "**تحديث 2026-09-21:** `thk-barrington-moore` موجودٌ بالفعل (جلسةٌ سوسيولوجيا متزامنة، part: sociology، belongs_to sch-skocpol-comparative-historical-revolutions)؛ لم يُنشأ نظيرٌ ثانٍ، رُبط عبر `related` مباشرة."
 ---
 # التأريخُ المقارنُ ومنهجُ الحالات
 
