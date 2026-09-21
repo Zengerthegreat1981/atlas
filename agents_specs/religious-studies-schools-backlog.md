@@ -28,8 +28,8 @@
 - [ ] الهرمنيوطيقا الدينيةُ وتأويلُ النصّ المقدّس
 
 ## 4. المقارباتُ النفسيةُ والمعرفية
-- [ ] سيكولوجيا الدين عند وليم جيمس (*أنواع الخبرة الدينية*)
-- [ ] التحليلُ النفسيُّ والدين (فرويد و*مستقبل وهم*، يونغ والأنماطُ الأصلية) — **اربط بالقائم**
+- [x] سيكولوجيا الدين عند وليم جيمس (*أنواع الخبرة الدينية*) — مغطًّى بالفعل عبر `wrk-varieties-of-religious-experience-james` و`exp-mystical-experience-james` (philosophy/experiences)؛ رُبط الآن من `sch-psychology-of-religion-james-freud-jung` الجديدة، الدفعة 18
+- [x] التحليلُ النفسيُّ والدين (فرويد و*مستقبل وهم*، يونغ والأنماطُ الأصلية) — `sch-psychology-of-religion-james-freud-jung` (SCH-6807) عقدةٌ توليفيةٌ جديدة تجمع جيمس وفرويد ويونغ، تربط بملفّاتهم الكاملة الموجودة مسبقاً دون تكرار سيرهم، مع روابطَ عكسية في الثلاثة، الدفعة 18
 - [x] علمُ الأديان المعرفيُّ (Boyer، Atran، Barrett — الدينُ بوصفه ناتجاً معرفياً) — `sch-cognitive-science-of-religion` + `thk-pascal-boyer` + `thk-justin-barrett` + `con-minimally-counterintuitive-concepts` + `con-hyperactive-agency-detection`؛ أترن (Atran) وويتهاوس وغوثري تُركوا فجوةً موثّقة، الدفعة 9
 - [ ] التعلُّقُ والدين (Kirkpatrick) — **جسرٌ إلى نظرية التعلّق**
 - [ ] الخبرةُ الصوفيةُ والدماغ (Newberg، d'Aquili) — **وجدلُها المنهجيّ**
