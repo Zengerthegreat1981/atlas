@@ -18,8 +18,9 @@ edges:
 - rel: "belongs_to", target: "sch-cognitive-linguistics", target_type: "مدرسة"
 related:
 - id: "sch-cognitive-linguistics", title: "اللسانياتُ المعرفية (Cognitive Linguistics)", type: "مدرسة"
+- id: "con-construal-profile-base-langacker", title: "التأويلُ والملمحُ والقاعدة (Construal, Profile & Base)", type: "مفهوم"
 gaps:
-  - "تفاصيلُ نموذجه التقني (القاعدةُ الرمزية، مخطّطاتُ الصورة، التوصيفُ الحيّزي) واسعةٌ ولم تُشرح بالكامل في هذا الملف المدخلي."
+  - "تفاصيلُ نموذجه التقني الأوسع (القاعدةُ الرمزية، مخطّطاتُ الصورة، التوصيفُ الحيّزي) واسعةٌ ولم تُشرح بالكامل بعد أدواتِ التأويل والملمح والقاعدة الأساسية."
 ---
 
 # رونالد لانغاكر

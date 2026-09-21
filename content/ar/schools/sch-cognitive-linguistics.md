@@ -20,6 +20,7 @@ related:
 - id: "thk-ronald-langacker", title: "رونالد لانغاكر", type: "مفكر"
 - id: "con-conceptual-metaphor-theory", title: "نظريةُ الاستعارة المفهومية", type: "مفهوم"
 - id: "con-prototype-theory-linguistics", title: "النظريةُ النموذجيةُ في الدلالة اللسانية", type: "مفهوم"
+- id: "con-construal-profile-base-langacker", title: "التأويلُ والملمحُ والقاعدة (Construal, Profile & Base)", type: "مفهوم"
 - id: "sch-generative-grammar", title: "النحوُ التوليديُّ التحويليّ (Generative-Transformational Grammar)", type: "مدرسة"
 gaps:
   - "**قرارٌ تحريري**: جورج لاكوف وإيلينور روش موسومان بالفعل `psychology` في الأطلس (`thk-george-lakoff`، `thk-erosch`) بوصفهما رائدَين مؤسِّسَين لهذه المدرسة من زاويةٍ معرفيةٍ نفسية. لم يُنشأ لهما نظيرٌ ثانٍ هنا التزاماً بقاعدة عدم التكرار؛ رُبط إليهما عبر `related` في ملفَّي المفهومين التاليَين."
