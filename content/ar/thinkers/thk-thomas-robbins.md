@@ -22,8 +22,9 @@ related:
 - id: "thk-james-beckford", title: "جيمس بكفورد", type: "مفكر"
 - id: "con-brainwashing-conversion-debate", title: "جدلُ «غسيل الدماغ» مقابل التحوّل الطوعي في الحركات الدينية الجديدة", type: "مفهوم"
 - id: "thk-dick-anthony", title: "ديك أنطوني (Dick Anthony)", type: "مفكر"
+- id: "wrk-cults-converts-charisma-robbins", title: "الطوائفُ والمتحوِّلون والكاريزما: سوسيولوجيا الحركات الدينية الجديدة", type: "عمل"
 gaps:
-  - "لم يُفرَد بعد ملفّ عملٍ مستقل (`wrk-`) لكتابه *Cults, Converts and Charisma* (1988)، مسحٌ ببليوغرافيٌّ شامل لحقل دراسات الحركات الدينية الجديدة حتى وقته؛ مذكورٌ في المصادر فقط."
+  - "سُدَّت 2026-09-22 (الدفعة 85): أُضيف ملفّ عملٍ مستقل (`wrk-cults-converts-charisma-robbins`) لكتابه *Cults, Converts and Charisma* (1988)."
   - "سُدَّت 2026-09-22 (الدفعة 58): أُضيف ملفٌّ مستقل لديك أنطوني (`thk-dick-anthony`)، شريكه الفكريّ الأوثق."
 ---
 

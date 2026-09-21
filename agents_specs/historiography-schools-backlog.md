@@ -139,4 +139,32 @@
 
 **تعارضٌ خامس اكُتشف وحُلّ**: `con-episteme-foucault` موجودٌ بالفعل (part: philosophy)؛ لم يُنشأ نظيرٌ ثانٍ، رُبط عبر `related` من `sch-foucauldian-archaeology-genealogy-method`.
 
-**الإجمالي التراكمي الحاليّ لقسم historiography: 86 عقدة حيّة** (39 `sch-` + 31 `thk-` + 14 `con-` + 2 `rel-` جسر). انظر `HISTORIOGRAPHY_CLOSEOUT_ADDENDUM_2026-09-21.md` للتفاصيل الكاملة.
+## ١١. عقد أعمال مستقلة (سلسلةٌ ثالثة، 22 سبتمبر 2026)
+
+بعد المفاهيم، أُفردت أهمّ الأعمال المذكورة كعناوين نصية في ملفات المفكرين/المدارس في عقد `wrk-` مستقلة (نمط الحقول: `author`, `author_slug`, `publication_year`, `original_language`, `edges: authored_by` — لا `belongs_to`):
+
+| الملفّ | المؤلِّف |
+|---|---|
+| `wrk-la-mediterranee-braudel` | `thk-fernand-braudel` |
+| `wrk-montaillou-le-roy-ladurie` | `thk-emmanuel-le-roy-ladurie` |
+| `wrk-metahistory-white` | `thk-hayden-white` |
+| `wrk-the-cheese-and-the-worms-ginzburg` | `thk-carlo-ginzburg` |
+| `wrk-that-noble-dream-novick` | `thk-peter-novick` |
+| `wrk-the-return-of-martin-guerre-davis` | `thk-natalie-zemon-davis` |
+| `wrk-provincializing-europe-chakrabarty` | `thk-dipesh-chakrabarty` |
+| `wrk-les-lieux-de-memoire-nora` | `thk-pierre-nora` |
+| `wrk-along-the-archival-grain-stoler` | `thk-ann-laura-stoler` |
+| `wrk-social-origins-dictatorship-democracy-moore` | `thk-barrington-moore` (تعارضٌ سادس — انظر أدناه) |
+
+**جدولُ كامل حالات التعارض المكتشفة عبر السلاسل الثلاث (مفكرون، مفاهيم، أعمال):**
+
+| # | الاسم/العنوان | القسم الأصلي | كيف عولج |
+|---|---|---|---|
+| 1 | رانجيت غوها (مفكر) | sociology | استُرجع الملفّ بـ`git checkout --`، رُبط لا استُنسخ |
+| 2 | أرنولد توينبي (مفكر) | sociology | رُبط مباشرة قبل أي كتابة |
+| 3 | بارينغتون مور (مفكر) | sociology | رُبط مباشرة قبل أي كتابة |
+| 4 | غاياتري سپيڤاك (مفكر) | philosophy | رُبط مباشرة قبل أي كتابة |
+| 5 | الإبستميه الفوكوية (مفهوم) | philosophy | رُبط مباشرة قبل أي كتابة |
+| 6 | عمل بارينغتون مور (`wrk-social-origins...`) | — | **لم يكن موجوداً فعلياً** (تحقّق عبر `find` قبل الكتابة)؛ أُنشئ بزاويةٍ تأريخية محدَّدة (منهج المقارنة) بربطٍ صريح إلى `thk-barrington-moore` القائم دون تكرار سيرته |
+
+**الإجمالي التراكمي النهائي لقسم historiography: 96 عقدة حيّة** (39 `sch-` + 31 `thk-` + 14 `con-` + 10 `wrk-` + 2 `rel-` جسر) — أي **~9.6%** من هدف 900–1,100 المُعلَن أصلاً. انظر `HISTORIOGRAPHY_CLOSEOUT_ADDENDUM_2026-09-21.md` للتفاصيل الكاملة.
