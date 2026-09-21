@@ -131,5 +131,12 @@
 | `con-lieu-de-memoire-nora` | `sch-memory-history-nora-halbwachs` |
 | `con-rational-explanation-dray` | `sch-critical-philosophy-of-history` |
 | `con-provincializing-europe-chakrabarty` | `sch-subaltern-studies-historiographical-critique` |
+| `con-internal-external-criticism-method` | `sch-internal-external-source-criticism` |
+| `con-corsi-ricorsi-vico` | `sch-speculative-philosophy-of-history` |
+| `con-connected-history-subrahmanyam` | `sch-transnational-global-history` |
+| `con-inus-condition-mackie` | `sch-counterfactual-historical-causation` |
+| `con-colonial-common-sense-stoler` | `sch-archival-turn-archive-as-power` |
 
-**الإجمالي التراكمي النهائي لقسم historiography: 81 عقدة حيّة** (39 `sch-` + 31 `thk-` + 9 `con-` + 2 `rel-` جسر). انظر `HISTORIOGRAPHY_CLOSEOUT_ADDENDUM_2026-09-21.md` للتفاصيل الكاملة.
+**تعارضٌ خامس اكُتشف وحُلّ**: `con-episteme-foucault` موجودٌ بالفعل (part: philosophy)؛ لم يُنشأ نظيرٌ ثانٍ، رُبط عبر `related` من `sch-foucauldian-archaeology-genealogy-method`.
+
+**الإجمالي التراكمي الحاليّ لقسم historiography: 86 عقدة حيّة** (39 `sch-` + 31 `thk-` + 14 `con-` + 2 `rel-` جسر). انظر `HISTORIOGRAPHY_CLOSEOUT_ADDENDUM_2026-09-21.md` للتفاصيل الكاملة.
