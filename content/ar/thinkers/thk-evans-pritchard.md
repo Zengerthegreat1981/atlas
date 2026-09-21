@@ -23,6 +23,7 @@ related:
 - id: "wrk-the-nuer-evans-pritchard", title: "النوير (The Nuer)", type: "عمل / كتاب"
 - id: "sch-african-traditional-religions-classification-debate", title: "الأديانُ الأفريقيةُ التقليديةُ ونقدُ تصنيفها", type: "مدرسة"
 - id: "sch-ethnography-of-religion-fieldwork", title: "الإثنوغرافيا الدينيةُ والعملُ الميدانيّ", type: "مدرسة"
+- id: "dbt-colonial-vs-domestic-ethnography-lived-religion", title: "الإثنوغرافيا الاستعماريةُ البعيدة مقابل «الدين المعيش» المحلّيّ: جدلُ الجيل الإثنوغرافيّ في دراسة الدين", type: "جدل"
 gaps:
   - "أُضيف رابطٌ إلى `sch-african-traditional-religions-classification-debate` (علمُ الأديان المقارن، الدفعة 24) الذي يُبرز دراستَيه عن السحر عند الآزاندي والدين عند النوير كنقطة تحوّلٍ منهجية في دراسة الأديان الأفريقية، دون تكرار سيرته هنا."
   - "أُضيف رابطٌ إلى `sch-ethnography-of-religion-fieldwork` (الدفعة 26) الذي يضعه ضمن سلسلة تطوّر المنهج الإثنوغرافي الميداني في دراسة الدين."

@@ -20,6 +20,7 @@ related:
 - id: "sch-ethnography-of-religion-fieldwork", title: "الإثنوغرافيا الدينيةُ والعملُ الميدانيّ", type: "مدرسة"
 - id: "thk-bronislaw-malinowski", title: "برونيسلاف مالينوفسكي (Bronisław Malinowski)", type: "مفكر"
 - id: "thk-david-d-hall", title: "دايفد دي. هول (David D. Hall)", type: "مفكر"
+- id: "dbt-colonial-vs-domestic-ethnography-lived-religion", title: "الإثنوغرافيا الاستعماريةُ البعيدة مقابل «الدين المعيش» المحلّيّ: جدلُ الجيل الإثنوغرافيّ في دراسة الدين", type: "جدل"
 gaps:
   - "لا يوجد بعد ملفّ عملٍ مستقل (`wrk-`) لكتابه المؤسِّس *The Madonna of 115th Street* (1985) الذي أسّس منهج 'الدين المعيش' ميدانياً بدراسة تعبّد الكاثوليك الإيطاليين-الأمريكيين لمريم العذراء في هارلم."
 ---

@@ -21,6 +21,7 @@ related:
 - id: "sch-ethnography-of-religion-fieldwork", title: "الإثنوغرافيا الدينيةُ والعملُ الميدانيّ", type: "مدرسة"
 - id: "thk-robert-orsi", title: "روبرت أورسي (Robert A. Orsi)", type: "مفكر"
 - id: "con-emic-etic-study-of-religion", title: "الداخلُ والخارجُ (Emic/Etic) في دراسة الدين", type: "مفهوم"
+- id: "dbt-colonial-vs-domestic-ethnography-lived-religion", title: "الإثنوغرافيا الاستعماريةُ البعيدة مقابل «الدين المعيش» المحلّيّ: جدلُ الجيل الإثنوغرافيّ في دراسة الدين", type: "جدل"
 gaps:
   - "لا يخلط هذا الملفُّ بينه وبين ديفيد إل. هول (David L. Hall)، الفيلسوف المتخصّص في الكونفوشية المعاصرة، وهو شخصٌ مختلفٌ تماماً موثَّقٌ في ملفٍّ آخر (`thk-rames` يذكره شريكاً)."
   - "لا يوجد بعد ملفّ عملٍ مستقل (`wrk-`) لكتابه *Worlds of Wonder, Days of Judgment* (1989)."
