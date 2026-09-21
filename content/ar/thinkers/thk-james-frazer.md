@@ -23,8 +23,9 @@ related:
 - id: "sch-myth-theory-religious-studies", title: "نظرياتُ الأسطورة في علم الأديان المقارن", type: "مدرسة"
 - id: "wrk-remarks-on-frazers-golden-bough-wittgenstein", title: "ملاحظاتٌ على الغصن الذهبيّ", type: "عمل / كتاب"
 - id: "sch-founding-comparative-religion-science-of-religion", title: "تأسيسُ «علمِ الدين» (Science of Religion): ماكس مولر ونشأةُ علم الأديان المقارن", type: "مدرسة"
+- id: "wrk-golden-bough-frazer", title: "الغصنُ الذهبيّ: دراسةٌ في السحر والدين (The Golden Bough: A Study in Magic and Religion)", type: "عمل / كتاب"
 gaps:
-  - "لا يوجد بعد ملفُّ عملٍ مستقل (`wrk-`) لـ*الغصن الذهبي* نفسِه (عمل فريزر) رغم ضخامته الموسوعية (12 مجلداً)؛ فجوةٌ موثَّقة للدفعة القادمة إن استُدعت الحاجة لتفصيلٍ أوسع."
+  - "سُدَّت 2026-09-22 (دفعةُ تعميق): أُفرِد الآن ملفّ عملٍ مستقل لـ*الغصن الذهبي* نفسِه: `wrk-golden-bough-frazer`."
   - "سُدَّت 2026-09-21 (الدفعة 46): نقدُ فيتغنشتاين الفلسفي له (*ملاحظات على الغصن الذهبي*) فُصِّل الآن في ملفّ عملٍ مستقل: `wrk-remarks-on-frazers-golden-bough-wittgenstein`."
 ---
 
