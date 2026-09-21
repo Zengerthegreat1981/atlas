@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-counterfactual-historical-causation", target_type: "مدرسة"
 related:
+- id: "con-internal-external-criticism-method", title: "النقدُ الداخليّ والخارجيّ للمصدر التاريخي", type: "مفهوم"
 - id: "sch-rankean-historical-positivism", title: "المدرسةُ الرانكيةُ والوضعيةُ التاريخية («كما حدث فعلاً» ونقدُ المصادر)", type: "مدرسة"
 - id: "sch-french-methodical-school", title: "المدرسةُ المنهجيةُ الفرنسيةُ (سينوبوس ولانغلوا ومدخلُ الدراسات التاريخية)", type: "مدرسة"
 - id: "sch-archival-turn-archive-as-power", title: "الأرشيفُ بوصفه سلطةً ومشكلةً (Archival Turn)", type: "مدرسة"
