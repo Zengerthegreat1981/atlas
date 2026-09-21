@@ -24,6 +24,8 @@ related:
 - id: "thk-steven-pinker", title: "ستيفن بينكر", type: "مفكر"
 - id: "con-overregularization-past-tense-debate", title: "فرطُ التقعيد وجدلُ الأزمنة الفعلية الماضية (Overregularization & the Past-Tense Debate)", type: "مفهوم"
 - id: "exp-helen-keller-water-pump-language-breakthrough", title: "لحظةُ هيلين كيلر عند مضخّة الماء: اكتشافُ الرمزية اللغوية", type: "خبرة معيشة"
+- id: "thk-jean-berko-gleason", title: "جين بيركو غليسون", type: "مفكر"
+- id: "stu-wug-test-berko-1958", title: "اختبارُ الووگ (The Wug Test)", type: "دراسة وبحث"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`) — فرعٌ نمائيٌّ تطبيقيٌّ يتقاطع مع التوليدية والوظيفية معاً دون الانتماء الحصري لإحداهما."
   - "**سُدَّ 2026-09-21 (الدفعة 43)**: رُبط `thk-steven-pinker` (psychology) دون تكرار سيرته؛ وأُنشئت `con-stages-of-language-acquisition` و`thk-roger-brown` لسدّ فجوة مراحل الاكتساب التفصيلية."
