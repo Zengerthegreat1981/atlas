@@ -22,6 +22,7 @@ related:
 - id: "sch-classical-evolutionism", title: "الأنثروبولوجيا التطوّرية الكلاسيكية (Classical Evolutionism)", type: "مدرسة"
 - id: "sch-myth-theory-religious-studies", title: "نظرياتُ الأسطورة في علم الأديان المقارن", type: "مدرسة"
 - id: "wrk-remarks-on-frazers-golden-bough-wittgenstein", title: "ملاحظاتٌ على الغصن الذهبيّ", type: "عمل / كتاب"
+- id: "sch-founding-comparative-religion-science-of-religion", title: "تأسيسُ «علمِ الدين» (Science of Religion): ماكس مولر ونشأةُ علم الأديان المقارن", type: "مدرسة"
 gaps:
   - "لا يوجد بعد ملفُّ عملٍ مستقل (`wrk-`) لـ*الغصن الذهبي* نفسِه (عمل فريزر) رغم ضخامته الموسوعية (12 مجلداً)؛ فجوةٌ موثَّقة للدفعة القادمة إن استُدعت الحاجة لتفصيلٍ أوسع."
   - "سُدَّت 2026-09-21 (الدفعة 46): نقدُ فيتغنشتاين الفلسفي له (*ملاحظات على الغصن الذهبي*) فُصِّل الآن في ملفّ عملٍ مستقل: `wrk-remarks-on-frazers-golden-bough-wittgenstein`."
