@@ -66,9 +66,9 @@
 ---
 **الإجمال: 45 بنداً — مكتملة 100%.**
 
-## ٩. عقد مفكرين مستقلة (دفعةٌ إضافية، 21 سبتمبر 2026)
+## ٩. عقد مفكرين مستقلة (سلسلةٌ كاملة، 21 سبتمبر 2026)
 
-بعد اكتمال الـ45 بنداً بعقد `sch-` (مدارس)، أُنشئت دفعةٌ لاحقة من عقد مفكرين `thk-` مستقلة سيرةً لكلٍّ منهم، سدّاً لفجوةٍ موثَّقة في تقرير الإغلاق الأصلي. **17 ملفَّ مفكرٍ فعليّ** (يمثّلون 18 شخصاً، إذ يجمع ملفٌّ واحد سينوبوس ولانغلوا):
+بعد اكتمال الـ45 بنداً بعقد `sch-` (مدارس)، نُفِّذت سلسلةٌ من الدفعات لسدّ فجوة «صفر عقدة `thk-` مستقلة» الموثَّقة في تقرير الإغلاق الأصلي. **30 ملفَّ مفكرٍ فعليّ** (يمثّلون 32 شخصاً، إذ يجمع ملفّان — سينوبوس-لانغلوا ودوب-سويزي — كلٌّ منهما شخصين):
 
 | الملفّ | المدرسة المرتبطة |
 |---|---|
@@ -89,11 +89,31 @@
 | `thk-seignobos-langlois` (ملفٌّ مشترك: سينوبوس ولانغلوا) | `sch-french-methodical-school` |
 | `thk-giambattista-vico` | `sch-speculative-philosophy-of-history` |
 | `thk-oswald-spengler` | `sch-speculative-philosophy-of-history` |
+| `thk-robert-fogel` | `sch-cliometrics-quantitative-economic-history` |
+| `thk-dobb-sweezy` (ملفٌّ مشترك: دوب وسويزي) | `sch-feudalism-capitalism-transition-debate` |
+| `thk-giovanni-arrighi` | `sch-world-systems-history-longue-duree` |
+| `thk-jacques-le-goff` | `sch-annales-third-generation-mentalities` |
+| `thk-emmanuel-le-roy-ladurie` | `sch-annales-third-generation-mentalities` |
+| `thk-roger-chartier` | `sch-annales-third-generation-mentalities` |
+| `thk-ann-laura-stoler` | `sch-archival-turn-archive-as-power` |
+| `thk-robin-collingwood` | `sch-critical-philosophy-of-history` |
+| `thk-carl-hempel` | `sch-critical-philosophy-of-history` |
+| `thk-william-dray` | `sch-critical-philosophy-of-history` |
+| `thk-peter-novick` | `sch-objectivity-debate-carr-elton-novick` |
+| `thk-saul-friedlander` | `sch-genocide-denial-limits-of-representation` |
+| `thk-jan-vansina` | `sch-african-oral-history-traditions` |
 
-**حالتا تعارضٍ حقيقيّتان اكتُشفتا وحُلّتا دون اختراع نظير:**
-1. **رانجيت غوها** (`thk-ranajit-guha`): موجودٌ بالفعل من جلسة سوسيولوجيا متزامنة (`part: sociology`، `THK-6446`، مرتبطٌ بـ`sch-subaltern-studies-guha-spivak`). لم يُنشأ ملفٌّ ثانٍ؛ اسُتُرجع ملفُّهم عبر `git checkout --` بعد اكتشاف الكتابة الخاطئة فوقه، ووُثِّق القرار في `gaps` ملف `sch-subaltern-studies-historiographical-critique`.
-2. **أرنولد توينبي** (`thk-arnold-toynbee`): موجودٌ بالفعل من جلسة سوسيولوجيا/أنثروبولوجيا متزامنة (`part: sociology`، `THK-10146`، مرتبطٌ بـ`sch-khaldunian-ilm-al-umran`). لم يُنشأ ملفٌّ ثانٍ؛ رُبط عبر `related` من `sch-speculative-philosophy-of-history` دون لمس ملفّه الأصلي.
+**أربعُ حالاتِ تعارضٍ حقيقيّة اكتُشفت وحُلّت دون اختراع نظير** (كلُّها مع جلساتٍ متزامنة أخرى على المستودع نفسه):
 
-كلا الحادثتين اكُتُشفتا بفحصٍ استباقيّ (`find content/ar/thinkers -iname "*اسم*"`) قبل الكتابة، تطبيقاً لقاعدة «لا تخترع نظيراً ثانياً» في مستودعٍ يعمل عليه عدّةُ جلساتٍ بالتوازي.
+| الشخص | القسم الذي وُجد فيه | كيف اكتُشف | كيف حُلّ |
+|---|---|---|---|
+| **رانجيت غوها** | `part: sociology` (`THK-6446`، `sch-subaltern-studies-guha-spivak`) | بعد كتابةٍ خاطئة فوقه | استُرجع بـ`git checkout --`، رُبط لا استُنسخ |
+| **أرنولد توينبي** | `part: sociology` (`THK-10146`، `sch-khaldunian-ilm-al-umran`) | فحصٌ استباقيّ قبل الكتابة | رُبط مباشرةً عبر `related`، لم تحدث كتابةٌ خاطئة |
+| **بارينغتون مور** | `part: sociology` (`THK-10093`، `sch-skocpol-comparative-historical-revolutions`) | فحصٌ استباقيّ قبل الكتابة | رُبط مباشرةً عبر `related` |
+| **غاياتري سپيڤاك** | `part: philosophy` (`THK-1977`، `sch-feminism-postcolonial`) | فحصٌ استباقيّ قبل الكتابة | رُبط مباشرةً عبر `related` |
 
-**الإجمالي التراكمي النهائي لقسم historiography: 58 عقدة حيّة** (39 `sch-` + 17 `thk-` + 2 `rel-` جسر). انظر `HISTORIOGRAPHY_CLOSEOUT_ADDENDUM_2026-09-21.md` للتفاصيل الكاملة.
+كلُّ الحالات اكُتُشفت بفحصٍ استباقيّ (`find content/ar/thinkers -iname "*اسم*"`) قبل الكتابة، تطبيقاً لقاعدة «لا تخترع نظيراً ثانياً» في مستودعٍ يعمل عليه عدّةُ جلساتٍ بالتوازي.
+
+**الفجوةُ الوحيدة المتبقية من القائمة الأصلية**: صالح أحمد العلي (مؤرّخٌ عراقيّ)، لغياب مصدرين موثَّقين كافيين.
+
+**الإجمالي التراكمي النهائي لقسم historiography: 71 عقدة حيّة** (39 `sch-` + 30 `thk-` + 2 `rel-` جسر). انظر `HISTORIOGRAPHY_CLOSEOUT_ADDENDUM_2026-09-21.md` للتفاصيل الكاملة.
