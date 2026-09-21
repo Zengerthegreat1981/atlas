@@ -15,7 +15,9 @@ related:
 - id: "thk-chaim-perelman", title: "حاييم بيرلمان", type: "مفكر"
 - id: "con-textualism-originalism-scalia", title: "النصّيةُ والأصوليةُ الدستورية (Textualism & Originalism)", type: "مفهوم"
 - id: "con-law-as-integrity-dworkin", title: "القانونُ بوصفه نزاهةً (Law as Integrity)", type: "مفهوم"
+- id: "thk-neil-maccormick", title: "نيل مكورميك (Neil MacCormick)", type: "مفكر"
 gaps:
+  - "**سُدَّ 2026-09-21**: أُضيف `thk-neil-maccormick` (كان مذكوراً في المصادر دون ملفٍّ مستقل)."
   - "`belongs_to` تُرك فارغاً: هذا حقلٌ منهجيٌّ عابرٌ للمدارس، لا ينتمي إلى مدرسةٍ بعينها."
   - "نموذجُ نيل مكورميك (Neil MacCormick) في *Legal Reasoning and Legal Theory* (1978)، الذي طبّق تحليلَ الحجاج تحديداً على المحاكم الأنجلوسكسونية بتفصيلٍ أوسع، أُشير إليه في المصادر دون تفصيل مستقل."
 ---
