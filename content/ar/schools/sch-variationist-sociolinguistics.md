@@ -22,6 +22,7 @@ related:
 - id: "con-linguistic-variable-labov", title: "المتغيّرُ اللغوي (The Linguistic Variable)", type: "مفهوم"
 - id: "con-register-style-shifting", title: "السِّجلُّ اللغويُّ وتبدّلُ الأسلوب (Register & Style-Shifting)", type: "مفهوم"
 - id: "ins-matched-guise-technique", title: "تقنيةُ الهيئة المتطابقة (Matched-Guise Technique)", type: "منهج/أداة بحث"
+- id: "wrk-sociolinguistic-patterns-labov", title: "أنماطٌ اجتماعيةٌ لغوية (Sociolinguistic Patterns)", type: "عمل / كتاب"
 - id: "ins-dialect-atlas-geolinguistics", title: "الأطلسُ اللغويُّ والجغرافيا اللهجية (Dialect Atlas & Geolinguistics)", type: "منهج/أداة بحث"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`) — فرعٌ اجتماعيٌّ كمّيٌّ مستقلٌّ عن التوليدية والبنيوية، نشأ من منهجيةٍ ميدانيةٍ إحصائية لا من نظريةٍ صورية."
