@@ -69,7 +69,7 @@
 ## 6. اللغةُ في المجتمع (Sociolinguistics & Anthropology of Language)
 
 - [x] اللسانياتُ الاجتماعيةُ المتغيّرية (Labovian Variationist Sociolinguistics) — `sch-variationist-sociolinguistics`، `thk-william-labov`، `stu-labov-department-store-r` (الدفعة 7).
-- [ ] إثنوغرافيا التواصل والكفايةُ التواصلية (Hymes — SPEAKING)
+- [x] إثنوغرافيا التواصل والكفايةُ التواصلية (Hymes — SPEAKING) — موجودةٌ بالفعل تحت `part: anthropology` (`thk-dell-hymes`، `sch-ethnography-of-communication`، أنشأتها جلسةٌ أخرى، الدفعة 50 هناك). لا تُنشئ نظيراً لسانياً — اربط فقط عند الحاجة (سُجِّل 2026-09-21 بعد محاولة إنشاءٍ مكرِّرة اكتُشفت وتراجعنا عنها).
 - [x] الازدواجيةُ اللغويةُ والفصحى والعامّية (Diglossia — Ferguson، والحالةُ العربية) — `thk-charles-ferguson`، `con-diglossia` (الدفعة 12). حيادٌ صريحٌ محفوظ إزاء سياسات اللغة العربية المعاصرة، مطابقةً لتوجيهات المهمّة.
 - [ ] اللغةُ والجندر (Lakoff، Tannen، Eckert)
 - [ ] التماسُّ اللغويُّ والكريول والبِجن (Contact Linguistics)
@@ -82,7 +82,7 @@
 - [ ] التداوليةُ ومبدأُ التعاون (Gricean Pragmatics) — **تقاطعٌ مع فلسفة اللغة؛ اربط ولا تكرّر**
 - [x] نظريةُ الملاءمة (Relevance Theory — Sperber & Wilson) — `sch-relevance-theory`، `thk-dan-sperber`، `thk-deirdre-wilson` (الدفعة 9). مربوطةٌ نقدياً بـ`thk-pgrice` (philosophy) دون تكراره.
 - [ ] تحليلُ المحادثة (Conversation Analysis — Sacks، Schegloff) — **`thk-hsacks` موجودٌ ومعزول**
-- [ ] تحليلُ الخطاب النقديّ (CDA — Fairclough، van Dijk، Wodak)
+- [~] تحليلُ الخطاب النقديّ (CDA — Fairclough، van Dijk، Wodak) — `thk-norman-fairclough`، `thk-teun-van-dijk` (الدفعة 13). لا مدرسةَ `sch-` مستقلة: البنيةُ المؤسسية لـCDA موجودةٌ بالفعل تحت `sociology` (`ins-critical-discourse-analysis-fairclough`، `dbt-conversation-analysis-vs-critical-discourse-analysis`)؛ رُبط إليها دون تكرار. رود فوداك لم تُفرَد بعد.
 - [ ] لسانياتُ النصِّ وتماسكُه (Text Linguistics — de Beaugrande، Halliday & Hasan)
 - [ ] نظريةُ التأدّب ووجهُ المتكلّم (Politeness Theory — Brown & Levinson)
 
@@ -94,7 +94,7 @@
 - [x] علمُ اللغة العصبيُّ ومناطقُ اللغة (Broca، Wernicke، النموذجُ المعاصر) — `sch-classical-neurolinguistics`، `thk-paul-broca`، `con-broca-wernicke-lichtheim-model` (الدفعة 11). **جسرٌ منجَز**: `syn-wernicke-aphasia` و`syn-broca-aphasia` (psychology) رُبطا بـ`related` دون تعديل وسمهما، وخرجا بذلك من العزلة.
 - [ ] الحُبسةُ واضطراباتُ اللغة (Aphasiology) — **جسرٌ إلى الاضطرابات في الأطلس**
 - [ ] ثنائيةُ اللغة والدماغ (Bilingualism & Cognitive Control)
-- [ ] لغةُ الإشارة بوصفها لغةً طبيعية (Sign Language Linguistics)
+- [~] لغةُ الإشارة بوصفها لغةً طبيعية (Sign Language Linguistics) — `sch-sign-language-linguistics` (الدفعة 13)، مربوطةٌ بجسر علم اللغة العصبي. يتبقّى: وليام ستوكو كمفكرٍ مستقل.
 - [ ] أصلُ اللغة وتطوّرها (Language Evolution — Hauser/Chomsky/Fitch، Tomasello)
 
 ## 9. اللغةُ والحاسوبُ والقياس (Computational & Corpus)
