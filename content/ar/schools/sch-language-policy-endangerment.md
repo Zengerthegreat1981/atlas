@@ -18,6 +18,7 @@ edges: []
 related:
 - id: "ins-descriptive-linguistic-fieldwork", title: "التسجيلُ الميدانيُّ ووصفُ اللغات (Descriptive Fieldwork)", type: "منهج/أداة بحث"
 - id: "con-diglossia", title: "الازدواجيةُ اللغوية (Diglossia)", type: "مفهوم"
+- id: "thk-joshua-fishman", title: "جوشوا فيشمان", type: "مفكر"
 gaps:
   - "لا `belongs_to`: فرعٌ تطبيقيٌّ يتقاطع مع علم اللغة الاجتماعي والسياسات العامّة، لا ينحدر من مدرسةٍ نظريةٍ لسانيةٍ واحدة."
   - "حيادٌ صريحٌ محفوظ إزاء سياسات اللغة الوطنية المعاصرة تحديداً (كسياسات التعريب أو الفرنسة أو غيرها)، تماشياً مع نهج المهمّة في con-diglossia."
