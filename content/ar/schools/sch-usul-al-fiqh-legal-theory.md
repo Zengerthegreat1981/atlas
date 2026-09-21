@@ -29,7 +29,9 @@ related:
 - id: "thk-wael-hallaq", title: "وائل حلّاق (Wael B. Hallaq)", type: "مفكر"
 - id: "con-gate-of-ijtihad-debate-hallaq", title: "جدلُ «إغلاق باب الاجتهاد» (The Gate of Ijtihad Debate)", type: "مفهوم"
 - id: "thk-mohammad-hashim-kamali", title: "محمد هاشم كمالي (Mohammad Hashim Kamali)", type: "مفكر"
+- id: "wrk-al-ihkam-al-amidi", title: "الإحكامُ في أصول الأحكام", type: "عمل / كتاب"
 gaps:
+  - "**تعميقٌ 2026-09-22**: أُضيفت `wrk-al-ihkam-al-amidi` (أحدُ الأركان الأربعة الكلاسيكية لأصول الفقه)."
   - "**تعميقٌ 2026-09-22**: أُضيف `thk-mohammad-hashim-kamali` (مصدرٌ ثانٍ مستشهَدٌ به مراراً عبر هذا القسم)."
   - "**سُدَّ 2026-09-21**: أُضيفت `thk-wael-hallaq` و`con-gate-of-ijtihad-debate-hallaq` (المؤرِّخُ المعاصرُ الذي استُشهد بأعماله مصدراً أساسياً في كل ملفات هذا القسم تقريباً)."
   - "**الدفعةُ 22 (السياسة الشرعية)** أُلحقت هنا؛ القسمُ الأول من الـbacklog (القانون الطبيعي وتقاليده) مكتملٌ بالكامل الآن."
