@@ -16,6 +16,7 @@ edges:
 related:
 - id: "thk-durkheim", title: "إميل دوركهايم", type: "مفكر"
 - id: "sch-goffmanian-interaction-rituals", title: "طقوس التفاعل اليومي وحفظ ماء الوجه", type: "مدرسة"
+- id: "con-totemic-sacrifice-smith-durkheim-influence", title: "أثرُ نظرية القربان الطوطمي عند روبرتسون سميث في دوركهايم", type: "مفهوم"
 gaps:
   - "**سُدَّت 2026-09-17:** أُضيف رابط `sch-goffmanian-interaction-rituals` هنا، إذ استعار غوفمان فكرة الطقس التفاعلي مباشرة من هذا التحليل الدوركهايمي كما يوثِّق الملف الأم نصياً."
 ---

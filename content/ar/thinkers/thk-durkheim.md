@@ -24,7 +24,9 @@ related:
 - id: "wrk-division-of-labor-durkheim", title: "تقسيم العمل الاجتماعي", type: "عمل / كتاب"
 - id: "wrk-rules-of-sociological-method-durkheim", title: "قواعد المنهج السوسيولوجي", type: "عمل / كتاب"
 - id: "wrk-elementary-forms-religious-life-durkheim", title: "الأشكال الأولية للحياة الدينية", type: "عمل / كتاب"
+- id: "con-totemic-sacrifice-smith-durkheim-influence", title: "أثرُ نظرية القربان الطوطمي عند روبرتسون سميث في دوركهايم", type: "مفهوم"
 gaps:
+  - "**سُدَّت 2026-09-22:** أثرُ قراءة دوركهايم لروبرتسون سميث (*محاضرات في دين الساميّين*) في بناء نظرية القربان الطوطمي والمقدَّس/المدنَّس فُصِّل الآن في `con-totemic-sacrifice-smith-durkheim-influence` (قسم علم الأديان المقارن)."
   - "**سُدَّت الفجوة بالكامل 2026-09-15:** كُتبت أربعة ملفات wrk- توثّق كتبه الأربعة الكبرى (`wrk-division-of-labor-durkheim`، `wrk-rules-of-sociological-method-durkheim`، `wrk-suicide-durkheim`، `wrk-elementary-forms-religious-life-durkheim`)."
   - "هذا الملف أُنشئ في الدفعة 9 (مرحلة الحزم) من مهمة بناء قسم علم الاجتماع."
   - "**سُدَّ 2026-09-14 (الدفعة 10):** كُتب `con-anomie-durkheim` وأُضيف رابطه هنا."
