@@ -28,7 +28,9 @@ related:
 - id: "con-sadd-al-dharai-usul", title: "سدُّ الذرائع (Sadd al-Dhara'i)", type: "مفهوم"
 - id: "thk-wael-hallaq", title: "وائل حلّاق (Wael B. Hallaq)", type: "مفكر"
 - id: "con-gate-of-ijtihad-debate-hallaq", title: "جدلُ «إغلاق باب الاجتهاد» (The Gate of Ijtihad Debate)", type: "مفهوم"
+- id: "thk-mohammad-hashim-kamali", title: "محمد هاشم كمالي (Mohammad Hashim Kamali)", type: "مفكر"
 gaps:
+  - "**تعميقٌ 2026-09-22**: أُضيف `thk-mohammad-hashim-kamali` (مصدرٌ ثانٍ مستشهَدٌ به مراراً عبر هذا القسم)."
   - "**سُدَّ 2026-09-21**: أُضيفت `thk-wael-hallaq` و`con-gate-of-ijtihad-debate-hallaq` (المؤرِّخُ المعاصرُ الذي استُشهد بأعماله مصدراً أساسياً في كل ملفات هذا القسم تقريباً)."
   - "**الدفعةُ 22 (السياسة الشرعية)** أُلحقت هنا؛ القسمُ الأول من الـbacklog (القانون الطبيعي وتقاليده) مكتملٌ بالكامل الآن."
   - "هذا الملفُّ أُنشئ في الدفعة 1 من مهمة بناء قسم نظرية القانون (القسم 1 من `legal-theory-schools-backlog.md`)، وهو أوّلُ عقدةٍ في القسم. `belongs_to` تُرك فارغاً: لا جذرَ عامّ لنظرية القانون في المستودع بعد."
