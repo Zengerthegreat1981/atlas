@@ -21,7 +21,7 @@
 - [x] الدينُ بوصفه مقولةً استعماريةً (طلال أسد — *Genealogies of Religion*) — `thk-talal-asad` و`wrk-genealogies-of-religion-asad` موجودان مسبقاً تحت anthropology ويغطّيان الأطروحة بتفصيلٍ كافٍ؛ قُرِّر نهائياً عدم إنشاء عقدة `con-` مكرِّرة، والاكتفاء بربطٍ من `sch-myth-theory-religious-studies` (أول عقدةٍ حيّة شقيقة في هذا القسم) إليهما، الدفعة 13
 
 ## 3. المقارباتُ الظاهراتيةُ والتأويلية
-- [~] ظاهراتيةُ الدين (ڤان دير ليو، كريستنسن) — مدرسةٌ جامعة `sch-phenomenology-of-religion-otto-eliade` أُنشئت (أوتو/إلياده/ڤاخ/سمارت)؛ ڤان دير ليو وكريستنسن لم يُضافا بعد (فجوة موثّقة في ملف المدرسة)
+- [x] ظاهراتيةُ الدين (ڤان دير ليو، كريستنسن) — مدرسةٌ جامعة `sch-phenomenology-of-religion-otto-eliade` (أوتو/إلياده/ڤاخ/سمارت)؛ أُضيف الآن `thk-gerardus-van-der-leeuw` (THK-8011) و`thk-william-brede-kristensen` (THK-8012)، الدفعة 17
 - [x] المقدَّسُ والمهيب (رودولف أوتّو — *Das Heilige*) — `thk-rudolf-otto`، يربط بـ`exp-numinous-otto` الموجود مسبقاً، الدفعة 2
 - [x] إلياده والمقدَّسُ والزمنُ الأسطوريّ (*The Sacred and the Profane*) — `thk-mircea-eliade`، الدفعة 2
 - [x] الأبعادُ السبعةُ للدين (نينيان سمارت) — `thk-ninian-smart`؛ مفهومٌ مستقل للأبعاد السبعة لم يُفرَد بعد (فجوة)، الدفعة 2
