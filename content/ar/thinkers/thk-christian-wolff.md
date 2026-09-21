@@ -20,7 +20,9 @@ related:
 - id: "sch-leibnizianism", title: "اللايبنتزية", type: "مدرسة"
 - id: "con-best-of-all-possible-worlds", title: "أفضل العوالم الممكنة (Best of All Possible Worlds)", type: "مفهوم"
 - id: "con-monad", title: "المونادات (Monades)", type: "مفهوم"
+- id: "sch-modern-natural-law-social-contract", title: "القانونُ الطبيعيُّ الحديثُ والعقدُ الاجتماعي (Modern Natural Law & Social Contract)", type: "مدرسة"
 gaps:
+  - "**ربطٌ من قسم نظرية القانون (2026-09-21)**: أُضيف `sch-modern-natural-law-social-contract` — إسهامُه في القانون الطبيعي والدولي (*Jus Gentium Methodo Scientifica Pertractatum*, 1749) موثَّقٌ هناك ضمن جذعٍ منهجيٍّ لا يكرّر سيرتَه الفلسفية العامة هنا."
   - "لا يوجد اقتباس مباشر موثّق من 'العقلانية اللاهوتية' (Theologia Naturalis, 1736-7)."
   - "عنوان عمل فولف المبكر في نظرية الفن (منسوب سابقاً بعنوان 'Philosophische Gedanken über die Wirkung der Dichtkunst, 1720') لم يُتحقق من دقته؛ المؤكَّد فقط أن معالجته للجمال جاءت ضمن أعماله في الميتافيزيقا وعلم النفس (1719-1734) لا في عمل مستقل مؤكَّد العنوان."
 ---
