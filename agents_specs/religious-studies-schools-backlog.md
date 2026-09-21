@@ -35,7 +35,7 @@
 - [x] الخبرةُ الصوفيةُ والدماغ (Newberg، d'Aquili) — **وجدلُها المنهجيّ** — `sch-neurotheology-mystical-brain` (SCH-6808) + `thk-andrew-newberg` (THK-8013) جديدان، يربطان بـ`dbt-reductionism-vs-non-reductionism-religious-studies` و`sch-cognitive-science-of-religion` الموجودين مسبقاً؛ دكويلي تُرك فجوةً موثَّقة (لا مصادر إنجليزية كافية عن سيرته منفصلةً)، الدفعة 19
 
 ## 5. الأديانُ والتقاليدُ بوصفها موضوعاتِ دراسة
-- [ ] دراسةُ الإسلام أكاديمياً ونقدُ الاستشراق
+- [x] دراسةُ الإسلام أكاديمياً ونقدُ الاستشراق — `sch-academic-islamic-studies-orientalism-critique` (SCH-6812) + `thk-ignaz-goldziher` (THK-8015) جديدان، يربطان بـ`thk-said`/`con-orientalism`/`wrk-orientalism-said` (فلسفة، تغطيةٌ استثنائية الغنى مسبقاً) و`thk-al-shahrastani`/`sch-arabic-comparative-religion-tradition` الموجودين مسبقاً دون تكرار، مع روابطَ عكسية؛ جوزيف شاخت والردود الإسلامية الأكاديمية (السباعي، الأعظمي) تُركا فجوةً موثَّقة، الدفعة 22
 - [x] دراساتُ الكتاب المقدّس النقديةُ (النقدُ الأعلى، فرضيةُ الوثائق) — `sch-higher-criticism-biblical-studies` + `thk-julius-wellhausen` + `con-documentary-hypothesis-wellhausen`، الدفعة 3
 - [ ] دراسةُ الأديان الهنديةِ والبوذية أكاديمياً
 - [ ] الأديانُ الأفريقيةُ التقليديةُ ونقدُ تصنيفها
