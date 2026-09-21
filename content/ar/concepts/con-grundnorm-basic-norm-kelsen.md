@@ -16,7 +16,9 @@ related:
 - id: "thk-hans-kelsen", title: "هانس كِلسن (Hans Kelsen)", type: "مفكر"
 - id: "wrk-pure-theory-of-law-kelsen", title: "النظريةُ الخالصةُ للقانون (Reine Rechtslehre)", type: "عمل"
 - id: "sch-legal-positivism-modern", title: "الوضعيةُ القانونيةُ الحديثة (Modern Legal Positivism)", type: "مدرسة"
+- id: "crt-hart-critique-of-kelsen-grundnorm", title: "نقدُ هارت لمفهوم Grundnorm عند كِلسن", type: "نقد خارجي موثَّق"
 gaps:
+  - "**سُدَّ 2026-09-21**: أُنشئ `crt-hart-critique-of-kelsen-grundnorm` (كان مذكوراً كفجوةٍ أدناه)."
   - "المقارنةُ التفصيليةُ بين Grundnorm وقاعدة الاعتراف الهارتية لم تُكتب في ملفٍّ مستقلٍّ بعد (تحتاج عقدةَ `dbt-` أو `crt-` مقارِنة)؛ أُشير إليها هنا إشارةً موجزةً فقط."
   - "لا يوجد بعدُ ملفٌّ يناقش تطبيقات هذا المفهوم في قضايا الانقلابات الدستورية (Revolution Doctrine) رغم أنّها من أشهر توظيفاته العملية في المحاكم (باكستان، أوغندا، رودسيا)."
 ---

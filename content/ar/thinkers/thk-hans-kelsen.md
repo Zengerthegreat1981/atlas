@@ -20,7 +20,10 @@ related:
 - id: "con-grundnorm-basic-norm-kelsen", title: "القاعدةُ الأساسية (Grundnorm)", type: "مفهوم"
 - id: "wrk-pure-theory-of-law-kelsen", title: "النظريةُ الخالصةُ للقانون (Reine Rechtslehre)", type: "عمل"
 - id: "thk-hla-hart", title: "هربرت هارت (H.L.A. Hart)", type: "مفكر"
+- id: "wrk-general-theory-of-law-and-state-kelsen", title: "النظريةُ العامّةُ للقانون والدولة", type: "عمل"
+- id: "crt-hart-critique-of-kelsen-grundnorm", title: "نقدُ هارت لمفهوم Grundnorm عند كِلسن", type: "نقد خارجي موثَّق"
 gaps:
+  - "**تعميقٌ 2026-09-21**: أُضيفت `wrk-general-theory-of-law-and-state-kelsen` (عملُه الإنجليزي 1945) و`crt-hart-critique-of-kelsen-grundnorm`."
   - "دورُه في صياغة دستور النمسا (1920) والمحكمة الدستورية النمساوية — وهو إسهامٌ عمليٌّ مباشرٌ في هندسة الرقابة الدستورية — أُشير إليه إشارةً موجزةً فقط دون تفصيل تقني."
   - "نزاعُه الفكريُّ مع كارل شميت حول مَن يحرس الدستور (Wer soll der Hüter der Verfassung sein؟, 1931) لم يُفصَّل هنا؛ سيُربط حين تُكتب عقدةُ شميت في دفعةٍ لاحقة."
 ---
