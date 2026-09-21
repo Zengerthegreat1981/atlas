@@ -18,6 +18,7 @@ active_end: 1900
 edges:
 - rel: "belongs_to", target: "sch-ibn-khaldun-naqd-al-akhbar", target_type: "مدرسة"
 related:
+- id: "thk-leopold-von-ranke", title: "ليوپولد فون رانكه", type: "مفكر"
 - id: "sch-isnad-jarh-wa-tadil", title: "منهجُ الإسناد والجرح والتعديل بوصفه نقداً تاريخياً", type: "مدرسة"
 - id: "sch-ibn-khaldun-naqd-al-akhbar", title: "منهجُ نقد الأخبار عند ابن خلدون (قانونُ المطابقة العمرانية)", type: "مدرسة"
 - id: "sch-national-historiography-nation-building", title: "التاريخُ الوطنيُّ وصناعةُ الأمّة (القرنُ التاسعَ عشر)", type: "مدرسة"

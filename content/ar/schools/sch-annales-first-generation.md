@@ -18,6 +18,8 @@ active_end: 1945
 edges:
 - rel: "belongs_to", target: "sch-ibn-khaldun-naqd-al-akhbar", target_type: "مدرسة"
 related:
+- id: "thk-marc-bloch", title: "مارك بلوك", type: "مفكر"
+- id: "thk-lucien-febvre", title: "لوسيان فيڤر", type: "مفكر"
 - id: "sch-french-methodical-school", title: "المدرسةُ المنهجيةُ الفرنسيةُ (سينوبوس ولانغلوا ومدخلُ الدراسات التاريخية)", type: "مدرسة"
 - id: "sch-braudel-longue-duree", title: "الزمنُ الطويلُ والبنيةُ عند بروديل (*المتوسّط*، longue durée)", type: "مدرسة"
 gaps:
