@@ -21,6 +21,7 @@ related:
 - id: "thk-teun-van-dijk", title: "تون فان دايك", type: "مفكر"
 - id: "thk-deborah-schiffrin", title: "ديبورا شفرين", type: "مفكر"
 - id: "con-discourse-markers", title: "علاماتُ الخطاب (Discourse Markers)", type: "مفهوم"
+- id: "con-anaphora-cataphora-discourse", title: "الرجوعُ الضميري السابق واللاحق في الخطاب (Anaphora & Cataphora)", type: "مفهوم"
 gaps: []
 ---
 
