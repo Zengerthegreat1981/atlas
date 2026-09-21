@@ -19,7 +19,9 @@ related:
 - id: "wrk-natural-law-and-natural-rights-finnis", title: "القانونُ الطبيعيُّ والحقوقُ الطبيعية (Natural Law and Natural Rights)", type: "عمل"
 - id: "con-natural-law-aquinas-concept", title: "القانونُ الطبيعيُّ والمشاركةُ العقليةُ في الحكمة الأزلية (الأكويني)", type: "مفهوم"
 - id: "thk-al-shatibi", title: "أبو إسحاق الشاطبي (Al-Shatibi)", type: "مفكر"
+- id: "thk-germain-grisez", title: "جيرمين غريسيز (Germain Grisez)", type: "مفكر"
 gaps:
+  - "**سُدَّ 2026-09-21**: أُنشئ `thk-germain-grisez` (كان مذكوراً كفجوةٍ منتظرة)."
   - "`belongs_to` تُرك فارغاً: لا يوجد بعدُ في الأطلس جذعٌ مخصَّصٌ لـ«القانون الطبيعي» في قسم نظرية القانون (خلافَ أصول الفقه)؛ سيُنشأ جذعٌ خاصٌّ بالقانون الطبيعي مستقبلاً يضمّ أيضاً روابطَ لـ`con-natural-law` و`con-natural-law-aquinas-concept` الفلسفيَّين، وحينها يُضاف `belongs_to` هنا."
   - "شريكُه الفكريُّ جيرمين غريسيز (Germain Grisez)، الذي طوّر معه الإطارَ النظريَّ الأساسيَّ لـ«الخيرات الأساسية» في مقالةٍ مشتركة عام 1965 قبل كتاب فينيس المنفرد، لم يُكتب له ملفٌّ مستقلٌّ بعد."
 ---
