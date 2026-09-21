@@ -53,10 +53,10 @@
 - [x] العدالةُ الانتقاليةُ ولجانُ الحقيقة — **جسرٌ إلى الصدمة الجمعية** — الدفعةُ 16: `thk-ruti-teitel`، `con-transitional-justice-teitel` (ربط بـ`con-historical-trauma` القائم)
 
 ## 7. المناهج
-- [ ] المنهجُ التحليليُّ في فلسفة القانون
-- [ ] المنهجُ التجريبيُّ في دراسة القانون (Empirical Legal Studies)
-- [ ] علمُ النفس القانونيُّ والشهادة — **جسرٌ إلى ذاكرة الشهود والذكرياتِ المستعادة**
-- [ ] تحليلُ الحجاج القانونيّ
+- [x] المنهجُ التحليليُّ في فلسفة القانون — الدفعةُ 23: `con-analytical-jurisprudence-method`
+- [x] المنهجُ التجريبيُّ في دراسة القانون (Empirical Legal Studies) — الدفعةُ 23: `sch-empirical-legal-studies`
+- [x] علمُ النفس القانونيُّ والشهادة — **جسرٌ إلى ذاكرة الشهود والذكرياتِ المستعادة** — الدفعةُ 23: `con-legal-psychology-eyewitness-testimony`؛ ربط بـ`thk-elizabeth-loftus` و`con-misinformation-effect-loftus` القائمَين
+- [x] تحليلُ الحجاج القانونيّ — الدفعةُ 23: `con-legal-argumentation-perelman-toulmin`؛ ربط بـ`thk-chaim-perelman` القائم. **القسمُ 7 مكتملٌ بالكامل الآن (4/4) — والـbacklog كلُّه مكتملٌ (41/41).**
 
 ---
 **الإجمال: 41 بنداً.**
