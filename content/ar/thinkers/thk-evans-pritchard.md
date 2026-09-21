@@ -21,7 +21,9 @@ related:
 - id: "con-segmentary-lineage-system", title: "النسقُ القطاعيّ للنسب (Segmentary Lineage System)", type: "مفهوم"
 - id: "wrk-african-political-systems-fortes-evans-pritchard", title: "الأنساقُ السياسية الأفريقية (African Political Systems)", type: "عمل / كتاب"
 - id: "wrk-the-nuer-evans-pritchard", title: "النوير (The Nuer)", type: "عمل / كتاب"
-gaps: []
+- id: "sch-african-traditional-religions-classification-debate", title: "الأديانُ الأفريقيةُ التقليديةُ ونقدُ تصنيفها", type: "مدرسة"
+gaps:
+  - "أُضيف رابطٌ إلى `sch-african-traditional-religions-classification-debate` (علمُ الأديان المقارن، الدفعة 24) الذي يُبرز دراستَيه عن السحر عند الآزاندي والدين عند النوير كنقطة تحوّلٍ منهجية في دراسة الأديان الأفريقية، دون تكرار سيرته هنا."
 ---
 # إدوارد إيفانز-بريتشارد (E. E. Evans-Pritchard)
 
