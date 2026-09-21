@@ -13,6 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-sentence-processing-psycholinguistics", target_type: "مدرسة"
 related:
 - id: "thk-victoria-fromkin", title: "ﭬيكتوريا فرومكين", type: "مفكر"
+- id: "thk-willem-levelt", title: "ﭬيلم ليڤلت", type: "مفكر"
 gaps: []
 ---
 
