@@ -13,6 +13,7 @@ edges: []
 related:
 - id: "con-functional-sentence-perspective", title: "التقطيعُ الوظيفيُّ للجملة (Functional Sentence Perspective)", type: "مفهوم"
 - id: "sch-formal-semantics-montague-grammar", title: "الدلالةُ الصوريةُ ونحوُ مونتاغيو (Formal Semantics)", type: "مدرسة"
+- id: "con-definiteness-article-systems", title: "التعريفُ وأنظمةُ أدوات التعريف (Definiteness & Article Systems)", type: "مفهوم"
 gaps: []
 ---
 
