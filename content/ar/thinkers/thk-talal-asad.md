@@ -20,6 +20,7 @@ related:
 - id: "wrk-genealogies-of-religion-asad", title: "جينالوجياتُ الدين (Genealogies of Religion)", type: "عمل / كتاب"
 - id: "wrk-anthropology-colonial-encounter-asad", title: "الأنثروبولوجيا والمواجهةُ الاستعمارية (Anthropology and the Colonial Encounter)", type: "عمل / كتاب"
 - id: "wrk-formations-of-secular-asad", title: "تشكيلاتُ العلماني (Formations of the Secular)", type: "عمل / كتاب"
+- id: "thk-veena-das", title: "ڤينا داس (Veena Das)", type: "مفكر"
 gaps:
   - "علاقةُ أسد بإدوارد سعيد ومفهوم الاستشراق مذكورةٌ إجمالاً في ملفّ المدرسة؛ لم تُضَف كضلعٍ صريح لعدم توفّر ملفٍّ مستقلٍّ لسعيد ضمن هذا القسم بعد (هو مُدرَجٌ تحت الأدب المقارن/الاستشراق في قسمٍ آخر من الأطلس)."
 ---
