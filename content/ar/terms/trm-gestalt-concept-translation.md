@@ -12,6 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-gestalt-therapy", target_type: "مدرسة"
 related:
+- id: "con-untranslatability-lexical-gaps", title: "اللاقابليةُ للترجمة والفجواتُ المعجمية (Untranslatability & Lexical Gaps)", type: "مفهوم"
 - id: "thk-fperls", title: "فريتز بيرلز", type: "مفكر"
 gaps:
   - "لم تُراجَع بعد المصادر العربية المتخصصة في نزاع تعريب Gestalt (مقالات المجلة العربية لعلم النفس)؛ الاعتماد هنا على المصطلح الشائع فقط دون تتبع أول من استخدم لفظ «الجشطالت» بالعربية وتاريخه بالضبط."

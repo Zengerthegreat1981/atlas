@@ -12,6 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
+- id: "con-untranslatability-lexical-gaps", title: "اللاقابليةُ للترجمة والفجواتُ المعجمية (Untranslatability & Lexical Gaps)", type: "مفهوم"
 - id: "con-anxiety", title: "القلق", type: "مفهوم"
 - id: "dis-gad", title: "اضطراب القلق العام", type: "اضطراب/حالة إكلينيكية"
 - id: "wrk-being-time", title: "الوجود والزمان", type: "عمل / كتاب"

@@ -12,6 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-ordinary-language", target_type: "مدرسة"
 related:
+- id: "con-untranslatability-lexical-gaps", title: "اللاقابليةُ للترجمة والفجواتُ المعجمية (Untranslatability & Lexical Gaps)", type: "مفهوم"
 - id: "thk-lwittgenstein", title: "لودفيغ فيتغنشتاين", type: "مفكر"
 - id: "wrk-philosophical-investigations-wittgenstein", title: "بحوث فلسفية للودفيغ فيتغنشتاين", type: "عمل / كتاب"
 gaps:

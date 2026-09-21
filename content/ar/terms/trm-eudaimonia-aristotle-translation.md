@@ -12,6 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-aristotelianism", target_type: "مدرسة"
 related:
+- id: "con-untranslatability-lexical-gaps", title: "اللاقابليةُ للترجمة والفجواتُ المعجمية (Untranslatability & Lexical Gaps)", type: "مفهوم"
 - id: "trm-arete-virtue-excellence", title: "الأريتي (Arete): الفضيلة والكمال الإنساني وتحقيق الغاية", type: "مصطلح لغوي متنازع عليه"
 - id: "thk-aristotle", title: "أرسطو", type: "مفكر"
 - id: "thk-mseligman", title: "مارتن سليجمان", type: "مفكر"

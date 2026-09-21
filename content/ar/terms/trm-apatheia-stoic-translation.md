@@ -12,6 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-stoicism", target_type: "مدرسة"
 related:
+- id: "con-untranslatability-lexical-gaps", title: "اللاقابليةُ للترجمة والفجواتُ المعجمية (Untranslatability & Lexical Gaps)", type: "مفهوم"
 - id: "exp-seneca-forced-suicide-nero", title: "انتحار سينيكا القسري بأمر نيرون والثبات الرواقي الأخير", type: "خبرة معيشة"
 - id: "thk-epictetus", title: "إبكتيتوس", type: "مفكر"
 - id: "thk-marcus-aurelius", title: "ماركوس أوريليوس", type: "مفكر"

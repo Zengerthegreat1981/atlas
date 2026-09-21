@@ -12,6 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-phenomenology", target_type: "مدرسة"
 related:
+- id: "con-untranslatability-lexical-gaps", title: "اللاقابليةُ للترجمة والفجواتُ المعجمية (Untranslatability & Lexical Gaps)", type: "مفهوم"
 - id: "trm-in-der-welt-sein-heidegger", title: "الكينونة-في-العالم (In-der-Welt-sein): وحدة الوجود المتشابك", type: "مصطلح لغوي متنازع عليه"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
 gaps:
