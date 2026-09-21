@@ -31,7 +31,7 @@
 
 ## 4. الواقعيةُ والنقد
 - [x] الواقعيةُ القانونيةُ الأمريكية (هولمز، لويلين، فرانك — «ما تفعله المحاكم فعلاً») — الدفعةُ 9: `sch-american-legal-realism`، `thk-oliver-wendell-holmes-jr`، `con-prediction-theory-of-law-holmes`، `thk-karl-llewellyn`، `thk-jerome-n-frank` (تنبيهٌ صريح لعدم الخلط بـ`thk-jerome-frank` القائم)
-- [ ] الواقعيةُ الاسكندنافية (هاغرستروم، روس)
+- [x] الواقعيةُ الاسكندنافية (هاغرستروم، روس) — الدفعةُ 19: `sch-scandinavian-legal-realism`، `thk-alf-ross`، `con-ross-tu-tu-legal-concepts`
 - [x] الدراساتُ القانونيةُ النقدية (CLS — كنيدي، أنغر، لاإحداثيةُ القانون) — الدفعةُ 10: `sch-critical-legal-studies`، `thk-duncan-kennedy`، `thk-roberto-unger`، `con-legal-indeterminacy-cls`
 - [x] النظريةُ العنصريةُ النقدية (CRT — بِل، كرِنشو، **والتقاطعية**) — الدفعةُ 11: `sch-critical-race-theory-law`، `thk-derrick-bell`، `con-interest-convergence-bell`؛ ربط بـ`thk-crenshaw` القائم (فلسفة) دون استنساخ
 - [x] الفقهُ القانونيُّ النسويُّ (ماكينون، ويست، غيليغان في القانون) — **جسرٌ إلى علم النفس** — الدفعةُ 18: `sch-feminist-jurisprudence`، `thk-robin-west`، `con-jurisprudence-and-gender-west`؛ ربط بـ`thk-mackinnon` و`thk-gilligan` القائمَين دون استنساخ
