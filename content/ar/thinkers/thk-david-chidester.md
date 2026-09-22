@@ -21,6 +21,7 @@ related:
 - id: "wrk-empire-of-religion-chidester", title: "إمبراطوريةُ الدين (Empire of Religion)", type: "عمل / كتاب"
 - id: "thk-talal-asad", title: "طلال أسد (Talal Asad)", type: "مفكر"
 - id: "sch-founding-comparative-religion-science-of-religion", title: "تأسيسُ «علمِ الدين» (Science of Religion): ماكس مولر ونشأةُ علم الأديان المقارن", type: "مدرسة"
+- id: "con-frontier-comparative-religion-chidester", title: "الاختراعُ الجبهيّ للدين المقارَن (Frontier Comparative Religion)", type: "مفهوم"
 gaps:
   - "لا تتوفّر ترجمةٌ عربية موثَّقة لأعمال تشيدستر؛ الاستشهادُ بالإنجليزية عبر Open Library."
   - "منصبُه الأكاديميُّ الطويل في جامعة كيب تاون وتأثيرُه المؤسَّسيُّ على تدريس علم الأديان في جنوب أفريقيا ما بعد الأبارتايد لم يُفصَّل هنا؛ يصلح فقرةً في دفعةٍ لاحقةٍ إذا توفّر مصدرٌ سيرةٌ محقَّق."
