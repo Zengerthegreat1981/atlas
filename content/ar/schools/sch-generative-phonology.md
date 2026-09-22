@@ -25,6 +25,7 @@ related:
 - id: "con-prosody-intonation", title: "العروضُ الكلاميُّ والتنغيم (Prosody & Intonation)", type: "مفهوم"
 - id: "wrk-sound-pattern-of-english-chomsky-halle", title: "The Sound Pattern of English", type: "أثر"
 - id: "ins-international-phonetic-alphabet", title: "الأبجديةُ الصوتيةُ الدولية (International Phonetic Alphabet, IPA)", type: "منهج/أداة بحث"
+- id: "thk-morris-halle", title: "مورّيس هالة", type: "مفكر"
 gaps: []
 ---
 
