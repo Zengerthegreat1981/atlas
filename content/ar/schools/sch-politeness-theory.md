@@ -28,6 +28,8 @@ related:
 - id: "con-politeness-maxims-leech", title: "مبادئُ التأدّب عند ليتش (Politeness Maxims)", type: "مفهوم"
 - id: "thk-helen-spencer-oatey", title: "هيلين سپنسر-أوتي", type: "مفكر"
 - id: "con-rapport-management-spencer-oatey", title: "إدارةُ الوئام عند سپنسر-أوتي (Rapport Management)", type: "مفهوم"
+- id: "thk-sara-mills", title: "سارة ميلز", type: "مفكر"
+- id: "con-feminist-critique-politeness-mills", title: "النقدُ النسويُّ لنظرية التأدّب عند ميلز (Feminist Critique of Politeness)", type: "مفهوم"
 gaps:
   - "`con-speech-acts-performatives` موسومٌ ضمن نطاق فلسفة اللغة أساساً؛ رُبط إليه بـ`related` بوصف نظرية التأدّب تستعمل مفهوم فعل الكلام أداةً تحليلية دون تكرار شرحه الفلسفي الكامل."
 ---
