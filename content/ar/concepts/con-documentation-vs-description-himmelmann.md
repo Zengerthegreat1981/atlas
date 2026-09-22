@@ -14,8 +14,9 @@ edges:
 related:
 - id: "sch-language-policy-endangerment", title: "السياسةُ اللغويةُ وموتُ اللغات وإحياؤها (Language Policy & Endangerment)", type: "مدرسة"
 - id: "ins-descriptive-linguistic-fieldwork", title: "التسجيلُ الميدانيُّ ووصفُ اللغات (Descriptive Fieldwork)", type: "منهج/أداة بحث"
+- id: "thk-nikolaus-himmelmann", title: "نيكولاوس هيملمان", type: "مفكر"
 gaps:
-  - "لم يُعثر على عقدةٍ مستقلّةٍ لنيكولاوس هيملمان ضمن الأطلس؛ العقدةُ تُشير إلى عمله مباشرةً."
+  - "**سُدَّ 2026-09-22**: أُنشئ `thk-nikolaus-himmelmann` ورُبط أعلاه."
 ---
 
 # التوثيقُ اللغويُّ مقابل الوصف اللغوي عند هيملمان

@@ -29,6 +29,7 @@ related:
 - id: "con-language-nest-kohanga-reo", title: "عشُّ اللغة: نموذجُ كوهانغا ريو الماوري (Language Nest)", type: "مفهوم"
 - id: "con-documentation-vs-description-himmelmann", title: "التوثيقُ اللغويُّ مقابل الوصف اللغوي عند هيملمان (Documentation vs. Description)", type: "مفهوم"
 - id: "stu-hawaiian-language-revival", title: "إحياءُ اللغة الهاوائية عبر التغمير اللغوي", type: "دراسة"
+- id: "thk-nikolaus-himmelmann", title: "نيكولاوس هيملمان", type: "مفكر"
 gaps:
   - "لا `belongs_to`: فرعٌ تطبيقيٌّ يتقاطع مع علم اللغة الاجتماعي والسياسات العامّة، لا ينحدر من مدرسةٍ نظريةٍ لسانيةٍ واحدة."
   - "حيادٌ صريحٌ محفوظ إزاء سياسات اللغة الوطنية المعاصرة تحديداً (كسياسات التعريب أو الفرنسة أو غيرها)، تماشياً مع نهج المهمّة في con-diglossia."
