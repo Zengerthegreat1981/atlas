@@ -20,9 +20,11 @@ related:
 - id: "sch-gnosticism", title: "الغنوصية القديمة (بفروعها)", type: "مدرسة"
 - id: "thk-valentinus", title: "فالنتينوس (مؤسس الفالنتينية)", type: "مفكر"
 - id: "wrk-ehrman-lost-christianities", title: "Lost Christianities: The Battles for Scripture and the Faiths We Never Knew", type: "عمل / كتاب"
+- id: "thk-elaine-pagels", title: "إلين پيغلز (Elaine Pagels)", type: "مفكر"
+- id: "wrk-pagels-gnostic-gospels", title: "The Gnostic Gospels", type: "عمل / كتاب"
 gaps:
   - "هذه العقدةُ جسرٌ متعمَّد بين `religious-studies` (منهج النقد التاريخي لإيرمان) و`sch-gnosticism` الموجودة تحت `philosophy`؛ ملفُّ الغنوصية نفسُه سجَّل فجوةً صريحة \"النصوص الغنوصية مكتشفة في نجع حمادي (1945) تحتاج مراجعة من المصدر الأولي\" — هذه العقدةُ تسدُّها من زاوية تاريخ الاكتشاف وتاريخانيةِ المسيحية المبكرة تحديداً، لا من زاوية المضمون اللاهوتي الغنوصي الذي يبقى من اختصاص `sch-gnosticism`؛ لا تكرار."
-  - "إيلين پيغلز (Elaine Pagels) ومؤلَّفها *The Gnostic Gospels* (1979) مرجعٌ تأسيسيٌّ لقراءة نجع حمادي الشعبية لكنها لم تُضَف بعد كمفكِّرةٍ مستقلة تحت `religious-studies`؛ فجوةٌ موثَّقة لدفعةٍ لاحقة (خطُّها منهجيٌّ مختلفٌ جزئياً عن إيرمان: تأويليةٌ نسويةٌ-تاريخية لا نقدَ نصٍّ محض)."
+  - "أُضيفت `thk-elaine-pagels` (THK-11914) و`wrk-pagels-gnostic-gospels` (WRK-11915) في دفعةٍ لاحقة، سادّةً الفجوةَ المذكورة سابقاً هنا: پيغلز سبقت إيرمان بعقدٍ في تقديم نجع حمادي لجمهورٍ واسع (1979)، بخطٍّ منهجيٍّ جزئيَّ الاختلاف (تأويليةٌ نسويةٌ-تاريخية) عن نقد إيرمان النصّي المباشر."
   - "جيمس روبنسون (James M. Robinson) محرِّرُ *The Nag Hammadi Library in English* (الترجمة الإنجليزية المرجعية الكاملة) لم يُضَف كمفكِّرٍ مستقل؛ فجوةٌ موثَّقة."
 ---
 
