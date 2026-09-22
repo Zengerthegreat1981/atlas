@@ -22,9 +22,10 @@ related:
 - id: "sch-religion-in-prisons-studies", title: "الدراسةُ الأكاديميةُ للدين في السجون (Religion in Prisons Studies): بكفورد وچيليات-راي", type: "مدرسة"
 - id: "sch-founding-comparative-religion-science-of-religion", title: "تأسيسُ «علمِ الدين» (Science of Religion): ماكس مولر ونشأةُ علم الأديان المقارن", type: "مدرسة"
 - id: "wrk-prison-religion-sullivan", title: "دينُ السجن: الإصلاحُ المستندُ إلى الإيمان والدستور (Prison Religion: Faith-Based Reform and the Constitution)", type: "عمل / كتاب"
+- id: "sch-law-and-religion-institutional-witte", title: "حقلُ «القانون والدين» المؤسّسيّ (Law and Religion): جون ويت الابن", type: "مدرسة"
 gaps:
   - "أُضيف الآن (دفعةٌ لاحقة) عملُ سوليفان الثاني *Prison Religion: Faith-Based Reform and the Constitution* (2009، `wrk-prison-religion-sullivan`)، الذي يربط مباشرةً هذا الحقلَ بـ`sch-religion-in-prisons-studies` البريطانيّ عبر تطبيق نقدها الأنثروبولوجيّ-القانونيّ على برامج الإصلاح السجنيّ الأمريكية المستندة إلى الإيمان."
-  - "لم يُغطَّ هنا بعدُ الأدبُ الأوسع لحقل «القانون والدين» (Law and Religion) كحقلٍ أكاديميٍّ مؤسّسي (مجلاتٌ مثل *Journal of Law and Religion*، باحثون مثل John Witte Jr. أو Kathleen Sands) — اكتُفي بمدخل سوليفان النقديّ تحديداً بوصفه الأبرز أنثروبولوجياً، وتُرك التأسيسُ الفقهيُّ الأوسع لدفعةٍ لاحقة كي لا يُخلَط بين المقاربتين المنهجيتين (الأنثروبولوجية النقدية عند سوليفان مقابل الفقهية المؤسّسية عند غيرها)."
+  - "أُغلقت هذه الفجوةُ في دفعةٍ لاحقة: أُضيف تأسيسُ الأدب الأوسع لحقل «القانون والدين» (Law and Religion) كحقلٍ أكاديميٍّ مؤسّسيٍّ مستقلٍّ منهجياً (`sch-law-and-religion-institutional-witte`، جون ويت الابن)، مع توثيق الفرق المنهجيّ والمعياريّ صراحةً بينه وبين مقاربة سوليفان الأنثروبولوجية النقدية تجنّباً لخلطهما."
 ---
 
 # الدراسةُ الأكاديميةُ للدين والقانون (Religion and Law Studies)
