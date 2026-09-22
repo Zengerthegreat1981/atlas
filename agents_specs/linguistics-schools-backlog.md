@@ -928,3 +928,11 @@
 - الدفعاتُ الأخيرة: 254 (`con-intention-reading-pattern-finding-tomasello` + سدّ رابط)، 255 (`con-skopos-theory-vermeer-reiss`)، 256 (`con-rhetoric-of-the-image-barthes` + سدّ رابط سوسور↔السيميولوجيا).
 - قائمةُ أدنى `belongs_to`-count استُهلكت بالكامل تقريباً هذه الجولة (bilingualism، construction-grammar، copenhagen-glossematics، formal-semantics، greco-latin، greimassian، gricean، language-and-gender، lexical-functional، minimalist، modern-arabic، paninian، peircean، role-and-reference، language-ideology، second-language-acquisition، sign-language، structuralist-semiology، text-linguistics، translation-studies، usage-based-grammar). الدفعةُ القادمة تحتاج إعادةَ تشغيل التشخيص الكامل لتحديد الطبقة التالية من أقلّ المدارس اتصالاً.
 - البروتوكولُ التشغيليّ نفسُه ساري بلا تغيير، بما فيه توثيقُ حوادث سحب الملفّات الموازية البسيطة دون أيّ إجراءٍ تصحيحيٍّ تدميري، وإعادةُ ترقيم أيّ تصادم id فور اكتشافه. الأمرُ التوجيهيُّ الأخير من المنسِّق: الاستمرارُ الفوريُّ بلا توقّف، وعدم كتابة تقرير إغلاقٍ إلا عند نفاد السياق الفعليّ تماماً.
+
+## ⚠️ حالةٌ مقيسة (تحديث، الدفعة 260)
+
+- عقدُ اللسانيات الحيّة: **418**. 260 دفعةً متتابعةً دون توقّف منذ الدفعة 131.
+- آخر تثبيتٍ ناجح: commit `2e84d75d` (الدفعة 260، مورّيس هالة).
+- الدفعاتُ الأخيرة: 257 (`thk-thalab`، آخر أئمة الكوفة)، 258 (`con-secondary-modeling-systems-tartu` + سدّ رابطين للوتمان)، 259 (`con-feature-pool-ecology-mufwene`)، 260 (`thk-morris-halle`).
+- التشخيصُ الحاليّ (بعد الدفعة 259): أدنى القيَم عند 6 تشمل مدارسَ كثيرة (american-structural، arabic-rhetorical، basra-kufa، bilingualism، biosemiotics-tartu، conceptual-blending، construction-grammar، contact-linguistics، copenhagen-glossematics، generative-phonology) — القائمةُ تُعاد معالجتُها تدريجياً؛ يُنصَح بإعادة تشغيل تشخيص `belongs_to`-count كاملاً في الدفعة القادمة بدل الاعتماد على هذه القائمة الجزئية.
+- البروتوكولُ التشغيليّ نفسُه ساري بلا تغيير. الأمرُ التوجيهيُّ الأخير من المنسِّق: الاستمرارُ الفوريُّ بلا توقّف، وعدم كتابة تقرير إغلاقٍ إلا عند نفاد السياق الفعليّ تماماً.
