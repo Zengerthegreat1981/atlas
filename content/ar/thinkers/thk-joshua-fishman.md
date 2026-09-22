@@ -21,6 +21,7 @@ related:
 - id: "sch-language-policy-endangerment", title: "السياسةُ اللغويةُ وموتُ اللغات وإحياؤها (Language Policy & Endangerment)", type: "مدرسة"
 - id: "con-diglossia", title: "الازدواجيةُ اللغوية (Diglossia)", type: "مفهوم"
 - id: "thk-charles-ferguson", title: "تشارلز فيرغسون", type: "مفكر"
+- id: "con-extended-diglossia-fishman", title: "الازدواجيةُ الموسَّعة عند فيشمان (Extended Diglossia)", type: "مفهوم"
 gaps: []
 ---
 
