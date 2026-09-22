@@ -21,6 +21,7 @@ related:
 - id: "thk-dionysius-thrax", title: "ديونيسيوس الترقي", type: "مفكر"
 - id: "con-modistae-speculative-grammar", title: "نحاةُ الأنماط والنحوُ التأمّلي (Modistae & Speculative Grammar)", type: "مفهوم"
 - id: "thk-apollonius-dyscolus", title: "أپولونيوس ديسكولوس", type: "مفكر"
+- id: "thk-varro", title: "مركوس ترنتيوس ڤارو", type: "مفكر"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لأعماله الأصلية ضمن مصادر الأطلس؛ الاعتمادُ على الدراسات الثانوية الإنجليزية المتخصّصة."
 ---

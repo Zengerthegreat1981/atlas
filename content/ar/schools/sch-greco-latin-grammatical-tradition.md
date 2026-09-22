@@ -23,6 +23,7 @@ related:
 - id: "thk-thomas-of-erfurt", title: "توما الإربفوردي", type: "مفكر"
 - id: "thk-priscian", title: "پرِشيان", type: "مفكر"
 - id: "thk-apollonius-dyscolus", title: "أپولونيوس ديسكولوس", type: "مفكر"
+- id: "thk-varro", title: "مركوس ترنتيوس ڤارو", type: "مفكر"
 gaps:
   - "لا `belongs_to`: تقليدٌ مستقلٌّ نشأ بمعزلٍ عن التقليدين العربي والهندي، وإن تلاقت جميعُها لاحقاً في التأريخ المقارن للسانيات."
 ---
