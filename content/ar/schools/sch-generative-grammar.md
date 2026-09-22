@@ -29,6 +29,8 @@ related:
 - id: "sch-government-and-binding-theory", title: "نظريةُ الحاكميةِ والربط (Government and Binding Theory)", type: "مدرسة"
 - id: "sch-minimalist-program", title: "البرنامجُ الأدنويّ (The Minimalist Program)", type: "مدرسة"
 - id: "con-competence-performance-distinction", title: "الكفايةُ مقابل الأداء (Competence & Performance)", type: "مفهوم"
+- id: "con-poverty-of-the-stimulus-universal-grammar", title: "النحوُ الكلّيُّ وفقرُ المحفِّز (Universal Grammar & Poverty of the Stimulus)", type: "مفهوم"
+- id: "con-kernel-sentences-transformations-1957", title: "الجملُ النواةُ وقواعدُ التحويل في نموذج 1957 (Kernel Sentences & Transformations)", type: "مفهوم"
 gaps:
   - "**قرارٌ تحريريٌّ محسوم (DR-014)**: نعوم تشومسكي موسومٌ philosophy في الأطلس (thk-noam-chomsky، مُنشَأٌ أصلاً بوصفه فيلسوفَ لغةٍ وسياسة) ولا يُنشأ له نظيرٌ ثانٍ تحت linguistics. هذه العقدةُ (المدرسة) هي التي تحمل الوسمَ linguistics وتربط إليه بـrelated، لا هو."
   - "لا هذا الملفُّ عقدةٌ جذرية: `evolved_from` إلى البنيوية الأمريكية موثَّقٌ تاريخياً (تشومسكي تتلمذ على زيغ هاريس) لا مخترَع."

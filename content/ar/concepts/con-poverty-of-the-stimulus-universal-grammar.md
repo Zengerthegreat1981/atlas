@@ -12,6 +12,7 @@ crumb: "علم اللغة ← التوليدية وما بعدها ← النح�
 edges:
 - rel: "belongs_to", target: "sch-government-and-binding-theory", target_type: "مدرسة"
 related:
+- id: "sch-generative-grammar", title: "النحوُ التوليديُّ التحويليّ (Generative-Transformational Grammar)", type: "مدرسة"
 - id: "dbt-innateness-vs-usage-based-language-acquisition", title: "جدلُ الفطرية اللغوية مقابل الاستعمالية في اكتساب اللغة", type: "جدل"
 - id: "thk-michael-tomasello", title: "مايكل توماسيلو", type: "مفكر"
 - id: "con-critical-period-hypothesis", title: "فرضيةُ الفترة الحرجة لاكتساب اللغة", type: "مفهوم"
