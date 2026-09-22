@@ -29,6 +29,7 @@ related:
 - id: "con-veridiction-greimas", title: "موجِّهاتُ الصدقية عند غريماس (Veridiction)", type: "مفهوم"
 - id: "wrk-semantique-structurale-greimas", title: "الدلالةُ البنيوية (Sémantique Structurale)", type: "أثر"
 - id: "wrk-morphology-of-the-folktale-propp", title: "مورفولوجيا الحكاية الشعبية (Morphology of the Folktale)", type: "أثر"
+- id: "wrk-semiotique-dictionnaire-greimas-courtes", title: "السيمياء: قاموسٌ منهجيٌّ لنظرية اللغة (Sémiotique: Dictionnaire raisonné)", type: "أثر"
 gaps: []
 ---
 
