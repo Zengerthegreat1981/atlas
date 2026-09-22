@@ -16,6 +16,7 @@ related:
 - id: "thk-john-sinclair", title: "جون سنكلير", type: "مفكر"
 - id: "ins-grammaticality-judgments", title: "الاختباراتُ النحويةُ وحكمُ المتكلّم الأصليّ (Grammaticality Judgments)", type: "منهج/أداة بحث"
 - id: "con-pos-tagging-corpus-annotation", title: "وسمُ أقسام الكلام والتعليقُ النحوي على المدوّنات (POS Tagging)", type: "مفهوم"
+- id: "thk-henry-kucera", title: "هنري كوتشيرا", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بتاريخ مدوّنة براون ضمن مصادر الأطلس؛ الاعتمادُ على المصادر الإنجليزية الأساسية."
 ---
