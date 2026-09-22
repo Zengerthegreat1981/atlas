@@ -14,6 +14,7 @@ edges:
 related:
 - id: "sch-language-policy-endangerment", title: "السياسةُ اللغويةُ وموتُ اللغات وإحياؤها (Language Policy & Endangerment)", type: "مدرسة"
 - id: "con-diglossia", title: "الازدواجيةُ اللغوية (Diglossia)", type: "مفهوم"
+- id: "thk-elana-shohamy", title: "إيلانا شوهامي", type: "مفكر"
 gaps: []
 ---
 

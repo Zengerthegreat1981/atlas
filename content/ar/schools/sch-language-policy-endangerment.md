@@ -21,6 +21,8 @@ related:
 - id: "thk-joshua-fishman", title: "جوشوا فيشمان", type: "مفكر"
 - id: "thk-michael-krauss", title: "مايكل كراوس", type: "مفكر"
 - id: "stu-hebrew-language-revival", title: "إحياءُ اللغة العبرية الحديثة: حالةٌ نادرة", type: "دراسة"
+- id: "thk-elana-shohamy", title: "إيلانا شوهامي", type: "مفكر"
+- id: "con-linguistic-landscape", title: "المشهدُ اللغويُّ (Linguistic Landscape)", type: "مفهوم"
 gaps:
   - "لا `belongs_to`: فرعٌ تطبيقيٌّ يتقاطع مع علم اللغة الاجتماعي والسياسات العامّة، لا ينحدر من مدرسةٍ نظريةٍ لسانيةٍ واحدة."
   - "حيادٌ صريحٌ محفوظ إزاء سياسات اللغة الوطنية المعاصرة تحديداً (كسياسات التعريب أو الفرنسة أو غيرها)، تماشياً مع نهج المهمّة في con-diglossia."
