@@ -21,6 +21,7 @@ related:
 - id: "con-distributional-semantics-word-embeddings", title: "الدلالةُ التوزيعية وتمثيلاتُ الكلمات المتّجهية (Distributional Semantics & Word Embeddings)", type: "مفهوم"
 - id: "con-llms-and-linguistic-theory", title: "النماذجُ اللغويةُ الكبرى وأثرُها على النظرية اللغوية", type: "مفهوم"
 - id: "thk-christopher-manning", title: "كريستوفر ماننغ", type: "مفكر"
+- id: "con-contextualized-embeddings-bert-elmo", title: "التمثيلاتُ المتّجهيةُ السياقية (ELMo وBERT)", type: "مفهوم"
 gaps:
   - "حيادٌ صريحٌ محفوظ إزاء الجدل النظري حول ما إذا كانت هذه المعمارية تعالج اللغةَ بطريقةٍ تحمل دلالاتٍ عن النحو البشري الفطري أم أنها أداةٌ إحصائيةٌ محضة بمعزلٍ عن أسئلة النظرية اللغوية؛ موثَّقٌ بتفصيلٍ أوسع في con-llms-and-linguistic-theory."
 ---

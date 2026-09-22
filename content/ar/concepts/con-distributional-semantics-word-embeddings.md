@@ -15,6 +15,7 @@ related:
 - id: "sch-computational-linguistics-nlp", title: "اللسانياتُ الحاسوبيةُ ومعالجةُ اللغة الطبيعية (Computational Linguistics & NLP)", type: "مدرسة"
 - id: "thk-jr-firth", title: "جون روبرت فيرث", type: "مفكر"
 - id: "con-llms-and-linguistic-theory", title: "النماذجُ اللغويةُ الكبرى وأثرُها على النظرية اللغوية", type: "مفهوم"
+- id: "con-contextualized-embeddings-bert-elmo", title: "التمثيلاتُ المتّجهيةُ السياقية (ELMo وBERT)", type: "مفهوم"
 gaps: []
 ---
 
