@@ -18,6 +18,8 @@ edges:
 - rel: "evolved_from", target: "sch-structuralist-semiology", target_type: "مدرسة"
 related:
 - id: "thk-algirdas-greimas", title: "ألجيرداس غريماس", type: "مفكر"
+- id: "thk-vladimir-propp", title: "ﭬلاديمير بروب", type: "مفكر"
+- id: "con-actantial-model-narrative", title: "النموذجُ العامليُّ للسرد (Actantial Model)", type: "مفهوم"
 gaps: []
 ---
 

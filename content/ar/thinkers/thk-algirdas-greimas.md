@@ -19,6 +19,8 @@ edges:
 - rel: "belongs_to", target: "sch-greimassian-semiotics", target_type: "مدرسة"
 related:
 - id: "sch-structuralist-semiology", title: "السيميولوجيا السوسيرية وامتدادُها (Structuralist Semiology)", type: "مدرسة"
+- id: "thk-vladimir-propp", title: "ﭬلاديمير بروب", type: "مفكر"
+- id: "con-actantial-model-narrative", title: "النموذجُ العامليُّ للسرد (Actantial Model)", type: "مفهوم"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لأعمال غريماس الأصلية ضمن مصادر الأطلس؛ الاعتماد على النصوص الفرنسية والإنجليزية."
 ---
