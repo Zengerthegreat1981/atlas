@@ -20,6 +20,8 @@ related:
 - id: "sch-government-and-binding-theory", title: "نظريةُ الحاكميةِ والربط (Government and Binding Theory)", type: "مدرسة"
 - id: "thk-joan-bresnan", title: "جوان برسنان", type: "مفكر"
 - id: "thk-ivan-sag", title: "إيفان ساغ", type: "مفكر"
+- id: "thk-carl-pollard", title: "كارل بولارد", type: "مفكر"
+- id: "con-argument-structure-lexicon", title: "بنيةُ الحجج المعجمية (Argument Structure)", type: "مفهوم"
 gaps: []
 ---
 
