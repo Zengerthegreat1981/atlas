@@ -22,6 +22,7 @@ related:
 - id: "thk-penelope-eckert", title: "بينيلوپي إكرت", type: "مفكر"
 - id: "con-communities-of-practice-sociolinguistics", title: "جماعاتُ الممارسة في اللسانيات الاجتماعية (Communities of Practice)", type: "مفهوم"
 - id: "wrk-language-womans-place-lakoff", title: "Language and Woman's Place", type: "أثر"
+- id: "thk-sally-mcconnell-ginet", title: "سالي مكونل-جينيت", type: "مفكر"
 gaps: []
 ---
 

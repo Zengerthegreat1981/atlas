@@ -20,6 +20,7 @@ related:
 - id: "thk-robin-lakoff", title: "روبن لايكوف", type: "مفكر"
 - id: "thk-deborah-tannen", title: "ديبورا تانن", type: "مفكر"
 - id: "sch-variationist-sociolinguistics", title: "اللسانياتُ الاجتماعيةُ المتغيّرية (Labovian Variationist Sociolinguistics)", type: "مدرسة"
+- id: "thk-sally-mcconnell-ginet", title: "سالي مكونل-جينيت", type: "مفكر"
 gaps: []
 ---
 
