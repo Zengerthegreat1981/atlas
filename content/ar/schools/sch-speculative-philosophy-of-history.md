@@ -18,6 +18,7 @@ active_end: 1918
 edges:
 - rel: "belongs_to", target: "sch-african-oral-history-traditions", target_type: "مدرسة"
 related:
+- id: "evt-fall-of-berlin-wall-1989-end-of-history", title: "سقوط جدار برلين 1989 وأطروحة 'نهاية التاريخ' لفوكوياما", type: "حدث تاريخي"
 - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
 - id: "wrk-lectures-on-philosophy-of-history-hegel", title: "محاضرات في فلسفة التاريخ لهيغل", type: "عمل / كتاب"
 - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
@@ -31,6 +32,7 @@ related:
 gaps:
   - "**لا تكرار 2026-09-14:** `thk-hegel` و`wrk-lectures-on-philosophy-of-history-hegel` و`thk-marx` و`sch-historical-materialism-as-method` موجودون بشرحٍ فلسفيٍّ/منهجيٍّ كاملٍ لكلٍّ منهم؛ هذا الملفّ لا يكرّرهم، بل يضعهم في **سياقٍ مقارنٍ واحد** مع مفكّرين آخرين بوصفهم جميعاً ممثّلين لنمطٍ واحد من فلسفة التاريخ (الأنساق التأمّلية الشاملة)، لا لشرح أيٍّ منهم منفرداً من جديد."
   - "**تحديث 2026-09-21:** أُنشئ `thk-giambattista-vico` و`thk-oswald-spengler` (part: historiography). أمّا `thk-arnold-toynbee` فموجودٌ بالفعل تحت `part: sociology` (belongs_to `sch-khaldunian-ilm-al-umran`، بسياق إشادته بابن خلدون)؛ لم يُنشأ نظيرٌ ثانٍ له امتثالاً لقاعدة عدم التكرار، والرابطُ في `related` يشير إلى ذلك الملفّ القائم مباشرة."
+  - "**ربطُ حدثٍ 2026-09-22:** `evt-fall-of-berlin-wall-1989-end-of-history` رُبط هنا لأن ملفّ الحدث نفسَه يوثّق أطروحة فرانسيس فوكوياما «نهاية التاريخ والإنسان الأخير» (1992) — نسقٌ تأمّليٌّ معاصر متأثّرٌ مباشرةً بالتيلولوجيا الهيغلية (نهايةٌ محدَّدة لمسار التاريخ في الديمقراطية الليبرالية)، يمثّل امتداداً حديثاً لنمط هذه المدرسة نفسه."
 ---
 # فلسفةُ التاريخ التأمّلية (ڤيكو وهيغل وماركس وتوينبي وشبنغلر)
 

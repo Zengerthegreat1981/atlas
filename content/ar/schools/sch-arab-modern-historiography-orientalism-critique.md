@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-subaltern-studies-historiographical-critique", target_type: "مدرسة"
 related:
+- id: "evt-arab-defeat-1967-philosophical-turn", title: "هزيمة 1967 وانطلاق مشاريع نقد التراث والعقل العربي", type: "حدث تاريخي"
 - id: "thk-salih-ahmad-al-ali", title: "صالح أحمد العلي", type: "مفكر"
 - id: "thk-abdallah-laroui", title: "عبد الله العروي", type: "مفكر"
 - id: "thk-mohammed-abed-al-jabri", title: "محمد عابد الجابري", type: "مفكر"
@@ -25,6 +26,7 @@ related:
 gaps:
   - "**لا تكرار 2026-09-14:** `thk-abdallah-laroui` و`thk-mohammed-abed-al-jabri` و`con-arab-historicism-laroui` موجودون تحت `philosophy` بتحليلٍ فلسفيٍّ شامل لمشروعيهما؛ هذا الملفّ لا يكرّر ذلك، بل يوثّق تحديداً **إسهامهما المنهجيّ في نقد كتابة التاريخ العربي نفسها** (لا مشروعهما الفكري العام)، بربطٍ لا استنساخ."
   - "**تحديث 2026-09-22:** أُنشئ `thk-salih-ahmad-al-ali`، سادّاً الفجوةَ الأخيرة المتبقية من قائمة `HISTORIOGRAPHY_CLOSEOUT_ADDENDUM_2026-09-21.md`."
+  - "**ربطُ حدثٍ 2026-09-22:** `evt-arab-defeat-1967-philosophical-turn` رُبط هنا لأن ملفّ الحدث نفسَه يسمّي صراحةً الجابري والعروي (مع أركون وحنفي) بوصفهم استجابوا لصدمة 1967 بتحويلها إلى برامج نقد العقل العربي — السياقُ التاريخي المباشر الذي أنتج المشروعين الموثَّقين في هذا الملفّ."
 ---
 # التاريخُ العربيُّ الحديثُ ونقدُ الاستشراق (العروي والجابري)
 
