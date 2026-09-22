@@ -20,8 +20,9 @@ related:
 - id: "sch-religion-nature-ecology-studies", title: "الدين والطبيعة: دراسةُ التديّن البيئي (Religion and Nature / Dark Green Religion)", type: "مدرسة"
 - id: "thk-bron-taylor", title: "برون تايلور (Bron Taylor)", type: "مفكر"
 - id: "thk-lynn-white-jr", title: "لِن هوايت الابن (Lynn White Jr.)", type: "مفكر"
+- id: "thk-john-grim", title: "جون غريم (John A. Grim)", type: "مفكر"
 gaps:
-  - "جون غريم (John Grim)، شريكُها في تحرير سلسلة *Religions of the World and Ecology* وفي تأسيس منتدى ييل للدين والإيكولوجيا، لم يُفرَد له عقدٌ مستقلٌّ بعد؛ فجوةٌ موثَّقة تُركت لدفعةٍ لاحقة تتوسّع في هذا الحقل."
+  - "دفعةٌ لاحقة (2026-09-22) سدّت هذه الفجوة: أُفردت عقدةٌ مستقلّة لجون غريم (John A. Grim)، شريكِها في تحرير سلسلة *Religions of the World and Ecology* وفي تأسيس منتدى ييل للدين والإيكولوجيا (`thk-john-grim`)."
   - "أُفردت هذه العقدةُ لتوكر وحدها اعتماداً على مصدرين محقَّقين (تحريرُها المشترك لكتابَي *Confucianism and Ecology* و*Hinduism and Ecology*)؛ تفاصيلُ إدارتها لمنتدى ييل للدين والإيكولوجيا ومنصبها الأكاديمي الحالي بجامعة ييل معروفةٌ عموماً لكنها لم تُوثَّق هنا بمصدرٍ أكاديميٍّ مستقلٍّ محقَّق، فتُركت خارج المتن تفادياً للجزم غيرِ الموثَّق."
 ---
 
