@@ -18,6 +18,7 @@ edges:
 related:
 - id: "con-ahimsa", title: "أحيمسا (مبدأ اللاإيذاء)", type: "مفهوم"
 - id: "sch-jainism", title: "الجاينية الفلسفية", type: "مدرسة"
+- id: "sch-jain-studies-academic", title: "الدراسة الأكاديمية الغربية للجاينية (Jain Studies)", type: "مدرسة"
 gaps:
   - "لا يوجد نص من ماهاڤيرا نفسه، التقليد الجايني ينسب إليه تأسيس الأوامر الـ5، لكن ما قبله پَارَشْوا (Parshva) أيضاً."
   - "ترجمة عربية معتمدة لـAcharanga Sutra غير متاحة."
