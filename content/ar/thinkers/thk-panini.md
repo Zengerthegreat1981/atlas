@@ -19,6 +19,8 @@ edges:
 - rel: "belongs_to", target: "sch-paninian-sanskrit-grammar", target_type: "مدرسة"
 related:
 - id: "wrk-ashtadhyayi", title: "الأشطاديايي (Aṣṭādhyāyī)", type: "عمل"
+- id: "thk-katyayana", title: "كاتيايانا", type: "مفكر"
+- id: "thk-patanjali-grammarian", title: "پاتنجلي النحويّ", type: "مفكر"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لعمل بانيني الأصلي ضمن مصادر الأطلس؛ الاعتماد على دراساتٍ إنجليزية متخصّصة في تاريخ اللسانيات."
 ---

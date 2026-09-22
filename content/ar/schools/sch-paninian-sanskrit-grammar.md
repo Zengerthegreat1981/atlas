@@ -19,6 +19,8 @@ related:
 - id: "thk-panini", title: "بانيني", type: "مفكر"
 - id: "wrk-ashtadhyayi", title: "الأشطاديايي (Aṣṭādhyāyī)", type: "عمل"
 - id: "sch-historical-comparative-linguistics", title: "اللسانياتُ التاريخيةُ والمقارنة", type: "مدرسة"
+- id: "thk-katyayana", title: "كاتيايانا", type: "مفكر"
+- id: "thk-patanjali-grammarian", title: "پاتنجلي النحويّ", type: "مفكر"
 gaps:
   - "لا `belongs_to`: تقليدٌ نحويٌّ مستقلٌّ نشأ في الهند القديمة بمعزلٍ تامٍّ عن التقاليد اليونانية والعربية، دون رابطٍ تاريخيٍّ مباشرٍ يصحّ عقدُ علاقة انتماء منه أو إليه."
 ---
