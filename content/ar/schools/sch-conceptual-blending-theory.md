@@ -28,6 +28,7 @@ related:
 - id: "thk-seana-coulson", title: "سيانا كولسون", type: "مفكر"
 - id: "thk-eve-sweetser", title: "إيڤ سويتسر", type: "مفكر"
 - id: "wrk-the-way-we-think-fauconnier-turner", title: "الطريقةُ التي نفكِّر بها (The Way We Think)", type: "أثر"
+- id: "con-mathematical-blending-lakoff-nunez", title: "المزجُ المفهوميُّ في الرياضيات عند لاكوف ونونييز (Mathematical Blending)", type: "مفهوم"
 gaps: []
 ---
 

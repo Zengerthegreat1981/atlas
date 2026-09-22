@@ -20,6 +20,8 @@ related:
 - id: "sch-cognitive-linguistics", title: "اللسانياتُ المعرفية (Cognitive Linguistics)", type: "مدرسة"
 - id: "sch-construction-grammar", title: "نحوُ البُنى (Construction Grammar)", type: "مدرسة"
 - id: "evt-linguistics-wars-generative-semantics", title: "حروبُ اللسانيات: انشقاقُ الدلالة التوليدية عن تشومسكي", type: "حدث تاريخي"
+- id: "sch-conceptual-blending-theory", title: "فضاءاتُ الذهن والمزجُ المفهوميّ (Mental Spaces & Conceptual Blending)", type: "مدرسة"
+- id: "con-mathematical-blending-lakoff-nunez", title: "المزجُ المفهوميُّ في الرياضيات عند لاكوف ونونييز (Mathematical Blending)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Metaphors We Live By* (1980) بترجمة عربية معتمدة."
   - "**سُدَّ جزئياً 2026-09-22 (الدفعة 182، دفعة الجسور)**: `edges.belongs_to` تُرك فارغاً عمداً (هذا الملفُّ موسومٌ `psychology`، ولا يصحّ عقدُ انتماءٍ حصريٍّ إلى مدرسةٍ في قسمٍ آخر)؛ لكن أُضيفت روابطُ `related` صريحة إلى `sch-cognitive-linguistics` (القسمُ الذي أسّسه لاكوف فعلياً بعد حروب اللسانيات) و`sch-construction-grammar` (أحدُ مؤسِّسيها الثلاثة في بيركلي)، على غرار معالجة تشومسكي (DR-014) وسابير."
