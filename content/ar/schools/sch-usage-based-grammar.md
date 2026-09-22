@@ -25,6 +25,7 @@ related:
 - id: "wrk-constructing-a-language-tomasello", title: "بناءُ لغة: نظريةٌ استعمالية لاكتساب اللغة (Constructing a Language)", type: "أثر"
 - id: "thk-george-zipf", title: "جورج زيبف", type: "مفكر"
 - id: "con-zipfs-law-frequency-distribution", title: "قانونُ زيبف وتوزيعُ التواتر اللغوي (Zipf's Law)", type: "مفهوم"
+- id: "con-intention-reading-pattern-finding-tomasello", title: "قراءةُ النيّة وإيجادُ النمط عند توماسيلو", type: "مفهوم"
 gaps: []
 ---
 
