@@ -19,8 +19,9 @@ edges:
 related:
 - id: "con-grammaticalization", title: "النحويةُ (Grammaticalization)", type: "مفهوم"
 - id: "sch-usage-based-grammar", title: "النحوُ الناشئُ عن الاستعمال (Usage-Based Grammar)", type: "مدرسة"
+- id: "thk-paul-hopper", title: "پول هوپر", type: "مفكر"
 gaps:
-  - "پول هوپر (Paul Hopper)، شريكُها المؤلِّف في العمل المرجعي *Grammaticalization*، لم يُفرَد بعد كمفكرٍ مستقل."
+  - "**سُدَّ 2026-09-22 (الدفعة 167)**: أُنشئ `thk-paul-hopper` (نحوُ الظهور، Grammaticalization المشترك)."
 ---
 
 # إليزابيث ترواغوت
