@@ -14,8 +14,9 @@ edges:
 related:
 - id: "sch-historical-comparative-linguistics", title: "اللسانياتُ التاريخيةُ والمقارنة", type: "مدرسة"
 - id: "con-comparative-reconstruction-method", title: "منهجُ إعادة البناء المقارن (Comparative Reconstruction)", type: "مفهوم"
+- id: "thk-august-schleicher", title: "أوغست شلايخر", type: "مفكر"
 gaps:
-  - "أوغست شلايخر، صاحبُ الصياغة الأصلية لهذه النظرية، لم يُفرَد بعد كمفكرٍ مستقل."
+  - "**سُدَّ بالكامل 2026-09-22 (الدفعة 177)**: أُنشئ `thk-august-schleicher`."
 ---
 
 # شجرةُ الأنساب اللغوية
