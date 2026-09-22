@@ -15,6 +15,7 @@ related:
 - id: "sch-relevance-theory", title: "نظريةُ الملاءمة (Relevance Theory)", type: "مدرسة"
 - id: "thk-dan-sperber", title: "دان سپربر", type: "مفكر"
 - id: "thk-deirdre-wilson", title: "ديردري ويلسون", type: "مفكر"
+- id: "con-mutual-cognitive-environment-sperber-wilson", title: "البيئةُ المعرفيةُ المتبادَلة والظهورُ المشترَك عند سپربر وويلسون (Mutual Cognitive Environment)", type: "مفهوم"
 gaps: []
 ---
 

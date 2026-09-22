@@ -28,6 +28,7 @@ related:
 - id: "con-lexical-pragmatics-ad-hoc-concepts-carston", title: "التداوليةُ المعجمية والمفاهيمُ المخصَّصة عند كارستون (Lexical Pragmatics & Ad Hoc Concepts)", type: "مفهوم"
 - id: "con-comprehension-procedure-relevance-theory", title: "إجراءُ الفهم في نظرية الملاءمة (Relevance-Theoretic Comprehension Procedure)", type: "مفهوم"
 - id: "con-procedural-conceptual-meaning-blakemore", title: "المعنى الإجرائيُّ مقابل المفهومي عند بليكمور (Procedural vs. Conceptual Meaning)", type: "مفهوم"
+- id: "con-mutual-cognitive-environment-sperber-wilson", title: "البيئةُ المعرفيةُ المتبادَلة والظهورُ المشترَك عند سپربر وويلسون (Mutual Cognitive Environment)", type: "مفهوم"
 gaps:
   - "**تقاطعٌ مع فلسفة اللغة**: النظريةُ تنطلق نقدياً من مبدأ التعاون عند غرايس (`thk-pgrice`، موسومٌ philosophy وموجودٌ بالفعل في الأطلس)؛ رُبط إليه هنا بـ`related` دون تكرار سيرته أو نظريته."
   - "عقدةٌ جذريةٌ (لا `belongs_to` ولا `evolved_from`): لا مدرسةَ لسانيةٍ أخرى في هذا القسم بعدُ يصحُّ عقدُ انحدارٍ تاريخيٍّ موثَّقٍ منها؛ صلتُها بالتداولية الغرايسية نقديةٌ لا نَسَبية، فلم تُقحَم كعلاقة انتماء."
