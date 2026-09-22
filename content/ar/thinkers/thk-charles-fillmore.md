@@ -21,6 +21,7 @@ related:
 - id: "thk-adele-goldberg", title: "أديل غولدبرغ", type: "مفكر"
 - id: "thk-brent-berlin-paul-kay", title: "برنت برلين وپول كاي", type: "مفكر"
 - id: "con-frame-semantics-fillmore", title: "الدلالةُ الإطارية عند فيلمور (Frame Semantics)", type: "مفهوم"
+- id: "con-framenet-fillmore", title: "فريم نت: قاعدةُ بياناتٍ معجميةٌ إطارية عند فيلمور (FrameNet)", type: "مفهوم"
 gaps:
   - "**سُدَّ سابقاً**: پول كاي موثَّقٌ بالفعل ضمن `thk-brent-berlin-paul-kay` (دراسة مصطلحات الألوان)؛ رُبط أعلاه دون إنشاء عقدةٍ مكرَّرة."
 ---

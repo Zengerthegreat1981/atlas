@@ -26,6 +26,7 @@ related:
 - id: "thk-anatol-stefanowitsch", title: "أناتول ستيفانوفيتش", type: "مفكر"
 - id: "con-collostructional-analysis", title: "التحليلُ التلازمي البنيوي (Collostructional Analysis)", type: "مفهوم"
 - id: "con-argument-structure-constructions-goldberg", title: "بُنى الحجج الإنشائية عند غولدبرغ (Argument Structure Constructions)", type: "مفهوم"
+- id: "con-framenet-fillmore", title: "فريم نت: قاعدةُ بياناتٍ معجميةٌ إطارية عند فيلمور (FrameNet)", type: "مفهوم"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`) — نشأت في جامعة بيركلي (تشارلز فيلمور، پول كاي، جورج لايكوف) كبديلٍ عن الصورية التوليدية، لا فرعاً منها."
   - "**سُدَّ بالكامل 2026-09-21 (الدفعة 58)**: پول كاي هو نفسُه طرفُ عقدة `thk-brent-berlin-paul-kay` (دراسة مصطلحات الألوان)؛ رُبطت هنا بدل إنشاء عقدةٍ مكرَّرة."
