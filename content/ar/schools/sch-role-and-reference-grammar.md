@@ -19,7 +19,9 @@ related:
 - id: "thk-robert-van-valin", title: "روبرت ﭬان ﭬالِن", type: "مفكر"
 - id: "thk-simon-dik", title: "سيمون ديك", type: "مفكر"
 - id: "sch-systemic-functional-linguistics", title: "اللسانياتُ الوظيفيةُ المنهجية (Systemic Functional Linguistics)", type: "مدرسة"
-gaps: []
+- id: "thk-william-foley", title: "وليام فولي", type: "مفكر"
+- id: "con-macrorole-actor-undergoer-rrg", title: "الدوران الكليّان: الفاعلُ والمتأثِّر (Actor & Undergoer Macroroles)", type: "مفهوم"
+gaps:
   - "لا `belongs_to`: تيارٌ وظيفيٌّ نشأ بالتوازي مع اللسانيات الوظيفية المنهجية الهاليدايية دون انحدارٍ مباشرٍ منها."
 ---
 
