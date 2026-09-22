@@ -19,6 +19,8 @@ edges:
 - rel: "belongs_to", target: "sch-formal-semantics-montague-grammar", target_type: "مدرسة"
 related:
 - id: "sch-generative-grammar", title: "النحوُ التوليديُّ التحويليّ (Generative-Transformational Grammar)", type: "مدرسة"
+- id: "sch-formal-semantics-montague-grammar", title: "الدلالةُ الصوريةُ ونحوُ مونتاغيو (Formal Semantics)", type: "مدرسة"
+- id: "con-categorial-grammar-montague", title: "النحوُ الفئويُّ وأساسُه المنطقي في نحو مونتاغيو (Categorial Grammar)", type: "مفهوم"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ لأعمال مونتاغيو المنطقية الأصلية ضمن مصادر الأطلس؛ الاعتماد على مصادره ومصادر شارحيه الإنجليزية."
 ---
