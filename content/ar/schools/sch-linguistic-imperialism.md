@@ -29,6 +29,7 @@ related:
 - id: "con-linguicism-skutnabb-kangas", title: "اللغوياتيةُ عند سكوتناب-كانغاس (Linguicism)", type: "مفهوم"
 - id: "thk-braj-kachru", title: "براج كاچرو", type: "مفكر"
 - id: "con-world-englishes-three-circles-kachru", title: "دوائرُ الإنجليزية الثلاث عند كاچرو (World Englishes & Three Circles)", type: "مفهوم"
+- id: "wrk-linguistic-imperialism-phillipson", title: "الإمبرياليةُ اللغوية (Linguistic Imperialism)", type: "أثر"
 gaps: []
 ---
 
