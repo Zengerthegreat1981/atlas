@@ -22,6 +22,7 @@ related:
 - id: "evt-alpac-report-machine-translation-1966", title: "تقريرُ ألباك (ALPAC) وأزمةُ تمويل الترجمة الآلية 1966", type: "حدث تاريخي"
 - id: "thk-antoine-berman", title: "أنطوان برمان", type: "مفكر"
 - id: "con-domestication-foreignization-translation", title: "التوطينُ والتغريبُ في الترجمة (Domestication & Foreignization)", type: "مفهوم"
+- id: "con-skopos-theory-vermeer-reiss", title: "نظريةُ الغاية عند ﭬيرمير ورايس (Skopos Theory)", type: "مفهوم"
 gaps: []
 ---
 
