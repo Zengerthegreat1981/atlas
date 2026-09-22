@@ -31,6 +31,7 @@ related:
 - id: "con-wordnet-lexical-database-miller", title: "قاعدةُ ووردنت المعجمية الحاسوبية (WordNet)", type: "مفهوم"
 - id: "con-contextualized-embeddings-bert-elmo", title: "التمثيلاتُ المتّجهيةُ السياقية (ELMo وBERT)", type: "مفهوم"
 - id: "con-word2vec-mikolov", title: "خوارزميةُ Word2Vec عند ميكولوف", type: "مفهوم"
+- id: "con-seq2seq-encoder-decoder", title: "معماريةُ التسلسل إلى تسلسل والمُرمِّز-المُفكِّك (Seq2Seq & Encoder-Decoder)", type: "مفهوم"
 gaps:
   - "لا `belongs_to`/`evolved_from`: فرعٌ متعدّدُ الأصول (منطقٌ حاسوبيٌّ، نظريةُ الأتمتة، إحصاءٌ) نشأ بالتوازي مع النحو التوليدي دون انحدارٍ حصريٍّ منه."
 ---
