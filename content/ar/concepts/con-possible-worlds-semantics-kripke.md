@@ -16,6 +16,7 @@ related:
 - id: "wrk-naming-and-necessity-kripke", title: "التسمية والضرورة لسول كريبكي (Naming and Necessity)", type: "عمل / كتاب"
 - id: "con-rigid-designators-kripke", title: "المعينات الصلبة والضرورة البعدية (Rigid Designators)", type: "مفهوم"
 - id: "sch-analytic-metaphysics", title: "الميتافيزيقا التحليلية المعاصرة", type: "مدرسة"
+- id: "sch-formal-semantics-montague-grammar", title: "الدلالةُ الصوريةُ ونحوُ مونتاغيو (Formal Semantics)", type: "مدرسة"
 gaps:
   - "التحليل الإبستمولوجي واللغوي الدقيق لتطور المفهوم عبر التاريخ."
   - "أُضيف قسمُ «المصادر» من الأعمال الأوّلية التي يستند إليها متنُ الملفّ نفسِه. **ولم تُراجَع طبعاتُها ولا صفحاتُها**، ولم يُضَف مصدرٌ ثانويٌّ محكَّمٌ عن المدخل — فذلك عملٌ باقٍ."
