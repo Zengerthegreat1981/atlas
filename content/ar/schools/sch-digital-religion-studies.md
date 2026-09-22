@@ -18,9 +18,13 @@ related:
 - id: "con-networked-religion-campbell", title: "الدينُ المُشبَّك (Networked Religion) عند هايدي كامبل", type: "مفهوم"
 - id: "wrk-when-religion-meets-new-media-campbell", title: "حين يلتقي الدينُ بالوسائط الجديدة (When Religion Meets New Media)", type: "عمل / كتاب"
 - id: "sch-new-religious-movements-cult-debate", title: "دراسةُ الحركات الدينية الجديدة وجدلُ «الطائفة»", type: "مدرسة"
+- id: "thk-rachel-wagner", title: "رايتشل واغنر (Rachel Wagner)", type: "مفكر"
+- id: "wrk-godwired-wagner", title: "مُسلَّكةٌ إلهياً (Godwired: Religion, Ritual and Virtual Reality)", type: "عمل / كتاب"
+- id: "con-digital-ritual-theory-wagner", title: "نظريةُ الطقس الرقمي (Digital Ritual Theory) عند رايتشل واغنر", type: "مفهوم"
 gaps:
   - "`belongs_to` يشير إلى مدرسة تأسيس علم الأديان المقارن (`sch-founding-comparative-religion-science-of-religion`) بوصفها الجذعَ الأعمّ المتاح داخل القسم؛ الحقلُ عملياً امتدادٌ بينيٌّ حديثٌ لدراسات الإعلام والدين أكثر من كونه فرعاً مباشراً من ذلك الجذع التاريخيّ، ويستحقّ عقدةَ جذرٍ أدقّ («الدين والوسائط») لو استُحدثت مستقبلاً."
   - "الحقلُ ما زال ناشئاً نسبياً (تأسّس اصطلاحُ Digital Religion رسمياً في مؤتمرات ومجلة أواخر العقد الأول من الألفية)؛ لم تُدرَج هنا الأصواتُ الأخرى المؤسِّسة (Stewart Hoover ومركز Center for Media, Religion, and Culture بجامعة كولورادو) لغياب وقتٍ للتحقّق من مصادرها الببليوغرافية ضمن هذه الدفعة."
+  - "أُضيف مجالٌ فرعيٌّ جديدٌ (نظريةُ الطقس الرقمي) عبر رايتشل واغنر (`thk-rachel-wagner`) وكتابها *Godwired* (2012، `wrk-godwired-wagner`) و`con-digital-ritual-theory-wagner`؛ تحقّقتُ أولاً أن `wrk-when-religion-meets-new-media-campbell` تغطّي تفاوضَ المؤسسات الدينية بشأن التقنية دون تحليل بنية الطقس الرقمي نفسه، فلا تكرار."
 ---
 
 # دراسةُ الدين الرقمي (Digital Religion Studies)

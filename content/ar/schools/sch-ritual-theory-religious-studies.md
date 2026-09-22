@@ -29,7 +29,9 @@ related:
 - id: "sch-mimetic-theory-violence-sacred-religion", title: "نظريةُ الرغبة المحاكية وآليةُ كبش الفداء في أصل الدين (رينيه جيرار)", type: "مدرسة"
 - id: "con-ritualization-bell", title: "الطقسنة عند كاثرين بيل (Ritualization)", type: "مفهوم"
 - id: "dbt-thought-action-dichotomy-ritual-theory-bell-durkheim", title: "جدلُ ثنائية الفكر والفعل في نظرية الطقس: نقدُ بيل للتيار التأسيسي", type: "جدل"
+- id: "con-digital-ritual-theory-wagner", title: "نظريةُ الطقس الرقمي (Digital Ritual Theory) عند رايتشل واغنر", type: "مفهوم"
 gaps:
+  - "أُضيف رابطٌ إلى `con-digital-ritual-theory-wagner` (رايتشل واغنر، *Godwired*، 2012) بوصفه امتداداً معاصراً لسؤال بنية الطقس نفسه (قواعد، تكرار، حدود زمانية-مكانية) إلى الفضاء الرقمي، دون أن يكون فرعاً تفصيلياً من هذا التيار التأسيسي؛ العلاقةُ رابطٌ موضوعيٌّ لا `evolved_from`."
   - "سُدَّت 2026-09-22 (دفعةُ تعميق): نقدُ بيل لثنائية الفكر/الفعل عند سميث وهوبير وموس ودوركهايم فُصِّل الآن في ملفّ جدلٍ مستقل `dbt-thought-action-dichotomy-ritual-theory-bell-durkheim`."
   - "سُدَّت 2026-09-22: أُضيف مفهومٌ مستقل `con-ritualization-bell` (ومعه عملٌ `wrk-ritual-theory-ritual-practice-bell`) يفصّل مساهمة بيل — أحدث حلقةٍ في هذا التيار — بدل الاكتفاء بذكرها إجمالاً كمفكّرةٍ فقط."
   - "سُدَّت 2026-09-22: أثرُ قراءة دوركهايم لروبرتسون سميث (القربان الطوطمي) في بناء ثنائية المقدَّس/المدنَّس كان مذكوراً هنا إجمالاً فقط؛ فُصِّل الآن في مفهومٍ مستقل `con-totemic-sacrifice-smith-durkheim-influence` يوثّق آلية الأثر ومصادره (Jones 2005، Evans-Pritchard 1965)."
