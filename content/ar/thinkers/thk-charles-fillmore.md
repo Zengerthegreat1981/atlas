@@ -22,6 +22,8 @@ related:
 - id: "thk-brent-berlin-paul-kay", title: "برنت برلين وپول كاي", type: "مفكر"
 - id: "con-frame-semantics-fillmore", title: "الدلالةُ الإطارية عند فيلمور (Frame Semantics)", type: "مفهوم"
 - id: "con-framenet-fillmore", title: "فريم نت: قاعدةُ بياناتٍ معجميةٌ إطارية عند فيلمور (FrameNet)", type: "مفهوم"
+- id: "sch-construction-grammar", title: "نحوُ البُنى (Construction Grammar)", type: "مدرسة"
+- id: "wrk-let-alone-fillmore-kay-oconnor", title: "مقالُ Let Alone التأسيسي (Fillmore, Kay & O'Connor, 1988)", type: "أثر"
 gaps:
   - "**سُدَّ سابقاً**: پول كاي موثَّقٌ بالفعل ضمن `thk-brent-berlin-paul-kay` (دراسة مصطلحات الألوان)؛ رُبط أعلاه دون إنشاء عقدةٍ مكرَّرة."
 ---
