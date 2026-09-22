@@ -23,6 +23,7 @@ related:
 - id: "thk-carl-pollard", title: "كارل بولارد", type: "مفكر"
 - id: "con-argument-structure-lexicon", title: "بنيةُ الحجج المعجمية (Argument Structure)", type: "مفهوم"
 - id: "con-unification-grammar-formalism", title: "التوحيدُ بوصفه آليةً حسابية نحوية (Unification-Based Grammar)", type: "مفهوم"
+- id: "thk-ronald-kaplan", title: "رونالد كابلان", type: "مفكر"
 gaps: []
 ---
 

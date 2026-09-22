@@ -19,6 +19,7 @@ edges:
 related:
 - id: "sch-lexical-functional-grammar-hpsg", title: "النحوُ التوليديُّ المعجميُّ الوظيفيّ وHPSG (Lexical-Functional Grammar & HPSG)", type: "مدرسة"
 - id: "thk-joan-bybee", title: "جوان بايبي", type: "مفكر"
+- id: "thk-ronald-kaplan", title: "رونالد كابلان", type: "مفكر"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لأعمال برسنان الأصلية ضمن مصادر الأطلس؛ الاعتماد على النصوص الإنجليزية الأصلية."
 ---
