@@ -22,9 +22,12 @@ related:
 - id: "sch-founding-comparative-religion-science-of-religion", title: "تأسيسُ «علمِ الدين» (Science of Religion): ماكس مولر ونشأةُ علم الأديان المقارن", type: "مدرسة"
 - id: "thk-sally-promey", title: "سالي پرومي (Sally M. Promey)", type: "مفكر"
 - id: "wrk-sensational-religion-promey", title: "الدينُ الحسّيّ (Sensational Religion)", type: "عمل / كتاب"
+- id: "thk-birgit-meyer", title: "بيرگِت ماير (Birgit Meyer)", type: "مفكر"
+- id: "wrk-aesthetic-formations-meyer", title: "التشكُّلاتُ الجمالية (Aesthetic Formations)", type: "عمل / كتاب"
 gaps:
   - "أُنشئ هذا الملفُّ 2026-09-22 (دفعةٌ ليليةٌ تلقائية) بوصفه فتحَ مجالٍ فرعيٍّ جديدٍ كلياً تحت قسم علم الأديان المقارن: دراسةُ الدين عبر أغراضه وصوره وفضاءاته الماديّة بدل عقائده أو نصوصه المكتوبة حصراً. لم يُربط بعد بمدارسَ أخرى تتقاطع معه موضوعياً (مثل الأنثروبولوجيا الدينية أو ظاهراتية الدين)؛ هذا الربطُ العابر للأقسام يبقى فجوةً لدفعةٍ لاحقة."
-  - "أُضيفت في دفعةٍ لاحقة (2026-09-22) سالي پرومي (`thk-sally-promey`) وعملُها التحريريّ *Sensational Religion* (`wrk-sensational-religion-promey`) استجابةً لهذه الفجوة. يبقى غيرَ مُدرَجٍ بعدُ: Birgit Meyer، ومجلة *Material Religion* التي شارك مورگان في تأسيسها 2005؛ فجوةٌ مسجَّلةٌ عمداً لدفعةٍ لاحقة."
+  - "أُضيفت في دفعةٍ لاحقة (2026-09-22) سالي پرومي (`thk-sally-promey`) وعملُها التحريريّ *Sensational Religion* (`wrk-sensational-religion-promey`) استجابةً لهذه الفجوة."
+  - "أُضيفت في دفعةٍ لاحقة (2026-09-22) بيرگِت ماير (`thk-birgit-meyer`) وعملُها التحريريّ *Aesthetic Formations* (`wrk-aesthetic-formations-meyer`) استجابةً لفجوةٍ موثَّقةٍ. يبقى غيرَ مُدرَجٍ بعدُ: مجلة *Material Religion* التي شارك مورگان في تأسيسها 2005؛ فجوةٌ مسجَّلةٌ عمداً لدفعةٍ لاحقة."
 ---
 
 # دراسةُ الدين الماديّ (Material Religion Studies): ديڤيد مورگان والتحوّلُ من العقيدة إلى الشيء
