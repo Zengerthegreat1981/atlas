@@ -23,6 +23,8 @@ related:
 - id: "con-disinventing-language-makoni-pennycook", title: "نزعُ اختراع اللغة (Disinventing Language)", type: "مفهوم"
 - id: "thk-tove-skutnabb-kangas", title: "توڤي سكوتناب-كانغاس", type: "مفكر"
 - id: "con-linguistic-human-rights", title: "الحقوقُ اللغويةُ الإنسانية (Linguistic Human Rights)", type: "مفهوم"
+- id: "thk-ofelia-garcia", title: "أوفيليا غارسيا", type: "مفكر"
+- id: "con-translanguaging-garcia", title: "التلغُّةُ المتداخلة عند غارسيا (Translanguaging)", type: "مفهوم"
 gaps: []
 ---
 
