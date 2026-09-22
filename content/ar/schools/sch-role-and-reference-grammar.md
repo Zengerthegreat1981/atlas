@@ -25,6 +25,7 @@ related:
 - id: "con-linking-algorithm-rrg", title: "خوارزميةُ الربط الدلاليِّ-النحويّ في نحو الدور والمرجع (Linking Algorithm)", type: "مفهوم"
 - id: "con-predicate-frames-underlying-clause-dik", title: "أُطُرُ المسنَد والبنيةُ التحتيةُ للجملة عند ديك (Predicate Frames & the Underlying Clause)", type: "مفهوم"
 - id: "con-juncture-nexus-clause-combining-rrg", title: "الالتحامُ والنسقُ في تركيب الجمل عند نحو الدور والمرجع (Juncture & Nexus)", type: "مفهوم"
+- id: "con-focus-structure-rrg", title: "بنيةُ التركيز ونطاقُ التركيز المحتمَل في نحو الدور والمرجع (Focus Structure)", type: "مفهوم"
 gaps:
   - "لا `belongs_to`: تيارٌ وظيفيٌّ نشأ بالتوازي مع اللسانيات الوظيفية المنهجية الهاليدايية دون انحدارٍ مباشرٍ منها."
 ---
