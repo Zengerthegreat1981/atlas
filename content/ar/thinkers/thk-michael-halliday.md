@@ -19,14 +19,19 @@ edges:
 related:
 - id: "sch-systemic-functional-linguistics", title: "اللسانياتُ الوظيفيةُ المنهجية (Systemic Functional Linguistics)", type: "مدرسة"
 - id: "wrk-introduction-functional-grammar-halliday", title: "مدخلٌ إلى النحو الوظيفي (An Introduction to Functional Grammar)", type: "عمل / كتاب"
+- id: "con-register-style-shifting", title: "السِّجلُّ اللغويُّ وتبدّلُ الأسلوب (Register & Style-Shifting)", type: "مفهوم"
+- id: "con-genre-theory-sfl", title: "نظريةُ النوع النصّي في اللسانيات الوظيفية المنهجية (Genre Theory)", type: "مفهوم"
 gaps:
-  - "بداياتُه الأكاديمية في اللسانيات الصينية (تتلمذ في الصين على وانغ لي) والتأثّر بمدرسة لندن (فيرث) موضوعٌ سياقيٌّ لم يُفصَّل هنا."
-  - "مفهومُ السجل (Register) وأنواعُ النصوص (Genre) عنده موضوعٌ واسعٌ في تحليل الخطاب لم يُفرَد بملفِّ مفهومٍ مستقل بعد."
+  - "**سُدَّ بالكامل 2026-09-22 (الدفعة 174)**: أُضيف قسمٌ عن بداياته في اللسانيات الصينية مع وانغ لي؛ مفهومُ السجل موثَّقٌ في `con-register-style-shifting`، ونظريةُ النوع النصّي (طوّرها تلميذُه ج. ر. مارتن) في `con-genre-theory-sfl`؛ رُبطا أعلاه."
 ---
 
 # مايكل هاليداي
 
 لغويٌّ بريطاني-أسترالي، مؤسِّسُ **اللسانيات الوظيفية المنهجية** (Systemic Functional Linguistics — SFL)، أحدُ أهمِّ الأطر النظرية الوظيفية البديلة للنحو التوليدي.
+
+## بداياتٌ في اللسانيات الصينية
+
+قبل انتقاله إلى تراث مدرسة لندن، بدأ هاليداي مسارَه الأكاديمي بدراسة اللغة الصينية ولهجاتها في جامعة بكين وجامعة لينغنان أواخر الأربعينيات، متتلمذاً على اللغوي الصيني وانغ لي؛ وكانت أطروحتُه للدكتوراه تحليلاً وصفياً للهجة الصينية الأدبية المعاصرة. أكسبته هذه الخلفيةُ حساسيةً مبكرة تجاه التنوّع الأسلوبي والسياقي داخل اللغة الواحدة، أثّرت لاحقاً في تصوّره الوظيفي الاجتماعي للغة عموماً.
 
 ## المشروع
 
@@ -44,3 +49,4 @@ gaps:
 
 - Halliday, M. A. K. (1985). *An Introduction to Functional Grammar*. Edward Arnold.
 - Halliday, M. A. K.; Matthiessen, Christian M. I. M. (2014). *Halliday's Introduction to Functional Grammar* (4th ed.). Routledge.
+- Webster, Jonathan J. (2015). *The Bloomsbury Companion to M. A. K. Halliday*. Bloomsbury.
