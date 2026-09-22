@@ -21,8 +21,10 @@ related:
 - id: "thk-ignaz-goldziher", title: "إغناتس غولدتسيهر (Ignaz Goldziher)", type: "مفكر"
 - id: "thk-muhammad-mustafa-al-azami", title: "محمد مصطفى الأعظمي", type: "مفكر"
 - id: "wrk-origins-muhammadan-jurisprudence-schacht", title: "أصولُ الفقه المحمَّديّ (The Origins of Muhammadan Jurisprudence)", type: "عمل"
+- id: "wrk-introduction-islamic-law-schacht", title: "مدخلٌ إلى الفقه الإسلاميّ (An Introduction to Islamic Law)", type: "عمل"
 gaps:
   - "سُدَّت 2026-09-22: أُفرِد الآن ملفُّ عملٍ مستقل لكتابه *The Origins of Muhammadan Jurisprudence* (1950): `wrk-origins-muhammadan-jurisprudence-schacht`."
+  - "سُدَّت 2026-09-22 (دفعةُ تعميق): عملُه التدريسيُّ الثاني *An Introduction to Islamic Law* (1964)، المذكورُ سابقاً في قسم المصادر فقط دون ملفٍّ مستقل، أُفرِد له الآن: `wrk-introduction-islamic-law-schacht`."
 ---
 
 # جوزيف شاخت (Joseph Schacht)
