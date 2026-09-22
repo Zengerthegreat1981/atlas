@@ -18,8 +18,10 @@ edges:
 - rel: "evolved_from", target: "sch-language-policy-endangerment", target_type: "مدرسة"
 related:
 - id: "thk-robert-phillipson", title: "روبرت فيليبسون", type: "مفكر"
-gaps:
-  - "سينفري ماكوني (Sinfree Makoni) وألاستير بينيكوك (Alastair Pennycook)، مطوّرا نقد «إعادة اختراع اللغة» اللاحق لفيليبسون، لم يُفرَدا بعد كمفكرَين مستقلَّين."
+- id: "thk-sinfree-makoni", title: "سينفري ماكوني", type: "مفكر"
+- id: "thk-alastair-pennycook", title: "ألاستير بينيكوك", type: "مفكر"
+- id: "con-disinventing-language-makoni-pennycook", title: "نزعُ اختراع اللغة (Disinventing Language)", type: "مفهوم"
+gaps: []
 ---
 
 # اللسانياتُ الاستعماريةُ ونقدُها
