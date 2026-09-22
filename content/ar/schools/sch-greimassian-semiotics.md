@@ -26,6 +26,7 @@ related:
 - id: "con-narrative-functions-propp", title: "الوظائفُ السرديةُ الواحدةُ والثلاثون عند بروب", type: "مفهوم"
 - id: "con-modal-semiotics-greimas", title: "السيمياءُ الموجِّهية عند غريماس: الإرادةُ والقدرةُ والمعرفةُ والوجوب", type: "مفهوم"
 - id: "thk-jacques-fontanille", title: "جاك فونتانيّ", type: "مفكر"
+- id: "con-veridiction-greimas", title: "موجِّهاتُ الصدقية عند غريماس (Veridiction)", type: "مفهوم"
 gaps: []
 ---
 
