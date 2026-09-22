@@ -21,8 +21,9 @@ related:
 - id: "thk-rudolf-otto", title: "رودولف أوتو", type: "مفكر"
 - id: "thk-mircea-eliade", title: "ميرتشيا إلياده", type: "مفكر"
 - id: "exp-numinous-otto", title: "التجربة العددية (Numinous) عند رودولف أوتو: المَهيب المُتَعالي", type: "خبرة معيشة"
+- id: "wrk-phanomenologie-der-religion-van-der-leeuw", title: "ظاهراتيةُ الدين (Phänomenologie der Religion)", type: "عمل"
 gaps:
-  - "لا يوجد بعد ملفّ عملٍ مستقل (`wrk-`) لكتابه *Phänomenologie der Religion* (1933)؛ فجوةٌ للدفعة القادمة."
+  - "سُدَّت 2026-09-22 (الدفعة 112): أُضيف ملفّ عملٍ مستقل (`wrk-phanomenologie-der-religion-van-der-leeuw`) لكتابه *Phänomenologie der Religion* (1933)."
   - "نشاطُه السياسي القصير كوزيرٍ للتعليم في حكومة هولندية بعد التحرير (1945) واتهاماتٌ بتعاطفه المبكر مع بعض أفكار الحركة القومية الهولندية قبل الحرب موضوعُ جدلٍ تاريخي محدود؛ لم يُفصَّل هنا لعدم توفّر مصدرين محقَّقين كافيين وقت الكتابة."
 ---
 
