@@ -23,6 +23,8 @@ related:
 - id: "con-fln-flb-narrow-broad-faculty", title: "الملَكةُ اللغوية بمعناها الضيّق والواسع (FLN/FLB)", type: "مفهوم"
 - id: "thk-michael-corballis", title: "مايكل كوربالِس", type: "مفكر"
 - id: "con-gestural-origin-hypothesis", title: "فرضيةُ الأصل الإيمائي للغة (Gestural Origin Hypothesis)", type: "مفهوم"
+- id: "thk-simon-kirby", title: "سايمون كيربي", type: "مفكر"
+- id: "con-iterated-learning-model-kirby", title: "نموذجُ التعلّم التكراري عند كيربي (Iterated Learning Model)", type: "مفهوم"
 gaps:
   - "حيادٌ صريحٌ محفوظ: خلافُ هاوزر/تشومسكي/فيتش (2002) وبنكر/جاكندوف (2005) حول ما إذا كانت ملَكةُ اللغة تطوّرت كتكيّفٍ متخصّصٍ منفصل أم كإعادة توظيفٍ لقدراتٍ معرفيةٍ عامّة، لا يزال جدلاً علمياً مفتوحاً؛ لا يُرجَّح طرفٌ هنا."
 ---
