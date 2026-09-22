@@ -24,6 +24,7 @@ related:
 - id: "con-four-space-blending-network", title: "شبكةُ المزج الرباعية الفضاءات (Four-Space Blending Network)", type: "مفهوم"
 - id: "con-compression-vital-relations-blending", title: "الضغطُ والعلاقاتُ الحيوية في المزج المفهومي (Compression & Vital Relations)", type: "مفهوم"
 - id: "con-emergent-structure-blending", title: "البنيةُ الناشئةُ: التأليفُ والإكمالُ والتفصيلُ في المزج المفهومي", type: "مفهوم"
+- id: "con-optimality-principles-blending", title: "مبادئُ الأمثلية الحاكمة للمزج المفهومي", type: "مفهوم"
 gaps: []
 ---
 
