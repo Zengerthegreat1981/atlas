@@ -15,6 +15,7 @@ related:
 - id: "sch-formal-semantics-montague-grammar", title: "الدلالةُ الصوريةُ ونحوُ مونتاغيو (Formal Semantics)", type: "مدرسة"
 - id: "thk-irene-heim", title: "إيرين هايم", type: "مفكر"
 - id: "con-kratzer-modal-base-ordering-source", title: "القاعدةُ الموجِّهيةُ ومصدرُ الترتيب عند كراتزر (Modal Base & Ordering Source)", type: "مفهوم"
+- id: "con-donkey-sentences-anaphora", title: "جملُ الحمار وإشكاليةُ الإحالة الضميرية (Donkey Sentences)", type: "مفهوم"
 gaps: []
 ---
 

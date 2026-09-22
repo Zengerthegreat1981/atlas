@@ -31,6 +31,7 @@ related:
 - id: "con-possible-worlds-semantics-kripke", title: "دلالات العوالم الممكنة والمنطق الموجه (Possible Worlds)", type: "مفهوم"
 - id: "thk-david-dowty", title: "ديفيد داوتي", type: "مفكر"
 - id: "con-thematic-proto-roles-dowty", title: "الأدوارُ الموضوعية البدئية عند داوتي (Thematic Proto-Roles)", type: "مفهوم"
+- id: "con-donkey-sentences-anaphora", title: "جملُ الحمار وإشكاليةُ الإحالة الضميرية (Donkey Sentences)", type: "مفهوم"
 gaps:
   - "لا `belongs_to`/`evolved_from`: نشأت الدلالةُ الصوريةُ من تقاطع المنطق الرياضي بأعمال مونتاغيو المنطقية المستقلة عن سلالة تشومسكي التوليدية، لا كامتدادٍ تاريخيٍّ مباشرٍ منها؛ سُجِّلت العلاقةُ بـ`related` لا بعلاقة انحدار."
   - "**سُدَّ بالكامل 2026-09-22 (الدفعة 238)**: أُنشئت `thk-angelika-kratzer` وعقدتُها المفهومية `con-kratzer-modal-base-ordering-source`، مستشهَدٌ بعملها المشترك مع Heim في مصادر هذا الملفّ دون أن تكون هي نفسُها موصولةً بعقدةٍ سابقاً."
