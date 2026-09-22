@@ -18,6 +18,7 @@ edges:
 - rel: "belongs_to", target: "sch-generative-phonology", target_type: "مدرسة"
 related:
 - id: "sch-generative-phonology", title: "الصرفُ التوليديُّ والصواتةُ التوليدية (Generative Phonology)", type: "مدرسة"
+- id: "con-optimality-theory-prince-smolensky", title: "النظريةُ التفاؤلية عند برنس وسمولنسكي (Optimality Theory)", type: "مفهوم"
 gaps:
   - "پول سمولنسكي عالمُ علومٍ إدراكية وحوسبةٍ عصبية بالتكوين الأصلي، لا لغويٌّ محض؛ ساهم بخلفيةٍ حاسوبية جلبت منطقَ الشبكات العصبية إلى المسألة الصواتية."
 ---

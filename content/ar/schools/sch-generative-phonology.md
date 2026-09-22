@@ -28,6 +28,7 @@ related:
 - id: "thk-morris-halle", title: "مورّيس هالة", type: "مفكر"
 - id: "thk-john-goldsmith", title: "جون غولدسميث", type: "مفكر"
 - id: "con-autosegmental-phonology-goldsmith", title: "الصواتةُ متعدّدةُ الطبقات عند غولدسميث (Autosegmental Phonology)", type: "مفهوم"
+- id: "con-optimality-theory-prince-smolensky", title: "النظريةُ التفاؤلية عند برنس وسمولنسكي (Optimality Theory)", type: "مفهوم"
 gaps: []
 ---
 
