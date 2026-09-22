@@ -26,6 +26,8 @@ related:
 - id: "con-markedness-theory", title: "نظريةُ الوسم (Markedness Theory)", type: "مفهوم"
 - id: "thk-vilem-mathesius", title: "ﭬيليم ماتيسيوس", type: "مفكر"
 - id: "con-functional-sentence-perspective", title: "التقطيعُ الوظيفيُّ للجملة (Functional Sentence Perspective)", type: "مفهوم"
+- id: "con-jakobson-communication-functions", title: "وظائفُ اللغة الستّ عند ياكوبسون", type: "مفهوم"
+- id: "thk-josef-vachek", title: "يوزف ڤاخِك", type: "مفكر"
 gaps: []
 ---
 
