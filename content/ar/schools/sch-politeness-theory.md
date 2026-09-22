@@ -24,6 +24,8 @@ related:
 - id: "thk-penelope-brown", title: "پنلوپي براون", type: "مفكر"
 - id: "thk-yoshiko-matsumoto", title: "يوشيكو ماتسوموتو", type: "مفكر"
 - id: "con-face-threatening-acts-strategies", title: "الأفعالُ المهدِّدة للوجه واستراتيجياتُ التخفيف المتدرِّجة", type: "مفهوم"
+- id: "thk-geoffrey-leech", title: "جيفري ليتش", type: "مفكر"
+- id: "con-politeness-maxims-leech", title: "مبادئُ التأدّب عند ليتش (Politeness Maxims)", type: "مفهوم"
 gaps:
   - "`con-speech-acts-performatives` موسومٌ ضمن نطاق فلسفة اللغة أساساً؛ رُبط إليه بـ`related` بوصف نظرية التأدّب تستعمل مفهوم فعل الكلام أداةً تحليلية دون تكرار شرحه الفلسفي الكامل."
 ---
