@@ -21,6 +21,7 @@ related:
 - id: "sch-modern-arabic-linguistics", title: "اللغوياتُ العربيةُ الحديثة (Modern Arabic Linguistics)", type: "مدرسة"
 - id: "thk-tammam-hassan", title: "تمّام حسّان", type: "مفكر"
 - id: "thk-kamal-bishr", title: "كمال بِشر", type: "مفكر"
+- id: "wrk-ilm-al-dalala-ahmad-mukhtar-umar", title: "علمُ الدلالة (أحمد مختار عمر)", type: "أثر"
 gaps:
   - "لم يُعثر على ترجمةٍ إنجليزيةٍ أكاديميةٍ شاملةٍ متخصّصةٍ بأعماله ضمن مصادر الأطلس؛ الاعتمادُ الرئيسي على مصادره العربية الأصلية."
 ---

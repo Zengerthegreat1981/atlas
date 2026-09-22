@@ -26,6 +26,7 @@ related:
 - id: "wrk-al-aswat-al-lughawiyya-anis", title: "الأصواتُ اللغوية", type: "أثر"
 - id: "thk-kamal-bishr", title: "كمال بِشر", type: "مفكر"
 - id: "thk-ahmad-mukhtar-umar", title: "أحمد مختار عمر", type: "مفكر"
+- id: "wrk-ilm-al-dalala-ahmad-mukhtar-umar", title: "علمُ الدلالة (أحمد مختار عمر)", type: "أثر"
 gaps:
   - "**سُدَّ بالكامل 2026-09-22 (الدفعة 203)**: أُنشئ `thk-abdessalam-el-messaddi` (الدفعة 163) و`thk-mazen-al-waer` (الدفعة 203)."
 ---
