@@ -36,6 +36,7 @@ related:
 - id: "sch-academic-kabbalah-studies-scholem", title: "الدراسةُ الأكاديميةُ النقديةُ للقبّالة (غرشوم شوليم)", type: "مدرسة"
 - id: "sch-religion-nature-ecology-studies", title: "الدين والطبيعة: دراسةُ التديّن البيئي (Religion and Nature / Dark Green Religion)", type: "مدرسة"
 - id: "sch-comparative-religious-violence-studies", title: "الدراسةُ الأكاديميةُ المقارَنةُ للعنف الديني (Comparative Religious Violence Studies)", type: "مدرسة"
+- id: "sch-death-ritual-religious-studies", title: "الدراسةُ الأكاديميةُ للموت والطقوس الجنائزية: دگلاس دايفيز وتوني والتر", type: "مدرسة"
 - id: "sch-food-religion-studies", title: "دراسةُ الدين والطعام أكاديمياً (Food and Religion Studies)", type: "مدرسة"
 - id: "sch-comparative-religious-ethics-field", title: "علمُ الأخلاق الدينية المقارن (Comparative Religious Ethics)", type: "مدرسة"
 - id: "sch-academic-study-religion-sport", title: "الدراسةُ الأكاديميةُ للدين والرياضة (Religion and Sport Studies): وليام ج. بيكر ومَن تبعه", type: "مدرسة"
