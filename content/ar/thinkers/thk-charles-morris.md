@@ -19,6 +19,7 @@ edges:
 related:
 - id: "sch-peircean-semiotics", title: "السيمياءُ البيرسية (Peircean Semiotics)", type: "مدرسة"
 - id: "con-syntax-semantics-pragmatics-trichotomy-morris", title: "ثلاثيةُ التركيب والدلالة والتداول (Syntax/Semantics/Pragmatics Trichotomy)", type: "مفهوم"
+- id: "wrk-foundations-theory-signs-morris", title: "أسسُ نظرية العلامات (Foundations of the Theory of Signs)", type: "أثر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرته؛ الاعتمادُ على مصادره الإنجليزية الأساسية."
 ---
