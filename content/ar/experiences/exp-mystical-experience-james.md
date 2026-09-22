@@ -17,8 +17,10 @@ related:
 - id: "exp-conversion-experience", title: "التجربة التَّحَوُّلية (Conversion Experience): تَحوُّل داخلي مفاجئ", type: "خبرة معيشة"
 - id: "thk-james", title: "وليم جيمس", type: "مفكر"
 - id: "wrk-varieties-of-religious-experience-james", title: "تنوعات الخبرة الدينية لويليام جيمس", type: "عمل / كتاب"
+- id: "thk-walter-stace", title: "والتر ستيس (Walter T. Stace)", type: "مفكر"
+- id: "ins-hood-mysticism-scale", title: "مقياسُ الصوفية (Hood's Mysticism Scale)", type: "أداة قياس"
 gaps:
-  - "لا يوجد مدخل مستقل لوالتر ستايس (Walter Stace) في الأطلس بعد؛ تصنيفه Introvertive/Extrovertive (Mysticism and Philosophy، 1960) مذكور هنا استطراداً فقط."
+  - "سُدَّت 2026-09-22 (دفعة علم الأديان المقارن): أُضيف ملفُّ مفكّرٍ مستقل لوالتر ستيس (`thk-walter-stace`) وملفُّ أداةٍ لمقياس الصوفية المبنيّ على تصنيفه (`ins-hood-mysticism-scale`، Hood 1975)."
   - "محاضرات جيفورد (Gifford Lectures) التي أُلقيت فيها مادة الكتاب بجامعة إدنبرة بين 1901-1902 تحتاج توثيقاً منفصلاً كحدث."
 ---
 

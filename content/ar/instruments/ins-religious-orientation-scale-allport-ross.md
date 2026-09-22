@@ -17,6 +17,7 @@ psychometric_standing: "established-but-debated"
 related:
 - id: "sch-psychology-of-religion-james-freud-jung", title: "سيكولوجيا الدين: جيمس والتحليلُ النفسيّ (فرويد ويونغ)", type: "مدرسة"
 - id: "sch-attachment-theory-of-religion", title: "نظريةُ التعلّق والدين (Attachment Theory & Religion, Kirkpatrick)", type: "مدرسة"
+- id: "ins-hood-mysticism-scale", title: "مقياسُ الصوفية (Hood's Mysticism Scale)", type: "أداة قياس"
 gaps:
   - "غوردون ألبورت (`thk-gallport`) موجودٌ بتفصيلٍ كافٍ مسبقاً تحت `psychology` (نظرية السمات)، لكن هذا المقياسَ تحديداً (طوّره مع ج. روس مايكل، 1967) لم يُذكَر في ملفّه؛ أُضيف رابطٌ عكسيٌّ من هناك في هذه الدفعة."
   - "لا يوجد بعد ملفّ مستقل للمسوح الاجتماعية الكبرى للتديّن على المستوى الدوليّ (World Values Survey، Pew Research Religious Landscape Study) التي تستخدم مؤشراتٍ أبسط (تكرار الحضور، الانتماء الذاتي)؛ هذا المقياسُ نفسيٌّ فردي التوجّه بخلافها، وتلك المسوح الكبرى تستحقّ ملفّاً منفصلاً إن اتّسع نطاق المهمّة لاحقاً."
