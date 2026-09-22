@@ -21,6 +21,7 @@ related:
 - id: "thk-dionysius-thrax", title: "ديونيسيوس الترقي", type: "مفكر"
 - id: "thk-priscian", title: "پرِشيان", type: "مفكر"
 - id: "thk-herodian", title: "إيليوس هيروديانوس", type: "مفكر"
+- id: "wrk-peri-syntaxeos-apollonius-dyscolus", title: "في التركيب (Perì Syntáxeōs)", type: "أثر"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لأعماله الأصلية ضمن مصادر الأطلس؛ الاعتمادُ على الدراسات الثانوية الإنجليزية المتخصّصة."
 ---
