@@ -19,8 +19,9 @@ edges:
 related:
 - id: "sch-variationist-sociolinguistics", title: "اللسانياتُ الاجتماعيةُ المتغيّرية (Labovian Variationist Sociolinguistics)", type: "مدرسة"
 - id: "stu-labov-department-store-r", title: "دراسةُ لابوف في متاجر نيويورك (الصوت /r/)", type: "دراسة وبحث"
+- id: "stu-marthas-vineyard-centralization-labov", title: "دراسةُ لابوف في مارثا ﭬينيارد (مركزةُ الصوائت)", type: "دراسة وبحث"
 gaps:
-  - "دراستُه المبكرة عن جزيرة مارثاز ڤينيارد (1963) عن التغيّر الصوتي حسب الهوية المحلية لم تُفرَد بملفٍّ مستقل بعد."
+  - "**سُدَّ سابقاً**: `stu-marthas-vineyard-centralization-labov` موجودةٌ بالفعل في الأطلس؛ رُبطت أعلاه دون تكرار."
 ---
 
 # وليم لابوف

@@ -24,9 +24,10 @@ related:
 - id: "sch-buddhist-modernism", title: "البوذية الحداثية", type: "مدرسة"
 - id: "thk-philip-almond", title: "فيليب ألموند (Philip C. Almond)", type: "مفكر"
 - id: "wrk-buddhist-birth-stories-rhys-davids", title: "قصصُ ميلاد بوذا: الجاتاكا (Buddhist Birth Stories)", type: "عمل / كتاب"
+- id: "wrk-buddhism-sketch-life-teachings-gautama-rhys-davids", title: "البوذية: رسمٌ لحياة غوتاما البوذا وتعاليمه (Buddhism: Being a Sketch of the Life and Teachings of Gautama, the Buddha)", type: "عمل"
 gaps:
   - "عمل ديفيدز موظّفاً إدارياً بريطانياً في سيلان (سريلانكا الحالية) قبل تحوّله الأكاديمي، وهو جزءٌ من السياق الاستعماري الذي مكّنه من الوصول للمخطوطات الپالية أصلاً؛ هذا مذكورٌ حياداً دون تجاوز حدود القسم إلى تقييم الاستعمار سياسياً. **سُدَّت جزئياً 2026-09-22 (الدفعة 79):** النقدُ التاريخيُّ لهذا المسار (أطروحةُ 'البوذية النصّية' البروتستانتية القياس) مفصَّلٌ الآن في `thk-philip-almond`."
-  - "**سُدَّت 2026-09-22 (الدفعة 119):** أُضيف ملفّ عملٍ مستقل لترجمته *Buddhist Birth Stories* (1880) — `wrk-buddhist-birth-stories-rhys-davids`. سلسلةُ *Sacred Books of the Buddhists* لا تزال بلا ملفٍّ مستقل؛ فجوةٌ موثَّقة لدفعةٍ لاحقة."
+  - "**سُدَّت 2026-09-22 (الدفعة 119):** أُضيف ملفّ عملٍ مستقل لترجمته *Buddhist Birth Stories* (1880) — `wrk-buddhist-birth-stories-rhys-davids`. **وسُدَّت جزئياً 2026-09-22 (الدفعة 133):** أُضيف أيضاً ملفّ عملٍ مستقل لكتابه التأليفيّ الأوّل *Buddhism: Being a Sketch of the Life and Teachings of Gautama, the Buddha* (1877) — `wrk-buddhism-sketch-life-teachings-gautama-rhys-davids`. سلسلةُ *Sacred Books of the Buddhists* التي أشرف عليها لاحقاً لا تزال بلا ملفٍّ مستقل؛ فجوةٌ موثَّقة لدفعةٍ لاحقة."
 ---
 
 # توماس ويليام رايس ديفيدز (T. W. Rhys Davids)

@@ -19,8 +19,9 @@ edges:
 - rel: "belongs_to", target: "sch-language-ideology", target_type: "مدرسة"
 related:
 - id: "thk-roman-jakobson", title: "رومان ياكوبسون", type: "مفكر"
+- id: "thk-judith-irvine", title: "جوديث إرڤين", type: "مفكر"
 gaps:
-  - "جوديث إرڤين (Judith Irvine)، محاورةُ سيلفرستاين الرئيسية في تطوير هذا الحقل، لم تُفرَد بعد كمفكرةٍ مستقلة."
+  - "**سُدَّ سابقاً**: `thk-judith-irvine` موجودةٌ بالفعل في الأطلس؛ رُبطت أعلاه دون تكرار."
 ---
 
 # مايكل سيلفرستاين
