@@ -20,8 +20,10 @@ related:
 - id: "thk-max-gluckman", title: "ماكس غلوكمان (Max Gluckman)", type: "مفكر"
 - id: "sch-descent-theory", title: "أنثروبولوجيا القرابة والنسب (Descent Theory)", type: "مدرسة"
 - id: "thk-fredrik-barth", title: "فريدريك بارت (Fredrik Barth)", type: "مفكر"
+- id: "sch-academic-melanesian-cargo-cult-studies", title: "الدراسةُ الأكاديميةُ لعباداتِ الشحنة الملانيزية (Melanesian Cargo Cult Studies)", type: "مدرسة"
 gaps:
   - "فيكتور تيرنر تلميذُ غلوكمان المباشر في مانشستر قبل تحوّله إلى الأنثروبولوجيا الرمزية؛ سيُذكر هذا الانتقالُ في ملفّه حين يُكتب ضمن حزمة القسم 5 من الـbacklog."
+  - "سُدَّت 2026-09-22: پيتر ورزلي، تلميذٌ آخر لغلوكمان في مانشستر (أنجز أطروحتَه هناك قبل إتمام الدكتوراه في أستراليا)، أسّس حقلاً مستقلاً لدراسة عبادات الشحنة الملانيزية دينياً؛ رُبط الآن بـ`sch-academic-melanesian-cargo-cult-studies` تحت `part: religious-studies` دون تكرار سيرته هنا."
 ---
 # مدرسةُ مانشستر وتحليلُ الموقف (Manchester School)
 
