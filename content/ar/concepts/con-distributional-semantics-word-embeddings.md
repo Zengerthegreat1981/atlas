@@ -16,6 +16,7 @@ related:
 - id: "thk-jr-firth", title: "جون روبرت فيرث", type: "مفكر"
 - id: "con-llms-and-linguistic-theory", title: "النماذجُ اللغويةُ الكبرى وأثرُها على النظرية اللغوية", type: "مفهوم"
 - id: "con-contextualized-embeddings-bert-elmo", title: "التمثيلاتُ المتّجهيةُ السياقية (ELMo وBERT)", type: "مفهوم"
+- id: "con-word2vec-mikolov", title: "خوارزميةُ Word2Vec عند ميكولوف", type: "مفهوم"
 gaps: []
 ---
 
