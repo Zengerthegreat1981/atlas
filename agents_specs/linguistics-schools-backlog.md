@@ -1308,3 +1308,7 @@
 ## ⚠️ حالةٌ مقيسة — دفعة 337 (2026-09-22)
 
 عددُ العقد اللسانية الحيّة: 518 (تقديرياً، بعد دفعات 333–337: con-williams-syndrome-language-dissociation-bellugi، thk-seana-coulson، con-purport-amorphous-continuum-hjelmslev، wrk-elements-de-semiologie-barthes، thk-jacques-fontanille). آخر التزامٍ مؤكَّدٍ لمحتوى لسانياتي: `249b9f41` (يحوي ملفاتي الثلاثة ضمن التزامٍ مشترك). أدنى المدارس اتصالاً حالياً (تشخيص belongs_to-count): sch-copenhagen-glossematics وsch-structuralist-semiology (سُدّت جزئياً هذه الدفعة)، تليها sch-minimalist-program، sch-peircean-semiotics، sch-role-and-reference-grammar، sch-systemic-functional-linguistics، sch-text-linguistics، sch-american-structural-linguistics. المهمّةُ مستمرّةٌ دون توقف وفق البروتوكول القياسي.
+
+## ⚠️ حالةٌ مقيسة — علامةُ 340 دفعة (2026-09-22)
+
+عددُ العقد اللسانية الحيّة: ~522 (بعد دفعات 338–340: con-copy-theory-of-movement-minimalism، con-icon-index-symbol-peirce، con-focus-structure-rrg). آخر التزامٍ مؤكَّد: `4fb13744`. تشخيصُ belongs_to-count التالي يستهدف: sch-systemic-functional-linguistics، sch-text-linguistics، sch-american-structural-linguistics، وإعادة فحص sch-copenhagen-glossematics/sch-structuralist-semiology/sch-peircean-semiotics بعد الإضافات الأخيرة. لا حوادثَ تشغيليةٍ مدمِّرة حتى الآن؛ حادثةٌ حميدةٌ واحدة (دفعة 337، موثَّقة أعلاه). المهمّةُ مستمرّةٌ دون توقف وفق البروتوكول القياسي.
