@@ -25,6 +25,8 @@ related:
 - id: "con-semiotic-processes-irvine-gal", title: "العملياتُ السيميائيةُ الثلاث عند إرڤين وغال: الأَيقنةُ والمَحوُ والتكرارُ الكسوري", type: "مفهوم"
 - id: "thk-kathryn-woolard", title: "كاثرين وولارد", type: "مفكر"
 - id: "con-authenticity-anonymity-woolard", title: "الأصالةُ مقابل التخفّي عند وولارد (Authenticity vs. Anonymity)", type: "مفهوم"
+- id: "thk-jane-hill", title: "جين هيل", type: "مفكر"
+- id: "con-mock-spanish-covert-racism-hill", title: "الإسپانيةُ الهزلية والعنصريةُ المقنَّعة عند هيل (Mock Spanish)", type: "مفهوم"
 gaps:
   - "لا `belongs_to`: فرعٌ من الأنثروبولوجيا اللغوية نشأ متقاطعاً مع اللسانيات الاجتماعية، لا منحدراً من مدرسةٍ لسانيةٍ نظريةٍ واحدة."
 ---
