@@ -15,6 +15,7 @@ related:
 - id: "sch-bilingualism-cognitive-control", title: "ثنائيةُ اللغة والدماغُ (Bilingualism & Cognitive Control)", type: "مدرسة"
 - id: "con-inhibitory-control-model-bilingualism", title: "نموذجُ التحكّم الكابح عند غرين (Inhibitory Control Model)", type: "مفهوم"
 - id: "con-code-switching-mixing", title: "التبديلُ والمزجُ الرمزي (Code-Switching & Code-Mixing)", type: "مفهوم"
+- id: "con-revised-hierarchical-model-kroll-stewart", title: "النموذجُ الهرميُّ المنقَّح عند كرول وستيوارت (Revised Hierarchical Model)", type: "مفهوم"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بهذا النموذج ضمن مصادر الأطلس؛ الاعتمادُ على المصادر الإنجليزية الأساسية (Dijkstra & van Heuven)."
 ---
