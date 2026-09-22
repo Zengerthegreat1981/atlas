@@ -22,9 +22,10 @@ related:
 - id: "thk-robert-orsi", title: "روبرت أورسي (Robert A. Orsi)", type: "مفكر"
 - id: "con-emic-etic-study-of-religion", title: "الداخلُ والخارجُ (Emic/Etic) في دراسة الدين", type: "مفهوم"
 - id: "dbt-colonial-vs-domestic-ethnography-lived-religion", title: "الإثنوغرافيا الاستعماريةُ البعيدة مقابل «الدين المعيش» المحلّيّ: جدلُ الجيل الإثنوغرافيّ في دراسة الدين", type: "جدل"
+- id: "wrk-worlds-of-wonder-days-of-judgment-hall", title: "عوالمُ العجب وأيامُ الحساب: المعتقدُ الدينيُّ الشعبيُّ في نيوإنغلاند المبكرة", type: "عمل / كتاب"
 gaps:
   - "لا يخلط هذا الملفُّ بينه وبين ديفيد إل. هول (David L. Hall)، الفيلسوف المتخصّص في الكونفوشية المعاصرة، وهو شخصٌ مختلفٌ تماماً موثَّقٌ في ملفٍّ آخر (`thk-rames` يذكره شريكاً)."
-  - "لا يوجد بعد ملفّ عملٍ مستقل (`wrk-`) لكتابه *Worlds of Wonder, Days of Judgment* (1989)."
+  - "سُدَّت 2026-09-22 (الدفعة 109): أُضيف ملفُّ عملٍ مستقل (`wrk-worlds-of-wonder-days-of-judgment-hall`) لكتابه *Worlds of Wonder, Days of Judgment* (1989)."
 ---
 
 # دايفد دي. هول (David D. Hall)
