@@ -23,8 +23,11 @@ related:
 - id: "con-presupposition-projection-problem", title: "الافتراضُ المسبَق ومشكلةُ الانتقال (Presupposition & the Projection Problem)", type: "مفهوم"
 - id: "con-focus-particles", title: "جسيماتُ التركيز (Focus Particles)", type: "مفهوم"
 - id: "con-generalized-quantifiers-barwise-cooper", title: "الكمّياتُ المعمَّمة عند بارواز وكوبر (Generalized Quantifiers)", type: "مفهوم"
+- id: "thk-angelika-kratzer", title: "أنجيليكا كراتزر", type: "مفكر"
+- id: "con-kratzer-modal-base-ordering-source", title: "القاعدةُ الموجِّهيةُ ومصدرُ الترتيب عند كراتزر (Modal Base & Ordering Source)", type: "مفهوم"
 gaps:
   - "لا `belongs_to`/`evolved_from`: نشأت الدلالةُ الصوريةُ من تقاطع المنطق الرياضي بأعمال مونتاغيو المنطقية المستقلة عن سلالة تشومسكي التوليدية، لا كامتدادٍ تاريخيٍّ مباشرٍ منها؛ سُجِّلت العلاقةُ بـ`related` لا بعلاقة انحدار."
+  - "**سُدَّ بالكامل 2026-09-22 (الدفعة 238)**: أُنشئت `thk-angelika-kratzer` وعقدتُها المفهومية `con-kratzer-modal-base-ordering-source`، مستشهَدٌ بعملها المشترك مع Heim في مصادر هذا الملفّ دون أن تكون هي نفسُها موصولةً بعقدةٍ سابقاً."
 ---
 
 # الدلالةُ الصوريةُ ونحوُ مونتاغيو
