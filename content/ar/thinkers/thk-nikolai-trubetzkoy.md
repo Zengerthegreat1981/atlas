@@ -21,6 +21,8 @@ related:
 - id: "thk-roman-jakobson", title: "رومان ياكوبسون", type: "مفكر"
 - id: "con-phoneme", title: "الفونيم", type: "مفهوم"
 - id: "con-distinctive-features-phonology", title: "السماتُ التمييزية (Distinctive Features)", type: "مفهوم"
+- id: "sch-prague-linguistic-circle", title: "حلقةُ براغ اللسانية (Prague Linguistic Circle)", type: "مدرسة"
+- id: "wrk-grundzuge-der-phonologie-trubetzkoy", title: "أسسُ الصواتة (Grundzüge der Phonologie)", type: "أثر"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لعمل تروبتسكوي الأصلي ضمن مصادر الأطلس؛ الاعتماد على النصوص الإنجليزية والألمانية المتخصّصة."
 ---
