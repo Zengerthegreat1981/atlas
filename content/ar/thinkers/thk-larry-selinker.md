@@ -19,6 +19,7 @@ edges:
 related:
 - id: "sch-second-language-acquisition", title: "اكتسابُ اللغة الثانيةُ والفترةُ الحرجة (SLA & Critical Period)", type: "مدرسة"
 - id: "con-overregularization-past-tense-debate", title: "فرطُ التقعيد وجدلُ الأزمنة الفعلية الماضية (Overregularization & the Past-Tense Debate)", type: "مفهوم"
+- id: "con-fossilization-interlanguage-selinker", title: "اللغةُ البينية والتحجّرُ عند سيلينكر (Interlanguage & Fossilization)", type: "مفهوم"
 gaps: []
 ---
 

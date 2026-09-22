@@ -22,6 +22,7 @@ related:
 - id: "thk-larry-selinker", title: "لاري سيلينكر", type: "مفكر"
 - id: "con-language-transfer-l1-interference", title: "انتقالُ اللغة والتداخلُ من اللغة الأولى (Language Transfer & L1 Interference)", type: "مفهوم"
 - id: "con-krashen-monitor-model", title: "نموذجُ المُرَاقِب وفرضياتُ كراشن الخمس (Monitor Model)", type: "مفهوم"
+- id: "con-fossilization-interlanguage-selinker", title: "اللغةُ البينية والتحجّرُ عند سيلينكر (Interlanguage & Fossilization)", type: "مفهوم"
 gaps:
   - "حيادٌ صريحٌ إزاء مدى انطباق فرضية الفترة الحرجة على اللغة الثانية تحديداً (بخلاف اللغة الأولى، موضعُ إجماعٍ أوسع): الأدلةُ التجريبية مختلَطة حول وجود عتبةٍ عمريةٍ حادّة أو تدرّجٍ تدريجيٍّ في القدرة على إتقان لغةٍ ثانية؛ لا يُرجَّح موقفٌ هنا."
 ---

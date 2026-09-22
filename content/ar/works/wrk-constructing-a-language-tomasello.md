@@ -1,6 +1,6 @@
 ---
 slug: "wrk-constructing-a-language-tomasello"
-id: "WRK-10842"
+id: "WRK-10847"
 type: "أثر"
 part: "linguistics"
 level: "متقدم"
