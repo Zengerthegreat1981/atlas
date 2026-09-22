@@ -22,6 +22,8 @@ related:
 - id: "con-semantic-prosody-corpus", title: "العروضُ الدلاليّ في لسانيات المدوّنات (Semantic Prosody)", type: "مفهوم"
 - id: "thk-michael-hoey", title: "مايكل هوي", type: "مفكر"
 - id: "con-lexical-priming-hoey", title: "التنشيطُ المعجميّ (Lexical Priming)", type: "مفهوم"
+- id: "con-idiom-principle-open-choice", title: "مبدأُ الدليل النصّي ومبدأُ الاختيار المفتوح (Idiom Principle & Open-Choice Principle)", type: "مفهوم"
+- id: "wrk-cobuild-dictionary-project", title: "قاموسُ Collins COBUILD ومشروعُ بنك اللغة الإنجليزية", type: "أثر"
 gaps:
   - "لا `belongs_to`/`evolved_from`: نشأت لسانياتُ المدوّنات كردِّ فعلٍ منهجيٍّ مباشر على الاعتماد التوليديّ على حدس المتكلم (`ins-grammaticality-judgments`)، لا كامتدادٍ تاريخيٍّ من مدرسةٍ سابقة؛ العلاقةُ نقديةٌ سُجِّلت بـ`related`."
 ---
