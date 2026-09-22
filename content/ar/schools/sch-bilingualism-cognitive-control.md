@@ -23,6 +23,7 @@ related:
 - id: "crt-bilingual-advantage-replication-crisis", title: "أزمةُ تكرار «ميزة ثنائية اللغة» المعرفية", type: "نقد خارجي موثَّق"
 - id: "thk-david-green", title: "ديفيد غرين", type: "مفكر"
 - id: "con-inhibitory-control-model-bilingualism", title: "نموذجُ التحكّم الكابح عند غرين (Inhibitory Control Model)", type: "مفهوم"
+- id: "con-adaptive-control-hypothesis-green-abutalebi", title: "فرضيةُ التحكّم التكيّفي عند غرين وأبوطالبي (Adaptive Control Hypothesis)", type: "مفهوم"
 gaps:
   - "لا `belongs_to`: فرعٌ يجمع علمَ اللغة النفسي بعلم النفس المعرفي، لا ينحدر تاريخياً من مدرسةٍ لسانيةٍ واحدة."
 ---
