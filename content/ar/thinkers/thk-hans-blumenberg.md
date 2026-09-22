@@ -20,9 +20,10 @@ related:
 - id: "sch-myth-theory-religious-studies", title: "نظرياتُ الأسطورة في علم الأديان المقارن", type: "مدرسة"
 - id: "thk-claude-levi-strauss", title: "كلود ليفي-ستراوس", type: "مفكر"
 - id: "thk-joseph-campbell", title: "جوزيف كامبل", type: "مفكر"
+- id: "con-reoccupation-umbesetzung-blumenberg", title: "إعادةُ الاحتلال (Umbesetzung) عند بلومنبرغ", type: "مفهوم"
 gaps:
   - "علاقتُه بكارل شميت (الجدل حول 'علمنة' المفاهيم اللاهوتية، *Political Theology*) مذكورةٌ إجمالاً في المتن، ولا يوجد ملفٌ مستقلٌّ لشميت ضمن هذا القسم تحديداً؛ فجوةٌ للربط المستقبلي إن أُنشئ."
-  - "لا يوجد بعد ملفُّ مفهومٍ مستقل لـ'إعادة الاحتلال' (Umbesetzung) رغم أهميتها المفهومية في أطروحته؛ تُرك للدفعة القادمة."
+  - "**سُدَّت 2026-09-22 (الدفعة 123):** أُضيف ملفّ مفهومٍ مستقل لـ'إعادة الاحتلال' — `con-reoccupation-umbesetzung-blumenberg`."
 ---
 
 # هانس بلومنبرغ
