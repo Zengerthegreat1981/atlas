@@ -25,6 +25,8 @@ related:
 - id: "con-gestural-origin-hypothesis", title: "فرضيةُ الأصل الإيمائي للغة (Gestural Origin Hypothesis)", type: "مفهوم"
 - id: "thk-simon-kirby", title: "سايمون كيربي", type: "مفكر"
 - id: "con-iterated-learning-model-kirby", title: "نموذجُ التعلّم التكراري عند كيربي (Iterated Learning Model)", type: "مفهوم"
+- id: "thk-robin-dunbar", title: "روبن دَنبار", type: "مفكر"
+- id: "con-social-grooming-gossip-hypothesis-dunbar", title: "فرضيةُ العناية الاجتماعية والثرثرة عند دَنبار (Social Grooming & Gossip Hypothesis)", type: "مفهوم"
 gaps:
   - "حيادٌ صريحٌ محفوظ: خلافُ هاوزر/تشومسكي/فيتش (2002) وبنكر/جاكندوف (2005) حول ما إذا كانت ملَكةُ اللغة تطوّرت كتكيّفٍ متخصّصٍ منفصل أم كإعادة توظيفٍ لقدراتٍ معرفيةٍ عامّة، لا يزال جدلاً علمياً مفتوحاً؛ لا يُرجَّح طرفٌ هنا."
 ---
