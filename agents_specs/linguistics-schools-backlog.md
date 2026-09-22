@@ -912,3 +912,11 @@
 - الدفعاتُ الأخيرة: 249 (`con-linking-algorithm-rrg`، أُعيد ترقيمُها CON-11746 بعد تصادم)، 250 (`con-semiotic-processes-irvine-gal` + سدّ رابطٍ ناقص لـ`thk-judith-irvine`).
 - التشخيصُ الحاليّ لأدنى `belongs_to`-count يحتاج إعادةَ تشغيلٍ في الدفعة القادمة (القائمةُ السابقة استُهلكت بالكامل تقريباً: bilingualism، construction-grammar، copenhagen-glossematics، formal-semantics، greco-latin، greimassian، gricean، language-and-gender، lexical-functional، minimalist، modern-arabic، paninian، peircean، role-and-reference، language-ideology — جميعُها عُولجت هذه الجولة).
 - البروتوكولُ التشغيليّ نفسُه ساري بلا تغيير، بما فيه توثيقُ حوادث سحب الملفّات الموازية البسيطة دون أيّ إجراءٍ تصحيحيٍّ تدميري، وإعادةُ ترقيم أيّ تصادم id فور اكتشافه عبر `check_content_integrity.py`. الأمرُ التوجيهيُّ الأخير من المنسِّق: الاستمرارُ الفوريُّ بلا توقّف، وعدم كتابة تقرير إغلاقٍ إلا عند نفاد السياق الفعليّ تماماً.
+
+## ⚠️ حالةٌ مقيسة (تحديث، الدفعة 253)
+
+- عقدُ اللسانيات الحيّة: **411**.
+- آخر تثبيتٍ ناجح: commit `c4bb154c` (الدفعة 253، المسنِدات التصنيفية والاتفاق المكاني في لغة الإشارة).
+- الدفعاتُ الأخيرة: 251 (`con-seven-standards-textuality-beaugrande-dressler`)، 252 (`thk-michael-long` + `con-interaction-hypothesis-long`)، 253 (`con-classifier-predicates-spatial-agreement-sign-language`).
+- التشخيصُ التالي: `sch-structuralist-semiology`، `sch-translation-studies`، `sch-usage-based-grammar` لا تزال عند 5؛ نقطةُ البدء للدفعة القادمة.
+- البروتوكولُ التشغيليّ نفسُه ساري بلا تغيير. الأمرُ التوجيهيُّ الأخير من المنسِّق: الاستمرارُ الفوريُّ بلا توقّف، وعدم كتابة تقرير إغلاقٍ إلا عند نفاد السياق الفعليّ تماماً.
