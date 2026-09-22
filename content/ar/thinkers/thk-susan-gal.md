@@ -21,6 +21,7 @@ related:
 - id: "thk-michael-silverstein", title: "مايكل سيلفرستاين", type: "مفكر"
 - id: "thk-judith-irvine", title: "جوديث إرڤين", type: "مفكر"
 - id: "con-standard-language-ideology", title: "أيديولوجيا اللغة المعيارية (Standard Language Ideology)", type: "مفهوم"
+- id: "con-semiotic-processes-irvine-gal", title: "العملياتُ السيميائيةُ الثلاث عند إرڤين وغال: الأَيقنةُ والمَحوُ والتكرارُ الكسوري", type: "مفهوم"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرتها؛ الاعتمادُ على مصادرها الإنجليزية الأساسية."
 ---

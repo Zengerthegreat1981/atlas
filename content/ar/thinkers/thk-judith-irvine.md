@@ -18,7 +18,11 @@ edges:
 - rel: "belongs_to", target: "sch-language-ideology", target_type: "مدرسة"
 related:
 - id: "thk-michael-silverstein", title: "مايكل سيلفرستاين", type: "مفكر"
-gaps: []
+- id: "sch-language-ideology", title: "الأيديولوجياتُ اللغوية (Language Ideology)", type: "مدرسة"
+- id: "thk-susan-gal", title: "سوزان غال", type: "مفكر"
+- id: "con-semiotic-processes-irvine-gal", title: "العملياتُ السيميائيةُ الثلاث عند إرڤين وغال: الأَيقنةُ والمَحوُ والتكرارُ الكسوري", type: "مفهوم"
+gaps:
+  - "**سُدَّ 2026-09-22 (الدفعة 250)**: أُضيف رابطُ `sch-language-ideology` الذي كان ناقصاً رغم أن هذه العقدةَ تنتمي إليها موضوعياً."
 ---
 
 # جوديث إرڤين
