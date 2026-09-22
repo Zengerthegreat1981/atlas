@@ -29,6 +29,7 @@ related:
 - id: "con-cartographic-approach-split-cp-rizzi", title: "المقاربةُ الخرائطية وتفتيتُ طبقة المُتَمِّم عند ريتزي (Cartography & Split-CP)", type: "مفهوم"
 - id: "con-copy-theory-of-movement-minimalism", title: "نظريةُ النسخ في الحركة النحوية (Copy Theory of Movement)", type: "مفهوم"
 - id: "con-bare-phrase-structure-chomsky", title: "البنيةُ العباراتية المجرَّدة عند تشومسكي (Bare Phrase Structure)", type: "مفهوم"
+- id: "con-successive-cyclic-movement-pic", title: "الحركةُ التتابعيةُ الدورية وشرطُ عدم النفاذية الطَوري (Successive-Cyclic Movement & PIC)", type: "مفهوم"
 gaps:
   - "`thk-noam-chomsky` موسومٌ `philosophy` (DR-014) ولم يُكرَّر؛ العقدةُ تفرد المرحلةَ التقنية الأحدث من نظريته دون تكرار سيرته."
   - "**سُدَّ 2026-09-22 (الدفعة 162)**: أُنشئ `con-merge-operation-minimalism` (عمليةُ الدمج، الدمجُ الخارجي والداخلي)."
