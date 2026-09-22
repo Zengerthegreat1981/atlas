@@ -32,6 +32,7 @@ related:
 - id: "con-thematic-progression-danes", title: "التقدّمُ الموضوعي عند دانش (Thematic Progression)", type: "مفهوم"
 - id: "con-given-new-information-system-halliday", title: "نظامُ المعطى والجديد عند هاليداي (Given/New Information)", type: "مفهوم"
 - id: "thk-wolfgang-dressler", title: "ولفغانغ دريسلر", type: "مفكر"
+- id: "thk-frantisek-danes", title: "فرانتيشك دانش", type: "مفكر"
 gaps: []
 ---
 

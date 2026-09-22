@@ -16,8 +16,9 @@ related:
 - id: "con-cohesive-ties-halliday-hasan", title: "أدواتُ الاتساق الخمس عند هاليداي وحسن (Cohesive Ties)", type: "مفهوم"
 - id: "sch-prague-linguistic-circle", title: "حلقةُ براغ اللسانية (Prague Linguistic Circle)", type: "مدرسة"
 - id: "con-theme-system-halliday", title: "نظامُ الموضوع عند هاليداي (Theme System)", type: "مفهوم"
+- id: "thk-frantisek-danes", title: "فرانتيشك دانش", type: "مفكر"
 gaps:
-  - "لم يُعثر على عقدةٍ مستقلّةٍ لفرانتيشك دانش ضمن الأطلس؛ العقدةُ تُشير إلى عمله مباشرةً."
+  - "**سُدَّ 2026-09-22**: أُنشئ `thk-frantisek-danes` ورُبط أعلاه."
 ---
 
 # التقدّمُ الموضوعي عند دانش
