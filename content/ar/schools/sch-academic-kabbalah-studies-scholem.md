@@ -28,8 +28,11 @@ related:
 - id: "thk-isaac-luria", title: "إسحاق لوريا (الأري)", type: "مفكر"
 - id: "thk-moshe-idel", title: "موشيه إيدل (Moshe Idel)", type: "مفكر"
 - id: "con-sabbatianism-scholarly-study", title: "السبتانية بوصفها موضوعَ دراسةٍ أكاديمية (Sabbatianism)", type: "مفهوم"
+- id: "thk-jacob-frank", title: "يعقوب فرانك (Jacob Frank)", type: "مفكر"
 gaps:
   - "الدفعة 196: سُدَّت الفجوتان الموثَّقتان سابقاً — أُضيف `thk-moshe-idel` (نقدُه المنهجيّ لسرديّة شوليم الخطّية) و`con-sabbatianism-scholarly-study` (مع عملِ شوليم *Sabbatai Ṣevi*، `wrk-sabbatai-sevi-mystical-messiah-scholem`) كعقدٍ جديدة مترابطة."
+  - "الدفعة 197: أُضيف `thk-jacob-frank` (الامتدادُ المتطرِّفُ للسبتانية، وفق قراءتَي شوليم وماچيَكو)."
+---
 
 # الدراسةُ الأكاديميةُ النقديةُ للقبّالة (غرشوم شوليم)
 
