@@ -16,6 +16,8 @@ edges:
 - rel: "belongs_to", target: "sch-ordinary-language", target_type: "مدرسة"
 related:
 - id: "sch-ordinary-language", title: "فلسفة اللغة العادية", type: "مدرسة"
+- id: "sch-gricean-pragmatics", title: "التداوليةُ الغرايسية (Gricean Pragmatics)", type: "مدرسة"
+- id: "wrk-logic-and-conversation-grice", title: "المنطقُ والمحادثة (Logic and Conversation)", type: "أثر"
 gaps:
   - "لم أعثر على اقتباس مباشر منسوب بصفحة محددة من محاضرات وليام جيمس (1967)."
 ---

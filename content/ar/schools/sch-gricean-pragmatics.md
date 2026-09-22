@@ -28,6 +28,7 @@ related:
 - id: "thk-kent-bach", title: "كنت باخ", type: "مفكر"
 - id: "con-impliciture-bach", title: "الإضمارُ التتميمي عند باخ (Impliciture)", type: "مفهوم"
 - id: "con-conventional-implicature-grice", title: "الإفهامُ الاصطلاحي عند غرايس (Conventional Implicature)", type: "مفهوم"
+- id: "wrk-logic-and-conversation-grice", title: "المنطقُ والمحادثة (Logic and Conversation)", type: "أثر"
 gaps:
   - "**تقاطعٌ مع فلسفة اللغة**: هربرت پول غرايس (`thk-pgrice`) موسومٌ `philosophy` وموجودٌ بالفعل في الأطلس بسيرته وفلسفته الكاملة؛ رُبط إليه هنا بـ`related` دون تكرار. هذه العقدةُ تفرد الأثرَ اللسانيَّ التطبيقيَّ لأفكاره (تحليلُ الخطاب الفعليّ، لا فلسفةُ اللغة العامّة) الذي تطوّر في علم اللغة التداوليّ بعده."
   - "لا `belongs_to`: عقدةٌ جذريةٌ لا تنحدر تاريخياً من مدرسةٍ لسانيةٍ أخرى في هذا القسم؛ نشأت من محاضرات غرايس الفلسفية ثم تبنّاها علمُ اللغة كإطارٍ تحليليّ."
