@@ -14,6 +14,7 @@ edges:
 related:
 - id: "sch-basra-kufa-grammatical-dispute", title: "مدرسةُ الكوفة والخلافُ النحويّ (Kufa Grammatical School)", type: "مدرسة"
 - id: "sch-arabic-grammatical-tradition", title: "التقليد النحوي واللغوي العربي الكلاسيكي", type: "مدرسة"
+- id: "con-amil-grammatical-operant-arabic", title: "نظريةُ العامل في النحو العربي (Naẓariyyat al-ʿĀmil)", type: "مفهوم"
 gaps: []
 ---
 

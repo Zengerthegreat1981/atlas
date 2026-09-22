@@ -21,6 +21,7 @@ related:
 - id: "wrk-al-insaf-masail-al-khilaf-ibn-al-anbari", title: "الإنصافُ في مسائل الخلاف بين النحويين البصريين والكوفيين", type: "أثر"
 - id: "thk-sibawayh", title: "سيبويه (عمرو بن عثمان بن قنبر)", type: "مفكر"
 - id: "thk-al-kisai", title: "الكسائي", type: "مفكر"
+- id: "con-amil-grammatical-operant-arabic", title: "نظريةُ العامل في النحو العربي (Naẓariyyat al-ʿĀmil)", type: "مفهوم"
 gaps:
   - "لم يُعثر على ترجمةٍ إنجليزيةٍ كاملة موثَّقة لكتابه الرئيسي ضمن مصادر الأطلس؛ الاعتمادُ على النصّ العربي الأصلي والدراسات الثانوية."
 ---
