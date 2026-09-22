@@ -22,6 +22,7 @@ related:
 - id: "thk-katyayana", title: "كاتيايانا", type: "مفكر"
 - id: "thk-patanjali-grammarian", title: "پاتنجلي النحويّ", type: "مفكر"
 - id: "con-sphota-linguistic-burst-bhartrihari", title: "السفوتا والانفجار الدلالي للمعنى (Sphota)", type: "مفهوم"
+- id: "con-karaka-theory-panini", title: "نظريةُ الكاراكا عند بانيني (Kāraka Theory)", type: "مفهوم"
 gaps:
   - "لا `belongs_to`: تقليدٌ نحويٌّ مستقلٌّ نشأ في الهند القديمة بمعزلٍ تامٍّ عن التقاليد اليونانية والعربية، دون رابطٍ تاريخيٍّ مباشرٍ يصحّ عقدُ علاقة انتماء منه أو إليه."
 ---
