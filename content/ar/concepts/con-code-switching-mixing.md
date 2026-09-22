@@ -14,8 +14,11 @@ edges:
 related:
 - id: "con-diglossia", title: "الازدواجيةُ اللغوية (Diglossia)", type: "مفهوم"
 - id: "thk-john-gumperz", title: "جون گمپرز (John J. Gumperz)", type: "مفكر"
+- id: "thk-carol-myers-scotton", title: "كارول ميرز-سكوتون", type: "مفكر"
+- id: "con-matrix-language-frame-model", title: "نموذجُ اللغة الإطارية (Matrix Language Frame Model)", type: "مفهوم"
 gaps:
   - "`thk-john-gumperz` موسومٌ `anthropology` وموجودٌ بالفعل في الأطلس (اللسانيات التفاعلية)؛ رُبط إليه بـ`related` دون تكرار سيرته، بوصفه من أوائل من درس التبديل الرمزي منهجياً."
+  - "**سُدَّ 2026-09-22 (الدفعة 183)**: أُنشئ `thk-carol-myers-scotton` وcon-matrix-language-frame-model` لتفصيل القيود النحوية الداخلية للتبديل الرمزي."
 ---
 
 # التبديلُ والمزجُ الرمزي
