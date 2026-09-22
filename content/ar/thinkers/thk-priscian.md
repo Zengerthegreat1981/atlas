@@ -23,6 +23,7 @@ related:
 - id: "thk-apollonius-dyscolus", title: "أپولونيوس ديسكولوس", type: "مفكر"
 - id: "thk-varro", title: "مركوس ترنتيوس ڤارو", type: "مفكر"
 - id: "thk-aelius-donatus", title: "إيليوس دوناتوس", type: "مفكر"
+- id: "wrk-institutiones-grammaticae-priscian", title: "المبادئُ النحوية", type: "أثر"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لأعماله الأصلية ضمن مصادر الأطلس؛ الاعتمادُ على الدراسات الثانوية الإنجليزية المتخصّصة."
 ---
