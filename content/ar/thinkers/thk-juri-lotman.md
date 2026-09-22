@@ -19,8 +19,12 @@ edges:
 - rel: "belongs_to", target: "sch-biosemiotics-tartu", target_type: "مدرسة"
 related:
 - id: "sch-structuralist-semiology", title: "السيميولوجيا السوسيرية وامتدادُها (Structuralist Semiology)", type: "مدرسة"
+- id: "sch-biosemiotics-tartu", title: "مدرسةُ تارتو والسيمياءُ الحيوية (Tartu-Moscow School & Biosemiotics)", type: "مدرسة"
+- id: "con-semiosphere-lotman", title: "الغلافُ السيميائي (Semiosphere)", type: "مفهوم"
+- id: "con-secondary-modeling-systems-tartu", title: "أنظمةُ النمذجة الأوّلية والثانوية عند مدرسة تارتو-موسكو", type: "مفهوم"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لأعمال لوتمان الأصلية ضمن مصادر الأطلس؛ الاعتماد على مصادره المترجَمة إلى الإنجليزية."
+  - "**سُدَّ 2026-09-22 (الدفعة 258)**: أُضيفت روابطُ `sch-biosemiotics-tartu` و`con-semiosphere-lotman` الناقصتان رغم انتماء لوتمان إليهما موضوعياً بوصفه مؤسِّسَ المدرسة."
 ---
 
 # يوري لوتمان

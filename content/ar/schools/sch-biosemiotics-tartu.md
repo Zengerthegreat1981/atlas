@@ -23,6 +23,7 @@ related:
 - id: "con-zoosemiotics-sebeok", title: "السيمياءُ الحيوانية (Zoosemiotics)", type: "مفهوم"
 - id: "thk-jakob-von-uexkull", title: "ياكوب فون أوكسكول", type: "مفكر"
 - id: "con-umwelt-uexkull", title: "العالمُ المحيط الخاصّ (Umwelt)", type: "مفهوم"
+- id: "con-secondary-modeling-systems-tartu", title: "أنظمةُ النمذجة الأوّلية والثانوية عند مدرسة تارتو-موسكو", type: "مفهوم"
 gaps: []
 ---
 
