@@ -22,6 +22,7 @@ related:
 - id: "sch-usage-based-grammar", title: "النحوُ الناشئُ عن الاستعمال (Usage-Based Grammar)", type: "مدرسة"
 - id: "con-frequency-entrenchment-bybee", title: "التواتُرُ والترسّخُ عند بايبي (Frequency & Entrenchment)", type: "مفهوم"
 - id: "thk-george-zipf", title: "جورج زيبف", type: "مفكر"
+- id: "con-exemplar-theory-bybee", title: "نظريةُ النماذج المِثالية عند بايبي (Exemplar Theory)", type: "مفهوم"
 gaps: []
 ---
 

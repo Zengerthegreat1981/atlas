@@ -26,6 +26,7 @@ related:
 - id: "thk-george-zipf", title: "جورج زيبف", type: "مفكر"
 - id: "con-zipfs-law-frequency-distribution", title: "قانونُ زيبف وتوزيعُ التواتر اللغوي (Zipf's Law)", type: "مفهوم"
 - id: "con-intention-reading-pattern-finding-tomasello", title: "قراءةُ النيّة وإيجادُ النمط عند توماسيلو", type: "مفهوم"
+- id: "con-exemplar-theory-bybee", title: "نظريةُ النماذج المِثالية عند بايبي (Exemplar Theory)", type: "مفهوم"
 gaps: []
 ---
 
