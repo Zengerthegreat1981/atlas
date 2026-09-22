@@ -20,8 +20,10 @@ related:
 - id: "thk-al-sakkaki", title: "أبو يعقوب السكّاكي", type: "مفكر"
 - id: "thk-al-jurjani", title: "عبد القاهر الجرجاني", type: "مفكر"
 - id: "con-nazm-theory-jurjani", title: "نظرية النظم عند الجرجاني (Nazm Theory)", type: "مفهوم"
+- id: "thk-al-khatib-al-qazwini", title: "الخطيبُ القزويني", type: "مفكر"
+- id: "wrk-talkhis-al-miftah-qazwini", title: "تلخيصُ المفتاح", type: "أثر"
 gaps:
-  - "الخطيب القزويني، صاحبُ *تلخيص المفتاح* الذي صار المتنَ المعتمَد لتدريس البلاغة، لم يُفرَد بعد كمفكرٍ مستقل."
+  - "**سُدَّ بالكامل 2026-09-22 (الدفعة 165)**: أُنشئ `thk-al-khatib-al-qazwini` و`wrk-talkhis-al-miftah-qazwini`."
 ---
 
 # علومُ البلاغة العربية: المعاني والبيان والبديع
