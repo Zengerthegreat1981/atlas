@@ -17,6 +17,7 @@ related:
 - id: "thk-robert-van-valin", title: "روبرت ﭬان ﭬالِن", type: "مفكر"
 - id: "con-argument-structure-lexicon", title: "بنيةُ الحجج المعجمية (Argument Structure)", type: "مفهوم"
 - id: "con-ergativity", title: "النمطُ الفاعلي-المفعولي مقابل الإرغاتيفي (Nominative-Accusative vs. Ergative Alignment)", type: "مفهوم"
+- id: "con-logical-structure-aktionsart-rrg", title: "البنيةُ المنطقية وأصنافُ الأكتيونسآرت في نحو الدور والمرجع", type: "مفهوم"
 gaps: []
 ---
 
