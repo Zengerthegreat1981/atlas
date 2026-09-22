@@ -27,6 +27,7 @@ related:
 - id: "con-brown-corpus-founding", title: "مدوّنةُ براون: أوّلُ مدوّنةٍ لغويةٍ إلكترونية ممثِّلة", type: "مفهوم"
 - id: "thk-douglas-biber", title: "دوغلاس بايبر", type: "مفكر"
 - id: "con-multidimensional-analysis-biber", title: "التحليلُ متعدِّدُ الأبعاد للتنوّع السجلّي عند بايبر (Multi-Dimensional Analysis)", type: "مفهوم"
+- id: "con-keyword-keyness-analysis-corpus", title: "تحليلُ الكلمات المفتاحية والقيمةِ الإحصائية المميِّزة (Keyword & Keyness Analysis)", type: "مفهوم"
 gaps:
   - "لا `belongs_to`/`evolved_from`: نشأت لسانياتُ المدوّنات كردِّ فعلٍ منهجيٍّ مباشر على الاعتماد التوليديّ على حدس المتكلم (`ins-grammaticality-judgments`)، لا كامتدادٍ تاريخيٍّ من مدرسةٍ سابقة؛ العلاقةُ نقديةٌ سُجِّلت بـ`related`."
 ---
