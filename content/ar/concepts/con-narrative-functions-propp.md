@@ -15,6 +15,7 @@ related:
 - id: "sch-greimassian-semiotics", title: "سيمياءُ غريماس والمربّعُ السيميائي (Greimassian Structural Semantics)", type: "مدرسة"
 - id: "thk-vladimir-propp", title: "ﭬلاديمير بروب", type: "مفكر"
 - id: "con-actantial-model-narrative", title: "النموذجُ العامليُّ للسرد (Actantial Model)", type: "مفهوم"
+- id: "wrk-morphology-of-the-folktale-propp", title: "مورفولوجيا الحكاية الشعبية (Morphology of the Folktale)", type: "أثر"
 gaps: []
 ---
 

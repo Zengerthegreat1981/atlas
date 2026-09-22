@@ -21,6 +21,7 @@ related:
 - id: "thk-algirdas-greimas", title: "ألجيرداس غريماس", type: "مفكر"
 - id: "con-actantial-model-narrative", title: "النموذجُ العامليُّ للسرد (Actantial Model)", type: "مفهوم"
 - id: "con-narrative-functions-propp", title: "الوظائفُ السرديةُ الواحدةُ والثلاثون عند بروب", type: "مفهوم"
+- id: "wrk-morphology-of-the-folktale-propp", title: "مورفولوجيا الحكاية الشعبية (Morphology of the Folktale)", type: "أثر"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لكتابه الأصلي ضمن مصادر الأطلس؛ الاعتمادُ على الترجمة الإنجليزية المرجعية."
 ---
