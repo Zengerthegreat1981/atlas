@@ -21,9 +21,10 @@ related:
 - id: "con-sanskrit-cosmopolis-pollock", title: "الكوزموپوليس السنسكريتيّ (Sanskrit Cosmopolis)", type: "مفهوم"
 - id: "thk-max-muller", title: "فريدريش ماكس مولر", type: "مفكر"
 - id: "wrk-murty-classical-library-india-pollock", title: "مكتبةُ مورتي الكلاسيكية للهند (Murty Classical Library of India)", type: "عمل / سلسلة"
+- id: "dbt-pollock-removal-petition-murty-2015-16", title: "جدلُ عريضة عزل پولوك من هيئة تحرير مكتبة مورتي الكلاسيكية (٢٠١٥–٢٠١٦)", type: "جدل"
 gaps:
   - "سُدَّت 2026-09-22 (الدفعة 146): دورُ پولوك محرِّراً عامّاً مؤسِّساً لسلسلة Murty Classical Library of India له الآن ملفٌّ مستقل: `wrk-murty-classical-library-india-pollock`."
-  - "الجدلُ حول عريضة 2015 (توقيع پولوك على بيانٍ يخصّ 'حالة الحرية الأكاديمية في الهند' وما تلاه من حملةٍ لعزله من هيئة تحرير Murty Classical Library بضغطٍ من جماعاتٍ قومية هندوسية) لم يُفرَد بملفّ حدثٍ (`evt-`) أو جدلٍ (`dbt-`) مستقل رغم تقاطعه المباشر مع `sch-hindutva`/`dbt-hindutva-vs-secularism-india` الموجودين مسبقاً تحت philosophy؛ فجوةٌ موثَّقة لدفعةٍ لاحقة."
+  - "سُدَّت 2026-09-22 (دفعة لاحقة): جدلُ عريضة 2015-16 لعزل پولوك من هيئة تحرير Murty Classical Library له الآن ملفٌّ مستقل: `dbt-pollock-removal-petition-murty-2015-16`، مربوطٌ بـ`sch-hindutva`/`dbt-hindutva-vs-secularism-india`."
 ---
 
 # شيلدون پولوك (Sheldon Pollock)
