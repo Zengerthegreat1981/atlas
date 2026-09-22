@@ -28,7 +28,9 @@ related:
 - id: "con-henotheism-muller", title: "الهينوثية (Henotheism) عند ماكس مولر", type: "مفهوم"
 - id: "wrk-introduction-to-the-science-of-religion-muller", title: "مقدّمةٌ إلى علم الدين (Introduction to the Science of Religion)", type: "عمل / كتاب"
 - id: "con-animism-tylor", title: "الإحيائية عند تايلور (Animism)", type: "مفهوم"
+- id: "sch-academic-hindu-studies-flood-lipner", title: "دراسةُ الهندوسية الأكاديمية المعاصرة: غافن فلود ويوليوس ليبنر", type: "مدرسة"
 gaps:
+  - "سُدَّت 2026-09-22: الجيلُ الأكاديميّ المعاصر الذي واصل دراسة الهندوسية تحديداً (بعد تحقيقه هو لريج فيدا) موثَّقٌ الآن في `sch-academic-hindu-studies-flood-lipner` (فلود وليبنر)."
   - "سُدَّت 2026-09-22 (دفعةُ تعميقٍ تالية): محاضراتُه التأسيسية *Introduction to the Science of Religion* (1870/1873)، حيث صاغ مبدأه 'من يعرف ديناً واحداً لا يعرف ديناً'، فُصِّلت الآن في ملفّ عملٍ مستقل: `wrk-introduction-to-the-science-of-religion-muller`."
   - "سُدَّت 2026-09-22 (دفعةُ التعميق التالية): مفهومُه الثاني المحوري 'الهينوثية' (Henotheism) — تصنيفُه لبنية العبادة الفيدية بين التوحيد وتعدُّد الآلهة — فُصِّل الآن في ملفّ مفهومٍ مستقل: `con-henotheism-muller`، دون تكرار سيرته هنا."
   - "أُضيف رابطٌ إلى `sch-academic-buddhist-indic-studies` (علمُ الأديان المقارن، الدفعة 23) الذي يوثّق تحقيقه لطبعة ريج فيدا وسلسلة كتب الشرق المقدَّسة، وعلاقته بمعلّمه أوجين بورنوف، دون تكرار سيرته هنا."
