@@ -28,6 +28,7 @@ related:
 - id: "con-immediate-constituent-analysis-bloomfield", title: "تحليلُ المكوِّنات المباشرة عند بلومفيلد (Immediate Constituent Analysis)", type: "مفهوم"
 - id: "con-item-arrangement-process-paradigm-hockett", title: "النماذجُ الثلاثةُ للوصف الصرفي عند هوكِت (IA/IP/WP)", type: "مفهوم"
 - id: "thk-kenneth-pike", title: "كينيث پايك", type: "مفكر"
+- id: "thk-martin-joos", title: "مارتن جوس", type: "مفكر"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`)؛ نشأت مستقلةً عن البنيوية السوسيرية الأوروبية إلى حدٍّ كبير — أثرُ سوسور عليها غيرُ موثَّقٍ بقوةٍ كافية لعقد `evolved_from`، فتُركت العلاقةُ بلا ربط تجنُّباً للجزم."
   - "**سُدَّ 2026-09-22 (الدفعة 170)**: `thk-edward-sapir` موجودٌ بالفعل في الأطلس تحت `part: anthropology` (أقربُ إلى النسبية اللغوية سابير-وورف)؛ رُبط أعلاه بـ`related` دون تكرار سيرته أو نقل وسمه."
