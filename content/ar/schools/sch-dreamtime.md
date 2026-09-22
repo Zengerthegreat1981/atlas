@@ -18,9 +18,11 @@ related:
 - id: "sch-kaupapa-maori", title: "Kaupapa Māori (فلسفة الماوري)", type: "مدرسة"
 - id: "sch-indigenous-philosophy-contemporary", title: "فلسفات السكان الأصليين المعاصرة (كمظلة نقدية عابرة للمناطق)", type: "مدرسة"
 - id: "con-dreamtime", title: "زمن الأحلام (Dreamtime / Tjukurrpa)", type: "مفهوم"
+- id: "sch-academic-aboriginal-australian-religion", title: "الدراسةُ الأكاديميةُ لديانات السكان الأصليين الأستراليين (Academic Study of Australian Aboriginal Religion)", type: "مدرسة"
 gaps:
   - "النصوص الأصلية للسكان الأصليين الأستراليين (شفهية) تحتاج مراجعة من المصدر الأولي."
   - "المصادر الأولية تحتاج مراجعة وتوثيقاً إضافياً."
+  - "**رُبط 2026-09-22**: أُضيف ملفٌّ شقيقٌ تحت `part: religious-studies` (`sch-academic-aboriginal-australian-religion`) يعالج المسألة من زاوية علم الأديان المقارن (كيف دَرَسَ الأكاديميّون هذا النسق ديناً) لا من زاوية الفلسفة المقارنة التي يتبنّاها هذا الملفّ. لا تكرارٌ في المضمون؛ العلاقةُ تكامليةٌ فقط."
 ---
 
 # Dreaming / Dreamtime (فلسفة السكان الأصليين الأستراليين)
