@@ -21,6 +21,7 @@ related:
 - id: "thk-mark-turner", title: "مارك تيرنر", type: "مفكر"
 - id: "con-conceptual-metaphor-theory", title: "نظريةُ الاستعارة المفهومية", type: "مفهوم"
 - id: "con-mental-spaces-fauconnier", title: "فضاءاتُ الذهن (Mental Spaces)", type: "مفهوم"
+- id: "con-four-space-blending-network", title: "شبكةُ المزج الرباعية الفضاءات (Four-Space Blending Network)", type: "مفهوم"
 gaps: []
 ---
 
