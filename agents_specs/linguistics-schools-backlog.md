@@ -972,3 +972,10 @@
 - الدفعاتُ الأخيرة: 269 (`thk-robyn-carston` + `con-lexical-pragmatics-ad-hoc-concepts-carston`)، 270 (`thk-ofelia-garcia` + `con-translanguaging-garcia`).
 - التشخيصُ الحاليّ لأدنى `belongs_to`-count يتضمّن الآن: greco-latin-grammatical-tradition، greimassian-semiotics، lexical-functional-grammar-hpsg، minimalist-program، modern-arabic-linguistics، role-and-reference-grammar، sentence-processing-psycholinguistics — كلّها عند 6.
 - البروتوكولُ التشغيليّ نفسُه ساري بلا تغيير، بما فيه توثيقُ حوادث سحب الملفّات الموازية دون أيّ إجراءٍ تصحيحيٍّ تدميري. الأمرُ التوجيهيُّ الأخير من المنسِّق: الاستمرارُ الفوريُّ بلا توقّف، وعدم كتابة تقرير إغلاقٍ إلا عند نفاد السياق الفعليّ تماماً.
+
+## ⚠️ حالةٌ مقيسة (تحديث، الدفعة 272)
+
+- عقدُ اللسانيات الحيّة: **434**.
+- آخر تثبيتٍ ناجح: commit `81f9affd` (الدفعة 272، إيليوس دوناتوس).
+- الدفعاتُ الأخيرة: 271 (`con-garden-path-minimal-attachment-frazier` + سدّ رابط)، 272 (`thk-aelius-donatus`).
+- البروتوكولُ التشغيليّ نفسُه ساري بلا تغيير. الأمرُ التوجيهيُّ الأخير من المنسِّق: الاستمرارُ الفوريُّ بلا توقّف، وعدم كتابة تقرير إغلاقٍ إلا عند نفاد السياق الفعليّ تماماً.
