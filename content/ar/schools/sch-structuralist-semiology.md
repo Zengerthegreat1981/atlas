@@ -20,6 +20,7 @@ related:
 - id: "thk-roland-barthes", title: "رولان بارت", type: "مفكر"
 - id: "sch-peircean-semiotics", title: "السيمياءُ البيرسية (Peircean Semiotics)", type: "مدرسة"
 - id: "con-myth-second-order-signification-barthes", title: "الأسطورةُ والدلالةُ من الدرجة الثانية عند بارت (Myth & Second-Order Signification)", type: "مفهوم"
+- id: "con-five-codes-sz-barthes", title: "الشفراتُ الخمس في S/Z عند بارت", type: "مفهوم"
 gaps:
   - "`thk-roland-barthes` موسومٌ `bridge` وموجودٌ بالفعل في الأطلس بسيرته الفكرية الكاملة؛ رُبط إليه بـ`related` دون تكرار. هذه العقدةُ تفرد الإطارَ السيميولوجيَّ الذي ورثه عن سوسور وطوّره تحليلياً."
 ---

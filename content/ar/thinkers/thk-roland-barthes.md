@@ -19,6 +19,7 @@ related:
 - id: "sch-post-structuralism", title: "ما بعد البنيوية (Post-structuralisme)", type: "مدرسة"
 - id: "sch-structuralist-semiology", title: "السيميولوجيا السوسيرية وامتدادُها (Structuralist Semiology)", type: "مدرسة"
 - id: "con-myth-second-order-signification-barthes", title: "الأسطورةُ والدلالةُ من الدرجة الثانية عند بارت (Myth & Second-Order Signification)", type: "مفهوم"
+- id: "con-five-codes-sz-barthes", title: "الشفراتُ الخمس في S/Z عند بارت", type: "مفهوم"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
 ---
