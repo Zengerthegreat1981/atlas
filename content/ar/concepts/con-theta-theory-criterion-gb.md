@@ -16,6 +16,7 @@ related:
 - id: "con-raising-control-verbs", title: "أفعالُ الرفعِ مقابل أفعال التحكّم (Raising vs. Control Verbs)", type: "مفهوم"
 - id: "con-unaccusativity-split-intransitivity", title: "اللاتعدّيةُ الانقسامية (Split Intransitivity / Unaccusativity)", type: "مفهوم"
 - id: "thk-noam-chomsky", title: "نعوم تشومسكي", type: "مفكر"
+- id: "con-thematic-proto-roles-dowty", title: "الأدوارُ الموضوعية البدئية عند داوتي (Thematic Proto-Roles)", type: "مفهوم"
 gaps: []
 ---
 
