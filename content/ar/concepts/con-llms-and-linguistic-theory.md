@@ -14,6 +14,7 @@ related:
 - id: "sch-computational-linguistics-nlp", title: "اللسانياتُ الحاسوبيةُ ومعالجةُ اللغة الطبيعية (Computational Linguistics & NLP)", type: "مدرسة"
 - id: "sch-generative-grammar", title: "النحوُ التوليديُّ التحويليّ (Generative-Transformational Grammar)", type: "مدرسة"
 - id: "dbt-innateness-vs-usage-based-language-acquisition", title: "جدلُ الفطرية اللغوية مقابل الاستعمالية في اكتساب اللغة", type: "جدل"
+- id: "con-transformer-attention-mechanism", title: "معماريةُ المحوِّل وآليةُ الانتباه (Transformer & Attention Mechanism)", type: "مفهوم"
 gaps:
   - "حيادٌ صريحٌ محفوظ: هذا الجدلُ لا يزال مفتوحاً بين لسانيين وباحثي تعلّمٍ آليّ دون ترجيحٍ علميٍّ حاسم؛ لا يعرض هذا الملفُّ طرفاً منتصراً، تماشياً مع توجيه المهمّة بشأن جدل الفطرية."
 ---
