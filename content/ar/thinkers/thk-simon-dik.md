@@ -19,7 +19,10 @@ edges:
 - rel: "belongs_to", target: "sch-role-and-reference-grammar", target_type: "مدرسة"
 related:
 - id: "thk-robert-van-valin", title: "روبرت ﭬان ﭬالِن", type: "مفكر"
+- id: "sch-role-and-reference-grammar", title: "النحوُ الوظيفيُّ ونحوُ الدور والمرجع (Functional Grammar & Role and Reference Grammar)", type: "مدرسة"
+- id: "con-predicate-frames-underlying-clause-dik", title: "أُطُرُ المسنَد والبنيةُ التحتيةُ للجملة عند ديك (Predicate Frames & the Underlying Clause)", type: "مفهوم"
 gaps:
+  - "**سُدَّ 2026-09-22 (الدفعة 276)**: أُضيف رابطُ `sch-role-and-reference-grammar` الناقص رغم كونه مؤسِّس النحو الوظيفي الذي تُصنَّف تحته هذه العقدة."
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لأعمال ديك الأصلية ضمن مصادر الأطلس؛ الاعتماد على النصوص الإنجليزية الأصلية."
 ---
 
