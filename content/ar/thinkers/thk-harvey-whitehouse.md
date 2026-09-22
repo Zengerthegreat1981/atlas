@@ -22,8 +22,10 @@ related:
 - id: "thk-pascal-boyer", title: "پاسكال بوييه", type: "مفكر"
 - id: "thk-scott-atran", title: "سكوت أتران", type: "مفكر"
 - id: "stu-pomio-kivung-fieldwork-whitehouse-1995", title: "العملُ الميدانيُّ التأسيسيُّ لوايتهاوس: طائفةُ Pomio Kivung في بابوا غينيا الجديدة (1995)", type: "دراسة وبحث"
+- id: "dbt-ritual-competence-vs-modes-of-religiosity", title: "جدلُ نظرية الكفاءة الطقسية مقابل أنماط التديُّن (مكولي ولوسون في مقابل وايتهاوس)", type: "جدل"
 gaps:
   - "سُدَّت 2026-09-22: تفاصيلُ العمل الميدانيّ التأسيسيّ في بابوا غينيا الجديدة (طائفة Pomio Kivung) لها الآن عقدةٌ مستقلة: `stu-pomio-kivung-fieldwork-whitehouse-1995`."
+  - "سُدَّت 2026-09-22: نقدُ مكولي ولوسون لثنائية العقائديّ/الصوريّ موثَّقٌ الآن في `dbt-ritual-competence-vs-modes-of-religiosity`."
   - "مشروعُه البحثيُّ الكبير اللاحق 'قاعدة بيانات جغرافيا الأديان التاريخية' (Seshat: Global History Databank) الذي يطبِّق نظرية الأنماط على بياناتٍ تاريخية ضخمة عبر آلاف السنين لم يُدرَج هنا؛ فجوةٌ موثَّقة لتوسّعٍ مستقبليّ محتمل إن اتّسع نطاق القسم."
 ---
 
