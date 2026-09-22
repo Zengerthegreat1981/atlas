@@ -15,6 +15,7 @@ related:
 - id: "sch-greimassian-semiotics", title: "سيمياءُ غريماس والمربّعُ السيميائي (Greimassian Structural Semantics)", type: "مدرسة"
 - id: "thk-algirdas-greimas", title: "ألجيرداس غريماس", type: "مفكر"
 - id: "thk-vladimir-propp", title: "ﭬلاديمير بروب", type: "مفكر"
+- id: "con-narratology-todorov", title: "علمُ السرد وأنماطُ الخطاب السردي عند تودوروف (Narratology)", type: "مفهوم"
 gaps: []
 ---
 
