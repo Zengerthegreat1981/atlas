@@ -27,6 +27,7 @@ related:
 - id: "con-dual-stream-model-hickok-poeppel", title: "نموذجُ المسارين البطنيّ والظهريّ لمعالجة اللغة (Dual-Stream Model)", type: "مفهوم"
 - id: "thk-norman-geschwind", title: "نورمان غيرشفيند", type: "مفكر"
 - id: "con-disconnection-syndrome-geschwind", title: "متلازمةُ الانفصال العصبي عند غيرشفيند (Disconnection Syndrome)", type: "مفهوم"
+- id: "syn-conduction-aphasia", title: "متلازمة حبسة التوصيل (عجز التكرار اللفظي المباشر)", type: "متلازمة"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`) — نشأ هذا التقليدُ من الطب العصبي السريري لا من اللسانيات النظرية، والتقى بها لاحقاً."
   - "المتلازمتان `syn-broca-aphasia` و`syn-wernicke-aphasia` موسومتان `psychology` في الأطلس (ضمن مجلد الاضطرابات السريرية)؛ لم يُعدَّل وسمُهما — هذا الملفُّ يربط إليهما بـ`related` بوصفهما الدليلَ الإكلينيكي المؤسِّس لهذا الفرع اللساني، لا يستنسخهما."
