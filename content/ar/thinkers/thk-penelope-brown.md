@@ -23,6 +23,7 @@ related:
 - id: "con-face-threatening-acts-strategies", title: "الأفعالُ المهدِّدة للوجه واستراتيجياتُ التخفيف المتدرِّجة", type: "مفهوم"
 - id: "con-rapport-management-spencer-oatey", title: "إدارةُ الوئام عند سپنسر-أوتي (Rapport Management)", type: "مفهوم"
 - id: "con-positive-negative-face-brown-levinson", title: "الوجهُ الإيجابيُّ والوجهُ السلبيُّ عند براون وليفنسون (Positive & Negative Face)", type: "مفهوم"
+- id: "wrk-politeness-some-universals-brown-levinson", title: "التأدّب: بعضُ الكلّيات في استعمال اللغة (Politeness: Some Universals in Language Usage)", type: "أثر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرتها؛ الاعتمادُ على مصادرها الإنجليزية الأساسية."
 ---
