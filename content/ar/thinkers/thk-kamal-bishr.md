@@ -22,6 +22,7 @@ related:
 - id: "thk-ibrahim-anis", title: "إبراهيم أنيس", type: "مفكر"
 - id: "thk-tammam-hassan", title: "تمّام حسّان", type: "مفكر"
 - id: "thk-ahmad-mukhtar-umar", title: "أحمد مختار عمر", type: "مفكر"
+- id: "wrk-ilm-al-lugha-al-ijtimai-bishr", title: "علمُ اللغة الاجتماعي: مدخل (كمال بِشر)", type: "أثر"
 gaps:
   - "لم يُعثر على ترجمةٍ إنجليزيةٍ أكاديميةٍ متخصّصةٍ بأعمال بِشر ضمن مصادر الأطلس؛ الاعتمادُ الرئيسي على مصادره العربية الأصلية."
 ---
