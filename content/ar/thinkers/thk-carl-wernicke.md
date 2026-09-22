@@ -22,6 +22,7 @@ related:
 - id: "thk-paul-broca", title: "پول بروكا", type: "مفكر"
 - id: "con-broca-wernicke-lichtheim-model", title: "نموذجُ بروكا-فيرنيكه-ليختهايم", type: "مفهوم"
 - id: "syn-wernicke-aphasia", title: "متلازمة حبسة فيرنيكه الاستقبالية (عمه فهم الكلام والتلفيق اللفظي)", type: "متلازمة"
+- id: "wrk-der-aphasische-symptomencomplex-wernicke", title: "المركَّبُ العرضيُّ للحُبسة (Der Aphasische Symptomencomplex)", type: "أثر"
 gaps:
   - "فيرنيكه طبيبُ أعصابٍ، لا لغويٌّ بالتخصص؛ يُدرَج هنا لأثره التأسيسي المباشر على علم اللغة العصبي، تماشياً مع نمط إدراج بروكا."
   - "متلازمةُ حبسة فيرنيكه (`syn-wernicke-aphasia`) موسومةٌ `psychology`؛ رُبطت هنا دون تعديل وسمها."
