@@ -21,8 +21,10 @@ related:
 - id: "wrk-purity-and-danger-douglas", title: "النقاءُ والخطر (Purity and Danger)", type: "عمل / كتاب"
 - id: "wrk-how-institutions-think-douglas", title: "كيف تفكِّر المؤسسات (How Institutions Think)", type: "عمل / كتاب"
 - id: "sch-symbolic-anthropology-of-religion", title: "الأنثروبولوجيا الرمزيةُ والتأويليةُ للدين: تيرنر ودوغلاس وغيرتز", type: "مدرسة"
+- id: "sch-food-religion-studies", title: "دراسةُ الدين والطعام أكاديمياً (Food and Religion Studies)", type: "مدرسة"
 gaps:
   - "أُضيف رابطٌ إلى `sch-symbolic-anthropology-of-religion` (علمُ الأديان المقارن، الدفعة 14) الذي يُبرز تحليلها لمحرَّمات الطعام الدينية تحديداً دون تكرار سيرتها هنا."
+  - "[دفعة 238] أُضيف رابطٌ عابرٌ للأقسام إلى `sch-food-religion-studies` (religious-studies) الذي يعتمد أطروحتَها في *Purity and Danger* جذراً نظرياً موازياً لدراسات فريدنريخ وروزنبلوم وفيشر وكهاره عن الطعام الدينيّ، دون أن يزعم هذا الرابطُ اعتماداً مباشراً مصرَّحاً به من كلِّ مؤلِّفٍ على حدة."
 ---
 # ماري دوغلاس (Mary Douglas)
 
