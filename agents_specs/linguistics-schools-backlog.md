@@ -920,3 +920,11 @@
 - الدفعاتُ الأخيرة: 251 (`con-seven-standards-textuality-beaugrande-dressler`)، 252 (`thk-michael-long` + `con-interaction-hypothesis-long`)، 253 (`con-classifier-predicates-spatial-agreement-sign-language`).
 - التشخيصُ التالي: `sch-structuralist-semiology`، `sch-translation-studies`، `sch-usage-based-grammar` لا تزال عند 5؛ نقطةُ البدء للدفعة القادمة.
 - البروتوكولُ التشغيليّ نفسُه ساري بلا تغيير. الأمرُ التوجيهيُّ الأخير من المنسِّق: الاستمرارُ الفوريُّ بلا توقّف، وعدم كتابة تقرير إغلاقٍ إلا عند نفاد السياق الفعليّ تماماً.
+
+## ⚠️ حالةٌ مقيسة (تحديث، الدفعة 256)
+
+- عقدُ اللسانيات الحيّة: **414**. 256 دفعةً متتابعةً دون توقّف منذ الدفعة 131.
+- آخر تثبيتٍ ناجح: commit `86490a83` (الدفعة 256، بلاغة الصورة عند بارت).
+- الدفعاتُ الأخيرة: 254 (`con-intention-reading-pattern-finding-tomasello` + سدّ رابط)، 255 (`con-skopos-theory-vermeer-reiss`)، 256 (`con-rhetoric-of-the-image-barthes` + سدّ رابط سوسور↔السيميولوجيا).
+- قائمةُ أدنى `belongs_to`-count استُهلكت بالكامل تقريباً هذه الجولة (bilingualism، construction-grammar، copenhagen-glossematics، formal-semantics، greco-latin، greimassian، gricean، language-and-gender، lexical-functional، minimalist، modern-arabic، paninian، peircean، role-and-reference، language-ideology، second-language-acquisition، sign-language، structuralist-semiology، text-linguistics، translation-studies، usage-based-grammar). الدفعةُ القادمة تحتاج إعادةَ تشغيل التشخيص الكامل لتحديد الطبقة التالية من أقلّ المدارس اتصالاً.
+- البروتوكولُ التشغيليّ نفسُه ساري بلا تغيير، بما فيه توثيقُ حوادث سحب الملفّات الموازية البسيطة دون أيّ إجراءٍ تصحيحيٍّ تدميري، وإعادةُ ترقيم أيّ تصادم id فور اكتشافه. الأمرُ التوجيهيُّ الأخير من المنسِّق: الاستمرارُ الفوريُّ بلا توقّف، وعدم كتابة تقرير إغلاقٍ إلا عند نفاد السياق الفعليّ تماماً.
