@@ -15,8 +15,9 @@ related:
 - id: "sch-translation-studies", title: "الترجمةُ الآليةُ ونظريةُ الترجمة (Translation Studies)", type: "مدرسة"
 - id: "thk-eugene-nida", title: "يوجين نايدا", type: "مفكر"
 - id: "con-domestication-foreignization-translation", title: "التوطينُ والتغريبُ في الترجمة (Domestication & Foreignization)", type: "مفهوم"
+- id: "thk-hans-vermeer", title: "هانز ﭬيرمير", type: "مفكر"
 gaps:
-  - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بنظرية الغاية ضمن مصادر الأطلس؛ الاعتمادُ على المصادر الألمانية والإنجليزية الأساسية."
+  - "**سُدَّ 2026-09-22**: أُنشئ `thk-hans-vermeer` ورُبط أعلاه. لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بنظرية الغاية ضمن مصادر الأطلس؛ الاعتمادُ على المصادر الألمانية والإنجليزية الأساسية."
 ---
 
 # نظريةُ الغاية عند ﭬيرمير ورايس

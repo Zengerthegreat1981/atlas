@@ -29,6 +29,7 @@ related:
 - id: "con-formal-dynamic-equivalence-nida", title: "التكافؤُ الصوريُّ والديناميكي عند نايدا (Formal & Dynamic Equivalence)", type: "مفهوم"
 - id: "thk-itamar-even-zohar", title: "إيتامار إيڤن-زوهار", type: "مفكر"
 - id: "con-polysystem-theory-even-zohar", title: "نظريةُ النسق المتعدِّد عند إيڤن-زوهار (Polysystem Theory)", type: "مفهوم"
+- id: "thk-hans-vermeer", title: "هانز ﭬيرمير", type: "مفكر"
 gaps: []
 ---
 
