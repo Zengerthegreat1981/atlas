@@ -19,9 +19,10 @@ edges:
 related:
 - id: "thk-noam-chomsky", title: "نعوم تشومسكي", type: "مفكر"
 - id: "sch-government-and-binding-theory", title: "نظريةُ الحاكميةِ والربط (Government and Binding Theory)", type: "مدرسة"
+- id: "con-merge-operation-minimalism", title: "عمليةُ الدمج (Merge)", type: "مفهوم"
 gaps:
   - "`thk-noam-chomsky` موسومٌ `philosophy` (DR-014) ولم يُكرَّر؛ العقدةُ تفرد المرحلةَ التقنية الأحدث من نظريته دون تكرار سيرته."
-  - "عملية الدمج (Merge) بوصفها مفهوماً مفرداً لم تُنشأ بعد كعقدة `con-` مستقلة — ثغرةٌ تُترك لدفعةٍ لاحقة."
+  - "**سُدَّ 2026-09-22 (الدفعة 162)**: أُنشئ `con-merge-operation-minimalism` (عمليةُ الدمج، الدمجُ الخارجي والداخلي)."
 ---
 
 # البرنامجُ الأدنويّ
