@@ -25,6 +25,7 @@ related:
 - id: "dbt-comparativism-vs-contextualism-eliade-smith", title: "الجدلُ بين المقارَنة الشاملة والسياقية: إلياده وسميث ومنهج المقارنة الدينية", type: "جدل"
 - id: "thk-wilfred-cantwell-smith", title: "وليام كانتويل سميث (Wilfred Cantwell Smith)", type: "مفكر"
 - id: "crt-jonathan-z-smith-critique-girard-scapegoat-mechanism", title: "نقدُ جوناثان ز. سميث لآلية كبش الفداء عند جيرار (تدجينُ القربان)", type: "نقد خارجي موثَّق"
+- id: "thk-ivan-strenski", title: "إيفان سترينسكي (Ivan Strenski)", type: "مفكر"
 gaps:
   - "سُدَّت 2026-09-21 (الدفعة 41): أُضيف ملفّ عملٍ مستقل (`wrk-imagining-religion-smith`) لكتابه *Imagining Religion: From Babylon to Jonestown* (1982)، وفُصِّل نقدُه لمنهج إلياده في ملفّ جدلٍ مستقل (`dbt-comparativism-vs-contextualism-eliade-smith`) بدل الإشارة الإجمالية السابقة."
   - "سُدَّت 2026-09-22 (الدفعة 71): نقدُه المباشر لرينيه جيرار (مقالة 'The Domestication of Sacrifice' في مناظرة ستانفورد 1983، منشورة في *Violent Origins*، 1987) فُصِّل الآن في ملفّ نقدٍ مستقل: `crt-jonathan-z-smith-critique-girard-scapegoat-mechanism`."
