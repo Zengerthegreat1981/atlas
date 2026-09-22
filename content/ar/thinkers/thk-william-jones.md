@@ -18,6 +18,7 @@ edges:
 - rel: "belongs_to", target: "sch-historical-comparative-linguistics", target_type: "مدرسة"
 related:
 - id: "sch-historical-comparative-linguistics", title: "اللسانياتُ التاريخيةُ والمقارنة", type: "مدرسة"
+- id: "thk-franz-bopp", title: "فرانز بوب", type: "مفكر"
 gaps:
   - "جونز قاضٍ ومستشرقٌ لا لغويٌّ محترفٌ بالمعنى الحديث؛ لم يطوّر منهجاً مقارناً صارماً بنفسه، بل صاغ الفرضيةَ التي طوّرها لاحقاً غريم وراسك وبوپ منهجياً — وهذا موثَّقٌ في تاريخ العلم بوضوح ولا يُنسب إليه إنجازٌ منهجيٌّ لم يقم به."
 ---
