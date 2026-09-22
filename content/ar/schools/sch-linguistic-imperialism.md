@@ -25,6 +25,7 @@ related:
 - id: "con-linguistic-human-rights", title: "الحقوقُ اللغويةُ الإنسانية (Linguistic Human Rights)", type: "مفهوم"
 - id: "thk-ofelia-garcia", title: "أوفيليا غارسيا", type: "مفكر"
 - id: "con-translanguaging-garcia", title: "التلغُّةُ المتداخلة عند غارسيا (Translanguaging)", type: "مفهوم"
+- id: "con-language-as-local-practice-pennycook", title: "اللغةُ ممارسةً محلّية عند بينيكوك (Language as Local Practice)", type: "مفهوم"
 gaps: []
 ---
 

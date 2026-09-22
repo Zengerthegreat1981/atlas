@@ -20,6 +20,7 @@ related:
 - id: "sch-linguistic-imperialism", title: "اللسانياتُ الاستعماريةُ ونقدُها (Linguistic Imperialism)", type: "مدرسة"
 - id: "thk-robert-phillipson", title: "روبرت فيليبسون", type: "مفكر"
 - id: "con-disinventing-language-makoni-pennycook", title: "نزعُ اختراع اللغة (Disinventing Language)", type: "مفهوم"
+- id: "con-language-as-local-practice-pennycook", title: "اللغةُ ممارسةً محلّية عند بينيكوك (Language as Local Practice)", type: "مفهوم"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرته؛ الاعتمادُ على مصادره الإنجليزية الأساسية."
 ---
