@@ -19,6 +19,7 @@ related:
 - id: "thk-franz-boas", title: "فرانز بواس (Franz Boas)", type: "مفكر"
 - id: "con-phonemic-principle-sapir", title: "المبدأُ الفونيميّ عند سابير (The Psychological Reality of the Phoneme)", type: "مفهوم"
 - id: "wrk-language-sapir", title: "اللغة: مدخلٌ إلى دراسة الكلام (Language)", type: "عمل / كتاب"
+- id: "sch-american-structural-linguistics", title: "البنيويةُ الأمريكيةُ والتوزيعية (American Structural Linguistics)", type: "مدرسة"
 gaps: []
 ---
 # إدوارد سابير (Edward Sapir)
