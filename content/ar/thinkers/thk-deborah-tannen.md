@@ -19,8 +19,11 @@ edges:
 related:
 - id: "thk-dell-hymes", title: "ديل هايمز (Dell Hymes)", type: "مفكر"
 - id: "thk-robin-lakoff", title: "روبن لايكوف", type: "مفكر"
+- id: "sch-language-and-gender", title: "اللغةُ والجندر (Language and Gender)", type: "مدرسة"
+- id: "con-genderlect-rapport-report-talk-tannen", title: "اللهجةُ الجندرية وحديثُ الوئام مقابل حديث التقرير عند تانن (Genderlect & Rapport/Report Talk)", type: "مفهوم"
 gaps:
   - "**سُدَّ سابقاً**: `thk-robin-lakoff` موجودةٌ بالفعل في الأطلس؛ رُبطت أعلاه دون تكرار."
+  - "**سُدَّ 2026-09-22 (الدفعة 296)**: أُضيف رابطُ `sch-language-and-gender` الناقص رغم انتماء تانن إليها بوصفها إحدى منظِّراتها الرئيسيّات."
 ---
 
 # ديبورا تانن
