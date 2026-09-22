@@ -18,8 +18,9 @@ edges:
 - rel: "belongs_to", target: "sch-role-and-reference-grammar", target_type: "مدرسة"
 related:
 - id: "sch-linguistic-typology", title: "النمطيةُ اللغويةُ والكلّياتُ اللغوية (Linguistic Typology & Universals)", type: "مدرسة"
+- id: "thk-simon-dik", title: "سيمون ديك", type: "مفكر"
 gaps:
-  - "سيمون ديك (Simon Dik)، مؤسّسُ النحو الوظيفي (Functional Grammar) الذي شارك ڤان ڤالن في التأسيس الفكري لهذا التيار الأوسع، لم يُفرَد بعد كمفكرٍ مستقل."
+  - "**سُدَّ سابقاً**: `thk-simon-dik` موجودٌ بالفعل في الأطلس؛ رُبط أعلاه دون تكرار."
 ---
 
 # روبرت ﭬان ﭬالِن

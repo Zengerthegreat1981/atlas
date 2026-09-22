@@ -18,9 +18,11 @@ edges:
 - rel: "belongs_to", target: "sch-construction-grammar", target_type: "مدرسة"
 related:
 - id: "sch-construction-grammar", title: "نحوُ البُنى (Construction Grammar)", type: "مدرسة"
+- id: "thk-charles-fillmore", title: "تشارلز فيلمور", type: "مفكر"
+- id: "thk-brent-berlin-paul-kay", title: "برنت برلين وپول كاي", type: "مفكر"
 gaps:
   - "تاريخُ ميلادها ومعطياتُ سيرتها المبكرة غيرُ مثبَتةٍ بمصدرٍ أوّليٍّ محدَّد هنا؛ الاعتمادُ على صفحتها الأكاديمية في جامعة پرينستون ومقدّمات كتبها."
-  - "تشارلز فيلمور (Charles Fillmore)، أحدُ الرواد المؤسسين الآخرين لنحو البُنى مع پول كاي، لم يُفرَد بعدُ بملفِّ مفكرٍ مستقل — تسجيلٌ للفجوة."
+  - "**سُدَّ سابقاً**: `thk-charles-fillmore` موجودٌ بالفعل، وپول كاي موثَّقٌ ضمن `thk-brent-berlin-paul-kay`؛ رُبطا أعلاه دون تكرار."
 ---
 
 # أديل غولدبرغ

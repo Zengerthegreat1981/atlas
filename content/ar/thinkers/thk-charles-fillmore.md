@@ -19,8 +19,9 @@ edges:
 - rel: "belongs_to", target: "sch-construction-grammar", target_type: "مدرسة"
 related:
 - id: "thk-adele-goldberg", title: "أديل غولدبرغ", type: "مفكر"
+- id: "thk-brent-berlin-paul-kay", title: "برنت برلين وپول كاي", type: "مفكر"
 gaps:
-  - "پول كاي (Paul Kay)، الشريكُ الثالث في تأسيس نحو البُنى في بيركلي مع فيلمور ولايكوف، لم يُفرَد بعد كمفكرٍ مستقل."
+  - "**سُدَّ سابقاً**: پول كاي موثَّقٌ بالفعل ضمن `thk-brent-berlin-paul-kay` (دراسة مصطلحات الألوان)؛ رُبط أعلاه دون إنشاء عقدةٍ مكرَّرة."
 ---
 
 # تشارلز فيلمور

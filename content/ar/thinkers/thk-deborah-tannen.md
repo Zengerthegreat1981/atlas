@@ -18,8 +18,9 @@ edges:
 - rel: "belongs_to", target: "sch-language-and-gender", target_type: "مدرسة"
 related:
 - id: "thk-dell-hymes", title: "ديل هايمز (Dell Hymes)", type: "مفكر"
+- id: "thk-robin-lakoff", title: "روبن لايكوف", type: "مفكر"
 gaps:
-  - "روبن لايكوف (Robin Lakoff)، صاحبةُ كتاب *Language and Woman's Place* (1975) والرائدةُ المؤسِّسة لدراسات اللغة والجندر، لم تُفرَد بعد كمفكرةٍ مستقلة — ثغرةٌ صادقةٌ تُترك لدفعةٍ لاحقة."
+  - "**سُدَّ سابقاً**: `thk-robin-lakoff` موجودةٌ بالفعل في الأطلس؛ رُبطت أعلاه دون تكرار."
 ---
 
 # ديبورا تانن

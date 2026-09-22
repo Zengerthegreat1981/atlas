@@ -18,9 +18,10 @@ edges:
 - rel: "belongs_to", target: "sch-american-structural-linguistics", target_type: "مدرسة"
 related:
 - id: "sch-american-structural-linguistics", title: "البنيويةُ الأمريكيةُ والتوزيعية (American Structural Linguistics)", type: "مدرسة"
+- id: "thk-zellig-harris", title: "زيليغ هاريس", type: "مفكر"
 gaps:
   - "تحوُّلُه من نموذجٍ عقليٍّ مبكر (في *An Introduction to the Study of Language*، 1914) إلى المنهج السلوكي الصارم في *Language* (1933) موضوعٌ فكريٌّ لم يُفصَّل هنا."
-  - "زيغ هاريس، تلميذُه وصاحبُ منهج التحليل التوزيعي الأكثر صورية، لم يُفرَد بعدُ بملفِّ مفكرٍ مستقل — تسجيلٌ للفجوة."
+  - "**سُدَّ سابقاً**: `thk-zellig-harris` موجودٌ بالفعل في الأطلس؛ رُبط أعلاه دون تكرار."
 ---
 
 # ليونارد بلومفيلد
