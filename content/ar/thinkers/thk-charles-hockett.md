@@ -21,6 +21,7 @@ related:
 - id: "sch-american-structural-linguistics", title: "البنيويةُ الأمريكيةُ والتوزيعية (American Structural Linguistics)", type: "مدرسة"
 - id: "thk-leonard-bloomfield", title: "ليونارد بلومفيلد", type: "مفكر"
 - id: "con-design-features-language-hockett", title: "السماتُ التصميميةُ للغة عند هوكِت (Design Features of Language)", type: "مفهوم"
+- id: "con-item-arrangement-process-paradigm-hockett", title: "النماذجُ الثلاثةُ للوصف الصرفي عند هوكِت (IA/IP/WP)", type: "مفهوم"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرته؛ الاعتمادُ على مصادره الإنجليزية الأساسية."
 ---
