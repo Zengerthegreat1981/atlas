@@ -26,6 +26,8 @@ related:
 - id: "ins-dialect-atlas-geolinguistics", title: "الأطلسُ اللغويُّ والجغرافيا اللهجية (Dialect Atlas & Geolinguistics)", type: "منهج/أداة بحث"
 - id: "thk-peter-trudgill", title: "پيتر ترودجيل", type: "مفكر"
 - id: "con-covert-prestige-linguistics", title: "المكانةُ الخفية في اللسانيات الاجتماعية (Covert Prestige)", type: "مفهوم"
+- id: "thk-penelope-eckert", title: "بينيلوپي إكرت", type: "مفكر"
+- id: "con-three-waves-variation-eckert", title: "الموجاتُ الثلاث لدراسة التغيّر اللغوي الاجتماعي عند إكرت (Three Waves of Variation Study)", type: "مفهوم"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`) — فرعٌ اجتماعيٌّ كمّيٌّ مستقلٌّ عن التوليدية والبنيوية، نشأ من منهجيةٍ ميدانيةٍ إحصائية لا من نظريةٍ صورية."
   - "**سُدَّ سابقاً**: الازدواجيةُ اللغوية (`con-diglossia`) مغطّاةٌ بالفعل في قسمٍ منفصل بحيادٍ صريح إزاء مسألة الفصحى والعامّية السياسية؛ رُبطت إليها `related` من ملفَّاتٍ أخرى دون الحاجة لتكرارها هنا."
