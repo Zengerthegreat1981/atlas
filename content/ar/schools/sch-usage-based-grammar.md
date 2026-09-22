@@ -27,6 +27,8 @@ related:
 - id: "con-zipfs-law-frequency-distribution", title: "قانونُ زيبف وتوزيعُ التواتر اللغوي (Zipf's Law)", type: "مفهوم"
 - id: "con-intention-reading-pattern-finding-tomasello", title: "قراءةُ النيّة وإيجادُ النمط عند توماسيلو", type: "مفهوم"
 - id: "con-exemplar-theory-bybee", title: "نظريةُ النماذج المِثالية عند بايبي (Exemplar Theory)", type: "مفهوم"
+- id: "thk-nick-ellis", title: "نيك إليس", type: "مفكر"
+- id: "con-associative-learning-chunking-ellis", title: "التعلّمُ الترابطي والتقطيعُ عند إليس (Associative Learning & Chunking)", type: "مفهوم"
 gaps: []
 ---
 
