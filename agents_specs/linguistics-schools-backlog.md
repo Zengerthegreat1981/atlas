@@ -1312,3 +1312,7 @@
 ## ⚠️ حالةٌ مقيسة — علامةُ 340 دفعة (2026-09-22)
 
 عددُ العقد اللسانية الحيّة: ~522 (بعد دفعات 338–340: con-copy-theory-of-movement-minimalism، con-icon-index-symbol-peirce، con-focus-structure-rrg). آخر التزامٍ مؤكَّد: `4fb13744`. تشخيصُ belongs_to-count التالي يستهدف: sch-systemic-functional-linguistics، sch-text-linguistics، sch-american-structural-linguistics، وإعادة فحص sch-copenhagen-glossematics/sch-structuralist-semiology/sch-peircean-semiotics بعد الإضافات الأخيرة. لا حوادثَ تشغيليةٍ مدمِّرة حتى الآن؛ حادثةٌ حميدةٌ واحدة (دفعة 337، موثَّقة أعلاه). المهمّةُ مستمرّةٌ دون توقف وفق البروتوكول القياسي.
+
+## ⚠️ حالةٌ مقيسة — علامةُ 345 دفعة (2026-09-22)
+
+عددُ العقد اللسانية الحيّة: ~527 (بعد دفعات 341–345: con-transitivity-system-halliday [renumbered CON-11976 بعد تصادم]، con-cohesive-ties-halliday-hasan، con-item-arrangement-process-paradigm-hockett، wrk-majalis-thalab، con-revised-hierarchical-model-kroll-stewart). آخر التزامٍ مؤكَّد: `92d1497d`. أدنى المدارس اتصالاً حالياً: sch-biosemiotics-tartu، sch-classical-neurolinguistics، sch-computational-linguistics-nlp، sch-construction-grammar، sch-contact-linguistics-creole، sch-formal-semantics-montague-grammar، sch-generative-phonology. لا حوادثَ مدمِّرة؛ تصادمُ id واحدٌ حميد (دفعة 341، حُلّ فوراً). المهمّةُ مستمرّةٌ دون توقف وفق البروتوكول القياسي.
