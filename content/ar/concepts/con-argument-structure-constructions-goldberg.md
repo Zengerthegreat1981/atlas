@@ -16,6 +16,7 @@ related:
 - id: "thk-adele-goldberg", title: "أديل غولدبرغ", type: "مفكر"
 - id: "con-argument-structure-lexicon", title: "بنيةُ الحجج المعجمية (Argument Structure)", type: "مفهوم"
 - id: "con-frame-semantics-fillmore", title: "الدلالةُ الإطارية عند فيلمور (Frame Semantics)", type: "مفهوم"
+- id: "con-statistical-preemption-goldberg", title: "الاستباقُ الإحصائي عند غولدبرغ (Statistical Preemption)", type: "مفهوم"
 gaps: []
 ---
 

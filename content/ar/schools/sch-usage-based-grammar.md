@@ -31,6 +31,7 @@ related:
 - id: "con-associative-learning-chunking-ellis", title: "التعلّمُ الترابطي والتقطيعُ عند إليس (Associative Learning & Chunking)", type: "مفهوم"
 - id: "con-grammaticalization", title: "النحويةُ (Grammaticalization)", type: "مفهوم"
 - id: "con-reducing-conserving-effects-frequency-bybee", title: "الأثرُ الاختزاليُّ والأثرُ المحافظُ للتواتر عند بايبي (Reducing & Conserving Effects of Frequency)", type: "مفهوم"
+- id: "con-statistical-preemption-goldberg", title: "الاستباقُ الإحصائي عند غولدبرغ (Statistical Preemption)", type: "مفهوم"
 gaps: []
 ---
 
