@@ -22,6 +22,7 @@ related:
 - id: "sch-gricean-pragmatics", title: "التداوليةُ الغرايسية (Gricean Pragmatics)", type: "مدرسة"
 - id: "con-presupposition-projection-problem", title: "الافتراضُ المسبَق ومشكلةُ الانتقال (Presupposition & the Projection Problem)", type: "مفهوم"
 - id: "con-focus-particles", title: "جسيماتُ التركيز (Focus Particles)", type: "مفهوم"
+- id: "con-generalized-quantifiers-barwise-cooper", title: "الكمّياتُ المعمَّمة عند بارواز وكوبر (Generalized Quantifiers)", type: "مفهوم"
 gaps:
   - "لا `belongs_to`/`evolved_from`: نشأت الدلالةُ الصوريةُ من تقاطع المنطق الرياضي بأعمال مونتاغيو المنطقية المستقلة عن سلالة تشومسكي التوليدية، لا كامتدادٍ تاريخيٍّ مباشرٍ منها؛ سُجِّلت العلاقةُ بـ`related` لا بعلاقة انحدار."
 ---
