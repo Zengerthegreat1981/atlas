@@ -19,6 +19,8 @@ edges:
 related:
 - id: "sch-construction-grammar", title: "نحوُ البُنى (Construction Grammar)", type: "مدرسة"
 - id: "thk-michael-tomasello", title: "مايكل توماسيلو", type: "مفكر"
+- id: "sch-usage-based-grammar", title: "النحوُ الناشئُ عن الاستعمال (Usage-Based Grammar)", type: "مدرسة"
+- id: "con-frequency-entrenchment-bybee", title: "التواتُرُ والترسّخُ عند بايبي (Frequency & Entrenchment)", type: "مفهوم"
 gaps: []
 ---
 

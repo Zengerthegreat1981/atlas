@@ -21,6 +21,8 @@ related:
 - id: "thk-michael-tomasello", title: "مايكل توماسيلو", type: "مفكر"
 - id: "sch-construction-grammar", title: "نحوُ البُنى (Construction Grammar)", type: "مدرسة"
 - id: "dbt-innateness-vs-usage-based-language-acquisition", title: "جدلُ الفطرية اللغوية مقابل الاستعمالية في اكتساب اللغة", type: "جدل"
+- id: "con-frequency-entrenchment-bybee", title: "التواتُرُ والترسّخُ عند بايبي (Frequency & Entrenchment)", type: "مفهوم"
+- id: "wrk-constructing-a-language-tomasello", title: "بناءُ لغة: نظريةٌ استعمالية لاكتساب اللغة (Constructing a Language)", type: "أثر"
 gaps: []
 ---
 
