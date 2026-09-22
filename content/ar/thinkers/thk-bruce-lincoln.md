@@ -23,10 +23,13 @@ related:
 - id: "wrk-discourse-and-the-construction-of-society-lincoln", title: "الخطابُ وبناءُ المجتمع (لنكولن)", type: "عمل / كتاب"
 - id: "thk-wendy-doniger", title: "ويندي دونيغر (Wendy Doniger)", type: "مفكر"
 - id: "con-myth-as-authoritative-discourse-lincoln", title: "الأسطورةُ بوصفها خطاباً سلطوياً منزوعَ المساءلة", type: "مفهوم"
+- id: "wrk-holy-terrors-lincoln", title: "الرعبُ المقدَّس (لنكولن)", type: "عمل / كتاب"
+- id: "sch-comparative-religious-violence-studies", title: "الدراسةُ الأكاديميةُ المقارَنةُ للعنف الديني (Comparative Religious Violence Studies)", type: "مدرسة"
 gaps:
   - "أُنشئ هذا الملفّ سدّاً لفجوةٍ كانت موثَّقةً صراحةً في `dbt-comparativism-vs-contextualism-eliade-smith` (موقفٌ توفيقيّ حاول 'إنقاذ المقارنة الشاملة بشروطٍ منهجية أدقّ دون التخلّي عنها كلياً'). دونيغر (Wendy Doniger)، الاسمُ الآخر المذكور في نفس الفجوة، صار لها الآن ملفٌّ مستقل (`thk-wendy-doniger`، 2026-09-22) — فجوةٌ مسدودة."
   - "موقفُ لنكولن أدقُّ من 'إنقاذٍ' بسيط للمقارنة الإلياديّة: هو يقبل نقدَ سميث للمقارنة غير المسوَّغة، لكنه يرفض الاستنتاجَ بأن المقارنة عبر الثقافات مستحيلةٌ أصلاً؛ بديلُه مقارنةٌ 'حَذِرة' (chastened) تُقرّ بأن كلَّ تصنيفٍ مقارَنٍ فعلُ سلطةٍ يفرضه الباحثُ نفسُه، فتُعلِنه صراحةً بدل إخفائه — موقفٌ فصّله في مقالته المنهجية الافتتاحية لكتابه *Theorizing Myth* (1999) أكثر مما في *Discourse*."
   - "سُدَّت 2026-09-22: أُضيف `con-myth-as-authoritative-discourse-lincoln`، الذي يفصِّل أطروحته المركزية عن الأسطورة بوصفها خطاباً سلطوياً منزوع المساءلة، بدل تركها وصفاً عابراً هنا فقط."
+  - "سُدَّت 2026-09-22: أُضيف `wrk-holy-terrors-lincoln` (كتابه *Holy Terrors*, 2002) الذي كان عنوانُه مذكوراً عابراً فقط ضمن سيرته دون ملفٍّ مستقل، وأُلحِق بمدرسةٍ جديدة `sch-comparative-religious-violence-studies` فتحت مجالَ الدراسة المقارَنة للعنف الديني إلى جانب ر. سكوت أپلبي، مع ربطٍ عكسيٍّ صريح هنا."
 ---
 
 # بروس لنكولن (Bruce Lincoln)
