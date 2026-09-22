@@ -29,6 +29,7 @@ related:
 - id: "thk-kalevi-kull", title: "كاليفي كول", type: "مفكر"
 - id: "con-endosemiotics-sebeok", title: "السيمياءُ الباطنية عند سيبيوك (Endosemiotics)", type: "مفهوم"
 - id: "thk-marcello-barbieri", title: "مارتشيلو باربييري", type: "مفكر"
+- id: "con-organic-codes-barbieri", title: "الشفراتُ العضوية وبيولوجيا الشفرة عند باربييري (Organic Codes & Code Biology)", type: "مفهوم"
 gaps: []
 ---
 

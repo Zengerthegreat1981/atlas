@@ -20,6 +20,7 @@ related:
 - id: "sch-biosemiotics-tartu", title: "مدرسةُ تارتو والسيمياءُ الحيوية (Tartu-Moscow School & Biosemiotics)", type: "مدرسة"
 - id: "con-endosemiotics-sebeok", title: "السيمياءُ الباطنية عند سيبيوك (Endosemiotics)", type: "مفهوم"
 - id: "con-code-duality-hoffmeyer", title: "ازدواجيةُ الشفرة عند هوفماير (Code Duality)", type: "مفهوم"
+- id: "con-organic-codes-barbieri", title: "الشفراتُ العضوية وبيولوجيا الشفرة عند باربييري (Organic Codes & Code Biology)", type: "مفهوم"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بعمله؛ الاعتماد على مصادره الإنجليزية الأساسية."
 ---
