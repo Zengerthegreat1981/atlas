@@ -22,6 +22,8 @@ related:
 - id: "thk-deborah-schiffrin", title: "ديبورا شفرين", type: "مفكر"
 - id: "con-discourse-markers", title: "علاماتُ الخطاب (Discourse Markers)", type: "مفهوم"
 - id: "con-anaphora-cataphora-discourse", title: "الرجوعُ الضميري السابق واللاحق في الخطاب (Anaphora & Cataphora)", type: "مفهوم"
+- id: "thk-robert-de-beaugrande", title: "روبرت-ألان دو بوغراند", type: "مفكر"
+- id: "thk-ruqaiya-hasan", title: "روقية حسن", type: "مفكر"
 gaps: []
 ---
 
