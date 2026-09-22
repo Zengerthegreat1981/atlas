@@ -19,6 +19,7 @@ edges:
 related:
 - id: "sch-american-structural-linguistics", title: "البنيويةُ الأمريكيةُ والتوزيعية (American Structural Linguistics)", type: "مدرسة"
 - id: "thk-zellig-harris", title: "زيليغ هاريس", type: "مفكر"
+- id: "con-immediate-constituent-analysis-bloomfield", title: "تحليلُ المكوِّنات المباشرة عند بلومفيلد (Immediate Constituent Analysis)", type: "مفهوم"
 gaps:
   - "تحوُّلُه من نموذجٍ عقليٍّ مبكر (في *An Introduction to the Study of Language*، 1914) إلى المنهج السلوكي الصارم في *Language* (1933) موضوعٌ فكريٌّ لم يُفصَّل هنا."
   - "**سُدَّ سابقاً**: `thk-zellig-harris` موجودٌ بالفعل في الأطلس؛ رُبط أعلاه دون تكرار."
