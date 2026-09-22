@@ -19,6 +19,8 @@ edges:
 related:
 - id: "thk-victoria-fromkin", title: "ﭬيكتوريا فرومكين", type: "مفكر"
 - id: "con-speech-errors-slips-tongue", title: "زلّاتُ اللسان وأخطاءُ الكلام (Speech Errors & Slips of the Tongue)", type: "مفهوم"
+- id: "sch-sentence-processing-psycholinguistics", title: "علمُ اللغة النفسيُّ ومعالجةُ الجملة (Sentence Processing)", type: "مدرسة"
+- id: "con-levelt-speech-production-model", title: "نموذجُ إنتاج الكلام عند ليڤلت: من المقصود إلى المنطوق", type: "مفهوم"
 gaps: []
 ---
 
