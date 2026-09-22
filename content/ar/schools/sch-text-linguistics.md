@@ -29,6 +29,7 @@ related:
 - id: "con-context-models-van-dijk", title: "نماذجُ السياق الذهنية عند فان دايك (Context Models)", type: "مفهوم"
 - id: "con-planes-of-discourse-schiffrin", title: "طبقاتُ التماسك الخطابي الخمس عند شفرين", type: "مفهوم"
 - id: "con-cohesive-ties-halliday-hasan", title: "أدواتُ الاتساق الخمس عند هاليداي وحسن (Cohesive Ties)", type: "مفهوم"
+- id: "con-thematic-progression-danes", title: "التقدّمُ الموضوعي عند دانش (Thematic Progression)", type: "مفهوم"
 gaps: []
 ---
 
