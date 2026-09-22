@@ -25,6 +25,7 @@ related:
 - id: "con-isotopy-greimas", title: "التماثلُ الدلاليُّ (الإيزوتوپيا) عند غريماس (Isotopy)", type: "مفهوم"
 - id: "con-narrative-functions-propp", title: "الوظائفُ السرديةُ الواحدةُ والثلاثون عند بروب", type: "مفهوم"
 - id: "con-modal-semiotics-greimas", title: "السيمياءُ الموجِّهية عند غريماس: الإرادةُ والقدرةُ والمعرفةُ والوجوب", type: "مفهوم"
+- id: "thk-jacques-fontanille", title: "جاك فونتانيّ", type: "مفكر"
 gaps: []
 ---
 
