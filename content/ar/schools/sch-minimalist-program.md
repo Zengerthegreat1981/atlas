@@ -27,6 +27,7 @@ related:
 - id: "con-third-factor-explanations-chomsky", title: "العواملُ الثلاثةُ لنمو اللغة والأطروحةُ الأدنويةُ القوية عند تشومسكي", type: "مفهوم"
 - id: "thk-luigi-rizzi", title: "لويجي ريتزي", type: "مفكر"
 - id: "con-cartographic-approach-split-cp-rizzi", title: "المقاربةُ الخرائطية وتفتيتُ طبقة المُتَمِّم عند ريتزي (Cartography & Split-CP)", type: "مفهوم"
+- id: "con-copy-theory-of-movement-minimalism", title: "نظريةُ النسخ في الحركة النحوية (Copy Theory of Movement)", type: "مفهوم"
 gaps:
   - "`thk-noam-chomsky` موسومٌ `philosophy` (DR-014) ولم يُكرَّر؛ العقدةُ تفرد المرحلةَ التقنية الأحدث من نظريته دون تكرار سيرته."
   - "**سُدَّ 2026-09-22 (الدفعة 162)**: أُنشئ `con-merge-operation-minimalism` (عمليةُ الدمج، الدمجُ الخارجي والداخلي)."
