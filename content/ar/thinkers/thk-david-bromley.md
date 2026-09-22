@@ -22,8 +22,9 @@ related:
 - id: "thk-eileen-barker", title: "أيلين باركر", type: "مفكر"
 - id: "con-brainwashing-conversion-debate", title: "جدلُ «غسيل الدماغ» مقابل التحوّل الطوعي في الحركات الدينية الجديدة", type: "مفهوم"
 - id: "con-atrocity-tales-apostate-narratives", title: "حكاياتُ الفظائع وروايةُ المرتدّين (Atrocity Tales)", type: "مفهوم"
+- id: "thk-anson-shupe", title: "أنسون شوپي", type: "مفكر"
 gaps:
-  - "توماس روبنز (Thomas Robbins) وجيمس بكفورد (James Beckford) زميلان مؤسِّسان آخران في الحقل؛ لم يُفرَد لهما ملفٌّ مستقل بعد (فجوةٌ موثَّقة، وبكفورد مذكورٌ مصدراً في ملفّ المدرسة فقط)."
+  - "سُدَّت 2026-09-22 (دفعةُ تعميق): أنسون شوپي، شريكُه الفكريُّ الأوثق (*The New Vigilantes* 1980، *Strange Gods* 1981، *The Politics of Religious Apostasy* 1998 محرَّراً معاً)، أُفرد له الآن ملفٌّ مستقل: `thk-anson-shupe`. جيمس بكفورد له ملفٌّ مستقلٌّ موجودٌ مسبقاً (`thk-james-beckford`). توماس روبنز يبقى مذكوراً في ملفاتٍ أخرى من هذا القسم (`thk-thomas-robbins`)."
 ---
 
 # ديفيد برومّلي
