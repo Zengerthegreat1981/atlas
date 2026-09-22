@@ -28,7 +28,9 @@ related:
 - id: "con-totemic-sacrifice-smith-durkheim-influence", title: "أثرُ نظرية القربان الطوطمي عند روبرتسون سميث في دوركهايم", type: "مفهوم"
 - id: "sch-mimetic-theory-violence-sacred-religion", title: "نظريةُ الرغبة المحاكية وآليةُ كبش الفداء في أصل الدين (رينيه جيرار)", type: "مدرسة"
 - id: "con-ritualization-bell", title: "الطقسنة عند كاثرين بيل (Ritualization)", type: "مفهوم"
+- id: "dbt-thought-action-dichotomy-ritual-theory-bell-durkheim", title: "جدلُ ثنائية الفكر والفعل في نظرية الطقس: نقدُ بيل للتيار التأسيسي", type: "جدل"
 gaps:
+  - "سُدَّت 2026-09-22 (دفعةُ تعميق): نقدُ بيل لثنائية الفكر/الفعل عند سميث وهوبير وموس ودوركهايم فُصِّل الآن في ملفّ جدلٍ مستقل `dbt-thought-action-dichotomy-ritual-theory-bell-durkheim`."
   - "سُدَّت 2026-09-22: أُضيف مفهومٌ مستقل `con-ritualization-bell` (ومعه عملٌ `wrk-ritual-theory-ritual-practice-bell`) يفصّل مساهمة بيل — أحدث حلقةٍ في هذا التيار — بدل الاكتفاء بذكرها إجمالاً كمفكّرةٍ فقط."
   - "سُدَّت 2026-09-22: أثرُ قراءة دوركهايم لروبرتسون سميث (القربان الطوطمي) في بناء ثنائية المقدَّس/المدنَّس كان مذكوراً هنا إجمالاً فقط؛ فُصِّل الآن في مفهومٍ مستقل `con-totemic-sacrifice-smith-durkheim-influence` يوثّق آلية الأثر ومصادره (Jones 2005، Evans-Pritchard 1965)."
   - "هوبير وموس نُشر بحثهما أصلاً في *L'Année Sociologique* التي أسّسها دوركهايم؛ الصلة المؤسّسية بين الثلاثة (سميث-دوركهايم-موس) تستحق خريطة علاقاتٍ أوسع تتجاوز نطاق هذا الملف."

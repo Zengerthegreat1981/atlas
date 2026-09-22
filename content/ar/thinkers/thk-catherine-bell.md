@@ -22,9 +22,10 @@ related:
 - id: "thk-roy-rappaport", title: "روي رابابورت", type: "مفكر"
 - id: "con-ritualization-bell", title: "الطقسنة عند كاثرين بيل (Ritualization)", type: "مفهوم"
 - id: "wrk-ritual-theory-ritual-practice-bell", title: "نظريةُ الطقس، ممارسةُ الطقس (Ritual Theory, Ritual Practice)", type: "عمل"
+- id: "dbt-thought-action-dichotomy-ritual-theory-bell-durkheim", title: "جدلُ ثنائية الفكر والفعل في نظرية الطقس: نقدُ بيل للتيار التأسيسي", type: "جدل"
 gaps:
   - "سُدَّت 2026-09-22: أُضيف مفهومٌ مستقل `con-ritualization-bell` يفصّل «الطقسنة» بوصفها استراتيجيةً ثقافيةً للتمييز بين أفعالٍ وأخرى لا كياناً جوهرياً مسبقاً اسمه «الطقس»، وعملٌ مستقل `wrk-ritual-theory-ritual-practice-bell` لكتابها المحوري 1992."
-  - "نقدها لثنائية الفكر/الفعل (thought/action dichotomy) التي تسود كثيراً من أدبيات نظرية الطقس السابقة (بمن فيهم دوركهايم وهوبير وموس أنفسهم) لم يُفصَّل بمقارنةٍ منهجيةٍ مباشرة مع ملفّاتهم؛ فجوةٌ للربط المستقبلي."
+  - "سُدَّت 2026-09-22 (دفعةُ تعميق): نقدها لثنائية الفكر/الفعل قُورن الآن منهجياً بالتيار التأسيسي (سميث، هوبير وموس، دوركهايم) في ملفّ جدلٍ مستقل `dbt-thought-action-dichotomy-ritual-theory-bell-durkheim`."
 ---
 
 # كاثرين بيل
