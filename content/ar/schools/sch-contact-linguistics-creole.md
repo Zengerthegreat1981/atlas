@@ -22,6 +22,8 @@ related:
 - id: "con-lexical-borrowing-loanwords", title: "الاقتراضُ المعجمي والدخيل (Lexical Borrowing & Loanwords)", type: "مفهوم"
 - id: "con-language-bioprogram-hypothesis", title: "فرضيةُ البرنامج اللغوي الحيوي (Language Bioprogram Hypothesis)", type: "مفهوم"
 - id: "thk-salikoko-mufwene", title: "سليكوكو مفوين", type: "مفكر"
+- id: "thk-hugo-schuchardt", title: "هوغو شوخارت", type: "مفكر"
+- id: "con-relexification-hypothesis", title: "فرضيةُ إعادة التمعجُم (Relexification Hypothesis)", type: "مفهوم"
 gaps:
   - "لا `belongs_to`: فرعٌ نشأ من ملاحظاتٍ ميدانيةٍ على لغات الاستعمار والتجارة، لا من انحدارٍ نظريٍّ مباشرٍ من مدرسةٍ لسانيةٍ واحدة."
 ---

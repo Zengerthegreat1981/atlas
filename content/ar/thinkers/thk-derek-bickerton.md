@@ -22,6 +22,7 @@ related:
 - id: "dbt-innateness-vs-usage-based-language-acquisition", title: "جدلُ الفطرية اللغوية مقابل الاستعمالية في اكتساب اللغة", type: "جدل"
 - id: "con-language-bioprogram-hypothesis", title: "فرضيةُ البرنامج اللغوي الحيوي (Language Bioprogram Hypothesis)", type: "مفهوم"
 - id: "thk-salikoko-mufwene", title: "سليكوكو مفوين", type: "مفكر"
+- id: "con-relexification-hypothesis", title: "فرضيةُ إعادة التمعجُم (Relexification Hypothesis)", type: "مفهوم"
 gaps:
   - "حيادٌ صريحٌ محفوظ: فرضيةُ البرنامج الحيوي جدليةٌ بشدّة، وانتقدها باحثون كثيرون (كسالي ثوماسون) استناداً إلى دراساتٍ لاحقة على نشأة كريولاتٍ محدَّدة؛ لا يُرجَّح طرفٌ هنا."
 ---
