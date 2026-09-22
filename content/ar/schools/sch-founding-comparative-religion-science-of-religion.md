@@ -28,6 +28,7 @@ related:
 - id: "sch-decolonial-approaches-study-of-religion-chidester", title: "المقارباتُ الديكولونياليةُ لدراسة الدين: ديڤيد تشيدستر ومصنع «الدين» في جنوب أفريقيا الاستعمارية", type: "مدرسة"
 - id: "sch-sikh-studies-academic", title: "الدراسة الأكاديمية النقدية للسيخية (Sikh Studies)", type: "مدرسة"
 - id: "sch-jain-studies-academic", title: "الدراسة الأكاديمية الغربية للجاينية (Jain Studies)", type: "مدرسة"
+- id: "sch-germanic-norse-paganism-studies", title: "الدراسةُ الأكاديميةُ للوثنية الجرمانية والإسكندنافية القديمة (Germanic/Norse Paganism Studies)", type: "مدرسة"
 - id: "sch-academic-melanesian-cargo-cult-studies", title: "الدراسةُ الأكاديميةُ لعباداتِ الشحنة الملانيزية (Melanesian Cargo Cult Studies)", type: "مدرسة"
 gaps:
   - "سُدَّت 2026-09-22 (دفعة 188): فُتح مجالٌ فرعيٌّ جديدٌ كلياً غيرُ ملموسٍ سابقاً، وهو الدراسةُ الأكاديميةُ لعبادات الشحنة الملانيزية عبر منهج پيتر ورزلي السوسيولوجي-الماركسي (`sch-academic-melanesian-cargo-cult-studies`)، وهو أوّل فرعٍ تحت هذا التأسيس يتناول حركاتٍ دينيةً جديدةً نشأت من صدمة الاتصال الاستعماري المباشر بدل تقليدٍ دينيٍّ تاريخيٍّ ممتد."
