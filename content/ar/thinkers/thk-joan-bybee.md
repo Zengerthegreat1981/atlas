@@ -21,6 +21,7 @@ related:
 - id: "thk-michael-tomasello", title: "مايكل توماسيلو", type: "مفكر"
 - id: "sch-usage-based-grammar", title: "النحوُ الناشئُ عن الاستعمال (Usage-Based Grammar)", type: "مدرسة"
 - id: "con-frequency-entrenchment-bybee", title: "التواتُرُ والترسّخُ عند بايبي (Frequency & Entrenchment)", type: "مفهوم"
+- id: "thk-george-zipf", title: "جورج زيبف", type: "مفكر"
 gaps: []
 ---
 

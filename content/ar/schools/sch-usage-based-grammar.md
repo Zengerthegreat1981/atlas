@@ -23,6 +23,8 @@ related:
 - id: "dbt-innateness-vs-usage-based-language-acquisition", title: "جدلُ الفطرية اللغوية مقابل الاستعمالية في اكتساب اللغة", type: "جدل"
 - id: "con-frequency-entrenchment-bybee", title: "التواتُرُ والترسّخُ عند بايبي (Frequency & Entrenchment)", type: "مفهوم"
 - id: "wrk-constructing-a-language-tomasello", title: "بناءُ لغة: نظريةٌ استعمالية لاكتساب اللغة (Constructing a Language)", type: "أثر"
+- id: "thk-george-zipf", title: "جورج زيبف", type: "مفكر"
+- id: "con-zipfs-law-frequency-distribution", title: "قانونُ زيبف وتوزيعُ التواتر اللغوي (Zipf's Law)", type: "مفهوم"
 gaps: []
 ---
 
