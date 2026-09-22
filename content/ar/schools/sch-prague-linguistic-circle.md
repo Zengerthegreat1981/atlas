@@ -30,6 +30,7 @@ related:
 - id: "thk-josef-vachek", title: "يوزف ڤاخِك", type: "مفكر"
 - id: "wrk-grundzuge-der-phonologie-trubetzkoy", title: "أسسُ الصواتة (Grundzüge der Phonologie)", type: "أثر"
 - id: "wrk-theses-1929-prague-circle", title: "أطروحاتُ 1929 (Théses de 1929)", type: "أثر"
+- id: "wrk-linguistic-school-of-prague-vachek", title: "المدرسةُ اللسانية لبراغ: مدخلٌ إلى نظريتها وممارستها", type: "أثر"
 gaps: []
 ---
 

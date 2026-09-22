@@ -20,6 +20,7 @@ related:
 - id: "sch-prague-linguistic-circle", title: "حلقةُ براغ اللسانية (Prague Linguistic Circle)", type: "مدرسة"
 - id: "thk-vilem-mathesius", title: "ﭬيليم ماتيسيوس", type: "مفكر"
 - id: "con-functional-sentence-perspective", title: "التقطيعُ الوظيفيُّ للجملة (Functional Sentence Perspective)", type: "مفهوم"
+- id: "wrk-linguistic-school-of-prague-vachek", title: "المدرسةُ اللسانية لبراغ: مدخلٌ إلى نظريتها وممارستها", type: "أثر"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ متخصّصةٍ بسيرته؛ الاعتماد على مصادره الإنجليزية والتشيكية الأساسية."
 ---
