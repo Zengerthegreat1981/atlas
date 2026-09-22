@@ -23,6 +23,8 @@ related:
 - id: "con-five-codes-sz-barthes", title: "الشفراتُ الخمس في S/Z عند بارت", type: "مفهوم"
 - id: "con-studium-punctum-camera-lucida-barthes", title: "السْتوديوم والپونكتوم في La Chambre Claire عند بارت", type: "مفهوم"
 - id: "con-death-of-the-author-barthes", title: "موتُ المؤلِّف عند بارت (La Mort de l'Auteur)", type: "مفهوم"
+- id: "con-rhetoric-of-the-image-barthes", title: "بلاغةُ الصورة عند بارت: الرسائلُ الثلاث (Rhetoric of the Image)", type: "مفهوم"
+- id: "thk-ferdinand-de-saussure", title: "فرديناند دي سوسور", type: "مفكر"
 gaps:
   - "`thk-roland-barthes` موسومٌ `bridge` وموجودٌ بالفعل في الأطلس بسيرته الفكرية الكاملة؛ رُبط إليه بـ`related` دون تكرار. هذه العقدةُ تفرد الإطارَ السيميولوجيَّ الذي ورثه عن سوسور وطوّره تحليلياً."
 ---

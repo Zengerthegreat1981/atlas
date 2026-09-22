@@ -20,6 +20,7 @@ related:
 - id: "sch-saussurean-structuralism", title: "البنيويةُ السوسيرية (Saussurean Structuralism)", type: "مدرسة"
 - id: "wrk-cours-de-linguistique-generale", title: "دروسٌ في اللسانيات العامّة", type: "عمل / كتاب"
 - id: "con-signifier-signified", title: "الدالُّ والمدلول", type: "مفهوم"
+- id: "sch-structuralist-semiology", title: "السيميولوجيا السوسيرية وامتدادُها (Structuralist Semiology)", type: "مدرسة"
 gaps:
   - "لم يكتب سوسور *دروسَ اللسانيات العامّة* بنفسه؛ جمعه تلميذاه شارل بالي وألبير سيشهاي بعد وفاته من ملاحظات الطلبة — هذا موثَّقٌ في ملفِّ العمل نفسِه."
   - "أعمالُه المبكرة في اللسانيات المقارنة الهندوأوروبية (أطروحة 1878 عن نظام الصوائت) لها قيمةٌ مستقلةٌ لم تُفصَّل هنا."

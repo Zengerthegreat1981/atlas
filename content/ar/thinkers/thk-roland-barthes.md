@@ -22,6 +22,7 @@ related:
 - id: "con-five-codes-sz-barthes", title: "الشفراتُ الخمس في S/Z عند بارت", type: "مفهوم"
 - id: "con-studium-punctum-camera-lucida-barthes", title: "السْتوديوم والپونكتوم في La Chambre Claire عند بارت", type: "مفهوم"
 - id: "con-death-of-the-author-barthes", title: "موتُ المؤلِّف عند بارت (La Mort de l'Auteur)", type: "مفهوم"
+- id: "con-rhetoric-of-the-image-barthes", title: "بلاغةُ الصورة عند بارت: الرسائلُ الثلاث (Rhetoric of the Image)", type: "مفهوم"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
 ---
