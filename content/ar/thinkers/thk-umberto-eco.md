@@ -23,6 +23,7 @@ related:
 - id: "con-dictionary-encyclopedia-model-eco", title: "نموذجُ القاموس مقابل الموسوعة (Dictionary vs. Encyclopedia Model)", type: "مفهوم"
 - id: "con-unlimited-semiosis-peirce", title: "السيميوزيسُ غيرُ المحدود عند بيرس (Unlimited Semiosis)", type: "مفهوم"
 - id: "con-model-reader-eco", title: "القارئُ النموذجيُّ عند إيكو (Model Reader)", type: "مفهوم"
+- id: "wrk-a-theory-of-semiotics-eco", title: "نظريةٌ في السيمياء (A Theory of Semiotics)", type: "أثر"
 gaps:
   - "روايةُ إيكو (كـ*اسم الوردة*) وأعمالُه الأدبية خارج نطاق هذه العقدة، التي تقتصر على مساهمته النظرية في علم اللغة/السيمياء."
 ---
