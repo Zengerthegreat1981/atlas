@@ -25,6 +25,7 @@ related:
 - id: "wrk-cobuild-dictionary-project", title: "قاموسُ Collins COBUILD ومشروعُ بنك اللغة الإنجليزية", type: "أثر"
 - id: "sch-corpus-linguistics", title: "لسانياتُ المدوّنات ومناهجُها (Corpus Linguistics)", type: "مدرسة"
 - id: "con-brown-corpus-founding", title: "مدوّنةُ براون: أوّلُ مدوّنةٍ لغويةٍ إلكترونية ممثِّلة", type: "مفهوم"
+- id: "con-collocation-corpus-linguistics", title: "التلازمُ اللفظي في لسانيات المدوّنات (Collocation)", type: "مفهوم"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لأعمال سنكلير الأصلية ضمن مصادر الأطلس؛ الاعتماد على النصوص الإنجليزية الأصلية."
   - "**سُدَّ 2026-09-22 (الدفعة 290)**: أُضيف رابطُ `sch-corpus-linguistics` الناقص رغم انتماء سنكلير إليها بوصفه أحد روّادها المؤسِّسين."

@@ -16,6 +16,7 @@ related:
 - id: "thk-john-sinclair", title: "جون سنكلير", type: "مفكر"
 - id: "con-idioms-formulaic-language", title: "التعابيرُ الاصطلاحية واللغةُ الصيغية (Idioms & Formulaic Language)", type: "مفهوم"
 - id: "con-lexical-priming-hoey", title: "التنشيطُ المعجميّ (Lexical Priming)", type: "مفهوم"
+- id: "con-collocation-corpus-linguistics", title: "التلازمُ اللفظي في لسانيات المدوّنات (Collocation)", type: "مفهوم"
 gaps: []
 ---
 
