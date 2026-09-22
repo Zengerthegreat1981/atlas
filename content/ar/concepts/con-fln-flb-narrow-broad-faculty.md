@@ -16,6 +16,7 @@ related:
 - id: "thk-w-tecumseh-fitch", title: "و. تيكمسه فيتش", type: "مفكر"
 - id: "con-poverty-of-the-stimulus-universal-grammar", title: "النحوُ الكلّيُّ وفقرُ المحفِّز (Universal Grammar & Poverty of the Stimulus)", type: "مفهوم"
 - id: "dbt-innateness-vs-usage-based-language-acquisition", title: "جدلُ الفطرية اللغوية مقابل الاستعمالية في اكتساب اللغة", type: "جدل"
+- id: "thk-ray-jackendoff", title: "راي جاكندوف", type: "مفكر"
 gaps:
   - "حيادٌ صريحٌ محفوظ: التمييزُ نفسُه، ولا سيّما ادّعاءُ اختصاص العودية وحدها بـFLN، محلُّ جدلٍ علميٍّ مستمر (راجع نقد بينكر وجاكندوف 2005)؛ لا يُرجَّح طرفٌ هنا."
 ---

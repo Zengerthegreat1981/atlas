@@ -29,6 +29,7 @@ related:
 - id: "con-social-grooming-gossip-hypothesis-dunbar", title: "فرضيةُ العناية الاجتماعية والثرثرة عند دَنبار (Social Grooming & Gossip Hypothesis)", type: "مفهوم"
 - id: "con-foxp2-gene-ke-family", title: "جينُ FOXP2 وعائلةُ KE: دليلٌ جينيٌّ على أصل اللغة", type: "مفهوم"
 - id: "con-shared-intentionality-tomasello", title: "القصديةُ المشتركةُ عند توماسيلو (Shared Intentionality)", type: "مفهوم"
+- id: "thk-ray-jackendoff", title: "راي جاكندوف", type: "مفكر"
 gaps:
   - "حيادٌ صريحٌ محفوظ: خلافُ هاوزر/تشومسكي/فيتش (2002) وبنكر/جاكندوف (2005) حول ما إذا كانت ملَكةُ اللغة تطوّرت كتكيّفٍ متخصّصٍ منفصل أم كإعادة توظيفٍ لقدراتٍ معرفيةٍ عامّة، لا يزال جدلاً علمياً مفتوحاً؛ لا يُرجَّح طرفٌ هنا."
 ---
