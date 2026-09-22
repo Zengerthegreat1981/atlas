@@ -19,6 +19,7 @@ edges:
 related:
 - id: "sch-relevance-theory", title: "نظريةُ الملاءمة (Relevance Theory)", type: "مدرسة"
 - id: "thk-dan-sperber", title: "دان سپربر", type: "مفكر"
+- id: "con-comprehension-procedure-relevance-theory", title: "إجراءُ الفهم في نظرية الملاءمة (Relevance-Theoretic Comprehension Procedure)", type: "مفهوم"
 gaps:
   - "تاريخُ ميلادها الدقيق غيرُ مثبَتٍ من مصدرٍ أوّليٍّ محدَّد هنا؛ الاعتمادُ على صفحتها الأكاديمية في جامعة كوليدج لندن."
 ---
