@@ -20,6 +20,7 @@ related:
 - id: "sch-gricean-pragmatics", title: "التداوليةُ الغرايسية (Gricean Pragmatics)", type: "مدرسة"
 - id: "con-scalar-implicature-horn", title: "الإفهامُ المقياسي (Scalar Implicature)", type: "مفهوم"
 - id: "con-conversational-implicature", title: "الإفهامُ التخاطبي (Conversational Implicature)", type: "مفهوم"
+- id: "con-horn-q-r-principles", title: "مبدآ الكمّ والعلاقة المتنافسان عند هورن (Q-Principle & R-Principle)", type: "مفهوم"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرته؛ الاعتمادُ على مصادره الإنجليزية الأساسية."
 ---
