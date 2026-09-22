@@ -24,6 +24,7 @@ related:
 - id: "con-syllable-structure-phonotactics", title: "بنيةُ المقطع الصوتي والقيودُ الصوتية التركيبية (Syllable Structure & Phonotactics)", type: "مفهوم"
 - id: "con-prosody-intonation", title: "العروضُ الكلاميُّ والتنغيم (Prosody & Intonation)", type: "مفهوم"
 - id: "wrk-sound-pattern-of-english-chomsky-halle", title: "The Sound Pattern of English", type: "أثر"
+- id: "ins-international-phonetic-alphabet", title: "الأبجديةُ الصوتيةُ الدولية (International Phonetic Alphabet, IPA)", type: "منهج/أداة بحث"
 gaps: []
 ---
 
