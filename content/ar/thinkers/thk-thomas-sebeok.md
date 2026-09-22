@@ -20,6 +20,8 @@ edges:
 related:
 - id: "thk-juri-lotman", title: "يوري لوتمان", type: "مفكر"
 - id: "thk-peirce", title: "تشارلز ساندرز بيرس", type: "مفكر"
+- id: "thk-jakob-von-uexkull", title: "ياكوب فون أوكسكول", type: "مفكر"
+- id: "con-umwelt-uexkull", title: "العالمُ المحيط الخاصّ (Umwelt)", type: "مفهوم"
 gaps: []
 ---
 

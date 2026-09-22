@@ -21,6 +21,8 @@ related:
 - id: "sch-structuralist-semiology", title: "السيميولوجيا السوسيرية وامتدادُها (Structuralist Semiology)", type: "مدرسة"
 - id: "con-semiosphere-lotman", title: "الغلافُ السيميائي (Semiosphere)", type: "مفهوم"
 - id: "con-zoosemiotics-sebeok", title: "السيمياءُ الحيوانية (Zoosemiotics)", type: "مفهوم"
+- id: "thk-jakob-von-uexkull", title: "ياكوب فون أوكسكول", type: "مفكر"
+- id: "con-umwelt-uexkull", title: "العالمُ المحيط الخاصّ (Umwelt)", type: "مفهوم"
 gaps: []
 ---
 
