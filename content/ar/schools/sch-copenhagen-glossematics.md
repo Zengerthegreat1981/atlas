@@ -24,6 +24,7 @@ related:
 - id: "con-commutation-test-glossematics", title: "اختبارُ الإبدال (Commutation Test)", type: "مفهوم"
 - id: "con-connotative-metasemiotics-hjelmslev", title: "السيمياءُ الإيحائية وما وراء السيميائية عند يلمسليف (Connotative & Metasemiotics)", type: "مفهوم"
 - id: "con-empirical-principle-glossematics", title: "المبدأُ التجريبيُّ وثنائيةُ السينيمات والپليريمات عند يلمسليف", type: "مفهوم"
+- id: "con-catalysis-latent-categories-glossematics", title: "التحفيزُ (الكتاليزس) والمقولاتُ الكامنة عند يلمسليف", type: "مفهوم"
 gaps:
   - "**سُدَّ بالكامل 2026-09-22 (الدفعة 176)**: أُنشئ `thk-hans-jorgen-uldall`."
   - "**سُدَّ بالكامل 2026-09-22 (الدفعة 237)**: أُنشئ `con-empirical-principle-glossematics`، مُفصِّلاً الأساسَ المنهجي (المبدأ التجريبي) والجهازَ المصطلحي (السينيمات/الپليريمات) اللذين بُنيت عليهما هذه المدرسة."
