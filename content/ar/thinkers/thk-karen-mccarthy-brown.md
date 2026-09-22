@@ -19,6 +19,7 @@ related:
 - id: "sch-academic-haitian-vodou-studies", title: "الدراسةُ الأكاديميةُ للفودو الهايتية (Haitian Vodou Studies)", type: "مدرسة"
 - id: "wrk-mama-lola-mccarthy-brown", title: "ماما لولا: كاهنةُ فودو في بروكلين (Mama Lola: A Vodou Priestess in Brooklyn) — الكتاب", type: "عمل / كتاب"
 - id: "thk-alfred-metraux", title: "ألفريد ميترو (Alfred Métraux)", type: "مفكر"
+- id: "thk-elizabeth-mcalister", title: "إليزابيث مكاليستر (Elizabeth McAlister)", type: "مفكر"
 gaps:
   - "سيرتُها الأكاديمية الكاملة (تكوينها في جامعة تمپل حيث نالت الدكتوراه، وتفاصيلُ تدريسها في جامعة درو) لم تُفصَّل من مصدرٍ أوّليٍّ مباشر في هذه الدفعة؛ اقتُصر على إسهامها المرجعيِّ الأبرز."
   - "أعمالُها الأخرى (مثل تحريرها لمقالاتٍ عن الجندر في الأديان الأفرو-كاريبية) لم تُدرَج بملفّاتٍ مستقلّة، تفادياً للجزم بمحتواها دون تحقّقٍ أوّليّ مباشر في هذه الدفعة."
