@@ -28,6 +28,7 @@ related:
 - id: "thk-david-crystal", title: "ديفيد كريستال", type: "مفكر"
 - id: "con-internet-linguistics-netspeak", title: "لسانياتُ الإنترنت ولغةُ الشبكة (Internet Linguistics & Netspeak)", type: "مفهوم"
 - id: "con-n-gram-hmm-statistical-nlp", title: "نماذجُ إن-غرام وماركوف الخفية في المعالجة الإحصائية للغة", type: "مفهوم"
+- id: "thk-frederick-jelinek", title: "فريدريك جيلينيك", type: "مفكر"
 - id: "con-wordnet-lexical-database-miller", title: "قاعدةُ ووردنت المعجمية الحاسوبية (WordNet)", type: "مفهوم"
 - id: "con-contextualized-embeddings-bert-elmo", title: "التمثيلاتُ المتّجهيةُ السياقية (ELMo وBERT)", type: "مفهوم"
 - id: "con-word2vec-mikolov", title: "خوارزميةُ Word2Vec عند ميكولوف", type: "مفهوم"

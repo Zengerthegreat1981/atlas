@@ -15,6 +15,7 @@ related:
 - id: "sch-computational-linguistics-nlp", title: "اللسانياتُ الحاسوبيةُ ومعالجةُ اللغة الطبيعية (Computational Linguistics & NLP)", type: "مدرسة"
 - id: "con-distributional-semantics-word-embeddings", title: "الدلالةُ التوزيعية وتمثيلاتُ الكلمات المتّجهية (Distributional Semantics & Word Embeddings)", type: "مفهوم"
 - id: "rel-generative-grammar-statistical-nlp", title: "النحوُ التوليديُّ ومعالجةُ اللغة الإحصائية: جوارٌ متوتِّر", type: "علاقة بين مدرستين"
+- id: "thk-frederick-jelinek", title: "فريدريك جيلينيك", type: "مفكر"
 gaps: []
 ---
 
