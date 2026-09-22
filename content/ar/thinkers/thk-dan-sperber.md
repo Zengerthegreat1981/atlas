@@ -20,6 +20,7 @@ related:
 - id: "sch-relevance-theory", title: "نظريةُ الملاءمة (Relevance Theory)", type: "مدرسة"
 - id: "thk-deirdre-wilson", title: "ديردري ويلسون", type: "مفكر"
 - id: "con-epidemiology-of-representations-sperber", title: "وبائيةُ التمثّلات (Epidemiology of Representations)", type: "مفهوم"
+- id: "wrk-relevance-communication-cognition-sperber-wilson", title: "الملاءمة: التواصلُ والإدراك (Relevance: Communication and Cognition)", type: "أثر"
 gaps:
   - "خلفيتُه الأنثروبولوجية المبكرة (بحوثٌ ميدانية في مدغشقر، ونقدُه لمفهوم 'العقلية البدائية' عند ليفي-بريل) موضوعٌ منفصلٌ لم يُغطَّ في هذا الملف اللساني. **سُدَّ جزئياً 2026-09-22 (الدفعة 172)**: امتدادُه النظري اللاحق (وبائيةُ التمثّلات) مغطًّى الآن في `con-epidemiology-of-representations-sperber`."
 ---
