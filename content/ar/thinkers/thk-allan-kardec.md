@@ -19,6 +19,7 @@ related:
 - id: "sch-umbanda-academic-study", title: "الدراسةُ الأكاديميةُ لأومباندا (Umbanda Studies)", type: "مدرسة"
 - id: "wrk-the-spirits-book-kardec", title: "كتابُ الأرواح (The Spirits' Book) — الكتاب", type: "عمل / كتاب"
 - id: "thk-diana-brown", title: "ديانا براون (Diana DeG. Brown)", type: "مفكر"
+- id: "sch-spiritualist-medium-movement", title: "حركةُ الروحانية الأنغلو-أمريكية والوساطة (Spiritualist Medium Movement)", type: "مدرسة"
 gaps:
   - "هذا الملفُّ يوثِّق كاردِك بوصفه موضوعَ دراسةٍ تاريخيةٍ-سوسيولوجية (أصلُ الكارديسية الفرنسية بوصفها أحد مصادر أومباندا الثلاثة الموثَّقة في `sch-umbanda-academic-study`)، لا عرضاً لعقيدته الروحانية من الداخل ولا دفاعاً عنها ولا نقداً إلحادياً لها، التزاماً بحدّ قسم `religious-studies`."
   - "سيرتُه الشخصية الكاملة (اسمُه الأصليّ هيبوليت ليون دونيزار ريڤايْ Hippolyte Léon Denizard Rivail، ومهنتُه كمربٍّ قبل تأسيس الكارديسية) لم تُتحقَّق من مصدرٍ أوّليٍّ مباشر في هذه الدفعة، اقتصاراً على بيانات النشر الموثَّقة عبر Open Library لعمله الرئيسي."
