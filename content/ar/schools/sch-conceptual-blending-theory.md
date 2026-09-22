@@ -26,6 +26,7 @@ related:
 - id: "con-emergent-structure-blending", title: "البنيةُ الناشئةُ: التأليفُ والإكمالُ والتفصيلُ في المزج المفهومي", type: "مفهوم"
 - id: "con-optimality-principles-blending", title: "مبادئُ الأمثلية الحاكمة للمزج المفهومي", type: "مفهوم"
 - id: "thk-seana-coulson", title: "سيانا كولسون", type: "مفكر"
+- id: "thk-eve-sweetser", title: "إيڤ سويتسر", type: "مفكر"
 gaps: []
 ---
 
