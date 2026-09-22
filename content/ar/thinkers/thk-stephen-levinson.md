@@ -21,6 +21,8 @@ related:
 - id: "con-linguistic-relativity-contemporary-debate", title: "الجدلُ المعاصرُ حول النسبية اللغوية (Boroditsky & Levinson)", type: "مفهوم"
 - id: "thk-lera-boroditsky", title: "ليرا بوروديتسكي", type: "مفكر"
 - id: "sch-politeness-theory", title: "نظريةُ التأدّب ووجهُ المتكلّم (Politeness Theory)", type: "مدرسة"
+- id: "sch-gricean-pragmatics", title: "التداوليةُ الغرايسية (Gricean Pragmatics)", type: "مدرسة"
+- id: "con-neo-gricean-heuristics-levinson", title: "المبادئُ النيوغرايسيةُ الثلاثة عند ليفنسون (Q/I/M Heuristics)", type: "مفهوم"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرته؛ الاعتمادُ على مصادره الإنجليزية الأساسية."
 ---

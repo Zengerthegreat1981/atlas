@@ -21,8 +21,9 @@ related:
 - id: "sch-neoplatonism", title: "الأفلاطونية المحدثة (Neoplatonism)", type: "مدرسة"
 - id: "sch-renaissance-humanism", title: "الإنسانية النهضوية", type: "مدرسة"
 - id: "wrk-corpus-hermeticum", title: "الكوربوس الهرمسية", type: "عمل / كتاب"
+- id: "sch-rosicrucianism", title: "الروزيكروشية أكاديمياً: البيانات التأسيسية وتأويلُ مؤرّخي الباطنية", type: "مدرسة"
 gaps:
-  - "رابط مقترح لـ«الروزيكروشيان» (sch-rosicrucianism) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
+  - "سُدَّت 2026-09-22: أُضيفت `sch-rosicrucianism` كعقدةٍ جديدة ضمن `religious-studies` (الروزيكروشية أكاديمياً)، وأُعيد الربط من هنا."
   - "نصوص 'Corpus Hermeticum' (كوربس هرميتيكام) و'Asclepius' تحتاج مراجعة من المصدر الأولي."
 ---
 
