@@ -21,6 +21,7 @@ related:
 - id: "sch-basra-kufa-grammatical-dispute", title: "مدرسةُ الكوفة والخلافُ النحويّ (Kufa Grammatical School)", type: "مدرسة"
 - id: "thk-thalab", title: "أبو العباس ثعلب", type: "مفكر"
 - id: "wrk-al-insaf-masail-al-khilaf-ibn-al-anbari", title: "الإنصافُ في مسائل الخلاف بين النحويين البصريين والكوفيين", type: "أثر"
+- id: "wrk-al-muqtadab-mubarrad", title: "المقتضَب", type: "أثر"
 gaps:
   - "لم يُعثر على ترجمةٍ إنجليزيةٍ أكاديميةٍ شاملةٍ متخصّصةٍ بالمبرِّد ضمن مصادر الأطلس؛ الاعتمادُ الرئيسي على المصادر العربية التراثية ودراسة Owens العامة."
 ---
