@@ -23,6 +23,7 @@ related:
 - id: "sch-butler-gender-performativity", title: "سوسيولوجيا الأداء الجندري وتفكيك الثنائية", type: "مدرسة"
 - id: "crt-butler-critique-of-heteronormativity", title: "نقد جوديث بتلر للمعيارية المغايرة وثنائية الجنس الطبيعي", type: "نقد خارجي موثَّق"
 - id: "crt-butler-critique-chodorow-gender-essentialism", title: "نقد بتلر لجوهرانية النوع الاجتماعي عند تشودورو", type: "نقد خارجي موثَّق"
+- id: "con-identity-performativity-bucholtz-hall", title: "الهويةُ العلائقيةُ الناشئة عند بوخولتس وهول (Identity as Relational & Emergent)", type: "مفهوم"
 gaps:
   - "**سُدَّ 2026-09-17 (الدورة 17):** أُضيف ملف `crt-butler-critique-chodorow-gender-essentialism` وربطه هنا، موثِّقاً نقد بتلر الصريح لنظرية تشودورو النفسية-النسوية في *Gender Trouble* (1990)."
   - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
