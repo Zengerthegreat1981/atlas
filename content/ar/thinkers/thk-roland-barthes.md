@@ -24,6 +24,7 @@ related:
 - id: "con-death-of-the-author-barthes", title: "موتُ المؤلِّف عند بارت (La Mort de l'Auteur)", type: "مفهوم"
 - id: "con-rhetoric-of-the-image-barthes", title: "بلاغةُ الصورة عند بارت: الرسائلُ الثلاث (Rhetoric of the Image)", type: "مفهوم"
 - id: "con-fashion-system-barthes", title: "نظامُ الموضة عند بارت (Système de la Mode)", type: "مفهوم"
+- id: "wrk-elements-de-semiologie-barthes", title: "عناصرُ السيميولوجيا (Éléments de Sémiologie) لبارت", type: "عمل"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
 ---
