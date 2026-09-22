@@ -22,6 +22,7 @@ related:
 - id: "wrk-constructing-a-language-tomasello", title: "بناءُ لغة: نظريةٌ استعمالية لاكتساب اللغة (Constructing a Language)", type: "أثر"
 - id: "sch-usage-based-grammar", title: "النحوُ الناشئُ عن الاستعمال (Usage-Based Grammar)", type: "مدرسة"
 - id: "con-intention-reading-pattern-finding-tomasello", title: "قراءةُ النيّة وإيجادُ النمط عند توماسيلو", type: "مفهوم"
+- id: "con-shared-intentionality-tomasello", title: "القصديةُ المشتركةُ عند توماسيلو (Shared Intentionality)", type: "مفهوم"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لأعمال توماسيلو الأصلية ضمن مصادر الأطلس؛ الاعتماد على النصوص الإنجليزية الأصلية."
   - "**سُدَّ 2026-09-22 (الدفعة 254)**: أُضيف رابطُ `sch-usage-based-grammar` الذي كان ناقصاً رغم انتماء توماسيلو إليها موضوعياً."
