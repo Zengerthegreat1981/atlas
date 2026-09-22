@@ -16,6 +16,7 @@ related:
 - id: "con-x-bar-theory", title: "نظريةُ X-شرطة (X-Bar Theory)", type: "مفهوم"
 - id: "con-fln-flb-narrow-broad-faculty", title: "الملَكةُ اللغوية بمعناها الضيّق والواسع (FLN/FLB)", type: "مفهوم"
 - id: "con-copy-theory-of-movement-minimalism", title: "نظريةُ النسخ في الحركة النحوية (Copy Theory of Movement)", type: "مفهوم"
+- id: "wrk-the-minimalist-program-chomsky-1995", title: "البرنامجُ الأدنويّ (The Minimalist Program)", type: "أثر"
 gaps: []
 ---
 

@@ -31,6 +31,7 @@ related:
 - id: "con-bare-phrase-structure-chomsky", title: "البنيةُ العباراتية المجرَّدة عند تشومسكي (Bare Phrase Structure)", type: "مفهوم"
 - id: "con-successive-cyclic-movement-pic", title: "الحركةُ التتابعيةُ الدورية وشرطُ عدم النفاذية الطَوري (Successive-Cyclic Movement & PIC)", type: "مفهوم"
 - id: "con-economy-principles-minimalism", title: "مبادئُ الاقتصاد الاشتقاقي في البرنامج الأدنوي (Derivational Economy Principles)", type: "مفهوم"
+- id: "wrk-the-minimalist-program-chomsky-1995", title: "البرنامجُ الأدنويّ (The Minimalist Program)", type: "أثر"
 gaps:
   - "`thk-noam-chomsky` موسومٌ `philosophy` (DR-014) ولم يُكرَّر؛ العقدةُ تفرد المرحلةَ التقنية الأحدث من نظريته دون تكرار سيرته."
   - "**سُدَّ 2026-09-22 (الدفعة 162)**: أُنشئ `con-merge-operation-minimalism` (عمليةُ الدمج، الدمجُ الخارجي والداخلي)."
