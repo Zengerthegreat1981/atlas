@@ -21,10 +21,13 @@ related:
 - id: "thk-martin-marty", title: "مارتن إ. مارتي (Martin E. Marty)", type: "مفكر"
 - id: "thk-randall-balmer", title: "راندال هـ. بالمر (Randall Herbert Balmer)", type: "مفكر"
 - id: "con-dispensationalism", title: "التدبيريةُ (Dispensationalism)", type: "مفهوم"
+- id: "thk-barry-hankins", title: "باري هانكينز (Barry Hankins)", type: "مفكر"
+- id: "con-new-evangelicalism", title: "الإنجيليةُ الجديدة (New Evangelicalism)", type: "مفهوم"
 gaps:
   - "أُنشئ 2026-09-22 (الدفعة 211) كمجالٍ فرعيٍّ جديدٍ داخل علم الأديان المقارن: التأريخُ الأكاديميُّ (لا اللاهوتيُّ ولا الدعويّ) لنشأة الأصولية المسيحية البروتستانتية الأمريكية بوصفها ظاهرةً ثقافيةً-تاريخية، متمايزاً عمداً عن مشروع مارتي-أپلبي المقارَن العابر للأديان (`sch-comparative-religious-violence-studies`) الذي يدرس الأصولية كفئةٍ مقارَنةٍ عابرة للتقاليد؛ هذا المجالُ يتناول الحالة الأمريكية البروتستانتية تحديداً بمنهجٍ تاريخيٍّ-فكريٍّ متجذّرٍ في مدرسة مارسدن. تحقَّقتُ عبر `grep -ril \"marsden\\|fundamentalis\"` من غياب أيِّ ملفٍّ سابقٍ لمارسدن أو لهذا المجال الفرعيِّ بعينه، فلا تكرار."
   - "اقتُصر تأسيساً على مارسدن وعمله المؤسِّس؛ لم تُستوفَ هنا شخصياتٌ لاحقةٌ في الحقل (مثل Randall Balmer أو Barry Hankins) ولا مفاهيمُ فرعيةٌ (كالإنجيلية الجديدة New Evangelicalism، أو نظرية الانعزال Dispensationalism) — فجواتٌ موثَّقةٌ لدفعاتٍ لاحقة ضمن حزمة هذا المجال الفرعيّ."
   - "الدفعة 212 (2026-09-22): أُضيف راندال بالمر (`thk-randall-balmer`) وكتابُه `wrk-mine-eyes-have-seen-the-glory-balmer` ومفهومُ التدبيرية `con-dispensationalism`، فسُدّت الفجوتان أعلاه جزئياً؛ ما يزال Barry Hankins والإنجيليةُ الجديدة (New Evangelicalism) غيرَ مستوفَيَين."
+  - "الدفعة 213 (2026-09-22): أُضيف باري هانكينز (`thk-barry-hankins`) وكتابُه `wrk-francis-schaeffer-shaping-evangelical-america-hankins` ومفهومُ `con-new-evangelicalism`، فسُدّت الفجوتان المذكورتان أعلاه. فجوةٌ جديدةٌ وُثِّقت: هارولد أوكنجا (Harold Ockenga)، مؤسّسُ معهد فولر ومَن يُنسَب إليه سكُّ مصطلح الإنجيلية الجديدة، لم يُستوفَ بعدُ بملفٍّ مستقلّ لغياب مصدرٍ محقَّقٍ ضمن ميزانية هذه الدفعة."
 ---
 
 # دراساتُ الأصولية المسيحية الأمريكية (American Christian Fundamentalism Studies)
