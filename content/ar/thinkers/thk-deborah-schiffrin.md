@@ -18,6 +18,7 @@ edges: []
 related:
 - id: "con-discourse-markers", title: "علاماتُ الخطاب (Discourse Markers)", type: "مفهوم"
 - id: "sch-text-linguistics", title: "لسانياتُ النصِّ وتماسكُه (Text Linguistics)", type: "مدرسة"
+- id: "con-planes-of-discourse-schiffrin", title: "طبقاتُ التماسك الخطابي الخمس عند شفرين", type: "مفهوم"
 gaps:
   - "لا `belongs_to`: لا مدرسةَ منفصلة باسم «علامات الخطاب»؛ تُربط شفرين بمفهوم نظريتها مباشرةً بـ`related`."
 ---

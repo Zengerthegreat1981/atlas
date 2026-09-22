@@ -27,6 +27,7 @@ related:
 - id: "con-macrostructure-superstructure-van-dijk", title: "البنيةُ الكلّية والبنيةُ الفوقية عند فان دايك (Macrostructure & Superstructure)", type: "مفهوم"
 - id: "con-seven-standards-textuality-beaugrande-dressler", title: "المعاييرُ السبعةُ للنصّية عند دو بوغراند ودريسلر", type: "مفهوم"
 - id: "con-context-models-van-dijk", title: "نماذجُ السياق الذهنية عند فان دايك (Context Models)", type: "مفهوم"
+- id: "con-planes-of-discourse-schiffrin", title: "طبقاتُ التماسك الخطابي الخمس عند شفرين", type: "مفهوم"
 gaps: []
 ---
 
