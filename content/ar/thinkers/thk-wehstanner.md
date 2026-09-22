@@ -20,6 +20,8 @@ related:
 - id: "wrk-the-dreaming-and-other-essays-stanner", title: "زمن الأحلام ومقالات أخرى (The Dreaming and Other Essays)", type: "عمل / كتاب"
 - id: "con-dreamtime", title: "زمن الأحلام (Dreamtime / Tjukurrpa)", type: "مفهوم"
 - id: "sch-dreamtime", title: "Dreaming / Dreamtime (فلسفة السكان الأصليين الأستراليين)", type: "مدرسة"
+- id: "thk-apelkin", title: "أ. پ. إلكين (A.P. Elkin)", type: "مفكر"
+- id: "dbt-religion-as-category-aboriginal-australia", title: "هل «الدين» مقولةٌ ملائمةٌ لوصف أنظمة السكان الأصليين الأستراليين؟", type: "جدل"
 gaps:
   - "لا تتوفر بعدُ في الأطلس سيرةٌ تفصيلية لمساره الأكاديمي الكامل (لندن سكول أوف إيكونوميكس، ثم الجامعة الوطنية الأسترالية)؛ اكتُفي هنا بالمعطيات المؤكَّدة من Open Library ومصادر ثانوية موثوقة."
   - "دوره السياسي خارج الأكاديميا (مستشاراً في قضايا سياسات السكان الأصليين، ومحاضرات Boyer الإذاعية الشهيرة 1968 عن 'الصمت الكبير' الأسترالي تجاه تاريخ السكان الأصليين) يستحقّ ملفَّ حدثٍ أو دراسةٍ مستقلّة لاحقاً."
