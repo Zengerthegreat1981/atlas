@@ -20,6 +20,7 @@ related:
 - id: "sch-copenhagen-glossematics", title: "حلقةُ كوبنهاغن واللسانياتُ الصورية (Glossematics)", type: "مدرسة"
 - id: "sch-saussurean-structuralism", title: "البنيويةُ السوسيرية (Saussurean Structuralism)", type: "مدرسة"
 - id: "thk-hans-jorgen-uldall", title: "هانز يورغن أولدال", type: "مفكر"
+- id: "con-form-substance-expression-content-hjelmslev", title: "الشكلُ والجوهرُ في التعبير والمحتوى (Form/Substance، Expression/Content)", type: "مفهوم"
 - id: "con-connotative-metasemiotics-hjelmslev", title: "السيمياءُ الإيحائية وما وراء السيميائية عند يلمسليف (Connotative & Metasemiotics)", type: "مفهوم"
 - id: "con-empirical-principle-glossematics", title: "المبدأُ التجريبيُّ وثنائيةُ السينيمات والپليريمات عند يلمسليف", type: "مفهوم"
 - id: "con-catalysis-latent-categories-glossematics", title: "التحفيزُ (الكتاليزس) والمقولاتُ الكامنة عند يلمسليف", type: "مفهوم"
