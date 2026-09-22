@@ -23,6 +23,8 @@ related:
 - id: "thk-antoine-berman", title: "أنطوان برمان", type: "مفكر"
 - id: "con-domestication-foreignization-translation", title: "التوطينُ والتغريبُ في الترجمة (Domestication & Foreignization)", type: "مفهوم"
 - id: "con-skopos-theory-vermeer-reiss", title: "نظريةُ الغاية عند ﭬيرمير ورايس (Skopos Theory)", type: "مفهوم"
+- id: "thk-gideon-toury", title: "جدعون توري", type: "مفكر"
+- id: "con-translation-norms-toury", title: "معاييرُ الترجمة الوصفية عند توري (Translation Norms)", type: "مفهوم"
 gaps: []
 ---
 
