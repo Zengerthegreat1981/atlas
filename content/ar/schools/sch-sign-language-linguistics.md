@@ -19,6 +19,8 @@ related:
 - id: "con-broca-wernicke-lichtheim-model", title: "نموذجُ بروكا-فيرنيكه-ليختهايم", type: "مفهوم"
 - id: "sch-classical-neurolinguistics", title: "علمُ اللغة العصبيُّ الكلاسيكي (Classical Neurolinguistics)", type: "مدرسة"
 - id: "thk-william-stokoe", title: "وليام ستوكو", type: "مفكر"
+- id: "thk-ursula-bellugi", title: "أورسولا بيلوجي", type: "مفكر"
+- id: "stu-nicaraguan-sign-language-emergence-senghas", title: "نشوءُ لغة الإشارة النيكاراغوية: دراساتُ آن سنغاس", type: "دراسة"
 gaps: []
 ---
 
