@@ -22,6 +22,7 @@ related:
 - id: "thk-william-foley", title: "وليام فولي", type: "مفكر"
 - id: "con-macrorole-actor-undergoer-rrg", title: "الدوران الكليّان: الفاعلُ والمتأثِّر (Actor & Undergoer Macroroles)", type: "مفهوم"
 - id: "con-layered-clause-structure-rrg", title: "البنيةُ الطبقية للجملة في نحو الدور والمرجع (Layered Structure of the Clause)", type: "مفهوم"
+- id: "con-linking-algorithm-rrg", title: "خوارزميةُ الربط الدلاليِّ-النحويّ في نحو الدور والمرجع (Linking Algorithm)", type: "مفهوم"
 gaps:
   - "لا `belongs_to`: تيارٌ وظيفيٌّ نشأ بالتوازي مع اللسانيات الوظيفية المنهجية الهاليدايية دون انحدارٍ مباشرٍ منها."
 ---
