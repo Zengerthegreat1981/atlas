@@ -30,6 +30,7 @@ related:
 - id: "con-glue-semantics-lfg", title: "دلالةُ الغراء في النحو المعجمي الوظيفي (Glue Semantics)", type: "مفهوم"
 - id: "con-functional-uncertainty-lfg", title: "عدمُ اليقين الوظيفي في النحو المعجمي الوظيفي (Functional Uncertainty)", type: "مفهوم"
 - id: "wrk-head-driven-phrase-structure-grammar-pollard-sag", title: "قواعدُ البنية العباراتية المسندة بالرؤوس (Head-Driven Phrase Structure Grammar)", type: "أثر"
+- id: "wrk-lexical-functional-syntax-bresnan", title: "التركيبُ المعجميُّ الوظيفي (Lexical-Functional Syntax)", type: "أثر"
 gaps: []
 ---
 

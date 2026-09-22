@@ -22,6 +22,7 @@ related:
 - id: "thk-ronald-kaplan", title: "رونالد كابلان", type: "مفكر"
 - id: "con-lexical-mapping-theory-bresnan", title: "نظريةُ الترميم المعجمي عند برسنان (Lexical Mapping Theory)", type: "مفهوم"
 - id: "con-glue-semantics-lfg", title: "دلالةُ الغراء في النحو المعجمي الوظيفي (Glue Semantics)", type: "مفهوم"
+- id: "wrk-lexical-functional-syntax-bresnan", title: "التركيبُ المعجميُّ الوظيفي (Lexical-Functional Syntax)", type: "أثر"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لأعمال برسنان الأصلية ضمن مصادر الأطلس؛ الاعتماد على النصوص الإنجليزية الأصلية."
 ---
