@@ -19,8 +19,9 @@ edges:
 related:
 - id: "sch-cognitive-linguistics", title: "اللسانياتُ المعرفية (Cognitive Linguistics)", type: "مدرسة"
 - id: "con-construal-profile-base-langacker", title: "التأويلُ والملمحُ والقاعدة (Construal, Profile & Base)", type: "مفهوم"
+- id: "con-cognitive-grammar-langacker", title: "النحوُ المعرفيُّ عند لانغاكر (Cognitive Grammar)", type: "مفهوم"
 gaps:
-  - "تفاصيلُ نموذجه التقني الأوسع (القاعدةُ الرمزية، مخطّطاتُ الصورة، التوصيفُ الحيّزي) واسعةٌ ولم تُشرح بالكامل بعد أدواتِ التأويل والملمح والقاعدة الأساسية."
+  - "**سُدَّ بالكامل 2026-09-22 (الدفعة 188)**: أُنشئ `con-cognitive-grammar-langacker` يفصّل القواعدَ الرمزية والصورةَ الذهنية والتخطيطاتِ التصويرية."
 ---
 
 # رونالد لانغاكر
