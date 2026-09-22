@@ -15,6 +15,7 @@ related:
 - id: "sch-biosemiotics-tartu", title: "مدرسةُ تارتو والسيمياءُ الحيوية (Tartu-Moscow School & Biosemiotics)", type: "مدرسة"
 - id: "thk-jesper-hoffmeyer", title: "يسپر هوفماير", type: "مفكر"
 - id: "con-umwelt-uexkull", title: "العالمُ المحيط الخاصّ (Umwelt)", type: "مفهوم"
+- id: "thk-marcello-barbieri", title: "مارتشيلو باربييري", type: "مفكر"
 gaps: []
 ---
 

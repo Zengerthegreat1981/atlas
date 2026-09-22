@@ -28,6 +28,7 @@ related:
 - id: "con-code-duality-hoffmeyer", title: "ازدواجيةُ الشفرة عند هوفماير (Code Duality)", type: "مفهوم"
 - id: "thk-kalevi-kull", title: "كاليفي كول", type: "مفكر"
 - id: "con-endosemiotics-sebeok", title: "السيمياءُ الباطنية عند سيبيوك (Endosemiotics)", type: "مفهوم"
+- id: "thk-marcello-barbieri", title: "مارتشيلو باربييري", type: "مفكر"
 gaps: []
 ---
 
