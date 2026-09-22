@@ -880,3 +880,11 @@
 الزمنية الضيّقة بين فحص `git status --porcelain` هنا واستدعاء `git commit`. المحتوى المسحوب شرعيٌّ
 تماماً (عملٌ جديدٌ حقيقي لتلك الجلسة، لا تدميرَ ولا استبدال)؛ لم يُتّخذ أيُّ إجراءٍ تصحيحيٍّ تدميري
 (لا rebase ولا history rewrite)، ووُثِّقت الحادثةُ هنا فقط، تكراراً للنمط الموثَّق سابقاً في الدفعة 212.
+
+## ⚠️ حالةٌ مقيسة (تحديث، الدفعة 244)
+
+- عقدُ اللسانيات الحيّة: **401**.
+- آخر تثبيتٍ ناجح: commit `86f58b5f` (الدفعة 244، سالي مكونل-جينيت).
+- الدفعاتُ الأربع الأخيرة: 241 (`con-neo-gricean-heuristics-levinson`؛ لاحظ حادثةَ سحب ملفّاتٍ موثَّقةً أعلاه)، 242 (`con-adaptive-control-hypothesis-green-abutalebi`)، 243 (`con-emergent-structure-blending`)، 244 (`thk-sally-mcconnell-ginet`).
+- تشخيصُ `belongs_to`-count التالي (بعد الدفعة 242): `sch-language-ideology`، `sch-lexical-functional-grammar-hpsg`، `sch-minimalist-program`، `sch-modern-arabic-linguistics`، `sch-paninian-sanskrit-grammar` (عاد للتساوي رغم دفعة 233، إذ عقدةُ الكاراكا استُهلكت واستمرّت مدارسُ أخرى بالنمو)، `sch-peircean-semiotics`، `sch-role-and-reference-grammar` — كلّها عند 5.
+- البروتوكولُ التشغيليّ نفسُه ساري بلا تغيير. الأمرُ التوجيهيُّ الأخير من المنسِّق: الاستمرارُ الفوريُّ بلا توقّف، وعدم كتابة تقرير إغلاقٍ إلا عند نفاد السياق الفعليّ تماماً.
