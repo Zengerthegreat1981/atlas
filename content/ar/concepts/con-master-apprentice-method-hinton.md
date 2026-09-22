@@ -15,6 +15,7 @@ related:
 - id: "sch-language-policy-endangerment", title: "السياسةُ اللغويةُ وموتُ اللغات وإحياؤها (Language Policy & Endangerment)", type: "مدرسة"
 - id: "thk-leanne-hinton", title: "لِيان هينتون", type: "مفكر"
 - id: "con-gids-fishman", title: "المقياسُ المتدرِّج للانقطاع بين الأجيال عند فيشمان (GIDS)", type: "مفهوم"
+- id: "con-language-nest-kohanga-reo", title: "عشُّ اللغة: نموذجُ كوهانغا ريو الماوري (Language Nest)", type: "مفهوم"
 gaps: []
 ---
 
