@@ -869,3 +869,14 @@
 - الدفعاتُ الخمس الأخيرة: 236 (`con-argument-structure-constructions-goldberg`، أُعيد ترقيمُها CON-11729 بعد تصادمٍ)، 237 (`con-empirical-principle-glossematics`، المبدأ التجريبي والسينيمات/الپليريمات)، 238 (`thk-angelika-kratzer` + `con-kratzer-modal-base-ordering-source`)، 239 (`thk-varro`، أقدم نحوٍ لاتينيٍّ موسّع)، 240 (`con-isotopy-greimas`).
 - حادثةٌ تشغيليةٌ طفيفة (الدفعة 239): `git status --porcelain` بعد `git add` أظهر ملفّاتٍ من جلسةٍ موازية (دراسات دينية/أنثروپوصوفيا) قد انزلقت إلى الفهرس رغم عدم استهدافها بالمسار الصريح؛ عولجت فوراً بـ`git restore --staged` قبل الالتزام. لا حادثةَ تدميرية.
 - البروتوكولُ التشغيليّ نفسُه ساري بلا تغيير. الأمرُ التوجيهيُّ الأخير من المنسِّق: الاستمرارُ الفوريُّ بلا توقّف، وعدم كتابة تقرير إغلاقٍ إلا عند نفاد السياق الفعليّ تماماً.
+
+## ⚠️ حادثةٌ تشغيليةٌ (الدفعة 241)
+
+سحب التزامُ الدفعة 241 (commit `f4aee4b4`) أربعةَ ملفّاتٍ من جلسةٍ موازية لدراسات الأديان
+(`agents_specs/religious-studies-schools-backlog.md`، `content/ar/schools/sch-hermeticism.md`،
+`content/ar/schools/sch-rosicrucianism.md`، `content/ar/thinkers/thk-christopher-mcintosh.md`،
+`content/ar/works/wrk-rosicrucians-mcintosh.md`) رغم أن `git add` استُدعي بثلاثة مساراتٍ صريحة فقط.
+السبب: إعادةُ تهيئة تلك الجلسة لفهرس git المشترك (على الأرجح `git add -A` من طرفها) في النافذة
+الزمنية الضيّقة بين فحص `git status --porcelain` هنا واستدعاء `git commit`. المحتوى المسحوب شرعيٌّ
+تماماً (عملٌ جديدٌ حقيقي لتلك الجلسة، لا تدميرَ ولا استبدال)؛ لم يُتّخذ أيُّ إجراءٍ تصحيحيٍّ تدميري
+(لا rebase ولا history rewrite)، ووُثِّقت الحادثةُ هنا فقط، تكراراً للنمط الموثَّق سابقاً في الدفعة 212.
