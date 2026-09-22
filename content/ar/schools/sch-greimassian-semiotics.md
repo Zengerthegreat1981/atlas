@@ -24,6 +24,7 @@ related:
 - id: "con-narrative-program-greimas", title: "البرنامجُ السردي عند غريماس (Programme Narratif)", type: "مفهوم"
 - id: "con-isotopy-greimas", title: "التماثلُ الدلاليُّ (الإيزوتوپيا) عند غريماس (Isotopy)", type: "مفهوم"
 - id: "con-narrative-functions-propp", title: "الوظائفُ السرديةُ الواحدةُ والثلاثون عند بروب", type: "مفهوم"
+- id: "con-modal-semiotics-greimas", title: "السيمياءُ الموجِّهية عند غريماس: الإرادةُ والقدرةُ والمعرفةُ والوجوب", type: "مفهوم"
 gaps: []
 ---
 

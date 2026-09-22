@@ -24,6 +24,7 @@ related:
 - id: "con-semiotic-square-greimas", title: "المربّعُ السيميائي عند غريماس (Semiotic Square)", type: "مفهوم"
 - id: "con-narrative-program-greimas", title: "البرنامجُ السردي عند غريماس (Programme Narratif)", type: "مفهوم"
 - id: "con-isotopy-greimas", title: "التماثلُ الدلاليُّ (الإيزوتوپيا) عند غريماس (Isotopy)", type: "مفهوم"
+- id: "con-modal-semiotics-greimas", title: "السيمياءُ الموجِّهية عند غريماس: الإرادةُ والقدرةُ والمعرفةُ والوجوب", type: "مفهوم"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لأعمال غريماس الأصلية ضمن مصادر الأطلس؛ الاعتماد على النصوص الفرنسية والإنجليزية."
 ---
