@@ -20,6 +20,7 @@ related:
 - id: "sch-structuralist-semiology", title: "السيميولوجيا السوسيرية وامتدادُها (Structuralist Semiology)", type: "مدرسة"
 - id: "con-myth-second-order-signification-barthes", title: "الأسطورةُ والدلالةُ من الدرجة الثانية عند بارت (Myth & Second-Order Signification)", type: "مفهوم"
 - id: "con-five-codes-sz-barthes", title: "الشفراتُ الخمس في S/Z عند بارت", type: "مفهوم"
+- id: "con-studium-punctum-camera-lucida-barthes", title: "السْتوديوم والپونكتوم في La Chambre Claire عند بارت", type: "مفهوم"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
 ---
