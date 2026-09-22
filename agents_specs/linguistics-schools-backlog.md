@@ -904,3 +904,11 @@
 - الدفعاتُ الأربع الأخيرة: 245 (`thk-ronald-kaplan`؛ حادثةُ سحبِ ملفّاتٍ موازيةٍ موثَّقة)، 246 (`con-third-factor-explanations-chomsky`)، 247 (`con-qarain-theory-tammam-hassan`)، 248 (`con-firstness-secondness-thirdness-peirce`).
 - بقيّةُ التشخيص السابق (`sch-role-and-reference-grammar`، `sch-language-ideology`) لم تُعالَج بعد؛ نقطةُ البدء التالية.
 - البروتوكولُ التشغيليّ نفسُه ساري بلا تغيير، بما في ذلك توثيقُ حوادث سحب الملفّات الموازية دون أيّ إجراءٍ تصحيحيٍّ تدميري. الأمرُ التوجيهيُّ الأخير من المنسِّق: الاستمرارُ الفوريُّ بلا توقّف، وعدم كتابة تقرير إغلاقٍ إلا عند نفاد السياق الفعليّ تماماً.
+
+## ⚠️ حالةٌ مقيسة (تحديث، الدفعة 250)
+
+- عقدُ اللسانيات الحيّة: **407**. علامةُ 250 دفعةً متتابعة دون توقّف منذ الدفعة 131.
+- آخر تثبيتٍ ناجح: commit `bdde3916` (الدفعة 250، عمليات إرڤين وغال السيميائية).
+- الدفعاتُ الأخيرة: 249 (`con-linking-algorithm-rrg`، أُعيد ترقيمُها CON-11746 بعد تصادم)، 250 (`con-semiotic-processes-irvine-gal` + سدّ رابطٍ ناقص لـ`thk-judith-irvine`).
+- التشخيصُ الحاليّ لأدنى `belongs_to`-count يحتاج إعادةَ تشغيلٍ في الدفعة القادمة (القائمةُ السابقة استُهلكت بالكامل تقريباً: bilingualism، construction-grammar، copenhagen-glossematics، formal-semantics، greco-latin، greimassian، gricean، language-and-gender، lexical-functional، minimalist، modern-arabic، paninian، peircean، role-and-reference، language-ideology — جميعُها عُولجت هذه الجولة).
+- البروتوكولُ التشغيليّ نفسُه ساري بلا تغيير، بما فيه توثيقُ حوادث سحب الملفّات الموازية البسيطة دون أيّ إجراءٍ تصحيحيٍّ تدميري، وإعادةُ ترقيم أيّ تصادم id فور اكتشافه عبر `check_content_integrity.py`. الأمرُ التوجيهيُّ الأخير من المنسِّق: الاستمرارُ الفوريُّ بلا توقّف، وعدم كتابة تقرير إغلاقٍ إلا عند نفاد السياق الفعليّ تماماً.
