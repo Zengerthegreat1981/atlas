@@ -16,6 +16,7 @@ related:
 - id: "sch-cognitive-linguistics", title: "اللسانياتُ المعرفية (Cognitive Linguistics)", type: "مدرسة"
 - id: "thk-lera-boroditsky", title: "ليرا بوروديتسكي", type: "مفكر"
 - id: "stu-kuuk-thaayorre-spatial-cognition-boroditsky-gaby", title: "دراسةُ بوروديتسكي وغابي في لغة كووك ثايوري (الإدراك المكاني المطلق)", type: "دراسة وبحث"
+- id: "thk-stephen-levinson", title: "ستيفن ليفنسون", type: "مفكر"
 gaps:
   - "`sch-linguistic-relativity` موسومةٌ `anthropology` وموجودةٌ بالفعل بسابير ووورف؛ لم تُكرَّر هنا. هذه العقدةُ تفرد الجدلَ التجريبيَّ المعاصرَ الذي تجدَّد حول الفرضية بأدواتٍ معرفيةٍ حديثة."
   - "حيادٌ صريحٌ محفوظ: لا يُرجَّح موقفٌ في هذا الجدل التجريبي المستمرّ."
