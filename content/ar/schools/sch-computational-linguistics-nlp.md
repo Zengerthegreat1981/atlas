@@ -23,6 +23,7 @@ related:
 - id: "con-distributional-semantics-word-embeddings", title: "الدلالةُ التوزيعية وتمثيلاتُ الكلمات المتّجهية (Distributional Semantics & Word Embeddings)", type: "مفهوم"
 - id: "evt-alpac-report-machine-translation-1966", title: "تقريرُ ألباك (ALPAC) وأزمةُ تمويل الترجمة الآلية 1966", type: "حدث تاريخي"
 - id: "rel-generative-grammar-statistical-nlp", title: "النحوُ التوليديُّ ومعالجةُ اللغة الإحصائية: جوارٌ متوتِّر", type: "علاقة بين مدرستين"
+- id: "thk-christopher-manning", title: "كريستوفر ماننغ", type: "مفكر"
 gaps:
   - "لا `belongs_to`/`evolved_from`: فرعٌ متعدّدُ الأصول (منطقٌ حاسوبيٌّ، نظريةُ الأتمتة، إحصاءٌ) نشأ بالتوازي مع النحو التوليدي دون انحدارٍ حصريٍّ منه."
 ---
