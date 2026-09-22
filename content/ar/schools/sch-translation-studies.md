@@ -25,6 +25,7 @@ related:
 - id: "con-skopos-theory-vermeer-reiss", title: "نظريةُ الغاية عند ﭬيرمير ورايس (Skopos Theory)", type: "مفهوم"
 - id: "thk-gideon-toury", title: "جدعون توري", type: "مفكر"
 - id: "con-translation-norms-toury", title: "معاييرُ الترجمة الوصفية عند توري (Translation Norms)", type: "مفهوم"
+- id: "con-negative-analytic-deforming-tendencies-berman", title: "التحليلُ السلبيُّ والنزعاتُ التشويهية الاثنتا عشرةَ عند برمان", type: "مفهوم"
 gaps: []
 ---
 

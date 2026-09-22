@@ -20,6 +20,7 @@ related:
 - id: "sch-translation-studies", title: "الترجمةُ الآليةُ ونظريةُ الترجمة (Translation Studies)", type: "مدرسة"
 - id: "thk-lawrence-venuti", title: "لورانس ڤينوتي", type: "مفكر"
 - id: "con-domestication-foreignization-translation", title: "التوطينُ والتغريبُ في الترجمة (Domestication & Foreignization)", type: "مفهوم"
+- id: "con-negative-analytic-deforming-tendencies-berman", title: "التحليلُ السلبيُّ والنزعاتُ التشويهية الاثنتا عشرةَ عند برمان", type: "مفهوم"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لأعماله الأصلية ضمن مصادر الأطلس؛ الاعتمادُ على مصادره الفرنسية والإنجليزية الثانوية."
 ---
