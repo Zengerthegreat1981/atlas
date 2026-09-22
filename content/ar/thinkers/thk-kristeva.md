@@ -20,6 +20,7 @@ related:
 - id: "br-lacanian", title: "التحليل النفسي اللاكاني وما بعد لاكان", type: "تيار"
 - id: "thk-lacan", title: "جاك لاكان", type: "مفكر"
 - id: "thk-irigaray", title: "لوس إريغاري", type: "مفكر"
+- id: "con-intertextuality-kristeva", title: "التناصُّ عند كريستيڤا (Intertextuality)", type: "مفهوم"
 gaps:
   - "مفهوم «الخورا» (la chora) في المرحلة المبكرة من عمل كريستيفا وعلاقته بقراءة أفلاطون — تحتاج مراجعة متخصصة."
   - "لا يوجد اقتباس مباشر موثوق من *Pouvoirs de l'horreur* (1980) بترجمة عربية معتمدة."
