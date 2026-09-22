@@ -25,6 +25,8 @@ related:
 - id: "con-fossilization-interlanguage-selinker", title: "اللغةُ البينية والتحجّرُ عند سيلينكر (Interlanguage & Fossilization)", type: "مفهوم"
 - id: "thk-michael-long", title: "مايكل لونغ", type: "مفكر"
 - id: "con-interaction-hypothesis-long", title: "فرضيةُ التفاعل ومفاوضةُ المعنى عند لونغ (Interaction Hypothesis)", type: "مفهوم"
+- id: "thk-merrill-swain", title: "ميريل سواين", type: "مفكر"
+- id: "con-output-hypothesis-swain", title: "فرضيةُ المُخرَج عند سواين (Output Hypothesis)", type: "مفهوم"
 gaps:
   - "حيادٌ صريحٌ إزاء مدى انطباق فرضية الفترة الحرجة على اللغة الثانية تحديداً (بخلاف اللغة الأولى، موضعُ إجماعٍ أوسع): الأدلةُ التجريبية مختلَطة حول وجود عتبةٍ عمريةٍ حادّة أو تدرّجٍ تدريجيٍّ في القدرة على إتقان لغةٍ ثانية؛ لا يُرجَّح موقفٌ هنا."
 ---
