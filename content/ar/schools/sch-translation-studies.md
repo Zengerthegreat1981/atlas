@@ -26,6 +26,7 @@ related:
 - id: "thk-gideon-toury", title: "جدعون توري", type: "مفكر"
 - id: "con-translation-norms-toury", title: "معاييرُ الترجمة الوصفية عند توري (Translation Norms)", type: "مفهوم"
 - id: "con-negative-analytic-deforming-tendencies-berman", title: "التحليلُ السلبيُّ والنزعاتُ التشويهية الاثنتا عشرةَ عند برمان", type: "مفهوم"
+- id: "con-formal-dynamic-equivalence-nida", title: "التكافؤُ الصوريُّ والديناميكي عند نايدا (Formal & Dynamic Equivalence)", type: "مفهوم"
 gaps: []
 ---
 

@@ -20,6 +20,7 @@ edges:
 related:
 - id: "sch-translation-studies", title: "الترجمةُ الآليةُ ونظريةُ الترجمة (Translation Studies)", type: "مدرسة"
 - id: "con-skopos-theory-vermeer-reiss", title: "نظريةُ الغاية عند ﭬيرمير ورايس (Skopos Theory)", type: "مفهوم"
+- id: "con-formal-dynamic-equivalence-nida", title: "التكافؤُ الصوريُّ والديناميكي عند نايدا (Formal & Dynamic Equivalence)", type: "مفهوم"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لأعمال نايدا الأصلية ضمن مصادر الأطلس؛ الاعتماد على النصوص الإنجليزية الأصلية."
 ---
