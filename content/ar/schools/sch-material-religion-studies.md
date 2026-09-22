@@ -24,10 +24,12 @@ related:
 - id: "wrk-sensational-religion-promey", title: "الدينُ الحسّيّ (Sensational Religion)", type: "عمل / كتاب"
 - id: "thk-birgit-meyer", title: "بيرگِت ماير (Birgit Meyer)", type: "مفكر"
 - id: "wrk-aesthetic-formations-meyer", title: "التشكُّلاتُ الجمالية (Aesthetic Formations)", type: "عمل / كتاب"
+- id: "sch-religion-dress-studies-arthur", title: "دراسةُ الدين واللباس (Religion and Dress Studies): ليندا آرثر برادلي وسياسةُ الزيّ الديني", type: "مدرسة"
 gaps:
   - "أُنشئ هذا الملفُّ 2026-09-22 (دفعةٌ ليليةٌ تلقائية) بوصفه فتحَ مجالٍ فرعيٍّ جديدٍ كلياً تحت قسم علم الأديان المقارن: دراسةُ الدين عبر أغراضه وصوره وفضاءاته الماديّة بدل عقائده أو نصوصه المكتوبة حصراً. لم يُربط بعد بمدارسَ أخرى تتقاطع معه موضوعياً (مثل الأنثروبولوجيا الدينية أو ظاهراتية الدين)؛ هذا الربطُ العابر للأقسام يبقى فجوةً لدفعةٍ لاحقة."
   - "أُضيفت في دفعةٍ لاحقة (2026-09-22) سالي پرومي (`thk-sally-promey`) وعملُها التحريريّ *Sensational Religion* (`wrk-sensational-religion-promey`) استجابةً لهذه الفجوة."
   - "أُضيفت في دفعةٍ لاحقة (2026-09-22) بيرگِت ماير (`thk-birgit-meyer`) وعملُها التحريريّ *Aesthetic Formations* (`wrk-aesthetic-formations-meyer`) استجابةً لفجوةٍ موثَّقةٍ. يبقى غيرَ مُدرَجٍ بعدُ: مجلة *Material Religion* التي شارك مورگان في تأسيسها 2005؛ فجوةٌ مسجَّلةٌ عمداً لدفعةٍ لاحقة."
+  - "أُضيفت في دفعةٍ لاحقة (2026-09-22، فتحُ مجالٍ فرعيٍّ جديد) مدرسةُ `sch-religion-dress-studies-arthur` (ليندا آرثر برادلي، دراسةُ الدين واللباس) بوصفها فرعاً أدقَّ داخل دراسة الدين الماديّ، `belongs_to` و`evolved_from` هذا الملفَّ."
 ---
 
 # دراسةُ الدين الماديّ (Material Religion Studies): ديڤيد مورگان والتحوّلُ من العقيدة إلى الشيء
