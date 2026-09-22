@@ -1324,3 +1324,7 @@
 ## ⚠️ حالةٌ مقيسة — علامةُ 355 دفعة (2026-09-22)
 
 عددُ العقد اللسانية الحيّة: ~540 (بعد دفعات 351–355: con-categorial-grammar-montague، con-optimality-theory-prince-smolensky، con-theta-theory-criterion-gb، wrk-de-lingua-latina-varro، con-conventional-implicature-grice). آخر التزامٍ مؤكَّد: `3f3d3393`. لا حوادثَ مدمِّرة في كامل هذه النافذة (دفعات 333–355، 23 دفعة). أدنى المدارس اتصالاً حالياً بعد التشخيص الأخير: sch-language-policy-endangerment، sch-lexical-functional-grammar-hpsg، sch-linguistic-imperialism، sch-greimassian-semiotics (يحتاج جولةً ثانية). المهمّةُ مستمرّةٌ دون توقف وفق البروتوكول القياسي؛ لا تقريرَ إغلاقٍ حتى نفاد السياق الفعلي.
+
+## ⚠️ حالةٌ مقيسة — علامةُ 358 دفعة (2026-09-22)
+
+عددُ العقد اللسانية الحيّة: ~544 (بعد دفعات 356–358: con-language-nest-kohanga-reo، con-glue-semantics-lfg، con-linguicism-skutnabb-kangas). آخر التزامٍ مؤكَّد: `fc190828`. 26 دفعةً متتاليةً في هذه النافذة (333–358) دون أيّ حادثةٍ مدمِّرة. المهمّةُ مستمرّةٌ دون توقف وفق البروتوكول القياسي؛ لا تقريرَ إغلاقٍ حتى نفاد السياق الفعلي.
