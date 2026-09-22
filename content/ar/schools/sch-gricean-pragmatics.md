@@ -20,6 +20,8 @@ related:
 - id: "con-conversational-implicature", title: "الإفهامُ التخاطبي (Conversational Implicature)", type: "مفهوم"
 - id: "sch-relevance-theory", title: "نظريةُ الملاءمة (Relevance Theory)", type: "مدرسة"
 - id: "con-deixis", title: "الإشاريةُ أو الديكسيس (Deixis)", type: "مفهوم"
+- id: "thk-laurence-horn", title: "لورنس هورن", type: "مفكر"
+- id: "con-scalar-implicature-horn", title: "الإفهامُ المقياسي (Scalar Implicature)", type: "مفهوم"
 gaps:
   - "**تقاطعٌ مع فلسفة اللغة**: هربرت پول غرايس (`thk-pgrice`) موسومٌ `philosophy` وموجودٌ بالفعل في الأطلس بسيرته وفلسفته الكاملة؛ رُبط إليه هنا بـ`related` دون تكرار. هذه العقدةُ تفرد الأثرَ اللسانيَّ التطبيقيَّ لأفكاره (تحليلُ الخطاب الفعليّ، لا فلسفةُ اللغة العامّة) الذي تطوّر في علم اللغة التداوليّ بعده."
   - "لا `belongs_to`: عقدةٌ جذريةٌ لا تنحدر تاريخياً من مدرسةٍ لسانيةٍ أخرى في هذا القسم؛ نشأت من محاضرات غرايس الفلسفية ثم تبنّاها علمُ اللغة كإطارٍ تحليليّ."
