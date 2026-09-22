@@ -23,6 +23,8 @@ related:
 - id: "thk-brent-berlin-paul-kay", title: "برنت برلين وپول كاي", type: "مفكر"
 - id: "thk-george-lakoff", title: "جورج لاكوف", type: "مفكر"
 - id: "con-frame-semantics-fillmore", title: "الدلالةُ الإطارية عند فيلمور (Frame Semantics)", type: "مفهوم"
+- id: "thk-anatol-stefanowitsch", title: "أناتول ستيفانوفيتش", type: "مفكر"
+- id: "con-collostructional-analysis", title: "التحليلُ التلازمي البنيوي (Collostructional Analysis)", type: "مفهوم"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`) — نشأت في جامعة بيركلي (تشارلز فيلمور، پول كاي، جورج لايكوف) كبديلٍ عن الصورية التوليدية، لا فرعاً منها."
   - "**سُدَّ بالكامل 2026-09-21 (الدفعة 58)**: پول كاي هو نفسُه طرفُ عقدة `thk-brent-berlin-paul-kay` (دراسة مصطلحات الألوان)؛ رُبطت هنا بدل إنشاء عقدةٍ مكرَّرة."
