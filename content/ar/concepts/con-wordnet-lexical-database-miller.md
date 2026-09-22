@@ -14,8 +14,9 @@ edges:
 related:
 - id: "sch-computational-linguistics-nlp", title: "اللسانياتُ الحاسوبيةُ ومعالجةُ اللغة الطبيعية (Computational Linguistics & NLP)", type: "مدرسة"
 - id: "con-distributional-semantics-word-embeddings", title: "الدلالةُ التوزيعية وتمثيلاتُ الكلمات المتّجهية (Distributional Semantics & Word Embeddings)", type: "مفهوم"
+- id: "thk-george-a-miller", title: "جورج أ. ميلر", type: "مفكر"
 gaps:
-  - "لم يُعثر على عقدةٍ مستقلّةٍ لجورج ميلر (عالم النفس المعرفي، مؤسِّس المشروع) ضمن قسم اللسانيات؛ العقدةُ تُشير إلى العمل مباشرةً."
+  - "**سُدَّ 2026-09-22**: أُنشئ `thk-george-a-miller` ورُبط أعلاه."
 ---
 
 # قاعدةُ ووردنت المعجمية الحاسوبية
