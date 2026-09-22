@@ -20,6 +20,7 @@ related:
 - id: "sch-language-and-gender", title: "اللغةُ والجندر (Language and Gender)", type: "مدرسة"
 - id: "thk-penelope-eckert", title: "بينيلوپي إكرت", type: "مفكر"
 - id: "con-communities-of-practice-sociolinguistics", title: "جماعاتُ الممارسة في اللسانيات الاجتماعية (Communities of Practice)", type: "مفهوم"
+- id: "wrk-language-and-gender-eckert-mcconnell-ginet", title: "اللغةُ والجندر (Language and Gender، إكرت ومكونل-جينيت)", type: "أثر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرتها؛ الاعتمادُ على مصادرها الإنجليزية الأساسية."
 ---

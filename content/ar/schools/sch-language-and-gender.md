@@ -29,6 +29,7 @@ related:
 - id: "con-language-desire-sexuality-kulick", title: "اللغةُ والرغبةُ الجنسانية عند كوليك (Language & Desire)", type: "مفهوم"
 - id: "con-generic-masculine-gender-neutral-reform", title: "المذكَّرُ التعميمي وإصلاحُ اللغة المحايدة جندرياً (Generic Masculine & Gender-Neutral Reform)", type: "مفهوم"
 - id: "thk-mary-bucholtz", title: "ماري بوخولتس", type: "مفكر"
+- id: "wrk-language-and-gender-eckert-mcconnell-ginet", title: "اللغةُ والجندر (Language and Gender، إكرت ومكونل-جينيت)", type: "أثر"
 gaps: []
 ---
 

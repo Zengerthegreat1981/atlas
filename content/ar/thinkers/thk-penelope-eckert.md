@@ -24,6 +24,7 @@ related:
 - id: "thk-sally-mcconnell-ginet", title: "سالي مكونل-جينيت", type: "مفكر"
 - id: "con-identity-performativity-bucholtz-hall", title: "الهويةُ العلائقيةُ الناشئة عند بوخولتس وهول (Identity as Relational & Emergent)", type: "مفهوم"
 - id: "con-three-waves-variation-eckert", title: "الموجاتُ الثلاث لدراسة التغيّر اللغوي الاجتماعي عند إكرت (Three Waves of Variation Study)", type: "مفهوم"
+- id: "wrk-language-and-gender-eckert-mcconnell-ginet", title: "اللغةُ والجندر (Language and Gender، إكرت ومكونل-جينيت)", type: "أثر"
 gaps: []
 ---
 
