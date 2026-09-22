@@ -23,6 +23,8 @@ related:
 - id: "con-ilm-al-bayan-arabic-rhetoric", title: "علمُ البيان: التشبيهُ والاستعارةُ والكناية", type: "مفهوم"
 - id: "con-ilm-al-maani-arabic-rhetoric", title: "علمُ المعاني: مطابقةُ الكلام لمقتضى الحال", type: "مفهوم"
 - id: "con-ilm-al-badi-arabic-rhetoric", title: "علمُ البديع: المحسِّناتُ اللفظيةُ والمعنوية", type: "مفهوم"
+- id: "sch-arabic-rhetorical-sciences", title: "علومُ البلاغة العربية: المعاني والبيان والبديع", type: "مدرسة"
+- id: "wrk-miftah-al-ulum-sakkaki", title: "مفتاحُ العلوم", type: "أثر"
 gaps:
   - "لم يُعثر على دراسةٍ أكاديميةٍ غربيةٍ حديثةٍ متخصّصةٍ بالسكّاكي ضمن مصادر الأطلس المتاحة؛ الاعتمادُ الرئيسي على المصادر العربية التراثية."
 ---
