@@ -1,35 +1,32 @@
 ---
-slug: "thk-aelius-donatus"
-id: "THK-11802"
-type: "مفكر"
+slug: "wrk-ars-grammatica-donatus"
+id: "WRK-12258"
+type: "أثر"
 part: "linguistics"
 level: "متقدم"
 linguistic_level: "morphology"
 cultural_origin: "anglo-european"
-title: "إيليوس دوناتوس"
-en: "Aelius Donatus"
-crumb: "علم اللغة ← التقليدُ العربيُّ واللغوياتُ ما قبل الحديثة ← إيليوس دوناتوس"
-dates: "روما · القرن الرابع الميلادي (ازدهر نحو 350م)"
+title: "فنُّ النحو (Ars Grammatica)"
+en: "Ars Grammatica"
+crumb: "علم اللغة ← التقليدُ العربيُّ واللغوياتُ ما قبل الحديثة ← فنُّ النحو (Ars Grammatica)"
+dates: "روما · نحو 350م"
 country: "روما"
 language: "اللاتينية"
-active_start: 340
-active_end: 360
-active_source: "estimate"
+active_start: 350
+active_end: 350
 edges:
 - rel: "belongs_to", target: "sch-greco-latin-grammatical-tradition", target_type: "مدرسة"
 related:
 - id: "sch-greco-latin-grammatical-tradition", title: "النحوُ اليونانيُّ واللاتينيُّ الوسيط (Greco-Latin Grammatical Tradition)", type: "مدرسة"
-- id: "thk-priscian", title: "پرِشيان", type: "مفكر"
-- id: "thk-varro", title: "مركوس ترنتيوس ڤارو", type: "مفكر"
-- id: "con-modistae-speculative-grammar", title: "نحاةُ الأنماط والنحوُ التأمّلي (Modistae & Speculative Grammar)", type: "مفهوم"
-- id: "wrk-ars-grammatica-donatus", title: "فنُّ النحو (Ars Grammatica)", type: "أثر"
-gaps:
-  - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لعمل دوناتوس الأصلي ضمن مصادر الأطلس؛ الاعتمادُ على طبعاتٍ ودراساتٍ إنجليزية ولاتينية متخصّصة."
+- id: "thk-aelius-donatus", title: "إيليوس دوناتوس", type: "مفكر"
+- id: "wrk-techne-grammatike-dionysius-thrax", title: "الفنُّ النحويُّ (Téchnē Grammatikḗ)", type: "أثر"
+- id: "wrk-institutiones-grammaticae-priscian", title: "المبادئُ النحوية", type: "أثر"
+gaps: []
 ---
 
-# إيليوس دوناتوس
+# فنُّ النحو (Ars Grammatica)
 
-نحويٌّ وبلاغيٌّ رومانيٌّ من القرن الرابع الميلادي، مؤلِّفُ *Ars Grammatica* ("فنّ النحو")، أكثرِ كتب النحو اللاتيني انتشاراً وتدريساً في تاريخ أوروبا كلِّها — استُعمل متناً تعليمياً أساسياً لتعليم اللاتينية طَوال أكثر من ألف عامٍ متواصل، من العصور القديمة المتأخرة حتى عصر الطباعة وما بعده.
+أكثرُ كتب النحو اللاتيني انتشاراً وتدريساً في تاريخ أوروبا كلِّها، ألّفه إيليوس دوناتوس نحو 350م، واستُعمل متناً تعليمياً أساسياً لتعليم اللاتينية طَوال أكثر من ألف عامٍ متواصل، من العصور القديمة المتأخرة حتى عصر الطباعة وما بعده.
 
 ## Ars Minor وArs Maior: كتابان لمستويين
 
@@ -41,7 +38,7 @@ gaps:
 
 ## الأثر
 
-مهّد عملُ دوناتوس المنهجيُّ المبسَّط الأرضيةَ لتطوّر النحو المدرسي اللاتيني عبر القرون، واستُعمل أساساً تعليمياً استند إليه النحاةُ المُشيَّدون لاحقاً قبل أن يبنوا عليه تأويلاتهم الفلسفية الأعمق لبنية اللغة، وظلّ حاضراً كمرجعٍ تعليمي حتى بعد ظهور الطباعة في القرن الخامس عشر.
+مهّد هذا العملُ المنهجيُّ المبسَّط الأرضيةَ لتطوّر النحو المدرسي اللاتيني عبر القرون، واستُعمل أساساً تعليمياً استند إليه النحاةُ المُشيَّدون لاحقاً قبل أن يبنوا عليه تأويلاتهم الفلسفية الأعمق لبنية اللغة، وظلّ حاضراً كمرجعٍ تعليمي حتى بعد ظهور الطباعة في القرن الخامس عشر.
 
 ## المصادر
 

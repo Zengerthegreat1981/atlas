@@ -30,6 +30,7 @@ related:
 - id: "wrk-de-lingua-latina-varro", title: "في اللغة اللاتينية (De Lingua Latina)", type: "أثر"
 - id: "wrk-peri-syntaxeos-apollonius-dyscolus", title: "في التركيب (Perì Syntáxeōs)", type: "أثر"
 - id: "wrk-techne-grammatike-dionysius-thrax", title: "الفنُّ النحويُّ (Téchnē Grammatikḗ)", type: "أثر"
+- id: "wrk-ars-grammatica-donatus", title: "فنُّ النحو (Ars Grammatica)", type: "أثر"
 gaps:
   - "لا `belongs_to`: تقليدٌ مستقلٌّ نشأ بمعزلٍ عن التقليدين العربي والهندي، وإن تلاقت جميعُها لاحقاً في التأريخ المقارن للسانيات."
 ---
