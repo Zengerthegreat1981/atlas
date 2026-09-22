@@ -24,6 +24,8 @@ related:
 - id: "thk-elana-shohamy", title: "إيلانا شوهامي", type: "مفكر"
 - id: "con-linguistic-landscape", title: "المشهدُ اللغويُّ (Linguistic Landscape)", type: "مفهوم"
 - id: "con-gids-fishman", title: "المقياسُ المتدرِّج للانقطاع بين الأجيال عند فيشمان (GIDS)", type: "مفهوم"
+- id: "thk-leanne-hinton", title: "لِيان هينتون", type: "مفكر"
+- id: "con-master-apprentice-method-hinton", title: "منهجُ المعلّم والمتدرِّب لإحياء اللغة عند هينتون (Master-Apprentice Method)", type: "مفهوم"
 gaps:
   - "لا `belongs_to`: فرعٌ تطبيقيٌّ يتقاطع مع علم اللغة الاجتماعي والسياسات العامّة، لا ينحدر من مدرسةٍ نظريةٍ لسانيةٍ واحدة."
   - "حيادٌ صريحٌ محفوظ إزاء سياسات اللغة الوطنية المعاصرة تحديداً (كسياسات التعريب أو الفرنسة أو غيرها)، تماشياً مع نهج المهمّة في con-diglossia."
