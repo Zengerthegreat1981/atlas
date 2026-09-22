@@ -23,11 +23,12 @@ related:
 - id: "thk-rudolf-steiner", title: "رودولف شتاينر (Rudolf Steiner)", type: "مفكر"
 - id: "thk-helena-blavatsky", title: "هيلينا بلافاتسكي (Helena Blavatsky)", type: "مفكر"
 - id: "sch-waldorf-education-steiner-schools", title: "مدارسُ والدورف-شتاينر: الامتدادُ التربويُّ للأنثروبوصوفيا (Waldorf Education)", type: "مدرسة"
+- id: "sch-anthroposophic-medicine-steiner-wegman", title: "الطبُّ الأنثروبوصوفيّ: شتاينر وڤيغمان وتوسيعُ فنِّ الشفاء (Anthroposophic Medicine)", type: "مدرسة"
 gaps:
   - "هذا الملفُّ يوثِّق الأنثروبوصوفيا بوصفها موضوعَ دراسةٍ تاريخيةٍ-نقديةٍ، لا عرضاً من الداخل ولا دفاعاً عنها ولا نقداً إلحادياً؛ التزاماً بحدّ قسم `religious-studies`."
   - "السببُ المباشرُ للانشقاق (رفضُ شتاينر تنصيبَ جِدُّو كريشنامورتي «معلماً عالمياً» من قِبَل آني بيزانت وقيادة أدْيار) مذكورٌ هنا إجمالاً؛ ملفٌّ مستقلٌّ عن كريشنامورتي وحركة «نجمة الشرق» (Order of the Star in the East) لم يُنشأ بعد — فجوةٌ لعقدٍ مستقبلية."
   - "الفرعُ الأمريكيُّ المستقلُّ للثيوصوفيا بقيادة ويليام كوان جَدج (William Quan Judge)، وهو انشقاقٌ سابقٌ (1895) ومستقلٌّ عن انشقاق شتاينر، لم يُفصَّل هنا؛ فجوةٌ لعقدةٍ مستقبليةٍ منفصلة."
-  - "أثرُ الحركة المؤسَّسيّ التربويُّ (مدارسُ والدورف) والزراعيُّ (الزراعةُ الحيوية-الديناميكية) فُصِّلا الآن في `sch-waldorf-education-steiner-schools` و`con-biodynamic-agriculture-anthroposophic-cosmology`؛ الطبُّ الأنثروبوصوفيُّ وحدَه لا يزال فجوةً لملفٍّ مستقبليٍّ منفصل."
+  - "أثرُ الحركة المؤسَّسيُّ اكتمل تفصيلُه الآن ثلاثياً: التربويُّ (`sch-waldorf-education-steiner-schools`)، الزراعيُّ (`con-biodynamic-agriculture-anthroposophic-cosmology`)، والطبّيُّ (`sch-anthroposophic-medicine-steiner-wegman`، شتاينر وإيتا ڤيغمان، 1925)."
 ---
 
 # الأنثروبوصوفيا ودراسةُ انشقاقِ شتاينر عن الجمعية الثيوصوفية (Anthroposophy)
