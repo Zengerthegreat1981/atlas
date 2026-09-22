@@ -15,6 +15,7 @@ related:
 - id: "sch-generative-phonology", title: "الصرفُ التوليديُّ والصواتةُ التوليدية (Generative Phonology)", type: "مدرسة"
 - id: "con-distinctive-features-phonology", title: "السماتُ التمييزية (Distinctive Features)", type: "مفهوم"
 - id: "con-morphological-typology", title: "النمطيةُ الصرفية (Morphological Typology)", type: "مفهوم"
+- id: "con-autosegmental-phonology-goldsmith", title: "الصواتةُ متعدّدةُ الطبقات عند غولدسميث (Autosegmental Phonology)", type: "مفهوم"
 gaps: []
 ---
 
