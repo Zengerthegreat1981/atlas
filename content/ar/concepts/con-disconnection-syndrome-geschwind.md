@@ -15,6 +15,7 @@ related:
 - id: "sch-classical-neurolinguistics", title: "علمُ اللغة العصبيُّ الكلاسيكي (Classical Neurolinguistics)", type: "مدرسة"
 - id: "thk-norman-geschwind", title: "نورمان غيرشفيند", type: "مفكر"
 - id: "con-broca-wernicke-lichtheim-model", title: "نموذجُ بروكا-فيرنيكه-ليختهايم", type: "مفهوم"
+- id: "con-pure-alexia-dejerine", title: "عمى القراءة الخالص عند ديجيرين (Pure Alexia / Alexia Without Agraphia)", type: "مفهوم"
 gaps: []
 ---
 
