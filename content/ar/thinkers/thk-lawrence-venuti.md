@@ -18,8 +18,9 @@ edges:
 - rel: "belongs_to", target: "sch-translation-studies", target_type: "مدرسة"
 related:
 - id: "thk-eugene-nida", title: "يوجين نايدا", type: "مفكر"
-gaps:
-  - "أنطوان برمان، منظّرٌ فرنسيٌّ موازٍ لڤينوتي في نقد إخفاء الغرابة في الترجمة، لم يُفرَد بعد كمفكرٍ مستقل."
+- id: "thk-antoine-berman", title: "أنطوان برمان", type: "مفكر"
+- id: "con-domestication-foreignization-translation", title: "التوطينُ والتغريبُ في الترجمة (Domestication & Foreignization)", type: "مفهوم"
+gaps: []
 ---
 
 # لورانس ڤينوتي
