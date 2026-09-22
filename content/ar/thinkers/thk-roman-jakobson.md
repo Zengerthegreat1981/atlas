@@ -21,9 +21,9 @@ related:
 - id: "con-phoneme", title: "الفونيم", type: "مفهوم"
 - id: "con-jakobson-communication-functions", title: "وظائفُ اللغة الستّ عند ياكوبسون", type: "مفهوم"
 - id: "sch-saussurean-structuralism", title: "البنيويةُ السوسيرية (Saussurean Structuralism)", type: "مدرسة"
+- id: "con-poetic-function-similarity-contiguity-aphasia", title: "الشعريةُ اللسانية ومحوَرا التشابه والتجاور عند ياكوبسون", type: "مفهوم"
 gaps:
-  - "إسهاماتُه في الشعرية اللسانية (Linguistic Poetics) ونظرية الحُبسة (Aphasia) اللسانية موضوعان واسعان لم يُفرَدا بملفَّي مفهومٍ مستقلَّين بعد."
-  - "نموذجُه لوظائف اللغة الستّ (الانفعالية، المرجعية، الشعرية، الإفهامية، الانتباهية، ما-وراء-اللغوية) لم يُفرَد بعدُ بملفِّ مفهومٍ مستقل — تسجيلٌ للفجوة لا اختراعٌ لعلاقة."
+  - "**سُدَّ بالكامل 2026-09-22 (الدفعة 168)**: أُنشئ `con-poetic-function-similarity-contiguity-aphasia` (الشعريةُ ونظريةُ الحُبسة معاً). ملاحظةُ «وظائف اللغة الستّ» كانت مكرَّرةً خطأً؛ `con-jakobson-communication-functions` موجودةٌ بالفعل ومربوطةٌ أعلاه."
 ---
 
 # رومان ياكوبسون
