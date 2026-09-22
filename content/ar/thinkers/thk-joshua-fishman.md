@@ -22,6 +22,7 @@ related:
 - id: "con-diglossia", title: "الازدواجيةُ اللغوية (Diglossia)", type: "مفهوم"
 - id: "thk-charles-ferguson", title: "تشارلز فيرغسون", type: "مفكر"
 - id: "con-extended-diglossia-fishman", title: "الازدواجيةُ الموسَّعة عند فيشمان (Extended Diglossia)", type: "مفهوم"
+- id: "con-gids-fishman", title: "المقياسُ المتدرِّج للانقطاع بين الأجيال عند فيشمان (GIDS)", type: "مفهوم"
 gaps: []
 ---
 
