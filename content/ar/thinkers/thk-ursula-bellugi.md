@@ -20,6 +20,7 @@ related:
 - id: "sch-sign-language-linguistics", title: "لسانياتُ لغة الإشارة (Sign Language Linguistics)", type: "مدرسة"
 - id: "thk-william-stokoe", title: "وليام ستوكو", type: "مفكر"
 - id: "sch-first-language-acquisition", title: "اكتسابُ اللغة الأولى (First Language Acquisition)", type: "مدرسة"
+- id: "con-williams-syndrome-language-dissociation-bellugi", title: "متلازمةُ ويليامز والانفصالُ بين اللغة والمعرفة العامّة عند بيلوجي", type: "مفهوم"
 gaps:
   - "لم يُعثر على مصدرٍ ثانويٍّ عربيٍّ متخصّصٍ بسيرتها؛ الاعتماد على مصادرها الإنجليزية الأساسية."
 ---
