@@ -25,6 +25,8 @@ related:
 - id: "con-inhibitory-control-model-bilingualism", title: "نموذجُ التحكّم الكابح عند غرين (Inhibitory Control Model)", type: "مفهوم"
 - id: "con-adaptive-control-hypothesis-green-abutalebi", title: "فرضيةُ التحكّم التكيّفي عند غرين وأبوطالبي (Adaptive Control Hypothesis)", type: "مفهوم"
 - id: "con-bia-plus-model-dijkstra", title: "نموذجُ التفعيل التفاعلي الثنائي اللغة الموسَّع (BIA+)", type: "مفهوم"
+- id: "thk-francois-grosjean", title: "فرانسوا غروجان", type: "مفكر"
+- id: "con-language-mode-complementarity-grosjean", title: "نمطُ اللغة ومبدأُ التكامل عند غروجان (Language Mode & Complementarity Principle)", type: "مفهوم"
 gaps:
   - "لا `belongs_to`: فرعٌ يجمع علمَ اللغة النفسي بعلم النفس المعرفي، لا ينحدر تاريخياً من مدرسةٍ لسانيةٍ واحدة."
 ---
