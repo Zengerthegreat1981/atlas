@@ -22,6 +22,7 @@ related:
 - id: "thk-mircea-eliade", title: "ميرتشيا إلياده", type: "مفكر"
 - id: "dbt-reductionism-vs-non-reductionism-religious-studies", title: "الجدلُ بين المقاربة الاختزالية وغير الاختزالية في دراسة الدين", type: "جدل"
 - id: "wrk-imagining-religion-smith", title: "تخيّلُ الدين: من بابل إلى جونزتاون", type: "عمل / كتاب"
+- id: "wrk-to-take-place-smith", title: "أن يقعَ في مكان: نحو نظريةٍ في الطقس", type: "عمل / كتاب"
 - id: "dbt-comparativism-vs-contextualism-eliade-smith", title: "الجدلُ بين المقارَنة الشاملة والسياقية: إلياده وسميث ومنهج المقارنة الدينية", type: "جدل"
 - id: "thk-wilfred-cantwell-smith", title: "وليام كانتويل سميث (Wilfred Cantwell Smith)", type: "مفكر"
 - id: "crt-jonathan-z-smith-critique-girard-scapegoat-mechanism", title: "نقدُ جوناثان ز. سميث لآلية كبش الفداء عند جيرار (تدجينُ القربان)", type: "نقد خارجي موثَّق"
@@ -29,6 +30,7 @@ related:
 gaps:
   - "سُدَّت 2026-09-21 (الدفعة 41): أُضيف ملفّ عملٍ مستقل (`wrk-imagining-religion-smith`) لكتابه *Imagining Religion: From Babylon to Jonestown* (1982)، وفُصِّل نقدُه لمنهج إلياده في ملفّ جدلٍ مستقل (`dbt-comparativism-vs-contextualism-eliade-smith`) بدل الإشارة الإجمالية السابقة."
   - "سُدَّت 2026-09-22 (الدفعة 71): نقدُه المباشر لرينيه جيرار (مقالة 'The Domestication of Sacrifice' في مناظرة ستانفورد 1983، منشورة في *Violent Origins*، 1987) فُصِّل الآن في ملفّ نقدٍ مستقل: `crt-jonathan-z-smith-critique-girard-scapegoat-mechanism`."
+  - "سُدَّت 2026-09-22 (دفعة تعميق إضافية): أُضيف ملفّ عملٍ ثانٍ (`wrk-to-take-place-smith`) لكتابه *To Take Place: Toward Theory in Ritual* (1987)، تحقُّقاً من OpenLibrary؛ وعملُه الثالث *Drudgery Divine* (1990) ما يزال فجوةً موثَّقةً لدفعةٍ لاحقة."
 ---
 
 # جوناثان ز. سميث (Jonathan Z. Smith)
