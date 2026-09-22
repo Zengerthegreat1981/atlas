@@ -26,6 +26,7 @@ related:
 - id: "con-shiva-sutras-pratyahara-panini", title: "سوترات شيڤا والاختصارُ الصوتي (پراتياهارا) عند بانيني", type: "مفهوم"
 - id: "con-anubandha-it-markers-panini", title: "الأنوباندا والعلاماتُ الاصطلاحية الصامتة عند بانيني (Anubandha / It-Markers)", type: "مفهوم"
 - id: "con-trimuni-three-sages-paninian-tradition", title: "الحكماءُ الثلاثة (Trimuni) في التقليد النحوي الهندي", type: "مفهوم"
+- id: "con-pratishakhya-vedic-phonetic-treatises", title: "البراتيشاخيا: الرسائلُ الصوتية الفيدية (Prātiśākhya)", type: "مفهوم"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لعمل بانيني الأصلي ضمن مصادر الأطلس؛ الاعتماد على دراساتٍ إنجليزية متخصّصة في تاريخ اللسانيات."
 ---
