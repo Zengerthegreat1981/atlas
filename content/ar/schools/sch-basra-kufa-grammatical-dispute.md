@@ -25,6 +25,7 @@ related:
 - id: "thk-ibn-al-anbari", title: "أبو البركات ابن الأنباري", type: "مفكر"
 - id: "wrk-al-insaf-masail-al-khilaf-ibn-al-anbari", title: "الإنصافُ في مسائل الخلاف بين النحويين البصريين والكوفيين", type: "أثر"
 - id: "thk-thalab", title: "أبو العباس ثعلب", type: "مفكر"
+- id: "thk-al-mubarrad", title: "محمد بن يزيد المبرِّد", type: "مفكر"
 gaps:
   - "**سُدَّ بالكامل 2026-09-22 (الدفعة 166)**: أُنشئ `thk-al-kisai` و`thk-al-farra` و`wrk-maani-al-quran-farra`."
 ---

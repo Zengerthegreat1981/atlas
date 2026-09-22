@@ -22,6 +22,7 @@ related:
 - id: "thk-al-kisai", title: "الكسائي", type: "مفكر"
 - id: "thk-al-farra", title: "الفرّاء", type: "مفكر"
 - id: "wrk-al-insaf-masail-al-khilaf-ibn-al-anbari", title: "الإنصافُ في مسائل الخلاف بين النحويين البصريين والكوفيين", type: "أثر"
+- id: "thk-al-mubarrad", title: "محمد بن يزيد المبرِّد", type: "مفكر"
 gaps:
   - "لم يُعثر على ترجمةٍ إنجليزيةٍ أكاديميةٍ متخصّصةٍ بثعلب ضمن مصادر الأطلس؛ الاعتمادُ الرئيسي على المصادر العربية التراثية ودراسة Owens العامة."
 ---
