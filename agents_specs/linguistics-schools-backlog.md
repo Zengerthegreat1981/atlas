@@ -888,3 +888,11 @@
 - الدفعاتُ الأربع الأخيرة: 241 (`con-neo-gricean-heuristics-levinson`؛ لاحظ حادثةَ سحب ملفّاتٍ موثَّقةً أعلاه)، 242 (`con-adaptive-control-hypothesis-green-abutalebi`)، 243 (`con-emergent-structure-blending`)، 244 (`thk-sally-mcconnell-ginet`).
 - تشخيصُ `belongs_to`-count التالي (بعد الدفعة 242): `sch-language-ideology`، `sch-lexical-functional-grammar-hpsg`، `sch-minimalist-program`، `sch-modern-arabic-linguistics`، `sch-paninian-sanskrit-grammar` (عاد للتساوي رغم دفعة 233، إذ عقدةُ الكاراكا استُهلكت واستمرّت مدارسُ أخرى بالنمو)، `sch-peircean-semiotics`، `sch-role-and-reference-grammar` — كلّها عند 5.
 - البروتوكولُ التشغيليّ نفسُه ساري بلا تغيير. الأمرُ التوجيهيُّ الأخير من المنسِّق: الاستمرارُ الفوريُّ بلا توقّف، وعدم كتابة تقرير إغلاقٍ إلا عند نفاد السياق الفعليّ تماماً.
+
+## ⚠️ حادثةٌ تشغيليةٌ (الدفعة 245)
+
+تكرّر نمطُ الدفعة 241: سحب التزامُ commit `515ee87f` ملفّين إضافيَّين من جلسةٍ موازية
+(`content/ar/schools/sch-freemasonry-academic.md`، `content/ar/thinkers/thk-margaret-jacob.md`،
+`content/ar/works/wrk-living-the-enlightenment-jacob.md`) رغم `git add` بثلاثة مساراتٍ صريحة فقط.
+نفسُ السبب المفترَض (إعادة تهيئة الفهرس المشترك من الجلسة الأخرى في نافذةٍ ضيّقة). محتوًى شرعيٌّ
+جديد، لا تدمير. لا إجراء تصحيحيّ مطلوب؛ توثيقٌ فقط.
