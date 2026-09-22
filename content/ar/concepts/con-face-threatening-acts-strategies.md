@@ -16,6 +16,7 @@ related:
 - id: "thk-penelope-brown", title: "پنلوپي براون", type: "مفكر"
 - id: "thk-stephen-levinson", title: "ستيفن ليفنسون", type: "مفكر"
 - id: "con-honorifics-tv-distinction", title: "صيغُ التبجيل والتمييزُ التائي-الڤائي (Honorifics & the T-V Distinction)", type: "مفهوم"
+- id: "con-positive-negative-face-brown-levinson", title: "الوجهُ الإيجابيُّ والوجهُ السلبيُّ عند براون وليفنسون (Positive & Negative Face)", type: "مفهوم"
 gaps: []
 ---
 

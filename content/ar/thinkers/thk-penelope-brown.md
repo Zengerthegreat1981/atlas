@@ -22,6 +22,7 @@ related:
 - id: "thk-yoshiko-matsumoto", title: "يوشيكو ماتسوموتو", type: "مفكر"
 - id: "con-face-threatening-acts-strategies", title: "الأفعالُ المهدِّدة للوجه واستراتيجياتُ التخفيف المتدرِّجة", type: "مفهوم"
 - id: "con-rapport-management-spencer-oatey", title: "إدارةُ الوئام عند سپنسر-أوتي (Rapport Management)", type: "مفهوم"
+- id: "con-positive-negative-face-brown-levinson", title: "الوجهُ الإيجابيُّ والوجهُ السلبيُّ عند براون وليفنسون (Positive & Negative Face)", type: "مفهوم"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرتها؛ الاعتمادُ على مصادرها الإنجليزية الأساسية."
 ---
