@@ -29,6 +29,7 @@ related:
 - id: "sch-minimalist-program", title: "البرنامجُ الأدنويّ (The Minimalist Program)", type: "مدرسة"
 - id: "con-theta-theory-criterion-gb", title: "نظريةُ الأدوار الموضوعية ومعيارُ ثيتا (Theta Theory & the θ-Criterion)", type: "مفهوم"
 - id: "con-island-constraints-subjacency-ross", title: "قيودُ الجزر وشرطُ التجاور الأدنى عند روس (Island Constraints & Subjacency)", type: "مفهوم"
+- id: "con-empty-category-principle-case-theory-gb", title: "مبدأُ الفئة الخالية ونظريةُ الحالة الإعرابية (Empty Category Principle & Case Theory)", type: "مفهوم"
 gaps:
   - "`thk-noam-chomsky` موسومٌ `philosophy` (قرارٌ محسوم في DR-014) ولم يُكرَّر هنا؛ العقدةُ تفرد الإطارَ النظريَّ التقنيَّ الذي طوّره في هذه المرحلة دون إعادة سيرته."
 ---
