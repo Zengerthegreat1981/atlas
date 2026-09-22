@@ -15,8 +15,9 @@ related:
 - id: "sch-second-language-acquisition", title: "اكتسابُ اللغة الثانيةُ والفترةُ الحرجة (SLA & Critical Period)", type: "مدرسة"
 - id: "con-fossilization-interlanguage-selinker", title: "اللغةُ البينية والتحجّرُ عند سيلينكر (Interlanguage & Fossilization)", type: "مفهوم"
 - id: "con-noticing-hypothesis-schmidt", title: "فرضيةُ الالتفات عند شميت (The Noticing Hypothesis)", type: "مفهوم"
+- id: "thk-manfred-pienemann", title: "مانفرِد بينيمان", type: "مفكر"
 gaps:
-  - "لم يُعثر على عقدةٍ مستقلّةٍ لمانفرِد بينيمان ضمن الأطلس؛ العقدةُ تُشير إلى عمله مباشرةً."
+  - "**سُدَّ 2026-09-22**: أُنشئ `thk-manfred-pienemann` ورُبط أعلاه."
 ---
 
 # نظريةُ القابلية للمعالجة عند بينيمان
