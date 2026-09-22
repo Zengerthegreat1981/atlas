@@ -21,6 +21,8 @@ related:
 - id: "sch-translation-studies", title: "الترجمةُ الآليةُ ونظريةُ الترجمة (Translation Studies)", type: "مدرسة"
 - id: "thk-eugene-nida", title: "يوجين نايدا", type: "مفكر"
 - id: "con-translation-norms-toury", title: "معاييرُ الترجمة الوصفية عند توري (Translation Norms)", type: "مفهوم"
+- id: "thk-itamar-even-zohar", title: "إيتامار إيڤن-زوهار", type: "مفكر"
+- id: "con-polysystem-theory-even-zohar", title: "نظريةُ النسق المتعدِّد عند إيڤن-زوهار (Polysystem Theory)", type: "مفهوم"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرته؛ الاعتمادُ على مصادره الإنجليزية الأساسية."
 ---

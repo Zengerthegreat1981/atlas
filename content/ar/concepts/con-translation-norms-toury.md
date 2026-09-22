@@ -16,6 +16,7 @@ related:
 - id: "thk-gideon-toury", title: "جدعون توري", type: "مفكر"
 - id: "con-domestication-foreignization-translation", title: "التوطينُ والتغريبُ في الترجمة (Domestication & Foreignization)", type: "مفهوم"
 - id: "con-skopos-theory-vermeer-reiss", title: "نظريةُ الغاية عند ﭬيرمير ورايس (Skopos Theory)", type: "مفهوم"
+- id: "con-polysystem-theory-even-zohar", title: "نظريةُ النسق المتعدِّد عند إيڤن-زوهار (Polysystem Theory)", type: "مفهوم"
 gaps: []
 ---
 

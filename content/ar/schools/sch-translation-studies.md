@@ -27,6 +27,8 @@ related:
 - id: "con-translation-norms-toury", title: "معاييرُ الترجمة الوصفية عند توري (Translation Norms)", type: "مفهوم"
 - id: "con-negative-analytic-deforming-tendencies-berman", title: "التحليلُ السلبيُّ والنزعاتُ التشويهية الاثنتا عشرةَ عند برمان", type: "مفهوم"
 - id: "con-formal-dynamic-equivalence-nida", title: "التكافؤُ الصوريُّ والديناميكي عند نايدا (Formal & Dynamic Equivalence)", type: "مفهوم"
+- id: "thk-itamar-even-zohar", title: "إيتامار إيڤن-زوهار", type: "مفكر"
+- id: "con-polysystem-theory-even-zohar", title: "نظريةُ النسق المتعدِّد عند إيڤن-زوهار (Polysystem Theory)", type: "مفهوم"
 gaps: []
 ---
 
