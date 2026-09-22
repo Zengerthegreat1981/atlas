@@ -964,3 +964,11 @@
 - آخر تثبيتٍ ناجح: commit `77bb8d43` (الدفعة 268، الهوية العلائقية الناشئة عند بوخولتس وهول).
 - الدفعاتُ الأخيرة: 267 (`con-bia-plus-model-dijkstra`)، 268 (`con-identity-performativity-bucholtz-hall`).
 - البروتوكولُ التشغيليّ نفسُه ساري بلا تغيير. الأمرُ التوجيهيُّ الأخير من المنسِّق: الاستمرارُ الفوريُّ بلا توقّف، وعدم كتابة تقرير إغلاقٍ إلا عند نفاد السياق الفعليّ تماماً.
+
+## ⚠️ حالةٌ مقيسة (تحديث، الدفعة 270)
+
+- عقدُ اللسانيات الحيّة: **432**. 270 دفعةً متتابعةً دون توقّف منذ الدفعة 131.
+- آخر تثبيتٍ ناجح: commit `af02c8a9` (الدفعة 270، أوفيليا غارسيا والتلغُّة المتداخلة).
+- الدفعاتُ الأخيرة: 269 (`thk-robyn-carston` + `con-lexical-pragmatics-ad-hoc-concepts-carston`)، 270 (`thk-ofelia-garcia` + `con-translanguaging-garcia`).
+- التشخيصُ الحاليّ لأدنى `belongs_to`-count يتضمّن الآن: greco-latin-grammatical-tradition، greimassian-semiotics، lexical-functional-grammar-hpsg، minimalist-program، modern-arabic-linguistics، role-and-reference-grammar، sentence-processing-psycholinguistics — كلّها عند 6.
+- البروتوكولُ التشغيليّ نفسُه ساري بلا تغيير، بما فيه توثيقُ حوادث سحب الملفّات الموازية دون أيّ إجراءٍ تصحيحيٍّ تدميري. الأمرُ التوجيهيُّ الأخير من المنسِّق: الاستمرارُ الفوريُّ بلا توقّف، وعدم كتابة تقرير إغلاقٍ إلا عند نفاد السياق الفعليّ تماماً.
