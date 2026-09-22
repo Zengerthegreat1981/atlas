@@ -15,6 +15,7 @@ related:
 - id: "sch-formal-semantics-montague-grammar", title: "الدلالةُ الصوريةُ ونحوُ مونتاغيو (Formal Semantics)", type: "مدرسة"
 - id: "thk-richard-montague", title: "ريتشارد مونتاغيو", type: "مفكر"
 - id: "con-focus-particles", title: "جسيماتُ التركيز (Focus Particles)", type: "مفهوم"
+- id: "thk-jon-barwise", title: "جون بارواز", type: "مفكر"
 gaps: []
 ---
 
