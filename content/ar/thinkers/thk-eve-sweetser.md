@@ -20,6 +20,7 @@ related:
 - id: "sch-conceptual-blending-theory", title: "فضاءاتُ الذهن والمزجُ المفهوميّ (Mental Spaces & Conceptual Blending)", type: "مدرسة"
 - id: "thk-gilles-fauconnier", title: "جيل فوكونييه", type: "مفكر"
 - id: "con-mental-spaces-fauconnier", title: "فضاءاتُ الذهن (Mental Spaces)", type: "مفهوم"
+- id: "con-conditional-readings-sweetser", title: "القراءاتُ الثلاثُ للجملة الشرطية عند سويتسر (Content, Epistemic & Speech-Act Conditionals)", type: "مفهوم"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بعملها؛ الاعتماد على مصادرها الإنجليزية الأساسية."
 ---
