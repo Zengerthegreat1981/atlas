@@ -25,6 +25,7 @@ related:
 - id: "thk-apollonius-dyscolus", title: "أپولونيوس ديسكولوس", type: "مفكر"
 - id: "thk-varro", title: "مركوس ترنتيوس ڤارو", type: "مفكر"
 - id: "thk-aelius-donatus", title: "إيليوس دوناتوس", type: "مفكر"
+- id: "thk-herodian", title: "إيليوس هيروديانوس", type: "مفكر"
 gaps:
   - "لا `belongs_to`: تقليدٌ مستقلٌّ نشأ بمعزلٍ عن التقليدين العربي والهندي، وإن تلاقت جميعُها لاحقاً في التأريخ المقارن للسانيات."
 ---

@@ -20,6 +20,7 @@ related:
 - id: "sch-greco-latin-grammatical-tradition", title: "النحوُ اليونانيُّ واللاتينيُّ الوسيط (Greco-Latin Grammatical Tradition)", type: "مدرسة"
 - id: "thk-dionysius-thrax", title: "ديونيسيوس الترقي", type: "مفكر"
 - id: "thk-priscian", title: "پرِشيان", type: "مفكر"
+- id: "thk-herodian", title: "إيليوس هيروديانوس", type: "مفكر"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لأعماله الأصلية ضمن مصادر الأطلس؛ الاعتمادُ على الدراسات الثانوية الإنجليزية المتخصّصة."
 ---
