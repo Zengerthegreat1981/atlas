@@ -25,6 +25,8 @@ related:
 - id: "dbt-comparativism-vs-contextualism-eliade-smith", title: "الجدلُ بين المقارَنة الشاملة والسياقية: إلياده وسميث ومنهج المقارنة الدينية", type: "جدل"
 - id: "dbt-thick-description-vs-phenomenological-description", title: "الوصفُ الكثيف مقابل الوصف الظاهراتي في دراسة الدين: غيرتز وإلياده", type: "جدل"
 - id: "thk-ivan-strenski", title: "إيفان سترينسكي (Ivan Strenski)", type: "مفكر"
+- id: "sch-chicago-school-history-of-religions", title: "مدرسةُ شيكاغو لتاريخ الأديان (Chicago School of the History of Religions)", type: "مدرسة"
+- id: "thk-joseph-kitagawa", title: "جوزف كيتاغاوا (Joseph M. Kitagawa)", type: "مفكر"
 gaps:
   - "نُقاده اللاحقون (خاصةً جوناثان ز. سميث J. Z. Smith وإيفان سترينسكي Ivan Strenski) اتّهموه بتعميم نمطٍ 'شامل' للمقدَّس متجاهلاً الفروق التاريخية والسياقية بين الأديان. سُدَّت 2026-09-21 (الدفعة 41) جزئياً: نقدُ سميث فُصِّل الآن في `dbt-comparativism-vs-contextualism-eliade-smith`. سُدَّت 2026-09-22 (الدفعة 114): نقدُ سترينسكي له الآن ملفُّ مفكرٍ مستقل (`thk-ivan-strenski`)، يوثّق نقده في *Four Theories of Myth* (1987) لمشروع إلياده المقارن."
   - "ماضيه في رومانيا الفاشية (ارتباطه الشبابي بحركة 'الحرس الحديدي' اليمينية المتطرّفة) موضوعُ جدلٍ أكاديميٍّ موثَّق (خصوصاً في أعمال Daniel Dubuisson)؛ لم يُفصَّل هنا لعدم توفّر مصدرين محقَّقين إضافيين وقت الكتابة — يُترك للجدل المستقل (`crt-`) حين يُكتب."
