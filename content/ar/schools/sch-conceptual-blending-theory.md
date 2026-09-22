@@ -20,6 +20,7 @@ related:
 - id: "thk-gilles-fauconnier", title: "جيل فوكونييه", type: "مفكر"
 - id: "thk-mark-turner", title: "مارك تيرنر", type: "مفكر"
 - id: "con-conceptual-metaphor-theory", title: "نظريةُ الاستعارة المفهومية", type: "مفهوم"
+- id: "con-mental-spaces-fauconnier", title: "فضاءاتُ الذهن (Mental Spaces)", type: "مفهوم"
 gaps: []
 ---
 

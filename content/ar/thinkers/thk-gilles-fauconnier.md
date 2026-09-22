@@ -20,6 +20,7 @@ edges:
 related:
 - id: "sch-cognitive-linguistics", title: "اللسانياتُ المعرفية (Cognitive Linguistics)", type: "مدرسة"
 - id: "con-conceptual-metaphor-theory", title: "نظريةُ الاستعارة المفهومية", type: "مفهوم"
+- id: "con-mental-spaces-fauconnier", title: "فضاءاتُ الذهن (Mental Spaces)", type: "مفهوم"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لأعمال فوكونييه الأصلية ضمن مصادر الأطلس؛ الاعتماد على النصوص الإنجليزية الأصلية."
 ---
