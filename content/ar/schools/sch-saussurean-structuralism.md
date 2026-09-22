@@ -25,6 +25,7 @@ related:
 - id: "con-linguistic-value-saussure", title: "القيمةُ اللغوية (Valeur Linguistique)", type: "مفهوم"
 - id: "con-semantic-field-theory", title: "نظريةُ الحقل الدلالي (Semantic Field Theory)", type: "مفهوم"
 - id: "sch-prague-linguistic-circle", title: "حلقةُ براغ اللسانية (Prague Linguistic Circle)", type: "مدرسة"
+- id: "con-linearity-of-signifier-saussure", title: "خطّيةُ الدالِّ عند سوسور (Linéarité du Signifiant)", type: "مفهوم"
 gaps:
   - "هذه عقدةٌ جذريةٌ في شجرة قسم علم اللغة (لا `belongs_to`) — بدايةُ اللسانيات البنيوية الحديثة."
   - "التمييزُ بين البنيوية السوسيرية والبنيوية الفرنسية اللاحقة في الأنثروبولوجيا (ليفي-ستروس) والنقد الأدبي (بارت) موسومٌ في أقسامٍ أخرى؛ هذا الملفُّ يقتصر على أصلها اللساني ولا يزعم تغطية امتداداتها."

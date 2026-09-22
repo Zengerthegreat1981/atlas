@@ -19,6 +19,7 @@ related:
 - id: "thk-ferdinand-de-saussure", title: "فرديناند دي سوسور", type: "مفكر"
 - id: "sch-saussurean-structuralism", title: "البنيويةُ السوسيرية (Saussurean Structuralism)", type: "مدرسة"
 - id: "wrk-cours-de-linguistique-generale", title: "دروسٌ في اللسانيات العامّة", type: "عمل / كتاب"
+- id: "con-linearity-of-signifier-saussure", title: "خطّيةُ الدالِّ عند سوسور (Linéarité du Signifiant)", type: "مفهوم"
 gaps:
   - "التطويرُ اللاحق لهذا الثنائي في السيميائية العامة (بيرس، بارت) خارج نطاق هذا الملف اللساني؛ لم يُربط بملفاتٍ من أقسامٍ أخرى لعدم التحقّق من وجودها."
 ---
