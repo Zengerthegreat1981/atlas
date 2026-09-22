@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges: []
 related:
 - id: "sch-generative-grammar", title: "النحوُ التوليديُّ التحويليّ (Generative-Transformational Grammar)", type: "مدرسة"
+- id: "con-visual-world-paradigm-tanenhaus", title: "نموذجُ العالم البصري عند تاننهاوس (Visual World Paradigm)", type: "مفهوم"
 gaps:
   - "لا `belongs_to`: منهجٌ تجريبيٌّ عابرٌ للمدارس النظرية (يُستعمل داخل التوليدية والمعرفية والاكتسابية على السواء)، فلا مدرسةَ واحدةً يصحّ عقدُ انتماءٍ حصريٍّ إليها."
 ---
