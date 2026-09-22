@@ -27,6 +27,7 @@ related:
 - id: "thk-aelius-donatus", title: "إيليوس دوناتوس", type: "مفكر"
 - id: "thk-herodian", title: "إيليوس هيروديانوس", type: "مفكر"
 - id: "wrk-institutiones-grammaticae-priscian", title: "المبادئُ النحوية", type: "أثر"
+- id: "wrk-de-lingua-latina-varro", title: "في اللغة اللاتينية (De Lingua Latina)", type: "أثر"
 gaps:
   - "لا `belongs_to`: تقليدٌ مستقلٌّ نشأ بمعزلٍ عن التقليدين العربي والهندي، وإن تلاقت جميعُها لاحقاً في التأريخ المقارن للسانيات."
 ---

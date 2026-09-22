@@ -21,6 +21,7 @@ related:
 - id: "sch-greco-latin-grammatical-tradition", title: "النحوُ اليونانيُّ واللاتينيُّ الوسيط (Greco-Latin Grammatical Tradition)", type: "مدرسة"
 - id: "thk-dionysius-thrax", title: "ديونيسيوس الترقي", type: "مفكر"
 - id: "thk-priscian", title: "پرِشيان", type: "مفكر"
+- id: "wrk-de-lingua-latina-varro", title: "في اللغة اللاتينية (De Lingua Latina)", type: "أثر"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لعمل ڤارو ضمن مصادر الأطلس؛ الاعتمادُ على طبعاتٍ ودراساتٍ إنجليزية ولاتينية متخصّصة."
 ---
