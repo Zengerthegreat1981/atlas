@@ -21,6 +21,7 @@ related:
 - id: "wrk-ritual-process-turner", title: "العمليةُ الطقسية (The Ritual Process)", type: "عمل / كتاب"
 - id: "wrk-forest-of-symbols-turner", title: "غابةُ الرموز (The Forest of Symbols)", type: "عمل / كتاب"
 - id: "sch-symbolic-anthropology-of-religion", title: "الأنثروبولوجيا الرمزيةُ والتأويليةُ للدين: تيرنر ودوغلاس وغيرتز", type: "مدرسة"
+- id: "dbt-pilgrimage-communitas-vs-contestation", title: "جدلُ الحجّ: الكومونيتاس مقابل المنازعة (Communitas vs. Contestation)", type: "جدل"
 gaps:
   - "أُضيف رابطٌ إلى `sch-symbolic-anthropology-of-religion` (علمُ الأديان المقارن، الدفعة 14) الذي يُبرز إسهامه تحديداً في دراسة الدين والحجّ دون تكرار سيرته هنا."
 ---

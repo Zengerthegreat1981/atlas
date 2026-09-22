@@ -21,6 +21,7 @@ related:
 - id: "sch-comparative-religious-pilgrimage-tourism-studies", title: "الدراسةُ الأكاديميةُ المقارَنةُ للسياحة الدينية والحجّ (Comparative Religious Tourism/Pilgrimage Studies)", type: "مدرسة"
 - id: "wrk-pilgrimage-centers-concentric-excentric-cohen", title: "مراكزُ الحجّ: مركزيةٌ ولا مركزية (Pilgrimage Centers: Concentric and Excentric)", type: "عمل / مقالة"
 - id: "thk-victor-turner", title: "فيكتور تيرنر (Victor Turner)", type: "مفكر"
+- id: "dbt-pilgrimage-communitas-vs-contestation", title: "جدلُ الحجّ: الكومونيتاس مقابل المنازعة (Communitas vs. Contestation)", type: "جدل"
 gaps:
   - "**عقدةٌ جديدة 2026-09-22 (دفعةٌ ليليةٌ تلقائية، تنفيذٌ مباشر)**: تحقّقتُ عبر `grep -rli \"erik cohen\\|إيريك كوهين\"` من غياب أيِّ ملفٍّ سابقٍ له في الأطلس قبل الإنشاء."
   - "تاريخُ ميلاده الدقيق لم يثبت عبر المصادر المتاحة (ResearchGate، صفحةُ قسم علم الاجتماع والأنثروبولوجيا بالجامعة العبرية بالقدس، سيرته الذاتية المنشورة على `sociology.huji.ac.il/.../cohen_cv.pdf`) رغم تأكيدها بدءَ منصبه الأكاديميَّ الأوّل نحو 1970 وترقّيه إلى محاضرٍ أوّل 1972 وأستاذٍ كامل 1982 — لم يُختلَق تاريخُ ميلادٍ؛ اكتُفي بحقل `active_start` يعكس بداية نشاطه الأكاديمي الموثَّق بدل تاريخ ميلادٍ غير مؤكَّد."
