@@ -851,3 +851,13 @@
 ---
 
 **الإجمال: 66 بنداً.** ولكلِّ بندٍ حزمةٌ متوقَّعةٌ من 15 إلى 25 عقدة.
+
+---
+
+## ⚠️ حالةٌ مقيسة (تحديث، الدفعة 235)
+
+- عقدُ اللسانيات الحيّة: **389** (بعد الدفعة 235؛ عبر `find content/ar -name "*.md" | xargs grep -l 'part: "linguistics"' | wc -l`).
+- آخر تثبيتٍ ناجح: commit `847a1c55` (الدفعة 235، علم البديع).
+- الدفعاتُ الثلاث الأخيرة: 233 (`con-karaka-theory-panini`، سدّ فجوة أقلّ مدرسة اتصالاً `sch-paninian-sanskrit-grammar`)، 234 (`con-discovery-procedures-harris` + سدّ رابطٍ ناقص لـ`thk-zellig-harris` في `sch-american-structural-linguistics`)، 235 (`con-ilm-al-badi-arabic-rhetoric`، إكمال الفروع الثلاثة لعلوم البلاغة العربية).
+- تشخيصُ `belongs_to`-count الحاليّ (أدنى القيَم بعد الدفعة 234): `sch-arabic-rhetorical-sciences` (كانت 5، صعدت بالدفعة 235)، ثم بالتساوي عند 5: `sch-bilingualism-cognitive-control`، `sch-conceptual-blending-theory`، `sch-construction-grammar`، `sch-copenhagen-glossematics`، `sch-formal-semantics-montague-grammar`، `sch-greco-latin-grammatical-tradition`، `sch-greimassian-semiotics`، `sch-gricean-pragmatics`. هذه هي نقطةُ البدء التالية.
+- البروتوكولُ التشغيليّ نفسُه ساري بلا تغيير؛ لا حوادثَ تدميريةً جديدة. الأمرُ التوجيهيُّ الأخير من المنسِّق: الاستمرارُ الفوريُّ بلا توقّف، وعدم كتابة تقرير إغلاقٍ إلا عند نفاد السياق الفعليّ تماماً.
