@@ -25,6 +25,7 @@ related:
 - id: "con-cherology-sign-parameters-stokoe", title: "الكيرولوجيا ومعاملاتُ الإشارة عند ستوكو (Cherology & Sign Parameters)", type: "مفهوم"
 - id: "thk-wendy-sandler", title: "ويندي ساندلر", type: "مفكر"
 - id: "con-classifier-predicates-spatial-agreement-sign-language", title: "المسنِداتُ التصنيفيةُ والاتفاقُ المكانيُّ في لغة الإشارة", type: "مفهوم"
+- id: "con-non-manual-markers-sign-language", title: "العلاماتُ غيرُ اليدوية في لغة الإشارة (Non-Manual Markers)", type: "مفهوم"
 gaps: []
 ---
 
