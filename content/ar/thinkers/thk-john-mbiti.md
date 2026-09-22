@@ -20,8 +20,9 @@ related:
 - id: "sch-african-traditional-religions-classification-debate", title: "الأديانُ الأفريقيةُ التقليديةُ ونقدُ تصنيفها", type: "مدرسة"
 - id: "thk-evans-pritchard", title: "إدوارد إيفانز-بريتشارد (E. E. Evans-Pritchard)", type: "مفكر"
 - id: "thk-okot-pbitek", title: "أوكوت بِتِك", type: "مفكر"
+- id: "wrk-african-religions-and-philosophy-mbiti", title: "الأديانُ والفلسفةُ الأفريقية (African Religions and Philosophy)", type: "عمل"
 gaps:
-  - "لا يوجد بعد ملفّ عملٍ مستقل (`wrk-`) لكتابه المرجعيّ *African Religions and Philosophy* (1969)؛ فجوةٌ للدفعة القادمة."
+  - "سُدَّت 2026-09-22 (الدفعة 107): أُضيف ملفُّ عملٍ مستقل `wrk-african-religions-and-philosophy-mbiti` لكتابه المرجعيّ *African Religions and Philosophy* (1969)."
   - "الجدلُ الأكاديمي حول أطروحته المركزية (تصوّره الموحَّد لـ'زمنٍ أفريقيّ' يخلو من مستقبلٍ بعيد) تعرّض لنقدٍ من باحثين لاحقين (كوامي جييكي، إلى جانب أوكوت بِتِك المذكور أعلاه، الموجود بتفصيلٍ كافٍ تحت `philosophy`) بدعوى التعميم المفرط عبر مئات المجموعات الإثنية المتباينة جداً في أفريقيا."
 ---
 
