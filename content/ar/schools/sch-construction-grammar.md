@@ -33,6 +33,8 @@ related:
 - id: "con-diachronic-construction-grammar", title: "نحوُ البُنى التعاقبي (Diachronic Construction Grammar)", type: "مفهوم"
 - id: "con-cognitive-grammar-langacker", title: "النحوُ المعرفيُّ عند لانغاكر (Cognitive Grammar)", type: "مفهوم"
 - id: "wrk-let-alone-fillmore-kay-oconnor", title: "مقالُ Let Alone التأسيسي (Fillmore, Kay & O'Connor, 1988)", type: "أثر"
+- id: "thk-luc-steels", title: "لوك ستيلز", type: "مفكر"
+- id: "con-fluid-construction-grammar-steels", title: "نحوُ البُنى المائع عند ستيلز (Fluid Construction Grammar)", type: "مفهوم"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`) — نشأت في جامعة بيركلي (تشارلز فيلمور، پول كاي، جورج لايكوف) كبديلٍ عن الصورية التوليدية، لا فرعاً منها."
   - "**سُدَّ بالكامل 2026-09-21 (الدفعة 58)**: پول كاي هو نفسُه طرفُ عقدة `thk-brent-berlin-paul-kay` (دراسة مصطلحات الألوان)؛ رُبطت هنا بدل إنشاء عقدةٍ مكرَّرة."

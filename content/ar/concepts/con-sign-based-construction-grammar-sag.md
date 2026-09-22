@@ -16,6 +16,7 @@ related:
 - id: "thk-ivan-sag", title: "إيفان ساغ", type: "مفكر"
 - id: "con-type-hierarchy-hpsg", title: "هرميةُ الأنماط والعلامةُ الموحَّدة في HPSG (Type Hierarchy & Sign)", type: "مفهوم"
 - id: "sch-construction-grammar", title: "نحوُ البُنى (Construction Grammar)", type: "مدرسة"
+- id: "con-fluid-construction-grammar-steels", title: "نحوُ البُنى المائع عند ستيلز (Fluid Construction Grammar)", type: "مفهوم"
 gaps: []
 ---
 

@@ -15,6 +15,7 @@ related:
 - id: "sch-language-evolution", title: "أصلُ اللغة وتطوّرها (Language Evolution)", type: "مدرسة"
 - id: "thk-simon-kirby", title: "سايمون كيربي", type: "مفكر"
 - id: "con-fln-flb-narrow-broad-faculty", title: "الملَكةُ اللغوية بمعناها الضيّق والواسع (FLN/FLB)", type: "مفهوم"
+- id: "thk-luc-steels", title: "لوك ستيلز", type: "مفكر"
 gaps: []
 ---
 
