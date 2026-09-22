@@ -45,6 +45,7 @@ related:
 - id: "sch-feminist-study-of-religion", title: "الدراسةُ النسويةُ للدين (Feminist Study of Religion)", type: "مدرسة"
 - id: "sch-religion-in-prisons-studies", title: "الدراسةُ الأكاديميةُ للدين في السجون (Religion in Prisons Studies): بكفورد وچيليات-راي", type: "مدرسة"
 - id: "sch-religion-and-emotion-studies-corrigan", title: "دراسةُ الدين والانفعال (Religion and Emotion Studies): چون كوريگان وتأريخُ العاطفة الدينية", type: "مدرسة"
+- id: "sch-comparative-religious-fasting-studies", title: "دراسةُ الدين والصيام المقارن أكاديمياً (Comparative Religious Fasting Studies)", type: "مدرسة"
 - id: "sch-religion-disability-studies-eiesland", title: "الدراسةُ الأكاديميةُ للدين والإعاقة (Religion and Disability Studies): نانسي إيزلاند و«الإلهُ المُعاق»", type: "مدرسة"
 - id: "sch-animals-religion-studies-waldau-patton", title: "الدراسةُ الأكاديميةُ للدين والحيوان (Animals and Religion Studies): پول ڤالداو وكيمبرلي پاتون", type: "مدرسة"
 - id: "sch-religion-popular-music-studies-partridge", title: "الدراسةُ الأكاديميةُ للدين والموسيقى الشعبية (Religion and Popular Music Studies)", type: "مدرسة"
