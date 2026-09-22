@@ -16,6 +16,7 @@ related:
 - id: "thk-derek-bickerton", title: "ديريك بيكرتون", type: "مفكر"
 - id: "con-poverty-of-the-stimulus-universal-grammar", title: "النحوُ الكلّيُّ وفقرُ المحفِّز (Universal Grammar & Poverty of the Stimulus)", type: "مفهوم"
 - id: "stu-nicaraguan-sign-language-emergence-senghas", title: "نشوءُ لغة الإشارة النيكاراغوية: دراساتُ آن سنغاس", type: "دراسة"
+- id: "con-creole-exceptionalism-critique-degraff", title: "نقدُ الاستثنائية الكريولية عند دوغراف (Critique of Creole Exceptionalism)", type: "مفهوم"
 gaps:
   - "حيادٌ صريحٌ محفوظ: الفرضيةُ تعرّضت لنقدٍ منهجيٍّ واسع (خصوصاً من سليكوكو مفوين الذي شكّك في التشابه العابر للّغات ذاته)؛ لا تُرجَّح هذه الفقرةُ صحّةَ الفرضية."
 ---

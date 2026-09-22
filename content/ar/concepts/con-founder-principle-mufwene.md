@@ -15,6 +15,7 @@ related:
 - id: "sch-contact-linguistics-creole", title: "التماسُّ اللغويُّ والكريول والبِجن (Contact Linguistics)", type: "مدرسة"
 - id: "con-feature-pool-ecology-mufwene", title: "مجمعُ السمات والمقاربةُ البيئية-التطوّرية عند مفوين (Feature Pool & Language Ecology)", type: "مفهوم"
 - id: "thk-salikoko-mufwene", title: "سليكوكو مفوين", type: "مفكر"
+- id: "con-creole-exceptionalism-critique-degraff", title: "نقدُ الاستثنائية الكريولية عند دوغراف (Critique of Creole Exceptionalism)", type: "مفهوم"
 gaps: []
 ---
 

@@ -30,6 +30,7 @@ related:
 - id: "con-substrate-superstrate-hypothesis-creole", title: "فرضيةُ اللغة المِرقاة واللغة الفوقية في نشوء الكريول (Substrate/Superstrate Hypothesis)", type: "مفهوم"
 - id: "stu-tok-pisin-creolization", title: "توك پيسِن: دراسةُ حالةٍ كلاسيكية في نشوء الكريول", type: "دراسة"
 - id: "con-founder-principle-mufwene", title: "مبدأُ المؤسِّس عند مفوين (The Founder Principle)", type: "مفهوم"
+- id: "con-creole-exceptionalism-critique-degraff", title: "نقدُ الاستثنائية الكريولية عند دوغراف (Critique of Creole Exceptionalism)", type: "مفهوم"
 gaps:
   - "لا `belongs_to`: فرعٌ نشأ من ملاحظاتٍ ميدانيةٍ على لغات الاستعمار والتجارة، لا من انحدارٍ نظريٍّ مباشرٍ من مدرسةٍ لسانيةٍ واحدة."
 ---
