@@ -24,8 +24,10 @@ related:
 - id: "wrk-talkhis-al-miftah-qazwini", title: "تلخيصُ المفتاح", type: "أثر"
 - id: "con-ilm-al-bayan-arabic-rhetoric", title: "علمُ البيان: التشبيهُ والاستعارةُ والكناية", type: "مفهوم"
 - id: "con-ilm-al-maani-arabic-rhetoric", title: "علمُ المعاني: مطابقةُ الكلام لمقتضى الحال", type: "مفهوم"
+- id: "con-ilm-al-badi-arabic-rhetoric", title: "علمُ البديع: المحسِّناتُ اللفظيةُ والمعنوية", type: "مفهوم"
 gaps:
   - "**سُدَّ بالكامل 2026-09-22 (الدفعة 165)**: أُنشئ `thk-al-khatib-al-qazwini` و`wrk-talkhis-al-miftah-qazwini`."
+  - "**سُدَّ بالكامل 2026-09-22 (الدفعة 235)**: أُنشئ `con-ilm-al-badi-arabic-rhetoric`، مكمِّلاً الفروعَ الثلاثة لعلوم البلاغة."
 ---
 
 # علومُ البلاغة العربية: المعاني والبيان والبديع

@@ -20,6 +20,9 @@ edges:
 related:
 - id: "thk-al-jurjani", title: "عبد القاهر الجرجاني", type: "مفكر"
 - id: "con-nazm-theory-jurjani", title: "نظرية النظم عند الجرجاني (Nazm Theory)", type: "مفهوم"
+- id: "con-ilm-al-bayan-arabic-rhetoric", title: "علمُ البيان: التشبيهُ والاستعارةُ والكناية", type: "مفهوم"
+- id: "con-ilm-al-maani-arabic-rhetoric", title: "علمُ المعاني: مطابقةُ الكلام لمقتضى الحال", type: "مفهوم"
+- id: "con-ilm-al-badi-arabic-rhetoric", title: "علمُ البديع: المحسِّناتُ اللفظيةُ والمعنوية", type: "مفهوم"
 gaps:
   - "لم يُعثر على دراسةٍ أكاديميةٍ غربيةٍ حديثةٍ متخصّصةٍ بالسكّاكي ضمن مصادر الأطلس المتاحة؛ الاعتمادُ الرئيسي على المصادر العربية التراثية."
 ---
