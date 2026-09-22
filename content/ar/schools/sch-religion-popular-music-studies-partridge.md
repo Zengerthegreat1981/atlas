@@ -22,11 +22,13 @@ related:
 - id: "sch-comparative-religious-music-studies", title: "الدراسةُ الأكاديميةُ للموسيقى الدينية المقارِنة (Comparative Study of Religious/Sacred Music)", type: "مدرسة"
 - id: "thk-christopher-partridge", title: "كريستوفر بارتريدج", type: "مفكر"
 - id: "wrk-lyre-of-orpheus-partridge", title: "The Lyre of Orpheus: Popular Music, the Sacred, and the Profane", type: "عمل / كتاب"
+- id: "thk-robin-sylvan", title: "روبن سيلفان (Robin Sylvan)", type: "مفكر"
+- id: "wrk-traces-of-the-spirit-sylvan", title: "Traces of the Spirit: The Religious Dimensions of Popular Music", type: "عمل / كتاب"
 gaps:
   - "الحقلُ يتمايز صراحةً عن `sch-comparative-religious-music-studies` (بيك): ذاك يدرس الموسيقى الطقسية/المقدَّسة الرسمية داخل التقاليد الدينية المؤسَّسية (الترتيل الفيدي، الأناشيد)، بينما هذا الحقلُ يدرس الموسيقى الشعبية العلمانية ظاهرياً (الروك، البوب، الهيڤي ميتال، الريغي) بوصفها موقعاً لظواهرَ دينيةٍ أو شبهِ دينيةٍ (التقديس، الحج إلى الحفلات، الكاريزما النجمية، «التديّنُ الخفيّ» occulture) — لا تكرار، بل حقلان متكاملان يغطّيان طرفَي المؤسَّسي/الشعبي. وُثِّق هذا الفرقُ صراحةً هنا تفادياً لالتباسٍ محتمل."
   - "الحقلُ يتداخل جزئياً مع دراسات الثقافة الشعبية العامة (Cultural Studies) لكنه يتمايز عنها بتركيزه الصريح على المقولات الدينية (المقدَّس، الطقس، الكاريزما، الحج) لا التحليل الاجتماعي الشامل للثقافة الجماهيرية وحده."
   - "لم تُضَف بعد عقدةٌ مستقلة لمفهوم «الثقافة الخفية» (Occulture) الذي صاغه پارتريدج نفسُه في مشروعه الأوسع *The Re-Enchantment of the West* (2004-2005) — مصطلحٌ محوريٌّ في تفكيره لكنه أعمُّ من الموسيقى الشعبية وحدها؛ تُرك لدفعةٍ لاحقة تخصِّصه بوصفه `con-` مستقلاً إن ثبتت الحاجة."
-  - "باحثون آخرون في الحقل (روبن سيلفان Robin Sylvan في *Traces of the Spirit*، 2002؛ غوردون لينچ Gordon Lynch) لم يُضافوا بعد — مرشَّحون صريحون لتعميق هذا الحقل في دفعةٍ لاحقة."
+  - "سُدَّت جزئياً 2026-09-22 (دفعةٌ لاحقة): روبن سيلفان (Robin Sylvan) وعملُه *Traces of the Spirit* (2002) أُضيفا الآن (`thk-robin-sylvan`، `wrk-traces-of-the-spirit-sylvan`) بوصفهما أساساً إثنوغرافياً ميدانياً سابقاً زمنياً لتنظير بارتريدج. غوردون لينچ (Gordon Lynch) لا يزال غيرَ مُضاف — مرشَّحٌ صريحٌ لدفعةٍ لاحقة."
 ---
 
 # الدراسةُ الأكاديميةُ للدين والموسيقى الشعبية (Religion and Popular Music Studies)
