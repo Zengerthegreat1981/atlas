@@ -20,6 +20,8 @@ edges:
 related:
 - id: "con-poverty-of-the-stimulus-universal-grammar", title: "النحوُ الكلّيُّ وفقرُ المحفِّز (Universal Grammar & Poverty of the Stimulus)", type: "مفهوم"
 - id: "dbt-innateness-vs-usage-based-language-acquisition", title: "جدلُ الفطرية اللغوية مقابل الاستعمالية في اكتساب اللغة", type: "جدل"
+- id: "con-language-bioprogram-hypothesis", title: "فرضيةُ البرنامج اللغوي الحيوي (Language Bioprogram Hypothesis)", type: "مفهوم"
+- id: "thk-salikoko-mufwene", title: "سليكوكو مفوين", type: "مفكر"
 gaps:
   - "حيادٌ صريحٌ محفوظ: فرضيةُ البرنامج الحيوي جدليةٌ بشدّة، وانتقدها باحثون كثيرون (كسالي ثوماسون) استناداً إلى دراساتٍ لاحقة على نشأة كريولاتٍ محدَّدة؛ لا يُرجَّح طرفٌ هنا."
 ---
