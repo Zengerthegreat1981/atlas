@@ -20,6 +20,7 @@ related:
 - id: "sch-phenomenology-of-religion-otto-eliade", title: "الظاهراتيةُ الدينية: أوتو وإلياده وأثرُهما", type: "مدرسة"
 - id: "thk-rudolf-otto", title: "رودولف أوتو", type: "مفكر"
 - id: "con-seven-dimensions-of-religion-smart", title: "الأبعادُ السبعةُ للدين (سمارت)", type: "مفهوم"
+- id: "wrk-dimensions-of-the-sacred-smart", title: "أبعادُ المقدَّس: تشريحُ معتقدات العالم (Dimensions of the Sacred)", type: "عمل / كتاب"
 gaps:
   - "دوره المؤسِّس في إنشاء أول قسم أكاديمي بريطاني لدراسات الأديان (جامعة لانكستر، 1967) موثَّقٌ إجمالاً؛ تفاصيل مؤسسية إضافية (المنهاج، الأساتذة المؤسِّسون) غير متوفرة هنا."
 ---

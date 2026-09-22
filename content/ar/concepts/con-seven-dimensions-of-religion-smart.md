@@ -20,8 +20,9 @@ edges:
 related:
 - id: "thk-ninian-smart", title: "نينيان سمارت", type: "مفكر"
 - id: "sch-phenomenology-of-religion-otto-eliade", title: "الظاهراتيةُ الدينية: أوتو وإلياده وأثرُهما", type: "مدرسة"
+- id: "wrk-dimensions-of-the-sacred-smart", title: "أبعادُ المقدَّس: تشريحُ معتقدات العالم (Dimensions of the Sacred)", type: "عمل / كتاب"
 gaps:
-  - "لا يوجد بعد ملفّ `wrk-` مستقل لكتاب سمارت *Dimensions of the Sacred* (1996) نفسه؛ الاستشهاد هنا في قسم المصادر مباشرةً."
+  - "**سُدَّت 2026-09-22 (الدفعة 122):** أُضيف ملفّ عملٍ مستقل لكتاب سمارت *Dimensions of the Sacred* — `wrk-dimensions-of-the-sacred-smart`."
   - "مقارنةٌ تفصيليةٌ بنماذج تصنيفية منافسة لتعريف الدين (مثل نموذج كليفورد غيرتز الرمزي، أو نقد جوناثان ز. سميث لإمكان التصنيف أصلاً في `dbt-defining-religion-as-analytic-category`) لم تُكتب هنا بعد؛ مذكورةٌ إجمالاً فقط كفرصةٍ لربطٍ مستقبلي."
 ---
 
