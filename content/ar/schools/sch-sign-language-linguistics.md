@@ -24,6 +24,7 @@ related:
 - id: "con-babbling-phonological-development", title: "المناغاةُ والنموُّ الصوتي عند الرضيع (Babbling & Phonological Development)", type: "مفهوم"
 - id: "con-cherology-sign-parameters-stokoe", title: "الكيرولوجيا ومعاملاتُ الإشارة عند ستوكو (Cherology & Sign Parameters)", type: "مفهوم"
 - id: "thk-wendy-sandler", title: "ويندي ساندلر", type: "مفكر"
+- id: "con-classifier-predicates-spatial-agreement-sign-language", title: "المسنِداتُ التصنيفيةُ والاتفاقُ المكانيُّ في لغة الإشارة", type: "مفهوم"
 gaps: []
 ---
 
