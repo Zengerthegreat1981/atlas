@@ -19,9 +19,10 @@ edges:
 - rel: "belongs_to", target: "sch-braudel-longue-duree", target_type: "مدرسة"
 related:
 - id: "thk-robert-fogel", title: "روبرت فوگل", type: "مفكر"
+- id: "sch-new-institutional-economic-history", title: "المؤسسانيةُ الاقتصاديةُ الجديدة في التاريخ (دوغلاس نورث)", type: "مدرسة"
 - id: "sch-braudel-longue-duree", title: "الزمنُ الطويلُ والبنيةُ عند بروديل (*المتوسّط*، longue durée)", type: "مدرسة"
 gaps:
-  - "**تحديث 2026-09-21:** أُنشئ `thk-robert-fogel`. دوغلاس نورث لا يزال بلا عقدةٍ مستقلة — فجوةٌ متروكة."
+  - "**تحديث 2026-09-21:** أُنشئ `thk-robert-fogel`. **تحديث 2026-09-22:** أُنشئ `sch-new-institutional-economic-history` يوثّق زاوية دوغلاس نورث النظرية (لا سيرته الشخصية بعد)."
   - "**ملاحظة نطاق:** المصطلح 'Cliometrics' يُشتق من كليو (Clio)، ربّة التاريخ في الميثولوجيا اليونانية، ومترياتٍ (measurement)؛ صِيغ في مؤتمرٍ أكاديمي بجامعة بردو عام 1958."
 ---
 # التاريخُ الكمّيُّ والتاريخُ الاقتصاديُّ القياسيّ (Cliometrics)
