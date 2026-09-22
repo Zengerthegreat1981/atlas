@@ -25,6 +25,8 @@ related:
 - id: "thk-sally-mcconnell-ginet", title: "سالي مكونل-جينيت", type: "مفكر"
 - id: "con-identity-performativity-bucholtz-hall", title: "الهويةُ العلائقيةُ الناشئة عند بوخولتس وهول (Identity as Relational & Emergent)", type: "مفهوم"
 - id: "con-genderlect-rapport-report-talk-tannen", title: "اللهجةُ الجندرية وحديثُ الوئام مقابل حديث التقرير عند تانن (Genderlect & Rapport/Report Talk)", type: "مفهوم"
+- id: "thk-don-kulick", title: "دون كوليك", type: "مفكر"
+- id: "con-language-desire-sexuality-kulick", title: "اللغةُ والرغبةُ الجنسانية عند كوليك (Language & Desire)", type: "مفهوم"
 gaps: []
 ---
 
