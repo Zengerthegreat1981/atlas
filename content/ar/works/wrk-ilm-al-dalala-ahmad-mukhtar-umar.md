@@ -1,6 +1,6 @@
 ---
 slug: "wrk-ilm-al-dalala-ahmad-mukhtar-umar"
-id: "WRK-11994"
+id: "WRK-11996"
 type: "أثر"
 part: "linguistics"
 level: "متقدم"
