@@ -21,6 +21,7 @@ related:
 - id: "sch-systemic-functional-linguistics", title: "اللسانياتُ الوظيفيةُ المنهجية (Systemic Functional Linguistics)", type: "مدرسة"
 - id: "thk-william-foley", title: "وليام فولي", type: "مفكر"
 - id: "con-macrorole-actor-undergoer-rrg", title: "الدوران الكليّان: الفاعلُ والمتأثِّر (Actor & Undergoer Macroroles)", type: "مفهوم"
+- id: "con-layered-clause-structure-rrg", title: "البنيةُ الطبقية للجملة في نحو الدور والمرجع (Layered Structure of the Clause)", type: "مفهوم"
 gaps:
   - "لا `belongs_to`: تيارٌ وظيفيٌّ نشأ بالتوازي مع اللسانيات الوظيفية المنهجية الهاليدايية دون انحدارٍ مباشرٍ منها."
 ---

@@ -19,6 +19,7 @@ edges:
 related:
 - id: "sch-linguistic-typology", title: "النمطيةُ اللغويةُ والكلّياتُ اللغوية (Linguistic Typology & Universals)", type: "مدرسة"
 - id: "thk-simon-dik", title: "سيمون ديك", type: "مفكر"
+- id: "con-layered-clause-structure-rrg", title: "البنيةُ الطبقية للجملة في نحو الدور والمرجع (Layered Structure of the Clause)", type: "مفهوم"
 gaps:
   - "**سُدَّ سابقاً**: `thk-simon-dik` موجودٌ بالفعل في الأطلس؛ رُبط أعلاه دون تكرار."
 ---
