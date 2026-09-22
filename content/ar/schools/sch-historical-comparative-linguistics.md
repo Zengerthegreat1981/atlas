@@ -24,6 +24,7 @@ related:
 - id: "con-grammaticalization", title: "النحويةُ (Grammaticalization)", type: "مفهوم"
 - id: "met-stammbaum-family-tree-linguistics", title: "شجرةُ الأنساب اللغوية (Stammbaumtheorie)", type: "استعارة/مجاز مؤسِّس"
 - id: "con-neogrammarian-hypothesis-exceptionless-sound-laws", title: "فرضيةُ النحويين الجُدد: القوانينُ الصوتية بلا استثناء (Neogrammarian Hypothesis)", type: "مفهوم"
+- id: "thk-rasmus-rask", title: "راسموس راسك", type: "مفكر"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`) — سبقت البنيويةَ السوسيرية زمنياً بنحو قرن، وليست فرعاً منها."
 ---

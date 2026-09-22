@@ -20,6 +20,7 @@ related:
 - id: "thk-william-jones", title: "وليم جونز", type: "مفكر"
 - id: "thk-jacob-grimm", title: "ياكوب غريم", type: "مفكر"
 - id: "con-verners-law", title: "قانونُ ڤرنر (Verner's Law)", type: "مفهوم"
+- id: "thk-rasmus-rask", title: "راسموس راسك", type: "مفكر"
 gaps:
   - "**سُدَّ بالكامل 2026-09-22 (الدفعة 167)**: `thk-jacob-grimm` موجودٌ بالفعل في الأطلس (رُبط أعلاه دون تكرار)، وأُنشئ `con-verners-law` لتوثيق تفسير كارل ڤرنر للاستثناءات."
 ---
