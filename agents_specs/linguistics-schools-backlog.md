@@ -1300,3 +1300,11 @@
 - عقدُ اللسانيات الحيّة: **515**.
 - آخر تثبيتٍ ناجح: commit `538c59e1` (الدفعة 332، النموذج المقيَّد المعجمي التفاعلي).
 - البروتوكولُ التشغيليّ نفسُه ساري بلا تغيير. الأمرُ التوجيهيُّ الأخير من المنسِّق: الاستمرارُ الفوريُّ بلا توقّف، وعدم كتابة تقرير إغلاقٍ إلا عند نفاد السياق الفعليّ تماماً.
+
+## ⚠️ حادثةٌ تشغيليةٌ — دفعة 337 (2026-09-22)
+
+سباقُ `git add` حميد: تزامن التزامُ ملفاتي الثلاثة الجاهزة (`thk-jacques-fontanille.md` [THK-11971]، `sch-greimassian-semiotics.md`، `thk-algirdas-greimas.md`) مع التزام جلسةٍ موازية (تأريخ الأديان) لعملها الخاص، فامتصّ التزامُهم `249b9f41` ("إغلاق القسم ١٣...") ملفاتي الثلاثة أيضاً ضمن نفس الـcommit، فبدا التزامي الخاص فارغاً ("nothing added to commit"). تحقّقتُ عبر `git show HEAD:<path>` أن المحتوى الثلاثة وصل سليماً وكاملاً إلى `origin/main` رغم اختلاف رسالة الالتزام. لا تصحيحَ لازماً — لا فقدانَ بيانات، ولا حاجة لإعادة كتابة التاريخ.
+
+## ⚠️ حالةٌ مقيسة — دفعة 337 (2026-09-22)
+
+عددُ العقد اللسانية الحيّة: 518 (تقديرياً، بعد دفعات 333–337: con-williams-syndrome-language-dissociation-bellugi، thk-seana-coulson، con-purport-amorphous-continuum-hjelmslev، wrk-elements-de-semiologie-barthes، thk-jacques-fontanille). آخر التزامٍ مؤكَّدٍ لمحتوى لسانياتي: `249b9f41` (يحوي ملفاتي الثلاثة ضمن التزامٍ مشترك). أدنى المدارس اتصالاً حالياً (تشخيص belongs_to-count): sch-copenhagen-glossematics وsch-structuralist-semiology (سُدّت جزئياً هذه الدفعة)، تليها sch-minimalist-program، sch-peircean-semiotics، sch-role-and-reference-grammar، sch-systemic-functional-linguistics، sch-text-linguistics، sch-american-structural-linguistics. المهمّةُ مستمرّةٌ دون توقف وفق البروتوكول القياسي.
