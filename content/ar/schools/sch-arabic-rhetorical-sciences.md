@@ -26,6 +26,7 @@ related:
 - id: "con-ilm-al-maani-arabic-rhetoric", title: "علمُ المعاني: مطابقةُ الكلام لمقتضى الحال", type: "مفهوم"
 - id: "con-ilm-al-badi-arabic-rhetoric", title: "علمُ البديع: المحسِّناتُ اللفظيةُ والمعنوية", type: "مفهوم"
 - id: "wrk-dalail-al-ijaz-jurjani", title: "دلائلُ الإعجاز", type: "أثر"
+- id: "wrk-asrar-al-balagha-jurjani", title: "أسرارُ البلاغة", type: "أثر"
 gaps:
   - "**سُدَّ بالكامل 2026-09-22 (الدفعة 165)**: أُنشئ `thk-al-khatib-al-qazwini` و`wrk-talkhis-al-miftah-qazwini`."
   - "**سُدَّ بالكامل 2026-09-22 (الدفعة 235)**: أُنشئ `con-ilm-al-badi-arabic-rhetoric`، مكمِّلاً الفروعَ الثلاثة لعلوم البلاغة."
