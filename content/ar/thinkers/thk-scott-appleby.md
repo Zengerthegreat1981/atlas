@@ -21,9 +21,11 @@ related:
 - id: "wrk-ambivalence-of-the-sacred-appleby", title: "ازدواجيةُ المقدَّس (أپلبي)", type: "عمل / كتاب"
 - id: "thk-bruce-lincoln", title: "بروس لنكولن (Bruce Lincoln)", type: "مفكر"
 - id: "thk-mark-juergensmeyer", title: "مارك يورغنسماير", type: "مفكر"
+- id: "thk-martin-marty", title: "مارتن إ. مارتي (Martin E. Marty)", type: "مفكر"
+- id: "wrk-fundamentalisms-observed-marty-appleby", title: "الأصوليّاتُ المُلاحَظة (مارتي وأپلبي)", type: "عمل / كتاب"
 gaps:
   - "أُنشئ 2026-09-22 مفتتحاً مجالَ الدراسة المقارَنة للعنف الديني (`sch-comparative-religious-violence-studies`) إلى جانب لنكولن. تحقّقتُ عبر `grep -rli` من غياب أي ملفٍّ سابقٍ له أو لكتابه في كامل الأطلس، وتحقّقتُ من عنوان كتابه وسنة نشره عبر `openlibrary.org/search.json` (OL3536586W، 2000) قبل الكتابة."
-  - "لم يُستوفَ هنا تفصيلُ مشروع الأصولية (The Fundamentalism Project, 1991–1995) الذي شارك أپلبي في تحريره مع مارتن مارتي بجامعة شيكاغو، والذي أسّس منهجياً لعمله اللاحق في *الازدواجية*؛ فجوةٌ موثَّقة تحتاج ملفاً مستقلاً لاحقاً (مارتن مارتي نفسه غيرُ موجودٍ بعد كمفكِّرٍ مستقل)."
+  - "الفجوةُ السابقةُ (مشروع الأصولية ومارتن مارتي) سُدَّت في الدفعة 208: أُنشئ `thk-martin-marty` و`wrk-fundamentalisms-observed-marty-appleby` مستقلَّين، ورُبطا هنا."
 ---
 
 # ر. سكوت أپلبي (R. Scott Appleby)
