@@ -24,6 +24,7 @@ related:
 - id: "thk-willem-levelt", title: "ﭬيلم ليڤلت", type: "مفكر"
 - id: "con-orthographic-depth-hypothesis", title: "فرضيةُ العمق الكتابي (Orthographic Depth Hypothesis)", type: "مفهوم"
 - id: "con-dual-stream-model-hickok-poeppel", title: "نموذجُ المسارين البطنيّ والظهريّ لمعالجة اللغة (Dual-Stream Model)", type: "مفهوم"
+- id: "con-garden-path-minimal-attachment-frazier", title: "جملُ المسار المُضلِّل ومبدآ الإلحاق الأدنى والإغلاق المتأخّر عند فريزير", type: "مفهوم"
 gaps:
   - "لا `belongs_to`: فرعٌ تجريبيٌّ يختبر تنبّؤات النظريات النحوية زمنياً، لكنه لا ينحدر تاريخياً من مدرسةٍ نظريةٍ واحدة."
 ---
