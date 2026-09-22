@@ -21,8 +21,9 @@ related:
 - id: "thk-jan-assmann", title: "يان أسمان (Jan Assmann)", type: "مفكر"
 - id: "sch-egyptian-maat", title: "تقليد الحكمة المصرية (ماعت)", type: "مدرسة"
 - id: "sch-founding-comparative-religion-science-of-religion", title: "تأسيسُ «علمِ الدين» (Science of Religion): ماكس مولر ونشأةُ علم الأديان المقارن", type: "مدرسة"
+- id: "con-cultural-memory-assmann", title: "الذاكرةُ الثقافية (Kulturelles Gedächtnis / Cultural Memory)", type: "مفهوم"
 gaps:
-  - "لا يوجد بعد ملفّ مستقل لمفهوم 'الذاكرة الثقافية' (Kulturelles Gedächtnis) بوصفه أداةً تحليليةً عامّة تتجاوز مصر القديمة (طوّره أسمان مع زوجته Aleida Assmann)؛ يُترك لعقدة `con-` مستقبلية عند الحاجة."
+  - "مفهوم 'الذاكرة الثقافية' صار له الآن ملفٌّ مستقل (`con-cultural-memory-assmann`) بوصفه أداةً تحليليةً عامّة تتجاوز مصر القديمة."
   - "نقد أسمان لمفهومه عن 'التمييز الموسوي' (Mosaic Distinction) — أي التمييز بين التوحيد والوثنية بوصفه بناءً تاريخياً لا حقيقةً معطاة — أثار جدلاً لاهوتياً واسعاً (خاصةً من علماء الكتاب المقدس)؛ لم يُفصَّل بعد في ملفّ `dbt-` مستقل لغياب مصدرين محقَّقين وقت الكتابة."
 ---
 
