@@ -22,8 +22,10 @@ related:
 - id: "thk-mircea-eliade", title: "ميرتشيا إلياده", type: "مفكر"
 - id: "con-monomyth-heros-journey-campbell", title: "الأسطورةُ الأحاديةُ ورحلةُ البطل عند كامبل (Monomyth / Hero's Journey)", type: "مفهوم"
 - id: "thk-robert-a-segal", title: "روبرت أ. سيغال (Robert A. Segal)", type: "مفكر"
+- id: "wrk-hero-with-a-thousand-faces-campbell", title: "البطلُ بألف وجه (The Hero with a Thousand Faces)", type: "عمل"
 gaps:
   - "كامبل ليس عالِمَ أديانٍ أكاديمياً بالمعنى المنهجي الصارم (لم يُجرِ بحثاً ميدانياً ولا فيلولوجياً مقارَناً مضبوطاً)، بل مقارِنٌ للأساطير بمنهجٍ يونغيّ-تأويليّ شاع شعبياً عبر التلفزيون (*The Power of Myth*, 1988)؛ هذا التمييز موثَّقٌ في متن الملف تفادياً للخلط بينه وبين تيار علم الأديان الأكاديمي الصارم."
+  - "[سُدَّت] كان كتابه *The Hero with a Thousand Faces* (1949) مذكوراً بالاسم فقط دون ملفّ عملٍ مستقل؛ أُضيف `wrk-hero-with-a-thousand-faces-campbell` بالدفعة 111."
   - "علاقتُه المباشرة بيونغ (لم يلتقِه لكنه تأثّر بأعماله عبر إيرانوس Eranos) لم تُفصَّل في سيرة يونغ الحالية؛ فجوةٌ للربط المستقبلي."
 ---
 
