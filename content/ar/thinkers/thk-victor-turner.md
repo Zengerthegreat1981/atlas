@@ -22,8 +22,10 @@ related:
 - id: "wrk-forest-of-symbols-turner", title: "غابةُ الرموز (The Forest of Symbols)", type: "عمل / كتاب"
 - id: "sch-symbolic-anthropology-of-religion", title: "الأنثروبولوجيا الرمزيةُ والتأويليةُ للدين: تيرنر ودوغلاس وغيرتز", type: "مدرسة"
 - id: "dbt-pilgrimage-communitas-vs-contestation", title: "جدلُ الحجّ: الكومونيتاس مقابل المنازعة (Communitas vs. Contestation)", type: "جدل"
+- id: "thk-lawrence-sullivan", title: "لورنس سوليڤان (Lawrence E. Sullivan)", type: "مفكر"
 gaps:
   - "أُضيف رابطٌ إلى `sch-symbolic-anthropology-of-religion` (علمُ الأديان المقارن، الدفعة 14) الذي يُبرز إسهامه تحديداً في دراسة الدين والحجّ دون تكرار سيرته هنا."
+  - "تلميذُه لورنس سوليڤان جمع بين إرثه وإرث إلياده في دراسة أديان أمريكا الجنوبية الأصلية (`sch-south-american-indigenous-religions-studies`، الدفعة الحالية)."
 ---
 # فيكتور تيرنر (Victor Turner)
 

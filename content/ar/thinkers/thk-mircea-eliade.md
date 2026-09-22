@@ -27,7 +27,9 @@ related:
 - id: "thk-ivan-strenski", title: "إيفان سترينسكي (Ivan Strenski)", type: "مفكر"
 - id: "sch-chicago-school-history-of-religions", title: "مدرسةُ شيكاغو لتاريخ الأديان (Chicago School of the History of Religions)", type: "مدرسة"
 - id: "thk-joseph-kitagawa", title: "جوزف كيتاغاوا (Joseph M. Kitagawa)", type: "مفكر"
+- id: "thk-lawrence-sullivan", title: "لورنس سوليڤان (Lawrence E. Sullivan)", type: "مفكر"
 gaps:
+  - "تلميذُه لورنس سوليڤان وسّع منهجه الظاهراتي إلى أديان أمريكا الجنوبية الأصلية (`sch-south-american-indigenous-religions-studies`، الدفعة الحالية)."
   - "نُقاده اللاحقون (خاصةً جوناثان ز. سميث J. Z. Smith وإيفان سترينسكي Ivan Strenski) اتّهموه بتعميم نمطٍ 'شامل' للمقدَّس متجاهلاً الفروق التاريخية والسياقية بين الأديان. سُدَّت 2026-09-21 (الدفعة 41) جزئياً: نقدُ سميث فُصِّل الآن في `dbt-comparativism-vs-contextualism-eliade-smith`. سُدَّت 2026-09-22 (الدفعة 114): نقدُ سترينسكي له الآن ملفُّ مفكرٍ مستقل (`thk-ivan-strenski`)، يوثّق نقده في *Four Theories of Myth* (1987) لمشروع إلياده المقارن."
   - "ماضيه في رومانيا الفاشية (ارتباطه الشبابي بحركة 'الحرس الحديدي' اليمينية المتطرّفة) موضوعُ جدلٍ أكاديميٍّ موثَّق (خصوصاً في أعمال Daniel Dubuisson)؛ لم يُفصَّل هنا لعدم توفّر مصدرين محقَّقين إضافيين وقت الكتابة — يُترك للجدل المستقل (`crt-`) حين يُكتب."
   - "مفهوما 'الزمن الأسطوري' (Illud Tempus) و'الأبدية الراجعة' (Eternal Return) فُصِّلا الآن في ملفّ مفهومٍ مستقل: `con-sacred-time-calendar-eliade` (الدفعة 13)."
