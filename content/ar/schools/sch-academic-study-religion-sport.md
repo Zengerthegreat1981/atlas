@@ -26,9 +26,12 @@ related:
 - id: "thk-lee-a-thompson", title: "لي أ. طومسون (Lee A. Thompson)", type: "مفكر"
 - id: "wrk-invention-yokozuna-thompson", title: "اختراعُ لقب اليوكوزونا ونظام البطولة (The Invention of the Yokozuna and the Championship System)", type: "عمل / كتاب"
 - id: "con-dohyo-sacred-space-sumo", title: "الدوهيو فضاءً مقدَّساً: طقوسُ الشنتو في السومو", type: "مفهوم"
+- id: "sch-religion-sport-hinduism-india", title: "الدينُ والرياضةُ في الهند: المصارعةُ التقليدية (كُشتي) وچوزيف س. ألتر", type: "مدرسة"
+- id: "thk-joseph-alter", title: "چوزيف س. ألتر (Joseph S. Alter)", type: "مفكر"
 gaps:
   - "سُدَّت جزئياً (2026-09-22، دفعةٌ لاحقة): أُضيف چوزيف ل. پرايس (Joseph L. Price) ومجموعتُه التحريرية *From Season to Season: Sports as American Religion* (2001، `thk-joseph-l-price`، `wrk-from-season-to-season-price`) بوصفه امتداداً تحليلياً يفكِّك 'الرياضةَ' إلى رياضاتٍ منفصلةٍ كلُّ واحدةٍ ببنيتها الرمزية الخاصة."
-  - "سُدَّت جزئياً (2026-09-22، دفعةٌ لاحقة): فُتح الفرعُ الياباني الشنتويُّ عبر لي أ. طومسون (`thk-lee-a-thompson`) وفصله المرجعيّ عن اختراع رتبة اليوكوزونا (`wrk-invention-yokozuna-thompson`، 1998) ومفهوم الدوهيو فضاءً مقدَّساً (`con-dohyo-sacred-space-sumo`). لا يزال الفرعُ الهنديّ (الرياضةُ والهندوسية) فجوةً صريحةً لدفعةٍ لاحقة."
+  - "سُدَّت جزئياً (2026-09-22، دفعةٌ لاحقة): فُتح الفرعُ الياباني الشنتويُّ عبر لي أ. طومسون (`thk-lee-a-thompson`) وفصله المرجعيّ عن اختراع رتبة اليوكوزونا (`wrk-invention-yokozuna-thompson`، 1998) ومفهوم الدوهيو فضاءً مقدَّساً (`con-dohyo-sacred-space-sumo`)."
+  - "سُدَّت (2026-09-22، دفعةٌ لاحقة): فُتح الفرعُ الهنديّ (الرياضةُ والهندوسية) عبر چوزيف س. ألتر (`thk-joseph-alter`) ودراستِه *The Wrestler's Body* (1992، `wrk-wrestlers-body-alter`) ومفهوم الأخاره/البراهماتشاريا (`con-akhara-brahmacharya-wrestling`)، ضمن مدرسةٍ فرعيةٍ جديدة `sch-religion-sport-hinduism-india`."
   - "التمييزُ المنهجيّ بين 'الرياضة كدينٍ مدنيٍّ وظيفي' (بمعنى دوركايمي مجازي) و'الرياضة كموقعٍ لممارسةٍ دينيةٍ تقليدية فعلية' (كصلاة الرياضيين المسيحيين الإنجيليين) لم يُفصَّل هنا بقدر ما يستحقّه؛ أُشير إليه إجمالاً فقط."
 ---
 
