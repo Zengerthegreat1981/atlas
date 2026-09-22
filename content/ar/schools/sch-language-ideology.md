@@ -23,6 +23,8 @@ related:
 - id: "con-standard-language-ideology", title: "أيديولوجيا اللغة المعيارية (Standard Language Ideology)", type: "مفهوم"
 - id: "con-indexical-order-silverstein", title: "الرتبةُ الإشارية عند سيلفرستاين (Indexical Order)", type: "مفهوم"
 - id: "con-semiotic-processes-irvine-gal", title: "العملياتُ السيميائيةُ الثلاث عند إرڤين وغال: الأَيقنةُ والمَحوُ والتكرارُ الكسوري", type: "مفهوم"
+- id: "thk-kathryn-woolard", title: "كاثرين وولارد", type: "مفكر"
+- id: "con-authenticity-anonymity-woolard", title: "الأصالةُ مقابل التخفّي عند وولارد (Authenticity vs. Anonymity)", type: "مفهوم"
 gaps:
   - "لا `belongs_to`: فرعٌ من الأنثروبولوجيا اللغوية نشأ متقاطعاً مع اللسانيات الاجتماعية، لا منحدراً من مدرسةٍ لسانيةٍ نظريةٍ واحدة."
 ---
