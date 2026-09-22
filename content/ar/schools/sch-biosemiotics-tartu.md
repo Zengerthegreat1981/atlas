@@ -19,6 +19,8 @@ related:
 - id: "thk-juri-lotman", title: "يوري لوتمان", type: "مفكر"
 - id: "thk-thomas-sebeok", title: "توماس سيبيوك", type: "مفكر"
 - id: "sch-structuralist-semiology", title: "السيميولوجيا السوسيرية وامتدادُها (Structuralist Semiology)", type: "مدرسة"
+- id: "con-semiosphere-lotman", title: "الغلافُ السيميائي (Semiosphere)", type: "مفهوم"
+- id: "con-zoosemiotics-sebeok", title: "السيمياءُ الحيوانية (Zoosemiotics)", type: "مفهوم"
 gaps: []
 ---
 
