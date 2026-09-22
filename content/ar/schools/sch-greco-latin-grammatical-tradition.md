@@ -21,6 +21,7 @@ related:
 - id: "thk-dionysius-thrax", title: "ديونيسيوس الترقي", type: "مفكر"
 - id: "con-modistae-speculative-grammar", title: "نحاةُ الأنماط والنحوُ التأمّلي (Modistae & Speculative Grammar)", type: "مفهوم"
 - id: "thk-thomas-of-erfurt", title: "توما الإربفوردي", type: "مفكر"
+- id: "thk-priscian", title: "پرِشيان", type: "مفكر"
 gaps:
   - "لا `belongs_to`: تقليدٌ مستقلٌّ نشأ بمعزلٍ عن التقليدين العربي والهندي، وإن تلاقت جميعُها لاحقاً في التأريخ المقارن للسانيات."
 ---
