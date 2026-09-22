@@ -21,8 +21,9 @@ related:
 - id: "con-language-bioprogram-hypothesis", title: "فرضيةُ البرنامج اللغوي الحيوي (Language Bioprogram Hypothesis)", type: "مفهوم"
 - id: "con-founder-principle-mufwene", title: "مبدأُ المؤسِّس عند مفوين (The Founder Principle)", type: "مفهوم"
 - id: "con-creole-continuum-decreolization", title: "متصلُ الكريول وإزالةُ الكريولة (Creole Continuum & Decreolization)", type: "مفهوم"
+- id: "thk-michel-degraff", title: "ميشيل دوغراف", type: "مفكر"
 gaps:
-  - "ميشيل دوغراف (Michel DeGraff)، صاحبُ هذا النقد، لا يملك عقدةَ سيرةٍ مستقلّة في الأطلس؛ يُشار إلى إسهامه ضمن هذه العقدة دون تكرار سيرته الكاملة."
+  - "**سُدَّ بالكامل 2026-09-22 (الدفعة 528)**: أُنشئ `thk-michel-degraff`، مُفرِداً سيرة صاحب هذا النقد ونشاطه في التعليم بالكريولية الهايتية."
 ---
 
 # نقدُ الاستثنائية الكريولية عند دوغراف

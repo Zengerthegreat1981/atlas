@@ -31,6 +31,7 @@ related:
 - id: "stu-tok-pisin-creolization", title: "توك پيسِن: دراسةُ حالةٍ كلاسيكية في نشوء الكريول", type: "دراسة"
 - id: "con-founder-principle-mufwene", title: "مبدأُ المؤسِّس عند مفوين (The Founder Principle)", type: "مفهوم"
 - id: "con-creole-exceptionalism-critique-degraff", title: "نقدُ الاستثنائية الكريولية عند دوغراف (Critique of Creole Exceptionalism)", type: "مفهوم"
+- id: "thk-michel-degraff", title: "ميشيل دوغراف", type: "مفكر"
 gaps:
   - "لا `belongs_to`: فرعٌ نشأ من ملاحظاتٍ ميدانيةٍ على لغات الاستعمار والتجارة، لا من انحدارٍ نظريٍّ مباشرٍ من مدرسةٍ لسانيةٍ واحدة."
 ---
