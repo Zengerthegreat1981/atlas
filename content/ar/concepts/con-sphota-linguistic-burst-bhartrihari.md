@@ -16,6 +16,7 @@ related:
 - id: "sch-vedanta", title: "فيدانتا (كمظلة)", type: "مدرسة"
 - id: "thk-shankara", title: "شانكارا (أدفايتا فيدانتا)", type: "مفكر"
 - id: "sch-paninian-sanskrit-grammar", title: "النحوُ الهنديُّ عند بانيني (Pāṇinian Sanskrit Grammar)", type: "مدرسة"
+- id: "wrk-vakyapadiya-bhartrihari", title: "ڤاكياپدييا (كلمةُ الجملة)", type: "أثر"
 gaps:
   - "**سُدَّ جزئياً 2026-09-22 (دفعة جسور، لسانيات 228)**: مدرسةُ النحويين (Vyākaraṇa) موجودةٌ بالفعل تحت قسم اللسانيات باسم `sch-paninian-sanskrit-grammar` (النحوُ الهنديُّ عند بانيني)؛ رُبطت أعلاه بـ`related` بوصفها السياقَ التقليدي الأدقّ لعمل بهارتريهاري النحوي-الفلسفي، مع الإبقاء على `edges.belongs_to` نحو sch-vedanta لأن هذا الملف موسومٌ philosophy أصلاً ولا يصحّ نقلُ انتمائه الأساسي دون قرارٍ تحريري أوسع."
   - "لا يوجد اقتباس مباشر من نص Vākyapadīya مترجماً موثقاً إلى العربية."
