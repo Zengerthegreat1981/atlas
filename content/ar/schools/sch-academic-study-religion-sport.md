@@ -23,8 +23,12 @@ related:
 - id: "con-muscular-christianity", title: "المسيحيةُ العضلية (Muscular Christianity)", type: "مفهوم"
 - id: "thk-joseph-l-price", title: "چوزيف ل. پرايس (Joseph L. Price)", type: "مفكر"
 - id: "wrk-from-season-to-season-price", title: "من موسمٍ إلى موسم: الرياضةُ بوصفها ديناً أمريكياً (From Season to Season: Sports as American Religion)", type: "عمل / كتاب"
+- id: "thk-lee-a-thompson", title: "لي أ. طومسون (Lee A. Thompson)", type: "مفكر"
+- id: "wrk-invention-yokozuna-thompson", title: "اختراعُ لقب اليوكوزونا ونظام البطولة (The Invention of the Yokozuna and the Championship System)", type: "عمل / كتاب"
+- id: "con-dohyo-sacred-space-sumo", title: "الدوهيو فضاءً مقدَّساً: طقوسُ الشنتو في السومو", type: "مفهوم"
 gaps:
-  - "سُدَّت جزئياً (2026-09-22، دفعةٌ لاحقة): أُضيف چوزيف ل. پرايس (Joseph L. Price) ومجموعتُه التحريرية *From Season to Season: Sports as American Religion* (2001، `thk-joseph-l-price`، `wrk-from-season-to-season-price`) بوصفه امتداداً تحليلياً يفكِّك 'الرياضةَ' إلى رياضاتٍ منفصلةٍ كلُّ واحدةٍ ببنيتها الرمزية الخاصة. لا تزال الدراساتُ المقارِنة خارج السياق الأمريكي-المسيحي (الرياضةُ في اليابان الشنتوية، السومو تحديداً؛ أو العلاقة بين الرياضة والهندوسية في الهند) فجوةً صريحةً لدفعةٍ لاحقة."
+  - "سُدَّت جزئياً (2026-09-22، دفعةٌ لاحقة): أُضيف چوزيف ل. پرايس (Joseph L. Price) ومجموعتُه التحريرية *From Season to Season: Sports as American Religion* (2001، `thk-joseph-l-price`، `wrk-from-season-to-season-price`) بوصفه امتداداً تحليلياً يفكِّك 'الرياضةَ' إلى رياضاتٍ منفصلةٍ كلُّ واحدةٍ ببنيتها الرمزية الخاصة."
+  - "سُدَّت جزئياً (2026-09-22، دفعةٌ لاحقة): فُتح الفرعُ الياباني الشنتويُّ عبر لي أ. طومسون (`thk-lee-a-thompson`) وفصله المرجعيّ عن اختراع رتبة اليوكوزونا (`wrk-invention-yokozuna-thompson`، 1998) ومفهوم الدوهيو فضاءً مقدَّساً (`con-dohyo-sacred-space-sumo`). لا يزال الفرعُ الهنديّ (الرياضةُ والهندوسية) فجوةً صريحةً لدفعةٍ لاحقة."
   - "التمييزُ المنهجيّ بين 'الرياضة كدينٍ مدنيٍّ وظيفي' (بمعنى دوركايمي مجازي) و'الرياضة كموقعٍ لممارسةٍ دينيةٍ تقليدية فعلية' (كصلاة الرياضيين المسيحيين الإنجيليين) لم يُفصَّل هنا بقدر ما يستحقّه؛ أُشير إليه إجمالاً فقط."
 ---
 
@@ -40,7 +44,12 @@ gaps:
 
 يجمع الحقلُ بين التأريخ الاجتماعيّ التقليديّ (تتبُّع المؤسّسات والشخصيات والوثائق) ومقارباتٍ سوسيولوجيةٍ وظيفية أقرب إلى دوركايم (`thk-durkheim`) في قراءة الرياضة الجماهيرية بوصفها موقعاً لتوليد تضامنٍ رمزيٍّ جمعيّ شبيهٍ بالطقس الدينيّ، دون الخلط بين هذا التشبيه التحليليّ والادّعاء بأن الرياضة "دينٌ" بالمعنى اللاهوتيّ الحَرفي — وهو تمييزٌ يشدّد عليه بيكر صراحةً في مقدّمة كتابه.
 
+## الامتدادُ خارج السياق الأمريكي: السومو والشنتو
+
+على النقيض من هيمنة السياق الأمريكي-المسيحي على تأسيس هذا الحقل، فتح عالمُ الاجتماع **لي أ. طومسون** (`thk-lee-a-thompson`)، أستاذُ كلية علوم الرياضة بجامعة واسيدا اليابانية، فرعاً موازياً يدرس السومو الاحترافيّ في علاقته الحيّة بطقوس الشنتو — لا بوصفها استعارةً وظيفية كما في الحالة الأمريكية، بل ممارسةً طقسيةً فعلية مستمرّة (انظر `con-dohyo-sacred-space-sumo`). وفي فصله المرجعيّ عن اختراع رتبة اليوكوزونا (`wrk-invention-yokozuna-thompson`، 1998)، يُبيِّن طومسون أنّ الإطارَ المؤسّسيَّ المحيط بهذه الطقوس (الرتب، نظامُ البطولة، شكلُ السقف فوق الحلبة) حديثُ الصياغة نسبياً من مطلع القرن العشرين، لا امتداداً منقطعاً من العصور القديمة — وهو تمييزٌ يوازي، منهجياً، تمييزَ بيكر بين التشابه الوظيفي والادّعاء اللاهوتيّ الحَرفيّ.
+
 ## المصادر
 
 - Baker, William J. (2007). *Playing with God: Religion and Modern Sport*. Harvard University Press.
 - Higgs, Robert J. (1995). *God in the Stadium: Sports and Religion in America*. University Press of Kentucky.
+- Thompson, Lee A. (1998). "The Invention of the Yokozuna and the Championship System, Or, Futahaguro's Revenge." In Stephen Vlastos (ed.), *Mirror of Modernity: Invented Traditions of Modern Japan*. University of California Press.
