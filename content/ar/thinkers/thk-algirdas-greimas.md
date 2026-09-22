@@ -26,6 +26,7 @@ related:
 - id: "con-isotopy-greimas", title: "التماثلُ الدلاليُّ (الإيزوتوپيا) عند غريماس (Isotopy)", type: "مفهوم"
 - id: "con-modal-semiotics-greimas", title: "السيمياءُ الموجِّهية عند غريماس: الإرادةُ والقدرةُ والمعرفةُ والوجوب", type: "مفهوم"
 - id: "thk-jacques-fontanille", title: "جاك فونتانيّ", type: "مفكر"
+- id: "wrk-semantique-structurale-greimas", title: "الدلالةُ البنيوية (Sémantique Structurale)", type: "أثر"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لأعمال غريماس الأصلية ضمن مصادر الأطلس؛ الاعتماد على النصوص الفرنسية والإنجليزية."
 ---
