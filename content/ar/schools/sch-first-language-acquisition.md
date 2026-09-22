@@ -30,6 +30,7 @@ related:
 - id: "sch-usage-based-grammar", title: "النحوُ الناشئُ عن الاستعمال (Usage-Based Grammar)", type: "مدرسة"
 - id: "con-babbling-phonological-development", title: "المناغاةُ والنموُّ الصوتي عند الرضيع (Babbling & Phonological Development)", type: "مفهوم"
 - id: "stu-genie-wild-child-critical-period-case", title: "حالةُ جيني: الحرمانُ اللغوي الشديد واختبارُ الفترة الحرجة", type: "دراسة"
+- id: "thk-eve-clark", title: "إيڤ ڤ. كلارك", type: "مفكر"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`) — فرعٌ نمائيٌّ تطبيقيٌّ يتقاطع مع التوليدية والوظيفية معاً دون الانتماء الحصري لإحداهما."
   - "**سُدَّ 2026-09-21 (الدفعة 43)**: رُبط `thk-steven-pinker` (psychology) دون تكرار سيرته؛ وأُنشئت `con-stages-of-language-acquisition` و`thk-roger-brown` لسدّ فجوة مراحل الاكتساب التفصيلية."
