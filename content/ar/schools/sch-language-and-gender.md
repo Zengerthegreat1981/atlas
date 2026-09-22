@@ -20,6 +20,8 @@ related:
 - id: "thk-deborah-tannen", title: "ديبورا تانن", type: "مفكر"
 - id: "thk-robin-lakoff", title: "روبن لايكوف", type: "مفكر"
 - id: "thk-penelope-eckert", title: "بينيلوپي إكرت", type: "مفكر"
+- id: "con-communities-of-practice-sociolinguistics", title: "جماعاتُ الممارسة في اللسانيات الاجتماعية (Communities of Practice)", type: "مفهوم"
+- id: "wrk-language-womans-place-lakoff", title: "Language and Woman's Place", type: "أثر"
 gaps: []
 ---
 
