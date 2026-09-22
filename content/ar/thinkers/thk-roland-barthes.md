@@ -25,6 +25,7 @@ related:
 - id: "con-rhetoric-of-the-image-barthes", title: "بلاغةُ الصورة عند بارت: الرسائلُ الثلاث (Rhetoric of the Image)", type: "مفهوم"
 - id: "con-fashion-system-barthes", title: "نظامُ الموضة عند بارت (Système de la Mode)", type: "مفهوم"
 - id: "wrk-elements-de-semiologie-barthes", title: "عناصرُ السيميولوجيا (Éléments de Sémiologie) لبارت", type: "عمل"
+- id: "wrk-writing-degree-zero-barthes", title: "الكتابةُ في درجة الصفر (Le Degré Zéro de l'Écriture)", type: "أثر"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
 ---

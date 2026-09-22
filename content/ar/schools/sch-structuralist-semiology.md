@@ -28,6 +28,7 @@ related:
 - id: "con-fashion-system-barthes", title: "نظامُ الموضة عند بارت (Système de la Mode)", type: "مفهوم"
 - id: "wrk-elements-de-semiologie-barthes", title: "عناصرُ السيميولوجيا (Éléments de Sémiologie) لبارت", type: "عمل"
 - id: "con-intertextuality-kristeva", title: "التناصُّ عند كريستيڤا (Intertextuality)", type: "مفهوم"
+- id: "wrk-writing-degree-zero-barthes", title: "الكتابةُ في درجة الصفر (Le Degré Zéro de l'Écriture)", type: "أثر"
 gaps:
   - "`thk-roland-barthes` موسومٌ `bridge` وموجودٌ بالفعل في الأطلس بسيرته الفكرية الكاملة؛ رُبط إليه بـ`related` دون تكرار. هذه العقدةُ تفرد الإطارَ السيميولوجيَّ الذي ورثه عن سوسور وطوّره تحليلياً."
 ---
