@@ -18,7 +18,9 @@ related:
 - id: "sch-religion-film-studies", title: "دراسةُ الدين والسينما أكاديمياً (Religion and Film Studies)", type: "مدرسة"
 - id: "wrk-film-as-religion-lyden", title: "الفيلمُ بوصفه ديناً: الأساطيرُ والأخلاقُ والطقوس", type: "عمل / كتاب"
 - id: "thk-s-brent-plate", title: "س. برنت بليت (S. Brent Plate)", type: "مفكر"
+- id: "dbt-plate-vs-lyden-cinema-religious-function", title: "بليت أم ليدن: هل السينما «تُعيد خلق العالم» أم أن مشاهدتها فعلٌ دينيّ وظيفياً؟", type: "جدل"
 gaps:
+  - "سُدَّت 2026-09-22 (دفعةٌ لاحقة): موقعُ ليدن مقارنةً ببليت — ادّعاءٌ وظيفيّ أقوى بأن مشاهدة الفيلم فعلٌ دينيٌّ فعلياً — فُصِّل بملفّ جدلٍ مستقل (`dbt-plate-vs-lyden-cinema-religious-function`)."
   - "تفاصيلُ سيرته الأكاديمية الكاملة (مناصبه الجامعية المتعاقبة) لم تُتحقَّق من مصدرٍ رسميٍّ واحدٍ شامل في هذه الجلسة؛ الاكتفاءُ بما تؤكّده بيانات نشر كتابه الأساسيّ (New York University Press، 2003)؛ فجوةٌ صادقة."
   - "تعريفُه الوظيفيّ للدين (Functionalist Definition) لم يُفرد بملفّ `con-` مستقل بعد؛ يتقاطع موضوعياً مع جدل `dbt-defining-religion-as-analytic-category` وسوسيولوجيا دوركهايم الوظيفية (`sch-durkheimian-sociology-of-religion`) الموجودين مسبقاً، وتُرك هذا الربطُ فجوةً موصوفةً في متن ملفّه لا عقدةً منفصلة تفادياً لتكرارٍ مفاهيميّ لم يُحسم بعد."
 ---
