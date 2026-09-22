@@ -28,6 +28,7 @@ related:
 - id: "thk-don-kulick", title: "دون كوليك", type: "مفكر"
 - id: "con-language-desire-sexuality-kulick", title: "اللغةُ والرغبةُ الجنسانية عند كوليك (Language & Desire)", type: "مفهوم"
 - id: "con-generic-masculine-gender-neutral-reform", title: "المذكَّرُ التعميمي وإصلاحُ اللغة المحايدة جندرياً (Generic Masculine & Gender-Neutral Reform)", type: "مفهوم"
+- id: "thk-mary-bucholtz", title: "ماري بوخولتس", type: "مفكر"
 gaps: []
 ---
 

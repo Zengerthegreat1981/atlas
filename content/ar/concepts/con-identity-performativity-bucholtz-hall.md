@@ -16,6 +16,7 @@ related:
 - id: "thk-penelope-eckert", title: "بينيلوپي إكرت", type: "مفكر"
 - id: "con-communities-of-practice-sociolinguistics", title: "جماعاتُ الممارسة في اللسانيات الاجتماعية (Communities of Practice)", type: "مفهوم"
 - id: "con-indexical-order-silverstein", title: "الرتبةُ الإشارية عند سيلفرستاين (Indexical Order)", type: "مفهوم"
+- id: "thk-mary-bucholtz", title: "ماري بوخولتس", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بهذا الإطار ضمن مصادر الأطلس؛ الاعتمادُ على المصدر الإنجليزي الأساسي (Bucholtz & Hall 2005)."
 ---
