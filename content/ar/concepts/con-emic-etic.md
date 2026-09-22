@@ -21,6 +21,7 @@ related:
 - id: "thk-ukim", title: "ويتشول كيم", type: "مفكر"
 - id: "con-two-eyed-seeing", title: "الرؤية بعينين (Etuaptmumk / Two-Eyed Seeing)", type: "مفهوم"
 - id: "sch-positive-psychology", title: "علم النفس الإيجابي (Positive Psychology)", type: "مدرسة"
+- id: "thk-kenneth-pike", title: "كينيث پايك", type: "مفكر"
 gaps:
   - "**صُحِّح الانتماء 2026-09-08:** كان `belongs_to` اسماً نصّياً «علم النفس عبر الثقافي» لا يُحلّ إلى ملفّ، وقد أُنشئت المدرسةُ `sch-cross-cultural-psychology` فأُسند الانتماءُ إليها."
   - "رابط مقترح لم يتحقق بعد في الأطلس: علم النفس العابر-الثقافي (sch-cross-cultural-psychology)، رغم ذكره صراحةً كمدرسة انتماء في المتن."
