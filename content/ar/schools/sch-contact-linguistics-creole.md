@@ -26,6 +26,7 @@ related:
 - id: "con-relexification-hypothesis", title: "فرضيةُ إعادة التمعجُم (Relexification Hypothesis)", type: "مفهوم"
 - id: "con-feature-pool-ecology-mufwene", title: "مجمعُ السمات والمقاربةُ البيئية-التطوّرية عند مفوين (Feature Pool & Language Ecology)", type: "مفهوم"
 - id: "con-creole-continuum-decreolization", title: "متصلُ الكريول وإزالةُ الكريولة (Creole Continuum & Decreolization)", type: "مفهوم"
+- id: "con-mixed-languages-bilingual-genesis", title: "اللغاتُ المختلطةُ ونشوؤها الثنائي (Mixed Languages & Bilingual Genesis)", type: "مفهوم"
 gaps:
   - "لا `belongs_to`: فرعٌ نشأ من ملاحظاتٍ ميدانيةٍ على لغات الاستعمار والتجارة، لا من انحدارٍ نظريٍّ مباشرٍ من مدرسةٍ لسانيةٍ واحدة."
 ---

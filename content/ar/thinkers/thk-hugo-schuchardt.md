@@ -20,6 +20,7 @@ related:
 - id: "sch-contact-linguistics-creole", title: "التماسُّ اللغويُّ والكريول والبِجن (Contact Linguistics)", type: "مدرسة"
 - id: "thk-derek-bickerton", title: "ديريك بيكرتون", type: "مفكر"
 - id: "con-relexification-hypothesis", title: "فرضيةُ إعادة التمعجُم (Relexification Hypothesis)", type: "مفهوم"
+- id: "con-mixed-languages-bilingual-genesis", title: "اللغاتُ المختلطةُ ونشوؤها الثنائي (Mixed Languages & Bilingual Genesis)", type: "مفهوم"
 gaps:
   - "لم يُعثر على ترجمةٍ إنجليزيةٍ كاملة موثَّقة لمعظم أعماله الألمانية الأصلية ضمن مصادر الأطلس؛ الاعتمادُ على الدراسات الثانوية المتخصّصة."
 ---
