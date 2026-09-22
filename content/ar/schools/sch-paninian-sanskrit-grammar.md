@@ -29,6 +29,7 @@ related:
 - id: "wrk-vakyapadiya-bhartrihari", title: "ڤاكياپدييا (كلمةُ الجملة)", type: "أثر"
 - id: "con-anubandha-it-markers-panini", title: "الأنوباندا والعلاماتُ الاصطلاحية الصامتة عند بانيني (Anubandha / It-Markers)", type: "مفهوم"
 - id: "wrk-mahabhashya-patanjali", title: "الشرحُ الكبير (Mahābhāṣya)", type: "أثر"
+- id: "thk-bhartrhari", title: "بهارتريهاري (فيلسوف اللغة السنسكريتية)", type: "مفكر"
 gaps:
   - "لا `belongs_to`: تقليدٌ نحويٌّ مستقلٌّ نشأ في الهند القديمة بمعزلٍ تامٍّ عن التقاليد اليونانية والعربية، دون رابطٍ تاريخيٍّ مباشرٍ يصحّ عقدُ علاقة انتماء منه أو إليه."
 ---

@@ -15,6 +15,7 @@ related:
 - id: "sch-paninian-sanskrit-grammar", title: "النحوُ الهنديُّ عند بانيني (Pāṇinian Sanskrit Grammar)", type: "مدرسة"
 - id: "con-sphota-linguistic-burst-bhartrihari", title: "السفوتا والانفجار الدلالي للمعنى (Sphota)", type: "مفهوم"
 - id: "thk-patanjali-grammarian", title: "پاتنجلي النحويّ", type: "مفكر"
+- id: "thk-bhartrhari", title: "بهارتريهاري (فيلسوف اللغة السنسكريتية)", type: "مفكر"
 gaps:
   - "المؤلِّف بهارتريهاري موسومٌ `philosophy` في الأطلس (فيلسوف اللغة)؛ هذه العقدةُ تفرد عملَه النحوي-الدلالي المحدَّد ضمن التقليد البانيني اللساني دون تكرار سيرته الفلسفية الكاملة."
 ---
