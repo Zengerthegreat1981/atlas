@@ -23,6 +23,8 @@ related:
 - id: "con-descriptivism-vs-prescriptivism", title: "الوصفيةُ مقابل المعيارية في علم اللغة (Descriptivism vs. Prescriptivism)", type: "مفهوم"
 - id: "thk-zellig-harris", title: "زيليغ هاريس", type: "مفكر"
 - id: "con-discovery-procedures-harris", title: "إجراءاتُ الاكتشاف والتحويلُ النحويّ عند هاريس (Discovery Procedures & Transformation)", type: "مفهوم"
+- id: "thk-charles-hockett", title: "تشارلز هوكِت", type: "مفكر"
+- id: "con-design-features-language-hockett", title: "السماتُ التصميميةُ للغة عند هوكِت (Design Features of Language)", type: "مفهوم"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`)؛ نشأت مستقلةً عن البنيوية السوسيرية الأوروبية إلى حدٍّ كبير — أثرُ سوسور عليها غيرُ موثَّقٍ بقوةٍ كافية لعقد `evolved_from`، فتُركت العلاقةُ بلا ربط تجنُّباً للجزم."
   - "**سُدَّ 2026-09-22 (الدفعة 170)**: `thk-edward-sapir` موجودٌ بالفعل في الأطلس تحت `part: anthropology` (أقربُ إلى النسبية اللغوية سابير-وورف)؛ رُبط أعلاه بـ`related` دون تكرار سيرته أو نقل وسمه."

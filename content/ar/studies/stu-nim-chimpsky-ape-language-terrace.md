@@ -19,6 +19,7 @@ edges:
 related:
 - id: "sch-language-evolution", title: "أصلُ اللغة وتطوّرها (Language Evolution)", type: "مدرسة"
 - id: "sch-sign-language-linguistics", title: "لسانياتُ لغة الإشارة (Sign Language Linguistics)", type: "مدرسة"
+- id: "con-design-features-language-hockett", title: "السماتُ التصميميةُ للغة عند هوكِت (Design Features of Language)", type: "مفهوم"
 gaps:
   - "حيادٌ صريحٌ محفوظ إزاء نتائج مشاريعَ أخرى مشابهة (كمشروع كانزي عند سو سافدج-رمبو، أو واشو عند غاردنر) التي قدّمت نتائجَ أكثرَ إيجابيةً نسبياً؛ لا يُعمَّم استنتاجُ تراس على كلّ أبحاث لغة القردة بالضرورة."
 ---
