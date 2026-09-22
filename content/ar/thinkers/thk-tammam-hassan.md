@@ -21,6 +21,7 @@ related:
 - id: "sch-arabic-grammatical-tradition", title: "التقليد النحوي واللغوي العربي الكلاسيكي", type: "مدرسة"
 - id: "sch-modern-arabic-linguistics", title: "اللغوياتُ العربيةُ الحديثة (Modern Arabic Linguistics)", type: "مدرسة"
 - id: "wrk-al-lugha-al-arabiya-manaha-wa-mabnaha-hassan", title: "اللغةُ العربية معناها ومبناها", type: "أثر"
+- id: "con-qarain-theory-tammam-hassan", title: "نظريةُ القرائن عند تمّام حسّان", type: "مفهوم"
 gaps:
   - "لم يُعثر على ترجمةٍ إنجليزيةٍ أكاديميةٍ متخصّصةٍ بنظرية حسّان اللغوية ضمن مصادر الأطلس؛ الاعتمادُ الرئيسي على مصادره العربية الأصلية."
 ---
