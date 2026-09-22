@@ -20,6 +20,7 @@ related:
 - id: "sch-politeness-theory", title: "نظريةُ التأدّب ووجهُ المتكلّم (Politeness Theory)", type: "مدرسة"
 - id: "thk-penelope-brown", title: "پنلوپي براون", type: "مفكر"
 - id: "con-honorifics-tv-distinction", title: "صيغُ التبجيل والتمييزُ التائي-الڤائي (Honorifics & the T-V Distinction)", type: "مفهوم"
+- id: "thk-gu-yueguo", title: "غو يويگو", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرتها؛ الاعتمادُ على مصادرها الإنجليزية الأساسية."
 ---
