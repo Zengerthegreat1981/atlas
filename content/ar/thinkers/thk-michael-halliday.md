@@ -21,6 +21,7 @@ related:
 - id: "wrk-introduction-functional-grammar-halliday", title: "مدخلٌ إلى النحو الوظيفي (An Introduction to Functional Grammar)", type: "عمل / كتاب"
 - id: "con-register-style-shifting", title: "السِّجلُّ اللغويُّ وتبدّلُ الأسلوب (Register & Style-Shifting)", type: "مفهوم"
 - id: "con-genre-theory-sfl", title: "نظريةُ النوع النصّي في اللسانيات الوظيفية المنهجية (Genre Theory)", type: "مفهوم"
+- id: "con-transitivity-system-halliday", title: "نظامُ التعدّي وأنماطُ العمليات عند هاليداي (Transitivity System & Process Types)", type: "مفهوم"
 gaps:
   - "**سُدَّ بالكامل 2026-09-22 (الدفعة 174)**: أُضيف قسمٌ عن بداياته في اللسانيات الصينية مع وانغ لي؛ مفهومُ السجل موثَّقٌ في `con-register-style-shifting`، ونظريةُ النوع النصّي (طوّرها تلميذُه ج. ر. مارتن) في `con-genre-theory-sfl`؛ رُبطا أعلاه."
 ---
