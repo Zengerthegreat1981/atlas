@@ -21,6 +21,7 @@ related:
 - id: "con-compression-vital-relations-blending", title: "الضغطُ والعلاقاتُ الحيوية في المزج المفهومي (Compression & Vital Relations)", type: "مفهوم"
 - id: "sch-conceptual-blending-theory", title: "فضاءاتُ الذهن والمزجُ المفهوميّ (Mental Spaces & Conceptual Blending)", type: "مدرسة"
 - id: "con-optimality-principles-blending", title: "مبادئُ الأمثلية الحاكمة للمزج المفهومي", type: "مفهوم"
+- id: "wrk-the-way-we-think-fauconnier-turner", title: "الطريقةُ التي نفكِّر بها (The Way We Think)", type: "أثر"
 gaps: []
 ---
 
