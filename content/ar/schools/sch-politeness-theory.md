@@ -31,6 +31,7 @@ related:
 - id: "thk-sara-mills", title: "سارة ميلز", type: "مفكر"
 - id: "con-feminist-critique-politeness-mills", title: "النقدُ النسويُّ لنظرية التأدّب عند ميلز (Feminist Critique of Politeness)", type: "مفهوم"
 - id: "con-positive-negative-face-brown-levinson", title: "الوجهُ الإيجابيُّ والوجهُ السلبيُّ عند براون وليفنسون (Positive & Negative Face)", type: "مفهوم"
+- id: "con-face-work-goffman", title: "العمل على الوجه عند غوفمان", type: "مفهوم"
 gaps:
   - "`con-speech-acts-performatives` موسومٌ ضمن نطاق فلسفة اللغة أساساً؛ رُبط إليه بـ`related` بوصف نظرية التأدّب تستعمل مفهوم فعل الكلام أداةً تحليلية دون تكرار شرحه الفلسفي الكامل."
 ---

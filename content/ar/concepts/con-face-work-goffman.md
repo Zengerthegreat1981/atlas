@@ -15,6 +15,8 @@ edges:
 - rel: "belongs_to", target: "sch-goffmanian-interaction-rituals", target_type: "مدرسة"
 related:
 - id: "con-emotional-labor-hochschild", title: "العمل العاطفي والتمثيل السطحي والعميق عند هوكشيلد", type: "مفهوم"
+- id: "sch-politeness-theory", title: "نظريةُ التأدّب ووجهُ المتكلّم (Politeness Theory)", type: "مدرسة"
+- id: "con-positive-negative-face-brown-levinson", title: "الوجهُ الإيجابيُّ والوجهُ السلبيُّ عند براون وليفنسون (Positive & Negative Face)", type: "مفهوم"
 gaps:
   - "هذا الملف أُنشئ في الدفعة 29 (مرحلة الحزم). ملف `thk-goffman` القائم موسومٌ `part: \"psychology\"`؛ لم يُضف رابط مباشر إليه من هذا الملف تفادياً للازدواج مع رابط المدرسة الأم إليه سلفاً."
 ---

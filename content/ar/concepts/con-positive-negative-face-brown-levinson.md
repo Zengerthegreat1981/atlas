@@ -15,6 +15,7 @@ related:
 - id: "sch-politeness-theory", title: "نظريةُ التأدّب ووجهُ المتكلّم (Politeness Theory)", type: "مدرسة"
 - id: "con-face-threatening-acts-strategies", title: "الأفعالُ المهدِّدة للوجه واستراتيجياتُ التخفيف المتدرِّجة", type: "مفهوم"
 - id: "thk-penelope-brown", title: "پنلوپي براون", type: "مفكر"
+- id: "con-face-work-goffman", title: "العمل على الوجه عند غوفمان", type: "مفهوم"
 gaps: []
 ---
 
