@@ -17,6 +17,8 @@ edges:
 related:
 - id: "sch-structuralism", title: "البنيوية (Structuralisme)", type: "مدرسة"
 - id: "sch-post-structuralism", title: "ما بعد البنيوية (Post-structuralisme)", type: "مدرسة"
+- id: "sch-structuralist-semiology", title: "السيميولوجيا السوسيرية وامتدادُها (Structuralist Semiology)", type: "مدرسة"
+- id: "con-myth-second-order-signification-barthes", title: "الأسطورةُ والدلالةُ من الدرجة الثانية عند بارت (Myth & Second-Order Signification)", type: "مفهوم"
 gaps:
   - "الترجمة النقدية المعاصرة للمؤلفات والتحليل الفلسفي لأثر المفكر."
 ---
