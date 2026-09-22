@@ -20,6 +20,7 @@ edges:
 related:
 - id: "thk-roman-jakobson", title: "رومان ياكوبسون", type: "مفكر"
 - id: "thk-judith-irvine", title: "جوديث إرڤين", type: "مفكر"
+- id: "con-indexical-order-silverstein", title: "الرتبةُ الإشارية عند سيلفرستاين (Indexical Order)", type: "مفهوم"
 gaps:
   - "**سُدَّ سابقاً**: `thk-judith-irvine` موجودةٌ بالفعل في الأطلس؛ رُبطت أعلاه دون تكرار."
 ---
