@@ -20,8 +20,9 @@ related:
 - id: "sch-religion-law-studies-sullivan", title: "الدراسةُ الأكاديميةُ للدين والقانون (Religion and Law Studies): ونفرد فالرز سوليفان", type: "مدرسة"
 - id: "wrk-impossibility-of-religious-freedom-sullivan", title: "استحالةُ الحرية الدينية (The Impossibility of Religious Freedom)", type: "عمل / كتاب"
 - id: "sch-religion-in-prisons-studies", title: "الدراسةُ الأكاديميةُ للدين في السجون (Religion in Prisons Studies): بكفورد وچيليات-راي", type: "مدرسة"
+- id: "wrk-prison-religion-sullivan", title: "دينُ السجن: الإصلاحُ المستندُ إلى الإيمان والدستور (Prison Religion: Faith-Based Reform and the Constitution)", type: "عمل / كتاب"
 gaps:
-  - "لم يُوثَّق هنا بتفصيلٍ إسهامُ سوليفان اللاحق في دراسات دين السجون الأمريكية (*Prison Religion: Faith-Based Reform and the Constitution*، 2009) رغم تقاطعه المباشر مع `sch-religion-in-prisons-studies` البريطانية المصدر (بكفورد وچيليات-راي) — الفارقُ السياقيُّ (أمريكا مقابل بريطانيا) وسببُ عدم دمج الحقلين في مدرسةٍ واحدة موثَّقٌ في `gaps` ملفّ المدرسة الأمّ، وسيرتُها هنا تبقى مركَّزةً على كتاب 2005 حصراً بانتظار دفعةٍ تغطّي عملها الثاني بمصدرٍ مستقل."
+  - "أُضيف الآن (دفعةٌ لاحقة) عملُها الثاني *Prison Religion: Faith-Based Reform and the Constitution* (2009، `wrk-prison-religion-sullivan`)، الذي يربط مباشرةً بحقل دين السجون البريطانيّ `sch-religion-in-prisons-studies`؛ الفارقُ السياقيُّ بين النموذجين (أمريكا مقابل بريطانيا) يبقى موثَّقاً في `gaps` ملفّ المدرسة الأمّ ولم يُدمج الحقلان في مدرسةٍ واحدة."
   - "هذه سيرةٌ أوّليةٌ مقتضبة اعتماداً على مصدرٍ ببليوغرافيٍّ واحدٍ موثَّق (بيانات Open Library وCrossRef لكتابها 2005)؛ لم تُراجَع سيرتُها الأكاديميةُ الكاملة (تعليمها بجامعة شيكاغو، مناصبُها بجامعتَي بفلو وإنديانا) من مصدرٍ ثانٍ مستقل بعد."
 ---
 
@@ -31,7 +32,7 @@ gaps:
 
 ## المسار: من القانون إلى الأنثروبولوجيا القانونية
 
-مارست سوليفان المحاماةَ قبل أن تتحوّل أكاديمياً إلى دراسة العلاقة بين الدين والدولة العلمانية، متأثرةً بتقاليد التحليل النقديّ للعلمانية والحداثة الدينية في الدراسات الدينية الأمريكية. عملها المرجعيّ *استحالةُ الحرية الدينية* (2005، `wrk-impossibility-of-religious-freedom-sullivan`) استند إلى شهادتها الخبيرة في قضيةٍ قضائيةٍ فعلية، وأسَّس اتجاهاً بحثياً كاملاً يفحص كيف تُنتِج المحاكمُ العلمانيةُ تعريفاتٍ ضمنيةً لـ"الدين الصحيح" حين تُضطرّ للفصل في نزاعاتٍ دينية.
+مارست سوليفان المحاماةَ قبل أن تتحوّل أكاديمياً إلى دراسة العلاقة بين الدين والدولة العلمانية، متأثرةً بتقاليد التحليل النقديّ للعلمانية والحداثة الدينية في الدراسات الدينية الأمريكية. عملها المرجعيّ *استحالةُ الحرية الدينية* (2005، `wrk-impossibility-of-religious-freedom-sullivan`) استند إلى شهادتها الخبيرة في قضيةٍ قضائيةٍ فعلية، وأسَّس اتجاهاً بحثياً كاملاً يفحص كيف تُنتِج المحاكمُ العلمانيةُ تعريفاتٍ ضمنيةً لـ"الدين الصحيح" حين تُضطرّ للفصل في نزاعاتٍ دينية. ووسَّعت هذا النقدَ عام 2009 في *دينُ السجن* (`wrk-prison-religion-sullivan`) بتطبيقه على برامج الإصلاح السجنيّ المستندة إلى الإيمان.
 
 ## الإسهام المنهجي
 
@@ -40,4 +41,5 @@ gaps:
 ## المصادر
 
 - Sullivan, W. F. (2005). *The Impossibility of Religious Freedom*. Princeton University Press.
+- Sullivan, W. F. (2009). *Prison Religion: Faith-Based Reform and the Constitution*. Princeton University Press.
 - "The Impossibility of Religious Freedom" (2006). *Journal of Church and State* / Wiley review essay, October 2006.
