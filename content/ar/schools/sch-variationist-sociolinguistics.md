@@ -24,9 +24,11 @@ related:
 - id: "ins-matched-guise-technique", title: "تقنيةُ الهيئة المتطابقة (Matched-Guise Technique)", type: "منهج/أداة بحث"
 - id: "wrk-sociolinguistic-patterns-labov", title: "أنماطٌ اجتماعيةٌ لغوية (Sociolinguistic Patterns)", type: "عمل / كتاب"
 - id: "ins-dialect-atlas-geolinguistics", title: "الأطلسُ اللغويُّ والجغرافيا اللهجية (Dialect Atlas & Geolinguistics)", type: "منهج/أداة بحث"
+- id: "thk-peter-trudgill", title: "پيتر ترودجيل", type: "مفكر"
+- id: "con-covert-prestige-linguistics", title: "المكانةُ الخفية في اللسانيات الاجتماعية (Covert Prestige)", type: "مفهوم"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`) — فرعٌ اجتماعيٌّ كمّيٌّ مستقلٌّ عن التوليدية والبنيوية، نشأ من منهجيةٍ ميدانيةٍ إحصائية لا من نظريةٍ صورية."
-  - "الازدواجيةُ اللغوية (Diglossia — Ferguson) والحالةُ العربية موضوعٌ متصلٌ لم يُغطَّ بعد في هذه الدفعة؛ سيُفرَد بملفٍّ مستقل مع حيادٍ صريح إزاء مسألة الفصحى والعامّية السياسية بحسب توجيهات المهمّة."
+  - "**سُدَّ سابقاً**: الازدواجيةُ اللغوية (`con-diglossia`) مغطّاةٌ بالفعل في قسمٍ منفصل بحيادٍ صريح إزاء مسألة الفصحى والعامّية السياسية؛ رُبطت إليها `related` من ملفَّاتٍ أخرى دون الحاجة لتكرارها هنا."
 ---
 
 # اللسانياتُ الاجتماعيةُ المتغيّرية
