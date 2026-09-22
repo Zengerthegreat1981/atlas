@@ -19,6 +19,7 @@ related:
 - id: "thk-randall-balmer", title: "راندال هـ. بالمر (Randall Herbert Balmer)", type: "مفكر"
 - id: "wrk-francis-schaeffer-shaping-evangelical-america-hankins", title: "فرانسيس شيفر وتشكيلُ أمريكا الإنجيلية (هانكينز)", type: "عمل / كتاب"
 - id: "con-new-evangelicalism", title: "الإنجيليةُ الجديدة (New Evangelicalism)", type: "مفهوم"
+- id: "thk-harold-ockenga", title: "هارولد چ. أوكنجا (Harold John Ockenga)", type: "مفكر"
 gaps:
   - "أُنشئ 2026-09-22 (الدفعة 213) استكمالاً لفجوةٍ موثَّقةٍ صراحةً في `gaps` ملفّ `sch-american-christian-fundamentalism-studies` منذ الدفعة 211 (وأُعيد تأكيدُها في الدفعة 212). تحقَّقتُ عبر `grep -rli \"hankins\" content/ar/` من غياب أيِّ ملفٍّ سابق، فلا تكرار."
   - "اقتُصر هنا على كتابَيه عن شيفر والإنجيلية الجديدة؛ سيرتُه الأخرى عن J. Frank Norris (*God's Rascal*، 2010) وكتابُه التأليفيُّ *American Evangelicals: A Contemporary History* لم يُستوفَيا بملفٍّ مستقل — فجوةٌ لدفعةٍ لاحقة."
