@@ -19,6 +19,7 @@ edges:
 related:
 - id: "sch-text-linguistics", title: "لسانياتُ النصِّ وتماسكُه (Text Linguistics)", type: "مدرسة"
 - id: "thk-ruqaiya-hasan", title: "روقية حسن", type: "مفكر"
+- id: "con-seven-standards-textuality-beaugrande-dressler", title: "المعاييرُ السبعةُ للنصّية عند دو بوغراند ودريسلر", type: "مفهوم"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرته؛ الاعتمادُ على مصادره الإنجليزية الأساسية."
 ---
