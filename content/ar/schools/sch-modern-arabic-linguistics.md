@@ -23,6 +23,7 @@ related:
 - id: "thk-mazen-al-waer", title: "مازن الوعر", type: "مفكر"
 - id: "wrk-al-lugha-al-arabiya-manaha-wa-mabnaha-hassan", title: "اللغةُ العربية معناها ومبناها", type: "أثر"
 - id: "con-qarain-theory-tammam-hassan", title: "نظريةُ القرائن عند تمّام حسّان", type: "مفهوم"
+- id: "wrk-al-aswat-al-lughawiyya-anis", title: "الأصواتُ اللغوية", type: "أثر"
 gaps:
   - "**سُدَّ بالكامل 2026-09-22 (الدفعة 203)**: أُنشئ `thk-abdessalam-el-messaddi` (الدفعة 163) و`thk-mazen-al-waer` (الدفعة 203)."
 ---
