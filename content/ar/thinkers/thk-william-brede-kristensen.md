@@ -20,8 +20,9 @@ related:
 - id: "sch-phenomenology-of-religion-otto-eliade", title: "الظاهراتيةُ الدينية: أوتو وإلياده وأثرُهما", type: "مدرسة"
 - id: "thk-gerardus-van-der-leeuw", title: "غيرارردوس فان دير ليو (Gerardus van der Leeuw)", type: "مفكر"
 - id: "thk-mircea-eliade", title: "ميرتشيا إلياده", type: "مفكر"
+- id: "wrk-meaning-of-religion-kristensen", title: "معنى الدين: محاضرات في الظاهراتية الدينية (The Meaning of Religion)", type: "عمل"
 gaps:
-  - "لا يوجد بعد ملفّ عملٍ مستقل (`wrk-`) لمحاضراته المنشورة بعد وفاته *The Meaning of Religion* (1960)؛ فجوةٌ للدفعة القادمة."
+  - "**سُدَّت 2026-09-22 (الدفعة 113):** أُضيف ملفّ عملٍ مستقل (`wrk-meaning-of-religion-kristensen`) لمحاضراته المنشورة بعد وفاته *The Meaning of Religion* (1960)."
   - "تفاصيلُ سيرته الأكاديمية المبكرة في النرويج (قبل انتقاله إلى جامعة لايدن الهولندية سنة 1901) موثَّقةٌ بإيجاز فقط لندرة المصادر الإنجليزية المتاحة عن هذه المرحلة."
 ---
 
