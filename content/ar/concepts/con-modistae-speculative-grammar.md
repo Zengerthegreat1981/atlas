@@ -15,8 +15,9 @@ related:
 - id: "sch-greco-latin-grammatical-tradition", title: "النحوُ اليونانيُّ واللاتينيُّ الوسيط (Greco-Latin Grammatical Tradition)", type: "مدرسة"
 - id: "thk-dionysius-thrax", title: "ديونيسيوس الترقي", type: "مفكر"
 - id: "con-word-order-universals", title: "كلّياتُ ترتيب الكلمات", type: "مفهوم"
+- id: "thk-thomas-of-erfurt", title: "توما الإربفوردي", type: "مفكر"
 gaps:
-  - "الأسماءُ الفردية لأبرز نحاة الأنماط (كتوما الإربفوردي، Thomas of Erfurt) لم تُفرَد بملفّاتِ مفكرين مستقلّين بعد؛ تسجيلٌ للفجوة."
+  - "**سُدَّ بالكامل 2026-09-22 (الدفعة 201)**: أُنشئ `thk-thomas-of-erfurt`."
 ---
 
 # نحاةُ الأنماط والنحوُ التأمّلي
