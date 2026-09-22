@@ -16,6 +16,7 @@ related:
 - id: "thk-joan-bybee", title: "جوان بايبي", type: "مفكر"
 - id: "con-lexical-priming-hoey", title: "التنشيطُ المعجميّ (Lexical Priming)", type: "مفهوم"
 - id: "con-reducing-conserving-effects-frequency-bybee", title: "الأثرُ الاختزاليُّ والأثرُ المحافظُ للتواتر عند بايبي (Reducing & Conserving Effects of Frequency)", type: "مفهوم"
+- id: "con-type-token-frequency-productivity-bybee", title: "تواتُرُ النمط وتواتُرُ الوحدة وإنتاجيةُ البُنى عند بايبي (Type vs. Token Frequency & Productivity)", type: "مفهوم"
 gaps: []
 ---
 
