@@ -15,8 +15,9 @@ related:
 - id: "sch-relevance-theory", title: "نظريةُ الملاءمة (Relevance Theory)", type: "مدرسة"
 - id: "con-conventional-implicature-grice", title: "الإفهامُ الاصطلاحي عند غرايس (Conventional Implicature)", type: "مفهوم"
 - id: "con-comprehension-procedure-relevance-theory", title: "إجراءُ الفهم في نظرية الملاءمة (Relevance-Theoretic Comprehension Procedure)", type: "مفهوم"
+- id: "thk-diane-blakemore", title: "ديان بليكمور", type: "مفكر"
 gaps:
-  - "لم يُعثر على عقدةٍ مستقلّةٍ لديان بليكمور ضمن الأطلس؛ العقدةُ تُشير إلى عملها مباشرةً."
+  - "**سُدَّ 2026-09-22**: أُنشئ `thk-diane-blakemore` ورُبط أعلاه."
 ---
 
 # المعنى الإجرائيُّ مقابل المفهومي عند بليكمور
