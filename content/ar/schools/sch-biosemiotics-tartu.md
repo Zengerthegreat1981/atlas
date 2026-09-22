@@ -26,6 +26,7 @@ related:
 - id: "con-secondary-modeling-systems-tartu", title: "أنظمةُ النمذجة الأوّلية والثانوية عند مدرسة تارتو-موسكو", type: "مفهوم"
 - id: "thk-jesper-hoffmeyer", title: "يسپر هوفماير", type: "مفكر"
 - id: "con-code-duality-hoffmeyer", title: "ازدواجيةُ الشفرة عند هوفماير (Code Duality)", type: "مفهوم"
+- id: "thk-kalevi-kull", title: "كاليفي كول", type: "مفكر"
 gaps: []
 ---
 
