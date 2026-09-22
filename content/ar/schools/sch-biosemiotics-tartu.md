@@ -24,6 +24,8 @@ related:
 - id: "thk-jakob-von-uexkull", title: "ياكوب فون أوكسكول", type: "مفكر"
 - id: "con-umwelt-uexkull", title: "العالمُ المحيط الخاصّ (Umwelt)", type: "مفهوم"
 - id: "con-secondary-modeling-systems-tartu", title: "أنظمةُ النمذجة الأوّلية والثانوية عند مدرسة تارتو-موسكو", type: "مفهوم"
+- id: "thk-jesper-hoffmeyer", title: "يسپر هوفماير", type: "مفكر"
+- id: "con-code-duality-hoffmeyer", title: "ازدواجيةُ الشفرة عند هوفماير (Code Duality)", type: "مفهوم"
 gaps: []
 ---
 
