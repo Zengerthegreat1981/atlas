@@ -21,8 +21,9 @@ related:
 - id: "thk-bronislaw-malinowski", title: "برونيسلاف مالينوفسكي (Bronisław Malinowski)", type: "مفكر"
 - id: "thk-david-d-hall", title: "دايفد دي. هول (David D. Hall)", type: "مفكر"
 - id: "dbt-colonial-vs-domestic-ethnography-lived-religion", title: "الإثنوغرافيا الاستعماريةُ البعيدة مقابل «الدين المعيش» المحلّيّ: جدلُ الجيل الإثنوغرافيّ في دراسة الدين", type: "جدل"
+- id: "wrk-madonna-of-115th-street-orsi", title: "مادونا الشارع 115 (The Madonna of 115th Street)", type: "عمل"
 gaps:
-  - "لا يوجد بعد ملفّ عملٍ مستقل (`wrk-`) لكتابه المؤسِّس *The Madonna of 115th Street* (1985) الذي أسّس منهج 'الدين المعيش' ميدانياً بدراسة تعبّد الكاثوليك الإيطاليين-الأمريكيين لمريم العذراء في هارلم."
+  - "سُدَّت 2026-09-22 (الدفعة 106): أُضيف ملفّ عملٍ مستقل `wrk-madonna-of-115th-street-orsi` لكتابه المؤسِّس *The Madonna of 115th Street* (1985)."
 ---
 
 # روبرت أورسي (Robert A. Orsi)
