@@ -16,6 +16,8 @@ related:
 - id: "con-seven-standards-textuality-beaugrande-dressler", title: "المعاييرُ السبعةُ للنصّية عند دو بوغراند ودريسلر", type: "مفهوم"
 - id: "con-anaphora-cataphora-discourse", title: "الرجوعُ الضميري السابق واللاحق في الخطاب (Anaphora & Cataphora)", type: "مفهوم"
 - id: "thk-ruqaiya-hasan", title: "روقية حسن", type: "مفكر"
+- id: "sch-systemic-functional-linguistics", title: "اللسانياتُ الوظيفيةُ المنهجية (Systemic Functional Linguistics)", type: "مدرسة"
+- id: "thk-michael-halliday", title: "مايكل هاليداي", type: "مفكر"
 gaps: []
 ---
 

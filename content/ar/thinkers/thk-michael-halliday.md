@@ -23,7 +23,7 @@ related:
 - id: "con-genre-theory-sfl", title: "نظريةُ النوع النصّي في اللسانيات الوظيفية المنهجية (Genre Theory)", type: "مفهوم"
 - id: "con-transitivity-system-halliday", title: "نظامُ التعدّي وأنماطُ العمليات عند هاليداي (Transitivity System & Process Types)", type: "مفهوم"
 - id: "con-mood-system-halliday", title: "نظامُ الصيغة عند هاليداي (Mood System)", type: "مفهوم"
-- id: "con-cohesion-halliday-hasan", title: "التماسكُ النصّي عند هاليداي وحسن (Cohesion in English)", type: "مفهوم"
+- id: "con-cohesive-ties-halliday-hasan", title: "أدواتُ الاتساق الخمس عند هاليداي وحسن (Cohesive Ties)", type: "مفهوم"
 gaps:
   - "**سُدَّ بالكامل 2026-09-22 (الدفعة 174)**: أُضيف قسمٌ عن بداياته في اللسانيات الصينية مع وانغ لي؛ مفهومُ السجل موثَّقٌ في `con-register-style-shifting`، ونظريةُ النوع النصّي (طوّرها تلميذُه ج. ر. مارتن) في `con-genre-theory-sfl`؛ رُبطا أعلاه."
 ---
