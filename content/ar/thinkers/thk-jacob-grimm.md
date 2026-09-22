@@ -22,6 +22,7 @@ related:
 - id: "con-grimms-law", title: "قانونُ غريم", type: "مفهوم"
 - id: "con-comparative-reconstruction-method", title: "منهجُ إعادة البناء المقارن (Comparative Reconstruction)", type: "مفهوم"
 - id: "con-verners-law", title: "قانونُ ڤرنر (Verner's Law)", type: "مفهوم"
+- id: "con-neogrammarian-hypothesis-exceptionless-sound-laws", title: "فرضيةُ النحويين الجُدد: القوانينُ الصوتية بلا استثناء (Neogrammarian Hypothesis)", type: "مفهوم"
 gaps:
   - "شهرةُ ياكوب غريم الشعبية بوصفه (مع أخيه ڤلهلم) جامعَ حكاياتٍ خيالية («حكايات الأخوين غريم») خارج نطاق هذه العقدة، التي تقتصر على إسهامه اللغوي التاريخي."
 ---
