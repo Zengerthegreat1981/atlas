@@ -20,8 +20,9 @@ related:
 - id: "thk-tammam-hassan", title: "تمّام حسّان", type: "مفكر"
 - id: "thk-ibrahim-anis", title: "إبراهيم أنيس", type: "مفكر"
 - id: "thk-abdessalam-el-messaddi", title: "عبد السلام المسدّي", type: "مفكر"
+- id: "thk-mazen-al-waer", title: "مازن الوعر", type: "مفكر"
 gaps:
-  - "**سُدَّ جزئياً 2026-09-22 (الدفعة 163)**: أُنشئ `thk-abdessalam-el-messaddi`. مازن الوعر لا يزال ثغرةً صادقةً تُترك لدفعةٍ لاحقة."
+  - "**سُدَّ بالكامل 2026-09-22 (الدفعة 203)**: أُنشئ `thk-abdessalam-el-messaddi` (الدفعة 163) و`thk-mazen-al-waer` (الدفعة 203)."
 ---
 
 # اللغوياتُ العربيةُ الحديثة
