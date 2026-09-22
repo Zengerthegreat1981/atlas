@@ -179,7 +179,9 @@
 | `evt-haitian-revolution-1804-philosophical` | `sch-subaltern-studies-historiographical-critique` | استشهادُ ملفّ الحدث بسي. إل. آر. جيمس («اليعاقبة السود») — تاريخٌ من أسفل |
 | `evt-frankfurt-auschwitz-trials-1963` | `sch-genocide-denial-limits-of-representation` | كسرُ الصمت الألماني، سؤال أدورنو «بعد أوشفيتز» |
 | `evt-nuremberg-trials-1945-crimes-against-humanity` | `sch-archival-turn-archive-as-power` | الادّعاءُ استند إلى الوثائق النازية الرسمية نفسها لا شهادات الشهود |
+| `evt-fall-of-berlin-wall-1989-end-of-history` | `sch-speculative-philosophy-of-history` | الملفُّ يوثّق أطروحة فوكوياما «نهاية التاريخ» — امتدادٌ معاصر للتيلولوجيا الهيغلية |
+| `evt-arab-defeat-1967-philosophical-turn` | `sch-arab-modern-historiography-orientalism-critique` | الملفُّ يسمّي الجابري والعروي صراحةً بوصفهما استجابا لصدمة 1967 |
 
-فُحصت أيضاً ولم تُربَط (لعدم وجود صلةٍ نصية صريحة بمنهجية كتابة التاريخ): `evt-bandung-conference-1955-decolonial`، `evt-expulsion-of-jews-and-muslims-spain-1492`، `evt-destruction-of-alexandria-library`، `evt-decolonization-wave-africa-1960`. **هذه عيّنةٌ مختارة بعناية، لا شمولٌ كامل لـ186 عقدة.**
+فُحصت أيضاً ولم تُربَط (لعدم وجود صلةٍ نصية صريحة بمنهجية كتابة التاريخ): `evt-bandung-conference-1955-decolonial`، `evt-expulsion-of-jews-and-muslims-spain-1492`، `evt-destruction-of-alexandria-library`، `evt-decolonization-wave-africa-1960`. **هذه عيّنةٌ مختارة بعناية، لا شمولٌ كامل لـ186 عقدة** (أغلبها يخصّ تاريخ علم النفس المهني، خارج نطاق هذا القسم).
 
-**الإجمالي التراكمي النهائي لقسم historiography: 97 عقدة حيّة** (39 `sch-` + 32 `thk-` + 14 `con-` + 10 `wrk-` + 2 `rel-` جسر) — أي **~9.7%** من هدف 900–1,100 المُعلَن أصلاً. انظر `HISTORIOGRAPHY_CLOSEOUT_ADDENDUM_2026-09-21.md` للتفاصيل الكاملة.
+**الإجمالي التراكمي النهائي لقسم historiography: 97 عقدة حيّة** (39 `sch-` + 32 `thk-` + 14 `con-` + 10 `wrk-` + 2 `rel-` جسر) + **6 روابط evt-** — أي **~9.7%** من هدف 900–1,100 المُعلَن أصلاً. انظر `HISTORIOGRAPHY_CLOSEOUT_ADDENDUM_2026-09-21.md` للتفاصيل الكاملة.
