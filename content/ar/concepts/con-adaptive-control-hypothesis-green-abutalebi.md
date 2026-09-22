@@ -16,6 +16,7 @@ related:
 - id: "thk-david-green", title: "ديفيد غرين", type: "مفكر"
 - id: "con-inhibitory-control-model-bilingualism", title: "نموذجُ التحكّم الكابح عند غرين (Inhibitory Control Model)", type: "مفهوم"
 - id: "con-code-switching-mixing", title: "التبديلُ والمزجُ الرمزي (Code-Switching & Code-Mixing)", type: "مفهوم"
+- id: "thk-jubin-abutalebi", title: "جوبراج أبوطالبي", type: "مفكر"
 gaps: []
 ---
 

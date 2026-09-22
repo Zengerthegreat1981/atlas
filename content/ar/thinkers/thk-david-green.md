@@ -21,6 +21,7 @@ related:
 - id: "thk-ellen-bialystok", title: "إلين بياليستوك", type: "مفكر"
 - id: "con-inhibitory-control-model-bilingualism", title: "نموذجُ التحكّم الكابح عند غرين (Inhibitory Control Model)", type: "مفهوم"
 - id: "con-adaptive-control-hypothesis-green-abutalebi", title: "فرضيةُ التحكّم التكيّفي عند غرين وأبوطالبي (Adaptive Control Hypothesis)", type: "مفهوم"
+- id: "thk-jubin-abutalebi", title: "جوبراج أبوطالبي", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرته؛ الاعتمادُ على مصادره الإنجليزية الأساسية."
 ---
