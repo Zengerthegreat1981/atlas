@@ -22,6 +22,7 @@ related:
 - id: "con-nazm-theory-jurjani", title: "نظرية النظم عند الجرجاني (Nazm Theory)", type: "مفهوم"
 - id: "thk-al-khatib-al-qazwini", title: "الخطيبُ القزويني", type: "مفكر"
 - id: "wrk-talkhis-al-miftah-qazwini", title: "تلخيصُ المفتاح", type: "أثر"
+- id: "con-ilm-al-bayan-arabic-rhetoric", title: "علمُ البيان: التشبيهُ والاستعارةُ والكناية", type: "مفهوم"
 gaps:
   - "**سُدَّ بالكامل 2026-09-22 (الدفعة 165)**: أُنشئ `thk-al-khatib-al-qazwini` و`wrk-talkhis-al-miftah-qazwini`."
 ---
