@@ -31,6 +31,7 @@ related:
 - id: "wrk-mahabhashya-patanjali", title: "الشرحُ الكبير (Mahābhāṣya)", type: "أثر"
 - id: "thk-bhartrhari", title: "بهارتريهاري (فيلسوف اللغة السنسكريتية)", type: "مفكر"
 - id: "thk-franz-bopp", title: "فرانز بوب", type: "مفكر"
+- id: "con-trimuni-three-sages-paninian-tradition", title: "الحكماءُ الثلاثة (Trimuni) في التقليد النحوي الهندي", type: "مفهوم"
 gaps:
   - "لا `belongs_to`: تقليدٌ نحويٌّ مستقلٌّ نشأ في الهند القديمة بمعزلٍ تامٍّ عن التقاليد اليونانية والعربية، دون رابطٍ تاريخيٍّ مباشرٍ يصحّ عقدُ علاقة انتماء منه أو إليه."
 ---

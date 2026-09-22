@@ -20,6 +20,7 @@ related:
 - id: "sch-paninian-sanskrit-grammar", title: "النحوُ الهنديُّ عند بانيني (Pāṇinian Sanskrit Grammar)", type: "مدرسة"
 - id: "thk-panini", title: "بانيني", type: "مفكر"
 - id: "thk-patanjali-grammarian", title: "پاتنجلي النحويّ", type: "مفكر"
+- id: "con-trimuni-three-sages-paninian-tradition", title: "الحكماءُ الثلاثة (Trimuni) في التقليد النحوي الهندي", type: "مفهوم"
 gaps:
   - "لم يُعثر على ترجمةٍ إنجليزيةٍ كاملة موثَّقة لملاحظاته النقدية (Vārttikas) ضمن مصادر الأطلس؛ الاعتمادُ على الدراسات الثانوية المتخصّصة."
 ---
