@@ -18,7 +18,7 @@ edges:
 - rel: "belongs_to", target: "sch-american-structural-linguistics", target_type: "مدرسة"
 related:
 - id: "sch-american-structural-linguistics", title: "البنيويةُ الأمريكيةُ والتوزيعية (American Structural Linguistics)", type: "مدرسة"
-- id: "con-emic-etic", title: "الإيميك والإيتيك (Emic/Etic)", type: "مفهوم"
+- id: "con-emic-etic", title: "الإيميتيك والإتيك (Emic vs. Etic)", type: "مفهوم"
 - id: "thk-zellig-harris", title: "زيليغ هاريس", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرته؛ الاعتمادُ على مصادره الإنجليزية الأساسية."
