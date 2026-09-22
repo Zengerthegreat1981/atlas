@@ -15,6 +15,7 @@ related:
 - id: "sch-generative-phonology", title: "الصرفُ التوليديُّ والصواتةُ التوليدية (Generative Phonology)", type: "مدرسة"
 - id: "thk-john-goldsmith", title: "جون غولدسميث", type: "مفكر"
 - id: "con-vowel-harmony", title: "توافقُ الصوائت (Vowel Harmony)", type: "مفهوم"
+- id: "con-feature-geometry-clements", title: "هندسةُ السمات عند كليمنتس (Feature Geometry)", type: "مفهوم"
 gaps: []
 ---
 

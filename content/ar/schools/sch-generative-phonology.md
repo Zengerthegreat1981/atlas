@@ -29,6 +29,7 @@ related:
 - id: "thk-john-goldsmith", title: "جون غولدسميث", type: "مفكر"
 - id: "con-autosegmental-phonology-goldsmith", title: "الصواتةُ متعدّدةُ الطبقات عند غولدسميث (Autosegmental Phonology)", type: "مفهوم"
 - id: "con-optimality-theory-prince-smolensky", title: "النظريةُ التفاؤلية عند برنس وسمولنسكي (Optimality Theory)", type: "مفهوم"
+- id: "con-feature-geometry-clements", title: "هندسةُ السمات عند كليمنتس (Feature Geometry)", type: "مفهوم"
 gaps: []
 ---
 
