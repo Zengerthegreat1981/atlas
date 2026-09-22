@@ -21,9 +21,12 @@ related:
 - id: "axi-no-primitive-languages-linguistic-egalitarianism", title: "لا توجد لغةٌ بدائية (المساواةُ اللسانية بين اللغات)", type: "بديهية/مبدأ تأسيسي"
 - id: "thk-edward-sapir", title: "إدوارد سابير (Edward Sapir)", type: "مفكر"
 - id: "con-descriptivism-vs-prescriptivism", title: "الوصفيةُ مقابل المعيارية في علم اللغة (Descriptivism vs. Prescriptivism)", type: "مفهوم"
+- id: "thk-zellig-harris", title: "زيليغ هاريس", type: "مفكر"
+- id: "con-discovery-procedures-harris", title: "إجراءاتُ الاكتشاف والتحويلُ النحويّ عند هاريس (Discovery Procedures & Transformation)", type: "مفهوم"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`)؛ نشأت مستقلةً عن البنيوية السوسيرية الأوروبية إلى حدٍّ كبير — أثرُ سوسور عليها غيرُ موثَّقٍ بقوةٍ كافية لعقد `evolved_from`، فتُركت العلاقةُ بلا ربط تجنُّباً للجزم."
   - "**سُدَّ 2026-09-22 (الدفعة 170)**: `thk-edward-sapir` موجودٌ بالفعل في الأطلس تحت `part: anthropology` (أقربُ إلى النسبية اللغوية سابير-وورف)؛ رُبط أعلاه بـ`related` دون تكرار سيرته أو نقل وسمه."
+  - "**سُدَّ 2026-09-22 (الدفعة 234)**: `thk-zellig-harris` كان موجوداً بالفعل تحت `edges.belongs_to` لهذه المدرسة نفسها، لكنه لم يكن مربوطاً في `related` هنا؛ أُضيف الرابطُ إلى جانب عقدة `con-discovery-procedures-harris` الجديدة."
 ---
 
 # البنيويةُ الأمريكيةُ والتوزيعية

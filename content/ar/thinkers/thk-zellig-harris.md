@@ -20,6 +20,8 @@ edges:
 related:
 - id: "thk-leonard-bloomfield", title: "ليونارد بلومفيلد", type: "مفكر"
 - id: "sch-generative-grammar", title: "النحوُ التوليديُّ التحويليّ (Generative-Transformational Grammar)", type: "مدرسة"
+- id: "sch-american-structural-linguistics", title: "البنيويةُ الأمريكيةُ والتوزيعية (American Structural Linguistics)", type: "مدرسة"
+- id: "con-discovery-procedures-harris", title: "إجراءاتُ الاكتشاف والتحويلُ النحويّ عند هاريس (Discovery Procedures & Transformation)", type: "مفهوم"
 gaps:
   - "نعوم تشومسكي (فيلسوف اللغة، تلميذُ هاريس المباشر) موسومٌ `philosophy` (DR-014) ولم يُكرَّر هنا؛ العلاقةُ التاريخية بينهما مذكورةٌ نصّياً دون إقحام عقدة انحدارٍ رسمية بين مدرستين مختلفتَي التصنيف."
 ---
