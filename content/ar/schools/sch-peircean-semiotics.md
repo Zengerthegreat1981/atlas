@@ -30,6 +30,7 @@ related:
 - id: "con-abduction-peirce-semiotics", title: "الاستدلالُ الافتراضي عند بيرس ودورُه في السيمياء (Abduction)", type: "مفهوم"
 - id: "wrk-a-theory-of-semiotics-eco", title: "نظريةٌ في السيمياء (A Theory of Semiotics)", type: "أثر"
 - id: "wrk-foundations-theory-signs-morris", title: "أسسُ نظرية العلامات (Foundations of the Theory of Signs)", type: "أثر"
+- id: "con-triadic-sign-relation-peirce", title: "العلاقةُ الثلاثيةُ للعلامة عند بيرس: الممثِّلُ والموضوعُ والمؤوَّل (Triadic Sign Relation)", type: "مفهوم"
 gaps:
   - "`thk-peirce` موسومٌ `philosophy` وموجودٌ بالفعل في الأطلس بفلسفته البراغماتية الكاملة؛ رُبط إليه بـ`related` دون تكرار سيرته. هذه العقدةُ تفرد النسقَ السيميائيَّ الذي طوّره بوصفه إطاراً استُعمل لاحقاً في تحليل الأنظمة اللغوية وغير اللغوية."
   - "لا `evolved_from`: السيمياءُ البيرسية نشأت مستقلةً عن السيميولوجيا السوسيرية (كلاهما طُوِّر في العقد نفسه تقريباً دون تواصلٍ مباشر بين الرجلين)، فلم تُقحَم علاقةُ انحدار."

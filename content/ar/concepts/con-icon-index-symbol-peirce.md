@@ -15,6 +15,7 @@ related:
 - id: "sch-peircean-semiotics", title: "السيمياءُ البيرسية (Peircean Semiotics)", type: "مدرسة"
 - id: "con-firstness-secondness-thirdness-peirce", title: "المقولاتُ الظاهراتيةُ الثلاث عند بيرس: الأوّليةُ والثانويةُ والثالثية", type: "مفهوم"
 - id: "con-types-of-interpretant-peirce", title: "أنواعُ المؤوَّل الثلاثة عند بيرس: المباشرُ والديناميّ والنهائي", type: "مفهوم"
+- id: "con-triadic-sign-relation-peirce", title: "العلاقةُ الثلاثيةُ للعلامة عند بيرس: الممثِّلُ والموضوعُ والمؤوَّل (Triadic Sign Relation)", type: "مفهوم"
 gaps: []
 ---
 

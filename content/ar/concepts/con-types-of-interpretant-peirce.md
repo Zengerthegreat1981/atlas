@@ -15,6 +15,7 @@ related:
 - id: "sch-peircean-semiotics", title: "السيمياءُ البيرسية (Peircean Semiotics)", type: "مدرسة"
 - id: "con-unlimited-semiosis-peirce", title: "السيميوزيسُ غيرُ المحدود عند بيرس (Unlimited Semiosis)", type: "مفهوم"
 - id: "con-firstness-secondness-thirdness-peirce", title: "المقولاتُ الظاهراتيةُ الثلاث عند بيرس: الأوّليةُ والثانويةُ والثالثية", type: "مفهوم"
+- id: "con-triadic-sign-relation-peirce", title: "العلاقةُ الثلاثيةُ للعلامة عند بيرس: الممثِّلُ والموضوعُ والمؤوَّل (Triadic Sign Relation)", type: "مفهوم"
 gaps:
   - "`thk-peirce` موسومٌ `philosophy`؛ هذه العقدةُ تفرد تفصيلَ العنصر الثالث في بنية العلامة الثلاثية (المؤوَّل) بمعزلٍ عن سيرته الفلسفية العامّة."
 ---
