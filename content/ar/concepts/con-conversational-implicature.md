@@ -14,6 +14,7 @@ edges:
 related:
 - id: "thk-pgrice", title: "هربرت باول غرايس", type: "مفكر"
 - id: "sch-gricean-pragmatics", title: "التداوليةُ الغرايسية (Gricean Pragmatics)", type: "مدرسة"
+- id: "con-conventional-implicature-grice", title: "الإفهامُ الاصطلاحي عند غرايس (Conventional Implicature)", type: "مفهوم"
 gaps: []
 ---
 
