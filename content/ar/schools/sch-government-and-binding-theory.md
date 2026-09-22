@@ -29,6 +29,7 @@ related:
 - id: "sch-minimalist-program", title: "البرنامجُ الأدنويّ (The Minimalist Program)", type: "مدرسة"
 - id: "con-theta-theory-criterion-gb", title: "نظريةُ الأدوار الموضوعية ومعيارُ ثيتا (Theta Theory & the θ-Criterion)", type: "مفهوم"
 - id: "con-island-constraints-subjacency-ross", title: "قيودُ الجزر وشرطُ التجاور الأدنى عند روس (Island Constraints & Subjacency)", type: "مفهوم"
+- id: "thk-john-robert-ross", title: "جون روبرت روس", type: "مفكر"
 - id: "con-empty-category-principle-case-theory-gb", title: "مبدأُ الفئة الخالية ونظريةُ الحالة الإعرابية (Empty Category Principle & Case Theory)", type: "مفهوم"
 - id: "wrk-lectures-on-government-and-binding-chomsky", title: "محاضراتٌ في الحاكمية والربط (Lectures on Government and Binding)", type: "عمل / كتاب"
 gaps:

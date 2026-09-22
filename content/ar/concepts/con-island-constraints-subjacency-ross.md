@@ -15,6 +15,7 @@ related:
 - id: "sch-government-and-binding-theory", title: "نظريةُ الحاكميةِ والربط (Government and Binding Theory)", type: "مدرسة"
 - id: "con-wh-movement-c-command", title: "حركةُ الاستفهام والتحكّمُ-الإسنادي (Wh-Movement & C-Command)", type: "مفهوم"
 - id: "thk-noam-chomsky", title: "نعوم تشومسكي", type: "مفكر"
+- id: "thk-john-robert-ross", title: "جون روبرت روس", type: "مفكر"
 gaps: []
 ---
 
