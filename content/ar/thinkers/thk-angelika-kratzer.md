@@ -21,6 +21,7 @@ related:
 - id: "thk-richard-montague", title: "ريتشارد مونتاغيو", type: "مفكر"
 - id: "thk-barbara-partee", title: "باربارا بارتة", type: "مفكر"
 - id: "con-kratzer-modal-base-ordering-source", title: "القاعدةُ الموجِّهيةُ ومصدرُ الترتيب عند كراتزر (Modal Base & Ordering Source)", type: "مفهوم"
+- id: "thk-irene-heim", title: "إيرين هايم", type: "مفكر"
 gaps: []
 ---
 

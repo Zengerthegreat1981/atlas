@@ -25,6 +25,8 @@ related:
 - id: "con-generalized-quantifiers-barwise-cooper", title: "الكمّياتُ المعمَّمة عند بارواز وكوبر (Generalized Quantifiers)", type: "مفهوم"
 - id: "thk-angelika-kratzer", title: "أنجيليكا كراتزر", type: "مفكر"
 - id: "con-kratzer-modal-base-ordering-source", title: "القاعدةُ الموجِّهيةُ ومصدرُ الترتيب عند كراتزر (Modal Base & Ordering Source)", type: "مفهوم"
+- id: "thk-irene-heim", title: "إيرين هايم", type: "مفكر"
+- id: "con-file-change-semantics-heim", title: "دلالةُ تغيير الملفّ عند هايم (File Change Semantics)", type: "مفهوم"
 gaps:
   - "لا `belongs_to`/`evolved_from`: نشأت الدلالةُ الصوريةُ من تقاطع المنطق الرياضي بأعمال مونتاغيو المنطقية المستقلة عن سلالة تشومسكي التوليدية، لا كامتدادٍ تاريخيٍّ مباشرٍ منها؛ سُجِّلت العلاقةُ بـ`related` لا بعلاقة انحدار."
   - "**سُدَّ بالكامل 2026-09-22 (الدفعة 238)**: أُنشئت `thk-angelika-kratzer` وعقدتُها المفهومية `con-kratzer-modal-base-ordering-source`، مستشهَدٌ بعملها المشترك مع Heim في مصادر هذا الملفّ دون أن تكون هي نفسُها موصولةً بعقدةٍ سابقاً."
