@@ -13,6 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-buddhism-early", target_type: "مدرسة"
 related:
 - id: "thk-krishnamurti", title: "جيدو كريشنامورتي", type: "مفكر"
+- id: "sch-theosophical-society", title: "الجمعيةُ الثيوصوفية ودراسةُ الباطنية الغربية الحديثة (Theosophical Society)", type: "مدرسة"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: ديفيد بوم (thk-david-bohm) — الصفحة غير موجودة حالياً ضمن EXISTING_SLUGS.md فلا يمكن ربطها إلى حين اعتمادها."
   - "تجارب \"العملية\" (the process) في أوجاي 1922 وما تلاها من أزمات جسدية-نفسية حادة تستحق ملفاً مستقلاً موثقاً بتفصيل من يوميات كريشنامورتي ومراسلاته لا مجرد إشارة عابرة هنا."
