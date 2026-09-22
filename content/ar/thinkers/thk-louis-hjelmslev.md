@@ -21,6 +21,7 @@ related:
 - id: "sch-saussurean-structuralism", title: "البنيويةُ السوسيرية (Saussurean Structuralism)", type: "مدرسة"
 - id: "thk-hans-jorgen-uldall", title: "هانز يورغن أولدال", type: "مفكر"
 - id: "con-connotative-metasemiotics-hjelmslev", title: "السيمياءُ الإيحائية وما وراء السيميائية عند يلمسليف (Connotative & Metasemiotics)", type: "مفهوم"
+- id: "con-empirical-principle-glossematics", title: "المبدأُ التجريبيُّ وثنائيةُ السينيمات والپليريمات عند يلمسليف", type: "مفهوم"
 gaps:
   - "جهازُه المصطلحي الخاص (المحتوى/التعبير، الشكل/الجوهر) معقَّدٌ ومتشعِّب؛ هذا الملفُّ يقدّم مدخلاً عاماً لا شرحاً تقنياً كاملاً لنسقه."
 ---
