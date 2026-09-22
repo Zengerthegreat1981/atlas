@@ -24,6 +24,7 @@ related:
 - id: "sch-conceptual-blending-theory", title: "فضاءاتُ الذهن والمزجُ المفهوميّ (Mental Spaces & Conceptual Blending)", type: "مدرسة"
 - id: "con-emergent-structure-blending", title: "البنيةُ الناشئةُ: التأليفُ والإكمالُ والتفصيلُ في المزج المفهومي", type: "مفهوم"
 - id: "wrk-the-way-we-think-fauconnier-turner", title: "الطريقةُ التي نفكِّر بها (The Way We Think)", type: "أثر"
+- id: "wrk-mental-spaces-fauconnier-1985", title: "فضاءاتُ الذهن (Mental Spaces)", type: "أثر"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لأعمال فوكونييه الأصلية ضمن مصادر الأطلس؛ الاعتماد على النصوص الإنجليزية الأصلية."
 ---

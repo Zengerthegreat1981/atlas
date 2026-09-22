@@ -29,6 +29,7 @@ related:
 - id: "thk-eve-sweetser", title: "إيڤ سويتسر", type: "مفكر"
 - id: "wrk-the-way-we-think-fauconnier-turner", title: "الطريقةُ التي نفكِّر بها (The Way We Think)", type: "أثر"
 - id: "con-mathematical-blending-lakoff-nunez", title: "المزجُ المفهوميُّ في الرياضيات عند لاكوف ونونييز (Mathematical Blending)", type: "مفهوم"
+- id: "wrk-mental-spaces-fauconnier-1985", title: "فضاءاتُ الذهن (Mental Spaces)", type: "أثر"
 gaps: []
 ---
 
