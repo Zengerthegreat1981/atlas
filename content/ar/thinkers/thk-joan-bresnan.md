@@ -21,6 +21,7 @@ related:
 - id: "thk-joan-bybee", title: "جوان بايبي", type: "مفكر"
 - id: "thk-ronald-kaplan", title: "رونالد كابلان", type: "مفكر"
 - id: "con-lexical-mapping-theory-bresnan", title: "نظريةُ الترميم المعجمي عند برسنان (Lexical Mapping Theory)", type: "مفهوم"
+- id: "con-glue-semantics-lfg", title: "دلالةُ الغراء في النحو المعجمي الوظيفي (Glue Semantics)", type: "مفهوم"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لأعمال برسنان الأصلية ضمن مصادر الأطلس؛ الاعتماد على النصوص الإنجليزية الأصلية."
 ---
