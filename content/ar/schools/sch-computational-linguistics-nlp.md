@@ -27,6 +27,7 @@ related:
 - id: "con-transformer-attention-mechanism", title: "معماريةُ المحوِّل وآليةُ الانتباه (Transformer & Attention Mechanism)", type: "مفهوم"
 - id: "thk-david-crystal", title: "ديفيد كريستال", type: "مفكر"
 - id: "con-internet-linguistics-netspeak", title: "لسانياتُ الإنترنت ولغةُ الشبكة (Internet Linguistics & Netspeak)", type: "مفهوم"
+- id: "con-n-gram-hmm-statistical-nlp", title: "نماذجُ إن-غرام وماركوف الخفية في المعالجة الإحصائية للغة", type: "مفهوم"
 gaps:
   - "لا `belongs_to`/`evolved_from`: فرعٌ متعدّدُ الأصول (منطقٌ حاسوبيٌّ، نظريةُ الأتمتة، إحصاءٌ) نشأ بالتوازي مع النحو التوليدي دون انحدارٍ حصريٍّ منه."
 ---
