@@ -22,9 +22,11 @@ related:
 - id: "wrk-major-trends-jewish-mysticism-scholem", title: "الاتجاهاتُ الرئيسيةُ في التصوّف اليهوديّ (Major Trends in Jewish Mysticism) — الكتاب", type: "عمل / كتاب"
 - id: "sch-kabbalah-lurianic", title: "القبّالة اللوريانية", type: "مدرسة"
 - id: "thk-isaac-luria", title: "إسحاق لوريا (الأري)", type: "مفكر"
+- id: "thk-moshe-idel", title: "موشيه إيدل (Moshe Idel)", type: "مفكر"
+- id: "wrk-sabbatai-sevi-mystical-messiah-scholem", title: "شبتاي تسڤي: المسيحُ الصوفيّ (Sabbatai Ṣevi: The Mystical Messiah) — الكتاب", type: "عمل / كتاب"
 gaps:
   - "لم يُتحقّق بعد من تفاصيل علاقته الفكرية بفالتر بنيامين ولا من موقفه السياسيّ الصهيونيّ الثنائي-القومية (Brit Shalom) بمصدرٍ أوّليٍّ مباشر — تُرك فجوةً صادقة."
-  - "موشيه إيدل (Moshe Idel) خليفتُه الأبرز ومصدرُ النقد المنهجيّ الأهمّ لسرديته التاريخية — لم يُفرَد له ملفٌّ بعد."
+  - "الدفعة 196: سُدَّت فجوةُ موشيه إيدل بإضافة `thk-moshe-idel`، وأُضيف ربطٌ بعمله الثاني *Sabbatai Ṣevi* (`wrk-sabbatai-sevi-mystical-messiah-scholem`، 1973) المذكور في المتن دون ملفٍّ مستقلّ سابقاً."
 ---
 
 # غرشوم شوليم (Gershom Scholem)

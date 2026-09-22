@@ -26,10 +26,10 @@ related:
 - id: "thk-gershom-scholem", title: "غرشوم شوليم (Gershom Scholem)", type: "مفكر"
 - id: "wrk-major-trends-jewish-mysticism-scholem", title: "الاتجاهاتُ الرئيسيةُ في التصوّف اليهوديّ (Major Trends in Jewish Mysticism) — الكتاب", type: "عمل / كتاب"
 - id: "thk-isaac-luria", title: "إسحاق لوريا (الأري)", type: "مفكر"
+- id: "thk-moshe-idel", title: "موشيه إيدل (Moshe Idel)", type: "مفكر"
+- id: "con-sabbatianism-scholarly-study", title: "السبتانية بوصفها موضوعَ دراسةٍ أكاديمية (Sabbatianism)", type: "مفهوم"
 gaps:
-  - "لم تُفرَد بعد عقدةٌ لتلميذته وخليفتها موشيه إيدل (Moshe Idel) ونقده المنهجيّ لشوليم (اتهامه بفرض سرديةٍ تاريخيةٍ خطّية واحدة على مادةٍ أكثر تنوّعاً) — فجوةٌ موثَّقة تحتاج تحقّقاً مستقلاً."
-  - "لم يُربط بعد بجدل السبتانية (شبتاي تسڤي) رغم مركزيته في مشروع شوليم — يحتاج عقدةً مستقلة أو ربطاً بملفّ سيرةٍ مستقبليّ."
----
+  - "الدفعة 196: سُدَّت الفجوتان الموثَّقتان سابقاً — أُضيف `thk-moshe-idel` (نقدُه المنهجيّ لسرديّة شوليم الخطّية) و`con-sabbatianism-scholarly-study` (مع عملِ شوليم *Sabbatai Ṣevi*، `wrk-sabbatai-sevi-mystical-messiah-scholem`) كعقدٍ جديدة مترابطة."
 
 # الدراسةُ الأكاديميةُ النقديةُ للقبّالة (غرشوم شوليم)
 
