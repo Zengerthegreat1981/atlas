@@ -24,6 +24,7 @@ related:
 - id: "con-anaphora-cataphora-discourse", title: "الرجوعُ الضميري السابق واللاحق في الخطاب (Anaphora & Cataphora)", type: "مفهوم"
 - id: "thk-robert-de-beaugrande", title: "روبرت-ألان دو بوغراند", type: "مفكر"
 - id: "thk-ruqaiya-hasan", title: "روقية حسن", type: "مفكر"
+- id: "con-macrostructure-superstructure-van-dijk", title: "البنيةُ الكلّية والبنيةُ الفوقية عند فان دايك (Macrostructure & Superstructure)", type: "مفهوم"
 gaps: []
 ---
 

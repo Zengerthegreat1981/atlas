@@ -18,6 +18,8 @@ edges: []
 related:
 - id: "thk-norman-fairclough", title: "نورمان فيركلاف", type: "مفكر"
 - id: "ins-critical-discourse-analysis-fairclough", title: "تحليل الخطاب النقدي (Critical Discourse Analysis - CDA)", type: "منهج/أداة بحث"
+- id: "sch-text-linguistics", title: "لسانياتُ النصِّ وتماسكُه (Text Linguistics)", type: "مدرسة"
+- id: "con-macrostructure-superstructure-van-dijk", title: "البنيةُ الكلّية والبنيةُ الفوقية عند فان دايك (Macrostructure & Superstructure)", type: "مفهوم"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بنموذج فان دايك المعرفي-الاجتماعي ضمن مصادر الأطلس المتاحة."
   - "لا `belongs_to`: راجع ملاحظةَ البنية المؤسسية نفسَها في `thk-norman-fairclough` — لا مدرسةَ مستقلةً لتحليل الخطاب النقديّ في قسم اللسانيات، والبنيةُ القائمة تحت `sociology`."
