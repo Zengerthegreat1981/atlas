@@ -23,6 +23,7 @@ related:
 - id: "con-phase-theory-minimalism", title: "نظريةُ الأطوار (Phase Theory)", type: "مفهوم"
 - id: "thk-norbert-hornstein", title: "نوربرت هورنشتاين", type: "مفكر"
 - id: "con-agree-operation-feature-checking", title: "عمليةُ الاتفاق وفحصُ السمات (Agree & Feature Checking)", type: "مفهوم"
+- id: "con-labeling-algorithm-chomsky", title: "خوارزميةُ التوسيم عند تشومسكي (Labeling Algorithm)", type: "مفهوم"
 gaps:
   - "`thk-noam-chomsky` موسومٌ `philosophy` (DR-014) ولم يُكرَّر؛ العقدةُ تفرد المرحلةَ التقنية الأحدث من نظريته دون تكرار سيرته."
   - "**سُدَّ 2026-09-22 (الدفعة 162)**: أُنشئ `con-merge-operation-minimalism` (عمليةُ الدمج، الدمجُ الخارجي والداخلي)."
