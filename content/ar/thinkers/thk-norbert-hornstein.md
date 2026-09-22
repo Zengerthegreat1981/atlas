@@ -20,6 +20,7 @@ related:
 - id: "sch-minimalist-program", title: "البرنامجُ الأدنويّ (The Minimalist Program)", type: "مدرسة"
 - id: "con-phase-theory-minimalism", title: "نظريةُ الأطوار (Phase Theory)", type: "مفهوم"
 - id: "con-raising-control-verbs", title: "أفعالُ الرفعِ مقابل أفعال التحكّم (Raising vs. Control Verbs)", type: "مفهوم"
+- id: "con-third-factor-explanations-chomsky", title: "العواملُ الثلاثةُ لنمو اللغة والأطروحةُ الأدنويةُ القوية عند تشومسكي", type: "مفهوم"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرته؛ الاعتمادُ على مصادره الإنجليزية الأساسية."
 ---
