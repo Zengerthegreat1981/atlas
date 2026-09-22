@@ -23,6 +23,7 @@ related:
 - id: "thk-patanjali-grammarian", title: "پاتنجلي النحويّ", type: "مفكر"
 - id: "con-karaka-theory-panini", title: "نظريةُ الكاراكا عند بانيني (Kāraka Theory)", type: "مفهوم"
 - id: "thk-yaska", title: "ياسكا", type: "مفكر"
+- id: "con-shiva-sutras-pratyahara-panini", title: "سوترات شيڤا والاختصارُ الصوتي (پراتياهارا) عند بانيني", type: "مفهوم"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لعمل بانيني الأصلي ضمن مصادر الأطلس؛ الاعتماد على دراساتٍ إنجليزية متخصّصة في تاريخ اللسانيات."
 ---

@@ -25,6 +25,7 @@ related:
 - id: "con-karaka-theory-panini", title: "نظريةُ الكاراكا عند بانيني (Kāraka Theory)", type: "مفهوم"
 - id: "thk-yaska", title: "ياسكا", type: "مفكر"
 - id: "con-nirukta-etymology-yaska", title: "النيروكتا: علمُ الاشتقاق الدلاليُّ عند ياسكا (Nirukta)", type: "مفهوم"
+- id: "con-shiva-sutras-pratyahara-panini", title: "سوترات شيڤا والاختصارُ الصوتي (پراتياهارا) عند بانيني", type: "مفهوم"
 gaps:
   - "لا `belongs_to`: تقليدٌ نحويٌّ مستقلٌّ نشأ في الهند القديمة بمعزلٍ تامٍّ عن التقاليد اليونانية والعربية، دون رابطٍ تاريخيٍّ مباشرٍ يصحّ عقدُ علاقة انتماء منه أو إليه."
 ---
