@@ -20,6 +20,7 @@ related:
 - id: "sch-sign-language-linguistics", title: "لسانياتُ لغة الإشارة (Sign Language Linguistics)", type: "مدرسة"
 - id: "stu-nicaraguan-sign-language-emergence-senghas", title: "نشوءُ لغة الإشارة النيكاراغوية: دراساتُ آن سنغاس", type: "دراسة"
 - id: "sch-language-evolution", title: "أصلُ اللغة وتطوّرها (Language Evolution)", type: "مدرسة"
+- id: "thk-susan-goldin-meadow", title: "سوزان غولدن-ميدو", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرتها؛ الاعتمادُ على مصادرها الإنجليزية الأساسية."
 ---
