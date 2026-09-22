@@ -16,6 +16,7 @@ related:
 - id: "con-nazm-theory-jurjani", title: "نظرية النظم عند الجرجاني (Nazm Theory)", type: "مفهوم"
 - id: "con-ilm-al-bayan-arabic-rhetoric", title: "علمُ البيان: التشبيهُ والاستعارةُ والكناية", type: "مفهوم"
 - id: "thk-al-sakkaki", title: "أبو يعقوب السكّاكي", type: "مفكر"
+- id: "con-ijaz-itnab-arabic-rhetoric", title: "الإيجازُ والإطنابُ والمساواةُ في البلاغة العربية", type: "مفهوم"
 gaps: []
 ---
 

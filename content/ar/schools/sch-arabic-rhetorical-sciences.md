@@ -31,6 +31,7 @@ related:
 - id: "wrk-al-mathal-al-sair-ibn-al-athir", title: "المثلُ السائر في أدب الكاتب والشاعر", type: "أثر"
 - id: "wrk-miftah-al-ulum-sakkaki", title: "مفتاحُ العلوم", type: "أثر"
 - id: "con-haqiqa-majaz-arabic-rhetoric", title: "ثنائيةُ الحقيقة والمجاز في البلاغة العربية (Ḥaqīqa vs. Majāz)", type: "مفهوم"
+- id: "con-ijaz-itnab-arabic-rhetoric", title: "الإيجازُ والإطنابُ والمساواةُ في البلاغة العربية", type: "مفهوم"
 gaps:
   - "**سُدَّ بالكامل 2026-09-22 (الدفعة 165)**: أُنشئ `thk-al-khatib-al-qazwini` و`wrk-talkhis-al-miftah-qazwini`."
   - "**سُدَّ بالكامل 2026-09-22 (الدفعة 235)**: أُنشئ `con-ilm-al-badi-arabic-rhetoric`، مكمِّلاً الفروعَ الثلاثة لعلوم البلاغة."
