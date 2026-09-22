@@ -23,9 +23,10 @@ related:
 - id: "wrk-death-ritual-and-belief-davies", title: "الموت والطقس والمُعتقَد (Death, Ritual and Belief)", type: "عمل / كتاب"
 - id: "wrk-the-revival-of-death-walter", title: "إحياءُ الموت (The Revival of Death)", type: "عمل / كتاب"
 - id: "exp-near-death-experience", title: "تجربة الاقتراب من الموت (NDE): بين العَالَم والمَوت", type: "خبرة معيشة"
+- id: "thk-robert-hertz", title: "روبرت هرتز (Robert Hertz)", type: "مفكر"
 gaps:
   - "هذه المدرسةُ تختلف عن الثاناتولوجيا الإكلينيكية-النفسية (كوبلر-روس ومراحل الحزن، الموثّقة في مسودةٍ غيرِ منشورةٍ بعد `content/ar/drafts/minimax/schools/sch-thanatology.md` تحت `part: psychology`): موضوعُ هذه المدرسة دراسةُ الطقوس والمُعتقدات الجنائزية عبر الأديان والثقافات بأدواتِ علم اجتماع الدين وعلم الأديان المقارن، لا الإكلينيك النفسي. لا تكرار — رُبطتا بملاحظةٍ متبادَلة عند اعتماد المسودة مستقبلاً."
-  - "روبرت هرتز (Robert Hertz) وتلميذه في التقليد الدوركايمي حول ازدواجية الدفن (Death and the Right Hand, 1907) سابقٌ منهجياً على دايفيز ووالتر ولم يُفرد له ملفٌّ مستقل بعد؛ يستحق عقدةً `thk-` في دفعةٍ لاحقة إذ يُعدّ أصلَ هذا الحقل الأنثروبولوجي-الدينيّ."
+  - "روبرت هرتز (Robert Hertz) أُضيف في دفعةٍ لاحقة: عقدةٌ `thk-robert-hertz` (THK-12042) مع عملٍ `wrk-death-and-the-right-hand-hertz` ومفهومٍ `con-double-burial-right-hand-polarity-hertz`، إذ يُعدّ أصلَ هذا الحقل الأنثروبولوجي-الدينيّ (Death and the Right Hand, 1907/1960)."
   - "غلينيز هاوارث (Glennys Howarth) وأطروحتها في أنثروبولوجيا دور الجنازات لم تُدرَج بعد لغياب تحقّقٍ ببليوغرافي كافٍ لعملها الرئيسي وقت كتابة هذا الملف."
 ---
 
