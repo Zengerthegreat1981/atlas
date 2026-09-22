@@ -23,9 +23,10 @@ related:
 - id: "thk-max-muller", title: "فريدريش ماكس مولر", type: "مفكر"
 - id: "sch-buddhist-modernism", title: "البوذية الحداثية", type: "مدرسة"
 - id: "thk-philip-almond", title: "فيليب ألموند (Philip C. Almond)", type: "مفكر"
+- id: "wrk-buddhist-birth-stories-rhys-davids", title: "قصصُ ميلاد بوذا: الجاتاكا (Buddhist Birth Stories)", type: "عمل / كتاب"
 gaps:
   - "عمل ديفيدز موظّفاً إدارياً بريطانياً في سيلان (سريلانكا الحالية) قبل تحوّله الأكاديمي، وهو جزءٌ من السياق الاستعماري الذي مكّنه من الوصول للمخطوطات الپالية أصلاً؛ هذا مذكورٌ حياداً دون تجاوز حدود القسم إلى تقييم الاستعمار سياسياً. **سُدَّت جزئياً 2026-09-22 (الدفعة 79):** النقدُ التاريخيُّ لهذا المسار (أطروحةُ 'البوذية النصّية' البروتستانتية القياس) مفصَّلٌ الآن في `thk-philip-almond`."
-  - "لا يوجد بعد ملفّ عملٍ مستقل (`wrk-`) لترجمته *Buddhist Birth Stories* (1880) أو لسلسلة *Sacred Books of the Buddhists* التي أشرف عليها لاحقاً."
+  - "**سُدَّت 2026-09-22 (الدفعة 119):** أُضيف ملفّ عملٍ مستقل لترجمته *Buddhist Birth Stories* (1880) — `wrk-buddhist-birth-stories-rhys-davids`. سلسلةُ *Sacred Books of the Buddhists* لا تزال بلا ملفٍّ مستقل؛ فجوةٌ موثَّقة لدفعةٍ لاحقة."
 ---
 
 # توماس ويليام رايس ديفيدز (T. W. Rhys Davids)
