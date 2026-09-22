@@ -29,6 +29,7 @@ related:
 - id: "con-sign-based-construction-grammar-sag", title: "نحوُ البُنى القائمُ على العلامة عند ساغ (Sign-Based Construction Grammar)", type: "مفهوم"
 - id: "con-glue-semantics-lfg", title: "دلالةُ الغراء في النحو المعجمي الوظيفي (Glue Semantics)", type: "مفهوم"
 - id: "con-functional-uncertainty-lfg", title: "عدمُ اليقين الوظيفي في النحو المعجمي الوظيفي (Functional Uncertainty)", type: "مفهوم"
+- id: "wrk-head-driven-phrase-structure-grammar-pollard-sag", title: "قواعدُ البنية العباراتية المسندة بالرؤوس (Head-Driven Phrase Structure Grammar)", type: "أثر"
 gaps: []
 ---
 
@@ -42,7 +43,7 @@ gaps: []
 
 ## قواعدُ البنية العباراتية المسندة بالرؤوس
 
-طوّر كارل بولوم وإيفان ساغ إطاراً مشابهاً في الروح يُسمّى "قواعد البنية العباراتية المسندة بالرؤوس" (Head-Driven Phrase Structure Grammar، HPSG)، يمثّل المعلوماتِ النحويةَ والدلاليةَ معاً في بِنًى سماتٍ موحَّدة (Feature Structures) تُشتقّ الجملُ منها عبر مبادئَ توافقٍ صورية، دون حركةٍ تحويلية.
+طوّر كارل بولارد وإيفان ساغ إطاراً مشابهاً في الروح يُسمّى "قواعد البنية العباراتية المسندة بالرؤوس" (Head-Driven Phrase Structure Grammar، HPSG)، يمثّل المعلوماتِ النحويةَ والدلاليةَ معاً في بِنًى سماتٍ موحَّدة (Feature Structures) تُشتقّ الجملُ منها عبر مبادئَ توافقٍ صورية، دون حركةٍ تحويلية.
 
 ## الأثر
 

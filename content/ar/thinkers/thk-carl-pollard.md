@@ -21,6 +21,7 @@ related:
 - id: "thk-ivan-sag", title: "إيفان ساغ", type: "مفكر"
 - id: "con-argument-structure-lexicon", title: "بنيةُ الحجج المعجمية (Argument Structure)", type: "مفهوم"
 - id: "con-type-hierarchy-hpsg", title: "هرميةُ الأنماط والعلامةُ الموحَّدة في HPSG (Type Hierarchy & Sign)", type: "مفهوم"
+- id: "wrk-head-driven-phrase-structure-grammar-pollard-sag", title: "قواعدُ البنية العباراتية المسندة بالرؤوس (Head-Driven Phrase Structure Grammar)", type: "أثر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرته؛ الاعتمادُ على مصادره الإنجليزية الأساسية."
 ---

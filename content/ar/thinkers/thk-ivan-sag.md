@@ -23,6 +23,7 @@ related:
 - id: "thk-carl-pollard", title: "كارل بولارد", type: "مفكر"
 - id: "con-type-hierarchy-hpsg", title: "هرميةُ الأنماط والعلامةُ الموحَّدة في HPSG (Type Hierarchy & Sign)", type: "مفهوم"
 - id: "con-sign-based-construction-grammar-sag", title: "نحوُ البُنى القائمُ على العلامة عند ساغ (Sign-Based Construction Grammar)", type: "مفهوم"
+- id: "wrk-head-driven-phrase-structure-grammar-pollard-sag", title: "قواعدُ البنية العباراتية المسندة بالرؤوس (Head-Driven Phrase Structure Grammar)", type: "أثر"
 gaps:
   - "**سُدَّ 2026-09-22 (الدفعة 274)**: أُضيف رابطُ `sch-lexical-functional-grammar-hpsg` الناقص رغم كونه شريكَ التأسيس لـHPSG."
 ---
