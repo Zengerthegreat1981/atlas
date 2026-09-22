@@ -1,6 +1,6 @@
 ---
 slug: "thk-patanjali-grammarian"
-id: "THK-11668"
+id: "THK-11670"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"
