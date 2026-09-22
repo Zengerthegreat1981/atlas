@@ -22,6 +22,8 @@ related:
 - id: "thk-al-kisai", title: "الكسائي", type: "مفكر"
 - id: "thk-al-farra", title: "الفرّاء", type: "مفكر"
 - id: "wrk-maani-al-quran-farra", title: "معاني القرآن (الفرّاء)", type: "أثر"
+- id: "thk-ibn-al-anbari", title: "أبو البركات ابن الأنباري", type: "مفكر"
+- id: "wrk-al-insaf-masail-al-khilaf-ibn-al-anbari", title: "الإنصافُ في مسائل الخلاف بين النحويين البصريين والكوفيين", type: "أثر"
 gaps:
   - "**سُدَّ بالكامل 2026-09-22 (الدفعة 166)**: أُنشئ `thk-al-kisai` و`thk-al-farra` و`wrk-maani-al-quran-farra`."
 ---
