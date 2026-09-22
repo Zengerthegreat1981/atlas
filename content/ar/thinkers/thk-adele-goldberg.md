@@ -21,6 +21,8 @@ related:
 - id: "thk-charles-fillmore", title: "تشارلز فيلمور", type: "مفكر"
 - id: "thk-brent-berlin-paul-kay", title: "برنت برلين وپول كاي", type: "مفكر"
 - id: "con-argument-structure-constructions-goldberg", title: "بُنى الحجج الإنشائية عند غولدبرغ (Argument Structure Constructions)", type: "مفهوم"
+- id: "sch-usage-based-grammar", title: "النحوُ الناشئُ عن الاستعمال (Usage-Based Grammar)", type: "مدرسة"
+- id: "con-statistical-preemption-goldberg", title: "الاستباقُ الإحصائي عند غولدبرغ (Statistical Preemption)", type: "مفهوم"
 gaps:
   - "تاريخُ ميلادها ومعطياتُ سيرتها المبكرة غيرُ مثبَتةٍ بمصدرٍ أوّليٍّ محدَّد هنا؛ الاعتمادُ على صفحتها الأكاديمية في جامعة پرينستون ومقدّمات كتبها."
   - "**سُدَّ سابقاً**: `thk-charles-fillmore` موجودٌ بالفعل، وپول كاي موثَّقٌ ضمن `thk-brent-berlin-paul-kay`؛ رُبطا أعلاه دون تكرار."

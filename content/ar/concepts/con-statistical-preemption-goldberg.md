@@ -15,6 +15,7 @@ related:
 - id: "sch-usage-based-grammar", title: "النحوُ الناشئُ عن الاستعمال (Usage-Based Grammar)", type: "مدرسة"
 - id: "con-frequency-entrenchment-bybee", title: "التواتُرُ والترسّخُ عند بايبي (Frequency & Entrenchment)", type: "مفهوم"
 - id: "con-argument-structure-constructions-goldberg", title: "بُنى الحجج الإنشائية عند غولدبرغ (Argument Structure Constructions)", type: "مفهوم"
+- id: "thk-adele-goldberg", title: "أديل غولدبرغ", type: "مفكر"
 gaps: []
 ---
 

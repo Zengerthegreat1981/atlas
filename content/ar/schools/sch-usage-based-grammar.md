@@ -33,6 +33,7 @@ related:
 - id: "con-reducing-conserving-effects-frequency-bybee", title: "الأثرُ الاختزاليُّ والأثرُ المحافظُ للتواتر عند بايبي (Reducing & Conserving Effects of Frequency)", type: "مفهوم"
 - id: "con-statistical-preemption-goldberg", title: "الاستباقُ الإحصائي عند غولدبرغ (Statistical Preemption)", type: "مفهوم"
 - id: "con-type-token-frequency-productivity-bybee", title: "تواتُرُ النمط وتواتُرُ الوحدة وإنتاجيةُ البُنى عند بايبي (Type vs. Token Frequency & Productivity)", type: "مفهوم"
+- id: "thk-adele-goldberg", title: "أديل غولدبرغ", type: "مفكر"
 gaps: []
 ---
 
