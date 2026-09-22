@@ -19,6 +19,7 @@ edges:
 related:
 - id: "sch-greco-latin-grammatical-tradition", title: "النحوُ اليونانيُّ واللاتينيُّ الوسيط (Greco-Latin Grammatical Tradition)", type: "مدرسة"
 - id: "con-modistae-speculative-grammar", title: "نحاةُ الأنماط والنحوُ التأمّلي (Modistae & Speculative Grammar)", type: "مفهوم"
+- id: "wrk-techne-grammatike-dionysius-thrax", title: "الفنُّ النحويُّ (Téchnē Grammatikḗ)", type: "أثر"
 gaps:
   - "نسبةُ *Téchnē Grammatikḗ* الكاملة إليه محلُّ نقاشٍ فيلولوجي (بعضُ الباحثين يرون أجزاءً منه إضافاتٍ لاحقة)؛ هذا الملفُّ يعرض النسبةَ التقليدية السائدة دون حسم الجدل الفيلولوجي التخصّصي الدقيق."
 ---
