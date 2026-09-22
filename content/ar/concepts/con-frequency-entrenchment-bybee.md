@@ -15,6 +15,7 @@ related:
 - id: "sch-usage-based-grammar", title: "النحوُ الناشئُ عن الاستعمال (Usage-Based Grammar)", type: "مدرسة"
 - id: "thk-joan-bybee", title: "جوان بايبي", type: "مفكر"
 - id: "con-lexical-priming-hoey", title: "التنشيطُ المعجميّ (Lexical Priming)", type: "مفهوم"
+- id: "con-reducing-conserving-effects-frequency-bybee", title: "الأثرُ الاختزاليُّ والأثرُ المحافظُ للتواتر عند بايبي (Reducing & Conserving Effects of Frequency)", type: "مفهوم"
 gaps: []
 ---
 

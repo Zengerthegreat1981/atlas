@@ -14,6 +14,7 @@ edges:
 related:
 - id: "thk-elizabeth-traugott", title: "إليزابيث ترواغوت", type: "مفكر"
 - id: "con-comparative-reconstruction-method", title: "منهجُ إعادة البناء المقارن (Comparative Reconstruction)", type: "مفهوم"
+- id: "sch-usage-based-grammar", title: "النحوُ الناشئُ عن الاستعمال (Usage-Based Grammar)", type: "مدرسة"
 gaps: []
 ---
 

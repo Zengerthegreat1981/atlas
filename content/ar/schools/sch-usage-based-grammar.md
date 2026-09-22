@@ -29,6 +29,8 @@ related:
 - id: "con-exemplar-theory-bybee", title: "نظريةُ النماذج المِثالية عند بايبي (Exemplar Theory)", type: "مفهوم"
 - id: "thk-nick-ellis", title: "نيك إليس", type: "مفكر"
 - id: "con-associative-learning-chunking-ellis", title: "التعلّمُ الترابطي والتقطيعُ عند إليس (Associative Learning & Chunking)", type: "مفهوم"
+- id: "con-grammaticalization", title: "النحويةُ (Grammaticalization)", type: "مفهوم"
+- id: "con-reducing-conserving-effects-frequency-bybee", title: "الأثرُ الاختزاليُّ والأثرُ المحافظُ للتواتر عند بايبي (Reducing & Conserving Effects of Frequency)", type: "مفهوم"
 gaps: []
 ---
 
