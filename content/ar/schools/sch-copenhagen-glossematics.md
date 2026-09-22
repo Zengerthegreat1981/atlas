@@ -26,6 +26,7 @@ related:
 - id: "con-empirical-principle-glossematics", title: "المبدأُ التجريبيُّ وثنائيةُ السينيمات والپليريمات عند يلمسليف", type: "مفهوم"
 - id: "con-catalysis-latent-categories-glossematics", title: "التحفيزُ (الكتاليزس) والمقولاتُ الكامنة عند يلمسليف", type: "مفهوم"
 - id: "con-purport-amorphous-continuum-hjelmslev", title: "الجوهرُ الخام (Purport) والمتصلُ اللامتشكِّل عند يلمسليف", type: "مفهوم"
+- id: "thk-eli-fischer-jorgensen", title: "إيلي فيشر-يورغنسن", type: "مفكر"
 gaps:
   - "**سُدَّ بالكامل 2026-09-22 (الدفعة 176)**: أُنشئ `thk-hans-jorgen-uldall`."
   - "**سُدَّ بالكامل 2026-09-22 (الدفعة 237)**: أُنشئ `con-empirical-principle-glossematics`، مُفصِّلاً الأساسَ المنهجي (المبدأ التجريبي) والجهازَ المصطلحي (السينيمات/الپليريمات) اللذين بُنيت عليهما هذه المدرسة."
