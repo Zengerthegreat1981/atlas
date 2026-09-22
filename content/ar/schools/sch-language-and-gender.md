@@ -27,6 +27,7 @@ related:
 - id: "con-genderlect-rapport-report-talk-tannen", title: "اللهجةُ الجندرية وحديثُ الوئام مقابل حديث التقرير عند تانن (Genderlect & Rapport/Report Talk)", type: "مفهوم"
 - id: "thk-don-kulick", title: "دون كوليك", type: "مفكر"
 - id: "con-language-desire-sexuality-kulick", title: "اللغةُ والرغبةُ الجنسانية عند كوليك (Language & Desire)", type: "مفهوم"
+- id: "con-generic-masculine-gender-neutral-reform", title: "المذكَّرُ التعميمي وإصلاحُ اللغة المحايدة جندرياً (Generic Masculine & Gender-Neutral Reform)", type: "مفهوم"
 gaps: []
 ---
 
