@@ -16,6 +16,7 @@ related:
 - id: "con-nazm-theory-jurjani", title: "نظرية النظم عند الجرجاني (Nazm Theory)", type: "مفهوم"
 - id: "thk-al-sakkaki", title: "أبو يعقوب السكّاكي", type: "مفكر"
 - id: "wrk-asrar-al-balagha-jurjani", title: "أسرارُ البلاغة", type: "أثر"
+- id: "con-haqiqa-majaz-arabic-rhetoric", title: "ثنائيةُ الحقيقة والمجاز في البلاغة العربية (Ḥaqīqa vs. Majāz)", type: "مفهوم"
 gaps: []
 ---
 
