@@ -22,6 +22,7 @@ related:
 - id: "wrk-introduction-functional-grammar-halliday", title: "مدخلٌ إلى النحو الوظيفي (An Introduction to Functional Grammar)", type: "عمل / كتاب"
 - id: "thk-jr-martin", title: "ج. ر. مارتن", type: "مفكر"
 - id: "con-genre-theory-sfl", title: "نظريةُ النوع النصّي في اللسانيات الوظيفية المنهجية (Genre Theory)", type: "مفهوم"
+- id: "con-appraisal-theory-martin", title: "نظريةُ التقييم عند مارتن (Appraisal Theory)", type: "مفهوم"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`) — تيارٌ وظيفيٌّ مستقلٌّ عن التوليدية والبنيوية الأمريكية، وإن استفاد من تراث مدرسة لندن (فيرث)."
   - "**سُدَّ 2026-09-21 (الدفعة 47)**: أُنشئ `thk-jr-firth` (أصلُ مدرسة لندن) و`con-metafunctions-halliday`."

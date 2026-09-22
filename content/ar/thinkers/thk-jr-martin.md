@@ -20,6 +20,7 @@ related:
 - id: "sch-systemic-functional-linguistics", title: "اللسانياتُ الوظيفيةُ المنهجية (Systemic Functional Linguistics)", type: "مدرسة"
 - id: "thk-michael-halliday", title: "مايكل هاليداي", type: "مفكر"
 - id: "con-genre-theory-sfl", title: "نظريةُ النوع النصّي في اللسانيات الوظيفية المنهجية (Genre Theory)", type: "مفهوم"
+- id: "con-appraisal-theory-martin", title: "نظريةُ التقييم عند مارتن (Appraisal Theory)", type: "مفهوم"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرته؛ الاعتمادُ على مصادره الإنجليزية الأساسية."
 ---
