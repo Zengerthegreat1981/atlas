@@ -14,6 +14,7 @@ edges:
 related:
 - id: "sch-bilingualism-cognitive-control", title: "ثنائيةُ اللغة والدماغُ (Bilingualism & Cognitive Control)", type: "مدرسة"
 - id: "con-bia-plus-model-dijkstra", title: "نموذجُ التفعيل التفاعلي الثنائي اللغة الموسَّع (BIA+)", type: "مفهوم"
+- id: "con-simultaneous-sequential-bilingualism-aoa", title: "الثنائيةُ اللغويةُ المتزامنة مقابل المتعاقبة وأثرُ عمر الاكتساب (Simultaneous vs. Sequential Bilingualism & AoA)", type: "مفهوم"
 gaps:
   - "لم يُعثر على عقدةٍ مستقلّةٍ لجوديث كرول ضمن الأطلس؛ العقدةُ تُشير إلى العمل المرجعي مباشرةً."
 ---
