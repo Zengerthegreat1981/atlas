@@ -28,6 +28,7 @@ related:
 - id: "con-theme-system-halliday", title: "نظامُ الموضوع عند هاليداي (Theme System)", type: "مفهوم"
 - id: "con-cohesive-ties-halliday-hasan", title: "أدواتُ الاتساق الخمس عند هاليداي وحسن (Cohesive Ties)", type: "مفهوم"
 - id: "thk-christian-matthiessen", title: "كريستيان ماتيسن", type: "مفكر"
+- id: "con-system-network-halliday", title: "نسقُ الخيارات عند هاليداي (System Network)", type: "مفهوم"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`) — تيارٌ وظيفيٌّ مستقلٌّ عن التوليدية والبنيوية الأمريكية، وإن استفاد من تراث مدرسة لندن (فيرث)."
   - "**سُدَّ 2026-09-21 (الدفعة 47)**: أُنشئ `thk-jr-firth` (أصلُ مدرسة لندن) و`con-metafunctions-halliday`."
