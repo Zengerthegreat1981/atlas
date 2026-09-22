@@ -24,6 +24,7 @@ related:
 - id: "con-genre-theory-sfl", title: "نظريةُ النوع النصّي في اللسانيات الوظيفية المنهجية (Genre Theory)", type: "مفهوم"
 - id: "con-appraisal-theory-martin", title: "نظريةُ التقييم عند مارتن (Appraisal Theory)", type: "مفهوم"
 - id: "con-transitivity-system-halliday", title: "نظامُ التعدّي وأنماطُ العمليات عند هاليداي (Transitivity System & Process Types)", type: "مفهوم"
+- id: "con-mood-system-halliday", title: "نظامُ الصيغة عند هاليداي (Mood System)", type: "مفهوم"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`) — تيارٌ وظيفيٌّ مستقلٌّ عن التوليدية والبنيوية الأمريكية، وإن استفاد من تراث مدرسة لندن (فيرث)."
   - "**سُدَّ 2026-09-21 (الدفعة 47)**: أُنشئ `thk-jr-firth` (أصلُ مدرسة لندن) و`con-metafunctions-halliday`."

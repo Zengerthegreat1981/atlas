@@ -15,6 +15,7 @@ related:
 - id: "sch-systemic-functional-linguistics", title: "اللسانياتُ الوظيفيةُ المنهجية (Systemic Functional Linguistics)", type: "مدرسة"
 - id: "con-metafunctions-halliday", title: "الوظائفُ الفوقية الثلاث (Metafunctions)", type: "مفهوم"
 - id: "thk-michael-halliday", title: "مايكل هاليداي", type: "مفكر"
+- id: "con-mood-system-halliday", title: "نظامُ الصيغة عند هاليداي (Mood System)", type: "مفهوم"
 gaps: []
 ---
 
