@@ -20,6 +20,7 @@ related:
 - id: "sch-role-and-reference-grammar", title: "النحوُ الوظيفيُّ ونحوُ الدور والمرجع (Functional Grammar & Role and Reference Grammar)", type: "مدرسة"
 - id: "thk-robert-van-valin", title: "روبرت ﭬان ﭬالِن", type: "مفكر"
 - id: "con-macrorole-actor-undergoer-rrg", title: "الدوران الكليّان: الفاعلُ والمتأثِّر (Actor & Undergoer Macroroles)", type: "مفهوم"
+- id: "con-juncture-nexus-clause-combining-rrg", title: "الالتحامُ والنسقُ في تركيب الجمل عند نحو الدور والمرجع (Juncture & Nexus)", type: "مفهوم"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرته؛ الاعتمادُ على مصادره الإنجليزية الأساسية."
 ---
