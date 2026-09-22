@@ -28,6 +28,7 @@ related:
 - id: "con-creole-continuum-decreolization", title: "متصلُ الكريول وإزالةُ الكريولة (Creole Continuum & Decreolization)", type: "مفهوم"
 - id: "con-mixed-languages-bilingual-genesis", title: "اللغاتُ المختلطةُ ونشوؤها الثنائي (Mixed Languages & Bilingual Genesis)", type: "مفهوم"
 - id: "con-substrate-superstrate-hypothesis-creole", title: "فرضيةُ اللغة المِرقاة واللغة الفوقية في نشوء الكريول (Substrate/Superstrate Hypothesis)", type: "مفهوم"
+- id: "stu-tok-pisin-creolization", title: "توك پيسِن: دراسةُ حالةٍ كلاسيكية في نشوء الكريول", type: "دراسة"
 gaps:
   - "لا `belongs_to`: فرعٌ نشأ من ملاحظاتٍ ميدانيةٍ على لغات الاستعمار والتجارة، لا من انحدارٍ نظريٍّ مباشرٍ من مدرسةٍ لسانيةٍ واحدة."
 ---
