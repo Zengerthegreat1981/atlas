@@ -15,6 +15,7 @@ related:
 - id: "sch-peircean-semiotics", title: "السيمياءُ البيرسية (Peircean Semiotics)", type: "مدرسة"
 - id: "thk-umberto-eco", title: "أمبرتو إيكو", type: "مفكر"
 - id: "con-dictionary-encyclopedia-model-eco", title: "نموذجُ القاموس مقابل الموسوعة (Dictionary vs. Encyclopedia Model)", type: "مفهوم"
+- id: "con-firstness-secondness-thirdness-peirce", title: "المقولاتُ الظاهراتيةُ الثلاث عند بيرس: الأوّليةُ والثانويةُ والثالثية", type: "مفهوم"
 gaps: []
 ---
 

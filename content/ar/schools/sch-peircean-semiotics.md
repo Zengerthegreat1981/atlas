@@ -23,6 +23,7 @@ related:
 - id: "thk-charles-morris", title: "تشارلز موريس", type: "مفكر"
 - id: "con-syntax-semantics-pragmatics-trichotomy-morris", title: "ثلاثيةُ التركيب والدلالة والتداول (Syntax/Semantics/Pragmatics Trichotomy)", type: "مفهوم"
 - id: "con-unlimited-semiosis-peirce", title: "السيميوزيسُ غيرُ المحدود عند بيرس (Unlimited Semiosis)", type: "مفهوم"
+- id: "con-firstness-secondness-thirdness-peirce", title: "المقولاتُ الظاهراتيةُ الثلاث عند بيرس: الأوّليةُ والثانويةُ والثالثية", type: "مفهوم"
 gaps:
   - "`thk-peirce` موسومٌ `philosophy` وموجودٌ بالفعل في الأطلس بفلسفته البراغماتية الكاملة؛ رُبط إليه بـ`related` دون تكرار سيرته. هذه العقدةُ تفرد النسقَ السيميائيَّ الذي طوّره بوصفه إطاراً استُعمل لاحقاً في تحليل الأنظمة اللغوية وغير اللغوية."
   - "لا `evolved_from`: السيمياءُ البيرسية نشأت مستقلةً عن السيميولوجيا السوسيرية (كلاهما طُوِّر في العقد نفسه تقريباً دون تواصلٍ مباشر بين الرجلين)، فلم تُقحَم علاقةُ انحدار."
