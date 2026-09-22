@@ -26,11 +26,14 @@ related:
 - id: "con-deep-surface-structure", title: "البنيةُ العميقة والبنيةُ السطحية", type: "مفهوم"
 - id: "dbt-innateness-vs-usage-based-language-acquisition", title: "جدلُ الفطرية اللغوية مقابل الاستعمالية في اكتساب اللغة", type: "جدل"
 - id: "sch-first-language-acquisition", title: "اكتسابُ اللغة الأولى ومراحلُه", type: "مدرسة"
+- id: "sch-government-and-binding-theory", title: "نظريةُ الحاكميةِ والربط (Government and Binding Theory)", type: "مدرسة"
+- id: "sch-minimalist-program", title: "البرنامجُ الأدنويّ (The Minimalist Program)", type: "مدرسة"
+- id: "con-competence-performance-distinction", title: "الكفايةُ مقابل الأداء (Competence & Performance)", type: "مفهوم"
 gaps:
   - "**قرارٌ تحريريٌّ محسوم (DR-014)**: نعوم تشومسكي موسومٌ philosophy في الأطلس (thk-noam-chomsky، مُنشَأٌ أصلاً بوصفه فيلسوفَ لغةٍ وسياسة) ولا يُنشأ له نظيرٌ ثانٍ تحت linguistics. هذه العقدةُ (المدرسة) هي التي تحمل الوسمَ linguistics وتربط إليه بـrelated، لا هو."
   - "لا هذا الملفُّ عقدةٌ جذرية: `evolved_from` إلى البنيوية الأمريكية موثَّقٌ تاريخياً (تشومسكي تتلمذ على زيغ هاريس) لا مخترَع."
-  - "المراحلُ اللاحقة للنظرية (النظريةُ المعيارية، الحاكميةُ والربط، البرنامجُ الأدنوي) موضوعُ عقدٍ `br-` مستقلةٍ لم تُنشأ بعد — تسجيلٌ للفجوة."
-  - "**جدلُ الفطرية اللغوية (Innateness Debate)** بين هذه المدرسة والمدارس الاستعمالية (Usage-Based) لا يُحسَم في هذا الملف؛ سيُوثَّق في عقدةِ `dbt-` مستقلة عند تغطية المدارس الاستعمالية."
+  - "**سُدَّ 2026-09-22 (الدفعة 164)**: المراحلُ اللاحقة للنظرية موجودةٌ بالفعل كمدرستَين مستقلَّتين (`sch-government-and-binding-theory`، `sch-minimalist-program`)، وكلٌّ منهما يحمل `evolved_from` صريحاً يعيد بناء السلسلة التاريخية؛ رُبطتا هنا بـ`related`."
+  - "**جدلُ الفطرية اللغوية (Innateness Debate)** موثَّقٌ بالفعل في `dbt-innateness-vs-usage-based-language-acquisition` (مربوطٌ أعلاه)، ولا يُحسَم في هذا الملف."
 ---
 
 # النحوُ التوليديُّ التحويليّ
