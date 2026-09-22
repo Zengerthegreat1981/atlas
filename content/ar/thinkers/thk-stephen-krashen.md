@@ -19,6 +19,7 @@ edges:
 related:
 - id: "con-critical-period-hypothesis", title: "فرضيةُ الفترة الحرجة لاكتساب اللغة", type: "مفهوم"
 - id: "thk-eric-lenneberg", title: "إريك لينبرغ", type: "مفكر"
+- id: "con-krashen-monitor-model", title: "نموذجُ المُرَاقِب وفرضياتُ كراشن الخمس (Monitor Model)", type: "مفهوم"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لأعمال كراشن الأصلية ضمن مصادر الأطلس؛ الاعتماد على النصوص الإنجليزية الأصلية."
 ---
