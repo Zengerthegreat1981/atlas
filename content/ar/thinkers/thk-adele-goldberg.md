@@ -20,6 +20,7 @@ related:
 - id: "sch-construction-grammar", title: "نحوُ البُنى (Construction Grammar)", type: "مدرسة"
 - id: "thk-charles-fillmore", title: "تشارلز فيلمور", type: "مفكر"
 - id: "thk-brent-berlin-paul-kay", title: "برنت برلين وپول كاي", type: "مفكر"
+- id: "con-argument-structure-constructions-goldberg", title: "بُنى الحجج الإنشائية عند غولدبرغ (Argument Structure Constructions)", type: "مفهوم"
 gaps:
   - "تاريخُ ميلادها ومعطياتُ سيرتها المبكرة غيرُ مثبَتةٍ بمصدرٍ أوّليٍّ محدَّد هنا؛ الاعتمادُ على صفحتها الأكاديمية في جامعة پرينستون ومقدّمات كتبها."
   - "**سُدَّ سابقاً**: `thk-charles-fillmore` موجودٌ بالفعل، وپول كاي موثَّقٌ ضمن `thk-brent-berlin-paul-kay`؛ رُبطا أعلاه دون تكرار."
