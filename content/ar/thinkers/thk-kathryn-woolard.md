@@ -20,6 +20,7 @@ related:
 - id: "sch-language-ideology", title: "الأيديولوجياتُ اللغوية (Language Ideology)", type: "مدرسة"
 - id: "thk-michael-silverstein", title: "مايكل سيلفرستاين", type: "مفكر"
 - id: "con-authenticity-anonymity-woolard", title: "الأصالةُ مقابل التخفّي عند وولارد (Authenticity vs. Anonymity)", type: "مفهوم"
+- id: "thk-bambi-schieffelin", title: "بامبي شيفلين", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرتها؛ الاعتمادُ على مصادرها الإنجليزية الأساسية."
 ---

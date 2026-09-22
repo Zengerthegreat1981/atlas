@@ -29,6 +29,7 @@ related:
 - id: "con-mock-spanish-covert-racism-hill", title: "الإسپانيةُ الهزلية والعنصريةُ المقنَّعة عند هيل (Mock Spanish)", type: "مفهوم"
 - id: "thk-paul-kroskrity", title: "پول كروسكريتي", type: "مفكر"
 - id: "con-multiplicity-language-ideologies-kroskrity", title: "تعدّديةُ الأيديولوجيات اللغوية عند كروسكريتي (Multiplicity of Language Ideologies)", type: "مفهوم"
+- id: "thk-bambi-schieffelin", title: "بامبي شيفلين", type: "مفكر"
 gaps:
   - "لا `belongs_to`: فرعٌ من الأنثروبولوجيا اللغوية نشأ متقاطعاً مع اللسانيات الاجتماعية، لا منحدراً من مدرسةٍ لسانيةٍ نظريةٍ واحدة."
 ---
