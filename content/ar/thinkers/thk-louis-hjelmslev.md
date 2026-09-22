@@ -24,6 +24,7 @@ related:
 - id: "con-empirical-principle-glossematics", title: "المبدأُ التجريبيُّ وثنائيةُ السينيمات والپليريمات عند يلمسليف", type: "مفهوم"
 - id: "con-catalysis-latent-categories-glossematics", title: "التحفيزُ (الكتاليزس) والمقولاتُ الكامنة عند يلمسليف", type: "مفهوم"
 - id: "con-purport-amorphous-continuum-hjelmslev", title: "الجوهرُ الخام (Purport) والمتصلُ اللامتشكِّل عند يلمسليف", type: "مفهوم"
+- id: "wrk-prolegomena-theory-language-hjelmslev", title: "مبادئُ نظرية اللغة (Prolegomena to a Theory of Language)", type: "أثر"
 gaps:
   - "جهازُه المصطلحي الخاص (المحتوى/التعبير، الشكل/الجوهر) معقَّدٌ ومتشعِّب؛ هذا الملفُّ يقدّم مدخلاً عاماً لا شرحاً تقنياً كاملاً لنسقه."
 ---
