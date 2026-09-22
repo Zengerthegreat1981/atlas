@@ -17,9 +17,11 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-bilingualism-cognitive-control", target_type: "مدرسة"
 related:
+- id: "sch-bilingualism-cognitive-control", title: "ثنائيةُ اللغة والدماغُ (Bilingualism & Cognitive Control)", type: "مدرسة"
 - id: "sch-second-language-acquisition", title: "اكتسابُ اللغة الثانيةُ والفترةُ الحرجة (SLA & Critical Period)", type: "مدرسة"
 - id: "thk-david-green", title: "ديفيد غرين", type: "مفكر"
 - id: "con-inhibitory-control-model-bilingualism", title: "نموذجُ التحكّم الكابح عند غرين (Inhibitory Control Model)", type: "مفهوم"
+- id: "con-cognitive-reserve-bilingualism-bialystok", title: "الاحتياطيُّ المعرفيُّ والثنائيةُ اللغوية عند بياليستوك (Cognitive Reserve)", type: "مفهوم"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لأعمال بياليستوك الأصلية ضمن مصادر الأطلس؛ الاعتماد على النصوص الإنجليزية الأصلية."
 ---
