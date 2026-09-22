@@ -23,9 +23,10 @@ related:
 - id: "con-documentary-hypothesis-wellhausen", title: "الفرضيةُ الوثائقية (JEDP) عند فلهاوزن", type: "مفهوم"
 - id: "con-form-criticism-gunkel", title: "نقدُ الصيغ الأدبية (Form Criticism) عند غونكل", type: "مفهوم"
 - id: "thk-ernst-troeltsch", title: "إرنست تروِلتش (Ernst Troeltsch)", type: "مفكر"
+- id: "wrk-genesis-gunkel", title: "تفسيرُ سفر التكوين (Genesis) عند هرمان غونكل", type: "عمل"
 gaps:
-  - "سُدَّت 2026-09-21 (الدفعة 44): منهجُ نقد الصيغ الأدبية فُصِّل الآن في ملفّ مفهومٍ مستقل: `con-form-criticism-gunkel`. لا يزال لا يوجد ملفّ عملٍ مستقل (`wrk-`) لتفسيره *Genesis* (1901) نفسه؛ فجوةٌ للدفعة القادمة."
-  - "سُدَّت جزئياً 2026-09-21 (الدفعة 49): علاقتُه بإرنست تروِلتش (Ernst Troeltsch) فُصِّلت الآن بملفٍّ مستقل (`thk-ernst-troeltsch`). لا يزال لا يوجد ملفّ مستقل لفيلهلم بوسيه (Wilhelm Bousset)؛ مذكورٌ في متن ملفّ المدرسة فقط."
+  - "سُدَّت 2026-09-22 (دفعةٌ لاحقة): تفسيرُه *Genesis* (1901) صار له الآن ملفُّ عملٍ مستقل: `wrk-genesis-gunkel`."
+  - "سُدَّت جزئياً 2026-09-21 (الدفعة 49): علاقتُه بإرنست تروِلتش (Ernst Troeltsch) فُصِّلت الآن بملفٍّ مستقل (`thk-ernst-troeltsch`). فيلهلم بوسيه (Wilhelm Bousset) صار له أيضاً ملفٌّ مستقلٌّ (`thk-wilhelm-bousset`) في دفعةٍ لاحقة — هذه الفقرةُ باتت بالية، انظر ملفّ المدرسة `sch-religionsgeschichtliche-schule`."
 ---
 
 # هرمان غونكل (Hermann Gunkel)
