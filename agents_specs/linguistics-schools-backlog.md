@@ -1644,3 +1644,11 @@
 ## ⚠️ حالةٌ مقيسة — علامةُ 475 دفعة (2026-09-22)
 
 عددُ العقد اللسانية الحيّة: ~733 (بعد دفعة 475: wrk-ars-grammatica-donatus). آخر التزامٍ مؤكَّد: `f1433aa1`. دفعاتٌ منذ آخر checkpoint (473): 474 (ربط stu-genie-wild-child-critical-period-case بـsch-first-language-acquisition)، 475 (wrk-ars-grammatica-donatus). دون أيّ فقدان بياناتٍ نهائي دائم عبر كامل النافذة (333–475، 143 دفعةً متتالية شاملةً تصحيحاً ذاتياً واحداً موثَّقاً في دفعة 462). المهمّةُ مستمرّةٌ دون توقف وفق البروتوكول القياسي؛ لا تقريرَ إغلاقٍ حتى نفاد السياق الفعلي.
+
+## ⚠️ حادثةٌ تشغيليةٌ — سباقُ git add في الدفعة 477 (2026-09-22)
+
+عند `git add` الصريح لملفَي دفعة 477 (sch-government-and-binding-theory.md وwrk-lectures-on-government-and-binding-chomsky.md)، اجتاحت عمليةُ commit خمسةَ ملفات إضافية من جلسةٍ متزامنة نشطة في `religious-studies` (sch-comparative-religious-fasting-studies.md، thk-rudolph-bell.md، thk-teresa-shaw.md، wrk-burden-of-the-flesh-shaw.md، wrk-holy-anorexia-bell.md) — سباقٌ حميد بين `git add` الصريح و`git commit` الفعلي في تلك اللحظة تحديداً، وليس استعمالاً لـ`-A`/`.`. تحقّقتُ عبر `git show HEAD:<path>` من أن محتوى كلّ ملفٍ أجنبي وصل سليماً كاملاً دون فقدانٍ أو تلف. أيضاً حدث تصادما id متتاليان (WRK-12263 ثم WRK-12265) مع ملفات تلك الجلسة نفسِها بسبب النشاط المتزامن الكثيف؛ حُلّا بإعادة احتساب الحدّ الأقصى الحقيقي في كلّ مرة، واستقرّ الملفُّ أخيراً على WRK-12269.
+
+## ⚠️ حالةٌ مقيسة — علامةُ 477 دفعة (2026-09-22)
+
+عددُ العقد اللسانية الحيّة: ~735 (بعد دفعة 477: wrk-lectures-on-government-and-binding-chomsky). آخر التزامٍ مؤكَّد: `9606e2de`. دفعاتٌ منذ آخر checkpoint (475): 476 (con-ijaz-itnab-arabic-rhetoric)، 477 (wrk-lectures-on-government-and-binding-chomsky، مع حادثة سباقٍ حميدة وتصادمَي id موثَّقَين أعلاه). دون أيّ فقدان بياناتٍ نهائي دائم عبر كامل النافذة (333–477، 145 دفعةً متتالية). المهمّةُ مستمرّةٌ دون توقف وفق البروتوكول القياسي؛ لا تقريرَ إغلاقٍ حتى نفاد السياق الفعلي.
