@@ -19,8 +19,11 @@ edges:
 related:
 - id: "sch-arabic-grammatical-tradition", title: "التقليد النحوي واللغوي العربي الكلاسيكي", type: "مدرسة"
 - id: "evt-zunburiyya-debate-sibawayh-kisai", title: "مناظرةُ الزنبورية بين سيبويه والكسائي", type: "حدث تاريخي"
+- id: "thk-al-kisai", title: "الكسائي", type: "مفكر"
+- id: "thk-al-farra", title: "الفرّاء", type: "مفكر"
+- id: "wrk-maani-al-quran-farra", title: "معاني القرآن (الفرّاء)", type: "أثر"
 gaps:
-  - "الكسائي والفرّاء، أبرزُ أعلام مدرسة الكوفة، لم يُفرَدا بعد كمفكرَين مستقلَّين — ثغرةٌ صادقةٌ تُترك لدفعةٍ لاحقة."
+  - "**سُدَّ بالكامل 2026-09-22 (الدفعة 166)**: أُنشئ `thk-al-kisai` و`thk-al-farra` و`wrk-maani-al-quran-farra`."
 ---
 
 # مدرسةُ الكوفة والخلافُ النحويّ
