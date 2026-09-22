@@ -15,8 +15,9 @@ related:
 - id: "sch-conceptual-blending-theory", title: "فضاءاتُ الذهن والمزجُ المفهوميّ (Mental Spaces & Conceptual Blending)", type: "مدرسة"
 - id: "con-four-space-blending-network", title: "شبكةُ المزج الرباعية الفضاءات (Four-Space Blending Network)", type: "مفهوم"
 - id: "thk-george-lakoff", title: "جورج لاكوف", type: "مفكر"
+- id: "thk-rafael-nunez", title: "رافائيل نونييز", type: "مفكر"
 gaps:
-  - "لم يُعثر على عقدةٍ مستقلّةٍ لرافائيل نونييز ضمن الأطلس؛ العقدةُ تُشير إلى عمله المشترك مع لاكوف مباشرةً."
+  - "**سُدَّ 2026-09-22**: أُنشئ `thk-rafael-nunez` ورُبط أعلاه."
 ---
 
 # المزجُ المفهوميُّ في الرياضيات عند لاكوف ونونييز
