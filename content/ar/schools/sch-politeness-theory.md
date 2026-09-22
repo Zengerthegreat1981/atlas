@@ -21,6 +21,8 @@ related:
 - id: "con-speech-acts-performatives", title: "أفعال الكلام والقضايا الإنجازية (Speech Acts & Performatives)", type: "مفهوم"
 - id: "con-honorifics-tv-distinction", title: "صيغُ التبجيل والتمييزُ التائي-الڤائي (Honorifics & the T-V Distinction)", type: "مفهوم"
 - id: "thk-stephen-levinson", title: "ستيفن ليفنسون", type: "مفكر"
+- id: "thk-penelope-brown", title: "پنلوپي براون", type: "مفكر"
+- id: "thk-yoshiko-matsumoto", title: "يوشيكو ماتسوموتو", type: "مفكر"
 gaps:
   - "`con-speech-acts-performatives` موسومٌ ضمن نطاق فلسفة اللغة أساساً؛ رُبط إليه بـ`related` بوصف نظرية التأدّب تستعمل مفهوم فعل الكلام أداةً تحليلية دون تكرار شرحه الفلسفي الكامل."
 ---
