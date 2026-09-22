@@ -16,6 +16,7 @@ related:
 - id: "thk-tove-skutnabb-kangas", title: "توڤي سكوتناب-كانغاس", type: "مفكر"
 - id: "thk-robert-phillipson", title: "روبرت فيليبسون", type: "مفكر"
 - id: "sch-language-policy-endangerment", title: "السياسةُ اللغويةُ وموتُ اللغات وإحياؤها (Language Policy & Endangerment)", type: "مدرسة"
+- id: "con-linguicism-skutnabb-kangas", title: "اللغوياتيةُ عند سكوتناب-كانغاس (Linguicism)", type: "مفهوم"
 gaps:
   - "حيادٌ صريحٌ محفوظ إزاء التطبيقات السياسية المحدَّدة لهذا الإطار في سياقاتٍ وطنيةٍ بعينها؛ الملفُّ يعرض الإطارَ الأكاديمي العام دون ترجيح سياسات لغويةٍ وطنيةٍ محدَّدة."
 ---

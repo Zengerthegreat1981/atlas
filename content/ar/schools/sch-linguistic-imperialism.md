@@ -26,6 +26,7 @@ related:
 - id: "thk-ofelia-garcia", title: "أوفيليا غارسيا", type: "مفكر"
 - id: "con-translanguaging-garcia", title: "التلغُّةُ المتداخلة عند غارسيا (Translanguaging)", type: "مفهوم"
 - id: "con-language-as-local-practice-pennycook", title: "اللغةُ ممارسةً محلّية عند بينيكوك (Language as Local Practice)", type: "مفهوم"
+- id: "con-linguicism-skutnabb-kangas", title: "اللغوياتيةُ عند سكوتناب-كانغاس (Linguicism)", type: "مفهوم"
 gaps: []
 ---
 

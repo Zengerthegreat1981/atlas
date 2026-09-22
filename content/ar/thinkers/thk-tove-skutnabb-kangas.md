@@ -21,6 +21,7 @@ related:
 - id: "thk-robert-phillipson", title: "روبرت فيليبسون", type: "مفكر"
 - id: "con-linguistic-human-rights", title: "الحقوقُ اللغويةُ الإنسانية (Linguistic Human Rights)", type: "مفهوم"
 - id: "sch-language-policy-endangerment", title: "السياسةُ اللغويةُ وموتُ اللغات وإحياؤها (Language Policy & Endangerment)", type: "مدرسة"
+- id: "con-linguicism-skutnabb-kangas", title: "اللغوياتيةُ عند سكوتناب-كانغاس (Linguicism)", type: "مفهوم"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرتها؛ الاعتمادُ على مصادرها الإنجليزية الأساسية."
 ---
