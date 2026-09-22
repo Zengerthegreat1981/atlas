@@ -29,6 +29,7 @@ related:
 - id: "con-constraint-based-lexicalist-model-macdonald", title: "النموذجُ المقيَّدُ المعجميُّ التفاعلي (Constraint-Based Lexicalist Model)", type: "مفهوم"
 - id: "con-good-enough-processing-ferreira", title: "معالجةُ «الكفاية التقريبية» عند فيريرا (Good-Enough Processing)", type: "مفهوم"
 - id: "con-visual-world-paradigm-tanenhaus", title: "نموذجُ العالم البصري عند تاننهاوس (Visual World Paradigm)", type: "مفهوم"
+- id: "thk-maryellen-macdonald", title: "ماريلين ماكدونالد", type: "مفكر"
 gaps:
   - "لا `belongs_to`: فرعٌ تجريبيٌّ يختبر تنبّؤات النظريات النحوية زمنياً، لكنه لا ينحدر تاريخياً من مدرسةٍ نظريةٍ واحدة."
 ---

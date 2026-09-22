@@ -14,6 +14,7 @@ edges:
 related:
 - id: "sch-sentence-processing-psycholinguistics", title: "علمُ اللغة النفسيُّ ومعالجةُ الجملة (Sentence Processing)", type: "مدرسة"
 - id: "con-garden-path-minimal-attachment-frazier", title: "جملُ المسار المُضلِّل ومبدآ الإلحاق الأدنى والإغلاق المتأخّر عند فريزير", type: "مفهوم"
+- id: "thk-maryellen-macdonald", title: "ماريلين ماكدونالد", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بهذا النموذج ضمن مصادر الأطلس؛ الاعتمادُ على المصدر الإنجليزي الأساسي (MacDonald, Pearlmutter & Seidenberg 1994)."
 ---
