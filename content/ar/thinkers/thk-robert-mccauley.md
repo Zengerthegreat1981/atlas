@@ -22,8 +22,9 @@ related:
 - id: "thk-harvey-whitehouse", title: "هارڤي وايتهاوس (Harvey Whitehouse)", type: "مفكر"
 - id: "con-modes-of-religiosity-theory-whitehouse", title: "نظريةُ أنماط التديُّن (Modes of Religiosity): العقائديّ مقابل الصوريّ", type: "مفهوم"
 - id: "dbt-ritual-competence-vs-modes-of-religiosity", title: "جدلُ نظرية الكفاءة الطقسية مقابل أنماط التديُّن (مكولي ولوسون في مقابل وايتهاوس)", type: "جدل"
+- id: "thk-e-thomas-lawson", title: "إي. توماس لوسون (E. Thomas Lawson)", type: "مفكر"
 gaps:
-  - "إي. توماس لوسون (E. Thomas Lawson)، شريكُه في تأليف نظرية الكفاءة الطقسية، ذُكر هنا اسماً دون ملفٍّ مستقل؛ فجوةٌ موثَّقة."
+  - "فجوةُ لوسون سُدَّت: انظر `thk-e-thomas-lawson`."
 ---
 
 # روبرت ن. مكولي (Robert N. McCauley)
