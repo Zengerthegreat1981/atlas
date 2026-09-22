@@ -14,7 +14,9 @@ edges:
 related:
 - id: "thk-edward-tylor", title: "إدوارد بيرنت تايلور (Edward Burnett Tylor)", type: "مفكر"
 - id: "wrk-primitive-culture-tylor", title: "الثقافة البدائية (Primitive Culture)", type: "عمل / كتاب"
-gaps: []
+- id: "thk-max-muller", title: "فريدريش ماكس مولر (Friedrich Max Müller)", type: "مفكر"
+gaps:
+  - "أُضيف 2026-09-22 رابطٌ إلى `thk-max-muller`: الإحيائيةُ التايلورية هي التفسيرُ المنافس الذي حلَّ تاريخياً محلَّ نظرية مولر في 'مرض اللغة/الأسطورة الشمسية' في تفسير أصل الدين (انظر `con-disease-of-language-muller`)."
 ---
 # الإحيائية عند تايلور (Animism)
 
