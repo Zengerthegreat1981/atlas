@@ -19,6 +19,7 @@ related:
 - id: "thk-ferdinand-de-saussure", title: "فرديناند دي سوسور", type: "مفكر"
 - id: "sch-saussurean-structuralism", title: "البنيويةُ السوسيرية (Saussurean Structuralism)", type: "مدرسة"
 - id: "con-signifier-signified", title: "الدالُّ والمدلول", type: "مفهوم"
+- id: "dia-jurjani-nazm-saussure-valeur-comparison", title: "الجرجانيُّ وسوسور: النظمُ مقابل القيمة التفاضلية", type: "حوار مع مدرسة مجاورة"
 gaps: []
 ---
 
