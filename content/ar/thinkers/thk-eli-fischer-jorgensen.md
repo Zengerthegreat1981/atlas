@@ -19,6 +19,7 @@ edges:
 related:
 - id: "sch-copenhagen-glossematics", title: "حلقةُ كوبنهاغن واللسانياتُ الصورية (Glossematics)", type: "مدرسة"
 - id: "thk-louis-hjelmslev", title: "لويس يلمسليف", type: "مفكر"
+- id: "wrk-trends-in-phonological-theory-fischer-jorgensen", title: "اتجاهاتٌ في النظرية الفونولوجية: مدخلٌ تاريخي (Trends in Phonological Theory)", type: "أثر"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ متخصّصةٍ بأعمالها ضمن مصادر الأطلس؛ الاعتماد على مصادرها الإنجليزية والدنماركية الأساسية."
 ---
