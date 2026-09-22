@@ -15,6 +15,7 @@ related:
 - id: "sch-contact-linguistics-creole", title: "التماسُّ اللغويُّ والكريول والبِجن (Contact Linguistics)", type: "مدرسة"
 - id: "thk-salikoko-mufwene", title: "سليكوكو مفوين", type: "مفكر"
 - id: "con-language-bioprogram-hypothesis", title: "فرضيةُ البرنامج اللغوي الحيوي (Language Bioprogram Hypothesis)", type: "مفهوم"
+- id: "con-founder-principle-mufwene", title: "مبدأُ المؤسِّس عند مفوين (The Founder Principle)", type: "مفهوم"
 gaps: []
 ---
 

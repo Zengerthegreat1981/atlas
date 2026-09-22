@@ -21,6 +21,7 @@ related:
 - id: "thk-derek-bickerton", title: "ديريك بيكرتون", type: "مفكر"
 - id: "con-language-bioprogram-hypothesis", title: "فرضيةُ البرنامج اللغوي الحيوي (Language Bioprogram Hypothesis)", type: "مفهوم"
 - id: "con-feature-pool-ecology-mufwene", title: "مجمعُ السمات والمقاربةُ البيئية-التطوّرية عند مفوين (Feature Pool & Language Ecology)", type: "مفهوم"
+- id: "con-founder-principle-mufwene", title: "مبدأُ المؤسِّس عند مفوين (The Founder Principle)", type: "مفهوم"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرته؛ الاعتمادُ على مصادره الإنجليزية الأساسية."
 ---
