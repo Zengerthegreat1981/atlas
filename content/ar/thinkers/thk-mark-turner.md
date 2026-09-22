@@ -18,6 +18,7 @@ edges:
 - rel: "belongs_to", target: "sch-conceptual-blending-theory", target_type: "مدرسة"
 related:
 - id: "thk-gilles-fauconnier", title: "جيل فوكونييه", type: "مفكر"
+- id: "con-compression-vital-relations-blending", title: "الضغطُ والعلاقاتُ الحيوية في المزج المفهومي (Compression & Vital Relations)", type: "مفهوم"
 gaps: []
 ---
 

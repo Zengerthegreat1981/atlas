@@ -22,6 +22,7 @@ related:
 - id: "con-conceptual-metaphor-theory", title: "نظريةُ الاستعارة المفهومية", type: "مفهوم"
 - id: "con-mental-spaces-fauconnier", title: "فضاءاتُ الذهن (Mental Spaces)", type: "مفهوم"
 - id: "con-four-space-blending-network", title: "شبكةُ المزج الرباعية الفضاءات (Four-Space Blending Network)", type: "مفهوم"
+- id: "con-compression-vital-relations-blending", title: "الضغطُ والعلاقاتُ الحيوية في المزج المفهومي (Compression & Vital Relations)", type: "مفهوم"
 gaps: []
 ---
 
