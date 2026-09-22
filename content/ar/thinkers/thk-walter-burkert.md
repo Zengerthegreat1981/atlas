@@ -19,6 +19,7 @@ edges:
 related:
 - id: "wrk-homo-necans-burkert", title: "هومو نيكانس: تأويلاتٌ في طقوس القربان والأساطير الإغريقية القديمة (Homo Necans)", type: "عمل / كتاب"
 - id: "wrk-greek-religion-burkert", title: "الدينُ اليونانيّ: العصران الأركائيّ والكلاسيكيّ (Griechische Religion der archaischen und klassischen Epoche)", type: "عمل / كتاب"
+- id: "wrk-creation-of-the-sacred-burkert", title: "خلقُ المقدَّس: آثارُ البيولوجيا في الأديان المبكِّرة (Creation of the Sacred: Tracks of Biology in Early Religions)", type: "عمل / كتاب"
 - id: "sch-ritual-theory-religious-studies", title: "نظرياتُ الطقس في علم الأديان المقارن: من روبرتسون سميث إلى هوبير وموس", type: "مدرسة"
 - id: "con-sacrifice-theory-hubert-mauss", title: "نظريةُ القربان عند هوبير وموس (Sacrifice: Its Nature and Function)", type: "مفهوم"
 - id: "thk-rene-girard", title: "رينيه جيرار", type: "مفكر"
@@ -27,7 +28,8 @@ related:
 - id: "crt-jonathan-z-smith-critique-girard-scapegoat-mechanism", title: "نقدُ جوناثان ز. سميث لآلية كبش الفداء عند جيرار (تدجينُ القربان)", type: "نقد خارجي موثَّق"
 gaps:
   - "سُدَّت 2026-09-22: كان بيركرت موثَّقاً فجوةً صريحة في ملفَّي `sch-mimetic-theory-violence-sacred-religion` و`crt-jonathan-z-smith-critique-girard-scapegoat-mechanism` بوصفه الطرفَ الثالثَ الغائب في مناظرة ستانفورد 1983 (منشورة في *Violent Origins*، 1987)؛ سُدَّت الآن بملفّه المستقل هذا وبملفّ عمله المحوريّ `wrk-homo-necans-burkert`."
-  - "سُدَّت 2026-09-22: أُضيف ملفٌّ مستقل لكتابه *Greek Religion* (`wrk-greek-religion-burkert`، Griechische Religion der archaischen und klassischen Epoche, 1977; ترجمة إنجليزية 1985). ولا يزال أطروحته الأشمل في *Creation of the Sacred* (1996) عن الأصل البيولوجي-التطوّري للسلوك الدينيّ عموماً دون ملفٍّ مستقل؛ فجوةٌ متبقّية."
+  - "سُدَّت 2026-09-22: أُضيف ملفٌّ مستقل لكتابه *Greek Religion* (`wrk-greek-religion-burkert`، Griechische Religion der archaischen und klassischen Epoche, 1977; ترجمة إنجليزية 1985)."
+  - "سُدَّت 2026-09-22 (دفعةٌ لاحقة): أُضيف ملفٌّ مستقل لأطروحته الأشمل *Creation of the Sacred* (1996) عن الأصل البيولوجي-التطوّري للسلوك الدينيّ عموماً: `wrk-creation-of-the-sacred-burkert`."
   - "لا يوجد ملفٌّ مستقل لمناظرة ستانفورد 1983 (*Violent Origins*، بتحرير هامرتون-كيلي) بوصفها حدثاً/عملاً جماعياً؛ استُشهد بها هنا وفي ملفَّي جيرار وسميث دون إفراد ملفٍّ لها لأنها محاضرُ مناظرةٍ ثلاثية لا تأليفٌ فرديّ."
   - "نقدُ سميث المباشر لبيركرت (الموازي لنقده لجيرار في المناظرة نفسها، والذي يتّهم فيه أيضاً بيركرت بالانتقاء من مصادرَ أدبية-أسطورية) لم يُفصَّل بعدُ في ملفٍّ مستقل؛ الملفُّ الحاليّ `crt-jonathan-z-smith-critique-girard-scapegoat-mechanism` يركّز على جيرار وحده."
 ---
