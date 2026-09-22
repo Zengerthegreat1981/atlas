@@ -23,6 +23,7 @@ related:
 - id: "thk-justin-barrett", title: "جستن بارت", type: "مفكر"
 - id: "thk-scott-atran", title: "سكوت أتران", type: "مفكر"
 - id: "thk-harvey-whitehouse", title: "هارڤي وايتهاوس (Harvey Whitehouse)", type: "مفكر"
+- id: "stu-cognitive-templates-boyer-ramble-2001", title: "دراسةُ بوييه ورامبل (2001): قوالبُ معرفيةٌ للمفاهيم الدينية — شاهدٌ عبرَ ثقافيّ", type: "دراسة وبحث"
 gaps:
   - "سيرتُه الأكاديمية المفصّلة (مؤسّسات، إشرافٌ، جوائز) غير مثبّتةٍ بمصدرٍ ثانويٍّ محقَّق في هذه الدفعة؛ اقتُصر على ما توثّقه أعماله المنشورة."
 ---
