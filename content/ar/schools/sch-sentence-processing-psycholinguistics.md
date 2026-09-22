@@ -27,6 +27,7 @@ related:
 - id: "con-garden-path-minimal-attachment-frazier", title: "جملُ المسار المُضلِّل ومبدآ الإلحاق الأدنى والإغلاق المتأخّر عند فريزير", type: "مفهوم"
 - id: "con-levelt-speech-production-model", title: "نموذجُ إنتاج الكلام عند ليڤلت: من المقصود إلى المنطوق", type: "مفهوم"
 - id: "con-constraint-based-lexicalist-model-macdonald", title: "النموذجُ المقيَّدُ المعجميُّ التفاعلي (Constraint-Based Lexicalist Model)", type: "مفهوم"
+- id: "con-good-enough-processing-ferreira", title: "معالجةُ «الكفاية التقريبية» عند فيريرا (Good-Enough Processing)", type: "مفهوم"
 gaps:
   - "لا `belongs_to`: فرعٌ تجريبيٌّ يختبر تنبّؤات النظريات النحوية زمنياً، لكنه لا ينحدر تاريخياً من مدرسةٍ نظريةٍ واحدة."
 ---

@@ -15,6 +15,7 @@ related:
 - id: "sch-sentence-processing-psycholinguistics", title: "علمُ اللغة النفسيُّ ومعالجةُ الجملة (Sentence Processing)", type: "مدرسة"
 - id: "thk-lyn-frazier", title: "لين فريزير", type: "مفكر"
 - id: "con-constraint-based-lexicalist-model-macdonald", title: "النموذجُ المقيَّدُ المعجميُّ التفاعلي (Constraint-Based Lexicalist Model)", type: "مفهوم"
+- id: "con-good-enough-processing-ferreira", title: "معالجةُ «الكفاية التقريبية» عند فيريرا (Good-Enough Processing)", type: "مفهوم"
 gaps: []
 ---
 
