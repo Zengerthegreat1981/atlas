@@ -23,6 +23,7 @@ related:
 - id: "thk-james-beckford", title: "جيمس بكفورد", type: "مفكر"
 - id: "thk-thomas-robbins", title: "توماس روبنز (Thomas Robbins)", type: "مفكر"
 - id: "wrk-making-of-a-moonie-barker", title: "صناعةُ عضو مووني: اختيارٌ أم غسيلُ دماغ؟", type: "عمل"
+- id: "wrk-new-religious-movements-practical-introduction-barker", title: "الحركاتُ الدينية الجديدة: مدخلٌ عملي", type: "عمل"
 gaps:
   - "تأسيسها منظمة INFORM (Information Network Focus on Religious Movements) سنة 1988 بدعمٍ من الكنيسة الأنجليكانية والحكومة البريطانية موثَّقٌ إجمالاً؛ تفاصيل تمويلها ونشاطها المؤسّسي الحالي تحتاج مصدراً محدَّثاً أحدث وقت الكتابة."
 ---
