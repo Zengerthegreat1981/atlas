@@ -21,9 +21,10 @@ related:
 - id: "sch-phenomenology-of-religion-otto-eliade", title: "الظاهراتيةُ الدينية: أوتو وإلياده وأثرُهما", type: "مدرسة"
 - id: "thk-lindsay-jones", title: "ليندساي جونز", type: "مفكر"
 - id: "wrk-hermeneutics-of-sacred-architecture-jones", title: "The Hermeneutics of Sacred Architecture: Experience, Interpretation, Comparison", type: "عمل / كتاب"
+- id: "thk-thomas-barrie", title: "توماس باري (Thomas Barrie)", type: "مفكر"
 gaps:
   - "الحقلُ يتقاطع أيضاً مع تاريخ العمارة كتخصّصٍ مستقل (فينسنت سكलي ودراساتُه عن المعابد اليونانية، وسبيرو كوستوف)؛ هذه الأسماءُ لم تُفرَد لها عقدٌ هنا لأن مشروعها الرئيسَ تاريخُ عمارةٍ عام لا مقارنةً دينيةً بالضرورة — فجوةٌ موثَّقةٌ عمداً لا خطأ."
-  - "توماس باري (Thomas Barrie) ومؤلَّفُه *Spiritual Path, Sacred Place: Myth, Ritual, and Meaning in Architecture* (1996، تحقّقتُ منه عبر Open Library: عنوانٌ مطابقٌ لمؤلِّفٍ واحد، سنة النشر الأولى 1996) مصدرٌ ثانٍ للحقل لكنه بلا عقدةٍ مستقلة بعد — يذكر فقط في قسم المصادر أدناه، لا في `related`، تفادياً لإسنادٍ لعقدةٍ غيرِ موجودة."
+  - "تحديثٌ (دفعةٌ لاحقة): أُنشئت عقدةٌ مستقلةٌ لتوماس باري (`thk-thomas-barrie`) وعقدةٌ لكتابه (`wrk-spiritual-path-sacred-place-barrie`)؛ العلاقةُ مثبَّتةٌ الآن في `related` أعلاه بدلاً من الاكتفاء بذكره في قسم المصادر فقط."
   - "لم تُغطَّ بعد فروعُ الحقل الجغرافية المتخصّصة (عمارة المعابد الهندوسية عند ستيلا كرامريش، عمارة الكاتدرائيات القوطية عند أرڤن پانوفسكي) — كلٌّ منها يستحقُّ دفعةً مستقلة لاحقاً."
 ---
 
@@ -44,4 +45,4 @@ gaps:
 ## المصادر
 
 - Jones, Lindsay. *The Hermeneutics of Sacred Architecture: Experience, Interpretation, Comparison*, Vol. 1: *Monumental Occasions*. Cambridge, MA: Harvard University Press, 2000. (تحقَّقتُ عبر Open Library: `/works/OL2906402W`.)
-- Barrie, Thomas. *Spiritual Path, Sacred Place: Myth, Ritual, and Meaning in Architecture*. Boston: Shambhala, 1996. (تحقَّقتُ عبر Open Library: `/works/OL2953911W`؛ مصدرٌ ثانٍ للحقل دون عقدةٍ مستقلة بعد، انظر `gaps`.)
+- Barrie, Thomas. *Spiritual Path, Sacred Place: Myth, Ritual, and Meaning in Architecture*. Boston: Shambhala, 1996. (تحقَّقتُ عبر Open Library: `/works/OL2953911W`؛ له الآن عقدةٌ مستقلة، انظر `thk-thomas-barrie` و`wrk-spiritual-path-sacred-place-barrie`.)
