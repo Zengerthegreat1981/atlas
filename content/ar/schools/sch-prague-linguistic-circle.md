@@ -29,6 +29,7 @@ related:
 - id: "con-jakobson-communication-functions", title: "وظائفُ اللغة الستّ عند ياكوبسون", type: "مفهوم"
 - id: "thk-josef-vachek", title: "يوزف ڤاخِك", type: "مفكر"
 - id: "wrk-grundzuge-der-phonologie-trubetzkoy", title: "أسسُ الصواتة (Grundzüge der Phonologie)", type: "أثر"
+- id: "wrk-theses-1929-prague-circle", title: "أطروحاتُ 1929 (Théses de 1929)", type: "أثر"
 gaps: []
 ---
 

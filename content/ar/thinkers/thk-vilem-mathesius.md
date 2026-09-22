@@ -18,8 +18,10 @@ active_source: "lifespan"
 edges:
 - rel: "belongs_to", target: "sch-prague-linguistic-circle", target_type: "مدرسة"
 related:
+- id: "sch-prague-linguistic-circle", title: "حلقةُ براغ اللسانية (Prague Linguistic Circle)", type: "مدرسة"
 - id: "con-functional-sentence-perspective", title: "التقطيعُ الوظيفيُّ للجملة (Functional Sentence Perspective)", type: "مفهوم"
 - id: "con-syntagmatic-paradigmatic-axes", title: "المحورانِ التركيبيُّ والاستبداليّ (Syntagmatic & Paradigmatic Axes)", type: "مفهوم"
+- id: "wrk-theses-1929-prague-circle", title: "أطروحاتُ 1929 (Théses de 1929)", type: "أثر"
 gaps: []
 ---
 
