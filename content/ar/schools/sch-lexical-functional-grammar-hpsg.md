@@ -28,6 +28,7 @@ related:
 - id: "con-lexical-mapping-theory-bresnan", title: "نظريةُ الترميم المعجمي عند برسنان (Lexical Mapping Theory)", type: "مفهوم"
 - id: "con-sign-based-construction-grammar-sag", title: "نحوُ البُنى القائمُ على العلامة عند ساغ (Sign-Based Construction Grammar)", type: "مفهوم"
 - id: "con-glue-semantics-lfg", title: "دلالةُ الغراء في النحو المعجمي الوظيفي (Glue Semantics)", type: "مفهوم"
+- id: "con-functional-uncertainty-lfg", title: "عدمُ اليقين الوظيفي في النحو المعجمي الوظيفي (Functional Uncertainty)", type: "مفهوم"
 gaps: []
 ---
 

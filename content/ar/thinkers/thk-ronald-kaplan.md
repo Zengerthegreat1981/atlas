@@ -20,6 +20,7 @@ related:
 - id: "sch-lexical-functional-grammar-hpsg", title: "النحوُ التوليديُّ المعجميُّ الوظيفيّ وHPSG (Lexical-Functional Grammar & HPSG)", type: "مدرسة"
 - id: "thk-joan-bresnan", title: "جوان برسنان", type: "مفكر"
 - id: "con-unification-grammar-formalism", title: "التوحيدُ بوصفه آليةً حسابية نحوية (Unification-Based Grammar)", type: "مفهوم"
+- id: "con-functional-uncertainty-lfg", title: "عدمُ اليقين الوظيفي في النحو المعجمي الوظيفي (Functional Uncertainty)", type: "مفهوم"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرته؛ الاعتمادُ على مصادره الإنجليزية الأساسية."
 ---
