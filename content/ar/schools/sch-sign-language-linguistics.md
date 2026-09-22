@@ -22,6 +22,8 @@ related:
 - id: "thk-ursula-bellugi", title: "أورسولا بيلوجي", type: "مفكر"
 - id: "stu-nicaraguan-sign-language-emergence-senghas", title: "نشوءُ لغة الإشارة النيكاراغوية: دراساتُ آن سنغاس", type: "دراسة"
 - id: "con-babbling-phonological-development", title: "المناغاةُ والنموُّ الصوتي عند الرضيع (Babbling & Phonological Development)", type: "مفهوم"
+- id: "con-cherology-sign-parameters-stokoe", title: "الكيرولوجيا ومعاملاتُ الإشارة عند ستوكو (Cherology & Sign Parameters)", type: "مفهوم"
+- id: "thk-wendy-sandler", title: "ويندي ساندلر", type: "مفكر"
 gaps: []
 ---
 

@@ -19,6 +19,8 @@ edges:
 - rel: "belongs_to", target: "sch-sign-language-linguistics", target_type: "مدرسة"
 related:
 - id: "con-broca-wernicke-lichtheim-model", title: "نموذجُ بروكا-فيرنيكه-ليختهايم", type: "مفهوم"
+- id: "con-cherology-sign-parameters-stokoe", title: "الكيرولوجيا ومعاملاتُ الإشارة عند ستوكو (Cherology & Sign Parameters)", type: "مفهوم"
+- id: "thk-wendy-sandler", title: "ويندي ساندلر", type: "مفكر"
 gaps: []
 ---
 
