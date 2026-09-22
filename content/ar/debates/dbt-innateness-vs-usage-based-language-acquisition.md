@@ -14,10 +14,11 @@ edges:
 related:
 - id: "sch-generative-grammar", title: "النحوُ التوليديُّ التحويليّ (Generative-Transformational Grammar)", type: "مدرسة"
 - id: "sch-first-language-acquisition", title: "اكتسابُ اللغة الأولى ومراحلُه", type: "مدرسة"
+- id: "crt-piraha-recursion-challenge-universal-grammar", title: "تحدّي پيراها للعودية الكلّية (Pirahã Challenge to Universal Recursion)", type: "نقد خارجي موثَّق"
+- id: "wrk-constructing-a-language-tomasello", title: "بناءُ لغة: نظريةٌ استعمالية لاكتساب اللغة (Constructing a Language)", type: "أثر"
 gaps:
   - "**حياد إلزامي (توجيهاتُ المهمّة)**: هذا الملفُّ لا يعرض أحدَ الطرفين منتصراً. الجدلُ ما زال مفتوحاً أكاديمياً حتى تاريخ كتابة هذا الملف."
-  - "مسألةُ لغة بيراها (Pirahã) عند دانيال إيفريت، والردودُ عليها (Nevins، Pesetsky، Rodrigues 2009)، خاصّةٌ داخل هذا الجدل ولم تُحسَم؛ لم تُفرَد بملفٍّ مستقل بعد لعدم القدرة على تلخيصها بحيادٍ كافٍ في هذه الدفعة — تسجيلٌ للفجوة عمداً بدل الجزم المتسرّع."
-  - "موقفُ مايكل توماسيلو الاستعمالي التفصيلي (كتابه *Constructing a Language*، 2003) لم يُفرَد بملفِّ مفكرٍ مستقل بعد."
+  - "**سُدَّ بالكامل 2026-09-22 (الدفعة 186)**: مسألةُ لغة پيراها موثَّقةٌ بالفعل في `crt-piraha-recursion-challenge-universal-grammar`؛ وأُنشئ `wrk-constructing-a-language-tomasello` لتفصيل موقفه الاستعمالي."
 ---
 
 # جدلُ الفطرية اللغوية مقابل الاستعمالية في اكتساب اللغة

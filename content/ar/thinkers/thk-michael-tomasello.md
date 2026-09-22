@@ -19,6 +19,7 @@ edges:
 related:
 - id: "dbt-innateness-vs-usage-based-language-acquisition", title: "جدلُ الفطرية اللغوية مقابل الاستعمالية في اكتساب اللغة", type: "جدل"
 - id: "sch-second-language-acquisition", title: "اكتسابُ اللغة الثانيةُ والفترةُ الحرجة (SLA & Critical Period)", type: "مدرسة"
+- id: "wrk-constructing-a-language-tomasello", title: "بناءُ لغة: نظريةٌ استعمالية لاكتساب اللغة (Constructing a Language)", type: "أثر"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لأعمال توماسيلو الأصلية ضمن مصادر الأطلس؛ الاعتماد على النصوص الإنجليزية الأصلية."
 ---
