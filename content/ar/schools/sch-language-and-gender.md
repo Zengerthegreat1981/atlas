@@ -23,6 +23,7 @@ related:
 - id: "con-communities-of-practice-sociolinguistics", title: "جماعاتُ الممارسة في اللسانيات الاجتماعية (Communities of Practice)", type: "مفهوم"
 - id: "wrk-language-womans-place-lakoff", title: "Language and Woman's Place", type: "أثر"
 - id: "thk-sally-mcconnell-ginet", title: "سالي مكونل-جينيت", type: "مفكر"
+- id: "con-identity-performativity-bucholtz-hall", title: "الهويةُ العلائقيةُ الناشئة عند بوخولتس وهول (Identity as Relational & Emergent)", type: "مفهوم"
 gaps: []
 ---
 

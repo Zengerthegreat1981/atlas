@@ -21,6 +21,7 @@ related:
 - id: "thk-deborah-tannen", title: "ديبورا تانن", type: "مفكر"
 - id: "sch-variationist-sociolinguistics", title: "اللسانياتُ الاجتماعيةُ المتغيّرية (Labovian Variationist Sociolinguistics)", type: "مدرسة"
 - id: "thk-sally-mcconnell-ginet", title: "سالي مكونل-جينيت", type: "مفكر"
+- id: "con-identity-performativity-bucholtz-hall", title: "الهويةُ العلائقيةُ الناشئة عند بوخولتس وهول (Identity as Relational & Emergent)", type: "مفهوم"
 gaps: []
 ---
 
