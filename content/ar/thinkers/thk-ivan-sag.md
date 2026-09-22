@@ -19,7 +19,11 @@ edges:
 - rel: "belongs_to", target: "sch-lexical-functional-grammar-hpsg", target_type: "مدرسة"
 related:
 - id: "thk-joan-bresnan", title: "جوان برسنان", type: "مفكر"
-gaps: []
+- id: "sch-lexical-functional-grammar-hpsg", title: "النحوُ التوليديُّ المعجميُّ الوظيفيّ وHPSG (Lexical-Functional Grammar & HPSG)", type: "مدرسة"
+- id: "thk-carl-pollard", title: "كارل بولارد", type: "مفكر"
+- id: "con-type-hierarchy-hpsg", title: "هرميةُ الأنماط والعلامةُ الموحَّدة في HPSG (Type Hierarchy & Sign)", type: "مفهوم"
+gaps:
+  - "**سُدَّ 2026-09-22 (الدفعة 274)**: أُضيف رابطُ `sch-lexical-functional-grammar-hpsg` الناقص رغم كونه شريكَ التأسيس لـHPSG."
 ---
 
 # إيفان ساغ

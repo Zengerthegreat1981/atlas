@@ -24,6 +24,7 @@ related:
 - id: "con-argument-structure-lexicon", title: "بنيةُ الحجج المعجمية (Argument Structure)", type: "مفهوم"
 - id: "con-unification-grammar-formalism", title: "التوحيدُ بوصفه آليةً حسابية نحوية (Unification-Based Grammar)", type: "مفهوم"
 - id: "thk-ronald-kaplan", title: "رونالد كابلان", type: "مفكر"
+- id: "con-type-hierarchy-hpsg", title: "هرميةُ الأنماط والعلامةُ الموحَّدة في HPSG (Type Hierarchy & Sign)", type: "مفهوم"
 gaps: []
 ---
 

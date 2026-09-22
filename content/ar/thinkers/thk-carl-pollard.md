@@ -20,6 +20,7 @@ related:
 - id: "sch-lexical-functional-grammar-hpsg", title: "النحوُ التوليديُّ المعجميُّ الوظيفيّ وHPSG (Lexical-Functional Grammar & HPSG)", type: "مدرسة"
 - id: "thk-ivan-sag", title: "إيفان ساغ", type: "مفكر"
 - id: "con-argument-structure-lexicon", title: "بنيةُ الحجج المعجمية (Argument Structure)", type: "مفهوم"
+- id: "con-type-hierarchy-hpsg", title: "هرميةُ الأنماط والعلامةُ الموحَّدة في HPSG (Type Hierarchy & Sign)", type: "مفهوم"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرته؛ الاعتمادُ على مصادره الإنجليزية الأساسية."
 ---
