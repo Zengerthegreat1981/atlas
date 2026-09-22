@@ -16,6 +16,7 @@ related:
 - id: "thk-thomas-sebeok", title: "توماس سيبيوك", type: "مفكر"
 - id: "con-semiosphere-lotman", title: "الغلافُ السيميائي (Semiosphere)", type: "مفهوم"
 - id: "sch-language-evolution", title: "أصلُ اللغة وتطوّرها (Language Evolution)", type: "مدرسة"
+- id: "con-endosemiotics-sebeok", title: "السيمياءُ الباطنية عند سيبيوك (Endosemiotics)", type: "مفهوم"
 gaps: []
 ---
 
