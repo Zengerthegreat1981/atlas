@@ -21,6 +21,7 @@ related:
 - id: "thk-william-stokoe", title: "وليام ستوكو", type: "مفكر"
 - id: "sch-language-evolution", title: "أصلُ اللغة وتطوّرها (Language Evolution)", type: "مدرسة"
 - id: "con-poverty-of-the-stimulus-universal-grammar", title: "النحوُ الكلّيُّ وفقرُ المحفِّز (Universal Grammar & Poverty of the Stimulus)", type: "مفهوم"
+- id: "thk-ann-senghas", title: "آن سنغاس", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بهذه الدراسات؛ الاعتمادُ على أعمال آن سنغاس الإنجليزية الأساسية."
 ---
