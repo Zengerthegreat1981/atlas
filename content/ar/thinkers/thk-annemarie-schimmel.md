@@ -20,6 +20,8 @@ edges:
 related:
 - id: "sch-academic-sufism-studies", title: "الدراسةُ الأكاديميةُ الغربيةُ للتصوّف الإسلامي", type: "مدرسة"
 - id: "wrk-mystical-dimensions-of-islam-schimmel", title: "الأبعادُ الصوفيةُ في الإسلام (Mystical Dimensions of Islam) — الكتاب", type: "عمل / كتاب"
+- id: "thk-louis-massignon", title: "لويس ماسينيون (Louis Massignon)", type: "مفكر"
+- id: "thk-henry-corbin", title: "هنري كوربان (Henry Corbin)", type: "مفكر"
 gaps:
   - "لم يُتحقّق بعد من تفاصيل جدلِ استقبال شيمِل في العالم الإسلامي (كمنحها جائزة السلام الألمانية 1995 واحتجاج بعض الكتّاب عليه بدعوى تعاطفها مع الحكم على سلمان رشدي) — يحتاج مصدراً أوّلياً مباشراً قبل إدراجه، فتُرك فجوةً صادقة."
 ---
