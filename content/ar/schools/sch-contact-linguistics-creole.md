@@ -24,6 +24,7 @@ related:
 - id: "thk-salikoko-mufwene", title: "سليكوكو مفوين", type: "مفكر"
 - id: "thk-hugo-schuchardt", title: "هوغو شوخارت", type: "مفكر"
 - id: "con-relexification-hypothesis", title: "فرضيةُ إعادة التمعجُم (Relexification Hypothesis)", type: "مفهوم"
+- id: "con-feature-pool-ecology-mufwene", title: "مجمعُ السمات والمقاربةُ البيئية-التطوّرية عند مفوين (Feature Pool & Language Ecology)", type: "مفهوم"
 gaps:
   - "لا `belongs_to`: فرعٌ نشأ من ملاحظاتٍ ميدانيةٍ على لغات الاستعمار والتجارة، لا من انحدارٍ نظريٍّ مباشرٍ من مدرسةٍ لسانيةٍ واحدة."
 ---
