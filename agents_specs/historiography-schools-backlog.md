@@ -167,4 +167,19 @@
 | 5 | الإبستميه الفوكوية (مفهوم) | philosophy | رُبط مباشرة قبل أي كتابة |
 | 6 | عمل بارينغتون مور (`wrk-social-origins...`) | — | **لم يكن موجوداً فعلياً** (تحقّق عبر `find` قبل الكتابة)؛ أُنشئ بزاويةٍ تأريخية محدَّدة (منهج المقارنة) بربطٍ صريح إلى `thk-barrington-moore` القائم دون تكرار سيرته |
 
-**الإجمالي التراكمي النهائي لقسم historiography: 96 عقدة حيّة** (39 `sch-` + 31 `thk-` + 14 `con-` + 10 `wrk-` + 2 `rel-` جسر) — أي **~9.6%** من هدف 900–1,100 المُعلَن أصلاً. انظر `HISTORIOGRAPHY_CLOSEOUT_ADDENDUM_2026-09-21.md` للتفاصيل الكاملة.
+**تحديثٌ لاحق**: أُضيف `thk-sanjay-subrahmanyam` (سدّاً لفجوةٍ في `con-connected-history-subrahmanyam`)؛ تعمّدتُ عدم إنشاء عقدةٍ لجون ماكي (`con-inus-condition-mackie`) لأنه فيلسوفُ سببيةٍ لا مؤرّخ — فرضُ `part: historiography` عليه تصنيفٌ متعسّف.
+
+## ١٢. ربطُ عقد الأحداث (evt-) بمناهج قراءتها
+
+الموجزُ الأصليّ طلب صراحةً ربط عقد `evt-` (149 حدثاً تاريخياً وقت كتابة الموجز، 186 عقدةً بحلول هذه الدفعة) بمناهج قراءتها، لا تكرارها. رُوجعت العقدُ الـ186 بحثاً عن صلاتٍ **حقيقية موثَّقة نصياً في متن الحدث نفسه** (لا اختراعاً)؛ أغلبها الساحق يخصّ تاريخ علم النفس المهني والمؤسسات الأكاديمية، خارج نطاق هذا القسم موضوعياً. أُضيفت 4 روابطَ صادقة فقط (لا عقدٌ جديدة — روابطُ `related` أحادية الاتجاه من ملف المدرسة، دون تعديل ملفّ الحدث):
+
+| عقدةُ الحدث | رُبطت بـ | السبب النصّيّ |
+|---|---|---|
+| `evt-french-revolution-1789-philosophical` | `sch-national-historiography-nation-building` | الملفُّ نفسُه يذكرها مثالاً على «الحدث التأسيسي» في الخطاب الجمهوري الفرنسي |
+| `evt-haitian-revolution-1804-philosophical` | `sch-subaltern-studies-historiographical-critique` | استشهادُ ملفّ الحدث بسي. إل. آر. جيمس («اليعاقبة السود») — تاريخٌ من أسفل |
+| `evt-frankfurt-auschwitz-trials-1963` | `sch-genocide-denial-limits-of-representation` | كسرُ الصمت الألماني، سؤال أدورنو «بعد أوشفيتز» |
+| `evt-nuremberg-trials-1945-crimes-against-humanity` | `sch-archival-turn-archive-as-power` | الادّعاءُ استند إلى الوثائق النازية الرسمية نفسها لا شهادات الشهود |
+
+فُحصت أيضاً ولم تُربَط (لعدم وجود صلةٍ نصية صريحة بمنهجية كتابة التاريخ): `evt-bandung-conference-1955-decolonial`، `evt-expulsion-of-jews-and-muslims-spain-1492`، `evt-destruction-of-alexandria-library`، `evt-decolonization-wave-africa-1960`. **هذه عيّنةٌ مختارة بعناية، لا شمولٌ كامل لـ186 عقدة.**
+
+**الإجمالي التراكمي النهائي لقسم historiography: 97 عقدة حيّة** (39 `sch-` + 32 `thk-` + 14 `con-` + 10 `wrk-` + 2 `rel-` جسر) — أي **~9.7%** من هدف 900–1,100 المُعلَن أصلاً. انظر `HISTORIOGRAPHY_CLOSEOUT_ADDENDUM_2026-09-21.md` للتفاصيل الكاملة.
