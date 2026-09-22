@@ -34,6 +34,7 @@ related:
 - id: "con-statistical-preemption-goldberg", title: "الاستباقُ الإحصائي عند غولدبرغ (Statistical Preemption)", type: "مفهوم"
 - id: "con-type-token-frequency-productivity-bybee", title: "تواتُرُ النمط وتواتُرُ الوحدة وإنتاجيةُ البُنى عند بايبي (Type vs. Token Frequency & Productivity)", type: "مفهوم"
 - id: "thk-adele-goldberg", title: "أديل غولدبرغ", type: "مفكر"
+- id: "wrk-language-usage-cognition-bybee-2010", title: "اللغةُ والاستعمالُ والإدراك (Language, Usage and Cognition)", type: "أثر"
 gaps: []
 ---
 

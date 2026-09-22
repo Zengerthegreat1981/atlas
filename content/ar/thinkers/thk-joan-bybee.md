@@ -23,6 +23,7 @@ related:
 - id: "con-frequency-entrenchment-bybee", title: "التواتُرُ والترسّخُ عند بايبي (Frequency & Entrenchment)", type: "مفهوم"
 - id: "thk-george-zipf", title: "جورج زيبف", type: "مفكر"
 - id: "con-exemplar-theory-bybee", title: "نظريةُ النماذج المِثالية عند بايبي (Exemplar Theory)", type: "مفهوم"
+- id: "wrk-language-usage-cognition-bybee-2010", title: "اللغةُ والاستعمالُ والإدراك (Language, Usage and Cognition)", type: "أثر"
 gaps: []
 ---
 
