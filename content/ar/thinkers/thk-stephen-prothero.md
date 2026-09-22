@@ -22,9 +22,10 @@ related:
 - id: "con-religious-illiteracy", title: "الأمّيةُ الدينية (Religious Illiteracy)", type: "مفهوم"
 - id: "thk-robert-wuthnow", title: "روبرت وثناو", type: "مفكر"
 - id: "sch-academic-religious-education-hull-grimmitt", title: "الدراسةُ الأكاديميةُ للتربية الدينية (Religious Education Studies): جون هَل ومايكل گريميت", type: "مدرسة"
+- id: "wrk-god-is-not-one-prothero", title: "الإلهُ ليس واحداً: الأديانُ الثمانيةُ المتنافسةُ التي تُدير العالم (God Is Not One: The Eight Rival Religions That Run the World—and Why Their Differences Matter)", type: "عمل / كتاب"
 gaps:
   - "پروثيرو أستاذُ دين في جامعة بوسطن (كرسيّ C. Allyn and Elizabeth V. Russell)؛ اعتمدتُ سنة الميلاد 1957 ووصفَه بحسب ملخّص ويكيبيديا الحيّ (`en.wikipedia.org/wiki/Stephen_Prothero`) دون تحقُّقٍ عبر مصدرٍ أكاديميٍّ ثانٍ مستقل؛ إن ظهر تعارضٌ لاحقاً يُصحَّح هنا."
-  - "له أكثرُ من أحد عشر كتاباً في الدين الأمريكي والدراسة المقارنة؛ هذه العقدةُ تُبرِز كتابَه الأشهر (`wrk-religious-literacy-prothero`، 2007) فقط تجنّباً لتضخيم الدفعة، وبقيةُ أعماله (مثل *God Is Not One*، 2010) فجوةٌ صريحةٌ لدفعةٍ لاحقة."
+  - "له أكثرُ من أحد عشر كتاباً في الدين الأمريكي والدراسة المقارنة؛ هذه العقدةُ تُبرِز كتابَيه الأشهر: *المعرفةُ الدينية* (`wrk-religious-literacy-prothero`، 2007) و*الإلهُ ليس واحداً* (`wrk-god-is-not-one-prothero`، 2010، أُضيف في دفعةٍ لاحقة). بقيةُ أعماله فجوةٌ صريحةٌ لدفعاتٍ مقبلة."
 ---
 
 # ستيفن پروثيرو
