@@ -14,6 +14,7 @@ edges:
 related:
 - id: "sch-government-and-binding-theory", title: "نظريةُ الحاكميةِ والربط (Government and Binding Theory)", type: "مدرسة"
 - id: "sch-minimalist-program", title: "البرنامجُ الأدنويّ (The Minimalist Program)", type: "مدرسة"
+- id: "con-bare-phrase-structure-chomsky", title: "البنيةُ العباراتية المجرَّدة عند تشومسكي (Bare Phrase Structure)", type: "مفهوم"
 gaps: []
 ---
 
