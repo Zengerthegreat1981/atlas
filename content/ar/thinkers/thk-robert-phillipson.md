@@ -18,6 +18,8 @@ edges:
 - rel: "belongs_to", target: "sch-linguistic-imperialism", target_type: "مدرسة"
 related:
 - id: "sch-language-policy-endangerment", title: "السياسةُ اللغويةُ وموتُ اللغات وإحياؤها (Language Policy & Endangerment)", type: "مدرسة"
+- id: "thk-tove-skutnabb-kangas", title: "توڤي سكوتناب-كانغاس", type: "مفكر"
+- id: "con-linguistic-human-rights", title: "الحقوقُ اللغويةُ الإنسانية (Linguistic Human Rights)", type: "مفهوم"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لأعمال فيليبسون الأصلية ضمن مصادر الأطلس؛ الاعتماد على النصوص الإنجليزية الأصلية."
 ---
