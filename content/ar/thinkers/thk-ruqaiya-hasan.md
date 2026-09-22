@@ -20,6 +20,7 @@ related:
 - id: "sch-text-linguistics", title: "لسانياتُ النصِّ وتماسكُه (Text Linguistics)", type: "مدرسة"
 - id: "thk-michael-halliday", title: "مايكل هاليداي", type: "مفكر"
 - id: "sch-systemic-functional-linguistics", title: "اللسانياتُ الوظيفيةُ المنهجية (Systemic Functional Linguistics)", type: "مدرسة"
+- id: "con-cohesive-ties-halliday-hasan", title: "أدواتُ الاتساق الخمس عند هاليداي وحسن (Cohesive Ties)", type: "مفهوم"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرتها؛ الاعتمادُ على مصادرها الإنجليزية الأساسية."
 ---
