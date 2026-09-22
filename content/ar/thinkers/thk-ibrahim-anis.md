@@ -22,6 +22,7 @@ related:
 - id: "sch-modern-arabic-linguistics", title: "اللغوياتُ العربيةُ الحديثة (Modern Arabic Linguistics)", type: "مدرسة"
 - id: "wrk-al-aswat-al-lughawiyya-anis", title: "الأصواتُ اللغوية", type: "أثر"
 - id: "thk-kamal-bishr", title: "كمال بِشر", type: "مفكر"
+- id: "wrk-fi-al-lahajat-al-arabiyya-anis", title: "في اللهجات العربية (إبراهيم أنيس)", type: "أثر"
 gaps:
   - "**سُدَّ 2026-09-22 (الدفعة 277)**: أُضيف رابطُ `sch-modern-arabic-linguistics` الناقص، وأُنشئ `wrk-al-aswat-al-lughawiyya-anis` لعمله التأسيسي المذكور في المصادر دون عقدةٍ خاصة به."
   - "لم يُعثر على ترجمةٍ إنجليزيةٍ أكاديميةٍ متخصّصةٍ بأعمال أنيس ضمن مصادر الأطلس؛ الاعتمادُ الرئيسي على مصادره العربية الأصلية."
