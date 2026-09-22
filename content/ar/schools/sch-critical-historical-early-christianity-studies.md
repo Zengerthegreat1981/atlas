@@ -20,6 +20,8 @@ related:
 - id: "thk-julius-wellhausen", title: "يوليوس فلهاوزن", type: "مفكر"
 - id: "wrk-ehrman-misquoting-jesus", title: "Misquoting Jesus: The Story Behind Who Changed the Bible and Why", type: "عمل / كتاب"
 - id: "wrk-metzger-canon-new-testament", title: "The Canon of the New Testament: Its Origin, Development, and Significance", type: "عمل / كتاب"
+- id: "con-nag-hammadi-lost-christianities", title: "مكتبةُ نجع حمادي و«المسيحياتُ المفقودة»", type: "مفهوم"
+- id: "wrk-ehrman-lost-christianities", title: "Lost Christianities: The Battles for Scripture and the Faiths We Never Knew", type: "عمل / كتاب"
 gaps:
   - "هذه المدرسةُ تُميَّز عمداً عن `sch-higher-criticism-biblical-studies`: الأخيرةُ تخصُّ النقدَ الأعلى للعهد القديم/التناخ (الفرضية الوثائقية عند فلهاوزن، قرنٌ 19 ألمانيّ)، بينما هذه العقدةُ تخصُّ النقدَ النصّيَّ والتاريخيّ للعهد الجديد تحديداً: تعدّد المخطوطات واختلافاتها، وتاريخيةُ يسوع التاريخي مقابل يسوع الإيمان، وتكوّنُ الأرثوذكسية المسيحية من تعدّديةٍ مبكرة. تتقاطع المدرستان منهجياً (أدواتُ الفيلولوجيا والنقد التاريخي) لكنهما تخصّان مدونتين نصّيتين وحقلي دراسةٍ أكاديميّين متمايزين، ولا تكرارَ بينهما."
   - "لا خطَّ تلمذةٍ مباشر موثَّق بين فلهاوزن وإيرمان؛ الصلة منهجيةٌ عامة (كلاهما وريثٌ لتقليد النقد التاريخي الألماني عبر مارتن ديبيليوس ورودولف بولتمان، غير المفصَّلين هنا بملفٍّ مستقل بعد) لا سلسلة تأثيرٍ فردية مباشرة مُثبَتة."
