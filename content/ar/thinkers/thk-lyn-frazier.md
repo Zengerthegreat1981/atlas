@@ -20,6 +20,7 @@ related:
 - id: "ins-eye-tracking-reaction-time", title: "تتبّعُ العين وزمنُ الاستجابة في المعالجة (Eye-Tracking & Reaction Time)", type: "منهج/أداة بحث"
 - id: "sch-sentence-processing-psycholinguistics", title: "علمُ اللغة النفسيُّ ومعالجةُ الجملة (Sentence Processing)", type: "مدرسة"
 - id: "con-garden-path-minimal-attachment-frazier", title: "جملُ المسار المُضلِّل ومبدآ الإلحاق الأدنى والإغلاق المتأخّر عند فريزير", type: "مفهوم"
+- id: "thk-janet-fodor", title: "جانيت دين فودور", type: "مفكر"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لأعمال فريزير الأصلية ضمن مصادر الأطلس؛ الاعتماد على النصوص الإنجليزية الأصلية."
   - "**سُدَّ 2026-09-22 (الدفعة 271)**: أُضيف رابطُ `sch-sentence-processing-psycholinguistics` الناقص رغم انتماء فريزير إليها بوصفها المدرسةَ التي أسّست عليها نموذجَها."

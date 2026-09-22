@@ -16,6 +16,7 @@ related:
 - id: "thk-lyn-frazier", title: "لين فريزير", type: "مفكر"
 - id: "con-constraint-based-lexicalist-model-macdonald", title: "النموذجُ المقيَّدُ المعجميُّ التفاعلي (Constraint-Based Lexicalist Model)", type: "مفهوم"
 - id: "con-good-enough-processing-ferreira", title: "معالجةُ «الكفاية التقريبية» عند فيريرا (Good-Enough Processing)", type: "مفهوم"
+- id: "thk-janet-fodor", title: "جانيت دين فودور", type: "مفكر"
 gaps: []
 ---
 
