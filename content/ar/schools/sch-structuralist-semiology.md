@@ -31,6 +31,7 @@ related:
 - id: "wrk-writing-degree-zero-barthes", title: "الكتابةُ في درجة الصفر (Le Degré Zéro de l'Écriture)", type: "أثر"
 - id: "thk-tzvetan-todorov", title: "تزﭬيتان تودوروف", type: "مفكر"
 - id: "con-narratology-todorov", title: "علمُ السرد وأنماطُ الخطاب السردي عند تودوروف (Narratology)", type: "مفهوم"
+- id: "wrk-mythologies-barthes-1957", title: "أساطيرُ معاصرة (Mythologies)", type: "أثر"
 gaps:
   - "`thk-roland-barthes` موسومٌ `bridge` وموجودٌ بالفعل في الأطلس بسيرته الفكرية الكاملة؛ رُبط إليه بـ`related` دون تكرار. هذه العقدةُ تفرد الإطارَ السيميولوجيَّ الذي ورثه عن سوسور وطوّره تحليلياً."
 ---

@@ -15,6 +15,7 @@ related:
 - id: "sch-structuralist-semiology", title: "السيميولوجيا السوسيرية وامتدادُها (Structuralist Semiology)", type: "مدرسة"
 - id: "con-signifier-signified", title: "الدالُّ والمدلول", type: "مفهوم"
 - id: "con-linguistic-value-saussure", title: "القيمةُ اللغوية (Valeur Linguistique)", type: "مفهوم"
+- id: "wrk-mythologies-barthes-1957", title: "أساطيرُ معاصرة (Mythologies)", type: "أثر"
 gaps: []
 ---
 
