@@ -20,6 +20,7 @@ related:
 - id: "sch-copenhagen-glossematics", title: "حلقةُ كوبنهاغن واللسانياتُ الصورية (Glossematics)", type: "مدرسة"
 - id: "thk-louis-hjelmslev", title: "لويس يلمسليف", type: "مفكر"
 - id: "con-form-substance-expression-content-hjelmslev", title: "الشكلُ والجوهرُ في التعبير والمحتوى (Form/Substance، Expression/Content)", type: "مفهوم"
+- id: "wrk-outline-of-glossematics-hjelmslev-uldall", title: "موجزُ الغلوسيماتيك (Outline of Glossematics)", type: "أثر"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ لأعماله ضمن مصادر الأطلس؛ الاعتمادُ على مصادره الإنجليزية والدنماركية الأساسية."
 ---
