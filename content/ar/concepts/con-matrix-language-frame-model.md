@@ -16,6 +16,7 @@ related:
 - id: "thk-carol-myers-scotton", title: "كارول ميرز-سكوتون", type: "مفكر"
 - id: "con-code-switching-mixing", title: "التبديلُ والمزجُ الرمزي (Code-Switching & Code-Mixing)", type: "مفهوم"
 - id: "con-argument-structure-lexicon", title: "بنيةُ الحجج المعجمية (Argument Structure)", type: "مفهوم"
+- id: "sch-bilingualism-cognitive-control", title: "ثنائيةُ اللغة والدماغُ (Bilingualism & Cognitive Control)", type: "مدرسة"
 gaps: []
 ---
 

@@ -28,6 +28,7 @@ related:
 - id: "thk-francois-grosjean", title: "فرانسوا غروجان", type: "مفكر"
 - id: "con-language-mode-complementarity-grosjean", title: "نمطُ اللغة ومبدأُ التكامل عند غروجان (Language Mode & Complementarity Principle)", type: "مفهوم"
 - id: "con-revised-hierarchical-model-kroll-stewart", title: "النموذجُ الهرميُّ المنقَّح عند كرول وستيوارت (Revised Hierarchical Model)", type: "مفهوم"
+- id: "con-matrix-language-frame-model", title: "نموذجُ اللغة الإطارية (Matrix Language Frame Model)", type: "مفهوم"
 gaps:
   - "لا `belongs_to`: فرعٌ يجمع علمَ اللغة النفسي بعلم النفس المعرفي، لا ينحدر تاريخياً من مدرسةٍ لسانيةٍ واحدة."
 ---

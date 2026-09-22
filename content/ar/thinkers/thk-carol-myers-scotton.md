@@ -21,6 +21,7 @@ related:
 - id: "con-code-switching-mixing", title: "التبديلُ والمزجُ الرمزي (Code-Switching & Code-Mixing)", type: "مفهوم"
 - id: "thk-john-gumperz", title: "جون گمپرز (John J. Gumperz)", type: "مفكر"
 - id: "con-matrix-language-frame-model", title: "نموذجُ اللغة الإطارية (Matrix Language Frame Model)", type: "مفهوم"
+- id: "sch-bilingualism-cognitive-control", title: "ثنائيةُ اللغة والدماغُ (Bilingualism & Cognitive Control)", type: "مدرسة"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرتها؛ الاعتمادُ على مصادرها الإنجليزية الأساسية."
 ---
