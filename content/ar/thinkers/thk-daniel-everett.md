@@ -18,6 +18,7 @@ edges:
 - rel: "belongs_to", target: "crt-piraha-recursion-challenge-universal-grammar", target_type: "نقد خارجي موثَّق"
 related:
 - id: "ins-descriptive-linguistic-fieldwork", title: "التسجيلُ الميدانيُّ ووصفُ اللغات (Descriptive Fieldwork)", type: "منهج/أداة بحث"
+- id: "thk-david-pesetsky", title: "ديفيد پسيتسكي", type: "مفكر"
 gaps: []
 ---
 
