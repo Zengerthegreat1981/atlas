@@ -21,6 +21,8 @@ related:
 - id: "syn-broca-aphasia", title: "متلازمة حبسة بروكا التعبيرية (تعذر الطلاقة الكلامية النطقية)", type: "متلازمة"
 - id: "syn-wernicke-aphasia", title: "متلازمة حبسة فيرنيكه الاستقبالية (عمه فهم الكلام والتلفيق اللفظي)", type: "متلازمة"
 - id: "con-dual-stream-model-hickok-poeppel", title: "نموذجُ المسارين البطنيّ والظهريّ لمعالجة اللغة (Dual-Stream Model)", type: "مفهوم"
+- id: "thk-carl-wernicke", title: "كارل فيرنيكه", type: "مفكر"
+- id: "thk-ludwig-lichtheim", title: "لودفيغ ليختهايم", type: "مفكر"
 gaps:
   - "**سُدَّ 2026-09-22 (الدفعة 171)**: النقدُ المعاصرُ المعتمِد على تصوير الدماغ الوظيفي موثَّقٌ بالفعل في `con-dual-stream-model-hickok-poeppel` (مربوطةٌ أعلاه)؛ هذا الملفُّ يبقى مقصوراً عمداً على الصورة التاريخية الكلاسيكية."
 ---

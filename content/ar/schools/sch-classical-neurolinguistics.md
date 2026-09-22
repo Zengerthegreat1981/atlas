@@ -33,6 +33,7 @@ related:
 - id: "stu-broca-tan-localization", title: "دراسة بروكا التاريخية للمريض 'تان' وتوطين وظيفة إنتاج الكلام", type: "دراسة"
 - id: "con-pure-alexia-dejerine", title: "عمى القراءة الخالص عند ديجيرين (Pure Alexia / Alexia Without Agraphia)", type: "مفهوم"
 - id: "wrk-der-aphasische-symptomencomplex-wernicke", title: "المركَّبُ العرضيُّ للحُبسة (Der Aphasische Symptomencomplex)", type: "أثر"
+- id: "thk-ludwig-lichtheim", title: "لودفيغ ليختهايم", type: "مفكر"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`) — نشأ هذا التقليدُ من الطب العصبي السريري لا من اللسانيات النظرية، والتقى بها لاحقاً."
   - "المتلازمتان `syn-broca-aphasia` و`syn-wernicke-aphasia` موسومتان `psychology` في الأطلس (ضمن مجلد الاضطرابات السريرية)؛ لم يُعدَّل وسمُهما — هذا الملفُّ يربط إليهما بـ`related` بوصفهما الدليلَ الإكلينيكي المؤسِّس لهذا الفرع اللساني، لا يستنسخهما."
