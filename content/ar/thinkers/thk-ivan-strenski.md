@@ -21,9 +21,10 @@ related:
 - id: "thk-mircea-eliade", title: "ميرتشيا إلياده", type: "مفكر"
 - id: "thk-jonathan-z-smith", title: "جوناثان ز. سميث (Jonathan Z. Smith)", type: "مفكر"
 - id: "dbt-comparativism-vs-contextualism-eliade-smith", title: "الجدلُ بين المقارَنة الشاملة والسياقية: إلياده وسميث ومنهج المقارنة الدينية", type: "جدل"
+- id: "wrk-theology-first-theory-sacrifice-strenski", title: "اللاهوتُ والنظريةُ الأولى للقربان (Theology and the First Theory of Sacrifice)", type: "عمل / كتاب"
 gaps:
   - "لم يُتحقّق بعد من تفاصيل نقده الأشدّ لسيرة إلياده السياسية (ارتباطه بالحرس الحديدي الروماني) لعدم توفّر مصدرٍ ثانٍ محقَّق وقتَ الكتابة؛ يُترك لملفّ نقدٍ مستقل (`crt-`) حين تتوفّر مصادرُ كافية بدل الجزم هنا."
-  - "عملُه اللاحق عن نظرية القربان عند هوبير وموس (*Theology and the First Theory of Sacrifice*, 2006) لم يُفرد له ملفّ عملٍ مستقل بعد — فجوةٌ مرشَّحة لدفعةٍ قادمة."
+  - "**سُدَّت 2026-09-22 (الدفعة 121):** أُضيف ملفّ عملٍ مستقل لكتابه عن نظرية القربان — `wrk-theology-first-theory-sacrifice-strenski`؛ وصُحِّح تاريخُ النشر هنا من 2006 (خطأ) إلى 2003 بعد تحقّقٍ من Open Library."
 ---
 
 # إيفان سترينسكي (Ivan Strenski)
