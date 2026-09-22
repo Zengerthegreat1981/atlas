@@ -21,6 +21,7 @@ related:
 - id: "thk-william-stokoe", title: "وليام ستوكو", type: "مفكر"
 - id: "thk-ursula-bellugi", title: "أورسولا بيلوجي", type: "مفكر"
 - id: "stu-nicaraguan-sign-language-emergence-senghas", title: "نشوءُ لغة الإشارة النيكاراغوية: دراساتُ آن سنغاس", type: "دراسة"
+- id: "con-babbling-phonological-development", title: "المناغاةُ والنموُّ الصوتي عند الرضيع (Babbling & Phonological Development)", type: "مفهوم"
 gaps: []
 ---
 

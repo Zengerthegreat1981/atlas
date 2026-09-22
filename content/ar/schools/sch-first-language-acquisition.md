@@ -27,10 +27,12 @@ related:
 - id: "thk-jean-berko-gleason", title: "جين بيركو غليسون", type: "مفكر"
 - id: "stu-wug-test-berko-1958", title: "اختبارُ الووگ (The Wug Test)", type: "دراسة وبحث"
 - id: "con-child-directed-speech-motherese", title: "الكلامُ الموجَّه للطفل (Child-Directed Speech / Motherese)", type: "مفهوم"
+- id: "sch-usage-based-grammar", title: "النحوُ الناشئُ عن الاستعمال (Usage-Based Grammar)", type: "مدرسة"
+- id: "con-babbling-phonological-development", title: "المناغاةُ والنموُّ الصوتي عند الرضيع (Babbling & Phonological Development)", type: "مفهوم"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`) — فرعٌ نمائيٌّ تطبيقيٌّ يتقاطع مع التوليدية والوظيفية معاً دون الانتماء الحصري لإحداهما."
   - "**سُدَّ 2026-09-21 (الدفعة 43)**: رُبط `thk-steven-pinker` (psychology) دون تكرار سيرته؛ وأُنشئت `con-stages-of-language-acquisition` و`thk-roger-brown` لسدّ فجوة مراحل الاكتساب التفصيلية."
-  - "برنامجُ مايكل توماسيلو الاستعمالي في اكتساب اللغة (بديلٌ عن الفطرية التوليدية) لم يُغطَّ بعد؛ سيُدرَج ضمن النحو الناشئ عن الاستعمال."
+  - "**سُدَّ 2026-09-22 (الدفعة 153)**: برنامجُ مايكل توماسيلو الاستعمالي مغطّىً الآن بالكامل ضمن `sch-usage-based-grammar` (رُبطت هنا `related` دون تكرار)."
 ---
 
 # اكتسابُ اللغة الأولى ومراحلُه
