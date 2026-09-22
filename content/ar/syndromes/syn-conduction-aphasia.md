@@ -15,6 +15,7 @@ related:
 - id: "syn-wernicke-aphasia", title: "متلازمة حبسة فيرنيكه الاستقبالية (عمه فهم الكلام والتلفيق اللفظي)", type: "متلازمة"
 - id: "con-language-of-thought-mentalese", title: "لغة الفكر والمنتاليز لجيري فودور (Language of Thought)", type: "مفهوم"
 - id: "sch-classical-neurolinguistics", title: "علمُ اللغة العصبيُّ الكلاسيكي (Classical Neurolinguistics)", type: "مدرسة"
+- id: "con-transcortical-aphasias-lichtheim", title: "الحُبساتُ عبر القشرية (Transcortical Aphasias)", type: "مفهوم"
 gaps:
   - "رابط مقترح لـ«اضطرابات التواصل» (dis-communication-disorders) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "أبحاث فيرنيكه وغيشويند وانقطاع الحزمة المقوسة (Arcuate Fasciculus)."

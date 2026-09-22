@@ -21,6 +21,7 @@ related:
 - id: "sch-classical-neurolinguistics", title: "علمُ اللغة العصبيُّ الكلاسيكي (Classical Neurolinguistics)", type: "مدرسة"
 - id: "thk-carl-wernicke", title: "كارل فيرنيكه", type: "مفكر"
 - id: "con-broca-wernicke-lichtheim-model", title: "نموذجُ بروكا-فيرنيكه-ليختهايم", type: "مفهوم"
+- id: "con-transcortical-aphasias-lichtheim", title: "الحُبساتُ عبر القشرية (Transcortical Aphasias)", type: "مفهوم"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لعمله الأصلي ضمن مصادر الأطلس؛ الاعتمادُ على الدراسات الثانوية الإنجليزية."
 ---
