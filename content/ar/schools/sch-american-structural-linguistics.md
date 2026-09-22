@@ -31,6 +31,7 @@ related:
 - id: "thk-martin-joos", title: "مارتن جوس", type: "مفكر"
 - id: "con-emic-etic", title: "الإيميتيك والإتيك (Emic vs. Etic)", type: "مفهوم"
 - id: "wrk-language-bloomfield-1933", title: "اللغة (Language، بلومفيلد)", type: "أثر"
+- id: "con-gods-truth-hocus-pocus-joos", title: "حقيقةُ الربّ مقابل الحيلة السحرية عند جوس (God's Truth vs. Hocus-Pocus)", type: "مفهوم"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`)؛ نشأت مستقلةً عن البنيوية السوسيرية الأوروبية إلى حدٍّ كبير — أثرُ سوسور عليها غيرُ موثَّقٍ بقوةٍ كافية لعقد `evolved_from`، فتُركت العلاقةُ بلا ربط تجنُّباً للجزم."
   - "**سُدَّ 2026-09-22 (الدفعة 170)**: `thk-edward-sapir` موجودٌ بالفعل في الأطلس تحت `part: anthropology` (أقربُ إلى النسبية اللغوية سابير-وورف)؛ رُبط أعلاه بـ`related` دون تكرار سيرته أو نقل وسمه."

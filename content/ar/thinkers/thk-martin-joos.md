@@ -20,6 +20,7 @@ related:
 - id: "sch-american-structural-linguistics", title: "البنيويةُ الأمريكيةُ والتوزيعية (American Structural Linguistics)", type: "مدرسة"
 - id: "thk-zellig-harris", title: "زيليغ هاريس", type: "مفكر"
 - id: "thk-leonard-bloomfield", title: "ليونارد بلومفيلد", type: "مفكر"
+- id: "con-gods-truth-hocus-pocus-joos", title: "حقيقةُ الربّ مقابل الحيلة السحرية عند جوس (God's Truth vs. Hocus-Pocus)", type: "مفهوم"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرته؛ الاعتمادُ على مصادره الإنجليزية الأساسية."
 ---
