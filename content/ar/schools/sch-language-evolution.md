@@ -21,6 +21,8 @@ related:
 - id: "stu-nim-chimpsky-ape-language-terrace", title: "دراسةُ نيم تشيمبسكي: هل تكتسب الشمبانزي لغةً؟", type: "دراسة وبحث"
 - id: "thk-w-tecumseh-fitch", title: "و. تيكمسه فيتش", type: "مفكر"
 - id: "con-fln-flb-narrow-broad-faculty", title: "الملَكةُ اللغوية بمعناها الضيّق والواسع (FLN/FLB)", type: "مفهوم"
+- id: "thk-michael-corballis", title: "مايكل كوربالِس", type: "مفكر"
+- id: "con-gestural-origin-hypothesis", title: "فرضيةُ الأصل الإيمائي للغة (Gestural Origin Hypothesis)", type: "مفهوم"
 gaps:
   - "حيادٌ صريحٌ محفوظ: خلافُ هاوزر/تشومسكي/فيتش (2002) وبنكر/جاكندوف (2005) حول ما إذا كانت ملَكةُ اللغة تطوّرت كتكيّفٍ متخصّصٍ منفصل أم كإعادة توظيفٍ لقدراتٍ معرفيةٍ عامّة، لا يزال جدلاً علمياً مفتوحاً؛ لا يُرجَّح طرفٌ هنا."
 ---
