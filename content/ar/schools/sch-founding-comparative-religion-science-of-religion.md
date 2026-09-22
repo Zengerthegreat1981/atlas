@@ -38,6 +38,7 @@ related:
 - id: "sch-comparative-religious-violence-studies", title: "الدراسةُ الأكاديميةُ المقارَنةُ للعنف الديني (Comparative Religious Violence Studies)", type: "مدرسة"
 - id: "sch-comparative-religious-ethics-field", title: "علمُ الأخلاق الدينية المقارن (Comparative Religious Ethics)", type: "مدرسة"
 - id: "sch-academic-study-religion-sport", title: "الدراسةُ الأكاديميةُ للدين والرياضة (Religion and Sport Studies): وليام ج. بيكر ومَن تبعه", type: "مدرسة"
+- id: "sch-feminist-study-of-religion", title: "الدراسةُ النسويةُ للدين (Feminist Study of Religion)", type: "مدرسة"
 - id: "sch-religion-in-prisons-studies", title: "الدراسةُ الأكاديميةُ للدين في السجون (Religion in Prisons Studies): بكفورد وچيليات-راي", type: "مدرسة"
 - id: "sch-religion-and-emotion-studies-corrigan", title: "دراسةُ الدين والانفعال (Religion and Emotion Studies): چون كوريگان وتأريخُ العاطفة الدينية", type: "مدرسة"
 gaps:
