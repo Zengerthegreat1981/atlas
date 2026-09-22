@@ -20,6 +20,7 @@ related:
 - id: "sch-modern-arabic-linguistics", title: "اللغوياتُ العربيةُ الحديثة (Modern Arabic Linguistics)", type: "مدرسة"
 - id: "thk-tammam-hassan", title: "تمّام حسّان", type: "مفكر"
 - id: "thk-ibrahim-anis", title: "إبراهيم أنيس", type: "مفكر"
+- id: "wrk-al-lisaniyyat-wa-ususuha-al-marifiyya-messaddi", title: "اللسانياتُ وأسسُها المعرفية (عبد السلام المسدّي)", type: "أثر"
 gaps:
   - "لم يُعثر على ترجمةٍ إنجليزيةٍ موثَّقةٍ لأعماله ضمن مصادر الأطلس؛ الاعتمادُ على مصادره العربية الأصلية."
 ---

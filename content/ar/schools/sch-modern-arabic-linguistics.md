@@ -29,6 +29,7 @@ related:
 - id: "wrk-ilm-al-dalala-ahmad-mukhtar-umar", title: "علمُ الدلالة (أحمد مختار عمر)", type: "أثر"
 - id: "wrk-ilm-al-lugha-al-ijtimai-bishr", title: "علمُ اللغة الاجتماعي: مدخل (كمال بِشر)", type: "أثر"
 - id: "wrk-fi-al-lahajat-al-arabiyya-anis", title: "في اللهجات العربية (إبراهيم أنيس)", type: "أثر"
+- id: "wrk-al-lisaniyyat-wa-ususuha-al-marifiyya-messaddi", title: "اللسانياتُ وأسسُها المعرفية (عبد السلام المسدّي)", type: "أثر"
 gaps:
   - "**سُدَّ بالكامل 2026-09-22 (الدفعة 203)**: أُنشئ `thk-abdessalam-el-messaddi` (الدفعة 163) و`thk-mazen-al-waer` (الدفعة 203)."
 ---
