@@ -28,6 +28,7 @@ related:
 - id: "sch-chinese-popular-religion-studies-yang", title: "الدراسةُ السوسيولوجيةُ الأكاديميةُ للدين الشعبيِّ الصينيِّ: منهجُ سي. كيه. يانغ", type: "مدرسة"
 - id: "sch-decolonial-approaches-study-of-religion-chidester", title: "المقارباتُ الديكولونياليةُ لدراسة الدين: ديڤيد تشيدستر ومصنع «الدين» في جنوب أفريقيا الاستعمارية", type: "مدرسة"
 - id: "sch-sikh-studies-academic", title: "الدراسة الأكاديمية النقدية للسيخية (Sikh Studies)", type: "مدرسة"
+- id: "sch-religion-globalization-theory-beyer", title: "نظريةُ الدين والعولمة (بيتر بايَر)", type: "مدرسة"
 - id: "sch-jain-studies-academic", title: "الدراسة الأكاديمية الغربية للجاينية (Jain Studies)", type: "مدرسة"
 - id: "sch-germanic-norse-paganism-studies", title: "الدراسةُ الأكاديميةُ للوثنية الجرمانية والإسكندنافية القديمة (Germanic/Norse Paganism Studies)", type: "مدرسة"
 - id: "sch-academic-melanesian-cargo-cult-studies", title: "الدراسةُ الأكاديميةُ لعباداتِ الشحنة الملانيزية (Melanesian Cargo Cult Studies)", type: "مدرسة"

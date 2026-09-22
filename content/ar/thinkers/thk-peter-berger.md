@@ -20,7 +20,9 @@ related:
 - id: "sch-sociology-of-religion-post-secularism", title: "سوسيولوجيا الدين والتحولات العلمانية", type: "مدرسة"
 - id: "wrk-sacred-canopy-berger", title: "المظلة المقدسة", type: "عمل"
 - id: "thk-thomas-luckmann", title: "توماس لوكمان", type: "مفكر"
+- id: "sch-religion-globalization-theory-beyer", title: "نظريةُ الدين والعولمة (بيتر بايَر)", type: "مدرسة"
 gaps:
+  - "رُبط 2026-09-22 بـ`sch-religion-globalization-theory-beyer` (قسم religious-studies): بيتر بايَر (لا قرابة عائلية بينهما رغم تشابه اسم العائلة بالنقل الصوتي) طوَّر إطاراً حول الدين والعولمة عالمياً يكمِّل عملَ بيرغر عن العلمنة وتراجعها محلياً، دون تكرارٍ لسيرة بيرغر."
   - "**ملاحظةٌ باتت كاذبة، صُحِّحت 2026-09-15:** شريكه `thk-thomas-luckmann` موثَّقٌ الآن بملفٍّ مستقل ومربوطٌ أعلاه."
   - "**سُدَّ 2026-09-15:** أُنشئ `wrk-sacred-canopy-berger` (عمل بيرغر في سوسيولوجيا الدين، 1967) وربط هنا؛ أعماله في سياسات التنمية لا تزال غير مستوفاة."
 ---

@@ -16,8 +16,10 @@ edges:
 - rel: "belongs_to", target: "sch-sociology-of-religion-post-secularism", target_type: "مدرسة"
 related:
 - id: "sch-sociology-of-religion-post-secularism", title: "سوسيولوجيا الدين والتحولات العلمانية", type: "مدرسة"
+- id: "sch-religion-globalization-theory-beyer", title: "نظريةُ الدين والعولمة (بيتر بايَر)", type: "مدرسة"
 gaps:
   - "لم تُستوفَ هنا مقارنة تفصيلية مع نظرية «العصر العلماني» عند تشارلز تايلور رغم قرابتها الموضوعية."
+  - "رُبط 2026-09-22 بـ`sch-religion-globalization-theory-beyer` (قسم religious-studies): نظريةُ بايَر عن الدين والعولمة تتقاطع موضوعياً مع تفكيك كازانوفا الثلاثيّ لنظرية العلمنة (خصوصاً أطروحة «الخصخصة»)، لكنها تسأل عن البنية التواصلية العالمية للدين لا عن مصيره التاريخي محلياً؛ لم يُنشأ نظيرٌ مكرِّر."
 ---
 
 # خوسيه كازانوفا

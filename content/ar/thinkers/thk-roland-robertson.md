@@ -20,7 +20,9 @@ related:
 - id: "sch-appadurai-robertson-global-culture", title: "سوسيولوجيا العولمة الثقافية والمشاهد العولمية", type: "مدرسة"
 - id: "thk-appadurai", title: "أرجون أپادوراي", type: "مفكر"
 - id: "wrk-globalization-social-theory-robertson", title: "العولمة: النظرية الاجتماعية والثقافة العالمية", type: "عمل / كتاب"
+- id: "sch-religion-globalization-theory-beyer", title: "نظريةُ الدين والعولمة (بيتر بايَر)", type: "مدرسة"
 gaps:
+  - "رُبط 2026-09-22 بـ`sch-religion-globalization-theory-beyer` (قسم religious-studies): إطارُ روبرتسون العام للعولمة الثقافية (التمحلن) شكّل خلفيةً استند إليها بيتر بايَر جزئياً عند تطبيق تحليل العولمة على الدين تحديداً؛ لم يُنشأ نظيرٌ مكرِّر لهذا الملف."
   - "**تعميقٌ 2026-09-15:** أُضيف `wrk-globalization-social-theory-robertson` وربطه هنا."
   - "أُنشئ 2026-09-15 تنفيذاً لتوجيه المنسِّق (قراءة مباشرة لمتن مدارس الأقسام 1-8)، سادّاً فجوةً موثقةً صراحةً في `gaps` ملف `sch-appadurai-robertson-global-culture` القائم."
 ---
