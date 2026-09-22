@@ -21,8 +21,11 @@ related:
 - id: "wrk-re-enchantment-west-partridge", title: "The Re-Enchantment of the West", type: "عمل / كتاب"
 - id: "con-occulture-partridge", title: "التديّنُ المتفرِّق (Occulture) عند بارتريدج", type: "مفهوم"
 - id: "thk-wouter-hanegraaff", title: "ووتر هانيغراف", type: "مفكر"
+- id: "sch-religion-popular-music-studies-partridge", title: "الدراسةُ الأكاديميةُ للدين والموسيقى الشعبية (Religion and Popular Music Studies)", type: "مدرسة"
+- id: "wrk-lyre-of-orpheus-partridge", title: "The Lyre of Orpheus: Popular Music, the Sacred, and the Profane", type: "عمل / كتاب"
 gaps:
-  - "هذه العقدةُ سيرةٌ أكاديميةٌ موجزة تخدم سياقَ توسيع حقل دراسة الروحانيات البديلة بعد هانيغراف؛ أعمالُه الأخرى في دراسة الموسيقى الشعبية والدين (مثل تحريرِه سلسلةَ Encyclopedia of New Religions) لم تُفرَد لها عقدةٌ مستقلة بعد."
+  - "سُدَّت 2026-09-22 (دفعةٌ ليليةٌ تلقائية): أُفرِد لأعماله في الموسيقى الشعبية والدين مدرسةٌ مستقلة (`sch-religion-popular-music-studies-partridge`) وعملٌ مستقل (`wrk-lyre-of-orpheus-partridge`، *The Lyre of Orpheus*، 2013)، امتداداً مباشراً لمفهوم occulture هنا إلى الموسيقى الشعبية تحديداً — ربطٌ بـ`related` دون تغيير `belongs_to` (يبقى تحت مدرسة العصر الجديد الأمّ لأن occulture هو الإطار المنهجيُّ الأصلي)."
+  - "هذه العقدةُ سيرةٌ أكاديميةٌ موجزة تخدم سياقَ توسيع حقل دراسة الروحانيات البديلة بعد هانيغراف؛ أعمالُه الأخرى (مثل تحريرِه سلسلةَ Encyclopedia of New Religions) لم تُفرَد لها عقدةٌ مستقلة بعد."
   - "منصبُه الأكاديميُّ الدقيقُ وتسلسلُ جامعاته عبر مسيرته المهنية (لانكستر، ثم برمنغن) لم يُفصَّل تفصيلاً موثَّقاً بمصدرٍ ثانٍ مستقل؛ الاكتفاءُ هنا بما تثبته صفحاتُ عمله المنشورة."
 ---
 
