@@ -22,6 +22,7 @@ related:
 - id: "con-form-substance-expression-content-hjelmslev", title: "الشكلُ والجوهرُ في التعبير والمحتوى (Form/Substance، Expression/Content)", type: "مفهوم"
 - id: "thk-hans-jorgen-uldall", title: "هانز يورغن أولدال", type: "مفكر"
 - id: "con-commutation-test-glossematics", title: "اختبارُ الإبدال (Commutation Test)", type: "مفهوم"
+- id: "con-connotative-metasemiotics-hjelmslev", title: "السيمياءُ الإيحائية وما وراء السيميائية عند يلمسليف (Connotative & Metasemiotics)", type: "مفهوم"
 gaps:
   - "**سُدَّ بالكامل 2026-09-22 (الدفعة 176)**: أُنشئ `thk-hans-jorgen-uldall`."
 ---
