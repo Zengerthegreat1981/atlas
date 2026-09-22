@@ -18,6 +18,8 @@ edges: []
 related:
 - id: "sch-arabic-grammatical-tradition", title: "التقليد النحوي واللغوي العربي الكلاسيكي", type: "مدرسة"
 - id: "sch-paninian-sanskrit-grammar", title: "النحوُ الهنديُّ عند بانيني (Pāṇinian Sanskrit Grammar)", type: "مدرسة"
+- id: "thk-dionysius-thrax", title: "ديونيسيوس الترقي", type: "مفكر"
+- id: "con-modistae-speculative-grammar", title: "نحاةُ الأنماط والنحوُ التأمّلي (Modistae & Speculative Grammar)", type: "مفهوم"
 gaps:
   - "لا `belongs_to`: تقليدٌ مستقلٌّ نشأ بمعزلٍ عن التقليدين العربي والهندي، وإن تلاقت جميعُها لاحقاً في التأريخ المقارن للسانيات."
 ---
