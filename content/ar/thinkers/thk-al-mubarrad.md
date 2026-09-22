@@ -22,6 +22,7 @@ related:
 - id: "thk-thalab", title: "أبو العباس ثعلب", type: "مفكر"
 - id: "wrk-al-insaf-masail-al-khilaf-ibn-al-anbari", title: "الإنصافُ في مسائل الخلاف بين النحويين البصريين والكوفيين", type: "أثر"
 - id: "wrk-al-muqtadab-mubarrad", title: "المقتضَب", type: "أثر"
+- id: "thk-ibn-al-sarraj", title: "أبو بكر محمد بن السرّاج", type: "مفكر"
 gaps:
   - "لم يُعثر على ترجمةٍ إنجليزيةٍ أكاديميةٍ شاملةٍ متخصّصةٍ بالمبرِّد ضمن مصادر الأطلس؛ الاعتمادُ الرئيسي على المصادر العربية التراثية ودراسة Owens العامة."
 ---

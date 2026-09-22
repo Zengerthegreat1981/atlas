@@ -29,6 +29,8 @@ related:
 - id: "con-qiyas-sama-illa-arabic-grammar", title: "القياسُ والسماعُ والعلّةُ النحوية: أصولُ منهج النحو العربي", type: "مفهوم"
 - id: "wrk-majalis-thalab", title: "مجالسُ ثعلب", type: "أثر"
 - id: "wrk-al-muqtadab-mubarrad", title: "المقتضَب", type: "أثر"
+- id: "thk-ibn-al-sarraj", title: "أبو بكر محمد بن السرّاج", type: "مفكر"
+- id: "wrk-al-usul-fi-al-nahw-ibn-al-sarraj", title: "الأصولُ في النحو (ابن السرّاج)", type: "أثر"
 gaps:
   - "**سُدَّ بالكامل 2026-09-22 (الدفعة 166)**: أُنشئ `thk-al-kisai` و`thk-al-farra` و`wrk-maani-al-quran-farra`."
 ---
