@@ -15,6 +15,7 @@ related:
 - id: "sch-gricean-pragmatics", title: "التداوليةُ الغرايسية (Gricean Pragmatics)", type: "مدرسة"
 - id: "con-conversational-implicature", title: "الإفهامُ التخاطبي (Conversational Implicature)", type: "مفهوم"
 - id: "con-presupposition-projection-problem", title: "الافتراضُ المسبَق ومشكلةُ الانتقال (Presupposition & the Projection Problem)", type: "مفهوم"
+- id: "con-procedural-conceptual-meaning-blakemore", title: "المعنى الإجرائيُّ مقابل المفهومي عند بليكمور (Procedural vs. Conceptual Meaning)", type: "مفهوم"
 gaps: []
 ---
 
