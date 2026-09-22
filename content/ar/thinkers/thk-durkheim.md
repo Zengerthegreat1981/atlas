@@ -25,7 +25,9 @@ related:
 - id: "wrk-rules-of-sociological-method-durkheim", title: "قواعد المنهج السوسيولوجي", type: "عمل / كتاب"
 - id: "wrk-elementary-forms-religious-life-durkheim", title: "الأشكال الأولية للحياة الدينية", type: "عمل / كتاب"
 - id: "con-totemic-sacrifice-smith-durkheim-influence", title: "أثرُ نظرية القربان الطوطمي عند روبرتسون سميث في دوركهايم", type: "مفهوم"
+- id: "thk-gordon-lynch", title: "غوردون لينچ (Gordon Lynch)", type: "مفكر"
 gaps:
+  - "**سُدَّت 2026-09-22 (دفعةٌ لاحقة):** إعادةُ تأويل غوردون لينچ لثنائية المقدَّس/الدنيوي في السوسيولوجيا الثقافية المعاصرة (2012) رُبطت الآن عبر `thk-gordon-lynch` (قسم علم الأديان المقارن)، دون تكرار عرض النظرية الدوركهايمية الأصلية هنا."
   - "**سُدَّت 2026-09-22:** أثرُ قراءة دوركهايم لروبرتسون سميث (*محاضرات في دين الساميّين*) في بناء نظرية القربان الطوطمي والمقدَّس/المدنَّس فُصِّل الآن في `con-totemic-sacrifice-smith-durkheim-influence` (قسم علم الأديان المقارن)."
   - "**سُدَّت الفجوة بالكامل 2026-09-15:** كُتبت أربعة ملفات wrk- توثّق كتبه الأربعة الكبرى (`wrk-division-of-labor-durkheim`، `wrk-rules-of-sociological-method-durkheim`، `wrk-suicide-durkheim`، `wrk-elementary-forms-religious-life-durkheim`)."
   - "هذا الملف أُنشئ في الدفعة 9 (مرحلة الحزم) من مهمة بناء قسم علم الاجتماع."

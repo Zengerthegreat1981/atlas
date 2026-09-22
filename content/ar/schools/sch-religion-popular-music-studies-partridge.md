@@ -24,11 +24,13 @@ related:
 - id: "wrk-lyre-of-orpheus-partridge", title: "The Lyre of Orpheus: Popular Music, the Sacred, and the Profane", type: "عمل / كتاب"
 - id: "thk-robin-sylvan", title: "روبن سيلفان (Robin Sylvan)", type: "مفكر"
 - id: "wrk-traces-of-the-spirit-sylvan", title: "Traces of the Spirit: The Religious Dimensions of Popular Music", type: "عمل / كتاب"
+- id: "thk-gordon-lynch", title: "غوردون لينچ (Gordon Lynch)", type: "مفكر"
+- id: "wrk-sacred-in-modern-world-lynch", title: "The Sacred in the Modern World: A Cultural Sociological Approach", type: "عمل / كتاب"
 gaps:
   - "الحقلُ يتمايز صراحةً عن `sch-comparative-religious-music-studies` (بيك): ذاك يدرس الموسيقى الطقسية/المقدَّسة الرسمية داخل التقاليد الدينية المؤسَّسية (الترتيل الفيدي، الأناشيد)، بينما هذا الحقلُ يدرس الموسيقى الشعبية العلمانية ظاهرياً (الروك، البوب، الهيڤي ميتال، الريغي) بوصفها موقعاً لظواهرَ دينيةٍ أو شبهِ دينيةٍ (التقديس، الحج إلى الحفلات، الكاريزما النجمية، «التديّنُ الخفيّ» occulture) — لا تكرار، بل حقلان متكاملان يغطّيان طرفَي المؤسَّسي/الشعبي. وُثِّق هذا الفرقُ صراحةً هنا تفادياً لالتباسٍ محتمل."
   - "الحقلُ يتداخل جزئياً مع دراسات الثقافة الشعبية العامة (Cultural Studies) لكنه يتمايز عنها بتركيزه الصريح على المقولات الدينية (المقدَّس، الطقس، الكاريزما، الحج) لا التحليل الاجتماعي الشامل للثقافة الجماهيرية وحده."
   - "لم تُضَف بعد عقدةٌ مستقلة لمفهوم «الثقافة الخفية» (Occulture) الذي صاغه پارتريدج نفسُه في مشروعه الأوسع *The Re-Enchantment of the West* (2004-2005) — مصطلحٌ محوريٌّ في تفكيره لكنه أعمُّ من الموسيقى الشعبية وحدها؛ تُرك لدفعةٍ لاحقة تخصِّصه بوصفه `con-` مستقلاً إن ثبتت الحاجة."
-  - "سُدَّت جزئياً 2026-09-22 (دفعةٌ لاحقة): روبن سيلفان (Robin Sylvan) وعملُه *Traces of the Spirit* (2002) أُضيفا الآن (`thk-robin-sylvan`، `wrk-traces-of-the-spirit-sylvan`) بوصفهما أساساً إثنوغرافياً ميدانياً سابقاً زمنياً لتنظير بارتريدج. غوردون لينچ (Gordon Lynch) لا يزال غيرَ مُضاف — مرشَّحٌ صريحٌ لدفعةٍ لاحقة."
+  - "سُدَّت بالكامل 2026-09-22 (دفعتان لاحقتان): روبن سيلفان (Robin Sylvan) وعملُه *Traces of the Spirit* (2002) أُضيفا (`thk-robin-sylvan`، `wrk-traces-of-the-spirit-sylvan`) بوصفهما أساساً إثنوغرافياً ميدانياً سابقاً زمنياً لتنظير بارتريدج، وأُضيف غوردون لينچ (Gordon Lynch) وعملُه *The Sacred in the Modern World* (2012) (`thk-gordon-lynch`، `wrk-sacred-in-modern-world-lynch`) بوصفه امتداداً سوسيولوجياً دوركهايمياً موازياً. أعمالُ لينچ اللاهوتية الأبكر (2002، 2005) تُركت عمداً خارج الأطلس لتجاوزها حدَّ القسم (دراسةُ الدين علمياً لا اللاهوت) — موثَّقٌ في `gaps` عقدته."
 ---
 
 # الدراسةُ الأكاديميةُ للدين والموسيقى الشعبية (Religion and Popular Music Studies)
