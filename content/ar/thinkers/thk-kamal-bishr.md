@@ -21,6 +21,7 @@ related:
 - id: "sch-modern-arabic-linguistics", title: "اللغوياتُ العربيةُ الحديثة (Modern Arabic Linguistics)", type: "مدرسة"
 - id: "thk-ibrahim-anis", title: "إبراهيم أنيس", type: "مفكر"
 - id: "thk-tammam-hassan", title: "تمّام حسّان", type: "مفكر"
+- id: "thk-ahmad-mukhtar-umar", title: "أحمد مختار عمر", type: "مفكر"
 gaps:
   - "لم يُعثر على ترجمةٍ إنجليزيةٍ أكاديميةٍ متخصّصةٍ بأعمال بِشر ضمن مصادر الأطلس؛ الاعتمادُ الرئيسي على مصادره العربية الأصلية."
 ---
