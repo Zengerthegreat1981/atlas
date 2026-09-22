@@ -15,6 +15,7 @@ related:
 - id: "sch-generative-phonology", title: "الصرفُ التوليديُّ والصواتةُ التوليدية (Generative Phonology)", type: "مدرسة"
 - id: "thk-prince-smolensky", title: "آلان برنس وپول سمولنسكي", type: "مفكر"
 - id: "wrk-sound-pattern-of-english-chomsky-halle", title: "The Sound Pattern of English", type: "أثر"
+- id: "thk-john-j-mccarthy", title: "جون ج. مكارثي", type: "مفكر"
 gaps: []
 ---
 

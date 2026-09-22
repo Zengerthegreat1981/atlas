@@ -32,6 +32,7 @@ related:
 - id: "con-feature-geometry-clements", title: "هندسةُ السمات عند كليمنتس (Feature Geometry)", type: "مفهوم"
 - id: "con-underspecification-theory-phonology", title: "نظريةُ التحديد الناقص في الصواتة (Underspecification Theory)", type: "مفهوم"
 - id: "thk-george-clements", title: "جورج كليمنتس", type: "مفكر"
+- id: "thk-john-j-mccarthy", title: "جون ج. مكارثي", type: "مفكر"
 gaps: []
 ---
 
