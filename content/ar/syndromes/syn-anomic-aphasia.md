@@ -14,6 +14,7 @@ edges: []
 related:
 - id: "dis-major-neurocognitive", title: "اضطراب معرفي عصبي رئيسي (الخرف)", type: "اضطراب/حالة إكلينيكية"
 - id: "con-sense-vs-reference", title: "المعنى مقابل المحمول (Sinn vs. Bedeutung)", type: "مفهوم"
+- id: "sch-classical-neurolinguistics", title: "علمُ اللغة العصبيُّ الكلاسيكي (Classical Neurolinguistics)", type: "مدرسة"
 gaps:
   - "رابط مقترح لـ«اضطرابات التواصل» (dis-communication-disorders) أُزيل مؤقتاً — العنصر غير موجود بعد في الأطلس (لا معتمد ولا مسودة)، يحتاج كتابة عبر مسار المسودات العادي قبل إعادة الربط."
   - "لم يُحدَّد بعد بدقة موقع الآفة التشريحية (التلفيف الزاوي مقابل الفص الصدغي السفلي الأيسر) من مصدر إكلينيكي أولي محقق."
