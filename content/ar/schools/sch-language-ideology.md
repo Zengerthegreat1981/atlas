@@ -19,6 +19,8 @@ related:
 - id: "thk-michael-silverstein", title: "مايكل سيلفرستاين", type: "مفكر"
 - id: "thk-judith-irvine", title: "جوديث إرڤين", type: "مفكر"
 - id: "sch-linguistic-imperialism", title: "اللسانياتُ الاستعماريةُ ونقدُها (Linguistic Imperialism)", type: "مدرسة"
+- id: "thk-susan-gal", title: "سوزان غال", type: "مفكر"
+- id: "con-standard-language-ideology", title: "أيديولوجيا اللغة المعيارية (Standard Language Ideology)", type: "مفهوم"
 gaps:
   - "لا `belongs_to`: فرعٌ من الأنثروبولوجيا اللغوية نشأ متقاطعاً مع اللسانيات الاجتماعية، لا منحدراً من مدرسةٍ لسانيةٍ نظريةٍ واحدة."
 ---
