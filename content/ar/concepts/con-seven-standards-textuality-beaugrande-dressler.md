@@ -15,6 +15,7 @@ related:
 - id: "sch-text-linguistics", title: "لسانياتُ النصِّ وتماسكُه (Text Linguistics)", type: "مدرسة"
 - id: "thk-robert-de-beaugrande", title: "روبرت-ألان دو بوغراند", type: "مفكر"
 - id: "con-discourse-markers", title: "علاماتُ الخطاب (Discourse Markers)", type: "مفهوم"
+- id: "thk-wolfgang-dressler", title: "ولفغانغ دريسلر", type: "مفكر"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لعمل دو بوغراند ودريسلر الأصلي ضمن مصادر الأطلس؛ الاعتمادُ على النصّ الإنجليزي الأصلي."
 ---
