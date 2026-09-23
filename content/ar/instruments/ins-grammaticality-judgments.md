@@ -18,6 +18,7 @@ edges:
 - rel: "belongs_to", target: "sch-generative-grammar", target_type: "مدرسة"
 related:
 - id: "sch-generative-grammar", title: "النحوُ التوليديُّ التحويليّ (Generative-Transformational Grammar)", type: "مدرسة"
+- id: "thk-carson-schutze", title: "كارسون شوتزه", type: "مفكر"
 gaps:
   - "لم يُعثر على دراسةٍ عربيةٍ منهجيةٍ تستعمل هذا الاختبار على اللهجات العربية ضمن مصادر الأطلس؛ الأمثلةُ المصدرية إنجليزية."
 ---

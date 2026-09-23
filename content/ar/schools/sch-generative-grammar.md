@@ -33,6 +33,7 @@ related:
 - id: "con-kernel-sentences-transformations-1957", title: "الجملُ النواةُ وقواعدُ التحويل في نموذج 1957 (Kernel Sentences & Transformations)", type: "مفهوم"
 - id: "thk-frederick-newmeyer", title: "فريدريك ج. نيومايِر", type: "مفكر"
 - id: "thk-randy-allen-harris", title: "راندي ألن هاريس", type: "مفكر"
+- id: "thk-carson-schutze", title: "كارسون شوتزه", type: "مفكر"
 gaps:
   - "**سُدَّ بالكامل 2026-09-23 (الدفعة 553)**: أُنشئ `thk-frederick-newmeyer`، مُفرِداً سيرة مؤرِّخ الحقل المستشهَد به في المصادر."
   - "**قرارٌ تحريريٌّ محسوم (DR-014)**: نعوم تشومسكي موسومٌ philosophy في الأطلس (thk-noam-chomsky، مُنشَأٌ أصلاً بوصفه فيلسوفَ لغةٍ وسياسة) ولا يُنشأ له نظيرٌ ثانٍ تحت linguistics. هذه العقدةُ (المدرسة) هي التي تحمل الوسمَ linguistics وتربط إليه بـrelated، لا هو."
