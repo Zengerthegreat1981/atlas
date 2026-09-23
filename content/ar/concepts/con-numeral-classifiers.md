@@ -14,6 +14,7 @@ edges:
 related:
 - id: "sch-linguistic-typology", title: "النمطيةُ اللغويةُ والكلّياتُ اللغوية (Linguistic Typology & Universals)", type: "مدرسة"
 - id: "con-morphological-typology", title: "النمطيةُ الصرفية (Morphological Typology)", type: "مفهوم"
+- id: "thk-alexandra-aikhenvald", title: "ألكسندرا آيخنفالد", type: "مفكر"
 gaps: []
 ---
 
