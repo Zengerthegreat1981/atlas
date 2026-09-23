@@ -18,6 +18,7 @@ edges:
 - rel: "belongs_to", target: "sch-paninian-sanskrit-grammar", target_type: "مدرسة"
 related:
 - id: "sch-paninian-sanskrit-grammar", title: "النحوُ الهنديُّ عند بانيني (Pāṇinian Sanskrit Grammar)", type: "مدرسة"
+- id: "thk-frits-staal", title: "فريتس ستال", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بعمله؛ الاعتمادُ على مصادره الإنجليزية الأساسية."
 ---
