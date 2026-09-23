@@ -24,6 +24,7 @@ related:
 - id: "con-nazm-theory-jurjani", title: "نظرية النظم عند الجرجاني (Nazm Theory)", type: "مفهوم"
 - id: "con-broken-plural-arabic-morphology", title: "جمعُ التكسير في الصرف العربي (Arabic Broken Plural)", type: "مفهوم"
 - id: "thk-jonathan-owens", title: "جوناثان أُوِنز", type: "مفكر"
+- id: "thk-michael-carter", title: "مايكل غراهام كارتر", type: "مفكر"
 gaps:
   - "هذه عقدةُ مدرسةٍ جذريةٌ لقسم علم اللغة (لا `belongs_to`، بدايةُ شجرة التقليد العربي)."
   - "**سُدَّ سابقاً**: مدرسةُ الكوفة والخلافُ حول القياس والسماع موثَّقان بالكامل في `sch-basra-kufa-grammatical-dispute` (مدرسةٌ مستقلة `evolved_from` هذه العقدة)."
