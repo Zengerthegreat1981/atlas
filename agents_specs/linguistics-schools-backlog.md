@@ -2178,3 +2178,15 @@ grep -rl "لا يملك عقدةَ سيرةٍ مستقلّة\|لا تملك عق
 **التالي المقترَح**: فحصُ con-writing-systems-typology وcon-definiteness-article-systems وcon-causative-constructions وcon-ideophones وcon-prosody-intonation وcon-honorifics-tv-distinction وcon-zero-copula-verbless-sentences (كلُّها ضمن `sch-linguistic-typology` ولم تُفحص بعد) بمسح مصادرها تباعاً — نمطٌ مضمونُ الإنتاجية بناءً على تجربة الدفعات الست الأخيرة.
 
 نموٌّ صافٍ من 515 إلى ~888 عقدة (+373)، أي نحو 68–74% من الهدف (1200–1400). **نقطةُ استئنافٍ فعلية عند نفاد السياق**؛ لا تقريرَ إغلاقٍ حتى يتحقّق الهدف أو رسالةُ مستخدمٍ حقيقية.
+
+## ⚠️ حالةٌ مقيسة — علامةُ 595 دفعة (2026-09-23، استئنافٌ ثامن وعشرون)
+
+عددُ العقد اللسانية الحيّة: ~890 (بعد دفعة 595: thk-florian-coulmas). آخر التزامٍ مؤكَّد: `ab717163` (التزامُ جلسةٍ أنثروبولوجية متزامنة استوعب ملفاتي الأربعة عبر سباق git add حميد سادس؛ سبقه `c0648e0a` لدفعة 594 وحدها). **68 دفعةً متتالية إضافية في هذه الجلسة الفرعية (529–595)**.
+
+سُدَّت فجوةُ con-writing-systems-typology بالكامل الآن (دانيلز وكولماس، دفعتان متتاليتان). **تحقّقتُ عبر `git show ab717163:<path>` أن الملفات الأربعة هبطت كاملةً وصحيحة**؛ لم يُعَد الالتزام.
+
+معرّفُ THK التالي: آخر مؤكَّد THK-12499؛ أعِد الفحصَ دوماً قبل كل إنشاء.
+
+**التالي المقترَح**: Christopher Lyons (Definiteness)، Mark Dingemanse (ideophones)، D. Robert Ladd أو Elisabeth Selkirk (prosody)، Albert Gilman (Brown & Gilman pronouns of power/solidarity)، Masayoshi Shibatani (honorifics)، Regina Pustet (copulas) — جميعُهم مصادرُ مؤكَّدة الفجوة في القائمة المرتَّبة (con-definiteness-article-systems، con-ideophones، con-prosody-intonation، con-honorifics-tv-distinction، con-zero-copula-verbless-sentences) ولم يُفحصوا بعد.
+
+نموٌّ صافٍ من 515 إلى ~890 عقدة (+375)، أي نحو 68–74% من الهدف (1200–1400). **نقطةُ استئنافٍ فعلية عند نفاد السياق**؛ لا تقريرَ إغلاقٍ حتى يتحقّق الهدف أو رسالةُ مستخدمٍ حقيقية.
