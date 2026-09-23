@@ -20,6 +20,7 @@ related:
 - id: "con-crisis-of-representation-anthropology", title: "أزمةُ التمثيل (Crisis of Representation)", type: "مفهوم"
 - id: "wrk-writing-culture-clifford-marcus", title: "كتابةُ الثقافة (Writing Culture)", type: "عمل / كتاب"
 - id: "wrk-predicament-of-culture-clifford", title: "مأزقُ الثقافة (The Predicament of Culture)", type: "عمل / كتاب"
+- id: "thk-renato-rosaldo", title: "ريناتو روزالدو (Renato Rosaldo)", type: "مفكر"
 gaps: []
 ---
 # جيمس كليفورد (James Clifford)
