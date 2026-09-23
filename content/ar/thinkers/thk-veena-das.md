@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-postcolonial-critique-anthropology", title: "النقدُ ما بعد الاستعماريّ للأنثروبولوجيا (Asad, Anthropology and the Colonial Encounter)", type: "مدرسة"
 - id: "thk-talal-asad", title: "طلال أسد (Talal Asad)", type: "مفكر"
+- id: "thk-tn-madan", title: "ت. ن. مادان (T. N. Madan)", type: "مفكر"
 gaps: []
 ---
 # ڤينا داس (Veena Das)
