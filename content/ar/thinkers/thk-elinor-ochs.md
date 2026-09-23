@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-ethnography-of-communication", title: "إثنوغرافيا التواصل (Ethnography of Communication)", type: "مدرسة"
 - id: "thk-alessandro-duranti", title: "أليساندرو دورانتي (Alessandro Duranti)", type: "مفكر"
+- id: "thk-webb-keane", title: "ويب كين (Webb Keane)", type: "مفكر"
 gaps:
   - "بامبي شيفلين (Bambi Schieffelin)، شريكةُ أوكس في تأسيس حقل التنشئة اللغوية، موثَّقةٌ بملفٍّ سابق تحت `part: \"linguistics\"` (thk-bambi-schieffelin)؛ لم تُستنسَخ سيرتُها هنا، ورُبطت أوكس بها ضمنياً عبر إشارةٍ نصّية لمشروعهما المشترك."
 ---
