@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-ethnography-of-communication", title: "إثنوغرافيا التواصل (Ethnography of Communication)", type: "مدرسة"
 - id: "thk-keith-basso", title: "كيث باسّو (Keith Basso)", type: "مفكر"
+- id: "thk-richard-bauman", title: "ريتشارد باومان (Richard Bauman)", type: "مفكر"
 gaps: []
 ---
 # دينيس تيدلوك (Dennis Tedlock)
