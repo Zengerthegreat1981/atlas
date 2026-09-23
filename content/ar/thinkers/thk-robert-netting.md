@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-cultural-ecology", title: "الإيكولوجيا الثقافية والتطوّريةُ الجديدة (Cultural Ecology)", type: "مدرسة"
 - id: "thk-julian-steward", title: "جوليان ستيوارد (Julian Steward)", type: "مفكر"
+- id: "thk-andrew-vayda", title: "أندرو ڤايدا (Andrew P. Vayda)", type: "مفكر"
 gaps: []
 ---
 # روبرت نتينغ (Robert Netting)
