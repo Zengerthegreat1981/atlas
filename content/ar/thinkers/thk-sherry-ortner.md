@@ -18,6 +18,7 @@ related:
 - id: "sch-anthropological-practice-theory", title: "البنينةُ والفاعلية (Ortner — Practice Theory in Anthropology)", type: "مدرسة"
 - id: "thk-marilyn-strathern", title: "ماريلين ستراذرن (Marilyn Strathern)", type: "مفكر"
 - id: "wrk-theory-anthropology-sixties-ortner", title: "النظريةُ في الأنثروبولوجيا منذ الستينيات (Theory in Anthropology since the Sixties)", type: "عمل / كتاب"
+- id: "thk-jean-lave", title: "جين لايڤ (Jean Lave)", type: "مفكر"
 gaps:
   - "تأثّرُ أورتنر ببيير بورديو وأنطوني غيدنز (نظرية البنينة) مذكورٌ نصّاً؛ لم يُضَف ضلعُ evolved_from صريح لأنّ ملفَّي بورديو وغيدنز موسومان `part: \"sociology\"` بقلم جلسةٍ أخرى، ولم يُتحقَّق من وجود سلسلة نسبٍ داخل الأطلس تبرِّر الضلع."
 ---
