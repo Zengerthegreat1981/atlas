@@ -18,8 +18,9 @@ related:
 - id: "con-diglossia", title: "الازدواجيةُ اللغوية (Diglossia)", type: "مفهوم"
 - id: "thk-james-milroy", title: "جيمس ميلروي", type: "مفكر"
 - id: "thk-lesley-milroy", title: "ليزلي ميلروي", type: "مفكر"
+- id: "thk-rosina-lippi-green", title: "روزينا ليپّي-غرين", type: "مفكر"
 gaps:
-  - "**سُدَّ بالكامل 2026-09-23 (الدفعة 583)**: أُنشئ `thk-james-milroy` و`thk-lesley-milroy`، مؤلِّفا Authority in Language المستشهَد به في المصادر دون أن يكونا مربوطَين هنا."
+  - "**سُدَّ بالكامل 2026-09-23 (الدفعة 583–584)**: أُنشئ `thk-james-milroy` و`thk-lesley-milroy` و`thk-rosina-lippi-green`، جميعُ المؤلِّفين المستشهَد بهم في المصادر دون أن يكونوا مربوطين هنا."
 ---
 
 # أيديولوجيا اللغة المعيارية
