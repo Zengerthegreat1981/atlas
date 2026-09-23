@@ -2334,3 +2334,15 @@ con-switch-reference-systems الآن مُشبَعةٌ بالكامل. مجمو�
 **التالي المقترَح**: Randy Allen Harris، ثم فحصُ بقية ملفات `instruments/` الموسومة linguistics (ins-clinical-linguistic-assessment، ins-dialect-atlas-geolinguistics، ins-eye-tracking-reaction-time، ins-grammaticality-judgments، ins-matched-guise-technique) بمسح مصادرها.
 
 نموٌّ صافٍ من 515 إلى ~906 عقدة (+391)، أي نحو 69–76% من الهدف (1200–1400). **نقطةُ استئنافٍ فعلية عند نفاد السياق**؛ لا تقريرَ إغلاقٍ حتى يتحقّق الهدف أو رسالةُ مستخدمٍ حقيقية.
+
+## ⚠️ حالةٌ مقيسة — علامةُ 612 دفعة (2026-09-23، evt- مثمرة أيضاً)
+
+عددُ العقد اللسانية الحيّة: ~907 (بعد دفعة 612: thk-randy-allen-harris). آخر التزامٍ مؤكَّد: `9a0bfbc8`. **85 دفعةً متتالية إضافية في هذه الجلسة الفرعية (529–612)**.
+
+**قرارٌ واعٍ محترِم لسابقةٍ موثَّقة**: جيمس مكاولي (طرفٌ في حدث حروب اللسانيات) لم يُنشأ عمداً احتراماً لقرارٍ سابق موثَّق صراحةً في نفس ملفّ evt-linguistics-wars-generative-semantics ("لم يُنشأ ملفٌّ مستقلّ لتلاميذ تشومسكي الآخرين... تفادياً لتوسّعٍ غير ضروري"). راندي ألن هاريس مختلفٌ (مؤلِّفُ المصدرِ المستشهَد به عن الحدث، لا طرفٌ في الحدث ذاته) فأُنشئ له ملفّ.
+
+معرّفُ THK التالي: آخر مؤكَّد THK-12515؛ أعِد الفحصَ دوماً قبل كل إنشاء.
+
+**التالي المقترَح**: فحصُ بقية ملفات `instruments/` الموسومة linguistics (ins-clinical-linguistic-assessment، ins-dialect-atlas-geolinguistics، ins-eye-tracking-reaction-time، ins-grammaticality-judgments، ins-matched-guise-technique) بمسح مصادرها، ثم `evt-alpac-report-machine-translation-1966` وevt-zunburiyya (الأخيرُ عربيٌّ تراثيٌّ، غالباً مُشبَع).
+
+نموٌّ صافٍ من 515 إلى ~907 عقدة (+392)، أي نحو 69–76% من الهدف (1200–1400). **نقطةُ استئنافٍ فعلية عند نفاد السياق**؛ لا تقريرَ إغلاقٍ حتى يتحقّق الهدف أو رسالةُ مستخدمٍ حقيقية.
