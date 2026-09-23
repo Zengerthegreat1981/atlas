@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-radcliffe-brown-structural-functionalism", title: "الوظيفيةُ البنائية عند رادكليف-براون (Radcliffe-Brownian Structural Functionalism)", type: "مدرسة"
 - id: "thk-edmund-leach", title: "إدموند ليتش (Edmund Leach)", type: "مفكر"
+- id: "thk-isaac-schapera", title: "إسحاق شاپيرا (Isaac Schapera)", type: "مفكر"
 gaps: []
 ---
 # أودري ريتشاردز (Audrey Richards)
