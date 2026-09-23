@@ -32,7 +32,9 @@ related:
 - id: "wrk-miftah-al-ulum-sakkaki", title: "مفتاحُ العلوم", type: "أثر"
 - id: "con-haqiqa-majaz-arabic-rhetoric", title: "ثنائيةُ الحقيقة والمجاز في البلاغة العربية (Ḥaqīqa vs. Majāz)", type: "مفهوم"
 - id: "con-ijaz-itnab-arabic-rhetoric", title: "الإيجازُ والإطنابُ والمساواةُ في البلاغة العربية", type: "مفهوم"
+- id: "thk-margaret-larkin", title: "مارغريت لاركين", type: "مفكر"
 gaps:
+  - "**سُدَّ بالكامل 2026-09-23 (الدفعة 566)**: أُنشئ `thk-margaret-larkin`، مؤلِّفةُ المرجع الإنجليزي المستشهَد به عن نظرية الجرجاني."
   - "**سُدَّ بالكامل 2026-09-22 (الدفعة 165)**: أُنشئ `thk-al-khatib-al-qazwini` و`wrk-talkhis-al-miftah-qazwini`."
   - "**سُدَّ بالكامل 2026-09-22 (الدفعة 235)**: أُنشئ `con-ilm-al-badi-arabic-rhetoric`، مكمِّلاً الفروعَ الثلاثة لعلوم البلاغة."
 ---

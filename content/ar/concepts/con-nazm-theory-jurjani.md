@@ -22,6 +22,7 @@ related:
 - id: "dia-jurjani-nazm-saussure-valeur-comparison", title: "الجرجانيُّ وسوسور: النظمُ مقابل القيمة التفاضلية", type: "حوار مع مدرسة مجاورة"
 - id: "con-ilm-al-maani-arabic-rhetoric", title: "علمُ المعاني: مطابقةُ الكلام لمقتضى الحال", type: "مفهوم"
 - id: "wrk-dalail-al-ijaz-jurjani", title: "دلائلُ الإعجاز", type: "أثر"
+- id: "thk-margaret-larkin", title: "مارغريت لاركين", type: "مفكر"
 gaps:
   - "**سُدَّ بالكامل 2026-09-22 (الدفعة 178)**: أُنشئ `dia-jurjani-nazm-saussure-valeur-comparison` الذي يقارن المشروعين بالتفصيل مع تحفّظاتٍ منهجية صريحة، ويربط مباشرةً بـ`con-linguistic-value-saussure` (بعد التحقّق من مطابقة عنوانها)."
 ---
