@@ -19,6 +19,7 @@ related:
 - id: "thk-edward-sapir", title: "إدوارد سابير (Edward Sapir)", type: "مفكر"
 - id: "thk-john-gumperz", title: "جون گمپرز (John J. Gumperz)", type: "مفكر"
 - id: "thk-keith-basso", title: "كيث باسّو (Keith Basso)", type: "مفكر"
+- id: "thk-susan-philips", title: "سوزان فيليپس (Susan U. Philips)", type: "مفكر"
 gaps: []
 ---
 # ديل هايمز (Dell Hymes)
