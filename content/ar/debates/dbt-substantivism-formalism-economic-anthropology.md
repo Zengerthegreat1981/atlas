@@ -15,9 +15,10 @@ related:
 - id: "sch-anthropological-political-economy", title: "الاقتصادُ السياسيُّ العالميُّ والتاريخ (Eric Wolf — Europe and the People Without History)", type: "مدرسة"
 - id: "thk-marshall-sahlins", title: "مارشال سالينز (Marshall Sahlins)", type: "مفكر"
 - id: "thk-maurice-godelier", title: "موريس غوديلييه (Maurice Godelier)", type: "مفكر"
+- id: "thk-raymond-firth", title: "ريموند فيرث (Raymond Firth)", type: "مفكر"
 gaps:
   - "كارل بولاني (مؤسِّس الجوهرانية الأصلي) موثَّقٌ ضمن `part: sociology` (thk-karl-polanyi) لا هنا؛ رُبط هذا الجدلُ من زاوية استقباله واستمراره في الأنثروبولوجيا الاقتصادية تحديداً."
-  - "الجانبُ الصوراني (Raymond Firth، Harold Schneider) لم يُوثَّق بملفّاتٍ مستقلّة بعد؛ ذُكر موقفُه هنا وصفياً ضمن الجدل لا كملفّاتٍ قائمة."
+  - "هارولد شنايدر (Harold Schneider)، الصورانيُّ الآخر، لم يُوثَّق بعد بملفٍّ مستقلّ؛ ذُكر موقفُه وصفياً ضمن الجدل فقط."
 ---
 # جدلُ الجوهرانية مقابل الصورانية في الأنثروبولوجيا الاقتصادية (Substantivism vs. Formalism)
 
