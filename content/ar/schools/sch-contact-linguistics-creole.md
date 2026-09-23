@@ -36,6 +36,7 @@ related:
 - id: "thk-david-decamp", title: "ديفيد ديكامپ", type: "مفكر"
 - id: "thk-maarten-mous", title: "مارتن موس", type: "مفكر"
 - id: "thk-yaron-matras", title: "يارون ماتراس", type: "مفكر"
+- id: "thk-uriel-weinreich", title: "أوريل ﭬاينرايخ", type: "مفكر"
 - id: "con-founder-principle-mufwene", title: "مبدأُ المؤسِّس عند مفوين (The Founder Principle)", type: "مفهوم"
 - id: "con-creole-exceptionalism-critique-degraff", title: "نقدُ الاستثنائية الكريولية عند دوغراف (Critique of Creole Exceptionalism)", type: "مفهوم"
 - id: "thk-michel-degraff", title: "ميشيل دوغراف", type: "مفكر"

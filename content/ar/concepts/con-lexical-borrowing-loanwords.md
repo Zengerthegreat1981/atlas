@@ -14,6 +14,7 @@ edges:
 related:
 - id: "sch-contact-linguistics-creole", title: "التماسُّ اللغويُّ والكريول والبِجن (Contact Linguistics)", type: "مدرسة"
 - id: "con-grammaticalization", title: "النحويةُ (Grammaticalization)", type: "مفهوم"
+- id: "thk-uriel-weinreich", title: "أوريل ﭬاينرايخ", type: "مفكر"
 gaps: []
 ---
 
