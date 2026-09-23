@@ -26,6 +26,7 @@ related:
 - id: "ins-dialect-atlas-geolinguistics", title: "الأطلسُ اللغويُّ والجغرافيا اللهجية (Dialect Atlas & Geolinguistics)", type: "منهج/أداة بحث"
 - id: "thk-peter-trudgill", title: "پيتر ترودجيل", type: "مفكر"
 - id: "thk-howard-giles", title: "هوارد جايلز", type: "مفكر"
+- id: "thk-jk-chambers", title: "ج. ك. تشامبرز", type: "مفكر"
 - id: "con-covert-prestige-linguistics", title: "المكانةُ الخفية في اللسانيات الاجتماعية (Covert Prestige)", type: "مفهوم"
 - id: "thk-penelope-eckert", title: "بينيلوپي إكرت", type: "مفكر"
 - id: "con-three-waves-variation-eckert", title: "الموجاتُ الثلاث لدراسة التغيّر اللغوي الاجتماعي عند إكرت (Three Waves of Variation Study)", type: "مفهوم"

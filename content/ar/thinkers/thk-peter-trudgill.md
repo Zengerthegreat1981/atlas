@@ -20,6 +20,7 @@ related:
 - id: "sch-variationist-sociolinguistics", title: "اللسانياتُ الاجتماعيةُ المتغيّرية (Labovian Variationist Sociolinguistics)", type: "مدرسة"
 - id: "thk-william-labov", title: "وليم لابوف", type: "مفكر"
 - id: "con-covert-prestige-linguistics", title: "المكانةُ الخفية في اللسانيات الاجتماعية (Covert Prestige)", type: "مفهوم"
+- id: "thk-jk-chambers", title: "ج. ك. تشامبرز", type: "مفكر"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لأعماله الأصلية ضمن مصادر الأطلس؛ الاعتمادُ على مصادره الإنجليزية الأساسية."
 ---

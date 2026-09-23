@@ -19,6 +19,7 @@ edges:
 related:
 - id: "sch-historical-comparative-linguistics", title: "اللسانياتُ التاريخيةُ والمقارنة", type: "مدرسة"
 - id: "sch-variationist-sociolinguistics", title: "اللسانياتُ الاجتماعيةُ المتغيّرية (Labovian Variationist Sociolinguistics)", type: "مدرسة"
+- id: "thk-jk-chambers", title: "ج. ك. تشامبرز", type: "مفكر"
 gaps: []
 ---
 
