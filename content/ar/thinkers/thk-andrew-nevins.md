@@ -19,6 +19,7 @@ edges:
 related:
 - id: "crt-piraha-recursion-challenge-universal-grammar", title: "تحدّي پيراها للعودية الكلّية (Pirahã Challenge to Universal Recursion)", type: "نقد خارجي موثَّق"
 - id: "thk-david-pesetsky", title: "ديفيد پسيتسكي", type: "مفكر"
+- id: "thk-cilene-rodrigues", title: "سيلين رودريغز", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بعمله؛ الاعتمادُ على مصادره الإنجليزية الأساسية."
 ---

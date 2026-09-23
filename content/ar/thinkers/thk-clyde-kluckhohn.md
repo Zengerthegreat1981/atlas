@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-boasian-cultural-relativism", title: "النسبيةُ الثقافية البواسية (Boasian Cultural Relativism & Historical Particularism)", type: "مدرسة"
 - id: "thk-e-adamson-hoebel", title: "إ. آدمسون هوبل (E. Adamson Hoebel)", type: "مفكر"
+- id: "thk-ruth-underhill", title: "روث أندرهيل (Ruth Underhill)", type: "مفكر"
 gaps: []
 ---
 # كلايد كلوكهون (Clyde Kluckhohn)

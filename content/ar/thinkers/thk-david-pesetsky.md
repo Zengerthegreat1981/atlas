@@ -21,8 +21,9 @@ related:
 - id: "crt-piraha-recursion-challenge-universal-grammar", title: "تحدّي پيراها للعودية الكلّية (Pirahã Challenge to Universal Recursion)", type: "نقد خارجي موثَّق"
 - id: "thk-daniel-everett", title: "دانيال إيفريت", type: "مفكر"
 - id: "thk-andrew-nevins", title: "أندرو نيفينز", type: "مفكر"
+- id: "thk-cilene-rodrigues", title: "سيلين رودريغز", type: "مفكر"
 gaps:
-  - "**سُدَّ جزئياً 2026-09-23 (الدفعة 560)**: أُنشئ `thk-andrew-nevins`. سيلين رودريغز، شريكةٌ ثالثة في نقد ادّعاءات إيفريت (2009)، لا تزال دون عقدةِ سيرةٍ مستقلّة. لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بعمله."
+  - "**سُدَّ بالكامل 2026-09-23 (الدفعة 561)**: أُنشئ `thk-andrew-nevins` (الدفعة 560) و`thk-cilene-rodrigues` (الدفعة 561)، شريكاه الاثنان في نقد ادّعاءات إيفريت (2009). لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بعمله."
 ---
 
 # ديفيد پسيتسكي
