@@ -27,6 +27,7 @@ related:
 - id: "sch-prague-linguistic-circle", title: "حلقةُ براغ اللسانية (Prague Linguistic Circle)", type: "مدرسة"
 - id: "con-linearity-of-signifier-saussure", title: "خطّيةُ الدالِّ عند سوسور (Linéarité du Signifiant)", type: "مفهوم"
 - id: "thk-charles-bally", title: "شارل بالي", type: "مفكر"
+- id: "thk-albert-sechehaye", title: "ألبرت سيشهاي", type: "مفكر"
 gaps:
   - "هذه عقدةٌ جذريةٌ في شجرة قسم علم اللغة (لا `belongs_to`) — بدايةُ اللسانيات البنيوية الحديثة."
   - "التمييزُ بين البنيوية السوسيرية والبنيوية الفرنسية اللاحقة في الأنثروبولوجيا (ليفي-ستروس) والنقد الأدبي (بارت) موسومٌ في أقسامٍ أخرى؛ هذا الملفُّ يقتصر على أصلها اللساني ولا يزعم تغطية امتداداتها."

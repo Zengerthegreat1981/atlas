@@ -20,8 +20,9 @@ related:
 - id: "sch-saussurean-structuralism", title: "البنيويةُ السوسيرية (Saussurean Structuralism)", type: "مدرسة"
 - id: "thk-ferdinand-de-saussure", title: "فرديناند دي سوسور", type: "مفكر"
 - id: "wrk-cours-de-linguistique-generale", title: "دروسٌ في اللسانيات العامّة", type: "عمل / كتاب"
+- id: "thk-albert-sechehaye", title: "ألبرت سيشهاي", type: "مفكر"
 gaps:
-  - "ألبرت سيشهاي (Albert Sechehaye)، شريكُه في تحرير الدروس، لا يملك عقدةَ سيرةٍ مستقلّة في الأطلس؛ يُشار إلى دوره المشترك ضمن هذا الملف دون تكرار سيرته الكاملة."
+  - "**سُدَّ بالكامل 2026-09-23 (الدفعة 541)**: أُنشئ `thk-albert-sechehaye`، مُفرِداً سيرة شريكه في التحرير وإسهامَه النظري المستقلّ في التركيب النحوي."
 ---
 
 # شارل بالي
