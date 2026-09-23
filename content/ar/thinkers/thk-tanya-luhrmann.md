@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-psychological-anthropology", title: "الأنثروبولوجيا النفسية وتعلّمُ الثقافة (Psychological Anthropology — Whiting, Shweder, Luhrmann)", type: "مدرسة"
 - id: "thk-catherine-lutz", title: "كاثرين لوتز (Catherine Lutz)", type: "مفكر"
+- id: "thk-john-beatrice-whiting", title: "جون وبياتريس ويتينغ (John & Beatrice Whiting)", type: "مفكر"
 gaps: []
 ---
 # تانيا لورمان (Tanya Luhrmann)

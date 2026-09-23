@@ -20,7 +20,7 @@ related:
 - id: "thk-richard-shweder", title: "ريتشارد شويدر (Richard Shweder)", type: "مفكر"
 - id: "sch-culture-and-personality", title: "مدرسةُ الثقافة والشخصية (Culture and Personality)", type: "مدرسة"
 gaps:
-  - "جون وبياتريس ويتينغ (مشروع الثقافات الستّ المقارن، 1950s-1960s) لم يُكتبا بعد كملفّين مستقلّين؛ سيُضافان إن توفّرت دفعةٌ لاحقة مخصَّصة. تانيا لورمان أُضيفت الآن بملفٍّ مستقلّ (`thk-tanya-luhrmann`)."
+  - "جون وبياتريس ويتينغ وتانيا لورمان أُضيفا الآن بملفّاتٍ مستقلّة (`thk-john-beatrice-whiting`، `thk-tanya-luhrmann`)؛ لا فجواتٍ متبقّيةً موثَّقة في هذه المدرسة."
 ---
 # الأنثروبولوجيا النفسية وتعلّمُ الثقافة (Psychological Anthropology — Whiting, Shweder, Luhrmann)
 
