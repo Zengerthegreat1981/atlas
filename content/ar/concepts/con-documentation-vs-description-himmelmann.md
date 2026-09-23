@@ -15,6 +15,7 @@ related:
 - id: "sch-language-policy-endangerment", title: "السياسةُ اللغويةُ وموتُ اللغات وإحياؤها (Language Policy & Endangerment)", type: "مدرسة"
 - id: "ins-descriptive-linguistic-fieldwork", title: "التسجيلُ الميدانيُّ ووصفُ اللغات (Descriptive Fieldwork)", type: "منهج/أداة بحث"
 - id: "thk-nikolaus-himmelmann", title: "نيكولاوس هيملمان", type: "مفكر"
+- id: "thk-ken-hale", title: "كِن هيل", type: "مفكر"
 gaps:
   - "**سُدَّ 2026-09-22**: أُنشئ `thk-nikolaus-himmelmann` ورُبط أعلاه."
 ---
