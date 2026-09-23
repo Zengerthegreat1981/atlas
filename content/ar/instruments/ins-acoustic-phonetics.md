@@ -19,6 +19,7 @@ related:
 - id: "con-phoneme", title: "الفونيم", type: "مفهوم"
 - id: "sch-prague-linguistic-circle", title: "حلقةُ براغ اللسانية (Prague Linguistic Circle)", type: "مدرسة"
 - id: "thk-peter-ladefoged", title: "پيتر لادفوگد", type: "مفكر"
+- id: "thk-keith-johnson", title: "كيث جونسون", type: "مفكر"
 gaps: []
 ---
 

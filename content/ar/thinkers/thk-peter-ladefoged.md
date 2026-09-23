@@ -19,6 +19,7 @@ edges:
 related:
 - id: "ins-acoustic-phonetics", title: "القياسُ الصوتيُّ والتحليلُ الأكوستيكي (Acoustic Phonetics)", type: "منهج/أداة بحث"
 - id: "sch-linguistic-typology", title: "النمطيةُ اللغويةُ والكلّياتُ اللغوية (Linguistic Typology & Universals)", type: "مدرسة"
+- id: "thk-keith-johnson", title: "كيث جونسون", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بعمله؛ الاعتمادُ على مصدره الإنجليزي الأساسي."
 ---
