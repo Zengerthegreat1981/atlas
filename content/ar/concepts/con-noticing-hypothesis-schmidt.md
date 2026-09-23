@@ -15,8 +15,9 @@ related:
 - id: "sch-second-language-acquisition", title: "اكتسابُ اللغة الثانيةُ والفترةُ الحرجة (SLA & Critical Period)", type: "مدرسة"
 - id: "con-krashen-monitor-model", title: "نموذجُ المُرَاقِب وفرضياتُ كراشن الخمس (Monitor Model)", type: "مفهوم"
 - id: "con-interaction-hypothesis-long", title: "فرضيةُ التفاعل ومفاوضةُ المعنى عند لونغ (Interaction Hypothesis)", type: "مفهوم"
+- id: "thk-richard-schmidt", title: "ريتشارد شميت", type: "مفكر"
 gaps:
-  - "لم يُعثر على عقدةٍ مستقلّةٍ لريتشارد شميت ضمن الأطلس؛ العقدةُ تُشير إلى عمله مباشرةً."
+  - "**سُدَّ بالكامل 2026-09-23 (الدفعة 533)**: أُنشئ `thk-richard-schmidt`، مُفرِداً سيرة صاحب هذه الفرضية."
 ---
 
 # فرضيةُ الالتفات عند شميت

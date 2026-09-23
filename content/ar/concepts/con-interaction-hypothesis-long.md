@@ -15,6 +15,7 @@ related:
 - id: "sch-second-language-acquisition", title: "اكتسابُ اللغة الثانيةُ والفترةُ الحرجة (SLA & Critical Period)", type: "مدرسة"
 - id: "thk-michael-long", title: "مايكل لونغ", type: "مفكر"
 - id: "con-krashen-monitor-model", title: "نموذجُ المُرَاقِب وفرضياتُ كراشن الخمس (Monitor Model)", type: "مفهوم"
+- id: "thk-richard-schmidt", title: "ريتشارد شميت", type: "مفكر"
 gaps: []
 ---
 

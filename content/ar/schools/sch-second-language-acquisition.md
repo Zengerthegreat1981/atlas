@@ -32,6 +32,7 @@ related:
 - id: "con-foreign-language-anxiety-horwitz", title: "قلقُ اللغة الأجنبية عند هورفيتس (Foreign Language Anxiety)", type: "مفهوم"
 - id: "thk-manfred-pienemann", title: "مانفرِد بينيمان", type: "مفكر"
 - id: "thk-elaine-horwitz", title: "إلين ك. هورفيتس", type: "مفكر"
+- id: "thk-richard-schmidt", title: "ريتشارد شميت", type: "مفكر"
 gaps:
   - "حيادٌ صريحٌ إزاء مدى انطباق فرضية الفترة الحرجة على اللغة الثانية تحديداً (بخلاف اللغة الأولى، موضعُ إجماعٍ أوسع): الأدلةُ التجريبية مختلَطة حول وجود عتبةٍ عمريةٍ حادّة أو تدرّجٍ تدريجيٍّ في القدرة على إتقان لغةٍ ثانية؛ لا يُرجَّح موقفٌ هنا."
 ---
