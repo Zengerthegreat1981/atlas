@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-writing-culture-crisis", title: "أزمةُ التمثيل وكتابةُ الثقافة (Writing Culture — Clifford & Marcus)", type: "مدرسة"
 - id: "thk-james-clifford", title: "جيمس كليفورد (James Clifford)", type: "مفكر"
+- id: "thk-michelle-rosaldo", title: "ميشيل زيمبالِست روزالدو (Michelle Zimbalist Rosaldo)", type: "مفكر"
 gaps: []
 ---
 # ريناتو روزالدو (Renato Rosaldo)
