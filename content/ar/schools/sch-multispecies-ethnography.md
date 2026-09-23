@@ -19,8 +19,9 @@ edges:
 related:
 - id: "thk-anna-tsing", title: "آنّا تسينغ (Anna Tsing)", type: "مفكر"
 - id: "sch-anthropology-of-anthropocene", title: "أنثروبولوجيا الأنثروبوسين والمناخ (Anthropology of the Anthropocene)", type: "مدرسة"
+- id: "thk-eduardo-kohn", title: "إدواردو كون (Eduardo Kohn)", type: "مفكر"
 gaps:
-  - "إدواردو كون (How Forests Think) ودونا هاراوي لم يُكتبا بعد كملفّين مستقلّين؛ ذُكرا نصّاً فقط ضمن ملفّ تسينغ وهذا الملفّ."
+  - "دونا هاراوي (thk-haraway) موجودةٌ بملفٍّ مستقلٍّ بالفعل تحت جزءٍ آخر؛ إدواردو كون رُبط الآن هنا بملفٍّ مستقلٍّ ضمن جزء الأنثروبولوجيا."
 ---
 # الأنثروبولوجيا متعدّدةُ الأنواع (Multispecies Ethnography — Haraway, Tsing, Kohn)
 
