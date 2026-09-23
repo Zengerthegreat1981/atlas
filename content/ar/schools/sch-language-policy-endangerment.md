@@ -23,6 +23,8 @@ related:
 - id: "stu-hebrew-language-revival", title: "إحياءُ اللغة العبرية الحديثة: حالةٌ نادرة", type: "دراسة"
 - id: "thk-elana-shohamy", title: "إيلانا شوهامي", type: "مفكر"
 - id: "con-linguistic-landscape", title: "المشهدُ اللغويُّ (Linguistic Landscape)", type: "مفهوم"
+- id: "thk-rodrigue-landry", title: "رودريغ لاندري", type: "مفكر"
+- id: "thk-richard-bourhis", title: "ريتشارد بورهيس", type: "مفكر"
 - id: "con-gids-fishman", title: "المقياسُ المتدرِّج للانقطاع بين الأجيال عند فيشمان (GIDS)", type: "مفهوم"
 - id: "thk-leanne-hinton", title: "لِيان هينتون", type: "مفكر"
 - id: "con-master-apprentice-method-hinton", title: "منهجُ المعلّم والمتدرِّب لإحياء اللغة عند هينتون (Master-Apprentice Method)", type: "مفهوم"
