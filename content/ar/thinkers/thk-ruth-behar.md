@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-writing-culture-crisis", title: "أزمةُ التمثيل وكتابةُ الثقافة (Writing Culture — Clifford & Marcus)", type: "مدرسة"
 - id: "thk-renato-rosaldo", title: "ريناتو روزالدو (Renato Rosaldo)", type: "مفكر"
+- id: "thk-kirin-narayan", title: "كيرين نارايان (Kirin Narayan)", type: "مفكر"
 gaps: []
 ---
 # روث بيهار (Ruth Behar)
