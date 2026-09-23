@@ -20,6 +20,7 @@ related:
 - id: "wrk-theory-culture-change-steward", title: "نظريةُ التغيّر الثقافي (Theory of Culture Change)", type: "عمل / كتاب"
 - id: "thk-leslie-white", title: "ليزلي وايت (Leslie White)", type: "مفكر"
 - id: "thk-roy-rappaport", title: "روي رابابورت", type: "مفكر"
+- id: "thk-robert-netting", title: "روبرت نتينغ (Robert Netting)", type: "مفكر"
 gaps:
   - "روي رابابورت موجودٌ مسبقاً بوسم `part: \"religious-studies\"` (نظرية الطقس) بقلم جلسةٍ متزامنة؛ رُبط هنا من زاوية الإيكولوجيا الثقافية دون استنساخ."
 ---
