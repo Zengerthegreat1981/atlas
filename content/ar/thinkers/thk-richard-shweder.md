@@ -18,6 +18,7 @@ related:
 - id: "sch-psychological-anthropology", title: "الأنثروبولوجيا النفسية وتعلّمُ الثقافة (Psychological Anthropology — Whiting, Shweder, Luhrmann)", type: "مدرسة"
 - id: "con-big-three-morality-shweder", title: "الأخلاقُ الثلاثية (The Big Three of Morality)", type: "مفهوم"
 - id: "wrk-thinking-through-cultures-shweder", title: "التفكيرُ عبر الثقافات (Thinking Through Cultures)", type: "عمل / كتاب"
+- id: "thk-unni-wikan", title: "أونّي ڤيكان (Unni Wikan)", type: "مفكر"
 gaps:
   - "جون ويتينغ وبياتريس ويتينغ (Whiting & Whiting) وتانيا لورمان لم يُكتبوا بعد كملفّاتٍ مستقلّة؛ ذُكروا نصّاً في ملفّ المدرسة كجزءٍ من تاريخها لا كملفّاتٍ قائمة."
 ---
