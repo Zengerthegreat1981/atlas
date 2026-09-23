@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-manchester-school", title: "مدرسةُ مانشستر وتحليلُ الموقف (Manchester School)", type: "مدرسة"
 - id: "thk-max-gluckman", title: "ماكس غلوكمان (Max Gluckman)", type: "مفكر"
+- id: "thk-laura-nader", title: "لورا نادر (Laura Nader)", type: "مفكر"
 gaps: []
 ---
 # سالي فوك مور (Sally Falk Moore)
