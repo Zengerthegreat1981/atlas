@@ -27,6 +27,7 @@ related:
 - id: "thk-stephen-levinson", title: "ستيفن ليفنسون", type: "مفكر"
 - id: "con-cognitive-grammar-langacker", title: "النحوُ المعرفيُّ عند لانغاكر (Cognitive Grammar)", type: "مفهوم"
 - id: "thk-vyvyan-evans", title: "ﭬيﭬيان إيڤانز", type: "مفكر"
+- id: "thk-melanie-green", title: "ميلاني غرين", type: "مفكر"
 gaps:
   - "**قرارٌ تحريري**: جورج لاكوف وإيلينور روش موسومان بالفعل `psychology` في الأطلس (`thk-george-lakoff`، `thk-erosch`) بوصفهما رائدَين مؤسِّسَين لهذه المدرسة من زاويةٍ معرفيةٍ نفسية. لم يُنشأ لهما نظيرٌ ثانٍ هنا التزاماً بقاعدة عدم التكرار؛ رُبط إليهما عبر `related` في ملفَّي المفهومين التاليَين."
   - "**سُدَّ 2026-09-22 (الدفعة 154)**: `evolved_from` إلى النحو التوليدي موثَّقٌ تاريخياً عبر انشقاق 'حروب اللسانيات' (Linguistics Wars)؛ أُنشئ `evt-linguistics-wars-generative-semantics` لتوثيق هذا الحدث."
