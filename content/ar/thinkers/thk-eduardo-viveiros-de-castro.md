@@ -19,6 +19,7 @@ related:
 - id: "thk-claude-levi-strauss", title: "كلود ليفي-ستراوس", type: "مفكر"
 - id: "con-multinaturalism-viveiros-de-castro", title: "تعدّدُ الطبائع (Multinaturalism)", type: "مفهوم"
 - id: "wrk-cannibal-metaphysics-viveiros-de-castro", title: "الميتافيزيقا الأكولة (Cannibal Metaphysics)", type: "عمل / كتاب"
+- id: "thk-manuela-carneiro-da-cunha", title: "مانويلا كارنيرو دا كونيا (Manuela Carneiro da Cunha)", type: "مفكر"
 gaps:
   - "علاقتُه بكلود ليڤي-ستروس مذكورةٌ نصّاً (استعارةٌ وتجاوزٌ لبنيويته)؛ لم يُضَف ضلعُ evolved_from صريح لأنّ ملفّ ليڤي-ستروس موسومٌ حالياً `part: \"philosophy\"` والقرارُ بشأنه مُرجَأ (انظر DR-013)."
 ---
