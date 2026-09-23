@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-radcliffe-brown-structural-functionalism", title: "الوظيفيةُ البنائية عند رادكليف-براون (Radcliffe-Brownian Structural Functionalism)", type: "مدرسة"
 - id: "thk-fredrik-barth", title: "فريدريك بارت (Fredrik Barth)", type: "مفكر"
+- id: "thk-audrey-richards", title: "أودري ريتشاردز (Audrey Richards)", type: "مفكر"
 gaps: []
 ---
 # إدموند ليتش (Edmund Leach)
