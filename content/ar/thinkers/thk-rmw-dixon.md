@@ -19,6 +19,7 @@ edges:
 related:
 - id: "sch-linguistic-typology", title: "النمطيةُ اللغويةُ والكلّياتُ اللغوية (Linguistic Typology & Universals)", type: "مدرسة"
 - id: "con-comparative-constructions-typology", title: "نمطيةُ تراكيب المقارنة (Comparative Constructions Typology)", type: "مفهوم"
+- id: "thk-leon-stassen", title: "ليون ستاسِن", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بعمله؛ الاعتمادُ على مصادره الإنجليزية الأساسية."
   - "لم يُفصَّل هنا مؤلَّفُه المرجعي الأضخم *Basic Linguistic Theory* (ثلاثةُ مجلَّدات)، الذي يخرج عن نطاق نمطية تراكيب المقارنة موضوعِ هذه العقدة."
