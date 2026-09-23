@@ -18,7 +18,7 @@ related:
 - id: "sch-anthropological-political-economy", title: "الاقتصادُ السياسيُّ العالميُّ والتاريخ (Eric Wolf — Europe and the People Without History)", type: "مدرسة"
 - id: "dbt-substantivism-formalism-economic-anthropology", title: "جدلُ الجوهرانية مقابل الصورانية في الأنثروبولوجيا الاقتصادية (Substantivism vs. Formalism)", type: "جدل"
 - id: "thk-marshall-sahlins", title: "مارشال سالينز (Marshall Sahlins)", type: "مفكر"
-- id: "thk-paul-bohannan", title: "بول بوهانان", type: "مفكر"
+- id: "thk-paul-bohannan", title: "پول بوهانان (Paul Bohannan)", type: "مفكر"
 - id: "thk-laura-bohannan", title: "لورا بوهانان (Laura Bohannan)", type: "مفكر"
 gaps: []
 ---

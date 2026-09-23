@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-anthropological-political-economy", target_type: "مدرسة"
 related:
 - id: "sch-anthropological-political-economy", title: "الاقتصادُ السياسيُّ العالميُّ والتاريخ (Eric Wolf — Europe and the People Without History)", type: "مدرسة"
-- id: "thk-paul-bohannan", title: "بول بوهانان", type: "مفكر"
+- id: "thk-paul-bohannan", title: "پول بوهانان (Paul Bohannan)", type: "مفكر"
 gaps: []
 ---
 # لورا بوهانان (Laura Bohannan)
