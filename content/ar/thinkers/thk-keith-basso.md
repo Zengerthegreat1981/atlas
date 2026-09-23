@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-ethnography-of-communication", title: "إثنوغرافيا التواصل (Ethnography of Communication)", type: "مدرسة"
 - id: "thk-dell-hymes", title: "ديل هايمز (Dell Hymes)", type: "مفكر"
+- id: "thk-dennis-tedlock", title: "دينيس تيدلوك (Dennis Tedlock)", type: "مفكر"
 gaps: []
 ---
 # كيث باسّو (Keith Basso)
