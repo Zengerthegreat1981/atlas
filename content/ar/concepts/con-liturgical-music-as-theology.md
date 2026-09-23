@@ -1,0 +1,24 @@
+---
+slug: "con-liturgical-music-as-theology"
+id: "CON-12461"
+type: "مفهوم"
+part: "religious-studies"
+level: "متقدم"
+title: "الموسيقى الليتورجيةُ بوصفِها لاهوتاً"
+en: "Liturgical Music as Theology"
+crumb: "علمُ الأديان ← الموسيقى والدين ← الموسيقى الليتورجيةُ بوصفِها لاهوتاً"
+related:
+- id: "sch-comparative-religious-music-studies", title: "الدراسةُ الأكاديميةُ للموسيقى الدينية المقارِنة", type: "مدرسة"
+- id: "thk-bruno-nettl", title: "برونو نيتل", type: "مفكر"
+gaps:
+  - "دراسةُ تاريخ المفهوم وتطورُه عبرَ التقاليد الدينية المختلفة."
+---
+
+# الموسيقى الليتورجيةُ بوصفِها لاهوتاً
+
+مفهومٌ مركزيٌّ في دراسات الموسيقى والدين، يعكس التقاطعَ بينَ الجانب الصوتيِّ والأبعادِ اللاهوتية والروحية للممارسة الدينية.
+
+## المصادر
+
+- Beck, Guy L. (1993). *Sonic Theology: Hinduism and Sacred Sound*. Columbia, SC: University of South Carolina Press. (تحقَّقتُ عبر OpenLibrary.)
+- Nettl, Bruno (1983). *The Study of Ethnomusicology: Thirty-one Issues and Concepts*. Urbana: University of Illinois Press. (تحقَّقتُ عبر OpenLibrary.)
