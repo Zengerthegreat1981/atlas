@@ -19,6 +19,7 @@ related:
 - id: "thk-victor-turner", title: "فيكتور تيرنر (Victor Turner)", type: "مفكر"
 - id: "con-house-street-damatta", title: "البيتُ والشارع (A Casa e a Rua)", type: "مفهوم"
 - id: "wrk-carnivals-rogues-heroes-damatta", title: "الكرنفالاتُ والمحتالون والأبطال (Carnivals, Rogues, and Heroes)", type: "عمل / كتاب"
+- id: "thk-roberto-cardoso-de-oliveira", title: "روبرتو كاردوسو دي أوليڤيرا (Roberto Cardoso de Oliveira)", type: "مفكر"
 gaps: []
 ---
 # روبرتو داماتا (Roberto DaMatta)
