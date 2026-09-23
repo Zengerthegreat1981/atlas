@@ -30,6 +30,7 @@ related:
 - id: "thk-itamar-even-zohar", title: "إيتامار إيڤن-زوهار", type: "مفكر"
 - id: "con-polysystem-theory-even-zohar", title: "نظريةُ النسق المتعدِّد عند إيڤن-زوهار (Polysystem Theory)", type: "مفهوم"
 - id: "thk-hans-vermeer", title: "هانز ﭬيرمير", type: "مفكر"
+- id: "thk-katharina-reiss", title: "كاترينا رايس", type: "مفكر"
 gaps: []
 ---
 
