@@ -14,6 +14,7 @@ edges:
 related:
 - id: "thk-michael-halliday", title: "مايكل هاليداي", type: "مفكر"
 - id: "sch-systemic-functional-linguistics", title: "اللسانياتُ الوظيفيةُ المنهجية (Systemic Functional Linguistics)", type: "مدرسة"
+- id: "thk-christian-matthiessen", title: "كريستيان ماتيسن", type: "مفكر"
 gaps: []
 ---
 

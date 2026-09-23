@@ -15,6 +15,7 @@ related:
 - id: "sch-text-linguistics", title: "لسانياتُ النصِّ وتماسكُه (Text Linguistics)", type: "مدرسة"
 - id: "con-theme-system-halliday", title: "نظامُ الموضوع عند هاليداي (Theme System)", type: "مفهوم"
 - id: "con-thematic-progression-danes", title: "التقدّمُ الموضوعي عند دانش (Thematic Progression)", type: "مفهوم"
+- id: "thk-christian-matthiessen", title: "كريستيان ماتيسن", type: "مفكر"
 gaps: []
 ---
 
