@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-ethnography-of-communication", title: "إثنوغرافيا التواصل (Ethnography of Communication)", type: "مدرسة"
 - id: "thk-dennis-tedlock", title: "دينيس تيدلوك (Dennis Tedlock)", type: "مفكر"
+- id: "thk-charles-briggs", title: "تشارلز بريغز (Charles L. Briggs)", type: "مفكر"
 gaps: []
 ---
 # ريتشارد باومان (Richard Bauman)
