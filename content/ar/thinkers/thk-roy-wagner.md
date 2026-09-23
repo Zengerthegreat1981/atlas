@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-ontological-turn", title: "المنعطفُ الأنطولوجيّ (The Ontological Turn — Viveiros de Castro, Holbraad)", type: "مدرسة"
 - id: "thk-marilyn-strathern", title: "ماريلين ستراذرن (Marilyn Strathern)", type: "مفكر"
+- id: "thk-nancy-munn", title: "نانسي مان (Nancy Munn)", type: "مفكر"
 gaps: []
 ---
 # روي واغنر (Roy Wagner)
