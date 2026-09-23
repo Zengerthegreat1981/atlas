@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-anthropological-political-economy", title: "الاقتصادُ السياسيُّ العالميُّ والتاريخ (Eric Wolf — Europe and the People Without History)", type: "مدرسة"
 - id: "thk-eric-wolf", title: "إريك وولف (Eric Wolf)", type: "مفكر"
+- id: "thk-karen-ho", title: "كارِن هو (Karen Ho)", type: "مفكر"
 gaps: []
 ---
 # جون ناش (June Nash)
