@@ -19,7 +19,9 @@ related:
 - id: "con-cultural-core-steward", title: "النواةُ الثقافية (Cultural Core)", type: "مفهوم"
 - id: "wrk-theory-culture-change-steward", title: "نظريةُ التغيّر الثقافي (Theory of Culture Change)", type: "عمل / كتاب"
 - id: "thk-leslie-white", title: "ليزلي وايت (Leslie White)", type: "مفكر"
-gaps: []
+- id: "thk-roy-rappaport", title: "روي رابابورت", type: "مفكر"
+gaps:
+  - "روي رابابورت موجودٌ مسبقاً بوسم `part: \"religious-studies\"` (نظرية الطقس) بقلم جلسةٍ متزامنة؛ رُبط هنا من زاوية الإيكولوجيا الثقافية دون استنساخ."
 ---
 # جوليان ستيوارد (Julian Steward)
 
