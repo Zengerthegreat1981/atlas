@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-ethnography-of-communication", title: "إثنوغرافيا التواصل (Ethnography of Communication)", type: "مدرسة"
 - id: "thk-dell-hymes", title: "ديل هايمز (Dell Hymes)", type: "مفكر"
+- id: "thk-shirley-brice-heath", title: "شيرلي برايس هيث (Shirley Brice Heath)", type: "مفكر"
 gaps: []
 ---
 # سوزان فيليپس (Susan U. Philips)
