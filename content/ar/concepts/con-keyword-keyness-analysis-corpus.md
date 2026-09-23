@@ -15,6 +15,7 @@ related:
 - id: "sch-corpus-linguistics", title: "لسانياتُ المدوّنات ومناهجُها (Corpus Linguistics)", type: "مدرسة"
 - id: "con-semantic-prosody-corpus", title: "العروضُ الدلاليّ في لسانيات المدوّنات (Semantic Prosody)", type: "مفهوم"
 - id: "thk-john-sinclair", title: "جون سنكلير", type: "مفكر"
+- id: "thk-mike-scott", title: "مايك سكوت", type: "مفكر"
 gaps: []
 ---
 

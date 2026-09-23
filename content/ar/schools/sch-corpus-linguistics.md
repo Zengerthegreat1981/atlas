@@ -18,6 +18,7 @@ edges: []
 related:
 - id: "thk-john-sinclair", title: "جون سنكلير", type: "مفكر"
 - id: "thk-randolph-quirk", title: "راندولف كويرك", type: "مفكر"
+- id: "thk-mike-scott", title: "مايك سكوت", type: "مفكر"
 - id: "ins-grammaticality-judgments", title: "الاختباراتُ النحويةُ وحكمُ المتكلّم الأصليّ (Grammaticality Judgments)", type: "منهج/أداة بحث"
 - id: "con-idioms-formulaic-language", title: "التعابيرُ الاصطلاحية واللغةُ الصيغية (Idioms & Formulaic Language)", type: "مفهوم"
 - id: "con-semantic-prosody-corpus", title: "العروضُ الدلاليّ في لسانيات المدوّنات (Semantic Prosody)", type: "مفهوم"
