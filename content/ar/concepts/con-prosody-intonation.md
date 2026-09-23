@@ -15,6 +15,7 @@ related:
 - id: "sch-generative-phonology", title: "الصرفُ التوليديُّ والصواتةُ التوليدية (Generative Phonology)", type: "مدرسة"
 - id: "con-topic-focus-information-structure", title: "البنيةُ المعلوماتية: الموضوعُ والبؤرة (Information Structure: Topic & Focus)", type: "مفهوم"
 - id: "con-hemispheric-lateralization-language", title: "التخصّصُ النصفيُّ الدماغي للغة (Hemispheric Lateralization of Language)", type: "مفهوم"
+- id: "thk-elisabeth-selkirk", title: "إليزابيث سلكيرك", type: "مفكر"
 gaps: []
 ---
 

@@ -36,6 +36,7 @@ related:
 - id: "thk-donca-steriade", title: "دونكا ستيرياد", type: "مفكر"
 - id: "thk-diana-archangeli", title: "ديانا أركانجلي", type: "مفكر"
 - id: "thk-elizabeth-hume", title: "إليزابيث هيوم", type: "مفكر"
+- id: "thk-elisabeth-selkirk", title: "إليزابيث سلكيرك", type: "مفكر"
 gaps: []
 ---
 
