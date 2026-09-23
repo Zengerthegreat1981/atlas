@@ -17,8 +17,8 @@ edges:
 related:
 - id: "sch-postcolonial-critique-anthropology", title: "النقدُ ما بعد الاستعماريّ للأنثروبولوجيا (Asad, Anthropology and the Colonial Encounter)", type: "مدرسة"
 - id: "thk-arturo-escobar", title: "أرتورو إسكوبار (Arturo Escobar)", type: "مفكر"
-gaps:
-  - "أكهيل غوپتا، الذي تعاون فيرغسون معه في أعمالٍ مؤثِّرة عن الدولة والمكان (Anthropological Locations, 1997)، لم يُنشأ له ملفٌّ مستقلّ هنا لعدم توفّر بحثٍ كافٍ موثوقٍ عن مساره الفكري المنفرد ضمن حدود هذه الدفعة؛ سيُضاف إن توفّرت دفعةٌ لاحقة."
+- id: "thk-akhil-gupta", title: "أكهيل غوپتا (Akhil Gupta)", type: "مفكر"
+gaps: []
 ---
 # جيمس فيرغسون (James Ferguson)
 
