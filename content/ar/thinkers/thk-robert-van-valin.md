@@ -22,8 +22,10 @@ related:
 - id: "con-layered-clause-structure-rrg", title: "البنيةُ الطبقية للجملة في نحو الدور والمرجع (Layered Structure of the Clause)", type: "مفهوم"
 - id: "con-linking-algorithm-rrg", title: "خوارزميةُ الربط الدلاليِّ-النحويّ في نحو الدور والمرجع (Linking Algorithm)", type: "مفهوم"
 - id: "wrk-syntax-structure-meaning-function-van-valin-lapolla", title: "التركيبُ: البنيةُ والمعنى والوظيفة (Syntax: Structure, Meaning, and Function)", type: "أثر"
+- id: "thk-randy-lapolla", title: "راندي لابولا", type: "مفكر"
 gaps:
   - "**سُدَّ سابقاً**: `thk-simon-dik` موجودٌ بالفعل في الأطلس؛ رُبط أعلاه دون تكرار."
+  - "**سُدَّ بالكامل 2026-09-23 (الدفعة 608)**: أُنشئ `thk-randy-lapolla`، شريكُه في تأليف المصنَّف المرجعي، الذي كان مذكوراً بالاسم في متن wrk-syntax-structure-meaning-function-van-valin-lapolla دون أن يكون مربوطاً."
 ---
 
 # روبرت ﭬان ﭬالِن

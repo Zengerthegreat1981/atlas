@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges: []
 related:
 - id: "thk-robert-van-valin", title: "روبرت ﭬان ﭬالِن", type: "مفكر"
+- id: "thk-randy-lapolla", title: "راندي لابولا", type: "مفكر"
 - id: "thk-simon-dik", title: "سيمون ديك", type: "مفكر"
 - id: "sch-systemic-functional-linguistics", title: "اللسانياتُ الوظيفيةُ المنهجية (Systemic Functional Linguistics)", type: "مدرسة"
 - id: "thk-william-foley", title: "وليام فولي", type: "مفكر"

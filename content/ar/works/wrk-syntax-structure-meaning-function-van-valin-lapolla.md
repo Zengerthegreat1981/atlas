@@ -21,6 +21,7 @@ related:
 - id: "thk-robert-van-valin", title: "روبرت ﭬان ﭬالِن", type: "مفكر"
 - id: "con-macrorole-actor-undergoer-rrg", title: "الدوران الكليّان: الفاعلُ والمتأثِّر (Actor & Undergoer Macroroles)", type: "مفهوم"
 - id: "con-layered-clause-structure-rrg", title: "البنيةُ الطبقية للجملة في نحو الدور والمرجع (Layered Structure of the Clause)", type: "مفهوم"
+- id: "thk-randy-lapolla", title: "راندي لابولا", type: "مفكر"
 gaps: []
 ---
 
