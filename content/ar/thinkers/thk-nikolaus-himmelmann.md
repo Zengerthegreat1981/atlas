@@ -20,6 +20,8 @@ related:
 - id: "sch-language-policy-endangerment", title: "السياسةُ اللغويةُ وموتُ اللغات وإحياؤها (Language Policy & Endangerment)", type: "مدرسة"
 - id: "con-documentation-vs-description-himmelmann", title: "التوثيقُ اللغويُّ مقابل الوصف اللغوي عند هيملمان (Documentation vs. Description)", type: "مفهوم"
 - id: "ins-descriptive-linguistic-fieldwork", title: "التسجيلُ الميدانيُّ ووصفُ اللغات (Descriptive Fieldwork)", type: "منهج/أداة بحث"
+- id: "thk-jost-gippert", title: "يوست غيپرت", type: "مفكر"
+- id: "thk-ulrike-mosel", title: "أولريكه موزِل", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بعمله؛ الاعتمادُ على مصادره الإنجليزية والألمانية الأساسية."
 ---
