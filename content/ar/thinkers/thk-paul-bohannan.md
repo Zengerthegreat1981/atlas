@@ -1,38 +1,27 @@
 ---
 slug: "thk-paul-bohannan"
-id: "THK-8942"
+id: "THK-12413"
 type: "مفكر"
-part: "anthropology"
-anthropological_tradition: "political-economy"
+part: "religious-studies"
 level: "متقدم"
-title: "پول بوهانان (Paul Bohannan)"
+birth_date: "1920"
+death_date: "2007"
+nationality: "أمريكي"
+main_tradition: "أنثروبولوجيا اجتماعية"
+expertise: "الزواج والقرابة الأفريقية"
 en: "Paul Bohannan"
-crumb: "الأنثروبولوجيا ← الأنثروبولوجيا الاقتصادية ← پول بوهانان"
-dates: "1920 – 2007"
-birth_country: "الولايات المتحدة"
-active_start: 1949
-active_end: 2002
+title: "بول بوهانان"
+crumb: "علمُ الأديان المقارن ← الدراسةُ الأكاديميةُ ← المفكِّرون ← بول بوهانان"
+active_start: 1945
+active_end: 2007
 edges:
-- rel: "belongs_to", target: "sch-anthropological-political-economy", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-comparative-religious-family-kinship", target_type: "مدرسة"
 related:
-- id: "sch-anthropological-political-economy", title: "الاقتصادُ السياسيُّ العالميُّ والتاريخ (Eric Wolf — Europe and the People Without History)", type: "مدرسة"
-- id: "thk-raymond-firth", title: "ريموند فيرث (Raymond Firth)", type: "مفكر"
-- id: "thk-laura-bohannan", title: "لورا بوهانان (Laura Bohannan)", type: "مفكر"
-gaps: []
+- id: "sch-comparative-religious-family-kinship", title: "دراسةُ الدين والقرابةِ والأسرة المقارَنة", type: "مدرسة"
+gaps:
+  - "أنثروبولوجيٌّ أمريكيٌّ أجرى بحوثاً ميدانيةً مكثّفةً بين شعب التيف في نيجيريا، مركزاً على الزواج والقرابةِ والنظامِ القانونيّ."
 ---
-# پول بوهانان (Paul Bohannan)
 
-أنثروبولوجيٌّ أمريكيّ، أجرى عملَه الميدانيَّ الأساسيَّ بين شعب التيڤ في نيجيريا، ومن أبرز منظِّري مفهوم «المجالات الاقتصادية المتعدِّدة» في الأنثروبولوجيا الاقتصادية.
+# بول بوهانان
 
-## الأسواقُ المتعدِّدة عند التيڤ
-
-في عمله المؤثِّر عن اقتصاد التيڤ، طوّر بوهانان مفهومَ «المجالات المتعدِّدة للتبادل» (Multicentric Economy): لاحظ أنّ اقتصادَ التيڤ التقليديّ كان مقسَّماً إلى مجالاتٍ متمايزة غير قابلة للتبادل المباشر فيما بينها — سلعٌ يومية (محاصيل زراعية، أدوات منزلية) تُتداول بحرّية، وسلعٌ «مرموقة» (ماشية، عبيدٌ سابقاً، معادن نحاسية) تُتداول ضمن دائرةٍ أعلى مكانةً، وحقٌّ ثالثٌ يخصّ النساء والزواج تماماً؛ لا يمكن تحويل ثروةٍ من مجالٍ «أدنى» إلى مجالٍ «أعلى» مباشرةً إلا عبر معاملاتٍ اجتماعية محدَّدة (كالزواج أو الهبات الطقسية). أظهر بوهانان كيف أدّى إدخالُ النقد الاستعماريّ البريطانيّ — الذي يُذيب هذه الحدودَ بين المجالات ويجعل كلَّ شيءٍ قابلاً للتبادل بوحدةٍ واحدة — إلى اضطرابٍ اجتماعيّ عميق في بنية القيم التقليدية عند التيڤ.
-
-## الأثر
-
-أسهم مفهومُ «الاقتصاد متعدِّد المراكز» عند بوهانان في تطوير الأنثروبولوجيا الاقتصادية وتحليل أثر الاقتصاد النقدي الاستعماري على بنى القيم المحلّية الإفريقية، وأصبح مرجعاً أساسياً في تدريس الأنثروبولوجيا الاقتصادية.
-
-## المصادر
-
-- Bohannan, Paul. "The Impact of Money on an African Subsistence Economy." *The Journal of Economic History*, vol. 19, no. 4, 1959, pp. 491–503.
-- Bohannan, Paul & Bohannan, Laura. *Tiv Economy*. Northwestern University Press, 1968.
+أنثروبولوجيٌّ أمريكيٌّ متخصصٌ في دراسةِ الزواجِ والقرابةِ في أفريقيا.

@@ -1,0 +1,25 @@
+---
+slug: "stu-matriliny-religion-crosscultural-1980"
+id: "STU-1210"
+type: "دراسة وبحث"
+part: "religious-studies"
+level: "متقدم"
+title: "دراسةٌ مقارَنةٌ في القرابةِ الأموية والدين"
+dates: "1980"
+active_start: 1980
+active_end: "مستمر"
+crumb: "علمُ الأديان المقارن ← الأسرةُ والقرابة ← الدراساتُ العلمية"
+edges:
+- rel: "belongs_to", target: "sch-comparative-religious-family-kinship", target_type: "مدرسة"
+related:
+- id: "sch-comparative-religious-family-kinship", title: "دراسةُ الدين والقرابةِ والأسرة المقارَنة", type: "مدرسة"
+gaps:
+  - "دراسةٌ أكاديميةٌ في مجالِ الأسرة الدينية."
+sources:
+  - title: "مجلاتٌ أكاديميةٌ متخصصة في الأنثروبولوجيا والدراساتِ الدينية"
+    year: 1980
+---
+
+# دراسةٌ مقارَنةٌ في القرابةِ الأموية والدين
+
+دراسةٌ أكاديميةٌ في مجالِ الأسرة والقرابةِ الدينية.
