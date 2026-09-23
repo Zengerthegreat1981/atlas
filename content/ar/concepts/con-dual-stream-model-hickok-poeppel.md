@@ -17,6 +17,7 @@ related:
 - id: "con-hemispheric-lateralization-language", title: "التخصّصُ النصفيُّ الدماغي للغة (Hemispheric Lateralization of Language)", type: "مفهوم"
 - id: "con-aphasiology-classification", title: "تصنيفُ الحُبسة اللغوية (Aphasiology)", type: "مفهوم"
 - id: "thk-gregory-hickok", title: "غريغوري هيكوك", type: "مفكر"
+- id: "thk-david-poeppel", title: "ديفيد پوپل", type: "مفكر"
 gaps:
   - "يُكمِّل هذا الملفُّ ثغرةً موثَّقةً صراحةً في `sch-classical-neurolinguistics` (النموذج المعاصر المستفيد من fMRI لم يُغطَّ هناك عمداً لأن ذلك الملفَّ يقتصر على الصياغة التاريخية الكلاسيكية)."
 ---

@@ -25,6 +25,7 @@ related:
 - id: "con-orthographic-depth-hypothesis", title: "فرضيةُ العمق الكتابي (Orthographic Depth Hypothesis)", type: "مفهوم"
 - id: "con-dual-stream-model-hickok-poeppel", title: "نموذجُ المسارين البطنيّ والظهريّ لمعالجة اللغة (Dual-Stream Model)", type: "مفهوم"
 - id: "thk-gregory-hickok", title: "غريغوري هيكوك", type: "مفكر"
+- id: "thk-david-poeppel", title: "ديفيد پوپل", type: "مفكر"
 - id: "con-garden-path-minimal-attachment-frazier", title: "جملُ المسار المُضلِّل ومبدآ الإلحاق الأدنى والإغلاق المتأخّر عند فريزير", type: "مفهوم"
 - id: "con-levelt-speech-production-model", title: "نموذجُ إنتاج الكلام عند ليڤلت: من المقصود إلى المنطوق", type: "مفهوم"
 - id: "con-constraint-based-lexicalist-model-macdonald", title: "النموذجُ المقيَّدُ المعجميُّ التفاعلي (Constraint-Based Lexicalist Model)", type: "مفهوم"

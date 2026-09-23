@@ -20,8 +20,9 @@ related:
 - id: "sch-sentence-processing-psycholinguistics", title: "علمُ اللغة النفسيُّ ومعالجةُ الجملة (Sentence Processing)", type: "مدرسة"
 - id: "con-dual-stream-model-hickok-poeppel", title: "نموذجُ المسارين البطنيّ والظهريّ لمعالجة اللغة (Dual-Stream Model)", type: "مفهوم"
 - id: "sch-classical-neurolinguistics", title: "علمُ اللغة العصبيُّ الكلاسيكي (Classical Neurolinguistics)", type: "مدرسة"
+- id: "thk-david-poeppel", title: "ديفيد پوپل", type: "مفكر"
 gaps:
-  - "ديفيد پوپل (David Poeppel)، شريكُه في صياغة النموذج، لا يملك عقدةَ سيرةٍ مستقلّة في الأطلس؛ يُشار إلى إسهامه المشترك ضمن هذا الملف دون تكرار سيرته الكاملة."
+  - "**سُدَّ بالكامل 2026-09-23 (الدفعة 536)**: أُنشئ `thk-david-poeppel`، مُفرِداً سيرة شريكه في صياغة النموذج."
 ---
 
 # غريغوري هيكوك
