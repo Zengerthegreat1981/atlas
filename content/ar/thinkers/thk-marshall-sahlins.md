@@ -18,6 +18,7 @@ related:
 - id: "sch-anthropological-political-economy", title: "الاقتصادُ السياسيُّ العالميُّ والتاريخ (Eric Wolf — Europe and the People Without History)", type: "مدرسة"
 - id: "thk-maurice-godelier", title: "موريس غوديلييه (Maurice Godelier)", type: "مفكر"
 - id: "dbt-substantivism-formalism-economic-anthropology", title: "جدلُ الجوهرانية مقابل الصورانية في الأنثروبولوجيا الاقتصادية (Substantivism vs. Formalism)", type: "جدل"
+- id: "thk-richard-lee", title: "ريتشارد لي (Richard B. Lee)", type: "مفكر"
 gaps: []
 ---
 # مارشال سالينز (Marshall Sahlins)
