@@ -19,6 +19,7 @@ edges:
 related:
 - id: "sch-bilingualism-cognitive-control", title: "ثنائيةُ اللغة والدماغُ (Bilingualism & Cognitive Control)", type: "مدرسة"
 - id: "thk-ellen-bialystok", title: "إلين بياليستوك", type: "مفكر"
+- id: "thk-angela-de-bruin", title: "أنجيلا دي بروين", type: "مفكر"
 gaps:
   - "حيادٌ صريحٌ محفوظ: الجدلُ حول وجود «ميزة ثنائية اللغة» المعرفية وحجمِها لا يزال مفتوحاً علمياً؛ هذا الملفُّ يوثّق النقدَ المنهجيَّ دون ترجيح طرفٍ نهائي."
 ---
