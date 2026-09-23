@@ -21,6 +21,7 @@ related:
 - id: "wrk-ritual-process-turner", title: "العمليةُ الطقسية (The Ritual Process)", type: "عمل / كتاب"
 - id: "wrk-forest-of-symbols-turner", title: "غابةُ الرموز (The Forest of Symbols)", type: "عمل / كتاب"
 - id: "sch-symbolic-anthropology-of-religion", title: "الأنثروبولوجيا الرمزيةُ والتأويليةُ للدين: تيرنر ودوغلاس وغيرتز", type: "مدرسة"
+- id: "thk-barbara-myerhoff", title: "باربرا ميرهوف (Barbara Myerhoff)", type: "مفكر"
 - id: "dbt-pilgrimage-communitas-vs-contestation", title: "جدلُ الحجّ: الكومونيتاس مقابل المنازعة (Communitas vs. Contestation)", type: "جدل"
 - id: "thk-lawrence-sullivan", title: "لورنس سوليڤان (Lawrence E. Sullivan)", type: "مفكر"
 - id: "sch-religious-color-symbolism-comparative", title: "الدينُ والألوانُ الرمزية: تصنيفُ الألوان في الطقس المقارَن", type: "مدرسة"
