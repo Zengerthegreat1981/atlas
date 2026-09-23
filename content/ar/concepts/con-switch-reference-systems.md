@@ -15,6 +15,7 @@ related:
 - id: "sch-linguistic-typology", title: "النمطيةُ اللغويةُ والكلّياتُ اللغوية (Linguistic Typology & Universals)", type: "مدرسة"
 - id: "con-anaphora-cataphora-discourse", title: "الرجوعُ الضميري السابق واللاحق في الخطاب (Anaphora & Cataphora)", type: "مفهوم"
 - id: "thk-john-haiman", title: "جون هايمان", type: "مفكر"
+- id: "thk-pamela-munro", title: "پاميلا مونرو", type: "مفكر"
 gaps: []
 ---
 

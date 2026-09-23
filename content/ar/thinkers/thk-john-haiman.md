@@ -20,6 +20,7 @@ related:
 - id: "sch-usage-based-grammar", title: "النحوُ الناشئُ عن الاستعمال (Usage-Based Grammar)", type: "مدرسة"
 - id: "con-linguistic-iconicity", title: "الإيقونيةُ اللغوية (Linguistic Iconicity)", type: "مفهوم"
 - id: "thk-talmy-givon", title: "تالمي غيﭬون", type: "مفكر"
+- id: "thk-pamela-munro", title: "پاميلا مونرو", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بعمله؛ الاعتمادُ على مصدره الإنجليزي الأساسي."
   - "لم يُفصَّل هنا مؤلَّفُه المرجعي *Natural Syntax* (1985) خارج نطاق مقالته التأسيسية عن الإيقونية النحوية."
