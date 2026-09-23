@@ -15,7 +15,9 @@ related:
 - id: "sch-language-and-gender", title: "اللغةُ والجندر (Language and Gender)", type: "مدرسة"
 - id: "thk-don-kulick", title: "دون كوليك", type: "مفكر"
 - id: "con-identity-performativity-bucholtz-hall", title: "الهويةُ العلائقيةُ الناشئة عند بوخولتس وهول (Identity as Relational & Emergent)", type: "مفهوم"
-gaps: []
+- id: "thk-deborah-cameron", title: "ديبورا كامرون", type: "مفكر"
+gaps:
+  - "**سُدَّ بالكامل 2026-09-23 (الدفعة 580)**: أُنشئ `thk-deborah-cameron`، شريكةُ كوليك المذكورة في المتن دون عقدةٍ مستقلّة."
 ---
 
 # اللغةُ والرغبةُ الجنسانية عند كوليك

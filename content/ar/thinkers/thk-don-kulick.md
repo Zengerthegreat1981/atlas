@@ -20,6 +20,7 @@ related:
 - id: "sch-language-and-gender", title: "اللغةُ والجندر (Language and Gender)", type: "مدرسة"
 - id: "thk-penelope-eckert", title: "بينيلوپي إكرت", type: "مفكر"
 - id: "con-language-desire-sexuality-kulick", title: "اللغةُ والرغبةُ الجنسانية عند كوليك (Language & Desire)", type: "مفهوم"
+- id: "thk-deborah-cameron", title: "ديبورا كامرون", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرته؛ الاعتمادُ على مصادره الإنجليزية الأساسية."
 ---
