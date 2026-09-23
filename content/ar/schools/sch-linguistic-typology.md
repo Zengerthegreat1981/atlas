@@ -22,6 +22,7 @@ related:
 - id: "thk-greville-corbett", title: "غريفيل كوربِت", type: "مفكر"
 - id: "thk-alexandra-aikhenvald", title: "ألكسندرا آيخنفالد", type: "مفكر"
 - id: "thk-rmw-dixon", title: "ر. م. و. ديكسون", type: "مفكر"
+- id: "thk-barry-blake", title: "باري بلايك", type: "مفكر"
 - id: "ins-world-atlas-of-language-structures", title: "الأطلسُ العالميُّ لبِنى اللغة (WALS)", type: "منهج/أداة بحث"
 - id: "con-linguistic-iconicity", title: "الإيقونيةُ اللغوية (Linguistic Iconicity)", type: "مفهوم"
 - id: "con-evidentiality", title: "الإثباتيةُ أو الاستشهادية (Evidentiality)", type: "مفهوم"

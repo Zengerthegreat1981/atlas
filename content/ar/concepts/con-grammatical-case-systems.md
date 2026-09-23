@@ -15,6 +15,7 @@ related:
 - id: "sch-linguistic-typology", title: "النمطيةُ اللغويةُ والكلّياتُ اللغوية (Linguistic Typology & Universals)", type: "مدرسة"
 - id: "con-ergativity", title: "النمطُ الفاعلي-المفعولي مقابل الإرغاتيفي (Nominative-Accusative vs. Ergative Alignment)", type: "مفهوم"
 - id: "con-amil-irab-taqdir-arabic-grammar", title: "العاملُ والإعرابُ والتقدير في النحو العربي", type: "مفهوم"
+- id: "thk-barry-blake", title: "باري بلايك", type: "مفكر"
 gaps: []
 ---
 
