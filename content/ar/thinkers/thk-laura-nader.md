@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-manchester-school", title: "مدرسةُ مانشستر وتحليلُ الموقف (Manchester School)", type: "مدرسة"
 - id: "thk-sally-falk-moore", title: "سالي فوك مور (Sally Falk Moore)", type: "مفكر"
+- id: "thk-carol-greenhouse", title: "كارول غرينهاوس (Carol J. Greenhouse)", type: "مفكر"
 gaps: []
 ---
 # لورا نادر (Laura Nader)

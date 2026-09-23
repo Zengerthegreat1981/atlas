@@ -20,6 +20,7 @@ related:
 - id: "con-diglossia", title: "الازدواجيةُ اللغوية (Diglossia)", type: "مفهوم"
 - id: "sch-language-ideology", title: "الأيديولوجياتُ اللغوية (Language Ideology)", type: "مدرسة"
 - id: "thk-wallace-lambert", title: "وولاس لامبرت", type: "مفكر"
+- id: "thk-howard-giles", title: "هوارد جايلز", type: "مفكر"
 gaps: []
 ---
 

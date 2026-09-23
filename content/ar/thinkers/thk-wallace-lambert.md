@@ -20,6 +20,7 @@ edges:
 related:
 - id: "ins-matched-guise-technique", title: "تقنيةُ الهيئة المتطابقة (Matched-Guise Technique)", type: "منهج/أداة بحث"
 - id: "sch-bilingualism-cognitive-control", title: "ثنائيةُ اللغة والدماغُ (Bilingualism & Cognitive Control)", type: "مدرسة"
+- id: "thk-howard-giles", title: "هوارد جايلز", type: "مفكر"
 gaps: []
 ---
 
