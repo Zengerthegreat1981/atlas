@@ -17,8 +17,8 @@ edges:
 related:
 - id: "sch-african-postcolonial-anthropology", title: "الأنثروبولوجيا الأفريقية وما بعدَ الاستعمارية (Mafeje, Mudimbe, Comaroffs)", type: "مدرسة"
 - id: "thk-archie-mafeje", title: "أرشي مافيجي (Archie Mafeje)", type: "مفكر"
-gaps:
-  - "الزوجان كوماروف (Jean & John Comaroff)، المذكوران في عنوان المدرسة نفسِه، لم يُكتبا بعد كملفّين مستقلّين؛ سيُضافان إن توفّرت دفعةٌ لاحقة."
+- id: "thk-jean-john-comaroff", title: "جان وجون كوماروف (Jean & John Comaroff)", type: "مفكر"
+gaps: []
 ---
 # ڤ. ي. موديمبي (V.Y. Mudimbe)
 

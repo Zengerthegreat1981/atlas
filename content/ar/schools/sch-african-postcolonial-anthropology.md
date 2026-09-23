@@ -17,10 +17,11 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-postcolonial-critique-anthropology", target_type: "مدرسة"
 related:
-- id: "thk-archie-mafeje", title: "آرتشي مافيجي (Archie Mafeje)", type: "مفكر"
+- id: "thk-archie-mafeje", title: "أرشي مافيجي (Archie Mafeje)", type: "مفكر"
 - id: "thk-jean-rouch", title: "جان روش (Jean Rouch)", type: "مفكر"
-gaps:
-  - "موديمبي والزوجان كوماروف لم يُكتبوا بعد كملفّاتٍ مستقلّة."
+- id: "thk-vy-mudimbe", title: "ڤ. ي. موديمبي (V.Y. Mudimbe)", type: "مفكر"
+- id: "thk-jean-john-comaroff", title: "جان وجون كوماروف (Jean & John Comaroff)", type: "مفكر"
+gaps: []
 ---
 # الأنثروبولوجيا الأفريقية وما بعدَ الاستعمارية (Mafeje, Mudimbe, Comaroffs)
 
