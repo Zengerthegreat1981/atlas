@@ -19,6 +19,7 @@ related:
 - id: "thk-michael-tomasello", title: "مايكل توماسيلو", type: "مفكر"
 - id: "dbt-innateness-vs-usage-based-language-acquisition", title: "جدلُ الفطرية اللغوية مقابل الاستعمالية في اكتساب اللغة", type: "جدل"
 - id: "stu-nim-chimpsky-ape-language-terrace", title: "دراسةُ نيم تشيمبسكي: هل تكتسب الشمبانزي لغةً؟", type: "دراسة وبحث"
+- id: "thk-herbert-terrace", title: "هربرت تراس", type: "مفكر"
 - id: "thk-w-tecumseh-fitch", title: "و. تيكمسه فيتش", type: "مفكر"
 - id: "con-fln-flb-narrow-broad-faculty", title: "الملَكةُ اللغوية بمعناها الضيّق والواسع (FLN/FLB)", type: "مفهوم"
 - id: "thk-michael-corballis", title: "مايكل كوربالِس", type: "مفكر"
