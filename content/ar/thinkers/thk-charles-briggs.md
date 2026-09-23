@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-ethnography-of-communication", title: "إثنوغرافيا التواصل (Ethnography of Communication)", type: "مدرسة"
 - id: "thk-richard-bauman", title: "ريتشارد باومان (Richard Bauman)", type: "مفكر"
+- id: "thk-alessandro-duranti", title: "أليساندرو دورانتي (Alessandro Duranti)", type: "مفكر"
 gaps: []
 ---
 # تشارلز بريغز (Charles L. Briggs)
