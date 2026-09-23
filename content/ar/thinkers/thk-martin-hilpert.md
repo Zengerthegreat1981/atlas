@@ -19,9 +19,10 @@ edges:
 related:
 - id: "sch-construction-grammar", title: "نحوُ البُنى (Construction Grammar)", type: "مدرسة"
 - id: "con-diachronic-construction-grammar", title: "نحوُ البُنى التعاقبي (Diachronic Construction Grammar)", type: "مفهوم"
+- id: "thk-gabriele-diewald", title: "غابرييله ديفالد", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بعمله؛ الاعتمادُ على مصادره الإنجليزية الأساسية."
-  - "غابرييله ديفالد (Gabriele Diewald)، الباحثةُ المذكورة معه في العقدة الأصلية، لا تزال دون عقدةِ سيرةٍ مستقلّة؛ تُذكَر هنا ضمن الفجوات المتبقية."
+  - "**سُدَّ بالكامل 2026-09-23 (الدفعة 542)**: أُنشئ `thk-gabriele-diewald`، الباحثةُ المذكورة معه في العقدة الأصلية."
 ---
 
 # مارتن هيلپرت

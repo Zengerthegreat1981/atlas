@@ -15,8 +15,9 @@ related:
 - id: "sch-construction-grammar", title: "نحوُ البُنى (Construction Grammar)", type: "مدرسة"
 - id: "con-argument-structure-constructions-goldberg", title: "بُنى الحجج الإنشائية عند غولدبرغ (Argument Structure Constructions)", type: "مفهوم"
 - id: "thk-martin-hilpert", title: "مارتن هيلپرت", type: "مفكر"
+- id: "thk-gabriele-diewald", title: "غابرييله ديفالد", type: "مفكر"
 gaps:
-  - "**سُدَّ جزئياً 2026-09-23 (الدفعة 535)**: أُنشئ `thk-martin-hilpert`. غابرييله ديفالد لا تزال دون عقدةِ سيرةٍ مستقلّة."
+  - "**سُدَّ بالكامل 2026-09-23 (الدفعة 542)**: أُنشئ `thk-martin-hilpert` (الدفعة 535) و`thk-gabriele-diewald` (الدفعة 542)."
 ---
 
 # نحوُ البُنى التعاقبي
