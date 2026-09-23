@@ -19,6 +19,7 @@ edges:
 related:
 - id: "sch-usage-based-grammar", title: "النحوُ الناشئُ عن الاستعمال (Usage-Based Grammar)", type: "مدرسة"
 - id: "con-linguistic-iconicity", title: "الإيقونيةُ اللغوية (Linguistic Iconicity)", type: "مفهوم"
+- id: "thk-john-haiman", title: "جون هايمان", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بعمله؛ الاعتمادُ على مصدره الإنجليزي الأساسي."
   - "لم يُفصَّل هنا مؤلَّفُه المرجعي الأشمل On Understanding Grammar (1979) وإصداراتُه اللاحقة، التي تخرج عن نطاق الإيقونية اللغوية موضوعِ هذه العقدة."

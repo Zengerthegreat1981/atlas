@@ -19,6 +19,7 @@ edges:
 related:
 - id: "thk-joan-bybee", title: "جوان بايبي", type: "مفكر"
 - id: "thk-talmy-givon", title: "تالمي غيﭬون", type: "مفكر"
+- id: "thk-john-haiman", title: "جون هايمان", type: "مفكر"
 - id: "thk-michael-tomasello", title: "مايكل توماسيلو", type: "مفكر"
 - id: "sch-construction-grammar", title: "نحوُ البُنى (Construction Grammar)", type: "مدرسة"
 - id: "dbt-innateness-vs-usage-based-language-acquisition", title: "جدلُ الفطرية اللغوية مقابل الاستعمالية في اكتساب اللغة", type: "جدل"
