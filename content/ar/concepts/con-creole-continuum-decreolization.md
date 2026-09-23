@@ -14,6 +14,7 @@ edges:
 related:
 - id: "sch-contact-linguistics-creole", title: "التماسُّ اللغويُّ والكريول والبِجن (Contact Linguistics)", type: "مدرسة"
 - id: "con-diglossia", title: "الازدواجيةُ اللغوية (Diglossia)", type: "مفهوم"
+- id: "thk-david-decamp", title: "ديفيد ديكامپ", type: "مفكر"
 gaps: []
 ---
 

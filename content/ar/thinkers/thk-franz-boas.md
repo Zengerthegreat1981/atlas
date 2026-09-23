@@ -21,6 +21,7 @@ related:
 - id: "thk-alfred-kroeber", title: "ألفرد كروبر (Alfred L. Kroeber)", type: "مفكر"
 - id: "thk-robert-lowie", title: "روبرت لوي (Robert H. Lowie)", type: "مفكر"
 - id: "thk-melville-herskovits", title: "ملڤيل هرسكوفيتز (Melville J. Herskovits)", type: "مفكر"
+- id: "thk-zora-neale-hurston", title: "زورا نيل هرستون (Zora Neale Hurston)", type: "مفكر"
 gaps: []
 ---
 # فرانز بواس (Franz Boas)
