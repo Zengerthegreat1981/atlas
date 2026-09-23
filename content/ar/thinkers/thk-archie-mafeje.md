@@ -18,8 +18,9 @@ related:
 - id: "sch-african-postcolonial-anthropology", title: "الأنثروبولوجيا الأفريقية وما بعدَ الاستعمارية (Mafeje, Mudimbe, Comaroffs)", type: "مدرسة"
 - id: "con-ideology-of-tribalism-mafeje", title: "إيديولوجيا القبلية (The Ideology of Tribalism)", type: "مفهوم"
 - id: "thk-jomo-kenyatta", title: "جومو كينياتا (Jomo Kenyatta)", type: "مفكر"
+- id: "thk-vy-mudimbe", title: "ڤ. ي. موديمبي (V.Y. Mudimbe)", type: "مفكر"
 gaps:
-  - "ڤ. ي. موديمبي (V.Y. Mudimbe، The Invention of Africa) والزوجان كوماروف (Jean & John Comaroff) لم يُكتبوا بعد كملفّاتٍ مستقلّة؛ سيُضافون إن توفّرت دفعةٌ لاحقة."
+  - "الزوجان كوماروف (Jean & John Comaroff) لم يُكتبا بعد كملفّين مستقلّين؛ سيُضافان إن توفّرت دفعةٌ لاحقة."
 ---
 # آرتشي مافيجي (Archie Mafeje)
 
