@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-psychological-anthropology", title: "الأنثروبولوجيا النفسية وتعلّمُ الثقافة (Psychological Anthropology — Whiting, Shweder, Luhrmann)", type: "مدرسة"
 - id: "thk-richard-shweder", title: "ريتشارد شويدر (Richard Shweder)", type: "مفكر"
+- id: "thk-catherine-lutz", title: "كاثرين لوتز (Catherine Lutz)", type: "مفكر"
 gaps: []
 ---
 # أونّي ڤيكان (Unni Wikan)
