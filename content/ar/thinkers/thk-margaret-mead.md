@@ -22,6 +22,7 @@ related:
 - id: "wrk-coming-of-age-samoa-mead", title: "البلوغُ في ساموا (Coming of Age in Samoa)", type: "عمل / كتاب"
 - id: "wrk-sex-temperament-mead", title: "الجنسُ والمزاجُ في ثلاث مجتمعات بدائية (Sex and Temperament)", type: "عمل / كتاب"
 - id: "thk-reo-fortune", title: "ريو فورتشن (Reo Fortune)", type: "مفكر"
+- id: "thk-gregory-bateson", title: "غريغوري بيتسون (Gregory Bateson)", type: "مفكر"
 gaps: []
 ---
 # مارغريت ميد (Margaret Mead)
