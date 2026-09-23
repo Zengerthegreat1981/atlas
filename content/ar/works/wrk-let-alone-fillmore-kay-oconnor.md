@@ -18,8 +18,9 @@ related:
 - id: "sch-construction-grammar", title: "نحوُ البُنى (Construction Grammar)", type: "مدرسة"
 - id: "thk-charles-fillmore", title: "تشارلز فيلمور", type: "مفكر"
 - id: "con-frame-semantics-fillmore", title: "الدلالةُ الإطارية عند فيلمور (Frame Semantics)", type: "مفهوم"
+- id: "thk-mary-catherine-oconnor", title: "ماري كاثرين أوكونور", type: "مفكر"
 gaps:
-  - "لم يُعثر على عقدةٍ مستقلّةٍ لجين أوكونور ضمن الأطلس؛ العقدةُ تُشير إلى عملها المشترك مباشرةً."
+  - "**سُدَّ بالكامل 2026-09-23 (الدفعة 531)**: أُنشئ `thk-mary-catherine-oconnor`، مُفرِداً سيرة المؤلِّفة المشارِكة وإسهامَها التأسيسي في نحو البُنى."
 ---
 
 # مقالُ Let Alone التأسيسي

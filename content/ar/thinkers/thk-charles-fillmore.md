@@ -24,6 +24,7 @@ related:
 - id: "con-framenet-fillmore", title: "فريم نت: قاعدةُ بياناتٍ معجميةٌ إطارية عند فيلمور (FrameNet)", type: "مفهوم"
 - id: "sch-construction-grammar", title: "نحوُ البُنى (Construction Grammar)", type: "مدرسة"
 - id: "wrk-let-alone-fillmore-kay-oconnor", title: "مقالُ Let Alone التأسيسي (Fillmore, Kay & O'Connor, 1988)", type: "أثر"
+- id: "thk-mary-catherine-oconnor", title: "ماري كاثرين أوكونور", type: "مفكر"
 gaps:
   - "**سُدَّ سابقاً**: پول كاي موثَّقٌ بالفعل ضمن `thk-brent-berlin-paul-kay` (دراسة مصطلحات الألوان)؛ رُبط أعلاه دون إنشاء عقدةٍ مكرَّرة."
 ---
