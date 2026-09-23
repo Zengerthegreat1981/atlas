@@ -18,6 +18,7 @@ edges: []
 related:
 - id: "thk-richard-montague", title: "ريتشارد مونتاغيو", type: "مفكر"
 - id: "thk-kazimierz-ajdukiewicz", title: "كازيمير أجدوكيفيتش", type: "مفكر"
+- id: "thk-joachim-lambek", title: "يواكيم لامبك", type: "مفكر"
 - id: "thk-barbara-partee", title: "باربارا بارتة", type: "مفكر"
 - id: "sch-generative-grammar", title: "النحوُ التوليديُّ التحويليّ (Generative-Transformational Grammar)", type: "مدرسة"
 - id: "sch-gricean-pragmatics", title: "التداوليةُ الغرايسية (Gricean Pragmatics)", type: "مدرسة"

@@ -20,6 +20,7 @@ related:
 - id: "sch-formal-semantics-montague-grammar", title: "الدلالةُ الصوريةُ ونحوُ مونتاغيو (Formal Semantics)", type: "مدرسة"
 - id: "con-categorial-grammar-montague", title: "النحوُ الفئويُّ وأساسُه المنطقي في نحو مونتاغيو (Categorial Grammar)", type: "مفهوم"
 - id: "thk-richard-montague", title: "ريتشارد مونتاغيو", type: "مفكر"
+- id: "thk-joachim-lambek", title: "يواكيم لامبك", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بعمله؛ الاعتمادُ على مصدره الألماني الأصلي ومصادر ثانوية إنجليزية."
 ---
