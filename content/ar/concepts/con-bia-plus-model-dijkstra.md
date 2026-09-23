@@ -17,6 +17,7 @@ related:
 - id: "con-code-switching-mixing", title: "التبديلُ والمزجُ الرمزي (Code-Switching & Code-Mixing)", type: "مفهوم"
 - id: "con-revised-hierarchical-model-kroll-stewart", title: "النموذجُ الهرميُّ المنقَّح عند كرول وستيوارت (Revised Hierarchical Model)", type: "مفهوم"
 - id: "thk-ton-dijkstra", title: "تون دايكسترا", type: "مفكر"
+- id: "thk-walter-van-heuven", title: "ﭬالتر ﭬان هويﭬن", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بهذا النموذج ضمن مصادر الأطلس؛ الاعتمادُ على المصادر الإنجليزية الأساسية (Dijkstra & van Heuven)."
 ---
