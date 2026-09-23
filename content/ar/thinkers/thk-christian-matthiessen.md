@@ -22,6 +22,11 @@ related:
 - id: "wrk-introduction-functional-grammar-halliday", title: "مدخلٌ إلى النحو الوظيفي (An Introduction to Functional Grammar)", type: "عمل / كتاب"
 - id: "con-metafunctions-halliday", title: "الوظائفُ الفوقية الثلاث (Metafunctions)", type: "مفهوم"
 - id: "con-given-new-information-system-halliday", title: "نظامُ المعطى والجديد عند هاليداي (Given/New Information)", type: "مفهوم"
+- id: "con-system-network-halliday", title: "نسقُ الخيارات عند هاليداي (System Network)", type: "مفهوم"
+- id: "con-theme-system-halliday", title: "نظامُ الموضوع عند هاليداي (Theme System)", type: "مفهوم"
+- id: "con-mood-system-halliday", title: "نظامُ الصيغة عند هاليداي (Mood System)", type: "مفهوم"
+- id: "con-transitivity-system-halliday", title: "نظامُ التعدّي وأنماطُ العمليات عند هاليداي (Transitivity System & Process Types)", type: "مفهوم"
+- id: "thk-suzanne-eggins", title: "سوزان إيغِنز", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بعمله؛ الاعتمادُ على مصادره الإنجليزية الأساسية."
 ---

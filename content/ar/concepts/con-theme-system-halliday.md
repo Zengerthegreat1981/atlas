@@ -17,6 +17,8 @@ related:
 - id: "con-mood-system-halliday", title: "نظامُ الصيغة عند هاليداي (Mood System)", type: "مفهوم"
 - id: "con-thematic-progression-danes", title: "التقدّمُ الموضوعي عند دانش (Thematic Progression)", type: "مفهوم"
 - id: "con-given-new-information-system-halliday", title: "نظامُ المعطى والجديد عند هاليداي (Given/New Information)", type: "مفهوم"
+- id: "thk-christian-matthiessen", title: "كريستيان ماتيسن", type: "مفكر"
+- id: "thk-suzanne-eggins", title: "سوزان إيغِنز", type: "مفكر"
 gaps: []
 ---
 

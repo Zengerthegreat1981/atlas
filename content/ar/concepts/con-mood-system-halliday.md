@@ -16,6 +16,8 @@ related:
 - id: "con-transitivity-system-halliday", title: "نظامُ التعدّي وأنماطُ العمليات عند هاليداي (Transitivity System & Process Types)", type: "مفهوم"
 - id: "con-metafunctions-halliday", title: "الوظائفُ الفوقية الثلاث (Metafunctions)", type: "مفهوم"
 - id: "thk-michael-halliday", title: "مايكل هاليداي", type: "مفكر"
+- id: "thk-christian-matthiessen", title: "كريستيان ماتيسن", type: "مفكر"
+- id: "thk-suzanne-eggins", title: "سوزان إيغِنز", type: "مفكر"
 gaps: []
 ---
 
