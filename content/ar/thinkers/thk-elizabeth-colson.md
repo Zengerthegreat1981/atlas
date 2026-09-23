@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-manchester-school", title: "مدرسةُ مانشستر وتحليلُ الموقف (Manchester School)", type: "مدرسة"
 - id: "thk-max-gluckman", title: "ماكس غلوكمان (Max Gluckman)", type: "مفكر"
+- id: "thk-abner-cohen", title: "أبنر كوهين (Abner Cohen)", type: "مفكر"
 gaps: []
 ---
 # إليزابيث كولسون (Elizabeth Colson)
