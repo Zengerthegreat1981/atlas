@@ -17,6 +17,7 @@ related:
 - id: "wrk-sound-pattern-of-english-chomsky-halle", title: "The Sound Pattern of English", type: "أثر"
 - id: "con-underspecification-theory-phonology", title: "نظريةُ التحديد الناقص في الصواتة (Underspecification Theory)", type: "مفهوم"
 - id: "thk-george-clements", title: "جورج كليمنتس", type: "مفكر"
+- id: "thk-elizabeth-hume", title: "إليزابيث هيوم", type: "مفكر"
 gaps: []
 ---
 

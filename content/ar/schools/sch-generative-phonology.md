@@ -35,6 +35,7 @@ related:
 - id: "thk-john-j-mccarthy", title: "جون ج. مكارثي", type: "مفكر"
 - id: "thk-donca-steriade", title: "دونكا ستيرياد", type: "مفكر"
 - id: "thk-diana-archangeli", title: "ديانا أركانجلي", type: "مفكر"
+- id: "thk-elizabeth-hume", title: "إليزابيث هيوم", type: "مفكر"
 gaps: []
 ---
 
