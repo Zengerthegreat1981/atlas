@@ -21,6 +21,7 @@ related:
 - id: "con-scalar-implicature-horn", title: "الإفهامُ المقياسي (Scalar Implicature)", type: "مفهوم"
 - id: "con-conversational-implicature", title: "الإفهامُ التخاطبي (Conversational Implicature)", type: "مفهوم"
 - id: "con-horn-q-r-principles", title: "مبدآ الكمّ والعلاقة المتنافسان عند هورن (Q-Principle & R-Principle)", type: "مفهوم"
+- id: "thk-gregory-ward", title: "غريغوري وورد", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرته؛ الاعتمادُ على مصادره الإنجليزية الأساسية."
 ---

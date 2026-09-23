@@ -21,6 +21,7 @@ related:
 - id: "sch-relevance-theory", title: "نظريةُ الملاءمة (Relevance Theory)", type: "مدرسة"
 - id: "con-deixis", title: "الإشاريةُ أو الديكسيس (Deixis)", type: "مفهوم"
 - id: "thk-laurence-horn", title: "لورنس هورن", type: "مفكر"
+- id: "thk-gregory-ward", title: "غريغوري وورد", type: "مفكر"
 - id: "con-scalar-implicature-horn", title: "الإفهامُ المقياسي (Scalar Implicature)", type: "مفهوم"
 - id: "thk-stephen-levinson", title: "ستيفن ليفنسون", type: "مفكر"
 - id: "con-neo-gricean-heuristics-levinson", title: "المبادئُ النيوغرايسيةُ الثلاثة عند ليفنسون (Q/I/M Heuristics)", type: "مفهوم"
