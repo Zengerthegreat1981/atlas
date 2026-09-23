@@ -15,7 +15,9 @@ related:
 - id: "sch-contact-linguistics-creole", title: "التماسُّ اللغويُّ والكريول والبِجن (Contact Linguistics)", type: "مدرسة"
 - id: "con-creole-continuum-decreolization", title: "متصلُ الكريول وإزالةُ الكريولة (Creole Continuum & Decreolization)", type: "مفهوم"
 - id: "con-substrate-superstrate-hypothesis-creole", title: "فرضيةُ اللغة المِرقاة واللغة الفوقية في نشوء الكريول (Substrate/Superstrate Hypothesis)", type: "مفهوم"
-gaps: []
+- id: "thk-peter-muhlhausler", title: "پيتر موهلهويزلر", type: "مفكر"
+gaps:
+  - "**سُدَّ بالكامل 2026-09-23 (الدفعة 546)**: أُنشئ `thk-peter-muhlhausler`، مُفرِداً سيرة المرجع الأساسي المستشهَد به في المصادر."
 ---
 
 # توك پيسِن: دراسةُ حالةٍ كلاسيكية في نشوء الكريول
