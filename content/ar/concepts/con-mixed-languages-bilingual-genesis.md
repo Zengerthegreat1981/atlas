@@ -15,6 +15,7 @@ related:
 - id: "sch-contact-linguistics-creole", title: "التماسُّ اللغويُّ والكريول والبِجن (Contact Linguistics)", type: "مدرسة"
 - id: "thk-hugo-schuchardt", title: "هوغو شوخارت", type: "مفكر"
 - id: "con-creole-continuum-decreolization", title: "متصلُ الكريول وإزالةُ الكريولة (Creole Continuum & Decreolization)", type: "مفهوم"
+- id: "thk-peter-bakker", title: "پيتر باكر", type: "مفكر"
 gaps: []
 ---
 
