@@ -16,6 +16,7 @@ related:
 - id: "con-feature-geometry-clements", title: "هندسةُ السمات عند كليمنتس (Feature Geometry)", type: "مفهوم"
 - id: "wrk-sound-pattern-of-english-chomsky-halle", title: "The Sound Pattern of English", type: "أثر"
 - id: "thk-donca-steriade", title: "دونكا ستيرياد", type: "مفكر"
+- id: "thk-diana-archangeli", title: "ديانا أركانجلي", type: "مفكر"
 gaps: []
 ---
 

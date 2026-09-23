@@ -20,6 +20,7 @@ related:
 - id: "sch-generative-phonology", title: "الصرفُ التوليديُّ والصواتةُ التوليدية (Generative Phonology)", type: "مدرسة"
 - id: "con-underspecification-theory-phonology", title: "نظريةُ التحديد الناقص في الصواتة (Underspecification Theory)", type: "مفهوم"
 - id: "con-optimality-theory-prince-smolensky", title: "النظريةُ التفاؤلية عند برنس وسمولنسكي (Optimality Theory)", type: "مفهوم"
+- id: "thk-diana-archangeli", title: "ديانا أركانجلي", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بعملها؛ الاعتمادُ على مصادرها الإنجليزية الأساسية."
   - "لم تُفصَّل هنا نظريتُها المستقلّة الأكثر تأثيراً (نموذجُ خريطة الإدراك، P-Map Model) لتفسير أنماط التعادل الصوتي (Neutralization) ضمن النظرية التفاؤلية، التي تخرج عن نطاق نظرية التحديد الناقص موضوعِ هذه العقدة."
