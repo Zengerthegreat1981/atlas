@@ -16,6 +16,7 @@ related:
 - id: "thk-richard-montague", title: "ريتشارد مونتاغيو", type: "مفكر"
 - id: "con-focus-particles", title: "جسيماتُ التركيز (Focus Particles)", type: "مفهوم"
 - id: "thk-jon-barwise", title: "جون بارواز", type: "مفكر"
+- id: "thk-robin-cooper", title: "روبِن كوبر", type: "مفكر"
 gaps: []
 ---
 
