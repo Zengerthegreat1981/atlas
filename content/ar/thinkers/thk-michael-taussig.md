@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-anthropological-political-economy", title: "الاقتصادُ السياسيُّ العالميُّ والتاريخ (Eric Wolf — Europe and the People Without History)", type: "مدرسة"
 - id: "thk-eric-wolf", title: "إريك وولف (Eric Wolf)", type: "مفكر"
+- id: "thk-jeanne-favret-saada", title: "جان فاڤريه-سعادة (Jeanne Favret-Saada)", type: "مفكر"
 gaps: []
 ---
 # مايكل تاوسيغ (Michael Taussig)
