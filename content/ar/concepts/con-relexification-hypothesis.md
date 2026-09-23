@@ -15,6 +15,7 @@ related:
 - id: "sch-contact-linguistics-creole", title: "التماسُّ اللغويُّ والكريول والبِجن (Contact Linguistics)", type: "مدرسة"
 - id: "thk-hugo-schuchardt", title: "هوغو شوخارت", type: "مفكر"
 - id: "con-language-bioprogram-hypothesis", title: "فرضيةُ البرنامج اللغوي الحيوي (Language Bioprogram Hypothesis)", type: "مفهوم"
+- id: "thk-claire-lefebvre", title: "كلير لوفيڤر", type: "مفكر"
 gaps:
   - "حيادٌ صريحٌ محفوظ: فرضيةُ إعادة التمعجُم تتنافس نظرياً مع فرضية البرنامج الحيوي عند بيكرتون في تفسير نشوء الكريول؛ لا يُرجَّح طرفٌ هنا في جدلٍ لا يزال مفتوحاً بين لغويي الكريول."
 ---
