@@ -20,6 +20,7 @@ related:
 - id: "wrk-peasant-wars-twentieth-century-wolf", title: "حروبُ الفلاحين في القرن العشرين (Peasant Wars of the Twentieth Century)", type: "عمل / كتاب"
 - id: "thk-michael-taussig", title: "مايكل تاوسيغ (Michael Taussig)", type: "مفكر"
 - id: "thk-sidney-mintz", title: "سيدني مينتز (Sidney Mintz)", type: "مفكر"
+- id: "thk-june-nash", title: "جون ناش (June Nash)", type: "مفكر"
 gaps: []
 ---
 # إريك وولف (Eric Wolf)
