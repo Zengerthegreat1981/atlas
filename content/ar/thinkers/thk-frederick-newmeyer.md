@@ -19,6 +19,7 @@ edges:
 related:
 - id: "sch-generative-grammar", title: "النحوُ التوليديُّ التحويليّ (Generative-Transformational Grammar)", type: "مدرسة"
 - id: "thk-noam-chomsky", title: "نعوم تشومسكي", type: "مفكر"
+- id: "thk-randy-allen-harris", title: "راندي ألن هاريس", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بعمله؛ الاعتمادُ على مصادره الإنجليزية الأساسية."
 ---

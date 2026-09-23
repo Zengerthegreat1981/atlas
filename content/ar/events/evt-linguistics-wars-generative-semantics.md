@@ -19,6 +19,7 @@ edges:
 related:
 - id: "sch-cognitive-linguistics", title: "اللسانياتُ المعرفية (Cognitive Linguistics)", type: "مدرسة"
 - id: "sch-generative-grammar", title: "النحوُ التوليديُّ التحويليّ (Generative-Transformational Grammar)", type: "مدرسة"
+- id: "thk-randy-allen-harris", title: "راندي ألن هاريس", type: "مفكر"
 gaps:
   - "لم يُنشأ ملفٌّ مستقلّ لتلاميذ تشومسكي الآخرين المشاركين في هذا الانشقاق (كجيمس مكاولي وجون روس) تفادياً لتوسّعٍ غير ضروري؛ الحدثُ يوثِّق الانشقاقَ نفسَه كنقطة تحوّل تاريخية، لا سيَرَ أطرافه التفصيلية."
 ---
