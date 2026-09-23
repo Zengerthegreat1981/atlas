@@ -15,6 +15,7 @@ related:
 - id: "sch-linguistic-typology", title: "النمطيةُ اللغويةُ والكلّياتُ اللغوية (Linguistic Typology & Universals)", type: "مدرسة"
 - id: "sch-historical-comparative-linguistics", title: "اللسانياتُ التاريخيةُ والمقارنة", type: "مدرسة"
 - id: "con-grammaticalization", title: "النحويةُ (Grammaticalization)", type: "مفهوم"
+- id: "thk-andrea-sims", title: "أندريا سيمز", type: "مفكر"
 gaps: []
 ---
 
