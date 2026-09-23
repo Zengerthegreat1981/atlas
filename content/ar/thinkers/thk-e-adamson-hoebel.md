@@ -18,6 +18,7 @@ related:
 - id: "thk-bronislaw-malinowski", title: "برونيسلاف مالينوفسكي (Bronisław Malinowski)", type: "مفكر"
 - id: "wrk-crime-custom-savage-society-malinowski", title: "الجريمةُ والعرفُ في المجتمع المتوحِّش (Crime and Custom in Savage Society)", type: "عمل / كتاب"
 - id: "con-trouble-case-method-hoebel", title: "منهجُ الحالة المضطربة (Trouble Case Method)", type: "مفهوم"
+- id: "thk-clyde-kluckhohn", title: "كلايد كلوكهون (Clyde Kluckhohn)", type: "مفكر"
 gaps:
   - "كارل لولين (Karl N. Llewellyn)، شريكُ هوبل في تأليف The Cheyenne Way وعالِمُ قانونٍ لا أنثروبولوجيّ، لم يُنشأ له ملفٌّ مستقلّ هنا لخروجه عن نطاق الأنثروبولوجيا تحديداً."
 ---
