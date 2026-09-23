@@ -19,6 +19,7 @@ related:
 - id: "con-extended-case-method-gluckman", title: "منهجُ الحالة الممتدّة (Extended Case Method)", type: "مفهوم"
 - id: "wrk-custom-conflict-africa-gluckman", title: "العرفُ والصراعُ في أفريقيا (Custom and Conflict in Africa)", type: "عمل / كتاب"
 - id: "wrk-judicial-process-barotse-gluckman", title: "العمليةُ القضائية عند البارتسي (The Judicial Process Among the Barotse)", type: "عمل / كتاب"
+- id: "thk-sally-falk-moore", title: "سالي فوك مور (Sally Falk Moore)", type: "مفكر"
 gaps: []
 ---
 # ماكس غلوكمان (Max Gluckman)
