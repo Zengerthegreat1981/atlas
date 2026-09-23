@@ -17,6 +17,7 @@ related:
 - id: "con-morphological-typology", title: "النمطيةُ الصرفية (Morphological Typology)", type: "مفهوم"
 - id: "con-orthographic-depth-hypothesis", title: "فرضيةُ العمق الكتابي (Orthographic Depth Hypothesis)", type: "مفهوم"
 - id: "thk-peter-daniels", title: "پيتر ت. دانيلز", type: "مفكر"
+- id: "thk-florian-coulmas", title: "فلوريان كولماس", type: "مفكر"
 gaps: []
 ---
 

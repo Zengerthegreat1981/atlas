@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-structural-violence-health", title: "العنفُ البنيويُّ والصحّة (Structural Violence — Farmer, Scheper-Hughes)", type: "مدرسة"
 - id: "thk-nancy-scheper-hughes", title: "نانسي شيپر-هيوز (Nancy Scheper-Hughes)", type: "مفكر"
+- id: "thk-joao-biehl", title: "جواو بيل (João Biehl)", type: "مفكر"
 gaps: []
 ---
 # مارغريت لوك (Margaret Lock)

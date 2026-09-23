@@ -19,6 +19,7 @@ edges:
 related:
 - id: "sch-linguistic-typology", title: "النمطيةُ اللغويةُ والكلّياتُ اللغوية (Linguistic Typology & Universals)", type: "مدرسة"
 - id: "con-writing-systems-typology", title: "نمطيةُ أنظمة الكتابة (Writing Systems Typology)", type: "مفهوم"
+- id: "thk-florian-coulmas", title: "فلوريان كولماس", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بعمله؛ الاعتمادُ على مصدره الإنجليزي الأساسي."
 ---
