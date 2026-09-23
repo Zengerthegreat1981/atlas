@@ -18,6 +18,7 @@ edges:
 - rel: "belongs_to", target: "sch-postcolonial-critique-anthropology", target_type: "مدرسة"
 related:
 - id: "thk-archie-mafeje", title: "آرتشي مافيجي (Archie Mafeje)", type: "مفكر"
+- id: "thk-jean-rouch", title: "جان روش (Jean Rouch)", type: "مفكر"
 gaps:
   - "موديمبي والزوجان كوماروف لم يُكتبوا بعد كملفّاتٍ مستقلّة."
 ---

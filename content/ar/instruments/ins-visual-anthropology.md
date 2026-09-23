@@ -13,6 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-culture-and-personality", target_type: "مدرسة"
 related:
 - id: "thk-margaret-mead", title: "مارغريت ميد (Margaret Mead)", type: "مفكر"
+- id: "wrk-nanook-of-the-north-flaherty", title: "نانوك الشمال (Nanook of the North)", type: "عمل / كتاب"
 gaps:
   - "غريغوري بيتسون (Gregory Bateson)، شريكُ ميد في تصوير *Balinese Character* (1942) وزوجُها آنذاك، لم يُنشأ له ملفٌّ مستقلٌّ هنا؛ ذُكر اسمُه نصّاً فقط. جان روش (Jean Rouch) رائدُ السينما الإثنوغرافية الفرنسية لم يُكتب بعد أيضاً."
 ---
