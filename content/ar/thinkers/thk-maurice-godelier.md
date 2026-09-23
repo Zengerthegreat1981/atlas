@@ -17,6 +17,8 @@ edges:
 related:
 - id: "sch-anthropological-political-economy", title: "الاقتصادُ السياسيُّ العالميُّ والتاريخ (Eric Wolf — Europe and the People Without History)", type: "مدرسة"
 - id: "thk-claude-meillassoux", title: "كلود ميّاسو (Claude Meillassoux)", type: "مفكر"
+- id: "thk-marshall-sahlins", title: "مارشال سالينز (Marshall Sahlins)", type: "مفكر"
+- id: "dbt-substantivism-formalism-economic-anthropology", title: "جدلُ الجوهرانية مقابل الصورانية في الأنثروبولوجيا الاقتصادية (Substantivism vs. Formalism)", type: "جدل"
 gaps: []
 ---
 # موريس غوديلييه (Maurice Godelier)
