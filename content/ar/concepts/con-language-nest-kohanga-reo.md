@@ -16,6 +16,7 @@ related:
 - id: "con-master-apprentice-method-hinton", title: "منهجُ المعلّم والمتدرِّب لإحياء اللغة عند هينتون (Master-Apprentice Method)", type: "مفهوم"
 - id: "con-gids-fishman", title: "المقياسُ المتدرِّج للانقطاع بين الأجيال عند فيشمان (GIDS)", type: "مفهوم"
 - id: "stu-hawaiian-language-revival", title: "إحياءُ اللغة الهاوائية عبر التغمير اللغوي", type: "دراسة"
+- id: "thk-jeanette-king", title: "جانيت كينغ", type: "مفكر"
 gaps: []
 ---
 
