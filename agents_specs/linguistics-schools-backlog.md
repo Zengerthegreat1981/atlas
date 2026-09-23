@@ -2322,3 +2322,15 @@ con-switch-reference-systems الآن مُشبَعةٌ بالكامل. مجمو�
 **التالي المقترَح**: Keith Johnson، ثم Matthew Dryer، ثم Randy Allen Harris — ثلاثةُ مرشّحين واضحين من نفس نطاق instruments/events المكتشَف حديثاً.
 
 نموٌّ صافٍ من 515 إلى ~904 عقدة (+389)، أي نحو 69–75% من الهدف (1200–1400). **نقطةُ استئنافٍ فعلية عند نفاد السياق**؛ لا تقريرَ إغلاقٍ حتى يتحقّق الهدف أو رسالةُ مستخدمٍ حقيقية.
+
+## ⚠️ حالةٌ مقيسة — علامةُ 611 دفعة (2026-09-23، نطاقُ instruments/ مثمر)
+
+عددُ العقد اللسانية الحيّة: ~906 (بعد دفعة 611: thk-matthew-dryer). آخر التزامٍ مؤكَّد: `cff3cd0f`. **84 دفعةً متتالية إضافية في هذه الجلسة الفرعية (529–611)**.
+
+نطاقُ `instruments/` أثبت إنتاجيةً عالية: كيث جونسون (شريك لادفوگد) وماثيو درايِر (شريك هاسپلماث في WALS) عبر دفعتين متتاليتين. **ins-acoustic-phonetics وins-world-atlas-of-language-structures مُشبَعتان بالكامل الآن**. بقي من القائمة: Randy Allen Harris (evt-linguistics-wars-generative-semantics).
+
+معرّفُ THK التالي: آخر مؤكَّد THK-12514؛ أعِد الفحصَ دوماً قبل كل إنشاء.
+
+**التالي المقترَح**: Randy Allen Harris، ثم فحصُ بقية ملفات `instruments/` الموسومة linguistics (ins-clinical-linguistic-assessment، ins-dialect-atlas-geolinguistics، ins-eye-tracking-reaction-time، ins-grammaticality-judgments، ins-matched-guise-technique) بمسح مصادرها.
+
+نموٌّ صافٍ من 515 إلى ~906 عقدة (+391)، أي نحو 69–76% من الهدف (1200–1400). **نقطةُ استئنافٍ فعلية عند نفاد السياق**؛ لا تقريرَ إغلاقٍ حتى يتحقّق الهدف أو رسالةُ مستخدمٍ حقيقية.
