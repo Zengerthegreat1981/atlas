@@ -15,6 +15,7 @@ related:
 - id: "con-stages-of-language-acquisition", title: "مراحلُ اكتساب اللغة الأولى (Stages of First Language Acquisition)", type: "مفهوم"
 - id: "dbt-innateness-vs-usage-based-language-acquisition", title: "جدلُ الفطرية اللغوية مقابل الاستعمالية في اكتساب اللغة", type: "جدل"
 - id: "thk-joan-bybee", title: "جوان بايبي", type: "مفكر"
+- id: "thk-mark-seidenberg", title: "مارك سايدنبرغ", type: "مفكر"
 gaps:
   - "حيادٌ صريحٌ محفوظ: الجدلُ بين النموذج الثنائي الآلية ونموذج الشبكة العصبية الأحادية لا يزال مفتوحاً تجريبياً؛ لا يُرجَّح طرفٌ هنا."
 ---

@@ -20,8 +20,9 @@ related:
 - id: "sch-sentence-processing-psycholinguistics", title: "علمُ اللغة النفسيُّ ومعالجةُ الجملة (Sentence Processing)", type: "مدرسة"
 - id: "con-constraint-based-lexicalist-model-macdonald", title: "النموذجُ المقيَّدُ المعجميُّ التفاعلي (Constraint-Based Lexicalist Model)", type: "مفهوم"
 - id: "thk-lyn-frazier", title: "لين فريزير", type: "مفكر"
+- id: "thk-mark-seidenberg", title: "مارك سايدنبرغ", type: "مفكر"
 gaps:
-  - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرتها؛ الاعتمادُ على مصادرها الإنجليزية الأساسية. مارك سايدنبرغ ونيل پيرلموتر، شريكاها في صياغة النموذج نفسه، لا يملكان عقدةً مستقلّة؛ يُشار إلى إسهامهما ضمن عقدة المفهوم `con-constraint-based-lexicalist-model-macdonald` دون تكرار سيرتيهما هنا."
+  - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرتها؛ الاعتمادُ على مصادرها الإنجليزية الأساسية. **سُدَّ جزئياً 2026-09-23 (الدفعة 557)**: أُنشئ `thk-mark-seidenberg`. نيل پيرلموتر، الشريكُ الثالث في صياغة النموذج، لا يزال دون عقدةٍ مستقلّة."
 ---
 
 # ماريلين ماكدونالد
