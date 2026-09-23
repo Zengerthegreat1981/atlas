@@ -16,6 +16,7 @@ related:
 - id: "thk-hugo-schuchardt", title: "هوغو شوخارت", type: "مفكر"
 - id: "con-creole-continuum-decreolization", title: "متصلُ الكريول وإزالةُ الكريولة (Creole Continuum & Decreolization)", type: "مفهوم"
 - id: "thk-peter-bakker", title: "پيتر باكر", type: "مفكر"
+- id: "thk-maarten-mous", title: "مارتن موس", type: "مفكر"
 gaps: []
 ---
 

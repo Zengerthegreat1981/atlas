@@ -19,6 +19,7 @@ edges:
 related:
 - id: "sch-contact-linguistics-creole", title: "التماسُّ اللغويُّ والكريول والبِجن (Contact Linguistics)", type: "مدرسة"
 - id: "con-mixed-languages-bilingual-genesis", title: "اللغاتُ المختلطةُ ونشوؤها الثنائي (Mixed Languages & Bilingual Genesis)", type: "مفهوم"
+- id: "thk-maarten-mous", title: "مارتن موس", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بعمله؛ الاعتمادُ على مصادره الإنجليزية الأساسية."
 ---
