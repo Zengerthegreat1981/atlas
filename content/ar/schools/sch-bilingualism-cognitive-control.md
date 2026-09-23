@@ -33,6 +33,7 @@ related:
 - id: "con-cognitive-reserve-bilingualism-bialystok", title: "الاحتياطيُّ المعرفيُّ والثنائيةُ اللغوية عند بياليستوك (Cognitive Reserve)", type: "مفهوم"
 - id: "con-simultaneous-sequential-bilingualism-aoa", title: "الثنائيةُ اللغويةُ المتزامنة مقابل المتعاقبة وأثرُ عمر الاكتساب (Simultaneous vs. Sequential Bilingualism & AoA)", type: "مفهوم"
 - id: "thk-jubin-abutalebi", title: "جوبراج أبوطالبي", type: "مفكر"
+- id: "thk-judith-kroll", title: "جوديث ف. كرول", type: "مفكر"
 gaps:
   - "لا `belongs_to`: فرعٌ يجمع علمَ اللغة النفسي بعلم النفس المعرفي، لا ينحدر تاريخياً من مدرسةٍ لسانيةٍ واحدة."
 ---

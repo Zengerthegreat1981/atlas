@@ -15,8 +15,9 @@ related:
 - id: "sch-bilingualism-cognitive-control", title: "ثنائيةُ اللغة والدماغُ (Bilingualism & Cognitive Control)", type: "مدرسة"
 - id: "con-bia-plus-model-dijkstra", title: "نموذجُ التفعيل التفاعلي الثنائي اللغة الموسَّع (BIA+)", type: "مفهوم"
 - id: "con-simultaneous-sequential-bilingualism-aoa", title: "الثنائيةُ اللغويةُ المتزامنة مقابل المتعاقبة وأثرُ عمر الاكتساب (Simultaneous vs. Sequential Bilingualism & AoA)", type: "مفهوم"
+- id: "thk-judith-kroll", title: "جوديث ف. كرول", type: "مفكر"
 gaps:
-  - "لم يُعثر على عقدةٍ مستقلّةٍ لجوديث كرول ضمن الأطلس؛ العقدةُ تُشير إلى العمل المرجعي مباشرةً."
+  - "**سُدَّ بالكامل 2026-09-23 (الدفعة 534)**: أُنشئ `thk-judith-kroll`، مُفرِداً سيرة صاحبة هذا النموذج."
 ---
 
 # النموذجُ الهرميُّ المنقَّح عند كرول وستيوارت
