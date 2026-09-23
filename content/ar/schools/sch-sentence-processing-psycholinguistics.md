@@ -33,6 +33,7 @@ related:
 - id: "con-visual-world-paradigm-tanenhaus", title: "نموذجُ العالم البصري عند تاننهاوس (Visual World Paradigm)", type: "مفهوم"
 - id: "thk-maryellen-macdonald", title: "ماريلين ماكدونالد", type: "مفكر"
 - id: "thk-mark-seidenberg", title: "مارك سايدنبرغ", type: "مفكر"
+- id: "thk-neal-pearlmutter", title: "نيل پيرلموتر", type: "مفكر"
 - id: "thk-janet-fodor", title: "جانيت دين فودور", type: "مفكر"
 gaps:
   - "لا `belongs_to`: فرعٌ تجريبيٌّ يختبر تنبّؤات النظريات النحوية زمنياً، لكنه لا ينحدر تاريخياً من مدرسةٍ نظريةٍ واحدة."

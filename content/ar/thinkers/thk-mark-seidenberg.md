@@ -19,6 +19,7 @@ edges:
 related:
 - id: "sch-sentence-processing-psycholinguistics", title: "علمُ اللغة النفسيُّ ومعالجةُ الجملة (Sentence Processing)", type: "مدرسة"
 - id: "con-overregularization-past-tense-debate", title: "فرطُ التقعيد وجدلُ الأزمنة الفعلية الماضية (Overregularization & the Past-Tense Debate)", type: "مفهوم"
+- id: "thk-neal-pearlmutter", title: "نيل پيرلموتر", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بعمله؛ الاعتمادُ على مصادره الإنجليزية الأساسية."
 ---
