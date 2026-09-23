@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-ethnography-of-communication", title: "إثنوغرافيا التواصل (Ethnography of Communication)", type: "مدرسة"
 - id: "thk-charles-briggs", title: "تشارلز بريغز (Charles L. Briggs)", type: "مفكر"
+- id: "thk-elinor-ochs", title: "إلينور أوكس (Elinor Ochs)", type: "مفكر"
 gaps: []
 ---
 # أليساندرو دورانتي (Alessandro Duranti)
