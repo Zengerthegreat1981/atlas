@@ -21,8 +21,9 @@ related:
 - id: "thk-algirdas-greimas", title: "ألجيرداس غريماس", type: "مفكر"
 - id: "wrk-semantique-structurale-greimas", title: "الدلالةُ البنيوية (Sémantique Structurale)", type: "أثر"
 - id: "con-semiotic-square-greimas", title: "المربّعُ السيميائي عند غريماس (Semiotic Square)", type: "مفهوم"
+- id: "thk-joseph-courtes", title: "جوزيف كورتيس", type: "مفكر"
 gaps:
-  - "جوزيف كورتيس (Joseph Courtés)، المؤلِّفُ المشارِك، لا يملك عقدةَ سيرةٍ مستقلّة في الأطلس؛ يُشار إلى إسهامه المشترك ضمن هذه العقدة دون تكرار سيرته الكاملة."
+  - "**سُدَّ بالكامل 2026-09-23 (الدفعة 530)**: أُنشئ `thk-joseph-courtes`، مُفرِداً سيرة المؤلِّف المشارِك ودورَه المنهجي والتربوي في مدرسة باريس السيميائية."
 ---
 
 # السيمياء: قاموسٌ منهجيٌّ لنظرية اللغة

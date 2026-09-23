@@ -28,6 +28,7 @@ related:
 - id: "thk-jacques-fontanille", title: "جاك فونتانيّ", type: "مفكر"
 - id: "wrk-semantique-structurale-greimas", title: "الدلالةُ البنيوية (Sémantique Structurale)", type: "أثر"
 - id: "wrk-semiotique-dictionnaire-greimas-courtes", title: "السيمياء: قاموسٌ منهجيٌّ لنظرية اللغة (Sémiotique: Dictionnaire raisonné)", type: "أثر"
+- id: "thk-joseph-courtes", title: "جوزيف كورتيس", type: "مفكر"
 gaps:
   - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لأعمال غريماس الأصلية ضمن مصادر الأطلس؛ الاعتماد على النصوص الفرنسية والإنجليزية."
 ---
