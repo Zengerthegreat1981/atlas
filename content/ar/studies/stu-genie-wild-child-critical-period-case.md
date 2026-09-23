@@ -21,6 +21,7 @@ related:
 - id: "con-critical-period-hypothesis", title: "فرضيةُ الفترة الحرجة لاكتساب اللغة", type: "مفهوم"
 - id: "thk-eric-lenneberg", title: "إريك لينبرغ", type: "مفكر"
 - id: "con-poverty-of-the-stimulus-universal-grammar", title: "النحوُ الكلّيُّ وفقرُ المحفِّز (Universal Grammar & Poverty of the Stimulus)", type: "مفهوم"
+- id: "thk-susan-curtiss", title: "سوزان كورتيس", type: "مفكر"
 gaps:
   - "حيادٌ صريحٌ محفوظ إزاء الجدل الأخلاقي والمنهجي المستمرّ حول ظروف دراسة جيني (اتهاماتٌ لاحقة بإهمال رعايتها وتحويلها إلى «عيّنة بحثية» أكثر من طفلةٍ محتاجة، وتضاربُ شهادات فريق البحث)؛ هذا الملفُّ يوثّق الحالةَ ودلالتَها اللسانية دون الفصل في هذا الجدل الأخلاقي المستقلّ."
 ---
