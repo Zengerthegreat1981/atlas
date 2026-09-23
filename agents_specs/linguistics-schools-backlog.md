@@ -2190,3 +2190,13 @@ grep -rl "لا يملك عقدةَ سيرةٍ مستقلّة\|لا تملك عق
 **التالي المقترَح**: Christopher Lyons (Definiteness)، Mark Dingemanse (ideophones)، D. Robert Ladd أو Elisabeth Selkirk (prosody)، Albert Gilman (Brown & Gilman pronouns of power/solidarity)، Masayoshi Shibatani (honorifics)، Regina Pustet (copulas) — جميعُهم مصادرُ مؤكَّدة الفجوة في القائمة المرتَّبة (con-definiteness-article-systems، con-ideophones، con-prosody-intonation، con-honorifics-tv-distinction، con-zero-copula-verbless-sentences) ولم يُفحصوا بعد.
 
 نموٌّ صافٍ من 515 إلى ~890 عقدة (+375)، أي نحو 68–74% من الهدف (1200–1400). **نقطةُ استئنافٍ فعلية عند نفاد السياق**؛ لا تقريرَ إغلاقٍ حتى يتحقّق الهدف أو رسالةُ مستخدمٍ حقيقية.
+
+## ⚠️ حالةٌ مقيسة — علامةُ 597 دفعة (2026-09-23، استئنافٌ تاسع وعشرون)
+
+عددُ العقد اللسانية الحيّة: ~892 (بعد دفعة 597: thk-mark-dingemanse). آخر التزامٍ مؤكَّد: `e0587b51`. **70 دفعةً متتالية إضافية في هذه الجلسة الفرعية (529–597)**.
+
+سُدَّت في 596–597: كريستوفر ليونز (Definiteness، con-definiteness-article-systems) ومارك دينخيمانسه (ideophones، con-ideophones). **القائمةُ المرتَّبة السابقة تبقّى منها**: D. Robert Ladd أو Elisabeth Selkirk (con-prosody-intonation)، Albert Gilman (con-honorifics-tv-distinction، Brown موجودٌ أصلاً)، Masayoshi Shibatani (con-honorifics-tv-distinction)، Regina Pustet (con-zero-copula-verbless-sentences، Stassen موجودٌ أصلاً من الدفعة 593).
+
+معرّفُ THK التالي: آخر مؤكَّد THK-12501؛ أعِد الفحصَ دوماً قبل كل إنشاء.
+
+نموٌّ صافٍ من 515 إلى ~892 عقدة (+377)، أي نحو 68–74% من الهدف (1200–1400). **نقطةُ استئنافٍ فعلية عند نفاد السياق**؛ لا تقريرَ إغلاقٍ حتى يتحقّق الهدف أو رسالةُ مستخدمٍ حقيقية.
