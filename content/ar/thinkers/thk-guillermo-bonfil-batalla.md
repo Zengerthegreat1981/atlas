@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-latin-american-indigenous-anthropology", title: "الأنثروبولوجيا اللاتينية والسكانُ الأصليون (Indigenous & Latin American Anthropology)", type: "مدرسة"
 - id: "thk-roberto-damatta", title: "روبرتو داماتا (Roberto DaMatta)", type: "مفكر"
+- id: "thk-gilberto-freyre", title: "جيلبرتو فريري (Gilberto Freyre)", type: "مفكر"
 gaps: []
 ---
 # غييرمو بونفيل باتايا (Guillermo Bonfil Batalla)
