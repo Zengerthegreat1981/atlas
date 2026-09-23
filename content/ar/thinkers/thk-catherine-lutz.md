@@ -18,6 +18,7 @@ related:
 - id: "sch-psychological-anthropology", title: "الأنثروبولوجيا النفسية وتعلّمُ الثقافة (Psychological Anthropology — Whiting, Shweder, Luhrmann)", type: "مدرسة"
 - id: "thk-unni-wikan", title: "أونّي ڤيكان (Unni Wikan)", type: "مفكر"
 - id: "thk-tanya-luhrmann", title: "تانيا لورمان (Tanya Luhrmann)", type: "مفكر"
+- id: "thk-jean-briggs", title: "جين بريغز (Jean Briggs)", type: "مفكر"
 gaps: []
 ---
 # كاثرين لوتز (Catherine Lutz)
