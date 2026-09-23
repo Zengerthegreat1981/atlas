@@ -15,6 +15,7 @@ related:
 - id: "con-sound-symbolism-bouba-kiki", title: "المحاكاةُ الصوتية الدلالية وأثرُ بوبا-كيكي (Sound Symbolism & the Bouba-Kiki Effect)", type: "مفهوم"
 - id: "con-linguistic-iconicity", title: "الإيقونيةُ اللغوية (Linguistic Iconicity)", type: "مفهوم"
 - id: "sch-linguistic-typology", title: "النمطيةُ اللغويةُ والكلّياتُ اللغوية (Linguistic Typology & Universals)", type: "مدرسة"
+- id: "thk-mark-dingemanse", title: "مارك دينخيمانسه", type: "مفكر"
 gaps: []
 ---
 
