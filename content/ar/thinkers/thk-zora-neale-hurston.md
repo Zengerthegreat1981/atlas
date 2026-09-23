@@ -18,6 +18,7 @@ related:
 - id: "sch-boasian-cultural-relativism", title: "النسبيةُ الثقافية البواسية (Boasian Cultural Relativism & Historical Particularism)", type: "مدرسة"
 - id: "thk-franz-boas", title: "فرانز بواس (Franz Boas)", type: "مفكر"
 - id: "thk-hortense-powdermaker", title: "هورتنس پاودرميكر (Hortense Powdermaker)", type: "مفكر"
+- id: "thk-colin-turnbull", title: "كولن ترنبل (Colin Turnbull)", type: "مفكر"
 gaps: []
 ---
 # زورا نيل هرستون (Zora Neale Hurston)
