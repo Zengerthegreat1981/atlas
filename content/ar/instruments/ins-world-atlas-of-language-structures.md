@@ -20,6 +20,7 @@ related:
 - id: "thk-bernard-comrie", title: "برنارد كومري", type: "مفكر"
 - id: "thk-joseph-greenberg", title: "جوزيف غرينبرغ", type: "مفكر"
 - id: "thk-martin-haspelmath", title: "مارتن هاسپلماث", type: "مفكر"
+- id: "thk-matthew-dryer", title: "ماثيو درايِر", type: "مفكر"
 gaps:
   - "**سُدَّ بالكامل 2026-09-22 (الدفعة 181)**: `thk-martin-haspelmath` موجودٌ بالفعل في الأطلس، مربوطٌ أدناه."
 ---

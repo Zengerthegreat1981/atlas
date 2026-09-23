@@ -33,6 +33,7 @@ related:
 - id: "thk-pamela-munro", title: "پاميلا مونرو", type: "مفكر"
 - id: "thk-peter-ladefoged", title: "پيتر لادفوگد", type: "مفكر"
 - id: "thk-keith-johnson", title: "كيث جونسون", type: "مفكر"
+- id: "thk-matthew-dryer", title: "ماثيو درايِر", type: "مفكر"
 - id: "ins-world-atlas-of-language-structures", title: "الأطلسُ العالميُّ لبِنى اللغة (WALS)", type: "منهج/أداة بحث"
 - id: "con-linguistic-iconicity", title: "الإيقونيةُ اللغوية (Linguistic Iconicity)", type: "مفهوم"
 - id: "con-evidentiality", title: "الإثباتيةُ أو الاستشهادية (Evidentiality)", type: "مفهوم"

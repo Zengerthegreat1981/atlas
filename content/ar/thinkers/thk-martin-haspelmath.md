@@ -22,6 +22,7 @@ related:
 - id: "ins-world-atlas-of-language-structures", title: "الأطلسُ العالميُّ لبِنى اللغة (WALS)", type: "منهج/أداة بحث"
 - id: "con-lexical-borrowing-loanwords", title: "الاقتراضُ المعجمي والدخيل (Lexical Borrowing & Loanwords)", type: "مفهوم"
 - id: "thk-andrea-sims", title: "أندريا سيمز", type: "مفكر"
+- id: "thk-matthew-dryer", title: "ماثيو درايِر", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرته؛ الاعتمادُ على مصادره الإنجليزية والألمانية الأساسية."
 ---
