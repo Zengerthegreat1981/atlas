@@ -19,6 +19,7 @@ related:
 - id: "con-dividual-strathern", title: "الشخصُ القابلُ للقسمة (Dividual)", type: "مفهوم"
 - id: "wrk-gender-of-the-gift-strathern", title: "جندرُ الهبة (The Gender of the Gift)", type: "عمل / كتاب"
 - id: "thk-annette-weiner", title: "أنيت واينر (Annette Weiner)", type: "مفكر"
+- id: "thk-roy-wagner", title: "روي واغنر (Roy Wagner)", type: "مفكر"
 gaps: []
 ---
 # ماريلين ستراذرن (Marilyn Strathern)
