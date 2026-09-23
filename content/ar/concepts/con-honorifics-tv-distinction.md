@@ -15,6 +15,7 @@ related:
 - id: "sch-politeness-theory", title: "نظريةُ التأدّب ووجهُ المتكلّم (Politeness Theory)", type: "مدرسة"
 - id: "sch-linguistic-typology", title: "النمطيةُ اللغويةُ والكلّياتُ اللغوية (Linguistic Typology & Universals)", type: "مدرسة"
 - id: "thk-roger-brown", title: "روجر براون", type: "مفكر"
+- id: "thk-masayoshi-shibatani", title: "ماسايوشي شيباتاني", type: "مفكر"
 gaps: []
 ---
 

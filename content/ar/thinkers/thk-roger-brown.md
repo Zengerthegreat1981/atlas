@@ -21,6 +21,7 @@ related:
 - id: "con-stages-of-language-acquisition", title: "مراحلُ اكتساب اللغة الأولى (Stages of First Language Acquisition)", type: "مفهوم"
 - id: "sch-politeness-theory", title: "نظريةُ التأدّب ووجهُ المتكلّم (Politeness Theory)", type: "مدرسة"
 - id: "con-honorifics-tv-distinction", title: "صيغُ التبجيل والتمييزُ التائي-الڤائي (Honorifics & the T-V Distinction)", type: "مفهوم"
+- id: "thk-masayoshi-shibatani", title: "ماسايوشي شيباتاني", type: "مفكر"
 gaps:
   - "لم يُذكر هنا إسهامُه المستقلُّ الآخر (مع ألبرت غيلمان) في مقالة \"The Pronouns of Power and Solidarity\" (1960)، أصل التمييز التائي-الڤائي في نظرية التأدّب، إلا إشارةً عابرة؛ الملفُّ يركِّز أساساً على عمله في اكتساب اللغة الأولى."
 ---

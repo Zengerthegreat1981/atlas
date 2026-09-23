@@ -21,6 +21,7 @@ related:
 - id: "con-speech-acts-performatives", title: "أفعال الكلام والقضايا الإنجازية (Speech Acts & Performatives)", type: "مفهوم"
 - id: "con-honorifics-tv-distinction", title: "صيغُ التبجيل والتمييزُ التائي-الڤائي (Honorifics & the T-V Distinction)", type: "مفهوم"
 - id: "thk-stephen-levinson", title: "ستيفن ليفنسون", type: "مفكر"
+- id: "thk-masayoshi-shibatani", title: "ماسايوشي شيباتاني", type: "مفكر"
 - id: "thk-penelope-brown", title: "پنلوپي براون", type: "مفكر"
 - id: "thk-yoshiko-matsumoto", title: "يوشيكو ماتسوموتو", type: "مفكر"
 - id: "con-face-threatening-acts-strategies", title: "الأفعالُ المهدِّدة للوجه واستراتيجياتُ التخفيف المتدرِّجة", type: "مفهوم"
