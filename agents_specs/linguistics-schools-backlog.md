@@ -2346,3 +2346,17 @@ con-switch-reference-systems الآن مُشبَعةٌ بالكامل. مجمو�
 **التالي المقترَح**: فحصُ بقية ملفات `instruments/` الموسومة linguistics (ins-clinical-linguistic-assessment، ins-dialect-atlas-geolinguistics، ins-eye-tracking-reaction-time، ins-grammaticality-judgments، ins-matched-guise-technique) بمسح مصادرها، ثم `evt-alpac-report-machine-translation-1966` وevt-zunburiyya (الأخيرُ عربيٌّ تراثيٌّ، غالباً مُشبَع).
 
 نموٌّ صافٍ من 515 إلى ~907 عقدة (+392)، أي نحو 69–76% من الهدف (1200–1400). **نقطةُ استئنافٍ فعلية عند نفاد السياق**؛ لا تقريرَ إغلاقٍ حتى يتحقّق الهدف أو رسالةُ مستخدمٍ حقيقية.
+
+## ⚠️ حالةٌ مقيسة — علامةُ 613 دفعة (2026-09-23، instruments/ مستمرّ)
+
+عددُ العقد اللسانية الحيّة: ~908 (بعد دفعة 613: thk-howard-giles). آخر التزامٍ مؤكَّد: `500b538a` (حادثةُ سباق git add حميدة سابعة، مُتحقَّقٌ منها عبر `git show`؛ ملفاتي الأربعةُ هبطت سليمةً ضمن التزام جلسةٍ دينية متزامنة). **86 دفعةً متتالية إضافية في هذه الجلسة الفرعية (529–613)**.
+
+سُدَّت فجوةُ ins-matched-guise-technique بالكامل (لامبرت موجودٌ أصلاً، جايلز جديد). صُحِّح أيضاً خطأُ تهجئة صغير ("والاس" بدل "وولاس") قبل الالتزام.
+
+**بقي من نطاق instruments/**: ins-clinical-linguistic-assessment (Goodglass، Kaplan، Kertesz)، ins-dialect-atlas-geolinguistics (Chambers، Wenker)، ins-eye-tracking-reaction-time (Rayner، Just، Carpenter)، ins-grammaticality-judgments (Schütze؛ تشومسكي موجودٌ أصلاً).
+
+معرّفُ THK التالي: آخر مؤكَّد THK-12516؛ أعِد الفحصَ دوماً قبل كل إنشاء.
+
+**التالي المقترَح**: Keith Rayner (eye-tracking، شخصيةٌ محورية جداً في سيكولوجيا القراءة) أولويةٌ عالية، يليه Harold Goodglass (تقييم الحُبسة اللغوية، مؤسِّسٌ للحقل الإكلينيكي).
+
+نموٌّ صافٍ من 515 إلى ~908 عقدة (+393)، أي نحو 70–76% من الهدف (1200–1400). **نقطةُ استئنافٍ فعلية عند نفاد السياق**؛ لا تقريرَ إغلاقٍ حتى يتحقّق الهدف أو رسالةُ مستخدمٍ حقيقية.
