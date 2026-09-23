@@ -13,6 +13,8 @@ edges: []
 related:
 - id: "con-topic-focus-information-structure", title: "البنيةُ المعلوماتية: الموضوعُ والبؤرة (Information Structure: Topic & Focus)", type: "مفهوم"
 - id: "con-presupposition-projection-problem", title: "الافتراضُ المسبَق ومشكلةُ الانتقال (Presupposition & the Projection Problem)", type: "مفهوم"
+- id: "thk-christopher-lyons", title: "كريستوفر ليونز", type: "مفكر"
+- id: "thk-irene-heim", title: "إيرين هايم", type: "مفكر"
 gaps:
   - "لا `belongs_to`: مفهومٌ عابرٌ للمدارس (دلالة صورية، تداولية، نمطية) لا ينتمي حصرياً لواحدةٍ منها؛ رُبط بمفاهيم ذات صلةٍ مباشرة عبر `related` فقط."
 ---

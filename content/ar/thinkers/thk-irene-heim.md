@@ -20,6 +20,8 @@ related:
 - id: "sch-formal-semantics-montague-grammar", title: "الدلالةُ الصوريةُ ونحوُ مونتاغيو (Formal Semantics)", type: "مدرسة"
 - id: "thk-angelika-kratzer", title: "أنجيليكا كراتزر", type: "مفكر"
 - id: "con-file-change-semantics-heim", title: "دلالةُ تغيير الملفّ عند هايم (File Change Semantics)", type: "مفهوم"
+- id: "con-definiteness-article-systems", title: "التعريفُ وأنظمةُ أدوات التعريف (Definiteness & Article Systems)", type: "مفهوم"
+- id: "thk-christopher-lyons", title: "كريستوفر ليونز", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرتها؛ الاعتمادُ على مصادرها الإنجليزية الأساسية."
 ---
