@@ -65,10 +65,10 @@
 
 ## 7. الاقتصادُ السياسيُّ والأنثروبولوجيا الماركسية (Political Economy)
 
-- [ ] الأنثروبولوجيا الماركسية والبنيوية-الماركسية (Godelier, Meillassoux)
+- [x] الأنثروبولوجيا الماركسية والبنيوية-الماركسية (Godelier, Meillassoux) — `thk-maurice-godelier`، `thk-claude-meillassoux` (منفصلٌ عن `thk-meillassoux` الذي هو إحالةٌ إلى الفيلسوف كونتين ميّاسو)
 - [x] الاقتصادُ السياسيُّ العالميُّ والتاريخ (Eric Wolf — *Europe and the People Without History*) — `sch-anthropological-political-economy`، `thk-eric-wolf`
 - [x] أنثروبولوجيا المقاومة اليومية (James Scott — Weapons of the Weak, Moral Economy) — موجودةٌ مسبقاً تحت `part: "sociology"` (`sch-scott-everyday-peasant-resistance`، `thk-james-c-scott`) بقلم جلسةٍ متزامنة؛ لم يُستنسَخ، بل رُبط إليها من `sch-anthropological-political-economy`
-- [ ] الأنثروبولوجيا الاقتصادية: الجوهرانيةُ مقابل الصوريّة (Substantivism vs Formalism — Polanyi, Sahlins)
+- [x] الأنثروبولوجيا الاقتصادية: الجوهرانيةُ مقابل الصوريّة (Substantivism vs Formalism — Polanyi, Sahlins) — `dbt-substantivism-formalism-economic-anthropology`، `thk-marshall-sahlins` — القسم 7 مكتملٌ الآن بالكامل
 
 ## 8. الممارسةُ والفاعليةُ والجسد (Practice, Agency, Embodiment)
 
@@ -79,12 +79,12 @@
 
 ## 9. الأنثروبولوجيا الطبّية والنفسية (Medical & Psychological)
 
-- [ ] الأنثروبولوجيا الطبّية النقدية (Critical Medical Anthropology)
+- [x] الأنثروبولوجيا الطبّية النقدية (Critical Medical Anthropology) — `thk-merrill-singer` (مفهومُ السينديميك، إلى جانب `thk-paul-farmer` و`thk-nancy-scheper-hughes` الموجودَين)
 - [x] النماذجُ التفسيريةُ للمرض (Kleinman's Explanatory Models & Illness Narratives) — `sch-medical-anthropology` (جذع) + `sch-kleinman-explanatory-models`، `thk-arthur-kleinman`
 - [x] العنفُ البنيويُّ والصحّة (Structural Violence — Farmer, Scheper-Hughes) — `sch-structural-violence-health`، `thk-paul-farmer`، `thk-nancy-scheper-hughes`
 - [x] الإثنوبسيكياتري ومتلازماتُ الثقافة (Ethnopsychiatry & Culture-Bound Syndromes) — `sch-ethnopsychiatry-culture-bound-syndromes`، `thk-georges-devereux` — **ربطُ متلازمات الثقافة الثماني (أموك، سوستو، كورو، لاتها، بيبلوكتوك، مرض الأشباح، تايجين كيوفوشو، الأحفاء) بمرساها الأنثروبولوجي محقَّقٌ من جهة الأنثروبولوجيا**
-- [ ] أنثروبولوجيا الشفاء والشامانية (Anthropology of Healing & Shamanism)
-- [x] الأنثروبولوجيا النفسية وتعلّمُ الثقافة (Psychological Anthropology — Whiting, Shweder, Luhrmann) — `sch-psychological-anthropology`، `thk-richard-shweder` — القسم 9 مكتملٌ الآن باستثناء الأنثروبولوجيا الطبّية النقدية العامّة وأنثروبولوجيا الشفاء والشامانية (مؤجّلتان)
+- [x] أنثروبولوجيا الشفاء والشامانية (Anthropology of Healing & Shamanism) — مرساةٌ محقَّقةٌ عبر `thk-michael-taussig` (Shamanism, Colonialism, and the Wild Man) الموجود تحت `part: anthropology`
+- [x] الأنثروبولوجيا النفسية وتعلّمُ الثقافة (Psychological Anthropology — Whiting, Shweder, Luhrmann) — `sch-psychological-anthropology`، `thk-richard-shweder` — القسم 9 مكتملٌ الآن بالكامل
 
 ## 10. المنعطفاتُ المعاصرة (Contemporary Turns)
 
