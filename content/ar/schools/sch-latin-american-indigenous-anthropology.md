@@ -19,6 +19,7 @@ edges:
 related:
 - id: "thk-roberto-damatta", title: "روبرتو داماتا (Roberto DaMatta)", type: "مفكر"
 - id: "sch-amerindian-perspectivism", title: "المنظوريةُ الأمازونية وتعدّدُ الطبائع (Amerindian Perspectivism)", type: "مدرسة"
+- id: "thk-guillermo-bonfil-batalla", title: "غييرمو بونفيل باتايا (Guillermo Bonfil Batalla)", type: "مفكر"
 gaps: []
 ---
 # الأنثروبولوجيا اللاتينية والسكانُ الأصليون (Indigenous & Latin American Anthropology)
