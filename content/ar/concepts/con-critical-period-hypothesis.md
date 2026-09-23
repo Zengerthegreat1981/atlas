@@ -20,6 +20,7 @@ related:
 - id: "thk-eric-lenneberg", title: "إريك لينبرغ", type: "مفكر"
 - id: "sch-second-language-acquisition", title: "اكتسابُ اللغة الثانيةُ والفترةُ الحرجة (SLA & Critical Period)", type: "مدرسة"
 - id: "stu-genie-wild-child-critical-period-case", title: "حالةُ جيني: الحرمانُ اللغوي الشديد واختبارُ الفترة الحرجة", type: "دراسة"
+- id: "thk-david-birdsong", title: "ديفيد بيردسونغ", type: "مفكر"
 gaps:
   - "امتدادُ الفرضية إلى اكتساب اللغة الثانية موثَّقٌ ومُفصَّلٌ في مدرسةٍ مستقلة (`sch-second-language-acquisition`، مربوطةٌ أعلاه)."
   - "**سُدَّ 2026-09-22 (الدفعة 171)**: أُنشئ `stu-genie-wild-child-critical-period-case` لتفصيل حالة جيني، بحيادٍ صريحٍ إزاء الجدل الأخلاقي حول ظروف دراستها."
