@@ -20,6 +20,8 @@ related:
 - id: "thk-judith-irvine", title: "جوديث إرڤين", type: "مفكر"
 - id: "sch-linguistic-imperialism", title: "اللسانياتُ الاستعماريةُ ونقدُها (Linguistic Imperialism)", type: "مدرسة"
 - id: "thk-susan-gal", title: "سوزان غال", type: "مفكر"
+- id: "thk-james-milroy", title: "جيمس ميلروي", type: "مفكر"
+- id: "thk-lesley-milroy", title: "ليزلي ميلروي", type: "مفكر"
 - id: "con-standard-language-ideology", title: "أيديولوجيا اللغة المعيارية (Standard Language Ideology)", type: "مفهوم"
 - id: "con-indexical-order-silverstein", title: "الرتبةُ الإشارية عند سيلفرستاين (Indexical Order)", type: "مفهوم"
 - id: "con-semiotic-processes-irvine-gal", title: "العملياتُ السيميائيةُ الثلاث عند إرڤين وغال: الأَيقنةُ والمَحوُ والتكرارُ الكسوري", type: "مفهوم"

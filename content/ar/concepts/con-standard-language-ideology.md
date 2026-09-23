@@ -16,7 +16,10 @@ related:
 - id: "thk-susan-gal", title: "سوزان غال", type: "مفكر"
 - id: "sch-variationist-sociolinguistics", title: "اللسانياتُ الاجتماعيةُ المتغيّرية (Labovian Variationist Sociolinguistics)", type: "مدرسة"
 - id: "con-diglossia", title: "الازدواجيةُ اللغوية (Diglossia)", type: "مفهوم"
-gaps: []
+- id: "thk-james-milroy", title: "جيمس ميلروي", type: "مفكر"
+- id: "thk-lesley-milroy", title: "ليزلي ميلروي", type: "مفكر"
+gaps:
+  - "**سُدَّ بالكامل 2026-09-23 (الدفعة 583)**: أُنشئ `thk-james-milroy` و`thk-lesley-milroy`، مؤلِّفا Authority in Language المستشهَد به في المصادر دون أن يكونا مربوطَين هنا."
 ---
 
 # أيديولوجيا اللغة المعيارية
