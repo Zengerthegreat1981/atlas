@@ -20,6 +20,7 @@ related:
 - id: "thk-daniel-everett", title: "دانيال إيفريت", type: "مفكر"
 - id: "con-x-bar-theory", title: "نظريةُ X-Bar (X-Bar Theory)", type: "مفهوم"
 - id: "thk-david-pesetsky", title: "ديفيد پسيتسكي", type: "مفكر"
+- id: "thk-andrew-nevins", title: "أندرو نيفينز", type: "مفكر"
 gaps:
   - "حيادٌ صريحٌ محفوظ: الجدلُ التجريبي بين إيفريت ونقّاده لا يزال مفتوحاً؛ لا يُرجَّح طرفٌ هنا."
 ---
