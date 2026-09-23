@@ -28,6 +28,7 @@ related:
 - id: "thk-peter-daniels", title: "پيتر ت. دانيلز", type: "مفكر"
 - id: "thk-florian-coulmas", title: "فلوريان كولماس", type: "مفكر"
 - id: "thk-mark-dingemanse", title: "مارك دينخيمانسه", type: "مفكر"
+- id: "thk-regina-pustet", title: "ريجينا پوستِت", type: "مفكر"
 - id: "ins-world-atlas-of-language-structures", title: "الأطلسُ العالميُّ لبِنى اللغة (WALS)", type: "منهج/أداة بحث"
 - id: "con-linguistic-iconicity", title: "الإيقونيةُ اللغوية (Linguistic Iconicity)", type: "مفهوم"
 - id: "con-evidentiality", title: "الإثباتيةُ أو الاستشهادية (Evidentiality)", type: "مفهوم"

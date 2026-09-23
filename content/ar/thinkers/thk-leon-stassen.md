@@ -20,6 +20,7 @@ related:
 - id: "sch-linguistic-typology", title: "النمطيةُ اللغويةُ والكلّياتُ اللغوية (Linguistic Typology & Universals)", type: "مدرسة"
 - id: "con-comparative-constructions-typology", title: "نمطيةُ تراكيب المقارنة (Comparative Constructions Typology)", type: "مفهوم"
 - id: "thk-rmw-dixon", title: "ر. م. و. ديكسون", type: "مفكر"
+- id: "thk-regina-pustet", title: "ريجينا پوستِت", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بعمله؛ الاعتمادُ على مصدره الإنجليزي الأساسي."
 ---

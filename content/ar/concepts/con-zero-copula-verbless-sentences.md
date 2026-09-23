@@ -14,6 +14,8 @@ edges:
 related:
 - id: "sch-linguistic-typology", title: "النمطيةُ اللغويةُ والكلّياتُ اللغوية (Linguistic Typology & Universals)", type: "مدرسة"
 - id: "con-grammatical-case-systems", title: "أنظمةُ الحالة الإعرابية (Grammatical Case Systems)", type: "مفهوم"
+- id: "thk-regina-pustet", title: "ريجينا پوستِت", type: "مفكر"
+- id: "thk-leon-stassen", title: "ليون ستاسِن", type: "مفكر"
 gaps: []
 ---
 
