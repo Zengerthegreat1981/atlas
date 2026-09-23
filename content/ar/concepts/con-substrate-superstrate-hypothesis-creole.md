@@ -16,6 +16,7 @@ related:
 - id: "con-language-bioprogram-hypothesis", title: "فرضيةُ البرنامج اللغوي الحيوي (Language Bioprogram Hypothesis)", type: "مفهوم"
 - id: "con-relexification-hypothesis", title: "فرضيةُ إعادة التمعجُم (Relexification Hypothesis)", type: "مفهوم"
 - id: "thk-hugo-schuchardt", title: "هوغو شوخارت", type: "مفكر"
+- id: "thk-john-holm", title: "جون هولم", type: "مفكر"
 gaps: []
 ---
 
