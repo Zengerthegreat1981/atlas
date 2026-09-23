@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-manchester-school", title: "مدرسةُ مانشستر وتحليلُ الموقف (Manchester School)", type: "مدرسة"
 - id: "thk-elizabeth-colson", title: "إليزابيث كولسون (Elizabeth Colson)", type: "مفكر"
+- id: "thk-susanna-hoffman", title: "سوزانا هوفمان (Susanna M. Hoffman)", type: "مفكر"
 gaps: []
 ---
 # أنتوني أوليڤر-سميث (Anthony Oliver-Smith)
