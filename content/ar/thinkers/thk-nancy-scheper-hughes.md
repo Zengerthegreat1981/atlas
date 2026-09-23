@@ -20,6 +20,7 @@ related:
 - id: "wrk-death-without-weeping-scheper-hughes", title: "موتٌ بلا بكاء (Death Without Weeping)", type: "عمل / كتاب"
 - id: "con-three-bodies-scheper-hughes-lock", title: "الأجسادُ الثلاثة (The Three Bodies)", type: "مفهوم"
 - id: "thk-merrill-singer", title: "ميريل سينغر (Merrill Singer)", type: "مفكر"
+- id: "thk-carolyn-nordstrom", title: "كارولين نوردستروم (Carolyn Nordstrom)", type: "مفكر"
 gaps: []
 ---
 # نانسي شيپر-هيوز (Nancy Scheper-Hughes)
