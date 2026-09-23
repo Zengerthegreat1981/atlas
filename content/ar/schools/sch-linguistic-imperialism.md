@@ -24,6 +24,7 @@ related:
 - id: "thk-tove-skutnabb-kangas", title: "توڤي سكوتناب-كانغاس", type: "مفكر"
 - id: "con-linguistic-human-rights", title: "الحقوقُ اللغويةُ الإنسانية (Linguistic Human Rights)", type: "مفهوم"
 - id: "thk-ofelia-garcia", title: "أوفيليا غارسيا", type: "مفكر"
+- id: "thk-li-wei", title: "لي واي", type: "مفكر"
 - id: "con-translanguaging-garcia", title: "التلغُّةُ المتداخلة عند غارسيا (Translanguaging)", type: "مفهوم"
 - id: "con-language-as-local-practice-pennycook", title: "اللغةُ ممارسةً محلّية عند بينيكوك (Language as Local Practice)", type: "مفهوم"
 - id: "con-linguicism-skutnabb-kangas", title: "اللغوياتيةُ عند سكوتناب-كانغاس (Linguicism)", type: "مفهوم"

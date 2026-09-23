@@ -16,6 +16,7 @@ related:
 - id: "thk-ofelia-garcia", title: "أوفيليا غارسيا", type: "مفكر"
 - id: "con-disinventing-language-makoni-pennycook", title: "نزعُ اختراع اللغة (Disinventing Language)", type: "مفهوم"
 - id: "con-code-switching-mixing", title: "التبديلُ والمزجُ الرمزي (Code-Switching & Code-Mixing)", type: "مفهوم"
+- id: "thk-li-wei", title: "لي واي", type: "مفكر"
 gaps: []
 ---
 

@@ -21,6 +21,7 @@ related:
 - id: "thk-sinfree-makoni", title: "سينفري ماكوني", type: "مفكر"
 - id: "con-disinventing-language-makoni-pennycook", title: "نزعُ اختراع اللغة (Disinventing Language)", type: "مفهوم"
 - id: "con-translanguaging-garcia", title: "التلغُّةُ المتداخلة عند غارسيا (Translanguaging)", type: "مفهوم"
+- id: "thk-li-wei", title: "لي واي", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرتها؛ الاعتمادُ على مصادرها الإنجليزية الأساسية."
 ---
