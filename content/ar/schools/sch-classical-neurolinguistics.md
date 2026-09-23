@@ -26,6 +26,7 @@ related:
 - id: "con-foreign-accent-syndrome", title: "متلازمةُ اللكنة الأجنبية (Foreign Accent Syndrome)", type: "مفهوم"
 - id: "con-dual-stream-model-hickok-poeppel", title: "نموذجُ المسارين البطنيّ والظهريّ لمعالجة اللغة (Dual-Stream Model)", type: "مفهوم"
 - id: "thk-norman-geschwind", title: "نورمان غيرشفيند", type: "مفكر"
+- id: "thk-harold-goodglass", title: "هارولد غودغلاس", type: "مفكر"
 - id: "con-disconnection-syndrome-geschwind", title: "متلازمةُ الانفصال العصبي عند غيرشفيند (Disconnection Syndrome)", type: "مفهوم"
 - id: "syn-conduction-aphasia", title: "متلازمة حبسة التوصيل (عجز التكرار اللفظي المباشر)", type: "متلازمة"
 - id: "syn-global-aphasia", title: "متلازمة الحبسة الشاملة (فقدان التعبير والفهم اللغوي)", type: "متلازمة"
