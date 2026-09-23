@@ -14,8 +14,9 @@ edges:
 related:
 - id: "sch-second-language-acquisition", title: "اكتسابُ اللغة الثانيةُ والفترةُ الحرجة (SLA & Critical Period)", type: "مدرسة"
 - id: "con-krashen-monitor-model", title: "نموذجُ المُرَاقِب وفرضياتُ كراشن الخمس (Monitor Model)", type: "مفهوم"
+- id: "thk-elaine-horwitz", title: "إلين ك. هورفيتس", type: "مفكر"
 gaps:
-  - "لم يُعثر على عقدةٍ مستقلّةٍ لإلين هورفيتس ضمن الأطلس؛ العقدةُ تُشير إلى عملها مباشرةً."
+  - "**سُدَّ بالكامل 2026-09-23 (الدفعة 532)**: أُنشئ `thk-elaine-horwitz`، مُفرِداً سيرة صاحبة هذا المفهوم."
 ---
 
 # قلقُ اللغة الأجنبية عند هورفيتس
