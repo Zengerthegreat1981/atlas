@@ -27,6 +27,7 @@ related:
 - id: "thk-michael-carter", title: "مايكل غراهام كارتر", type: "مفكر"
 - id: "thk-kees-versteegh", title: "كيس ﭬرستيخ", type: "مفكر"
 - id: "thk-georges-bohas", title: "جورج بوهاس", type: "مفكر"
+- id: "thk-djamel-eddine-kouloughli", title: "جمال الدين كلغلي", type: "مفكر"
 gaps:
   - "هذه عقدةُ مدرسةٍ جذريةٌ لقسم علم اللغة (لا `belongs_to`، بدايةُ شجرة التقليد العربي)."
   - "**سُدَّ سابقاً**: مدرسةُ الكوفة والخلافُ حول القياس والسماع موثَّقان بالكامل في `sch-basra-kufa-grammatical-dispute` (مدرسةٌ مستقلة `evolved_from` هذه العقدة)."
