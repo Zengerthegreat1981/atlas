@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-structural-violence-health", title: "العنفُ البنيويُّ والصحّة (Structural Violence — Farmer, Scheper-Hughes)", type: "مدرسة"
 - id: "thk-margaret-lock", title: "مارغريت لوك (Margaret Lock)", type: "مفكر"
+- id: "thk-adriana-petryna", title: "أدريانا پيترينا (Adriana Petryna)", type: "مفكر"
 gaps: []
 ---
 # جواو بيل (João Biehl)
