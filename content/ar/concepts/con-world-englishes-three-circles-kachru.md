@@ -14,6 +14,7 @@ edges:
 related:
 - id: "sch-linguistic-imperialism", title: "اللسانياتُ الاستعماريةُ ونقدُها (Linguistic Imperialism)", type: "مدرسة"
 - id: "thk-braj-kachru", title: "براج كاچرو", type: "مفكر"
+- id: "thk-randolph-quirk", title: "راندولف كويرك", type: "مفكر"
 gaps: []
 ---
 

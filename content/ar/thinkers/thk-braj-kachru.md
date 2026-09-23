@@ -20,6 +20,7 @@ related:
 - id: "sch-linguistic-imperialism", title: "اللسانياتُ الاستعماريةُ ونقدُها (Linguistic Imperialism)", type: "مدرسة"
 - id: "con-world-englishes-three-circles-kachru", title: "دوائرُ الإنجليزية الثلاث عند كاچرو (World Englishes & Three Circles)", type: "مفهوم"
 - id: "thk-robert-phillipson", title: "روبرت فيليبسون", type: "مفكر"
+- id: "thk-randolph-quirk", title: "راندولف كويرك", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرته؛ الاعتمادُ على مصادره الإنجليزية الأساسية."
 ---
