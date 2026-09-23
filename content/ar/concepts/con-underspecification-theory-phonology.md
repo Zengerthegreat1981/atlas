@@ -15,6 +15,7 @@ related:
 - id: "sch-generative-phonology", title: "الصرفُ التوليديُّ والصواتةُ التوليدية (Generative Phonology)", type: "مدرسة"
 - id: "con-feature-geometry-clements", title: "هندسةُ السمات عند كليمنتس (Feature Geometry)", type: "مفهوم"
 - id: "wrk-sound-pattern-of-english-chomsky-halle", title: "The Sound Pattern of English", type: "أثر"
+- id: "thk-donca-steriade", title: "دونكا ستيرياد", type: "مفكر"
 gaps: []
 ---
 

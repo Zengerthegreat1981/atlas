@@ -33,6 +33,7 @@ related:
 - id: "con-underspecification-theory-phonology", title: "نظريةُ التحديد الناقص في الصواتة (Underspecification Theory)", type: "مفهوم"
 - id: "thk-george-clements", title: "جورج كليمنتس", type: "مفكر"
 - id: "thk-john-j-mccarthy", title: "جون ج. مكارثي", type: "مفكر"
+- id: "thk-donca-steriade", title: "دونكا ستيرياد", type: "مفكر"
 gaps: []
 ---
 
