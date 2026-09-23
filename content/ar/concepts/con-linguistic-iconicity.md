@@ -15,6 +15,7 @@ related:
 - id: "con-signifier-signified", title: "الدالُّ والمدلول", type: "مفهوم"
 - id: "sch-peircean-semiotics", title: "السيمياءُ البيرسية (Peircean Semiotics)", type: "مدرسة"
 - id: "sch-cognitive-linguistics", title: "اللسانياتُ المعرفية (Cognitive Linguistics)", type: "مدرسة"
+- id: "thk-talmy-givon", title: "تالمي غيﭬون", type: "مفكر"
 gaps:
   - "حيادٌ صريحٌ محفوظ: مدى انتشار الإيقونية عالمياً موضوعُ نقاشٍ نمطيٍّ مستمرّ؛ لا يُرجَّح موقفٌ حول نسبتها الدقيقة مقارنةً بالاعتباطية."
 ---
