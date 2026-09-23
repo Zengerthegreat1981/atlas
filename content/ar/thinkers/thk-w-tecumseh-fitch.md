@@ -20,6 +20,7 @@ related:
 - id: "sch-language-evolution", title: "أصلُ اللغة وتطوّرها (Language Evolution)", type: "مدرسة"
 - id: "con-fln-flb-narrow-broad-faculty", title: "الملَكةُ اللغوية بمعناها الضيّق والواسع (FLN/FLB)", type: "مفهوم"
 - id: "sch-generative-grammar", title: "النحوُ التوليديُّ التحويليّ (Generative-Transformational Grammar)", type: "مدرسة"
+- id: "thk-marc-hauser", title: "مارك د. هاوزر", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرته؛ الاعتمادُ على مصادره الإنجليزية الأساسية."
 ---
