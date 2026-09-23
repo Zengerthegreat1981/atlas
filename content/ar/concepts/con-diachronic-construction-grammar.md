@@ -14,8 +14,9 @@ edges:
 related:
 - id: "sch-construction-grammar", title: "نحوُ البُنى (Construction Grammar)", type: "مدرسة"
 - id: "con-argument-structure-constructions-goldberg", title: "بُنى الحجج الإنشائية عند غولدبرغ (Argument Structure Constructions)", type: "مفهوم"
+- id: "thk-martin-hilpert", title: "مارتن هيلپرت", type: "مفكر"
 gaps:
-  - "لم يُعثر على عقدةٍ مستقلّةٍ لمارتن هيلپرت أو غابرييله ديفالد ضمن الأطلس؛ العقدةُ تُشير إلى أعمالهما مباشرةً."
+  - "**سُدَّ جزئياً 2026-09-23 (الدفعة 535)**: أُنشئ `thk-martin-hilpert`. غابرييله ديفالد لا تزال دون عقدةِ سيرةٍ مستقلّة."
 ---
 
 # نحوُ البُنى التعاقبي
