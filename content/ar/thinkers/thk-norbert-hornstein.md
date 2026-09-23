@@ -21,6 +21,7 @@ related:
 - id: "con-phase-theory-minimalism", title: "نظريةُ الأطوار (Phase Theory)", type: "مفهوم"
 - id: "con-raising-control-verbs", title: "أفعالُ الرفعِ مقابل أفعال التحكّم (Raising vs. Control Verbs)", type: "مفهوم"
 - id: "con-third-factor-explanations-chomsky", title: "العواملُ الثلاثةُ لنمو اللغة والأطروحةُ الأدنويةُ القوية عند تشومسكي", type: "مفهوم"
+- id: "thk-jairo-nunes", title: "خايرو نونيس", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بسيرته؛ الاعتمادُ على مصادره الإنجليزية الأساسية."
 ---

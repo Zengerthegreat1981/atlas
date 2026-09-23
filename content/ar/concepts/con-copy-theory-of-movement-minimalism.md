@@ -15,6 +15,7 @@ related:
 - id: "sch-minimalist-program", title: "البرنامجُ الأدنويّ (The Minimalist Program)", type: "مدرسة"
 - id: "con-merge-operation-minimalism", title: "عمليةُ الدمج (Merge)", type: "مفهوم"
 - id: "thk-noam-chomsky", title: "نعوم تشومسكي", type: "مفكر"
+- id: "thk-jairo-nunes", title: "خايرو نونيس", type: "مفكر"
 gaps: []
 ---
 
