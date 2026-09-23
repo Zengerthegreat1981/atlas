@@ -17,8 +17,8 @@ edges:
 related:
 - id: "sch-anthropological-political-economy", title: "الاقتصادُ السياسيُّ العالميُّ والتاريخ (Eric Wolf — Europe and the People Without History)", type: "مدرسة"
 - id: "thk-raymond-firth", title: "ريموند فيرث (Raymond Firth)", type: "مفكر"
-gaps:
-  - "لورا بوهانان (Laura Bohannan)، زوجتُه ومتعاونته العلمية وكاتبةُ المقالة الشهيرة \"Shakespeare in the Bush\" (1966) ورواية *Return to Laughter* (بالاسم المستعار Elenore Smith Bowen)، شخصيةٌ مستقلّةٌ لم يُكتب لها بعد ملفٌّ خاصّ؛ سيُضاف إن توفّرت دفعةٌ لاحقة."
+- id: "thk-laura-bohannan", title: "لورا بوهانان (Laura Bohannan)", type: "مفكر"
+gaps: []
 ---
 # پول بوهانان (Paul Bohannan)
 
