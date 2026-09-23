@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-manchester-school", title: "مدرسةُ مانشستر وتحليلُ الموقف (Manchester School)", type: "مدرسة"
 - id: "thk-anthony-oliver-smith", title: "أنتوني أوليڤر-سميث (Anthony Oliver-Smith)", type: "مفكر"
+- id: "thk-mark-schuller", title: "مارك شولر (Mark Schuller)", type: "مفكر"
 gaps: []
 ---
 # سوزانا هوفمان (Susanna M. Hoffman)
