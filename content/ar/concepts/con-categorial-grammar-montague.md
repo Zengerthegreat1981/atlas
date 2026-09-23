@@ -15,6 +15,7 @@ related:
 - id: "sch-formal-semantics-montague-grammar", title: "الدلالةُ الصوريةُ ونحوُ مونتاغيو (Formal Semantics)", type: "مدرسة"
 - id: "con-generalized-quantifiers-barwise-cooper", title: "الكمّياتُ المعمَّمة عند بارواز وكوبر (Generalized Quantifiers)", type: "مفهوم"
 - id: "thk-richard-montague", title: "ريتشارد مونتاغيو", type: "مفكر"
+- id: "thk-kazimierz-ajdukiewicz", title: "كازيمير أجدوكيفيتش", type: "مفكر"
 gaps: []
 ---
 
