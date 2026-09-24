@@ -16,6 +16,7 @@ edges:
 related:
 - id: "sch-digital-anthropology", title: "الأنثروبولوجيا الرقمية والإثنوغرافيا الشبكية (Digital Anthropology — Miller, Boellstorff)", type: "مدرسة"
 - id: "thk-nick-seaver", title: "نيك سيڤر (Nick Seaver)", type: "مفكر"
+- id: "thk-jenna-burrell", title: "جينّا بوريل (Jenna Burrell)", type: "مفكر"
 gaps: []
 ---
 # ماري ل. غراي (Mary L. Gray)
