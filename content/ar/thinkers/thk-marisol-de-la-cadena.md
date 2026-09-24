@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-ontological-turn", title: "المنعطفُ الأنطولوجيّ (The Ontological Turn — Viveiros de Castro, Holbraad)", type: "مدرسة"
 - id: "thk-eduardo-viveiros-de-castro", title: "إدواردو ڤيڤيروس دي كاسترو (Eduardo Viveiros de Castro)", type: "مفكر"
+- id: "thk-martin-holbraad", title: "مارتن هولبراد (Martin Holbraad)", type: "مفكر"
 gaps: []
 ---
 # ماريسول دي لا كادينا (Marisol de la Cadena)

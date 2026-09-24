@@ -18,8 +18,9 @@ edges: []
 related:
 - id: "thk-eduardo-viveiros-de-castro", title: "إدواردو ڤيڤيروس دي كاسترو (Eduardo Viveiros de Castro)", type: "مفكر"
 - id: "sch-amerindian-perspectivism", title: "المنظوريةُ الأمازونية وتعدّدُ الطبائع (Amerindian Perspectivism)", type: "مدرسة"
+- id: "thk-martin-holbraad", title: "مارتن هولبراد (Martin Holbraad)", type: "مفكر"
 gaps:
-  - "مارتن هولبراد وفيليپ ديسكولا لم يُكتبا بعد كملفّين مستقلّين؛ سيُضاف ديسكولا في دفعةٍ منفصلة (ما وراء الطبيعة/الثقافة)، وهولبراد إن توفّرت دفعةٌ لاحقة مخصَّصة."
+  - "فيليپ ديسكولا لم يُكتب بعد كملفٍّ مستقلّ؛ سيُضاف في دفعةٍ منفصلة (ما وراء الطبيعة/الثقافة). مارتن هولبراد أُضيف الآن بملفٍّ مستقلّ (`thk-martin-holbraad`)."
 ---
 # المنعطفُ الأنطولوجيّ (The Ontological Turn — Viveiros de Castro, Holbraad)
 
