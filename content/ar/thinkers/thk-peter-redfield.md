@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-manchester-school", title: "مدرسةُ مانشستر وتحليلُ الموقف (Manchester School)", type: "مدرسة"
 - id: "thk-mark-schuller", title: "مارك شولر (Mark Schuller)", type: "مفكر"
+- id: "thk-erica-bornstein", title: "إيريكا بورنستاين (Erica Bornstein)", type: "مفكر"
 gaps: []
 ---
 # پيتر ريدفيلد (Peter Redfield)
