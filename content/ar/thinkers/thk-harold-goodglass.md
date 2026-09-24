@@ -19,6 +19,8 @@ edges:
 related:
 - id: "ins-clinical-linguistic-assessment", title: "المقاييسُ اللغويةُ الإكلينيكية (Clinical Linguistic Assessment)", type: "منهج/أداة بحث"
 - id: "sch-classical-neurolinguistics", title: "علمُ اللغة العصبيُّ الكلاسيكي (Classical Neurolinguistics)", type: "مدرسة"
+- id: "con-aphasiology-classification", title: "تصنيفُ الحُبسة اللغوية (Aphasiology)", type: "مفهوم"
+- id: "thk-edith-kaplan", title: "إديث كاپلان", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بعمله؛ الاعتمادُ على مصدره الإنجليزي الأساسي."
 ---

@@ -20,6 +20,7 @@ related:
 - id: "sch-classical-neurolinguistics", title: "علمُ اللغة العصبيُّ الكلاسيكي (Classical Neurolinguistics)", type: "مدرسة"
 - id: "con-broca-wernicke-lichtheim-model", title: "نموذجُ بروكا-فيرنيكه-ليختهايم", type: "مفهوم"
 - id: "thk-harold-goodglass", title: "هارولد غودغلاس", type: "مفكر"
+- id: "thk-edith-kaplan", title: "إديث كاپلان", type: "مفكر"
 gaps:
   - "لا مسرد عربيّ رسميٌّ موحَّد لمقاييس تقييم الحُبسة في مصادر الأطلس؛ أسماءُ المقاييس أُبقيت بصيغتها الإنجليزية الأصلية تفادياً لترجمةٍ غير معتمَدة."
 ---
