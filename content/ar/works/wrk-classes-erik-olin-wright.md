@@ -1,6 +1,6 @@
 ---
 slug: "wrk-classes-erik-olin-wright"
-id: "WRK-10006"
+id: "WRK-13132"
 type: "عمل / كتاب"
 register: "academic"
 part: "sociology"

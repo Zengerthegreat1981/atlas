@@ -1,6 +1,6 @@
 ---
 slug: "wrk-rethinking-anthropology-leach"
-id: "WRK-13102"
+id: "WRK-13181"
 type: "عمل"
 part: "anthropology"
 level: "متقدم"

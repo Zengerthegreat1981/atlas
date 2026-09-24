@@ -1,6 +1,6 @@
 ---
 slug: "wrk-nuer-religion-evans-pritchard"
-id: "WRK-13092"
+id: "WRK-13171"
 type: "عمل"
 part: "anthropology"
 level: "متقدم"

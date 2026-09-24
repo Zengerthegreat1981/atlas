@@ -1,6 +1,6 @@
 ---
 slug: "wrk-sexual-contract"
-id: "WRK-10056"
+id: "WRK-13154"
 type: "عمل / كتاب"
 part: "legal-theory"
 level: "متقدم"

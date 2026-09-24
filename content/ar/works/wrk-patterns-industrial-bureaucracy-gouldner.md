@@ -1,6 +1,6 @@
 ---
 slug: "wrk-patterns-industrial-bureaucracy-gouldner"
-id: "WRK-10009"
+id: "WRK-13135"
 type: "عمل / كتاب"
 part: "sociology"
 sociological_tradition: "applied-specialized"

@@ -1,6 +1,6 @@
 ---
 slug: "con-deep-ecology-naess"
-id: "CON-0961"
+id: "CON-18199"
 type: "مفهوم"
 level: "متقدم"
 title: "الإيكولوجيا العميقة والقيمة الذاتية للبيئة (Deep Ecology)"

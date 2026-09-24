@@ -1,6 +1,6 @@
 ---
 slug: "sch-visual-culture-anthropology"
-id: "SCH-12922"
+id: "SCH-13090"
 type: "مدرسة"
 part: "anthropology"
 level: "متقدم"

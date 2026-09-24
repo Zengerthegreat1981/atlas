@@ -1,6 +1,6 @@
 ---
 slug: "con-medieval-periodization"
-id: "CON-12755"
+id: "CON-18206"
 type: "مفهوم"
 part: "historiography"
 level: "متقدم"

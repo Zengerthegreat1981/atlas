@@ -1,6 +1,6 @@
 ---
 slug: "con-psychoeducation"
-id: "CON-0691"
+id: "CON-18192"
 type: "مفهوم"
 level: "مبتدئ"
 title: "التثقيف النفسي (Psychoeducation)"

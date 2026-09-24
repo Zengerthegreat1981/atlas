@@ -1,6 +1,6 @@
 ---
 slug: "wrk-law-of-war-theory"
-id: "WRK-10044"
+id: "WRK-13142"
 type: "عمل / كتاب"
 part: "legal-theory"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-legal-pluralism-merry"
-id: "WRK-10051"
+id: "WRK-13149"
 type: "عمل / كتاب"
 part: "legal-theory"
 level: "متقدم"

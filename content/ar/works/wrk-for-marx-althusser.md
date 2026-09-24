@@ -1,6 +1,6 @@
 ---
 slug: "wrk-for-marx-althusser"
-id: "WRK-10003"
+id: "WRK-13129"
 type: "عمل / كتاب"
 register: "academic"
 part: "sociology"

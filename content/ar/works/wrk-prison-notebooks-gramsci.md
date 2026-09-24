@@ -1,6 +1,6 @@
 ---
 slug: "wrk-prison-notebooks-gramsci"
-id: "WRK-10001"
+id: "WRK-13127"
 type: "عمل / كتاب"
 register: "academic"
 part: "sociology"

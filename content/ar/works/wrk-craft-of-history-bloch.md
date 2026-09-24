@@ -1,6 +1,6 @@
 ---
 slug: "wrk-craft-of-history-bloch"
-id: "WRK-13089"
+id: "WRK-13167"
 type: "عمل / كتاب"
 part: "historiography"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "con-royal-authority-record"
-id: "CON-12758"
+id: "CON-18209"
 type: "مفهوم"
 part: "historiography"
 level: "متقدم"

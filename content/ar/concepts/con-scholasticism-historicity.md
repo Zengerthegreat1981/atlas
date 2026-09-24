@@ -1,6 +1,6 @@
 ---
 slug: "con-scholasticism-historicity"
-id: "CON-12750"
+id: "CON-18201"
 type: "مفهوم"
 part: "historiography"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-knowledge-social-imagery-bloor"
-id: "WRK-10049"
+id: "WRK-13147"
 type: "عمل / كتاب"
 part: "sociology"
 level: "متقدم"

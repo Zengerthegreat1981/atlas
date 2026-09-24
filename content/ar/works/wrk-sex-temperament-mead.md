@@ -1,6 +1,6 @@
 ---
 slug: "wrk-sex-temperament-mead"
-id: "WRK-13106"
+id: "WRK-13185"
 type: "عمل"
 part: "anthropology"
 level: "متقدم"

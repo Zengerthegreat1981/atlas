@@ -1,6 +1,6 @@
 ---
 slug: "con-typology-medieval-history"
-id: "CON-12751"
+id: "CON-18202"
 type: "مفهوم"
 part: "historiography"
 level: "متقدم"

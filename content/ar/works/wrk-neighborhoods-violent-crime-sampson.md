@@ -1,6 +1,6 @@
 ---
 slug: "wrk-neighborhoods-violent-crime-sampson"
-id: "WRK-10057"
+id: "WRK-13155"
 type: "عمل / كتاب"
 register: "academic"
 part: "sociology"

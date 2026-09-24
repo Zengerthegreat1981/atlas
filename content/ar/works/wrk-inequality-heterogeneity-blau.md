@@ -1,6 +1,6 @@
 ---
 slug: "wrk-inequality-heterogeneity-blau"
-id: "WRK-10012"
+id: "WRK-13138"
 type: "عمل / كتاب"
 part: "sociology"
 sociological_tradition: "exchange-rational-choice"

@@ -1,6 +1,6 @@
 ---
 slug: "con-universal-particularity"
-id: "CON-12754"
+id: "CON-18205"
 type: "مفهوم"
 part: "historiography"
 level: "متقدم"

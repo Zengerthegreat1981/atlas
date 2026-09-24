@@ -1,6 +1,6 @@
 ---
 slug: "wrk-paradoxes-of-gender-lorber"
-id: "WRK-10054"
+id: "WRK-13152"
 type: "عمل / كتاب"
 register: "academic"
 part: "sociology"

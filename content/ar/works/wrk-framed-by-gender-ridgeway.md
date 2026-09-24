@@ -1,6 +1,6 @@
 ---
 slug: "wrk-framed-by-gender-ridgeway"
-id: "WRK-10059"
+id: "WRK-13157"
 type: "عمل / كتاب"
 register: "academic"
 part: "sociology"

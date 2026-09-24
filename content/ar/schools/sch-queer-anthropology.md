@@ -1,6 +1,6 @@
 ---
 slug: "sch-queer-anthropology"
-id: "SCH-12925"
+id: "SCH-13093"
 type: "مدرسة"
 part: "anthropology"
 level: "متقدم"

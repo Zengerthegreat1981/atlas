@@ -1,12 +1,12 @@
 ---
-slug: "sch-virtue-ethics-aristotle"
-id: "SCH-12417"
+slug: "sch-human-rights-theory"
+id: "SCH-13082"
 type: "مدرسة"
-part: "ethics"
+part: "legal-theory"
 level: "متقدم"
-title: "أخلاقُ الفضيلة"
-en: "Virtue Ethics"
-crumb: "المدارسُ الفكرية ← أخلاقُ الفضيلة"
+title: "نظريةُ حقوقِ الإنسان"
+en: "Human Rights Theory"
+crumb: "المدارسُ الفكرية ← نظريةُ حقوقِ الإنسان"
 active_start: 1900
 active_end: "مستمر"
 edges: []
@@ -15,7 +15,7 @@ gaps:
   - "توسيعٌ شاملٌ وتعميقُ المحتوى"
 ---
 
-# أخلاقُ الفضيلة
+# نظريةُ حقوقِ الإنسان
 
 ## السياقُ التاريخي والفكري
 

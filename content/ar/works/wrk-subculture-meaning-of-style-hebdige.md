@@ -1,6 +1,6 @@
 ---
 slug: "wrk-subculture-meaning-of-style-hebdige"
-id: "WRK-10046"
+id: "WRK-13144"
 type: "عمل / كتاب"
 part: "sociology"
 level: "متقدم"

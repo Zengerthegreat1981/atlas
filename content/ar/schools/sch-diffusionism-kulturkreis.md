@@ -1,6 +1,6 @@
 ---
 slug: "sch-diffusionism-kulturkreis"
-id: "SCH-12389"
+id: "SCH-13078"
 type: "مدرسة"
 part: "anthropology"
 anthropological_tradition: "diffusionism"

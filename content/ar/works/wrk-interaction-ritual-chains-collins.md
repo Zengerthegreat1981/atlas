@@ -1,6 +1,6 @@
 ---
 slug: "wrk-interaction-ritual-chains-collins"
-id: "WRK-10007"
+id: "WRK-13133"
 type: "عمل / كتاب"
 register: "academic"
 part: "sociology"

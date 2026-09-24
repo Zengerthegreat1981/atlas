@@ -1,6 +1,6 @@
 ---
 slug: "con-neuropsychoanalysis"
-id: "CON-0653"
+id: "CON-18191"
 type: "مفهوم"
 level: "متقدم"
 title: "التحليل النفسي العصبي (Neuropsychoanalysis)"

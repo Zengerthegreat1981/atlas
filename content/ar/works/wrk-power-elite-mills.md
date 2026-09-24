@@ -1,6 +1,6 @@
 ---
 slug: "wrk-power-elite-mills"
-id: "WRK-10002"
+id: "WRK-13128"
 type: "عمل / كتاب"
 register: "academic"
 part: "sociology"

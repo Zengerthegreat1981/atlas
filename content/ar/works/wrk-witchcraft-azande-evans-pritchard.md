@@ -1,6 +1,6 @@
 ---
 slug: "wrk-witchcraft-azande-evans-pritchard"
-id: "WRK-13091"
+id: "WRK-13170"
 type: "عمل"
 part: "anthropology"
 level: "متقدم"

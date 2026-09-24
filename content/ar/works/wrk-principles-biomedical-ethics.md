@@ -1,6 +1,6 @@
 ---
 slug: "wrk-principles-biomedical-ethics"
-id: "WRK-10060"
+id: "WRK-13158"
 type: "عمل / كتاب"
 part: "ethics"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-socialist-legal-systems"
-id: "SCH-12418"
+id: "SCH-13085"
 type: "مدرسة"
 part: "legal-theory"
 level: "متقدم"

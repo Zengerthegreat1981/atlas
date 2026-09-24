@@ -1,6 +1,6 @@
 ---
 slug: "wrk-schism-continuity-turner"
-id: "WRK-13095"
+id: "WRK-13174"
 type: "عمل"
 part: "anthropology"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-text-mining-history"
-id: "SCH-12921"
+id: "SCH-13089"
 type: "مدرسة"
 part: "historiography"
 section: 19

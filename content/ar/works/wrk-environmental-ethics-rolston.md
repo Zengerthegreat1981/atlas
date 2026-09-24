@@ -1,6 +1,6 @@
 ---
 slug: "wrk-environmental-ethics-rolston"
-id: "WRK-10063"
+id: "WRK-13161"
 type: "عمل / كتاب"
 part: "ethics"
 level: "متقدم"

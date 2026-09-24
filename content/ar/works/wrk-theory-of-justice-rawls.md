@@ -1,6 +1,6 @@
 ---
 slug: "wrk-theory-of-justice-rawls"
-id: "WRK-10068"
+id: "WRK-13166"
 type: "عمل / كتاب"
 part: "ethics"
 level: "متقدم"

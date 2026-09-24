@@ -1,6 +1,6 @@
 ---
 slug: "sch-jurisprudence-legal-realism"
-id: "SCH-12414"
+id: "SCH-13081"
 type: "مدرسة"
 part: "legal-theory"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-worlds-of-pain-rubin"
-id: "WRK-10065"
+id: "WRK-13163"
 type: "عمل / كتاب"
 register: "academic"
 part: "sociology"

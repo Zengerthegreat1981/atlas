@@ -1,6 +1,6 @@
 ---
 slug: "wrk-unfinished-revolution-gerson"
-id: "WRK-10064"
+id: "WRK-13162"
 type: "عمل / كتاب"
 register: "academic"
 part: "sociology"

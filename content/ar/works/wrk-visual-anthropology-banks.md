@@ -1,6 +1,6 @@
 ---
 slug: "wrk-visual-anthropology-banks"
-id: "WRK-13107"
+id: "WRK-13186"
 type: "عمل / كتاب"
 part: "anthropology"
 level: "متقدم"

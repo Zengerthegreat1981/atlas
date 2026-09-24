@@ -1,6 +1,6 @@
 ---
 slug: "wrk-restructuring-american-religion-wuthnow"
-id: "WRK-10055"
+id: "WRK-13153"
 type: "عمل / كتاب"
 register: "academic"
 part: "sociology"

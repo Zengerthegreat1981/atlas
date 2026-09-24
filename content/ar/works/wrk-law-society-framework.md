@@ -1,6 +1,6 @@
 ---
 slug: "wrk-law-society-framework"
-id: "WRK-10052"
+id: "WRK-13150"
 type: "عمل / كتاب"
 part: "legal-theory"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-soziologie-simmel-1908"
-id: "WRK-10011"
+id: "WRK-13137"
 type: "عمل / كتاب"
 part: "sociology"
 sociological_tradition: "classical-positivist"

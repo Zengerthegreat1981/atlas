@@ -1,6 +1,6 @@
 ---
 slug: "con-care-ethics"
-id: "CON-0467"
+id: "CON-18181"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"

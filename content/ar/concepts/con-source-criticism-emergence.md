@@ -1,6 +1,6 @@
 ---
 slug: "con-source-criticism-emergence"
-id: "CON-12752"
+id: "CON-18203"
 type: "مفهوم"
 part: "historiography"
 level: "متقدم"

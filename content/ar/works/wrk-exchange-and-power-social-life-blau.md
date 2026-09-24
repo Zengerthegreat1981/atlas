@@ -1,6 +1,6 @@
 ---
 slug: "wrk-exchange-and-power-social-life-blau"
-id: "WRK-10010"
+id: "WRK-13136"
 type: "عمل / كتاب"
 part: "sociology"
 sociological_tradition: "exchange-rational-choice"

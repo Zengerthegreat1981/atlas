@@ -1,6 +1,6 @@
 ---
 slug: "wrk-civil-religion-in-america-bellah"
-id: "WRK-10058"
+id: "WRK-13156"
 type: "عمل / كتاب"
 register: "academic"
 part: "sociology"

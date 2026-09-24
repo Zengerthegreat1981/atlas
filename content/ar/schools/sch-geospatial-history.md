@@ -1,6 +1,6 @@
 ---
 slug: "sch-geospatial-history"
-id: "SCH-12923"
+id: "SCH-13091"
 type: "مدرسة"
 part: "historiography"
 section: 19

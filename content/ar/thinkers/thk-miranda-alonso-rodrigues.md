@@ -1,6 +1,6 @@
 ---
 slug: "thk-miranda-alonso-rodrigues"
-id: "THK-12480"
+id: "THK-13114"
 type: "مفكر"
 part: "religious-studies"
 level: "متقدم"

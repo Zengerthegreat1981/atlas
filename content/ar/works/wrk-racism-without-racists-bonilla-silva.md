@@ -1,6 +1,6 @@
 ---
 slug: "wrk-racism-without-racists-bonilla-silva"
-id: "WRK-10066"
+id: "WRK-13164"
 type: "عمل / كتاب"
 register: "academic"
 part: "sociology"

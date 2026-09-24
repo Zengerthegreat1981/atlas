@@ -1,6 +1,6 @@
 ---
 slug: "sch-spatial-humanities"
-id: "SCH-12924"
+id: "SCH-13092"
 type: "مدرسة"
 part: "historiography"
 section: 19

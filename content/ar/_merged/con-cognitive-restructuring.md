@@ -1,6 +1,6 @@
 ---
 slug: "con-cognitive-restructuring"
-id: "CON-3004"
+id: "CON-18210"
 type: "مفهوم"
 level: "متوسط"
 title: "إعادة الهيكلة المعرفية (Cognitive Restructuring)"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-ritual-process-turner"
-id: "WRK-13096"
+id: "WRK-13175"
 type: "عمل"
 part: "anthropology"
 level: "متقدم"

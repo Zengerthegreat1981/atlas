@@ -1,6 +1,6 @@
 ---
 slug: "wrk-patterns-culture-benedict"
-id: "WRK-13103"
+id: "WRK-13182"
 type: "عمل"
 part: "anthropology"
 level: "متقدم"

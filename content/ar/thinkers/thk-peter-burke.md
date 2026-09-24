@@ -1,6 +1,6 @@
 ---
 slug: "thk-peter-burke"
-id: "THK-7201"
+id: "THK-13115"
 type: "مفكر"
 part: "sociology"
 sociological_tradition: "chicago-interactionist"

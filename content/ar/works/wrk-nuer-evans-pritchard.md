@@ -1,6 +1,6 @@
 ---
 slug: "wrk-nuer-evans-pritchard"
-id: "WRK-13093"
+id: "WRK-13172"
 type: "عمل"
 part: "anthropology"
 level: "متقدم"

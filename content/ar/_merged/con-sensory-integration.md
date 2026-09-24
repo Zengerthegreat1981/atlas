@@ -1,6 +1,6 @@
 ---
 slug: "con-sensory-integration"
-id: "CON-0732"
+id: "CON-18196"
 type: "مفهوم"
 level: "متوسط"
 title: "التكامل الحسي (نظرية عيرز)"

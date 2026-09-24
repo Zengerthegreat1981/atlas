@@ -1,6 +1,6 @@
 ---
 slug: "wrk-condition-postmodernity-harvey"
-id: "WRK-10005"
+id: "WRK-13131"
 type: "عمل / كتاب"
 register: "academic"
 part: "sociology"

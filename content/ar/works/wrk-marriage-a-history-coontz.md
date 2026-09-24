@@ -1,6 +1,6 @@
 ---
 slug: "wrk-marriage-a-history-coontz"
-id: "WRK-10062"
+id: "WRK-13160"
 type: "عمل / كتاب"
 register: "academic"
 part: "sociology"

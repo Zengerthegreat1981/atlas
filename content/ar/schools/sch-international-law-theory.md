@@ -1,6 +1,6 @@
 ---
 slug: "sch-international-law-theory"
-id: "SCH-12419"
+id: "SCH-13086"
 type: "مدرسة"
 part: "legal-theory"
 level: "متقدم"

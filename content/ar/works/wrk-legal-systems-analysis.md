@@ -1,6 +1,6 @@
 ---
 slug: "wrk-legal-systems-analysis"
-id: "WRK-10042"
+id: "WRK-13140"
 type: "عمل / كتاب"
 part: "legal-theory"
 level: "متقدم"

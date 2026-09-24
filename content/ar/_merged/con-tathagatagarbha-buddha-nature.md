@@ -1,6 +1,6 @@
 ---
 slug: "con-tathagatagarbha-buddha-nature"
-id: "CON-1185"
+id: "CON-18200"
 type: "مفهوم"
 part: "philosophy"
 level: "متقدم"

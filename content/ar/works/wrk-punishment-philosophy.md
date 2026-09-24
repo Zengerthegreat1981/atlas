@@ -1,6 +1,6 @@
 ---
 slug: "wrk-punishment-philosophy"
-id: "WRK-10045"
+id: "WRK-13143"
 type: "عمل / كتاب"
 part: "legal-theory"
 level: "متقدم"

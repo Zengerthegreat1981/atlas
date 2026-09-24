@@ -1,6 +1,6 @@
 ---
 slug: "wrk-material-culture-studies-miller"
-id: "WRK-13105"
+id: "WRK-13184"
 type: "عمل / كتاب"
 part: "anthropology"
 level: "متقدم"

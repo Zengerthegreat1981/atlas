@@ -1,6 +1,6 @@
 ---
 slug: "wrk-urban-ethnography-sassen"
-id: "WRK-13097"
+id: "WRK-13176"
 type: "عمل / كتاب"
 part: "anthropology"
 level: "متقدم"

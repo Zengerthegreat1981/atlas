@@ -1,6 +1,6 @@
 ---
 slug: "sch-islamic-law-shariah"
-id: "SCH-12416"
+id: "SCH-13083"
 type: "مدرسة"
 part: "legal-theory"
 level: "متقدم"

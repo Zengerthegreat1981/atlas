@@ -1,6 +1,6 @@
 ---
 slug: "wrk-labor-monopoly-capital-braverman"
-id: "WRK-10008"
+id: "WRK-13134"
 type: "عمل / كتاب"
 register: "academic"
 part: "sociology"

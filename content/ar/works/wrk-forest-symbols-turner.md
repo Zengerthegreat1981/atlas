@@ -1,6 +1,6 @@
 ---
 slug: "wrk-forest-symbols-turner"
-id: "WRK-13094"
+id: "WRK-13173"
 type: "عمل"
 part: "anthropology"
 level: "متقدم"

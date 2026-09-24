@@ -1,6 +1,6 @@
 ---
 slug: "wrk-kinship-technology-franklin"
-id: "WRK-13104"
+id: "WRK-13183"
 type: "عمل / كتاب"
 part: "anthropology"
 level: "متقدم"

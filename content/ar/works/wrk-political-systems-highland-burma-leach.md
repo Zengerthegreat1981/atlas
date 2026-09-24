@@ -1,6 +1,6 @@
 ---
 slug: "wrk-political-systems-highland-burma-leach"
-id: "WRK-13101"
+id: "WRK-13180"
 type: "عمل"
 part: "anthropology"
 level: "متقدم"

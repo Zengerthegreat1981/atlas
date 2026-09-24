@@ -1,6 +1,6 @@
 ---
 slug: "wrk-schooling-in-capitalist-america-bowles-gintis"
-id: "WRK-10050"
+id: "WRK-13148"
 type: "عمل / كتاب"
 part: "sociology"
 level: "متقدم"

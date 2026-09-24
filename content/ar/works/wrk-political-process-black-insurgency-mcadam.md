@@ -1,6 +1,6 @@
 ---
 slug: "wrk-political-process-black-insurgency-mcadam"
-id: "WRK-10043"
+id: "WRK-13141"
 type: "عمل / كتاب"
 part: "sociology"
 level: "متقدم"

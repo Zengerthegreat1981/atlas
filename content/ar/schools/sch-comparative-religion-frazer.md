@@ -1,6 +1,6 @@
 ---
 slug: "sch-comparative-religion-frazer"
-id: "SCH-12388"
+id: "SCH-13077"
 type: "مدرسة"
 part: "anthropology"
 anthropological_tradition: "classical-comparative-religion"

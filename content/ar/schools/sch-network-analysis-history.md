@@ -1,6 +1,6 @@
 ---
 slug: "sch-network-analysis-history"
-id: "SCH-12920"
+id: "SCH-13088"
 type: "مدرسة"
 part: "historiography"
 section: 19

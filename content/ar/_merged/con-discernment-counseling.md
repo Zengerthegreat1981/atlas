@@ -1,6 +1,6 @@
 ---
 slug: "con-discernment-counseling"
-id: "CON-0518"
+id: "CON-18185"
 type: "مفهوم"
 level: "متوسط"
 title: "الاستشارة التمييزية (Discernment Counseling)"

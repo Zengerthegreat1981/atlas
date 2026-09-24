@@ -1,6 +1,6 @@
 ---
 slug: "wrk-moral-emotions-prinz"
-id: "WRK-10067"
+id: "WRK-13165"
 type: "عمل / كتاب"
 part: "ethics"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-taking-rights-seriously"
-id: "WRK-10047"
+id: "WRK-13145"
 type: "عمل / كتاب"
 part: "legal-theory"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-narrative-constitution-identity-somers"
-id: "WRK-10048"
+id: "WRK-13146"
 type: "عمل / كتاب"
 part: "sociology"
 level: "متقدم"

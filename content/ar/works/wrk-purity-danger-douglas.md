@@ -1,6 +1,6 @@
 ---
 slug: "wrk-purity-danger-douglas"
-id: "WRK-13099"
+id: "WRK-13178"
 type: "عمل"
 part: "anthropology"
 level: "متقدم"

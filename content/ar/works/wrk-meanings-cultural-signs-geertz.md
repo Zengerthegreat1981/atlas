@@ -1,6 +1,6 @@
 ---
 slug: "wrk-meanings-cultural-signs-geertz"
-id: "WRK-13098"
+id: "WRK-13177"
 type: "عمل"
 part: "anthropology"
 level: "متقدم"

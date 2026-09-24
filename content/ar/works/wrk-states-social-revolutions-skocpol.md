@@ -1,6 +1,6 @@
 ---
 slug: "wrk-states-social-revolutions-skocpol"
-id: "WRK-10004"
+id: "WRK-13130"
 type: "عمل / كتاب"
 register: "academic"
 part: "sociology"

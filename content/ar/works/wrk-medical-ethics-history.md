@@ -1,6 +1,6 @@
 ---
 slug: "wrk-medical-ethics-history"
-id: "WRK-10061"
+id: "WRK-13159"
 type: "عمل / كتاب"
 part: "ethics"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-sensory-ethnography-pink"
-id: "WRK-13100"
+id: "WRK-13179"
 type: "عمل / كتاب"
 part: "anthropology"
 level: "متقدم"

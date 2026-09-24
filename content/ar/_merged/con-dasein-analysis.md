@@ -1,6 +1,6 @@
 ---
 slug: "con-dasein-analysis"
-id: "CON-0501"
+id: "CON-18183"
 type: "مفهوم"
 level: "متقدم"
 title: "تحليل الدازاين (Daseinsanalysis)"

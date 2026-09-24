@@ -1,6 +1,6 @@
 ---
 slug: "wrk-professional-soldier-janowitz"
-id: "WRK-10041"
+id: "WRK-13139"
 type: "عمل / كتاب"
 part: "sociology"
 level: "متقدم"

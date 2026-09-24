@@ -1,6 +1,6 @@
 ---
 slug: "con-abstinence-vs-harm-reduction"
-id: "CON-0424"
+id: "CON-18179"
 type: "مفهوم"
 level: "متوسط"
 title: "الامتناع الكامل مقابل الحد من الضرر — المفهوم"

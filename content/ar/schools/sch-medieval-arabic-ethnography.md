@@ -1,6 +1,6 @@
 ---
 slug: "sch-medieval-arabic-ethnography"
-id: "SCH-12391"
+id: "SCH-13080"
 type: "مدرسة"
 part: "anthropology"
 anthropological_tradition: "medieval-arabic"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-outline-theory-practice-bourdieu"
-id: "WRK-13090"
+id: "WRK-13169"
 type: "عمل"
 part: "anthropology"
 level: "متقدم"

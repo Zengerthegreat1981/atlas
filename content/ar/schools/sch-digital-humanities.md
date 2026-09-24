@@ -1,6 +1,6 @@
 ---
 slug: "sch-digital-humanities"
-id: "SCH-12920"
+id: "SCH-13087"
 type: "مدرسة"
 part: "historiography"
 section: 19

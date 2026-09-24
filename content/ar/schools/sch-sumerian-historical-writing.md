@@ -1,6 +1,6 @@
 ---
 slug: "sch-sumerian-historical-writing"
-id: "SCH-12390"
+id: "SCH-13079"
 type: "مدرسة"
 part: "historiography"
 historical_period: "الألف الثالثُ ق.م."
