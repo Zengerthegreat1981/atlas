@@ -13,8 +13,10 @@ edges: []
 related:
 - id: "con-adjacency-pairs-turn-taking", title: "الأزواجُ المتجاورة وتنظيمُ الأدوار (Adjacency Pairs & Turn-Taking)", type: "مفهوم"
 - id: "sch-relevance-theory", title: "نظريةُ الملاءمة (Relevance Theory)", type: "مدرسة"
+- id: "thk-deborah-tannen", title: "ديبورا تانن", type: "مفكر"
 gaps:
   - "لا `belongs_to`: مفهومٌ عابرٌ للمدارس (تحليل المحادثة، التداولية) لا ينتمي حصرياً لواحدةٍ منها؛ رُبط بمفاهيم ذات صلةٍ مباشرة عبر `related` فقط."
+  - "موريل ساڤيل-تروايك (شريكةُ تانن في تحرير Perspectives on Silence 1985) وآدم جاڤورسكي (مؤلِّفُ The Power of Silence 1993) لا يملكان عقدةَ سيرةٍ مستقلّة بعد."
 ---
 
 # السكوتُ فعلاً تواصلياً
