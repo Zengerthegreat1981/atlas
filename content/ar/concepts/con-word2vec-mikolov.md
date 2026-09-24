@@ -15,7 +15,8 @@ related:
 - id: "sch-computational-linguistics-nlp", title: "اللسانياتُ الحاسوبيةُ ومعالجةُ اللغة الطبيعية (Computational Linguistics & NLP)", type: "مدرسة"
 - id: "con-distributional-semantics-word-embeddings", title: "الدلالةُ التوزيعية وتمثيلاتُ الكلمات المتّجهية (Distributional Semantics & Word Embeddings)", type: "مفهوم"
 - id: "con-contextualized-embeddings-bert-elmo", title: "التمثيلاتُ المتّجهيةُ السياقية (ELMo وBERT)", type: "مفهوم"
-gaps: []
+gaps:
+  - "توماش ميكولوف باحثٌ هندسي بارز (جوجل ثم فيسبوك) لكن دون مادّةٍ سيريةٍ مستقلّة كافية خارج ورقتَي 2013 نفسِيهما (على غرار حالة پيترز ودِڤلن في ELMo/BERT)؛ الفجوةُ محفوظةٌ صراحةً بدل اختلاق سيرةٍ رقيقة، اتّساقاً مع انضباط الجودة المعتمَد طوال الجلسة."
 ---
 
 # خوارزميةُ Word2Vec عند ميكولوف
