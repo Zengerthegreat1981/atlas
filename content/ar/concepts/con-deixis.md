@@ -15,6 +15,8 @@ related:
 - id: "sch-gricean-pragmatics", title: "التداوليةُ الغرايسية (Gricean Pragmatics)", type: "مدرسة"
 - id: "con-definiteness-article-systems", title: "التعريفُ وأنظمةُ أدوات التعريف (Definiteness & Article Systems)", type: "مفهوم"
 - id: "con-evidentiality", title: "الإثباتيةُ أو الاستشهادية (Evidentiality)", type: "مفهوم"
+- id: "thk-charles-fillmore", title: "تشارلز فيلمور", type: "مفكر"
+- id: "thk-stephen-levinson", title: "ستيفن ليفنسون", type: "مفكر"
 gaps: []
 ---
 
