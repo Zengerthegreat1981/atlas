@@ -14,6 +14,7 @@ edges:
 related:
 - id: "sch-linguistic-typology", title: "النمطيةُ اللغويةُ والكلّياتُ اللغوية (Linguistic Typology & Universals)", type: "مدرسة"
 - id: "con-grammaticalization", title: "النحويةُ (Grammaticalization)", type: "مفهوم"
+- id: "thk-otto-jespersen", title: "أوتو يسبرسن", type: "مفكر"
 gaps: []
 ---
 
