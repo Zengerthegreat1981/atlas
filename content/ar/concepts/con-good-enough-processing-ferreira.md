@@ -15,6 +15,7 @@ related:
 - id: "sch-sentence-processing-psycholinguistics", title: "علمُ اللغة النفسيُّ ومعالجةُ الجملة (Sentence Processing)", type: "مدرسة"
 - id: "con-garden-path-minimal-attachment-frazier", title: "جملُ المسار المُضلِّل ومبدآ الإلحاق الأدنى والإغلاق المتأخّر عند فريزير", type: "مفهوم"
 - id: "con-constraint-based-lexicalist-model-macdonald", title: "النموذجُ المقيَّدُ المعجميُّ التفاعلي (Constraint-Based Lexicalist Model)", type: "مفهوم"
+- id: "thk-fernanda-ferreira", title: "فرناندا فيريرا", type: "مفكر"
 gaps: []
 ---
 

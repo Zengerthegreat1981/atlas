@@ -36,6 +36,7 @@ related:
 - id: "thk-keith-rayner", title: "كيث راينر", type: "مفكر"
 - id: "thk-neal-pearlmutter", title: "نيل پيرلموتر", type: "مفكر"
 - id: "thk-janet-fodor", title: "جانيت دين فودور", type: "مفكر"
+- id: "thk-fernanda-ferreira", title: "فرناندا فيريرا", type: "مفكر"
 gaps:
   - "لا `belongs_to`: فرعٌ تجريبيٌّ يختبر تنبّؤات النظريات النحوية زمنياً، لكنه لا ينحدر تاريخياً من مدرسةٍ نظريةٍ واحدة."
 ---
