@@ -16,6 +16,7 @@ edges:
 related:
 - id: "sch-digital-anthropology", title: "الأنثروبولوجيا الرقمية والإثنوغرافيا الشبكية (Digital Anthropology — Miller, Boellstorff)", type: "مدرسة"
 - id: "thk-daniel-miller", title: "دانيال ميلر (Daniel Miller)", type: "مفكر"
+- id: "thk-gabriella-coleman", title: "غابرييلا كولمان (Gabriella Coleman)", type: "مفكر"
 gaps: []
 ---
 # توم بولستورف (Tom Boellstorff)
