@@ -14,7 +14,9 @@ edges:
 related:
 - id: "con-signifier-signified", title: "الدالُّ والمدلول", type: "مفهوم"
 - id: "sch-first-language-acquisition", title: "اكتسابُ اللغة الأولى ومراحلُه", type: "مدرسة"
-gaps: []
+- id: "thk-helen-keller", title: "هيلين كيلر", type: "مفكر"
+gaps:
+  - "آن سوليفان، معلِّمتُها التي وسّطت لحظةَ الاكتشاف، لا تملك عقدةَ سيرةٍ مستقلّة بعد."
 ---
 
 # لحظةُ هيلين كيلر عند مضخّة الماء
