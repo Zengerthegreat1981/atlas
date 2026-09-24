@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-manchester-school", title: "مدرسةُ مانشستر وتحليلُ الموقف (Manchester School)", type: "مدرسة"
 - id: "thk-abner-cohen", title: "أبنر كوهين (Abner Cohen)", type: "مفكر"
+- id: "thk-teresa-caldeira", title: "تيريزا كالديرا (Teresa P.R. Caldeira)", type: "مفكر"
 gaps: []
 ---
 # سيثا لو (Setha Low)
