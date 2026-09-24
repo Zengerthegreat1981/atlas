@@ -14,6 +14,9 @@ edges:
 related:
 - id: "sch-linguistic-typology", title: "النمطيةُ اللغويةُ والكلّياتُ اللغوية (Linguistic Typology & Universals)", type: "مدرسة"
 - id: "con-ergativity", title: "النمطُ الفاعلي-المفعولي مقابل الإرغاتيفي (Nominative-Accusative vs. Ergative Alignment)", type: "مفهوم"
+- id: "thk-bernard-comrie", title: "برنارد كومري", type: "مفكر"
+- id: "thk-rmw-dixon", title: "ر. م. و. ديكسون", type: "مفكر"
+- id: "thk-alexandra-aikhenvald", title: "ألكسندرا آيخنفالد", type: "مفكر"
 gaps: []
 ---
 
