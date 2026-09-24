@@ -13,6 +13,7 @@ edges: []
 related:
 - id: "con-morphological-typology", title: "النمطيةُ الصرفية (Morphological Typology)", type: "مفهوم"
 - id: "con-grammaticalization", title: "النحويةُ (Grammaticalization)", type: "مفهوم"
+- id: "thk-arnold-zwicky", title: "أرنولد زويكي", type: "مفكر"
 gaps:
   - "لا `belongs_to` فعلياً: عقدةٌ عابرةٌ لعدّة مدارس عبر `related`، لا تنتمي حصرياً لواحدةٍ منها."
 ---
