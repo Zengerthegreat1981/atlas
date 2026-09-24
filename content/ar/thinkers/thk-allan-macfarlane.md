@@ -1,23 +1,23 @@
 ---
-slug: "thk-nancy-munn"
-id: "THK-12797"
+slug: "thk-allan-macfarlane"
+id: "THK-12813"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"
-title: "Nancy Munn"
-en: "Nancy Munn"
-dates: "1930 – "
-birth_country: "USA"
+title: "Allan Macfarlane"
+en: "Allan Macfarlane"
+dates: "1941 – "
+birth_country: "UK"
 edges: []
 related: []
 gaps: []
 ---
 
-# Nancy Munn
+# Allan Macfarlane
 
-**الباحث/ة**: Nancy Munn
-**الفترة**: 1930 – 
-**الدولة**: USA
+**الباحث/ة**: Allan Macfarlane
+**الفترة**: 1941 – 
+**الدولة**: UK
 
 أنثروبولوجي/ة من المساهمين المهمين في تطور الأنثروبولوجيا الحديثة.
 

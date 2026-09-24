@@ -1,12 +1,11 @@
 ---
-slug: "thk-hayden-white"
-id: "THK-13113"
-type: "thinker"
+slug: "con-forgetting-historical-silences"
+id: "CON-13131"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "هايدن وايت"
-en: "Hayden White"
-dates: "1928-2018"
+title: "النسيان والصمت التاريخي"
+en: "Forgetting and Historical Silences"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -16,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# هايدن وايت (Hayden White)
+# النسيان والصمت التاريخي (Forgetting and Historical Silences)
 
-## Hayden White
+## Forgetting and Historical Silences
 
-Theorist of historical narrative and representation; analyzed how historians impose narrative form on historical events.
+Examination of what is forgotten or silenced in historical narratives; studies erasure and invisibility in history.
 
 ### Key Aspects
 

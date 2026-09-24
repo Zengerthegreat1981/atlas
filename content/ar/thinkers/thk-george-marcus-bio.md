@@ -1,22 +1,22 @@
 ---
-slug: "thk-nancy-munn"
-id: "THK-12797"
+slug: "thk-george-marcus-bio"
+id: "THK-12800"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"
-title: "Nancy Munn"
-en: "Nancy Munn"
-dates: "1930 – "
+title: "George E. Marcus"
+en: "George E. Marcus"
+dates: "1946 – "
 birth_country: "USA"
 edges: []
 related: []
 gaps: []
 ---
 
-# Nancy Munn
+# George E. Marcus
 
-**الباحث/ة**: Nancy Munn
-**الفترة**: 1930 – 
+**الباحث/ة**: George E. Marcus
+**الفترة**: 1946 – 
 **الدولة**: USA
 
 أنثروبولوجي/ة من المساهمين المهمين في تطور الأنثروبولوجيا الحديثة.

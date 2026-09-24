@@ -1,22 +1,22 @@
 ---
-slug: "thk-nancy-munn"
-id: "THK-12797"
+slug: "thk-johannes-fabian"
+id: "THK-12799"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"
-title: "Nancy Munn"
-en: "Nancy Munn"
-dates: "1930 – "
+title: "Johannes Fabian"
+en: "Johannes Fabian"
+dates: "1933 – 2017"
 birth_country: "USA"
 edges: []
 related: []
 gaps: []
 ---
 
-# Nancy Munn
+# Johannes Fabian
 
-**الباحث/ة**: Nancy Munn
-**الفترة**: 1930 – 
+**الباحث/ة**: Johannes Fabian
+**الفترة**: 1933 – 2017
 **الدولة**: USA
 
 أنثروبولوجي/ة من المساهمين المهمين في تطور الأنثروبولوجيا الحديثة.

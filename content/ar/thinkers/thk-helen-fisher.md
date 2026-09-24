@@ -1,22 +1,22 @@
 ---
-slug: "thk-nancy-munn"
-id: "THK-12797"
+slug: "thk-helen-fisher"
+id: "THK-12823"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"
-title: "Nancy Munn"
-en: "Nancy Munn"
-dates: "1930 – "
+title: "Helen Fisher"
+en: "Helen Fisher"
+dates: "1945 – "
 birth_country: "USA"
 edges: []
 related: []
 gaps: []
 ---
 
-# Nancy Munn
+# Helen Fisher
 
-**الباحث/ة**: Nancy Munn
-**الفترة**: 1930 – 
+**الباحث/ة**: Helen Fisher
+**الفترة**: 1945 – 
 **الدولة**: USA
 
 أنثروبولوجي/ة من المساهمين المهمين في تطور الأنثروبولوجيا الحديثة.

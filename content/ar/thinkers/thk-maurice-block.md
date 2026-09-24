@@ -1,23 +1,23 @@
 ---
-slug: "thk-nancy-munn"
-id: "THK-12797"
+slug: "thk-maurice-block"
+id: "THK-12815"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"
-title: "Nancy Munn"
-en: "Nancy Munn"
-dates: "1930 – "
-birth_country: "USA"
+title: "Maurice Block"
+en: "Maurice Block"
+dates: "1939 – "
+birth_country: "UK"
 edges: []
 related: []
 gaps: []
 ---
 
-# Nancy Munn
+# Maurice Block
 
-**الباحث/ة**: Nancy Munn
-**الفترة**: 1930 – 
-**الدولة**: USA
+**الباحث/ة**: Maurice Block
+**الفترة**: 1939 – 
+**الدولة**: UK
 
 أنثروبولوجي/ة من المساهمين المهمين في تطور الأنثروبولوجيا الحديثة.
 

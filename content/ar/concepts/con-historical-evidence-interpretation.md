@@ -1,11 +1,11 @@
 ---
-slug: "con-historical-causation"
-id: "CON-13134"
+slug: "con-historical-evidence-interpretation"
+id: "CON-13133"
 type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "السببية التاريخية"
-en: "Historical Causation"
+title: "الأدلة التاريخية والتفسير"
+en: "Historical Evidence and Interpretation"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# السببية التاريخية (Historical Causation)
+# الأدلة التاريخية والتفسير (Historical Evidence and Interpretation)
 
-## Historical Causation
+## Historical Evidence and Interpretation
 
-Examination of how historians explain change and attribute causes; addresses complexity of historical explanation and multiple causation.
+Study of how historians interpret and evaluate evidence; examines epistemology of historical knowledge and evidentiary standards.
 
 ### Key Aspects
 

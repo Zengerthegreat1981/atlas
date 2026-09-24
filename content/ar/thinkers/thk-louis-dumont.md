@@ -1,23 +1,23 @@
 ---
-slug: "thk-nancy-munn"
-id: "THK-12797"
+slug: "thk-louis-dumont"
+id: "THK-12795"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"
-title: "Nancy Munn"
-en: "Nancy Munn"
-dates: "1930 – "
-birth_country: "USA"
+title: "Louis Dumont"
+en: "Louis Dumont"
+dates: "1911 – 1998"
+birth_country: "France"
 edges: []
 related: []
 gaps: []
 ---
 
-# Nancy Munn
+# Louis Dumont
 
-**الباحث/ة**: Nancy Munn
-**الفترة**: 1930 – 
-**الدولة**: USA
+**الباحث/ة**: Louis Dumont
+**الفترة**: 1911 – 1998
+**الدولة**: France
 
 أنثروبولوجي/ة من المساهمين المهمين في تطور الأنثروبولوجيا الحديثة.
 

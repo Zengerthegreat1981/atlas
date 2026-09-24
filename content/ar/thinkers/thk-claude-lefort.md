@@ -1,23 +1,23 @@
 ---
-slug: "thk-nancy-munn"
-id: "THK-12797"
+slug: "thk-claude-lefort"
+id: "THK-12793"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"
-title: "Nancy Munn"
-en: "Nancy Munn"
-dates: "1930 – "
-birth_country: "USA"
+title: "Claude Lefort"
+en: "Claude Lefort"
+dates: "1924 – 2007"
+birth_country: "France"
 edges: []
 related: []
 gaps: []
 ---
 
-# Nancy Munn
+# Claude Lefort
 
-**الباحث/ة**: Nancy Munn
-**الفترة**: 1930 – 
-**الدولة**: USA
+**الباحث/ة**: Claude Lefort
+**الفترة**: 1924 – 2007
+**الدولة**: France
 
 أنثروبولوجي/ة من المساهمين المهمين في تطور الأنثروبولوجيا الحديثة.
 

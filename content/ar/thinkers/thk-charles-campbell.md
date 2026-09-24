@@ -1,23 +1,23 @@
 ---
-slug: "thk-nancy-munn"
-id: "THK-12797"
+slug: "thk-charles-campbell"
+id: "THK-12803"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"
-title: "Nancy Munn"
-en: "Nancy Munn"
-dates: "1930 – "
-birth_country: "USA"
+title: "Charles Campbell"
+en: "Charles Campbell"
+dates: "1923 – 2005"
+birth_country: "UK"
 edges: []
 related: []
 gaps: []
 ---
 
-# Nancy Munn
+# Charles Campbell
 
-**الباحث/ة**: Nancy Munn
-**الفترة**: 1930 – 
-**الدولة**: USA
+**الباحث/ة**: Charles Campbell
+**الفترة**: 1923 – 2005
+**الدولة**: UK
 
 أنثروبولوجي/ة من المساهمين المهمين في تطور الأنثروبولوجيا الحديثة.
 

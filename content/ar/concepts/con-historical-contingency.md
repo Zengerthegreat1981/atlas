@@ -1,12 +1,11 @@
 ---
-slug: "thk-hayden-white"
-id: "THK-13113"
-type: "thinker"
+slug: "con-historical-contingency"
+id: "CON-13128"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "هايدن وايت"
-en: "Hayden White"
-dates: "1928-2018"
+title: "الطوارئ التاريخية"
+en: "Historical Contingency"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -16,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# هايدن وايت (Hayden White)
+# الطوارئ التاريخية (Historical Contingency)
 
-## Hayden White
+## Historical Contingency
 
-Theorist of historical narrative and representation; analyzed how historians impose narrative form on historical events.
+Recognition that history could have proceeded differently; examines unpredictability and openness of historical processes.
 
 ### Key Aspects
 

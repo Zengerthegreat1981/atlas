@@ -1,23 +1,23 @@
 ---
-slug: "thk-nancy-munn"
-id: "THK-12797"
+slug: "thk-lucy-mair"
+id: "THK-12806"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"
-title: "Nancy Munn"
-en: "Nancy Munn"
-dates: "1930 – "
-birth_country: "USA"
+title: "Lucy Mair"
+en: "Lucy Mair"
+dates: "1901 – 1986"
+birth_country: "UK"
 edges: []
 related: []
 gaps: []
 ---
 
-# Nancy Munn
+# Lucy Mair
 
-**الباحث/ة**: Nancy Munn
-**الفترة**: 1930 – 
-**الدولة**: USA
+**الباحث/ة**: Lucy Mair
+**الفترة**: 1901 – 1986
+**الدولة**: UK
 
 أنثروبولوجي/ة من المساهمين المهمين في تطور الأنثروبولوجيا الحديثة.
 

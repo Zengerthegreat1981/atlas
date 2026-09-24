@@ -1,11 +1,11 @@
 ---
-slug: "con-historical-causation"
-id: "CON-13134"
+slug: "con-historical-agency"
+id: "CON-13135"
 type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "السببية التاريخية"
-en: "Historical Causation"
+title: "الفاعلية التاريخية"
+en: "Historical Agency"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# السببية التاريخية (Historical Causation)
+# الفاعلية التاريخية (Historical Agency)
 
-## Historical Causation
+## Historical Agency
 
-Examination of how historians explain change and attribute causes; addresses complexity of historical explanation and multiple causation.
+Study of how agency is understood in historical analysis; examines questions of individual choice, collective action, and structural constraint.
 
 ### Key Aspects
 

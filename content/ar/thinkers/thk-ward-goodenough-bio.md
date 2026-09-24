@@ -1,22 +1,22 @@
 ---
-slug: "thk-nancy-munn"
-id: "THK-12797"
+slug: "thk-ward-goodenough-bio"
+id: "THK-12810"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"
-title: "Nancy Munn"
-en: "Nancy Munn"
-dates: "1930 – "
+title: "Ward Goodenough"
+en: "Ward Goodenough"
+dates: "1919 – 2010"
 birth_country: "USA"
 edges: []
 related: []
 gaps: []
 ---
 
-# Nancy Munn
+# Ward Goodenough
 
-**الباحث/ة**: Nancy Munn
-**الفترة**: 1930 – 
+**الباحث/ة**: Ward Goodenough
+**الفترة**: 1919 – 2010
 **الدولة**: USA
 
 أنثروبولوجي/ة من المساهمين المهمين في تطور الأنثروبولوجيا الحديثة.

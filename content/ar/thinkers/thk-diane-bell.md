@@ -1,23 +1,23 @@
 ---
-slug: "thk-nancy-munn"
-id: "THK-12797"
+slug: "thk-diane-bell"
+id: "THK-12821"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"
-title: "Nancy Munn"
-en: "Nancy Munn"
-dates: "1930 – "
-birth_country: "USA"
+title: "Diane Bell"
+en: "Diane Bell"
+dates: "1939 – 2015"
+birth_country: "Australia"
 edges: []
 related: []
 gaps: []
 ---
 
-# Nancy Munn
+# Diane Bell
 
-**الباحث/ة**: Nancy Munn
-**الفترة**: 1930 – 
-**الدولة**: USA
+**الباحث/ة**: Diane Bell
+**الفترة**: 1939 – 2015
+**الدولة**: Australia
 
 أنثروبولوجي/ة من المساهمين المهمين في تطور الأنثروبولوجيا الحديثة.
 

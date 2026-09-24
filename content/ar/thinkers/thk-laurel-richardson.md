@@ -1,22 +1,22 @@
 ---
-slug: "thk-nancy-munn"
-id: "THK-12797"
+slug: "thk-laurel-richardson"
+id: "THK-12828"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"
-title: "Nancy Munn"
-en: "Nancy Munn"
-dates: "1930 – "
+title: "Laurel Richardson"
+en: "Laurel Richardson"
+dates: "1937 – 2012"
 birth_country: "USA"
 edges: []
 related: []
 gaps: []
 ---
 
-# Nancy Munn
+# Laurel Richardson
 
-**الباحث/ة**: Nancy Munn
-**الفترة**: 1930 – 
+**الباحث/ة**: Laurel Richardson
+**الفترة**: 1937 – 2012
 **الدولة**: USA
 
 أنثروبولوجي/ة من المساهمين المهمين في تطور الأنثروبولوجيا الحديثة.

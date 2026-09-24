@@ -1,23 +1,23 @@
 ---
-slug: "thk-nancy-munn"
-id: "THK-12797"
+slug: "thk-jonathan-parry"
+id: "THK-12814"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"
-title: "Nancy Munn"
-en: "Nancy Munn"
-dates: "1930 – "
-birth_country: "USA"
+title: "Jonathan Parry"
+en: "Jonathan Parry"
+dates: "1949 – "
+birth_country: "UK"
 edges: []
 related: []
 gaps: []
 ---
 
-# Nancy Munn
+# Jonathan Parry
 
-**الباحث/ة**: Nancy Munn
-**الفترة**: 1930 – 
-**الدولة**: USA
+**الباحث/ة**: Jonathan Parry
+**الفترة**: 1949 – 
+**الدولة**: UK
 
 أنثروبولوجي/ة من المساهمين المهمين في تطور الأنثروبولوجيا الحديثة.
 

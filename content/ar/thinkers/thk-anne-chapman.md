@@ -1,23 +1,23 @@
 ---
-slug: "thk-nancy-munn"
-id: "THK-12797"
+slug: "thk-anne-chapman"
+id: "THK-12816"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"
-title: "Nancy Munn"
-en: "Nancy Munn"
-dates: "1930 – "
-birth_country: "USA"
+title: "Anne Chapman"
+en: "Anne Chapman"
+dates: "1922 – 2013"
+birth_country: "Argentina"
 edges: []
 related: []
 gaps: []
 ---
 
-# Nancy Munn
+# Anne Chapman
 
-**الباحث/ة**: Nancy Munn
-**الفترة**: 1930 – 
-**الدولة**: USA
+**الباحث/ة**: Anne Chapman
+**الفترة**: 1922 – 2013
+**الدولة**: Argentina
 
 أنثروبولوجي/ة من المساهمين المهمين في تطور الأنثروبولوجيا الحديثة.
 

@@ -1,12 +1,11 @@
 ---
-slug: "thk-hayden-white"
-id: "THK-13113"
-type: "thinker"
+slug: "con-historical-presence-absence"
+id: "CON-13132"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "هايدن وايت"
-en: "Hayden White"
-dates: "1928-2018"
+title: "الحضور والغياب التاريخي"
+en: "Historical Presence and Absence"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -16,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# هايدن وايت (Hayden White)
+# الحضور والغياب التاريخي (Historical Presence and Absence)
 
-## Hayden White
+## Historical Presence and Absence
 
-Theorist of historical narrative and representation; analyzed how historians impose narrative form on historical events.
+Study of how what is and is not present in historical records shapes historical knowledge; examines evidence and absences.
 
 ### Key Aspects
 

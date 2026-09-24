@@ -1,12 +1,11 @@
 ---
-slug: "thk-hayden-white"
-id: "THK-13113"
-type: "thinker"
+slug: "con-historical-narrative-forms"
+id: "CON-13129"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "هايدن وايت"
-en: "Hayden White"
-dates: "1928-2018"
+title: "أشكال السردية التاريخية"
+en: "Historical Narrative Forms"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -16,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# هايدن وايت (Hayden White)
+# أشكال السردية التاريخية (Historical Narrative Forms)
 
-## Hayden White
+## Historical Narrative Forms
 
-Theorist of historical narrative and representation; analyzed how historians impose narrative form on historical events.
+Study of different ways historians construct narratives; examines plot, causation, and meaning-making in historical writing.
 
 ### Key Aspects
 

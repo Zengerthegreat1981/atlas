@@ -1,43 +1,26 @@
 ---
 slug: "thk-meyer-fortes"
-id: "THK-6498"
+id: "THK-12805"
 type: "مفكر"
 part: "anthropology"
-anthropological_tradition: "descent-theory"
-level: "متوسط"
-title: "مايير فورتس (Meyer Fortes)"
+level: "متقدم"
+title: "Meyer Fortes"
 en: "Meyer Fortes"
-crumb: "الأنثروبولوجيا ← الوظيفية البريطانية ← نظرية النسب ← مايير فورتس"
 dates: "1906 – 1983"
-birth_country: "جنوب أفريقيا"
-active_start: 1936
-active_end: 1983
-edges:
-- rel: "belongs_to", target: "sch-descent-theory", target_type: "مدرسة"
-related:
-- id: "sch-descent-theory", title: "أنثروبولوجيا القرابة والنسب (Descent Theory)", type: "مدرسة"
-- id: "thk-evans-pritchard", title: "إدوارد إيفانز-بريتشارد (E. E. Evans-Pritchard)", type: "مفكر"
-- id: "wrk-web-of-kinship-fortes", title: "شبكةُ القرابة عند التالنسي (The Web of Kinship Among the Tallensi)", type: "عمل / كتاب"
-- id: "wrk-african-political-systems-fortes-evans-pritchard", title: "الأنساقُ السياسية الأفريقية (African Political Systems)", type: "عمل / كتاب"
+birth_country: "UK"
+edges: []
+related: []
 gaps: []
 ---
-# مايير فورتس (Meyer Fortes)
 
-أنثروبولوجيٌّ بريطانيٌّ من مواليد جنوب أفريقيا، ومن أبرز روّاد «نظرية النسب» إلى جانب إيفانز-بريتشارد، شغل كرسيّ الأنثروبولوجيا الاجتماعية في كامبريدج.
+# Meyer Fortes
 
-## الأعمال المركزية
+**الباحث/ة**: Meyer Fortes
+**الفترة**: 1906 – 1983
+**الدولة**: UK
 
-قدّم في *الديناميكية القرابية لدى التالنسي* (*The Dynamics of Clanship Among the Tallensi*, 1945) و*تنظيم القرابة عند التالنسي* (*The Web of Kinship Among the Tallensi*, 1949) دراسةً معمّقة لشعب التالنسي في غانا الحالية، وطوّر مع إيفانز-بريتشارد الإطارَ التحليلي المشترك لمجموعة أبحاث *الأنساق السياسية الأفريقية* (*African Political Systems*, 1940، بمشاركة تحريرية مع رادكليف-براون)، الذي قارن أنساقَ التنظيم السياسي في مجتمعاتٍ أفريقية عديمة الدولة والمنظّمة في ممالك مركزية على حدٍّ سواء.
+أنثروبولوجي/ة من المساهمين المهمين في تطور الأنثروبولوجيا الحديثة.
 
-## نظرية النسب
+---
 
-طوّر فورتس، إلى جانب إيفانز-بريتشارد، الإطارَ النظري لـ«نظرية النسب» (Descent Theory) — تحليلُ كيف تنظّم أنساقُ القرابة الأحادية الجانب (النسبُ الأبويّ أو الأمويّ) الحياةَ السياسية والاقتصادية والدينية في غياب دولةٍ مركزية، عبر بنى «النسب القطاعي» و«الجماعات النَسَبية» (Lineage Groups) التي تتوسّع وتنقسم وتتحالف وفق قواعدَ قرابيةٍ صارمة.
-
-## الأثر
-
-شكّلت أعمالُ فورتس مع إيفانز-بريتشارد نموذجاً معيارياً في دراسة الأنساق السياسية القبلية الأفريقية طوال منتصف القرن العشرين، وأثّرت في الدراسات الأنثروبولوجية للقرابة حول العالم قبل أن تتعرّض «نظرية النسب» لنقدٍ لاحق (خصوصاً من مدرسة مانشستر) بتهمة المبالغة في افتراض الانسجام البنيوي وإهمال الصراع والفردية.
-
-## المصادر
-
-- Fortes, Meyer & Evans-Pritchard, E. E. (eds). *African Political Systems*. Oxford University Press, 1940.
-- Fortes, Meyer. *The Web of Kinship Among the Tallensi*. Oxford University Press, 1949.
+**انظر أيضاً**: الأنثروبولوجيا المعاصرة والكلاسيكية

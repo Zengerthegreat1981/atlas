@@ -1,12 +1,11 @@
 ---
-slug: "thk-hayden-white"
-id: "THK-13113"
-type: "thinker"
+slug: "con-memory-history"
+id: "CON-13130"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "هايدن وايت"
-en: "Hayden White"
-dates: "1928-2018"
+title: "الذاكرة والتاريخ"
+en: "Memory and History"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -16,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# هايدن وايت (Hayden White)
+# الذاكرة والتاريخ (Memory and History)
 
-## Hayden White
+## Memory and History
 
-Theorist of historical narrative and representation; analyzed how historians impose narrative form on historical events.
+Study of relationship between collective memory and historical accounts; examines how communities remember and interpret past.
 
 ### Key Aspects
 
