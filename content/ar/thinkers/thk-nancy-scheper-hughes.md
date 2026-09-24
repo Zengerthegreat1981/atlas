@@ -22,6 +22,7 @@ related:
 - id: "thk-merrill-singer", title: "ميريل سينغر (Merrill Singer)", type: "مفكر"
 - id: "thk-carolyn-nordstrom", title: "كارولين نوردستروم (Carolyn Nordstrom)", type: "مفكر"
 - id: "thk-margaret-lock", title: "مارغريت لوك (Margaret Lock)", type: "مفكر"
+- id: "thk-leith-mullings", title: "ليث مولينغز (Leith Mullings)", type: "مفكر"
 gaps: []
 ---
 # نانسي شيپر-هيوز (Nancy Scheper-Hughes)
