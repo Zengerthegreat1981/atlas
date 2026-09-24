@@ -18,8 +18,8 @@ related:
 - id: "sch-digital-anthropology", title: "الأنثروبولوجيا الرقمية والإثنوغرافيا الشبكية (Digital Anthropology — Miller, Boellstorff)", type: "مدرسة"
 - id: "stu-why-we-post-miller", title: "لماذا ننشر؟ (Why We Post)", type: "دراسة وبحث"
 - id: "wrk-theory-of-shopping-miller", title: "نظريةُ التسوّق (A Theory of Shopping)", type: "عمل / كتاب"
-gaps:
-  - "توم بولستورف (Coming of Age in Second Life) لم يُكتب بعد كملفٍّ مستقلّ؛ ذُكر نصّاً في ملفّ المدرسة فقط."
+- id: "thk-tom-boellstorff", title: "توم بولستورف (Tom Boellstorff)", type: "مفكر"
+gaps: []
 ---
 # دانيال ميلر (Daniel Miller)
 

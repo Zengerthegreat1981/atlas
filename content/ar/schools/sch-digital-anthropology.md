@@ -18,8 +18,8 @@ edges:
 - rel: "belongs_to", target: "sch-ontological-turn", target_type: "مدرسة"
 related:
 - id: "thk-daniel-miller", title: "دانيال ميلر (Daniel Miller)", type: "مفكر"
-gaps:
-  - "توم بولستورف ودراسته الإثنوغرافية لعالم Second Life الافتراضي (Coming of Age in Second Life, 2008) لم يُكتب بعد كملفٍّ مستقلّ."
+- id: "thk-tom-boellstorff", title: "توم بولستورف (Tom Boellstorff)", type: "مفكر"
+gaps: []
 ---
 # الأنثروبولوجيا الرقمية والإثنوغرافيا الشبكية (Digital Anthropology — Miller, Boellstorff)
 
