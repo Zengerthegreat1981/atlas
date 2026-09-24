@@ -16,6 +16,7 @@ edges:
 related:
 - id: "sch-digital-anthropology", title: "الأنثروبولوجيا الرقمية والإثنوغرافيا الشبكية (Digital Anthropology — Miller, Boellstorff)", type: "مدرسة"
 - id: "thk-tom-boellstorff", title: "توم بولستورف (Tom Boellstorff)", type: "مفكر"
+- id: "thk-nick-seaver", title: "نيك سيڤر (Nick Seaver)", type: "مفكر"
 gaps: []
 ---
 # غابرييلا كولمان (Gabriella Coleman)
