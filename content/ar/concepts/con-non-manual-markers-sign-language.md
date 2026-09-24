@@ -15,7 +15,9 @@ related:
 - id: "sch-sign-language-linguistics", title: "لسانياتُ لغة الإشارة (Sign Language Linguistics)", type: "مدرسة"
 - id: "con-classifier-predicates-spatial-agreement-sign-language", title: "المسنِداتُ التصنيفيةُ والاتفاقُ المكانيُّ في لغة الإشارة", type: "مفهوم"
 - id: "con-cherology-sign-parameters-stokoe", title: "الكيرولوجيا ومعاملاتُ الإشارة عند ستوكو (Cherology & Sign Parameters)", type: "مفهوم"
-gaps: []
+- id: "thk-wendy-sandler", title: "ويندي ساندلر", type: "مفكر"
+gaps:
+  - "سكوت ك. ليدِل (Liddell)، مؤلِّفُ *American Sign Language Syntax* (1980) المستشهَدِ به هنا، لا يملك عقدةَ سيرةٍ مستقلّة بعد."
 ---
 
 # العلاماتُ غيرُ اليدوية في لغة الإشارة
