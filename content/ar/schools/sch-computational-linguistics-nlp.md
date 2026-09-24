@@ -37,6 +37,7 @@ related:
 - id: "thk-ruslan-mitkov", title: "روسلان ميتكوف", type: "مفكر"
 - id: "thk-yoshua-bengio", title: "يوشوا بنجيو", type: "مفكر"
 - id: "thk-tal-linzen", title: "تال لينزن", type: "مفكر"
+- id: "thk-john-r-pierce", title: "جون ر. پيرس", type: "مفكر"
 gaps:
   - "لا `belongs_to`/`evolved_from`: فرعٌ متعدّدُ الأصول (منطقٌ حاسوبيٌّ، نظريةُ الأتمتة، إحصاءٌ) نشأ بالتوازي مع النحو التوليدي دون انحدارٍ حصريٍّ منه."
 ---

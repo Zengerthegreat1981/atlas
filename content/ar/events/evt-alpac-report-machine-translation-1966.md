@@ -18,7 +18,9 @@ related:
 - id: "sch-computational-linguistics-nlp", title: "اللسانياتُ الحاسوبيةُ ومعالجةُ اللغة الطبيعية (Computational Linguistics & NLP)", type: "مدرسة"
 - id: "sch-translation-studies", title: "الترجمةُ الآليةُ ونظريةُ الترجمة (Translation Studies)", type: "مدرسة"
 - id: "ctx-cold-war-machine-translation-funding", title: "الحربُ الباردة وتمويلُ الترجمة الآلية المبكرة", type: "سياق/تقليد"
-gaps: []
+- id: "thk-john-r-pierce", title: "جون ر. پيرس", type: "مفكر"
+gaps:
+  - "و. جون هَتشِنز، مؤرِّخُ الترجمة الآلية المرجعي (Machine Translation: Past, Present, Future 1986) المستشهَدِ به هنا، لا يملك عقدةَ سيرةٍ مستقلّة بعد."
 ---
 
 # تقريرُ ألباك وأزمةُ تمويل الترجمة الآلية 1966

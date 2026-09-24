@@ -21,6 +21,8 @@ related:
 - id: "con-distinctive-features-phonology", title: "السماتُ التمييزية", type: "مفهوم"
 - id: "ins-descriptive-linguistic-fieldwork", title: "التسجيلُ الميدانيُّ ووصفُ اللغات (Descriptive Fieldwork)", type: "منهج/أداة بحث"
 - id: "con-writing-systems-typology", title: "نمطيةُ أنظمة الكتابة (Writing Systems Typology)", type: "مفهوم"
+- id: "thk-peter-ladefoged", title: "پيتر لادفوگد", type: "مفكر"
+- id: "thk-keith-johnson", title: "كيث جونسون", type: "مفكر"
 gaps:
   - "التطوّراتُ التقنية اللاحقة (المراجعاتُ الدورية للرسم البياني الرسمي منذ 1888 حتى اليوم) لم تُفصَّل تاريخياً بند بند؛ الملفُّ يعرض المبدأَ العام والنسخةَ المعاصرة السائدة."
 ---

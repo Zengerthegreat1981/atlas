@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-writing-culture-crisis", title: "أزمةُ التمثيل وكتابةُ الثقافة (Writing Culture — Clifford & Marcus)", type: "مدرسة"
 - id: "thk-marilyn-ivy", title: "ماريلين آيڤي (Marilyn Ivy)", type: "مفكر"
+- id: "thk-anne-allison", title: "آن أليسون (Anne Allison)", type: "مفكر"
 gaps: []
 ---
 # دورين كوندو (Dorinne Kondo)
