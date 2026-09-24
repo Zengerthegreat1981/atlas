@@ -14,6 +14,8 @@ edges:
 related:
 - id: "con-linguistic-iconicity", title: "الإيقونيةُ اللغوية (Linguistic Iconicity)", type: "مفهوم"
 - id: "con-signifier-signified", title: "الدالُّ والمدلول", type: "مفهوم"
+- id: "thk-wkohler", title: "فولفغانغ كولَر", type: "مفكر"
+- id: "thk-vramachandran", title: "ف. س. راماشاندران", type: "مفكر"
 gaps: []
 ---
 
