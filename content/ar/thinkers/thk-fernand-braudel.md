@@ -1,6 +1,6 @@
 ---
 slug: "thk-fernand-braudel"
-id: "THK-12617"
+id: "THK-12634"
 type: "مفكر"
 part: "historiography"
 level: "متقدم"

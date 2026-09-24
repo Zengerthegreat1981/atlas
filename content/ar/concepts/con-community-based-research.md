@@ -1,6 +1,6 @@
 ---
 slug: "con-community-based-research"
-id: "CON-12669"
+id: "CON-18117"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"

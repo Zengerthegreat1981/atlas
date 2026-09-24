@@ -1,6 +1,6 @@
 ---
 slug: "thk-eric-hobsbawm"
-id: "THK-12621"
+id: "THK-12638"
 type: "مفكر"
 part: "historiography"
 level: "متقدم"

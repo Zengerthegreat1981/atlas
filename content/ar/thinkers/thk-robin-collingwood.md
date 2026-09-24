@@ -1,6 +1,6 @@
 ---
 slug: "thk-robin-collingwood"
-id: "THK-12619"
+id: "THK-12636"
 type: "مفكر"
 part: "historiography"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-intellectual-history-tradition"
-id: "SCH-12394"
+id: "SCH-12542"
 type: "مدرسة"
 part: "historiography"
 level: "متقدم"

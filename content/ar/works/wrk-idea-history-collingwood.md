@@ -1,6 +1,6 @@
 ---
 slug: "wrk-idea-history-collingwood"
-id: "WRK-12432"
+id: "WRK-13090"
 type: "عمل / كتاب"
 part: "historiography"
 level: "متقدم"

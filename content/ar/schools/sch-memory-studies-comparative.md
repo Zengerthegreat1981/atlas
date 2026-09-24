@@ -1,6 +1,6 @@
 ---
 slug: "sch-memory-studies-comparative"
-id: "SCH-12392"
+id: "SCH-12540"
 type: "مدرسة"
 part: "historiography"
 level: "متوسط"

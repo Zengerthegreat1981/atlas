@@ -1,6 +1,6 @@
 ---
 slug: "sch-social-history-bottom-up"
-id: "SCH-12395"
+id: "SCH-12543"
 type: "مدرسة"
 part: "historiography"
 level: "متوسط"

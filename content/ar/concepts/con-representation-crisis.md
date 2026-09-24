@@ -1,6 +1,6 @@
 ---
 slug: "con-representation-crisis"
-id: "CON-12671"
+id: "CON-18119"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "con-anthropological-humility"
-id: "CON-12672"
+id: "CON-18120"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"

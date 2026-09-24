@@ -1,6 +1,6 @@
 ---
 slug: "thk-hayden-white"
-id: "THK-12620"
+id: "THK-12637"
 type: "مفكر"
 part: "historiography"
 level: "متقدم"

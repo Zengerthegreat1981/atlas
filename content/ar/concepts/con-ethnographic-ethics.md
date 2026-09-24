@@ -1,6 +1,6 @@
 ---
 slug: "con-ethnographic-ethics"
-id: "CON-12663"
+id: "CON-18111"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"

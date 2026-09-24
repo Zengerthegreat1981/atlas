@@ -1,6 +1,6 @@
 ---
 slug: "sch-historical-time-periodization"
-id: "SCH-12391"
+id: "SCH-12539"
 type: "مدرسة"
 part: "historiography"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-digital-history-methods"
-id: "SCH-12398"
+id: "SCH-12546"
 type: "مدرسة"
 part: "historiography"
 level: "متوسط"

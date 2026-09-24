@@ -1,6 +1,6 @@
 ---
 slug: "sch-narrative-history-metahistory"
-id: "SCH-12390"
+id: "SCH-12538"
 type: "مدرسة"
 part: "historiography"
 level: "متقدم"

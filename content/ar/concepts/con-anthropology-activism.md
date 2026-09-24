@@ -1,6 +1,6 @@
 ---
 slug: "con-anthropology-activism"
-id: "CON-12667"
+id: "CON-18115"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"

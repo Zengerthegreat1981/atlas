@@ -1,6 +1,6 @@
 ---
 slug: "thk-natalie-zemon-davis"
-id: "THK-12622"
+id: "THK-12639"
 type: "مفكر"
 part: "historiography"
 level: "متقدم"

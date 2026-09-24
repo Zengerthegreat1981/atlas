@@ -1,6 +1,6 @@
 ---
 slug: "con-decolonizing-anthropology"
-id: "CON-12665"
+id: "CON-18113"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"

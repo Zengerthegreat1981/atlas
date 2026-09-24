@@ -1,6 +1,6 @@
 ---
 slug: "sch-causation-in-history"
-id: "SCH-12389"
+id: "SCH-12537"
 type: "مدرسة"
 part: "historiography"
 level: "متقدم"

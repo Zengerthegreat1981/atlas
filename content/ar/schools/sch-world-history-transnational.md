@@ -1,6 +1,6 @@
 ---
 slug: "sch-world-history-transnational"
-id: "SCH-12393"
+id: "SCH-12541"
 type: "مدرسة"
 part: "historiography"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-marc-bloch"
-id: "THK-12618"
+id: "THK-12635"
 type: "مفكر"
 part: "historiography"
 level: "متقدم"

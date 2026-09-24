@@ -1,6 +1,6 @@
 ---
 slug: "con-collaborative-research"
-id: "CON-12664"
+id: "CON-18112"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"

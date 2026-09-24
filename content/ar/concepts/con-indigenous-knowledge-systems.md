@@ -1,6 +1,6 @@
 ---
 slug: "con-indigenous-knowledge-systems"
-id: "CON-12666"
+id: "CON-18114"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"

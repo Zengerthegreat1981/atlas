@@ -1,6 +1,6 @@
 ---
 slug: "con-ethical-reflexivity"
-id: "CON-12670"
+id: "CON-18118"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-longue-duree-mediterranean-braudel"
-id: "WRK-12434"
+id: "WRK-13092"
 type: "عمل / كتاب"
 part: "historiography"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "sch-archives-sources-practice"
-id: "SCH-12397"
+id: "SCH-12545"
 type: "مدرسة"
 part: "historiography"
 level: "متوسط"

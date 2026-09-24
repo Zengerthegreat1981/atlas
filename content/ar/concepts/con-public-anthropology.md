@@ -1,6 +1,6 @@
 ---
 slug: "con-public-anthropology"
-id: "CON-12668"
+id: "CON-18116"
 type: "مفهوم"
 part: "anthropology"
 level: "متوسط"
