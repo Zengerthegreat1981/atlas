@@ -15,6 +15,7 @@ related:
 - id: "sch-minimalist-program", title: "البرنامجُ الأدنويّ (The Minimalist Program)", type: "مدرسة"
 - id: "con-phase-theory-minimalism", title: "نظريةُ الأطوار (Phase Theory)", type: "مفهوم"
 - id: "con-island-constraints-subjacency-ross", title: "قيودُ الجزر وشرطُ التجاور الأدنى عند روس (Island Constraints & Subjacency)", type: "مفهوم"
+- id: "thk-noam-chomsky", title: "نعوم تشومسكي", type: "مفكر"
 gaps: []
 ---
 
