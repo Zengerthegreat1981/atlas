@@ -16,6 +16,7 @@ edges:
 related:
 - id: "sch-cognitive-anthropology", title: "الأنثروبولوجيا المعرفية والإثنوعلوم (Cognitive Anthropology & Ethnoscience)", type: "مدرسة"
 - id: "thk-ward-goodenough", title: "وارد غودإنف (Ward Goodenough)", type: "مفكر"
+- id: "thk-bradd-shore", title: "براد شور (Bradd Shore)", type: "مفكر"
 gaps: []
 ---
 # روي دي أندرادي (Roy D'Andrade)
