@@ -21,7 +21,9 @@ related:
 - id: "con-signifier-signified", title: "الدالُّ والمدلول", type: "مفهوم"
 - id: "con-syntagmatic-paradigmatic-axes", title: "المحورانِ التركيبيُّ والاستبداليّ (Syntagmatic & Paradigmatic Axes)", type: "مفهوم"
 - id: "wrk-cours-de-linguistique-generale", title: "دروسٌ في اللسانيات العامّة", type: "عمل / كتاب"
-gaps: []
+- id: "thk-ferdinand-de-saussure", title: "فرديناند دي سوسور", type: "مفكر"
+gaps:
+  - "جوناثان كولر (Culler)، مؤلِّفُ *Saussure* (1976) المستشهَدِ به هنا، لا يملك عقدةَ سيرةٍ مستقلّة بعد."
 ---
 
 # خطّيةُ الدالِّ عند سوسور
