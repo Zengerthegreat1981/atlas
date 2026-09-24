@@ -15,6 +15,8 @@ related:
 - id: "sch-greimassian-semiotics", title: "سيمياءُ غريماس والمربّعُ السيميائي (Greimassian Structural Semantics)", type: "مدرسة"
 - id: "con-semiotic-square-greimas", title: "المربّعُ السيميائي عند غريماس (Semiotic Square)", type: "مفهوم"
 - id: "con-modal-semiotics-greimas", title: "السيمياءُ الموجِّهية عند غريماس: الإرادةُ والقدرةُ والمعرفةُ والوجوب", type: "مفهوم"
+- id: "thk-algirdas-greimas", title: "ألجيرداس غريماس", type: "مفكر"
+- id: "thk-joseph-courtes", title: "جوزيف كورتيس", type: "مفكر"
 gaps: []
 ---
 
