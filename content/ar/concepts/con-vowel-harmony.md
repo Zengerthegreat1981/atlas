@@ -16,7 +16,9 @@ related:
 - id: "con-distinctive-features-phonology", title: "السماتُ التمييزية (Distinctive Features)", type: "مفهوم"
 - id: "con-morphological-typology", title: "النمطيةُ الصرفية (Morphological Typology)", type: "مفهوم"
 - id: "con-autosegmental-phonology-goldsmith", title: "الصواتةُ متعدّدةُ الطبقات عند غولدسميث (Autosegmental Phonology)", type: "مفهوم"
-gaps: []
+- id: "thk-george-clements", title: "جورج كليمنتس", type: "مفكر"
+gaps:
+  - "هاري ﭬان دِر هولست وجيرون ﭬان دِر ﭬايِر (فصل 1995 المستشهَدِ به هنا) لا يملكان عقدةَ سيرةٍ مستقلّة بعد."
 ---
 
 # توافقُ الصوائت
