@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-anthropological-political-economy", title: "الاقتصادُ السياسيُّ العالميُّ والتاريخ (Eric Wolf — Europe and the People Without History)", type: "مدرسة"
 - id: "thk-chris-gregory", title: "كريس غريغوري (Chris A. Gregory)", type: "مفكر"
+- id: "thk-jane-guyer", title: "جين غايير (Jane I. Guyer)", type: "مفكر"
 gaps: []
 ---
 # كيث هارت (Keith Hart)
