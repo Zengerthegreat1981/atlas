@@ -22,6 +22,7 @@ related:
 - id: "con-conventional-implicature-grice", title: "الإفهامُ الاصطلاحي عند غرايس (Conventional Implicature)", type: "مفهوم"
 - id: "wrk-logic-and-conversation-grice", title: "المنطقُ والمحادثة (Logic and Conversation)", type: "أثر"
 - id: "con-politeness-maxims-leech", title: "قواعدُ التأدّب عند ليتش (Politeness Maxims)", type: "مفهوم"
+- id: "thk-pgrice", title: "هربرت باول غرايس", type: "مفكر"
 gaps: []
 ---
 
