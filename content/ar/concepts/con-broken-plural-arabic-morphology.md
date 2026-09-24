@@ -14,7 +14,9 @@ edges:
 related:
 - id: "con-morphological-typology", title: "النمطيةُ الصرفية (Morphological Typology)", type: "مفهوم"
 - id: "sch-generative-phonology", title: "الصرفُ التوليديُّ والصواتةُ التوليدية (Generative Phonology)", type: "مدرسة"
-gaps: []
+- id: "thk-john-j-mccarthy", title: "جون ج. مكارثي", type: "مفكر"
+gaps:
+  - "روبرت ر. راتكليف (Ratcliffe)، مؤلِّفُ *The 'Broken' Plural Problem in Arabic and Comparative Semitic* (1998) المستشهَدِ به هنا، لا يملك عقدةَ سيرةٍ مستقلّة بعد."
 ---
 
 # جمعُ التكسير في الصرف العربي

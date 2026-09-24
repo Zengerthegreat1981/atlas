@@ -19,6 +19,7 @@ edges:
 related:
 - id: "sch-generative-phonology", title: "الصرفُ التوليديُّ والصواتةُ التوليدية (Generative Phonology)", type: "مدرسة"
 - id: "con-optimality-theory-prince-smolensky", title: "النظريةُ التفاؤلية عند برنس وسمولنسكي (Optimality Theory)", type: "مفهوم"
+- id: "con-broken-plural-arabic-morphology", title: "جمعُ التكسير في الصرف العربي (Arabic Broken Plural)", type: "مفهوم"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بعمله؛ الاعتمادُ على مصادره الإنجليزية الأساسية."
 ---
