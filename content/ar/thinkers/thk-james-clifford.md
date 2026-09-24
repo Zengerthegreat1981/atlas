@@ -22,6 +22,7 @@ related:
 - id: "wrk-predicament-of-culture-clifford", title: "مأزقُ الثقافة (The Predicament of Culture)", type: "عمل / كتاب"
 - id: "thk-renato-rosaldo", title: "ريناتو روزالدو (Renato Rosaldo)", type: "مفكر"
 - id: "thk-vincent-crapanzano", title: "ﭬنسنت كرابانزانو (Vincent Crapanzano)", type: "مفكر"
+- id: "thk-george-marcus", title: "جورج إ. ماركوس (George E. Marcus)", type: "مفكر"
 gaps: []
 ---
 # جيمس كليفورد (James Clifford)
