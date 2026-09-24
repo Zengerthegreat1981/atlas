@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-writing-culture-crisis", title: "أزمةُ التمثيل وكتابةُ الثقافة (Writing Culture — Clifford & Marcus)", type: "مدرسة"
 - id: "thk-anne-allison", title: "آن أليسون (Anne Allison)", type: "مفكر"
+- id: "thk-christine-yano", title: "كريستين يانو (Christine R. Yano)", type: "مفكر"
 gaps: []
 ---
 # جنيفر روبرتسون (Jennifer Robertson)
