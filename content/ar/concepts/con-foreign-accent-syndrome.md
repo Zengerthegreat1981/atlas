@@ -14,7 +14,9 @@ edges:
 related:
 - id: "con-aphasiology-classification", title: "تصنيفُ الحُبسة اللغوية (Aphasiology)", type: "مفهوم"
 - id: "con-prosody-intonation", title: "العروضُ الكلاميُّ والتنغيم (Prosody & Intonation)", type: "مفهوم"
-gaps: []
+- id: "thk-sheila-blumstein", title: "شيلا إ. بلومستاين", type: "مفكر"
+gaps:
+  - "جو ڤيرهوڤن (Verhoeven) وپيتر ماريِن (Mariën)، مؤلِّفا الدراسة الهولندية 2010 المستشهَدِ بها هنا، وكاثلين إم. كوروفسكي (Kurowski) لا يملكون عقدةَ سيرةٍ مستقلّة بعد."
 ---
 
 # متلازمةُ اللكنة الأجنبية
