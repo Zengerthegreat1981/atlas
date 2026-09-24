@@ -16,6 +16,7 @@ related:
 - id: "con-signifier-signified", title: "الدالُّ والمدلول", type: "مفهوم"
 - id: "con-linguistic-value-saussure", title: "القيمةُ اللغوية (Valeur Linguistique)", type: "مفهوم"
 - id: "wrk-mythologies-barthes-1957", title: "أساطيرُ معاصرة (Mythologies)", type: "أثر"
+- id: "thk-roland-barthes", title: "رولان بارت", type: "مفكر"
 gaps: []
 ---
 
