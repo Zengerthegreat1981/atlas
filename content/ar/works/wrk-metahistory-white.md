@@ -1,40 +1,41 @@
 ---
 slug: "wrk-metahistory-white"
-id: "WRK-9502"
+id: "WRK-12433"
 type: "عمل / كتاب"
 part: "historiography"
 level: "متقدم"
-title: "ما وراء التاريخ: التخيّل التاريخي في أوروبا القرن التاسع عشر لهايدن وايت"
+title: "ما وراء التاريخ (Metahistory)"
+en: "Metahistory: The Historical Imagination in Nineteenth-Century Europe"
+crumb: "التاريخ ومناهجه ← ما وراء التاريخ ← ما وراء التاريخ"
 author: "هايدن وايت"
 author_slug: "thk-hayden-white"
 publication_year: 1973
 original_language: "الإنجليزية"
-en: "Metahistory: The Historical Imagination in Nineteenth-Century Europe"
-crumb: "التاريخ ومناهجه ← أعمالٌ مؤسِّسة ← ما وراء التاريخ"
 active_start: 1973
-active_end: "مستمر"
+active_end: 1973
 edges:
-- rel: "authored_by", target: "thk-hayden-white", target_type: "مفكر"
+  - rel: "belongs_to", target: "sch-narrative-history-metahistory", target_type: "مدرسة"
 related:
-- id: "thk-hayden-white", title: "هايدن وايت", type: "مفكر"
-- id: "sch-linguistic-turn-metahistory-white", title: "المنعطفُ اللغويُّ والتاريخُ بوصفه سرداً (هايدن وايت — Metahistory)", type: "مدرسة"
-- id: "con-emplotment-white", title: "الحبكةُ السردية (Emplotment) عند هايدن وايت", type: "مفهوم"
-gaps:
-  - "**عقدةٌ مستقلة 2026-09-22:** العملُ نُوقش نصياً بالتفصيل داخل `sch-linguistic-turn-metahistory-white` و`thk-hayden-white`؛ هذا الملفّ يُفرده عقدةَ عملٍ مستقلة."
+  - id: "thk-hayden-white", title: "هايدن وايت (Hayden White)", type: "مفكر"
+  - id: "con-metahistory", title: "ما وراء التاريخ (Metahistory)", type: "مفهوم"
+gaps: []
 ---
-# ما وراء التاريخ: التخيّل التاريخي في أوروبا القرن التاسع عشر
 
-عملٌ محوريٌّ للمؤرّخ الأمريكيّ هايدن وايت، أحدث أثراً واسعاً في فلسفة التاريخ المعاصرة بربطه كتابةَ التاريخ بنظرية السرد الأدبي.
+# ما وراء التاريخ (Metahistory)
 
-## المضمون
+كتابٌ ثوريٌّ لـ **هايدن وايت** نشرَ سنة 1973. جادلَ الكتابُ بأنّ **التاريخَ ليسَ اكتشافاً بل بناءٌ** وأنّ **كاتبَ التاريخ يختارُ شكلاً سرديّاً** (كوميديا، مأساة، رومانسية، ساتيرا) لينظّمَ الأحداثَ.
 
-يحلّل الكتابُ أعمال أربعة مؤرّخين كبار من القرن التاسع عشر (ميشليه، توكفيل، بوركهارت، رانكه) وأربعة فلاسفة تاريخ (هيغل، ماركس، نيتشه، كروتشه)، مجادلاً بأن كلاً منهم — رغم ادّعائه موضوعيةً وصفية — ينظّم مادّته التاريخية وفق واحدةٍ من أربع حبكاتٍ أدبية (`con-emplotment-white`): الرومانسية، المأساة، الملهاة، الهجاء. اختيارُ الحبكة يحدّد ضمنياً أيَّ وقائع تُبرَز وأيَّ معنىً يُستخلَص، قبل أيّ ادّعاءٍ بحيادٍ «علميّ».
+## الفكرةُ الجوهريّة
 
-## الأهمية المنهجية
+وايتُ يجادلُ بأنّ **السردَ التاريخيَّ** ليسَ انعكاساً حياديّاً للماضي، بل **بناءٌ لغويٌّ** يعكسُ:
+- اختيارات الكاتب
+- البنيةَ السرديّة المختارة
+- الترميزاتِ الاستعاريّة
 
-يُعدّ هذا الكتابُ نقطةَ الانطلاق لـ«المنعطف اللغويّ» في فلسفة التاريخ، محفِّزاً جدلاً واسعاً استمرّ عقوداً حول حدود الموضوعية التاريخية، بلغ ذروته لاحقاً في مواجهة وايت المباشرة مع ساؤول فريدلندر حول حدود تمثيل الهولوكوست سردياً.
+## التأثيرُ الثوريّ
+
+أعادَ وايتُ **فتحَ الجدلِ الفلسفيّ** حول **طبيعةِ المعرفةِ التاريخيّة** و**العلاقةِ بينَ التاريخِ والأدب**.
 
 ## المصادر
 
 - White, Hayden. *Metahistory: The Historical Imagination in Nineteenth-Century Europe*. Johns Hopkins University Press, 1973.
-- Ankersmit, F. R. *Narrative Logic: A Semantic Analysis of the Historian's Language*. Martinus Nijhoff, 1983.
