@@ -32,6 +32,7 @@ related:
 - id: "con-home-sign-goldin-meadow", title: "لغةُ الإشارة المنزلية عند غولدن-ميدو (Home Sign)", type: "مفهوم"
 - id: "con-iconicity-sign-language", title: "المحاكاةُ التصويرية في لغة الإشارة (Iconicity)", type: "مفهوم"
 - id: "con-bimodal-bilingualism-code-blending", title: "الثنائيةُ اللغويةُ ثنائيةُ الوسيط ومزجُ الشفرة (Bimodal Bilingualism & Code-Blending)", type: "مفهوم"
+- id: "thk-karen-emmorey", title: "كارِن إيمُوري", type: "مفكر"
 gaps: []
 ---
 

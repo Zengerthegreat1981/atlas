@@ -15,6 +15,7 @@ related:
 - id: "sch-sign-language-linguistics", title: "لسانياتُ لغة الإشارة (Sign Language Linguistics)", type: "مدرسة"
 - id: "con-code-switching-mixing", title: "التبديلُ والمزجُ الرمزي (Code-Switching & Code-Mixing)", type: "مفهوم"
 - id: "sch-bilingualism-cognitive-control", title: "ثنائيةُ اللغة والدماغُ (Bilingualism & Cognitive Control)", type: "مدرسة"
+- id: "thk-karen-emmorey", title: "كارِن إيمُوري", type: "مفكر"
 gaps: []
 ---
 
