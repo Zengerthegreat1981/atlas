@@ -9,7 +9,8 @@ crumb: "علم نفس الانفعال ← المفاهيم ← الحزن"
 part: "philosophy"
 active_start: null
 active_end: "مستمر"
-edges: []
+edges:
+- rel: "relates_to", target: "br-affective-neuroscience-informed", target_type: "تيار"
 related:
 - id: "con-fear", title: "الخوف", type: "مفهوم"
 - id: "con-death", title: "الموت", type: "مفهوم"

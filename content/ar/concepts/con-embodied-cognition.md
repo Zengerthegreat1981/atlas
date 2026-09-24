@@ -11,6 +11,7 @@ active_start: 1980
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-phenomenology-somatic", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-cognitive-neuroscience", target_type: "مدرسة"
 related:
 - id: "thk-varela", title: "فرانسيسكو فاريلا", type: "مفكر"
 - id: "thk-george-lakoff", title: "جورج لاكوف", type: "مفكر"

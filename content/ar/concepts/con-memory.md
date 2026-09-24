@@ -11,6 +11,7 @@ active_start: 1885
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-cognitive-behavioral", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-cognitive-neuroscience", target_type: "مدرسة"
 related:
 - id: "thk-bartlett", title: "فريدريك بارتليت", type: "مفكر"
 - id: "con-schema", title: "المخطط المعرفي", type: "مفهوم"

@@ -20,6 +20,7 @@ topics:
 related:
 - id: "thk-berossus-historian", title: "بيروسوس المؤرّخ", type: "مفكر"
 - id: "sch-berossus-greek-mesopotamian-historiography", title: "التأريخُ الهلّنستيّ البابليّ", type: "مدرسة"
+- id: "con-cuneiform-historiography-medium", title: "المسماريّةُ كوسيط", type: "مفهوم"
 gaps:
   - "**النصُّ الأصليُّ ضاعَ تماماً** — لم تصلْ إلينا أيّ نسخةٌ كاملة من Babyloniaca. ما نعرفُه يأتي عبرَ **اقتباسات** من:"
   - "1. **جوسيفوس** (المؤرّخ اليهوديّ، 1 ق.م.): اقتبسَ من بيروسوس في كتابِه *Antiquities of the Jews* و*Against Apion*"

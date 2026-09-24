@@ -10,7 +10,6 @@ crumb: "التاريخ ومناهجه ← المفاهيمُ ← قوائمُ ا
 related:
 - id: "sch-babylonian-king-list-tradition", title: "تقليدُ قوائم الملوكِ البابليّة", type: "مدرسة"
 - id: "wrk-sumerian-king-list-text", title: "قائمةُ الملوكِ السومريّة", type: "عمل"
-- id: "con-sumerian-babylonian-periodization", title: "التقسيماتُ الزمنيّة السومريّة والبابليّة", type: "مفهوم"
 gaps: []
 ---
 

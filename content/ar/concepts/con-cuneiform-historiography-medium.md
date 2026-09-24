@@ -9,7 +9,6 @@ en: "Cuneiform as Medium of Mesopotamian Historiography"
 crumb: "التاريخ ومناهجه ← المفاهيمُ ← الكتابةُ والوسيط"
 related:
 - id: "sch-sumerian-historical-writing", title: "الكتابةُ التاريخيةُ السومريّة", type: "مدرسة"
-- id: "con-cuneiform-constraints", title: "قيودُ الكتابةِ المسماريّة على السرد", type: "مفهوم"
 gaps: []
 ---
 

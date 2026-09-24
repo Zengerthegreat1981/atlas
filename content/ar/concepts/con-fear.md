@@ -9,7 +9,8 @@ crumb: "علم نفس الانفعال ← المفاهيم ← الخوف"
 part: "psychology"
 active_start: null
 active_end: "مستمر"
-edges: []
+edges:
+- rel: "relates_to", target: "br-affective-neuroscience-informed", target_type: "تيار"
 related:
 - id: "thk-panksepp", title: "ياكوب بانكسيب", type: "مفكر"
 - id: "thk-paul-ekman", title: "بول إيكمان", type: "مفكر"
