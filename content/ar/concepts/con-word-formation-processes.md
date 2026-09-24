@@ -13,8 +13,11 @@ edges: []
 related:
 - id: "con-morphological-typology", title: "النمطيةُ الصرفية (Morphological Typology)", type: "مفهوم"
 - id: "con-grammaticalization", title: "النحويةُ (Grammaticalization)", type: "مفهوم"
+- id: "thk-martin-haspelmath", title: "مارتن هاسپلماث", type: "مفكر"
+- id: "thk-andrea-sims", title: "أندريا سيمز", type: "مفكر"
 gaps:
   - "لا `belongs_to` فعلياً: لا مدرسةَ صرفيةٍ عامّة منفصلة في هذا القسم؛ هذا الملفُّ عقدةٌ جذريةٌ مرتبطةٌ بعدّة مدارس عبر `related` لا تنتمي حصرياً لواحدةٍ منها."
+  - "لوري باور (Bauer)، مؤلِّفُ English Word-Formation (1983) المستشهَدِ به هنا، لا يملك عقدةَ سيرةٍ مستقلّة بعد."
 ---
 
 # عملياتُ تكوين الكلمات
