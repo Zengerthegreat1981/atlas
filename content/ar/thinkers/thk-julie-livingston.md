@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-structural-violence-health", title: "العنفُ البنيويُّ والصحّة (Structural Violence — Farmer, Scheper-Hughes)", type: "مدرسة"
 - id: "thk-didier-fassin", title: "ديدييه فاسان (Didier Fassin)", type: "مفكر"
+- id: "thk-lawrence-cohen", title: "لورنس كوهين (Lawrence Cohen)", type: "مفكر"
 gaps: []
 ---
 # جولي ليڤنغستون (Julie Livingston)
