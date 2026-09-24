@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-anthropological-political-economy", title: "الاقتصادُ السياسيُّ العالميُّ والتاريخ (Eric Wolf — Europe and the People Without History)", type: "مدرسة"
 - id: "thk-paul-bohannan", title: "پول بوهانان (Paul Bohannan)", type: "مفكر"
+- id: "thk-igor-kopytoff", title: "إيغور كوبيتوف (Igor Kopytoff)", type: "مفكر"
 gaps: []
 ---
 # إليزابيث تشين (Elizabeth Chin)
