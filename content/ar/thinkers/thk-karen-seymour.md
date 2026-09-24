@@ -1,0 +1,46 @@
+---
+slug: "thk-karen-seymour"
+id: "THK-12573"
+type: "مفكر"
+part: "linguistics"
+level: "متقدم"
+linguistic_level: "clinical"
+cultural_origin: "anglo-european"
+title: "كارين سيمور"
+en: "Karen Seymour"
+crumb: "علم اللغة ← لسانياتُ الكلام والسمع ← كارين سيمور"
+dates: "الولايات المتحدة · معاصرة"
+country: "الولايات المتحدة"
+language: "الإنجليزية"
+active_start: 1995
+active_end: "مستمر"
+edges:
+- rel: "belongs_to", target: "sch-aphasiology-communication-disorders", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-aphasiology-communication-disorders", target_type: "مدرسة"
+related:
+- id: "con-aphasiology-classification", title: "تصنيفُ الحُبسة (Aphasiology)", type: "مفهوم"
+- id: "con-augmentative-alternative-communication", title: "الاتصالُ البديلُ والمدعّم (AAC)", type: "مفهوم"
+- id: "con-dysarthria-speech-motor-control", title: "خللُ النطق والتحكّمُ الحركيّ (Dysarthria)", type: "مفهوم"
+gaps: ""
+---
+
+## السيرة
+
+كارين سيمور (*Karen Seymour*) طبيبة لسانيات متخصّصة في اضطرابات النطق واللغة، خاصّةً في مجال الاتصال البديل والمدعّم (AAC). تعمل في مجالِ علاجِ الكلام والسمع الإكلينيكيّ وتساهم في تطويرِ أدواتٍ وتقنياتٍ لمساعدة الأشخاص الذين فقدوا القدرة على الكلام.
+
+## التخصص والمساهمات
+
+سيمور متخصّصةٌ في:
+- **الاتصال البديل والمدعّم (AAC)**: تقييمُ واختيارُ الأنظمة المناسبة للمريض.
+- **الحُبسة واضطراباتُ اللغة**: دراسةُ الفقدان الانتقائيّ للمفردات والفهم مقابل الإنتاج.
+- **اللسانيات الإكلينيكية العملية**: تطبيقُ النظرية اللسانية على التشخيص والعلاج.
+- **التواصل مع الآباء والمربّين**: نقلُ المعرفة اللسانية إلى السياق الأسري.
+
+## الأعمال الرئيسة
+
+- أبحاثٌ محترمة في مجلات اللسانيات الإكلينيكية الدولية عن استراتيجيات التواصل البديل.
+- كتابٌ عمليٌّ في تقييم اضطرابات الكلام واللغة.
+
+## الفجوات والملاحظات
+
+-
