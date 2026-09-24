@@ -16,6 +16,9 @@ related:
 - id: "con-standard-language-ideology", title: "أيديولوجيا اللغة المعيارية (Standard Language Ideology)", type: "مفهوم"
 - id: "axi-no-primitive-languages-linguistic-egalitarianism", title: "لا توجد لغةٌ بدائية (المساواةُ اللسانية بين اللغات)", type: "بديهية/مبدأ تأسيسي"
 - id: "con-covert-prestige-linguistics", title: "المكانةُ الخفية في اللسانيات الاجتماعية (Covert Prestige)", type: "مفهوم"
+- id: "thk-leonard-bloomfield", title: "ليونارد بلومفيلد", type: "مفكر"
+- id: "thk-james-milroy", title: "جيمس ميلروي", type: "مفكر"
+- id: "thk-lesley-milroy", title: "ليزلي ميلروي", type: "مفكر"
 gaps:
   - "حيادٌ صريحٌ محفوظ إزاء أمثلةٍ معياريةٍ محدَّدة مثيرةٍ للجدل ثقافياً (كقواعد استعمال بعينها في لغاتٍ معيَّنة)؛ الملفُّ يقتصر على المبدأ المنهجي العام الذي يكاد يكون إجماعاً داخل علم اللغة الأكاديمي الحديث."
 ---
