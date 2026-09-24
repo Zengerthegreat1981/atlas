@@ -19,6 +19,7 @@ related:
 - id: "thk-susanna-hoffman", title: "سوزانا هوفمان (Susanna M. Hoffman)", type: "مفكر"
 - id: "thk-kim-fortun", title: "كيم فورتن (Kim Fortun)", type: "مفكر"
 - id: "thk-peter-redfield", title: "پيتر ريدفيلد (Peter Redfield)", type: "مفكر"
+- id: "thk-erica-james", title: "إيريكا كايپل جيمس (Erica Caple James)", type: "مفكر"
 gaps: []
 ---
 # مارك شولر (Mark Schuller)
