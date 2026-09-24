@@ -15,8 +15,8 @@ related:
 - id: "con-wh-movement-c-command", title: "حركةُ الاستفهام والتحكّمُ-الإسنادي (Wh-Movement & C-Command)", type: "مفهوم"
 - id: "sch-government-and-binding-theory", title: "نظريةُ الحاكميةِ والربط (Government and Binding Theory)", type: "مدرسة"
 - id: "thk-noam-chomsky", title: "نعوم تشومسكي", type: "مفكر"
-gaps:
-  - "دانيال بورينغ (Büring)، مؤلِّفُ *Binding Theory* (2005) المستشهَدِ به هنا، لا يملك عقدةَ سيرةٍ مستقلّة بعد."
+- id: "thk-daniel-buring", title: "دانيال بورينغ", type: "مفكر"
+gaps: []
 ---
 
 # مبادئُ نظرية الربط أ ب ج

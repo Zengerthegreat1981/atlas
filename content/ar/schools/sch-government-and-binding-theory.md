@@ -33,6 +33,7 @@ related:
 - id: "con-empty-category-principle-case-theory-gb", title: "مبدأُ الفئة الخالية ونظريةُ الحالة الإعرابية (Empty Category Principle & Case Theory)", type: "مفهوم"
 - id: "wrk-lectures-on-government-and-binding-chomsky", title: "محاضراتٌ في الحاكمية والربط (Lectures on Government and Binding)", type: "عمل / كتاب"
 - id: "thk-liliane-haegeman", title: "ليليان هيغمان", type: "مفكر"
+- id: "thk-daniel-buring", title: "دانيال بورينغ", type: "مفكر"
 gaps:
   - "`thk-noam-chomsky` موسومٌ `philosophy` (قرارٌ محسوم في DR-014) ولم يُكرَّر هنا؛ العقدةُ تفرد الإطارَ النظريَّ التقنيَّ الذي طوّره في هذه المرحلة دون إعادة سيرته."
   - "**سُدَّ بالكامل 2026-09-23 (الدفعة 554)**: أُنشئ `thk-liliane-haegeman`، مؤلِّفةُ النصّ التمهيدي المرجعي المستشهَد به في المصادر."
