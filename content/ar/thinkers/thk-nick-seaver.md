@@ -16,6 +16,7 @@ edges:
 related:
 - id: "sch-digital-anthropology", title: "الأنثروبولوجيا الرقمية والإثنوغرافيا الشبكية (Digital Anthropology — Miller, Boellstorff)", type: "مدرسة"
 - id: "thk-gabriella-coleman", title: "غابرييلا كولمان (Gabriella Coleman)", type: "مفكر"
+- id: "thk-mary-l-gray", title: "ماري ل. غراي (Mary L. Gray)", type: "مفكر"
 gaps: []
 ---
 # نيك سيڤر (Nick Seaver)
