@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-postcolonial-critique-anthropology", title: "النقدُ ما بعد الاستعماريّ للأنثروبولوجيا (Asad, Anthropology and the Colonial Encounter)", type: "مدرسة"
 - id: "thk-irma-mcclaurin", title: "إيرما مكلورين (Irma McClaurin)", type: "مفكر"
+- id: "thk-john-jackson", title: "جون ل. جاكسون الابن (John L. Jackson Jr.)", type: "مفكر"
 gaps: []
 ---
 # ديبورا إيه. توماس (Deborah A. Thomas)
