@@ -14,8 +14,10 @@ edges:
 related:
 - id: "con-stages-of-language-acquisition", title: "مراحلُ اكتساب اللغة الأولى (Stages of First Language Acquisition)", type: "مفهوم"
 - id: "con-poverty-of-the-stimulus-universal-grammar", title: "النحوُ الكلّيُّ وفقرُ المحفِّز (Universal Grammar & Poverty of the Stimulus)", type: "مفهوم"
+- id: "thk-catherine-snow", title: "كاثرين إ. سنو", type: "مفكر"
 gaps:
   - "حيادٌ صريحٌ محفوظ: مدى مساهمة هذا الأسلوب فعلياً في تسريع اكتساب اللغة (مقابل كونه مجرّد عادةٍ اجتماعية بلا أثرٍ سببي حاسم) لا يزال موضعَ نقاشٍ تجريبي."
+  - "آن فرنالد (Fernald)، صاحبةُ دراسة 1985 المستشهَدِ بها هنا، لا تملك عقدةَ سيرةٍ مستقلّة بعد."
 ---
 
 # الكلامُ الموجَّه للطفل

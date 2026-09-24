@@ -33,6 +33,7 @@ related:
 - id: "thk-eve-clark", title: "إيڤ ڤ. كلارك", type: "مفكر"
 - id: "thk-susan-curtiss", title: "سوزان كورتيس", type: "مفكر"
 - id: "thk-laura-ann-petitto", title: "لورا آن پتيتو", type: "مفكر"
+- id: "thk-catherine-snow", title: "كاثرين إ. سنو", type: "مفكر"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`) — فرعٌ نمائيٌّ تطبيقيٌّ يتقاطع مع التوليدية والوظيفية معاً دون الانتماء الحصري لإحداهما."
   - "**سُدَّ 2026-09-21 (الدفعة 43)**: رُبط `thk-steven-pinker` (psychology) دون تكرار سيرته؛ وأُنشئت `con-stages-of-language-acquisition` و`thk-roger-brown` لسدّ فجوة مراحل الاكتساب التفصيلية."
