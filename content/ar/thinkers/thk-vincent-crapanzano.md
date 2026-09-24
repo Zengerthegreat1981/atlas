@@ -18,6 +18,7 @@ related:
 - id: "sch-writing-culture-crisis", title: "أزمةُ التمثيل وكتابةُ الثقافة (Writing Culture — Clifford & Marcus)", type: "مدرسة"
 - id: "thk-james-clifford", title: "جيمس كليفورد (James Clifford)", type: "مفكر"
 - id: "thk-paul-rabinow", title: "پول رابينو (Paul Rabinow)", type: "مفكر"
+- id: "thk-marilyn-ivy", title: "ماريلين آيڤي (Marilyn Ivy)", type: "مفكر"
 gaps: []
 ---
 # ﭬنسنت كرابانزانو (Vincent Crapanzano)
