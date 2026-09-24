@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-writing-culture-crisis", title: "أزمةُ التمثيل وكتابةُ الثقافة (Writing Culture — Clifford & Marcus)", type: "مدرسة"
 - id: "thk-dorinne-kondo", title: "دورين كوندو (Dorinne Kondo)", type: "مفكر"
+- id: "thk-jennifer-robertson", title: "جنيفر روبرتسون (Jennifer Robertson)", type: "مفكر"
 gaps: []
 ---
 # آن أليسون (Anne Allison)
