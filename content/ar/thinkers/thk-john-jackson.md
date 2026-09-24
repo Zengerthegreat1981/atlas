@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-postcolonial-critique-anthropology", title: "النقدُ ما بعد الاستعماريّ للأنثروبولوجيا (Asad, Anthropology and the Colonial Encounter)", type: "مدرسة"
 - id: "thk-deborah-thomas", title: "ديبورا إيه. توماس (Deborah A. Thomas)", type: "مفكر"
+- id: "thk-joao-costa-vargas", title: "جواو ﻫ. كوستا ڤارغاس (João H. Costa Vargas)", type: "مفكر"
 gaps: []
 ---
 # جون ل. جاكسون الابن (John L. Jackson Jr.)
