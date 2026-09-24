@@ -16,6 +16,7 @@ edges:
 related:
 - id: "sch-digital-anthropology", title: "الأنثروبولوجيا الرقمية والإثنوغرافيا الشبكية (Digital Anthropology — Miller, Boellstorff)", type: "مدرسة"
 - id: "thk-edwin-hutchins", title: "إدوين هَتشِنز (Edwin Hutchins)", type: "مفكر"
+- id: "thk-genevieve-bell", title: "جينيڤيڤ بيل (Genevieve Bell)", type: "مفكر"
 gaps: []
 ---
 # لوسي سوتشمان (Lucy Suchman)
