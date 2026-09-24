@@ -15,7 +15,9 @@ related:
 - id: "sch-first-language-acquisition", title: "اكتسابُ اللغة الأولى ومراحلُه", type: "مدرسة"
 - id: "con-stages-of-language-acquisition", title: "مراحلُ اكتساب اللغة الأولى (Stages of First Language Acquisition)", type: "مفهوم"
 - id: "sch-sign-language-linguistics", title: "لسانياتُ لغة الإشارة (Sign Language Linguistics)", type: "مدرسة"
-gaps: []
+- id: "thk-laura-ann-petitto", title: "لورا آن پتيتو", type: "مفكر"
+gaps:
+  - "دي. كيمبرو أولر (Oller)، مؤلِّفُ *The Emergence of the Speech Capacity* (2000) المستشهَدِ به هنا، لا يملك عقدةَ سيرةٍ مستقلّة بعد."
 ---
 
 # المناغاةُ والنموُّ الصوتي عند الرضيع
