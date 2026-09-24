@@ -39,6 +39,7 @@ related:
 - id: "thk-fernanda-ferreira", title: "فرناندا فيريرا", type: "مفكر"
 - id: "thk-ram-frost", title: "رام فروست", type: "مفكر"
 - id: "thk-michael-tanenhaus", title: "مايكل ك. تاننهاوس", type: "مفكر"
+- id: "thk-john-trueswell", title: "جون سي. ترويسِل", type: "مفكر"
 gaps:
   - "لا `belongs_to`: فرعٌ تجريبيٌّ يختبر تنبّؤات النظريات النحوية زمنياً، لكنه لا ينحدر تاريخياً من مدرسةٍ نظريةٍ واحدة."
 ---

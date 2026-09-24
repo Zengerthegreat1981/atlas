@@ -19,9 +19,10 @@ edges:
 related:
 - id: "con-visual-world-paradigm-tanenhaus", title: "نموذجُ العالم البصري عند تاننهاوس (Visual World Paradigm)", type: "مفهوم"
 - id: "sch-sentence-processing-psycholinguistics", title: "علمُ اللغة النفسيُّ ومعالجةُ الجملة (Sentence Processing)", type: "مدرسة"
+- id: "thk-john-trueswell", title: "جون سي. ترويسِل", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بعمله؛ الاعتمادُ على مصدره الإنجليزي الأساسي."
-  - "جون سي. ترويسِل (شريكُه في تحرير Approaches to Studying World-Situated Language Use 2005)، وسپايڤي-نولتون وإبرهارد وسيديڤي (زملاؤه في ورقة 1995) لا يملكون عقدةَ سيرةٍ مستقلّة بعد."
+  - "سپايڤي-نولتون وإبرهارد وسيديڤي (زملاؤه في ورقة 1995) لا يملكون عقدةَ سيرةٍ مستقلّة بعد."
 ---
 
 # مايكل ك. تاننهاوس
