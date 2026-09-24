@@ -2504,3 +2504,13 @@ print(len([s for s,v in nodes.items() if v.get('part')=='linguistics' and not (v
 **استراتيجيةُ "con- بلا thk- في related" لا تزال منتجةً بعد 49 دفعة متتالية دون نفاد**. أُنجز في هذا الجزء: con-pro-drop (ريتزي)، con-qiyas-sama-illa (ابن الأنباري وابن جنّي وأوِنز)، con-semantic-prosody (ستَبْز، عقدةٌ جديدة)، con-seq2seq (بنجيو، عقدةٌ جديدة/تورينغ)، con-silence-pragmatics (تانن)، con-simultaneous-sequential-bilingualism (نيوپورت، عقدةٌ جديدة)، con-sound-symbolism-bouba-kiki (كولَر وراماشاندران)، con-successive-cyclic-movement (تشومسكي)، con-syllable-structure (بليڤِنز، عقدةٌ جديدة)، con-unaccusativity (پيرلماتر، عقدةٌ جديدة). القائمةُ المتبقية أبجدياً بعد "u" لا تزال تشمل: con-veridiction-greimas، con-visual-world-paradigm-tanenhaus، con-vowel-harmony، con-whistled-languages، con-word-formation-processes، con-word2vec-mikolov، con-myth-second-order-signification-barthes، con-llms-and-linguistic-theory، con-logical-structure-aktionsart-rrg (أعِد التوليد دوماً بالأمر القياسي، القائمةُ تتغيّر).
 
 النسبةُ الفعلية من الهدف (1200-1400): **~59-68%**. الانضباطُ في توثيق الفجوات الصادقة (بدل الاختلاق) مستمرٌّ بحزمٍ كما طلب المنسّق صراحةً (Kenstowicz، Levin/Rappaport Hovav، Johnson/Meisel، إلخ جميعُها موثَّقةٌ). لا تقريرَ إغلاقٍ نهائي حتى نفاد السياق الفعلي أو تكرار حدّ الاستخدام.
+
+## ⚠️ حالةٌ مقيسة — علامةُ 674 دفعة (2026-09-24، عددٌ مُتحقَّقٌ مباشرةً)
+
+عددُ العقد اللسانية الحيّة **المُتحقَّق منه مباشرةً عبر data.json بعد build_atlas.py**: **820 عقدة**. آخر التزامٍ مؤكَّد: `5cab9d47`. زيادةُ 24 عقدةً منذ التحقّق عند 796 (دفعة 620): يسبرسن حتى تاننهاوس (THK-12525 إلى THK-12547)، إضافةً لـ53 دفعةَ ربطٍ فقط متتالية (622-674).
+
+معرّفُ THK التالي: آخر مؤكَّد THK-12547؛ أعِد الفحصَ دوماً قبل كل إنشاء.
+
+**استراتيجيةُ "con- بلا thk- في related" منتجةٌ بعد 53 دفعة متتالية دون نفاد**، وتقترب من استنفاد سلسلة con-*.md الحالية (المتبقّي معروفٌ: con-veridiction-greimas، con-whistled-languages، con-myth-second-order-signification-barthes، con-llms-and-linguistic-theory، con-logical-structure-aktionsart-rrg — يُنصَح بفحصها تالياً، ثم التحقّق من استنفاد con- كلياً عبر الأمر القياسي، فالانتقالَ لفحص content/ar/works وcontent/ar/studies وcontent/ar/debates وcontent/ar/critiques بنفس المنهجية إن لزم).
+
+النسبةُ الفعلية من الهدف (1200-1400): **~59-68%**. الانضباطُ في توثيق الفجوات الصادقة (Mikolov كحالةٍ ثالثة شبيهة بپيترز/دِڤلن، ﭬان دِر هولست/ﭬايِر، باور، ترويسِل وزملاؤه) مستمرٌّ بحزمٍ. لا تقريرَ إغلاقٍ نهائي حتى نفاد السياق الفعلي أو تكرار حدّ الاستخدام، بحسب توجيه المنسّق الصريح والمتكرِّر.
