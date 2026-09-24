@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-anthropological-political-economy", title: "الاقتصادُ السياسيُّ العالميُّ والتاريخ (Eric Wolf — Europe and the People Without History)", type: "مدرسة"
 - id: "thk-igor-kopytoff", title: "إيغور كوبيتوف (Igor Kopytoff)", type: "مفكر"
+- id: "thk-keith-hart", title: "كيث هارت (Keith Hart)", type: "مفكر"
 gaps: []
 ---
 # كريس غريغوري (Chris A. Gregory)
