@@ -1,21 +1,21 @@
 ---
-slug: "sch-postcolonial-theory-history"
-id: "SCH-12944"
+slug: "sch-machine-learning-history"
+id: "SCH-12933"
 type: "مدرسة"
 part: "historiography"
 section: 19
-historical_period: "1990–present"
-country: "العالم الأنغلوفوني والآسيويّ والأفريقيّ"
+historical_period: "2015–present"
+country: "العالم الأنغلوفوني والأوروبي"
 level: "متقدم"
-title: "نظريةُ ما بعدَ الكولونياليةِ والتاريخ"
-en: "Postcolonial Theory in History"
-crumb: "التاريخ ومناهجه ← التاريخُ المعاصر ← نظريةُ ما بعدَ الكولونياليةِ والتاريخ"
-dates: "1990–present"
-cultural_origin: "postcolonial"
+title: "تطبيقاتُ التعلّمِ الآليِّ في التاريخ"
+en: "Machine Learning Applications in History"
+crumb: "التاريخ ومناهجه ← التاريخُ المعاصر ← تطبيقاتُ التعلّمِ الآليِّ في التاريخ"
+dates: "2015–present"
+cultural_origin: "american"
 edges:
 - rel: "part_of_section", target: "historiography-section-19", target_type: "section"
 ---
-# نظريةُ ما بعدَ الكولونياليةِ والتاريخ
+# تطبيقاتُ التعلّمِ الآليِّ في التاريخ
 
 ## التعريف
 

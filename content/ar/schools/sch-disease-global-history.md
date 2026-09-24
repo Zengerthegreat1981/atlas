@@ -1,21 +1,21 @@
 ---
-slug: "sch-postcolonial-theory-history"
-id: "SCH-12944"
+slug: "sch-disease-global-history"
+id: "SCH-12975"
 type: "مدرسة"
 part: "historiography"
 section: 19
-historical_period: "1990–present"
-country: "العالم الأنغلوفوني والآسيويّ والأفريقيّ"
+historical_period: "2010–present"
+country: "عالميّ"
 level: "متقدم"
-title: "نظريةُ ما بعدَ الكولونياليةِ والتاريخ"
-en: "Postcolonial Theory in History"
-crumb: "التاريخ ومناهجه ← التاريخُ المعاصر ← نظريةُ ما بعدَ الكولونياليةِ والتاريخ"
-dates: "1990–present"
-cultural_origin: "postcolonial"
+title: "الأمراضُ والتاريخ العالميّ"
+en: "Disease and Global History"
+crumb: "التاريخ ومناهجه ← التاريخُ المعاصر ← الأمراضُ والتاريخ العالميّ"
+dates: "2010–present"
+cultural_origin: "global"
 edges:
 - rel: "part_of_section", target: "historiography-section-19", target_type: "section"
 ---
-# نظريةُ ما بعدَ الكولونياليةِ والتاريخ
+# الأمراضُ والتاريخ العالميّ
 
 ## التعريف
 

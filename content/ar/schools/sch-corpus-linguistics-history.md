@@ -1,21 +1,21 @@
 ---
-slug: "sch-postcolonial-theory-history"
-id: "SCH-12944"
+slug: "sch-corpus-linguistics-history"
+id: "SCH-12930"
 type: "مدرسة"
 part: "historiography"
 section: 19
-historical_period: "1990–present"
-country: "العالم الأنغلوفوني والآسيويّ والأفريقيّ"
+historical_period: "2005–present"
+country: "العالم الأنغلوفوني والأوروبي"
 level: "متقدم"
-title: "نظريةُ ما بعدَ الكولونياليةِ والتاريخ"
-en: "Postcolonial Theory in History"
-crumb: "التاريخ ومناهجه ← التاريخُ المعاصر ← نظريةُ ما بعدَ الكولونياليةِ والتاريخ"
-dates: "1990–present"
-cultural_origin: "postcolonial"
+title: "علمُ اللغةِ الدَّياريِّ والتاريخ"
+en: "Corpus Linguistics and History"
+crumb: "التاريخ ومناهجه ← التاريخُ المعاصر ← علمُ اللغةِ الدَّياريِّ والتاريخ"
+dates: "2005–present"
+cultural_origin: "american"
 edges:
 - rel: "part_of_section", target: "historiography-section-19", target_type: "section"
 ---
-# نظريةُ ما بعدَ الكولونياليةِ والتاريخ
+# علمُ اللغةِ الدَّياريِّ والتاريخ
 
 ## التعريف
 

@@ -1,21 +1,21 @@
 ---
-slug: "sch-postcolonial-theory-history"
-id: "SCH-12944"
+slug: "sch-decolonial-history"
+id: "SCH-12943"
 type: "مدرسة"
 part: "historiography"
 section: 19
-historical_period: "1990–present"
+historical_period: "2000–present"
 country: "العالم الأنغلوفوني والآسيويّ والأفريقيّ"
 level: "متقدم"
-title: "نظريةُ ما بعدَ الكولونياليةِ والتاريخ"
-en: "Postcolonial Theory in History"
-crumb: "التاريخ ومناهجه ← التاريخُ المعاصر ← نظريةُ ما بعدَ الكولونياليةِ والتاريخ"
-dates: "1990–present"
+title: "التأريخُ ما بعدَ الكولونيالي"
+en: "Decolonial Historiography"
+crumb: "التاريخ ومناهجه ← التاريخُ المعاصر ← التأريخُ ما بعدَ الكولونيالي"
+dates: "2000–present"
 cultural_origin: "postcolonial"
 edges:
 - rel: "part_of_section", target: "historiography-section-19", target_type: "section"
 ---
-# نظريةُ ما بعدَ الكولونياليةِ والتاريخ
+# التأريخُ ما بعدَ الكولونيالي
 
 ## التعريف
 

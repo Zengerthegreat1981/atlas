@@ -1,21 +1,21 @@
 ---
-slug: "sch-postcolonial-theory-history"
-id: "SCH-12944"
+slug: "sch-database-methodology-history"
+id: "SCH-12926"
 type: "مدرسة"
 part: "historiography"
 section: 19
 historical_period: "1990–present"
-country: "العالم الأنغلوفوني والآسيويّ والأفريقيّ"
+country: "العالم الأنغلوفوني والأوروبي"
 level: "متقدم"
-title: "نظريةُ ما بعدَ الكولونياليةِ والتاريخ"
-en: "Postcolonial Theory in History"
-crumb: "التاريخ ومناهجه ← التاريخُ المعاصر ← نظريةُ ما بعدَ الكولونياليةِ والتاريخ"
+title: "منهجيةُ قوائمِ البياناتِ التاريخية"
+en: "Database Methodology in History"
+crumb: "التاريخ ومناهجه ← التاريخُ المعاصر ← منهجيةُ قوائمِ البياناتِ التاريخية"
 dates: "1990–present"
-cultural_origin: "postcolonial"
+cultural_origin: "american"
 edges:
 - rel: "part_of_section", target: "historiography-section-19", target_type: "section"
 ---
-# نظريةُ ما بعدَ الكولونياليةِ والتاريخ
+# منهجيةُ قوائمِ البياناتِ التاريخية
 
 ## التعريف
 

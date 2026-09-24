@@ -1,21 +1,21 @@
 ---
-slug: "sch-postcolonial-theory-history"
-id: "SCH-12944"
+slug: "sch-visualization-historical-uncertainty"
+id: "SCH-12937"
 type: "مدرسة"
 part: "historiography"
 section: 19
-historical_period: "1990–present"
-country: "العالم الأنغلوفوني والآسيويّ والأفريقيّ"
+historical_period: "2005–present"
+country: "العالم الأنغلوفوني والأوروبي"
 level: "متقدم"
-title: "نظريةُ ما بعدَ الكولونياليةِ والتاريخ"
-en: "Postcolonial Theory in History"
-crumb: "التاريخ ومناهجه ← التاريخُ المعاصر ← نظريةُ ما بعدَ الكولونياليةِ والتاريخ"
-dates: "1990–present"
-cultural_origin: "postcolonial"
+title: "تصورُ عدمِ اليقينِ التاريخيّ"
+en: "Visualization of Historical Uncertainty"
+crumb: "التاريخ ومناهجه ← التاريخُ المعاصر ← تصورُ عدمِ اليقينِ التاريخيّ"
+dates: "2005–present"
+cultural_origin: "american"
 edges:
 - rel: "part_of_section", target: "historiography-section-19", target_type: "section"
 ---
-# نظريةُ ما بعدَ الكولونياليةِ والتاريخ
+# تصورُ عدمِ اليقينِ التاريخيّ
 
 ## التعريف
 

@@ -1,21 +1,21 @@
 ---
-slug: "sch-postcolonial-theory-history"
-id: "SCH-12944"
+slug: "sch-oral-tradition-history"
+id: "SCH-13050"
 type: "مدرسة"
 part: "historiography"
 section: 19
-historical_period: "1990–present"
-country: "العالم الأنغلوفوني والآسيويّ والأفريقيّ"
+historical_period: "1985–present"
+country: "عالميّ"
 level: "متقدم"
-title: "نظريةُ ما بعدَ الكولونياليةِ والتاريخ"
-en: "Postcolonial Theory in History"
-crumb: "التاريخ ومناهجه ← التاريخُ المعاصر ← نظريةُ ما بعدَ الكولونياليةِ والتاريخ"
-dates: "1990–present"
-cultural_origin: "postcolonial"
+title: "التقاليدُ الشفويةُ والتاريخ"
+en: "Oral Traditions and History"
+crumb: "التاريخ ومناهجه ← التاريخُ المعاصر ← التقاليدُ الشفويةُ والتاريخ"
+dates: "1985–present"
+cultural_origin: "indigenous"
 edges:
 - rel: "part_of_section", target: "historiography-section-19", target_type: "section"
 ---
-# نظريةُ ما بعدَ الكولونياليةِ والتاريخ
+# التقاليدُ الشفويةُ والتاريخ
 
 ## التعريف
 

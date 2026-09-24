@@ -1,21 +1,21 @@
 ---
-slug: "sch-postcolonial-theory-history"
-id: "SCH-12944"
+slug: "sch-silk-road-history"
+id: "SCH-12967"
 type: "مدرسة"
 part: "historiography"
 section: 19
-historical_period: "1990–present"
-country: "العالم الأنغلوفوني والآسيويّ والأفريقيّ"
+historical_period: "1995–present"
+country: "عالميّ"
 level: "متقدم"
-title: "نظريةُ ما بعدَ الكولونياليةِ والتاريخ"
-en: "Postcolonial Theory in History"
-crumb: "التاريخ ومناهجه ← التاريخُ المعاصر ← نظريةُ ما بعدَ الكولونياليةِ والتاريخ"
-dates: "1990–present"
-cultural_origin: "postcolonial"
+title: "طريقُ الحريرِ والتاريخ"
+en: "Silk Road and Trade History"
+crumb: "التاريخ ومناهجه ← التاريخُ المعاصر ← طريقُ الحريرِ والتاريخ"
+dates: "1995–present"
+cultural_origin: "global"
 edges:
 - rel: "part_of_section", target: "historiography-section-19", target_type: "section"
 ---
-# نظريةُ ما بعدَ الكولونياليةِ والتاريخ
+# طريقُ الحريرِ والتاريخ
 
 ## التعريف
 

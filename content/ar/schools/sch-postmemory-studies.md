@@ -1,21 +1,21 @@
 ---
-slug: "sch-postcolonial-theory-history"
-id: "SCH-12944"
+slug: "sch-postmemory-studies"
+id: "SCH-13010"
 type: "مدرسة"
 part: "historiography"
 section: 19
-historical_period: "1990–present"
-country: "العالم الأنغلوفوني والآسيويّ والأفريقيّ"
+historical_period: "2008–present"
+country: "عالميّ"
 level: "متقدم"
-title: "نظريةُ ما بعدَ الكولونياليةِ والتاريخ"
-en: "Postcolonial Theory in History"
-crumb: "التاريخ ومناهجه ← التاريخُ المعاصر ← نظريةُ ما بعدَ الكولونياليةِ والتاريخ"
-dates: "1990–present"
-cultural_origin: "postcolonial"
+title: "دراساتُ اللاحقِ الذاكرة"
+en: "Postmemory Studies"
+crumb: "التاريخ ومناهجه ← التاريخُ المعاصر ← دراساتُ اللاحقِ الذاكرة"
+dates: "2008–present"
+cultural_origin: "european"
 edges:
 - rel: "part_of_section", target: "historiography-section-19", target_type: "section"
 ---
-# نظريةُ ما بعدَ الكولونياليةِ والتاريخ
+# دراساتُ اللاحقِ الذاكرة
 
 ## التعريف
 

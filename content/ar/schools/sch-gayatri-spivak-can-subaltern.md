@@ -1,21 +1,21 @@
 ---
-slug: "sch-postcolonial-theory-history"
-id: "SCH-12944"
+slug: "sch-gayatri-spivak-can-subaltern"
+id: "SCH-12941"
 type: "مدرسة"
 part: "historiography"
 section: 19
-historical_period: "1990–present"
+historical_period: "1988–present"
 country: "العالم الأنغلوفوني والآسيويّ والأفريقيّ"
 level: "متقدم"
-title: "نظريةُ ما بعدَ الكولونياليةِ والتاريخ"
-en: "Postcolonial Theory in History"
-crumb: "التاريخ ومناهجه ← التاريخُ المعاصر ← نظريةُ ما بعدَ الكولونياليةِ والتاريخ"
-dates: "1990–present"
+title: "سبيفاك والصوتُ التابع"
+en: "Spivak and Subaltern Voice"
+crumb: "التاريخ ومناهجه ← التاريخُ المعاصر ← سبيفاك والصوتُ التابع"
+dates: "1988–present"
 cultural_origin: "postcolonial"
 edges:
 - rel: "part_of_section", target: "historiography-section-19", target_type: "section"
 ---
-# نظريةُ ما بعدَ الكولونياليةِ والتاريخ
+# سبيفاك والصوتُ التابع
 
 ## التعريف
 

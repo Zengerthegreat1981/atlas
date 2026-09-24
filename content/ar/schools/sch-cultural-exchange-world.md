@@ -1,21 +1,21 @@
 ---
-slug: "sch-postcolonial-theory-history"
-id: "SCH-12944"
+slug: "sch-cultural-exchange-world"
+id: "SCH-12978"
 type: "مدرسة"
 part: "historiography"
 section: 19
-historical_period: "1990–present"
-country: "العالم الأنغلوفوني والآسيويّ والأفريقيّ"
+historical_period: "1995–present"
+country: "عالميّ"
 level: "متقدم"
-title: "نظريةُ ما بعدَ الكولونياليةِ والتاريخ"
-en: "Postcolonial Theory in History"
-crumb: "التاريخ ومناهجه ← التاريخُ المعاصر ← نظريةُ ما بعدَ الكولونياليةِ والتاريخ"
-dates: "1990–present"
-cultural_origin: "postcolonial"
+title: "التبادلُ الثقافيُّ والتاريخ"
+en: "Cultural Exchange in World History"
+crumb: "التاريخ ومناهجه ← التاريخُ المعاصر ← التبادلُ الثقافيُّ والتاريخ"
+dates: "1995–present"
+cultural_origin: "global"
 edges:
 - rel: "part_of_section", target: "historiography-section-19", target_type: "section"
 ---
-# نظريةُ ما بعدَ الكولونياليةِ والتاريخ
+# التبادلُ الثقافيُّ والتاريخ
 
 ## التعريف
 

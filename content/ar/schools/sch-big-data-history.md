@@ -1,21 +1,21 @@
 ---
-slug: "sch-postcolonial-theory-history"
-id: "SCH-12944"
+slug: "sch-big-data-history"
+id: "SCH-12925"
 type: "مدرسة"
 part: "historiography"
 section: 19
-historical_period: "1990–present"
-country: "العالم الأنغلوفوني والآسيويّ والأفريقيّ"
+historical_period: "2000–present"
+country: "العالم الأنغلوفوني والأوروبي"
 level: "متقدم"
-title: "نظريةُ ما بعدَ الكولونياليةِ والتاريخ"
-en: "Postcolonial Theory in History"
-crumb: "التاريخ ومناهجه ← التاريخُ المعاصر ← نظريةُ ما بعدَ الكولونياليةِ والتاريخ"
-dates: "1990–present"
-cultural_origin: "postcolonial"
+title: "التاريخُ والبياناتُ الضخمة"
+en: "Big Data History"
+crumb: "التاريخ ومناهجه ← التاريخُ المعاصر ← التاريخُ والبياناتُ الضخمة"
+dates: "2000–present"
+cultural_origin: "american"
 edges:
 - rel: "part_of_section", target: "historiography-section-19", target_type: "section"
 ---
-# نظريةُ ما بعدَ الكولونياليةِ والتاريخ
+# التاريخُ والبياناتُ الضخمة
 
 ## التعريف
 

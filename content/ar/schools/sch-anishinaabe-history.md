@@ -1,21 +1,21 @@
 ---
-slug: "sch-postcolonial-theory-history"
-id: "SCH-12944"
+slug: "sch-anishinaabe-history"
+id: "SCH-13049"
 type: "مدرسة"
 part: "historiography"
 section: 19
-historical_period: "1990–present"
-country: "العالم الأنغلوفوني والآسيويّ والأفريقيّ"
+historical_period: "2000–present"
+country: "عالميّ"
 level: "متقدم"
-title: "نظريةُ ما بعدَ الكولونياليةِ والتاريخ"
-en: "Postcolonial Theory in History"
-crumb: "التاريخ ومناهجه ← التاريخُ المعاصر ← نظريةُ ما بعدَ الكولونياليةِ والتاريخ"
-dates: "1990–present"
-cultural_origin: "postcolonial"
+title: "التاريخُ الأصليُّ الأمريكيّ"
+en: "Anishinaabe and Indigenous History"
+crumb: "التاريخ ومناهجه ← التاريخُ المعاصر ← التاريخُ الأصليُّ الأمريكيّ"
+dates: "2000–present"
+cultural_origin: "indigenous"
 edges:
 - rel: "part_of_section", target: "historiography-section-19", target_type: "section"
 ---
-# نظريةُ ما بعدَ الكولونياليةِ والتاريخ
+# التاريخُ الأصليُّ الأمريكيّ
 
 ## التعريف
 

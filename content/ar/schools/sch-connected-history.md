@@ -1,21 +1,21 @@
 ---
-slug: "sch-postcolonial-theory-history"
-id: "SCH-12944"
+slug: "sch-connected-history"
+id: "SCH-12960"
 type: "مدرسة"
 part: "historiography"
 section: 19
 historical_period: "1990–present"
-country: "العالم الأنغلوفوني والآسيويّ والأفريقيّ"
+country: "عالميّ"
 level: "متقدم"
-title: "نظريةُ ما بعدَ الكولونياليةِ والتاريخ"
-en: "Postcolonial Theory in History"
-crumb: "التاريخ ومناهجه ← التاريخُ المعاصر ← نظريةُ ما بعدَ الكولونياليةِ والتاريخ"
+title: "التاريخُ المترابط"
+en: "Connected History"
+crumb: "التاريخ ومناهجه ← التاريخُ المعاصر ← التاريخُ المترابط"
 dates: "1990–present"
-cultural_origin: "postcolonial"
+cultural_origin: "global"
 edges:
 - rel: "part_of_section", target: "historiography-section-19", target_type: "section"
 ---
-# نظريةُ ما بعدَ الكولونياليةِ والتاريخ
+# التاريخُ المترابط
 
 ## التعريف
 

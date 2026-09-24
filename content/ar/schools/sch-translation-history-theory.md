@@ -1,21 +1,21 @@
 ---
-slug: "sch-postcolonial-theory-history"
-id: "SCH-12944"
+slug: "sch-translation-history-theory"
+id: "SCH-12953"
 type: "مدرسة"
 part: "historiography"
 section: 19
-historical_period: "1990–present"
+historical_period: "1995–present"
 country: "العالم الأنغلوفوني والآسيويّ والأفريقيّ"
 level: "متقدم"
-title: "نظريةُ ما بعدَ الكولونياليةِ والتاريخ"
-en: "Postcolonial Theory in History"
-crumb: "التاريخ ومناهجه ← التاريخُ المعاصر ← نظريةُ ما بعدَ الكولونياليةِ والتاريخ"
-dates: "1990–present"
+title: "الترجمةُ والنظريةُ التاريخية"
+en: "Translation and Historical Theory"
+crumb: "التاريخ ومناهجه ← التاريخُ المعاصر ← الترجمةُ والنظريةُ التاريخية"
+dates: "1995–present"
 cultural_origin: "postcolonial"
 edges:
 - rel: "part_of_section", target: "historiography-section-19", target_type: "section"
 ---
-# نظريةُ ما بعدَ الكولونياليةِ والتاريخ
+# الترجمةُ والنظريةُ التاريخية
 
 ## التعريف
 

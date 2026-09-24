@@ -1,21 +1,21 @@
 ---
-slug: "sch-postcolonial-theory-history"
-id: "SCH-12944"
+slug: "sch-food-history-social"
+id: "SCH-13059"
 type: "مدرسة"
 part: "historiography"
 section: 19
-historical_period: "1990–present"
-country: "العالم الأنغلوفوني والآسيويّ والأفريقيّ"
+historical_period: "2000–present"
+country: "عالميّ"
 level: "متقدم"
-title: "نظريةُ ما بعدَ الكولونياليةِ والتاريخ"
-en: "Postcolonial Theory in History"
-crumb: "التاريخ ومناهجه ← التاريخُ المعاصر ← نظريةُ ما بعدَ الكولونياليةِ والتاريخ"
-dates: "1990–present"
-cultural_origin: "postcolonial"
+title: "تاريخُ الغذاءِ والتغييرُ الاجتماعيّ"
+en: "Food History and Social Change"
+crumb: "التاريخ ومناهجه ← التاريخُ المعاصر ← تاريخُ الغذاءِ والتغييرُ الاجتماعيّ"
+dates: "2000–present"
+cultural_origin: "global"
 edges:
 - rel: "part_of_section", target: "historiography-section-19", target_type: "section"
 ---
-# نظريةُ ما بعدَ الكولونياليةِ والتاريخ
+# تاريخُ الغذاءِ والتغييرُ الاجتماعيّ
 
 ## التعريف
 
