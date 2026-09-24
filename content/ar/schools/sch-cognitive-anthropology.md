@@ -18,8 +18,7 @@ edges:
 - rel: "belongs_to", target: "sch-boasian-cultural-relativism", target_type: "مدرسة"
 related:
 - id: "thk-ward-goodenough", title: "وارد غودإنف (Ward Goodenough)", type: "مفكر"
-gaps:
-  - "فلويد لاونسبري لم يُكتب بعد كملفٍّ مستقلّ؛ ذُكر نصّاً في ملفّ غودإنف فقط. هارولد كونكلين أُضيف الآن بملفٍّ مستقلّ (`thk-harold-conklin`)."
+gaps: []
 ---
 # الأنثروبولوجيا المعرفية والإثنوعلوم (Cognitive Anthropology & Ethnoscience)
 

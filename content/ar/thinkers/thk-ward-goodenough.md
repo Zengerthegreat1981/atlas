@@ -19,6 +19,7 @@ related:
 - id: "con-componential-analysis", title: "التحليلُ المكوّنيّ (Componential Analysis)", type: "مفهوم"
 - id: "thk-roy-dandrade", title: "روي دي أندرادي (Roy D'Andrade)", type: "مفكر"
 - id: "thk-harold-conklin", title: "هارولد كونكلين (Harold C. Conklin)", type: "مفكر"
+- id: "thk-floyd-lounsbury", title: "فلويد لاونسبري (Floyd Lounsbury)", type: "مفكر"
 gaps: []
 ---
 # وارد غودإنف (Ward Goodenough)
