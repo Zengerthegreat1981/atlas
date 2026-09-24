@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-postcolonial-critique-anthropology", title: "النقدُ ما بعد الاستعماريّ للأنثروبولوجيا (Asad, Anthropology and the Colonial Encounter)", type: "مدرسة"
 - id: "thk-lynn-bolles", title: "إيه. لين بولز (A. Lynn Bolles)", type: "مفكر"
+- id: "thk-deborah-thomas", title: "ديبورا إيه. توماس (Deborah A. Thomas)", type: "مفكر"
 gaps: []
 ---
 # إيرما مكلورين (Irma McClaurin)
