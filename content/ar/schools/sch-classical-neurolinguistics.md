@@ -37,6 +37,7 @@ related:
 - id: "thk-ludwig-lichtheim", title: "لودفيغ ليختهايم", type: "مفكر"
 - id: "con-transcortical-aphasias-lichtheim", title: "الحُبساتُ عبر القشرية (Transcortical Aphasias)", type: "مفهوم"
 - id: "thk-sheila-blumstein", title: "شيلا إ. بلومستاين", type: "مفكر"
+- id: "thk-roger-sperry", title: "روجر و. سپيري", type: "مفكر"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`) — نشأ هذا التقليدُ من الطب العصبي السريري لا من اللسانيات النظرية، والتقى بها لاحقاً."
   - "المتلازمتان `syn-broca-aphasia` و`syn-wernicke-aphasia` موسومتان `psychology` في الأطلس (ضمن مجلد الاضطرابات السريرية)؛ لم يُعدَّل وسمُهما — هذا الملفُّ يربط إليهما بـ`related` بوصفهما الدليلَ الإكلينيكي المؤسِّس لهذا الفرع اللساني، لا يستنسخهما."
