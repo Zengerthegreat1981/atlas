@@ -14,8 +14,10 @@ edges:
 related:
 - id: "con-writing-systems-typology", title: "نمطيةُ أنظمة الكتابة (Writing Systems Typology)", type: "مفهوم"
 - id: "sch-sentence-processing-psycholinguistics", title: "علمُ اللغة النفسيُّ ومعالجةُ الجملة (Sentence Processing)", type: "مدرسة"
+- id: "thk-ram-frost", title: "رام فروست", type: "مفكر"
 gaps:
   - "حيادٌ صريحٌ محفوظ: تعميمُ الفرضية على كلّ أنظمة الكتابة (كالعربية بتشكيلها الاختياري) لا يزال موضعَ بحثٍ تجريبيٍّ نشط لا حسمٍ كامل."
+  - "فيليپ إتش. كي. سيمور (Seymour)، مؤلِّفُ دراسة 2003 المقارِنة عبر اللغات الأوروبية المستشهَدِ بها هنا، لا يملك عقدةَ سيرةٍ مستقلّة بعد."
 ---
 
 # فرضيةُ العمق الكتابي
