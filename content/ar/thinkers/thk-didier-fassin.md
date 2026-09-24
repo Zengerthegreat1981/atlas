@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-structural-violence-health", title: "العنفُ البنيويُّ والصحّة (Structural Violence — Farmer, Scheper-Hughes)", type: "مدرسة"
 - id: "thk-joao-biehl", title: "جواو بيل (João Biehl)", type: "مفكر"
+- id: "thk-julie-livingston", title: "جولي ليڤنغستون (Julie Livingston)", type: "مفكر"
 gaps: []
 ---
 # ديدييه فاسان (Didier Fassin)
