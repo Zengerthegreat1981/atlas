@@ -1,11 +1,11 @@
 ---
-slug: "con-ritual-efficacy"
-id: "CON-18157"
+slug: "con-liminality"
+id: "CON-18155"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"
-title: "فعّاليّةُ الطقس (Ritual Efficacy)"
-en: "فعّاليّةُ الطقس (Ritual Efficacy)"
+title: "اللامركزيّة أو الحالةُ الانتقاليّة (Liminality)"
+en: "اللامركزيّة أو الحالةُ الانتقاليّة (Liminality)"
 crumb: "الأنثروبولوجيا ← المفاهيم"
 active_start: 1980
 active_end: "مستمر"
@@ -14,9 +14,9 @@ related: []
 gaps: []
 ---
 
-# فعّاليّةُ الطقس (Ritual Efficacy)
+# اللامركزيّة أو الحالةُ الانتقاليّة (Liminality)
 
-The power of ritual to create social reality and transform participants; performative dimension of ritual practice
+Turner's concept of the ambiguous state between social structures; liminal beings exist outside normal social categories
 
 ## السياقُ والأصول
 [تفاصيل قريباً]

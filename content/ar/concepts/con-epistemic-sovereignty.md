@@ -1,11 +1,11 @@
 ---
-slug: "con-ritual-efficacy"
-id: "CON-18157"
+slug: "con-epistemic-sovereignty"
+id: "CON-18165"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"
-title: "فعّاليّةُ الطقس (Ritual Efficacy)"
-en: "فعّاليّةُ الطقس (Ritual Efficacy)"
+title: "السيادةُ المعرفيّة (Epistemological Sovereignty)"
+en: "السيادةُ المعرفيّة (Epistemological Sovereignty)"
 crumb: "الأنثروبولوجيا ← المفاهيم"
 active_start: 1980
 active_end: "مستمر"
@@ -14,9 +14,9 @@ related: []
 gaps: []
 ---
 
-# فعّاليّةُ الطقس (Ritual Efficacy)
+# السيادةُ المعرفيّة (Epistemological Sovereignty)
 
-The power of ritual to create social reality and transform participants; performative dimension of ritual practice
+Indigenous peoples' right to control knowledge about their own cultures; challenge to Western academic monopoly
 
 ## السياقُ والأصول
 [تفاصيل قريباً]

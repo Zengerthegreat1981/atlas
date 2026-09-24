@@ -1,11 +1,11 @@
 ---
-slug: "con-ritual-efficacy"
-id: "CON-18157"
+slug: "con-symbolic-capital"
+id: "CON-18161"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"
-title: "فعّاليّةُ الطقس (Ritual Efficacy)"
-en: "فعّاليّةُ الطقس (Ritual Efficacy)"
+title: "رأسمالُ رمزيّ (Symbolic Capital)"
+en: "رأسمالُ رمزيّ (Symbolic Capital)"
 crumb: "الأنثروبولوجيا ← المفاهيم"
 active_start: 1980
 active_end: "مستمر"
@@ -14,9 +14,9 @@ related: []
 gaps: []
 ---
 
-# فعّاليّةُ الطقس (Ritual Efficacy)
+# رأسمالُ رمزيّ (Symbolic Capital)
 
-The power of ritual to create social reality and transform participants; performative dimension of ritual practice
+Bourdieu's concept of legitimacy, prestige, and cultural authority as forms of power; accumulated through education and cultural practice
 
 ## السياقُ والأصول
 [تفاصيل قريباً]

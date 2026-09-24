@@ -1,11 +1,11 @@
 ---
-slug: "con-ritual-efficacy"
-id: "CON-18157"
+slug: "con-positionality"
+id: "CON-18164"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"
-title: "فعّاليّةُ الطقس (Ritual Efficacy)"
-en: "فعّاليّةُ الطقس (Ritual Efficacy)"
+title: "الموقعيّة (Positionality)"
+en: "الموقعيّة (Positionality)"
 crumb: "الأنثروبولوجيا ← المفاهيم"
 active_start: 1980
 active_end: "مستمر"
@@ -14,9 +14,9 @@ related: []
 gaps: []
 ---
 
-# فعّاليّةُ الطقس (Ritual Efficacy)
+# الموقعيّة (Positionality)
 
-The power of ritual to create social reality and transform participants; performative dimension of ritual practice
+Scholar's social location (gender, race, class, nationality) shapes perspective and access to knowledge; postcolonial concern
 
 ## السياقُ والأصول
 [تفاصيل قريباً]

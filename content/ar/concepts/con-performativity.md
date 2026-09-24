@@ -1,11 +1,11 @@
 ---
-slug: "con-ritual-efficacy"
-id: "CON-18157"
+slug: "con-performativity"
+id: "CON-18171"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"
-title: "فعّاليّةُ الطقس (Ritual Efficacy)"
-en: "فعّاليّةُ الطقس (Ritual Efficacy)"
+title: "الأداءُ والتجسيدُ (Performativity)"
+en: "الأداءُ والتجسيدُ (Performativity)"
 crumb: "الأنثروبولوجيا ← المفاهيم"
 active_start: 1980
 active_end: "مستمر"
@@ -14,9 +14,9 @@ related: []
 gaps: []
 ---
 
-# فعّاليّةُ الطقس (Ritual Efficacy)
+# الأداءُ والتجسيدُ (Performativity)
 
-The power of ritual to create social reality and transform participants; performative dimension of ritual practice
+Repeated performance of identity and social norms; theory that identity is performatively constituted through repetition
 
 ## السياقُ والأصول
 [تفاصيل قريباً]

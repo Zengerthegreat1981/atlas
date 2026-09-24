@@ -1,11 +1,11 @@
 ---
-slug: "con-ritual-efficacy"
-id: "CON-18157"
+slug: "con-authenticity-cultural"
+id: "CON-18176"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"
-title: "فعّاليّةُ الطقس (Ritual Efficacy)"
-en: "فعّاليّةُ الطقس (Ritual Efficacy)"
+title: "الأصالةُ الثقافية (Cultural Authenticity)"
+en: "الأصالةُ الثقافية (Cultural Authenticity)"
 crumb: "الأنثروبولوجيا ← المفاهيم"
 active_start: 1980
 active_end: "مستمر"
@@ -14,9 +14,9 @@ related: []
 gaps: []
 ---
 
-# فعّاليّةُ الطقس (Ritual Efficacy)
+# الأصالةُ الثقافية (Cultural Authenticity)
 
-The power of ritual to create social reality and transform participants; performative dimension of ritual practice
+Problematic notion of 'genuine' or 'pure' culture; anthropological interrogation of what counts as authentic
 
 ## السياقُ والأصول
 [تفاصيل قريباً]

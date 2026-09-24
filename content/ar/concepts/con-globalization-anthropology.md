@@ -1,11 +1,11 @@
 ---
-slug: "con-ritual-efficacy"
-id: "CON-18157"
+slug: "con-globalization-anthropology"
+id: "CON-18177"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"
-title: "فعّاليّةُ الطقس (Ritual Efficacy)"
-en: "فعّاليّةُ الطقس (Ritual Efficacy)"
+title: "العولمة (Globalization)"
+en: "العولمة (Globalization)"
 crumb: "الأنثروبولوجيا ← المفاهيم"
 active_start: 1980
 active_end: "مستمر"
@@ -14,9 +14,9 @@ related: []
 gaps: []
 ---
 
-# فعّاليّةُ الطقس (Ritual Efficacy)
+# العولمة (Globalization)
 
-The power of ritual to create social reality and transform participants; performative dimension of ritual practice
+Processes of worldwide interconnection; anthropological study of unequal flows, resistances, and hybridities
 
 ## السياقُ والأصول
 [تفاصيل قريباً]

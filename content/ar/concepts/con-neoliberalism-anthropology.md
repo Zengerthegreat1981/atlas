@@ -1,11 +1,11 @@
 ---
-slug: "con-ritual-efficacy"
-id: "CON-18157"
+slug: "con-neoliberalism-anthropology"
+id: "CON-18178"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"
-title: "فعّاليّةُ الطقس (Ritual Efficacy)"
-en: "فعّاليّةُ الطقس (Ritual Efficacy)"
+title: "الليبراليةُ الجديدة (Neoliberalism)"
+en: "الليبراليةُ الجديدة (Neoliberalism)"
 crumb: "الأنثروبولوجيا ← المفاهيم"
 active_start: 1980
 active_end: "مستمر"
@@ -14,9 +14,9 @@ related: []
 gaps: []
 ---
 
-# فعّاليّةُ الطقس (Ritual Efficacy)
+# الليبراليةُ الجديدة (Neoliberalism)
 
-The power of ritual to create social reality and transform participants; performative dimension of ritual practice
+Market-oriented governance logic; anthropological critique of how neoliberalism reshapes culture, self, and society
 
 ## السياقُ والأصول
 [تفاصيل قريباً]

@@ -1,11 +1,11 @@
 ---
-slug: "con-ritual-efficacy"
-id: "CON-18157"
+slug: "con-agency-anthropology"
+id: "CON-18153"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"
-title: "فعّاليّةُ الطقس (Ritual Efficacy)"
-en: "فعّاليّةُ الطقس (Ritual Efficacy)"
+title: "الفاعليّةُ (Agency)"
+en: "الفاعليّةُ (Agency)"
 crumb: "الأنثروبولوجيا ← المفاهيم"
 active_start: 1980
 active_end: "مستمر"
@@ -14,9 +14,9 @@ related: []
 gaps: []
 ---
 
-# فعّاليّةُ الطقس (Ritual Efficacy)
+# الفاعليّةُ (Agency)
 
-The power of ritual to create social reality and transform participants; performative dimension of ritual practice
+Capacity of individuals to act autonomously and make choices; tension between structure and agency in anthropology
 
 ## السياقُ والأصول
 [تفاصيل قريباً]

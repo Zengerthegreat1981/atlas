@@ -1,11 +1,11 @@
 ---
-slug: "con-ritual-efficacy"
-id: "CON-18157"
+slug: "con-diaspora-identity"
+id: "CON-18168"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"
-title: "فعّاليّةُ الطقس (Ritual Efficacy)"
-en: "فعّاليّةُ الطقس (Ritual Efficacy)"
+title: "الشتاتُ والهويّة (Diaspora)"
+en: "الشتاتُ والهويّة (Diaspora)"
 crumb: "الأنثروبولوجيا ← المفاهيم"
 active_start: 1980
 active_end: "مستمر"
@@ -14,9 +14,9 @@ related: []
 gaps: []
 ---
 
-# فعّاليّةُ الطقس (Ritual Efficacy)
+# الشتاتُ والهويّة (Diaspora)
 
-The power of ritual to create social reality and transform participants; performative dimension of ritual practice
+Dispersed populations maintaining connection to homeland; transnational identities and belonging
 
 ## السياقُ والأصول
 [تفاصيل قريباً]

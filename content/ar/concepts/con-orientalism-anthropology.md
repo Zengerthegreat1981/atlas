@@ -1,11 +1,11 @@
 ---
-slug: "con-ritual-efficacy"
-id: "CON-18157"
+slug: "con-orientalism-anthropology"
+id: "CON-18151"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"
-title: "فعّاليّةُ الطقس (Ritual Efficacy)"
-en: "فعّاليّةُ الطقس (Ritual Efficacy)"
+title: "الاستشراقُ في الأنثروبولوجيا (Orientalism)"
+en: "الاستشراقُ في الأنثروبولوجيا (Orientalism)"
 crumb: "الأنثروبولوجيا ← المفاهيم"
 active_start: 1980
 active_end: "مستمر"
@@ -14,9 +14,9 @@ related: []
 gaps: []
 ---
 
-# فعّاليّةُ الطقس (Ritual Efficacy)
+# الاستشراقُ في الأنثروبولوجيا (Orientalism)
 
-The power of ritual to create social reality and transform participants; performative dimension of ritual practice
+Edward Said's critique of Western representations of the Orient; influence on anthropological critique of othering
 
 ## السياقُ والأصول
 [تفاصيل قريباً]

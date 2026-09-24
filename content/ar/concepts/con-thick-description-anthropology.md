@@ -1,11 +1,11 @@
 ---
-slug: "con-ritual-efficacy"
-id: "CON-18157"
+slug: "con-thick-description-anthropology"
+id: "CON-18154"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"
-title: "فعّاليّةُ الطقس (Ritual Efficacy)"
-en: "فعّاليّةُ الطقس (Ritual Efficacy)"
+title: "الوصفُ الكثيفُ (Thick Description - Extended)"
+en: "الوصفُ الكثيفُ (Thick Description - Extended)"
 crumb: "الأنثروبولوجيا ← المفاهيم"
 active_start: 1980
 active_end: "مستمر"
@@ -14,9 +14,9 @@ related: []
 gaps: []
 ---
 
-# فعّاليّةُ الطقس (Ritual Efficacy)
+# الوصفُ الكثيفُ (Thick Description - Extended)
 
-The power of ritual to create social reality and transform participants; performative dimension of ritual practice
+Geertz's methodological approach of interpreting cultural meaning through layered description, not just surface observation
 
 ## السياقُ والأصول
 [تفاصيل قريباً]

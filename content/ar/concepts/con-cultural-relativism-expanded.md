@@ -1,11 +1,11 @@
 ---
-slug: "con-ritual-efficacy"
-id: "CON-18157"
+slug: "con-cultural-relativism-expanded"
+id: "CON-18158"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"
-title: "فعّاليّةُ الطقس (Ritual Efficacy)"
-en: "فعّاليّةُ الطقس (Ritual Efficacy)"
+title: "النسبويّة الثقافية (Cultural Relativism - Extended)"
+en: "النسبويّة الثقافية (Cultural Relativism - Extended)"
 crumb: "الأنثروبولوجيا ← المفاهيم"
 active_start: 1980
 active_end: "مستمر"
@@ -14,9 +14,9 @@ related: []
 gaps: []
 ---
 
-# فعّاليّةُ الطقس (Ritual Efficacy)
+# النسبويّة الثقافية (Cultural Relativism - Extended)
 
-The power of ritual to create social reality and transform participants; performative dimension of ritual practice
+Principle of understanding cultures on their own terms rather than judging by external standards; debated regarding universal rights
 
 ## السياقُ والأصول
 [تفاصيل قريباً]

@@ -1,11 +1,11 @@
 ---
-slug: "con-ritual-efficacy"
-id: "CON-18157"
+slug: "con-cosmopolitanism-anthropology"
+id: "CON-18169"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"
-title: "فعّاليّةُ الطقس (Ritual Efficacy)"
-en: "فعّاليّةُ الطقس (Ritual Efficacy)"
+title: "الكوسموبوليتانيّة (Cosmopolitanism)"
+en: "الكوسموبوليتانيّة (Cosmopolitanism)"
 crumb: "الأنثروبولوجيا ← المفاهيم"
 active_start: 1980
 active_end: "مستمر"
@@ -14,9 +14,9 @@ related: []
 gaps: []
 ---
 
-# فعّاليّةُ الطقس (Ritual Efficacy)
+# الكوسموبوليتانيّة (Cosmopolitanism)
 
-The power of ritual to create social reality and transform participants; performative dimension of ritual practice
+Perspective seeking common humanity across cultures; engagement with universal principles alongside particular contexts
 
 ## السياقُ والأصول
 [تفاصيل قريباً]

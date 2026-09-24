@@ -1,11 +1,11 @@
 ---
-slug: "con-ritual-efficacy"
-id: "CON-18157"
+slug: "con-hybridity-culture"
+id: "CON-18167"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"
-title: "فعّاليّةُ الطقس (Ritual Efficacy)"
-en: "فعّاليّةُ الطقس (Ritual Efficacy)"
+title: "التهجينُ الثقافيّ (Hybridity)"
+en: "التهجينُ الثقافيّ (Hybridity)"
 crumb: "الأنثروبولوجيا ← المفاهيم"
 active_start: 1980
 active_end: "مستمر"
@@ -14,9 +14,9 @@ related: []
 gaps: []
 ---
 
-# فعّاليّةُ الطقس (Ritual Efficacy)
+# التهجينُ الثقافيّ (Hybridity)
 
-The power of ritual to create social reality and transform participants; performative dimension of ritual practice
+Blending of cultural forms; particularly in postcolonial contexts where cultures mix without maintaining boundaries
 
 ## السياقُ والأصول
 [تفاصيل قريباً]

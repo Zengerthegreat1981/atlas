@@ -1,11 +1,11 @@
 ---
-slug: "con-ritual-efficacy"
-id: "CON-18157"
+slug: "con-ethnographic-authority"
+id: "CON-18150"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"
-title: "فعّاليّةُ الطقس (Ritual Efficacy)"
-en: "فعّاليّةُ الطقس (Ritual Efficacy)"
+title: "السلطةُ الإثنوغرافية (Ethnographic Authority)"
+en: "السلطةُ الإثنوغرافية (Ethnographic Authority)"
 crumb: "الأنثروبولوجيا ← المفاهيم"
 active_start: 1980
 active_end: "مستمر"
@@ -14,9 +14,9 @@ related: []
 gaps: []
 ---
 
-# فعّاليّةُ الطقس (Ritual Efficacy)
+# السلطةُ الإثنوغرافية (Ethnographic Authority)
 
-The power of ritual to create social reality and transform participants; performative dimension of ritual practice
+The authority of anthropologists to represent and interpret other cultures; challenged by postcolonial and reflexive critiques
 
 ## السياقُ والأصول
 [تفاصيل قريباً]

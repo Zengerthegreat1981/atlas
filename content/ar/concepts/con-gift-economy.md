@@ -1,11 +1,11 @@
 ---
-slug: "con-ritual-efficacy"
-id: "CON-18157"
+slug: "con-gift-economy"
+id: "CON-18160"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"
-title: "فعّاليّةُ الطقس (Ritual Efficacy)"
-en: "فعّاليّةُ الطقس (Ritual Efficacy)"
+title: "اقتصادُ الهديّة (Gift Economy)"
+en: "اقتصادُ الهديّة (Gift Economy)"
 crumb: "الأنثروبولوجيا ← المفاهيم"
 active_start: 1980
 active_end: "مستمر"
@@ -14,9 +14,9 @@ related: []
 gaps: []
 ---
 
-# فعّاليّةُ الطقس (Ritual Efficacy)
+# اقتصادُ الهديّة (Gift Economy)
 
-The power of ritual to create social reality and transform participants; performative dimension of ritual practice
+Mauss's theory of gift exchange; reciprocal social obligation; contrast with market commodification
 
 ## السياقُ والأصول
 [تفاصيل قريباً]

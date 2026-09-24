@@ -1,11 +1,11 @@
 ---
-slug: "con-ritual-efficacy"
-id: "CON-18157"
+slug: "con-social-memory"
+id: "CON-18175"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"
-title: "فعّاليّةُ الطقس (Ritual Efficacy)"
-en: "فعّاليّةُ الطقس (Ritual Efficacy)"
+title: "الذاكرةُ الاجتماعيّة (Social Memory)"
+en: "الذاكرةُ الاجتماعيّة (Social Memory)"
 crumb: "الأنثروبولوجيا ← المفاهيم"
 active_start: 1980
 active_end: "مستمر"
@@ -14,9 +14,9 @@ related: []
 gaps: []
 ---
 
-# فعّاليّةُ الطقس (Ritual Efficacy)
+# الذاكرةُ الاجتماعيّة (Social Memory)
 
-The power of ritual to create social reality and transform participants; performative dimension of ritual practice
+How communities collectively remember and forget; construction of past shapes present identity and politics
 
 ## السياقُ والأصول
 [تفاصيل قريباً]

@@ -1,11 +1,11 @@
 ---
-slug: "con-ritual-efficacy"
-id: "CON-18157"
+slug: "con-decolonizing-methodology"
+id: "CON-18166"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"
-title: "فعّاليّةُ الطقس (Ritual Efficacy)"
-en: "فعّاليّةُ الطقس (Ritual Efficacy)"
+title: "إلغاءُ الاستعمار من المنهجية (Decolonizing Methodology)"
+en: "إلغاءُ الاستعمار من المنهجية (Decolonizing Methodology)"
 crumb: "الأنثروبولوجيا ← المفاهيم"
 active_start: 1980
 active_end: "مستمر"
@@ -14,9 +14,9 @@ related: []
 gaps: []
 ---
 
-# فعّاليّةُ الطقس (Ritual Efficacy)
+# إلغاءُ الاستعمار من المنهجية (Decolonizing Methodology)
 
-The power of ritual to create social reality and transform participants; performative dimension of ritual practice
+Approach to research that centers indigenous knowledge systems and challenges colonial frameworks in knowledge production
 
 ## السياقُ والأصول
 [تفاصيل قريباً]

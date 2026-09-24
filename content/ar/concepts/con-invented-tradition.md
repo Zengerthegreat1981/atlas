@@ -1,11 +1,11 @@
 ---
-slug: "con-ritual-efficacy"
-id: "CON-18157"
+slug: "con-invented-tradition"
+id: "CON-18173"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"
-title: "فعّاليّةُ الطقس (Ritual Efficacy)"
-en: "فعّاليّةُ الطقس (Ritual Efficacy)"
+title: "التقليدُ المخترَع (Invented Tradition)"
+en: "التقليدُ المخترَع (Invented Tradition)"
 crumb: "الأنثروبولوجيا ← المفاهيم"
 active_start: 1980
 active_end: "مستمر"
@@ -14,9 +14,9 @@ related: []
 gaps: []
 ---
 
-# فعّاليّةُ الطقس (Ritual Efficacy)
+# التقليدُ المخترَع (Invented Tradition)
 
-The power of ritual to create social reality and transform participants; performative dimension of ritual practice
+Hobsbawm & Ranger concept: traditions presented as ancient often recently created; power of claiming authenticity
 
 ## السياقُ والأصول
 [تفاصيل قريباً]

@@ -1,11 +1,11 @@
 ---
-slug: "con-ritual-efficacy"
-id: "CON-18157"
+slug: "con-embodiment-culture"
+id: "CON-18170"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"
-title: "فعّاليّةُ الطقس (Ritual Efficacy)"
-en: "فعّاليّةُ الطقس (Ritual Efficacy)"
+title: "التجسّدُ (Embodiment)"
+en: "التجسّدُ (Embodiment)"
 crumb: "الأنثروبولوجيا ← المفاهيم"
 active_start: 1980
 active_end: "مستمر"
@@ -14,9 +14,9 @@ related: []
 gaps: []
 ---
 
-# فعّاليّةُ الطقس (Ritual Efficacy)
+# التجسّدُ (Embodiment)
 
-The power of ritual to create social reality and transform participants; performative dimension of ritual practice
+How cultural meanings are inscribed on and through the body; body as site of culture and power
 
 ## السياقُ والأصول
 [تفاصيل قريباً]

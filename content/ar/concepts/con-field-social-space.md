@@ -1,11 +1,11 @@
 ---
-slug: "con-ritual-efficacy"
-id: "CON-18157"
+slug: "con-field-social-space"
+id: "CON-18162"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"
-title: "فعّاليّةُ الطقس (Ritual Efficacy)"
-en: "فعّاليّةُ الطقس (Ritual Efficacy)"
+title: "الحقلُ الاجتماعيّ (Field)"
+en: "الحقلُ الاجتماعيّ (Field)"
 crumb: "الأنثروبولوجيا ← المفاهيم"
 active_start: 1980
 active_end: "مستمر"
@@ -14,9 +14,9 @@ related: []
 gaps: []
 ---
 
-# فعّاليّةُ الطقس (Ritual Efficacy)
+# الحقلُ الاجتماعيّ (Field)
 
-The power of ritual to create social reality and transform participants; performative dimension of ritual practice
+Bourdieu's spatial metaphor for structured social spaces with distinctive hierarchies, capitals, and rules of play
 
 ## السياقُ والأصول
 [تفاصيل قريباً]
