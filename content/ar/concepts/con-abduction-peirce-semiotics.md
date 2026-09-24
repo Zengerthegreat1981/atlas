@@ -15,6 +15,9 @@ related:
 - id: "sch-peircean-semiotics", title: "السيمياءُ البيرسية (Peircean Semiotics)", type: "مدرسة"
 - id: "con-unlimited-semiosis-peirce", title: "السيميوزيسُ غيرُ المحدود عند بيرس (Unlimited Semiosis)", type: "مفهوم"
 - id: "con-types-of-interpretant-peirce", title: "أنواعُ المؤوَّل الثلاثة عند بيرس: المباشرُ والديناميّ والنهائي", type: "مفهوم"
+- id: "thk-peirce", title: "تشارلز ساندرز بيرس", type: "مفكر"
+- id: "thk-umberto-eco", title: "أمبرتو إيكو", type: "مفكر"
+- id: "thk-thomas-sebeok", title: "توماس سيبيوك", type: "مفكر"
 gaps: []
 ---
 
