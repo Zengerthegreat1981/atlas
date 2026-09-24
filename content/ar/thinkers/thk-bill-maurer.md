@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-anthropological-political-economy", title: "الاقتصادُ السياسيُّ العالميُّ والتاريخ (Eric Wolf — Europe and the People Without History)", type: "مدرسة"
 - id: "thk-stephen-gudeman", title: "ستيڤن غودمان (Stephen Gudeman)", type: "مفكر"
+- id: "thk-caroline-humphrey", title: "كارولين همفري (Caroline Humphrey)", type: "مفكر"
 gaps: []
 ---
 # بيل موِرر (Bill Maurer)
