@@ -1,0 +1,47 @@
+---
+slug: "sch-digital-history-methods"
+id: "SCH-12398"
+type: "مدرسة"
+part: "historiography"
+level: "متوسط"
+title: "التاريخُ الرقميُّ والمناهجُ الحاسوبيّة (Digital History & Computational Methods)"
+en: "Digital History & Computational Methods"
+crumb: "التاريخ ومناهجه ← المناهجُ الحديثة ← التاريخُ الرقميّ"
+dates: "أمريكا وأوروبا · من 2000 إلى مستمر"
+country: "الولايات المتحدة، كندا، بريطانيا"
+language: "الإنجليزية"
+active_start: 2000
+active_end: "مستمر"
+edges: []
+related:
+  - id: "con-digital-archives", title: "الأرشيفاتُ الرقميّة (Digital Archives)", type: "مفهوم"
+  - id: "con-data-analysis-history", title: "تحليلُ البيانات التاريخيّة (Data Analysis)", type: "مفهوم"
+  - id: "con-text-mining-history", title: "تنقيبُ النصوصِ التاريخيّة (Text Mining)", type: "مفهوم"
+gaps:
+  - "هلْ يمكنُ للخوارزمياتِ أن تفهمَ السياقَ التاريخيّ؟"
+  - "مخاطرُ التحيّزِ في الأدواتِ الحاسوبيّة (الذكاء الاصطناعيّ)"
+---
+
+# التاريخُ الرقميُّ والمناهجُ الحاسوبيّة (Digital History & Computational Methods)
+
+مدرسةٌ حديثةٌ تستخدمُ **الحاسوباتِ والبيانات الضخمة** لدراسةِ التاريخ. تشملُ:
+
+- **تنقيبُ النصوصِ** (Text Mining): البحثُ عن أنماطٍ في ملايينِ الوثائق
+- **الخرائطُ التفاعليّة**: تصورُ توزيعِ الأحداث والسكان عبرَ الزمن والمكان
+- **الأرشيفاتُ الرقميّة**: إتاحةُ الوثائقِ التاريخيّة على الإنترنت
+
+## الميزاتُ
+
+- **معالجةُ الكميّاتِ الضخمة** من البيانات (ملايينُ الرسائل والوثائق)
+- **كشفُ الأنماطِ** التي قد لا تظهرُ للعينِ المجردة
+- **تعاونٌ عالميٌّ**: مشاركةُ الأرشيفاتِ والأدواتِ بينَ الباحثين
+
+## التحديّات
+
+- **الخوارزمياتُ ليست محايدة**: قد تعكسُ تحيّزاتِ مبرمجيها
+- **فقدانُ السياق**: معالجةُ البيانات الضخمة قد تطغى على التفاصيلِ والسياق الإنساني
+
+## المصادر
+
+- Cohen, Daniel J., & Rosenzweig, Roy. *Becoming Digital: A Brief Introduction to Digital History*. Thenation.com, 2005.
+- Hitchcock, Tim. *Confronting the Digital Humanities*. In *Journal of Victorian Culture*, 2013.

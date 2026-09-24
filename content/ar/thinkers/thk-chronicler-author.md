@@ -1,11 +1,11 @@
 ---
-slug: "thk-livy"
-id: "THK-12601"
+slug: "thk-chronicler-author"
+id: "THK-12600"
 type: "مفكر"
 part: "historiography"
 level: "متقدم"
-title: "ليفيوس"
-en: "Livy and Roman Imperial Historiography"
+title: "مؤلّفُ الأخبار"
+en: "The Chronicler and Deuteronomic Historiography"
 birth_year: 0
 death_year: 0
 crumb: "التاريخ ومناهجه"
@@ -14,5 +14,5 @@ related: []
 gaps: []
 ---
 
-# ليفيوس
+# مؤلّفُ الأخبار
 

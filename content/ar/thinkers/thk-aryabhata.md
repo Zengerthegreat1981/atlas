@@ -1,11 +1,11 @@
 ---
-slug: "thk-livy"
-id: "THK-12601"
+slug: "thk-aryabhata"
+id: "THK-12598"
 type: "مفكر"
 part: "historiography"
 level: "متقدم"
-title: "ليفيوس"
-en: "Livy and Roman Imperial Historiography"
+title: "آريابهاتا"
+en: "Aryabhata and Mathematical Historiography"
 birth_year: 0
 death_year: 0
 crumb: "التاريخ ومناهجه"
@@ -14,5 +14,5 @@ related: []
 gaps: []
 ---
 
-# ليفيوس
+# آريابهاتا
 
