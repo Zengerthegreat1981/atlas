@@ -1,6 +1,6 @@
 ---
 slug: "con-matrix-language-frame-model-myers-scotton"
-id: "CON-18210"
+id: "CON-18218"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

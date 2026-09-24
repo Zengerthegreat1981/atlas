@@ -1,47 +1,23 @@
 ---
-slug: "thk-mark-turner"
-id: "THK-11001"
-type: "مفكر"
+slug: "mark-turner"
+id: "THK-13190"
+type: "مفكّر"
 part: "linguistics"
 level: "متقدم"
-linguistic_level: "semantics"
-cultural_origin: "anglo-european"
-title: "مارك تيرنر"
+title: "مارك تيرنر (Mark Turner)"
 en: "Mark Turner"
-crumb: "علم اللغة ← اللسانياتُ المعرفية ← مارك تيرنر"
-dates: "الولايات المتحدة · وُلد 1954"
-country: "الولايات المتحدة"
-language: "الإنجليزية"
-active_start: 1991
-active_end: "مستمر"
+crumb: "علم اللغة ← اللسانيون ← مارك تيرنر (Mark Turner)"
+dates: "· 1954–الحاضر"
+birth_year: 1954
+fields: ["conceptual blending", "cognitive linguistics", "metaphor", "narrative"]
+affiliation: "جامعة كاليفورنيا"
+primary_school: "sch-cognitive-linguistics"
 edges:
-- rel: "belongs_to", target: "sch-conceptual-blending-theory", target_type: "مدرسة"
-related:
-- id: "thk-gilles-fauconnier", title: "جيل فوكونييه", type: "مفكر"
-- id: "con-compression-vital-relations-blending", title: "الضغطُ والعلاقاتُ الحيوية في المزج المفهومي (Compression & Vital Relations)", type: "مفهوم"
-- id: "sch-conceptual-blending-theory", title: "فضاءاتُ الذهن والمزجُ المفهوميّ (Mental Spaces & Conceptual Blending)", type: "مدرسة"
-- id: "con-optimality-principles-blending", title: "مبادئُ الأمثلية الحاكمة للمزج المفهومي", type: "مفهوم"
-- id: "wrk-the-way-we-think-fauconnier-turner", title: "الطريقةُ التي نفكِّر بها (The Way We Think)", type: "أثر"
+- rel: "belongs_to", target: "sch-cognitive-linguistics", target_type: "مدرسة"
+related: []
 gaps: []
 ---
 
-# مارك تيرنر
+# مارك تيرنر (Mark Turner)
 
-لغويٌّ معرفيٌّ أمريكيّ، شارك جيل فوكونييه في تأسيس نظرية المزج المفهومي، وامتدّ بها إلى تحليل الأدب والفنّ والفكر الإنساني عموماً.
-
-## من الاستعارة الأدبية إلى العلوم المعرفية
-
-بدأ تيرنر مسارَه ناقداً أدبياً مهتمّاً بالاستعارة الشعرية، قبل أن يتحوّل إلى العلوم المعرفية موظِّفاً أدواتٍ من اللسانيات المعرفية لتحليل كيف يبني الذهنُ الأدبيُّ معانيَ مركَّبة عبر مزج مجالاتٍ مفهوميةٍ متباعدة.
-
-## المزجُ المفهومي والإبداع الإنساني
-
-في عمله المشترك مع فوكونييه *The Way We Think* (2002)، جادل بأن المزجَ المفهومي ليس أداةً بلاغيةً هامشية بل آليةٌ معرفيةٌ مركزيةٌ تفسّر قدراتٍ إنسانيةً أساسيةً كالسببية والتقمّص الوجداني والإبداع الفني والعلمي، لا الاستعارةَ الأدبية وحدها.
-
-## الأثر
-
-وسّع تيرنر نطاقَ تطبيق نظرية المزج إلى الرياضيات والفنّ والدين والقانون، مقترحاً أنها بنيةٌ معرفيةٌ عامّة تتجاوز اللغة إلى الفكر الإنساني ككلّ.
-
-## المصادر
-
-- Fauconnier, Gilles; Turner, Mark (2002). *The Way We Think: Conceptual Blending and the Mind's Hidden Complexities*. Basic Books.
-- Turner, Mark (1996). *The Literary Mind*. Oxford University Press.
+[تحت الإنشاء - سيُملأ بتفاصيل شاملة لاحقاً]

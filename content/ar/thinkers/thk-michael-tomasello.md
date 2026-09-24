@@ -1,50 +1,23 @@
 ---
-slug: "thk-michael-tomasello"
-id: "THK-10935"
-type: "مفكر"
+slug: "michael-tomasello"
+id: "THK-13197"
+type: "مفكّر"
 part: "linguistics"
 level: "متقدم"
-linguistic_level: "pragmatics"
-cultural_origin: "anglo-european"
-title: "مايكل توماسيلو"
+title: "مايكل توماسيللو (Michael Tomasello)"
 en: "Michael Tomasello"
-crumb: "علم اللغة ← العقلُ والدماغُ واللغة ← مايكل توماسيلو"
-dates: "الولايات المتحدة · وُلد 1950"
-country: "الولايات المتحدة"
-language: "الإنجليزية"
-active_start: 1990
-active_end: "مستمر"
+crumb: "علم اللغة ← اللسانيون ← مايكل توماسيللو (Michael Tomasello)"
+dates: "· 1950–الحاضر"
+birth_year: 1950
+fields: ["usage-based linguistics", "child development", "construction grammar", "theory of mind"]
+affiliation: "معهد ماكس بلانك"
+primary_school: "sch-usage-based-linguistics"
 edges:
-- rel: "belongs_to", target: "sch-language-evolution", target_type: "مدرسة"
-related:
-- id: "dbt-innateness-vs-usage-based-language-acquisition", title: "جدلُ الفطرية اللغوية مقابل الاستعمالية في اكتساب اللغة", type: "جدل"
-- id: "sch-second-language-acquisition", title: "اكتسابُ اللغة الثانيةُ والفترةُ الحرجة (SLA & Critical Period)", type: "مدرسة"
-- id: "wrk-constructing-a-language-tomasello", title: "بناءُ لغة: نظريةٌ استعمالية لاكتساب اللغة (Constructing a Language)", type: "أثر"
-- id: "sch-usage-based-grammar", title: "النحوُ الناشئُ عن الاستعمال (Usage-Based Grammar)", type: "مدرسة"
-- id: "con-intention-reading-pattern-finding-tomasello", title: "قراءةُ النيّة وإيجادُ النمط عند توماسيلو", type: "مفهوم"
-- id: "con-shared-intentionality-tomasello", title: "القصديةُ المشتركةُ عند توماسيلو (Shared Intentionality)", type: "مفهوم"
-gaps:
-  - "لم يُعثر على ترجمةٍ عربيةٍ محقَّقةٍ لأعمال توماسيلو الأصلية ضمن مصادر الأطلس؛ الاعتماد على النصوص الإنجليزية الأصلية."
-  - "**سُدَّ 2026-09-22 (الدفعة 254)**: أُضيف رابطُ `sch-usage-based-grammar` الذي كان ناقصاً رغم انتماء توماسيلو إليها موضوعياً."
+- rel: "belongs_to", target: "sch-usage-based-linguistics", target_type: "مدرسة"
+related: []
+gaps: []
 ---
 
-# مايكل توماسيلو
+# مايكل توماسيللو (Michael Tomasello)
 
-عالمُ نفسٍ تطوّريٍّ ولغويٌّ أمريكيّ، طوّر نظريةً استعماليةً بديلةً لأصل اللغة واكتسابها، ترى جذورَها في القدرات الإدراكية-الاجتماعية المشتركة بدل بنيةٍ نحويةٍ فطريةٍ متخصّصة.
-
-## الفرضيةُ الاستعمالية لاكتساب اللغة
-
-يرى توماسيلو أن الطفلَ يكتسب اللغةَ لا عبر تفعيل نحوٍ كلّيٍّ فطريٍّ متخصّص، بل عبر آلياتٍ إدراكيةٍ واجتماعيةٍ عامّة (تقليدُ الأنماط، قراءةُ نوايا الآخرين، التعرّفُ على الأنماط المتكرّرة) تُطبَّق تدريجياً على مدخلات الكلام المسموع، بحيث تُبنى البنيةُ النحوية "من أسفل إلى أعلى" انطلاقاً من "بُنى" استعمالية محدَّدة، لا من قواعدَ مجرَّدة سابقة.
-
-## القصديةُ المشتركة وأصلُ التواصل
-
-في عمله عن أصل اللغة البشرية، يربط توماسيلو قدرةَ التواصل الرمزي بقدرةٍ معرفيةٍ-اجتماعيةٍ أعمق فريدةٍ بالبشر: "القصديةُ المشتركة" (Shared Intentionality)، القدرةُ على بناء أهدافٍ وانتباهٍ مشتركَين تعاونياً مع الآخرين، وهي قدرةٌ يرى أنها غائبةٌ أو ضعيفةٌ عند القرود العليا الأخرى، وتفسّر لماذا طوّر البشرُ وحدهم تواصلاً لغوياً بهذا التعقيد.
-
-## الجدلُ مع الفطرية التوليدية
-
-يمثّل موقفُ توماسيلو أحدَ أبرز البدائل النظرية لفرضية النحو الكلّي الفطري عند تشومسكي، ويُستشهَد به عادةً كطرفٍ رئيسيٍّ في جدل الفطرية مقابل الاستعمالية في اكتساب اللغة، دون أن يعني ذلك حسماً علمياً للجدل نفسه.
-
-## المصادر
-
-- Tomasello, Michael (2003). *Constructing a Language: A Usage-Based Theory of Language Acquisition*. Harvard University Press.
-- Tomasello, Michael (2008). *Origins of Human Communication*. MIT Press.
+[تحت الإنشاء - سيُملأ بتفاصيل شاملة لاحقاً]
