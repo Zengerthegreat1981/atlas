@@ -18,6 +18,7 @@ related:
 - id: "sch-postcolonial-critique-anthropology", title: "النقدُ ما بعد الاستعماريّ للأنثروبولوجيا (Asad, Anthropology and the Colonial Encounter)", type: "مدرسة"
 - id: "thk-leith-mullings", title: "ليث مولينغز (Leith Mullings)", type: "مفكر"
 - id: "thk-johnnetta-cole", title: "جونيتا بيتش كول (Johnnetta Betsch Cole)", type: "مفكر"
+- id: "thk-lynn-bolles", title: "إيه. لين بولز (A. Lynn Bolles)", type: "مفكر"
 gaps: []
 ---
 # فاي ڤ. هاريسون (Faye V. Harrison)
