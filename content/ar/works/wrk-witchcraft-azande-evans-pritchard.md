@@ -1,27 +1,27 @@
 ---
-slug: "wrk-ritual-process-turner"
-id: "WRK-13096"
+slug: "wrk-witchcraft-azande-evans-pritchard"
+id: "WRK-13091"
 type: "عمل"
 part: "anthropology"
 level: "متقدم"
-title: "عمليةُ الطقس (The Ritual Process)"
-en: "The Ritual Process: Structure and Anti-Structure"
+title: "السحرُ عند الأزاندة (Witchcraft, Oracles and Magic among the Azande)"
+en: "Witchcraft, Oracles and Magic among the Azande"
 crumb: "الأنثروبولوجيا ← الكلاسيكيات"
-active_start: 1969
+active_start: 1937
 active_end: 2100
 language: "الإنجليزية"
-published: 1969
+published: 1937
 publisher: "Academic Press"
-author: "thk-victor-turner"
+author: "thk-evans-pritchard"
 pages: 300
 edges: []
 related: []
 gaps: []
 ---
 
-# عمليةُ الطقس (The Ritual Process)
+# السحرُ عند الأزاندة (Witchcraft, Oracles and Magic among the Azande)
 
-Seminal work on liminality and the structure of ritual
+Classic work on Azande concepts of causality and witchcraft
 
 ## المحتوىُ الأساسيّ
 [تفاصيل قريباً]

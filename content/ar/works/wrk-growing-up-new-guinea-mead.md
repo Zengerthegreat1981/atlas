@@ -1,27 +1,27 @@
 ---
-slug: "wrk-ritual-process-turner"
-id: "WRK-13096"
+slug: "wrk-growing-up-new-guinea-mead"
+id: "WRK-13105"
 type: "عمل"
 part: "anthropology"
 level: "متقدم"
-title: "عمليةُ الطقس (The Ritual Process)"
-en: "The Ritual Process: Structure and Anti-Structure"
+title: "النموُ في غينيا الجديدة (Growing Up in New Guinea)"
+en: "Growing Up in New Guinea"
 crumb: "الأنثروبولوجيا ← الكلاسيكيات"
-active_start: 1969
+active_start: 1930
 active_end: 2100
 language: "الإنجليزية"
-published: 1969
+published: 1930
 publisher: "Academic Press"
-author: "thk-victor-turner"
+author: "thk-margaret-mead"
 pages: 300
 edges: []
 related: []
 gaps: []
 ---
 
-# عمليةُ الطقس (The Ritual Process)
+# النموُ في غينيا الجديدة (Growing Up in New Guinea)
 
-Seminal work on liminality and the structure of ritual
+Mead's comparative study of child development
 
 ## المحتوىُ الأساسيّ
 [تفاصيل قريباً]

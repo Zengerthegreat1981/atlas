@@ -1,27 +1,27 @@
 ---
-slug: "wrk-ritual-process-turner"
-id: "WRK-13096"
+slug: "wrk-coming-age-samoa-mead"
+id: "WRK-13104"
 type: "عمل"
 part: "anthropology"
 level: "متقدم"
-title: "عمليةُ الطقس (The Ritual Process)"
-en: "The Ritual Process: Structure and Anti-Structure"
+title: "النمو في ساموا (Coming of Age in Samoa)"
+en: "Coming of Age in Samoa: A Psychological Study of Primitive Youth for Western Civilisation"
 crumb: "الأنثروبولوجيا ← الكلاسيكيات"
-active_start: 1969
+active_start: 1928
 active_end: 2100
 language: "الإنجليزية"
-published: 1969
+published: 1928
 publisher: "Academic Press"
-author: "thk-victor-turner"
+author: "thk-margaret-mead"
 pages: 300
 edges: []
 related: []
 gaps: []
 ---
 
-# عمليةُ الطقس (The Ritual Process)
+# النمو في ساموا (Coming of Age in Samoa)
 
-Seminal work on liminality and the structure of ritual
+Mead's controversial study of adolescence in Samoa
 
 ## المحتوىُ الأساسيّ
 [تفاصيل قريباً]

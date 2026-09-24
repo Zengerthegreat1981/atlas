@@ -1,27 +1,27 @@
 ---
-slug: "wrk-ritual-process-turner"
-id: "WRK-13096"
+slug: "wrk-argonauts-malinowski"
+id: "WRK-13089"
 type: "عمل"
 part: "anthropology"
 level: "متقدم"
-title: "عمليةُ الطقس (The Ritual Process)"
-en: "The Ritual Process: Structure and Anti-Structure"
+title: "تجارُ الجُزرِ البعيدة (Argonauts of the Western Pacific)"
+en: "Argonauts of the Western Pacific"
 crumb: "الأنثروبولوجيا ← الكلاسيكيات"
-active_start: 1969
+active_start: 1922
 active_end: 2100
 language: "الإنجليزية"
-published: 1969
+published: 1922
 publisher: "Academic Press"
-author: "thk-victor-turner"
+author: "thk-bourdieu"
 pages: 300
 edges: []
 related: []
 gaps: []
 ---
 
-# عمليةُ الطقس (The Ritual Process)
+# تجارُ الجُزرِ البعيدة (Argonauts of the Western Pacific)
 
-Seminal work on liminality and the structure of ritual
+Malinowski's classic ethnography of Trobriand trading networks, foundational work for functionalism
 
 ## المحتوىُ الأساسيّ
 [تفاصيل قريباً]

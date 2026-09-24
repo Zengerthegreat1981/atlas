@@ -1,27 +1,27 @@
 ---
-slug: "wrk-ritual-process-turner"
-id: "WRK-13096"
+slug: "wrk-world-conquest-colonialism-wolf"
+id: "WRK-13112"
 type: "عمل"
 part: "anthropology"
 level: "متقدم"
-title: "عمليةُ الطقس (The Ritual Process)"
-en: "The Ritual Process: Structure and Anti-Structure"
+title: "الفتحُ العالميّ والاستعمار (Europe and the People Without History)"
+en: "Europe and the People Without History"
 crumb: "الأنثروبولوجيا ← الكلاسيكيات"
-active_start: 1969
+active_start: 1982
 active_end: 2100
 language: "الإنجليزية"
-published: 1969
+published: 1982
 publisher: "Academic Press"
-author: "thk-victor-turner"
+author: "thk-eric-wolf"
 pages: 300
 edges: []
 related: []
 gaps: []
 ---
 
-# عمليةُ الطقس (The Ritual Process)
+# الفتحُ العالميّ والاستعمار (Europe and the People Without History)
 
-Seminal work on liminality and the structure of ritual
+Wolf's political economy analysis of global colonialism
 
 ## المحتوىُ الأساسيّ
 [تفاصيل قريباً]

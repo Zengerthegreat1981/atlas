@@ -1,20 +1,33 @@
 ---
 slug: "wrk-nuer-evans-pritchard"
-id: "WRK-12450"
+id: "WRK-13093"
 type: "عمل"
 part: "anthropology"
-level: "متوسط"
-title: "النوير (إيفانز بريتشارد)"
-en: "The Nuer"
-crumb: "anthropology ← النوير (إيفانز بريتشارد)"
+level: "متقدم"
+title: "قبائلُ النوير (The Nuer)"
+en: "The Nuer: A Description of the Modes of Livelihood and Political Institutions of a Nilotic People"
+crumb: "الأنثروبولوجيا ← الكلاسيكيات"
+active_start: 1940
+active_end: 2100
+language: "الإنجليزية"
+published: 1940
+publisher: "Academic Press"
+author: "thk-evans-pritchard"
+pages: 300
 edges: []
 related: []
 gaps: []
 ---
 
-# النوير (إيفانز بريتشارد)
+# قبائلُ النوير (The Nuer)
 
-**مفهوم:** النوير (إيفانز بريتشارد)
+Foundational structural-functional analysis of Nuer political organization
 
-## المراجع
-- OpenLibrary / CrossRef pending
+## المحتوىُ الأساسيّ
+[تفاصيل قريباً]
+
+## التأثيرُ والإرثُ
+[تفاصيل قريباً]
+
+## المصادرُ
+- Primary publication record

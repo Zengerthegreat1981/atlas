@@ -1,27 +1,27 @@
 ---
-slug: "wrk-ritual-process-turner"
-id: "WRK-13096"
+slug: "wrk-webs-kinship-fortes"
+id: "WRK-13110"
 type: "عمل"
 part: "anthropology"
 level: "متقدم"
-title: "عمليةُ الطقس (The Ritual Process)"
-en: "The Ritual Process: Structure and Anti-Structure"
+title: "شبكاتُ القرابة (The Web of Kinship Among the Tallensi)"
+en: "The Web of Kinship Among the Tallensi"
 crumb: "الأنثروبولوجيا ← الكلاسيكيات"
-active_start: 1969
+active_start: 1949
 active_end: 2100
 language: "الإنجليزية"
-published: 1969
+published: 1949
 publisher: "Academic Press"
-author: "thk-victor-turner"
+author: "thk-meyer-fortes"
 pages: 300
 edges: []
 related: []
 gaps: []
 ---
 
-# عمليةُ الطقس (The Ritual Process)
+# شبكاتُ القرابة (The Web of Kinship Among the Tallensi)
 
-Seminal work on liminality and the structure of ritual
+Fortes's structural analysis of kinship systems
 
 ## المحتوىُ الأساسيّ
 [تفاصيل قريباً]

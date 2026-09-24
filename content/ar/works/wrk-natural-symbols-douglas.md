@@ -1,27 +1,27 @@
 ---
-slug: "wrk-ritual-process-turner"
-id: "WRK-13096"
+slug: "wrk-natural-symbols-douglas"
+id: "WRK-13100"
 type: "عمل"
 part: "anthropology"
 level: "متقدم"
-title: "عمليةُ الطقس (The Ritual Process)"
-en: "The Ritual Process: Structure and Anti-Structure"
+title: "الرموزُ الطبيعية (Natural Symbols)"
+en: "Natural Symbols: Explorations in Cosmology"
 crumb: "الأنثروبولوجيا ← الكلاسيكيات"
-active_start: 1969
+active_start: 1970
 active_end: 2100
 language: "الإنجليزية"
-published: 1969
+published: 1970
 publisher: "Academic Press"
-author: "thk-victor-turner"
+author: "thk-mary-douglas"
 pages: 300
 edges: []
 related: []
 gaps: []
 ---
 
-# عمليةُ الطقس (The Ritual Process)
+# الرموزُ الطبيعية (Natural Symbols)
 
-Seminal work on liminality and the structure of ritual
+Douglas on body symbolism and social organization
 
 ## المحتوىُ الأساسيّ
 [تفاصيل قريباً]

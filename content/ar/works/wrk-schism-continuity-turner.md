@@ -1,16 +1,16 @@
 ---
-slug: "wrk-ritual-process-turner"
-id: "WRK-13096"
+slug: "wrk-schism-continuity-turner"
+id: "WRK-13095"
 type: "عمل"
 part: "anthropology"
 level: "متقدم"
-title: "عمليةُ الطقس (The Ritual Process)"
-en: "The Ritual Process: Structure and Anti-Structure"
+title: "الانقسامُ والاستمرار (Schism and Continuity in an African Society)"
+en: "Schism and Continuity in an African Society"
 crumb: "الأنثروبولوجيا ← الكلاسيكيات"
-active_start: 1969
+active_start: 1957
 active_end: 2100
 language: "الإنجليزية"
-published: 1969
+published: 1957
 publisher: "Academic Press"
 author: "thk-victor-turner"
 pages: 300
@@ -19,9 +19,9 @@ related: []
 gaps: []
 ---
 
-# عمليةُ الطقس (The Ritual Process)
+# الانقسامُ والاستمرار (Schism and Continuity in an African Society)
 
-Seminal work on liminality and the structure of ritual
+Diachronic analysis of Ndembu social change
 
 ## المحتوىُ الأساسيّ
 [تفاصيل قريباً]

@@ -1,27 +1,27 @@
 ---
-slug: "wrk-ritual-process-turner"
-id: "WRK-13096"
+slug: "wrk-sweet-salt-mintz"
+id: "WRK-13113"
 type: "عمل"
 part: "anthropology"
 level: "متقدم"
-title: "عمليةُ الطقس (The Ritual Process)"
-en: "The Ritual Process: Structure and Anti-Structure"
+title: "الحلاوةُ والملح (Tasting Food, Tasting Freedom)"
+en: "Tasting Food, Tasting Freedom: Excursions into Eating, Culture, and the Past"
 crumb: "الأنثروبولوجيا ← الكلاسيكيات"
-active_start: 1969
+active_start: 1996
 active_end: 2100
 language: "الإنجليزية"
-published: 1969
+published: 1996
 publisher: "Academic Press"
-author: "thk-victor-turner"
+author: "thk-sidney-mintz"
 pages: 300
 edges: []
 related: []
 gaps: []
 ---
 
-# عمليةُ الطقس (The Ritual Process)
+# الحلاوةُ والملح (Tasting Food, Tasting Freedom)
 
-Seminal work on liminality and the structure of ritual
+Mintz on sugar, consumption, and colonialism
 
 ## المحتوىُ الأساسيّ
 [تفاصيل قريباً]

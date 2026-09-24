@@ -1,27 +1,27 @@
 ---
-slug: "wrk-ritual-process-turner"
-id: "WRK-13096"
+slug: "wrk-rethinking-anthropology-leach"
+id: "WRK-13102"
 type: "عمل"
 part: "anthropology"
 level: "متقدم"
-title: "عمليةُ الطقس (The Ritual Process)"
-en: "The Ritual Process: Structure and Anti-Structure"
+title: "إعادةُ التفكيرِ في الأنثروبولوجيا (Rethinking Anthropology)"
+en: "Rethinking Anthropology"
 crumb: "الأنثروبولوجيا ← الكلاسيكيات"
-active_start: 1969
+active_start: 1961
 active_end: 2100
 language: "الإنجليزية"
-published: 1969
+published: 1961
 publisher: "Academic Press"
-author: "thk-victor-turner"
+author: "thk-edmund-leach"
 pages: 300
 edges: []
 related: []
 gaps: []
 ---
 
-# عمليةُ الطقس (The Ritual Process)
+# إعادةُ التفكيرِ في الأنثروبولوجيا (Rethinking Anthropology)
 
-Seminal work on liminality and the structure of ritual
+Collection of Leach's theoretical essays
 
 ## المحتوىُ الأساسيّ
 [تفاصيل قريباً]

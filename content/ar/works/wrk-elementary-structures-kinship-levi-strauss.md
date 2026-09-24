@@ -1,27 +1,27 @@
 ---
-slug: "wrk-ritual-process-turner"
-id: "WRK-13096"
+slug: "wrk-elementary-structures-kinship-levi-strauss"
+id: "WRK-13111"
 type: "عمل"
 part: "anthropology"
 level: "متقدم"
-title: "عمليةُ الطقس (The Ritual Process)"
-en: "The Ritual Process: Structure and Anti-Structure"
+title: "البنىُ الأولية للقرابة (The Elementary Structures of Kinship)"
+en: "The Elementary Structures of Kinship"
 crumb: "الأنثروبولوجيا ← الكلاسيكيات"
-active_start: 1969
+active_start: 1949
 active_end: 2100
 language: "الإنجليزية"
-published: 1969
+published: 1949
 publisher: "Academic Press"
-author: "thk-victor-turner"
+author: "thk-claude-levi-strauss"
 pages: 300
 edges: []
 related: []
 gaps: []
 ---
 
-# عمليةُ الطقس (The Ritual Process)
+# البنىُ الأولية للقرابة (The Elementary Structures of Kinship)
 
-Seminal work on liminality and the structure of ritual
+Lévi-Strauss's structuralist analysis of kinship systems
 
 ## المحتوىُ الأساسيّ
 [تفاصيل قريباً]

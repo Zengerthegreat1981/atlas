@@ -1,27 +1,27 @@
 ---
-slug: "wrk-ritual-process-turner"
-id: "WRK-13096"
+slug: "wrk-purity-danger-douglas"
+id: "WRK-13099"
 type: "عمل"
 part: "anthropology"
 level: "متقدم"
-title: "عمليةُ الطقس (The Ritual Process)"
-en: "The Ritual Process: Structure and Anti-Structure"
+title: "الطهارةُ والخطر (Purity and Danger)"
+en: "Purity and Danger: An Analysis of Concepts of Pollution and Taboo"
 crumb: "الأنثروبولوجيا ← الكلاسيكيات"
-active_start: 1969
+active_start: 1966
 active_end: 2100
 language: "الإنجليزية"
-published: 1969
+published: 1966
 publisher: "Academic Press"
-author: "thk-victor-turner"
+author: "thk-mary-douglas"
 pages: 300
 edges: []
 related: []
 gaps: []
 ---
 
-# عمليةُ الطقس (The Ritual Process)
+# الطهارةُ والخطر (Purity and Danger)
 
-Seminal work on liminality and the structure of ritual
+Douglas's structuralist analysis of pollution concepts across cultures
 
 ## المحتوىُ الأساسيّ
 [تفاصيل قريباً]

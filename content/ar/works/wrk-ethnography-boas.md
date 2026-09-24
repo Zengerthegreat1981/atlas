@@ -1,27 +1,27 @@
 ---
-slug: "wrk-ritual-process-turner"
-id: "WRK-13096"
+slug: "wrk-ethnography-boas"
+id: "WRK-13109"
 type: "عمل"
 part: "anthropology"
 level: "متقدم"
-title: "عمليةُ الطقس (The Ritual Process)"
-en: "The Ritual Process: Structure and Anti-Structure"
+title: "الإثنوغرافيا (Ethnography)"
+en: "Handbook of American Indian Languages & Ethnographic Collected Works"
 crumb: "الأنثروبولوجيا ← الكلاسيكيات"
-active_start: 1969
+active_start: 1911
 active_end: 2100
 language: "الإنجليزية"
-published: 1969
+published: 1911
 publisher: "Academic Press"
-author: "thk-victor-turner"
+author: "thk-franz-boas"
 pages: 300
 edges: []
 related: []
 gaps: []
 ---
 
-# عمليةُ الطقس (The Ritual Process)
+# الإثنوغرافيا (Ethnography)
 
-Seminal work on liminality and the structure of ritual
+Boas's foundational ethnographic methods
 
 ## المحتوىُ الأساسيّ
 [تفاصيل قريباً]

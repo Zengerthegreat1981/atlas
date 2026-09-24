@@ -1,16 +1,16 @@
 ---
-slug: "wrk-ritual-process-turner"
-id: "WRK-13096"
+slug: "wrk-forest-symbols-turner"
+id: "WRK-13094"
 type: "عمل"
 part: "anthropology"
 level: "متقدم"
-title: "عمليةُ الطقس (The Ritual Process)"
-en: "The Ritual Process: Structure and Anti-Structure"
+title: "غابةُ الرموز (The Forest of Symbols)"
+en: "The Forest of Symbols: Aspects of Ndembu Ritual"
 crumb: "الأنثروبولوجيا ← الكلاسيكيات"
-active_start: 1969
+active_start: 1967
 active_end: 2100
 language: "الإنجليزية"
-published: 1969
+published: 1967
 publisher: "Academic Press"
 author: "thk-victor-turner"
 pages: 300
@@ -19,9 +19,9 @@ related: []
 gaps: []
 ---
 
-# عمليةُ الطقس (The Ritual Process)
+# غابةُ الرموز (The Forest of Symbols)
 
-Seminal work on liminality and the structure of ritual
+Turner's symbolic analysis of Ndembu rituals, influencing interpretive anthropology
 
 ## المحتوىُ الأساسيّ
 [تفاصيل قريباً]

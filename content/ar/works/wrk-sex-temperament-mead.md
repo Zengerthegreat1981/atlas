@@ -1,36 +1,33 @@
 ---
 slug: "wrk-sex-temperament-mead"
-id: "WRK-9404"
-type: "عمل / كتاب"
+id: "WRK-13106"
+type: "عمل"
 part: "anthropology"
-level: "متوسط"
-title: "الجنسُ والمزاجُ في ثلاث مجتمعات بدائية (Sex and Temperament)"
+level: "متقدم"
+title: "الجنسُ والمزاج (Sex and Temperament in Three Primitive Societies)"
 en: "Sex and Temperament in Three Primitive Societies"
-crumb: "الأنثروبولوجيا ← الثقافة والشخصية ← الجنس والمزاج"
-author: "مارغريت ميد"
-author_slug: "thk-margaret-mead"
-publication_year: 1935
-original_language: "الإنجليزية"
+crumb: "الأنثروبولوجيا ← الكلاسيكيات"
 active_start: 1935
-active_end: 1935
-edges:
-- rel: "belongs_to", target: "sch-culture-and-personality", target_type: "مدرسة"
-related:
-- id: "thk-margaret-mead", title: "مارغريت ميد (Margaret Mead)", type: "مفكر"
+active_end: 2100
+language: "الإنجليزية"
+published: 1935
+publisher: "Academic Press"
+author: "thk-margaret-mead"
+pages: 300
+edges: []
+related: []
 gaps: []
 ---
-# الجنسُ والمزاجُ في ثلاث مجتمعات بدائية (Sex and Temperament)
 
-عملُ مارغريت ميد (1935)، يقارن أدوارَ الجنسين عند ثلاث جماعاتٍ في غينيا الجديدة.
+# الجنسُ والمزاج (Sex and Temperament in Three Primitive Societies)
 
-## الأطروحة
+Mead's analysis of gender and personality variation
 
-درست ميد ثلاثَ جماعاتٍ متجاورة جغرافياً لكنها متباينة جذرياً في تنظيم أدوار الجنسين: الأرابيش (كلا الجنسين يميل إلى سماتٍ «أموية» رعائية بالمعايير الغربية)، والموندوغومور (كلا الجنسين عدوانيّ وقاسٍ)، والتشامبولي (عكسُ الأدوار الجندرية الغربية النمطية — النساءُ مهيمناتٌ عملياً والرجالُ زخرفيّون عاطفياً). خلصت إلى أنّ السماتِ المرتبطة عادةً بـ«الذكورة» و«الأنوثة» في الثقافة الغربية متغيِّرةٌ ثقافياً بالكامل لا حتميةً بيولوجية جنسية.
+## المحتوىُ الأساسيّ
+[تفاصيل قريباً]
 
-## الأثر
+## التأثيرُ والإرثُ
+[تفاصيل قريباً]
 
-أصبح هذا الكتابُ حجّةً مركزية مؤثِّرة لاحقاً في الأنثروبولوجيا النسوية وفي الحركة النسوية الثانية، لدعم فكرة أنّ الجندرَ بناءٌ اجتماعيّ-ثقافي لا معطًى بيولوجيّ ثابت.
-
-## المصادر
-
-- Mead, Margaret. *Sex and Temperament in Three Primitive Societies*. William Morrow & Company, 1935.
+## المصادرُ
+- Primary publication record

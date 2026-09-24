@@ -1,27 +1,27 @@
 ---
-slug: "wrk-ritual-process-turner"
-id: "WRK-13096"
+slug: "wrk-nuer-religion-evans-pritchard"
+id: "WRK-13092"
 type: "عمل"
 part: "anthropology"
 level: "متقدم"
-title: "عمليةُ الطقس (The Ritual Process)"
-en: "The Ritual Process: Structure and Anti-Structure"
+title: "دينُ النّوير (Nuer Religion)"
+en: "Nuer Religion"
 crumb: "الأنثروبولوجيا ← الكلاسيكيات"
-active_start: 1969
+active_start: 1956
 active_end: 2100
 language: "الإنجليزية"
-published: 1969
+published: 1956
 publisher: "Academic Press"
-author: "thk-victor-turner"
+author: "thk-evans-pritchard"
 pages: 300
 edges: []
 related: []
 gaps: []
 ---
 
-# عمليةُ الطقس (The Ritual Process)
+# دينُ النّوير (Nuer Religion)
 
-Seminal work on liminality and the structure of ritual
+Evans-Pritchard's study of spiritual concepts among Nuer herders
 
 ## المحتوىُ الأساسيّ
 [تفاصيل قريباً]

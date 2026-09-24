@@ -1,27 +1,27 @@
 ---
-slug: "wrk-ritual-process-turner"
-id: "WRK-13096"
+slug: "wrk-patterns-culture-benedict"
+id: "WRK-13103"
 type: "عمل"
 part: "anthropology"
 level: "متقدم"
-title: "عمليةُ الطقس (The Ritual Process)"
-en: "The Ritual Process: Structure and Anti-Structure"
+title: "أنماطُ الثقافة (Patterns of Culture)"
+en: "Patterns of Culture"
 crumb: "الأنثروبولوجيا ← الكلاسيكيات"
-active_start: 1969
+active_start: 1934
 active_end: 2100
 language: "الإنجليزية"
-published: 1969
+published: 1934
 publisher: "Academic Press"
-author: "thk-victor-turner"
+author: "thk-ruth-benedict"
 pages: 300
 edges: []
 related: []
 gaps: []
 ---
 
-# عمليةُ الطقس (The Ritual Process)
+# أنماطُ الثقافة (Patterns of Culture)
 
-Seminal work on liminality and the structure of ritual
+Benedict's comparative analysis of three cultures and cultural patterns
 
 ## المحتوىُ الأساسيّ
 [تفاصيل قريباً]
