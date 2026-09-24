@@ -18,6 +18,7 @@ related:
 - id: "sch-anthropological-political-economy", title: "الاقتصادُ السياسيُّ العالميُّ والتاريخ (Eric Wolf — Europe and the People Without History)", type: "مدرسة"
 - id: "thk-raymond-firth", title: "ريموند فيرث (Raymond Firth)", type: "مفكر"
 - id: "thk-laura-bohannan", title: "لورا بوهانان (Laura Bohannan)", type: "مفكر"
+- id: "thk-elizabeth-chin", title: "إليزابيث تشين (Elizabeth Chin)", type: "مفكر"
 gaps:
   - "استُعيد هذا الملفُّ بعد أن استبدلته جلسةٌ متزامنة (علم الأديان) بمحتوًى مختلفٍ تحت `part: \"religious-studies\"` ثم حُذف الملفُّ كليّاً في تصحيحٍ لاحق من جلسةٍ ثالثة (اللسانيات)؛ أُعيد إنشاءُ المحتوى الأصليّ من تاريخ Git (الالتزام 5040e4ec) دون تغيير."
 ---
