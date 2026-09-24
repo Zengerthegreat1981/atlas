@@ -20,6 +20,7 @@ related:
 - id: "wrk-ethnic-groups-boundaries-barth", title: "الجماعاتُ الإثنية وحدودُها (Ethnic Groups and Boundaries)", type: "عمل / كتاب"
 - id: "wrk-political-leadership-swat-pathans-barth", title: "السياسةُ القبَلية عند السوات پاتان (Political Leadership Among Swat Pathans)", type: "عمل / كتاب"
 - id: "thk-edmund-leach", title: "إدموند ليتش (Edmund Leach)", type: "مفكر"
+- id: "thk-thomas-hylland-eriksen", title: "توماس هيلاند إريكسن (Thomas Hylland Eriksen)", type: "مفكر"
 gaps:
   - "بارت نرويجيٌّ تتلمذ جزئياً في مانشستر تحت إشراف غير مباشر من تقاليدها التحليلية، لكنه طوّر لاحقاً مدرسةً خاصّةً به («التفاعلية»، Transactionalism) في جامعتي بيرغن وأوسلو أقربَ إلى الفردانية المنهجية من جماعية مانشستر الصريحة؛ انتماؤه لمدرسة مانشستر هنا محدودٌ بحكم تتلمذه المبكِّر عليها لا بتطابق كامل مشروعه اللاحق معها."
 ---
