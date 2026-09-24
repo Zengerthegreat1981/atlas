@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-manchester-school", title: "مدرسةُ مانشستر وتحليلُ الموقف (Manchester School)", type: "مدرسة"
 - id: "thk-setha-low", title: "سيثا لو (Setha Low)", type: "مفكر"
+- id: "thk-james-holston", title: "جيمس هولستون (James Holston)", type: "مفكر"
 gaps: []
 ---
 # تيريزا كالديرا (Teresa P.R. Caldeira)
