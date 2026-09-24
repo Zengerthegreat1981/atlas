@@ -16,6 +16,10 @@ sources:
 
 See also: Adler; intelligence and intelligence testing. Bowlby, John E. (1907- ) John Bowlby is best known for his pioneering research on the development and nature of mother-child attachment and for his long association with the child family psychiatry service at the Tavistock Clinic in London. Born on 26 February 1907 in London into a medical family, he was educated at Dartmouth and Trinity Coll
 
+## Arabic Equivalents
+
+- [التفرد واكتمال الذات (Individuation): رحلة النضج وتكامل النفس](../../ar/terms/trm-individuation-jung.md) - *Translating Individuation: Self-Realization, Psychological Wholeness, and Integration in Jung*
+
 ## See also
 
 - Related concepts in psychology

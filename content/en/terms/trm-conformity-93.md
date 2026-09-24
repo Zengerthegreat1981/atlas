@@ -16,6 +16,10 @@ sources:
 
 of data collection without significantly reducing the level of conformity. Deutsch and Gerard increased the individual’s independence in the Asch situation by either increasing the salience of self to self (by requiring subjects to note down their own responses before hearing the responses of the others) or by decreasing the salience of self to others (with anonymous responding). Milgram’s experim
 
+## Arabic Equivalents
+
+- [القناع الاجتماعي (Persona): الواجهة الظاهرية للتكيف مع العالم](../../ar/terms/trm-persona-jung.md) - *Translating Persona: The Social Mask, Conformity Archetype, and Public Role in Jung*
+
 ## See also
 
 - Related concepts in psychology

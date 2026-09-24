@@ -16,6 +16,10 @@ sources:
 
 Although psychoanalysts and other clinicians have long relied heavily on fantasies reported during psychotherapy sessions, recent approaches have used continuous talking or intermittent report methods throughout several days (using randomly-gener­ ated portable electronic ‘beepers’ to alert participants to report on thoughts) in order to obtain more reliable samples of ‘natu­ ral-occurring’ fantas
 
+## Arabic Equivalents
+
+- [التَّدَاعِي الحُرّ (Free Association) — إحالة، انظر con-free-association](../../ar/terms/trm-free-association.md) - *Free Association: Unfiltered Flow of Thought — merged, see con-free-association*
+
 ## See also
 
 - Related concepts in psychology

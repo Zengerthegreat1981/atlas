@@ -16,6 +16,10 @@ sources:
 
 In common parlance instinct has a variety of meanings. For example, it can refer to an impulse to act in some way that is purposeful yet ‘without foresight of the ends and without previous education in the performance’ (James, 1890); to a propensity, aptitude, or intuition with which an individual appears to be born, or a species naturally endowed; to motives, compulsions, or driving energies inst
 
+## Arabic Equivalents
+
+- [ترجمة Trieb عند فرويد: غريزة أم دافع؟](../../ar/terms/trm-trieb-instinct-drive.md) - *Translating Freud's Trieb: Instinct vs. Drive*
+
 ## See also
 
 - Related concepts in psychology

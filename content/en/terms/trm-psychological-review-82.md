@@ -16,6 +16,10 @@ sources:
 
 See also: nervous system. Adler, Alfred (1870-1937) Born in Vienna in 1870, Alfred Adler trained as an ophthalmol­ ogist and first practised general medicine before becoming a psychiatrist and a charter member of Freud’s inner circle. An energetic, articulate man and a prolific writer, Adler was soon made the titular president of the first Psychoanalytic Society. Unlike Freud, Adler was a politica
 
+## Arabic Equivalents
+
+- [التفرد واكتمال الذات (Individuation): رحلة النضج وتكامل النفس](../../ar/terms/trm-individuation-jung.md) - *Translating Individuation: Self-Realization, Psychological Wholeness, and Integration in Jung*
+
 ## See also
 
 - Related concepts in psychology

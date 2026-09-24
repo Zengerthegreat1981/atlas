@@ -16,6 +16,10 @@ sources:
 
 - is organized hierarchically, the underlying machinery consisting of control centres receiving motivational energy from above and distributing it to others below, depending on the sequence of alternative releasing stimuli encountered through the associated appetitive behaviour. For Tinbergen, the whole of such a functional system constituted an instinct, and to it he connected his conceptions of
 
+## Arabic Equivalents
+
+- [ترجمة Trieb عند فرويد: غريزة أم دافع؟](../../ar/terms/trm-trieb-instinct-drive.md) - *Translating Freud's Trieb: Instinct vs. Drive*
+
 ## See also
 
 - Related concepts in psychology

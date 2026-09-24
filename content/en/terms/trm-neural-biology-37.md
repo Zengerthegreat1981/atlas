@@ -16,6 +16,10 @@ sources:
 
 Thompson, R. (1967), Foundations of Physiological Psychology, London. Further Reading Carlson, N. R. (1981), Physiology of Behavior, 2nd edn, Boston. Carlson, N. R. (1979), The Brain: A Scientific American Book, Oxford. Kolb, B. and Whishaw, I. Q. (1980), Fundamentals of Human
 
+## Arabic Equivalents
+
+- [المرونة العصبية (Neuroplasticity): قدرة الدماغ على إعادة تشكيل شبكاته](../../ar/terms/trm-neuroplasticity-neuroscience.md) - *Translating Neuroplasticity: Brain Plasticity, Synaptic Remodeling, and Neural Recovery*
+
 ## See also
 
 - Related concepts in psychology

@@ -16,6 +16,10 @@ sources:
 
 Much factual data about many animal species is continually being collected, but agreed theories do not necessarily flow from the increased volume of facts. One theoretical trend in biology, which serves as a very remote level of explanation in psychology, is statistical treatment of various genetical possi­ bilities - as applied to social behaviour this had been popula­ rized as the ‘selfish gene’
 
+## Arabic Equivalents
+
+- [النَّموذج الأَوَّلي (Archetype): الصُّورَة المَورُوثة — إحالة، انظر trm-archetyp-archetype-jung](../../ar/terms/trm-archetype.md) - *Archetype: The Inherited Image of the Collective Unconscious*
+
 ## See also
 
 - Related concepts in psychology

@@ -16,6 +16,10 @@ sources:
 
 Bruner, J. S. (1986), Actual Minds, Possible Worlds, Cambridge, Mass. Bruner, J. S., Goodnow, J. J. and Austin, G. A. (1956), A Study of Thinking, New York.
 
+## Arabic Equivalents
+
+- [الكالوغاثيا (Kalokagathia): التناغم بين الجمال الجسدي والفضيلة الأخلاقية](../../ar/terms/trm-kalokagathia-greek.md) - *Translating Kalokagathia: Nobility, Harmony of Beauty and Virtue, and Ideal Character*
+
 ## See also
 
 - Related concepts in psychology

@@ -16,6 +16,10 @@ sources:
 
 Projective methods encompass a wide range of approaches to the assessment of individuals and share the following character­ istics: (1) stimulus ambiguity-projective techniques consist of materials that can be interpreted, structured, or responded to in a great many different plausible ways; (2) lack of any one correct or true answer - projective stimuli are not designed to represent or resemble a
 
+## Arabic Equivalents
+
+- [التماهي الإسقاطي (Projective Identification): إدخال الأجزاء في الآخر](../../ar/terms/trm-projective-identification-klein.md) - *Translating Projective Identification: Splitting, Interpersonal Defense, and Intersubjectivity*
+
 ## See also
 
 - Related concepts in psychology

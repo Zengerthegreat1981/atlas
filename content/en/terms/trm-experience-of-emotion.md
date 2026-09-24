@@ -16,6 +16,11 @@ sources:
 
 Apart from work aimed at elucidating the roles played by cognitive and physiological processes in the generation of emotion, there are two other notable lines of research on emotion. One is concerned with facial expression. More specifi­ cally, some investigators have examined whether the way in which emotion is expressed in the face is the same across diverse cultures (Ekman, 1982), while others
 
+## Arabic Equivalents
+
+- [الكواليا (Qualia): الطابع الباطني النوعي للخبرة الذاتية المعاشة](../../ar/terms/trm-qualia-analytic-mind.md) - *Translating Qualia: Phenomenal Consciousness, Raw Feels, and First-Person Experience*
+- [السَّابِق/اللَّاحِق لِلتَّجْرِبَة (A priori / A posteriori)](../../ar/terms/trm-a-priori-a-posteriori.md) - *A Priori / A Posteriori: Knowledge Independent of vs. Derived from Experience*
+
 ## See also
 
 - Related concepts in psychology

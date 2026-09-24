@@ -16,6 +16,10 @@ sources:
 
 (1) In the first category of psychosomatic illness, emotional factors may be a major precipitator of physical illness. In many patients with a variety of chronic bodily disorders (such as peptic ulcer, hyperthyroidism, and bronchial asthma), severe emotional stress (the loss of a wife or husband, for example) appears to play a significant role in the onset and recurring episodes of the physical il
 
+## Arabic Equivalents
+
+- [الجسد المعاش والجسد الفيزيائي (Leib vs. Körper)](../../ar/terms/trm-leben-und-leib-phenomenology.md) - *Translating Leib and Körper: The Lived Subjective Body vs. The Physical Object Body*
+
 ## See also
 
 - Related concepts in psychology

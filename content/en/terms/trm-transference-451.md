@@ -16,6 +16,10 @@ sources:
 
 of tools for the analysis and treatment of communication prob­ lems between people, in groups, and between intrapsychic parts of a person. Arnold R. Beisser University of California, Los Angeles Gestalt Therapy Institute Further Reading Berne, E. (1961), Transactional Analysis and Psychotherapy, New York. Berne, E. (1964), Games People Play, New York.
 
+## Arabic Equivalents
+
+- [التَّحَوُّل (Transference) والمَقَاوَمة المُتَقَابِلَة (Countertransference)](../../ar/terms/trm-transference-countertransference.md) - *Transference and Countertransference in Psychoanalysis*
+
 ## See also
 
 - Related concepts in psychology

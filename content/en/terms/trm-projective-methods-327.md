@@ -16,6 +16,10 @@ sources:
 
 experience in a reasoning problem’, Quarterly Journal of Experimental Psychology, 23. Woodworth, R. S. and Sells, S. B. (1935), ‘An atmosphere effect in formal syllogistic reasoning’, Journal of Experimental
 
+## Arabic Equivalents
+
+- [التماهي الإسقاطي (Projective Identification): إدخال الأجزاء في الآخر](../../ar/terms/trm-projective-identification-klein.md) - *Translating Projective Identification: Splitting, Interpersonal Defense, and Intersubjectivity*
+
 ## See also
 
 - Related concepts in psychology

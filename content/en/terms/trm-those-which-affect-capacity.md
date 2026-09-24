@@ -16,6 +16,10 @@ sources:
 
 A number of models have been proposed which assume that the conditions for stress are met when demands tax or exceed adjustive resources (Lazarus, 1966, 1976; Cox and Mackay, 1978). Jn particular, Lazarus has proposed that several appraisal processes are involved in the assessment of threat. The intensity of threat depends on stimulus features, but also on the perceived ability to cope. In turn, c
 
+## Arabic Equivalents
+
+- [تسمية العاطفة (Affect Labeling)](../../ar/terms/trm-affect-labeling.md) - *Affect Labeling*
+
 ## See also
 
 - Related concepts in psychology

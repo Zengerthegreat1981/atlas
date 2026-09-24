@@ -16,6 +16,10 @@ sources:
 
 Personal construct theory appeared on the psychological scene unheralded but complete in Kelly (1955). What distinguished it from traditional psychological theories was its central model of person-as-scientist. Historically, psychology has mimicked the natural sciences in distinguishing between the purposeful and understanding scientist and the scientist’s ignorant and mech­ anical subject matter.
 
+## Arabic Equivalents
+
+- [الإدراك العصبي اللاواعي للأمان (Neuroception): استشعار الخطر قبل التفكير](../../ar/terms/trm-neuroception-porges.md) - *Translating Neuroception: Subconscious Threat Detection and Safety in Polyvagal Theory*
+
 ## See also
 
 - Related concepts in psychology

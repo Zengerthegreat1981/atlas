@@ -16,6 +16,10 @@ sources:
 
 An idealized father-son relationship betwen Freud and Jung ended over theoretical differences. Jung could not agree with Freud that all neuroses are caused by sexual repression or sexual traumata. Freud considered Jung’s interest in religion, philosophy and parapsychology as ‘occultism’. The final personal and theoretical divergence concerned mother-son 7102 yaM 61 43:22 ta ]ogeiD naS ,ainrofilaC
 
+## Arabic Equivalents
+
+- [التزكية (Tazkiyah): ترويض النفس وتطهير الباطن والارتقاء الروحي](../../ar/terms/trm-tazkiyah-nafs-islamic.md) - *Translating Tazkiyah: Purification of the Soul, Spiritual Growth, and Ethical Refinement*
+
 ## See also
 
 - Related concepts in psychology

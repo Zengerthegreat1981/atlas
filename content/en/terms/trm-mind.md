@@ -16,6 +16,10 @@ sources:
 
 ‘Mind’ is derived from old Teutonic gamundi meaning to think, remember, intend. These various senses are apparent in current phrases such as: to bear in mind, remind, give one’s mind to, make up or change one’s mind. Most verbal forms are now obsolete or dialectal but remain in such phrases as ‘never mind’ or ‘mind how you go’ in the sense of attend. Traditionally ‘mind’ has been used to refer col
 
+## Arabic Equivalents
+
+- [التبعية أو الانبثاقية المشروطة (Supervenience)](../../ar/terms/trm-supervenience-philosophy-mind.md) - *Translating Supervenience: Ontological Dependence, Non-Reductive Physicalism, and Mind-Brain*
+
 ## See also
 
 - Related concepts in psychology

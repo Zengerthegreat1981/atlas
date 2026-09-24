@@ -16,6 +16,10 @@ sources:
 
 The issues that preoccupy modern emotion theory are remarkably similar to those that arose from James’s (1884) theory of emotion and its subsequent rebuttal by Cannon. Briefly, James advocated what has come to be called a peripheral theory of emotion, in which he argued that the perception of an arousing stimulus causes changes in peripheral organs such as the viscera (heart, lungs, stomach, and s
 
+## Arabic Equivalents
+
+- [شكل الحياة (Lebensform): الإطار الثقافي الحاكم للغة](../../ar/terms/trm-lebensform-form-of-life-wittgenstein.md) - *Translating Lebensform: Form of Life, Cultural Substrate, and Intersubjective Agreement*
+
 ## See also
 
 - Related concepts in psychology

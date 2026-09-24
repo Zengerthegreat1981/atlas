@@ -16,6 +16,10 @@ sources:
 
 Cross-cultural psychology refers to the collective efforts of scholars in all parts of the world who do research among people who speak different languages, live in societies ranging from technologically unsophisticated to highly industrialized, and who submit to various forms of political organization. Many of the activities of these psychologists are similar to those of anthropologists, especial
 
+## Arabic Equivalents
+
+- [شكل الحياة (Lebensform): الإطار الثقافي الحاكم للغة](../../ar/terms/trm-lebensform-form-of-life-wittgenstein.md) - *Translating Lebensform: Form of Life, Cultural Substrate, and Intersubjective Agreement*
+
 ## See also
 
 - Related concepts in psychology

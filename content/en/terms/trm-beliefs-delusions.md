@@ -16,6 +16,11 @@ sources:
 
 Laing, his critics would say, went further than this epistemo­ logical relativism; he romanticized insanity and particularly schizophrenia. Madness became a breakthrough, a way of being in the world that rejects the ‘pseudo-social5 reality, the most awesome psychedelic trip. Laing’s early writings are both psychoanalytic and existential in character, as he attempted to portray the subjective exper
 
+## Arabic Equivalents
+
+- [الفقاعة الإبستمولوجية وغرفة الصدى (Epistemic Bubble vs. Echo Chamber)](../../ar/terms/trm-epistemic-bubble-echo-chamber.md) - *Translating Epistemic Bubble and Echo Chamber: Social Epistemology and Polarized Beliefs*
+- [التَّنَاقُض المعرفي (Cognitive Dissonance)](../../ar/terms/trm-cognitive-dissonance.md) - *Cognitive Dissonance: Discomfort from Holding Conflicting Beliefs*
+
 ## See also
 
 - Related concepts in psychology

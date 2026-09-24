@@ -16,6 +16,11 @@ sources:
 
 Social inadequacy of different degrees is widespread. Among children, some are isolated, others aggressive. Over 50 per cent of students say they often feel lonely, 15-20 per cent seriously so, and 40 per cent of students say that they are shy. Between 7-10 per cent of adults are handicapped by an inability to establish or sustain normal relationships or cope with common social situations. Among o
 
+## Arabic Equivalents
+
+- [القناع الاجتماعي (Persona): الواجهة الظاهرية للتكيف مع العالم](../../ar/terms/trm-persona-jung.md) - *Translating Persona: The Social Mask, Conformity Archetype, and Public Role in Jung*
+- [الفقاعة الإبستمولوجية وغرفة الصدى (Epistemic Bubble vs. Echo Chamber)](../../ar/terms/trm-epistemic-bubble-echo-chamber.md) - *Translating Epistemic Bubble and Echo Chamber: Social Epistemology and Polarized Beliefs*
+
 ## See also
 
 - Related concepts in psychology

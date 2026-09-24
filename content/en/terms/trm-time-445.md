@@ -16,6 +16,10 @@ sources:
 
 The structure of memory provides information about the time of past events, but how do we know the present time? Several studies of temporal orientation show that the current day of the week can be identified more rapidly just before or after a weekend than in midweek (Koriat, Fischhoff and Razel, 1976). Apparently, current or recent activities and thoughts are tested against stored associations o
 
+## Arabic Equivalents
+
+- [الكايروس والكرونوس (Kairos vs. Chronos): الوقت النوعي والزمن الكمي](../../ar/terms/trm-kairos-vs-chronos.md) - *Translating Kairos and Chronos: Qualitative Right Moment vs. Quantitative Clock Time*
+
 ## See also
 
 - Related concepts in psychology

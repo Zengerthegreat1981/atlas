@@ -16,6 +16,11 @@ sources:
 
 Piaget, J. (1975), L3Equilibration des structures cognitives, Paris. (The Development of Thought: Equilibration of Cognitive Structures, Oxford, 1977.) (B) General Boden, M. (1979), Piaget, London. Flavell, J. H. (1963), The Developmental Psychology of Jean Piaget, Princeton. Gruber, H. E. and Voneche, J. J. (eds) (1977), The Essential Piaget: An Interpretive Reference and Guide, London. Rotman, B
 
+## Arabic Equivalents
+
+- [الكواليا (Qualia): الطابع الباطني النوعي للخبرة الذاتية المعاشة](../../ar/terms/trm-qualia-analytic-mind.md) - *Translating Qualia: Phenomenal Consciousness, Raw Feels, and First-Person Experience*
+- [القصدية (Intentionality): توجه الوعي دوماً نحو موضوع ما](../../ar/terms/trm-intentionality-brentano-husserl.md) - *Translating Intentionality: Directedness of Consciousness, Aboutness, and Mental Acts*
+
 ## See also
 
 - Related concepts in psychology

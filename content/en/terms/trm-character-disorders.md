@@ -16,6 +16,10 @@ sources:
 
 Although omitted from the latest diagnostic and statistical manual of the American Psychiatric Association (APA), the term character disorder is used mainly by dynamic psychiatrists to describe a situation in which elements of a person’s character interfere with his everyday functioning. We must first examine
 
+## Arabic Equivalents
+
+- [الكالوغاثيا (Kalokagathia): التناغم بين الجمال الجسدي والفضيلة الأخلاقية](../../ar/terms/trm-kalokagathia-greek.md) - *Translating Kalokagathia: Nobility, Harmony of Beauty and Virtue, and Ideal Character*
+
 ## See also
 
 - Related concepts in psychology

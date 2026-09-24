@@ -16,6 +16,10 @@ sources:
 
 Within the theoretical approaches underlying all the research two distinct trends have emerged. One set of researchers draws its impetus from the formulations of the ecological psychologists and learning theorists. They assign a deterministic role to the environment, which influences behaviour. They are concerned with detailed descriptions based upon observations of ongoing behaviour and with desc
 
+## Arabic Equivalents
+
+- [القناع الاجتماعي (Persona): الواجهة الظاهرية للتكيف مع العالم](../../ar/terms/trm-persona-jung.md) - *Translating Persona: The Social Mask, Conformity Archetype, and Public Role in Jung*
+
 ## See also
 
 - Related concepts in psychology

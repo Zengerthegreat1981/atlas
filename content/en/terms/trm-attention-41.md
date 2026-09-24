@@ -16,6 +16,10 @@ sources:
 
 between the ‘attentional’ resource and consciousness, since there seem definite limits to the number of things we can be conscious of at one time. A frequent idea is that well-practised activities may require rather little of this resource, in line with the experience that they are sometimes performed uncon­ sciously and with little disturbing influence on whatever else we are doing. Others take a
 
+## Arabic Equivalents
+
+- [اليَقَظَة الذِّهْنِيَّة (Mindfulness) — إحالة، انظر con-mindfulness](../../ar/terms/trm-mindfulness.md) - *Mindfulness: Non-Judgmental Attention to the Present — merged, see con-mindfulness*
+
 ## See also
 
 - Related concepts in psychology

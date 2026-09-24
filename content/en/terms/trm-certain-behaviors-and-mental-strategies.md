@@ -15,6 +15,11 @@ sources:
 
 Definition to be added.
 
+## Arabic Equivalents
+
+- [الاستدلالات التقريبية والانحيازات المعرفية (Heuristics & Biases)](../../ar/terms/trm-heuristics-and-biases-kahneman.md) - *Translating Heuristics and Cognitive Biases: Mental Shortcuts, System 1, and Irrationality*
+- [القصدية (Intentionality): توجه الوعي دوماً نحو موضوع ما](../../ar/terms/trm-intentionality-brentano-husserl.md) - *Translating Intentionality: Directedness of Consciousness, Aboutness, and Mental Acts*
+
 ## See also
 
 - Related concepts in psychology

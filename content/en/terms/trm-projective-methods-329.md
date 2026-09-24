@@ -16,6 +16,10 @@ sources:
 
 conflict of expression versus inhibition of various drive states. This conflict can result in verbal expression of the impulse in question, its suppression, or various compromise reactions, for example, expressing the drive symbolically, partially, or indirectly. Since 1900, a multitude of projective techniques have been developed. Of these, four varieties have become prominent: inkblot tests, whi
 
+## Arabic Equivalents
+
+- [التماهي الإسقاطي (Projective Identification): إدخال الأجزاء في الآخر](../../ar/terms/trm-projective-identification-klein.md) - *Translating Projective Identification: Splitting, Interpersonal Defense, and Intersubjectivity*
+
 ## See also
 
 - Related concepts in psychology

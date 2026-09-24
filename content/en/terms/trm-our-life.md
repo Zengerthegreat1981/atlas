@@ -15,6 +15,11 @@ sources:
 
 Definition to be added.
 
+## Arabic Equivalents
+
+- [الدفعة الحيوية (Élan vital): التطور الخلاق لبرغسون](../../ar/terms/trm-elan-vital-bergson.md) - *Translating Élan Vital: Vital Impetus, Life Force, and Creative Evolution*
+- [أمور فاتي (Amor Fati): حب القدر والرضا بالصيرورة](../../ar/terms/trm-amor-fati-nietzsche-stoic.md) - *Translating Amor Fati: Love of Fate, Eternal Return, and Affirmation of Life*
+
 ## See also
 
 - Related concepts in psychology

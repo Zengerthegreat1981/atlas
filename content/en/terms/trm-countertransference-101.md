@@ -16,6 +16,10 @@ sources:
 
 ference’ refers to those feelings in the therapist that are stirred up unconsciously during the therapeutic process and fasten on the patient, who is thus understood to represent an important figure from the therapist’s past life. In this meaning, ‘counter’ merely describes a vector. The issue is still transference, but since that term usually describes feelings flowing from patient to therapist,
 
+## Arabic Equivalents
+
+- [التَّحَوُّل (Transference) والمَقَاوَمة المُتَقَابِلَة (Countertransference)](../../ar/terms/trm-transference-countertransference.md) - *Transference and Countertransference in Psychoanalysis*
+
 ## See also
 
 - Related concepts in psychology

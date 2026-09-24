@@ -16,6 +16,11 @@ sources:
 
 The Meaning and Assessment of Social Competence A socially competent person is someone who possesses the necessary social skills to produce the desired effects on other people in social situations. These may be the professional skills of teaching, selling, interviewing, and so on, or the everyday skills of communicating effectively, being persuasive, and main­ taining social relationships. Social
 
+## Arabic Equivalents
+
+- [القناع الاجتماعي (Persona): الواجهة الظاهرية للتكيف مع العالم](../../ar/terms/trm-persona-jung.md) - *Translating Persona: The Social Mask, Conformity Archetype, and Public Role in Jung*
+- [الفقاعة الإبستمولوجية وغرفة الصدى (Epistemic Bubble vs. Echo Chamber)](../../ar/terms/trm-epistemic-bubble-echo-chamber.md) - *Translating Epistemic Bubble and Echo Chamber: Social Epistemology and Polarized Beliefs*
+
 ## See also
 
 - Related concepts in psychology

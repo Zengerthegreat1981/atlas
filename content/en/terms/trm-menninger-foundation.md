@@ -16,6 +16,10 @@ sources:
 
 University of Kansas References Freud, S. (1959 [1926]), Inhibitions, Symptoms and Anxiety (Standard edition of Complete Psychological Works of Sigmund 7102 yaM 61 43:22 ta ]ogeiD naS ,ainrofilaC fo ytisrevinU[ yb dedaolnwoD 284 OBSESSIVE-COMPULSIVE DISORDER Freud, Vol. xx), London. (Original German, Hemmung, Symptom und Angst.) Shapiro, D. (1965), Neurotic Styles, New York. See also: anxiety; hys
 
+## Arabic Equivalents
+
+- [الكوجيتو (Cogito): أنا أفكر إذن أنا موجود ودلالته](../../ar/terms/trm-cogito-ergo-sum.md) - *Translating the Cogito: Epistemic Foundation and Subjectivity*
+
 ## See also
 
 - Related concepts in psychology

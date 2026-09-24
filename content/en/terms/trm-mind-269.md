@@ -16,6 +16,10 @@ sources:
 
 to be patently false. Neurophysiologists and clinicians in the nineteenth century recognized different levels of functioning in the nervous system and acknowledged unconscious mental activity, although the idea has a much more venerable history dating back at least to classical Greek times. William James (1890) pointed out that it is only the perchings and not the flights of thought that are avail
 
+## Arabic Equivalents
+
+- [التبعية أو الانبثاقية المشروطة (Supervenience)](../../ar/terms/trm-supervenience-philosophy-mind.md) - *Translating Supervenience: Ontological Dependence, Non-Reductive Physicalism, and Mind-Brain*
+
 ## See also
 
 - Related concepts in psychology

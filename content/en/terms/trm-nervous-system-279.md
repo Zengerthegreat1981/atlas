@@ -16,6 +16,10 @@ sources:
 
 is now thought that the nature of the processing determines the relative proficiency of each hemisphere. No one specification of the relevant processing characteristics has yet been widely accepted. Alongside these developments in experimental neuro­ psychology has been a renewed interest in electrophysiological processes. The new technology of averaged evoked response recording, and new ways of l
 
+## Arabic Equivalents
+
+- [الاستدلالات التقريبية والانحيازات المعرفية (Heuristics & Biases)](../../ar/terms/trm-heuristics-and-biases-kahneman.md) - *Translating Heuristics and Cognitive Biases: Mental Shortcuts, System 1, and Irrationality*
+
 ## See also
 
 - Related concepts in psychology

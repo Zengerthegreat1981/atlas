@@ -16,6 +16,11 @@ sources:
 
 nervous system socialization neuroses social psychology 7102 yaM 61 43:22 ta ]ogeiD naS ,ainrofilaC fo ytisrevinU[ yb dedaolnwoD CONTENTS vii social skills traits stereotypes transactional analysis stigma transference stress unconscious Sullivan vision super-ego vocational and career therapeutic community development thinking - cognitive Watson organization and processes women’s studies in psychol
 
+## Arabic Equivalents
+
+- [القناع الاجتماعي (Persona): الواجهة الظاهرية للتكيف مع العالم](../../ar/terms/trm-persona-jung.md) - *Translating Persona: The Social Mask, Conformity Archetype, and Public Role in Jung*
+- [الفقاعة الإبستمولوجية وغرفة الصدى (Epistemic Bubble vs. Echo Chamber)](../../ar/terms/trm-epistemic-bubble-echo-chamber.md) - *Translating Epistemic Bubble and Echo Chamber: Social Epistemology and Polarized Beliefs*
+
 ## See also
 
 - Related concepts in psychology

@@ -16,6 +16,10 @@ sources:
 
 preservation to a dual instinct theory of sex and aggression. Closer attention to the object of desire (in contrast to the aim of discharge) revealed that while its normal pathway was outward toward objects and the environment, it could turn inward, particularly during stressful episodes in the individual’s life. But even where desire turned inward, the object remained important in the psychoanaly
 
+## Arabic Equivalents
+
+- [التَّحَوُّل (Transference) والمَقَاوَمة المُتَقَابِلَة (Countertransference)](../../ar/terms/trm-transference-countertransference.md) - *Transference and Countertransference in Psychoanalysis*
+
 ## See also
 
 - Related concepts in psychology

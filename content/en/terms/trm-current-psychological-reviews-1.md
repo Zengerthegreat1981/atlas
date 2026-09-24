@@ -16,6 +16,10 @@ sources:
 
 Rosenthal, R. (1979), Skill in Nonverbal Communication: Individual Differences, Boston. Schachter, S. (1964), ‘The interaction of cognitive and physiological determinants of emotional state’, in L. Berkowitz (ed.), Advances in Experimental Social Psychology (vol. 1), New York. Further Reading Izard, C. E. (1977), Human Emotions, New York. Mandler, G. (1975), Mind and Emotion, New York. See also: a
 
+## Arabic Equivalents
+
+- [التفرد واكتمال الذات (Individuation): رحلة النضج وتكامل النفس](../../ar/terms/trm-individuation-jung.md) - *Translating Individuation: Self-Realization, Psychological Wholeness, and Integration in Jung*
+
 ## See also
 
 - Related concepts in psychology

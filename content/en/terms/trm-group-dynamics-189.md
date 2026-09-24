@@ -16,6 +16,10 @@ sources:
 
 size, Taylor, the apostle of‘scientific management5 techniques, had started to examine pressures on individuals to conform to group norms regarding productivity, and Terman (1904) had studied group leaders and leadership. From about 1920 onwards the rate at which relevant publications appeared started to increase. The 1930s saw the appearance of three classic lines of research: the work of Lewin e
 
+## Arabic Equivalents
+
+- [التحويل الوجداني (Übertragung): إسقاط صراعات الماضي على المعالج — إحالة، انظر trm-transference-countertransference](../../ar/terms/trm-ubertragung-transference.md) - *Translating Übertragung: Transference, Emotional Reliving, and Therapeutic Dynamics*
+
 ## See also
 
 - Related concepts in psychology

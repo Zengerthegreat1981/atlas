@@ -16,6 +16,10 @@ sources:
 
 Singer, J. L. (1981), Daydreaming and Fantasy, London. Singer, J. L. and Pope, K. S. (1978), The Power of Human Imagination, New York. See also: dreams; projective methods; thinking - cognitive organization and processes.
 
+## Arabic Equivalents
+
+- [التَّدَاعِي الحُرّ (Free Association) — إحالة، انظر con-free-association](../../ar/terms/trm-free-association.md) - *Free Association: Unfiltered Flow of Thought — merged, see con-free-association*
+
 ## See also
 
 - Related concepts in psychology

@@ -16,6 +16,10 @@ sources:
 
 Festinger, L. (1954), ‘A theory of social comparison processes5, Human Relations, 7. Festinger, L. (1957), A Theory of Cognitive Dissonance, Evanston, 111. Heider, F. (1958), The Psychology of Interpersonal Relations, New York. Kelley, H. H. (1967), ‘Attribution theory in social psychology5, Nebraska Symposium on Motivation, 14. Lewin, K., Lippitt, R. and White, R. K. (1939), ‘Patterns of 7102 yaM
 
+## Arabic Equivalents
+
+- [التفرد واكتمال الذات (Individuation): رحلة النضج وتكامل النفس](../../ar/terms/trm-individuation-jung.md) - *Translating Individuation: Self-Realization, Psychological Wholeness, and Integration in Jung*
+
 ## See also
 
 - Related concepts in psychology

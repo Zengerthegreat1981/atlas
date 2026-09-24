@@ -16,6 +16,10 @@ sources:
 
 The first object of libidinal gratification and fulfilment is the mother. Her breasts serve as the source of oral pleasure, and she takes on the significance of the external source from which later confidence, self-esteem, and self-regulation are derived. This relationship with the mother plays a pivotal role in a developmental stage that Freud named the Oedipus complex, after the famous Greek tra
 
+## Arabic Equivalents
+
+- [أصلُ مصطلح «شامان» (šaman) وتعميمُه الاستشراقيّ](../../ar/terms/trm-shaman-term-tungus-etymology.md) - *The Etymology of 'Shaman' (Tungus šaman) and Its Orientalist Generalization*
+
 ## See also
 
 - Related concepts in psychology

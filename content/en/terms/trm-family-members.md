@@ -16,6 +16,10 @@ sources:
 
 The family therapist uses these observations to form a thera­ peutic alliance and meets with the appropriate family members to design appropriate interventions in order to change family 7102 yaM 61 43:22 ta ]ogeiD naS ,ainrofilaC
 
+## Arabic Equivalents
+
+- [التشابه العائلي (Family Resemblance): المفاهيم المتشابكة بلا جوهر موحد](../../ar/terms/trm-family-resemblance-wittgenstein.md) - *Translating Family Resemblance: Network of Overlapping Similarities vs. Essentialism*
+
 ## See also
 
 - Related concepts in psychology

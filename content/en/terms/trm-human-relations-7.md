@@ -16,6 +16,11 @@ sources:
 
 Festinger, L. (1957), A Theory of Cognitive Dissonance, Evanston, 111. Heider, F. (1958), The Psychology of Interpersonal Relations, New York. Kelley, H. H. (1967), ‘Attribution theory in social psychology5, Nebraska Symposium on Motivation, 14. Lewin, K., Lippitt, R. and White, R. K. (1939), ‘Patterns of 7102 yaM 61 43:22 ta ]ogeiD naS ,ainrofilaC fo ytisrevinU[ yb dedaolnwoD 418 SOCIAL SKILLS ag
 
+## Arabic Equivalents
+
+- [اليودايمونيا (Eudaimonia): الازدهار الإنساني مقابل السعادة اللحظية](../../ar/terms/trm-eudaimonia-aristotle-translation.md) - *Translating Eudaimonia: Human Flourishing vs. Hedonic Happiness*
+- [ترجمة الدازاين (Dasein): الكينونة-هناك أم الوجود العيني؟](../../ar/terms/trm-dasein-translation.md) - *Translating Dasein: Being-There, Human Existence, or Concrete Being?*
+
 ## See also
 
 - Related concepts in psychology

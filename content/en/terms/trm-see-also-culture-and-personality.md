@@ -16,6 +16,10 @@ sources:
 
 Culture and Personality Culture and Personality was a psychoanalytically-oriented subdiscipline of American cultural anthropology which sought to relate traits of individual personality and symbolic aspects of culture to socialization variables, that is, peculiarities of parent- child relationships. How was individual character influenced by culture? What were the observable processes of behaviour
 
+## Arabic Equivalents
+
+- [إرادة القوة (Wille zur Macht) — إحالة، انظر con-will-to-power وaxi-will-to-power-axiom](../../ar/terms/trm-wille-zur-macht-nietzsche.md) - *Wille zur Macht — duplicate, see con-will-to-power and axi-will-to-power-axiom*
+
 ## See also
 
 - Related concepts in psychology

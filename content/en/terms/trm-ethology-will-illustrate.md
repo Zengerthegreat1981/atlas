@@ -16,6 +16,10 @@ sources:
 
 Freud Freud held several theories about instinct. In an early version he viewed the psyche as subject to biologically based instinctive drives for self-preservation and reproduction; later a single supply of psychic energy was envisaged as giving rise to and becoming dispersed between the psychic structures of the id, ego, and super-ego, with their rival imperatives of appetite, accommodation, and
 
+## Arabic Equivalents
+
+- [إرادة القوة (Wille zur Macht) — إحالة، انظر con-will-to-power وaxi-will-to-power-axiom](../../ar/terms/trm-wille-zur-macht-nietzsche.md) - *Wille zur Macht — duplicate, see con-will-to-power and axi-will-to-power-axiom*
+
 ## See also
 
 - Related concepts in psychology

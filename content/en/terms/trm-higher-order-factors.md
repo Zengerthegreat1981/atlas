@@ -16,6 +16,11 @@ sources:
 
 Cattell’s theory (Cattell and Kline, 1977), which he outlined in the 1940s and elaborated over the succeeding decades, is based on 171 traits that are intended to encompass the entire sphere of personality. They represent the list of dictionary traits after the elimination of synonyms and the addition of a handful of technical terms. Factor analytic studies of ratings and ques­ tionnaires reduced
 
+## Arabic Equivalents
+
+- [الدارما (Dharma): النظام الأخلاقي والواجب والحقيقة الكونية](../../ar/terms/trm-dharma-hindu-buddhist.md) - *Translating Dharma: Universal Law, Moral Duty, Ultimate Truth, and Cosmic Order*
+- [الإنسان المتفوق (Übermensch): تجاوز الذات وتوليد القيم الجديدة](../../ar/terms/trm-ubermensch-overman-nietzsche.md) - *Translating Übermensch: The Overman, Superman, Higher Human, and Self-Transcendence*
+
 ## See also
 
 - Related concepts in psychology

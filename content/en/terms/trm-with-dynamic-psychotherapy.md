@@ -16,6 +16,11 @@ sources:
 
 (2) Behaviourists see phobic avoidance as a learned response that may develop in reaction to extremely subtle cues, and they 7102 yaM 61 43:22 ta ]ogeiD naS ,ainrofilaC fo ytisrevinU[ yb dedaolnwoD 308 PHYSIOLOGICAL PSYCHOLOGY treat it with a variety of behavioural techniques, including desensitization. (3) Recently, a pharmacotherapy of phobias has emerged, featuring use of so-called ‘minor tranq
 
+## Arabic Equivalents
+
+- [عَلَاقَات الْمَوْضُوع (Object Relations): الْأَنْفُس فِي تَفَاعُل](../../ar/terms/trm-object-relations.md) - *Object Relations: The Self in Interaction with Internalized Others*
+- [السقوط والتهافت (Verfallenheit): تشتت الدازاين في شواغل اليومي](../../ar/terms/trm-verfallen-falling-heidegger.md) - *Translating Verfallenheit: Falling, Fallenness, and Entanglement with the World*
+
 ## See also
 
 - Related concepts in psychology

@@ -16,6 +16,11 @@ sources:
 
 (2) In the latter category of psychosomatic illness, the indi­ vidual patient’s characteristic personality features help to deter­ mine the response to the stress of illness. As psychiatrists see it, these personality features often not only induce complications in the course of the illness, but create problems in the medical management of the case. Dependency needs, in particular, pose a central
 
+## Arabic Equivalents
+
+- [اليودايمونيا (Eudaimonia): الازدهار الإنساني مقابل السعادة اللحظية](../../ar/terms/trm-eudaimonia-aristotle-translation.md) - *Translating Eudaimonia: Human Flourishing vs. Hedonic Happiness*
+- [ترجمة الدازاين (Dasein): الكينونة-هناك أم الوجود العيني؟](../../ar/terms/trm-dasein-translation.md) - *Translating Dasein: Being-There, Human Existence, or Concrete Being?*
+
 ## See also
 
 - Related concepts in psychology

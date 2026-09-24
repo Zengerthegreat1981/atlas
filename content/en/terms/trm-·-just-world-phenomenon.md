@@ -15,6 +15,10 @@ sources:
 
 Definition to be added.
 
+## Arabic Equivalents
+
+- [السقوط والتهافت (Verfallenheit): تشتت الدازاين في شواغل اليومي](../../ar/terms/trm-verfallen-falling-heidegger.md) - *Translating Verfallenheit: Falling, Fallenness, and Entanglement with the World*
+
 ## See also
 
 - Related concepts in psychology

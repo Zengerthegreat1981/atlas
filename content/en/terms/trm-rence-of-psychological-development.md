@@ -16,6 +16,10 @@ sources:
 
 Those who favour cognitive interpretations of development in the first year of life (emphasizing reorganizations of infor­ mational inputs as the hallmark of development) rely heavily, like the learning theorists, on explanations of behaviour change in terms of gradually accruing complexities of function. The capacity for object permanence, for example, is a talent of humans not present at birth b
 
+## Arabic Equivalents
+
+- [التفرد واكتمال الذات (Individuation): رحلة النضج وتكامل النفس](../../ar/terms/trm-individuation-jung.md) - *Translating Individuation: Self-Realization, Psychological Wholeness, and Integration in Jung*
+
 ## See also
 
 - Related concepts in psychology

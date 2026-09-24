@@ -15,6 +15,10 @@ sources:
 
 Definition to be added.
 
+## Arabic Equivalents
+
+- [الإدراك العصبي اللاواعي للأمان (Neuroception): استشعار الخطر قبل التفكير](../../ar/terms/trm-neuroception-porges.md) - *Translating Neuroception: Subconscious Threat Detection and Safety in Polyvagal Theory*
+
 ## See also
 
 - Related concepts in psychology
