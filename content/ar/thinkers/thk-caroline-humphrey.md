@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-anthropological-political-economy", title: "الاقتصادُ السياسيُّ العالميُّ والتاريخ (Eric Wolf — Europe and the People Without History)", type: "مدرسة"
 - id: "thk-bill-maurer", title: "بيل موِرر (Bill Maurer)", type: "مفكر"
+- id: "thk-james-carrier", title: "جيمس ج. كارير (James G. Carrier)", type: "مفكر"
 gaps: []
 ---
 # كارولين همفري (Caroline Humphrey)
