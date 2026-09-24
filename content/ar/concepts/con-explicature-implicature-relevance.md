@@ -15,6 +15,9 @@ related:
 - id: "sch-relevance-theory", title: "نظريةُ الملاءمة (Relevance Theory)", type: "مدرسة"
 - id: "con-conversational-implicature", title: "الإفهامُ التخاطبي (Conversational Implicature)", type: "مفهوم"
 - id: "con-ostensive-inferential-communication", title: "التواصلُ الإشاريُّ-الاستدلاليُّ (Ostensive-Inferential Communication)", type: "مفهوم"
+- id: "thk-dan-sperber", title: "دان سپربر", type: "مفكر"
+- id: "thk-deirdre-wilson", title: "ديردري ويلسون", type: "مفكر"
+- id: "thk-robyn-carston", title: "روبِن كارستون", type: "مفكر"
 gaps: []
 ---
 
