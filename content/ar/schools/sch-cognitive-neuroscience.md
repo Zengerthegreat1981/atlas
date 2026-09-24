@@ -24,6 +24,7 @@ related:
 - id: "con-memory", title: "الذاكرة", type: "مفهوم"
 - id: "con-neuroplasticity", title: "اللدونة العصبية (Neuroplasticity)", type: "مفهوم"
 - id: "con-mindfulness", title: "اليقظة الذهنية (Mindfulness)", type: "مفهوم"
+- id: "con-embodied-cognition", title: "الإدراك المتجسد (Embodied Cognition): العقل يَتمدّد في الجسد", type: "مفهوم"
 - id: "stu-sperry-gazzaniga-split-brain", title: "دراسات سبيري وغازانيغا على مرضى الدماغ المشقوق والتخصص الوظيفي لنصفي المخ", type: "دراسة وبحث"
 - id: "stu-libet-voluntary-action-readiness", title: "تجارب ليبيت حول جهد الاستعداد والوعي بالقرار الإرادي", type: "دراسة وبحث"
 gaps:

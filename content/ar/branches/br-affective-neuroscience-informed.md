@@ -13,6 +13,7 @@ active_end: "مستمر"
 part: "psychology"
 related:
 - id: "exp-derealization-depersonalization", title: "خبرة تبدد الواقع وتبدد الشخصية: الانفصال الفينومينولوجي عن الذات والعالم", type: "خبرة معيشة"
+- id: "con-fear", title: "الخوف", type: "مفهوم"
 - id: "con-sadness", title: "الحزن", type: "مفهوم"
 gaps:
   - "الفرق الدقيق بين 'Affective Neuroscience' كحقل علمي و'...informed psychotherapy' كتيار علاجي لم يُراجع من مصدر أولي."
