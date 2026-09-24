@@ -1,0 +1,23 @@
+---
+slug: "trm-psychologist-10"
+id: "TRM-ENG-01044"
+type: "مصطلح نفسي"
+level: "مقدمة"
+title: "Psychologist, 10."
+en: "Psychologist, 10."
+ar: ""
+sources:
+  - title: "A Lexicon of Psychology, Psychiatry and Psychoanalysis"
+    year: 2015
+    edition: "2nd Edition"
+---
+
+# Psychologist, 10.
+
+Deutsch, M. and Gerard, H. B. (1955), ‘A study of normative and informational social influences upon individual judgment’, Journal of Abnormal and Social Psychology, 51. Milgram, S. (1974), Obedience to Authority: An Experimental View, London. Moscovici, S. (1976), Social Influence and Social Change, London. Sherif, M. (1935), ‘A study of some social factors in
+
+## See also
+
+- Related concepts in psychology
+- Connected theoretical frameworks
+
