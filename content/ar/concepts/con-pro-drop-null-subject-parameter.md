@@ -14,6 +14,8 @@ edges:
 related:
 - id: "sch-government-and-binding-theory", title: "نظريةُ الحاكميةِ والربط (Government and Binding Theory)", type: "مدرسة"
 - id: "con-grammatical-agreement-concord", title: "المطابقةُ النحوية (Grammatical Agreement / Concord)", type: "مفهوم"
+- id: "thk-luigi-rizzi", title: "لويجي ريتزي", type: "مفكر"
+- id: "thk-noam-chomsky", title: "نعوم تشومسكي", type: "مفكر"
 gaps: []
 ---
 
