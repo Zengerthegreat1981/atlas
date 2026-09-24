@@ -15,6 +15,9 @@ related:
 - id: "sch-basra-kufa-grammatical-dispute", title: "مدرسةُ الكوفة والخلافُ النحويّ (Kufa Grammatical School)", type: "مدرسة"
 - id: "sch-arabic-grammatical-tradition", title: "التقليد النحوي واللغوي العربي الكلاسيكي", type: "مدرسة"
 - id: "con-amil-grammatical-operant-arabic", title: "نظريةُ العامل في النحو العربي (Naẓariyyat al-ʿĀmil)", type: "مفهوم"
+- id: "thk-ibn-al-anbari", title: "أبو البركات ابن الأنباري", type: "مفكر"
+- id: "thk-ibn-jinni", title: "أبو الفتح عثمان بن جنّي", type: "مفكر"
+- id: "thk-jonathan-owens", title: "جوناثان أُوِنز", type: "مفكر"
 gaps: []
 ---
 
