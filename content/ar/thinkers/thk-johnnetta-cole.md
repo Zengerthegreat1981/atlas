@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-postcolonial-critique-anthropology", title: "النقدُ ما بعد الاستعماريّ للأنثروبولوجيا (Asad, Anthropology and the Colonial Encounter)", type: "مدرسة"
 - id: "thk-faye-harrison", title: "فاي ڤ. هاريسون (Faye V. Harrison)", type: "مفكر"
+- id: "thk-niara-sudarkasa", title: "نيارا سودارکاسا (Niara Sudarkasa)", type: "مفكر"
 gaps: []
 ---
 # جونيتا بيتش كول (Johnnetta Betsch Cole)
