@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-intersectionality-history"
+id: "CON-13076"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "التقاطعية في التاريخ"
+en: "Intersectionality in History"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# التقاطعية في التاريخ (Intersectionality in History)
 
-## Atlantic World History
+## Intersectionality in History
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Historical analysis examining interconnections of gender, race, class, sexuality, and other systems of power and identity.
 
 ### Key Aspects
 

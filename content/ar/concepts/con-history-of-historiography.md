@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-history-of-historiography"
+id: "CON-13120"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "تاريخ التاريخيين"
+en: "History of Historiography"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# تاريخ التاريخيين (History of Historiography)
 
-## Atlantic World History
+## History of Historiography
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Study of how historiography itself has changed over time; examines evolution of historical methods, theories, and purposes.
 
 ### Key Aspects
 

@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
+slug: "sch-pacific-islands-history"
+id: "SCH-13072"
 type: "school"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "تاريخ جزر المحيط الهادئ"
+en: "Pacific Islands History"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# تاريخ جزر المحيط الهادئ (Pacific Islands History)
 
-## Atlantic World History
+## Pacific Islands History
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Historiography of Pacific Islands emphasizing indigenous agency, navigation, and colonialism; examines oceanic networks.
 
 ### Key Aspects
 

@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-historians-responsibility"
+id: "CON-13056"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "مسؤولية المؤرخ"
+en: "Historian's Responsibility"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# مسؤولية المؤرخ (Historian's Responsibility)
 
-## Atlantic World History
+## Historian's Responsibility
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Ethical obligations historians bear to the past, present communities, and future readers; public historiography ethics.
 
 ### Key Aspects
 

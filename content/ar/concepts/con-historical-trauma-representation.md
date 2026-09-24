@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-historical-trauma-representation"
+id: "CON-13057"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "تمثيل الصدمة التاريخية"
+en: "Historical Trauma Representation"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# تمثيل الصدمة التاريخية (Historical Trauma Representation)
 
-## Atlantic World History
+## Historical Trauma Representation
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Ethical approaches to representing historical violence, genocide, and suffering; questions of witness and testimony.
 
 ### Key Aspects
 

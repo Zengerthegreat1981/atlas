@@ -1,11 +1,12 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "thk-linda-smith-indigenous"
+id: "THK-13101"
+type: "thinker"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "ليندا سميث"
+en: "Linda Tuhiwai Smith"
+dates: "1955-"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +16,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# ليندا سميث (Linda Tuhiwai Smith)
 
-## Atlantic World History
+## Linda Tuhiwai Smith
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Maori scholar; pioneered decolonial approaches to historiography and indigenous research methodologies.
 
 ### Key Aspects
 

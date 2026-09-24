@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
+slug: "sch-mediterranean-history"
+id: "SCH-13067"
 type: "school"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "تاريخ المتوسط"
+en: "Mediterranean History"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# تاريخ المتوسط (Mediterranean History)
 
-## Atlantic World History
+## Mediterranean History
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Regional historiography emphasizing Mediterranean as connected zone; examines trade, migration, and cultural exchange.
 
 ### Key Aspects
 

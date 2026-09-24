@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-source-analysis-methodology"
+id: "CON-13096"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "منهجية تحليل المصادر"
+en: "Source Analysis Methodology"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# منهجية تحليل المصادر (Source Analysis Methodology)
 
-## Atlantic World History
+## Source Analysis Methodology
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Systematic approaches to analyzing primary sources; examines provenance, context, authorship, and reliability.
 
 ### Key Aspects
 

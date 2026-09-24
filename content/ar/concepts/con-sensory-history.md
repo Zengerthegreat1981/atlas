@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-sensory-history"
+id: "CON-13115"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "تاريخ الحواس"
+en: "Sensory History"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# تاريخ الحواس (Sensory History)
 
-## Atlantic World History
+## Sensory History
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Historical study of sensory experience and perception; examines how senses were understood and used across time.
 
 ### Key Aspects
 

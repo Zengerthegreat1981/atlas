@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-islamic-historiography"
+id: "CON-13093"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "التاريخيون الإسلاميون"
+en: "Islamic Historiography"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# التاريخيون الإسلاميون (Islamic Historiography)
 
-## Atlantic World History
+## Islamic Historiography
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Study of Islamic historical traditions and historians; examines evolution of historiographical practices in Islamic civilization.
 
 ### Key Aspects
 

@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-environmental-humanities"
+id: "CON-13109"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "الإنسانيات البيئية"
+en: "Environmental Humanities"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# الإنسانيات البيئية (Environmental Humanities)
 
-## Atlantic World History
+## Environmental Humanities
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Interdisciplinary field examining human-environment relationships; includes environmental history and ecocriticism.
 
 ### Key Aspects
 

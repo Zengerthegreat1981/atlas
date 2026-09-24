@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-digital-archives-ethics"
+id: "CON-13108"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "أخلاقيات الأرشيفات الرقمية"
+en: "Digital Archives Ethics"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# أخلاقيات الأرشيفات الرقمية (Digital Archives Ethics)
 
-## Atlantic World History
+## Digital Archives Ethics
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Ethical considerations in creating, managing, and providing access to digital archives; addresses privacy, rights, and access.
 
 ### Key Aspects
 

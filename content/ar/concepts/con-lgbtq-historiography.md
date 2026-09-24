@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-lgbtq-historiography"
+id: "CON-13080"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "تاريخ LGBTQ"
+en: "LGBTQ+ Historiography"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# تاريخ LGBTQ (LGBTQ+ Historiography)
 
-## Atlantic World History
+## LGBTQ+ Historiography
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Historical study of lesbian, gay, bisexual, transgender, and queer experiences; examines identity formation, community, and resistance.
 
 ### Key Aspects
 

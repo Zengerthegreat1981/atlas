@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-prosopography-method"
+id: "CON-13104"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "طريقة الموسوعة البيوغرافية"
+en: "Prosopography Method"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# طريقة الموسوعة البيوغرافية (Prosopography Method)
 
-## Atlantic World History
+## Prosopography Method
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Collective biography approach using prosopographical data to examine patterns in groups; examines networks and relationships.
 
 ### Key Aspects
 

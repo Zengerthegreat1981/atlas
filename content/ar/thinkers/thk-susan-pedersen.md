@@ -1,11 +1,12 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "thk-susan-pedersen"
+id: "THK-13103"
+type: "thinker"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "سوزان بيديرسن"
+en: "Susan Pedersen"
+dates: "1962-"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +16,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# سوزان بيديرسن (Susan Pedersen)
 
-## Atlantic World History
+## Susan Pedersen
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Historian of international diplomacy; works on League of Nations and transnational governance in twentieth century.
 
 ### Key Aspects
 

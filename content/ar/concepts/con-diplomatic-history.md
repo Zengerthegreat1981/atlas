@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-diplomatic-history"
+id: "CON-13062"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "التاريخ الدبلوماسي"
+en: "Diplomatic History"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# التاريخ الدبلوماسي (Diplomatic History)
 
-## Atlantic World History
+## Diplomatic History
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Study of international relations, treaties, and negotiations as historical processes; examines power, communication, and cultural exchange.
 
 ### Key Aspects
 

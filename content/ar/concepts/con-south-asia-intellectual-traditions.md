@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-south-asia-intellectual-traditions"
+id: "CON-13092"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "التقاليد الفكرية في جنوب آسيا"
+en: "South Asian Intellectual Traditions"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# التقاليد الفكرية في جنوب آسيا (South Asian Intellectual Traditions)
 
-## Atlantic World History
+## South Asian Intellectual Traditions
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Study of philosophical, literary, and scientific traditions in South Asia; examines Hindu, Buddhist, Islamic scholarship.
 
 ### Key Aspects
 

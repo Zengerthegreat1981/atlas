@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-analog-digital-synthesis"
+id: "CON-13107"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "الاندماج بين التناظري والرقمي"
+en: "Analog-Digital Synthesis"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# الاندماج بين التناظري والرقمي (Analog-Digital Synthesis)
 
-## Atlantic World History
+## Analog-Digital Synthesis
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Integration of traditional archival research with digital tools; combines close reading with computational analysis.
 
 ### Key Aspects
 

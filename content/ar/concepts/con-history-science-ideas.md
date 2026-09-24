@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-history-science-ideas"
+id: "CON-13070"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "تاريخ العلم والأفكار"
+en: "History of Science and Ideas"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# تاريخ العلم والأفكار (History of Science and Ideas)
 
-## Atlantic World History
+## History of Science and Ideas
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Interdisciplinary field examining production and circulation of scientific knowledge as historical and social process.
 
 ### Key Aspects
 

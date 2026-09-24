@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-positionality-history"
+id: "CON-13052"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "الموقعية في التاريخ"
+en: "Positionality in History"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# الموقعية في التاريخ (Positionality in History)
 
-## Atlantic World History
+## Positionality in History
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Recognition of how historian's social position, identity, and location affect historical knowledge production.
 
 ### Key Aspects
 

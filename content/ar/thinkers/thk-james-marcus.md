@@ -1,22 +1,22 @@
 ---
-slug: "thk-nancy-scheper-hughes"
-id: "THK-12782"
+slug: "thk-james-marcus"
+id: "THK-12775"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"
-title: "Nancy Scheper-Hughes (Scheper-Hughes, Nancy)"
-en: "Nancy Scheper-Hughes"
-dates: "1945 – "
+title: "James Clifford Marcus (Marcus, George E.)"
+en: "James Clifford Marcus"
+dates: "1940 – "
 birth_country: "United States"
 edges: []
 related: []
 gaps: []
 ---
 
-# Nancy Scheper-Hughes
+# James Clifford Marcus
 
-**الباحث/ة**: Nancy Scheper-Hughes  
-**الفترة**: 1945 –   
+**الباحث/ة**: James Clifford Marcus  
+**الفترة**: 1940 –   
 **الدولة**: United States
 
 تم إضافة هذا الملف كجزء من توسيع مرحلة 4 من مشروع أطلس الأنثروبولوجيا.

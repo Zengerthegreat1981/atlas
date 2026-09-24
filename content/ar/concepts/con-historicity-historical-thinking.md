@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-historicity-historical-thinking"
+id: "CON-13125"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "التاريخية والتفكير التاريخي"
+en: "Historicity and Historical Thinking"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# التاريخية والتفكير التاريخي (Historicity and Historical Thinking)
 
-## Atlantic World History
+## Historicity and Historical Thinking
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Study of what it means to think historically; examines temporality, context, and change as fundamental to historical understanding.
 
 ### Key Aspects
 

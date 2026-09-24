@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-historiographical-consciousness"
+id: "CON-13121"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "الوعي التاريخي"
+en: "Historiographical Consciousness"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# الوعي التاريخي (Historiographical Consciousness)
 
-## Atlantic World History
+## Historiographical Consciousness
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Study of how societies develop awareness of their own history; examines historical consciousness as culturally variable.
 
 ### Key Aspects
 

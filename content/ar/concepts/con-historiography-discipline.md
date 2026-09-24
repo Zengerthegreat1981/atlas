@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-historiography-discipline"
+id: "CON-13123"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "التاريخ كتخصص"
+en: "Historiography as Discipline"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# التاريخ كتخصص (Historiography as Discipline)
 
-## Atlantic World History
+## Historiography as Discipline
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Study of history as academic discipline; examines professionalization, institutions, and disciplinary boundaries.
 
 ### Key Aspects
 

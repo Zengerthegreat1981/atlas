@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-public-history-ethics"
+id: "CON-13059"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "أخلاقيات التاريخ العام"
+en: "Public History Ethics"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# أخلاقيات التاريخ العام (Public History Ethics)
 
-## Atlantic World History
+## Public History Ethics
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Ethical considerations for historians engaging with public audiences, media, and popular culture.
 
 ### Key Aspects
 

@@ -1,11 +1,12 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "thk-michelle-barr"
+id: "THK-13102"
+type: "thinker"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "ميشيل بار"
+en: "Michelle Barr"
+dates: "1982-"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +16,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# ميشيل بار (Michelle Barr)
 
-## Atlantic World History
+## Michelle Barr
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Historian of ethics; works on archival justice and decolonial historiographical practice.
 
 ### Key Aspects
 

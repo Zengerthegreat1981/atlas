@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-trans-historiography"
+id: "CON-13081"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "التاريخ العابر للنوع"
+en: "Trans Historiography"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# التاريخ العابر للنوع (Trans Historiography)
 
-## Atlantic World History
+## Trans Historiography
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Historical study of transgender experiences and gender nonconformity; examines historical figures and trans communities.
 
 ### Key Aspects
 

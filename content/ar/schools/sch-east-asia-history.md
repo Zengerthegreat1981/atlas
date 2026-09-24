@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
+slug: "sch-east-asia-history"
+id: "SCH-13073"
 type: "school"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "تاريخ شرق آسيا"
+en: "East Asia History"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# تاريخ شرق آسيا (East Asia History)
 
-## Atlantic World History
+## East Asia History
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Regional historiography of East Asia including China, Japan, Korea; examines regional interconnections and influences.
 
 ### Key Aspects
 

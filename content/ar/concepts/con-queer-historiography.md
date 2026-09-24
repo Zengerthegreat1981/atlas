@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-queer-historiography"
+id: "CON-13074"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "التاريخ الكويري"
+en: "Queer Historiography"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# التاريخ الكويري (Queer Historiography)
 
-## Atlantic World History
+## Queer Historiography
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Historical approach questioning normative categories of sexuality and gender; examines desire, kinship, and non-heteronormative relationships.
 
 ### Key Aspects
 

@@ -1,11 +1,12 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "thk-carol-christ"
+id: "THK-13106"
+type: "thinker"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "كارول كرايست"
+en: "Carol P. Christ"
+dates: "1942-"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +16,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# كارول كرايست (Carol P. Christ)
 
-## Atlantic World History
+## Carol P. Christ
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Feminist historian and theologian; pioneered gender-historical approaches to religious history and ancient cultures.
 
 ### Key Aspects
 

@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-digital-humanities-history"
+id: "CON-13101"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "الإنسانيات الرقمية في التاريخ"
+en: "Digital Humanities in History"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# الإنسانيات الرقمية في التاريخ (Digital Humanities in History)
 
-## Atlantic World History
+## Digital Humanities in History
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Use of digital tools and methods for historical research including digital archives, text mining, and visualization.
 
 ### Key Aspects
 

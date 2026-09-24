@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-archival-theory"
+id: "CON-13098"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "نظرية الأرشيف"
+en: "Archival Theory"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# نظرية الأرشيف (Archival Theory)
 
-## Atlantic World History
+## Archival Theory
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Study of archives as historical institutions and epistemological sites; examines power, memory, and access.
 
 ### Key Aspects
 

@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-indigenous-historiography-protocols"
+id: "CON-13053"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "بروتوكولات التاريخ الأصلي"
+en: "Indigenous Historiography Protocols"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# بروتوكولات التاريخ الأصلي (Indigenous Historiography Protocols)
 
-## Atlantic World History
+## Indigenous Historiography Protocols
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Ethical frameworks for historical work with indigenous communities and oral traditions; emphasizes consent and cultural protocols.
 
 ### Key Aspects
 

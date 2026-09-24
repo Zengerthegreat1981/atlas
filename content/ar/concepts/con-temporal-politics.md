@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-temporal-politics"
+id: "CON-13119"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "السياسة الزمنية"
+en: "Temporal Politics"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# السياسة الزمنية (Temporal Politics)
 
-## Atlantic World History
+## Temporal Politics
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Study of how temporal frameworks and concepts of time are politically constructed; examines time as political resource.
 
 ### Key Aspects
 

@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-knowledge-transfer-history"
+id: "CON-13068"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "نقل المعرفة التاريخي"
+en: "Knowledge Transfer in History"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# نقل المعرفة التاريخي (Knowledge Transfer in History)
 
-## Atlantic World History
+## Knowledge Transfer in History
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Study of how knowledge circulates, transforms, and translates across linguistic, cultural, and temporal boundaries.
 
 ### Key Aspects
 

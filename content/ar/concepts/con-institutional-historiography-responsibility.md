@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-institutional-historiography-responsibility"
+id: "CON-13058"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "مسؤولية المؤسسات التاريخية"
+en: "Institutional Historiography Responsibility"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# مسؤولية المؤسسات التاريخية (Institutional Historiography Responsibility)
 
-## Atlantic World History
+## Institutional Historiography Responsibility
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Ethical frameworks for museums, archives, and universities in managing historical narratives and contested histories.
 
 ### Key Aspects
 

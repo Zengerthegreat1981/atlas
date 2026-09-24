@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-archival-diplomacy"
+id: "CON-13063"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "الدبلوماسية الأرشيفية"
+en: "Diplomatic Archives"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# الدبلوماسية الأرشيفية (Diplomatic Archives)
 
-## Atlantic World History
+## Diplomatic Archives
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Study of diplomatic archives as sources; examines document production, classification, and role in historical memory.
 
 ### Key Aspects
 

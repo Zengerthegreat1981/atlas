@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-comparative-historiographies"
+id: "CON-13122"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "التاريخيات المقارنة"
+en: "Comparative Historiographies"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# التاريخيات المقارنة (Comparative Historiographies)
 
-## Atlantic World History
+## Comparative Historiographies
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Study comparing how different cultures and traditions produce and understand history; examines historiographical diversity.
 
 ### Key Aspects
 

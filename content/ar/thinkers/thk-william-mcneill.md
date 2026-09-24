@@ -1,11 +1,12 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "thk-william-mcneill"
+id: "THK-13110"
+type: "thinker"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "ويليام ماكنيل"
+en: "William McNeill"
+dates: "1917-2016"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +16,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# ويليام ماكنيل (William McNeill)
 
-## Atlantic World History
+## William McNeill
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Historian of disease, technology, and global history; pioneered study of epidemics and environmental factors in history.
 
 ### Key Aspects
 

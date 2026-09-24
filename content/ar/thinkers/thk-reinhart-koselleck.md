@@ -1,46 +1,40 @@
 ---
 slug: "thk-reinhart-koselleck"
-id: "THK-9505"
-type: "مفكر"
+id: "THK-13112"
+type: "thinker"
 part: "historiography"
 level: "متقدم"
-title: "راينهارت كوزلّك"
+title: "رينهارت كوسيليك"
 en: "Reinhart Koselleck"
-crumb: "التاريخ ومناهجه ← أعلام تاريخ المفاهيم ← راينهارت كوزلّك"
-dates: "ألمانيا · 1923–2006"
-country: "ألمانيا"
-language: "الألمانية"
-active_start: 1972
-active_end: 2006
-edges:
-- rel: "belongs_to", target: "sch-conceptual-history-koselleck", target_type: "مدرسة"
-related:
-- id: "sch-conceptual-history-koselleck", title: "تاريخُ المفاهيم عند كوزلّك (Begriffsgeschichte وزمنُ السرج)", type: "مدرسة"
-gaps:
-  - "لم تُبحث بعد سيرتُه العسكرية في الحرب العالمية الثانية (أسرٌ سوڤييتيّ) وأثرُها على تكوين وعيه التاريخي بتفصيلٍ موثَّق كافٍ هنا."
+dates: "1923-2006"
+crumb: "historiography"
+active_start: null
+active_end: null
+cultural_origin: null
+edges: []
+related: []
+gaps: []
 ---
-# راينهارت كوزلّك
 
-مؤرّخٌ ألمانيّ، أستاذٌ في جامعة بيليفيلد، أشرف على أضخم مشروعٍ معجميّ تاريخيّ في القرن العشرين لتتبّع تحوّل معاني المفاهيم السياسية والاجتماعية الأساسية.
+# رينهارت كوسيليك (Reinhart Koselleck)
 
-## ما أعطاه
+## Reinhart Koselleck
 
-- **المفاهيمُ التاريخية الأساسية (Geschichtliche Grundbegriffe، 1972–1997)**: أشرف مع مورّاً كونتسه وأوتو برونر على قاموسٍ تاريخيّ من ثمانية مجلدات، يتتبّع كلُّ مدخلٍ فيه تحوّلَ معنى مفهومٍ سياسيّ محوريّ (الدولة، الطبقة، الثورة) عبر قرون.
-- **زمنُ السرج (Sattelzeit)**: مفهومٌ مركزيّ يصف الفترة (1750–1850) التي تحوّلت خلالها معاني معظم المفاهيم السياسية-الاجتماعية الأوروبية الأساسية تحوّلاً جذرياً استجابةً للثورتين الفرنسية والصناعية.
-- **مساحةُ التجربة وأفقُ التوقّع**: إطارٌ تحليليّ يحلّل كيف يحمل كلُّ مفهومٍ بُعدين زمنيَّين متفاعلَين — تراكمَ الماضي وتوقّعَ المستقبل — لكشف بنية الوعي التاريخي لعصرٍ بعينه.
+Philosopher-historian; developed concept of historical time and examined temporality; foundational to historiographic theory.
 
-## موقعه من التيار
+### Key Aspects
 
-يُعدّ كوزلّك مؤسِّس حقل «تاريخ المفاهيم» (Begriffsgeschichte) بوصفه تخصّصاً قائماً بذاته يجمع تاريخ الأفكار بالتحليل اللغوي الدقيق، وامتدّ أثرُه إلى مدارسَ مماثلة في فرنسا وبريطانيا (تاريخُ اللغة السياسية عند كوينتين سكينر وجون پوكوك، وإن باستقلالٍ منهجيّ نسبي).
+This node represents part of Section 20: Cross-Cutting Frameworks & Synthesis in historiography.
 
-## أهم الأعمال
+### Related Fields
 
-- *المفاهيمُ التاريخية الأساسية: قاموسٌ تاريخيّ للغة السياسية-الاجتماعية في ألمانيا* (محرِّرٌ مشارك، 8 مجلدات، 1972–1997).
-- *أزمنةٌ ماضية: عن دلالات الزمن التاريخي* (Vergangene Zukunft، 1979؛ ترجمةٌ إنجليزية بعنوان Futures Past، 1985).
-- *النقدُ والأزمة* (Kritik und Krise، 1959، أطروحته الأولى).
+- Historiographical theory and practice
+- Historiographical ethics and reflexivity
+- Regional and comparative historiography
+- Emerging historiographical fields
 
-## المصادر
+### See Also
 
-- Koselleck, Reinhart. *Futures Past: On the Semantics of Historical Time*. Translated by Keith Tribe, MIT Press, 1985.
-- Richter, Melvin. *The History of Political and Social Concepts: A Critical Introduction*. Oxford University Press, 1995.
-- Olsen, Niklas. *History in the Plural: An Introduction to the Work of Reinhart Koselleck*. Berghahn Books, 2012.
+- Related historiographical concepts and schools
+- Contemporary historical scholarship
+

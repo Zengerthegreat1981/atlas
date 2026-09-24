@@ -1,11 +1,12 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "thk-sarah-ahmed"
+id: "THK-13108"
+type: "thinker"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "سارة أحمد"
+en: "Sara Ahmed"
+dates: "1969-"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +16,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# سارة أحمد (Sara Ahmed)
 
-## Atlantic World History
+## Sara Ahmed
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Theorist of affect and queer phenomenology; examines emotion, orientation, and desire as historical and political matters.
 
 ### Key Aspects
 

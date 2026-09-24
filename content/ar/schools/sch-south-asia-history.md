@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
+slug: "sch-south-asia-history"
+id: "SCH-13074"
 type: "school"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "تاريخ جنوب آسيا"
+en: "South Asia History"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# تاريخ جنوب آسيا (South Asia History)
 
-## Atlantic World History
+## South Asia History
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Regional historiography of South Asia including India, Pakistan, Bangladesh; emphasizes indigenous intellectual traditions.
 
 ### Key Aspects
 

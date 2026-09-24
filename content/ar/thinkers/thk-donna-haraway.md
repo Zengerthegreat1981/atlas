@@ -1,11 +1,12 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "thk-donna-haraway"
+id: "THK-13100"
+type: "thinker"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "دونا هاراواي"
+en: "Donna Haraway"
+dates: "1944-"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +16,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# دونا هاراواي (Donna Haraway)
 
-## Atlantic World History
+## Donna Haraway
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Theorist of situated knowledge and historiographical reflexivity; developed concept of 'strong objectivity' in scientific/historical practice.
 
 ### Key Aspects
 

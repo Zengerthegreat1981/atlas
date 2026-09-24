@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-intellectual-biography"
+id: "CON-13064"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "السيرة الفكرية"
+en: "Intellectual Biography"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# السيرة الفكرية (Intellectual Biography)
 
-## Atlantic World History
+## Intellectual Biography
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Historical genre combining biography with intellectual history; traces development of thought through life and context.
 
 ### Key Aspects
 

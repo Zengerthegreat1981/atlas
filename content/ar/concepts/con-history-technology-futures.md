@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-history-technology-futures"
+id: "CON-13116"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "تاريخ التكنولوجيا والمستقبليات"
+en: "History of Technology and Futures"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# تاريخ التكنولوجيا والمستقبليات (History of Technology and Futures)
 
-## Atlantic World History
+## History of Technology and Futures
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Study of how past technological imaginaries shaped and were shaped by history; examines futures embedded in technology.
 
 ### Key Aspects
 

@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-gender-history-deepening"
+id: "CON-13073"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "تعميق تاريخ النوع الاجتماعي"
+en: "Gender History Deepening"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# تعميق تاريخ النوع الاجتماعي (Gender History Deepening)
 
-## Atlantic World History
+## Gender History Deepening
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Advanced approaches to gender history; moves beyond binary categories to examine gender as relational, performed, and historically contingent.
 
 ### Key Aspects
 

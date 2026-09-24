@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
+slug: "sch-eurasian-history"
+id: "SCH-13068"
 type: "school"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "التاريخ الأوراسي"
+en: "Eurasian History"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# التاريخ الأوراسي (Eurasian History)
 
-## Atlantic World History
+## Eurasian History
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Regional historiography treating Eurasia as integrated system; examines Silk Roads, empires, and cross-continental flows.
 
 ### Key Aspects
 

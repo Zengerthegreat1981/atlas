@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-critical-editions"
+id: "CON-13097"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "الإصدارات الناقدة"
+en: "Critical Editions"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# الإصدارات الناقدة (Critical Editions)
 
-## Atlantic World History
+## Critical Editions
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Scholarly methodology for producing authoritative texts; involves textual criticism, annotation, and historical contextualization.
 
 ### Key Aspects
 

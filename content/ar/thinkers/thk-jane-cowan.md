@@ -1,23 +1,23 @@
 ---
-slug: "thk-maurice-godelier"
-id: "THK-12785"
+slug: "thk-jane-cowan"
+id: "THK-12781"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"
-title: "Maurice Godelier (Godelier, Maurice)"
-en: "Maurice Godelier"
-dates: "1934 – "
-birth_country: "France"
+title: "Jane K. Cowan (Cowan, Jane K.)"
+en: "Jane K. Cowan"
+dates: "1959 – "
+birth_country: "Canada"
 edges: []
 related: []
 gaps: []
 ---
 
-# Maurice Godelier
+# Jane K. Cowan
 
-**الباحث/ة**: Maurice Godelier  
-**الفترة**: 1934 –   
-**الدولة**: France
+**الباحث/ة**: Jane K. Cowan  
+**الفترة**: 1959 –   
+**الدولة**: Canada
 
 تم إضافة هذا الملف كجزء من توسيع مرحلة 4 من مشروع أطلس الأنثروبولوجيا.
 

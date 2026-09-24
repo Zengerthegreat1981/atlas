@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-transnational-intellectuals"
+id: "CON-13069"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "المثقفون العابرون للحدود"
+en: "Transnational Intellectuals"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# المثقفون العابرون للحدود (Transnational Intellectuals)
 
-## Atlantic World History
+## Transnational Intellectuals
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Study of intellectuals and thinkers who work across national boundaries; examines circulation of ideas and exile intellectuals.
 
 ### Key Aspects
 

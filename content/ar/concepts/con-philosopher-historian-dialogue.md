@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-philosopher-historian-dialogue"
+id: "CON-13066"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "حوار الفيلسوف والمؤرخ"
+en: "Philosopher-Historian Dialogue"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# حوار الفيلسوف والمؤرخ (Philosopher-Historian Dialogue)
 
-## Atlantic World History
+## Philosopher-Historian Dialogue
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Interdisciplinary approach combining philosophy and history; examines philosophical questions through historical analysis.
 
 ### Key Aspects
 

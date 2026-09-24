@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-genealogical-method"
+id: "CON-13106"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "الطريقة الجينالوجية"
+en: "Genealogical Method"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# الطريقة الجينالوجية (Genealogical Method)
 
-## Atlantic World History
+## Genealogical Method
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Methodology tracing origins and transformations of concepts, institutions, or practices; inspired by Foucault's genealogy.
 
 ### Key Aspects
 

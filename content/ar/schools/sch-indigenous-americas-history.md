@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
+slug: "sch-indigenous-americas-history"
+id: "SCH-13071"
 type: "school"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "تاريخ الأمريكتين الأصلي"
+en: "Indigenous Americas History"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# تاريخ الأمريكتين الأصلي (Indigenous Americas History)
 
-## Atlantic World History
+## Indigenous Americas History
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Historiography centered on indigenous peoples of Americas; examines pre-Columbian civilizations and colonial legacies.
 
 ### Key Aspects
 

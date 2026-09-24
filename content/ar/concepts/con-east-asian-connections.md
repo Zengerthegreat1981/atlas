@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-east-asian-connections"
+id: "CON-13091"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "الاتصالات في شرق آسيا"
+en: "East Asian Connections"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# الاتصالات في شرق آسيا (East Asian Connections)
 
-## Atlantic World History
+## East Asian Connections
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Study of networks and influences connecting East Asian societies; examines trade, Buddhism, and cultural transfer.
 
 ### Key Aspects
 

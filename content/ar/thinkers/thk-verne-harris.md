@@ -1,11 +1,12 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "thk-verne-harris"
+id: "THK-13109"
+type: "thinker"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "فرن هاريس"
+en: "Verne Harris"
+dates: "1954-"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +16,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# فرن هاريس (Verne Harris)
 
-## Atlantic World History
+## Verne Harris
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Archivist and theorist; developed critical approaches to archives as cultural institutions shaped by power and values.
 
 ### Key Aspects
 

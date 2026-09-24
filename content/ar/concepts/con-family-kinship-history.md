@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-family-kinship-history"
+id: "CON-13083"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "تاريخ الأسرة والقرابة"
+en: "Family and Kinship History"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# تاريخ الأسرة والقرابة (Family and Kinship History)
 
-## Atlantic World History
+## Family and Kinship History
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Historical study of family structures, marriage, inheritance, and kinship systems; examines how they change over time and across cultures.
 
 ### Key Aspects
 

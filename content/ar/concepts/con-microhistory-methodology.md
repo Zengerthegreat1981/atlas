@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-microhistory-methodology"
+id: "CON-13103"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "منهجية التاريخ الجزئي"
+en: "Microhistory Methodology"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# منهجية التاريخ الجزئي (Microhistory Methodology)
 
-## Atlantic World History
+## Microhistory Methodology
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Historiographical approach focusing on small-scale detail to examine larger patterns; uses intensive document analysis.
 
 ### Key Aspects
 

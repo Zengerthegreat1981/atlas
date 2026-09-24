@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-cultural-translation-diplomacy"
+id: "CON-13071"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "الترجمة الثقافية والدبلوماسية"
+en: "Cultural Translation and Diplomacy"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# الترجمة الثقافية والدبلوماسية (Cultural Translation and Diplomacy)
 
-## Atlantic World History
+## Cultural Translation and Diplomacy
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Study of how cultural and intellectual differences shape diplomatic encounters; examines translation and misunderstanding.
 
 ### Key Aspects
 

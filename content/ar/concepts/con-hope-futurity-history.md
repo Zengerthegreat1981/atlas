@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-hope-futurity-history"
+id: "CON-13112"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "الأمل والمستقبلية في التاريخ"
+en: "Hope and Futurity in History"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# الأمل والمستقبلية في التاريخ (Hope and Futurity in History)
 
-## Atlantic World History
+## Hope and Futurity in History
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Study of hope, desire for futures, and utopian visions as historical forces; examines temporal experience and anticipation.
 
 ### Key Aspects
 

@@ -1,11 +1,13 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "wrk-guide-archives-jenkinson"
+id: "WRK-12851"
+type: "work"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "دليل الأرشيفات"
+en: "A Manual of Archive Administration"
+author: "Hilary Jenkinson"
+publication_date: 1922
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +17,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# دليل الأرشيفات (A Manual of Archive Administration)
 
-## Atlantic World History
+## A Manual of Archive Administration
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Foundational work on archival theory and practice; established principles of provenance and original order.
 
 ### Key Aspects
 

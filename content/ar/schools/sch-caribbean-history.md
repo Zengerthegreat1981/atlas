@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
+slug: "sch-caribbean-history"
+id: "SCH-13070"
 type: "school"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "التاريخ الكاريبي"
+en: "Caribbean History"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# التاريخ الكاريبي (Caribbean History)
 
-## Atlantic World History
+## Caribbean History
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Regional historiography of Caribbean emphasizing slavery, colonialism, and creolization; examines diaspora and hybrid cultures.
 
 ### Key Aspects
 

@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-oral-history-methods"
+id: "CON-13100"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "منهجية التاريخ الشفاهي"
+en: "Oral History Methods"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# منهجية التاريخ الشفاهي (Oral History Methods)
 
-## Atlantic World History
+## Oral History Methods
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Systematic approaches to collecting and analyzing oral testimony; examines memory, narrative, and subjectivity.
 
 ### Key Aspects
 

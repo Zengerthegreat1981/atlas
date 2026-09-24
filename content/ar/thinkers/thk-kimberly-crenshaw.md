@@ -1,11 +1,12 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "thk-kimberly-crenshaw"
+id: "THK-13107"
+type: "thinker"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "كيمبرلي كرينشو"
+en: "Kimberlé Crenshaw"
+dates: "1959-"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +16,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# كيمبرلي كرينشو (Kimberlé Crenshaw)
 
-## Atlantic World History
+## Kimberlé Crenshaw
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Legal scholar and critical race theorist; developed intersectionality framework now foundational to gender and sexuality history.
 
 ### Key Aspects
 

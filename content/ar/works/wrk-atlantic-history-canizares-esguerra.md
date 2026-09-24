@@ -1,11 +1,13 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "wrk-atlantic-history-canizares-esguerra"
+id: "WRK-12850"
+type: "work"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "التاريخ الأطلسي"
+en: "Atlantic History"
+author: "Jorge Canizares-Esguerra"
+publication_date: 2001
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +17,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# التاريخ الأطلسي (Atlantic History)
 
-## Atlantic World History
+## Atlantic History
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Foundational work on Atlantic world approach; traces interconnections across Atlantic and indigenous agency in colonialism.
 
 ### Key Aspects
 

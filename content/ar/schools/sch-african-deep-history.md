@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
+slug: "sch-african-deep-history"
+id: "SCH-13069"
 type: "school"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "التاريخ العميق الأفريقي"
+en: "African Deep History"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# التاريخ العميق الأفريقي (African Deep History)
 
-## Atlantic World History
+## African Deep History
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Historiographical approach extending African history back through archaeology and deep time; challenges Eurocentric periodization.
 
 ### Key Aspects
 

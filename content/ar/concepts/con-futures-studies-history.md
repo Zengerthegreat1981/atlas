@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-futures-studies-history"
+id: "CON-13111"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "دراسات المستقبل التاريخية"
+en: "Futures Studies in History"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# دراسات المستقبل التاريخية (Futures Studies in History)
 
-## Atlantic World History
+## Futures Studies in History
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Historiographical approach studying how past societies imagined and planned for futures; examines prediction and hope.
 
 ### Key Aspects
 

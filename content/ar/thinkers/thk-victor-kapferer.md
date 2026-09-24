@@ -1,23 +1,23 @@
 ---
-slug: "thk-maurice-godelier"
-id: "THK-12785"
+slug: "thk-victor-kapferer"
+id: "THK-12777"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"
-title: "Maurice Godelier (Godelier, Maurice)"
-en: "Maurice Godelier"
-dates: "1934 – "
-birth_country: "France"
+title: "Bruce Kapferer (Kapferer, Bruce)"
+en: "Bruce Kapferer"
+dates: "1940 – "
+birth_country: "Australia"
 edges: []
 related: []
 gaps: []
 ---
 
-# Maurice Godelier
+# Bruce Kapferer
 
-**الباحث/ة**: Maurice Godelier  
-**الفترة**: 1934 –   
-**الدولة**: France
+**الباحث/ة**: Bruce Kapferer  
+**الفترة**: 1940 –   
+**الدولة**: Australia
 
 تم إضافة هذا الملف كجزء من توسيع مرحلة 4 من مشروع أطلس الأنثروبولوجيا.
 

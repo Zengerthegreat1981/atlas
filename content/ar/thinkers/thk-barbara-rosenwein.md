@@ -1,11 +1,12 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "thk-barbara-rosenwein"
+id: "THK-13111"
+type: "thinker"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "باربرا روزنواين"
+en: "Barbara Rosenwein"
+dates: "1943-"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +16,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# باربرا روزنواين (Barbara Rosenwein)
 
-## Atlantic World History
+## Barbara Rosenwein
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Medieval historian; pioneered history of emotions and affective communities; examines emotional experience in past.
 
 ### Key Aspects
 

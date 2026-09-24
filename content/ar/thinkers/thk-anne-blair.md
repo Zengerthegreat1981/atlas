@@ -1,11 +1,12 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "thk-anne-blair"
+id: "THK-13105"
+type: "thinker"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "آن بلير"
+en: "Ann Blair"
+dates: "1962-"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +16,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# آن بلير (Ann Blair)
 
-## Atlantic World History
+## Ann Blair
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Historian of Renaissance intellectual culture; studies knowledge management and information circulation in early modern Europe.
 
 ### Key Aspects
 

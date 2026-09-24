@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-mediterranean-connections"
+id: "CON-13085"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "الاتصالات المتوسطية"
+en: "Mediterranean Connections"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# الاتصالات المتوسطية (Mediterranean Connections)
 
-## Atlantic World History
+## Mediterranean Connections
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Study of interconnections across Mediterranean, emphasizing linkages and flows rather than regional boundaries.
 
 ### Key Aspects
 

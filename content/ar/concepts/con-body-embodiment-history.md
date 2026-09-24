@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-body-embodiment-history"
+id: "CON-13084"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "تاريخ الجسد والتجسيد"
+en: "Body and Embodiment in History"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# تاريخ الجسد والتجسيد (Body and Embodiment in History)
 
-## Atlantic World History
+## Body and Embodiment in History
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Historical analysis of bodies, bodily practices, and embodied experience; examines how bodies are shaped by history and power.
 
 ### Key Aspects
 

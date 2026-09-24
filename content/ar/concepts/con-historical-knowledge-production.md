@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-historical-knowledge-production"
+id: "CON-13126"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "إنتاج المعرفة التاريخية"
+en: "Historical Knowledge Production"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# إنتاج المعرفة التاريخية (Historical Knowledge Production)
 
-## Atlantic World History
+## Historical Knowledge Production
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Study of how historical knowledge is produced, validated, and challenged; examines epistemology and evidence in history.
 
 ### Key Aspects
 

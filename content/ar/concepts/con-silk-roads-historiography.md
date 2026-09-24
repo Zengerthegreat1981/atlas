@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-silk-roads-historiography"
+id: "CON-13086"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "تاريخ طرق الحرير"
+en: "Silk Roads Historiography"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# تاريخ طرق الحرير (Silk Roads Historiography)
 
-## Atlantic World History
+## Silk Roads Historiography
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Study of interconnected trade and communication networks across Eurasia; examines goods, ideas, and people in motion.
 
 ### Key Aspects
 

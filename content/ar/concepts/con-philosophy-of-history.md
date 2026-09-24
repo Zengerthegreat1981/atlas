@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-philosophy-of-history"
+id: "CON-13127"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "فلسفة التاريخ"
+en: "Philosophy of History"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# فلسفة التاريخ (Philosophy of History)
 
-## Atlantic World History
+## Philosophy of History
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Philosophical examination of history; addresses questions of time, causation, progress, and meaning in historical analysis.
 
 ### Key Aspects
 

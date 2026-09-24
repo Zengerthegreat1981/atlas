@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-interdisciplinary-history"
+id: "CON-13102"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "التاريخ متعدد التخصصات"
+en: "Interdisciplinary History"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# التاريخ متعدد التخصصات (Interdisciplinary History)
 
-## Atlantic World History
+## Interdisciplinary History
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Historical work integrating methods and insights from other disciplines including archaeology, sociology, and science.
 
 ### Key Aspects
 

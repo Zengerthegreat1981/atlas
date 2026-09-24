@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-gendered-knowledge-production"
+id: "CON-13082"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "إنتاج المعرفة المجنسة"
+en: "Gendered Knowledge Production"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# إنتاج المعرفة المجنسة (Gendered Knowledge Production)
 
-## Atlantic World History
+## Gendered Knowledge Production
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Study of how gender shapes what counts as knowledge; examines exclusion of women from scholarship and male-centered epistemology.
 
 ### Key Aspects
 

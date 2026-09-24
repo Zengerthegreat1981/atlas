@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-global-circulations"
+id: "CON-13095"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "التدفقات العالمية"
+en: "Global Circulations"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# التدفقات العالمية (Global Circulations)
 
-## Atlantic World History
+## Global Circulations
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Study of how people, goods, ideas, and microbes circulate globally; examines networks and flows across regions.
 
 ### Key Aspects
 

@@ -1,22 +1,22 @@
 ---
-slug: "thk-nancy-scheper-hughes"
-id: "THK-12782"
+slug: "thk-jonathan-friedman"
+id: "THK-12787"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"
-title: "Nancy Scheper-Hughes (Scheper-Hughes, Nancy)"
-en: "Nancy Scheper-Hughes"
-dates: "1945 – "
+title: "Jonathan Friedman (Friedman, Jonathan)"
+en: "Jonathan Friedman"
+dates: "1946 – "
 birth_country: "United States"
 edges: []
 related: []
 gaps: []
 ---
 
-# Nancy Scheper-Hughes
+# Jonathan Friedman
 
-**الباحث/ة**: Nancy Scheper-Hughes  
-**الفترة**: 1945 –   
+**الباحث/ة**: Jonathan Friedman  
+**الفترة**: 1946 –   
 **الدولة**: United States
 
 تم إضافة هذا الملف كجزء من توسيع مرحلة 4 من مشروع أطلس الأنثروبولوجيا.

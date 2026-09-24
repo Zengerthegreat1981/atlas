@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-precolumbian-civilizations"
+id: "CON-13089"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "الحضارات ما قبل كولومبوس"
+en: "Pre-Columbian Civilizations"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# الحضارات ما قبل كولومبوس (Pre-Columbian Civilizations)
 
-## Atlantic World History
+## Pre-Columbian Civilizations
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Study of advanced indigenous civilizations before European contact; examines Aztec, Inca, Maya and other societies.
 
 ### Key Aspects
 

@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-historical-representation"
+id: "CON-13124"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "التمثيل التاريخي"
+en: "Historical Representation"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# التمثيل التاريخي (Historical Representation)
 
-## Atlantic World History
+## Historical Representation
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Examination of how historians represent the past through narrative, language, and form; addresses representation and reality.
 
 ### Key Aspects
 

@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-historiographical-intervention"
+id: "CON-13060"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "التدخل التاريخي"
+en: "Historiographical Intervention"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# التدخل التاريخي (Historiographical Intervention)
 
-## Atlantic World History
+## Historiographical Intervention
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Deliberate historical research and writing aimed at correcting narratives, recovering silenced voices, and challenging dominant histories.
 
 ### Key Aspects
 

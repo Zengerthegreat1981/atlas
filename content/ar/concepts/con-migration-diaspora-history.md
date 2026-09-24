@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-migration-diaspora-history"
+id: "CON-13094"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "تاريخ الهجرة والشتات"
+en: "Migration and Diaspora History"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# تاريخ الهجرة والشتات (Migration and Diaspora History)
 
-## Atlantic World History
+## Migration and Diaspora History
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Study of human migration patterns, diaspora communities, and transnational connections across regions and centuries.
 
 ### Key Aspects
 

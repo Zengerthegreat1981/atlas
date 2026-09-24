@@ -1,11 +1,12 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "thk-quentin-skinner"
+id: "THK-13104"
+type: "thinker"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "كوينتن سكينر"
+en: "Quentin Skinner"
+dates: "1940-"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +16,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# كوينتن سكينر (Quentin Skinner)
 
-## Atlantic World History
+## Quentin Skinner
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Cambridge historian; developed contextual approach to intellectual history emphasizing intentions and linguistic conventions.
 
 ### Key Aspects
 

@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-archival-justice"
+id: "CON-13055"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "العدالة الأرشيفية"
+en: "Archival Justice"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# العدالة الأرشيفية (Archival Justice)
 
-## Atlantic World History
+## Archival Justice
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Ethical framework for managing colonial and marginalized archives; addresses representation, access, and historical redress.
 
 ### Key Aspects
 

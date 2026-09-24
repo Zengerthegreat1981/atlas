@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-masculinity-studies-history"
+id: "CON-13078"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "دراسات الذكورة التاريخية"
+en: "Masculinity Studies in History"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# دراسات الذكورة التاريخية (Masculinity Studies in History)
 
-## Atlantic World History
+## Masculinity Studies in History
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Historical examination of masculinity as constructed, performed, and changing across time; examines male roles and identities.
 
 ### Key Aspects
 

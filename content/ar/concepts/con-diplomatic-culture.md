@@ -1,11 +1,11 @@
 ---
-slug: "sch-atlantic-world-history"
-id: "SCH-13076"
-type: "school"
+slug: "con-diplomatic-culture"
+id: "CON-13072"
+type: "concept"
 part: "historiography"
 level: "متقدم"
-title: "تاريخ العالم الأطلسي"
-en: "Atlantic World History"
+title: "ثقافة الدبلوماسية"
+en: "Diplomatic Culture"
 crumb: "historiography"
 active_start: null
 active_end: null
@@ -15,11 +15,11 @@ related: []
 gaps: []
 ---
 
-# تاريخ العالم الأطلسي (Atlantic World History)
+# ثقافة الدبلوماسية (Diplomatic Culture)
 
-## Atlantic World History
+## Diplomatic Culture
 
-Historiography treating Atlantic as unified field; examines slave trade, colonialism, and intercontinental connections.
+Study of rituals, protocols, and cultural practices of diplomacy; examines how diplomacy shapes international relations.
 
 ### Key Aspects
 
