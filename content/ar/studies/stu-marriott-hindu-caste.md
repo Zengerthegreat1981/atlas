@@ -1,6 +1,6 @@
 ---
 slug: "stu-marriott-hindu-caste"
-id: "STU-1296"
+id: "STU-1309"
 type: "دراسة"
 part: "anthropology"
 level: "متقدم"

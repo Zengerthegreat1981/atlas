@@ -1,6 +1,6 @@
 ---
 slug: "sch-southeast-asian-anthropology"
-id: "SCH-NEW"
+id: "SCH-13134"
 type: "مدرسة"
 part: "anthropology"
 level: "متقدم"

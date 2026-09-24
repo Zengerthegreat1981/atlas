@@ -1,6 +1,6 @@
 ---
 slug: "sch-east-asian-anthropology-advanced"
-id: "SCH-NEW"
+id: "SCH-13135"
 type: "مدرسة"
 part: "anthropology"
 level: "متقدم"

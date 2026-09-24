@@ -1,6 +1,6 @@
 ---
 slug: "stu-ingold-perceptions-environment"
-id: "STU-1302"
+id: "STU-1315"
 type: "دراسة"
 part: "anthropology"
 level: "متقدم"

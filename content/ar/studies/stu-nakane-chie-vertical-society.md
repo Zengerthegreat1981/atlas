@@ -1,6 +1,6 @@
 ---
 slug: "stu-nakane-chie-vertical-society"
-id: "STU-1295"
+id: "STU-1308"
 type: "دراسة"
 part: "anthropology"
 level: "متقدم"

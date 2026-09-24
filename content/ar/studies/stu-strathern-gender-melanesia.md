@@ -1,6 +1,6 @@
 ---
 slug: "stu-strathern-gender-melanesia"
-id: "STU-1293"
+id: "STU-1306"
 type: "دراسة"
 part: "anthropology"
 level: "متقدم"

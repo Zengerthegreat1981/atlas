@@ -1,43 +1,31 @@
 ---
 slug: "thk-anna-tsing"
-id: "THK-6593"
+id: "THK-13308"
 type: "مفكر"
 part: "anthropology"
-anthropological_tradition: "multispecies-ethnography"
 level: "متقدم"
-title: "آنّا تسينغ (Anna Tsing)"
+title: "آنا تسينج (Anna Tsing)"
 en: "Anna Tsing"
-crumb: "الأنثروبولوجيا ← المنعطفات المعاصرة ← الأنثروبولوجيا متعدّدة الأنواع ← آنّا تسينغ"
-dates: "1952 –"
+birth_year: 1952
+
 birth_country: "الولايات المتحدة"
-active_start: 1993
-active_end: "مستمر"
+active_from: 1972
+active_to: 2026
+primary_school: "sch-environmental-indigenous-knowledge"
 edges:
-- rel: "belongs_to", target: "sch-multispecies-ethnography", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-environmental-indigenous-knowledge", target_type: "مدرسة"
 related:
-- id: "sch-multispecies-ethnography", title: "الأنثروبولوجيا متعدّدةُ الأنواع (Multispecies Ethnography — Haraway, Tsing, Kohn)", type: "مدرسة"
-- id: "wrk-mushroom-end-world-tsing", title: "فطرُ نهاية العالم (The Mushroom at the End of the World)", type: "عمل / كتاب"
-- id: "con-contaminated-diversity-tsing", title: "التنوّعُ الملوَّث (Contaminated Diversity)", type: "مفهوم"
 gaps:
-  - "دونا هاراوي فيلسوفةُ علمٍ وتقنية لا أنثروبولوجية ميدانية بالمعنى الصارم؛ لم يُنشأ لها ملفٌّ مستقلٌّ هنا لعدم توفّر عملٍ ميدانيّ يبرِّر تصنيفَها ضمن هذا القسم تحديداً — ذُكرت نصّاً فقط كمؤثِّرةٍ نظرياً في هذا الحقل."
 ---
-# آنّا تسينغ (Anna Tsing)
 
-أنثروبولوجيةٌ أمريكية، أجرت عملَها الميدانيَّ الأساسيَّ في إندونيسيا (غابات كاليمانتان) والولايات المتحدة واليابان، ومن أبرز روّاد «الإثنوغرافيا متعدّدة الأنواع» (Multispecies Ethnography).
+# آنا تسينج (Anna Tsing) (Anna Tsing)
 
-## عيش النهاية العالمية
+**الباحث**: Anna Tsing
+**الفترة النشطة**: 1972 – 2026
+**المدرسة**: sch-environmental-indigenous-knowledge
 
-في عملها المحوريّ *فطر نهاية العالم* (*The Mushroom at the End of the World*, 2015)، تتبّعت تسينغ سلسلةَ توريد فطر «الماتسوتاكي» (Matsutake) عبر العالم — من غاباتٍ متضرِّرة في ولاية أوريغون الأمريكية إلى أسواق اليابان — لتطرح رؤيةً جديدة لفهم الاقتصاد العالمي والبيئة معاً: بدلاً من سرديةٍ عن «التقدّم» الاقتصادي الخطّي المستمرّ، تصف تسينغ عالماً من «التآلفات غير المتوقَّعة» (Contaminated Diversity / Unruly Assemblages) بين أنواعٍ بشرية وغير بشرية (الفطر، الأشجار، الحشرات) وأنساقٍ اقتصادية متنوّعة (رأسمالية، غير رسمية، تعاونية) تتعايش وتتشابك في «الخرائب» التي خلّفتها الرأسمالية الصناعية، منتجةً أشكالاً غيرَ متوقَّعة من الحياة المشتركة.
-
-## أنثروبولوجيا الأنواع المتعدِّدة
-
-تُعدّ تسينغ من أبرز مَن طوّر منهجَ «الإثنوغرافيا متعدّدة الأنواع» — دراسةُ الحياة الاجتماعية والبيئية بوصفها نسيجاً من علاقاتٍ متبادلة بين البشر وأنواعٍ أخرى (فطريات، حشرات، نباتات، حيوانات) لا حكراً على الفاعلية البشرية وحدها، متأثِّرةً في ذلك بأعمال دونا هاراوي النظرية عن «الأنواع الرفيقة» (Companion Species) وإدواردو كون في *كيف تفكِّر الغابات* (*How Forests Think*, 2013).
-
-## الأثر
-
-أثّرت أعمالُ تسينغ بعمقٍ في تأسيس ما يُعرف بـ«الإنسانيات البيئية» (Environmental Humanities) وأنثروبولوجيا الأنثروبوسين، وقدّمت منهجاً إثنوغرافياً جديداً لدراسة سلاسل التوريد العالمية والتشابكات البيئية-الاقتصادية المعاصرة.
+أنثروبولوجيّة أمريكية متخصصة في الإثنوغرافيا متعددة المواقع والعولمة.
 
 ## المصادر
 
-- Tsing, Anna Lowenhaupt. *The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins*. Princeton University Press, 2015.
-- Kohn, Eduardo. *How Forests Think: Toward an Anthropology Beyond the Human*. University of California Press, 2013.
+- OpenLibrary records for Anna Tsing

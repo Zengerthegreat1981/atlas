@@ -1,26 +1,31 @@
 ---
 slug: "thk-ulf-hannersson"
-id: "THK-12802"
+id: "THK-13305"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"
-title: "Ulf Hannersson"
+title: "أولف هانرسون (Ulf Hannersson)"
 en: "Ulf Hannersson"
-dates: "1942 – "
-birth_country: "Sweden"
-edges: []
-related: []
-gaps: []
+birth_year: 1942
+
+birth_country: "السويد"
+active_from: 1962
+active_to: 2026
+primary_school: "sch-urban-indigenous-anthropology"
+edges:
+- rel: "belongs_to", target: "sch-urban-indigenous-anthropology", target_type: "مدرسة"
+related:
+gaps:
 ---
 
-# Ulf Hannersson
+# أولف هانرسون (Ulf Hannersson) (Ulf Hannersson)
 
-**الباحث/ة**: Ulf Hannersson
-**الفترة**: 1942 – 
-**الدولة**: Sweden
+**الباحث**: Ulf Hannersson
+**الفترة النشطة**: 1962 – 2026
+**المدرسة**: sch-urban-indigenous-anthropology
 
-أنثروبولوجي/ة من المساهمين المهمين في تطور الأنثروبولوجيا الحديثة.
+أنثروبولوجيّ سويدي متخصص في الأنثروبولوجيا الحضرية والعولمة الثقافية.
 
----
+## المصادر
 
-**انظر أيضاً**: الأنثروبولوجيا المعاصرة والكلاسيكية
+- OpenLibrary records for Ulf Hannersson

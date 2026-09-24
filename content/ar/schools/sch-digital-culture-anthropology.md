@@ -1,6 +1,6 @@
 ---
 slug: "sch-digital-culture-anthropology"
-id: "SCH-NEW"
+id: "SCH-13137"
 type: "مدرسة"
 part: "anthropology"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "stu-bourdieu-kabyle-society"
-id: "STU-1299"
+id: "STU-1312"
 type: "دراسة"
 part: "anthropology"
 level: "متقدم"

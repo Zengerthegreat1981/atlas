@@ -1,6 +1,6 @@
 ---
 slug: "sch-mediterranean-anthropology"
-id: "SCH-NEW"
+id: "SCH-13136"
 type: "مدرسة"
 part: "anthropology"
 level: "متقدم"

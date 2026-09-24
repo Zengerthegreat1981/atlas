@@ -1,6 +1,6 @@
 ---
 slug: "stu-boyd-networked-teens"
-id: "STU-1300"
+id: "STU-1313"
 type: "دراسة"
 part: "anthropology"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "stu-baym-communities-online"
-id: "STU-1301"
+id: "STU-1314"
 type: "دراسة"
 part: "anthropology"
 level: "متقدم"

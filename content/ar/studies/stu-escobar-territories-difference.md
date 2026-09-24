@@ -1,6 +1,6 @@
 ---
 slug: "stu-escobar-territories-difference"
-id: "STU-1303"
+id: "STU-1316"
 type: "دراسة"
 part: "anthropology"
 level: "متقدم"

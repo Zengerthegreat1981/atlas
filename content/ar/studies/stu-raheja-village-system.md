@@ -1,6 +1,6 @@
 ---
 slug: "stu-raheja-village-system"
-id: "STU-1297"
+id: "STU-1310"
 type: "دراسة"
 part: "anthropology"
 level: "متقدم"

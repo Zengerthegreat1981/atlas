@@ -1,6 +1,6 @@
 ---
 slug: "stu-mead-samoa-adolescence"
-id: "STU-1292"
+id: "STU-1305"
 type: "دراسة"
 part: "anthropology"
 level: "متقدم"

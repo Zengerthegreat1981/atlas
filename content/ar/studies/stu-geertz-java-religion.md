@@ -1,6 +1,6 @@
 ---
 slug: "stu-geertz-java-religion"
-id: "STU-1298"
+id: "STU-1311"
 type: "دراسة"
 part: "anthropology"
 level: "متقدم"

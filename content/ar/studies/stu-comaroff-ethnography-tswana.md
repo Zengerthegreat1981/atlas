@@ -1,6 +1,6 @@
 ---
 slug: "stu-comaroff-ethnography-tswana"
-id: "STU-1291"
+id: "STU-1304"
 type: "دراسة"
 part: "anthropology"
 level: "متقدم"

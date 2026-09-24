@@ -1,6 +1,6 @@
 ---
 slug: "stu-fei-xiaotong-peasant-life"
-id: "STU-1294"
+id: "STU-1307"
 type: "دراسة"
 part: "anthropology"
 level: "متقدم"

@@ -1,31 +1,22 @@
 ---
 slug: "con-cosmopolitanism-anthropology"
-id: "CON-18169"
+id: "CON-18233"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"
-title: "الكوسموبوليتانيّة (Cosmopolitanism)"
-en: "الكوسموبوليتانيّة (Cosmopolitanism)"
-crumb: "الأنثروبولوجيا ← المفاهيم"
-active_start: 1980
-active_end: "مستمر"
-edges: []
-related: []
-gaps: []
+title: "التنويرية العالمية في الأنثروبولوجيا"
+en: "Cosmopolitanism in Anthropology"
+primary_school: "sch-environmental-indigenous-knowledge"
+edges:
+- rel: "belongs_to", target: "sch-environmental-indigenous-knowledge", target_type: "مدرسة"
+related:
+gaps:
 ---
 
-# الكوسموبوليتانيّة (Cosmopolitanism)
+# التنويرية العالمية في الأنثروبولوجيا (Cosmopolitanism in Anthropology)
 
-Perspective seeking common humanity across cultures; engagement with universal principles alongside particular contexts
-
-## السياقُ والأصول
-[تفاصيل قريباً]
-
-## التطبيقاتُ والأمثلة
-[تفاصيل قريباً]
-
-## النقاشاتُ المعاصرة
-[تفاصيل قريباً]
+تقدير التنوع الثقافي والمعايير الأخلاقية المشتركة عبر الحدود.
 
 ## المصادر
-[مصادر]
+
+- نظريات وأطر الأنثروبولوجيا المعاصرة
