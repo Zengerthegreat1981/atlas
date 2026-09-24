@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-writing-culture-crisis", title: "أزمةُ التمثيل وكتابةُ الثقافة (Writing Culture — Clifford & Marcus)", type: "مدرسة"
 - id: "thk-james-clifford", title: "جيمس كليفورد (James Clifford)", type: "مفكر"
+- id: "thk-michael-fischer", title: "ميشيل م. ج. فيشر (Michael M.J. Fischer)", type: "مفكر"
 gaps: []
 ---
 # جورج إ. ماركوس (George E. Marcus)
