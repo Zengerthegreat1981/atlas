@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-writing-culture-crisis", title: "أزمةُ التمثيل وكتابةُ الثقافة (Writing Culture — Clifford & Marcus)", type: "مدرسة"
 - id: "thk-vincent-crapanzano", title: "ﭬنسنت كرابانزانو (Vincent Crapanzano)", type: "مفكر"
+- id: "thk-dorinne-kondo", title: "دورين كوندو (Dorinne Kondo)", type: "مفكر"
 gaps: []
 ---
 # ماريلين آيڤي (Marilyn Ivy)
