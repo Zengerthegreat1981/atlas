@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-manchester-school", title: "مدرسةُ مانشستر وتحليلُ الموقف (Manchester School)", type: "مدرسة"
 - id: "thk-fredrik-barth", title: "فريدريك بارت (Fredrik Barth)", type: "مفكر"
+- id: "thk-ulf-hannerz", title: "أولف هانرتس (Ulf Hannerz)", type: "مفكر"
 gaps: []
 ---
 # توماس هيلاند إريكسن (Thomas Hylland Eriksen)
