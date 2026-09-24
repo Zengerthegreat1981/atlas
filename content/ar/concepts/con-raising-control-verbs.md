@@ -14,7 +14,9 @@ edges:
 related:
 - id: "con-unaccusativity-split-intransitivity", title: "اللاتعدّيةُ الانقسامية (Split Intransitivity / Unaccusativity)", type: "مفهوم"
 - id: "con-deep-surface-structure", title: "البنيةُ العميقة والبنيةُ السطحية", type: "مفهوم"
-gaps: []
+- id: "thk-paul-postal", title: "پول م. پوستال", type: "مفكر"
+gaps:
+  - "پيتر س. روزنباوم (Rosenbaum)، مؤلِّفُ *The Grammar of English Predicate Complement Constructions* (1967) المستشهَدِ به هنا، لا يملك عقدةَ سيرةٍ مستقلّة بعد."
 ---
 
 # أفعالُ الرفعِ مقابل أفعال التحكّم
