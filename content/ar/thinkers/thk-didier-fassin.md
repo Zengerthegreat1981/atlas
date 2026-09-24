@@ -1,42 +1,37 @@
 ---
 slug: "thk-didier-fassin"
-id: "THK-8988"
+id: "THK-12762"
 type: "مفكر"
 part: "anthropology"
-anthropological_tradition: "critical-medical-anthropology"
+anthropological_tradition: "medical-anthropology-ethics"
 level: "متقدم"
-title: "ديدييه فاسان (Didier Fassin)"
+title: "ديديه فاسّان (Didier Fassin)"
 en: "Didier Fassin"
-crumb: "الأنثروبولوجيا ← العنف البنيوي والصحّة ← ديدييه فاسان"
-dates: "1955 –"
+crumb: "الأنثروبولوجيا ← الأنثروبولوجيا الطبّية ← ديديه فاسّان"
+dates: "1957 – "
 birth_country: "فرنسا"
-active_start: 1983
-active_end: "مستمر"
+active_start: 1988
+active_end: 2026
 edges:
-- rel: "belongs_to", target: "sch-structural-violence-health", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-medical-anthropology", target_type: "مدرسة"
 related:
-- id: "sch-structural-violence-health", title: "العنفُ البنيويُّ والصحّة (Structural Violence — Farmer, Scheper-Hughes)", type: "مدرسة"
-- id: "thk-joao-biehl", title: "جواو بيل (João Biehl)", type: "مفكر"
-- id: "thk-julie-livingston", title: "جولي ليڤنغستون (Julie Livingston)", type: "مفكر"
+- id: "sch-medical-anthropology", title: "الأنثروبولوجيا الطبّية", type: "مدرسة"
+- id: "con-structural-violence-health", title: "العنفُ البنيويُّ والصحّة", type: "مفهوم"
 gaps: []
 ---
-# ديدييه فاسان (Didier Fassin)
 
-أنثروبولوجيٌّ وطبيبٌ فرنسيّ، عمل مع منظّمة «أطبّاء بلا حدود» قبل تحوّله للبحث الأكاديميّ، ومن أبرز مؤسِّسي حقل «الأنثروبولوجيا الأخلاقية» (Moral Anthropology) المعاصرة.
+# ديديه فاسّان (Didier Fassin)
 
-## العقلُ الإنسانويّ
+أنثروبولوجي وطبيب فرنسي متخصص في الأنثروبولوجيا الطبية والأخلاقيات والمعاناة. أسهم في تطوير "نقد أنثروبولوجي" يربط بين الحياة اليومية والهياكل السياسية والاقتصادية.
 
-في عمله المحوريّ *العقلُ الإنسانويّ: تاريخٌ نقديّ للزمن الحاضر* (*Humanitarian Reason: A Moral History of the Present*, 2011)، قدّم فاسان نقداً أنثروبولوجياً عميقاً لـ«العقل الإنسانويّ» المعاصر — الميلُ المتزايد لدى الدول والمؤسّسات الدولية لمعالجة القضايا السياسية (كاللجوء، الفقر، الهجرة) بلغة «الشفقة» و«المساعدة الإنسانية» الأخلاقية بدلاً من لغة الحقوق والعدالة السياسية، مُظهراً كيف يمكن لهذا التحوّل الخطابيّ الظاهريّ الإيجابيّ أن يُخفي فعلياً تراجعاً في الاعتراف بالحقوق السياسية الكاملة للفئات المتضرِّرة، ويُحوِّلها من «مواطنين» أو «أصحاب حقوق» إلى «ضحايا» يستحقّون الشفقةَ لا العدالة.
+## أنثروبولوجيا الأخلاقيات
 
-## معاقبةُ الأحياء الفقيرة
+طور فاسّان مفهوم "أنثروبولوجيا الأخلاقيات" (moral anthropology) الذي يدرس كيفية تشكل الأحكام الأخلاقية والقيم الإنسانية في السياقات الاجتماعية والسياسية.
 
-في دراسته الإثنوغرافية عن الشرطة الفرنسية في الأحياء الفقيرة المهمَّشة (*La Force de l'ordre: Une anthropologie de la police des quartiers*, 2011)، حلّل فاسان كيف تتشكّل ممارساتُ الشرطة اليومية (التوقيفُ، التفتيشُ) عبر تحيّزاتٍ عرقية وطبقية ضمنية تُعيد إنتاج علاقات القوّة والتمييز البنيويّ، مقدِّماً نقداً إثنوغرافياً دقيقاً لممارسات الدولة الأمنية المعاصرة.
+## العنف البنيوي والصحة
 
-## الأثر
+درس فاسّان تأثير العنف البنيوي على الصحة البشرية، خاصة بين المهاجرين والفقراء والمهمشين.
 
-يُعدّ فاسان من أكثر الأنثروبولوجيّين تأثيراً في تأسيس «الأنثروبولوجيا الأخلاقية» المعاصرة، التي تدرس كيف تتشكّل مفاهيمُ الشفقة والعدالة والاستحقاق نفسُها عبر ممارساتٍ وخطاباتٍ مؤسّسية محدَّدة، مؤثِّراً في نقاشاتٍ معاصرة حول سياسات اللجوء والهجرة والعدالة الجنائية عبر أوروبا وخارجها.
+---
 
-## المصادر
-
-- Fassin, Didier. *Humanitarian Reason: A Moral History of the Present*. Translated by Rachel Gomme. University of California Press, 2011.
-- Fassin, Didier. *Enforcing Order: An Ethnography of Urban Policing*. Translated by Rachel Gomme. Polity Press, 2013.
+**انظر أيضاً**: sch-medical-anthropology, con-structural-violence-health
