@@ -15,6 +15,8 @@ related:
 - id: "sch-generative-grammar", title: "النحوُ التوليديُّ التحويليّ (Generative-Transformational Grammar)", type: "مدرسة"
 - id: "con-syntagmatic-paradigmatic-axes", title: "المحورانِ التركيبيُّ والاستبداليّ (Syntagmatic & Paradigmatic Axes)", type: "مفهوم"
 - id: "con-speech-errors-slips-tongue", title: "زلّاتُ اللسان وأخطاءُ الكلام (Speech Errors & Slips of the Tongue)", type: "مفهوم"
+- id: "thk-noam-chomsky", title: "نعوم تشومسكي", type: "مفكر"
+- id: "thk-frederick-newmeyer", title: "فريدريك ج. نيومايِر", type: "مفكر"
 gaps:
   - "حيادٌ صريحٌ محفوظ إزاء الجدل حول قابلية الفصل الحادّ بين الكفاية والأداء عملياً (نقدُ باحثين وظيفيين لصعوبة عزل «الكفاية» عن بيانات الأداء الفعلي وحدها)؛ لا يُرجَّح طرفٌ هنا."
 ---
