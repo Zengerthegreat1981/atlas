@@ -1,43 +1,33 @@
 ---
 slug: "thk-paul-farmer"
-id: "THK-6586"
+id: "THK-13118"
 type: "مفكر"
 part: "anthropology"
-anthropological_tradition: "critical-medical-anthropology"
-level: "متوسط"
+level: "متقدم"
 title: "پول فارمر (Paul Farmer)"
 en: "Paul Farmer"
-crumb: "الأنثروبولوجيا ← الأنثروبولوجيا الطبّية والنفسية ← العنف البنيوي ← پول فارمر"
-dates: "1959 – 2022"
+birth_year: 1959
+death_year: 2022
 birth_country: "الولايات المتحدة"
-active_start: 1990
-active_end: 2022
+active_from: 1990
+active_to: 2022
+primary_school: "sch-medical-anthropology-global-health"
 edges:
-- rel: "belongs_to", target: "sch-structural-violence-health", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-medical-anthropology-global-health", target_type: "مدرسة"
 related:
-- id: "sch-structural-violence-health", title: "العنفُ البنيويُّ والصحّة (Structural Violence — Farmer, Scheper-Hughes)", type: "مدرسة"
-- id: "thk-arthur-kleinman", title: "آرثر كلاينمان (Arthur Kleinman)", type: "مفكر"
-- id: "con-structural-violence-definition", title: "العنفُ البنيويّ (Structural Violence)", type: "مفهوم"
-- id: "wrk-pathologies-of-power-farmer", title: "علمُ أمراض السلطة (Pathologies of Power)", type: "عمل / كتاب"
-gaps: []
+- id: "sch-applied-anthropology-development", title: "الأنثروبولوجيا التطبيقية والتنمية", type: "مدرسة"
+gaps:
+  - "إضافة دراسات حول عمل فارمر في هايتي والبيرو والعراق."
 ---
+
 # پول فارمر (Paul Farmer)
 
-طبيبٌ وأنثروبولوجيٌّ طبّيّ أمريكيّ، أجرى عملَه الأساسيَّ في هايتي علاجاً وبحثاً ميدانياً معاً، وشارك في تأسيس منظمة «شركاء في الصحة» (Partners in Health) لتقديم رعايةٍ صحّية للفقراء في الدول النامية.
+**الباحث/الطبيب**: Paul Farmer  
+**الفترة النشطة**: 1990 – 2022  
+**المدرسة**: الأنثروبولوجيا الطبيّة والصحّة العالمية
 
-## العنف البنيوي
-
-طوّر فارمر مفهوم «العنف البنيوي» (Structural Violence) — الأذى الذي تُلحقه بالبشر بناها الاجتماعية والاقتصادية والسياسية غير المتكافئة (الفقر، العنصرية، انعدام الوصول إلى الرعاية الصحية) دون أن يكون له فاعلٌ فرديّ مباشر يمكن تحميلُه المسؤولية، على خلاف العنف المباشر (كالضرب أو القتل). في *أمراضٌ من الفقر* (*Infections and Inequalities: The Modern Plagues*, 1999) و*علم أمراض السلطة* (*Pathologies of Power: Health, Human Rights, and the New War on the Poor*, 2003)، أظهر كيف أنّ توزيعَ الأمراض المُعدية (كالسلّ ونقص المناعة المكتسب) عالمياً ليس عشوائياً حيادياً، بل يتبع خطوطَ عدم المساواة البنيوية — الفقراءُ في هايتي أو روسيا أو أمريكا اللاتينية يُصابون ويموتون بمعدّلاتٍ أعلى بكثير، لا لأسبابٍ بيولوجية بحتة، بل لأنّ فقرَهم وإقصاءَهم البنيوي يحرمهم من الرعاية والوقاية المتاحة لغيرهم.
-
-## نقد الأنثروبولوجيا الطبّية النقدية
-
-جادل فارمر بأنّ الأنثروبولوجيا الطبّية التأويلية وحدها (كنموذج كلاينمان في «النماذج التفسيرية») قد تكتفي بفهم كيف يفسِّر المريضُ مرضَه ثقافياً، دون مساءلة البنى الاقتصادية والسياسية العالمية التي جعلته عرضةً للمرض أصلاً وحرمته من العلاج. دعا إلى «أنثروبولوجيا طبّية نقدية» تربط التحليلَ الثقافي المحلّي بتحليلٍ للبنى العالمية غير المتكافئة (الاستعمار، الديون الدولية، سياسات الصحة النيوليبرالية).
-
-## الأثر
-
-أثّر فارمر بعمقٍ في ربط الأنثروبولوجيا الطبّية بحقوق الإنسان والعدالة الصحية العالمية، وأثّرت منظمتُه في سياسات مكافحة السلّ ونقص المناعة المكتسب عالمياً، فأصبح نموذجاً للأنثروبولوجيّ الملتزم عملياً (Engaged Anthropology) لا الباحث المتفرّج وحده.
+أنثروبولوجيٌّ وطبيبٌ أمريكيٌّ درسَ الإيدزَ والدرنَ والفقرَ في هايتي والبيرو. اشتهرَ بتطويرِ مفهومِ «العنفِ البنيويِّ» (Structural Violence).
 
 ## المصادر
 
-- Farmer, Paul. *Pathologies of Power: Health, Human Rights, and the New War on the Poor*. University of California Press, 2003.
-- Farmer, Paul. *Infections and Inequalities: The Modern Plagues*. University of California Press, 1999.
+- Farmer, Paul. *AIDS and Accusation: Haiti and the Geography of Blame*. University of California Press, 1992.
