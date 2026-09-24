@@ -15,7 +15,9 @@ related:
 - id: "sch-sentence-processing-psycholinguistics", title: "علمُ اللغة النفسيُّ ومعالجةُ الجملة (Sentence Processing)", type: "مدرسة"
 - id: "ins-eye-tracking-reaction-time", title: "تتبّعُ العين وزمنُ الاستجابة في المعالجة (Eye-Tracking & Reaction Time)", type: "منهج/أداة بحث"
 - id: "con-garden-path-minimal-attachment-frazier", title: "جملُ المسار المُضلِّل ومبدآ الإلحاق الأدنى والإغلاق المتأخّر عند فريزير", type: "مفهوم"
-gaps: []
+- id: "thk-michael-tanenhaus", title: "مايكل ك. تاننهاوس", type: "مفكر"
+gaps:
+  - "جون سي. ترويسِل (شريكُ تاننهاوس في التحرير 2005)، وزملاؤه في ورقة 1995 (سپايڤي-نولتون، إبرهارد، سيديڤي) لا يملكون عقدةَ سيرةٍ مستقلّة بعد."
 ---
 
 # نموذجُ العالم البصري عند تاننهاوس
