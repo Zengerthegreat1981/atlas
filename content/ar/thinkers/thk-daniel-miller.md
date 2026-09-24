@@ -19,6 +19,7 @@ related:
 - id: "stu-why-we-post-miller", title: "لماذا ننشر؟ (Why We Post)", type: "دراسة وبحث"
 - id: "wrk-theory-of-shopping-miller", title: "نظريةُ التسوّق (A Theory of Shopping)", type: "عمل / كتاب"
 - id: "thk-tom-boellstorff", title: "توم بولستورف (Tom Boellstorff)", type: "مفكر"
+- id: "thk-heather-horst", title: "هيذر هورست (Heather A. Horst)", type: "مفكر"
 gaps: []
 ---
 # دانيال ميلر (Daniel Miller)
