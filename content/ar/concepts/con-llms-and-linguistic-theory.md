@@ -15,8 +15,10 @@ related:
 - id: "sch-generative-grammar", title: "النحوُ التوليديُّ التحويليّ (Generative-Transformational Grammar)", type: "مدرسة"
 - id: "dbt-innateness-vs-usage-based-language-acquisition", title: "جدلُ الفطرية اللغوية مقابل الاستعمالية في اكتساب اللغة", type: "جدل"
 - id: "con-transformer-attention-mechanism", title: "معماريةُ المحوِّل وآليةُ الانتباه (Transformer & Attention Mechanism)", type: "مفهوم"
+- id: "thk-tal-linzen", title: "تال لينزن", type: "مفكر"
 gaps:
   - "حيادٌ صريحٌ محفوظ: هذا الجدلُ لا يزال مفتوحاً بين لسانيين وباحثي تعلّمٍ آليّ دون ترجيحٍ علميٍّ حاسم؛ لا يعرض هذا الملفُّ طرفاً منتصراً، تماشياً مع توجيه المهمّة بشأن جدل الفطرية."
+  - "ستيفن ت. پيانتادوسي (Piantadosi 2023) وماركو بارُوني (شريكُ لينزن) لا يملكان عقدةَ سيرةٍ مستقلّة بعد."
 ---
 
 # النماذجُ اللغويةُ الكبرى وأثرُها على النظرية اللغوية
