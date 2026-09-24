@@ -15,6 +15,7 @@ related:
 - id: "sch-text-linguistics", title: "لسانياتُ النصِّ وتماسكُه (Text Linguistics)", type: "مدرسة"
 - id: "con-binding-theory-principles", title: "مبادئُ نظرية الربط أ ب ج (Binding Theory Principles A, B, C)", type: "مفهوم"
 - id: "con-deixis", title: "الإشاريةُ أو الديكسيس (Deixis)", type: "مفهوم"
+- id: "thk-ruslan-mitkov", title: "روسلان ميتكوف", type: "مفكر"
 gaps: []
 ---
 

@@ -34,6 +34,7 @@ related:
 - id: "con-word2vec-mikolov", title: "خوارزميةُ Word2Vec عند ميكولوف", type: "مفهوم"
 - id: "con-seq2seq-encoder-decoder", title: "معماريةُ التسلسل إلى تسلسل والمُرمِّز-المُفكِّك (Seq2Seq & Encoder-Decoder)", type: "مفهوم"
 - id: "thk-george-a-miller", title: "جورج أ. ميلر", type: "مفكر"
+- id: "thk-ruslan-mitkov", title: "روسلان ميتكوف", type: "مفكر"
 gaps:
   - "لا `belongs_to`/`evolved_from`: فرعٌ متعدّدُ الأصول (منطقٌ حاسوبيٌّ، نظريةُ الأتمتة، إحصاءٌ) نشأ بالتوازي مع النحو التوليدي دون انحدارٍ حصريٍّ منه."
 ---
