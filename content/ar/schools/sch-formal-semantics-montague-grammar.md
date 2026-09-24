@@ -39,6 +39,7 @@ related:
 - id: "thk-hans-kamp", title: "هانز كامپ", type: "مفكر"
 - id: "thk-mats-rooth", title: "ماتس روث", type: "مفكر"
 - id: "thk-lauri-karttunen", title: "لوري كارتونن", type: "مفكر"
+- id: "thk-knud-lambrecht", title: "كنود لامبرخت", type: "مفكر"
 gaps:
   - "لا `belongs_to`/`evolved_from`: نشأت الدلالةُ الصوريةُ من تقاطع المنطق الرياضي بأعمال مونتاغيو المنطقية المستقلة عن سلالة تشومسكي التوليدية، لا كامتدادٍ تاريخيٍّ مباشرٍ منها؛ سُجِّلت العلاقةُ بـ`related` لا بعلاقة انحدار."
   - "**سُدَّ بالكامل 2026-09-22 (الدفعة 238)**: أُنشئت `thk-angelika-kratzer` وعقدتُها المفهومية `con-kratzer-modal-base-ordering-source`، مستشهَدٌ بعملها المشترك مع Heim في مصادر هذا الملفّ دون أن تكون هي نفسُها موصولةً بعقدةٍ سابقاً."
