@@ -14,7 +14,9 @@ edges:
 related:
 - id: "evt-alpac-report-machine-translation-1966", title: "تقريرُ ألباك (ALPAC) وأزمةُ تمويل الترجمة الآلية 1966", type: "حدث تاريخي"
 - id: "sch-computational-linguistics-nlp", title: "اللسانياتُ الحاسوبيةُ ومعالجةُ اللغة الطبيعية (Computational Linguistics & NLP)", type: "مدرسة"
-gaps: []
+- id: "thk-warren-weaver", title: "وارن ويفر", type: "مفكر"
+gaps:
+  - "كلود شانون، مؤسِّسُ نظرية المعلومات المذكورُ في المتن، لا يملك عقدةَ سيرةٍ مستقلّة بعد."
 ---
 
 # الحربُ الباردة وتمويلُ الترجمة الآلية المبكرة

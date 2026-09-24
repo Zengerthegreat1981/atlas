@@ -14,6 +14,7 @@ edges:
 related:
 - id: "sch-american-structural-linguistics", title: "البنيويةُ الأمريكيةُ والتوزيعية (American Structural Linguistics)", type: "مدرسة"
 - id: "ins-descriptive-linguistic-fieldwork", title: "التسجيلُ الميدانيُّ ووصفُ اللغات (Descriptive Fieldwork)", type: "منهج/أداة بحث"
+- id: "thk-leonard-bloomfield", title: "ليونارد بلومفيلد", type: "مفكر"
 gaps:
   - "فرانز بواز، أصلُ هذا المبدأ تاريخياً في اللسانيات الأمريكية، موثَّقٌ بالفعل تحت `part: anthropology`؛ لم يُنشأ له نظيرٌ هنا، والمبدأُ يُنسَب إليه نصّياً دون تكرار سيرته."
 ---
