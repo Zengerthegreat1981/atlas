@@ -14,7 +14,9 @@ edges:
 related:
 - id: "sch-generative-phonology", title: "الصرفُ التوليديُّ والصواتةُ التوليدية (Generative Phonology)", type: "مدرسة"
 - id: "con-phoneme", title: "الفونيم", type: "مفهوم"
-gaps: []
+- id: "thk-juliette-blevins", title: "جوليَت بليڤِنز", type: "مفكر"
+gaps:
+  - "مايكل كنستوفيتش (Kenstowicz)، مؤلِّفُ *Phonology in Generative Grammar* (1994) المستشهَدِ به هنا، لا يملك عقدةَ سيرةٍ مستقلّة بعد."
 ---
 
 # بنيةُ المقطع الصوتي والقيودُ الصوتية التركيبية

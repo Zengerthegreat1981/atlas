@@ -37,6 +37,7 @@ related:
 - id: "thk-diana-archangeli", title: "ديانا أركانجلي", type: "مفكر"
 - id: "thk-elizabeth-hume", title: "إليزابيث هيوم", type: "مفكر"
 - id: "thk-elisabeth-selkirk", title: "إليزابيث سلكيرك", type: "مفكر"
+- id: "thk-juliette-blevins", title: "جوليَت بليڤِنز", type: "مفكر"
 gaps: []
 ---
 
