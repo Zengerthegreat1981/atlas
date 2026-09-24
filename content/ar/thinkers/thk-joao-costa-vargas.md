@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-postcolonial-critique-anthropology", title: "النقدُ ما بعد الاستعماريّ للأنثروبولوجيا (Asad, Anthropology and the Colonial Encounter)", type: "مدرسة"
 - id: "thk-john-jackson", title: "جون ل. جاكسون الابن (John L. Jackson Jr.)", type: "مفكر"
+- id: "thk-christen-smith", title: "كريستن إيه. سميث (Christen A. Smith)", type: "مفكر"
 gaps: []
 ---
 # جواو ﻫ. كوستا ڤارغاس (João H. Costa Vargas)
