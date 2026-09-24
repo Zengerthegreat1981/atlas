@@ -16,6 +16,7 @@ edges:
 related:
 - id: "sch-cognitive-anthropology", title: "الأنثروبولوجيا المعرفية والإثنوعلوم (Cognitive Anthropology & Ethnoscience)", type: "مدرسة"
 - id: "thk-bradd-shore", title: "براد شور (Bradd Shore)", type: "مفكر"
+- id: "thk-lucy-suchman", title: "لوسي سوتشمان (Lucy Suchman)", type: "مفكر"
 gaps: []
 ---
 # إدوين هَتشِنز (Edwin Hutchins)
