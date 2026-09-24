@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-manchester-school", title: "مدرسةُ مانشستر وتحليلُ الموقف (Manchester School)", type: "مدرسة"
 - id: "thk-erica-bornstein", title: "إيريكا بورنستاين (Erica Bornstein)", type: "مفكر"
+- id: "thk-ilana-feldman", title: "إيلانا فيلدمان (Ilana Feldman)", type: "مفكر"
 gaps: []
 ---
 # ميريام تيكتين (Miriam Ticktin)
