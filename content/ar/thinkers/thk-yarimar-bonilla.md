@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-postcolonial-critique-anthropology", title: "النقدُ ما بعد الاستعماريّ للأنثروبولوجيا (Asad, Anthropology and the Colonial Encounter)", type: "مدرسة"
 - id: "thk-deborah-thomas", title: "ديبورا إيه. توماس (Deborah A. Thomas)", type: "مفكر"
+- id: "thk-marisol-lebron", title: "ماريسول لِبرون (Marisol LeBrón)", type: "مفكر"
 gaps: []
 ---
 # ياريمار بونيّا (Yarimar Bonilla)
