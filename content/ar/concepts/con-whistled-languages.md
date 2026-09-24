@@ -14,7 +14,9 @@ edges:
 related:
 - id: "sch-linguistic-typology", title: "النمطيةُ اللغويةُ والكلّياتُ اللغوية (Linguistic Typology & Universals)", type: "مدرسة"
 - id: "con-prosody-intonation", title: "العروضُ الكلاميُّ والتنغيم (Prosody & Intonation)", type: "مفهوم"
-gaps: []
+- id: "thk-julien-meyer", title: "جوليان ماير", type: "مفكر"
+gaps:
+  - "رينيه-غي بوسنيل وأندريه كلاس، مؤلِّفا الدراسة الرائدة Whistled Languages (1976)، لا يملكان عقدةَ سيرةٍ مستقلّة بعد."
 ---
 
 # اللغاتُ الصفيرية

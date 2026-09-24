@@ -59,6 +59,7 @@ related:
 - id: "thk-arnold-zwicky", title: "أرنولد زويكي", type: "مفكر"
 - id: "thk-otto-jespersen", title: "أوتو يسبرسن", type: "مفكر"
 - id: "thk-johan-van-der-auwera", title: "يوهان ﭬان دِر آويرا", type: "مفكر"
+- id: "thk-julien-meyer", title: "جوليان ماير", type: "مفكر"
 gaps:
   - "عقدةٌ جذريةٌ (لا `belongs_to`) — منهجٌ استقرائيٌّ مقارنٌ مستقلٌّ عن التوليدية والبنيوية، وإن تقاطع معهما موضوعياً."
   - "**سُدَّ بالكامل 2026-09-22 (الدفعة 161)**: أُنشئ `thk-martin-haspelmath` (نقدُ الكلّيات الفطرية، مشروعُ الاقتراض المعجمي العالمي)."
