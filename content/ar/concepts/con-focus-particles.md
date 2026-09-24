@@ -14,7 +14,9 @@ edges:
 related:
 - id: "sch-formal-semantics-montague-grammar", title: "الدلالةُ الصوريةُ ونحوُ مونتاغيو (Formal Semantics)", type: "مدرسة"
 - id: "con-topic-focus-information-structure", title: "البنيةُ المعلوماتية: الموضوعُ والبؤرة (Information Structure: Topic & Focus)", type: "مفهوم"
-gaps: []
+- id: "thk-mats-rooth", title: "ماتس روث", type: "مفكر"
+gaps:
+  - "إكيهارد كونيگ (König)، مؤلِّفُ *The Meaning of Focus Particles* (1991) المستشهَدِ به هنا، لا يملك عقدةَ سيرةٍ مستقلّة بعد."
 ---
 
 # جسيماتُ التركيز
