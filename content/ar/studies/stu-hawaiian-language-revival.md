@@ -21,7 +21,10 @@ related:
 - id: "stu-hebrew-language-revival", title: "إحياءُ اللغة العبرية الحديثة: حالةٌ نادرة", type: "دراسة"
 - id: "con-language-nest-kohanga-reo", title: "عشُّ اللغة: نموذجُ كوهانغا ريو الماوري (Language Nest)", type: "مفهوم"
 - id: "con-gids-fishman", title: "المقياسُ المتدرِّج للانقطاع بين الأجيال عند فيشمان (GIDS)", type: "مفهوم"
-gaps: []
+- id: "thk-william-wilson", title: "وليام هـ. ويلسون", type: "مفكر"
+- id: "thk-ken-hale", title: "كِن هيل", type: "مفكر"
+gaps:
+  - "كاوانوي كامانا وسام ل. نوعياو ورنر، مؤلِّفا/مؤلِّفة المصدرَين المباشرَين، لا يملكان عقدةَ سيرةٍ مستقلّة بعد."
 ---
 
 # إحياءُ اللغة الهاوائية عبر التغمير اللغوي

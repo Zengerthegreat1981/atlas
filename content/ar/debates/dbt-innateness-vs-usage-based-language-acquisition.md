@@ -16,6 +16,9 @@ related:
 - id: "sch-first-language-acquisition", title: "اكتسابُ اللغة الأولى ومراحلُه", type: "مدرسة"
 - id: "crt-piraha-recursion-challenge-universal-grammar", title: "تحدّي پيراها للعودية الكلّية (Pirahã Challenge to Universal Recursion)", type: "نقد خارجي موثَّق"
 - id: "wrk-constructing-a-language-tomasello", title: "بناءُ لغة: نظريةٌ استعمالية لاكتساب اللغة (Constructing a Language)", type: "أثر"
+- id: "thk-noam-chomsky", title: "نعوم تشومسكي", type: "مفكر"
+- id: "thk-michael-tomasello", title: "مايكل توماسيلو", type: "مفكر"
+- id: "thk-joan-bybee", title: "جوان بايبي", type: "مفكر"
 gaps:
   - "**حياد إلزامي (توجيهاتُ المهمّة)**: هذا الملفُّ لا يعرض أحدَ الطرفين منتصراً. الجدلُ ما زال مفتوحاً أكاديمياً حتى تاريخ كتابة هذا الملف."
   - "**سُدَّ بالكامل 2026-09-22 (الدفعة 186)**: مسألةُ لغة پيراها موثَّقةٌ بالفعل في `crt-piraha-recursion-challenge-universal-grammar`؛ وأُنشئ `wrk-constructing-a-language-tomasello` لتفصيل موقفه الاستعمالي."
