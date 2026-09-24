@@ -14,6 +14,9 @@ edges:
 related:
 - id: "sch-linguistic-typology", title: "النمطيةُ اللغويةُ والكلّياتُ اللغوية (Linguistic Typology & Universals)", type: "مدرسة"
 - id: "con-grammatical-agreement-concord", title: "المطابقةُ النحوية (Grammatical Agreement / Concord)", type: "مفهوم"
+- id: "thk-greville-corbett", title: "غريفيل كوربِت", type: "مفكر"
+- id: "thk-alexandra-aikhenvald", title: "ألكسندرا آيخنفالد", type: "مفكر"
+- id: "thk-lera-boroditsky", title: "ليرا بوروديتسكي", type: "مفكر"
 gaps:
   - "حيادٌ صريحٌ محفوظ: مدى تأثير الجنس النحوي على الإدراك (كما في بعض تجارب بوروديتسكي عن أسماء الجسور المذكَّرة/المؤنَّثة في الألمانية والإسبانية) لا يزال موضعَ جدلٍ تجريبيٍّ لم يُحسَم."
 ---
