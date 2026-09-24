@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-anthropological-political-economy", title: "الاقتصادُ السياسيُّ العالميُّ والتاريخ (Eric Wolf — Europe and the People Without History)", type: "مدرسة"
 - id: "thk-elizabeth-chin", title: "إليزابيث تشين (Elizabeth Chin)", type: "مفكر"
+- id: "thk-chris-gregory", title: "كريس غريغوري (Chris A. Gregory)", type: "مفكر"
 gaps: []
 ---
 # إيغور كوبيتوف (Igor Kopytoff)
