@@ -1,0 +1,42 @@
+---
+slug: "sch-ibn-khaldun-proto-anthropology"
+id: "SCH-12390"
+type: "مدرسة"
+part: "anthropology"
+anthropological_tradition: "ibn-khaldun-proto-anthropology"
+level: "متقدم"
+title: "علمُ العمران الخلدونيّ بوصفه سلفاً أنثروبولوجياً"
+en: "Ibn Khaldun's Science of Civilization as Proto-Anthropology"
+crumb: "الأنثروبولوجيا ← التأسيس والتطوّرية الكلاسيكية ← علمُ العمران الخلدونيّ"
+active_start: 1377
+active_end: 2100
+edges: []
+related:
+- id: "thk-ibn-khaldun", title: "ابنُ خلدون (Ibn Khaldun)", type: "مفكر"
+- id: "wrk-muqaddimah-khaldun", title: "المقدِّمة (Muqaddimah)", type: "عمل / كتاب"
+- id: "con-asabiyyah", title: "العصبيّةُ (Asabiyyah)", type: "مفهوم"
+- id: "con-badawa-hadara", title: "البدويّةُ والحضارةُ", type: "مفهوم"
+gaps: []
+---
+
+# علمُ العمران الخلدونيّ بوصفه سلفاً أنثروبولوجياً
+
+تقديرٌ معاصرٌ لمساهمةِ ابنِ خلدون المسبِقة لعلمِ الأنثروبولوجيا الحديث. طوّر ابنُ خلدون في القرنِ الرابعِ عشرَ نظريةً شاملةً عن **كيفيةَ تطوّرِ المجتمعات من البدويّةِ إلى الحضارة**، مؤسِّساً بذلك منهجاً علميّاً للدراسةِ المقارنة للثقافاتِ قروناً قبلَ ظهورِ الأنثروبولوجيا الحديثة.
+
+## العمرانُ والمجتمع
+
+اخترعَ ابنُ خلدون مصطلحَ «علمِ العمران» (Science of Civilization) ليدلّ على دراسةِ الأنماطِ الاجتماعيةِ والاقتصاديةِ والثقافيةِ التي تحكمُ حياةَ المجتمعات. هذا يعادلُ في الأساسِ تعريفَ الأنثروبولوجيا الاجتماعية الحديثة.
+
+## العصبيّةُ (Asabiyyah)
+
+قدّم ابنُ خلدون نظريةً عن الرابطةِ الاجتماعيةِ (العصبيّة) التي تربطُ أفرادَ القبيلةِ ببعضهم. هذه الرابطةُ تتغيّرُ مع الزمنِ والانتقالِ من البدو إلى الحضر، وتشكّلُ أساسَ الاستقرارِ السياسيِّ والاجتماعيّ.
+
+## دورةُ الأجيالِ الثلاثة
+
+طرحَ ابنُ خلدون نموذجاً عن دورةِ الأجيالِ: الجيلُ الأوّلُ يتذكّرُ البادية، الثاني يعيشُ الانتقال، الثالثُ يولدُ بالحضر ولا يعرفُ البدويّة. هذا انعكاسٌ مبكّرٌ للتطوّرِ الثقافيِّ والنفسيّ.
+
+## المصادر
+
+- Ibn Khaldun. *Muqaddimah (Introduction to the Muqaddimah)*. c. 1377.
+- Lacoste, Yves. *Ibn Khaldoun: Naissance de l'histoire, Passé de la Politique*. Maspéro, 1966.
+- Rosenthal, Erwin I. J. *Political Thought in Medieval Islam*. Cambridge, 1958.

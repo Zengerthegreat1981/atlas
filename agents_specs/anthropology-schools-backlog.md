@@ -18,18 +18,18 @@
 ## 1. التأسيس والتطوّرية الكلاسيكية (Classical & Evolutionary)
 
 - [x] الأنثروبولوجيا التطوّرية الكلاسيكية (Classical Evolutionism — Tylor, Morgan) — `sch-classical-evolutionism`، `thk-edward-tylor`، `thk-lewis-henry-morgan`
-- [ ] الأنثروبولوجيا المقارنة للدين والسحر (Comparative Religion — Frazer)
-- [ ] الانتشارية البريطانية والألمانية-النمساوية (Diffusionism / Kulturkreis)
-- [ ] علمُ العمران الخلدونيّ بوصفه سلفاً أنثروبولوجياً (Ibn Khaldun as Proto-Anthropology)
-- [ ] الرحلةُ والإثنوغرافيا العربيةُ الوسيطة (Ibn Battuta, al-Biruni's *Kitab al-Hind*)
+- [x] الأنثروبولوجيا المقارنة للدين والسحر (Comparative Religion — Frazer) — `sch-comparative-religion-frazer`، `thk-james-frazer`
+- [x] الانتشارية البريطانية والألمانية-النمساوية (Diffusionism / Kulturkreis) — `sch-diffusionism-kulturkreis`
+- [x] علمُ العمران الخلدونيّ بوصفه سلفاً أنثروبولوجياً (Ibn Khaldun as Proto-Anthropology) — `sch-ibn-khaldun-proto-anthropology`، `thk-ibn-khaldun`
+- [x] الرحلةُ والإثنوغرافيا العربيةُ الوسيطة (Ibn Battuta, al-Biruni's *Kitab al-Hind*) — `sch-medieval-arabic-ethnography`، `thk-ibn-battuta`، `thk-al-biruni`
 
 ## 2. المدرسةُ الفرنسية وعلمُ الاجتماع الديني (French Tradition)
 
-- [ ] المدرسةُ الدوركهايمية في الأنثروبولوجيا (Année Sociologique)
+- [x] المدرسةُ الدوركهايمية في الأنثروبولوجيا (Année Sociologique) — `sch-durkheimian-anthropology`، `thk-emile-durkheim`
 - [x] نظريةُ الهبة والتبادل (Maussian Gift Theory) — `sch-maussian-gift-theory`، `thk-marcel-mauss`
 - [x] طقوسُ العبور (Van Gennep's Rites of Passage) — `sch-van-gennep-rites-of-passage`، `thk-arnold-van-gennep`
-- [ ] البنيويةُ الأنثروبولوجية (Lévi-Straussian Structuralism)
-- [ ] أنثروبولوجيا الأسطورة والفكر البرّي (Mythologiques / La Pensée Sauvage)
+- [x] البنيويةُ الأنثروبولوجية (Lévi-Straussian Structuralism) — `sch-levi-strauss-structuralism`، `thk-claude-levi-strauss`
+- [x] أنثروبولوجيا الأسطورة والفكر البرّي (Mythologiques / La Pensée Sauvage) — `sch-mythologiques-savage-mind`
 
 ## 3. الوظيفيةُ البريطانية (British Functionalism)
 
