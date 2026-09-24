@@ -1,39 +1,31 @@
 ---
 slug: "thk-archie-mafeje"
-id: "THK-6596"
+id: "THK-12765"
 type: "مفكر"
 part: "anthropology"
-anthropological_tradition: "african-postcolonial-anthropology"
 level: "متقدم"
-title: "آرتشي مافيجي (Archie Mafeje)"
+title: "أرشي مافيجي (Archie Mafeje)"
 en: "Archie Mafeje"
-crumb: "الأنثروبولوجيا ← الأنثروبولوجيا الإقليمية وأصوات الجنوب ← الأنثروبولوجيا الأفريقية ← آرتشي مافيجي"
-dates: "1936 – 2007"
+dates: "1928 – 2007"
 birth_country: "جنوب أفريقيا"
-active_start: 1971
-active_end: 2007
 edges:
 - rel: "belongs_to", target: "sch-african-postcolonial-anthropology", target_type: "مدرسة"
-related:
-- id: "sch-african-postcolonial-anthropology", title: "الأنثروبولوجيا الأفريقية وما بعدَ الاستعمارية (Mafeje, Mudimbe, Comaroffs)", type: "مدرسة"
-- id: "con-ideology-of-tribalism-mafeje", title: "إيديولوجيا القبلية (The Ideology of Tribalism)", type: "مفهوم"
-- id: "thk-jomo-kenyatta", title: "جومو كينياتا (Jomo Kenyatta)", type: "مفكر"
-- id: "thk-vy-mudimbe", title: "ڤ. ي. موديمبي (V.Y. Mudimbe)", type: "مفكر"
-gaps:
-  - "الزوجان كوماروف (Jean & John Comaroff) لم يُكتبا بعد كملفّين مستقلّين؛ سيُضافان إن توفّرت دفعةٌ لاحقة."
+related: []
+gaps: []
 ---
-# آرتشي مافيجي (Archie Mafeje)
 
-عالِمُ اجتماعٍ وأنثروبولوجيّ جنوب أفريقي، من أبرز منظِّري النقد الأفريقي الجذري لمفهوم «القبيلة» (Tribe) في الأنثروبولوجيا الاستعمارية.
+# أرشي مافيجي (Archie Mafeje)
 
-## نقد مفهوم القبيلة
+**الباحث/ة**: Archie Mafeje  
+**الفترة النشطة**: 1928 – 2007  
+**المدرسة**: sch-african-postcolonial-anthropology
 
-في مقالته المؤثِّرة "The Ideology of 'Tribalism'" (1971)، جادل مافيجي بأنّ مفهومَ «القبيلة» كما استعملته الأنثروبولوجيا الاستعمارية البريطانية (خصوصاً الوظيفية البريطانية) في وصف المجتمعات الأفريقية لم يكن مفهوماً وصفياً محايداً يعكس واقعاً اجتماعياً موضوعياً سابقاً على الاستعمار، بل بناءً إيديولوجياً خدم الإدارةَ الاستعمارية غير المباشرة (Indirect Rule) عبر تجميد هوياتٍ اجتماعية سائلة وتاريخية في فئاتٍ ثابتة يسهل إدارتُها وضبطُها إدارياً. أظهر أنّ الحدودَ «القبلية» التي بدت للأنثروبولوجيين الاستعماريين معطًى تقليدياً ثابتاً كانت غالباً نتاجَ إعادة صياغةٍ استعمارية حديثة نسبياً.
+## النبذة
 
-## الأثر
+أنثروبولوجي أفريقي رائد، ناقد للاستعمارية والأنثروبولوجيا الغربية
 
-أثّر نقدُ مافيجي بعمقٍ في إعادة النظر جذرياً بمفاهيمَ مركزية استعملتها الأنثروبولوجيا الوظيفية البريطانية في دراسة أفريقيا (القبيلة، العرقية)، وأسهم في تأسيس تقليدٍ أفريقيّ نقديّ يفحص كيف شكّلت المعرفةُ الأنثروبولوجية نفسُها — لا الاستعمارُ السياسي وحده — الهوياتِ الاجتماعية التي زعمت أنها تصفها موضوعياً فحسب.
+## أهم الأعمال
 
-## المصادر
+- Anthropology and Independent Africanism
 
-- Mafeje, Archie. "The Ideology of 'Tribalism'." *The Journal of Modern African Studies*, vol. 9, no. 2, 1971, pp. 253–261.
+---
