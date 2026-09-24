@@ -22,6 +22,7 @@ related:
 - id: "con-island-constraints-subjacency-ross", title: "قيودُ الجزر وشرطُ التجاور الأدنى عند روس (Island Constraints & Subjacency)", type: "مفهوم"
 - id: "con-theta-theory-criterion-gb", title: "نظريةُ الأدوار الموضوعية ومعيارُ ثيتا (Theta Theory & the θ-Criterion)", type: "مفهوم"
 - id: "con-raising-control-verbs", title: "أفعالُ الرفعِ مقابل أفعال التحكّم (Raising vs. Control Verbs)", type: "مفهوم"
+- id: "thk-noam-chomsky", title: "نعوم تشومسكي", type: "مفكر"
 gaps: []
 ---
 

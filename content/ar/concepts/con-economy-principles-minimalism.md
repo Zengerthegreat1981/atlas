@@ -21,6 +21,7 @@ related:
 - id: "con-merge-operation-minimalism", title: "عمليةُ الدمج (Merge)", type: "مفهوم"
 - id: "con-third-factor-explanations-chomsky", title: "العواملُ الثلاثةُ لنمو اللغة والأطروحةُ الأدنويةُ القوية عند تشومسكي", type: "مفهوم"
 - id: "con-agree-operation-feature-checking", title: "عمليةُ الاتفاق وفحصُ السمات (Agree & Feature Checking)", type: "مفهوم"
+- id: "thk-noam-chomsky", title: "نعوم تشومسكي", type: "مفكر"
 gaps: []
 ---
 

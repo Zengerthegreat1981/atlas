@@ -15,6 +15,7 @@ related:
 - id: "sch-minimalist-program", title: "البرنامجُ الأدنويّ (The Minimalist Program)", type: "مدرسة"
 - id: "con-merge-operation-minimalism", title: "عمليةُ الدمج (Merge)", type: "مفهوم"
 - id: "con-x-bar-theory", title: "نظريةُ X-Bar (X-Bar Theory)", type: "مفهوم"
+- id: "thk-noam-chomsky", title: "نعوم تشومسكي", type: "مفكر"
 gaps: []
 ---
 

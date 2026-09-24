@@ -14,6 +14,7 @@ edges:
 related:
 - id: "sch-computational-linguistics-nlp", title: "اللسانياتُ الحاسوبيةُ ومعالجةُ اللغة الطبيعية (Computational Linguistics & NLP)", type: "مدرسة"
 - id: "sch-generative-grammar", title: "النحوُ التوليديُّ التحويليّ (Generative-Transformational Grammar)", type: "مدرسة"
+- id: "thk-noam-chomsky", title: "نعوم تشومسكي", type: "مفكر"
 gaps: []
 ---
 
