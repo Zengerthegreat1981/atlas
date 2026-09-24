@@ -17,8 +17,9 @@ related:
 - id: "con-classifier-predicates-spatial-agreement-sign-language", title: "المسنِداتُ التصنيفيةُ والاتفاقُ المكانيُّ في لغة الإشارة", type: "مفهوم"
 - id: "thk-wendy-sandler", title: "ويندي ساندلر", type: "مفكر"
 - id: "thk-william-stokoe", title: "وليام ستوكو", type: "مفكر"
+- id: "thk-diane-lillo-martin", title: "دايان ليلو-مارتن", type: "مفكر"
 gaps:
-  - "دايان ليلو-مارتن (شريكةُ ساندلر في Sign Language and Linguistic Universals 2006) وسارة إف. تاوب (مؤلِّفةُ Language from the Body 2001)، المذكورتان/المستشهَدُ بهما في الملف نفسِه، لا تملكان عقدةَ سيرةٍ مستقلّة بعد."
+  - "سارة إف. تاوب (مؤلِّفةُ Language from the Body 2001)، المستشهَدُ بها في الملف نفسِه، لا تملك عقدةَ سيرةٍ مستقلّة بعد."
 ---
 
 # المحاكاةُ التصويرية في لغة الإشارة

@@ -33,6 +33,7 @@ related:
 - id: "con-iconicity-sign-language", title: "المحاكاةُ التصويرية في لغة الإشارة (Iconicity)", type: "مفهوم"
 - id: "con-bimodal-bilingualism-code-blending", title: "الثنائيةُ اللغويةُ ثنائيةُ الوسيط ومزجُ الشفرة (Bimodal Bilingualism & Code-Blending)", type: "مفهوم"
 - id: "thk-karen-emmorey", title: "كارِن إيمُوري", type: "مفكر"
+- id: "thk-diane-lillo-martin", title: "دايان ليلو-مارتن", type: "مفكر"
 gaps: []
 ---
 
