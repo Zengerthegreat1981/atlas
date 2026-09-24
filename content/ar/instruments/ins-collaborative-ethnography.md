@@ -1,27 +1,22 @@
 ---
 slug: "ins-collaborative-ethnography"
-id: "INS-0357"
-type: "منهج/أداة بحث"
+id: "INS-0376"
+type: "أداة بحثية"
 part: "anthropology"
 level: "متقدم"
-title: "الإثنوغرافيا التعاونية (Collaborative Ethnography)"
+title: "الإثنوغرافيا التعاونية"
 en: "Collaborative Ethnography"
-crumb: "الأنثروبولوجيا ← المناهج والأدوات ← الإثنوغرافيا التعاونية (Collaborative Ethnography)"
-active_start: 1900
-active_end: "مستمر"
-edges: []
-related: []
-gaps: []
+methodology_type: "كيفية"
+edges:
+related:
+gaps:
+
 ---
 
 # الإثنوغرافيا التعاونية (Collaborative Ethnography)
 
-منهجٌ يشركُ أفرادَ المجتمعِ المدروسِ في عمليةِ البحثِ والتحليل.
+إجراء الدراسات الإثنوغرافية بالتعاون الكامل مع المجتمعات.
 
-## التطبيقُ والأهمية
+## المصادر
 
-هذه الأداة تستخدمُ على نطاقٍ واسعٍ في الدراساتِ الأنثروبولوجية المعاصرة.
-
-## المصادرُ
-
-- Emerson, Robert M. *Writing Ethnographic Fieldnotes*. University of Chicago Press, 1995.
+- طرق البحث الأنثروبولوجي المعاصرة

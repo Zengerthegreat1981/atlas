@@ -1,41 +1,33 @@
 ---
 slug: "thk-tom-boellstorff"
-id: "THK-9011"
+id: "THK-13277"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"
-title: "توم بولستورف (Tom Boellstorff)"
+title: "توم بوليستورف (Tom Boellstorff)"
 en: "Tom Boellstorff"
-crumb: "الأنثروبولوجيا ← الأنثروبولوجيا الرقمية ← توم بولستورف"
-dates: "1969 –"
+birth_year: 1971
+
 birth_country: "الولايات المتحدة"
-active_start: 1995
-active_end: "مستمر"
+active_from: 1991
+active_to: 2026
+primary_school: "sch-gender-queer-anthropology"
 edges:
-- rel: "belongs_to", target: "sch-digital-anthropology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-gender-queer-anthropology", target_type: "مدرسة"
 related:
-- id: "sch-digital-anthropology", title: "الأنثروبولوجيا الرقمية والإثنوغرافيا الشبكية (Digital Anthropology — Miller, Boellstorff)", type: "مدرسة"
-- id: "thk-daniel-miller", title: "دانيال ميلر (Daniel Miller)", type: "مفكر"
-- id: "thk-gabriella-coleman", title: "غابرييلا كولمان (Gabriella Coleman)", type: "مفكر"
-gaps: []
+
+gaps:
+
 ---
-# توم بولستورف (Tom Boellstorff)
 
-أنثروبولوجيٌّ أمريكيّ، أجرى عملَه الميدانيَّ المبكِّر في إندونيسيا (المثلية الجنسية والهوية الوطنية)، ثم تحوّل إلى دراسةٍ إثنوغرافية رائدة لعالمٍ افتراضيّ رقميّ بالكامل، ومن أبرز مؤسِّسي الأنثروبولوجيا الرقمية للعوالم الافتراضية.
+# توم بوليستورف (Tom Boellstorff) (Tom Boellstorff)
 
-## البلوغُ في سِكند لايف
+**الباحث**: Tom Boellstorff
+**الفترة النشطة**: 1991 – 2026
+**المدرسة**: sch-gender-queer-anthropology
 
-في عمله المحوريّ *البلوغُ في سِكند لايف: أنثروبولوجيٌّ يستكشف عالماً افتراضياً بالكامل* (*Coming of Age in Second Life: An Anthropologist Explores the Virtually Human*, 2008)، أجرى بولستورف عملاً ميدانياً إثنوغرافياً كاملاً داخل العالم الافتراضيّ الرقميّ «سِكند لايف» (Second Life) نفسِه — يعيش، يتفاعل اجتماعياً، ويجري مقابلاتٍ مع مستخدمين آخرين عبر شخصياتهم الرقمية («الآفاتار») فقط — مُظهراً أنّ العوالمَ الافتراضية ليست «هروباً» من الواقع الاجتماعي الحقيقيّ، بل مواقعَ ثقافية أصيلة تنتج معايير اجتماعية وهوياتٍ وعلاقاتٍ ذاتَ معنى حقيقيّ فعليّ لدى المشاركين فيها، تستحقّ دراسةً أنثروبولوجية جادّة بمعاييرها الخاصّة.
-
-## منهجيةُ الإثنوغرافيا الافتراضية
-
-طوّر بولستورف منهجيةً دقيقة لتكييف أدوات الإثنوغرافيا التقليدية (المراقبةُ المشارِكة، المقابلاتُ المطوَّلة) مع سياقٍ رقميّ بالكامل يفتقر إلى الحضور الجسديّ المباشر، مناقشاً أسئلةً منهجية وأخلاقية جديدة تماماً (كيف تُحصَّل الموافقةُ المستنيرة في بيئةٍ افتراضية؟ ماذا تعني «الهويةُ» حين يمكن للفرد تغييرَ جنسه وعمره ومظهره الافتراضيّ بحرّية كاملة؟).
-
-## الأثر
-
-يُعدّ عملُ بولستورف من الأعمال المؤسِّسة للأنثروبولوجيا الرقمية والإثنوغرافيا الافتراضية بوصفها حقلاً فرعياً متكاملاً، إلى جانب دانيال ميلر، مقدِّماً نموذجاً منهجياً مؤثِّراً لدراسة العوالم الرقمية والافتراضية بجدّيةٍ أنثروبولوجية كاملة، لا بوصفها ظاهرةً هامشية أو ثانوية مقارنةً بـ«الواقع» المادّي.
+أنثروبولوجيّ أمريكي متخصص في الثقافات الكويرية والإثنوغرافيا الرقمية.
 
 ## المصادر
 
-- Boellstorff, Tom. *Coming of Age in Second Life: An Anthropologist Explores the Virtually Human*. Princeton University Press, 2008.
-- Boellstorff, Tom, Nardi, Bonnie, Pearce, Celia & Taylor, T.L. *Ethnography and Virtual Worlds: A Handbook of Method*. Princeton University Press, 2012.
+- OpenLibrary records for Tom Boellstorff

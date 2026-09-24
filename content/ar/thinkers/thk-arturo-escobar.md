@@ -1,40 +1,33 @@
 ---
 slug: "thk-arturo-escobar"
-id: "THK-8934"
+id: "THK-13279"
 type: "مفكر"
 part: "anthropology"
-anthropological_tradition: "reflexive-critique"
 level: "متقدم"
 title: "أرتورو إسكوبار (Arturo Escobar)"
 en: "Arturo Escobar"
-crumb: "الأنثروبولوجيا ← نقد خطاب التنمية ← أرتورو إسكوبار"
-dates: "1952 –"
+birth_year: 1951
+
 birth_country: "كولومبيا"
-active_start: 1984
-active_end: "مستمر"
+active_from: 1971
+active_to: 2026
+primary_school: "sch-environmental-indigenous-knowledge"
 edges:
-- rel: "belongs_to", target: "sch-postcolonial-critique-anthropology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-environmental-indigenous-knowledge", target_type: "مدرسة"
 related:
-- id: "sch-postcolonial-critique-anthropology", title: "النقدُ ما بعد الاستعماريّ للأنثروبولوجيا (Asad, Anthropology and the Colonial Encounter)", type: "مدرسة"
-- id: "thk-james-ferguson", title: "جيمس فيرغسون (James Ferguson)", type: "مفكر"
-gaps: []
+
+gaps:
+
 ---
-# أرتورو إسكوبار (Arturo Escobar)
 
-أنثروبولوجيٌّ كولومبيّ، ومن أبرز مؤسِّسي «نظرية ما بعد التنمية» (Post-Development Theory)، التي طبّقت أدواتِ التحليل الخطابي الفوكوي على خطاب «التنمية الدولية» بوصفه شكلاً من أشكال الهيمنة الاستعمارية الجديدة.
+# أرتورو إسكوبار (Arturo Escobar) (Arturo Escobar)
 
-## مواجهةُ التنمية
+**الباحث**: Arturo Escobar
+**الفترة النشطة**: 1971 – 2026
+**المدرسة**: sch-environmental-indigenous-knowledge
 
-في عمله المحوريّ *مواجهةُ التنمية: صناعةُ العالم الثالث وتفكيكُها* (*Encountering Development: The Making and Unmaking of the Third World*, 1995)، حلّل إسكوبار كيف أنتج خطابُ «التنمية» الدوليّ، منذ خطاب الرئيس الأمريكي ترومان عام 1949، فئةً كاملة من البشر («العالم الثالث»، «المتخلِّف اقتصادياً») بوصفها موضوعاً يحتاج إلى «تدخّل» خبراء التنمية الغربيين، مُنتِجاً بذلك سلطةً معرفية-سياسية جديدة تُخضع مجتمعاتٍ بأكملها لأنظمة معرفة ومقاييس غربية (الناتج المحلّي، معدّلات النمو) بصرف النظر عن نماذج الرفاه والحياة الجيّدة المحلّية الفعلية.
-
-## نقد التنمية لا رفضُها الساذج
-
-لم يدعُ إسكوبار إلى رفض التحسين المادّي لحياة الفقراء، بل إلى تفكيك الآلية الخطابية التي تُحوِّل «التنميةَ» إلى مشروعٍ تقنيٍّ محايدٍ ظاهرياً بينما هي فعلياً ممارسةُ سلطةٍ تُقصي المعرفةَ المحلّية والبدائلَ الذاتية للمجتمعات المعنية، داعياً إلى الاستماع إلى «الخيارات البديلة للتنمية» (Alternatives to Development) النابعة من الحركات الاجتماعية المحلّية نفسِها.
-
-## الأثر
-
-أثّر عملُ إسكوبار تأثيراً عميقاً في تأسيس نظرية ما بعد التنمية بوصفها حقلاً نقدياً متكاملاً، وأثّر في أعمال جيمس فيرغسون اللاحقة عن «آلة اللاسياسة» في ليسوتو، وفي الحركات البيئية واللاتينية-الأمريكية المدافعة عن نماذج «البقاء الجيّد» (Buen Vivir) بديلاً عن مقاييس التنمية الغربية الكمّية.
+أنثروبولوجيّ كولومبي متخصص في الإنثروبولوجيا السياسية والمعرفة الأصلية.
 
 ## المصادر
 
-- Escobar, Arturo. *Encountering Development: The Making and Unmaking of the Third World*. Princeton University Press, 1995.
+- OpenLibrary records for Arturo Escobar

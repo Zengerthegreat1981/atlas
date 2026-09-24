@@ -1,32 +1,32 @@
 ---
 slug: "thk-fei-xiaotong"
-id: "THK-12763"
+id: "THK-13292"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"
-title: "فاي شياوتونغ (Fei Xiaotong)"
+title: "في شياوتونج (Fei Xiaotong)"
 en: "Fei Xiaotong"
-dates: "1910 – 2005"
+birth_year: 1910
+death_year: 2005
 birth_country: "الصين"
+active_from: 1930
+active_to: 2005
+primary_school: "sch-east-asian-anthropology-advanced"
 edges:
-- rel: "belongs_to", target: "sch-east-asian-ethnography", target_type: "مدرسة"
-related: []
-gaps: []
+- rel: "belongs_to", target: "sch-east-asian-anthropology-advanced", target_type: "مدرسة"
+related:
+gaps:
+  - "إضافة دراسات وأعمال لهذا المفكر."
 ---
 
-# فاي شياوتونغ (Fei Xiaotong)
+# في شياوتونج (Fei Xiaotong) (Fei Xiaotong)
 
-**الباحث/ة**: Fei Xiaotong  
-**الفترة النشطة**: 1910 – 2005  
-**المدرسة**: sch-east-asian-ethnography
+**الباحث**: Fei Xiaotong
+**الفترة النشطة**: 1930 – 2005
+**المدرسة**: sch-east-asian-anthropology-advanced
 
-## النبذة
+أنثروبولوجيّ صيني رائد متخصص في الثقافة الصينية والدراسات الريفية.
 
-أول أنثروبولوجي صيني حديث، درس الحياة الريفية الصينية وأسس الأنثروبولوجيا الصينية الحديثة
+## المصادر
 
-## أهم الأعمال
-
-- From the Soil
-- Chinese Village Life
-
----
+- OpenLibrary records for Fei Xiaotong
