@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-turnerian-symbolic-anthropology", title: "الأنثروبولوجيا الرمزية والدراما الاجتماعية (Turnerian Symbolic Anthropology)", type: "مدرسة"
 - id: "thk-victor-turner", title: "فيكتور تيرنر (Victor Turner)", type: "مفكر"
+- id: "thk-james-fernandez", title: "جيمس فرنانديز (James W. Fernandez)", type: "مفكر"
 gaps: []
 ---
 # باربرا ميرهوف (Barbara Myerhoff)
