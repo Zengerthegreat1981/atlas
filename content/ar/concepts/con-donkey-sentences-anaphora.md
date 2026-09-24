@@ -15,7 +15,10 @@ related:
 - id: "sch-formal-semantics-montague-grammar", title: "الدلالةُ الصوريةُ ونحوُ مونتاغيو (Formal Semantics)", type: "مدرسة"
 - id: "con-generalized-quantifiers-barwise-cooper", title: "الكمّياتُ المعمَّمة عند بارواز وكوبر (Generalized Quantifiers)", type: "مفهوم"
 - id: "con-file-change-semantics-heim", title: "دلالةُ تغيير الملفّ عند هايم (File Change Semantics)", type: "مفهوم"
-gaps: []
+- id: "thk-irene-heim", title: "إيرين هايم", type: "مفكر"
+- id: "thk-hans-kamp", title: "هانز كامپ", type: "مفكر"
+gaps:
+  - "پيتر ت. غيتش (Geach)، مؤلِّفُ *Reference and Generality* (1962) الذي صاغ المثالَ الكلاسيكي المستشهَدَ به هنا، فيلسوفُ منطقٍ أكسفوردي لا يملك عقدةَ سيرةٍ مستقلّة بعد في الأطلس (فلسفةً أو لسانياتٍ)."
 ---
 
 # جملُ الحمار وإشكاليةُ الإحالة الضميرية

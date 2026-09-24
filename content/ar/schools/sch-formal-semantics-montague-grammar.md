@@ -36,6 +36,7 @@ related:
 - id: "con-donkey-sentences-anaphora", title: "جملُ الحمار وإشكاليةُ الإحالة الضميرية (Donkey Sentences)", type: "مفهوم"
 - id: "thk-jon-barwise", title: "جون بارواز", type: "مفكر"
 - id: "thk-robin-cooper", title: "روبِن كوبر", type: "مفكر"
+- id: "thk-hans-kamp", title: "هانز كامپ", type: "مفكر"
 gaps:
   - "لا `belongs_to`/`evolved_from`: نشأت الدلالةُ الصوريةُ من تقاطع المنطق الرياضي بأعمال مونتاغيو المنطقية المستقلة عن سلالة تشومسكي التوليدية، لا كامتدادٍ تاريخيٍّ مباشرٍ منها؛ سُجِّلت العلاقةُ بـ`related` لا بعلاقة انحدار."
   - "**سُدَّ بالكامل 2026-09-22 (الدفعة 238)**: أُنشئت `thk-angelika-kratzer` وعقدتُها المفهومية `con-kratzer-modal-base-ordering-source`، مستشهَدٌ بعملها المشترك مع Heim في مصادر هذا الملفّ دون أن تكون هي نفسُها موصولةً بعقدةٍ سابقاً."
