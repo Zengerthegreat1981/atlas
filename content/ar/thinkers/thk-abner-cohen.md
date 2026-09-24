@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-manchester-school", title: "مدرسةُ مانشستر وتحليلُ الموقف (Manchester School)", type: "مدرسة"
 - id: "thk-elizabeth-colson", title: "إليزابيث كولسون (Elizabeth Colson)", type: "مفكر"
+- id: "thk-setha-low", title: "سيثا لو (Setha Low)", type: "مفكر"
 gaps: []
 ---
 # أبنر كوهين (Abner Cohen)
