@@ -20,6 +20,7 @@ related:
 - id: "sch-generative-grammar", title: "النحوُ التوليديُّ التحويليّ (Generative-Transformational Grammar)", type: "مدرسة"
 - id: "wrk-syntactic-structures", title: "البنى النحوية (Syntactic Structures)", type: "عمل / كتاب"
 - id: "con-deep-surface-structure", title: "البنيةُ العميقة والبنيةُ السطحية", type: "مفهوم"
+- id: "thk-noam-chomsky", title: "نعوم تشومسكي", type: "مفكر"
 gaps: []
 ---
 
