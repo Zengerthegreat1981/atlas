@@ -15,7 +15,9 @@ related:
 - id: "sch-computational-linguistics-nlp", title: "اللسانياتُ الحاسوبيةُ ومعالجةُ اللغة الطبيعية (Computational Linguistics & NLP)", type: "مدرسة"
 - id: "con-transformer-attention-mechanism", title: "معماريةُ المحوِّل وآليةُ الانتباه (Transformer & Attention Mechanism)", type: "مفهوم"
 - id: "con-contextualized-embeddings-bert-elmo", title: "التمثيلاتُ المتّجهيةُ السياقية (ELMo وBERT)", type: "مفهوم"
-gaps: []
+- id: "thk-yoshua-bengio", title: "يوشوا بنجيو", type: "مفكر"
+gaps:
+  - "إيليا سوتسكيڤر وأوريول ڤينيالز وكواك ﭬ. لي (ورقة 2014)، ودزميتري باهداناو وكيونغهيون تشو (ورقة 2015، مع بنجيو) لا يملكون عقدةَ سيرةٍ مستقلّة بعد باستثناء بنجيو نفسِه."
 ---
 
 # معماريةُ التسلسل إلى تسلسل والمُرمِّز-المُفكِّك
