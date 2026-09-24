@@ -14,7 +14,10 @@ edges:
 related:
 - id: "sch-linguistic-typology", title: "النمطيةُ اللغويةُ والكلّياتُ اللغوية (Linguistic Typology & Universals)", type: "مدرسة"
 - id: "sch-contact-linguistics-creole", title: "التماسُّ اللغويُّ والكريول والبِجن (Contact Linguistics)", type: "مدرسة"
-gaps: []
+- id: "thk-alexandra-aikhenvald", title: "ألكسندرا آيخنفالد", type: "مفكر"
+- id: "thk-rmw-dixon", title: "ر. م. و. ديكسون", type: "مفكر"
+gaps:
+  - "مارك سِبّا (Sebba)، مؤلِّفُ *The Syntax of Serial Verbs* (1987) المستشهَدِ به هنا، لا يملك عقدةَ سيرةٍ مستقلّة بعد."
 ---
 
 # التراكيبُ الفعليةُ المتسلسلة
