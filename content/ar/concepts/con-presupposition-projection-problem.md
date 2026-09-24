@@ -15,7 +15,9 @@ related:
 - id: "sch-formal-semantics-montague-grammar", title: "الدلالةُ الصوريةُ ونحوُ مونتاغيو (Formal Semantics)", type: "مدرسة"
 - id: "sch-gricean-pragmatics", title: "التداوليةُ الغرايسية (Gricean Pragmatics)", type: "مدرسة"
 - id: "con-conversational-implicature", title: "الإفهامُ التخاطبي (Conversational Implicature)", type: "مفهوم"
-gaps: []
+- id: "thk-lauri-karttunen", title: "لوري كارتونن", type: "مفكر"
+gaps:
+  - "ستانلي پيترز (شريكُ كارتونن في ورقة 1979) وديفيد آي. بيڤر (Beaver)، مؤلِّفُ فصل «Presupposition» (1997) المستشهَدِ به هنا، لا يملكان عقدةَ سيرةٍ مستقلّة بعد."
 ---
 
 # الافتراضُ المسبَق ومشكلةُ الانتقال
