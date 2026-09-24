@@ -16,7 +16,8 @@ related:
 - id: "con-distributional-semantics-word-embeddings", title: "الدلالةُ التوزيعية وتمثيلاتُ الكلمات المتّجهية (Distributional Semantics & Word Embeddings)", type: "مفهوم"
 - id: "con-transformer-attention-mechanism", title: "معماريةُ المحوِّل وآليةُ الانتباه (Transformer & Attention Mechanism)", type: "مفهوم"
 - id: "con-word2vec-mikolov", title: "خوارزميةُ Word2Vec عند ميكولوف", type: "مفهوم"
-gaps: []
+gaps:
+  - "ماثيو إ. پيترز (مؤلِّفُ ELMo الرئيسي) وجاكوب دِڤلن (قائدُ فريق BERT) باحثانِ هندسيان بارزان في اللسانيات الحاسوبية، لكن لم يُعثر على مادّةٍ سيريةٍ مستقلّة كافية (خارج ورقتَي 2018/2019 أنفسِهما) تبرِّر عقدةَ مفكرٍ مستقلّة بمعايير الجودة المعتمَدة هنا؛ الفجوةُ محفوظةٌ صراحةً بدل اختلاق سيرةٍ رقيقة."
 ---
 
 # التمثيلاتُ المتّجهيةُ السياقية (ELMo وBERT)
