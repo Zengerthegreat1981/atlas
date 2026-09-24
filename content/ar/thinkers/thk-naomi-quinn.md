@@ -16,8 +16,8 @@ edges:
 related:
 - id: "sch-cognitive-anthropology", title: "الأنثروبولوجيا المعرفية والإثنوعلوم (Cognitive Anthropology & Ethnoscience)", type: "مدرسة"
 - id: "thk-bradd-shore", title: "براد شور (Bradd Shore)", type: "مفكر"
-gaps:
-  - "دوروثي هولاند (Dorothy Holland)، شريكةُ كوين في تحرير Cultural Models in Language and Thought، لم يُنشأ لها ملفٌّ مستقلّ هنا؛ ذُكرت ضمن السياق النصّي فقط."
+- id: "thk-dorothy-holland", title: "دوروثي هولاند (Dorothy Holland)", type: "مفكر"
+gaps: []
 ---
 # ناعومي كوين (Naomi Quinn)
 
