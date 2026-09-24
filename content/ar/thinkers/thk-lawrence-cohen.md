@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-structural-violence-health", title: "العنفُ البنيويُّ والصحّة (Structural Violence — Farmer, Scheper-Hughes)", type: "مدرسة"
 - id: "thk-julie-livingston", title: "جولي ليڤنغستون (Julie Livingston)", type: "مفكر"
+- id: "thk-vinh-kim-nguyen", title: "ﭬين-كيم نغوين (Vinh-Kim Nguyen)", type: "مفكر"
 gaps: []
 ---
 # لورنس كوهين (Lawrence Cohen)
