@@ -19,12 +19,12 @@ pages: null
 edges:
 - rel: "belongs_to", target: "sch-structural-linguistics-saussure", target_type: "مدرسة"
 related:
-- id: "thk-ferdinand-saussure", title: "فرديناند سوسور", type: "مفكر"
 - id: "sch-structural-linguistics-saussure", title: "اللسانياتُ البنيويةُ", type: "مدرسة"
-- id: "con-langue-parole-saussure", title: "اللغةُ والكلام (Langue et Parole)", type: "مفهوم"
 - id: "con-signifier-signified", title: "الدالّ والمدلول", type: "مفهوم"
-- id: "con-synchronic-diachronic", title: "التزامنيّة والتعاقبية", type: "مفهوم"
-gaps: []
+gaps:
+- "فرديناند سوسور (المؤلِّف ومؤسِّسُ اللسانيات الحديثة) يحتاج عقدة مفكِّر مستقلة."
+- "المفاهيمُ الأساسية (اللغة والكلام، التزامنية والتعاقبية) محفوظةٌ كفجوات بانتظار عقد منفصلة."
+- "الترجماتُ العربية للكتاب بحاجة لتوثيق ومراجعة."
 ---
 
 # دروسٌ في اللسانيات العامّة
