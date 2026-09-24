@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-manchester-school", title: "مدرسةُ مانشستر وتحليلُ الموقف (Manchester School)", type: "مدرسة"
 - id: "thk-peter-redfield", title: "پيتر ريدفيلد (Peter Redfield)", type: "مفكر"
+- id: "thk-miriam-ticktin", title: "ميريام تيكتين (Miriam Ticktin)", type: "مفكر"
 gaps: []
 ---
 # إيريكا بورنستاين (Erica Bornstein)
