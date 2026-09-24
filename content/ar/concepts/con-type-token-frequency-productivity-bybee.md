@@ -16,6 +16,7 @@ related:
 - id: "con-frequency-entrenchment-bybee", title: "التواتُرُ والترسّخُ عند بايبي (Frequency & Entrenchment)", type: "مفهوم"
 - id: "con-reducing-conserving-effects-frequency-bybee", title: "الأثرُ الاختزاليُّ والأثرُ المحافظُ للتواتر عند بايبي (Reducing & Conserving Effects of Frequency)", type: "مفهوم"
 - id: "con-statistical-preemption-goldberg", title: "الاستباقُ الإحصائي عند غولدبرغ (Statistical Preemption)", type: "مفهوم"
+- id: "thk-joan-bybee", title: "جوان بايبي", type: "مفكر"
 gaps: []
 ---
 
