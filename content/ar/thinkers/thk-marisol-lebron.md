@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-postcolonial-critique-anthropology", title: "النقدُ ما بعد الاستعماريّ للأنثروبولوجيا (Asad, Anthropology and the Colonial Encounter)", type: "مدرسة"
 - id: "thk-yarimar-bonilla", title: "ياريمار بونيّا (Yarimar Bonilla)", type: "مفكر"
+- id: "thk-isar-godreau", title: "إيسار غودرو (Isar P. Godreau)", type: "مفكر"
 gaps: []
 ---
 # ماريسول لِبرون (Marisol LeBrón)
