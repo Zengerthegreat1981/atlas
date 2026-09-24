@@ -15,7 +15,10 @@ related:
 - id: "sch-linguistic-typology", title: "النمطيةُ اللغويةُ والكلّياتُ اللغوية (Linguistic Typology & Universals)", type: "مدرسة"
 - id: "con-unaccusativity-split-intransitivity", title: "اللاتعدّيةُ الانقسامية (Split Intransitivity / Unaccusativity)", type: "مفهوم"
 - id: "con-grammatical-case-systems", title: "أنظمةُ الحالة الإعرابية (Grammatical Case Systems)", type: "مفهوم"
-gaps: []
+- id: "thk-masayoshi-shibatani", title: "ماسايوشي شيباتاني", type: "مفكر"
+- id: "thk-matthew-dryer", title: "ماثيو درايِر", type: "مفكر"
+gaps:
+  - "إدوارد ل. كينن (Keenan)، شريكُ درايِر في Passive in the World's Languages (2007) المستشهَدِ به هنا، لا يملك عقدةَ سيرةٍ مستقلّة بعد."
 ---
 
 # نمطيةُ البناء للمجهول
