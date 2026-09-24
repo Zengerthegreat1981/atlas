@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-manchester-school", title: "مدرسةُ مانشستر وتحليلُ الموقف (Manchester School)", type: "مدرسة"
 - id: "thk-miriam-ticktin", title: "ميريام تيكتين (Miriam Ticktin)", type: "مفكر"
+- id: "thk-liisa-malkki", title: "ليسا مالكّي (Liisa Malkki)", type: "مفكر"
 gaps: []
 ---
 # إيلانا فيلدمان (Ilana Feldman)
