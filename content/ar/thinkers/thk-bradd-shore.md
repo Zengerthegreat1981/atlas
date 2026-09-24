@@ -16,6 +16,7 @@ edges:
 related:
 - id: "sch-cognitive-anthropology", title: "الأنثروبولوجيا المعرفية والإثنوعلوم (Cognitive Anthropology & Ethnoscience)", type: "مدرسة"
 - id: "thk-roy-dandrade", title: "روي دي أندرادي (Roy D'Andrade)", type: "مفكر"
+- id: "thk-naomi-quinn", title: "ناعومي كوين (Naomi Quinn)", type: "مفكر"
 gaps: []
 ---
 # براد شور (Bradd Shore)
