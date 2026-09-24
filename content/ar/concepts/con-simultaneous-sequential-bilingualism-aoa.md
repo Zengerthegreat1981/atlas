@@ -14,7 +14,9 @@ edges:
 related:
 - id: "sch-bilingualism-cognitive-control", title: "ثنائيةُ اللغة والدماغُ (Bilingualism & Cognitive Control)", type: "مدرسة"
 - id: "con-revised-hierarchical-model-kroll-stewart", title: "النموذجُ الهرميُّ المنقَّح عند كرول وستيوارت (Revised Hierarchical Model)", type: "مفهوم"
-gaps: []
+- id: "thk-elissa-newport", title: "إليسا ل. نيوپورت", type: "مفكر"
+gaps:
+  - "جاكلين إس. جونسون (شريكةُ نيوپورت 1989) وجورگن م. مايزل (فصل The Bilingual Child 2004) المستشهَدان هنا لا يملكان عقدةَ سيرةٍ مستقلّة بعد."
 ---
 
 # الثنائيةُ اللغويةُ المتزامنة مقابل المتعاقبة وأثرُ عمر الاكتساب
