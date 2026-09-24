@@ -1,0 +1,57 @@
+---
+slug: "sch-pacific-anthropology-school"
+id: "SCH-13097"
+type: "مدرسة"
+part: "anthropology"
+anthropological_tradition: "pacific-regional"
+level: "متقدم"
+title: "الأنثروبولوجيا الباسيفيكية (Polynesia, Melanesia, Micronesia)"
+en: "Pacific Anthropology School"
+crumb: "الأنثروبولوجيا ← المدارس الإقليمية ← الأنثروبولوجيا الباسيفيكية"
+dates: "الجزر الباسيفيكية · من 1920s إلى الوقت الحاضر"
+country: "بولينيزيا، ميلانيزيا، ميكرونيزيا"
+language: "الإنجليزية"
+cultural_origin: "pacific"
+active_start: 1920
+active_end: "مستمر"
+region: "Pacific Islands"
+edges:
+- rel: "belongs_to", target: "sch-british-functionalism-african-anthropology", target_type: "مدرسة"
+related:
+- id: "thk-margaret-mead", title: "مارغريت ميد (Margaret Mead)", type: "مفكر"
+- id: "thk-gregoryory-bateson", title: "غريغوري باتسون (Gregory Bateson)", type: "مفكر"
+- id: "thk-marilyn-strathern", title: "ماريلين ستراثرن (Marilyn Strathern)", type: "مفكر"
+- id: "thk-robert-alford-jolly", title: "روزالي جولي (Rosalind Jolly)", type: "مفكر"
+gaps:
+  - "إضافة دراسات ميدانية من ميلانيزيا وميكرونيزيا."
+  - "توثيق الأنثروبولوجيين الأصليين من الجزر الباسيفيكية."
+---
+
+# الأنثروبولوجيا الباسيفيكية
+
+مدرسةٌ قديمةٌ الجذورِ في الأنثروبولوجيا، تركّزُ على دراسةِ جزرِ الباسيفيك (بولينيزيا وميلانيزيا وميكرونيزيا). بدأت مع كلاسيكياتِ النثروبولوجيا الأوروبية (مورغان، تايلور)، ثمّ تطورّت عبرَ عملِ باحثين مثل مارغريت ميد وماريلين ستراثرن.
+
+## المساهماتُ الرئيسية
+
+### 1. Margaret Mead: النمو والجنس والثقافة
+درست شباباً في ساموا وتُرُّوك لفهمِ كيفَ تشكِّلُ الثقافةُ السلوكَ والنموَّ الجنسيَّ — كتابُها *Coming of Age in Samoa* (١٩٢٨) أصبحَ كلاسيكياً.
+
+### 2. Gregory Bateson: النسق وعدمُ التوازن
+زوجُ ميد لاحقاً، درسَ عدمَ التوازنِ النوعيِّ والثنائيّاتِ في بابوا نيو غينيا.
+
+### 3. Marilyn Strathern: الجنسِ والنسب والملكيّة
+أنثروبولوجيةٌ مهمّةٌ درست الجندرَ والقرابةَ والملكيّةَ في ميلانيزيا، وأعادت قراءةَ الافتراضاتِ الكلاسيكيّةِ عن الفرديّة والملكيّة.
+
+### 4. Rosalind Jolly: الكتابةُ الإثنوغرافيّة والنسوية
+درست الحياةَ الأنثويّةَ والزواجَ والقوّةَ الاجتماعيّةَ في جزرِ الباسيفك.
+
+## الخصائصُ المميّزة
+
+1. **الاختلافُ الثقافيّ الجذريّ**: تركيزٌ على الاختلافاتِ الحادّةِ بينَ الثقافاتِ الباسيفيكيّةِ والغربيّة.
+2. **الجندرُ والنسب**: اهتمامٌ خاصٌّ بكيفيّةِ اختلافِ الجندرِ والقرابةِ عن النماذجِ الغربيّة.
+3. **الكتابةُ الإثنوغرافيّة**: نقدٌ مبكِّرٌ لكيفيّةِ تمثيلِ الباحثينَ لـ«الآخر».
+
+## المصادر
+
+- Mead, Margaret. *Coming of Age in Samoa*. William Morrow, 1928.
+- Strathern, Marilyn. *The Gender of the Gift: Problems with Women and Problems with Society in Melanesia*. University of California Press, 1988.
