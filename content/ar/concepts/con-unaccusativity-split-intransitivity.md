@@ -14,7 +14,9 @@ edges:
 related:
 - id: "con-ergativity", title: "النمطُ الفاعلي-المفعولي مقابل الإرغاتيفي (Nominative-Accusative vs. Ergative Alignment)", type: "مفهوم"
 - id: "con-x-bar-theory", title: "نظريةُ X-Bar (X-Bar Theory)", type: "مفهوم"
-gaps: []
+- id: "thk-david-perlmutter", title: "ديفيد م. پيرلماتر", type: "مفكر"
+gaps:
+  - "بيث ليڤين ومالكا رابّاپورت هوڤاڤ، مؤلِّفتا Unaccusativity (1995) المستشهَدِ به هنا، لا تملكان عقدةَ سيرةٍ مستقلّة بعد."
 ---
 
 # اللاتعدّيةُ الانقسامية
