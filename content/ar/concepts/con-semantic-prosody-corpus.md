@@ -14,7 +14,9 @@ edges:
 related:
 - id: "sch-corpus-linguistics", title: "لسانياتُ المدوّنات ومناهجُها (Corpus Linguistics)", type: "مدرسة"
 - id: "con-idioms-formulaic-language", title: "التعابيرُ الاصطلاحية واللغةُ الصيغية (Idioms & Formulaic Language)", type: "مفهوم"
-gaps: []
+- id: "thk-michael-stubbs", title: "مايكل ستَبْز", type: "مفكر"
+gaps:
+  - "بيل لُوو (Louw)، مُكتشِف ظاهرة العروض الدلالي ذاتِها (1993، مثالُ «set in» المذكور هنا)، لا يملك عقدةَ سيرةٍ مستقلّة بعد."
 ---
 
 # العروضُ الدلاليّ في لسانيات المدوّنات

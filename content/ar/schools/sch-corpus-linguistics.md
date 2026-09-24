@@ -36,6 +36,7 @@ related:
 - id: "thk-w-nelson-francis", title: "و. نلسون فرانسيس", type: "مفكر"
 - id: "thk-geoffrey-leech", title: "جيفري ليتش", type: "مفكر"
 - id: "thk-tony-mcenery", title: "طوني ماكِنِري", type: "مفكر"
+- id: "thk-michael-stubbs", title: "مايكل ستَبْز", type: "مفكر"
 gaps:
   - "لا `belongs_to`/`evolved_from`: نشأت لسانياتُ المدوّنات كردِّ فعلٍ منهجيٍّ مباشر على الاعتماد التوليديّ على حدس المتكلم (`ins-grammaticality-judgments`)، لا كامتدادٍ تاريخيٍّ من مدرسةٍ سابقة؛ العلاقةُ نقديةٌ سُجِّلت بـ`related`."
 ---
