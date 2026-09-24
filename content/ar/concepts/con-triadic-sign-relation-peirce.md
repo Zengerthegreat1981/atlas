@@ -22,6 +22,8 @@ related:
 - id: "con-types-of-interpretant-peirce", title: "أنواعُ المؤوَّل الثلاثة عند بيرس: المباشرُ والديناميّ والنهائي", type: "مفهوم"
 - id: "con-unlimited-semiosis-peirce", title: "السيميوزيسُ غيرُ المحدود عند بيرس (Unlimited Semiosis)", type: "مفهوم"
 - id: "con-firstness-secondness-thirdness-peirce", title: "المقولاتُ الظاهراتيةُ الثلاث عند بيرس: الأوّليةُ والثانويةُ والثالثية", type: "مفهوم"
+- id: "thk-peirce", title: "تشارلز ساندرز بيرس", type: "مفكر"
+- id: "thk-daniel-chandler", title: "دانيال تشاندلر", type: "مفكر"
 gaps: []
 ---
 
