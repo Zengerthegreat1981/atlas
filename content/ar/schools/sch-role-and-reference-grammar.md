@@ -31,6 +31,7 @@ related:
 - id: "con-logical-structure-aktionsart-rrg", title: "البنيةُ المنطقية وأصنافُ الأكتيونسآرت في نحو الدور والمرجع", type: "مفهوم"
 - id: "wrk-syntax-structure-meaning-function-van-valin-lapolla", title: "التركيبُ: البنيةُ والمعنى والوظيفة (Syntax: Structure, Meaning, and Function)", type: "أثر"
 - id: "wrk-functional-grammar-dik-1978", title: "النحوُ الوظيفي (Functional Grammar، ديك)", type: "أثر"
+- id: "thk-zeno-vendler", title: "زينو ﭬندلر", type: "مفكر"
 gaps:
   - "لا `belongs_to`: تيارٌ وظيفيٌّ نشأ بالتوازي مع اللسانيات الوظيفية المنهجية الهاليدايية دون انحدارٍ مباشرٍ منها."
 ---

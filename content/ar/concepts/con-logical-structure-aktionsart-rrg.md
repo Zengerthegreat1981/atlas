@@ -15,6 +15,9 @@ related:
 - id: "sch-role-and-reference-grammar", title: "النحوُ الوظيفيُّ ونحوُ الدور والمرجع (Functional Grammar & Role and Reference Grammar)", type: "مدرسة"
 - id: "con-macrorole-actor-undergoer-rrg", title: "الدوران الكليّان: الفاعلُ والمتأثِّر (Actor & Undergoer Macroroles)", type: "مفهوم"
 - id: "con-linking-algorithm-rrg", title: "خوارزميةُ الربط الدلاليِّ-النحويّ في نحو الدور والمرجع (Linking Algorithm)", type: "مفهوم"
+- id: "thk-zeno-vendler", title: "زينو ﭬندلر", type: "مفكر"
+- id: "thk-robert-van-valin", title: "روبرت ﭬان ﭬالِن", type: "مفكر"
+- id: "thk-randy-lapolla", title: "راندي لابولا", type: "مفكر"
 gaps: []
 ---
 

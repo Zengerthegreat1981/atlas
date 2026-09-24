@@ -20,7 +20,7 @@ related:
 - id: "sch-amerindian-perspectivism", title: "المنظوريةُ الأمازونية وتعدّدُ الطبائع (Amerindian Perspectivism)", type: "مدرسة"
 - id: "thk-martin-holbraad", title: "مارتن هولبراد (Martin Holbraad)", type: "مفكر"
 gaps:
-  - "فيليپ ديسكولا لم يُكتب بعد كملفٍّ مستقلّ؛ سيُضاف في دفعةٍ منفصلة (ما وراء الطبيعة/الثقافة). مارتن هولبراد أُضيف الآن بملفٍّ مستقلّ (`thk-martin-holbraad`)."
+  - "فيليپ ديسكولا موجودٌ بالفعل بملفٍّ مستقلّ (`thk-philippe-descola`) تحت مدرسته الخاصّة `sch-descola-beyond-nature-culture`؛ لا فجواتٌ متبقّية موثَّقة في هذه المدرسة."
 ---
 # المنعطفُ الأنطولوجيّ (The Ontological Turn — Viveiros de Castro, Holbraad)
 
