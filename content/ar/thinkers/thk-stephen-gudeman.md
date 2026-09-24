@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-anthropological-political-economy", title: "الاقتصادُ السياسيُّ العالميُّ والتاريخ (Eric Wolf — Europe and the People Without History)", type: "مدرسة"
 - id: "thk-jane-guyer", title: "جين غايير (Jane I. Guyer)", type: "مفكر"
+- id: "thk-bill-maurer", title: "بيل موِرر (Bill Maurer)", type: "مفكر"
 gaps: []
 ---
 # ستيڤن غودمان (Stephen Gudeman)
