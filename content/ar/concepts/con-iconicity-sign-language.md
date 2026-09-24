@@ -15,7 +15,10 @@ related:
 - id: "sch-sign-language-linguistics", title: "لسانياتُ لغة الإشارة (Sign Language Linguistics)", type: "مدرسة"
 - id: "con-cherology-sign-parameters-stokoe", title: "الكيرولوجيا ومعاملاتُ الإشارة عند ستوكو (Cherology & Sign Parameters)", type: "مفهوم"
 - id: "con-classifier-predicates-spatial-agreement-sign-language", title: "المسنِداتُ التصنيفيةُ والاتفاقُ المكانيُّ في لغة الإشارة", type: "مفهوم"
-gaps: []
+- id: "thk-wendy-sandler", title: "ويندي ساندلر", type: "مفكر"
+- id: "thk-william-stokoe", title: "وليام ستوكو", type: "مفكر"
+gaps:
+  - "دايان ليلو-مارتن (شريكةُ ساندلر في Sign Language and Linguistic Universals 2006) وسارة إف. تاوب (مؤلِّفةُ Language from the Body 2001)، المذكورتان/المستشهَدُ بهما في الملف نفسِه، لا تملكان عقدةَ سيرةٍ مستقلّة بعد."
 ---
 
 # المحاكاةُ التصويرية في لغة الإشارة
