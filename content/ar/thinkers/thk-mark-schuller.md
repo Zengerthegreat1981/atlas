@@ -18,6 +18,7 @@ related:
 - id: "sch-manchester-school", title: "مدرسةُ مانشستر وتحليلُ الموقف (Manchester School)", type: "مدرسة"
 - id: "thk-susanna-hoffman", title: "سوزانا هوفمان (Susanna M. Hoffman)", type: "مفكر"
 - id: "thk-kim-fortun", title: "كيم فورتن (Kim Fortun)", type: "مفكر"
+- id: "thk-peter-redfield", title: "پيتر ريدفيلد (Peter Redfield)", type: "مفكر"
 gaps: []
 ---
 # مارك شولر (Mark Schuller)
