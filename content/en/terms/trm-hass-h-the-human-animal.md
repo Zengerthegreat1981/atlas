@@ -1,6 +1,6 @@
 ---
 slug: "trm-hass-h-the-human-animal"
-id: "TRM-ENG-44433"
+id: "TRM-ENG-58962"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hass, H., The Human Animal"

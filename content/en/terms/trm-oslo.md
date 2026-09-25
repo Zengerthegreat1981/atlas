@@ -1,6 +1,6 @@
 ---
 slug: "trm-oslo"
-id: "TRM-ENG-37137"
+id: "TRM-ENG-66195"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Oslo"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-infected-with-the-human-immunodeficiency-virus-cid"
-id: "TRM-ENG-46122"
+id: "TRM-ENG-60651"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "infected with the human immunodeficiency virus (cid"

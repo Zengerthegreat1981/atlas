@@ -1,6 +1,6 @@
 ---
 slug: "trm-enlightenment"
-id: "TRM-ENG-46590"
+id: "TRM-ENG-61119"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Enlightenment”"

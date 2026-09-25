@@ -1,6 +1,6 @@
 ---
 slug: "trm-schmidt-h-g-1983-problembased-learning"
-id: "TRM-ENG-47230"
+id: "TRM-ENG-61759"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schmidt, H. G. (1983). Problem-based learning"

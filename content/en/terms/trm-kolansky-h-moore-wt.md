@@ -1,6 +1,6 @@
 ---
 slug: "trm-kolansky-h-moore-wt"
-id: "TRM-ENG-41279"
+id: "TRM-ENG-55808"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kolansky H, Moore WT"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-dunlap-k"
-id: "TRM-ENG-40389"
+id: "TRM-ENG-54918"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dunlap K"

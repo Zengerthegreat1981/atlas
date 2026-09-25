@@ -1,6 +1,6 @@
 ---
 slug: "trm-organizations-and-local-selfhelp-groups"
-id: "TRM-ENG-41070"
+id: "TRM-ENG-55599"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "organizations and local self-help groups"

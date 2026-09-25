@@ -1,6 +1,6 @@
 ---
 slug: "trm-as-agent-knower-and-subject-of-mental-states-bpd"
-id: "TRM-ENG-42660"
+id: "TRM-ENG-57189"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "as agent, knower, and subject of mental states BPD"

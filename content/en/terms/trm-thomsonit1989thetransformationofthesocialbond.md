@@ -1,6 +1,6 @@
 ---
 slug: "trm-thomsonit1989thetransformationofthesocialbond"
-id: "TRM-ENG-37366"
+id: "TRM-ENG-66424"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Thomson,I.T.(1989).Thetransformationofthesocialbond"

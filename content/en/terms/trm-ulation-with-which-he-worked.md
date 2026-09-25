@@ -1,6 +1,6 @@
 ---
 slug: "trm-ulation-with-which-he-worked"
-id: "TRM-ENG-48991"
+id: "TRM-ENG-63520"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ulation with which he worked"

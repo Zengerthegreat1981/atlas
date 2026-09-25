@@ -1,6 +1,6 @@
 ---
 slug: "trm-students-go-through-seven-steps-in-pbl"
-id: "TRM-ENG-47360"
+id: "TRM-ENG-61889"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Students go through seven steps in PBL"

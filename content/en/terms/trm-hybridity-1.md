@@ -1,6 +1,6 @@
 ---
 slug: "trm-hybridity-1"
-id: "TRM-ENG-46783"
+id: "TRM-ENG-61312"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hybridity, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-qualitative-research"
-id: "TRM-ENG-46146"
+id: "TRM-ENG-60675"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(qualitative) research"

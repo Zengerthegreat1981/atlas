@@ -1,6 +1,6 @@
 ---
 slug: "trm-mathews-andrew-1"
-id: "TRM-ENG-44606"
+id: "TRM-ENG-59135"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mathews, Andrew, 1"

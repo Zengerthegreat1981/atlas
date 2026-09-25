@@ -1,6 +1,6 @@
 ---
 slug: "trm-mahoney-m-j-1993-introduction-to-special-section"
-id: "TRM-ENG-49078"
+id: "TRM-ENG-63607"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mahoney, M. J. (1993). Introduction to special section"

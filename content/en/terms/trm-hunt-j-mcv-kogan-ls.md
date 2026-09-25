@@ -1,6 +1,6 @@
 ---
 slug: "trm-hunt-j-mcv-kogan-ls"
-id: "TRM-ENG-41055"
+id: "TRM-ENG-55584"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hunt J McV, Kogan LS"

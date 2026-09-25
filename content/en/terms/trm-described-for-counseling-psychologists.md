@@ -1,6 +1,6 @@
 ---
 slug: "trm-described-for-counseling-psychologists"
-id: "TRM-ENG-39900"
+id: "TRM-ENG-54429"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "described for counseling psychologists"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-verbal-learning-cf"
-id: "TRM-ENG-52618"
+id: "TRM-ENG-67147"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "verbal learning (cf"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-catcentral"
-id: "TRM-ENG-37750"
+id: "TRM-ENG-52279"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "CATCentral"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-glaser-r-linn-r-1997-assessment-in-transition-stan-evaluation"
-id: "TRM-ENG-34708"
+id: "TRM-ENG-49237"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Glaser, R., & Linn, R. (1997). Assessment in transition. Stan- evaluation"

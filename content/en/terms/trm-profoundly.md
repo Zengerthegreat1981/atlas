@@ -1,6 +1,6 @@
 ---
 slug: "trm-profoundly"
-id: "TRM-ENG-45989"
+id: "TRM-ENG-60518"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "profoundly"

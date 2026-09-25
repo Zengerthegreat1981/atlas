@@ -1,6 +1,6 @@
 ---
 slug: "trm-career-or-work-aspects-measured-by-4"
-id: "TRM-ENG-39437"
+id: "TRM-ENG-53966"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "career or work aspects measured by, 4"

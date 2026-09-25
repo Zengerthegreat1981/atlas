@@ -1,6 +1,6 @@
 ---
 slug: "trm-ornstein-p"
-id: "TRM-ENG-41880"
+id: "TRM-ENG-56409"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ornstein P"

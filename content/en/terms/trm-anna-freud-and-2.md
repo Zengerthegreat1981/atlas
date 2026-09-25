@@ -1,6 +1,6 @@
 ---
 slug: "trm-anna-freud-and-2"
-id: "TRM-ENG-37599"
+id: "TRM-ENG-66657"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Anna Freud and, 2"

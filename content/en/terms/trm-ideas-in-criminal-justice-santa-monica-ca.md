@@ -1,6 +1,6 @@
 ---
 slug: "trm-ideas-in-criminal-justice-santa-monica-ca"
-id: "TRM-ENG-42870"
+id: "TRM-ENG-57399"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ideas in criminal justice. Santa Monica, CA"

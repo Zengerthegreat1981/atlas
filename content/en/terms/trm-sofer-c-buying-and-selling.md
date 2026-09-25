@@ -1,6 +1,6 @@
 ---
 slug: "trm-sofer-c-buying-and-selling"
-id: "TRM-ENG-44639"
+id: "TRM-ENG-59168"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sofer, C., “Buying and Selling"

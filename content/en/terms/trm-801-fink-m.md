@@ -1,6 +1,6 @@
 ---
 slug: "trm-801-fink-m"
-id: "TRM-ENG-39460"
+id: "TRM-ENG-53989"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "801. Fink M"

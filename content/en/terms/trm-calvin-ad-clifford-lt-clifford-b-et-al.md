@@ -1,6 +1,6 @@
 ---
 slug: "trm-calvin-ad-clifford-lt-clifford-b-et-al"
-id: "TRM-ENG-40104"
+id: "TRM-ENG-54633"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Calvin AD, Clifford LT, Clifford B, et al"

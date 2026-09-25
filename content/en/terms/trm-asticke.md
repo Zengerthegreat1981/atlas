@@ -1,6 +1,6 @@
 ---
 slug: "trm-asticke"
-id: "TRM-ENG-37564"
+id: "TRM-ENG-52093"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "asticke"

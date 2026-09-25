@@ -1,6 +1,6 @@
 ---
 slug: "trm-selfreactiveness-selfreflectiveness-and-2"
-id: "TRM-ENG-41614"
+id: "TRM-ENG-56143"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "self-reactiveness, self-reflectiveness and, 2"

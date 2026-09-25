@@ -1,6 +1,6 @@
 ---
 slug: "trm-noyes-ap-haydon-em-van-sickel-m"
-id: "TRM-ENG-41853"
+id: "TRM-ENG-56382"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Noyes AP, Haydon EM, van Sickel M"

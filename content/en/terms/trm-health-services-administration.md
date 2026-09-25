@@ -1,6 +1,6 @@
 ---
 slug: "trm-health-services-administration"
-id: "TRM-ENG-47719"
+id: "TRM-ENG-62248"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Health Services Administration"

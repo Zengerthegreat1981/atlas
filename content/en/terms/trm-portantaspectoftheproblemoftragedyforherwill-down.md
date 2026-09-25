@@ -1,6 +1,6 @@
 ---
 slug: "trm-portantaspectoftheproblemoftragedyforherwill-down"
-id: "TRM-ENG-45986"
+id: "TRM-ENG-60515"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "portantaspectoftheproblemoftragedyforherwill down"

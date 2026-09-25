@@ -1,6 +1,6 @@
 ---
 slug: "trm-oakeshott-m-j-1989-the-voice-of-liberal-learning"
-id: "TRM-ENG-47077"
+id: "TRM-ENG-61606"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Oakeshott, M. J. (1989). The voice of liberal learning"

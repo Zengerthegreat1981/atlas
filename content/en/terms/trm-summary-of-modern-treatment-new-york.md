@@ -1,6 +1,6 @@
 ---
 slug: "trm-summary-of-modern-treatment-new-york"
-id: "TRM-ENG-45970"
+id: "TRM-ENG-60499"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Summary of Modern Treatment (New York"

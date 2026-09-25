@@ -1,6 +1,6 @@
 ---
 slug: "trm-375-spitzer-rl-et-al"
-id: "TRM-ENG-38944"
+id: "TRM-ENG-53473"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "375. Spitzer RL, et al"

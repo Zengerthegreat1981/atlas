@@ -1,6 +1,6 @@
 ---
 slug: "trm-nents-can-be-divided-into-three-main-categories"
-id: "TRM-ENG-35965"
+id: "TRM-ENG-65023"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nents can be divided into three main categories"

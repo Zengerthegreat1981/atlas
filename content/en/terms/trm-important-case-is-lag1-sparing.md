@@ -1,6 +1,6 @@
 ---
 slug: "trm-important-case-is-lag1-sparing"
-id: "TRM-ENG-45193"
+id: "TRM-ENG-59722"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "important case is lag-1 sparing"

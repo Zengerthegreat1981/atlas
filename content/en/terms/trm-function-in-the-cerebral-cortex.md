@@ -1,6 +1,6 @@
 ---
 slug: "trm-function-in-the-cerebral-cortex"
-id: "TRM-ENG-36473"
+id: "TRM-ENG-51002"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "function in the cerebral cortex"

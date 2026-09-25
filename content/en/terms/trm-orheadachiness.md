@@ -1,6 +1,6 @@
 ---
 slug: "trm-orheadachiness"
-id: "TRM-ENG-38066"
+id: "TRM-ENG-52595"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "orheadachiness"

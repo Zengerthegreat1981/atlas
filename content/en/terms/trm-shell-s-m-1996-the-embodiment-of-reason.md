@@ -1,6 +1,6 @@
 ---
 slug: "trm-shell-s-m-1996-the-embodiment-of-reason"
-id: "TRM-ENG-47277"
+id: "TRM-ENG-61806"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shell, S. M. (1996). The embodiment of reason"

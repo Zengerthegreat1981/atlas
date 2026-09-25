@@ -1,6 +1,6 @@
 ---
 slug: "trm-spitzer-rl-cohen-j"
-id: "TRM-ENG-42427"
+id: "TRM-ENG-56956"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spitzer RL, Cohen J"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-cultural-values-and-3"
-id: "TRM-ENG-39825"
+id: "TRM-ENG-54354"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cultural values and, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-pierce-cm"
-id: "TRM-ENG-41974"
+id: "TRM-ENG-56503"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pierce CM"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-nash-em-jessner-l-abse-dw-eds"
-id: "TRM-ENG-41819"
+id: "TRM-ENG-56348"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nash EM, Jessner L, Abse DW (eds)"

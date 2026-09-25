@@ -1,6 +1,6 @@
 ---
 slug: "trm-signal-detection-theory-sdt-1"
-id: "TRM-ENG-38772"
+id: "TRM-ENG-53301"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Signal detection theory (SDT), 1"

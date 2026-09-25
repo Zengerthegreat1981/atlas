@@ -1,6 +1,6 @@
 ---
 slug: "trm-stronger-solution"
-id: "TRM-ENG-44152"
+id: "TRM-ENG-58681"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stronger solution."

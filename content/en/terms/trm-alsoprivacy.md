@@ -1,6 +1,6 @@
 ---
 slug: "trm-alsoprivacy"
-id: "TRM-ENG-43518"
+id: "TRM-ENG-58047"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "alsoprivacy."

@@ -1,6 +1,6 @@
 ---
 slug: "trm-tgroup-theory-and-laboratory-method"
-id: "TRM-ENG-51080"
+id: "TRM-ENG-65609"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "T-Group theory and laboratory method"

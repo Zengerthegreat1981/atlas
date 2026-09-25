@@ -1,6 +1,6 @@
 ---
 slug: "trm-lateral-location"
-id: "TRM-ENG-34910"
+id: "TRM-ENG-63968"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lateral location"

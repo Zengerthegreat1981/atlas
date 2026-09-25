@@ -1,6 +1,6 @@
 ---
 slug: "trm-j-s-beer-eds-2009-new-york-ny"
-id: "TRM-ENG-35418"
+id: "TRM-ENG-64476"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "J. s. beer (eds.), 2009, new york, ny"

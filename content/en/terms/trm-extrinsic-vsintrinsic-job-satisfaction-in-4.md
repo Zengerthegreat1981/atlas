@@ -1,6 +1,6 @@
 ---
 slug: "trm-extrinsic-vsintrinsic-job-satisfaction-in-4"
-id: "TRM-ENG-40155"
+id: "TRM-ENG-54684"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "extrinsic vs.intrinsic job satisfaction in, 4"

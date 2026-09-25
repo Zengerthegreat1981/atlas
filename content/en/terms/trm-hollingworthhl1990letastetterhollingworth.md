@@ -1,6 +1,6 @@
 ---
 slug: "trm-hollingworthhl1990letastetterhollingworth"
-id: "TRM-ENG-36913"
+id: "TRM-ENG-65971"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hollingworth,H.L.(1990).LetaStetterHollingworth"

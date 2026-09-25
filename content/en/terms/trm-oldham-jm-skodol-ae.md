@@ -1,6 +1,6 @@
 ---
 slug: "trm-oldham-jm-skodol-ae"
-id: "TRM-ENG-47916"
+id: "TRM-ENG-62445"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Oldham JM, Skodol AE"

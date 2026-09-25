@@ -1,6 +1,6 @@
 ---
 slug: "trm-wittkower-ed-la-tendresse-td"
-id: "TRM-ENG-42838"
+id: "TRM-ENG-57367"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wittkower ED, La Tendresse TD"

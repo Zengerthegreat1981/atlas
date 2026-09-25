@@ -1,6 +1,6 @@
 ---
 slug: "trm-5-attitudes-toward-self"
-id: "TRM-ENG-39095"
+id: "TRM-ENG-53624"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "5. Attitudes toward self"

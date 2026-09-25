@@ -1,6 +1,6 @@
 ---
 slug: "trm-singlesession-therapy-techniques-of-2"
-id: "TRM-ENG-41667"
+id: "TRM-ENG-56196"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "single-session therapy, techniques of, 2"

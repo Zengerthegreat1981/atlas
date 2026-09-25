@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-irrational-beliefs"
-id: "TRM-ENG-41001"
+id: "TRM-ENG-55530"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of irrational beliefs"

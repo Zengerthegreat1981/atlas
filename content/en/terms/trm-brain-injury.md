@@ -1,6 +1,6 @@
 ---
 slug: "trm-brain-injury"
-id: "TRM-ENG-34773"
+id: "TRM-ENG-63831"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "brain injury"

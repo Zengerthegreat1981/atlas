@@ -1,6 +1,6 @@
 ---
 slug: "trm-ischemia"
-id: "TRM-ENG-47073"
+id: "TRM-ENG-61602"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ischemia"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-personality"
-id: "TRM-ENG-36138"
+id: "TRM-ENG-65196"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and personality"

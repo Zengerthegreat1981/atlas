@@ -1,6 +1,6 @@
 ---
 slug: "trm-sprangersm1996responseshiftbias"
-id: "TRM-ENG-46726"
+id: "TRM-ENG-61255"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sprangers,M.(1996).Response-shiftbias"

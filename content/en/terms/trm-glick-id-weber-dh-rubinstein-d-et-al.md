@@ -1,6 +1,6 @@
 ---
 slug: "trm-glick-id-weber-dh-rubinstein-d-et-al"
-id: "TRM-ENG-40727"
+id: "TRM-ENG-55256"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Glick ID, Weber DH, Rubinstein D, et al"

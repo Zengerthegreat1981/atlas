@@ -1,6 +1,6 @@
 ---
 slug: "trm-tion-compr-psychiatry-42"
-id: "TRM-ENG-48672"
+id: "TRM-ENG-63201"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tion. Compr Psychiatry 42"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-fazio-russell-1"
-id: "TRM-ENG-44478"
+id: "TRM-ENG-59007"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fazio, Russell, 1"

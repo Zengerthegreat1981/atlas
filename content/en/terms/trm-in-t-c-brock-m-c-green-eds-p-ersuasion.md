@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-t-c-brock-m-c-green-eds-p-ersuasion"
-id: "TRM-ENG-44541"
+id: "TRM-ENG-59070"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "In T. C. Brock & M. C. Green (Eds.), P ersuasion"

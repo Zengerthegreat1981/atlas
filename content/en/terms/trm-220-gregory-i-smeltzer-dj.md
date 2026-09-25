@@ -1,6 +1,6 @@
 ---
 slug: "trm-220-gregory-i-smeltzer-dj"
-id: "TRM-ENG-38739"
+id: "TRM-ENG-53268"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "220. Gregory I, Smeltzer DJ"

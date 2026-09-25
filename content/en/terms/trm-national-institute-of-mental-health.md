@@ -1,6 +1,6 @@
 ---
 slug: "trm-national-institute-of-mental-health"
-id: "TRM-ENG-41824"
+id: "TRM-ENG-56353"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "National Institute of Mental Health"

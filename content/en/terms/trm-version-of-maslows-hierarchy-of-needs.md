@@ -1,6 +1,6 @@
 ---
 slug: "trm-version-of-maslows-hierarchy-of-needs"
-id: "TRM-ENG-51957"
+id: "TRM-ENG-66486"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "version of Maslow’s hierarchy of needs"

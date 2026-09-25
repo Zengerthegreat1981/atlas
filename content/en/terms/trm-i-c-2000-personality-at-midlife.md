@@ -1,6 +1,6 @@
 ---
 slug: "trm-i-c-2000-personality-at-midlife"
-id: "TRM-ENG-43444"
+id: "TRM-ENG-57973"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "I. C. (2000). Personality at midlife"

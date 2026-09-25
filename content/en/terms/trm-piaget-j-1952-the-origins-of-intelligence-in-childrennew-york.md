@@ -1,6 +1,6 @@
 ---
 slug: "trm-piaget-j-1952-the-origins-of-intelligence-in-childrennew-york"
-id: "TRM-ENG-35899"
+id: "TRM-ENG-64957"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Piaget, J. (1952). The origins of intelligence in children.New York"

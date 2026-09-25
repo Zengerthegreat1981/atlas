@@ -1,6 +1,6 @@
 ---
 slug: "trm-glabus-m-blackwood-j-d-r-1990-perceptual-depression"
-id: "TRM-ENG-49001"
+id: "TRM-ENG-63530"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Glabus, M., & Blackwood, J. D. R. (1990). Perceptual depression"

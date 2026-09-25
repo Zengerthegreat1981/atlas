@@ -1,6 +1,6 @@
 ---
 slug: "trm-top-political-figures"
-id: "TRM-ENG-45392"
+id: "TRM-ENG-59921"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "top political figures"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-given-new-methodological-directions"
-id: "TRM-ENG-48072"
+id: "TRM-ENG-62601"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "given new methodological directions"

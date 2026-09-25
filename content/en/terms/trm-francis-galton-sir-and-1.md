@@ -1,6 +1,6 @@
 ---
 slug: "trm-francis-galton-sir-and-1"
-id: "TRM-ENG-38085"
+id: "TRM-ENG-67143"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Francis Galton, Sir and, 1"

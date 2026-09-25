@@ -1,6 +1,6 @@
 ---
 slug: "trm-dnlm-1-phobic-disorders"
-id: "TRM-ENG-46011"
+id: "TRM-ENG-60540"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "[DNLM: 1. Phobic Disorders"

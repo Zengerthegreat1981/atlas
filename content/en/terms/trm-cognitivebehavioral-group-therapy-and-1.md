@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognitivebehavioral-group-therapy-and-1"
-id: "TRM-ENG-51346"
+id: "TRM-ENG-65875"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cognitive-behavioral group therapy and, 1"

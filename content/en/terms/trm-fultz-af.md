@@ -1,6 +1,6 @@
 ---
 slug: "trm-fultz-af"
-id: "TRM-ENG-40640"
+id: "TRM-ENG-55169"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fultz AF"

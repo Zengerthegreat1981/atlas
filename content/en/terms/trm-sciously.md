@@ -1,6 +1,6 @@
 ---
 slug: "trm-sciously"
-id: "TRM-ENG-45595"
+id: "TRM-ENG-60124"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sciously"

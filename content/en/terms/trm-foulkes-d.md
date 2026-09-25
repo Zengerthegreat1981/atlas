@@ -1,6 +1,6 @@
 ---
 slug: "trm-foulkes-d"
-id: "TRM-ENG-40573"
+id: "TRM-ENG-55102"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Foulkes D"

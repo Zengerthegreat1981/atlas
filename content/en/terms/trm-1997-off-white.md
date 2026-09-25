@@ -1,6 +1,6 @@
 ---
 slug: "trm-1997-off-white"
-id: "TRM-ENG-34562"
+id: "TRM-ENG-49091"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1997). Off white"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-information-available-from-4"
-id: "TRM-ENG-40540"
+id: "TRM-ENG-55069"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "information available from, 4"

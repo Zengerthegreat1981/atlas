@@ -1,6 +1,6 @@
 ---
 slug: "trm-restriction-of-range-the-limitation"
-id: "TRM-ENG-45592"
+id: "TRM-ENG-60121"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "restriction of range the limitation"

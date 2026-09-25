@@ -1,6 +1,6 @@
 ---
 slug: "trm-rialist-adj-n"
-id: "TRM-ENG-44139"
+id: "TRM-ENG-58668"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rialist adj., n."

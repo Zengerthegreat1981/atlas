@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-behavior"
-id: "TRM-ENG-51640"
+id: "TRM-ENG-66169"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of behavior"

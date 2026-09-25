@@ -1,6 +1,6 @@
 ---
 slug: "trm-lowing-characteristics-when-selecting-translators"
-id: "TRM-ENG-35917"
+id: "TRM-ENG-64975"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lowing characteristics when selecting translators"

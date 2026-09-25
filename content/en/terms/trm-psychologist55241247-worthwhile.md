@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychologist55241247-worthwhile"
-id: "TRM-ENG-37203"
+id: "TRM-ENG-66261"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychologist,55,241–247. worthwhile"

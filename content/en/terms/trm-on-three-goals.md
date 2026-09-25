@@ -1,6 +1,6 @@
 ---
 slug: "trm-on-three-goals"
-id: "TRM-ENG-45194"
+id: "TRM-ENG-59723"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "on three goals"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-hyland-terry-1"
-id: "TRM-ENG-46784"
+id: "TRM-ENG-61313"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hyland, Terry, 1"

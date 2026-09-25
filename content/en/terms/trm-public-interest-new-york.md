@@ -1,6 +1,6 @@
 ---
 slug: "trm-public-interest-new-york"
-id: "TRM-ENG-45767"
+id: "TRM-ENG-60296"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Public Interest. New York"

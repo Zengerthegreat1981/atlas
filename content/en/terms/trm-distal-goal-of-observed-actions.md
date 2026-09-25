@@ -1,6 +1,6 @@
 ---
 slug: "trm-distal-goal-of-observed-actions"
-id: "TRM-ENG-34811"
+id: "TRM-ENG-63869"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "distal goal of observed actions"

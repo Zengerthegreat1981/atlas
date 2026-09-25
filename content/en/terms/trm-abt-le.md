@@ -1,6 +1,6 @@
 ---
 slug: "trm-abt-le"
-id: "TRM-ENG-39635"
+id: "TRM-ENG-54164"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Abt LE"

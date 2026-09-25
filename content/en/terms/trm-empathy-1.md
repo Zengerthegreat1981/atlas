@@ -1,6 +1,6 @@
 ---
 slug: "trm-empathy-1"
-id: "TRM-ENG-46574"
+id: "TRM-ENG-61103"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Empathy, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-3-pemoline-cylert"
-id: "TRM-ENG-38851"
+id: "TRM-ENG-53380"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "3. Pemoline (Cylert"

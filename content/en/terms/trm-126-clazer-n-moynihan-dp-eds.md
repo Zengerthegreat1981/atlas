@@ -1,6 +1,6 @@
 ---
 slug: "trm-126-clazer-n-moynihan-dp-eds"
-id: "TRM-ENG-38592"
+id: "TRM-ENG-53121"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "126. Clazer N, Moynihan DP (eds)"

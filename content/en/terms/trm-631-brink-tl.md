@@ -1,6 +1,6 @@
 ---
 slug: "trm-631-brink-tl"
-id: "TRM-ENG-39256"
+id: "TRM-ENG-53785"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "631. Brink TL"

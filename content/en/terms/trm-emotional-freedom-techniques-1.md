@@ -1,6 +1,6 @@
 ---
 slug: "trm-emotional-freedom-techniques-1"
-id: "TRM-ENG-51428"
+id: "TRM-ENG-65957"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "emotional freedom techniques, 1"

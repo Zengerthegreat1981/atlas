@@ -1,6 +1,6 @@
 ---
 slug: "trm-research-labs-include-determining"
-id: "TRM-ENG-38212"
+id: "TRM-ENG-52741"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "research labs include determining"

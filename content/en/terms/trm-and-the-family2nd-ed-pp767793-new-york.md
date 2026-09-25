@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-the-family2nd-ed-pp767793-new-york"
-id: "TRM-ENG-36144"
+id: "TRM-ENG-65202"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and the family(2nd ed., pp.767–793). New York"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-sible"
-id: "TRM-ENG-36991"
+id: "TRM-ENG-51520"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sible"

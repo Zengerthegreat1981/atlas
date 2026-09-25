@@ -1,6 +1,6 @@
 ---
 slug: "trm-massive-opposition"
-id: "TRM-ENG-45150"
+id: "TRM-ENG-59679"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "massive opposition"

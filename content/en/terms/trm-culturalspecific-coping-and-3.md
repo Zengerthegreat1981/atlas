@@ -1,6 +1,6 @@
 ---
 slug: "trm-culturalspecific-coping-and-3"
-id: "TRM-ENG-39830"
+id: "TRM-ENG-54359"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cultural-specific coping and, 3"

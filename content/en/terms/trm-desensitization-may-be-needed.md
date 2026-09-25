@@ -1,6 +1,6 @@
 ---
 slug: "trm-desensitization-may-be-needed"
-id: "TRM-ENG-44979"
+id: "TRM-ENG-59508"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "desensitization may be needed"

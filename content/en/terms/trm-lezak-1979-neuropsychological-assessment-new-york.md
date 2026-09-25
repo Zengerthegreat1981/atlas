@@ -1,6 +1,6 @@
 ---
 slug: "trm-lezak-1979-neuropsychological-assessment-new-york"
-id: "TRM-ENG-46608"
+id: "TRM-ENG-61137"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lezak (1979). Neuropsychological assessment. New York"

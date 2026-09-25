@@ -1,6 +1,6 @@
 ---
 slug: "trm-science-cannot-tell-anyone-what-he-should-do"
-id: "TRM-ENG-48682"
+id: "TRM-ENG-63211"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "science cannot tell anyone what he should do"

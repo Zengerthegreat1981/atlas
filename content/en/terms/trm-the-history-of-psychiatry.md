@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-history-of-psychiatry"
-id: "TRM-ENG-44824"
+id: "TRM-ENG-59353"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, “The History of Psychiatry"

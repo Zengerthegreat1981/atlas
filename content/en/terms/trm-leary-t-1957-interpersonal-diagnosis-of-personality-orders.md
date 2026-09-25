@@ -1,6 +1,6 @@
 ---
 slug: "trm-leary-t-1957-interpersonal-diagnosis-of-personality-orders"
-id: "TRM-ENG-43470"
+id: "TRM-ENG-57999"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Leary, T. (1957). Interpersonal diagnosis of personality. orders"

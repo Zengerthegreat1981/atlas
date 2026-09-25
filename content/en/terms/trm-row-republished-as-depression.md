@@ -1,6 +1,6 @@
 ---
 slug: "trm-row-republished-as-depression"
-id: "TRM-ENG-50980"
+id: "TRM-ENG-65509"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Row. (Republished as Depression"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-einstein-s"
-id: "TRM-ENG-40417"
+id: "TRM-ENG-54946"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Einstein S"

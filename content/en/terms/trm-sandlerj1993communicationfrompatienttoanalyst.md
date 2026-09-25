@@ -1,6 +1,6 @@
 ---
 slug: "trm-sandlerj1993communicationfrompatienttoanalyst"
-id: "TRM-ENG-49166"
+id: "TRM-ENG-63695"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sandler,J.(1993).Communicationfrompatienttoanalyst"

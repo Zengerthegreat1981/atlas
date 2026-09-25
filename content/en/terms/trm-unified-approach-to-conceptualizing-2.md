@@ -1,6 +1,6 @@
 ---
 slug: "trm-unified-approach-to-conceptualizing-2"
-id: "TRM-ENG-51951"
+id: "TRM-ENG-66480"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "unified approach to conceptualizing, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-for-omnibus-and-targeted-effects"
-id: "TRM-ENG-35817"
+id: "TRM-ENG-50346"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "for omnibus and targeted effects"

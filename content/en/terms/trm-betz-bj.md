@@ -1,6 +1,6 @@
 ---
 slug: "trm-betz-bj"
-id: "TRM-ENG-39922"
+id: "TRM-ENG-54451"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Betz BJ"

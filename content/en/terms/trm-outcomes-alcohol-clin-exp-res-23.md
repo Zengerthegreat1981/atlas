@@ -1,6 +1,6 @@
 ---
 slug: "trm-outcomes-alcohol-clin-exp-res-23"
-id: "TRM-ENG-48510"
+id: "TRM-ENG-63039"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "outcomes. Alcohol Clin Exp Res 23"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-would-further-erode-its-already-weakened"
-id: "TRM-ENG-37334"
+id: "TRM-ENG-66392"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "would further erode its already weakened"

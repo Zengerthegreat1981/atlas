@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-violence"
-id: "TRM-ENG-48457"
+id: "TRM-ENG-62986"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of violence"

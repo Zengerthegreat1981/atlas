@@ -1,6 +1,6 @@
 ---
 slug: "trm-other-alternative-names-for-the-cannon"
-id: "TRM-ENG-52530"
+id: "TRM-ENG-67059"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Other alternative names for the Cannon"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-foster-j-1982-t-he-case-for-idealism-london-uk"
-id: "TRM-ENG-44491"
+id: "TRM-ENG-59020"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Foster, J. (1982). T he case for idealism. London, UK"

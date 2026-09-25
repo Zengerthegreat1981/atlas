@@ -1,6 +1,6 @@
 ---
 slug: "trm-coping-with-4"
-id: "TRM-ENG-39712"
+id: "TRM-ENG-54241"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "coping with, 4"

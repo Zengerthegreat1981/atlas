@@ -1,6 +1,6 @@
 ---
 slug: "trm-brown-gi"
-id: "TRM-ENG-40049"
+id: "TRM-ENG-54578"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brown GI"

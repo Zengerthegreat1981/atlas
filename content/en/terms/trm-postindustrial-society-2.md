@@ -1,6 +1,6 @@
 ---
 slug: "trm-postindustrial-society-2"
-id: "TRM-ENG-47148"
+id: "TRM-ENG-61677"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Postindustrial society, 2"

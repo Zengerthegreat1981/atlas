@@ -1,6 +1,6 @@
 ---
 slug: "trm-1968-describe-three-common-errors"
-id: "TRM-ENG-38501"
+id: "TRM-ENG-53030"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1968) describe three common errors"

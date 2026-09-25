@@ -1,6 +1,6 @@
 ---
 slug: "trm-blackman-n"
-id: "TRM-ENG-39948"
+id: "TRM-ENG-54477"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Blackman N"

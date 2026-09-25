@@ -1,6 +1,6 @@
 ---
 slug: "trm-schultz-ja-luthe-w-autogenic-training"
-id: "TRM-ENG-42283"
+id: "TRM-ENG-56812"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schultz JA, Luthe W: Autogenic Training"

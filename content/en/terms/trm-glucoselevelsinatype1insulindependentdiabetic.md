@@ -1,6 +1,6 @@
 ---
 slug: "trm-glucoselevelsinatype1insulindependentdiabetic"
-id: "TRM-ENG-46999"
+id: "TRM-ENG-61528"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "glucoselevelsinaType1insulin-dependentdiabetic"

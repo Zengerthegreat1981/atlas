@@ -1,6 +1,6 @@
 ---
 slug: "trm-gender-and-education-1"
-id: "TRM-ENG-46683"
+id: "TRM-ENG-61212"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gender and education, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-husain-a-2006-islamic-psychology"
-id: "TRM-ENG-36935"
+id: "TRM-ENG-65993"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Husain, A. (2006). Islamic psychology"

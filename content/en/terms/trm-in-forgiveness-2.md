@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-forgiveness-2"
-id: "TRM-ENG-40483"
+id: "TRM-ENG-55012"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in forgiveness, 2"

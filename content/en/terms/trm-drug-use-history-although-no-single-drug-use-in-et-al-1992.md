@@ -1,6 +1,6 @@
 ---
 slug: "trm-drug-use-history-although-no-single-drug-use-in-et-al-1992"
-id: "TRM-ENG-34675"
+id: "TRM-ENG-49204"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Drug Use History. Although no single drug use in- et al., 1992"

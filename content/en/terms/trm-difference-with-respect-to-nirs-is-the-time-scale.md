@@ -1,6 +1,6 @@
 ---
 slug: "trm-difference-with-respect-to-nirs-is-the-time-scale"
-id: "TRM-ENG-35765"
+id: "TRM-ENG-64823"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "difference with respect to NIRS is the time scale"

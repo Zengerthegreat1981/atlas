@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychology-texts-would-typically-take-the-form-of-with-it"
-id: "TRM-ENG-37207"
+id: "TRM-ENG-66265"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychology texts would typically take the form of with it"

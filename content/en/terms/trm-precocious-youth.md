@@ -1,6 +1,6 @@
 ---
 slug: "trm-precocious-youth"
-id: "TRM-ENG-41254"
+id: "TRM-ENG-55783"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "precocious youth"

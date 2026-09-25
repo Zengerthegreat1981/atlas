@@ -1,6 +1,6 @@
 ---
 slug: "trm-fordyce-we-fowler-rs-lehmann-jf-et-al"
-id: "TRM-ENG-40569"
+id: "TRM-ENG-55098"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fordyce WE, Fowler RS, Lehmann JF, et al"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-press-disorders"
-id: "TRM-ENG-42495"
+id: "TRM-ENG-57024"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Press. disorders"

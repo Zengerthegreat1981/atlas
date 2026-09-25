@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-international-encyclopedia-of-geography"
-id: "TRM-ENG-45620"
+id: "TRM-ENG-60149"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The International Encyclopedia of Geography"

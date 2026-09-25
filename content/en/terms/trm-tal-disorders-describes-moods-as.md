@@ -1,6 +1,6 @@
 ---
 slug: "trm-tal-disorders-describes-moods-as"
-id: "TRM-ENG-45971"
+id: "TRM-ENG-60500"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "TAL DISORDERS) describes moods as"

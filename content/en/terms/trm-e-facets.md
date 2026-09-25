@@ -1,6 +1,6 @@
 ---
 slug: "trm-e-facets"
-id: "TRM-ENG-43420"
+id: "TRM-ENG-57949"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "E facets"

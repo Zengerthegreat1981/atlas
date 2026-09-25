@@ -1,6 +1,6 @@
 ---
 slug: "trm-hierarchical-arrangement"
-id: "TRM-ENG-45073"
+id: "TRM-ENG-59602"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "hierarchical arrangement"

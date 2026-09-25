@@ -1,6 +1,6 @@
 ---
 slug: "trm-494-masters-wh-johnson-ve"
-id: "TRM-ENG-39089"
+id: "TRM-ENG-53618"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "494. Masters WH, Johnson VE"

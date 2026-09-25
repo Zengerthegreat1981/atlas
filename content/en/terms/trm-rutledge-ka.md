@@ -1,6 +1,6 @@
 ---
 slug: "trm-rutledge-ka"
-id: "TRM-ENG-42209"
+id: "TRM-ENG-56738"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rutledge KA"

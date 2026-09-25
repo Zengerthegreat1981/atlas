@@ -1,6 +1,6 @@
 ---
 slug: "trm-dieting-to-lose-weight"
-id: "TRM-ENG-34978"
+id: "TRM-ENG-64036"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dieting to lose weight"

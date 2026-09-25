@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-russian"
-id: "TRM-ENG-37512"
+id: "TRM-ENG-66570"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and Russian"

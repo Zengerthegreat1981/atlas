@@ -1,6 +1,6 @@
 ---
 slug: "trm-negative-reinforcement-and-2"
-id: "TRM-ENG-40940"
+id: "TRM-ENG-55469"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "negative reinforcement and, 2"

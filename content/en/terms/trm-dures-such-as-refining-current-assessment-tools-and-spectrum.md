@@ -1,6 +1,6 @@
 ---
 slug: "trm-dures-such-as-refining-current-assessment-tools-and-spectrum"
-id: "TRM-ENG-39981"
+id: "TRM-ENG-54510"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dures, such as refining current assessment tools and spectrum"

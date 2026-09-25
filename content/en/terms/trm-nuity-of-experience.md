@@ -1,6 +1,6 @@
 ---
 slug: "trm-nuity-of-experience"
-id: "TRM-ENG-36755"
+id: "TRM-ENG-65813"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nuity of experience”"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-committee-and-3"
-id: "TRM-ENG-37851"
+id: "TRM-ENG-66909"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Committee and, 3"

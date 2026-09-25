@@ -1,6 +1,6 @@
 ---
 slug: "trm-11-drug-therapy"
-id: "TRM-ENG-38565"
+id: "TRM-ENG-53094"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "11. Drug therapy"

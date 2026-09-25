@@ -1,6 +1,6 @@
 ---
 slug: "trm-more-indepth-sharing-of-information-also-occurs-at-bian-mand"
-id: "TRM-ENG-35850"
+id: "TRM-ENG-64908"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "More in-depth sharing of information also occurs at bian- mand"

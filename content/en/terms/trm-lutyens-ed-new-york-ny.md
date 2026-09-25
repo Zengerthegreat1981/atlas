@@ -1,6 +1,6 @@
 ---
 slug: "trm-lutyens-ed-new-york-ny"
-id: "TRM-ENG-50686"
+id: "TRM-ENG-65215"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lutyens, Ed.). New York, NY"

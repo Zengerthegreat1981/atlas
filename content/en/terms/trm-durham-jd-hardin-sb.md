@@ -1,6 +1,6 @@
 ---
 slug: "trm-durham-jd-hardin-sb"
-id: "TRM-ENG-40393"
+id: "TRM-ENG-54922"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Durham JD, Hardin SB"

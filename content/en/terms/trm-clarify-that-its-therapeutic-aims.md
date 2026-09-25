@@ -1,6 +1,6 @@
 ---
 slug: "trm-clarify-that-its-therapeutic-aims"
-id: "TRM-ENG-44069"
+id: "TRM-ENG-58598"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "clarify that its therapeutic aims"

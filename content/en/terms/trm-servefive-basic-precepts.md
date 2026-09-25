@@ -1,6 +1,6 @@
 ---
 slug: "trm-servefive-basic-precepts"
-id: "TRM-ENG-46005"
+id: "TRM-ENG-60534"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "servefive basic precepts"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-savage-c-mccabe-ol"
-id: "TRM-ENG-42253"
+id: "TRM-ENG-56782"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Savage C, McCabe OL"

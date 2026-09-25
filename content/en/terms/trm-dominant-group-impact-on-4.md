@@ -1,6 +1,6 @@
 ---
 slug: "trm-dominant-group-impact-on-4"
-id: "TRM-ENG-39972"
+id: "TRM-ENG-54501"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dominant group impact on, 4"

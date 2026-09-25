@@ -1,6 +1,6 @@
 ---
 slug: "trm-mange-a-p-mange-e-j-1990-genetics"
-id: "TRM-ENG-46622"
+id: "TRM-ENG-61151"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mange, A. P. & Mange, E. J. (1990). Genetics"

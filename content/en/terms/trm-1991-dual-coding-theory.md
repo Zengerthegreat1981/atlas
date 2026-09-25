@@ -1,6 +1,6 @@
 ---
 slug: "trm-1991-dual-coding-theory"
-id: "TRM-ENG-52460"
+id: "TRM-ENG-66989"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1991). Dual coding theory"

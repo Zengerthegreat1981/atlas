@@ -1,6 +1,6 @@
 ---
 slug: "trm-childs-actions-are-praised-by-the-community-and-she-or-piety"
-id: "TRM-ENG-39494"
+id: "TRM-ENG-54023"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "child’s actions are praised by the community, and she or piety"

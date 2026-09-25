@@ -1,6 +1,6 @@
 ---
 slug: "trm-solnit-aj"
-id: "TRM-ENG-42399"
+id: "TRM-ENG-56928"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Solnit AJ"

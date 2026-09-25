@@ -1,6 +1,6 @@
 ---
 slug: "trm-tors-in-borderline-personality-disorder"
-id: "TRM-ENG-43380"
+id: "TRM-ENG-57909"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tors in borderline personality disorder"

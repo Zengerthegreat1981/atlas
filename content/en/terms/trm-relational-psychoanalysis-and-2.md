@@ -1,6 +1,6 @@
 ---
 slug: "trm-relational-psychoanalysis-and-2"
-id: "TRM-ENG-51787"
+id: "TRM-ENG-66316"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "relational psychoanalysis and, 2"

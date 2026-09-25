@@ -1,6 +1,6 @@
 ---
 slug: "trm-personal-historiesreno-nv"
-id: "TRM-ENG-41141"
+id: "TRM-ENG-55670"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "personal histories.Reno, NV"

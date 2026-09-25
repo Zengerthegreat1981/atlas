@@ -1,6 +1,6 @@
 ---
 slug: "trm-bernard-hw-college-mental-hygiene"
-id: "TRM-ENG-39911"
+id: "TRM-ENG-54440"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bernard HW: College mental hygiene"

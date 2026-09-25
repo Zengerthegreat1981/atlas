@@ -1,6 +1,6 @@
 ---
 slug: "trm-because-they-often-feel-significantly-better-some-http"
-id: "TRM-ENG-46036"
+id: "TRM-ENG-60565"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "because they often feel significantly better, some http"

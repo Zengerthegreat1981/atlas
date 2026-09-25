@@ -1,6 +1,6 @@
 ---
 slug: "trm-biglan-a-2"
-id: "TRM-ENG-46317"
+id: "TRM-ENG-60846"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Biglan, A., 2"

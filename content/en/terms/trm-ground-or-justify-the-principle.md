@@ -1,6 +1,6 @@
 ---
 slug: "trm-ground-or-justify-the-principle"
-id: "TRM-ENG-48089"
+id: "TRM-ENG-62618"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ground or justify the principle"

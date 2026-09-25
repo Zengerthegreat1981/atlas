@@ -1,6 +1,6 @@
 ---
 slug: "trm-bolingerded1972intonationbaltimore"
-id: "TRM-ENG-36630"
+id: "TRM-ENG-65688"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bolinger,D.(Ed.).(1972).Intonation.Baltimore"

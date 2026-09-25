@@ -1,6 +1,6 @@
 ---
 slug: "trm-political-and-economic-relations-alanen-mayall-any"
-id: "TRM-ENG-48559"
+id: "TRM-ENG-63088"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "political, and economic relations (Alanen & Mayall, any"

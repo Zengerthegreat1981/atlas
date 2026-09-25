@@ -1,6 +1,6 @@
 ---
 slug: "trm-nimh"
-id: "TRM-ENG-41814"
+id: "TRM-ENG-56343"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "NIMH"

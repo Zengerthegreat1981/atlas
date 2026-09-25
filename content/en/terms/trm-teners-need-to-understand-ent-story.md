@@ -1,6 +1,6 @@
 ---
 slug: "trm-teners-need-to-understand-ent-story"
-id: "TRM-ENG-45559"
+id: "TRM-ENG-60088"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tener’s need to understand. ent story"

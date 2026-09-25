@@ -1,6 +1,6 @@
 ---
 slug: "trm-weakland-john-1"
-id: "TRM-ENG-51164"
+id: "TRM-ENG-65693"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Weakland, John, 1"

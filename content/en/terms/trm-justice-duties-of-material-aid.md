@@ -1,6 +1,6 @@
 ---
 slug: "trm-justice-duties-of-material-aid"
-id: "TRM-ENG-37902"
+id: "TRM-ENG-52431"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "justice, duties of material aid"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-social-psychology-95-389392-doi"
-id: "TRM-ENG-35644"
+id: "TRM-ENG-50173"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and Social Psychology, 95, 389–392. doi"

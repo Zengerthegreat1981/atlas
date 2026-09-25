@@ -1,6 +1,6 @@
 ---
 slug: "trm-retarded-women"
-id: "TRM-ENG-47266"
+id: "TRM-ENG-61795"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "retarded women"

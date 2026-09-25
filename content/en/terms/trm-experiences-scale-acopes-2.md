@@ -1,6 +1,6 @@
 ---
 slug: "trm-experiences-scale-acopes-2"
-id: "TRM-ENG-38055"
+id: "TRM-ENG-67113"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Experiences Scale (A-COPES), 2"

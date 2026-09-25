@@ -1,6 +1,6 @@
 ---
 slug: "trm-marti-jose-1"
-id: "TRM-ENG-46964"
+id: "TRM-ENG-61493"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Marti, Jose, 1"

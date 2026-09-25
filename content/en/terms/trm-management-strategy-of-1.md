@@ -1,6 +1,6 @@
 ---
 slug: "trm-management-strategy-of-1"
-id: "TRM-ENG-48312"
+id: "TRM-ENG-62841"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "management strategy of, 1"

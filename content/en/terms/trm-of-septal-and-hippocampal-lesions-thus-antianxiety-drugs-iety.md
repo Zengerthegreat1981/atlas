@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-septal-and-hippocampal-lesions-thus-antianxiety-drugs-iety"
-id: "TRM-ENG-36787"
+id: "TRM-ENG-51316"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of septal and hippocampal lesions. Thus, antianxiety drugs iety"

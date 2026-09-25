@@ -1,6 +1,6 @@
 ---
 slug: "trm-torgersen-s-czajkowski-n-jacobson-k-et-al"
-id: "TRM-ENG-48127"
+id: "TRM-ENG-62656"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Torgersen S, Czajkowski N, Jacobson K, et al"

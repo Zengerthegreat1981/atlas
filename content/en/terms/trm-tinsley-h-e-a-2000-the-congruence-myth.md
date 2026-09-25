@@ -1,6 +1,6 @@
 ---
 slug: "trm-tinsley-h-e-a-2000-the-congruence-myth"
-id: "TRM-ENG-38930"
+id: "TRM-ENG-53459"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tinsley, H. E. A. (2000). The congruence myth"

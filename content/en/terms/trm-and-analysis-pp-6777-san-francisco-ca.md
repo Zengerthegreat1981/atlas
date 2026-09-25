@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-analysis-pp-6777-san-francisco-ca"
-id: "TRM-ENG-35648"
+id: "TRM-ENG-50177"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and analysis (pp. 67–77). San Francisco, CA"

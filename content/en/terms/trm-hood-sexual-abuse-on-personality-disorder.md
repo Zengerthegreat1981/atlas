@@ -1,6 +1,6 @@
 ---
 slug: "trm-hood-sexual-abuse-on-personality-disorder"
-id: "TRM-ENG-42866"
+id: "TRM-ENG-57395"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "hood sexual abuse on personality disorder"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychologyaarhus"
-id: "TRM-ENG-38157"
+id: "TRM-ENG-52686"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychology.Aarhus"

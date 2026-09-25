@@ -1,6 +1,6 @@
 ---
 slug: "trm-fechner-gt-1964-elemente-der-psychophysik-amsterdam"
-id: "TRM-ENG-35673"
+id: "TRM-ENG-64731"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fechner, G.T. (1964). Elemente der Psychophysik. Amsterdam"

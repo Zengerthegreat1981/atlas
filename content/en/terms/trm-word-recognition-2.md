@@ -1,6 +1,6 @@
 ---
 slug: "trm-word-recognition-2"
-id: "TRM-ENG-45700"
+id: "TRM-ENG-60229"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "word recognition, 2"

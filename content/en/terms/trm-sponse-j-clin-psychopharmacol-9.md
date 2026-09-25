@@ -1,6 +1,6 @@
 ---
 slug: "trm-sponse-j-clin-psychopharmacol-9"
-id: "TRM-ENG-48605"
+id: "TRM-ENG-63134"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sponse. J Clin Psychopharmacol 9"

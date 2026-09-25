@@ -1,6 +1,6 @@
 ---
 slug: "trm-narrative-view-life-story-model-of-3"
-id: "TRM-ENG-40928"
+id: "TRM-ENG-55457"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "narrative view, life story model of, 3"

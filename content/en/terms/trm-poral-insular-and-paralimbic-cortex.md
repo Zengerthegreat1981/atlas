@@ -1,6 +1,6 @@
 ---
 slug: "trm-poral-insular-and-paralimbic-cortex"
-id: "TRM-ENG-48536"
+id: "TRM-ENG-63065"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "poral, insular, and paralimbic cortex"

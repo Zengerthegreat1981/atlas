@@ -1,6 +1,6 @@
 ---
 slug: "trm-253-bassuk-el-birk-aw-eds"
-id: "TRM-ENG-38780"
+id: "TRM-ENG-53309"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "253. Bassuk EL, Birk AW (eds)"

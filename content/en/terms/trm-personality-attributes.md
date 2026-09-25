@@ -1,6 +1,6 @@
 ---
 slug: "trm-personality-attributes"
-id: "TRM-ENG-43124"
+id: "TRM-ENG-57653"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "personality attributes"

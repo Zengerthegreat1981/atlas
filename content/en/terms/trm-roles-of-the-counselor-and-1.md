@@ -1,6 +1,6 @@
 ---
 slug: "trm-roles-of-the-counselor-and-1"
-id: "TRM-ENG-41546"
+id: "TRM-ENG-56075"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "roles of the counselor and, 1"

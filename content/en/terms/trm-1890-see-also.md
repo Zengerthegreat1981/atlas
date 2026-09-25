@@ -1,6 +1,6 @@
 ---
 slug: "trm-1890-see-also"
-id: "TRM-ENG-35527"
+id: "TRM-ENG-50056"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1890). See also"

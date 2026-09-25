@@ -1,6 +1,6 @@
 ---
 slug: "trm-andsignalduration"
-id: "TRM-ENG-37536"
+id: "TRM-ENG-66594"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "andsignalduration"

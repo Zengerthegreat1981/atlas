@@ -1,6 +1,6 @@
 ---
 slug: "trm-sult-clin-psychol-75"
-id: "TRM-ENG-48621"
+id: "TRM-ENG-63150"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sult Clin Psychol 75"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-eral-rhetorical-questions"
-id: "TRM-ENG-47979"
+id: "TRM-ENG-62508"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "eral rhetorical questions"

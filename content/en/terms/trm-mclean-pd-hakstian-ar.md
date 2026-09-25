@@ -1,6 +1,6 @@
 ---
 slug: "trm-mclean-pd-hakstian-ar"
-id: "TRM-ENG-41654"
+id: "TRM-ENG-56183"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "McLean PD, Hakstian AR"

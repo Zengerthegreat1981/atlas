@@ -1,6 +1,6 @@
 ---
 slug: "trm-addict-16"
-id: "TRM-ENG-47450"
+id: "TRM-ENG-61979"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Addict 16"

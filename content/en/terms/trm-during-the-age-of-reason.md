@@ -1,6 +1,6 @@
 ---
 slug: "trm-during-the-age-of-reason"
-id: "TRM-ENG-45001"
+id: "TRM-ENG-59530"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "during the Age of Reason"

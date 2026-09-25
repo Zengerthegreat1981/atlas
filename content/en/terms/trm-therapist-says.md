@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapist-says"
-id: "TRM-ENG-45373"
+id: "TRM-ENG-59902"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapist says"

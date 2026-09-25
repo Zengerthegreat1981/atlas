@@ -1,6 +1,6 @@
 ---
 slug: "trm-selected-papers-of-milton-h-erickson-md-new-york"
-id: "TRM-ENG-45956"
+id: "TRM-ENG-60485"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Selected Papers of Milton H. Erickson, M.D. New York"

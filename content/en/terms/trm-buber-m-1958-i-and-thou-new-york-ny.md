@@ -1,6 +1,6 @@
 ---
 slug: "trm-buber-m-1958-i-and-thou-new-york-ny"
-id: "TRM-ENG-50195"
+id: "TRM-ENG-64724"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Buber, M. (1958). I and thou. New York, NY"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-chalmers-d-bourget-d-2009-p-hilpapers"
-id: "TRM-ENG-44373"
+id: "TRM-ENG-58902"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Chalmers, D., & Bourget, D. (2009). P hilPapers"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-zanarini-mc-frankenburg-fr-reich-db-et-al"
-id: "TRM-ENG-48160"
+id: "TRM-ENG-62689"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Zanarini MC, Frankenburg FR, Reich DB, et al"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-inner-child-therapy-and-1"
-id: "TRM-ENG-51544"
+id: "TRM-ENG-66073"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "inner child therapy and, 1"

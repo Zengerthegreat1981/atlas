@@ -1,6 +1,6 @@
 ---
 slug: "trm-groups-new-york-ny"
-id: "TRM-ENG-51497"
+id: "TRM-ENG-66026"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "groups. New York, NY"

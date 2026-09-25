@@ -1,6 +1,6 @@
 ---
 slug: "trm-bodily-harm-unconditioned-stimuli"
-id: "TRM-ENG-44973"
+id: "TRM-ENG-59502"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bodily harm (unconditioned stimuli"

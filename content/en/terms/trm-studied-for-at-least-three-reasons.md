@@ -1,6 +1,6 @@
 ---
 slug: "trm-studied-for-at-least-three-reasons"
-id: "TRM-ENG-48771"
+id: "TRM-ENG-63300"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "studied for at least three reasons"

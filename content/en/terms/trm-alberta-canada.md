@@ -1,6 +1,6 @@
 ---
 slug: "trm-alberta-canada"
-id: "TRM-ENG-50094"
+id: "TRM-ENG-64623"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Alberta, Canada"

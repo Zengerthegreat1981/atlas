@@ -1,6 +1,6 @@
 ---
 slug: "trm-mental-causation-2"
-id: "TRM-ENG-45294"
+id: "TRM-ENG-59823"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mental causation, 2"

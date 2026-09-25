@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-individual-experience"
-id: "TRM-ENG-45581"
+id: "TRM-ENG-60110"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the individual experience"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-johnson-d"
-id: "TRM-ENG-41135"
+id: "TRM-ENG-55664"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Johnson D"

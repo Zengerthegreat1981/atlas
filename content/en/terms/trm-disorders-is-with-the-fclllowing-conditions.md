@@ -1,6 +1,6 @@
 ---
 slug: "trm-disorders-is-with-the-fclllowing-conditions"
-id: "TRM-ENG-34983"
+id: "TRM-ENG-64041"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disorders is with the fclllowing conditions"

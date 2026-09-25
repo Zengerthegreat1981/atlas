@@ -1,6 +1,6 @@
 ---
 slug: "trm-reason-and-gender-1"
-id: "TRM-ENG-48626"
+id: "TRM-ENG-63155"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reason and gender, 1"

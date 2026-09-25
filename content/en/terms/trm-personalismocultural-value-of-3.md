@@ -1,6 +1,6 @@
 ---
 slug: "trm-personalismocultural-value-of-3"
-id: "TRM-ENG-41148"
+id: "TRM-ENG-55677"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "personalismocultural value of, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-judd-c-1907-psychology"
-id: "TRM-ENG-52516"
+id: "TRM-ENG-67045"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Judd, C. (1907). Psychology"

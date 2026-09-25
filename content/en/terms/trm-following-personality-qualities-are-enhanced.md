@@ -1,6 +1,6 @@
 ---
 slug: "trm-following-personality-qualities-are-enhanced"
-id: "TRM-ENG-40225"
+id: "TRM-ENG-54754"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "following personality qualities are enhanced"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-tbs2"
-id: "TRM-ENG-38860"
+id: "TRM-ENG-53389"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "TBS-2"

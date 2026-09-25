@@ -1,6 +1,6 @@
 ---
 slug: "trm-asapotentialcauseofcervicalcancer"
-id: "TRM-ENG-46838"
+id: "TRM-ENG-61367"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "asapotentialcauseofcervicalcancer"

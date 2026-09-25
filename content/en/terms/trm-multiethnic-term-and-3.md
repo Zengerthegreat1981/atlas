@@ -1,6 +1,6 @@
 ---
 slug: "trm-multiethnic-term-and-3"
-id: "TRM-ENG-40907"
+id: "TRM-ENG-55436"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "multiethnic term and, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ion-impermeable-form-of-glur2-becomes-increasingly-source"
-id: "TRM-ENG-36591"
+id: "TRM-ENG-65649"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ion impermeable) form of GluR2 becomes increasingly Source"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-processing-speed"
-id: "TRM-ENG-38630"
+id: "TRM-ENG-53159"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Processing Speed"

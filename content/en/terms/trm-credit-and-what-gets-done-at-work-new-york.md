@@ -1,6 +1,6 @@
 ---
 slug: "trm-credit-and-what-gets-done-at-work-new-york"
-id: "TRM-ENG-45789"
+id: "TRM-ENG-60318"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Credit and What Gets Done at Work (New York"

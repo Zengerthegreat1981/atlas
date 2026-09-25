@@ -1,6 +1,6 @@
 ---
 slug: "trm-eigenvalue-symbol"
-id: "TRM-ENG-44053"
+id: "TRM-ENG-58582"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "eigenvalue (symbol"

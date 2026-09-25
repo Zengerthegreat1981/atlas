@@ -1,6 +1,6 @@
 ---
 slug: "trm-this-competition"
-id: "TRM-ENG-48895"
+id: "TRM-ENG-63424"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "this competition"

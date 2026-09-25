@@ -1,6 +1,6 @@
 ---
 slug: "trm-naming-of-dentistrelated-words"
-id: "TRM-ENG-47137"
+id: "TRM-ENG-61666"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "naming of dentist-related words"

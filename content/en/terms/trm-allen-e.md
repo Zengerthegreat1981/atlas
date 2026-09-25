@@ -1,6 +1,6 @@
 ---
 slug: "trm-allen-e"
-id: "TRM-ENG-37571"
+id: "TRM-ENG-52100"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Allen E."

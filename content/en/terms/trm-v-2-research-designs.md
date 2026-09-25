@@ -1,6 +1,6 @@
 ---
 slug: "trm-v-2-research-designs"
-id: "TRM-ENG-36236"
+id: "TRM-ENG-65294"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "v. 2. Research designs"

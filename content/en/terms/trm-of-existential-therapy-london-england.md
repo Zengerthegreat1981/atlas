@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-existential-therapy-london-england"
-id: "TRM-ENG-51643"
+id: "TRM-ENG-66172"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of existential therapy. London, England"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-brocas-aphasia-1"
-id: "TRM-ENG-44345"
+id: "TRM-ENG-58874"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Broca’s aphasia, 1"

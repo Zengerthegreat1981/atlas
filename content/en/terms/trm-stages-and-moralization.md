@@ -1,6 +1,6 @@
 ---
 slug: "trm-stages-and-moralization"
-id: "TRM-ENG-38269"
+id: "TRM-ENG-52798"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stages and moralization"

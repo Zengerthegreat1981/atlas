@@ -1,6 +1,6 @@
 ---
 slug: "trm-discipline-and-c6"
-id: "TRM-ENG-43665"
+id: "TRM-ENG-58194"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "discipline, and C6"

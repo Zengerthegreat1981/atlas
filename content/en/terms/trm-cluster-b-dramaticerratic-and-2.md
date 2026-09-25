@@ -1,6 +1,6 @@
 ---
 slug: "trm-cluster-b-dramaticerratic-and-2"
-id: "TRM-ENG-39542"
+id: "TRM-ENG-54071"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cluster B (dramatic-erratic) and, 2"

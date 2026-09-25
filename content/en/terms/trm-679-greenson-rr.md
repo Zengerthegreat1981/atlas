@@ -1,6 +1,6 @@
 ---
 slug: "trm-679-greenson-rr"
-id: "TRM-ENG-39309"
+id: "TRM-ENG-53838"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "679. Greenson RR"

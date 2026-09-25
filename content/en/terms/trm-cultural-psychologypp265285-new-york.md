@@ -1,6 +1,6 @@
 ---
 slug: "trm-cultural-psychologypp265285-new-york"
-id: "TRM-ENG-36330"
+id: "TRM-ENG-65388"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cultural psychology(pp.265–285). New York"

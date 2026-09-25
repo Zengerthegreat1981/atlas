@@ -1,6 +1,6 @@
 ---
 slug: "trm-clinical-approach-new-york"
-id: "TRM-ENG-42734"
+id: "TRM-ENG-57263"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "clinical approach. New York"

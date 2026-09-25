@@ -1,6 +1,6 @@
 ---
 slug: "trm-2003-maturation-of-spatial-navigation-strategies"
-id: "TRM-ENG-44249"
+id: "TRM-ENG-58778"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2003). Maturation of spatial navigation strategies"

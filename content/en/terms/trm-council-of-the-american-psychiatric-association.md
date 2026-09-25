@@ -1,6 +1,6 @@
 ---
 slug: "trm-council-of-the-american-psychiatric-association"
-id: "TRM-ENG-40249"
+id: "TRM-ENG-54778"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Council of the American Psychiatric Association"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-spitzer-c-willert-c-grabe-hj-et-al"
-id: "TRM-ENG-48101"
+id: "TRM-ENG-62630"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spitzer C, Willert C, Grabe HJ, et al"

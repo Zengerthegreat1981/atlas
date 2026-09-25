@@ -1,6 +1,6 @@
 ---
 slug: "trm-relational-group-psychotherapy-2"
-id: "TRM-ENG-50949"
+id: "TRM-ENG-65478"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Relational group psychotherapy, 2"

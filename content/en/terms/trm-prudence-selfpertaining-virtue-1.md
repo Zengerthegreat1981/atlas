@@ -1,6 +1,6 @@
 ---
 slug: "trm-prudence-selfpertaining-virtue-1"
-id: "TRM-ENG-38633"
+id: "TRM-ENG-53162"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Prudence self-pertaining virtue, 1"

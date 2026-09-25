@@ -1,6 +1,6 @@
 ---
 slug: "trm-ecology-of-human-development-washington-dc"
-id: "TRM-ENG-51417"
+id: "TRM-ENG-65946"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ecology of human development. Washington, DC"

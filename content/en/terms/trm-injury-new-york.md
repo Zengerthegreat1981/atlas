@@ -1,6 +1,6 @@
 ---
 slug: "trm-injury-new-york"
-id: "TRM-ENG-45846"
+id: "TRM-ENG-60375"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Injury. New York"

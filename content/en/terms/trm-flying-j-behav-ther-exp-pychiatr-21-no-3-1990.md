@@ -1,6 +1,6 @@
 ---
 slug: "trm-flying-j-behav-ther-exp-pychiatr-21-no-3-1990"
-id: "TRM-ENG-45815"
+id: "TRM-ENG-60344"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Flying,” J. Behav. Ther & Exp. Pychiatr 21, no. 3 (1990)"

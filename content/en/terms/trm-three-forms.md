@@ -1,6 +1,6 @@
 ---
 slug: "trm-three-forms"
-id: "TRM-ENG-41956"
+id: "TRM-ENG-56485"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "three forms"

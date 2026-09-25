@@ -1,6 +1,6 @@
 ---
 slug: "trm-denial-and-1"
-id: "TRM-ENG-39891"
+id: "TRM-ENG-54420"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "denial and, 1"

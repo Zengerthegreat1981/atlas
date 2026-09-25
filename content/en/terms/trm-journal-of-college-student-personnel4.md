@@ -1,6 +1,6 @@
 ---
 slug: "trm-journal-of-college-student-personnel4"
-id: "TRM-ENG-38302"
+id: "TRM-ENG-52831"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Journal of College Student Personnel,4"

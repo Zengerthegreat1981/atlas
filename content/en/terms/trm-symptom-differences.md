@@ -1,6 +1,6 @@
 ---
 slug: "trm-symptom-differences"
-id: "TRM-ENG-35063"
+id: "TRM-ENG-64121"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "symptom differences"

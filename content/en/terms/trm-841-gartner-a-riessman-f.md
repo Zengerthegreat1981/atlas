@@ -1,6 +1,6 @@
 ---
 slug: "trm-841-gartner-a-riessman-f"
-id: "TRM-ENG-39503"
+id: "TRM-ENG-54032"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "841. Gartner A, Riessman F"

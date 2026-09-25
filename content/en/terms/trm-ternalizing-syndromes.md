@@ -1,6 +1,6 @@
 ---
 slug: "trm-ternalizing-syndromes"
-id: "TRM-ENG-43291"
+id: "TRM-ENG-57820"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ternalizing syndromes"

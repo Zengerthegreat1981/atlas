@@ -1,6 +1,6 @@
 ---
 slug: "trm-racial-oppression-and-3"
-id: "TRM-ENG-41412"
+id: "TRM-ENG-55941"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "racial oppression and, 3"

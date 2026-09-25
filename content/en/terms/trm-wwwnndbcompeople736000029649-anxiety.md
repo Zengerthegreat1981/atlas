@@ -1,6 +1,6 @@
 ---
 slug: "trm-wwwnndbcompeople736000029649-anxiety"
-id: "TRM-ENG-51980"
+id: "TRM-ENG-66509"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "www.nndb.com/people/736/000029649/ anxiety"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ulanov-a-b-1982-transferencecountertransference"
-id: "TRM-ENG-51130"
+id: "TRM-ENG-65659"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ulanov, A. B. (1982). Transference/countertransference"

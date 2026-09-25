@@ -1,6 +1,6 @@
 ---
 slug: "trm-mooretv1939cognitivepsychologychicago"
-id: "TRM-ENG-37090"
+id: "TRM-ENG-66148"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Moore,T.V.(1939).Cognitivepsychology.Chicago"

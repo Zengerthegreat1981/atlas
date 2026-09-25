@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-mixed-methods-research"
-id: "TRM-ENG-48194"
+id: "TRM-ENG-62723"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing mixed methods research"

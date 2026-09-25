@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-high-intelligence"
-id: "TRM-ENG-45184"
+id: "TRM-ENG-59713"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of high intelligence"

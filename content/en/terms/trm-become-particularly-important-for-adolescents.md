@@ -1,6 +1,6 @@
 ---
 slug: "trm-become-particularly-important-for-adolescents"
-id: "TRM-ENG-47687"
+id: "TRM-ENG-62216"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "become particularly important for adolescents"

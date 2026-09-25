@@ -1,6 +1,6 @@
 ---
 slug: "trm-variation-factors-in-4"
-id: "TRM-ENG-42112"
+id: "TRM-ENG-56641"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "variation factors in, 4"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-defining-characteristics-of-4"
-id: "TRM-ENG-39872"
+id: "TRM-ENG-54401"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "defining characteristics of, 4"

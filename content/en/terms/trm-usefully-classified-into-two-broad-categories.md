@@ -1,6 +1,6 @@
 ---
 slug: "trm-usefully-classified-into-two-broad-categories"
-id: "TRM-ENG-49816"
+id: "TRM-ENG-64345"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "usefully classified into two broad categories"

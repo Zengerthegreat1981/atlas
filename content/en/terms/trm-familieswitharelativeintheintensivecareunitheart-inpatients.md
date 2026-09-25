@@ -1,6 +1,6 @@
 ---
 slug: "trm-familieswitharelativeintheintensivecareunitheart-inpatients"
-id: "TRM-ENG-46978"
+id: "TRM-ENG-61507"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "familieswitharelativeintheintensivecareunit.Heart in-patients"

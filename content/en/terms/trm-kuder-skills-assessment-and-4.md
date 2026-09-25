@@ -1,6 +1,6 @@
 ---
 slug: "trm-kuder-skills-assessment-and-4"
-id: "TRM-ENG-38345"
+id: "TRM-ENG-52874"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kuder Skills Assessment and, 4"

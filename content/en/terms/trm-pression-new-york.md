@@ -1,6 +1,6 @@
 ---
 slug: "trm-pression-new-york"
-id: "TRM-ENG-35256"
+id: "TRM-ENG-64314"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pression. New York"

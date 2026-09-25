@@ -1,6 +1,6 @@
 ---
 slug: "trm-from-videotaped-clinical-interviews"
-id: "TRM-ENG-42850"
+id: "TRM-ENG-57379"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "from videotaped clinical interviews"

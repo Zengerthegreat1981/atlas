@@ -1,6 +1,6 @@
 ---
 slug: "trm-shullman-sandy-1"
-id: "TRM-ENG-38769"
+id: "TRM-ENG-53298"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shullman, Sandy, 1"

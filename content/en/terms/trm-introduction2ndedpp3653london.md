@@ -1,6 +1,6 @@
 ---
 slug: "trm-introduction2ndedpp3653london"
-id: "TRM-ENG-37884"
+id: "TRM-ENG-66942"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "introduction(2nded.,pp.36–53).London"

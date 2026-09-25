@@ -1,6 +1,6 @@
 ---
 slug: "trm-democratic-theory-of-education-1"
-id: "TRM-ENG-47873"
+id: "TRM-ENG-62402"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "democratic theory of education, 1"

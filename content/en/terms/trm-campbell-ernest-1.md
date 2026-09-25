@@ -1,6 +1,6 @@
 ---
 slug: "trm-campbell-ernest-1"
-id: "TRM-ENG-46367"
+id: "TRM-ENG-60896"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Campbell, Ernest, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-interaction-therapynew-york"
-id: "TRM-ENG-40587"
+id: "TRM-ENG-55116"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "interaction therapy.New York"

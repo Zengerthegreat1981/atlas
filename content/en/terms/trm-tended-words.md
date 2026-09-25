@@ -1,6 +1,6 @@
 ---
 slug: "trm-tended-words"
-id: "TRM-ENG-37075"
+id: "TRM-ENG-51604"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tended words"

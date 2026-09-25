@@ -1,6 +1,6 @@
 ---
 slug: "trm-obsessive-compulsive-disorder"
-id: "TRM-ENG-49565"
+id: "TRM-ENG-64094"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "obsessive compulsive disorder"

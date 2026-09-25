@@ -1,6 +1,6 @@
 ---
 slug: "trm-2-blurring-of-vision"
-id: "TRM-ENG-38693"
+id: "TRM-ENG-53222"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "2. Blurring of vision"

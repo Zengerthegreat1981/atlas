@@ -1,6 +1,6 @@
 ---
 slug: "trm-edthepsychologyoflearningandmotivation"
-id: "TRM-ENG-36418"
+id: "TRM-ENG-65476"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Ed.),Thepsychologyoflearningandmotivation"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-counselling-in-a-general-practice-setting"
-id: "TRM-ENG-46481"
+id: "TRM-ENG-61010"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Counselling in a general practice setting"

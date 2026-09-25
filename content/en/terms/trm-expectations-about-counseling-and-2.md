@@ -1,6 +1,6 @@
 ---
 slug: "trm-expectations-about-counseling-and-2"
-id: "TRM-ENG-40137"
+id: "TRM-ENG-54666"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "expectations about counseling and, 2"

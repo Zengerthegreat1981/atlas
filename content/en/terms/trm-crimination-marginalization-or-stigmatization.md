@@ -1,6 +1,6 @@
 ---
 slug: "trm-crimination-marginalization-or-stigmatization"
-id: "TRM-ENG-47836"
+id: "TRM-ENG-62365"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "crimination, marginalization, or stigmatization"

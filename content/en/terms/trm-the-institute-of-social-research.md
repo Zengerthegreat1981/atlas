@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-institute-of-social-research"
-id: "TRM-ENG-37346"
+id: "TRM-ENG-51875"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The Institute of Social Research"

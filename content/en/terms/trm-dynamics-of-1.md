@@ -1,6 +1,6 @@
 ---
 slug: "trm-dynamics-of-1"
-id: "TRM-ENG-39983"
+id: "TRM-ENG-54512"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dynamics of, 1"

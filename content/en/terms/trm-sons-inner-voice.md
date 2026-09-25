@@ -1,6 +1,6 @@
 ---
 slug: "trm-sons-inner-voice"
-id: "TRM-ENG-43872"
+id: "TRM-ENG-58401"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "son’s inner voice"

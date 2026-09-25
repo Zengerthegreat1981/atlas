@@ -1,6 +1,6 @@
 ---
 slug: "trm-enhance-excitation"
-id: "TRM-ENG-35658"
+id: "TRM-ENG-64716"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Enhance excitation"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-bornstein-r-f-2005-the-dependent-patient"
-id: "TRM-ENG-43394"
+id: "TRM-ENG-57923"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bornstein, R. F. (2005). The dependent patient"

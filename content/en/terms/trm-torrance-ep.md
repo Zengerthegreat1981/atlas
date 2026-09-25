@@ -1,6 +1,6 @@
 ---
 slug: "trm-torrance-ep"
-id: "TRM-ENG-42610"
+id: "TRM-ENG-57139"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Torrance EP"

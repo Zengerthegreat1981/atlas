@@ -1,6 +1,6 @@
 ---
 slug: "trm-asking-coping-questions-and-2"
-id: "TRM-ENG-39260"
+id: "TRM-ENG-53789"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "asking coping questions and, 2"

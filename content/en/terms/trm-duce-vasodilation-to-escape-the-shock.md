@@ -1,6 +1,6 @@
 ---
 slug: "trm-duce-vasodilation-to-escape-the-shock"
-id: "TRM-ENG-36383"
+id: "TRM-ENG-65441"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "duce vasodilation to escape the shock"

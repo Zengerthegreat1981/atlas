@@ -1,6 +1,6 @@
 ---
 slug: "trm-calderone-ms-johnson-ew"
-id: "TRM-ENG-40096"
+id: "TRM-ENG-54625"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Calderone MS & Johnson EW"

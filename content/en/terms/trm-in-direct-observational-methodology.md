@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-direct-observational-methodology"
-id: "TRM-ENG-47034"
+id: "TRM-ENG-61563"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in direct observational methodology"

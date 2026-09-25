@@ -1,6 +1,6 @@
 ---
 slug: "trm-once"
-id: "TRM-ENG-45195"
+id: "TRM-ENG-59724"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "once"

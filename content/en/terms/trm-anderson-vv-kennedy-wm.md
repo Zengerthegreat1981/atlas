@@ -1,6 +1,6 @@
 ---
 slug: "trm-anderson-vv-kennedy-wm"
-id: "TRM-ENG-39695"
+id: "TRM-ENG-54224"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Anderson VV, Kennedy WM"

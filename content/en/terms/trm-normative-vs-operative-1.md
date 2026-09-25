@@ -1,6 +1,6 @@
 ---
 slug: "trm-normative-vs-operative-1"
-id: "TRM-ENG-45337"
+id: "TRM-ENG-59866"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "normative vs. operative, 1"

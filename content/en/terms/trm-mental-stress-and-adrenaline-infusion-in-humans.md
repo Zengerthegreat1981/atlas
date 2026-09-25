@@ -1,6 +1,6 @@
 ---
 slug: "trm-mental-stress-and-adrenaline-infusion-in-humans"
-id: "TRM-ENG-47122"
+id: "TRM-ENG-61651"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mental stress and adrenaline infusion in humans"

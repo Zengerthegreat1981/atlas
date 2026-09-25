@@ -1,6 +1,6 @@
 ---
 slug: "trm-counselors-should-look-for-personal-qualities-in-the-slope"
-id: "TRM-ENG-39769"
+id: "TRM-ENG-54298"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "counselors should look for personal qualities in the slope"

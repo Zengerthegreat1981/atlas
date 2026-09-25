@@ -1,6 +1,6 @@
 ---
 slug: "trm-wollstonecraft-2"
-id: "TRM-ENG-47506"
+id: "TRM-ENG-62035"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wollstonecraft, 2"

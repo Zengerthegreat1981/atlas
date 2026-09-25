@@ -1,6 +1,6 @@
 ---
 slug: "trm-glass-self"
-id: "TRM-ENG-36328"
+id: "TRM-ENG-65386"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "glass self"

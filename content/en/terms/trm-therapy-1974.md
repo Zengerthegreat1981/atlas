@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapy-1974"
-id: "TRM-ENG-42578"
+id: "TRM-ENG-57107"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Therapy 1974"

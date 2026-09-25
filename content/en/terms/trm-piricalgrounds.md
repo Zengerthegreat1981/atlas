@@ -1,6 +1,6 @@
 ---
 slug: "trm-piricalgrounds"
-id: "TRM-ENG-43802"
+id: "TRM-ENG-58331"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "piricalgrounds"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-eclectic-approach-to-2"
-id: "TRM-ENG-39996"
+id: "TRM-ENG-54525"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "eclectic approach to, 2"

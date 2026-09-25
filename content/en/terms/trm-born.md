@@ -1,6 +1,6 @@
 ---
 slug: "trm-born"
-id: "TRM-ENG-36635"
+id: "TRM-ENG-51164"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Born"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-gendlin-et-1996-focusingoriented-psychotherapy"
-id: "TRM-ENG-35702"
+id: "TRM-ENG-50231"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gendlin, E.T. (1996). Focusing-oriented psychotherapy"

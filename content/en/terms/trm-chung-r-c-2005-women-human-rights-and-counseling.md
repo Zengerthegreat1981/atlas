@@ -1,6 +1,6 @@
 ---
 slug: "trm-chung-r-c-2005-women-human-rights-and-counseling"
-id: "TRM-ENG-37822"
+id: "TRM-ENG-66880"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Chung, R. C. (2005). Women, human rights, and counseling"

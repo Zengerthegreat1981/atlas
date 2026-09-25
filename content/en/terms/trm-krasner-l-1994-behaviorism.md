@@ -1,6 +1,6 @@
 ---
 slug: "trm-krasner-l-1994-behaviorism"
-id: "TRM-ENG-52518"
+id: "TRM-ENG-67047"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Krasner, L. (1994). Behaviorism"

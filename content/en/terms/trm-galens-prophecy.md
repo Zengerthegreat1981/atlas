@@ -1,6 +1,6 @@
 ---
 slug: "trm-galens-prophecy"
-id: "TRM-ENG-38493"
+id: "TRM-ENG-53022"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "● Galen’s prophecy"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-2001-personality-diagnostic-questionnaire"
-id: "TRM-ENG-43299"
+id: "TRM-ENG-57828"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "2001), Personality Diagnostic Questionnaire"

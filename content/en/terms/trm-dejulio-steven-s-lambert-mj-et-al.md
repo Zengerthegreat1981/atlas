@@ -1,6 +1,6 @@
 ---
 slug: "trm-dejulio-steven-s-lambert-mj-et-al"
-id: "TRM-ENG-40316"
+id: "TRM-ENG-54845"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "DeJulio, Steven S, Lambert MJ, et al"

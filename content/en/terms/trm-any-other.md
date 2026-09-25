@@ -1,6 +1,6 @@
 ---
 slug: "trm-any-other"
-id: "TRM-ENG-44026"
+id: "TRM-ENG-58555"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "any other,"

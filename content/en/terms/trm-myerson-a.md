@@ -1,6 +1,6 @@
 ---
 slug: "trm-myerson-a"
-id: "TRM-ENG-41810"
+id: "TRM-ENG-56339"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Myerson A"

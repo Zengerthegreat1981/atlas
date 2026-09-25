@@ -1,6 +1,6 @@
 ---
 slug: "trm-strong-interest-inventory"
-id: "TRM-ENG-38826"
+id: "TRM-ENG-53355"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Strong Interest Inventory"

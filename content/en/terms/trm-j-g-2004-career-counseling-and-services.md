@@ -1,6 +1,6 @@
 ---
 slug: "trm-j-g-2004-career-counseling-and-services"
-id: "TRM-ENG-38270"
+id: "TRM-ENG-52799"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "J. G. (2004). Career counseling and services"

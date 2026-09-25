@@ -1,6 +1,6 @@
 ---
 slug: "trm-selfasprocess-1"
-id: "TRM-ENG-51010"
+id: "TRM-ENG-65539"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Self-as-process, 1"

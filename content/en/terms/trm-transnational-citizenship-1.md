@@ -1,6 +1,6 @@
 ---
 slug: "trm-transnational-citizenship-1"
-id: "TRM-ENG-47416"
+id: "TRM-ENG-61945"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Transnational citizenship, 1"

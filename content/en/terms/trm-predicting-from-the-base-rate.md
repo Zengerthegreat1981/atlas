@@ -1,6 +1,6 @@
 ---
 slug: "trm-predicting-from-the-base-rate"
-id: "TRM-ENG-35488"
+id: "TRM-ENG-50017"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Predicting from the base rate"

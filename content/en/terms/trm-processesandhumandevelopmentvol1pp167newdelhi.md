@@ -1,6 +1,6 @@
 ---
 slug: "trm-processesandhumandevelopmentvol1pp167newdelhi"
-id: "TRM-ENG-38127"
+id: "TRM-ENG-52656"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "processesandhumandevelopment,Vol.1,pp.1–67).NewDelhi"

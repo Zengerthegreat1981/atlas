@@ -1,6 +1,6 @@
 ---
 slug: "trm-seeking-and-positive-affectivity-to-e6"
-id: "TRM-ENG-43555"
+id: "TRM-ENG-58084"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Seeking; and Positive Affectivity to E6"

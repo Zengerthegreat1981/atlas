@@ -1,6 +1,6 @@
 ---
 slug: "trm-positive-psychology-2"
-id: "TRM-ENG-51695"
+id: "TRM-ENG-66224"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "positive psychology, 2"

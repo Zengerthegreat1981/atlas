@@ -1,6 +1,6 @@
 ---
 slug: "trm-stepstoanecologyofmindpp201227chicago"
-id: "TRM-ENG-37321"
+id: "TRM-ENG-66379"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stepstoanecologyofmind(pp.201–227).Chicago"

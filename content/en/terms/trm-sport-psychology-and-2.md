@@ -1,6 +1,6 @@
 ---
 slug: "trm-sport-psychology-and-2"
-id: "TRM-ENG-41749"
+id: "TRM-ENG-56278"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sport psychology and, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-triandis-h-1972-the-analysis-of-subjective-culturenew-york"
-id: "TRM-ENG-36030"
+id: "TRM-ENG-65088"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Triandis, H. (1972). The analysis of subjective culture.New York"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-koenig-h-g-2005-f-aith-and-mental-health"
-id: "TRM-ENG-44573"
+id: "TRM-ENG-59102"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Koenig, H. G. (2005). F aith and mental health"

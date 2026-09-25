@@ -1,6 +1,6 @@
 ---
 slug: "trm-speaking-and-writing-doctors-may-also-ask-patients-cid"
-id: "TRM-ENG-46222"
+id: "TRM-ENG-60751"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "speaking and writing. Doctors may also ask patients (cid"

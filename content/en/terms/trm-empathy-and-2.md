@@ -1,6 +1,6 @@
 ---
 slug: "trm-empathy-and-2"
-id: "TRM-ENG-40039"
+id: "TRM-ENG-54568"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "empathy and, 2"

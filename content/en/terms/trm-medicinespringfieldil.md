@@ -1,6 +1,6 @@
 ---
 slug: "trm-medicinespringfieldil"
-id: "TRM-ENG-47107"
+id: "TRM-ENG-61636"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "medicine.Springfield,IL"

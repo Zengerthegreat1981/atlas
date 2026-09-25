@@ -1,6 +1,6 @@
 ---
 slug: "trm-ethical-and-legal-issues-of-1"
-id: "TRM-ENG-40080"
+id: "TRM-ENG-54609"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ethical and legal issues of, 1"

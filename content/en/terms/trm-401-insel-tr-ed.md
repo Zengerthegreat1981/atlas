@@ -1,6 +1,6 @@
 ---
 slug: "trm-401-insel-tr-ed"
-id: "TRM-ENG-38988"
+id: "TRM-ENG-53517"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "401. Insel TR (ed)"

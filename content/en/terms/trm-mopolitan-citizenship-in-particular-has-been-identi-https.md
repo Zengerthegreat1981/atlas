@@ -1,6 +1,6 @@
 ---
 slug: "trm-mopolitan-citizenship-in-particular-has-been-identi-https"
-id: "TRM-ENG-48367"
+id: "TRM-ENG-62896"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mopolitan citizenship, in particular, has been identi- https"

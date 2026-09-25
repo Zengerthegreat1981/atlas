@@ -1,6 +1,6 @@
 ---
 slug: "trm-that-in-turn-project-widely-throughout-the-brain"
-id: "TRM-ENG-37101"
+id: "TRM-ENG-66159"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "that in turn project widely throughout the brain"

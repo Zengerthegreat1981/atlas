@@ -1,6 +1,6 @@
 ---
 slug: "trm-applications-of-parent-training-in-1"
-id: "TRM-ENG-39234"
+id: "TRM-ENG-53763"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "applications of parent training in, 1"

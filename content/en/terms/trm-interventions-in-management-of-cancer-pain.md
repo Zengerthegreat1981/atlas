@@ -1,6 +1,6 @@
 ---
 slug: "trm-interventions-in-management-of-cancer-pain"
-id: "TRM-ENG-47068"
+id: "TRM-ENG-61597"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "interventions in management of cancer pain"

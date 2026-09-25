@@ -1,6 +1,6 @@
 ---
 slug: "trm-2006-beyond-mindreading"
-id: "TRM-ENG-35140"
+id: "TRM-ENG-49669"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2006). Beyond mind-reading"

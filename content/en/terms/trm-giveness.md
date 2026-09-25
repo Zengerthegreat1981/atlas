@@ -1,6 +1,6 @@
 ---
 slug: "trm-giveness"
-id: "TRM-ENG-40309"
+id: "TRM-ENG-54838"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "giveness"

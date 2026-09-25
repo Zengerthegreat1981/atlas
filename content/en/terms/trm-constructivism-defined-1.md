@@ -1,6 +1,6 @@
 ---
 slug: "trm-constructivism-defined-1"
-id: "TRM-ENG-51364"
+id: "TRM-ENG-65893"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "constructivism, defined, 1"

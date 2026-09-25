@@ -1,6 +1,6 @@
 ---
 slug: "trm-ciple-of-learning-on-a-neural-basis"
-id: "TRM-ENG-47764"
+id: "TRM-ENG-62293"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ciple of learning on a neural basis"

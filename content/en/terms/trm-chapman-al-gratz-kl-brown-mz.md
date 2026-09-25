@@ -1,6 +1,6 @@
 ---
 slug: "trm-chapman-al-gratz-kl-brown-mz"
-id: "TRM-ENG-47543"
+id: "TRM-ENG-62072"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Chapman AL, Gratz KL, Brown MZ"

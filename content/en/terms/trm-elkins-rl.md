@@ -1,6 +1,6 @@
 ---
 slug: "trm-elkins-rl"
-id: "TRM-ENG-40432"
+id: "TRM-ENG-54961"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Elkins RL"

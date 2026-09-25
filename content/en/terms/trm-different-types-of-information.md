@@ -1,6 +1,6 @@
 ---
 slug: "trm-different-types-of-information"
-id: "TRM-ENG-36362"
+id: "TRM-ENG-65420"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "different types of information"

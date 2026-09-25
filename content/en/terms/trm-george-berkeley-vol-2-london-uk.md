@@ -1,6 +1,6 @@
 ---
 slug: "trm-george-berkeley-vol-2-london-uk"
-id: "TRM-ENG-44505"
+id: "TRM-ENG-59034"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "George Berkeley (Vol. 2). London, UK"

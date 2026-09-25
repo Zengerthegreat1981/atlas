@@ -1,6 +1,6 @@
 ---
 slug: "trm-guerney-bg-jr-ed"
-id: "TRM-ENG-40851"
+id: "TRM-ENG-55380"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Guerney BG, Jr (ed)"

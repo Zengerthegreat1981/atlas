@@ -1,6 +1,6 @@
 ---
 slug: "trm-underlying-persuasion"
-id: "TRM-ENG-45666"
+id: "TRM-ENG-60195"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "underlying persuasion"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-p1773-washington-dc"
-id: "TRM-ENG-35503"
+id: "TRM-ENG-64561"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(p.1773). Washington, DC"

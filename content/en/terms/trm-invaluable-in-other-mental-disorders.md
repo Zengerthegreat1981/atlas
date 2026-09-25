@@ -1,6 +1,6 @@
 ---
 slug: "trm-invaluable-in-other-mental-disorders"
-id: "TRM-ENG-42928"
+id: "TRM-ENG-57457"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "invaluable in other mental disorders"

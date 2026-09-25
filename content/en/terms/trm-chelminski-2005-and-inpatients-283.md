@@ -1,6 +1,6 @@
 ---
 slug: "trm-chelminski-2005-and-inpatients-283"
-id: "TRM-ENG-42224"
+id: "TRM-ENG-56753"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "& Chelminski, 2005) and inpatients (28.3%"

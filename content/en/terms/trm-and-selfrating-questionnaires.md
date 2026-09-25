@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-selfrating-questionnaires"
-id: "TRM-ENG-52546"
+id: "TRM-ENG-67075"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and self-rating questionnaires"

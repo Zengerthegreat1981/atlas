@@ -1,6 +1,6 @@
 ---
 slug: "trm-down-further-into-four-factors"
-id: "TRM-ENG-42787"
+id: "TRM-ENG-57316"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "down further into four factors"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-consulting-with-other-professionals-who-have"
-id: "TRM-ENG-46255"
+id: "TRM-ENG-60784"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to consulting with other professionals who have"

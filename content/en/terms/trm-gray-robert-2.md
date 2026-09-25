@@ -1,6 +1,6 @@
 ---
 slug: "trm-gray-robert-2"
-id: "TRM-ENG-46709"
+id: "TRM-ENG-61238"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gray, Robert, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-margolis-e-laurence-s-eds-1999-concepts"
-id: "TRM-ENG-44602"
+id: "TRM-ENG-59131"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Margolis, E., & Laurence, S. (Eds.). (1999). Concepts"

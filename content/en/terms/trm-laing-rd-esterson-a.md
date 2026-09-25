@@ -1,6 +1,6 @@
 ---
 slug: "trm-laing-rd-esterson-a"
-id: "TRM-ENG-41347"
+id: "TRM-ENG-55876"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Laing RD, Esterson A"

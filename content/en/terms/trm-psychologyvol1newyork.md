@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychologyvol1newyork"
-id: "TRM-ENG-47236"
+id: "TRM-ENG-61765"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychology(Vol.1).NewYork"

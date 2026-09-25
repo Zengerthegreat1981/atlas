@@ -1,6 +1,6 @@
 ---
 slug: "trm-zilles-k-2010-brocas-region"
-id: "TRM-ENG-34721"
+id: "TRM-ENG-63779"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Zilles, K. (2010). Broca’s region"

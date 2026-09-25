@@ -1,6 +1,6 @@
 ---
 slug: "trm-cans-with-disabilities"
-id: "TRM-ENG-45861"
+id: "TRM-ENG-60390"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cans with Disabilities"

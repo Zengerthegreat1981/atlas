@@ -1,6 +1,6 @@
 ---
 slug: "trm-itudinal-course-of-panic-disorder"
-id: "TRM-ENG-49513"
+id: "TRM-ENG-64042"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "itudinal course of panic disorder"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-tents-into-three-parts"
-id: "TRM-ENG-43289"
+id: "TRM-ENG-57818"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tents into three parts"

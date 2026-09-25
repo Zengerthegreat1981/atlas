@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-abraham-maslow-2nd-ed-new-york-ny"
-id: "TRM-ENG-51634"
+id: "TRM-ENG-66163"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of Abraham Maslow (2nd ed.). New York, NY"

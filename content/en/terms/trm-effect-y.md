@@ -1,6 +1,6 @@
 ---
 slug: "trm-effect-y"
-id: "TRM-ENG-46556"
+id: "TRM-ENG-61085"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Effect Y)"

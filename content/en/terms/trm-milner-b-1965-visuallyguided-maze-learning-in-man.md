@@ -1,6 +1,6 @@
 ---
 slug: "trm-milner-b-1965-visuallyguided-maze-learning-in-man"
-id: "TRM-ENG-34646"
+id: "TRM-ENG-63704"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Milner, B. (1965). Visually-guided maze learning in man"

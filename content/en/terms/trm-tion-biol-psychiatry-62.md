@@ -1,6 +1,6 @@
 ---
 slug: "trm-tion-biol-psychiatry-62"
-id: "TRM-ENG-48671"
+id: "TRM-ENG-63200"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tion. Biol Psychiatry 62"

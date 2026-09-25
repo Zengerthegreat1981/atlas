@@ -1,6 +1,6 @@
 ---
 slug: "trm-sent"
-id: "TRM-ENG-48700"
+id: "TRM-ENG-63229"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sent"

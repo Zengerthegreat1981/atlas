@@ -1,6 +1,6 @@
 ---
 slug: "trm-existential-philosophy-defined-1"
-id: "TRM-ENG-50371"
+id: "TRM-ENG-64900"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Existential philosophy, defined, 1"

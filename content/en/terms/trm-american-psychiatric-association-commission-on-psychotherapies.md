@@ -1,6 +1,6 @@
 ---
 slug: "trm-american-psychiatric-association-commission-on-psychotherapies"
-id: "TRM-ENG-39685"
+id: "TRM-ENG-54214"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "American Psychiatric Association Commission on Psychotherapies"

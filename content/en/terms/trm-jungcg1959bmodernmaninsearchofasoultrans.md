@@ -1,6 +1,6 @@
 ---
 slug: "trm-jungcg1959bmodernmaninsearchofasoultrans"
-id: "TRM-ENG-36985"
+id: "TRM-ENG-66043"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jung,C.G.(1959b).ModernManinsearchofasoul.(trans"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-civilian-conservation-corps-ccc-and-4"
-id: "TRM-ENG-37828"
+id: "TRM-ENG-66886"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Civilian Conservation Corps (CCC) and, 4"

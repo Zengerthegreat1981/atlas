@@ -1,6 +1,6 @@
 ---
 slug: "trm-louis-mo"
-id: "TRM-ENG-42447"
+id: "TRM-ENG-56976"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Louis, MO"

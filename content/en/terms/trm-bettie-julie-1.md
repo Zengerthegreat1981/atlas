@@ -1,6 +1,6 @@
 ---
 slug: "trm-bettie-julie-1"
-id: "TRM-ENG-46310"
+id: "TRM-ENG-60839"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bettie, Julie, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-violence"
-id: "TRM-ENG-44046"
+id: "TRM-ENG-58575"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and violence"

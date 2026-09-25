@@ -1,6 +1,6 @@
 ---
 slug: "trm-treatment-in-psychobiologic-psychiatry"
-id: "TRM-ENG-44840"
+id: "TRM-ENG-59369"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, “Treatment in Psychobiologic Psychiatry"

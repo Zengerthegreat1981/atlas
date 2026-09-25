@@ -1,6 +1,6 @@
 ---
 slug: "trm-handbook2nd-ed-new-york"
-id: "TRM-ENG-40345"
+id: "TRM-ENG-54874"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "handbook(2nd ed.). New York"

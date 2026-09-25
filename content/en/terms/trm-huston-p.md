@@ -1,6 +1,6 @@
 ---
 slug: "trm-huston-p"
-id: "TRM-ENG-41063"
+id: "TRM-ENG-55592"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Huston P"

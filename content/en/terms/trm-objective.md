@@ -1,6 +1,6 @@
 ---
 slug: "trm-objective"
-id: "TRM-ENG-48418"
+id: "TRM-ENG-62947"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "objective"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-process-in-couples-counseling-the-family-journal"
-id: "TRM-ENG-51730"
+id: "TRM-ENG-66259"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "process in couples counseling. The Family Journal"

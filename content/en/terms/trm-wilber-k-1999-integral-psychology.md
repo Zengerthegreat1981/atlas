@@ -1,6 +1,6 @@
 ---
 slug: "trm-wilber-k-1999-integral-psychology"
-id: "TRM-ENG-51179"
+id: "TRM-ENG-65708"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wilber, K. (1999). Integral psychology"

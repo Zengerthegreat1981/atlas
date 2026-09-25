@@ -1,6 +1,6 @@
 ---
 slug: "trm-rosch-e-mervis-c-b-1975-family-resemblance"
-id: "TRM-ENG-44740"
+id: "TRM-ENG-59269"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rosch, E., & Mervis, C. B. (1975). Family resemblance"

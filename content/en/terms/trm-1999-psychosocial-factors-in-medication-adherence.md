@@ -1,6 +1,6 @@
 ---
 slug: "trm-1999-psychosocial-factors-in-medication-adherence"
-id: "TRM-ENG-35477"
+id: "TRM-ENG-64535"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1999). Psychosocial factors in medication adherence"

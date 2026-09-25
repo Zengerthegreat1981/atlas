@@ -1,6 +1,6 @@
 ---
 slug: "trm-beauregard-m-2007-mind-does-really-matter"
-id: "TRM-ENG-42324"
+id: "TRM-ENG-56853"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Beauregard, M. (2007). Mind does really matter"

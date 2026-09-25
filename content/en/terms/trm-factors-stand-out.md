@@ -1,6 +1,6 @@
 ---
 slug: "trm-factors-stand-out"
-id: "TRM-ENG-45022"
+id: "TRM-ENG-59551"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "factors stand out"

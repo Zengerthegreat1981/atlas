@@ -1,6 +1,6 @@
 ---
 slug: "trm-schopenhauer-arthur-1"
-id: "TRM-ENG-47237"
+id: "TRM-ENG-61766"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schopenhauer, Arthur, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-355-new-york"
-id: "TRM-ENG-35552"
+id: "TRM-ENG-50081"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "355). New York"

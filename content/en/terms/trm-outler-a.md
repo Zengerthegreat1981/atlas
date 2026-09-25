@@ -1,6 +1,6 @@
 ---
 slug: "trm-outler-a"
-id: "TRM-ENG-41888"
+id: "TRM-ENG-56417"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Outler A"

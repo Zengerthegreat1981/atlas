@@ -1,6 +1,6 @@
 ---
 slug: "trm-entxhild-adjustment-in-divorced-and-nondivorced-fam-dorothea-dix"
-id: "TRM-ENG-35006"
+id: "TRM-ENG-64064"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "entxhild adjustment in divorced and nondivorced fam- Dorothea Dix"

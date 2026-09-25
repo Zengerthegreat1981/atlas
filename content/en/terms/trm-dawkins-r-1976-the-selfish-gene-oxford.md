@@ -1,6 +1,6 @@
 ---
 slug: "trm-dawkins-r-1976-the-selfish-gene-oxford"
-id: "TRM-ENG-34670"
+id: "TRM-ENG-49199"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dawkins. R. (1976). The selfish gene. Oxford"

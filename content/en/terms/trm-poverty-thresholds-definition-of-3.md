@@ -1,6 +1,6 @@
 ---
 slug: "trm-poverty-thresholds-definition-of-3"
-id: "TRM-ENG-41225"
+id: "TRM-ENG-55754"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "poverty thresholds definition of, 3"

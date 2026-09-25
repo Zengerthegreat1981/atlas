@@ -1,6 +1,6 @@
 ---
 slug: "trm-codingsystemnewyork"
-id: "TRM-ENG-37635"
+id: "TRM-ENG-66693"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "codingsystem.NewYork"

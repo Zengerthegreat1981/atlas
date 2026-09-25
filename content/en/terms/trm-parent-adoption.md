@@ -1,6 +1,6 @@
 ---
 slug: "trm-parent-adoption"
-id: "TRM-ENG-41106"
+id: "TRM-ENG-55635"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "parent adoption"

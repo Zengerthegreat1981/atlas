@@ -1,6 +1,6 @@
 ---
 slug: "trm-rational"
-id: "TRM-ENG-45995"
+id: "TRM-ENG-60524"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rational"

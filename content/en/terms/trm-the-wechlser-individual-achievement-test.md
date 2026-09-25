@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-wechlser-individual-achievement-test"
-id: "TRM-ENG-38895"
+id: "TRM-ENG-53424"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The Wechlser Individual Achievement Test"

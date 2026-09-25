@@ -1,6 +1,6 @@
 ---
 slug: "trm-freud-s-1962-the-ego-and-the-idnew-york"
-id: "TRM-ENG-35686"
+id: "TRM-ENG-50215"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Freud, S. (1962). The ego and the id.New York"

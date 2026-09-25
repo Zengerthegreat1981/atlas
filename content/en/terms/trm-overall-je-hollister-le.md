@@ -1,6 +1,6 @@
 ---
 slug: "trm-overall-je-hollister-le"
-id: "TRM-ENG-41889"
+id: "TRM-ENG-56418"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Overall JE, Hollister LE"

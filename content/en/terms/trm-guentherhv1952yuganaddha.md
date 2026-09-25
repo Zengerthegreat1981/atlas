@@ -1,6 +1,6 @@
 ---
 slug: "trm-guentherhv1952yuganaddha"
-id: "TRM-ENG-36865"
+id: "TRM-ENG-51394"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Guenther,H.V.(1952).Yuganaddha"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-659-ferenczi-s"
-id: "TRM-ENG-39287"
+id: "TRM-ENG-53816"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "659. Ferenczi S"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-appic-membership-criteria-for-1"
-id: "TRM-ENG-37526"
+id: "TRM-ENG-66584"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "APPIC membership criteria for, 1"

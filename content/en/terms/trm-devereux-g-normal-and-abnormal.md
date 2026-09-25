@@ -1,6 +1,6 @@
 ---
 slug: "trm-devereux-g-normal-and-abnormal"
-id: "TRM-ENG-44351"
+id: "TRM-ENG-58880"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Devereux, G., “Normal and Abnormal"

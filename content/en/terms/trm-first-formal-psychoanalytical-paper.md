@@ -1,6 +1,6 @@
 ---
 slug: "trm-first-formal-psychoanalytical-paper"
-id: "TRM-ENG-51462"
+id: "TRM-ENG-65991"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "first formal psychoanalytical paper"

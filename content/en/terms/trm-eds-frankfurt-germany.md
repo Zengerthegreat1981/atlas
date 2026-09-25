@@ -1,6 +1,6 @@
 ---
 slug: "trm-eds-frankfurt-germany"
-id: "TRM-ENG-46546"
+id: "TRM-ENG-61075"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Eds.). Frankfurt, Germany"

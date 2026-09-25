@@ -1,6 +1,6 @@
 ---
 slug: "trm-spontaneous-behaviors"
-id: "TRM-ENG-45317"
+id: "TRM-ENG-59846"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "spontaneous behaviors"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-sawyer-j"
-id: "TRM-ENG-42255"
+id: "TRM-ENG-56784"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sawyer J"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-haley-and-1"
-id: "TRM-ENG-50507"
+id: "TRM-ENG-65036"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Haley and, 1"

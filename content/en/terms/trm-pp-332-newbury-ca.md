@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp-332-newbury-ca"
-id: "TRM-ENG-34591"
+id: "TRM-ENG-49120"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp. 3-32). Newbury, CA"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-j-psychopharmacol-19"
-id: "TRM-ENG-47762"
+id: "TRM-ENG-62291"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "J Psychopharmacol 19"

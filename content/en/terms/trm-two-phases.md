@@ -1,6 +1,6 @@
 ---
 slug: "trm-two-phases"
-id: "TRM-ENG-37254"
+id: "TRM-ENG-51783"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "two phases"

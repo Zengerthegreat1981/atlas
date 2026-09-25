@@ -1,6 +1,6 @@
 ---
 slug: "trm-hypertension-see-high-blood-pressure-cid"
-id: "TRM-ENG-46112"
+id: "TRM-ENG-60641"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "hypertension See HIGH BLOOD PRESSURE. (cid"

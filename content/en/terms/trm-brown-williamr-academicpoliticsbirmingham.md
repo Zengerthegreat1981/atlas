@@ -1,6 +1,6 @@
 ---
 slug: "trm-brown-williamr-academicpoliticsbirmingham"
-id: "TRM-ENG-45667"
+id: "TRM-ENG-60196"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brown, WilliamR. AcademicPolitics.Birmingham"

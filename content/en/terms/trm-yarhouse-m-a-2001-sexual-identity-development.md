@@ -1,6 +1,6 @@
 ---
 slug: "trm-yarhouse-m-a-2001-sexual-identity-development"
-id: "TRM-ENG-51200"
+id: "TRM-ENG-65729"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Yarhouse, M. A. (2001). Sexual identity development"

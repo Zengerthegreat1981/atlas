@@ -1,6 +1,6 @@
 ---
 slug: "trm-tice-not-in-theory"
-id: "TRM-ENG-48909"
+id: "TRM-ENG-63438"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tice, not in theory"

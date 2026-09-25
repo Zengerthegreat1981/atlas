@@ -1,6 +1,6 @@
 ---
 slug: "trm-ality-disorder-j-ment-health-16"
-id: "TRM-ENG-48174"
+id: "TRM-ENG-62703"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ality disorder. J Ment Health 16"

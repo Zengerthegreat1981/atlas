@@ -1,6 +1,6 @@
 ---
 slug: "trm-chotherapy-research"
-id: "TRM-ENG-42727"
+id: "TRM-ENG-57256"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chotherapy research"

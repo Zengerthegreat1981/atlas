@@ -1,6 +1,6 @@
 ---
 slug: "trm-vi-crowds"
-id: "TRM-ENG-42651"
+id: "TRM-ENG-57180"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "VI. CROWDS"

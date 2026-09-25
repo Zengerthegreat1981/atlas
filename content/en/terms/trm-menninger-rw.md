@@ -1,6 +1,6 @@
 ---
 slug: "trm-menninger-rw"
-id: "TRM-ENG-41692"
+id: "TRM-ENG-56221"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Menninger RW"

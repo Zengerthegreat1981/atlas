@@ -1,6 +1,6 @@
 ---
 slug: "trm-job-satisfaction-wellbeing-and-4"
-id: "TRM-ENG-40662"
+id: "TRM-ENG-55191"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "job satisfaction, well-being and, 4"

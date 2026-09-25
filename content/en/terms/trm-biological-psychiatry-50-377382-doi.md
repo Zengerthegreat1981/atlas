@@ -1,6 +1,6 @@
 ---
 slug: "trm-biological-psychiatry-50-377382-doi"
-id: "TRM-ENG-35319"
+id: "TRM-ENG-64377"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Biological Psychiatry, 50, 377–382. doi"

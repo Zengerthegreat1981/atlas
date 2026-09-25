@@ -1,6 +1,6 @@
 ---
 slug: "trm-chown-sm-1959-rigidity"
-id: "TRM-ENG-35623"
+id: "TRM-ENG-50152"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Chown, S.M. (1959). Rigidity"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-journal-of-behavioral-medicine-19-no-4-august-1996"
-id: "TRM-ENG-45852"
+id: "TRM-ENG-60381"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Journal of Behavioral Medicine 19, no. 4 (August 1996)"

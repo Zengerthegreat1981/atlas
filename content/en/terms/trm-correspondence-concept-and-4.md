@@ -1,6 +1,6 @@
 ---
 slug: "trm-correspondence-concept-and-4"
-id: "TRM-ENG-39718"
+id: "TRM-ENG-54247"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "correspondence concept and, 4"

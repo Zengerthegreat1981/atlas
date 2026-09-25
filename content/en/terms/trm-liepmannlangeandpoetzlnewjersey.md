@@ -1,6 +1,6 @@
 ---
 slug: "trm-liepmannlangeandpoetzlnewjersey"
-id: "TRM-ENG-37035"
+id: "TRM-ENG-66093"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Liepmann,Lange,andPoetzl.NewJersey"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ality-disorder-j-nerv-ment-dis-194"
-id: "TRM-ENG-48175"
+id: "TRM-ENG-62704"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ality disorder. J Nerv Ment Dis 194"

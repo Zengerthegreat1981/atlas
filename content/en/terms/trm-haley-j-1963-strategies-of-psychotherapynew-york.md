@@ -1,6 +1,6 @@
 ---
 slug: "trm-haley-j-1963-strategies-of-psychotherapynew-york"
-id: "TRM-ENG-35726"
+id: "TRM-ENG-64784"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Haley, J. (1963). Strategies of psychotherapy.New York"

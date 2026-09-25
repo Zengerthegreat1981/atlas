@@ -1,6 +1,6 @@
 ---
 slug: "trm-change-to-violent-recidivism-personality-disorders"
-id: "TRM-ENG-42714"
+id: "TRM-ENG-57243"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "change to violent recidivism. Personality Disorders"

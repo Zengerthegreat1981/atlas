@@ -1,6 +1,6 @@
 ---
 slug: "trm-intelligence-intelligence"
-id: "TRM-ENG-34726"
+id: "TRM-ENG-49255"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Intelligence; Intelligence"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-sonality-disorder-j-clin-psychiatry-65"
-id: "TRM-ENG-48592"
+id: "TRM-ENG-63121"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sonality disorder. J Clin Psychiatry 65"

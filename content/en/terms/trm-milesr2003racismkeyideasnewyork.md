@@ -1,6 +1,6 @@
 ---
 slug: "trm-milesr2003racismkeyideasnewyork"
-id: "TRM-ENG-37078"
+id: "TRM-ENG-66136"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Miles,R.(2003).Racism.Keyideas.NewYork"

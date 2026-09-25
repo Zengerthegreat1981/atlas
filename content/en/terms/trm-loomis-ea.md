@@ -1,6 +1,6 @@
 ---
 slug: "trm-loomis-ea"
-id: "TRM-ENG-41503"
+id: "TRM-ENG-56032"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Loomis EA"

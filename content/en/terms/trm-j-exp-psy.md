@@ -1,6 +1,6 @@
 ---
 slug: "trm-j-exp-psy"
-id: "TRM-ENG-52515"
+id: "TRM-ENG-67044"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "J. Exp. Psy."

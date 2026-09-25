@@ -1,6 +1,6 @@
 ---
 slug: "trm-716-frommreichman-f"
-id: "TRM-ENG-39360"
+id: "TRM-ENG-53889"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "716. Fromm-Reichman F"

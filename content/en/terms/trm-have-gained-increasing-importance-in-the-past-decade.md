@@ -1,6 +1,6 @@
 ---
 slug: "trm-have-gained-increasing-importance-in-the-past-decade"
-id: "TRM-ENG-35839"
+id: "TRM-ENG-64897"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "have gained increasing importance in the past decade"

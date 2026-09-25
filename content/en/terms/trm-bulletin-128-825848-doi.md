@@ -1,6 +1,6 @@
 ---
 slug: "trm-bulletin-128-825848-doi"
-id: "TRM-ENG-43397"
+id: "TRM-ENG-57926"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bulletin, 128, 825–848. doi"

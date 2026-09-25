@@ -1,6 +1,6 @@
 ---
 slug: "trm-oyserman-daphna-3"
-id: "TRM-ENG-38553"
+id: "TRM-ENG-53082"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Oyserman, Daphna, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-compare-misandry"
-id: "TRM-ENG-43464"
+id: "TRM-ENG-57993"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Compare misandry."

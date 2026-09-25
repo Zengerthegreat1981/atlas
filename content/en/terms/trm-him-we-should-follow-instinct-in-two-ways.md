@@ -1,6 +1,6 @@
 ---
 slug: "trm-him-we-should-follow-instinct-in-two-ways"
-id: "TRM-ENG-45917"
+id: "TRM-ENG-60446"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "him, we should follow instinct in two ways"

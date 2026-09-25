@@ -1,6 +1,6 @@
 ---
 slug: "trm-tive-index-of-combatrelated-trauma-it-sometimes-ters"
-id: "TRM-ENG-36209"
+id: "TRM-ENG-65267"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tive index of combat-related trauma. It sometimes ters"

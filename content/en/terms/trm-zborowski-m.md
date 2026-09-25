@@ -1,6 +1,6 @@
 ---
 slug: "trm-zborowski-m"
-id: "TRM-ENG-42909"
+id: "TRM-ENG-57438"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Zborowski M"

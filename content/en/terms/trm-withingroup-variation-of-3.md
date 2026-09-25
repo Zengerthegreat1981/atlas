@@ -1,6 +1,6 @@
 ---
 slug: "trm-withingroup-variation-of-3"
-id: "TRM-ENG-42166"
+id: "TRM-ENG-56695"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "within-group variation of, 3"

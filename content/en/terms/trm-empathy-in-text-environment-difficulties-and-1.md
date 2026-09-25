@@ -1,6 +1,6 @@
 ---
 slug: "trm-empathy-in-text-environment-difficulties-and-1"
-id: "TRM-ENG-40040"
+id: "TRM-ENG-54569"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "empathy in text environment difficulties and, 1"

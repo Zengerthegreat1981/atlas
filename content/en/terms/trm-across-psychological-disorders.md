@@ -1,6 +1,6 @@
 ---
 slug: "trm-across-psychological-disorders"
-id: "TRM-ENG-42579"
+id: "TRM-ENG-57108"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "across psychological disorders"

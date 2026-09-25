@@ -1,6 +1,6 @@
 ---
 slug: "trm-scale-is-as-follows"
-id: "TRM-ENG-35026"
+id: "TRM-ENG-64084"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "scale is as follows"

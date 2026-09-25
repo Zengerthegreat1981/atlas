@@ -1,6 +1,6 @@
 ---
 slug: "trm-j-addict-dis-25"
-id: "TRM-ENG-47754"
+id: "TRM-ENG-62283"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "J Addict Dis 25"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-practice-10"
-id: "TRM-ENG-47943"
+id: "TRM-ENG-62472"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Practice 10"

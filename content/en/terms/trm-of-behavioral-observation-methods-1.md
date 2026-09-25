@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-behavioral-observation-methods-1"
-id: "TRM-ENG-40997"
+id: "TRM-ENG-55526"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of behavioral observation methods, 1"

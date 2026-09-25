@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-paradox-quickly-appears"
-id: "TRM-ENG-45363"
+id: "TRM-ENG-59892"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the paradox quickly appears"

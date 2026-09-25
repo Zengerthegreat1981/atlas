@@ -1,6 +1,6 @@
 ---
 slug: "trm-neuropsychologists"
-id: "TRM-ENG-34951"
+id: "TRM-ENG-49480"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "neuropsychologists"

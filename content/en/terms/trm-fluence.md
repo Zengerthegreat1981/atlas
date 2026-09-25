@@ -1,6 +1,6 @@
 ---
 slug: "trm-fluence"
-id: "TRM-ENG-36444"
+id: "TRM-ENG-65502"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "fluence"

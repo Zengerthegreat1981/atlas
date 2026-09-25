@@ -1,6 +1,6 @@
 ---
 slug: "trm-has-religious-roots-but-the-caste-system-with-more-eration"
-id: "TRM-ENG-48103"
+id: "TRM-ENG-62632"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "has religious roots, but the caste system, with more eration"

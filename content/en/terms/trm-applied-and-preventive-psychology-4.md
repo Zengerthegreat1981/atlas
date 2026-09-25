@@ -1,6 +1,6 @@
 ---
 slug: "trm-applied-and-preventive-psychology-4"
-id: "TRM-ENG-47475"
+id: "TRM-ENG-62004"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Applied and Preventive Psychology 4"

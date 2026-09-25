@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-b-needs"
-id: "TRM-ENG-35999"
+id: "TRM-ENG-50528"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The B needs"

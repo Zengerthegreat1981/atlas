@@ -1,6 +1,6 @@
 ---
 slug: "trm-460-swanson-dp-bohnert-pj-smith-jh"
-id: "TRM-ENG-39052"
+id: "TRM-ENG-53581"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "460. Swanson DP, Bohnert PJ, Smith JH"

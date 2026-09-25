@@ -1,6 +1,6 @@
 ---
 slug: "trm-fellows-l-wolpin-m"
-id: "TRM-ENG-40511"
+id: "TRM-ENG-55040"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fellows L, Wolpin M"

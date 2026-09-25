@@ -1,6 +1,6 @@
 ---
 slug: "trm-additiontocontrasteffectsbothinthechromaticand-later"
-id: "TRM-ENG-37483"
+id: "TRM-ENG-52012"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "additiontocontrasteffects–bothinthechromaticand later"

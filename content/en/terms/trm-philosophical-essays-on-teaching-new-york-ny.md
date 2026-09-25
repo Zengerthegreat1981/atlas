@@ -1,6 +1,6 @@
 ---
 slug: "trm-philosophical-essays-on-teaching-new-york-ny"
-id: "TRM-ENG-47127"
+id: "TRM-ENG-61656"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Philosophical essays on teaching. New York, NY"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-needs-described-in-human-values-and-needs"
-id: "TRM-ENG-37990"
+id: "TRM-ENG-67048"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "needs, described in “Human values and needs"

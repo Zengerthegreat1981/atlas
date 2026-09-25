@@ -1,6 +1,6 @@
 ---
 slug: "trm-ed-the-dilemma-of-ritual-abuse"
-id: "TRM-ENG-35489"
+id: "TRM-ENG-64547"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Ed.), The dilemma of ritual abuse"

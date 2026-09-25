@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychotherapy-integration2nd-ed-new-york"
-id: "TRM-ENG-41365"
+id: "TRM-ENG-55894"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychotherapy integration(2nd ed.). New York"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-thereforethequestionwasreformulatedto"
-id: "TRM-ENG-46749"
+id: "TRM-ENG-61278"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Thereforethequestionwasreformulatedto"

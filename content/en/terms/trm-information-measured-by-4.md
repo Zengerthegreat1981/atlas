@@ -1,6 +1,6 @@
 ---
 slug: "trm-information-measured-by-4"
-id: "TRM-ENG-40542"
+id: "TRM-ENG-55071"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "information measured by, 4"

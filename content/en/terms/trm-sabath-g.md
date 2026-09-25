@@ -1,6 +1,6 @@
 ---
 slug: "trm-sabath-g"
-id: "TRM-ENG-42214"
+id: "TRM-ENG-56743"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sabath G"

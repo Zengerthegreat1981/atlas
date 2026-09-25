@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-psychoanalytic-dialogue"
-id: "TRM-ENG-44715"
+id: "TRM-ENG-59244"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, A Psycho-Analytic Dialogue"

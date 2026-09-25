@@ -1,6 +1,6 @@
 ---
 slug: "trm-lund-f-1933-psychology"
-id: "TRM-ENG-52521"
+id: "TRM-ENG-67050"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lund, F. (1933). Psychology"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-depressionpp330newyork"
-id: "TRM-ENG-49379"
+id: "TRM-ENG-63908"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "depression(pp.3±30).NewYork"

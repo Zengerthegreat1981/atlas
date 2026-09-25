@@ -1,6 +1,6 @@
 ---
 slug: "trm-1990-although-the-past-emphasis-on-the-disorder"
-id: "TRM-ENG-48822"
+id: "TRM-ENG-63351"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1990). Although the past emphasis on the disorder"

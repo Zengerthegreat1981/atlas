@@ -1,6 +1,6 @@
 ---
 slug: "trm-ross-e-d-monnot-m-2011-affective-prosody"
-id: "TRM-ENG-34683"
+id: "TRM-ENG-63741"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ross, E. D., & Monnot, M. (2011). Affective prosody"

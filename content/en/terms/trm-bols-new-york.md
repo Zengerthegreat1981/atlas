@@ -1,6 +1,6 @@
 ---
 slug: "trm-bols-new-york"
-id: "TRM-ENG-46044"
+id: "TRM-ENG-60573"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bols (New York"

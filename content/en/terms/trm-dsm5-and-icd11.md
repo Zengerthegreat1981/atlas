@@ -1,6 +1,6 @@
 ---
 slug: "trm-dsm5-and-icd11"
-id: "TRM-ENG-43982"
+id: "TRM-ENG-58511"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "DSM-5 and ICD-11"

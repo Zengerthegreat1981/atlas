@@ -1,6 +1,6 @@
 ---
 slug: "trm-loading-techniques"
-id: "TRM-ENG-44501"
+id: "TRM-ENG-59030"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Loading techniques"

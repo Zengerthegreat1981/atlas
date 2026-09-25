@@ -1,6 +1,6 @@
 ---
 slug: "trm-phase-into-two-parts"
-id: "TRM-ENG-45237"
+id: "TRM-ENG-59766"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "phase into two parts"

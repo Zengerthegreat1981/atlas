@@ -1,6 +1,6 @@
 ---
 slug: "trm-score-shifts-to-1010-a-1"
-id: "TRM-ENG-36105"
+id: "TRM-ENG-65163"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "score shifts to 1,010. A 1"

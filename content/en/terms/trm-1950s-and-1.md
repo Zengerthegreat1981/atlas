@@ -1,6 +1,6 @@
 ---
 slug: "trm-1950s-and-1"
-id: "TRM-ENG-37472"
+id: "TRM-ENG-66530"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1950s and, 1"

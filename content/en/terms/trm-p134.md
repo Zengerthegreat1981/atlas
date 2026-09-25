@@ -1,6 +1,6 @@
 ---
 slug: "trm-p134"
-id: "TRM-ENG-49601"
+id: "TRM-ENG-64130"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "p.134)"

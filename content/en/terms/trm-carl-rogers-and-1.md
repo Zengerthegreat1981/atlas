@@ -1,6 +1,6 @@
 ---
 slug: "trm-carl-rogers-and-1"
-id: "TRM-ENG-37794"
+id: "TRM-ENG-66852"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Carl Rogers and, 1"

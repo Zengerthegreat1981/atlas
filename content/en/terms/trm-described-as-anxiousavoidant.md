@@ -1,6 +1,6 @@
 ---
 slug: "trm-described-as-anxiousavoidant"
-id: "TRM-ENG-44081"
+id: "TRM-ENG-58610"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "described as anxious-avoidant"

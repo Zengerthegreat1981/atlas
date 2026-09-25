@@ -1,6 +1,6 @@
 ---
 slug: "trm-on-learning"
-id: "TRM-ENG-48470"
+id: "TRM-ENG-62999"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "on learning"

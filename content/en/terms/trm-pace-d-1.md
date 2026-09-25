@@ -1,6 +1,6 @@
 ---
 slug: "trm-pace-d-1"
-id: "TRM-ENG-38558"
+id: "TRM-ENG-53087"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pace, D., 1"

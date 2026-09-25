@@ -1,6 +1,6 @@
 ---
 slug: "trm-critical-incident-stress-management-1"
-id: "TRM-ENG-50298"
+id: "TRM-ENG-64827"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Critical incident stress management, 1"

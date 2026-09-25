@@ -1,6 +1,6 @@
 ---
 slug: "trm-book-of-gestalt-psychology-pp-1754-london"
-id: "TRM-ENG-37592"
+id: "TRM-ENG-52121"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "book of Gestalt psychology (pp. 17–54). London"

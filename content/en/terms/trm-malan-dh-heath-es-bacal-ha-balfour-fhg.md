@@ -1,6 +1,6 @@
 ---
 slug: "trm-malan-dh-heath-es-bacal-ha-balfour-fhg"
-id: "TRM-ENG-41567"
+id: "TRM-ENG-56096"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Malan DH, Heath ES, Bacal HA, Balfour FHG"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-career-attitudes-and-strategies-inventory-of-4"
-id: "TRM-ENG-37768"
+id: "TRM-ENG-66826"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Career Attitudes and Strategies Inventory of, 4"

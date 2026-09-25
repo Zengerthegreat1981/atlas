@@ -1,6 +1,6 @@
 ---
 slug: "trm-norris-cm"
-id: "TRM-ENG-41848"
+id: "TRM-ENG-56377"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Norris CM"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-13-berlin-germany"
-id: "TRM-ENG-46151"
+id: "TRM-ENG-60680"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "13). Berlin, Germany"

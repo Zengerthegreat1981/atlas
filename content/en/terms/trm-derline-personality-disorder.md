@@ -1,6 +1,6 @@
 ---
 slug: "trm-derline-personality-disorder"
-id: "TRM-ENG-48301"
+id: "TRM-ENG-62830"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "derline Personality Disorder"

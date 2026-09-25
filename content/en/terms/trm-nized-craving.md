@@ -1,6 +1,6 @@
 ---
 slug: "trm-nized-craving"
-id: "TRM-ENG-36751"
+id: "TRM-ENG-51280"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nized craving"

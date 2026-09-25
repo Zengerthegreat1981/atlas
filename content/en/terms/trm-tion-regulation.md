@@ -1,6 +1,6 @@
 ---
 slug: "trm-tion-regulation"
-id: "TRM-ENG-43347"
+id: "TRM-ENG-57876"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tion regulation"

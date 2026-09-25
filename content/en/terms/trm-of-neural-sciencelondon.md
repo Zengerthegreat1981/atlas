@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-neural-sciencelondon"
-id: "TRM-ENG-36781"
+id: "TRM-ENG-65839"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of neural science.London"

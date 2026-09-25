@@ -1,6 +1,6 @@
 ---
 slug: "trm-baldwin-reworked-the-point"
-id: "TRM-ENG-46275"
+id: "TRM-ENG-60804"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Baldwin reworked the point"

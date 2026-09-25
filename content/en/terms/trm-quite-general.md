@@ -1,6 +1,6 @@
 ---
 slug: "trm-quite-general"
-id: "TRM-ENG-48610"
+id: "TRM-ENG-63139"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "quite general"

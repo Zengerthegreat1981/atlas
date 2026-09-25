@@ -1,6 +1,6 @@
 ---
 slug: "trm-combined-by-4"
-id: "TRM-ENG-39587"
+id: "TRM-ENG-54116"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "combined by, 4"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-bhabha-1"
-id: "TRM-ENG-46312"
+id: "TRM-ENG-60841"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bhabha, 1"

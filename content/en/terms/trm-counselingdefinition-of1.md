@@ -1,6 +1,6 @@
 ---
 slug: "trm-counselingdefinition-of1"
-id: "TRM-ENG-37882"
+id: "TRM-ENG-66940"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Counseling,definition of,1"

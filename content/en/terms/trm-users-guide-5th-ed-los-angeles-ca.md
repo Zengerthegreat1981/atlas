@@ -1,6 +1,6 @@
 ---
 slug: "trm-users-guide-5th-ed-los-angeles-ca"
-id: "TRM-ENG-36232"
+id: "TRM-ENG-65290"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "user’s guide (5th ed.). Los Angeles, CA"

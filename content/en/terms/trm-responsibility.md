@@ -1,6 +1,6 @@
 ---
 slug: "trm-responsibility"
-id: "TRM-ENG-45286"
+id: "TRM-ENG-59815"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "responsibility"

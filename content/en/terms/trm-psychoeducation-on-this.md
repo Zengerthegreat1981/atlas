@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychoeducation-on-this"
-id: "TRM-ENG-44175"
+id: "TRM-ENG-58704"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychoeducation on this"

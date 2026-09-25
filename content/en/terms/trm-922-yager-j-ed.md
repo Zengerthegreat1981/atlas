@@ -1,6 +1,6 @@
 ---
 slug: "trm-922-yager-j-ed"
-id: "TRM-ENG-39598"
+id: "TRM-ENG-54127"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "922. Yager J (ed)"

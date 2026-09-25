@@ -1,6 +1,6 @@
 ---
 slug: "trm-state-of-arousal-and-medical-illness"
-id: "TRM-ENG-37028"
+id: "TRM-ENG-51557"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "state of arousal. and medical illness"

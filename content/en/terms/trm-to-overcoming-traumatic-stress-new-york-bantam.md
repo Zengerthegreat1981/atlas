@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-overcoming-traumatic-stress-new-york-bantam"
-id: "TRM-ENG-46253"
+id: "TRM-ENG-60782"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to Overcoming Traumatic Stress. New York: Bantam"

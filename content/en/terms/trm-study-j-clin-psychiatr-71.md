@@ -1,6 +1,6 @@
 ---
 slug: "trm-study-j-clin-psychiatr-71"
-id: "TRM-ENG-48613"
+id: "TRM-ENG-63142"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "study. J Clin Psychiatr 71"

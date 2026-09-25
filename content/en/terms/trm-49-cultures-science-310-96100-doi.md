@@ -1,6 +1,6 @@
 ---
 slug: "trm-49-cultures-science-310-96100-doi"
-id: "TRM-ENG-43335"
+id: "TRM-ENG-57864"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "49 cultures. Science, 310, 96–100. doi"

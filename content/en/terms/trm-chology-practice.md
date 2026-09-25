@@ -1,6 +1,6 @@
 ---
 slug: "trm-chology-practice"
-id: "TRM-ENG-36278"
+id: "TRM-ENG-65336"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chology practice"

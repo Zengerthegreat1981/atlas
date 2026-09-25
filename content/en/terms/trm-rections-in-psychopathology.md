@@ -1,6 +1,6 @@
 ---
 slug: "trm-rections-in-psychopathology"
-id: "TRM-ENG-43170"
+id: "TRM-ENG-57699"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rections in psychopathology"

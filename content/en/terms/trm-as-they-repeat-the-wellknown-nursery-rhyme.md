@@ -1,6 +1,6 @@
 ---
 slug: "trm-as-they-repeat-the-wellknown-nursery-rhyme"
-id: "TRM-ENG-46031"
+id: "TRM-ENG-60560"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "as they repeat the well-known nursery rhyme"

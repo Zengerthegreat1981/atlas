@@ -1,6 +1,6 @@
 ---
 slug: "trm-bion-w-1967-second-thoughts-london-england"
-id: "TRM-ENG-50173"
+id: "TRM-ENG-64702"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bion, W. (1967). Second thoughts. London, England"

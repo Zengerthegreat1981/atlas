@@ -1,6 +1,6 @@
 ---
 slug: "trm-burdens-of-parental-authority-over-education"
-id: "TRM-ENG-47714"
+id: "TRM-ENG-62243"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "burdens of parental authority over education"

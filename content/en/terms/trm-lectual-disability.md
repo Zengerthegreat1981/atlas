@@ -1,6 +1,6 @@
 ---
 slug: "trm-lectual-disability"
-id: "TRM-ENG-42969"
+id: "TRM-ENG-57498"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lectual disability"

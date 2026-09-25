@@ -1,6 +1,6 @@
 ---
 slug: "trm-hines-pm-haremustin-rt"
-id: "TRM-ENG-40996"
+id: "TRM-ENG-55525"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hines PM, Hare-Mustin RT"

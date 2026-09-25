@@ -1,6 +1,6 @@
 ---
 slug: "trm-faculty-psychology-1"
-id: "TRM-ENG-48019"
+id: "TRM-ENG-62548"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "faculty psychology, 1"

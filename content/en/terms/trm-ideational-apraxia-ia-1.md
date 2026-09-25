@@ -1,6 +1,6 @@
 ---
 slug: "trm-ideational-apraxia-ia-1"
-id: "TRM-ENG-44535"
+id: "TRM-ENG-59064"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ideational apraxia (IA), 1"

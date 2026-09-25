@@ -1,6 +1,6 @@
 ---
 slug: "trm-gonzalez-r-ed-1996-muy-macho"
-id: "TRM-ENG-38119"
+id: "TRM-ENG-52648"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gonzalez, R. (Ed.). (1996). Muy macho"

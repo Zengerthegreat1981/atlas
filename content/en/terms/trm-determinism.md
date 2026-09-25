@@ -1,6 +1,6 @@
 ---
 slug: "trm-determinism"
-id: "TRM-ENG-36355"
+id: "TRM-ENG-65413"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "determinism"

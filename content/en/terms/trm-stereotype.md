@@ -1,6 +1,6 @@
 ---
 slug: "trm-stereotype"
-id: "TRM-ENG-52402"
+id: "TRM-ENG-66931"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stereotype"

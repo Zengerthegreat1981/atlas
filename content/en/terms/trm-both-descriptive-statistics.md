@@ -1,6 +1,6 @@
 ---
 slug: "trm-both-descriptive-statistics"
-id: "TRM-ENG-45545"
+id: "TRM-ENG-60074"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "both DESCRIPTIVE STATISTICS"

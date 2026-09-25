@@ -1,6 +1,6 @@
 ---
 slug: "trm-sexual-disorder"
-id: "TRM-ENG-49701"
+id: "TRM-ENG-64230"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sexual disorder"

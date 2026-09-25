@@ -1,6 +1,6 @@
 ---
 slug: "trm-postnatal-depression"
-id: "TRM-ENG-47203"
+id: "TRM-ENG-61732"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "postnatal depression"

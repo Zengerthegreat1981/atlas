@@ -1,6 +1,6 @@
 ---
 slug: "trm-thology"
-id: "TRM-ENG-43324"
+id: "TRM-ENG-57853"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thology"

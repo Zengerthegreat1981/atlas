@@ -1,6 +1,6 @@
 ---
 slug: "trm-international-transracial-adoption-and-3"
-id: "TRM-ENG-40610"
+id: "TRM-ENG-55139"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "international transracial adoption and, 3"

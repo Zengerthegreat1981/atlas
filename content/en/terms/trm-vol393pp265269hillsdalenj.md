@@ -1,6 +1,6 @@
 ---
 slug: "trm-vol393pp265269hillsdalenj"
-id: "TRM-ENG-37405"
+id: "TRM-ENG-51934"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Vol.39(3),pp.265–269)Hillsdale,NJ"

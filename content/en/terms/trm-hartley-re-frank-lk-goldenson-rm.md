@@ -1,6 +1,6 @@
 ---
 slug: "trm-hartley-re-frank-lk-goldenson-rm"
-id: "TRM-ENG-40929"
+id: "TRM-ENG-55458"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hartley RE, Frank LK, Goldenson RM"

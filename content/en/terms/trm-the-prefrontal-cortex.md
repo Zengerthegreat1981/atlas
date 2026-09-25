@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-prefrontal-cortex"
-id: "TRM-ENG-34702"
+id: "TRM-ENG-63760"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The prefrontal cortex"

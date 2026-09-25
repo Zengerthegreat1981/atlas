@@ -1,6 +1,6 @@
 ---
 slug: "trm-litter-being-on-the-highway-and-a-statute-being-vi-causalism"
-id: "TRM-ENG-45948"
+id: "TRM-ENG-60477"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "litter being on the highway, and a statute being vi- causalism"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-143-thomas-l"
-id: "TRM-ENG-38615"
+id: "TRM-ENG-53144"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "143. Thomas L"

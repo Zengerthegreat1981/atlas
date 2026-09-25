@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-memory"
-id: "TRM-ENG-45349"
+id: "TRM-ENG-59878"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of memory"

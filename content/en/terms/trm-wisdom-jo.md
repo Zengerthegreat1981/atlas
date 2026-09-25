@@ -1,6 +1,6 @@
 ---
 slug: "trm-wisdom-jo"
-id: "TRM-ENG-42834"
+id: "TRM-ENG-57363"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wisdom JO"

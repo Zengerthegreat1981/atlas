@@ -1,6 +1,6 @@
 ---
 slug: "trm-peters-ga-phelan-jg"
-id: "TRM-ENG-41964"
+id: "TRM-ENG-56493"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Peters GA, Phelan JG"

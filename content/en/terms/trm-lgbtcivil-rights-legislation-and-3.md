@@ -1,6 +1,6 @@
 ---
 slug: "trm-lgbtcivil-rights-legislation-and-3"
-id: "TRM-ENG-38349"
+id: "TRM-ENG-52878"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "LGBTcivil rights legislation and, 3"

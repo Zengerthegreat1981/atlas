@@ -1,6 +1,6 @@
 ---
 slug: "trm-us-census-bureau-2006-we-the-people"
-id: "TRM-ENG-38948"
+id: "TRM-ENG-53477"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "U.S. Census Bureau. (2006). We the people"

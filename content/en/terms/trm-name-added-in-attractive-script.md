@@ -1,6 +1,6 @@
 ---
 slug: "trm-name-added-in-attractive-script"
-id: "TRM-ENG-37987"
+id: "TRM-ENG-52516"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "name added in attractive script"

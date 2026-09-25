@@ -1,6 +1,6 @@
 ---
 slug: "trm-claghorn-j-l-1980-catecholamines-and-migraine"
-id: "TRM-ENG-46468"
+id: "TRM-ENG-60997"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Claghorn, J. L. (1980). Catecholamines and migraine"

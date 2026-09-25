@@ -1,6 +1,6 @@
 ---
 slug: "trm-representing-distribution-shape"
-id: "TRM-ENG-36076"
+id: "TRM-ENG-50605"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "representing Distribution shape"

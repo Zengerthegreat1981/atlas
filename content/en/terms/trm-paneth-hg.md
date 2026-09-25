@@ -1,6 +1,6 @@
 ---
 slug: "trm-paneth-hg"
-id: "TRM-ENG-41911"
+id: "TRM-ENG-56440"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Paneth HG"

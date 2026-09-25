@@ -1,6 +1,6 @@
 ---
 slug: "trm-blair-rj"
-id: "TRM-ENG-47510"
+id: "TRM-ENG-62039"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Blair RJ"

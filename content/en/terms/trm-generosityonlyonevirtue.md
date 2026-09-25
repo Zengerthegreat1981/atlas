@@ -1,6 +1,6 @@
 ---
 slug: "trm-generosityonlyonevirtue"
-id: "TRM-ENG-45911"
+id: "TRM-ENG-60440"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "generosity).Onlyonevirtue"

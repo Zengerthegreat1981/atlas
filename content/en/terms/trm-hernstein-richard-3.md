@@ -1,6 +1,6 @@
 ---
 slug: "trm-hernstein-richard-3"
-id: "TRM-ENG-38167"
+id: "TRM-ENG-52696"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hernstein, Richard, 3"

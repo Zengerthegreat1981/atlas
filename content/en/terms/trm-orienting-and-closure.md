@@ -1,6 +1,6 @@
 ---
 slug: "trm-orienting-and-closure"
-id: "TRM-ENG-44660"
+id: "TRM-ENG-59189"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Orienting and Closure"

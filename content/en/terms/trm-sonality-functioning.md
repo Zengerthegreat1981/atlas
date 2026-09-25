@@ -1,6 +1,6 @@
 ---
 slug: "trm-sonality-functioning"
-id: "TRM-ENG-48597"
+id: "TRM-ENG-63126"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sonality functioning"

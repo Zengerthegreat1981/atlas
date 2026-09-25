@@ -1,6 +1,6 @@
 ---
 slug: "trm-projective-set"
-id: "TRM-ENG-52345"
+id: "TRM-ENG-66874"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Projective set"

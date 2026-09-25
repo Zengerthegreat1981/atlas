@@ -1,6 +1,6 @@
 ---
 slug: "trm-summary-of-4"
-id: "TRM-ENG-41826"
+id: "TRM-ENG-56355"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "summary of, 4"

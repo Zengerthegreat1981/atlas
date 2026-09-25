@@ -1,6 +1,6 @@
 ---
 slug: "trm-deviance-range"
-id: "TRM-ENG-42374"
+id: "TRM-ENG-56903"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Deviance range"

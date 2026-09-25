@@ -1,6 +1,6 @@
 ---
 slug: "trm-for-help-was-reformulated-into-the-question"
-id: "TRM-ENG-46987"
+id: "TRM-ENG-61516"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "for help was reformulated into the question"

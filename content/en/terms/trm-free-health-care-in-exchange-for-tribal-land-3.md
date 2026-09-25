@@ -1,6 +1,6 @@
 ---
 slug: "trm-free-health-care-in-exchange-for-tribal-land-3"
-id: "TRM-ENG-40255"
+id: "TRM-ENG-54784"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "free health care in exchange for tribal land, 3"

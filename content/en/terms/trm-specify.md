@@ -1,6 +1,6 @@
 ---
 slug: "trm-specify"
-id: "TRM-ENG-49886"
+id: "TRM-ENG-64415"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "• Specify"

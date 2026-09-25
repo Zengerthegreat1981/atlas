@@ -1,6 +1,6 @@
 ---
 slug: "trm-berlin-ji-wycoff-b"
-id: "TRM-ENG-39905"
+id: "TRM-ENG-54434"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Berlin JI, Wycoff B"

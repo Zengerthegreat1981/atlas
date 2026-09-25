@@ -1,6 +1,6 @@
 ---
 slug: "trm-natural-assessments-1"
-id: "TRM-ENG-44644"
+id: "TRM-ENG-59173"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Natural assessments, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-developmentalsciencepp391424newyork"
-id: "TRM-ENG-37693"
+id: "TRM-ENG-66751"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "developmentalscience(pp.391–424).NewYork"

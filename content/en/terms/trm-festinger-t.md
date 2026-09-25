@@ -1,6 +1,6 @@
 ---
 slug: "trm-festinger-t"
-id: "TRM-ENG-40522"
+id: "TRM-ENG-55051"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Festinger T"

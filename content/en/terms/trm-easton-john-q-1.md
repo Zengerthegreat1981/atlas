@@ -1,6 +1,6 @@
 ---
 slug: "trm-easton-john-q-1"
-id: "TRM-ENG-46538"
+id: "TRM-ENG-61067"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Easton, John Q., 1"

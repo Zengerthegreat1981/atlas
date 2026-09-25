@@ -1,6 +1,6 @@
 ---
 slug: "trm-glad-d"
-id: "TRM-ENG-40712"
+id: "TRM-ENG-55241"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Glad D"

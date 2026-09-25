@@ -1,6 +1,6 @@
 ---
 slug: "trm-gaylesbian-clients-and-4"
-id: "TRM-ENG-40288"
+id: "TRM-ENG-54817"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "gay/lesbian clients and, 4"

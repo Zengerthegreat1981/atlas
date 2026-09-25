@@ -1,6 +1,6 @@
 ---
 slug: "trm-paulhus-d-l-2001-normal-narcissism"
-id: "TRM-ENG-43499"
+id: "TRM-ENG-58028"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Paulhus, D. L. (2001). Normal narcissism"

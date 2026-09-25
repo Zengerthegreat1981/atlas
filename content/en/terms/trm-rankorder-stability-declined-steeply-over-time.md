@@ -1,6 +1,6 @@
 ---
 slug: "trm-rankorder-stability-declined-steeply-over-time"
-id: "TRM-ENG-43167"
+id: "TRM-ENG-57696"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rank-order stability declined steeply over time"

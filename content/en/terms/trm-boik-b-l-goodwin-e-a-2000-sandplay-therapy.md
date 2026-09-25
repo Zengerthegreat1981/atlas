@@ -1,6 +1,6 @@
 ---
 slug: "trm-boik-b-l-goodwin-e-a-2000-sandplay-therapy"
-id: "TRM-ENG-37715"
+id: "TRM-ENG-66773"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Boik, B. L., & Goodwin, E. A. (2000). Sandplay therapy"

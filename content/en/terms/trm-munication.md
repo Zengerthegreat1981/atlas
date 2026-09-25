@@ -1,6 +1,6 @@
 ---
 slug: "trm-munication"
-id: "TRM-ENG-36732"
+id: "TRM-ENG-65790"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "munication"

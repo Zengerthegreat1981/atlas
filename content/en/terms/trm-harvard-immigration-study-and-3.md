@@ -1,6 +1,6 @@
 ---
 slug: "trm-harvard-immigration-study-and-3"
-id: "TRM-ENG-38153"
+id: "TRM-ENG-52682"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Harvard Immigration Study and, 3"

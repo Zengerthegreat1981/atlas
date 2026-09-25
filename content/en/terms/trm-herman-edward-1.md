@@ -1,6 +1,6 @@
 ---
 slug: "trm-herman-edward-1"
-id: "TRM-ENG-46759"
+id: "TRM-ENG-61288"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Herman, Edward, 1"

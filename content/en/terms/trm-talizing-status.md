@@ -1,6 +1,6 @@
 ---
 slug: "trm-talizing-status"
-id: "TRM-ENG-48625"
+id: "TRM-ENG-63154"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "talizing status"

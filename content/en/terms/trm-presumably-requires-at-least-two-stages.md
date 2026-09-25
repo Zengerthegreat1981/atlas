@@ -1,6 +1,6 @@
 ---
 slug: "trm-presumably-requires-at-least-two-stages"
-id: "TRM-ENG-45436"
+id: "TRM-ENG-59965"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "presumably requires at least two stages"

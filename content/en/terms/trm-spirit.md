@@ -1,6 +1,6 @@
 ---
 slug: "trm-spirit"
-id: "TRM-ENG-45791"
+id: "TRM-ENG-60320"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spirit"

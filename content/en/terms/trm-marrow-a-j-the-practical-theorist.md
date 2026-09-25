@@ -1,6 +1,6 @@
 ---
 slug: "trm-marrow-a-j-the-practical-theorist"
-id: "TRM-ENG-44516"
+id: "TRM-ENG-59045"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Marrow, A. J., The Practical Theorist"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-jaffem-w-1963studiesofillnessin-the-aged"
-id: "TRM-ENG-46573"
+id: "TRM-ENG-61102"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jaffe,M. W. (1963).Studiesofillnessin the aged"

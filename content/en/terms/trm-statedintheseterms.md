@@ -1,6 +1,6 @@
 ---
 slug: "trm-statedintheseterms"
-id: "TRM-ENG-38272"
+id: "TRM-ENG-52801"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "statedintheseterms"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-eg-avoidant"
-id: "TRM-ENG-47398"
+id: "TRM-ENG-61927"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(e.g., avoidant"

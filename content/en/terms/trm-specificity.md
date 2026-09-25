@@ -1,6 +1,6 @@
 ---
 slug: "trm-specificity"
-id: "TRM-ENG-35566"
+id: "TRM-ENG-64624"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Specificity"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-erikson-e-1977-toys-and-reasonsnew-york"
-id: "TRM-ENG-35660"
+id: "TRM-ENG-64718"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Erikson, E. (1977). Toys and reasons.New York"

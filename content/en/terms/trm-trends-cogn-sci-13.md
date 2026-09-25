@@ -1,6 +1,6 @@
 ---
 slug: "trm-trends-cogn-sci-13"
-id: "TRM-ENG-48129"
+id: "TRM-ENG-62658"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Trends Cogn Sci 13"

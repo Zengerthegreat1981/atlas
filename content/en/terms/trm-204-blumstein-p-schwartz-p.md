@@ -1,6 +1,6 @@
 ---
 slug: "trm-204-blumstein-p-schwartz-p"
-id: "TRM-ENG-38715"
+id: "TRM-ENG-53244"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "204. Blumstein P, Schwartz P"

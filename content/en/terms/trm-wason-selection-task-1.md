@@ -1,6 +1,6 @@
 ---
 slug: "trm-wason-selection-task-1"
-id: "TRM-ENG-44844"
+id: "TRM-ENG-59373"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wason selection task, 1"

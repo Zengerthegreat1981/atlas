@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognition-cambridge-ma"
-id: "TRM-ENG-45008"
+id: "TRM-ENG-59537"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cognition. Cambridge, MA"

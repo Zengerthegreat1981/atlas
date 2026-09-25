@@ -1,6 +1,6 @@
 ---
 slug: "trm-apawork-of-1"
-id: "TRM-ENG-37523"
+id: "TRM-ENG-66581"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "APAwork of, 1"

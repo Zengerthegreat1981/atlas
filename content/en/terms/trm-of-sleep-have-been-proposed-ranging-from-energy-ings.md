@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-sleep-have-been-proposed-ranging-from-energy-ings"
-id: "TRM-ENG-45353"
+id: "TRM-ENG-59882"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of sleep have been proposed, ranging from energy ings"

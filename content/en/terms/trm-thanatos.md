@@ -1,6 +1,6 @@
 ---
 slug: "trm-thanatos"
-id: "TRM-ENG-52426"
+id: "TRM-ENG-66955"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Thanatos"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-dynamics-of-the-psycheprinceton"
-id: "TRM-ENG-36126"
+id: "TRM-ENG-65184"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and dynamics of the psyche.Princeton"

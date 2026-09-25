@@ -1,6 +1,6 @@
 ---
 slug: "trm-set-out-in-his-book-universities"
-id: "TRM-ENG-48706"
+id: "TRM-ENG-63235"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "set out in his book Universities"

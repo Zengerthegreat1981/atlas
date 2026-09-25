@@ -1,6 +1,6 @@
 ---
 slug: "trm-dopamine"
-id: "TRM-ENG-52138"
+id: "TRM-ENG-66667"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dopamine"

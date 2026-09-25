@@ -1,6 +1,6 @@
 ---
 slug: "trm-gion"
-id: "TRM-ENG-36488"
+id: "TRM-ENG-51017"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "gion"

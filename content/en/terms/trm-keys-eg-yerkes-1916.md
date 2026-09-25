@@ -1,6 +1,6 @@
 ---
 slug: "trm-keys-eg-yerkes-1916"
-id: "TRM-ENG-37906"
+id: "TRM-ENG-66964"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "keys (e.g., Yerkes 1916)"

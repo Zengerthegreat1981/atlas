@@ -1,6 +1,6 @@
 ---
 slug: "trm-ties-and-only-a-few-individuals"
-id: "TRM-ENG-48910"
+id: "TRM-ENG-63439"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ties, and only a few individuals"

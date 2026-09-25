@@ -1,6 +1,6 @@
 ---
 slug: "trm-view-arch-gen-psychiatry-37"
-id: "TRM-ENG-48723"
+id: "TRM-ENG-63252"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "view. Arch Gen Psychiatry 37"

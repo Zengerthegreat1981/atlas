@@ -1,6 +1,6 @@
 ---
 slug: "trm-phreniapp115145chichesteruk"
-id: "TRM-ENG-49617"
+id: "TRM-ENG-64146"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "phrenia(pp.115±145).Chichester,UK"

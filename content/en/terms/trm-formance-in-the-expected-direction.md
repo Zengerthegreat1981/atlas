@@ -1,6 +1,6 @@
 ---
 slug: "trm-formance-in-the-expected-direction"
-id: "TRM-ENG-35818"
+id: "TRM-ENG-64876"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "formance in the expected direction"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-dsm-ii-lists-five-types-under-this-heading"
-id: "TRM-ENG-44344"
+id: "TRM-ENG-58873"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "DSM II lists five types under this heading"

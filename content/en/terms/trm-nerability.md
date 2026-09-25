@@ -1,6 +1,6 @@
 ---
 slug: "trm-nerability"
-id: "TRM-ENG-45966"
+id: "TRM-ENG-60495"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nerability"

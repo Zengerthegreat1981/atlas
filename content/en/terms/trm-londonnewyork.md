@@ -1,6 +1,6 @@
 ---
 slug: "trm-londonnewyork"
-id: "TRM-ENG-45736"
+id: "TRM-ENG-60265"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "London,NewYork"

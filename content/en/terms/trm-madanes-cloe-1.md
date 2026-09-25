@@ -1,6 +1,6 @@
 ---
 slug: "trm-madanes-cloe-1"
-id: "TRM-ENG-50692"
+id: "TRM-ENG-65221"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Madanes, Cloe, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ments-that-worknew-york"
-id: "TRM-ENG-36712"
+id: "TRM-ENG-65770"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ments that work.New York"

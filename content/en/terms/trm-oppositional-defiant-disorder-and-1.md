@@ -1,6 +1,6 @@
 ---
 slug: "trm-oppositional-defiant-disorder-and-1"
-id: "TRM-ENG-41053"
+id: "TRM-ENG-55582"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "oppositional defiant disorder and, 1"

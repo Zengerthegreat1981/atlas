@@ -1,6 +1,6 @@
 ---
 slug: "trm-bowman-km-simon-a-hine-ch-et-al"
-id: "TRM-ENG-40010"
+id: "TRM-ENG-54539"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bowman KM, Simon A, Hine CH, et al"

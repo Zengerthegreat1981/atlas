@@ -1,6 +1,6 @@
 ---
 slug: "trm-between-facets-and-domains"
-id: "TRM-ENG-43389"
+id: "TRM-ENG-57918"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Between facets and domains"

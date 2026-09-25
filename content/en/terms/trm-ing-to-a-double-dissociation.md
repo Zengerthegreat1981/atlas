@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-to-a-double-dissociation"
-id: "TRM-ENG-45216"
+id: "TRM-ENG-59745"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing to a double dissociation"

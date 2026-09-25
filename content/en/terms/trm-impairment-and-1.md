@@ -1,6 +1,6 @@
 ---
 slug: "trm-impairment-and-1"
-id: "TRM-ENG-40457"
+id: "TRM-ENG-54986"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "impairment and, 1"

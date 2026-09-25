@@ -1,6 +1,6 @@
 ---
 slug: "trm-ened-limbs"
-id: "TRM-ENG-36399"
+id: "TRM-ENG-65457"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ened limbs"

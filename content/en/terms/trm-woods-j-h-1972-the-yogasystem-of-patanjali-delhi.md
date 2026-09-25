@@ -1,6 +1,6 @@
 ---
 slug: "trm-woods-j-h-1972-the-yogasystem-of-patanjali-delhi"
-id: "TRM-ENG-37446"
+id: "TRM-ENG-66504"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Woods, J. H. (1972). The Yoga-system of Patan˜jali. Delhi"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-miller-pm-mastria-ma"
-id: "TRM-ENG-41725"
+id: "TRM-ENG-56254"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Miller PM, Mastria MA"

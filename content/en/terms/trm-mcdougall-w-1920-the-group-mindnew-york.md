@@ -1,6 +1,6 @@
 ---
 slug: "trm-mcdougall-w-1920-the-group-mindnew-york"
-id: "TRM-ENG-35836"
+id: "TRM-ENG-50365"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "McDougall, W. (1920). The group mind.New York"

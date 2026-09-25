@@ -1,6 +1,6 @@
 ---
 slug: "trm-vols-2-3-g-highet-trans-oxford-england"
-id: "TRM-ENG-46126"
+id: "TRM-ENG-60655"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Vols. 2 & 3; G. Highet, Trans.). Oxford, England"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-back-k-w-and-bourque-l-b-life-graphs"
-id: "TRM-ENG-44267"
+id: "TRM-ENG-58796"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Back, K. W., and Bourque, L. B., “Life Graphs"

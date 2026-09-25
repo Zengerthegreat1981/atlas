@@ -1,6 +1,6 @@
 ---
 slug: "trm-osipow-and-4"
-id: "TRM-ENG-38545"
+id: "TRM-ENG-53074"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Osipow) and, 4"

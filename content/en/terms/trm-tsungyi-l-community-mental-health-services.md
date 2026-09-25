@@ -1,6 +1,6 @@
 ---
 slug: "trm-tsungyi-l-community-mental-health-services"
-id: "TRM-ENG-44677"
+id: "TRM-ENG-59206"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tsung-Yi, L., “Community Mental Health Services"

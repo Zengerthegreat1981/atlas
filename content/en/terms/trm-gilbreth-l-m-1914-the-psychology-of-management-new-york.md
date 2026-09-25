@@ -1,6 +1,6 @@
 ---
 slug: "trm-gilbreth-l-m-1914-the-psychology-of-management-new-york"
-id: "TRM-ENG-36845"
+id: "TRM-ENG-65903"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gilbreth, L. M. (1914). The psychology of management. New York"

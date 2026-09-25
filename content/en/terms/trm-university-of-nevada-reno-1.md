@@ -1,6 +1,6 @@
 ---
 slug: "trm-university-of-nevada-reno-1"
-id: "TRM-ENG-51135"
+id: "TRM-ENG-65664"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "University of Nevada, Reno, 1"

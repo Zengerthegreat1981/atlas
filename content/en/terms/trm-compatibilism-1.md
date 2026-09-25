@@ -1,6 +1,6 @@
 ---
 slug: "trm-compatibilism-1"
-id: "TRM-ENG-44392"
+id: "TRM-ENG-58921"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Compatibilism, 1"

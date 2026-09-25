@@ -1,6 +1,6 @@
 ---
 slug: "trm-geller-b-luby-j-1997-child-and-adolescent-bipolar-disorder"
-id: "TRM-ENG-35701"
+id: "TRM-ENG-50230"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Geller, B., & Luby, J. (1997). Child and adolescent bipolar disorder"

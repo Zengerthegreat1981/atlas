@@ -1,6 +1,6 @@
 ---
 slug: "trm-carrington-p-ephron-hs"
-id: "TRM-ENG-40135"
+id: "TRM-ENG-54664"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Carrington P, Ephron HS"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-adulthood-new-york"
-id: "TRM-ENG-42587"
+id: "TRM-ENG-57116"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "adulthood. New York"

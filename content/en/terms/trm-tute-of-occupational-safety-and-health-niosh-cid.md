@@ -1,6 +1,6 @@
 ---
 slug: "trm-tute-of-occupational-safety-and-health-niosh-cid"
-id: "TRM-ENG-46260"
+id: "TRM-ENG-60789"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tute of Occupational Safety and Health (NIOSH), (cid"

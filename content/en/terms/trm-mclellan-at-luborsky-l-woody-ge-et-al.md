@@ -1,6 +1,6 @@
 ---
 slug: "trm-mclellan-at-luborsky-l-woody-ge-et-al"
-id: "TRM-ENG-41656"
+id: "TRM-ENG-56185"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "McLellan AT, Luborsky L, Woody GE et al"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-1-grandiosity-an-aspect-of-antagonism"
-id: "TRM-ENG-47402"
+id: "TRM-ENG-61931"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1. Grandiosity (an aspect of Antagonism)"

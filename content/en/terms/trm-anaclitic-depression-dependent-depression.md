@@ -1,6 +1,6 @@
 ---
 slug: "trm-anaclitic-depression-dependent-depression"
-id: "TRM-ENG-43523"
+id: "TRM-ENG-58052"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "anaclitic depression dependent depression"

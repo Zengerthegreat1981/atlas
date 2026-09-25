@@ -1,6 +1,6 @@
 ---
 slug: "trm-education-london-england"
-id: "TRM-ENG-47931"
+id: "TRM-ENG-62460"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "education. London, England"

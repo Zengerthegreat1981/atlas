@@ -1,6 +1,6 @@
 ---
 slug: "trm-ncsr"
-id: "TRM-ENG-35156"
+id: "TRM-ENG-64214"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(NCS-R)"

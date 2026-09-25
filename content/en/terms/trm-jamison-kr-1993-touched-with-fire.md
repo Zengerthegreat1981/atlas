@@ -1,6 +1,6 @@
 ---
 slug: "trm-jamison-kr-1993-touched-with-fire"
-id: "TRM-ENG-35771"
+id: "TRM-ENG-50300"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jamison, K.R. (1993). Touched with fire"

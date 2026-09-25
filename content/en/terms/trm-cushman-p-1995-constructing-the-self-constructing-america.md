@@ -1,6 +1,6 @@
 ---
 slug: "trm-cushman-p-1995-constructing-the-self-constructing-america"
-id: "TRM-ENG-36713"
+id: "TRM-ENG-65771"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cushman, P. (1995). Constructing the self, constructing America"

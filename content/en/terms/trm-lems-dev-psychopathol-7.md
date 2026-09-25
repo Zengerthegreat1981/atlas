@@ -1,6 +1,6 @@
 ---
 slug: "trm-lems-dev-psychopathol-7"
-id: "TRM-ENG-48425"
+id: "TRM-ENG-62954"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lems. Dev Psychopathol 7"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-them-in-accord-with-two-principles"
-id: "TRM-ENG-48871"
+id: "TRM-ENG-63400"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "them in accord with two principles"

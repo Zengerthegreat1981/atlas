@@ -1,6 +1,6 @@
 ---
 slug: "trm-vegetative-state-pvs"
-id: "TRM-ENG-35112"
+id: "TRM-ENG-64170"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "vegetative state (PVS)"

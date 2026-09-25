@@ -1,6 +1,6 @@
 ---
 slug: "trm-religious-devotion-taking-the-lead-from-the-taittirya-ces"
-id: "TRM-ENG-38208"
+id: "TRM-ENG-52737"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "religious devotion. Taking the lead from the Taittir¯ıya ces"

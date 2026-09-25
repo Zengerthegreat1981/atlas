@@ -1,6 +1,6 @@
 ---
 slug: "trm-christensen-c"
-id: "TRM-ENG-40176"
+id: "TRM-ENG-54705"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Christensen C"

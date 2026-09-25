@@ -1,6 +1,6 @@
 ---
 slug: "trm-thalamic-nuclei"
-id: "TRM-ENG-35068"
+id: "TRM-ENG-64126"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thalamic nuclei"

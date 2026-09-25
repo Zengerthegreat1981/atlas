@@ -1,6 +1,6 @@
 ---
 slug: "trm-stigma-staring-and-discomfort"
-id: "TRM-ENG-46730"
+id: "TRM-ENG-61259"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stigma, staring and discomfort"

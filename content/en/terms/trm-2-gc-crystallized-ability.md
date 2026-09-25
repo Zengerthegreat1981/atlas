@@ -1,6 +1,6 @@
 ---
 slug: "trm-2-gc-crystallized-ability"
-id: "TRM-ENG-36280"
+id: "TRM-ENG-65338"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2) gc Crystallized ability"

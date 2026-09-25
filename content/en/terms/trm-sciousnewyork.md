@@ -1,6 +1,6 @@
 ---
 slug: "trm-sciousnewyork"
-id: "TRM-ENG-38239"
+id: "TRM-ENG-52768"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "scious.NewYork"

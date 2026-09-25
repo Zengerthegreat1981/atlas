@@ -1,6 +1,6 @@
 ---
 slug: "trm-composedare"
-id: "TRM-ENG-37645"
+id: "TRM-ENG-66703"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "composedare"

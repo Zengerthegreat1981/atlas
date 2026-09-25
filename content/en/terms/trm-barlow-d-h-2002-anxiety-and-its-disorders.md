@@ -1,6 +1,6 @@
 ---
 slug: "trm-barlow-d-h-2002-anxiety-and-its-disorders"
-id: "TRM-ENG-37669"
+id: "TRM-ENG-66727"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Barlow, D. H. (2002). Anxiety and its disorders"

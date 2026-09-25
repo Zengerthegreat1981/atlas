@@ -1,6 +1,6 @@
 ---
 slug: "trm-towhichhecontributedsteadilyforthenext30years"
-id: "TRM-ENG-38391"
+id: "TRM-ENG-52920"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "towhichhecontributedsteadilyforthenext30years"

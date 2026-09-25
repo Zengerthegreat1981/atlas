@@ -1,6 +1,6 @@
 ---
 slug: "trm-fully-adaptive-testing-and-2"
-id: "TRM-ENG-40262"
+id: "TRM-ENG-54791"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "fully adaptive testing and, 2"

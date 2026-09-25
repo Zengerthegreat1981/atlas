@@ -1,6 +1,6 @@
 ---
 slug: "trm-yogaenglewoodcliffs"
-id: "TRM-ENG-38470"
+id: "TRM-ENG-52999"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "yoga.EnglewoodCliffs"

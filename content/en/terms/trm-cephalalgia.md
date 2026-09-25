@@ -1,6 +1,6 @@
 ---
 slug: "trm-cephalalgia"
-id: "TRM-ENG-52101"
+id: "TRM-ENG-66630"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cephalalgia"

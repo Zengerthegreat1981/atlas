@@ -1,6 +1,6 @@
 ---
 slug: "trm-chiel-hj-beer-rd-1997-the-brain-has-a-body"
-id: "TRM-ENG-35621"
+id: "TRM-ENG-50150"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Chiel, H.J., & Beer, R.D. (1997). The brain has a body"

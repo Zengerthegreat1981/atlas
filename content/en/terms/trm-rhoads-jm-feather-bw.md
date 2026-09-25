@@ -1,6 +1,6 @@
 ---
 slug: "trm-rhoads-jm-feather-bw"
-id: "TRM-ENG-42105"
+id: "TRM-ENG-56634"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rhoads JM, Feather BW"

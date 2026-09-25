@@ -1,6 +1,6 @@
 ---
 slug: "trm-metaanalysis-research-on-2"
-id: "TRM-ENG-40839"
+id: "TRM-ENG-55368"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "meta-analysis research on, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-derubeis-rj-hollon-sd"
-id: "TRM-ENG-40321"
+id: "TRM-ENG-54850"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "DeRubeis RJ, Hollon SD"

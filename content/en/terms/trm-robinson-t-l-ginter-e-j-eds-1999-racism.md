@@ -1,6 +1,6 @@
 ---
 slug: "trm-robinson-t-l-ginter-e-j-eds-1999-racism"
-id: "TRM-ENG-38687"
+id: "TRM-ENG-53216"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Robinson, T. L., & Ginter, E. J. (Eds.). (1999). Racism"

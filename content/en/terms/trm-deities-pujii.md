@@ -1,6 +1,6 @@
 ---
 slug: "trm-deities-pujii"
-id: "TRM-ENG-34964"
+id: "TRM-ENG-64022"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "deities ( “pujii”)"

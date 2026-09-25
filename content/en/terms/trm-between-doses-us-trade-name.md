@@ -1,6 +1,6 @@
 ---
 slug: "trm-between-doses-us-trade-name"
-id: "TRM-ENG-43560"
+id: "TRM-ENG-58089"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "between doses. U.S. trade name"

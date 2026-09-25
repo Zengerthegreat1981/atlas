@@ -1,6 +1,6 @@
 ---
 slug: "trm-kim-s-k-3"
-id: "TRM-ENG-38325"
+id: "TRM-ENG-52854"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kim, S. K., 3"

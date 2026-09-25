@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-more-balanced-view-of-themselves"
-id: "TRM-ENG-42575"
+id: "TRM-ENG-57104"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "a more balanced view of themselves"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-researchers-observation"
-id: "TRM-ENG-35287"
+id: "TRM-ENG-49816"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "researchers’ observation"

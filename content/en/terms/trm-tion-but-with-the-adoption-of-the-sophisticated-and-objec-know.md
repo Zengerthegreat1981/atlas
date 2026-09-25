@@ -1,6 +1,6 @@
 ---
 slug: "trm-tion-but-with-the-adoption-of-the-sophisticated-and-objec-know"
-id: "TRM-ENG-37185"
+id: "TRM-ENG-66243"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tion, but with the adoption of the sophisticated and objec- know?"

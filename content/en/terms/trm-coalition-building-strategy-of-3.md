@@ -1,6 +1,6 @@
 ---
 slug: "trm-coalition-building-strategy-of-3"
-id: "TRM-ENG-39545"
+id: "TRM-ENG-54074"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "coalition building strategy of, 3"

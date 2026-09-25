@@ -1,6 +1,6 @@
 ---
 slug: "trm-contended-all-people-must-address-three-tasks"
-id: "TRM-ENG-39680"
+id: "TRM-ENG-54209"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "contended, all people must address three tasks"

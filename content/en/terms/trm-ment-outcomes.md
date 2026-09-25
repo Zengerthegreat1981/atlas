@@ -1,6 +1,6 @@
 ---
 slug: "trm-ment-outcomes"
-id: "TRM-ENG-40823"
+id: "TRM-ENG-55352"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ment outcomes"

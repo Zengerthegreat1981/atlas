@@ -1,6 +1,6 @@
 ---
 slug: "trm-force-on-socioeconomic-status-washington-dc"
-id: "TRM-ENG-38078"
+id: "TRM-ENG-67136"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Force on Socioeconomic Status. Washington, DC"

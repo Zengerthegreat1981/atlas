@@ -1,6 +1,6 @@
 ---
 slug: "trm-tal-retardation-in-the-western-world-prenatal-exposure-to-iii-category-3"
-id: "TRM-ENG-37063"
+id: "TRM-ENG-66121"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tal retardation in the Western world. Prenatal exposure to III. Category 3"

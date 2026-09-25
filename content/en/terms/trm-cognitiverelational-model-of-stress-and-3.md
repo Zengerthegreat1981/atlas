@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognitiverelational-model-of-stress-and-3"
-id: "TRM-ENG-39568"
+id: "TRM-ENG-54097"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cognitive-relational model of stress and, 3"

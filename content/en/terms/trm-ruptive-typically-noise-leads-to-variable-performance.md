@@ -1,6 +1,6 @@
 ---
 slug: "trm-ruptive-typically-noise-leads-to-variable-performance"
-id: "TRM-ENG-36947"
+id: "TRM-ENG-66005"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ruptive. Typically, noise leads to variable performance"

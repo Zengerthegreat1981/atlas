@@ -1,6 +1,6 @@
 ---
 slug: "trm-goals"
-id: "TRM-ENG-43672"
+id: "TRM-ENG-58201"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "goals."

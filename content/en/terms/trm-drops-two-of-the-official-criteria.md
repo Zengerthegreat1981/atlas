@@ -1,6 +1,6 @@
 ---
 slug: "trm-drops-two-of-the-official-criteria"
-id: "TRM-ENG-42789"
+id: "TRM-ENG-57318"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "drops two of the official criteria"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-jacobson-e-kehlet-h-larsen-v-et-al"
-id: "TRM-ENG-41103"
+id: "TRM-ENG-55632"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jacobson E, Kehlet H, Larsen V, et al"

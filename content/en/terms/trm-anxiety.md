@@ -1,6 +1,6 @@
 ---
 slug: "trm-anxiety"
-id: "TRM-ENG-36149"
+id: "TRM-ENG-65207"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "anxiety"

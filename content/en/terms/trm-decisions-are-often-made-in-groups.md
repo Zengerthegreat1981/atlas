@@ -1,6 +1,6 @@
 ---
 slug: "trm-decisions-are-often-made-in-groups"
-id: "TRM-ENG-44419"
+id: "TRM-ENG-58948"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Decisions are often made in groups"

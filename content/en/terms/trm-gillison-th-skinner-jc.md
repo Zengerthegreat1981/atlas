@@ -1,6 +1,6 @@
 ---
 slug: "trm-gillison-th-skinner-jc"
-id: "TRM-ENG-40706"
+id: "TRM-ENG-55235"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gillison TH, Skinner JC"

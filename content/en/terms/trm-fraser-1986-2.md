@@ -1,6 +1,6 @@
 ---
 slug: "trm-fraser-1986-2"
-id: "TRM-ENG-46645"
+id: "TRM-ENG-61174"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fraser (1986), 2"

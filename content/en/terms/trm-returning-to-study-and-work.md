@@ -1,6 +1,6 @@
 ---
 slug: "trm-returning-to-study-and-work"
-id: "TRM-ENG-45290"
+id: "TRM-ENG-59819"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "returning to study and work"

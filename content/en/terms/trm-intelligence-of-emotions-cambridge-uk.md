@@ -1,6 +1,6 @@
 ---
 slug: "trm-intelligence-of-emotions-cambridge-uk"
-id: "TRM-ENG-45223"
+id: "TRM-ENG-59752"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "intelligence of emotions. Cambridge, UK"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-personality-theoriessocial-cognitive2"
-id: "TRM-ENG-38594"
+id: "TRM-ENG-53123"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Personality theories,social cognitive,2"

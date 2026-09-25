@@ -1,6 +1,6 @@
 ---
 slug: "trm-socioeconomic-statusses-3"
-id: "TRM-ENG-38798"
+id: "TRM-ENG-53327"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Socioeconomic status(SES), 3"

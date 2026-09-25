@@ -1,6 +1,6 @@
 ---
 slug: "trm-2003-screening-for-serious-mental-illness-in-the-test"
-id: "TRM-ENG-35137"
+id: "TRM-ENG-64195"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2003). Screening for serious mental illness in the test"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-olfaction"
-id: "TRM-ENG-34970"
+id: "TRM-ENG-49499"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "olfaction"

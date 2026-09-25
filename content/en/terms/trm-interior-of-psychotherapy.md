@@ -1,6 +1,6 @@
 ---
 slug: "trm-interior-of-psychotherapy"
-id: "TRM-ENG-40600"
+id: "TRM-ENG-55129"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "interior of psychotherapy"

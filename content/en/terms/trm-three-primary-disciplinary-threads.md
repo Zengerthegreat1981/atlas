@@ -1,6 +1,6 @@
 ---
 slug: "trm-three-primary-disciplinary-threads"
-id: "TRM-ENG-38357"
+id: "TRM-ENG-52886"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "three primary disciplinary threads"

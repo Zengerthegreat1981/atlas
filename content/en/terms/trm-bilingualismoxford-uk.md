@@ -1,6 +1,6 @@
 ---
 slug: "trm-bilingualismoxford-uk"
-id: "TRM-ENG-39371"
+id: "TRM-ENG-53900"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bilingualism.Oxford, UK"

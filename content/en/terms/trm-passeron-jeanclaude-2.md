@@ -1,6 +1,6 @@
 ---
 slug: "trm-passeron-jeanclaude-2"
-id: "TRM-ENG-47110"
+id: "TRM-ENG-61639"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Passeron, Jean-Claude, 2"

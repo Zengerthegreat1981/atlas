@@ -1,6 +1,6 @@
 ---
 slug: "trm-orientations-new-york"
-id: "TRM-ENG-41073"
+id: "TRM-ENG-55602"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "orientations. New York"

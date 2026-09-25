@@ -1,6 +1,6 @@
 ---
 slug: "trm-coyle-j-t-2006-glutamate-and-schizophrenia"
-id: "TRM-ENG-42364"
+id: "TRM-ENG-56893"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Coyle, J. T. (2006). Glutamate and schizophrenia"

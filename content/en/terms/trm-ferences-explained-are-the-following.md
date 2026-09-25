@@ -1,6 +1,6 @@
 ---
 slug: "trm-ferences-explained-are-the-following"
-id: "TRM-ENG-36431"
+id: "TRM-ENG-65489"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ferences explained, are the following"

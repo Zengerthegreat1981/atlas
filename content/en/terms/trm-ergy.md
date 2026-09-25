@@ -1,6 +1,6 @@
 ---
 slug: "trm-ergy"
-id: "TRM-ENG-43640"
+id: "TRM-ENG-58169"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ergy"

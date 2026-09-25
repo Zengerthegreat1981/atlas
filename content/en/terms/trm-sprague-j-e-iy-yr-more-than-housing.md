@@ -1,6 +1,6 @@
 ---
 slug: "trm-sprague-j-e-iy-yr-more-than-housing"
-id: "TRM-ENG-34796"
+id: "TRM-ENG-63854"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sprague. J. E (Iy yr) More than housing"

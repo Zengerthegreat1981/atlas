@@ -1,6 +1,6 @@
 ---
 slug: "trm-grownups"
-id: "TRM-ENG-48090"
+id: "TRM-ENG-62619"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "grownups"

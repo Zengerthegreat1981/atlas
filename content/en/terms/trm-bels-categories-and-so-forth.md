@@ -1,6 +1,6 @@
 ---
 slug: "trm-bels-categories-and-so-forth"
-id: "TRM-ENG-45543"
+id: "TRM-ENG-60072"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bels, categories, and so forth"

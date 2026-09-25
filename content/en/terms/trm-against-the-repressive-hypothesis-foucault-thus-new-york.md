@@ -1,6 +1,6 @@
 ---
 slug: "trm-against-the-repressive-hypothesis-foucault-thus-new-york"
-id: "TRM-ENG-37493"
+id: "TRM-ENG-66551"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "against the “repressive hypothesis,” Foucault thus New York"

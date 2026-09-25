@@ -1,6 +1,6 @@
 ---
 slug: "trm-kublerross-e"
-id: "TRM-ENG-41326"
+id: "TRM-ENG-55855"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kubler-Ross E"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-halting-of-her-activity-i-remarked-to-her"
-id: "TRM-ENG-43058"
+id: "TRM-ENG-57587"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "halting of her activity. I remarked to her"

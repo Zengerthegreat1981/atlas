@@ -1,6 +1,6 @@
 ---
 slug: "trm-de-la-fuente-jm-lotstra-f"
-id: "TRM-ENG-48286"
+id: "TRM-ENG-62815"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "de la Fuente JM, Lotstra F"

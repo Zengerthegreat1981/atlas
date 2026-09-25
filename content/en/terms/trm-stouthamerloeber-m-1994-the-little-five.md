@@ -1,6 +1,6 @@
 ---
 slug: "trm-stouthamerloeber-m-1994-the-little-five"
-id: "TRM-ENG-43564"
+id: "TRM-ENG-58093"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stouthamer-Loeber, M. (1994). The “little five”"

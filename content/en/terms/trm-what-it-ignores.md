@@ -1,6 +1,6 @@
 ---
 slug: "trm-what-it-ignores"
-id: "TRM-ENG-45428"
+id: "TRM-ENG-59957"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "what it ignores"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-table-8-on-the-website-http"
-id: "TRM-ENG-48781"
+id: "TRM-ENG-63310"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "table 8 on the website; http"

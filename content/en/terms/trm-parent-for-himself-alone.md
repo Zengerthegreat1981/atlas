@@ -1,6 +1,6 @@
 ---
 slug: "trm-parent-for-himself-alone"
-id: "TRM-ENG-45215"
+id: "TRM-ENG-59744"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "parent for himself alone"

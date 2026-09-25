@@ -1,6 +1,6 @@
 ---
 slug: "trm-kurkimsinclaira2010hiddeninplainsight"
-id: "TRM-ENG-37016"
+id: "TRM-ENG-51545"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kurki,M.,&Sinclair,A.(2010).Hiddeninplainsight"

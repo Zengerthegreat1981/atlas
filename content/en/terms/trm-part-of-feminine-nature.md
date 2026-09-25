@@ -1,6 +1,6 @@
 ---
 slug: "trm-part-of-feminine-nature"
-id: "TRM-ENG-45219"
+id: "TRM-ENG-59748"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "part of feminine nature"

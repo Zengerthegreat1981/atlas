@@ -1,6 +1,6 @@
 ---
 slug: "trm-ferentiable-mental-abilitiesstanford-ca"
-id: "TRM-ENG-36433"
+id: "TRM-ENG-65491"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ferentiable mental abilities.Stanford, CA"

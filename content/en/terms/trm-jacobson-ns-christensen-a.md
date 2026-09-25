@@ -1,6 +1,6 @@
 ---
 slug: "trm-jacobson-ns-christensen-a"
-id: "TRM-ENG-47765"
+id: "TRM-ENG-62294"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jacobson NS, Christensen A"

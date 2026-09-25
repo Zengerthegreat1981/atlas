@@ -1,6 +1,6 @@
 ---
 slug: "trm-erations"
-id: "TRM-ENG-45101"
+id: "TRM-ENG-59630"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "erations"

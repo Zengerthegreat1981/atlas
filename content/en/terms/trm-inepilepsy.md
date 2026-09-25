@@ -1,6 +1,6 @@
 ---
 slug: "trm-inepilepsy"
-id: "TRM-ENG-47045"
+id: "TRM-ENG-61574"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "inepilepsy"

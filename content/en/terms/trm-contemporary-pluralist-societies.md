@@ -1,6 +1,6 @@
 ---
 slug: "trm-contemporary-pluralist-societies"
-id: "TRM-ENG-47820"
+id: "TRM-ENG-62349"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "contemporary pluralist societies"

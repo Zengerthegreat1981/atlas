@@ -1,6 +1,6 @@
 ---
 slug: "trm-son-lockes-readers-are-asked-to-examine-them-england"
-id: "TRM-ENG-48737"
+id: "TRM-ENG-63266"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "son. Locke’s readers are asked to examine them- England"

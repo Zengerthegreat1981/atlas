@@ -1,6 +1,6 @@
 ---
 slug: "trm-benedek-t"
-id: "TRM-ENG-39873"
+id: "TRM-ENG-54402"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Benedek T"

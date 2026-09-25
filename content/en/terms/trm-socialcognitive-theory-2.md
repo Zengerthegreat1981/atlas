@@ -1,6 +1,6 @@
 ---
 slug: "trm-socialcognitive-theory-2"
-id: "TRM-ENG-44781"
+id: "TRM-ENG-59310"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Social-cognitive theory, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-your-practice-pp-308320-hoboken-nj"
-id: "TRM-ENG-51982"
+id: "TRM-ENG-66511"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "your practice (pp. 308–320). Hoboken, NJ"

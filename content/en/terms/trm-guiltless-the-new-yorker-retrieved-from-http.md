@@ -1,6 +1,6 @@
 ---
 slug: "trm-guiltless-the-new-yorker-retrieved-from-http"
-id: "TRM-ENG-51500"
+id: "TRM-ENG-66029"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "guiltless. The New Yorker. Retrieved from http"

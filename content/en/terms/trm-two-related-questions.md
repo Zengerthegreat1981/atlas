@@ -1,6 +1,6 @@
 ---
 slug: "trm-two-related-questions"
-id: "TRM-ENG-48988"
+id: "TRM-ENG-63517"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "two related questions"

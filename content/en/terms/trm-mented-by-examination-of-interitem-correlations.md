@@ -1,6 +1,6 @@
 ---
 slug: "trm-mented-by-examination-of-interitem-correlations"
-id: "TRM-ENG-35946"
+id: "TRM-ENG-65004"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mented by examination of interitem correlations"

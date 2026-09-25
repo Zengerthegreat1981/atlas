@@ -1,6 +1,6 @@
 ---
 slug: "trm-bennett-ae-hargrove-fa-engle-b"
-id: "TRM-ENG-39877"
+id: "TRM-ENG-54406"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bennett AE, Hargrove FA, Engle B"

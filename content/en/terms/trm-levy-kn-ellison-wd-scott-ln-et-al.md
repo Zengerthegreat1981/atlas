@@ -1,6 +1,6 @@
 ---
 slug: "trm-levy-kn-ellison-wd-scott-ln-et-al"
-id: "TRM-ENG-47832"
+id: "TRM-ENG-62361"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Levy KN, Ellison WD, Scott LN, et al"

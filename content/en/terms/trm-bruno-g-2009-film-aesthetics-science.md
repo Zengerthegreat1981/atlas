@@ -1,6 +1,6 @@
 ---
 slug: "trm-bruno-g-2009-film-aesthetics-science"
-id: "TRM-ENG-36665"
+id: "TRM-ENG-65723"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bruno, G. (2009). Film, aesthetics, science"

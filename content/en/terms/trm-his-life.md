@@ -1,6 +1,6 @@
 ---
 slug: "trm-his-life"
-id: "TRM-ENG-45077"
+id: "TRM-ENG-59606"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "his life"

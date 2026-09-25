@@ -1,6 +1,6 @@
 ---
 slug: "trm-batchelder-r986-is-based-on-the-theoretical-idea-of-new-york"
-id: "TRM-ENG-34631"
+id: "TRM-ENG-49160"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Batchelder (r986). is based on the theoretical idea of New York"

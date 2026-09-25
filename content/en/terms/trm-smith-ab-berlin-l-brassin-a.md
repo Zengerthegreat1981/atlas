@@ -1,6 +1,6 @@
 ---
 slug: "trm-smith-ab-berlin-l-brassin-a"
-id: "TRM-ENG-42376"
+id: "TRM-ENG-56905"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Smith AB, Berlin L, Brassin A"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-lisbet-benjamin-1"
-id: "TRM-ENG-46937"
+id: "TRM-ENG-61466"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lisbet, Benjamin, 1"

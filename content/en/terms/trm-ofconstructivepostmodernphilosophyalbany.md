@@ -1,6 +1,6 @@
 ---
 slug: "trm-ofconstructivepostmodernphilosophyalbany"
-id: "TRM-ENG-38035"
+id: "TRM-ENG-52564"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ofconstructivepostmodernphilosophy.Albany"

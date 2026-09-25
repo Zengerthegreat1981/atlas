@@ -1,6 +1,6 @@
 ---
 slug: "trm-typically-outnumber-females-by-a-ratio-of-35"
-id: "TRM-ENG-35439"
+id: "TRM-ENG-49968"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "typically outnumber females by a ratio of 3-5"

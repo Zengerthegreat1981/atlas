@@ -1,6 +1,6 @@
 ---
 slug: "trm-symptoms-share-a-common-theme"
-id: "TRM-ENG-45546"
+id: "TRM-ENG-60075"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "symptoms share a common theme"

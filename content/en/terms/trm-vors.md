@@ -1,6 +1,6 @@
 ---
 slug: "trm-vors"
-id: "TRM-ENG-37298"
+id: "TRM-ENG-66356"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "vors"

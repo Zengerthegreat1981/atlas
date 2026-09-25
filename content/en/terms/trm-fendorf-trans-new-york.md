@@ -1,6 +1,6 @@
 ---
 slug: "trm-fendorf-trans-new-york"
-id: "TRM-ENG-42826"
+id: "TRM-ENG-57355"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "fendorf, Trans.). New York"

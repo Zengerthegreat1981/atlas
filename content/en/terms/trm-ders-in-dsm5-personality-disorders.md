@@ -1,6 +1,6 @@
 ---
 slug: "trm-ders-in-dsm5-personality-disorders"
-id: "TRM-ENG-42759"
+id: "TRM-ENG-57288"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ders in DSM-5. Personality Disorders"

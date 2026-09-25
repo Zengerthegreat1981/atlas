@@ -1,6 +1,6 @@
 ---
 slug: "trm-650-edmonsten-we"
-id: "TRM-ENG-39278"
+id: "TRM-ENG-53807"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "650. Edmonsten WE"

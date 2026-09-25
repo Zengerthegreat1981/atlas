@@ -1,6 +1,6 @@
 ---
 slug: "trm-illuminism"
-id: "TRM-ENG-52233"
+id: "TRM-ENG-66762"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Illuminism"

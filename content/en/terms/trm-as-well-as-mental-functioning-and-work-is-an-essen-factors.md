@@ -1,6 +1,6 @@
 ---
 slug: "trm-as-well-as-mental-functioning-and-work-is-an-essen-factors"
-id: "TRM-ENG-51275"
+id: "TRM-ENG-65804"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "as well as mental functioning, and work is an essen- factors"

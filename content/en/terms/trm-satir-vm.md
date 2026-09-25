@@ -1,6 +1,6 @@
 ---
 slug: "trm-satir-vm"
-id: "TRM-ENG-42246"
+id: "TRM-ENG-56775"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Satir VM"

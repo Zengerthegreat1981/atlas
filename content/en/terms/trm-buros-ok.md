@@ -1,6 +1,6 @@
 ---
 slug: "trm-buros-ok"
-id: "TRM-ENG-40081"
+id: "TRM-ENG-54610"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Buros OK"

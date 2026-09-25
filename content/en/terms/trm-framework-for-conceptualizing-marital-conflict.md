@@ -1,6 +1,6 @@
 ---
 slug: "trm-framework-for-conceptualizing-marital-conflict"
-id: "TRM-ENG-49446"
+id: "TRM-ENG-63975"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "framework for conceptualizing marital conflict"

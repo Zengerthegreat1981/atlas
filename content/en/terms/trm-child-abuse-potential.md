@@ -1,6 +1,6 @@
 ---
 slug: "trm-child-abuse-potential"
-id: "TRM-ENG-39477"
+id: "TRM-ENG-54006"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "child abuse potential"

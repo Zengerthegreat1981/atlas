@@ -1,6 +1,6 @@
 ---
 slug: "trm-thebasisforhispracticalphrenologyhewrote"
-id: "TRM-ENG-38313"
+id: "TRM-ENG-52842"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thebasisforhispracticalphrenologyhewrote"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-see-also-behavixal-genetics"
-id: "TRM-ENG-34832"
+id: "TRM-ENG-49361"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "[See also Behavixal Genetics"

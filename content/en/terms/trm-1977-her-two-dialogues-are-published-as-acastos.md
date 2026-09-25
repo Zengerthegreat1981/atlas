@@ -1,6 +1,6 @@
 ---
 slug: "trm-1977-her-two-dialogues-are-published-as-acastos"
-id: "TRM-ENG-46105"
+id: "TRM-ENG-60634"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1977). Her two dialogues are published as Acastos"

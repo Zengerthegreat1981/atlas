@@ -1,6 +1,6 @@
 ---
 slug: "trm-studies-in-hysteriafreud-and-breuer-and-2"
-id: "TRM-ENG-38834"
+id: "TRM-ENG-53363"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Studies in Hysteria(Freud and Breuer) and, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ity-disorders-arch-gen-psychiatry-41"
-id: "TRM-ENG-48414"
+id: "TRM-ENG-62943"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ity disorders. Arch Gen Psychiatry 41"

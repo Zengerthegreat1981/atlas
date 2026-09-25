@@ -1,6 +1,6 @@
 ---
 slug: "trm-linguisticsystems"
-id: "TRM-ENG-49519"
+id: "TRM-ENG-64048"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "linguisticsystems"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-adrenaline-are-released-by-direct-nerve-stimulation-cycle"
-id: "TRM-ENG-34849"
+id: "TRM-ENG-63907"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "adrenaline, are released by direct nerve stimulation cycle"

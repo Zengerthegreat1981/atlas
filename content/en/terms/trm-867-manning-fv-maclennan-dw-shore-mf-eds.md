@@ -1,6 +1,6 @@
 ---
 slug: "trm-867-manning-fv-maclennan-dw-shore-mf-eds"
-id: "TRM-ENG-39530"
+id: "TRM-ENG-54059"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "867. Manning FV, MacLennan DW, Shore MF (eds)"

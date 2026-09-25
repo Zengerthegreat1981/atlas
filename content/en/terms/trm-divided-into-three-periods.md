@@ -1,6 +1,6 @@
 ---
 slug: "trm-divided-into-three-periods"
-id: "TRM-ENG-36374"
+id: "TRM-ENG-65432"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "divided into three periods"

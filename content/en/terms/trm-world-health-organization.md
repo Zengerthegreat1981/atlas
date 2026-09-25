@@ -1,6 +1,6 @@
 ---
 slug: "trm-world-health-organization"
-id: "TRM-ENG-42874"
+id: "TRM-ENG-57403"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "World Health Organization"

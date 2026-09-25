@@ -1,6 +1,6 @@
 ---
 slug: "trm-observational-learning-model-of-1"
-id: "TRM-ENG-40976"
+id: "TRM-ENG-55505"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "observational learning model of, 1"

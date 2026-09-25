@@ -1,6 +1,6 @@
 ---
 slug: "trm-walsh-and-4"
-id: "TRM-ENG-39000"
+id: "TRM-ENG-53529"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Walsh) and, 4"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapy-now-pp-107124-new-york-ny"
-id: "TRM-ENG-51907"
+id: "TRM-ENG-66436"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapy now (pp. 107–124). New York, NY"

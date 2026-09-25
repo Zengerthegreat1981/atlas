@@ -1,6 +1,6 @@
 ---
 slug: "trm-congenitally-deaf-children"
-id: "TRM-ENG-34798"
+id: "TRM-ENG-49327"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "congenitally deaf children"

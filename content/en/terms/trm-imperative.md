@@ -1,6 +1,6 @@
 ---
 slug: "trm-imperative"
-id: "TRM-ENG-51525"
+id: "TRM-ENG-66054"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "imperative"

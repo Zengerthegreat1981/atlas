@@ -1,6 +1,6 @@
 ---
 slug: "trm-hallucinations"
-id: "TRM-ENG-34710"
+id: "TRM-ENG-63768"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hallucinations"

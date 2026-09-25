@@ -1,6 +1,6 @@
 ---
 slug: "trm-332-klawans-hl-weiner-wj"
-id: "TRM-ENG-38897"
+id: "TRM-ENG-53426"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "332. Klawans HL, Weiner WJ"

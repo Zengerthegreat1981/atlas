@@ -1,6 +1,6 @@
 ---
 slug: "trm-feniger-mani-journey-from-anxiety-to-freedom"
-id: "TRM-ENG-45814"
+id: "TRM-ENG-60343"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Feniger, Mani. Journey From Anxiety to Freedom"

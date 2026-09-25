@@ -1,6 +1,6 @@
 ---
 slug: "trm-procedure-of-a-physical-examination-becomes-both-cid"
-id: "TRM-ENG-46201"
+id: "TRM-ENG-60730"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "procedure of a physical examination becomes both (cid"

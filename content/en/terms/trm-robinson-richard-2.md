@@ -1,6 +1,6 @@
 ---
 slug: "trm-robinson-richard-2"
-id: "TRM-ENG-47205"
+id: "TRM-ENG-61734"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Robinson, Richard, 2"

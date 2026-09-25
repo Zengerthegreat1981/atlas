@@ -1,6 +1,6 @@
 ---
 slug: "trm-buccofacial-apraxia-bfa-1"
-id: "TRM-ENG-44349"
+id: "TRM-ENG-58878"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Buccofacial apraxia (BFA), 1"

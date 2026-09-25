@@ -1,6 +1,6 @@
 ---
 slug: "trm-tive-child"
-id: "TRM-ENG-37204"
+id: "TRM-ENG-51733"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tive child"

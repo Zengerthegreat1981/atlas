@@ -1,6 +1,6 @@
 ---
 slug: "trm-edmonson-bw-amsel-a"
-id: "TRM-ENG-40409"
+id: "TRM-ENG-54938"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Edmonson BW, Amsel A"

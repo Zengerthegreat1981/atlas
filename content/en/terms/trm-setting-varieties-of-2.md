@@ -1,6 +1,6 @@
 ---
 slug: "trm-setting-varieties-of-2"
-id: "TRM-ENG-41639"
+id: "TRM-ENG-56168"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "setting varieties of, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-cal-medicine-26-no-5-1996"
-id: "TRM-ENG-46051"
+id: "TRM-ENG-60580"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cal Medicine 26, no. 5 (1996)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-deleon-g-holland-s-rosenthal-ms"
-id: "TRM-ENG-40318"
+id: "TRM-ENG-54847"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "DeLeon G, Holland S, Rosenthal MS"

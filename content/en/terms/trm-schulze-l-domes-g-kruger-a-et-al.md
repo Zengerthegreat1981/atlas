@@ -1,6 +1,6 @@
 ---
 slug: "trm-schulze-l-domes-g-kruger-a-et-al"
-id: "TRM-ENG-48054"
+id: "TRM-ENG-62583"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schulze L, Domes G, Kruger A, et al"

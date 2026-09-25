@@ -1,6 +1,6 @@
 ---
 slug: "trm-by-the-other-stressors-that-affect-their-performance-midlife"
-id: "TRM-ENG-39393"
+id: "TRM-ENG-53922"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "by the other stressors that affect their performance. midlife"

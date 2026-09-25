@@ -1,6 +1,6 @@
 ---
 slug: "trm-280-howells-a-ed"
-id: "TRM-ENG-38817"
+id: "TRM-ENG-53346"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "280. Howells A (ed)"

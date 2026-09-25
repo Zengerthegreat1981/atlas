@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-natural-education"
-id: "TRM-ENG-48459"
+id: "TRM-ENG-62988"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of “natural education”"

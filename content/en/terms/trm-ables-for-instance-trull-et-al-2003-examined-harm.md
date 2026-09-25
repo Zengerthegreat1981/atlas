@@ -1,6 +1,6 @@
 ---
 slug: "trm-ables-for-instance-trull-et-al-2003-examined-harm"
-id: "TRM-ENG-43582"
+id: "TRM-ENG-58111"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ables. For instance, Trull et al. (2003) examined harm"

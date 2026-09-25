@@ -1,6 +1,6 @@
 ---
 slug: "trm-abraham-w"
-id: "TRM-ENG-39625"
+id: "TRM-ENG-54154"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Abraham W"

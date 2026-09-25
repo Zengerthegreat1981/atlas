@@ -1,6 +1,6 @@
 ---
 slug: "trm-black-english-vernacular-philadelphia"
-id: "TRM-ENG-44336"
+id: "TRM-ENG-58865"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Black English vernacular. Philadelphia"

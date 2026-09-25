@@ -1,6 +1,6 @@
 ---
 slug: "trm-lager-e-zwerling-i-eds"
-id: "TRM-ENG-41344"
+id: "TRM-ENG-55873"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lager E, Zwerling I (eds)"

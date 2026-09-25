@@ -1,6 +1,6 @@
 ---
 slug: "trm-yaskin-jc"
-id: "TRM-ENG-42887"
+id: "TRM-ENG-57416"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Yaskin JC"

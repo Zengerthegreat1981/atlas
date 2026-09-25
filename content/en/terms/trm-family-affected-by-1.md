@@ -1,6 +1,6 @@
 ---
 slug: "trm-family-affected-by-1"
-id: "TRM-ENG-40168"
+id: "TRM-ENG-54697"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "family affected by, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-1492-to-present2nd-ed-new-york"
-id: "TRM-ENG-37467"
+id: "TRM-ENG-51996"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1492 to present(2nd ed.). New York"

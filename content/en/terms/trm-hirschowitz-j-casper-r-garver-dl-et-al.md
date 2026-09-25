@@ -1,6 +1,6 @@
 ---
 slug: "trm-hirschowitz-j-casper-r-garver-dl-et-al"
-id: "TRM-ENG-40999"
+id: "TRM-ENG-55528"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hirschowitz J, Casper R, Garver DL, et al"

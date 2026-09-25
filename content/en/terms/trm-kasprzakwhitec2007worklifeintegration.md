@@ -1,6 +1,6 @@
 ---
 slug: "trm-kasprzakwhitec2007worklifeintegration"
-id: "TRM-ENG-36993"
+id: "TRM-ENG-66051"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kasprzak,&White,C.(2007).Work/lifeintegration"

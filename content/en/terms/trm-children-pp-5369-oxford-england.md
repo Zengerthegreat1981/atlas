@@ -1,6 +1,6 @@
 ---
 slug: "trm-children-pp-5369-oxford-england"
-id: "TRM-ENG-47756"
+id: "TRM-ENG-62285"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "children (pp. 53–69). Oxford, England"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-group-analysis-1"
-id: "TRM-ENG-50504"
+id: "TRM-ENG-65033"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Group analysis, 1"

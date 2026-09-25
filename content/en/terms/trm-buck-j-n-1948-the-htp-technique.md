@@ -1,6 +1,6 @@
 ---
 slug: "trm-buck-j-n-1948-the-htp-technique"
-id: "TRM-ENG-35329"
+id: "TRM-ENG-64387"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Buck, J. N. (1948). The H-T-P technique"

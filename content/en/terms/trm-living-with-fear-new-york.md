@@ -1,6 +1,6 @@
 ---
 slug: "trm-living-with-fear-new-york"
-id: "TRM-ENG-46277"
+id: "TRM-ENG-60806"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "———, Living with Fear (New York"

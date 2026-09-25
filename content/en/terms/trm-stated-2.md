@@ -1,6 +1,6 @@
 ---
 slug: "trm-stated-2"
-id: "TRM-ENG-43254"
+id: "TRM-ENG-57783"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stated 2"

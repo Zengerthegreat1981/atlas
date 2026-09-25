@@ -1,6 +1,6 @@
 ---
 slug: "trm-meditation-london-wisdom-publications-1987"
-id: "TRM-ENG-45889"
+id: "TRM-ENG-60418"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Meditation. London: Wisdom Publications, 1987."

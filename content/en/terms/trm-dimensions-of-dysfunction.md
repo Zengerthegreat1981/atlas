@@ -1,6 +1,6 @@
 ---
 slug: "trm-dimensions-of-dysfunction"
-id: "TRM-ENG-43664"
+id: "TRM-ENG-58193"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dimensions of dysfunction"

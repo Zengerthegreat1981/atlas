@@ -1,6 +1,6 @@
 ---
 slug: "trm-counseling-applications-of-2"
-id: "TRM-ENG-39729"
+id: "TRM-ENG-54258"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "counseling applications of, 2"

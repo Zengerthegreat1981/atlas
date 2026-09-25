@@ -1,6 +1,6 @@
 ---
 slug: "trm-clinic-setting"
-id: "TRM-ENG-36293"
+id: "TRM-ENG-65351"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "clinic setting"

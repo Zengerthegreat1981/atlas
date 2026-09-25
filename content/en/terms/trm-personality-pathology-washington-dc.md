@@ -1,6 +1,6 @@
 ---
 slug: "trm-personality-pathology-washington-dc"
-id: "TRM-ENG-43128"
+id: "TRM-ENG-57657"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "personality pathology. Washington, DC"

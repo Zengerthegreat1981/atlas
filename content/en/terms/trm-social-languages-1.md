@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-languages-1"
-id: "TRM-ENG-47304"
+id: "TRM-ENG-61833"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Social languages, 1"

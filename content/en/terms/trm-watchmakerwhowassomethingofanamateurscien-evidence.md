@@ -1,6 +1,6 @@
 ---
 slug: "trm-watchmakerwhowassomethingofanamateurscien-evidence"
-id: "TRM-ENG-38430"
+id: "TRM-ENG-52959"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "watchmakerwhowassomethingofanamateurscien- evidence"

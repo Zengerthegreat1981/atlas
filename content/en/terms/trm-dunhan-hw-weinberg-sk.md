@@ -1,6 +1,6 @@
 ---
 slug: "trm-dunhan-hw-weinberg-sk"
-id: "TRM-ENG-40387"
+id: "TRM-ENG-54916"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dunhan HW, Weinberg SK"

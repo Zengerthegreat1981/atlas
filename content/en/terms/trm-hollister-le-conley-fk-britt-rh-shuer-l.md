@@ -1,6 +1,6 @@
 ---
 slug: "trm-hollister-le-conley-fk-britt-rh-shuer-l"
-id: "TRM-ENG-41021"
+id: "TRM-ENG-55550"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hollister LE, Conley FK, Britt RH, Shuer L"

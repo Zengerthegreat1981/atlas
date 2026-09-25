@@ -1,6 +1,6 @@
 ---
 slug: "trm-8-art-no"
-id: "TRM-ENG-47444"
+id: "TRM-ENG-61973"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "8. Art. No."

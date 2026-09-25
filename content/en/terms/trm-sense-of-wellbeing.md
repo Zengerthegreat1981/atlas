@@ -1,6 +1,6 @@
 ---
 slug: "trm-sense-of-wellbeing"
-id: "TRM-ENG-43853"
+id: "TRM-ENG-58382"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sense of well-being"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-family-and-include-sacrifice-yajna"
-id: "TRM-ENG-35017"
+id: "TRM-ENG-64075"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "family and include sacrifice (“yajna”)"

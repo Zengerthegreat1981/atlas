@@ -1,6 +1,6 @@
 ---
 slug: "trm-1993-he-added-the-b"
-id: "TRM-ENG-50010"
+id: "TRM-ENG-64539"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1993, he added the B"

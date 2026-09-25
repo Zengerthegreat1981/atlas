@@ -1,6 +1,6 @@
 ---
 slug: "trm-porary-rather-than-a-permanent-change-in-the-individ-ciples"
-id: "TRM-ENG-35240"
+id: "TRM-ENG-64298"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "porary rather than a permanent change in the individ- ciples"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-accommodation-learning-1"
-id: "TRM-ENG-46198"
+id: "TRM-ENG-60727"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Accommodation (learning), 1"

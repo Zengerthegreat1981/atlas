@@ -1,6 +1,6 @@
 ---
 slug: "trm-systems-activated-during-visual-mental-imagery"
-id: "TRM-ENG-45548"
+id: "TRM-ENG-60077"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "systems activated during visual mental imagery"

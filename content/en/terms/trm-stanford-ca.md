@@ -1,6 +1,6 @@
 ---
 slug: "trm-stanford-ca"
-id: "TRM-ENG-38812"
+id: "TRM-ENG-53341"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stanford, CA"

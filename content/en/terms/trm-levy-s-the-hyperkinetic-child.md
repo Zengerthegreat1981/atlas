@@ -1,6 +1,6 @@
 ---
 slug: "trm-levy-s-the-hyperkinetic-child"
-id: "TRM-ENG-41434"
+id: "TRM-ENG-55963"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Levy S: The hyperkinetic child"

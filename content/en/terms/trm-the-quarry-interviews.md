@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-quarry-interviews"
-id: "TRM-ENG-36174"
+id: "TRM-ENG-65232"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the quarry interviews"

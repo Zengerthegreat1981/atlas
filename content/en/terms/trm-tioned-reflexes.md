@@ -1,6 +1,6 @@
 ---
 slug: "trm-tioned-reflexes"
-id: "TRM-ENG-35413"
+id: "TRM-ENG-49942"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tioned Reflexes"

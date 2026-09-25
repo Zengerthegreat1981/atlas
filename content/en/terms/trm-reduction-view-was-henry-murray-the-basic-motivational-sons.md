@@ -1,6 +1,6 @@
 ---
 slug: "trm-reduction-view-was-henry-murray-the-basic-motivational-sons"
-id: "TRM-ENG-36930"
+id: "TRM-ENG-65988"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reduction view was Henry Murray. The basic motivational sons"

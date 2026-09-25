@@ -1,6 +1,6 @@
 ---
 slug: "trm-nichols-la"
-id: "TRM-ENG-41838"
+id: "TRM-ENG-56367"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nichols LA"

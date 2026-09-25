@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-reason-center-stage"
-id: "TRM-ENG-44863"
+id: "TRM-ENG-59392"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "a reason, center stage"

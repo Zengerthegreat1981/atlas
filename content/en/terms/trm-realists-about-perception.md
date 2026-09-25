@@ -1,6 +1,6 @@
 ---
 slug: "trm-realists-about-perception"
-id: "TRM-ENG-48624"
+id: "TRM-ENG-63153"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "realists about perception"

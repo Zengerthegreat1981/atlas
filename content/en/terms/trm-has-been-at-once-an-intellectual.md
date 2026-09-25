@@ -1,6 +1,6 @@
 ---
 slug: "trm-has-been-at-once-an-intellectual"
-id: "TRM-ENG-48102"
+id: "TRM-ENG-62631"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "has been, at once, an intellectual"

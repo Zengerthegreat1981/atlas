@@ -1,6 +1,6 @@
 ---
 slug: "trm-freedman-da"
-id: "TRM-ENG-40601"
+id: "TRM-ENG-55130"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Freedman DA"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-process-and-outcome-research4"
-id: "TRM-ENG-38629"
+id: "TRM-ENG-53158"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Process and outcome research,4"

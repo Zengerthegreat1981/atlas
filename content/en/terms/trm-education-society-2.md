@@ -1,6 +1,6 @@
 ---
 slug: "trm-education-society-2"
-id: "TRM-ENG-46547"
+id: "TRM-ENG-61076"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Education Society, 2"

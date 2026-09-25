@@ -1,6 +1,6 @@
 ---
 slug: "trm-pulmonary-rehabilitation-program"
-id: "TRM-ENG-47243"
+id: "TRM-ENG-61772"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pulmonary rehabilitation program"

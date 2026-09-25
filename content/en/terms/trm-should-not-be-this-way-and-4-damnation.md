@@ -1,6 +1,6 @@
 ---
 slug: "trm-should-not-be-this-way-and-4-damnation"
-id: "TRM-ENG-41661"
+id: "TRM-ENG-56190"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "should not be this way; and (4) “damnation”"

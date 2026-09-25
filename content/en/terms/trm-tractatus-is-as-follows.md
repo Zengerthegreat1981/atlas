@@ -1,6 +1,6 @@
 ---
 slug: "trm-tractatus-is-as-follows"
-id: "TRM-ENG-47405"
+id: "TRM-ENG-61934"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tractatus is as follows"

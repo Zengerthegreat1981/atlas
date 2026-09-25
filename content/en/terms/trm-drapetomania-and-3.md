@@ -1,6 +1,6 @@
 ---
 slug: "trm-drapetomania-and-3"
-id: "TRM-ENG-39974"
+id: "TRM-ENG-54503"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "drapetomania and, 3"

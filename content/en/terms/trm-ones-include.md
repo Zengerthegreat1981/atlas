@@ -1,6 +1,6 @@
 ---
 slug: "trm-ones-include"
-id: "TRM-ENG-35197"
+id: "TRM-ENG-64255"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ones include"

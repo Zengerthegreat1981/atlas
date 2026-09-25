@@ -1,6 +1,6 @@
 ---
 slug: "trm-2011traitapproachmotivationrelatestodissonancereduction-http"
-id: "TRM-ENG-36402"
+id: "TRM-ENG-65460"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2011).Traitapproachmotivationrelatestodissonancereduction. http"

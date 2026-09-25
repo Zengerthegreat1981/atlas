@@ -1,6 +1,6 @@
 ---
 slug: "trm-dictionary-of-psychology"
-id: "TRM-ENG-43469"
+id: "TRM-ENG-57998"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dictionary of Psychology"

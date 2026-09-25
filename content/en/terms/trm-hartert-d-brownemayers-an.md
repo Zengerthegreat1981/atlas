@@ -1,6 +1,6 @@
 ---
 slug: "trm-hartert-d-brownemayers-an"
-id: "TRM-ENG-40926"
+id: "TRM-ENG-55455"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hartert D, Browne-Mayers AN"

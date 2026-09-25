@@ -1,6 +1,6 @@
 ---
 slug: "trm-trine"
-id: "TRM-ENG-46073"
+id: "TRM-ENG-60602"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "trine"

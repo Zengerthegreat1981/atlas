@@ -1,6 +1,6 @@
 ---
 slug: "trm-possesses-a-motivation-for-change"
-id: "TRM-ENG-43146"
+id: "TRM-ENG-57675"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "possesses a motivation for change"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-129148-minneapolis"
-id: "TRM-ENG-46150"
+id: "TRM-ENG-60679"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "129–148). Minneapolis"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-c-gordon-trans-new-york-ny"
-id: "TRM-ENG-46115"
+id: "TRM-ENG-60644"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(C. Gordon, Trans.). New York, NY"

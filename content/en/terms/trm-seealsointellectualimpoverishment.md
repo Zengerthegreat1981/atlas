@@ -1,6 +1,6 @@
 ---
 slug: "trm-seealsointellectualimpoverishment"
-id: "TRM-ENG-43495"
+id: "TRM-ENG-58024"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Seealsointellectualimpoverishment."

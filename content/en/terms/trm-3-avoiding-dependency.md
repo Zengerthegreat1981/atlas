@@ -1,6 +1,6 @@
 ---
 slug: "trm-3-avoiding-dependency"
-id: "TRM-ENG-38838"
+id: "TRM-ENG-53367"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "3. Avoiding dependency"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-norman-wt"
-id: "TRM-ENG-47905"
+id: "TRM-ENG-62434"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Norman WT"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-4-undoing-and-isolation"
-id: "TRM-ENG-38984"
+id: "TRM-ENG-53513"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "4. Undoing and isolation"

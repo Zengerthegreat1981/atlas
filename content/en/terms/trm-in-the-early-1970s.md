@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-the-early-1970s"
-id: "TRM-ENG-42895"
+id: "TRM-ENG-57424"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in the early 1970s"

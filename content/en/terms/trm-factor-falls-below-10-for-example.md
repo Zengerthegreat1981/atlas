@@ -1,6 +1,6 @@
 ---
 slug: "trm-factor-falls-below-10-for-example"
-id: "TRM-ENG-42816"
+id: "TRM-ENG-57345"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "factor falls below 1.0, for example"

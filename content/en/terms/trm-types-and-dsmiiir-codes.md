@@ -1,6 +1,6 @@
 ---
 slug: "trm-types-and-dsmiiir-codes"
-id: "TRM-ENG-38527"
+id: "TRM-ENG-53056"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Types and DSM-III-R Codes"

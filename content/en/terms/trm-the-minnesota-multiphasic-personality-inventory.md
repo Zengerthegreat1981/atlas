@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-minnesota-multiphasic-personality-inventory"
-id: "TRM-ENG-43861"
+id: "TRM-ENG-58390"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the Minnesota Multiphasic Personality Inventory"

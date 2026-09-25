@@ -1,6 +1,6 @@
 ---
 slug: "trm-not-give-them"
-id: "TRM-ENG-48411"
+id: "TRM-ENG-62940"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "not give them"

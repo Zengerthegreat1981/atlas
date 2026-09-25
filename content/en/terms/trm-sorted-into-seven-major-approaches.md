@@ -1,6 +1,6 @@
 ---
 slug: "trm-sorted-into-seven-major-approaches"
-id: "TRM-ENG-45514"
+id: "TRM-ENG-60043"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sorted into seven major approaches"

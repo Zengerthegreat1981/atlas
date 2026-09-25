@@ -1,6 +1,6 @@
 ---
 slug: "trm-incidence-and-consequences-of-violence-against-women"
-id: "TRM-ENG-45845"
+id: "TRM-ENG-60374"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Incidence and Consequences of Violence Against Women"

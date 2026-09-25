@@ -1,6 +1,6 @@
 ---
 slug: "trm-as-progressing-through-five-phases"
-id: "TRM-ENG-42664"
+id: "TRM-ENG-57193"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "as progressing through five phases"

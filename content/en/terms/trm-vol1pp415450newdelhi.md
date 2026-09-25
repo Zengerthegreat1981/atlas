@@ -1,6 +1,6 @@
 ---
 slug: "trm-vol1pp415450newdelhi"
-id: "TRM-ENG-36443"
+id: "TRM-ENG-65501"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Vol.1,pp.415–450).New-Delhi"

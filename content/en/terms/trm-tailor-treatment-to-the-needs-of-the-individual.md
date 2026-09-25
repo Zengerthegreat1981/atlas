@@ -1,6 +1,6 @@
 ---
 slug: "trm-tailor-treatment-to-the-needs-of-the-individual"
-id: "TRM-ENG-43283"
+id: "TRM-ENG-57812"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tailor treatment to the needs of the individual"

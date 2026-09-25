@@ -1,6 +1,6 @@
 ---
 slug: "trm-statistics-17-363374-doi"
-id: "TRM-ENG-35572"
+id: "TRM-ENG-64630"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Statistics, 17, 363–374. doi"

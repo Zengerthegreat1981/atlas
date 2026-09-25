@@ -1,6 +1,6 @@
 ---
 slug: "trm-that-influence-development"
-id: "TRM-ENG-43296"
+id: "TRM-ENG-57825"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "that influence development"

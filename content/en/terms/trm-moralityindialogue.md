@@ -1,6 +1,6 @@
 ---
 slug: "trm-moralityindialogue"
-id: "TRM-ENG-37975"
+id: "TRM-ENG-67033"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "moralityindialogue"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-skinner-b-f-2"
-id: "TRM-ENG-51044"
+id: "TRM-ENG-65573"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Skinner, B. F., 2"

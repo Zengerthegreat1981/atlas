@@ -1,6 +1,6 @@
 ---
 slug: "trm-online-counseling-technology-and-1"
-id: "TRM-ENG-41039"
+id: "TRM-ENG-55568"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "online counseling, technology and, 1"

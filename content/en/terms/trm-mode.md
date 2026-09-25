@@ -1,6 +1,6 @@
 ---
 slug: "trm-mode"
-id: "TRM-ENG-52287"
+id: "TRM-ENG-66816"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mode"

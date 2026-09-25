@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-earliest-stage-or-stages"
-id: "TRM-ENG-36006"
+id: "TRM-ENG-65064"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The earliest stage (or stages)"

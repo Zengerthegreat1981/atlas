@@ -1,6 +1,6 @@
 ---
 slug: "trm-risk-and-resilience-and-3"
-id: "TRM-ENG-41540"
+id: "TRM-ENG-56069"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "risk and resilience and, 3"

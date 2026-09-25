@@ -1,6 +1,6 @@
 ---
 slug: "trm-rush-aj-ed"
-id: "TRM-ENG-42204"
+id: "TRM-ENG-56733"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rush AJ (ed)"

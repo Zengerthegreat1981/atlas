@@ -1,6 +1,6 @@
 ---
 slug: "trm-cidal-patient"
-id: "TRM-ENG-48275"
+id: "TRM-ENG-62804"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cidal patient"

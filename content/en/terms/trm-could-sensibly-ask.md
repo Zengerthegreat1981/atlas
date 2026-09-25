@@ -1,6 +1,6 @@
 ---
 slug: "trm-could-sensibly-ask"
-id: "TRM-ENG-42743"
+id: "TRM-ENG-57272"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "could sensibly ask"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-golomb-m-fava-m-abraham-m-et-al"
-id: "TRM-ENG-47679"
+id: "TRM-ENG-62208"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Golomb M, Fava M, Abraham M, et al"

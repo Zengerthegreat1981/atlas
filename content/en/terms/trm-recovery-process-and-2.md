@@ -1,6 +1,6 @@
 ---
 slug: "trm-recovery-process-and-2"
-id: "TRM-ENG-41442"
+id: "TRM-ENG-55971"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "recovery process and, 2"

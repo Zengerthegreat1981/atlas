@@ -1,6 +1,6 @@
 ---
 slug: "trm-steps"
-id: "TRM-ENG-36136"
+id: "TRM-ENG-65194"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "steps"

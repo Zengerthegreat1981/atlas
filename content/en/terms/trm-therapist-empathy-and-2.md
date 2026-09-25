@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapist-empathy-and-2"
-id: "TRM-ENG-41935"
+id: "TRM-ENG-56464"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapist empathy and, 2"

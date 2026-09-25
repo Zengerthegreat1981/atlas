@@ -1,6 +1,6 @@
 ---
 slug: "trm-10-illnesses-and-accidents"
-id: "TRM-ENG-38552"
+id: "TRM-ENG-53081"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "10. Illnesses and accidents"

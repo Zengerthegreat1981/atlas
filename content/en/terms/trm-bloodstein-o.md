@@ -1,6 +1,6 @@
 ---
 slug: "trm-bloodstein-o"
-id: "TRM-ENG-39971"
+id: "TRM-ENG-54500"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bloodstein O"

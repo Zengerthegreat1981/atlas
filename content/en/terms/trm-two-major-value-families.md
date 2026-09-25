@@ -1,6 +1,6 @@
 ---
 slug: "trm-two-major-value-families"
-id: "TRM-ENG-48986"
+id: "TRM-ENG-63515"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "two major value families"

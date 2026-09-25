@@ -1,6 +1,6 @@
 ---
 slug: "trm-altyoath"
-id: "TRM-ENG-37504"
+id: "TRM-ENG-52033"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "altyoath"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-following-symptoms"
-id: "TRM-ENG-45354"
+id: "TRM-ENG-59883"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the following symptoms"

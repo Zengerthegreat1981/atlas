@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapeutic-structure-and-2"
-id: "TRM-ENG-41933"
+id: "TRM-ENG-56462"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapeutic structure and, 2"

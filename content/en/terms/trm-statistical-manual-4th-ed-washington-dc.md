@@ -1,6 +1,6 @@
 ---
 slug: "trm-statistical-manual-4th-ed-washington-dc"
-id: "TRM-ENG-49719"
+id: "TRM-ENG-64248"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "statistical manual (4th ed.) Washington, DC"

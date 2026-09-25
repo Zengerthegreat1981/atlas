@@ -1,6 +1,6 @@
 ---
 slug: "trm-terised-by-high-controllability"
-id: "TRM-ENG-47327"
+id: "TRM-ENG-61856"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "terised by high controllability"

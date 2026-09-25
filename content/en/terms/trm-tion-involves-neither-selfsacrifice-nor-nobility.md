@@ -1,6 +1,6 @@
 ---
 slug: "trm-tion-involves-neither-selfsacrifice-nor-nobility"
-id: "TRM-ENG-46059"
+id: "TRM-ENG-60588"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tion involves neither self-sacrifice nor nobility"

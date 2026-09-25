@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-strauss-a-status-passage"
-id: "TRM-ENG-44775"
+id: "TRM-ENG-59304"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, and Strauss, A., Status Passage"

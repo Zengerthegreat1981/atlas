@@ -1,6 +1,6 @@
 ---
 slug: "trm-lorber-j-1975-good-patients-and-problem-patients"
-id: "TRM-ENG-46613"
+id: "TRM-ENG-61142"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lorber, J. (1975). Good patients and problem patients"

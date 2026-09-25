@@ -1,6 +1,6 @@
 ---
 slug: "trm-plutchikr1962theemotions"
-id: "TRM-ENG-37177"
+id: "TRM-ENG-51706"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Plutchik,R.(1962).Theemotions"

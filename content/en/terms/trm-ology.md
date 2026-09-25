@@ -1,6 +1,6 @@
 ---
 slug: "trm-ology"
-id: "TRM-ENG-43081"
+id: "TRM-ENG-57610"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ology"

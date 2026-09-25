@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-report-and-display-increased-negative-and-positive-emotion"
-id: "TRM-ENG-35422"
+id: "TRM-ENG-64480"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to report and display increased negative and positive emotion"

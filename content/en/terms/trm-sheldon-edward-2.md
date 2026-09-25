@@ -1,6 +1,6 @@
 ---
 slug: "trm-sheldon-edward-2"
-id: "TRM-ENG-47276"
+id: "TRM-ENG-61805"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sheldon, Edward, 2"

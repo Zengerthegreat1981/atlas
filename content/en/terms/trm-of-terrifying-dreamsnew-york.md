@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-terrifying-dreamsnew-york"
-id: "TRM-ENG-36788"
+id: "TRM-ENG-65846"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of terrifying dreams.New York"

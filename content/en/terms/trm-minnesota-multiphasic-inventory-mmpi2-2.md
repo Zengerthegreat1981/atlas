@@ -1,6 +1,6 @@
 ---
 slug: "trm-minnesota-multiphasic-inventory-mmpi2-2"
-id: "TRM-ENG-38435"
+id: "TRM-ENG-52964"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Minnesota Multiphasic Inventory (MMPI-2), 2"

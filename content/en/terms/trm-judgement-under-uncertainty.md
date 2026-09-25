@@ -1,6 +1,6 @@
 ---
 slug: "trm-judgement-under-uncertainty"
-id: "TRM-ENG-49050"
+id: "TRM-ENG-63579"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Judgement under uncertainty"

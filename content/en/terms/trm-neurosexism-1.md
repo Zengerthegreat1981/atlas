@@ -1,6 +1,6 @@
 ---
 slug: "trm-neurosexism-1"
-id: "TRM-ENG-47052"
+id: "TRM-ENG-61581"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Neurosexism, 1"

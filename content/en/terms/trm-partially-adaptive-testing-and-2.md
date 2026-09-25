@@ -1,6 +1,6 @@
 ---
 slug: "trm-partially-adaptive-testing-and-2"
-id: "TRM-ENG-41113"
+id: "TRM-ENG-55642"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "partially adaptive testing and, 2"

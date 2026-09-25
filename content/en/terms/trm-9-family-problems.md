@@ -1,6 +1,6 @@
 ---
 slug: "trm-9-family-problems"
-id: "TRM-ENG-39572"
+id: "TRM-ENG-54101"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "9. family problems"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-personality-ant-social-p"
-id: "TRM-ENG-34762"
+id: "TRM-ENG-63820"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Personality ant! Social P"

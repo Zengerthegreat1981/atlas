@@ -1,6 +1,6 @@
 ---
 slug: "trm-eiserc-eiserj-r-pauwelsp-1993skin-cancer"
-id: "TRM-ENG-46508"
+id: "TRM-ENG-61037"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Eiser,C., Eiser,J. R.,& Pauwels,P. (1993).Skin cancer"

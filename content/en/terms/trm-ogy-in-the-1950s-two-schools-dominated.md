@@ -1,6 +1,6 @@
 ---
 slug: "trm-ogy-in-the-1950s-two-schools-dominated"
-id: "TRM-ENG-48466"
+id: "TRM-ENG-62995"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ogy in the 1950s, two schools dominated"

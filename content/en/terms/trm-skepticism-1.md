@@ -1,6 +1,6 @@
 ---
 slug: "trm-skepticism-1"
-id: "TRM-ENG-48722"
+id: "TRM-ENG-63251"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "skepticism, 1"

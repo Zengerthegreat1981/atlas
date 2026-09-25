@@ -1,6 +1,6 @@
 ---
 slug: "trm-organizational-career-counseling-and-4"
-id: "TRM-ENG-41065"
+id: "TRM-ENG-55594"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "organizational career counseling and, 4"

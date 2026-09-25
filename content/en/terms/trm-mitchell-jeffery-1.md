@@ -1,6 +1,6 @@
 ---
 slug: "trm-mitchell-jeffery-1"
-id: "TRM-ENG-50752"
+id: "TRM-ENG-65281"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mitchell, Jeffery, 1"

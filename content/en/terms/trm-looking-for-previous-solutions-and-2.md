@@ -1,6 +1,6 @@
 ---
 slug: "trm-looking-for-previous-solutions-and-2"
-id: "TRM-ENG-40745"
+id: "TRM-ENG-55274"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "looking for previous solutions and, 2"

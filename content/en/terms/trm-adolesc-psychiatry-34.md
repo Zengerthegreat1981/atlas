@@ -1,6 +1,6 @@
 ---
 slug: "trm-adolesc-psychiatry-34"
-id: "TRM-ENG-47454"
+id: "TRM-ENG-61983"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Adolesc Psychiatry 34"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ogdent1986thematrixofthemind"
-id: "TRM-ENG-49107"
+id: "TRM-ENG-63636"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ogden,T.(1986).Thematrixofthemind"

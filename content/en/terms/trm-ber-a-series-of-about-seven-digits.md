@@ -1,6 +1,6 @@
 ---
 slug: "trm-ber-a-series-of-about-seven-digits"
-id: "TRM-ENG-44966"
+id: "TRM-ENG-59495"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ber a series of about seven digits"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-offeminismpp150bloomington"
-id: "TRM-ENG-38038"
+id: "TRM-ENG-67096"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "offeminism(pp.1–50).Bloomington"

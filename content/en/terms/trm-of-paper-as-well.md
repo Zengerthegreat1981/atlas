@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-paper-as-well"
-id: "TRM-ENG-48441"
+id: "TRM-ENG-62970"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of paper as well"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-van-der-kolk-b-a-1996-the-body-keeps-the-score"
-id: "TRM-ENG-51140"
+id: "TRM-ENG-65669"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Van der Kolk, B. A. (1996). The body keeps the score"

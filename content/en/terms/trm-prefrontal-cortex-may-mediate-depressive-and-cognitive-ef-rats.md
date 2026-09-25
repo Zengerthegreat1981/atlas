@@ -1,6 +1,6 @@
 ---
 slug: "trm-prefrontal-cortex-may-mediate-depressive-and-cognitive-ef-rats"
-id: "TRM-ENG-36890"
+id: "TRM-ENG-65948"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "prefrontal cortex may mediate depressive and cognitive ef- rats"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-hadenguest-a-1981-bad-dreams"
-id: "TRM-ENG-43438"
+id: "TRM-ENG-57967"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Haden-Guest, A. (1981). Bad dreams"

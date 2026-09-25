@@ -1,6 +1,6 @@
 ---
 slug: "trm-action-schema"
-id: "TRM-ENG-44871"
+id: "TRM-ENG-59400"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "action schema"

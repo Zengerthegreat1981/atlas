@@ -1,6 +1,6 @@
 ---
 slug: "trm-perament-pp-315346-new-york"
-id: "TRM-ENG-43121"
+id: "TRM-ENG-57650"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "perament (pp. 315–346). New York"

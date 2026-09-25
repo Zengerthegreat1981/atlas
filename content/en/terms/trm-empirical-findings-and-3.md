@@ -1,6 +1,6 @@
 ---
 slug: "trm-empirical-findings-and-3"
-id: "TRM-ENG-40042"
+id: "TRM-ENG-54571"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "empirical findings and, 3"

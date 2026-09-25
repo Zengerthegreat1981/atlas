@@ -1,6 +1,6 @@
 ---
 slug: "trm-standard-deviation-symbol"
-id: "TRM-ENG-45599"
+id: "TRM-ENG-60128"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "standard deviation (symbol"

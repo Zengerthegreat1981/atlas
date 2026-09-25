@@ -1,6 +1,6 @@
 ---
 slug: "trm-theory-for-psychologists-mahwah-nj"
-id: "TRM-ENG-36183"
+id: "TRM-ENG-65241"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theory for psychologists. Mahwah, NJ"

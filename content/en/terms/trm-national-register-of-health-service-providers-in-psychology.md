@@ -1,6 +1,6 @@
 ---
 slug: "trm-national-register-of-health-service-providers-in-psychology"
-id: "TRM-ENG-38488"
+id: "TRM-ENG-53017"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "National Register of Health Service Providers in Psychology"

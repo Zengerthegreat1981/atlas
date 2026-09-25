@@ -1,6 +1,6 @@
 ---
 slug: "trm-entry-has-the-content"
-id: "TRM-ENG-45098"
+id: "TRM-ENG-59627"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "entry has the content"

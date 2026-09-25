@@ -1,6 +1,6 @@
 ---
 slug: "trm-mannnewyork"
-id: "TRM-ENG-45953"
+id: "TRM-ENG-60482"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mann.NewYork"

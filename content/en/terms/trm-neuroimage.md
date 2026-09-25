@@ -1,6 +1,6 @@
 ---
 slug: "trm-neuroimage"
-id: "TRM-ENG-34651"
+id: "TRM-ENG-49180"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "NeuroImage"

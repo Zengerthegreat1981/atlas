@@ -1,6 +1,6 @@
 ---
 slug: "trm-change-5th-ed-pp-543589-new-york"
-id: "TRM-ENG-42712"
+id: "TRM-ENG-57241"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "change (5th ed., pp. 543–589). New York"

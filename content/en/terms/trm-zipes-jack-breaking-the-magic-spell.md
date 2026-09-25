@@ -1,6 +1,6 @@
 ---
 slug: "trm-zipes-jack-breaking-the-magic-spell"
-id: "TRM-ENG-46008"
+id: "TRM-ENG-60537"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Zipes, Jack, Breaking the Magic Spell"

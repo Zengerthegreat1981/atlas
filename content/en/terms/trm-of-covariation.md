@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-covariation"
-id: "TRM-ENG-36344"
+id: "TRM-ENG-65402"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of covariation"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-tages-in-psychology"
-id: "TRM-ENG-35354"
+id: "TRM-ENG-64412"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tages in psychology"

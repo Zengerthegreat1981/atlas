@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavioredinburgh"
-id: "TRM-ENG-37579"
+id: "TRM-ENG-52108"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behavior.Edinburgh"

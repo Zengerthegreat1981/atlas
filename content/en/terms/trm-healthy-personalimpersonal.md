@@ -1,6 +1,6 @@
 ---
 slug: "trm-healthy-personalimpersonal"
-id: "TRM-ENG-51510"
+id: "TRM-ENG-66039"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "healthy, personal/impersonal"

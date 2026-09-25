@@ -1,6 +1,6 @@
 ---
 slug: "trm-gunderson-jg-will-oa-jr-mosher-lr"
-id: "TRM-ENG-40856"
+id: "TRM-ENG-55385"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gunderson JG, Will OA, Jr., Mosher LR"

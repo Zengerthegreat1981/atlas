@@ -1,6 +1,6 @@
 ---
 slug: "trm-672-shapiro-d"
-id: "TRM-ENG-39302"
+id: "TRM-ENG-53831"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "672. Shapiro D"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-computerassisted-instruction-and-2"
-id: "TRM-ENG-39627"
+id: "TRM-ENG-54156"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "computer-assisted instruction and, 2"

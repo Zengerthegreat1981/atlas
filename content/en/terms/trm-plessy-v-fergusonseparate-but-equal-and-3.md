@@ -1,6 +1,6 @@
 ---
 slug: "trm-plessy-v-fergusonseparate-but-equal-and-3"
-id: "TRM-ENG-38605"
+id: "TRM-ENG-53134"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Plessy v. Ferguson,“separate but equal” and, 3"

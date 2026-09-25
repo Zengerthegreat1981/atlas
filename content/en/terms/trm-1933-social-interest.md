@@ -1,6 +1,6 @@
 ---
 slug: "trm-1933-social-interest"
-id: "TRM-ENG-44713"
+id: "TRM-ENG-59242"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, (1933), Social Interest"

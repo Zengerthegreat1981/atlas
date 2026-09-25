@@ -1,6 +1,6 @@
 ---
 slug: "trm-integrative-forgiveness-psychotherapy-1"
-id: "TRM-ENG-51549"
+id: "TRM-ENG-66078"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "integrative forgiveness psychotherapy, 1"

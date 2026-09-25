@@ -1,6 +1,6 @@
 ---
 slug: "trm-bush-vannevar-2"
-id: "TRM-ENG-46348"
+id: "TRM-ENG-60877"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bush, Vannevar, 2"

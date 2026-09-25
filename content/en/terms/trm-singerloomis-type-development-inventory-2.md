@@ -1,6 +1,6 @@
 ---
 slug: "trm-singerloomis-type-development-inventory-2"
-id: "TRM-ENG-38778"
+id: "TRM-ENG-53307"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Singer-Loomis Type Development Inventory, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-parietal-lobe"
-id: "TRM-ENG-35082"
+id: "TRM-ENG-49611"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the parietal lobe"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-susto"
-id: "TRM-ENG-35992"
+id: "TRM-ENG-50521"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Susto"

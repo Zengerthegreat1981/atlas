@@ -1,6 +1,6 @@
 ---
 slug: "trm-published-by-the-plenum-press-and-is-titled"
-id: "TRM-ENG-38172"
+id: "TRM-ENG-52701"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "published by the Plenum Press and is titled"

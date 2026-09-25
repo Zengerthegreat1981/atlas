@@ -1,6 +1,6 @@
 ---
 slug: "trm-smith-m-b-mental-health-reconsidered"
-id: "TRM-ENG-44636"
+id: "TRM-ENG-59165"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Smith, M. B., “Mental Health Reconsidered"

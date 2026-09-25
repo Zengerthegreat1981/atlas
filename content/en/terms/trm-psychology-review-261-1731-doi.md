@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychology-review-261-1731-doi"
-id: "TRM-ENG-50900"
+id: "TRM-ENG-65429"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychology Review, 26(1), 17–31. doi"

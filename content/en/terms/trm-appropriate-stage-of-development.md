@@ -1,6 +1,6 @@
 ---
 slug: "trm-appropriate-stage-of-development"
-id: "TRM-ENG-44896"
+id: "TRM-ENG-59425"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "appropriate stage of development"

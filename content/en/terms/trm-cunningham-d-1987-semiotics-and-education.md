@@ -1,6 +1,6 @@
 ---
 slug: "trm-cunningham-d-1987-semiotics-and-education"
-id: "TRM-ENG-46475"
+id: "TRM-ENG-61004"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cunningham, D. (1987). Semiotics and education"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-kitchenerkaren-strohm1"
-id: "TRM-ENG-38330"
+id: "TRM-ENG-52859"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kitchener,Karen Strohm,1"

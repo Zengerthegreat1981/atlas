@@ -1,6 +1,6 @@
 ---
 slug: "trm-ainslie-g-1992-p-icoeconomics"
-id: "TRM-ENG-44290"
+id: "TRM-ENG-58819"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ainslie, G. (1992). P icoeconomics"

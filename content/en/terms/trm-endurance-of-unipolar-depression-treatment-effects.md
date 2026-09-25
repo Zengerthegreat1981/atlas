@@ -1,6 +1,6 @@
 ---
 slug: "trm-endurance-of-unipolar-depression-treatment-effects"
-id: "TRM-ENG-49419"
+id: "TRM-ENG-63948"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "endurance of unipolar depression treatment effects"

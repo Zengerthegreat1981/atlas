@@ -1,6 +1,6 @@
 ---
 slug: "trm-counselor-cultural-bias-and-3"
-id: "TRM-ENG-39759"
+id: "TRM-ENG-54288"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "counselor cultural bias and, 3"

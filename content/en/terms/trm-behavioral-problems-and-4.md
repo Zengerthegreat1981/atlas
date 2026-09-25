@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavioral-problems-and-4"
-id: "TRM-ENG-39342"
+id: "TRM-ENG-53871"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behavioral problems and, 4"

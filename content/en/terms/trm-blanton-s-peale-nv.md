@@ -1,6 +1,6 @@
 ---
 slug: "trm-blanton-s-peale-nv"
-id: "TRM-ENG-39960"
+id: "TRM-ENG-54489"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Blanton S, Peale NV"

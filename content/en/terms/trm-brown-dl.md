@@ -1,6 +1,6 @@
 ---
 slug: "trm-brown-dl"
-id: "TRM-ENG-40048"
+id: "TRM-ENG-54577"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brown DL"

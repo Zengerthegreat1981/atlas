@@ -1,6 +1,6 @@
 ---
 slug: "trm-coping-efficacy-life-transitions-and-2"
-id: "TRM-ENG-39708"
+id: "TRM-ENG-54237"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "coping efficacy, life transitions and, 2"

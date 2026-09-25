@@ -1,6 +1,6 @@
 ---
 slug: "trm-b-2002-big-five-dimensions-and-adhd-symptoms"
-id: "TRM-ENG-43382"
+id: "TRM-ENG-57911"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "B. (2002). Big five dimensions and ADHD symptoms"

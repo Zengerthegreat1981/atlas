@@ -1,6 +1,6 @@
 ---
 slug: "trm-dimensional-personality-symptom-item-pool-eas"
-id: "TRM-ENG-43986"
+id: "TRM-ENG-58515"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dimensional Personality Symptom Item Pool; EAS"

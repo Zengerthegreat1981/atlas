@@ -1,6 +1,6 @@
 ---
 slug: "trm-aneshensel-c-s-1992-social-stress"
-id: "TRM-ENG-46405"
+id: "TRM-ENG-60934"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Aneshensel, C. S. (1992). Social stress"

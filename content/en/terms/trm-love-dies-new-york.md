@@ -1,6 +1,6 @@
 ---
 slug: "trm-love-dies-new-york"
-id: "TRM-ENG-40748"
+id: "TRM-ENG-55277"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "love dies. New York"

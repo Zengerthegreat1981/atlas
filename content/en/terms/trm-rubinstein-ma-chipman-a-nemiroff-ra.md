@@ -1,6 +1,6 @@
 ---
 slug: "trm-rubinstein-ma-chipman-a-nemiroff-ra"
-id: "TRM-ENG-42197"
+id: "TRM-ENG-56726"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rubinstein MA, Chipman A, Nemiroff RA"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-us-trade-name"
-id: "TRM-ENG-43450"
+id: "TRM-ENG-57979"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(U.S. trade name"

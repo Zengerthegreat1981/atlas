@@ -1,6 +1,6 @@
 ---
 slug: "trm-martha-bernal-and-3"
-id: "TRM-ENG-38406"
+id: "TRM-ENG-52935"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Martha Bernal and, 3"

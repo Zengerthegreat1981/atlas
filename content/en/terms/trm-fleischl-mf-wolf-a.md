@@ -1,6 +1,6 @@
 ---
 slug: "trm-fleischl-mf-wolf-a"
-id: "TRM-ENG-40550"
+id: "TRM-ENG-55079"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fleischl MF, Wolf A"

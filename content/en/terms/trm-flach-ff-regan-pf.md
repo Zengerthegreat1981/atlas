@@ -1,6 +1,6 @@
 ---
 slug: "trm-flach-ff-regan-pf"
-id: "TRM-ENG-40545"
+id: "TRM-ENG-55074"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Flach FF, Regan PF"

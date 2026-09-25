@@ -1,6 +1,6 @@
 ---
 slug: "trm-columbia-md"
-id: "TRM-ENG-50265"
+id: "TRM-ENG-64794"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Columbia, MD"

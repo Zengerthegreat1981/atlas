@@ -1,6 +1,6 @@
 ---
 slug: "trm-philosophy-of-language-pp-81102-minneapolis"
-id: "TRM-ENG-45411"
+id: "TRM-ENG-59940"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "philosophy of language (pp. 81–102). Minneapolis"

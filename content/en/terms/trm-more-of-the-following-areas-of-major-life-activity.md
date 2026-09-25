@@ -1,6 +1,6 @@
 ---
 slug: "trm-more-of-the-following-areas-of-major-life-activity"
-id: "TRM-ENG-35146"
+id: "TRM-ENG-64204"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "more of the following areas of major life activity"

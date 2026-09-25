@@ -1,6 +1,6 @@
 ---
 slug: "trm-more-md"
-id: "TRM-ENG-36729"
+id: "TRM-ENG-65787"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "more, MD"

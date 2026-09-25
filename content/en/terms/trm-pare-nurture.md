@@ -1,6 +1,6 @@
 ---
 slug: "trm-pare-nurture"
-id: "TRM-ENG-44122"
+id: "TRM-ENG-58651"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pare NURTURE."

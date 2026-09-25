@@ -1,6 +1,6 @@
 ---
 slug: "trm-andismaladaptiveinnature"
-id: "TRM-ENG-43530"
+id: "TRM-ENG-58059"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "andismaladaptiveinnature"

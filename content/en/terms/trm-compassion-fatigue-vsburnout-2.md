@@ -1,6 +1,6 @@
 ---
 slug: "trm-compassion-fatigue-vsburnout-2"
-id: "TRM-ENG-39611"
+id: "TRM-ENG-54140"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "compassion fatigue vs.burnout, 2"

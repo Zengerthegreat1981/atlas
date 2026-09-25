@@ -1,6 +1,6 @@
 ---
 slug: "trm-explanation-and-reduction"
-id: "TRM-ENG-45018"
+id: "TRM-ENG-59547"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "explanation and reduction"

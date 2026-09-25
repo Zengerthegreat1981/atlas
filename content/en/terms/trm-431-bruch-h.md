@@ -1,6 +1,6 @@
 ---
 slug: "trm-431-bruch-h"
-id: "TRM-ENG-39020"
+id: "TRM-ENG-53549"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "431. Bruch H"

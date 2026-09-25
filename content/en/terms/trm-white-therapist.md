@@ -1,6 +1,6 @@
 ---
 slug: "trm-white-therapist"
-id: "TRM-ENG-34824"
+id: "TRM-ENG-63882"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "White therapist"

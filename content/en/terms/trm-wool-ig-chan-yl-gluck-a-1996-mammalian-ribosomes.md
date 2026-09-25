@@ -1,6 +1,6 @@
 ---
 slug: "trm-wool-ig-chan-yl-gluck-a-1996-mammalian-ribosomes"
-id: "TRM-ENG-36063"
+id: "TRM-ENG-65121"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wool, I.G., Chan, Y.-L., & Gluck, A. (1996). Mammalian ribosomes"

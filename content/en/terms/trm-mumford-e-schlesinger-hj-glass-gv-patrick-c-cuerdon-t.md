@@ -1,6 +1,6 @@
 ---
 slug: "trm-mumford-e-schlesinger-hj-glass-gv-patrick-c-cuerdon-t"
-id: "TRM-ENG-41790"
+id: "TRM-ENG-56319"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mumford E, Schlesinger HJ, Glass GV, Patrick C, Cuerdon T"

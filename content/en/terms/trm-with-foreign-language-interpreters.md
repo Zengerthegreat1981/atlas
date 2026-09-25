@@ -1,6 +1,6 @@
 ---
 slug: "trm-with-foreign-language-interpreters"
-id: "TRM-ENG-42159"
+id: "TRM-ENG-56688"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "with foreign language interpreters"

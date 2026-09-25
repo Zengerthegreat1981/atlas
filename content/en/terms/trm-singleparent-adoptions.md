@@ -1,6 +1,6 @@
 ---
 slug: "trm-singleparent-adoptions"
-id: "TRM-ENG-44851"
+id: "TRM-ENG-59380"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "______, “Single-Parent Adoptions"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-coefficients-c"
-id: "TRM-ENG-45004"
+id: "TRM-ENG-59533"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "coefficients (c"

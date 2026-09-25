@@ -1,6 +1,6 @@
 ---
 slug: "trm-s1995genderandethnicityinchildrensreactivity"
-id: "TRM-ENG-46700"
+id: "TRM-ENG-61229"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "S.(1995).Genderandethnicityinchildren'sreactivity"

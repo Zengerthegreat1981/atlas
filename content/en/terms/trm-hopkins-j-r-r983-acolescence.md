@@ -1,6 +1,6 @@
 ---
 slug: "trm-hopkins-j-r-r983-acolescence"
-id: "TRM-ENG-34720"
+id: "TRM-ENG-63778"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hopkins. J, R. ( r983). Ac’olescence"

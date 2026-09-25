@@ -1,6 +1,6 @@
 ---
 slug: "trm-stress-critical-periods-of-development-bowlby-1969"
-id: "TRM-ENG-35343"
+id: "TRM-ENG-64401"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stress critical periods of development (Bowlby, 1969"

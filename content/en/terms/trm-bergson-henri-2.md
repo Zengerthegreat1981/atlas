@@ -1,6 +1,6 @@
 ---
 slug: "trm-bergson-henri-2"
-id: "TRM-ENG-46297"
+id: "TRM-ENG-60826"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bergson, Henri, 2"

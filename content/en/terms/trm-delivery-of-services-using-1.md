@@ -1,6 +1,6 @@
 ---
 slug: "trm-delivery-of-services-using-1"
-id: "TRM-ENG-39884"
+id: "TRM-ENG-54413"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "delivery of services using, 1"

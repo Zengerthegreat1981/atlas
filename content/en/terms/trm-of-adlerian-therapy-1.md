@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-adlerian-therapy-1"
-id: "TRM-ENG-40986"
+id: "TRM-ENG-55515"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of Adlerian therapy, 1"

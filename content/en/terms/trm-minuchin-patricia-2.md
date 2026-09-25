@@ -1,6 +1,6 @@
 ---
 slug: "trm-minuchin-patricia-2"
-id: "TRM-ENG-50748"
+id: "TRM-ENG-65277"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Minuchin, Patricia, 2"

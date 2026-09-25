@@ -1,6 +1,6 @@
 ---
 slug: "trm-rogoff-b-1990-apprenticeship-in-thinking"
-id: "TRM-ENG-34776"
+id: "TRM-ENG-49305"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rogoff, B. (1990). Apprenticeship in thinking"

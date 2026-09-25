@@ -1,6 +1,6 @@
 ---
 slug: "trm-sis-with-brain-tumor"
-id: "TRM-ENG-43862"
+id: "TRM-ENG-58391"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sis with brain tumor."

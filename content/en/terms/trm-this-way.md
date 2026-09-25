@@ -1,6 +1,6 @@
 ---
 slug: "trm-this-way"
-id: "TRM-ENG-43913"
+id: "TRM-ENG-58442"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "this way."

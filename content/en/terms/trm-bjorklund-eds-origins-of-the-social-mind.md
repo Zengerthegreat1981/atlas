@@ -1,6 +1,6 @@
 ---
 slug: "trm-bjorklund-eds-origins-of-the-social-mind"
-id: "TRM-ENG-36621"
+id: "TRM-ENG-51150"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bjorklund (Eds.), Origins of the social mind"

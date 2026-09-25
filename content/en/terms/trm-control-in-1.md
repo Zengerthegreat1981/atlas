@@ -1,6 +1,6 @@
 ---
 slug: "trm-control-in-1"
-id: "TRM-ENG-39698"
+id: "TRM-ENG-54227"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "control in, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-tics-j-pers-disord-14"
-id: "TRM-ENG-48662"
+id: "TRM-ENG-63191"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tics. J Pers Disord 14"

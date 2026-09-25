@@ -1,6 +1,6 @@
 ---
 slug: "trm-fears-are"
-id: "TRM-ENG-43038"
+id: "TRM-ENG-57567"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "fears are"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-designs"
-id: "TRM-ENG-34971"
+id: "TRM-ENG-49500"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "designs"

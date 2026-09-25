@@ -1,6 +1,6 @@
 ---
 slug: "trm-walker-rg-kelley-fe"
-id: "TRM-ENG-42696"
+id: "TRM-ENG-57225"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Walker RG, Kelley FE"

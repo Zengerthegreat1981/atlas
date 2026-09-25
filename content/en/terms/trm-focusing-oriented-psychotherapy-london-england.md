@@ -1,6 +1,6 @@
 ---
 slug: "trm-focusing-oriented-psychotherapy-london-england"
-id: "TRM-ENG-51466"
+id: "TRM-ENG-65995"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "focusing oriented psychotherapy. London, England"

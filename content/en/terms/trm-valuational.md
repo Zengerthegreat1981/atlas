@@ -1,6 +1,6 @@
 ---
 slug: "trm-valuational"
-id: "TRM-ENG-45415"
+id: "TRM-ENG-59944"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "valuational"

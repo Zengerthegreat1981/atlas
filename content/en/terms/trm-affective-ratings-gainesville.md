@@ -1,6 +1,6 @@
 ---
 slug: "trm-affective-ratings-gainesville"
-id: "TRM-ENG-42589"
+id: "TRM-ENG-57118"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "affective ratings. Gainesville"

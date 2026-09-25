@@ -1,6 +1,6 @@
 ---
 slug: "trm-graduate-schoolwashington-dc"
-id: "TRM-ENG-40322"
+id: "TRM-ENG-54851"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "graduate school.Washington, DC"

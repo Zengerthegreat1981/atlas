@@ -1,6 +1,6 @@
 ---
 slug: "trm-subpersonal-mechanisms"
-id: "TRM-ENG-45538"
+id: "TRM-ENG-60067"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "subpersonal mechanisms"

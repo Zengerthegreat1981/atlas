@@ -1,6 +1,6 @@
 ---
 slug: "trm-munology-2nd-ed-san-diego"
-id: "TRM-ENG-46157"
+id: "TRM-ENG-60686"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "munology. 2nd ed. San Diego"

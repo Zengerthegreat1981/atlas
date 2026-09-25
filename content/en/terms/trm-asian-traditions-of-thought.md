@@ -1,6 +1,6 @@
 ---
 slug: "trm-asian-traditions-of-thought"
-id: "TRM-ENG-46250"
+id: "TRM-ENG-60779"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Asian traditions of thought"

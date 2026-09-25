@@ -1,6 +1,6 @@
 ---
 slug: "trm-ifa-education"
-id: "TRM-ENG-35614"
+id: "TRM-ENG-64672"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "[IFA]; education"

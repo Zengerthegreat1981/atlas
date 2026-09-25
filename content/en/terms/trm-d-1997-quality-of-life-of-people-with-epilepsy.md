@@ -1,6 +1,6 @@
 ---
 slug: "trm-d-1997-quality-of-life-of-people-with-epilepsy"
-id: "TRM-ENG-46485"
+id: "TRM-ENG-61014"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "D. (1997). Quality of life of people with epilepsy"

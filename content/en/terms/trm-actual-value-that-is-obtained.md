@@ -1,6 +1,6 @@
 ---
 slug: "trm-actual-value-that-is-obtained"
-id: "TRM-ENG-43505"
+id: "TRM-ENG-58034"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "actual value that is obtained."

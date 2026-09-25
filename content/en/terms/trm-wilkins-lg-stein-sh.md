@@ -1,6 +1,6 @@
 ---
 slug: "trm-wilkins-lg-stein-sh"
-id: "TRM-ENG-42799"
+id: "TRM-ENG-57328"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wilkins LG, Stein SH"

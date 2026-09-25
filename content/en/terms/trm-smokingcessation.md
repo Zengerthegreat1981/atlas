@@ -1,6 +1,6 @@
 ---
 slug: "trm-smokingcessation"
-id: "TRM-ENG-47294"
+id: "TRM-ENG-61823"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "smokingcessation"

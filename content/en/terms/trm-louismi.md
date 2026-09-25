@@ -1,6 +1,6 @@
 ---
 slug: "trm-louismi"
-id: "TRM-ENG-46614"
+id: "TRM-ENG-61143"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Louis,MI"

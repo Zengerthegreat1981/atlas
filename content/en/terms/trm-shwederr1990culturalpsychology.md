@@ -1,6 +1,6 @@
 ---
 slug: "trm-shwederr1990culturalpsychology"
-id: "TRM-ENG-37294"
+id: "TRM-ENG-66352"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shweder,R.(1990).Culturalpsychology"

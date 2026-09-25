@@ -1,6 +1,6 @@
 ---
 slug: "trm-threeprogramdivisions"
-id: "TRM-ENG-43919"
+id: "TRM-ENG-58448"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "threeprogramdivisions"

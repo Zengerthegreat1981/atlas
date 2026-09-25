@@ -1,6 +1,6 @@
 ---
 slug: "trm-anticipation-stage-of-4"
-id: "TRM-ENG-39211"
+id: "TRM-ENG-53740"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "anticipation stage of, 4"

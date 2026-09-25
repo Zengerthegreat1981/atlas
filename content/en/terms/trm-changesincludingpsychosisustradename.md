@@ -1,6 +1,6 @@
 ---
 slug: "trm-changesincludingpsychosisustradename"
-id: "TRM-ENG-43578"
+id: "TRM-ENG-58107"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "changes,includingpsychosis.U.S.tradename"

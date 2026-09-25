@@ -1,6 +1,6 @@
 ---
 slug: "trm-sary-for-the-digestive-process"
-id: "TRM-ENG-36952"
+id: "TRM-ENG-66010"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sary for the digestive process"

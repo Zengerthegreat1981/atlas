@@ -1,6 +1,6 @@
 ---
 slug: "trm-maddox-g-l-jr-activity-and-morale"
-id: "TRM-ENG-44508"
+id: "TRM-ENG-59037"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Maddox, G. L., Jr., “Activity and Morale"

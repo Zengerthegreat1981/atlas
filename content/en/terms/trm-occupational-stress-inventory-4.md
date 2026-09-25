@@ -1,6 +1,6 @@
 ---
 slug: "trm-occupational-stress-inventory-4"
-id: "TRM-ENG-38526"
+id: "TRM-ENG-53055"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Occupational Stress Inventory, 4"

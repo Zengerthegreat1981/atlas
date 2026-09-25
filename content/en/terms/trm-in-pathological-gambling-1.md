@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-pathological-gambling-1"
-id: "TRM-ENG-40488"
+id: "TRM-ENG-55017"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in pathological gambling, 1"

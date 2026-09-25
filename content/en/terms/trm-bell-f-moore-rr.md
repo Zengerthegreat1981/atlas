@@ -1,6 +1,6 @@
 ---
 slug: "trm-bell-f-moore-rr"
-id: "TRM-ENG-39858"
+id: "TRM-ENG-54387"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bell F, Moore RR"

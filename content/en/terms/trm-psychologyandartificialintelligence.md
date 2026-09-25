@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychologyandartificialintelligence"
-id: "TRM-ENG-43819"
+id: "TRM-ENG-58348"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychology,andartificialintelligence"

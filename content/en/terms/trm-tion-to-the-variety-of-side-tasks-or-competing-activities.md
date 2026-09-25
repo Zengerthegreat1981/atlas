@@ -1,6 +1,6 @@
 ---
 slug: "trm-tion-to-the-variety-of-side-tasks-or-competing-activities"
-id: "TRM-ENG-35408"
+id: "TRM-ENG-49937"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tion to the variety of side tasks or competing activities"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-freud-2"
-id: "TRM-ENG-37367"
+id: "TRM-ENG-66425"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(A. Freud), 2"

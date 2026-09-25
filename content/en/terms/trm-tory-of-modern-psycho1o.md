@@ -1,6 +1,6 @@
 ---
 slug: "trm-tory-of-modern-psycho1o"
-id: "TRM-ENG-35427"
+id: "TRM-ENG-64485"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tory of Modern Psycho1o"

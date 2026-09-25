@@ -1,6 +1,6 @@
 ---
 slug: "trm-human-development-nature-and-2"
-id: "TRM-ENG-40416"
+id: "TRM-ENG-54945"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "human development nature and, 2"

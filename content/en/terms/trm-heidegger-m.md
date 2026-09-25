@@ -1,6 +1,6 @@
 ---
 slug: "trm-heidegger-m"
-id: "TRM-ENG-40958"
+id: "TRM-ENG-55487"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Heidegger M"

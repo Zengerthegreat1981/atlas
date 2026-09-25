@@ -1,6 +1,6 @@
 ---
 slug: "trm-mckinney-f"
-id: "TRM-ENG-41650"
+id: "TRM-ENG-56179"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "McKinney F"

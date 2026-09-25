@@ -1,6 +1,6 @@
 ---
 slug: "trm-178-experiential-treatments"
-id: "TRM-ENG-48819"
+id: "TRM-ENG-63348"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "178 Experiential Treatments"

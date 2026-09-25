@@ -1,6 +1,6 @@
 ---
 slug: "trm-history-of-psychoanalytic-movement-2nd-ed-de-gado"
-id: "TRM-ENG-34576"
+id: "TRM-ENG-63634"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(History of Psychoanalytic Movement, 2nd ed.) de- gado"

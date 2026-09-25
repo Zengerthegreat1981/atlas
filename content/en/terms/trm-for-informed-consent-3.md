@@ -1,6 +1,6 @@
 ---
 slug: "trm-for-informed-consent-3"
-id: "TRM-ENG-40233"
+id: "TRM-ENG-54762"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "for informed consent, 3"

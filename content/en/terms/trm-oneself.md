@@ -1,6 +1,6 @@
 ---
 slug: "trm-oneself"
-id: "TRM-ENG-43131"
+id: "TRM-ENG-57660"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "oneself"

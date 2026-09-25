@@ -1,6 +1,6 @@
 ---
 slug: "trm-infinite-number"
-id: "TRM-ENG-36566"
+id: "TRM-ENG-65624"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "infinite number"

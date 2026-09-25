@@ -1,6 +1,6 @@
 ---
 slug: "trm-with-fewer-observations-mains"
-id: "TRM-ENG-37322"
+id: "TRM-ENG-66380"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "with fewer observations. mains"

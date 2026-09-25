@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychological-stress-mental-illness-and-3"
-id: "TRM-ENG-41338"
+id: "TRM-ENG-55867"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychological stress, mental illness and, 3"

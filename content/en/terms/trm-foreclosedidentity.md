@@ -1,6 +1,6 @@
 ---
 slug: "trm-foreclosedidentity"
-id: "TRM-ENG-43656"
+id: "TRM-ENG-58185"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "foreclosedidentity"

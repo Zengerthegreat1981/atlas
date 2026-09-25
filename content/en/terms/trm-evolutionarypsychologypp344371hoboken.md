@@ -1,6 +1,6 @@
 ---
 slug: "trm-evolutionarypsychologypp344371hoboken"
-id: "TRM-ENG-37747"
+id: "TRM-ENG-66805"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "evolutionarypsychology(pp.344–371).Hoboken"

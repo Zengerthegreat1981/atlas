@@ -1,6 +1,6 @@
 ---
 slug: "trm-professional-philosophers"
-id: "TRM-ENG-36050"
+id: "TRM-ENG-65108"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "professional philosophers"

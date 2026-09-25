@@ -1,6 +1,6 @@
 ---
 slug: "trm-clients-who-live-in-areas-where-psychologists-coun-ity"
-id: "TRM-ENG-39527"
+id: "TRM-ENG-54056"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "clients who live in areas where psychologists, coun- ity"

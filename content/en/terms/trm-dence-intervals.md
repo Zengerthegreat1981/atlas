@@ -1,6 +1,6 @@
 ---
 slug: "trm-dence-intervals"
-id: "TRM-ENG-35753"
+id: "TRM-ENG-64811"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dence intervals"

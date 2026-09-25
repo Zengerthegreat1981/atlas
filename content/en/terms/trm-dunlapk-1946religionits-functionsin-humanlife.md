@@ -1,6 +1,6 @@
 ---
 slug: "trm-dunlapk-1946religionits-functionsin-humanlife"
-id: "TRM-ENG-36749"
+id: "TRM-ENG-51278"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dunlap,K. (1946).Religion,its functionsin humanlife"

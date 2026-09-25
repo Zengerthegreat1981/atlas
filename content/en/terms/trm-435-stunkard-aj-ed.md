@@ -1,6 +1,6 @@
 ---
 slug: "trm-435-stunkard-aj-ed"
-id: "TRM-ENG-39024"
+id: "TRM-ENG-53553"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "435. Stunkard AJ (ed)"

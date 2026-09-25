@@ -1,6 +1,6 @@
 ---
 slug: "trm-classroom-climate-2"
-id: "TRM-ENG-47776"
+id: "TRM-ENG-62305"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "classroom climate, 2"

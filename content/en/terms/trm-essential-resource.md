@@ -1,6 +1,6 @@
 ---
 slug: "trm-essential-resource"
-id: "TRM-ENG-44058"
+id: "TRM-ENG-58587"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "essential resource."

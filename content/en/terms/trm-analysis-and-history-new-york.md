@@ -1,6 +1,6 @@
 ---
 slug: "trm-analysis-and-history-new-york"
-id: "TRM-ENG-34859"
+id: "TRM-ENG-63917"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "analysis and history. New York"

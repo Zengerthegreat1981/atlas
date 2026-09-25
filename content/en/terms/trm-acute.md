@@ -1,6 +1,6 @@
 ---
 slug: "trm-acute"
-id: "TRM-ENG-44876"
+id: "TRM-ENG-59405"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "acute"

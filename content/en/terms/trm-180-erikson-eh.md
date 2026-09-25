@@ -1,6 +1,6 @@
 ---
 slug: "trm-180-erikson-eh"
-id: "TRM-ENG-38663"
+id: "TRM-ENG-53192"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "180. Erikson EH"

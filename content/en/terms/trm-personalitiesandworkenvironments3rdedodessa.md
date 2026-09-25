@@ -1,6 +1,6 @@
 ---
 slug: "trm-personalitiesandworkenvironments3rdedodessa"
-id: "TRM-ENG-38087"
+id: "TRM-ENG-67145"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "personalitiesandworkenvironments(3rded.).Odessa"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-gellhorn-e-et-al"
-id: "TRM-ENG-40683"
+id: "TRM-ENG-55212"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gellhorn E, et al"

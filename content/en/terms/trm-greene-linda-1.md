@@ -1,6 +1,6 @@
 ---
 slug: "trm-greene-linda-1"
-id: "TRM-ENG-46717"
+id: "TRM-ENG-61246"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Greene, Linda, 1"

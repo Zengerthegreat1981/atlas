@@ -1,6 +1,6 @@
 ---
 slug: "trm-althusser-1"
-id: "TRM-ENG-46220"
+id: "TRM-ENG-60749"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Althusser, 1"

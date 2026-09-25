@@ -1,6 +1,6 @@
 ---
 slug: "trm-tionsofhostilityandcoronaryarterydisease"
-id: "TRM-ENG-47351"
+id: "TRM-ENG-61880"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tionsofhostilityandcoronaryarterydisease"

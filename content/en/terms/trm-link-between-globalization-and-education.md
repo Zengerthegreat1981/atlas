@@ -1,6 +1,6 @@
 ---
 slug: "trm-link-between-globalization-and-education"
-id: "TRM-ENG-48290"
+id: "TRM-ENG-62819"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "link between globalization and education"

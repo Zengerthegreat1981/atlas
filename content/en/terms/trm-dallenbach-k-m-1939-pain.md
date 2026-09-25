@@ -1,6 +1,6 @@
 ---
 slug: "trm-dallenbach-k-m-1939-pain"
-id: "TRM-ENG-48956"
+id: "TRM-ENG-63485"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dallenbach, K. M. (1939). Pain"

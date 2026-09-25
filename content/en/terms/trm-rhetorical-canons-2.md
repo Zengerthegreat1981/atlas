@@ -1,6 +1,6 @@
 ---
 slug: "trm-rhetorical-canons-2"
-id: "TRM-ENG-47192"
+id: "TRM-ENG-61721"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rhetorical canons, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-diagnosis-of-1"
-id: "TRM-ENG-39923"
+id: "TRM-ENG-54452"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "diagnosis of, 1"

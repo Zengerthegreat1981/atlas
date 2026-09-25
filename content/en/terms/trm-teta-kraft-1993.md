@@ -1,6 +1,6 @@
 ---
 slug: "trm-teta-kraft-1993"
-id: "TRM-ENG-42546"
+id: "TRM-ENG-57075"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Teta, & Kraft, 1993)"

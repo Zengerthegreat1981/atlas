@@ -1,6 +1,6 @@
 ---
 slug: "trm-ahistoricalsurveynewyork"
-id: "TRM-ENG-36540"
+id: "TRM-ENG-65598"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ahistoricalsurvey.NewYork"

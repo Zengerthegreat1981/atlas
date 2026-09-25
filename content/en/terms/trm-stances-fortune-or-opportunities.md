@@ -1,6 +1,6 @@
 ---
 slug: "trm-stances-fortune-or-opportunities"
-id: "TRM-ENG-37027"
+id: "TRM-ENG-66085"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stances, fortune, or opportunities"

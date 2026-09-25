@@ -1,6 +1,6 @@
 ---
 slug: "trm-constructionofwhitenessminneapolis"
-id: "TRM-ENG-37653"
+id: "TRM-ENG-52182"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "constructionofwhiteness.Minneapolis"

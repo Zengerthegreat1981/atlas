@@ -1,6 +1,6 @@
 ---
 slug: "trm-generation-systems-cambridge-uk"
-id: "TRM-ENG-45153"
+id: "TRM-ENG-59682"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "generation systems. Cambridge, UK"

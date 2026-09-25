@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-treatment-2-4153-doi"
-id: "TRM-ENG-43607"
+id: "TRM-ENG-58136"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and Treatment, 2, 41–53. doi"

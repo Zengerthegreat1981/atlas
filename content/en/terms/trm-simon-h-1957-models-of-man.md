@@ -1,6 +1,6 @@
 ---
 slug: "trm-simon-h-1957-models-of-man"
-id: "TRM-ENG-34790"
+id: "TRM-ENG-49319"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Simon, H. (1957). Models of man"

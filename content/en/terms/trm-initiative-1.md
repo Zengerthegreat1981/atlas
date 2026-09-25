@@ -1,6 +1,6 @@
 ---
 slug: "trm-initiative-1"
-id: "TRM-ENG-46803"
+id: "TRM-ENG-61332"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Initiative, 1"

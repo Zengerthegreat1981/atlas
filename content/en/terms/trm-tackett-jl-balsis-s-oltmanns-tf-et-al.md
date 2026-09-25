@@ -1,6 +1,6 @@
 ---
 slug: "trm-tackett-jl-balsis-s-oltmanns-tf-et-al"
-id: "TRM-ENG-48117"
+id: "TRM-ENG-62646"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tackett JL, Balsis S, Oltmanns TF, et al"

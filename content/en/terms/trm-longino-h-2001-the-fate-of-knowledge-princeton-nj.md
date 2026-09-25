@@ -1,6 +1,6 @@
 ---
 slug: "trm-longino-h-2001-the-fate-of-knowledge-princeton-nj"
-id: "TRM-ENG-46949"
+id: "TRM-ENG-61478"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Longino, H. (2001). The fate of knowledge. Princeton, NJ"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-power-when-they-are-young-and-must-learn-its-techniques-numerous-areas"
-id: "TRM-ENG-36885"
+id: "TRM-ENG-65943"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "power when they are young and must learn its techniques numerous areas"

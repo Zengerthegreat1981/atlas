@@ -1,6 +1,6 @@
 ---
 slug: "trm-which-prp-effects-are-obtained"
-id: "TRM-ENG-45685"
+id: "TRM-ENG-60214"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "which PRP effects are obtained"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-used-to-be"
-id: "TRM-ENG-42091"
+id: "TRM-ENG-56620"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "used to be"

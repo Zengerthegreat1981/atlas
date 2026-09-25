@@ -1,6 +1,6 @@
 ---
 slug: "trm-s-ue-d-erald-w-ing-1942"
-id: "TRM-ENG-38708"
+id: "TRM-ENG-53237"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "S UE , D ERALD W ING (1942– )"

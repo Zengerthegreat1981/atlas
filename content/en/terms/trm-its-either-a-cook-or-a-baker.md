@@ -1,6 +1,6 @@
 ---
 slug: "trm-its-either-a-cook-or-a-baker"
-id: "TRM-ENG-44547"
+id: "TRM-ENG-59076"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "It’s either a cook or a baker"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-581-turner-sm-ed"
-id: "TRM-ENG-39195"
+id: "TRM-ENG-53724"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "581. Turner SM (ed)"

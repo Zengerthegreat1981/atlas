@@ -1,6 +1,6 @@
 ---
 slug: "trm-exist"
-id: "TRM-ENG-48007"
+id: "TRM-ENG-62536"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "exist"

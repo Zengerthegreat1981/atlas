@@ -1,6 +1,6 @@
 ---
 slug: "trm-pclr-see-psychopathy-checklist"
-id: "TRM-ENG-43496"
+id: "TRM-ENG-58025"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "PCL–R. See Psychopathy Checklist"

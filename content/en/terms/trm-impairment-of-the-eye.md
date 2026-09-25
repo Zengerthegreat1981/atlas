@@ -1,6 +1,6 @@
 ---
 slug: "trm-impairment-of-the-eye"
-id: "TRM-ENG-34866"
+id: "TRM-ENG-63924"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "impairment of the eye"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-pepinsky-harold-1"
-id: "TRM-ENG-38577"
+id: "TRM-ENG-53106"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pepinsky, Harold, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-glickman-l"
-id: "TRM-ENG-40728"
+id: "TRM-ENG-55257"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Glickman, L"

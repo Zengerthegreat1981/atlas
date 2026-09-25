@@ -1,6 +1,6 @@
 ---
 slug: "trm-freud-a-1927-einfuhrung-in-die-technik-der-kinderanalyse"
-id: "TRM-ENG-36813"
+id: "TRM-ENG-65871"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Freud, A. (1927). Einfuhrung in die Technik der Kinderanalyse"

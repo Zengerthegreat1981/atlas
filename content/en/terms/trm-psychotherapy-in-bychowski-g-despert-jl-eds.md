@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychotherapy-in-bychowski-g-despert-jl-eds"
-id: "TRM-ENG-43159"
+id: "TRM-ENG-57688"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychotherapy, in Bychowski G, Despert JL (eds)"

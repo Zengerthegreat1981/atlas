@@ -1,6 +1,6 @@
 ---
 slug: "trm-davis-t-1"
-id: "TRM-ENG-37933"
+id: "TRM-ENG-52462"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Davis, T., 1"

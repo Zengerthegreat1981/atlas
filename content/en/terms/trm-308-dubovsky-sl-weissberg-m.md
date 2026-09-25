@@ -1,6 +1,6 @@
 ---
 slug: "trm-308-dubovsky-sl-weissberg-m"
-id: "TRM-ENG-38865"
+id: "TRM-ENG-53394"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "308. Dubovsky SL, Weissberg M"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-181-greenspan-si-pollock-gh-eds"
-id: "TRM-ENG-38664"
+id: "TRM-ENG-53193"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "181. Greenspan SI, Pollock GH (eds)"

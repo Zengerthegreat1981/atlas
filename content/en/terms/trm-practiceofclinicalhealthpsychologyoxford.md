@@ -1,6 +1,6 @@
 ---
 slug: "trm-practiceofclinicalhealthpsychologyoxford"
-id: "TRM-ENG-47207"
+id: "TRM-ENG-61736"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "practiceofclinicalhealthpsychology.Oxford"

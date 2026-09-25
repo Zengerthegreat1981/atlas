@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-devalue-the-therapists-efforts"
-id: "TRM-ENG-43890"
+id: "TRM-ENG-58419"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to devalue the therapist’s efforts"

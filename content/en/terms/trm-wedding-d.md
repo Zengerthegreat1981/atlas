@@ -1,6 +1,6 @@
 ---
 slug: "trm-wedding-d"
-id: "TRM-ENG-42740"
+id: "TRM-ENG-57269"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wedding D"

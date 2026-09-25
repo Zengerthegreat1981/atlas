@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp187244chicago"
-id: "TRM-ENG-48798"
+id: "TRM-ENG-63327"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp.187±244)Chicago"

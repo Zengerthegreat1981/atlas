@@ -1,6 +1,6 @@
 ---
 slug: "trm-relaxation-technique-in-2"
-id: "TRM-ENG-41480"
+id: "TRM-ENG-56009"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "relaxation technique in, 2"

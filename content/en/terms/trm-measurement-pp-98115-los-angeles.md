@@ -1,6 +1,6 @@
 ---
 slug: "trm-measurement-pp-98115-los-angeles"
-id: "TRM-ENG-35937"
+id: "TRM-ENG-64995"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "measurement (pp. 98–115). Los Angeles"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-theories-have-been-advanced"
-id: "TRM-ENG-37142"
+id: "TRM-ENG-51671"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theories have been advanced"

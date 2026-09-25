@@ -1,6 +1,6 @@
 ---
 slug: "trm-how-simply-these-formulas-can-be-calculated"
-id: "TRM-ENG-45176"
+id: "TRM-ENG-59705"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "how simply these formulas can be calculated"

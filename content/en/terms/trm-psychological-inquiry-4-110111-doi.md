@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychological-inquiry-4-110111-doi"
-id: "TRM-ENG-43524"
+id: "TRM-ENG-58053"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychological Inquiry, 4, 110–111. doi"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-riessman-f"
-id: "TRM-ENG-42119"
+id: "TRM-ENG-56648"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Riessman F"

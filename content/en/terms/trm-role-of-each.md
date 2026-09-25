@@ -1,6 +1,6 @@
 ---
 slug: "trm-role-of-each"
-id: "TRM-ENG-45486"
+id: "TRM-ENG-60015"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "role of each)"

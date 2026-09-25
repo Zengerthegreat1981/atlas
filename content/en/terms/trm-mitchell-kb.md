@@ -1,6 +1,6 @@
 ---
 slug: "trm-mitchell-kb"
-id: "TRM-ENG-41746"
+id: "TRM-ENG-56275"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mitchell KB"

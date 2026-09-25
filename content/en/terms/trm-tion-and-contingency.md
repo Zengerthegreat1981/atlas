@@ -1,6 +1,6 @@
 ---
 slug: "trm-tion-and-contingency"
-id: "TRM-ENG-48914"
+id: "TRM-ENG-63443"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tion and contingency"

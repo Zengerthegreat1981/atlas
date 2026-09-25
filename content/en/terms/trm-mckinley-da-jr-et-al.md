@@ -1,6 +1,6 @@
 ---
 slug: "trm-mckinley-da-jr-et-al"
-id: "TRM-ENG-41649"
+id: "TRM-ENG-56178"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "McKinley DA, Jr. et al"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-illustrate-how-distribution-shape-is-evaluated-the-forms"
-id: "TRM-ENG-35597"
+id: "TRM-ENG-64655"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "To illustrate how distribution shape is evaluated, the forms"

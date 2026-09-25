@@ -1,6 +1,6 @@
 ---
 slug: "trm-lidz-t"
-id: "TRM-ENG-41453"
+id: "TRM-ENG-55982"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lidz T"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-societal-values"
-id: "TRM-ENG-44889"
+id: "TRM-ENG-59418"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and societal values"

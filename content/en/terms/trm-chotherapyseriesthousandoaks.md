@@ -1,6 +1,6 @@
 ---
 slug: "trm-chotherapyseriesthousandoaks"
-id: "TRM-ENG-37623"
+id: "TRM-ENG-52152"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chotherapyseries.ThousandOaks"

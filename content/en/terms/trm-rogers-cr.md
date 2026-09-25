@@ -1,6 +1,6 @@
 ---
 slug: "trm-rogers-cr"
-id: "TRM-ENG-42146"
+id: "TRM-ENG-56675"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rogers CR"

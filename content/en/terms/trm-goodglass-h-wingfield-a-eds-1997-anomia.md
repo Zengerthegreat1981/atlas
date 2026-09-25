@@ -1,6 +1,6 @@
 ---
 slug: "trm-goodglass-h-wingfield-a-eds-1997-anomia"
-id: "TRM-ENG-35708"
+id: "TRM-ENG-64766"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goodglass, H., & Wingfield, A. (Eds.). (1997). Anomia"

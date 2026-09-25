@@ -1,6 +1,6 @@
 ---
 slug: "trm-counseling-and-3"
-id: "TRM-ENG-39727"
+id: "TRM-ENG-54256"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "counseling and, 3"

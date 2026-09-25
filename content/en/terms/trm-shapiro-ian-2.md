@@ -1,6 +1,6 @@
 ---
 slug: "trm-shapiro-ian-2"
-id: "TRM-ENG-47273"
+id: "TRM-ENG-61802"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shapiro, Ian, 2"

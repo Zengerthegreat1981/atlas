@@ -1,6 +1,6 @@
 ---
 slug: "trm-spirituality-in-counseling-and-2"
-id: "TRM-ENG-41747"
+id: "TRM-ENG-56276"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "spirituality in counseling and, 2"

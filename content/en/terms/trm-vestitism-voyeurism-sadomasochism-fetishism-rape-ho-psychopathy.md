@@ -1,6 +1,6 @@
 ---
 slug: "trm-vestitism-voyeurism-sadomasochism-fetishism-rape-ho-psychopathy"
-id: "TRM-ENG-37285"
+id: "TRM-ENG-66343"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "vestitism, voyeurism, sadomasochism, fetishism, rape, ho- Psychopathy"

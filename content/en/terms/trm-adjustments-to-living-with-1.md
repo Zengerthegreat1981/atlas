@@ -1,6 +1,6 @@
 ---
 slug: "trm-adjustments-to-living-with-1"
-id: "TRM-ENG-39112"
+id: "TRM-ENG-53641"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "adjustments to living with, 1"

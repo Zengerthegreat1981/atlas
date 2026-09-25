@@ -1,6 +1,6 @@
 ---
 slug: "trm-disorderspp280309newyork"
-id: "TRM-ENG-49393"
+id: "TRM-ENG-63922"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disorders(pp.280±309).NewYork"

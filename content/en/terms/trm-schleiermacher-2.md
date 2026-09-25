@@ -1,6 +1,6 @@
 ---
 slug: "trm-schleiermacher-2"
-id: "TRM-ENG-47229"
+id: "TRM-ENG-61758"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schleiermacher, 2"

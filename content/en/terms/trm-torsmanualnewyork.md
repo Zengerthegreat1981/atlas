@@ -1,6 +1,6 @@
 ---
 slug: "trm-torsmanualnewyork"
-id: "TRM-ENG-38388"
+id: "TRM-ENG-52917"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tor’sManual.NewYork"

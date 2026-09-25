@@ -1,6 +1,6 @@
 ---
 slug: "trm-canadian-university-students-the-role-of-faith-groups-on-cam-mental-health"
-id: "TRM-ENG-35613"
+id: "TRM-ENG-50142"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Canadian university students; the role of faith groups on cam- mental health"

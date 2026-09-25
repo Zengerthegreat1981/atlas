@@ -1,6 +1,6 @@
 ---
 slug: "trm-thompsont-2005paul-e-meehl-andbf-skinner"
-id: "TRM-ENG-37364"
+id: "TRM-ENG-66422"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Thompson,T. (2005).Paul E. Meehl andB.F. Skinner"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-austin-ln"
-id: "TRM-ENG-39743"
+id: "TRM-ENG-54272"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Austin LN"

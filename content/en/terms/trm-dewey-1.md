@@ -1,6 +1,6 @@
 ---
 slug: "trm-dewey-1"
-id: "TRM-ENG-46506"
+id: "TRM-ENG-61035"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dewey, 1"

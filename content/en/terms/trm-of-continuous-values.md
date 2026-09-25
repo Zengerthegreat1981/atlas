@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-continuous-values"
-id: "TRM-ENG-45579"
+id: "TRM-ENG-60108"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of continuous values"

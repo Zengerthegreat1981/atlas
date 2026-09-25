@@ -1,6 +1,6 @@
 ---
 slug: "trm-caplan-g-killilea-m"
-id: "TRM-ENG-40124"
+id: "TRM-ENG-54653"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Caplan G, Killilea M"

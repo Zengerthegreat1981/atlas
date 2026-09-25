@@ -1,6 +1,6 @@
 ---
 slug: "trm-but-it-is-often-only-partial"
-id: "TRM-ENG-42987"
+id: "TRM-ENG-57516"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "but it is often only partial"

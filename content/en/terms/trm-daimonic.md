@@ -1,6 +1,6 @@
 ---
 slug: "trm-daimonic"
-id: "TRM-ENG-51385"
+id: "TRM-ENG-65914"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "daimonic"

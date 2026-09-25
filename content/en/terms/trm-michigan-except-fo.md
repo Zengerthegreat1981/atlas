@@ -1,6 +1,6 @@
 ---
 slug: "trm-michigan-except-fo"
-id: "TRM-ENG-34750"
+id: "TRM-ENG-63808"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Michigan. Except fo."

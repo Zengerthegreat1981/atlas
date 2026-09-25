@@ -1,6 +1,6 @@
 ---
 slug: "trm-activity-in-the-brain"
-id: "TRM-ENG-34731"
+id: "TRM-ENG-49260"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "activity in the brain"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-anosognosia-for-some-deficits"
-id: "TRM-ENG-44912"
+id: "TRM-ENG-59441"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "anosognosia for some deficits"

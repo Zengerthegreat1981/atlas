@@ -1,6 +1,6 @@
 ---
 slug: "trm-259-klerman-gl-ed"
-id: "TRM-ENG-38786"
+id: "TRM-ENG-53315"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "259. Klerman GL (ed)"

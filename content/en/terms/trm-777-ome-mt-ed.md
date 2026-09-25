@@ -1,6 +1,6 @@
 ---
 slug: "trm-777-ome-mt-ed"
-id: "TRM-ENG-39428"
+id: "TRM-ENG-53957"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "777. Ome MT (ed)"

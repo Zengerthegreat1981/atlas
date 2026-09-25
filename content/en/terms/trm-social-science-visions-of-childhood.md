@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-science-visions-of-childhood"
-id: "TRM-ENG-47302"
+id: "TRM-ENG-61831"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Social Science; Visions of Childhood"

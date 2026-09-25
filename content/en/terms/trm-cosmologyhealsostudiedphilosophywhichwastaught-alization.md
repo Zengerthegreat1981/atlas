@@ -1,6 +1,6 @@
 ---
 slug: "trm-cosmologyhealsostudiedphilosophywhichwastaught-alization"
-id: "TRM-ENG-37659"
+id: "TRM-ENG-52188"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cosmology.Healsostudiedphilosophywhichwastaught alization"

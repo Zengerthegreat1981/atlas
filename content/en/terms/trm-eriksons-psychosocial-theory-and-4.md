@@ -1,6 +1,6 @@
 ---
 slug: "trm-eriksons-psychosocial-theory-and-4"
-id: "TRM-ENG-38031"
+id: "TRM-ENG-67089"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Erikson’s psychosocial theory and, 4"

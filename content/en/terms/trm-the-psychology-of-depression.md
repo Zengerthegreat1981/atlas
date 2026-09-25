@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-psychology-of-depression"
-id: "TRM-ENG-49199"
+id: "TRM-ENG-63728"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The psychology of depression"

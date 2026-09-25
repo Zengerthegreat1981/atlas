@@ -1,6 +1,6 @@
 ---
 slug: "trm-spectivestudyandii"
-id: "TRM-ENG-47299"
+id: "TRM-ENG-61828"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "spectivestudyandII"

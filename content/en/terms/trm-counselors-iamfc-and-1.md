@@ -1,6 +1,6 @@
 ---
 slug: "trm-counselors-iamfc-and-1"
-id: "TRM-ENG-37886"
+id: "TRM-ENG-66944"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Counselors (IAMFC) and, 1"

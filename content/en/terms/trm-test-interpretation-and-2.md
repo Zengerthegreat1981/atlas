@@ -1,6 +1,6 @@
 ---
 slug: "trm-test-interpretation-and-2"
-id: "TRM-ENG-41860"
+id: "TRM-ENG-56389"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "test interpretation and, 2"

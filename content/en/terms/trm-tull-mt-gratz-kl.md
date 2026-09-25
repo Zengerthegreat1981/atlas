@@ -1,6 +1,6 @@
 ---
 slug: "trm-tull-mt-gratz-kl"
-id: "TRM-ENG-48133"
+id: "TRM-ENG-62662"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tull MT, Gratz KL"

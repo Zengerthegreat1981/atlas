@@ -1,6 +1,6 @@
 ---
 slug: "trm-specifically-attitudes"
-id: "TRM-ENG-36131"
+id: "TRM-ENG-65189"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "specifically, attitudes"

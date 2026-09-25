@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-humans-ii"
-id: "TRM-ENG-34874"
+id: "TRM-ENG-63932"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in humans II"

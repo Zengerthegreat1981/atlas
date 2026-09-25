@@ -1,6 +1,6 @@
 ---
 slug: "trm-possess-up-to-all-three-forms-depending-on-their-level-brain"
-id: "TRM-ENG-45424"
+id: "TRM-ENG-59953"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "possess up to all three forms, depending on their level brain"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-that-are-used"
-id: "TRM-ENG-36162"
+id: "TRM-ENG-65220"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "that are used"

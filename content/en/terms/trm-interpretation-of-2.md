@@ -1,6 +1,6 @@
 ---
 slug: "trm-interpretation-of-2"
-id: "TRM-ENG-40617"
+id: "TRM-ENG-55146"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "interpretation of, 2"

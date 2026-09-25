@@ -1,6 +1,6 @@
 ---
 slug: "trm-research-on-internal"
-id: "TRM-ENG-35918"
+id: "TRM-ENG-64976"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Research on internal"

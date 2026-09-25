@@ -1,6 +1,6 @@
 ---
 slug: "trm-with-four-major-content-areas"
-id: "TRM-ENG-42160"
+id: "TRM-ENG-56689"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "with four major content areas"

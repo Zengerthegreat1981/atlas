@@ -1,6 +1,6 @@
 ---
 slug: "trm-23-zilboorg-g-henry-gw"
-id: "TRM-ENG-38751"
+id: "TRM-ENG-53280"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "23. Zilboorg G, Henry GW"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-equality"
-id: "TRM-ENG-48939"
+id: "TRM-ENG-63468"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to equality"

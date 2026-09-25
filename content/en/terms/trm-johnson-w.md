@@ -1,6 +1,6 @@
 ---
 slug: "trm-johnson-w"
-id: "TRM-ENG-41142"
+id: "TRM-ENG-55671"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Johnson W"

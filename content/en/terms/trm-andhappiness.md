@@ -1,6 +1,6 @@
 ---
 slug: "trm-andhappiness"
-id: "TRM-ENG-45836"
+id: "TRM-ENG-60365"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "andHappiness"

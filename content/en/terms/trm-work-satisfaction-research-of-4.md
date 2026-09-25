@@ -1,6 +1,6 @@
 ---
 slug: "trm-work-satisfaction-research-of-4"
-id: "TRM-ENG-42181"
+id: "TRM-ENG-56710"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "work satisfaction research of, 4"

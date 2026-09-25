@@ -1,6 +1,6 @@
 ---
 slug: "trm-separate-from-the-longer-original-form"
-id: "TRM-ENG-36112"
+id: "TRM-ENG-65170"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "separate from the longer original form"

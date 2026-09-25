@@ -1,6 +1,6 @@
 ---
 slug: "trm-kahn-m-1991-between-therapist-and-client"
-id: "TRM-ENG-50623"
+id: "TRM-ENG-65152"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kahn, M. (1991). Between therapist and client"

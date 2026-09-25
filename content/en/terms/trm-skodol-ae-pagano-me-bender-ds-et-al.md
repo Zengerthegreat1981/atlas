@@ -1,6 +1,6 @@
 ---
 slug: "trm-skodol-ae-pagano-me-bender-ds-et-al"
-id: "TRM-ENG-48084"
+id: "TRM-ENG-62613"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Skodol AE, Pagano ME, Bender DS, et al"

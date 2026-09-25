@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-endogenous-depression"
-id: "TRM-ENG-49257"
+id: "TRM-ENG-63786"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and endogenous depression"

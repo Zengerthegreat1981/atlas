@@ -1,6 +1,6 @@
 ---
 slug: "trm-sentence-2"
-id: "TRM-ENG-44757"
+id: "TRM-ENG-59286"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sentence 2"

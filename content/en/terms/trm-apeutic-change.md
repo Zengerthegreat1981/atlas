@@ -1,6 +1,6 @@
 ---
 slug: "trm-apeutic-change"
-id: "TRM-ENG-48203"
+id: "TRM-ENG-62732"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "apeutic change"

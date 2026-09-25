@@ -1,6 +1,6 @@
 ---
 slug: "trm-bender-ds-skodol-ae-dyck-ir-et-al"
-id: "TRM-ENG-47501"
+id: "TRM-ENG-62030"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bender DS, Skodol AE, Dyck IR, et al"

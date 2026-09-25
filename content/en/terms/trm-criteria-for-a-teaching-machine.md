@@ -1,6 +1,6 @@
 ---
 slug: "trm-criteria-for-a-teaching-machine"
-id: "TRM-ENG-47837"
+id: "TRM-ENG-62366"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "criteria for a teaching machine"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-2007-toward-a-dialect-theory"
-id: "TRM-ENG-44251"
+id: "TRM-ENG-58780"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2007). Toward a dialect theory"

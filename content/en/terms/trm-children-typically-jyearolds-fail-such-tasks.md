@@ -1,6 +1,6 @@
 ---
 slug: "trm-children-typically-jyearolds-fail-such-tasks"
-id: "TRM-ENG-34932"
+id: "TRM-ENG-63990"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "children, typically j-year-olds, fail such tasks"

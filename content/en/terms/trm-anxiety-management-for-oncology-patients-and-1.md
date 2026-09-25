@@ -1,6 +1,6 @@
 ---
 slug: "trm-anxiety-management-for-oncology-patients-and-1"
-id: "TRM-ENG-39227"
+id: "TRM-ENG-53756"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "anxiety management for oncology patients and, 1"

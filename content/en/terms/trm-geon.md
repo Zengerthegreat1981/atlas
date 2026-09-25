@@ -1,6 +1,6 @@
 ---
 slug: "trm-geon"
-id: "TRM-ENG-36483"
+id: "TRM-ENG-65541"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "geon"

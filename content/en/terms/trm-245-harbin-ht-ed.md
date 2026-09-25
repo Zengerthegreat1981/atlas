@@ -1,6 +1,6 @@
 ---
 slug: "trm-245-harbin-ht-ed"
-id: "TRM-ENG-38770"
+id: "TRM-ENG-53299"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "245. Harbin HT (ed)"

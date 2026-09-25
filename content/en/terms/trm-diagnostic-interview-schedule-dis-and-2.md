@@ -1,6 +1,6 @@
 ---
 slug: "trm-diagnostic-interview-schedule-dis-and-2"
-id: "TRM-ENG-37957"
+id: "TRM-ENG-67015"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Diagnostic Interview Schedule (DIS) and, 2"

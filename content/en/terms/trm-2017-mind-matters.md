@@ -1,6 +1,6 @@
 ---
 slug: "trm-2017-mind-matters"
-id: "TRM-ENG-43917"
+id: "TRM-ENG-58446"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2017). Mind matters"

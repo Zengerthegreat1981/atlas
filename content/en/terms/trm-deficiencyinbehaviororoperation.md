@@ -1,6 +1,6 @@
 ---
 slug: "trm-deficiencyinbehaviororoperation"
-id: "TRM-ENG-43606"
+id: "TRM-ENG-58135"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "deficiencyinbehaviororoperation."

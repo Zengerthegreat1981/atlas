@@ -1,6 +1,6 @@
 ---
 slug: "trm-rates-at-18month-followup-were"
-id: "TRM-ENG-49672"
+id: "TRM-ENG-64201"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rates at 18-month follow-up were"

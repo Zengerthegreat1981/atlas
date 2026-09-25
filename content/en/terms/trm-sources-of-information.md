@@ -1,6 +1,6 @@
 ---
 slug: "trm-sources-of-information"
-id: "TRM-ENG-45525"
+id: "TRM-ENG-60054"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sources of information"

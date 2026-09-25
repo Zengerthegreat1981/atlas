@@ -1,6 +1,6 @@
 ---
 slug: "trm-other-beliefs"
-id: "TRM-ENG-48502"
+id: "TRM-ENG-63031"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "other beliefs"

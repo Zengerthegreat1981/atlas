@@ -1,6 +1,6 @@
 ---
 slug: "trm-new-harmony-experiment-2"
-id: "TRM-ENG-47054"
+id: "TRM-ENG-61583"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "New Harmony experiment, 2"

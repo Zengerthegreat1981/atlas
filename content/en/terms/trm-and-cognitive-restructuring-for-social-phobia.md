@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-cognitive-restructuring-for-social-phobia"
-id: "TRM-ENG-49256"
+id: "TRM-ENG-63785"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and cognitive restructuring for social phobia"

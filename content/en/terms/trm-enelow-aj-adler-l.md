@@ -1,6 +1,6 @@
 ---
 slug: "trm-enelow-aj-adler-l"
-id: "TRM-ENG-40449"
+id: "TRM-ENG-54978"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Enelow AJ, Adler L"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-homicide"
-id: "TRM-ENG-36521"
+id: "TRM-ENG-51050"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "homicide"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-thatmatterstotheplanttruesomephilosophers"
-id: "TRM-ENG-46035"
+id: "TRM-ENG-60564"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thatmatterstotheplant.True,somephilosophers"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-reciprocal-determination"
-id: "TRM-ENG-52595"
+id: "TRM-ENG-67124"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reciprocal determination"

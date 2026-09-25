@@ -1,6 +1,6 @@
 ---
 slug: "trm-family-therapists-and-1"
-id: "TRM-ENG-38064"
+id: "TRM-ENG-67122"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Family Therapists and, 1"

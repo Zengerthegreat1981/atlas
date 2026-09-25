@@ -1,6 +1,6 @@
 ---
 slug: "trm-periods-of-disequilibrium-qualitative-changes-gradually-development"
-id: "TRM-ENG-35221"
+id: "TRM-ENG-49750"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "periods of disequilibrium. Qualitative changes gradually development"

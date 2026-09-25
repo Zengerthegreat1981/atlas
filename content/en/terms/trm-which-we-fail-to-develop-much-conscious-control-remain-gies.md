@@ -1,6 +1,6 @@
 ---
 slug: "trm-which-we-fail-to-develop-much-conscious-control-remain-gies"
-id: "TRM-ENG-37315"
+id: "TRM-ENG-66373"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "which we fail to develop much conscious control remain gies"

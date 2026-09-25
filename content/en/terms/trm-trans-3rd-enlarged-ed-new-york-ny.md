@@ -1,6 +1,6 @@
 ---
 slug: "trm-trans-3rd-enlarged-ed-new-york-ny"
-id: "TRM-ENG-51118"
+id: "TRM-ENG-65647"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Trans.; 3rd enlarged ed.). New York, NY"

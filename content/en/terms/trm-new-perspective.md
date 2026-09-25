@@ -1,6 +1,6 @@
 ---
 slug: "trm-new-perspective"
-id: "TRM-ENG-38504"
+id: "TRM-ENG-53033"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "New perspective"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-98-malinowski-b"
-id: "TRM-ENG-39610"
+id: "TRM-ENG-54139"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "98. Malinowski B"

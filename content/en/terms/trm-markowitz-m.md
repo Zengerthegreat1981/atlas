@@ -1,6 +1,6 @@
 ---
 slug: "trm-markowitz-m"
-id: "TRM-ENG-41584"
+id: "TRM-ENG-56113"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Markowitz M"

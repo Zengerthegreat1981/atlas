@@ -1,6 +1,6 @@
 ---
 slug: "trm-disabilities-511"
-id: "TRM-ENG-34980"
+id: "TRM-ENG-64038"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disabilities (51.1%)"

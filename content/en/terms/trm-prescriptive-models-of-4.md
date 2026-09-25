@@ -1,6 +1,6 @@
 ---
 slug: "trm-prescriptive-models-of-4"
-id: "TRM-ENG-41261"
+id: "TRM-ENG-55790"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "prescriptive models of, 4"

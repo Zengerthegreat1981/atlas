@@ -1,6 +1,6 @@
 ---
 slug: "trm-rationalityreasonandthegoodinmoralityreason-issues"
-id: "TRM-ENG-46098"
+id: "TRM-ENG-60627"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“Rationality,Reason,andtheGood.”InMorality,Reason issues"

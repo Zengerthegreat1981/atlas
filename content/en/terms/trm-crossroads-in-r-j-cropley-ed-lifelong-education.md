@@ -1,6 +1,6 @@
 ---
 slug: "trm-crossroads-in-r-j-cropley-ed-lifelong-education"
-id: "TRM-ENG-47849"
+id: "TRM-ENG-62378"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "crossroads. In R. J. Cropley (Ed.), Lifelong education"

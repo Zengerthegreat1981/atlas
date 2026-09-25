@@ -1,6 +1,6 @@
 ---
 slug: "trm-sanders-sh"
-id: "TRM-ENG-42229"
+id: "TRM-ENG-56758"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sanders SH"

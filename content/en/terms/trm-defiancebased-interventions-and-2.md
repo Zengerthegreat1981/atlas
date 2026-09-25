@@ -1,6 +1,6 @@
 ---
 slug: "trm-defiancebased-interventions-and-2"
-id: "TRM-ENG-39866"
+id: "TRM-ENG-54395"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "defiance-based interventions and, 2"

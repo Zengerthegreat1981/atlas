@@ -1,6 +1,6 @@
 ---
 slug: "trm-applications-of-2"
-id: "TRM-ENG-39236"
+id: "TRM-ENG-53765"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "applications of, 2"

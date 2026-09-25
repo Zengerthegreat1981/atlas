@@ -1,6 +1,6 @@
 ---
 slug: "trm-howell-m-whitehead-j-1989-survive-stress"
-id: "TRM-ENG-49029"
+id: "TRM-ENG-63558"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Howell, M., & Whitehead, J. (1989). Survive stress"

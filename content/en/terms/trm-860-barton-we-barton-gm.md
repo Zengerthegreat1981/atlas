@@ -1,6 +1,6 @@
 ---
 slug: "trm-860-barton-we-barton-gm"
-id: "TRM-ENG-39523"
+id: "TRM-ENG-54052"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "860. Barton WE, Barton GM"

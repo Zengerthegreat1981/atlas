@@ -1,6 +1,6 @@
 ---
 slug: "trm-quarterly-55-640642-doi"
-id: "TRM-ENG-35522"
+id: "TRM-ENG-64580"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Quarterly, 55, 640–642. doi"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-frankl-v-e-1972-viktor-frankl-archive"
-id: "TRM-ENG-50421"
+id: "TRM-ENG-64950"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Frankl, V. E. (1972). Viktor Frankl archive"

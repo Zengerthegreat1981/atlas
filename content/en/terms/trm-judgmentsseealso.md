@@ -1,6 +1,6 @@
 ---
 slug: "trm-judgmentsseealso"
-id: "TRM-ENG-37900"
+id: "TRM-ENG-52429"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "judgments(seealso"

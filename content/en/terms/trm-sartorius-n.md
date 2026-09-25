@@ -1,6 +1,6 @@
 ---
 slug: "trm-sartorius-n"
-id: "TRM-ENG-48043"
+id: "TRM-ENG-62572"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sartorius N"

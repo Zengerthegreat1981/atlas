@@ -1,6 +1,6 @@
 ---
 slug: "trm-tural-perspective"
-id: "TRM-ENG-43393"
+id: "TRM-ENG-57922"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tural perspective"

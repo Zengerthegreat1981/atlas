@@ -1,6 +1,6 @@
 ---
 slug: "trm-americas-career-infonet-and-4"
-id: "TRM-ENG-37597"
+id: "TRM-ENG-52126"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "America’s Career InfoNet and, 4"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ence-comes-to-contested-areas-of-public-policy"
-id: "TRM-ENG-47960"
+id: "TRM-ENG-62489"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ence comes to contested areas of public policy"

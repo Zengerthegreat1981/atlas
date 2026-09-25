@@ -1,6 +1,6 @@
 ---
 slug: "trm-suicide-sleep-and-death"
-id: "TRM-ENG-44821"
+id: "TRM-ENG-59350"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, “Suicide, Sleep and Death"

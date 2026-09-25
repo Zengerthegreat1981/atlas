@@ -1,6 +1,6 @@
 ---
 slug: "trm-kant-1"
-id: "TRM-ENG-46857"
+id: "TRM-ENG-61386"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kant, 1"

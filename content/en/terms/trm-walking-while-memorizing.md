@@ -1,6 +1,6 @@
 ---
 slug: "trm-walking-while-memorizing"
-id: "TRM-ENG-36039"
+id: "TRM-ENG-65097"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Walking while memorizing"

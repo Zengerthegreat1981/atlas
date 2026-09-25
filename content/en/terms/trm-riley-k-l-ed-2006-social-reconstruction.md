@@ -1,6 +1,6 @@
 ---
 slug: "trm-riley-k-l-ed-2006-social-reconstruction"
-id: "TRM-ENG-47200"
+id: "TRM-ENG-61729"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Riley, K. L. (Ed.). (2006). Social reconstruction"

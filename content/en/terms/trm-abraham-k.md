@@ -1,6 +1,6 @@
 ---
 slug: "trm-abraham-k"
-id: "TRM-ENG-39624"
+id: "TRM-ENG-54153"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Abraham K"

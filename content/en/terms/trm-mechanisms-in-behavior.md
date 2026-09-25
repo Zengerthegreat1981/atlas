@@ -1,6 +1,6 @@
 ---
 slug: "trm-mechanisms-in-behavior"
-id: "TRM-ENG-44529"
+id: "TRM-ENG-59058"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mechanisms in Behavior"

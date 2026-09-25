@@ -1,6 +1,6 @@
 ---
 slug: "trm-century"
-id: "TRM-ENG-34926"
+id: "TRM-ENG-49455"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "century"

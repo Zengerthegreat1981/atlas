@@ -1,6 +1,6 @@
 ---
 slug: "trm-reconstructing-events-to-justify-this-affective-memory-system"
-id: "TRM-ENG-35282"
+id: "TRM-ENG-64340"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reconstructing events to justify this affective memory. system"

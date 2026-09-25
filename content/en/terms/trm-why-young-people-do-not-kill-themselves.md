@@ -1,6 +1,6 @@
 ---
 slug: "trm-why-young-people-do-not-kill-themselves"
-id: "TRM-ENG-36053"
+id: "TRM-ENG-65111"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Why young people do not kill themselves"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-transracial-adoptions"
-id: "TRM-ENG-45394"
+id: "TRM-ENG-59923"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "transracial adoptions"

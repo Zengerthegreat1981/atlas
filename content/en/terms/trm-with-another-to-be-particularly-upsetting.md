@@ -1,6 +1,6 @@
 ---
 slug: "trm-with-another-to-be-particularly-upsetting"
-id: "TRM-ENG-45695"
+id: "TRM-ENG-60224"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "with another to be particularly upsetting"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-osophical-arenas"
-id: "TRM-ENG-48501"
+id: "TRM-ENG-63030"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "osophical arenas"

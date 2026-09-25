@@ -1,6 +1,6 @@
 ---
 slug: "trm-bia-these-fears-usually-relate-to-anxiety-regarding-cid"
-id: "TRM-ENG-46041"
+id: "TRM-ENG-60570"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bia. These fears usually relate to anxiety regarding (cid"

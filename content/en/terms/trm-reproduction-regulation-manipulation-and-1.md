@@ -1,6 +1,6 @@
 ---
 slug: "trm-reproduction-regulation-manipulation-and-1"
-id: "TRM-ENG-41500"
+id: "TRM-ENG-56029"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reproduction regulation, manipulation and, 1"

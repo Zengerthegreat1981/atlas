@@ -1,6 +1,6 @@
 ---
 slug: "trm-implicit-and-explicit-behavior-patterns-and-3"
-id: "TRM-ENG-40460"
+id: "TRM-ENG-54989"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "implicit and explicit behavior patterns and, 3"

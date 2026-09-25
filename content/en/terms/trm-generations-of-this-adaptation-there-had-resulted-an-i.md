@@ -1,6 +1,6 @@
 ---
 slug: "trm-generations-of-this-adaptation-there-had-resulted-an-i"
-id: "TRM-ENG-37790"
+id: "TRM-ENG-66848"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "generations of this adaptation there had resulted “an I"

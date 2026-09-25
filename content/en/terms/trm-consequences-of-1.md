@@ -1,6 +1,6 @@
 ---
 slug: "trm-consequences-of-1"
-id: "TRM-ENG-39657"
+id: "TRM-ENG-54186"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "consequences of, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-heritability-of-intellectual-traits-work-of-1"
-id: "TRM-ENG-40370"
+id: "TRM-ENG-54899"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "heritability of intellectual traits work of, 1"

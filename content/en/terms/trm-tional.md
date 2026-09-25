@@ -1,6 +1,6 @@
 ---
 slug: "trm-tional"
-id: "TRM-ENG-43350"
+id: "TRM-ENG-57879"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tional"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-figure-3"
-id: "TRM-ENG-37442"
+id: "TRM-ENG-66500"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(figure), 3"

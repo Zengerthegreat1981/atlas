@@ -1,6 +1,6 @@
 ---
 slug: "trm-americans-for-the-21st-century-cambridge-ma"
-id: "TRM-ENG-46231"
+id: "TRM-ENG-60760"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Americans for the 21st century. Cambridge, MA"

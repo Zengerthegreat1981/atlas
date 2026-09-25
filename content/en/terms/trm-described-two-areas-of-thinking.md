@@ -1,6 +1,6 @@
 ---
 slug: "trm-described-two-areas-of-thinking"
-id: "TRM-ENG-46072"
+id: "TRM-ENG-60601"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "described two areas of thinking"

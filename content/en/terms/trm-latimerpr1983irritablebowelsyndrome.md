@@ -1,6 +1,6 @@
 ---
 slug: "trm-latimerpr1983irritablebowelsyndrome"
-id: "TRM-ENG-46601"
+id: "TRM-ENG-61130"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Latimer,P.R.(1983).Irritablebowelsyndrome"

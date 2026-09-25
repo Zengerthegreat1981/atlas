@@ -1,6 +1,6 @@
 ---
 slug: "trm-decided-is-the-following"
-id: "TRM-ENG-43007"
+id: "TRM-ENG-57536"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "decided is the following"

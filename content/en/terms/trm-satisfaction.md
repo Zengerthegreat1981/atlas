@@ -1,6 +1,6 @@
 ---
 slug: "trm-satisfaction"
-id: "TRM-ENG-36099"
+id: "TRM-ENG-65157"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "satisfaction"

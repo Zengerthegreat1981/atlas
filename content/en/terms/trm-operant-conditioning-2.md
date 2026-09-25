@@ -1,6 +1,6 @@
 ---
 slug: "trm-operant-conditioning-2"
-id: "TRM-ENG-50815"
+id: "TRM-ENG-65344"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Operant conditioning, 2"

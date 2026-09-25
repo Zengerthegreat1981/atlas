@@ -1,6 +1,6 @@
 ---
 slug: "trm-edshandbookofpsychologicalskillstraining"
-id: "TRM-ENG-48786"
+id: "TRM-ENG-63315"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Eds.),Handbookofpsychologicalskillstraining"

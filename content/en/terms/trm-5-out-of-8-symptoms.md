@@ -1,6 +1,6 @@
 ---
 slug: "trm-5-out-of-8-symptoms"
-id: "TRM-ENG-49873"
+id: "TRM-ENG-64402"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "– 5 out of 8 symptoms"

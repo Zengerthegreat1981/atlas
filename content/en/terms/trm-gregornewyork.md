@@ -1,6 +1,6 @@
 ---
 slug: "trm-gregornewyork"
-id: "TRM-ENG-45709"
+id: "TRM-ENG-60238"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gregor.NewYork"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-them-needs-to-score-only-one-essay-from-all-indi-of-items-ncid"
-id: "TRM-ENG-36005"
+id: "TRM-ENG-65063"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of them needs to score only one essay from all indi- of items (n(cid"

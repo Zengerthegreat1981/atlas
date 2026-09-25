@@ -1,6 +1,6 @@
 ---
 slug: "trm-2001-3646-retrieved-from-http"
-id: "TRM-ENG-36513"
+id: "TRM-ENG-65571"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "2001, 36–46. Retrieved from http"

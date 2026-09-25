@@ -1,6 +1,6 @@
 ---
 slug: "trm-frederiksonmannaspfischerhwikg1996-memory"
-id: "TRM-ENG-48989"
+id: "TRM-ENG-63518"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Frederikson,M.,Annas,P.,Fischer,H.,&Wik,G.(1996). memory"

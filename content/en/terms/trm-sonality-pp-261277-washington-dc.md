@@ -1,6 +1,6 @@
 ---
 slug: "trm-sonality-pp-261277-washington-dc"
-id: "TRM-ENG-43231"
+id: "TRM-ENG-57760"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sonality (pp. 261–277). Washington, DC"

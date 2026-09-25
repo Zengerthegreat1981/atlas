@@ -1,6 +1,6 @@
 ---
 slug: "trm-goble-f-g-the-third-force"
-id: "TRM-ENG-44408"
+id: "TRM-ENG-58937"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goble, F. G., The Third Force"

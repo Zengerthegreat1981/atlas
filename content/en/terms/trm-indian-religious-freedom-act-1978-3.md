@@ -1,6 +1,6 @@
 ---
 slug: "trm-indian-religious-freedom-act-1978-3"
-id: "TRM-ENG-38226"
+id: "TRM-ENG-52755"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Indian Religious Freedom Act (1978), 3"

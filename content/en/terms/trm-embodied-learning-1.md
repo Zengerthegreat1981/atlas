@@ -1,6 +1,6 @@
 ---
 slug: "trm-embodied-learning-1"
-id: "TRM-ENG-46565"
+id: "TRM-ENG-61094"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Embodied learning, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-couple-atlanta-ga"
-id: "TRM-ENG-51380"
+id: "TRM-ENG-65909"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "couple. Atlanta, GA"

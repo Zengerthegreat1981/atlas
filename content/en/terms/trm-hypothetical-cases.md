@@ -1,6 +1,6 @@
 ---
 slug: "trm-hypothetical-cases"
-id: "TRM-ENG-45182"
+id: "TRM-ENG-59711"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "hypothetical cases"

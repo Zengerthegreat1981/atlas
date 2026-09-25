@@ -1,6 +1,6 @@
 ---
 slug: "trm-appraisal-theories-1"
-id: "TRM-ENG-44299"
+id: "TRM-ENG-58828"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Appraisal theories, 1"

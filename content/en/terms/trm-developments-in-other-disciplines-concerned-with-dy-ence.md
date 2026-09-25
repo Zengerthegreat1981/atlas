@@ -1,6 +1,6 @@
 ---
 slug: "trm-developments-in-other-disciplines-concerned-with-dy-ence"
-id: "TRM-ENG-34974"
+id: "TRM-ENG-64032"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "developments in other disciplines concerned with dy- ence"

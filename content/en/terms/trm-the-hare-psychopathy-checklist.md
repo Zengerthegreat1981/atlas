@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-hare-psychopathy-checklist"
-id: "TRM-ENG-43860"
+id: "TRM-ENG-58389"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the Hare Psychopathy Checklist"

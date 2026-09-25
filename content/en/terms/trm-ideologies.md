@@ -1,6 +1,6 @@
 ---
 slug: "trm-ideologies"
-id: "TRM-ENG-48141"
+id: "TRM-ENG-62670"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ideologies"

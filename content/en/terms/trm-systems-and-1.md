@@ -1,6 +1,6 @@
 ---
 slug: "trm-systems-and-1"
-id: "TRM-ENG-41841"
+id: "TRM-ENG-56370"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "systems and, 1"

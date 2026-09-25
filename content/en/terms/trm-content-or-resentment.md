@@ -1,6 +1,6 @@
 ---
 slug: "trm-content-or-resentment"
-id: "TRM-ENG-43595"
+id: "TRM-ENG-58124"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "content or resentment."

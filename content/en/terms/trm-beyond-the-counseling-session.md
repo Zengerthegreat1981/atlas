@@ -1,6 +1,6 @@
 ---
 slug: "trm-beyond-the-counseling-session"
-id: "TRM-ENG-39362"
+id: "TRM-ENG-53891"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "beyond the counseling session"

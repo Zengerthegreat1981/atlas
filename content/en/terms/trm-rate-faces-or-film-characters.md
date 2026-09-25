@@ -1,6 +1,6 @@
 ---
 slug: "trm-rate-faces-or-film-characters"
-id: "TRM-ENG-43168"
+id: "TRM-ENG-57697"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rate faces or film characters"

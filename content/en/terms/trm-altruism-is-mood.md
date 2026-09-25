@@ -1,6 +1,6 @@
 ---
 slug: "trm-altruism-is-mood"
-id: "TRM-ENG-36301"
+id: "TRM-ENG-65359"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "altruism is mood"

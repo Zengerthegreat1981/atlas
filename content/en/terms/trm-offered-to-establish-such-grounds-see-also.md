@@ -1,6 +1,6 @@
 ---
 slug: "trm-offered-to-establish-such-grounds-see-also"
-id: "TRM-ENG-36797"
+id: "TRM-ENG-65855"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "offered to establish such grounds. See also"

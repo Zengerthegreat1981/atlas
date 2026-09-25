@@ -1,6 +1,6 @@
 ---
 slug: "trm-versial-psychiatric-disorder-with-three-forms"
-id: "TRM-ENG-43966"
+id: "TRM-ENG-58495"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "versial psychiatric disorder with three forms"

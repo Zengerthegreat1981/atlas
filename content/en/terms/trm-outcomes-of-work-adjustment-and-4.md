@@ -1,6 +1,6 @@
 ---
 slug: "trm-outcomes-of-work-adjustment-and-4"
-id: "TRM-ENG-41090"
+id: "TRM-ENG-55619"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "outcomes of work adjustment and, 4"

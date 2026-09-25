@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp-6885-la-salle-il"
-id: "TRM-ENG-49954"
+id: "TRM-ENG-64483"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp. 68–85). La Salle, IL"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-bell-ap-et-al"
-id: "TRM-ENG-39857"
+id: "TRM-ENG-54386"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bell AP et al"

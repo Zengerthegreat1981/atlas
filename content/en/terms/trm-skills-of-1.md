@@ -1,6 +1,6 @@
 ---
 slug: "trm-skills-of-1"
-id: "TRM-ENG-41676"
+id: "TRM-ENG-56205"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "skills of, 1"

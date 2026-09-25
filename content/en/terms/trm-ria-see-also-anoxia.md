@@ -1,6 +1,6 @@
 ---
 slug: "trm-ria-see-also-anoxia"
-id: "TRM-ENG-44138"
+id: "TRM-ENG-58667"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ria). See also ANOXIA,"

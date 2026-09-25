@@ -1,6 +1,6 @@
 ---
 slug: "trm-chogenicpruritus"
-id: "TRM-ENG-43583"
+id: "TRM-ENG-58112"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chogenicpruritus."

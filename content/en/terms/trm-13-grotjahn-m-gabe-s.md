@@ -1,6 +1,6 @@
 ---
 slug: "trm-13-grotjahn-m-gabe-s"
-id: "TRM-ENG-38596"
+id: "TRM-ENG-53125"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "13. Grotjahn M, Gabe S"

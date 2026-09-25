@@ -1,6 +1,6 @@
 ---
 slug: "trm-yours-mine-ours"
-id: "TRM-ENG-42900"
+id: "TRM-ENG-57429"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Yours, Mine & Ours"

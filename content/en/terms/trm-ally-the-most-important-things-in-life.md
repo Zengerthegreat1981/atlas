@@ -1,6 +1,6 @@
 ---
 slug: "trm-ally-the-most-important-things-in-life"
-id: "TRM-ENG-47572"
+id: "TRM-ENG-62101"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ally the most important things in life"

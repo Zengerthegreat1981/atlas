@@ -1,6 +1,6 @@
 ---
 slug: "trm-beck-j-s-1995-cognitive-therapy"
-id: "TRM-ENG-48901"
+id: "TRM-ENG-63430"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Beck, J. S. (1995). Cognitive therapy"

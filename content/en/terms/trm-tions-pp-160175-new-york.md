@@ -1,6 +1,6 @@
 ---
 slug: "trm-tions-pp-160175-new-york"
-id: "TRM-ENG-43361"
+id: "TRM-ENG-57890"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tions (pp. 160–175). New York"

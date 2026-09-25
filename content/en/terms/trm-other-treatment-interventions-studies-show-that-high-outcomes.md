@@ -1,6 +1,6 @@
 ---
 slug: "trm-other-treatment-interventions-studies-show-that-high-outcomes"
-id: "TRM-ENG-41079"
+id: "TRM-ENG-55608"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "other treatment interventions. Studies show that high outcomes"

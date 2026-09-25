@@ -1,6 +1,6 @@
 ---
 slug: "trm-sources-of-efficacy-information"
-id: "TRM-ENG-41733"
+id: "TRM-ENG-56262"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sources of efficacy information"

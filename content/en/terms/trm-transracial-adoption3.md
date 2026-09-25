@@ -1,6 +1,6 @@
 ---
 slug: "trm-transracial-adoption3"
-id: "TRM-ENG-38937"
+id: "TRM-ENG-53466"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Transracial adoption,3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-program-has-two-phases"
-id: "TRM-ENG-43156"
+id: "TRM-ENG-57685"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "program has two phases"

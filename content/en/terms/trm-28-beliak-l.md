@@ -1,6 +1,6 @@
 ---
 slug: "trm-28-beliak-l"
-id: "TRM-ENG-38814"
+id: "TRM-ENG-53343"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "28. Beliak L"

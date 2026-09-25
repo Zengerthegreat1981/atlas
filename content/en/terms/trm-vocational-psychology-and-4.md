@@ -1,6 +1,6 @@
 ---
 slug: "trm-vocational-psychology-and-4"
-id: "TRM-ENG-42134"
+id: "TRM-ENG-56663"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "vocational psychology and, 4"

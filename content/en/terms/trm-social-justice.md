@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-justice"
-id: "TRM-ENG-41702"
+id: "TRM-ENG-56231"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social justice"

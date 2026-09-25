@@ -1,6 +1,6 @@
 ---
 slug: "trm-roazenp1985helenedeutsch"
-id: "TRM-ENG-37236"
+id: "TRM-ENG-66294"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Roazen,P.(1985).HeleneDeutsch"

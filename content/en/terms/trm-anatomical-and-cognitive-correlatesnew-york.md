@@ -1,6 +1,6 @@
 ---
 slug: "trm-anatomical-and-cognitive-correlatesnew-york"
-id: "TRM-ENG-36113"
+id: "TRM-ENG-50642"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "anatomical and cognitive correlates.New York"

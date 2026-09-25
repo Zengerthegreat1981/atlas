@@ -1,6 +1,6 @@
 ---
 slug: "trm-615-wann-t-ed"
-id: "TRM-ENG-39238"
+id: "TRM-ENG-53767"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "615. Wann T (ed)"

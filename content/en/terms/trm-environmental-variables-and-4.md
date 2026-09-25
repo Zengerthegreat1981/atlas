@@ -1,6 +1,6 @@
 ---
 slug: "trm-environmental-variables-and-4"
-id: "TRM-ENG-40067"
+id: "TRM-ENG-54596"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "environmental variables and, 4"

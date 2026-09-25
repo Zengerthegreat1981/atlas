@@ -1,6 +1,6 @@
 ---
 slug: "trm-mele-alfred-r-irrationality"
-id: "TRM-ENG-45742"
+id: "TRM-ENG-60271"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mele, Alfred R. Irrationality"

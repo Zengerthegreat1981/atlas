@@ -1,6 +1,6 @@
 ---
 slug: "trm-jama"
-id: "TRM-ENG-41092"
+id: "TRM-ENG-55621"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "JAMA"

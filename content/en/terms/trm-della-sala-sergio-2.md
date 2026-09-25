@@ -1,6 +1,6 @@
 ---
 slug: "trm-della-sala-sergio-2"
-id: "TRM-ENG-44425"
+id: "TRM-ENG-58954"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Della Sala, Sergio, 2"

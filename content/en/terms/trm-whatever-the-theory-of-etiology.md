@@ -1,6 +1,6 @@
 ---
 slug: "trm-whatever-the-theory-of-etiology"
-id: "TRM-ENG-43245"
+id: "TRM-ENG-57774"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "whatever the theory of etiology"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-thoughts-and-behaviors"
-id: "TRM-ENG-36190"
+id: "TRM-ENG-65248"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thoughts and behaviors"

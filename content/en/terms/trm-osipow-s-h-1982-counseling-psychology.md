@@ -1,6 +1,6 @@
 ---
 slug: "trm-osipow-s-h-1982-counseling-psychology"
-id: "TRM-ENG-38546"
+id: "TRM-ENG-53075"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Osipow, S. H. (1982). Counseling psychology"

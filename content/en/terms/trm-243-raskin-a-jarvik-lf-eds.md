@@ -1,6 +1,6 @@
 ---
 slug: "trm-243-raskin-a-jarvik-lf-eds"
-id: "TRM-ENG-38768"
+id: "TRM-ENG-53297"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "243. Raskin A, Jarvik LF (eds)"

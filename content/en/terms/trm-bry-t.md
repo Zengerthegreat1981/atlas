@@ -1,6 +1,6 @@
 ---
 slug: "trm-bry-t"
-id: "TRM-ENG-40062"
+id: "TRM-ENG-54591"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bry T"

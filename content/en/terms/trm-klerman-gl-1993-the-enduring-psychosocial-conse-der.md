@@ -1,6 +1,6 @@
 ---
 slug: "trm-klerman-gl-1993-the-enduring-psychosocial-conse-der"
-id: "TRM-ENG-35792"
+id: "TRM-ENG-50321"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Klerman, G.L. (1993). The enduring psychosocial conse- der"

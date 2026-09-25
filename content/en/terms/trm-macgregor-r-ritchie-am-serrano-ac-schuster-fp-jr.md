@@ -1,6 +1,6 @@
 ---
 slug: "trm-macgregor-r-ritchie-am-serrano-ac-schuster-fp-jr"
-id: "TRM-ENG-41538"
+id: "TRM-ENG-56067"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "MacGregor R, Ritchie AM, Serrano AC, Schuster FP, Jr"

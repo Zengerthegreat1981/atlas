@@ -1,6 +1,6 @@
 ---
 slug: "trm-westen-d-shedler-j"
-id: "TRM-ENG-48147"
+id: "TRM-ENG-62676"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Westen D, Shedler J"

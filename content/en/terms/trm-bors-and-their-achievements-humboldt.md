@@ -1,6 +1,6 @@
 ---
 slug: "trm-bors-and-their-achievements-humboldt"
-id: "TRM-ENG-47706"
+id: "TRM-ENG-62235"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bors and their achievements. Humboldt"

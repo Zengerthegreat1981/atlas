@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-same-terms-he-used-to-describe-himself"
-id: "TRM-ENG-43308"
+id: "TRM-ENG-57837"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the same terms he used to describe himself"

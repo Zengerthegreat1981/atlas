@@ -1,6 +1,6 @@
 ---
 slug: "trm-ross-elisabeth-kbler-1"
-id: "TRM-ENG-38706"
+id: "TRM-ENG-53235"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ross, Elisabeth Kübler, 1"

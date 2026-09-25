@@ -1,6 +1,6 @@
 ---
 slug: "trm-7-hostility-an-aspect-of-antagonism"
-id: "TRM-ENG-47442"
+id: "TRM-ENG-61971"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "7. Hostility (an aspect of Antagonism)"

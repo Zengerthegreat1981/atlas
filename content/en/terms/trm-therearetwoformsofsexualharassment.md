@@ -1,6 +1,6 @@
 ---
 slug: "trm-therearetwoformsofsexualharassment"
-id: "TRM-ENG-43910"
+id: "TRM-ENG-58439"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therearetwoformsofsexualharassment"

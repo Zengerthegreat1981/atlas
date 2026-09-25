@@ -1,6 +1,6 @@
 ---
 slug: "trm-hart-s-d-newman-j-p-1990-the-revised-ny"
-id: "TRM-ENG-43439"
+id: "TRM-ENG-57968"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hart, S. D., & Newman, J. P. (1990). The Revised NY"

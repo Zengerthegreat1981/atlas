@@ -1,6 +1,6 @@
 ---
 slug: "trm-usually-is-not-harmful-to-the-penis-cid"
-id: "TRM-ENG-46262"
+id: "TRM-ENG-60791"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "usually is not harmful to the penis. (cid"

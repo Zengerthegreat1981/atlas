@@ -1,6 +1,6 @@
 ---
 slug: "trm-gaukroger-s-1995-descartes"
-id: "TRM-ENG-34705"
+id: "TRM-ENG-49234"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gaukroger. S. (1995). Descartes"

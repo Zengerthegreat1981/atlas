@@ -1,6 +1,6 @@
 ---
 slug: "trm-cation-and-inner-solidarity-with"
-id: "TRM-ENG-42705"
+id: "TRM-ENG-57234"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cation and inner solidarity with"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-field-of-criminal-justice"
-id: "TRM-ENG-48026"
+id: "TRM-ENG-62555"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "field of criminal justice"

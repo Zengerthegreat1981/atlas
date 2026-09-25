@@ -1,6 +1,6 @@
 ---
 slug: "trm-earlier-have-shown-that"
-id: "TRM-ENG-49406"
+id: "TRM-ENG-63935"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "earlier have shown that"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-seligman-m-2002-authentic-happiness"
-id: "TRM-ENG-51018"
+id: "TRM-ENG-65547"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Seligman, M. (2002). Authentic happiness"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-automaticity-2"
-id: "TRM-ENG-44947"
+id: "TRM-ENG-59476"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "automaticity, 2"

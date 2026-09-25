@@ -1,6 +1,6 @@
 ---
 slug: "trm-johnson-sue-1"
-id: "TRM-ENG-50605"
+id: "TRM-ENG-65134"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Johnson, Sue, 1"

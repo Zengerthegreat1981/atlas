@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-workshop-modelmilwaukee-wi"
-id: "TRM-ENG-37505"
+id: "TRM-ENG-52034"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "A workshop model.Milwaukee, WI"

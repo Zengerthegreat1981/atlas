@@ -1,6 +1,6 @@
 ---
 slug: "trm-interface"
-id: "TRM-ENG-48223"
+id: "TRM-ENG-62752"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "interface"

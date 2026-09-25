@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavioralsciencespp1234312349amsterdam"
-id: "TRM-ENG-37581"
+id: "TRM-ENG-66639"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behavioralsciences(pp.12343–12349).Amsterdam"

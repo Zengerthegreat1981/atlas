@@ -1,6 +1,6 @@
 ---
 slug: "trm-traitfactor-counseling-and-4"
-id: "TRM-ENG-42012"
+id: "TRM-ENG-56541"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "trait-factor counseling and, 4"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-school-choice-2"
-id: "TRM-ENG-47231"
+id: "TRM-ENG-61760"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "School choice, 2"

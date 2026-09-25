@@ -1,6 +1,6 @@
 ---
 slug: "trm-thompson-c-psychoanalysis"
-id: "TRM-ENG-44670"
+id: "TRM-ENG-59199"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Thompson, C., Psychoanalysis"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-895-levinson-h-et-al"
-id: "TRM-ENG-39561"
+id: "TRM-ENG-54090"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "895. Levinson H, et al"

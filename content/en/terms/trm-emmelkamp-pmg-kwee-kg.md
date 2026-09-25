@@ -1,6 +1,6 @@
 ---
 slug: "trm-emmelkamp-pmg-kwee-kg"
-id: "TRM-ENG-40440"
+id: "TRM-ENG-54969"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Emmelkamp PMG, Kwee, KG"

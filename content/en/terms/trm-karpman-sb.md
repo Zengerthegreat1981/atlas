@@ -1,6 +1,6 @@
 ---
 slug: "trm-karpman-sb"
-id: "TRM-ENG-41203"
+id: "TRM-ENG-55732"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Karpman SB"

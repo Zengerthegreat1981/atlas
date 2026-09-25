@@ -1,6 +1,6 @@
 ---
 slug: "trm-epine-receptor"
-id: "TRM-ENG-35783"
+id: "TRM-ENG-50312"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "epine receptor"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-standpoint-theory-1"
-id: "TRM-ENG-48750"
+id: "TRM-ENG-63279"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "standpoint theory, 1"

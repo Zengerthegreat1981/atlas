@@ -1,6 +1,6 @@
 ---
 slug: "trm-rity"
-id: "TRM-ENG-43183"
+id: "TRM-ENG-57712"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rity"

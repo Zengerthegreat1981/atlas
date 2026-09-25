@@ -1,6 +1,6 @@
 ---
 slug: "trm-gutmann-a-1987-democratic-education-princeton-nj"
-id: "TRM-ENG-46729"
+id: "TRM-ENG-61258"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gutmann, A. (1987). Democratic education. Princeton, NJ"

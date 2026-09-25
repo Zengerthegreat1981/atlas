@@ -1,6 +1,6 @@
 ---
 slug: "trm-educational-and-psychological-measurement-2"
-id: "TRM-ENG-38011"
+id: "TRM-ENG-52540"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Educational and Psychological Measurement 2"

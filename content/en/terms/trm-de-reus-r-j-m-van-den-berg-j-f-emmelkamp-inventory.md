@@ -1,6 +1,6 @@
 ---
 slug: "trm-de-reus-r-j-m-van-den-berg-j-f-emmelkamp-inventory"
-id: "TRM-ENG-42751"
+id: "TRM-ENG-57280"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "de Reus, R. J. M., van den Berg, J. F., & Emmelkamp, inventory"

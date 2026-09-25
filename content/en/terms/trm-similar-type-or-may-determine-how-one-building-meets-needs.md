@@ -1,6 +1,6 @@
 ---
 slug: "trm-similar-type-or-may-determine-how-one-building-meets-needs"
-id: "TRM-ENG-35316"
+id: "TRM-ENG-64374"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "similar type, or may determine how one building meets needs"

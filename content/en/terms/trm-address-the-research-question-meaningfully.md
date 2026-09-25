@@ -1,6 +1,6 @@
 ---
 slug: "trm-address-the-research-question-meaningfully"
-id: "TRM-ENG-35624"
+id: "TRM-ENG-64682"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "address the research question meaningfully"

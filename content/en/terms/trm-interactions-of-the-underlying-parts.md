@@ -1,6 +1,6 @@
 ---
 slug: "trm-interactions-of-the-underlying-parts"
-id: "TRM-ENG-48222"
+id: "TRM-ENG-62751"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "interactions of the underlying parts"

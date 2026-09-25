@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognition-was-in-the-wings"
-id: "TRM-ENG-37636"
+id: "TRM-ENG-66694"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cognition was in the wings"

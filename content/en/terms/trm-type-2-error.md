@@ -1,6 +1,6 @@
 ---
 slug: "trm-type-2-error"
-id: "TRM-ENG-52438"
+id: "TRM-ENG-66967"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Type 2 error"

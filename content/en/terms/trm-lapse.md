@@ -1,6 +1,6 @@
 ---
 slug: "trm-lapse"
-id: "TRM-ENG-46133"
+id: "TRM-ENG-60662"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lapse"

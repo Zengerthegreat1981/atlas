@@ -1,6 +1,6 @@
 ---
 slug: "trm-jersild-at"
-id: "TRM-ENG-41128"
+id: "TRM-ENG-55657"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jersild AT"

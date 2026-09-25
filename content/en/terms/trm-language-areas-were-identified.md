@@ -1,6 +1,6 @@
 ---
 slug: "trm-language-areas-were-identified"
-id: "TRM-ENG-45505"
+id: "TRM-ENG-60034"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "language areas were identified"

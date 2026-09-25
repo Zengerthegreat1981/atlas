@@ -1,6 +1,6 @@
 ---
 slug: "trm-cloninger-cr-svrakic-d"
-id: "TRM-ENG-47559"
+id: "TRM-ENG-62088"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cloninger CR, Svrakic D"

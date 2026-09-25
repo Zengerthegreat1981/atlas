@@ -1,6 +1,6 @@
 ---
 slug: "trm-low"
-id: "TRM-ENG-43473"
+id: "TRM-ENG-58002"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Low"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-business-operationsconventional"
-id: "TRM-ENG-37745"
+id: "TRM-ENG-66803"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Business Operations(Conventional)"

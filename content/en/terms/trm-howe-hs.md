@@ -1,6 +1,6 @@
 ---
 slug: "trm-howe-hs"
-id: "TRM-ENG-41041"
+id: "TRM-ENG-55570"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Howe HS"

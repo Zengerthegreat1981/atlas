@@ -1,6 +1,6 @@
 ---
 slug: "trm-carman-t-2003-heideggers-analytic"
-id: "TRM-ENG-46379"
+id: "TRM-ENG-60908"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Carman, T. (2003). Heidegger’s analytic"

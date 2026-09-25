@@ -1,6 +1,6 @@
 ---
 slug: "trm-differential-treatment-of-cultural-groups-and-2"
-id: "TRM-ENG-39934"
+id: "TRM-ENG-54463"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "differential treatment of cultural groups and, 2"

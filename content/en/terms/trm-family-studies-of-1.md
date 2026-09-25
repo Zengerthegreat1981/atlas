@@ -1,6 +1,6 @@
 ---
 slug: "trm-family-studies-of-1"
-id: "TRM-ENG-40181"
+id: "TRM-ENG-54710"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "family studies of, 1"

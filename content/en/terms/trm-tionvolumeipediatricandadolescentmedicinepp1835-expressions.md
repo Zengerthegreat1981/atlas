@@ -1,6 +1,6 @@
 ---
 slug: "trm-tionvolumeipediatricandadolescentmedicinepp1835-expressions"
-id: "TRM-ENG-38367"
+id: "TRM-ENG-52896"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tion,volumeI(PediatricandAdolescentMedicine,pp.18–35). expressions"

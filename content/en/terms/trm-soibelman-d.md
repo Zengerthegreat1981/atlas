@@ -1,6 +1,6 @@
 ---
 slug: "trm-soibelman-d"
-id: "TRM-ENG-42397"
+id: "TRM-ENG-56926"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Soibelman D"

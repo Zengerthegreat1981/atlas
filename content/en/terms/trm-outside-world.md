@@ -1,6 +1,6 @@
 ---
 slug: "trm-outside-world"
-id: "TRM-ENG-45212"
+id: "TRM-ENG-59741"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "outside world"

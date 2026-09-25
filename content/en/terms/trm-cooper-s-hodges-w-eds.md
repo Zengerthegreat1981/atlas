@@ -1,6 +1,6 @@
 ---
 slug: "trm-cooper-s-hodges-w-eds"
-id: "TRM-ENG-40242"
+id: "TRM-ENG-54771"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cooper S, Hodges W (eds)"

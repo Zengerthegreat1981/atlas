@@ -1,6 +1,6 @@
 ---
 slug: "trm-pincus-ha-straia-jj-houpt-jl-et-al"
-id: "TRM-ENG-41980"
+id: "TRM-ENG-56509"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pincus HA, Straia JJ, Houpt JL, et al"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-anthony-j-marsellas-work-in-3"
-id: "TRM-ENG-37602"
+id: "TRM-ENG-66660"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Anthony J. Marsella’s work in, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-group-types"
-id: "TRM-ENG-40333"
+id: "TRM-ENG-54862"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "group types"

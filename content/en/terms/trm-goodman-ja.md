@@ -1,6 +1,6 @@
 ---
 slug: "trm-goodman-ja"
-id: "TRM-ENG-40769"
+id: "TRM-ENG-55298"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goodman JA"

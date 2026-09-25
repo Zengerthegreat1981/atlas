@@ -1,6 +1,6 @@
 ---
 slug: "trm-sonality-measures-or-symptom-rating-scalesgenerally-tives"
-id: "TRM-ENG-41730"
+id: "TRM-ENG-56259"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sonality measures or symptom rating scales—generally tives"

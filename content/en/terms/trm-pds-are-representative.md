@@ -1,6 +1,6 @@
 ---
 slug: "trm-pds-are-representative"
-id: "TRM-ENG-42481"
+id: "TRM-ENG-57010"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "PDs are representative"

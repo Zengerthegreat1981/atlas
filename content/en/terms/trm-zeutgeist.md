@@ -1,6 +1,6 @@
 ---
 slug: "trm-zeutgeist"
-id: "TRM-ENG-52450"
+id: "TRM-ENG-66979"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Zeutgeist"

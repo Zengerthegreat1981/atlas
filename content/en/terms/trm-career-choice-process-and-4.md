@@ -1,6 +1,6 @@
 ---
 slug: "trm-career-choice-process-and-4"
-id: "TRM-ENG-39406"
+id: "TRM-ENG-53935"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "career choice process and, 4"

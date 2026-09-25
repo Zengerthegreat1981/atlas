@@ -1,6 +1,6 @@
 ---
 slug: "trm-is-articulation"
-id: "TRM-ENG-34902"
+id: "TRM-ENG-49431"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "is articulation"

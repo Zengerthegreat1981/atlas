@@ -1,6 +1,6 @@
 ---
 slug: "trm-havior-therapy"
-id: "TRM-ENG-48377"
+id: "TRM-ENG-62906"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "havior therapy"

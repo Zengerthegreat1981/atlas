@@ -1,6 +1,6 @@
 ---
 slug: "trm-friedman-s-ed-1995-the-reflecting-team-in-action"
-id: "TRM-ENG-48993"
+id: "TRM-ENG-63522"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Friedman, S. (Ed.) (1995). The reflecting team in action"

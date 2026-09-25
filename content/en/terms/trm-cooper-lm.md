@@ -1,6 +1,6 @@
 ---
 slug: "trm-cooper-lm"
-id: "TRM-ENG-40241"
+id: "TRM-ENG-54770"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cooper LM"

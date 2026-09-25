@@ -1,6 +1,6 @@
 ---
 slug: "trm-wage-gap-and-3"
-id: "TRM-ENG-42140"
+id: "TRM-ENG-56669"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "wage gap and, 3"

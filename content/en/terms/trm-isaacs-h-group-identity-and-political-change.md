@@ -1,6 +1,6 @@
 ---
 slug: "trm-isaacs-h-group-identity-and-political-change"
-id: "TRM-ENG-44449"
+id: "TRM-ENG-58978"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Isaacs, H., “Group Identity and Political Change"

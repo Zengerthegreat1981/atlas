@@ -1,6 +1,6 @@
 ---
 slug: "trm-thomas-c-s-1971-boys-no-more-beverly-hills-ca"
-id: "TRM-ENG-34812"
+id: "TRM-ENG-63870"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Thomas. c‘. S. (1971). Boys no more. Beverly Hills, CA"

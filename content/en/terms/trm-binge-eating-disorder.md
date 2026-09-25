@@ -1,6 +1,6 @@
 ---
 slug: "trm-binge-eating-disorder"
-id: "TRM-ENG-48908"
+id: "TRM-ENG-63437"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Binge eating disorder"

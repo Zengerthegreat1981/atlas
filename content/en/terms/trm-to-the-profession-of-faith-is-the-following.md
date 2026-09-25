@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-the-profession-of-faith-is-the-following"
-id: "TRM-ENG-48951"
+id: "TRM-ENG-63480"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to the profession of faith is the following"

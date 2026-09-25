@@ -1,6 +1,6 @@
 ---
 slug: "trm-treatment-for-psychopathic-offenders"
-id: "TRM-ENG-43385"
+id: "TRM-ENG-57914"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "treatment for psychopathic offenders"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-wolberg-lr-kildahl-jp"
-id: "TRM-ENG-42844"
+id: "TRM-ENG-57373"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wolberg LR, Kildahl JP"

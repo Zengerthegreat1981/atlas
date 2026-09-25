@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-group-pressure"
-id: "TRM-ENG-36376"
+id: "TRM-ENG-65434"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to group pressure"

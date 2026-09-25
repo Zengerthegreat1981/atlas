@@ -1,6 +1,6 @@
 ---
 slug: "trm-pavlov-ip-1927-conditioned-reflexesnew-york"
-id: "TRM-ENG-35887"
+id: "TRM-ENG-64945"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pavlov, I.P. (1927). Conditioned reflexes.New York"

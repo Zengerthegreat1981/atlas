@@ -1,6 +1,6 @@
 ---
 slug: "trm-professionals-because-of-its-utility-in-many-areas"
-id: "TRM-ENG-36902"
+id: "TRM-ENG-65960"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "professionals because of its utility in many areas"

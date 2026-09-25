@@ -1,6 +1,6 @@
 ---
 slug: "trm-makeowaraddyccuffes1994frequency-disorder"
-id: "TRM-ENG-49081"
+id: "TRM-ENG-63610"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Makeowa,R.,Addy,C.,&Cuffe,S.(1994).Frequency disorder"

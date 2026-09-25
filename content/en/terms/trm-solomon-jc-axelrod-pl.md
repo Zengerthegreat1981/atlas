@@ -1,6 +1,6 @@
 ---
 slug: "trm-solomon-jc-axelrod-pl"
-id: "TRM-ENG-42405"
+id: "TRM-ENG-56934"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Solomon JC, Axelrod PL"

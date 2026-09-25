@@ -1,6 +1,6 @@
 ---
 slug: "trm-tent-words"
-id: "TRM-ENG-45561"
+id: "TRM-ENG-60090"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tent words"

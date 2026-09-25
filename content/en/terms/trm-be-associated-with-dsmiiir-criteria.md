@@ -1,6 +1,6 @@
 ---
 slug: "trm-be-associated-with-dsmiiir-criteria"
-id: "TRM-ENG-42679"
+id: "TRM-ENG-57208"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "be associated with DSM-III-R criteria"

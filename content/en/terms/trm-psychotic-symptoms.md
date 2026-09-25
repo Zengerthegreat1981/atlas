@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychotic-symptoms"
-id: "TRM-ENG-44179"
+id: "TRM-ENG-58708"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychotic symptoms"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-solutionfocused-brief-therapy-2"
-id: "TRM-ENG-51830"
+id: "TRM-ENG-66359"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "solution-focused brief therapy, 2"

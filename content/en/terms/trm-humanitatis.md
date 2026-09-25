@@ -1,6 +1,6 @@
 ---
 slug: "trm-humanitatis"
-id: "TRM-ENG-48132"
+id: "TRM-ENG-62661"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "humanitatis"

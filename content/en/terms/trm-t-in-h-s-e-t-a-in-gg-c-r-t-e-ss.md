@@ -1,6 +1,6 @@
 ---
 slug: "trm-t-in-h-s-e-t-a-in-gg-c-r-t-e-ss"
-id: "TRM-ENG-43894"
+id: "TRM-ENG-58423"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "t in h s e t a in gg c r t e . ss"

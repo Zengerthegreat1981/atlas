@@ -1,6 +1,6 @@
 ---
 slug: "trm-bullard-dm"
-id: "TRM-ENG-40073"
+id: "TRM-ENG-54602"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bullard DM"

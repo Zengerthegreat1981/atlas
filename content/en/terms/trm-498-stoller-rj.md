@@ -1,6 +1,6 @@
 ---
 slug: "trm-498-stoller-rj"
-id: "TRM-ENG-39093"
+id: "TRM-ENG-53622"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "498. Stoller RJ"

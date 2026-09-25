@@ -1,6 +1,6 @@
 ---
 slug: "trm-nucleus-biomaterials-3234-119743-https"
-id: "TRM-ENG-34954"
+id: "TRM-ENG-64012"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nucleus. Biomaterials, 3(234), 119743. https"

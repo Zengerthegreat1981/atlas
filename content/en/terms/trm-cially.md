@@ -1,6 +1,6 @@
 ---
 slug: "trm-cially"
-id: "TRM-ENG-42730"
+id: "TRM-ENG-57259"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cially"

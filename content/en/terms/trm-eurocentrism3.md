@@ -1,6 +1,6 @@
 ---
 slug: "trm-eurocentrism3"
-id: "TRM-ENG-38048"
+id: "TRM-ENG-67106"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Eurocentrism,3"

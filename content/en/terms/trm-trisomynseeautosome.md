@@ -1,6 +1,6 @@
 ---
 slug: "trm-trisomynseeautosome"
-id: "TRM-ENG-43953"
+id: "TRM-ENG-58482"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "trisomyn.seeautosome."

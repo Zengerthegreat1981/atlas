@@ -1,6 +1,6 @@
 ---
 slug: "trm-hypnosis-and-1"
-id: "TRM-ENG-40423"
+id: "TRM-ENG-54952"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "hypnosis and, 1"

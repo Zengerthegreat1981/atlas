@@ -1,6 +1,6 @@
 ---
 slug: "trm-environmental-racism-and-3"
-id: "TRM-ENG-40066"
+id: "TRM-ENG-54595"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "environmental racism and, 3"

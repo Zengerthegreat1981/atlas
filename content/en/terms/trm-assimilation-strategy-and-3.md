@@ -1,6 +1,6 @@
 ---
 slug: "trm-assimilation-strategy-and-3"
-id: "TRM-ENG-39275"
+id: "TRM-ENG-53804"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "assimilation strategy and, 3"

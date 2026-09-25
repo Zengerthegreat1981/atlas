@@ -1,6 +1,6 @@
 ---
 slug: "trm-bf-eds"
-id: "TRM-ENG-39758"
+id: "TRM-ENG-54287"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "BF (eds)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-current-research-and-3"
-id: "TRM-ENG-39846"
+id: "TRM-ENG-54375"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "current research and, 3"

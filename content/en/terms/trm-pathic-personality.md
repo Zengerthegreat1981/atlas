@@ -1,6 +1,6 @@
 ---
 slug: "trm-pathic-personality"
-id: "TRM-ENG-43115"
+id: "TRM-ENG-57644"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pathic personality"

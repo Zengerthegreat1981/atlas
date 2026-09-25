@@ -1,6 +1,6 @@
 ---
 slug: "trm-crenshaw-kimberle-3"
-id: "TRM-ENG-37896"
+id: "TRM-ENG-66954"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Crenshaw, Kimberle, 3"

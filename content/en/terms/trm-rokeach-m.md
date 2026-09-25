@@ -1,6 +1,6 @@
 ---
 slug: "trm-rokeach-m"
-id: "TRM-ENG-42154"
+id: "TRM-ENG-56683"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rokeach M"

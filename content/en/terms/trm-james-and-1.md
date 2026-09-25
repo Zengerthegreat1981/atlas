@@ -1,6 +1,6 @@
 ---
 slug: "trm-james-and-1"
-id: "TRM-ENG-46844"
+id: "TRM-ENG-61373"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "James and, 1"

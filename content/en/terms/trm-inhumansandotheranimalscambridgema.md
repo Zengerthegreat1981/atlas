@@ -1,6 +1,6 @@
 ---
 slug: "trm-inhumansandotheranimalscambridgema"
-id: "TRM-ENG-37865"
+id: "TRM-ENG-66923"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "inhumansandotheranimals.Cambridge,MA"

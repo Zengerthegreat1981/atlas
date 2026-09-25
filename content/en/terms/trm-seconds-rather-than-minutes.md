@@ -1,6 +1,6 @@
 ---
 slug: "trm-seconds-rather-than-minutes"
-id: "TRM-ENG-45497"
+id: "TRM-ENG-60026"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "seconds rather than minutes"

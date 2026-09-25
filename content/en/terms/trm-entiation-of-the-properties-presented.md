@@ -1,6 +1,6 @@
 ---
 slug: "trm-entiation-of-the-properties-presented"
-id: "TRM-ENG-45096"
+id: "TRM-ENG-59625"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "entiation of the properties presented"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-free"
-id: "TRM-ENG-45145"
+id: "TRM-ENG-59674"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "free"

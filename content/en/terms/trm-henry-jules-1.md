@@ -1,6 +1,6 @@
 ---
 slug: "trm-henry-jules-1"
-id: "TRM-ENG-46752"
+id: "TRM-ENG-61281"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Henry, Jules, 1"

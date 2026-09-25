@@ -1,6 +1,6 @@
 ---
 slug: "trm-holmes-dl-2003-the-eden-curriculum"
-id: "TRM-ENG-35745"
+id: "TRM-ENG-64803"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Holmes, D.L. (2003). The Eden curriculum"

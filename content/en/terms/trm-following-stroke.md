@@ -1,6 +1,6 @@
 ---
 slug: "trm-following-stroke"
-id: "TRM-ENG-34840"
+id: "TRM-ENG-63898"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "following stroke"

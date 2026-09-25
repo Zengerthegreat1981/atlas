@@ -1,6 +1,6 @@
 ---
 slug: "trm-destrudo"
-id: "TRM-ENG-52130"
+id: "TRM-ENG-66659"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Destrudo"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-falk-d-1990-brain-evolution-in-homo"
-id: "TRM-ENG-34613"
+id: "TRM-ENG-63671"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Falk, D. (1990). Brain evolution in Homo"

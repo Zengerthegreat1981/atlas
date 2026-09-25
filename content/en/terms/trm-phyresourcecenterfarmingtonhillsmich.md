@@ -1,6 +1,6 @@
 ---
 slug: "trm-phyresourcecenterfarmingtonhillsmich"
-id: "TRM-ENG-38096"
+id: "TRM-ENG-52625"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "phyResourceCenter.FarmingtonHills,Mich"

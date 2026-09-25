@@ -1,6 +1,6 @@
 ---
 slug: "trm-training-and-qualifications-for-1"
-id: "TRM-ENG-42001"
+id: "TRM-ENG-56530"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "training and qualifications for, 1"

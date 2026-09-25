@@ -1,6 +1,6 @@
 ---
 slug: "trm-roticism-am-psychol-64"
-id: "TRM-ENG-48564"
+id: "TRM-ENG-63093"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "roticism. Am Psychol 64"

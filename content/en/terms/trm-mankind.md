@@ -1,6 +1,6 @@
 ---
 slug: "trm-mankind"
-id: "TRM-ENG-43097"
+id: "TRM-ENG-57626"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mankind"

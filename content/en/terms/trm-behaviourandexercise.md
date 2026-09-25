@@ -1,6 +1,6 @@
 ---
 slug: "trm-behaviourandexercise"
-id: "TRM-ENG-46861"
+id: "TRM-ENG-61390"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behaviourandexercise"

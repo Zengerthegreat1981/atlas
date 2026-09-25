@@ -1,6 +1,6 @@
 ---
 slug: "trm-on-stressrelated-cardiovascular-responses"
-id: "TRM-ENG-47173"
+id: "TRM-ENG-61702"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "on stress-related cardiovascular responses"

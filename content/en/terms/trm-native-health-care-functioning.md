@@ -1,6 +1,6 @@
 ---
 slug: "trm-native-health-care-functioning"
-id: "TRM-ENG-38495"
+id: "TRM-ENG-53024"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Native health care functioning"

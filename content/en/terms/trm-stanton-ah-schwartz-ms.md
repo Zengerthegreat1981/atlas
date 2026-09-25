@@ -1,6 +1,6 @@
 ---
 slug: "trm-stanton-ah-schwartz-ms"
-id: "TRM-ENG-42444"
+id: "TRM-ENG-56973"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stanton AH, Schwartz MS"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-united-states-and-it-is-appropriate-for-people-over-the-tion-to-children"
-id: "TRM-ENG-38958"
+id: "TRM-ENG-53487"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "United States, and it is appropriate for people over the tion to children"

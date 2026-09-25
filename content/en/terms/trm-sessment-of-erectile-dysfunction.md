@@ -1,6 +1,6 @@
 ---
 slug: "trm-sessment-of-erectile-dysfunction"
-id: "TRM-ENG-36976"
+id: "TRM-ENG-66034"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sessment of erectile dysfunction"

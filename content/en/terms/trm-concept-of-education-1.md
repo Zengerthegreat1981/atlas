@@ -1,6 +1,6 @@
 ---
 slug: "trm-concept-of-education-1"
-id: "TRM-ENG-47797"
+id: "TRM-ENG-62326"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "concept of education, 1"

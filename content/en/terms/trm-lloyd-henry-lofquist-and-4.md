@@ -1,6 +1,6 @@
 ---
 slug: "trm-lloyd-henry-lofquist-and-4"
-id: "TRM-ENG-38376"
+id: "TRM-ENG-52905"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lloyd Henry Lofquist and, 4"

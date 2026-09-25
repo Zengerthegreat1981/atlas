@@ -1,6 +1,6 @@
 ---
 slug: "trm-loeser-l-bry-t"
-id: "TRM-ENG-41497"
+id: "TRM-ENG-56026"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Loeser L, Bry T"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-conceptual-presuppositions"
-id: "TRM-ENG-47805"
+id: "TRM-ENG-62334"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "conceptual presuppositions"

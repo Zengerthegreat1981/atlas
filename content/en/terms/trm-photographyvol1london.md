@@ -1,6 +1,6 @@
 ---
 slug: "trm-photographyvol1london"
-id: "TRM-ENG-38095"
+id: "TRM-ENG-52624"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "photography(Vol.1).London"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-global-perspective-2"
-id: "TRM-ENG-48075"
+id: "TRM-ENG-62604"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "global perspective, 2"

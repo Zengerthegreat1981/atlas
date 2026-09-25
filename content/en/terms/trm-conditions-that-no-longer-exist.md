@@ -1,6 +1,6 @@
 ---
 slug: "trm-conditions-that-no-longer-exist"
-id: "TRM-ENG-47809"
+id: "TRM-ENG-62338"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "conditions that no longer exist"

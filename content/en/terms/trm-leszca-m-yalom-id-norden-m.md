@@ -1,6 +1,6 @@
 ---
 slug: "trm-leszca-m-yalom-id-norden-m"
-id: "TRM-ENG-41413"
+id: "TRM-ENG-55942"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Leszca M, Yalom ID, Norden M"

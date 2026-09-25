@@ -1,6 +1,6 @@
 ---
 slug: "trm-facets"
-id: "TRM-ENG-36419"
+id: "TRM-ENG-50948"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "facets"

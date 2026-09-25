@@ -1,6 +1,6 @@
 ---
 slug: "trm-holism"
-id: "TRM-ENG-36520"
+id: "TRM-ENG-65578"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "holism"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-kblerross-e-on-death-and-dying-new-york"
-id: "TRM-ENG-45859"
+id: "TRM-ENG-60388"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kübler-Ross, E., On Death and Dying (New York"

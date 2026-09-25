@@ -1,6 +1,6 @@
 ---
 slug: "trm-kim-h-s-sasaki-j-y-2014-cultural-neuroscience"
-id: "TRM-ENG-34641"
+id: "TRM-ENG-63699"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kim, H. S., & Sasaki, J. Y. (2014). Cultural neuroscience"

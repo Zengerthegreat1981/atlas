@@ -1,6 +1,6 @@
 ---
 slug: "trm-fourpraiseworthythingscanbesaidaboutwatson"
-id: "TRM-ENG-36806"
+id: "TRM-ENG-65864"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "FourpraiseworthythingscanbesaidaboutWatson"

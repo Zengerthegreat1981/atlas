@@ -1,6 +1,6 @@
 ---
 slug: "trm-trates-on-helping-the-individual-focus-on-the"
-id: "TRM-ENG-46258"
+id: "TRM-ENG-60787"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "trates on helping the individual focus on the"

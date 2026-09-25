@@ -1,6 +1,6 @@
 ---
 slug: "trm-traumatic-brain-injury-and-1"
-id: "TRM-ENG-42038"
+id: "TRM-ENG-56567"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "traumatic brain injury and, 1"

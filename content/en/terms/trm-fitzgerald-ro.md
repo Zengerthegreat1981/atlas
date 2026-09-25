@@ -1,6 +1,6 @@
 ---
 slug: "trm-fitzgerald-ro"
-id: "TRM-ENG-40544"
+id: "TRM-ENG-55073"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fitzgerald RO"

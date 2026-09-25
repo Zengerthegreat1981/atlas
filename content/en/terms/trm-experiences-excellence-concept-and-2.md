@@ -1,6 +1,6 @@
 ---
 slug: "trm-experiences-excellence-concept-and-2"
-id: "TRM-ENG-42212"
+id: "TRM-ENG-56741"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“experiences excellence” concept and, 2"

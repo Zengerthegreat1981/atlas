@@ -1,6 +1,6 @@
 ---
 slug: "trm-change-directory"
-id: "TRM-ENG-46885"
+id: "TRM-ENG-61414"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "change directory"

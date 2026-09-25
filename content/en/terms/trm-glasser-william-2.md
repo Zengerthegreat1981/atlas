@@ -1,6 +1,6 @@
 ---
 slug: "trm-glasser-william-2"
-id: "TRM-ENG-38115"
+id: "TRM-ENG-52644"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Glasser, William, 2"

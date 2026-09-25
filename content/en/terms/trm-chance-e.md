@@ -1,6 +1,6 @@
 ---
 slug: "trm-chance-e"
-id: "TRM-ENG-40160"
+id: "TRM-ENG-54689"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Chance E"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-psychological-clinic-recipient"
-id: "TRM-ENG-38301"
+id: "TRM-ENG-52830"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the Psychological Clinic). Recipient"

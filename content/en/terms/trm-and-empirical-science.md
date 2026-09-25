@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-empirical-science"
-id: "TRM-ENG-42630"
+id: "TRM-ENG-57159"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and empirical science"

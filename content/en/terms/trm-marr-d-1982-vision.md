@@ -1,6 +1,6 @@
 ---
 slug: "trm-marr-d-1982-vision"
-id: "TRM-ENG-45479"
+id: "TRM-ENG-60008"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Marr, D. (1982) Vision"

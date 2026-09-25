@@ -1,6 +1,6 @@
 ---
 slug: "trm-hispanics"
-id: "TRM-ENG-38180"
+id: "TRM-ENG-52709"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hispanics"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-vol35p8london"
-id: "TRM-ENG-36446"
+id: "TRM-ENG-65504"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Vol.35,p.8).London"

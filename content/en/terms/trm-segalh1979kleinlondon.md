@@ -1,6 +1,6 @@
 ---
 slug: "trm-segalh1979kleinlondon"
-id: "TRM-ENG-37275"
+id: "TRM-ENG-51804"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Segal,H.(1979).Klein.London"

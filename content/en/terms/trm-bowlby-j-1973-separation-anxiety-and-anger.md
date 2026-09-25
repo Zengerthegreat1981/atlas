@@ -1,6 +1,6 @@
 ---
 slug: "trm-bowlby-j-1973-separation-anxiety-and-anger"
-id: "TRM-ENG-35601"
+id: "TRM-ENG-64659"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bowlby, J. (1973). Separation, anxiety and anger"

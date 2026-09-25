@@ -1,6 +1,6 @@
 ---
 slug: "trm-bromfield-r-1992-playing-for-realnew-york"
-id: "TRM-ENG-35605"
+id: "TRM-ENG-64663"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bromfield, R. (1992). Playing for real.New York"

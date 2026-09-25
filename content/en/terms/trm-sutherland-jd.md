@@ -1,6 +1,6 @@
 ---
 slug: "trm-sutherland-jd"
-id: "TRM-ENG-42521"
+id: "TRM-ENG-57050"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sutherland JD"

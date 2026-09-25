@@ -1,6 +1,6 @@
 ---
 slug: "trm-erikson-e-h-1968-identity"
-id: "TRM-ENG-42385"
+id: "TRM-ENG-56914"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Erikson, E. H. (1968). Identity"

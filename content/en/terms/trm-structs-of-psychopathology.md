@@ -1,6 +1,6 @@
 ---
 slug: "trm-structs-of-psychopathology"
-id: "TRM-ENG-43262"
+id: "TRM-ENG-57791"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "structs of psychopathology"

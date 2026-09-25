@@ -1,6 +1,6 @@
 ---
 slug: "trm-ellis-a"
-id: "TRM-ENG-40434"
+id: "TRM-ENG-54963"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ellis A"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-129-lundman-rj"
-id: "TRM-ENG-38595"
+id: "TRM-ENG-53124"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "129. Lundman RJ"

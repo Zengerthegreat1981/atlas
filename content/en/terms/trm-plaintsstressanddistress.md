@@ -1,6 +1,6 @@
 ---
 slug: "trm-plaintsstressanddistress"
-id: "TRM-ENG-47199"
+id: "TRM-ENG-61728"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "plaints,stressanddistress"

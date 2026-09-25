@@ -1,6 +1,6 @@
 ---
 slug: "trm-copingskillstraining"
-id: "TRM-ENG-43601"
+id: "TRM-ENG-58130"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "coping-skillstraining."

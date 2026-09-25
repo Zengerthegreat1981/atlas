@@ -1,6 +1,6 @@
 ---
 slug: "trm-wolstein-b"
-id: "TRM-ENG-42863"
+id: "TRM-ENG-57392"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wolstein B"

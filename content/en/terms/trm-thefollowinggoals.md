@@ -1,6 +1,6 @@
 ---
 slug: "trm-thefollowinggoals"
-id: "TRM-ENG-43908"
+id: "TRM-ENG-58437"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thefollowinggoals"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-lerner-rc"
-id: "TRM-ENG-41407"
+id: "TRM-ENG-55936"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lerner RC"

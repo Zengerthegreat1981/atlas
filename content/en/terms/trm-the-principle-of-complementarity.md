@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-principle-of-complementarity"
-id: "TRM-ENG-43307"
+id: "TRM-ENG-57836"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the principle of complementarity"

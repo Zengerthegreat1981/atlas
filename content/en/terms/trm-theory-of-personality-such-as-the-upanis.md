@@ -1,6 +1,6 @@
 ---
 slug: "trm-theory-of-personality-such-as-the-upanis"
-id: "TRM-ENG-38332"
+id: "TRM-ENG-52861"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theory of personality, such as the Upanis"

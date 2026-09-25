@@ -1,6 +1,6 @@
 ---
 slug: "trm-experimental-philosophy-1"
-id: "TRM-ENG-45117"
+id: "TRM-ENG-59646"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "experimental philosophy, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-niosh-4"
-id: "TRM-ENG-37419"
+id: "TRM-ENG-66477"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(NIOSH), 4"

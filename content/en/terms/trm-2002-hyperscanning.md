@@ -1,6 +1,6 @@
 ---
 slug: "trm-2002-hyperscanning"
-id: "TRM-ENG-35136"
+id: "TRM-ENG-64194"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2002). Hyperscanning"

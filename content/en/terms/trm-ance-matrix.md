@@ -1,6 +1,6 @@
 ---
 slug: "trm-ance-matrix"
-id: "TRM-ENG-35636"
+id: "TRM-ENG-50165"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ance matrix Σ"

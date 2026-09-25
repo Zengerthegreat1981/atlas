@@ -1,6 +1,6 @@
 ---
 slug: "trm-maccoby-e-e-mnookin-r-h-1992-dividing-the-child"
-id: "TRM-ENG-34747"
+id: "TRM-ENG-63805"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Maccoby, E. E., & Mnookin, R. H. (1992). Dividing the child"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ahopkinsedepilepsylondon"
-id: "TRM-ENG-46390"
+id: "TRM-ENG-60919"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "A.Hopkins(Ed.),Epilepsy.London"

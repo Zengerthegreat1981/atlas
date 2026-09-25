@@ -1,6 +1,6 @@
 ---
 slug: "trm-messick-s-1995-validity-of-psychological-assessment"
-id: "TRM-ENG-35445"
+id: "TRM-ENG-64503"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Messick, S. (1995). Validity of psychological assessment"

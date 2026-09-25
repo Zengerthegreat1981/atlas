@@ -1,6 +1,6 @@
 ---
 slug: "trm-strous-the-first-four-designations"
-id: "TRM-ENG-48763"
+id: "TRM-ENG-63292"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "strous. The first four designations"

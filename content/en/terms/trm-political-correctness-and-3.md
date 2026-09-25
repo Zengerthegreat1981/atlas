@@ -1,6 +1,6 @@
 ---
 slug: "trm-political-correctness-and-3"
-id: "TRM-ENG-41188"
+id: "TRM-ENG-55717"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "political correctness and, 3"

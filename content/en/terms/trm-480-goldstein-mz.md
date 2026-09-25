@@ -1,6 +1,6 @@
 ---
 slug: "trm-480-goldstein-mz"
-id: "TRM-ENG-39074"
+id: "TRM-ENG-53603"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "480. Goldstein MZ"

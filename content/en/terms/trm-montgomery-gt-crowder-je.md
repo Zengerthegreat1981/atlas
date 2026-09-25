@@ -1,6 +1,6 @@
 ---
 slug: "trm-montgomery-gt-crowder-je"
-id: "TRM-ENG-41755"
+id: "TRM-ENG-56284"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Montgomery GT, Crowder JE"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-stodolsky-susan-s-1"
-id: "TRM-ENG-47344"
+id: "TRM-ENG-61873"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stodolsky, Susan S., 1"

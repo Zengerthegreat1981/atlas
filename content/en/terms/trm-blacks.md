@@ -1,6 +1,6 @@
 ---
 slug: "trm-blacks"
-id: "TRM-ENG-37712"
+id: "TRM-ENG-66770"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Blacks"

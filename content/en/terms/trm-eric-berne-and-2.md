@@ -1,6 +1,6 @@
 ---
 slug: "trm-eric-berne-and-2"
-id: "TRM-ENG-38028"
+id: "TRM-ENG-67086"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Eric Berne and, 2"

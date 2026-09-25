@@ -1,6 +1,6 @@
 ---
 slug: "trm-95-99-and-999-levels"
-id: "TRM-ENG-35564"
+id: "TRM-ENG-50093"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "95%, 99%, and 99.9% levels"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-empathy-and-mind-reading"
-id: "TRM-ENG-48340"
+id: "TRM-ENG-62869"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "empathy and mind reading"

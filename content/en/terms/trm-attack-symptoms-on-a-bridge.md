@@ -1,6 +1,6 @@
 ---
 slug: "trm-attack-symptoms-on-a-bridge"
-id: "TRM-ENG-46033"
+id: "TRM-ENG-60562"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "attack symptoms on a bridge"

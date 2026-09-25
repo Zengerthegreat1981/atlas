@@ -1,6 +1,6 @@
 ---
 slug: "trm-clark-a-2001-m-indware"
-id: "TRM-ENG-44382"
+id: "TRM-ENG-58911"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Clark, A. (2001). M indware"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-krueger-rf-tackett-jl"
-id: "TRM-ENG-47812"
+id: "TRM-ENG-62341"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Krueger RF, Tackett JL"

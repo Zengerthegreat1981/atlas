@@ -1,6 +1,6 @@
 ---
 slug: "trm-balbernie-r"
-id: "TRM-ENG-39776"
+id: "TRM-ENG-54305"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Balbernie R"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-bry-a-ed"
-id: "TRM-ENG-40061"
+id: "TRM-ENG-54590"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bry A (ed)"

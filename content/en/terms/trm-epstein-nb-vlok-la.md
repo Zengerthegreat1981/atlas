@@ -1,6 +1,6 @@
 ---
 slug: "trm-epstein-nb-vlok-la"
-id: "TRM-ENG-40461"
+id: "TRM-ENG-54990"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Epstein NB, Vlok LA"

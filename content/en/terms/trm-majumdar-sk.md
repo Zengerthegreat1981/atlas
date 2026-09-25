@@ -1,6 +1,6 @@
 ---
 slug: "trm-majumdar-sk"
-id: "TRM-ENG-41561"
+id: "TRM-ENG-56090"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Majumdar SK"

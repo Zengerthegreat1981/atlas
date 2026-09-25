@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-process-of-generating-a-different"
-id: "TRM-ENG-44038"
+id: "TRM-ENG-58567"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "a process of generating a different"

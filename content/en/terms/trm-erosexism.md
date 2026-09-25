@@ -1,6 +1,6 @@
 ---
 slug: "trm-erosexism"
-id: "TRM-ENG-35011"
+id: "TRM-ENG-49540"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "erosexism"

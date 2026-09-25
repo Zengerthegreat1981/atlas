@@ -1,6 +1,6 @@
 ---
 slug: "trm-tional-psychological-disorders-occurrence-of-a-psychotic-scribed-to-youths"
-id: "TRM-ENG-37188"
+id: "TRM-ENG-66246"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tional psychological disorders. Occurrence of a psychotic scribed to youths"

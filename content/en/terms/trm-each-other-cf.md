@@ -1,6 +1,6 @@
 ---
 slug: "trm-each-other-cf"
-id: "TRM-ENG-52561"
+id: "TRM-ENG-67090"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "each other; cf"

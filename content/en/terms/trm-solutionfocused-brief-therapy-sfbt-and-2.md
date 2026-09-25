@@ -1,6 +1,6 @@
 ---
 slug: "trm-solutionfocused-brief-therapy-sfbt-and-2"
-id: "TRM-ENG-41726"
+id: "TRM-ENG-56255"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "solution-focused brief therapy (SFBT) and, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-healthcare-profession"
-id: "TRM-ENG-47019"
+id: "TRM-ENG-61548"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "healthcare profession"

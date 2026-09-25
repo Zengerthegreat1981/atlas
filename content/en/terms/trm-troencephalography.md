@@ -1,6 +1,6 @@
 ---
 slug: "trm-troencephalography"
-id: "TRM-ENG-37235"
+id: "TRM-ENG-66293"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "troencephalography"

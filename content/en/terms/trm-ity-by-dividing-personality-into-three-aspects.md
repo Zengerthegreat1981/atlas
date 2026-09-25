@@ -1,6 +1,6 @@
 ---
 slug: "trm-ity-by-dividing-personality-into-three-aspects"
-id: "TRM-ENG-42951"
+id: "TRM-ENG-57480"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ity by dividing personality into three aspects"

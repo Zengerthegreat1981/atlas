@@ -1,6 +1,6 @@
 ---
 slug: "trm-britain"
-id: "TRM-ENG-36652"
+id: "TRM-ENG-65710"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Britain"

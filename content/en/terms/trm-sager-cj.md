@@ -1,6 +1,6 @@
 ---
 slug: "trm-sager-cj"
-id: "TRM-ENG-42218"
+id: "TRM-ENG-56747"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sager CJ"

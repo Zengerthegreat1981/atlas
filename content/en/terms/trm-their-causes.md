@@ -1,6 +1,6 @@
 ---
 slug: "trm-their-causes"
-id: "TRM-ENG-45368"
+id: "TRM-ENG-59897"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "their causes"

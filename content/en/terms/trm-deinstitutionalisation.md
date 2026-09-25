@@ -1,6 +1,6 @@
 ---
 slug: "trm-deinstitutionalisation"
-id: "TRM-ENG-49377"
+id: "TRM-ENG-63906"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "deinstitutionalisation"

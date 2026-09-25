@@ -1,6 +1,6 @@
 ---
 slug: "trm-hooley-jm-gotlib-ih"
-id: "TRM-ENG-47733"
+id: "TRM-ENG-62262"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hooley JM, Gotlib IH"

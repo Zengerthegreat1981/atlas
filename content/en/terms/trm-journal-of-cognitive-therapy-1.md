@@ -1,6 +1,6 @@
 ---
 slug: "trm-journal-of-cognitive-therapy-1"
-id: "TRM-ENG-47768"
+id: "TRM-ENG-62297"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Journal of Cognitive Therapy 1"

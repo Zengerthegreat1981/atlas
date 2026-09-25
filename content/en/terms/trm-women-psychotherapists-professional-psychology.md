@@ -1,6 +1,6 @@
 ---
 slug: "trm-women-psychotherapists-professional-psychology"
-id: "TRM-ENG-42168"
+id: "TRM-ENG-56697"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "women psychotherapists. Professional Psychology"

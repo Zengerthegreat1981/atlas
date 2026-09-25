@@ -1,6 +1,6 @@
 ---
 slug: "trm-paredes-a-gogerty-jh-west-lj"
-id: "TRM-ENG-41920"
+id: "TRM-ENG-56449"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Paredes A, Gogerty JH, West LJ"

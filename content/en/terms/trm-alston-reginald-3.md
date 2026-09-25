@@ -1,6 +1,6 @@
 ---
 slug: "trm-alston-reginald-3"
-id: "TRM-ENG-37577"
+id: "TRM-ENG-66635"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Alston, Reginald, 3"

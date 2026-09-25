@@ -1,6 +1,6 @@
 ---
 slug: "trm-852-hersen-m-michelsen-l-bellack-as-eds"
-id: "TRM-ENG-39514"
+id: "TRM-ENG-54043"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "852. Hersen M, Michelsen L, Bellack AS (eds)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-best-ja"
-id: "TRM-ENG-39917"
+id: "TRM-ENG-54446"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Best JA"

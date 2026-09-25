@@ -1,6 +1,6 @@
 ---
 slug: "trm-hinckley-rg"
-id: "TRM-ENG-40995"
+id: "TRM-ENG-55524"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hinckley RG"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-munity-approval-social-stigma-of-being-chronically-dis-tissues"
-id: "TRM-ENG-36733"
+id: "TRM-ENG-65791"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "munity approval, social stigma of being chronically dis- tissues"

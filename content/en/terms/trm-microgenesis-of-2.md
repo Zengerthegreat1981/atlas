@@ -1,6 +1,6 @@
 ---
 slug: "trm-microgenesis-of-2"
-id: "TRM-ENG-45300"
+id: "TRM-ENG-59829"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "microgenesis of, 2"

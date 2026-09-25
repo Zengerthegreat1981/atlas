@@ -1,6 +1,6 @@
 ---
 slug: "trm-dict-the-critiques-of-various-models"
-id: "TRM-ENG-42764"
+id: "TRM-ENG-57293"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dict the critiques of various models"

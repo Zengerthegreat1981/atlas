@@ -1,6 +1,6 @@
 ---
 slug: "trm-options-compare-impulsive"
-id: "TRM-ENG-44116"
+id: "TRM-ENG-58645"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "options. Compare IMPULSIVE,"

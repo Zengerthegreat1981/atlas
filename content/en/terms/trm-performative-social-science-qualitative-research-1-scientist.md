@@ -1,6 +1,6 @@
 ---
 slug: "trm-performative-social-science-qualitative-research-1-scientist"
-id: "TRM-ENG-36032"
+id: "TRM-ENG-65090"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "performative social science. Qualitative Research, 1, scientist"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-rutter-m-2012a-annual-research-review"
-id: "TRM-ENG-42518"
+id: "TRM-ENG-57047"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rutter, M. (2012a). Annual research review"

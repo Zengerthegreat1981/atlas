@@ -1,6 +1,6 @@
 ---
 slug: "trm-purchaser-surveying-is-the-only-consumer-research-method-sumer-behavior"
-id: "TRM-ENG-35910"
+id: "TRM-ENG-64968"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Purchaser surveying is the only consumer research method sumer behavior"

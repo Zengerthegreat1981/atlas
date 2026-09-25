@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-four-critical-conferences"
-id: "TRM-ENG-41890"
+id: "TRM-ENG-56419"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the four critical conferences"

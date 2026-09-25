@@ -1,6 +1,6 @@
 ---
 slug: "trm-von-glasersfeld-ernst-1"
-id: "TRM-ENG-51143"
+id: "TRM-ENG-65672"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Von Glasersfeld, Ernst, 1"

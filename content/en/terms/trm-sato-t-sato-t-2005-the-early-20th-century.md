@@ -1,6 +1,6 @@
 ---
 slug: "trm-sato-t-sato-t-2005-the-early-20th-century"
-id: "TRM-ENG-37257"
+id: "TRM-ENG-66315"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sato, T., & Sato, T. (2005). The early 20th century"

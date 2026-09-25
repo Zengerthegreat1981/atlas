@@ -1,6 +1,6 @@
 ---
 slug: "trm-retirees-for-what-is-inevitable"
-id: "TRM-ENG-43169"
+id: "TRM-ENG-57698"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "retirees for what is inevitable"

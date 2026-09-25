@@ -1,6 +1,6 @@
 ---
 slug: "trm-brownsequardce1874bthebrainpowerofman"
-id: "TRM-ENG-36662"
+id: "TRM-ENG-51191"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brown-Se´quard,C.-E.(1874b).Thebrainpowerofman"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-3843-https"
-id: "TRM-ENG-43956"
+id: "TRM-ENG-58485"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "38–43. https"

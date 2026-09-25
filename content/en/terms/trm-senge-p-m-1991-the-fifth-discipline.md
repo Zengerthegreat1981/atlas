@@ -1,6 +1,6 @@
 ---
 slug: "trm-senge-p-m-1991-the-fifth-discipline"
-id: "TRM-ENG-34788"
+id: "TRM-ENG-63846"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Senge. P. M. (1991). The fifth discipline"

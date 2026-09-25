@@ -1,6 +1,6 @@
 ---
 slug: "trm-stewart-wa"
-id: "TRM-ENG-42472"
+id: "TRM-ENG-57001"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stewart WA"

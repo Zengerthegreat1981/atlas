@@ -1,6 +1,6 @@
 ---
 slug: "trm-sensory-mixing"
-id: "TRM-ENG-34689"
+id: "TRM-ENG-63747"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sensory mixing"

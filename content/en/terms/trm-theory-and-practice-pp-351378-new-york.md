@@ -1,6 +1,6 @@
 ---
 slug: "trm-theory-and-practice-pp-351378-new-york"
-id: "TRM-ENG-43315"
+id: "TRM-ENG-57844"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theory and practice (pp. 351–378). New York"

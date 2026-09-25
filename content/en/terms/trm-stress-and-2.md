@@ -1,6 +1,6 @@
 ---
 slug: "trm-stress-and-2"
-id: "TRM-ENG-41791"
+id: "TRM-ENG-56320"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stress and, 2"

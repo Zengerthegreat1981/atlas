@@ -1,6 +1,6 @@
 ---
 slug: "trm-control-selfmonitoring-in-1"
-id: "TRM-ENG-39699"
+id: "TRM-ENG-54228"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "control, self-monitoring in, 1"

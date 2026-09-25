@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-abuse"
-id: "TRM-ENG-44105"
+id: "TRM-ENG-58634"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of abuse."

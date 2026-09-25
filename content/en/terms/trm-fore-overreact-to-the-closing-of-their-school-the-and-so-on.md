@@ -1,6 +1,6 @@
 ---
 slug: "trm-fore-overreact-to-the-closing-of-their-school-the-and-so-on"
-id: "TRM-ENG-40240"
+id: "TRM-ENG-54769"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "fore, “overreact” to the closing of their school, the and so on"

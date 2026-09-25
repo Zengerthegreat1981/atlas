@@ -1,6 +1,6 @@
 ---
 slug: "trm-576-hersen-m-bellack-as-eds"
-id: "TRM-ENG-39188"
+id: "TRM-ENG-53717"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "576. Hersen M, Bellack AS (eds)"

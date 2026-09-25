@@ -1,6 +1,6 @@
 ---
 slug: "trm-sual-impairment-is-often-corrected-with-contact-lenses-or-caps"
-id: "TRM-ENG-37036"
+id: "TRM-ENG-66094"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sual impairment is often corrected with contact lenses or caps"

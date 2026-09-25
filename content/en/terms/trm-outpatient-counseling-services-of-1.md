@@ -1,6 +1,6 @@
 ---
 slug: "trm-outpatient-counseling-services-of-1"
-id: "TRM-ENG-41093"
+id: "TRM-ENG-55622"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "outpatient counseling services of, 1"

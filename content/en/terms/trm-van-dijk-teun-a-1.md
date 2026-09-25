@@ -1,6 +1,6 @@
 ---
 slug: "trm-van-dijk-teun-a-1"
-id: "TRM-ENG-47449"
+id: "TRM-ENG-61978"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Van Dijk, Teun A., 1"

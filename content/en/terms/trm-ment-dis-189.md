@@ -1,6 +1,6 @@
 ---
 slug: "trm-ment-dis-189"
-id: "TRM-ENG-47865"
+id: "TRM-ENG-62394"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ment Dis 189"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-intheunitedstatesnavy19001988washingtondc"
-id: "TRM-ENG-37876"
+id: "TRM-ENG-66934"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "intheUnitedStatesnavy,1900–1988.Washington,DC"

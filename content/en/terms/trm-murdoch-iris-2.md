@@ -1,6 +1,6 @@
 ---
 slug: "trm-murdoch-iris-2"
-id: "TRM-ENG-47032"
+id: "TRM-ENG-61561"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Murdoch, Iris, 2"

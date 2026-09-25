@@ -1,6 +1,6 @@
 ---
 slug: "trm-sonality-functioning-in-dsm5-part-ii"
-id: "TRM-ENG-48598"
+id: "TRM-ENG-63127"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sonality functioning in DSM-5, part II"

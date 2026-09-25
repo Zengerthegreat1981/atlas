@@ -1,6 +1,6 @@
 ---
 slug: "trm-tive-research"
-id: "TRM-ENG-36211"
+id: "TRM-ENG-65269"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tive research"

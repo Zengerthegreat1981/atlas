@@ -1,6 +1,6 @@
 ---
 slug: "trm-joynt-r-1964-paul-pierre-broca"
-id: "TRM-ENG-34639"
+id: "TRM-ENG-49168"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Joynt, R. (1964). Paul Pierre Broca"

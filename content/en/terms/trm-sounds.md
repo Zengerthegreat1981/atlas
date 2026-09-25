@@ -1,6 +1,6 @@
 ---
 slug: "trm-sounds"
-id: "TRM-ENG-43873"
+id: "TRM-ENG-58402"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sounds."

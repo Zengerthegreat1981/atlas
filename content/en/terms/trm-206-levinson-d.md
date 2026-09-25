@@ -1,6 +1,6 @@
 ---
 slug: "trm-206-levinson-d"
-id: "TRM-ENG-38717"
+id: "TRM-ENG-53246"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "206. Levinson D"

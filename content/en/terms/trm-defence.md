@@ -1,6 +1,6 @@
 ---
 slug: "trm-defence"
-id: "TRM-ENG-52125"
+id: "TRM-ENG-66654"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Defence"

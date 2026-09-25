@@ -1,6 +1,6 @@
 ---
 slug: "trm-dynamic-assessment-2"
-id: "TRM-ENG-46533"
+id: "TRM-ENG-61062"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dynamic assessment, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-brain-waves"
-id: "TRM-ENG-52086"
+id: "TRM-ENG-66615"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brain waves"

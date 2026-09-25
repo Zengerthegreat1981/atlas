@@ -1,6 +1,6 @@
 ---
 slug: "trm-agazarian"
-id: "TRM-ENG-50093"
+id: "TRM-ENG-64622"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Agazarian"

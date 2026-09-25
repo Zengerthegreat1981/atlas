@@ -1,6 +1,6 @@
 ---
 slug: "trm-construct-scales-of-4"
-id: "TRM-ENG-39663"
+id: "TRM-ENG-54192"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "construct scales of, 4"

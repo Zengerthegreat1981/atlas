@@ -1,6 +1,6 @@
 ---
 slug: "trm-koenigsberg-hw"
-id: "TRM-ENG-47795"
+id: "TRM-ENG-62324"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Koenigsberg HW"

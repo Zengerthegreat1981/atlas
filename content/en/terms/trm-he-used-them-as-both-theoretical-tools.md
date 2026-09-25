@@ -1,6 +1,6 @@
 ---
 slug: "trm-he-used-them-as-both-theoretical-tools"
-id: "TRM-ENG-35733"
+id: "TRM-ENG-64791"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "He used them as both theoretical tools"

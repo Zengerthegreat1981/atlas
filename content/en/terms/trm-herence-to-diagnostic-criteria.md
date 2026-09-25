@@ -1,6 +1,6 @@
 ---
 slug: "trm-herence-to-diagnostic-criteria"
-id: "TRM-ENG-42861"
+id: "TRM-ENG-57390"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "herence to diagnostic criteria"

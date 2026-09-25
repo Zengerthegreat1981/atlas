@@ -1,6 +1,6 @@
 ---
 slug: "trm-keilin-w-g-1998-internship-selection-30-years-later"
-id: "TRM-ENG-38318"
+id: "TRM-ENG-52847"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Keilin, W. G. (1998). Internship selection 30 years later"

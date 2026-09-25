@@ -1,6 +1,6 @@
 ---
 slug: "trm-thesecosmology-biology-and-perception-there-are-simi-mental-questions"
-id: "TRM-ENG-37149"
+id: "TRM-ENG-66207"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "these—cosmology, biology, and perception. There are simi- mental questions"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-hierarchical-models"
-id: "TRM-ENG-35997"
+id: "TRM-ENG-65055"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of hierarchical models"

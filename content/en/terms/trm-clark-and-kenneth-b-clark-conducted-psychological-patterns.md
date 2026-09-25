@@ -1,6 +1,6 @@
 ---
 slug: "trm-clark-and-kenneth-b-clark-conducted-psychological-patterns"
-id: "TRM-ENG-37830"
+id: "TRM-ENG-66888"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Clark and Kenneth B. Clark conducted psychological patterns"

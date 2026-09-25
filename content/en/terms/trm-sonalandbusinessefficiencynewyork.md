@@ -1,6 +1,6 @@
 ---
 slug: "trm-sonalandbusinessefficiencynewyork"
-id: "TRM-ENG-38263"
+id: "TRM-ENG-52792"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sonalandbusinessefficiency.NewYork"

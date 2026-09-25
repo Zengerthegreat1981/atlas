@@ -1,6 +1,6 @@
 ---
 slug: "trm-treatment-2-161174-doi"
-id: "TRM-ENG-43574"
+id: "TRM-ENG-58103"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Treatment, 2, 161–174. doi"

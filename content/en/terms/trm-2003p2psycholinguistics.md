@@ -1,6 +1,6 @@
 ---
 slug: "trm-2003p2psycholinguistics"
-id: "TRM-ENG-36397"
+id: "TRM-ENG-65455"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2003,p.2)Psycholinguistics"

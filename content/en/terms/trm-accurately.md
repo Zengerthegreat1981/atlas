@@ -1,6 +1,6 @@
 ---
 slug: "trm-accurately"
-id: "TRM-ENG-37478"
+id: "TRM-ENG-52007"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "accurately"

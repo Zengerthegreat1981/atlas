@@ -1,6 +1,6 @@
 ---
 slug: "trm-meehl-pe"
-id: "TRM-ENG-41671"
+id: "TRM-ENG-56200"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Meehl PE"

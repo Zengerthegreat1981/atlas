@@ -1,6 +1,6 @@
 ---
 slug: "trm-green-do-reimer-dr"
-id: "TRM-ENG-40800"
+id: "TRM-ENG-55329"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Green DO, Reimer DR"

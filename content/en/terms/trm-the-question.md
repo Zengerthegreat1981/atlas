@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-question"
-id: "TRM-ENG-36175"
+id: "TRM-ENG-50704"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the question"

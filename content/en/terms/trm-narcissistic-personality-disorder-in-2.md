@@ -1,6 +1,6 @@
 ---
 slug: "trm-narcissistic-personality-disorder-in-2"
-id: "TRM-ENG-40923"
+id: "TRM-ENG-55452"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "narcissistic personality disorder in, 2"

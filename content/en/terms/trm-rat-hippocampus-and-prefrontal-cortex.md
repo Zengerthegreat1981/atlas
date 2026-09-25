@@ -1,6 +1,6 @@
 ---
 slug: "trm-rat-hippocampus-and-prefrontal-cortex"
-id: "TRM-ENG-35007"
+id: "TRM-ENG-49536"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rat hippocampus and prefrontal cortex"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-chessick-rd"
-id: "TRM-ENG-40169"
+id: "TRM-ENG-54698"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Chessick RD"

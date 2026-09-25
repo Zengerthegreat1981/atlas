@@ -1,6 +1,6 @@
 ---
 slug: "trm-smith-r-h-ed-2008-e-nvy"
-id: "TRM-ENG-44776"
+id: "TRM-ENG-59305"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Smith, R. H. (Ed.). (2008). E nvy"

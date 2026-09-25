@@ -1,6 +1,6 @@
 ---
 slug: "trm-selfdirected-search-and-4"
-id: "TRM-ENG-38749"
+id: "TRM-ENG-53278"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Self-Directed Search and, 4"

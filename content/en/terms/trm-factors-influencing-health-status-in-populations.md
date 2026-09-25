@@ -1,6 +1,6 @@
 ---
 slug: "trm-factors-influencing-health-status-in-populations"
-id: "TRM-ENG-45896"
+id: "TRM-ENG-60425"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "factors influencing health status in populations"

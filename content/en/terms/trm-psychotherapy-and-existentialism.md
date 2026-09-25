@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychotherapy-and-existentialism"
-id: "TRM-ENG-44733"
+id: "TRM-ENG-59262"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, Psychotherapy and Existentialism"

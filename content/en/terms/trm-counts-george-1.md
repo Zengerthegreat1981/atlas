@@ -1,6 +1,6 @@
 ---
 slug: "trm-counts-george-1"
-id: "TRM-ENG-46459"
+id: "TRM-ENG-60988"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Counts, George, 1"

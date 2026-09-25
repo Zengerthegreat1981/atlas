@@ -1,6 +1,6 @@
 ---
 slug: "trm-development-and-morality"
-id: "TRM-ENG-51399"
+id: "TRM-ENG-65928"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "development; and morality"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-macropsia"
-id: "TRM-ENG-52268"
+id: "TRM-ENG-66797"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Macropsia"

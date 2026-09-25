@@ -1,6 +1,6 @@
 ---
 slug: "trm-perspectivespp7188aldershotuk"
-id: "TRM-ENG-47194"
+id: "TRM-ENG-61723"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "perspectives(pp.71±88).Aldershot,UK"

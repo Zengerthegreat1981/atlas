@@ -1,6 +1,6 @@
 ---
 slug: "trm-lobe-patients-however"
-id: "TRM-ENG-34921"
+id: "TRM-ENG-49450"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lobe patients, however"

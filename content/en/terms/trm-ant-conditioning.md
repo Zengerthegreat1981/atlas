@@ -1,6 +1,6 @@
 ---
 slug: "trm-ant-conditioning"
-id: "TRM-ENG-43535"
+id: "TRM-ENG-58064"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ant conditioning"

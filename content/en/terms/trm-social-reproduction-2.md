@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-reproduction-2"
-id: "TRM-ENG-48731"
+id: "TRM-ENG-63260"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social reproduction, 2"

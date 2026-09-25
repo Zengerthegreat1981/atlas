@@ -1,6 +1,6 @@
 ---
 slug: "trm-sidowski-jb-johnson-jh-williams-ta"
-id: "TRM-ENG-42349"
+id: "TRM-ENG-56878"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sidowski JB, Johnson JH, Williams TA"

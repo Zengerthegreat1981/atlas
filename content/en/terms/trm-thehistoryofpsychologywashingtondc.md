@@ -1,6 +1,6 @@
 ---
 slug: "trm-thehistoryofpsychologywashingtondc"
-id: "TRM-ENG-38320"
+id: "TRM-ENG-52849"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thehistoryofpsychology.Washington,DC"

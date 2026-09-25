@@ -1,6 +1,6 @@
 ---
 slug: "trm-watson-d-clark-l-a-1984-negative-affectivity"
-id: "TRM-ENG-46760"
+id: "TRM-ENG-61289"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Watson, D., & Clark, L. A. (1984). Negative affectivity"

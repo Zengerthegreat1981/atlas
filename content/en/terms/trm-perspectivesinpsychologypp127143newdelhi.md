@@ -1,6 +1,6 @@
 ---
 slug: "trm-perspectivesinpsychologypp127143newdelhi"
-id: "TRM-ENG-38089"
+id: "TRM-ENG-52618"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "perspectivesinpsychology(pp.127–143).NewDelhi"

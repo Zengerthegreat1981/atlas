@@ -1,6 +1,6 @@
 ---
 slug: "trm-gordon-t-grummon-dl-rogers-cr-seeman-j"
-id: "TRM-ENG-40779"
+id: "TRM-ENG-55308"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gordon T, Grummon DL, Rogers CR, Seeman J"

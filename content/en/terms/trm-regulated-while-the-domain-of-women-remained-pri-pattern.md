@@ -1,6 +1,6 @@
 ---
 slug: "trm-regulated-while-the-domain-of-women-remained-pri-pattern"
-id: "TRM-ENG-41456"
+id: "TRM-ENG-55985"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "regulated, while the domain of women remained pri- pattern"

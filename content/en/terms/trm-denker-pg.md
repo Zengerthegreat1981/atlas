@@ -1,6 +1,6 @@
 ---
 slug: "trm-denker-pg"
-id: "TRM-ENG-40335"
+id: "TRM-ENG-54864"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Denker PG"

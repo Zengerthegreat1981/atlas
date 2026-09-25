@@ -1,6 +1,6 @@
 ---
 slug: "trm-favaga1992amorsellislegacy"
-id: "TRM-ENG-48982"
+id: "TRM-ENG-63511"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fava,G.A.(1992a).Morselli'slegacy"

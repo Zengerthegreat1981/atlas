@@ -1,6 +1,6 @@
 ---
 slug: "trm-experiential-treatments"
-id: "TRM-ENG-48975"
+id: "TRM-ENG-63504"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Experiential Treatments"

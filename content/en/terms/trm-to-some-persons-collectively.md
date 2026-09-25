@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-some-persons-collectively"
-id: "TRM-ENG-45637"
+id: "TRM-ENG-60166"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to some persons collectively"

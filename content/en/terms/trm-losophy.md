@@ -1,6 +1,6 @@
 ---
 slug: "trm-losophy"
-id: "TRM-ENG-35118"
+id: "TRM-ENG-64176"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "losophy"

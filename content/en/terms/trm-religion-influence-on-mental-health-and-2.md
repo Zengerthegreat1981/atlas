@@ -1,6 +1,6 @@
 ---
 slug: "trm-religion-influence-on-mental-health-and-2"
-id: "TRM-ENG-41489"
+id: "TRM-ENG-56018"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "religion influence on mental health and, 2"

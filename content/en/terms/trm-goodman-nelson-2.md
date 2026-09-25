@@ -1,6 +1,6 @@
 ---
 slug: "trm-goodman-nelson-2"
-id: "TRM-ENG-46688"
+id: "TRM-ENG-61217"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goodman, Nelson, 2"

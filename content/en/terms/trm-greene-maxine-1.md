@@ -1,6 +1,6 @@
 ---
 slug: "trm-greene-maxine-1"
-id: "TRM-ENG-46718"
+id: "TRM-ENG-61247"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Greene, Maxine, 1"

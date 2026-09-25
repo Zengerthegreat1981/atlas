@@ -1,6 +1,6 @@
 ---
 slug: "trm-sequential-probability-ratio-test-1"
-id: "TRM-ENG-44761"
+id: "TRM-ENG-59290"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sequential probability ratio test, 1"

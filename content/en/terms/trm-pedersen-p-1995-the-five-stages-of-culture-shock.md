@@ -1,6 +1,6 @@
 ---
 slug: "trm-pedersen-p-1995-the-five-stages-of-culture-shock"
-id: "TRM-ENG-35889"
+id: "TRM-ENG-64947"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pedersen, P. (1995). The five stages of culture shock"

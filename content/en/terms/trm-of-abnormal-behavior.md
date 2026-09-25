@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-abnormal-behavior"
-id: "TRM-ENG-36763"
+id: "TRM-ENG-65821"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of abnormal behavior"

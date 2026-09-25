@@ -1,6 +1,6 @@
 ---
 slug: "trm-logical-sociological-or-political"
-id: "TRM-ENG-48302"
+id: "TRM-ENG-62831"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "logical, sociological, or political"

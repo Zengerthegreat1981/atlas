@@ -1,6 +1,6 @@
 ---
 slug: "trm-cortical-blindness-1"
-id: "TRM-ENG-45041"
+id: "TRM-ENG-59570"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cortical blindness, 1"

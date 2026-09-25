@@ -1,6 +1,6 @@
 ---
 slug: "trm-methodology-pp-321340-new-york-ny"
-id: "TRM-ENG-35949"
+id: "TRM-ENG-65007"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "methodology (pp. 321–340). New York, NY"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-6-isolation"
-id: "TRM-ENG-39216"
+id: "TRM-ENG-53745"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "6. Isolation"

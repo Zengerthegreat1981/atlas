@@ -1,6 +1,6 @@
 ---
 slug: "trm-functional-model-of-1"
-id: "TRM-ENG-40268"
+id: "TRM-ENG-54797"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "functional model of, 1"

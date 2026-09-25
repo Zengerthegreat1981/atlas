@@ -1,6 +1,6 @@
 ---
 slug: "trm-working-alliance-new-york"
-id: "TRM-ENG-43437"
+id: "TRM-ENG-57966"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "working alliance. New York"

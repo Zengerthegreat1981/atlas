@@ -1,6 +1,6 @@
 ---
 slug: "trm-drens-psychiatric-symptoms"
-id: "TRM-ENG-42788"
+id: "TRM-ENG-57317"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dren’s psychiatric symptoms"

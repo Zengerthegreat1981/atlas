@@ -1,6 +1,6 @@
 ---
 slug: "trm-daries-and-virtues"
-id: "TRM-ENG-45876"
+id: "TRM-ENG-60405"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "daries and Virtues"

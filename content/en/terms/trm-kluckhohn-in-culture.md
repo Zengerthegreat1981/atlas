@@ -1,6 +1,6 @@
 ---
 slug: "trm-kluckhohn-in-culture"
-id: "TRM-ENG-35793"
+id: "TRM-ENG-64851"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kluckhohn, in “Culture"

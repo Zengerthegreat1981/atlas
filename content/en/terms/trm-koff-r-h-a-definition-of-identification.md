@@ -1,6 +1,6 @@
 ---
 slug: "trm-koff-r-h-a-definition-of-identification"
-id: "TRM-ENG-44475"
+id: "TRM-ENG-59004"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Koff, R. H., “A Definition of Identification"

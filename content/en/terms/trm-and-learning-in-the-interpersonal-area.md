@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-learning-in-the-interpersonal-area"
-id: "TRM-ENG-48192"
+id: "TRM-ENG-62721"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and learning in the interpersonal area"

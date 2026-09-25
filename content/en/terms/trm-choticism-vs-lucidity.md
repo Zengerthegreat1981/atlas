@@ -1,6 +1,6 @@
 ---
 slug: "trm-choticism-vs-lucidity"
-id: "TRM-ENG-48273"
+id: "TRM-ENG-62802"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "choticism (vs. Lucidity)"

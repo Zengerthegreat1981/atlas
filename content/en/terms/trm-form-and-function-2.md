@@ -1,6 +1,6 @@
 ---
 slug: "trm-form-and-function-2"
-id: "TRM-ENG-48046"
+id: "TRM-ENG-62575"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "form and function, 2"

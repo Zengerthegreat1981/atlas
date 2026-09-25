@@ -1,6 +1,6 @@
 ---
 slug: "trm-tion-regulation-pp-518-new-york"
-id: "TRM-ENG-43348"
+id: "TRM-ENG-57877"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tion regulation (pp. 5–18). New York"

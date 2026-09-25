@@ -1,6 +1,6 @@
 ---
 slug: "trm-was-run"
-id: "TRM-ENG-49025"
+id: "TRM-ENG-63554"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "was run"

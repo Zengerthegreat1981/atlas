@@ -1,6 +1,6 @@
 ---
 slug: "trm-berkovits-elieser-1"
-id: "TRM-ENG-46299"
+id: "TRM-ENG-60828"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Berkovits, Elieser, 1"

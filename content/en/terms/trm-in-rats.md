@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-rats"
-id: "TRM-ENG-34876"
+id: "TRM-ENG-63934"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in rats"

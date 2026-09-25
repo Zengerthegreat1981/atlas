@@ -1,6 +1,6 @@
 ---
 slug: "trm-subject-is-yoked"
-id: "TRM-ENG-44153"
+id: "TRM-ENG-58682"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "subject is yoked"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-there-are-two-kinds-of-entities-in-the-world-those-of-a-phys-bodily-events"
-id: "TRM-ENG-37146"
+id: "TRM-ENG-51675"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "there are two kinds of entities in the world, those of a phys- bodily events"

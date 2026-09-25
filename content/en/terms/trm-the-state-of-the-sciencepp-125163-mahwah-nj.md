@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-state-of-the-sciencepp-125163-mahwah-nj"
-id: "TRM-ENG-38903"
+id: "TRM-ENG-53432"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The state of the science(pp. 125–163). Mahwah, NJ"

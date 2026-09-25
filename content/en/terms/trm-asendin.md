@@ -1,6 +1,6 @@
 ---
 slug: "trm-asendin"
-id: "TRM-ENG-38503"
+id: "TRM-ENG-53032"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Asendin"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-511-martin-jd-reichlin-s-brown-g"
-id: "TRM-ENG-39119"
+id: "TRM-ENG-53648"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "511. Martin JD, Reichlin S, Brown G"

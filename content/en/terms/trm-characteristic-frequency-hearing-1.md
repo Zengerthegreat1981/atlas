@@ -1,6 +1,6 @@
 ---
 slug: "trm-characteristic-frequency-hearing-1"
-id: "TRM-ENG-44378"
+id: "TRM-ENG-58907"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Characteristic frequency (hearing), 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavior-rehearsal-technique-in-2"
-id: "TRM-ENG-39332"
+id: "TRM-ENG-53861"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behavior rehearsal technique in, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-clinical-psychology-11-302321-doi"
-id: "TRM-ENG-35640"
+id: "TRM-ENG-50169"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and Clinical Psychology, 11, 302–321. doi"

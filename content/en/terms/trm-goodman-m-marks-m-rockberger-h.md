@@ -1,6 +1,6 @@
 ---
 slug: "trm-goodman-m-marks-m-rockberger-h"
-id: "TRM-ENG-40772"
+id: "TRM-ENG-55301"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goodman M, Marks M, Rockberger H"

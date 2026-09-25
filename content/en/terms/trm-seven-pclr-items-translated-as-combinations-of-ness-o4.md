@@ -1,6 +1,6 @@
 ---
 slug: "trm-seven-pclr-items-translated-as-combinations-of-ness-o4"
-id: "TRM-ENG-43834"
+id: "TRM-ENG-58363"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "seven PCL–R items translated as combinations of ness, O4"

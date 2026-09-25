@@ -1,6 +1,6 @@
 ---
 slug: "trm-intention-thus-helping-students"
-id: "TRM-ENG-48219"
+id: "TRM-ENG-62748"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "intention), thus helping students"

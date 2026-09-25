@@ -1,6 +1,6 @@
 ---
 slug: "trm-purvapaks"
-id: "TRM-ENG-38178"
+id: "TRM-ENG-52707"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pu¯rvapaks"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-autism-diagnostic-observation-schedule-and-1"
-id: "TRM-ENG-37656"
+id: "TRM-ENG-66714"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Autism Diagnostic Observation Schedule and, 1"

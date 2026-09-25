@@ -1,6 +1,6 @@
 ---
 slug: "trm-brings-rewards"
-id: "TRM-ENG-42984"
+id: "TRM-ENG-57513"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "brings rewards"

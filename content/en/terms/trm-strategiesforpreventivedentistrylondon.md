@@ -1,6 +1,6 @@
 ---
 slug: "trm-strategiesforpreventivedentistrylondon"
-id: "TRM-ENG-47307"
+id: "TRM-ENG-61836"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "strategiesforpreventivedentistry.London"

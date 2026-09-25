@@ -1,6 +1,6 @@
 ---
 slug: "trm-aipe-for-the-omnibus-effect-cid"
-id: "TRM-ENG-35281"
+id: "TRM-ENG-64339"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "AIPE for the Omnibus Effect ((cid"

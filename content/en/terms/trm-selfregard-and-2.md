@@ -1,6 +1,6 @@
 ---
 slug: "trm-selfregard-and-2"
-id: "TRM-ENG-41615"
+id: "TRM-ENG-56144"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "self-regard and, 2"

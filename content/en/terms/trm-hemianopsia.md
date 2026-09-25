@@ -1,6 +1,6 @@
 ---
 slug: "trm-hemianopsia"
-id: "TRM-ENG-44067"
+id: "TRM-ENG-58596"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "hemianopsia."

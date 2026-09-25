@@ -1,6 +1,6 @@
 ---
 slug: "trm-kidd-g-r-watson-c-s-gygi-b-2007-individual-following"
-id: "TRM-ENG-44567"
+id: "TRM-ENG-59096"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kidd, G. R., Watson, C. S., & Gygi, B. (2007). Individual following"

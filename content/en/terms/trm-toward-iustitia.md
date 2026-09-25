@@ -1,6 +1,6 @@
 ---
 slug: "trm-toward-iustitia"
-id: "TRM-ENG-46071"
+id: "TRM-ENG-60600"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "toward iustitia"

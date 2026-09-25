@@ -1,6 +1,6 @@
 ---
 slug: "trm-humanistic-counseling-approaches-to-2"
-id: "TRM-ENG-40421"
+id: "TRM-ENG-54950"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "humanistic counseling approaches to, 2"

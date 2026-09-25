@@ -1,6 +1,6 @@
 ---
 slug: "trm-1958-p298-concluded"
-id: "TRM-ENG-35468"
+id: "TRM-ENG-49997"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1958, p.298) concluded"

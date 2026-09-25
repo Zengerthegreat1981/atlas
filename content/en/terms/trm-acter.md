@@ -1,6 +1,6 @@
 ---
 slug: "trm-acter"
-id: "TRM-ENG-47542"
+id: "TRM-ENG-62071"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "acter"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-nussbaum-martha-2"
-id: "TRM-ENG-44657"
+id: "TRM-ENG-59186"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nussbaum, Martha, 2"

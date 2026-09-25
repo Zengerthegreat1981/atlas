@@ -1,6 +1,6 @@
 ---
 slug: "trm-is-carried-in-the-auditory-nerve-in-three-basic-ways"
-id: "TRM-ENG-45239"
+id: "TRM-ENG-59768"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "is carried in the auditory nerve in three basic ways"

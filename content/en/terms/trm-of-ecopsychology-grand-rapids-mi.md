@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-ecopsychology-grand-rapids-mi"
-id: "TRM-ENG-51641"
+id: "TRM-ENG-66170"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of ecopsychology. Grand Rapids, MI"

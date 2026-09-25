@@ -1,6 +1,6 @@
 ---
 slug: "trm-quality-of-life-issues-and-1"
-id: "TRM-ENG-41391"
+id: "TRM-ENG-55920"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "quality of life issues and, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-laboratory-and-ambulatory-cardiovascular-activity"
-id: "TRM-ENG-47079"
+id: "TRM-ENG-61608"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "laboratory and ambulatory cardiovascular activity"

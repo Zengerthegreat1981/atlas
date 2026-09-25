@@ -1,6 +1,6 @@
 ---
 slug: "trm-harris-fr-wolf-mm-baer-dm"
-id: "TRM-ENG-40918"
+id: "TRM-ENG-55447"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Harris FR, Wolf MM, Baer DM"

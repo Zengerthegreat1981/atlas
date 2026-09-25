@@ -1,6 +1,6 @@
 ---
 slug: "trm-grouped-into-four-dimensions-of-adaptability"
-id: "TRM-ENG-40337"
+id: "TRM-ENG-54866"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "grouped into four dimensions of adaptability"

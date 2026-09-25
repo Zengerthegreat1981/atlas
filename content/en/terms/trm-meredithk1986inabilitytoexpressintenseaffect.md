@@ -1,6 +1,6 @@
 ---
 slug: "trm-meredithk1986inabilitytoexpressintenseaffect"
-id: "TRM-ENG-46292"
+id: "TRM-ENG-60821"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "&Meredith,K.(1986).Inabilitytoexpressintenseaffect"

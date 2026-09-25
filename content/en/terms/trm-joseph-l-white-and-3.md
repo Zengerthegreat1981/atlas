@@ -1,6 +1,6 @@
 ---
 slug: "trm-joseph-l-white-and-3"
-id: "TRM-ENG-38300"
+id: "TRM-ENG-52829"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Joseph L. White and, 3"

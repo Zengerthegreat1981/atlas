@@ -1,6 +1,6 @@
 ---
 slug: "trm-abnormal-psychology-104-2631-doi"
-id: "TRM-ENG-43364"
+id: "TRM-ENG-57893"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Abnormal Psychology, 104, 26–31. doi"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-behaviour-therapy"
-id: "TRM-ENG-36311"
+id: "TRM-ENG-50840"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behaviour therapy"

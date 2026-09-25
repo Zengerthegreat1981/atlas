@@ -1,6 +1,6 @@
 ---
 slug: "trm-wilson-hs-kneisl-cr"
-id: "TRM-ENG-42821"
+id: "TRM-ENG-57350"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wilson HS, Kneisl CR"

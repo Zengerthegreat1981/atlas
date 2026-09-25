@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-the-attitude-object"
-id: "TRM-ENG-43940"
+id: "TRM-ENG-58469"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to the attitude object"

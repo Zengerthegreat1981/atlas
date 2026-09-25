@@ -1,6 +1,6 @@
 ---
 slug: "trm-hit-rate-or-valid-positive-rate"
-id: "TRM-ENG-35399"
+id: "TRM-ENG-64457"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hit rate (or Valid positive rate)"

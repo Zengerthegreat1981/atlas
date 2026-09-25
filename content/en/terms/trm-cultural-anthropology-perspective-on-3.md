@@ -1,6 +1,6 @@
 ---
 slug: "trm-cultural-anthropology-perspective-on-3"
-id: "TRM-ENG-39805"
+id: "TRM-ENG-54334"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cultural anthropology perspective on, 3"

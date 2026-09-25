@@ -1,6 +1,6 @@
 ---
 slug: "trm-popplestonejamcphersonm2000introduction"
-id: "TRM-ENG-37184"
+id: "TRM-ENG-66242"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Popplestone,J.A.,&McPherson,M.(2000).Introduction"

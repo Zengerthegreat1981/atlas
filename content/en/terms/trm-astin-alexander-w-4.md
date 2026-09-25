@@ -1,6 +1,6 @@
 ---
 slug: "trm-astin-alexander-w-4"
-id: "TRM-ENG-37644"
+id: "TRM-ENG-52173"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Astin, Alexander W., 4"

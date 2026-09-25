@@ -1,6 +1,6 @@
 ---
 slug: "trm-traditional-methods"
-id: "TRM-ENG-48963"
+id: "TRM-ENG-63492"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "traditional methods"

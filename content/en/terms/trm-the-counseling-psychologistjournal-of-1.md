@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-counseling-psychologistjournal-of-1"
-id: "TRM-ENG-38881"
+id: "TRM-ENG-53410"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The Counseling Psychologistjournal of, 1"

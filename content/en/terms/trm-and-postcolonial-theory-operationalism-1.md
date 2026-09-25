@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-postcolonial-theory-operationalism-1"
-id: "TRM-ENG-47611"
+id: "TRM-ENG-62140"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and postcolonial theory operationalism, 1"

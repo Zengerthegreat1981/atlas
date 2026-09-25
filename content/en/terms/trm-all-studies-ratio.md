@@ -1,6 +1,6 @@
 ---
 slug: "trm-all-studies-ratio"
-id: "TRM-ENG-48178"
+id: "TRM-ENG-62707"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "all studies, Ratio"

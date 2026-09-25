@@ -1,6 +1,6 @@
 ---
 slug: "trm-jajunior-achievement-worldwide-4"
-id: "TRM-ENG-38271"
+id: "TRM-ENG-52800"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "JA(Junior Achievement) Worldwide, 4"

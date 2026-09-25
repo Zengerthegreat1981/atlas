@@ -1,6 +1,6 @@
 ---
 slug: "trm-blanchard-e-b-1993-irritable-bowel-syndrome"
-id: "TRM-ENG-46434"
+id: "TRM-ENG-60963"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Blanchard, E. B. (1993). Irritable bowel syndrome"

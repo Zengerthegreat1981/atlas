@@ -1,6 +1,6 @@
 ---
 slug: "trm-loewensteing1996outofcontrol"
-id: "TRM-ENG-46611"
+id: "TRM-ENG-61140"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Loewenstein,G.(1996).Outofcontrol"

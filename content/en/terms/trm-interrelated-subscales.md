@@ -1,6 +1,6 @@
 ---
 slug: "trm-interrelated-subscales"
-id: "TRM-ENG-42923"
+id: "TRM-ENG-57452"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "interrelated subscales"

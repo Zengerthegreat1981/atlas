@@ -1,6 +1,6 @@
 ---
 slug: "trm-perimmtrzl-and-social-psychology-cambridge-england"
-id: "TRM-ENG-35220"
+id: "TRM-ENG-64278"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "perimmtrzl and social psychology. Cambridge, England"

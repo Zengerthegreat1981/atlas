@@ -1,6 +1,6 @@
 ---
 slug: "trm-this-a-try"
-id: "TRM-ENG-43216"
+id: "TRM-ENG-57745"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "this a try"

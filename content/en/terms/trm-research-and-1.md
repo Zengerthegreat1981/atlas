@@ -1,6 +1,6 @@
 ---
 slug: "trm-research-and-1"
-id: "TRM-ENG-38667"
+id: "TRM-ENG-53196"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Research and, 1"

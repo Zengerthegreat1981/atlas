@@ -1,6 +1,6 @@
 ---
 slug: "trm-ismhistory7"
-id: "TRM-ENG-45935"
+id: "TRM-ENG-60464"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ism.HISTORY7"

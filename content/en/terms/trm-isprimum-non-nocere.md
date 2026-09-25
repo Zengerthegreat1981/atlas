@@ -1,6 +1,6 @@
 ---
 slug: "trm-isprimum-non-nocere"
-id: "TRM-ENG-36599"
+id: "TRM-ENG-51128"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "isprimum non nocere"

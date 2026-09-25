@@ -1,6 +1,6 @@
 ---
 slug: "trm-885-kaplan-bh-cassel-jc-eds"
-id: "TRM-ENG-39549"
+id: "TRM-ENG-54078"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "885. Kaplan BH, Cassel JC (eds)"

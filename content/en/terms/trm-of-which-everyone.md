@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-which-everyone"
-id: "TRM-ENG-43781"
+id: "TRM-ENG-58310"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of which everyone"

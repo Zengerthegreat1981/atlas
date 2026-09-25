@@ -1,6 +1,6 @@
 ---
 slug: "trm-four-methodological-categories"
-id: "TRM-ENG-40251"
+id: "TRM-ENG-54780"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "four methodological categories"

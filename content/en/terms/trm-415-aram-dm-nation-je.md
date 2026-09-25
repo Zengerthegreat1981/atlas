@@ -1,6 +1,6 @@
 ---
 slug: "trm-415-aram-dm-nation-je"
-id: "TRM-ENG-39003"
+id: "TRM-ENG-53532"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "415. Aram DM, Nation JE"

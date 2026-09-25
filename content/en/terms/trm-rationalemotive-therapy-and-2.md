@@ -1,6 +1,6 @@
 ---
 slug: "trm-rationalemotive-therapy-and-2"
-id: "TRM-ENG-41430"
+id: "TRM-ENG-55959"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rational-emotive therapy and, 2"

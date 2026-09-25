@@ -1,6 +1,6 @@
 ---
 slug: "trm-ories"
-id: "TRM-ENG-36820"
+id: "TRM-ENG-65878"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ories"

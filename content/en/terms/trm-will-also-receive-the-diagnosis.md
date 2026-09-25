@@ -1,6 +1,6 @@
 ---
 slug: "trm-will-also-receive-the-diagnosis"
-id: "TRM-ENG-44235"
+id: "TRM-ENG-58764"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "will also receive the diagnosis"

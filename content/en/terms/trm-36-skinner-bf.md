@@ -1,6 +1,6 @@
 ---
 slug: "trm-36-skinner-bf"
-id: "TRM-ENG-38928"
+id: "TRM-ENG-53457"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "36. Skinner BF"

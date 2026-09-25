@@ -1,6 +1,6 @@
 ---
 slug: "trm-rosenbaum-v-rosenbaum-j"
-id: "TRM-ENG-42170"
+id: "TRM-ENG-56699"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rosenbaum V & Rosenbaum J"

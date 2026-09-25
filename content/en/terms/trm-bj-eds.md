@@ -1,6 +1,6 @@
 ---
 slug: "trm-bj-eds"
-id: "TRM-ENG-39761"
+id: "TRM-ENG-54290"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "BJ (eds)"

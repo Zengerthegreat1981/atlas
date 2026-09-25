@@ -1,6 +1,6 @@
 ---
 slug: "trm-petrifaction-and-the-restoration-of-epistemic-trust"
-id: "TRM-ENG-43132"
+id: "TRM-ENG-57661"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "petrifaction and the restoration of epistemic trust"

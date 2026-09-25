@@ -1,6 +1,6 @@
 ---
 slug: "trm-impacts"
-id: "TRM-ENG-40455"
+id: "TRM-ENG-54984"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "impacts"

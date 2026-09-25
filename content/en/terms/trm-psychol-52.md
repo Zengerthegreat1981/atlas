@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychol-52"
-id: "TRM-ENG-47977"
+id: "TRM-ENG-62506"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychol 52"

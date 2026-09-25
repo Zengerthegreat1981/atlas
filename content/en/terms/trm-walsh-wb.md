@@ -1,6 +1,6 @@
 ---
 slug: "trm-walsh-wb"
-id: "TRM-ENG-42707"
+id: "TRM-ENG-57236"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Walsh WB"

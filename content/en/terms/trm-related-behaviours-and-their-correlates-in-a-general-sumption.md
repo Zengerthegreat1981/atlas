@@ -1,6 +1,6 @@
 ---
 slug: "trm-related-behaviours-and-their-correlates-in-a-general-sumption"
-id: "TRM-ENG-47250"
+id: "TRM-ENG-61779"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "related behaviours and their correlates in a general sumption"

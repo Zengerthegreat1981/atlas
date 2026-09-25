@@ -1,6 +1,6 @@
 ---
 slug: "trm-variance-component-associated-with-items-cid"
-id: "TRM-ENG-36240"
+id: "TRM-ENG-50769"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "variance component associated with items ((cid"

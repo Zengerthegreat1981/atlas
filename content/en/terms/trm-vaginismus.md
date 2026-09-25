@@ -1,6 +1,6 @@
 ---
 slug: "trm-vaginismus"
-id: "TRM-ENG-49818"
+id: "TRM-ENG-64347"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "vaginismus"

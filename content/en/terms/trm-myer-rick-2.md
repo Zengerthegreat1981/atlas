@@ -1,6 +1,6 @@
 ---
 slug: "trm-myer-rick-2"
-id: "TRM-ENG-38466"
+id: "TRM-ENG-52995"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Myer, Rick, 2"

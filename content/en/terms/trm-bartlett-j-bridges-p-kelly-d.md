@@ -1,6 +1,6 @@
 ---
 slug: "trm-bartlett-j-bridges-p-kelly-d"
-id: "TRM-ENG-39818"
+id: "TRM-ENG-54347"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bartlett J, Bridges P, Kelly D"

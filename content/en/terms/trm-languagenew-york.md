@@ -1,6 +1,6 @@
 ---
 slug: "trm-languagenew-york"
-id: "TRM-ENG-36617"
+id: "TRM-ENG-65675"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "language.New York"

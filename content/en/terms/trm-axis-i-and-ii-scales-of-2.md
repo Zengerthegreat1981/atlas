@@ -1,6 +1,6 @@
 ---
 slug: "trm-axis-i-and-ii-scales-of-2"
-id: "TRM-ENG-37657"
+id: "TRM-ENG-66715"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Axis I and II scales of, 2"

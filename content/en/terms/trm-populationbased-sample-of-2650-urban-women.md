@@ -1,6 +1,6 @@
 ---
 slug: "trm-populationbased-sample-of-2650-urban-women"
-id: "TRM-ENG-47202"
+id: "TRM-ENG-61731"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "population-based sample of 2650 urban women"

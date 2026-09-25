@@ -1,6 +1,6 @@
 ---
 slug: "trm-dornberg-n-rosen-b-walker-t"
-id: "TRM-ENG-40373"
+id: "TRM-ENG-54902"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dornberg N, Rosen B, Walker T"

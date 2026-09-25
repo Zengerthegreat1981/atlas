@@ -1,6 +1,6 @@
 ---
 slug: "trm-herschelman-p-freundlich-d"
-id: "TRM-ENG-40978"
+id: "TRM-ENG-55507"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Herschelman P, Freundlich D"

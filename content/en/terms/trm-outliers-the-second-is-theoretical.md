@@ -1,6 +1,6 @@
 ---
 slug: "trm-outliers-the-second-is-theoretical"
-id: "TRM-ENG-36026"
+id: "TRM-ENG-65084"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "outliers? The second is theoretical"

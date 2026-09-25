@@ -1,6 +1,6 @@
 ---
 slug: "trm-same-time-the-cod"
-id: "TRM-ENG-35296"
+id: "TRM-ENG-64354"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "same time. The cod"

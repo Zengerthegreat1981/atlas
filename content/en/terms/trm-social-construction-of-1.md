@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-construction-of-1"
-id: "TRM-ENG-48727"
+id: "TRM-ENG-63256"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social construction of, 1"

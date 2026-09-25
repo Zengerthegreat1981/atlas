@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-adults"
-id: "TRM-ENG-42885"
+id: "TRM-ENG-57414"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in adults"

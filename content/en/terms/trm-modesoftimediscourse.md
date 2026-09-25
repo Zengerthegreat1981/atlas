@@ -1,6 +1,6 @@
 ---
 slug: "trm-modesoftimediscourse"
-id: "TRM-ENG-37970"
+id: "TRM-ENG-67028"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "modesoftimediscourse"

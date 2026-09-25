@@ -1,6 +1,6 @@
 ---
 slug: "trm-whiston-susan-4"
-id: "TRM-ENG-39031"
+id: "TRM-ENG-53560"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Whiston, Susan, 4"

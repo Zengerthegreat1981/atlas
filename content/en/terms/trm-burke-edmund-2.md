@@ -1,6 +1,6 @@
 ---
 slug: "trm-burke-edmund-2"
-id: "TRM-ENG-46346"
+id: "TRM-ENG-60875"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Burke, Edmund, 2"

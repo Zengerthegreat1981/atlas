@@ -1,6 +1,6 @@
 ---
 slug: "trm-for-political-alienation"
-id: "TRM-ENG-36452"
+id: "TRM-ENG-65510"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "for political alienation"

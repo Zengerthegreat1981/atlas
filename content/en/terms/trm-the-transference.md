@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-transference"
-id: "TRM-ENG-48643"
+id: "TRM-ENG-63172"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the transference"

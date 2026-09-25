@@ -1,6 +1,6 @@
 ---
 slug: "trm-management-2nd-ed-pp-1752-new-york"
-id: "TRM-ENG-49526"
+id: "TRM-ENG-64055"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "management (2nd ed., pp. 17±52). New York"

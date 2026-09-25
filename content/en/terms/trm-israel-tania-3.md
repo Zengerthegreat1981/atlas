@@ -1,6 +1,6 @@
 ---
 slug: "trm-israel-tania-3"
-id: "TRM-ENG-38264"
+id: "TRM-ENG-52793"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Israel, Tania, 3"

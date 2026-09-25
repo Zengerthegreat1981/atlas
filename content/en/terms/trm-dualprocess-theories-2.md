@@ -1,6 +1,6 @@
 ---
 slug: "trm-dualprocess-theories-2"
-id: "TRM-ENG-45080"
+id: "TRM-ENG-59609"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dual-process theories, 2"

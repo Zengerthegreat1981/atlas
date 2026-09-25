@@ -1,6 +1,6 @@
 ---
 slug: "trm-ity-disorder-journal-of-the-american-psychoanalytic-ries"
-id: "TRM-ENG-42955"
+id: "TRM-ENG-57484"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ity disorder. Journal of the American Psychoanalytic ries"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-hasin-d-fenton-mc-skodol-a-et-al"
-id: "TRM-ENG-47715"
+id: "TRM-ENG-62244"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hasin D, Fenton MC, Skodol A, et al"

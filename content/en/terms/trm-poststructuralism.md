@@ -1,6 +1,6 @@
 ---
 slug: "trm-poststructuralism"
-id: "TRM-ENG-48570"
+id: "TRM-ENG-63099"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "poststructuralism"

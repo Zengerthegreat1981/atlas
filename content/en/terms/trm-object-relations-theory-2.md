@@ -1,6 +1,6 @@
 ---
 slug: "trm-object-relations-theory-2"
-id: "TRM-ENG-48416"
+id: "TRM-ENG-62945"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "object relations theory, 2"

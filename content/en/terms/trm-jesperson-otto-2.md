@@ -1,6 +1,6 @@
 ---
 slug: "trm-jesperson-otto-2"
-id: "TRM-ENG-44555"
+id: "TRM-ENG-59084"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jesperson, Otto, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-value-1"
-id: "TRM-ENG-47310"
+id: "TRM-ENG-61839"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Social value, 1"

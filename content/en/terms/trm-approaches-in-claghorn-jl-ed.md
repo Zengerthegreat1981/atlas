@@ -1,6 +1,6 @@
 ---
 slug: "trm-approaches-in-claghorn-jl-ed"
-id: "TRM-ENG-42965"
+id: "TRM-ENG-57494"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "approaches, in Claghorn JL (ed)"

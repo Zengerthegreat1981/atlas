@@ -1,6 +1,6 @@
 ---
 slug: "trm-tanner-ba"
-id: "TRM-ENG-42548"
+id: "TRM-ENG-57077"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tanner BA"

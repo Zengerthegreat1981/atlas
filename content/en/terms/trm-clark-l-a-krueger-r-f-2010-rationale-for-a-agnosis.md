@@ -1,6 +1,6 @@
 ---
 slug: "trm-clark-l-a-krueger-r-f-2010-rationale-for-a-agnosis"
-id: "TRM-ENG-42351"
+id: "TRM-ENG-56880"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Clark, L. A., & Krueger, R. F. (2010). Rationale for a agnosis"

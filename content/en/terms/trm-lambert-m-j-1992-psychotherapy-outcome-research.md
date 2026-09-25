@@ -1,6 +1,6 @@
 ---
 slug: "trm-lambert-m-j-1992-psychotherapy-outcome-research"
-id: "TRM-ENG-42445"
+id: "TRM-ENG-56974"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lambert, M. J. (1992). Psychotherapy outcome research"

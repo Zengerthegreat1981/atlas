@@ -1,6 +1,6 @@
 ---
 slug: "trm-zona-and-texas-fires-poisons-and-so-on"
-id: "TRM-ENG-37338"
+id: "TRM-ENG-66396"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "zona, and Texas), fires, poisons and so on"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-598-rogers-c"
-id: "TRM-ENG-39212"
+id: "TRM-ENG-53741"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "598. Rogers C"

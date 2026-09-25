@@ -1,6 +1,6 @@
 ---
 slug: "trm-mary-types-of-couples-therapy"
-id: "TRM-ENG-48437"
+id: "TRM-ENG-62966"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mary types of couples therapy"

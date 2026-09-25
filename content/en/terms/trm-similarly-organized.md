@@ -1,6 +1,6 @@
 ---
 slug: "trm-similarly-organized"
-id: "TRM-ENG-35039"
+id: "TRM-ENG-49568"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "similarly organized"

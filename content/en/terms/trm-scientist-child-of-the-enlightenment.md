@@ -1,6 +1,6 @@
 ---
 slug: "trm-scientist-child-of-the-enlightenment"
-id: "TRM-ENG-45293"
+id: "TRM-ENG-59822"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "scientist, child of the Enlightenment"

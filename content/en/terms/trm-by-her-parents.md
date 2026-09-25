@@ -1,6 +1,6 @@
 ---
 slug: "trm-by-her-parents"
-id: "TRM-ENG-44061"
+id: "TRM-ENG-58590"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "by her parents"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-theoryandresearchpp387430thousandoaksca"
-id: "TRM-ENG-47335"
+id: "TRM-ENG-61864"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theory,andresearch(pp.387±430).ThousandOaks,CA"

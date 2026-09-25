@@ -1,6 +1,6 @@
 ---
 slug: "trm-tokenism-and-3"
-id: "TRM-ENG-41991"
+id: "TRM-ENG-56520"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tokenism and, 3"

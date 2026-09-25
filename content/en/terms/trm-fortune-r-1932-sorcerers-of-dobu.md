@@ -1,6 +1,6 @@
 ---
 slug: "trm-fortune-r-1932-sorcerers-of-dobu"
-id: "TRM-ENG-36802"
+id: "TRM-ENG-65860"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fortune, R. (1932). Sorcerers of Dobu"

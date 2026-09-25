@@ -1,6 +1,6 @@
 ---
 slug: "trm-for-and-of-the-people"
-id: "TRM-ENG-36449"
+id: "TRM-ENG-65507"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "for and of the people"

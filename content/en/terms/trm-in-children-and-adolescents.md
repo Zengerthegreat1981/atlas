@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-children-and-adolescents"
-id: "TRM-ENG-46116"
+id: "TRM-ENG-60645"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in children and adolescents"

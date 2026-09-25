@@ -1,6 +1,6 @@
 ---
 slug: "trm-tex2seemedullaoblongata"
-id: "TRM-ENG-43901"
+id: "TRM-ENG-58430"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tex.2.seemedullaoblongata."

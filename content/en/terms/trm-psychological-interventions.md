@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychological-interventions"
-id: "TRM-ENG-44176"
+id: "TRM-ENG-58705"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychological interventions"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-scribers-guide-cambridge"
-id: "TRM-ENG-46212"
+id: "TRM-ENG-60741"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "scriber’s Guide. Cambridge"

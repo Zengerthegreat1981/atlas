@@ -1,6 +1,6 @@
 ---
 slug: "trm-economic-opportunity-act-1964-and-4"
-id: "TRM-ENG-38000"
+id: "TRM-ENG-52529"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Economic Opportunity Act (1964) and, 4"

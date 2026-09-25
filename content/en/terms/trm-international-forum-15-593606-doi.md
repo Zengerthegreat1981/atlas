@@ -1,6 +1,6 @@
 ---
 slug: "trm-international-forum-15-593606-doi"
-id: "TRM-ENG-35415"
+id: "TRM-ENG-64473"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "International Forum, 15, 593–606. doi"

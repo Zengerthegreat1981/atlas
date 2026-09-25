@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-skills-training-2"
-id: "TRM-ENG-41713"
+id: "TRM-ENG-56242"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social skills training, 2"

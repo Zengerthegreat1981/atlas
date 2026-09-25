@@ -1,6 +1,6 @@
 ---
 slug: "trm-institution-but-as-a-knowledgecreating-community-processes"
-id: "TRM-ENG-48207"
+id: "TRM-ENG-62736"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "institution but as a knowledge-creating community, processes"

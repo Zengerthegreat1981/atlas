@@ -1,6 +1,6 @@
 ---
 slug: "trm-superstitions"
-id: "TRM-ENG-45329"
+id: "TRM-ENG-59858"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "superstitions"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-comenius-m-v-keatinge-ed-london-england"
-id: "TRM-ENG-46429"
+id: "TRM-ENG-60958"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Comenius (M. V. Keatinge, Ed.). London, England"

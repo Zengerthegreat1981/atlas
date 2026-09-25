@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-everyday-life"
-id: "TRM-ENG-51533"
+id: "TRM-ENG-66062"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in everyday life"

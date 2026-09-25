@@ -1,6 +1,6 @@
 ---
 slug: "trm-systems-theory-of-1"
-id: "TRM-ENG-41842"
+id: "TRM-ENG-56371"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "systems theory of, 1"

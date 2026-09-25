@@ -1,6 +1,6 @@
 ---
 slug: "trm-raters-to-do-the-following"
-id: "TRM-ENG-43816"
+id: "TRM-ENG-58345"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "raters to do the following"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-davis-m-whalen-p-j-2001-the-amygdala"
-id: "TRM-ENG-35359"
+id: "TRM-ENG-64417"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Davis, M., & Whalen, P. J. (2001). The amygdala"

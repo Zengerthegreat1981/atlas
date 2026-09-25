@@ -1,6 +1,6 @@
 ---
 slug: "trm-herskovits-m-1948-man-and-his-worksnew-york"
-id: "TRM-ENG-35741"
+id: "TRM-ENG-64799"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Herskovits, M. (1948). Man and his works.New York"

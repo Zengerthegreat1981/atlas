@@ -1,6 +1,6 @@
 ---
 slug: "trm-j-92"
-id: "TRM-ENG-47752"
+id: "TRM-ENG-62281"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "J 92"

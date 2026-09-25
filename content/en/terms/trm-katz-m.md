@@ -1,6 +1,6 @@
 ---
 slug: "trm-katz-m"
-id: "TRM-ENG-41209"
+id: "TRM-ENG-55738"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Katz M"

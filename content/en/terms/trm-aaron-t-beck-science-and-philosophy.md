@@ -1,6 +1,6 @@
 ---
 slug: "trm-aaron-t-beck-science-and-philosophy"
-id: "TRM-ENG-50075"
+id: "TRM-ENG-64604"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Aaron T. Beck, “Science and philosophy"

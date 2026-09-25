@@ -1,6 +1,6 @@
 ---
 slug: "trm-geisteswissenschaften-1"
-id: "TRM-ENG-46681"
+id: "TRM-ENG-61210"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Geisteswissenschaften, 1"

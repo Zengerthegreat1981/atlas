@@ -1,6 +1,6 @@
 ---
 slug: "trm-proceduresforsmokingreduction"
-id: "TRM-ENG-47217"
+id: "TRM-ENG-61746"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "proceduresforsmokingreduction"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-him-to-be-careful-of-what-people-would-think"
-id: "TRM-ENG-51512"
+id: "TRM-ENG-66041"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "him to be careful of what people would think"

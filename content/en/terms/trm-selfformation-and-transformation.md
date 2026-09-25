@@ -1,6 +1,6 @@
 ---
 slug: "trm-selfformation-and-transformation"
-id: "TRM-ENG-48696"
+id: "TRM-ENG-63225"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "self-formation and transformation"

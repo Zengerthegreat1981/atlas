@@ -1,6 +1,6 @@
 ---
 slug: "trm-barkerp1995theghostroadlondon"
-id: "TRM-ENG-36592"
+id: "TRM-ENG-51121"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Barker,P.(1995).Theghostroad.London"

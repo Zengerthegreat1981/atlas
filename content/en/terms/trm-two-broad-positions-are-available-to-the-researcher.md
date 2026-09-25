@@ -1,6 +1,6 @@
 ---
 slug: "trm-two-broad-positions-are-available-to-the-researcher"
-id: "TRM-ENG-36220"
+id: "TRM-ENG-65278"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "two broad positions are available to the researcher"

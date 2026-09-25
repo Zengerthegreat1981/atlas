@@ -1,6 +1,6 @@
 ---
 slug: "trm-boszormenyinagy-i-framo-jl"
-id: "TRM-ENG-39995"
+id: "TRM-ENG-54524"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Boszormenyi-Nagy I, Framo JL"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-cannon-w"
-id: "TRM-ENG-40118"
+id: "TRM-ENG-54647"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cannon W"

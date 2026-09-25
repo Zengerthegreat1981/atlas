@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychology-vol-iv-pp-113-washington-dc"
-id: "TRM-ENG-38144"
+id: "TRM-ENG-52673"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychology (Vol. IV, pp. 1–13). Washington, DC"

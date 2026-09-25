@@ -1,6 +1,6 @@
 ---
 slug: "trm-cort-are-as-follows"
-id: "TRM-ENG-46406"
+id: "TRM-ENG-60935"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "CoRT are as follows"

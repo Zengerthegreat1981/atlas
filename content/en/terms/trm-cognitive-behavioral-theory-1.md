@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognitive-behavioral-theory-1"
-id: "TRM-ENG-44384"
+id: "TRM-ENG-58913"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cognitive behavioral theory, 1"

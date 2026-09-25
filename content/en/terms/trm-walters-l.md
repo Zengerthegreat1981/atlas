@@ -1,6 +1,6 @@
 ---
 slug: "trm-walters-l"
-id: "TRM-ENG-42708"
+id: "TRM-ENG-57237"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Walters L"

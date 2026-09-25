@@ -1,6 +1,6 @@
 ---
 slug: "trm-bagni-c-oostra-b-a-2013-fragile-x-syndrome"
-id: "TRM-ENG-34579"
+id: "TRM-ENG-63637"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bagni, C., & Oostra, B. A. (2013). Fragile X syndrome"

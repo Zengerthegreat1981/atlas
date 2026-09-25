@@ -1,6 +1,6 @@
 ---
 slug: "trm-united-farm-workers-3"
-id: "TRM-ENG-38957"
+id: "TRM-ENG-53486"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "United Farm Workers, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-2019-more-than-blindsight"
-id: "TRM-ENG-34572"
+id: "TRM-ENG-63630"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "A. (2019). More than blindsight"

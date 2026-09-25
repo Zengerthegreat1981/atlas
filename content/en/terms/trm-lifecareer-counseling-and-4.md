@@ -1,6 +1,6 @@
 ---
 slug: "trm-lifecareer-counseling-and-4"
-id: "TRM-ENG-40723"
+id: "TRM-ENG-55252"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "life-career counseling and, 4"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-contest"
-id: "TRM-ENG-43002"
+id: "TRM-ENG-57531"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "contest"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-age-from-strokes-and"
-id: "TRM-ENG-34852"
+id: "TRM-ENG-49381"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "age from strokes and"

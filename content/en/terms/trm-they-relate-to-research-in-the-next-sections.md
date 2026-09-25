@@ -1,6 +1,6 @@
 ---
 slug: "trm-they-relate-to-research-in-the-next-sections"
-id: "TRM-ENG-36186"
+id: "TRM-ENG-65244"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "they relate to research in the next sections"

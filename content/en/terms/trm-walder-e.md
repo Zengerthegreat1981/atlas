@@ -1,6 +1,6 @@
 ---
 slug: "trm-walder-e"
-id: "TRM-ENG-42693"
+id: "TRM-ENG-57222"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Walder E"

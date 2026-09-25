@@ -1,6 +1,6 @@
 ---
 slug: "trm-trivium-1"
-id: "TRM-ENG-47419"
+id: "TRM-ENG-61948"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Trivium, 1"

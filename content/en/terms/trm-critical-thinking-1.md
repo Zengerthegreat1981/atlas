@@ -1,6 +1,6 @@
 ---
 slug: "trm-critical-thinking-1"
-id: "TRM-ENG-47842"
+id: "TRM-ENG-62371"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "critical thinking, 1"

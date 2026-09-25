@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychological-review-85-59108-doi"
-id: "TRM-ENG-35499"
+id: "TRM-ENG-50028"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychological Review, 85, 59–108. doi"

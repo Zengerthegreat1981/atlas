@@ -1,6 +1,6 @@
 ---
 slug: "trm-grinspoon-l-bakalar-jb"
-id: "TRM-ENG-40834"
+id: "TRM-ENG-55363"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Grinspoon L, Bakalar JB"

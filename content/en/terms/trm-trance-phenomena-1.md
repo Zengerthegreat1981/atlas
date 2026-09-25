@@ -1,6 +1,6 @@
 ---
 slug: "trm-trance-phenomena-1"
-id: "TRM-ENG-51116"
+id: "TRM-ENG-65645"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Trance phenomena, 1"

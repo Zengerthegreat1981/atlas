@@ -1,6 +1,6 @@
 ---
 slug: "trm-research-findings-2"
-id: "TRM-ENG-48656"
+id: "TRM-ENG-63185"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "research findings, 2"

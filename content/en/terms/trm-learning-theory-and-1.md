@@ -1,6 +1,6 @@
 ---
 slug: "trm-learning-theory-and-1"
-id: "TRM-ENG-40699"
+id: "TRM-ENG-55228"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "learning theory and, 1"

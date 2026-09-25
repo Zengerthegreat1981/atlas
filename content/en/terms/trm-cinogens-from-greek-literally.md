@@ -1,6 +1,6 @@
 ---
 slug: "trm-cinogens-from-greek-literally"
-id: "TRM-ENG-43585"
+id: "TRM-ENG-58114"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cinogens (from Greek, literally"

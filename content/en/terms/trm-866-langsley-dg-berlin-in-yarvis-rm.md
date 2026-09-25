@@ -1,6 +1,6 @@
 ---
 slug: "trm-866-langsley-dg-berlin-in-yarvis-rm"
-id: "TRM-ENG-39529"
+id: "TRM-ENG-54058"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "866. Langsley DG, Berlin IN, Yarvis RM"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-mcmillen-j-1996-gambling-cultures-london"
-id: "TRM-ENG-49091"
+id: "TRM-ENG-63620"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "McMillen, J. (1996). Gambling cultures. London"

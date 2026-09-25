@@ -1,6 +1,6 @@
 ---
 slug: "trm-norms-of-4"
-id: "TRM-ENG-40968"
+id: "TRM-ENG-55497"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "norms of, 4"

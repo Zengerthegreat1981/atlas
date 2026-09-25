@@ -1,6 +1,6 @@
 ---
 slug: "trm-adler-m-1998-the-paideia-proposal"
-id: "TRM-ENG-46205"
+id: "TRM-ENG-60734"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Adler, M. (1998). The Paideia proposal"

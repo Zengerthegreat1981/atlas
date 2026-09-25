@@ -1,6 +1,6 @@
 ---
 slug: "trm-dupont-robert-l-phobia"
-id: "TRM-ENG-45798"
+id: "TRM-ENG-60327"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "DuPont, Robert L. Phobia"

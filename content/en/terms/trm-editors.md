@@ -1,6 +1,6 @@
 ---
 slug: "trm-editors"
-id: "TRM-ENG-38005"
+id: "TRM-ENG-67063"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Editors"

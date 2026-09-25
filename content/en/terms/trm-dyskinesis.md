@@ -1,6 +1,6 @@
 ---
 slug: "trm-dyskinesis"
-id: "TRM-ENG-43626"
+id: "TRM-ENG-58155"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dyskinesis."

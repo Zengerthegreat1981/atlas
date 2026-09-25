@@ -1,6 +1,6 @@
 ---
 slug: "trm-feminist-views-on-psychopathology-and-1"
-id: "TRM-ENG-40202"
+id: "TRM-ENG-54731"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "feminist views on psychopathology and, 1"

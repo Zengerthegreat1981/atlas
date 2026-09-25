@@ -1,6 +1,6 @@
 ---
 slug: "trm-those-of-ones-own-ra8"
-id: "TRM-ENG-35390"
+id: "TRM-ENG-64448"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "those of one’s own ra8"

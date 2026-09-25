@@ -1,6 +1,6 @@
 ---
 slug: "trm-ames-l-1994-aging"
-id: "TRM-ENG-52476"
+id: "TRM-ENG-67005"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ames, L. (1994). Aging"

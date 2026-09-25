@@ -1,6 +1,6 @@
 ---
 slug: "trm-identity-and-identity-politics-hinduism-1"
-id: "TRM-ENG-46791"
+id: "TRM-ENG-61320"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Identity and identity politics, Hinduism, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-fisch-richard-1"
-id: "TRM-ENG-50404"
+id: "TRM-ENG-64933"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fisch, Richard, 1"

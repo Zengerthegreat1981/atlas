@@ -1,6 +1,6 @@
 ---
 slug: "trm-interpretationsof-apaand-1"
-id: "TRM-ENG-38257"
+id: "TRM-ENG-52786"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Interpretationsof APAand, 1"

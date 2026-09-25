@@ -1,6 +1,6 @@
 ---
 slug: "trm-hammer-l-i-1990-dragon-rises-red-bird-flies"
-id: "TRM-ENG-50511"
+id: "TRM-ENG-65040"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hammer, L. I. (1990). Dragon rises, red bird flies"

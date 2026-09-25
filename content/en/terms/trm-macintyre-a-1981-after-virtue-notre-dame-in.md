@@ -1,6 +1,6 @@
 ---
 slug: "trm-macintyre-a-1981-after-virtue-notre-dame-in"
-id: "TRM-ENG-46955"
+id: "TRM-ENG-61484"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "MacIntyre, A. (1981). After virtue. Notre Dame, IN"

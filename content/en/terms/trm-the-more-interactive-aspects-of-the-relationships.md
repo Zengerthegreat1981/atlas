@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-more-interactive-aspects-of-the-relationships"
-id: "TRM-ENG-43868"
+id: "TRM-ENG-58397"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the more interactive aspects of the relationships"

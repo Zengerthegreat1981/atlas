@@ -1,6 +1,6 @@
 ---
 slug: "trm-feminismwashingtondc"
-id: "TRM-ENG-37762"
+id: "TRM-ENG-66820"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "feminism.Washington,DC"

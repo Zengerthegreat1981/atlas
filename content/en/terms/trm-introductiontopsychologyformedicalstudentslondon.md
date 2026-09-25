@@ -1,6 +1,6 @@
 ---
 slug: "trm-introductiontopsychologyformedicalstudentslondon"
-id: "TRM-ENG-46567"
+id: "TRM-ENG-61096"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Introductiontopsychologyformedicalstudents.London"

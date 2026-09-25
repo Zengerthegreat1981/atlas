@@ -1,6 +1,6 @@
 ---
 slug: "trm-feelings"
-id: "TRM-ENG-40196"
+id: "TRM-ENG-54725"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "feelings"

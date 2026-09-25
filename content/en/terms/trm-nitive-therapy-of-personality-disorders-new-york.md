@@ -1,6 +1,6 @@
 ---
 slug: "trm-nitive-therapy-of-personality-disorders-new-york"
-id: "TRM-ENG-43035"
+id: "TRM-ENG-57564"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nitive therapy of personality disorders. New York"

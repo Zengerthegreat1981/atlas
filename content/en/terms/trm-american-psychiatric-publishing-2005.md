@@ -1,6 +1,6 @@
 ---
 slug: "trm-american-psychiatric-publishing-2005"
-id: "TRM-ENG-42244"
+id: "TRM-ENG-56773"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(American Psychiatric Publishing, 2005)."

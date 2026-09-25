@@ -1,6 +1,6 @@
 ---
 slug: "trm-counseling-psychology-and-1"
-id: "TRM-ENG-39740"
+id: "TRM-ENG-54269"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "counseling psychology and, 1"

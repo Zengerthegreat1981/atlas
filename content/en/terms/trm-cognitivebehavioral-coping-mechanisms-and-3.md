@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognitivebehavioral-coping-mechanisms-and-3"
-id: "TRM-ENG-39564"
+id: "TRM-ENG-54093"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cognitive-behavioral coping mechanisms and, 3"

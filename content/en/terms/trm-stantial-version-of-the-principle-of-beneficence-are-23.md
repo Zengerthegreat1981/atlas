@@ -1,6 +1,6 @@
 ---
 slug: "trm-stantial-version-of-the-principle-of-beneficence-are-23"
-id: "TRM-ENG-46020"
+id: "TRM-ENG-60549"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stantial version of the principle of beneficence are 23"

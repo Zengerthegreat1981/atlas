@@ -1,6 +1,6 @@
 ---
 slug: "trm-about-the-career-counseling-process-but-offer-the-selfefficacy"
-id: "TRM-ENG-39068"
+id: "TRM-ENG-53597"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "about the career counseling process, but offer the self-efficacy"

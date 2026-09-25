@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-theory-and-research"
-id: "TRM-ENG-48454"
+id: "TRM-ENG-62983"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of theory and research"

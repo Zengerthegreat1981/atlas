@@ -1,6 +1,6 @@
 ---
 slug: "trm-reardon-kathleen-kelley-they-dont-get-it-do-they"
-id: "TRM-ENG-45931"
+id: "TRM-ENG-60460"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Reardon, Kathleen Kelley, They Don’t Get It, Do They?"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-aproblem"
-id: "TRM-ENG-49288"
+id: "TRM-ENG-63817"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "aproblem"

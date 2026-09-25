@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-mechanism"
-id: "TRM-ENG-36575"
+id: "TRM-ENG-51104"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing mechanism"

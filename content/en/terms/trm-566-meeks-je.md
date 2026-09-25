@@ -1,6 +1,6 @@
 ---
 slug: "trm-566-meeks-je"
-id: "TRM-ENG-39177"
+id: "TRM-ENG-53706"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "566. Meeks JE"

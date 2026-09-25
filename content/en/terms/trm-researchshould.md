@@ -1,6 +1,6 @@
 ---
 slug: "trm-researchshould"
-id: "TRM-ENG-47261"
+id: "TRM-ENG-61790"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "researchshould"

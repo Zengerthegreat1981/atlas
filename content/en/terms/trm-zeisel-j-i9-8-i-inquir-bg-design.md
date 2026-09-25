@@ -1,6 +1,6 @@
 ---
 slug: "trm-zeisel-j-i9-8-i-inquir-bg-design"
-id: "TRM-ENG-34829"
+id: "TRM-ENG-63887"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Zeisel. J. (I9 8 I ). Inquir!! bg design"

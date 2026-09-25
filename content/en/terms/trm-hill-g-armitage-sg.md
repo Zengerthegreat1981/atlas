@@ -1,6 +1,6 @@
 ---
 slug: "trm-hill-g-armitage-sg"
-id: "TRM-ENG-40990"
+id: "TRM-ENG-55519"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hill G, Armitage SG"

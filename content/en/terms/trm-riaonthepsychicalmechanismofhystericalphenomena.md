@@ -1,6 +1,6 @@
 ---
 slug: "trm-riaonthepsychicalmechanismofhystericalphenomena"
-id: "TRM-ENG-38224"
+id: "TRM-ENG-52753"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ria.Onthepsychicalmechanismofhystericalphenomena"

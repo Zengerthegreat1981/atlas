@@ -1,6 +1,6 @@
 ---
 slug: "trm-racism"
-id: "TRM-ENG-36921"
+id: "TRM-ENG-65979"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "racism"

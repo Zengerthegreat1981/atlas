@@ -1,6 +1,6 @@
 ---
 slug: "trm-stevens-s-s-1975-psychophysics"
-id: "TRM-ENG-35574"
+id: "TRM-ENG-64632"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stevens, S. S. (1975). Psychophysics"

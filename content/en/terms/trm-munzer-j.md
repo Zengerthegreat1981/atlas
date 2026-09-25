@@ -1,6 +1,6 @@
 ---
 slug: "trm-munzer-j"
-id: "TRM-ENG-41794"
+id: "TRM-ENG-56323"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Munzer J"

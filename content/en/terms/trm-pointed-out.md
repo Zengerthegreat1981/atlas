@@ -1,6 +1,6 @@
 ---
 slug: "trm-pointed-out"
-id: "TRM-ENG-45245"
+id: "TRM-ENG-59774"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pointed out"

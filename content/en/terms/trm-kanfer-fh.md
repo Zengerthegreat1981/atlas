@@ -1,6 +1,6 @@
 ---
 slug: "trm-kanfer-fh"
-id: "TRM-ENG-41180"
+id: "TRM-ENG-55709"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kanfer FH"

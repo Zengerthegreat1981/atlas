@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-suck-other-objects"
-id: "TRM-ENG-44891"
+id: "TRM-ENG-59420"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and suck other objects"

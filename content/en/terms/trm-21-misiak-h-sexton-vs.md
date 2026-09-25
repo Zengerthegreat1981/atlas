@@ -1,6 +1,6 @@
 ---
 slug: "trm-21-misiak-h-sexton-vs"
-id: "TRM-ENG-38723"
+id: "TRM-ENG-53252"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "21. Misiak H, Sexton VS"

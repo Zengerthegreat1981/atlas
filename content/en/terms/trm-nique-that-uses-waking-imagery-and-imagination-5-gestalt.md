@@ -1,6 +1,6 @@
 ---
 slug: "trm-nique-that-uses-waking-imagery-and-imagination-5-gestalt"
-id: "TRM-ENG-46161"
+id: "TRM-ENG-60690"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nique that uses waking imagery and imagination 5. Gestalt"

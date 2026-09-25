@@ -1,6 +1,6 @@
 ---
 slug: "trm-serotonin-psychedelics"
-id: "TRM-ENG-34690"
+id: "TRM-ENG-49219"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Serotonin psychedelics"

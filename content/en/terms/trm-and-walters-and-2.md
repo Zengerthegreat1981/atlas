@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-walters-and-2"
-id: "TRM-ENG-39162"
+id: "TRM-ENG-53691"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and Walters) and, 2"

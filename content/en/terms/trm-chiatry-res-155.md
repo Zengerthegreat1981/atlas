@@ -1,6 +1,6 @@
 ---
 slug: "trm-chiatry-res-155"
-id: "TRM-ENG-48254"
+id: "TRM-ENG-62783"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chiatry Res 155"

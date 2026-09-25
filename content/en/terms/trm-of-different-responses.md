@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-different-responses"
-id: "TRM-ENG-45346"
+id: "TRM-ENG-59875"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of different responses"

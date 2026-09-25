@@ -1,6 +1,6 @@
 ---
 slug: "trm-colonized-indigenous-peoples-and-3"
-id: "TRM-ENG-39584"
+id: "TRM-ENG-54113"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "colonized, indigenous peoples and, 3"

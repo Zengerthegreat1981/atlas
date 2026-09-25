@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-social-context-of-coping-pp-239260-new-york"
-id: "TRM-ENG-46743"
+id: "TRM-ENG-61272"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The social context of coping (pp. 239±260). New York"

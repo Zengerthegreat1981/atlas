@@ -1,6 +1,6 @@
 ---
 slug: "trm-ments-euthanasia-family-feminist-ethics-ge-berkeley"
-id: "TRM-ENG-45738"
+id: "TRM-ENG-60267"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "MENTS; EUTHANASIA; FAMILY; FEMINIST ETHICS; GE- Berkeley"

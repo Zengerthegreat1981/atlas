@@ -1,6 +1,6 @@
 ---
 slug: "trm-deficiencies-clinical-description-is-inadequate"
-id: "TRM-ENG-42752"
+id: "TRM-ENG-57281"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "deficiencies. Clinical description is inadequate"

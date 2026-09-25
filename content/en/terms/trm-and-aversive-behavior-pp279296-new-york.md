@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-aversive-behavior-pp279296-new-york"
-id: "TRM-ENG-36119"
+id: "TRM-ENG-65177"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and aversive behavior (pp.279–296). New York"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-remingtonb1995addictivebehaviour"
-id: "TRM-ENG-49143"
+id: "TRM-ENG-63672"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Remington,B.(1995).Addictivebehaviour"

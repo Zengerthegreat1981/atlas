@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychological-explanations"
-id: "TRM-ENG-45259"
+id: "TRM-ENG-59788"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychological explanations"

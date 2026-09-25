@@ -1,6 +1,6 @@
 ---
 slug: "trm-biological-psychiatry"
-id: "TRM-ENG-43973"
+id: "TRM-ENG-58502"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Biological Psychiatry"

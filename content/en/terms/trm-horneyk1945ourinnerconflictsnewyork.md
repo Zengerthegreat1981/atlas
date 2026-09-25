@@ -1,6 +1,6 @@
 ---
 slug: "trm-horneyk1945ourinnerconflictsnewyork"
-id: "TRM-ENG-49027"
+id: "TRM-ENG-63556"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Horney,K.(1945).Ourinnerconflicts.NewYork"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-classes-associated-with-abuse"
-id: "TRM-ENG-44043"
+id: "TRM-ENG-58572"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "classes associated with abuse"

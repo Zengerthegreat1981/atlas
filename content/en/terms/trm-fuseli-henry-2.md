@@ -1,6 +1,6 @@
 ---
 slug: "trm-fuseli-henry-2"
-id: "TRM-ENG-46659"
+id: "TRM-ENG-61188"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fuseli, Henry, 2"

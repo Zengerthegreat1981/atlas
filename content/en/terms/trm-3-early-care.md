@@ -1,6 +1,6 @@
 ---
 slug: "trm-3-early-care"
-id: "TRM-ENG-38843"
+id: "TRM-ENG-53372"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "3. Early care"

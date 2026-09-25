@@ -1,6 +1,6 @@
 ---
 slug: "trm-glatzer-ht-pedersonkrag-g"
-id: "TRM-ENG-40725"
+id: "TRM-ENG-55254"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Glatzer HT, Pederson-Krag G"

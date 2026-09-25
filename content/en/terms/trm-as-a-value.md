@@ -1,6 +1,6 @@
 ---
 slug: "trm-as-a-value"
-id: "TRM-ENG-46837"
+id: "TRM-ENG-61366"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "as a value"

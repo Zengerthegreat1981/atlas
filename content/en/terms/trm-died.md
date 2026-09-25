@@ -1,6 +1,6 @@
 ---
 slug: "trm-died"
-id: "TRM-ENG-36734"
+id: "TRM-ENG-65792"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Died"

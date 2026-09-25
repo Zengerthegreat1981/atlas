@@ -1,6 +1,6 @@
 ---
 slug: "trm-stimulant-drugs-and-2"
-id: "TRM-ENG-41782"
+id: "TRM-ENG-56311"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stimulant drugs and, 2"

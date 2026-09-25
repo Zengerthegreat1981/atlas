@@ -1,6 +1,6 @@
 ---
 slug: "trm-arico-adam-1"
-id: "TRM-ENG-44303"
+id: "TRM-ENG-58832"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Arico, Adam, 1"

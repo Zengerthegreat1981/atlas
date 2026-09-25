@@ -1,6 +1,6 @@
 ---
 slug: "trm-poverty-and-3"
-id: "TRM-ENG-41222"
+id: "TRM-ENG-55751"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "poverty and, 3"

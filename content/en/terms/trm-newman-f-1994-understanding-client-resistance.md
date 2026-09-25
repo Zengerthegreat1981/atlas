@@ -1,6 +1,6 @@
 ---
 slug: "trm-newman-f-1994-understanding-client-resistance"
-id: "TRM-ENG-49103"
+id: "TRM-ENG-63632"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Newman, F. (1994). Understanding client resistance"

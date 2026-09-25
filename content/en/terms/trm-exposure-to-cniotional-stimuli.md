@@ -1,6 +1,6 @@
 ---
 slug: "trm-exposure-to-cniotional-stimuli"
-id: "TRM-ENG-35015"
+id: "TRM-ENG-64073"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "exposure to cniotional stimuli"

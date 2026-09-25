@@ -1,6 +1,6 @@
 ---
 slug: "trm-lindemann-e"
-id: "TRM-ENG-41471"
+id: "TRM-ENG-56000"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lindemann E"

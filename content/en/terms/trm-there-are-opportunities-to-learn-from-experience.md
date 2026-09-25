@@ -1,6 +1,6 @@
 ---
 slug: "trm-there-are-opportunities-to-learn-from-experience"
-id: "TRM-ENG-35388"
+id: "TRM-ENG-49917"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "there are opportunities to learn from experience"

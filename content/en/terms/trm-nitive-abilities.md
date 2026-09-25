@@ -1,6 +1,6 @@
 ---
 slug: "trm-nitive-abilities"
-id: "TRM-ENG-48403"
+id: "TRM-ENG-62932"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nitive abilities"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-visual-modality"
-id: "TRM-ENG-45590"
+id: "TRM-ENG-60119"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the visual modality"

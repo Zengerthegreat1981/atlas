@@ -1,6 +1,6 @@
 ---
 slug: "trm-pasteur-louis-1"
-id: "TRM-ENG-47111"
+id: "TRM-ENG-61640"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pasteur, Louis, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-ego-j-strachey-trans-new-york-ny"
-id: "TRM-ENG-51876"
+id: "TRM-ENG-66405"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the ego (J. Strachey, Trans.). New York, NY"

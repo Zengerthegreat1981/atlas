@@ -1,6 +1,6 @@
 ---
 slug: "trm-steketee-g-foa-eb"
-id: "TRM-ENG-42459"
+id: "TRM-ENG-56988"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Steketee G, Foa EB"

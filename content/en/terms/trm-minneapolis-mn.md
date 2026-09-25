@@ -1,6 +1,6 @@
 ---
 slug: "trm-minneapolis-mn"
-id: "TRM-ENG-38432"
+id: "TRM-ENG-52961"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Minneapolis, MN"

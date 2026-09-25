@@ -1,6 +1,6 @@
 ---
 slug: "trm-ogists-may-be-able-to-offer-include-stress-diabetes"
-id: "TRM-ENG-47167"
+id: "TRM-ENG-61696"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ogists may be able to offer include stress diabetes"

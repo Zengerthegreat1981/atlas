@@ -1,6 +1,6 @@
 ---
 slug: "trm-lexical-selection-and-retrieval-2"
-id: "TRM-ENG-45274"
+id: "TRM-ENG-59803"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lexical selection and retrieval, 2"

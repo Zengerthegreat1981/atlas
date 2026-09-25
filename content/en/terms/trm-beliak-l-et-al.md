@@ -1,6 +1,6 @@
 ---
 slug: "trm-beliak-l-et-al"
-id: "TRM-ENG-39854"
+id: "TRM-ENG-54383"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Beliak L, et al"

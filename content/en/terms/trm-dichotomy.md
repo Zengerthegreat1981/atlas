@@ -1,6 +1,6 @@
 ---
 slug: "trm-dichotomy"
-id: "TRM-ENG-34809"
+id: "TRM-ENG-63867"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dichotomy"

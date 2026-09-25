@@ -1,6 +1,6 @@
 ---
 slug: "trm-zarit-s-h-whitlatch"
-id: "TRM-ENG-34828"
+id: "TRM-ENG-63886"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Zarit, S. H.. & Whitlatch , ."

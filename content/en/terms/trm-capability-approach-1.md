@@ -1,6 +1,6 @@
 ---
 slug: "trm-capability-approach-1"
-id: "TRM-ENG-47736"
+id: "TRM-ENG-62265"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "capability approach, 1"

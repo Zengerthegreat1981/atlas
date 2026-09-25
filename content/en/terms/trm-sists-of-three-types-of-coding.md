@@ -1,6 +1,6 @@
 ---
 slug: "trm-sists-of-three-types-of-coding"
-id: "TRM-ENG-41670"
+id: "TRM-ENG-56199"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sists of three types of coding"

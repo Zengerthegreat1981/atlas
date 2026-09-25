@@ -1,6 +1,6 @@
 ---
 slug: "trm-society-for-vocational-psychology-and-4"
-id: "TRM-ENG-38795"
+id: "TRM-ENG-53324"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Society for Vocational Psychology and, 4"

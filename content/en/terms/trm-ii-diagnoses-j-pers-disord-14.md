@@ -1,6 +1,6 @@
 ---
 slug: "trm-ii-diagnoses-j-pers-disord-14"
-id: "TRM-ENG-47742"
+id: "TRM-ENG-62271"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "II diagnoses. J Pers Disord 14"

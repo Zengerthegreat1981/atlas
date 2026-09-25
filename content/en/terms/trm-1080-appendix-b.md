@@ -1,6 +1,6 @@
 ---
 slug: "trm-1080-appendix-b"
-id: "TRM-ENG-49967"
+id: "TRM-ENG-64496"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1080 Appendix B"

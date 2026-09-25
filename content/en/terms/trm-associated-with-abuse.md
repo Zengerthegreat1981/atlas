@@ -1,6 +1,6 @@
 ---
 slug: "trm-associated-with-abuse"
-id: "TRM-ENG-43543"
+id: "TRM-ENG-58072"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "associated with abuse"

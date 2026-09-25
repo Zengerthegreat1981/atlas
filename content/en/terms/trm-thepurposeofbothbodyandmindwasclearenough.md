@@ -1,6 +1,6 @@
 ---
 slug: "trm-thepurposeofbothbodyandmindwasclearenough"
-id: "TRM-ENG-37361"
+id: "TRM-ENG-66419"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Thepurposeofbothbodyandmindwasclearenough"

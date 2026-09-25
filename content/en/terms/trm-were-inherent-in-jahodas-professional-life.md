@@ -1,6 +1,6 @@
 ---
 slug: "trm-were-inherent-in-jahodas-professional-life"
-id: "TRM-ENG-37308"
+id: "TRM-ENG-66366"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "were inherent in Jahoda’s professional life"

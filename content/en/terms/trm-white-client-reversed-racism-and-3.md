@@ -1,6 +1,6 @@
 ---
 slug: "trm-white-client-reversed-racism-and-3"
-id: "TRM-ENG-39034"
+id: "TRM-ENG-53563"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "White client reversed racism and, 3"

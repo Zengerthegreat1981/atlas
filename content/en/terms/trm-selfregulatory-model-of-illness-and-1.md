@@ -1,6 +1,6 @@
 ---
 slug: "trm-selfregulatory-model-of-illness-and-1"
-id: "TRM-ENG-41618"
+id: "TRM-ENG-56147"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "self-regulatory model of illness and, 1"

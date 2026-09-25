@@ -1,6 +1,6 @@
 ---
 slug: "trm-heppner-and-bruce-and-4"
-id: "TRM-ENG-37396"
+id: "TRM-ENG-51925"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Heppner and Bruce) and, 4"

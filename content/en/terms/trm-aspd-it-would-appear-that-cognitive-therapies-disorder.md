@@ -1,6 +1,6 @@
 ---
 slug: "trm-aspd-it-would-appear-that-cognitive-therapies-disorder"
-id: "TRM-ENG-42307"
+id: "TRM-ENG-56836"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ASPD. It would appear that cognitive therapies disorder"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-junioracademicwomen"
-id: "TRM-ENG-37901"
+id: "TRM-ENG-66959"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "junioracademicwomen"

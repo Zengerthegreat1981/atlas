@@ -1,6 +1,6 @@
 ---
 slug: "trm-ingroupoutgroup-bias-theory-and-3"
-id: "TRM-ENG-40561"
+id: "TRM-ENG-55090"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ingroup–outgroup bias theory and, 3"

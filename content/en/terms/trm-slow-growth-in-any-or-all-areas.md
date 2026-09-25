@@ -1,6 +1,6 @@
 ---
 slug: "trm-slow-growth-in-any-or-all-areas"
-id: "TRM-ENG-43866"
+id: "TRM-ENG-58395"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "slow growth in any or all areas"

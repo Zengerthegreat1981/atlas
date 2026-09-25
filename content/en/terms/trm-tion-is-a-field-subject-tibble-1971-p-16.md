@@ -1,6 +1,6 @@
 ---
 slug: "trm-tion-is-a-field-subject-tibble-1971-p-16"
-id: "TRM-ENG-48917"
+id: "TRM-ENG-63446"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tion is a “field subject” (Tibble, 1971, p. 16)"

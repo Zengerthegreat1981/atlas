@@ -1,6 +1,6 @@
 ---
 slug: "trm-johnstonwm1972theaustrianmind"
-id: "TRM-ENG-36979"
+id: "TRM-ENG-66037"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Johnston,W.M.(1972).TheAustrianmind"

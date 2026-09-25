@@ -1,6 +1,6 @@
 ---
 slug: "trm-916-hunt-cj-paschall-nc"
-id: "TRM-ENG-39591"
+id: "TRM-ENG-54120"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "916. Hunt CJ, Paschall NC"

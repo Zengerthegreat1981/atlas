@@ -1,6 +1,6 @@
 ---
 slug: "trm-derthesametitlenewyork"
-id: "TRM-ENG-45881"
+id: "TRM-ENG-60410"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "derthesametitle,NewYork"

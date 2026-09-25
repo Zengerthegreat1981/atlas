@@ -1,6 +1,6 @@
 ---
 slug: "trm-stipo"
-id: "TRM-ENG-43925"
+id: "TRM-ENG-58454"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(STIPO)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-theory-of-action-new-york-ny"
-id: "TRM-ENG-48880"
+id: "TRM-ENG-63409"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theory of action. New York, NY"

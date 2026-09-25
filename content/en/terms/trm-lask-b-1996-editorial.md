@@ -1,6 +1,6 @@
 ---
 slug: "trm-lask-b-1996-editorial"
-id: "TRM-ENG-46599"
+id: "TRM-ENG-61128"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lask, B. (1996). Editorial"

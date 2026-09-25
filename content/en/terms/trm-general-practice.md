@@ -1,6 +1,6 @@
 ---
 slug: "trm-general-practice"
-id: "TRM-ENG-43993"
+id: "TRM-ENG-58522"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "General Practice"

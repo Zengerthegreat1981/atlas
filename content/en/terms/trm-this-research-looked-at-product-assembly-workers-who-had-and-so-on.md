@@ -1,6 +1,6 @@
 ---
 slug: "trm-this-research-looked-at-product-assembly-workers-who-had-and-so-on"
-id: "TRM-ENG-36018"
+id: "TRM-ENG-50547"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "This research looked at product assembly workers who had and so on"

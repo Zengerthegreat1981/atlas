@@ -1,6 +1,6 @@
 ---
 slug: "trm-attitude-change-and-3"
-id: "TRM-ENG-39291"
+id: "TRM-ENG-53820"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "attitude change and, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-goal-theory-and-2"
-id: "TRM-ENG-40315"
+id: "TRM-ENG-54844"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "goal theory and, 2"

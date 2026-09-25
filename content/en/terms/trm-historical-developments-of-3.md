@@ -1,6 +1,6 @@
 ---
 slug: "trm-historical-developments-of-3"
-id: "TRM-ENG-40384"
+id: "TRM-ENG-54913"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "historical developments of, 3"

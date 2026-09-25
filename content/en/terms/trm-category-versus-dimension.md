@@ -1,6 +1,6 @@
 ---
 slug: "trm-category-versus-dimension"
-id: "TRM-ENG-43399"
+id: "TRM-ENG-57928"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Category Versus Dimension"

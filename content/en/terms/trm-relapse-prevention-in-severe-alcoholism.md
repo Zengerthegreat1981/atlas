@@ -1,6 +1,6 @@
 ---
 slug: "trm-relapse-prevention-in-severe-alcoholism"
-id: "TRM-ENG-49684"
+id: "TRM-ENG-64213"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "relapse prevention in severe alcoholism"

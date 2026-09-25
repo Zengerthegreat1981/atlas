@@ -1,6 +1,6 @@
 ---
 slug: "trm-ality-2nd-ed-washington-dc"
-id: "TRM-ENG-42600"
+id: "TRM-ENG-57129"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ality (2nd ed.). Washington, DC"

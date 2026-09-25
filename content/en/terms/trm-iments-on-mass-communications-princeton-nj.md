@@ -1,6 +1,6 @@
 ---
 slug: "trm-iments-on-mass-communications-princeton-nj"
-id: "TRM-ENG-36541"
+id: "TRM-ENG-65599"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "iments on mass communications. Princeton, NJ"

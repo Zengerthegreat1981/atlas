@@ -1,6 +1,6 @@
 ---
 slug: "trm-nomic-functionnew-york"
-id: "TRM-ENG-36753"
+id: "TRM-ENG-65811"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nomic function.New York"

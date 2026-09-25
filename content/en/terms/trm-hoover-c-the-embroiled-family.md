@@ -1,6 +1,6 @@
 ---
 slug: "trm-hoover-c-the-embroiled-family"
-id: "TRM-ENG-44442"
+id: "TRM-ENG-58971"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hoover, C., “The Embroiled Family"

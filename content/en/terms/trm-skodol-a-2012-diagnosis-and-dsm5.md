@@ -1,6 +1,6 @@
 ---
 slug: "trm-skodol-a-2012-diagnosis-and-dsm5"
-id: "TRM-ENG-42532"
+id: "TRM-ENG-57061"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Skodol, A. (2012). Diagnosis and DSM-5"

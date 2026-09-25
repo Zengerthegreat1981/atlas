@@ -1,6 +1,6 @@
 ---
 slug: "trm-1-time"
-id: "TRM-ENG-44191"
+id: "TRM-ENG-58720"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1. Time"

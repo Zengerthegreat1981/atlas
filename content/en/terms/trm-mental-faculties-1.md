@@ -1,6 +1,6 @@
 ---
 slug: "trm-mental-faculties-1"
-id: "TRM-ENG-48335"
+id: "TRM-ENG-62864"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mental faculties, 1"

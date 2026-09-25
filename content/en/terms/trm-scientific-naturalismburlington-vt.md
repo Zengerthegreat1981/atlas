@@ -1,6 +1,6 @@
 ---
 slug: "trm-scientific-naturalismburlington-vt"
-id: "TRM-ENG-41577"
+id: "TRM-ENG-56106"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "scientific naturalism.Burlington, VT"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-dollard-j-miller-ne"
-id: "TRM-ENG-40366"
+id: "TRM-ENG-54895"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dollard J, Miller NE"

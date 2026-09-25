@@ -1,6 +1,6 @@
 ---
 slug: "trm-lives"
-id: "TRM-ENG-48296"
+id: "TRM-ENG-62825"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lives"

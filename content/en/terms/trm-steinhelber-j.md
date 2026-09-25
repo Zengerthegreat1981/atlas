@@ -1,6 +1,6 @@
 ---
 slug: "trm-steinhelber-j"
-id: "TRM-ENG-42455"
+id: "TRM-ENG-56984"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Steinhelber J"

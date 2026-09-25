@@ -1,6 +1,6 @@
 ---
 slug: "trm-from-rigid-and-biological-motion"
-id: "TRM-ENG-34843"
+id: "TRM-ENG-63901"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "from rigid and biological motion"

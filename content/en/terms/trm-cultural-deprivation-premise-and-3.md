@@ -1,6 +1,6 @@
 ---
 slug: "trm-cultural-deprivation-premise-and-3"
-id: "TRM-ENG-39809"
+id: "TRM-ENG-54338"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cultural deprivation premise and, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-stance-use-disorders-in-men-and-women-archives-of-disorders"
-id: "TRM-ENG-43251"
+id: "TRM-ENG-57780"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stance use disorders in men and women. Archives of disorders"

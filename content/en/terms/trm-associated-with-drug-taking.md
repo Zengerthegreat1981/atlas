@@ -1,6 +1,6 @@
 ---
 slug: "trm-associated-with-drug-taking"
-id: "TRM-ENG-34755"
+id: "TRM-ENG-63813"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "associated with drug taking"

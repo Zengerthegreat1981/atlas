@@ -1,6 +1,6 @@
 ---
 slug: "trm-origins-1"
-id: "TRM-ENG-48499"
+id: "TRM-ENG-63028"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "origins, 1"

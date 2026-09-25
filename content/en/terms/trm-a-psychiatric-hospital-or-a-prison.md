@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-psychiatric-hospital-or-a-prison"
-id: "TRM-ENG-43502"
+id: "TRM-ENG-58031"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "a psychiatric hospital or a prison."

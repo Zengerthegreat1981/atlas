@@ -1,6 +1,6 @@
 ---
 slug: "trm-segal-j"
-id: "TRM-ENG-42309"
+id: "TRM-ENG-56838"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Segal J"

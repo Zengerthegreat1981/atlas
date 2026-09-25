@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-for-the-essence-of-mind-and-pattern-new-york"
-id: "TRM-ENG-42905"
+id: "TRM-ENG-57434"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing for the essence of mind and pattern. New York"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-anderson-vv-kennedy-wm-psychiatry-in-college"
-id: "TRM-ENG-39696"
+id: "TRM-ENG-54225"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Anderson VV, Kennedy WM: Psychiatry in college"

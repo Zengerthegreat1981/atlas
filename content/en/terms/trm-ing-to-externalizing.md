@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-to-externalizing"
-id: "TRM-ENG-42914"
+id: "TRM-ENG-57443"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing to externalizing"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-57-kleitman-n"
-id: "TRM-ENG-39181"
+id: "TRM-ENG-53710"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "57. Kleitman N"

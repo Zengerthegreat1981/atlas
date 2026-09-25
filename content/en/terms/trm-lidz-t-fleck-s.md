@@ -1,6 +1,6 @@
 ---
 slug: "trm-lidz-t-fleck-s"
-id: "TRM-ENG-41455"
+id: "TRM-ENG-55984"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lidz T, Fleck S"

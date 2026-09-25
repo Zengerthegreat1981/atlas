@@ -1,6 +1,6 @@
 ---
 slug: "trm-classes"
-id: "TRM-ENG-47771"
+id: "TRM-ENG-62300"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "classes"

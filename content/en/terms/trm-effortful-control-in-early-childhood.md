@@ -1,6 +1,6 @@
 ---
 slug: "trm-effortful-control-in-early-childhood"
-id: "TRM-ENG-42384"
+id: "TRM-ENG-56913"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Effortful control in early childhood"

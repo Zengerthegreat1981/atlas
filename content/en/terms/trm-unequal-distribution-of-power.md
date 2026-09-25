@@ -1,6 +1,6 @@
 ---
 slug: "trm-unequal-distribution-of-power"
-id: "TRM-ENG-45408"
+id: "TRM-ENG-59937"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "unequal distribution of power"

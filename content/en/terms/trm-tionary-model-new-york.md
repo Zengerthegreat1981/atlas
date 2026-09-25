@@ -1,6 +1,6 @@
 ---
 slug: "trm-tionary-model-new-york"
-id: "TRM-ENG-43356"
+id: "TRM-ENG-57885"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tionary model. New York"

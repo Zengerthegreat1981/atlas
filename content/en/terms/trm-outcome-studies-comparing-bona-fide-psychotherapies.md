@@ -1,6 +1,6 @@
 ---
 slug: "trm-outcome-studies-comparing-bona-fide-psychotherapies"
-id: "TRM-ENG-41089"
+id: "TRM-ENG-55618"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "outcome studies comparing bona fide psychotherapies"

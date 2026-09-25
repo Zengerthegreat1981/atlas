@@ -1,6 +1,6 @@
 ---
 slug: "trm-tart-ct"
-id: "TRM-ENG-42551"
+id: "TRM-ENG-57080"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tart CT"

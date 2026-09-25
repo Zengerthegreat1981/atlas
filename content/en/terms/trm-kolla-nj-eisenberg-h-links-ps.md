@@ -1,6 +1,6 @@
 ---
 slug: "trm-kolla-nj-eisenberg-h-links-ps"
-id: "TRM-ENG-47801"
+id: "TRM-ENG-62330"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kolla NJ, Eisenberg H, Links PS"

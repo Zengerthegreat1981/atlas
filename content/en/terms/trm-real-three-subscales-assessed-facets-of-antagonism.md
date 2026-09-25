@@ -1,6 +1,6 @@
 ---
 slug: "trm-real-three-subscales-assessed-facets-of-antagonism"
-id: "TRM-ENG-43817"
+id: "TRM-ENG-58346"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "real”). Three subscales assessed facets of antagonism"

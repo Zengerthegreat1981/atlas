@@ -1,6 +1,6 @@
 ---
 slug: "trm-copingstylesamongpersonswithspinalcordinjury"
-id: "TRM-ENG-46916"
+id: "TRM-ENG-61445"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "copingstylesamongpersonswithspinalcordinjury"

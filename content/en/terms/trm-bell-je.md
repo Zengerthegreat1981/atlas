@@ -1,6 +1,6 @@
 ---
 slug: "trm-bell-je"
-id: "TRM-ENG-39859"
+id: "TRM-ENG-54388"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bell JE"

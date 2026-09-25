@@ -1,6 +1,6 @@
 ---
 slug: "trm-hughes-d-2009-the-communication-of-emotions-and-again"
-id: "TRM-ENG-50549"
+id: "TRM-ENG-65078"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hughes, D. (2009). The communication of emotions and again"

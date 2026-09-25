@@ -1,6 +1,6 @@
 ---
 slug: "trm-camus-albert-2"
-id: "TRM-ENG-46370"
+id: "TRM-ENG-60899"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Camus, Albert, 2"

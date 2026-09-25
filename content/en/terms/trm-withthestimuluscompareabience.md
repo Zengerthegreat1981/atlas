@@ -1,6 +1,6 @@
 ---
 slug: "trm-withthestimuluscompareabience"
-id: "TRM-ENG-43980"
+id: "TRM-ENG-58509"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "withthestimulus.Compareabience."

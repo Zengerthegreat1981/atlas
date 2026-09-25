@@ -1,6 +1,6 @@
 ---
 slug: "trm-ity-disorder-diagnosis-in-dsm5"
-id: "TRM-ENG-42953"
+id: "TRM-ENG-57482"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ity disorder diagnosis in DSM-5"

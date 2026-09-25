@@ -1,6 +1,6 @@
 ---
 slug: "trm-columbia-law-review-84-1984"
-id: "TRM-ENG-45672"
+id: "TRM-ENG-60201"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Columbia Law Review 84 (1984)"

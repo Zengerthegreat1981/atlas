@@ -1,6 +1,6 @@
 ---
 slug: "trm-phonological-loop-consisted-of-two-components"
-id: "TRM-ENG-45413"
+id: "TRM-ENG-59942"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "phonological loop consisted of two components"

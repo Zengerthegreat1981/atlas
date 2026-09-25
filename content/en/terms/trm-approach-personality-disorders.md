@@ -1,6 +1,6 @@
 ---
 slug: "trm-approach-personality-disorders"
-id: "TRM-ENG-43621"
+id: "TRM-ENG-58150"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "approach. Personality Disorders"

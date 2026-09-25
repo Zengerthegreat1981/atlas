@@ -1,6 +1,6 @@
 ---
 slug: "trm-variance-components-are-divided-by-ncid"
-id: "TRM-ENG-36243"
+id: "TRM-ENG-50772"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "variance components are divided by n(cid"

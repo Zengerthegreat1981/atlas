@@ -1,6 +1,6 @@
 ---
 slug: "trm-linehan-mm-korslund-ke"
-id: "TRM-ENG-47841"
+id: "TRM-ENG-62370"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Linehan MM, Korslund KE"

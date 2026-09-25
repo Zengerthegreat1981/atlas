@@ -1,6 +1,6 @@
 ---
 slug: "trm-hill-w-1970-psychology"
-id: "TRM-ENG-52510"
+id: "TRM-ENG-67039"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hill, W. (1970). Psychology"

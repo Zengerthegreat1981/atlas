@@ -1,6 +1,6 @@
 ---
 slug: "trm-absence-of-confusion-and-1"
-id: "TRM-ENG-39069"
+id: "TRM-ENG-53598"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "absence of confusion and, 1"

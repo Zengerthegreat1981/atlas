@@ -1,6 +1,6 @@
 ---
 slug: "trm-recovered-memories-of-childhood-sexual-abuse"
-id: "TRM-ENG-35283"
+id: "TRM-ENG-64341"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "recovered memories of childhood sexual abuse"

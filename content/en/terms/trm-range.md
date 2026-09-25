@@ -1,6 +1,6 @@
 ---
 slug: "trm-range"
-id: "TRM-ENG-52353"
+id: "TRM-ENG-66882"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Range"

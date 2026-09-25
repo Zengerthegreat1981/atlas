@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-language-he-examines-the-latter"
-id: "TRM-ENG-48436"
+id: "TRM-ENG-62965"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of language. He examines the latter"

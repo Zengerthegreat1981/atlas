@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-twentyitem-toronto-alexithymia-scale"
-id: "TRM-ENG-43569"
+id: "TRM-ENG-58098"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The Twenty-Item Toronto Alexithymia Scale"

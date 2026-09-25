@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-education"
-id: "TRM-ENG-48938"
+id: "TRM-ENG-63467"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to education"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-anthroposophy-2"
-id: "TRM-ENG-47635"
+id: "TRM-ENG-62164"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "anthroposophy, 2"

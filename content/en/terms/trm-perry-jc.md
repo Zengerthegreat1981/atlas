@@ -1,6 +1,6 @@
 ---
 slug: "trm-perry-jc"
-id: "TRM-ENG-47934"
+id: "TRM-ENG-62463"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Perry JC"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-separate-but-equal-concept-of-3"
-id: "TRM-ENG-42215"
+id: "TRM-ENG-56744"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“separate but equal” concept of, 3"

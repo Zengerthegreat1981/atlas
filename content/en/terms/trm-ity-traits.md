@@ -1,6 +1,6 @@
 ---
 slug: "trm-ity-traits"
-id: "TRM-ENG-43720"
+id: "TRM-ENG-58249"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ity traits"

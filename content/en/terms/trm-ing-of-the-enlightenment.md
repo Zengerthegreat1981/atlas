@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-of-the-enlightenment"
-id: "TRM-ENG-48197"
+id: "TRM-ENG-62726"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing of the Enlightenment"

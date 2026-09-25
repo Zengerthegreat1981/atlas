@@ -1,6 +1,6 @@
 ---
 slug: "trm-karlen-a-sexuality-and-homosexuality"
-id: "TRM-ENG-44463"
+id: "TRM-ENG-58992"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Karlen, A., Sexuality and Homosexuality"

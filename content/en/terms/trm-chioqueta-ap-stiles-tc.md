@@ -1,6 +1,6 @@
 ---
 slug: "trm-chioqueta-ap-stiles-tc"
-id: "TRM-ENG-47545"
+id: "TRM-ENG-62074"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Chioqueta AP, Stiles TC"

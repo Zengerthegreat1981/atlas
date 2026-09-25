@@ -1,6 +1,6 @@
 ---
 slug: "trm-moustakas-clark-1"
-id: "TRM-ENG-38454"
+id: "TRM-ENG-52983"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Moustakas, Clark, 1"

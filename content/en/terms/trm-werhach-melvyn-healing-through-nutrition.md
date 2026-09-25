@@ -1,6 +1,6 @@
 ---
 slug: "trm-werhach-melvyn-healing-through-nutrition"
-id: "TRM-ENG-45992"
+id: "TRM-ENG-60521"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Werhach, Melvyn. Healing Through Nutrition"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-sional-manual-englewood-cliffs-nj"
-id: "TRM-ENG-35321"
+id: "TRM-ENG-49850"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sional manual. Englewood Cliffs, NJ"

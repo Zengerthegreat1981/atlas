@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychology63378387-chotherapy"
-id: "TRM-ENG-49123"
+id: "TRM-ENG-63652"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychology,63,378±387. chotherapy"

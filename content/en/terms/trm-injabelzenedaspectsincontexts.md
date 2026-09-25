@@ -1,6 +1,6 @@
 ---
 slug: "trm-injabelzenedaspectsincontexts"
-id: "TRM-ENG-36944"
+id: "TRM-ENG-51473"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "InJ.A.Belzen(Ed.),Aspectsincontexts"

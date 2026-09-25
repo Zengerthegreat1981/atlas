@@ -1,6 +1,6 @@
 ---
 slug: "trm-distinctly-separate-images"
-id: "TRM-ENG-44993"
+id: "TRM-ENG-59522"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "distinctly separate images"

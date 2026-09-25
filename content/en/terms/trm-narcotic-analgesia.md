@@ -1,6 +1,6 @@
 ---
 slug: "trm-narcotic-analgesia"
-id: "TRM-ENG-46638"
+id: "TRM-ENG-61167"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Narcotic analgesia"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-surface-dyslexia-1"
-id: "TRM-ENG-44808"
+id: "TRM-ENG-59337"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Surface dyslexia, 1"

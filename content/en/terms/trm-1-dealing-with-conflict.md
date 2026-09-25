@@ -1,6 +1,6 @@
 ---
 slug: "trm-1-dealing-with-conflict"
-id: "TRM-ENG-38538"
+id: "TRM-ENG-53067"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1. Dealing with conflict"

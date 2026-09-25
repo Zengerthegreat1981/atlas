@@ -1,6 +1,6 @@
 ---
 slug: "trm-multicultural-career-assessment-models4"
-id: "TRM-ENG-38457"
+id: "TRM-ENG-52986"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Multicultural career assessment models,4"

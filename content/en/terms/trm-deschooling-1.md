@@ -1,6 +1,6 @@
 ---
 slug: "trm-deschooling-1"
-id: "TRM-ENG-47879"
+id: "TRM-ENG-62408"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "deschooling, 1"

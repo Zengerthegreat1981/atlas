@@ -1,6 +1,6 @@
 ---
 slug: "trm-range-and-limited-range"
-id: "TRM-ENG-44014"
+id: "TRM-ENG-58543"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Range and Limited range"

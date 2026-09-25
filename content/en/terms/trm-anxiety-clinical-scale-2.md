@@ -1,6 +1,6 @@
 ---
 slug: "trm-anxiety-clinical-scale-2"
-id: "TRM-ENG-37603"
+id: "TRM-ENG-66661"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Anxiety Clinical Scale, 2"

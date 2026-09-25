@@ -1,6 +1,6 @@
 ---
 slug: "trm-malhotra-jc"
-id: "TRM-ENG-41570"
+id: "TRM-ENG-56099"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Malhotra JC"

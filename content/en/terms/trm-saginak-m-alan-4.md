@@ -1,6 +1,6 @@
 ---
 slug: "trm-saginak-m-alan-4"
-id: "TRM-ENG-38716"
+id: "TRM-ENG-53245"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Saginak, M. Alan, 4"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-two-do-the-same-it-might-not-mean-the-same"
-id: "TRM-ENG-36221"
+id: "TRM-ENG-65279"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "two do the same it might not mean the same"

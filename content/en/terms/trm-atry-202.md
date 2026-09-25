@@ -1,6 +1,6 @@
 ---
 slug: "trm-atry-202"
-id: "TRM-ENG-48212"
+id: "TRM-ENG-62741"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "atry 202"

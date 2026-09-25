@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavior-in-h-r-markus-ed-e-motion-and-culture"
-id: "TRM-ENG-44959"
+id: "TRM-ENG-59488"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behavior. In H. R. Markus (Ed.), E motion and culture"

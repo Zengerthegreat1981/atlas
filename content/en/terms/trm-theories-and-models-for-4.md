@@ -1,6 +1,6 @@
 ---
 slug: "trm-theories-and-models-for-4"
-id: "TRM-ENG-41914"
+id: "TRM-ENG-56443"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theories and models for, 4"

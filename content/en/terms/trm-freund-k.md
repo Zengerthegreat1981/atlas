@@ -1,6 +1,6 @@
 ---
 slug: "trm-freund-k"
-id: "TRM-ENG-40618"
+id: "TRM-ENG-55147"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Freund K"

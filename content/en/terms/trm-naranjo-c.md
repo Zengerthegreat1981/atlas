@@ -1,6 +1,6 @@
 ---
 slug: "trm-naranjo-c"
-id: "TRM-ENG-41818"
+id: "TRM-ENG-56347"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Naranjo C"

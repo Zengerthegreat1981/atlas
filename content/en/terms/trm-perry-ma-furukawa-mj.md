@@ -1,6 +1,6 @@
 ---
 slug: "trm-perry-ma-furukawa-mj"
-id: "TRM-ENG-41962"
+id: "TRM-ENG-56491"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Perry MA, Furukawa MJ"

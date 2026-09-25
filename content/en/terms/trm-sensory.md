@@ -1,6 +1,6 @@
 ---
 slug: "trm-sensory"
-id: "TRM-ENG-45299"
+id: "TRM-ENG-59828"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sensory"

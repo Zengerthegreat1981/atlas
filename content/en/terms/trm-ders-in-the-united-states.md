@@ -1,6 +1,6 @@
 ---
 slug: "trm-ders-in-the-united-states"
-id: "TRM-ENG-48304"
+id: "TRM-ENG-62833"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ders in the United States"

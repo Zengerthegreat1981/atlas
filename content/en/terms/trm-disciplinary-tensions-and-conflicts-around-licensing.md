@@ -1,6 +1,6 @@
 ---
 slug: "trm-disciplinary-tensions-and-conflicts-around-licensing"
-id: "TRM-ENG-36366"
+id: "TRM-ENG-65424"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disciplinary tensions and conflicts around licensing"

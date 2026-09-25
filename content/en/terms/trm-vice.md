@@ -1,6 +1,6 @@
 ---
 slug: "trm-vice"
-id: "TRM-ENG-45807"
+id: "TRM-ENG-60336"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Vice"

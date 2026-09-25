@@ -1,6 +1,6 @@
 ---
 slug: "trm-descriptive-decisionmaking-models-and-4"
-id: "TRM-ENG-39901"
+id: "TRM-ENG-54430"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "descriptive decision-making models and, 4"

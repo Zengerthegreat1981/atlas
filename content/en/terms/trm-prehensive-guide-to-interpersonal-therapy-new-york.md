@@ -1,6 +1,6 @@
 ---
 slug: "trm-prehensive-guide-to-interpersonal-therapy-new-york"
-id: "TRM-ENG-36892"
+id: "TRM-ENG-65950"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "prehensive guide to interpersonal therapy. New York"

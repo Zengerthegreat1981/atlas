@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-philosophy-oconnell-developed-from-the-very-another"
-id: "TRM-ENG-37520"
+id: "TRM-ENG-66578"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and philosophy, O’Connell developed, from the very Another"

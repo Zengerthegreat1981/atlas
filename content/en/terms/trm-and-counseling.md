@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-counseling"
-id: "TRM-ENG-39171"
+id: "TRM-ENG-53700"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and counseling"

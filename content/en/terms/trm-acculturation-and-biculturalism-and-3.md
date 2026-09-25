@@ -1,6 +1,6 @@
 ---
 slug: "trm-acculturation-and-biculturalism-and-3"
-id: "TRM-ENG-39085"
+id: "TRM-ENG-53614"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "acculturation and biculturalism and, 3"

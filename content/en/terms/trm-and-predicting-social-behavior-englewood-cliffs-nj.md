@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-predicting-social-behavior-englewood-cliffs-nj"
-id: "TRM-ENG-46806"
+id: "TRM-ENG-61335"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and predicting social behavior. Englewood Cliffs, NJ"

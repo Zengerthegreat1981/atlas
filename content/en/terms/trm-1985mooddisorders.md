@@ -1,6 +1,6 @@
 ---
 slug: "trm-1985mooddisorders"
-id: "TRM-ENG-48757"
+id: "TRM-ENG-63286"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1985).Mooddisorders"

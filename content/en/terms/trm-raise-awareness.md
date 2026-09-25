@@ -1,6 +1,6 @@
 ---
 slug: "trm-raise-awareness"
-id: "TRM-ENG-36057"
+id: "TRM-ENG-65115"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "raise awareness"

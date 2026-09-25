@@ -1,6 +1,6 @@
 ---
 slug: "trm-martin-j-2"
-id: "TRM-ENG-46967"
+id: "TRM-ENG-61496"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Martin, J., 2"

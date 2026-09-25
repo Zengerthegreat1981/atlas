@@ -1,6 +1,6 @@
 ---
 slug: "trm-ficiency-creativity-inner-harmony-relatedness-and-tran-chology"
-id: "TRM-ENG-36435"
+id: "TRM-ENG-65493"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ficiency, creativity, inner harmony, relatedness, and tran- chology"

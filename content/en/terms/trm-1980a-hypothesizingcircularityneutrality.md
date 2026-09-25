@@ -1,6 +1,6 @@
 ---
 slug: "trm-1980a-hypothesizingcircularityneutrality"
-id: "TRM-ENG-48755"
+id: "TRM-ENG-63284"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1980a). HypothesizingÐcircularityÐneutrality"

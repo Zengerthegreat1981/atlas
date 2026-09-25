@@ -1,6 +1,6 @@
 ---
 slug: "trm-geertz-c-1973-the-interpretation-of-culturesnew-york"
-id: "TRM-ENG-35700"
+id: "TRM-ENG-50229"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Geertz, C. (1973). The interpretation of cultures.New York"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-existential-truth-in-skepticism"
-id: "TRM-ENG-48836"
+id: "TRM-ENG-63365"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the existential truth in skepticism"

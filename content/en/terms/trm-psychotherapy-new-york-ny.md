@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychotherapy-new-york-ny"
-id: "TRM-ENG-51766"
+id: "TRM-ENG-66295"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychotherapy. New York, NY"

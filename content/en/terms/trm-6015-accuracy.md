@@ -1,6 +1,6 @@
 ---
 slug: "trm-6015-accuracy"
-id: "TRM-ENG-48863"
+id: "TRM-ENG-63392"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "6.01.5 ACCURACY"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ideological-racism-and-3"
-id: "TRM-ENG-40437"
+id: "TRM-ENG-54966"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ideological racism and, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-deepstate-transformation-1"
-id: "TRM-ENG-50303"
+id: "TRM-ENG-64832"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Deep-state transformation, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-developed-countries"
-id: "TRM-ENG-34806"
+id: "TRM-ENG-63864"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "developed countries"

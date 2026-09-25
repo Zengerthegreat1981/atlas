@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapy-center-phoenix-az"
-id: "TRM-ENG-51102"
+id: "TRM-ENG-65631"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Therapy Center. Phoenix, AZ"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ence-through-a-developmental-psychopathology-lens"
-id: "TRM-ENG-42804"
+id: "TRM-ENG-57333"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ence through a developmental psychopathology lens"

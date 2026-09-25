@@ -1,6 +1,6 @@
 ---
 slug: "trm-can-ascribe-to-racism-notably-the-question"
-id: "TRM-ENG-39395"
+id: "TRM-ENG-53924"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "can ascribe to racism, notably the question"

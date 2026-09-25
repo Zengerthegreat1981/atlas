@@ -1,6 +1,6 @@
 ---
 slug: "trm-seeman-j-raskin-nj"
-id: "TRM-ENG-42306"
+id: "TRM-ENG-56835"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Seeman J, Raskin NJ"

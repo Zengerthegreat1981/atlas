@@ -1,6 +1,6 @@
 ---
 slug: "trm-bettelheim-bruno-the-uses-of-enchantment-new-york"
-id: "TRM-ENG-45760"
+id: "TRM-ENG-60289"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bettelheim, Bruno, The Uses of Enchantment (New York"

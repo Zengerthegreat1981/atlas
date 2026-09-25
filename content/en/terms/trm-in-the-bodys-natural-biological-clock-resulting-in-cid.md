@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-the-bodys-natural-biological-clock-resulting-in-cid"
-id: "TRM-ENG-46117"
+id: "TRM-ENG-60646"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in the body’s natural biological clock, resulting in (cid"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-behaviors-counselors-may-miss-maladaptive-eating-diagnoses"
-id: "TRM-ENG-39345"
+id: "TRM-ENG-53874"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behaviors, counselors may miss maladaptive eating Diagnoses"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-winne-philip-2"
-id: "TRM-ENG-47498"
+id: "TRM-ENG-62027"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Winne, Philip, 2"

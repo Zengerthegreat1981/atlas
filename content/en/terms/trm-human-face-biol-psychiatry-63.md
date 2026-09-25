@@ -1,6 +1,6 @@
 ---
 slug: "trm-human-face-biol-psychiatry-63"
-id: "TRM-ENG-48380"
+id: "TRM-ENG-62909"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "human face. Biol Psychiatry 63"

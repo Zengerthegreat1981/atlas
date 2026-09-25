@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-the-measurement-of-heart-rate-variability-smile"
-id: "TRM-ENG-35863"
+id: "TRM-ENG-64921"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in the measurement of heart rate variability. smile"

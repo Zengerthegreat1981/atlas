@@ -1,6 +1,6 @@
 ---
 slug: "trm-clinic"
-id: "TRM-ENG-46899"
+id: "TRM-ENG-61428"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "clinic"

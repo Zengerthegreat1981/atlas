@@ -1,6 +1,6 @@
 ---
 slug: "trm-menninger-ka-holzman-ps"
-id: "TRM-ENG-41691"
+id: "TRM-ENG-56220"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Menninger KA, Holzman PS"

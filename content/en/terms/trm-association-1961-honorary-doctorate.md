@@ -1,6 +1,6 @@
 ---
 slug: "trm-association-1961-honorary-doctorate"
-id: "TRM-ENG-36576"
+id: "TRM-ENG-65634"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Association, 1961. Honorary doctorate"

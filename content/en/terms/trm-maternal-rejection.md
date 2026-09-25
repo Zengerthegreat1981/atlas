@@ -1,6 +1,6 @@
 ---
 slug: "trm-maternal-rejection"
-id: "TRM-ENG-44521"
+id: "TRM-ENG-59050"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Maternal Rejection"

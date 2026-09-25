@@ -1,6 +1,6 @@
 ---
 slug: "trm-thinking-reflective-practice"
-id: "TRM-ENG-48892"
+id: "TRM-ENG-63421"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thinking Reflective practice"

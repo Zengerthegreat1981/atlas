@@ -1,6 +1,6 @@
 ---
 slug: "trm-286-tseng-w-mcdermott-jf"
-id: "TRM-ENG-38822"
+id: "TRM-ENG-53351"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "286. Tseng W, McDermott JF"

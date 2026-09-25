@@ -1,6 +1,6 @@
 ---
 slug: "trm-propensity-scores"
-id: "TRM-ENG-35493"
+id: "TRM-ENG-64551"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Propensity scores"

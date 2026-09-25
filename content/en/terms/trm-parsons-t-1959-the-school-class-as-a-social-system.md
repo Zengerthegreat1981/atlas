@@ -1,6 +1,6 @@
 ---
 slug: "trm-parsons-t-1959-the-school-class-as-a-social-system"
-id: "TRM-ENG-47105"
+id: "TRM-ENG-61634"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Parsons, T. (1959). The school class as a social system"

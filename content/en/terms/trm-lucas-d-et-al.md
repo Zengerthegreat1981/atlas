@@ -1,6 +1,6 @@
 ---
 slug: "trm-lucas-d-et-al"
-id: "TRM-ENG-41521"
+id: "TRM-ENG-56050"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lucas D, et al"

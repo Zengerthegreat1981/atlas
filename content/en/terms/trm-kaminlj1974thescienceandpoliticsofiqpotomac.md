@@ -1,6 +1,6 @@
 ---
 slug: "trm-kaminlj1974thescienceandpoliticsofiqpotomac"
-id: "TRM-ENG-36990"
+id: "TRM-ENG-66048"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kamin,L.J.(1974).ThescienceandpoliticsofIQ.Potomac"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-several-philosophical-constructs"
-id: "TRM-ENG-41641"
+id: "TRM-ENG-56170"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "several philosophical constructs"

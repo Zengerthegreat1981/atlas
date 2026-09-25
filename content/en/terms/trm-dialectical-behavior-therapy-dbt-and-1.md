@@ -1,6 +1,6 @@
 ---
 slug: "trm-dialectical-behavior-therapy-dbt-and-1"
-id: "TRM-ENG-39928"
+id: "TRM-ENG-54457"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dialectical behavior therapy (DBT) and, 1"

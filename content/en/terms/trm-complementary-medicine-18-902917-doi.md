@@ -1,6 +1,6 @@
 ---
 slug: "trm-complementary-medicine-18-902917-doi"
-id: "TRM-ENG-50267"
+id: "TRM-ENG-64796"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Complementary Medicine, 18, 902–917. doi"

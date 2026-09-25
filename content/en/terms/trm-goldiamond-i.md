@@ -1,6 +1,6 @@
 ---
 slug: "trm-goldiamond-i"
-id: "TRM-ENG-40753"
+id: "TRM-ENG-55282"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goldiamond I"

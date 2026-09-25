@@ -1,6 +1,6 @@
 ---
 slug: "trm-arieti-s-volition-and-value"
-id: "TRM-ENG-44261"
+id: "TRM-ENG-58790"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Arieti, S., “Volition and Value"

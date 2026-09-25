@@ -1,6 +1,6 @@
 ---
 slug: "trm-personality-theoriesbehavioral2"
-id: "TRM-ENG-38591"
+id: "TRM-ENG-53120"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Personality theories,behavioral,2"

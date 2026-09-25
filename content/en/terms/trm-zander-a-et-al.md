@@ -1,6 +1,6 @@
 ---
 slug: "trm-zander-a-et-al"
-id: "TRM-ENG-42906"
+id: "TRM-ENG-57435"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Zander A, et al"

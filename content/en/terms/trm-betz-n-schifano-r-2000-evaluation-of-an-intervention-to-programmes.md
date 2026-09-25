@@ -1,6 +1,6 @@
 ---
 slug: "trm-betz-n-schifano-r-2000-evaluation-of-an-intervention-to-programmes"
-id: "TRM-ENG-36612"
+id: "TRM-ENG-65670"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Betz, N., & Schifano, R. (2000). Evaluation of an intervention to programmes"

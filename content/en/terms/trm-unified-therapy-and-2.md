@@ -1,6 +1,6 @@
 ---
 slug: "trm-unified-therapy-and-2"
-id: "TRM-ENG-51952"
+id: "TRM-ENG-66481"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "unified therapy and, 2"

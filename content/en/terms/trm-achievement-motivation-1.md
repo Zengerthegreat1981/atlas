@@ -1,6 +1,6 @@
 ---
 slug: "trm-achievement-motivation-1"
-id: "TRM-ENG-47540"
+id: "TRM-ENG-62069"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "achievement motivation, 1"

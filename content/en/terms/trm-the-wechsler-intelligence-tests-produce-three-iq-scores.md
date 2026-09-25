@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-wechsler-intelligence-tests-produce-three-iq-scores"
-id: "TRM-ENG-36000"
+id: "TRM-ENG-65058"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The Wechsler intelligence tests produce three IQ scores"

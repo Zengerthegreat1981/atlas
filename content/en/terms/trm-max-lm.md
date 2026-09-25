@@ -1,6 +1,6 @@
 ---
 slug: "trm-max-lm"
-id: "TRM-ENG-41624"
+id: "TRM-ENG-56153"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Max LM"

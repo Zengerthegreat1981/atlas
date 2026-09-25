@@ -1,6 +1,6 @@
 ---
 slug: "trm-phonemics"
-id: "TRM-ENG-52333"
+id: "TRM-ENG-66862"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Phonemics"

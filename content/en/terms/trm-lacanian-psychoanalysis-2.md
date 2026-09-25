@@ -1,6 +1,6 @@
 ---
 slug: "trm-lacanian-psychoanalysis-2"
-id: "TRM-ENG-50651"
+id: "TRM-ENG-65180"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lacanian psychoanalysis, 2"

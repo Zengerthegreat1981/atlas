@@ -1,6 +1,6 @@
 ---
 slug: "trm-logan"
-id: "TRM-ENG-35433"
+id: "TRM-ENG-64491"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Logan"

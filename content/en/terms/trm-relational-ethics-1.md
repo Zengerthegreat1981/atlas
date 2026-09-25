@@ -1,6 +1,6 @@
 ---
 slug: "trm-relational-ethics-1"
-id: "TRM-ENG-50948"
+id: "TRM-ENG-65477"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Relational ethics, 1"

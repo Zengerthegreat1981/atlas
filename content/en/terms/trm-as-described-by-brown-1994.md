@@ -1,6 +1,6 @@
 ---
 slug: "trm-as-described-by-brown-1994"
-id: "TRM-ENG-47661"
+id: "TRM-ENG-62190"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "as described by Brown (1994)"

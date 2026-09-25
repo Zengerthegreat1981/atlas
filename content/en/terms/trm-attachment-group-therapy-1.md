@@ -1,6 +1,6 @@
 ---
 slug: "trm-attachment-group-therapy-1"
-id: "TRM-ENG-51278"
+id: "TRM-ENG-65807"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "attachment group therapy, 1"

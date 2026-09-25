@@ -1,6 +1,6 @@
 ---
 slug: "trm-marital-versus-exposure-therapy"
-id: "TRM-ENG-49083"
+id: "TRM-ENG-63612"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Marital versus exposure therapy"

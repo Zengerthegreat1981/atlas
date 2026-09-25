@@ -1,6 +1,6 @@
 ---
 slug: "trm-cultural-racism-and-2"
-id: "TRM-ENG-39822"
+id: "TRM-ENG-54351"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cultural racism and, 2"

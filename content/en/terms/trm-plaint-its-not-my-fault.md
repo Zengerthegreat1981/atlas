@@ -1,6 +1,6 @@
 ---
 slug: "trm-plaint-its-not-my-fault"
-id: "TRM-ENG-48529"
+id: "TRM-ENG-63058"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "plaint, “It’s not my fault"

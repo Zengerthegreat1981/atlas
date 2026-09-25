@@ -1,6 +1,6 @@
 ---
 slug: "trm-t1993sexualityafterhysterectomy"
-id: "TRM-ENG-46735"
+id: "TRM-ENG-61264"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "T.(1993).Sexualityafterhysterectomy"

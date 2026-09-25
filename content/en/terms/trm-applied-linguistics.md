@@ -1,6 +1,6 @@
 ---
 slug: "trm-applied-linguistics"
-id: "TRM-ENG-35665"
+id: "TRM-ENG-64723"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "applied linguistics"

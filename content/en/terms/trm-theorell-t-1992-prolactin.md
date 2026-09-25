@@ -1,6 +1,6 @@
 ---
 slug: "trm-theorell-t-1992-prolactin"
-id: "TRM-ENG-46746"
+id: "TRM-ENG-61275"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Theorell, T. (1992). Prolactin"

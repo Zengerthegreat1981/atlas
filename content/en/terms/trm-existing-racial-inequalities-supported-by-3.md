@@ -1,6 +1,6 @@
 ---
 slug: "trm-existing-racial-inequalities-supported-by-3"
-id: "TRM-ENG-40133"
+id: "TRM-ENG-54662"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "existing racial inequalities supported by, 3"

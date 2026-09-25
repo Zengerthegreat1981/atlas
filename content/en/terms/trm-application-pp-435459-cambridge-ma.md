@@ -1,6 +1,6 @@
 ---
 slug: "trm-application-pp-435459-cambridge-ma"
-id: "TRM-ENG-44917"
+id: "TRM-ENG-59446"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "application (pp. 435–459). Cambridge, MA"

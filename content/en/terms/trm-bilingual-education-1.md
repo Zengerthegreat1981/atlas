@@ -1,6 +1,6 @@
 ---
 slug: "trm-bilingual-education-1"
-id: "TRM-ENG-46321"
+id: "TRM-ENG-60850"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bilingual education, 1"

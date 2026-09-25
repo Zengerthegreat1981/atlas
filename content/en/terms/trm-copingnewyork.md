@@ -1,6 +1,6 @@
 ---
 slug: "trm-copingnewyork"
-id: "TRM-ENG-46915"
+id: "TRM-ENG-61444"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "coping.NewYork"

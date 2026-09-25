@@ -1,6 +1,6 @@
 ---
 slug: "trm-schapiro-m-leonardo-and-freud"
-id: "TRM-ENG-44618"
+id: "TRM-ENG-59147"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schapiro, M., “Leonardo and Freud"

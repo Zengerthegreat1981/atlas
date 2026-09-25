@@ -1,6 +1,6 @@
 ---
 slug: "trm-promoting-more-lasting-change"
-id: "TRM-ENG-43157"
+id: "TRM-ENG-57686"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "promoting more lasting change"

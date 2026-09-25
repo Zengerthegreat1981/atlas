@@ -1,6 +1,6 @@
 ---
 slug: "trm-newman-rg"
-id: "TRM-ENG-41836"
+id: "TRM-ENG-56365"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Newman RG"

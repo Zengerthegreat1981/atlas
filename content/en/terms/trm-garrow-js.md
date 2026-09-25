@@ -1,6 +1,6 @@
 ---
 slug: "trm-garrow-js"
-id: "TRM-ENG-40668"
+id: "TRM-ENG-55197"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Garrow JS"

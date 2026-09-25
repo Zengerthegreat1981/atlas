@@ -1,6 +1,6 @@
 ---
 slug: "trm-transparency-and-obstacle-paris-france"
-id: "TRM-ENG-47417"
+id: "TRM-ENG-61946"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Transparency and obstacle]. Paris, France"

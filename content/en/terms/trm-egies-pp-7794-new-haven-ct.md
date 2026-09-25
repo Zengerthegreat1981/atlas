@@ -1,6 +1,6 @@
 ---
 slug: "trm-egies-pp-7794-new-haven-ct"
-id: "TRM-ENG-42801"
+id: "TRM-ENG-57330"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "egies (pp. 77–94). New Haven, CT"

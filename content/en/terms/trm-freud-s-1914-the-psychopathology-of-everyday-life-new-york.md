@@ -1,6 +1,6 @@
 ---
 slug: "trm-freud-s-1914-the-psychopathology-of-everyday-life-new-york"
-id: "TRM-ENG-36818"
+id: "TRM-ENG-65876"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Freud, S. (1914). The psychopathology of everyday life. New York"

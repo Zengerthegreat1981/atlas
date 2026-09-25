@@ -1,6 +1,6 @@
 ---
 slug: "trm-associated-with-anxiety-or-other-emotional-distress-cid"
-id: "TRM-ENG-46032"
+id: "TRM-ENG-60561"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "associated with anxiety or other emotional distress. (cid"

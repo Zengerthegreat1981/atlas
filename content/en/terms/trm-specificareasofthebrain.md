@@ -1,6 +1,6 @@
 ---
 slug: "trm-specificareasofthebrain"
-id: "TRM-ENG-43875"
+id: "TRM-ENG-58404"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "specificareasofthebrain"

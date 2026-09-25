@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-scimtrfic-creativity-london"
-id: "TRM-ENG-35175"
+id: "TRM-ENG-49704"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of scimtrfic creativity. London"

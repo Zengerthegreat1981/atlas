@@ -1,6 +1,6 @@
 ---
 slug: "trm-traumatic-stress-disorder-and-stressrelated-bodily-disorders"
-id: "TRM-ENG-37229"
+id: "TRM-ENG-51758"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "traumatic stress disorder, and stress-related bodily disorders"

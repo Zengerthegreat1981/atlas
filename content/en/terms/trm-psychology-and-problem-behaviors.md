@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychology-and-problem-behaviors"
-id: "TRM-ENG-41345"
+id: "TRM-ENG-55874"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychology and problem behaviors"

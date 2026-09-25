@@ -1,6 +1,6 @@
 ---
 slug: "trm-brownjw1983themicrostructureofperception"
-id: "TRM-ENG-36656"
+id: "TRM-ENG-65714"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brown,J.W.(1983).Themicrostructureofperception"

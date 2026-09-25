@@ -1,6 +1,6 @@
 ---
 slug: "trm-minkowski-eugne-2"
-id: "TRM-ENG-47001"
+id: "TRM-ENG-61530"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Minkowski, Eugène, 2"

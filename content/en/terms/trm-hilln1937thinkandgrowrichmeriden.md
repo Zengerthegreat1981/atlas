@@ -1,6 +1,6 @@
 ---
 slug: "trm-hilln1937thinkandgrowrichmeriden"
-id: "TRM-ENG-36898"
+id: "TRM-ENG-65956"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hill,N.(1937).Thinkandgrowrich.Meriden"

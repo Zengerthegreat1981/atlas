@@ -1,6 +1,6 @@
 ---
 slug: "trm-determinism-the-time-magazine-wrote-on-its-cover"
-id: "TRM-ENG-37691"
+id: "TRM-ENG-52220"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "determinism, the Time Magazine wrote on its cover"

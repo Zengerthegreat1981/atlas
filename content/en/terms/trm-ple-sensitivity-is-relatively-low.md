@@ -1,6 +1,6 @@
 ---
 slug: "trm-ple-sensitivity-is-relatively-low"
-id: "TRM-ENG-36035"
+id: "TRM-ENG-65093"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ple, Sensitivity is relatively low"

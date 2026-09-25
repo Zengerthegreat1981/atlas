@@ -1,6 +1,6 @@
 ---
 slug: "trm-muslim-educational-traditions-peters-2"
-id: "TRM-ENG-47038"
+id: "TRM-ENG-61567"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Muslim educational traditions, Peters, 2"

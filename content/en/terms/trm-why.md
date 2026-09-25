@@ -1,6 +1,6 @@
 ---
 slug: "trm-why"
-id: "TRM-ENG-42155"
+id: "TRM-ENG-56684"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "why"

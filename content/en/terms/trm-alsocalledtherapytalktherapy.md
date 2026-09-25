@@ -1,6 +1,6 @@
 ---
 slug: "trm-alsocalledtherapytalktherapy"
-id: "TRM-ENG-43462"
+id: "TRM-ENG-57991"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Alsocalledtherapy;talktherapy."

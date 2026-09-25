@@ -1,6 +1,6 @@
 ---
 slug: "trm-comes"
-id: "TRM-ENG-34949"
+id: "TRM-ENG-49478"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "comes"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ousness-selfassertion-curiosity-flight-repulsion-pugnac-ments"
-id: "TRM-ENG-36829"
+id: "TRM-ENG-65887"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ousness, self-assertion, curiosity, flight, repulsion, pugnac- ments"

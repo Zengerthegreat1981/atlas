@@ -1,6 +1,6 @@
 ---
 slug: "trm-coerced"
-id: "TRM-ENG-47780"
+id: "TRM-ENG-62309"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "coerced"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-foursubtypesarerecognized"
-id: "TRM-ENG-43472"
+id: "TRM-ENG-58001"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Foursubtypesarerecognized"

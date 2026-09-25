@@ -1,6 +1,6 @@
 ---
 slug: "trm-hands"
-id: "TRM-ENG-45161"
+id: "TRM-ENG-59690"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "hands"

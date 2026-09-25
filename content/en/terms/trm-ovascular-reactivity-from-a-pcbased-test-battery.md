@@ -1,6 +1,6 @@
 ---
 slug: "trm-ovascular-reactivity-from-a-pcbased-test-battery"
-id: "TRM-ENG-47179"
+id: "TRM-ENG-61708"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ovascular reactivity from a PC-based test battery"

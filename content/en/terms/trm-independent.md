@@ -1,6 +1,6 @@
 ---
 slug: "trm-independent"
-id: "TRM-ENG-34884"
+id: "TRM-ENG-63942"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "independent"

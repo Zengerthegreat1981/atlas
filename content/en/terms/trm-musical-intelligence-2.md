@@ -1,6 +1,6 @@
 ---
 slug: "trm-musical-intelligence-2"
-id: "TRM-ENG-47037"
+id: "TRM-ENG-61566"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Musical intelligence, 2"

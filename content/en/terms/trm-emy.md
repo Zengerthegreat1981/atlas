@@ -1,6 +1,6 @@
 ---
 slug: "trm-emy"
-id: "TRM-ENG-37720"
+id: "TRM-ENG-66778"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "emy"

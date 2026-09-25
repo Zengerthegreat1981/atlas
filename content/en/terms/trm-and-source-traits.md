@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-source-traits"
-id: "TRM-ENG-52547"
+id: "TRM-ENG-67076"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and source traits"

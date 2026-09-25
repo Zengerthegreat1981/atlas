@@ -1,6 +1,6 @@
 ---
 slug: "trm-mental-causation-pp-1926-oxford-uk"
-id: "TRM-ENG-44622"
+id: "TRM-ENG-59151"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mental causation (pp. 19–26). Oxford, UK"

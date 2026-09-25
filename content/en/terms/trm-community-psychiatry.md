@@ -1,6 +1,6 @@
 ---
 slug: "trm-community-psychiatry"
-id: "TRM-ENG-44949"
+id: "TRM-ENG-59478"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "community psychiatry"

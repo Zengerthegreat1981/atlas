@@ -1,6 +1,6 @@
 ---
 slug: "trm-tions-to-transcranial-magnetic-stimulation-clinical-brain"
-id: "TRM-ENG-36204"
+id: "TRM-ENG-50733"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tions to transcranial magnetic stimulation. Clinical brain"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-formula"
-id: "TRM-ENG-35820"
+id: "TRM-ENG-64878"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "formula"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-disorders-and-relational-disorders"
-id: "TRM-ENG-42780"
+id: "TRM-ENG-57309"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disorders and relational disorders"

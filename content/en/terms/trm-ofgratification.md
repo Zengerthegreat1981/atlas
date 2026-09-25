@@ -1,6 +1,6 @@
 ---
 slug: "trm-ofgratification"
-id: "TRM-ENG-38040"
+id: "TRM-ENG-67098"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ofgratification"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-accuracy-1"
-id: "TRM-ENG-44869"
+id: "TRM-ENG-59398"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "accuracy, 1"

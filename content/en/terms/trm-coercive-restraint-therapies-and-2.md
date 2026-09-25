@@ -1,6 +1,6 @@
 ---
 slug: "trm-coercive-restraint-therapies-and-2"
-id: "TRM-ENG-39551"
+id: "TRM-ENG-54080"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "coercive restraint therapies and, 2"

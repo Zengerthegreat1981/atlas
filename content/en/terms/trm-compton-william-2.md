@@ -1,6 +1,6 @@
 ---
 slug: "trm-compton-william-2"
-id: "TRM-ENG-50269"
+id: "TRM-ENG-64798"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Compton, William, 2"

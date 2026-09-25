@@ -1,6 +1,6 @@
 ---
 slug: "trm-stiegler-bernard-2"
-id: "TRM-ENG-47340"
+id: "TRM-ENG-61869"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stiegler, Bernard, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-dependent-personality-disorder-dpd-2"
-id: "TRM-ENG-37942"
+id: "TRM-ENG-67000"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dependent personality disorder (DPD), 2"

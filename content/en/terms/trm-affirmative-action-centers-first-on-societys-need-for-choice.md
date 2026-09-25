@@ -1,6 +1,6 @@
 ---
 slug: "trm-affirmative-action-centers-first-on-societys-need-for-choice"
-id: "TRM-ENG-47557"
+id: "TRM-ENG-62086"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "affirmative action centers first on society’s need for choice"

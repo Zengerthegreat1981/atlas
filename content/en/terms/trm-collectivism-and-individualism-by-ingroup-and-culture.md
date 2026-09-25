@@ -1,6 +1,6 @@
 ---
 slug: "trm-collectivism-and-individualism-by-ingroup-and-culture"
-id: "TRM-ENG-39575"
+id: "TRM-ENG-54104"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "collectivism and individualism by ingroup and culture"

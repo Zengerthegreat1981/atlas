@@ -1,6 +1,6 @@
 ---
 slug: "trm-reversal"
-id: "TRM-ENG-52364"
+id: "TRM-ENG-66893"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Reversal"

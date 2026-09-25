@@ -1,6 +1,6 @@
 ---
 slug: "trm-laden-with-ambiguity"
-id: "TRM-ENG-48263"
+id: "TRM-ENG-62792"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "laden with ambiguity"

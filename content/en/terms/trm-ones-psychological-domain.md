@@ -1,6 +1,6 @@
 ---
 slug: "trm-ones-psychological-domain"
-id: "TRM-ENG-43089"
+id: "TRM-ENG-57618"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "one’s psychological domain?"

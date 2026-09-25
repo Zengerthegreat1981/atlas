@@ -1,6 +1,6 @@
 ---
 slug: "trm-national-institute-of-mental-health-treatment-of-system"
-id: "TRM-ENG-42475"
+id: "TRM-ENG-57004"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "National Institute of Mental Health Treatment of system"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-halberstadt-a-1991-socialization-of-expressiveness"
-id: "TRM-ENG-35725"
+id: "TRM-ENG-64783"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Halberstadt, A. (1991). Socialization of expressiveness"

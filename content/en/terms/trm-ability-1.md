@@ -1,6 +1,6 @@
 ---
 slug: "trm-ability-1"
-id: "TRM-ENG-44284"
+id: "TRM-ENG-58813"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ability, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-partite-gradation-of-mindbrain-evolution-joy"
-id: "TRM-ENG-45390"
+id: "TRM-ENG-59919"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "partite gradation of MindBrain evolution. joy"

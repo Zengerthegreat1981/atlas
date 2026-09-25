@@ -1,6 +1,6 @@
 ---
 slug: "trm-research-and-training-by-1"
-id: "TRM-ENG-41506"
+id: "TRM-ENG-56035"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "research and training by, 1"

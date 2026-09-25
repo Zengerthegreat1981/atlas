@@ -1,6 +1,6 @@
 ---
 slug: "trm-fourmajorfactors"
-id: "TRM-ENG-37780"
+id: "TRM-ENG-66838"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "fourmajorfactors"

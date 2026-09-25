@@ -1,6 +1,6 @@
 ---
 slug: "trm-obstructive-pulmonary-disease"
-id: "TRM-ENG-47151"
+id: "TRM-ENG-61680"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "obstructive pulmonary disease"

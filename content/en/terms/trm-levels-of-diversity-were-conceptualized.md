@@ -1,6 +1,6 @@
 ---
 slug: "trm-levels-of-diversity-were-conceptualized"
-id: "TRM-ENG-48276"
+id: "TRM-ENG-62805"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "levels of diversity were conceptualized"

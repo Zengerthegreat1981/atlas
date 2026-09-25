@@ -1,6 +1,6 @@
 ---
 slug: "trm-guide-pp-3977-new-york"
-id: "TRM-ENG-42858"
+id: "TRM-ENG-57387"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "guide (pp. 39–77). New York"

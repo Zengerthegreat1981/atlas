@@ -1,6 +1,6 @@
 ---
 slug: "trm-forcers"
-id: "TRM-ENG-52454"
+id: "TRM-ENG-66983"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "forcers"

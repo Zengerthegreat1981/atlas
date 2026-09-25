@@ -1,6 +1,6 @@
 ---
 slug: "trm-for-discussing-autonomy"
-id: "TRM-ENG-48036"
+id: "TRM-ENG-62565"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "for discussing autonomy"

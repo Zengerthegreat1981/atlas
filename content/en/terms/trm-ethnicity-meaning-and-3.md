@@ -1,6 +1,6 @@
 ---
 slug: "trm-ethnicity-meaning-and-3"
-id: "TRM-ENG-40106"
+id: "TRM-ENG-54635"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ethnicity meaning and, 3"

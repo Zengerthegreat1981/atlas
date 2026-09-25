@@ -1,6 +1,6 @@
 ---
 slug: "trm-facet-gstudies-there-can-be-a-hidden-facet"
-id: "TRM-ENG-35806"
+id: "TRM-ENG-50335"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "facet G-studies, there can be a hidden facet"

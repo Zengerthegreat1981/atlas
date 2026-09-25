@@ -1,6 +1,6 @@
 ---
 slug: "trm-balance-from-aminergic"
-id: "TRM-ENG-34892"
+id: "TRM-ENG-63950"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "balance from aminergic"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-work-of-art"
-id: "TRM-ENG-35124"
+id: "TRM-ENG-64182"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "work of art"

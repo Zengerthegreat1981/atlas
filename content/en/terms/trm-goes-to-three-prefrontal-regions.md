@@ -1,6 +1,6 @@
 ---
 slug: "trm-goes-to-three-prefrontal-regions"
-id: "TRM-ENG-34846"
+id: "TRM-ENG-63904"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "goes to three prefrontal regions"

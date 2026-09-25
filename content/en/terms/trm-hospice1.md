@@ -1,6 +1,6 @@
 ---
 slug: "trm-hospice1"
-id: "TRM-ENG-38197"
+id: "TRM-ENG-52726"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hospice,1"

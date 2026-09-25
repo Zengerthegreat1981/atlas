@@ -1,6 +1,6 @@
 ---
 slug: "trm-rat-man"
-id: "TRM-ENG-52354"
+id: "TRM-ENG-66883"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rat Man"

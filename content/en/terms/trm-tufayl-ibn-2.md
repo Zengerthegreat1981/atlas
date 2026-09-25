@@ -1,6 +1,6 @@
 ---
 slug: "trm-tufayl-ibn-2"
-id: "TRM-ENG-47429"
+id: "TRM-ENG-61958"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tufayl, Ibn, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-phological-adj"
-id: "TRM-ENG-44125"
+id: "TRM-ENG-58654"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "phological adj."

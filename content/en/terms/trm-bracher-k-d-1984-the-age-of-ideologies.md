@@ -1,6 +1,6 @@
 ---
 slug: "trm-bracher-k-d-1984-the-age-of-ideologies"
-id: "TRM-ENG-36644"
+id: "TRM-ENG-65702"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bracher, K. D. (1984). The age of ideologies"

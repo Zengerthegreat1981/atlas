@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-2"
-id: "TRM-ENG-41022"
+id: "TRM-ENG-55551"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of, 2"

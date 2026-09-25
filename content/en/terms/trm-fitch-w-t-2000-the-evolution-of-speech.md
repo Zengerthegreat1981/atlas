@@ -1,6 +1,6 @@
 ---
 slug: "trm-fitch-w-t-2000-the-evolution-of-speech"
-id: "TRM-ENG-34617"
+id: "TRM-ENG-49146"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fitch, W. T. (2000). The evolution of speech"

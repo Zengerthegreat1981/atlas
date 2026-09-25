@@ -1,6 +1,6 @@
 ---
 slug: "trm-caillois-roger-2"
-id: "TRM-ENG-46356"
+id: "TRM-ENG-60885"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Caillois, Roger, 2"

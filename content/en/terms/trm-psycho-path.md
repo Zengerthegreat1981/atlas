@@ -1,6 +1,6 @@
 ---
 slug: "trm-psycho-path"
-id: "TRM-ENG-43810"
+id: "TRM-ENG-58339"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psycho path"

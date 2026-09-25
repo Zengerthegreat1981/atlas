@@ -1,6 +1,6 @@
 ---
 slug: "trm-ficient-experience-infants"
-id: "TRM-ENG-45134"
+id: "TRM-ENG-59663"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ficient experience, infants"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-johnson-bs"
-id: "TRM-ENG-41133"
+id: "TRM-ENG-55662"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Johnson BS"

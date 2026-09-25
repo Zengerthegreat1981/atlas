@@ -1,6 +1,6 @@
 ---
 slug: "trm-stevenson-gs"
-id: "TRM-ENG-42467"
+id: "TRM-ENG-56996"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stevenson GS"

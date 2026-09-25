@@ -1,6 +1,6 @@
 ---
 slug: "trm-handbook-of-psychopathology-new-york"
-id: "TRM-ENG-45833"
+id: "TRM-ENG-60362"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Handbook of Psychopathology (New York"

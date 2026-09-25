@@ -1,6 +1,6 @@
 ---
 slug: "trm-academic-freedom-1"
-id: "TRM-ENG-46196"
+id: "TRM-ENG-60725"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Academic freedom, 1"

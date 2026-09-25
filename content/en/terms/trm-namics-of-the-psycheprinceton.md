@@ -1,6 +1,6 @@
 ---
 slug: "trm-namics-of-the-psycheprinceton"
-id: "TRM-ENG-36738"
+id: "TRM-ENG-65796"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "namics of the psyche.Princeton"

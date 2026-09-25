@@ -1,6 +1,6 @@
 ---
 slug: "trm-research-on-adolescent-drug-use"
-id: "TRM-ENG-47257"
+id: "TRM-ENG-61786"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "research on adolescent drug use"

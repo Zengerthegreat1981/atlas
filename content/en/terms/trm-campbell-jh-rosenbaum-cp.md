@@ -1,6 +1,6 @@
 ---
 slug: "trm-campbell-jh-rosenbaum-cp"
-id: "TRM-ENG-40112"
+id: "TRM-ENG-54641"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Campbell JH, Rosenbaum CP"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-hathaway-sr-meehl-pe"
-id: "TRM-ENG-40941"
+id: "TRM-ENG-55470"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hathaway SR, Meehl PE"

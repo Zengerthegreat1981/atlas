@@ -1,6 +1,6 @@
 ---
 slug: "trm-appendix-b-resource-guide"
-id: "TRM-ENG-50113"
+id: "TRM-ENG-64642"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Appendix B: Resource Guide"

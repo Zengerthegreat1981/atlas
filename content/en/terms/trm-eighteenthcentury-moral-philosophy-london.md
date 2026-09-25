@@ -1,6 +1,6 @@
 ---
 slug: "trm-eighteenthcentury-moral-philosophy-london"
-id: "TRM-ENG-45686"
+id: "TRM-ENG-60215"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Eighteenth-Century Moral Philosophy. London"

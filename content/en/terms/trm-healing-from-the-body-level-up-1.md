@@ -1,6 +1,6 @@
 ---
 slug: "trm-healing-from-the-body-level-up-1"
-id: "TRM-ENG-50523"
+id: "TRM-ENG-65052"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Healing From The Body Level Up, 1"

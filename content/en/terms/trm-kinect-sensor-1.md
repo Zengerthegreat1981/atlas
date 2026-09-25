@@ -1,6 +1,6 @@
 ---
 slug: "trm-kinect-sensor-1"
-id: "TRM-ENG-46856"
+id: "TRM-ENG-61385"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "KINECT sensor, 1"

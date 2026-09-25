@@ -1,6 +1,6 @@
 ---
 slug: "trm-jewsinnazieuropenewyork"
-id: "TRM-ENG-36977"
+id: "TRM-ENG-51506"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "JewsinNaziEurope.NewYork"

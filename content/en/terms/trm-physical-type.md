@@ -1,6 +1,6 @@
 ---
 slug: "trm-physical-type"
-id: "TRM-ENG-45417"
+id: "TRM-ENG-59946"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "physical type"

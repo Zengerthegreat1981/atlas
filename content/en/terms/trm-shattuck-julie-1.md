@@ -1,6 +1,6 @@
 ---
 slug: "trm-shattuck-julie-1"
-id: "TRM-ENG-47274"
+id: "TRM-ENG-61803"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shattuck, Julie, 1"

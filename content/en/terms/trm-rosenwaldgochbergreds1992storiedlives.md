@@ -1,6 +1,6 @@
 ---
 slug: "trm-rosenwaldgochbergreds1992storiedlives"
-id: "TRM-ENG-37243"
+id: "TRM-ENG-51772"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rosenwald,G.,&Ochberg,R.(Eds.).(1992).Storiedlives"

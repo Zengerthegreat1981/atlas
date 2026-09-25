@@ -1,6 +1,6 @@
 ---
 slug: "trm-papanek-e"
-id: "TRM-ENG-41915"
+id: "TRM-ENG-56444"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Papanek E"

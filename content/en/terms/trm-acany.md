@@ -1,6 +1,6 @@
 ---
 slug: "trm-acany"
-id: "TRM-ENG-45821"
+id: "TRM-ENG-60350"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "aca,NY"

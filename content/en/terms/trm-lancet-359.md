@@ -1,6 +1,6 @@
 ---
 slug: "trm-lancet-359"
-id: "TRM-ENG-47817"
+id: "TRM-ENG-62346"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lancet 359"

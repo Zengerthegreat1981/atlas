@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognitionandbehavioraltreatment"
-id: "TRM-ENG-48941"
+id: "TRM-ENG-63470"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cognitionandbehavioraltreatment"

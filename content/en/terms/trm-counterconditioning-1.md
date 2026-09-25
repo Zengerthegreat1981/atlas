@@ -1,6 +1,6 @@
 ---
 slug: "trm-counterconditioning-1"
-id: "TRM-ENG-50291"
+id: "TRM-ENG-64820"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Counterconditioning, 1"

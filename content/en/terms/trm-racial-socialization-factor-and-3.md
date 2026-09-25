@@ -1,6 +1,6 @@
 ---
 slug: "trm-racial-socialization-factor-and-3"
-id: "TRM-ENG-41414"
+id: "TRM-ENG-55943"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "racial socialization factor and, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-827-beigel-de-naparstek-eds"
-id: "TRM-ENG-39487"
+id: "TRM-ENG-54016"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "827. Beigel DE, Naparstek (eds)"

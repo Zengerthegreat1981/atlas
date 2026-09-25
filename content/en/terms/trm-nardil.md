@@ -1,6 +1,6 @@
 ---
 slug: "trm-nardil"
-id: "TRM-ENG-38515"
+id: "TRM-ENG-53044"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Nardil"

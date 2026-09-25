@@ -1,6 +1,6 @@
 ---
 slug: "trm-395-kissin-b-begleiter-h-eds"
-id: "TRM-ENG-38967"
+id: "TRM-ENG-53496"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "395. Kissin B, Begleiter H (eds)"

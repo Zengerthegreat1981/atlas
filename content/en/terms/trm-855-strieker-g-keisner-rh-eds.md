@@ -1,6 +1,6 @@
 ---
 slug: "trm-855-strieker-g-keisner-rh-eds"
-id: "TRM-ENG-39517"
+id: "TRM-ENG-54046"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "855. Strieker G, Keisner RH (eds)"

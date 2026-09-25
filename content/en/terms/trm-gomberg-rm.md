@@ -1,6 +1,6 @@
 ---
 slug: "trm-gomberg-rm"
-id: "TRM-ENG-40764"
+id: "TRM-ENG-55293"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gomberg RM"

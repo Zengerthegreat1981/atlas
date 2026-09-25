@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-the-lie-detector-new-york"
-id: "TRM-ENG-35178"
+id: "TRM-ENG-49707"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of the lie detector. New York"

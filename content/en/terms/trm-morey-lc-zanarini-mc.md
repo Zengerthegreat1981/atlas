@@ -1,6 +1,6 @@
 ---
 slug: "trm-morey-lc-zanarini-mc"
-id: "TRM-ENG-47882"
+id: "TRM-ENG-62411"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Morey LC, Zanarini MC"

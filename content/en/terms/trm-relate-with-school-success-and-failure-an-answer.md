@@ -1,6 +1,6 @@
 ---
 slug: "trm-relate-with-school-success-and-failure-an-answer"
-id: "TRM-ENG-48644"
+id: "TRM-ENG-63173"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "relate with school success and failure? An answer"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-norrie-j-davidson-k-tata-p-et-al"
-id: "TRM-ENG-47906"
+id: "TRM-ENG-62435"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Norrie J, Davidson K, Tata P, et al"

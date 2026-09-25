@@ -1,6 +1,6 @@
 ---
 slug: "trm-medical-settings-of-1"
-id: "TRM-ENG-40810"
+id: "TRM-ENG-55339"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "medical settings of, 1"

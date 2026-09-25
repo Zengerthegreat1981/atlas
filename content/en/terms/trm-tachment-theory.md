@@ -1,6 +1,6 @@
 ---
 slug: "trm-tachment-theory"
-id: "TRM-ENG-48622"
+id: "TRM-ENG-63151"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tachment Theory"

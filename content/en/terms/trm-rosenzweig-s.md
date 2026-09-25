@@ -1,6 +1,6 @@
 ---
 slug: "trm-rosenzweig-s"
-id: "TRM-ENG-42179"
+id: "TRM-ENG-56708"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rosenzweig S"

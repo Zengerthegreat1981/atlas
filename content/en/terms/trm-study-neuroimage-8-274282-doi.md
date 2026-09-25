@@ -1,6 +1,6 @@
 ---
 slug: "trm-study-neuroimage-8-274282-doi"
-id: "TRM-ENG-36141"
+id: "TRM-ENG-65199"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "study. NeuroImage, 8, 274–282. doi"

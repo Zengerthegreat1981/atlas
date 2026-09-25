@@ -1,6 +1,6 @@
 ---
 slug: "trm-apy-curr-opin-psychiatry-15"
-id: "TRM-ENG-48204"
+id: "TRM-ENG-62733"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "apy. Curr Opin Psychiatry 15"

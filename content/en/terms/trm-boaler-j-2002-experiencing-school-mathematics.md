@@ -1,6 +1,6 @@
 ---
 slug: "trm-boaler-j-2002-experiencing-school-mathematics"
-id: "TRM-ENG-46326"
+id: "TRM-ENG-60855"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Boaler, J. (2002). Experiencing school mathematics"

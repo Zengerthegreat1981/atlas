@@ -1,6 +1,6 @@
 ---
 slug: "trm-clinical-routines"
-id: "TRM-ENG-42994"
+id: "TRM-ENG-57523"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "clinical routines"

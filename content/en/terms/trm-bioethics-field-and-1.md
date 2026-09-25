@@ -1,6 +1,6 @@
 ---
 slug: "trm-bioethics-field-and-1"
-id: "TRM-ENG-39375"
+id: "TRM-ENG-53904"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bioethics field and, 1"

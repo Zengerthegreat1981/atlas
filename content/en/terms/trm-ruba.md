@@ -1,6 +1,6 @@
 ---
 slug: "trm-ruba"
-id: "TRM-ENG-46002"
+id: "TRM-ENG-60531"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ruba"

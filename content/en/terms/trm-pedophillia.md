@@ -1,6 +1,6 @@
 ---
 slug: "trm-pedophillia"
-id: "TRM-ENG-52325"
+id: "TRM-ENG-66854"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pedophillia"

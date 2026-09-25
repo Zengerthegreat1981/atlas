@@ -1,6 +1,6 @@
 ---
 slug: "trm-world-of-work-without-a-college-degree-and-4"
-id: "TRM-ENG-42199"
+id: "TRM-ENG-56728"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "world of work without a college degree and, 4"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-buck-v-belland-1"
-id: "TRM-ENG-37735"
+id: "TRM-ENG-52264"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Buck v. Belland, 1"

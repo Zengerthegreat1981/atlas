@@ -1,6 +1,6 @@
 ---
 slug: "trm-history-8"
-id: "TRM-ENG-45711"
+id: "TRM-ENG-60240"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "HISTORY 8"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-mulated-the-supreme-ethical-maxim-this-way"
-id: "TRM-ENG-45961"
+id: "TRM-ENG-60490"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mulated the “supreme ethical maxim” this way"

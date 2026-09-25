@@ -1,6 +1,6 @@
 ---
 slug: "trm-3-selfdirectedness"
-id: "TRM-ENG-42286"
+id: "TRM-ENG-56815"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "3. Self-directedness"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-fry-william-1"
-id: "TRM-ENG-50445"
+id: "TRM-ENG-64974"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fry, William, 1"

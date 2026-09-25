@@ -1,6 +1,6 @@
 ---
 slug: "trm-anagram"
-id: "TRM-ENG-52045"
+id: "TRM-ENG-66574"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Anagram"

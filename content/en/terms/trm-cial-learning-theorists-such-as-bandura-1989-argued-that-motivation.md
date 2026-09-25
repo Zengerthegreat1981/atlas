@@ -1,6 +1,6 @@
 ---
 slug: "trm-cial-learning-theorists-such-as-bandura-1989-argued-that-motivation"
-id: "TRM-ENG-36285"
+id: "TRM-ENG-65343"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cial learning theorists such as Bandura (1989) argued that motivation"

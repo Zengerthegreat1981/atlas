@@ -1,6 +1,6 @@
 ---
 slug: "trm-overwhelm-the-individual"
-id: "TRM-ENG-44159"
+id: "TRM-ENG-58688"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "overwhelm the individual"

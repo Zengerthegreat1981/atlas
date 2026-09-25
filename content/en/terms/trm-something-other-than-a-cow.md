@@ -1,6 +1,6 @@
 ---
 slug: "trm-something-other-than-a-cow"
-id: "TRM-ENG-45522"
+id: "TRM-ENG-60051"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "something other than a cow"

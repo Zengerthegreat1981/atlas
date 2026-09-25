@@ -1,6 +1,6 @@
 ---
 slug: "trm-philosophers-temperaments"
-id: "TRM-ENG-45409"
+id: "TRM-ENG-59938"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "philosophers’ temperaments"

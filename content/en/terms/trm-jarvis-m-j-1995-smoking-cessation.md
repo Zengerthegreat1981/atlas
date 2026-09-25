@@ -1,6 +1,6 @@
 ---
 slug: "trm-jarvis-m-j-1995-smoking-cessation"
-id: "TRM-ENG-46575"
+id: "TRM-ENG-61104"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jarvis, M. J. (1995). Smoking cessation"

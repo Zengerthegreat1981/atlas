@@ -1,6 +1,6 @@
 ---
 slug: "trm-agromania"
-id: "TRM-ENG-52030"
+id: "TRM-ENG-66559"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Agromania"

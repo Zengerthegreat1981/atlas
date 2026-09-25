@@ -1,6 +1,6 @@
 ---
 slug: "trm-walen-sr-hauserman-nm-lavin-pj"
-id: "TRM-ENG-42694"
+id: "TRM-ENG-57223"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Walen SR, Hauserman NM, Lavin PJ"

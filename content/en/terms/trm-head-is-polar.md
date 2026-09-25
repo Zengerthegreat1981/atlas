@@ -1,6 +1,6 @@
 ---
 slug: "trm-head-is-polar"
-id: "TRM-ENG-34853"
+id: "TRM-ENG-49382"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "head is polar"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-7-managing-anxiety"
-id: "TRM-ENG-39335"
+id: "TRM-ENG-53864"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "7. Managing anxiety"

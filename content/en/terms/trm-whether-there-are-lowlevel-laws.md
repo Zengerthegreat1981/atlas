@@ -1,6 +1,6 @@
 ---
 slug: "trm-whether-there-are-lowlevel-laws"
-id: "TRM-ENG-45430"
+id: "TRM-ENG-59959"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "whether there are low-level laws"

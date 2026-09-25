@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-study-in-manicdepressive-psychosis"
-id: "TRM-ENG-44780"
+id: "TRM-ENG-59309"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, “A Study in Manic-Depressive Psychosis"

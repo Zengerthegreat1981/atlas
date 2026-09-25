@@ -1,6 +1,6 @@
 ---
 slug: "trm-sequential-sampling-models-2"
-id: "TRM-ENG-44762"
+id: "TRM-ENG-59291"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sequential sampling models, 2"

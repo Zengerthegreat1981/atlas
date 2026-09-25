@@ -1,6 +1,6 @@
 ---
 slug: "trm-shieldssa2002speakingfromtheheart"
-id: "TRM-ENG-37290"
+id: "TRM-ENG-66348"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shields,S.A.(2002).Speakingfromtheheart"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-motivationvol14newyork"
-id: "TRM-ENG-37979"
+id: "TRM-ENG-52508"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "motivation(Vol.14).NewYork"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-study-of-the-child-vol-20-pp-394"
-id: "TRM-ENG-44652"
+id: "TRM-ENG-59181"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Study of the Child, Vol. 20, pp. 394"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ffytche-d-h-catani-m-2005-beyond-localization"
-id: "TRM-ENG-34837"
+id: "TRM-ENG-63895"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ffytche, D. H., & Catani, M. (2005). Beyond localization"

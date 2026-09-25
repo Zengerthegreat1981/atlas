@@ -1,6 +1,6 @@
 ---
 slug: "trm-stone-m-h-1998a-the-personalities-of-murderers"
-id: "TRM-ENG-43562"
+id: "TRM-ENG-58091"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stone, M. H. (1998a). The personalities of murderers"

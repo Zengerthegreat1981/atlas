@@ -1,6 +1,6 @@
 ---
 slug: "trm-knowledge-is-a-f-active-mental-state"
-id: "TRM-ENG-44572"
+id: "TRM-ENG-59101"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Knowledge is a f active mental state"

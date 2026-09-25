@@ -1,6 +1,6 @@
 ---
 slug: "trm-3-psychoanalysis"
-id: "TRM-ENG-36287"
+id: "TRM-ENG-65345"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "3. Psychoanalysis"

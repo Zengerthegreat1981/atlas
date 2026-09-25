@@ -1,6 +1,6 @@
 ---
 slug: "trm-transfer-tasks-certain-conclusions-seem-justified"
-id: "TRM-ENG-37226"
+id: "TRM-ENG-66284"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "transfer tasks. Certain conclusions seem justified"

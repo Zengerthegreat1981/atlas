@@ -1,6 +1,6 @@
 ---
 slug: "trm-rural-practice-challenges-and-1"
-id: "TRM-ENG-41553"
+id: "TRM-ENG-56082"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rural practice challenges and, 1"

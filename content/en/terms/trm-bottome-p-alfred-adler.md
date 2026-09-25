@@ -1,6 +1,6 @@
 ---
 slug: "trm-bottome-p-alfred-adler"
-id: "TRM-ENG-44297"
+id: "TRM-ENG-58826"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bottome, P., Alfred Adler"

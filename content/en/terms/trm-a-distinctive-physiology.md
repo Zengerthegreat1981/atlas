@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-distinctive-physiology"
-id: "TRM-ENG-44860"
+id: "TRM-ENG-59389"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "a distinctive physiology"

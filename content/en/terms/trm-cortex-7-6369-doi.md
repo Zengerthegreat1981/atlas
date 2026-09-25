@@ -1,6 +1,6 @@
 ---
 slug: "trm-cortex-7-6369-doi"
-id: "TRM-ENG-35352"
+id: "TRM-ENG-64410"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cortex, 7, 63–69. doi"

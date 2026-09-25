@@ -1,6 +1,6 @@
 ---
 slug: "trm-markmpaludiedspsychologyofwomen"
-id: "TRM-ENG-37944"
+id: "TRM-ENG-67002"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mark&M.Paludi(Eds.),Psychologyofwomen"

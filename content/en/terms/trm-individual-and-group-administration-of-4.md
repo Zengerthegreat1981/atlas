@@ -1,6 +1,6 @@
 ---
 slug: "trm-individual-and-group-administration-of-4"
-id: "TRM-ENG-40514"
+id: "TRM-ENG-55043"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "individual and group administration of, 4"

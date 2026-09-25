@@ -1,6 +1,6 @@
 ---
 slug: "trm-confidence-and-to-control-the-power-of-stress"
-id: "TRM-ENG-46065"
+id: "TRM-ENG-60594"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "confidence and to control the power of stress."

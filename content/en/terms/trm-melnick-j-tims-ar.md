@@ -1,6 +1,6 @@
 ---
 slug: "trm-melnick-j-tims-ar"
-id: "TRM-ENG-41684"
+id: "TRM-ENG-56213"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Melnick J, Tims AR"

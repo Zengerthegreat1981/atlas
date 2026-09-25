@@ -1,6 +1,6 @@
 ---
 slug: "trm-memory-load-2"
-id: "TRM-ENG-44620"
+id: "TRM-ENG-59149"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Memory load, 2"

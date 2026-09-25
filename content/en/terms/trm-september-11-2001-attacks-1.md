@@ -1,6 +1,6 @@
 ---
 slug: "trm-september-11-2001-attacks-1"
-id: "TRM-ENG-44759"
+id: "TRM-ENG-59288"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "September 11, 2001 attacks, 1"

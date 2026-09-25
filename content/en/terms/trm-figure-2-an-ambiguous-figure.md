@@ -1,6 +1,6 @@
 ---
 slug: "trm-figure-2-an-ambiguous-figure"
-id: "TRM-ENG-45472"
+id: "TRM-ENG-60001"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Figure 2 An ambiguous figure"

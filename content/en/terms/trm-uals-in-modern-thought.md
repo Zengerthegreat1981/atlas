@@ -1,6 +1,6 @@
 ---
 slug: "trm-uals-in-modern-thought"
-id: "TRM-ENG-37259"
+id: "TRM-ENG-66317"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "uals. In modern thought"

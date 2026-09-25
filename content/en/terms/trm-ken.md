@@ -1,6 +1,6 @@
 ---
 slug: "trm-ken"
-id: "TRM-ENG-37904"
+id: "TRM-ENG-66962"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ken"

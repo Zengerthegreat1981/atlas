@@ -1,6 +1,6 @@
 ---
 slug: "trm-ologyvol-6a-pp2946-amsterdam"
-id: "TRM-ENG-36805"
+id: "TRM-ENG-51334"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ology(Vol. 6a, pp.29–46). Amsterdam"

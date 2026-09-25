@@ -1,6 +1,6 @@
 ---
 slug: "trm-mullan-h-sangiuliano-ia"
-id: "TRM-ENG-41784"
+id: "TRM-ENG-56313"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mullan H, Sangiuliano IA"

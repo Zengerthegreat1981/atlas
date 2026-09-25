@@ -1,6 +1,6 @@
 ---
 slug: "trm-godwin-2"
-id: "TRM-ENG-46121"
+id: "TRM-ENG-60650"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Godwin), 2"

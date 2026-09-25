@@ -1,6 +1,6 @@
 ---
 slug: "trm-noyes-ap-kolb-ls"
-id: "TRM-ENG-41854"
+id: "TRM-ENG-56383"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Noyes AP, Kolb LS"

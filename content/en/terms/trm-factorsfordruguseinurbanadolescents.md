@@ -1,6 +1,6 @@
 ---
 slug: "trm-factorsfordruguseinurbanadolescents"
-id: "TRM-ENG-46977"
+id: "TRM-ENG-61506"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "factorsfordruguseinurbanadolescents"

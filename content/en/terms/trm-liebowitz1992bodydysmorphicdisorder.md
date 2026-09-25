@@ -1,6 +1,6 @@
 ---
 slug: "trm-liebowitz1992bodydysmorphicdisorder"
-id: "TRM-ENG-49062"
+id: "TRM-ENG-63591"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Liebowitz.(1992).Bodydysmorphicdisorder"

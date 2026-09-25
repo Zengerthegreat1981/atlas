@@ -1,6 +1,6 @@
 ---
 slug: "trm-training-program-university-of-phoenix"
-id: "TRM-ENG-42006"
+id: "TRM-ENG-56535"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "training program (University of Phoenix"

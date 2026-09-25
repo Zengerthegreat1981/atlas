@@ -1,6 +1,6 @@
 ---
 slug: "trm-boden-m-a-2004-the-creative-mind"
-id: "TRM-ENG-46327"
+id: "TRM-ENG-60856"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Boden, M. A. (2004). The creative mind"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-association-with-personality-disorder-dimensions"
-id: "TRM-ENG-42886"
+id: "TRM-ENG-57415"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in association with personality disorder dimensions"

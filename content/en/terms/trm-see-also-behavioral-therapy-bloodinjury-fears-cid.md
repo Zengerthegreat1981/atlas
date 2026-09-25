@@ -1,6 +1,6 @@
 ---
 slug: "trm-see-also-behavioral-therapy-bloodinjury-fears-cid"
-id: "TRM-ENG-45954"
+id: "TRM-ENG-60483"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "See also BEHAVIORAL THERAPY; BLOOD-INJURY FEARS; (cid"

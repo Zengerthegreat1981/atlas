@@ -1,6 +1,6 @@
 ---
 slug: "trm-ms-1987-discovering-the-social-group"
-id: "TRM-ENG-35821"
+id: "TRM-ENG-64879"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "M.S. (1987). Discovering the social group"

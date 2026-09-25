@@ -1,6 +1,6 @@
 ---
 slug: "trm-visual-perceptual-states"
-id: "TRM-ENG-45680"
+id: "TRM-ENG-60209"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "visual perceptual states"

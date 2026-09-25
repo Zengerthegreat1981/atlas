@@ -1,6 +1,6 @@
 ---
 slug: "trm-hill-c-2004-helping-skills"
-id: "TRM-ENG-38174"
+id: "TRM-ENG-52703"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hill, C. (2004). Helping skills"

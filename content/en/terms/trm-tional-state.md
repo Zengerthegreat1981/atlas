@@ -1,6 +1,6 @@
 ---
 slug: "trm-tional-state"
-id: "TRM-ENG-45628"
+id: "TRM-ENG-60157"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tional state"

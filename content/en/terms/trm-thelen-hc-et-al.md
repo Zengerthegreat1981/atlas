@@ -1,6 +1,6 @@
 ---
 slug: "trm-thelen-hc-et-al"
-id: "TRM-ENG-42576"
+id: "TRM-ENG-57105"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Thelen HC, et al"

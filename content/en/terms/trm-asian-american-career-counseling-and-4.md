@@ -1,6 +1,6 @@
 ---
 slug: "trm-asian-american-career-counseling-and-4"
-id: "TRM-ENG-37624"
+id: "TRM-ENG-52153"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Asian American career counseling and, 4"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-subtitle-of-cavells-cities-of-words"
-id: "TRM-ENG-47380"
+id: "TRM-ENG-61909"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The subtitle of Cavell’s Cities of Words"

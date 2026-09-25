@@ -1,6 +1,6 @@
 ---
 slug: "trm-stead-g-b-2004-culture-and-career-psychology"
-id: "TRM-ENG-38815"
+id: "TRM-ENG-53344"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stead, G. B. (2004). Culture and career psychology"

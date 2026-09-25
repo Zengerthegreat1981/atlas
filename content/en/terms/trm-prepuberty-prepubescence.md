@@ -1,6 +1,6 @@
 ---
 slug: "trm-prepuberty-prepubescence"
-id: "TRM-ENG-43808"
+id: "TRM-ENG-58337"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "prepuberty; prepubescence."

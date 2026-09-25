@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-culture-and-psychologynew-york"
-id: "TRM-ENG-36772"
+id: "TRM-ENG-65830"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of culture and psychology.New York"

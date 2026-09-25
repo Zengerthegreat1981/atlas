@@ -1,6 +1,6 @@
 ---
 slug: "trm-yieldatotaldistressscore"
-id: "TRM-ENG-43983"
+id: "TRM-ENG-58512"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "yieldatotaldistressscore"

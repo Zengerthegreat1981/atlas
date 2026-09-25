@@ -1,6 +1,6 @@
 ---
 slug: "trm-goldstein-a-p-1982-psychological-skill-training"
-id: "TRM-ENG-49005"
+id: "TRM-ENG-63534"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goldstein, A. P. (1982). Psychological skill training"

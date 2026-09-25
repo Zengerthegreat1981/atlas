@@ -1,6 +1,6 @@
 ---
 slug: "trm-scherz-fh"
-id: "TRM-ENG-42267"
+id: "TRM-ENG-56796"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Scherz FH"

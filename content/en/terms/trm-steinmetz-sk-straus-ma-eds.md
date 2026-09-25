@@ -1,6 +1,6 @@
 ---
 slug: "trm-steinmetz-sk-straus-ma-eds"
-id: "TRM-ENG-42457"
+id: "TRM-ENG-56986"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Steinmetz SK & Straus MA (eds)"

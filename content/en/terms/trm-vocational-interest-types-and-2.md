@@ -1,6 +1,6 @@
 ---
 slug: "trm-vocational-interest-types-and-2"
-id: "TRM-ENG-42132"
+id: "TRM-ENG-56661"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "vocational interest types and, 2"

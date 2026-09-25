@@ -1,6 +1,6 @@
 ---
 slug: "trm-lodensteijn-eds-psychopaths"
-id: "TRM-ENG-42446"
+id: "TRM-ENG-56975"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lodensteijn (Eds.), Psychopaths"

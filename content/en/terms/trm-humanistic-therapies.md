@@ -1,6 +1,6 @@
 ---
 slug: "trm-humanistic-therapies"
-id: "TRM-ENG-50554"
+id: "TRM-ENG-65083"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Humanistic Therapies"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-or-other-changes-integration-and-wellbeing-bionomy"
-id: "TRM-ENG-51665"
+id: "TRM-ENG-66194"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "or other changes, integration, and well-being bionomy"

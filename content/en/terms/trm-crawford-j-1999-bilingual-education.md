@@ -1,6 +1,6 @@
 ---
 slug: "trm-crawford-j-1999-bilingual-education"
-id: "TRM-ENG-46463"
+id: "TRM-ENG-60992"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Crawford, J. (1999). Bilingual education"

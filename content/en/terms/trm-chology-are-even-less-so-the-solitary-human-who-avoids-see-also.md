@@ -1,6 +1,6 @@
 ---
 slug: "trm-chology-are-even-less-so-the-solitary-human-who-avoids-see-also"
-id: "TRM-ENG-36276"
+id: "TRM-ENG-65334"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chology are even less so. The solitary human who avoids See also"

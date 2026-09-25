@@ -1,6 +1,6 @@
 ---
 slug: "trm-following-considerations"
-id: "TRM-ENG-45037"
+id: "TRM-ENG-59566"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "following considerations"

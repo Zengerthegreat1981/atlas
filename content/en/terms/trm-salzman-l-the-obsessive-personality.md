@@ -1,6 +1,6 @@
 ---
 slug: "trm-salzman-l-the-obsessive-personality"
-id: "TRM-ENG-44614"
+id: "TRM-ENG-59143"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Salzman, L., The Obsessive Personality"

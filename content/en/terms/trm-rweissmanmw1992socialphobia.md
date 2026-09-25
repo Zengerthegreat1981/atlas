@@ -1,6 +1,6 @@
 ---
 slug: "trm-rweissmanmw1992socialphobia"
-id: "TRM-ENG-49133"
+id: "TRM-ENG-63662"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "R.,&Weissman,M.W.(1992).Socialphobia"

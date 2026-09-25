@@ -1,6 +1,6 @@
 ---
 slug: "trm-goulding-rl"
-id: "TRM-ENG-40789"
+id: "TRM-ENG-55318"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goulding RL"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-their-parents-lives"
-id: "TRM-ENG-51885"
+id: "TRM-ENG-66414"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "their parents’ lives"

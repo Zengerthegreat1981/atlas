@@ -1,6 +1,6 @@
 ---
 slug: "trm-face"
-id: "TRM-ENG-34612"
+id: "TRM-ENG-63670"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Face"

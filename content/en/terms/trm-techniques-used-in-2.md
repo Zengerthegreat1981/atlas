@@ -1,6 +1,6 @@
 ---
 slug: "trm-techniques-used-in-2"
-id: "TRM-ENG-41849"
+id: "TRM-ENG-56378"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "techniques used in, 2"

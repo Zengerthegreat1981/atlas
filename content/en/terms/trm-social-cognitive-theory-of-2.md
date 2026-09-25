@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-cognitive-theory-of-2"
-id: "TRM-ENG-41690"
+id: "TRM-ENG-56219"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social cognitive theory of, 2"

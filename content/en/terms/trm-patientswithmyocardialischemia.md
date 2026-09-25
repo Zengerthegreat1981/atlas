@@ -1,6 +1,6 @@
 ---
 slug: "trm-patientswithmyocardialischemia"
-id: "TRM-ENG-47191"
+id: "TRM-ENG-61720"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "patientswithmyocardialischemia"

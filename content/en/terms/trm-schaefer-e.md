@@ -1,6 +1,6 @@
 ---
 slug: "trm-schaefer-e"
-id: "TRM-ENG-48045"
+id: "TRM-ENG-62574"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schaefer E"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ods-used-in-providing-measures-of-basic-sensory-sensitivity-stevenslaw"
-id: "TRM-ENG-36760"
+id: "TRM-ENG-65818"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ods used in providing measures of basic sensory sensitivity, Stevens’law"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-borrow-from-and-add-to-his-list"
-id: "TRM-ENG-48225"
+id: "TRM-ENG-62754"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "borrow from and add to his list"

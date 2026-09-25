@@ -1,6 +1,6 @@
 ---
 slug: "trm-positive-vsnegative-reinforcement-from-1"
-id: "TRM-ENG-41206"
+id: "TRM-ENG-55735"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "positive vs.negative reinforcement from, 1"

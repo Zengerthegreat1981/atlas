@@ -1,6 +1,6 @@
 ---
 slug: "trm-organizational-diversity-and-3"
-id: "TRM-ENG-41067"
+id: "TRM-ENG-55596"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "organizational diversity and, 3"

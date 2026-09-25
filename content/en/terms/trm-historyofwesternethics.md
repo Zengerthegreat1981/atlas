@@ -1,6 +1,6 @@
 ---
 slug: "trm-historyofwesternethics"
-id: "TRM-ENG-45918"
+id: "TRM-ENG-60447"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "historyofWesternethics"

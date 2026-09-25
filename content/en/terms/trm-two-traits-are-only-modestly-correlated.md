@@ -1,6 +1,6 @@
 ---
 slug: "trm-two-traits-are-only-modestly-correlated"
-id: "TRM-ENG-36224"
+id: "TRM-ENG-50753"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "two traits are only modestly correlated"

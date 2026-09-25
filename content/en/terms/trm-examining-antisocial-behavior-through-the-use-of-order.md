@@ -1,6 +1,6 @@
 ---
 slug: "trm-examining-antisocial-behavior-through-the-use-of-order"
-id: "TRM-ENG-43423"
+id: "TRM-ENG-57952"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Examining antisocial behavior through the use of order"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-coronaryheartdiseaseboston"
-id: "TRM-ENG-46919"
+id: "TRM-ENG-61448"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "coronaryheartdisease.Boston"

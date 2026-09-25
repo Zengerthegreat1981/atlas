@@ -1,6 +1,6 @@
 ---
 slug: "trm-abrams-r-fink-m"
-id: "TRM-ENG-39629"
+id: "TRM-ENG-54158"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Abrams R, Fink M"

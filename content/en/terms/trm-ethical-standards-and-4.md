@@ -1,6 +1,6 @@
 ---
 slug: "trm-ethical-standards-and-4"
-id: "TRM-ENG-40091"
+id: "TRM-ENG-54620"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ethical standards and, 4"

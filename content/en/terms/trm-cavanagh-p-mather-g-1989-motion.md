@@ -1,6 +1,6 @@
 ---
 slug: "trm-cavanagh-p-mather-g-1989-motion"
-id: "TRM-ENG-35618"
+id: "TRM-ENG-64676"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cavanagh, P., & Mather, G. (1989). Motion"

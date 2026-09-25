@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-limited-reparenting"
-id: "TRM-ENG-44150"
+id: "TRM-ENG-58679"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of limited reparenting"

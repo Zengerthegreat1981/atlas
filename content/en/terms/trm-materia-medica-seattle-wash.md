@@ -1,6 +1,6 @@
 ---
 slug: "trm-materia-medica-seattle-wash"
-id: "TRM-ENG-45882"
+id: "TRM-ENG-60411"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Materia Medica. Seattle, Wash."

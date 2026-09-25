@@ -1,6 +1,6 @@
 ---
 slug: "trm-tomasello-michael-2"
-id: "TRM-ENG-47401"
+id: "TRM-ENG-61930"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tomasello, Michael, 2"

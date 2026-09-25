@@ -1,6 +1,6 @@
 ---
 slug: "trm-cultural-encapsulation-and-3"
-id: "TRM-ENG-39812"
+id: "TRM-ENG-54341"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cultural encapsulation and, 3"

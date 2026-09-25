@@ -1,6 +1,6 @@
 ---
 slug: "trm-antebi-rn"
-id: "TRM-ENG-39706"
+id: "TRM-ENG-54235"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Antebi RN"

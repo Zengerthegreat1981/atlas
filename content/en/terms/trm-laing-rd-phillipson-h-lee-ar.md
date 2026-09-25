@@ -1,6 +1,6 @@
 ---
 slug: "trm-laing-rd-phillipson-h-lee-ar"
-id: "TRM-ENG-41348"
+id: "TRM-ENG-55877"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Laing RD, Phillipson H, Lee AR"

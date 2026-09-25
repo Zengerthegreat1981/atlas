@@ -1,6 +1,6 @@
 ---
 slug: "trm-duct-systems-and-genitalia"
-id: "TRM-ENG-44999"
+id: "TRM-ENG-59528"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "duct systems and genitalia"

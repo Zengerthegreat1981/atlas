@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-internal-states"
-id: "TRM-ENG-34740"
+id: "TRM-ENG-63798"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and internal states"

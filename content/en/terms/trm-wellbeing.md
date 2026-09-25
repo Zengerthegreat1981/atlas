@@ -1,6 +1,6 @@
 ---
 slug: "trm-wellbeing"
-id: "TRM-ENG-38431"
+id: "TRM-ENG-52960"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "well-being"

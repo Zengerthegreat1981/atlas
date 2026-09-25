@@ -1,6 +1,6 @@
 ---
 slug: "trm-composite-international-diagnostic-interviews"
-id: "TRM-ENG-37854"
+id: "TRM-ENG-66912"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Composite International Diagnostic Interviews"

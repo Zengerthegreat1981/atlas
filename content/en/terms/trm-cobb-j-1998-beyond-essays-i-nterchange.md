@@ -1,6 +1,6 @@
 ---
 slug: "trm-cobb-j-1998-beyond-essays-i-nterchange"
-id: "TRM-ENG-46407"
+id: "TRM-ENG-60936"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cobb, J. (1998). Beyond essays. I nterchange"

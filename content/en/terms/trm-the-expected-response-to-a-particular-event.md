@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-expected-response-to-a-particular-event"
-id: "TRM-ENG-46232"
+id: "TRM-ENG-60761"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the expected response to a particular event"

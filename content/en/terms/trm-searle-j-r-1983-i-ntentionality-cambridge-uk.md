@@ -1,6 +1,6 @@
 ---
 slug: "trm-searle-j-r-1983-i-ntentionality-cambridge-uk"
-id: "TRM-ENG-44750"
+id: "TRM-ENG-59279"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Searle, J. R. (1983). I ntentionality. Cambridge, UK"

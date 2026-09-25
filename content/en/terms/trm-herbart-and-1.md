@@ -1,6 +1,6 @@
 ---
 slug: "trm-herbart-and-1"
-id: "TRM-ENG-46754"
+id: "TRM-ENG-61283"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Herbart and, 1"

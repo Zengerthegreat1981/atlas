@@ -1,6 +1,6 @@
 ---
 slug: "trm-kalvenhzeiselh1966theamericanjuryboston"
-id: "TRM-ENG-36989"
+id: "TRM-ENG-66047"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kalven,H.,&Zeisel,H.(1966).TheAmericanjury.Boston"

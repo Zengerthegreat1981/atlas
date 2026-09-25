@@ -1,6 +1,6 @@
 ---
 slug: "trm-tude"
-id: "TRM-ENG-43955"
+id: "TRM-ENG-58484"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tude."

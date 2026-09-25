@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychiatr-epidemiol-35"
-id: "TRM-ENG-47948"
+id: "TRM-ENG-62477"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychiatr Epidemiol 35"

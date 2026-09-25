@@ -1,6 +1,6 @@
 ---
 slug: "trm-headachepatienti"
-id: "TRM-ENG-47007"
+id: "TRM-ENG-61536"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "headachepatient-I"

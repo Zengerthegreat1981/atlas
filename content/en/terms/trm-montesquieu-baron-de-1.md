@@ -1,6 +1,6 @@
 ---
 slug: "trm-montesquieu-baron-de-1"
-id: "TRM-ENG-47020"
+id: "TRM-ENG-61549"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Montesquieu, Baron de, 1"

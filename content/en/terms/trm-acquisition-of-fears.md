@@ -1,6 +1,6 @@
 ---
 slug: "trm-acquisition-of-fears"
-id: "TRM-ENG-49233"
+id: "TRM-ENG-63762"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "acquisition of fears"

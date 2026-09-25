@@ -1,6 +1,6 @@
 ---
 slug: "trm-latino-psychology-2004"
-id: "TRM-ENG-38356"
+id: "TRM-ENG-52885"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Latino Psychology 2004"

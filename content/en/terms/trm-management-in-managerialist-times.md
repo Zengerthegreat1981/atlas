@@ -1,6 +1,6 @@
 ---
 slug: "trm-management-in-managerialist-times"
-id: "TRM-ENG-48311"
+id: "TRM-ENG-62840"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "management in managerialist times"

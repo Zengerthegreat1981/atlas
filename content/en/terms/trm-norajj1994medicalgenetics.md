@@ -1,6 +1,6 @@
 ---
 slug: "trm-norajj1994medicalgenetics"
-id: "TRM-ENG-46646"
+id: "TRM-ENG-61175"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nora,J.J.(1994).Medicalgenetics"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-crow-hj-cooper-r-phillips-dg"
-id: "TRM-ENG-40271"
+id: "TRM-ENG-54800"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Crow HJ, Cooper R, Phillips DG"

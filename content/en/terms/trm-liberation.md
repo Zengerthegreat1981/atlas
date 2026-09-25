@@ -1,6 +1,6 @@
 ---
 slug: "trm-liberation"
-id: "TRM-ENG-37926"
+id: "TRM-ENG-52455"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "liberation"

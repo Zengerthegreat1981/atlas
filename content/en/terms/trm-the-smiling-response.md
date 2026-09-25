@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-smiling-response"
-id: "TRM-ENG-44833"
+id: "TRM-ENG-59362"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, “The Smiling Response"

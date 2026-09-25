@@ -1,6 +1,6 @@
 ---
 slug: "trm-testosteronecortisol-ratio"
-id: "TRM-ENG-43294"
+id: "TRM-ENG-57823"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "testosterone–cortisol ratio"

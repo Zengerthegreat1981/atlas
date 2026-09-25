@@ -1,6 +1,6 @@
 ---
 slug: "trm-ders-is-acquired-chronic-tolerance"
-id: "TRM-ENG-34969"
+id: "TRM-ENG-64027"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ders is acquired (chronic) tolerance"

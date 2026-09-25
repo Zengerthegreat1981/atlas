@@ -1,6 +1,6 @@
 ---
 slug: "trm-ioral-research"
-id: "TRM-ENG-35090"
+id: "TRM-ENG-49619"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ioral research"

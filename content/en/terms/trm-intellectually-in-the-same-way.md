@@ -1,6 +1,6 @@
 ---
 slug: "trm-intellectually-in-the-same-way"
-id: "TRM-ENG-48215"
+id: "TRM-ENG-62744"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "intellectually in the same way"

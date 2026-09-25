@@ -1,6 +1,6 @@
 ---
 slug: "trm-zucker-h"
-id: "TRM-ENG-42926"
+id: "TRM-ENG-57455"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Zucker H"

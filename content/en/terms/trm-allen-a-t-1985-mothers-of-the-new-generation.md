@@ -1,6 +1,6 @@
 ---
 slug: "trm-allen-a-t-1985-mothers-of-the-new-generation"
-id: "TRM-ENG-46217"
+id: "TRM-ENG-60746"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Allen, A. T. (1985). Mothers of the new generation"

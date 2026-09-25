@@ -1,6 +1,6 @@
 ---
 slug: "trm-offer-a-solution-to-this-problem"
-id: "TRM-ENG-43077"
+id: "TRM-ENG-57606"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "offer a solution to this problem"

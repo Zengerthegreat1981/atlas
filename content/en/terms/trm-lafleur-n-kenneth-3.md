@@ -1,6 +1,6 @@
 ---
 slug: "trm-lafleur-n-kenneth-3"
-id: "TRM-ENG-38350"
+id: "TRM-ENG-52879"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "LaFleur, N. Kenneth, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-itself-are-regarded-as-utopian"
-id: "TRM-ENG-48241"
+id: "TRM-ENG-62770"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "itself, are regarded as “utopian”"

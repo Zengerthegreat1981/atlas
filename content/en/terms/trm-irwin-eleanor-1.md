@@ -1,6 +1,6 @@
 ---
 slug: "trm-irwin-eleanor-1"
-id: "TRM-ENG-50581"
+id: "TRM-ENG-65110"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Irwin, Eleanor, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-oviatt-s-l-2002-breaking-the-robustness-barrier"
-id: "TRM-ENG-44662"
+id: "TRM-ENG-59191"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Oviatt, S. L. (2002). Breaking the robustness barrier"

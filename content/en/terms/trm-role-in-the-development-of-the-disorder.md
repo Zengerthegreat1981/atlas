@@ -1,6 +1,6 @@
 ---
 slug: "trm-role-in-the-development-of-the-disorder"
-id: "TRM-ENG-43185"
+id: "TRM-ENG-57714"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "role in the development of the disorder"

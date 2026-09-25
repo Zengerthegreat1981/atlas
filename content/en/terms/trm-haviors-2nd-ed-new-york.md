@@ -1,6 +1,6 @@
 ---
 slug: "trm-haviors-2nd-ed-new-york"
-id: "TRM-ENG-35056"
+id: "TRM-ENG-49585"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "haviors (2nd ed.) New York"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-edcognitiveanalytictherapy"
-id: "TRM-ENG-48775"
+id: "TRM-ENG-63304"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Ed.),Cognitiveanalytictherapy"

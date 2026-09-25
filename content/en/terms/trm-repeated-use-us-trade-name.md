@@ -1,6 +1,6 @@
 ---
 slug: "trm-repeated-use-us-trade-name"
-id: "TRM-ENG-43837"
+id: "TRM-ENG-58366"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "repeated use. U.S. trade name"

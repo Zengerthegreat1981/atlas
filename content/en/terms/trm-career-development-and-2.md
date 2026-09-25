@@ -1,6 +1,6 @@
 ---
 slug: "trm-career-development-and-2"
-id: "TRM-ENG-39423"
+id: "TRM-ENG-53952"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "career development and, 2"

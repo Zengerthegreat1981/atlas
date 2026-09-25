@@ -1,6 +1,6 @@
 ---
 slug: "trm-infants-become-mobile"
-id: "TRM-ENG-45108"
+id: "TRM-ENG-59637"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "infants become mobile"

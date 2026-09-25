@@ -1,6 +1,6 @@
 ---
 slug: "trm-yarrow-l-maternal-deprivation"
-id: "TRM-ENG-44699"
+id: "TRM-ENG-59228"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Yarrow, L., “Maternal Deprivation"

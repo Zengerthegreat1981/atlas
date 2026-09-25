@@ -1,6 +1,6 @@
 ---
 slug: "trm-2nd-ed-new-york"
-id: "TRM-ENG-34569"
+id: "TRM-ENG-49098"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2nd ed.). New York"

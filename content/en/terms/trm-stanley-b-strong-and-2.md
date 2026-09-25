@@ -1,6 +1,6 @@
 ---
 slug: "trm-stanley-b-strong-and-2"
-id: "TRM-ENG-38813"
+id: "TRM-ENG-53342"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stanley B. Strong and, 2"

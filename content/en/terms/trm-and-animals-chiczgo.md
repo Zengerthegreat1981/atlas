@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-animals-chiczgo"
-id: "TRM-ENG-34863"
+id: "TRM-ENG-63921"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and animals. Chiczgo"

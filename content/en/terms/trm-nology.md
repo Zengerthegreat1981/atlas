@@ -1,6 +1,6 @@
 ---
 slug: "trm-nology"
-id: "TRM-ENG-46165"
+id: "TRM-ENG-60694"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nology"

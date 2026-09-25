@@ -1,6 +1,6 @@
 ---
 slug: "trm-had-done-implicitly"
-id: "TRM-ENG-37803"
+id: "TRM-ENG-52332"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "had done implicitly"

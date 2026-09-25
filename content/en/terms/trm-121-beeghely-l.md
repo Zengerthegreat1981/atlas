@@ -1,6 +1,6 @@
 ---
 slug: "trm-121-beeghely-l"
-id: "TRM-ENG-38587"
+id: "TRM-ENG-53116"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "121. Beeghely L"

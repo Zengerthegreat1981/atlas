@@ -1,6 +1,6 @@
 ---
 slug: "trm-with-the-stimulus-is-not-clearly-understood-but-phobias"
-id: "TRM-ENG-46272"
+id: "TRM-ENG-60801"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "with the stimulus is not clearly understood, but Phobias"

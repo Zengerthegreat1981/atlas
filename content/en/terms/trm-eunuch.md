@@ -1,6 +1,6 @@
 ---
 slug: "trm-eunuch"
-id: "TRM-ENG-52173"
+id: "TRM-ENG-66702"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Eunuch"

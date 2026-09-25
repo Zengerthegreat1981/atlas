@@ -1,6 +1,6 @@
 ---
 slug: "trm-axis-ii-new-york"
-id: "TRM-ENG-42320"
+id: "TRM-ENG-56849"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Axis II. New York"

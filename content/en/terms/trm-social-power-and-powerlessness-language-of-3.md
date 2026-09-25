@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-power-and-powerlessness-language-of-3"
-id: "TRM-ENG-41708"
+id: "TRM-ENG-56237"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social power and powerlessness language of, 3"

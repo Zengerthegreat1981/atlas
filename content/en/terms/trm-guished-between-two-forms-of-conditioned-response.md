@@ -1,6 +1,6 @@
 ---
 slug: "trm-guished-between-two-forms-of-conditioned-response"
-id: "TRM-ENG-36504"
+id: "TRM-ENG-65562"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "guished between two forms of conditioned response"

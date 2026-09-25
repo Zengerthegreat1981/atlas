@@ -1,6 +1,6 @@
 ---
 slug: "trm-spencer-am"
-id: "TRM-ENG-42415"
+id: "TRM-ENG-56944"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spencer AM"

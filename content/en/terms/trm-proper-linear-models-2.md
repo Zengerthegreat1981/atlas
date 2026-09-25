@@ -1,6 +1,6 @@
 ---
 slug: "trm-proper-linear-models-2"
-id: "TRM-ENG-44711"
+id: "TRM-ENG-59240"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Proper linear models, 2"

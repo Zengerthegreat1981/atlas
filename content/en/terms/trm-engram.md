@@ -1,6 +1,6 @@
 ---
 slug: "trm-engram"
-id: "TRM-ENG-52163"
+id: "TRM-ENG-66692"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Engram"

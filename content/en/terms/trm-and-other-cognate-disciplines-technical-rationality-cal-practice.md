@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-other-cognate-disciplines-technical-rationality-cal-practice"
-id: "TRM-ENG-47609"
+id: "TRM-ENG-62138"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and other cognate disciplines. Technical rationality cal practice"

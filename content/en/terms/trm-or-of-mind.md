@@ -1,6 +1,6 @@
 ---
 slug: "trm-or-of-mind"
-id: "TRM-ENG-38063"
+id: "TRM-ENG-67121"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "or of Mind"

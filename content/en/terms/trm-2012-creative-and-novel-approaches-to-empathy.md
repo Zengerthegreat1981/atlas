@@ -1,6 +1,6 @@
 ---
 slug: "trm-2012-creative-and-novel-approaches-to-empathy"
-id: "TRM-ENG-49904"
+id: "TRM-ENG-64433"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2012). Creative and novel approaches to empathy"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-has-tended-to-concentrate-on"
-id: "TRM-ENG-45503"
+id: "TRM-ENG-60032"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "has tended to concentrate on"

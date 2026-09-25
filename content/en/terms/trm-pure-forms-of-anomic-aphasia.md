@@ -1,6 +1,6 @@
 ---
 slug: "trm-pure-forms-of-anomic-aphasia"
-id: "TRM-ENG-35911"
+id: "TRM-ENG-64969"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pure forms of anomic aphasia"

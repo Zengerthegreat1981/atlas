@@ -1,6 +1,6 @@
 ---
 slug: "trm-74pp211226lyonfrance"
-id: "TRM-ENG-46383"
+id: "TRM-ENG-60912"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "74,pp.211±226).Lyon,France"

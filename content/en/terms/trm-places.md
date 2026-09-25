@@ -1,6 +1,6 @@
 ---
 slug: "trm-places"
-id: "TRM-ENG-43803"
+id: "TRM-ENG-58332"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "places."

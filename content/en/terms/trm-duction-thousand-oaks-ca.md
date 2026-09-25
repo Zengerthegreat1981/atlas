@@ -1,6 +1,6 @@
 ---
 slug: "trm-duction-thousand-oaks-ca"
-id: "TRM-ENG-34993"
+id: "TRM-ENG-49522"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "duction. Thousand Oaks. CA"

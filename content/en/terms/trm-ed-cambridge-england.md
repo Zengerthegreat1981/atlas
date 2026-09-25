@@ -1,6 +1,6 @@
 ---
 slug: "trm-ed-cambridge-england"
-id: "TRM-ENG-46543"
+id: "TRM-ENG-61072"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ed.). Cambridge, England"

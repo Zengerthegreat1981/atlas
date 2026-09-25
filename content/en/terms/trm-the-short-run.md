@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-short-run"
-id: "TRM-ENG-48856"
+id: "TRM-ENG-63385"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the short run"

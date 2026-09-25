@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-world-and"
-id: "TRM-ENG-37133"
+id: "TRM-ENG-66191"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the world, and"

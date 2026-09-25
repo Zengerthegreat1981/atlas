@@ -1,6 +1,6 @@
 ---
 slug: "trm-goldman-g-retrospect-and-prospect"
-id: "TRM-ENG-44413"
+id: "TRM-ENG-58942"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goldman, G., “Retrospect and Prospect"

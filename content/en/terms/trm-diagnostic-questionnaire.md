@@ -1,6 +1,6 @@
 ---
 slug: "trm-diagnostic-questionnaire"
-id: "TRM-ENG-43411"
+id: "TRM-ENG-57940"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Diagnostic Questionnaire"

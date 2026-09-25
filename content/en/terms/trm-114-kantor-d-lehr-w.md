@@ -1,6 +1,6 @@
 ---
 slug: "trm-114-kantor-d-lehr-w"
-id: "TRM-ENG-38575"
+id: "TRM-ENG-53104"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "114. Kantor D, Lehr W"

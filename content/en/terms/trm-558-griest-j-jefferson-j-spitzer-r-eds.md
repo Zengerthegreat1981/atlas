@@ -1,6 +1,6 @@
 ---
 slug: "trm-558-griest-j-jefferson-j-spitzer-r-eds"
-id: "TRM-ENG-39169"
+id: "TRM-ENG-53698"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "558. Griest J, Jefferson J, Spitzer R (eds)"

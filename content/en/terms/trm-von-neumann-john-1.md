@@ -1,6 +1,6 @@
 ---
 slug: "trm-von-neumann-john-1"
-id: "TRM-ENG-44839"
+id: "TRM-ENG-59368"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Von Neumann, John, 1"

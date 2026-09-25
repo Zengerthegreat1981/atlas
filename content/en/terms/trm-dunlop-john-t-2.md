@@ -1,6 +1,6 @@
 ---
 slug: "trm-dunlop-john-t-2"
-id: "TRM-ENG-46525"
+id: "TRM-ENG-61054"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dunlop, John T., 2"

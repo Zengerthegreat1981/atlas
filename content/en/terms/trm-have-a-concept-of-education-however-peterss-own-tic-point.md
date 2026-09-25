@@ -1,6 +1,6 @@
 ---
 slug: "trm-have-a-concept-of-education-however-peterss-own-tic-point"
-id: "TRM-ENG-48105"
+id: "TRM-ENG-62634"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "have a concept of education; however, Peters’s own tic point"

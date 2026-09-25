@@ -1,6 +1,6 @@
 ---
 slug: "trm-sponse-to-fluoxetine"
-id: "TRM-ENG-48604"
+id: "TRM-ENG-63133"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sponse to fluoxetine"

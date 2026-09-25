@@ -1,6 +1,6 @@
 ---
 slug: "trm-alienist"
-id: "TRM-ENG-52037"
+id: "TRM-ENG-66566"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Alienist"

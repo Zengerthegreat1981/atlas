@@ -1,6 +1,6 @@
 ---
 slug: "trm-health-service-publication-no-572-washington-dc"
-id: "TRM-ENG-46545"
+id: "TRM-ENG-61074"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Health Service Publication No. 572. Washington, DC"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapies-for-borderline-personality-disorder"
-id: "TRM-ENG-43321"
+id: "TRM-ENG-57850"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapies for borderline personality disorder"

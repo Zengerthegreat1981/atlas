@@ -1,6 +1,6 @@
 ---
 slug: "trm-produce-shortterm-memory-deficits"
-id: "TRM-ENG-35264"
+id: "TRM-ENG-64322"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "produce short-term memory deficits"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-performancecontingent-rewards-and-2"
-id: "TRM-ENG-41131"
+id: "TRM-ENG-55660"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "performance-contingent rewards and, 2"

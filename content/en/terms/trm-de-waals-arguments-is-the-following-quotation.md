@@ -1,6 +1,6 @@
 ---
 slug: "trm-de-waals-arguments-is-the-following-quotation"
-id: "TRM-ENG-37674"
+id: "TRM-ENG-66732"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "de Waal’s arguments is the following quotation"

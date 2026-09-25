@@ -1,6 +1,6 @@
 ---
 slug: "trm-who-would-wish-to-dissent"
-id: "TRM-ENG-49045"
+id: "TRM-ENG-63574"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "who would wish to dissent"

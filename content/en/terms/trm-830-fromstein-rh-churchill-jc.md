@@ -1,6 +1,6 @@
 ---
 slug: "trm-830-fromstein-rh-churchill-jc"
-id: "TRM-ENG-39491"
+id: "TRM-ENG-54020"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "830. Fromstein RH, Churchill JC"

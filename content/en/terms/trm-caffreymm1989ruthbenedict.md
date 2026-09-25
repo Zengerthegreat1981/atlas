@@ -1,6 +1,6 @@
 ---
 slug: "trm-caffreymm1989ruthbenedict"
-id: "TRM-ENG-36675"
+id: "TRM-ENG-65733"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Caffrey,M.M.(1989).RuthBenedict"

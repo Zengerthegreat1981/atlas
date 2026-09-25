@@ -1,6 +1,6 @@
 ---
 slug: "trm-american-psychologist"
-id: "TRM-ENG-39688"
+id: "TRM-ENG-54217"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "American Psychologist"

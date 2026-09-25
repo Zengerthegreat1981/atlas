@@ -1,6 +1,6 @@
 ---
 slug: "trm-gouldrl1997cancerandgenetics"
-id: "TRM-ENG-46530"
+id: "TRM-ENG-61059"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gould,R.L.(1997).Cancerandgenetics"

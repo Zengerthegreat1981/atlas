@@ -1,6 +1,6 @@
 ---
 slug: "trm-morrison-jk-layton-d-newman-j"
-id: "TRM-ENG-41767"
+id: "TRM-ENG-56296"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Morrison JK, Layton D, Newman J"

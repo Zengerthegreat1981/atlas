@@ -1,6 +1,6 @@
 ---
 slug: "trm-out-of-two-important-social-phenomena"
-id: "TRM-ENG-41084"
+id: "TRM-ENG-55613"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "out of two important social phenomena"

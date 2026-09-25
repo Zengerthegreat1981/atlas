@@ -1,6 +1,6 @@
 ---
 slug: "trm-cannabis"
-id: "TRM-ENG-40117"
+id: "TRM-ENG-54646"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cannabis"

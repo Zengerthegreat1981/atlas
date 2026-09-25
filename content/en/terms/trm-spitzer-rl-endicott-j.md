@@ -1,6 +1,6 @@
 ---
 slug: "trm-spitzer-rl-endicott-j"
-id: "TRM-ENG-42428"
+id: "TRM-ENG-56957"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spitzer RL, Endicott J"

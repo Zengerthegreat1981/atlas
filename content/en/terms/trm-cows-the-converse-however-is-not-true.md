@@ -1,6 +1,6 @@
 ---
 slug: "trm-cows-the-converse-however-is-not-true"
-id: "TRM-ENG-45043"
+id: "TRM-ENG-59572"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cows. The converse, however, is not true"

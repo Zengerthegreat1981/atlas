@@ -1,6 +1,6 @@
 ---
 slug: "trm-sonality-disorder-j-pers-disord-22"
-id: "TRM-ENG-48593"
+id: "TRM-ENG-63122"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sonality disorder. J Pers Disord 22"

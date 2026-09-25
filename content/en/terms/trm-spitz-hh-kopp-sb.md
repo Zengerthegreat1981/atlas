@@ -1,6 +1,6 @@
 ---
 slug: "trm-spitz-hh-kopp-sb"
-id: "TRM-ENG-42424"
+id: "TRM-ENG-56953"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spitz HH, Kopp SB"

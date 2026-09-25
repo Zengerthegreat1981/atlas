@@ -1,6 +1,6 @@
 ---
 slug: "trm-tervention-with-delinquent-families"
-id: "TRM-ENG-37093"
+id: "TRM-ENG-66151"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tervention with delinquent families"

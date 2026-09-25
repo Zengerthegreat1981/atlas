@@ -1,6 +1,6 @@
 ---
 slug: "trm-factors-and-clinical-evolution-in-hiv1-infection"
-id: "TRM-ENG-46975"
+id: "TRM-ENG-61504"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "factors and clinical evolution in HIV-1 infection"

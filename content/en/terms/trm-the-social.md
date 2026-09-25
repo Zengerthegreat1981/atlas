@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-social"
-id: "TRM-ENG-48858"
+id: "TRM-ENG-63387"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the social"

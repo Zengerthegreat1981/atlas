@@ -1,6 +1,6 @@
 ---
 slug: "trm-processing-duration-2"
-id: "TRM-ENG-45443"
+id: "TRM-ENG-59972"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "processing duration, 2"

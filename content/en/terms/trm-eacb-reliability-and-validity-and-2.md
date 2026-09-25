@@ -1,6 +1,6 @@
 ---
 slug: "trm-eacb-reliability-and-validity-and-2"
-id: "TRM-ENG-37994"
+id: "TRM-ENG-67052"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "EAC-B reliability and validity and, 2"

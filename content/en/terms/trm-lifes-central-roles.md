@@ -1,6 +1,6 @@
 ---
 slug: "trm-lifes-central-roles"
-id: "TRM-ENG-45135"
+id: "TRM-ENG-59664"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "life’s central roles"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-wilson-e-o-1"
-id: "TRM-ENG-47494"
+id: "TRM-ENG-62023"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wilson, E. O., 1"

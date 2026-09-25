@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-figure-818"
-id: "TRM-ENG-34870"
+id: "TRM-ENG-63928"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in Figure 8.18"

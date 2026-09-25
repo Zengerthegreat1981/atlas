@@ -1,6 +1,6 @@
 ---
 slug: "trm-problems-and-low-selfdirectedness-that-can-ing"
-id: "TRM-ENG-43152"
+id: "TRM-ENG-57681"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "problems, and low self-directedness that can ing"

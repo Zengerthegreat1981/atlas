@@ -1,6 +1,6 @@
 ---
 slug: "trm-556-frances-a-clarkin-j-perry-s"
-id: "TRM-ENG-39167"
+id: "TRM-ENG-53696"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "556. Frances A, Clarkin J, Perry S"

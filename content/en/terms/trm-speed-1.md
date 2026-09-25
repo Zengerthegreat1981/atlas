@@ -1,6 +1,6 @@
 ---
 slug: "trm-speed-1"
-id: "TRM-ENG-45529"
+id: "TRM-ENG-60058"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "speed , 1"

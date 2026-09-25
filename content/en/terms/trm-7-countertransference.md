@@ -1,6 +1,6 @@
 ---
 slug: "trm-7-countertransference"
-id: "TRM-ENG-39333"
+id: "TRM-ENG-53862"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "7. Countertransference"

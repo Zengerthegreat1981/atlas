@@ -1,6 +1,6 @@
 ---
 slug: "trm-ellsworth-e-1997-teaching-positions"
-id: "TRM-ENG-46562"
+id: "TRM-ENG-61091"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ellsworth, E. (1997). Teaching positions"

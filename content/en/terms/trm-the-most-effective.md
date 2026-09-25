@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-most-effective"
-id: "TRM-ENG-45585"
+id: "TRM-ENG-60114"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the most effective"

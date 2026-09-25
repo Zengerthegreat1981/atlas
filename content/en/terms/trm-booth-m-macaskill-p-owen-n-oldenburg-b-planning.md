@@ -1,6 +1,6 @@
 ---
 slug: "trm-booth-m-macaskill-p-owen-n-oldenburg-b-planning"
-id: "TRM-ENG-46440"
+id: "TRM-ENG-60969"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Booth, M., Macaskill, P., Owen. N., Oldenburg, B., planning"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-sonants-in-english-in-terms-of-three-features"
-id: "TRM-ENG-45523"
+id: "TRM-ENG-60052"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sonants in English in terms of three features"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-thomas-vh-melchert-tp-banken-ja"
-id: "TRM-ENG-48124"
+id: "TRM-ENG-62653"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Thomas VH, Melchert TP, Banken JA"

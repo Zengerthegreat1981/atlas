@@ -1,6 +1,6 @@
 ---
 slug: "trm-changing-faces-1996-facial-disfigurement"
-id: "TRM-ENG-46464"
+id: "TRM-ENG-60993"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Changing Faces (1996). Facial disfigurement"

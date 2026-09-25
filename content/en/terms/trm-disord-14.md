@@ -1,6 +1,6 @@
 ---
 slug: "trm-disord-14"
-id: "TRM-ENG-47620"
+id: "TRM-ENG-62149"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Disord 14"

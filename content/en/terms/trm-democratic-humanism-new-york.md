@@ -1,6 +1,6 @@
 ---
 slug: "trm-democratic-humanism-new-york"
-id: "TRM-ENG-34967"
+id: "TRM-ENG-64025"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "democratic humanism. New York"

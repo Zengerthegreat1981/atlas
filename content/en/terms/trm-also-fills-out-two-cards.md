@@ -1,6 +1,6 @@
 ---
 slug: "trm-also-fills-out-two-cards"
-id: "TRM-ENG-42948"
+id: "TRM-ENG-57477"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "also fills out two cards"

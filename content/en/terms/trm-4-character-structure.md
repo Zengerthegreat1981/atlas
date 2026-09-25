@@ -1,6 +1,6 @@
 ---
 slug: "trm-4-character-structure"
-id: "TRM-ENG-38973"
+id: "TRM-ENG-53502"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "4. Character structure"

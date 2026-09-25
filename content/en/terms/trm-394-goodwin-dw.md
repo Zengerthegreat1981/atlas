@@ -1,6 +1,6 @@
 ---
 slug: "trm-394-goodwin-dw"
-id: "TRM-ENG-38966"
+id: "TRM-ENG-53495"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "394. Goodwin DW"

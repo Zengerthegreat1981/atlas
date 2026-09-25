@@ -1,6 +1,6 @@
 ---
 slug: "trm-sociological-forces"
-id: "TRM-ENG-43182"
+id: "TRM-ENG-57711"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sociological forces"

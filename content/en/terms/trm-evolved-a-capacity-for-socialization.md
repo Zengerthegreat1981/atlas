@@ -1,6 +1,6 @@
 ---
 slug: "trm-evolved-a-capacity-for-socialization"
-id: "TRM-ENG-36412"
+id: "TRM-ENG-65470"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "evolved a capacity for socialization"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-strong-physical-threat-component"
-id: "TRM-ENG-41801"
+id: "TRM-ENG-56330"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "strong physical threat component"

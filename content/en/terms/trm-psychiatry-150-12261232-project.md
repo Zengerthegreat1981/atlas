@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychiatry-150-12261232-project"
-id: "TRM-ENG-42499"
+id: "TRM-ENG-57028"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychiatry, 150, 1226–1232. Project"

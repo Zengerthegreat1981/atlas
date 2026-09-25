@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavior-47-367370-doi"
-id: "TRM-ENG-35314"
+id: "TRM-ENG-64372"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Behavior, 47, 367–370. doi"

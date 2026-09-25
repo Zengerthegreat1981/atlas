@@ -1,6 +1,6 @@
 ---
 slug: "trm-selesnick-s-t-1966-alfred-adler"
-id: "TRM-ENG-51007"
+id: "TRM-ENG-65536"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Selesnick, S. T. (1966). Alfred Adler"

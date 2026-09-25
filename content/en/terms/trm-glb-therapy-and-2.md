@@ -1,6 +1,6 @@
 ---
 slug: "trm-glb-therapy-and-2"
-id: "TRM-ENG-38094"
+id: "TRM-ENG-52623"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "GLB therapy and, 2"

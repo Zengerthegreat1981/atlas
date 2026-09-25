@@ -1,6 +1,6 @@
 ---
 slug: "trm-plicit-punishment-seealtruism"
-id: "TRM-ENG-43805"
+id: "TRM-ENG-58334"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "plicit punishment. Seealtruism."

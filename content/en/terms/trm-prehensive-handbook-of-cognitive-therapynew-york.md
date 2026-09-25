@@ -1,6 +1,6 @@
 ---
 slug: "trm-prehensive-handbook-of-cognitive-therapynew-york"
-id: "TRM-ENG-36893"
+id: "TRM-ENG-65951"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "prehensive handbook of cognitive therapy.New York"

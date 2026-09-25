@@ -1,6 +1,6 @@
 ---
 slug: "trm-metabolism-87-no-2-2002"
-id: "TRM-ENG-45713"
+id: "TRM-ENG-60242"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "& Metabolism 87, no. 2 (2002)"

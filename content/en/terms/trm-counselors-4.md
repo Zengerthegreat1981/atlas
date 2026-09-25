@@ -1,6 +1,6 @@
 ---
 slug: "trm-counselors-4"
-id: "TRM-ENG-37889"
+id: "TRM-ENG-52418"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Counselors, 4"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-from-the-start-the-project-method-served-two-func-words"
-id: "TRM-ENG-46654"
+id: "TRM-ENG-61183"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "From the start, the project method served two func- words"

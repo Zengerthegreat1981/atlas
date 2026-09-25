@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-the-eating-disorders"
-id: "TRM-ENG-42642"
+id: "TRM-ENG-57171"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and the eating disorders"

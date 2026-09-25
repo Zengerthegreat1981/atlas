@@ -1,6 +1,6 @@
 ---
 slug: "trm-cutler-a-ed-2005twentyfirst-century-psycholinguistics"
-id: "TRM-ENG-36714"
+id: "TRM-ENG-65772"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cutler, A. (Ed.). (2005).Twenty-first century psycholinguistics"

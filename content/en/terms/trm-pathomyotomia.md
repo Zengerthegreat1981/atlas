@@ -1,6 +1,6 @@
 ---
 slug: "trm-pathomyotomia"
-id: "TRM-ENG-37155"
+id: "TRM-ENG-66213"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pathomyotomia"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-nistpartyofthesovietuniontothe20thpartycongressmoscow"
-id: "TRM-ENG-38002"
+id: "TRM-ENG-67060"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nistpartyoftheSovietUniontothe20thPartyCongress.Moscow"

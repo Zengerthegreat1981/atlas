@@ -1,6 +1,6 @@
 ---
 slug: "trm-798-teaching-machines"
-id: "TRM-ENG-46184"
+id: "TRM-ENG-60713"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "798 Teaching Machines"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-emotion-dysregulation"
-id: "TRM-ENG-43677"
+id: "TRM-ENG-58206"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "emotion dysregulation"

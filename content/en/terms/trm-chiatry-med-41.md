@@ -1,6 +1,6 @@
 ---
 slug: "trm-chiatry-med-41"
-id: "TRM-ENG-48253"
+id: "TRM-ENG-62782"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chiatry Med 41"

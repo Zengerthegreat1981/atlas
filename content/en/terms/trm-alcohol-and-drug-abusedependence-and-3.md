@@ -1,6 +1,6 @@
 ---
 slug: "trm-alcohol-and-drug-abusedependence-and-3"
-id: "TRM-ENG-39140"
+id: "TRM-ENG-53669"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "alcohol and drug abuse/dependence and, 3"

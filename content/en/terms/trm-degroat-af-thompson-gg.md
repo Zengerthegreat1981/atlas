@@ -1,6 +1,6 @@
 ---
 slug: "trm-degroat-af-thompson-gg"
-id: "TRM-ENG-43006"
+id: "TRM-ENG-57535"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "deGroat AF, Thompson GG"

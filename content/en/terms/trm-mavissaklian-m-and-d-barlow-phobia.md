@@ -1,6 +1,6 @@
 ---
 slug: "trm-mavissaklian-m-and-d-barlow-phobia"
-id: "TRM-ENG-45883"
+id: "TRM-ENG-60412"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mavissaklian, M., and D. Barlow, Phobia"

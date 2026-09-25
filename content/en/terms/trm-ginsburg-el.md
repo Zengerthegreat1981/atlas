@@ -1,6 +1,6 @@
 ---
 slug: "trm-ginsburg-el"
-id: "TRM-ENG-40709"
+id: "TRM-ENG-55238"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ginsburg EL"

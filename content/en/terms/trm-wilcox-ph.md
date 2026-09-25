@@ -1,6 +1,6 @@
 ---
 slug: "trm-wilcox-ph"
-id: "TRM-ENG-42792"
+id: "TRM-ENG-57321"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wilcox PH"

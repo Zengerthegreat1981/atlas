@@ -1,6 +1,6 @@
 ---
 slug: "trm-often-has-a-more-symmetric-distribution-than-reaction-tukey"
-id: "TRM-ENG-35183"
+id: "TRM-ENG-64241"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "often has a more symmetric distribution than reaction Tukey"

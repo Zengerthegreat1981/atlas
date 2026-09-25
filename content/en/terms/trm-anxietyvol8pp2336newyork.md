@@ -1,6 +1,6 @@
 ---
 slug: "trm-anxietyvol8pp2336newyork"
-id: "TRM-ENG-37549"
+id: "TRM-ENG-52078"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "anxiety(Vol.8,pp.23–36).NewYork"

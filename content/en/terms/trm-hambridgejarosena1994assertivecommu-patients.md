@@ -1,6 +1,6 @@
 ---
 slug: "trm-hambridgejarosena1994assertivecommu-patients"
-id: "TRM-ENG-49015"
+id: "TRM-ENG-63544"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hambridge,J.A.,&Rosen,A.(1994).Assertivecommu- patients"

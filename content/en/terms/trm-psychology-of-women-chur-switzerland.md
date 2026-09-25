@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychology-of-women-chur-switzerland"
-id: "TRM-ENG-47234"
+id: "TRM-ENG-61763"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychology of women. Chur, Switzerland"

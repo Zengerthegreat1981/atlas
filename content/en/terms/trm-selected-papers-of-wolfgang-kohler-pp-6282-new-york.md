@@ -1,6 +1,6 @@
 ---
 slug: "trm-selected-papers-of-wolfgang-kohler-pp-6282-new-york"
-id: "TRM-ENG-38241"
+id: "TRM-ENG-52770"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "selected papers of Wolfgang Ko¨hler (pp. 62–82). New York"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ambulatory-blood-pressure-and-heart-rate"
-id: "TRM-ENG-46790"
+id: "TRM-ENG-61319"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ambulatory blood pressure and heart rate"

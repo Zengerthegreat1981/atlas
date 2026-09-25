@@ -1,6 +1,6 @@
 ---
 slug: "trm-goldman-ai-sripada-cs"
-id: "TRM-ENG-47675"
+id: "TRM-ENG-62204"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goldman AI, Sripada CS"

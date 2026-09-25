@@ -1,6 +1,6 @@
 ---
 slug: "trm-sex-in-psychoanalysis"
-id: "TRM-ENG-44738"
+id: "TRM-ENG-59267"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, Sex in Psychoanalysis"

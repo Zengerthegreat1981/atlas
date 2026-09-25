@@ -1,6 +1,6 @@
 ---
 slug: "trm-with-significant-others"
-id: "TRM-ENG-43977"
+id: "TRM-ENG-58506"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "with significant others"

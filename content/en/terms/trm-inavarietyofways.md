@@ -1,6 +1,6 @@
 ---
 slug: "trm-inavarietyofways"
-id: "TRM-ENG-45928"
+id: "TRM-ENG-60457"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "inavarietyofways"

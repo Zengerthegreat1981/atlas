@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-antipsychotic-drugs"
-id: "TRM-ENG-36764"
+id: "TRM-ENG-65822"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of antipsychotic drugs"

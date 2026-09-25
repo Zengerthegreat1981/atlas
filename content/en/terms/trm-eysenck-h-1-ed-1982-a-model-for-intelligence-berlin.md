@@ -1,6 +1,6 @@
 ---
 slug: "trm-eysenck-h-1-ed-1982-a-model-for-intelligence-berlin"
-id: "TRM-ENG-34693"
+id: "TRM-ENG-49222"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Eysenck, H. 1. (Ed.). (1982). A model for intelligence. Berlin"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ently-knew-everyone"
-id: "TRM-ENG-37731"
+id: "TRM-ENG-66789"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ently knew everyone"

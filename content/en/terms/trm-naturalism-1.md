@@ -1,6 +1,6 @@
 ---
 slug: "trm-naturalism-1"
-id: "TRM-ENG-44646"
+id: "TRM-ENG-59175"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Naturalism, 1"

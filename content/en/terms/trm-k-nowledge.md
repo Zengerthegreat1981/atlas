@@ -1,6 +1,6 @@
 ---
 slug: "trm-k-nowledge"
-id: "TRM-ENG-46854"
+id: "TRM-ENG-61383"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "K NOWLEDGE"

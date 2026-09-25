@@ -1,6 +1,6 @@
 ---
 slug: "trm-cohen-l-health-and-disease"
-id: "TRM-ENG-44337"
+id: "TRM-ENG-58866"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cohen, L., “Health and Disease"

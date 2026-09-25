@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-chapter-is-structured-as-follows"
-id: "TRM-ENG-35588"
+id: "TRM-ENG-64646"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The chapter is structured as follows"

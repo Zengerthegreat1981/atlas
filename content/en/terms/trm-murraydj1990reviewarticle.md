@@ -1,6 +1,6 @@
 ---
 slug: "trm-murraydj1990reviewarticle"
-id: "TRM-ENG-37104"
+id: "TRM-ENG-66162"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Murray,D.J.(1990).Reviewarticle"

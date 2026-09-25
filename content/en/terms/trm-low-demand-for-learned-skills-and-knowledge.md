@@ -1,6 +1,6 @@
 ---
 slug: "trm-low-demand-for-learned-skills-and-knowledge"
-id: "TRM-ENG-45281"
+id: "TRM-ENG-59810"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "low demand for learned skills and knowledge"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-glucksman-m"
-id: "TRM-ENG-40734"
+id: "TRM-ENG-55263"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Glucksman M"

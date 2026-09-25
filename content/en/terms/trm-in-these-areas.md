@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-these-areas"
-id: "TRM-ENG-40499"
+id: "TRM-ENG-55028"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in these areas"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-kahn-ada-p-stress-az"
-id: "TRM-ENG-45855"
+id: "TRM-ENG-60384"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kahn, Ada P., Stress A–Z"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-basedonfourfundamentalpostulates"
-id: "TRM-ENG-37573"
+id: "TRM-ENG-52102"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "basedonfourfundamentalpostulates"

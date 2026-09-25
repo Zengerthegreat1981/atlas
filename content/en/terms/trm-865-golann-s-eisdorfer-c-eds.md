@@ -1,6 +1,6 @@
 ---
 slug: "trm-865-golann-s-eisdorfer-c-eds"
-id: "TRM-ENG-39528"
+id: "TRM-ENG-54057"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "865. Golann S, Eisdorfer C (eds)"

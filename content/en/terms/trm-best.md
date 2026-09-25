@@ -1,6 +1,6 @@
 ---
 slug: "trm-best"
-id: "TRM-ENG-37589"
+id: "TRM-ENG-66647"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "best"

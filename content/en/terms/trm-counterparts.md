@@ -1,6 +1,6 @@
 ---
 slug: "trm-counterparts"
-id: "TRM-ENG-43602"
+id: "TRM-ENG-58131"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "counterparts."

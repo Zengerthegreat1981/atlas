@@ -1,6 +1,6 @@
 ---
 slug: "trm-ego-state"
-id: "TRM-ENG-52152"
+id: "TRM-ENG-66681"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ego state"

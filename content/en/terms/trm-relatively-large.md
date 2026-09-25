@@ -1,6 +1,6 @@
 ---
 slug: "trm-relatively-large"
-id: "TRM-ENG-35016"
+id: "TRM-ENG-64074"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "relatively large"

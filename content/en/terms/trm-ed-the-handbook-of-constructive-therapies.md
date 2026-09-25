@@ -1,6 +1,6 @@
 ---
 slug: "trm-ed-the-handbook-of-constructive-therapies"
-id: "TRM-ENG-49917"
+id: "TRM-ENG-64446"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Ed.), The handbook of constructive therapies"

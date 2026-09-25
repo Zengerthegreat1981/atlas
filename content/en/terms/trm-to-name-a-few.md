@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-name-a-few"
-id: "TRM-ENG-37211"
+id: "TRM-ENG-66269"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to name a few"

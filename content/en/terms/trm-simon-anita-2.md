@@ -1,6 +1,6 @@
 ---
 slug: "trm-simon-anita-2"
-id: "TRM-ENG-51040"
+id: "TRM-ENG-65569"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Simon, Anita, 2"

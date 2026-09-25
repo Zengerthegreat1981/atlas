@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-social-activity"
-id: "TRM-ENG-42961"
+id: "TRM-ENG-57490"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and social activity"

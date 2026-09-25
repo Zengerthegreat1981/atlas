@@ -1,6 +1,6 @@
 ---
 slug: "trm-socioeconomically-disadvantaged-groups-and-3"
-id: "TRM-ENG-41723"
+id: "TRM-ENG-56252"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "socioeconomically disadvantaged groups and, 3"

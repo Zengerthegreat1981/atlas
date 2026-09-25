@@ -1,6 +1,6 @@
 ---
 slug: "trm-fodor-jerry-1"
-id: "TRM-ENG-46630"
+id: "TRM-ENG-61159"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fodor, Jerry, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-approach-has-a-unique-capacity"
-id: "TRM-ENG-44206"
+id: "TRM-ENG-58735"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the approach has a unique capacity"

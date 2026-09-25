@@ -1,6 +1,6 @@
 ---
 slug: "trm-apga-1"
-id: "TRM-ENG-37375"
+id: "TRM-ENG-66433"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(APGA), 1"

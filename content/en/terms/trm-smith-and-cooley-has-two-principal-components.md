@@ -1,6 +1,6 @@
 ---
 slug: "trm-smith-and-cooley-has-two-principal-components"
-id: "TRM-ENG-35964"
+id: "TRM-ENG-65022"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Smith and Cooley, has two principal components"

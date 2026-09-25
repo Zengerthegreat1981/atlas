@@ -1,6 +1,6 @@
 ---
 slug: "trm-directors-of-empirical-research"
-id: "TRM-ENG-36365"
+id: "TRM-ENG-65423"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "directors of empirical research"

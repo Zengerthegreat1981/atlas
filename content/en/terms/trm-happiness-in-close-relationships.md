@@ -1,6 +1,6 @@
 ---
 slug: "trm-happiness-in-close-relationships"
-id: "TRM-ENG-52568"
+id: "TRM-ENG-67097"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "happiness in close relationships"

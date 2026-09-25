@@ -1,6 +1,6 @@
 ---
 slug: "trm-brain-waves-and-patients-with-alzheimers-disease-cid"
-id: "TRM-ENG-46046"
+id: "TRM-ENG-60575"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "brain waves and patients with Alzheimer’s disease (cid"

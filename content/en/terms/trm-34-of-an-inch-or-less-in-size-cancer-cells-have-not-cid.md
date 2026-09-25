@@ -1,6 +1,6 @@
 ---
 slug: "trm-34-of-an-inch-or-less-in-size-cancer-cells-have-not-cid"
-id: "TRM-ENG-45716"
+id: "TRM-ENG-60245"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(3/4 of an inch) or less in size. Cancer cells have not (cid"

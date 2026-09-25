@@ -1,6 +1,6 @@
 ---
 slug: "trm-or-as-if"
-id: "TRM-ENG-45380"
+id: "TRM-ENG-59909"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "or “as if”"

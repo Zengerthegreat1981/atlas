@@ -1,6 +1,6 @@
 ---
 slug: "trm-selfidentification-and-labeling-and-3"
-id: "TRM-ENG-41612"
+id: "TRM-ENG-56141"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "self-identification and labeling and, 3"

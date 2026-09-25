@@ -1,6 +1,6 @@
 ---
 slug: "trm-621-hoffman-l"
-id: "TRM-ENG-39245"
+id: "TRM-ENG-53774"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "621. Hoffman L"

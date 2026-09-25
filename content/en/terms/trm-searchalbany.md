@@ -1,6 +1,6 @@
 ---
 slug: "trm-searchalbany"
-id: "TRM-ENG-36965"
+id: "TRM-ENG-66023"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "search.Albany"

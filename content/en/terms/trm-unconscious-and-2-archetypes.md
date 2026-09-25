@@ -1,6 +1,6 @@
 ---
 slug: "trm-unconscious-and-2-archetypes"
-id: "TRM-ENG-51949"
+id: "TRM-ENG-66478"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "unconscious and (2) archetypes"

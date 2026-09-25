@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-psychoeducation-springfield-il"
-id: "TRM-ENG-39191"
+id: "TRM-ENG-53720"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and psychoeducation. Springfield, IL"

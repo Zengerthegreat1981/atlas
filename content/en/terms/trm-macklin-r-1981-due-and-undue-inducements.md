@@ -1,6 +1,6 @@
 ---
 slug: "trm-macklin-r-1981-due-and-undue-inducements"
-id: "TRM-ENG-35438"
+id: "TRM-ENG-49967"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Macklin, R. (1981). “Due” and “undue” inducements"

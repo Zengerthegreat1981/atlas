@@ -1,6 +1,6 @@
 ---
 slug: "trm-famoussentence"
-id: "TRM-ENG-37761"
+id: "TRM-ENG-66819"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "famoussentence"

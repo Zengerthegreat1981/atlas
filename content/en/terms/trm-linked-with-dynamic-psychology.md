@@ -1,6 +1,6 @@
 ---
 slug: "trm-linked-with-dynamic-psychology"
-id: "TRM-ENG-36641"
+id: "TRM-ENG-65699"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "linked with dynamic psychology"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-schlessinger-n"
-id: "TRM-ENG-42271"
+id: "TRM-ENG-56800"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schlessinger N"

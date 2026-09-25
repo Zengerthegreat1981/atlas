@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-learning-point-here"
-id: "TRM-ENG-48121"
+id: "TRM-ENG-62650"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The learning point here"

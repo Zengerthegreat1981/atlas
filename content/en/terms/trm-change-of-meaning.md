@@ -1,6 +1,6 @@
 ---
 slug: "trm-change-of-meaning"
-id: "TRM-ENG-44784"
+id: "TRM-ENG-59313"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, “Change of Meaning"

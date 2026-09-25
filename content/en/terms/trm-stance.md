@@ -1,6 +1,6 @@
 ---
 slug: "trm-stance"
-id: "TRM-ENG-51839"
+id: "TRM-ENG-66368"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stance”"

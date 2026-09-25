@@ -1,6 +1,6 @@
 ---
 slug: "trm-delimit-the-s-cotomae-and-thus-concludes-the-test"
-id: "TRM-ENG-45059"
+id: "TRM-ENG-59588"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "delimit the s cotoma(e), and thus concludes the test"

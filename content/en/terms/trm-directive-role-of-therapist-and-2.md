@@ -1,6 +1,6 @@
 ---
 slug: "trm-directive-role-of-therapist-and-2"
-id: "TRM-ENG-39942"
+id: "TRM-ENG-54471"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "directive role of therapist and, 2"

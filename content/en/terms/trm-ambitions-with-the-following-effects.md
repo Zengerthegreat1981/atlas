@@ -1,6 +1,6 @@
 ---
 slug: "trm-ambitions-with-the-following-effects"
-id: "TRM-ENG-42949"
+id: "TRM-ENG-57478"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ambitions with the following effects"

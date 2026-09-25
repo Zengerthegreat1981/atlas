@@ -1,6 +1,6 @@
 ---
 slug: "trm-geriatrics-6-no-10-september-1998"
-id: "TRM-ENG-45824"
+id: "TRM-ENG-60353"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Geriatrics 6, no. 10 (September 1998)"

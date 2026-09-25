@@ -1,6 +1,6 @@
 ---
 slug: "trm-minnesota-tests-work-of-2"
-id: "TRM-ENG-38437"
+id: "TRM-ENG-52966"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Minnesota tests work of, 2"

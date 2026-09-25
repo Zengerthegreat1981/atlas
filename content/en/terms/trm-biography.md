@@ -1,6 +1,6 @@
 ---
 slug: "trm-biography"
-id: "TRM-ENG-46322"
+id: "TRM-ENG-60851"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Biography"

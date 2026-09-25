@@ -1,6 +1,6 @@
 ---
 slug: "trm-critical-survey-of-legal-scholarship-particularly-of-at-self"
-id: "TRM-ENG-45875"
+id: "TRM-ENG-60404"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "critical survey of legal scholarship, particularly of at- self"

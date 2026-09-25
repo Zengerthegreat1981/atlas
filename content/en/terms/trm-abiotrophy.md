@@ -1,6 +1,6 @@
 ---
 slug: "trm-abiotrophy"
-id: "TRM-ENG-52005"
+id: "TRM-ENG-66534"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Abiotrophy"

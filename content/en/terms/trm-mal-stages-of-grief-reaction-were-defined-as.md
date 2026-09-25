@@ -1,6 +1,6 @@
 ---
 slug: "trm-mal-stages-of-grief-reaction-were-defined-as"
-id: "TRM-ENG-46142"
+id: "TRM-ENG-60671"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mal stages of grief reaction were defined as"

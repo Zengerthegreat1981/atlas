@@ -1,6 +1,6 @@
 ---
 slug: "trm-deaf"
-id: "TRM-ENG-46494"
+id: "TRM-ENG-61023"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Deaf"

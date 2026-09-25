@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-treat"
-id: "TRM-ENG-43379"
+id: "TRM-ENG-57908"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to treat"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-parents-of-teens-at-risk-for-aggressive-behaviour"
-id: "TRM-ENG-43114"
+id: "TRM-ENG-57643"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "parents of teens at risk for aggressive behaviour"

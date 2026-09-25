@@ -1,6 +1,6 @@
 ---
 slug: "trm-somatic-marker-hypothesis"
-id: "TRM-ENG-35043"
+id: "TRM-ENG-64101"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "somatic marker hypothesis"

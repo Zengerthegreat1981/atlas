@@ -1,6 +1,6 @@
 ---
 slug: "trm-disordered-behavior"
-id: "TRM-ENG-44992"
+id: "TRM-ENG-59521"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disordered behavior"

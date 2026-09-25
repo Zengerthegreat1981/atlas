@@ -1,6 +1,6 @@
 ---
 slug: "trm-stimuli-in-obsessivecompulsives"
-id: "TRM-ENG-49722"
+id: "TRM-ENG-64251"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stimuli in obsessive-compulsives"

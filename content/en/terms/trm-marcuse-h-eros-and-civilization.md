@@ -1,6 +1,6 @@
 ---
 slug: "trm-marcuse-h-eros-and-civilization"
-id: "TRM-ENG-44513"
+id: "TRM-ENG-59042"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Marcuse, H., Eros and Civilization"

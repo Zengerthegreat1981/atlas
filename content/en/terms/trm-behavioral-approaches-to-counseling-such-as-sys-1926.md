@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavioral-approaches-to-counseling-such-as-sys-1926"
-id: "TRM-ENG-51295"
+id: "TRM-ENG-65824"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behavioral approaches to counseling, such as sys- 1926"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-attention-and-coping"
-id: "TRM-ENG-39286"
+id: "TRM-ENG-53815"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "attention and coping"

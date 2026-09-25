@@ -1,6 +1,6 @@
 ---
 slug: "trm-lations-in-psychoanalytic-theory-cambridge-ma"
-id: "TRM-ENG-42967"
+id: "TRM-ENG-57496"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lations in psychoanalytic theory. Cambridge, MA"

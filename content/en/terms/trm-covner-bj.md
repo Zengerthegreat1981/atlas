@@ -1,6 +1,6 @@
 ---
 slug: "trm-covner-bj"
-id: "TRM-ENG-40252"
+id: "TRM-ENG-54781"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Covner BJ"

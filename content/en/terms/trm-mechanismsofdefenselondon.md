@@ -1,6 +1,6 @@
 ---
 slug: "trm-mechanismsofdefenselondon"
-id: "TRM-ENG-37950"
+id: "TRM-ENG-67008"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mechanismsofdefense.London"

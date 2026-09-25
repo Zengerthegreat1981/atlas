@@ -1,6 +1,6 @@
 ---
 slug: "trm-being-and-the-potential-to-enrich-and-transform-competencies"
-id: "TRM-ENG-39346"
+id: "TRM-ENG-53875"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "being and the potential to enrich and transform competencies"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-chiatry-68"
-id: "TRM-ENG-48252"
+id: "TRM-ENG-62781"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chiatry 68"

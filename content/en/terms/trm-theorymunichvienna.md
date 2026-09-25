@@ -1,6 +1,6 @@
 ---
 slug: "trm-theorymunichvienna"
-id: "TRM-ENG-38334"
+id: "TRM-ENG-52863"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theory.Munich/Vienna"

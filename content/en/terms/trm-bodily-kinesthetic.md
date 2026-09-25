@@ -1,6 +1,6 @@
 ---
 slug: "trm-bodily-kinesthetic"
-id: "TRM-ENG-36628"
+id: "TRM-ENG-51157"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bodily Kinesthetic"

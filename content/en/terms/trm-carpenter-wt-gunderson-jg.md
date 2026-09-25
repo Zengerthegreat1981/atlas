@@ -1,6 +1,6 @@
 ---
 slug: "trm-carpenter-wt-gunderson-jg"
-id: "TRM-ENG-47537"
+id: "TRM-ENG-62066"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Carpenter WT, Gunderson JG"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-munnichs-j-m-a-old-age-and-finitude"
-id: "TRM-ENG-44542"
+id: "TRM-ENG-59071"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Munnichs, J. M. A., Old Age and Finitude"

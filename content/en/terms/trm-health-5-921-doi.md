@@ -1,6 +1,6 @@
 ---
 slug: "trm-health-5-921-doi"
-id: "TRM-ENG-43440"
+id: "TRM-ENG-57969"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Health, 5, 9–21. doi"

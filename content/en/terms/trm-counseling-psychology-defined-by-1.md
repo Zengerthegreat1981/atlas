@@ -1,6 +1,6 @@
 ---
 slug: "trm-counseling-psychology-defined-by-1"
-id: "TRM-ENG-39744"
+id: "TRM-ENG-54273"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "counseling psychology defined by, 1"

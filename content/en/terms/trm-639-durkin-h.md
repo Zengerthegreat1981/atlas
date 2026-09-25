@@ -1,6 +1,6 @@
 ---
 slug: "trm-639-durkin-h"
-id: "TRM-ENG-39264"
+id: "TRM-ENG-53793"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "639. Durkin H"

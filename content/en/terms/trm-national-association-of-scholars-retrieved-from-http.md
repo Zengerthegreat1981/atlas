@@ -1,6 +1,6 @@
 ---
 slug: "trm-national-association-of-scholars-retrieved-from-http"
-id: "TRM-ENG-47042"
+id: "TRM-ENG-61571"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "National Association of Scholars. Retrieved from http"

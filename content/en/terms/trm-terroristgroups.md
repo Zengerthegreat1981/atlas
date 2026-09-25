@@ -1,6 +1,6 @@
 ---
 slug: "trm-terroristgroups"
-id: "TRM-ENG-38294"
+id: "TRM-ENG-52823"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "terroristgroups"

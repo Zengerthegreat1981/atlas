@@ -1,6 +1,6 @@
 ---
 slug: "trm-diego-ca"
-id: "TRM-ENG-34672"
+id: "TRM-ENG-63730"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Diego, CA"

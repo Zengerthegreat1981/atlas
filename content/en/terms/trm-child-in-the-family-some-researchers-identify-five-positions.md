@@ -1,6 +1,6 @@
 ---
 slug: "trm-child-in-the-family-some-researchers-identify-five-positions"
-id: "TRM-ENG-36269"
+id: "TRM-ENG-50798"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "child in the family. Some researchers identify five positions"

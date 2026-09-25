@@ -1,6 +1,6 @@
 ---
 slug: "trm-model-and-dsmivtr-personality-disorders"
-id: "TRM-ENG-43013"
+id: "TRM-ENG-57542"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "model and DSM-IV-TR personality disorders"

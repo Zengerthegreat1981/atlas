@@ -1,6 +1,6 @@
 ---
 slug: "trm-curran-d"
-id: "TRM-ENG-40283"
+id: "TRM-ENG-54812"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Curran D"

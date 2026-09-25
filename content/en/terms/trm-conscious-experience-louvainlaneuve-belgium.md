@@ -1,6 +1,6 @@
 ---
 slug: "trm-conscious-experience-louvainlaneuve-belgium"
-id: "TRM-ENG-45029"
+id: "TRM-ENG-59558"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "conscious experience. Louvain-la-Neuve, Belgium"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-sibility"
-id: "TRM-ENG-48713"
+id: "TRM-ENG-63242"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sibility"

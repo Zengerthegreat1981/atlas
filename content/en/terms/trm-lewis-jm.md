@@ -1,6 +1,6 @@
 ---
 slug: "trm-lewis-jm"
-id: "TRM-ENG-41445"
+id: "TRM-ENG-55974"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lewis JM"

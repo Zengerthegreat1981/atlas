@@ -1,6 +1,6 @@
 ---
 slug: "trm-lives-what-they-will"
-id: "TRM-ENG-43094"
+id: "TRM-ENG-57623"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lives what they will"

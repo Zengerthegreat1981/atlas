@@ -1,6 +1,6 @@
 ---
 slug: "trm-clinical-outcomes-from-the-model-systems-baltimore"
-id: "TRM-ENG-46469"
+id: "TRM-ENG-60998"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Clinical outcomes from the model systems. Baltimore"

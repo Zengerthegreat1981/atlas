@@ -1,6 +1,6 @@
 ---
 slug: "trm-edward-c"
-id: "TRM-ENG-40410"
+id: "TRM-ENG-54939"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Edward C"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-mueserktfoydwcartermj1986social-program"
-id: "TRM-ENG-49097"
+id: "TRM-ENG-63626"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mueser,K.T.,Foy,D.W.,&Carter,M.J.(1986).Social program"

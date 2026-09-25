@@ -1,6 +1,6 @@
 ---
 slug: "trm-2-2-tables-ratio"
-id: "TRM-ENG-35202"
+id: "TRM-ENG-64260"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "2 × 2 Tables ratio"

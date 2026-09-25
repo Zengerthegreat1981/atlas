@@ -1,6 +1,6 @@
 ---
 slug: "trm-dressel-pl"
-id: "TRM-ENG-40379"
+id: "TRM-ENG-54908"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dressel PL"

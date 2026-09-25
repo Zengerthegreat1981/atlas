@@ -1,6 +1,6 @@
 ---
 slug: "trm-thalamotomy-hypothalamotomy"
-id: "TRM-ENG-35069"
+id: "TRM-ENG-49598"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thalamotomy. Hypothalamotomy"

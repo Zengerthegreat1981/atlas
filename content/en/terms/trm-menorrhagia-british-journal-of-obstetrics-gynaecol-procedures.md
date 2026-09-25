@@ -1,6 +1,6 @@
 ---
 slug: "trm-menorrhagia-british-journal-of-obstetrics-gynaecol-procedures"
-id: "TRM-ENG-47113"
+id: "TRM-ENG-61642"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "menorrhagia. British Journal of Obstetrics & Gynaecol- procedures"

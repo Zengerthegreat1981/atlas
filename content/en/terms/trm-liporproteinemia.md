@@ -1,6 +1,6 @@
 ---
 slug: "trm-liporproteinemia"
-id: "TRM-ENG-47083"
+id: "TRM-ENG-61612"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "liporproteinemia"

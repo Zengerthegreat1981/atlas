@@ -1,6 +1,6 @@
 ---
 slug: "trm-bastion-of-hope"
-id: "TRM-ENG-42974"
+id: "TRM-ENG-57503"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bastion of hope"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-gournay-marie-de-2"
-id: "TRM-ENG-46699"
+id: "TRM-ENG-61228"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gournay, Marie de, 2"

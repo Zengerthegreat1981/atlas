@@ -1,6 +1,6 @@
 ---
 slug: "trm-kohlerw1938btheplaceofvalueinaworldoffactsnewyork"
-id: "TRM-ENG-37011"
+id: "TRM-ENG-66069"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ko¨hler,W.(1938b).Theplaceofvalueinaworldoffacts.NewYork"

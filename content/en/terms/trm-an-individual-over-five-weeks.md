@@ -1,6 +1,6 @@
 ---
 slug: "trm-an-individual-over-five-weeks"
-id: "TRM-ENG-45539"
+id: "TRM-ENG-60068"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "an individual over five weeks"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-involuntary-minorities"
-id: "TRM-ENG-48229"
+id: "TRM-ENG-62758"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "involuntary minorities"

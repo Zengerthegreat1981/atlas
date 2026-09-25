@@ -1,6 +1,6 @@
 ---
 slug: "trm-lamb-hr-ed"
-id: "TRM-ENG-41349"
+id: "TRM-ENG-55878"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lamb HR (ed)"

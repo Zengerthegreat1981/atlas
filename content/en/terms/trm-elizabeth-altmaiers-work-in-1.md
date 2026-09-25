@@ -1,6 +1,6 @@
 ---
 slug: "trm-elizabeth-altmaiers-work-in-1"
-id: "TRM-ENG-38016"
+id: "TRM-ENG-67074"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Elizabeth Altmaier’s work in, 1"

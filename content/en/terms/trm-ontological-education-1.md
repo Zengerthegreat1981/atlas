@@ -1,6 +1,6 @@
 ---
 slug: "trm-ontological-education-1"
-id: "TRM-ENG-48481"
+id: "TRM-ENG-63010"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ontological education, 1"

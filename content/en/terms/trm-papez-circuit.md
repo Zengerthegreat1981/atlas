@@ -1,6 +1,6 @@
 ---
 slug: "trm-papez-circuit"
-id: "TRM-ENG-52322"
+id: "TRM-ENG-66851"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Papez circuit"

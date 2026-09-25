@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-groups"
-id: "TRM-ENG-36364"
+id: "TRM-ENG-50893"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social groups"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-rachman-s-wilson-gt"
-id: "TRM-ENG-42051"
+id: "TRM-ENG-56580"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rachman S, Wilson GT"

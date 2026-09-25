@@ -1,6 +1,6 @@
 ---
 slug: "trm-perception-fig11-left"
-id: "TRM-ENG-37160"
+id: "TRM-ENG-66218"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Perception. Fig.11 Left"

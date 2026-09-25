@@ -1,6 +1,6 @@
 ---
 slug: "trm-thinking-behaving"
-id: "TRM-ENG-45379"
+id: "TRM-ENG-59908"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thinking, behaving"

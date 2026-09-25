@@ -1,6 +1,6 @@
 ---
 slug: "trm-acceptance-and-commitment-therapy"
-id: "TRM-ENG-42308"
+id: "TRM-ENG-56837"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Acceptance and commitment therapy"

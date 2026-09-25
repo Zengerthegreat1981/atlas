@@ -1,6 +1,6 @@
 ---
 slug: "trm-fromhttp"
-id: "TRM-ENG-37782"
+id: "TRM-ENG-66840"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "fromhttp"

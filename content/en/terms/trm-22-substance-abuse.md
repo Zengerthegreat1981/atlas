@@ -1,6 +1,6 @@
 ---
 slug: "trm-22-substance-abuse"
-id: "TRM-ENG-38738"
+id: "TRM-ENG-53267"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "22. substance abuse"

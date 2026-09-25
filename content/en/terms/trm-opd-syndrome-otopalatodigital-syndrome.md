@@ -1,6 +1,6 @@
 ---
 slug: "trm-opd-syndrome-otopalatodigital-syndrome"
-id: "TRM-ENG-43482"
+id: "TRM-ENG-58011"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "OPD syndrome otopalatodigital syndrome"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-learned-helplessness-in-humans"
-id: "TRM-ENG-38362"
+id: "TRM-ENG-52891"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Learned helplessness in humans"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-scientiousness-can-be-decomposed-into-several-dis-core-concepts"
-id: "TRM-ENG-36104"
+id: "TRM-ENG-50633"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "scientiousness can be decomposed into several dis- core concepts"

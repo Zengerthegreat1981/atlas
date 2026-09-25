@@ -1,6 +1,6 @@
 ---
 slug: "trm-payne-fd-wiggins-js"
-id: "TRM-ENG-41949"
+id: "TRM-ENG-56478"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Payne FD, Wiggins JS"

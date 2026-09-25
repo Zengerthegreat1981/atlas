@@ -1,6 +1,6 @@
 ---
 slug: "trm-nock-mk-kazdin-ae-2002-examination-of-affective-cog-presentations"
-id: "TRM-ENG-35865"
+id: "TRM-ENG-64923"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nock, M.K., & Kazdin, A.E. (2002). Examination of affective, cog- presentations"

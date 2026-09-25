@@ -1,6 +1,6 @@
 ---
 slug: "trm-published-in-the-psychological-bulletin"
-id: "TRM-ENG-38173"
+id: "TRM-ENG-52702"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "published in the Psychological Bulletin"

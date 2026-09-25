@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognitive-benefits-of-bilingualism-1"
-id: "TRM-ENG-45010"
+id: "TRM-ENG-59539"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cognitive benefits of bilingualism, 1"

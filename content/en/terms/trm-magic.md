@@ -1,6 +1,6 @@
 ---
 slug: "trm-magic"
-id: "TRM-ENG-52269"
+id: "TRM-ENG-66798"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Magic"

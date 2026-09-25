@@ -1,6 +1,6 @@
 ---
 slug: "trm-critical-pedagogy-oxford-england"
-id: "TRM-ENG-47838"
+id: "TRM-ENG-62367"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "critical pedagogy. Oxford, England"

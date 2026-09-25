@@ -1,6 +1,6 @@
 ---
 slug: "trm-taine-h-1870-de-lintelligenceparis"
-id: "TRM-ENG-35995"
+id: "TRM-ENG-65053"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Taine, H. (1870). De l’intelligence.Paris"

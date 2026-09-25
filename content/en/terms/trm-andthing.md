@@ -1,6 +1,6 @@
 ---
 slug: "trm-andthing"
-id: "TRM-ENG-37539"
+id: "TRM-ENG-66597"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "andthing"

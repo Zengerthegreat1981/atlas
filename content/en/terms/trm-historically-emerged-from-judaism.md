@@ -1,6 +1,6 @@
 ---
 slug: "trm-historically-emerged-from-judaism"
-id: "TRM-ENG-48120"
+id: "TRM-ENG-62649"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "historically emerged from Judaism"

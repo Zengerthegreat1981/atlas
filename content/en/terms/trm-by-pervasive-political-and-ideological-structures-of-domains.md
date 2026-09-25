@@ -1,6 +1,6 @@
 ---
 slug: "trm-by-pervasive-political-and-ideological-structures-of-domains"
-id: "TRM-ENG-47721"
+id: "TRM-ENG-62250"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "by pervasive political and ideological structures of domains"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-520-skinner-ph-shelton-r"
-id: "TRM-ENG-39128"
+id: "TRM-ENG-53657"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "520. Skinner PH, Shelton R"

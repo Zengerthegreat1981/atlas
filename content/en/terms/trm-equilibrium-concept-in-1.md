@@ -1,6 +1,6 @@
 ---
 slug: "trm-equilibrium-concept-in-1"
-id: "TRM-ENG-40070"
+id: "TRM-ENG-54599"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "equilibrium concept in, 1"

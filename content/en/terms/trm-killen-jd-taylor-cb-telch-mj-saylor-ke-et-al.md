@@ -1,6 +1,6 @@
 ---
 slug: "trm-killen-jd-taylor-cb-telch-mj-saylor-ke-et-al"
-id: "TRM-ENG-41236"
+id: "TRM-ENG-55765"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Killen JD, Taylor CB, Telch MJ, Saylor KE, et al"

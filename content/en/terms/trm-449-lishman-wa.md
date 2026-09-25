@@ -1,6 +1,6 @@
 ---
 slug: "trm-449-lishman-wa"
-id: "TRM-ENG-39039"
+id: "TRM-ENG-53568"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "449. Lishman WA"

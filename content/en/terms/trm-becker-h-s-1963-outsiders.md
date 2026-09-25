@@ -1,6 +1,6 @@
 ---
 slug: "trm-becker-h-s-1963-outsiders"
-id: "TRM-ENG-46286"
+id: "TRM-ENG-60815"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Becker, H. S. (1963). Outsiders"

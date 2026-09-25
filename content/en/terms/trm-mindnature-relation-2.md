@@ -1,6 +1,6 @@
 ---
 slug: "trm-mindnature-relation-2"
-id: "TRM-ENG-48355"
+id: "TRM-ENG-62884"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mind-nature relation, 2"

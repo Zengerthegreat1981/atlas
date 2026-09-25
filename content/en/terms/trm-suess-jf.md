@@ -1,6 +1,6 @@
 ---
 slug: "trm-suess-jf"
-id: "TRM-ENG-42517"
+id: "TRM-ENG-57046"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Suess JF"

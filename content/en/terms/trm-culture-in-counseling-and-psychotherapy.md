@@ -1,6 +1,6 @@
 ---
 slug: "trm-culture-in-counseling-and-psychotherapy"
-id: "TRM-ENG-37907"
+id: "TRM-ENG-66965"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Culture in Counseling and Psychotherapy"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-lewin-kurt-1"
-id: "TRM-ENG-38373"
+id: "TRM-ENG-52902"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lewin, Kurt, 1"

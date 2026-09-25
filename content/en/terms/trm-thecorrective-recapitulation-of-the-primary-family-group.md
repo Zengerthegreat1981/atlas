@@ -1,6 +1,6 @@
 ---
 slug: "trm-thecorrective-recapitulation-of-the-primary-family-group"
-id: "TRM-ENG-37136"
+id: "TRM-ENG-51665"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thecorrective recapitulation of the primary family group"

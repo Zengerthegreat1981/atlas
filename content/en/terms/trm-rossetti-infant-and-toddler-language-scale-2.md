@@ -1,6 +1,6 @@
 ---
 slug: "trm-rossetti-infant-and-toddler-language-scale-2"
-id: "TRM-ENG-38707"
+id: "TRM-ENG-53236"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rossetti Infant and Toddler Language Scale, 2"

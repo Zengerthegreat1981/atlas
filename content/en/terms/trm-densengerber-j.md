@@ -1,6 +1,6 @@
 ---
 slug: "trm-densengerber-j"
-id: "TRM-ENG-40336"
+id: "TRM-ENG-54865"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Densen-Gerber J"

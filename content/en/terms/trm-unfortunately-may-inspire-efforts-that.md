@@ -1,6 +1,6 @@
 ---
 slug: "trm-unfortunately-may-inspire-efforts-that"
-id: "TRM-ENG-48715"
+id: "TRM-ENG-63244"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "unfortunately, may inspire efforts that"

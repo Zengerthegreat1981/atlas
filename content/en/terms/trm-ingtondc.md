@@ -1,6 +1,6 @@
 ---
 slug: "trm-ingtondc"
-id: "TRM-ENG-37862"
+id: "TRM-ENG-66920"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ington,DC"

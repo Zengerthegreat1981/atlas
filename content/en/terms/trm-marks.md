@@ -1,6 +1,6 @@
 ---
 slug: "trm-marks"
-id: "TRM-ENG-37945"
+id: "TRM-ENG-67003"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "marks"

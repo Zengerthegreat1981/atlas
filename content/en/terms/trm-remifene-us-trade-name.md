@@ -1,6 +1,6 @@
 ---
 slug: "trm-remifene-us-trade-name"
-id: "TRM-ENG-43836"
+id: "TRM-ENG-58365"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "remifene (U.S. trade name"

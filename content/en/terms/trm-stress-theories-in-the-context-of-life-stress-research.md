@@ -1,6 +1,6 @@
 ---
 slug: "trm-stress-theories-in-the-context-of-life-stress-research"
-id: "TRM-ENG-43260"
+id: "TRM-ENG-57789"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stress theories in the context of life stress research"

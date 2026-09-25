@@ -1,6 +1,6 @@
 ---
 slug: "trm-unhealthy-cultural-aspects-ignored-by-3"
-id: "TRM-ENG-42078"
+id: "TRM-ENG-56607"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "unhealthy cultural aspects ignored by, 3"

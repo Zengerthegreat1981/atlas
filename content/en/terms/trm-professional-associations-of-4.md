@@ -1,6 +1,6 @@
 ---
 slug: "trm-professional-associations-of-4"
-id: "TRM-ENG-41296"
+id: "TRM-ENG-55825"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "professional associations of, 4"

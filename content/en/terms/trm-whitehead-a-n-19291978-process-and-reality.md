@@ -1,6 +1,6 @@
 ---
 slug: "trm-whitehead-a-n-19291978-process-and-reality"
-id: "TRM-ENG-37433"
+id: "TRM-ENG-66491"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Whitehead, A. N. (1929/1978). Process and reality"

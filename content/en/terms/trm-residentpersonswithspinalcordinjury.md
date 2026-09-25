@@ -1,6 +1,6 @@
 ---
 slug: "trm-residentpersonswithspinalcordinjury"
-id: "TRM-ENG-47262"
+id: "TRM-ENG-61791"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "residentpersonswithspinalcordinjury"

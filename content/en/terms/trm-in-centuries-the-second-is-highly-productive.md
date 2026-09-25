@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-centuries-the-second-is-highly-productive"
-id: "TRM-ENG-36547"
+id: "TRM-ENG-65605"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in centuries. The second is highly productive"

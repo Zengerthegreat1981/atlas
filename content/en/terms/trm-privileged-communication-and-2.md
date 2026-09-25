@@ -1,6 +1,6 @@
 ---
 slug: "trm-privileged-communication-and-2"
-id: "TRM-ENG-41274"
+id: "TRM-ENG-55803"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "privileged communication and, 2"

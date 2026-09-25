@@ -1,6 +1,6 @@
 ---
 slug: "trm-mask-of-sanity"
-id: "TRM-ENG-47854"
+id: "TRM-ENG-62383"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mask of Sanity"

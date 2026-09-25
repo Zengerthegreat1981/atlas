@@ -1,6 +1,6 @@
 ---
 slug: "trm-certain-features-tend-to-be-attributed-to-mobs"
-id: "TRM-ENG-36255"
+id: "TRM-ENG-65313"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "certain features tend to be attributed to mobs"

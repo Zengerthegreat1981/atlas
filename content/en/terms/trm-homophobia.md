@@ -1,6 +1,6 @@
 ---
 slug: "trm-homophobia"
-id: "TRM-ENG-38190"
+id: "TRM-ENG-52719"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Homophobia"

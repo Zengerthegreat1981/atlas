@@ -1,6 +1,6 @@
 ---
 slug: "trm-10-eysenck-hj-ed"
-id: "TRM-ENG-38551"
+id: "TRM-ENG-53080"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "10. Eysenck HJ (ed)"

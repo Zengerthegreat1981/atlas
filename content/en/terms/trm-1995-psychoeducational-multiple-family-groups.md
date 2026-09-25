@@ -1,6 +1,6 @@
 ---
 slug: "trm-1995-psychoeducational-multiple-family-groups"
-id: "TRM-ENG-35472"
+id: "TRM-ENG-64530"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1995). Psychoeducational multiple family groups"

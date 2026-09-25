@@ -1,6 +1,6 @@
 ---
 slug: "trm-marr-d-1982-visionnew-york"
-id: "TRM-ENG-35831"
+id: "TRM-ENG-64889"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Marr, D. (1982). Vision.New York"

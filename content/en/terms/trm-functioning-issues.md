@@ -1,6 +1,6 @@
 ---
 slug: "trm-functioning-issues"
-id: "TRM-ENG-44109"
+id: "TRM-ENG-58638"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "functioning) issues"

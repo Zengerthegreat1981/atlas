@@ -1,6 +1,6 @@
 ---
 slug: "trm-tinguish-themselves-by-their-research-in-many-areas"
-id: "TRM-ENG-38365"
+id: "TRM-ENG-52894"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tinguish themselves by their research in many areas"

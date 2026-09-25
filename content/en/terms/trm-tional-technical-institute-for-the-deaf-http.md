@@ -1,6 +1,6 @@
 ---
 slug: "trm-tional-technical-institute-for-the-deaf-http"
-id: "TRM-ENG-35409"
+id: "TRM-ENG-49938"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tional Technical Institute for the Deaf (http"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-choice-theory-2"
-id: "TRM-ENG-46392"
+id: "TRM-ENG-60921"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Choice theory, 2"

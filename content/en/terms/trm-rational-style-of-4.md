@@ -1,6 +1,6 @@
 ---
 slug: "trm-rational-style-of-4"
-id: "TRM-ENG-41429"
+id: "TRM-ENG-55958"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rational style of, 4"

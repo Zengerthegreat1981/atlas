@@ -1,6 +1,6 @@
 ---
 slug: "trm-viewed-from-many-perspectives"
-id: "TRM-ENG-35450"
+id: "TRM-ENG-64508"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "viewed from many perspectives"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-as-a-risk-factor-for-depression"
-id: "TRM-ENG-39253"
+id: "TRM-ENG-53782"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "as a risk factor for depression"

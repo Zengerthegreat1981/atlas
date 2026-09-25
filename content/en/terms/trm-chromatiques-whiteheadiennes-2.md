@@ -1,6 +1,6 @@
 ---
 slug: "trm-chromatiques-whiteheadiennes-2"
-id: "TRM-ENG-46397"
+id: "TRM-ENG-60926"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Chromatiques whiteheadiennes, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-class-jumping-into-academia"
-id: "TRM-ENG-37831"
+id: "TRM-ENG-52360"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Class jumping into academia"

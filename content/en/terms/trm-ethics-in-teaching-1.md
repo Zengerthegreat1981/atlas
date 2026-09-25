@@ -1,6 +1,6 @@
 ---
 slug: "trm-ethics-in-teaching-1"
-id: "TRM-ENG-46594"
+id: "TRM-ENG-61123"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ethics in teaching, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-young-women-the-term-sustois-applied-to-a-wide-ar-posed-nosophobias"
-id: "TRM-ENG-36147"
+id: "TRM-ENG-50676"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and young women. The term sustois applied to a wide ar- posed nosophobias"

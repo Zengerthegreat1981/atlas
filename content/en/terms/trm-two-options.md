@@ -1,6 +1,6 @@
 ---
 slug: "trm-two-options"
-id: "TRM-ENG-45659"
+id: "TRM-ENG-60188"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "two options"

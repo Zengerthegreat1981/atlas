@@ -1,6 +1,6 @@
 ---
 slug: "trm-1981-the-marital-intake-interview"
-id: "TRM-ENG-48756"
+id: "TRM-ENG-63285"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1981). The marital intake interview"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ality-disorders-am-j-psychiatry-158"
-id: "TRM-ENG-48177"
+id: "TRM-ENG-62706"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ality disorders. Am J Psychiatry 158"

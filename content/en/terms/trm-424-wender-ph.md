@@ -1,6 +1,6 @@
 ---
 slug: "trm-424-wender-ph"
-id: "TRM-ENG-39012"
+id: "TRM-ENG-53541"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "424. Wender PH"

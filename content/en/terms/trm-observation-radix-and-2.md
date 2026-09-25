@@ -1,6 +1,6 @@
 ---
 slug: "trm-observation-radix-and-2"
-id: "TRM-ENG-50810"
+id: "TRM-ENG-65339"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Observation, Radix and, 2"

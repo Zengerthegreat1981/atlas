@@ -1,6 +1,6 @@
 ---
 slug: "trm-visual-auditory-of-response"
-id: "TRM-ENG-45681"
+id: "TRM-ENG-60210"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "visual, auditory; of response"

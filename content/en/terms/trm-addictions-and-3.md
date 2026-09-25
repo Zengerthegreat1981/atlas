@@ -1,6 +1,6 @@
 ---
 slug: "trm-addictions-and-3"
-id: "TRM-ENG-39107"
+id: "TRM-ENG-53636"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "addictions and, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-counts"
-id: "TRM-ENG-39774"
+id: "TRM-ENG-54303"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "counts"

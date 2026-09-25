@@ -1,6 +1,6 @@
 ---
 slug: "trm-careerlife-and-4"
-id: "TRM-ENG-39448"
+id: "TRM-ENG-53977"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "career/life and, 4"

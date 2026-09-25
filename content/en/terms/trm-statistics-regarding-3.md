@@ -1,6 +1,6 @@
 ---
 slug: "trm-statistics-regarding-3"
-id: "TRM-ENG-41772"
+id: "TRM-ENG-56301"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "statistics regarding, 3"

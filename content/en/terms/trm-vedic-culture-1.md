@@ -1,6 +1,6 @@
 ---
 slug: "trm-vedic-culture-1"
-id: "TRM-ENG-47457"
+id: "TRM-ENG-61986"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Vedic culture, 1"

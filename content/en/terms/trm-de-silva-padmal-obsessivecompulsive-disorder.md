@@ -1,6 +1,6 @@
 ---
 slug: "trm-de-silva-padmal-obsessivecompulsive-disorder"
-id: "TRM-ENG-45793"
+id: "TRM-ENG-60322"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "De Silva, Padmal. Obsessive-Compulsive Disorder"

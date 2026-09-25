@@ -1,6 +1,6 @@
 ---
 slug: "trm-petence"
-id: "TRM-ENG-44009"
+id: "TRM-ENG-58538"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "PETENCE."

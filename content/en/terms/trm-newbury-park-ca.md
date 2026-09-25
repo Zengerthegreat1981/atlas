@@ -1,6 +1,6 @@
 ---
 slug: "trm-newbury-park-ca"
-id: "TRM-ENG-50797"
+id: "TRM-ENG-65326"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Newbury Park, CA"

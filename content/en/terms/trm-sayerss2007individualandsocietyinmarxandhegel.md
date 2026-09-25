@@ -1,6 +1,6 @@
 ---
 slug: "trm-sayerss2007individualandsocietyinmarxandhegel"
-id: "TRM-ENG-37258"
+id: "TRM-ENG-51787"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sayers,S.(2007).IndividualandsocietyinMarxandHegel"

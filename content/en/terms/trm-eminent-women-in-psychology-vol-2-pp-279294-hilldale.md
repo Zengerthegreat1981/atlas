@@ -1,6 +1,6 @@
 ---
 slug: "trm-eminent-women-in-psychology-vol-2-pp-279294-hilldale"
-id: "TRM-ENG-37717"
+id: "TRM-ENG-52246"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "eminent women in psychology (Vol. 2, pp. 279–294). Hilldale"

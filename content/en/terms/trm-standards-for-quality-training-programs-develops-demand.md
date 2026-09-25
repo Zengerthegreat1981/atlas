@@ -1,6 +1,6 @@
 ---
 slug: "trm-standards-for-quality-training-programs-develops-demand"
-id: "TRM-ENG-41762"
+id: "TRM-ENG-56291"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "standards for quality training programs, develops Demand"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-applied-researchpp-1737-washington-dc"
-id: "TRM-ENG-39237"
+id: "TRM-ENG-53766"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "applied research(pp. 17–37). Washington, DC"

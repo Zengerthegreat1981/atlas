@@ -1,6 +1,6 @@
 ---
 slug: "trm-sprachlebenshalle"
-id: "TRM-ENG-37317"
+id: "TRM-ENG-51846"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sprachlebens.Halle"

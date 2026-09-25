@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognitive-functioning-this-entry-summarizes-some-center-arrow-in-a-task-with-congruent-cid"
-id: "TRM-ENG-45012"
+id: "TRM-ENG-59541"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cognitive functioning. This entry summarizes some center arrow in a task with congruent ((cid"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-standards-to-quote-jung"
-id: "TRM-ENG-45318"
+id: "TRM-ENG-59847"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "standards. To quote Jung"

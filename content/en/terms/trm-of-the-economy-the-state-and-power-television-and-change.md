@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-the-economy-the-state-and-power-television-and-change"
-id: "TRM-ENG-48450"
+id: "TRM-ENG-62979"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of the economy, the state and power, television, and change"

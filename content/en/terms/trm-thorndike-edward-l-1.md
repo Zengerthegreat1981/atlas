@@ -1,6 +1,6 @@
 ---
 slug: "trm-thorndike-edward-l-1"
-id: "TRM-ENG-38919"
+id: "TRM-ENG-53448"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Thorndike, Edward L., 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-16-pf-and-4"
-id: "TRM-ENG-37343"
+id: "TRM-ENG-66401"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(16 PF) and, 4"

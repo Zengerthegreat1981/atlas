@@ -1,6 +1,6 @@
 ---
 slug: "trm-physiological-adj"
-id: "TRM-ENG-44128"
+id: "TRM-ENG-58657"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "physiological adj."

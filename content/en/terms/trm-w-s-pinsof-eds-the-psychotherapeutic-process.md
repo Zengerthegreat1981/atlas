@@ -1,6 +1,6 @@
 ---
 slug: "trm-w-s-pinsof-eds-the-psychotherapeutic-process"
-id: "TRM-ENG-49219"
+id: "TRM-ENG-63748"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "W. S. Pinsof (Eds.), The psychotherapeutic process"

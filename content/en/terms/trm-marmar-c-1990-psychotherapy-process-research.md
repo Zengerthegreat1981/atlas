@@ -1,6 +1,6 @@
 ---
 slug: "trm-marmar-c-1990-psychotherapy-process-research"
-id: "TRM-ENG-38404"
+id: "TRM-ENG-52933"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Marmar, C. (1990). Psychotherapy process research"

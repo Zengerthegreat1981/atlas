@@ -1,6 +1,6 @@
 ---
 slug: "trm-14-altschule-md"
-id: "TRM-ENG-38609"
+id: "TRM-ENG-53138"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "14. Altschule MD"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-example-insight-therapy-or-psychoanalysis"
-id: "TRM-ENG-43030"
+id: "TRM-ENG-57559"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "example, insight therapy or psychoanalysis"

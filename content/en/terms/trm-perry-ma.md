@@ -1,6 +1,6 @@
 ---
 slug: "trm-perry-ma"
-id: "TRM-ENG-41960"
+id: "TRM-ENG-56489"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Perry MA"

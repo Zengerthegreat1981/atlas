@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-psychic-function-dimensions-described-by-jung-think-searchers"
-id: "TRM-ENG-37125"
+id: "TRM-ENG-66183"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the psychic function dimensions described by Jung (think- searchers"

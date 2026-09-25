@@ -1,6 +1,6 @@
 ---
 slug: "trm-ory-in-humans"
-id: "TRM-ENG-36823"
+id: "TRM-ENG-51352"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ory in humans"

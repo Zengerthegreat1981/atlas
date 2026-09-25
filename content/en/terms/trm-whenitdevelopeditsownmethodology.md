@@ -1,6 +1,6 @@
 ---
 slug: "trm-whenitdevelopeditsownmethodology"
-id: "TRM-ENG-38438"
+id: "TRM-ENG-52967"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "whenitdevelopeditsownmethodology"

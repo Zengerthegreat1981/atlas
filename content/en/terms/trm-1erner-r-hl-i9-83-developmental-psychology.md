@@ -1,6 +1,6 @@
 ---
 slug: "trm-1erner-r-hl-i9-83-developmental-psychology"
-id: "TRM-ENG-34599"
+id: "TRM-ENG-63657"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1,erner. R. hl. (I9 83), Developmental psychology"

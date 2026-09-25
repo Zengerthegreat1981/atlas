@@ -1,6 +1,6 @@
 ---
 slug: "trm-disturbance-depression-and-anxiety"
-id: "TRM-ENG-43018"
+id: "TRM-ENG-57547"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disturbance, depression, and anxiety"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-891-cooper-cl-robertson-i-eds"
-id: "TRM-ENG-39557"
+id: "TRM-ENG-54086"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "891. Cooper CL, Robertson I (eds)"

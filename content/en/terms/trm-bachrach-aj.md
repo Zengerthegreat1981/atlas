@@ -1,6 +1,6 @@
 ---
 slug: "trm-bachrach-aj"
-id: "TRM-ENG-39763"
+id: "TRM-ENG-54292"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bachrach AJ"

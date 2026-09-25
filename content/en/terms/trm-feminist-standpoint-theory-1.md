@@ -1,6 +1,6 @@
 ---
 slug: "trm-feminist-standpoint-theory-1"
-id: "TRM-ENG-46607"
+id: "TRM-ENG-61136"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Feminist standpoint theory, 1"

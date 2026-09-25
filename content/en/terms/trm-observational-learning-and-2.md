@@ -1,6 +1,6 @@
 ---
 slug: "trm-observational-learning-and-2"
-id: "TRM-ENG-40975"
+id: "TRM-ENG-55504"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "observational learning and, 2"

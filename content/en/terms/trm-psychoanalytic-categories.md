@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychoanalytic-categories"
-id: "TRM-ENG-38135"
+id: "TRM-ENG-52664"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychoanalytic categories"

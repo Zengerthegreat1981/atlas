@@ -1,6 +1,6 @@
 ---
 slug: "trm-dinkmeyer-d"
-id: "TRM-ENG-40358"
+id: "TRM-ENG-54887"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dinkmeyer D"

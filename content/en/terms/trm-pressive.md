@@ -1,6 +1,6 @@
 ---
 slug: "trm-pressive"
-id: "TRM-ENG-44130"
+id: "TRM-ENG-58659"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pressive."

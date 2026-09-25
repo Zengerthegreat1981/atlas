@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychotherapy-for-everyman"
-id: "TRM-ENG-44811"
+id: "TRM-ENG-59340"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, “Psychotherapy for Everyman"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-aspects-that-are-not-present-in-sensations"
-id: "TRM-ENG-37560"
+id: "TRM-ENG-66618"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "aspects that are not present in sensations"

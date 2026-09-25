@@ -1,6 +1,6 @@
 ---
 slug: "trm-brooks-gw"
-id: "TRM-ENG-40046"
+id: "TRM-ENG-54575"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brooks GW"

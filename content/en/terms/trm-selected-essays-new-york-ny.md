@@ -1,6 +1,6 @@
 ---
 slug: "trm-selected-essays-new-york-ny"
-id: "TRM-ENG-44755"
+id: "TRM-ENG-59284"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Selected essays. New York, NY"

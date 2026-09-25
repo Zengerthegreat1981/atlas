@@ -1,6 +1,6 @@
 ---
 slug: "trm-lying"
-id: "TRM-ENG-44263"
+id: "TRM-ENG-58792"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(lying)"

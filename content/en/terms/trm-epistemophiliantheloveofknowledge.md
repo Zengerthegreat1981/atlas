@@ -1,6 +1,6 @@
 ---
 slug: "trm-epistemophiliantheloveofknowledge"
-id: "TRM-ENG-43638"
+id: "TRM-ENG-58167"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "epistemophilian.theloveofknowledge"

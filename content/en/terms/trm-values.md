@@ -1,6 +1,6 @@
 ---
 slug: "trm-values"
-id: "TRM-ENG-42106"
+id: "TRM-ENG-56635"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "values"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-jaffe-jh-brill-l-cyclazocine"
-id: "TRM-ENG-41110"
+id: "TRM-ENG-55639"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jaffe JH, Brill L: Cyclazocine"

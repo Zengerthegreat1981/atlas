@@ -1,6 +1,6 @@
 ---
 slug: "trm-carroll-ej"
-id: "TRM-ENG-40136"
+id: "TRM-ENG-54665"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Carroll EJ"

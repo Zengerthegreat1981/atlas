@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-gordon-allports-personality"
-id: "TRM-ENG-40992"
+id: "TRM-ENG-55521"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of Gordon Allport’s Personality"

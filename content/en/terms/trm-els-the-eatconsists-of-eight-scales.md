@@ -1,6 +1,6 @@
 ---
 slug: "trm-els-the-eatconsists-of-eight-scales"
-id: "TRM-ENG-40030"
+id: "TRM-ENG-54559"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "els. The EATconsists of eight scales"

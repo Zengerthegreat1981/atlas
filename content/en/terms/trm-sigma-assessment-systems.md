@@ -1,6 +1,6 @@
 ---
 slug: "trm-sigma-assessment-systems"
-id: "TRM-ENG-38771"
+id: "TRM-ENG-53300"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sigma Assessment Systems"

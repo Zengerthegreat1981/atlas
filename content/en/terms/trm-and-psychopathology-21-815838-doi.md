@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-psychopathology-21-815838-doi"
-id: "TRM-ENG-43605"
+id: "TRM-ENG-58134"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and Psychopathology, 21, 815–838. doi"

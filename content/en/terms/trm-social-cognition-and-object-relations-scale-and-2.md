@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-cognition-and-object-relations-scale-and-2"
-id: "TRM-ENG-38789"
+id: "TRM-ENG-53318"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Social Cognition and Object Relations Scale and, 2"

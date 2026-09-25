@@ -1,6 +1,6 @@
 ---
 slug: "trm-disorders-affecting-the-mind-london"
-id: "TRM-ENG-42779"
+id: "TRM-ENG-57308"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disorders affecting the mind. London"

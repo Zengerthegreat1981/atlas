@@ -1,6 +1,6 @@
 ---
 slug: "trm-dkrobinsonedswilhelmwundtinhistory"
-id: "TRM-ENG-36717"
+id: "TRM-ENG-65775"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "D.K.Robinson(Eds.),WilhelmWundtinhistory"

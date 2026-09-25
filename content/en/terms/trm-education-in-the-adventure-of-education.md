@@ -1,6 +1,6 @@
 ---
 slug: "trm-education-in-the-adventure-of-education"
-id: "TRM-ENG-47929"
+id: "TRM-ENG-62458"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "education. In The adventure of education"

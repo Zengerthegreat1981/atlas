@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-dr-laws-w-odonohue-eds-sexual-deviance"
-id: "TRM-ENG-35763"
+id: "TRM-ENG-50292"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "In D.R. Laws & W. O’Donohue (Eds.), Sexual deviance"

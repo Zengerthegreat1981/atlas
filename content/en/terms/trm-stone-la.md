@@ -1,6 +1,6 @@
 ---
 slug: "trm-stone-la"
-id: "TRM-ENG-42484"
+id: "TRM-ENG-57013"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stone LA"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-clinebell-h-1996-ecotherapy"
-id: "TRM-ENG-50241"
+id: "TRM-ENG-64770"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Clinebell, H. (1996). Ecotherapy"

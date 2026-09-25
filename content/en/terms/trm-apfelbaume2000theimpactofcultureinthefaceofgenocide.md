@@ -1,6 +1,6 @@
 ---
 slug: "trm-apfelbaume2000theimpactofcultureinthefaceofgenocide"
-id: "TRM-ENG-36560"
+id: "TRM-ENG-65618"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Apfelbaum,E.(2000).Theimpactofcultureinthefaceofgenocide"

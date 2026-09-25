@@ -1,6 +1,6 @@
 ---
 slug: "trm-jacksons-fourstage-model-of-3"
-id: "TRM-ENG-38273"
+id: "TRM-ENG-52802"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jackson’s four-stage model of, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-396-zimberg-s-ed"
-id: "TRM-ENG-38968"
+id: "TRM-ENG-53497"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "396. Zimberg S (ed)"

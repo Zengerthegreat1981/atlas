@@ -1,6 +1,6 @@
 ---
 slug: "trm-approached-zero-nature-was-not-a-thing-in-itself"
-id: "TRM-ENG-37555"
+id: "TRM-ENG-66613"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "approached zero. Nature was not a thing in itself"

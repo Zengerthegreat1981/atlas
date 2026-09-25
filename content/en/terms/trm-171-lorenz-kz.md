@@ -1,6 +1,6 @@
 ---
 slug: "trm-171-lorenz-kz"
-id: "TRM-ENG-38650"
+id: "TRM-ENG-53179"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "171. Lorenz KZ"

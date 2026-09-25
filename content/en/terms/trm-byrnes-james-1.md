@@ -1,6 +1,6 @@
 ---
 slug: "trm-byrnes-james-1"
-id: "TRM-ENG-46352"
+id: "TRM-ENG-60881"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Byrnes, James, 1"

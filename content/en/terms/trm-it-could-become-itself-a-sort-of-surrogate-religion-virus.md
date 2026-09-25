@@ -1,6 +1,6 @@
 ---
 slug: "trm-it-could-become-itself-a-sort-of-surrogate-religion-virus"
-id: "TRM-ENG-45937"
+id: "TRM-ENG-60466"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "it could become itself a sort of surrogate religion virus"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-siegler-r-s-1996-e-merging-minds"
-id: "TRM-ENG-44771"
+id: "TRM-ENG-59300"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Siegler, R. S. (1996). E merging minds"

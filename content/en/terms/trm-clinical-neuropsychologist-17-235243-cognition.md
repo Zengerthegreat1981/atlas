@@ -1,6 +1,6 @@
 ---
 slug: "trm-clinical-neuropsychologist-17-235243-cognition"
-id: "TRM-ENG-42354"
+id: "TRM-ENG-56883"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Clinical Neuropsychologist, 17, 235–243. cognition"

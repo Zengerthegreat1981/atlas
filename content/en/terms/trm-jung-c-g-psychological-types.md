@@ -1,6 +1,6 @@
 ---
 slug: "trm-jung-c-g-psychological-types"
-id: "TRM-ENG-44459"
+id: "TRM-ENG-58988"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jung, C. G., Psychological Types"

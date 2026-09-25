@@ -1,6 +1,6 @@
 ---
 slug: "trm-reason-stanford-ca"
-id: "TRM-ENG-48627"
+id: "TRM-ENG-63156"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reason. Stanford, CA"

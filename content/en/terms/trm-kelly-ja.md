@@ -1,6 +1,6 @@
 ---
 slug: "trm-kelly-ja"
-id: "TRM-ENG-41223"
+id: "TRM-ENG-55752"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kelly JA"

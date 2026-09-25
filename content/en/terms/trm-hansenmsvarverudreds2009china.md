@@ -1,6 +1,6 @@
 ---
 slug: "trm-hansenmsvarverudreds2009china"
-id: "TRM-ENG-36880"
+id: "TRM-ENG-65938"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hansen,M.,&Svarverud,R.(Eds.).(2009).China"

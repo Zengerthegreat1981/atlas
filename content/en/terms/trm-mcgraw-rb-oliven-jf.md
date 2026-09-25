@@ -1,6 +1,6 @@
 ---
 slug: "trm-mcgraw-rb-oliven-jf"
-id: "TRM-ENG-41643"
+id: "TRM-ENG-56172"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "McGraw RB, Oliven JF"

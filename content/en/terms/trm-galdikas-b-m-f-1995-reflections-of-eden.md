@@ -1,6 +1,6 @@
 ---
 slug: "trm-galdikas-b-m-f-1995-reflections-of-eden"
-id: "TRM-ENG-36831"
+id: "TRM-ENG-65889"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Galdikas, B. M. F. (1995). Reflections of Eden"

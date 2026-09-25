@@ -1,6 +1,6 @@
 ---
 slug: "trm-rehearsal"
-id: "TRM-ENG-52360"
+id: "TRM-ENG-66889"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rehearsal"

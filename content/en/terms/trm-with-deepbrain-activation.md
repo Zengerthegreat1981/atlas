@@ -1,6 +1,6 @@
 ---
 slug: "trm-with-deepbrain-activation"
-id: "TRM-ENG-44236"
+id: "TRM-ENG-58765"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "with deep-brain activation"

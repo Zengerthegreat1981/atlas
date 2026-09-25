@@ -1,6 +1,6 @@
 ---
 slug: "trm-delisa-g-gwhiteneckeds-spinalcordinjury"
-id: "TRM-ENG-46495"
+id: "TRM-ENG-61024"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "DeLisa,& G. G.Whiteneck,(Eds.), Spinalcordinjury"

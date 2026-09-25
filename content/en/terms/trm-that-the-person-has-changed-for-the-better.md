@@ -1,6 +1,6 @@
 ---
 slug: "trm-that-the-person-has-changed-for-the-better"
-id: "TRM-ENG-48820"
+id: "TRM-ENG-63349"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "that the person has changed for the better"

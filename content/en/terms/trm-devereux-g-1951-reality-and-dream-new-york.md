@@ -1,6 +1,6 @@
 ---
 slug: "trm-devereux-g-1951-reality-and-dream-new-york"
-id: "TRM-ENG-34671"
+id: "TRM-ENG-63729"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Devereux, G. (1951). Reality and dream. New York"

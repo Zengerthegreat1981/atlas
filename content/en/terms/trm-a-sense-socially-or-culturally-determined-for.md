@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-sense-socially-or-culturally-determined-for"
-id: "TRM-ENG-47525"
+id: "TRM-ENG-62054"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "a sense socially or culturally determined, for"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-sanislow-ca-pine-ds-quinn-kj-et-al"
-id: "TRM-ENG-48037"
+id: "TRM-ENG-62566"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sanislow CA, Pine DS, Quinn KJ, et al"

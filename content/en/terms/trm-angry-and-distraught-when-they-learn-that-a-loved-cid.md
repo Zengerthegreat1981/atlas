@@ -1,6 +1,6 @@
 ---
 slug: "trm-angry-and-distraught-when-they-learn-that-a-loved-cid"
-id: "TRM-ENG-46025"
+id: "TRM-ENG-60554"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "angry, and distraught when they learn that a loved (cid"

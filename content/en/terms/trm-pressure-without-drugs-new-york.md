@@ -1,6 +1,6 @@
 ---
 slug: "trm-pressure-without-drugs-new-york"
-id: "TRM-ENG-45924"
+id: "TRM-ENG-60453"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pressure Without Drugs (New York"

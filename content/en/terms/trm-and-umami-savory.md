@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-umami-savory"
-id: "TRM-ENG-34744"
+id: "TRM-ENG-63802"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and umami (savory)"

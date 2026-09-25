@@ -1,6 +1,6 @@
 ---
 slug: "trm-monism-1"
-id: "TRM-ENG-44632"
+id: "TRM-ENG-59161"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Monism, 1"

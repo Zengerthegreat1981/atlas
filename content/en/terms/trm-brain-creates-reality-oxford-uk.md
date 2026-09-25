@@ -1,6 +1,6 @@
 ---
 slug: "trm-brain-creates-reality-oxford-uk"
-id: "TRM-ENG-44976"
+id: "TRM-ENG-59505"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "brain creates reality. Oxford, UK"

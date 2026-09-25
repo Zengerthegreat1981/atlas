@@ -1,6 +1,6 @@
 ---
 slug: "trm-mccosh-j-1886-psychology"
-id: "TRM-ENG-37062"
+id: "TRM-ENG-66120"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "McCosh, J. (1886). Psychology"

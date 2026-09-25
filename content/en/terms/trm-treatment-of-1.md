@@ -1,6 +1,6 @@
 ---
 slug: "trm-treatment-of-1"
-id: "TRM-ENG-42043"
+id: "TRM-ENG-56572"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "treatment of, 1"

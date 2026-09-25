@@ -1,6 +1,6 @@
 ---
 slug: "trm-ory-and-research-3rd-ed-pp-159181-new-york"
-id: "TRM-ENG-43103"
+id: "TRM-ENG-57632"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ory and research (3rd ed., pp. 159–181). New York"

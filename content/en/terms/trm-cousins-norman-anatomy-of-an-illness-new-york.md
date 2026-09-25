@@ -1,6 +1,6 @@
 ---
 slug: "trm-cousins-norman-anatomy-of-an-illness-new-york"
-id: "TRM-ENG-45786"
+id: "TRM-ENG-60315"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cousins, Norman. Anatomy of an Illness. New York"

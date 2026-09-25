@@ -1,6 +1,6 @@
 ---
 slug: "trm-by-three-groups-of-factors"
-id: "TRM-ENG-46875"
+id: "TRM-ENG-61404"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "by three groups of factors"

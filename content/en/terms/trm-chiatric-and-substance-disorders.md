@@ -1,6 +1,6 @@
 ---
 slug: "trm-chiatric-and-substance-disorders"
-id: "TRM-ENG-42718"
+id: "TRM-ENG-57247"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chiatric and substance disorders"

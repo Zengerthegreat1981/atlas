@@ -1,6 +1,6 @@
 ---
 slug: "trm-last-the-tumor-is-greater-than-five-centimeters-but-it-cid"
-id: "TRM-ENG-45862"
+id: "TRM-ENG-60391"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Last, the tumor is greater than five centimeters but it (cid"

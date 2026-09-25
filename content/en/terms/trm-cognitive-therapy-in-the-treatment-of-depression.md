@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognitive-therapy-in-the-treatment-of-depression"
-id: "TRM-ENG-49347"
+id: "TRM-ENG-63876"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cognitive therapy in the treatment of depression"

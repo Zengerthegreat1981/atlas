@@ -1,6 +1,6 @@
 ---
 slug: "trm-introduction-oxford-england"
-id: "TRM-ENG-48228"
+id: "TRM-ENG-62757"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "introduction. Oxford, England"

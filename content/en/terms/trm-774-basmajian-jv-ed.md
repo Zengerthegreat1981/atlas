@@ -1,6 +1,6 @@
 ---
 slug: "trm-774-basmajian-jv-ed"
-id: "TRM-ENG-39425"
+id: "TRM-ENG-53954"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "774. Basmajian JV (ed)"

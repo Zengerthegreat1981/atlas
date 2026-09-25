@@ -1,6 +1,6 @@
 ---
 slug: "trm-that-of-object-relationships"
-id: "TRM-ENG-45344"
+id: "TRM-ENG-59873"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "that of “object relationships”"

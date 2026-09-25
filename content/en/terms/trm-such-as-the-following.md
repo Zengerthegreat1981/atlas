@@ -1,6 +1,6 @@
 ---
 slug: "trm-such-as-the-following"
-id: "TRM-ENG-51854"
+id: "TRM-ENG-66383"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "such as the following"

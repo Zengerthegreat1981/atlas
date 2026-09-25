@@ -1,6 +1,6 @@
 ---
 slug: "trm-paradox"
-id: "TRM-ENG-45388"
+id: "TRM-ENG-59917"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "paradox"

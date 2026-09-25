@@ -1,6 +1,6 @@
 ---
 slug: "trm-methods-10th-ed-boston-ma"
-id: "TRM-ENG-51603"
+id: "TRM-ENG-66132"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "methods (10th ed.). Boston, MA"

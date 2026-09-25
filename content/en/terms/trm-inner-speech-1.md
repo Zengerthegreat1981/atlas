@@ -1,6 +1,6 @@
 ---
 slug: "trm-inner-speech-1"
-id: "TRM-ENG-45218"
+id: "TRM-ENG-59747"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "inner speech, 1"

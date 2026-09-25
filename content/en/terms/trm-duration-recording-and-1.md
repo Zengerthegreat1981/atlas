@@ -1,6 +1,6 @@
 ---
 slug: "trm-duration-recording-and-1"
-id: "TRM-ENG-39980"
+id: "TRM-ENG-54509"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "duration recording and, 1"

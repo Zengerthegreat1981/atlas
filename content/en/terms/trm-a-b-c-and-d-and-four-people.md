@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-b-c-and-d-and-four-people"
-id: "TRM-ENG-45521"
+id: "TRM-ENG-60050"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(A, B, C, and D) and four people"

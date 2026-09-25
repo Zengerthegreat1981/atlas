@@ -1,6 +1,6 @@
 ---
 slug: "trm-socioeconomic-status-and-health"
-id: "TRM-ENG-46721"
+id: "TRM-ENG-61250"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Socioeconomic status and health"

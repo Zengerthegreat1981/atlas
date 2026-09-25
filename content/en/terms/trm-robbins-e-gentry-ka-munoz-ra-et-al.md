@@ -1,6 +1,6 @@
 ---
 slug: "trm-robbins-e-gentry-ka-munoz-ra-et-al"
-id: "TRM-ENG-48020"
+id: "TRM-ENG-62549"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Robbins E, Gentry KA, Munoz RA, et al"

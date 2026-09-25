@@ -1,6 +1,6 @@
 ---
 slug: "trm-march-j-s-1992-what-constitutes-a-stressor"
-id: "TRM-ENG-49082"
+id: "TRM-ENG-63611"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "March, J. S. (1992). What constitutes a stressor"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-arthur-ed-london-england"
-id: "TRM-ENG-46248"
+id: "TRM-ENG-60777"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Arthur, Ed.). London, England"

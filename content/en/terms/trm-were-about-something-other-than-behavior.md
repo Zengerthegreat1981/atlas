@@ -1,6 +1,6 @@
 ---
 slug: "trm-were-about-something-other-than-behavior"
-id: "TRM-ENG-37307"
+id: "TRM-ENG-66365"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "were about something other than behavior"

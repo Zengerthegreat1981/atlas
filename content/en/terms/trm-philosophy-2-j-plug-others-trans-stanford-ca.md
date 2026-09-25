@@ -1,6 +1,6 @@
 ---
 slug: "trm-philosophy-2-j-plug-others-trans-stanford-ca"
-id: "TRM-ENG-48541"
+id: "TRM-ENG-63070"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "philosophy 2 (J. Plug & others, Trans.). Stanford, CA"

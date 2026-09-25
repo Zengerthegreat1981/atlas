@@ -1,6 +1,6 @@
 ---
 slug: "trm-testretest-reliability-study-of-4"
-id: "TRM-ENG-41863"
+id: "TRM-ENG-56392"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "test-retest reliability study of, 4"

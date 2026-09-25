@@ -1,6 +1,6 @@
 ---
 slug: "trm-short-form-psychology-and-psychotherapy"
-id: "TRM-ENG-42531"
+id: "TRM-ENG-57060"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Short form. Psychology and Psychotherapy"

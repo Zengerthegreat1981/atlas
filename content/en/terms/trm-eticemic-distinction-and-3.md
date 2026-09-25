@@ -1,6 +1,6 @@
 ---
 slug: "trm-eticemic-distinction-and-3"
-id: "TRM-ENG-40110"
+id: "TRM-ENG-54639"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "etic–emic distinction and, 3"

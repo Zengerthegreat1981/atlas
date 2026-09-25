@@ -1,6 +1,6 @@
 ---
 slug: "trm-depression-and-anxiety-symptoms-of-3"
-id: "TRM-ENG-39892"
+id: "TRM-ENG-54421"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "depression and anxiety symptoms of, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-childhood-vsadolescentonset-types-of-1"
-id: "TRM-ENG-39489"
+id: "TRM-ENG-54018"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "childhood- vs.adolescent-onset types of, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-symptomatology"
-id: "TRM-ENG-45332"
+id: "TRM-ENG-59861"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "symptomatology"

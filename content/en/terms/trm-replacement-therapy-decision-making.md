@@ -1,6 +1,6 @@
 ---
 slug: "trm-replacement-therapy-decision-making"
-id: "TRM-ENG-47256"
+id: "TRM-ENG-61785"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "replacement therapy decision making"

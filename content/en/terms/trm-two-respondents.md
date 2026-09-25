@@ -1,6 +1,6 @@
 ---
 slug: "trm-two-respondents"
-id: "TRM-ENG-36223"
+id: "TRM-ENG-50752"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "two respondents"

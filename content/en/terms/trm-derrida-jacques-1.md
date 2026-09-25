@@ -1,6 +1,6 @@
 ---
 slug: "trm-derrida-jacques-1"
-id: "TRM-ENG-50307"
+id: "TRM-ENG-64836"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Derrida, Jacques, 1"

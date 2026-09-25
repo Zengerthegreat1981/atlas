@@ -1,6 +1,6 @@
 ---
 slug: "trm-cally-different-methodologies"
-id: "TRM-ENG-47732"
+id: "TRM-ENG-62261"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cally different methodologies"

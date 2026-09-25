@@ -1,6 +1,6 @@
 ---
 slug: "trm-rests-on-a-number-of-considerations"
-id: "TRM-ENG-45288"
+id: "TRM-ENG-59817"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rests on a number of considerations"

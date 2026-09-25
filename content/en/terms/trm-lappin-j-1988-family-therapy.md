@@ -1,6 +1,6 @@
 ---
 slug: "trm-lappin-j-1988-family-therapy"
-id: "TRM-ENG-50658"
+id: "TRM-ENG-65187"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lappin, J. (1988). Family therapy"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-cal-novel-of-education-m-ary"
-id: "TRM-ENG-47728"
+id: "TRM-ENG-62257"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cal novel of education, M ary"

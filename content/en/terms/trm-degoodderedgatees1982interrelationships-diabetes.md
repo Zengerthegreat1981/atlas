@@ -1,6 +1,6 @@
 ---
 slug: "trm-degoodderedgatees1982interrelationships-diabetes"
-id: "TRM-ENG-46493"
+id: "TRM-ENG-61022"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "DeGood,D.E.,&Redgate,E.S.(1982).Interrelationships diabetes"

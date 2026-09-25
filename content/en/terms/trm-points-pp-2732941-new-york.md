@@ -1,6 +1,6 @@
 ---
 slug: "trm-points-pp-2732941-new-york"
-id: "TRM-ENG-35236"
+id: "TRM-ENG-64294"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "points (pp. 273-2941. New York"

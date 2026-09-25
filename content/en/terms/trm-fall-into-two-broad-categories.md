@@ -1,6 +1,6 @@
 ---
 slug: "trm-fall-into-two-broad-categories"
-id: "TRM-ENG-45023"
+id: "TRM-ENG-59552"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "fall into two broad categories"

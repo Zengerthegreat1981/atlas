@@ -1,6 +1,6 @@
 ---
 slug: "trm-levine-sv-salter-n"
-id: "TRM-ENG-41425"
+id: "TRM-ENG-55954"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Levine SV, Salter N"

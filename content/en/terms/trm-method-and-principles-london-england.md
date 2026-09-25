@@ -1,6 +1,6 @@
 ---
 slug: "trm-method-and-principles-london-england"
-id: "TRM-ENG-50737"
+id: "TRM-ENG-65266"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Method and principles. London, England"

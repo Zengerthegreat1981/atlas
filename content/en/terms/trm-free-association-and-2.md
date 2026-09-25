@@ -1,6 +1,6 @@
 ---
 slug: "trm-free-association-and-2"
-id: "TRM-ENG-40254"
+id: "TRM-ENG-54783"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "free association and, 2"

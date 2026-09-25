@@ -1,6 +1,6 @@
 ---
 slug: "trm-neurophysiological-postulate"
-id: "TRM-ENG-37998"
+id: "TRM-ENG-67056"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "neurophysiological postulate"

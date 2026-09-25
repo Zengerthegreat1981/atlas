@@ -1,6 +1,6 @@
 ---
 slug: "trm-pe-interaction-model-and-illustrations-of-2"
-id: "TRM-ENG-38648"
+id: "TRM-ENG-53177"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "P–E interaction model and, illustrations of, 2"

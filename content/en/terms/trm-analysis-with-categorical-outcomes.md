@@ -1,6 +1,6 @@
 ---
 slug: "trm-analysis-with-categorical-outcomes"
-id: "TRM-ENG-35634"
+id: "TRM-ENG-64692"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "analysis with categorical outcomes"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-apple-and-1"
-id: "TRM-ENG-46240"
+id: "TRM-ENG-60769"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Apple and, 1"

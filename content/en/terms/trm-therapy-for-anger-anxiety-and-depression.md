@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapy-for-anger-anxiety-and-depression"
-id: "TRM-ENG-43322"
+id: "TRM-ENG-57851"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapy for anger, anxiety and depression"

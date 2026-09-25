@@ -1,6 +1,6 @@
 ---
 slug: "trm-daniels-rs-margolis-pm"
-id: "TRM-ENG-40296"
+id: "TRM-ENG-54825"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Daniels RS, Margolis PM"

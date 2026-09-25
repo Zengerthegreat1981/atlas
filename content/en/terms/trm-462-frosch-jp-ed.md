@@ -1,6 +1,6 @@
 ---
 slug: "trm-462-frosch-jp-ed"
-id: "TRM-ENG-39054"
+id: "TRM-ENG-53583"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "462. Frosch JP (ed)"

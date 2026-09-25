@@ -1,6 +1,6 @@
 ---
 slug: "trm-segregation-1"
-id: "TRM-ENG-48694"
+id: "TRM-ENG-63223"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "segregation, 1"

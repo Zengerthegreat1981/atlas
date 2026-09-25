@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-following-statement"
-id: "TRM-ENG-45577"
+id: "TRM-ENG-60106"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the following statement"

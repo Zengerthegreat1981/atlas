@@ -1,6 +1,6 @@
 ---
 slug: "trm-sprague-rl-sleator-e"
-id: "TRM-ENG-42437"
+id: "TRM-ENG-56966"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sprague RL, Sleator E"

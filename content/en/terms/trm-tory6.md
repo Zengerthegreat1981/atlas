@@ -1,6 +1,6 @@
 ---
 slug: "trm-tory6"
-id: "TRM-ENG-45794"
+id: "TRM-ENG-60323"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "TORY6"

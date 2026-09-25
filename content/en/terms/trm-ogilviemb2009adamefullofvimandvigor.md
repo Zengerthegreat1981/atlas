@@ -1,6 +1,6 @@
 ---
 slug: "trm-ogilviemb2009adamefullofvimandvigor"
-id: "TRM-ENG-37132"
+id: "TRM-ENG-66190"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ogilvie,M.B.(2009).Adamefullofvimandvigor"

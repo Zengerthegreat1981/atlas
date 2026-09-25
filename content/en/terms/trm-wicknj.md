@@ -1,6 +1,6 @@
 ---
 slug: "trm-wicknj"
-id: "TRM-ENG-49833"
+id: "TRM-ENG-64362"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "wick,NJ"

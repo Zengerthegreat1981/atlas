@@ -1,6 +1,6 @@
 ---
 slug: "trm-black-racial-identity-development-and-3"
-id: "TRM-ENG-37709"
+id: "TRM-ENG-52238"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Black racial identity development and, 3"

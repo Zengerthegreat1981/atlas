@@ -1,6 +1,6 @@
 ---
 slug: "trm-development3295122-expectations"
-id: "TRM-ENG-37953"
+id: "TRM-ENG-67011"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Development,32,95–122. expectations"

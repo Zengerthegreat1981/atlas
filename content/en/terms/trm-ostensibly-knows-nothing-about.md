@@ -1,6 +1,6 @@
 ---
 slug: "trm-ostensibly-knows-nothing-about"
-id: "TRM-ENG-43134"
+id: "TRM-ENG-57663"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ostensibly knows nothing about"

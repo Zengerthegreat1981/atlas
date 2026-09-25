@@ -1,6 +1,6 @@
 ---
 slug: "trm-cassirere1970thephilosophyofsymbolicformsnewhaven"
-id: "TRM-ENG-36685"
+id: "TRM-ENG-65743"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cassirer,E.(1970).Thephilosophyofsymbolicforms.NewHaven"

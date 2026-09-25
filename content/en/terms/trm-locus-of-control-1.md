@@ -1,6 +1,6 @@
 ---
 slug: "trm-locus-of-control-1"
-id: "TRM-ENG-46946"
+id: "TRM-ENG-61475"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Locus of control, 1"

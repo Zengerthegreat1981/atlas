@@ -1,6 +1,6 @@
 ---
 slug: "trm-pickford-rw"
-id: "TRM-ENG-41973"
+id: "TRM-ENG-56502"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pickford RW"

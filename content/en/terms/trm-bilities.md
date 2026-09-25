@@ -1,6 +1,6 @@
 ---
 slug: "trm-bilities"
-id: "TRM-ENG-36212"
+id: "TRM-ENG-65270"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bilities"

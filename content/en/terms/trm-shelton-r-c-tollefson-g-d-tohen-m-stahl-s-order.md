@@ -1,6 +1,6 @@
 ---
 slug: "trm-shelton-r-c-tollefson-g-d-tohen-m-stahl-s-order"
-id: "TRM-ENG-42530"
+id: "TRM-ENG-57059"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shelton, R. C., Tollefson, G. D., Tohen, M., Stahl, S., order"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-egan-mh"
-id: "TRM-ENG-40413"
+id: "TRM-ENG-54942"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Egan MH"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-choices-vs-interests-1"
-id: "TRM-ENG-47759"
+id: "TRM-ENG-62288"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "choices vs. interests, 1"

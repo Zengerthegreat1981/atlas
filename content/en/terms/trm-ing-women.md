@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-women"
-id: "TRM-ENG-46125"
+id: "TRM-ENG-60654"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing women"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-flexner-a-1930-universities"
-id: "TRM-ENG-46626"
+id: "TRM-ENG-61155"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Flexner, A. (1930). Universities"

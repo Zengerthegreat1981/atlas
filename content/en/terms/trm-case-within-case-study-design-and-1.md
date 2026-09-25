@@ -1,6 +1,6 @@
 ---
 slug: "trm-case-within-case-study-design-and-1"
-id: "TRM-ENG-39452"
+id: "TRM-ENG-53981"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "case within case study design and, 1"

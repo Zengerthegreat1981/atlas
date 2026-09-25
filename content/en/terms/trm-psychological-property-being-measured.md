@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychological-property-being-measured"
-id: "TRM-ENG-36051"
+id: "TRM-ENG-65109"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychological property being measured"

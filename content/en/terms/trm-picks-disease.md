@@ -1,6 +1,6 @@
 ---
 slug: "trm-picks-disease"
-id: "TRM-ENG-35901"
+id: "TRM-ENG-64959"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pick’s disease"

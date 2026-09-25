@@ -1,6 +1,6 @@
 ---
 slug: "trm-van-de-vijver-f-j-r-1"
-id: "TRM-ENG-42110"
+id: "TRM-ENG-56639"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "van de Vijver, F. J. R., 1"

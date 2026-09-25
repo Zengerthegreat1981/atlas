@@ -1,6 +1,6 @@
 ---
 slug: "trm-character-pathology"
-id: "TRM-ENG-48237"
+id: "TRM-ENG-62766"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "character pathology"

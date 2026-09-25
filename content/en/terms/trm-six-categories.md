@@ -1,6 +1,6 @@
 ---
 slug: "trm-six-categories"
-id: "TRM-ENG-41672"
+id: "TRM-ENG-56201"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "six categories"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-1991anatomyofaninitialinterview"
-id: "TRM-ENG-48762"
+id: "TRM-ENG-63291"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1991).Anatomyofaninitialinterview"

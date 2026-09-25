@@ -1,6 +1,6 @@
 ---
 slug: "trm-racial-and-ethnic-labels-and-3"
-id: "TRM-ENG-41405"
+id: "TRM-ENG-55934"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "racial and ethnic labels and, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-whatever-the-object-of-inquiry"
-id: "TRM-ENG-47476"
+id: "TRM-ENG-62005"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Whatever the object of inquiry"

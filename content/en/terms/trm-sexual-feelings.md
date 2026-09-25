@@ -1,6 +1,6 @@
 ---
 slug: "trm-sexual-feelings"
-id: "TRM-ENG-43176"
+id: "TRM-ENG-57705"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sexual feelings"

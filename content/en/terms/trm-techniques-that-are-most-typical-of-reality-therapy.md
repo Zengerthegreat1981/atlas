@@ -1,6 +1,6 @@
 ---
 slug: "trm-techniques-that-are-most-typical-of-reality-therapy"
-id: "TRM-ENG-51866"
+id: "TRM-ENG-66395"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "techniques that are most typical of reality therapy"

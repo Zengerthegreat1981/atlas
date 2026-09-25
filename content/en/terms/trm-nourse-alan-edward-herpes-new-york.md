@@ -1,6 +1,6 @@
 ---
 slug: "trm-nourse-alan-edward-herpes-new-york"
-id: "TRM-ENG-45903"
+id: "TRM-ENG-60432"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nourse, Alan Edward, Herpes (New York"

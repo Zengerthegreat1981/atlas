@@ -1,6 +1,6 @@
 ---
 slug: "trm-declamatio-2"
-id: "TRM-ENG-46497"
+id: "TRM-ENG-61026"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Declamatio, 2"

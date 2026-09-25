@@ -1,6 +1,6 @@
 ---
 slug: "trm-biotypes"
-id: "TRM-ENG-36215"
+id: "TRM-ENG-65273"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "biotypes"

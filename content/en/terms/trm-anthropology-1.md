@@ -1,6 +1,6 @@
 ---
 slug: "trm-anthropology-1"
-id: "TRM-ENG-47634"
+id: "TRM-ENG-62163"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "anthropology, 1"

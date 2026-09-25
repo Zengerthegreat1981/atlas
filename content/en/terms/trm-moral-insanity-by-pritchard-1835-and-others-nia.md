@@ -1,6 +1,6 @@
 ---
 slug: "trm-moral-insanity-by-pritchard-1835-and-others-nia"
-id: "TRM-ENG-43022"
+id: "TRM-ENG-57551"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "moral insanity by Pritchard (1835) and others. nia"

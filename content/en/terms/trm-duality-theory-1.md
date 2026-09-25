@@ -1,6 +1,6 @@
 ---
 slug: "trm-duality-theory-1"
-id: "TRM-ENG-46521"
+id: "TRM-ENG-61050"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Duality theory, 1"

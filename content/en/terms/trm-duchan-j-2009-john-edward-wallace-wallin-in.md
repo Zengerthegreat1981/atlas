@@ -1,6 +1,6 @@
 ---
 slug: "trm-duchan-j-2009-john-edward-wallace-wallin-in"
-id: "TRM-ENG-36747"
+id: "TRM-ENG-65805"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Duchan, J. (2009). John Edward Wallace Wallin. In"

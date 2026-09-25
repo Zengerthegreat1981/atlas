@@ -1,6 +1,6 @@
 ---
 slug: "trm-sons-experiential-reality-and-3-cognitive"
-id: "TRM-ENG-51833"
+id: "TRM-ENG-66362"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "son’s experiential reality; and (3) cognitive"

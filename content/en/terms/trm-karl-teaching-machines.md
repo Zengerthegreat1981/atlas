@@ -1,6 +1,6 @@
 ---
 slug: "trm-karl-teaching-machines"
-id: "TRM-ENG-46858"
+id: "TRM-ENG-61387"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Karl; Teaching Machines"

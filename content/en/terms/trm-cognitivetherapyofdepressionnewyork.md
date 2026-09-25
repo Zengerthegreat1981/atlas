@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognitivetherapyofdepressionnewyork"
-id: "TRM-ENG-48944"
+id: "TRM-ENG-63473"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cognitivetherapyofdepression.NewYork"

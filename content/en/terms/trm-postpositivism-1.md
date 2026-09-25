@@ -1,6 +1,6 @@
 ---
 slug: "trm-postpositivism-1"
-id: "TRM-ENG-48569"
+id: "TRM-ENG-63098"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "postpositivism, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-analgesia"
-id: "TRM-ENG-46793"
+id: "TRM-ENG-61322"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "analgesia"

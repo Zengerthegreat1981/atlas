@@ -1,6 +1,6 @@
 ---
 slug: "trm-curity-income"
-id: "TRM-ENG-34958"
+id: "TRM-ENG-64016"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "curity Income"

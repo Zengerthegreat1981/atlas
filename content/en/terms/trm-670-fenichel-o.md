@@ -1,6 +1,6 @@
 ---
 slug: "trm-670-fenichel-o"
-id: "TRM-ENG-39300"
+id: "TRM-ENG-53829"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "670. Fenichel O"

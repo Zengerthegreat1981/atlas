@@ -1,6 +1,6 @@
 ---
 slug: "trm-hall-g-s-adolescence"
-id: "TRM-ENG-44427"
+id: "TRM-ENG-58956"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hall, G. S., Adolescence"

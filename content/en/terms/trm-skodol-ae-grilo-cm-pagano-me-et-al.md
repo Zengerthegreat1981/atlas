@@ -1,6 +1,6 @@
 ---
 slug: "trm-skodol-ae-grilo-cm-pagano-me-et-al"
-id: "TRM-ENG-48080"
+id: "TRM-ENG-62609"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Skodol AE, Grilo CM, Pagano ME, et al"

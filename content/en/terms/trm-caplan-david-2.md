@@ -1,6 +1,6 @@
 ---
 slug: "trm-caplan-david-2"
-id: "TRM-ENG-44365"
+id: "TRM-ENG-58894"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Caplan, David, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-for-his-dollar-trilogy"
-id: "TRM-ENG-37770"
+id: "TRM-ENG-52299"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "for his Dollar trilogy"

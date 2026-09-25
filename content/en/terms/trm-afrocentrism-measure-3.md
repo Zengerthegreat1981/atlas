@@ -1,6 +1,6 @@
 ---
 slug: "trm-afrocentrism-measure-3"
-id: "TRM-ENG-37558"
+id: "TRM-ENG-66616"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Afrocentrism Measure, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-kleegman-sj"
-id: "TRM-ENG-41250"
+id: "TRM-ENG-55779"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kleegman SJ"

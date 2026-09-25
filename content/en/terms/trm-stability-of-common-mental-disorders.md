@@ -1,6 +1,6 @@
 ---
 slug: "trm-stability-of-common-mental-disorders"
-id: "TRM-ENG-43250"
+id: "TRM-ENG-57779"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stability of common mental disorders"

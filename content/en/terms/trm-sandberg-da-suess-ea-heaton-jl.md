@@ -1,6 +1,6 @@
 ---
 slug: "trm-sandberg-da-suess-ea-heaton-jl"
-id: "TRM-ENG-48035"
+id: "TRM-ENG-62564"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sandberg DA, Suess EA, Heaton JL"

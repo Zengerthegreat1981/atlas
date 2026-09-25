@@ -1,6 +1,6 @@
 ---
 slug: "trm-could-be-much-less-common"
-id: "TRM-ENG-36316"
+id: "TRM-ENG-50845"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "could be much less common"

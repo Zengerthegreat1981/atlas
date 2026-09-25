@@ -1,6 +1,6 @@
 ---
 slug: "trm-linn-l-weinroth-la-shamah-r"
-id: "TRM-ENG-41477"
+id: "TRM-ENG-56006"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Linn L, Weinroth LA, Shamah R"

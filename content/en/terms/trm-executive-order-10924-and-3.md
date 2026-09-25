@@ -1,6 +1,6 @@
 ---
 slug: "trm-executive-order-10924-and-3"
-id: "TRM-ENG-38050"
+id: "TRM-ENG-67108"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Executive Order 10924 and, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-lead-to-the-ultimate-truth"
-id: "TRM-ENG-48268"
+id: "TRM-ENG-62797"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lead to the ultimate truth"

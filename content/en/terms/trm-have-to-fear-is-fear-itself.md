@@ -1,6 +1,6 @@
 ---
 slug: "trm-have-to-fear-is-fear-itself"
-id: "TRM-ENG-46103"
+id: "TRM-ENG-60632"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "have to fear is fear itself"

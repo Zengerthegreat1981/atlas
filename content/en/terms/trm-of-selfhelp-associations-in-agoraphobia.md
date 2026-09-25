@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-selfhelp-associations-in-agoraphobia"
-id: "TRM-ENG-49579"
+id: "TRM-ENG-64108"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of self-help associations in agoraphobia"

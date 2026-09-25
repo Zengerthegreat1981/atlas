@@ -1,6 +1,6 @@
 ---
 slug: "trm-rubin-rhea-joyce-bibliotherapy-sourcebook-phoenix"
-id: "TRM-ENG-45947"
+id: "TRM-ENG-60476"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rubin, Rhea Joyce, Bibliotherapy Sourcebook (Phoenix"

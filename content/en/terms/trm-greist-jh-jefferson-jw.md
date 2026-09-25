@@ -1,6 +1,6 @@
 ---
 slug: "trm-greist-jh-jefferson-jw"
-id: "TRM-ENG-40822"
+id: "TRM-ENG-55351"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Greist JH & Jefferson JW"

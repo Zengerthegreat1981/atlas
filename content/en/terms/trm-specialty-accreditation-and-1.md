@@ -1,6 +1,6 @@
 ---
 slug: "trm-specialty-accreditation-and-1"
-id: "TRM-ENG-41739"
+id: "TRM-ENG-56268"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "specialty accreditation and, 1"

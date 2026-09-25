@@ -1,6 +1,6 @@
 ---
 slug: "trm-mitted-state-mitchell-et-al-1997-lithium-carbonate"
-id: "TRM-ENG-36721"
+id: "TRM-ENG-65779"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mitted state (Mitchell et al., 1997). Lithium carbonate"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-pure-as-opposed-to-applied-research"
-id: "TRM-ENG-48602"
+id: "TRM-ENG-63131"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pure as opposed to applied research"

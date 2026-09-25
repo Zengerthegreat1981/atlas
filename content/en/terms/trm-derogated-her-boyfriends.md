@@ -1,6 +1,6 @@
 ---
 slug: "trm-derogated-her-boyfriends"
-id: "TRM-ENG-43658"
+id: "TRM-ENG-58187"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "derogated her boyfriends"

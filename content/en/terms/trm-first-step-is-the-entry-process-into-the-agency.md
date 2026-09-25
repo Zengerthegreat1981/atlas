@@ -1,6 +1,6 @@
 ---
 slug: "trm-first-step-is-the-entry-process-into-the-agency"
-id: "TRM-ENG-43040"
+id: "TRM-ENG-57569"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "first step is the “entry process” into the agency"

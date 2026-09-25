@@ -1,6 +1,6 @@
 ---
 slug: "trm-hobson-j-a-1989-slrup-new-york"
-id: "TRM-ENG-34717"
+id: "TRM-ENG-63775"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hobson, J. A. (1989). Slrup. New York"

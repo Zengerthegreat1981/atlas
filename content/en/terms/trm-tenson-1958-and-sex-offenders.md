@@ -1,6 +1,6 @@
 ---
 slug: "trm-tenson-1958-and-sex-offenders"
-id: "TRM-ENG-37077"
+id: "TRM-ENG-66135"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tenson, 1958), and Sex Offenders"

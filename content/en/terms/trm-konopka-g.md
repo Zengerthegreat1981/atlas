@@ -1,6 +1,6 @@
 ---
 slug: "trm-konopka-g"
-id: "TRM-ENG-41286"
+id: "TRM-ENG-55815"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Konopka G"

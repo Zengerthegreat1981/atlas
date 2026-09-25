@@ -1,6 +1,6 @@
 ---
 slug: "trm-payot-i"
-id: "TRM-ENG-41951"
+id: "TRM-ENG-56480"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Payot I"

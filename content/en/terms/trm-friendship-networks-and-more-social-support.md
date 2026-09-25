@@ -1,6 +1,6 @@
 ---
 slug: "trm-friendship-networks-and-more-social-support"
-id: "TRM-ENG-35036"
+id: "TRM-ENG-49565"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "friendship networks and more social support"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-jamesmyers-l-3"
-id: "TRM-ENG-38282"
+id: "TRM-ENG-52811"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "James-Myers, L., 3"

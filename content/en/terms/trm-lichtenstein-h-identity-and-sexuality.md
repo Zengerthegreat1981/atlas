@@ -1,6 +1,6 @@
 ---
 slug: "trm-lichtenstein-h-identity-and-sexuality"
-id: "TRM-ENG-44492"
+id: "TRM-ENG-59021"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lichtenstein, H., “Identity and Sexuality"

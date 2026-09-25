@@ -1,6 +1,6 @@
 ---
 slug: "trm-helicobacter-pylori"
-id: "TRM-ENG-46548"
+id: "TRM-ENG-61077"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Helicobacter pylori"

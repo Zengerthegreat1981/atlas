@@ -1,6 +1,6 @@
 ---
 slug: "trm-94-abel-tm-metraux-r-roll-s"
-id: "TRM-ENG-39606"
+id: "TRM-ENG-54135"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "94. Abel TM, Metraux R, Roll S"

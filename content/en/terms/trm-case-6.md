@@ -1,6 +1,6 @@
 ---
 slug: "trm-case-6"
-id: "TRM-ENG-44328"
+id: "TRM-ENG-58857"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Case 6"

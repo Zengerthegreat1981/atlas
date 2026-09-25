@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-juvenile-psychopathy"
-id: "TRM-ENG-43775"
+id: "TRM-ENG-58304"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of juvenile psychopathy"

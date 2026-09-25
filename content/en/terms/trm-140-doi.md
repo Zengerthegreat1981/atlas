@@ -1,6 +1,6 @@
 ---
 slug: "trm-140-doi"
-id: "TRM-ENG-43286"
+id: "TRM-ENG-57815"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "140. doi"

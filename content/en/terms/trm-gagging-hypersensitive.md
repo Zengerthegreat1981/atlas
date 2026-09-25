@@ -1,6 +1,6 @@
 ---
 slug: "trm-gagging-hypersensitive"
-id: "TRM-ENG-45822"
+id: "TRM-ENG-60351"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "GAGGING, HYPERSENSITIVE"

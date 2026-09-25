@@ -1,6 +1,6 @@
 ---
 slug: "trm-counselors-and-therapists2"
-id: "TRM-ENG-37887"
+id: "TRM-ENG-52416"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Counselors and therapists,2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-community-vsclinical-samples-of-2"
-id: "TRM-ENG-39602"
+id: "TRM-ENG-54131"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "community vs.clinical samples of, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-mens-rea"
-id: "TRM-ENG-52282"
+id: "TRM-ENG-66811"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mens rea"

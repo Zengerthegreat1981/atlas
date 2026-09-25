@@ -1,6 +1,6 @@
 ---
 slug: "trm-olent"
-id: "TRM-ENG-45972"
+id: "TRM-ENG-60501"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "olent"

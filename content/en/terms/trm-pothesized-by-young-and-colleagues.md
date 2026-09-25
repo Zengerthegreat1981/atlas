@@ -1,6 +1,6 @@
 ---
 slug: "trm-pothesized-by-young-and-colleagues"
-id: "TRM-ENG-43138"
+id: "TRM-ENG-57667"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pothesized by Young and colleagues"

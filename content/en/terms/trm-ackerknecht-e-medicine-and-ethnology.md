@@ -1,6 +1,6 @@
 ---
 slug: "trm-ackerknecht-e-medicine-and-ethnology"
-id: "TRM-ENG-44239"
+id: "TRM-ENG-58768"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ackerknecht, E., Medicine and Ethnology"

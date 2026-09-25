@@ -1,6 +1,6 @@
 ---
 slug: "trm-individualdifferencesinempathyjournalofpersonality-women"
-id: "TRM-ENG-49490"
+id: "TRM-ENG-64019"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "individualdifferencesinempathy.JournalofPersonality women"

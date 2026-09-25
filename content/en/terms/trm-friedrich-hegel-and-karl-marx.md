@@ -1,6 +1,6 @@
 ---
 slug: "trm-friedrich-hegel-and-karl-marx"
-id: "TRM-ENG-46650"
+id: "TRM-ENG-61179"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Friedrich Hegel, and Karl Marx"

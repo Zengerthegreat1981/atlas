@@ -1,6 +1,6 @@
 ---
 slug: "trm-current-status-2"
-id: "TRM-ENG-45047"
+id: "TRM-ENG-59576"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "current status, 2"

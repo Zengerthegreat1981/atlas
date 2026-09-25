@@ -1,6 +1,6 @@
 ---
 slug: "trm-landman-j-1993-r-egret"
-id: "TRM-ENG-44578"
+id: "TRM-ENG-59107"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Landman, J. (1993). R egret"

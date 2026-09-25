@@ -1,6 +1,6 @@
 ---
 slug: "trm-acute-suicidal-potential"
-id: "TRM-ENG-45739"
+id: "TRM-ENG-60268"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Acute Suicidal Potential"

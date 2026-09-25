@@ -1,6 +1,6 @@
 ---
 slug: "trm-portions"
-id: "TRM-ENG-36882"
+id: "TRM-ENG-65940"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "portions"

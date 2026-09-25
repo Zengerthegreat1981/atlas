@@ -1,6 +1,6 @@
 ---
 slug: "trm-family-therapy-and-2"
-id: "TRM-ENG-40183"
+id: "TRM-ENG-54712"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "family therapy and, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ory-hw-et-al"
-id: "TRM-ENG-41884"
+id: "TRM-ENG-56413"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ory HW et al"

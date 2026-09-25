@@ -1,6 +1,6 @@
 ---
 slug: "trm-lander-j-schulman-r"
-id: "TRM-ENG-41355"
+id: "TRM-ENG-55884"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lander J, Schulman R"

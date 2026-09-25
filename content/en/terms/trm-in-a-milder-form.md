@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-a-milder-form"
-id: "TRM-ENG-44070"
+id: "TRM-ENG-58599"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in a milder form"

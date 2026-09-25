@@ -1,6 +1,6 @@
 ---
 slug: "trm-tably-attachment-figures"
-id: "TRM-ENG-43280"
+id: "TRM-ENG-57809"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tably attachment figures"

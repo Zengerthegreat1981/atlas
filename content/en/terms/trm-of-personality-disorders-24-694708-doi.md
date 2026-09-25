@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-personality-disorders-24-694708-doi"
-id: "TRM-ENG-43764"
+id: "TRM-ENG-58293"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of Personality Disorders, 24, 694–708. doi"

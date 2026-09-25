@@ -1,6 +1,6 @@
 ---
 slug: "trm-cambrayjcarterleds2004analyticalpsychology"
-id: "TRM-ENG-36676"
+id: "TRM-ENG-51205"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cambray,J.,&Carter,L.(Eds.).(2004).Analyticalpsychology"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-principles-and-practicesnew-york"
-id: "TRM-ENG-35907"
+id: "TRM-ENG-50436"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Principles and practices.New York"

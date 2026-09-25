@@ -1,6 +1,6 @@
 ---
 slug: "trm-cident-disease-failed-crop"
-id: "TRM-ENG-45869"
+id: "TRM-ENG-60398"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cident, disease, failed crop"

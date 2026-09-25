@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-ontological-condition"
-id: "TRM-ENG-47607"
+id: "TRM-ENG-62136"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and ontological condition"

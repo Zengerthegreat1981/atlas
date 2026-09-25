@@ -1,6 +1,6 @@
 ---
 slug: "trm-ning-in-borderline-personality-disorder"
-id: "TRM-ENG-43034"
+id: "TRM-ENG-57563"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ning in borderline personality disorder"

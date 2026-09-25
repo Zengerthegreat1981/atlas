@@ -1,6 +1,6 @@
 ---
 slug: "trm-racialethnic-heritage-of-3"
-id: "TRM-ENG-41416"
+id: "TRM-ENG-55945"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "racial/ethnic heritage of, 3"

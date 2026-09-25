@@ -1,6 +1,6 @@
 ---
 slug: "trm-saul-lj-et-al"
-id: "TRM-ENG-42250"
+id: "TRM-ENG-56779"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Saul LJ, et al"

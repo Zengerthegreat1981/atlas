@@ -1,6 +1,6 @@
 ---
 slug: "trm-haplology"
-id: "TRM-ENG-52209"
+id: "TRM-ENG-66738"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Haplology"

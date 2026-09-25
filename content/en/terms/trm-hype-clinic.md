@@ -1,6 +1,6 @@
 ---
 slug: "trm-hype-clinic"
-id: "TRM-ENG-42396"
+id: "TRM-ENG-56925"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "HYPE Clinic"

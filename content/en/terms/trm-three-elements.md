@@ -1,6 +1,6 @@
 ---
 slug: "trm-three-elements"
-id: "TRM-ENG-44217"
+id: "TRM-ENG-58746"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "three elements"

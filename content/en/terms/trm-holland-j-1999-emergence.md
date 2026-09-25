@@ -1,6 +1,6 @@
 ---
 slug: "trm-holland-j-1999-emergence"
-id: "TRM-ENG-46775"
+id: "TRM-ENG-61304"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Holland, J. (1999). Emergence"

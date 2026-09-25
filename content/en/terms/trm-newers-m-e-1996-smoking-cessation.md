@@ -1,6 +1,6 @@
 ---
 slug: "trm-newers-m-e-1996-smoking-cessation"
-id: "TRM-ENG-46641"
+id: "TRM-ENG-61170"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Newers, M. E. (1996). Smoking cessation"

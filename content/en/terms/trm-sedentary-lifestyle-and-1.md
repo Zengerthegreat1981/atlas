@@ -1,6 +1,6 @@
 ---
 slug: "trm-sedentary-lifestyle-and-1"
-id: "TRM-ENG-41588"
+id: "TRM-ENG-56117"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sedentary lifestyle and, 1"

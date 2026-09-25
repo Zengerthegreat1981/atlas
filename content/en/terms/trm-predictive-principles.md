@@ -1,6 +1,6 @@
 ---
 slug: "trm-predictive-principles"
-id: "TRM-ENG-42494"
+id: "TRM-ENG-57023"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Predictive Principles"

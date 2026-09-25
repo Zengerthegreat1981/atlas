@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-neomarxist-inspiration"
-id: "TRM-ENG-48440"
+id: "TRM-ENG-62969"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of neo-Marxist inspiration"

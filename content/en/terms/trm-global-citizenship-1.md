@@ -1,6 +1,6 @@
 ---
 slug: "trm-global-citizenship-1"
-id: "TRM-ENG-48074"
+id: "TRM-ENG-62603"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "global citizenship, 1"

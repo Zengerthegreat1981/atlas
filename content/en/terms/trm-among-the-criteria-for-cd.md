@@ -1,6 +1,6 @@
 ---
 slug: "trm-among-the-criteria-for-cd"
-id: "TRM-ENG-42614"
+id: "TRM-ENG-57143"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "among the criteria for CD"

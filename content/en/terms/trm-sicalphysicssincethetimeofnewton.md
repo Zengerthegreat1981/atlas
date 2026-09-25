@@ -1,6 +1,6 @@
 ---
 slug: "trm-sicalphysicssincethetimeofnewton"
-id: "TRM-ENG-38248"
+id: "TRM-ENG-52777"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sicalphysicssincethetimeofNewton"

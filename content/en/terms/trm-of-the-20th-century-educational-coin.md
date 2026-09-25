@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-the-20th-century-educational-coin"
-id: "TRM-ENG-48448"
+id: "TRM-ENG-62977"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of the 20th century educational coin"

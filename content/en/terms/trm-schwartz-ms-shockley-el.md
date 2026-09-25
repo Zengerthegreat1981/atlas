@@ -1,6 +1,6 @@
 ---
 slug: "trm-schwartz-ms-shockley-el"
-id: "TRM-ENG-42298"
+id: "TRM-ENG-56827"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schwartz MS, Shockley EL"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-bullying-victims-and-1"
-id: "TRM-ENG-39390"
+id: "TRM-ENG-53919"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bullying victims and, 1"

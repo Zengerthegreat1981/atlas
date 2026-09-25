@@ -1,6 +1,6 @@
 ---
 slug: "trm-reliability-and-2"
-id: "TRM-ENG-41483"
+id: "TRM-ENG-56012"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reliability and, 2"

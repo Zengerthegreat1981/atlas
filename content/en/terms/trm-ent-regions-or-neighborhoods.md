@@ -1,6 +1,6 @@
 ---
 slug: "trm-ent-regions-or-neighborhoods"
-id: "TRM-ENG-43636"
+id: "TRM-ENG-58165"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ent regions or neighborhoods."

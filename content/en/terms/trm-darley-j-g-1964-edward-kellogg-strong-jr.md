@@ -1,6 +1,6 @@
 ---
 slug: "trm-darley-j-g-1964-edward-kellogg-strong-jr"
-id: "TRM-ENG-37922"
+id: "TRM-ENG-66980"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Darley, J. G. (1964). Edward Kellogg Strong, Jr."

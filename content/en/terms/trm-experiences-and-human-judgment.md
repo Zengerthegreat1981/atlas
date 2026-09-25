@@ -1,6 +1,6 @@
 ---
 slug: "trm-experiences-and-human-judgment"
-id: "TRM-ENG-45115"
+id: "TRM-ENG-59644"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "experiences and human judgment"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-consultationnewyork"
-id: "TRM-ENG-49364"
+id: "TRM-ENG-63893"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "consultation.NewYork"

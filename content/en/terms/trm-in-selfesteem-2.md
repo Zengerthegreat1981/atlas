@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-selfesteem-2"
-id: "TRM-ENG-40493"
+id: "TRM-ENG-55022"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in self-esteem, 2"

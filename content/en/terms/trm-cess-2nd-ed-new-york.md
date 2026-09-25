@@ -1,6 +1,6 @@
 ---
 slug: "trm-cess-2nd-ed-new-york"
-id: "TRM-ENG-42711"
+id: "TRM-ENG-57240"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cess (2nd ed.). New York"

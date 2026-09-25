@@ -1,6 +1,6 @@
 ---
 slug: "trm-bifactor-models-and-rotations"
-id: "TRM-ENG-35318"
+id: "TRM-ENG-64376"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bifactor models and rotations"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-brocas-area-1"
-id: "TRM-ENG-44346"
+id: "TRM-ENG-58875"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Broca’s area, 1"

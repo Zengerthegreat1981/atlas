@@ -1,6 +1,6 @@
 ---
 slug: "trm-teresa-davis-lafromboises-work-in-3"
-id: "TRM-ENG-38871"
+id: "TRM-ENG-53400"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Teresa Davis LaFromboise’s work in, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-competence-is-particularly-noteworthy-examination-of-counseling"
-id: "TRM-ENG-39615"
+id: "TRM-ENG-54144"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "competence is particularly noteworthy. Examination of counseling"

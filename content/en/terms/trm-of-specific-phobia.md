@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-specific-phobia"
-id: "TRM-ENG-36001"
+id: "TRM-ENG-65059"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of specific phobia"

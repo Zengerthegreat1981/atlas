@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognitive-and-actionregulating-resources"
-id: "TRM-ENG-45009"
+id: "TRM-ENG-59538"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cognitive and action-regulating resources"

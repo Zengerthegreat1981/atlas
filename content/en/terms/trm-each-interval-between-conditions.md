@@ -1,6 +1,6 @@
 ---
 slug: "trm-each-interval-between-conditions"
-id: "TRM-ENG-36386"
+id: "TRM-ENG-65444"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "each interval between conditions"

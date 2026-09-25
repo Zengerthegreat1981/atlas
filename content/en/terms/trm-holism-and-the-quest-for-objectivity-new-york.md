@@ -1,6 +1,6 @@
 ---
 slug: "trm-holism-and-the-quest-for-objectivity-new-york"
-id: "TRM-ENG-36907"
+id: "TRM-ENG-65965"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Holism and the quest for objectivity. New York"

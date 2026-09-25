@@ -1,6 +1,6 @@
 ---
 slug: "trm-izeddiscontentandagitation"
-id: "TRM-ENG-43705"
+id: "TRM-ENG-58234"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "izeddiscontentandagitation."

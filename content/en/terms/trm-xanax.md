@@ -1,6 +1,6 @@
 ---
 slug: "trm-xanax"
-id: "TRM-ENG-38531"
+id: "TRM-ENG-53060"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Xanax"

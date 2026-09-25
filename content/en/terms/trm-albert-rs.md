@@ -1,6 +1,6 @@
 ---
 slug: "trm-albert-rs"
-id: "TRM-ENG-39654"
+id: "TRM-ENG-54183"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Albert RS"

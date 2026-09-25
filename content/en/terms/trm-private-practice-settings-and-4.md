@@ -1,6 +1,6 @@
 ---
 slug: "trm-private-practice-settings-and-4"
-id: "TRM-ENG-41271"
+id: "TRM-ENG-55800"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "private practice settings and, 4"

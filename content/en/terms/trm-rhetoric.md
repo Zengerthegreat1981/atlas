@@ -1,6 +1,6 @@
 ---
 slug: "trm-rhetoric"
-id: "TRM-ENG-48669"
+id: "TRM-ENG-63198"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rhetoric"

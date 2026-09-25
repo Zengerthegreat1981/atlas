@@ -1,6 +1,6 @@
 ---
 slug: "trm-dennett-daniel-1"
-id: "TRM-ENG-44428"
+id: "TRM-ENG-58957"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dennett, Daniel, 1"

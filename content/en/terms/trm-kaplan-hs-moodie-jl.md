@@ -1,6 +1,6 @@
 ---
 slug: "trm-kaplan-hs-moodie-jl"
-id: "TRM-ENG-41189"
+id: "TRM-ENG-55718"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kaplan HS, Moodie JL"

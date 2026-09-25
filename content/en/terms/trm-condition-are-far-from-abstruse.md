@@ -1,6 +1,6 @@
 ---
 slug: "trm-condition-are-far-from-abstruse"
-id: "TRM-ENG-46443"
+id: "TRM-ENG-60972"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Condition are far from abstruse"

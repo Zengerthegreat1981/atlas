@@ -1,6 +1,6 @@
 ---
 slug: "trm-buddhism-1"
-id: "TRM-ENG-46337"
+id: "TRM-ENG-60866"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Buddhism, 1"

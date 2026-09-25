@@ -1,6 +1,6 @@
 ---
 slug: "trm-disabilities-45-116124-doi"
-id: "TRM-ENG-43414"
+id: "TRM-ENG-57943"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Disabilities, 45, 116–124. doi"

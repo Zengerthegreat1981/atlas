@@ -1,6 +1,6 @@
 ---
 slug: "trm-panafricanist-movements-and-3"
-id: "TRM-ENG-41100"
+id: "TRM-ENG-55629"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pan-Africanist movements and, 3"

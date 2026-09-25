@@ -1,6 +1,6 @@
 ---
 slug: "trm-kulpe-o-1893-grundriss-der-psychologie-leipzig"
-id: "TRM-ENG-37018"
+id: "TRM-ENG-51547"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ku¨lpe, O. (1893). Grundriss der psychologie. Leipzig"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-actions-may-be-damnable"
-id: "TRM-ENG-51212"
+id: "TRM-ENG-65741"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "actions may be damnable"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-between-the-informationbearing-structure-in-ques-lowing"
-id: "TRM-ENG-44968"
+id: "TRM-ENG-59497"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "between the information-bearing structure in ques- lowing"

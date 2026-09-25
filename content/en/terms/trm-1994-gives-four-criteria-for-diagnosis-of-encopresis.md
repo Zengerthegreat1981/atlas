@@ -1,6 +1,6 @@
 ---
 slug: "trm-1994-gives-four-criteria-for-diagnosis-of-encopresis"
-id: "TRM-ENG-35539"
+id: "TRM-ENG-50068"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1994) gives four criteria for diagnosis of Encopresis"

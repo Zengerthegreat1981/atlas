@@ -1,6 +1,6 @@
 ---
 slug: "trm-parfit-derek-reasons-and-persons-oxford"
-id: "TRM-ENG-45759"
+id: "TRM-ENG-60288"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Parfit, Derek. Reasons and Persons. Oxford"

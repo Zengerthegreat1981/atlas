@@ -1,6 +1,6 @@
 ---
 slug: "trm-relationship-3rd-ed-new-york-ny"
-id: "TRM-ENG-51789"
+id: "TRM-ENG-66318"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "relationship (3rd ed.). New York, NY"

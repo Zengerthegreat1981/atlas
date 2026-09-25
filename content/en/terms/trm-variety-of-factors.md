@@ -1,6 +1,6 @@
 ---
 slug: "trm-variety-of-factors"
-id: "TRM-ENG-36380"
+id: "TRM-ENG-65438"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "variety of factors"

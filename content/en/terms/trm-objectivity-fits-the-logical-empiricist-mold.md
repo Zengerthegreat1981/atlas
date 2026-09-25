@@ -1,6 +1,6 @@
 ---
 slug: "trm-objectivity-fits-the-logical-empiricist-mold"
-id: "TRM-ENG-49080"
+id: "TRM-ENG-63609"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“objectivity” fits the logical empiricist mold"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-latour-b-1987-science-in-action"
-id: "TRM-ENG-46907"
+id: "TRM-ENG-61436"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Latour, B. (1987). Science in action"

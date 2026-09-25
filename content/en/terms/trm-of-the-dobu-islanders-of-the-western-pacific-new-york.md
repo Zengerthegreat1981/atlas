@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-the-dobu-islanders-of-the-western-pacific-new-york"
-id: "TRM-ENG-38026"
+id: "TRM-ENG-67084"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of the Dobu Islanders of the Western Pacific. New York"

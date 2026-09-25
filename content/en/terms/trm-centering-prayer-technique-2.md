@@ -1,6 +1,6 @@
 ---
 slug: "trm-centering-prayer-technique-2"
-id: "TRM-ENG-50226"
+id: "TRM-ENG-64755"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Centering Prayer technique, 2"

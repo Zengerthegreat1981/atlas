@@ -1,6 +1,6 @@
 ---
 slug: "trm-benefitsofdifferenttreatmentoptions"
-id: "TRM-ENG-43554"
+id: "TRM-ENG-58083"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "benefitsofdifferenttreatmentoptions."

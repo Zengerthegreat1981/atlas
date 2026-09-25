@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-same-place"
-id: "TRM-ENG-48640"
+id: "TRM-ENG-63169"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the same place"

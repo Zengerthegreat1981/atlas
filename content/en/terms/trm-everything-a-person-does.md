@@ -1,6 +1,6 @@
 ---
 slug: "trm-everything-a-person-does"
-id: "TRM-ENG-44102"
+id: "TRM-ENG-58631"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "everything a person does"

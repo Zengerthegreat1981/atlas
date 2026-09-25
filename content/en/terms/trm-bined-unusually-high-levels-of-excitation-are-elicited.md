@@ -1,6 +1,6 @@
 ---
 slug: "trm-bined-unusually-high-levels-of-excitation-are-elicited"
-id: "TRM-ENG-36214"
+id: "TRM-ENG-65272"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bined, unusually high levels of excitation are elicited"

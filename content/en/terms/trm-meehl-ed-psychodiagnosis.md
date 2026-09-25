@@ -1,6 +1,6 @@
 ---
 slug: "trm-meehl-ed-psychodiagnosis"
-id: "TRM-ENG-43480"
+id: "TRM-ENG-58009"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Meehl (Ed.), Psychodiagnosis"

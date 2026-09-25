@@ -1,6 +1,6 @@
 ---
 slug: "trm-researchinclinicalprocessandoutcomemethodology"
-id: "TRM-ENG-46690"
+id: "TRM-ENG-61219"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Researchinclinicalprocessandoutcomemethodology"

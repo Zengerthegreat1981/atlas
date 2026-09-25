@@ -1,6 +1,6 @@
 ---
 slug: "trm-disorder-and-violence"
-id: "TRM-ENG-44087"
+id: "TRM-ENG-58616"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disorder and violence"

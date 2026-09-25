@@ -1,6 +1,6 @@
 ---
 slug: "trm-9-thorner-mw"
-id: "TRM-ENG-39571"
+id: "TRM-ENG-54100"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "9. Thorner MW"

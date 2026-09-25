@@ -1,6 +1,6 @@
 ---
 slug: "trm-ithaca-ny"
-id: "TRM-ENG-46832"
+id: "TRM-ENG-61361"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ithaca, NY"

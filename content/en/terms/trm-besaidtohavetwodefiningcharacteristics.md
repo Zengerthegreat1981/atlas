@@ -1,6 +1,6 @@
 ---
 slug: "trm-besaidtohavetwodefiningcharacteristics"
-id: "TRM-ENG-43557"
+id: "TRM-ENG-58086"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "besaidtohavetwodefiningcharacteristics"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-have-a-role-in-science"
-id: "TRM-ENG-48106"
+id: "TRM-ENG-62635"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "have a role in science"

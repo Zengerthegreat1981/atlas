@@ -1,6 +1,6 @@
 ---
 slug: "trm-can-negotiate"
-id: "TRM-ENG-47735"
+id: "TRM-ENG-62264"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "can negotiate"

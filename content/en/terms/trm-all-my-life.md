@@ -1,6 +1,6 @@
 ---
 slug: "trm-all-my-life"
-id: "TRM-ENG-42946"
+id: "TRM-ENG-57475"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "all my life"

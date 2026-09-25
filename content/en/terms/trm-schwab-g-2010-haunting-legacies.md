@@ -1,6 +1,6 @@
 ---
 slug: "trm-schwab-g-2010-haunting-legacies"
-id: "TRM-ENG-37266"
+id: "TRM-ENG-51795"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schwab, G. (2010). Haunting legacies"

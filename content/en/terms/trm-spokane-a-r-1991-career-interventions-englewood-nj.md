@@ -1,6 +1,6 @@
 ---
 slug: "trm-spokane-a-r-1991-career-interventions-englewood-nj"
-id: "TRM-ENG-38804"
+id: "TRM-ENG-53333"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spokane, A. R. (1991). Career interventions. Englewood, NJ"

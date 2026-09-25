@@ -1,6 +1,6 @@
 ---
 slug: "trm-which-he-described-the-benefits-of-laughter"
-id: "TRM-ENG-46267"
+id: "TRM-ENG-60796"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "which he described the benefits of laughter"

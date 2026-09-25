@@ -1,6 +1,6 @@
 ---
 slug: "trm-technological-innovation-washington-dc"
-id: "TRM-ENG-48801"
+id: "TRM-ENG-63330"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "technological innovation. Washington, DC"

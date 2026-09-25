@@ -1,6 +1,6 @@
 ---
 slug: "trm-ered"
-id: "TRM-ENG-48342"
+id: "TRM-ENG-62871"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ered"

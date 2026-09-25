@@ -1,6 +1,6 @@
 ---
 slug: "trm-chology-be-subjected-to-rigorous-testing-using-the-elements"
-id: "TRM-ENG-51329"
+id: "TRM-ENG-65858"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chology be subjected to rigorous testing, using the elements"

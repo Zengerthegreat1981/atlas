@@ -1,6 +1,6 @@
 ---
 slug: "trm-darcourt-g-1987-seasonality-of-suicides"
-id: "TRM-ENG-35637"
+id: "TRM-ENG-50166"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Darcourt, G. (1987). Seasonality of suicides"

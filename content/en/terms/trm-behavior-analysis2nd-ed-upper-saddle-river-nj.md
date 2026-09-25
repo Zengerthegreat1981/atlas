@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavior-analysis2nd-ed-upper-saddle-river-nj"
-id: "TRM-ENG-39327"
+id: "TRM-ENG-53856"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behavior analysis(2nd ed.). Upper Saddle River, NJ"

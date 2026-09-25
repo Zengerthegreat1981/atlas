@@ -1,6 +1,6 @@
 ---
 slug: "trm-withcancer"
-id: "TRM-ENG-47385"
+id: "TRM-ENG-61914"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "withcancer"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-duals"
-id: "TRM-ENG-49401"
+id: "TRM-ENG-63930"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "duals"

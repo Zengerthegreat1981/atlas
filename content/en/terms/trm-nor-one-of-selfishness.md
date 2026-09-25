@@ -1,6 +1,6 @@
 ---
 slug: "trm-nor-one-of-selfishness"
-id: "TRM-ENG-48407"
+id: "TRM-ENG-62936"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nor one of selfishness"

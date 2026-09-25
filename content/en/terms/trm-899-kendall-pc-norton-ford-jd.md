@@ -1,6 +1,6 @@
 ---
 slug: "trm-899-kendall-pc-norton-ford-jd"
-id: "TRM-ENG-39565"
+id: "TRM-ENG-54094"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "899. Kendall PC, Norton Ford JD"

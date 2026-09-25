@@ -1,6 +1,6 @@
 ---
 slug: "trm-toleration"
-id: "TRM-ENG-48955"
+id: "TRM-ENG-63484"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "toleration"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-stonequist-e-v-1"
-id: "TRM-ENG-47347"
+id: "TRM-ENG-61876"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stonequist, E. V., 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-followup-am-j-psychiatry-165"
-id: "TRM-ENG-48353"
+id: "TRM-ENG-62882"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "follow-up. Am J Psychiatry 165"

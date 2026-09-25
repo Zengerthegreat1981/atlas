@@ -1,6 +1,6 @@
 ---
 slug: "trm-3-skin-disorders"
-id: "TRM-ENG-35551"
+id: "TRM-ENG-64609"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "3. Skin disorders"

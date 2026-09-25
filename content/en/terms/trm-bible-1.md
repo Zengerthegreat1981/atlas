@@ -1,6 +1,6 @@
 ---
 slug: "trm-bible-1"
-id: "TRM-ENG-46315"
+id: "TRM-ENG-60844"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bible, 1"

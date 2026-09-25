@@ -1,6 +1,6 @@
 ---
 slug: "trm-emotionsfromgreekliterally"
-id: "TRM-ENG-43633"
+id: "TRM-ENG-58162"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "emotions.[fromGreek,literally"

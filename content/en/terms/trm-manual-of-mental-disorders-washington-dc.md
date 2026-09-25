@@ -1,6 +1,6 @@
 ---
 slug: "trm-manual-of-mental-disorders-washington-dc"
-id: "TRM-ENG-45871"
+id: "TRM-ENG-60400"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Manual of Mental Disorders (Washington, DC"

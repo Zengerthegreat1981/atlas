@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-form-two-camps"
-id: "TRM-ENG-36375"
+id: "TRM-ENG-50904"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to form two camps"

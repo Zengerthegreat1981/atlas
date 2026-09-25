@@ -1,6 +1,6 @@
 ---
 slug: "trm-sue-1"
-id: "TRM-ENG-38837"
+id: "TRM-ENG-53366"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sue), 1"

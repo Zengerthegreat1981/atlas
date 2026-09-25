@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-abstinence"
-id: "TRM-ENG-46797"
+id: "TRM-ENG-61326"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and abstinence"

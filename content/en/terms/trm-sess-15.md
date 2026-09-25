@@ -1,6 +1,6 @@
 ---
 slug: "trm-sess-15"
-id: "TRM-ENG-48573"
+id: "TRM-ENG-63102"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sess 15"

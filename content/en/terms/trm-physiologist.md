@@ -1,6 +1,6 @@
 ---
 slug: "trm-physiologist"
-id: "TRM-ENG-44129"
+id: "TRM-ENG-58658"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "physiologist"

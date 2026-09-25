@@ -1,6 +1,6 @@
 ---
 slug: "trm-goldfarb-al-wolk-rl"
-id: "TRM-ENG-40749"
+id: "TRM-ENG-55278"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goldfarb Al, Wolk RL"

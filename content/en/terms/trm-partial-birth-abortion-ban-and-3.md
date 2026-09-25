@@ -1,6 +1,6 @@
 ---
 slug: "trm-partial-birth-abortion-ban-and-3"
-id: "TRM-ENG-38568"
+id: "TRM-ENG-53097"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Partial Birth Abortion Ban and, 3"

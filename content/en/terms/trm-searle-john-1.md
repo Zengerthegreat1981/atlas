@@ -1,6 +1,6 @@
 ---
 slug: "trm-searle-john-1"
-id: "TRM-ENG-44751"
+id: "TRM-ENG-59280"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Searle, John, 1"

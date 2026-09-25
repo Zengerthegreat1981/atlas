@@ -1,6 +1,6 @@
 ---
 slug: "trm-is-the-opposite"
-id: "TRM-ENG-48233"
+id: "TRM-ENG-62762"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "is the opposite"

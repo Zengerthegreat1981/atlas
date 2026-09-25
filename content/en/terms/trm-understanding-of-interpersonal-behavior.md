@@ -1,6 +1,6 @@
 ---
 slug: "trm-understanding-of-interpersonal-behavior"
-id: "TRM-ENG-43403"
+id: "TRM-ENG-57932"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "understanding of interpersonal behavior"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-beliefs-outcome-expectations-and-goals"
-id: "TRM-ENG-39348"
+id: "TRM-ENG-53877"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "beliefs, outcome expectations, and goals"

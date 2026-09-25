@@ -1,6 +1,6 @@
 ---
 slug: "trm-encouragement-and-2"
-id: "TRM-ENG-40056"
+id: "TRM-ENG-54585"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "encouragement and, 2"

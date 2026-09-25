@@ -1,6 +1,6 @@
 ---
 slug: "trm-an-episode-of-major-depressive-disorder"
-id: "TRM-ENG-42615"
+id: "TRM-ENG-57144"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "an episode of major depressive disorder"

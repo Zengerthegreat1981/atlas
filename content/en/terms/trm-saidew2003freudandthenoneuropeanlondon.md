@@ -1,6 +1,6 @@
 ---
 slug: "trm-saidew2003freudandthenoneuropeanlondon"
-id: "TRM-ENG-37251"
+id: "TRM-ENG-51780"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Said,E.W.(2003).FreudandtheNon-European.London"

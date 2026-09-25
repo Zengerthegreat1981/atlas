@@ -1,6 +1,6 @@
 ---
 slug: "trm-hadley-josie-and-carol-staudacher-hypnosis-for-change"
-id: "TRM-ENG-45831"
+id: "TRM-ENG-60360"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hadley, Josie, and Carol Staudacher. Hypnosis for Change."

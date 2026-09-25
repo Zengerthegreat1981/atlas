@@ -1,6 +1,6 @@
 ---
 slug: "trm-sonal-problems"
-id: "TRM-ENG-43230"
+id: "TRM-ENG-57759"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sonal problems"

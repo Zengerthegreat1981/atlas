@@ -1,6 +1,6 @@
 ---
 slug: "trm-lack-of-specificity-so-that-they-can-be-interpreted-in-practice"
-id: "TRM-ENG-48260"
+id: "TRM-ENG-62789"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lack of specificity so that they can be interpreted in practice"

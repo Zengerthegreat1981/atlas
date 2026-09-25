@@ -1,6 +1,6 @@
 ---
 slug: "trm-stuart-s-pfohl-b-battaglia-m-et-al"
-id: "TRM-ENG-48111"
+id: "TRM-ENG-62640"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stuart S, Pfohl B, Battaglia M, et al"

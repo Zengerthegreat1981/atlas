@@ -1,6 +1,6 @@
 ---
 slug: "trm-enology-in-america"
-id: "TRM-ENG-42806"
+id: "TRM-ENG-57335"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "enology in America"

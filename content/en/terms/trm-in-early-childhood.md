@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-early-childhood"
-id: "TRM-ENG-45099"
+id: "TRM-ENG-59628"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in early childhood"

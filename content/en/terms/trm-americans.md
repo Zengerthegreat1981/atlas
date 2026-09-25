@@ -1,6 +1,6 @@
 ---
 slug: "trm-americans"
-id: "TRM-ENG-37594"
+id: "TRM-ENG-66652"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Americans"

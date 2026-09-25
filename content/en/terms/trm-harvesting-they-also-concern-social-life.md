@@ -1,6 +1,6 @@
 ---
 slug: "trm-harvesting-they-also-concern-social-life"
-id: "TRM-ENG-40349"
+id: "TRM-ENG-54878"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "harvesting. They also concern social life"

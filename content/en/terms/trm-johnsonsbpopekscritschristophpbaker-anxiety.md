@@ -1,6 +1,6 @@
 ---
 slug: "trm-johnsonsbpopekscritschristophpbaker-anxiety"
-id: "TRM-ENG-49046"
+id: "TRM-ENG-63575"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Johnson,S.B.,Pope,K.S.,Crits-Christoph,P.,Baker, anxiety"

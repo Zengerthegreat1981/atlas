@@ -1,6 +1,6 @@
 ---
 slug: "trm-zabarenko-rn-et-al"
-id: "TRM-ENG-42903"
+id: "TRM-ENG-57432"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Zabarenko RN, et al"

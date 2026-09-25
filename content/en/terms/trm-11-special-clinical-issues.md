@@ -1,6 +1,6 @@
 ---
 slug: "trm-11-special-clinical-issues"
-id: "TRM-ENG-38569"
+id: "TRM-ENG-53098"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "11. Special clinical issues"

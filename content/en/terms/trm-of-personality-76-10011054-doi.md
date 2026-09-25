@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-personality-76-10011054-doi"
-id: "TRM-ENG-43767"
+id: "TRM-ENG-58296"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of Personality, 76, 1001–1054. doi"

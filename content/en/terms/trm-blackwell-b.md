@@ -1,6 +1,6 @@
 ---
 slug: "trm-blackwell-b"
-id: "TRM-ENG-39950"
+id: "TRM-ENG-54479"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Blackwell B"

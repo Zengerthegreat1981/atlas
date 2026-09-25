@@ -1,6 +1,6 @@
 ---
 slug: "trm-consider-questions-such-as-the-following"
-id: "TRM-ENG-39659"
+id: "TRM-ENG-54188"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "consider questions such as the following"

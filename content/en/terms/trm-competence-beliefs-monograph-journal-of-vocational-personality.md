@@ -1,6 +1,6 @@
 ---
 slug: "trm-competence-beliefs-monograph-journal-of-vocational-personality"
-id: "TRM-ENG-39613"
+id: "TRM-ENG-54142"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "competence beliefs. [Monograph]. Journal of Vocational personality"

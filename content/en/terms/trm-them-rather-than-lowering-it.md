@@ -1,6 +1,6 @@
 ---
 slug: "trm-them-rather-than-lowering-it"
-id: "TRM-ENG-48872"
+id: "TRM-ENG-63401"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "them rather than lowering it"

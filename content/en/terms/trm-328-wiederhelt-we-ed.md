@@ -1,6 +1,6 @@
 ---
 slug: "trm-328-wiederhelt-we-ed"
-id: "TRM-ENG-38891"
+id: "TRM-ENG-53420"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "328. Wiederhelt WE (ed)"

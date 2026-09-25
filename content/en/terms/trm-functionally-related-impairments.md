@@ -1,6 +1,6 @@
 ---
 slug: "trm-functionally-related-impairments"
-id: "TRM-ENG-42852"
+id: "TRM-ENG-57381"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "functionally related impairments"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-miller-j-g-living-systems"
-id: "TRM-ENG-44534"
+id: "TRM-ENG-59063"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Miller, J. G., “Living Systems"

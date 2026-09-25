@@ -1,6 +1,6 @@
 ---
 slug: "trm-thecaseforanimalrightsberkeley"
-id: "TRM-ENG-46095"
+id: "TRM-ENG-60624"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "———.TheCaseforAnimalRights.Berkeley"

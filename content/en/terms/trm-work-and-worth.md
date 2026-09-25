@@ -1,6 +1,6 @@
 ---
 slug: "trm-work-and-worth"
-id: "TRM-ENG-46092"
+id: "TRM-ENG-60621"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "———. “Work and Worth"

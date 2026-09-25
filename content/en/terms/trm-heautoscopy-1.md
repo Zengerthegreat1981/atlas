@@ -1,6 +1,6 @@
 ---
 slug: "trm-heautoscopy-1"
-id: "TRM-ENG-44522"
+id: "TRM-ENG-59051"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Heautoscopy, 1"

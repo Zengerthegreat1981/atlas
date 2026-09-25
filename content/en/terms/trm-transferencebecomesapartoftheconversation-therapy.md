@@ -1,6 +1,6 @@
 ---
 slug: "trm-transferencebecomesapartoftheconversation-therapy"
-id: "TRM-ENG-38393"
+id: "TRM-ENG-52922"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "transferencebecomesapartoftheconversation. therapy"

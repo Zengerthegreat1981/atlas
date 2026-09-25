@@ -1,6 +1,6 @@
 ---
 slug: "trm-standards-and-1"
-id: "TRM-ENG-41761"
+id: "TRM-ENG-56290"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "standards and, 1"

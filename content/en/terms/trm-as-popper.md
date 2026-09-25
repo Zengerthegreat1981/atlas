@@ -1,6 +1,6 @@
 ---
 slug: "trm-as-popper"
-id: "TRM-ENG-47658"
+id: "TRM-ENG-62187"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "as Popper"

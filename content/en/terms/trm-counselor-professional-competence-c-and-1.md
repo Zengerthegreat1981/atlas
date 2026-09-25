@@ -1,6 +1,6 @@
 ---
 slug: "trm-counselor-professional-competence-c-and-1"
-id: "TRM-ENG-39762"
+id: "TRM-ENG-54291"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "counselor professional competence (C) and, 1"

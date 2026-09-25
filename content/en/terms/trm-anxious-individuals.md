@@ -1,6 +1,6 @@
 ---
 slug: "trm-anxious-individuals"
-id: "TRM-ENG-42648"
+id: "TRM-ENG-57177"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "anxious individuals"

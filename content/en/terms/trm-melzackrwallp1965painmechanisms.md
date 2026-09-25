@@ -1,6 +1,6 @@
 ---
 slug: "trm-melzackrwallp1965painmechanisms"
-id: "TRM-ENG-49096"
+id: "TRM-ENG-63625"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Melzack,R.,&Wall,P.(1965).Painmechanisms"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-danet-bn"
-id: "TRM-ENG-40295"
+id: "TRM-ENG-54824"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Danet BN"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-kohut-h-1984-how-does-analysis-cure-chicago-il"
-id: "TRM-ENG-50643"
+id: "TRM-ENG-65172"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kohut, H. (1984). How does analysis cure. Chicago, IL"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-contentions"
-id: "TRM-ENG-43001"
+id: "TRM-ENG-57530"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "contentions"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-conditioned-learning-in-alcohol-dependence"
-id: "TRM-ENG-48946"
+id: "TRM-ENG-63475"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Conditioned learning in alcohol dependence"

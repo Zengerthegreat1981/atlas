@@ -1,6 +1,6 @@
 ---
 slug: "trm-selfactualization-and-2"
-id: "TRM-ENG-41593"
+id: "TRM-ENG-56122"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "self-actualization and, 2"

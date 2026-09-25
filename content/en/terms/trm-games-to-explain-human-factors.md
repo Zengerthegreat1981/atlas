@@ -1,6 +1,6 @@
 ---
 slug: "trm-games-to-explain-human-factors"
-id: "TRM-ENG-36832"
+id: "TRM-ENG-65890"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Games to Explain Human Factors"

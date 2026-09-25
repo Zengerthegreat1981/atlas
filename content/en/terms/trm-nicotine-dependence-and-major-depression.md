@@ -1,6 +1,6 @@
 ---
 slug: "trm-nicotine-dependence-and-major-depression"
-id: "TRM-ENG-46643"
+id: "TRM-ENG-61172"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nicotine dependence and major depression"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-early-research-on-2"
-id: "TRM-ENG-39990"
+id: "TRM-ENG-54519"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "early research on, 2"

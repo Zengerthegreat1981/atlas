@@ -1,6 +1,6 @@
 ---
 slug: "trm-posed-into-three-driverrelated-components"
-id: "TRM-ENG-35242"
+id: "TRM-ENG-64300"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "posed into three driver-related components"

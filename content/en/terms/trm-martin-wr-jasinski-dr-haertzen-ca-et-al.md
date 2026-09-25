@@ -1,6 +1,6 @@
 ---
 slug: "trm-martin-wr-jasinski-dr-haertzen-ca-et-al"
-id: "TRM-ENG-41602"
+id: "TRM-ENG-56131"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Martin WR, Jasinski DR, Haertzen Ca, et al"

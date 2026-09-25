@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-deficits-in-prosody"
-id: "TRM-ENG-35093"
+id: "TRM-ENG-64151"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to deficits in prosody"

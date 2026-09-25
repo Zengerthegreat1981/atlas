@@ -1,6 +1,6 @@
 ---
 slug: "trm-aptitude"
-id: "TRM-ENG-34749"
+id: "TRM-ENG-49278"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "aptitude"

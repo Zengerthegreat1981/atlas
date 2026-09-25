@@ -1,6 +1,6 @@
 ---
 slug: "trm-change"
-id: "TRM-ENG-36263"
+id: "TRM-ENG-65321"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "change"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-d-t-o-h-m-etic-d-h-i-a-m-l-e-l-t-u-h-c-o-i-x-n-y-o-m-g-e-e-th-n-y-t-l-h-am-at-p-i-h-s-e-a-t-l-a-s-m-o-i-c-n-a-e-l"
-id: "TRM-ENG-43467"
+id: "TRM-ENG-57996"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "D t O h M etic d h i a m l e l t u h c o i x n y o m g e e th n y t l h am at p i h s e a t l a s m o i c n a e l"

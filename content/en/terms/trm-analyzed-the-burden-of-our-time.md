@@ -1,6 +1,6 @@
 ---
 slug: "trm-analyzed-the-burden-of-our-time"
-id: "TRM-ENG-45827"
+id: "TRM-ENG-60356"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "analyzed “the burden of our time”"

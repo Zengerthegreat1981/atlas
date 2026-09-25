@@ -1,6 +1,6 @@
 ---
 slug: "trm-begin-rolling-the-rock-to-the-top-yet-again"
-id: "TRM-ENG-45854"
+id: "TRM-ENG-60383"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "begin rolling the rock to the top yet again"

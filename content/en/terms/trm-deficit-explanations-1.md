@@ -1,6 +1,6 @@
 ---
 slug: "trm-deficit-explanations-1"
-id: "TRM-ENG-45056"
+id: "TRM-ENG-59585"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "deficit explanations, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-journal-of-therapy-and-rehabilitation-191-4352-purpose"
-id: "TRM-ENG-50613"
+id: "TRM-ENG-65142"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Journal of Therapy and Rehabilitation, 19(1), 43–52. purpose"

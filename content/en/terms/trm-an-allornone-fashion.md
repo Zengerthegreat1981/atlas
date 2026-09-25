@@ -1,6 +1,6 @@
 ---
 slug: "trm-an-allornone-fashion"
-id: "TRM-ENG-36108"
+id: "TRM-ENG-65166"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "an all-or-none fashion"

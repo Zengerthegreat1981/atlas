@@ -1,6 +1,6 @@
 ---
 slug: "trm-khan-sayyid-ahmad-2"
-id: "TRM-ENG-46871"
+id: "TRM-ENG-61400"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Khan, Sayyid Ahmad, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-knowledge-of-occupations-and-4"
-id: "TRM-ENG-40681"
+id: "TRM-ENG-55210"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "knowledge of occupations and, 4"

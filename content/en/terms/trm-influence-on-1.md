@@ -1,6 +1,6 @@
 ---
 slug: "trm-influence-on-1"
-id: "TRM-ENG-40537"
+id: "TRM-ENG-55066"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "influence on, 1"

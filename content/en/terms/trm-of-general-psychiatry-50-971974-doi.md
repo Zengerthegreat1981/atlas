@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-general-psychiatry-50-971974-doi"
-id: "TRM-ENG-43760"
+id: "TRM-ENG-58289"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of General Psychiatry, 50, 971–974. doi"

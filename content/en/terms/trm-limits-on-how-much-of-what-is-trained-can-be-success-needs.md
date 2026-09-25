@@ -1,6 +1,6 @@
 ---
 slug: "trm-limits-on-how-much-of-what-is-trained-can-be-success-needs"
-id: "TRM-ENG-35113"
+id: "TRM-ENG-49642"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "limits on how much of what is trained can be success- needs"

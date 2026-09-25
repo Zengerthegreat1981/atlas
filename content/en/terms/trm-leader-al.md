@@ -1,6 +1,6 @@
 ---
 slug: "trm-leader-al"
-id: "TRM-ENG-41384"
+id: "TRM-ENG-55913"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Leader AL"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-modelsmethodsand-findingshillsdale-nj"
-id: "TRM-ENG-38444"
+id: "TRM-ENG-52973"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Models,methods,and findings.Hillsdale, NJ"

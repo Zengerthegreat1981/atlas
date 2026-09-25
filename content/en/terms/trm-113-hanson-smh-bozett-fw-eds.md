@@ -1,6 +1,6 @@
 ---
 slug: "trm-113-hanson-smh-bozett-fw-eds"
-id: "TRM-ENG-38574"
+id: "TRM-ENG-53103"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "113. Hanson SMH, Bozett FW (eds)"

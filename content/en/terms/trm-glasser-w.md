@@ -1,6 +1,6 @@
 ---
 slug: "trm-glasser-w"
-id: "TRM-ENG-40722"
+id: "TRM-ENG-55251"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Glasser W"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-david-wechsler-and-2"
-id: "TRM-ENG-37927"
+id: "TRM-ENG-66985"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "David Wechsler and, 2"

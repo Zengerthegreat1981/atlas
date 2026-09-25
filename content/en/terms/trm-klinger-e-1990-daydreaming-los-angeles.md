@@ -1,6 +1,6 @@
 ---
 slug: "trm-klinger-e-1990-daydreaming-los-angeles"
-id: "TRM-ENG-34733"
+id: "TRM-ENG-63791"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Klinger, E. (1990). Daydreaming. Los Angeles"

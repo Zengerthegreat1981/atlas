@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-the-two-and-the-establishment-of-a-new-field"
-id: "TRM-ENG-35180"
+id: "TRM-ENG-64238"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of the two and the establishment of a new field"

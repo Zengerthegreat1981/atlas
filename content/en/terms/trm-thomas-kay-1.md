@@ -1,6 +1,6 @@
 ---
 slug: "trm-thomas-kay-1"
-id: "TRM-ENG-38916"
+id: "TRM-ENG-53445"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Thomas, Kay, 1"

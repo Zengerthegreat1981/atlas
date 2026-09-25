@@ -1,6 +1,6 @@
 ---
 slug: "trm-lin-ty-standley-cc"
-id: "TRM-ENG-41469"
+id: "TRM-ENG-55998"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lin T-Y, Standley CC"

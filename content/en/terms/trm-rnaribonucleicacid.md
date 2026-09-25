@@ -1,6 +1,6 @@
 ---
 slug: "trm-rnaribonucleicacid"
-id: "TRM-ENG-43490"
+id: "TRM-ENG-58019"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "RNAribonucleicacid"

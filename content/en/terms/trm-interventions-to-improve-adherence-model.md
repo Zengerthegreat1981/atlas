@@ -1,6 +1,6 @@
 ---
 slug: "trm-interventions-to-improve-adherence-model"
-id: "TRM-ENG-38258"
+id: "TRM-ENG-52787"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Interventions to Improve Adherence model"

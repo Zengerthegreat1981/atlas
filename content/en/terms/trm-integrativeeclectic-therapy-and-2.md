@@ -1,6 +1,6 @@
 ---
 slug: "trm-integrativeeclectic-therapy-and-2"
-id: "TRM-ENG-40579"
+id: "TRM-ENG-55108"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "integrative/eclectic therapy and, 2"

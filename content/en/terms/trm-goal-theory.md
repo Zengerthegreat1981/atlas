@@ -1,6 +1,6 @@
 ---
 slug: "trm-goal-theory"
-id: "TRM-ENG-36489"
+id: "TRM-ENG-51018"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "goal theory"

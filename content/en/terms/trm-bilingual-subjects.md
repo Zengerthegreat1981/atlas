@@ -1,6 +1,6 @@
 ---
 slug: "trm-bilingual-subjects"
-id: "TRM-ENG-34766"
+id: "TRM-ENG-63824"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bilingual subjects"

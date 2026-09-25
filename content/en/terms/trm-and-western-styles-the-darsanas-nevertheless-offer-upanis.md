@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-western-styles-the-darsanas-nevertheless-offer-upanis"
-id: "TRM-ENG-37513"
+id: "TRM-ENG-52042"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and Western styles, the dar´sanas nevertheless offer Upanis"

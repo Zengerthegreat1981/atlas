@@ -1,6 +1,6 @@
 ---
 slug: "trm-competency-standards-and-2"
-id: "TRM-ENG-39620"
+id: "TRM-ENG-54149"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "competency standards and, 2"

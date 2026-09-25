@@ -1,6 +1,6 @@
 ---
 slug: "trm-compulsives"
-id: "TRM-ENG-49361"
+id: "TRM-ENG-63890"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "compulsives"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-institutional-sample"
-id: "TRM-ENG-42919"
+id: "TRM-ENG-57448"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "institutional sample"

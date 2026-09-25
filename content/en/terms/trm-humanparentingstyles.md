@@ -1,6 +1,6 @@
 ---
 slug: "trm-humanparentingstyles"
-id: "TRM-ENG-43678"
+id: "TRM-ENG-58207"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "humanparentingstyles"

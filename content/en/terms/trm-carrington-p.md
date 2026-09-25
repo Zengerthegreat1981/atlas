@@ -1,6 +1,6 @@
 ---
 slug: "trm-carrington-p"
-id: "TRM-ENG-40134"
+id: "TRM-ENG-54663"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Carrington P"

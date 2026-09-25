@@ -1,6 +1,6 @@
 ---
 slug: "trm-842-smith-jc"
-id: "TRM-ENG-39504"
+id: "TRM-ENG-54033"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "842. Smith JC"

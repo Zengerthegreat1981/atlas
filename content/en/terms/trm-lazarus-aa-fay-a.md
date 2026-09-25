@@ -1,6 +1,6 @@
 ---
 slug: "trm-lazarus-aa-fay-a"
-id: "TRM-ENG-41376"
+id: "TRM-ENG-55905"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lazarus AA, Fay A"

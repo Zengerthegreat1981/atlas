@@ -1,6 +1,6 @@
 ---
 slug: "trm-perimental-psychology"
-id: "TRM-ENG-36850"
+id: "TRM-ENG-65908"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "perimental psychology"

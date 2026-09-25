@@ -1,6 +1,6 @@
 ---
 slug: "trm-attitudes-and-behavior-1"
-id: "TRM-ENG-44315"
+id: "TRM-ENG-58844"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Attitudes and behavior , 1"

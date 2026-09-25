@@ -1,6 +1,6 @@
 ---
 slug: "trm-cades-disease-and-beyond"
-id: "TRM-ENG-43441"
+id: "TRM-ENG-57970"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“Cade’s disease” and beyond"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-animal-language-studies"
-id: "TRM-ENG-36556"
+id: "TRM-ENG-65614"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Animal Language Studies"

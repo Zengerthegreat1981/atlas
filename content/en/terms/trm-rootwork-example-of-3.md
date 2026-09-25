@@ -1,6 +1,6 @@
 ---
 slug: "trm-rootwork-example-of-3"
-id: "TRM-ENG-41550"
+id: "TRM-ENG-56079"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rootwork example of, 3"

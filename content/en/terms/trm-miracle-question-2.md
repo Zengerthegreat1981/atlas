@@ -1,6 +1,6 @@
 ---
 slug: "trm-miracle-question-2"
-id: "TRM-ENG-40859"
+id: "TRM-ENG-55388"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "miracle question, 2"

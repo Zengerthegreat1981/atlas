@@ -1,6 +1,6 @@
 ---
 slug: "trm-soriskingrevealingtheirownlocation"
-id: "TRM-ENG-46017"
+id: "TRM-ENG-60546"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "soriskingrevealingtheirownlocation"

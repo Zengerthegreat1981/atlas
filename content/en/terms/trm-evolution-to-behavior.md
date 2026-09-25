@@ -1,6 +1,6 @@
 ---
 slug: "trm-evolution-to-behavior"
-id: "TRM-ENG-36784"
+id: "TRM-ENG-51313"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Evolution to Behavior"

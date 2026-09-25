@@ -1,6 +1,6 @@
 ---
 slug: "trm-thesedoubts-byasking"
-id: "TRM-ENG-46045"
+id: "TRM-ENG-60574"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thesedoubts byasking"

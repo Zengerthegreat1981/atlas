@@ -1,6 +1,6 @@
 ---
 slug: "trm-brown-jac"
-id: "TRM-ENG-40051"
+id: "TRM-ENG-54580"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brown JAC"

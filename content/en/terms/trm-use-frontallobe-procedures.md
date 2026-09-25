@@ -1,6 +1,6 @@
 ---
 slug: "trm-use-frontallobe-procedures"
-id: "TRM-ENG-35109"
+id: "TRM-ENG-64167"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "use. Frontal-lobe procedures"

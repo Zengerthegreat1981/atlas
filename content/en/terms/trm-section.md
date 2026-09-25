@@ -1,6 +1,6 @@
 ---
 slug: "trm-section"
-id: "TRM-ENG-49173"
+id: "TRM-ENG-63702"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Section"

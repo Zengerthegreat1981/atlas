@@ -1,6 +1,6 @@
 ---
 slug: "trm-148-joe-b"
-id: "TRM-ENG-38620"
+id: "TRM-ENG-53149"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "148. Joe B"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-sberg-m-trskman-l-thoren-p"
-id: "TRM-ENG-48742"
+id: "TRM-ENG-63271"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Åsberg M, Träskman L, Thoren P"

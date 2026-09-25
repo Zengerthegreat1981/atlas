@@ -1,6 +1,6 @@
 ---
 slug: "trm-perspective-and-normality"
-id: "TRM-ENG-45235"
+id: "TRM-ENG-59764"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "perspective; and Normality"

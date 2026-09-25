@@ -1,6 +1,6 @@
 ---
 slug: "trm-shiraev-e-levy-d-2004-crosscultural-psychology"
-id: "TRM-ENG-38764"
+id: "TRM-ENG-53293"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shiraev, E., & Levy, D. (2004). Cross-cultural psychology"

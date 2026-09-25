@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychiatry-vol-3-pp-l14-philadelphia-pa"
-id: "TRM-ENG-43519"
+id: "TRM-ENG-58048"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychiatry (Vol. 3, pp. l–14). Philadelphia, PA"

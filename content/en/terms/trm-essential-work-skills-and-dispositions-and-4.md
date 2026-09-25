@@ -1,6 +1,6 @@
 ---
 slug: "trm-essential-work-skills-and-dispositions-and-4"
-id: "TRM-ENG-40078"
+id: "TRM-ENG-54607"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "essential work skills and dispositions and, 4"

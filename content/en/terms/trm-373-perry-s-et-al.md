@@ -1,6 +1,6 @@
 ---
 slug: "trm-373-perry-s-et-al"
-id: "TRM-ENG-38942"
+id: "TRM-ENG-53471"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "373. Perry S, et al"

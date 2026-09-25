@@ -1,6 +1,6 @@
 ---
 slug: "trm-benziger-bf"
-id: "TRM-ENG-39886"
+id: "TRM-ENG-54415"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Benziger BF"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-raichle-1983-part-b"
-id: "TRM-ENG-34679"
+id: "TRM-ENG-63737"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Raichle, 1983; part B"

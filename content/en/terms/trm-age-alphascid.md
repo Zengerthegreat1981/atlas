@@ -1,6 +1,6 @@
 ---
 slug: "trm-age-alphascid"
-id: "TRM-ENG-48168"
+id: "TRM-ENG-62697"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "age alphas(cid"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-personalismthousandoaks"
-id: "TRM-ENG-38086"
+id: "TRM-ENG-67144"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "personalism.ThousandOaks"

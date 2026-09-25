@@ -1,6 +1,6 @@
 ---
 slug: "trm-presslondon"
-id: "TRM-ENG-37190"
+id: "TRM-ENG-66248"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Press(London"

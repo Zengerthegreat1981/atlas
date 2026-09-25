@@ -1,6 +1,6 @@
 ---
 slug: "trm-pahnke-wn-kurland-a-a-unger-s-et-al"
-id: "TRM-ENG-41907"
+id: "TRM-ENG-56436"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pahnke, WN, Kurland A A, Unger S, et al"

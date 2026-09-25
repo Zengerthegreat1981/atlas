@@ -1,6 +1,6 @@
 ---
 slug: "trm-widest-range-of-physical-systems"
-id: "TRM-ENG-45690"
+id: "TRM-ENG-60219"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "widest range of physical systems"

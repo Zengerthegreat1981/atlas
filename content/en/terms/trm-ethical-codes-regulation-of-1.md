@@ -1,6 +1,6 @@
 ---
 slug: "trm-ethical-codes-regulation-of-1"
-id: "TRM-ENG-40084"
+id: "TRM-ENG-54613"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ethical codes regulation of, 1"

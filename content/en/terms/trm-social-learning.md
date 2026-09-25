@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-learning"
-id: "TRM-ENG-45308"
+id: "TRM-ENG-59837"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social learning"

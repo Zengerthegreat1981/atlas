@@ -1,6 +1,6 @@
 ---
 slug: "trm-us-department-of-the-air-force"
-id: "TRM-ENG-48139"
+id: "TRM-ENG-62668"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "U.S. Department of the Air Force"

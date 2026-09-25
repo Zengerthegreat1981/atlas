@@ -1,6 +1,6 @@
 ---
 slug: "trm-pretation-of-the-verse-in-the-preceding-paragraph"
-id: "TRM-ENG-48579"
+id: "TRM-ENG-63108"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pretation of the verse in the preceding paragraph"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-b-m-bodies"
-id: "TRM-ENG-44278"
+id: "TRM-ENG-58807"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "A B M bodies"

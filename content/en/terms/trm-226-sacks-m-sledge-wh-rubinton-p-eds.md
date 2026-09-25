@@ -1,6 +1,6 @@
 ---
 slug: "trm-226-sacks-m-sledge-wh-rubinton-p-eds"
-id: "TRM-ENG-38745"
+id: "TRM-ENG-53274"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "226. Sacks M, Sledge WH, Rubinton P (eds)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-two"
-id: "TRM-ENG-48983"
+id: "TRM-ENG-63512"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "two"

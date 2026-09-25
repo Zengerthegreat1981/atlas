@@ -1,6 +1,6 @@
 ---
 slug: "trm-stimulation-and-imaging"
-id: "TRM-ENG-35049"
+id: "TRM-ENG-64107"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stimulation and imaging"

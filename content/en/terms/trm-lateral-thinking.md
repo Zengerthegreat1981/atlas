@@ -1,6 +1,6 @@
 ---
 slug: "trm-lateral-thinking"
-id: "TRM-ENG-48267"
+id: "TRM-ENG-62796"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lateral thinking"

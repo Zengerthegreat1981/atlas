@@ -1,6 +1,6 @@
 ---
 slug: "trm-843-stuart-rb-ed"
-id: "TRM-ENG-39505"
+id: "TRM-ENG-54034"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "843. Stuart RB (ed)"

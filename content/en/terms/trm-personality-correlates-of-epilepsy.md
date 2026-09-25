@@ -1,6 +1,6 @@
 ---
 slug: "trm-personality-correlates-of-epilepsy"
-id: "TRM-ENG-35222"
+id: "TRM-ENG-64280"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "personality correlates of epilepsy"

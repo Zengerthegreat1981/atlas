@@ -1,6 +1,6 @@
 ---
 slug: "trm-adhd-diagnostic-criteria-in-1"
-id: "TRM-ENG-37517"
+id: "TRM-ENG-52046"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "AD/HD diagnostic criteria in, 1"

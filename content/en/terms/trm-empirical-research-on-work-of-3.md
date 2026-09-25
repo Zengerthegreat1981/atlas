@@ -1,6 +1,6 @@
 ---
 slug: "trm-empirical-research-on-work-of-3"
-id: "TRM-ENG-40044"
+id: "TRM-ENG-54573"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "empirical research on work of, 3"

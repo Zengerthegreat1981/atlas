@@ -1,6 +1,6 @@
 ---
 slug: "trm-odd-and-1"
-id: "TRM-ENG-38522"
+id: "TRM-ENG-53051"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ODD and, 1"

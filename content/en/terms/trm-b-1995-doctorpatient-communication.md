@@ -1,6 +1,6 @@
 ---
 slug: "trm-b-1995-doctorpatient-communication"
-id: "TRM-ENG-46416"
+id: "TRM-ENG-60945"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "B. (1995). Doctor±patient communication"

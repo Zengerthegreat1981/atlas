@@ -1,6 +1,6 @@
 ---
 slug: "trm-park-h-bauer-s-oescher-j-2001-religiousness-as-a-pre-scendent"
-id: "TRM-ENG-35883"
+id: "TRM-ENG-64941"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Park, H., Bauer, S., & Oescher, J. (2001). Religiousness as a pre- scendent"

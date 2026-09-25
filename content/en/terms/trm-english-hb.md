@@ -1,6 +1,6 @@
 ---
 slug: "trm-english-hb"
-id: "TRM-ENG-40451"
+id: "TRM-ENG-54980"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "English HB"

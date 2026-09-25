@@ -1,6 +1,6 @@
 ---
 slug: "trm-consider-the-following-gambles"
-id: "TRM-ENG-45032"
+id: "TRM-ENG-59561"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "consider the following gambles"

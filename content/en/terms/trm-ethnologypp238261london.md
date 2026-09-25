@@ -1,6 +1,6 @@
 ---
 slug: "trm-ethnologypp238261london"
-id: "TRM-ENG-37740"
+id: "TRM-ENG-52269"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ethnology(pp.238–261).London"

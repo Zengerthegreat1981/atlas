@@ -1,6 +1,6 @@
 ---
 slug: "trm-wardle-j-beinart-h-1981-binge-eating"
-id: "TRM-ENG-49223"
+id: "TRM-ENG-63752"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wardle, J., & Beinart, H. (1981). Binge eating"

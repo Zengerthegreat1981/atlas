@@ -1,6 +1,6 @@
 ---
 slug: "trm-578-hersen-m-van-hasselt-vb-eds"
-id: "TRM-ENG-39190"
+id: "TRM-ENG-53719"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "578. Hersen M, Van Hasselt VB (eds)"

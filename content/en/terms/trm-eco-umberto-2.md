@@ -1,6 +1,6 @@
 ---
 slug: "trm-eco-umberto-2"
-id: "TRM-ENG-46542"
+id: "TRM-ENG-61071"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Eco, Umberto, 2"

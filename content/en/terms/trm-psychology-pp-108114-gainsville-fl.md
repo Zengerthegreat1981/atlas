@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychology-pp-108114-gainsville-fl"
-id: "TRM-ENG-47232"
+id: "TRM-ENG-61761"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychology (pp. 108±114). Gainsville, FL"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-haviors"
-id: "TRM-ENG-35055"
+id: "TRM-ENG-64113"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "haviors"

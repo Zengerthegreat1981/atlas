@@ -1,6 +1,6 @@
 ---
 slug: "trm-thus-can-be-identified-in-various-ways"
-id: "TRM-ENG-46052"
+id: "TRM-ENG-60581"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thus can be “identified” in various ways"

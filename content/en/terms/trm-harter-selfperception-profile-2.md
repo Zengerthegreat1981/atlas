@@ -1,6 +1,6 @@
 ---
 slug: "trm-harter-selfperception-profile-2"
-id: "TRM-ENG-38152"
+id: "TRM-ENG-52681"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Harter Self-Perception Profile, 2"

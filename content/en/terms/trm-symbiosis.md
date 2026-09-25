@@ -1,6 +1,6 @@
 ---
 slug: "trm-symbiosis"
-id: "TRM-ENG-52409"
+id: "TRM-ENG-66938"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Symbiosis"

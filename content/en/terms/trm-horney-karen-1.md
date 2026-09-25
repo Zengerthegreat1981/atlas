@@ -1,6 +1,6 @@
 ---
 slug: "trm-horney-karen-1"
-id: "TRM-ENG-38195"
+id: "TRM-ENG-52724"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Horney, Karen, 1"

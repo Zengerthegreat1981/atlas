@@ -1,6 +1,6 @@
 ---
 slug: "trm-reeducative-or-reconstructive"
-id: "TRM-ENG-43165"
+id: "TRM-ENG-57694"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reeducative, or reconstructive"

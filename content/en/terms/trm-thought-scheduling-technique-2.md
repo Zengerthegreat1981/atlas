@@ -1,6 +1,6 @@
 ---
 slug: "trm-thought-scheduling-technique-2"
-id: "TRM-ENG-41955"
+id: "TRM-ENG-56484"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thought scheduling technique, 2"

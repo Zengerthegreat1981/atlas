@@ -1,6 +1,6 @@
 ---
 slug: "trm-negative-predictive-power"
-id: "TRM-ENG-35457"
+id: "TRM-ENG-49986"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Negative predictive power"

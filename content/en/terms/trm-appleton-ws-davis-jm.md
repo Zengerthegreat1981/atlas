@@ -1,6 +1,6 @@
 ---
 slug: "trm-appleton-ws-davis-jm"
-id: "TRM-ENG-39713"
+id: "TRM-ENG-54242"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Appleton WS, Davis JM"

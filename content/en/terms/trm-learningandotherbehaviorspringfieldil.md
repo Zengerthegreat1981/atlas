@@ -1,6 +1,6 @@
 ---
 slug: "trm-learningandotherbehaviorspringfieldil"
-id: "TRM-ENG-37915"
+id: "TRM-ENG-52444"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "learningandotherbehavior.Springfield,IL"

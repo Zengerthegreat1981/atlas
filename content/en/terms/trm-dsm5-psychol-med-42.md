@@ -1,6 +1,6 @@
 ---
 slug: "trm-dsm5-psychol-med-42"
-id: "TRM-ENG-47593"
+id: "TRM-ENG-62122"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "DSM-5. Psychol Med 42"

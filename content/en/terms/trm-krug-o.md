@@ -1,6 +1,6 @@
 ---
 slug: "trm-krug-o"
-id: "TRM-ENG-41320"
+id: "TRM-ENG-55849"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Krug O"

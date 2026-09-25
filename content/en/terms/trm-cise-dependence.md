@@ -1,6 +1,6 @@
 ---
 slug: "trm-cise-dependence"
-id: "TRM-ENG-46058"
+id: "TRM-ENG-60587"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cise Dependence"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-teicher-a-de-freitas-l-osherson-a"
-id: "TRM-ENG-42556"
+id: "TRM-ENG-57085"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Teicher A, de Freitas L, Osherson A"

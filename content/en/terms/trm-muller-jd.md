@@ -1,6 +1,6 @@
 ---
 slug: "trm-muller-jd"
-id: "TRM-ENG-41785"
+id: "TRM-ENG-56314"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Muller JD"

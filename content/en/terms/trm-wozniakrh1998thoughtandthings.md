@@ -1,6 +1,6 @@
 ---
 slug: "trm-wozniakrh1998thoughtandthings"
-id: "TRM-ENG-37450"
+id: "TRM-ENG-51979"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wozniak,R.H.(1998).Thoughtandthings"

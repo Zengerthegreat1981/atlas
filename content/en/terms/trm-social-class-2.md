@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-class-2"
-id: "TRM-ENG-48726"
+id: "TRM-ENG-63255"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social class, 2"

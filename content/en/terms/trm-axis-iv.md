@@ -1,6 +1,6 @@
 ---
 slug: "trm-axis-iv"
-id: "TRM-ENG-39747"
+id: "TRM-ENG-54276"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Axis IV"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-neuroscience-39"
-id: "TRM-ENG-34653"
+id: "TRM-ENG-63711"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Neuroscience. 39"

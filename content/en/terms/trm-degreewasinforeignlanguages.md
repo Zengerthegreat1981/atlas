@@ -1,6 +1,6 @@
 ---
 slug: "trm-degreewasinforeignlanguages"
-id: "TRM-ENG-37679"
+id: "TRM-ENG-66737"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "degreewasinforeignlanguages"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-hogan-ra-kirchner-jh"
-id: "TRM-ENG-41014"
+id: "TRM-ENG-55543"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hogan RA, Kirchner JH"

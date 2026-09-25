@@ -1,6 +1,6 @@
 ---
 slug: "trm-allied-disciplines-46-327336-doi"
-id: "TRM-ENG-43370"
+id: "TRM-ENG-57899"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Allied Disciplines, 46, 327–336. doi"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-establishedcoronaryheartdisease"
-id: "TRM-ENG-46969"
+id: "TRM-ENG-61498"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "establishedcoronaryheartdisease"

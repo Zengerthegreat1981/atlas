@@ -1,6 +1,6 @@
 ---
 slug: "trm-artisans-nature-and"
-id: "TRM-ENG-46249"
+id: "TRM-ENG-60778"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Artisans, nature, and"

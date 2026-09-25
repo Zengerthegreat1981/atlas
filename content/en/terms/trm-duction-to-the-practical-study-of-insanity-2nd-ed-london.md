@@ -1,6 +1,6 @@
 ---
 slug: "trm-duction-to-the-practical-study-of-insanity-2nd-ed-london"
-id: "TRM-ENG-37705"
+id: "TRM-ENG-66763"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "duction to the practical study of insanity (2nd ed.). London"

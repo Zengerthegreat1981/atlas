@@ -1,6 +1,6 @@
 ---
 slug: "trm-thology-assessment-through-quantitative-modeling"
-id: "TRM-ENG-43325"
+id: "TRM-ENG-57854"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thology assessment through quantitative modeling"

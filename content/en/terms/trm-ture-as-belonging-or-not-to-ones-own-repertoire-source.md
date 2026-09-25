@@ -1,6 +1,6 @@
 ---
 slug: "trm-ture-as-belonging-or-not-to-ones-own-repertoire-source"
-id: "TRM-ENG-45653"
+id: "TRM-ENG-60182"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ture as belonging or not to one’s own repertoire, Source"

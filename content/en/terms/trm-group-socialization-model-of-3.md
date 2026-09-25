@@ -1,6 +1,6 @@
 ---
 slug: "trm-group-socialization-model-of-3"
-id: "TRM-ENG-40330"
+id: "TRM-ENG-54859"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "group socialization model of, 3"

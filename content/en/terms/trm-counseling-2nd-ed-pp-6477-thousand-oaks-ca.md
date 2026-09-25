@@ -1,6 +1,6 @@
 ---
 slug: "trm-counseling-2nd-ed-pp-6477-thousand-oaks-ca"
-id: "TRM-ENG-39720"
+id: "TRM-ENG-54249"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "counseling (2nd ed., pp. 64–77). Thousand Oaks, CA"

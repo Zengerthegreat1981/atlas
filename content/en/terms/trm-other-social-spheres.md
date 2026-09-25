@@ -1,6 +1,6 @@
 ---
 slug: "trm-other-social-spheres"
-id: "TRM-ENG-48504"
+id: "TRM-ENG-63033"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "other social spheres"

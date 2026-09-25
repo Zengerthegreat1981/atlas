@@ -1,6 +1,6 @@
 ---
 slug: "trm-orators-of-antiquity-and-his-writing"
-id: "TRM-ENG-48497"
+id: "TRM-ENG-63026"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "orators of antiquity, and his writing"

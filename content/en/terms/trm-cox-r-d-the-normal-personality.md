@@ -1,6 +1,6 @@
 ---
 slug: "trm-cox-r-d-the-normal-personality"
-id: "TRM-ENG-44341"
+id: "TRM-ENG-58870"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cox, R. D., “The Normal Personality"

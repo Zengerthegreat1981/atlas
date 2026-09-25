@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychotherapy-during-radiotherapy"
-id: "TRM-ENG-47241"
+id: "TRM-ENG-61770"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychotherapy during radiotherapy"

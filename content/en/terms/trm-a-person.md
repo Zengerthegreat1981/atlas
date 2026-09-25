@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-person"
-id: "TRM-ENG-39614"
+id: "TRM-ENG-54143"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "A person"

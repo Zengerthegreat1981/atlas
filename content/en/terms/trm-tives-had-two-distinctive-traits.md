@@ -1,6 +1,6 @@
 ---
 slug: "trm-tives-had-two-distinctive-traits"
-id: "TRM-ENG-45518"
+id: "TRM-ENG-60047"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tives had two distinctive traits"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-spearman-charles-1"
-id: "TRM-ENG-38801"
+id: "TRM-ENG-53330"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spearman, Charles, 1"

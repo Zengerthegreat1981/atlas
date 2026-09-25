@@ -1,6 +1,6 @@
 ---
 slug: "trm-medical-institute-the-wellness-book"
-id: "TRM-ENG-45886"
+id: "TRM-ENG-60415"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Medical Institute. The Wellness Book"

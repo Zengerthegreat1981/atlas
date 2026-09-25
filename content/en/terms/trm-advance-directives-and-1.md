@@ -1,6 +1,6 @@
 ---
 slug: "trm-advance-directives-and-1"
-id: "TRM-ENG-39123"
+id: "TRM-ENG-53652"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "advance directives and, 1"

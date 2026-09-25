@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-the-dynamics-of-intergroup-relations"
-id: "TRM-ENG-37522"
+id: "TRM-ENG-52051"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and the dynamics of intergroup relations"

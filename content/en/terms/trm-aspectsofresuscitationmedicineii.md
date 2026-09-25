@@ -1,6 +1,6 @@
 ---
 slug: "trm-aspectsofresuscitationmedicineii"
-id: "TRM-ENG-45651"
+id: "TRM-ENG-60180"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "AspectsofResuscitationMedicine.II"

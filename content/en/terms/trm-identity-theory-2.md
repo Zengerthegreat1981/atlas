@@ -1,6 +1,6 @@
 ---
 slug: "trm-identity-theory-2"
-id: "TRM-ENG-44536"
+id: "TRM-ENG-59065"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Identity theory, 2"

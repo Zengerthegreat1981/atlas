@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-evolutionary-psychology-pp-121-new-york"
-id: "TRM-ENG-38019"
+id: "TRM-ENG-67077"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of evolutionary psychology (pp. 1–21). New York"

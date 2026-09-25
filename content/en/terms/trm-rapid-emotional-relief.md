@@ -1,6 +1,6 @@
 ---
 slug: "trm-rapid-emotional-relief"
-id: "TRM-ENG-43161"
+id: "TRM-ENG-57690"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rapid emotional relief"

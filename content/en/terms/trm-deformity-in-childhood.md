@@ -1,6 +1,6 @@
 ---
 slug: "trm-deformity-in-childhood"
-id: "TRM-ENG-46930"
+id: "TRM-ENG-61459"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "deformity in childhood"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-emotions-dreams-vision-and-spirit-on-the-life-contact"
-id: "TRM-ENG-51430"
+id: "TRM-ENG-65959"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "emotions, dreams, vision, and spirit) on the life contact"

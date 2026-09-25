@@ -1,6 +1,6 @@
 ---
 slug: "trm-while-retaining-a-set-of-words-b-alphabet-span"
-id: "TRM-ENG-45687"
+id: "TRM-ENG-60216"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "while retaining a set of words; (b) alphabet span"

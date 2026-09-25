@@ -1,6 +1,6 @@
 ---
 slug: "trm-mals"
-id: "TRM-ENG-48310"
+id: "TRM-ENG-62839"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mals"

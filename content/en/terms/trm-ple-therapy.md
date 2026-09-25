@@ -1,6 +1,6 @@
 ---
 slug: "trm-ple-therapy"
-id: "TRM-ENG-48531"
+id: "TRM-ENG-63060"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ple therapy"

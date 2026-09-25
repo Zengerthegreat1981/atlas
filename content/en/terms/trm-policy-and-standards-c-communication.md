@@ -1,6 +1,6 @@
 ---
 slug: "trm-policy-and-standards-c-communication"
-id: "TRM-ENG-35238"
+id: "TRM-ENG-64296"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "policy and standards; (c) communication"

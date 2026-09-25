@@ -1,6 +1,6 @@
 ---
 slug: "trm-migraine"
-id: "TRM-ENG-52286"
+id: "TRM-ENG-66815"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Migraine"

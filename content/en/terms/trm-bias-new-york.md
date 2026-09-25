@@ -1,6 +1,6 @@
 ---
 slug: "trm-bias-new-york"
-id: "TRM-ENG-46042"
+id: "TRM-ENG-60571"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bias. New York"

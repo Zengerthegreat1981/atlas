@@ -1,6 +1,6 @@
 ---
 slug: "trm-pramine-protriptyline-us-trade-name"
-id: "TRM-ENG-43806"
+id: "TRM-ENG-58335"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pramine, protriptyline (U.S. trade name"

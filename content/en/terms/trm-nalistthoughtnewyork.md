@@ -1,6 +1,6 @@
 ---
 slug: "trm-nalistthoughtnewyork"
-id: "TRM-ENG-37986"
+id: "TRM-ENG-52515"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nalistThought,NewYork"

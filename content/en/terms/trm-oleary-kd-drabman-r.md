@@ -1,6 +1,6 @@
 ---
 slug: "trm-oleary-kd-drabman-r"
-id: "TRM-ENG-41898"
+id: "TRM-ENG-56427"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "O’Leary KD, Drabman R"

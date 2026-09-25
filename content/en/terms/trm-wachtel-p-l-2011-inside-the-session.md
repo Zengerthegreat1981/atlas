@@ -1,6 +1,6 @@
 ---
 slug: "trm-wachtel-p-l-2011-inside-the-session"
-id: "TRM-ENG-51148"
+id: "TRM-ENG-65677"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wachtel, P. L. (2011). Inside the session"

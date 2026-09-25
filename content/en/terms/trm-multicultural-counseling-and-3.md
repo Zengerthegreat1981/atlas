@@ -1,6 +1,6 @@
 ---
 slug: "trm-multicultural-counseling-and-3"
-id: "TRM-ENG-40898"
+id: "TRM-ENG-55427"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "multicultural counseling and, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-impulsivechildreninvolvesthefollowingsteps"
-id: "TRM-ENG-49480"
+id: "TRM-ENG-64009"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "impulsivechildreninvolvesthefollowingsteps"

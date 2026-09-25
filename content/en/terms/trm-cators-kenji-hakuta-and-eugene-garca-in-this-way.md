@@ -1,6 +1,6 @@
 ---
 slug: "trm-cators-kenji-hakuta-and-eugene-garca-in-this-way"
-id: "TRM-ENG-39458"
+id: "TRM-ENG-53987"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cators Kenji Hakuta and Eugene García in this way"

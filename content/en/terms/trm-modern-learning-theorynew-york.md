@@ -1,6 +1,6 @@
 ---
 slug: "trm-modern-learning-theorynew-york"
-id: "TRM-ENG-35846"
+id: "TRM-ENG-64904"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Modern learning theory.New York"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp-147170-bern-switzerland"
-id: "TRM-ENG-43263"
+id: "TRM-ENG-57792"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp. 147–170). Bern, Switzerland"

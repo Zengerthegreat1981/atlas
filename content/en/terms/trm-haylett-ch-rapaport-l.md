@@ -1,6 +1,6 @@
 ---
 slug: "trm-haylett-ch-rapaport-l"
-id: "TRM-ENG-40949"
+id: "TRM-ENG-55478"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Haylett CH, Rapaport L"

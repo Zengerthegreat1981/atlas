@@ -1,6 +1,6 @@
 ---
 slug: "trm-horn-john-2"
-id: "TRM-ENG-38192"
+id: "TRM-ENG-52721"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Horn, John, 2"

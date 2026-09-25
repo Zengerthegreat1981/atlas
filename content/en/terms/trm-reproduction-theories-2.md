@@ -1,6 +1,6 @@
 ---
 slug: "trm-reproduction-theories-2"
-id: "TRM-ENG-48655"
+id: "TRM-ENG-63184"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reproduction theories, 2"

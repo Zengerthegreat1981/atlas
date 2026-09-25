@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-behavioral-social-and-medical-sciences"
-id: "TRM-ENG-36166"
+id: "TRM-ENG-65224"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the behavioral, social, and medical sciences"

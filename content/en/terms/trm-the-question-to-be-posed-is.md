@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-question-to-be-posed-is"
-id: "TRM-ENG-44027"
+id: "TRM-ENG-58556"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The question to be posed is"

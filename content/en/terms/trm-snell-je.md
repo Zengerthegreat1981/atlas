@@ -1,6 +1,6 @@
 ---
 slug: "trm-snell-je"
-id: "TRM-ENG-42387"
+id: "TRM-ENG-56916"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Snell JE"

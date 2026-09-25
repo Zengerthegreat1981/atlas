@@ -1,6 +1,6 @@
 ---
 slug: "trm-careful-reading-of-the-elaborations-and-examples"
-id: "TRM-ENG-47739"
+id: "TRM-ENG-62268"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "careful reading of the elaborations and examples"

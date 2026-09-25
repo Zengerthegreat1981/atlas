@@ -1,6 +1,6 @@
 ---
 slug: "trm-mccord-w-mccord-j-1964-the-psychopath"
-id: "TRM-ENG-42456"
+id: "TRM-ENG-56985"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "McCord, W., & McCord, J. (1964). The psychopath"

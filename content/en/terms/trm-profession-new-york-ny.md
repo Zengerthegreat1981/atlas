@@ -1,6 +1,6 @@
 ---
 slug: "trm-profession-new-york-ny"
-id: "TRM-ENG-51733"
+id: "TRM-ENG-66262"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "profession. New York, NY"

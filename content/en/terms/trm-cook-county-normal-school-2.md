@@ -1,6 +1,6 @@
 ---
 slug: "trm-cook-county-normal-school-2"
-id: "TRM-ENG-46452"
+id: "TRM-ENG-60981"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cook County Normal School, 2"

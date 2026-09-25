@@ -1,6 +1,6 @@
 ---
 slug: "trm-mooss-social-climate-scales-and-4"
-id: "TRM-ENG-38448"
+id: "TRM-ENG-52977"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Moos’s Social Climate Scales and, 4"

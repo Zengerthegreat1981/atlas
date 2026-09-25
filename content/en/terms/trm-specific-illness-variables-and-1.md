@@ -1,6 +1,6 @@
 ---
 slug: "trm-specific-illness-variables-and-1"
-id: "TRM-ENG-41740"
+id: "TRM-ENG-56269"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "specific illness variables and, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-press-tions"
-id: "TRM-ENG-49120"
+id: "TRM-ENG-63649"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Press. tions"

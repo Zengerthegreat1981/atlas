@@ -1,6 +1,6 @@
 ---
 slug: "trm-scious-recollection"
-id: "TRM-ENG-36957"
+id: "TRM-ENG-51486"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "scious recollection"

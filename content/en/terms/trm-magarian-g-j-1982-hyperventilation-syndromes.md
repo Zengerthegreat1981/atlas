@@ -1,6 +1,6 @@
 ---
 slug: "trm-magarian-g-j-1982-hyperventilation-syndromes"
-id: "TRM-ENG-49076"
+id: "TRM-ENG-63605"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Magarian, G. J. (1982). Hyperventilation syndromes"

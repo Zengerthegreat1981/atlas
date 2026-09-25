@@ -1,6 +1,6 @@
 ---
 slug: "trm-illnesspp155188london"
-id: "TRM-ENG-47029"
+id: "TRM-ENG-61558"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "illness(pp.155±188).London"

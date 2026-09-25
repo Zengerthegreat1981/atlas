@@ -1,6 +1,6 @@
 ---
 slug: "trm-fects-are-proposed"
-id: "TRM-ENG-43649"
+id: "TRM-ENG-58178"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "fects are proposed"

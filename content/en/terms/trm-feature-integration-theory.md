@@ -1,6 +1,6 @@
 ---
 slug: "trm-feature-integration-theory"
-id: "TRM-ENG-45500"
+id: "TRM-ENG-60029"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "feature integration theory"

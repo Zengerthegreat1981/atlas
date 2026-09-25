@@ -1,6 +1,6 @@
 ---
 slug: "trm-oberg-1960-mentioned-six-aspects-of-culture-shock"
-id: "TRM-ENG-35870"
+id: "TRM-ENG-64928"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Oberg (1960) mentioned six aspects of culture shock"

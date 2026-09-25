@@ -1,6 +1,6 @@
 ---
 slug: "trm-sponsibility-and-the-university"
-id: "TRM-ENG-46019"
+id: "TRM-ENG-60548"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sponsibility, and the University"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-world-revolves-around-her"
-id: "TRM-ENG-45440"
+id: "TRM-ENG-59969"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "world revolves around her"

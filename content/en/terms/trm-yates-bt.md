@@ -1,6 +1,6 @@
 ---
 slug: "trm-yates-bt"
-id: "TRM-ENG-42889"
+id: "TRM-ENG-57418"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Yates BT"

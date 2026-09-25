@@ -1,6 +1,6 @@
 ---
 slug: "trm-paranoia-continuum-concept-and-3"
-id: "TRM-ENG-41104"
+id: "TRM-ENG-55633"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "paranoia continuum concept and, 3"

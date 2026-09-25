@@ -1,6 +1,6 @@
 ---
 slug: "trm-armstrong-david-2"
-id: "TRM-ENG-44304"
+id: "TRM-ENG-58833"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Armstrong, David, 2"

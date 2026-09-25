@@ -1,6 +1,6 @@
 ---
 slug: "trm-variety-of-reasons"
-id: "TRM-ENG-36381"
+id: "TRM-ENG-65439"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "variety of reasons"

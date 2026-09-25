@@ -1,6 +1,6 @@
 ---
 slug: "trm-pertofrane-and-nortriptyline-aventyl"
-id: "TRM-ENG-41963"
+id: "TRM-ENG-56492"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pertofrane) and nortriptyline (Aventyl)"

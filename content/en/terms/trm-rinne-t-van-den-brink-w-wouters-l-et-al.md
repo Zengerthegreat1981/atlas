@@ -1,6 +1,6 @@
 ---
 slug: "trm-rinne-t-van-den-brink-w-wouters-l-et-al"
-id: "TRM-ENG-48016"
+id: "TRM-ENG-62545"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rinne T, van den Brink W, Wouters L, et al"

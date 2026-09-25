@@ -1,6 +1,6 @@
 ---
 slug: "trm-dbt-diary-card"
-id: "TRM-ENG-42367"
+id: "TRM-ENG-56896"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "DBT Diary Card"

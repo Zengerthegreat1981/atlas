@@ -1,6 +1,6 @@
 ---
 slug: "trm-ment-and-the-management-of-change-leicester-uk"
-id: "TRM-ENG-47116"
+id: "TRM-ENG-61645"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ment and the management of change. Leicester, UK"

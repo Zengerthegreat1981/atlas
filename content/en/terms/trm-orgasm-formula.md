@@ -1,6 +1,6 @@
 ---
 slug: "trm-orgasm-formula"
-id: "TRM-ENG-45206"
+id: "TRM-ENG-59735"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "orgasm formula"

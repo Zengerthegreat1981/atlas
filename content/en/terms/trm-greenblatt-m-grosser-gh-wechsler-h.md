@@ -1,6 +1,6 @@
 ---
 slug: "trm-greenblatt-m-grosser-gh-wechsler-h"
-id: "TRM-ENG-40809"
+id: "TRM-ENG-55338"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Greenblatt M, Grosser GH, Wechsler H"

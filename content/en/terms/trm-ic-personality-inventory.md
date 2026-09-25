@@ -1,6 +1,6 @@
 ---
 slug: "trm-ic-personality-inventory"
-id: "TRM-ENG-42869"
+id: "TRM-ENG-57398"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ic Personality Inventory"

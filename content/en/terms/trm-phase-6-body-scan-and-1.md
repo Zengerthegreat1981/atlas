@@ -1,6 +1,6 @@
 ---
 slug: "trm-phase-6-body-scan-and-1"
-id: "TRM-ENG-41167"
+id: "TRM-ENG-55696"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "phase 6 - body scan and, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-counselor-preparation-section-of-4"
-id: "TRM-ENG-37885"
+id: "TRM-ENG-66943"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Counselor Preparation section of, 4"

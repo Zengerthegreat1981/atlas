@@ -1,6 +1,6 @@
 ---
 slug: "trm-p-cid"
-id: "TRM-ENG-35473"
+id: "TRM-ENG-50002"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "P ((cid"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-coherence-texts"
-id: "TRM-ENG-35721"
+id: "TRM-ENG-64779"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "coherence texts"

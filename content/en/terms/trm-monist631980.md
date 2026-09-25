@@ -1,6 +1,6 @@
 ---
 slug: "trm-monist631980"
-id: "TRM-ENG-45746"
+id: "TRM-ENG-60275"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Monist63(1980)"

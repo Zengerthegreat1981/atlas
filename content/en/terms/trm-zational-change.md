@@ -1,6 +1,6 @@
 ---
 slug: "trm-zational-change"
-id: "TRM-ENG-37337"
+id: "TRM-ENG-51866"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "zational change"

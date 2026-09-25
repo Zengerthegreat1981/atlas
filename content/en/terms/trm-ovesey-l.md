@@ -1,6 +1,6 @@
 ---
 slug: "trm-ovesey-l"
-id: "TRM-ENG-41892"
+id: "TRM-ENG-56421"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ovesey L"

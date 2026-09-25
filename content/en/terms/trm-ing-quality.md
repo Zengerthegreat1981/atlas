@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-quality"
-id: "TRM-ENG-42910"
+id: "TRM-ENG-57439"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing quality"

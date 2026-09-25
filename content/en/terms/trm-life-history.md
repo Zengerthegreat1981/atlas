@@ -1,6 +1,6 @@
 ---
 slug: "trm-life-history"
-id: "TRM-ENG-44132"
+id: "TRM-ENG-58661"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "life history"

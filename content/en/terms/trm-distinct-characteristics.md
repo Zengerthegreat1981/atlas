@@ -1,6 +1,6 @@
 ---
 slug: "trm-distinct-characteristics"
-id: "TRM-ENG-45498"
+id: "TRM-ENG-60027"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "distinct characteristics"

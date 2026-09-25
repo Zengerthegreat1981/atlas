@@ -1,6 +1,6 @@
 ---
 slug: "trm-example-as-follows"
-id: "TRM-ENG-45109"
+id: "TRM-ENG-59638"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "example as follows"

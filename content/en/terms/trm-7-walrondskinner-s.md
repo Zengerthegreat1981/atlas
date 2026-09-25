@@ -1,6 +1,6 @@
 ---
 slug: "trm-7-walrondskinner-s"
-id: "TRM-ENG-39341"
+id: "TRM-ENG-53870"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "7. Walrond-Skinner S"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-right-now"
-id: "TRM-ENG-48562"
+id: "TRM-ENG-63091"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "right now!”"

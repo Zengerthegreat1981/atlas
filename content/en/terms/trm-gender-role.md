@@ -1,6 +1,6 @@
 ---
 slug: "trm-gender-role"
-id: "TRM-ENG-52197"
+id: "TRM-ENG-66726"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gender role"

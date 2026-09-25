@@ -1,6 +1,6 @@
 ---
 slug: "trm-deprivation"
-id: "TRM-ENG-36320"
+id: "TRM-ENG-65378"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "deprivation"

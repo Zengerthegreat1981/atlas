@@ -1,6 +1,6 @@
 ---
 slug: "trm-that-true-romantic-love-has-little-to-do-with-sex"
-id: "TRM-ENG-37105"
+id: "TRM-ENG-51634"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "that true romantic love has little to do with sex"

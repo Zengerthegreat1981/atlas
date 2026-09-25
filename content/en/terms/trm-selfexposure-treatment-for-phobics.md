@@ -1,6 +1,6 @@
 ---
 slug: "trm-selfexposure-treatment-for-phobics"
-id: "TRM-ENG-36967"
+id: "TRM-ENG-51496"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "self-exposure treatment for phobics"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-widiger-ta"
-id: "TRM-ENG-48152"
+id: "TRM-ENG-62681"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Widiger TA"

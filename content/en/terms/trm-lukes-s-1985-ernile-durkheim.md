@@ -1,6 +1,6 @@
 ---
 slug: "trm-lukes-s-1985-ernile-durkheim"
-id: "TRM-ENG-34741"
+id: "TRM-ENG-63799"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lukes, S. (1985). Ernile Durkheim"

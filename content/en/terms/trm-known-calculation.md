@@ -1,6 +1,6 @@
 ---
 slug: "trm-known-calculation"
-id: "TRM-ENG-37908"
+id: "TRM-ENG-66966"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "known calculation"

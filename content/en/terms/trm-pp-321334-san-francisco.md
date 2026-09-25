@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp-321334-san-francisco"
-id: "TRM-ENG-34592"
+id: "TRM-ENG-63650"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp. 321-334). San Francisco"

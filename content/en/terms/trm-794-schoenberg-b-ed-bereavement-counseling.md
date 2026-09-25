@@ -1,6 +1,6 @@
 ---
 slug: "trm-794-schoenberg-b-ed-bereavement-counseling"
-id: "TRM-ENG-39446"
+id: "TRM-ENG-53975"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "794. Schoenberg B (ed) Bereavement Counseling"

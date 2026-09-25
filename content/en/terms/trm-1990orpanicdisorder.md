@@ -1,6 +1,6 @@
 ---
 slug: "trm-1990orpanicdisorder"
-id: "TRM-ENG-48821"
+id: "TRM-ENG-63350"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1990),orPanicdisorder"

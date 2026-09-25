@@ -1,6 +1,6 @@
 ---
 slug: "trm-sexual-minorities-and-2"
-id: "TRM-ENG-41647"
+id: "TRM-ENG-56176"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sexual minorities and, 2"

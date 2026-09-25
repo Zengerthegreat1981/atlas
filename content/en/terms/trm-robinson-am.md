@@ -1,6 +1,6 @@
 ---
 slug: "trm-robinson-am"
-id: "TRM-ENG-42137"
+id: "TRM-ENG-56666"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Robinson AM"

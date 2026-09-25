@@ -1,6 +1,6 @@
 ---
 slug: "trm-training-definition-and-4"
-id: "TRM-ENG-42002"
+id: "TRM-ENG-56531"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "training definition and, 4"

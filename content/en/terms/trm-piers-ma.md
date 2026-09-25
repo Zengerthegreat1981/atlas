@@ -1,6 +1,6 @@
 ---
 slug: "trm-piers-ma"
-id: "TRM-ENG-41976"
+id: "TRM-ENG-56505"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Piers MA"

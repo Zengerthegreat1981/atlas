@@ -1,6 +1,6 @@
 ---
 slug: "trm-mentvols-12-new-york"
-id: "TRM-ENG-36697"
+id: "TRM-ENG-51226"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ment(Vols. 1–2). New York"

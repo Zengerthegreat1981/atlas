@@ -1,6 +1,6 @@
 ---
 slug: "trm-cambridge"
-id: "TRM-ENG-45668"
+id: "TRM-ENG-60197"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cambridge"

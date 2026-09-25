@@ -1,6 +1,6 @@
 ---
 slug: "trm-neobehaviorism"
-id: "TRM-ENG-44005"
+id: "TRM-ENG-58534"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "NEOBEHAVIORISM"

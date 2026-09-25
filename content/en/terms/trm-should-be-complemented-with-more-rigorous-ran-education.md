@@ -1,6 +1,6 @@
 ---
 slug: "trm-should-be-complemented-with-more-rigorous-ran-education"
-id: "TRM-ENG-48710"
+id: "TRM-ENG-63239"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "should be complemented with more rigorous ran- Education"

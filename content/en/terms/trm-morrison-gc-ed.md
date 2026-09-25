@@ -1,6 +1,6 @@
 ---
 slug: "trm-morrison-gc-ed"
-id: "TRM-ENG-41766"
+id: "TRM-ENG-56295"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Morrison GC (ed)"

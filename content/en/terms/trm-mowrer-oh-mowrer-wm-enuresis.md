@@ -1,6 +1,6 @@
 ---
 slug: "trm-mowrer-oh-mowrer-wm-enuresis"
-id: "TRM-ENG-41776"
+id: "TRM-ENG-56305"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mowrer OH, Mowrer WM: Enuresis"

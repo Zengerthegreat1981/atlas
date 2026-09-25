@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp227245cambridge"
-id: "TRM-ENG-36465"
+id: "TRM-ENG-50994"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp.227–245).Cambridge"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-wollock1996"
-id: "TRM-ENG-36451"
+id: "TRM-ENG-50980"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Wollock1996"

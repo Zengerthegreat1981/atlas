@@ -1,6 +1,6 @@
 ---
 slug: "trm-finding-of-a-positive-manifold-among-intelligence-tests"
-id: "TRM-ENG-36439"
+id: "TRM-ENG-50968"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "finding of a “positive manifold” among intelligence tests"

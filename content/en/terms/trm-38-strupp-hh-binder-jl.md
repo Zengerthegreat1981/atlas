@@ -1,6 +1,6 @@
 ---
 slug: "trm-38-strupp-hh-binder-jl"
-id: "TRM-ENG-38950"
+id: "TRM-ENG-53479"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "38. Strupp HH, Binder JL"

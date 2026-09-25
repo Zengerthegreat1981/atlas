@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-the-1950s-and-1960s-counseling-as-guidance"
-id: "TRM-ENG-35764"
+id: "TRM-ENG-64822"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "In the 1950s and 1960s, counseling as guidance"

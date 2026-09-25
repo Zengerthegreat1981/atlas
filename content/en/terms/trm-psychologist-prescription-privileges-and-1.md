@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychologist-prescription-privileges-and-1"
-id: "TRM-ENG-41343"
+id: "TRM-ENG-55872"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychologist prescription privileges and, 1"

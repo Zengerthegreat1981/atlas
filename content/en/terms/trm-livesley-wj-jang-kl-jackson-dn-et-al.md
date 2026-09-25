@@ -1,6 +1,6 @@
 ---
 slug: "trm-livesley-wj-jang-kl-jackson-dn-et-al"
-id: "TRM-ENG-47846"
+id: "TRM-ENG-62375"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Livesley WJ, Jang KL, Jackson DN, et al"

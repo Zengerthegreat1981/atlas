@@ -1,6 +1,6 @@
 ---
 slug: "trm-diglossia-and-3"
-id: "TRM-ENG-39935"
+id: "TRM-ENG-54464"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "diglossia and, 3"

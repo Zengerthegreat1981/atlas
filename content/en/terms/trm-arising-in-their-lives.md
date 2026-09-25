@@ -1,6 +1,6 @@
 ---
 slug: "trm-arising-in-their-lives"
-id: "TRM-ENG-44902"
+id: "TRM-ENG-59431"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "arising in their lives"

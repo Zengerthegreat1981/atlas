@@ -1,6 +1,6 @@
 ---
 slug: "trm-224-kolb-l-brodie-hk-eds"
-id: "TRM-ENG-38743"
+id: "TRM-ENG-53272"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "224. Kolb L, Brodie HK (eds)"

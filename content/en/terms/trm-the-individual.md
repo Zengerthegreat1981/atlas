@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-individual"
-id: "TRM-ENG-45517"
+id: "TRM-ENG-60046"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the individual"

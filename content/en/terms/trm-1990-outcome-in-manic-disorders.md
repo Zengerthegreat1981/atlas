@@ -1,6 +1,6 @@
 ---
 slug: "trm-1990-outcome-in-manic-disorders"
-id: "TRM-ENG-35469"
+id: "TRM-ENG-49998"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1990). Outcome in manic disorders"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-tions-were-of-interest"
-id: "TRM-ENG-36205"
+id: "TRM-ENG-65263"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tions were of interest"

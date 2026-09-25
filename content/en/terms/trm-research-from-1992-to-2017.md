@@ -1,6 +1,6 @@
 ---
 slug: "trm-research-from-1992-to-2017"
-id: "TRM-ENG-35019"
+id: "TRM-ENG-64077"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "research from 1992 to 2017"

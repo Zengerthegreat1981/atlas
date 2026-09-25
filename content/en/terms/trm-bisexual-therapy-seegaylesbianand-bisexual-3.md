@@ -1,6 +1,6 @@
 ---
 slug: "trm-bisexual-therapy-seegaylesbianand-bisexual-3"
-id: "TRM-ENG-37700"
+id: "TRM-ENG-52229"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bisexual therapy. SeeGay,lesbian,and bisexual 3"

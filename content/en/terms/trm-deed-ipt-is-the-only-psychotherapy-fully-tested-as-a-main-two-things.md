@@ -1,6 +1,6 @@
 ---
 slug: "trm-deed-ipt-is-the-only-psychotherapy-fully-tested-as-a-main-two-things"
-id: "TRM-ENG-36340"
+id: "TRM-ENG-50869"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "deed, IPT is the only psychotherapy fully tested as a main- two things"

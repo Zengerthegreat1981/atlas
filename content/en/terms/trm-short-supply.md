@@ -1,6 +1,6 @@
 ---
 slug: "trm-short-supply"
-id: "TRM-ENG-36988"
+id: "TRM-ENG-51517"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "short supply"

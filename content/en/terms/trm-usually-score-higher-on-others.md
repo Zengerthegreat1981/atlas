@@ -1,6 +1,6 @@
 ---
 slug: "trm-usually-score-higher-on-others"
-id: "TRM-ENG-43899"
+id: "TRM-ENG-58428"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "usually score higher on others"

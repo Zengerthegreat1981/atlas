@@ -1,6 +1,6 @@
 ---
 slug: "trm-neisser-u-1982-memory-observed-san-francisco"
-id: "TRM-ENG-34756"
+id: "TRM-ENG-63814"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Neisser, U. (1982). Memory observed. San Francisco"

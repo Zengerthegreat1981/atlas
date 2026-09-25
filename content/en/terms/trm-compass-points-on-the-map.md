@@ -1,6 +1,6 @@
 ---
 slug: "trm-compass-points-on-the-map"
-id: "TRM-ENG-39609"
+id: "TRM-ENG-54138"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "compass points on the map"

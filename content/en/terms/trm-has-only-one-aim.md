@@ -1,6 +1,6 @@
 ---
 slug: "trm-has-only-one-aim"
-id: "TRM-ENG-45069"
+id: "TRM-ENG-59598"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "has only one aim"

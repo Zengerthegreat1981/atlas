@@ -1,6 +1,6 @@
 ---
 slug: "trm-they-deserve-and-deserve-what-they-get"
-id: "TRM-ENG-37153"
+id: "TRM-ENG-66211"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "they deserve and deserve what they get"

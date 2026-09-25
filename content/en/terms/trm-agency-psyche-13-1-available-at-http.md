@@ -1,6 +1,6 @@
 ---
 slug: "trm-agency-psyche-13-1-available-at-http"
-id: "TRM-ENG-44879"
+id: "TRM-ENG-59408"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "agency. Psyche, 13 (1). Available at http"

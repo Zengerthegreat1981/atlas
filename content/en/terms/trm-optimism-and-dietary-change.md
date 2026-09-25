@@ -1,6 +1,6 @@
 ---
 slug: "trm-optimism-and-dietary-change"
-id: "TRM-ENG-47176"
+id: "TRM-ENG-61705"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "optimism and dietary change"

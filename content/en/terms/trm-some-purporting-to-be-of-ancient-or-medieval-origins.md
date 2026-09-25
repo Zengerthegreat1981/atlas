@@ -1,6 +1,6 @@
 ---
 slug: "trm-some-purporting-to-be-of-ancient-or-medieval-origins"
-id: "TRM-ENG-35328"
+id: "TRM-ENG-49857"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "some purporting to be of ancient or medieval origins"

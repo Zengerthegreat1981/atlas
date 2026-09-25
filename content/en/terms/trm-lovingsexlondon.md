@@ -1,6 +1,6 @@
 ---
 slug: "trm-lovingsexlondon"
-id: "TRM-ENG-49522"
+id: "TRM-ENG-64051"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lovingsex.London"

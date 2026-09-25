@@ -1,6 +1,6 @@
 ---
 slug: "trm-emphasized-loss-aversion"
-id: "TRM-ENG-37718"
+id: "TRM-ENG-52247"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "emphasized loss aversion"

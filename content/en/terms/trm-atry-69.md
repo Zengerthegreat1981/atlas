@@ -1,6 +1,6 @@
 ---
 slug: "trm-atry-69"
-id: "TRM-ENG-48214"
+id: "TRM-ENG-62743"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "atry 69"

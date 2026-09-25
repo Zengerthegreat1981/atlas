@@ -1,6 +1,6 @@
 ---
 slug: "trm-selfactualizing-people"
-id: "TRM-ENG-44817"
+id: "TRM-ENG-59346"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, “Self-actualizing People"

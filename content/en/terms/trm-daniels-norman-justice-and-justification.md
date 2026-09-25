@@ -1,6 +1,6 @@
 ---
 slug: "trm-daniels-norman-justice-and-justification"
-id: "TRM-ENG-45676"
+id: "TRM-ENG-60205"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Daniels, Norman. Justice and Justification"

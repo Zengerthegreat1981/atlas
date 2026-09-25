@@ -1,6 +1,6 @@
 ---
 slug: "trm-originated-and-resided-and-the-effects-of-differences-ness"
-id: "TRM-ENG-38067"
+id: "TRM-ENG-67125"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "originated and resided and the effects of differences ness"

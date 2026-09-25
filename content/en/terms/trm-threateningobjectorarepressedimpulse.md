@@ -1,6 +1,6 @@
 ---
 slug: "trm-threateningobjectorarepressedimpulse"
-id: "TRM-ENG-43914"
+id: "TRM-ENG-58443"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "threateningobjectorarepressedimpulse."

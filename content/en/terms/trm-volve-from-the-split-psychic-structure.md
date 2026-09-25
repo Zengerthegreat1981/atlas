@@ -1,6 +1,6 @@
 ---
 slug: "trm-volve-from-the-split-psychic-structure"
-id: "TRM-ENG-48724"
+id: "TRM-ENG-63253"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "volve from the split psychic structure"

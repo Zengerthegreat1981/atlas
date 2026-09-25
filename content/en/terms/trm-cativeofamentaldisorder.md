@@ -1,6 +1,6 @@
 ---
 slug: "trm-cativeofamentaldisorder"
-id: "TRM-ENG-43573"
+id: "TRM-ENG-58102"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cativeofamentaldisorder."

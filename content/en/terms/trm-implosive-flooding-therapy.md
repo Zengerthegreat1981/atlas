@@ -1,6 +1,6 @@
 ---
 slug: "trm-implosive-flooding-therapy"
-id: "TRM-ENG-51526"
+id: "TRM-ENG-66055"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "implosive (flooding) therapy"

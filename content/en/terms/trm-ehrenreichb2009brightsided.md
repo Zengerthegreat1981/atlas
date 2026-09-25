@@ -1,6 +1,6 @@
 ---
 slug: "trm-ehrenreichb2009brightsided"
-id: "TRM-ENG-36767"
+id: "TRM-ENG-51296"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ehrenreich,B.(2009).Bright-sided"

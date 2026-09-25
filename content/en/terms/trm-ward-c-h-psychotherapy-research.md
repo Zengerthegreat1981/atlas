@@ -1,6 +1,6 @@
 ---
 slug: "trm-ward-c-h-psychotherapy-research"
-id: "TRM-ENG-44687"
+id: "TRM-ENG-59216"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ward, C. H., “Psychotherapy Research"

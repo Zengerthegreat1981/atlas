@@ -1,6 +1,6 @@
 ---
 slug: "trm-divisions-eg-welch-1977-cf"
-id: "TRM-ENG-52559"
+id: "TRM-ENG-67088"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "divisions (e.g., Welch, 1977; cf"

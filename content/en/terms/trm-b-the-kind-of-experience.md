@@ -1,6 +1,6 @@
 ---
 slug: "trm-b-the-kind-of-experience"
-id: "TRM-ENG-42972"
+id: "TRM-ENG-57501"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "b. The kind of experience"

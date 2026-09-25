@@ -1,6 +1,6 @@
 ---
 slug: "trm-yellow-power-movement-3"
-id: "TRM-ENG-39060"
+id: "TRM-ENG-53589"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Yellow Power movement, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-anchored-instruction-2"
-id: "TRM-ENG-46236"
+id: "TRM-ENG-60765"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Anchored instruction, 2"

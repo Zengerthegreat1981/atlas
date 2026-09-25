@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-role-of-philosophers"
-id: "TRM-ENG-48852"
+id: "TRM-ENG-63381"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the role of philosophers"

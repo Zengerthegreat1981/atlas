@@ -1,6 +1,6 @@
 ---
 slug: "trm-freud-s-1952-on-dreams-new-york-ny"
-id: "TRM-ENG-50436"
+id: "TRM-ENG-64965"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Freud, S. (1952). On dreams. New York, NY"

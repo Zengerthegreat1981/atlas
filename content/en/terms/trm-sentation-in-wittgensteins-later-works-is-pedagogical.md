@@ -1,6 +1,6 @@
 ---
 slug: "trm-sentation-in-wittgensteins-later-works-is-pedagogical"
-id: "TRM-ENG-48701"
+id: "TRM-ENG-63230"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sentation in Wittgenstein’s later works is pedagogical"

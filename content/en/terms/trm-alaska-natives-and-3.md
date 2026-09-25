@@ -1,6 +1,6 @@
 ---
 slug: "trm-alaska-natives-and-3"
-id: "TRM-ENG-37565"
+id: "TRM-ENG-66623"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Alaska Natives and, 3"

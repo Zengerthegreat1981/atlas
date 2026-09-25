@@ -1,6 +1,6 @@
 ---
 slug: "trm-chapter-is-a-discussion-of-schemas"
-id: "TRM-ENG-42716"
+id: "TRM-ENG-57245"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chapter is a discussion of schemas"

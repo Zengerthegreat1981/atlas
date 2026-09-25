@@ -1,6 +1,6 @@
 ---
 slug: "trm-estedintwothings"
-id: "TRM-ENG-37738"
+id: "TRM-ENG-52267"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "estedintwothings"

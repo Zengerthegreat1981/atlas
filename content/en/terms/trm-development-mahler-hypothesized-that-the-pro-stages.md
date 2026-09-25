@@ -1,6 +1,6 @@
 ---
 slug: "trm-development-mahler-hypothesized-that-the-pro-stages"
-id: "TRM-ENG-51397"
+id: "TRM-ENG-65926"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "development, Mahler hypothesized that the pro- stages"

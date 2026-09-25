@@ -1,6 +1,6 @@
 ---
 slug: "trm-values-of-a-given-cultural-group-guide-the-members-of-ues"
-id: "TRM-ENG-42107"
+id: "TRM-ENG-56636"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "values of a given cultural group guide the members of ues"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-grant-cecil-2"
-id: "TRM-ENG-46706"
+id: "TRM-ENG-61235"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Grant, Cecil, 2"

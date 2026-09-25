@@ -1,6 +1,6 @@
 ---
 slug: "trm-computerized-adaptive-test-cat-and-2"
-id: "TRM-ENG-39628"
+id: "TRM-ENG-54157"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "computerized adaptive test (CAT) and, 2"

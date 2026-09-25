@@ -1,6 +1,6 @@
 ---
 slug: "trm-rosecrancej1986whyregulargamblersdontquit"
-id: "TRM-ENG-49153"
+id: "TRM-ENG-63682"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rosecrance,J.(1986).Whyregulargamblersdon'tquit"

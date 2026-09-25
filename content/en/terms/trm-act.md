@@ -1,6 +1,6 @@
 ---
 slug: "trm-act"
-id: "TRM-ENG-36082"
+id: "TRM-ENG-50611"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "act"

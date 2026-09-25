@@ -1,6 +1,6 @@
 ---
 slug: "trm-much-of-this-research"
-id: "TRM-ENG-36730"
+id: "TRM-ENG-65788"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "much of this research"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-these-into-the-following-two-kinds"
-id: "TRM-ENG-45603"
+id: "TRM-ENG-60132"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "these into the following two kinds"

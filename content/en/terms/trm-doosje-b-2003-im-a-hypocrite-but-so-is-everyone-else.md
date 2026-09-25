@@ -1,6 +1,6 @@
 ---
 slug: "trm-doosje-b-2003-im-a-hypocrite-but-so-is-everyone-else"
-id: "TRM-ENG-36384"
+id: "TRM-ENG-65442"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "& Doosje, B. (2003). I’m a hypocrite, but so is everyone else"

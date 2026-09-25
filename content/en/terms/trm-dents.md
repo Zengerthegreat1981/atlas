@@ -1,6 +1,6 @@
 ---
 slug: "trm-dents"
-id: "TRM-ENG-47876"
+id: "TRM-ENG-62405"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dents"

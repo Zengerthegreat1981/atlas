@@ -1,6 +1,6 @@
 ---
 slug: "trm-career-pattern-study-4"
-id: "TRM-ENG-37783"
+id: "TRM-ENG-52312"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Career Pattern Study, 4"

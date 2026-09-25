@@ -1,6 +1,6 @@
 ---
 slug: "trm-20th-century-and-1"
-id: "TRM-ENG-37484"
+id: "TRM-ENG-66542"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "20th century and, 1"

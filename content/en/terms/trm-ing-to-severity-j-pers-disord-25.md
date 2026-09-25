@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-to-severity-j-pers-disord-25"
-id: "TRM-ENG-48401"
+id: "TRM-ENG-62930"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing to severity. J Pers Disord 25"

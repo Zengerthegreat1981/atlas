@@ -1,6 +1,6 @@
 ---
 slug: "trm-grinker-rr-werble-b-drye-rc"
-id: "TRM-ENG-40832"
+id: "TRM-ENG-55361"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Grinker RR, Werble B, Drye RC"

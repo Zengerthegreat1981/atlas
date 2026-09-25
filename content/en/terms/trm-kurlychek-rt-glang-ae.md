@@ -1,6 +1,6 @@
 ---
 slug: "trm-kurlychek-rt-glang-ae"
-id: "TRM-ENG-41334"
+id: "TRM-ENG-55863"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kurlychek RT, Glang AE"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-lal-s-2002-giving-children-security"
-id: "TRM-ENG-38351"
+id: "TRM-ENG-52880"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lal, S. (2002). Giving children security"

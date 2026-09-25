@@ -1,6 +1,6 @@
 ---
 slug: "trm-hydejsoliverm2000genderdifferencesinsexuality"
-id: "TRM-ENG-36936"
+id: "TRM-ENG-51465"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hyde,J.S.,&Oliver,M.(2000).Genderdifferencesinsexuality"

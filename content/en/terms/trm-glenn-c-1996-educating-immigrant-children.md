@@ -1,6 +1,6 @@
 ---
 slug: "trm-glenn-c-1996-educating-immigrant-children"
-id: "TRM-ENG-46686"
+id: "TRM-ENG-61215"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Glenn, C. (1996). Educating immigrant children"

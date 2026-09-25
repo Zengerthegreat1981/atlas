@@ -1,6 +1,6 @@
 ---
 slug: "trm-treffert-da-1998-the-idiot-savant"
-id: "TRM-ENG-36029"
+id: "TRM-ENG-65087"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Treffert, D.A. (1998). The idiot savant"

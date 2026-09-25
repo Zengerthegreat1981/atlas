@@ -1,6 +1,6 @@
 ---
 slug: "trm-educational-psychology-new-york"
-id: "TRM-ENG-34998"
+id: "TRM-ENG-64056"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "educational psychology. New York"

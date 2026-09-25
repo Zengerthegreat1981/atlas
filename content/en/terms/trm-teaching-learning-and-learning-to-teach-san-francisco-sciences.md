@@ -1,6 +1,6 @@
 ---
 slug: "trm-teaching-learning-and-learning-to-teach-san-francisco-sciences"
-id: "TRM-ENG-48800"
+id: "TRM-ENG-63329"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "teaching, learning, and learning to teach. San Francisco, sciences"

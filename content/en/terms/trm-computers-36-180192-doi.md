@@ -1,6 +1,6 @@
 ---
 slug: "trm-computers-36-180192-doi"
-id: "TRM-ENG-35347"
+id: "TRM-ENG-64405"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Computers, 36, 180–192. doi"

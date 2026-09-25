@@ -1,6 +1,6 @@
 ---
 slug: "trm-cicchetti-d-2004-an-odyssey-of-discovery"
-id: "TRM-ENG-42348"
+id: "TRM-ENG-56877"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cicchetti, D. (2004). An odyssey of discovery"

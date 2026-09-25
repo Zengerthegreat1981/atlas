@@ -1,6 +1,6 @@
 ---
 slug: "trm-reading-disability"
-id: "TRM-ENG-34680"
+id: "TRM-ENG-63738"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Reading disability"

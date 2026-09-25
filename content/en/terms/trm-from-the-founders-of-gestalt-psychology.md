@@ -1,6 +1,6 @@
 ---
 slug: "trm-from-the-founders-of-gestalt-psychology"
-id: "TRM-ENG-36467"
+id: "TRM-ENG-65525"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "from the founders of Gestalt psychology"

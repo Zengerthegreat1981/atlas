@@ -1,6 +1,6 @@
 ---
 slug: "trm-importance-of-cultures-to-their-members"
-id: "TRM-ENG-48148"
+id: "TRM-ENG-62677"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "importance of cultures to their members"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-474-wolberg-ar"
-id: "TRM-ENG-39067"
+id: "TRM-ENG-53596"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "474. Wolberg AR"

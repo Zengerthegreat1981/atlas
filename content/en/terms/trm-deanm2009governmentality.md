@@ -1,6 +1,6 @@
 ---
 slug: "trm-deanm2009governmentality"
-id: "TRM-ENG-36725"
+id: "TRM-ENG-65783"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dean,M.(2009).Governmentality"

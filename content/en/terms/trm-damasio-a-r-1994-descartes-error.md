@@ -1,6 +1,6 @@
 ---
 slug: "trm-damasio-a-r-1994-descartes-error"
-id: "TRM-ENG-34604"
+id: "TRM-ENG-49133"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Damasio, A. R. (1994). Descartes’ error"

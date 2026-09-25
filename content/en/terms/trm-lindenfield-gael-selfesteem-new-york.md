@@ -1,6 +1,6 @@
 ---
 slug: "trm-lindenfield-gael-selfesteem-new-york"
-id: "TRM-ENG-45868"
+id: "TRM-ENG-60397"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lindenfield, Gael. Self-Esteem. New York"

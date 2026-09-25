@@ -1,6 +1,6 @@
 ---
 slug: "trm-groesbeck-cj"
-id: "TRM-ENG-40838"
+id: "TRM-ENG-55367"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Groesbeck CJ"

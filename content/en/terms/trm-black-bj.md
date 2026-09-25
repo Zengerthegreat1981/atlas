@@ -1,6 +1,6 @@
 ---
 slug: "trm-black-bj"
-id: "TRM-ENG-39945"
+id: "TRM-ENG-54474"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Black BJ"

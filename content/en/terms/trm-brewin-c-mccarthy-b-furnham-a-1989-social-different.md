@@ -1,6 +1,6 @@
 ---
 slug: "trm-brewin-c-mccarthy-b-furnham-a-1989-social-different"
-id: "TRM-ENG-46446"
+id: "TRM-ENG-60975"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brewin, C., McCarthy, B., & Furnham, A. (1989). Social different"

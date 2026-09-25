@@ -1,6 +1,6 @@
 ---
 slug: "trm-echul"
-id: "TRM-ENG-52149"
+id: "TRM-ENG-66678"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Echul"

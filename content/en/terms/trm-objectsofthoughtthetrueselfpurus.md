@@ -1,6 +1,6 @@
 ---
 slug: "trm-objectsofthoughtthetrueselfpurus"
-id: "TRM-ENG-38012"
+id: "TRM-ENG-67070"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "objectsofthought,thetrueSelf(Purus"

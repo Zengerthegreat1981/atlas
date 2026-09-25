@@ -1,6 +1,6 @@
 ---
 slug: "trm-reward-schedules-and-a-24"
-id: "TRM-ENG-52600"
+id: "TRM-ENG-67129"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reward schedules, and a 24"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-eriksone1968identity"
-id: "TRM-ENG-36779"
+id: "TRM-ENG-51308"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Erikson,E.(1968).Identity"

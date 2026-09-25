@@ -1,6 +1,6 @@
 ---
 slug: "trm-ego-strength-and-2"
-id: "TRM-ENG-40025"
+id: "TRM-ENG-54554"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ego strength and, 2"

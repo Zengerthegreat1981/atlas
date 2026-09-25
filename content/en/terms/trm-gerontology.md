@@ -1,6 +1,6 @@
 ---
 slug: "trm-gerontology"
-id: "TRM-ENG-38104"
+id: "TRM-ENG-52633"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gerontology"

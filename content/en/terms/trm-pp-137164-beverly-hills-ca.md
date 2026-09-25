@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp-137164-beverly-hills-ca"
-id: "TRM-ENG-37443"
+id: "TRM-ENG-66501"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp. 137–164). Beverly Hills, CA"

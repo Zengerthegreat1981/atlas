@@ -1,6 +1,6 @@
 ---
 slug: "trm-develop-a-sufficient-degree-of-personal-autonomy"
-id: "TRM-ENG-47881"
+id: "TRM-ENG-62410"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "develop a sufficient degree of personal autonomy"

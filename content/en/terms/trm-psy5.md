@@ -1,6 +1,6 @@
 ---
 slug: "trm-psy5"
-id: "TRM-ENG-42254"
+id: "TRM-ENG-56783"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(PSY-5)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ness-and-health-pp-318-oxford-england"
-id: "TRM-ENG-43749"
+id: "TRM-ENG-58278"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ness and health (pp. 3–18). Oxford, England"

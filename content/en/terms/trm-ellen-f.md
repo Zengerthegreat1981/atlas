@@ -1,6 +1,6 @@
 ---
 slug: "trm-ellen-f"
-id: "TRM-ENG-40433"
+id: "TRM-ENG-54962"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ellen F"

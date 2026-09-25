@@ -1,6 +1,6 @@
 ---
 slug: "trm-shulman-2"
-id: "TRM-ENG-47280"
+id: "TRM-ENG-61809"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shulman, 2"

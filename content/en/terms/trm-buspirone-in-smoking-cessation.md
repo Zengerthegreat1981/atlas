@@ -1,6 +1,6 @@
 ---
 slug: "trm-buspirone-in-smoking-cessation"
-id: "TRM-ENG-46874"
+id: "TRM-ENG-61403"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "buspirone in smoking cessation"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-educational-goals-2"
-id: "TRM-ENG-47937"
+id: "TRM-ENG-62466"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "educational goals, 2"

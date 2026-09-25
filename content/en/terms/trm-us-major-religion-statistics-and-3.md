@@ -1,6 +1,6 @@
 ---
 slug: "trm-us-major-religion-statistics-and-3"
-id: "TRM-ENG-38953"
+id: "TRM-ENG-53482"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "U.S. major religion statistics and, 3"

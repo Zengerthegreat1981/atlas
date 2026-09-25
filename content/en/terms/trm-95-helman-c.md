@@ -1,6 +1,6 @@
 ---
 slug: "trm-95-helman-c"
-id: "TRM-ENG-39607"
+id: "TRM-ENG-54136"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "95. Helman C"

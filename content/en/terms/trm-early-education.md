@@ -1,6 +1,6 @@
 ---
 slug: "trm-early-education"
-id: "TRM-ENG-44363"
+id: "TRM-ENG-58892"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Early Education"

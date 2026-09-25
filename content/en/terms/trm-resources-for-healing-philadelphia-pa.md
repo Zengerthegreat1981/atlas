@@ -1,6 +1,6 @@
 ---
 slug: "trm-resources-for-healing-philadelphia-pa"
-id: "TRM-ENG-45477"
+id: "TRM-ENG-60006"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "resources for healing. Philadelphia, PA"

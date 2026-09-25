@@ -1,6 +1,6 @@
 ---
 slug: "trm-eds-2009-neuroeconomics"
-id: "TRM-ENG-44257"
+id: "TRM-ENG-58786"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Eds.). (2009). Neuroeconomics"

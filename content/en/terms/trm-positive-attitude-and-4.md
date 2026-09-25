@@ -1,6 +1,6 @@
 ---
 slug: "trm-positive-attitude-and-4"
-id: "TRM-ENG-41202"
+id: "TRM-ENG-55731"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "positive attitude and, 4"

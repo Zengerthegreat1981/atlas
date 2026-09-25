@@ -1,6 +1,6 @@
 ---
 slug: "trm-1985byrobertjsternberg1949-uspsy-name"
-id: "TRM-ENG-43459"
+id: "TRM-ENG-57988"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1985byRobertJ.Sternberg(1949– ),U.S.psy- name"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-realntherealmofnatureorreality"
-id: "TRM-ENG-43491"
+id: "TRM-ENG-58020"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Realn.therealmofnatureorreality"

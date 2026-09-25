@@ -1,6 +1,6 @@
 ---
 slug: "trm-manaser-jc-werner-am"
-id: "TRM-ENG-41572"
+id: "TRM-ENG-56101"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Manaser JC, Werner AM"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-varni-james-1"
-id: "TRM-ENG-38971"
+id: "TRM-ENG-53500"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Varni, James, 1"

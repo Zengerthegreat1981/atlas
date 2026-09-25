@@ -1,6 +1,6 @@
 ---
 slug: "trm-tent-of-thought-and-of-our-mental-representations-objects"
-id: "TRM-ENG-45560"
+id: "TRM-ENG-60089"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tent of thought (and of our mental representations objects"

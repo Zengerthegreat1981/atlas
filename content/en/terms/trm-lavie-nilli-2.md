@@ -1,6 +1,6 @@
 ---
 slug: "trm-lavie-nilli-2"
-id: "TRM-ENG-44586"
+id: "TRM-ENG-59115"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lavie, Nilli, 2"

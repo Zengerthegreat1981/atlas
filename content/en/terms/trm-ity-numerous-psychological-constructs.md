@@ -1,6 +1,6 @@
 ---
 slug: "trm-ity-numerous-psychological-constructs"
-id: "TRM-ENG-35898"
+id: "TRM-ENG-50427"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ity. Numerous psychological constructs"

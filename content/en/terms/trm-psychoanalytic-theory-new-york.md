@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychoanalytic-theory-new-york"
-id: "TRM-ENG-43160"
+id: "TRM-ENG-57689"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychoanalytic theory. New York"

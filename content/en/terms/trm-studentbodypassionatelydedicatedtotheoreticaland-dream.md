@@ -1,6 +1,6 @@
 ---
 slug: "trm-studentbodypassionatelydedicatedtotheoreticaland-dream"
-id: "TRM-ENG-38277"
+id: "TRM-ENG-52806"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "studentbodypassionatelydedicatedtotheoreticaland dream"

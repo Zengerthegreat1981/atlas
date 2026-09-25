@@ -1,6 +1,6 @@
 ---
 slug: "trm-kauffmann-r-goodkin-k-1995-active-con-man"
-id: "TRM-ENG-46588"
+id: "TRM-ENG-61117"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kauffmann, R., & Goodkin, K. (1995). Active con- man"

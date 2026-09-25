@@ -1,6 +1,6 @@
 ---
 slug: "trm-qt-interval-us-trade-name"
-id: "TRM-ENG-43488"
+id: "TRM-ENG-58017"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Q-T interval. U.S. trade name"

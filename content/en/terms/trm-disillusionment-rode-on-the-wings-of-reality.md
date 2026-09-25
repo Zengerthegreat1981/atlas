@@ -1,6 +1,6 @@
 ---
 slug: "trm-disillusionment-rode-on-the-wings-of-reality"
-id: "TRM-ENG-43016"
+id: "TRM-ENG-57545"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disillusionment rode on the wings of reality"

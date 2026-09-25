@@ -1,6 +1,6 @@
 ---
 slug: "trm-concept-of-utility"
-id: "TRM-ENG-36306"
+id: "TRM-ENG-65364"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "concept of utility"

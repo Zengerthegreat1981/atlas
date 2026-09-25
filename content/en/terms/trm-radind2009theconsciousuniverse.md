@@ -1,6 +1,6 @@
 ---
 slug: "trm-radind2009theconsciousuniverse"
-id: "TRM-ENG-37212"
+id: "TRM-ENG-66270"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Radin,D.(2009).Theconsciousuniverse"

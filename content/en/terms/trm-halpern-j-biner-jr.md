@@ -1,6 +1,6 @@
 ---
 slug: "trm-halpern-j-biner-jr"
-id: "TRM-ENG-40892"
+id: "TRM-ENG-55421"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Halpern J, Biner JR"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-brown-w-jaques-e"
-id: "TRM-ENG-40052"
+id: "TRM-ENG-54581"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brown W, Jaques E"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-loew-th-nickel-mk-muehlbacher-m-et-al"
-id: "TRM-ENG-47848"
+id: "TRM-ENG-62377"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Loew TH, Nickel MK, Muehlbacher M, et al"

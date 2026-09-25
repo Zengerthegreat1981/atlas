@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-brand-j-psychiatry-and-its-history"
-id: "TRM-ENG-44760"
+id: "TRM-ENG-59289"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, and Brand, J., Psychiatry and Its History"

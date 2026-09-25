@@ -1,6 +1,6 @@
 ---
 slug: "trm-body-image"
-id: "TRM-ENG-43988"
+id: "TRM-ENG-58517"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "BODY IMAGE."

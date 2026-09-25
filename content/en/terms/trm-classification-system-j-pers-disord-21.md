@@ -1,6 +1,6 @@
 ---
 slug: "trm-classification-system-j-pers-disord-21"
-id: "TRM-ENG-48277"
+id: "TRM-ENG-62806"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "classification system. J Pers Disord 21"

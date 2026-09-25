@@ -1,6 +1,6 @@
 ---
 slug: "trm-aid-besides-knowledge"
-id: "TRM-ENG-42943"
+id: "TRM-ENG-57472"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "aid besides knowledge"

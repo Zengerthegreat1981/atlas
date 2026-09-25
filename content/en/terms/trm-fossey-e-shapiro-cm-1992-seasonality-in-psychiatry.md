@@ -1,6 +1,6 @@
 ---
 slug: "trm-fossey-e-shapiro-cm-1992-seasonality-in-psychiatry"
-id: "TRM-ENG-35680"
+id: "TRM-ENG-64738"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fossey, E., & Shapiro, C.M. (1992). Seasonality in psychiatry"

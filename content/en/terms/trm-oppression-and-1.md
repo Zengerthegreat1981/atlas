@@ -1,6 +1,6 @@
 ---
 slug: "trm-oppression-and-1"
-id: "TRM-ENG-48491"
+id: "TRM-ENG-63020"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "oppression and, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-actornetwork-theory"
-id: "TRM-ENG-46202"
+id: "TRM-ENG-60731"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Actor–Network Theory"

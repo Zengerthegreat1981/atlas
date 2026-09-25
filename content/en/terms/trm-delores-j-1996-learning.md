@@ -1,6 +1,6 @@
 ---
 slug: "trm-delores-j-1996-learning"
-id: "TRM-ENG-46498"
+id: "TRM-ENG-61027"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Delores, J. (1996). Learning"

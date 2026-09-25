@@ -1,6 +1,6 @@
 ---
 slug: "trm-chunking"
-id: "TRM-ENG-52103"
+id: "TRM-ENG-66632"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Chunking"

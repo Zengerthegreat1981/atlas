@@ -1,6 +1,6 @@
 ---
 slug: "trm-koch-ed-psychology"
-id: "TRM-ENG-52517"
+id: "TRM-ENG-67046"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Koch (Ed.), Psychology"

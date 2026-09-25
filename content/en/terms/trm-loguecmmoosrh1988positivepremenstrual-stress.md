@@ -1,6 +1,6 @@
 ---
 slug: "trm-loguecmmoosrh1988positivepremenstrual-stress"
-id: "TRM-ENG-46612"
+id: "TRM-ENG-61141"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Logue,C.M.,&Moos,R.H.(1988).Positivepremenstrual stress"

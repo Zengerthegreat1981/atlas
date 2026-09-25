@@ -1,6 +1,6 @@
 ---
 slug: "trm-therearemanyotheraristotelianprojectsrelated"
-id: "TRM-ENG-45800"
+id: "TRM-ENG-60329"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "TherearemanyotherAristotelianprojectsrelated"

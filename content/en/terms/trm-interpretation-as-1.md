@@ -1,6 +1,6 @@
 ---
 slug: "trm-interpretation-as-1"
-id: "TRM-ENG-48224"
+id: "TRM-ENG-62753"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "interpretation as, 1"

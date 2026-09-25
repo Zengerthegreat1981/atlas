@@ -1,6 +1,6 @@
 ---
 slug: "trm-537-pickens-rw-heston-l"
-id: "TRM-ENG-39146"
+id: "TRM-ENG-53675"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "537. Pickens RW, Heston L"

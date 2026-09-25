@@ -1,6 +1,6 @@
 ---
 slug: "trm-salkovskis-p-m-1986-the-cognitive-revolution"
-id: "TRM-ENG-49163"
+id: "TRM-ENG-63692"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Salkovskis, P. M. (1986). The cognitive revolution"

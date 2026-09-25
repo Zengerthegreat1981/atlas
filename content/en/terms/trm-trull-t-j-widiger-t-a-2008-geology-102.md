@@ -1,6 +1,6 @@
 ---
 slug: "trm-trull-t-j-widiger-t-a-2008-geology-102"
-id: "TRM-ENG-43575"
+id: "TRM-ENG-58104"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Trull, T. J., & Widiger, T. A. (2008). Geology 102"

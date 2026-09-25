@@ -1,6 +1,6 @@
 ---
 slug: "trm-through-practices-such-as-meditation-and-personal-de-feminine"
-id: "TRM-ENG-35394"
+id: "TRM-ENG-64452"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "through practices such as meditation and personal de- feminine"

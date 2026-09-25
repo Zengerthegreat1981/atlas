@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-the-following-regions-during-explicit-processing"
-id: "TRM-ENG-45203"
+id: "TRM-ENG-59732"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in the following regions during explicit processing"

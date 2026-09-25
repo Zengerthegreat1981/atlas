@@ -1,6 +1,6 @@
 ---
 slug: "trm-pgo-spikes-pontinegeniculooccipital-spikes"
-id: "TRM-ENG-43485"
+id: "TRM-ENG-58014"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "PGO spikes pontine–geniculo–occipital spikes"

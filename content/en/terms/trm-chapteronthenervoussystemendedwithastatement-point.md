@@ -1,6 +1,6 @@
 ---
 slug: "trm-chapteronthenervoussystemendedwithastatement-point"
-id: "TRM-ENG-37612"
+id: "TRM-ENG-66670"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chapteronthenervoussystemendedwithastatement point"

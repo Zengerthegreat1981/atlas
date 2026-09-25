@@ -1,6 +1,6 @@
 ---
 slug: "trm-viii-shoulders"
-id: "TRM-ENG-42656"
+id: "TRM-ENG-57185"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "VIII. Shoulders"

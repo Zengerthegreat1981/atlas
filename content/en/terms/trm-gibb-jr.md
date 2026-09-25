@@ -1,6 +1,6 @@
 ---
 slug: "trm-gibb-jr"
-id: "TRM-ENG-40696"
+id: "TRM-ENG-55225"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gibb JR"

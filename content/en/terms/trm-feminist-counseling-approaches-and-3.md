@@ -1,6 +1,6 @@
 ---
 slug: "trm-feminist-counseling-approaches-and-3"
-id: "TRM-ENG-40200"
+id: "TRM-ENG-54729"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "feminist counseling approaches and, 3"

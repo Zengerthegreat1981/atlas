@@ -1,6 +1,6 @@
 ---
 slug: "trm-schultz-ja-luthe-w"
-id: "TRM-ENG-42282"
+id: "TRM-ENG-56811"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schultz JA, Luthe W"

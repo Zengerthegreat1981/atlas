@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavior-rating-scales-assessment-of-1"
-id: "TRM-ENG-39331"
+id: "TRM-ENG-53860"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behavior rating scales assessment of, 1"

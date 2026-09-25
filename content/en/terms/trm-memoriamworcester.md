@@ -1,6 +1,6 @@
 ---
 slug: "trm-memoriamworcester"
-id: "TRM-ENG-37952"
+id: "TRM-ENG-67010"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "memoriam.Worcester"

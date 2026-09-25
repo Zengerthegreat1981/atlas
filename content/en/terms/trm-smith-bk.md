@@ -1,6 +1,6 @@
 ---
 slug: "trm-smith-bk"
-id: "TRM-ENG-42377"
+id: "TRM-ENG-56906"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Smith BK"

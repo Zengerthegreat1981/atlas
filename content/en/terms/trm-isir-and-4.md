@@ -1,6 +1,6 @@
 ---
 slug: "trm-isir-and-4"
-id: "TRM-ENG-37400"
+id: "TRM-ENG-66458"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(ISI-R) and, 4"

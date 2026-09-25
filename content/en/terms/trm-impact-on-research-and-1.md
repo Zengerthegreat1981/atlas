@@ -1,6 +1,6 @@
 ---
 slug: "trm-impact-on-research-and-1"
-id: "TRM-ENG-40454"
+id: "TRM-ENG-54983"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "impact on research and, 1"

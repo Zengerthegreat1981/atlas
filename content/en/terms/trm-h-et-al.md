@@ -1,6 +1,6 @@
 ---
 slug: "trm-h-et-al"
-id: "TRM-ENG-47708"
+id: "TRM-ENG-62237"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "H, et al"

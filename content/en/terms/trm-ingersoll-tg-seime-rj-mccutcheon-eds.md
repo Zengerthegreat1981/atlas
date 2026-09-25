@@ -1,6 +1,6 @@
 ---
 slug: "trm-ingersoll-tg-seime-rj-mccutcheon-eds"
-id: "TRM-ENG-41081"
+id: "TRM-ENG-55610"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ingersoll TG, Seime RJ, McCutcheon (eds)"

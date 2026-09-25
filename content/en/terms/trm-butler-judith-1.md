@@ -1,6 +1,6 @@
 ---
 slug: "trm-butler-judith-1"
-id: "TRM-ENG-46349"
+id: "TRM-ENG-60878"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Butler, Judith, 1"

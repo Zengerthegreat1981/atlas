@@ -1,6 +1,6 @@
 ---
 slug: "trm-opmental"
-id: "TRM-ENG-48486"
+id: "TRM-ENG-63015"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "opmental"

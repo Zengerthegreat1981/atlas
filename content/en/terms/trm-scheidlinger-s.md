@@ -1,6 +1,6 @@
 ---
 slug: "trm-scheidlinger-s"
-id: "TRM-ENG-42265"
+id: "TRM-ENG-56794"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Scheidlinger S"

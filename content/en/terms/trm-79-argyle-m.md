@@ -1,6 +1,6 @@
 ---
 slug: "trm-79-argyle-m"
-id: "TRM-ENG-39442"
+id: "TRM-ENG-53971"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "79. Argyle M"

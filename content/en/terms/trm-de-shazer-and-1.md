@@ -1,6 +1,6 @@
 ---
 slug: "trm-de-shazer-and-1"
-id: "TRM-ENG-51386"
+id: "TRM-ENG-65915"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "de Shazer and, 1"

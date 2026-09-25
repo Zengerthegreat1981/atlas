@@ -1,6 +1,6 @@
 ---
 slug: "trm-see-also-critical-theory-freire-paulo"
-id: "TRM-ENG-47246"
+id: "TRM-ENG-61775"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "See also Critical Theory; Freire, Paulo"

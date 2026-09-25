@@ -1,6 +1,6 @@
 ---
 slug: "trm-genuth-sm-castro-jh-vertes-v"
-id: "TRM-ENG-40687"
+id: "TRM-ENG-55216"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Genuth SM, Castro JH, Vertes V"

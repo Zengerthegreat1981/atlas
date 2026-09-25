@@ -1,6 +1,6 @@
 ---
 slug: "trm-positional-goods-1"
-id: "TRM-ENG-47141"
+id: "TRM-ENG-61670"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Positional goods, 1"

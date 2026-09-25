@@ -1,6 +1,6 @@
 ---
 slug: "trm-training-in-organizations-and-4"
-id: "TRM-ENG-42004"
+id: "TRM-ENG-56533"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "training in organizations and, 4"

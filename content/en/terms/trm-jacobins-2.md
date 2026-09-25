@@ -1,6 +1,6 @@
 ---
 slug: "trm-jacobins-2"
-id: "TRM-ENG-46835"
+id: "TRM-ENG-61364"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jacobins, 2"

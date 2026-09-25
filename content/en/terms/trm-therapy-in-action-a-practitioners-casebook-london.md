@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapy-in-action-a-practitioners-casebook-london"
-id: "TRM-ENG-49762"
+id: "TRM-ENG-64291"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapy in action. A practitioner's casebook. London"

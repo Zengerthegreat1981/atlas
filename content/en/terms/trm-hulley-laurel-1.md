@@ -1,6 +1,6 @@
 ---
 slug: "trm-hulley-laurel-1"
-id: "TRM-ENG-50552"
+id: "TRM-ENG-65081"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hulley, Laurel, 1"

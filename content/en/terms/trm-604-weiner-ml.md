@@ -1,6 +1,6 @@
 ---
 slug: "trm-604-weiner-ml"
-id: "TRM-ENG-39226"
+id: "TRM-ENG-53755"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "604. Weiner ML"

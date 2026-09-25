@@ -1,6 +1,6 @@
 ---
 slug: "trm-removendis-loquelae-impedimentis-and-otiatrus"
-id: "TRM-ENG-38209"
+id: "TRM-ENG-52738"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "removendis loquelae impedimentis and Otiatrus"

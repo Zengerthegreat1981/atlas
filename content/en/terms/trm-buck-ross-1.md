@@ -1,6 +1,6 @@
 ---
 slug: "trm-buck-ross-1"
-id: "TRM-ENG-44350"
+id: "TRM-ENG-58879"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Buck, Ross, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-cavell-s-2004-cities-of-words"
-id: "TRM-ENG-46387"
+id: "TRM-ENG-60916"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cavell, S. (2004). Cities of words"

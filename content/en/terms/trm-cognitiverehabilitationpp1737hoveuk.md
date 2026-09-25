@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognitiverehabilitationpp1737hoveuk"
-id: "TRM-ENG-46902"
+id: "TRM-ENG-61431"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cognitiverehabilitation(pp.17±37).Hove,UK"

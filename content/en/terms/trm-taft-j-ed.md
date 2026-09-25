@@ -1,6 +1,6 @@
 ---
 slug: "trm-taft-j-ed"
-id: "TRM-ENG-42535"
+id: "TRM-ENG-57064"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Taft J (ed)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-595-sgroi-sm"
-id: "TRM-ENG-39209"
+id: "TRM-ENG-53738"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "595. Sgroi SM"

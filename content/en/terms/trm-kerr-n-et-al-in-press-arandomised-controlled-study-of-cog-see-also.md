@@ -1,6 +1,6 @@
 ---
 slug: "trm-kerr-n-et-al-in-press-arandomised-controlled-study-of-cog-see-also"
-id: "TRM-ENG-35787"
+id: "TRM-ENG-64845"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kerr, N., et al. (in press). Arandomised controlled study of cog- See also"

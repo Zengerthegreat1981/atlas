@@ -1,6 +1,6 @@
 ---
 slug: "trm-mooreedemcmartincsulzmanfmfuller-tics"
-id: "TRM-ENG-46633"
+id: "TRM-ENG-61162"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Moore-Ede,M.C.,MartinC.,Sulzman,F.M.,&Fuller, tics"

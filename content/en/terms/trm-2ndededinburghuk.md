@@ -1,6 +1,6 @@
 ---
 slug: "trm-2ndededinburghuk"
-id: "TRM-ENG-46319"
+id: "TRM-ENG-60848"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2nded.).Edinburgh,UK"

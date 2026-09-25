@@ -1,6 +1,6 @@
 ---
 slug: "trm-burgentitledfaithreasonandtheuniversity"
-id: "TRM-ENG-37601"
+id: "TRM-ENG-52130"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "burgentitled,Faith,ReasonandtheUniversity"

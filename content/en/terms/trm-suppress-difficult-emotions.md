@@ -1,6 +1,6 @@
 ---
 slug: "trm-suppress-difficult-emotions"
-id: "TRM-ENG-44199"
+id: "TRM-ENG-58728"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "suppress difficult emotions"

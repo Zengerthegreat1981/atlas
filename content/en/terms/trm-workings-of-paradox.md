@@ -1,6 +1,6 @@
 ---
 slug: "trm-workings-of-paradox"
-id: "TRM-ENG-37332"
+id: "TRM-ENG-66390"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "workings of paradox"

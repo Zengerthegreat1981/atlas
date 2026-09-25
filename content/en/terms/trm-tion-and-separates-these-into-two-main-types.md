@@ -1,6 +1,6 @@
 ---
 slug: "trm-tion-and-separates-these-into-two-main-types"
-id: "TRM-ENG-45621"
+id: "TRM-ENG-60150"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tion and separates these into two main types"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-hierarchy-of-fearinducing-situations-and-2"
-id: "TRM-ENG-40375"
+id: "TRM-ENG-54904"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "hierarchy of fear-inducing situations and, 2"

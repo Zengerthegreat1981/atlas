@@ -1,6 +1,6 @@
 ---
 slug: "trm-legacy-of-2"
-id: "TRM-ENG-48274"
+id: "TRM-ENG-62803"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "legacy of, 2"

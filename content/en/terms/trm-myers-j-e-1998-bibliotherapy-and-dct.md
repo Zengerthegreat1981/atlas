@@ -1,6 +1,6 @@
 ---
 slug: "trm-myers-j-e-1998-bibliotherapy-and-dct"
-id: "TRM-ENG-38467"
+id: "TRM-ENG-52996"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Myers, J. E. (1998). Bibliotherapy and DCT"

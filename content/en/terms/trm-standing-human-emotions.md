@@ -1,6 +1,6 @@
 ---
 slug: "trm-standing-human-emotions"
-id: "TRM-ENG-35340"
+id: "TRM-ENG-64398"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "standing human emotions"

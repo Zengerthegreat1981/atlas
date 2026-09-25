@@ -1,6 +1,6 @@
 ---
 slug: "trm-cultural-assessments-and-4"
-id: "TRM-ENG-39807"
+id: "TRM-ENG-54336"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cultural assessments and, 4"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ally-closed-system"
-id: "TRM-ENG-44886"
+id: "TRM-ENG-59415"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ally closed system"

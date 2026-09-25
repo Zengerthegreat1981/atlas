@@ -1,6 +1,6 @@
 ---
 slug: "trm-current-developments-in-health-psychology-london"
-id: "TRM-ENG-46483"
+id: "TRM-ENG-61012"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Current developments in health psychology. London"

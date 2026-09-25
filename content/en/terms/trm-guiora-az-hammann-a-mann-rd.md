@@ -1,6 +1,6 @@
 ---
 slug: "trm-guiora-az-hammann-a-mann-rd"
-id: "TRM-ENG-40852"
+id: "TRM-ENG-55381"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Guiora AZ, Hammann A, Mann RD"

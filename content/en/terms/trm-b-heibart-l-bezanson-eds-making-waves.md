@@ -1,6 +1,6 @@
 ---
 slug: "trm-b-heibart-l-bezanson-eds-making-waves"
-id: "TRM-ENG-37660"
+id: "TRM-ENG-66718"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "B. Heibart & L. Bezanson (Eds.), Making waves"

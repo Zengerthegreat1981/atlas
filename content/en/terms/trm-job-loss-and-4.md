@@ -1,6 +1,6 @@
 ---
 slug: "trm-job-loss-and-4"
-id: "TRM-ENG-40661"
+id: "TRM-ENG-55190"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "job loss and, 4"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-mosak-harold-2"
-id: "TRM-ENG-38449"
+id: "TRM-ENG-52978"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mosak, Harold, 2"

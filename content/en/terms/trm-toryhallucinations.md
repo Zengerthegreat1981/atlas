@@ -1,6 +1,6 @@
 ---
 slug: "trm-toryhallucinations"
-id: "TRM-ENG-38386"
+id: "TRM-ENG-52915"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "toryhallucinations"

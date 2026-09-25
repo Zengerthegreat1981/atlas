@@ -1,6 +1,6 @@
 ---
 slug: "trm-kernberg-o-et-al"
-id: "TRM-ENG-41230"
+id: "TRM-ENG-55759"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kernberg O, et al"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-brown-cm-tate-wp-1994-direct-recognition-of-mrna-eif2"
-id: "TRM-ENG-35607"
+id: "TRM-ENG-64665"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brown, C.M., & Tate, W.P. (1994). Direct recognition of mRNA eIF-2"

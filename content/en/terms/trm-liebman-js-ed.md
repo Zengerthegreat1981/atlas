@@ -1,6 +1,6 @@
 ---
 slug: "trm-liebman-js-ed"
-id: "TRM-ENG-41461"
+id: "TRM-ENG-55990"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Liebman JS (ed)"

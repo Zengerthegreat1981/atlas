@@ -1,6 +1,6 @@
 ---
 slug: "trm-juris-doctor-degree-jd-1"
-id: "TRM-ENG-40671"
+id: "TRM-ENG-55200"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "juris doctor degree (J.D.), 1"

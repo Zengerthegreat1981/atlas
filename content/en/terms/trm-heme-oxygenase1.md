@@ -1,6 +1,6 @@
 ---
 slug: "trm-heme-oxygenase1"
-id: "TRM-ENG-35736"
+id: "TRM-ENG-50265"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Heme oxygenase-1"

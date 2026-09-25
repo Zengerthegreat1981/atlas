@@ -1,6 +1,6 @@
 ---
 slug: "trm-definition-that-covers-all-meanings-of-the-word-seems-to-be-sic-and-poetry"
-id: "TRM-ENG-36343"
+id: "TRM-ENG-65401"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "definition that covers all meanings of the word seems to be sic and poetry"

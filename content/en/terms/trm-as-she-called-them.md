@@ -1,6 +1,6 @@
 ---
 slug: "trm-as-she-called-them"
-id: "TRM-ENG-48210"
+id: "TRM-ENG-62739"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "as she called them"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-benbow-c-p-2"
-id: "TRM-ENG-37685"
+id: "TRM-ENG-66743"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Benbow, C. P., 2"

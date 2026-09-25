@@ -1,6 +1,6 @@
 ---
 slug: "trm-thorndike-el-1932-the-fundamentals-of-learningnew-york"
-id: "TRM-ENG-36020"
+id: "TRM-ENG-50549"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Thorndike, E.L. (1932). The fundamentals of learning.New York"

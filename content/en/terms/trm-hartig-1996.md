@@ -1,6 +1,6 @@
 ---
 slug: "trm-hartig-1996"
-id: "TRM-ENG-34556"
+id: "TRM-ENG-63614"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "& Hartig, 1996"

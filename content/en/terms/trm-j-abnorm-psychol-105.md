@@ -1,6 +1,6 @@
 ---
 slug: "trm-j-abnorm-psychol-105"
-id: "TRM-ENG-47753"
+id: "TRM-ENG-62282"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "J Abnorm Psychol 105"

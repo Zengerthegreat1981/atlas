@@ -1,6 +1,6 @@
 ---
 slug: "trm-doctrines"
-id: "TRM-ENG-47901"
+id: "TRM-ENG-62430"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "doctrines"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-hayes-s-smith-s"
-id: "TRM-ENG-47717"
+id: "TRM-ENG-62246"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hayes S, Smith S"

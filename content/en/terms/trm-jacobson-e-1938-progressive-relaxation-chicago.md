@@ -1,6 +1,6 @@
 ---
 slug: "trm-jacobson-e-1938-progressive-relaxation-chicago"
-id: "TRM-ENG-49040"
+id: "TRM-ENG-63569"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jacobson, E. (1938). Progressive relaxation. Chicago"

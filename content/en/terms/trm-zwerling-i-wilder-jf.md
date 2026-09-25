@@ -1,6 +1,6 @@
 ---
 slug: "trm-zwerling-i-wilder-jf"
-id: "TRM-ENG-42934"
+id: "TRM-ENG-57463"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Zwerling I, Wilder JF"

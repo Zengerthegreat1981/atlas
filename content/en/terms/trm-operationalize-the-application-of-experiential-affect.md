@@ -1,6 +1,6 @@
 ---
 slug: "trm-operationalize-the-application-of-experiential-affect"
-id: "TRM-ENG-49598"
+id: "TRM-ENG-64127"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "operationalize the application of experiential affect"

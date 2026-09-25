@@ -1,6 +1,6 @@
 ---
 slug: "trm-unclear-meaning"
-id: "TRM-ENG-43895"
+id: "TRM-ENG-58424"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "unclear meaning"

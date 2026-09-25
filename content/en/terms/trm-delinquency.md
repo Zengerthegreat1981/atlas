@@ -1,6 +1,6 @@
 ---
 slug: "trm-delinquency"
-id: "TRM-ENG-35641"
+id: "TRM-ENG-64699"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Delinquency"

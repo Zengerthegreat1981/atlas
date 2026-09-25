@@ -1,6 +1,6 @@
 ---
 slug: "trm-socialpsychological-concepts-in-physiological-research"
-id: "TRM-ENG-37012"
+id: "TRM-ENG-66070"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social-psychological concepts in physiological research"

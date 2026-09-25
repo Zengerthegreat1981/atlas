@@ -1,6 +1,6 @@
 ---
 slug: "trm-gttingen-school-1"
-id: "TRM-ENG-46732"
+id: "TRM-ENG-61261"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Göttingen school, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-swanson-james-1"
-id: "TRM-ENG-38855"
+id: "TRM-ENG-53384"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Swanson, James, 1"

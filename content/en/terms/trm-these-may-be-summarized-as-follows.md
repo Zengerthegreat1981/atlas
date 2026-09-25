@@ -1,6 +1,6 @@
 ---
 slug: "trm-these-may-be-summarized-as-follows"
-id: "TRM-ENG-37362"
+id: "TRM-ENG-66420"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "These may be summarized as follows"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-rachman-s-teasdale-j"
-id: "TRM-ENG-42050"
+id: "TRM-ENG-56579"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rachman S, Teasdale J"

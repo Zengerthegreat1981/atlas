@@ -1,6 +1,6 @@
 ---
 slug: "trm-bein-a-2008-t-he-zen-of-helping"
-id: "TRM-ENG-50157"
+id: "TRM-ENG-64686"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bein, A. (2008). T he Zen of helping"

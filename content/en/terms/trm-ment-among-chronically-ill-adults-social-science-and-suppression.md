@@ -1,6 +1,6 @@
 ---
 slug: "trm-ment-among-chronically-ill-adults-social-science-and-suppression"
-id: "TRM-ENG-47115"
+id: "TRM-ENG-61644"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ment among chronically ill adults. Social Science and suppression"

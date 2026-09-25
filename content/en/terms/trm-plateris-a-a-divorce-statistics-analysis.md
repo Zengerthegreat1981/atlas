@@ -1,6 +1,6 @@
 ---
 slug: "trm-plateris-a-a-divorce-statistics-analysis"
-id: "TRM-ENG-44576"
+id: "TRM-ENG-59105"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Plateris, A. A., Divorce Statistics Analysis"

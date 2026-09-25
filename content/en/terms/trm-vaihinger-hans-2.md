@@ -1,6 +1,6 @@
 ---
 slug: "trm-vaihinger-hans-2"
-id: "TRM-ENG-38965"
+id: "TRM-ENG-53494"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Vaihinger, Hans, 2"

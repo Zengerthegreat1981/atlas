@@ -1,6 +1,6 @@
 ---
 slug: "trm-frankl-v-e-2000-recollections"
-id: "TRM-ENG-50427"
+id: "TRM-ENG-64956"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Frankl, V. E. (2000). Recollections"

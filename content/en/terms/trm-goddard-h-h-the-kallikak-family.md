@@ -1,6 +1,6 @@
 ---
 slug: "trm-goddard-h-h-the-kallikak-family"
-id: "TRM-ENG-44409"
+id: "TRM-ENG-58938"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goddard, H. H., The Kallikak Family"

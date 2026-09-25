@@ -1,6 +1,6 @@
 ---
 slug: "trm-square-mile-are-not"
-id: "TRM-ENG-44146"
+id: "TRM-ENG-58675"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "square mile) are not."

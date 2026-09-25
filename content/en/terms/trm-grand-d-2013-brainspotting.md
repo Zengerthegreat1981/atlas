@@ -1,6 +1,6 @@
 ---
 slug: "trm-grand-d-2013-brainspotting"
-id: "TRM-ENG-50490"
+id: "TRM-ENG-65019"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Grand, D. (2013). Brainspotting"

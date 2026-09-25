@@ -1,6 +1,6 @@
 ---
 slug: "trm-burdening-human-kind"
-id: "TRM-ENG-42986"
+id: "TRM-ENG-57515"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "burdening human kind"

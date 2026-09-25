@@ -1,6 +1,6 @@
 ---
 slug: "trm-international"
-id: "TRM-ENG-50576"
+id: "TRM-ENG-65105"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "International"

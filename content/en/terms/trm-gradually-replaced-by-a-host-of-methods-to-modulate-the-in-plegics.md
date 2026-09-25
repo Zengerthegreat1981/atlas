@@ -1,6 +1,6 @@
 ---
 slug: "trm-gradually-replaced-by-a-host-of-methods-to-modulate-the-in-plegics"
-id: "TRM-ENG-36491"
+id: "TRM-ENG-65549"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "gradually replaced by a host of methods to modulate the in- plegics"

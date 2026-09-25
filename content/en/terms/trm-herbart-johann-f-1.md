@@ -1,6 +1,6 @@
 ---
 slug: "trm-herbart-johann-f-1"
-id: "TRM-ENG-46756"
+id: "TRM-ENG-61285"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Herbart, Johann F., 1"

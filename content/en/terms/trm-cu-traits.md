@@ -1,6 +1,6 @@
 ---
 slug: "trm-cu-traits"
-id: "TRM-ENG-42343"
+id: "TRM-ENG-56872"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "CU traits"

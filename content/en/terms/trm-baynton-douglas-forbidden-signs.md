@@ -1,6 +1,6 @@
 ---
 slug: "trm-baynton-douglas-forbidden-signs"
-id: "TRM-ENG-45656"
+id: "TRM-ENG-60185"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Baynton, Douglas. Forbidden Signs"

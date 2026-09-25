@@ -1,6 +1,6 @@
 ---
 slug: "trm-revisited"
-id: "TRM-ENG-52599"
+id: "TRM-ENG-67128"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "revisited"

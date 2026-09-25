@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-nominee-true-scores-cid"
-id: "TRM-ENG-36172"
+id: "TRM-ENG-65230"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the nominee true scores, (cid"

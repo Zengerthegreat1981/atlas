@@ -1,6 +1,6 @@
 ---
 slug: "trm-wallerstein-rs"
-id: "TRM-ENG-42702"
+id: "TRM-ENG-57231"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wallerstein RS"

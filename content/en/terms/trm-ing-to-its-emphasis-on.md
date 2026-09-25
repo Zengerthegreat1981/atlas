@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-to-its-emphasis-on"
-id: "TRM-ENG-35079"
+id: "TRM-ENG-64137"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing to its emphasis on"

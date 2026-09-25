@@ -1,6 +1,6 @@
 ---
 slug: "trm-mental-causes"
-id: "TRM-ENG-44623"
+id: "TRM-ENG-59152"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mental causes"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-marshall-h-dorothea-dix"
-id: "TRM-ENG-44517"
+id: "TRM-ENG-59046"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Marshall, H., Dorothea Dix"

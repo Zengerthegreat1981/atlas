@@ -1,6 +1,6 @@
 ---
 slug: "trm-develop-such-laws-of-behavior-reasoning"
-id: "TRM-ENG-36356"
+id: "TRM-ENG-50885"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "develop such laws of behavior. reasoning"

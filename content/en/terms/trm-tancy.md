@@ -1,6 +1,6 @@
 ---
 slug: "trm-tancy"
-id: "TRM-ENG-44154"
+id: "TRM-ENG-58683"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tancy"

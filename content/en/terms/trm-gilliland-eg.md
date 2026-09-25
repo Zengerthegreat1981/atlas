@@ -1,6 +1,6 @@
 ---
 slug: "trm-gilliland-eg"
-id: "TRM-ENG-40705"
+id: "TRM-ENG-55234"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gilliland EG"

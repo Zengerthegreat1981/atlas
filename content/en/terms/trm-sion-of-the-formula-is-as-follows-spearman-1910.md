@@ -1,6 +1,6 @@
 ---
 slug: "trm-sion-of-the-formula-is-as-follows-spearman-1910"
-id: "TRM-ENG-36121"
+id: "TRM-ENG-65179"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sion of the formula is as follows (Spearman, 1910)"

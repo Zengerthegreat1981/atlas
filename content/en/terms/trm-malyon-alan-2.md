@@ -1,6 +1,6 @@
 ---
 slug: "trm-malyon-alan-2"
-id: "TRM-ENG-50704"
+id: "TRM-ENG-65233"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Malyon, Alan, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-dimenhydrinate-us-trade-name"
-id: "TRM-ENG-43525"
+id: "TRM-ENG-58054"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and dimenhydrinate, U.S. trade name"

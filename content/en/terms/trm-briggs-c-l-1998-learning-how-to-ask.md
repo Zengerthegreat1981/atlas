@@ -1,6 +1,6 @@
 ---
 slug: "trm-briggs-c-l-1998-learning-how-to-ask"
-id: "TRM-ENG-35327"
+id: "TRM-ENG-64385"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Briggs, C. L. (1998). Learning how to ask"

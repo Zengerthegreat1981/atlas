@@ -1,6 +1,6 @@
 ---
 slug: "trm-lchadwicktranscambridgema"
-id: "TRM-ENG-36429"
+id: "TRM-ENG-65487"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(L.Chadwick,Trans.).Cambridge,MA"

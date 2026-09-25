@@ -1,6 +1,6 @@
 ---
 slug: "trm-conceived-operationism-and-the-consequent-overloading-of-ence"
-id: "TRM-ENG-36305"
+id: "TRM-ENG-65363"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "conceived operationism, and the consequent overloading of ence"

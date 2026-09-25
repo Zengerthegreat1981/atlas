@@ -1,6 +1,6 @@
 ---
 slug: "trm-scale-akin-to-cloningers-persistence-and-self-disorders"
-id: "TRM-ENG-43827"
+id: "TRM-ENG-58356"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "scale (akin to Cloninger’s persistence and self- disorders"

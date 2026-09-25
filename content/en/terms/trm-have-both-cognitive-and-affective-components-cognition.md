@@ -1,6 +1,6 @@
 ---
 slug: "trm-have-both-cognitive-and-affective-components-cognition"
-id: "TRM-ENG-45165"
+id: "TRM-ENG-59694"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "have both cognitive and affective components. cognition"

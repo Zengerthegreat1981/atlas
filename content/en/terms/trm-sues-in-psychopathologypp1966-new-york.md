@@ -1,6 +1,6 @@
 ---
 slug: "trm-sues-in-psychopathologypp1966-new-york"
-id: "TRM-ENG-37045"
+id: "TRM-ENG-51574"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sues in psychopathology(pp.19–66). New York"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-itself-and-its-activities"
-id: "TRM-ENG-44077"
+id: "TRM-ENG-58606"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "itself and its activities"

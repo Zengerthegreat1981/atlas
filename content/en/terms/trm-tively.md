@@ -1,6 +1,6 @@
 ---
 slug: "trm-tively"
-id: "TRM-ENG-43373"
+id: "TRM-ENG-57902"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tively"

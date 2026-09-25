@@ -1,6 +1,6 @@
 ---
 slug: "trm-rossi-e-ed"
-id: "TRM-ENG-42185"
+id: "TRM-ENG-56714"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rossi E (ed)"

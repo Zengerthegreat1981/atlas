@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-70s"
-id: "TRM-ENG-41873"
+id: "TRM-ENG-56402"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the 70s"

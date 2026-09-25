@@ -1,6 +1,6 @@
 ---
 slug: "trm-modalities"
-id: "TRM-ENG-35953"
+id: "TRM-ENG-65011"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "modalities"

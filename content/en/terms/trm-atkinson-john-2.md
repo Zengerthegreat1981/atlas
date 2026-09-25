@@ -1,6 +1,6 @@
 ---
 slug: "trm-atkinson-john-2"
-id: "TRM-ENG-37647"
+id: "TRM-ENG-66705"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Atkinson, John, 2"

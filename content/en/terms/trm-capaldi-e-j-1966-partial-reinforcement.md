@@ -1,6 +1,6 @@
 ---
 slug: "trm-capaldi-e-j-1966-partial-reinforcement"
-id: "TRM-ENG-52491"
+id: "TRM-ENG-67020"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Capaldi, E. J. (1966). Partial reinforcement"

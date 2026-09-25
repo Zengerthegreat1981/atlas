@@ -1,6 +1,6 @@
 ---
 slug: "trm-their-individual-effects"
-id: "TRM-ENG-45605"
+id: "TRM-ENG-60134"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "their individual effects"

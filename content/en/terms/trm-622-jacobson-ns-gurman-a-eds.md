@@ -1,6 +1,6 @@
 ---
 slug: "trm-622-jacobson-ns-gurman-a-eds"
-id: "TRM-ENG-39246"
+id: "TRM-ENG-53775"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "622. Jacobson NS, Gurman A (eds)"

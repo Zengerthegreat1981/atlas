@@ -1,6 +1,6 @@
 ---
 slug: "trm-terly-winter-1983-297312-interesting-and-useful"
-id: "TRM-ENG-46029"
+id: "TRM-ENG-60558"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "terly (Winter 1983): 297–312. Interesting and useful"

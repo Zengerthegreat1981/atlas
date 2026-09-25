@@ -1,6 +1,6 @@
 ---
 slug: "trm-principal-axes"
-id: "TRM-ENG-45253"
+id: "TRM-ENG-59782"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "principal axes"

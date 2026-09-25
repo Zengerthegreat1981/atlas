@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-one-used-by-nussbaum-alluded-to-earlier"
-id: "TRM-ENG-48847"
+id: "TRM-ENG-63376"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the one used by Nussbaum, alluded to earlier)"

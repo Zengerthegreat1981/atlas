@@ -1,6 +1,6 @@
 ---
 slug: "trm-stueks-am"
-id: "TRM-ENG-42514"
+id: "TRM-ENG-57043"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stueks AM"

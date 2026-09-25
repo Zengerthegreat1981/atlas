@@ -1,6 +1,6 @@
 ---
 slug: "trm-inhibitors"
-id: "TRM-ENG-49495"
+id: "TRM-ENG-64024"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "inhibitors"

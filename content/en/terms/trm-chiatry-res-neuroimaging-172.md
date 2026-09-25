@@ -1,6 +1,6 @@
 ---
 slug: "trm-chiatry-res-neuroimaging-172"
-id: "TRM-ENG-48256"
+id: "TRM-ENG-62785"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chiatry Res Neuroimaging 172"

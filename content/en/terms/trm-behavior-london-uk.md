@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavior-london-uk"
-id: "TRM-ENG-44960"
+id: "TRM-ENG-59489"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behavior. London, UK"

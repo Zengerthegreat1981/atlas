@@ -1,6 +1,6 @@
 ---
 slug: "trm-practicing-the-things-i-taught-you"
-id: "TRM-ENG-43147"
+id: "TRM-ENG-57676"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "practicing the things I taught you"

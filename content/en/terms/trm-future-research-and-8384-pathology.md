@@ -1,6 +1,6 @@
 ---
 slug: "trm-future-research-and-8384-pathology"
-id: "TRM-ENG-42855"
+id: "TRM-ENG-57384"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "future research and, 83–84 Pathology"

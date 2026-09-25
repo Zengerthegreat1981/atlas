@@ -1,6 +1,6 @@
 ---
 slug: "trm-laterinsmaeshleventhalmjohnstoneds-ing-styles"
-id: "TRM-ENG-47081"
+id: "TRM-ENG-61610"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "later.InS.Maes,H.Leventhal,&M.Johnston(Eds.), ing styles"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ized-in-a-variety-of-ways"
-id: "TRM-ENG-40659"
+id: "TRM-ENG-55188"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ized in a variety of ways"

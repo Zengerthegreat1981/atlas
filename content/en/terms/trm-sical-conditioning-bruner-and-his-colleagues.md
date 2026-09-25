@@ -1,6 +1,6 @@
 ---
 slug: "trm-sical-conditioning-bruner-and-his-colleagues"
-id: "TRM-ENG-48714"
+id: "TRM-ENG-63243"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sical conditioning, Bruner and his colleagues"

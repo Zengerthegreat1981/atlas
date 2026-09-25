@@ -1,6 +1,6 @@
 ---
 slug: "trm-trilling-lionel-1"
-id: "TRM-ENG-47418"
+id: "TRM-ENG-61947"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Trilling, Lionel, 1"

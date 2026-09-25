@@ -1,6 +1,6 @@
 ---
 slug: "trm-practice-contributions-of-1"
-id: "TRM-ENG-41244"
+id: "TRM-ENG-55773"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "practice contributions of, 1"

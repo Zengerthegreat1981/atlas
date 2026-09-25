@@ -1,6 +1,6 @@
 ---
 slug: "trm-7-turning-against-the-self"
-id: "TRM-ENG-39339"
+id: "TRM-ENG-53868"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "7. Turning against the self"

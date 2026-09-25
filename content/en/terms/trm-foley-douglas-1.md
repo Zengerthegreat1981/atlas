@@ -1,6 +1,6 @@
 ---
 slug: "trm-foley-douglas-1"
-id: "TRM-ENG-46631"
+id: "TRM-ENG-61160"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Foley, Douglas, 1"

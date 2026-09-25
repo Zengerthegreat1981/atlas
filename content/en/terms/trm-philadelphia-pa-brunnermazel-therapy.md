@@ -1,6 +1,6 @@
 ---
 slug: "trm-philadelphia-pa-brunnermazel-therapy"
-id: "TRM-ENG-50853"
+id: "TRM-ENG-65382"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Philadelphia, PA: Brunner/Mazel. therapy"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-segal-h-fear-of-death"
-id: "TRM-ENG-44626"
+id: "TRM-ENG-59155"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Segal, H., “Fear of Death"

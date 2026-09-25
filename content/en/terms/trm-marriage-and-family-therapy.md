@@ -1,6 +1,6 @@
 ---
 slug: "trm-marriage-and-family-therapy"
-id: "TRM-ENG-40773"
+id: "TRM-ENG-55302"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "marriage and family therapy"

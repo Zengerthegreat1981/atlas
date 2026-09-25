@@ -1,6 +1,6 @@
 ---
 slug: "trm-dweck-c-s-2006-mindset"
-id: "TRM-ENG-37988"
+id: "TRM-ENG-52517"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dweck, C. S. (2006). Mindset"

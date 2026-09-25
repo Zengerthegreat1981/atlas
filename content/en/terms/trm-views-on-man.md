@@ -1,6 +1,6 @@
 ---
 slug: "trm-views-on-man"
-id: "TRM-ENG-45421"
+id: "TRM-ENG-59950"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "views on man"

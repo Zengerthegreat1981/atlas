@@ -1,6 +1,6 @@
 ---
 slug: "trm-evidencedbased-training-work-of-1"
-id: "TRM-ENG-40122"
+id: "TRM-ENG-54651"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "evidenced-based training work of, 1"

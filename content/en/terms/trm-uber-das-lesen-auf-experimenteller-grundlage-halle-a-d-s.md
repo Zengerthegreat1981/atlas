@@ -1,6 +1,6 @@
 ---
 slug: "trm-uber-das-lesen-auf-experimenteller-grundlage-halle-a-d-s"
-id: "TRM-ENG-38419"
+id: "TRM-ENG-52948"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "u¨ber das Lesen auf experimenteller Grundlage. Halle a. d. S"

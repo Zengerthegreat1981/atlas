@@ -1,6 +1,6 @@
 ---
 slug: "trm-variance-cid"
-id: "TRM-ENG-36244"
+id: "TRM-ENG-50773"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "variance, (cid"

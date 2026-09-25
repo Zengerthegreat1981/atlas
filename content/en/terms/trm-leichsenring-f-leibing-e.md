@@ -1,6 +1,6 @@
 ---
 slug: "trm-leichsenring-f-leibing-e"
-id: "TRM-ENG-47822"
+id: "TRM-ENG-62351"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Leichsenring F, Leibing E"

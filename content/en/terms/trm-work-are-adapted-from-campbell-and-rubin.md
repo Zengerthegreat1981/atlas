@@ -1,6 +1,6 @@
 ---
 slug: "trm-work-are-adapted-from-campbell-and-rubin"
-id: "TRM-ENG-36268"
+id: "TRM-ENG-50797"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "work are adapted from “Campbell and Rubin"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychiatric-comorbidity"
-id: "TRM-ENG-35270"
+id: "TRM-ENG-64328"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychiatric comorbidity"

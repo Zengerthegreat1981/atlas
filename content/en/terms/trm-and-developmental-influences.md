@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-developmental-influences"
-id: "TRM-ENG-48190"
+id: "TRM-ENG-62719"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and developmental influences"

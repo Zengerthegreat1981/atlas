@@ -1,6 +1,6 @@
 ---
 slug: "trm-israeljournalofmedicinesciences24631636-seling"
-id: "TRM-ENG-46569"
+id: "TRM-ENG-61098"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "IsraelJournalofMedicineSciences,24,631±636. seling"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-bowlby-j-1969-attachment-and-loss"
-id: "TRM-ENG-35600"
+id: "TRM-ENG-64658"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bowlby, J. (1969). Attachment and loss"

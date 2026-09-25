@@ -1,6 +1,6 @@
 ---
 slug: "trm-bulletin-87-564567-doi"
-id: "TRM-ENG-35334"
+id: "TRM-ENG-64392"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bulletin, 87, 564–567. doi"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-applied-8-389413-doi"
-id: "TRM-ENG-35638"
+id: "TRM-ENG-64696"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and Applied, 8, 389–413. doi"

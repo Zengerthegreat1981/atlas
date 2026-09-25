@@ -1,6 +1,6 @@
 ---
 slug: "trm-arts-scale-of-4"
-id: "TRM-ENG-37618"
+id: "TRM-ENG-66676"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Arts scale of, 4"

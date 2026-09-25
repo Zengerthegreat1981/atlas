@@ -1,6 +1,6 @@
 ---
 slug: "trm-frankl-v-e-1997-viktor-franklrecollections"
-id: "TRM-ENG-50426"
+id: "TRM-ENG-64955"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Frankl, V. E. (1997). Viktor Frankl—Recollections"

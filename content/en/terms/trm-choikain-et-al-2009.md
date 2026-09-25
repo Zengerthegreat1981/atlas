@@ -1,6 +1,6 @@
 ---
 slug: "trm-choikain-et-al-2009"
-id: "TRM-ENG-42347"
+id: "TRM-ENG-56876"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Choi-Kain et al., 2009)"

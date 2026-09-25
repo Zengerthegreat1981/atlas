@@ -1,6 +1,6 @@
 ---
 slug: "trm-grant-bf-chou-sp-goldstein-rb-et-al"
-id: "TRM-ENG-47682"
+id: "TRM-ENG-62211"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Grant BF, Chou SP, Goldstein RB, et al"

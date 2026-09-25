@@ -1,6 +1,6 @@
 ---
 slug: "trm-scheffler-i-1973-reason-and-teaching-london-england"
-id: "TRM-ENG-47224"
+id: "TRM-ENG-61753"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Scheffler, I. (1973). Reason and teaching. London, England"

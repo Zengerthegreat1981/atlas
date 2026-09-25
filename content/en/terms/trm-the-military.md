@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-military"
-id: "TRM-ENG-41894"
+id: "TRM-ENG-56423"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the military"

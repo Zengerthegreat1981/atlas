@@ -1,6 +1,6 @@
 ---
 slug: "trm-oleary-kd-becker-wc"
-id: "TRM-ENG-41897"
+id: "TRM-ENG-56426"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "O’Leary KD, Becker WC"

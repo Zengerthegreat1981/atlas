@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-difficulty-index-p-of-an-item-is-computed-quite-simply-dures"
-id: "TRM-ENG-36004"
+id: "TRM-ENG-65062"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The difficulty index (p) of an item is computed quite simply dures"

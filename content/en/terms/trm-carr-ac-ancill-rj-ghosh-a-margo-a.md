@@ -1,6 +1,6 @@
 ---
 slug: "trm-carr-ac-ancill-rj-ghosh-a-margo-a"
-id: "TRM-ENG-40130"
+id: "TRM-ENG-54659"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Carr AC, Ancill RJ, Ghosh A, Margo A"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-stereotypes-of-3"
-id: "TRM-ENG-41781"
+id: "TRM-ENG-56310"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stereotypes of, 3"

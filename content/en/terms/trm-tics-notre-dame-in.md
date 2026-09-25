@@ -1,6 +1,6 @@
 ---
 slug: "trm-tics-notre-dame-in"
-id: "TRM-ENG-46056"
+id: "TRM-ENG-60585"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tics. Notre Dame, IN"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-meyer-g-j-1997a-assessing-reliability"
-id: "TRM-ENG-35447"
+id: "TRM-ENG-64505"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Meyer, G. J. (1997a). Assessing reliability"

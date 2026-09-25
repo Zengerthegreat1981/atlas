@@ -1,6 +1,6 @@
 ---
 slug: "trm-is-relevant-p"
-id: "TRM-ENG-35894"
+id: "TRM-ENG-64952"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "is relevant (P"

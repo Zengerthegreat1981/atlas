@@ -1,6 +1,6 @@
 ---
 slug: "trm-wednesday-2"
-id: "TRM-ENG-45990"
+id: "TRM-ENG-60519"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wednesday 2"

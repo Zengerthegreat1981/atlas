@@ -1,6 +1,6 @@
 ---
 slug: "trm-3-introjection"
-id: "TRM-ENG-38849"
+id: "TRM-ENG-53378"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "3. Introjection"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ward-dsmiv-pp-328-new-york"
-id: "TRM-ENG-43421"
+id: "TRM-ENG-57950"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ward DSM-IV (pp. 3–28). New York"

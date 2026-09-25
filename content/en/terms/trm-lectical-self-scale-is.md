@@ -1,6 +1,6 @@
 ---
 slug: "trm-lectical-self-scale-is"
-id: "TRM-ENG-37916"
+id: "TRM-ENG-66974"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lectical Self Scale is"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-burt-cyril-3"
-id: "TRM-ENG-37741"
+id: "TRM-ENG-66799"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Burt, Cyril, 3"

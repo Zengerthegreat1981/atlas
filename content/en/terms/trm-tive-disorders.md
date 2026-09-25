@@ -1,6 +1,6 @@
 ---
 slug: "trm-tive-disorders"
-id: "TRM-ENG-43368"
+id: "TRM-ENG-57897"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tive disorders"

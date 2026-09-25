@@ -1,6 +1,6 @@
 ---
 slug: "trm-thou-experience"
-id: "TRM-ENG-44671"
+id: "TRM-ENG-59200"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Thou” experience"

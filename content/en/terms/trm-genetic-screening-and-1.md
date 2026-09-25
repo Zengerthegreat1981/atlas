@@ -1,6 +1,6 @@
 ---
 slug: "trm-genetic-screening-and-1"
-id: "TRM-ENG-40304"
+id: "TRM-ENG-54833"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "genetic screening and, 1"

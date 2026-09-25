@@ -1,6 +1,6 @@
 ---
 slug: "trm-smith-g-t-2005-on-construct-validity"
-id: "TRM-ENG-35563"
+id: "TRM-ENG-64621"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Smith, G. T. (2005). On construct validity"

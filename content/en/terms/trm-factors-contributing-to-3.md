@@ -1,6 +1,6 @@
 ---
 slug: "trm-factors-contributing-to-3"
-id: "TRM-ENG-40161"
+id: "TRM-ENG-54690"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "factors contributing to, 3"

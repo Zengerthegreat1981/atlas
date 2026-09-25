@@ -1,6 +1,6 @@
 ---
 slug: "trm-84-murchison-c-ed"
-id: "TRM-ENG-39501"
+id: "TRM-ENG-54030"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "84. Murchison C (ed)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-such-as-defiance-depression-or-bipolarity"
-id: "TRM-ENG-51853"
+id: "TRM-ENG-66382"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "such as defiance, depression, or bipolarity"

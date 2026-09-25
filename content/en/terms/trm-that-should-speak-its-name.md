@@ -1,6 +1,6 @@
 ---
 slug: "trm-that-should-speak-its-name"
-id: "TRM-ENG-44203"
+id: "TRM-ENG-58732"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "that should speak its name"

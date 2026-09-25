@@ -1,6 +1,6 @@
 ---
 slug: "trm-tal-policy"
-id: "TRM-ENG-48787"
+id: "TRM-ENG-63316"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tal policy"

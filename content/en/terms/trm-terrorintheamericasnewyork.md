@@ -1,6 +1,6 @@
 ---
 slug: "trm-terrorintheamericasnewyork"
-id: "TRM-ENG-38293"
+id: "TRM-ENG-52822"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "terrorintheAmericas.NewYork"

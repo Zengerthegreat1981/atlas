@@ -1,6 +1,6 @@
 ---
 slug: "trm-alliances-in-couple-and-family-therapy"
-id: "TRM-ENG-37574"
+id: "TRM-ENG-52103"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Alliances in Couple and Family Therapy"

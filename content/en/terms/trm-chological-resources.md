@@ -1,6 +1,6 @@
 ---
 slug: "trm-chological-resources"
-id: "TRM-ENG-48264"
+id: "TRM-ENG-62793"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chological resources"

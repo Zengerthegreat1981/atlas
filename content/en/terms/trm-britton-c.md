@@ -1,6 +1,6 @@
 ---
 slug: "trm-britton-c"
-id: "TRM-ENG-40037"
+id: "TRM-ENG-54566"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Britton C"

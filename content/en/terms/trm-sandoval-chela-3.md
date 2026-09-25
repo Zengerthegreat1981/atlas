@@ -1,6 +1,6 @@
 ---
 slug: "trm-sandoval-chela-3"
-id: "TRM-ENG-38721"
+id: "TRM-ENG-53250"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sandoval, Chela, 3"

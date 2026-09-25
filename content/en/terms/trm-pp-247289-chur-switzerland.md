@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp-247289-chur-switzerland"
-id: "TRM-ENG-46338"
+id: "TRM-ENG-60867"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp. 247±289). Chur, Switzerland"

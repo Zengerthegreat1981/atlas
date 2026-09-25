@@ -1,6 +1,6 @@
 ---
 slug: "trm-ferster-cb"
-id: "TRM-ENG-40518"
+id: "TRM-ENG-55047"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ferster CB"

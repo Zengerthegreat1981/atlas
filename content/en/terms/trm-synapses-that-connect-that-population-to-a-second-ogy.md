@@ -1,6 +1,6 @@
 ---
 slug: "trm-synapses-that-connect-that-population-to-a-second-ogy"
-id: "TRM-ENG-45547"
+id: "TRM-ENG-60076"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "synapses that connect that population to a second, ogy"

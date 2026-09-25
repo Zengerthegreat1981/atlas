@@ -1,6 +1,6 @@
 ---
 slug: "trm-maxwell-james-clerk-1"
-id: "TRM-ENG-46980"
+id: "TRM-ENG-61509"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Maxwell, James Clerk, 1"

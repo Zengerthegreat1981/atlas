@@ -1,6 +1,6 @@
 ---
 slug: "trm-practice-in-hellenistic-ethics-princeton-nj"
-id: "TRM-ENG-45431"
+id: "TRM-ENG-59960"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "practice in Hellenistic ethics. Princeton, NJ"

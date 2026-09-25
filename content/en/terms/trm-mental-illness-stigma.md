@@ -1,6 +1,6 @@
 ---
 slug: "trm-mental-illness-stigma"
-id: "TRM-ENG-44137"
+id: "TRM-ENG-58666"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mental illness stigma"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-vignolo-l-a-1969-auditory-agnosia"
-id: "TRM-ENG-34712"
+id: "TRM-ENG-63770"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Vignolo, L. A. (1969). Auditory agnosia"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-wade-a-1997-small-acts-of-living"
-id: "TRM-ENG-51150"
+id: "TRM-ENG-65679"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wade, A. (1997). Small acts of living"

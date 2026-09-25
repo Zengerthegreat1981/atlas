@@ -1,6 +1,6 @@
 ---
 slug: "trm-solomon-jc"
-id: "TRM-ENG-42404"
+id: "TRM-ENG-56933"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Solomon JC"

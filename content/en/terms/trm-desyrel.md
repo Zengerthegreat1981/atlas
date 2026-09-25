@@ -1,6 +1,6 @@
 ---
 slug: "trm-desyrel"
-id: "TRM-ENG-38505"
+id: "TRM-ENG-53034"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Desyrel"

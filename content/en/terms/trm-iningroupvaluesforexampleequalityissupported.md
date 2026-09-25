@@ -1,6 +1,6 @@
 ---
 slug: "trm-iningroupvaluesforexampleequalityissupported"
-id: "TRM-ENG-37866"
+id: "TRM-ENG-66924"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "inin-groupvalues,forexample,equality,issupported"

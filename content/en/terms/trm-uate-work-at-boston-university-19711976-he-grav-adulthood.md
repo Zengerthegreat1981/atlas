@@ -1,6 +1,6 @@
 ---
 slug: "trm-uate-work-at-boston-university-19711976-he-grav-adulthood"
-id: "TRM-ENG-42067"
+id: "TRM-ENG-56596"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "uate work at Boston University (1971–1976). He grav- adulthood"

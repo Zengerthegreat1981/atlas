@@ -1,6 +1,6 @@
 ---
 slug: "trm-issue-from-the-opposite-side"
-id: "TRM-ENG-51562"
+id: "TRM-ENG-66091"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "issue from the opposite side"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-trol-the-nonverbal-components"
-id: "TRM-ENG-51947"
+id: "TRM-ENG-66476"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "trol, the nonverbal components"

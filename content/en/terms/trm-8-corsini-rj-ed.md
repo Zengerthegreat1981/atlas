@@ -1,6 +1,6 @@
 ---
 slug: "trm-8-corsini-rj-ed"
-id: "TRM-ENG-39451"
+id: "TRM-ENG-53980"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "8. Corsini RJ (ed)"

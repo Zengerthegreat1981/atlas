@@ -1,6 +1,6 @@
 ---
 slug: "trm-truth-augustine-talks-of-a-golden-key"
-id: "TRM-ENG-48974"
+id: "TRM-ENG-63503"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "truth. Augustine talks of a golden key"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-487-zales-mr-ed"
-id: "TRM-ENG-39081"
+id: "TRM-ENG-53610"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "487. Zales MR (ed)"

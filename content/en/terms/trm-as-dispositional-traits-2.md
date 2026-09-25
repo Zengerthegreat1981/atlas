@@ -1,6 +1,6 @@
 ---
 slug: "trm-as-dispositional-traits-2"
-id: "TRM-ENG-39255"
+id: "TRM-ENG-53784"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "as dispositional traits, 2"

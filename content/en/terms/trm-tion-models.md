@@ -1,6 +1,6 @@
 ---
 slug: "trm-tion-models"
-id: "TRM-ENG-43344"
+id: "TRM-ENG-57873"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tion models"

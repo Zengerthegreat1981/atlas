@@ -1,6 +1,6 @@
 ---
 slug: "trm-richards-eds-the-troubled-helix"
-id: "TRM-ENG-46692"
+id: "TRM-ENG-61221"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Richards (Eds.), The troubled helix"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ada"
-id: "TRM-ENG-42584"
+id: "TRM-ENG-57113"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ada"

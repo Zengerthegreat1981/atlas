@@ -1,6 +1,6 @@
 ---
 slug: "trm-blum-hp"
-id: "TRM-ENG-39977"
+id: "TRM-ENG-54506"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Blum HP"

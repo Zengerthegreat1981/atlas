@@ -1,6 +1,6 @@
 ---
 slug: "trm-chiatr-res-40"
-id: "TRM-ENG-48238"
+id: "TRM-ENG-62767"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chiatr Res 40"

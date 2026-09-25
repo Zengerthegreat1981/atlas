@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-istart"
-id: "TRM-ENG-35862"
+id: "TRM-ENG-64920"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in iSTART"

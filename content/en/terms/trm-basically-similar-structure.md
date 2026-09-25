@@ -1,6 +1,6 @@
 ---
 slug: "trm-basically-similar-structure"
-id: "TRM-ENG-43548"
+id: "TRM-ENG-58077"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "basically similar structure."

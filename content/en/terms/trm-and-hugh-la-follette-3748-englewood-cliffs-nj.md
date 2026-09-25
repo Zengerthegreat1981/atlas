@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-hugh-la-follette-3748-englewood-cliffs-nj"
-id: "TRM-ENG-45829"
+id: "TRM-ENG-60358"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and Hugh La Follette, 37–48. Englewood Cliffs, NJ"

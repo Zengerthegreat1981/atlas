@@ -1,6 +1,6 @@
 ---
 slug: "trm-able-in-two-versions"
-id: "TRM-ENG-43503"
+id: "TRM-ENG-58032"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "able in two versions"

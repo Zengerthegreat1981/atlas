@@ -1,6 +1,6 @@
 ---
 slug: "trm-model-as-minihospitals-nursing-homes-treat-residents-distress"
-id: "TRM-ENG-35143"
+id: "TRM-ENG-49672"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "model as mini-hospitals, nursing homes treat residents distress"

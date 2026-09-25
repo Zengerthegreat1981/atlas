@@ -1,6 +1,6 @@
 ---
 slug: "trm-behanan-kt"
-id: "TRM-ENG-39844"
+id: "TRM-ENG-54373"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Behanan KT"

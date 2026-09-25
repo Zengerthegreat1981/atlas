@@ -1,6 +1,6 @@
 ---
 slug: "trm-normanda1988bthepsychologyofeverydaythingsnewyork"
-id: "TRM-ENG-37126"
+id: "TRM-ENG-66184"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Norman,D.A.(1988b).Thepsychologyofeverydaythings.NewYork"

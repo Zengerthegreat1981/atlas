@@ -1,6 +1,6 @@
 ---
 slug: "trm-ity-science-since-its-inception"
-id: "TRM-ENG-42958"
+id: "TRM-ENG-57487"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ity science since its inception"

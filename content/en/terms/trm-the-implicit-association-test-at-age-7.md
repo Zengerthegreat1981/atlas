@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-implicit-association-test-at-age-7"
-id: "TRM-ENG-35586"
+id: "TRM-ENG-64644"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The Implicit Association Test at age 7"

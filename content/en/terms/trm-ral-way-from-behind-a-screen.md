@@ -1,6 +1,6 @@
 ---
 slug: "trm-ral-way-from-behind-a-screen"
-id: "TRM-ENG-45456"
+id: "TRM-ENG-59985"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ral way from behind a screen"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-theirseveralvirtuesnewyork"
-id: "TRM-ENG-37356"
+id: "TRM-ENG-51885"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Theirseveralvirtues.NewYork"

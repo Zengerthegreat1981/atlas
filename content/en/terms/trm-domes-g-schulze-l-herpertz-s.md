@@ -1,6 +1,6 @@
 ---
 slug: "trm-domes-g-schulze-l-herpertz-s"
-id: "TRM-ENG-47630"
+id: "TRM-ENG-62159"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Domes G, Schulze L, Herpertz S"

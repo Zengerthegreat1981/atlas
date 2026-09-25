@@ -1,6 +1,6 @@
 ---
 slug: "trm-drug-addiction"
-id: "TRM-ENG-40381"
+id: "TRM-ENG-54910"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Drug addiction"

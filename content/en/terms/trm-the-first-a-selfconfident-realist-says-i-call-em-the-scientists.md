@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-first-a-selfconfident-realist-says-i-call-em-the-scientists"
-id: "TRM-ENG-38898"
+id: "TRM-ENG-53427"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The first, a self-confident realist, says, “I call ’em the scientists"

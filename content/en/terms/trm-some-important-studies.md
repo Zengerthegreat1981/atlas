@@ -1,6 +1,6 @@
 ---
 slug: "trm-some-important-studies"
-id: "TRM-ENG-45312"
+id: "TRM-ENG-59841"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "some important studies"

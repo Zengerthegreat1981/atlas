@@ -1,6 +1,6 @@
 ---
 slug: "trm-impacts-emotional-awareness"
-id: "TRM-ENG-40456"
+id: "TRM-ENG-54985"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "impacts: Emotional Awareness"

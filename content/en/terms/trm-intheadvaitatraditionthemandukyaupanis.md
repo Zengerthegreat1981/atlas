@@ -1,6 +1,6 @@
 ---
 slug: "trm-intheadvaitatraditionthemandukyaupanis"
-id: "TRM-ENG-36953"
+id: "TRM-ENG-51482"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "IntheAdvaitatradition,theMa¯ndu¯kyaUpanis"

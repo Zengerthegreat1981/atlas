@@ -1,6 +1,6 @@
 ---
 slug: "trm-oid-effects-on-the-brain"
-id: "TRM-ENG-35190"
+id: "TRM-ENG-49719"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "oid effects on the brain"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-834-smith-cj"
-id: "TRM-ENG-39495"
+id: "TRM-ENG-54024"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "834. Smith CJ"

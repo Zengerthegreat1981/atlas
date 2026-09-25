@@ -1,6 +1,6 @@
 ---
 slug: "trm-only-238000-college-students"
-id: "TRM-ENG-45198"
+id: "TRM-ENG-59727"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "only 238,000 college students"

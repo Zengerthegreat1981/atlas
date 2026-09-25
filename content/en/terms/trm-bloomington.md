@@ -1,6 +1,6 @@
 ---
 slug: "trm-bloomington"
-id: "TRM-ENG-46324"
+id: "TRM-ENG-60853"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bloomington"

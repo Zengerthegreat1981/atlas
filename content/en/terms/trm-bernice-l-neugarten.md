@@ -1,6 +1,6 @@
 ---
 slug: "trm-bernice-l-neugarten"
-id: "TRM-ENG-44287"
+id: "TRM-ENG-58816"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bernice L. Neugarten"

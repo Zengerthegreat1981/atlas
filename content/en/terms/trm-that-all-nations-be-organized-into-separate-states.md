@@ -1,6 +1,6 @@
 ---
 slug: "trm-that-all-nations-be-organized-into-separate-states"
-id: "TRM-ENG-41868"
+id: "TRM-ENG-56397"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "that all nations be organized into separate states"

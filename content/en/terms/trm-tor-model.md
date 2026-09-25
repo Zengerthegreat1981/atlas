@@ -1,6 +1,6 @@
 ---
 slug: "trm-tor-model"
-id: "TRM-ENG-48690"
+id: "TRM-ENG-63219"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tor model"

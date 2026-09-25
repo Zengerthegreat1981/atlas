@@ -1,6 +1,6 @@
 ---
 slug: "trm-will-focus-on-affective-consciousness"
-id: "TRM-ENG-45692"
+id: "TRM-ENG-60221"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "will focus on affective consciousness"

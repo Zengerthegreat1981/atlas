@@ -1,6 +1,6 @@
 ---
 slug: "trm-charney-ds-riordan-ce-kleber-hd-et-al"
-id: "TRM-ENG-40165"
+id: "TRM-ENG-54694"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Charney DS, Riordan CE, Kleber HD, et al"

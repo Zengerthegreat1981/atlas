@@ -1,6 +1,6 @@
 ---
 slug: "trm-owning-class-and-3"
-id: "TRM-ENG-41098"
+id: "TRM-ENG-55627"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "owning class and, 3"

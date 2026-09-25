@@ -1,6 +1,6 @@
 ---
 slug: "trm-ishiyama-f-ishu-3"
-id: "TRM-ENG-38262"
+id: "TRM-ENG-52791"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ishiyama, F. Ishu, 3"

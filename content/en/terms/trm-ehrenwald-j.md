@@ -1,6 +1,6 @@
 ---
 slug: "trm-ehrenwald-j"
-id: "TRM-ENG-40415"
+id: "TRM-ENG-54944"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ehrenwald J"

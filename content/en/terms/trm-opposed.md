@@ -1,6 +1,6 @@
 ---
 slug: "trm-opposed"
-id: "TRM-ENG-51663"
+id: "TRM-ENG-66192"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "opposed"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-davis-mh"
-id: "TRM-ENG-47602"
+id: "TRM-ENG-62131"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Davis MH"

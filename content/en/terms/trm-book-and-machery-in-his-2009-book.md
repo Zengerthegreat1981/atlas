@@ -1,6 +1,6 @@
 ---
 slug: "trm-book-and-machery-in-his-2009-book"
-id: "TRM-ENG-44974"
+id: "TRM-ENG-59503"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "book and Machery in his 2009 book"

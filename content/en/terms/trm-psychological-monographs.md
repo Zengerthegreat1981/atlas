@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychological-monographs"
-id: "TRM-ENG-49855"
+id: "TRM-ENG-64384"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychological Monographs"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-visual-input-from-each-eye"
-id: "TRM-ENG-35115"
+id: "TRM-ENG-64173"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "visual input from each eye"

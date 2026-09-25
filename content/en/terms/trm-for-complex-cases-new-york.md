@@ -1,6 +1,6 @@
 ---
 slug: "trm-for-complex-cases-new-york"
-id: "TRM-ENG-42839"
+id: "TRM-ENG-57368"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "for complex cases. New York"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-approaches-brady-1985-as-follows"
-id: "TRM-ENG-42964"
+id: "TRM-ENG-57493"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "approaches (Brady, 1985) as follows"

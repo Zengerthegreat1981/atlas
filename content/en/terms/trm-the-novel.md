@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-novel"
-id: "TRM-ENG-45361"
+id: "TRM-ENG-59890"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the novel"

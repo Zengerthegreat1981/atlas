@@ -1,6 +1,6 @@
 ---
 slug: "trm-this-discovery-leads-to-further-ideas"
-id: "TRM-ENG-47389"
+id: "TRM-ENG-61918"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "This discovery leads to further ideas"

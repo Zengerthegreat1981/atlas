@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-disordered-function"
-id: "TRM-ENG-44666"
+id: "TRM-ENG-59195"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The disordered function"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-tennov-d-1979-love-and-limerence"
-id: "TRM-ENG-45488"
+id: "TRM-ENG-60017"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tennov, D. (1979) Love and Limerence"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-eatingdisordersandobesity"
-id: "TRM-ENG-48964"
+id: "TRM-ENG-63493"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Eatingdisordersandobesity"

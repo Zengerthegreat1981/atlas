@@ -1,6 +1,6 @@
 ---
 slug: "trm-this-pattern-similarly"
-id: "TRM-ENG-48653"
+id: "TRM-ENG-63182"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "this pattern similarly"

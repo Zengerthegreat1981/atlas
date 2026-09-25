@@ -1,6 +1,6 @@
 ---
 slug: "trm-associate-editors"
-id: "TRM-ENG-45540"
+id: "TRM-ENG-60069"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "associate editors"

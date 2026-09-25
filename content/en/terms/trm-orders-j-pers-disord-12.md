@@ -1,6 +1,6 @@
 ---
 slug: "trm-orders-j-pers-disord-12"
-id: "TRM-ENG-48506"
+id: "TRM-ENG-63035"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "orders. J Pers Disord 12"

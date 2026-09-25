@@ -1,6 +1,6 @@
 ---
 slug: "trm-1991b-coping-with-chronic-pain"
-id: "TRM-ENG-46306"
+id: "TRM-ENG-60835"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1991b). Coping with chronic pain"

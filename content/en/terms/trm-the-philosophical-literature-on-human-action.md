@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-philosophical-literature-on-human-action"
-id: "TRM-ENG-48849"
+id: "TRM-ENG-63378"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the philosophical literature on human action"

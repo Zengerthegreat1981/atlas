@@ -1,6 +1,6 @@
 ---
 slug: "trm-plato-and-2"
-id: "TRM-ENG-38604"
+id: "TRM-ENG-53133"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Plato and, 2"

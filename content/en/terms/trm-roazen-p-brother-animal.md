@@ -1,6 +1,6 @@
 ---
 slug: "trm-roazen-p-brother-animal"
-id: "TRM-ENG-44599"
+id: "TRM-ENG-59128"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Roazen, P., Brother Animal"

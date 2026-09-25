@@ -1,6 +1,6 @@
 ---
 slug: "trm-rejected-schizotypal"
-id: "TRM-ENG-48557"
+id: "TRM-ENG-63086"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rejected”; schizotypal"

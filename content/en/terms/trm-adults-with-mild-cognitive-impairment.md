@@ -1,6 +1,6 @@
 ---
 slug: "trm-adults-with-mild-cognitive-impairment"
-id: "TRM-ENG-34732"
+id: "TRM-ENG-63790"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "adults with mild cognitive impairment"

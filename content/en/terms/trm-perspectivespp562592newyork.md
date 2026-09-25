@@ -1,6 +1,6 @@
 ---
 slug: "trm-perspectivespp562592newyork"
-id: "TRM-ENG-38088"
+id: "TRM-ENG-67146"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "perspectives(pp.562–592).NewYork"

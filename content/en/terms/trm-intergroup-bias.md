@@ -1,6 +1,6 @@
 ---
 slug: "trm-intergroup-bias"
-id: "TRM-ENG-38247"
+id: "TRM-ENG-52776"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Intergroup bias"

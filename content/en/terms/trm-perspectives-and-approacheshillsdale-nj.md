@@ -1,6 +1,6 @@
 ---
 slug: "trm-perspectives-and-approacheshillsdale-nj"
-id: "TRM-ENG-41162"
+id: "TRM-ENG-55691"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "perspectives and approaches.Hillsdale, NJ"

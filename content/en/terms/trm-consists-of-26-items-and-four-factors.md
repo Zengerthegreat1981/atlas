@@ -1,6 +1,6 @@
 ---
 slug: "trm-consists-of-26-items-and-four-factors"
-id: "TRM-ENG-43651"
+id: "TRM-ENG-58180"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "consists of 26 items and four factors"

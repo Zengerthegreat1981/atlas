@@ -1,6 +1,6 @@
 ---
 slug: "trm-career-decision-scale-and-4"
-id: "TRM-ENG-37772"
+id: "TRM-ENG-52301"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Career Decision Scale and, 4"

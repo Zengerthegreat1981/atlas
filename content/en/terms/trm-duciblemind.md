@@ -1,6 +1,6 @@
 ---
 slug: "trm-duciblemind"
-id: "TRM-ENG-37704"
+id: "TRM-ENG-52233"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "duciblemind"

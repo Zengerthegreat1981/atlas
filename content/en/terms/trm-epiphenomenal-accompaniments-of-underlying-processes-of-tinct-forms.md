@@ -1,6 +1,6 @@
 ---
 slug: "trm-epiphenomenal-accompaniments-of-underlying-processes-of-tinct-forms"
-id: "TRM-ENG-36404"
+id: "TRM-ENG-65462"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "epiphenomenal accompaniments of underlying processes of tinct forms"

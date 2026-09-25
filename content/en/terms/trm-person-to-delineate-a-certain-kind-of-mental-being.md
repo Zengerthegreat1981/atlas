@@ -1,6 +1,6 @@
 ---
 slug: "trm-person-to-delineate-a-certain-kind-of-mental-being"
-id: "TRM-ENG-45403"
+id: "TRM-ENG-59932"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "person to delineate a certain kind of mental being"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-classism-and-2"
-id: "TRM-ENG-39512"
+id: "TRM-ENG-54041"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "classism and, 2"

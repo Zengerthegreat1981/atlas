@@ -1,6 +1,6 @@
 ---
 slug: "trm-goals-of-4"
-id: "TRM-ENG-40319"
+id: "TRM-ENG-54848"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "goals of, 4"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-medial-prefrontal-cortex-2"
-id: "TRM-ENG-44613"
+id: "TRM-ENG-59142"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Medial prefrontal cortex, 2"

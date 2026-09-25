@@ -1,6 +1,6 @@
 ---
 slug: "trm-fraser-hf-grider-ja-jr"
-id: "TRM-ENG-40597"
+id: "TRM-ENG-55126"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fraser HF, Grider JA, Jr"

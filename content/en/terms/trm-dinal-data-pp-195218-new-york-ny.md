@@ -1,6 +1,6 @@
 ---
 slug: "trm-dinal-data-pp-195218-new-york-ny"
-id: "TRM-ENG-35767"
+id: "TRM-ENG-64825"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dinal data (pp. 195–218). New York, NY"

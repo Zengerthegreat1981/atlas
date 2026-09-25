@@ -1,6 +1,6 @@
 ---
 slug: "trm-723-ellis-a-bernard-me-eds"
-id: "TRM-ENG-39369"
+id: "TRM-ENG-53898"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "723. Ellis A, Bernard ME (eds)"

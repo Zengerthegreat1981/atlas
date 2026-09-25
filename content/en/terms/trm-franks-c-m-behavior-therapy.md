@@ -1,6 +1,6 @@
 ---
 slug: "trm-franks-c-m-behavior-therapy"
-id: "TRM-ENG-44393"
+id: "TRM-ENG-58922"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Franks, C. M., Behavior Therapy"

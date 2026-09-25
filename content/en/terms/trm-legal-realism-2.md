@@ -1,6 +1,6 @@
 ---
 slug: "trm-legal-realism-2"
-id: "TRM-ENG-45270"
+id: "TRM-ENG-59799"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "legal realism, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-sternberg-robert-j-1"
-id: "TRM-ENG-47338"
+id: "TRM-ENG-61867"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sternberg, Robert J., 1"

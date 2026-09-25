@@ -1,6 +1,6 @@
 ---
 slug: "trm-william-jamess-focus-of-attention-work-in-2"
-id: "TRM-ENG-39044"
+id: "TRM-ENG-53573"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "William James’s focus of attention work in, 2"

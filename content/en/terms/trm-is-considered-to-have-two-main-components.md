@@ -1,6 +1,6 @@
 ---
 slug: "trm-is-considered-to-have-two-main-components"
-id: "TRM-ENG-42932"
+id: "TRM-ENG-57461"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "is considered to have two main components"

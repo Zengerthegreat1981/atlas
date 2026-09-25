@@ -1,6 +1,6 @@
 ---
 slug: "trm-covering-laws-1"
-id: "TRM-ENG-46460"
+id: "TRM-ENG-60989"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Covering laws, 1"

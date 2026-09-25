@@ -1,6 +1,6 @@
 ---
 slug: "trm-koltes-ja-jones-m"
-id: "TRM-ENG-41283"
+id: "TRM-ENG-55812"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Koltes JA, Jones M"

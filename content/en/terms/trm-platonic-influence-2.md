@@ -1,6 +1,6 @@
 ---
 slug: "trm-platonic-influence-2"
-id: "TRM-ENG-47134"
+id: "TRM-ENG-61663"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Platonic influence, 2"

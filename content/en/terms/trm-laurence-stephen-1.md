@@ -1,6 +1,6 @@
 ---
 slug: "trm-laurence-stephen-1"
-id: "TRM-ENG-44585"
+id: "TRM-ENG-59114"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Laurence, Stephen, 1"

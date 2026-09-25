@@ -1,6 +1,6 @@
 ---
 slug: "trm-mullan-h"
-id: "TRM-ENG-41783"
+id: "TRM-ENG-56312"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mullan H"

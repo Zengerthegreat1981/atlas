@@ -1,6 +1,6 @@
 ---
 slug: "trm-analytical-psychology-3rd-ed-salem-ma"
-id: "TRM-ENG-47584"
+id: "TRM-ENG-62113"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "analytical psychology (3rd ed.). Salem, MA"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-berger-b-m-the-new-stage-of-american-man"
-id: "TRM-ENG-44283"
+id: "TRM-ENG-58812"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Berger, B. M., “The New Stage of American Man"

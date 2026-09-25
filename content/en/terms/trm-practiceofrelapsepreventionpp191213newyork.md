@@ -1,6 +1,6 @@
 ---
 slug: "trm-practiceofrelapsepreventionpp191213newyork"
-id: "TRM-ENG-49632"
+id: "TRM-ENG-64161"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "practiceofrelapseprevention(pp.191±213).NewYork"

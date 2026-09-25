@@ -1,6 +1,6 @@
 ---
 slug: "trm-jealousy"
-id: "TRM-ENG-52252"
+id: "TRM-ENG-66781"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jealousy"

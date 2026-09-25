@@ -1,6 +1,6 @@
 ---
 slug: "trm-howelljbschroederdp1984physicianstress"
-id: "TRM-ENG-46557"
+id: "TRM-ENG-61086"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Howell,J.B.,&Schroeder,D.P.(1984).Physicianstress"

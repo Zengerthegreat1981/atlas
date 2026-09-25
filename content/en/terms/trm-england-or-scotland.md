@@ -1,6 +1,6 @@
 ---
 slug: "trm-england-or-scotland"
-id: "TRM-ENG-46584"
+id: "TRM-ENG-61113"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "England or Scotland"

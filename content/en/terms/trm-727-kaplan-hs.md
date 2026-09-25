@@ -1,6 +1,6 @@
 ---
 slug: "trm-727-kaplan-hs"
-id: "TRM-ENG-39373"
+id: "TRM-ENG-53902"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "727. Kaplan HS"

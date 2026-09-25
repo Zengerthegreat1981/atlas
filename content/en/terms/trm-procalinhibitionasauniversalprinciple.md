@@ -1,6 +1,6 @@
 ---
 slug: "trm-procalinhibitionasauniversalprinciple"
-id: "TRM-ENG-49642"
+id: "TRM-ENG-64171"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "procalinhibitionasauniversalprinciple"

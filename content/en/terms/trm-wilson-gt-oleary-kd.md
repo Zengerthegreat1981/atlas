@@ -1,6 +1,6 @@
 ---
 slug: "trm-wilson-gt-oleary-kd"
-id: "TRM-ENG-42820"
+id: "TRM-ENG-57349"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wilson GT, O’Leary KD"

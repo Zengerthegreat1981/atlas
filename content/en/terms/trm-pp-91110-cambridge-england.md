@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp-91110-cambridge-england"
-id: "TRM-ENG-46144"
+id: "TRM-ENG-60673"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp. 91–110). Cambridge, England"

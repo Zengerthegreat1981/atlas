@@ -1,6 +1,6 @@
 ---
 slug: "trm-eds-psychopathy"
-id: "TRM-ENG-43261"
+id: "TRM-ENG-57790"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Eds.), Psychopathy"

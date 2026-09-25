@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-psychotherapist"
-id: "TRM-ENG-43126"
+id: "TRM-ENG-57655"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of psychotherapist"

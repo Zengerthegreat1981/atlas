@@ -1,6 +1,6 @@
 ---
 slug: "trm-discrimination-and-oppression-and-2"
-id: "TRM-ENG-39949"
+id: "TRM-ENG-54478"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "discrimination and oppression and, 2"

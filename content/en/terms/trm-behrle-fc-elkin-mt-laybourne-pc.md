@@ -1,6 +1,6 @@
 ---
 slug: "trm-behrle-fc-elkin-mt-laybourne-pc"
-id: "TRM-ENG-39847"
+id: "TRM-ENG-54376"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Behrle FC, Elkin MT, Laybourne PC"

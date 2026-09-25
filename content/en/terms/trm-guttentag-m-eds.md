@@ -1,6 +1,6 @@
 ---
 slug: "trm-guttentag-m-eds"
-id: "TRM-ENG-40866"
+id: "TRM-ENG-55395"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Guttentag M (eds)"

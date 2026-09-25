@@ -1,6 +1,6 @@
 ---
 slug: "trm-marks-isaac-living-with-fear-new-york"
-id: "TRM-ENG-45880"
+id: "TRM-ENG-60409"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Marks, Isaac. Living with Fear. New York"

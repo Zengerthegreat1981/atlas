@@ -1,6 +1,6 @@
 ---
 slug: "trm-for-children-with-chronic-illness-1"
-id: "TRM-ENG-40230"
+id: "TRM-ENG-54759"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "for children with chronic illness, 1"

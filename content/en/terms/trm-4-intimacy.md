@@ -1,6 +1,6 @@
 ---
 slug: "trm-4-intimacy"
-id: "TRM-ENG-47438"
+id: "TRM-ENG-61967"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "4. Intimacy"

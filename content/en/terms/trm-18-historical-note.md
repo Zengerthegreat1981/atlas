@@ -1,6 +1,6 @@
 ---
 slug: "trm-18-historical-note"
-id: "TRM-ENG-44195"
+id: "TRM-ENG-58724"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "18. “Historical Note"

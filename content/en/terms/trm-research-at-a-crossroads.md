@@ -1,6 +1,6 @@
 ---
 slug: "trm-research-at-a-crossroads"
-id: "TRM-ENG-49147"
+id: "TRM-ENG-63676"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Research at a cross-roads"

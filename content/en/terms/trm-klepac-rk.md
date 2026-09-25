@@ -1,6 +1,6 @@
 ---
 slug: "trm-klepac-rk"
-id: "TRM-ENG-41263"
+id: "TRM-ENG-55792"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Klepac RK"

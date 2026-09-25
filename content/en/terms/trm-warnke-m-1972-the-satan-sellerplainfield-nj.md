@@ -1,6 +1,6 @@
 ---
 slug: "trm-warnke-m-1972-the-satan-sellerplainfield-nj"
-id: "TRM-ENG-36040"
+id: "TRM-ENG-65098"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Warnke, M. (1972). The Satan seller.Plainfield, NJ"

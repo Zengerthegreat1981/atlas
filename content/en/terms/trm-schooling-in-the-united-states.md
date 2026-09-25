@@ -1,6 +1,6 @@
 ---
 slug: "trm-schooling-in-the-united-states"
-id: "TRM-ENG-47235"
+id: "TRM-ENG-61764"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schooling in the United States"

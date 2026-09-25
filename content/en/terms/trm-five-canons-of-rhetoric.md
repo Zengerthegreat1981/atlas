@@ -1,6 +1,6 @@
 ---
 slug: "trm-five-canons-of-rhetoric"
-id: "TRM-ENG-48031"
+id: "TRM-ENG-62560"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "five canons of rhetoric"

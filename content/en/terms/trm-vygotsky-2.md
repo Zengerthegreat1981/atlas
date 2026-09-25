@@ -1,6 +1,6 @@
 ---
 slug: "trm-vygotsky-2"
-id: "TRM-ENG-47466"
+id: "TRM-ENG-61995"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Vygotsky, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-binger-2007"
-id: "TRM-ENG-42687"
+id: "TRM-ENG-57216"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "binger, 2007)."

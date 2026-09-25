@@ -1,6 +1,6 @@
 ---
 slug: "trm-tyrer-p-davidson-k"
-id: "TRM-ENG-48138"
+id: "TRM-ENG-62667"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tyrer P, Davidson K"

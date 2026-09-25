@@ -1,6 +1,6 @@
 ---
 slug: "trm-caleconomic-ethical-and-educational-problems"
-id: "TRM-ENG-47730"
+id: "TRM-ENG-62259"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cal-economic, ethical, and educational problems"

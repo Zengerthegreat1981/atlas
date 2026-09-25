@@ -1,6 +1,6 @@
 ---
 slug: "trm-skinner-b-f-1968-the-technology-of-teachingnew-york"
-id: "TRM-ENG-38781"
+id: "TRM-ENG-53310"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Skinner, B. F. (1968). The technology of teaching.New York"

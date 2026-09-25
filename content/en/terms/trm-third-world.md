@@ -1,6 +1,6 @@
 ---
 slug: "trm-third-world"
-id: "TRM-ENG-41952"
+id: "TRM-ENG-56481"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "third world"

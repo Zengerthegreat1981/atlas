@@ -1,6 +1,6 @@
 ---
 slug: "trm-gustin-jc"
-id: "TRM-ENG-40862"
+id: "TRM-ENG-55391"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gustin JC"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-vol3newyork"
-id: "TRM-ENG-46333"
+id: "TRM-ENG-60862"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Vol.3).NewYork"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-five-paths-to-happiness-2"
-id: "TRM-ENG-50406"
+id: "TRM-ENG-64935"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Five Paths to Happiness, 2"

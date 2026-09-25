@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-styles"
-id: "TRM-ENG-47051"
+id: "TRM-ENG-61580"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing styles"

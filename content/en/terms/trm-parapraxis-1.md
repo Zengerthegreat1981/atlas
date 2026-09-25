@@ -1,6 +1,6 @@
 ---
 slug: "trm-parapraxis-1"
-id: "TRM-ENG-50833"
+id: "TRM-ENG-65362"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Parapraxis, 1"

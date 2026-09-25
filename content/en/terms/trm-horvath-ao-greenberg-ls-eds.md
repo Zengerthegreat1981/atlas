@@ -1,6 +1,6 @@
 ---
 slug: "trm-horvath-ao-greenberg-ls-eds"
-id: "TRM-ENG-47737"
+id: "TRM-ENG-62266"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Horvath AO, Greenberg LS (eds)"

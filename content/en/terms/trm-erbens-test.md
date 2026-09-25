@@ -1,6 +1,6 @@
 ---
 slug: "trm-erbens-test"
-id: "TRM-ENG-52167"
+id: "TRM-ENG-66696"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Erben’s test"

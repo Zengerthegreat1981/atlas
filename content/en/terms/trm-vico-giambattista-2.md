@@ -1,6 +1,6 @@
 ---
 slug: "trm-vico-giambattista-2"
-id: "TRM-ENG-47461"
+id: "TRM-ENG-61990"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Vico, Giambattista, 2"

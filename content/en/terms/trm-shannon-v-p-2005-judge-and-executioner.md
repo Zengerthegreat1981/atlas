@@ -1,6 +1,6 @@
 ---
 slug: "trm-shannon-v-p-2005-judge-and-executioner"
-id: "TRM-ENG-38760"
+id: "TRM-ENG-53289"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shannon, V. P. (2005). Judge and executioner"

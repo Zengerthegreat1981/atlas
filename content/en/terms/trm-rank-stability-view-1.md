@@ -1,6 +1,6 @@
 ---
 slug: "trm-rank-stability-view-1"
-id: "TRM-ENG-47177"
+id: "TRM-ENG-61706"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rank stability view, 1"

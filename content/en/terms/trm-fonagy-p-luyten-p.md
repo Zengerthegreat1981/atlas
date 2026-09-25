@@ -1,6 +1,6 @@
 ---
 slug: "trm-fonagy-p-luyten-p"
-id: "TRM-ENG-47650"
+id: "TRM-ENG-62179"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fonagy P, Luyten P"

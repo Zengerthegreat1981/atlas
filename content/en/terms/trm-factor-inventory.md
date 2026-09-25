@@ -1,6 +1,6 @@
 ---
 slug: "trm-factor-inventory"
-id: "TRM-ENG-43429"
+id: "TRM-ENG-57958"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Factor Inventory"

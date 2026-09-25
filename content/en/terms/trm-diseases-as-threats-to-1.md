@@ -1,6 +1,6 @@
 ---
 slug: "trm-diseases-as-threats-to-1"
-id: "TRM-ENG-39954"
+id: "TRM-ENG-54483"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "diseases as threats to, 1"

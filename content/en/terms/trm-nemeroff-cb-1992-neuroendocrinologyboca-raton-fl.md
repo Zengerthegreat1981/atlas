@@ -1,6 +1,6 @@
 ---
 slug: "trm-nemeroff-cb-1992-neuroendocrinologyboca-raton-fl"
-id: "TRM-ENG-35860"
+id: "TRM-ENG-64918"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nemeroff, C.B. (1992). Neuroendocrinology.Boca Raton, FL"

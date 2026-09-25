@@ -1,6 +1,6 @@
 ---
 slug: "trm-egories"
-id: "TRM-ENG-35001"
+id: "TRM-ENG-64059"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "egories"

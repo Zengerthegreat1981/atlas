@@ -1,6 +1,6 @@
 ---
 slug: "trm-tions-are-as-diverse-as-life-itself"
-id: "TRM-ENG-41977"
+id: "TRM-ENG-56506"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tions are as diverse as life itself"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-solving-the-poi-comprises-three-subscales"
-id: "TRM-ENG-41727"
+id: "TRM-ENG-56256"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "solving. The POI comprises three subscales"

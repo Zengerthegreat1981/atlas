@@ -1,6 +1,6 @@
 ---
 slug: "trm-divided-between-these-paths"
-id: "TRM-ENG-45074"
+id: "TRM-ENG-59603"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "divided between these paths"

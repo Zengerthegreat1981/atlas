@@ -1,6 +1,6 @@
 ---
 slug: "trm-hedlund-jl-vieweg-ms-wood-jb-et-al"
-id: "TRM-ENG-40957"
+id: "TRM-ENG-55486"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hedlund JL, Vieweg MS, Wood JB, et al"

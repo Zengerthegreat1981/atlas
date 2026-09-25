@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-impotence-of-others"
-id: "TRM-ENG-48749"
+id: "TRM-ENG-63278"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "• The impotence of others"

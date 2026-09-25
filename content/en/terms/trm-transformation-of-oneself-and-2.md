@@ -1,6 +1,6 @@
 ---
 slug: "trm-transformation-of-oneself-and-2"
-id: "TRM-ENG-42025"
+id: "TRM-ENG-56554"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "transformation of oneself and, 2"

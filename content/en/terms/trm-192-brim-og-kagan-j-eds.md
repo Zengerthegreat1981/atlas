@@ -1,6 +1,6 @@
 ---
 slug: "trm-192-brim-og-kagan-j-eds"
-id: "TRM-ENG-38678"
+id: "TRM-ENG-53207"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "192. Brim OG, Kagan J (eds)"

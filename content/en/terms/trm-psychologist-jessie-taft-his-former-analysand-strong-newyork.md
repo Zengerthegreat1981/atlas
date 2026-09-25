@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychologist-jessie-taft-his-former-analysand-strong-newyork"
-id: "TRM-ENG-38143"
+id: "TRM-ENG-52672"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychologist Jessie Taft, his former analysand, strong NewYork"

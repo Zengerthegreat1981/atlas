@@ -1,6 +1,6 @@
 ---
 slug: "trm-words"
-id: "TRM-ENG-49056"
+id: "TRM-ENG-63585"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "words"

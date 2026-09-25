@@ -1,6 +1,6 @@
 ---
 slug: "trm-with-missing-data-2nd-ed-new-york-ny"
-id: "TRM-ENG-36264"
+id: "TRM-ENG-65322"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "with missing data (2nd ed.). New York, NY"

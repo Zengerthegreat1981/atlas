@@ -1,6 +1,6 @@
 ---
 slug: "trm-cal-manual-of-mental-disorders4th-ed-rev-washington-dc"
-id: "TRM-ENG-36235"
+id: "TRM-ENG-65293"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cal manual of mental disorders(4th ed., rev.). Washington, DC"

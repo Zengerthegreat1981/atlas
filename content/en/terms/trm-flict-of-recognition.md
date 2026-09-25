@@ -1,6 +1,6 @@
 ---
 slug: "trm-flict-of-recognition"
-id: "TRM-ENG-45138"
+id: "TRM-ENG-59667"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "flict of recognition"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-anderson-l-f-1931-pestalozzi-new-york-ny"
-id: "TRM-ENG-46237"
+id: "TRM-ENG-60766"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Anderson, L. F. (1931). Pestalozzi. New York, NY"

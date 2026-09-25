@@ -1,6 +1,6 @@
 ---
 slug: "trm-sheeley-v-l-2002-american-counseling-association"
-id: "TRM-ENG-38762"
+id: "TRM-ENG-53291"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sheeley, V. L. (2002). American Counseling Association"

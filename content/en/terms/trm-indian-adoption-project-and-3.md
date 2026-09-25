@@ -1,6 +1,6 @@
 ---
 slug: "trm-indian-adoption-project-and-3"
-id: "TRM-ENG-38221"
+id: "TRM-ENG-52750"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Indian Adoption Project and, 3"

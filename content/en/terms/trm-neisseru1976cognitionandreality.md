@@ -1,6 +1,6 @@
 ---
 slug: "trm-neisseru1976cognitionandreality"
-id: "TRM-ENG-37115"
+id: "TRM-ENG-66173"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Neisser,U.(1976).Cognitionandreality"

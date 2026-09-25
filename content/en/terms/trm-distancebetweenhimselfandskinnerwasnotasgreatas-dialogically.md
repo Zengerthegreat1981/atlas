@@ -1,6 +1,6 @@
 ---
 slug: "trm-distancebetweenhimselfandskinnerwasnotasgreatas-dialogically"
-id: "TRM-ENG-37699"
+id: "TRM-ENG-52228"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "distancebetweenhimselfandSkinnerwasnotasgreatas dialogically"

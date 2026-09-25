@@ -1,6 +1,6 @@
 ---
 slug: "trm-alzheimers-disease-1"
-id: "TRM-ENG-37578"
+id: "TRM-ENG-52107"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Alzheimer’s disease, 1"

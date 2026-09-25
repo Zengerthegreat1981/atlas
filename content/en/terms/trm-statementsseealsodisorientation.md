@@ -1,6 +1,6 @@
 ---
 slug: "trm-statementsseealsodisorientation"
-id: "TRM-ENG-43882"
+id: "TRM-ENG-58411"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "statements.Seealsodisorientation."

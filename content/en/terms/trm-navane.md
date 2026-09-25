@@ -1,6 +1,6 @@
 ---
 slug: "trm-navane"
-id: "TRM-ENG-38516"
+id: "TRM-ENG-53045"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Navane"

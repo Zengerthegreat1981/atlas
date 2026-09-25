@@ -1,6 +1,6 @@
 ---
 slug: "trm-havior-disorderspp525555-new-york"
-id: "TRM-ENG-36509"
+id: "TRM-ENG-51038"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "havior disorders(pp.525–555). New York"

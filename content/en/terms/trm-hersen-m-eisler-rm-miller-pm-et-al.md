@@ -1,6 +1,6 @@
 ---
 slug: "trm-hersen-m-eisler-rm-miller-pm-et-al"
-id: "TRM-ENG-40981"
+id: "TRM-ENG-55510"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hersen M, Eisler RM, Miller PM, et al"

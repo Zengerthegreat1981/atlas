@@ -1,6 +1,6 @@
 ---
 slug: "trm-antisocial-identity"
-id: "TRM-ENG-47472"
+id: "TRM-ENG-62001"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Antisocial Identity"

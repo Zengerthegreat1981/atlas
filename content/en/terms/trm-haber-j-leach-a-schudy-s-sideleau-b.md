@@ -1,6 +1,6 @@
 ---
 slug: "trm-haber-j-leach-a-schudy-s-sideleau-b"
-id: "TRM-ENG-40872"
+id: "TRM-ENG-55401"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Haber J, Leach A, Schudy S, Sideleau B"

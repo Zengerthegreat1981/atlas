@@ -1,6 +1,6 @@
 ---
 slug: "trm-andreasen-nj-noyes-r-jr-hartford-ce"
-id: "TRM-ENG-39697"
+id: "TRM-ENG-54226"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Andreasen NJ, Noyes R, Jr., Hartford CE"

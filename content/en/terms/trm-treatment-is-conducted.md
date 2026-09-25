@@ -1,6 +1,6 @@
 ---
 slug: "trm-treatment-is-conducted"
-id: "TRM-ENG-43386"
+id: "TRM-ENG-57915"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "treatment is conducted"

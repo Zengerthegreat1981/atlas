@@ -1,6 +1,6 @@
 ---
 slug: "trm-lawforindividualsandinstitutionsnewyork"
-id: "TRM-ENG-45734"
+id: "TRM-ENG-60263"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "LawforIndividualsandInstitutions.NewYork"

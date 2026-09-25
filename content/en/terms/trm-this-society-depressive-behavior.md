@@ -1,6 +1,6 @@
 ---
 slug: "trm-this-society-depressive-behavior"
-id: "TRM-ENG-44214"
+id: "TRM-ENG-58743"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "this society, depressive behavior"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-hemingway-ernest-2"
-id: "TRM-ENG-46747"
+id: "TRM-ENG-61276"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hemingway, Ernest, 2"

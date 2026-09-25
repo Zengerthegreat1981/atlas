@@ -1,6 +1,6 @@
 ---
 slug: "trm-definite-description-concept-2"
-id: "TRM-ENG-44422"
+id: "TRM-ENG-58951"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Definite description concept, 2"

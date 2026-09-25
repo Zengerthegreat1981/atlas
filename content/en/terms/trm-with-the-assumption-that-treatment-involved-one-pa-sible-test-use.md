@@ -1,6 +1,6 @@
 ---
 slug: "trm-with-the-assumption-that-treatment-involved-one-pa-sible-test-use"
-id: "TRM-ENG-35461"
+id: "TRM-ENG-49990"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "with the assumption that treatment involved one pa- sible test use"

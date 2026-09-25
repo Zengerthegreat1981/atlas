@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-a-variety-of-social-interactions-than-do-introverts"
-id: "TRM-ENG-35070"
+id: "TRM-ENG-64128"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in a variety of social interactions than do introverts"

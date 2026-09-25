@@ -1,6 +1,6 @@
 ---
 slug: "trm-national-society-for-the-study-of-education"
-id: "TRM-ENG-47043"
+id: "TRM-ENG-61572"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "National Society for the Study of Education"

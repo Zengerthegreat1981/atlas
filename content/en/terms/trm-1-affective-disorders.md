@@ -1,6 +1,6 @@
 ---
 slug: "trm-1-affective-disorders"
-id: "TRM-ENG-38534"
+id: "TRM-ENG-53063"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1. Affective disorders"

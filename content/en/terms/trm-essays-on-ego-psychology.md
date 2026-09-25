@@ -1,6 +1,6 @@
 ---
 slug: "trm-essays-on-ego-psychology"
-id: "TRM-ENG-44718"
+id: "TRM-ENG-59247"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, Essays on Ego Psychology"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-cohen-susan-1"
-id: "TRM-ENG-37844"
+id: "TRM-ENG-66902"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cohen, Susan, 1"

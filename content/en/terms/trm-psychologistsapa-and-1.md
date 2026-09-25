@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychologistsapa-and-1"
-id: "TRM-ENG-38639"
+id: "TRM-ENG-53168"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychologists(APA) and, 1"

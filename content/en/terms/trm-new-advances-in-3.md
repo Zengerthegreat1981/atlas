@@ -1,6 +1,6 @@
 ---
 slug: "trm-new-advances-in-3"
-id: "TRM-ENG-40951"
+id: "TRM-ENG-55480"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "new advances in, 3"

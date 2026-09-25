@@ -1,6 +1,6 @@
 ---
 slug: "trm-discontents"
-id: "TRM-ENG-42769"
+id: "TRM-ENG-57298"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "discontents"

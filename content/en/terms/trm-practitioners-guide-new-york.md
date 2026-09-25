@@ -1,6 +1,6 @@
 ---
 slug: "trm-practitioners-guide-new-york"
-id: "TRM-ENG-41249"
+id: "TRM-ENG-55778"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "practitioner’s guide. New York"

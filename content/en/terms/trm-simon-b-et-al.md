@@ -1,6 +1,6 @@
 ---
 slug: "trm-simon-b-et-al"
-id: "TRM-ENG-42359"
+id: "TRM-ENG-56888"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Simon B, et al"

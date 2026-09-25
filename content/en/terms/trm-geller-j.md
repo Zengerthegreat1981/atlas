@@ -1,6 +1,6 @@
 ---
 slug: "trm-geller-j"
-id: "TRM-ENG-40682"
+id: "TRM-ENG-55211"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Geller J"

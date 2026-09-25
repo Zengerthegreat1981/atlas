@@ -1,6 +1,6 @@
 ---
 slug: "trm-turkheimer-e-waldron-m"
-id: "TRM-ENG-48135"
+id: "TRM-ENG-62664"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Turkheimer E, Waldron M"

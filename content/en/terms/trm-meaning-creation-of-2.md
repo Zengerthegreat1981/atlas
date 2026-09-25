@@ -1,6 +1,6 @@
 ---
 slug: "trm-meaning-creation-of-2"
-id: "TRM-ENG-40793"
+id: "TRM-ENG-55322"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "meaning, creation of, 2"

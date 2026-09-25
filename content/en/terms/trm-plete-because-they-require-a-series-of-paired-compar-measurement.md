@@ -1,6 +1,6 @@
 ---
 slug: "trm-plete-because-they-require-a-series-of-paired-compar-measurement"
-id: "TRM-ENG-41185"
+id: "TRM-ENG-55714"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "plete because they require a series of paired compar- measurement"

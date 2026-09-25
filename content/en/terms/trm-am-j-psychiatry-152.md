@@ -1,6 +1,6 @@
 ---
 slug: "trm-am-j-psychiatry-152"
-id: "TRM-ENG-47459"
+id: "TRM-ENG-61988"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Am J Psychiatry 152"

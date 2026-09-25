@@ -1,6 +1,6 @@
 ---
 slug: "trm-grier-william-3"
-id: "TRM-ENG-38128"
+id: "TRM-ENG-52657"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Grier, William, 3"

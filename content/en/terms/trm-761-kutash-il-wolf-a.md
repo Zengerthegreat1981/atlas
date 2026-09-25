@@ -1,6 +1,6 @@
 ---
 slug: "trm-761-kutash-il-wolf-a"
-id: "TRM-ENG-39411"
+id: "TRM-ENG-53940"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "761. Kutash IL, Wolf A"

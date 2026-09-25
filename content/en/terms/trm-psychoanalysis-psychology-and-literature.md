@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychoanalysis-psychology-and-literature"
-id: "TRM-ENG-44706"
+id: "TRM-ENG-59235"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____ , Psychoanalysis, Psychology and Literature"

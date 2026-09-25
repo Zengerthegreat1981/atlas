@@ -1,6 +1,6 @@
 ---
 slug: "trm-livingston-ms"
-id: "TRM-ENG-41495"
+id: "TRM-ENG-56024"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Livingston MS"

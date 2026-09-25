@@ -1,6 +1,6 @@
 ---
 slug: "trm-kernberg-of-caligor-e"
-id: "TRM-ENG-47781"
+id: "TRM-ENG-62310"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kernberg OF, Caligor E"

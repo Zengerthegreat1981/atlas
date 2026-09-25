@@ -1,6 +1,6 @@
 ---
 slug: "trm-versity-of-colorado-studies-in-philosophy-3-1967"
-id: "TRM-ENG-46079"
+id: "TRM-ENG-60608"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "versity of Colorado Studies in Philosophy 3 (1967)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-edge-that-they-are-wrong-claims-about-the-empiri-england"
-id: "TRM-ENG-47915"
+id: "TRM-ENG-62444"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "edge that they are wrong. Claims about the empiri- England"

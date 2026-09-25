@@ -1,6 +1,6 @@
 ---
 slug: "trm-copd"
-id: "TRM-ENG-46455"
+id: "TRM-ENG-60984"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "COPD"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-christianity"
-id: "TRM-ENG-45828"
+id: "TRM-ENG-60357"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and Christianity"

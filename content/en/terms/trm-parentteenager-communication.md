@@ -1,6 +1,6 @@
 ---
 slug: "trm-parentteenager-communication"
-id: "TRM-ENG-41922"
+id: "TRM-ENG-56451"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Parent-Teenager Communication"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-normal-distribution"
-id: "TRM-ENG-48846"
+id: "TRM-ENG-63375"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the normal distribution"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-stewart-w-a-psychoanalysis"
-id: "TRM-ENG-44648"
+id: "TRM-ENG-59177"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stewart, W. A., Psychoanalysis"

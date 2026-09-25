@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-other-aspects-of-personality-functioning"
-id: "TRM-ENG-42891"
+id: "TRM-ENG-57420"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in other aspects of personality functioning"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-tional-context"
-id: "TRM-ENG-37186"
+id: "TRM-ENG-66244"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tional context"

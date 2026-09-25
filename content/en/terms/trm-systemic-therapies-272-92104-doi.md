@@ -1,6 +1,6 @@
 ---
 slug: "trm-systemic-therapies-272-92104-doi"
-id: "TRM-ENG-51078"
+id: "TRM-ENG-65607"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Systemic Therapies, 27(2), 92–104. doi"

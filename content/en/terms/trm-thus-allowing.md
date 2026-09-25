@@ -1,6 +1,6 @@
 ---
 slug: "trm-thus-allowing"
-id: "TRM-ENG-45615"
+id: "TRM-ENG-60144"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thus allowing"

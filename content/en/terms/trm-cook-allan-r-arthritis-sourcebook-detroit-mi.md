@@ -1,6 +1,6 @@
 ---
 slug: "trm-cook-allan-r-arthritis-sourcebook-detroit-mi"
-id: "TRM-ENG-45784"
+id: "TRM-ENG-60313"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cook, Allan R. Arthritis Sourcebook. Detroit, MI"

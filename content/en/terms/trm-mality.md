@@ -1,6 +1,6 @@
 ---
 slug: "trm-mality"
-id: "TRM-ENG-42983"
+id: "TRM-ENG-57512"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mality"

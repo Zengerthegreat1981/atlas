@@ -1,6 +1,6 @@
 ---
 slug: "trm-revolutionary-immortality"
-id: "TRM-ENG-44734"
+id: "TRM-ENG-59263"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, Revolutionary Immortality"

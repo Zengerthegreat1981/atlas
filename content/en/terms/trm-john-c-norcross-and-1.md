@@ -1,6 +1,6 @@
 ---
 slug: "trm-john-c-norcross-and-1"
-id: "TRM-ENG-38292"
+id: "TRM-ENG-52821"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "John C. Norcross and, 1"

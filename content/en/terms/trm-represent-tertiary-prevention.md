@@ -1,6 +1,6 @@
 ---
 slug: "trm-represent-tertiary-prevention"
-id: "TRM-ENG-36938"
+id: "TRM-ENG-51467"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "represent tertiary prevention"

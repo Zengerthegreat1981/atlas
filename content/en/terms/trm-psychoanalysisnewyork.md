@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychoanalysisnewyork"
-id: "TRM-ENG-37198"
+id: "TRM-ENG-66256"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psycho-analysis;NewYork"

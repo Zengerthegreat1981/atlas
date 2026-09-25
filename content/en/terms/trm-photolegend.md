@@ -1,6 +1,6 @@
 ---
 slug: "trm-photolegend"
-id: "TRM-ENG-36432"
+id: "TRM-ENG-65490"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Photolegend"

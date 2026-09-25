@@ -1,6 +1,6 @@
 ---
 slug: "trm-guasti-m-t-2002-language-acquisition"
-id: "TRM-ENG-46727"
+id: "TRM-ENG-61256"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Guasti, M. T. (2002). Language acquisition"

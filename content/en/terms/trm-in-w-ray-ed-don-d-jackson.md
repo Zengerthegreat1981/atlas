@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-w-ray-ed-don-d-jackson"
-id: "TRM-ENG-50563"
+id: "TRM-ENG-65092"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "In W. Ray (Ed.), Don D. Jackson"

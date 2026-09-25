@@ -1,6 +1,6 @@
 ---
 slug: "trm-3-miscellaneous-relationships"
-id: "TRM-ENG-38850"
+id: "TRM-ENG-53379"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "3. Miscellaneous relationships"

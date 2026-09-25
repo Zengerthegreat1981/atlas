@@ -1,6 +1,6 @@
 ---
 slug: "trm-gregory-s-ffytche-d-simmons-a-et-al"
-id: "TRM-ENG-47688"
+id: "TRM-ENG-62217"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gregory S, ffytche D, Simmons A, et al"

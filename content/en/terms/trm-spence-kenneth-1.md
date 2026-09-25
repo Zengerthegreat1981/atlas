@@ -1,6 +1,6 @@
 ---
 slug: "trm-spence-kenneth-1"
-id: "TRM-ENG-51050"
+id: "TRM-ENG-65579"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spence, Kenneth, 1"

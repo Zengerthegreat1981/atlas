@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-clinician"
-id: "TRM-ENG-43300"
+id: "TRM-ENG-57829"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the clinician"

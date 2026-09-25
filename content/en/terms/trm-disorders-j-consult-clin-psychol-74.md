@@ -1,6 +1,6 @@
 ---
 slug: "trm-disorders-j-consult-clin-psychol-74"
-id: "TRM-ENG-48325"
+id: "TRM-ENG-62854"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disorders. J Consult Clin Psychol 74"

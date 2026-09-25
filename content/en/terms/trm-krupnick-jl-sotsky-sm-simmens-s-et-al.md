@@ -1,6 +1,6 @@
 ---
 slug: "trm-krupnick-jl-sotsky-sm-simmens-s-et-al"
-id: "TRM-ENG-47813"
+id: "TRM-ENG-62342"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Krupnick JL, Sotsky SM, Simmens S, et al"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-21-english-hb-english-ac"
-id: "TRM-ENG-38722"
+id: "TRM-ENG-53251"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "21. English HB, English AC"

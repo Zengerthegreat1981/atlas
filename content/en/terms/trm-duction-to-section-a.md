@@ -1,6 +1,6 @@
 ---
 slug: "trm-duction-to-section-a"
-id: "TRM-ENG-39979"
+id: "TRM-ENG-54508"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "duction to Section A"

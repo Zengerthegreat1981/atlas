@@ -1,6 +1,6 @@
 ---
 slug: "trm-548-coping-with-aids"
-id: "TRM-ENG-39159"
+id: "TRM-ENG-53688"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "548. Coping with AIDS"

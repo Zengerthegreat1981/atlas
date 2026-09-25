@@ -1,6 +1,6 @@
 ---
 slug: "trm-reynolds-depression-screening-inventory-2"
-id: "TRM-ENG-38675"
+id: "TRM-ENG-53204"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Reynolds Depression Screening Inventory, 2"

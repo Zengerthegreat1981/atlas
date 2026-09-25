@@ -1,6 +1,6 @@
 ---
 slug: "trm-morey-lc-skodol-ae"
-id: "TRM-ENG-47880"
+id: "TRM-ENG-62409"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Morey LC, Skodol AE"

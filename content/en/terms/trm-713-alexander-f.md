@@ -1,6 +1,6 @@
 ---
 slug: "trm-713-alexander-f"
-id: "TRM-ENG-39357"
+id: "TRM-ENG-53886"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "713. Alexander F"

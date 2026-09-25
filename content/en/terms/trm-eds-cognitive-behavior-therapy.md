@@ -1,6 +1,6 @@
 ---
 slug: "trm-eds-cognitive-behavior-therapy"
-id: "TRM-ENG-49918"
+id: "TRM-ENG-64447"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Eds.), Cognitive behavior therapy"

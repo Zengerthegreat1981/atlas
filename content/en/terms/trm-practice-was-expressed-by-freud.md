@@ -1,6 +1,6 @@
 ---
 slug: "trm-practice-was-expressed-by-freud"
-id: "TRM-ENG-45249"
+id: "TRM-ENG-59778"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "practice was expressed by Freud"

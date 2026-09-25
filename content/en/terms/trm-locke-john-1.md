@@ -1,6 +1,6 @@
 ---
 slug: "trm-locke-john-1"
-id: "TRM-ENG-46945"
+id: "TRM-ENG-61474"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Locke, John, 1"

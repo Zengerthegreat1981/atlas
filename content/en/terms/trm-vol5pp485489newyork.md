@@ -1,6 +1,6 @@
 ---
 slug: "trm-vol5pp485489newyork"
-id: "TRM-ENG-36447"
+id: "TRM-ENG-65505"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Vol.5,pp.485–489).NewYork"

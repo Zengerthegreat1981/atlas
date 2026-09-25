@@ -1,6 +1,6 @@
 ---
 slug: "trm-rev-ed-of"
-id: "TRM-ENG-35920"
+id: "TRM-ENG-64978"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rev. ed. of"

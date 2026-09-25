@@ -1,6 +1,6 @@
 ---
 slug: "trm-daloid-nuclei"
-id: "TRM-ENG-44045"
+id: "TRM-ENG-58574"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "daloid nuclei,"

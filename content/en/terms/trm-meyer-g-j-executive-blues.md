@@ -1,6 +1,6 @@
 ---
 slug: "trm-meyer-g-j-executive-blues"
-id: "TRM-ENG-45894"
+id: "TRM-ENG-60423"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Meyer, G. J. Executive Blues"

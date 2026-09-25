@@ -1,6 +1,6 @@
 ---
 slug: "trm-nussbaum-and-amartya-sen-categorical-imperative-1"
-id: "TRM-ENG-47071"
+id: "TRM-ENG-61600"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nussbaum and Amartya Sen, Categorical imperative, 1"

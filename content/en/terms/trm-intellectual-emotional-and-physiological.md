@@ -1,6 +1,6 @@
 ---
 slug: "trm-intellectual-emotional-and-physiological"
-id: "TRM-ENG-43085"
+id: "TRM-ENG-57614"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "intellectual, emotional, and physiological"

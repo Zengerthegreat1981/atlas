@@ -1,6 +1,6 @@
 ---
 slug: "trm-scientist-in-the-crib"
-id: "TRM-ENG-45496"
+id: "TRM-ENG-60025"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "scientist in the crib"

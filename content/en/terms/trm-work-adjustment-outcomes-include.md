@@ -1,6 +1,6 @@
 ---
 slug: "trm-work-adjustment-outcomes-include"
-id: "TRM-ENG-37449"
+id: "TRM-ENG-51978"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Work adjustment outcomes include"

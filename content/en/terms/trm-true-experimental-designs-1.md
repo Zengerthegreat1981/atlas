@@ -1,6 +1,6 @@
 ---
 slug: "trm-true-experimental-designs-1"
-id: "TRM-ENG-47427"
+id: "TRM-ENG-61956"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "True experimental designs, 1"

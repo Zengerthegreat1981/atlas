@@ -1,6 +1,6 @@
 ---
 slug: "trm-1960s-the-following-are-recommended"
-id: "TRM-ENG-38685"
+id: "TRM-ENG-53214"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1960s. The following are recommended"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-phenomena-need-not-necessarily-relate-to-those-of-the-body-see-also"
-id: "TRM-ENG-36856"
+id: "TRM-ENG-51385"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "phenomena need not necessarily relate to those of the body. See also"

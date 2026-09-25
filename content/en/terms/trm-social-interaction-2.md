@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-interaction-2"
-id: "TRM-ENG-48729"
+id: "TRM-ENG-63258"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social interaction, 2"

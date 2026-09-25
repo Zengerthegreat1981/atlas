@@ -1,6 +1,6 @@
 ---
 slug: "trm-etic-quantitative-research-methods-and-3"
-id: "TRM-ENG-40108"
+id: "TRM-ENG-54637"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "etic, quantitative research methods and, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-chen-lm-friedman-rm-roe-aw"
-id: "TRM-ENG-47544"
+id: "TRM-ENG-62073"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Chen LM, Friedman RM, Roe AW"

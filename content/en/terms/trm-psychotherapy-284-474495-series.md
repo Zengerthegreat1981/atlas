@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychotherapy-284-474495-series"
-id: "TRM-ENG-50914"
+id: "TRM-ENG-65443"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychotherapy, 28(4), 474–495. Series"

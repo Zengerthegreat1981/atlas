@@ -1,6 +1,6 @@
 ---
 slug: "trm-number-of-syndromes-fit-this-description"
-id: "TRM-ENG-43122"
+id: "TRM-ENG-57651"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "number of syndromes fit this description"

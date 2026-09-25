@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-result-was-the-book-s-ummerhill"
-id: "TRM-ENG-47378"
+id: "TRM-ENG-61907"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The result was the book S ummerhill"

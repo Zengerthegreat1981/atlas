@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-negative-emotionality"
-id: "TRM-ENG-42636"
+id: "TRM-ENG-57165"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and negative emotionality"

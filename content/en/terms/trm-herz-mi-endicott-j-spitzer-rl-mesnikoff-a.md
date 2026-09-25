@@ -1,6 +1,6 @@
 ---
 slug: "trm-herz-mi-endicott-j-spitzer-rl-mesnikoff-a"
-id: "TRM-ENG-40983"
+id: "TRM-ENG-55512"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Herz MI, Endicott J, Spitzer RL, Mesnikoff A"

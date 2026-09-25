@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-recovery"
-id: "TRM-ENG-36304"
+id: "TRM-ENG-50833"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and recovery"

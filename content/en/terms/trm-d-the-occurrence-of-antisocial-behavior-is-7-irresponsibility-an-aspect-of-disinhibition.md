@@ -1,6 +1,6 @@
 ---
 slug: "trm-d-the-occurrence-of-antisocial-behavior-is-7-irresponsibility-an-aspect-of-disinhibition"
-id: "TRM-ENG-47590"
+id: "TRM-ENG-62119"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "D. The occurrence of antisocial behavior is 7. Irresponsibility (an aspect of Disinhibition)"

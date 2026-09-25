@@ -1,6 +1,6 @@
 ---
 slug: "trm-measurement-of-diabetes-knowledge"
-id: "TRM-ENG-46625"
+id: "TRM-ENG-61154"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Measurement of diabetes knowledge"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-464-gunderson-jg"
-id: "TRM-ENG-39056"
+id: "TRM-ENG-53585"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "464. Gunderson JG"

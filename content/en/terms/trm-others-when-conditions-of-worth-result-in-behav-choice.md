@@ -1,6 +1,6 @@
 ---
 slug: "trm-others-when-conditions-of-worth-result-in-behav-choice"
-id: "TRM-ENG-51671"
+id: "TRM-ENG-66200"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "others. When conditions of worth result in behav- choice"

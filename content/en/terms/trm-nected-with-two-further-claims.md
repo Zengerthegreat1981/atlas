@@ -1,6 +1,6 @@
 ---
 slug: "trm-nected-with-two-further-claims"
-id: "TRM-ENG-45965"
+id: "TRM-ENG-60494"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nected with two further claims"

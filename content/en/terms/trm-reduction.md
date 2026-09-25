@@ -1,6 +1,6 @@
 ---
 slug: "trm-reduction"
-id: "TRM-ENG-45465"
+id: "TRM-ENG-59994"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reduction"

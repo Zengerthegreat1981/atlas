@@ -1,6 +1,6 @@
 ---
 slug: "trm-edscognitionandpsychotherapynewyork"
-id: "TRM-ENG-48784"
+id: "TRM-ENG-63313"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Eds.),Cognitionandpsychotherapy.NewYork"

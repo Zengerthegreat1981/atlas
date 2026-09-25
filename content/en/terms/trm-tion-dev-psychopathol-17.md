@@ -1,6 +1,6 @@
 ---
 slug: "trm-tion-dev-psychopathol-17"
-id: "TRM-ENG-48673"
+id: "TRM-ENG-63202"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tion. Dev Psychopathol 17"

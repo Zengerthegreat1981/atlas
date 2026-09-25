@@ -1,6 +1,6 @@
 ---
 slug: "trm-sport-knowledge-importance-and-1"
-id: "TRM-ENG-41748"
+id: "TRM-ENG-56277"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sport knowledge importance and, 1"

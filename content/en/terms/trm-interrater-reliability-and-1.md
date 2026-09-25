@@ -1,6 +1,6 @@
 ---
 slug: "trm-interrater-reliability-and-1"
-id: "TRM-ENG-40585"
+id: "TRM-ENG-55114"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "inter-rater reliability and, 1"

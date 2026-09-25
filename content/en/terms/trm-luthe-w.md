@@ -1,6 +1,6 @@
 ---
 slug: "trm-luthe-w"
-id: "TRM-ENG-41529"
+id: "TRM-ENG-56058"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Luthe W"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-sobey-f"
-id: "TRM-ENG-42392"
+id: "TRM-ENG-56921"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sobey F"

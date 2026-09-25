@@ -1,6 +1,6 @@
 ---
 slug: "trm-3-hours-the-duration-of-the-group"
-id: "TRM-ENG-37490"
+id: "TRM-ENG-66548"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "3 hours. The duration of the group"

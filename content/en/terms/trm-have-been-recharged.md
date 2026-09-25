@@ -1,6 +1,6 @@
 ---
 slug: "trm-have-been-recharged"
-id: "TRM-ENG-47003"
+id: "TRM-ENG-61532"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "have been rechargedº"

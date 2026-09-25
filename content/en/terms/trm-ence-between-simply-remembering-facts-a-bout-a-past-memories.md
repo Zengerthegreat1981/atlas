@@ -1,6 +1,6 @@
 ---
 slug: "trm-ence-between-simply-remembering-facts-a-bout-a-past-memories"
-id: "TRM-ENG-45090"
+id: "TRM-ENG-59619"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ence between simply remembering facts a bout a past memories"

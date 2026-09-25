@@ -1,6 +1,6 @@
 ---
 slug: "trm-gueno43800canberraaustralia"
-id: "TRM-ENG-47000"
+id: "TRM-ENG-61529"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "gueNo.4380.0.Canberra,Australia"

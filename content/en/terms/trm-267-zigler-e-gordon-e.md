@@ -1,6 +1,6 @@
 ---
 slug: "trm-267-zigler-e-gordon-e"
-id: "TRM-ENG-38797"
+id: "TRM-ENG-53326"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "267. Zigler E, Gordon E"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-mdmaecstasy-and-2"
-id: "TRM-ENG-38389"
+id: "TRM-ENG-52918"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "MDMA(Ecstasy) and, 2"

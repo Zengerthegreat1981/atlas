@@ -1,6 +1,6 @@
 ---
 slug: "trm-omalley-m"
-id: "TRM-ENG-41901"
+id: "TRM-ENG-56430"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "O’Malley M"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-w-w-cid"
-id: "TRM-ENG-35279"
+id: "TRM-ENG-49808"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "=∑∑w w (cid"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-eating-disorder"
-id: "TRM-ENG-49407"
+id: "TRM-ENG-63936"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "eating disorder"

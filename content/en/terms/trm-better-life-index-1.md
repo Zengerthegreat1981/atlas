@@ -1,6 +1,6 @@
 ---
 slug: "trm-better-life-index-1"
-id: "TRM-ENG-46308"
+id: "TRM-ENG-60837"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Better life Index, 1"

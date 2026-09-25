@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognitive-noncognitive-components-of-4"
-id: "TRM-ENG-39562"
+id: "TRM-ENG-54091"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cognitive, non-cognitive components of, 4"

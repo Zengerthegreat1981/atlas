@@ -1,6 +1,6 @@
 ---
 slug: "trm-executive-processes"
-id: "TRM-ENG-42813"
+id: "TRM-ENG-57342"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "executive processes"

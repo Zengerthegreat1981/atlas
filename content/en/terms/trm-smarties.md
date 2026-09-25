@@ -1,6 +1,6 @@
 ---
 slug: "trm-smarties"
-id: "TRM-ENG-51825"
+id: "TRM-ENG-66354"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "smarties"

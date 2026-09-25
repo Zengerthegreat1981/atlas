@@ -1,6 +1,6 @@
 ---
 slug: "trm-transtheoretical-stages-of-change-model-and-2"
-id: "TRM-ENG-42036"
+id: "TRM-ENG-56565"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "transtheoretical stages of change model and, 2"

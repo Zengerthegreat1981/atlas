@@ -1,6 +1,6 @@
 ---
 slug: "trm-steinhaus-ah"
-id: "TRM-ENG-42454"
+id: "TRM-ENG-56983"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Steinhaus AH"

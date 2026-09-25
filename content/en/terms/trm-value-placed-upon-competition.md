@@ -1,6 +1,6 @@
 ---
 slug: "trm-value-placed-upon-competition"
-id: "TRM-ENG-42103"
+id: "TRM-ENG-56632"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "value placed upon competition"

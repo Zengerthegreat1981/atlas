@@ -1,6 +1,6 @@
 ---
 slug: "trm-educational-research-and-neurosciences"
-id: "TRM-ENG-46555"
+id: "TRM-ENG-61084"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Educational research and neurosciences"

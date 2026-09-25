@@ -1,6 +1,6 @@
 ---
 slug: "trm-failures-or-deaths-over-time"
-id: "TRM-ENG-45562"
+id: "TRM-ENG-60091"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "failures or deaths over time"

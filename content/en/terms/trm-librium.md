@@ -1,6 +1,6 @@
 ---
 slug: "trm-librium"
-id: "TRM-ENG-44079"
+id: "TRM-ENG-58608"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "librium"

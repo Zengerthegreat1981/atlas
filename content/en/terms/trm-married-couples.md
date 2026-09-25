@@ -1,6 +1,6 @@
 ---
 slug: "trm-married-couples"
-id: "TRM-ENG-45149"
+id: "TRM-ENG-59678"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "married couples"

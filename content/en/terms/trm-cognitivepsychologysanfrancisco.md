@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognitivepsychologysanfrancisco"
-id: "TRM-ENG-37637"
+id: "TRM-ENG-66695"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cognitivepsychology.SanFrancisco"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-rachman-sj-hodgson-r"
-id: "TRM-ENG-42052"
+id: "TRM-ENG-56581"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rachman SJ, Hodgson R"

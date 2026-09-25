@@ -1,6 +1,6 @@
 ---
 slug: "trm-als-for-democratic-citizenship"
-id: "TRM-ENG-47573"
+id: "TRM-ENG-62102"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "als for democratic citizenship"

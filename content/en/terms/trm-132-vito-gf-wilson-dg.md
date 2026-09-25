@@ -1,6 +1,6 @@
 ---
 slug: "trm-132-vito-gf-wilson-dg"
-id: "TRM-ENG-38602"
+id: "TRM-ENG-53131"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "132. Vito GF, Wilson DG"

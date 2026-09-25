@@ -1,6 +1,6 @@
 ---
 slug: "trm-kalinowsky-lb-hoch-ph"
-id: "TRM-ENG-41175"
+id: "TRM-ENG-55704"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kalinowsky LB, Hoch PH"

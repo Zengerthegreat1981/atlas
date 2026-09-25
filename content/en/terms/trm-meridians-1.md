@@ -1,6 +1,6 @@
 ---
 slug: "trm-meridians-1"
-id: "TRM-ENG-50731"
+id: "TRM-ENG-65260"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Meridians, 1"

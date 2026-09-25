@@ -1,6 +1,6 @@
 ---
 slug: "trm-bradford-lp-gibb-jr-benne-kd"
-id: "TRM-ENG-40016"
+id: "TRM-ENG-54545"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bradford LP, Gibb JR, Benne KD"

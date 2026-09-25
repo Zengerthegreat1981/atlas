@@ -1,6 +1,6 @@
 ---
 slug: "trm-land"
-id: "TRM-ENG-35104"
+id: "TRM-ENG-64162"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "land"

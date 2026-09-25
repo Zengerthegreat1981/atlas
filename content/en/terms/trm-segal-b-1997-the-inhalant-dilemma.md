@@ -1,6 +1,6 @@
 ---
 slug: "trm-segal-b-1997-the-inhalant-dilemma"
-id: "TRM-ENG-38746"
+id: "TRM-ENG-53275"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Segal, B. (1997). The inhalant dilemma"

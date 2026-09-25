@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-them"
-id: "TRM-ENG-45639"
+id: "TRM-ENG-60168"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to them"

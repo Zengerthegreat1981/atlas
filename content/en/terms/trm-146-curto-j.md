@@ -1,6 +1,6 @@
 ---
 slug: "trm-146-curto-j"
-id: "TRM-ENG-38618"
+id: "TRM-ENG-53147"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "146. Curto J"

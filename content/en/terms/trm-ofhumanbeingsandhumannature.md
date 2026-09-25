@@ -1,6 +1,6 @@
 ---
 slug: "trm-ofhumanbeingsandhumannature"
-id: "TRM-ENG-43770"
+id: "TRM-ENG-58299"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ofhumanbeingsandhumannature."

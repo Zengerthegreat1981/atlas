@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-optic-nerve-is-enveloped-in-the-annulus-of-zinn"
-id: "TRM-ENG-37122"
+id: "TRM-ENG-66180"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the optic nerve is enveloped in the annulus of Zinn"

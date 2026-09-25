@@ -1,6 +1,6 @@
 ---
 slug: "trm-geijerstam-g"
-id: "TRM-ENG-40678"
+id: "TRM-ENG-55207"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Geijerstam G"

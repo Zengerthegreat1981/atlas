@@ -1,6 +1,6 @@
 ---
 slug: "trm-namic-theory-of-personality"
-id: "TRM-ENG-35152"
+id: "TRM-ENG-49681"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "namic Theory of Personality"

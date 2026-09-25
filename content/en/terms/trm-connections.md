@@ -1,6 +1,6 @@
 ---
 slug: "trm-connections"
-id: "TRM-ENG-39653"
+id: "TRM-ENG-54182"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "connections"

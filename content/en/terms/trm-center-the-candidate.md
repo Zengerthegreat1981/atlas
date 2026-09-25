@@ -1,6 +1,6 @@
 ---
 slug: "trm-center-the-candidate"
-id: "TRM-ENG-34925"
+id: "TRM-ENG-49454"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "center, the candidate"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-aristotle-1910-historia-animalium-trans"
-id: "TRM-ENG-36569"
+id: "TRM-ENG-65627"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Aristotle (1910). Historia animalium. (trans"

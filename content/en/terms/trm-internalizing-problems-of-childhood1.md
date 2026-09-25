@@ -1,6 +1,6 @@
 ---
 slug: "trm-internalizing-problems-of-childhood1"
-id: "TRM-ENG-38249"
+id: "TRM-ENG-52778"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Internalizing problems of childhood,1"

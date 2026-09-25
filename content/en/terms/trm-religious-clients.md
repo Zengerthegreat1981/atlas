@@ -1,6 +1,6 @@
 ---
 slug: "trm-religious-clients"
-id: "TRM-ENG-41493"
+id: "TRM-ENG-56022"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "religious clients"

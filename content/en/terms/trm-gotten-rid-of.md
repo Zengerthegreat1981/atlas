@@ -1,6 +1,6 @@
 ---
 slug: "trm-gotten-rid-of"
-id: "TRM-ENG-45058"
+id: "TRM-ENG-59587"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "gotten rid of”"

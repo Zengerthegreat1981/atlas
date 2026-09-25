@@ -1,6 +1,6 @@
 ---
 slug: "trm-blood-supply-to-the-brain"
-id: "TRM-ENG-43561"
+id: "TRM-ENG-58090"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "blood supply to the brain."

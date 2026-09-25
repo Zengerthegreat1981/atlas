@@ -1,6 +1,6 @@
 ---
 slug: "trm-national-negro-committee-precursor-of-3"
-id: "TRM-ENG-38486"
+id: "TRM-ENG-53015"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "National Negro Committee precursor of, 3"

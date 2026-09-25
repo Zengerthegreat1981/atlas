@@ -1,6 +1,6 @@
 ---
 slug: "trm-people-to-admit-to-others-that-they-or-their-relatives-cid"
-id: "TRM-ENG-46188"
+id: "TRM-ENG-60717"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "people to admit to others that they or their relatives (cid"

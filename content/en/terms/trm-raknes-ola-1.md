@@ -1,6 +1,6 @@
 ---
 slug: "trm-raknes-ola-1"
-id: "TRM-ENG-50930"
+id: "TRM-ENG-65459"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Raknes, Ola, 1"

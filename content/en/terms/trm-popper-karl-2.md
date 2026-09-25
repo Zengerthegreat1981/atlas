@@ -1,6 +1,6 @@
 ---
 slug: "trm-popper-karl-2"
-id: "TRM-ENG-47139"
+id: "TRM-ENG-61668"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Popper, Karl, 2"

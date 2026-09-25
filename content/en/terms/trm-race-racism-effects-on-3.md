@@ -1,6 +1,6 @@
 ---
 slug: "trm-race-racism-effects-on-3"
-id: "TRM-ENG-41401"
+id: "TRM-ENG-55930"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "race, racism effects on, 3"

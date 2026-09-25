@@ -1,6 +1,6 @@
 ---
 slug: "trm-an-output"
-id: "TRM-ENG-44890"
+id: "TRM-ENG-59419"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "an output"

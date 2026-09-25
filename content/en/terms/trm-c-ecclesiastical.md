@@ -1,6 +1,6 @@
 ---
 slug: "trm-c-ecclesiastical"
-id: "TRM-ENG-44926"
+id: "TRM-ENG-59455"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "c. Ecclesiastical"

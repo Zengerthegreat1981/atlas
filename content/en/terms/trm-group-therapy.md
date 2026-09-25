@@ -1,6 +1,6 @@
 ---
 slug: "trm-group-therapy"
-id: "TRM-ENG-43056"
+id: "TRM-ENG-57585"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "group therapy"

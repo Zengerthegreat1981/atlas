@@ -1,6 +1,6 @@
 ---
 slug: "trm-mind-the-relationship-can-work-in-reverse-too"
-id: "TRM-ENG-37966"
+id: "TRM-ENG-67024"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mind.” The relationship can work in reverse, too"

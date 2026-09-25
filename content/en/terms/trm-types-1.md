@@ -1,6 +1,6 @@
 ---
 slug: "trm-types-1"
-id: "TRM-ENG-45663"
+id: "TRM-ENG-60192"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "types, 1"

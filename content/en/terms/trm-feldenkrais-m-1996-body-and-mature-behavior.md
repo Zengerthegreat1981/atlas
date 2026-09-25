@@ -1,6 +1,6 @@
 ---
 slug: "trm-feldenkrais-m-1996-body-and-mature-behavior"
-id: "TRM-ENG-50398"
+id: "TRM-ENG-64927"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Feldenkrais, M. (1996). Body and mature behavior"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-austin-g-a-1"
-id: "TRM-ENG-46263"
+id: "TRM-ENG-60792"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Austin, G. A., 1"

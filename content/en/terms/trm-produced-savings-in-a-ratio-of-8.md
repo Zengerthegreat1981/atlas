@@ -1,6 +1,6 @@
 ---
 slug: "trm-produced-savings-in-a-ratio-of-8"
-id: "TRM-ENG-44171"
+id: "TRM-ENG-58700"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "produced savings in a ratio of 8"

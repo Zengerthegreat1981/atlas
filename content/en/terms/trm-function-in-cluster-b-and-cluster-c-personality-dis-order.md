@@ -1,6 +1,6 @@
 ---
 slug: "trm-function-in-cluster-b-and-cluster-c-personality-dis-order"
-id: "TRM-ENG-42851"
+id: "TRM-ENG-57380"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "function in Cluster B and Cluster C personality dis- order"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-phinney-jean-s-3"
-id: "TRM-ENG-38600"
+id: "TRM-ENG-53129"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Phinney, Jean S., 3"

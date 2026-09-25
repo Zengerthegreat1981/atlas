@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-temperament-and-personality-traits"
-id: "TRM-ENG-43068"
+id: "TRM-ENG-57597"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of temperament and personality traits"

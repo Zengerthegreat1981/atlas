@@ -1,6 +1,6 @@
 ---
 slug: "trm-national-b"
-id: "TRM-ENG-43029"
+id: "TRM-ENG-57558"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "national B"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ick-et-al-1967-two-possible-consequences-follow"
-id: "TRM-ENG-36536"
+id: "TRM-ENG-51065"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ick et al. (1967), two possible consequences follow"

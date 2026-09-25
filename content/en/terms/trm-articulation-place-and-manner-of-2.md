@@ -1,6 +1,6 @@
 ---
 slug: "trm-articulation-place-and-manner-of-2"
-id: "TRM-ENG-44308"
+id: "TRM-ENG-58837"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Articulation, place and manner of, 2"

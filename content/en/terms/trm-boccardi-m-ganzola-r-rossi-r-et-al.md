@@ -1,6 +1,6 @@
 ---
 slug: "trm-boccardi-m-ganzola-r-rossi-r-et-al"
-id: "TRM-ENG-47514"
+id: "TRM-ENG-62043"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Boccardi M, Ganzola R, Rossi R, et al"

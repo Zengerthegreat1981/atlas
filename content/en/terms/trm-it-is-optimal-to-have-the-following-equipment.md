@@ -1,6 +1,6 @@
 ---
 slug: "trm-it-is-optimal-to-have-the-following-equipment"
-id: "TRM-ENG-50583"
+id: "TRM-ENG-65112"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "It is optimal to have the following equipment"

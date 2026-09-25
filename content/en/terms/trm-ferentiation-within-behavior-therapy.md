@@ -1,6 +1,6 @@
 ---
 slug: "trm-ferentiation-within-behavior-therapy"
-id: "TRM-ENG-35020"
+id: "TRM-ENG-64078"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ferentiation within behavior therapy"

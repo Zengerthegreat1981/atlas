@@ -1,6 +1,6 @@
 ---
 slug: "trm-payne-j"
-id: "TRM-ENG-41950"
+id: "TRM-ENG-56479"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Payne J"

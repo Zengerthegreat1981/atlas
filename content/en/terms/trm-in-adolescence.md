@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-adolescence"
-id: "TRM-ENG-42884"
+id: "TRM-ENG-57413"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in adolescence"

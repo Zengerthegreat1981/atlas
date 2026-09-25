@@ -1,6 +1,6 @@
 ---
 slug: "trm-civil-rights-act-of-1991-and-3"
-id: "TRM-ENG-37827"
+id: "TRM-ENG-52356"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Civil Rights Act of 1991 and, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-96-jahoda-g"
-id: "TRM-ENG-39608"
+id: "TRM-ENG-54137"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "96. Jahoda G"

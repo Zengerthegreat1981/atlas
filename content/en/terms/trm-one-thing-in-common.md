@@ -1,6 +1,6 @@
 ---
 slug: "trm-one-thing-in-common"
-id: "TRM-ENG-41033"
+id: "TRM-ENG-55562"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "one thing in common"

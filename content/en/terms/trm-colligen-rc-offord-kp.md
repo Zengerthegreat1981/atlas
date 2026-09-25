@@ -1,6 +1,6 @@
 ---
 slug: "trm-colligen-rc-offord-kp"
-id: "TRM-ENG-40217"
+id: "TRM-ENG-54746"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Colligen RC, Offord KP"

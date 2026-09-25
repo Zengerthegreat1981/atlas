@@ -1,6 +1,6 @@
 ---
 slug: "trm-654-wester-wc-ii-et-al"
-id: "TRM-ENG-39282"
+id: "TRM-ENG-53811"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "654. Wester WC II, et al"

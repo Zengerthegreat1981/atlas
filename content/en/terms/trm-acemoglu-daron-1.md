@@ -1,6 +1,6 @@
 ---
 slug: "trm-acemoglu-daron-1"
-id: "TRM-ENG-46200"
+id: "TRM-ENG-60729"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Acemoglu, Daron, 1"

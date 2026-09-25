@@ -1,6 +1,6 @@
 ---
 slug: "trm-clayton-p-hirschfeld-r-1989-bipolar-ii-illness"
-id: "TRM-ENG-48936"
+id: "TRM-ENG-63465"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Clayton, P., & Hirschfeld, R. (1989). Bipolar II illness"

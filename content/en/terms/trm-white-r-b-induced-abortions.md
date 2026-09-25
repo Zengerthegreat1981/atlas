@@ -1,6 +1,6 @@
 ---
 slug: "trm-white-r-b-induced-abortions"
-id: "TRM-ENG-44692"
+id: "TRM-ENG-59221"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "White, R. B., “Induced Abortions"

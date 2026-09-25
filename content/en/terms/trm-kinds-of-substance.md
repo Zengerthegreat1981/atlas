@@ -1,6 +1,6 @@
 ---
 slug: "trm-kinds-of-substance"
-id: "TRM-ENG-45257"
+id: "TRM-ENG-59786"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "kinds of substance"

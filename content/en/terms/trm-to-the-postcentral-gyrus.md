@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-the-postcentral-gyrus"
-id: "TRM-ENG-35097"
+id: "TRM-ENG-64155"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to the postcentral gyrus"

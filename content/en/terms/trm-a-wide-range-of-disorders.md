@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-wide-range-of-disorders"
-id: "TRM-ENG-39066"
+id: "TRM-ENG-53595"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "a wide range of disorders"

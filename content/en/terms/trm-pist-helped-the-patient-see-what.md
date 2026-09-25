@@ -1,6 +1,6 @@
 ---
 slug: "trm-pist-helped-the-patient-see-what"
-id: "TRM-ENG-48526"
+id: "TRM-ENG-63055"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pist helped the patient see what"

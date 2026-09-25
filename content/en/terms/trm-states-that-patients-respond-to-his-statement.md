@@ -1,6 +1,6 @@
 ---
 slug: "trm-states-that-patients-respond-to-his-statement"
-id: "TRM-ENG-43187"
+id: "TRM-ENG-57716"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "states that patients respond to his statement"

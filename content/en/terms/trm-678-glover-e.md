@@ -1,6 +1,6 @@
 ---
 slug: "trm-678-glover-e"
-id: "TRM-ENG-39308"
+id: "TRM-ENG-53837"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "678. Glover E"

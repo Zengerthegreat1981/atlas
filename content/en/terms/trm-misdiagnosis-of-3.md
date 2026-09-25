@@ -1,6 +1,6 @@
 ---
 slug: "trm-misdiagnosis-of-3"
-id: "TRM-ENG-40860"
+id: "TRM-ENG-55389"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "misdiagnosis of, 3"

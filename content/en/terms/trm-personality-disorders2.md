@@ -1,6 +1,6 @@
 ---
 slug: "trm-personality-disorders2"
-id: "TRM-ENG-38590"
+id: "TRM-ENG-53119"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Personality disorders,2"

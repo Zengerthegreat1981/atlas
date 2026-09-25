@@ -1,6 +1,6 @@
 ---
 slug: "trm-georgejbeckernewyork"
-id: "TRM-ENG-45704"
+id: "TRM-ENG-60233"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "GeorgeJ.Becker.NewYork"

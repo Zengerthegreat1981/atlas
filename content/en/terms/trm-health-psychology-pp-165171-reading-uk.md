@@ -1,6 +1,6 @@
 ---
 slug: "trm-health-psychology-pp-165171-reading-uk"
-id: "TRM-ENG-47014"
+id: "TRM-ENG-61543"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "health psychology (pp. 165±171). Reading, UK"

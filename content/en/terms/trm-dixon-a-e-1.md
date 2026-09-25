@@ -1,6 +1,6 @@
 ---
 slug: "trm-dixon-a-e-1"
-id: "TRM-ENG-37971"
+id: "TRM-ENG-52500"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dixon, A. E., 1"

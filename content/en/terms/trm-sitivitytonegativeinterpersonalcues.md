@@ -1,6 +1,6 @@
 ---
 slug: "trm-sitivitytonegativeinterpersonalcues"
-id: "TRM-ENG-43864"
+id: "TRM-ENG-58393"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sitivitytonegativeinterpersonalcues."

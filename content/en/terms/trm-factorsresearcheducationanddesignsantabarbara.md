@@ -1,6 +1,6 @@
 ---
 slug: "trm-factorsresearcheducationanddesignsantabarbara"
-id: "TRM-ENG-37758"
+id: "TRM-ENG-52287"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "factorsresearch,educationanddesign.SantaBarbara"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-siegler-m-1993-falling-off-the-pedestal"
-id: "TRM-ENG-46711"
+id: "TRM-ENG-61240"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Siegler, M. (1993). Falling off the pedestal"

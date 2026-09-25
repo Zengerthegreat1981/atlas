@@ -1,6 +1,6 @@
 ---
 slug: "trm-suffering-from-dementia-the-very-young-child"
-id: "TRM-ENG-48776"
+id: "TRM-ENG-63305"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "suffering from dementia, the very young child"

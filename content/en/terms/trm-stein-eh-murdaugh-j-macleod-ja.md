@@ -1,6 +1,6 @@
 ---
 slug: "trm-stein-eh-murdaugh-j-macleod-ja"
-id: "TRM-ENG-42451"
+id: "TRM-ENG-56980"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stein EH, Murdaugh J, MacLeod JA"

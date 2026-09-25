@@ -1,6 +1,6 @@
 ---
 slug: "trm-by-definition-involves-social-comparison"
-id: "TRM-ENG-44981"
+id: "TRM-ENG-59510"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "by definition, involves social comparison"

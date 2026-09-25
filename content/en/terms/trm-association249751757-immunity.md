@@ -1,6 +1,6 @@
 ---
 slug: "trm-association249751757-immunity"
-id: "TRM-ENG-46409"
+id: "TRM-ENG-60938"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Association,249,751±757. immunity"

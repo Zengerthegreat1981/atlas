@@ -1,6 +1,6 @@
 ---
 slug: "trm-methods-2-261277-doi"
-id: "TRM-ENG-35446"
+id: "TRM-ENG-64504"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Methods, 2, 261–277. doi"

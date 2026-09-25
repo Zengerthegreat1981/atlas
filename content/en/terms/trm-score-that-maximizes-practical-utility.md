@@ -1,6 +1,6 @@
 ---
 slug: "trm-score-that-maximizes-practical-utility"
-id: "TRM-ENG-36107"
+id: "TRM-ENG-65165"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "score that maximizes practical utility"

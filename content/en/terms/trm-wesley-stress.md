@@ -1,6 +1,6 @@
 ---
 slug: "trm-wesley-stress"
-id: "TRM-ENG-46766"
+id: "TRM-ENG-61295"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wesley. stress"

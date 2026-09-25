@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-in-vivo-exposure"
-id: "TRM-ENG-49258"
+id: "TRM-ENG-63787"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and in vivo exposure"

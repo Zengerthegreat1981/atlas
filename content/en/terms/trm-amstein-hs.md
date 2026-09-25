@@ -1,6 +1,6 @@
 ---
 slug: "trm-amstein-hs"
-id: "TRM-ENG-39689"
+id: "TRM-ENG-54218"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Amstein HS"

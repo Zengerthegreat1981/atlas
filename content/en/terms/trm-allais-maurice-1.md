@@ -1,6 +1,6 @@
 ---
 slug: "trm-allais-maurice-1"
-id: "TRM-ENG-44293"
+id: "TRM-ENG-58822"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Allais, Maurice, 1"

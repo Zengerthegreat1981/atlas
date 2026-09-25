@@ -1,6 +1,6 @@
 ---
 slug: "trm-looking-things"
-id: "TRM-ENG-43095"
+id: "TRM-ENG-57624"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "looking things"

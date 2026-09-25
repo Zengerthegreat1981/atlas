@@ -1,6 +1,6 @@
 ---
 slug: "trm-up-a-critical-mirror-to-practice"
-id: "TRM-ENG-49000"
+id: "TRM-ENG-63529"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "up a critical mirror to practice"

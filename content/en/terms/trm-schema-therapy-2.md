@@ -1,6 +1,6 @@
 ---
 slug: "trm-schema-therapy-2"
-id: "TRM-ENG-50993"
+id: "TRM-ENG-65522"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schema therapy, 2"

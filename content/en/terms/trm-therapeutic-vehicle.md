@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapeutic-vehicle"
-id: "TRM-ENG-43208"
+id: "TRM-ENG-57737"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapeutic vehicle"

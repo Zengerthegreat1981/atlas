@@ -1,6 +1,6 @@
 ---
 slug: "trm-lent-thought"
-id: "TRM-ENG-45273"
+id: "TRM-ENG-59802"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lent thought"

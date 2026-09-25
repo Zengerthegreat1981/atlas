@@ -1,6 +1,6 @@
 ---
 slug: "trm-power-of-personality"
-id: "TRM-ENG-48538"
+id: "TRM-ENG-63067"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "power of personality"

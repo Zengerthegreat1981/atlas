@@ -1,6 +1,6 @@
 ---
 slug: "trm-motivation-vol-30-pp-5589-lincoln"
-id: "TRM-ENG-35451"
+id: "TRM-ENG-64509"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Motivation (Vol. 30, pp. 55–89). Lincoln"

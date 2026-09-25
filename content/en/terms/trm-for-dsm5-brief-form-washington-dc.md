@@ -1,6 +1,6 @@
 ---
 slug: "trm-for-dsm5-brief-form-washington-dc"
-id: "TRM-ENG-42836"
+id: "TRM-ENG-57365"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "for DSM-5, Brief Form. Washington, DC"

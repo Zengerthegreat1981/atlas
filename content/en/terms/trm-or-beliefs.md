@@ -1,6 +1,6 @@
 ---
 slug: "trm-or-beliefs"
-id: "TRM-ENG-45374"
+id: "TRM-ENG-59903"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "or beliefs"

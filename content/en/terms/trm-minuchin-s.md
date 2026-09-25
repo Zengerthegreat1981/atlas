@@ -1,6 +1,6 @@
 ---
 slug: "trm-minuchin-s"
-id: "TRM-ENG-41736"
+id: "TRM-ENG-56265"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Minuchin S"

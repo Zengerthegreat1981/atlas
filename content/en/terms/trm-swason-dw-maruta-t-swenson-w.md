@@ -1,6 +1,6 @@
 ---
 slug: "trm-swason-dw-maruta-t-swenson-w"
-id: "TRM-ENG-42524"
+id: "TRM-ENG-57053"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Swason DW, Maruta T, Swenson W"

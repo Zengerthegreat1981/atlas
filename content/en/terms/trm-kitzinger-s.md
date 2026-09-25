@@ -1,6 +1,6 @@
 ---
 slug: "trm-kitzinger-s"
-id: "TRM-ENG-41246"
+id: "TRM-ENG-55775"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kitzinger S"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-simmons-jq-leiken-sj-lovaas-di-et-al"
-id: "TRM-ENG-42356"
+id: "TRM-ENG-56885"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Simmons JQ, Leiken SJ, Lovaas DI, et al"

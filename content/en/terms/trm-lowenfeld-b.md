@@ -1,6 +1,6 @@
 ---
 slug: "trm-lowenfeld-b"
-id: "TRM-ENG-41511"
+id: "TRM-ENG-56040"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lowenfeld B"

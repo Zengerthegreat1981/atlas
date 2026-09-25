@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-individual-difference"
-id: "TRM-ENG-43765"
+id: "TRM-ENG-58294"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of individual difference"

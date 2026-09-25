@@ -1,6 +1,6 @@
 ---
 slug: "trm-kerr-clark-1"
-id: "TRM-ENG-46867"
+id: "TRM-ENG-61396"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kerr, Clark, 1"

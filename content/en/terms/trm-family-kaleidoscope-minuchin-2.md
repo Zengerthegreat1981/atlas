@@ -1,6 +1,6 @@
 ---
 slug: "trm-family-kaleidoscope-minuchin-2"
-id: "TRM-ENG-50383"
+id: "TRM-ENG-64912"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Family Kaleidoscope (Minuchin), 2"

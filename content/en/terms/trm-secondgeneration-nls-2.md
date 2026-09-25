@@ -1,6 +1,6 @@
 ---
 slug: "trm-secondgeneration-nls-2"
-id: "TRM-ENG-48689"
+id: "TRM-ENG-63218"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "second-generation NLS, 2"

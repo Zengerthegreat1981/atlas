@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-human-dignity"
-id: "TRM-ENG-45968"
+id: "TRM-ENG-60497"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of human dignity"

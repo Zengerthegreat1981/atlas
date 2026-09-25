@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp797870-new-york"
-id: "TRM-ENG-36887"
+id: "TRM-ENG-65945"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pp.797–870). New York"

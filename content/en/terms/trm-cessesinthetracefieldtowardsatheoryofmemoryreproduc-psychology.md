@@ -1,6 +1,6 @@
 ---
 slug: "trm-cessesinthetracefieldtowardsatheoryofmemoryreproduc-psychology"
-id: "TRM-ENG-37609"
+id: "TRM-ENG-52138"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cessesinthetrace-field.Towardsatheoryofmemoryreproduc- Psychology"

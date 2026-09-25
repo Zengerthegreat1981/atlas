@@ -1,6 +1,6 @@
 ---
 slug: "trm-ann-clin-psychiatry-20"
-id: "TRM-ENG-47468"
+id: "TRM-ENG-61997"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ann Clin Psychiatry 20"

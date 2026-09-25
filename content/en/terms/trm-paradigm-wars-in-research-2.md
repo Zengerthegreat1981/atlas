@@ -1,6 +1,6 @@
 ---
 slug: "trm-paradigm-wars-in-research-2"
-id: "TRM-ENG-47096"
+id: "TRM-ENG-61625"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Paradigm wars, in research, 2"

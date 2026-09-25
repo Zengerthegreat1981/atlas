@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-process-of-writing-includes-several-steps"
-id: "TRM-ENG-45974"
+id: "TRM-ENG-60503"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The process of writing includes several steps"

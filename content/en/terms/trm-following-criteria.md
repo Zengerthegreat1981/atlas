@@ -1,6 +1,6 @@
 ---
 slug: "trm-following-criteria"
-id: "TRM-ENG-36323"
+id: "TRM-ENG-65381"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "following criteria"

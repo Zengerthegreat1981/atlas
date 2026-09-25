@@ -1,6 +1,6 @@
 ---
 slug: "trm-honorary-doctorate"
-id: "TRM-ENG-36917"
+id: "TRM-ENG-51446"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Honorary doctorate"

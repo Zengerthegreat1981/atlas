@@ -1,6 +1,6 @@
 ---
 slug: "trm-63-parad-h-j-ed-crisis-intervention"
-id: "TRM-ENG-44226"
+id: "TRM-ENG-58755"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "63. Parad, H. J. (Ed.), Crisis Intervention"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-society"
-id: "TRM-ENG-48445"
+id: "TRM-ENG-62974"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of society"

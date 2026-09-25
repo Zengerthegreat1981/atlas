@@ -1,6 +1,6 @@
 ---
 slug: "trm-herkov-mj-blashfield-rk"
-id: "TRM-ENG-47724"
+id: "TRM-ENG-62253"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Herkov MJ, Blashfield RK"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-neurofeedback"
-id: "TRM-ENG-51624"
+id: "TRM-ENG-66153"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "neurofeedback"

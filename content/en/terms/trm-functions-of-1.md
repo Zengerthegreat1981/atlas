@@ -1,6 +1,6 @@
 ---
 slug: "trm-functions-of-1"
-id: "TRM-ENG-40270"
+id: "TRM-ENG-54799"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "functions of, 1"

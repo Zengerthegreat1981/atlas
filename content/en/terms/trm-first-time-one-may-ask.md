@@ -1,6 +1,6 @@
 ---
 slug: "trm-first-time-one-may-ask"
-id: "TRM-ENG-43041"
+id: "TRM-ENG-57570"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "first time one may ask"

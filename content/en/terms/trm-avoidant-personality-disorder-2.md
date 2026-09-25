@@ -1,6 +1,6 @@
 ---
 slug: "trm-avoidant-personality-disorder-2"
-id: "TRM-ENG-39305"
+id: "TRM-ENG-53834"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "avoidant personality disorder, 2"

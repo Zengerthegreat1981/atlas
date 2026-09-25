@@ -1,6 +1,6 @@
 ---
 slug: "trm-work-for-a-variant-on-this-sort-of-argument-differently"
-id: "TRM-ENG-45701"
+id: "TRM-ENG-60230"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "work for a variant on this sort of argument.) differently"

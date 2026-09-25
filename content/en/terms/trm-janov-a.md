@@ -1,6 +1,6 @@
 ---
 slug: "trm-janov-a"
-id: "TRM-ENG-41115"
+id: "TRM-ENG-55644"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Janov A"

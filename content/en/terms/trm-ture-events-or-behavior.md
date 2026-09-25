@@ -1,6 +1,6 @@
 ---
 slug: "trm-ture-events-or-behavior"
-id: "TRM-ENG-45608"
+id: "TRM-ENG-60137"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ture events or behavior"

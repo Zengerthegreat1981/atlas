@@ -1,6 +1,6 @@
 ---
 slug: "trm-cultural-factors-in-2"
-id: "TRM-ENG-39814"
+id: "TRM-ENG-54343"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cultural factors in, 2"

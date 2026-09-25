@@ -1,6 +1,6 @@
 ---
 slug: "trm-submission"
-id: "TRM-ENG-37039"
+id: "TRM-ENG-66097"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "submission"

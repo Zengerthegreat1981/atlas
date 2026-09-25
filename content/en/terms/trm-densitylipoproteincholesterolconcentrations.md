@@ -1,6 +1,6 @@
 ---
 slug: "trm-densitylipoproteincholesterolconcentrations"
-id: "TRM-ENG-46933"
+id: "TRM-ENG-61462"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "densitylipoprotein-cholesterolconcentrations"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-classroom-new-york-ny"
-id: "TRM-ENG-47777"
+id: "TRM-ENG-62306"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "classroom. New York, NY"

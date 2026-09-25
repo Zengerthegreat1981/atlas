@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-primary-target"
-id: "TRM-ENG-45365"
+id: "TRM-ENG-59894"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the primary target"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-opponents-of-3"
-id: "TRM-ENG-41050"
+id: "TRM-ENG-55579"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "opponents of, 3"

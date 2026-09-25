@@ -1,6 +1,6 @@
 ---
 slug: "trm-berti-a-frassinetti-f-2000-when-far-becomes-near"
-id: "TRM-ENG-34583"
+id: "TRM-ENG-63641"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Berti, A., & Frassinetti, F. (2000). When far becomes near"

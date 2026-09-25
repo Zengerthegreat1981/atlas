@@ -1,6 +1,6 @@
 ---
 slug: "trm-withahypnotictechnique"
-id: "TRM-ENG-38450"
+id: "TRM-ENG-52979"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "withahypnotictechnique"

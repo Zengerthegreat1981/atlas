@@ -1,6 +1,6 @@
 ---
 slug: "trm-human-desire-as-such"
-id: "TRM-ENG-45083"
+id: "TRM-ENG-59612"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "human desire as such"

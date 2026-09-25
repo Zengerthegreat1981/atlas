@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-mental-functioning-that-constitutes-consciousness"
-id: "TRM-ENG-38025"
+id: "TRM-ENG-67083"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of mental functioning that constitutes consciousness"

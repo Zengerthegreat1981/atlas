@@ -1,6 +1,6 @@
 ---
 slug: "trm-eccles-jacquelynne-1"
-id: "TRM-ENG-46540"
+id: "TRM-ENG-61069"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Eccles, Jacquelynne, 1"

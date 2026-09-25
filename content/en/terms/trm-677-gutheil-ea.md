@@ -1,6 +1,6 @@
 ---
 slug: "trm-677-gutheil-ea"
-id: "TRM-ENG-39307"
+id: "TRM-ENG-53836"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "677. Gutheil EA"

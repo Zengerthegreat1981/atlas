@@ -1,6 +1,6 @@
 ---
 slug: "trm-counseling-and-psychotherapy-with-religious-persons"
-id: "TRM-ENG-50288"
+id: "TRM-ENG-64817"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Counseling and psychotherapy with religious persons"

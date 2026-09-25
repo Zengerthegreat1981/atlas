@@ -1,6 +1,6 @@
 ---
 slug: "trm-early-changes-across-three-professional-movements"
-id: "TRM-ENG-37997"
+id: "TRM-ENG-67055"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Early changes across three professional movements"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-osophicalreview271918"
-id: "TRM-ENG-45979"
+id: "TRM-ENG-60508"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "osophicalReview27(1918)"

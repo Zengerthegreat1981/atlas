@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-personality-assessment-81-1119-doi"
-id: "TRM-ENG-35991"
+id: "TRM-ENG-65049"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of Personality Assessment, 81, 11–19. doi"

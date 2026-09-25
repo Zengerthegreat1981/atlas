@@ -1,6 +1,6 @@
 ---
 slug: "trm-sometimes-of-a-loving-nature"
-id: "TRM-ENG-48587"
+id: "TRM-ENG-63116"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sometimes of a loving nature"

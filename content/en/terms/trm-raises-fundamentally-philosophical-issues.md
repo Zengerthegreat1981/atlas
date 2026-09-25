@@ -1,6 +1,6 @@
 ---
 slug: "trm-raises-fundamentally-philosophical-issues"
-id: "TRM-ENG-45994"
+id: "TRM-ENG-60523"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "raises fundamentally philosophical issues"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-sabshin-m-normality"
-id: "TRM-ENG-44845"
+id: "TRM-ENG-59374"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____., and Sabshin, M., Normality"

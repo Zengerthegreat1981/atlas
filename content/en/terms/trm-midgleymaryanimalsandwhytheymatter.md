@@ -1,6 +1,6 @@
 ---
 slug: "trm-midgleymaryanimalsandwhytheymatter"
-id: "TRM-ENG-45744"
+id: "TRM-ENG-60273"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Midgley,Mary.AnimalsandWhyTheyMatter"

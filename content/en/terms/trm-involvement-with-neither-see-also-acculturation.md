@@ -1,6 +1,6 @@
 ---
 slug: "trm-involvement-with-neither-see-also-acculturation"
-id: "TRM-ENG-34585"
+id: "TRM-ENG-63643"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(involvement with neither). [See also Acculturation"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-monocultural-term-and-3"
-id: "TRM-ENG-40878"
+id: "TRM-ENG-55407"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "monocultural term and, 3"

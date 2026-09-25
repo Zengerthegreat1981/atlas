@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-prosperity"
-id: "TRM-ENG-48947"
+id: "TRM-ENG-63476"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to prosperity"

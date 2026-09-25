@@ -1,6 +1,6 @@
 ---
 slug: "trm-sputnik-cold-war-and-1"
-id: "TRM-ENG-38807"
+id: "TRM-ENG-53336"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sputnik, Cold War and, 1"

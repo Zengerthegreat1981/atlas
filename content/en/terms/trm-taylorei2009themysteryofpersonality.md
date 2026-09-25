@@ -1,6 +1,6 @@
 ---
 slug: "trm-taylorei2009themysteryofpersonality"
-id: "TRM-ENG-37340"
+id: "TRM-ENG-66398"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Taylor,E.I.(2009).Themysteryofpersonality"

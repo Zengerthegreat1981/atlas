@@ -1,6 +1,6 @@
 ---
 slug: "trm-yamagata-s-suzuki-a-ando-j-et-al"
-id: "TRM-ENG-48155"
+id: "TRM-ENG-62684"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Yamagata S, Suzuki A, Ando J, et al"

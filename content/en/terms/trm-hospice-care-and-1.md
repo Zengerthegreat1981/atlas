@@ -1,6 +1,6 @@
 ---
 slug: "trm-hospice-care-and-1"
-id: "TRM-ENG-40411"
+id: "TRM-ENG-54940"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "hospice care and, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-jaffe-jh-brill-l"
-id: "TRM-ENG-41109"
+id: "TRM-ENG-55638"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jaffe JH, Brill L"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ever-dbt-did-not-prove-superior"
-id: "TRM-ENG-48344"
+id: "TRM-ENG-62873"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ever, DBT did not prove superior"

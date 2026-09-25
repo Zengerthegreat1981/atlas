@@ -1,6 +1,6 @@
 ---
 slug: "trm-tional-theory-which-claims"
-id: "TRM-ENG-38370"
+id: "TRM-ENG-52899"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tional theory” which claims"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-harvath-theresa-1"
-id: "TRM-ENG-38154"
+id: "TRM-ENG-52683"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Harvath, Theresa, 1"

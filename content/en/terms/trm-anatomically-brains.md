@@ -1,6 +1,6 @@
 ---
 slug: "trm-anatomically-brains"
-id: "TRM-ENG-34577"
+id: "TRM-ENG-63635"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Anatomically, brains"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-created"
-id: "TRM-ENG-47833"
+id: "TRM-ENG-62362"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "created"

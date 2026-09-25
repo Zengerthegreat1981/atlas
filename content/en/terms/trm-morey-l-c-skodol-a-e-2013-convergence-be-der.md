@@ -1,6 +1,6 @@
 ---
 slug: "trm-morey-l-c-skodol-a-e-2013-convergence-be-der"
-id: "TRM-ENG-42471"
+id: "TRM-ENG-57000"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Morey, L. C., & Skodol, A. E. (2013). Convergence be- der"

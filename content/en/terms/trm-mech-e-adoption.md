@@ -1,6 +1,6 @@
 ---
 slug: "trm-mech-e-adoption"
-id: "TRM-ENG-44528"
+id: "TRM-ENG-59057"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mech, E., “Adoption"

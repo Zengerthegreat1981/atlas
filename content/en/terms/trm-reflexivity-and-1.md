@@ -1,6 +1,6 @@
 ---
 slug: "trm-reflexivity-and-1"
-id: "TRM-ENG-41448"
+id: "TRM-ENG-55977"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reflexivity and, 1"

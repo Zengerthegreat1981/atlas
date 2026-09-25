@@ -1,6 +1,6 @@
 ---
 slug: "trm-tal-disorders-pp-322-new-york"
-id: "TRM-ENG-43284"
+id: "TRM-ENG-57813"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tal disorders (pp. 3–22). New York"

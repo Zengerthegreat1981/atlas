@@ -1,6 +1,6 @@
 ---
 slug: "trm-weinberg-a-a-migration-and-belonging"
-id: "TRM-ENG-44689"
+id: "TRM-ENG-59218"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Weinberg, A. A., Migration and Belonging"

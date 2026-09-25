@@ -1,6 +1,6 @@
 ---
 slug: "trm-language-learning-disorder-college-age-and-1"
-id: "TRM-ENG-40688"
+id: "TRM-ENG-55217"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "language learning disorder, college age and, 1"

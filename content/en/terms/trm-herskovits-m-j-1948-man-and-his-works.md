@@ -1,6 +1,6 @@
 ---
 slug: "trm-herskovits-m-j-1948-man-and-his-works"
-id: "TRM-ENG-38168"
+id: "TRM-ENG-52697"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Herskovits, M. J. (1948). Man and his works"

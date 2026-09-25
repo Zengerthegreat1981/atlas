@@ -1,6 +1,6 @@
 ---
 slug: "trm-order-journal-of-clinical-psychiatry-59-103107"
-id: "TRM-ENG-43098"
+id: "TRM-ENG-57627"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "order. Journal of Clinical Psychiatry, 59, 103–107."

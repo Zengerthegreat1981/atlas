@@ -1,6 +1,6 @@
 ---
 slug: "trm-plunkett-rj-gordon-je"
-id: "TRM-ENG-41989"
+id: "TRM-ENG-56518"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Plunkett RJ, Gordon JE"

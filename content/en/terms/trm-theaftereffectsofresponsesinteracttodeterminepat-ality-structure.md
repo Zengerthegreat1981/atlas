@@ -1,6 +1,6 @@
 ---
 slug: "trm-theaftereffectsofresponsesinteracttodeterminepat-ality-structure"
-id: "TRM-ENG-38311"
+id: "TRM-ENG-52840"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theaftereffectsofresponsesinteracttodeterminepat- ality structure"

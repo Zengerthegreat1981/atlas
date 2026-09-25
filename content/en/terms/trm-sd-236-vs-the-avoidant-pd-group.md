@@ -1,6 +1,6 @@
 ---
 slug: "trm-sd-236-vs-the-avoidant-pd-group"
-id: "TRM-ENG-43552"
+id: "TRM-ENG-58081"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "SD = 23.6 vs. the avoidant PD group"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-cannabis"
-id: "TRM-ENG-34739"
+id: "TRM-ENG-63797"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and cannabis"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-lewin-k-lippit-r-white-rk"
-id: "TRM-ENG-41436"
+id: "TRM-ENG-55965"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lewin K, Lippit R, White RK"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-competence"
-id: "TRM-ENG-39612"
+id: "TRM-ENG-54141"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "competence"

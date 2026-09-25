@@ -1,6 +1,6 @@
 ---
 slug: "trm-rubin-i-m-increased-selfacceptance"
-id: "TRM-ENG-44610"
+id: "TRM-ENG-59139"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rubin, I. M., “Increased Self-Acceptance"

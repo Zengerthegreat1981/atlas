@@ -1,6 +1,6 @@
 ---
 slug: "trm-adler-g-buie-dh"
-id: "TRM-ENG-39642"
+id: "TRM-ENG-54171"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Adler G, Buie DH"

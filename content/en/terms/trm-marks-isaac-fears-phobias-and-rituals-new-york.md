@@ -1,6 +1,6 @@
 ---
 slug: "trm-marks-isaac-fears-phobias-and-rituals-new-york"
-id: "TRM-ENG-45878"
+id: "TRM-ENG-60407"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Marks, Isaac, Fears, Phobias and Rituals (New York"

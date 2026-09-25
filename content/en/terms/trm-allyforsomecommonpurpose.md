@@ -1,6 +1,6 @@
 ---
 slug: "trm-allyforsomecommonpurpose"
-id: "TRM-ENG-43514"
+id: "TRM-ENG-58043"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "allyforsomecommonpurpose."

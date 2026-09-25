@@ -1,6 +1,6 @@
 ---
 slug: "trm-creativity-pp-1038-new-york-ny"
-id: "TRM-ENG-47835"
+id: "TRM-ENG-62364"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "creativity (pp. 10–38). New York, NY"

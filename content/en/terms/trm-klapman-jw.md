@@ -1,6 +1,6 @@
 ---
 slug: "trm-klapman-jw"
-id: "TRM-ENG-41248"
+id: "TRM-ENG-55777"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Klapman JW"

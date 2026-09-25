@@ -1,6 +1,6 @@
 ---
 slug: "trm-invention-rhetoric-2"
-id: "TRM-ENG-46820"
+id: "TRM-ENG-61349"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Invention (rhetoric), 2"

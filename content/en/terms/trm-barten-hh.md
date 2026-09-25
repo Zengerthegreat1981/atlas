@@ -1,6 +1,6 @@
 ---
 slug: "trm-barten-hh"
-id: "TRM-ENG-39817"
+id: "TRM-ENG-54346"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Barten HH"

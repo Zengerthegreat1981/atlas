@@ -1,6 +1,6 @@
 ---
 slug: "trm-viewsfromaroundtheworldlincolnlondon"
-id: "TRM-ENG-38421"
+id: "TRM-ENG-52950"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "viewsfromaroundtheworld.Lincoln&London"

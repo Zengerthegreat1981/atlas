@@ -1,6 +1,6 @@
 ---
 slug: "trm-sonality-hoboken-nj"
-id: "TRM-ENG-43243"
+id: "TRM-ENG-57772"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sonality. Hoboken, NJ"

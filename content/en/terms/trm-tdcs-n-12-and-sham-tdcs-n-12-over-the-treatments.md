@@ -1,6 +1,6 @@
 ---
 slug: "trm-tdcs-n-12-and-sham-tdcs-n-12-over-the-treatments"
-id: "TRM-ENG-36151"
+id: "TRM-ENG-65209"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tDCS (n = 12), and sham tDCS (n = 12) over the treatments"

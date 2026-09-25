@@ -1,6 +1,6 @@
 ---
 slug: "trm-model-of-personality-also-known-as-the-big-cies"
-id: "TRM-ENG-43014"
+id: "TRM-ENG-57543"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "model of personality, also known as the Big cies"

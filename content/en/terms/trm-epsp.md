@@ -1,6 +1,6 @@
 ---
 slug: "trm-epsp"
-id: "TRM-ENG-34559"
+id: "TRM-ENG-63617"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(EPSP)"

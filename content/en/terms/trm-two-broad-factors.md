@@ -1,6 +1,6 @@
 ---
 slug: "trm-two-broad-factors"
-id: "TRM-ENG-42055"
+id: "TRM-ENG-56584"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "two broad factors"

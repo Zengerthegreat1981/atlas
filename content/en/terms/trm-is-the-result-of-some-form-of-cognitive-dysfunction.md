@@ -1,6 +1,6 @@
 ---
 slug: "trm-is-the-result-of-some-form-of-cognitive-dysfunction"
-id: "TRM-ENG-45242"
+id: "TRM-ENG-59771"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "is the result of some form of cognitive dysfunction"

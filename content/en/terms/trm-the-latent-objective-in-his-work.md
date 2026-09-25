@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-latent-objective-in-his-work"
-id: "TRM-ENG-48841"
+id: "TRM-ENG-63370"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the latent objective in his work"

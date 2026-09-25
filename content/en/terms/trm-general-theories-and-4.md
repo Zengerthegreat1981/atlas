@@ -1,6 +1,6 @@
 ---
 slug: "trm-general-theories-and-4"
-id: "TRM-ENG-40298"
+id: "TRM-ENG-54827"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "general theories and, 4"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-illnesspp3259newyork"
-id: "TRM-ENG-47030"
+id: "TRM-ENG-61559"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "illness(pp32±59).NewYork"

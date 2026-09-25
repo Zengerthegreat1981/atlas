@@ -1,6 +1,6 @@
 ---
 slug: "trm-ciobiology-freedman-1979"
-id: "TRM-ENG-34938"
+id: "TRM-ENG-49467"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ciobiology (Freedman, 1979"

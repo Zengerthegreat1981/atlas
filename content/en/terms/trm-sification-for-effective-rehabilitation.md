@@ -1,6 +1,6 @@
 ---
 slug: "trm-sification-for-effective-rehabilitation"
-id: "TRM-ENG-43213"
+id: "TRM-ENG-57742"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sification for effective rehabilitation"

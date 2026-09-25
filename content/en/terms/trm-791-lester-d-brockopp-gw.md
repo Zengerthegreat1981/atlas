@@ -1,6 +1,6 @@
 ---
 slug: "trm-791-lester-d-brockopp-gw"
-id: "TRM-ENG-39444"
+id: "TRM-ENG-53973"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "791. Lester D, Brockopp GW"

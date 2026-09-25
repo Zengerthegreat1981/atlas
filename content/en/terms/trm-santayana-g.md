@@ -1,6 +1,6 @@
 ---
 slug: "trm-santayana-g"
-id: "TRM-ENG-42236"
+id: "TRM-ENG-56765"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Santayana G"

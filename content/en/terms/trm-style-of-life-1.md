@@ -1,6 +1,6 @@
 ---
 slug: "trm-style-of-life-1"
-id: "TRM-ENG-51074"
+id: "TRM-ENG-65603"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Style of life, 1"

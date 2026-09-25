@@ -1,6 +1,6 @@
 ---
 slug: "trm-thorndikeel1926themeasurementofintelligencenewyork"
-id: "TRM-ENG-37373"
+id: "TRM-ENG-66431"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Thorndike,E.L.(1926).Themeasurementofintelligence.NewYork"

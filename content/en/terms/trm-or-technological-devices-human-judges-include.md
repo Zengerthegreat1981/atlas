@@ -1,6 +1,6 @@
 ---
 slug: "trm-or-technological-devices-human-judges-include"
-id: "TRM-ENG-35205"
+id: "TRM-ENG-64263"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "or technological devices. Human judges include"

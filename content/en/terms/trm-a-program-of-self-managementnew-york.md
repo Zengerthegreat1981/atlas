@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-program-of-self-managementnew-york"
-id: "TRM-ENG-37503"
+id: "TRM-ENG-66561"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "A program of self management.New York"

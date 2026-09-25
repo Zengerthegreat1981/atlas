@@ -1,6 +1,6 @@
 ---
 slug: "trm-5-integration-and-synthesis"
-id: "TRM-ENG-42296"
+id: "TRM-ENG-56825"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "5. Integration and synthesis"

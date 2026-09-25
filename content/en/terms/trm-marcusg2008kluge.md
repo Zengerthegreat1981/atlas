@@ -1,6 +1,6 @@
 ---
 slug: "trm-marcusg2008kluge"
-id: "TRM-ENG-37050"
+id: "TRM-ENG-51579"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Marcus,G.(2008).Kluge"

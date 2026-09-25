@@ -1,6 +1,6 @@
 ---
 slug: "trm-using-rote-memorizatim"
-id: "TRM-ENG-35444"
+id: "TRM-ENG-64502"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "using rote memorizatim"

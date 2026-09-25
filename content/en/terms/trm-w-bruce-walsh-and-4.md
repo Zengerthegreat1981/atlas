@@ -1,6 +1,6 @@
 ---
 slug: "trm-w-bruce-walsh-and-4"
-id: "TRM-ENG-38991"
+id: "TRM-ENG-53520"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "W. Bruce Walsh and, 4"

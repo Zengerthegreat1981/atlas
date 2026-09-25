@@ -1,6 +1,6 @@
 ---
 slug: "trm-wolberg-a"
-id: "TRM-ENG-42840"
+id: "TRM-ENG-57369"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wolberg A"

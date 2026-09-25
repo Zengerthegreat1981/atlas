@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognition-in-schizophrenia"
-id: "TRM-ENG-34794"
+id: "TRM-ENG-63852"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cognition in schizophrenia"

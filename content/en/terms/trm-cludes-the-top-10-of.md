@@ -1,6 +1,6 @@
 ---
 slug: "trm-cludes-the-top-10-of"
-id: "TRM-ENG-34946"
+id: "TRM-ENG-64004"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cludes the top 10%) of"

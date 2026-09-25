@@ -1,6 +1,6 @@
 ---
 slug: "trm-body-parts"
-id: "TRM-ENG-34771"
+id: "TRM-ENG-49300"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "body parts"

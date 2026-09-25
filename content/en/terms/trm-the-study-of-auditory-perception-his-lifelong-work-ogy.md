@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-study-of-auditory-perception-his-lifelong-work-ogy"
-id: "TRM-ENG-38308"
+id: "TRM-ENG-52837"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the study of auditory perception, his lifelong work, ogy"

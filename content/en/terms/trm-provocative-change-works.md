@@ -1,6 +1,6 @@
 ---
 slug: "trm-provocative-change-works"
-id: "TRM-ENG-50883"
+id: "TRM-ENG-65412"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Provocative Change Works"

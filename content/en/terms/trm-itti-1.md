@@ -1,6 +1,6 @@
 ---
 slug: "trm-itti-1"
-id: "TRM-ENG-49926"
+id: "TRM-ENG-64455"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(ITTI), 1"

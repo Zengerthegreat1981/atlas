@@ -1,6 +1,6 @@
 ---
 slug: "trm-bennett-r-e-2"
-id: "TRM-ENG-46293"
+id: "TRM-ENG-60822"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bennett, R. E., 2"

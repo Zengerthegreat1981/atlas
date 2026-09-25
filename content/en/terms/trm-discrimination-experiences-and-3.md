@@ -1,6 +1,6 @@
 ---
 slug: "trm-discrimination-experiences-and-3"
-id: "TRM-ENG-39951"
+id: "TRM-ENG-54480"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "discrimination experiences and, 3"

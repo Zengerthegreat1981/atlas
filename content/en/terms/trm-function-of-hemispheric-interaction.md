@@ -1,6 +1,6 @@
 ---
 slug: "trm-function-of-hemispheric-interaction"
-id: "TRM-ENG-48359"
+id: "TRM-ENG-62888"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "function of hemispheric interaction"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-water-and-land-rights-protection-and-3"
-id: "TRM-ENG-42142"
+id: "TRM-ENG-56671"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "water and land rights protection and, 3"

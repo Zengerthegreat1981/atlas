@@ -1,6 +1,6 @@
 ---
 slug: "trm-7-develop-positive-coping-selfstatements-cid"
-id: "TRM-ENG-45733"
+id: "TRM-ENG-60262"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "7. Develop positive, coping self-statements. (cid"

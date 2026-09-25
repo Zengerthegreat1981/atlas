@@ -1,6 +1,6 @@
 ---
 slug: "trm-eurocentric-perspective-on-3"
-id: "TRM-ENG-38045"
+id: "TRM-ENG-52574"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Eurocentric perspective on, 3"

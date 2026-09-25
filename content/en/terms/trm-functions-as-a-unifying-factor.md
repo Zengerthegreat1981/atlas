@@ -1,6 +1,6 @@
 ---
 slug: "trm-functions-as-a-unifying-factor"
-id: "TRM-ENG-45054"
+id: "TRM-ENG-59583"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "functions as a unifying factor"

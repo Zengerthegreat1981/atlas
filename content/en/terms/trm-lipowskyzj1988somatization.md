@@ -1,6 +1,6 @@
 ---
 slug: "trm-lipowskyzj1988somatization"
-id: "TRM-ENG-49065"
+id: "TRM-ENG-63594"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lipowsky,Z.J.(1988).Somatization"

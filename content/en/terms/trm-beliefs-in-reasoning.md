@@ -1,6 +1,6 @@
 ---
 slug: "trm-beliefs-in-reasoning"
-id: "TRM-ENG-36312"
+id: "TRM-ENG-65370"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "beliefs in reasoning"

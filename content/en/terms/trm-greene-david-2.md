@@ -1,6 +1,6 @@
 ---
 slug: "trm-greene-david-2"
-id: "TRM-ENG-38126"
+id: "TRM-ENG-52655"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Greene, David, 2"

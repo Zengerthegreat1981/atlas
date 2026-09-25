@@ -1,6 +1,6 @@
 ---
 slug: "trm-longterm-transfer"
-id: "TRM-ENG-45278"
+id: "TRM-ENG-59807"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "long-term transfer"

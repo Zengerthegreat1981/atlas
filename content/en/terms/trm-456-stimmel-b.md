@@ -1,6 +1,6 @@
 ---
 slug: "trm-456-stimmel-b"
-id: "TRM-ENG-39047"
+id: "TRM-ENG-53576"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "456. Stimmel B"

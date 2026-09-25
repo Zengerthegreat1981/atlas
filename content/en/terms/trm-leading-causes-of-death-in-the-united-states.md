@@ -1,6 +1,6 @@
 ---
 slug: "trm-leading-causes-of-death-in-the-united-states"
-id: "TRM-ENG-40693"
+id: "TRM-ENG-55222"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "leading causes of death in the United States"

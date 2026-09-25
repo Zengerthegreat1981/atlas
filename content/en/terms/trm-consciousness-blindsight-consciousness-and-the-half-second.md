@@ -1,6 +1,6 @@
 ---
 slug: "trm-consciousness-blindsight-consciousness-and-the-half-second"
-id: "TRM-ENG-44400"
+id: "TRM-ENG-58929"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Consciousness; Blindsight; Consciousness and the half second"

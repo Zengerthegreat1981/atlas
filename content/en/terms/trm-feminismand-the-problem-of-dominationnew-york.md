@@ -1,6 +1,6 @@
 ---
 slug: "trm-feminismand-the-problem-of-dominationnew-york"
-id: "TRM-ENG-40199"
+id: "TRM-ENG-54728"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "feminism,and the problem of domination.New York"

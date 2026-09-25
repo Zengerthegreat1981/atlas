@@ -1,6 +1,6 @@
 ---
 slug: "trm-gastrointestinal-disease"
-id: "TRM-ENG-43053"
+id: "TRM-ENG-57582"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "gastrointestinal disease"

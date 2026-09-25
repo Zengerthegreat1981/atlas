@@ -1,6 +1,6 @@
 ---
 slug: "trm-anewnomenclatureofthemuscleslondon"
-id: "TRM-ENG-37540"
+id: "TRM-ENG-52069"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "anewnomenclatureofthemuscles.London"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-kramer-bm"
-id: "TRM-ENG-41301"
+id: "TRM-ENG-55830"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kramer BM"

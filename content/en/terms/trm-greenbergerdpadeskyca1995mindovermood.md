@@ -1,6 +1,6 @@
 ---
 slug: "trm-greenbergerdpadeskyca1995mindovermood"
-id: "TRM-ENG-49007"
+id: "TRM-ENG-63536"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Greenberger,D.,&Padesky,C.A.(1995).Mindovermood"

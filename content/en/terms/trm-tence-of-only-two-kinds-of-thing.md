@@ -1,6 +1,6 @@
 ---
 slug: "trm-tence-of-only-two-kinds-of-thing"
-id: "TRM-ENG-45558"
+id: "TRM-ENG-60087"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tence of only two kinds of thing"

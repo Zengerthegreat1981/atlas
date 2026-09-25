@@ -1,6 +1,6 @@
 ---
 slug: "trm-bruce-b-agras-w-s-1992-binge-eating-in-females"
-id: "TRM-ENG-34645"
+id: "TRM-ENG-63703"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bruce, B.. & Agras, W. S. (1992). Binge eating in females"

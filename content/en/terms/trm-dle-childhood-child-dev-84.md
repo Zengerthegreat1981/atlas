@@ -1,6 +1,6 @@
 ---
 slug: "trm-dle-childhood-child-dev-84"
-id: "TRM-ENG-48328"
+id: "TRM-ENG-62857"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dle childhood. Child Dev 84"

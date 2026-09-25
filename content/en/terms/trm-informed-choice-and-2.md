@@ -1,6 +1,6 @@
 ---
 slug: "trm-informed-choice-and-2"
-id: "TRM-ENG-40546"
+id: "TRM-ENG-55075"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "informed choice and, 2"

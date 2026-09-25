@@ -1,6 +1,6 @@
 ---
 slug: "trm-viewing"
-id: "TRM-ENG-43418"
+id: "TRM-ENG-57947"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "viewing"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-metronomeconditioned-relaxation"
-id: "TRM-ENG-43107"
+id: "TRM-ENG-57636"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "metronome-conditioned relaxation"

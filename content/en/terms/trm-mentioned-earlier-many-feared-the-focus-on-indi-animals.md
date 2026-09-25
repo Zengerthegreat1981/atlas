@@ -1,6 +1,6 @@
 ---
 slug: "trm-mentioned-earlier-many-feared-the-focus-on-indi-animals"
-id: "TRM-ENG-48339"
+id: "TRM-ENG-62868"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mentioned earlier, many feared the focus on indi- animals"

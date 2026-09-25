@@ -1,6 +1,6 @@
 ---
 slug: "trm-disciplines"
-id: "TRM-ENG-47889"
+id: "TRM-ENG-62418"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disciplines"

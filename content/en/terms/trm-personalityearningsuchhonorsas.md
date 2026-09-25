@@ -1,6 +1,6 @@
 ---
 slug: "trm-personalityearningsuchhonorsas"
-id: "TRM-ENG-37171"
+id: "TRM-ENG-66229"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Personality,earningsuchhonorsas"

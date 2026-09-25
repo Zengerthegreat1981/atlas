@@ -1,6 +1,6 @@
 ---
 slug: "trm-among-others"
-id: "TRM-ENG-43452"
+id: "TRM-ENG-57981"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(among others)"

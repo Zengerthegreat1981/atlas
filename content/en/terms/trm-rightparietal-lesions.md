@@ -1,6 +1,6 @@
 ---
 slug: "trm-rightparietal-lesions"
-id: "TRM-ENG-35023"
+id: "TRM-ENG-64081"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "right-parietal lesions"

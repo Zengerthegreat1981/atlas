@@ -1,6 +1,6 @@
 ---
 slug: "trm-rational-emotive-behavior-therapy-amherst-ny"
-id: "TRM-ENG-51772"
+id: "TRM-ENG-66301"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rational emotive behavior therapy. Amherst, NY"

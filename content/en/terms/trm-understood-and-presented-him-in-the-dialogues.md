@@ -1,6 +1,6 @@
 ---
 slug: "trm-understood-and-presented-him-in-the-dialogues"
-id: "TRM-ENG-48995"
+id: "TRM-ENG-63524"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "understood and presented him in the dialogues"

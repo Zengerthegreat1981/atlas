@@ -1,6 +1,6 @@
 ---
 slug: "trm-noam-chomsky-among-them"
-id: "TRM-ENG-47067"
+id: "TRM-ENG-61596"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Noam Chomsky among them"

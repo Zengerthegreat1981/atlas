@@ -1,6 +1,6 @@
 ---
 slug: "trm-cal-psychological-and-sociological"
-id: "TRM-ENG-43565"
+id: "TRM-ENG-58094"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cal, psychological, and sociological"

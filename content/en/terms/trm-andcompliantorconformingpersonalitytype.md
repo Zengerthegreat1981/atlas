@@ -1,6 +1,6 @@
 ---
 slug: "trm-andcompliantorconformingpersonalitytype"
-id: "TRM-ENG-43528"
+id: "TRM-ENG-58057"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "andcompliant,orconforming,personalitytype"

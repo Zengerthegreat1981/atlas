@@ -1,6 +1,6 @@
 ---
 slug: "trm-responses-neuroimage-8-360369-doi"
-id: "TRM-ENG-36087"
+id: "TRM-ENG-65145"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "responses. NeuroImage, 8, 360–369. doi"

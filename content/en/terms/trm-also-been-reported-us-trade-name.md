@@ -1,6 +1,6 @@
 ---
 slug: "trm-also-been-reported-us-trade-name"
-id: "TRM-ENG-43516"
+id: "TRM-ENG-58045"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "also been reported. U.S. trade name"

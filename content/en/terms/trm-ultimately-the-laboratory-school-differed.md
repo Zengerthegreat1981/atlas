@@ -1,6 +1,6 @@
 ---
 slug: "trm-ultimately-the-laboratory-school-differed"
-id: "TRM-ENG-48992"
+id: "TRM-ENG-63521"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ultimately the Laboratory School differed"

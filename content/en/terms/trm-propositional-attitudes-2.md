@@ -1,6 +1,6 @@
 ---
 slug: "trm-propositional-attitudes-2"
-id: "TRM-ENG-45450"
+id: "TRM-ENG-59979"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "propositional attitudes, 2"

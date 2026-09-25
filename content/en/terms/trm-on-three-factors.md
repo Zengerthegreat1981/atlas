@@ -1,6 +1,6 @@
 ---
 slug: "trm-on-three-factors"
-id: "TRM-ENG-35194"
+id: "TRM-ENG-64252"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "on three factors"

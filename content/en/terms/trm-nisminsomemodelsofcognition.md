@@ -1,6 +1,6 @@
 ---
 slug: "trm-nisminsomemodelsofcognition"
-id: "TRM-ENG-43756"
+id: "TRM-ENG-58285"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nisminsomemodelsofcognition"

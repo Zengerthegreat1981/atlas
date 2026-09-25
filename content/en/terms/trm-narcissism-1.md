@@ -1,6 +1,6 @@
 ---
 slug: "trm-narcissism-1"
-id: "TRM-ENG-50783"
+id: "TRM-ENG-65312"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Narcissism, 1"

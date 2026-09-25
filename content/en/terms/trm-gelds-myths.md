@@ -1,6 +1,6 @@
 ---
 slug: "trm-gelds-myths"
-id: "TRM-ENG-49454"
+id: "TRM-ENG-63983"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "geld's myths"

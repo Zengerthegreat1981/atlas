@@ -1,6 +1,6 @@
 ---
 slug: "trm-hartling-l-m-2008-jean-baker-miller"
-id: "TRM-ENG-50518"
+id: "TRM-ENG-65047"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hartling, L. M. (2008). Jean Baker Miller"

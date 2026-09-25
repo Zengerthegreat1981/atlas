@@ -1,6 +1,6 @@
 ---
 slug: "trm-nonpersonal-areas"
-id: "TRM-ENG-43116"
+id: "TRM-ENG-57645"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nonpersonal areas"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-nelsongray-eds-the-scientistpractitioner"
-id: "TRM-ENG-35859"
+id: "TRM-ENG-50388"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nelson-Gray (Eds.), The scientist-practitioner"

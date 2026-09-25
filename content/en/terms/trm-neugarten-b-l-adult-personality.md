@@ -1,6 +1,6 @@
 ---
 slug: "trm-neugarten-b-l-adult-personality"
-id: "TRM-ENG-44548"
+id: "TRM-ENG-59077"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Neugarten, B. L., “Adult Personality"

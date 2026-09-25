@@ -1,6 +1,6 @@
 ---
 slug: "trm-rank-3"
-id: "TRM-ENG-45533"
+id: "TRM-ENG-60062"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rank 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-336-freire-paulo"
-id: "TRM-ENG-46170"
+id: "TRM-ENG-60699"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "336 Freire, Paulo"

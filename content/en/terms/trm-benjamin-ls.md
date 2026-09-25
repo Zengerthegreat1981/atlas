@@ -1,6 +1,6 @@
 ---
 slug: "trm-benjamin-ls"
-id: "TRM-ENG-47502"
+id: "TRM-ENG-62031"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Benjamin LS"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-supers-theory4"
-id: "TRM-ENG-38852"
+id: "TRM-ENG-53381"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Super’s theory,4"

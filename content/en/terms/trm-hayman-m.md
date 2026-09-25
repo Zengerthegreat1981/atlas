@@ -1,6 +1,6 @@
 ---
 slug: "trm-hayman-m"
-id: "TRM-ENG-40950"
+id: "TRM-ENG-55479"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hayman M"

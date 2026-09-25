@@ -1,6 +1,6 @@
 ---
 slug: "trm-litt-theodor-1"
-id: "TRM-ENG-46939"
+id: "TRM-ENG-61468"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Litt, Theodor, 1"

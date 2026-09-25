@@ -1,6 +1,6 @@
 ---
 slug: "trm-used-to-treat-children-as-well-as-adults-whose-diagnoses-see-also"
-id: "TRM-ENG-37271"
+id: "TRM-ENG-66329"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "used to treat children as well as adults whose diagnoses See also"

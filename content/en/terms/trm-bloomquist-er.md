@@ -1,6 +1,6 @@
 ---
 slug: "trm-bloomquist-er"
-id: "TRM-ENG-39975"
+id: "TRM-ENG-54504"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bloomquist ER"

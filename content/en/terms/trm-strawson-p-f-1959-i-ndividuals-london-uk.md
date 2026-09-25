@@ -1,6 +1,6 @@
 ---
 slug: "trm-strawson-p-f-1959-i-ndividuals-london-uk"
-id: "TRM-ENG-44795"
+id: "TRM-ENG-59324"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Strawson, P. F. (1959). I ndividuals. London, UK"

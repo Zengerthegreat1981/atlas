@@ -1,6 +1,6 @@
 ---
 slug: "trm-stream-and-constructive-psychotherapy"
-id: "TRM-ENG-51845"
+id: "TRM-ENG-66374"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stream, and Constructive Psychotherapy"

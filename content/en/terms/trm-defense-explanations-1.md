@@ -1,6 +1,6 @@
 ---
 slug: "trm-defense-explanations-1"
-id: "TRM-ENG-45055"
+id: "TRM-ENG-59584"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "defense explanations, 1"

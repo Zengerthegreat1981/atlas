@@ -1,6 +1,6 @@
 ---
 slug: "trm-parsons-t-1966-societies"
-id: "TRM-ENG-47106"
+id: "TRM-ENG-61635"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Parsons, T. (1966). Societies"

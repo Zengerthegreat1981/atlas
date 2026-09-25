@@ -1,6 +1,6 @@
 ---
 slug: "trm-philosophy2volsaldershot"
-id: "TRM-ENG-45764"
+id: "TRM-ENG-60293"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Philosophy.2vols.Aldershot"

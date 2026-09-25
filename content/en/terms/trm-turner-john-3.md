@@ -1,6 +1,6 @@
 ---
 slug: "trm-turner-john-3"
-id: "TRM-ENG-38945"
+id: "TRM-ENG-53474"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Turner, John, 3"

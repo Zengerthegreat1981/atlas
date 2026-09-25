@@ -1,6 +1,6 @@
 ---
 slug: "trm-having-hurt-mistreated-or-stolen-5-risk-taking-an-aspect-of-disinhibition"
-id: "TRM-ENG-48375"
+id: "TRM-ENG-62904"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "having hurt, mistreated, or stolen 5. Risk taking (an aspect of Disinhibition)"

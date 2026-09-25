@@ -1,6 +1,6 @@
 ---
 slug: "trm-abilities-measurement-of-1"
-id: "TRM-ENG-46193"
+id: "TRM-ENG-60722"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Abilities, measurement of, 1"

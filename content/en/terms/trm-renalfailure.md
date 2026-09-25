@@ -1,6 +1,6 @@
 ---
 slug: "trm-renalfailure"
-id: "TRM-ENG-47253"
+id: "TRM-ENG-61782"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "renalfailure"

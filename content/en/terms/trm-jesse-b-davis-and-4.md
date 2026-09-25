@@ -1,6 +1,6 @@
 ---
 slug: "trm-jesse-b-davis-and-4"
-id: "TRM-ENG-38287"
+id: "TRM-ENG-52816"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jesse B. Davis and, 4"

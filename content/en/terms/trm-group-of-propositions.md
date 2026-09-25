@@ -1,6 +1,6 @@
 ---
 slug: "trm-group-of-propositions"
-id: "TRM-ENG-36498"
+id: "TRM-ENG-65556"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "group of propositions"

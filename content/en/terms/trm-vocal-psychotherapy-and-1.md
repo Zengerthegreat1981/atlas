@@ -1,6 +1,6 @@
 ---
 slug: "trm-vocal-psychotherapy-and-1"
-id: "TRM-ENG-42127"
+id: "TRM-ENG-56656"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "vocal psychotherapy and, 1"

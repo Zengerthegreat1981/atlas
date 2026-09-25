@@ -1,6 +1,6 @@
 ---
 slug: "trm-hobfoll-s-e-1988-the-ecology-of-stressnew-york"
-id: "TRM-ENG-38182"
+id: "TRM-ENG-52711"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hobfoll, S. E. (1988). The ecology of stress.New York"

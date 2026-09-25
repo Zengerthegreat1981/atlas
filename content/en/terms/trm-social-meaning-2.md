@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-meaning-2"
-id: "TRM-ENG-47305"
+id: "TRM-ENG-61834"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Social meaning, 2"

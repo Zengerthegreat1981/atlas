@@ -1,6 +1,6 @@
 ---
 slug: "trm-monly-occurring-in-individual-representations"
-id: "TRM-ENG-47131"
+id: "TRM-ENG-61660"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "monly occurring in individual representations"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-structuralism-2"
-id: "TRM-ENG-47358"
+id: "TRM-ENG-61887"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Structuralism, 2"

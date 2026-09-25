@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapeutic-abortion"
-id: "TRM-ENG-44838"
+id: "TRM-ENG-59367"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, “Therapeutic Abortion"

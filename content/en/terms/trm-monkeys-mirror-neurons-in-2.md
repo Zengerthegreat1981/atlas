@@ -1,6 +1,6 @@
 ---
 slug: "trm-monkeys-mirror-neurons-in-2"
-id: "TRM-ENG-44634"
+id: "TRM-ENG-59163"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Monkeys, mirror neurons in, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-geertsma-rh-et-al"
-id: "TRM-ENG-40677"
+id: "TRM-ENG-55206"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Geertsma RH, et al"

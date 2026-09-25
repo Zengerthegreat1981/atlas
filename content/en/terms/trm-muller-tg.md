@@ -1,6 +1,6 @@
 ---
 slug: "trm-muller-tg"
-id: "TRM-ENG-41787"
+id: "TRM-ENG-56316"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Muller TG"

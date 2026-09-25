@@ -1,6 +1,6 @@
 ---
 slug: "trm-clinical-neuropsychology"
-id: "TRM-ENG-50246"
+id: "TRM-ENG-64775"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Clinical neuropsychology"

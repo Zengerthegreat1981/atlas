@@ -1,6 +1,6 @@
 ---
 slug: "trm-contrasts-and-effect-sizes-in-behavioral-research"
-id: "TRM-ENG-35348"
+id: "TRM-ENG-64406"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Contrasts and effect sizes in behavioral research"

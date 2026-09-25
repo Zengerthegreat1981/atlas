@@ -1,6 +1,6 @@
 ---
 slug: "trm-maslowshierarchyofneeds"
-id: "TRM-ENG-37056"
+id: "TRM-ENG-66114"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Maslow’sHierarchyofNeeds"

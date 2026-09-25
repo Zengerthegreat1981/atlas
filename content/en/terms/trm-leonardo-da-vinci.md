@@ -1,6 +1,6 @@
 ---
 slug: "trm-leonardo-da-vinci"
-id: "TRM-ENG-44705"
+id: "TRM-ENG-59234"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____ , Leonardo da Vinci"

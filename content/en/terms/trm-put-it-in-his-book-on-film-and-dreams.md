@@ -1,6 +1,6 @@
 ---
 slug: "trm-put-it-in-his-book-on-film-and-dreams"
-id: "TRM-ENG-38177"
+id: "TRM-ENG-52706"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "put it in his book on film and dreams"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-nhat-hanh-t-1991-peace-is-every-step"
-id: "TRM-ENG-50798"
+id: "TRM-ENG-65327"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nhat Hanh, T. (1991). Peace is every step"

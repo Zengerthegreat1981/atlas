@@ -1,6 +1,6 @@
 ---
 slug: "trm-links-ps-heslegrave-rj"
-id: "TRM-ENG-47843"
+id: "TRM-ENG-62372"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Links PS, Heslegrave RJ"

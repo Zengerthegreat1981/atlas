@@ -1,6 +1,6 @@
 ---
 slug: "trm-glavingb1992dopamine"
-id: "TRM-ENG-46527"
+id: "TRM-ENG-61056"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Glavin,G.B.(1992).Dopamine"

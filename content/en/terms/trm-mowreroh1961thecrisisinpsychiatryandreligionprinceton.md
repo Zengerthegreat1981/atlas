@@ -1,6 +1,6 @@
 ---
 slug: "trm-mowreroh1961thecrisisinpsychiatryandreligionprinceton"
-id: "TRM-ENG-37095"
+id: "TRM-ENG-51624"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mowrer,O.H.(1961).Thecrisisinpsychiatryandreligion.Princeton"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-hatfield-e-rapson-r-l-1996-love-and-sex"
-id: "TRM-ENG-44519"
+id: "TRM-ENG-59048"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hatfield, E., & Rapson, R. L. (1996). Love and sex"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-stressed-the-interaction-of-individual-eg-learn-and-motivation"
-id: "TRM-ENG-48760"
+id: "TRM-ENG-63289"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stressed the interaction of individual (e.g., learn- and motivation"

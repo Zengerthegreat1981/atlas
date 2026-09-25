@@ -1,6 +1,6 @@
 ---
 slug: "trm-austin-j-l-1"
-id: "TRM-ENG-46264"
+id: "TRM-ENG-60793"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Austin, J. L., 1"

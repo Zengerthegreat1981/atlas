@@ -1,6 +1,6 @@
 ---
 slug: "trm-criterion-referent"
-id: "TRM-ENG-42747"
+id: "TRM-ENG-57276"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "criterion referent"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-l-k-wise-c-m-1985-rheumatoid-arthritis"
-id: "TRM-ENG-46595"
+id: "TRM-ENG-61124"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "L. K., & Wise, C. M. (1985). Rheumatoid arthritis"

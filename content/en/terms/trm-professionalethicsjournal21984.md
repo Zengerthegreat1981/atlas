@@ -1,6 +1,6 @@
 ---
 slug: "trm-professionalethicsjournal21984"
-id: "TRM-ENG-45766"
+id: "TRM-ENG-60295"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ProfessionalEthicsJournal2(1984)"

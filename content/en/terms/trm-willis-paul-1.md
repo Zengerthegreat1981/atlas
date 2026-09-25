@@ -1,6 +1,6 @@
 ---
 slug: "trm-willis-paul-1"
-id: "TRM-ENG-47492"
+id: "TRM-ENG-62021"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Willis, Paul, 1"

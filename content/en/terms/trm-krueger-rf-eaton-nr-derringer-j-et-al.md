@@ -1,6 +1,6 @@
 ---
 slug: "trm-krueger-rf-eaton-nr-derringer-j-et-al"
-id: "TRM-ENG-47811"
+id: "TRM-ENG-62340"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Krueger RF, Eaton NR, Derringer J, et al"

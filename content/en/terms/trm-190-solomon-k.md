@@ -1,6 +1,6 @@
 ---
 slug: "trm-190-solomon-k"
-id: "TRM-ENG-38676"
+id: "TRM-ENG-53205"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "190. Solomon K"

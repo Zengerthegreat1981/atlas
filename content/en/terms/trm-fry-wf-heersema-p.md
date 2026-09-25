@@ -1,6 +1,6 @@
 ---
 slug: "trm-fry-wf-heersema-p"
-id: "TRM-ENG-40637"
+id: "TRM-ENG-55166"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fry WF, Heersema P"

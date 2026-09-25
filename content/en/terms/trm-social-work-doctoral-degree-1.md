@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-work-doctoral-degree-1"
-id: "TRM-ENG-41715"
+id: "TRM-ENG-56244"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social work doctoral degree, 1"

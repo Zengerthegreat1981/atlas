@@ -1,6 +1,6 @@
 ---
 slug: "trm-american-indian-people"
-id: "TRM-ENG-37583"
+id: "TRM-ENG-66641"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "American Indian people"

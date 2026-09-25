@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-the-same-image"
-id: "TRM-ENG-34968"
+id: "TRM-ENG-64026"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of the same image"

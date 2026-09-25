@@ -1,6 +1,6 @@
 ---
 slug: "trm-population-coding-1"
-id: "TRM-ENG-44696"
+id: "TRM-ENG-59225"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Population coding, 1"

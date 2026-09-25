@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-situations-that-become-associated-with-fear-cues-such-as-condition"
-id: "TRM-ENG-36554"
+id: "TRM-ENG-65612"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in situations that become associated with fear cues, such as condition"

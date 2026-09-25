@@ -1,6 +1,6 @@
 ---
 slug: "trm-measures-in-diabetes-clinics"
-id: "TRM-ENG-47099"
+id: "TRM-ENG-61628"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "measures in diabetes clinics"

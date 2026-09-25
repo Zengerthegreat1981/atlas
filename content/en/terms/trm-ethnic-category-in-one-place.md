@@ -1,6 +1,6 @@
 ---
 slug: "trm-ethnic-category-in-one-place"
-id: "TRM-ENG-47995"
+id: "TRM-ENG-62524"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ethnic category in one place"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-creer-tl-kotses-h"
-id: "TRM-ENG-40265"
+id: "TRM-ENG-54794"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Creer TL, Kotses H"

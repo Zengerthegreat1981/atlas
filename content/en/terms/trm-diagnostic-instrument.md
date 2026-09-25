@@ -1,6 +1,6 @@
 ---
 slug: "trm-diagnostic-instrument"
-id: "TRM-ENG-34807"
+id: "TRM-ENG-63865"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "diagnostic instrument"

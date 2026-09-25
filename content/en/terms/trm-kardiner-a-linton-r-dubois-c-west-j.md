@@ -1,6 +1,6 @@
 ---
 slug: "trm-kardiner-a-linton-r-dubois-c-west-j"
-id: "TRM-ENG-41195"
+id: "TRM-ENG-55724"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kardiner A, Linton R, DuBois C, West J"

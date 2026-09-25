@@ -1,6 +1,6 @@
 ---
 slug: "trm-anterior-communicating-artery"
-id: "TRM-ENG-44914"
+id: "TRM-ENG-59443"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "anterior communicating artery"

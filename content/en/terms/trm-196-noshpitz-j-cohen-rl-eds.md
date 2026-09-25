@@ -1,6 +1,6 @@
 ---
 slug: "trm-196-noshpitz-j-cohen-rl-eds"
-id: "TRM-ENG-38684"
+id: "TRM-ENG-53213"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "196. Noshpitz J, Cohen RL (eds)"

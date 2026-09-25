@@ -1,6 +1,6 @@
 ---
 slug: "trm-stability-and-change-in-personality-disorder-features"
-id: "TRM-ENG-43249"
+id: "TRM-ENG-57778"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stability and change in personality disorder features"

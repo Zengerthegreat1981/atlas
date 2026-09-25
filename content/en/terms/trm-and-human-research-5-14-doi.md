@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-human-research-5-14-doi"
-id: "TRM-ENG-35642"
+id: "TRM-ENG-50171"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and Human Research, 5, 1–4. doi"

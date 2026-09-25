@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-different-ways-as-a-consequence-the-advantages-and-tal-status-schedule"
-id: "TRM-ENG-36549"
+id: "TRM-ENG-51078"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in different ways. As a consequence, the advantages and tal Status Schedule"

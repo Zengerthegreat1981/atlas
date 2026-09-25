@@ -1,6 +1,6 @@
 ---
 slug: "trm-708-freud-s"
-id: "TRM-ENG-39351"
+id: "TRM-ENG-53880"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "708. Freud S"

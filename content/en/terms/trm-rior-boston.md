@@ -1,6 +1,6 @@
 ---
 slug: "trm-rior-boston"
-id: "TRM-ENG-46207"
+id: "TRM-ENG-60736"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rior. Boston"

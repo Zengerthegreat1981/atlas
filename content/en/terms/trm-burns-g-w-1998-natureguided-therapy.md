@@ -1,6 +1,6 @@
 ---
 slug: "trm-burns-g-w-1998-natureguided-therapy"
-id: "TRM-ENG-50204"
+id: "TRM-ENG-64733"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Burns, G. W. (1998). Nature-guided therapy"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-supervision-and-1"
-id: "TRM-ENG-41829"
+id: "TRM-ENG-56358"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "supervision and, 1"

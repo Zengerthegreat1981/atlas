@@ -1,6 +1,6 @@
 ---
 slug: "trm-worcester-a"
-id: "TRM-ENG-42871"
+id: "TRM-ENG-57400"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Worcester A"

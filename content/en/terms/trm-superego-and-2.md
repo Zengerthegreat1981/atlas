@@ -1,6 +1,6 @@
 ---
 slug: "trm-superego-and-2"
-id: "TRM-ENG-41827"
+id: "TRM-ENG-56356"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "superego and, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-shammi-p-stuss-d-t-1999-humour-appreciation"
-id: "TRM-ENG-34691"
+id: "TRM-ENG-63749"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shammi, P., & Stuss, D. T. (1999). Humour appreciation"

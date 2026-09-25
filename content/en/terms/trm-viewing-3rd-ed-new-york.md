@@ -1,6 +1,6 @@
 ---
 slug: "trm-viewing-3rd-ed-new-york"
-id: "TRM-ENG-43419"
+id: "TRM-ENG-57948"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "viewing (3rd ed.). New York"

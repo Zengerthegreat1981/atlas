@@ -1,6 +1,6 @@
 ---
 slug: "trm-machover-k-drawing-of-the-human-figure"
-id: "TRM-ENG-44506"
+id: "TRM-ENG-59035"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Machover, K., “Drawing of the Human Figure"

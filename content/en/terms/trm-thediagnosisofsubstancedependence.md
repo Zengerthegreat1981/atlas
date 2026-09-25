@@ -1,6 +1,6 @@
 ---
 slug: "trm-thediagnosisofsubstancedependence"
-id: "TRM-ENG-43907"
+id: "TRM-ENG-58436"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thediagnosisofsubstancedependence"

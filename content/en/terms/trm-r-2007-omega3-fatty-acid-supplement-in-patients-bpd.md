@@ -1,6 +1,6 @@
 ---
 slug: "trm-r-2007-omega3-fatty-acid-supplement-in-patients-bpd"
-id: "TRM-ENG-42507"
+id: "TRM-ENG-57036"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "R. (2007). Omega-3 fatty acid supplement in patients (BPD)"

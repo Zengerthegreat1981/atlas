@@ -1,6 +1,6 @@
 ---
 slug: "trm-are-many-others-as-observers-in-the-united-states-in-britain"
-id: "TRM-ENG-47647"
+id: "TRM-ENG-62176"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "are many others, as observers in the United States in Britain"

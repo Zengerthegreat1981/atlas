@@ -1,6 +1,6 @@
 ---
 slug: "trm-comparative-studies-of-psychotherapies"
-id: "TRM-ENG-37852"
+id: "TRM-ENG-52381"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Comparative studies of psychotherapies"

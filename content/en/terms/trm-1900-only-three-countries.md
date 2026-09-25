@@ -1,6 +1,6 @@
 ---
 slug: "trm-1900-only-three-countries"
-id: "TRM-ENG-44197"
+id: "TRM-ENG-58726"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1900 only three countries"

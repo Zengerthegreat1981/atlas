@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychiatricdisorders"
-id: "TRM-ENG-49652"
+id: "TRM-ENG-64181"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychiatricdisorders"

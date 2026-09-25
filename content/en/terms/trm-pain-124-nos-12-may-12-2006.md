@@ -1,6 +1,6 @@
 ---
 slug: "trm-pain-124-nos-12-may-12-2006"
-id: "TRM-ENG-45914"
+id: "TRM-ENG-60443"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pain 124, nos. 1–2 (May 12, 2006)"

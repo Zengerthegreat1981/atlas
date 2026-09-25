@@ -1,6 +1,6 @@
 ---
 slug: "trm-example-is-presented-the-discussion-can-be-easily-the-p-r"
-id: "TRM-ENG-35795"
+id: "TRM-ENG-64853"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "example is presented. The discussion can be easily the p × (R"

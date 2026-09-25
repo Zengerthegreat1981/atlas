@@ -1,6 +1,6 @@
 ---
 slug: "trm-not-welds-forte"
-id: "TRM-ENG-38008"
+id: "TRM-ENG-67066"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "not Weld’s forte"

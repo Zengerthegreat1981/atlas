@@ -1,6 +1,6 @@
 ---
 slug: "trm-spinoza-bousseau-and-hegel"
-id: "TRM-ENG-44643"
+id: "TRM-ENG-59172"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spinoza, Bousseau, and Hegel"

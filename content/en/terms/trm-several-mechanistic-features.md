@@ -1,6 +1,6 @@
 ---
 slug: "trm-several-mechanistic-features"
-id: "TRM-ENG-36980"
+id: "TRM-ENG-51509"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "several mechanistic features"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-quantitativequalitative-debates"
-id: "TRM-ENG-36054"
+id: "TRM-ENG-50583"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "quantitative-qualitative debates"

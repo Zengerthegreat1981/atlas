@@ -1,6 +1,6 @@
 ---
 slug: "trm-resulted-in-the-following-statistics"
-id: "TRM-ENG-43822"
+id: "TRM-ENG-58351"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "resulted in the following statistics"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-aron-lewis-2"
-id: "TRM-ENG-37614"
+id: "TRM-ENG-52143"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Aron, Lewis, 2"

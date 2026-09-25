@@ -1,6 +1,6 @@
 ---
 slug: "trm-65-knobloch-h-pasamanick-b-eds"
-id: "TRM-ENG-39277"
+id: "TRM-ENG-53806"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "65. Knobloch H, Pasamanick B (eds)"

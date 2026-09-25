@@ -1,6 +1,6 @@
 ---
 slug: "trm-hybrid-analyses-of-personality"
-id: "TRM-ENG-48382"
+id: "TRM-ENG-62911"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "hybrid analyses of personality"

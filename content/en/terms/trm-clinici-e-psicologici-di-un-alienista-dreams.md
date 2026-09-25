@@ -1,6 +1,6 @@
 ---
 slug: "trm-clinici-e-psicologici-di-un-alienista-dreams"
-id: "TRM-ENG-34942"
+id: "TRM-ENG-64000"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "clinici e psicologici di un alienista (Dreams"

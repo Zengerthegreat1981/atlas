@@ -1,6 +1,6 @@
 ---
 slug: "trm-ofthebritishenlightenmentnewyork"
-id: "TRM-ENG-38044"
+id: "TRM-ENG-52573"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "oftheBritishenlightenment.NewYork"

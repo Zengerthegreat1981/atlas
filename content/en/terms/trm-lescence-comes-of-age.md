@@ -1,6 +1,6 @@
 ---
 slug: "trm-lescence-comes-of-age"
-id: "TRM-ENG-42971"
+id: "TRM-ENG-57500"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lescence comes of age"

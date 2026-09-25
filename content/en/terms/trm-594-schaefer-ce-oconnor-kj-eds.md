@@ -1,6 +1,6 @@
 ---
 slug: "trm-594-schaefer-ce-oconnor-kj-eds"
-id: "TRM-ENG-39208"
+id: "TRM-ENG-53737"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "594. Schaefer CE, O’Connor KJ (eds)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-myocardial-ischaemia-during-mental-stress"
-id: "TRM-ENG-47135"
+id: "TRM-ENG-61664"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "myocardial ischaemia during mental stress"

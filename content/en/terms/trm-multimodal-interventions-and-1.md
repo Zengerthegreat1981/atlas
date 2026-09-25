@@ -1,6 +1,6 @@
 ---
 slug: "trm-multimodal-interventions-and-1"
-id: "TRM-ENG-40910"
+id: "TRM-ENG-55439"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "multimodal interventions and, 1"

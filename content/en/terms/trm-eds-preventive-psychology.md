@@ -1,6 +1,6 @@
 ---
 slug: "trm-eds-preventive-psychology"
-id: "TRM-ENG-48780"
+id: "TRM-ENG-63309"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Eds.), Preventive psychology"

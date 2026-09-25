@@ -1,6 +1,6 @@
 ---
 slug: "trm-goldberg-l-r-1981-language-and-individual-differences"
-id: "TRM-ENG-38117"
+id: "TRM-ENG-52646"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goldberg, L. R. (1981). Language and individual differences"

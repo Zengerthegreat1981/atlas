@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychopathy-and-criminal-recidivism"
-id: "TRM-ENG-43163"
+id: "TRM-ENG-57692"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychopathy and criminal recidivism"

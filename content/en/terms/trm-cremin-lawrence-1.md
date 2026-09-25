@@ -1,6 +1,6 @@
 ---
 slug: "trm-cremin-lawrence-1"
-id: "TRM-ENG-46466"
+id: "TRM-ENG-60995"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cremin, Lawrence, 1"

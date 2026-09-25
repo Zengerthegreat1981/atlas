@@ -1,6 +1,6 @@
 ---
 slug: "trm-value-scores-items-on-4"
-id: "TRM-ENG-42104"
+id: "TRM-ENG-56633"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "value scores items on, 4"

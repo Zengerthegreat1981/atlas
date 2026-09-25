@@ -1,6 +1,6 @@
 ---
 slug: "trm-personality-disorder-severity"
-id: "TRM-ENG-44165"
+id: "TRM-ENG-58694"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "personality disorder severity"

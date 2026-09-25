@@ -1,6 +1,6 @@
 ---
 slug: "trm-cowenpj1992drugsinfocus"
-id: "TRM-ENG-48952"
+id: "TRM-ENG-63481"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cowen,P.J.(1992).Drugsinfocus"

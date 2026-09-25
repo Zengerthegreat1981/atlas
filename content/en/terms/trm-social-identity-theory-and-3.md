@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-identity-theory-and-3"
-id: "TRM-ENG-41699"
+id: "TRM-ENG-56228"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social identity theory and, 3"

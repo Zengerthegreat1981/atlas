@@ -1,6 +1,6 @@
 ---
 slug: "trm-ross-jerilyn-triumph-over-fear-a-book-of-help-and-hope"
-id: "TRM-ENG-45944"
+id: "TRM-ENG-60473"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ross, Jerilyn. Triumph over Fear: A Book of Help and Hope"

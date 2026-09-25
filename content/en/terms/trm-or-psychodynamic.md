@@ -1,6 +1,6 @@
 ---
 slug: "trm-or-psychodynamic"
-id: "TRM-ENG-43091"
+id: "TRM-ENG-57620"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "or psychodynamic"

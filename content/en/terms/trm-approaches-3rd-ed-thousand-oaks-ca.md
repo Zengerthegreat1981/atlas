@@ -1,6 +1,6 @@
 ---
 slug: "trm-approaches-3rd-ed-thousand-oaks-ca"
-id: "TRM-ENG-35668"
+id: "TRM-ENG-64726"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "approaches (3rd ed.). Thousand Oaks, CA"

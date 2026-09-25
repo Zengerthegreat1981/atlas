@@ -1,6 +1,6 @@
 ---
 slug: "trm-orientation-and-work-cf"
-id: "TRM-ENG-52588"
+id: "TRM-ENG-67117"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "orientation and work (cf"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-sively-murdered-at-least-four-die-of-neglect"
-id: "TRM-ENG-37004"
+id: "TRM-ENG-51533"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sively murdered, at least four die of neglect"

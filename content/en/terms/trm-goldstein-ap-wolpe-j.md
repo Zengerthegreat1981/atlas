@@ -1,6 +1,6 @@
 ---
 slug: "trm-goldstein-ap-wolpe-j"
-id: "TRM-ENG-40759"
+id: "TRM-ENG-55288"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goldstein AP, Wolpe J"

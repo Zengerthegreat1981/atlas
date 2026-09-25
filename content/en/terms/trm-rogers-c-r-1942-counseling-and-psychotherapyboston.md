@@ -1,6 +1,6 @@
 ---
 slug: "trm-rogers-c-r-1942-counseling-and-psychotherapyboston"
-id: "TRM-ENG-38691"
+id: "TRM-ENG-53220"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rogers, C. R. (1942). Counseling and psychotherapy.Boston"

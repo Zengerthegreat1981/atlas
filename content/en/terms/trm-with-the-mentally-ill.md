@@ -1,6 +1,6 @@
 ---
 slug: "trm-with-the-mentally-ill"
-id: "TRM-ENG-37327"
+id: "TRM-ENG-66385"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "with the mentally ill"

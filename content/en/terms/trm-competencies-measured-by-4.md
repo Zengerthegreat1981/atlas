@@ -1,6 +1,6 @@
 ---
 slug: "trm-competencies-measured-by-4"
-id: "TRM-ENG-39619"
+id: "TRM-ENG-54148"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "competencies measured by, 4"

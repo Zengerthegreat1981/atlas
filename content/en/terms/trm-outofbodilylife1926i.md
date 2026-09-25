@@ -1,6 +1,6 @@
 ---
 slug: "trm-outofbodilylife1926i"
-id: "TRM-ENG-38075"
+id: "TRM-ENG-67133"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "outofbodilylife”(1926,I"

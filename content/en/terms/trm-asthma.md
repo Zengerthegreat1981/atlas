@@ -1,6 +1,6 @@
 ---
 slug: "trm-asthma"
-id: "TRM-ENG-46843"
+id: "TRM-ENG-61372"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "asthma"

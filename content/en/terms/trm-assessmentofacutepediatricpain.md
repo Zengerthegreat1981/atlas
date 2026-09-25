@@ -1,6 +1,6 @@
 ---
 slug: "trm-assessmentofacutepediatricpain"
-id: "TRM-ENG-46408"
+id: "TRM-ENG-60937"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Assessmentofacutepediatricpain"

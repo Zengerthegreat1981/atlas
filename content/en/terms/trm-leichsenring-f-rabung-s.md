@@ -1,6 +1,6 @@
 ---
 slug: "trm-leichsenring-f-rabung-s"
-id: "TRM-ENG-47824"
+id: "TRM-ENG-62353"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Leichsenring F, Rabung S"

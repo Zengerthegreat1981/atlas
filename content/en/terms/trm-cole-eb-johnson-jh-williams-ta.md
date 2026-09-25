@@ -1,6 +1,6 @@
 ---
 slug: "trm-cole-eb-johnson-jh-williams-ta"
-id: "TRM-ENG-40213"
+id: "TRM-ENG-54742"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cole EB, Johnson JH, Williams TA"

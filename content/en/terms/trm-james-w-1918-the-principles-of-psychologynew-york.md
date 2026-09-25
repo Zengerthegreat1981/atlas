@@ -1,6 +1,6 @@
 ---
 slug: "trm-james-w-1918-the-principles-of-psychologynew-york"
-id: "TRM-ENG-35770"
+id: "TRM-ENG-64828"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "James, W. (1918). The principles of psychology.New York"

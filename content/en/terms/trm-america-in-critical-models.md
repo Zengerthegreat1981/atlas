@@ -1,6 +1,6 @@
 ---
 slug: "trm-america-in-critical-models"
-id: "TRM-ENG-36544"
+id: "TRM-ENG-65602"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "America. In Critical models"

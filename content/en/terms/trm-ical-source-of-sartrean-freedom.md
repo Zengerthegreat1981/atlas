@@ -1,6 +1,6 @@
 ---
 slug: "trm-ical-source-of-sartrean-freedom"
-id: "TRM-ENG-45921"
+id: "TRM-ENG-60450"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ical source of Sartrean freedom"

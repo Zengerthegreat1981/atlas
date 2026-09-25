@@ -1,6 +1,6 @@
 ---
 slug: "trm-order-j-psychiatr-res-46"
-id: "TRM-ENG-48498"
+id: "TRM-ENG-63027"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "order. J Psychiatr Res 46"

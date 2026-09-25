@@ -1,6 +1,6 @@
 ---
 slug: "trm-ca1982theclocksthattimesus"
-id: "TRM-ENG-46454"
+id: "TRM-ENG-60983"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "C.A.(1982).Theclocksthattimesus"

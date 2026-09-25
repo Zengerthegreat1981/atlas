@@ -1,6 +1,6 @@
 ---
 slug: "trm-186-cancro-r-taintor-z-eds"
-id: "TRM-ENG-38669"
+id: "TRM-ENG-53198"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "186. Cancro R, Taintor Z (eds)"

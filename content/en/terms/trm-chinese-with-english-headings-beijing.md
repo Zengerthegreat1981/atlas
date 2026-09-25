@@ -1,6 +1,6 @@
 ---
 slug: "trm-chinese-with-english-headings-beijing"
-id: "TRM-ENG-35622"
+id: "TRM-ENG-64680"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Chinese with English headings). Beijing"

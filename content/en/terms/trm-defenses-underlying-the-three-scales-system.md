@@ -1,6 +1,6 @@
 ---
 slug: "trm-defenses-underlying-the-three-scales-system"
-id: "TRM-ENG-35751"
+id: "TRM-ENG-64809"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "defenses underlying the three scales. System"

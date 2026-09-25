@@ -1,6 +1,6 @@
 ---
 slug: "trm-encephalonlondon"
-id: "TRM-ENG-37722"
+id: "TRM-ENG-66780"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "encephalon.London"

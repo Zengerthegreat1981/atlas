@@ -1,6 +1,6 @@
 ---
 slug: "trm-gynaecologicalproblemslondon"
-id: "TRM-ENG-47002"
+id: "TRM-ENG-61531"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "gynaecologicalproblems.London"

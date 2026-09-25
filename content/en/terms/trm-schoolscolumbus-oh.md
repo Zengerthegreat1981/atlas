@@ -1,6 +1,6 @@
 ---
 slug: "trm-schoolscolumbus-oh"
-id: "TRM-ENG-41575"
+id: "TRM-ENG-56104"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "schools.Columbus, OH"

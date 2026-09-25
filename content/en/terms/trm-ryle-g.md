@@ -1,6 +1,6 @@
 ---
 slug: "trm-ryle-g"
-id: "TRM-ENG-42213"
+id: "TRM-ENG-56742"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ryle G"

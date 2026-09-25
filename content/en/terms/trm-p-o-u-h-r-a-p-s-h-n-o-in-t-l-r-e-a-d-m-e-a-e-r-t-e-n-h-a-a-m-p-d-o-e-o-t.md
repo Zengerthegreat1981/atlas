@@ -1,6 +1,6 @@
 ---
 slug: "trm-p-o-u-h-r-a-p-s-h-n-o-in-t-l-r-e-a-d-m-e-a-e-r-t-e-n-h-a-a-m-p-d-o-e-o-t"
-id: "TRM-ENG-43791"
+id: "TRM-ENG-58320"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "p ( o U h r . a p S h n . o in t l r e a . d m e a e r t e n h a a m p d o e o t"

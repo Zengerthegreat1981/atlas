@@ -1,6 +1,6 @@
 ---
 slug: "trm-treatment-of-pds"
-id: "TRM-ENG-48695"
+id: "TRM-ENG-63224"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "treatment of PDs"

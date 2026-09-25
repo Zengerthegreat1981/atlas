@@ -1,6 +1,6 @@
 ---
 slug: "trm-assessment-17-267277-doi"
-id: "TRM-ENG-35298"
+id: "TRM-ENG-49827"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Assessment, 17, 267–277. doi"

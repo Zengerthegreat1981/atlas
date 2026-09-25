@@ -1,6 +1,6 @@
 ---
 slug: "trm-cultural-bias"
-id: "TRM-ENG-39808"
+id: "TRM-ENG-54337"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cultural bias"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-drens-rights-argue-that-children"
-id: "TRM-ENG-47909"
+id: "TRM-ENG-62438"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dren’s rights argue that children"

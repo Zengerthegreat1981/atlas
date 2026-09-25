@@ -1,6 +1,6 @@
 ---
 slug: "trm-spective-reports-of-adverse-childhood-experiences"
-id: "TRM-ENG-43246"
+id: "TRM-ENG-57775"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "spective reports of adverse childhood experiences"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-wife"
-id: "TRM-ENG-39042"
+id: "TRM-ENG-53571"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wife"

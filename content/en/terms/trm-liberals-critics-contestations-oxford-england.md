@@ -1,6 +1,6 @@
 ---
 slug: "trm-liberals-critics-contestations-oxford-england"
-id: "TRM-ENG-46927"
+id: "TRM-ENG-61456"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Liberals, critics, contestations. Oxford, England"

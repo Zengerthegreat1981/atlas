@@ -1,6 +1,6 @@
 ---
 slug: "trm-lund"
-id: "TRM-ENG-37040"
+id: "TRM-ENG-66098"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lund"

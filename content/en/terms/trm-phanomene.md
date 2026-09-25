@@ -1,6 +1,6 @@
 ---
 slug: "trm-phanomene"
-id: "TRM-ENG-37173"
+id: "TRM-ENG-66231"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pha¨nomene"

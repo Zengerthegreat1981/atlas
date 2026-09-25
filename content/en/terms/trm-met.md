@@ -1,6 +1,6 @@
 ---
 slug: "trm-met"
-id: "TRM-ENG-35139"
+id: "TRM-ENG-64197"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "met"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-indicatedotherwise-happiness"
-id: "TRM-ENG-45930"
+id: "TRM-ENG-60459"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "indicatedotherwise). happiness"

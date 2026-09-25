@@ -1,6 +1,6 @@
 ---
 slug: "trm-isks"
-id: "TRM-ENG-42936"
+id: "TRM-ENG-57465"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "isks"

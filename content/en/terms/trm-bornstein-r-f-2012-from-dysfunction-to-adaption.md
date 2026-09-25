@@ -1,6 +1,6 @@
 ---
 slug: "trm-bornstein-r-f-2012-from-dysfunction-to-adaption"
-id: "TRM-ENG-42338"
+id: "TRM-ENG-56867"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bornstein, R. F. (2012). From dysfunction to adaption"

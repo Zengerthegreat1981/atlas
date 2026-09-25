@@ -1,6 +1,6 @@
 ---
 slug: "trm-there-are-three-current-stress-model-paradigms"
-id: "TRM-ENG-36012"
+id: "TRM-ENG-65070"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "There are three current stress model paradigms"

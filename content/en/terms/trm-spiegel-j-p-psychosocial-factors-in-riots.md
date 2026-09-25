@@ -1,6 +1,6 @@
 ---
 slug: "trm-spiegel-j-p-psychosocial-factors-in-riots"
-id: "TRM-ENG-44641"
+id: "TRM-ENG-59170"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spiegel, J. P., “Psychosocial Factors in Riots"

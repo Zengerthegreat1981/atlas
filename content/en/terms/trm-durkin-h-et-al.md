@@ -1,6 +1,6 @@
 ---
 slug: "trm-durkin-h-et-al"
-id: "TRM-ENG-40396"
+id: "TRM-ENG-54925"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Durkin H, et al"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-including-aspd"
-id: "TRM-ENG-48397"
+id: "TRM-ENG-62926"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "including ASPD"

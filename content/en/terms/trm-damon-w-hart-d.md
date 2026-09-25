@@ -1,6 +1,6 @@
 ---
 slug: "trm-damon-w-hart-d"
-id: "TRM-ENG-47597"
+id: "TRM-ENG-62126"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Damon W, Hart D"

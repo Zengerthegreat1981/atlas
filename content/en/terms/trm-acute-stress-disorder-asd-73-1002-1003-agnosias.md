@@ -1,6 +1,6 @@
 ---
 slug: "trm-acute-stress-disorder-asd-73-1002-1003-agnosias"
-id: "TRM-ENG-35568"
+id: "TRM-ENG-64626"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Acute Stress Disorder (ASD), 73, 1002, 1003 Agnosias"

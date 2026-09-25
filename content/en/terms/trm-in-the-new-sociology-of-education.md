@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-the-new-sociology-of-education"
-id: "TRM-ENG-48165"
+id: "TRM-ENG-62694"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in the new sociology of education"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-live-for-several-months"
-id: "TRM-ENG-34920"
+id: "TRM-ENG-63978"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "live for several months"

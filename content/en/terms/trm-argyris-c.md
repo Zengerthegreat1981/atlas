@@ -1,6 +1,6 @@
 ---
 slug: "trm-argyris-c"
-id: "TRM-ENG-39716"
+id: "TRM-ENG-54245"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Argyris C"

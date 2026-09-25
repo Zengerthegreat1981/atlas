@@ -1,6 +1,6 @@
 ---
 slug: "trm-joseph-h-heimlich-ep"
-id: "TRM-ENG-41153"
+id: "TRM-ENG-55682"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Joseph H, Heimlich EP"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-froebel-and-1"
-id: "TRM-ENG-46651"
+id: "TRM-ENG-61180"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Froebel and, 1"

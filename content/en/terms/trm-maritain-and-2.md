@@ -1,6 +1,6 @@
 ---
 slug: "trm-maritain-and-2"
-id: "TRM-ENG-46959"
+id: "TRM-ENG-61488"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Maritain and, 2"

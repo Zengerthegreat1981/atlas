@@ -1,6 +1,6 @@
 ---
 slug: "trm-naire4-pdq4-new-york"
-id: "TRM-ENG-43027"
+id: "TRM-ENG-57556"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "naire–4 (PDQ-4). New York"

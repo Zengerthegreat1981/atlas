@@ -1,6 +1,6 @@
 ---
 slug: "trm-tial-of-these-models"
-id: "TRM-ENG-45616"
+id: "TRM-ENG-60145"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tial of these models"

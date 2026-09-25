@@ -1,6 +1,6 @@
 ---
 slug: "trm-questions-are-as-follows"
-id: "TRM-ENG-36055"
+id: "TRM-ENG-65113"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "questions are as follows"

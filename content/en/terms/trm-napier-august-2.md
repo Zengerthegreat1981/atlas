@@ -1,6 +1,6 @@
 ---
 slug: "trm-napier-august-2"
-id: "TRM-ENG-50782"
+id: "TRM-ENG-65311"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Napier, August, 2"

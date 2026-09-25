@@ -1,6 +1,6 @@
 ---
 slug: "trm-hallmark-of-all-of-schwabs-teaching-the-practical"
-id: "TRM-ENG-48098"
+id: "TRM-ENG-62627"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "hallmark of all of Schwab’s teaching. “The Practical"

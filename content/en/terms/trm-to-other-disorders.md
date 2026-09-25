@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-other-disorders"
-id: "TRM-ENG-43377"
+id: "TRM-ENG-57906"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to other disorders"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-process-of-smoking-cessation"
-id: "TRM-ENG-46742"
+id: "TRM-ENG-61271"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The process of smoking cessation"

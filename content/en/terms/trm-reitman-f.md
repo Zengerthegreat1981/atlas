@@ -1,6 +1,6 @@
 ---
 slug: "trm-reitman-f"
-id: "TRM-ENG-42093"
+id: "TRM-ENG-56622"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Reitman F"

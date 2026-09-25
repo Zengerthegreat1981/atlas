@@ -1,6 +1,6 @@
 ---
 slug: "trm-for-analyzing-change-pp-357380-washington-dc"
-id: "TRM-ENG-51468"
+id: "TRM-ENG-65997"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "for analyzing change (pp. 357–380). Washington, DC"

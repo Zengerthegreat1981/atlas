@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-educational-code"
-id: "TRM-ENG-48835"
+id: "TRM-ENG-63364"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the educational code"

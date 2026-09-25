@@ -1,6 +1,6 @@
 ---
 slug: "trm-karoly-p"
-id: "TRM-ENG-41200"
+id: "TRM-ENG-55729"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Karoly P"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-reihe-fortschritte-der-klinischen-psychologie"
-id: "TRM-ENG-49139"
+id: "TRM-ENG-63668"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Reihe Fortschritte der klinischen psychologie"

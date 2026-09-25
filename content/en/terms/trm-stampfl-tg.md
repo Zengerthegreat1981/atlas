@@ -1,6 +1,6 @@
 ---
 slug: "trm-stampfl-tg"
-id: "TRM-ENG-42441"
+id: "TRM-ENG-56970"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stampfl TG"

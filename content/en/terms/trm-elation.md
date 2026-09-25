@@ -1,6 +1,6 @@
 ---
 slug: "trm-elation"
-id: "TRM-ENG-52159"
+id: "TRM-ENG-66688"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Elation"

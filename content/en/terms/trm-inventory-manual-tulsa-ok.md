@@ -1,6 +1,6 @@
 ---
 slug: "trm-inventory-manual-tulsa-ok"
-id: "TRM-ENG-35417"
+id: "TRM-ENG-49946"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Inventory manual. Tulsa, OK"

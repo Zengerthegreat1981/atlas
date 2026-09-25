@@ -1,6 +1,6 @@
 ---
 slug: "trm-drug-is-oxidized-reduced-or-hydrolyzed"
-id: "TRM-ENG-43622"
+id: "TRM-ENG-58151"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "drug is oxidized, reduced, or hydrolyzed"

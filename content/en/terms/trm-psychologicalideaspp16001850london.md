@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychologicalideaspp16001850london"
-id: "TRM-ENG-38139"
+id: "TRM-ENG-52668"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychologicalideas(pp.1600–1850).London"

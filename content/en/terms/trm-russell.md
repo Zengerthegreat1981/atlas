@@ -1,6 +1,6 @@
 ---
 slug: "trm-russell"
-id: "TRM-ENG-47216"
+id: "TRM-ENG-61745"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Russell"

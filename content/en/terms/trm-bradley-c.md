@@ -1,6 +1,6 @@
 ---
 slug: "trm-bradley-c"
-id: "TRM-ENG-40018"
+id: "TRM-ENG-54547"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bradley C"

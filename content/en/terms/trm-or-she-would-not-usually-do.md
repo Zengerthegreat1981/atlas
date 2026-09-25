@@ -1,6 +1,6 @@
 ---
 slug: "trm-or-she-would-not-usually-do"
-id: "TRM-ENG-48488"
+id: "TRM-ENG-63017"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "or she would not usually do"

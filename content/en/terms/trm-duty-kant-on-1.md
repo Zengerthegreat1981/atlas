@@ -1,6 +1,6 @@
 ---
 slug: "trm-duty-kant-on-1"
-id: "TRM-ENG-46532"
+id: "TRM-ENG-61061"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Duty, Kant on, 1"

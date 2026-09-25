@@ -1,6 +1,6 @@
 ---
 slug: "trm-blanchard-eb-et-al"
-id: "TRM-ENG-39959"
+id: "TRM-ENG-54488"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Blanchard EB, et al"

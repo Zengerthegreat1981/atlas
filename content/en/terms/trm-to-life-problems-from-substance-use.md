@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-life-problems-from-substance-use"
-id: "TRM-ENG-37210"
+id: "TRM-ENG-66268"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to life problems from substance use"

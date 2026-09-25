@@ -1,6 +1,6 @@
 ---
 slug: "trm-spitz-ra-1945-hospitalism"
-id: "TRM-ENG-45485"
+id: "TRM-ENG-60014"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spitz, R.A. (1945) Hospitalism"

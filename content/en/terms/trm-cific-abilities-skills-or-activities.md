@@ -1,6 +1,6 @@
 ---
 slug: "trm-cific-abilities-skills-or-activities"
-id: "TRM-ENG-47763"
+id: "TRM-ENG-62292"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cific abilities, skills, or activities)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-desired-outcomes-of-1"
-id: "TRM-ENG-39903"
+id: "TRM-ENG-54432"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "desired outcomes of, 1"

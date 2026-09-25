@@ -1,6 +1,6 @@
 ---
 slug: "trm-kukla-r-2005-mass-hysteria"
-id: "TRM-ENG-46896"
+id: "TRM-ENG-61425"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kukla, R. (2005). Mass hysteria"

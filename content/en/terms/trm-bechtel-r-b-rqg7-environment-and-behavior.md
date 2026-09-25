@@ -1,6 +1,6 @@
 ---
 slug: "trm-bechtel-r-b-rqg7-environment-and-behavior"
-id: "TRM-ENG-34632"
+id: "TRM-ENG-63690"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bechtel. R. B. ( rqg7). Environment and behavior"

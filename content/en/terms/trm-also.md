@@ -1,6 +1,6 @@
 ---
 slug: "trm-also"
-id: "TRM-ENG-45630"
+id: "TRM-ENG-60159"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Also"

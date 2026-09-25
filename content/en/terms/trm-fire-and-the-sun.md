@@ -1,6 +1,6 @@
 ---
 slug: "trm-fire-and-the-sun"
-id: "TRM-ENG-46620"
+id: "TRM-ENG-61149"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fire and the Sun"

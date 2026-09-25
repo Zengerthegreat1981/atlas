@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-affiliation-with-coronary-artery-disease"
-id: "TRM-ENG-43609"
+id: "TRM-ENG-58138"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and affiliation with coronary artery disease"

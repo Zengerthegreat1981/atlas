@@ -1,6 +1,6 @@
 ---
 slug: "trm-davidson-km-tyrer-p-tata-p-et-al"
-id: "TRM-ENG-47601"
+id: "TRM-ENG-62130"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Davidson KM, Tyrer P, Tata P, et al"

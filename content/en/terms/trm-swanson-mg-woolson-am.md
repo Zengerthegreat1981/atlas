@@ -1,6 +1,6 @@
 ---
 slug: "trm-swanson-mg-woolson-am"
-id: "TRM-ENG-42523"
+id: "TRM-ENG-57052"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Swanson MG, Woolson AM"

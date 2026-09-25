@@ -1,6 +1,6 @@
 ---
 slug: "trm-symonds-a-phobias-after-marriage"
-id: "TRM-ENG-44659"
+id: "TRM-ENG-59188"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Symonds, A., “Phobias after Marriage"

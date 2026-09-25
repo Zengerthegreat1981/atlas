@@ -1,6 +1,6 @@
 ---
 slug: "trm-tiemann-wh"
-id: "TRM-ENG-42598"
+id: "TRM-ENG-57127"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tiemann WH"

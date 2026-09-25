@@ -1,6 +1,6 @@
 ---
 slug: "trm-diener-mj-monroe-jm"
-id: "TRM-ENG-47613"
+id: "TRM-ENG-62142"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Diener MJ, Monroe JM"

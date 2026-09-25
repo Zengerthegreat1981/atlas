@@ -1,6 +1,6 @@
 ---
 slug: "trm-formed-for-psychiatric-purposes"
-id: "TRM-ENG-45042"
+id: "TRM-ENG-59571"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "formed for psychiatric purposes"

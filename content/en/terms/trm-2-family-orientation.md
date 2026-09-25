@@ -1,6 +1,6 @@
 ---
 slug: "trm-2-family-orientation"
-id: "TRM-ENG-38698"
+id: "TRM-ENG-53227"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "2. Family orientation"

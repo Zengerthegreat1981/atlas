@@ -1,6 +1,6 @@
 ---
 slug: "trm-client-history-taking-and-3"
-id: "TRM-ENG-39521"
+id: "TRM-ENG-54050"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "client history taking and, 3"

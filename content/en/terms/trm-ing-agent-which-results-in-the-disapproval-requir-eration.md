@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-agent-which-results-in-the-disapproval-requir-eration"
-id: "TRM-ENG-48188"
+id: "TRM-ENG-62717"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing agent, which results in the disapproval requir- eration"

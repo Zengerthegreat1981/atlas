@@ -1,6 +1,6 @@
 ---
 slug: "trm-be-external-or-internal-situation-modification"
-id: "TRM-ENG-44955"
+id: "TRM-ENG-59484"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "be external or internal, situation modification"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-booth-a-edwards-j-n-1992-starting-over"
-id: "TRM-ENG-48916"
+id: "TRM-ENG-63445"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Booth, A., & Edwards, J. N. (1992). Starting over"

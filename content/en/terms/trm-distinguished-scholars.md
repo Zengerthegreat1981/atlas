@@ -1,6 +1,6 @@
 ---
 slug: "trm-distinguished-scholars"
-id: "TRM-ENG-45556"
+id: "TRM-ENG-60085"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "distinguished scholars"

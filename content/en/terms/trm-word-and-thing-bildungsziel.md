@@ -1,6 +1,6 @@
 ---
 slug: "trm-word-and-thing-bildungsziel"
-id: "TRM-ENG-49055"
+id: "TRM-ENG-63584"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "word and thing Bildungsziel"

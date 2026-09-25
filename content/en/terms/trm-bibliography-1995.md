@@ -1,6 +1,6 @@
 ---
 slug: "trm-bibliography-1995"
-id: "TRM-ENG-45664"
+id: "TRM-ENG-60193"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bibliography (1995)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-linguistic-determinism-1"
-id: "TRM-ENG-44592"
+id: "TRM-ENG-59121"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Linguistic determinism, 1"

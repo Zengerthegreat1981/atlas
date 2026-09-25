@@ -1,6 +1,6 @@
 ---
 slug: "trm-balesrf1950interactionprocessanalysis"
-id: "TRM-ENG-46421"
+id: "TRM-ENG-60950"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bales,R.F.(1950).Interactionprocessanalysis"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-bush-g"
-id: "TRM-ENG-40087"
+id: "TRM-ENG-54616"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bush G"

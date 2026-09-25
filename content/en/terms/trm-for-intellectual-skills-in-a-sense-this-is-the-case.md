@@ -1,6 +1,6 @@
 ---
 slug: "trm-for-intellectual-skills-in-a-sense-this-is-the-case"
-id: "TRM-ENG-36450"
+id: "TRM-ENG-65508"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "for intellectual skills. In a sense this is the case"

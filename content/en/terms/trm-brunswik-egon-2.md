@@ -1,6 +1,6 @@
 ---
 slug: "trm-brunswik-egon-2"
-id: "TRM-ENG-44348"
+id: "TRM-ENG-58877"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brunswik, Egon, 2"

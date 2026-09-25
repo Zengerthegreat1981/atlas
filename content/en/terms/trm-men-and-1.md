@@ -1,6 +1,6 @@
 ---
 slug: "trm-men-and-1"
-id: "TRM-ENG-36687"
+id: "TRM-ENG-65745"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "men and 1"

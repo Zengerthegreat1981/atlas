@@ -1,6 +1,6 @@
 ---
 slug: "trm-whaley-a-l-1998-crosscultural-perspective-on-paranoia"
-id: "TRM-ENG-39026"
+id: "TRM-ENG-53555"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Whaley, A. L. (1998). Cross-cultural perspective on paranoia"

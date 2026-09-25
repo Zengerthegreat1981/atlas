@@ -1,6 +1,6 @@
 ---
 slug: "trm-borderlines-j-pers-disord-16"
-id: "TRM-ENG-47523"
+id: "TRM-ENG-62052"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Borderlines. J Pers Disord 16"

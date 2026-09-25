@@ -1,6 +1,6 @@
 ---
 slug: "trm-andemotionnewyork"
-id: "TRM-ENG-37530"
+id: "TRM-ENG-66588"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "andemotion.NewYork"

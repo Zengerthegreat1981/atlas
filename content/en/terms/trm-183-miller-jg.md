@@ -1,6 +1,6 @@
 ---
 slug: "trm-183-miller-jg"
-id: "TRM-ENG-38666"
+id: "TRM-ENG-53195"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "183. Miller JG"

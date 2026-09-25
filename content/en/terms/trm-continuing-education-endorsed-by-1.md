@@ -1,6 +1,6 @@
 ---
 slug: "trm-continuing-education-endorsed-by-1"
-id: "TRM-ENG-39693"
+id: "TRM-ENG-54222"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "continuing education endorsed by, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ish"
-id: "TRM-ENG-48235"
+id: "TRM-ENG-62764"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ish"

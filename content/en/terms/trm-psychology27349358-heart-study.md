@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychology27349358-heart-study"
-id: "TRM-ENG-46671"
+id: "TRM-ENG-61200"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychology,27,349±358. heart study"

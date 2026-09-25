@@ -1,6 +1,6 @@
 ---
 slug: "trm-written-by-2"
-id: "TRM-ENG-42203"
+id: "TRM-ENG-56732"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "written by, 2"

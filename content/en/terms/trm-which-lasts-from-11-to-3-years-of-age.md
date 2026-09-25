@@ -1,6 +1,6 @@
 ---
 slug: "trm-which-lasts-from-11-to-3-years-of-age"
-id: "TRM-ENG-37314"
+id: "TRM-ENG-66372"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "which lasts from 11⁄ to 3 years of age"

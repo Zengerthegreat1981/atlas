@@ -1,6 +1,6 @@
 ---
 slug: "trm-pushbutton-technique-2"
-id: "TRM-ENG-41387"
+id: "TRM-ENG-55916"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "push-button technique, 2"

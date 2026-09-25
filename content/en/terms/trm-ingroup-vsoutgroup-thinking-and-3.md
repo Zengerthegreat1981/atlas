@@ -1,6 +1,6 @@
 ---
 slug: "trm-ingroup-vsoutgroup-thinking-and-3"
-id: "TRM-ENG-40558"
+id: "TRM-ENG-55087"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ingroup vs.outgroup thinking and, 3"

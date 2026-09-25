@@ -1,6 +1,6 @@
 ---
 slug: "trm-forms-of-qualitative-research-was"
-id: "TRM-ENG-48049"
+id: "TRM-ENG-62578"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "forms of qualitative research. was"

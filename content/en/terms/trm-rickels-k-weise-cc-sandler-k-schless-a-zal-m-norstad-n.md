@@ -1,6 +1,6 @@
 ---
 slug: "trm-rickels-k-weise-cc-sandler-k-schless-a-zal-m-norstad-n"
-id: "TRM-ENG-42115"
+id: "TRM-ENG-56644"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rickels K, Weise CC, Sandler K, Schless A, Zal M, Norstad N"

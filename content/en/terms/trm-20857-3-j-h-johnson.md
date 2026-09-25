@@ -1,6 +1,6 @@
 ---
 slug: "trm-20857-3-j-h-johnson"
-id: "TRM-ENG-38720"
+id: "TRM-ENG-53249"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "20857; (3) J. H. Johnson"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-order-diagnoses-for-dsm5"
-id: "TRM-ENG-43093"
+id: "TRM-ENG-57622"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "order diagnoses for DSM-5"

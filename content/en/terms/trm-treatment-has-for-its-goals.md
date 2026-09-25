@@ -1,6 +1,6 @@
 ---
 slug: "trm-treatment-has-for-its-goals"
-id: "TRM-ENG-45395"
+id: "TRM-ENG-59924"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "treatment has for its goals"

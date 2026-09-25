@@ -1,6 +1,6 @@
 ---
 slug: "trm-empiricism-19141918key-works"
-id: "TRM-ENG-46577"
+id: "TRM-ENG-61106"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Empiricism (1914–1918)—key works"

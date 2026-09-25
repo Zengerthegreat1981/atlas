@@ -1,6 +1,6 @@
 ---
 slug: "trm-technical-manualof-4"
-id: "TRM-ENG-38868"
+id: "TRM-ENG-53397"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Technical Manualof, 4"

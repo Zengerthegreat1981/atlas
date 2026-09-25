@@ -1,6 +1,6 @@
 ---
 slug: "trm-seling-services-white1e"
-id: "TRM-ENG-35305"
+id: "TRM-ENG-64363"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "seling services (White1e"

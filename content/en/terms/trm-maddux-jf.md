@@ -1,6 +1,6 @@
 ---
 slug: "trm-maddux-jf"
-id: "TRM-ENG-41551"
+id: "TRM-ENG-56080"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Maddux JF"

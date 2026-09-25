@@ -1,6 +1,6 @@
 ---
 slug: "trm-axel-m"
-id: "TRM-ENG-39746"
+id: "TRM-ENG-54275"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Axel M"

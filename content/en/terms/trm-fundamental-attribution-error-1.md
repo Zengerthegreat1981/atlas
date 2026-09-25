@@ -1,6 +1,6 @@
 ---
 slug: "trm-fundamental-attribution-error-1"
-id: "TRM-ENG-44498"
+id: "TRM-ENG-59027"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fundamental attribution error, 1"

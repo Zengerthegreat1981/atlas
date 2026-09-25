@@ -1,6 +1,6 @@
 ---
 slug: "trm-savage-c-harman-w-fadiman-j-savage-e"
-id: "TRM-ENG-42252"
+id: "TRM-ENG-56781"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Savage C, Harman W, Fadiman J, Savage E"

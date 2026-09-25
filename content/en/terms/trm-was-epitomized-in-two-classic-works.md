@@ -1,6 +1,6 @@
 ---
 slug: "trm-was-epitomized-in-two-classic-works"
-id: "TRM-ENG-38425"
+id: "TRM-ENG-52954"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "was epitomized in two classic works"

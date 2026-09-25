@@ -1,6 +1,6 @@
 ---
 slug: "trm-delivery-and-1"
-id: "TRM-ENG-39883"
+id: "TRM-ENG-54412"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "delivery and, 1"

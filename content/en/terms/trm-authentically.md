@@ -1,6 +1,6 @@
 ---
 slug: "trm-authentically"
-id: "TRM-ENG-51283"
+id: "TRM-ENG-65812"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "authentically"

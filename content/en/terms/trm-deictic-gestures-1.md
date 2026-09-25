@@ -1,6 +1,6 @@
 ---
 slug: "trm-deictic-gestures-1"
-id: "TRM-ENG-44424"
+id: "TRM-ENG-58953"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Deictic gestures, 1"

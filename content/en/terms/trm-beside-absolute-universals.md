@@ -1,6 +1,6 @@
 ---
 slug: "trm-beside-absolute-universals"
-id: "TRM-ENG-43629"
+id: "TRM-ENG-58158"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "beside absolute universals"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ruck-f"
-id: "TRM-ENG-42198"
+id: "TRM-ENG-56727"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ruck F"

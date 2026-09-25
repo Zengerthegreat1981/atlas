@@ -1,6 +1,6 @@
 ---
 slug: "trm-sive-disorder-j-psychiatr-pract-11"
-id: "TRM-ENG-48585"
+id: "TRM-ENG-63114"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sive disorder. J Psychiatr Pract 11"

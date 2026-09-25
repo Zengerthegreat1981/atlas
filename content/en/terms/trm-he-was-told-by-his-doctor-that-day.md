@@ -1,6 +1,6 @@
 ---
 slug: "trm-he-was-told-by-his-doctor-that-day"
-id: "TRM-ENG-43061"
+id: "TRM-ENG-57590"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "he was told by his doctor that day"

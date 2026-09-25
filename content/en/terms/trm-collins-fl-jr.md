@@ -1,6 +1,6 @@
 ---
 slug: "trm-collins-fl-jr"
-id: "TRM-ENG-40218"
+id: "TRM-ENG-54747"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Collins FL. Jr"

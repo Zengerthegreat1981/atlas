@@ -1,6 +1,6 @@
 ---
 slug: "trm-myers-1-qx6"
-id: "TRM-ENG-34753"
+id: "TRM-ENG-63811"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Myers. 1 qX6"

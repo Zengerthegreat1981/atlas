@@ -1,6 +1,6 @@
 ---
 slug: "trm-chotherapie"
-id: "TRM-ENG-48271"
+id: "TRM-ENG-62800"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chotherapie"

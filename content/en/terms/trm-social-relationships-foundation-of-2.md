@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-relationships-foundation-of-2"
-id: "TRM-ENG-41709"
+id: "TRM-ENG-56238"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social relationships foundation of, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-philips-d-l-identification-of-mental-illness"
-id: "TRM-ENG-44575"
+id: "TRM-ENG-59104"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Philips, D. L., “Identification of Mental Illness"

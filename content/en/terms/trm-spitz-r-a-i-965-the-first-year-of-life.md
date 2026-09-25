@@ -1,6 +1,6 @@
 ---
 slug: "trm-spitz-r-a-i-965-the-first-year-of-life"
-id: "TRM-ENG-34795"
+id: "TRM-ENG-49324"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spitz. R. A. (I 965). The first year of life"

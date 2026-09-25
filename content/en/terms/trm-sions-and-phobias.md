@@ -1,6 +1,6 @@
 ---
 slug: "trm-sions-and-phobias"
-id: "TRM-ENG-46219"
+id: "TRM-ENG-60748"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sions and Phobias"

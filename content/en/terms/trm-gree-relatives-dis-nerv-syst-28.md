@@ -1,6 +1,6 @@
 ---
 slug: "trm-gree-relatives-dis-nerv-syst-28"
-id: "TRM-ENG-48366"
+id: "TRM-ENG-62895"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "gree relatives. Dis Nerv Syst 28"

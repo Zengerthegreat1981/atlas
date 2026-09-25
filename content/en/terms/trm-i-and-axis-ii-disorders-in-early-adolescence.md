@@ -1,6 +1,6 @@
 ---
 slug: "trm-i-and-axis-ii-disorders-in-early-adolescence"
-id: "TRM-ENG-42414"
+id: "TRM-ENG-56943"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "I and Axis II disorders in early adolescence"

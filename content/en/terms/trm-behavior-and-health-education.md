@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavior-and-health-education"
-id: "TRM-ENG-46852"
+id: "TRM-ENG-61381"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behavior and health education"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-as-if-models-2"
-id: "TRM-ENG-45707"
+id: "TRM-ENG-60236"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“As if” models, 2"

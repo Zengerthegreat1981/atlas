@@ -1,6 +1,6 @@
 ---
 slug: "trm-duncan-otis-2"
-id: "TRM-ENG-46524"
+id: "TRM-ENG-61053"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Duncan, Otis, 2"

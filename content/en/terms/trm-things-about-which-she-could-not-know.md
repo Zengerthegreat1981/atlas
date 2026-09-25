@@ -1,6 +1,6 @@
 ---
 slug: "trm-things-about-which-she-could-not-know"
-id: "TRM-ENG-36187"
+id: "TRM-ENG-65245"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "things about which she could not know"

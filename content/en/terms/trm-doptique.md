@@ -1,6 +1,6 @@
 ---
 slug: "trm-doptique"
-id: "TRM-ENG-37708"
+id: "TRM-ENG-52237"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "d’optique"

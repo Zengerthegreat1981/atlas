@@ -1,6 +1,6 @@
 ---
 slug: "trm-mibi-and-3"
-id: "TRM-ENG-37411"
+id: "TRM-ENG-66469"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(MIBI) and, 3"

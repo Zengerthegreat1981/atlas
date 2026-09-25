@@ -1,6 +1,6 @@
 ---
 slug: "trm-dle-adulthood"
-id: "TRM-ENG-42784"
+id: "TRM-ENG-57313"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dle adulthood"

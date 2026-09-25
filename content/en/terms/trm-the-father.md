@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-father"
-id: "TRM-ENG-45352"
+id: "TRM-ENG-59881"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the father"

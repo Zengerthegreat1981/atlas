@@ -1,6 +1,6 @@
 ---
 slug: "trm-two-scales-exists-tukey"
-id: "TRM-ENG-35436"
+id: "TRM-ENG-64494"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "two scales exists. Tukey"

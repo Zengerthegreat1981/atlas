@@ -1,6 +1,6 @@
 ---
 slug: "trm-clinical-hypnosis-washington-dc"
-id: "TRM-ENG-45781"
+id: "TRM-ENG-60310"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Clinical Hypnosis. Washington, DC"

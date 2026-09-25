@@ -1,6 +1,6 @@
 ---
 slug: "trm-environments"
-id: "TRM-ENG-47968"
+id: "TRM-ENG-62497"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "environments"

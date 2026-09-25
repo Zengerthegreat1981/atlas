@@ -1,6 +1,6 @@
 ---
 slug: "trm-phobias-in-women"
-id: "TRM-ENG-49616"
+id: "TRM-ENG-64145"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "phobias in women"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognitive-neuroscience-2"
-id: "TRM-ENG-44387"
+id: "TRM-ENG-58916"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cognitive neuroscience, 2"

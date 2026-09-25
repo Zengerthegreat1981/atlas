@@ -1,6 +1,6 @@
 ---
 slug: "trm-an-essay-on-the-criminal-mind-princeton-nj"
-id: "TRM-ENG-42314"
+id: "TRM-ENG-56843"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "An essay on the criminal mind. Princeton, NJ"

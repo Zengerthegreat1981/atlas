@@ -1,6 +1,6 @@
 ---
 slug: "trm-browne-j-r995-charles-darwin-voyaging"
-id: "TRM-ENG-34644"
+id: "TRM-ENG-49173"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Browne, J. (r995 ). Charles Darwin voyaging"

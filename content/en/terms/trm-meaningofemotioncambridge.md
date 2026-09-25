@@ -1,6 +1,6 @@
 ---
 slug: "trm-meaningofemotioncambridge"
-id: "TRM-ENG-37949"
+id: "TRM-ENG-67007"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "meaningofemotion.Cambridge"

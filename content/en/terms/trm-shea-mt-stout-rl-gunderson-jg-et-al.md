@@ -1,6 +1,6 @@
 ---
 slug: "trm-shea-mt-stout-rl-gunderson-jg-et-al"
-id: "TRM-ENG-48063"
+id: "TRM-ENG-62592"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shea MT, Stout RL, Gunderson JG, et al"

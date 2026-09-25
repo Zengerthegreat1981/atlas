@@ -1,6 +1,6 @@
 ---
 slug: "trm-their-troubles-on-the-world"
-id: "TRM-ENG-43206"
+id: "TRM-ENG-57735"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "their troubles on the world"

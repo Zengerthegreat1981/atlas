@@ -1,6 +1,6 @@
 ---
 slug: "trm-quine-eds-social-psychology-and-health"
-id: "TRM-ENG-46680"
+id: "TRM-ENG-61209"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Quine (Eds.), Social psychology and health"

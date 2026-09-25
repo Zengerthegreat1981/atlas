@@ -1,6 +1,6 @@
 ---
 slug: "trm-bibliographiescomviewdocumentobo9780195396577-cid"
-id: "TRM-ENG-44970"
+id: "TRM-ENG-59499"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bibliographies.com/view/document/obo-9780195396577/ • (cid"

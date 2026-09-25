@@ -1,6 +1,6 @@
 ---
 slug: "trm-categories"
-id: "TRM-ENG-34922"
+id: "TRM-ENG-63980"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "categories"

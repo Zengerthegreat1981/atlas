@@ -1,6 +1,6 @@
 ---
 slug: "trm-593-schaefer-ce-et-al"
-id: "TRM-ENG-39207"
+id: "TRM-ENG-53736"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "593. Schaefer CE, et al"

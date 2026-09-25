@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp-6791-detroit-mi"
-id: "TRM-ENG-51704"
+id: "TRM-ENG-66233"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pp. 67–91). Detroit, MI"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-i-disseminate-knowledge-about-already-dik"
-id: "TRM-ENG-48791"
+id: "TRM-ENG-63320"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(i) disseminate knowledge about already dik"

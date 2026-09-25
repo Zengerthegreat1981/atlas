@@ -1,6 +1,6 @@
 ---
 slug: "trm-kline-ns"
-id: "TRM-ENG-41269"
+id: "TRM-ENG-55798"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kline NS"

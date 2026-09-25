@@ -1,6 +1,6 @@
 ---
 slug: "trm-capture-errors-1"
-id: "TRM-ENG-44366"
+id: "TRM-ENG-58895"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Capture errors, 1"

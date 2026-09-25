@@ -1,6 +1,6 @@
 ---
 slug: "trm-symmetrical"
-id: "TRM-ENG-48779"
+id: "TRM-ENG-63308"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "symmetrical"

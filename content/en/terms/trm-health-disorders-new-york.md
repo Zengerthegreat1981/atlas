@@ -1,6 +1,6 @@
 ---
 slug: "trm-health-disorders-new-york"
-id: "TRM-ENG-40351"
+id: "TRM-ENG-54880"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "health & disorders. New York"

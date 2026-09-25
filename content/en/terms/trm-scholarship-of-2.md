@@ -1,6 +1,6 @@
 ---
 slug: "trm-scholarship-of-2"
-id: "TRM-ENG-41563"
+id: "TRM-ENG-56092"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "scholarship of, 2"

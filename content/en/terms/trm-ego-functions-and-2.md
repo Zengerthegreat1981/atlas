@@ -1,6 +1,6 @@
 ---
 slug: "trm-ego-functions-and-2"
-id: "TRM-ENG-40022"
+id: "TRM-ENG-54551"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ego functions and, 2"

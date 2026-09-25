@@ -1,6 +1,6 @@
 ---
 slug: "trm-personality-disorder-for-some-time"
-id: "TRM-ENG-43125"
+id: "TRM-ENG-57654"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "personality disorder for some time"

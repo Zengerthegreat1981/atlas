@@ -1,6 +1,6 @@
 ---
 slug: "trm-acta-psychiar-scand-118"
-id: "TRM-ENG-47448"
+id: "TRM-ENG-61977"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Acta Psychiar Scand 118"

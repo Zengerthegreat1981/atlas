@@ -1,6 +1,6 @@
 ---
 slug: "trm-rosenzweigs1994thehistoricexpeditiontoamerica"
-id: "TRM-ENG-37244"
+id: "TRM-ENG-66302"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rosenzweig,S.(1994).ThehistoricexpeditiontoAmerica"

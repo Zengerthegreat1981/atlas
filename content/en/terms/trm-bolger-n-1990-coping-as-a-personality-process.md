@@ -1,6 +1,6 @@
 ---
 slug: "trm-bolger-n-1990-coping-as-a-personality-process"
-id: "TRM-ENG-35323"
+id: "TRM-ENG-49852"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bolger, N. (1990). Coping as a personality process"

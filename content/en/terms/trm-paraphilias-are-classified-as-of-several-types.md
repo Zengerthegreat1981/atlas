@@ -1,6 +1,6 @@
 ---
 slug: "trm-paraphilias-are-classified-as-of-several-types"
-id: "TRM-ENG-36835"
+id: "TRM-ENG-51364"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "paraphilias are classified as of several types"

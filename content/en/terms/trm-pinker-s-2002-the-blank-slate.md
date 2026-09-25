@@ -1,6 +1,6 @@
 ---
 slug: "trm-pinker-s-2002-the-blank-slate"
-id: "TRM-ENG-43517"
+id: "TRM-ENG-58046"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pinker, S. (2002). The blank slate"

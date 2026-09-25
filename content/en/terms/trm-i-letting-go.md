@@ -1,6 +1,6 @@
 ---
 slug: "trm-i-letting-go"
-id: "TRM-ENG-41069"
+id: "TRM-ENG-55598"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "I. Letting Go"

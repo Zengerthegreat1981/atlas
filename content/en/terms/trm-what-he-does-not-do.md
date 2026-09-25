@@ -1,6 +1,6 @@
 ---
 slug: "trm-what-he-does-not-do"
-id: "TRM-ENG-45427"
+id: "TRM-ENG-59956"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "what he does not do"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-waite-r-adolf-hitlers-antisemitism"
-id: "TRM-ENG-44684"
+id: "TRM-ENG-59213"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Waite, R., “Adolf Hitler’s Anti-Semitism"

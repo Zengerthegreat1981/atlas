@@ -1,6 +1,6 @@
 ---
 slug: "trm-borderline-personality-disorder-demystified"
-id: "TRM-ENG-42336"
+id: "TRM-ENG-56865"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Borderline Personality Disorder Demystified"

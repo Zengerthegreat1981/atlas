@@ -1,6 +1,6 @@
 ---
 slug: "trm-assimilation-group-relations-1"
-id: "TRM-ENG-46251"
+id: "TRM-ENG-60780"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Assimilation (group relations), 1"

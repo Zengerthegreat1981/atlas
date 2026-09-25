@@ -1,6 +1,6 @@
 ---
 slug: "trm-huxley-thomas-1"
-id: "TRM-ENG-46782"
+id: "TRM-ENG-61311"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Huxley, Thomas, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-wheeler-j-e-1967-chapter-i"
-id: "TRM-ENG-47477"
+id: "TRM-ENG-62006"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wheeler, J. E. (1967). Chapter I"

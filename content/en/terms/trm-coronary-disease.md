@@ -1,6 +1,6 @@
 ---
 slug: "trm-coronary-disease"
-id: "TRM-ENG-46918"
+id: "TRM-ENG-61447"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "coronary disease"

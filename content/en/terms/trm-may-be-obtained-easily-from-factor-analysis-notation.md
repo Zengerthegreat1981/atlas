@@ -1,6 +1,6 @@
 ---
 slug: "trm-may-be-obtained-easily-from-factor-analysis-notation"
-id: "TRM-ENG-35933"
+id: "TRM-ENG-64991"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "may be obtained easily from factor analysis notation"

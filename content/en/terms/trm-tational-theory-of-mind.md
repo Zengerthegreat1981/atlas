@@ -1,6 +1,6 @@
 ---
 slug: "trm-tational-theory-of-mind"
-id: "TRM-ENG-45554"
+id: "TRM-ENG-60083"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tational theory of mind"

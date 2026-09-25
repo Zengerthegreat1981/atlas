@@ -1,6 +1,6 @@
 ---
 slug: "trm-amsterdam"
-id: "TRM-ENG-35580"
+id: "TRM-ENG-64638"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Amsterdam"

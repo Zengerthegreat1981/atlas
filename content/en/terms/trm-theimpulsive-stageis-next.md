@@ -1,6 +1,6 @@
 ---
 slug: "trm-theimpulsive-stageis-next"
-id: "TRM-ENG-36011"
+id: "TRM-ENG-65069"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Theimpulsive stageis next"

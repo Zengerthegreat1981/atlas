@@ -1,6 +1,6 @@
 ---
 slug: "trm-ed-midcentury-psychiatry"
-id: "TRM-ENG-44703"
+id: "TRM-ENG-59232"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____ (Ed.), Mid-Century Psychiatry"

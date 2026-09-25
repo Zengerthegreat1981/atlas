@@ -1,6 +1,6 @@
 ---
 slug: "trm-baarsbj1986thecognitiverevolutioninpsychologynewyork"
-id: "TRM-ENG-36582"
+id: "TRM-ENG-65640"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Baars,B.J.(1986).Thecognitiverevolutioninpsychology.NewYork"

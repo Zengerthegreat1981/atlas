@@ -1,6 +1,6 @@
 ---
 slug: "trm-group-arch-gen-psychiatry-54"
-id: "TRM-ENG-47696"
+id: "TRM-ENG-62225"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Group. Arch Gen Psychiatry 54"

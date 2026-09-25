@@ -1,6 +1,6 @@
 ---
 slug: "trm-learning-must-first-be-taught-as-a-skill-in-itself"
-id: "TRM-ENG-36625"
+id: "TRM-ENG-65683"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "learning must first be taught as a skill in itself"

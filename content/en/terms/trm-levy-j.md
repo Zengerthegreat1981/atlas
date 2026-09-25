@@ -1,6 +1,6 @@
 ---
 slug: "trm-levy-j"
-id: "TRM-ENG-41431"
+id: "TRM-ENG-55960"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Levy J"

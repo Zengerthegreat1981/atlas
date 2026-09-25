@@ -1,6 +1,6 @@
 ---
 slug: "trm-ponent-of-the-self-has-several-components"
-id: "TRM-ENG-43136"
+id: "TRM-ENG-57665"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ponent of the self, has several components"

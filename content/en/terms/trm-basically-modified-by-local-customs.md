@@ -1,6 +1,6 @@
 ---
 slug: "trm-basically-modified-by-local-customs"
-id: "TRM-ENG-44911"
+id: "TRM-ENG-59440"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "basically modified by local customs"

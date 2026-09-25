@@ -1,6 +1,6 @@
 ---
 slug: "trm-tradition"
-id: "TRM-ENG-45393"
+id: "TRM-ENG-59922"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tradition"

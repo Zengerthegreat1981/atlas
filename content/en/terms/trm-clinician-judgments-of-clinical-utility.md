@@ -1,6 +1,6 @@
 ---
 slug: "trm-clinician-judgments-of-clinical-utility"
-id: "TRM-ENG-42357"
+id: "TRM-ENG-56886"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Clinician judgments of clinical utility"

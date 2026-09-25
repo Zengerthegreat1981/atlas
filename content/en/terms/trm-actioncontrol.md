@@ -1,6 +1,6 @@
 ---
 slug: "trm-actioncontrol"
-id: "TRM-ENG-46396"
+id: "TRM-ENG-60925"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Action-control"

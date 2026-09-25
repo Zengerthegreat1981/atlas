@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-sciences-citation-indexand-4"
-id: "TRM-ENG-38791"
+id: "TRM-ENG-53320"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Social Sciences Citation Indexand, 4"

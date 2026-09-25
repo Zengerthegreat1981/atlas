@@ -1,6 +1,6 @@
 ---
 slug: "trm-3-the-possibility-of-changing-the-object-of-fused-with"
-id: "TRM-ENG-46167"
+id: "TRM-ENG-60696"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "3. The possibility of changing the object of fused with"

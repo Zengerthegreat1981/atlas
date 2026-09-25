@@ -1,6 +1,6 @@
 ---
 slug: "trm-against-youth-against-elderly-and-2"
-id: "TRM-ENG-39134"
+id: "TRM-ENG-53663"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "against youth, against elderly and, 2"

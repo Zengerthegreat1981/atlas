@@ -1,6 +1,6 @@
 ---
 slug: "trm-selfactualization-though-life-experiences-can-derail-im-ok"
-id: "TRM-ENG-41594"
+id: "TRM-ENG-56123"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "self-actualization. Though life experiences can derail I’m OK"

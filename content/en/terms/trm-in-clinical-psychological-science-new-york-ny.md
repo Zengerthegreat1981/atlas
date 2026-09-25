@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-clinical-psychological-science-new-york-ny"
-id: "TRM-ENG-51532"
+id: "TRM-ENG-66061"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in clinical psychological science. New York, NY"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-cultural-diversity-considerations-and-1"
-id: "TRM-ENG-39810"
+id: "TRM-ENG-54339"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cultural diversity considerations and, 1"

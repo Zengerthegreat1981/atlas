@@ -1,6 +1,6 @@
 ---
 slug: "trm-58-in-rothlin-e-ed"
-id: "TRM-ENG-39192"
+id: "TRM-ENG-53721"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "58, in Rothlin E (ed)"

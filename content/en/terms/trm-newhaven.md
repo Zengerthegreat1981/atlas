@@ -1,6 +1,6 @@
 ---
 slug: "trm-newhaven"
-id: "TRM-ENG-37121"
+id: "TRM-ENG-66179"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "NewHaven"

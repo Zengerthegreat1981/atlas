@@ -1,6 +1,6 @@
 ---
 slug: "trm-across-the-membrane"
-id: "TRM-ENG-34730"
+id: "TRM-ENG-49259"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "across the membrane"

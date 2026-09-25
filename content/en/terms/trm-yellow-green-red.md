@@ -1,6 +1,6 @@
 ---
 slug: "trm-yellow-green-red"
-id: "TRM-ENG-35127"
+id: "TRM-ENG-64185"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "yellow, green, red)"

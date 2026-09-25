@@ -1,6 +1,6 @@
 ---
 slug: "trm-an-individual"
-id: "TRM-ENG-43521"
+id: "TRM-ENG-58050"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "an individual"

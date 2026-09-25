@@ -1,6 +1,6 @@
 ---
 slug: "trm-oriol-w-e-social-policy-priorities"
-id: "TRM-ENG-44559"
+id: "TRM-ENG-59088"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Oriol, W. E., “Social Policy Priorities"

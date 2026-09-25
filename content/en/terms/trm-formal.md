@@ -1,6 +1,6 @@
 ---
 slug: "trm-formal"
-id: "TRM-ENG-38082"
+id: "TRM-ENG-67140"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Formal"

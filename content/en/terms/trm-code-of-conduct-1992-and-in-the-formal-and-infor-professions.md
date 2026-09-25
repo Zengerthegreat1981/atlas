@@ -1,6 +1,6 @@
 ---
 slug: "trm-code-of-conduct-1992-and-in-the-formal-and-infor-professions"
-id: "TRM-ENG-34658"
+id: "TRM-ENG-63716"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Code of Conduct” (1992) and in the formal and infor- Professions"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-health-human-development-and-wellbeing"
-id: "TRM-ENG-36884"
+id: "TRM-ENG-65942"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Health, human development and well-being"

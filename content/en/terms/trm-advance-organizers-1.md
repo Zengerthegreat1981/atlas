@@ -1,6 +1,6 @@
 ---
 slug: "trm-advance-organizers-1"
-id: "TRM-ENG-47554"
+id: "TRM-ENG-62083"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "advance organizers, 1"

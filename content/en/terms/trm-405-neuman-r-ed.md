@@ -1,6 +1,6 @@
 ---
 slug: "trm-405-neuman-r-ed"
-id: "TRM-ENG-38992"
+id: "TRM-ENG-53521"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "405. Neuman R (ed)"

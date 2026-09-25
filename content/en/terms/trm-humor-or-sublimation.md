@@ -1,6 +1,6 @@
 ---
 slug: "trm-humor-or-sublimation"
-id: "TRM-ENG-48381"
+id: "TRM-ENG-62910"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "humor or sublimation"

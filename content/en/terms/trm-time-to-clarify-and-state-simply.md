@@ -1,6 +1,6 @@
 ---
 slug: "trm-time-to-clarify-and-state-simply"
-id: "TRM-ENG-45384"
+id: "TRM-ENG-59913"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "time to clarify and state simply"

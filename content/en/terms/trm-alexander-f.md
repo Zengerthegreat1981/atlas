@@ -1,6 +1,6 @@
 ---
 slug: "trm-alexander-f"
-id: "TRM-ENG-39660"
+id: "TRM-ENG-54189"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Alexander F"

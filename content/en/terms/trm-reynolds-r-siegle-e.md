@@ -1,6 +1,6 @@
 ---
 slug: "trm-reynolds-r-siegle-e"
-id: "TRM-ENG-42102"
+id: "TRM-ENG-56631"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Reynolds R, Siegle E"

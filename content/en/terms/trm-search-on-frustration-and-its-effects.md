@@ -1,6 +1,6 @@
 ---
 slug: "trm-search-on-frustration-and-its-effects"
-id: "TRM-ENG-36963"
+id: "TRM-ENG-51492"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "search on frustration and its effects"

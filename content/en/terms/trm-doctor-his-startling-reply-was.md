@@ -1,6 +1,6 @@
 ---
 slug: "trm-doctor-his-startling-reply-was"
-id: "TRM-ENG-43019"
+id: "TRM-ENG-57548"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "doctor. His startling reply was"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-multiculturalism-2"
-id: "TRM-ENG-47026"
+id: "TRM-ENG-61555"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Multiculturalism, 2"

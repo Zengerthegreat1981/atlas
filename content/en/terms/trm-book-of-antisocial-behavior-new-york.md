@@ -1,6 +1,6 @@
 ---
 slug: "trm-book-of-antisocial-behavior-new-york"
-id: "TRM-ENG-34907"
+id: "TRM-ENG-63965"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "book of antisocial behavior. New York"

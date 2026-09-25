@@ -1,6 +1,6 @@
 ---
 slug: "trm-symptomsnewyork"
-id: "TRM-ENG-47318"
+id: "TRM-ENG-61847"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "symptoms.NewYork"

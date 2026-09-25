@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychiatry-46"
-id: "TRM-ENG-47964"
+id: "TRM-ENG-62493"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychiatry 46"

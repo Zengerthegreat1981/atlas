@@ -1,6 +1,6 @@
 ---
 slug: "trm-i-q-whishaw-eds-brain-and-behavior"
-id: "TRM-ENG-34630"
+id: "TRM-ENG-63688"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "I. Q. Whishaw (Eds.), Brain and behavior"

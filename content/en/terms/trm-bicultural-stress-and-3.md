@@ -1,6 +1,6 @@
 ---
 slug: "trm-bicultural-stress-and-3"
-id: "TRM-ENG-39366"
+id: "TRM-ENG-53895"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bicultural stress and, 3"

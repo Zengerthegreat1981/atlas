@@ -1,6 +1,6 @@
 ---
 slug: "trm-image-princeton-nj"
-id: "TRM-ENG-45187"
+id: "TRM-ENG-59716"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "image . Princeton, NJ"

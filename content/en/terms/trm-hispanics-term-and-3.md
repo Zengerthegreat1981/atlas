@@ -1,6 +1,6 @@
 ---
 slug: "trm-hispanics-term-and-3"
-id: "TRM-ENG-38181"
+id: "TRM-ENG-52710"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hispanics term and, 3"

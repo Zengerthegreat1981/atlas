@@ -1,6 +1,6 @@
 ---
 slug: "trm-199-doi"
-id: "TRM-ENG-43297"
+id: "TRM-ENG-57826"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "199. doi"

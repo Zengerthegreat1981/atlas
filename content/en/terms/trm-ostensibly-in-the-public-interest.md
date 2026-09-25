@@ -1,6 +1,6 @@
 ---
 slug: "trm-ostensibly-in-the-public-interest"
-id: "TRM-ENG-44156"
+id: "TRM-ENG-58685"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ostensibly in the public interest"

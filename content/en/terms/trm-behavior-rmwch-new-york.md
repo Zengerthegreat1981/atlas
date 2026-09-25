@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavior-rmwch-new-york"
-id: "TRM-ENG-34897"
+id: "TRM-ENG-63955"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behavior rmwch. New York"

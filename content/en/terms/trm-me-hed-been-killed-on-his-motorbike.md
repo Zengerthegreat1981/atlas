@@ -1,6 +1,6 @@
 ---
 slug: "trm-me-hed-been-killed-on-his-motorbike"
-id: "TRM-ENG-35935"
+id: "TRM-ENG-64993"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "me he’d been killed on his motorbike"

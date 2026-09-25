@@ -1,6 +1,6 @@
 ---
 slug: "trm-for-treatment"
-id: "TRM-ENG-42847"
+id: "TRM-ENG-57376"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "for treatment"

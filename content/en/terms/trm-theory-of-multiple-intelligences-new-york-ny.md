@@ -1,6 +1,6 @@
 ---
 slug: "trm-theory-of-multiple-intelligences-new-york-ny"
-id: "TRM-ENG-48883"
+id: "TRM-ENG-63412"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theory of multiple intelligences. New York, NY"

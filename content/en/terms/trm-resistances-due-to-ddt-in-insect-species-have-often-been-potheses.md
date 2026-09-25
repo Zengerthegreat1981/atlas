@@ -1,6 +1,6 @@
 ---
 slug: "trm-resistances-due-to-ddt-in-insect-species-have-often-been-potheses"
-id: "TRM-ENG-36940"
+id: "TRM-ENG-65998"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "resistances due to DDT in insect species, have often been potheses"

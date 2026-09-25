@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-three-scores"
-id: "TRM-ENG-45572"
+id: "TRM-ENG-60101"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing three scores"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-orlinsky-de-howard-ki"
-id: "TRM-ENG-41877"
+id: "TRM-ENG-56406"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Orlinsky DE, Howard KI"

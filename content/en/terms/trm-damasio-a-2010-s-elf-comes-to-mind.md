@@ -1,6 +1,6 @@
 ---
 slug: "trm-damasio-a-2010-s-elf-comes-to-mind"
-id: "TRM-ENG-44411"
+id: "TRM-ENG-58940"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Damasio, A. (2010). S elf comes to mind"

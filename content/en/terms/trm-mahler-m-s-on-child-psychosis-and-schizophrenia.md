@@ -1,6 +1,6 @@
 ---
 slug: "trm-mahler-m-s-on-child-psychosis-and-schizophrenia"
-id: "TRM-ENG-44510"
+id: "TRM-ENG-59039"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mahler, M. S., “On Child Psychosis and Schizophrenia"

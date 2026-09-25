@@ -1,6 +1,6 @@
 ---
 slug: "trm-509-levy-s-ed"
-id: "TRM-ENG-39116"
+id: "TRM-ENG-53645"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "509. Levy S (ed)"

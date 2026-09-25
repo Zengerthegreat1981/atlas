@@ -1,6 +1,6 @@
 ---
 slug: "trm-cranswick-eh-hall-tc"
-id: "TRM-ENG-40260"
+id: "TRM-ENG-54789"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cranswick EH, Hall TC"

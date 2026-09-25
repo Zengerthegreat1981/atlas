@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-earlier-james"
-id: "TRM-ENG-52610"
+id: "TRM-ENG-67139"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the earlier James"

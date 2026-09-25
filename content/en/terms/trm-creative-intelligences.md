@@ -1,6 +1,6 @@
 ---
 slug: "trm-creative-intelligences"
-id: "TRM-ENG-36322"
+id: "TRM-ENG-50851"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "creative intelligences"

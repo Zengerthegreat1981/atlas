@@ -1,6 +1,6 @@
 ---
 slug: "trm-each-other"
-id: "TRM-ENG-44052"
+id: "TRM-ENG-58581"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "each other,"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-aristotle"
-id: "TRM-ENG-35585"
+id: "TRM-ENG-64643"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Aristotle"

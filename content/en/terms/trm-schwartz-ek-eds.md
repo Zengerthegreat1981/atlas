@@ -1,6 +1,6 @@
 ---
 slug: "trm-schwartz-ek-eds"
-id: "TRM-ENG-42292"
+id: "TRM-ENG-56821"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schwartz EK (eds)"

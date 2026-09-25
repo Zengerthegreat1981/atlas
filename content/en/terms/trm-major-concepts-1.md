@@ -1,6 +1,6 @@
 ---
 slug: "trm-major-concepts-1"
-id: "TRM-ENG-51584"
+id: "TRM-ENG-66113"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "major concepts, 1"

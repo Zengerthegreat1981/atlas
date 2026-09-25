@@ -1,6 +1,6 @@
 ---
 slug: "trm-phenomenology-2"
-id: "TRM-ENG-48537"
+id: "TRM-ENG-63066"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "phenomenology, 2"

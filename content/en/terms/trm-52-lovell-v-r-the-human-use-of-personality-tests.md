@@ -1,6 +1,6 @@
 ---
 slug: "trm-52-lovell-v-r-the-human-use-of-personality-tests"
-id: "TRM-ENG-44223"
+id: "TRM-ENG-58752"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "52. Lovell, V. R., “The Human Use of Personality Tests"

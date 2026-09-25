@@ -1,6 +1,6 @@
 ---
 slug: "trm-groupings"
-id: "TRM-ENG-43057"
+id: "TRM-ENG-57586"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "groupings"

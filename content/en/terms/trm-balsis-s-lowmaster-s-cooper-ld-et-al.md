@@ -1,6 +1,6 @@
 ---
 slug: "trm-balsis-s-lowmaster-s-cooper-ld-et-al"
-id: "TRM-ENG-47488"
+id: "TRM-ENG-62017"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Balsis S, Lowmaster S, Cooper LD, et al"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-geriatric-psychology-is-a-rather-new-area-of-interest"
-id: "TRM-ENG-35703"
+id: "TRM-ENG-64761"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Geriatric psychology is a rather new area of interest"

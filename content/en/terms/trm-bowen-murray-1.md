@@ -1,6 +1,6 @@
 ---
 slug: "trm-bowen-murray-1"
-id: "TRM-ENG-50183"
+id: "TRM-ENG-64712"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bowen, Murray, 1"

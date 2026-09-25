@@ -1,6 +1,6 @@
 ---
 slug: "trm-kardec-and-3"
-id: "TRM-ENG-37406"
+id: "TRM-ENG-66464"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Kardec) and, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-e-ij-i"
-id: "TRM-ENG-34676"
+id: "TRM-ENG-49205"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "E IJ I"

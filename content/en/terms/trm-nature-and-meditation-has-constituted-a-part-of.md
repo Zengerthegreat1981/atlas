@@ -1,6 +1,6 @@
 ---
 slug: "trm-nature-and-meditation-has-constituted-a-part-of"
-id: "TRM-ENG-46159"
+id: "TRM-ENG-60688"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nature, and meditation has constituted a part of"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-newman-0-972de-fensible-space-new-york"
-id: "TRM-ENG-34758"
+id: "TRM-ENG-63816"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Newman. 0. (~972)D.e fensible space. New York"

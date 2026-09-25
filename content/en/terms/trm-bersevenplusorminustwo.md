@@ -1,6 +1,6 @@
 ---
 slug: "trm-bersevenplusorminustwo"
-id: "TRM-ENG-43556"
+id: "TRM-ENG-58085"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "berseven,plusorminustwo"

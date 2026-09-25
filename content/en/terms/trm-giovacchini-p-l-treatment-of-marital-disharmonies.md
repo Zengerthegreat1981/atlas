@@ -1,6 +1,6 @@
 ---
 slug: "trm-giovacchini-p-l-treatment-of-marital-disharmonies"
-id: "TRM-ENG-44405"
+id: "TRM-ENG-58934"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Giovacchini, P. L., “Treatment of Marital Disharmonies"

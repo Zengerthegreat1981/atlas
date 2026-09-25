@@ -1,6 +1,6 @@
 ---
 slug: "trm-bowel-syndrome"
-id: "TRM-ENG-46866"
+id: "TRM-ENG-61395"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bowel syndrome"

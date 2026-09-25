@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-health-care-system"
-id: "TRM-ENG-49745"
+id: "TRM-ENG-64274"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the health care system"

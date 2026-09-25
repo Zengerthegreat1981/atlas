@@ -1,6 +1,6 @@
 ---
 slug: "trm-effects-on-the-behaviors-of-the-parts"
-id: "TRM-ENG-47949"
+id: "TRM-ENG-62478"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "effects on the behaviors of the parts"

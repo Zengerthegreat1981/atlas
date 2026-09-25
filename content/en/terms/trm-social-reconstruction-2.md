@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-reconstruction-2"
-id: "TRM-ENG-47308"
+id: "TRM-ENG-61837"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Social reconstruction, 2"

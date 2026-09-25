@@ -1,6 +1,6 @@
 ---
 slug: "trm-rochlen-a-b-1"
-id: "TRM-ENG-38688"
+id: "TRM-ENG-53217"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rochlen, A. B., 1"

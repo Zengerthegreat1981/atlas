@@ -1,6 +1,6 @@
 ---
 slug: "trm-modern-psychology-cambridge-uk"
-id: "TRM-ENG-45310"
+id: "TRM-ENG-59839"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "modern psychology. Cambridge, UK"

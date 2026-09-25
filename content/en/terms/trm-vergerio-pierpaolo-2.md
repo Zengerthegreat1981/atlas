@@ -1,6 +1,6 @@
 ---
 slug: "trm-vergerio-pierpaolo-2"
-id: "TRM-ENG-47458"
+id: "TRM-ENG-61987"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Vergerio, Pierpaolo, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-wellbeing-of-adults"
-id: "TRM-ENG-44233"
+id: "TRM-ENG-58762"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "wellbeing of adults"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ther-while-cocaine-abua"
-id: "TRM-ENG-35387"
+id: "TRM-ENG-49916"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ther, while cocaine abua"

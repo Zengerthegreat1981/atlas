@@ -1,6 +1,6 @@
 ---
 slug: "trm-parker-b"
-id: "TRM-ENG-41925"
+id: "TRM-ENG-56454"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Parker B"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-organizational-justice-and-3"
-id: "TRM-ENG-41068"
+id: "TRM-ENG-55597"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "organizational justice and, 3"

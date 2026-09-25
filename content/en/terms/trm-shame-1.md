@@ -1,6 +1,6 @@
 ---
 slug: "trm-shame-1"
-id: "TRM-ENG-44765"
+id: "TRM-ENG-59294"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shame, 1"

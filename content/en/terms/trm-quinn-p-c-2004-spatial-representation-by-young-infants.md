@@ -1,6 +1,6 @@
 ---
 slug: "trm-quinn-p-c-2004-spatial-representation-by-young-infants"
-id: "TRM-ENG-44724"
+id: "TRM-ENG-59253"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Quinn, P. C. (2004). Spatial representation by young infants"

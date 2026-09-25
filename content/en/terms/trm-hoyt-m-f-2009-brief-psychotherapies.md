@@ -1,6 +1,6 @@
 ---
 slug: "trm-hoyt-m-f-2009-brief-psychotherapies"
-id: "TRM-ENG-50548"
+id: "TRM-ENG-65077"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hoyt, M. F. (2009). Brief psychotherapies"

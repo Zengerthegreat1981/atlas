@@ -1,6 +1,6 @@
 ---
 slug: "trm-maltreated-children"
-id: "TRM-ENG-36664"
+id: "TRM-ENG-65722"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "maltreated children"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-for-the-stranger-leviticus-19"
-id: "TRM-ENG-45900"
+id: "TRM-ENG-60429"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "for the stranger (Leviticus 19"

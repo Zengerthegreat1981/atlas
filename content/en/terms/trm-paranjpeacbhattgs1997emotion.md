@@ -1,6 +1,6 @@
 ---
 slug: "trm-paranjpeacbhattgs1997emotion"
-id: "TRM-ENG-37147"
+id: "TRM-ENG-66205"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Paranjpe,A.C.,&Bhatt,G.S.(1997).Emotion"

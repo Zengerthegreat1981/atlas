@@ -1,6 +1,6 @@
 ---
 slug: "trm-causes-of-mental-disorders"
-id: "TRM-ENG-44331"
+id: "TRM-ENG-58860"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Causes of Mental Disorders"

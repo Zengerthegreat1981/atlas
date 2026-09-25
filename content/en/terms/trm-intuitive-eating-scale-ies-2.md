@@ -1,6 +1,6 @@
 ---
 slug: "trm-intuitive-eating-scale-ies-2"
-id: "TRM-ENG-38259"
+id: "TRM-ENG-52788"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Intuitive Eating Scale (IES), 2"

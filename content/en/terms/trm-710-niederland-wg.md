@@ -1,6 +1,6 @@
 ---
 slug: "trm-710-niederland-wg"
-id: "TRM-ENG-39354"
+id: "TRM-ENG-53883"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "710. Niederland WG"

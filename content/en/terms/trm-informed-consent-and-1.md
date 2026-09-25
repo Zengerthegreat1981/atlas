@@ -1,6 +1,6 @@
 ---
 slug: "trm-informed-consent-and-1"
-id: "TRM-ENG-40547"
+id: "TRM-ENG-55076"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "informed consent and, 1"

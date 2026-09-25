@@ -1,6 +1,6 @@
 ---
 slug: "trm-werturteilsstreit-lewisburg-pa"
-id: "TRM-ENG-47474"
+id: "TRM-ENG-62003"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Werturteilsstreit. Lewisburg, PA"

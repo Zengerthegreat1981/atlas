@@ -1,6 +1,6 @@
 ---
 slug: "trm-andtreatmentofanxietyandpanicnewyork"
-id: "TRM-ENG-46829"
+id: "TRM-ENG-61358"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "andtreatmentofanxietyandpanic.NewYork"

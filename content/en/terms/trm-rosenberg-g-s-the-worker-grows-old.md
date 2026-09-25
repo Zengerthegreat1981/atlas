@@ -1,6 +1,6 @@
 ---
 slug: "trm-rosenberg-g-s-the-worker-grows-old"
-id: "TRM-ENG-44605"
+id: "TRM-ENG-59134"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rosenberg, G. S., The Worker Grows Old"

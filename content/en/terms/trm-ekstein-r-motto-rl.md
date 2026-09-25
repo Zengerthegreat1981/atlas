@@ -1,6 +1,6 @@
 ---
 slug: "trm-ekstein-r-motto-rl"
-id: "TRM-ENG-40427"
+id: "TRM-ENG-54956"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ekstein R, Motto RL"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-fielding-b-mogul-d"
-id: "TRM-ENG-40525"
+id: "TRM-ENG-55054"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fielding B, Mogul D"

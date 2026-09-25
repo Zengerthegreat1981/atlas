@@ -1,6 +1,6 @@
 ---
 slug: "trm-durkheim"
-id: "TRM-ENG-46529"
+id: "TRM-ENG-61058"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Durkheim"

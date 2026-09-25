@@ -1,6 +1,6 @@
 ---
 slug: "trm-plasticity-and-memory"
-id: "TRM-ENG-36864"
+id: "TRM-ENG-65922"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "plasticity and memory"

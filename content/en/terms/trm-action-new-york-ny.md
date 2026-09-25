@@ -1,6 +1,6 @@
 ---
 slug: "trm-action-new-york-ny"
-id: "TRM-ENG-44872"
+id: "TRM-ENG-59401"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "action. New York, NY"

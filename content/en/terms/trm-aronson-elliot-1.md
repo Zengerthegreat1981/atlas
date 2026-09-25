@@ -1,6 +1,6 @@
 ---
 slug: "trm-aronson-elliot-1"
-id: "TRM-ENG-44307"
+id: "TRM-ENG-58836"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Aronson, Elliot, 1"

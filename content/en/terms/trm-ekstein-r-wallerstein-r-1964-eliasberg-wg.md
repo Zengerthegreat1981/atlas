@@ -1,6 +1,6 @@
 ---
 slug: "trm-ekstein-r-wallerstein-r-1964-eliasberg-wg"
-id: "TRM-ENG-40429"
+id: "TRM-ENG-54958"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ekstein R, Wallerstein R 1964 Eliasberg WG"

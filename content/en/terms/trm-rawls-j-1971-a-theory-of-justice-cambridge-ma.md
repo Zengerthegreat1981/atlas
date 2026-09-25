@@ -1,6 +1,6 @@
 ---
 slug: "trm-rawls-j-1971-a-theory-of-justice-cambridge-ma"
-id: "TRM-ENG-44725"
+id: "TRM-ENG-59254"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rawls, J. (1971). A theory of justice. Cambridge, MA"

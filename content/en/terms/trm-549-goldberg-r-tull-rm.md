@@ -1,6 +1,6 @@
 ---
 slug: "trm-549-goldberg-r-tull-rm"
-id: "TRM-ENG-39160"
+id: "TRM-ENG-53689"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "549. Goldberg R, Tull RM"

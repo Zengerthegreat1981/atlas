@@ -1,6 +1,6 @@
 ---
 slug: "trm-lamielljt2010williamstern18711938"
-id: "TRM-ENG-37022"
+id: "TRM-ENG-66080"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lamiell,J.T.(2010).WilliamStern(1871–1938)"

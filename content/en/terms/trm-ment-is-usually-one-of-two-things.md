@@ -1,6 +1,6 @@
 ---
 slug: "trm-ment-is-usually-one-of-two-things"
-id: "TRM-ENG-36690"
+id: "TRM-ENG-65748"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ment is usually one of two things"

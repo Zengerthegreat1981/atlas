@@ -1,6 +1,6 @@
 ---
 slug: "trm-gottingen"
-id: "TRM-ENG-49006"
+id: "TRM-ENG-63535"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "GoÈttingen"

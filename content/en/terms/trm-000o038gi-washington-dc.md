@@ -1,6 +1,6 @@
 ---
 slug: "trm-000o038gi-washington-dc"
-id: "TRM-ENG-34598"
+id: "TRM-ENG-63656"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "000-o038g-I). Washington. DC"

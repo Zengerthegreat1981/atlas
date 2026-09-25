@@ -1,6 +1,6 @@
 ---
 slug: "trm-nichols-mp-schwartz-rc-1995-family-therapy"
-id: "TRM-ENG-35864"
+id: "TRM-ENG-50393"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nichols, M.P., & Schwartz, R.C. (1995). Family therapy"

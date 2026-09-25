@@ -1,6 +1,6 @@
 ---
 slug: "trm-william-e-crosss-work-in-3"
-id: "TRM-ENG-39043"
+id: "TRM-ENG-53572"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "William E. Cross’s work in, 3"

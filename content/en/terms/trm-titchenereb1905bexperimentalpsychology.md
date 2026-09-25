@@ -1,6 +1,6 @@
 ---
 slug: "trm-titchenereb1905bexperimentalpsychology"
-id: "TRM-ENG-37378"
+id: "TRM-ENG-51907"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Titchener,E.B.(1905b).Experimentalpsychology"

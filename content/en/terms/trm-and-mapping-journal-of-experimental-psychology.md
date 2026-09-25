@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-mapping-journal-of-experimental-psychology"
-id: "TRM-ENG-44899"
+id: "TRM-ENG-59428"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and mapping. Journal of Experimental Psychology"

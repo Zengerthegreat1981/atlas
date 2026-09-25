@@ -1,6 +1,6 @@
 ---
 slug: "trm-man-as-socius"
-id: "TRM-ENG-40757"
+id: "TRM-ENG-55286"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "man as socius"

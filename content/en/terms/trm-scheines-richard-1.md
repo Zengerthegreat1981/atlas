@@ -1,6 +1,6 @@
 ---
 slug: "trm-scheines-richard-1"
-id: "TRM-ENG-44745"
+id: "TRM-ENG-59274"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Scheines, Richard, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-transformative-knowledge-and-action-new-york-ny"
-id: "TRM-ENG-48966"
+id: "TRM-ENG-63495"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "transformative knowledge and action. New York, NY"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-barlow-david-h-2"
-id: "TRM-ENG-37670"
+id: "TRM-ENG-52199"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Barlow, David H., 2"

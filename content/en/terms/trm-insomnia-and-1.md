@@ -1,6 +1,6 @@
 ---
 slug: "trm-insomnia-and-1"
-id: "TRM-ENG-40570"
+id: "TRM-ENG-55099"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "insomnia and, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-neuropsychology"
-id: "TRM-ENG-34875"
+id: "TRM-ENG-63933"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in neuropsychology"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-culturebound-syndromes3"
-id: "TRM-ENG-37909"
+id: "TRM-ENG-52438"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Culture-bound syndromes,3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-myersbriggs-type-indicator-mbti-2"
-id: "TRM-ENG-38469"
+id: "TRM-ENG-52998"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Myers-Briggs Type Indicator (MBTI), 2"

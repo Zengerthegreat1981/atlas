@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp147173hillsdale"
-id: "TRM-ENG-36459"
+id: "TRM-ENG-65517"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp.147–173).Hillsdale"

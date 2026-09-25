@@ -1,6 +1,6 @@
 ---
 slug: "trm-observations-of-the-present-moment-and-1"
-id: "TRM-ENG-40977"
+id: "TRM-ENG-55506"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "observations of the present moment and, 1"

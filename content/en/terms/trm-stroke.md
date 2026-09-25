@@ -1,6 +1,6 @@
 ---
 slug: "trm-stroke"
-id: "TRM-ENG-35986"
+id: "TRM-ENG-65044"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stroke"

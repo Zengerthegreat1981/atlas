@@ -1,6 +1,6 @@
 ---
 slug: "trm-uniform-marriage-and-divorce-act-1974-1"
-id: "TRM-ENG-38956"
+id: "TRM-ENG-53485"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Uniform Marriage and Divorce Act (1974), 1"

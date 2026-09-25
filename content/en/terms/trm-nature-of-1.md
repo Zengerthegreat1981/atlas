@@ -1,6 +1,6 @@
 ---
 slug: "trm-nature-of-1"
-id: "TRM-ENG-40933"
+id: "TRM-ENG-55462"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nature of, 1"

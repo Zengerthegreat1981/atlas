@@ -1,6 +1,6 @@
 ---
 slug: "trm-equal-pay-act-1963-and-3"
-id: "TRM-ENG-38024"
+id: "TRM-ENG-67082"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Equal Pay Act (1963) and, 3"

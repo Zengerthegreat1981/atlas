@@ -1,6 +1,6 @@
 ---
 slug: "trm-mcneill-j"
-id: "TRM-ENG-41657"
+id: "TRM-ENG-56186"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "McNeill J"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-chalmers-david-1"
-id: "TRM-ENG-44374"
+id: "TRM-ENG-58903"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Chalmers, David, 1"

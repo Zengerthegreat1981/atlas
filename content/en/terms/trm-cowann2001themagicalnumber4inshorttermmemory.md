@@ -1,6 +1,6 @@
 ---
 slug: "trm-cowann2001themagicalnumber4inshorttermmemory"
-id: "TRM-ENG-36707"
+id: "TRM-ENG-65765"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cowan,N.(2001).Themagicalnumber4inshort-termmemory"

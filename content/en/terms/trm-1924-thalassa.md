@@ -1,6 +1,6 @@
 ---
 slug: "trm-1924-thalassa"
-id: "TRM-ENG-44710"
+id: "TRM-ENG-59239"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, (1924), Thalassa"

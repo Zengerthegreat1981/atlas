@@ -1,6 +1,6 @@
 ---
 slug: "trm-brainmind-1"
-id: "TRM-ENG-44978"
+id: "TRM-ENG-59507"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "brain/mind, 1"

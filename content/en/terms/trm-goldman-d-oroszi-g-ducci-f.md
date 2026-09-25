@@ -1,6 +1,6 @@
 ---
 slug: "trm-goldman-d-oroszi-g-ducci-f"
-id: "TRM-ENG-47676"
+id: "TRM-ENG-62205"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goldman D, Oroszi G, Ducci F"

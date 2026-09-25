@@ -1,6 +1,6 @@
 ---
 slug: "trm-often-referred-to-as-a-ct-scan"
-id: "TRM-ENG-45508"
+id: "TRM-ENG-60037"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "often referred to as a CT scan"

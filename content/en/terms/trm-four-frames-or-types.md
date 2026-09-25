@@ -1,6 +1,6 @@
 ---
 slug: "trm-four-frames-or-types"
-id: "TRM-ENG-40250"
+id: "TRM-ENG-54779"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "four frames or types"

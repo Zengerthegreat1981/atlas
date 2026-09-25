@@ -1,6 +1,6 @@
 ---
 slug: "trm-wollheim-r-1991-freud-london-england"
-id: "TRM-ENG-51186"
+id: "TRM-ENG-65715"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wollheim, R. (1991). Freud. London, England"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-anxious-caucasian-psychopathic-offenders"
-id: "TRM-ENG-42647"
+id: "TRM-ENG-57176"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "anxious Caucasian psychopathic offenders"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ingenieros-electroneurobiologa-143-pp-115195-http"
-id: "TRM-ENG-36949"
+id: "TRM-ENG-66007"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ingenieros. Electroneurobiolog´ıa; 14(3), pp. 115–195; http"

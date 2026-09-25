@@ -1,6 +1,6 @@
 ---
 slug: "trm-leastaproblemforareligiousmoralityatheistswill"
-id: "TRM-ENG-45943"
+id: "TRM-ENG-60472"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "leastaproblemforareligiousmorality.Atheistswill"

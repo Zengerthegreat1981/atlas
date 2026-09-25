@@ -1,6 +1,6 @@
 ---
 slug: "trm-beingratner1991chaps14asvygotskysaid"
-id: "TRM-ENG-37585"
+id: "TRM-ENG-66643"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "being(Ratner1991,Chaps.1,4).AsVygotskysaid"

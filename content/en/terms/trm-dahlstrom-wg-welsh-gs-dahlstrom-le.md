@@ -1,6 +1,6 @@
 ---
 slug: "trm-dahlstrom-wg-welsh-gs-dahlstrom-le"
-id: "TRM-ENG-47596"
+id: "TRM-ENG-62125"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dahlstrom WG, Welsh GS, Dahlstrom LE"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-367-goodwin-dw-guze-sb"
-id: "TRM-ENG-38935"
+id: "TRM-ENG-53464"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "367. Goodwin DW, Guze SB"

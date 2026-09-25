@@ -1,6 +1,6 @@
 ---
 slug: "trm-cropley-a-j-ed-1979-lifelong-education"
-id: "TRM-ENG-46473"
+id: "TRM-ENG-61002"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cropley, A. J. (Ed.). (1979). Lifelong education"

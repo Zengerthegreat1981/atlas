@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychophysiologic-infertility"
-id: "TRM-ENG-44583"
+id: "TRM-ENG-59112"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychophysiologic Infertility"

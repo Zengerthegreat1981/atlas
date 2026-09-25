@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychology-of-emotions"
-id: "TRM-ENG-38149"
+id: "TRM-ENG-52678"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychology of emotions"

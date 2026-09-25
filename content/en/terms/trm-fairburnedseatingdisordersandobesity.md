@@ -1,6 +1,6 @@
 ---
 slug: "trm-fairburnedseatingdisordersandobesity"
-id: "TRM-ENG-48979"
+id: "TRM-ENG-63508"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fairburn(Eds.),Eatingdisordersandobesity"

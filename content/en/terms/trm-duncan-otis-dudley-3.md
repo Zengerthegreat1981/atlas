@@ -1,6 +1,6 @@
 ---
 slug: "trm-duncan-otis-dudley-3"
-id: "TRM-ENG-37983"
+id: "TRM-ENG-52512"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Duncan, Otis Dudley, 3"

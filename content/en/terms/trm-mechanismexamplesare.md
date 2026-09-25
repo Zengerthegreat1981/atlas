@@ -1,6 +1,6 @@
 ---
 slug: "trm-mechanismexamplesare"
-id: "TRM-ENG-43728"
+id: "TRM-ENG-58257"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mechanism.Examplesare"

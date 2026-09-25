@@ -1,6 +1,6 @@
 ---
 slug: "trm-rial-positions-have-included-the-following"
-id: "TRM-ENG-41537"
+id: "TRM-ENG-56066"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rial positions have included the following"

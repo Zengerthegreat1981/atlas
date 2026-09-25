@@ -1,6 +1,6 @@
 ---
 slug: "trm-davis-dr"
-id: "TRM-ENG-40305"
+id: "TRM-ENG-54834"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Davis DR"

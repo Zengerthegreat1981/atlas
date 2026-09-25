@@ -1,6 +1,6 @@
 ---
 slug: "trm-crosscultural-counseling-implications-of-3"
-id: "TRM-ENG-39801"
+id: "TRM-ENG-54330"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cross-cultural counseling implications of, 3"

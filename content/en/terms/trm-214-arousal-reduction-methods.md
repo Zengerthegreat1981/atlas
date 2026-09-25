@@ -1,6 +1,6 @@
 ---
 slug: "trm-214-arousal-reduction-methods"
-id: "TRM-ENG-48828"
+id: "TRM-ENG-63357"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "214 Arousal Reduction Methods"

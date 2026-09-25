@@ -1,6 +1,6 @@
 ---
 slug: "trm-beling-of-the-infantsgestures"
-id: "TRM-ENG-36203"
+id: "TRM-ENG-50732"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "beling of the infants’gestures"

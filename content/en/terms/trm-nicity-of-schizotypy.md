@@ -1,6 +1,6 @@
 ---
 slug: "trm-nicity-of-schizotypy"
-id: "TRM-ENG-43751"
+id: "TRM-ENG-58280"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nicity of schizotypy"

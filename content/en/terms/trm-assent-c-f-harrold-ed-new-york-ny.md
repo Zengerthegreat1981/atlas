@@ -1,6 +1,6 @@
 ---
 slug: "trm-assent-c-f-harrold-ed-new-york-ny"
-id: "TRM-ENG-47665"
+id: "TRM-ENG-62194"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "assent (C. F. Harrold, Ed.). New York, NY"

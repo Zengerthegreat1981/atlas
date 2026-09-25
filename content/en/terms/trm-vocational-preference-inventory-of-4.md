@@ -1,6 +1,6 @@
 ---
 slug: "trm-vocational-preference-inventory-of-4"
-id: "TRM-ENG-38982"
+id: "TRM-ENG-53511"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Vocational Preference Inventory of, 4"

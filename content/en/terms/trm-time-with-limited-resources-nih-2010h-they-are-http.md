@@ -1,6 +1,6 @@
 ---
 slug: "trm-time-with-limited-resources-nih-2010h-they-are-http"
-id: "TRM-ENG-36195"
+id: "TRM-ENG-65253"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "time with limited resources (NIH, 2010h). They are http"

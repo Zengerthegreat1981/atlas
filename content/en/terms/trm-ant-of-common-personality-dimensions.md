@@ -1,6 +1,6 @@
 ---
 slug: "trm-ant-of-common-personality-dimensions"
-id: "TRM-ENG-43620"
+id: "TRM-ENG-58149"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ant of common personality dimensions"

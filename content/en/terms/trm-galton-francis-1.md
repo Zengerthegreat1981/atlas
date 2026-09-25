@@ -1,6 +1,6 @@
 ---
 slug: "trm-galton-francis-1"
-id: "TRM-ENG-46667"
+id: "TRM-ENG-61196"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Galton, Francis, 1"

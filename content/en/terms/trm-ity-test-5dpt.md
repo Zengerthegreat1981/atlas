@@ -1,6 +1,6 @@
 ---
 slug: "trm-ity-test-5dpt"
-id: "TRM-ENG-42959"
+id: "TRM-ENG-57488"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ity test (5DPT)"

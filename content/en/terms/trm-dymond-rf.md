@@ -1,6 +1,6 @@
 ---
 slug: "trm-dymond-rf"
-id: "TRM-ENG-40400"
+id: "TRM-ENG-54929"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dymond RF"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp-463470-hoboken-nj"
-id: "TRM-ENG-49952"
+id: "TRM-ENG-64481"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp. 463–470). Hoboken, NJ"

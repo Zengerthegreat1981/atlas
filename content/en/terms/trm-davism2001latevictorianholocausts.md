@@ -1,6 +1,6 @@
 ---
 slug: "trm-davism2001latevictorianholocausts"
-id: "TRM-ENG-36723"
+id: "TRM-ENG-65781"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Davis,M.(2001).LateVictorianholocausts"

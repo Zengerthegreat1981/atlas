@@ -1,6 +1,6 @@
 ---
 slug: "trm-2001a-the-mean-score-over-a-sample-of-ncid"
-id: "TRM-ENG-35207"
+id: "TRM-ENG-64265"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "2001a). The mean score over a sample of n(cid"

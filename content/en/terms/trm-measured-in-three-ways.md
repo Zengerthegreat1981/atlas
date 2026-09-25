@@ -1,6 +1,6 @@
 ---
 slug: "trm-measured-in-three-ways"
-id: "TRM-ENG-36683"
+id: "TRM-ENG-51212"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "measured in three ways"

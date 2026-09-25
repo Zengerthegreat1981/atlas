@@ -1,6 +1,6 @@
 ---
 slug: "trm-your-childs-mind"
-id: "TRM-ENG-48739"
+id: "TRM-ENG-63268"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "your child’s mind"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-reform"
-id: "TRM-ENG-49680"
+id: "TRM-ENG-64209"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reform"

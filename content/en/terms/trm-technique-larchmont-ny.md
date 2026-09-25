@@ -1,6 +1,6 @@
 ---
 slug: "trm-technique-larchmont-ny"
-id: "TRM-ENG-35584"
+id: "TRM-ENG-50113"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Technique. Larchmont, NY"

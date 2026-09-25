@@ -1,6 +1,6 @@
 ---
 slug: "trm-reich-jh-vasile-rg"
-id: "TRM-ENG-48001"
+id: "TRM-ENG-62530"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Reich JH, Vasile RG"

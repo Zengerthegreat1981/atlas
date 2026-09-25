@@ -1,6 +1,6 @@
 ---
 slug: "trm-moi-t-2009-simone-de-beauvoir"
-id: "TRM-ENG-47013"
+id: "TRM-ENG-61542"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Moi, T. (2009). Simone de Beauvoir"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-abington-v-schempp-1963-1"
-id: "TRM-ENG-46194"
+id: "TRM-ENG-60723"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Abington v. Schempp (1963), 1"

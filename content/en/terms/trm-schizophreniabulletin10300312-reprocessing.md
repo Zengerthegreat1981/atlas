@@ -1,6 +1,6 @@
 ---
 slug: "trm-schizophreniabulletin10300312-reprocessing"
-id: "TRM-ENG-49169"
+id: "TRM-ENG-63698"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "SchizophreniaBulletin,10,300±312. reprocessing"

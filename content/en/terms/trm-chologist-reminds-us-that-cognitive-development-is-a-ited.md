@@ -1,6 +1,6 @@
 ---
 slug: "trm-chologist-reminds-us-that-cognitive-development-is-a-ited"
-id: "TRM-ENG-34934"
+id: "TRM-ENG-63992"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chologist, reminds us that cognitive development is a ited"

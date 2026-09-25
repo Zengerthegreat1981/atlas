@@ -1,6 +1,6 @@
 ---
 slug: "trm-counseling-and-mental-health-disciplines-have-selfdirection"
-id: "TRM-ENG-51373"
+id: "TRM-ENG-65902"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "counseling and mental health disciplines have self-direction"

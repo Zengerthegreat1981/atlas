@@ -1,6 +1,6 @@
 ---
 slug: "trm-brislin-2000-to-best-explain-this-concept-a-problem-that-to-previously"
-id: "TRM-ENG-35603"
+id: "TRM-ENG-50132"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brislin, 2000). To best explain this concept, a problem that to previously"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-bloom-jb-davis-n-wecht-ch"
-id: "TRM-ENG-39973"
+id: "TRM-ENG-54502"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bloom JB, Davis N, Wecht CH"

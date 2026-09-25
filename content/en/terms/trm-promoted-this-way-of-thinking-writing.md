@@ -1,6 +1,6 @@
 ---
 slug: "trm-promoted-this-way-of-thinking-writing"
-id: "TRM-ENG-38131"
+id: "TRM-ENG-52660"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "promoted this way of thinking, writing"

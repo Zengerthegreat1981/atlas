@@ -1,6 +1,6 @@
 ---
 slug: "trm-counterfactual-dependence-1"
-id: "TRM-ENG-46458"
+id: "TRM-ENG-60987"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Counterfactual dependence, 1"

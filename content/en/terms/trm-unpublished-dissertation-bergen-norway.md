@@ -1,6 +1,6 @@
 ---
 slug: "trm-unpublished-dissertation-bergen-norway"
-id: "TRM-ENG-46124"
+id: "TRM-ENG-60653"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Unpublished dissertation). Bergen, Norway"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-dren-with-conduct-disorder"
-id: "TRM-ENG-48330"
+id: "TRM-ENG-62859"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dren with conduct disorder"

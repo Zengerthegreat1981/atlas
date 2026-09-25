@@ -1,6 +1,6 @@
 ---
 slug: "trm-ogy-of-comparative-cognition-pp-120-hillsdale-nj"
-id: "TRM-ENG-36009"
+id: "TRM-ENG-65067"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ogy of comparative cognition (pp. 1–20). Hillsdale, NJ"

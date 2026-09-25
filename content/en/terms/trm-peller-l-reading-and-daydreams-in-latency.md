@@ -1,6 +1,6 @@
 ---
 slug: "trm-peller-l-reading-and-daydreams-in-latency"
-id: "TRM-ENG-44574"
+id: "TRM-ENG-59103"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Peller, L., “Reading and Daydreams in Latency"

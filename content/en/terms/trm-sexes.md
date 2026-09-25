@@ -1,6 +1,6 @@
 ---
 slug: "trm-sexes"
-id: "TRM-ENG-37282"
+id: "TRM-ENG-51811"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sexes"

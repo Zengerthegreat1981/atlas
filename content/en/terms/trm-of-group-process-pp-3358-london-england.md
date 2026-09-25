@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-group-process-pp-3358-london-england"
-id: "TRM-ENG-51645"
+id: "TRM-ENG-66174"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of group process (pp. 33–58). London, England"

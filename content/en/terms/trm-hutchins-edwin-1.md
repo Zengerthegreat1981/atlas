@@ -1,6 +1,6 @@
 ---
 slug: "trm-hutchins-edwin-1"
-id: "TRM-ENG-46780"
+id: "TRM-ENG-61309"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hutchins, Edwin, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-knowledgenewyork"
-id: "TRM-ENG-47078"
+id: "TRM-ENG-61607"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "knowledge.NewYork"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-north-ef"
-id: "TRM-ENG-41850"
+id: "TRM-ENG-56379"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "North EF"

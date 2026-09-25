@@ -1,6 +1,6 @@
 ---
 slug: "trm-lilienfeld-s-o-2003-the-remembrance-of-things-past"
-id: "TRM-ENG-38374"
+id: "TRM-ENG-52903"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lilienfeld, S. O. (2003). The remembrance of things past"

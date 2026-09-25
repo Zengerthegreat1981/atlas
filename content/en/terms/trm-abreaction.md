@@ -1,6 +1,6 @@
 ---
 slug: "trm-abreaction"
-id: "TRM-ENG-52007"
+id: "TRM-ENG-66536"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Abreaction"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-history-to-at-as-the-study-of-activity-expands-to-ny"
-id: "TRM-ENG-48122"
+id: "TRM-ENG-62651"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "history to AT. As the study of activity expands to NY"

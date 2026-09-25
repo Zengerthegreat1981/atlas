@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognitive-impairment"
-id: "TRM-ENG-47565"
+id: "TRM-ENG-62094"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cognitive Impairment"

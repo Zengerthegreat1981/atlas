@@ -1,6 +1,6 @@
 ---
 slug: "trm-bilities-njcld"
-id: "TRM-ENG-34905"
+id: "TRM-ENG-63963"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bilities (NJCLD)"

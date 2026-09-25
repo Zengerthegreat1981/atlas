@@ -1,6 +1,6 @@
 ---
 slug: "trm-music-and-psychology"
-id: "TRM-ENG-37106"
+id: "TRM-ENG-66164"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Music and Psychology"

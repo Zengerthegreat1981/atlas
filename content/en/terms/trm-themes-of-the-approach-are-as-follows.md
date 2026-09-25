@@ -1,6 +1,6 @@
 ---
 slug: "trm-themes-of-the-approach-are-as-follows"
-id: "TRM-ENG-43313"
+id: "TRM-ENG-57842"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "themes of the approach are as follows"

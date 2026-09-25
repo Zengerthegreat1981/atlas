@@ -1,6 +1,6 @@
 ---
 slug: "trm-on-a-variety-of-dimensions"
-id: "TRM-ENG-36015"
+id: "TRM-ENG-50544"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "on a variety of dimensions"

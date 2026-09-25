@@ -1,6 +1,6 @@
 ---
 slug: "trm-dancy-j-2000-p-ractical-reality-oxford-uk"
-id: "TRM-ENG-44414"
+id: "TRM-ENG-58943"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dancy, J. (2000). P ractical reality . Oxford, UK"

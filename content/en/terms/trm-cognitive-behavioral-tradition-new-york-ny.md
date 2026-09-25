@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognitive-behavioral-tradition-new-york-ny"
-id: "TRM-ENG-51341"
+id: "TRM-ENG-65870"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cognitive behavioral tradition. New York, NY"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-zoo"
-id: "TRM-ENG-46085"
+id: "TRM-ENG-60614"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "zoo"

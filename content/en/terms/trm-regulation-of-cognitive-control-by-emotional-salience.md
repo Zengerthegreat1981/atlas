@@ -1,6 +1,6 @@
 ---
 slug: "trm-regulation-of-cognitive-control-by-emotional-salience"
-id: "TRM-ENG-45467"
+id: "TRM-ENG-59996"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "regulation of cognitive control by emotional salience"

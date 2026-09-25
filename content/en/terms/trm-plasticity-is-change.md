@@ -1,6 +1,6 @@
 ---
 slug: "trm-plasticity-is-change"
-id: "TRM-ENG-34987"
+id: "TRM-ENG-64045"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "plasticity is change"

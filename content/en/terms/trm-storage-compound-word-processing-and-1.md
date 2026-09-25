@@ -1,6 +1,6 @@
 ---
 slug: "trm-storage-compound-word-processing-and-1"
-id: "TRM-ENG-44793"
+id: "TRM-ENG-59322"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Storage, compound word processing and, 1"

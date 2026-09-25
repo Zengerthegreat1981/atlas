@@ -1,6 +1,6 @@
 ---
 slug: "trm-sound-intensity-1"
-id: "TRM-ENG-44783"
+id: "TRM-ENG-59312"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sound intensity, 1"

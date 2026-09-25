@@ -1,6 +1,6 @@
 ---
 slug: "trm-theories-and-two-broad-classes-of-learning-theories"
-id: "TRM-ENG-48876"
+id: "TRM-ENG-63405"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theories, and two broad classes of learning theories"

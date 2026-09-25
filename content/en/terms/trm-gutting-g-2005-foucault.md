@@ -1,6 +1,6 @@
 ---
 slug: "trm-gutting-g-2005-foucault"
-id: "TRM-ENG-46731"
+id: "TRM-ENG-61260"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gutting, G. (2005). Foucault"

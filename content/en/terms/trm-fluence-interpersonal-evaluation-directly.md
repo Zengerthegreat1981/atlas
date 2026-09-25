@@ -1,6 +1,6 @@
 ---
 slug: "trm-fluence-interpersonal-evaluation-directly"
-id: "TRM-ENG-36445"
+id: "TRM-ENG-50974"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "fluence interpersonal evaluation directly"

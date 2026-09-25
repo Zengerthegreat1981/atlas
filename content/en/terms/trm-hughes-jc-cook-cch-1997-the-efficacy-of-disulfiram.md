@@ -1,6 +1,6 @@
 ---
 slug: "trm-hughes-jc-cook-cch-1997-the-efficacy-of-disulfiram"
-id: "TRM-ENG-35750"
+id: "TRM-ENG-50279"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hughes, J.C., & Cook, C.C.H. (1997). The efficacy of disulfiram"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-have-speculated-that-the-structural-limitations-arise-distraction"
-id: "TRM-ENG-45167"
+id: "TRM-ENG-59696"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "have speculated that the structural limitations arise distraction"

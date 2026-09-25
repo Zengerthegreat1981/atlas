@@ -1,6 +1,6 @@
 ---
 slug: "trm-ents-style-of-breathing"
-id: "TRM-ENG-51438"
+id: "TRM-ENG-65967"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ent’s style of breathing"

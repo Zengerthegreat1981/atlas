@@ -1,6 +1,6 @@
 ---
 slug: "trm-klopfer-b-kelly-dm"
-id: "TRM-ENG-41270"
+id: "TRM-ENG-55799"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Klopfer B, Kelly DM"

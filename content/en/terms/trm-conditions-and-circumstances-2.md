@@ -1,6 +1,6 @@
 ---
 slug: "trm-conditions-and-circumstances-2"
-id: "TRM-ENG-47808"
+id: "TRM-ENG-62337"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "conditions and circumstances, 2"

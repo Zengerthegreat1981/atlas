@@ -1,6 +1,6 @@
 ---
 slug: "trm-liebermanp1991uniquelyhuman"
-id: "TRM-ENG-37034"
+id: "TRM-ENG-51563"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lieberman,P.(1991).Uniquelyhuman"

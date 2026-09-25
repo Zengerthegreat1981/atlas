@@ -1,6 +1,6 @@
 ---
 slug: "trm-levy-kn-blatt-sj"
-id: "TRM-ENG-47831"
+id: "TRM-ENG-62360"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Levy KN, Blatt SJ"

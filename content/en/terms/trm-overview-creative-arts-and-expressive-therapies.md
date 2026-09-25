@@ -1,6 +1,6 @@
 ---
 slug: "trm-overview-creative-arts-and-expressive-therapies"
-id: "TRM-ENG-50821"
+id: "TRM-ENG-65350"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Overview; Creative Arts and Expressive Therapies"

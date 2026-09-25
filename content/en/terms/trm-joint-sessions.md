@@ -1,6 +1,6 @@
 ---
 slug: "trm-joint-sessions"
-id: "TRM-ENG-44796"
+id: "TRM-ENG-59325"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, “Joint Sessions"

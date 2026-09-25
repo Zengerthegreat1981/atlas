@@ -1,6 +1,6 @@
 ---
 slug: "trm-basel-switzerland"
-id: "TRM-ENG-46280"
+id: "TRM-ENG-60809"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Basel, Switzerland"

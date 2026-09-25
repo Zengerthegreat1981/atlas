@@ -1,6 +1,6 @@
 ---
 slug: "trm-buss-david-1"
-id: "TRM-ENG-44355"
+id: "TRM-ENG-58884"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Buss, David, 1"

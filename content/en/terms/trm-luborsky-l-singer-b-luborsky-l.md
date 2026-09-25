@@ -1,6 +1,6 @@
 ---
 slug: "trm-luborsky-l-singer-b-luborsky-l"
-id: "TRM-ENG-41519"
+id: "TRM-ENG-56048"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Luborsky L, Singer B, Luborsky L"

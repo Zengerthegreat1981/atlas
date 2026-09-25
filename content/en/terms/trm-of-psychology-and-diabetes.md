@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-psychology-and-diabetes"
-id: "TRM-ENG-47156"
+id: "TRM-ENG-61685"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of psychology and diabetes"

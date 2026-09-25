@@ -1,6 +1,6 @@
 ---
 slug: "trm-thology-j-pers-disord-25"
-id: "TRM-ENG-48654"
+id: "TRM-ENG-63183"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thology. J Pers Disord 25"

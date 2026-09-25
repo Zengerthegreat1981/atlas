@@ -1,6 +1,6 @@
 ---
 slug: "trm-its-own-for-example-as-shown-in-figure-3-the-c-unit-has-adaptive-networks"
-id: "TRM-ENG-36605"
+id: "TRM-ENG-51134"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "its own. For example, as shown in Figure 3, the C unit has adaptive networks"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-10-deutsch-a-the-mentally-ill-in-america"
-id: "TRM-ENG-44192"
+id: "TRM-ENG-58721"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "10. Deutsch, A., The Mentally Ill in America"

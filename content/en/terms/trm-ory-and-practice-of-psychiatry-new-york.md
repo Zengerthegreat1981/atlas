@@ -1,6 +1,6 @@
 ---
 slug: "trm-ory-and-practice-of-psychiatry-new-york"
-id: "TRM-ENG-46185"
+id: "TRM-ENG-60714"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ory and Practice of Psychiatry (New York"

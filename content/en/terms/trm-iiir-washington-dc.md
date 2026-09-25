@@ -1,6 +1,6 @@
 ---
 slug: "trm-iiir-washington-dc"
-id: "TRM-ENG-45843"
+id: "TRM-ENG-60372"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "III-R (Washington, DC"

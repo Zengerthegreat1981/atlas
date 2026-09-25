@@ -1,6 +1,6 @@
 ---
 slug: "trm-coefficient-alpha-reliabilities-of-1"
-id: "TRM-ENG-39550"
+id: "TRM-ENG-54079"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "coefficient alpha reliabilities of, 1"

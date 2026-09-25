@@ -1,6 +1,6 @@
 ---
 slug: "trm-hewstone-m-1989-causal-attribution"
-id: "TRM-ENG-45476"
+id: "TRM-ENG-60005"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hewstone, M. (1989) Causal Attribution"

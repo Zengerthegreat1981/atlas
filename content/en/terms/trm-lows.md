@@ -1,6 +1,6 @@
 ---
 slug: "trm-lows"
-id: "TRM-ENG-45952"
+id: "TRM-ENG-60481"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lows"

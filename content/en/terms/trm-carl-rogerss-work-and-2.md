@@ -1,6 +1,6 @@
 ---
 slug: "trm-carl-rogerss-work-and-2"
-id: "TRM-ENG-37798"
+id: "TRM-ENG-66856"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Carl Rogers’s work and, 2"

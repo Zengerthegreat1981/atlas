@@ -1,6 +1,6 @@
 ---
 slug: "trm-whaley-arthur-3"
-id: "TRM-ENG-39027"
+id: "TRM-ENG-53556"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Whaley, Arthur, 3"

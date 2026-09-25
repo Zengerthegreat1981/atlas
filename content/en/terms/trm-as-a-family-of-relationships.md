@@ -1,6 +1,6 @@
 ---
 slug: "trm-as-a-family-of-relationships"
-id: "TRM-ENG-36165"
+id: "TRM-ENG-65223"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "as a family of relationships"

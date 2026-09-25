@@ -1,6 +1,6 @@
 ---
 slug: "trm-tion-in-reasoning-or-the-rational-control-of-action-beings"
-id: "TRM-ENG-45623"
+id: "TRM-ENG-60152"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tion in reasoning or the rational control of action. beings"

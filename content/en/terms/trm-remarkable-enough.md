@@ -1,6 +1,6 @@
 ---
 slug: "trm-remarkable-enough"
-id: "TRM-ENG-36937"
+id: "TRM-ENG-51466"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "remarkable enough"

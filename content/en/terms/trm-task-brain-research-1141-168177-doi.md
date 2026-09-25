@@ -1,6 +1,6 @@
 ---
 slug: "trm-task-brain-research-1141-168177-doi"
-id: "TRM-ENG-36155"
+id: "TRM-ENG-65213"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "task. Brain Research, 1141, 168–177. doi"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-metric-analyses-clinical-psychology"
-id: "TRM-ENG-43735"
+id: "TRM-ENG-58264"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "metric analyses? Clinical Psychology"

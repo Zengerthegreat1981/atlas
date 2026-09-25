@@ -1,6 +1,6 @@
 ---
 slug: "trm-sort-of-communities-where-criticism-can-flourish"
-id: "TRM-ENG-48740"
+id: "TRM-ENG-63269"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sort of communities where criticism can flourish"

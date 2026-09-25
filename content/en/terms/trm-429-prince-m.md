@@ -1,6 +1,6 @@
 ---
 slug: "trm-429-prince-m"
-id: "TRM-ENG-39017"
+id: "TRM-ENG-53546"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "429. Prince M"

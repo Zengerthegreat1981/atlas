@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-behavior-theory-and-learning"
-id: "TRM-ENG-52514"
+id: "TRM-ENG-67043"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "In Behavior theory and learning"

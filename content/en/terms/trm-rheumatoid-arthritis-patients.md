@@ -1,6 +1,6 @@
 ---
 slug: "trm-rheumatoid-arthritis-patients"
-id: "TRM-ENG-47269"
+id: "TRM-ENG-61798"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rheumatoid arthritis patients"

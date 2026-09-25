@@ -1,6 +1,6 @@
 ---
 slug: "trm-bruyn-gw-dejong-uj"
-id: "TRM-ENG-40060"
+id: "TRM-ENG-54589"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bruyn GW, deJong UJ"

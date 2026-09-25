@@ -1,6 +1,6 @@
 ---
 slug: "trm-goldstein-rb-compton-wm-pulay-aj-et-al"
-id: "TRM-ENG-47678"
+id: "TRM-ENG-62207"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goldstein RB, Compton WM, Pulay AJ, et al"

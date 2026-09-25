@@ -1,6 +1,6 @@
 ---
 slug: "trm-baird2003jung"
-id: "TRM-ENG-36585"
+id: "TRM-ENG-65643"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bair,D.(2003).Jung"

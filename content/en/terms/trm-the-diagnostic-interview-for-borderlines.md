@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-diagnostic-interview-for-borderlines"
-id: "TRM-ENG-43858"
+id: "TRM-ENG-58387"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the Diagnostic Interview for Borderlines"

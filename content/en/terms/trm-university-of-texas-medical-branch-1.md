@@ -1,6 +1,6 @@
 ---
 slug: "trm-university-of-texas-medical-branch-1"
-id: "TRM-ENG-51138"
+id: "TRM-ENG-65667"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "University of Texas Medical Branch, 1"

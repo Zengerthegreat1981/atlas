@@ -1,6 +1,6 @@
 ---
 slug: "trm-metrics"
-id: "TRM-ENG-35950"
+id: "TRM-ENG-65008"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "metrics"

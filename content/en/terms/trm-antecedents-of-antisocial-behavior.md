@@ -1,6 +1,6 @@
 ---
 slug: "trm-antecedents-of-antisocial-behavior"
-id: "TRM-ENG-42645"
+id: "TRM-ENG-57174"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "antecedents of antisocial behavior"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-d-wedding-eds-current-psychotherapiesitasca-ny"
-id: "TRM-ENG-35465"
+id: "TRM-ENG-64523"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "& D. Wedding (Eds.), Current psychotherapies.Itasca, NY"

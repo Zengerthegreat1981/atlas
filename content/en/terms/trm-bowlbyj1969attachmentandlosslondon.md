@@ -1,6 +1,6 @@
 ---
 slug: "trm-bowlbyj1969attachmentandlosslondon"
-id: "TRM-ENG-36640"
+id: "TRM-ENG-65698"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bowlby,J.(1969).Attachmentandloss.London"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-opmental-psychologists-interested-in-the-life-course-sociolo-and-development"
-id: "TRM-ENG-36814"
+id: "TRM-ENG-65872"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "opmental psychologists interested in the “life course,” sociolo- and development"

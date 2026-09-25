@@ -1,6 +1,6 @@
 ---
 slug: "trm-mackay-ha-laverty-sg"
-id: "TRM-ENG-41539"
+id: "TRM-ENG-56068"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "MacKay HA, Laverty SG"

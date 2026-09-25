@@ -1,6 +1,6 @@
 ---
 slug: "trm-impulsivity"
-id: "TRM-ENG-44123"
+id: "TRM-ENG-58652"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "impulsivity"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-franks-cm"
-id: "TRM-ENG-40593"
+id: "TRM-ENG-55122"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Franks CM"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-jacobson-ns-margolin-g"
-id: "TRM-ENG-41105"
+id: "TRM-ENG-55634"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jacobson NS, Margolin G"

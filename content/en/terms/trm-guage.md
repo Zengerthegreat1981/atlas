@@ -1,6 +1,6 @@
 ---
 slug: "trm-guage"
-id: "TRM-ENG-35048"
+id: "TRM-ENG-49577"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "guage"

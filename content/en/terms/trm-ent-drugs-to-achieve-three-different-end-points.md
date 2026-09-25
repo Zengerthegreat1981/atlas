@@ -1,6 +1,6 @@
 ---
 slug: "trm-ent-drugs-to-achieve-three-different-end-points"
-id: "TRM-ENG-45095"
+id: "TRM-ENG-59624"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ent drugs to achieve three different end points"

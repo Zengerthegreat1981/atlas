@@ -1,6 +1,6 @@
 ---
 slug: "trm-gerson-s-bassuk-e"
-id: "TRM-ENG-40691"
+id: "TRM-ENG-55220"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gerson S, Bassuk E"

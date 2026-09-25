@@ -1,6 +1,6 @@
 ---
 slug: "trm-enthusiastically"
-id: "TRM-ENG-37729"
+id: "TRM-ENG-52258"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "enthusiastically"

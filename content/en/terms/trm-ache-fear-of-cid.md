@@ -1,6 +1,6 @@
 ---
 slug: "trm-ache-fear-of-cid"
-id: "TRM-ENG-45737"
+id: "TRM-ENG-60266"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ACHE, FEAR OF. (cid"

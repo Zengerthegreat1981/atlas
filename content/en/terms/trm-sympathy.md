@@ -1,6 +1,6 @@
 ---
 slug: "trm-sympathy"
-id: "TRM-ENG-52410"
+id: "TRM-ENG-66939"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sympathy"

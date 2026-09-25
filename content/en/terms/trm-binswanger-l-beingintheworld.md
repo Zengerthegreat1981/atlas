@@ -1,6 +1,6 @@
 ---
 slug: "trm-binswanger-l-beingintheworld"
-id: "TRM-ENG-44292"
+id: "TRM-ENG-58821"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Binswanger, L., Being-in-the-World"

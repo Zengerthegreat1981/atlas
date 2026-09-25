@@ -1,6 +1,6 @@
 ---
 slug: "trm-sured-as-iq-is-both-partially-heritable"
-id: "TRM-ENG-37052"
+id: "TRM-ENG-66110"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sured as IQ is both partially heritable"

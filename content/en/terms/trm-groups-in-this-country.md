@@ -1,6 +1,6 @@
 ---
 slug: "trm-groups-in-this-country"
-id: "TRM-ENG-45063"
+id: "TRM-ENG-59592"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "groups in this country"

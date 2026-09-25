@@ -1,6 +1,6 @@
 ---
 slug: "trm-penis-fear-fear-of-penises-is-known-as-phallopho-cid"
-id: "TRM-ENG-46187"
+id: "TRM-ENG-60716"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "penis fear Fear of penises is known as phallopho- (cid"

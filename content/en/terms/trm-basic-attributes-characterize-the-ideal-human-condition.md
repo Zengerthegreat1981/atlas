@@ -1,6 +1,6 @@
 ---
 slug: "trm-basic-attributes-characterize-the-ideal-human-condition"
-id: "TRM-ENG-36185"
+id: "TRM-ENG-65243"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "basic attributes characterize the ideal human condition"

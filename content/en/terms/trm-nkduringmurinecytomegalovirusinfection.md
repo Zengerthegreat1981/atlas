@@ -1,6 +1,6 @@
 ---
 slug: "trm-nkduringmurinecytomegalovirusinfection"
-id: "TRM-ENG-46332"
+id: "TRM-ENG-60861"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(NK)duringmurinecytomegalovirusinfection"

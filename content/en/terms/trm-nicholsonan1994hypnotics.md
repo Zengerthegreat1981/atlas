@@ -1,6 +1,6 @@
 ---
 slug: "trm-nicholsonan1994hypnotics"
-id: "TRM-ENG-46642"
+id: "TRM-ENG-61171"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nicholson,A.N.(1994).Hypnotics"

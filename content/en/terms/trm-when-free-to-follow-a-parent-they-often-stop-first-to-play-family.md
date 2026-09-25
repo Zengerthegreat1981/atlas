@@ -1,6 +1,6 @@
 ---
 slug: "trm-when-free-to-follow-a-parent-they-often-stop-first-to-play-family"
-id: "TRM-ENG-37312"
+id: "TRM-ENG-51841"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "when free to follow a parent, they often stop first to play family"

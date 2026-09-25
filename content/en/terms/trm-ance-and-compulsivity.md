@@ -1,6 +1,6 @@
 ---
 slug: "trm-ance-and-compulsivity"
-id: "TRM-ENG-48181"
+id: "TRM-ENG-62710"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ance, and compulsivity"

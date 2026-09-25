@@ -1,6 +1,6 @@
 ---
 slug: "trm-sperber-m-1974-masks-of-loneliness"
-id: "TRM-ENG-52540"
+id: "TRM-ENG-67069"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sperber, M. (1974). Masks of loneliness"

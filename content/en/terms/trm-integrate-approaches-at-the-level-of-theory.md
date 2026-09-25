@@ -1,6 +1,6 @@
 ---
 slug: "trm-integrate-approaches-at-the-level-of-theory"
-id: "TRM-ENG-35084"
+id: "TRM-ENG-49613"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "integrate approaches at the level of theory"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-2nd-ed-philadelphia"
-id: "TRM-ENG-35481"
+id: "TRM-ENG-50010"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2nd ed.). Philadelphia"

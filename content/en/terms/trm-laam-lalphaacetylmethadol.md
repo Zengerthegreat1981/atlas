@@ -1,6 +1,6 @@
 ---
 slug: "trm-laam-lalphaacetylmethadol"
-id: "TRM-ENG-43478"
+id: "TRM-ENG-58007"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "LAAM L-alpha-acetyl-methadol"

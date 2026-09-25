@@ -1,6 +1,6 @@
 ---
 slug: "trm-primary-emotional-responses-1"
-id: "TRM-ENG-50878"
+id: "TRM-ENG-65407"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Primary emotional responses, 1"

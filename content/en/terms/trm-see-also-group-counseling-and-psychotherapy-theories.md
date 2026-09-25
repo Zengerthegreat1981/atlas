@@ -1,6 +1,6 @@
 ---
 slug: "trm-see-also-group-counseling-and-psychotherapy-theories"
-id: "TRM-ENG-51005"
+id: "TRM-ENG-65534"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "See also Group Counseling and Psychotherapy Theories"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-researchandapplicationhillsdalenj"
-id: "TRM-ENG-49692"
+id: "TRM-ENG-64221"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "researchandapplication.Hillsdale,NJ"

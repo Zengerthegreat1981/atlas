@@ -1,6 +1,6 @@
 ---
 slug: "trm-commitment-therapy-london-england"
-id: "TRM-ENG-51352"
+id: "TRM-ENG-65881"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "commitment therapy. London, England"

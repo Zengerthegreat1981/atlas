@@ -1,6 +1,6 @@
 ---
 slug: "trm-that-exercising-at-home-leads-to-better-adherence-than-does-proposed"
-id: "TRM-ENG-37100"
+id: "TRM-ENG-51629"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "that exercising at home leads to better adherence than does proposed"

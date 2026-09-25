@@ -1,6 +1,6 @@
 ---
 slug: "trm-silenceasinawoodenextasieorcongelation"
-id: "TRM-ENG-38252"
+id: "TRM-ENG-52781"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "silence,asinawoodenextasieorcongelation"

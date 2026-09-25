@@ -1,6 +1,6 @@
 ---
 slug: "trm-wilson-gt"
-id: "TRM-ENG-42818"
+id: "TRM-ENG-57347"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wilson GT"

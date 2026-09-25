@@ -1,6 +1,6 @@
 ---
 slug: "trm-anutshell"
-id: "TRM-ENG-37547"
+id: "TRM-ENG-66605"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "anutshell"

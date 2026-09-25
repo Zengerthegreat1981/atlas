@@ -1,6 +1,6 @@
 ---
 slug: "trm-neuropsychological-functioning2"
-id: "TRM-ENG-38502"
+id: "TRM-ENG-53031"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Neuropsychological functioning,2"

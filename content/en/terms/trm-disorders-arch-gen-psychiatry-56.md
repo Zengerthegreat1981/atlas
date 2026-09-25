@@ -1,6 +1,6 @@
 ---
 slug: "trm-disorders-arch-gen-psychiatry-56"
-id: "TRM-ENG-48323"
+id: "TRM-ENG-62852"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disorders. Arch Gen Psychiatry 56"

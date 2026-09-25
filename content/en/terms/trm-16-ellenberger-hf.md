@@ -1,6 +1,6 @@
 ---
 slug: "trm-16-ellenberger-hf"
-id: "TRM-ENG-38636"
+id: "TRM-ENG-53165"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "16. Ellenberger HF"

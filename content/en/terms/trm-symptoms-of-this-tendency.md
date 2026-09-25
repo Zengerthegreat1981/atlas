@@ -1,6 +1,6 @@
 ---
 slug: "trm-symptoms-of-this-tendency"
-id: "TRM-ENG-45333"
+id: "TRM-ENG-59862"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "symptoms of this tendency"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-genceii"
-id: "TRM-ENG-37788"
+id: "TRM-ENG-52317"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "genceII"

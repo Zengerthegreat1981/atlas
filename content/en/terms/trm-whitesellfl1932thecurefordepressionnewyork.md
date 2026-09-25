@@ -1,6 +1,6 @@
 ---
 slug: "trm-whitesellfl1932thecurefordepressionnewyork"
-id: "TRM-ENG-37435"
+id: "TRM-ENG-66493"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Whitesell,F.L.(1932).Thecurefordepression.NewYork"

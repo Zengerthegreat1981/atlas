@@ -1,6 +1,6 @@
 ---
 slug: "trm-school-refusal-behavior-and-1"
-id: "TRM-ENG-41571"
+id: "TRM-ENG-56100"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "school refusal behavior and, 1"

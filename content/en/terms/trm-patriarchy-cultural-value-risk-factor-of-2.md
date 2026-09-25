@@ -1,6 +1,6 @@
 ---
 slug: "trm-patriarchy-cultural-value-risk-factor-of-2"
-id: "TRM-ENG-41121"
+id: "TRM-ENG-55650"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "patriarchy cultural value risk factor of, 2"

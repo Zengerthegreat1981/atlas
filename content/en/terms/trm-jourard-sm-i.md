@@ -1,6 +1,6 @@
 ---
 slug: "trm-jourard-sm-i"
-id: "TRM-ENG-41157"
+id: "TRM-ENG-55686"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jourard SM: I"

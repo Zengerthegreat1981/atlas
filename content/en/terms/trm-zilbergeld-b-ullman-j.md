@@ -1,6 +1,6 @@
 ---
 slug: "trm-zilbergeld-b-ullman-j"
-id: "TRM-ENG-42917"
+id: "TRM-ENG-57446"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Zilbergeld B & Ullman J"

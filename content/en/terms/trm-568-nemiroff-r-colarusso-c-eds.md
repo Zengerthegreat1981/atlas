@@ -1,6 +1,6 @@
 ---
 slug: "trm-568-nemiroff-r-colarusso-c-eds"
-id: "TRM-ENG-39179"
+id: "TRM-ENG-53708"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "568. Nemiroff R, Colarusso C (eds)"

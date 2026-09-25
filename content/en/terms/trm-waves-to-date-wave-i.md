@@ -1,6 +1,6 @@
 ---
 slug: "trm-waves-to-date-wave-i"
-id: "TRM-ENG-43425"
+id: "TRM-ENG-57954"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "waves to date (Wave I"

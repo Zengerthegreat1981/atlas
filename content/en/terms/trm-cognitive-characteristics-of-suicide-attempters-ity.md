@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognitive-characteristics-of-suicide-attempters-ity"
-id: "TRM-ENG-42361"
+id: "TRM-ENG-56890"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cognitive characteristics of suicide attempters. ity"

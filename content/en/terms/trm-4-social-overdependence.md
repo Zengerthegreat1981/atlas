@@ -1,6 +1,6 @@
 ---
 slug: "trm-4-social-overdependence"
-id: "TRM-ENG-44216"
+id: "TRM-ENG-58745"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "4. Social overdependence"

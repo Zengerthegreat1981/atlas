@@ -1,6 +1,6 @@
 ---
 slug: "trm-laxed-5"
-id: "TRM-ENG-42968"
+id: "TRM-ENG-57497"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "laxed, 5"

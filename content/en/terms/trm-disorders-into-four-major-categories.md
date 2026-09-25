@@ -1,6 +1,6 @@
 ---
 slug: "trm-disorders-into-four-major-categories"
-id: "TRM-ENG-39955"
+id: "TRM-ENG-54484"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disorders into four major categories"

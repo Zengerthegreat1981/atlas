@@ -1,6 +1,6 @@
 ---
 slug: "trm-everydaylifenewyork"
-id: "TRM-ENG-37743"
+id: "TRM-ENG-66801"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "everydaylife.NewYork"

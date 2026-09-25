@@ -1,6 +1,6 @@
 ---
 slug: "trm-career-assessment-interpretation-and-4"
-id: "TRM-ENG-39404"
+id: "TRM-ENG-53933"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "career assessment interpretation and, 4"

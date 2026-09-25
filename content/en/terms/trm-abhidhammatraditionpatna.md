@@ -1,6 +1,6 @@
 ---
 slug: "trm-abhidhammatraditionpatna"
-id: "TRM-ENG-36526"
+id: "TRM-ENG-65584"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Abhidhammatradition.Patna"

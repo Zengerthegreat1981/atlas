@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-alliance"
-id: "TRM-ENG-48398"
+id: "TRM-ENG-62927"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing Alliance"

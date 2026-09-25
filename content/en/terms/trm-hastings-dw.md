@@ -1,6 +1,6 @@
 ---
 slug: "trm-hastings-dw"
-id: "TRM-ENG-40937"
+id: "TRM-ENG-55466"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hastings DW"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-certain-psychological-disorders"
-id: "TRM-ENG-43576"
+id: "TRM-ENG-58105"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "certain psychological disorders"

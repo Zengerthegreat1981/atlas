@@ -1,6 +1,6 @@
 ---
 slug: "trm-wolf-e-1988-treating-the-self"
-id: "TRM-ENG-51184"
+id: "TRM-ENG-65713"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wolf, E. (1988). Treating the self"

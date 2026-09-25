@@ -1,6 +1,6 @@
 ---
 slug: "trm-interview-for-alexithymia"
-id: "TRM-ENG-43458"
+id: "TRM-ENG-57987"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Interview for Alexithymia"

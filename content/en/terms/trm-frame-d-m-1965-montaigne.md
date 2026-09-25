@@ -1,6 +1,6 @@
 ---
 slug: "trm-frame-d-m-1965-montaigne"
-id: "TRM-ENG-46640"
+id: "TRM-ENG-61169"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Frame, D. M. (1965). Montaigne"

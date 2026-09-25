@@ -1,6 +1,6 @@
 ---
 slug: "trm-shoulders-chest-arms-legs-etc-to-relax"
-id: "TRM-ENG-43180"
+id: "TRM-ENG-57709"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "shoulders, chest, arms, legs, etc., to relax"

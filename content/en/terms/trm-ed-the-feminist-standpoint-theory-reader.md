@@ -1,6 +1,6 @@
 ---
 slug: "trm-ed-the-feminist-standpoint-theory-reader"
-id: "TRM-ENG-36416"
+id: "TRM-ENG-65474"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Ed.), The feminist standpoint theory reader"

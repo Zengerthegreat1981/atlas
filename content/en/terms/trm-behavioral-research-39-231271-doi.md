@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavioral-research-39-231271-doi"
-id: "TRM-ENG-43387"
+id: "TRM-ENG-57916"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Behavioral Research, 39, 231–271. doi"

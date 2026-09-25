@@ -1,6 +1,6 @@
 ---
 slug: "trm-normal-development-and-2"
-id: "TRM-ENG-40964"
+id: "TRM-ENG-55493"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "normal development and, 2"

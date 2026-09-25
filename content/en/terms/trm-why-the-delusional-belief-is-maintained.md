@@ -1,6 +1,6 @@
 ---
 slug: "trm-why-the-delusional-belief-is-maintained"
-id: "TRM-ENG-45689"
+id: "TRM-ENG-60218"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "why the delusional belief is maintained"

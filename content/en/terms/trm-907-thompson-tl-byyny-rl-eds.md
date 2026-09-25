@@ -1,6 +1,6 @@
 ---
 slug: "trm-907-thompson-tl-byyny-rl-eds"
-id: "TRM-ENG-39581"
+id: "TRM-ENG-54110"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "907. Thompson TL, Byyny RL (eds)"

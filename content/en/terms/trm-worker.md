@@ -1,6 +1,6 @@
 ---
 slug: "trm-worker"
-id: "TRM-ENG-37330"
+id: "TRM-ENG-66388"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "worker"

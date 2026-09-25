@@ -1,6 +1,6 @@
 ---
 slug: "trm-american-needs-to-know-new-york-ny"
-id: "TRM-ENG-46229"
+id: "TRM-ENG-60758"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "American needs to know. New York, NY"

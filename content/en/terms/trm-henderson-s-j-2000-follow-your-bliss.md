@@ -1,6 +1,6 @@
 ---
 slug: "trm-henderson-s-j-2000-follow-your-bliss"
-id: "TRM-ENG-38163"
+id: "TRM-ENG-52692"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Henderson, S. J. (2000). “Follow your bliss”"

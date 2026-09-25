@@ -1,6 +1,6 @@
 ---
 slug: "trm-ology-in-political-sciencenew-haven-cn"
-id: "TRM-ENG-36804"
+id: "TRM-ENG-51333"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ology in political science.New Haven, CN"

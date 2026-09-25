@@ -1,6 +1,6 @@
 ---
 slug: "trm-practicebased-evidence-pp-571592-new-york"
-id: "TRM-ENG-43143"
+id: "TRM-ENG-57672"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "practice-based evidence (pp. 571–592). New York"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-tyrer-p"
-id: "TRM-ENG-48137"
+id: "TRM-ENG-62666"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tyrer P"

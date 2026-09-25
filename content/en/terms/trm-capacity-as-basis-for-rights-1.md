@@ -1,6 +1,6 @@
 ---
 slug: "trm-capacity-as-basis-for-rights-1"
-id: "TRM-ENG-46374"
+id: "TRM-ENG-60903"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Capacity, as basis for rights, 1"

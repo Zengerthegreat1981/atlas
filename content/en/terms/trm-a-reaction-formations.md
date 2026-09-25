@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-reaction-formations"
-id: "TRM-ENG-42937"
+id: "TRM-ENG-57466"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "a. Reaction formations"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-sussman-r-j-2002-counseling-over-the-internet"
-id: "TRM-ENG-38854"
+id: "TRM-ENG-53383"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sussman, R. J. (2002) Counseling over the Internet"

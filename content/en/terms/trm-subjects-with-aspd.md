@@ -1,6 +1,6 @@
 ---
 slug: "trm-subjects-with-aspd"
-id: "TRM-ENG-48616"
+id: "TRM-ENG-63145"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "subjects with ASPD"

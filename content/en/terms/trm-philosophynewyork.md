@@ -1,6 +1,6 @@
 ---
 slug: "trm-philosophynewyork"
-id: "TRM-ENG-38093"
+id: "TRM-ENG-67151"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "philosophy.NewYork"

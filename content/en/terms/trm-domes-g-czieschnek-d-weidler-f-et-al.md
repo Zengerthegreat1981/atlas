@@ -1,6 +1,6 @@
 ---
 slug: "trm-domes-g-czieschnek-d-weidler-f-et-al"
-id: "TRM-ENG-47628"
+id: "TRM-ENG-62157"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Domes G, Czieschnek D, Weidler F, et al"

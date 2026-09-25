@@ -1,6 +1,6 @@
 ---
 slug: "trm-sense-was-stimulated"
-id: "TRM-ENG-48699"
+id: "TRM-ENG-63228"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sense was stimulated"

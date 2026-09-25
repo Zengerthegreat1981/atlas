@@ -1,6 +1,6 @@
 ---
 slug: "trm-missionsreportwasquitedamningitarguedthatno-way"
-id: "TRM-ENG-37968"
+id: "TRM-ENG-52497"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mission’sreportwasquitedamning.Itarguedthatno way"

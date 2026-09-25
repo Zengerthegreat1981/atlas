@@ -1,6 +1,6 @@
 ---
 slug: "trm-2010-interpersonal-subtypes-in-social-phobia"
-id: "TRM-ENG-42238"
+id: "TRM-ENG-56767"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2010). Interpersonal subtypes in social phobia"

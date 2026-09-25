@@ -1,6 +1,6 @@
 ---
 slug: "trm-friedman-de-silverstone-jt"
-id: "TRM-ENG-40625"
+id: "TRM-ENG-55154"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Friedman DE, Silverstone JT"

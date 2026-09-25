@@ -1,6 +1,6 @@
 ---
 slug: "trm-caillois-r-1961-man-play-and-games-new-york-ny"
-id: "TRM-ENG-46355"
+id: "TRM-ENG-60884"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Caillois, R. (1961). Man, play, and games. New York, NY"

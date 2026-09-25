@@ -1,6 +1,6 @@
 ---
 slug: "trm-through-two-main-limbs"
-id: "TRM-ENG-37161"
+id: "TRM-ENG-66219"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "through two main limbs"

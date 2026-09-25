@@ -1,6 +1,6 @@
 ---
 slug: "trm-only-superficially-lethiferous-death-dealing"
-id: "TRM-ENG-43782"
+id: "TRM-ENG-58311"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "only superficially); lethiferous (death dealing"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapy-for-male-sexual-dysfunction"
-id: "TRM-ENG-37143"
+id: "TRM-ENG-66201"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapy for male sexual dysfunction"

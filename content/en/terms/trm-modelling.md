@@ -1,6 +1,6 @@
 ---
 slug: "trm-modelling"
-id: "TRM-ENG-52288"
+id: "TRM-ENG-66817"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Modelling"

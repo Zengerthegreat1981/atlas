@@ -1,6 +1,6 @@
 ---
 slug: "trm-ofmentalpatientsandotherinmatesgardencityny"
-id: "TRM-ENG-49588"
+id: "TRM-ENG-64117"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ofmentalpatientsandotherinmates.GardenCity,NY"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-rationalism-2"
-id: "TRM-ENG-47182"
+id: "TRM-ENG-61711"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rationalism, 2"

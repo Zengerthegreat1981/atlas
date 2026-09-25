@@ -1,6 +1,6 @@
 ---
 slug: "trm-goldfried-mr-ed"
-id: "TRM-ENG-40751"
+id: "TRM-ENG-55280"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goldfried MR (ed)"

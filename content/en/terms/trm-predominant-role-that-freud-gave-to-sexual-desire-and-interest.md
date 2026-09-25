@@ -1,6 +1,6 @@
 ---
 slug: "trm-predominant-role-that-freud-gave-to-sexual-desire-and-interest"
-id: "TRM-ENG-38116"
+id: "TRM-ENG-52645"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "predominant role that Freud gave to sexual desire and interest"

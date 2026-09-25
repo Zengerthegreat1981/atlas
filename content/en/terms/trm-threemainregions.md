@@ -1,6 +1,6 @@
 ---
 slug: "trm-threemainregions"
-id: "TRM-ENG-43918"
+id: "TRM-ENG-58447"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "threemainregions"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-hammond-marie-4"
-id: "TRM-ENG-38141"
+id: "TRM-ENG-52670"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hammond, Marie, 4"

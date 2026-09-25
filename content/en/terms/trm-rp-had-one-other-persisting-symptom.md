@@ -1,6 +1,6 @@
 ---
 slug: "trm-rp-had-one-other-persisting-symptom"
-id: "TRM-ENG-34678"
+id: "TRM-ENG-63736"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "R.P. had one other persisting symptom"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-amongothers"
-id: "TRM-ENG-43453"
+id: "TRM-ENG-57982"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(amongothers)"

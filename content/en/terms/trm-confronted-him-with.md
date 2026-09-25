@@ -1,6 +1,6 @@
 ---
 slug: "trm-confronted-him-with"
-id: "TRM-ENG-44957"
+id: "TRM-ENG-59486"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "confronted him with"

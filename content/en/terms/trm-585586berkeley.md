@@ -1,6 +1,6 @@
 ---
 slug: "trm-585586berkeley"
-id: "TRM-ENG-36411"
+id: "TRM-ENG-50940"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(585–586).Berkeley"

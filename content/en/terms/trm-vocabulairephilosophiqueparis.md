@@ -1,6 +1,6 @@
 ---
 slug: "trm-vocabulairephilosophiqueparis"
-id: "TRM-ENG-38422"
+id: "TRM-ENG-52951"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "vocabulairephilosophique.Paris"

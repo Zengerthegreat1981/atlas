@@ -1,6 +1,6 @@
 ---
 slug: "trm-reliabilitylike-coefficients"
-id: "TRM-ENG-36072"
+id: "TRM-ENG-65130"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reliability-like coefficients"

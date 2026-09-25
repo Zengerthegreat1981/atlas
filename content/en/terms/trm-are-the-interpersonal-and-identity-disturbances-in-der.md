@@ -1,6 +1,6 @@
 ---
 slug: "trm-are-the-interpersonal-and-identity-disturbances-in-der"
-id: "TRM-ENG-42315"
+id: "TRM-ENG-56844"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Are the interpersonal and identity disturbances in der"

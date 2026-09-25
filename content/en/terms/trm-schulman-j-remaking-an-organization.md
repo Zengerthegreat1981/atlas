@@ -1,6 +1,6 @@
 ---
 slug: "trm-schulman-j-remaking-an-organization"
-id: "TRM-ENG-44624"
+id: "TRM-ENG-59153"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schulman, J., Remaking an Organization"

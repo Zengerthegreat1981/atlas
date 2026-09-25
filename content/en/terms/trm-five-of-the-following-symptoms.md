@@ -1,6 +1,6 @@
 ---
 slug: "trm-five-of-the-following-symptoms"
-id: "TRM-ENG-43653"
+id: "TRM-ENG-58182"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "five of the following symptoms"

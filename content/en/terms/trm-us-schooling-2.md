@@ -1,6 +1,6 @@
 ---
 slug: "trm-us-schooling-2"
-id: "TRM-ENG-47435"
+id: "TRM-ENG-61964"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "U.S. schooling, 2"

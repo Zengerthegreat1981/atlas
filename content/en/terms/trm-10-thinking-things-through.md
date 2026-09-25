@@ -1,6 +1,6 @@
 ---
 slug: "trm-10-thinking-things-through"
-id: "TRM-ENG-38549"
+id: "TRM-ENG-53078"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "10. \"Thinking things through”"

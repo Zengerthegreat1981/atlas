@@ -1,6 +1,6 @@
 ---
 slug: "trm-raskin-ha"
-id: "TRM-ENG-42069"
+id: "TRM-ENG-56598"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Raskin HA"

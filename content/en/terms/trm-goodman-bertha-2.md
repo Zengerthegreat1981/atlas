@@ -1,6 +1,6 @@
 ---
 slug: "trm-goodman-bertha-2"
-id: "TRM-ENG-50484"
+id: "TRM-ENG-65013"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goodman, Bertha, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-188-maccoby-ee-ed"
-id: "TRM-ENG-38671"
+id: "TRM-ENG-53200"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "188. Maccoby EE (ed)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-der-am-j-psychiatry-142"
-id: "TRM-ENG-48292"
+id: "TRM-ENG-62821"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "der. Am J Psychiatry 142"

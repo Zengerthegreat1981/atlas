@@ -1,6 +1,6 @@
 ---
 slug: "trm-hollanderb1901thementalfunctionsofthebrainnewyork"
-id: "TRM-ENG-36911"
+id: "TRM-ENG-65969"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hollander,B.(1901).Thementalfunctionsofthebrain.NewYork"

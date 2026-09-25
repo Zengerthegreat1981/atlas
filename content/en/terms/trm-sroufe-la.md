@@ -1,6 +1,6 @@
 ---
 slug: "trm-sroufe-la"
-id: "TRM-ENG-48104"
+id: "TRM-ENG-62633"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sroufe LA"

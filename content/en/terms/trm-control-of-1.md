@@ -1,6 +1,6 @@
 ---
 slug: "trm-control-of-1"
-id: "TRM-ENG-45039"
+id: "TRM-ENG-59568"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "control of, 1"

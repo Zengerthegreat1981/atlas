@@ -1,6 +1,6 @@
 ---
 slug: "trm-malmquist-c-school-phobia"
-id: "TRM-ENG-44511"
+id: "TRM-ENG-59040"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Malmquist, C., “School Phobia"

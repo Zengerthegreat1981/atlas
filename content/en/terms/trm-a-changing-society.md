@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-changing-society"
-id: "TRM-ENG-47517"
+id: "TRM-ENG-62046"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "a changing society"

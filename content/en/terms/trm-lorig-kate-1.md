@@ -1,6 +1,6 @@
 ---
 slug: "trm-lorig-kate-1"
-id: "TRM-ENG-38382"
+id: "TRM-ENG-52911"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lorig, Kate, 1"

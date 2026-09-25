@@ -1,6 +1,6 @@
 ---
 slug: "trm-matic-medicine-51-1989"
-id: "TRM-ENG-46143"
+id: "TRM-ENG-60672"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "matic Medicine 51 (1989)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-search-of-jewish-identity-for-the-next-centurynew-york"
-id: "TRM-ENG-41583"
+id: "TRM-ENG-56112"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "search of Jewish identity for the next century.New York"

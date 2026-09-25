@@ -1,6 +1,6 @@
 ---
 slug: "trm-forgranted-level-referential-adequacy-in-this-sense-tradition"
-id: "TRM-ENG-48044"
+id: "TRM-ENG-62573"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "for-granted level. Referential adequacy in this sense tradition"

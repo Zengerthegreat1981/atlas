@@ -1,6 +1,6 @@
 ---
 slug: "trm-greatly-enlarged-and-the-vertebrate-sensory-systems"
-id: "TRM-ENG-36494"
+id: "TRM-ENG-51023"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "greatly enlarged, and the vertebrate sensory systems"

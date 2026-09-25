@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-the-pclr"
-id: "TRM-ENG-43069"
+id: "TRM-ENG-57598"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of the PCL-R"

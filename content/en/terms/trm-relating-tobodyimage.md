@@ -1,6 +1,6 @@
 ---
 slug: "trm-relating-tobodyimage"
-id: "TRM-ENG-43833"
+id: "TRM-ENG-58362"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "relating tobodyimage."

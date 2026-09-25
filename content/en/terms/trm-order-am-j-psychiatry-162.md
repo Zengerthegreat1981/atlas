@@ -1,6 +1,6 @@
 ---
 slug: "trm-order-am-j-psychiatry-162"
-id: "TRM-ENG-48494"
+id: "TRM-ENG-63023"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "order. Am J Psychiatry 162"

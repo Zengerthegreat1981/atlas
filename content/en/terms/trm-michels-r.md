@@ -1,6 +1,6 @@
 ---
 slug: "trm-michels-r"
-id: "TRM-ENG-41712"
+id: "TRM-ENG-56241"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Michels R"

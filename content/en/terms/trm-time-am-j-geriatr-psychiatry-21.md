@@ -1,6 +1,6 @@
 ---
 slug: "trm-time-am-j-geriatr-psychiatry-21"
-id: "TRM-ENG-48666"
+id: "TRM-ENG-63195"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "time. Am J Geriatr Psychiatry 21"

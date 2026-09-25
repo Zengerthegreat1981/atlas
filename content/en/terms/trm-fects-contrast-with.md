@@ -1,6 +1,6 @@
 ---
 slug: "trm-fects-contrast-with"
-id: "TRM-ENG-45563"
+id: "TRM-ENG-60092"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "fects contrast with"

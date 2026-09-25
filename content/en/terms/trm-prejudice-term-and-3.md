@@ -1,6 +1,6 @@
 ---
 slug: "trm-prejudice-term-and-3"
-id: "TRM-ENG-41258"
+id: "TRM-ENG-55787"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "prejudice term and, 3"

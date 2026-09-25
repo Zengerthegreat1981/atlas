@@ -1,6 +1,6 @@
 ---
 slug: "trm-personality-disorder-features"
-id: "TRM-ENG-48517"
+id: "TRM-ENG-63046"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "personality disorder features"

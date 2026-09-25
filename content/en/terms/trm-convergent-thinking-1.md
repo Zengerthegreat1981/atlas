@@ -1,6 +1,6 @@
 ---
 slug: "trm-convergent-thinking-1"
-id: "TRM-ENG-46450"
+id: "TRM-ENG-60979"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Convergent thinking, 1"

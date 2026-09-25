@@ -1,6 +1,6 @@
 ---
 slug: "trm-tyler-leona-e"
-id: "TRM-ENG-38947"
+id: "TRM-ENG-53476"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tyler, Leona E."

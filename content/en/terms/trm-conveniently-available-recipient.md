@@ -1,6 +1,6 @@
 ---
 slug: "trm-conveniently-available-recipient"
-id: "TRM-ENG-43003"
+id: "TRM-ENG-57532"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "conveniently available recipient"

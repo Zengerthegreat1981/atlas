@@ -1,6 +1,6 @@
 ---
 slug: "trm-proaches-new-york"
-id: "TRM-ENG-43150"
+id: "TRM-ENG-57679"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "proaches. New York"

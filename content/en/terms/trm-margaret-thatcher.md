@@ -1,6 +1,6 @@
 ---
 slug: "trm-margaret-thatcher"
-id: "TRM-ENG-35129"
+id: "TRM-ENG-64187"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“Margaret Thatcher"

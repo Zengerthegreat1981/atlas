@@ -1,6 +1,6 @@
 ---
 slug: "trm-factors-and-health-outcomes"
-id: "TRM-ENG-46976"
+id: "TRM-ENG-61505"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "factors and health outcomes"

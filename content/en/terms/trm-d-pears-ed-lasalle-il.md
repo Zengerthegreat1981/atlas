@@ -1,6 +1,6 @@
 ---
 slug: "trm-d-pears-ed-lasalle-il"
-id: "TRM-ENG-44253"
+id: "TRM-ENG-58782"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(D. Pears, Ed.). LaSalle, IL"

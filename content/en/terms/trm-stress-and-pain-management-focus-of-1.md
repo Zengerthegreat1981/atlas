@@ -1,6 +1,6 @@
 ---
 slug: "trm-stress-and-pain-management-focus-of-1"
-id: "TRM-ENG-41789"
+id: "TRM-ENG-56318"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stress and pain management focus of, 1"

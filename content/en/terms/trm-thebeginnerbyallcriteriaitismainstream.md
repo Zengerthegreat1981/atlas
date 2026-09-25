@@ -1,6 +1,6 @@
 ---
 slug: "trm-thebeginnerbyallcriteriaitismainstream"
-id: "TRM-ENG-38314"
+id: "TRM-ENG-52843"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thebeginner.Byallcriteria,itismainstream"

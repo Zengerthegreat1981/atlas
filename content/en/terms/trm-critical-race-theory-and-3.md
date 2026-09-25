@@ -1,6 +1,6 @@
 ---
 slug: "trm-critical-race-theory-and-3"
-id: "TRM-ENG-39793"
+id: "TRM-ENG-54322"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "critical race theory and, 3"

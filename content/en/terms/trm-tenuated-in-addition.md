@@ -1,6 +1,6 @@
 ---
 slug: "trm-tenuated-in-addition"
-id: "TRM-ENG-37079"
+id: "TRM-ENG-66137"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tenuated. In addition"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-schwitzgebel-r-kolb-da"
-id: "TRM-ENG-42301"
+id: "TRM-ENG-56830"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schwitzgebel R, Kolb DA"

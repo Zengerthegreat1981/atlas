@@ -1,6 +1,6 @@
 ---
 slug: "trm-donner-l-guerney-bg-jr"
-id: "TRM-ENG-40371"
+id: "TRM-ENG-54900"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Donner L, Guerney BG, Jr"

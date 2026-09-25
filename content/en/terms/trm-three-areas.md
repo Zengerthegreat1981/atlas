@@ -1,6 +1,6 @@
 ---
 slug: "trm-three-areas"
-id: "TRM-ENG-45382"
+id: "TRM-ENG-59911"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "three areas"

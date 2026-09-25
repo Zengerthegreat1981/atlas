@@ -1,6 +1,6 @@
 ---
 slug: "trm-neurobiological-mechanisms-of-1"
-id: "TRM-ENG-40944"
+id: "TRM-ENG-55473"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "neurobiological mechanisms of, 1"

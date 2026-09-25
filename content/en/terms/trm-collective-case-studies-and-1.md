@@ -1,6 +1,6 @@
 ---
 slug: "trm-collective-case-studies-and-1"
-id: "TRM-ENG-39574"
+id: "TRM-ENG-54103"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "collective case studies and, 1"

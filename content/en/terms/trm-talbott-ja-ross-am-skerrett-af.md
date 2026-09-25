@@ -1,6 +1,6 @@
 ---
 slug: "trm-talbott-ja-ross-am-skerrett-af"
-id: "TRM-ENG-42543"
+id: "TRM-ENG-57072"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Talbott JA, Ross AM, Skerrett AF"

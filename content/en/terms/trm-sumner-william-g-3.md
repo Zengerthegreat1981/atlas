@@ -1,6 +1,6 @@
 ---
 slug: "trm-sumner-william-g-3"
-id: "TRM-ENG-38845"
+id: "TRM-ENG-53374"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sumner, William G., 3"

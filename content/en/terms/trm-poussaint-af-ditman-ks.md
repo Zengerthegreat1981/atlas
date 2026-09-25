@@ -1,6 +1,6 @@
 ---
 slug: "trm-poussaint-af-ditman-ks"
-id: "TRM-ENG-41999"
+id: "TRM-ENG-56528"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Poussaint AF, Ditman KS"

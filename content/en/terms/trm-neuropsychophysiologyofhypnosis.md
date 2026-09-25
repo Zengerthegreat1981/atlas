@@ -1,6 +1,6 @@
 ---
 slug: "trm-neuropsychophysiologyofhypnosis"
-id: "TRM-ENG-37999"
+id: "TRM-ENG-67057"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "neuropsychophysiologyofhypnosis"

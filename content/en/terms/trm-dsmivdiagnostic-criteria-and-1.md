@@ -1,6 +1,6 @@
 ---
 slug: "trm-dsmivdiagnostic-criteria-and-1"
-id: "TRM-ENG-37920"
+id: "TRM-ENG-66978"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "DSM-IVdiagnostic criteria and, 1"

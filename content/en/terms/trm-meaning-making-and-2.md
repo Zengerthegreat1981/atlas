@@ -1,6 +1,6 @@
 ---
 slug: "trm-meaning-making-and-2"
-id: "TRM-ENG-40791"
+id: "TRM-ENG-55320"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "meaning making and, 2"

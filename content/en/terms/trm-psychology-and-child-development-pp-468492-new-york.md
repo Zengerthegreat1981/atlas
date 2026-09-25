@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychology-and-child-development-pp-468492-new-york"
-id: "TRM-ENG-38148"
+id: "TRM-ENG-52677"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychology and child development (pp. 468–492). New York"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-vocational-impact-of-renal-failure"
-id: "TRM-ENG-47372"
+id: "TRM-ENG-61901"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "vocational impact of renal failure"

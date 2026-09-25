@@ -1,6 +1,6 @@
 ---
 slug: "trm-vandermeerschp1994thefailureofsecondnaivete"
-id: "TRM-ENG-37399"
+id: "TRM-ENG-66457"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Vandermeersch,P.(1994).Thefailureofsecondnaivete"

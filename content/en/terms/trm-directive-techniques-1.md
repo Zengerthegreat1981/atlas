@@ -1,6 +1,6 @@
 ---
 slug: "trm-directive-techniques-1"
-id: "TRM-ENG-50312"
+id: "TRM-ENG-64841"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Directive techniques, 1"

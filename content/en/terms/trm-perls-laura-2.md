@@ -1,6 +1,6 @@
 ---
 slug: "trm-perls-laura-2"
-id: "TRM-ENG-38581"
+id: "TRM-ENG-53110"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Perls, Laura, 2"

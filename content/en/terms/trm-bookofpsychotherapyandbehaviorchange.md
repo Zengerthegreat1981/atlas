@@ -1,6 +1,6 @@
 ---
 slug: "trm-bookofpsychotherapyandbehaviorchange"
-id: "TRM-ENG-46865"
+id: "TRM-ENG-61394"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bookofpsychotherapyandbehaviorchange"

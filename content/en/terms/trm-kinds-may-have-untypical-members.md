@@ -1,6 +1,6 @@
 ---
 slug: "trm-kinds-may-have-untypical-members"
-id: "TRM-ENG-45256"
+id: "TRM-ENG-59785"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "kinds may have untypical members"

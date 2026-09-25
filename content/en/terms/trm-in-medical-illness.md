@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-medical-illness"
-id: "TRM-ENG-48391"
+id: "TRM-ENG-62920"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in Medical Illness"

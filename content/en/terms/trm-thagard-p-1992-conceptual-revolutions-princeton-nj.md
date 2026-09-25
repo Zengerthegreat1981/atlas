@@ -1,6 +1,6 @@
 ---
 slug: "trm-thagard-p-1992-conceptual-revolutions-princeton-nj"
-id: "TRM-ENG-47373"
+id: "TRM-ENG-61902"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Thagard, P. (1992). Conceptual revolutions. Princeton, NJ"

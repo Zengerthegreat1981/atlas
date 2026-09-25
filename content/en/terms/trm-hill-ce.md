@@ -1,6 +1,6 @@
 ---
 slug: "trm-hill-ce"
-id: "TRM-ENG-47725"
+id: "TRM-ENG-62254"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hill CE"

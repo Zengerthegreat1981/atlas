@@ -1,6 +1,6 @@
 ---
 slug: "trm-berg-c-psychotherapy"
-id: "TRM-ENG-39889"
+id: "TRM-ENG-54418"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Berg C: Psychotherapy"

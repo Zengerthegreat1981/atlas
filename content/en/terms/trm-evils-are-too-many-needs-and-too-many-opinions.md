@@ -1,6 +1,6 @@
 ---
 slug: "trm-evils-are-too-many-needs-and-too-many-opinions"
-id: "TRM-ENG-48002"
+id: "TRM-ENG-62531"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "evils are too many needs and too many opinions"

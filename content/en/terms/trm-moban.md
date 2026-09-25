@@ -1,6 +1,6 @@
 ---
 slug: "trm-moban"
-id: "TRM-ENG-38514"
+id: "TRM-ENG-53043"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Moban"

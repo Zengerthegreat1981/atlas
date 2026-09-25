@@ -1,6 +1,6 @@
 ---
 slug: "trm-career-decisionmaking-elements-and-4"
-id: "TRM-ENG-39422"
+id: "TRM-ENG-53951"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "career decision-making elements and, 4"

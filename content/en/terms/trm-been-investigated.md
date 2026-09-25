@@ -1,6 +1,6 @@
 ---
 slug: "trm-been-investigated"
-id: "TRM-ENG-46850"
+id: "TRM-ENG-61379"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "been investigated"

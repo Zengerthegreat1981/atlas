@@ -1,6 +1,6 @@
 ---
 slug: "trm-ways"
-id: "TRM-ENG-37304"
+id: "TRM-ENG-51833"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ways"

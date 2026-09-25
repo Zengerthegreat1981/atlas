@@ -1,6 +1,6 @@
 ---
 slug: "trm-festinger-leon-1"
-id: "TRM-ENG-44488"
+id: "TRM-ENG-59017"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Festinger, Leon, 1"

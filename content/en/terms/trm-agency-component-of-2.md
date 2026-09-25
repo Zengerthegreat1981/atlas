@@ -1,6 +1,6 @@
 ---
 slug: "trm-agency-component-of-2"
-id: "TRM-ENG-39138"
+id: "TRM-ENG-53667"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "agency component of, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-score-interpretation-analysis-and-2"
-id: "TRM-ENG-41580"
+id: "TRM-ENG-56109"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "score interpretation, analysis and, 2"

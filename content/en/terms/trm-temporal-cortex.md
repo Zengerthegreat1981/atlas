@@ -1,6 +1,6 @@
 ---
 slug: "trm-temporal-cortex"
-id: "TRM-ENG-37073"
+id: "TRM-ENG-66131"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "temporal cortex"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-eightshaped-coil-mean-diameter"
-id: "TRM-ENG-36167"
+id: "TRM-ENG-65225"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the eight-shaped coil (mean diameter"

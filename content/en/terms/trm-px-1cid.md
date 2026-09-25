@@ -1,6 +1,6 @@
 ---
 slug: "trm-px-1cid"
-id: "TRM-ENG-35474"
+id: "TRM-ENG-64532"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "P(x =1|(cid"

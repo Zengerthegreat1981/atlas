@@ -1,6 +1,6 @@
 ---
 slug: "trm-holland-j-1997-making-vocational-choices"
-id: "TRM-ENG-38185"
+id: "TRM-ENG-52714"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Holland, J. (1997). Making vocational choices"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-conversion-therapy-opposed-by-1"
-id: "TRM-ENG-39704"
+id: "TRM-ENG-54233"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "conversion therapy opposed by, 1"

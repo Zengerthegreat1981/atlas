@@ -1,6 +1,6 @@
 ---
 slug: "trm-raine-a-lencz-t"
-id: "TRM-ENG-47993"
+id: "TRM-ENG-62522"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Raine A, Lencz T"

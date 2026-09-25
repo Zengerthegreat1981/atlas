@@ -1,6 +1,6 @@
 ---
 slug: "trm-well"
-id: "TRM-ENG-49033"
+id: "TRM-ENG-63562"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "well"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-vulnerable"
-id: "TRM-ENG-43270"
+id: "TRM-ENG-57799"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(vulnerable"

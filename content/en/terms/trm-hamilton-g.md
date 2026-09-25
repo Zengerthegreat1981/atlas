@@ -1,6 +1,6 @@
 ---
 slug: "trm-hamilton-g"
-id: "TRM-ENG-40897"
+id: "TRM-ENG-55426"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hamilton G"

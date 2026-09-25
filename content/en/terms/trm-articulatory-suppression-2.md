@@ -1,6 +1,6 @@
 ---
 slug: "trm-articulatory-suppression-2"
-id: "TRM-ENG-44309"
+id: "TRM-ENG-58838"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Articulatory suppression, 2"

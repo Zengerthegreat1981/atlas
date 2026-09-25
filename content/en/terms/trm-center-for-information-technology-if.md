@@ -1,6 +1,6 @@
 ---
 slug: "trm-center-for-information-technology-if"
-id: "TRM-ENG-35619"
+id: "TRM-ENG-64677"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Center for Information Technology If"

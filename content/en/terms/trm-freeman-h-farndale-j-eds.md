@@ -1,6 +1,6 @@
 ---
 slug: "trm-freeman-h-farndale-j-eds"
-id: "TRM-ENG-40607"
+id: "TRM-ENG-55136"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Freeman H, Farndale J (eds)"

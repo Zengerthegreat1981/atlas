@@ -1,6 +1,6 @@
 ---
 slug: "trm-1993-negative-beliefs-of-spider-phobics"
-id: "TRM-ENG-48764"
+id: "TRM-ENG-63293"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1993). Negative beliefs of spider phobics"

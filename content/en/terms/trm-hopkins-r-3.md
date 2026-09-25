@@ -1,6 +1,6 @@
 ---
 slug: "trm-hopkins-r-3"
-id: "TRM-ENG-38191"
+id: "TRM-ENG-52720"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hopkins, R., 3"

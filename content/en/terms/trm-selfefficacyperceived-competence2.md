@@ -1,6 +1,6 @@
 ---
 slug: "trm-selfefficacyperceived-competence2"
-id: "TRM-ENG-38753"
+id: "TRM-ENG-53282"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Self-efficacy/perceived competence,2"

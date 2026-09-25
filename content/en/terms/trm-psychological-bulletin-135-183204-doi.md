@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychological-bulletin-135-183204-doi"
-id: "TRM-ENG-35496"
+id: "TRM-ENG-64554"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychological Bulletin, 135, 183–204. doi"

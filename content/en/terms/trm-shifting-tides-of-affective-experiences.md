@@ -1,6 +1,6 @@
 ---
 slug: "trm-shifting-tides-of-affective-experiences"
-id: "TRM-ENG-45512"
+id: "TRM-ENG-60041"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "shifting tides of affective experiences"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-residential-treatment-and-2"
-id: "TRM-ENG-41514"
+id: "TRM-ENG-56043"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "residential treatment and, 2"

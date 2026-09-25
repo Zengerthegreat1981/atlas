@@ -1,6 +1,6 @@
 ---
 slug: "trm-chodoff-p"
-id: "TRM-ENG-40173"
+id: "TRM-ENG-54702"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Chodoff P"

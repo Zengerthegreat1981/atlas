@@ -1,6 +1,6 @@
 ---
 slug: "trm-cioeconomic-level"
-id: "TRM-ENG-34939"
+id: "TRM-ENG-63997"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cioeconomic level)"

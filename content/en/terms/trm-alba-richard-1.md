@@ -1,6 +1,6 @@
 ---
 slug: "trm-alba-richard-1"
-id: "TRM-ENG-46211"
+id: "TRM-ENG-60740"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Alba, Richard, 1"

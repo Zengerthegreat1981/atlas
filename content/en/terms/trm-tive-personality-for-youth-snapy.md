@@ -1,6 +1,6 @@
 ---
 slug: "trm-tive-personality-for-youth-snapy"
-id: "TRM-ENG-43366"
+id: "TRM-ENG-57895"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tive Personality for Youth (SNAP-Y)"

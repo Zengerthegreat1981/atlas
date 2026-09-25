@@ -1,6 +1,6 @@
 ---
 slug: "trm-iv-stage-fright"
-id: "TRM-ENG-41074"
+id: "TRM-ENG-55603"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "IV. STAGE FRIGHT"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-pear-twice-in-the-bioecological-model"
-id: "TRM-ENG-35216"
+id: "TRM-ENG-49745"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pear twice in the bioecological model"

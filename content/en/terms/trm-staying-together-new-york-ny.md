@@ -1,6 +1,6 @@
 ---
 slug: "trm-staying-together-new-york-ny"
-id: "TRM-ENG-51841"
+id: "TRM-ENG-66370"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "staying together. New York, NY"

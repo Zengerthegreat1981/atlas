@@ -1,6 +1,6 @@
 ---
 slug: "trm-37-sterns-a-w-isaac-ray"
-id: "TRM-ENG-44211"
+id: "TRM-ENG-58740"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "37. Sterns, A. W., “Isaac Ray"

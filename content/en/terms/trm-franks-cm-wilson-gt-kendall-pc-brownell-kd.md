@@ -1,6 +1,6 @@
 ---
 slug: "trm-franks-cm-wilson-gt-kendall-pc-brownell-kd"
-id: "TRM-ENG-40596"
+id: "TRM-ENG-55125"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Franks CM, Wilson GT, Kendall PC, Brownell KD"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-his"
-id: "TRM-ENG-48112"
+id: "TRM-ENG-62641"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "his"

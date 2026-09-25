@@ -1,6 +1,6 @@
 ---
 slug: "trm-gill-mm-newman-r-redlich-fc"
-id: "TRM-ENG-40704"
+id: "TRM-ENG-55233"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gill MM, Newman R, Redlich FC"

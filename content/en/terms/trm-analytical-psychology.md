@@ -1,6 +1,6 @@
 ---
 slug: "trm-analytical-psychology"
-id: "TRM-ENG-46234"
+id: "TRM-ENG-60763"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Analytical Psychology"

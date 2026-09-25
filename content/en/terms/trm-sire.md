@@ -1,6 +1,6 @@
 ---
 slug: "trm-sire"
-id: "TRM-ENG-37001"
+id: "TRM-ENG-51530"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sire"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-divine-the-tradition-of-devotion-to-lord-krs"
-id: "TRM-ENG-36737"
+id: "TRM-ENG-51266"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Divine. The tradition of devotion to Lord Krs"

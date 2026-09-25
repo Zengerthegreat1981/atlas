@@ -1,6 +1,6 @@
 ---
 slug: "trm-blum-n-st-john-d-pfohl-b-et-al"
-id: "TRM-ENG-47513"
+id: "TRM-ENG-62042"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Blum N, St. John D, Pfohl B, et al"

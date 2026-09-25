@@ -1,6 +1,6 @@
 ---
 slug: "trm-interest-in-the-third-component-of-the-self"
-id: "TRM-ENG-42421"
+id: "TRM-ENG-56950"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Interest in the third component of the self"

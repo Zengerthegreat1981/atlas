@@ -1,6 +1,6 @@
 ---
 slug: "trm-jungcg1968analyticalpsychology"
-id: "TRM-ENG-36986"
+id: "TRM-ENG-66044"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jung,C.G.(1968).Analyticalpsychology"

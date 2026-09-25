@@ -1,6 +1,6 @@
 ---
 slug: "trm-actionsarerecordedfirstmanythingsareobservable"
-id: "TRM-ENG-37481"
+id: "TRM-ENG-66539"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "actionsarerecordedfirst.Manythingsareobservable"

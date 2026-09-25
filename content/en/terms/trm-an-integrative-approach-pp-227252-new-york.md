@@ -1,6 +1,6 @@
 ---
 slug: "trm-an-integrative-approach-pp-227252-new-york"
-id: "TRM-ENG-46403"
+id: "TRM-ENG-60932"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "An integrative approach (pp. 227±252). New York"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-recent-book-marking-the-mind"
-id: "TRM-ENG-38194"
+id: "TRM-ENG-52723"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "recent book, Marking the Mind"

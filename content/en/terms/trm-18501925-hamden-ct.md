@@ -1,6 +1,6 @@
 ---
 slug: "trm-18501925-hamden-ct"
-id: "TRM-ENG-37469"
+id: "TRM-ENG-66527"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1850–1925. Hamden, CT"

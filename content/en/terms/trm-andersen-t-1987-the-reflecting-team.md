@@ -1,6 +1,6 @@
 ---
 slug: "trm-andersen-t-1987-the-reflecting-team"
-id: "TRM-ENG-48886"
+id: "TRM-ENG-63415"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Andersen, T. (1987). The reflecting team"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ogyquarterly55388399-behaviour"
-id: "TRM-ENG-47170"
+id: "TRM-ENG-61699"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ogyQuarterly,55,388±399. behaviour"

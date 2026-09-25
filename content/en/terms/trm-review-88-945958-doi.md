@@ -1,6 +1,6 @@
 ---
 slug: "trm-review-88-945958-doi"
-id: "TRM-ENG-35536"
+id: "TRM-ENG-50065"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Review, 88, 945–958. doi"

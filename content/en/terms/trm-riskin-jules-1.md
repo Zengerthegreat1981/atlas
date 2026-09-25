@@ -1,6 +1,6 @@
 ---
 slug: "trm-riskin-jules-1"
-id: "TRM-ENG-50963"
+id: "TRM-ENG-65492"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Riskin, Jules, 1"

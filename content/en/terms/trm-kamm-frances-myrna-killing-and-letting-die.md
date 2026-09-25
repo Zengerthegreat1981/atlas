@@ -1,6 +1,6 @@
 ---
 slug: "trm-kamm-frances-myrna-killing-and-letting-die"
-id: "TRM-ENG-45727"
+id: "TRM-ENG-60256"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kamm, Frances Myrna. “Killing and Letting Die"

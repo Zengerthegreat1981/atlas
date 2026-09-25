@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognitive-behaviour-therapy-for-psychiatric-problems"
-id: "TRM-ENG-48942"
+id: "TRM-ENG-63471"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cognitive behaviour therapy for psychiatric problems"

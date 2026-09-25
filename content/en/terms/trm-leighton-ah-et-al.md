@@ -1,6 +1,6 @@
 ---
 slug: "trm-leighton-ah-et-al"
-id: "TRM-ENG-41400"
+id: "TRM-ENG-55929"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Leighton AH, et al"

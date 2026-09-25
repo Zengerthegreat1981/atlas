@@ -1,6 +1,6 @@
 ---
 slug: "trm-black-counselor-and-client-example-of-3"
-id: "TRM-ENG-37707"
+id: "TRM-ENG-52236"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Black counselor and client example of, 3"

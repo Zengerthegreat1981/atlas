@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-his-technical-philosophical-writings"
-id: "TRM-ENG-48432"
+id: "TRM-ENG-62961"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of his technical philosophical writings"

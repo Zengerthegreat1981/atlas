@@ -1,6 +1,6 @@
 ---
 slug: "trm-ordering"
-id: "TRM-ENG-41064"
+id: "TRM-ENG-55593"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ordering"

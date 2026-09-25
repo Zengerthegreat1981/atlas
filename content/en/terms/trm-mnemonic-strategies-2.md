@@ -1,6 +1,6 @@
 ---
 slug: "trm-mnemonic-strategies-2"
-id: "TRM-ENG-45307"
+id: "TRM-ENG-59836"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mnemonic strategies, 2"

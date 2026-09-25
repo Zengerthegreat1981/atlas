@@ -1,6 +1,6 @@
 ---
 slug: "trm-masochistic-personality-disorder"
-id: "TRM-ENG-42453"
+id: "TRM-ENG-56982"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Masochistic personality disorder"

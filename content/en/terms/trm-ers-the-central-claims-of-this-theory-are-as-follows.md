@@ -1,6 +1,6 @@
 ---
 slug: "trm-ers-the-central-claims-of-this-theory-are-as-follows"
-id: "TRM-ENG-45102"
+id: "TRM-ENG-59631"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ers. The central claims of this theory are as follows"

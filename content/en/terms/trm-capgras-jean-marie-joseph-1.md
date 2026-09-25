@@ -1,6 +1,6 @@
 ---
 slug: "trm-capgras-jean-marie-joseph-1"
-id: "TRM-ENG-44364"
+id: "TRM-ENG-58893"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Capgras, Jean Marie Joseph, 1"

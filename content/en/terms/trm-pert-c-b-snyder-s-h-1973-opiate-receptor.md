@@ -1,6 +1,6 @@
 ---
 slug: "trm-pert-c-b-snyder-s-h-1973-opiate-receptor"
-id: "TRM-ENG-34763"
+id: "TRM-ENG-49292"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pert, C. B., & Snyder, S. H. (1973). Opiate receptor"

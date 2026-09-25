@@ -1,6 +1,6 @@
 ---
 slug: "trm-diagnostica-rome"
-id: "TRM-ENG-34976"
+id: "TRM-ENG-64034"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "diagnostica. Rome"

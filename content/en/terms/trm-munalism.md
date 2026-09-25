@@ -1,6 +1,6 @@
 ---
 slug: "trm-munalism"
-id: "TRM-ENG-45962"
+id: "TRM-ENG-60491"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "munalism"

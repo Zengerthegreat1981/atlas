@@ -1,6 +1,6 @@
 ---
 slug: "trm-johnson-am-szurek-sa"
-id: "TRM-ENG-41132"
+id: "TRM-ENG-55661"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Johnson AM, Szurek SA"

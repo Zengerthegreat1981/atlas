@@ -1,6 +1,6 @@
 ---
 slug: "trm-sense"
-id: "TRM-ENG-45298"
+id: "TRM-ENG-59827"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sense"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-mcguire-mt"
-id: "TRM-ENG-41646"
+id: "TRM-ENG-56175"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "McGuire MT"

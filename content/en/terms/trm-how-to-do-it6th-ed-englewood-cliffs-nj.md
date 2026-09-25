@@ -1,6 +1,6 @@
 ---
 slug: "trm-how-to-do-it6th-ed-englewood-cliffs-nj"
-id: "TRM-ENG-36524"
+id: "TRM-ENG-65582"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "how to do it(6th ed.). Englewood Cliffs, NJ"

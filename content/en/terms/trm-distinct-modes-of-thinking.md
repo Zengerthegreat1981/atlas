@@ -1,6 +1,6 @@
 ---
 slug: "trm-distinct-modes-of-thinking"
-id: "TRM-ENG-45072"
+id: "TRM-ENG-59601"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "distinct modes of thinking"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-geertsma-rh-reivich-rs"
-id: "TRM-ENG-40676"
+id: "TRM-ENG-55205"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Geertsma RH, Reivich RS"

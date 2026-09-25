@@ -1,6 +1,6 @@
 ---
 slug: "trm-plasticity-of-culture-concept-and-3"
-id: "TRM-ENG-41182"
+id: "TRM-ENG-55711"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "plasticity of culture concept and, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-primates"
-id: "TRM-ENG-36047"
+id: "TRM-ENG-50576"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "primates"

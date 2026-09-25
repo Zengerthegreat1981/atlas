@@ -1,6 +1,6 @@
 ---
 slug: "trm-perform-services-outside-the-limitations-of-their-tech-presence"
-id: "TRM-ENG-41126"
+id: "TRM-ENG-55655"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "perform services outside the limitations of their tech- presence"

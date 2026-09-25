@@ -1,6 +1,6 @@
 ---
 slug: "trm-personality-disorders-inventory"
-id: "TRM-ENG-42486"
+id: "TRM-ENG-57015"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Personality Disorders Inventory"

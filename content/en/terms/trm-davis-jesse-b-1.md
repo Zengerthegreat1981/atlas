@@ -1,6 +1,6 @@
 ---
 slug: "trm-davis-jesse-b-1"
-id: "TRM-ENG-37931"
+id: "TRM-ENG-52460"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Davis, Jesse B., 1"

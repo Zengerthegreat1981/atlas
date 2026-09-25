@@ -1,6 +1,6 @@
 ---
 slug: "trm-363-deutsch-f-murphy-wf"
-id: "TRM-ENG-38932"
+id: "TRM-ENG-53461"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "363. Deutsch F, Murphy WF"

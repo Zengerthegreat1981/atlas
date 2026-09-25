@@ -1,6 +1,6 @@
 ---
 slug: "trm-preimmigration-factors-and-3"
-id: "TRM-ENG-41252"
+id: "TRM-ENG-55781"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pre-immigration factors and, 3"

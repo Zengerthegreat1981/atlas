@@ -1,6 +1,6 @@
 ---
 slug: "trm-unequivocal"
-id: "TRM-ENG-42077"
+id: "TRM-ENG-56606"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "unequivocal"

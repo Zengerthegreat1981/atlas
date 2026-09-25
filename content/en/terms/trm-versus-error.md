@@ -1,6 +1,6 @@
 ---
 slug: "trm-versus-error"
-id: "TRM-ENG-36246"
+id: "TRM-ENG-65304"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "versus error"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-organize-itself-into-six-schools"
-id: "TRM-ENG-38065"
+id: "TRM-ENG-67123"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "organize itself into six schools"

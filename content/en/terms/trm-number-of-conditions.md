@@ -1,6 +1,6 @@
 ---
 slug: "trm-number-of-conditions"
-id: "TRM-ENG-43119"
+id: "TRM-ENG-57648"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "number of conditions"

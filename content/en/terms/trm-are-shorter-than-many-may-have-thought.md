@@ -1,6 +1,6 @@
 ---
 slug: "trm-are-shorter-than-many-may-have-thought"
-id: "TRM-ENG-39249"
+id: "TRM-ENG-53778"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "are shorter than many may have thought"

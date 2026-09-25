@@ -1,6 +1,6 @@
 ---
 slug: "trm-four-themes"
-id: "TRM-ENG-35035"
+id: "TRM-ENG-64093"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "four themes"

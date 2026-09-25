@@ -1,6 +1,6 @@
 ---
 slug: "trm-naire-4-new-york"
-id: "TRM-ENG-43026"
+id: "TRM-ENG-57555"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "naire, 4+. New York"

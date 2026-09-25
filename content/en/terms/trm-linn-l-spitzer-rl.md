@@ -1,6 +1,6 @@
 ---
 slug: "trm-linn-l-spitzer-rl"
-id: "TRM-ENG-41476"
+id: "TRM-ENG-56005"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Linn L, Spitzer RL"

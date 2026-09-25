@@ -1,6 +1,6 @@
 ---
 slug: "trm-episodic-memory-1"
-id: "TRM-ENG-44464"
+id: "TRM-ENG-58993"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Episodic memory, 1"

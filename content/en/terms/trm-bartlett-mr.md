@@ -1,6 +1,6 @@
 ---
 slug: "trm-bartlett-mr"
-id: "TRM-ENG-39819"
+id: "TRM-ENG-54348"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bartlett MR"

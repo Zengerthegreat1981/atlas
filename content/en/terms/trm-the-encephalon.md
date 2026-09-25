@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-encephalon"
-id: "TRM-ENG-34701"
+id: "TRM-ENG-63759"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The encephalon"

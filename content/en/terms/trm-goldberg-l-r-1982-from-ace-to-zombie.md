@@ -1,6 +1,6 @@
 ---
 slug: "trm-goldberg-l-r-1982-from-ace-to-zombie"
-id: "TRM-ENG-43435"
+id: "TRM-ENG-57964"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goldberg, L. R. (1982). From ace to zombie"

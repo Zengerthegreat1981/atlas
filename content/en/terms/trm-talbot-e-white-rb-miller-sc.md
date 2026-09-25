@@ -1,6 +1,6 @@
 ---
 slug: "trm-talbot-e-white-rb-miller-sc"
-id: "TRM-ENG-42539"
+id: "TRM-ENG-57068"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Talbot E, White RB, Miller SC"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-common-tendencies"
-id: "TRM-ENG-44946"
+id: "TRM-ENG-59475"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "common tendencies"

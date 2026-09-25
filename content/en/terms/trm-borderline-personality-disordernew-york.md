@@ -1,6 +1,6 @@
 ---
 slug: "trm-borderline-personality-disordernew-york"
-id: "TRM-ENG-39384"
+id: "TRM-ENG-53913"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "borderline personality disorder.New York"

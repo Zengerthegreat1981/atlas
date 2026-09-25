@@ -1,6 +1,6 @@
 ---
 slug: "trm-council-on-rehabilitation-education-core-2"
-id: "TRM-ENG-37875"
+id: "TRM-ENG-66933"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Council on Rehabilitation Education (CORE), 2"

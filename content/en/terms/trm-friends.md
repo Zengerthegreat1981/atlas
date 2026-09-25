@@ -1,6 +1,6 @@
 ---
 slug: "trm-friends"
-id: "TRM-ENG-44108"
+id: "TRM-ENG-58637"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "friends"

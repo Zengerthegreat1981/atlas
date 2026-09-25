@@ -1,6 +1,6 @@
 ---
 slug: "trm-school-psychology-pp-881903-new-york-ny"
-id: "TRM-ENG-36102"
+id: "TRM-ENG-65160"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "school psychology (pp. 881–903). New York, NY"

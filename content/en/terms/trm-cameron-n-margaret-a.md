@@ -1,6 +1,6 @@
 ---
 slug: "trm-cameron-n-margaret-a"
-id: "TRM-ENG-40109"
+id: "TRM-ENG-54638"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cameron N, Margaret A"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-or-where-a-teacher-faces-conflicts-between-her-own-here"
-id: "TRM-ENG-48495"
+id: "TRM-ENG-63024"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "or where a teacher faces conflicts between her own here"

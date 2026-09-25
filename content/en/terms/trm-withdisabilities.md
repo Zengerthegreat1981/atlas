@@ -1,6 +1,6 @@
 ---
 slug: "trm-withdisabilities"
-id: "TRM-ENG-46082"
+id: "TRM-ENG-60611"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "withDisabilities"

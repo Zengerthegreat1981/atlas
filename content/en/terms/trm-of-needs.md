@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-needs"
-id: "TRM-ENG-51648"
+id: "TRM-ENG-66177"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of needs"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-brooks-d-n-ed-1984-closed-head-injury"
-id: "TRM-ENG-46449"
+id: "TRM-ENG-60978"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brooks, D. N. (Ed.) (1984). Closed head injury"

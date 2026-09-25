@@ -1,6 +1,6 @@
 ---
 slug: "trm-799-landy-rj"
-id: "TRM-ENG-39450"
+id: "TRM-ENG-53979"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "799. Landy RJ"

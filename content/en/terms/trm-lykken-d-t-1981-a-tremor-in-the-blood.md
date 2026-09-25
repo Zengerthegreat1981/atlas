@@ -1,6 +1,6 @@
 ---
 slug: "trm-lykken-d-t-1981-a-tremor-in-the-blood"
-id: "TRM-ENG-34742"
+id: "TRM-ENG-49271"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lykken, D. T. (1981). A tremor in the blood"

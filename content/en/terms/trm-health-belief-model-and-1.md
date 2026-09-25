@@ -1,6 +1,6 @@
 ---
 slug: "trm-health-belief-model-and-1"
-id: "TRM-ENG-40352"
+id: "TRM-ENG-54881"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "health belief model and, 1"

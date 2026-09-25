@@ -1,6 +1,6 @@
 ---
 slug: "trm-constructivist-psychotherapies"
-id: "TRM-ENG-51365"
+id: "TRM-ENG-65894"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "constructivist psychotherapies"

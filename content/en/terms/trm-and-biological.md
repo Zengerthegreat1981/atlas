@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-biological"
-id: "TRM-ENG-35649"
+id: "TRM-ENG-64707"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and biological"

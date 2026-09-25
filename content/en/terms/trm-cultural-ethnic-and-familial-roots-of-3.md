@@ -1,6 +1,6 @@
 ---
 slug: "trm-cultural-ethnic-and-familial-roots-of-3"
-id: "TRM-ENG-39828"
+id: "TRM-ENG-54357"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cultural, ethnic, and familial roots of, 3"

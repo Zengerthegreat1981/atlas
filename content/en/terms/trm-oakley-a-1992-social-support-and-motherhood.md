@@ -1,6 +1,6 @@
 ---
 slug: "trm-oakley-a-1992-social-support-and-motherhood"
-id: "TRM-ENG-46648"
+id: "TRM-ENG-61177"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Oakley, A. (1992). Social support and motherhood"

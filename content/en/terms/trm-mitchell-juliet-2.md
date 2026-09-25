@@ -1,6 +1,6 @@
 ---
 slug: "trm-mitchell-juliet-2"
-id: "TRM-ENG-38441"
+id: "TRM-ENG-52970"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mitchell, Juliet, 2"

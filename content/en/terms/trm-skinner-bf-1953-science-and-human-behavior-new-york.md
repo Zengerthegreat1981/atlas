@@ -1,6 +1,6 @@
 ---
 slug: "trm-skinner-bf-1953-science-and-human-behavior-new-york"
-id: "TRM-ENG-35963"
+id: "TRM-ENG-65021"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Skinner, B.F. (1953). Science and human behavior. New York"

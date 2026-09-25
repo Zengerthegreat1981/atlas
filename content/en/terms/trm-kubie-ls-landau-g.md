@@ -1,6 +1,6 @@
 ---
 slug: "trm-kubie-ls-landau-g"
-id: "TRM-ENG-41324"
+id: "TRM-ENG-55853"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kubie LS, Landau G"

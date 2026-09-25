@@ -1,6 +1,6 @@
 ---
 slug: "trm-many-therapeutic-techniques-have-been-developed-and-youths"
-id: "TRM-ENG-40767"
+id: "TRM-ENG-55296"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "many therapeutic techniques have been developed and youths"

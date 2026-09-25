@@ -1,6 +1,6 @@
 ---
 slug: "trm-societiessanfrancisco"
-id: "TRM-ENG-49713"
+id: "TRM-ENG-64242"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "societies.SanFrancisco"

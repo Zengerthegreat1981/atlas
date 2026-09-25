@@ -1,6 +1,6 @@
 ---
 slug: "trm-nature-of-visual-imagery-is-supported-by-experiments-phor"
-id: "TRM-ENG-45325"
+id: "TRM-ENG-59854"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nature of visual imagery is supported by experiments phor"

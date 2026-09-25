@@ -1,6 +1,6 @@
 ---
 slug: "trm-nave-realism-2"
-id: "TRM-ENG-45326"
+id: "TRM-ENG-59855"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "naïve realism, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-colozzi-e-a-4"
-id: "TRM-ENG-37847"
+id: "TRM-ENG-66905"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Colozzi, E. A., 4"

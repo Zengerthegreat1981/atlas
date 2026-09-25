@@ -1,6 +1,6 @@
 ---
 slug: "trm-fordyce-we"
-id: "TRM-ENG-40568"
+id: "TRM-ENG-55097"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fordyce WE"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-client-attitudes-and-behaviors2"
-id: "TRM-ENG-37833"
+id: "TRM-ENG-66891"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Client attitudes and behaviors,2"

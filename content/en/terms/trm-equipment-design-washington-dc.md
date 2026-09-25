@@ -1,6 +1,6 @@
 ---
 slug: "trm-equipment-design-washington-dc"
-id: "TRM-ENG-36777"
+id: "TRM-ENG-65835"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Equipment Design. Washington, DC"

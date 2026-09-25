@@ -1,6 +1,6 @@
 ---
 slug: "trm-shifts-in-referents-and-priorities-may-mediate-mentation"
-id: "TRM-ENG-47282"
+id: "TRM-ENG-61811"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "shifts in referents and priorities may mediate mentation"

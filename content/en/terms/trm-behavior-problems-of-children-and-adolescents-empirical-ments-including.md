@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavior-problems-of-children-and-adolescents-empirical-ments-including"
-id: "TRM-ENG-36199"
+id: "TRM-ENG-65257"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behavior problems of children and adolescents. Empirical ments, including"

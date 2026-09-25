@@ -1,6 +1,6 @@
 ---
 slug: "trm-ment-of-socializing-techniques"
-id: "TRM-ENG-36693"
+id: "TRM-ENG-65751"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ment of socializing techniques"

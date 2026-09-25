@@ -1,6 +1,6 @@
 ---
 slug: "trm-racist-extremism-and-3"
-id: "TRM-ENG-41424"
+id: "TRM-ENG-55953"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "racist extremism and, 3"

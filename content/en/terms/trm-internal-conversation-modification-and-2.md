@@ -1,6 +1,6 @@
 ---
 slug: "trm-internal-conversation-modification-and-2"
-id: "TRM-ENG-40604"
+id: "TRM-ENG-55133"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "internal conversation modification and, 2"

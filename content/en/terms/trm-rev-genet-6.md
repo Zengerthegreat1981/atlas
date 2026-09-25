@@ -1,6 +1,6 @@
 ---
 slug: "trm-rev-genet-6"
-id: "TRM-ENG-48012"
+id: "TRM-ENG-62541"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rev Genet 6"

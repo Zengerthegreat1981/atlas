@@ -1,6 +1,6 @@
 ---
 slug: "trm-lished-elsewhere"
-id: "TRM-ENG-35114"
+id: "TRM-ENG-64172"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lished elsewhere"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-associate-rs-woodworth-described-thorndike"
-id: "TRM-ENG-37563"
+id: "TRM-ENG-52092"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "associate, R.S. Woodworth, described Thorndike"

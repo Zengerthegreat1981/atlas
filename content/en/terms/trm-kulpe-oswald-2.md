@@ -1,6 +1,6 @@
 ---
 slug: "trm-kulpe-oswald-2"
-id: "TRM-ENG-38346"
+id: "TRM-ENG-52875"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kulpe, Oswald, 2"

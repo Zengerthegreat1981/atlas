@@ -1,6 +1,6 @@
 ---
 slug: "trm-freud-vol-7-pp-1122-london"
-id: "TRM-ENG-38090"
+id: "TRM-ENG-67148"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Freud (Vol. 7, pp. 1–122). London"

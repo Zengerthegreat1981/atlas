@@ -1,6 +1,6 @@
 ---
 slug: "trm-washburn-s-vannicelli-m-longabaugh-r-scheff-bj"
-id: "TRM-ENG-42715"
+id: "TRM-ENG-57244"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Washburn S, Vannicelli M, Longabaugh R, Scheff BJ"

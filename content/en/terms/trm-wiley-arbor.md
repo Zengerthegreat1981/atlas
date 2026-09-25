@@ -1,6 +1,6 @@
 ---
 slug: "trm-wiley-arbor"
-id: "TRM-ENG-37436"
+id: "TRM-ENG-66494"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wiley. Arbor"

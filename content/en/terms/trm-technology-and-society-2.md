@@ -1,6 +1,6 @@
 ---
 slug: "trm-technology-and-society-2"
-id: "TRM-ENG-48802"
+id: "TRM-ENG-63331"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "technology and society, 2"

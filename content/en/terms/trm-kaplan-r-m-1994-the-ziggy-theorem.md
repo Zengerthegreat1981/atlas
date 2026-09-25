@@ -1,6 +1,6 @@
 ---
 slug: "trm-kaplan-r-m-1994-the-ziggy-theorem"
-id: "TRM-ENG-46586"
+id: "TRM-ENG-61115"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kaplan, R. M. (1994). The Ziggy theorem"

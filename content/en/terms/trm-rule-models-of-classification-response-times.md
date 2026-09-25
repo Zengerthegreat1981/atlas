@@ -1,6 +1,6 @@
 ---
 slug: "trm-rule-models-of-classification-response-times"
-id: "TRM-ENG-36095"
+id: "TRM-ENG-65153"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rule models of classification response times"

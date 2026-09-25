@@ -1,6 +1,6 @@
 ---
 slug: "trm-914-robbins-e"
-id: "TRM-ENG-39589"
+id: "TRM-ENG-54118"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "914. Robbins E"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-once-in-each-of-the-following"
-id: "TRM-ENG-41030"
+id: "TRM-ENG-55559"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "once in each of the following"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychoanalysis-and-faith-new-york-ny"
-id: "TRM-ENG-50885"
+id: "TRM-ENG-65414"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychoanalysis and faith. New York, NY"

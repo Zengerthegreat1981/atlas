@@ -1,6 +1,6 @@
 ---
 slug: "trm-criterionreferenced-and-2"
-id: "TRM-ENG-39788"
+id: "TRM-ENG-54317"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "criterion-referenced and, 2"

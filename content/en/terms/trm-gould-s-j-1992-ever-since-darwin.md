@@ -1,6 +1,6 @@
 ---
 slug: "trm-gould-s-j-1992-ever-since-darwin"
-id: "TRM-ENG-46697"
+id: "TRM-ENG-61226"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gould, S. J. (1992). Ever since Darwin"

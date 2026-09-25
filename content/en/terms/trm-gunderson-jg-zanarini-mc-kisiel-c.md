@@ -1,6 +1,6 @@
 ---
 slug: "trm-gunderson-jg-zanarini-mc-kisiel-c"
-id: "TRM-ENG-47705"
+id: "TRM-ENG-62234"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gunderson JG, Zanarini MC, Kisiel C"

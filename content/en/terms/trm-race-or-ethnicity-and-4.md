@@ -1,6 +1,6 @@
 ---
 slug: "trm-race-or-ethnicity-and-4"
-id: "TRM-ENG-41397"
+id: "TRM-ENG-55926"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "race or ethnicity and, 4"

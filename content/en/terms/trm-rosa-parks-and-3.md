@@ -1,6 +1,6 @@
 ---
 slug: "trm-rosa-parks-and-3"
-id: "TRM-ENG-38701"
+id: "TRM-ENG-53230"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rosa Parks and, 3"

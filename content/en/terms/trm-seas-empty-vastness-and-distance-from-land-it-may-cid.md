@@ -1,6 +1,6 @@
 ---
 slug: "trm-seas-empty-vastness-and-distance-from-land-it-may-cid"
-id: "TRM-ENG-46214"
+id: "TRM-ENG-60743"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sea’s empty vastness and distance from land. It may (cid"

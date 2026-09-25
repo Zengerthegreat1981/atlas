@@ -1,6 +1,6 @@
 ---
 slug: "trm-medicine10377394-behavior"
-id: "TRM-ENG-46627"
+id: "TRM-ENG-61156"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Medicine,10,377±394. behavior"

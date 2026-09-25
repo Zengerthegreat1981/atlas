@@ -1,6 +1,6 @@
 ---
 slug: "trm-barnesnewyork"
-id: "TRM-ENG-45654"
+id: "TRM-ENG-60183"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Barnes.NewYork"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-paul-n-l-2006-reiki-for-dummies-indianapolis-in"
-id: "TRM-ENG-50840"
+id: "TRM-ENG-65369"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Paul, N. L. (2006). Reiki for dummies. Indianapolis, IN"

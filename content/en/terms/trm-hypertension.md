@@ -1,6 +1,6 @@
 ---
 slug: "trm-hypertension"
-id: "TRM-ENG-46559"
+id: "TRM-ENG-61088"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hypertension"

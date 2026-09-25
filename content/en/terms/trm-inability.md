@@ -1,6 +1,6 @@
 ---
 slug: "trm-inability"
-id: "TRM-ENG-45104"
+id: "TRM-ENG-59633"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "inability"

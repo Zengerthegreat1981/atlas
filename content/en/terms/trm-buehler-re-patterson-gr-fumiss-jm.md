@@ -1,6 +1,6 @@
 ---
 slug: "trm-buehler-re-patterson-gr-fumiss-jm"
-id: "TRM-ENG-40072"
+id: "TRM-ENG-54601"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Buehler RE, Patterson GR, Fumiss JM"

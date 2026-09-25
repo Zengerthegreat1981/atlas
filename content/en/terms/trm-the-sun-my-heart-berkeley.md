@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-sun-my-heart-berkeley"
-id: "TRM-ENG-46284"
+id: "TRM-ENG-60813"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "———. The Sun My Heart. Berkeley"

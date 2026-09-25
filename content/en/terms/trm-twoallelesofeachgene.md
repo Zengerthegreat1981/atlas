@@ -1,6 +1,6 @@
 ---
 slug: "trm-twoallelesofeachgene"
-id: "TRM-ENG-43958"
+id: "TRM-ENG-58487"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "twoallelesofeachgene"

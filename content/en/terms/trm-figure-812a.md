@@ -1,6 +1,6 @@
 ---
 slug: "trm-figure-812a"
-id: "TRM-ENG-34614"
+id: "TRM-ENG-49143"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Figure 8.12A"

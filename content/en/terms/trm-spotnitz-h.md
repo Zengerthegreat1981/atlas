@@ -1,6 +1,6 @@
 ---
 slug: "trm-spotnitz-h"
-id: "TRM-ENG-42435"
+id: "TRM-ENG-56964"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spotnitz H"

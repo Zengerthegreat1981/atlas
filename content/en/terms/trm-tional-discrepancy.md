@@ -1,6 +1,6 @@
 ---
 slug: "trm-tional-discrepancy"
-id: "TRM-ENG-38368"
+id: "TRM-ENG-52897"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tional discrepancy"

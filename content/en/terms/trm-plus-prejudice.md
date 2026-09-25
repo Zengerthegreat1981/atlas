@@ -1,6 +1,6 @@
 ---
 slug: "trm-plus-prejudice"
-id: "TRM-ENG-41187"
+id: "TRM-ENG-55716"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "plus prejudice"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-guze-s"
-id: "TRM-ENG-47707"
+id: "TRM-ENG-62236"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Guze S"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-herz-mi"
-id: "TRM-ENG-40982"
+id: "TRM-ENG-55511"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Herz MI"

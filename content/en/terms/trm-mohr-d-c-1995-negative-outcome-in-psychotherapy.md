@@ -1,6 +1,6 @@
 ---
 slug: "trm-mohr-d-c-1995-negative-outcome-in-psychotherapy"
-id: "TRM-ENG-38445"
+id: "TRM-ENG-52974"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mohr, D. C. (1995). Negative outcome in psychotherapy"

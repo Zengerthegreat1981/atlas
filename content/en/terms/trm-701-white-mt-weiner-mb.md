@@ -1,6 +1,6 @@
 ---
 slug: "trm-701-white-mt-weiner-mb"
-id: "TRM-ENG-39344"
+id: "TRM-ENG-53873"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "701. White MT, Weiner MB"

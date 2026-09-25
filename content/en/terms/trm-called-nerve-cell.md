@@ -1,6 +1,6 @@
 ---
 slug: "trm-called-nerve-cell"
-id: "TRM-ENG-44039"
+id: "TRM-ENG-58568"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "called nerve cell,"

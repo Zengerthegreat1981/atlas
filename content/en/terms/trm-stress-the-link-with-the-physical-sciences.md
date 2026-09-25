@@ -1,6 +1,6 @@
 ---
 slug: "trm-stress-the-link-with-the-physical-sciences"
-id: "TRM-ENG-37032"
+id: "TRM-ENG-66090"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stress the link with the physical sciences"

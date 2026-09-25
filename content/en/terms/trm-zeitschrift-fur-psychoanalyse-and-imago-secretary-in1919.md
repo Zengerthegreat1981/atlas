@@ -1,6 +1,6 @@
 ---
 slug: "trm-zeitschrift-fur-psychoanalyse-and-imago-secretary-in1919"
-id: "TRM-ENG-37457"
+id: "TRM-ENG-66515"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Zeitschrift fu¨r Psychoanalyse and Imago. Secretary, in1919"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-challenges-new-york"
-id: "TRM-ENG-45777"
+id: "TRM-ENG-60306"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Challenges (New York"

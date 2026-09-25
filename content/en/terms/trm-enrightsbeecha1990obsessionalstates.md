@@ -1,6 +1,6 @@
 ---
 slug: "trm-enrightsbeecha1990obsessionalstates"
-id: "TRM-ENG-48973"
+id: "TRM-ENG-63502"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Enright,S.,&Beech,A.(1990).Obsessionalstates"

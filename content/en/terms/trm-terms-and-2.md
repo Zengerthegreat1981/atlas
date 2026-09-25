@@ -1,6 +1,6 @@
 ---
 slug: "trm-terms-and-2"
-id: "TRM-ENG-41855"
+id: "TRM-ENG-56384"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "terms and, 2"

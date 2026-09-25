@@ -1,6 +1,6 @@
 ---
 slug: "trm-schwartz-ek-abel-ta"
-id: "TRM-ENG-42293"
+id: "TRM-ENG-56822"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schwartz EK, Abel TA"

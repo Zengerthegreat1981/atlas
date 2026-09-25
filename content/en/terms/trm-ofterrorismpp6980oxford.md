@@ -1,6 +1,6 @@
 ---
 slug: "trm-ofterrorismpp6980oxford"
-id: "TRM-ENG-38043"
+id: "TRM-ENG-67101"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ofterrorism(pp.69–80).Oxford"

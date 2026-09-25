@@ -1,6 +1,6 @@
 ---
 slug: "trm-current-psychological-models-of-3"
-id: "TRM-ENG-39843"
+id: "TRM-ENG-54372"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "current psychological models of, 3"

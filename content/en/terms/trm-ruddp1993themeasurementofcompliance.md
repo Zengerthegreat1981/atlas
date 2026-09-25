@@ -1,6 +1,6 @@
 ---
 slug: "trm-ruddp1993themeasurementofcompliance"
-id: "TRM-ENG-46698"
+id: "TRM-ENG-61227"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rudd,P.(1993).Themeasurementofcompliance"

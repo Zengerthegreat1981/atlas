@@ -1,6 +1,6 @@
 ---
 slug: "trm-sound-this-results-in-c-oarticulation"
-id: "TRM-ENG-45524"
+id: "TRM-ENG-60053"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sound. This results in c oarticulation"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-climate-scales-4"
-id: "TRM-ENG-38788"
+id: "TRM-ENG-53317"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Social Climate Scales, 4"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-wickramasekera-i"
-id: "TRM-ENG-42790"
+id: "TRM-ENG-57319"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wickramasekera I"

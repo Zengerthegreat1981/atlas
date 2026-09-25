@@ -1,6 +1,6 @@
 ---
 slug: "trm-revolution-namely"
-id: "TRM-ENG-38222"
+id: "TRM-ENG-52751"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "revolution,” namely"

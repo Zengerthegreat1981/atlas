@@ -1,6 +1,6 @@
 ---
 slug: "trm-member-of-a-foreign-or-exotic-culture"
-id: "TRM-ENG-48327"
+id: "TRM-ENG-62856"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "member of a foreign or “exotic” culture"

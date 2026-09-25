@@ -1,6 +1,6 @@
 ---
 slug: "trm-580-lazarus-aa-ed"
-id: "TRM-ENG-39194"
+id: "TRM-ENG-53723"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "580. Lazarus AA (ed)"

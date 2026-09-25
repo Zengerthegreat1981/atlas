@@ -1,6 +1,6 @@
 ---
 slug: "trm-descartes-ren-1"
-id: "TRM-ENG-44431"
+id: "TRM-ENG-58960"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Descartes, René, 1"

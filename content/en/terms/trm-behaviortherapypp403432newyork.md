@@ -1,6 +1,6 @@
 ---
 slug: "trm-behaviortherapypp403432newyork"
-id: "TRM-ENG-49309"
+id: "TRM-ENG-63838"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behaviortherapy(pp.403±432).NewYork"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ticsoxforduk"
-id: "TRM-ENG-47341"
+id: "TRM-ENG-61870"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tics.Oxford,UK"

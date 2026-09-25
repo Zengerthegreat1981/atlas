@@ -1,6 +1,6 @@
 ---
 slug: "trm-among-the-most-prominent-criticismsof-bioeth-ample"
-id: "TRM-ENG-45644"
+id: "TRM-ENG-60173"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Among the most prominent criticismsof bioeth- ample"

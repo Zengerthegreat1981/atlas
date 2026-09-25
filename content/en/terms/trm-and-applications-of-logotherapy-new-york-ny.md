@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-applications-of-logotherapy-new-york-ny"
-id: "TRM-ENG-51229"
+id: "TRM-ENG-65758"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and applications of logotherapy. New York, NY"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-counseling-psychology-40"
-id: "TRM-ENG-48476"
+id: "TRM-ENG-63005"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of Counseling Psychology 40"

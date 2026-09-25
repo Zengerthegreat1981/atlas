@@ -1,6 +1,6 @@
 ---
 slug: "trm-afrocentricityafrocentrism-and-3"
-id: "TRM-ENG-37557"
+id: "TRM-ENG-52086"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Afrocentricity/Afrocentrism and, 3"

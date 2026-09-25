@@ -1,6 +1,6 @@
 ---
 slug: "trm-bandura-a-blanchard-ed-ritter-j"
-id: "TRM-ENG-39794"
+id: "TRM-ENG-54323"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bandura A, Blanchard ED, Ritter J"

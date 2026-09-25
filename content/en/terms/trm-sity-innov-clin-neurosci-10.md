@@ -1,6 +1,6 @@
 ---
 slug: "trm-sity-innov-clin-neurosci-10"
-id: "TRM-ENG-48584"
+id: "TRM-ENG-63113"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sity. Innov Clin Neurosci 10"

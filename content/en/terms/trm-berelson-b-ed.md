@@ -1,6 +1,6 @@
 ---
 slug: "trm-berelson-b-ed"
-id: "TRM-ENG-39887"
+id: "TRM-ENG-54416"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Berelson B (ed)"

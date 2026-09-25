@@ -1,6 +1,6 @@
 ---
 slug: "trm-hierarchical-theory-of-intelligence-and-2"
-id: "TRM-ENG-40374"
+id: "TRM-ENG-54903"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "hierarchical theory of intelligence and, 2"

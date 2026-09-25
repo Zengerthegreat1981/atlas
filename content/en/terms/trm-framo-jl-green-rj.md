@@ -1,6 +1,6 @@
 ---
 slug: "trm-framo-jl-green-rj"
-id: "TRM-ENG-40582"
+id: "TRM-ENG-55111"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Framo JL, Green RJ"

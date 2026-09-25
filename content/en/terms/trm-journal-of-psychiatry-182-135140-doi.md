@@ -1,6 +1,6 @@
 ---
 slug: "trm-journal-of-psychiatry-182-135140-doi"
-id: "TRM-ENG-43466"
+id: "TRM-ENG-57995"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Journal of Psychiatry, 182, 135–140. doi"

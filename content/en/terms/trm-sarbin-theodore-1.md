@@ -1,6 +1,6 @@
 ---
 slug: "trm-sarbin-theodore-1"
-id: "TRM-ENG-38724"
+id: "TRM-ENG-53253"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sarbin, Theodore, 1"

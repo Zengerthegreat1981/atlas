@@ -1,6 +1,6 @@
 ---
 slug: "trm-logical-disorderspp421435-new-york"
-id: "TRM-ENG-36646"
+id: "TRM-ENG-65704"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "logical disorders(pp.421–435). New York"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-politically-committed-response"
-id: "TRM-ENG-48560"
+id: "TRM-ENG-63089"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "politically committed response"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-bennett-if"
-id: "TRM-ENG-39878"
+id: "TRM-ENG-54407"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bennett IF"

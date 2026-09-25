@@ -1,6 +1,6 @@
 ---
 slug: "trm-tinence-disorders"
-id: "TRM-ENG-35402"
+id: "TRM-ENG-64460"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tinence disorders"

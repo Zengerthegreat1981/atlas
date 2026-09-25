@@ -1,6 +1,6 @@
 ---
 slug: "trm-apart"
-id: "TRM-ENG-39231"
+id: "TRM-ENG-53760"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "apart"

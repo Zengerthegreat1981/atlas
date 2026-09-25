@@ -1,6 +1,6 @@
 ---
 slug: "trm-eiser-c-1990-chronic-childhood-disease"
-id: "TRM-ENG-46507"
+id: "TRM-ENG-61036"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Eiser, C. (1990). Chronic childhood disease"

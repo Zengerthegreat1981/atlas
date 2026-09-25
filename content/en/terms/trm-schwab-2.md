@@ -1,6 +1,6 @@
 ---
 slug: "trm-schwab-2"
-id: "TRM-ENG-47242"
+id: "TRM-ENG-61771"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schwab, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-goldston-se-ed"
-id: "TRM-ENG-40762"
+id: "TRM-ENG-55291"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goldston SE (ed)"

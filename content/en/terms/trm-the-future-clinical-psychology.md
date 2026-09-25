@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-future-clinical-psychology"
-id: "TRM-ENG-43303"
+id: "TRM-ENG-57832"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the future. Clinical Psychology"

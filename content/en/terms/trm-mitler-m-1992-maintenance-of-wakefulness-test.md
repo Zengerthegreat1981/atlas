@@ -1,6 +1,6 @@
 ---
 slug: "trm-mitler-m-1992-maintenance-of-wakefulness-test"
-id: "TRM-ENG-46632"
+id: "TRM-ENG-61161"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mitler, M. (1992). Maintenance of wakefulness test"

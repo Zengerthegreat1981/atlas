@@ -1,6 +1,6 @@
 ---
 slug: "trm-112-shaver-p-ed"
-id: "TRM-ENG-38573"
+id: "TRM-ENG-53102"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "112. Shaver P (ed)"

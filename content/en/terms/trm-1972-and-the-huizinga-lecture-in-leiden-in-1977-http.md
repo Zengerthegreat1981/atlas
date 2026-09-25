@@ -1,6 +1,6 @@
 ---
 slug: "trm-1972-and-the-huizinga-lecture-in-leiden-in-1977-http"
-id: "TRM-ENG-36508"
+id: "TRM-ENG-65566"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1972, and the Huizinga Lecture in Leiden in 1977. http"

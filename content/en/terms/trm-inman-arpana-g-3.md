@@ -1,6 +1,6 @@
 ---
 slug: "trm-inman-arpana-g-3"
-id: "TRM-ENG-38240"
+id: "TRM-ENG-52769"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Inman, Arpana G., 3"

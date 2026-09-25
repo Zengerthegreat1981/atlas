@@ -1,6 +1,6 @@
 ---
 slug: "trm-externalizing-pathology-and-the-fivefactor-model"
-id: "TRM-ENG-43424"
+id: "TRM-ENG-57953"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Externalizing pathology and the five-factor model"

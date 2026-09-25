@@ -1,6 +1,6 @@
 ---
 slug: "trm-yavis"
-id: "TRM-ENG-52447"
+id: "TRM-ENG-66976"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Yavis"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-or-intentional-into-clothing-or-bedding"
-id: "TRM-ENG-35203"
+id: "TRM-ENG-64261"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "or intentional, into clothing or bedding"

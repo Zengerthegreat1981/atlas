@@ -1,6 +1,6 @@
 ---
 slug: "trm-belmont-report-1"
-id: "TRM-ENG-46287"
+id: "TRM-ENG-60816"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Belmont Report, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-session-rating-scale"
-id: "TRM-ENG-51021"
+id: "TRM-ENG-65550"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Session Rating Scale"

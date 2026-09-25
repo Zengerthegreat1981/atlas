@@ -1,6 +1,6 @@
 ---
 slug: "trm-stress-new-york"
-id: "TRM-ENG-42500"
+id: "TRM-ENG-57029"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stress. New York"

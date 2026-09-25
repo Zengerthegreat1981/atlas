@@ -1,6 +1,6 @@
 ---
 slug: "trm-characteristics-of-the-child"
-id: "TRM-ENG-44934"
+id: "TRM-ENG-59463"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "characteristics of the child"

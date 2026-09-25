@@ -1,6 +1,6 @@
 ---
 slug: "trm-is-popularly-called-tone-deafness-reveals-that-ing"
-id: "TRM-ENG-45241"
+id: "TRM-ENG-59770"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "is popularly called “tone deafness”) reveals that ing)"

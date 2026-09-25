@@ -1,6 +1,6 @@
 ---
 slug: "trm-fried-e"
-id: "TRM-ENG-40621"
+id: "TRM-ENG-55150"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fried E"

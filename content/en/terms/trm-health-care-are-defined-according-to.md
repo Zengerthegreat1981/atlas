@@ -1,6 +1,6 @@
 ---
 slug: "trm-health-care-are-defined-according-to"
-id: "TRM-ENG-36516"
+id: "TRM-ENG-65574"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "health care are defined according to"

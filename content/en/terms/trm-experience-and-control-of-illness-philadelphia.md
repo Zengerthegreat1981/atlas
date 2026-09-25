@@ -1,6 +1,6 @@
 ---
 slug: "trm-experience-and-control-of-illness-philadelphia"
-id: "TRM-ENG-46973"
+id: "TRM-ENG-61502"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "experience and control of illness. Philadelphia"

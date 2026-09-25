@@ -1,6 +1,6 @@
 ---
 slug: "trm-d-and-1"
-id: "TRM-ENG-37385"
+id: "TRM-ENG-51914"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(D) and, 1"

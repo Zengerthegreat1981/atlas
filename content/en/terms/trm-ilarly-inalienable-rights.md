@@ -1,6 +1,6 @@
 ---
 slug: "trm-ilarly-inalienable-rights"
-id: "TRM-ENG-45926"
+id: "TRM-ENG-60455"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ilarly, inalienable RIGHTS"

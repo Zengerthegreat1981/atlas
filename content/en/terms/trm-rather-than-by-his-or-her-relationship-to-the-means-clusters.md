@@ -1,6 +1,6 @@
 ---
 slug: "trm-rather-than-by-his-or-her-relationship-to-the-means-clusters"
-id: "TRM-ENG-48618"
+id: "TRM-ENG-63147"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rather than by his or her relationship to the means clusters"

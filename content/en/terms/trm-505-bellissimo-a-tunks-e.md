@@ -1,6 +1,6 @@
 ---
 slug: "trm-505-bellissimo-a-tunks-e"
-id: "TRM-ENG-39111"
+id: "TRM-ENG-53640"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "505. Bellissimo A, Tunks E"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-131-savitz-ld-johnston-n"
-id: "TRM-ENG-38601"
+id: "TRM-ENG-53130"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "131. Savitz LD, Johnston N"

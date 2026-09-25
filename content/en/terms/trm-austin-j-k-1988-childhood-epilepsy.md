@@ -1,6 +1,6 @@
 ---
 slug: "trm-austin-j-k-1988-childhood-epilepsy"
-id: "TRM-ENG-46412"
+id: "TRM-ENG-60941"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Austin, J. K. (1988). Childhood epilepsy"

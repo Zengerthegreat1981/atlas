@@ -1,6 +1,6 @@
 ---
 slug: "trm-comprehensive-psychiatry-43-448455-doi"
-id: "TRM-ENG-43402"
+id: "TRM-ENG-57931"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Comprehensive Psychiatry, 43, 448–455. doi"

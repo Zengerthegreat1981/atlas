@@ -1,6 +1,6 @@
 ---
 slug: "trm-raths-louis-2"
-id: "TRM-ENG-47180"
+id: "TRM-ENG-61709"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Raths, Louis, 2"

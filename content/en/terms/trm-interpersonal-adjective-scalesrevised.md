@@ -1,6 +1,6 @@
 ---
 slug: "trm-interpersonal-adjective-scalesrevised"
-id: "TRM-ENG-43457"
+id: "TRM-ENG-57986"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Interpersonal Adjective Scales—Revised"

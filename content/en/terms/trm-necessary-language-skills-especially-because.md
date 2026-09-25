@@ -1,6 +1,6 @@
 ---
 slug: "trm-necessary-language-skills-especially-because"
-id: "TRM-ENG-34944"
+id: "TRM-ENG-64002"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "necessary language skills, especially because"

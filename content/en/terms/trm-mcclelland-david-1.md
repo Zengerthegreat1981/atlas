@@ -1,6 +1,6 @@
 ---
 slug: "trm-mcclelland-david-1"
-id: "TRM-ENG-46986"
+id: "TRM-ENG-61515"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "McClelland, David, 1"

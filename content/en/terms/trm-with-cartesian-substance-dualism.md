@@ -1,6 +1,6 @@
 ---
 slug: "trm-with-cartesian-substance-dualism"
-id: "TRM-ENG-45694"
+id: "TRM-ENG-60223"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "with Cartesian substance dualism"

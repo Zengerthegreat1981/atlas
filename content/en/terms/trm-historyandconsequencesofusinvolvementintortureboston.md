@@ -1,6 +1,6 @@
 ---
 slug: "trm-historyandconsequencesofusinvolvementintortureboston"
-id: "TRM-ENG-37823"
+id: "TRM-ENG-52352"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "historyandconsequencesofU.S.involvementintorture.Boston"

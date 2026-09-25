@@ -1,6 +1,6 @@
 ---
 slug: "trm-glaser-f-the-dichotomy-game"
-id: "TRM-ENG-44407"
+id: "TRM-ENG-58936"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Glaser, F., “The Dichotomy Game"

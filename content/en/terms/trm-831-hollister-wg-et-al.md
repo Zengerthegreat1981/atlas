@@ -1,6 +1,6 @@
 ---
 slug: "trm-831-hollister-wg-et-al"
-id: "TRM-ENG-39492"
+id: "TRM-ENG-54021"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "831. Hollister WG, et al"

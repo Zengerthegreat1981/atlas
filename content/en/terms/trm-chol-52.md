@@ -1,6 +1,6 @@
 ---
 slug: "trm-chol-52"
-id: "TRM-ENG-48261"
+id: "TRM-ENG-62790"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chol 52"

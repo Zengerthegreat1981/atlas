@@ -1,6 +1,6 @@
 ---
 slug: "trm-abulia"
-id: "TRM-ENG-52012"
+id: "TRM-ENG-66541"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Abulia"

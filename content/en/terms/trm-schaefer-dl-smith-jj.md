@@ -1,6 +1,6 @@
 ---
 slug: "trm-schaefer-dl-smith-jj"
-id: "TRM-ENG-42257"
+id: "TRM-ENG-56786"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schaefer DL, Smith JJ"

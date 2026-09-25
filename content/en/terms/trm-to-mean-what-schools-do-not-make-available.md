@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-mean-what-schools-do-not-make-available"
-id: "TRM-ENG-48945"
+id: "TRM-ENG-63474"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to mean what schools do not make available"

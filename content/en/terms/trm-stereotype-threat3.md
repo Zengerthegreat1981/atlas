@@ -1,6 +1,6 @@
 ---
 slug: "trm-stereotype-threat3"
-id: "TRM-ENG-38824"
+id: "TRM-ENG-53353"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stereotype threat,3"

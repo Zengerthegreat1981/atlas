@@ -1,6 +1,6 @@
 ---
 slug: "trm-andthesilverscreenp182eastsussex"
-id: "TRM-ENG-37538"
+id: "TRM-ENG-66596"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "andtheSilverScreen(p.182).EastSussex"

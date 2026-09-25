@@ -1,6 +1,6 @@
 ---
 slug: "trm-concepts-the-counseling-goals-are-threefold"
-id: "TRM-ENG-39632"
+id: "TRM-ENG-54161"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "concepts. The counseling goals are threefold"

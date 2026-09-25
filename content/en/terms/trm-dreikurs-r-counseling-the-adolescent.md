@@ -1,6 +1,6 @@
 ---
 slug: "trm-dreikurs-r-counseling-the-adolescent"
-id: "TRM-ENG-44358"
+id: "TRM-ENG-58887"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dreikurs, R., Counseling the Adolescent"

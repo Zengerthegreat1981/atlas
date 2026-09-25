@@ -1,6 +1,6 @@
 ---
 slug: "trm-sextherapysuchas"
-id: "TRM-ENG-49700"
+id: "TRM-ENG-64229"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sextherapy,suchas"

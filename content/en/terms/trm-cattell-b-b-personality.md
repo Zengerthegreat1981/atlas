@@ -1,6 +1,6 @@
 ---
 slug: "trm-cattell-b-b-personality"
-id: "TRM-ENG-44330"
+id: "TRM-ENG-58859"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cattell, B. B., Personality"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-eds-a-history-of-the-behavioral-therapies"
-id: "TRM-ENG-37387"
+id: "TRM-ENG-51916"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Eds.), A history of the behavioral therapies"

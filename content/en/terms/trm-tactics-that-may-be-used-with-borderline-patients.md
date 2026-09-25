@@ -1,6 +1,6 @@
 ---
 slug: "trm-tactics-that-may-be-used-with-borderline-patients"
-id: "TRM-ENG-43194"
+id: "TRM-ENG-57723"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tactics that may be used with borderline patients"

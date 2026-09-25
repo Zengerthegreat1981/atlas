@@ -1,6 +1,6 @@
 ---
 slug: "trm-newbrough-j-r-community-mental-health"
-id: "TRM-ENG-44550"
+id: "TRM-ENG-59079"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Newbrough, J. R., “Community Mental Health"

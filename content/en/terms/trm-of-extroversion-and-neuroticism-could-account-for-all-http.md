@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-extroversion-and-neuroticism-could-account-for-all-http"
-id: "TRM-ENG-38021"
+id: "TRM-ENG-67079"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of extroversion and neuroticism could account for all http"

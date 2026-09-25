@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-dementia"
-id: "TRM-ENG-36123"
+id: "TRM-ENG-65181"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and dementia"

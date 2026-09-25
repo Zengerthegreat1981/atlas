@@ -1,6 +1,6 @@
 ---
 slug: "trm-receptorcellsandtransmitsthis"
-id: "TRM-ENG-43831"
+id: "TRM-ENG-58360"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "receptorcells,andtransmitsthis"

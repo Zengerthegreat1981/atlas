@@ -1,6 +1,6 @@
 ---
 slug: "trm-seduction-theory-and-2"
-id: "TRM-ENG-41589"
+id: "TRM-ENG-56118"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "seduction theory and, 2"

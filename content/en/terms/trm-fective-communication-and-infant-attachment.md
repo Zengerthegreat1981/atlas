@@ -1,6 +1,6 @@
 ---
 slug: "trm-fective-communication-and-infant-attachment"
-id: "TRM-ENG-42822"
+id: "TRM-ENG-57351"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "fective communication, and infant attachment"

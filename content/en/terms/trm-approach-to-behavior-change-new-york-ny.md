@@ -1,6 +1,6 @@
 ---
 slug: "trm-approach-to-behavior-change-new-york-ny"
-id: "TRM-ENG-51266"
+id: "TRM-ENG-65795"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "approach to behavior change. New York, NY"

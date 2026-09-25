@@ -1,6 +1,6 @@
 ---
 slug: "trm-organizational-change-for-psychologistswashington-dc"
-id: "TRM-ENG-41066"
+id: "TRM-ENG-55595"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "organizational change for psychologists.Washington, DC"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-easeanddruginducedextrapyramidalsymp-parts"
-id: "TRM-ENG-43627"
+id: "TRM-ENG-58156"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "easeanddrug-inducedextrapyramidalsymp- parts"

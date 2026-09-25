@@ -1,6 +1,6 @@
 ---
 slug: "trm-field-eds-anomia"
-id: "TRM-ENG-36438"
+id: "TRM-ENG-65496"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "field (Eds.), Anomia"

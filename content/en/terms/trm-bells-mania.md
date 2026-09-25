@@ -1,6 +1,6 @@
 ---
 slug: "trm-bells-mania"
-id: "TRM-ENG-52077"
+id: "TRM-ENG-66606"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bell’s Mania"

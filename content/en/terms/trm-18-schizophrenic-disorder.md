@@ -1,6 +1,6 @@
 ---
 slug: "trm-18-schizophrenic-disorder"
-id: "TRM-ENG-38662"
+id: "TRM-ENG-53191"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "18. schizophrenic disorder"

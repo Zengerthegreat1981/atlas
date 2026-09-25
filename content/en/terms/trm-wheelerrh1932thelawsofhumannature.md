@@ -1,6 +1,6 @@
 ---
 slug: "trm-wheelerrh1932thelawsofhumannature"
-id: "TRM-ENG-37430"
+id: "TRM-ENG-51959"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wheeler,R.H.(1932).Thelawsofhumannature"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-friends-view-any-disruption-in-being-able-to-see-them-factors"
-id: "TRM-ENG-40256"
+id: "TRM-ENG-54785"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "friends, view any disruption in being able to see them factors"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-nonsuicidal-selfinjury"
-id: "TRM-ENG-43752"
+id: "TRM-ENG-58281"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "non­suicidal self­injury"

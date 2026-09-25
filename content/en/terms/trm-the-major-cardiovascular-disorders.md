@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-major-cardiovascular-disorders"
-id: "TRM-ENG-47329"
+id: "TRM-ENG-61858"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the major cardiovascular disorders"

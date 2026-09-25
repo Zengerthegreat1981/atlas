@@ -1,6 +1,6 @@
 ---
 slug: "trm-were-personality"
-id: "TRM-ENG-38433"
+id: "TRM-ENG-52962"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "were Personality"

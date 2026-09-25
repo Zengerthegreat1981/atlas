@@ -1,6 +1,6 @@
 ---
 slug: "trm-dodo-bird-conjecture-1"
-id: "TRM-ENG-37973"
+id: "TRM-ENG-67031"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dodo Bird conjecture, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-mulcahy-d-g-2008-t-he-educated-person"
-id: "TRM-ENG-47024"
+id: "TRM-ENG-61553"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mulcahy, D. G. (2008). T he educated person"

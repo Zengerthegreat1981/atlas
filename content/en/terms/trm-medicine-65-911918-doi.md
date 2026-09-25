@@ -1,6 +1,6 @@
 ---
 slug: "trm-medicine-65-911918-doi"
-id: "TRM-ENG-43479"
+id: "TRM-ENG-58008"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Medicine, 65, 911–918. doi"

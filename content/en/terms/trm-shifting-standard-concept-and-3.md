@@ -1,6 +1,6 @@
 ---
 slug: "trm-shifting-standard-concept-and-3"
-id: "TRM-ENG-41655"
+id: "TRM-ENG-56184"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "shifting standard concept and, 3"

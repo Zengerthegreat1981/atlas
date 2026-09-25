@@ -1,6 +1,6 @@
 ---
 slug: "trm-consultation-relationship-and-1"
-id: "TRM-ENG-39671"
+id: "TRM-ENG-54200"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "consultation relationship and, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-berzonsky-michael-d-3"
-id: "TRM-ENG-37687"
+id: "TRM-ENG-66745"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Berzonsky, Michael D., 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-thompson-al-1"
-id: "TRM-ENG-38917"
+id: "TRM-ENG-53446"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Thompson, Al, 1"

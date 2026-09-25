@@ -1,6 +1,6 @@
 ---
 slug: "trm-bateson-g-ed-percevals-narrative"
-id: "TRM-ENG-44276"
+id: "TRM-ENG-58805"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bateson, G. (Ed.), Perceval's Narrative"

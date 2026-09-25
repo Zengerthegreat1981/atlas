@@ -1,6 +1,6 @@
 ---
 slug: "trm-scheidlinger-s-porter-k"
-id: "TRM-ENG-42266"
+id: "TRM-ENG-56795"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Scheidlinger S, Porter K"

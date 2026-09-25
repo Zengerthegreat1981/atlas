@@ -1,6 +1,6 @@
 ---
 slug: "trm-dupont-h-ed"
-id: "TRM-ENG-40392"
+id: "TRM-ENG-54921"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dupont H (ed)"

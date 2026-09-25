@@ -1,6 +1,6 @@
 ---
 slug: "trm-disordered-individual"
-id: "TRM-ENG-34982"
+id: "TRM-ENG-49511"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disordered individual"

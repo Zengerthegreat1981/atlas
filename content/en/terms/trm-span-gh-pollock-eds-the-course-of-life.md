@@ -1,6 +1,6 @@
 ---
 slug: "trm-span-gh-pollock-eds-the-course-of-life"
-id: "TRM-ENG-37020"
+id: "TRM-ENG-51549"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "span & G.H. Pollock (Eds.), The course of life"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychoanalysis-and-2"
-id: "TRM-ENG-41322"
+id: "TRM-ENG-55851"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychoanalysis and, 2"

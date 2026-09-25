@@ -1,6 +1,6 @@
 ---
 slug: "trm-366-gill-mm-newman-r-redlich-f"
-id: "TRM-ENG-38934"
+id: "TRM-ENG-53463"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "366. Gill MM, Newman R, Redlich F"

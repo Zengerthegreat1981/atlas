@@ -1,6 +1,6 @@
 ---
 slug: "trm-rolf-ida-p-rolfing"
-id: "TRM-ENG-45942"
+id: "TRM-ENG-60471"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rolf, Ida P., Rolfing"

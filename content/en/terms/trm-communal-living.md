@@ -1,6 +1,6 @@
 ---
 slug: "trm-communal-living"
-id: "TRM-ENG-44948"
+id: "TRM-ENG-59477"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "communal living”"

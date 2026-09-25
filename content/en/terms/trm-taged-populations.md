@@ -1,6 +1,6 @@
 ---
 slug: "trm-taged-populations"
-id: "TRM-ENG-36153"
+id: "TRM-ENG-50682"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "taged populations"

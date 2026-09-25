@@ -1,6 +1,6 @@
 ---
 slug: "trm-for-african-american-youngsters-spencer-1982"
-id: "TRM-ENG-35025"
+id: "TRM-ENG-49554"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "for African American youngsters (Spencer, 1982"

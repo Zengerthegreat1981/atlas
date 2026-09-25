@@ -1,6 +1,6 @@
 ---
 slug: "trm-cian-and-author-said-of-blood-phobia"
-id: "TRM-ENG-46057"
+id: "TRM-ENG-60586"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cian and author, said of blood phobia"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-perspectives-on-sexual-problems-pp-110128-london"
-id: "TRM-ENG-49611"
+id: "TRM-ENG-64140"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "perspectives on sexual problems (pp. 110±128). London"

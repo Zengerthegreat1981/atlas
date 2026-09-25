@@ -1,6 +1,6 @@
 ---
 slug: "trm-64-perlman-h-h-social-casework"
-id: "TRM-ENG-44227"
+id: "TRM-ENG-58756"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "64. Perlman, H. H., Social Casework"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-chological-assessment-2nd-ed-new-york"
-id: "TRM-ENG-36273"
+id: "TRM-ENG-50802"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chological assessment (2nd ed.). New York"

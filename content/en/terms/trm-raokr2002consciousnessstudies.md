@@ -1,6 +1,6 @@
 ---
 slug: "trm-raokr2002consciousnessstudies"
-id: "TRM-ENG-37214"
+id: "TRM-ENG-66272"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rao,K.R.(2002).Consciousnessstudies"

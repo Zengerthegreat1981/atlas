@@ -1,6 +1,6 @@
 ---
 slug: "trm-interpersonal-skills-1"
-id: "TRM-ENG-46811"
+id: "TRM-ENG-61340"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Interpersonal skills, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-avoidance-1"
-id: "TRM-ENG-50132"
+id: "TRM-ENG-64661"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Avoidance, 1"

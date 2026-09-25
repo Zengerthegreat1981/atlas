@@ -1,6 +1,6 @@
 ---
 slug: "trm-white-racial-identity-development-and-3"
-id: "TRM-ENG-39038"
+id: "TRM-ENG-53567"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "White racial identity development and, 3"

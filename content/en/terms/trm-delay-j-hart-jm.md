@@ -1,6 +1,6 @@
 ---
 slug: "trm-delay-j-hart-jm"
-id: "TRM-ENG-40329"
+id: "TRM-ENG-54858"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Delay J, Hart JM"

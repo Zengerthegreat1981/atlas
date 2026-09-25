@@ -1,6 +1,6 @@
 ---
 slug: "trm-ment-types-under-study-at-the-time"
-id: "TRM-ENG-37954"
+id: "TRM-ENG-67012"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ment types under study at the time"

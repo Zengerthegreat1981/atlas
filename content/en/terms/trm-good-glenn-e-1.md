@@ -1,6 +1,6 @@
 ---
 slug: "trm-good-glenn-e-1"
-id: "TRM-ENG-50483"
+id: "TRM-ENG-65012"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Good, Glenn E., 1"

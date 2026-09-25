@@ -1,6 +1,6 @@
 ---
 slug: "trm-vocational-behavior-psychotherapy"
-id: "TRM-ENG-38979"
+id: "TRM-ENG-53508"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Vocational Behavior, Psychotherapy"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-rather-than-merely-refining-old-ideas"
-id: "TRM-ENG-36058"
+id: "TRM-ENG-65116"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rather than merely refining old ideas"

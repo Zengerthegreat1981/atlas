@@ -1,6 +1,6 @@
 ---
 slug: "trm-principles-for-the-conduct-of-psychologists"
-id: "TRM-ENG-36048"
+id: "TRM-ENG-50577"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "principles for the conduct of psychologists"

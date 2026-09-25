@@ -1,6 +1,6 @@
 ---
 slug: "trm-soloff-ph-nutche-j-goradia-d-et-al"
-id: "TRM-ENG-48095"
+id: "TRM-ENG-62624"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Soloff PH, Nutche J, Goradia D, et al"

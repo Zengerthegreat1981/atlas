@@ -1,6 +1,6 @@
 ---
 slug: "trm-data-matrix-symbol"
-id: "TRM-ENG-45553"
+id: "TRM-ENG-60082"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "data matrix (symbol"

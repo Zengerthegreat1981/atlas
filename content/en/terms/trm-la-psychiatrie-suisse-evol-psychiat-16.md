@@ -1,6 +1,6 @@
 ---
 slug: "trm-la-psychiatrie-suisse-evol-psychiat-16"
-id: "TRM-ENG-44797"
+id: "TRM-ENG-59326"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, “La psychiatrie Suisse,” Evol. Psychiat., 16"

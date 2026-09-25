@@ -1,6 +1,6 @@
 ---
 slug: "trm-moviewasmadeofherlifechangingourminds"
-id: "TRM-ENG-37982"
+id: "TRM-ENG-52511"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "moviewasmadeofherlife–ChangingOurMinds"

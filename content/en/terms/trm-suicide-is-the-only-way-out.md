@@ -1,6 +1,6 @@
 ---
 slug: "trm-suicide-is-the-only-way-out"
-id: "TRM-ENG-45327"
+id: "TRM-ENG-59856"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "suicide is the only way out"

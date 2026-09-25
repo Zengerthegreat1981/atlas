@@ -1,6 +1,6 @@
 ---
 slug: "trm-overmyer-l-2009-orthobionomy"
-id: "TRM-ENG-50820"
+id: "TRM-ENG-65349"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Overmyer, L. (2009). Orthobionomy"

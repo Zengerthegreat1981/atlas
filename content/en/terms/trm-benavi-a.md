@@ -1,6 +1,6 @@
 ---
 slug: "trm-benavi-a"
-id: "TRM-ENG-39868"
+id: "TRM-ENG-54397"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ben-Avi A"

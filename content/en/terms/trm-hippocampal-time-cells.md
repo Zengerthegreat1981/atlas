@@ -1,6 +1,6 @@
 ---
 slug: "trm-hippocampal-time-cells"
-id: "TRM-ENG-34629"
+id: "TRM-ENG-63687"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hippocampal “time cells”"

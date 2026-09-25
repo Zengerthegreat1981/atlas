@@ -1,6 +1,6 @@
 ---
 slug: "trm-kim-b-s-k-3"
-id: "TRM-ENG-38324"
+id: "TRM-ENG-52853"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kim, B. S. K., 3"

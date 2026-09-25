@@ -1,6 +1,6 @@
 ---
 slug: "trm-shneidman-e-s-1"
-id: "TRM-ENG-38766"
+id: "TRM-ENG-53295"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shneidman, E. S., 1"

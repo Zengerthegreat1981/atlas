@@ -1,6 +1,6 @@
 ---
 slug: "trm-at-indiana"
-id: "TRM-ENG-37566"
+id: "TRM-ENG-66624"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "at Indiana"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-5-stimulants"
-id: "TRM-ENG-39101"
+id: "TRM-ENG-53630"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "5. Stimulants"

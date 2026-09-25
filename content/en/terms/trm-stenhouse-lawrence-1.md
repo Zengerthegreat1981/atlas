@@ -1,6 +1,6 @@
 ---
 slug: "trm-stenhouse-lawrence-1"
-id: "TRM-ENG-47336"
+id: "TRM-ENG-61865"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stenhouse, Lawrence, 1"

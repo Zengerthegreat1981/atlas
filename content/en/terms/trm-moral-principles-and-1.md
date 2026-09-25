@@ -1,6 +1,6 @@
 ---
 slug: "trm-moral-principles-and-1"
-id: "TRM-ENG-40881"
+id: "TRM-ENG-55410"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "moral principles and, 1"

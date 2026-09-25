@@ -1,6 +1,6 @@
 ---
 slug: "trm-tively-accelerated"
-id: "TRM-ENG-37205"
+id: "TRM-ENG-51734"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tively accelerated"

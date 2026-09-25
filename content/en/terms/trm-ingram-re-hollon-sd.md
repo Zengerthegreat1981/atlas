@@ -1,6 +1,6 @@
 ---
 slug: "trm-ingram-re-hollon-sd"
-id: "TRM-ENG-47748"
+id: "TRM-ENG-62277"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ingram RE, Hollon SD"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-tippin-j-henn-fa"
-id: "TRM-ENG-42601"
+id: "TRM-ENG-57130"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tippin J, Henn FA"

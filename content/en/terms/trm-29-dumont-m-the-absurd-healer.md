@@ -1,6 +1,6 @@
 ---
 slug: "trm-29-dumont-m-the-absurd-healer"
-id: "TRM-ENG-44205"
+id: "TRM-ENG-58734"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "29. Dumont, M., The Absurd Healer"

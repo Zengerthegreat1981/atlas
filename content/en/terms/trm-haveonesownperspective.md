@@ -1,6 +1,6 @@
 ---
 slug: "trm-haveonesownperspective"
-id: "TRM-ENG-37810"
+id: "TRM-ENG-66868"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "haveone’sownperspective"

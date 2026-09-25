@@ -1,6 +1,6 @@
 ---
 slug: "trm-adequately"
-id: "TRM-ENG-39109"
+id: "TRM-ENG-53638"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "adequately"

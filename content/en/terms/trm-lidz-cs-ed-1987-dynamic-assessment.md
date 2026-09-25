@@ -1,6 +1,6 @@
 ---
 slug: "trm-lidz-cs-ed-1987-dynamic-assessment"
-id: "TRM-ENG-35812"
+id: "TRM-ENG-64870"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lidz, C.S. (Ed.). (1987). Dynamic assessment"

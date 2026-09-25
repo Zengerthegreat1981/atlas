@@ -1,6 +1,6 @@
 ---
 slug: "trm-murray-paul-2"
-id: "TRM-ENG-38462"
+id: "TRM-ENG-52991"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Murray, Paul, 2"

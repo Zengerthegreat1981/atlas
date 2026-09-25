@@ -1,6 +1,6 @@
 ---
 slug: "trm-hypnotic-induction-profile-new-york-ny"
-id: "TRM-ENG-51520"
+id: "TRM-ENG-66049"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "hypnotic induction profile. New York, NY"

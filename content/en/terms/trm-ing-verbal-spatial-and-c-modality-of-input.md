@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-verbal-spatial-and-c-modality-of-input"
-id: "TRM-ENG-45211"
+id: "TRM-ENG-59740"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing (verbal, spatial), and (c) modality (of input"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-iner"
-id: "TRM-ENG-42416"
+id: "TRM-ENG-56945"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "INER"

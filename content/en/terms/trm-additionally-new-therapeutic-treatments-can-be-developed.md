@@ -1,6 +1,6 @@
 ---
 slug: "trm-additionally-new-therapeutic-treatments-can-be-developed"
-id: "TRM-ENG-35570"
+id: "TRM-ENG-64628"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Additionally, new therapeutic treatments can be developed"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-is-not-one-model-of-career-counseling-extant-across-basis"
-id: "TRM-ENG-40646"
+id: "TRM-ENG-55175"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "is not one model of career counseling extant across basis"

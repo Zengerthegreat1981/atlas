@@ -1,6 +1,6 @@
 ---
 slug: "trm-certain-specific-groups"
-id: "TRM-ENG-45866"
+id: "TRM-ENG-60395"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "certain specific groups"

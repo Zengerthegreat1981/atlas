@@ -1,6 +1,6 @@
 ---
 slug: "trm-modern-research-1"
-id: "TRM-ENG-45311"
+id: "TRM-ENG-59840"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "modern research, 1"

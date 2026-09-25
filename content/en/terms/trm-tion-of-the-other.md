@@ -1,6 +1,6 @@
 ---
 slug: "trm-tion-of-the-other"
-id: "TRM-ENG-48919"
+id: "TRM-ENG-63448"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tion of the other"

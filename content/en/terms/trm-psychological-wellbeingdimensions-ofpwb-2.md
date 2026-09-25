@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychological-wellbeingdimensions-ofpwb-2"
-id: "TRM-ENG-38638"
+id: "TRM-ENG-53167"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychological well-being,dimensions of(PWB), 2"

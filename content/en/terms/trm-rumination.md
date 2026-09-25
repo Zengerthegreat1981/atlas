@@ -1,6 +1,6 @@
 ---
 slug: "trm-rumination"
-id: "TRM-ENG-52367"
+id: "TRM-ENG-66896"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rumination"

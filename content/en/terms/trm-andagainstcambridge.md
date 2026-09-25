@@ -1,6 +1,6 @@
 ---
 slug: "trm-andagainstcambridge"
-id: "TRM-ENG-45834"
+id: "TRM-ENG-60363"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "andAgainst.Cambridge"

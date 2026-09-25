@@ -1,6 +1,6 @@
 ---
 slug: "trm-set-of-specific-attitudes-beliefs-and-competencies"
-id: "TRM-ENG-41635"
+id: "TRM-ENG-56164"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "set of specific attitudes, beliefs, and competencies"

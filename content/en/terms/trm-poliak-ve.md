@@ -1,6 +1,6 @@
 ---
 slug: "trm-poliak-ve"
-id: "TRM-ENG-41993"
+id: "TRM-ENG-56522"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Poliak VE"

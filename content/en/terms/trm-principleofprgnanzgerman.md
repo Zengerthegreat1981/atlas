@@ -1,6 +1,6 @@
 ---
 slug: "trm-principleofprgnanzgerman"
-id: "TRM-ENG-43813"
+id: "TRM-ENG-58342"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "principleofPrägnanz.[German"

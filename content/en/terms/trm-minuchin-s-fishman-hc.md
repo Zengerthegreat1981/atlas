@@ -1,6 +1,6 @@
 ---
 slug: "trm-minuchin-s-fishman-hc"
-id: "TRM-ENG-41737"
+id: "TRM-ENG-56266"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Minuchin S, Fishman HC"

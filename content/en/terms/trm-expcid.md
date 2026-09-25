@@ -1,6 +1,6 @@
 ---
 slug: "trm-expcid"
-id: "TRM-ENG-35371"
+id: "TRM-ENG-49900"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "EXP∑(cid"

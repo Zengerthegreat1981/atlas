@@ -1,6 +1,6 @@
 ---
 slug: "trm-ee-epstein-eds-addictions"
-id: "TRM-ENG-35653"
+id: "TRM-ENG-64711"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "E.E. Epstein (Eds.), Addictions"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-sigmund-freud"
-id: "TRM-ENG-44707"
+id: "TRM-ENG-59236"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____ , Sigmund Freud"

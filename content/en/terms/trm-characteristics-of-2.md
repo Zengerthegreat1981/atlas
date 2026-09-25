@@ -1,6 +1,6 @@
 ---
 slug: "trm-characteristics-of-2"
-id: "TRM-ENG-39473"
+id: "TRM-ENG-54002"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "characteristics of, 2"

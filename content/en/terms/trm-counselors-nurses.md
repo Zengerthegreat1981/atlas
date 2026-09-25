@@ -1,6 +1,6 @@
 ---
 slug: "trm-counselors-nurses"
-id: "TRM-ENG-36317"
+id: "TRM-ENG-65375"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "counselors, nurses"

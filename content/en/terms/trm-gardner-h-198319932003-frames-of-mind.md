@@ -1,6 +1,6 @@
 ---
 slug: "trm-gardner-h-198319932003-frames-of-mind"
-id: "TRM-ENG-46673"
+id: "TRM-ENG-61202"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gardner, H. (1983/1993/2003). Frames of mind"

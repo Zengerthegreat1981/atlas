@@ -1,6 +1,6 @@
 ---
 slug: "trm-ity-and-problem-solving-stepps-ei"
-id: "TRM-ENG-42945"
+id: "TRM-ENG-57474"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ity and Problem Solving (STEPPS EI)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-text-journal-1"
-id: "TRM-ENG-47303"
+id: "TRM-ENG-61832"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Social Text (journal), 1"

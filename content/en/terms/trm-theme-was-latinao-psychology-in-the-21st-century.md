@@ -1,6 +1,6 @@
 ---
 slug: "trm-theme-was-latinao-psychology-in-the-21st-century"
-id: "TRM-ENG-41909"
+id: "TRM-ENG-56438"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theme was Latina/o Psychology in the 21st Century"

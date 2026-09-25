@@ -1,6 +1,6 @@
 ---
 slug: "trm-buddy-system"
-id: "TRM-ENG-49327"
+id: "TRM-ENG-63856"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "buddy system"

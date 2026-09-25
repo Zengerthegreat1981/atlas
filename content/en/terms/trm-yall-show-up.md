@@ -1,6 +1,6 @@
 ---
 slug: "trm-yall-show-up"
-id: "TRM-ENG-44240"
+id: "TRM-ENG-58769"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "y’all show up"

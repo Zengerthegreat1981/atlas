@@ -1,6 +1,6 @@
 ---
 slug: "trm-on-human-functioning"
-id: "TRM-ENG-41028"
+id: "TRM-ENG-55557"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "on human functioning"

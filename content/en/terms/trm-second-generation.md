@@ -1,6 +1,6 @@
 ---
 slug: "trm-second-generation"
-id: "TRM-ENG-34687"
+id: "TRM-ENG-63745"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Second generation"

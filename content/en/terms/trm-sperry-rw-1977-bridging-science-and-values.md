@@ -1,6 +1,6 @@
 ---
 slug: "trm-sperry-rw-1977-bridging-science-and-values"
-id: "TRM-ENG-35972"
+id: "TRM-ENG-65030"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sperry, R.W. (1977). Bridging science and values"

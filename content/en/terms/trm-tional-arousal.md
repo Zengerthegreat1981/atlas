@@ -1,6 +1,6 @@
 ---
 slug: "trm-tional-arousal"
-id: "TRM-ENG-43352"
+id: "TRM-ENG-57881"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tional arousal"

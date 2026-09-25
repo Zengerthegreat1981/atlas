@@ -1,6 +1,6 @@
 ---
 slug: "trm-becker-a-goldberg-hl"
-id: "TRM-ENG-39840"
+id: "TRM-ENG-54369"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Becker A, Goldberg HL"

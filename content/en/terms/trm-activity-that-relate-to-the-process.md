@@ -1,6 +1,6 @@
 ---
 slug: "trm-activity-that-relate-to-the-process"
-id: "TRM-ENG-47549"
+id: "TRM-ENG-62078"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "activity that relate to the process"

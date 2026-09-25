@@ -1,6 +1,6 @@
 ---
 slug: "trm-selfstimulating-stimming-behaviors-and-1"
-id: "TRM-ENG-41623"
+id: "TRM-ENG-56152"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "self-stimulating, “stimming” behaviors and, 1"

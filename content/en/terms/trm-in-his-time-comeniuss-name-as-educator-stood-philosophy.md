@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-his-time-comeniuss-name-as-educator-stood-philosophy"
-id: "TRM-ENG-46798"
+id: "TRM-ENG-61327"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "In his time, Comenius’s name as educator stood philosophy"

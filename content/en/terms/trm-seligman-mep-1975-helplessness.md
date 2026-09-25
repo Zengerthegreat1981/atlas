@@ -1,6 +1,6 @@
 ---
 slug: "trm-seligman-mep-1975-helplessness"
-id: "TRM-ENG-45483"
+id: "TRM-ENG-60012"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Seligman, M.E.P. (1975) Helplessness"

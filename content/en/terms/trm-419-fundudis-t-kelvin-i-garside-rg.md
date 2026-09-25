@@ -1,6 +1,6 @@
 ---
 slug: "trm-419-fundudis-t-kelvin-i-garside-rg"
-id: "TRM-ENG-39007"
+id: "TRM-ENG-53536"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "419. Fundudis T, Kelvin I, Garside RG"

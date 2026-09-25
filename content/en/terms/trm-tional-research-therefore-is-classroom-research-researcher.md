@@ -1,6 +1,6 @@
 ---
 slug: "trm-tional-research-therefore-is-classroom-research-researcher"
-id: "TRM-ENG-48924"
+id: "TRM-ENG-63453"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tional research, therefore, is classroom research. researcher"

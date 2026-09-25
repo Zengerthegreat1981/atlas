@@ -1,6 +1,6 @@
 ---
 slug: "trm-valuefree-ideal-for-research"
-id: "TRM-ENG-47446"
+id: "TRM-ENG-61975"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Value-free ideal for research"

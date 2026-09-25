@@ -1,6 +1,6 @@
 ---
 slug: "trm-koro"
-id: "TRM-ENG-52256"
+id: "TRM-ENG-66785"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Koro"

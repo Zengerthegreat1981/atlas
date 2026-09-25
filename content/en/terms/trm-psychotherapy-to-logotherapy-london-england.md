@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychotherapy-to-logotherapy-london-england"
-id: "TRM-ENG-51763"
+id: "TRM-ENG-66292"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychotherapy to logotherapy. London, England"

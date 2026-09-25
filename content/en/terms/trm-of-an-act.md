@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-an-act"
-id: "TRM-ENG-46173"
+id: "TRM-ENG-60702"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of an act"

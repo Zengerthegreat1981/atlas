@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-father-of-the-schizophrenic"
-id: "TRM-ENG-44847"
+id: "TRM-ENG-59376"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____., “The Father of the Schizophrenic"

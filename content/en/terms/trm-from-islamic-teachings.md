@@ -1,6 +1,6 @@
 ---
 slug: "trm-from-islamic-teachings"
-id: "TRM-ENG-36463"
+id: "TRM-ENG-65521"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "from Islamic teachings"

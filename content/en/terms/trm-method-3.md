@@ -1,6 +1,6 @@
 ---
 slug: "trm-method-3"
-id: "TRM-ENG-50736"
+id: "TRM-ENG-65265"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Method 3"

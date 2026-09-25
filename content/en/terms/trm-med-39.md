@@ -1,6 +1,6 @@
 ---
 slug: "trm-med-39"
-id: "TRM-ENG-47861"
+id: "TRM-ENG-62390"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Med 39"

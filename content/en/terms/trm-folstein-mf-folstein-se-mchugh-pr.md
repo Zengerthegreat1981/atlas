@@ -1,6 +1,6 @@
 ---
 slug: "trm-folstein-mf-folstein-se-mchugh-pr"
-id: "TRM-ENG-40563"
+id: "TRM-ENG-55092"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Folstein MF, Folstein SE, McHugh PR"

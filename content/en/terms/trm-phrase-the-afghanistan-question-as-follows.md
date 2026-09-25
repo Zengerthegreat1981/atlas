@@ -1,6 +1,6 @@
 ---
 slug: "trm-phrase-the-afghanistan-question-as-follows"
-id: "TRM-ENG-36033"
+id: "TRM-ENG-50562"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "phrase the Afghanistan question as follows"

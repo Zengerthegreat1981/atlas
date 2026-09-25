@@ -1,6 +1,6 @@
 ---
 slug: "trm-kitchener-k-s-1988-dual-role-relationships"
-id: "TRM-ENG-38329"
+id: "TRM-ENG-52858"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kitchener, K. S. (1988). Dual role relationships"

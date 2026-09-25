@@ -1,6 +1,6 @@
 ---
 slug: "trm-heterosexual-privilege-and-3"
-id: "TRM-ENG-40372"
+id: "TRM-ENG-54901"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "heterosexual privilege and, 3"

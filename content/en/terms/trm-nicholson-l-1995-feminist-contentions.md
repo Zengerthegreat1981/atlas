@@ -1,6 +1,6 @@
 ---
 slug: "trm-nicholson-l-1995-feminist-contentions"
-id: "TRM-ENG-47064"
+id: "TRM-ENG-61593"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nicholson, L. (1995). Feminist contentions"

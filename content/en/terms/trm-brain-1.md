@@ -1,6 +1,6 @@
 ---
 slug: "trm-brain-1"
-id: "TRM-ENG-44977"
+id: "TRM-ENG-59506"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "brain, 1"

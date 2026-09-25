@@ -1,6 +1,6 @@
 ---
 slug: "trm-boss-medard-1"
-id: "TRM-ENG-50177"
+id: "TRM-ENG-64706"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Boss, Medard, 1"

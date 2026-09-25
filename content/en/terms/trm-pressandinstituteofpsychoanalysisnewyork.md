@@ -1,6 +1,6 @@
 ---
 slug: "trm-pressandinstituteofpsychoanalysisnewyork"
-id: "TRM-ENG-37191"
+id: "TRM-ENG-66249"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "PressandInstituteofPsycho-Analysis;NewYork"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-pain-and-illness-15th-anniversary-ed-new-york"
-id: "TRM-ENG-43109"
+id: "TRM-ENG-57638"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pain, and illness (15th anniversary ed.). New York"

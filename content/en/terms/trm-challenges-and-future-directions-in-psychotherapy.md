@@ -1,6 +1,6 @@
 ---
 slug: "trm-challenges-and-future-directions-in-psychotherapy"
-id: "TRM-ENG-36262"
+id: "TRM-ENG-65320"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "challenges and future directions in psychotherapy"

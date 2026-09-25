@@ -1,6 +1,6 @@
 ---
 slug: "trm-sansone-ra-sansone-la"
-id: "TRM-ENG-48041"
+id: "TRM-ENG-62570"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sansone RA, Sansone LA"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ireland-1"
-id: "TRM-ENG-46822"
+id: "TRM-ENG-61351"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ireland, 1"

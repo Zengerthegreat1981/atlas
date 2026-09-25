@@ -1,6 +1,6 @@
 ---
 slug: "trm-questions-and-in-my-fathers-house"
-id: "TRM-ENG-45768"
+id: "TRM-ENG-60297"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Questions; and In My Father’s House"

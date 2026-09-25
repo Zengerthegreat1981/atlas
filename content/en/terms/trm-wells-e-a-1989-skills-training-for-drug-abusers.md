@@ -1,6 +1,6 @@
 ---
 slug: "trm-wells-e-a-1989-skills-training-for-drug-abusers"
-id: "TRM-ENG-49225"
+id: "TRM-ENG-63754"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wells, E. A. (1989). Skills training for drug abusers"

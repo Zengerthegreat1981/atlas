@@ -1,6 +1,6 @@
 ---
 slug: "trm-muro-jj"
-id: "TRM-ENG-41795"
+id: "TRM-ENG-56324"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Muro JJ"

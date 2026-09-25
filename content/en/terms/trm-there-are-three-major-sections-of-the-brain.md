@@ -1,6 +1,6 @@
 ---
 slug: "trm-there-are-three-major-sections-of-the-brain"
-id: "TRM-ENG-36013"
+id: "TRM-ENG-50542"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "There are three major sections of the brain"

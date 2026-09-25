@@ -1,6 +1,6 @@
 ---
 slug: "trm-compartments-can-be-identified-in-a-typical-neuron"
-id: "TRM-ENG-36303"
+id: "TRM-ENG-65361"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "compartments can be identified in a typical neuron"

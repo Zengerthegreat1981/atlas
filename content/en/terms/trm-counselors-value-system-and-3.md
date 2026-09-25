@@ -1,6 +1,6 @@
 ---
 slug: "trm-counselors-value-system-and-3"
-id: "TRM-ENG-39771"
+id: "TRM-ENG-54300"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "counselor’s value system and, 3"

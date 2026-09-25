@@ -1,6 +1,6 @@
 ---
 slug: "trm-aims-a-desexualization"
-id: "TRM-ENG-44874"
+id: "TRM-ENG-59403"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "aims, a desexualization"

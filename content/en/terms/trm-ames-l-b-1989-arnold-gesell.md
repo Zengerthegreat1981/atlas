@@ -1,6 +1,6 @@
 ---
 slug: "trm-ames-l-b-1989-arnold-gesell"
-id: "TRM-ENG-36551"
+id: "TRM-ENG-51080"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ames, L. B. (1989). Arnold Gesell"

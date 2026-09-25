@@ -1,6 +1,6 @@
 ---
 slug: "trm-replicate"
-id: "TRM-ENG-36074"
+id: "TRM-ENG-65132"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "replicate"

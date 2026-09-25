@@ -1,6 +1,6 @@
 ---
 slug: "trm-thornton-ee"
-id: "TRM-ENG-42595"
+id: "TRM-ENG-57124"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Thornton EE"

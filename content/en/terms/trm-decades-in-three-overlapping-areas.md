@@ -1,6 +1,6 @@
 ---
 slug: "trm-decades-in-three-overlapping-areas"
-id: "TRM-ENG-36339"
+id: "TRM-ENG-65397"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "decades in three overlapping areas"

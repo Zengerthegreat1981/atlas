@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-capacity-to-reason"
-id: "TRM-ENG-48830"
+id: "TRM-ENG-63359"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the capacity to reason"

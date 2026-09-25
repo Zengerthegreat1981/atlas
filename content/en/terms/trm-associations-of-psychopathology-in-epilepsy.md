@@ -1,6 +1,6 @@
 ---
 slug: "trm-associations-of-psychopathology-in-epilepsy"
-id: "TRM-ENG-46842"
+id: "TRM-ENG-61371"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "associations of psychopathology in epilepsy"

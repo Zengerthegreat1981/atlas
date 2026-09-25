@@ -1,6 +1,6 @@
 ---
 slug: "trm-sonality-disorders-personality-disorders"
-id: "TRM-ENG-43241"
+id: "TRM-ENG-57770"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sonality disorders. Personality Disorders"

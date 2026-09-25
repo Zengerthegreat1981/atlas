@@ -1,6 +1,6 @@
 ---
 slug: "trm-such-as-enhanced-feelings-of-selfefficacy-or-mastery"
-id: "TRM-ENG-35349"
+id: "TRM-ENG-64407"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "such as enhanced feelings of self-efficacy or mastery"

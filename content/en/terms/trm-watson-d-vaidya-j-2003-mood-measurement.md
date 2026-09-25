@@ -1,6 +1,6 @@
 ---
 slug: "trm-watson-d-vaidya-j-2003-mood-measurement"
-id: "TRM-ENG-35610"
+id: "TRM-ENG-50139"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Watson, D., & Vaidya, J. (2003). Mood measurement"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-recycling-through-stages-and-4"
-id: "TRM-ENG-41444"
+id: "TRM-ENG-55973"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "recycling through stages and, 4"

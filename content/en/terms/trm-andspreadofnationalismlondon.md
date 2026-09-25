@@ -1,6 +1,6 @@
 ---
 slug: "trm-andspreadofnationalismlondon"
-id: "TRM-ENG-37537"
+id: "TRM-ENG-66595"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "andspreadofnationalism.London"

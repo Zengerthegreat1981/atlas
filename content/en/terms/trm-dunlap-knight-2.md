@@ -1,6 +1,6 @@
 ---
 slug: "trm-dunlap-knight-2"
-id: "TRM-ENG-37985"
+id: "TRM-ENG-52514"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dunlap, Knight, 2"

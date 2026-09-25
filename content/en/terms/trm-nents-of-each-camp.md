@@ -1,6 +1,6 @@
 ---
 slug: "trm-nents-of-each-camp"
-id: "TRM-ENG-48400"
+id: "TRM-ENG-62929"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nents of each camp"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-approachavoidance"
-id: "TRM-ENG-52549"
+id: "TRM-ENG-67078"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "approach-avoidance"

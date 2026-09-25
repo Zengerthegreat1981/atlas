@@ -1,6 +1,6 @@
 ---
 slug: "trm-nations"
-id: "TRM-ENG-43745"
+id: "TRM-ENG-58274"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nations"

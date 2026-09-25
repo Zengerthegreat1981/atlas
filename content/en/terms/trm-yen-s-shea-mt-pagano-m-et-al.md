@@ -1,6 +1,6 @@
 ---
 slug: "trm-yen-s-shea-mt-pagano-m-et-al"
-id: "TRM-ENG-48157"
+id: "TRM-ENG-62686"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Yen S, Shea MT, Pagano M, et al"

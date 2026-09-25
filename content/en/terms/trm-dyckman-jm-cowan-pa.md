@@ -1,6 +1,6 @@
 ---
 slug: "trm-dyckman-jm-cowan-pa"
-id: "TRM-ENG-40398"
+id: "TRM-ENG-54927"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dyckman JM, Cowan PA"

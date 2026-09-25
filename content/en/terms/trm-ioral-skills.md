@@ -1,6 +1,6 @@
 ---
 slug: "trm-ioral-skills"
-id: "TRM-ENG-48406"
+id: "TRM-ENG-62935"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ioral skills"

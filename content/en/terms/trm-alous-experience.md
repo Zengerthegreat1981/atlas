@@ -1,6 +1,6 @@
 ---
 slug: "trm-alous-experience"
-id: "TRM-ENG-37502"
+id: "TRM-ENG-66560"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "alous Experience"

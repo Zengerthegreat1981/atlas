@@ -1,6 +1,6 @@
 ---
 slug: "trm-711-rosenbaum-m-muroff-m-eds"
-id: "TRM-ENG-39355"
+id: "TRM-ENG-53884"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "711. Rosenbaum M, Muroff M (eds)"

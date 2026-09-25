@@ -1,6 +1,6 @@
 ---
 slug: "trm-sonality-disorder-new-york"
-id: "TRM-ENG-43239"
+id: "TRM-ENG-57768"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sonality disorder. New York"

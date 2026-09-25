@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapeutic-assessment-prior-to-commencement-as-miracles"
-id: "TRM-ENG-51892"
+id: "TRM-ENG-66421"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapeutic assessment prior to commencement. As miracles"

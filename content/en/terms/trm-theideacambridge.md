@@ -1,6 +1,6 @@
 ---
 slug: "trm-theideacambridge"
-id: "TRM-ENG-38321"
+id: "TRM-ENG-52850"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theidea.Cambridge"

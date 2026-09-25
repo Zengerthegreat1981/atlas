@@ -1,6 +1,6 @@
 ---
 slug: "trm-is-true-the-obvious-question-that-arises-is"
-id: "TRM-ENG-42935"
+id: "TRM-ENG-57464"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "is true, the obvious question that arises is"

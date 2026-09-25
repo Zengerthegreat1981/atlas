@@ -1,6 +1,6 @@
 ---
 slug: "trm-measure"
-id: "TRM-ENG-42988"
+id: "TRM-ENG-57517"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "measure"

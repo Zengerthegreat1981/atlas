@@ -1,6 +1,6 @@
 ---
 slug: "trm-spouses"
-id: "TRM-ENG-35337"
+id: "TRM-ENG-64395"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "spouses"

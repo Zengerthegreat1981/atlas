@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-universescore-variancecovariance-matrix"
-id: "TRM-ENG-36179"
+id: "TRM-ENG-65237"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the universe-score variance-covariance matrix Σ"

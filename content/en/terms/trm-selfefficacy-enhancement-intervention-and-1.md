@@ -1,6 +1,6 @@
 ---
 slug: "trm-selfefficacy-enhancement-intervention-and-1"
-id: "TRM-ENG-41604"
+id: "TRM-ENG-56133"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "self-efficacy enhancement intervention and, 1"

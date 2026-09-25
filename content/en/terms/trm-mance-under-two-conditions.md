@@ -1,6 +1,6 @@
 ---
 slug: "trm-mance-under-two-conditions"
-id: "TRM-ENG-36668"
+id: "TRM-ENG-65726"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mance under two conditions"

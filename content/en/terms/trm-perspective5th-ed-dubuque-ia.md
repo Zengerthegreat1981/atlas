@@ -1,6 +1,6 @@
 ---
 slug: "trm-perspective5th-ed-dubuque-ia"
-id: "TRM-ENG-41160"
+id: "TRM-ENG-55689"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "perspective(5th ed.). Dubuque, IA"

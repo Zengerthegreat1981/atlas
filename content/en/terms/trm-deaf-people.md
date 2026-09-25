@@ -1,6 +1,6 @@
 ---
 slug: "trm-deaf-people"
-id: "TRM-ENG-34963"
+id: "TRM-ENG-64021"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "deaf people"

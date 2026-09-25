@@ -1,6 +1,6 @@
 ---
 slug: "trm-management-of-psychiatric-disorders"
-id: "TRM-ENG-51588"
+id: "TRM-ENG-66117"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "management of psychiatric disorders"

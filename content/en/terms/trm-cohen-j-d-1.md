@@ -1,6 +1,6 @@
 ---
 slug: "trm-cohen-j-d-1"
-id: "TRM-ENG-44389"
+id: "TRM-ENG-58918"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cohen, J. D., 1"

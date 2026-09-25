@@ -1,6 +1,6 @@
 ---
 slug: "trm-adjustment-disorders-1"
-id: "TRM-ENG-37542"
+id: "TRM-ENG-66600"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Adjustment disorders, 1"

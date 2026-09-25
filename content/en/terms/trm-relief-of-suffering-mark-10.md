@@ -1,6 +1,6 @@
 ---
 slug: "trm-relief-of-suffering-mark-10"
-id: "TRM-ENG-51795"
+id: "TRM-ENG-66324"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "relief of suffering (Mark 10"

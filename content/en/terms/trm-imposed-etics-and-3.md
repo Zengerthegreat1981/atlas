@@ -1,6 +1,6 @@
 ---
 slug: "trm-imposed-etics-and-3"
-id: "TRM-ENG-40466"
+id: "TRM-ENG-54995"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "imposed etics and, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-andreligion"
-id: "TRM-ENG-37534"
+id: "TRM-ENG-66592"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "andreligion"

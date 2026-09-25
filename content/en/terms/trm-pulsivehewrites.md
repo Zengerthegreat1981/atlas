@@ -1,6 +1,6 @@
 ---
 slug: "trm-pulsivehewrites"
-id: "TRM-ENG-38175"
+id: "TRM-ENG-52704"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pulsive.Hewrites"

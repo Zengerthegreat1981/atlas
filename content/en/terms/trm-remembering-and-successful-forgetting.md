@@ -1,6 +1,6 @@
 ---
 slug: "trm-remembering-and-successful-forgetting"
-id: "TRM-ENG-45473"
+id: "TRM-ENG-60002"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "remembering and successful forgetting"

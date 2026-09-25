@@ -1,6 +1,6 @@
 ---
 slug: "trm-advice-to-live-freely"
-id: "TRM-ENG-44870"
+id: "TRM-ENG-59399"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "advice to “live freely”"

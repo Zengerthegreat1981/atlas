@@ -1,6 +1,6 @@
 ---
 slug: "trm-counseling-considerations-and-4"
-id: "TRM-ENG-39731"
+id: "TRM-ENG-54260"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "counseling considerations and, 4"

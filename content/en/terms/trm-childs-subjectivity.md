@@ -1,6 +1,6 @@
 ---
 slug: "trm-childs-subjectivity"
-id: "TRM-ENG-47758"
+id: "TRM-ENG-62287"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "child’s subjectivity"

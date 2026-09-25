@@ -1,6 +1,6 @@
 ---
 slug: "trm-kroger-j-2007-identity-development"
-id: "TRM-ENG-42442"
+id: "TRM-ENG-56971"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kroger, J. (2007). Identity development"

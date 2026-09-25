@@ -1,6 +1,6 @@
 ---
 slug: "trm-money-j-tucker-p"
-id: "TRM-ENG-41752"
+id: "TRM-ENG-56281"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Money J, Tucker P"

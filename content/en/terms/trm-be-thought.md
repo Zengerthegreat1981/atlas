@@ -1,6 +1,6 @@
 ---
 slug: "trm-be-thought"
-id: "TRM-ENG-44956"
+id: "TRM-ENG-59485"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "be thought"

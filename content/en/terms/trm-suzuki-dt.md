@@ -1,6 +1,6 @@
 ---
 slug: "trm-suzuki-dt"
-id: "TRM-ENG-42522"
+id: "TRM-ENG-57051"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Suzuki DT"

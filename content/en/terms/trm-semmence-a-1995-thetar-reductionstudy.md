@@ -1,6 +1,6 @@
 ---
 slug: "trm-semmence-a-1995-thetar-reductionstudy"
-id: "TRM-ENG-46708"
+id: "TRM-ENG-61237"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Semmence, A. (1995). Thetar reductionstudy"

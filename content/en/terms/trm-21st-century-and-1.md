@@ -1,6 +1,6 @@
 ---
 slug: "trm-21st-century-and-1"
-id: "TRM-ENG-37488"
+id: "TRM-ENG-66546"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "21st century and, 1"

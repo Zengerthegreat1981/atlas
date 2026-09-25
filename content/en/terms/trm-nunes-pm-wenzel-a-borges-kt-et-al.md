@@ -1,6 +1,6 @@
 ---
 slug: "trm-nunes-pm-wenzel-a-borges-kt-et-al"
-id: "TRM-ENG-47913"
+id: "TRM-ENG-62442"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nunes PM, Wenzel A, Borges KT, et al"

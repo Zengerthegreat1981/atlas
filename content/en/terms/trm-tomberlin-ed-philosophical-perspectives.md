@@ -1,6 +1,6 @@
 ---
 slug: "trm-tomberlin-ed-philosophical-perspectives"
-id: "TRM-ENG-44830"
+id: "TRM-ENG-59359"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tomberlin (Ed.), Philosophical Perspectives"

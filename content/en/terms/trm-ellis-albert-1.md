@@ -1,6 +1,6 @@
 ---
 slug: "trm-ellis-albert-1"
-id: "TRM-ENG-44452"
+id: "TRM-ENG-58981"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ellis, Albert, 1"

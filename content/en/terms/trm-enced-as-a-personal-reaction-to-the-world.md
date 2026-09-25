@@ -1,6 +1,6 @@
 ---
 slug: "trm-enced-as-a-personal-reaction-to-the-world"
-id: "TRM-ENG-45091"
+id: "TRM-ENG-59620"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "enced as a personal reaction to the world"

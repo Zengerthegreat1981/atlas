@@ -1,6 +1,6 @@
 ---
 slug: "trm-mccawley-a"
-id: "TRM-ENG-41634"
+id: "TRM-ENG-56163"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "McCawley A"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-schools-or-grades"
-id: "TRM-ENG-48679"
+id: "TRM-ENG-63208"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "schools or grades"

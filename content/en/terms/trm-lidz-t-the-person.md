@@ -1,6 +1,6 @@
 ---
 slug: "trm-lidz-t-the-person"
-id: "TRM-ENG-44493"
+id: "TRM-ENG-59022"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lidz, T., The Person"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-world-directedness-provides-a-way-of-accounting-for-rubbish"
-id: "TRM-ENG-45703"
+id: "TRM-ENG-60232"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "world directedness provides a way of accounting for rubbish"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-healthbehaviourpp197225buckinghamuk"
-id: "TRM-ENG-47018"
+id: "TRM-ENG-61547"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "healthbehaviour(pp.197±225).Buckingham,UK"

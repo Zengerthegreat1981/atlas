@@ -1,6 +1,6 @@
 ---
 slug: "trm-pain2nd-ed-seattle-wa"
-id: "TRM-ENG-41099"
+id: "TRM-ENG-55628"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pain(2nd ed.). Seattle, WA"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-at-odds-with-reality"
-id: "TRM-ENG-43544"
+id: "TRM-ENG-58073"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "at odds with reality."

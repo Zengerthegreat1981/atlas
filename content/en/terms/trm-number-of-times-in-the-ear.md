@@ -1,6 +1,6 @@
 ---
 slug: "trm-number-of-times-in-the-ear"
-id: "TRM-ENG-34955"
+id: "TRM-ENG-64013"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "number of times in the ear"

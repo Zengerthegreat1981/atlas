@@ -1,6 +1,6 @@
 ---
 slug: "trm-frequently"
-id: "TRM-ENG-45051"
+id: "TRM-ENG-59580"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "frequently"

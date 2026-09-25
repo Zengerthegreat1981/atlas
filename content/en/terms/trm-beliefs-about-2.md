@@ -1,6 +1,6 @@
 ---
 slug: "trm-beliefs-about-2"
-id: "TRM-ENG-47693"
+id: "TRM-ENG-62222"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "beliefs about, 2"

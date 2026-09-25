@@ -1,6 +1,6 @@
 ---
 slug: "trm-reducedasevidencedby"
-id: "TRM-ENG-49676"
+id: "TRM-ENG-64205"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reduced,asevidencedby"

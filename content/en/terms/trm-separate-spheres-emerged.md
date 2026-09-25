@@ -1,6 +1,6 @@
 ---
 slug: "trm-separate-spheres-emerged"
-id: "TRM-ENG-41630"
+id: "TRM-ENG-56159"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "separate spheres emerged"

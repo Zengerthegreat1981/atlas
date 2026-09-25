@@ -1,6 +1,6 @@
 ---
 slug: "trm-22-whitaker-ca-malone-tp"
-id: "TRM-ENG-38737"
+id: "TRM-ENG-53266"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "22. Whitaker CA, Malone TP"

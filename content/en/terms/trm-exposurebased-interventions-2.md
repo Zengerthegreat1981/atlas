@@ -1,6 +1,6 @@
 ---
 slug: "trm-exposurebased-interventions-2"
-id: "TRM-ENG-40146"
+id: "TRM-ENG-54675"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "exposure-based interventions, 2"

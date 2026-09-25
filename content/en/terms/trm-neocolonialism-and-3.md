@@ -1,6 +1,6 @@
 ---
 slug: "trm-neocolonialism-and-3"
-id: "TRM-ENG-40943"
+id: "TRM-ENG-55472"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "neocolonialism and, 3"

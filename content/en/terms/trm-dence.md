@@ -1,6 +1,6 @@
 ---
 slug: "trm-dence"
-id: "TRM-ENG-48289"
+id: "TRM-ENG-62818"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dence"

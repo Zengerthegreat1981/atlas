@@ -1,6 +1,6 @@
 ---
 slug: "trm-residual-variance-cid"
-id: "TRM-ENG-36083"
+id: "TRM-ENG-50612"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "residual variance (cid"

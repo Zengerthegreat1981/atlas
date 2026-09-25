@@ -1,6 +1,6 @@
 ---
 slug: "trm-grinberg-l"
-id: "TRM-ENG-40827"
+id: "TRM-ENG-55356"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Grinberg L"

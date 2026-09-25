@@ -1,6 +1,6 @@
 ---
 slug: "trm-schwartz-mf"
-id: "TRM-ENG-42297"
+id: "TRM-ENG-56826"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schwartz MF"

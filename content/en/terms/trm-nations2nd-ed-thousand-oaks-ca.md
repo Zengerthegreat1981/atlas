@@ -1,6 +1,6 @@
 ---
 slug: "trm-nations2nd-ed-thousand-oaks-ca"
-id: "TRM-ENG-40931"
+id: "TRM-ENG-55460"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nations(2nd ed.). Thousand Oaks, CA"

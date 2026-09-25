@@ -1,6 +1,6 @@
 ---
 slug: "trm-hispanic-journal-of-behavioral-sciencesin-1979-psychology"
-id: "TRM-ENG-38179"
+id: "TRM-ENG-52708"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hispanic Journal of Behavioral Sciencesin 1979. Psychology"

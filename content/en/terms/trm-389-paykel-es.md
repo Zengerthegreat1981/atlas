@@ -1,6 +1,6 @@
 ---
 slug: "trm-389-paykel-es"
-id: "TRM-ENG-38959"
+id: "TRM-ENG-53488"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "389. Paykel ES"

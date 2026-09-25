@@ -1,6 +1,6 @@
 ---
 slug: "trm-thompson-j-1990-ideology-and-modern-culture"
-id: "TRM-ENG-47392"
+id: "TRM-ENG-61921"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Thompson, J. (1990). Ideology and modern culture"

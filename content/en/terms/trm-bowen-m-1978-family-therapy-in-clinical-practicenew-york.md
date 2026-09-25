@@ -1,6 +1,6 @@
 ---
 slug: "trm-bowen-m-1978-family-therapy-in-clinical-practicenew-york"
-id: "TRM-ENG-35599"
+id: "TRM-ENG-64657"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bowen, M. (1978). Family therapy in clinical practice.New York"

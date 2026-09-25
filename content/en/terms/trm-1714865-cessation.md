@@ -1,6 +1,6 @@
 ---
 slug: "trm-1714865-cessation"
-id: "TRM-ENG-46368"
+id: "TRM-ENG-60897"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "17(1),48±65. cessation"

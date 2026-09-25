@@ -1,6 +1,6 @@
 ---
 slug: "trm-conclusioninphysicssuchexperiments"
-id: "TRM-ENG-43591"
+id: "TRM-ENG-58120"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "conclusion.Inphysics,suchexperiments"

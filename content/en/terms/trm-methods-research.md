@@ -1,6 +1,6 @@
 ---
 slug: "trm-methods-research"
-id: "TRM-ENG-40847"
+id: "TRM-ENG-55376"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "methods research"

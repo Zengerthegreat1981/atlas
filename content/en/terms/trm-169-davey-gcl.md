@@ -1,6 +1,6 @@
 ---
 slug: "trm-169-davey-gcl"
-id: "TRM-ENG-38647"
+id: "TRM-ENG-53176"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "169. Davey GCL"

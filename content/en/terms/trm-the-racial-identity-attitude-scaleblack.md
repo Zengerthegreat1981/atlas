@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-racial-identity-attitude-scaleblack"
-id: "TRM-ENG-41883"
+id: "TRM-ENG-56412"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the Racial Identity Attitude Scale–Black"

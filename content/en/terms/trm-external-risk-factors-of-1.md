@@ -1,6 +1,6 @@
 ---
 slug: "trm-external-risk-factors-of-1"
-id: "TRM-ENG-40149"
+id: "TRM-ENG-54678"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "external risk factors of, 1"

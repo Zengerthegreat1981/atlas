@@ -1,6 +1,6 @@
 ---
 slug: "trm-novel-explanations-of-basic-phenomena-in-rt-data-behavior"
-id: "TRM-ENG-45338"
+id: "TRM-ENG-59867"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "novel explanations of basic phenomena in RT data behavior"

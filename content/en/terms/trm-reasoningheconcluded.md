@@ -1,6 +1,6 @@
 ---
 slug: "trm-reasoningheconcluded"
-id: "TRM-ENG-38193"
+id: "TRM-ENG-52722"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reasoning.Heconcluded"

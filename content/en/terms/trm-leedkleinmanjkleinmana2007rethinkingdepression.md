@@ -1,6 +1,6 @@
 ---
 slug: "trm-leedkleinmanjkleinmana2007rethinkingdepression"
-id: "TRM-ENG-37030"
+id: "TRM-ENG-66088"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lee,D.,Kleinman,J.,&Kleinman,A.(2007).Rethinkingdepression"

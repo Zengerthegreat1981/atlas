@@ -1,6 +1,6 @@
 ---
 slug: "trm-lasting-relationships"
-id: "TRM-ENG-43710"
+id: "TRM-ENG-58239"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lasting relationships."

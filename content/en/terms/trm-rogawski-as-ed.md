@@ -1,6 +1,6 @@
 ---
 slug: "trm-rogawski-as-ed"
-id: "TRM-ENG-42145"
+id: "TRM-ENG-56674"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rogawski AS (ed)"

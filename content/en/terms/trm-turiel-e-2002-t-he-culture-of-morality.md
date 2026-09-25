@@ -1,6 +1,6 @@
 ---
 slug: "trm-turiel-e-2002-t-he-culture-of-morality"
-id: "TRM-ENG-44832"
+id: "TRM-ENG-59361"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Turiel, E. (2002). T he culture of morality"

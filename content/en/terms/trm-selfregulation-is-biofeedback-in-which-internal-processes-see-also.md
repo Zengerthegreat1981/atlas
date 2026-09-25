@@ -1,6 +1,6 @@
 ---
 slug: "trm-selfregulation-is-biofeedback-in-which-internal-processes-see-also"
-id: "TRM-ENG-36968"
+id: "TRM-ENG-51497"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "self-regulation is biofeedback, in which internal processes See also"

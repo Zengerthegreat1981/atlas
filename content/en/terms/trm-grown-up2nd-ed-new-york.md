@@ -1,6 +1,6 @@
 ---
 slug: "trm-grown-up2nd-ed-new-york"
-id: "TRM-ENG-40338"
+id: "TRM-ENG-54867"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "grown up(2nd ed.). New York"

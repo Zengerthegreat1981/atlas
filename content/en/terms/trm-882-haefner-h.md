@@ -1,6 +1,6 @@
 ---
 slug: "trm-882-haefner-h"
-id: "TRM-ENG-39546"
+id: "TRM-ENG-54075"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "882. Haefner H"

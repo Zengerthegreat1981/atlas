@@ -1,6 +1,6 @@
 ---
 slug: "trm-northampton-ma"
-id: "TRM-ENG-50804"
+id: "TRM-ENG-65333"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Northampton, MA"

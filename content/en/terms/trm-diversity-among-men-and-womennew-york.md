@@ -1,6 +1,6 @@
 ---
 slug: "trm-diversity-among-men-and-womennew-york"
-id: "TRM-ENG-36373"
+id: "TRM-ENG-65431"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "diversity among men and women.New York"

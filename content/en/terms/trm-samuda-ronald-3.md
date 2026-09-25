@@ -1,6 +1,6 @@
 ---
 slug: "trm-samuda-ronald-3"
-id: "TRM-ENG-38719"
+id: "TRM-ENG-53248"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Samuda, Ronald, 3"

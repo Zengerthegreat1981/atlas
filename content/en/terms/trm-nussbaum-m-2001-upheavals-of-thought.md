@@ -1,6 +1,6 @@
 ---
 slug: "trm-nussbaum-m-2001-upheavals-of-thought"
-id: "TRM-ENG-47072"
+id: "TRM-ENG-61601"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nussbaum, M. (2001). Upheavals of thought"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-dards-of-psychologists-washington-dc"
-id: "TRM-ENG-34960"
+id: "TRM-ENG-64018"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dards of psychologists. Washington, DC"

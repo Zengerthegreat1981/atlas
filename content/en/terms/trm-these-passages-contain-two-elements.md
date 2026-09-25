@@ -1,6 +1,6 @@
 ---
 slug: "trm-these-passages-contain-two-elements"
-id: "TRM-ENG-45802"
+id: "TRM-ENG-60331"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "These passages contain two elements"

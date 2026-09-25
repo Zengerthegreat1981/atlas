@@ -1,6 +1,6 @@
 ---
 slug: "trm-methods-2"
-id: "TRM-ENG-48350"
+id: "TRM-ENG-62879"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "methods, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-order-psychiatry-research"
-id: "TRM-ENG-43099"
+id: "TRM-ENG-57628"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "order. Psychiatry Research"

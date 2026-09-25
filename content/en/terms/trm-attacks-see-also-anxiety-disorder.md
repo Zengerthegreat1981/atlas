@@ -1,6 +1,6 @@
 ---
 slug: "trm-attacks-see-also-anxiety-disorder"
-id: "TRM-ENG-43546"
+id: "TRM-ENG-58075"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "attacks. See also anxiety disorder."

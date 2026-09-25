@@ -1,6 +1,6 @@
 ---
 slug: "trm-indian-territory-3"
-id: "TRM-ENG-38230"
+id: "TRM-ENG-52759"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Indian Territory, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-involved-in-the-taylorrussell-tables"
-id: "TRM-ENG-35892"
+id: "TRM-ENG-50421"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "involved in the Taylor–Russell tables"

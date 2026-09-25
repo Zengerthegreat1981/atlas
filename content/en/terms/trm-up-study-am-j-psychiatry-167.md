@@ -1,6 +1,6 @@
 ---
 slug: "trm-up-study-am-j-psychiatry-167"
-id: "TRM-ENG-48716"
+id: "TRM-ENG-63245"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "up study. Am J Psychiatry 167"

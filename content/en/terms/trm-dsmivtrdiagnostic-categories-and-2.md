@@ -1,6 +1,6 @@
 ---
 slug: "trm-dsmivtrdiagnostic-categories-and-2"
-id: "TRM-ENG-37919"
+id: "TRM-ENG-66977"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "DSM-IV-TRdiagnostic categories and, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-structuralism-in-the-late-1960s"
-id: "TRM-ENG-48765"
+id: "TRM-ENG-63294"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "structuralism in the late 1960s"

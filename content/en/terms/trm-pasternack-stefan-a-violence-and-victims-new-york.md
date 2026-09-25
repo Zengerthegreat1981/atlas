@@ -1,6 +1,6 @@
 ---
 slug: "trm-pasternack-stefan-a-violence-and-victims-new-york"
-id: "TRM-ENG-45915"
+id: "TRM-ENG-60444"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pasternack, Stefan A., Violence and Victims (New York"

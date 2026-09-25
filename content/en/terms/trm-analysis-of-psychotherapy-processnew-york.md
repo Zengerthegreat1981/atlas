@@ -1,6 +1,6 @@
 ---
 slug: "trm-analysis-of-psychotherapy-processnew-york"
-id: "TRM-ENG-36111"
+id: "TRM-ENG-65169"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "analysis of psychotherapy process.New York"

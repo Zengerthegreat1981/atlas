@@ -1,6 +1,6 @@
 ---
 slug: "trm-paul-gl"
-id: "TRM-ENG-41943"
+id: "TRM-ENG-56472"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Paul GL"

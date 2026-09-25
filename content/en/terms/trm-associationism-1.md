@@ -1,6 +1,6 @@
 ---
 slug: "trm-associationism-1"
-id: "TRM-ENG-46252"
+id: "TRM-ENG-60781"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Associationism, 1"

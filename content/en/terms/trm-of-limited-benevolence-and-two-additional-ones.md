@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-limited-benevolence-and-two-additional-ones"
-id: "TRM-ENG-45969"
+id: "TRM-ENG-60498"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of limited benevolence and two additional ones"

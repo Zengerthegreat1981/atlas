@@ -1,6 +1,6 @@
 ---
 slug: "trm-chomsky-n-2011-profit-over-people"
-id: "TRM-ENG-46394"
+id: "TRM-ENG-60923"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Chomsky, N. (2011). Profit over people"

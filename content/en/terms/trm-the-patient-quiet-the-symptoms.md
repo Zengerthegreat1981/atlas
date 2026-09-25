@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-patient-quiet-the-symptoms"
-id: "TRM-ENG-43200"
+id: "TRM-ENG-57729"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the patient quiet the symptoms"

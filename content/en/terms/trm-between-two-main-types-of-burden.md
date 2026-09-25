@@ -1,6 +1,6 @@
 ---
 slug: "trm-between-two-main-types-of-burden"
-id: "TRM-ENG-39361"
+id: "TRM-ENG-53890"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "between two main types of burden"

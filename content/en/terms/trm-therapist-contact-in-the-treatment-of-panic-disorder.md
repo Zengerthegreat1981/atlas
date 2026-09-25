@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapist-contact-in-the-treatment-of-panic-disorder"
-id: "TRM-ENG-49759"
+id: "TRM-ENG-64288"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapist contact in the treatment of panic disorder"

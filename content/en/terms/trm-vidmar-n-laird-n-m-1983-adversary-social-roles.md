@@ -1,6 +1,6 @@
 ---
 slug: "trm-vidmar-n-laird-n-m-1983-adversary-social-roles"
-id: "TRM-ENG-34819"
+id: "TRM-ENG-63877"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Vidmar, N.. & Laird, N. M. (1983). Adversary social roles"

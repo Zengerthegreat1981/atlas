@@ -1,6 +1,6 @@
 ---
 slug: "trm-other-afflictions-of-the-self-new-york"
-id: "TRM-ENG-45910"
+id: "TRM-ENG-60439"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Other Afflictions of the Self New York"

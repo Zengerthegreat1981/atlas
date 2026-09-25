@@ -1,6 +1,6 @@
 ---
 slug: "trm-lewin-k-k-brief-encounters"
-id: "TRM-ENG-44490"
+id: "TRM-ENG-59019"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lewin, K. K., Brief Encounters"

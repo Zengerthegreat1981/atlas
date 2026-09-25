@@ -1,6 +1,6 @@
 ---
 slug: "trm-around-two-axes"
-id: "TRM-ENG-44049"
+id: "TRM-ENG-58578"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "around two axes"

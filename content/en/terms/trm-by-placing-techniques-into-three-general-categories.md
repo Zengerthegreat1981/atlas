@@ -1,6 +1,6 @@
 ---
 slug: "trm-by-placing-techniques-into-three-general-categories"
-id: "TRM-ENG-44983"
+id: "TRM-ENG-59512"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "by placing techniques into three general categories"

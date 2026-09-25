@@ -1,6 +1,6 @@
 ---
 slug: "trm-leipzig-university-1"
-id: "TRM-ENG-50669"
+id: "TRM-ENG-65198"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Leipzig University, 1"

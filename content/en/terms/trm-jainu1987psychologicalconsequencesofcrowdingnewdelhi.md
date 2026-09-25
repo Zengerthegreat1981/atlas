@@ -1,6 +1,6 @@
 ---
 slug: "trm-jainu1987psychologicalconsequencesofcrowdingnewdelhi"
-id: "TRM-ENG-36964"
+id: "TRM-ENG-66022"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jain,U.(1987).Psychologicalconsequencesofcrowding.NewDelhi"

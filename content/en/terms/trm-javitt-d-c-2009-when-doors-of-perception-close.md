@@ -1,6 +1,6 @@
 ---
 slug: "trm-javitt-d-c-2009-when-doors-of-perception-close"
-id: "TRM-ENG-44552"
+id: "TRM-ENG-59081"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Javitt, D. C. (2009). When doors of perception close"

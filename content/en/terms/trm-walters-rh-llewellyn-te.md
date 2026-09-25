@@ -1,6 +1,6 @@
 ---
 slug: "trm-walters-rh-llewellyn-te"
-id: "TRM-ENG-42710"
+id: "TRM-ENG-57239"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Walters RH, Llewellyn TE"

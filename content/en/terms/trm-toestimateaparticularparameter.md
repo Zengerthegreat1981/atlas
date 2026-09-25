@@ -1,6 +1,6 @@
 ---
 slug: "trm-toestimateaparticularparameter"
-id: "TRM-ENG-43943"
+id: "TRM-ENG-58472"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "toestimateaparticularparameter."

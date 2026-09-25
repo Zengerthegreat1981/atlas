@@ -1,6 +1,6 @@
 ---
 slug: "trm-753-berne-e"
-id: "TRM-ENG-39402"
+id: "TRM-ENG-53931"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "753. Berne E"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-sieber-j-e-1982-deception-in-social-research-i"
-id: "TRM-ENG-35561"
+id: "TRM-ENG-64619"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sieber, J. E. (1982). Deception in social research I"

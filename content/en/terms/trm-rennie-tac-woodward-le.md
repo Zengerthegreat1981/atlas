@@ -1,6 +1,6 @@
 ---
 slug: "trm-rennie-tac-woodward-le"
-id: "TRM-ENG-42096"
+id: "TRM-ENG-56625"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rennie TAC, Woodward LE"

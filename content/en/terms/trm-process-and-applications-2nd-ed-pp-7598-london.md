@@ -1,6 +1,6 @@
 ---
 slug: "trm-process-and-applications-2nd-ed-pp-7598-london"
-id: "TRM-ENG-46662"
+id: "TRM-ENG-61191"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Process and applications (2nd ed., pp 75±98). London"

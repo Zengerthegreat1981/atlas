@@ -1,6 +1,6 @@
 ---
 slug: "trm-inpatients-am-j-psychiatry-156"
-id: "TRM-ENG-48402"
+id: "TRM-ENG-62931"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "inpatients. Am J Psychiatry 156"

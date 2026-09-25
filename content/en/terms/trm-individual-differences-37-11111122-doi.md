@@ -1,6 +1,6 @@
 ---
 slug: "trm-individual-differences-37-11111122-doi"
-id: "TRM-ENG-43449"
+id: "TRM-ENG-57978"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Individual Differences, 37, 1111–1122. doi"

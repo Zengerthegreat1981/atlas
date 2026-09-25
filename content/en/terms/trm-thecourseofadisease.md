@@ -1,6 +1,6 @@
 ---
 slug: "trm-thecourseofadisease"
-id: "TRM-ENG-38317"
+id: "TRM-ENG-52846"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thecourseofadisease"

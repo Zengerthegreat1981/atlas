@@ -1,6 +1,6 @@
 ---
 slug: "trm-individual-psychology-1"
-id: "TRM-ENG-48179"
+id: "TRM-ENG-62708"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "individual psychology, 1"

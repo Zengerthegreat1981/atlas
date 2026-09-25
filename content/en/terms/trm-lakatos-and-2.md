@@ -1,6 +1,6 @@
 ---
 slug: "trm-lakatos-and-2"
-id: "TRM-ENG-46900"
+id: "TRM-ENG-61429"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lakatos and, 2"

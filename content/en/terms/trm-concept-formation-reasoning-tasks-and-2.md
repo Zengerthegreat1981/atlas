@@ -1,6 +1,6 @@
 ---
 slug: "trm-concept-formation-reasoning-tasks-and-2"
-id: "TRM-ENG-39631"
+id: "TRM-ENG-54160"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "concept formation, reasoning tasks and, 2"

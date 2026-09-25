@@ -1,6 +1,6 @@
 ---
 slug: "trm-blacks-tients"
-id: "TRM-ENG-34637"
+id: "TRM-ENG-49166"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Blacks. tients"

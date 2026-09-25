@@ -1,6 +1,6 @@
 ---
 slug: "trm-altshuler-im"
-id: "TRM-ENG-39676"
+id: "TRM-ENG-54205"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Altshuler IM"

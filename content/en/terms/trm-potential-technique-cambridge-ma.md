@@ -1,6 +1,6 @@
 ---
 slug: "trm-potential-technique-cambridge-ma"
-id: "TRM-ENG-36041"
+id: "TRM-ENG-65099"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "potential technique. Cambridge, MA"

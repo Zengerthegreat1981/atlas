@@ -1,6 +1,6 @@
 ---
 slug: "trm-ronmental-administrative-and-behavioral-strat-zerland"
-id: "TRM-ENG-46209"
+id: "TRM-ENG-60738"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ronmental, administrative, and behavioral strat- zerland"

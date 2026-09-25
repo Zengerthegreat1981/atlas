@@ -1,6 +1,6 @@
 ---
 slug: "trm-multitheoretical-psychotherapy-2"
-id: "TRM-ENG-50770"
+id: "TRM-ENG-65299"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Multitheoretical psychotherapy, 2"

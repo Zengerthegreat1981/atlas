@@ -1,6 +1,6 @@
 ---
 slug: "trm-freud-s"
-id: "TRM-ENG-40616"
+id: "TRM-ENG-55145"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Freud S"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-salter-a"
-id: "TRM-ENG-42223"
+id: "TRM-ENG-56752"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Salter A"

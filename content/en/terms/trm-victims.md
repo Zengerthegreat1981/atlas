@@ -1,6 +1,6 @@
 ---
 slug: "trm-victims"
-id: "TRM-ENG-35448"
+id: "TRM-ENG-64506"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "victims"

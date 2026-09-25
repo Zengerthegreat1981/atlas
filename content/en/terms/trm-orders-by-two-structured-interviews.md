@@ -1,6 +1,6 @@
 ---
 slug: "trm-orders-by-two-structured-interviews"
-id: "TRM-ENG-48503"
+id: "TRM-ENG-63032"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "orders by two structured interviews"

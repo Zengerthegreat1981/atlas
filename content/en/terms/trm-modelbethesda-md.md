@@ -1,6 +1,6 @@
 ---
 slug: "trm-modelbethesda-md"
-id: "TRM-ENG-36722"
+id: "TRM-ENG-65780"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "model.Bethesda, MD"

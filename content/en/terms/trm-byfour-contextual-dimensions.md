@@ -1,6 +1,6 @@
 ---
 slug: "trm-byfour-contextual-dimensions"
-id: "TRM-ENG-51316"
+id: "TRM-ENG-65845"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "byfour contextual dimensions"

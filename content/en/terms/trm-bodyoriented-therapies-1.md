@@ -1,6 +1,6 @@
 ---
 slug: "trm-bodyoriented-therapies-1"
-id: "TRM-ENG-51308"
+id: "TRM-ENG-65837"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "body-oriented therapies, 1"

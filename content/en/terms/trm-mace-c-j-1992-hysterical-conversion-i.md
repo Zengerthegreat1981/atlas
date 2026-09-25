@@ -1,6 +1,6 @@
 ---
 slug: "trm-mace-c-j-1992-hysterical-conversion-i"
-id: "TRM-ENG-49075"
+id: "TRM-ENG-63604"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mace, C. J. (1992). Hysterical conversion. I"

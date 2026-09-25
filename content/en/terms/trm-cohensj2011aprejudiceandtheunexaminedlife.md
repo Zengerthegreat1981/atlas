@@ -1,6 +1,6 @@
 ---
 slug: "trm-cohensj2011aprejudiceandtheunexaminedlife"
-id: "TRM-ENG-36702"
+id: "TRM-ENG-65760"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cohen,S.J.(2011a).Prejudiceandtheunexaminedlife"

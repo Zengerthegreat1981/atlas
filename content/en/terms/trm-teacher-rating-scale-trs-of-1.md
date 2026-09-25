@@ -1,6 +1,6 @@
 ---
 slug: "trm-teacher-rating-scale-trs-of-1"
-id: "TRM-ENG-38864"
+id: "TRM-ENG-53393"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Teacher Rating Scale (TRS) of, 1"

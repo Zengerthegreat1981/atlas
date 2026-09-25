@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-four-observation-points"
-id: "TRM-ENG-48636"
+id: "TRM-ENG-63165"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the four observation points"

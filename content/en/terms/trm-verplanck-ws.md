@@ -1,6 +1,6 @@
 ---
 slug: "trm-verplanck-ws"
-id: "TRM-ENG-42677"
+id: "TRM-ENG-57206"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Verplanck WS"

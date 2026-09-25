@@ -1,6 +1,6 @@
 ---
 slug: "trm-two-major-historical-events"
-id: "TRM-ENG-35435"
+id: "TRM-ENG-49964"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "two major historical events"

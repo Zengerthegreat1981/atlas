@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-community-psychology-37-120-doi"
-id: "TRM-ENG-35987"
+id: "TRM-ENG-65045"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of Community Psychology, 37, 1–20. doi"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp-137177-hillsdale-nj"
-id: "TRM-ENG-37444"
+id: "TRM-ENG-51973"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp. 137–177). Hillsdale, NJ"

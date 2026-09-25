@@ -1,6 +1,6 @@
 ---
 slug: "trm-gordon-allport-and-3"
-id: "TRM-ENG-38120"
+id: "TRM-ENG-52649"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gordon Allport and, 3"

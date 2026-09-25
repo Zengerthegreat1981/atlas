@@ -1,6 +1,6 @@
 ---
 slug: "trm-context-seriously-in-psychotherapy-research"
-id: "TRM-ENG-49365"
+id: "TRM-ENG-63894"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "context seriously in psychotherapy research"

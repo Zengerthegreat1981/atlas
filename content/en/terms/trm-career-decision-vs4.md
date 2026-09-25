@@ -1,6 +1,6 @@
 ---
 slug: "trm-career-decision-vs4"
-id: "TRM-ENG-39421"
+id: "TRM-ENG-53950"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "career decision vs.,4"

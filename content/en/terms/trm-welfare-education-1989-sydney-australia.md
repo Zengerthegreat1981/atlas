@@ -1,6 +1,6 @@
 ---
 slug: "trm-welfare-education-1989-sydney-australia"
-id: "TRM-ENG-47375"
+id: "TRM-ENG-61904"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "welfare education 1989. Sydney, Australia"

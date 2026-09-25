@@ -1,6 +1,6 @@
 ---
 slug: "trm-prescribed-medicines"
-id: "TRM-ENG-47209"
+id: "TRM-ENG-61738"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "prescribed medicines"

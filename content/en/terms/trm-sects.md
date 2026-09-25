@@ -1,6 +1,6 @@
 ---
 slug: "trm-sects"
-id: "TRM-ENG-45295"
+id: "TRM-ENG-59824"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sects"

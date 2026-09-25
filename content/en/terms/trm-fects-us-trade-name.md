@@ -1,6 +1,6 @@
 ---
 slug: "trm-fects-us-trade-name"
-id: "TRM-ENG-43650"
+id: "TRM-ENG-58179"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "fects. U.S. trade name"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-van-manen-m-1991-the-tact-of-teaching"
-id: "TRM-ENG-49010"
+id: "TRM-ENG-63539"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "van Manen, M. (1991). The tact of teaching"

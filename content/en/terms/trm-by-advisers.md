@@ -1,6 +1,6 @@
 ---
 slug: "trm-by-advisers"
-id: "TRM-ENG-39392"
+id: "TRM-ENG-53921"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "by advisers"

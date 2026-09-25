@@ -1,6 +1,6 @@
 ---
 slug: "trm-skrderud-f-2007-eating-ones-words"
-id: "TRM-ENG-42533"
+id: "TRM-ENG-57062"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Skårderud, F. (2007). Eating one’s words"

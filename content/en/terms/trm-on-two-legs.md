@@ -1,6 +1,6 @@
 ---
 slug: "trm-on-two-legs"
-id: "TRM-ENG-41029"
+id: "TRM-ENG-55558"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "on two legs"

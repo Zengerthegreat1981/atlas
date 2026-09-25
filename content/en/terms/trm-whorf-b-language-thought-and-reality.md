@@ -1,6 +1,6 @@
 ---
 slug: "trm-whorf-b-language-thought-and-reality"
-id: "TRM-ENG-44695"
+id: "TRM-ENG-59224"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Whorf, B., Language, Thought, and Reality"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-sigi-4"
-id: "TRM-ENG-37428"
+id: "TRM-ENG-51957"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(SIGI), 4"

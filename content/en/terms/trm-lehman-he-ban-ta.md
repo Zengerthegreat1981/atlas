@@ -1,6 +1,6 @@
 ---
 slug: "trm-lehman-he-ban-ta"
-id: "TRM-ENG-41393"
+id: "TRM-ENG-55922"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lehman HE, Ban TA"

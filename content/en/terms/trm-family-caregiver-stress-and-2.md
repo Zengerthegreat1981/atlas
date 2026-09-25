@@ -1,6 +1,6 @@
 ---
 slug: "trm-family-caregiver-stress-and-2"
-id: "TRM-ENG-40185"
+id: "TRM-ENG-54714"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "family, caregiver stress and, 2"

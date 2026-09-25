@@ -1,6 +1,6 @@
 ---
 slug: "trm-1991-flunarizine-in-migraine"
-id: "TRM-ENG-46302"
+id: "TRM-ENG-60831"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1991). Flunarizine in migraine"

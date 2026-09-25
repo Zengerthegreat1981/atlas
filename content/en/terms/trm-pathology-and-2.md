@@ -1,6 +1,6 @@
 ---
 slug: "trm-pathology-and-2"
-id: "TRM-ENG-41119"
+id: "TRM-ENG-55648"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pathology and, 2"

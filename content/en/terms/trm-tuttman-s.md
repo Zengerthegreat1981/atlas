@@ -1,6 +1,6 @@
 ---
 slug: "trm-tuttman-s"
-id: "TRM-ENG-48136"
+id: "TRM-ENG-62665"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tuttman S"

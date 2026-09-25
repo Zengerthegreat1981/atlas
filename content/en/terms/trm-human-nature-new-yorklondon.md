@@ -1,6 +1,6 @@
 ---
 slug: "trm-human-nature-new-yorklondon"
-id: "TRM-ENG-37825"
+id: "TRM-ENG-52354"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "human nature. New York/London"

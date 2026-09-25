@@ -1,6 +1,6 @@
 ---
 slug: "trm-436-stunkard-aj-stellar-e"
-id: "TRM-ENG-39025"
+id: "TRM-ENG-53554"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "436. Stunkard AJ, Stellar E"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-be-emphasized-that"
-id: "TRM-ENG-35685"
+id: "TRM-ENG-50214"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "be emphasized that"

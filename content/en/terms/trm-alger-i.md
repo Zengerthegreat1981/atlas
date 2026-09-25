@@ -1,6 +1,6 @@
 ---
 slug: "trm-alger-i"
-id: "TRM-ENG-39662"
+id: "TRM-ENG-54191"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Alger I"

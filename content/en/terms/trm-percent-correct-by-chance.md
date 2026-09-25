@@ -1,6 +1,6 @@
 ---
 slug: "trm-percent-correct-by-chance"
-id: "TRM-ENG-35483"
+id: "TRM-ENG-64541"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Percent correct by chance"

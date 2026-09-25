@@ -1,6 +1,6 @@
 ---
 slug: "trm-parker-francis-1"
-id: "TRM-ENG-47102"
+id: "TRM-ENG-61631"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Parker, Francis, 1"

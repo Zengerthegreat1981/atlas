@@ -1,6 +1,6 @@
 ---
 slug: "trm-clinical-interview-and-2"
-id: "TRM-ENG-39535"
+id: "TRM-ENG-54064"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "clinical interview and, 2"

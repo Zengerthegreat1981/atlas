@@ -1,6 +1,6 @@
 ---
 slug: "trm-fitchwt2005computationandcognition"
-id: "TRM-ENG-36796"
+id: "TRM-ENG-51325"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fitch,W.T.(2005).Computationandcognition"

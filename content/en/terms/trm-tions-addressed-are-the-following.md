@@ -1,6 +1,6 @@
 ---
 slug: "trm-tions-addressed-are-the-following"
-id: "TRM-ENG-48925"
+id: "TRM-ENG-63454"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tions addressed are the following"

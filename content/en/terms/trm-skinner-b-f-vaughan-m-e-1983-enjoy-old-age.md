@@ -1,6 +1,6 @@
 ---
 slug: "trm-skinner-b-f-vaughan-m-e-1983-enjoy-old-age"
-id: "TRM-ENG-38783"
+id: "TRM-ENG-53312"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Skinner, B. F., & Vaughan, M. E. (1983). Enjoy old age"

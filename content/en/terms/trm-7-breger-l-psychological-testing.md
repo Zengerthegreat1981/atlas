@@ -1,6 +1,6 @@
 ---
 slug: "trm-7-breger-l-psychological-testing"
-id: "TRM-ENG-44229"
+id: "TRM-ENG-58758"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "7. Breger, L., “Psychological Testing"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-goldberg-c"
-id: "TRM-ENG-40742"
+id: "TRM-ENG-55271"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goldberg C"

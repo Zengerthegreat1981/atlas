@@ -1,6 +1,6 @@
 ---
 slug: "trm-inhibition-in-retention"
-id: "TRM-ENG-37863"
+id: "TRM-ENG-66921"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "inhibition in retention"

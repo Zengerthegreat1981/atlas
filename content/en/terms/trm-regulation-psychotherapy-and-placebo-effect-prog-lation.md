@@ -1,6 +1,6 @@
 ---
 slug: "trm-regulation-psychotherapy-and-placebo-effect-prog-lation"
-id: "TRM-ENG-43174"
+id: "TRM-ENG-57703"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "regulation, psychotherapy, and placebo effect. Prog- lation"

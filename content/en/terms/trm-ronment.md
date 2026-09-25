@@ -1,6 +1,6 @@
 ---
 slug: "trm-ronment"
-id: "TRM-ENG-36945"
+id: "TRM-ENG-66003"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ronment"

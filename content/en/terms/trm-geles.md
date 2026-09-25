@@ -1,6 +1,6 @@
 ---
 slug: "trm-geles"
-id: "TRM-ENG-36480"
+id: "TRM-ENG-65538"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "geles"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-depression-scale-from-2"
-id: "TRM-ENG-37943"
+id: "TRM-ENG-67001"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Depression scale from, 2"

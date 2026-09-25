@@ -1,6 +1,6 @@
 ---
 slug: "trm-mind-body-in-the-healing-of-trauma-ny-new-york"
-id: "TRM-ENG-51605"
+id: "TRM-ENG-66134"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mind, body in the healing of trauma. NY, New York"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-health-psychology-doctoral-degree-and-1"
-id: "TRM-ENG-40360"
+id: "TRM-ENG-54889"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "health psychology doctoral degree and, 1"

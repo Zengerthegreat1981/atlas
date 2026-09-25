@@ -1,6 +1,6 @@
 ---
 slug: "trm-kazanjian-v-stein-s-weinberg-wl"
-id: "TRM-ENG-41217"
+id: "TRM-ENG-55746"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kazanjian V, Stein S, Weinberg WL"

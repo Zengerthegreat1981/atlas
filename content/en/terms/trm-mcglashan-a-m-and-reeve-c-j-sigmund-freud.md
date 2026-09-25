@@ -1,6 +1,6 @@
 ---
 slug: "trm-mcglashan-a-m-and-reeve-c-j-sigmund-freud"
-id: "TRM-ENG-44525"
+id: "TRM-ENG-59054"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "McGlashan, A. M., and Reeve, C. J., Sigmund Freud"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-beverly-hills-ca"
-id: "TRM-ENG-46311"
+id: "TRM-ENG-60840"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Beverly Hills, CA"

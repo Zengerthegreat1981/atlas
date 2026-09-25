@@ -1,6 +1,6 @@
 ---
 slug: "trm-sion-are-as-follows"
-id: "TRM-ENG-45516"
+id: "TRM-ENG-60045"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sion are as follows"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-432-darby-pl-garfinkel-pe-garner-dm-coscina-dv"
-id: "TRM-ENG-39021"
+id: "TRM-ENG-53550"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "432. Darby PL, Garfinkel PE, Garner DM, Coscina DV"

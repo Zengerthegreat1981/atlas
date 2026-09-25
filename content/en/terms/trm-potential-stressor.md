@@ -1,6 +1,6 @@
 ---
 slug: "trm-potential-stressor"
-id: "TRM-ENG-45248"
+id: "TRM-ENG-59777"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "potential stressor"

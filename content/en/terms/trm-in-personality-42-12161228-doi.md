@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-personality-42-12161228-doi"
-id: "TRM-ENG-43702"
+id: "TRM-ENG-58231"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in Personality, 42, 1216–1228. doi"

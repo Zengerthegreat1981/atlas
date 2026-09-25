@@ -1,6 +1,6 @@
 ---
 slug: "trm-garfinkel-harold-1"
-id: "TRM-ENG-46675"
+id: "TRM-ENG-61204"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Garfinkel, Harold, 1"

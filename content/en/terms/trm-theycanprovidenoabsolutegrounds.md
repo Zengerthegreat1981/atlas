@@ -1,6 +1,6 @@
 ---
 slug: "trm-theycanprovidenoabsolutegrounds"
-id: "TRM-ENG-43912"
+id: "TRM-ENG-58441"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theycanprovidenoabsolutegrounds"

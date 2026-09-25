@@ -1,6 +1,6 @@
 ---
 slug: "trm-henry-john-1"
-id: "TRM-ENG-46751"
+id: "TRM-ENG-61280"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Henry, John, 1"

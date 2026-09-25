@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-traditional-mexican-family-appear"
-id: "TRM-ENG-38309"
+id: "TRM-ENG-52838"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the traditional Mexican family appear"

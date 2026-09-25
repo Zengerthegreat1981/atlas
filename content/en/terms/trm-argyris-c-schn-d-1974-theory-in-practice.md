@@ -1,6 +1,6 @@
 ---
 slug: "trm-argyris-c-schn-d-1974-theory-in-practice"
-id: "TRM-ENG-46245"
+id: "TRM-ENG-60774"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Argyris, C., & Schön, D. (1974). Theory in practice"

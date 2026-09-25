@@ -1,6 +1,6 @@
 ---
 slug: "trm-2ndednewyork"
-id: "TRM-ENG-36405"
+id: "TRM-ENG-65463"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2nded.).NewYork"

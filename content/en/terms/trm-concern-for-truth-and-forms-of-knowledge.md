@@ -1,6 +1,6 @@
 ---
 slug: "trm-concern-for-truth-and-forms-of-knowledge"
-id: "TRM-ENG-47806"
+id: "TRM-ENG-62335"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "concern for truth and forms of knowledge"

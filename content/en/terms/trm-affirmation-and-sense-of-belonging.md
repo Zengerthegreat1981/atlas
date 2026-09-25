@@ -1,6 +1,6 @@
 ---
 slug: "trm-affirmation-and-sense-of-belonging"
-id: "TRM-ENG-34582"
+id: "TRM-ENG-49111"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(affirmation and sense of belonging)"

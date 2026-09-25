@@ -1,6 +1,6 @@
 ---
 slug: "trm-investment-schooling-as-1"
-id: "TRM-ENG-46821"
+id: "TRM-ENG-61350"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Investment, schooling as, 1"

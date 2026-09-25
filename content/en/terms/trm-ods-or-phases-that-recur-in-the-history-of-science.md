@@ -1,6 +1,6 @@
 ---
 slug: "trm-ods-or-phases-that-recur-in-the-history-of-science"
-id: "TRM-ENG-48420"
+id: "TRM-ENG-62949"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ods or phases that recur in the history of science"

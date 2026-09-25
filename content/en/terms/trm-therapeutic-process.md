@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapeutic-process"
-id: "TRM-ENG-51894"
+id: "TRM-ENG-66423"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapeutic process"

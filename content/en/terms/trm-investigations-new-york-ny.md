@@ -1,6 +1,6 @@
 ---
 slug: "trm-investigations-new-york-ny"
-id: "TRM-ENG-35888"
+id: "TRM-ENG-50417"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "investigations. New York, NY"

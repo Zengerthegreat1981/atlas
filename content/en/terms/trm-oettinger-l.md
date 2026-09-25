@@ -1,6 +1,6 @@
 ---
 slug: "trm-oettinger-l"
-id: "TRM-ENG-41864"
+id: "TRM-ENG-56393"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Oettinger L"

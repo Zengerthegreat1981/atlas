@@ -1,6 +1,6 @@
 ---
 slug: "trm-asjandeskaandkraimer2005argued"
-id: "TRM-ENG-36572"
+id: "TRM-ENG-65630"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "AsJandeskaandKraimer(2005)argued"

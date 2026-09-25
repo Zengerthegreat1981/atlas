@@ -1,6 +1,6 @@
 ---
 slug: "trm-direct-vsindirect-discrimination-and-2"
-id: "TRM-ENG-39939"
+id: "TRM-ENG-54468"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "direct vs.indirect discrimination and, 2"

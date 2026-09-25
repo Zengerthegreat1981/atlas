@@ -1,6 +1,6 @@
 ---
 slug: "trm-derogatis-lr-lipman-rs-covi-l"
-id: "TRM-ENG-40339"
+id: "TRM-ENG-54868"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Derogatis LR, Lipman RS, Covi L"

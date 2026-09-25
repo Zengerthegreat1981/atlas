@@ -1,6 +1,6 @@
 ---
 slug: "trm-mink-j-1996-the-basal-ganglia"
-id: "TRM-ENG-44627"
+id: "TRM-ENG-59156"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mink, J. (1996). The basal ganglia"

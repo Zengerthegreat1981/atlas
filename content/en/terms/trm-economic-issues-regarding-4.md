@@ -1,6 +1,6 @@
 ---
 slug: "trm-economic-issues-regarding-4"
-id: "TRM-ENG-39998"
+id: "TRM-ENG-54527"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "economic issues regarding, 4"

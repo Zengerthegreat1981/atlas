@@ -1,6 +1,6 @@
 ---
 slug: "trm-questions"
-id: "TRM-ENG-41396"
+id: "TRM-ENG-55925"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "questions"

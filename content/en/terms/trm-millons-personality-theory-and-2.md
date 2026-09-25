@@ -1,6 +1,6 @@
 ---
 slug: "trm-millons-personality-theory-and-2"
-id: "TRM-ENG-38429"
+id: "TRM-ENG-52958"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Millon’s personality theory and, 2"

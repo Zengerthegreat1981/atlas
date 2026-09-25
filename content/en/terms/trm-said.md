@@ -1,6 +1,6 @@
 ---
 slug: "trm-said"
-id: "TRM-ENG-46210"
+id: "TRM-ENG-60739"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "said"

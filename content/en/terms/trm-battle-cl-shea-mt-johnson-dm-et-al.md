@@ -1,6 +1,6 @@
 ---
 slug: "trm-battle-cl-shea-mt-johnson-dm-et-al"
-id: "TRM-ENG-47495"
+id: "TRM-ENG-62024"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Battle CL, Shea MT, Johnson DM, et al"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-statistical-inference-2"
-id: "TRM-ENG-44790"
+id: "TRM-ENG-59319"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Statistical Inference, 2"

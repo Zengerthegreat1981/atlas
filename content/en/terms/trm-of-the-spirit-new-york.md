@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-the-spirit-new-york"
-id: "TRM-ENG-51656"
+id: "TRM-ENG-66185"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of the spirit. New York"

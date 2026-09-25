@@ -1,6 +1,6 @@
 ---
 slug: "trm-journal-of-applied-psychology-82-no-4-august-1997"
-id: "TRM-ENG-45851"
+id: "TRM-ENG-60380"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Journal of Applied Psychology 82, no. 4 (August 1997)"

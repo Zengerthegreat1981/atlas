@@ -1,6 +1,6 @@
 ---
 slug: "trm-fulltime-employment-status-differences"
-id: "TRM-ENG-40261"
+id: "TRM-ENG-54790"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "full-time employment status differences"

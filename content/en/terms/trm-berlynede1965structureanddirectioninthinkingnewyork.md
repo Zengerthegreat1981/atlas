@@ -1,6 +1,6 @@
 ---
 slug: "trm-berlynede1965structureanddirectioninthinkingnewyork"
-id: "TRM-ENG-36608"
+id: "TRM-ENG-65666"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Berlyne,D.E.(1965).Structureanddirectioninthinking.NewYork"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-contrary-activities-2"
-id: "TRM-ENG-47827"
+id: "TRM-ENG-62356"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "contrary activities, 2"

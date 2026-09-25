@@ -1,6 +1,6 @@
 ---
 slug: "trm-sort-of-threat-to-survival-including-heart-disease-dia-is-not-coal"
-id: "TRM-ENG-41731"
+id: "TRM-ENG-56260"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sort of threat to survival, including heart disease, dia- is not coal"

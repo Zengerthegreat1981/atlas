@@ -1,6 +1,6 @@
 ---
 slug: "trm-practice-and-policywashington-dc"
-id: "TRM-ENG-41240"
+id: "TRM-ENG-55769"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "practice and policy.Washington, DC"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-indian-thought-1"
-id: "TRM-ENG-46800"
+id: "TRM-ENG-61329"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Indian thought, 1"

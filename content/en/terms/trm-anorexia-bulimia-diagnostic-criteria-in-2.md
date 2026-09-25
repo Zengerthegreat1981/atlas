@@ -1,6 +1,6 @@
 ---
 slug: "trm-anorexia-bulimia-diagnostic-criteria-in-2"
-id: "TRM-ENG-39206"
+id: "TRM-ENG-53735"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "anorexia, bulimia diagnostic criteria in, 2"

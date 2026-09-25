@@ -1,6 +1,6 @@
 ---
 slug: "trm-thy"
-id: "TRM-ENG-43328"
+id: "TRM-ENG-57857"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thy"

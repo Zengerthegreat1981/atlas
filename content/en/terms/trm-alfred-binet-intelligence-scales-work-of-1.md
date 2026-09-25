@@ -1,6 +1,6 @@
 ---
 slug: "trm-alfred-binet-intelligence-scales-work-of-1"
-id: "TRM-ENG-37570"
+id: "TRM-ENG-52099"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Alfred Binet, intelligence scales work of, 1"

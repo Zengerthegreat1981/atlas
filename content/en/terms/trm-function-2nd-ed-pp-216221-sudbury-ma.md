@@ -1,6 +1,6 @@
 ---
 slug: "trm-function-2nd-ed-pp-216221-sudbury-ma"
-id: "TRM-ENG-35825"
+id: "TRM-ENG-64883"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "function (2nd ed., pp. 216–221). Sudbury, MA"

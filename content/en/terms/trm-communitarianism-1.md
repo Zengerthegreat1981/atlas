@@ -1,6 +1,6 @@
 ---
 slug: "trm-communitarianism-1"
-id: "TRM-ENG-46439"
+id: "TRM-ENG-60968"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Communitarianism, 1"

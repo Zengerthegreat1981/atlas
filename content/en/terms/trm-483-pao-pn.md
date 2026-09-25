@@ -1,6 +1,6 @@
 ---
 slug: "trm-483-pao-pn"
-id: "TRM-ENG-39077"
+id: "TRM-ENG-53606"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "483. Pao PN"

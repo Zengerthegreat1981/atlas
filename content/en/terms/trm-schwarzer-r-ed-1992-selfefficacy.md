@@ -1,6 +1,6 @@
 ---
 slug: "trm-schwarzer-r-ed-1992-selfefficacy"
-id: "TRM-ENG-35948"
+id: "TRM-ENG-65006"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schwarzer, R. (Ed.). (1992). Self-efficacy"

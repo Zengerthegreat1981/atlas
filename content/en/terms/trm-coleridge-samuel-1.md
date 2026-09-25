@@ -1,6 +1,6 @@
 ---
 slug: "trm-coleridge-samuel-1"
-id: "TRM-ENG-46413"
+id: "TRM-ENG-60942"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Coleridge, Samuel, 1"

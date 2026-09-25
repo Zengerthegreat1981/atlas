@@ -1,6 +1,6 @@
 ---
 slug: "trm-training-design-delivery-and-4"
-id: "TRM-ENG-42003"
+id: "TRM-ENG-56532"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "training design, delivery and, 4"

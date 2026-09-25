@@ -1,6 +1,6 @@
 ---
 slug: "trm-nervoussystem"
-id: "TRM-ENG-43748"
+id: "TRM-ENG-58277"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nervoussystem"

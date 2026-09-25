@@ -1,6 +1,6 @@
 ---
 slug: "trm-perimental-psychologynew-york"
-id: "TRM-ENG-36852"
+id: "TRM-ENG-65910"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "perimental psychology.New York"

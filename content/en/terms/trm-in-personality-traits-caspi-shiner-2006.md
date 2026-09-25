@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-personality-traits-caspi-shiner-2006"
-id: "TRM-ENG-42892"
+id: "TRM-ENG-57421"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in personality traits (Caspi & Shiner, 2006)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-tone-languages-is-patterned"
-id: "TRM-ENG-45643"
+id: "TRM-ENG-60172"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tone languages is patterned"

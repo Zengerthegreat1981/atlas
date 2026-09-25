@@ -1,6 +1,6 @@
 ---
 slug: "trm-from-corrupt-cities-and-raw-villages"
-id: "TRM-ENG-48056"
+id: "TRM-ENG-62585"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "from corrupt cities and raw villages"

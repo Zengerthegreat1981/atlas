@@ -1,6 +1,6 @@
 ---
 slug: "trm-french-lm"
-id: "TRM-ENG-40611"
+id: "TRM-ENG-55140"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "French LM"

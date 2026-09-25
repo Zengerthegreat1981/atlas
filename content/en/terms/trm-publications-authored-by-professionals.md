@@ -1,6 +1,6 @@
 ---
 slug: "trm-publications-authored-by-professionals"
-id: "TRM-ENG-42505"
+id: "TRM-ENG-57034"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Publications authored by professionals"

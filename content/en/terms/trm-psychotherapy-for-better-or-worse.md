@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychotherapy-for-better-or-worse"
-id: "TRM-ENG-38645"
+id: "TRM-ENG-53174"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychotherapy for better or worse"

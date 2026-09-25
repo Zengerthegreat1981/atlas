@@ -1,6 +1,6 @@
 ---
 slug: "trm-eberwein-r-t-1984-film-the-dream-screen"
-id: "TRM-ENG-36759"
+id: "TRM-ENG-65817"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Eberwein, R. T. (1984). Film & the Dream Screen"

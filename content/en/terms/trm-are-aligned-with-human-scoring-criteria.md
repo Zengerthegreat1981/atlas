@@ -1,6 +1,6 @@
 ---
 slug: "trm-are-aligned-with-human-scoring-criteria"
-id: "TRM-ENG-35669"
+id: "TRM-ENG-64727"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "are aligned with human scoring criteria"

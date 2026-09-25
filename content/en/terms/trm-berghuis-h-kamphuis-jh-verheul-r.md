@@ -1,6 +1,6 @@
 ---
 slug: "trm-berghuis-h-kamphuis-jh-verheul-r"
-id: "TRM-ENG-47503"
+id: "TRM-ENG-62032"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Berghuis H, Kamphuis JH, Verheul R"

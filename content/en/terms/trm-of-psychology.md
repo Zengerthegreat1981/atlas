@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-psychology"
-id: "TRM-ENG-35173"
+id: "TRM-ENG-49702"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of psychology"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychology-116-618623-doi"
-id: "TRM-ENG-43532"
+id: "TRM-ENG-58061"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychology, 116, 618–623. doi"

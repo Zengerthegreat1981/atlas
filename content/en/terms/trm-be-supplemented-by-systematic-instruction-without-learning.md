@@ -1,6 +1,6 @@
 ---
 slug: "trm-be-supplemented-by-systematic-instruction-without-learning"
-id: "TRM-ENG-47686"
+id: "TRM-ENG-62215"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "be supplemented by systematic instruction. Without learning"

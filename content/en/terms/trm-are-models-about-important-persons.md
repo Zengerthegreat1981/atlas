@@ -1,6 +1,6 @@
 ---
 slug: "trm-are-models-about-important-persons"
-id: "TRM-ENG-42657"
+id: "TRM-ENG-57186"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "are models about important persons"

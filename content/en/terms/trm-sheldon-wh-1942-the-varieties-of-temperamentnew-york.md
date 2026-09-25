@@ -1,6 +1,6 @@
 ---
 slug: "trm-sheldon-wh-1942-the-varieties-of-temperamentnew-york"
-id: "TRM-ENG-35961"
+id: "TRM-ENG-50490"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sheldon, W.H. (1942). The varieties of temperament.New York"

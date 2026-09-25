@@ -1,6 +1,6 @@
 ---
 slug: "trm-direction-of-the-drive"
-id: "TRM-ENG-44986"
+id: "TRM-ENG-59515"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "direction of the drive"

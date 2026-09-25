@@ -1,6 +1,6 @@
 ---
 slug: "trm-alternative-therapies-albany-ny"
-id: "TRM-ENG-51221"
+id: "TRM-ENG-65750"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "alternative therapies. Albany, NY"

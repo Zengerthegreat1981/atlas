@@ -1,6 +1,6 @@
 ---
 slug: "trm-le-doeuff-m-1"
-id: "TRM-ENG-46917"
+id: "TRM-ENG-61446"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Le Doeuff, M., 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-803-barofsky-i-budson-rd-eds"
-id: "TRM-ENG-39462"
+id: "TRM-ENG-53991"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "803. Barofsky I, Budson RD (eds)"

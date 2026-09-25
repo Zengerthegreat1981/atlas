@@ -1,6 +1,6 @@
 ---
 slug: "trm-fieldspecific-capital-1"
-id: "TRM-ENG-48027"
+id: "TRM-ENG-62556"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "field-specific capital, 1"

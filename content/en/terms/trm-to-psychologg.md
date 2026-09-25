@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-psychologg"
-id: "TRM-ENG-35421"
+id: "TRM-ENG-64479"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to psychologg"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-coker-l-samuel-d-widiger-t"
-id: "TRM-ENG-47571"
+id: "TRM-ENG-62100"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Coker L, Samuel D, Widiger T"

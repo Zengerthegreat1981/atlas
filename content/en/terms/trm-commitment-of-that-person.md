@@ -1,6 +1,6 @@
 ---
 slug: "trm-commitment-of-that-person"
-id: "TRM-ENG-43588"
+id: "TRM-ENG-58117"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "commitment of that person."

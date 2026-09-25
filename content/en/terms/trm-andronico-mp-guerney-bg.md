@@ -1,6 +1,6 @@
 ---
 slug: "trm-andronico-mp-guerney-bg"
-id: "TRM-ENG-39700"
+id: "TRM-ENG-54229"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Andronico MP, Guerney BG"

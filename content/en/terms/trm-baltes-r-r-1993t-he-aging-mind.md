@@ -1,6 +1,6 @@
 ---
 slug: "trm-baltes-r-r-1993t-he-aging-mind"
-id: "TRM-ENG-34626"
+id: "TRM-ENG-49155"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Baltes, R R. (1993).T he aging mind"

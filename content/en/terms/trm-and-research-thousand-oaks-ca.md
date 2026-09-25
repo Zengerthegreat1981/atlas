@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-research-thousand-oaks-ca"
-id: "TRM-ENG-47617"
+id: "TRM-ENG-62146"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and research. Thousand Oaks, CA"

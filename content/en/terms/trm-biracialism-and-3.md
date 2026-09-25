@@ -1,6 +1,6 @@
 ---
 slug: "trm-biracialism-and-3"
-id: "TRM-ENG-39378"
+id: "TRM-ENG-53907"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "biracialism and, 3"

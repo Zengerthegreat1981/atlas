@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-psychopharmacology-of-aggressive-behavior"
-id: "TRM-ENG-42555"
+id: "TRM-ENG-57084"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The psychopharmacology of aggressive behavior"

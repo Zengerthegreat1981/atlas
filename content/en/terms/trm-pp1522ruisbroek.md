@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp1522ruisbroek"
-id: "TRM-ENG-46341"
+id: "TRM-ENG-60870"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp.15±22).Ruisbroek"

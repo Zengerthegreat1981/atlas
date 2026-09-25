@@ -1,6 +1,6 @@
 ---
 slug: "trm-collective-intention-2"
-id: "TRM-ENG-44391"
+id: "TRM-ENG-58920"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Collective intention, 2"

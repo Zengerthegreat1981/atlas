@@ -1,6 +1,6 @@
 ---
 slug: "trm-orectic"
-id: "TRM-ENG-52317"
+id: "TRM-ENG-66846"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Orectic"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-315-schmitt-fo-bird-sj-bloom-fe-eds"
-id: "TRM-ENG-38876"
+id: "TRM-ENG-53405"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "315. Schmitt FO, Bird SJ, Bloom FE (eds)"

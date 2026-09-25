@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychiatricdisorderinmenwithchroniclowbackpan"
-id: "TRM-ENG-47227"
+id: "TRM-ENG-61756"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychiatricdisorderinmenwithchroniclowbackpan"

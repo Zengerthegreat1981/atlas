@@ -1,6 +1,6 @@
 ---
 slug: "trm-loveandviolence"
-id: "TRM-ENG-49070"
+id: "TRM-ENG-63599"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Loveandviolence"

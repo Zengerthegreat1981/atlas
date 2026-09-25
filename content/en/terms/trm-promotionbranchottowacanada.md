@@ -1,6 +1,6 @@
 ---
 slug: "trm-promotionbranchottowacanada"
-id: "TRM-ENG-46665"
+id: "TRM-ENG-61194"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "PromotionBranch.Ottowa,Canada"

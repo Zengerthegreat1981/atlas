@@ -1,6 +1,6 @@
 ---
 slug: "trm-that-most-of-them-are-chronic-cases"
-id: "TRM-ENG-43195"
+id: "TRM-ENG-57724"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "that most of them are chronic cases"

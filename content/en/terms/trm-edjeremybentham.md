@@ -1,6 +1,6 @@
 ---
 slug: "trm-edjeremybentham"
-id: "TRM-ENG-46086"
+id: "TRM-ENG-60615"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "———,ed.JeremyBentham"

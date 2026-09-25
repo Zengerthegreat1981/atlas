@@ -1,6 +1,6 @@
 ---
 slug: "trm-windholz-g-1997-ivan-p-pavlov"
-id: "TRM-ENG-47497"
+id: "TRM-ENG-62026"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Windholz, G. (1997). Ivan P. Pavlov"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-zigler-e-phillips-l"
-id: "TRM-ENG-42915"
+id: "TRM-ENG-57444"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Zigler E, Phillips L"

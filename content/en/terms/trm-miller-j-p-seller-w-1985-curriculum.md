@@ -1,6 +1,6 @@
 ---
 slug: "trm-miller-j-p-seller-w-1985-curriculum"
-id: "TRM-ENG-46995"
+id: "TRM-ENG-61524"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Miller, J. P., & Seller, W. (1985). Curriculum"

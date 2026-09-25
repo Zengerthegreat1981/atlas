@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-dsmiii"
-id: "TRM-ENG-48390"
+id: "TRM-ENG-62919"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in DSM-III"

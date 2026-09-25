@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-a-and-1"
-id: "TRM-ENG-37506"
+id: "TRM-ENG-66564"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "A. A. and, 1"

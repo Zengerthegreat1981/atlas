@@ -1,6 +1,6 @@
 ---
 slug: "trm-eron-ld"
-id: "TRM-ENG-40469"
+id: "TRM-ENG-54998"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Eron LD"

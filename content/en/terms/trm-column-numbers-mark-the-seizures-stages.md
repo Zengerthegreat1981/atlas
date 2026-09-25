@@ -1,6 +1,6 @@
 ---
 slug: "trm-column-numbers-mark-the-seizures-stages"
-id: "TRM-ENG-34601"
+id: "TRM-ENG-63659"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Column numbers mark the seizure’s stages"

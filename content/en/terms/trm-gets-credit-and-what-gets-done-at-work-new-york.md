@@ -1,6 +1,6 @@
 ---
 slug: "trm-gets-credit-and-what-gets-done-at-work-new-york"
-id: "TRM-ENG-45825"
+id: "TRM-ENG-60354"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gets Credit and What Gets Done at Work (New York"

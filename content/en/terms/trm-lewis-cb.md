@@ -1,6 +1,6 @@
 ---
 slug: "trm-lewis-cb"
-id: "TRM-ENG-41443"
+id: "TRM-ENG-55972"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lewis CB"

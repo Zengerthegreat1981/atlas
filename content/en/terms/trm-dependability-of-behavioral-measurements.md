@@ -1,6 +1,6 @@
 ---
 slug: "trm-dependability-of-behavioral-measurements"
-id: "TRM-ENG-35361"
+id: "TRM-ENG-64419"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dependability of Behavioral Measurements"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-practice-of-modern-medicine-the-mind-and-body"
-id: "TRM-ENG-46199"
+id: "TRM-ENG-60728"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "practice of modern medicine, the mind and body"

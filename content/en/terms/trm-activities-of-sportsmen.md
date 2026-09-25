@@ -1,6 +1,6 @@
 ---
 slug: "trm-activities-of-sportsmen"
-id: "TRM-ENG-47548"
+id: "TRM-ENG-62077"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "activities of sportsmen"

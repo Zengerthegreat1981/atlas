@@ -1,6 +1,6 @@
 ---
 slug: "trm-vannoppenbpatomtmarslandrrasmussen-disorder"
-id: "TRM-ENG-49214"
+id: "TRM-ENG-63743"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "VanNoppen,B.,Pato,M.T.,Marsland,R.,&Rasmussen, disorder"

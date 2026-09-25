@@ -1,6 +1,6 @@
 ---
 slug: "trm-266-henisz-je"
-id: "TRM-ENG-38796"
+id: "TRM-ENG-53325"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "266. Henisz JE"

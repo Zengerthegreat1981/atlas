@@ -1,6 +1,6 @@
 ---
 slug: "trm-tgroup-n-fraining-group"
-id: "TRM-ENG-44018"
+id: "TRM-ENG-58547"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "T-group n. fraining group"

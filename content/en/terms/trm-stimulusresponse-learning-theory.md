@@ -1,6 +1,6 @@
 ---
 slug: "trm-stimulusresponse-learning-theory"
-id: "TRM-ENG-35984"
+id: "TRM-ENG-65042"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stimulus-response learning theory"

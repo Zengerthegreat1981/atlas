@@ -1,6 +1,6 @@
 ---
 slug: "trm-with-multiple-approaches-extant-data"
-id: "TRM-ENG-45696"
+id: "TRM-ENG-60225"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "with multiple approaches. Extant data"

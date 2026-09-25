@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-fearful-schema-is-built-that-minimizes-novelty-and-the-world"
-id: "TRM-ENG-34839"
+id: "TRM-ENG-49368"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "a fearful schema is built that minimizes novelty and the world"

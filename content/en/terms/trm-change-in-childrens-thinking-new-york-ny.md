@@ -1,6 +1,6 @@
 ---
 slug: "trm-change-in-childrens-thinking-new-york-ny"
-id: "TRM-ENG-44994"
+id: "TRM-ENG-59523"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "change in children’s thinking. New York, NY"

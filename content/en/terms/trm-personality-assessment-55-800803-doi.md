@@ -1,6 +1,6 @@
 ---
 slug: "trm-personality-assessment-55-800803-doi"
-id: "TRM-ENG-35485"
+id: "TRM-ENG-50014"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Personality Assessment, 55, 800–803. doi"

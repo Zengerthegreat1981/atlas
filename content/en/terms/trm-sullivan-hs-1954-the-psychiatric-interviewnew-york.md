@@ -1,6 +1,6 @@
 ---
 slug: "trm-sullivan-hs-1954-the-psychiatric-interviewnew-york"
-id: "TRM-ENG-35990"
+id: "TRM-ENG-65048"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sullivan, H.S. (1954). The psychiatric interview.New York"

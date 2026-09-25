@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychoneuroendocrinology-26-165173-doi"
-id: "TRM-ENG-35514"
+id: "TRM-ENG-64572"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychoneuroendocrinology, 26, 165–173. doi"

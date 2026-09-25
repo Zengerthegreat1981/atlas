@@ -1,6 +1,6 @@
 ---
 slug: "trm-rogers-cr-1975-empathic"
-id: "TRM-ENG-35931"
+id: "TRM-ENG-64989"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rogers, C.R. (1975). Empathic"

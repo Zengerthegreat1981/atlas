@@ -1,6 +1,6 @@
 ---
 slug: "trm-ellison-ralph-1"
-id: "TRM-ENG-46561"
+id: "TRM-ENG-61090"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ellison, Ralph, 1"

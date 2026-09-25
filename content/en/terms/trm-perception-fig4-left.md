@@ -1,6 +1,6 @@
 ---
 slug: "trm-perception-fig4-left"
-id: "TRM-ENG-37164"
+id: "TRM-ENG-51693"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Perception. Fig.4 Left"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-be-divided-into-three-stages"
-id: "TRM-ENG-37575"
+id: "TRM-ENG-52104"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "be divided into three stages"

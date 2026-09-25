@@ -1,6 +1,6 @@
 ---
 slug: "trm-crane-ge"
-id: "TRM-ENG-40258"
+id: "TRM-ENG-54787"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Crane GE"

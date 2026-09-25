@@ -1,6 +1,6 @@
 ---
 slug: "trm-aetiology"
-id: "TRM-ENG-52021"
+id: "TRM-ENG-66550"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Aetiology"

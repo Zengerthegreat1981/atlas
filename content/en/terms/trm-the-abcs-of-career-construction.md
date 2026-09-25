@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-abcs-of-career-construction"
-id: "TRM-ENG-41874"
+id: "TRM-ENG-56403"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the ABCs of career construction"

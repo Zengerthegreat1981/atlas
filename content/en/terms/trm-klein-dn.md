@@ -1,6 +1,6 @@
 ---
 slug: "trm-klein-dn"
-id: "TRM-ENG-47788"
+id: "TRM-ENG-62317"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Klein DN"

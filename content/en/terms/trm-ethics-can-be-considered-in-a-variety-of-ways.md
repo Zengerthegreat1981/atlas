@@ -1,6 +1,6 @@
 ---
 slug: "trm-ethics-can-be-considered-in-a-variety-of-ways"
-id: "TRM-ENG-38036"
+id: "TRM-ENG-67094"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ethics can be considered in a variety of ways"

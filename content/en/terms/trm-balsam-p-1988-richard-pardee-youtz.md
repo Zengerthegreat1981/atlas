@@ -1,6 +1,6 @@
 ---
 slug: "trm-balsam-p-1988-richard-pardee-youtz"
-id: "TRM-ENG-36588"
+id: "TRM-ENG-65646"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Balsam, P. (1988). Richard Pardee Youtz"

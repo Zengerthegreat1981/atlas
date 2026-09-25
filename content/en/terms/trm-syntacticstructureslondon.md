@@ -1,6 +1,6 @@
 ---
 slug: "trm-syntacticstructureslondon"
-id: "TRM-ENG-38496"
+id: "TRM-ENG-53025"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "● SyntacticStructures,London"

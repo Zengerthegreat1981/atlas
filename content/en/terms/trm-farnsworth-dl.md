@@ -1,6 +1,6 @@
 ---
 slug: "trm-farnsworth-dl"
-id: "TRM-ENG-40495"
+id: "TRM-ENG-55024"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Farnsworth DL"

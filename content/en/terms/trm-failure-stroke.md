@@ -1,6 +1,6 @@
 ---
 slug: "trm-failure-stroke"
-id: "TRM-ENG-42819"
+id: "TRM-ENG-57348"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "failure, stroke"

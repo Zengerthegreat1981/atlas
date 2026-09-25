@@ -1,6 +1,6 @@
 ---
 slug: "trm-luthe-w-autogenic-training"
-id: "TRM-ENG-44504"
+id: "TRM-ENG-59033"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Luthe, W., “Autogenic Training"

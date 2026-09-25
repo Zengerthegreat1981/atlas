@@ -1,6 +1,6 @@
 ---
 slug: "trm-influential"
-id: "TRM-ENG-48186"
+id: "TRM-ENG-62715"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "influential"

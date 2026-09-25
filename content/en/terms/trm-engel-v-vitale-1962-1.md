@@ -1,6 +1,6 @@
 ---
 slug: "trm-engel-v-vitale-1962-1"
-id: "TRM-ENG-46582"
+id: "TRM-ENG-61111"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Engel v. Vitale (1962), 1"

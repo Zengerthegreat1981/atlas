@@ -1,6 +1,6 @@
 ---
 slug: "trm-4-combined-and-joint-therapy"
-id: "TRM-ENG-38974"
+id: "TRM-ENG-53503"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "4. Combined and joint therapy"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-dissociation"
-id: "TRM-ENG-34984"
+id: "TRM-ENG-49513"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dissociation"

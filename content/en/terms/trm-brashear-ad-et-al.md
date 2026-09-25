@@ -1,6 +1,6 @@
 ---
 slug: "trm-brashear-ad-et-al"
-id: "TRM-ENG-40023"
+id: "TRM-ENG-54552"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brashear AD, et al"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-allows"
-id: "TRM-ENG-44884"
+id: "TRM-ENG-59413"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "allows"

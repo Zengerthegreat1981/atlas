@@ -1,6 +1,6 @@
 ---
 slug: "trm-plutchik-r-kellerman-h"
-id: "TRM-ENG-41990"
+id: "TRM-ENG-56519"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Plutchik R, Kellerman H"

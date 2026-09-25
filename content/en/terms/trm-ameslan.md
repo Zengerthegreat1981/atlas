@@ -1,6 +1,6 @@
 ---
 slug: "trm-ameslan"
-id: "TRM-ENG-52042"
+id: "TRM-ENG-66571"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ameslan"

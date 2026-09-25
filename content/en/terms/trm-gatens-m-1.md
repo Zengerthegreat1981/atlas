@@ -1,6 +1,6 @@
 ---
 slug: "trm-gatens-m-1"
-id: "TRM-ENG-46677"
+id: "TRM-ENG-61206"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gatens, M., 1"

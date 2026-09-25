@@ -1,6 +1,6 @@
 ---
 slug: "trm-2002-rethinking-feelings"
-id: "TRM-ENG-44248"
+id: "TRM-ENG-58777"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2002). Rethinking feelings"

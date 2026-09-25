@@ -1,6 +1,6 @@
 ---
 slug: "trm-attachment-theory-and-4"
-id: "TRM-ENG-39284"
+id: "TRM-ENG-53813"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "attachment theory and, 4"

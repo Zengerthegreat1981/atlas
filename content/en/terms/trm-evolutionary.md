@@ -1,6 +1,6 @@
 ---
 slug: "trm-evolutionary"
-id: "TRM-ENG-34830"
+id: "TRM-ENG-63888"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "evolutionary"

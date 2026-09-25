@@ -1,6 +1,6 @@
 ---
 slug: "trm-27-to-55-within-1-year-with-only-one-study-reporting-a-childhood-ii"
-id: "TRM-ENG-35548"
+id: "TRM-ENG-50077"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "27% to 55% within 1 year (with only one study reporting a childhood II"

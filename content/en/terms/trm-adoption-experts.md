@@ -1,6 +1,6 @@
 ---
 slug: "trm-adoption-experts"
-id: "TRM-ENG-44868"
+id: "TRM-ENG-59397"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "adoption experts"

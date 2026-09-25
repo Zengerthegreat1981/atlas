@@ -1,6 +1,6 @@
 ---
 slug: "trm-ritalin"
-id: "TRM-ENG-38520"
+id: "TRM-ENG-53049"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Ritalin"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-personality-that-stand-out"
-id: "TRM-ENG-43798"
+id: "TRM-ENG-58327"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "personality that stand out"

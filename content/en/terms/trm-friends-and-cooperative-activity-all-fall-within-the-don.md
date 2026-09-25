@@ -1,6 +1,6 @@
 ---
 slug: "trm-friends-and-cooperative-activity-all-fall-within-the-don"
-id: "TRM-ENG-45907"
+id: "TRM-ENG-60436"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "friends, and cooperative activity all fall within the don"

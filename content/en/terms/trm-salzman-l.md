@@ -1,6 +1,6 @@
 ---
 slug: "trm-salzman-l"
-id: "TRM-ENG-42225"
+id: "TRM-ENG-56754"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Salzman L"

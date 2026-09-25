@@ -1,6 +1,6 @@
 ---
 slug: "trm-attitudes"
-id: "TRM-ENG-44943"
+id: "TRM-ENG-59472"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "attitudes"

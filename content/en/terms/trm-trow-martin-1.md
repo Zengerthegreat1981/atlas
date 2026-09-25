@@ -1,6 +1,6 @@
 ---
 slug: "trm-trow-martin-1"
-id: "TRM-ENG-47426"
+id: "TRM-ENG-61955"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Trow, Martin, 1"

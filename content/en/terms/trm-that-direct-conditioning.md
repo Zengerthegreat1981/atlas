@@ -1,6 +1,6 @@
 ---
 slug: "trm-that-direct-conditioning"
-id: "TRM-ENG-46230"
+id: "TRM-ENG-60759"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "that direct conditioning"

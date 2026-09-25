@@ -1,6 +1,6 @@
 ---
 slug: "trm-ther-35-no-1-1997"
-id: "TRM-ENG-45975"
+id: "TRM-ENG-60504"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ther. 35, no. 1 (1997)"

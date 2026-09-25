@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-which-childhood-is-not-to-be-known"
-id: "TRM-ENG-48170"
+id: "TRM-ENG-62699"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in which childhood is not to be known"

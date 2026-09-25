@@ -1,6 +1,6 @@
 ---
 slug: "trm-horwitz-l-gabbard-go-allen-jg-et-al"
-id: "TRM-ENG-47738"
+id: "TRM-ENG-62267"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Horwitz L, Gabbard GO, Allen JG, et al"

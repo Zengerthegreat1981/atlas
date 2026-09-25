@@ -1,6 +1,6 @@
 ---
 slug: "trm-against-living-vicariously-through-her-children"
-id: "TRM-ENG-47563"
+id: "TRM-ENG-62092"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "against living vicariously through her children"

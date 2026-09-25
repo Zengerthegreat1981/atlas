@@ -1,6 +1,6 @@
 ---
 slug: "trm-premises-first-having-beliefs"
-id: "TRM-ENG-45434"
+id: "TRM-ENG-59963"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "premises. First, having beliefs"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-oswego-movement-2"
-id: "TRM-ENG-47086"
+id: "TRM-ENG-61615"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Oswego Movement, 2"

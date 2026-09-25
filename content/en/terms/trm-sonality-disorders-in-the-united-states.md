@@ -1,6 +1,6 @@
 ---
 slug: "trm-sonality-disorders-in-the-united-states"
-id: "TRM-ENG-48596"
+id: "TRM-ENG-63125"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sonality disorders in the United States"

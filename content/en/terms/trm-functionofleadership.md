@@ -1,6 +1,6 @@
 ---
 slug: "trm-functionofleadership"
-id: "TRM-ENG-43667"
+id: "TRM-ENG-58196"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "functionofleadership."

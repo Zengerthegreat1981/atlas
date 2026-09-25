@@ -1,6 +1,6 @@
 ---
 slug: "trm-daniels-mark-1"
-id: "TRM-ENG-46478"
+id: "TRM-ENG-61007"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Daniels, Mark, 1"

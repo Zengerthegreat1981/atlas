@@ -1,6 +1,6 @@
 ---
 slug: "trm-giousfunctionofthepsychenewyork"
-id: "TRM-ENG-37796"
+id: "TRM-ENG-52325"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "giousfunctionofthepsyche.NewYork"

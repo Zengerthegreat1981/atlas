@@ -1,6 +1,6 @@
 ---
 slug: "trm-pliance-a5"
-id: "TRM-ENG-43800"
+id: "TRM-ENG-58329"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pliance, A5"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-iatrophysics"
-id: "TRM-ENG-45088"
+id: "TRM-ENG-59617"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "iatrophysics"

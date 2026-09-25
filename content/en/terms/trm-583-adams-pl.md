@@ -1,6 +1,6 @@
 ---
 slug: "trm-583-adams-pl"
-id: "TRM-ENG-39197"
+id: "TRM-ENG-53726"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "583. Adams PL"

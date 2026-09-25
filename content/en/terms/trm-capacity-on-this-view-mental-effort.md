@@ -1,6 +1,6 @@
 ---
 slug: "trm-capacity-on-this-view-mental-effort"
-id: "TRM-ENG-44988"
+id: "TRM-ENG-59517"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "capacity. On this view, mental effort"

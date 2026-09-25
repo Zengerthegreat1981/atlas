@@ -1,6 +1,6 @@
 ---
 slug: "trm-applied-in-education-1"
-id: "TRM-ENG-47639"
+id: "TRM-ENG-62168"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "applied in education, 1"

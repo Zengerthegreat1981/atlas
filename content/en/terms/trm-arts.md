@@ -1,6 +1,6 @@
 ---
 slug: "trm-arts"
-id: "TRM-ENG-37617"
+id: "TRM-ENG-52146"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Arts"

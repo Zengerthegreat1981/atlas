@@ -1,6 +1,6 @@
 ---
 slug: "trm-463-grinker-rr-werble-b"
-id: "TRM-ENG-39055"
+id: "TRM-ENG-53584"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "463. Grinker RR, Werble B"

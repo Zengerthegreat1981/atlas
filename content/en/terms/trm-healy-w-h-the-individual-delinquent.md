@@ -1,6 +1,6 @@
 ---
 slug: "trm-healy-w-h-the-individual-delinquent"
-id: "TRM-ENG-44435"
+id: "TRM-ENG-58964"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Healy, W. H., The Individual Delinquent"

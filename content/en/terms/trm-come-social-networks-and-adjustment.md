@@ -1,6 +1,6 @@
 ---
 slug: "trm-come-social-networks-and-adjustment"
-id: "TRM-ENG-42737"
+id: "TRM-ENG-57266"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "come, social networks and adjustment"

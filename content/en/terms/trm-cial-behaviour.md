@@ -1,6 +1,6 @@
 ---
 slug: "trm-cial-behaviour"
-id: "TRM-ENG-42728"
+id: "TRM-ENG-57257"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cial behaviour"

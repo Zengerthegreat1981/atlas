@@ -1,6 +1,6 @@
 ---
 slug: "trm-602223-principle-3"
-id: "TRM-ENG-48865"
+id: "TRM-ENG-63394"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "6.02.2.2.3 Principle 3"

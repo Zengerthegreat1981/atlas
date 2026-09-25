@@ -1,6 +1,6 @@
 ---
 slug: "trm-spitzer-rl-endicott-j-fleiss-rl-cohen-j"
-id: "TRM-ENG-42431"
+id: "TRM-ENG-56960"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spitzer RL, Endicott J, Fleiss, RL, Cohen J"

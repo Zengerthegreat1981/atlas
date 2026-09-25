@@ -1,6 +1,6 @@
 ---
 slug: "trm-mecl-66"
-id: "TRM-ENG-44530"
+id: "TRM-ENG-59059"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mecl., 66"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-selfdisclosure-by-therapist-and-1"
-id: "TRM-ENG-41600"
+id: "TRM-ENG-56129"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "self-disclosure by therapist and, 1"

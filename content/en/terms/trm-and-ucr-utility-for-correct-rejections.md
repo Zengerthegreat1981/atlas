@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-ucr-utility-for-correct-rejections"
-id: "TRM-ENG-35646"
+id: "TRM-ENG-64704"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and UCR = utility for correct rejections)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-smith-c-1991-smoking-among-young-people"
-id: "TRM-ENG-46716"
+id: "TRM-ENG-61245"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Smith, C. (1991). Smoking among young people"

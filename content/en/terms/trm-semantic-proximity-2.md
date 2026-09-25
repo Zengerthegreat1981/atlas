@@ -1,6 +1,6 @@
 ---
 slug: "trm-semantic-proximity-2"
-id: "TRM-ENG-45506"
+id: "TRM-ENG-60035"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "semantic proximity, 2"

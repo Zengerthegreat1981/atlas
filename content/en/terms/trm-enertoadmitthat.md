@@ -1,6 +1,6 @@
 ---
 slug: "trm-enertoadmitthat"
-id: "TRM-ENG-37725"
+id: "TRM-ENG-66783"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "enertoadmitthat"

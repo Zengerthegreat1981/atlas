@@ -1,6 +1,6 @@
 ---
 slug: "trm-360-zigler-e-glick-m"
-id: "TRM-ENG-38929"
+id: "TRM-ENG-53458"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "360. Zigler E, Glick M"

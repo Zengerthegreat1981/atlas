@@ -1,6 +1,6 @@
 ---
 slug: "trm-inasinglesentence"
-id: "TRM-ENG-49486"
+id: "TRM-ENG-64015"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "inasinglesentence"

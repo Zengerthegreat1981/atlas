@@ -1,6 +1,6 @@
 ---
 slug: "trm-saul-lj-beck-at"
-id: "TRM-ENG-42248"
+id: "TRM-ENG-56777"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Saul LJ, Beck AT"

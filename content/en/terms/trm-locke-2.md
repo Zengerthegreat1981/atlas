@@ -1,6 +1,6 @@
 ---
 slug: "trm-locke-2"
-id: "TRM-ENG-46944"
+id: "TRM-ENG-61473"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Locke, 2"

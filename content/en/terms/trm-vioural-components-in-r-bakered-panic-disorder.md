@@ -1,6 +1,6 @@
 ---
 slug: "trm-vioural-components-in-r-bakered-panic-disorder"
-id: "TRM-ENG-49823"
+id: "TRM-ENG-64352"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "vioural components. In R. Baker(Ed.), Panic disorder"

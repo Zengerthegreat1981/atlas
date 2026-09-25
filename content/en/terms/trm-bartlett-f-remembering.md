@@ -1,6 +1,6 @@
 ---
 slug: "trm-bartlett-f-remembering"
-id: "TRM-ENG-44275"
+id: "TRM-ENG-58804"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bartlett, F., Remembering"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-peacocke-c-1992-a-study-of-concepts-cambridge-ma"
-id: "TRM-ENG-44675"
+id: "TRM-ENG-59204"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Peacocke, C. (1992). A study of concepts. Cambridge, MA"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-education-abington-ma"
-id: "TRM-ENG-47928"
+id: "TRM-ENG-62457"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "education. Abington, MA"

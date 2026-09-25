@@ -1,6 +1,6 @@
 ---
 slug: "trm-bloch-r-norman-g-2011-gstring"
-id: "TRM-ENG-35322"
+id: "TRM-ENG-64380"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bloch, R., & Norman, G. (2011). G_String"

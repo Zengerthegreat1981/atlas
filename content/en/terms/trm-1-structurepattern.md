@@ -1,6 +1,6 @@
 ---
 slug: "trm-1-structurepattern"
-id: "TRM-ENG-37461"
+id: "TRM-ENG-66519"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1. Structure/pattern"

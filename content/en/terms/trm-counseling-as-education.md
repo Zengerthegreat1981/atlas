@@ -1,6 +1,6 @@
 ---
 slug: "trm-counseling-as-education"
-id: "TRM-ENG-35632"
+id: "TRM-ENG-64690"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Counseling as education"

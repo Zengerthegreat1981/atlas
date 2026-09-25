@@ -1,6 +1,6 @@
 ---
 slug: "trm-by-physics"
-id: "TRM-ENG-44982"
+id: "TRM-ENG-59511"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "by physics"

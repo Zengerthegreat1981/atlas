@@ -1,6 +1,6 @@
 ---
 slug: "trm-trimble-m-k-ryyr-the-psychoses-of-epilepsy-new-york"
-id: "TRM-ENG-34816"
+id: "TRM-ENG-49345"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Trimble. M. K. (ryyr). The psychoses of epilepsy. New York"

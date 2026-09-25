@@ -1,6 +1,6 @@
 ---
 slug: "trm-schools-in-this-case"
-id: "TRM-ENG-48678"
+id: "TRM-ENG-63207"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "schools in this case"

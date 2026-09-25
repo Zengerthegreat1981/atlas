@@ -1,6 +1,6 @@
 ---
 slug: "trm-forms-of-sexual-dysfunction"
-id: "TRM-ENG-43659"
+id: "TRM-ENG-58188"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "forms of sexual dysfunction"

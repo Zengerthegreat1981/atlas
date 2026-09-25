@@ -1,6 +1,6 @@
 ---
 slug: "trm-critiques-of-folk-psychology-by-1"
-id: "TRM-ENG-45044"
+id: "TRM-ENG-59573"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "critiques of folk psychology by, 1"

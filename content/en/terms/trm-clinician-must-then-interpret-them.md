@@ -1,6 +1,6 @@
 ---
 slug: "trm-clinician-must-then-interpret-them"
-id: "TRM-ENG-36294"
+id: "TRM-ENG-50823"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "clinician must then interpret them"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-anddentistry"
-id: "TRM-ENG-46819"
+id: "TRM-ENG-61348"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "anddentistry"

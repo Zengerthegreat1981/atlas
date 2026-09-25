@@ -1,6 +1,6 @@
 ---
 slug: "trm-cations-2nd-ed-mahwah-nj"
-id: "TRM-ENG-35706"
+id: "TRM-ENG-50235"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cations (2nd ed.). Mahwah, NJ"

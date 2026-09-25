@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-conceptual-thesis-significantly-narrows-its-scope"
-id: "TRM-ENG-48831"
+id: "TRM-ENG-63360"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the conceptual thesis significantly narrows its scope"

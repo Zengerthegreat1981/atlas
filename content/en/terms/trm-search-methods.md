@@ -1,6 +1,6 @@
 ---
 slug: "trm-search-methods"
-id: "TRM-ENG-36961"
+id: "TRM-ENG-66019"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "search methods"

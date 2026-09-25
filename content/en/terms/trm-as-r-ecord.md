@@ -1,6 +1,6 @@
 ---
 slug: "trm-as-r-ecord"
-id: "TRM-ENG-44930"
+id: "TRM-ENG-59459"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "as r ecord"

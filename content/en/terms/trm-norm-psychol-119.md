@@ -1,6 +1,6 @@
 ---
 slug: "trm-norm-psychol-119"
-id: "TRM-ENG-48469"
+id: "TRM-ENG-62998"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "norm Psychol 119"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-wernicke-carl-2"
-id: "TRM-ENG-51172"
+id: "TRM-ENG-65701"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wernicke, Carl, 2"

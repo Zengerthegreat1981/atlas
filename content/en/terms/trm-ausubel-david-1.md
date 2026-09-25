@@ -1,6 +1,6 @@
 ---
 slug: "trm-ausubel-david-1"
-id: "TRM-ENG-46266"
+id: "TRM-ENG-60795"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ausubel, David, 1"

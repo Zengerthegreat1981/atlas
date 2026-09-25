@@ -1,6 +1,6 @@
 ---
 slug: "trm-administration-and-efficacy-of-nicotine-gum"
-id: "TRM-ENG-46786"
+id: "TRM-ENG-61315"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "administration and efficacy of nicotine gum"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-totalism"
-id: "TRM-ENG-48960"
+id: "TRM-ENG-63489"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "totalism"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-gration-new-york"
-id: "TRM-ENG-42857"
+id: "TRM-ENG-57386"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "gration. New York"

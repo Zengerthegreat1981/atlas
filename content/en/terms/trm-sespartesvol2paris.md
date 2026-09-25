@@ -1,6 +1,6 @@
 ---
 slug: "trm-sespartesvol2paris"
-id: "TRM-ENG-38245"
+id: "TRM-ENG-52774"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sesPartes(Vol.2).Paris"

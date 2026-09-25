@@ -1,6 +1,6 @@
 ---
 slug: "trm-processing-speed-composite-score-and-4"
-id: "TRM-ENG-41291"
+id: "TRM-ENG-55820"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "processing speed composite score and, 4"

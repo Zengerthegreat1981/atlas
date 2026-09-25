@@ -1,6 +1,6 @@
 ---
 slug: "trm-an-experiment-would-support-valid-inferences"
-id: "TRM-ENG-47578"
+id: "TRM-ENG-62107"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "an experiment would support valid inferences"

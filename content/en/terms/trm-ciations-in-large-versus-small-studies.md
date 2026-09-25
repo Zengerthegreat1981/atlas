@@ -1,6 +1,6 @@
 ---
 slug: "trm-ciations-in-large-versus-small-studies"
-id: "TRM-ENG-42732"
+id: "TRM-ENG-57261"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ciations in large versus small studies"

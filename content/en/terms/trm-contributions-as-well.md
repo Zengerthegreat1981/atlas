@@ -1,6 +1,6 @@
 ---
 slug: "trm-contributions-as-well"
-id: "TRM-ENG-47828"
+id: "TRM-ENG-62357"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "contributions as well"

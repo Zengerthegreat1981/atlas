@@ -1,6 +1,6 @@
 ---
 slug: "trm-sentativeofapathologicalgambler"
-id: "TRM-ENG-49698"
+id: "TRM-ENG-64227"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sentativeofapathologicalgambler"

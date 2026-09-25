@@ -1,6 +1,6 @@
 ---
 slug: "trm-jensennelson-k"
-id: "TRM-ENG-41127"
+id: "TRM-ENG-55656"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jensen-Nelson K"

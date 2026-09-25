@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-self-in-t-mischel-ed-the-self"
-id: "TRM-ENG-43311"
+id: "TRM-ENG-57840"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the “self.” In T. Mischel (Ed.), The self"

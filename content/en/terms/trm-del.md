@@ -1,6 +1,6 @@
 ---
 slug: "trm-del"
-id: "TRM-ENG-40291"
+id: "TRM-ENG-54820"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "DEL"

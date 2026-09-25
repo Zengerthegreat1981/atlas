@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-use-of-two-major-approaches"
-id: "TRM-ENG-41899"
+id: "TRM-ENG-56428"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the use of two major approaches"

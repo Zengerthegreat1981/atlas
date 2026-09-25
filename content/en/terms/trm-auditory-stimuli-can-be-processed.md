@@ -1,6 +1,6 @@
 ---
 slug: "trm-auditory-stimuli-can-be-processed"
-id: "TRM-ENG-44945"
+id: "TRM-ENG-59474"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "auditory stimuli can be processed"

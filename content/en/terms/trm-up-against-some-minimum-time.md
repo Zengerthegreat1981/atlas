@@ -1,6 +1,6 @@
 ---
 slug: "trm-up-against-some-minimum-time"
-id: "TRM-ENG-36228"
+id: "TRM-ENG-65286"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "up against some minimum time)"

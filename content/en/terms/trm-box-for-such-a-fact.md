@@ -1,6 +1,6 @@
 ---
 slug: "trm-box-for-such-a-fact"
-id: "TRM-ENG-47709"
+id: "TRM-ENG-62238"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "box” for such a fact"

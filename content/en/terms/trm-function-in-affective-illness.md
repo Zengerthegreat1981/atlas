@@ -1,6 +1,6 @@
 ---
 slug: "trm-function-in-affective-illness"
-id: "TRM-ENG-49450"
+id: "TRM-ENG-63979"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "function in affective illness"

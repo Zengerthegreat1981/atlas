@@ -1,6 +1,6 @@
 ---
 slug: "trm-bateman-a-fonagy-p"
-id: "TRM-ENG-47493"
+id: "TRM-ENG-62022"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bateman A, Fonagy P"

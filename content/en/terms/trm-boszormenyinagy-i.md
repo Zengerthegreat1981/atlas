@@ -1,6 +1,6 @@
 ---
 slug: "trm-boszormenyinagy-i"
-id: "TRM-ENG-39994"
+id: "TRM-ENG-54523"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Boszormenyi-Nagy I"

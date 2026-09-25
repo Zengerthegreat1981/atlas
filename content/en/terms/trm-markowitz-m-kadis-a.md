@@ -1,6 +1,6 @@
 ---
 slug: "trm-markowitz-m-kadis-a"
-id: "TRM-ENG-41585"
+id: "TRM-ENG-56114"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Markowitz M, Kadis A"

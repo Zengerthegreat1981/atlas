@@ -1,6 +1,6 @@
 ---
 slug: "trm-varioustherapeuticinterventions"
-id: "TRM-ENG-43963"
+id: "TRM-ENG-58492"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "varioustherapeuticinterventions"

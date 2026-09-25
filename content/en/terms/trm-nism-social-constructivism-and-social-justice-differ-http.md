@@ -1,6 +1,6 @@
 ---
 slug: "trm-nism-social-constructivism-and-social-justice-differ-http"
-id: "TRM-ENG-40954"
+id: "TRM-ENG-55483"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nism, social constructivism, and social justice) differ- http"

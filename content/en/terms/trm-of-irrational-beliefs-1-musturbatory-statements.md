@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-irrational-beliefs-1-musturbatory-statements"
-id: "TRM-ENG-41002"
+id: "TRM-ENG-55531"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of irrational beliefs: (1) “musturbatory” statements"

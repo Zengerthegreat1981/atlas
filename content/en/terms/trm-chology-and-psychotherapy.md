@@ -1,6 +1,6 @@
 ---
 slug: "trm-chology-and-psychotherapy"
-id: "TRM-ENG-42721"
+id: "TRM-ENG-57250"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chology and Psychotherapy"

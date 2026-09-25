@@ -1,6 +1,6 @@
 ---
 slug: "trm-protect-organs-and-system-by-2"
-id: "TRM-ENG-41318"
+id: "TRM-ENG-55847"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "protect organs and system by, 2"

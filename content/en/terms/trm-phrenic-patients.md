@@ -1,6 +1,6 @@
 ---
 slug: "trm-phrenic-patients"
-id: "TRM-ENG-36858"
+id: "TRM-ENG-65916"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "phrenic patients"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-their-species-by-their-own-efforts-they-resemble-altricial-their-fathers"
-id: "TRM-ENG-37139"
+id: "TRM-ENG-66197"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "their species by their own efforts, they resemble altricial their fathers"

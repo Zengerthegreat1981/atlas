@@ -1,6 +1,6 @@
 ---
 slug: "trm-wallonh1945lesoriginesdelapenseechezlenfantparis"
-id: "TRM-ENG-37413"
+id: "TRM-ENG-66471"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wallon,H.(1945).Lesoriginesdelapense´echezl’enfant.Paris"

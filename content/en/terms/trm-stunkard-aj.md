@@ -1,6 +1,6 @@
 ---
 slug: "trm-stunkard-aj"
-id: "TRM-ENG-42516"
+id: "TRM-ENG-57045"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stunkard AJ"

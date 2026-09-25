@@ -1,6 +1,6 @@
 ---
 slug: "trm-leyr1985bbloodbreathandfears"
-id: "TRM-ENG-49061"
+id: "TRM-ENG-63590"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ley,R.(1985b).Blood,breathandfears"

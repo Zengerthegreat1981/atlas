@@ -1,6 +1,6 @@
 ---
 slug: "trm-short-descriptions-of-1"
-id: "TRM-ENG-51820"
+id: "TRM-ENG-66349"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "short descriptions of, 1"

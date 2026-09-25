@@ -1,6 +1,6 @@
 ---
 slug: "trm-tion-and-the-gay-community"
-id: "TRM-ENG-47342"
+id: "TRM-ENG-61871"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tion and the gay community"

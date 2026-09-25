@@ -1,6 +1,6 @@
 ---
 slug: "trm-lowing"
-id: "TRM-ENG-36651"
+id: "TRM-ENG-65709"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lowing"

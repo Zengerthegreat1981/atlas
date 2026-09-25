@@ -1,6 +1,6 @@
 ---
 slug: "trm-stuart-gw-sundeen-sj"
-id: "TRM-ENG-42511"
+id: "TRM-ENG-57040"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stuart GW, Sundeen SJ"

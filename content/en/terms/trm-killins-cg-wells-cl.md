@@ -1,6 +1,6 @@
 ---
 slug: "trm-killins-cg-wells-cl"
-id: "TRM-ENG-41237"
+id: "TRM-ENG-55766"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Killins CG, Wells CL"

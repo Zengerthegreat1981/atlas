@@ -1,6 +1,6 @@
 ---
 slug: "trm-laszloffy-ta-2002-rethinking-family-development-theory"
-id: "TRM-ENG-35804"
+id: "TRM-ENG-64862"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Laszloffy, T.A. (2002). Rethinking family development theory"

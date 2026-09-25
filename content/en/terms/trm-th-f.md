@@ -1,6 +1,6 @@
 ---
 slug: "trm-th-f"
-id: "TRM-ENG-42563"
+id: "TRM-ENG-57092"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Th. F"

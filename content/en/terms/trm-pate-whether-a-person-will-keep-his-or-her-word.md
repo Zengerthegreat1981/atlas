@@ -1,6 +1,6 @@
 ---
 slug: "trm-pate-whether-a-person-will-keep-his-or-her-word"
-id: "TRM-ENG-36838"
+id: "TRM-ENG-65896"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pate whether a person will keep his or her word"

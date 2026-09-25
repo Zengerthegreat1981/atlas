@@ -1,6 +1,6 @@
 ---
 slug: "trm-irrational-being"
-id: "TRM-ENG-45122"
+id: "TRM-ENG-59651"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "irrational being"

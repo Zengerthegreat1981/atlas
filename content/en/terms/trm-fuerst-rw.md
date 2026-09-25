@@ -1,6 +1,6 @@
 ---
 slug: "trm-fuerst-rw"
-id: "TRM-ENG-40638"
+id: "TRM-ENG-55167"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fuerst RW"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-learning-and-cognitive-function"
-id: "TRM-ENG-36623"
+id: "TRM-ENG-65681"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "learning and cognitive function"

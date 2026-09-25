@@ -1,6 +1,6 @@
 ---
 slug: "trm-hertz-or-cycles-per-second-the-wever"
-id: "TRM-ENG-52570"
+id: "TRM-ENG-67099"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "hertz, or cycles per second). The Wever"

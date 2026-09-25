@@ -1,6 +1,6 @@
 ---
 slug: "trm-teleological-forms"
-id: "TRM-ENG-36368"
+id: "TRM-ENG-50897"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "teleological forms"

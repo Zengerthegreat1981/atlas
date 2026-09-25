@@ -1,6 +1,6 @@
 ---
 slug: "trm-grilo-cm-sanislow-ca-shea-mt-et-al"
-id: "TRM-ENG-47692"
+id: "TRM-ENG-62221"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Grilo CM, Sanislow CA, Shea MT, et al"

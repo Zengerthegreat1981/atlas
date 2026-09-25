@@ -1,6 +1,6 @@
 ---
 slug: "trm-twentieth-century"
-id: "TRM-ENG-38401"
+id: "TRM-ENG-52930"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "twentieth century"

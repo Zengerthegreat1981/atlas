@@ -1,6 +1,6 @@
 ---
 slug: "trm-also-figure-1"
-id: "TRM-ENG-49244"
+id: "TRM-ENG-63773"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "also Figure 1)"

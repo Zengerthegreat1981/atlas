@@ -1,6 +1,6 @@
 ---
 slug: "trm-phasestudies"
-id: "TRM-ENG-43799"
+id: "TRM-ENG-58328"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "phasestudies."

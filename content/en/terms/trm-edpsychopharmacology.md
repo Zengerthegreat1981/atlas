@@ -1,6 +1,6 @@
 ---
 slug: "trm-edpsychopharmacology"
-id: "TRM-ENG-35494"
+id: "TRM-ENG-50023"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Ed.),Psychopharmacology"

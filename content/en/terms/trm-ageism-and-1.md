@@ -1,6 +1,6 @@
 ---
 slug: "trm-ageism-and-1"
-id: "TRM-ENG-39136"
+id: "TRM-ENG-53665"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ageism and, 1"

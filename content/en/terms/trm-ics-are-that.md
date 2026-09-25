@@ -1,6 +1,6 @@
 ---
 slug: "trm-ics-are-that"
-id: "TRM-ENG-45923"
+id: "TRM-ENG-60452"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ics are that"

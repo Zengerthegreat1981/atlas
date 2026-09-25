@@ -1,6 +1,6 @@
 ---
 slug: "trm-gestalt-brief-therapy-techniques-of-2"
-id: "TRM-ENG-38105"
+id: "TRM-ENG-52634"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gestalt brief therapy, techniques of, 2"

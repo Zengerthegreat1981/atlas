@@ -1,6 +1,6 @@
 ---
 slug: "trm-48-lerner-b-rorschach-movement-and-dreams"
-id: "TRM-ENG-44220"
+id: "TRM-ENG-58749"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "48. Lerner, B., “Rorschach Movement and Dreams"

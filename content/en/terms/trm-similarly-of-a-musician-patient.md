@@ -1,6 +1,6 @@
 ---
 slug: "trm-similarly-of-a-musician-patient"
-id: "TRM-ENG-45303"
+id: "TRM-ENG-59832"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "similarly of a musician- patient"

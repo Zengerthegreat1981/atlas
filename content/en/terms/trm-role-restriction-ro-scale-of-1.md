@@ -1,6 +1,6 @@
 ---
 slug: "trm-role-restriction-ro-scale-of-1"
-id: "TRM-ENG-41545"
+id: "TRM-ENG-56074"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "role restriction (RO) scale of, 1"

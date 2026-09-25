@@ -1,6 +1,6 @@
 ---
 slug: "trm-thinking-on-its-head"
-id: "TRM-ENG-48652"
+id: "TRM-ENG-63181"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thinking on its head"

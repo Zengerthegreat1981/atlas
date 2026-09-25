@@ -1,6 +1,6 @@
 ---
 slug: "trm-ignoring-very-small-effect-sizes-r-10-low-c6"
-id: "TRM-ENG-43446"
+id: "TRM-ENG-57975"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ignoring very small effect sizes (r > |.10|), low C6"

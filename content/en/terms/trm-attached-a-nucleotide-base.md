@@ -1,6 +1,6 @@
 ---
 slug: "trm-attached-a-nucleotide-base"
-id: "TRM-ENG-44907"
+id: "TRM-ENG-59436"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "attached a nucleotide base"

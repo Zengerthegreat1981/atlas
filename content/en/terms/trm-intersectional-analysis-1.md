@@ -1,6 +1,6 @@
 ---
 slug: "trm-intersectional-analysis-1"
-id: "TRM-ENG-46813"
+id: "TRM-ENG-61342"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Intersectional analysis, 1"

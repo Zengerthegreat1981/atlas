@@ -1,6 +1,6 @@
 ---
 slug: "trm-wagner-ps"
-id: "TRM-ENG-42691"
+id: "TRM-ENG-57220"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wagner PS"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-2007-enhancing-learning-and-retarding-forgetting"
-id: "TRM-ENG-44250"
+id: "TRM-ENG-58779"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2007). Enhancing learning and retarding forgetting"

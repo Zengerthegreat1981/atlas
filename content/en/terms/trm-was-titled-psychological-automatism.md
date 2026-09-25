@@ -1,6 +1,6 @@
 ---
 slug: "trm-was-titled-psychological-automatism"
-id: "TRM-ENG-38426"
+id: "TRM-ENG-52955"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "was titled Psychological Automatism"

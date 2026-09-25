@@ -1,6 +1,6 @@
 ---
 slug: "trm-locationspecific-factors-and-1"
-id: "TRM-ENG-40739"
+id: "TRM-ENG-55268"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "location-specific factors and, 1"

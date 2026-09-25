@@ -1,6 +1,6 @@
 ---
 slug: "trm-linguistic"
-id: "TRM-ENG-52266"
+id: "TRM-ENG-66795"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Linguistic"

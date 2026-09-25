@@ -1,6 +1,6 @@
 ---
 slug: "trm-discovery-learning"
-id: "TRM-ENG-46515"
+id: "TRM-ENG-61044"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Discovery Learning"

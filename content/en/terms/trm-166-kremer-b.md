@@ -1,6 +1,6 @@
 ---
 slug: "trm-166-kremer-b"
-id: "TRM-ENG-38644"
+id: "TRM-ENG-53173"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "166. Kremer B"

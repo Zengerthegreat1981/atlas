@@ -1,6 +1,6 @@
 ---
 slug: "trm-international-journal-of-testingand-1"
-id: "TRM-ENG-38250"
+id: "TRM-ENG-52779"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "International Journal of Testingand, 1"

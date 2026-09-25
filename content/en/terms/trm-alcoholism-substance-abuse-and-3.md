@@ -1,6 +1,6 @@
 ---
 slug: "trm-alcoholism-substance-abuse-and-3"
-id: "TRM-ENG-39141"
+id: "TRM-ENG-53670"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "alcoholism, substance abuse and, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-gion-in-their-new-science"
-id: "TRM-ENG-37795"
+id: "TRM-ENG-66853"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "gion in their new science"

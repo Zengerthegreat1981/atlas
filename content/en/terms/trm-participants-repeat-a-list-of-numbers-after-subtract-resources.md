@@ -1,6 +1,6 @@
 ---
 slug: "trm-participants-repeat-a-list-of-numbers-after-subtract-resources"
-id: "TRM-ENG-45389"
+id: "TRM-ENG-59918"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "participants repeat a list of numbers after subtract- resources"

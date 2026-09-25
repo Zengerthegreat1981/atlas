@@ -1,6 +1,6 @@
 ---
 slug: "trm-889-srole-l-langnor-js-michael-st-opler-mk-rennie-tac"
-id: "TRM-ENG-39554"
+id: "TRM-ENG-54083"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "889. Srole L, Langnor JS, Michael ST, Opler MK, Rennie TAC"

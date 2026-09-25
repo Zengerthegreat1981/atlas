@@ -1,6 +1,6 @@
 ---
 slug: "trm-odbert-h-s-2"
-id: "TRM-ENG-38529"
+id: "TRM-ENG-53058"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Odbert, H. S., 2"

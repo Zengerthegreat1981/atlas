@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-spiritual-tradition-in-india"
-id: "TRM-ENG-47625"
+id: "TRM-ENG-62154"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and spiritual tradition in India"

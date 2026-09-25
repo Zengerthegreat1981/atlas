@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-latinoa-americans-3"
-id: "TRM-ENG-40993"
+id: "TRM-ENG-55522"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of Latino/a Americans, 3"

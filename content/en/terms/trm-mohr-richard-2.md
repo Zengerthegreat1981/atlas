@@ -1,6 +1,6 @@
 ---
 slug: "trm-mohr-richard-2"
-id: "TRM-ENG-47012"
+id: "TRM-ENG-61541"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mohr, Richard, 2"

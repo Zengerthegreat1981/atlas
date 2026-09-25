@@ -1,6 +1,6 @@
 ---
 slug: "trm-alternative-accounts-1"
-id: "TRM-ENG-47574"
+id: "TRM-ENG-62103"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "alternative accounts, 1"

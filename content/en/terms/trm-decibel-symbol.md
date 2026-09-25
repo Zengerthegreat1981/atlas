@@ -1,6 +1,6 @@
 ---
 slug: "trm-decibel-symbol"
-id: "TRM-ENG-44047"
+id: "TRM-ENG-58576"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "decibel (symbol"

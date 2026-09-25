@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychology-in-their-titles"
-id: "TRM-ENG-38481"
+id: "TRM-ENG-53010"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“psychology” in their titles"

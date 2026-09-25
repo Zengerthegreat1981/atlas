@@ -1,6 +1,6 @@
 ---
 slug: "trm-geneva"
-id: "TRM-ENG-43994"
+id: "TRM-ENG-58523"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Geneva"

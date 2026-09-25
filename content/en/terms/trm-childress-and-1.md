@@ -1,6 +1,6 @@
 ---
 slug: "trm-childress-and-1"
-id: "TRM-ENG-37814"
+id: "TRM-ENG-66872"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Childress) and, 1"

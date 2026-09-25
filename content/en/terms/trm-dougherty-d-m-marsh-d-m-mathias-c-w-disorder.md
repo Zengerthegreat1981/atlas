@@ -1,6 +1,6 @@
 ---
 slug: "trm-dougherty-d-m-marsh-d-m-mathias-c-w-disorder"
-id: "TRM-ENG-42382"
+id: "TRM-ENG-56911"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dougherty, D. M., Marsh, D. M., & Mathias, C. W. disorder"

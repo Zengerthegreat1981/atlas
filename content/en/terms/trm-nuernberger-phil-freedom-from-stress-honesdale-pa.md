@@ -1,6 +1,6 @@
 ---
 slug: "trm-nuernberger-phil-freedom-from-stress-honesdale-pa"
-id: "TRM-ENG-45905"
+id: "TRM-ENG-60434"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nuernberger, Phil. Freedom from Stress. Honesdale, PA"

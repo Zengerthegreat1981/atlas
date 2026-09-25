@@ -1,6 +1,6 @@
 ---
 slug: "trm-belief-however-any-ethnomedical-practice-that-has-cid"
-id: "TRM-ENG-46038"
+id: "TRM-ENG-60567"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "belief. However, any ethnomedical practice that has (cid"

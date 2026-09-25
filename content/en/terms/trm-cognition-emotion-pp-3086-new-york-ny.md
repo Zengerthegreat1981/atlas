@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognition-emotion-pp-3086-new-york-ny"
-id: "TRM-ENG-44383"
+id: "TRM-ENG-58912"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cognition & emotion (pp. 30–86). New York, NY"

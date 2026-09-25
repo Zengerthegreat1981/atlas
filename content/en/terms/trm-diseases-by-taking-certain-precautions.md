@@ -1,6 +1,6 @@
 ---
 slug: "trm-diseases-by-taking-certain-precautions"
-id: "TRM-ENG-46075"
+id: "TRM-ENG-60604"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "diseases by taking certain precautions"

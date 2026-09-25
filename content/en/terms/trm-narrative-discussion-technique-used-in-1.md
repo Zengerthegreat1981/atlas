@@ -1,6 +1,6 @@
 ---
 slug: "trm-narrative-discussion-technique-used-in-1"
-id: "TRM-ENG-40924"
+id: "TRM-ENG-55453"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "narrative discussion technique used in, 1"

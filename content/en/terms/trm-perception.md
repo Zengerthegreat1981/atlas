@@ -1,6 +1,6 @@
 ---
 slug: "trm-perception"
-id: "TRM-ENG-36354"
+id: "TRM-ENG-50883"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "perception"

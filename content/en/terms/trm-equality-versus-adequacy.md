@@ -1,6 +1,6 @@
 ---
 slug: "trm-equality-versus-adequacy"
-id: "TRM-ENG-46591"
+id: "TRM-ENG-61120"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Equality Versus Adequacy"

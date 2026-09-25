@@ -1,6 +1,6 @@
 ---
 slug: "trm-wallin-jew"
-id: "TRM-ENG-42703"
+id: "TRM-ENG-57232"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wallin JEW"

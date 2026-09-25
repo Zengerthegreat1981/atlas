@@ -1,6 +1,6 @@
 ---
 slug: "trm-stances"
-id: "TRM-ENG-48747"
+id: "TRM-ENG-63276"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stances"

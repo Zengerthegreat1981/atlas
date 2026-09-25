@@ -1,6 +1,6 @@
 ---
 slug: "trm-maticmode22137philadelphia"
-id: "TRM-ENG-45955"
+id: "TRM-ENG-60484"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "maticMode,221–37.Philadelphia"

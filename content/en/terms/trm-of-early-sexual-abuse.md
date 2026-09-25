@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-early-sexual-abuse"
-id: "TRM-ENG-35172"
+id: "TRM-ENG-49701"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of early sexual abuse)"

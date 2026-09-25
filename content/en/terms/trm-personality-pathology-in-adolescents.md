@@ -1,6 +1,6 @@
 ---
 slug: "trm-personality-pathology-in-adolescents"
-id: "TRM-ENG-43797"
+id: "TRM-ENG-58326"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "personality pathology in adolescents"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-jamesw1911memoriesandstudiesnewyork"
-id: "TRM-ENG-36969"
+id: "TRM-ENG-66027"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "James,W.(1911).Memoriesandstudies.NewYork"

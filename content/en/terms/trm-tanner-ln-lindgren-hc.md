@@ -1,6 +1,6 @@
 ---
 slug: "trm-tanner-ln-lindgren-hc"
-id: "TRM-ENG-42549"
+id: "TRM-ENG-57078"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tanner LN, Lindgren HC"

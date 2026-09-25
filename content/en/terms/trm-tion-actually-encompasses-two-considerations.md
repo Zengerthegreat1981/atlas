@@ -1,6 +1,6 @@
 ---
 slug: "trm-tion-actually-encompasses-two-considerations"
-id: "TRM-ENG-43340"
+id: "TRM-ENG-57869"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tion actually encompasses two considerations"

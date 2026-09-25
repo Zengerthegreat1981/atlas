@@ -1,6 +1,6 @@
 ---
 slug: "trm-apologists-buckingham-england"
-id: "TRM-ENG-47636"
+id: "TRM-ENG-62165"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "apologists. Buckingham, England"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ity-traits-j-abnorm-psychol-122"
-id: "TRM-ENG-48417"
+id: "TRM-ENG-62946"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ity traits. J Abnorm Psychol 122"

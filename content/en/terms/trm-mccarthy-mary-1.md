@@ -1,6 +1,6 @@
 ---
 slug: "trm-mccarthy-mary-1"
-id: "TRM-ENG-46985"
+id: "TRM-ENG-61514"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "McCarthy, Mary, 1"

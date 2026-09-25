@@ -1,6 +1,6 @@
 ---
 slug: "trm-career-development-quarterlycdq-4"
-id: "TRM-ENG-37777"
+id: "TRM-ENG-66835"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Career Development Quarterly(CDQ), 4"

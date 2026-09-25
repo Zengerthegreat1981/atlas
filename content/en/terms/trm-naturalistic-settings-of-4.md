@@ -1,6 +1,6 @@
 ---
 slug: "trm-naturalistic-settings-of-4"
-id: "TRM-ENG-40932"
+id: "TRM-ENG-55461"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "naturalistic settings of, 4"

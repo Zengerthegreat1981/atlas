@@ -1,6 +1,6 @@
 ---
 slug: "trm-accounts-in-mind-culture-and-activity-17"
-id: "TRM-ENG-36529"
+id: "TRM-ENG-65587"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Accounts,” in Mind, Culture, and Activity, 17"

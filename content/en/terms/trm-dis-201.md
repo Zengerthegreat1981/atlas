@@ -1,6 +1,6 @@
 ---
 slug: "trm-dis-201"
-id: "TRM-ENG-47618"
+id: "TRM-ENG-62147"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dis 201"

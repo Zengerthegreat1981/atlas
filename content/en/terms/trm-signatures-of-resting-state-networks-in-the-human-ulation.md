@@ -1,6 +1,6 @@
 ---
 slug: "trm-signatures-of-resting-state-networks-in-the-human-ulation"
-id: "TRM-ENG-36120"
+id: "TRM-ENG-65178"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "signatures of resting state networks in the human ulation"

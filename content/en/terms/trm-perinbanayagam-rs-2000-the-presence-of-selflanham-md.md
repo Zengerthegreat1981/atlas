@@ -1,6 +1,6 @@
 ---
 slug: "trm-perinbanayagam-rs-2000-the-presence-of-selflanham-md"
-id: "TRM-ENG-35891"
+id: "TRM-ENG-64949"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Perinbanayagam, R.S. (2000). The presence of self.Lanham, MD"

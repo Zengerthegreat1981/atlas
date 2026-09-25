@@ -1,6 +1,6 @@
 ---
 slug: "trm-1999stemmingfromspencerandjames"
-id: "TRM-ENG-36511"
+id: "TRM-ENG-51040"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1999)stemmingfromSpencerandJames"

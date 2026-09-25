@@ -1,6 +1,6 @@
 ---
 slug: "trm-thesis-advanced-in-wt-powerss-1973-book-behavior"
-id: "TRM-ENG-37150"
+id: "TRM-ENG-51679"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thesis advanced in W.T. Powers’s (1973) book, Behavior"

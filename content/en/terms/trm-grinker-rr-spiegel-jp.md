@@ -1,6 +1,6 @@
 ---
 slug: "trm-grinker-rr-spiegel-jp"
-id: "TRM-ENG-40830"
+id: "TRM-ENG-55359"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Grinker RR, Spiegel JP"

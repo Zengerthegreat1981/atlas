@@ -1,6 +1,6 @@
 ---
 slug: "trm-historically-there-have-been-five-cf"
-id: "TRM-ENG-52511"
+id: "TRM-ENG-67040"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Historically, there have been five (cf"

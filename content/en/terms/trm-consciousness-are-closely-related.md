@@ -1,6 +1,6 @@
 ---
 slug: "trm-consciousness-are-closely-related"
-id: "TRM-ENG-45030"
+id: "TRM-ENG-59559"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "consciousness are closely related"

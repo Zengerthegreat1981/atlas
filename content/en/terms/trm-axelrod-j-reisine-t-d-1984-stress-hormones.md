@@ -1,6 +1,6 @@
 ---
 slug: "trm-axelrod-j-reisine-t-d-1984-stress-hormones"
-id: "TRM-ENG-46415"
+id: "TRM-ENG-60944"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Axelrod, J., & Reisine, T. D. (1984). Stress hormones"

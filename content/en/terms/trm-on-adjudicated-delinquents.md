@@ -1,6 +1,6 @@
 ---
 slug: "trm-on-adjudicated-delinquents"
-id: "TRM-ENG-43083"
+id: "TRM-ENG-57612"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "on adjudicated delinquents"

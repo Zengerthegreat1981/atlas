@@ -1,6 +1,6 @@
 ---
 slug: "trm-arts-and-expressive-therapies"
-id: "TRM-ENG-50118"
+id: "TRM-ENG-64647"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Arts and Expressive Therapies"

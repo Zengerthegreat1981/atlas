@@ -1,6 +1,6 @@
 ---
 slug: "trm-featural-similarity-1"
-id: "TRM-ENG-44479"
+id: "TRM-ENG-59008"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Featural similarity, 1"

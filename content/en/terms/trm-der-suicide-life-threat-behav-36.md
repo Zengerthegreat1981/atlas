@@ -1,6 +1,6 @@
 ---
 slug: "trm-der-suicide-life-threat-behav-36"
-id: "TRM-ENG-48300"
+id: "TRM-ENG-62829"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "der. Suicide Life Threat Behav 36"

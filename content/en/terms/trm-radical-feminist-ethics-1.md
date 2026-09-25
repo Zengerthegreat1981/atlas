@@ -1,6 +1,6 @@
 ---
 slug: "trm-radical-feminist-ethics-1"
-id: "TRM-ENG-47171"
+id: "TRM-ENG-61700"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Radical feminist ethics, 1"

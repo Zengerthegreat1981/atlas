@@ -1,6 +1,6 @@
 ---
 slug: "trm-often-demolished-by-colonizers"
-id: "TRM-ENG-48462"
+id: "TRM-ENG-62991"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "often demolished by colonizers"

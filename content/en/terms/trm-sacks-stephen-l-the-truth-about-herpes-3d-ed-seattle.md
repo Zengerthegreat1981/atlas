@@ -1,6 +1,6 @@
 ---
 slug: "trm-sacks-stephen-l-the-truth-about-herpes-3d-ed-seattle"
-id: "TRM-ENG-45950"
+id: "TRM-ENG-60479"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sacks, Stephen L., The Truth About Herpes. 3d ed. (Seattle"

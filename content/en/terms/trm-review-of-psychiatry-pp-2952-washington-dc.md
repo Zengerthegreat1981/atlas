@@ -1,6 +1,6 @@
 ---
 slug: "trm-review-of-psychiatry-pp-2952-washington-dc"
-id: "TRM-ENG-43823"
+id: "TRM-ENG-58352"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "review of psychiatry (pp. 29–52). Washington, DC"

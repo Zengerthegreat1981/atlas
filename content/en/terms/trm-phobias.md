@@ -1,6 +1,6 @@
 ---
 slug: "trm-phobias"
-id: "TRM-ENG-35897"
+id: "TRM-ENG-50426"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Phobias"

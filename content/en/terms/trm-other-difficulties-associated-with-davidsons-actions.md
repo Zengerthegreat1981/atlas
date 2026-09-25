@@ -1,6 +1,6 @@
 ---
 slug: "trm-other-difficulties-associated-with-davidsons-actions"
-id: "TRM-ENG-44661"
+id: "TRM-ENG-59190"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Other difficulties associated with Davidson’s actions"

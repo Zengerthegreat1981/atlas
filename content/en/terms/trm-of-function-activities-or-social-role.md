@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-function-activities-or-social-role"
-id: "TRM-ENG-47153"
+id: "TRM-ENG-61682"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of function, activities or social role"

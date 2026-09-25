@@ -1,6 +1,6 @@
 ---
 slug: "trm-bandura-a-lipsher-dh-miller-pe"
-id: "TRM-ENG-39796"
+id: "TRM-ENG-54325"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bandura A, Lipsher DH, Miller PE"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ogy-new-york"
-id: "TRM-ENG-46178"
+id: "TRM-ENG-60707"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ogy (New York"

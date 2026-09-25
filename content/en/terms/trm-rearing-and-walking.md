@@ -1,6 +1,6 @@
 ---
 slug: "trm-rearing-and-walking"
-id: "TRM-ENG-35010"
+id: "TRM-ENG-64068"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rearing, and walking"

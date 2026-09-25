@@ -1,6 +1,6 @@
 ---
 slug: "trm-barbach-lg"
-id: "TRM-ENG-39803"
+id: "TRM-ENG-54332"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Barbach LG"

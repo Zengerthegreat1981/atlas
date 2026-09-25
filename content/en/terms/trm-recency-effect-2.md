@@ -1,6 +1,6 @@
 ---
 slug: "trm-recency-effect-2"
-id: "TRM-ENG-44731"
+id: "TRM-ENG-59260"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Recency effect, 2"

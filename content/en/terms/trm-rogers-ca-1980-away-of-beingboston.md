@@ -1,6 +1,6 @@
 ---
 slug: "trm-rogers-ca-1980-away-of-beingboston"
-id: "TRM-ENG-35929"
+id: "TRM-ENG-64987"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rogers, C.A. (1980). Away of being.Boston"

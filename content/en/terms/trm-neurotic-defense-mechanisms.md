@@ -1,6 +1,6 @@
 ---
 slug: "trm-neurotic-defense-mechanisms"
-id: "TRM-ENG-48463"
+id: "TRM-ENG-62992"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "neurotic, defense mechanisms"

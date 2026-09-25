@@ -1,6 +1,6 @@
 ---
 slug: "trm-russian-psychiatry"
-id: "TRM-ENG-44816"
+id: "TRM-ENG-59345"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, “Russian Psychiatry"

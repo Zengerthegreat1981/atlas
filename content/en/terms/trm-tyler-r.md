@@ -1,6 +1,6 @@
 ---
 slug: "trm-tyler-r"
-id: "TRM-ENG-42632"
+id: "TRM-ENG-57161"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tyler R"

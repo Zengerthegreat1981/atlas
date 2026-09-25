@@ -1,6 +1,6 @@
 ---
 slug: "trm-minzenberg-mj-fan-j-new-as-et-al"
-id: "TRM-ENG-47870"
+id: "TRM-ENG-62399"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Minzenberg MJ, Fan J, New AS, et al"

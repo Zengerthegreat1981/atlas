@@ -1,6 +1,6 @@
 ---
 slug: "trm-main-concepts-of-which-is-that-of-need-which-he-personology"
-id: "TRM-ENG-37939"
+id: "TRM-ENG-66997"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "main concepts of which is that of “need,” which he personology"

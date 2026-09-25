@@ -1,6 +1,6 @@
 ---
 slug: "trm-education-commission-and-4"
-id: "TRM-ENG-38006"
+id: "TRM-ENG-67064"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Education Commission and, 4"

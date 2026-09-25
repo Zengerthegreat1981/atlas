@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-in-social-policy-as-shields-1975-noted"
-id: "TRM-ENG-37518"
+id: "TRM-ENG-52047"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and in social policy. As Shields (1975) noted"

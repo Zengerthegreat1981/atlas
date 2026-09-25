@@ -1,6 +1,6 @@
 ---
 slug: "trm-callahan-d-abortion"
-id: "TRM-ENG-44318"
+id: "TRM-ENG-58847"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Callahan, D., Abortion"

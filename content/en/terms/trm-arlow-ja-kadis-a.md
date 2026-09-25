@@ -1,6 +1,6 @@
 ---
 slug: "trm-arlow-ja-kadis-a"
-id: "TRM-ENG-39721"
+id: "TRM-ENG-54250"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Arlow JA, Kadis A"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-male-menopause"
-id: "TRM-ENG-41569"
+id: "TRM-ENG-56098"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Male “Menopause”"

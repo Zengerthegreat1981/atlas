@@ -1,6 +1,6 @@
 ---
 slug: "trm-styles-fantasies-of-the-good-life"
-id: "TRM-ENG-43191"
+id: "TRM-ENG-57720"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "styles. Fantasies of the good life"

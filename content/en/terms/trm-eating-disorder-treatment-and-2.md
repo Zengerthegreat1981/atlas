@@ -1,6 +1,6 @@
 ---
 slug: "trm-eating-disorder-treatment-and-2"
-id: "TRM-ENG-39993"
+id: "TRM-ENG-54522"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "eating disorder treatment and, 2"

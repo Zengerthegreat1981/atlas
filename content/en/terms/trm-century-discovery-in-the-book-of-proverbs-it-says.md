@@ -1,6 +1,6 @@
 ---
 slug: "trm-century-discovery-in-the-book-of-proverbs-it-says"
-id: "TRM-ENG-46053"
+id: "TRM-ENG-60582"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "century discovery. In the Book of Proverbs, it says"

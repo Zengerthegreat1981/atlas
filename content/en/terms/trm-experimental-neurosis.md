@@ -1,6 +1,6 @@
 ---
 slug: "trm-experimental-neurosis"
-id: "TRM-ENG-45017"
+id: "TRM-ENG-59546"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "experimental neurosis"

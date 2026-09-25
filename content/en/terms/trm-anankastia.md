@@ -1,6 +1,6 @@
 ---
 slug: "trm-anankastia"
-id: "TRM-ENG-43969"
+id: "TRM-ENG-58498"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Anankastia"

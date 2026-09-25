@@ -1,6 +1,6 @@
 ---
 slug: "trm-music-functions-as-both-a-medium-and-a-means"
-id: "TRM-ENG-51616"
+id: "TRM-ENG-66145"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "music functions as both a medium and a means"

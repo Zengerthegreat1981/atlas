@@ -1,6 +1,6 @@
 ---
 slug: "trm-andcommonlyreportedtriggersinclude"
-id: "TRM-ENG-46818"
+id: "TRM-ENG-61347"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "andcommonlyreportedtriggersinclude"

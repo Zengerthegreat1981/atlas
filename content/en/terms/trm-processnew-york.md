@@ -1,6 +1,6 @@
 ---
 slug: "trm-processnew-york"
-id: "TRM-ENG-41288"
+id: "TRM-ENG-55817"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "process.New York"

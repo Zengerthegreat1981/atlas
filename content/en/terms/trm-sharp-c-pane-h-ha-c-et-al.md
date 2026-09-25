@@ -1,6 +1,6 @@
 ---
 slug: "trm-sharp-c-pane-h-ha-c-et-al"
-id: "TRM-ENG-48060"
+id: "TRM-ENG-62589"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sharp C, Pane H, Ha C, et al"

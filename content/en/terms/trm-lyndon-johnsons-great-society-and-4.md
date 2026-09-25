@@ -1,6 +1,6 @@
 ---
 slug: "trm-lyndon-johnsons-great-society-and-4"
-id: "TRM-ENG-38387"
+id: "TRM-ENG-52916"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lyndon Johnson’s Great Society and, 4"

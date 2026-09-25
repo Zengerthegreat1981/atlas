@@ -1,6 +1,6 @@
 ---
 slug: "trm-naive-consideration"
-id: "TRM-ENG-36342"
+id: "TRM-ENG-65400"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "naive consideration"

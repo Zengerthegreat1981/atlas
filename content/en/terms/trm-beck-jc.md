@@ -1,6 +1,6 @@
 ---
 slug: "trm-beck-jc"
-id: "TRM-ENG-39837"
+id: "TRM-ENG-54366"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Beck JC"

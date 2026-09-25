@@ -1,6 +1,6 @@
 ---
 slug: "trm-importance-of-conflict-was-evident-in-adamss-views-http"
-id: "TRM-ENG-37840"
+id: "TRM-ENG-66898"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "importance of conflict was evident in Adams’s views http"

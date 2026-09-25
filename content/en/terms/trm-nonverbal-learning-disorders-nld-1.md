@@ -1,6 +1,6 @@
 ---
 slug: "trm-nonverbal-learning-disorders-nld-1"
-id: "TRM-ENG-38518"
+id: "TRM-ENG-53047"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nonverbal learning disorders (NLD), 1"

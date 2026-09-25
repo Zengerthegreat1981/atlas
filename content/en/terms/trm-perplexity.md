@@ -1,6 +1,6 @@
 ---
 slug: "trm-perplexity"
-id: "TRM-ENG-52330"
+id: "TRM-ENG-66859"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Perplexity"

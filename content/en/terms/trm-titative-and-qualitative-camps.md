@@ -1,6 +1,6 @@
 ---
 slug: "trm-titative-and-qualitative-camps"
-id: "TRM-ENG-48928"
+id: "TRM-ENG-63457"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "titative and qualitative camps"

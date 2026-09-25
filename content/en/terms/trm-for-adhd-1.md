@@ -1,6 +1,6 @@
 ---
 slug: "trm-for-adhd-1"
-id: "TRM-ENG-40227"
+id: "TRM-ENG-54756"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "for AD/HD, 1"

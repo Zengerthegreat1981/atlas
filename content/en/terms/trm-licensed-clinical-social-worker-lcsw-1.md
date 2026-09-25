@@ -1,6 +1,6 @@
 ---
 slug: "trm-licensed-clinical-social-worker-lcsw-1"
-id: "TRM-ENG-40714"
+id: "TRM-ENG-55243"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "licensed clinical social worker (LCSW), 1"

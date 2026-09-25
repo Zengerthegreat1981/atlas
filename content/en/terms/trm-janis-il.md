@@ -1,6 +1,6 @@
 ---
 slug: "trm-janis-il"
-id: "TRM-ENG-41114"
+id: "TRM-ENG-55643"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Janis IL"

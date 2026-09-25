@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-world-of-the-psychopaths-among-us-new-york"
-id: "TRM-ENG-42916"
+id: "TRM-ENG-57445"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing world of the psychopaths among us. New York"

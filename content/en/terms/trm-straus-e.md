@@ -1,6 +1,6 @@
 ---
 slug: "trm-straus-e"
-id: "TRM-ENG-42492"
+id: "TRM-ENG-57021"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Straus E"

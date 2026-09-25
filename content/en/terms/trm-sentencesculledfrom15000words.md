@@ -1,6 +1,6 @@
 ---
 slug: "trm-sentencesculledfrom15000words"
-id: "TRM-ENG-38244"
+id: "TRM-ENG-52773"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sentencesculledfrom15,000words"

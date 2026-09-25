@@ -1,6 +1,6 @@
 ---
 slug: "trm-2-environmental-manipulation"
-id: "TRM-ENG-38696"
+id: "TRM-ENG-53225"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "2. Environmental manipulation"

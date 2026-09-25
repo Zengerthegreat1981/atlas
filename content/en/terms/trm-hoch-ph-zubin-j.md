@@ -1,6 +1,6 @@
 ---
 slug: "trm-hoch-ph-zubin-j"
-id: "TRM-ENG-41006"
+id: "TRM-ENG-55535"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hoch PH, Zubin J"

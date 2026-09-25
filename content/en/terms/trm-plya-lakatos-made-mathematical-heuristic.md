@@ -1,6 +1,6 @@
 ---
 slug: "trm-plya-lakatos-made-mathematical-heuristic"
-id: "TRM-ENG-47166"
+id: "TRM-ENG-61695"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pólya, Lakatos made mathematical heuristic"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-seizures-us-trade-name"
-id: "TRM-ENG-43851"
+id: "TRM-ENG-58380"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "seizures. U.S. trade name"

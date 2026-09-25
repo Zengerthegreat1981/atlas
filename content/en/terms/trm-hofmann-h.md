@@ -1,6 +1,6 @@
 ---
 slug: "trm-hofmann-h"
-id: "TRM-ENG-41013"
+id: "TRM-ENG-55542"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hofmann H"

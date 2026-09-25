@@ -1,6 +1,6 @@
 ---
 slug: "trm-sicknessimpactprofile"
-id: "TRM-ENG-46710"
+id: "TRM-ENG-61239"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "SicknessImpactProfile"

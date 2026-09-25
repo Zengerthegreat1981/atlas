@@ -1,6 +1,6 @@
 ---
 slug: "trm-ric-of-science-in-psychiatryhawthorne-ny"
-id: "TRM-ENG-36943"
+id: "TRM-ENG-51472"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ric of science in psychiatry.Hawthorne, NY"

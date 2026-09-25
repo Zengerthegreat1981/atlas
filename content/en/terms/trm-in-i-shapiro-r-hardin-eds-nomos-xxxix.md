@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-i-shapiro-r-hardin-eds-nomos-xxxix"
-id: "TRM-ENG-46796"
+id: "TRM-ENG-61325"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "In I. Shapiro & R. Hardin (Eds.), Nomos XXXIX"

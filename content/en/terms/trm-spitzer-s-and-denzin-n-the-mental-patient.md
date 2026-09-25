@@ -1,6 +1,6 @@
 ---
 slug: "trm-spitzer-s-and-denzin-n-the-mental-patient"
-id: "TRM-ENG-44647"
+id: "TRM-ENG-59176"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spitzer, S., and Denzin, N., The Mental Patient"

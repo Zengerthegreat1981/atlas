@@ -1,6 +1,6 @@
 ---
 slug: "trm-measurement-and-research-on-3"
-id: "TRM-ENG-40797"
+id: "TRM-ENG-55326"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "measurement and research on, 3"

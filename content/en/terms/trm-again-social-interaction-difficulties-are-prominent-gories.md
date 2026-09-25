@@ -1,6 +1,6 @@
 ---
 slug: "trm-again-social-interaction-difficulties-are-prominent-gories"
-id: "TRM-ENG-37559"
+id: "TRM-ENG-52088"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Again, social interaction difficulties are prominent gories"

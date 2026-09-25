@@ -1,6 +1,6 @@
 ---
 slug: "trm-training-and-counseling-applications-of-3"
-id: "TRM-ENG-42000"
+id: "TRM-ENG-56529"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "training and counseling applications of, 3"

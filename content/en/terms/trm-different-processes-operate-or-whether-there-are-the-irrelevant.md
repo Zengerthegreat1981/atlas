@@ -1,6 +1,6 @@
 ---
 slug: "trm-different-processes-operate-or-whether-there-are-the-irrelevant"
-id: "TRM-ENG-45068"
+id: "TRM-ENG-59597"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "different processes operate, or whether there are the irrelevant"

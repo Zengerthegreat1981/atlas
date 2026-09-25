@@ -1,6 +1,6 @@
 ---
 slug: "trm-wright-mw"
-id: "TRM-ENG-42877"
+id: "TRM-ENG-57406"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wright MW"

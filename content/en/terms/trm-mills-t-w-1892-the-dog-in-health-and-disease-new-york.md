@@ -1,6 +1,6 @@
 ---
 slug: "trm-mills-t-w-1892-the-dog-in-health-and-disease-new-york"
-id: "TRM-ENG-37084"
+id: "TRM-ENG-51613"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mills, T. W. (1892). The dog in health and disease. New York"

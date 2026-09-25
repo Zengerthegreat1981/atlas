@@ -1,6 +1,6 @@
 ---
 slug: "trm-hoeper-ew-nyez-gr-cleary-pd-et-al"
-id: "TRM-ENG-41008"
+id: "TRM-ENG-55537"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hoeper EW, Nyez GR, Cleary PD, et al"

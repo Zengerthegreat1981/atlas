@@ -1,6 +1,6 @@
 ---
 slug: "trm-interpretation-report-writing-and-2"
-id: "TRM-ENG-40619"
+id: "TRM-ENG-55148"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "interpretation, report writing and, 2"

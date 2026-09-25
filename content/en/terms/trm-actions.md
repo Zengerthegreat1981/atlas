@@ -1,6 +1,6 @@
 ---
 slug: "trm-actions"
-id: "TRM-ENG-44873"
+id: "TRM-ENG-59402"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "actions"

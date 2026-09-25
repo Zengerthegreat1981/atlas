@@ -1,6 +1,6 @@
 ---
 slug: "trm-ernestjones19081939ed"
-id: "TRM-ENG-36780"
+id: "TRM-ENG-51309"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ErnestJones,1908–1939(ed"

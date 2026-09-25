@@ -1,6 +1,6 @@
 ---
 slug: "trm-two-questions"
-id: "TRM-ENG-45660"
+id: "TRM-ENG-60189"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "two questions"

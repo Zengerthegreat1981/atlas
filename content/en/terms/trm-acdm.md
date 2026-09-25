@@ -1,6 +1,6 @@
 ---
 slug: "trm-acdm"
-id: "TRM-ENG-37371"
+id: "TRM-ENG-66429"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(ACDM"

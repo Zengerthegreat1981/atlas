@@ -1,6 +1,6 @@
 ---
 slug: "trm-observer"
-id: "TRM-ENG-36290"
+id: "TRM-ENG-65348"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Observer"

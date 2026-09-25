@@ -1,6 +1,6 @@
 ---
 slug: "trm-golton-m"
-id: "TRM-ENG-40763"
+id: "TRM-ENG-55292"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Golton M"

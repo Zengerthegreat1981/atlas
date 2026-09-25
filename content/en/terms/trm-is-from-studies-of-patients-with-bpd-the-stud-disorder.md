@@ -1,6 +1,6 @@
 ---
 slug: "trm-is-from-studies-of-patients-with-bpd-the-stud-disorder"
-id: "TRM-ENG-42933"
+id: "TRM-ENG-57462"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "is from studies of patients with BPD, the stud- disorder"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-orgasm"
-id: "TRM-ENG-52318"
+id: "TRM-ENG-66847"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Orgasm"

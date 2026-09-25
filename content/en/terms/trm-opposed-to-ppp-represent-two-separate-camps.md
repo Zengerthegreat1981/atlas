@@ -1,6 +1,6 @@
 ---
 slug: "trm-opposed-to-ppp-represent-two-separate-camps"
-id: "TRM-ENG-41051"
+id: "TRM-ENG-55580"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "opposed to PPP represent two separate camps"

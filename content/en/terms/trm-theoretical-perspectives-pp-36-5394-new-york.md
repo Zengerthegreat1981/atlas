@@ -1,6 +1,6 @@
 ---
 slug: "trm-theoretical-perspectives-pp-36-5394-new-york"
-id: "TRM-ENG-35385"
+id: "TRM-ENG-49914"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theoretical perspectives (pp. 36 5-394). New York"

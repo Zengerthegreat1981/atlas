@@ -1,6 +1,6 @@
 ---
 slug: "trm-extremely-intelligent"
-id: "TRM-ENG-34835"
+id: "TRM-ENG-49364"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "extremely intelligent"

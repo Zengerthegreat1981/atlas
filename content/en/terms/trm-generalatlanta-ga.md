@@ -1,6 +1,6 @@
 ---
 slug: "trm-generalatlanta-ga"
-id: "TRM-ENG-40299"
+id: "TRM-ENG-54828"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "general.Atlanta, GA"

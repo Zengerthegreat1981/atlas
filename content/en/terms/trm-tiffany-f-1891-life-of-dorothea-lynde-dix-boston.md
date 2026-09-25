@@ -1,6 +1,6 @@
 ---
 slug: "trm-tiffany-f-1891-life-of-dorothea-lynde-dix-boston"
-id: "TRM-ENG-34813"
+id: "TRM-ENG-63871"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tiffany, F. (1891). Life of Dorothea Lynde Dix. Boston"

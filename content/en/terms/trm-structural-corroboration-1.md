@@ -1,6 +1,6 @@
 ---
 slug: "trm-structural-corroboration-1"
-id: "TRM-ENG-47355"
+id: "TRM-ENG-61884"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Structural corroboration, 1"

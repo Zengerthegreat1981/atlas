@@ -1,6 +1,6 @@
 ---
 slug: "trm-synchrony"
-id: "TRM-ENG-36150"
+id: "TRM-ENG-50679"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "synchrony"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-starobinski-j-1971-jeanjacques-rousseau"
-id: "TRM-ENG-47330"
+id: "TRM-ENG-61859"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Starobinski, J. (1971). Jean-Jacques Rousseau"

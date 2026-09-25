@@ -1,6 +1,6 @@
 ---
 slug: "trm-bloombl1977-communitymentalhealth"
-id: "TRM-ENG-48915"
+id: "TRM-ENG-63444"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bloom,B.L.(1977). Communitymentalhealth"

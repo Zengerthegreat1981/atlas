@@ -1,6 +1,6 @@
 ---
 slug: "trm-tukey-j-w-1997-exploratory-data-analysis-reading-ma"
-id: "TRM-ENG-34817"
+id: "TRM-ENG-49346"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tukey, J. W. (1997). Exploratory data analysis. Reading, MA"

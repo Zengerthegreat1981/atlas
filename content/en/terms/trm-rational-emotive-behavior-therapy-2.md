@@ -1,6 +1,6 @@
 ---
 slug: "trm-rational-emotive-behavior-therapy-2"
-id: "TRM-ENG-50935"
+id: "TRM-ENG-65464"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rational emotive behavior therapy, 2"

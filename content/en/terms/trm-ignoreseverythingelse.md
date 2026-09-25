@@ -1,6 +1,6 @@
 ---
 slug: "trm-ignoreseverythingelse"
-id: "TRM-ENG-37837"
+id: "TRM-ENG-52366"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ignoreseverythingelse"

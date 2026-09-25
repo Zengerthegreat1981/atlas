@@ -1,6 +1,6 @@
 ---
 slug: "trm-coue-e"
-id: "TRM-ENG-40247"
+id: "TRM-ENG-54776"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Coue E"

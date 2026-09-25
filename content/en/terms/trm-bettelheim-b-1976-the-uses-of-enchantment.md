@@ -1,6 +1,6 @@
 ---
 slug: "trm-bettelheim-b-1976-the-uses-of-enchantment"
-id: "TRM-ENG-36611"
+id: "TRM-ENG-51140"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bettelheim, B. (1976). The uses of enchantment"

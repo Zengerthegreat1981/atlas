@@ -1,6 +1,6 @@
 ---
 slug: "trm-goodinroberteprotectingthevulnerable"
-id: "TRM-ENG-45706"
+id: "TRM-ENG-60235"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goodin,RobertE.ProtectingtheVulnerable"

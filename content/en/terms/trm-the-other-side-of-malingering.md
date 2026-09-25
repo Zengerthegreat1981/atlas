@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-other-side-of-malingering"
-id: "TRM-ENG-42554"
+id: "TRM-ENG-57083"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The other side of malingering"

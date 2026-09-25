@@ -1,6 +1,6 @@
 ---
 slug: "trm-mental-perspective"
-id: "TRM-ENG-36708"
+id: "TRM-ENG-65766"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mental perspective"

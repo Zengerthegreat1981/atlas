@@ -1,6 +1,6 @@
 ---
 slug: "trm-oleary-kd-et-al"
-id: "TRM-ENG-41900"
+id: "TRM-ENG-56429"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "O’Leary KD, et al"

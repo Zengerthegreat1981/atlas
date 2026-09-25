@@ -1,6 +1,6 @@
 ---
 slug: "trm-content-physical-therapy"
-id: "TRM-ENG-44963"
+id: "TRM-ENG-59492"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "content. Physical therapy"

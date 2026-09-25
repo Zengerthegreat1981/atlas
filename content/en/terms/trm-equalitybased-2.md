@@ -1,6 +1,6 @@
 ---
 slug: "trm-equalitybased-2"
-id: "TRM-ENG-47978"
+id: "TRM-ENG-62507"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "equality-based, 2"

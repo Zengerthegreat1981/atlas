@@ -1,6 +1,6 @@
 ---
 slug: "trm-patients-with-coronary-artery-disease"
-id: "TRM-ENG-47187"
+id: "TRM-ENG-61716"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "patients with coronary artery disease"

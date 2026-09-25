@@ -1,6 +1,6 @@
 ---
 slug: "trm-limits-and-exceptions-to-2"
-id: "TRM-ENG-40730"
+id: "TRM-ENG-55259"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "limits and exceptions to, 2"

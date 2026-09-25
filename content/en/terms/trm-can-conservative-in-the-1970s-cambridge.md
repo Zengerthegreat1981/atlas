@@ -1,6 +1,6 @@
 ---
 slug: "trm-can-conservative-in-the-1970s-cambridge"
-id: "TRM-ENG-37604"
+id: "TRM-ENG-66662"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "can conservative in the 1970s. Cambridge"

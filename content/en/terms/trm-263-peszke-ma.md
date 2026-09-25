@@ -1,6 +1,6 @@
 ---
 slug: "trm-263-peszke-ma"
-id: "TRM-ENG-38794"
+id: "TRM-ENG-53323"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "263. Peszke MA"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-from-individuals-who-have-been-blind-since-birth"
-id: "TRM-ENG-45147"
+id: "TRM-ENG-59676"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "from individuals who have been blind since birth"

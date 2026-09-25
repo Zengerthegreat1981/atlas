@@ -1,6 +1,6 @@
 ---
 slug: "trm-reprinted-ed-new-york"
-id: "TRM-ENG-37425"
+id: "TRM-ENG-66483"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Reprinted ed.). New York"

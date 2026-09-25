@@ -1,6 +1,6 @@
 ---
 slug: "trm-e-2015-personality-disorders-in-dsm5"
-id: "TRM-ENG-42383"
+id: "TRM-ENG-56912"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "E. (2015). Personality disorders in DSM-5"

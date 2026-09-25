@@ -1,6 +1,6 @@
 ---
 slug: "trm-theworldspopulationwerelivingundercolonialrule"
-id: "TRM-ENG-38348"
+id: "TRM-ENG-52877"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theworld’spopulationwerelivingundercolonialrule"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp-155195-san-diego-ca"
-id: "TRM-ENG-49942"
+id: "TRM-ENG-64471"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp. 155–195). San Diego, CA"

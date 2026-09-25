@@ -1,6 +1,6 @@
 ---
 slug: "trm-pouncing"
-id: "TRM-ENG-34991"
+id: "TRM-ENG-49520"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pouncing)"

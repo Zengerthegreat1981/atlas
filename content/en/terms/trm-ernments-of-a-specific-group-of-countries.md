@@ -1,6 +1,6 @@
 ---
 slug: "trm-ernments-of-a-specific-group-of-countries"
-id: "TRM-ENG-47983"
+id: "TRM-ENG-62512"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ernments of a specific group of countries"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-krishnanl2005conceptsofsocialbehaviourinindia"
-id: "TRM-ENG-37014"
+id: "TRM-ENG-66072"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Krishnan,L.(2005).ConceptsofsocialbehaviourinIndia"

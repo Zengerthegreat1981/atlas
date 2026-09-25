@@ -1,6 +1,6 @@
 ---
 slug: "trm-disorderormentaldisease"
-id: "TRM-ENG-43615"
+id: "TRM-ENG-58144"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disorderormentaldisease."

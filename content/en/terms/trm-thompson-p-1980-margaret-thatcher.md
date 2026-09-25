@@ -1,6 +1,6 @@
 ---
 slug: "trm-thompson-p-1980-margaret-thatcher"
-id: "TRM-ENG-34703"
+id: "TRM-ENG-63761"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Thompson, P. (1980), Margaret Thatcher"

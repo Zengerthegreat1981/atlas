@@ -1,6 +1,6 @@
 ---
 slug: "trm-clinical-interventions-regarding-4"
-id: "TRM-ENG-39534"
+id: "TRM-ENG-54063"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "clinical interventions regarding, 4"

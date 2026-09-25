@@ -1,6 +1,6 @@
 ---
 slug: "trm-megaanalysis-of-metaanalyses"
-id: "TRM-ENG-34748"
+id: "TRM-ENG-63806"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mega-analysis of meta-analyses"

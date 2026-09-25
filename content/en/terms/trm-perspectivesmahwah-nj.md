@@ -1,6 +1,6 @@
 ---
 slug: "trm-perspectivesmahwah-nj"
-id: "TRM-ENG-41165"
+id: "TRM-ENG-55694"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "perspectives.Mahwah, NJ"

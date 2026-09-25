@@ -1,6 +1,6 @@
 ---
 slug: "trm-an-initiation-into-a-worthwhile-form-of-life"
-id: "TRM-ENG-47580"
+id: "TRM-ENG-62109"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "an initiation into a worthwhile form of life"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-status-power-and-ability-to-provide-for-his-family"
-id: "TRM-ENG-41775"
+id: "TRM-ENG-56304"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "status, power, and ability to provide for his family"

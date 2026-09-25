@@ -1,6 +1,6 @@
 ---
 slug: "trm-three-topics"
-id: "TRM-ENG-45613"
+id: "TRM-ENG-60142"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "three topics"

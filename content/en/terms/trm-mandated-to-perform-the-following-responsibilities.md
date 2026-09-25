@@ -1,6 +1,6 @@
 ---
 slug: "trm-mandated-to-perform-the-following-responsibilities"
-id: "TRM-ENG-35925"
+id: "TRM-ENG-64983"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mandated to perform the following responsibilities"

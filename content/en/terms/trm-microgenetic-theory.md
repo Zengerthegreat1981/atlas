@@ -1,6 +1,6 @@
 ---
 slug: "trm-microgenetic-theory"
-id: "TRM-ENG-37076"
+id: "TRM-ENG-51605"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Microgenetic Theory"

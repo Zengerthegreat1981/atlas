@@ -1,6 +1,6 @@
 ---
 slug: "trm-gross-levels"
-id: "TRM-ENG-45061"
+id: "TRM-ENG-59590"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "gross levels"

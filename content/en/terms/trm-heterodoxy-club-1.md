@@ -1,6 +1,6 @@
 ---
 slug: "trm-heterodoxy-club-1"
-id: "TRM-ENG-46764"
+id: "TRM-ENG-61293"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Heterodoxy Club, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-memory-deficit-type-and-1"
-id: "TRM-ENG-40817"
+id: "TRM-ENG-55346"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "memory deficit type and, 1"

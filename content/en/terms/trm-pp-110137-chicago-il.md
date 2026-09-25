@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp-110137-chicago-il"
-id: "TRM-ENG-46130"
+id: "TRM-ENG-60659"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp. 110–137). Chicago, IL"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-sis-in-terms-of-underlying-dispositions"
-id: "TRM-ENG-48581"
+id: "TRM-ENG-63110"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sis in terms of underlying dispositions"

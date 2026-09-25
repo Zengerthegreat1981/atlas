@@ -1,6 +1,6 @@
 ---
 slug: "trm-inpatient-counseling-services-of-1"
-id: "TRM-ENG-40567"
+id: "TRM-ENG-55096"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "inpatient counseling services of, 1"

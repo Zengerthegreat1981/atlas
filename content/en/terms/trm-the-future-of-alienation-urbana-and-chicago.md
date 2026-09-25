@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-future-of-alienation-urbana-and-chicago"
-id: "TRM-ENG-46090"
+id: "TRM-ENG-60619"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "———. The Future of Alienation. Urbana and Chicago"

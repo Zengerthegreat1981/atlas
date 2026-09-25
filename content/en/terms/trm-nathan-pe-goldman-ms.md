@@ -1,6 +1,6 @@
 ---
 slug: "trm-nathan-pe-goldman-ms"
-id: "TRM-ENG-41820"
+id: "TRM-ENG-56349"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nathan PE, Goldman MS"

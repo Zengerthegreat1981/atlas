@@ -1,6 +1,6 @@
 ---
 slug: "trm-receptive-type"
-id: "TRM-ENG-45271"
+id: "TRM-ENG-59800"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "receptive type"

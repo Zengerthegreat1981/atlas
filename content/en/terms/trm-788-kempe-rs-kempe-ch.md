@@ -1,6 +1,6 @@
 ---
 slug: "trm-788-kempe-rs-kempe-ch"
-id: "TRM-ENG-39440"
+id: "TRM-ENG-53969"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "788. Kempe RS, Kempe CH"

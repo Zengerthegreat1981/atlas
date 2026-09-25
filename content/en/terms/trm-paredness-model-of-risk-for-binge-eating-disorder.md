@@ -1,6 +1,6 @@
 ---
 slug: "trm-paredness-model-of-risk-for-binge-eating-disorder"
-id: "TRM-ENG-43789"
+id: "TRM-ENG-58318"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "paredness model of risk for binge eating disorder"

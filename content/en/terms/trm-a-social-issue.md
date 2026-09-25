@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-social-issue"
-id: "TRM-ENG-34841"
+id: "TRM-ENG-63899"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "a social issue"

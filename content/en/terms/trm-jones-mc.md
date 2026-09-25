@@ -1,6 +1,6 @@
 ---
 slug: "trm-jones-mc"
-id: "TRM-ENG-41151"
+id: "TRM-ENG-55680"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jones MC"

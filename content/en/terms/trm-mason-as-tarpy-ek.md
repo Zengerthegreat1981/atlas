@@ -1,6 +1,6 @@
 ---
 slug: "trm-mason-as-tarpy-ek"
-id: "TRM-ENG-41605"
+id: "TRM-ENG-56134"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mason AS, Tarpy EK"

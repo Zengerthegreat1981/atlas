@@ -1,6 +1,6 @@
 ---
 slug: "trm-ence-1"
-id: "TRM-ENG-36395"
+id: "TRM-ENG-65453"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ence (§1)"

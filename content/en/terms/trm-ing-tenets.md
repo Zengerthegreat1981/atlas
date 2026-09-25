@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-tenets"
-id: "TRM-ENG-48198"
+id: "TRM-ENG-62727"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing tenets"

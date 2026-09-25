@@ -1,6 +1,6 @@
 ---
 slug: "trm-relationship-rev-ed-new-york-ny"
-id: "TRM-ENG-51790"
+id: "TRM-ENG-66319"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "relationship (Rev. ed.). New York, NY"

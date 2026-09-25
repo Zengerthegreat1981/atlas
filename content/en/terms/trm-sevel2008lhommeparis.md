@@ -1,6 +1,6 @@
 ---
 slug: "trm-sevel2008lhommeparis"
-id: "TRM-ENG-37274"
+id: "TRM-ENG-66332"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Se`ve,L.(2008).L’homme?Paris"

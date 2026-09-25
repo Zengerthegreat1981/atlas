@@ -1,6 +1,6 @@
 ---
 slug: "trm-spencer1908"
-id: "TRM-ENG-36440"
+id: "TRM-ENG-65498"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Spencer1908"

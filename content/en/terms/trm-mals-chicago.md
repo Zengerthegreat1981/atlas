@@ -1,6 +1,6 @@
 ---
 slug: "trm-mals-chicago"
-id: "TRM-ENG-36663"
+id: "TRM-ENG-65721"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mals. Chicago"

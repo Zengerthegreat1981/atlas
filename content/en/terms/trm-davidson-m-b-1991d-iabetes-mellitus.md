@@ -1,6 +1,6 @@
 ---
 slug: "trm-davidson-m-b-1991d-iabetes-mellitus"
-id: "TRM-ENG-34669"
+id: "TRM-ENG-49198"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Davidson, M. B. (1991).D iabetes mellitus"

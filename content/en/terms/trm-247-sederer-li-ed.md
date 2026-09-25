@@ -1,6 +1,6 @@
 ---
 slug: "trm-247-sederer-li-ed"
-id: "TRM-ENG-38773"
+id: "TRM-ENG-53302"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "247. Sederer LI (ed)"

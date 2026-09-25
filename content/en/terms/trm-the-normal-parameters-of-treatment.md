@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-normal-parameters-of-treatment"
-id: "TRM-ENG-48637"
+id: "TRM-ENG-63166"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the normal parameters of treatment"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-shaver-pr-collins-n-clark-cl"
-id: "TRM-ENG-48061"
+id: "TRM-ENG-62590"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shaver PR, Collins N, Clark CL"

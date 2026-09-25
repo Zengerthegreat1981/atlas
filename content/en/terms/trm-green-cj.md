@@ -1,6 +1,6 @@
 ---
 slug: "trm-green-cj"
-id: "TRM-ENG-40799"
+id: "TRM-ENG-55328"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Green CJ"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-curricular-ideas-2"
-id: "TRM-ENG-47858"
+id: "TRM-ENG-62387"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "curricular ideas, 2"

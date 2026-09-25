@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapeutic-working-alliance-and-2"
-id: "TRM-ENG-41934"
+id: "TRM-ENG-56463"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapeutic working alliance and, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-gies-that-three-influential-scientists"
-id: "TRM-ENG-35828"
+id: "TRM-ENG-50357"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "gies that three influential scientists"

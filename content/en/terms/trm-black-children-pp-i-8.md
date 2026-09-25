@@ -1,6 +1,6 @@
 ---
 slug: "trm-black-children-pp-i-8"
-id: "TRM-ENG-34636"
+id: "TRM-ENG-49165"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Black children (pp. I 8"

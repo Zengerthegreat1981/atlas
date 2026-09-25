@@ -1,6 +1,6 @@
 ---
 slug: "trm-anderson-hh-anderson-gl"
-id: "TRM-ENG-39692"
+id: "TRM-ENG-54221"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Anderson HH, Anderson GL"

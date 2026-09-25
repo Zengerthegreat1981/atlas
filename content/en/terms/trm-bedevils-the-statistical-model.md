@@ -1,6 +1,6 @@
 ---
 slug: "trm-bedevils-the-statistical-model"
-id: "TRM-ENG-36193"
+id: "TRM-ENG-65251"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bedevils the statistical model"

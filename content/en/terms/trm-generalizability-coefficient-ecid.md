@@ -1,6 +1,6 @@
 ---
 slug: "trm-generalizability-coefficient-ecid"
-id: "TRM-ENG-35826"
+id: "TRM-ENG-50355"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "generalizability coefficient (E(cid"

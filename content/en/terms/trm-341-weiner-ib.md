@@ -1,6 +1,6 @@
 ---
 slug: "trm-341-weiner-ib"
-id: "TRM-ENG-38907"
+id: "TRM-ENG-53436"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "341. Weiner IB"

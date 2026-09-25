@@ -1,6 +1,6 @@
 ---
 slug: "trm-uk-primary-care-routine-practice"
-id: "TRM-ENG-42565"
+id: "TRM-ENG-57094"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "UK primary care routine practice"

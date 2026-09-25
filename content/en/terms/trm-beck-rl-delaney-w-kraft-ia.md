@@ -1,6 +1,6 @@
 ---
 slug: "trm-beck-rl-delaney-w-kraft-ia"
-id: "TRM-ENG-39838"
+id: "TRM-ENG-54367"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Beck RL, Delaney W, Kraft IA"

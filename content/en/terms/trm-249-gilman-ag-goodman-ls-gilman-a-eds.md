@@ -1,6 +1,6 @@
 ---
 slug: "trm-249-gilman-ag-goodman-ls-gilman-a-eds"
-id: "TRM-ENG-38775"
+id: "TRM-ENG-53304"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "249. Gilman AG, Goodman LS, Gilman A (eds)"

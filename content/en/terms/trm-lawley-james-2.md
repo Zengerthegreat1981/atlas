@@ -1,6 +1,6 @@
 ---
 slug: "trm-lawley-james-2"
-id: "TRM-ENG-50662"
+id: "TRM-ENG-65191"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lawley, James, 2"

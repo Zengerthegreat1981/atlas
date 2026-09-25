@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapeutic-alliance-importance-and-2"
-id: "TRM-ENG-41927"
+id: "TRM-ENG-56456"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapeutic alliance importance and, 2"

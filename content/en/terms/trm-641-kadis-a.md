@@ -1,6 +1,6 @@
 ---
 slug: "trm-641-kadis-a"
-id: "TRM-ENG-39267"
+id: "TRM-ENG-53796"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "641. Kadis A"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-doll-study-of-3"
-id: "TRM-ENG-39970"
+id: "TRM-ENG-54499"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "doll study of, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-the-artistic-temperamentnew-york"
-id: "TRM-ENG-36143"
+id: "TRM-ENG-65201"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and the artistic temperament.New York"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-his-experiences"
-id: "TRM-ENG-45185"
+id: "TRM-ENG-59714"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of his experiences"

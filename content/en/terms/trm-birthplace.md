@@ -1,6 +1,6 @@
 ---
 slug: "trm-birthplace"
-id: "TRM-ENG-36620"
+id: "TRM-ENG-51149"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Birthplace"

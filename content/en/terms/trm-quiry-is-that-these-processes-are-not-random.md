@@ -1,6 +1,6 @@
 ---
 slug: "trm-quiry-is-that-these-processes-are-not-random"
-id: "TRM-ENG-35278"
+id: "TRM-ENG-64336"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "quiry is that these processes are not random"

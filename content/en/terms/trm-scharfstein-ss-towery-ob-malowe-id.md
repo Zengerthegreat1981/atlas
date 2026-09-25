@@ -1,6 +1,6 @@
 ---
 slug: "trm-scharfstein-ss-towery-ob-malowe-id"
-id: "TRM-ENG-42262"
+id: "TRM-ENG-56791"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Scharfstein SS, Towery OB, Malowe ID"

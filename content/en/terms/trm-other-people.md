@@ -1,6 +1,6 @@
 ---
 slug: "trm-other-people"
-id: "TRM-ENG-43105"
+id: "TRM-ENG-57634"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "other people"

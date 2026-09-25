@@ -1,6 +1,6 @@
 ---
 slug: "trm-regarding-sampling-theory-in-the-field-of-statistics"
-id: "TRM-ENG-36067"
+id: "TRM-ENG-65125"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "regarding sampling theory in the field of statistics"

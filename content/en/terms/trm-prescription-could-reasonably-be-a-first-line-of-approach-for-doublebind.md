@@ -1,6 +1,6 @@
 ---
 slug: "trm-prescription-could-reasonably-be-a-first-line-of-approach-for-doublebind"
-id: "TRM-ENG-36894"
+id: "TRM-ENG-51423"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "prescription could reasonably be a first line of approach for double-bind"

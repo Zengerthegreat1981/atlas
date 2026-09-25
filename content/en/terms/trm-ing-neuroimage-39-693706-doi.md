@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-neuroimage-39-693706-doi"
-id: "TRM-ENG-35877"
+id: "TRM-ENG-50406"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing. NeuroImage, 39, 693–706. doi"

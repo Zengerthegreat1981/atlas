@@ -1,6 +1,6 @@
 ---
 slug: "trm-computer-competency-issue-and-1"
-id: "TRM-ENG-39626"
+id: "TRM-ENG-54155"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "computer competency issue and, 1"

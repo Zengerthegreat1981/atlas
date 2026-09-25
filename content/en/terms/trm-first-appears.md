@@ -1,6 +1,6 @@
 ---
 slug: "trm-first-appears"
-id: "TRM-ENG-42833"
+id: "TRM-ENG-57362"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "first appears"

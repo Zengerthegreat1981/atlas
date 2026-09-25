@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-predicted-symptom-expression-an-analogue-meaning"
-id: "TRM-ENG-43870"
+id: "TRM-ENG-58399"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the predicted symptom expression). An analogue meaning"

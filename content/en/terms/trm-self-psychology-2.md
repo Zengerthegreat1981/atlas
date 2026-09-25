@@ -1,6 +1,6 @@
 ---
 slug: "trm-self-psychology-2"
-id: "TRM-ENG-51811"
+id: "TRM-ENG-66340"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "self psychology, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-blauner-r-alienation-and-freedom"
-id: "TRM-ENG-44294"
+id: "TRM-ENG-58823"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Blauner, R., Alienation and Freedom"

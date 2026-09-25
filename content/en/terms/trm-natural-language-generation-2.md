@@ -1,6 +1,6 @@
 ---
 slug: "trm-natural-language-generation-2"
-id: "TRM-ENG-44645"
+id: "TRM-ENG-59174"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Natural language generation , 2"

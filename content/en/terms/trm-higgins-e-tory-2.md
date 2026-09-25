@@ -1,6 +1,6 @@
 ---
 slug: "trm-higgins-e-tory-2"
-id: "TRM-ENG-38171"
+id: "TRM-ENG-52700"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Higgins, E. Tory, 2"

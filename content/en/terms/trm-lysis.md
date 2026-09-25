@@ -1,6 +1,6 @@
 ---
 slug: "trm-lysis"
-id: "TRM-ENG-47088"
+id: "TRM-ENG-61617"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lysis"

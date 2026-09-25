@@ -1,6 +1,6 @@
 ---
 slug: "trm-richardson-c"
-id: "TRM-ENG-42108"
+id: "TRM-ENG-56637"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Richardson C"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-spatial"
-id: "TRM-ENG-37313"
+id: "TRM-ENG-66371"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spatial"

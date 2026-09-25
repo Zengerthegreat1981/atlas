@@ -1,6 +1,6 @@
 ---
 slug: "trm-caplan-g-grunebaum-h"
-id: "TRM-ENG-40123"
+id: "TRM-ENG-54652"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Caplan G, Grunebaum H"

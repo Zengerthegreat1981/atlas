@@ -1,6 +1,6 @@
 ---
 slug: "trm-lazell-ew"
-id: "TRM-ENG-41381"
+id: "TRM-ENG-55910"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lazell EW"

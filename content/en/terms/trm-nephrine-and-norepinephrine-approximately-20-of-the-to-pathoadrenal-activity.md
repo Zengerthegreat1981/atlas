@@ -1,6 +1,6 @@
 ---
 slug: "trm-nephrine-and-norepinephrine-approximately-20-of-the-to-pathoadrenal-activity"
-id: "TRM-ENG-36743"
+id: "TRM-ENG-65801"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nephrine and norepinephrine (approximately 20% of the to- pathoadrenal activity"

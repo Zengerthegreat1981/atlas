@@ -1,6 +1,6 @@
 ---
 slug: "trm-though-not-explicitly-stated"
-id: "TRM-ENG-44215"
+id: "TRM-ENG-58744"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "though not explicitly stated"

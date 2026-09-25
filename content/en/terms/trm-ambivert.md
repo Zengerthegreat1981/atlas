@@ -1,6 +1,6 @@
 ---
 slug: "trm-ambivert"
-id: "TRM-ENG-52040"
+id: "TRM-ENG-66569"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ambivert"

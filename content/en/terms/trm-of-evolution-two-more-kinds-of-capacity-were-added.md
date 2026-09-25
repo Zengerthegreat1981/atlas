@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-evolution-two-more-kinds-of-capacity-were-added"
-id: "TRM-ENG-38018"
+id: "TRM-ENG-52547"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of evolution, two more kinds of capacity were added"

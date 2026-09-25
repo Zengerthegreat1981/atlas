@@ -1,6 +1,6 @@
 ---
 slug: "trm-rate-but-complementary-meanings"
-id: "TRM-ENG-48554"
+id: "TRM-ENG-63083"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rate but complementary meanings"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-hoffman-e-1994-the-drive-for-self"
-id: "TRM-ENG-50539"
+id: "TRM-ENG-65068"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hoffman, E. (1994). The drive for self"

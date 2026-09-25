@@ -1,6 +1,6 @@
 ---
 slug: "trm-lost-her-extended-family"
-id: "TRM-ENG-45140"
+id: "TRM-ENG-59669"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lost her extended family"

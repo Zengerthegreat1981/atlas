@@ -1,6 +1,6 @@
 ---
 slug: "trm-thomson-m-2006-psychological-subjects"
-id: "TRM-ENG-37365"
+id: "TRM-ENG-51894"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Thomson, M. (2006). Psychological subjects"

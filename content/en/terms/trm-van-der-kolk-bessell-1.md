@@ -1,6 +1,6 @@
 ---
 slug: "trm-van-der-kolk-bessell-1"
-id: "TRM-ENG-42111"
+id: "TRM-ENG-56640"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "van der Kolk, Bessell, 1"

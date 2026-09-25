@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-class-status-and-3"
-id: "TRM-ENG-41686"
+id: "TRM-ENG-56215"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social class status and, 3"

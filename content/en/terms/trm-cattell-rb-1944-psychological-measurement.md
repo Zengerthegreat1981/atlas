@@ -1,6 +1,6 @@
 ---
 slug: "trm-cattell-rb-1944-psychological-measurement"
-id: "TRM-ENG-35617"
+id: "TRM-ENG-64675"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cattell, R.B. (1944). Psychological measurement"

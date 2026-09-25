@@ -1,6 +1,6 @@
 ---
 slug: "trm-thedoublehelix"
-id: "TRM-ENG-45797"
+id: "TRM-ENG-60326"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "TheDoubleHelix"

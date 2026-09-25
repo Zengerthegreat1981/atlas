@@ -1,6 +1,6 @@
 ---
 slug: "trm-gattefoss-rene-1"
-id: "TRM-ENG-50459"
+id: "TRM-ENG-64988"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gattefossé, Rene, 1"

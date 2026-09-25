@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-the-adaptational-view"
-id: "TRM-ENG-44447"
+id: "TRM-ENG-58976"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "In the adaptational view"

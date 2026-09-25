@@ -1,6 +1,6 @@
 ---
 slug: "trm-brofenbrenner-u-two-worlds-of-childhood"
-id: "TRM-ENG-44305"
+id: "TRM-ENG-58834"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brofenbrenner, U., Two Worlds of Childhood"

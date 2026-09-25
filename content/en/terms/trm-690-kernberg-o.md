@@ -1,6 +1,6 @@
 ---
 slug: "trm-690-kernberg-o"
-id: "TRM-ENG-39322"
+id: "TRM-ENG-53851"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "690. Kernberg O"

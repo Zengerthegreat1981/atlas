@@ -1,6 +1,6 @@
 ---
 slug: "trm-nonspatial-1"
-id: "TRM-ENG-45334"
+id: "TRM-ENG-59863"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nonspatial, 1"

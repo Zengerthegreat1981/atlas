@@ -1,6 +1,6 @@
 ---
 slug: "trm-gstudy-cid"
-id: "TRM-ENG-35389"
+id: "TRM-ENG-49918"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "G-study (cid"

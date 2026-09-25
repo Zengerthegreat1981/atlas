@@ -1,6 +1,6 @@
 ---
 slug: "trm-wagman-m"
-id: "TRM-ENG-42688"
+id: "TRM-ENG-57217"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wagman M"

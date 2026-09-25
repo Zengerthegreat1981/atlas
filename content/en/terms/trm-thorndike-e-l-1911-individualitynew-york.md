@@ -1,6 +1,6 @@
 ---
 slug: "trm-thorndike-e-l-1911-individualitynew-york"
-id: "TRM-ENG-38918"
+id: "TRM-ENG-53447"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Thorndike, E. L. (1911). Individuality.New York"

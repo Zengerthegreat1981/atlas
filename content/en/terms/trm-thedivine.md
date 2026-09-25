@@ -1,6 +1,6 @@
 ---
 slug: "trm-thedivine"
-id: "TRM-ENG-46043"
+id: "TRM-ENG-60572"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theDivine"

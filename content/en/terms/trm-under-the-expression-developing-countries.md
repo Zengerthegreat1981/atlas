@@ -1,6 +1,6 @@
 ---
 slug: "trm-under-the-expression-developing-countries"
-id: "TRM-ENG-38407"
+id: "TRM-ENG-52936"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "under the expression “developing countries”"

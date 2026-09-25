@@ -1,6 +1,6 @@
 ---
 slug: "trm-friedman-jm-hogan-dr"
-id: "TRM-ENG-40628"
+id: "TRM-ENG-55157"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Friedman JM, Hogan DR"

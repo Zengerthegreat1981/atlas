@@ -1,6 +1,6 @@
 ---
 slug: "trm-global-political-economy-p-acifica-review"
-id: "TRM-ENG-48076"
+id: "TRM-ENG-62605"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "global political economy. P acifica Review"

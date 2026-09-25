@@ -1,6 +1,6 @@
 ---
 slug: "trm-adrenaline-5hydroxytryptamine-and-5hydroxy-sion"
-id: "TRM-ENG-42586"
+id: "TRM-ENG-57115"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "adrenaline, 5-hydroxytryptamine, and 5-hydroxy- sion"

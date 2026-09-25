@@ -1,6 +1,6 @@
 ---
 slug: "trm-nesses-and-health-issues-new-york"
-id: "TRM-ENG-46160"
+id: "TRM-ENG-60689"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nesses, and Health Issues (New York"

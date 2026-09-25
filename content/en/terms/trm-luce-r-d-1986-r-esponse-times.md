@@ -1,6 +1,6 @@
 ---
 slug: "trm-luce-r-d-1986-r-esponse-times"
-id: "TRM-ENG-44598"
+id: "TRM-ENG-59127"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Luce, R. D. (1986). R esponse times"

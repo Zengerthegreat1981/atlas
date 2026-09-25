@@ -1,6 +1,6 @@
 ---
 slug: "trm-makiguchi-2"
-id: "TRM-ENG-46956"
+id: "TRM-ENG-61485"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Makiguchi, 2"

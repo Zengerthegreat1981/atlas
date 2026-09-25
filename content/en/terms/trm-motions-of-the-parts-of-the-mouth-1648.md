@@ -1,6 +1,6 @@
 ---
 slug: "trm-motions-of-the-parts-of-the-mouth-1648"
-id: "TRM-ENG-37978"
+id: "TRM-ENG-52507"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "motions of the parts of the Mouth” (1648"

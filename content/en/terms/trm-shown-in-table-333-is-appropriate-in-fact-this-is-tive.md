@@ -1,6 +1,6 @@
 ---
 slug: "trm-shown-in-table-333-is-appropriate-in-fact-this-is-tive"
-id: "TRM-ENG-36118"
+id: "TRM-ENG-65176"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "shown in Table 33.3 is appropriate. In fact, this is tive"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-marketing-research-14-5761-doi"
-id: "TRM-ENG-35440"
+id: "TRM-ENG-49969"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Marketing Research, 1(4), 57–61. doi"

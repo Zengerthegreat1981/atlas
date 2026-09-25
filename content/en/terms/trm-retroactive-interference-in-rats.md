@@ -1,6 +1,6 @@
 ---
 slug: "trm-retroactive-interference-in-rats"
-id: "TRM-ENG-35919"
+id: "TRM-ENG-64977"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Retroactive interference in rats"

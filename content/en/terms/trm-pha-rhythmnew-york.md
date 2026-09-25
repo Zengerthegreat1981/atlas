@@ -1,6 +1,6 @@
 ---
 slug: "trm-pha-rhythmnew-york"
-id: "TRM-ENG-36854"
+id: "TRM-ENG-65912"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pha rhythm.New York"

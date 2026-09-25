@@ -1,6 +1,6 @@
 ---
 slug: "trm-neural-networks"
-id: "TRM-ENG-34950"
+id: "TRM-ENG-64008"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "neural networks"

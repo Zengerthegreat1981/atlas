@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp-194220-frankfurtparislancasternew-brunswick"
-id: "TRM-ENG-36456"
+id: "TRM-ENG-65514"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp. 194–220). Frankfurt/Paris/Lancaster/New Brunswick"

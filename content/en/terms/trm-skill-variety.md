@@ -1,6 +1,6 @@
 ---
 slug: "trm-skill-variety"
-id: "TRM-ENG-37006"
+id: "TRM-ENG-66064"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "skill variety"

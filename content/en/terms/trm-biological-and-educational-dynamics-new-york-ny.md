@@ -1,6 +1,6 @@
 ---
 slug: "trm-biological-and-educational-dynamics-new-york-ny"
-id: "TRM-ENG-47703"
+id: "TRM-ENG-62232"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "biological, and educational dynamics. New York, NY"

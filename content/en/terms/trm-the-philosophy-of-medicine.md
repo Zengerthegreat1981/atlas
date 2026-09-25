@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-philosophy-of-medicine"
-id: "TRM-ENG-35380"
+id: "TRM-ENG-49909"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the philosophy of medicine"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-distress-cues-moral-transgressions"
-id: "TRM-ENG-42783"
+id: "TRM-ENG-57312"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "distress cues (moral transgressions"

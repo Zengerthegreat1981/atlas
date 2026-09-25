@@ -1,6 +1,6 @@
 ---
 slug: "trm-cism"
-id: "TRM-ENG-34940"
+id: "TRM-ENG-63998"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cism"

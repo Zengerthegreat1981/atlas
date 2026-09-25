@@ -1,6 +1,6 @@
 ---
 slug: "trm-control-program-for-windows"
-id: "TRM-ENG-49368"
+id: "TRM-ENG-63897"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "control program for windows"

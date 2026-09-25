@@ -1,6 +1,6 @@
 ---
 slug: "trm-losophy881991"
-id: "TRM-ENG-45951"
+id: "TRM-ENG-60480"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "losophy88(1991)"

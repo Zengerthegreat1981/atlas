@@ -1,6 +1,6 @@
 ---
 slug: "trm-murray-charles-1"
-id: "TRM-ENG-47033"
+id: "TRM-ENG-61562"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Murray, Charles, 1"

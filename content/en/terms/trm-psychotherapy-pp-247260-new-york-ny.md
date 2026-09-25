@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychotherapy-pp-247260-new-york-ny"
-id: "TRM-ENG-51758"
+id: "TRM-ENG-66287"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychotherapy (pp. 247–260). New York, NY"

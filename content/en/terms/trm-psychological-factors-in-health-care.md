@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychological-factors-in-health-care"
-id: "TRM-ENG-46668"
+id: "TRM-ENG-61197"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychological factors in health care"

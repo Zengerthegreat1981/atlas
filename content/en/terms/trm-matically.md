@@ -1,6 +1,6 @@
 ---
 slug: "trm-matically"
-id: "TRM-ENG-48317"
+id: "TRM-ENG-62846"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "matically"

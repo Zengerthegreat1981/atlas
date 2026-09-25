@@ -1,6 +1,6 @@
 ---
 slug: "trm-melting-pot-concept-and-3"
-id: "TRM-ENG-40813"
+id: "TRM-ENG-55342"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "melting pot concept and, 3"

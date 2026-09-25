@@ -1,6 +1,6 @@
 ---
 slug: "trm-palmer-rd"
-id: "TRM-ENG-41910"
+id: "TRM-ENG-56439"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Palmer RD"

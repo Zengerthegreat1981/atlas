@@ -1,6 +1,6 @@
 ---
 slug: "trm-harperrlentoneacookeid1985prolactin-procedures"
-id: "TRM-ENG-46541"
+id: "TRM-ENG-61070"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Harper,R.,Lenton,E.A.,&Cooke,I.D.(1985).Prolactin procedures"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-frankl-ve"
-id: "TRM-ENG-40591"
+id: "TRM-ENG-55120"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Frankl VE"

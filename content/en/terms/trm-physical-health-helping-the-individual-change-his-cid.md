@@ -1,6 +1,6 @@
 ---
 slug: "trm-physical-health-helping-the-individual-change-his-cid"
-id: "TRM-ENG-46195"
+id: "TRM-ENG-60724"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "physical health. Helping the individual change his (cid"

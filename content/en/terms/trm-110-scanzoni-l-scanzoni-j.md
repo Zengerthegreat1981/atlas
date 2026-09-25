@@ -1,6 +1,6 @@
 ---
 slug: "trm-110-scanzoni-l-scanzoni-j"
-id: "TRM-ENG-38571"
+id: "TRM-ENG-53100"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "110. Scanzoni L, Scanzoni J"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-posner-h-1"
-id: "TRM-ENG-47146"
+id: "TRM-ENG-61675"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Posner, H., 1"

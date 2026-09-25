@@ -1,6 +1,6 @@
 ---
 slug: "trm-col-15"
-id: "TRM-ENG-48280"
+id: "TRM-ENG-62809"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "col 15"

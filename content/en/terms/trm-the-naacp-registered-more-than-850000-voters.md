@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-naacp-registered-more-than-850000-voters"
-id: "TRM-ENG-41882"
+id: "TRM-ENG-56411"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the NAACP registered more than 850,000 voters"

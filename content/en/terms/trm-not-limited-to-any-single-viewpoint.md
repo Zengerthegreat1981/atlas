@@ -1,6 +1,6 @@
 ---
 slug: "trm-not-limited-to-any-single-viewpoint"
-id: "TRM-ENG-44147"
+id: "TRM-ENG-58676"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "not limited to any single viewpoint"

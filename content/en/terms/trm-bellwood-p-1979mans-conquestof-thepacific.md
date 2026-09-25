@@ -1,6 +1,6 @@
 ---
 slug: "trm-bellwood-p-1979mans-conquestof-thepacific"
-id: "TRM-ENG-36603"
+id: "TRM-ENG-65661"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bellwood, P. (1979).Man’s conquestof thePacific"

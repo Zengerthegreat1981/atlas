@@ -1,6 +1,6 @@
 ---
 slug: "trm-focuses-attention-on-what-he-calls-mapmaking"
-id: "TRM-ENG-48034"
+id: "TRM-ENG-62563"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "focuses attention on what he calls mapmaking"

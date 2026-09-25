@@ -1,6 +1,6 @@
 ---
 slug: "trm-stanton-a"
-id: "TRM-ENG-42443"
+id: "TRM-ENG-56972"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stanton A"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-categories-of-2"
-id: "TRM-ENG-39455"
+id: "TRM-ENG-53984"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "categories of, 2"

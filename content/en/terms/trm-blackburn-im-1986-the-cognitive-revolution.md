@@ -1,6 +1,6 @@
 ---
 slug: "trm-blackburn-im-1986-the-cognitive-revolution"
-id: "TRM-ENG-48911"
+id: "TRM-ENG-63440"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Blackburn, I.-M. (1986). The Cognitive Revolution"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-raginsky-bb"
-id: "TRM-ENG-42056"
+id: "TRM-ENG-56585"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Raginsky BB"

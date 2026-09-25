@@ -1,6 +1,6 @@
 ---
 slug: "trm-heuristicandthedatabase"
-id: "TRM-ENG-37818"
+id: "TRM-ENG-66876"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "heuristicandthedatabase"

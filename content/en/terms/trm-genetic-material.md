@@ -1,6 +1,6 @@
 ---
 slug: "trm-genetic-material"
-id: "TRM-ENG-52199"
+id: "TRM-ENG-66728"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Genetic material"

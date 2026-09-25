@@ -1,6 +1,6 @@
 ---
 slug: "trm-85"
-id: "TRM-ENG-50068"
+id: "TRM-ENG-64597"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "85%"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-performance-pp107119-washington-dc"
-id: "TRM-ENG-36846"
+id: "TRM-ENG-65904"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "performance (pp.107–119). Washington, DC"

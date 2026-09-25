@@ -1,6 +1,6 @@
 ---
 slug: "trm-tests-and-1"
-id: "TRM-ENG-41865"
+id: "TRM-ENG-56394"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tests and, 1"

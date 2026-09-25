@@ -1,6 +1,6 @@
 ---
 slug: "trm-blaine-b-e-2000-the-psychology-of-diversity"
-id: "TRM-ENG-37713"
+id: "TRM-ENG-66771"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Blaine, B. E. (2000). The psychology of diversity"

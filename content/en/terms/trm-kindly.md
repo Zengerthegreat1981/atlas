@@ -1,6 +1,6 @@
 ---
 slug: "trm-kindly"
-id: "TRM-ENG-48250"
+id: "TRM-ENG-62779"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "kindly"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-1997anupdateonsupportedemploymentforpeople-psychosis"
-id: "TRM-ENG-48766"
+id: "TRM-ENG-63295"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1997).Anupdateonsupportedemploymentforpeople psychosis"

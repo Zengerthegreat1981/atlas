@@ -1,6 +1,6 @@
 ---
 slug: "trm-two-steps"
-id: "TRM-ENG-37256"
+id: "TRM-ENG-51785"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "two steps"

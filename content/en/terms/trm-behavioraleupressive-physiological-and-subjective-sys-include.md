@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavioraleupressive-physiological-and-subjective-sys-include"
-id: "TRM-ENG-34898"
+id: "TRM-ENG-49427"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behavioral/eupressive, physiological, and subjective sys- include"

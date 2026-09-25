@@ -1,6 +1,6 @@
 ---
 slug: "trm-found-to-produce-several-important-effects"
-id: "TRM-ENG-49443"
+id: "TRM-ENG-63972"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "found to produce several important effects"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-altemeyer-robert-2"
-id: "TRM-ENG-44295"
+id: "TRM-ENG-58824"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Altemeyer, Robert, 2"

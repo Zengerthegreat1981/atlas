@@ -1,6 +1,6 @@
 ---
 slug: "trm-ezriel-h"
-id: "TRM-ENG-40485"
+id: "TRM-ENG-55014"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ezriel H"

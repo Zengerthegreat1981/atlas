@@ -1,6 +1,6 @@
 ---
 slug: "trm-certainitemsattheexpenseofothers"
-id: "TRM-ENG-43577"
+id: "TRM-ENG-58106"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "certainitemsattheexpenseofothers"

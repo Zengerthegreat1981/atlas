@@ -1,6 +1,6 @@
 ---
 slug: "trm-ethnicity-vs3"
-id: "TRM-ENG-40107"
+id: "TRM-ENG-54636"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ethnicity vs.,3"

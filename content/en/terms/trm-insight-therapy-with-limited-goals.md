@@ -1,6 +1,6 @@
 ---
 slug: "trm-insight-therapy-with-limited-goals"
-id: "TRM-ENG-43082"
+id: "TRM-ENG-57611"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "insight therapy with limited goals"

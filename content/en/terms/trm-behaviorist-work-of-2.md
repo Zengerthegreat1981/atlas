@@ -1,6 +1,6 @@
 ---
 slug: "trm-behaviorist-work-of-2"
-id: "TRM-ENG-39343"
+id: "TRM-ENG-53872"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behaviorist work of, 2"

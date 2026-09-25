@@ -1,6 +1,6 @@
 ---
 slug: "trm-ationism-has-an-overly-simple-view-of-what-charac-should"
-id: "TRM-ENG-44939"
+id: "TRM-ENG-59468"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ationism has an overly simple view of what charac- should"

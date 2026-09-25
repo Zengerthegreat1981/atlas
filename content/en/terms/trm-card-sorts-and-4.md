@@ -1,6 +1,6 @@
 ---
 slug: "trm-card-sorts-and-4"
-id: "TRM-ENG-39401"
+id: "TRM-ENG-53930"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "card sorts and, 4"

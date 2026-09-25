@@ -1,6 +1,6 @@
 ---
 slug: "trm-751-luborsky-l"
-id: "TRM-ENG-39400"
+id: "TRM-ENG-53929"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "751. Luborsky L"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-simpson-gm"
-id: "TRM-ENG-42362"
+id: "TRM-ENG-56891"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Simpson GM"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ogyberlin"
-id: "TRM-ENG-38054"
+id: "TRM-ENG-67112"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ogy]Berlin"

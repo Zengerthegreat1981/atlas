@@ -1,6 +1,6 @@
 ---
 slug: "trm-theoretical-critiques-of-methodology"
-id: "TRM-ENG-48874"
+id: "TRM-ENG-63403"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theoretical critiques of methodology"

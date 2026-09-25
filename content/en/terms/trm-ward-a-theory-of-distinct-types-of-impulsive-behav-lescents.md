@@ -1,6 +1,6 @@
 ---
 slug: "trm-ward-a-theory-of-distinct-types-of-impulsive-behav-lescents"
-id: "TRM-ENG-43422"
+id: "TRM-ENG-57951"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ward a theory of distinct types of “impulsive” behav- lescents"

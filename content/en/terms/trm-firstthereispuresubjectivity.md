@@ -1,6 +1,6 @@
 ---
 slug: "trm-firstthereispuresubjectivity"
-id: "TRM-ENG-36795"
+id: "TRM-ENG-65853"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "First,thereispuresubjectivity"

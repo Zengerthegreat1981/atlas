@@ -1,6 +1,6 @@
 ---
 slug: "trm-talbott-ja-et-al"
-id: "TRM-ENG-42544"
+id: "TRM-ENG-57073"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Talbott JA, et al"

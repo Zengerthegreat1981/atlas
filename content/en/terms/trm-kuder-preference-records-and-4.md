@@ -1,6 +1,6 @@
 ---
 slug: "trm-kuder-preference-records-and-4"
-id: "TRM-ENG-38344"
+id: "TRM-ENG-52873"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kuder Preference Records and, 4"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-or-that"
-id: "TRM-ENG-43133"
+id: "TRM-ENG-57662"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "or that"

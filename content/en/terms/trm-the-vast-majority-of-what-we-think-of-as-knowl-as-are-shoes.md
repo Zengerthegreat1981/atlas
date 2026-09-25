@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-vast-majority-of-what-we-think-of-as-knowl-as-are-shoes"
-id: "TRM-ENG-47382"
+id: "TRM-ENG-61911"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The vast majority of what we think of as knowl- as are shoes"

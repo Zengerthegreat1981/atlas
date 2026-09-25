@@ -1,6 +1,6 @@
 ---
 slug: "trm-clientcounselor-roles-a-and-1"
-id: "TRM-ENG-39526"
+id: "TRM-ENG-54055"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "client-counselor roles (A) and, 1"

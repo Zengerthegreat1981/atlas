@@ -1,6 +1,6 @@
 ---
 slug: "trm-anomia"
-id: "TRM-ENG-52051"
+id: "TRM-ENG-66580"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Anomia"

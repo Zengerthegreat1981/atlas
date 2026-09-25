@@ -1,6 +1,6 @@
 ---
 slug: "trm-bradshaw-j-1990-homecoming"
-id: "TRM-ENG-50185"
+id: "TRM-ENG-64714"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bradshaw, J. (1990). Homecoming"

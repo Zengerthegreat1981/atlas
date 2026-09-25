@@ -1,6 +1,6 @@
 ---
 slug: "trm-tem-ii"
-id: "TRM-ENG-37072"
+id: "TRM-ENG-66130"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tem II"

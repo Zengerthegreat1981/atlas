@@ -1,6 +1,6 @@
 ---
 slug: "trm-sis-psychometrika-34-183202-doi"
-id: "TRM-ENG-36124"
+id: "TRM-ENG-65182"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sis. Psychometrika, 34, 183–202. doi"

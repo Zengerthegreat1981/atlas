@@ -1,6 +1,6 @@
 ---
 slug: "trm-case-pb"
-id: "TRM-ENG-34595"
+id: "TRM-ENG-49124"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Case P.B."

@@ -1,6 +1,6 @@
 ---
 slug: "trm-culture-shock"
-id: "TRM-ENG-52120"
+id: "TRM-ENG-66649"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Culture shock"

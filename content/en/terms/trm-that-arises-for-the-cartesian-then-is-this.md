@@ -1,6 +1,6 @@
 ---
 slug: "trm-that-arises-for-the-cartesian-then-is-this"
-id: "TRM-ENG-45566"
+id: "TRM-ENG-60095"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "that arises for the Cartesian, then, is this"

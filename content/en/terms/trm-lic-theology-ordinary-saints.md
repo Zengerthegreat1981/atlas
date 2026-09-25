@@ -1,6 +1,6 @@
 ---
 slug: "trm-lic-theology-ordinary-saints"
-id: "TRM-ENG-45946"
+id: "TRM-ENG-60475"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lic Theology; Ordinary Saints"

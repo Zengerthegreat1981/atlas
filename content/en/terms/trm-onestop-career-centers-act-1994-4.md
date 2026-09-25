@@ -1,6 +1,6 @@
 ---
 slug: "trm-onestop-career-centers-act-1994-4"
-id: "TRM-ENG-38540"
+id: "TRM-ENG-53069"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "One-Stop Career Centers Act (1994), 4"

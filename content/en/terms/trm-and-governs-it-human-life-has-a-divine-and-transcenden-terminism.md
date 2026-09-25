@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-governs-it-human-life-has-a-divine-and-transcenden-terminism"
-id: "TRM-ENG-36130"
+id: "TRM-ENG-65188"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and governs it. Human life has a divine and transcenden- terminism"

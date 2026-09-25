@@ -1,6 +1,6 @@
 ---
 slug: "trm-might-even-be-competing-demands-of-loyalty"
-id: "TRM-ENG-45302"
+id: "TRM-ENG-59831"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "might even be competing demands of loyalty"

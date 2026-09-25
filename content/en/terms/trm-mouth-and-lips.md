@@ -1,6 +1,6 @@
 ---
 slug: "trm-mouth-and-lips"
-id: "TRM-ENG-43111"
+id: "TRM-ENG-57640"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mouth and lips"

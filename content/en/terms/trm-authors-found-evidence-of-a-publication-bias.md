@@ -1,6 +1,6 @@
 ---
 slug: "trm-authors-found-evidence-of-a-publication-bias"
-id: "TRM-ENG-46848"
+id: "TRM-ENG-61377"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "authors found evidence of a publication bias"

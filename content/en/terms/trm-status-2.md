@@ -1,6 +1,6 @@
 ---
 slug: "trm-status-2"
-id: "TRM-ENG-47332"
+id: "TRM-ENG-61861"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Status, 2"

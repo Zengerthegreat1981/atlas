@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychophysiology-46-776786-doi"
-id: "TRM-ENG-35520"
+id: "TRM-ENG-64578"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychophysiology, 46, 776–786. doi"

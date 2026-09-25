@@ -1,6 +1,6 @@
 ---
 slug: "trm-19331944-occupations"
-id: "TRM-ENG-37471"
+id: "TRM-ENG-66529"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1933–1944), Occupations"

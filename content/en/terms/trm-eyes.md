@@ -1,6 +1,6 @@
 ---
 slug: "trm-eyes"
-id: "TRM-ENG-36417"
+id: "TRM-ENG-65475"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "eyes"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-higgins-chris-2"
-id: "TRM-ENG-46769"
+id: "TRM-ENG-61298"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Higgins, Chris, 2"

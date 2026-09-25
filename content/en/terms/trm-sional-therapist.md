@@ -1,6 +1,6 @@
 ---
 slug: "trm-sional-therapist"
-id: "TRM-ENG-36999"
+id: "TRM-ENG-66057"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sional therapist"

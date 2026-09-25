@@ -1,6 +1,6 @@
 ---
 slug: "trm-lymphocytesubsetandcellularimmuneresponsestoa-lism"
-id: "TRM-ENG-46617"
+id: "TRM-ENG-61146"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lymphocytesubsetandcellularimmuneresponsestoa lism"

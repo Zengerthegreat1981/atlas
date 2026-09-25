@@ -1,6 +1,6 @@
 ---
 slug: "trm-wilson-g"
-id: "TRM-ENG-42815"
+id: "TRM-ENG-57344"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wilson G"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-conditions-new-york-ny"
-id: "TRM-ENG-51359"
+id: "TRM-ENG-65888"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "conditions. New York, NY"

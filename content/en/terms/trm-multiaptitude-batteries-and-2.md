@@ -1,6 +1,6 @@
 ---
 slug: "trm-multiaptitude-batteries-and-2"
-id: "TRM-ENG-40893"
+id: "TRM-ENG-55422"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "multiaptitude batteries and, 2"

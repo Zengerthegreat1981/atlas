@@ -1,6 +1,6 @@
 ---
 slug: "trm-202-esman-ah-ed"
-id: "TRM-ENG-38714"
+id: "TRM-ENG-53243"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "202. Esman AH (ed)"

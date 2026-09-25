@@ -1,6 +1,6 @@
 ---
 slug: "trm-ferenczi-s-rank-o"
-id: "TRM-ENG-40516"
+id: "TRM-ENG-55045"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ferenczi S, Rank O"

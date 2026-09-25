@@ -1,6 +1,6 @@
 ---
 slug: "trm-dahl-a"
-id: "TRM-ENG-47595"
+id: "TRM-ENG-62124"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dahl A"

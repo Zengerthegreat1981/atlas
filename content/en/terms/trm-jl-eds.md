@@ -1,6 +1,6 @@
 ---
 slug: "trm-jl-eds"
-id: "TRM-ENG-41094"
+id: "TRM-ENG-55623"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "JL (eds)"

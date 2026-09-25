@@ -1,6 +1,6 @@
 ---
 slug: "trm-criteria"
-id: "TRM-ENG-42746"
+id: "TRM-ENG-57275"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "criteria"

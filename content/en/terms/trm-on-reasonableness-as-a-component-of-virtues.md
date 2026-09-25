@@ -1,6 +1,6 @@
 ---
 slug: "trm-on-reasonableness-as-a-component-of-virtues"
-id: "TRM-ENG-48471"
+id: "TRM-ENG-63000"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "on reasonableness as a component of virtues"

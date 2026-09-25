@@ -1,6 +1,6 @@
 ---
 slug: "trm-view-of-psychology-new-york"
-id: "TRM-ENG-42123"
+id: "TRM-ENG-56652"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "view of psychology. New York"

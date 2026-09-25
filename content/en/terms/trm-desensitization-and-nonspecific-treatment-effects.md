@@ -1,6 +1,6 @@
 ---
 slug: "trm-desensitization-and-nonspecific-treatment-effects"
-id: "TRM-ENG-49384"
+id: "TRM-ENG-63913"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "desensitization and non-specific treatment effects"

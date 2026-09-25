@@ -1,6 +1,6 @@
 ---
 slug: "trm-intergroup-process-implications-of-3"
-id: "TRM-ENG-40598"
+id: "TRM-ENG-55127"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "intergroup process implications of, 3"

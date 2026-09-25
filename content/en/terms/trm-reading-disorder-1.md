@@ -1,6 +1,6 @@
 ---
 slug: "trm-reading-disorder-1"
-id: "TRM-ENG-38654"
+id: "TRM-ENG-53183"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Reading disorder, 1"

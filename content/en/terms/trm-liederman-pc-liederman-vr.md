@@ -1,6 +1,6 @@
 ---
 slug: "trm-liederman-pc-liederman-vr"
-id: "TRM-ENG-41463"
+id: "TRM-ENG-55992"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Liederman PC, Liederman VR"

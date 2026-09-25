@@ -1,6 +1,6 @@
 ---
 slug: "trm-musculoskeletal-manipulation-2"
-id: "TRM-ENG-50773"
+id: "TRM-ENG-65302"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Musculoskeletal manipulation, 2"

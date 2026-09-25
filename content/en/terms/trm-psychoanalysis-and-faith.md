@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychoanalysis-and-faith"
-id: "TRM-ENG-44730"
+id: "TRM-ENG-59259"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, Psychoanalysis and Faith"

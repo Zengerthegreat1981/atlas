@@ -1,6 +1,6 @@
 ---
 slug: "trm-development-of-a-measure-of-social-support"
-id: "TRM-ENG-46941"
+id: "TRM-ENG-61470"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "development of a measure of social support"

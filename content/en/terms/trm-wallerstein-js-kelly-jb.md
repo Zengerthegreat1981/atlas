@@ -1,6 +1,6 @@
 ---
 slug: "trm-wallerstein-js-kelly-jb"
-id: "TRM-ENG-42701"
+id: "TRM-ENG-57230"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wallerstein JS, Kelly JB"

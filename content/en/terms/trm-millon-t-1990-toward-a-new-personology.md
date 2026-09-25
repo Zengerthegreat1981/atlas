@@ -1,6 +1,6 @@
 ---
 slug: "trm-millon-t-1990-toward-a-new-personology"
-id: "TRM-ENG-42465"
+id: "TRM-ENG-56994"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Millon, T. (1990). Toward a new personology"

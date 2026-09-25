@@ -1,6 +1,6 @@
 ---
 slug: "trm-as-we-have-seen-already-there-are-several-options"
-id: "TRM-ENG-44310"
+id: "TRM-ENG-58839"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "As we have seen already, there are several options"

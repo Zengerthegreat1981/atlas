@@ -1,6 +1,6 @@
 ---
 slug: "trm-volume-of-information-it-can-integrate-at-great-speed"
-id: "TRM-ENG-37297"
+id: "TRM-ENG-66355"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "volume of information it can integrate at great speed"

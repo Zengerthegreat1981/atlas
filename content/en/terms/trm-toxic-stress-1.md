@@ -1,6 +1,6 @@
 ---
 slug: "trm-toxic-stress-1"
-id: "TRM-ENG-47404"
+id: "TRM-ENG-61933"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Toxic stress, 1"

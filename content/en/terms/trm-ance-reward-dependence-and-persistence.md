@@ -1,6 +1,6 @@
 ---
 slug: "trm-ance-reward-dependence-and-persistence"
-id: "TRM-ENG-42620"
+id: "TRM-ENG-57149"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ance, Reward Dependence, and Persistence"

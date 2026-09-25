@@ -1,6 +1,6 @@
 ---
 slug: "trm-malities-and-their-causes"
-id: "TRM-ENG-43723"
+id: "TRM-ENG-58252"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "malities and their causes."

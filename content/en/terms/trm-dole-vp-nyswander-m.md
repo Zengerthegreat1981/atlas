@@ -1,6 +1,6 @@
 ---
 slug: "trm-dole-vp-nyswander-m"
-id: "TRM-ENG-40364"
+id: "TRM-ENG-54893"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dole VP, Nyswander M"

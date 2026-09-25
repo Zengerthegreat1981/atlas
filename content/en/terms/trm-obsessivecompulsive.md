@@ -1,6 +1,6 @@
 ---
 slug: "trm-obsessivecompulsive"
-id: "TRM-ENG-43762"
+id: "TRM-ENG-58291"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "obsessive-compulsive"

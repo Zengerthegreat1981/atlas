@@ -1,6 +1,6 @@
 ---
 slug: "trm-pulay-aj-stinson-fs-ruan-wj-et-al"
-id: "TRM-ENG-47990"
+id: "TRM-ENG-62519"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pulay AJ, Stinson FS, Ruan WJ, et al"

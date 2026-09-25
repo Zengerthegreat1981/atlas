@@ -1,6 +1,6 @@
 ---
 slug: "trm-selfdisclosure-and-2"
-id: "TRM-ENG-41599"
+id: "TRM-ENG-56128"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "self-disclosure and, 2"

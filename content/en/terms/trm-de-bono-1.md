@@ -1,6 +1,6 @@
 ---
 slug: "trm-de-bono-1"
-id: "TRM-ENG-47864"
+id: "TRM-ENG-62393"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "de Bono, 1"

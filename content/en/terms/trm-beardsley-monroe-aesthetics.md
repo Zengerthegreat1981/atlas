@@ -1,6 +1,6 @@
 ---
 slug: "trm-beardsley-monroe-aesthetics"
-id: "TRM-ENG-45657"
+id: "TRM-ENG-60186"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Beardsley, Monroe. Aesthetics"

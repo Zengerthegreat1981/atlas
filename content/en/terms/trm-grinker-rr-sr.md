@@ -1,6 +1,6 @@
 ---
 slug: "trm-grinker-rr-sr"
-id: "TRM-ENG-40831"
+id: "TRM-ENG-55360"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Grinker RR, Sr."

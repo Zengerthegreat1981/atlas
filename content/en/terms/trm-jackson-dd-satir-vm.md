@@ -1,6 +1,6 @@
 ---
 slug: "trm-jackson-dd-satir-vm"
-id: "TRM-ENG-41096"
+id: "TRM-ENG-55625"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jackson DD, Satir VM"

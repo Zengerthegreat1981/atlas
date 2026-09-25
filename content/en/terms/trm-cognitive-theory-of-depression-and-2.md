@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognitive-theory-of-depression-and-2"
-id: "TRM-ENG-39559"
+id: "TRM-ENG-54088"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cognitive theory of depression and, 2"

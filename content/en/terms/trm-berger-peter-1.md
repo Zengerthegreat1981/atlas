@@ -1,6 +1,6 @@
 ---
 slug: "trm-berger-peter-1"
-id: "TRM-ENG-46296"
+id: "TRM-ENG-60825"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Berger, Peter, 1"

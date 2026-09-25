@@ -1,6 +1,6 @@
 ---
 slug: "trm-binger-c-revolutionary-doctor"
-id: "TRM-ENG-44291"
+id: "TRM-ENG-58820"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Binger, C., Revolutionary Doctor"

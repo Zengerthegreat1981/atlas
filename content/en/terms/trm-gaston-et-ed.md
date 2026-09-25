@@ -1,6 +1,6 @@
 ---
 slug: "trm-gaston-et-ed"
-id: "TRM-ENG-40670"
+id: "TRM-ENG-55199"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gaston ET (ed)"

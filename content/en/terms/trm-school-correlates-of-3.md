@@ -1,6 +1,6 @@
 ---
 slug: "trm-school-correlates-of-3"
-id: "TRM-ENG-41565"
+id: "TRM-ENG-56094"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "school correlates of, 3"

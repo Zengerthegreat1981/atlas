@@ -1,6 +1,6 @@
 ---
 slug: "trm-brown-j-1972-aphasia-apraxia-and-agnosia"
-id: "TRM-ENG-34589"
+id: "TRM-ENG-63647"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brown, J. (1972). Aphasia, apraxia and agnosia"

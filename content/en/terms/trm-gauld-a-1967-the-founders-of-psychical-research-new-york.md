@@ -1,6 +1,6 @@
 ---
 slug: "trm-gauld-a-1967-the-founders-of-psychical-research-new-york"
-id: "TRM-ENG-36836"
+id: "TRM-ENG-51365"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gauld, A. (1967). The founders of psychical research. New York"

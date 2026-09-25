@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-personality-disorder"
-id: "TRM-ENG-43228"
+id: "TRM-ENG-57757"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social personality disorder"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-monkeysandlemurs"
-id: "TRM-ENG-37972"
+id: "TRM-ENG-67030"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "monkeys,andlemurs"

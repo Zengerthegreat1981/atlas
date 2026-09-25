@@ -1,6 +1,6 @@
 ---
 slug: "trm-explanatory-style"
-id: "TRM-ENG-49073"
+id: "TRM-ENG-63602"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“explanatory style”"

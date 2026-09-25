@@ -1,6 +1,6 @@
 ---
 slug: "trm-with-animals"
-id: "TRM-ENG-35121"
+id: "TRM-ENG-64179"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "with animals"

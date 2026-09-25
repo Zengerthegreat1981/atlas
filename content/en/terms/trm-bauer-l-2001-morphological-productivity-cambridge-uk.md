@@ -1,6 +1,6 @@
 ---
 slug: "trm-bauer-l-2001-morphological-productivity-cambridge-uk"
-id: "TRM-ENG-35591"
+id: "TRM-ENG-64649"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bauer, L. (2001). Morphological productivity. Cambridge, UK"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp-4156-washington-dc"
-id: "TRM-ENG-43267"
+id: "TRM-ENG-57796"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp. 41–56). Washington, DC"

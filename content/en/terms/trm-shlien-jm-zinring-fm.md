@@ -1,6 +1,6 @@
 ---
 slug: "trm-shlien-jm-zinring-fm"
-id: "TRM-ENG-42340"
+id: "TRM-ENG-56869"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shlien JM, Zinring FM"

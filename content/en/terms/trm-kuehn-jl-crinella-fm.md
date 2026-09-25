@@ -1,6 +1,6 @@
 ---
 slug: "trm-kuehn-jl-crinella-fm"
-id: "TRM-ENG-41327"
+id: "TRM-ENG-55856"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kuehn JL, Crinella FM"

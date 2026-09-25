@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-feature-of-their-exposition"
-id: "TRM-ENG-42904"
+id: "TRM-ENG-57433"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing feature of their exposition"

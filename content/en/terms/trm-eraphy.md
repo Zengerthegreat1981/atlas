@@ -1,6 +1,6 @@
 ---
 slug: "trm-eraphy"
-id: "TRM-ENG-46083"
+id: "TRM-ENG-60612"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "eraphy"

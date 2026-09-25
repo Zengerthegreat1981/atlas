@@ -1,6 +1,6 @@
 ---
 slug: "trm-able-to-use-the-outcome-of-the-test"
-id: "TRM-ENG-44864"
+id: "TRM-ENG-59393"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "able to use the outcome of the test"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-education-are-not-neutral-with-regard-to-the-ends"
-id: "TRM-ENG-47919"
+id: "TRM-ENG-62448"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "education are not neutral with regard to the ends"

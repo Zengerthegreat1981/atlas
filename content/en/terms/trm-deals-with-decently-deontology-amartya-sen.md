@@ -1,6 +1,6 @@
 ---
 slug: "trm-deals-with-decently-deontology-amartya-sen"
-id: "TRM-ENG-45877"
+id: "TRM-ENG-60406"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "deals with decently (deontology).” Amartya Sen"

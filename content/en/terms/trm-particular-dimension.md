@@ -1,6 +1,6 @@
 ---
 slug: "trm-particular-dimension"
-id: "TRM-ENG-45583"
+id: "TRM-ENG-60112"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "particular dimension"

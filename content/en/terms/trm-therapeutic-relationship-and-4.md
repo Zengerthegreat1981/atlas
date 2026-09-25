@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapeutic-relationship-and-4"
-id: "TRM-ENG-41931"
+id: "TRM-ENG-56460"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapeutic relationship and, 4"

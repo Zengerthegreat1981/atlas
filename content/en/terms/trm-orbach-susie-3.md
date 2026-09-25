@@ -1,6 +1,6 @@
 ---
 slug: "trm-orbach-susie-3"
-id: "TRM-ENG-38543"
+id: "TRM-ENG-53072"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Orbach, Susie, 3"

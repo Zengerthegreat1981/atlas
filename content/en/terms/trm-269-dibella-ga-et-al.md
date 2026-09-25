@@ -1,6 +1,6 @@
 ---
 slug: "trm-269-dibella-ga-et-al"
-id: "TRM-ENG-38799"
+id: "TRM-ENG-53328"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "269. Dibella GA, et al"

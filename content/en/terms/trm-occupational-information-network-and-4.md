@@ -1,6 +1,6 @@
 ---
 slug: "trm-occupational-information-network-and-4"
-id: "TRM-ENG-38524"
+id: "TRM-ENG-53053"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Occupational Information Network and, 4"

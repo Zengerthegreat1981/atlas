@@ -1,6 +1,6 @@
 ---
 slug: "trm-khariji-tradition-2"
-id: "TRM-ENG-46872"
+id: "TRM-ENG-61401"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Khariji tradition, 2"

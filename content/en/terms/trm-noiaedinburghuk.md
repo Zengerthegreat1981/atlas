@@ -1,6 +1,6 @@
 ---
 slug: "trm-noiaedinburghuk"
-id: "TRM-ENG-49561"
+id: "TRM-ENG-64090"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "noia.Edinburgh,UK"

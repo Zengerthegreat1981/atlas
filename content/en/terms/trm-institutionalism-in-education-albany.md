@@ -1,6 +1,6 @@
 ---
 slug: "trm-institutionalism-in-education-albany"
-id: "TRM-ENG-48209"
+id: "TRM-ENG-62738"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "institutionalism in education. Albany"

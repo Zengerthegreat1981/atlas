@@ -1,6 +1,6 @@
 ---
 slug: "trm-jones-m"
-id: "TRM-ENG-41150"
+id: "TRM-ENG-55679"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jones M"

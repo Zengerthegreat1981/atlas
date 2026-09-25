@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-wolberg-lr-aronson-ml-eds"
-id: "TRM-ENG-43074"
+id: "TRM-ENG-57603"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in Wolberg LR, Aronson ML (eds)"

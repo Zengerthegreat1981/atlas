@@ -1,6 +1,6 @@
 ---
 slug: "trm-illness-or-even-loss-of-life"
-id: "TRM-ENG-45571"
+id: "TRM-ENG-60100"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "illness or even loss of life"

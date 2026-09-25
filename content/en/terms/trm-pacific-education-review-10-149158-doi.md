@@ -1,6 +1,6 @@
 ---
 slug: "trm-pacific-education-review-10-149158-doi"
-id: "TRM-ENG-35480"
+id: "TRM-ENG-64538"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pacific Education Review, 10, 149–158. doi"

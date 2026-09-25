@@ -1,6 +1,6 @@
 ---
 slug: "trm-these-other-ideas"
-id: "TRM-ENG-38342"
+id: "TRM-ENG-52871"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "these other ideas"

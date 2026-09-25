@@ -1,6 +1,6 @@
 ---
 slug: "trm-deterrence-issues-1"
-id: "TRM-ENG-39906"
+id: "TRM-ENG-54435"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "deterrence issues, 1"

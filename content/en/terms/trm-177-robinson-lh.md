@@ -1,6 +1,6 @@
 ---
 slug: "trm-177-robinson-lh"
-id: "TRM-ENG-38656"
+id: "TRM-ENG-53185"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "177. Robinson LH"

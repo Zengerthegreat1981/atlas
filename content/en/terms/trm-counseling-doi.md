@@ -1,6 +1,6 @@
 ---
 slug: "trm-counseling-doi"
-id: "TRM-ENG-50289"
+id: "TRM-ENG-64818"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Counseling. doi"

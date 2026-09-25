@@ -1,6 +1,6 @@
 ---
 slug: "trm-clarke-b-schoech-d"
-id: "TRM-ENG-40191"
+id: "TRM-ENG-54720"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Clarke B, Schoech D"

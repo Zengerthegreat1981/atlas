@@ -1,6 +1,6 @@
 ---
 slug: "trm-idiocentrism3"
-id: "TRM-ENG-38214"
+id: "TRM-ENG-52743"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Idiocentrism,3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-wundt-w-1973-the-language-of-gestures-trans"
-id: "TRM-ENG-37452"
+id: "TRM-ENG-51981"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wundt, W. (1973). The language of gestures (trans"

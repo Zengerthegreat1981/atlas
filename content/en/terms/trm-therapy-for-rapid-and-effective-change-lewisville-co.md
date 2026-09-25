@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapy-for-rapid-and-effective-change-lewisville-co"
-id: "TRM-ENG-51906"
+id: "TRM-ENG-66435"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapy for rapid and effective change. Lewisville, CO"

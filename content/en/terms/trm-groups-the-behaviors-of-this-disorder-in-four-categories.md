@@ -1,6 +1,6 @@
 ---
 slug: "trm-groups-the-behaviors-of-this-disorder-in-four-categories"
-id: "TRM-ENG-35047"
+id: "TRM-ENG-64105"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "groups the behaviors of this disorder in four categories"

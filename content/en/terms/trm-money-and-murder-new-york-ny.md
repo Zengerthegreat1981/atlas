@@ -1,6 +1,6 @@
 ---
 slug: "trm-money-and-murder-new-york-ny"
-id: "TRM-ENG-43741"
+id: "TRM-ENG-58270"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "money and murder. New York, NY"

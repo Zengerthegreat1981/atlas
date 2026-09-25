@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychiatry-new-york-ny"
-id: "TRM-ENG-51737"
+id: "TRM-ENG-66266"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychiatry. New York, NY"

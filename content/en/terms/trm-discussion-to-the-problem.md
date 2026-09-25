@@ -1,6 +1,6 @@
 ---
 slug: "trm-discussion-to-the-problem"
-id: "TRM-ENG-44989"
+id: "TRM-ENG-59518"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "discussion to the problem"

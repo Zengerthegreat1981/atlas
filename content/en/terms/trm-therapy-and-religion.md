@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapy-and-religion"
-id: "TRM-ENG-51903"
+id: "TRM-ENG-66432"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapy and religion"

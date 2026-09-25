@@ -1,6 +1,6 @@
 ---
 slug: "trm-from-among-the-following"
-id: "TRM-ENG-43049"
+id: "TRM-ENG-57578"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "from among the following"

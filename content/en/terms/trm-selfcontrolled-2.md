@@ -1,6 +1,6 @@
 ---
 slug: "trm-selfcontrolled-2"
-id: "TRM-ENG-45502"
+id: "TRM-ENG-60031"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "self-controlled, 2"

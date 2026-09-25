@@ -1,6 +1,6 @@
 ---
 slug: "trm-casey-jf-lindley-cj"
-id: "TRM-ENG-40144"
+id: "TRM-ENG-54673"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Casey JF, Lindley CJ"

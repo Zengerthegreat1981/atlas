@@ -1,6 +1,6 @@
 ---
 slug: "trm-disturbance-87"
-id: "TRM-ENG-34985"
+id: "TRM-ENG-49514"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disturbance (8.7%)"

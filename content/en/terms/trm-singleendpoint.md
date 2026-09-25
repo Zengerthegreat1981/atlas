@@ -1,6 +1,6 @@
 ---
 slug: "trm-singleendpoint"
-id: "TRM-ENG-49705"
+id: "TRM-ENG-64234"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "singleªendpointº"

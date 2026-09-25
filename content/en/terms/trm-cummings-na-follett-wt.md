@@ -1,6 +1,6 @@
 ---
 slug: "trm-cummings-na-follett-wt"
-id: "TRM-ENG-40279"
+id: "TRM-ENG-54808"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cummings NA, Follett WT"

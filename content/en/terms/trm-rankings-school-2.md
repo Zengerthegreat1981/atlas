@@ -1,6 +1,6 @@
 ---
 slug: "trm-rankings-school-2"
-id: "TRM-ENG-47178"
+id: "TRM-ENG-61707"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rankings, school, 2"

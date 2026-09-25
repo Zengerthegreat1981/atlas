@@ -1,6 +1,6 @@
 ---
 slug: "trm-order-at-new-york-hospital"
-id: "TRM-ENG-43785"
+id: "TRM-ENG-58314"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "order at New York Hospital"

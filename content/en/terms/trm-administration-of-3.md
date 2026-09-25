@@ -1,6 +1,6 @@
 ---
 slug: "trm-administration-of-3"
-id: "TRM-ENG-39114"
+id: "TRM-ENG-53643"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "administration of, 3"

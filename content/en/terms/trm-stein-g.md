@@ -1,6 +1,6 @@
 ---
 slug: "trm-stein-g"
-id: "TRM-ENG-48108"
+id: "TRM-ENG-62637"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stein G"

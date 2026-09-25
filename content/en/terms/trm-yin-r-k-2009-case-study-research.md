@@ -1,6 +1,6 @@
 ---
 slug: "trm-yin-r-k-2009-case-study-research"
-id: "TRM-ENG-47512"
+id: "TRM-ENG-62041"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Yin, R. K. (2009). Case study research"

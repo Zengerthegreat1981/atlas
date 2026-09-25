@@ -1,6 +1,6 @@
 ---
 slug: "trm-cancer-symptoms"
-id: "TRM-ENG-46878"
+id: "TRM-ENG-61407"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cancer symptoms"

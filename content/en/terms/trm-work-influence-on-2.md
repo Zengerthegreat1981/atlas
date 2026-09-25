@@ -1,6 +1,6 @@
 ---
 slug: "trm-work-influence-on-2"
-id: "TRM-ENG-42176"
+id: "TRM-ENG-56705"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "work influence on, 2"

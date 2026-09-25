@@ -1,6 +1,6 @@
 ---
 slug: "trm-rdoc"
-id: "TRM-ENG-43924"
+id: "TRM-ENG-58453"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(RDoC)"

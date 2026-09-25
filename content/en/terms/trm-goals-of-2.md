@@ -1,6 +1,6 @@
 ---
 slug: "trm-goals-of-2"
-id: "TRM-ENG-40317"
+id: "TRM-ENG-54846"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "goals of, 2"

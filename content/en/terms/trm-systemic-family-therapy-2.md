@@ -1,6 +1,6 @@
 ---
 slug: "trm-systemic-family-therapy-2"
-id: "TRM-ENG-51860"
+id: "TRM-ENG-66389"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "systemic family therapy, 2"

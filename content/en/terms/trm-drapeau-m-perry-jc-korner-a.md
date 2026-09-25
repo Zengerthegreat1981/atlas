@@ -1,6 +1,6 @@
 ---
 slug: "trm-drapeau-m-perry-jc-korner-a"
-id: "TRM-ENG-47633"
+id: "TRM-ENG-62162"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Drapeau M, Perry JC, Korner A"

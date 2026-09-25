@@ -1,6 +1,6 @@
 ---
 slug: "trm-thestapediushave-attachments-to-the-ossicles-the-ossi-see-also"
-id: "TRM-ENG-37151"
+id: "TRM-ENG-66209"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thestapedius,have attachments to the ossicles. The ossi- See also"

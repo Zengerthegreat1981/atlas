@@ -1,6 +1,6 @@
 ---
 slug: "trm-dewey-j-1985-the-middle-works-18991924"
-id: "TRM-ENG-46510"
+id: "TRM-ENG-61039"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dewey, J. (1985). The middle works, 1899–1924"

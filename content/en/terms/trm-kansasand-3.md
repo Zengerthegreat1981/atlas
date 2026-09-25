@@ -1,6 +1,6 @@
 ---
 slug: "trm-kansasand-3"
-id: "TRM-ENG-38315"
+id: "TRM-ENG-52844"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kansasand, 3"

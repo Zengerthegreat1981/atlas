@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-classification-of-mental-disorders"
-id: "TRM-ENG-48634"
+id: "TRM-ENG-63163"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the classification of mental disorders"

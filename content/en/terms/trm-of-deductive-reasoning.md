@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-deductive-reasoning"
-id: "TRM-ENG-45345"
+id: "TRM-ENG-59874"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of deductive reasoning"

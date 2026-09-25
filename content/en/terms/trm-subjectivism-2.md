@@ -1,6 +1,6 @@
 ---
 slug: "trm-subjectivism-2"
-id: "TRM-ENG-44803"
+id: "TRM-ENG-59332"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Subjectivism, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-meier-eg"
-id: "TRM-ENG-41677"
+id: "TRM-ENG-56206"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Meier EG"

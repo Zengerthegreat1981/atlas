@@ -1,6 +1,6 @@
 ---
 slug: "trm-they-have-fewer-family-conflicts-and-emotional-problems-priate-today"
-id: "TRM-ENG-37154"
+id: "TRM-ENG-66212"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "they have fewer family conflicts and emotional problems. priate today"

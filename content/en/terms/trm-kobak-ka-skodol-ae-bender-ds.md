@@ -1,6 +1,6 @@
 ---
 slug: "trm-kobak-ka-skodol-ae-bender-ds"
-id: "TRM-ENG-47794"
+id: "TRM-ENG-62323"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kobak KA, Skodol AE, Bender DS"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-lem-and-the-response-pp-101135-newbury-ca"
-id: "TRM-ENG-35110"
+id: "TRM-ENG-64168"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lem and the response (pp. 101-135). Newbury, CA"

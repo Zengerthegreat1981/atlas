@@ -1,6 +1,6 @@
 ---
 slug: "trm-brim-og"
-id: "TRM-ENG-40035"
+id: "TRM-ENG-54564"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brim OG"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-caused-others-difficulty"
-id: "TRM-ENG-44065"
+id: "TRM-ENG-58594"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "caused others difficulty"

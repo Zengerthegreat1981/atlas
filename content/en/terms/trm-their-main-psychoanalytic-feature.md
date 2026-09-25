@@ -1,6 +1,6 @@
 ---
 slug: "trm-their-main-psychoanalytic-feature"
-id: "TRM-ENG-43312"
+id: "TRM-ENG-57841"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "their main psychoanalytic feature"

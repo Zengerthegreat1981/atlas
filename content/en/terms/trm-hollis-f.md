@@ -1,6 +1,6 @@
 ---
 slug: "trm-hollis-f"
-id: "TRM-ENG-41019"
+id: "TRM-ENG-55548"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hollis F"

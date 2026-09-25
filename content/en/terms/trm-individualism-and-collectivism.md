@@ -1,6 +1,6 @@
 ---
 slug: "trm-individualism-and-collectivism"
-id: "TRM-ENG-38237"
+id: "TRM-ENG-52766"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Individualism and collectivism"

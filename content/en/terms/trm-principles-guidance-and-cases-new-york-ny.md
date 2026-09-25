@@ -1,6 +1,6 @@
 ---
 slug: "trm-principles-guidance-and-cases-new-york-ny"
-id: "TRM-ENG-35492"
+id: "TRM-ENG-64550"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Principles, guidance, and cases. New York, NY"

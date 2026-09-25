@@ -1,6 +1,6 @@
 ---
 slug: "trm-gambrill-ed-richey-ca"
-id: "TRM-ENG-40656"
+id: "TRM-ENG-55185"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gambrill ED, Richey CA"

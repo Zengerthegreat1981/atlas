@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavior-theories-2"
-id: "TRM-ENG-47690"
+id: "TRM-ENG-62219"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behavior theories, 2"

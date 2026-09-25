@@ -1,6 +1,6 @@
 ---
 slug: "trm-strong-programme-1"
-id: "TRM-ENG-47354"
+id: "TRM-ENG-61883"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Strong Programme, 1"

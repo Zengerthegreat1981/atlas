@@ -1,6 +1,6 @@
 ---
 slug: "trm-emerge"
-id: "TRM-ENG-45005"
+id: "TRM-ENG-59534"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "emerge"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-traumatic-dissociation"
-id: "TRM-ENG-48393"
+id: "TRM-ENG-62922"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in Traumatic Dissociation"

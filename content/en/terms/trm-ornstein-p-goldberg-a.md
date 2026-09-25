@@ -1,6 +1,6 @@
 ---
 slug: "trm-ornstein-p-goldberg-a"
-id: "TRM-ENG-41881"
+id: "TRM-ENG-56410"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ornstein P, Goldberg A"

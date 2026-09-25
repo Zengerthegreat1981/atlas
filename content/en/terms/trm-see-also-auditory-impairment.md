@@ -1,6 +1,6 @@
 ---
 slug: "trm-see-also-auditory-impairment"
-id: "TRM-ENG-34831"
+id: "TRM-ENG-63889"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "[See also Auditory Impairment"

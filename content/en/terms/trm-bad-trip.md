@@ -1,6 +1,6 @@
 ---
 slug: "trm-bad-trip"
-id: "TRM-ENG-52074"
+id: "TRM-ENG-66603"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bad trip"

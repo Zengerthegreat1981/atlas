@@ -1,6 +1,6 @@
 ---
 slug: "trm-buss-d-m-1999e-volutionary-psychology"
-id: "TRM-ENG-34648"
+id: "TRM-ENG-63706"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Buss, D. M. (1999).E volutionary psychology"

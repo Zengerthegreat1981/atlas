@@ -1,6 +1,6 @@
 ---
 slug: "trm-healthy-personality-inventory-4"
-id: "TRM-ENG-38158"
+id: "TRM-ENG-52687"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Healthy Personality Inventory, 4"

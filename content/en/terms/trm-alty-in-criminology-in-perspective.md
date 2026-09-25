@@ -1,6 +1,6 @@
 ---
 slug: "trm-alty-in-criminology-in-perspective"
-id: "TRM-ENG-45826"
+id: "TRM-ENG-60355"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "alty.” In Criminology in Perspective"

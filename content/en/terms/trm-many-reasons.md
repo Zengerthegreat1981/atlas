@@ -1,6 +1,6 @@
 ---
 slug: "trm-many-reasons"
-id: "TRM-ENG-45148"
+id: "TRM-ENG-59677"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "many reasons"

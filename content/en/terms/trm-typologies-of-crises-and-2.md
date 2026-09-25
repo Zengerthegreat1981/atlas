@@ -1,6 +1,6 @@
 ---
 slug: "trm-typologies-of-crises-and-2"
-id: "TRM-ENG-42064"
+id: "TRM-ENG-56593"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "typologies of crises and, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-greenacre-p-the-childhood-of-the-artist"
-id: "TRM-ENG-44416"
+id: "TRM-ENG-58945"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Greenacre, P. “The Childhood of the Artist"

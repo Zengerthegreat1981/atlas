@@ -1,6 +1,6 @@
 ---
 slug: "trm-1973-derosis-l"
-id: "TRM-ENG-38690"
+id: "TRM-ENG-53219"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1973 DeRosis L"

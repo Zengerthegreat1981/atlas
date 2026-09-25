@@ -1,6 +1,6 @@
 ---
 slug: "trm-embodied-cognition-1"
-id: "TRM-ENG-46564"
+id: "TRM-ENG-61093"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Embodied cognition, 1"

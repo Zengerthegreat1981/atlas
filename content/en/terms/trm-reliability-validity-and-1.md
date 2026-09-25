@@ -1,6 +1,6 @@
 ---
 slug: "trm-reliability-validity-and-1"
-id: "TRM-ENG-41486"
+id: "TRM-ENG-56015"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reliability, validity and, 1"

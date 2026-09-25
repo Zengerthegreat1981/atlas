@@ -1,6 +1,6 @@
 ---
 slug: "trm-rhine-jb-1934-extrasensory-perceptionboston"
-id: "TRM-ENG-35921"
+id: "TRM-ENG-50450"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rhine, J.B. (1934). Extra-sensory perception.Boston"

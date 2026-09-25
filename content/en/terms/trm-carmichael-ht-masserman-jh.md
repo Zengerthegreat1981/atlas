@@ -1,6 +1,6 @@
 ---
 slug: "trm-carmichael-ht-masserman-jh"
-id: "TRM-ENG-40129"
+id: "TRM-ENG-54658"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Carmichael HT, Masserman JH"

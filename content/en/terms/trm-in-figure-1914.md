@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-figure-1914"
-id: "TRM-ENG-34869"
+id: "TRM-ENG-63927"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in Figure 19.14"

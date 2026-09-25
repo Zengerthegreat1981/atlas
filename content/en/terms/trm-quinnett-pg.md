@@ -1,6 +1,6 @@
 ---
 slug: "trm-quinnett-pg"
-id: "TRM-ENG-42039"
+id: "TRM-ENG-56568"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Quinnett PG"

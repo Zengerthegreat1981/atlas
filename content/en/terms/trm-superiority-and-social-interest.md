@@ -1,6 +1,6 @@
 ---
 slug: "trm-superiority-and-social-interest"
-id: "TRM-ENG-44739"
+id: "TRM-ENG-59268"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, Superiority and Social Interest"

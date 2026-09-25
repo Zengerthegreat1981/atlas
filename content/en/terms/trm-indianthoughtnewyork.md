@@ -1,6 +1,6 @@
 ---
 slug: "trm-indianthoughtnewyork"
-id: "TRM-ENG-36948"
+id: "TRM-ENG-51477"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Indianthought.NewYork"

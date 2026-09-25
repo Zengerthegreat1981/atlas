@@ -1,6 +1,6 @@
 ---
 slug: "trm-ments-are-also-available"
-id: "TRM-ENG-35947"
+id: "TRM-ENG-65005"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ments are also available"

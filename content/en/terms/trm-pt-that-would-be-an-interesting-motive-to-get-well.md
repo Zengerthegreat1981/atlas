@@ -1,6 +1,6 @@
 ---
 slug: "trm-pt-that-would-be-an-interesting-motive-to-get-well"
-id: "TRM-ENG-42030"
+id: "TRM-ENG-56559"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pt. That would be an interesting motive to get well"

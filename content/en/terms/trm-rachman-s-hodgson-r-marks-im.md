@@ -1,6 +1,6 @@
 ---
 slug: "trm-rachman-s-hodgson-r-marks-im"
-id: "TRM-ENG-42048"
+id: "TRM-ENG-56577"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rachman S, Hodgson R, Marks IM"

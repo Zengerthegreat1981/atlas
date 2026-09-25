@@ -1,6 +1,6 @@
 ---
 slug: "trm-722-ellis-a-humanistic-psychotherapy"
-id: "TRM-ENG-39368"
+id: "TRM-ENG-53897"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "722. Ellis A: Humanistic Psychotherapy"

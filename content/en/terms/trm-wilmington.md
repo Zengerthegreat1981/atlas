@@ -1,6 +1,6 @@
 ---
 slug: "trm-wilmington"
-id: "TRM-ENG-37441"
+id: "TRM-ENG-51970"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wilmington"

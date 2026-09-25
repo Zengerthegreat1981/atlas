@@ -1,6 +1,6 @@
 ---
 slug: "trm-disorders-2nd-ed-london"
-id: "TRM-ENG-42778"
+id: "TRM-ENG-57307"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disorders (2nd ed.). London"

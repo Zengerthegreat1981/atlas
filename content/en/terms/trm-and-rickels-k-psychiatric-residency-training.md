@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-rickels-k-psychiatric-residency-training"
-id: "TRM-ENG-44772"
+id: "TRM-ENG-59301"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, and Rickels, K., “Psychiatric Residency Training"

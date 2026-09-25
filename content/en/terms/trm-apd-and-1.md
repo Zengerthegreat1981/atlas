@@ -1,6 +1,6 @@
 ---
 slug: "trm-apd-and-1"
-id: "TRM-ENG-37525"
+id: "TRM-ENG-66583"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "APD and, 1"

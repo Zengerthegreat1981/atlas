@@ -1,6 +1,6 @@
 ---
 slug: "trm-cosmopolitanism-1"
-id: "TRM-ENG-46456"
+id: "TRM-ENG-60985"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cosmopolitanism, 1"

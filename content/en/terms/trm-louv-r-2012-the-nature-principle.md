@@ -1,6 +1,6 @@
 ---
 slug: "trm-louv-r-2012-the-nature-principle"
-id: "TRM-ENG-50679"
+id: "TRM-ENG-65208"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Louv, R. (2012). The nature principle"

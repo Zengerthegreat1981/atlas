@@ -1,6 +1,6 @@
 ---
 slug: "trm-zimmerje2007walterfennodearborn18781955"
-id: "TRM-ENG-37459"
+id: "TRM-ENG-66517"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Zimmer,J.E.(2007).WalterFennoDearborn(1878–1955)"

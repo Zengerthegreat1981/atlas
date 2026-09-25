@@ -1,6 +1,6 @@
 ---
 slug: "trm-budzynski-th-stoyra-jm-adler-c"
-id: "TRM-ENG-40071"
+id: "TRM-ENG-54600"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Budzynski TH, Stoyra JM, Adler C"

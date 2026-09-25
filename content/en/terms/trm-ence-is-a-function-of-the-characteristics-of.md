@@ -1,6 +1,6 @@
 ---
 slug: "trm-ence-is-a-function-of-the-characteristics-of"
-id: "TRM-ENG-36396"
+id: "TRM-ENG-65454"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ence is a function of the characteristics of"

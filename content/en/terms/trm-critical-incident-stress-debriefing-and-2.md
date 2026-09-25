@@ -1,6 +1,6 @@
 ---
 slug: "trm-critical-incident-stress-debriefing-and-2"
-id: "TRM-ENG-39790"
+id: "TRM-ENG-54319"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "critical incident stress debriefing and, 2"

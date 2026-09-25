@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychosurgery"
-id: "TRM-ENG-42018"
+id: "TRM-ENG-56547"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychosurgery"

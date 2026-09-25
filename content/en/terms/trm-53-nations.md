@@ -1,6 +1,6 @@
 ---
 slug: "trm-53-nations"
-id: "TRM-ENG-43339"
+id: "TRM-ENG-57868"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "53 nations"

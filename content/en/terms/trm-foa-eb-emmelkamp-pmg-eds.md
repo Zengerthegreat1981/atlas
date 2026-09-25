@@ -1,6 +1,6 @@
 ---
 slug: "trm-foa-eb-emmelkamp-pmg-eds"
-id: "TRM-ENG-40559"
+id: "TRM-ENG-55088"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Foa EB, Emmelkamp PMG (eds)"

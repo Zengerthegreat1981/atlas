@@ -1,6 +1,6 @@
 ---
 slug: "trm-257-slaby-ae-et-al"
-id: "TRM-ENG-38784"
+id: "TRM-ENG-53313"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "257. Slaby AE, et al"

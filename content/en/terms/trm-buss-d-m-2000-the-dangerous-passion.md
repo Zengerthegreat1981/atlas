@@ -1,6 +1,6 @@
 ---
 slug: "trm-buss-d-m-2000-the-dangerous-passion"
-id: "TRM-ENG-34649"
+id: "TRM-ENG-49178"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Buss. D. M. (2000). The dangerous passion"

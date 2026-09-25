@@ -1,6 +1,6 @@
 ---
 slug: "trm-750-zeig-jk-ed"
-id: "TRM-ENG-39399"
+id: "TRM-ENG-53928"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "750. Zeig JK (ed)"

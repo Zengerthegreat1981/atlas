@@ -1,6 +1,6 @@
 ---
 slug: "trm-1994the-social-organization-of-sexuality"
-id: "TRM-ENG-35471"
+id: "TRM-ENG-64529"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1994).The social organization of sexuality"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-clinical-science-new-york-ny"
-id: "TRM-ENG-51338"
+id: "TRM-ENG-65867"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "clinical science. New York, NY"

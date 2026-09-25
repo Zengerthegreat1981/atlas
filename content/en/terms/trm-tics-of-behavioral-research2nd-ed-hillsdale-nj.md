@@ -1,6 +1,6 @@
 ---
 slug: "trm-tics-of-behavioral-research2nd-ed-hillsdale-nj"
-id: "TRM-ENG-37168"
+id: "TRM-ENG-66226"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tics of behavioral research(2nd ed.). Hillsdale, NJ"

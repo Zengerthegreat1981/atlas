@@ -1,6 +1,6 @@
 ---
 slug: "trm-dimensions-of-2"
-id: "TRM-ENG-39938"
+id: "TRM-ENG-54467"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dimensions of, 2"

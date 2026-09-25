@@ -1,6 +1,6 @@
 ---
 slug: "trm-hay-j-b-baayen-r-h-2005-shifting-paradigms"
-id: "TRM-ENG-44520"
+id: "TRM-ENG-59049"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hay, J. B., & Baayen, R. H. (2005). Shifting paradigms"

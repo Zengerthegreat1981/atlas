@@ -1,6 +1,6 @@
 ---
 slug: "trm-wachtel-ellen-1"
-id: "TRM-ENG-51147"
+id: "TRM-ENG-65676"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wachtel, Ellen, 1"

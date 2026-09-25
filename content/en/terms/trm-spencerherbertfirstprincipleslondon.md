@@ -1,6 +1,6 @@
 ---
 slug: "trm-spencerherbertfirstprincipleslondon"
-id: "TRM-ENG-45790"
+id: "TRM-ENG-60319"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spencer,Herbert.FirstPrinciples.London"

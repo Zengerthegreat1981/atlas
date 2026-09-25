@@ -1,6 +1,6 @@
 ---
 slug: "trm-fancy-and-school-age-or-middle-childhood"
-id: "TRM-ENG-36426"
+id: "TRM-ENG-65484"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "fancy and school age or middle childhood"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-under-stress"
-id: "TRM-ENG-44225"
+id: "TRM-ENG-58754"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "under stress"

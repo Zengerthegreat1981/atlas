@@ -1,6 +1,6 @@
 ---
 slug: "trm-future-directions-j-pers-assess-68"
-id: "TRM-ENG-48360"
+id: "TRM-ENG-62889"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "future directions. J Pers Assess 68"

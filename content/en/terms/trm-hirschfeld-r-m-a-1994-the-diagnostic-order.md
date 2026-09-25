@@ -1,6 +1,6 @@
 ---
 slug: "trm-hirschfeld-r-m-a-1994-the-diagnostic-order"
-id: "TRM-ENG-43253"
+id: "TRM-ENG-57782"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "& Hirschfeld, R. M. A. (1994). The Diagnostic order"

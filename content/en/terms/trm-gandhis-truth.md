@@ -1,6 +1,6 @@
 ---
 slug: "trm-gandhis-truth"
-id: "TRM-ENG-44720"
+id: "TRM-ENG-59249"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, Gandhis Truth"

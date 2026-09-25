@@ -1,6 +1,6 @@
 ---
 slug: "trm-integration-theory-pfit-of-intelligence"
-id: "TRM-ENG-45222"
+id: "TRM-ENG-59751"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "integration theory (P-FIT) of intelligence"

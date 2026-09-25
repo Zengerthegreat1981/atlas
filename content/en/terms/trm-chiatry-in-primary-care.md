@@ -1,6 +1,6 @@
 ---
 slug: "trm-chiatry-in-primary-care"
-id: "TRM-ENG-48257"
+id: "TRM-ENG-62786"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chiatry in Primary Care"

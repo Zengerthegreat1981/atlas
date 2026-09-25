@@ -1,6 +1,6 @@
 ---
 slug: "trm-ravitch-diane-1"
-id: "TRM-ENG-47183"
+id: "TRM-ENG-61712"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ravitch, Diane, 1"

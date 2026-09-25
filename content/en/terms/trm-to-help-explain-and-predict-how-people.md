@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-help-explain-and-predict-how-people"
-id: "TRM-ENG-38378"
+id: "TRM-ENG-52907"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to help explain and predict how people"

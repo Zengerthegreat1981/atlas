@@ -1,6 +1,6 @@
 ---
 slug: "trm-genenew-york"
-id: "TRM-ENG-36482"
+id: "TRM-ENG-65540"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "gene.New York"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-nervous-and-mental-disease"
-id: "TRM-ENG-41830"
+id: "TRM-ENG-56359"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nervous and Mental Disease"

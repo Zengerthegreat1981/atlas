@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-work-for-the-american-worker"
-id: "TRM-ENG-45191"
+id: "TRM-ENG-59720"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of work for the American worker"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-thomas-a"
-id: "TRM-ENG-42583"
+id: "TRM-ENG-57112"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Thomas A"

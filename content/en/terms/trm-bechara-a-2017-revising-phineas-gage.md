@@ -1,6 +1,6 @@
 ---
 slug: "trm-bechara-a-2017-revising-phineas-gage"
-id: "TRM-ENG-34581"
+id: "TRM-ENG-63639"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bechara, A. (2017). Revising Phineas Gage"

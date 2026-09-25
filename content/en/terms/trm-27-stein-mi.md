@@ -1,6 +1,6 @@
 ---
 slug: "trm-27-stein-mi"
-id: "TRM-ENG-38802"
+id: "TRM-ENG-53331"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "27. Stein MI"

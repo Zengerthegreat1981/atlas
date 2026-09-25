@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-asian-americans-3"
-id: "TRM-ENG-40989"
+id: "TRM-ENG-55518"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of Asian Americans, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-learning-and-literacy-new-york-ny"
-id: "TRM-ENG-48269"
+id: "TRM-ENG-62798"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "learning and literacy. New York, NY"

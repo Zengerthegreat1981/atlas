@@ -1,6 +1,6 @@
 ---
 slug: "trm-820-weiner-jm-ed"
-id: "TRM-ENG-39481"
+id: "TRM-ENG-54010"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "820. Weiner JM (ed)"

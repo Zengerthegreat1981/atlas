@@ -1,6 +1,6 @@
 ---
 slug: "trm-paths-j-pers-disord-24"
-id: "TRM-ENG-48513"
+id: "TRM-ENG-63042"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "paths. J Pers Disord 24"

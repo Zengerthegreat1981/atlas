@@ -1,6 +1,6 @@
 ---
 slug: "trm-are-numerous-more-specific-species-of-capital"
-id: "TRM-ENG-47649"
+id: "TRM-ENG-62178"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "are numerous more specific species of capital"

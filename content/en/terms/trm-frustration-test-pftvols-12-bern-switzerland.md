@@ -1,6 +1,6 @@
 ---
 slug: "trm-frustration-test-pftvols-12-bern-switzerland"
-id: "TRM-ENG-35689"
+id: "TRM-ENG-64747"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Frustration Test (PFT)(Vols. 1–2). Bern, Switzerland"

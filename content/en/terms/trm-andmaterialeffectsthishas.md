@@ -1,6 +1,6 @@
 ---
 slug: "trm-andmaterialeffectsthishas"
-id: "TRM-ENG-37533"
+id: "TRM-ENG-66591"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "andmaterialeffectsthishas"

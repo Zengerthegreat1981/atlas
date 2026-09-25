@@ -1,6 +1,6 @@
 ---
 slug: "trm-gambling1"
-id: "TRM-ENG-38099"
+id: "TRM-ENG-52628"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gambling,1"

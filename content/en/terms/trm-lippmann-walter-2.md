@@ -1,6 +1,6 @@
 ---
 slug: "trm-lippmann-walter-2"
-id: "TRM-ENG-46935"
+id: "TRM-ENG-61464"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lippmann, Walter, 2"

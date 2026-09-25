@@ -1,6 +1,6 @@
 ---
 slug: "trm-applied-psychology-71-327333-doi"
-id: "TRM-ENG-35294"
+id: "TRM-ENG-49823"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Applied Psychology, 71, 327–333. doi"

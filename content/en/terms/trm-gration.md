@@ -1,6 +1,6 @@
 ---
 slug: "trm-gration"
-id: "TRM-ENG-36492"
+id: "TRM-ENG-51021"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "gration"

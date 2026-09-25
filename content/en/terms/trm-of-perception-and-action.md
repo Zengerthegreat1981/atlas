@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-perception-and-action"
-id: "TRM-ENG-36783"
+id: "TRM-ENG-65841"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of perception and action"

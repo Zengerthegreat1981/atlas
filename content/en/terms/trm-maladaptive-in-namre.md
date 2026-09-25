@@ -1,6 +1,6 @@
 ---
 slug: "trm-maladaptive-in-namre"
-id: "TRM-ENG-44082"
+id: "TRM-ENG-58611"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "maladaptive in namre"

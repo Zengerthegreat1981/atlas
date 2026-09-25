@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-constructionism-2"
-id: "TRM-ENG-48728"
+id: "TRM-ENG-63257"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social constructionism, 2"

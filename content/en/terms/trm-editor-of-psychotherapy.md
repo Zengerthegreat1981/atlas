@@ -1,6 +1,6 @@
 ---
 slug: "trm-editor-of-psychotherapy"
-id: "TRM-ENG-38003"
+id: "TRM-ENG-52532"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Editor of Psychotherapy"

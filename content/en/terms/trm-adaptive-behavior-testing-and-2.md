@@ -1,6 +1,6 @@
 ---
 slug: "trm-adaptive-behavior-testing-and-2"
-id: "TRM-ENG-39105"
+id: "TRM-ENG-53634"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "adaptive behavior testing and, 2"

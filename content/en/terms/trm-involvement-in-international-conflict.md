@@ -1,6 +1,6 @@
 ---
 slug: "trm-involvement-in-international-conflict"
-id: "TRM-ENG-48404"
+id: "TRM-ENG-62933"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "involvement in international conflict"

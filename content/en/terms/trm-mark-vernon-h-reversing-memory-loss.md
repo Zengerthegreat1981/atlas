@@ -1,6 +1,6 @@
 ---
 slug: "trm-mark-vernon-h-reversing-memory-loss"
-id: "TRM-ENG-45873"
+id: "TRM-ENG-60402"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mark, Vernon H., Reversing Memory Loss"

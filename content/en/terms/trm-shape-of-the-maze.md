@@ -1,6 +1,6 @@
 ---
 slug: "trm-shape-of-the-maze"
-id: "TRM-ENG-35032"
+id: "TRM-ENG-49561"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "shape of the maze"

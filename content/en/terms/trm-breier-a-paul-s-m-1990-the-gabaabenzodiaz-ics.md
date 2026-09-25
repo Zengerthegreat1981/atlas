@@ -1,6 +1,6 @@
 ---
 slug: "trm-breier-a-paul-s-m-1990-the-gabaabenzodiaz-ics"
-id: "TRM-ENG-35325"
+id: "TRM-ENG-49854"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Breier, A., & Paul, S. M. (1990). The GABA-A/benzodiaz- ics"

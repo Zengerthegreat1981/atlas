@@ -1,6 +1,6 @@
 ---
 slug: "trm-velopment-of-the-self-new-york"
-id: "TRM-ENG-43413"
+id: "TRM-ENG-57942"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "velopment of the self. New York"

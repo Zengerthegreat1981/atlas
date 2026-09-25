@@ -1,6 +1,6 @@
 ---
 slug: "trm-awayastorevealthosefeaturesthatwerecommonto-it"
-id: "TRM-ENG-37572"
+id: "TRM-ENG-52101"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "awayastorevealthosefeaturesthatwerecommonto it"

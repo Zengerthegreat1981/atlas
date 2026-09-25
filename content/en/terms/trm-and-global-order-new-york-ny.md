@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-global-order-new-york-ny"
-id: "TRM-ENG-47604"
+id: "TRM-ENG-62133"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and global order. New York, NY"

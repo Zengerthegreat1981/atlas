@@ -1,6 +1,6 @@
 ---
 slug: "trm-clinical-intersubjectivity-northvale-nj"
-id: "TRM-ENG-51336"
+id: "TRM-ENG-65865"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "clinical inter-subjectivity. Northvale, NJ"

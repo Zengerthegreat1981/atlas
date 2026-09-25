@@ -1,6 +1,6 @@
 ---
 slug: "trm-539-1984-2-j-l-hedlund-et-al"
-id: "TRM-ENG-39148"
+id: "TRM-ENG-53677"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "539, 1984; (2) J. L. Hedlund et al."

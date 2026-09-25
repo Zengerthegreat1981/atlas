@@ -1,6 +1,6 @@
 ---
 slug: "trm-thoughts"
-id: "TRM-ENG-48900"
+id: "TRM-ENG-63429"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thoughts"

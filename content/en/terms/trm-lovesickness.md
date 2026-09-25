@@ -1,6 +1,6 @@
 ---
 slug: "trm-lovesickness"
-id: "TRM-ENG-35916"
+id: "TRM-ENG-50445"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "love-sickness"

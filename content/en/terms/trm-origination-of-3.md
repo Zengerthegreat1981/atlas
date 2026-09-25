@@ -1,6 +1,6 @@
 ---
 slug: "trm-origination-of-3"
-id: "TRM-ENG-41075"
+id: "TRM-ENG-55604"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "origination of, 3"

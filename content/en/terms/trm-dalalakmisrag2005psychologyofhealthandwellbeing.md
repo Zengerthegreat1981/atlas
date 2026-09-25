@@ -1,6 +1,6 @@
 ---
 slug: "trm-dalalakmisrag2005psychologyofhealthandwellbeing"
-id: "TRM-ENG-36720"
+id: "TRM-ENG-65778"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dalal,A.K.,&Misra,G.(2005).Psychologyofhealthandwell-being"

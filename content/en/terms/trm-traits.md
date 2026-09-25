@@ -1,6 +1,6 @@
 ---
 slug: "trm-traits"
-id: "TRM-ENG-44222"
+id: "TRM-ENG-58751"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "traits"

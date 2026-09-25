@@ -1,6 +1,6 @@
 ---
 slug: "trm-johnston-d-w-1994-hypertension"
-id: "TRM-ENG-49047"
+id: "TRM-ENG-63576"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Johnston, D. W. (1994). Hypertension"

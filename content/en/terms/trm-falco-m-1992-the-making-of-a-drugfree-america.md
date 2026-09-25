@@ -1,6 +1,6 @@
 ---
 slug: "trm-falco-m-1992-the-making-of-a-drugfree-america"
-id: "TRM-ENG-46512"
+id: "TRM-ENG-61041"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Falco, M. (1992). The making of a drug-free America"

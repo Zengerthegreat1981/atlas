@@ -1,6 +1,6 @@
 ---
 slug: "trm-defined-four-different-types-of-teams-work-teams-are-nents"
-id: "TRM-ENG-39870"
+id: "TRM-ENG-54399"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "defined four different types of teams. Work teams are nents"

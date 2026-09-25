@@ -1,6 +1,6 @@
 ---
 slug: "trm-ments-as-a-strategic-move-intended-to-maintain-an-tice"
-id: "TRM-ENG-48341"
+id: "TRM-ENG-62870"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ments as a strategic move intended to maintain an tice"

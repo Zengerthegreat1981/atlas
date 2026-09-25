@@ -1,6 +1,6 @@
 ---
 slug: "trm-knowledge-acquisition-2"
-id: "TRM-ENG-45258"
+id: "TRM-ENG-59787"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "knowledge acquisition, 2"

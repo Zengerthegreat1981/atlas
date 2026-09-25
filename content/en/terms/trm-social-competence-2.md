@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-competence-2"
-id: "TRM-ENG-44777"
+id: "TRM-ENG-59306"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Social competence, 2"

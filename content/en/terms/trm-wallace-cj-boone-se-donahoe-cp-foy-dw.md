@@ -1,6 +1,6 @@
 ---
 slug: "trm-wallace-cj-boone-se-donahoe-cp-foy-dw"
-id: "TRM-ENG-42698"
+id: "TRM-ENG-57227"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wallace CJ, Boone SE, Donahoe CP, Foy DW"

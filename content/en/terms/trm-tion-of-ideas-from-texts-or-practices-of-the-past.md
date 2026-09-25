@@ -1,6 +1,6 @@
 ---
 slug: "trm-tion-of-ideas-from-texts-or-practices-of-the-past"
-id: "TRM-ENG-48918"
+id: "TRM-ENG-63447"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tion of ideas from texts or practices of the past"

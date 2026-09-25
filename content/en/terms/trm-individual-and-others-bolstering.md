@@ -1,6 +1,6 @@
 ---
 slug: "trm-individual-and-others-bolstering"
-id: "TRM-ENG-44126"
+id: "TRM-ENG-58655"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "individual and others; bolstering"

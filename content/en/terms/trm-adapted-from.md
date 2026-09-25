@@ -1,6 +1,6 @@
 ---
 slug: "trm-adapted-from"
-id: "TRM-ENG-36530"
+id: "TRM-ENG-65588"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Adapted from"

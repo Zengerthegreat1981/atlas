@@ -1,6 +1,6 @@
 ---
 slug: "trm-shultz-johannes-heinrich-1"
-id: "TRM-ENG-51036"
+id: "TRM-ENG-65565"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shultz, Johannes Heinrich, 1"

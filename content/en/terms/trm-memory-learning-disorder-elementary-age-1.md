@@ -1,6 +1,6 @@
 ---
 slug: "trm-memory-learning-disorder-elementary-age-1"
-id: "TRM-ENG-40819"
+id: "TRM-ENG-55348"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "memory learning disorder, elementary age, 1"

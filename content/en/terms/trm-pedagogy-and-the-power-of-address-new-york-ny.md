@@ -1,6 +1,6 @@
 ---
 slug: "trm-pedagogy-and-the-power-of-address-new-york-ny"
-id: "TRM-ENG-48521"
+id: "TRM-ENG-63050"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pedagogy, and the power of address. New York, NY"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-rupert-r-d-1999-the-best-test-theory-of-extension"
-id: "TRM-ENG-44742"
+id: "TRM-ENG-59271"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rupert, R. D. (1999). The best test theory of extension"

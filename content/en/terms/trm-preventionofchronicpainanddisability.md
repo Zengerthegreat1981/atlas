@@ -1,6 +1,6 @@
 ---
 slug: "trm-preventionofchronicpainanddisability"
-id: "TRM-ENG-47214"
+id: "TRM-ENG-61743"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "preventionofchronicpainanddisability"

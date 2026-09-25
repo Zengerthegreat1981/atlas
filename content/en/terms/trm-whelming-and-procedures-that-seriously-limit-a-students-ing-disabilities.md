@@ -1,6 +1,6 @@
 ---
 slug: "trm-whelming-and-procedures-that-seriously-limit-a-students-ing-disabilities"
-id: "TRM-ENG-37311"
+id: "TRM-ENG-66369"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "whelming and procedures that seriously limit a student’s ing disabilities"

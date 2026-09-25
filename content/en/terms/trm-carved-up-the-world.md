@@ -1,6 +1,6 @@
 ---
 slug: "trm-carved-up-the-world"
-id: "TRM-ENG-47741"
+id: "TRM-ENG-62270"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "carved up the world"

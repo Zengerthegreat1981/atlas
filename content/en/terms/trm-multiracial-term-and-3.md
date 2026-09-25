@@ -1,6 +1,6 @@
 ---
 slug: "trm-multiracial-term-and-3"
-id: "TRM-ENG-40916"
+id: "TRM-ENG-55445"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "multiracial term and, 3"

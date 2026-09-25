@@ -1,6 +1,6 @@
 ---
 slug: "trm-through-a-variety-of-techniques-ways-of-life-or-savikalpa-pratyak"
-id: "TRM-ENG-38359"
+id: "TRM-ENG-52888"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "through a variety of techniques, ways of life, or savikalpa pratyak"

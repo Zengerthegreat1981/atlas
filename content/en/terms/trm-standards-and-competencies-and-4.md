@@ -1,6 +1,6 @@
 ---
 slug: "trm-standards-and-competencies-and-4"
-id: "TRM-ENG-41760"
+id: "TRM-ENG-56289"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "standards and competencies and, 4"

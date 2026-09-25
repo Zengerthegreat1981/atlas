@@ -1,6 +1,6 @@
 ---
 slug: "trm-carl-rogers-on-encounter-groups-rogers-1"
-id: "TRM-ENG-50220"
+id: "TRM-ENG-64749"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Carl Rogers on Encounter Groups (Rogers), 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-oschamn-j-l-2000-energy-medicine"
-id: "TRM-ENG-50818"
+id: "TRM-ENG-65347"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Oschamn, J. L. (2000). Energy medicine"

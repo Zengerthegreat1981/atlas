@@ -1,6 +1,6 @@
 ---
 slug: "trm-selfefficacy-theory-and-2"
-id: "TRM-ENG-41607"
+id: "TRM-ENG-56136"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "self-efficacy theory and, 2"

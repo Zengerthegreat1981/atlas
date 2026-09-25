@@ -1,6 +1,6 @@
 ---
 slug: "trm-source-modified-from-skodol-ae"
-id: "TRM-ENG-48099"
+id: "TRM-ENG-62628"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Source. Modified from Skodol AE"

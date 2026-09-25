@@ -1,6 +1,6 @@
 ---
 slug: "trm-up-in-two-statements"
-id: "TRM-ENG-46076"
+id: "TRM-ENG-60605"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "up in two statements"

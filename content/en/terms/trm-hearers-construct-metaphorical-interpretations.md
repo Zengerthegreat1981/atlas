@@ -1,6 +1,6 @@
 ---
 slug: "trm-hearers-construct-metaphorical-interpretations"
-id: "TRM-ENG-45169"
+id: "TRM-ENG-59698"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "hearers construct metaphorical interpretations"

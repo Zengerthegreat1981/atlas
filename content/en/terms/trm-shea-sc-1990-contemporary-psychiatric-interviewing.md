@@ -1,6 +1,6 @@
 ---
 slug: "trm-shea-sc-1990-contemporary-psychiatric-interviewing"
-id: "TRM-ENG-35960"
+id: "TRM-ENG-65018"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shea, S.C. (1990). Contemporary psychiatric interviewing"

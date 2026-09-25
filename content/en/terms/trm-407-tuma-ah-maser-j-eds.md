@@ -1,6 +1,6 @@
 ---
 slug: "trm-407-tuma-ah-maser-j-eds"
-id: "TRM-ENG-38994"
+id: "TRM-ENG-53523"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "407. Tuma AH, Maser J (eds)"

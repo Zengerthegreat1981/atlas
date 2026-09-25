@@ -1,6 +1,6 @@
 ---
 slug: "trm-ed-child-care-in-the-1990s"
-id: "TRM-ENG-34571"
+id: "TRM-ENG-49100"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Ed.), Child care in the 1990s"

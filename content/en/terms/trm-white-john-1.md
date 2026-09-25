@@ -1,6 +1,6 @@
 ---
 slug: "trm-white-john-1"
-id: "TRM-ENG-47479"
+id: "TRM-ENG-62008"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "White, John, 1"

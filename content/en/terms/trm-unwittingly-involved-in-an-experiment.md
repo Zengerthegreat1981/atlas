@@ -1,6 +1,6 @@
 ---
 slug: "trm-unwittingly-involved-in-an-experiment"
-id: "TRM-ENG-36227"
+id: "TRM-ENG-65285"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "unwittingly involved in an experiment"

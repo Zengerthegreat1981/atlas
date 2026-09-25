@@ -1,6 +1,6 @@
 ---
 slug: "trm-zuckerman-m"
-id: "TRM-ENG-48161"
+id: "TRM-ENG-62690"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Zuckerman M"

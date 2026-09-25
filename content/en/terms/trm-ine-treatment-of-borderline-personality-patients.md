@@ -1,6 +1,6 @@
 ---
 slug: "trm-ine-treatment-of-borderline-personality-patients"
-id: "TRM-ENG-42902"
+id: "TRM-ENG-57431"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ine treatment of borderline personality patients"

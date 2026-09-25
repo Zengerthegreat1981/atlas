@@ -1,6 +1,6 @@
 ---
 slug: "trm-yasnitsky-r-van-der-veer-m-ferrari-eds-the-science"
-id: "TRM-ENG-47511"
+id: "TRM-ENG-62040"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Yasnitsky, R. van der Veer, & M. Ferrari (Eds.), The science"

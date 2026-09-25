@@ -1,6 +1,6 @@
 ---
 slug: "trm-pluralism"
-id: "TRM-ENG-52338"
+id: "TRM-ENG-66867"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pluralism"

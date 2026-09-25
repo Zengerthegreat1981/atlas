@@ -1,6 +1,6 @@
 ---
 slug: "trm-judge-t-bono-j-erez-a-et-al"
-id: "TRM-ENG-47769"
+id: "TRM-ENG-62298"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Judge T, Bono J, Erez A, et al"

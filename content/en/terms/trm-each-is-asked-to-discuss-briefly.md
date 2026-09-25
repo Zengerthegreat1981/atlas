@@ -1,6 +1,6 @@
 ---
 slug: "trm-each-is-asked-to-discuss-briefly"
-id: "TRM-ENG-40402"
+id: "TRM-ENG-54931"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Each is asked to discuss briefly"

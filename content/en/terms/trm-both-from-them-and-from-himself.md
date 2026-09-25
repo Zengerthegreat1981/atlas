@@ -1,6 +1,6 @@
 ---
 slug: "trm-both-from-them-and-from-himself"
-id: "TRM-ENG-44919"
+id: "TRM-ENG-59448"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "both from them and from himself"

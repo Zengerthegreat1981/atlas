@@ -1,6 +1,6 @@
 ---
 slug: "trm-ethicscollectiveresponsibilitydutyandob"
-id: "TRM-ENG-45683"
+id: "TRM-ENG-60212"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ETHICS;COLLECTIVERESPONSIBILITY;DUTYANDOB-"

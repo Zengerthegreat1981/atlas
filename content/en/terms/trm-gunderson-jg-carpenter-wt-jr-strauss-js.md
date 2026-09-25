@@ -1,6 +1,6 @@
 ---
 slug: "trm-gunderson-jg-carpenter-wt-jr-strauss-js"
-id: "TRM-ENG-40854"
+id: "TRM-ENG-55383"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gunderson JG, Carpenter WT, Jr, Strauss JS"

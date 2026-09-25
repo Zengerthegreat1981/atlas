@@ -1,6 +1,6 @@
 ---
 slug: "trm-cerebral-vascular-accidents-1"
-id: "TRM-ENG-44371"
+id: "TRM-ENG-58900"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cerebral vascular accidents, 1"

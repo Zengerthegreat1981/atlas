@@ -1,6 +1,6 @@
 ---
 slug: "trm-kurzp1985askepticshandbookofparapsychologybuffalo"
-id: "TRM-ENG-37017"
+id: "TRM-ENG-66075"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kurz,P.(1985).Askeptic’shandbookofparapsychology.Buffalo"

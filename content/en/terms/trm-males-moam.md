@@ -1,6 +1,6 @@
 ---
 slug: "trm-males-moam"
-id: "TRM-ENG-44001"
+id: "TRM-ENG-58530"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Males (MOAM)"

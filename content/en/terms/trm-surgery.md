@@ -1,6 +1,6 @@
 ---
 slug: "trm-surgery"
-id: "TRM-ENG-43888"
+id: "TRM-ENG-58417"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "surgery."

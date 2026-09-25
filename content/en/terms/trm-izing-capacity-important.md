@@ -1,6 +1,6 @@
 ---
 slug: "trm-izing-capacity-important"
-id: "TRM-ENG-42963"
+id: "TRM-ENG-57492"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "izing capacity important"

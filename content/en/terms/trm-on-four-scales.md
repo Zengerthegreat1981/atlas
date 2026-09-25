@@ -1,6 +1,6 @@
 ---
 slug: "trm-on-four-scales"
-id: "TRM-ENG-41027"
+id: "TRM-ENG-55556"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "on four scales"

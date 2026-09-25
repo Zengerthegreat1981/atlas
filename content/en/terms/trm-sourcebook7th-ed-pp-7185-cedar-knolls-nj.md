@@ -1,6 +1,6 @@
 ---
 slug: "trm-sourcebook7th-ed-pp-7185-cedar-knolls-nj"
-id: "TRM-ENG-41732"
+id: "TRM-ENG-56261"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sourcebook(7th ed., pp. 71–85). Cedar Knolls, NJ"

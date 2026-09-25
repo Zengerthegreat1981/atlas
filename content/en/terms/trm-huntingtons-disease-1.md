@@ -1,6 +1,6 @@
 ---
 slug: "trm-huntingtons-disease-1"
-id: "TRM-ENG-38202"
+id: "TRM-ENG-52731"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Huntington’s disease, 1"

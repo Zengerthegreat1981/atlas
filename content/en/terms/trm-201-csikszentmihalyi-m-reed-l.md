@@ -1,6 +1,6 @@
 ---
 slug: "trm-201-csikszentmihalyi-m-reed-l"
-id: "TRM-ENG-38713"
+id: "TRM-ENG-53242"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "201. Csikszentmihalyi M, Reed L"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-miller-g-a-1965-the-psycholinguists"
-id: "TRM-ENG-37080"
+id: "TRM-ENG-66138"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Miller, G. A. (1965). The psycholinguists"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-external-vsinternal-drives-and-2"
-id: "TRM-ENG-40150"
+id: "TRM-ENG-54679"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "external vs.internal drives and, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-sanctions-were-usually-misfortunes"
-id: "TRM-ENG-46003"
+id: "TRM-ENG-60532"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sanctions were usually misfortunes"

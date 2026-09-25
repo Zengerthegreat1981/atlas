@@ -1,6 +1,6 @@
 ---
 slug: "trm-race-vs3"
-id: "TRM-ENG-41398"
+id: "TRM-ENG-55927"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "race vs.,3"

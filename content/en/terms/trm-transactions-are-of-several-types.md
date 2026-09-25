@@ -1,6 +1,6 @@
 ---
 slug: "trm-transactions-are-of-several-types"
-id: "TRM-ENG-42617"
+id: "TRM-ENG-57146"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Transactions are of several types"

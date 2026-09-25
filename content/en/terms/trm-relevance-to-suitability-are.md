@@ -1,6 +1,6 @@
 ---
 slug: "trm-relevance-to-suitability-are"
-id: "TRM-ENG-49688"
+id: "TRM-ENG-64217"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "relevance to suitability are"

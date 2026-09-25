@@ -1,6 +1,6 @@
 ---
 slug: "trm-pastoral-counseling-2"
-id: "TRM-ENG-51681"
+id: "TRM-ENG-66210"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pastoral counseling, 2"

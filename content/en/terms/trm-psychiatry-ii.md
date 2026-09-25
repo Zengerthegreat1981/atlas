@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychiatry-ii"
-id: "TRM-ENG-36361"
+id: "TRM-ENG-65419"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychiatry. II"

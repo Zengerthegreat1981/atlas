@@ -1,6 +1,6 @@
 ---
 slug: "trm-15-levine-m"
-id: "TRM-ENG-38624"
+id: "TRM-ENG-53153"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "15. Levine M"

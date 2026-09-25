@@ -1,6 +1,6 @@
 ---
 slug: "trm-schwartz-r-m-1986-the-internal-dialogue"
-id: "TRM-ENG-49172"
+id: "TRM-ENG-63701"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schwartz, R. M. (1986). The internal dialogue"

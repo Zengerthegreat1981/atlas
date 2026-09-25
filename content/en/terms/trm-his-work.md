@@ -1,6 +1,6 @@
 ---
 slug: "trm-his-work"
-id: "TRM-ENG-36329"
+id: "TRM-ENG-65387"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "his work"

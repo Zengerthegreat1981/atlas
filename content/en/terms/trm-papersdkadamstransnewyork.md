@@ -1,6 +1,6 @@
 ---
 slug: "trm-papersdkadamstransnewyork"
-id: "TRM-ENG-49603"
+id: "TRM-ENG-64132"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "papers(D.K.Adamstrans.).NewYork"

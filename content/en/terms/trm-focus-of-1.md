@@ -1,6 +1,6 @@
 ---
 slug: "trm-focus-of-1"
-id: "TRM-ENG-40219"
+id: "TRM-ENG-54748"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "focus of, 1"

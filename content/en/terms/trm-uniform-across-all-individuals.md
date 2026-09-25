@@ -1,6 +1,6 @@
 ---
 slug: "trm-uniform-across-all-individuals"
-id: "TRM-ENG-43405"
+id: "TRM-ENG-57934"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "uniform across all individuals"

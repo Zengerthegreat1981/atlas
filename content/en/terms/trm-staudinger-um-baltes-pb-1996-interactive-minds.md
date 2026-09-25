@@ -1,6 +1,6 @@
 ---
 slug: "trm-staudinger-um-baltes-pb-1996-interactive-minds"
-id: "TRM-ENG-35977"
+id: "TRM-ENG-65035"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Staudinger, U.M., & Baltes, P.B. (1996). Interactive minds"

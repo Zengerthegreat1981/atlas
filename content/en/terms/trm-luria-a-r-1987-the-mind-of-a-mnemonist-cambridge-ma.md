@@ -1,6 +1,6 @@
 ---
 slug: "trm-luria-a-r-1987-the-mind-of-a-mnemonist-cambridge-ma"
-id: "TRM-ENG-37042"
+id: "TRM-ENG-51571"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Luria, A. R. (1987). The mind of a mnemonist. Cambridge, MA"

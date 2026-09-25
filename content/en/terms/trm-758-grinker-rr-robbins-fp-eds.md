@@ -1,6 +1,6 @@
 ---
 slug: "trm-758-grinker-rr-robbins-fp-eds"
-id: "TRM-ENG-39407"
+id: "TRM-ENG-53936"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "758. Grinker RR, Robbins FP (eds)"

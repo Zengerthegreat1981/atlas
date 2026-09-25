@@ -1,6 +1,6 @@
 ---
 slug: "trm-esquibel-aj-et-al"
-id: "TRM-ENG-40473"
+id: "TRM-ENG-55002"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Esquibel AJ, et al"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-l-tyler-2"
-id: "TRM-ENG-37407"
+id: "TRM-ENG-51936"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(L. Tyler), 2"

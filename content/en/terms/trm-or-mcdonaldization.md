@@ -1,6 +1,6 @@
 ---
 slug: "trm-or-mcdonaldization"
-id: "TRM-ENG-48496"
+id: "TRM-ENG-63025"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "or “McDonaldization”"

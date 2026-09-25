@@ -1,6 +1,6 @@
 ---
 slug: "trm-services-agencies-are-operated-by-individual-states"
-id: "TRM-ENG-35307"
+id: "TRM-ENG-64365"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "services agencies are operated by individual states"

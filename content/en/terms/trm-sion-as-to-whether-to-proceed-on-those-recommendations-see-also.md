@@ -1,6 +1,6 @@
 ---
 slug: "trm-sion-as-to-whether-to-proceed-on-those-recommendations-see-also"
-id: "TRM-ENG-36998"
+id: "TRM-ENG-66056"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sion as to whether to proceed on those recommendations See also"

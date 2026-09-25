@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-selftranscendence"
-id: "TRM-ENG-42624"
+id: "TRM-ENG-57153"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and Self-Transcendence"

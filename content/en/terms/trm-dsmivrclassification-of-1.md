@@ -1,6 +1,6 @@
 ---
 slug: "trm-dsmivrclassification-of-1"
-id: "TRM-ENG-37917"
+id: "TRM-ENG-52446"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "DSM-IV-Rclassification of, 1"

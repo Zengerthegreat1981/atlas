@@ -1,6 +1,6 @@
 ---
 slug: "trm-classical-conditioning-1"
-id: "TRM-ENG-51332"
+id: "TRM-ENG-65861"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "classical conditioning, 1"

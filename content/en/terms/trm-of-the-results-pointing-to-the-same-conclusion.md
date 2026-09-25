@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-the-results-pointing-to-the-same-conclusion"
-id: "TRM-ENG-41015"
+id: "TRM-ENG-55544"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of the results pointing to the same conclusion"

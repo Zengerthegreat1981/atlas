@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-severity"
-id: "TRM-ENG-43067"
+id: "TRM-ENG-57596"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of severity"

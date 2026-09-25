@@ -1,6 +1,6 @@
 ---
 slug: "trm-binswanger-ludwig-1"
-id: "TRM-ENG-50169"
+id: "TRM-ENG-64698"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Binswanger, Ludwig, 1"

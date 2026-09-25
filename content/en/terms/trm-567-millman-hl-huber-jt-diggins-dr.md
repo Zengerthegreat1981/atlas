@@ -1,6 +1,6 @@
 ---
 slug: "trm-567-millman-hl-huber-jt-diggins-dr"
-id: "TRM-ENG-39178"
+id: "TRM-ENG-53707"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "567. Millman HL, Huber JT, Diggins DR"

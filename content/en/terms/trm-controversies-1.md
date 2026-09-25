@@ -1,6 +1,6 @@
 ---
 slug: "trm-controversies-1"
-id: "TRM-ENG-47830"
+id: "TRM-ENG-62359"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "controversies, 1"

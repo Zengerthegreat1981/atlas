@@ -1,6 +1,6 @@
 ---
 slug: "trm-lifschutz-je-et-al"
-id: "TRM-ENG-41466"
+id: "TRM-ENG-55995"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lifschutz JE, et al"

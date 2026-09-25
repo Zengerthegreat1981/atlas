@@ -1,6 +1,6 @@
 ---
 slug: "trm-berry-j-2005-acculturation"
-id: "TRM-ENG-46305"
+id: "TRM-ENG-60834"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Berry, J. (2005). Acculturation"

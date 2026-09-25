@@ -1,6 +1,6 @@
 ---
 slug: "trm-kh-chen-eds-stuart-hall"
-id: "TRM-ENG-46855"
+id: "TRM-ENG-61384"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "K.-H. Chen (Eds.), Stuart Hall"

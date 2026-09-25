@@ -1,6 +1,6 @@
 ---
 slug: "trm-abse-dw"
-id: "TRM-ENG-39634"
+id: "TRM-ENG-54163"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Abse DW"

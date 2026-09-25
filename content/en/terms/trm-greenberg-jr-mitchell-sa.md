@@ -1,6 +1,6 @@
 ---
 slug: "trm-greenberg-jr-mitchell-sa"
-id: "TRM-ENG-40807"
+id: "TRM-ENG-55336"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Greenberg JR, Mitchell SA"

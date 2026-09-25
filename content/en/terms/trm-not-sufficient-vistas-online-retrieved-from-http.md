@@ -1,6 +1,6 @@
 ---
 slug: "trm-not-sufficient-vistas-online-retrieved-from-http"
-id: "TRM-ENG-51632"
+id: "TRM-ENG-66161"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "not sufficient. Vistas Online. Retrieved from http"

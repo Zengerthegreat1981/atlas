@@ -1,6 +1,6 @@
 ---
 slug: "trm-children-and-their-spouses"
-id: "TRM-ENG-45549"
+id: "TRM-ENG-60078"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "children, and their spouses"

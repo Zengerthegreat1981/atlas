@@ -1,6 +1,6 @@
 ---
 slug: "trm-fierman-lb"
-id: "TRM-ENG-40526"
+id: "TRM-ENG-55055"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fierman LB"

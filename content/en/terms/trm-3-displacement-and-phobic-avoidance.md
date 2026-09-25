@@ -1,6 +1,6 @@
 ---
 slug: "trm-3-displacement-and-phobic-avoidance"
-id: "TRM-ENG-38842"
+id: "TRM-ENG-53371"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "3. Displacement and phobic avoidance"

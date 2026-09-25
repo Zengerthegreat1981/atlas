@@ -1,6 +1,6 @@
 ---
 slug: "trm-something-like-this"
-id: "TRM-ENG-36128"
+id: "TRM-ENG-65186"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "something like this"

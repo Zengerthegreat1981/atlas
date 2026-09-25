@@ -1,6 +1,6 @@
 ---
 slug: "trm-semantics-2"
-id: "TRM-ENG-47255"
+id: "TRM-ENG-61784"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Semantics, 2"

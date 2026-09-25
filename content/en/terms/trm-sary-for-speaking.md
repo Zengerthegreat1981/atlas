@@ -1,6 +1,6 @@
 ---
 slug: "trm-sary-for-speaking"
-id: "TRM-ENG-43846"
+id: "TRM-ENG-58375"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sary for speaking."

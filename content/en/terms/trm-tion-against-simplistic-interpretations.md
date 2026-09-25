@@ -1,6 +1,6 @@
 ---
 slug: "trm-tion-against-simplistic-interpretations"
-id: "TRM-ENG-43341"
+id: "TRM-ENG-57870"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tion against simplistic interpretations"

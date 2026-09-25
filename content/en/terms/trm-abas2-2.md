@@ -1,6 +1,6 @@
 ---
 slug: "trm-abas2-2"
-id: "TRM-ENG-37368"
+id: "TRM-ENG-51897"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(ABAS-2), 2"

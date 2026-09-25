@@ -1,6 +1,6 @@
 ---
 slug: "trm-abusive-childhood-experiences-and-1"
-id: "TRM-ENG-39071"
+id: "TRM-ENG-53600"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "abusive childhood experiences and, 1"

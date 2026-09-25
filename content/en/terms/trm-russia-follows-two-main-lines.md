@@ -1,6 +1,6 @@
 ---
 slug: "trm-russia-follows-two-main-lines"
-id: "TRM-ENG-35934"
+id: "TRM-ENG-64992"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Russia follows two main lines"

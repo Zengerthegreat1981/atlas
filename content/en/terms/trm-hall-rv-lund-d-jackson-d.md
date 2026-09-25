@@ -1,6 +1,6 @@
 ---
 slug: "trm-hall-rv-lund-d-jackson-d"
-id: "TRM-ENG-40888"
+id: "TRM-ENG-55417"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hall RV, Lund D, Jackson D"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-baer-r-2011-mindfulnessbased-treatment-approaches"
-id: "TRM-ENG-50137"
+id: "TRM-ENG-64666"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Baer, R. (2011). Mindfulness-based treatment approaches"

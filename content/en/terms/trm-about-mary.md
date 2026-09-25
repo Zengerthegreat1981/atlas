@@ -1,6 +1,6 @@
 ---
 slug: "trm-about-mary"
-id: "TRM-ENG-44865"
+id: "TRM-ENG-59394"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "about Mary"

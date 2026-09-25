@@ -1,6 +1,6 @@
 ---
 slug: "trm-focus-theory-of-normative-conduct"
-id: "TRM-ENG-46983"
+id: "TRM-ENG-61512"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "focus theory of normative conduct"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-lorand-s"
-id: "TRM-ENG-41504"
+id: "TRM-ENG-56033"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lorand S"

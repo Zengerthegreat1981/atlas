@@ -1,6 +1,6 @@
 ---
 slug: "trm-model-guides-io-psychologists-in-two-ways"
-id: "TRM-ENG-40867"
+id: "TRM-ENG-55396"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "model guides I/O psychologists in two ways"

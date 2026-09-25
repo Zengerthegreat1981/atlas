@@ -1,6 +1,6 @@
 ---
 slug: "trm-mean"
-id: "TRM-ENG-52279"
+id: "TRM-ENG-66808"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mean"

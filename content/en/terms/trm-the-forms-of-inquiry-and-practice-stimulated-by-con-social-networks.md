@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-forms-of-inquiry-and-practice-stimulated-by-con-social-networks"
-id: "TRM-ENG-38304"
+id: "TRM-ENG-52833"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the forms of inquiry and practice stimulated by con- social networks"

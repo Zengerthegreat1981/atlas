@@ -1,6 +1,6 @@
 ---
 slug: "trm-maslow-a-1971-the-farther-reaches-of-human-naturenew-york"
-id: "TRM-ENG-35833"
+id: "TRM-ENG-50362"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Maslow, A. (1971). The farther reaches of human nature.New York"

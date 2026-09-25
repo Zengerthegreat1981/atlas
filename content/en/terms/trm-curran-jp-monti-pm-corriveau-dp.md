@@ -1,6 +1,6 @@
 ---
 slug: "trm-curran-jp-monti-pm-corriveau-dp"
-id: "TRM-ENG-40285"
+id: "TRM-ENG-54814"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Curran JP, Monti, PM, Corriveau DP"

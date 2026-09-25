@@ -1,6 +1,6 @@
 ---
 slug: "trm-european-eating-disorders-review-15-323339-velopment"
-id: "TRM-ENG-42386"
+id: "TRM-ENG-56915"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "European Eating Disorders Review, 15, 323–339. velopment"

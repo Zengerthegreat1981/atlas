@@ -1,6 +1,6 @@
 ---
 slug: "trm-reevaluationbuffalo"
-id: "TRM-ENG-38187"
+id: "TRM-ENG-52716"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "re-evaluation.Buffalo"

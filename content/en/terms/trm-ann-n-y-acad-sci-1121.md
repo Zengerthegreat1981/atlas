@@ -1,6 +1,6 @@
 ---
 slug: "trm-ann-n-y-acad-sci-1121"
-id: "TRM-ENG-47469"
+id: "TRM-ENG-61998"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ann N Y Acad Sci 1121"

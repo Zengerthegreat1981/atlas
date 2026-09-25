@@ -1,6 +1,6 @@
 ---
 slug: "trm-bridge-regularly"
-id: "TRM-ENG-34775"
+id: "TRM-ENG-49304"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bridge regularly"

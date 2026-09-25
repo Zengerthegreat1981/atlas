@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-thinking-together-with"
-id: "TRM-ENG-47627"
+id: "TRM-ENG-62156"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and thinking together with"

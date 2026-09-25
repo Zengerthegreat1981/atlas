@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-philosophy-whereby-scientific-methods"
-id: "TRM-ENG-45197"
+id: "TRM-ENG-59726"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in philosophy, whereby scientific methods"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-well-founded-in-1965"
-id: "TRM-ENG-37305"
+id: "TRM-ENG-51834"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "well founded in 1965"

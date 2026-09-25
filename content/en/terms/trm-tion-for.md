@@ -1,6 +1,6 @@
 ---
 slug: "trm-tion-for"
-id: "TRM-ENG-37181"
+id: "TRM-ENG-51710"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tion for"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-blumenthal-j-a-wei-j-babyak-m-krantz-d-s-paths"
-id: "TRM-ENG-46436"
+id: "TRM-ENG-60965"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Blumenthal, J. A., Wei, J., Babyak, M., Krantz, D. S., (PATHS)"

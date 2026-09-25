@@ -1,6 +1,6 @@
 ---
 slug: "trm-gendzel-ib"
-id: "TRM-ENG-40685"
+id: "TRM-ENG-55214"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gendzel IB"

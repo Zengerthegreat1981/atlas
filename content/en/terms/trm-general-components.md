@@ -1,6 +1,6 @@
 ---
 slug: "trm-general-components"
-id: "TRM-ENG-45151"
+id: "TRM-ENG-59680"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "general components"

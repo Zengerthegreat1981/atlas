@@ -1,6 +1,6 @@
 ---
 slug: "trm-haskell-d-pugatch-d-mcnair-dm"
-id: "TRM-ENG-40936"
+id: "TRM-ENG-55465"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Haskell D, Pugatch D, McNair DM"

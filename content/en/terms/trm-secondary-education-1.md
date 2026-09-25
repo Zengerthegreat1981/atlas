@@ -1,6 +1,6 @@
 ---
 slug: "trm-secondary-education-1"
-id: "TRM-ENG-48691"
+id: "TRM-ENG-63220"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "secondary education, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-emotional-counseling-azeditor-howard-ea-tinsley"
-id: "TRM-ENG-39175"
+id: "TRM-ENG-53704"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and emotional counseling, A-Z/editor, Howard E.A. Tinsley"

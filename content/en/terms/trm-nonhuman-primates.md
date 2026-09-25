@@ -1,6 +1,6 @@
 ---
 slug: "trm-nonhuman-primates"
-id: "TRM-ENG-38004"
+id: "TRM-ENG-67062"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nonhuman primates"

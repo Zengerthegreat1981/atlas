@@ -1,6 +1,6 @@
 ---
 slug: "trm-alence-in-crosscultural-assessment"
-id: "TRM-ENG-35629"
+id: "TRM-ENG-64687"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "alence in cross-cultural assessment"

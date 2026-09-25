@@ -1,6 +1,6 @@
 ---
 slug: "trm-expectations-about-therapy-and-2"
-id: "TRM-ENG-40138"
+id: "TRM-ENG-54667"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "expectations about therapy and, 2"

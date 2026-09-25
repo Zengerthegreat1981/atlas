@@ -1,6 +1,6 @@
 ---
 slug: "trm-finland-1"
-id: "TRM-ENG-46619"
+id: "TRM-ENG-61148"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Finland, 1"

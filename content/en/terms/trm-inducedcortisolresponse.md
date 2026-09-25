@@ -1,6 +1,6 @@
 ---
 slug: "trm-inducedcortisolresponse"
-id: "TRM-ENG-47044"
+id: "TRM-ENG-61573"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "inducedcortisolresponse"

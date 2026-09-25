@@ -1,6 +1,6 @@
 ---
 slug: "trm-tic"
-id: "TRM-ENG-43923"
+id: "TRM-ENG-58452"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tic"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-clark1909worcester"
-id: "TRM-ENG-36699"
+id: "TRM-ENG-65757"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Clark,1909.Worcester"

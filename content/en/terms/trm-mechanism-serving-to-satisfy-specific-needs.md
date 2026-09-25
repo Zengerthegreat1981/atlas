@@ -1,6 +1,6 @@
 ---
 slug: "trm-mechanism-serving-to-satisfy-specific-needs"
-id: "TRM-ENG-43102"
+id: "TRM-ENG-57631"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mechanism serving to satisfy specific needs"

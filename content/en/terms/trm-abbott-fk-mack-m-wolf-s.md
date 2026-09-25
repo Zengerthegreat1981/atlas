@@ -1,6 +1,6 @@
 ---
 slug: "trm-abbott-fk-mack-m-wolf-s"
-id: "TRM-ENG-39622"
+id: "TRM-ENG-54151"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Abbott FK, Mack M, Wolf S"

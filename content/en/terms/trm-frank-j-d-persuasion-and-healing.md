@@ -1,6 +1,6 @@
 ---
 slug: "trm-frank-j-d-persuasion-and-healing"
-id: "TRM-ENG-44390"
+id: "TRM-ENG-58919"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Frank, J. D., Persuasion and Healing"

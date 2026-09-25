@@ -1,6 +1,6 @@
 ---
 slug: "trm-grams"
-id: "TRM-ENG-35830"
+id: "TRM-ENG-64888"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "grams"

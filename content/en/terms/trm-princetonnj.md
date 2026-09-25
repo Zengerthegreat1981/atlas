@@ -1,6 +1,6 @@
 ---
 slug: "trm-princetonnj"
-id: "TRM-ENG-37193"
+id: "TRM-ENG-66251"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Princeton,NJ"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-caspi-a-begg-d-dickson-n-et-al"
-id: "TRM-ENG-47539"
+id: "TRM-ENG-62068"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Caspi A, Begg D, Dickson N, et al"

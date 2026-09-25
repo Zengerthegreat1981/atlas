@@ -1,6 +1,6 @@
 ---
 slug: "trm-2-or-more-of"
-id: "TRM-ENG-49865"
+id: "TRM-ENG-64394"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "– 2 or more of"

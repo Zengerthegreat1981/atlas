@@ -1,6 +1,6 @@
 ---
 slug: "trm-ory-psychological-bulletin-51-493504-doi"
-id: "TRM-ENG-36023"
+id: "TRM-ENG-50552"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ory. Psychological Bulletin, 51, 493–504. doi"

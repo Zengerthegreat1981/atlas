@@ -1,6 +1,6 @@
 ---
 slug: "trm-values-in-research-2"
-id: "TRM-ENG-49008"
+id: "TRM-ENG-63537"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "values in research, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-impaired-visuospatial-judgments"
-id: "TRM-ENG-35851"
+id: "TRM-ENG-50380"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "impaired visuospatial judgments"

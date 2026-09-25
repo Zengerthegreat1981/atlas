@@ -1,6 +1,6 @@
 ---
 slug: "trm-manual-of-mental-disorders"
-id: "TRM-ENG-43476"
+id: "TRM-ENG-58005"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Manual of Mental Disorders"

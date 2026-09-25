@@ -1,6 +1,6 @@
 ---
 slug: "trm-311-west-lj-stein-m-eds"
-id: "TRM-ENG-38873"
+id: "TRM-ENG-53402"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "311. West LJ, Stein M (eds)"

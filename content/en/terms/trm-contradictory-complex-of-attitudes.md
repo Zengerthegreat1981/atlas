@@ -1,6 +1,6 @@
 ---
 slug: "trm-contradictory-complex-of-attitudes"
-id: "TRM-ENG-36314"
+id: "TRM-ENG-65372"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "contradictory complex of attitudes"

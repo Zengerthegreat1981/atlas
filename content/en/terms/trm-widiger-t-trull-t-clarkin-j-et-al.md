@@ -1,6 +1,6 @@
 ---
 slug: "trm-widiger-t-trull-t-clarkin-j-et-al"
-id: "TRM-ENG-48151"
+id: "TRM-ENG-62680"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Widiger T, Trull T, Clarkin J, et al"

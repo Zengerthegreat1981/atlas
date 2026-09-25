@@ -1,6 +1,6 @@
 ---
 slug: "trm-total"
-id: "TRM-ENG-45645"
+id: "TRM-ENG-60174"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "total"

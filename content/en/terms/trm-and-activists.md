@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-activists"
-id: "TRM-ENG-39163"
+id: "TRM-ENG-53692"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and activists"

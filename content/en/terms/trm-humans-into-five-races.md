@@ -1,6 +1,6 @@
 ---
 slug: "trm-humans-into-five-races"
-id: "TRM-ENG-48134"
+id: "TRM-ENG-62663"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "humans into five races"

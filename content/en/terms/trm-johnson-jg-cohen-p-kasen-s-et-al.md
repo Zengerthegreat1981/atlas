@@ -1,6 +1,6 @@
 ---
 slug: "trm-johnson-jg-cohen-p-kasen-s-et-al"
-id: "TRM-ENG-47767"
+id: "TRM-ENG-62296"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Johnson JG, Cohen P, Kasen S, et al"

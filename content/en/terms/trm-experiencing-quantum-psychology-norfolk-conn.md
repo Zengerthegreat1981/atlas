@@ -1,6 +1,6 @@
 ---
 slug: "trm-experiencing-quantum-psychology-norfolk-conn"
-id: "TRM-ENG-45811"
+id: "TRM-ENG-60340"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Experiencing Quantum Psychology. Norfolk, Conn."

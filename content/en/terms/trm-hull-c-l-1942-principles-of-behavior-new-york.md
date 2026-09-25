@@ -1,6 +1,6 @@
 ---
 slug: "trm-hull-c-l-1942-principles-of-behavior-new-york"
-id: "TRM-ENG-36927"
+id: "TRM-ENG-51456"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hull, C. L. (1942). Principles of behavior. New York"

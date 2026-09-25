@@ -1,6 +1,6 @@
 ---
 slug: "trm-hypnotics-in-adults"
-id: "TRM-ENG-34865"
+id: "TRM-ENG-63923"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "hypnotics in adults"

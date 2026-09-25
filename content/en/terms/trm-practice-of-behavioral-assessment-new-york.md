@@ -1,6 +1,6 @@
 ---
 slug: "trm-practice-of-behavioral-assessment-new-york"
-id: "TRM-ENG-41245"
+id: "TRM-ENG-55774"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "practice of behavioral assessment. New York"

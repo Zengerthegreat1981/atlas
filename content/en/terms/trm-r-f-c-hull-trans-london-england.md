@@ -1,6 +1,6 @@
 ---
 slug: "trm-r-f-c-hull-trans-london-england"
-id: "TRM-ENG-50923"
+id: "TRM-ENG-65452"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "R. F. C. Hull, Trans.). London, England"

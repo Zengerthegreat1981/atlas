@@ -1,6 +1,6 @@
 ---
 slug: "trm-on-which-classic-psychoanalysis-rests-are"
-id: "TRM-ENG-43776"
+id: "TRM-ENG-58305"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "on which classic psychoanalysis rests are"

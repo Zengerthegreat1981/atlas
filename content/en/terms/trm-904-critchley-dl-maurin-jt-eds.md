@@ -1,6 +1,6 @@
 ---
 slug: "trm-904-critchley-dl-maurin-jt-eds"
-id: "TRM-ENG-39578"
+id: "TRM-ENG-54107"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "904. Critchley DL, Maurin JT (eds)"

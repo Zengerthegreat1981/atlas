@@ -1,6 +1,6 @@
 ---
 slug: "trm-handlon-jh"
-id: "TRM-ENG-40904"
+id: "TRM-ENG-55433"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Handlon JH"

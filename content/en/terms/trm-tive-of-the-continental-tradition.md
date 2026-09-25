@@ -1,6 +1,6 @@
 ---
 slug: "trm-tive-of-the-continental-tradition"
-id: "TRM-ENG-48931"
+id: "TRM-ENG-63460"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tive of the Continental tradition"

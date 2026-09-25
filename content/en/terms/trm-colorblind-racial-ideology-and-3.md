@@ -1,6 +1,6 @@
 ---
 slug: "trm-colorblind-racial-ideology-and-3"
-id: "TRM-ENG-39585"
+id: "TRM-ENG-54114"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "color-blind racial ideology and, 3"

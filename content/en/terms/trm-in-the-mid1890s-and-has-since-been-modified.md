@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-the-mid1890s-and-has-since-been-modified"
-id: "TRM-ENG-36558"
+id: "TRM-ENG-65616"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in the mid-1890s and has since been modified"

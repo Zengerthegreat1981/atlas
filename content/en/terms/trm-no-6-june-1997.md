@@ -1,6 +1,6 @@
 ---
 slug: "trm-no-6-june-1997"
-id: "TRM-ENG-46164"
+id: "TRM-ENG-60693"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "no. 6 (June 1997)"

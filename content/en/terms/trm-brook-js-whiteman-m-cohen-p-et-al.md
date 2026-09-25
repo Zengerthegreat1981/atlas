@@ -1,6 +1,6 @@
 ---
 slug: "trm-brook-js-whiteman-m-cohen-p-et-al"
-id: "TRM-ENG-47529"
+id: "TRM-ENG-62058"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brook JS, Whiteman M, Cohen P, et al"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-one-judges-ones-attributes-in-particular-arenas"
-id: "TRM-ENG-45370"
+id: "TRM-ENG-59899"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "one judges one’s attributes in particular arenas"

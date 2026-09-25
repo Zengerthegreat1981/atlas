@@ -1,6 +1,6 @@
 ---
 slug: "trm-foundational-therapies-1"
-id: "TRM-ENG-51477"
+id: "TRM-ENG-66006"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "foundational therapies, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-propositional-meaning-and-individual-subsections-of-sound"
-id: "TRM-ENG-45451"
+id: "TRM-ENG-59980"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "propositional meaning and individual subsections of Sound"

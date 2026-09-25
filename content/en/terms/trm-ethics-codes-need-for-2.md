@@ -1,6 +1,6 @@
 ---
 slug: "trm-ethics-codes-need-for-2"
-id: "TRM-ENG-40095"
+id: "TRM-ENG-54624"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ethics codes, need for, 2"

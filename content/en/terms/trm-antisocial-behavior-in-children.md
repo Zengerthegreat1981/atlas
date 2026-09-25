@@ -1,6 +1,6 @@
 ---
 slug: "trm-antisocial-behavior-in-children"
-id: "TRM-ENG-42646"
+id: "TRM-ENG-57175"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "antisocial behavior in children"

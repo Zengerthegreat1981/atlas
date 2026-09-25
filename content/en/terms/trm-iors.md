@@ -1,6 +1,6 @@
 ---
 slug: "trm-iors"
-id: "TRM-ENG-36595"
+id: "TRM-ENG-65653"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "iors"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-integrating-three-main-bodies-of-literature"
-id: "TRM-ENG-42920"
+id: "TRM-ENG-57449"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "integrating three main bodies of literature"

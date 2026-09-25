@@ -1,6 +1,6 @@
 ---
 slug: "trm-conditional-reflex-3-234240-doi"
-id: "TRM-ENG-50271"
+id: "TRM-ENG-64800"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Conditional Reflex, 3, 234–240. doi"

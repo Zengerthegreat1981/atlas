@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-teaching"
-id: "TRM-ENG-48447"
+id: "TRM-ENG-62976"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of teaching"

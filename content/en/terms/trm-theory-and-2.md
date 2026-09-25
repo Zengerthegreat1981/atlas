@@ -1,6 +1,6 @@
 ---
 slug: "trm-theory-and-2"
-id: "TRM-ENG-41918"
+id: "TRM-ENG-56447"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theory and, 2"

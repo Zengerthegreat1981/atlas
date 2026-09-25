@@ -1,6 +1,6 @@
 ---
 slug: "trm-mechanisms-of-neuron-death-cambridge-ma"
-id: "TRM-ENG-47101"
+id: "TRM-ENG-61630"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mechanisms of neuron death. Cambridge, MA"

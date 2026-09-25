@@ -1,6 +1,6 @@
 ---
 slug: "trm-res-12"
-id: "TRM-ENG-48005"
+id: "TRM-ENG-62534"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Res 12"

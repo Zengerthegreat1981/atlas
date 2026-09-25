@@ -1,6 +1,6 @@
 ---
 slug: "trm-questionsarethewhyquestions"
-id: "TRM-ENG-47244"
+id: "TRM-ENG-61773"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "questionsaretheªwhyºquestions"

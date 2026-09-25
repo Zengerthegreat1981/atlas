@@ -1,6 +1,6 @@
 ---
 slug: "trm-key-wb-1973-subliminal-seduction-englewood-cliffs-nj"
-id: "TRM-ENG-35788"
+id: "TRM-ENG-64846"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Key, W.B. (1973). Subliminal seduction. Englewood Cliffs, NJ"

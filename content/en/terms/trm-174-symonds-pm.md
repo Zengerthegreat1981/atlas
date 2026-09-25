@@ -1,6 +1,6 @@
 ---
 slug: "trm-174-symonds-pm"
-id: "TRM-ENG-38653"
+id: "TRM-ENG-53182"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "174. Symonds PM"

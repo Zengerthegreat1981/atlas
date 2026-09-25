@@ -1,6 +1,6 @@
 ---
 slug: "trm-orientalism-1"
-id: "TRM-ENG-47084"
+id: "TRM-ENG-61613"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Orientalism, 1"

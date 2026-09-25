@@ -1,6 +1,6 @@
 ---
 slug: "trm-peabody-mary-1"
-id: "TRM-ENG-47119"
+id: "TRM-ENG-61648"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Peabody, Mary, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-nalize-her-action"
-id: "TRM-ENG-45323"
+id: "TRM-ENG-59852"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nalize her action"

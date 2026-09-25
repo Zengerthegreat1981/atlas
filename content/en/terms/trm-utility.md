@@ -1,6 +1,6 @@
 ---
 slug: "trm-utility"
-id: "TRM-ENG-35604"
+id: "TRM-ENG-64662"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Utility"

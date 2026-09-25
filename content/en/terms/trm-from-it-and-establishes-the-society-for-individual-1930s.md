@@ -1,6 +1,6 @@
 ---
 slug: "trm-from-it-and-establishes-the-society-for-individual-1930s"
-id: "TRM-ENG-51480"
+id: "TRM-ENG-66009"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "from it and establishes the Society for Individual 1930s"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-coin"
-id: "TRM-ENG-48743"
+id: "TRM-ENG-63272"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“coin”"

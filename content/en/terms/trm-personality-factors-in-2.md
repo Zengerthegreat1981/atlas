@@ -1,6 +1,6 @@
 ---
 slug: "trm-personality-factors-in-2"
-id: "TRM-ENG-41154"
+id: "TRM-ENG-55683"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "personality factors in, 2"

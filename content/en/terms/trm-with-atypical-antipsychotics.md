@@ -1,6 +1,6 @@
 ---
 slug: "trm-with-atypical-antipsychotics"
-id: "TRM-ENG-37320"
+id: "TRM-ENG-51849"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "with atypical antipsychotics"

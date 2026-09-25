@@ -1,6 +1,6 @@
 ---
 slug: "trm-tallal-p-2013-fast-forword"
-id: "TRM-ENG-34697"
+id: "TRM-ENG-49226"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tallal, P. (2013). Fast ForWord"

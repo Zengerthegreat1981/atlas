@@ -1,6 +1,6 @@
 ---
 slug: "trm-is-doubleedged"
-id: "TRM-ENG-48230"
+id: "TRM-ENG-62759"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "is double-edged"

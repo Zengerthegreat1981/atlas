@@ -1,6 +1,6 @@
 ---
 slug: "trm-narveson-jan-morality-and-utility-baltimore"
-id: "TRM-ENG-45749"
+id: "TRM-ENG-60278"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Narveson, Jan. Morality and Utility. Baltimore"

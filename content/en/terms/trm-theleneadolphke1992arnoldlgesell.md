@@ -1,6 +1,6 @@
 ---
 slug: "trm-theleneadolphke1992arnoldlgesell"
-id: "TRM-ENG-37357"
+id: "TRM-ENG-66415"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Thelen,E.,&Adolph,K.E.(1992).ArnoldL.Gesell"

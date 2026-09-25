@@ -1,6 +1,6 @@
 ---
 slug: "trm-difference-scoresymbol"
-id: "TRM-ENG-43612"
+id: "TRM-ENG-58141"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "difference score(symbol"

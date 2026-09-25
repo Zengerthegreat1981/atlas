@@ -1,6 +1,6 @@
 ---
 slug: "trm-disorganizing"
-id: "TRM-ENG-43017"
+id: "TRM-ENG-57546"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disorganizing"

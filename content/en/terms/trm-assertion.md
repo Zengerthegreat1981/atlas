@@ -1,6 +1,6 @@
 ---
 slug: "trm-assertion"
-id: "TRM-ENG-36170"
+id: "TRM-ENG-65228"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "assertion"

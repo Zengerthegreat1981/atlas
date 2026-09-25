@@ -1,6 +1,6 @@
 ---
 slug: "trm-sode"
-id: "TRM-ENG-43869"
+id: "TRM-ENG-58398"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sode."

@@ -1,6 +1,6 @@
 ---
 slug: "trm-note-just-how-restrictive-a-kuhnian-paradigm-is"
-id: "TRM-ENG-47070"
+id: "TRM-ENG-61599"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Note just how restrictive a Kuhnian paradigm is"

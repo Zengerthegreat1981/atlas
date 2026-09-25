@@ -1,6 +1,6 @@
 ---
 slug: "trm-ment-five-coping-patterns-were-identified"
-id: "TRM-ENG-47118"
+id: "TRM-ENG-61647"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ment. Five coping patterns were identified"

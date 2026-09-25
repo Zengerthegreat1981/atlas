@@ -1,6 +1,6 @@
 ---
 slug: "trm-924-hales-re-frances-aj"
-id: "TRM-ENG-39600"
+id: "TRM-ENG-54129"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "924. Hales RE, Frances AJ"

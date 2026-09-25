@@ -1,6 +1,6 @@
 ---
 slug: "trm-henry-we-sims-jh-spray-sl"
-id: "TRM-ENG-40972"
+id: "TRM-ENG-55501"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Henry WE, Sims JH, Spray SL"

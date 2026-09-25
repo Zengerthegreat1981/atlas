@@ -1,6 +1,6 @@
 ---
 slug: "trm-methodologist"
-id: "TRM-ENG-44090"
+id: "TRM-ENG-58619"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "methodologist"

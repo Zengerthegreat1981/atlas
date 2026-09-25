@@ -1,6 +1,6 @@
 ---
 slug: "trm-levick-mf-dulicai-d-briggs-c-et-al"
-id: "TRM-ENG-41421"
+id: "TRM-ENG-55950"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Levick MF, Dulicai D, Briggs C, et al"

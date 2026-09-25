@@ -1,6 +1,6 @@
 ---
 slug: "trm-experiences-with-their-qualitative-characters"
-id: "TRM-ENG-45116"
+id: "TRM-ENG-59645"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "experiences, with their qualitative characters"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-wellsfl1946holderlin"
-id: "TRM-ENG-37424"
+id: "TRM-ENG-66482"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wells,F.L.(1946).Ho¨lderlin"

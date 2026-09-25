@@ -1,6 +1,6 @@
 ---
 slug: "trm-choanal-psychol-21"
-id: "TRM-ENG-48258"
+id: "TRM-ENG-62787"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "choanal Psychol 21"

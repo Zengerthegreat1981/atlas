@@ -1,6 +1,6 @@
 ---
 slug: "trm-dasen-pierre-r-3"
-id: "TRM-ENG-37925"
+id: "TRM-ENG-52454"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dasen, Pierre R., 3"

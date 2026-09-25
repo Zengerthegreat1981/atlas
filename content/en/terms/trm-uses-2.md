@@ -1,6 +1,6 @@
 ---
 slug: "trm-uses-2"
-id: "TRM-ENG-45671"
+id: "TRM-ENG-60200"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "uses, 2"

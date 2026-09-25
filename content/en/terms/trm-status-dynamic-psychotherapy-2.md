@@ -1,6 +1,6 @@
 ---
 slug: "trm-status-dynamic-psychotherapy-2"
-id: "TRM-ENG-51060"
+id: "TRM-ENG-65589"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Status dynamic psychotherapy, 2"

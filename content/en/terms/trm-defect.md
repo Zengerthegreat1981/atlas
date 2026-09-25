@@ -1,6 +1,6 @@
 ---
 slug: "trm-defect"
-id: "TRM-ENG-52124"
+id: "TRM-ENG-66653"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Defect"

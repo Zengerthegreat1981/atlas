@@ -1,6 +1,6 @@
 ---
 slug: "trm-tusjournal-of-experimental-psychology"
-id: "TRM-ENG-37248"
+id: "TRM-ENG-66306"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tus.Journal of Experimental Psychology"

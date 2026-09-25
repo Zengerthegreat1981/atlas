@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-distinctive-type-of-education-one-may-in-prin-life"
-id: "TRM-ENG-47520"
+id: "TRM-ENG-62049"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "a distinctive type of education: One may, in prin- life"

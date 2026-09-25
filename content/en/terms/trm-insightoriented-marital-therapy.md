@@ -1,6 +1,6 @@
 ---
 slug: "trm-insightoriented-marital-therapy"
-id: "TRM-ENG-49499"
+id: "TRM-ENG-64028"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "insight-oriented marital therapy"

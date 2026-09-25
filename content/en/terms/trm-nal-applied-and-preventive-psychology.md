@@ -1,6 +1,6 @@
 ---
 slug: "trm-nal-applied-and-preventive-psychology"
-id: "TRM-ENG-43742"
+id: "TRM-ENG-58271"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nal Applied and Preventive Psychology"

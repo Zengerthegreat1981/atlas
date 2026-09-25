@@ -1,6 +1,6 @@
 ---
 slug: "trm-any-normative-data-collection-project-are-simple"
-id: "TRM-ENG-35664"
+id: "TRM-ENG-64722"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "any normative data collection project are simple"

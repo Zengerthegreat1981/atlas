@@ -1,6 +1,6 @@
 ---
 slug: "trm-internet-accessibility-and-1"
-id: "TRM-ENG-38254"
+id: "TRM-ENG-52783"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Internet accessibility and, 1"

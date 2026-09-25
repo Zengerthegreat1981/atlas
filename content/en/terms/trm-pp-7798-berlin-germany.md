@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp-7798-berlin-germany"
-id: "TRM-ENG-35170"
+id: "TRM-ENG-64228"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp. 77–98). Berlin, Germany"

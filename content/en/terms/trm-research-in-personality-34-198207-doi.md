@@ -1,6 +1,6 @@
 ---
 slug: "trm-research-in-personality-34-198207-doi"
-id: "TRM-ENG-43547"
+id: "TRM-ENG-58076"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Research in Personality, 34, 198–207. doi"

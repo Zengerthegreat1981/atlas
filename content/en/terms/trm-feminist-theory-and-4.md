@@ -1,6 +1,6 @@
 ---
 slug: "trm-feminist-theory-and-4"
-id: "TRM-ENG-40201"
+id: "TRM-ENG-54730"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "feminist theory and, 4"

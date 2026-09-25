@@ -1,6 +1,6 @@
 ---
 slug: "trm-operant-conditioning-principles-and-1"
-id: "TRM-ENG-41046"
+id: "TRM-ENG-55575"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "operant conditioning principles and, 1"

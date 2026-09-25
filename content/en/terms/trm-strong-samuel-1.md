@@ -1,6 +1,6 @@
 ---
 slug: "trm-strong-samuel-1"
-id: "TRM-ENG-51071"
+id: "TRM-ENG-65600"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Strong, Samuel, 1"

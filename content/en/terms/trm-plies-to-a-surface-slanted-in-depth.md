@@ -1,6 +1,6 @@
 ---
 slug: "trm-plies-to-a-surface-slanted-in-depth"
-id: "TRM-ENG-36869"
+id: "TRM-ENG-65927"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "plies to a surface slanted in depth"

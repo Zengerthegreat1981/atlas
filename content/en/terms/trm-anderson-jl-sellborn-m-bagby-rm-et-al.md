@@ -1,6 +1,6 @@
 ---
 slug: "trm-anderson-jl-sellborn-m-bagby-rm-et-al"
-id: "TRM-ENG-47467"
+id: "TRM-ENG-61996"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Anderson JL, Sellborn M, Bagby RM, et al"

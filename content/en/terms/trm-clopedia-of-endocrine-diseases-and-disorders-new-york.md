@@ -1,6 +1,6 @@
 ---
 slug: "trm-clopedia-of-endocrine-diseases-and-disorders-new-york"
-id: "TRM-ENG-46062"
+id: "TRM-ENG-60591"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "clopedia of Endocrine Diseases and Disorders (New York"

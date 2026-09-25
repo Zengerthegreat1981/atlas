@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-address-feelings-of-powerlessness"
-id: "TRM-ENG-39164"
+id: "TRM-ENG-53693"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and address feelings of powerlessness"

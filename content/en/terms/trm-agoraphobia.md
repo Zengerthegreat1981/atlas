@@ -1,6 +1,6 @@
 ---
 slug: "trm-agoraphobia"
-id: "TRM-ENG-48882"
+id: "TRM-ENG-63411"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Agoraphobia"

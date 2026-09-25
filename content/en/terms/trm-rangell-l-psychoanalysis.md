@@ -1,6 +1,6 @@
 ---
 slug: "trm-rangell-l-psychoanalysis"
-id: "TRM-ENG-44590"
+id: "TRM-ENG-59119"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rangell, L., “Psychoanalysis"

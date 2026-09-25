@@ -1,6 +1,6 @@
 ---
 slug: "trm-calstressandpredictionoffuturebloodpressure"
-id: "TRM-ENG-46876"
+id: "TRM-ENG-61405"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "calstressandpredictionoffuturebloodpressure"

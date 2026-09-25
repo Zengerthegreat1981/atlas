@@ -1,6 +1,6 @@
 ---
 slug: "trm-bandura-a-1965-vicarious-processes"
-id: "TRM-ENG-52480"
+id: "TRM-ENG-67009"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bandura, A. (1965). Vicarious processes"

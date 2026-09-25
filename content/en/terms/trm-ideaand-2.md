@@ -1,6 +1,6 @@
 ---
 slug: "trm-ideaand-2"
-id: "TRM-ENG-38210"
+id: "TRM-ENG-52739"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "IDEAand, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-attribution-dilemma"
-id: "TRM-ENG-46847"
+id: "TRM-ENG-61376"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "attribution dilemma"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-egodystonic"
-id: "TRM-ENG-52155"
+id: "TRM-ENG-66684"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ego-dystonic"

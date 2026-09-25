@@ -1,6 +1,6 @@
 ---
 slug: "trm-dialogues-with-others-this-conclusion-is-far-from-dialogues"
-id: "TRM-ENG-47884"
+id: "TRM-ENG-62413"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dialogues with others, this conclusion is far from dialogues"

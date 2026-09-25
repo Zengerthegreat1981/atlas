@@ -1,6 +1,6 @@
 ---
 slug: "trm-singer-j-l-1966-daydreaming"
-id: "TRM-ENG-34791"
+id: "TRM-ENG-63849"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Singer. J. L. (1966). Daydreaming"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-confronts-the-controversial-inkblot-testsan-francisco"
-id: "TRM-ENG-39650"
+id: "TRM-ENG-54179"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "confronts the controversial inkblot test.San Francisco"

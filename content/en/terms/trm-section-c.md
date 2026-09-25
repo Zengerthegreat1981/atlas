@@ -1,6 +1,6 @@
 ---
 slug: "trm-section-c"
-id: "TRM-ENG-38741"
+id: "TRM-ENG-53270"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Section C"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-stock-d-thelen-h"
-id: "TRM-ENG-42477"
+id: "TRM-ENG-57006"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stock D, Thelen H"

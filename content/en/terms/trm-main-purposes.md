@@ -1,6 +1,6 @@
 ---
 slug: "trm-main-purposes"
-id: "TRM-ENG-48306"
+id: "TRM-ENG-62835"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "main purposes"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-effects-of-race-on-counseling"
-id: "TRM-ENG-40017"
+id: "TRM-ENG-54546"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "effects of race on counseling"

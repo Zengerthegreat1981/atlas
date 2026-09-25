@@ -1,6 +1,6 @@
 ---
 slug: "trm-raush-hl-bordin-es"
-id: "TRM-ENG-42070"
+id: "TRM-ENG-56599"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Raush HL, Bordin ES"

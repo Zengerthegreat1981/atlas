@@ -1,6 +1,6 @@
 ---
 slug: "trm-worchel-p-byrne-d"
-id: "TRM-ENG-42872"
+id: "TRM-ENG-57401"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Worchel P, Byrne D"

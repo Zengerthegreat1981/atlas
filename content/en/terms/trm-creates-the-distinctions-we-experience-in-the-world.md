@@ -1,6 +1,6 @@
 ---
 slug: "trm-creates-the-distinctions-we-experience-in-the-world"
-id: "TRM-ENG-47834"
+id: "TRM-ENG-62363"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "creates the distinctions we experience in the world"

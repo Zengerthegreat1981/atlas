@@ -1,6 +1,6 @@
 ---
 slug: "trm-unto-itself"
-id: "TRM-ENG-48999"
+id: "TRM-ENG-63528"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "unto itself"

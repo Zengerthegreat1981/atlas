@@ -1,6 +1,6 @@
 ---
 slug: "trm-americanization-and-3"
-id: "TRM-ENG-37593"
+id: "TRM-ENG-66651"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Americanization and, 3"

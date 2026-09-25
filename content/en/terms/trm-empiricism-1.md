@@ -1,6 +1,6 @@
 ---
 slug: "trm-empiricism-1"
-id: "TRM-ENG-47959"
+id: "TRM-ENG-62488"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "empiricism, 1"

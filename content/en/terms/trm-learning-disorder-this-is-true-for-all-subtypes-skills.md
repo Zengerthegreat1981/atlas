@@ -1,6 +1,6 @@
 ---
 slug: "trm-learning-disorder-this-is-true-for-all-subtypes-skills"
-id: "TRM-ENG-40697"
+id: "TRM-ENG-55226"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "learning disorder. This is true for all subtypes. skills"

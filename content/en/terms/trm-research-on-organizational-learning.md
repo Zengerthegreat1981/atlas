@@ -1,6 +1,6 @@
 ---
 slug: "trm-research-on-organizational-learning"
-id: "TRM-ENG-48660"
+id: "TRM-ENG-63189"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "research on organizational learning"

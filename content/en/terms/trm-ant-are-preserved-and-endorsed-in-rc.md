@@ -1,6 +1,6 @@
 ---
 slug: "trm-ant-are-preserved-and-endorsed-in-rc"
-id: "TRM-ENG-47632"
+id: "TRM-ENG-62161"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ant, are preserved and endorsed in RC"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-1-supportive-therapy"
-id: "TRM-ENG-38547"
+id: "TRM-ENG-53076"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1. Supportive therapy"

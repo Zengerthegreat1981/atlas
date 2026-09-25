@@ -1,6 +1,6 @@
 ---
 slug: "trm-3rd-ed-pp683699-new-york"
-id: "TRM-ENG-35484"
+id: "TRM-ENG-64542"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(3rd ed., pp.683–699). New York"

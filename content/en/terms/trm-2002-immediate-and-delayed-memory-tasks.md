@@ -1,6 +1,6 @@
 ---
 slug: "trm-2002-immediate-and-delayed-memory-tasks"
-id: "TRM-ENG-42232"
+id: "TRM-ENG-56761"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2002). Immediate and delayed memory tasks"

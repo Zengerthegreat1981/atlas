@@ -1,6 +1,6 @@
 ---
 slug: "trm-cacioppo-j-t-1994-social-neuroscience"
-id: "TRM-ENG-46457"
+id: "TRM-ENG-60986"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cacioppo, J. T. (1994). Social neuroscience"

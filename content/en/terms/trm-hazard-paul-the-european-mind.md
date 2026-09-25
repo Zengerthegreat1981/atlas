@@ -1,6 +1,6 @@
 ---
 slug: "trm-hazard-paul-the-european-mind"
-id: "TRM-ENG-44434"
+id: "TRM-ENG-58963"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hazard, Paul. The European Mind"

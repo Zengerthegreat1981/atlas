@@ -1,6 +1,6 @@
 ---
 slug: "trm-ceeding-through-three-major-stages"
-id: "TRM-ENG-36245"
+id: "TRM-ENG-50774"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ceeding through three major stages"

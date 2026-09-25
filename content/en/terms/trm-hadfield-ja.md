@@ -1,6 +1,6 @@
 ---
 slug: "trm-hadfield-ja"
-id: "TRM-ENG-40875"
+id: "TRM-ENG-55404"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hadfield JA"

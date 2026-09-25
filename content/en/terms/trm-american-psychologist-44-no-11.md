@@ -1,6 +1,6 @@
 ---
 slug: "trm-american-psychologist-44-no-11"
-id: "TRM-ENG-45747"
+id: "TRM-ENG-60276"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "American Psychologist 44, no. 11"

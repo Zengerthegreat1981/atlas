@@ -1,6 +1,6 @@
 ---
 slug: "trm-hollandjl1997makingvocationalchoices"
-id: "TRM-ENG-36909"
+id: "TRM-ENG-51438"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Holland,J.L.(1997).Makingvocationalchoices"

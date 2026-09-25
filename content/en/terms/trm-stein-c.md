@@ -1,6 +1,6 @@
 ---
 slug: "trm-stein-c"
-id: "TRM-ENG-42450"
+id: "TRM-ENG-56979"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stein C"

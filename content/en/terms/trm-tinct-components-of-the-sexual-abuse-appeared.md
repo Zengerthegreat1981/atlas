@@ -1,6 +1,6 @@
 ---
 slug: "trm-tinct-components-of-the-sexual-abuse-appeared"
-id: "TRM-ENG-37178"
+id: "TRM-ENG-66236"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tinct components of the sexual abuse appeared"

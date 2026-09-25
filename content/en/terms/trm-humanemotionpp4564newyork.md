@@ -1,6 +1,6 @@
 ---
 slug: "trm-humanemotionpp4564newyork"
-id: "TRM-ENG-47027"
+id: "TRM-ENG-61556"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "humanemotion(pp.45±64).NewYork"

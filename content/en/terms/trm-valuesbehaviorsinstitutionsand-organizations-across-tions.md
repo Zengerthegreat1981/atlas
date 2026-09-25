@@ -1,6 +1,6 @@
 ---
 slug: "trm-valuesbehaviorsinstitutionsand-organizations-across-tions"
-id: "TRM-ENG-42109"
+id: "TRM-ENG-56638"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "values,behaviors,institutions,and organizations across tions"

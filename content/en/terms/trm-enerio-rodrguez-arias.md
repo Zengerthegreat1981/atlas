@@ -1,6 +1,6 @@
 ---
 slug: "trm-enerio-rodrguez-arias"
-id: "TRM-ENG-36775"
+id: "TRM-ENG-65833"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Enerio Rodr´ıguez Arias"

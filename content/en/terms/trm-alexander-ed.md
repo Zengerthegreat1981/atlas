@@ -1,6 +1,6 @@
 ---
 slug: "trm-alexander-ed"
-id: "TRM-ENG-39658"
+id: "TRM-ENG-54187"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Alexander ED"

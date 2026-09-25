@@ -1,6 +1,6 @@
 ---
 slug: "trm-dimaggio-g-nicolo-a-fiore-d-et-al"
-id: "TRM-ENG-47615"
+id: "TRM-ENG-62144"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dimaggio G, Nicolo A, Fiore D, et al"

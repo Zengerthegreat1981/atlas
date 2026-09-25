@@ -1,6 +1,6 @@
 ---
 slug: "trm-depressive-illness-i-general-review"
-id: "TRM-ENG-43010"
+id: "TRM-ENG-57539"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "depressive illness). I. General review"

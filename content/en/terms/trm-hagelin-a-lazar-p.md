@@ -1,6 +1,6 @@
 ---
 slug: "trm-hagelin-a-lazar-p"
-id: "TRM-ENG-40876"
+id: "TRM-ENG-55405"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hagelin A, Lazar P"

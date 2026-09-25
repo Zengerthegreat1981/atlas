@@ -1,6 +1,6 @@
 ---
 slug: "trm-projective-identification-and-insight-and-for-the-level-4"
-id: "TRM-ENG-51734"
+id: "TRM-ENG-66263"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "projective identification, and insight. And for the Level 4"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-multimethod-measures-of-3"
-id: "TRM-ENG-40909"
+id: "TRM-ENG-55438"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "multimethod measures of, 3"

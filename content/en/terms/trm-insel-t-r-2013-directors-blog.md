@@ -1,6 +1,6 @@
 ---
 slug: "trm-insel-t-r-2013-directors-blog"
-id: "TRM-ENG-42420"
+id: "TRM-ENG-56949"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Insel, T. R. (2013). Director’s blog"

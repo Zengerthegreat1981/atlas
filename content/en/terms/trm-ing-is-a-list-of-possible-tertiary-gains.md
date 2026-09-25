@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-is-a-list-of-possible-tertiary-gains"
-id: "TRM-ENG-36574"
+id: "TRM-ENG-65632"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing is a list of possible tertiary gains"

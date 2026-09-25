@@ -1,6 +1,6 @@
 ---
 slug: "trm-drained"
-id: "TRM-ENG-44092"
+id: "TRM-ENG-58621"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "drained"

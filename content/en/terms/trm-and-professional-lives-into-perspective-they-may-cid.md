@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-professional-lives-into-perspective-they-may-cid"
-id: "TRM-ENG-46021"
+id: "TRM-ENG-60550"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and professional lives into perspective. They may (cid"

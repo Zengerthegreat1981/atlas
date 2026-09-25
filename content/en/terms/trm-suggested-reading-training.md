@@ -1,6 +1,6 @@
 ---
 slug: "trm-suggested-reading-training"
-id: "TRM-ENG-35938"
+id: "TRM-ENG-64996"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "SUGGESTED READING training"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-rescorla-r-a-1988-pavlovian-conditioning"
-id: "TRM-ENG-49146"
+id: "TRM-ENG-63675"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rescorla, R. A. (1988). Pavlovian conditioning"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-sors-and-cortisol-responses"
-id: "TRM-ENG-36129"
+id: "TRM-ENG-50658"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sors and cortisol responses"

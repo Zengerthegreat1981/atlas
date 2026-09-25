@@ -1,6 +1,6 @@
 ---
 slug: "trm-references-chology"
-id: "TRM-ENG-37216"
+id: "TRM-ENG-66274"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "References chology"

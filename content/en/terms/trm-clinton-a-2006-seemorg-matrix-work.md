@@ -1,6 +1,6 @@
 ---
 slug: "trm-clinton-a-2006-seemorg-matrix-work"
-id: "TRM-ENG-50248"
+id: "TRM-ENG-64777"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Clinton, A. (2006). Seemorg matrix work"

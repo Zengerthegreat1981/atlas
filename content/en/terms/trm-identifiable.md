@@ -1,6 +1,6 @@
 ---
 slug: "trm-identifiable"
-id: "TRM-ENG-45089"
+id: "TRM-ENG-59618"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "identifiable"

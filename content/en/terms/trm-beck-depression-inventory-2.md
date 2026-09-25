@@ -1,6 +1,6 @@
 ---
 slug: "trm-beck-depression-inventory-2"
-id: "TRM-ENG-37675"
+id: "TRM-ENG-66733"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Beck Depression Inventory, 2"

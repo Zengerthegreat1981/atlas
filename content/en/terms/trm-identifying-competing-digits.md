@@ -1,6 +1,6 @@
 ---
 slug: "trm-identifying-competing-digits"
-id: "TRM-ENG-36537"
+id: "TRM-ENG-65595"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "identifying competing digits"

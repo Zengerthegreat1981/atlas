@@ -1,6 +1,6 @@
 ---
 slug: "trm-as-formal-education"
-id: "TRM-ENG-47662"
+id: "TRM-ENG-62191"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "as formal education"

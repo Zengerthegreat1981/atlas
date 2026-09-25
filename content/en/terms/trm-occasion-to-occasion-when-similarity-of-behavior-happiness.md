@@ -1,6 +1,6 @@
 ---
 slug: "trm-occasion-to-occasion-when-similarity-of-behavior-happiness"
-id: "TRM-ENG-40979"
+id: "TRM-ENG-55508"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "occasion to occasion. When similarity of behavior Happiness"

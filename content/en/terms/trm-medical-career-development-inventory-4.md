@@ -1,6 +1,6 @@
 ---
 slug: "trm-medical-career-development-inventory-4"
-id: "TRM-ENG-38416"
+id: "TRM-ENG-52945"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Medical Career Development Inventory, 4"

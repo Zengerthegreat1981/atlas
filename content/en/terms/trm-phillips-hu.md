@@ -1,6 +1,6 @@
 ---
 slug: "trm-phillips-hu"
-id: "TRM-ENG-41970"
+id: "TRM-ENG-56499"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Phillips HU"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ernistoptions"
-id: "TRM-ENG-45891"
+id: "TRM-ENG-60420"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ernistoptions"

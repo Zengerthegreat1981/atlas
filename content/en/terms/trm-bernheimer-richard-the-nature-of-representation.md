@@ -1,6 +1,6 @@
 ---
 slug: "trm-bernheimer-richard-the-nature-of-representation"
-id: "TRM-ENG-44286"
+id: "TRM-ENG-58815"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bernheimer, Richard. The Nature of Representation"

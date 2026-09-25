@@ -1,6 +1,6 @@
 ---
 slug: "trm-patients-adps-into-three-subgroups"
-id: "TRM-ENG-43118"
+id: "TRM-ENG-57647"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "patients (ADPs) into three subgroups"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-titchenereb1899aaprimerofpsychology2ndednewyork"
-id: "TRM-ENG-37377"
+id: "TRM-ENG-51906"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Titchener,E.B.(1899a).Aprimerofpsychology(2nded.).NewYork"

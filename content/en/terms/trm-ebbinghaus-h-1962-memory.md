@@ -1,6 +1,6 @@
 ---
 slug: "trm-ebbinghaus-h-1962-memory"
-id: "TRM-ENG-36757"
+id: "TRM-ENG-65815"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ebbinghaus, H. (1962). Memory"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-childrearing-suicide-and-sexuality-so-both-the-tech-at-stake-and"
-id: "TRM-ENG-34931"
+id: "TRM-ENG-63989"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "childrearing, suicide, and sexuality) so both the tech- at stake, and"

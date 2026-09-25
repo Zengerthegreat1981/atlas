@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-saloi-or-sacred-fools"
-id: "TRM-ENG-45367"
+id: "TRM-ENG-59896"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the saloi or “sacred fools”"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-technology-of-diabetes-care"
-id: "TRM-ENG-47323"
+id: "TRM-ENG-61852"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "technology of diabetes care"

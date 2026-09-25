@@ -1,6 +1,6 @@
 ---
 slug: "trm-lambert-mj"
-id: "TRM-ENG-41352"
+id: "TRM-ENG-55881"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lambert MJ"

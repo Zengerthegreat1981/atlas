@@ -1,6 +1,6 @@
 ---
 slug: "trm-modeling-causal-learning-2"
-id: "TRM-ENG-44630"
+id: "TRM-ENG-59159"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Modeling causal learning , 2"

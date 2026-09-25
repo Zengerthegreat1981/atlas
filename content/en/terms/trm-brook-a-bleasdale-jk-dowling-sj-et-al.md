@@ -1,6 +1,6 @@
 ---
 slug: "trm-brook-a-bleasdale-jk-dowling-sj-et-al"
-id: "TRM-ENG-40045"
+id: "TRM-ENG-54574"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brook A, Bleasdale JK, Dowling SJ, et al"

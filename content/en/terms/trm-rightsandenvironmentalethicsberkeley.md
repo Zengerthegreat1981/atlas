@@ -1,6 +1,6 @@
 ---
 slug: "trm-rightsandenvironmentalethicsberkeley"
-id: "TRM-ENG-45780"
+id: "TRM-ENG-60309"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "RightsandEnvironmentalEthics.Berkeley"

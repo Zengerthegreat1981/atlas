@@ -1,6 +1,6 @@
 ---
 slug: "trm-aldrich-ck"
-id: "TRM-ENG-39656"
+id: "TRM-ENG-54185"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Aldrich CK"

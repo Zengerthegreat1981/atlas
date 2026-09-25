@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychology-retrieved-august-31-2006-from-http"
-id: "TRM-ENG-41350"
+id: "TRM-ENG-55879"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychology. Retrieved August 31, 2006, from http"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-logotherapy-and-2"
-id: "TRM-ENG-51578"
+id: "TRM-ENG-66107"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "logotherapy and, 2"

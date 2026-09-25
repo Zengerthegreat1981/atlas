@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-flavor-of-much-crosscultural-research"
-id: "TRM-ENG-37113"
+id: "TRM-ENG-66171"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the flavor of much cross-cultural research"

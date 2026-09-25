@@ -1,6 +1,6 @@
 ---
 slug: "trm-liebman-r-minuchin-s-baker-l"
-id: "TRM-ENG-41462"
+id: "TRM-ENG-55991"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Liebman R, Minuchin S, Baker L"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-john-holland-and-4"
-id: "TRM-ENG-38295"
+id: "TRM-ENG-52824"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "John Holland and, 4"

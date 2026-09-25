@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychopathy"
-id: "TRM-ENG-43162"
+id: "TRM-ENG-57691"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychopathy"

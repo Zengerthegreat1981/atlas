@@ -1,6 +1,6 @@
 ---
 slug: "trm-through-and-healing-new-york"
-id: "TRM-ENG-46242"
+id: "TRM-ENG-60771"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "through and Healing. New York"

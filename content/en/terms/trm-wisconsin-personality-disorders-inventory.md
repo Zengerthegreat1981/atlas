@@ -1,6 +1,6 @@
 ---
 slug: "trm-wisconsin-personality-disorders-inventory"
-id: "TRM-ENG-43579"
+id: "TRM-ENG-58108"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wisconsin Personality Disorders Inventory"

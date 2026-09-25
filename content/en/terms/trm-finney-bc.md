@@ -1,6 +1,6 @@
 ---
 slug: "trm-finney-bc"
-id: "TRM-ENG-40533"
+id: "TRM-ENG-55062"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Finney BC"

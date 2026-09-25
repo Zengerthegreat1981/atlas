@@ -1,6 +1,6 @@
 ---
 slug: "trm-coping-with-disfigurement-chap-23-oxford"
-id: "TRM-ENG-46480"
+id: "TRM-ENG-61009"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Coping with disfigurement (Chap. 23). Oxford"

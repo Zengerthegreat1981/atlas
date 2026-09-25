@@ -1,6 +1,6 @@
 ---
 slug: "trm-may-be-influenced-by-the-immune-system"
-id: "TRM-ENG-40787"
+id: "TRM-ENG-55316"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "may be influenced by the immune system"

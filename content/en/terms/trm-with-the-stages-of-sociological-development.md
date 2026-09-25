@@ -1,6 +1,6 @@
 ---
 slug: "trm-with-the-stages-of-sociological-development"
-id: "TRM-ENG-49053"
+id: "TRM-ENG-63582"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "with the stages of sociological development"

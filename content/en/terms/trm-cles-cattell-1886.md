@@ -1,6 +1,6 @@
 ---
 slug: "trm-cles-cattell-1886"
-id: "TRM-ENG-37630"
+id: "TRM-ENG-52159"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cles (Cattell 1886)"

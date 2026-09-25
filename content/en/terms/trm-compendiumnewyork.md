@@ -1,6 +1,6 @@
 ---
 slug: "trm-compendiumnewyork"
-id: "TRM-ENG-46906"
+id: "TRM-ENG-61435"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "compendium.NewYork"

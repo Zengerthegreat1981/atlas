@@ -1,6 +1,6 @@
 ---
 slug: "trm-richards-charles-r-2"
-id: "TRM-ENG-47195"
+id: "TRM-ENG-61724"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Richards, Charles R., 2"

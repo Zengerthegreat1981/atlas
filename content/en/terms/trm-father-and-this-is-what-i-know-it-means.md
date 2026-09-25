@@ -1,6 +1,6 @@
 ---
 slug: "trm-father-and-this-is-what-i-know-it-means"
-id: "TRM-ENG-43037"
+id: "TRM-ENG-57566"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "father.” And this is what I know it means"

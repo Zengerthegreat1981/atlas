@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychology-vol-1"
-id: "TRM-ENG-38147"
+id: "TRM-ENG-52676"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychology (vol. 1)"

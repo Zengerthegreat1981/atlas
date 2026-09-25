@@ -1,6 +1,6 @@
 ---
 slug: "trm-labelling"
-id: "TRM-ENG-52257"
+id: "TRM-ENG-66786"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Labelling"

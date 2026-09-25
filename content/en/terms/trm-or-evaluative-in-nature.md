@@ -1,6 +1,6 @@
 ---
 slug: "trm-or-evaluative-in-nature"
-id: "TRM-ENG-41062"
+id: "TRM-ENG-55591"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "or evaluative in nature"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-673-wyss-d"
-id: "TRM-ENG-39303"
+id: "TRM-ENG-53832"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "673. Wyss D"

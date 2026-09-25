@@ -1,6 +1,6 @@
 ---
 slug: "trm-cocaine"
-id: "TRM-ENG-52104"
+id: "TRM-ENG-66633"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cocaine"

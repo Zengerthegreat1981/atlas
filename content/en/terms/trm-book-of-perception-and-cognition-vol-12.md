@@ -1,6 +1,6 @@
 ---
 slug: "trm-book-of-perception-and-cognition-vol-12"
-id: "TRM-ENG-34909"
+id: "TRM-ENG-63967"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "book of perception and cognition. Vol. 12"

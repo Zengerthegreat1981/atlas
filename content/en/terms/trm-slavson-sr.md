@@ -1,6 +1,6 @@
 ---
 slug: "trm-slavson-sr"
-id: "TRM-ENG-42371"
+id: "TRM-ENG-56900"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Slavson SR"

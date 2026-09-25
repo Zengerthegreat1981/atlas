@@ -1,6 +1,6 @@
 ---
 slug: "trm-37-bowers-js-meichenbaum-d"
-id: "TRM-ENG-38938"
+id: "TRM-ENG-53467"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "37. Bowers JS, Meichenbaum D"

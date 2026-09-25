@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-family-of-the-schizophrenic"
-id: "TRM-ENG-44846"
+id: "TRM-ENG-59375"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____., “The Family of the Schizophrenic"

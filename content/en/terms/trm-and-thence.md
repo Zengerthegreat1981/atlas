@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-thence"
-id: "TRM-ENG-44906"
+id: "TRM-ENG-59435"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and thence"

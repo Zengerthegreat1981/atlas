@@ -1,6 +1,6 @@
 ---
 slug: "trm-wender-p-ii-dementia-praecox"
-id: "TRM-ENG-44690"
+id: "TRM-ENG-59219"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wender, P. II., “Dementia Praecox"

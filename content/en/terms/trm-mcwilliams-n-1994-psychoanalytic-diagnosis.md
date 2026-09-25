@@ -1,6 +1,6 @@
 ---
 slug: "trm-mcwilliams-n-1994-psychoanalytic-diagnosis"
-id: "TRM-ENG-38412"
+id: "TRM-ENG-52941"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "McWilliams, N. (1994). Psychoanalytic diagnosis"

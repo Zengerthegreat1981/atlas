@@ -1,6 +1,6 @@
 ---
 slug: "trm-773-rubin-rj"
-id: "TRM-ENG-39424"
+id: "TRM-ENG-53953"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "773. Rubin RJ"

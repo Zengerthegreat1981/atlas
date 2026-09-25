@@ -1,6 +1,6 @@
 ---
 slug: "trm-raanon25166newyork"
-id: "TRM-ENG-45771"
+id: "TRM-ENG-60300"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Raanon,251–66.NewYork"

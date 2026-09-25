@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-curriculum-time-are-at-bottom-arguments-about-conceptions"
-id: "TRM-ENG-48427"
+id: "TRM-ENG-62956"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of curriculum time are, at bottom, arguments about conceptions"

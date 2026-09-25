@@ -1,6 +1,6 @@
 ---
 slug: "trm-berkowitz-s"
-id: "TRM-ENG-39902"
+id: "TRM-ENG-54431"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Berkowitz S"

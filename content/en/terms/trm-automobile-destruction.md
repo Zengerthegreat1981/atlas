@@ -1,6 +1,6 @@
 ---
 slug: "trm-automobile-destruction"
-id: "TRM-ENG-39296"
+id: "TRM-ENG-53825"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "automobile destruction"

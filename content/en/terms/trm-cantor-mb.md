@@ -1,6 +1,6 @@
 ---
 slug: "trm-cantor-mb"
-id: "TRM-ENG-40119"
+id: "TRM-ENG-54648"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cantor MB"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-differences-science-for-treatment-planning"
-id: "TRM-ENG-42766"
+id: "TRM-ENG-57295"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "differences science for treatment planning"

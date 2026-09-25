@@ -1,6 +1,6 @@
 ---
 slug: "trm-sandler-j-sandler-am"
-id: "TRM-ENG-42234"
+id: "TRM-ENG-56763"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sandler J, Sandler AM"

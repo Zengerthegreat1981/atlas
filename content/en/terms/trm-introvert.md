@@ -1,6 +1,6 @@
 ---
 slug: "trm-introvert"
-id: "TRM-ENG-52247"
+id: "TRM-ENG-66776"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Introvert"

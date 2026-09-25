@@ -1,6 +1,6 @@
 ---
 slug: "trm-by-awareness"
-id: "TRM-ENG-44035"
+id: "TRM-ENG-58564"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "by awareness"

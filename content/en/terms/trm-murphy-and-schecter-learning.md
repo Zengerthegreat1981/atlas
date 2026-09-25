@@ -1,6 +1,6 @@
 ---
 slug: "trm-murphy-and-schecter-learning"
-id: "TRM-ENG-44544"
+id: "TRM-ENG-59073"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Murphy, and Schecter. Learning"

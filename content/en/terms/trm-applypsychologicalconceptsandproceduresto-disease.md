@@ -1,6 +1,6 @@
 ---
 slug: "trm-applypsychologicalconceptsandproceduresto-disease"
-id: "TRM-ENG-46834"
+id: "TRM-ENG-61363"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "applypsychologicalconceptsandproceduresto disease"

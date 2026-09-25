@@ -1,6 +1,6 @@
 ---
 slug: "trm-say"
-id: "TRM-ENG-43172"
+id: "TRM-ENG-57701"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "say"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-oral"
-id: "TRM-ENG-52314"
+id: "TRM-ENG-66843"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Oral"

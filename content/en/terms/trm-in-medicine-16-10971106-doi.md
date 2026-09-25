@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-medicine-16-10971106-doi"
-id: "TRM-ENG-35857"
+id: "TRM-ENG-64915"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in Medicine, 16, 1097–1106. doi"

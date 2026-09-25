@@ -1,6 +1,6 @@
 ---
 slug: "trm-tolstoy-leo-1"
-id: "TRM-ENG-47400"
+id: "TRM-ENG-61929"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tolstoy, Leo, 1"

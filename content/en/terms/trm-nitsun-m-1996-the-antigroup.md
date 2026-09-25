@@ -1,6 +1,6 @@
 ---
 slug: "trm-nitsun-m-1996-the-antigroup"
-id: "TRM-ENG-50801"
+id: "TRM-ENG-65330"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nitsun, M. (1996). The anti-group"

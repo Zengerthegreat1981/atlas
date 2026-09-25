@@ -1,6 +1,6 @@
 ---
 slug: "trm-clearly-stated"
-id: "TRM-ENG-44938"
+id: "TRM-ENG-59467"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "clearly stated"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ters-or-modalities"
-id: "TRM-ENG-37092"
+id: "TRM-ENG-66150"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ters or modalities"

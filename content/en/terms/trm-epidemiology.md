@@ -1,6 +1,6 @@
 ---
 slug: "trm-epidemiology"
-id: "TRM-ENG-36403"
+id: "TRM-ENG-65461"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "epidemiology"

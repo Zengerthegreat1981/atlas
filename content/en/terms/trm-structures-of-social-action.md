@@ -1,6 +1,6 @@
 ---
 slug: "trm-structures-of-social-action"
-id: "TRM-ENG-35575"
+id: "TRM-ENG-64633"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Structures of social action"

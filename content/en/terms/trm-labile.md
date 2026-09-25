@@ -1,6 +1,6 @@
 ---
 slug: "trm-labile"
-id: "TRM-ENG-52258"
+id: "TRM-ENG-66787"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Labile"

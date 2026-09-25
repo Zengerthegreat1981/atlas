@@ -1,6 +1,6 @@
 ---
 slug: "trm-brownell-kd-colletti-g-ernsnerhershfield-r-et-al"
-id: "TRM-ENG-40053"
+id: "TRM-ENG-54582"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brownell KD, Colletti G, Ernsner-Hershfield R, et al"

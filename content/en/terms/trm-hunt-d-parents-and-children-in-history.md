@@ -1,6 +1,6 @@
 ---
 slug: "trm-hunt-d-parents-and-children-in-history"
-id: "TRM-ENG-44445"
+id: "TRM-ENG-58974"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hunt, D., Parents and Children in History"

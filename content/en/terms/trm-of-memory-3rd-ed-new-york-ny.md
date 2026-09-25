@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-memory-3rd-ed-new-york-ny"
-id: "TRM-ENG-45350"
+id: "TRM-ENG-59879"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of memory (3rd ed.). New York, NY"

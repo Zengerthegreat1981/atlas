@@ -1,6 +1,6 @@
 ---
 slug: "trm-asian-american-psychological-association-and-2"
-id: "TRM-ENG-37621"
+id: "TRM-ENG-66679"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Asian American Psychological Association and, 2"

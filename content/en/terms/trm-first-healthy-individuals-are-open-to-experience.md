@@ -1,6 +1,6 @@
 ---
 slug: "trm-first-healthy-individuals-are-open-to-experience"
-id: "TRM-ENG-48029"
+id: "TRM-ENG-62558"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "first, healthy individuals are open to experience"

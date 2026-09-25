@@ -1,6 +1,6 @@
 ---
 slug: "trm-affective-communication-content-and-3"
-id: "TRM-ENG-39125"
+id: "TRM-ENG-53654"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "affective communication content and, 3"

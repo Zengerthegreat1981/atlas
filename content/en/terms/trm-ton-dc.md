@@ -1,6 +1,6 @@
 ---
 slug: "trm-ton-dc"
-id: "TRM-ENG-35425"
+id: "TRM-ENG-49954"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ton, DC"

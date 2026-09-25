@@ -1,6 +1,6 @@
 ---
 slug: "trm-whitehead-and-the-rhythm-of-life-i-nterchange"
-id: "TRM-ENG-47482"
+id: "TRM-ENG-62011"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Whitehead and the rhythm of life. I nterchange"

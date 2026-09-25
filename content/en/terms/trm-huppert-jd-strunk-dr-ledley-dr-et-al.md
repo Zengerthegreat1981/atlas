@@ -1,6 +1,6 @@
 ---
 slug: "trm-huppert-jd-strunk-dr-ledley-dr-et-al"
-id: "TRM-ENG-47740"
+id: "TRM-ENG-62269"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Huppert JD, Strunk DR, Ledley DR, et al"

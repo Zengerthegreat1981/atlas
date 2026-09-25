@@ -1,6 +1,6 @@
 ---
 slug: "trm-child-psychopathology"
-id: "TRM-ENG-44068"
+id: "TRM-ENG-58597"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "child psychopathology"

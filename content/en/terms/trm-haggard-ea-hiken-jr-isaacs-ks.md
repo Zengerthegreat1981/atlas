@@ -1,6 +1,6 @@
 ---
 slug: "trm-haggard-ea-hiken-jr-isaacs-ks"
-id: "TRM-ENG-40877"
+id: "TRM-ENG-55406"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Haggard EA, Hiken JR, Isaacs KS"

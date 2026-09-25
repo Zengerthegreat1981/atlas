@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-a-peters-k-rockland-eds-cerebral-cortex"
-id: "TRM-ENG-35762"
+id: "TRM-ENG-50291"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "In A. Peters & K. Rockland (Eds.), Cerebral cortex"

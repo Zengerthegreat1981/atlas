@@ -1,6 +1,6 @@
 ---
 slug: "trm-disembodied-emotion"
-id: "TRM-ENG-36367"
+id: "TRM-ENG-65425"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disembodied emotion"

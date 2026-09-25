@@ -1,6 +1,6 @@
 ---
 slug: "trm-der-eur-neuropsychopharmacol-4"
-id: "TRM-ENG-48295"
+id: "TRM-ENG-62824"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "der. Eur Neuropsychopharmacol 4"

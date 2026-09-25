@@ -1,6 +1,6 @@
 ---
 slug: "trm-short-selfreport-form-has-four-scales"
-id: "TRM-ENG-41658"
+id: "TRM-ENG-56187"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "short self-report form has four scales"

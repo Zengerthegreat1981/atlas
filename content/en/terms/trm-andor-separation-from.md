@@ -1,6 +1,6 @@
 ---
 slug: "trm-andor-separation-from"
-id: "TRM-ENG-48200"
+id: "TRM-ENG-62729"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and/or separation from"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-variant-of-depressive-disease"
-id: "TRM-ENG-47371"
+id: "TRM-ENG-61900"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "variant of depressive disease"

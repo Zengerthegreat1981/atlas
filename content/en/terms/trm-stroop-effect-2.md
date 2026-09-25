@@ -1,6 +1,6 @@
 ---
 slug: "trm-stroop-effect-2"
-id: "TRM-ENG-44798"
+id: "TRM-ENG-59327"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stroop effect , 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-sociologistswhostudysocialinstitutions"
-id: "TRM-ENG-38260"
+id: "TRM-ENG-52789"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sociologistswhostudysocialinstitutions"

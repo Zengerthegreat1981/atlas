@@ -1,6 +1,6 @@
 ---
 slug: "trm-benjamin-jd"
-id: "TRM-ENG-39875"
+id: "TRM-ENG-54404"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Benjamin JD"

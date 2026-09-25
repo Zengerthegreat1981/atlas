@@ -1,6 +1,6 @@
 ---
 slug: "trm-diagnostic-and-statistical-manual"
-id: "TRM-ENG-39925"
+id: "TRM-ENG-54454"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "diagnostic and statistical manual"

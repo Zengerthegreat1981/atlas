@@ -1,6 +1,6 @@
 ---
 slug: "trm-outcome-power-vssocial-power-and-3"
-id: "TRM-ENG-41088"
+id: "TRM-ENG-55617"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "outcome power vs.social power and, 3"

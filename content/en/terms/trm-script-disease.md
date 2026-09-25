@@ -1,6 +1,6 @@
 ---
 slug: "trm-script-disease"
-id: "TRM-ENG-47275"
+id: "TRM-ENG-61804"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "script. disease"

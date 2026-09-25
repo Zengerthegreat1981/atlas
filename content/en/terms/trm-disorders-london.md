@@ -1,6 +1,6 @@
 ---
 slug: "trm-disorders-london"
-id: "TRM-ENG-42781"
+id: "TRM-ENG-57310"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disorders. London"

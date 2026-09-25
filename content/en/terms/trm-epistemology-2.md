@@ -1,6 +1,6 @@
 ---
 slug: "trm-epistemology-2"
-id: "TRM-ENG-47974"
+id: "TRM-ENG-62503"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "epistemology, 2"

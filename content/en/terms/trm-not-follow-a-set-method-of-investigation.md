@@ -1,6 +1,6 @@
 ---
 slug: "trm-not-follow-a-set-method-of-investigation"
-id: "TRM-ENG-48410"
+id: "TRM-ENG-62939"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "not follow a set method of investigation"

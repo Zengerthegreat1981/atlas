@@ -1,6 +1,6 @@
 ---
 slug: "trm-edsgestalt-therapy-now"
-id: "TRM-ENG-44181"
+id: "TRM-ENG-58710"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Eds.),Gestalt Therapy Now"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-watson-g"
-id: "TRM-ENG-42723"
+id: "TRM-ENG-57252"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Watson G"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-causalgia"
-id: "TRM-ENG-52098"
+id: "TRM-ENG-66627"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Causalgia"

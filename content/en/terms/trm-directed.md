@@ -1,6 +1,6 @@
 ---
 slug: "trm-directed"
-id: "TRM-ENG-45070"
+id: "TRM-ENG-59599"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "directed"

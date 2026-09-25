@@ -1,6 +1,6 @@
 ---
 slug: "trm-epilepsy-1"
-id: "TRM-ENG-44462"
+id: "TRM-ENG-58991"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Epilepsy, 1"

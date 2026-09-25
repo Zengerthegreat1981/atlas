@@ -1,6 +1,6 @@
 ---
 slug: "trm-spinalcordinjuryboston"
-id: "TRM-ENG-47301"
+id: "TRM-ENG-61830"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "spinalcordinjury.Boston"

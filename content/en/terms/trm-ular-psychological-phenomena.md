@@ -1,6 +1,6 @@
 ---
 slug: "trm-ular-psychological-phenomena"
-id: "TRM-ENG-38405"
+id: "TRM-ENG-52934"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ular psychological phenomena"

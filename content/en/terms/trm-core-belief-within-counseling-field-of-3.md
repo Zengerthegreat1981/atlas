@@ -1,6 +1,6 @@
 ---
 slug: "trm-core-belief-within-counseling-field-of-3"
-id: "TRM-ENG-39714"
+id: "TRM-ENG-54243"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "core belief within counseling field of, 3"

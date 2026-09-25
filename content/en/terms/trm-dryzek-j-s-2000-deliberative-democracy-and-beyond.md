@@ -1,6 +1,6 @@
 ---
 slug: "trm-dryzek-j-s-2000-deliberative-democracy-and-beyond"
-id: "TRM-ENG-46516"
+id: "TRM-ENG-61045"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dryzek, J. S. (2000). Deliberative democracy and beyond"

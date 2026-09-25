@@ -1,6 +1,6 @@
 ---
 slug: "trm-growth-hormone-gh"
-id: "TRM-ENG-35719"
+id: "TRM-ENG-50248"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Growth hormone (GH"

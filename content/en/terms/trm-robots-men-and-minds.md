@@ -1,6 +1,6 @@
 ---
 slug: "trm-robots-men-and-minds"
-id: "TRM-ENG-44735"
+id: "TRM-ENG-59264"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, Robots, Men and Minds"

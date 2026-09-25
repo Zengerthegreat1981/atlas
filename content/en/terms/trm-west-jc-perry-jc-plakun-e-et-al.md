@@ -1,6 +1,6 @@
 ---
 slug: "trm-west-jc-perry-jc-plakun-e-et-al"
-id: "TRM-ENG-48146"
+id: "TRM-ENG-62675"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "West JC, Perry JC, Plakun E, et al"

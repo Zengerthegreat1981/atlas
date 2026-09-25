@@ -1,6 +1,6 @@
 ---
 slug: "trm-gunderson-jg-singer-mt"
-id: "TRM-ENG-40855"
+id: "TRM-ENG-55384"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gunderson JG, Singer MT"

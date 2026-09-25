@@ -1,6 +1,6 @@
 ---
 slug: "trm-leaders-of-3"
-id: "TRM-ENG-40692"
+id: "TRM-ENG-55221"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "leaders of, 3"

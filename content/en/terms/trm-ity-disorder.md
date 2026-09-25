@@ -1,6 +1,6 @@
 ---
 slug: "trm-ity-disorder"
-id: "TRM-ENG-42952"
+id: "TRM-ENG-57481"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ity disorder"

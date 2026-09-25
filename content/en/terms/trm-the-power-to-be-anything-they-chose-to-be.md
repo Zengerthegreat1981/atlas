@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-power-to-be-anything-they-chose-to-be"
-id: "TRM-ENG-41896"
+id: "TRM-ENG-56425"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the power to be anything they chose to be"

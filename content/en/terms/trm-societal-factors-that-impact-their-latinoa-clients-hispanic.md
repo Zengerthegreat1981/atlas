@@ -1,6 +1,6 @@
 ---
 slug: "trm-societal-factors-that-impact-their-latinoa-clients-hispanic"
-id: "TRM-ENG-41718"
+id: "TRM-ENG-56247"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "societal factors that impact their Latino/a clients. Hispanic"

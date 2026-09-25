@@ -1,6 +1,6 @@
 ---
 slug: "trm-phy"
-id: "TRM-ENG-36859"
+id: "TRM-ENG-51388"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "phy"

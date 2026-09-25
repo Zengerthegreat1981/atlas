@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognitivebehavioral-therapy-ii"
-id: "TRM-ENG-47566"
+id: "TRM-ENG-62095"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cognitive-Behavioral Therapy II"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-dialectic-systemic-ced-style-and-2"
-id: "TRM-ENG-39926"
+id: "TRM-ENG-54455"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dialectic systemic CED style and, 2"

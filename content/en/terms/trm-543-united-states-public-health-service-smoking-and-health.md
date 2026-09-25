@@ -1,6 +1,6 @@
 ---
 slug: "trm-543-united-states-public-health-service-smoking-and-health"
-id: "TRM-ENG-39154"
+id: "TRM-ENG-53683"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "543. United States Public Health Service. Smoking and Health"

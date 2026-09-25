@@ -1,6 +1,6 @@
 ---
 slug: "trm-hume-david-2"
-id: "TRM-ENG-38201"
+id: "TRM-ENG-52730"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hume, David, 2"

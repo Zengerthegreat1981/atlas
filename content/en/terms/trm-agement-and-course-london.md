@@ -1,6 +1,6 @@
 ---
 slug: "trm-agement-and-course-london"
-id: "TRM-ENG-42591"
+id: "TRM-ENG-57120"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "agement and course. London"

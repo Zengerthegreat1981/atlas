@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychotechnology"
-id: "TRM-ENG-38170"
+id: "TRM-ENG-52699"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychotechnology"

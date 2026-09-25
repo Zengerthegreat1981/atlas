@@ -1,6 +1,6 @@
 ---
 slug: "trm-feminism-itself-and-this-too-was-felt-across-gender-said"
-id: "TRM-ENG-48024"
+id: "TRM-ENG-62553"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "feminism itself, and this too was felt across gender said"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-521-speech-foundation-of-america"
-id: "TRM-ENG-39129"
+id: "TRM-ENG-53658"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "521. Speech Foundation of America"

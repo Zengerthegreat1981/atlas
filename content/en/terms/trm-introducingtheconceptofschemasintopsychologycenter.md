@@ -1,6 +1,6 @@
 ---
 slug: "trm-introducingtheconceptofschemasintopsychologycenter"
-id: "TRM-ENG-37881"
+id: "TRM-ENG-52410"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "introducingtheconceptof“schemas”intopsychology.Center"

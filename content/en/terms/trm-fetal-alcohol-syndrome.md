@@ -1,6 +1,6 @@
 ---
 slug: "trm-fetal-alcohol-syndrome"
-id: "TRM-ENG-35670"
+id: "TRM-ENG-64728"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "FETAL ALCOHOL SYNDROME"

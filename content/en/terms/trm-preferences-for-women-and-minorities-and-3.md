@@ -1,6 +1,6 @@
 ---
 slug: "trm-preferences-for-women-and-minorities-and-3"
-id: "TRM-ENG-41257"
+id: "TRM-ENG-55786"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "preferences for women and minorities and, 3"

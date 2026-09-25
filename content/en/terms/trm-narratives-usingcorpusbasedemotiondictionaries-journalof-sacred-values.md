@@ -1,6 +1,6 @@
 ---
 slug: "trm-narratives-usingcorpusbasedemotiondictionaries-journalof-sacred-values"
-id: "TRM-ENG-37989"
+id: "TRM-ENG-52518"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "narratives usingcorpus-basedemotiondictionaries. Journalof sacred values"

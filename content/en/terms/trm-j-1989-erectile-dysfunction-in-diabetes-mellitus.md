@@ -1,6 +1,6 @@
 ---
 slug: "trm-j-1989-erectile-dysfunction-in-diabetes-mellitus"
-id: "TRM-ENG-46571"
+id: "TRM-ENG-61100"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "J. (1989). Erectile dysfunction in diabetes mellitus"

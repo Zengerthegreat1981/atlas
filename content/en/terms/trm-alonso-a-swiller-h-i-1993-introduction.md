@@ -1,6 +1,6 @@
 ---
 slug: "trm-alonso-a-swiller-h-i-1993-introduction"
-id: "TRM-ENG-50096"
+id: "TRM-ENG-64625"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Alonso, A., & Swiller, H. I. (1993). Introduction"

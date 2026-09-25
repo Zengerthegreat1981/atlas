@@ -1,6 +1,6 @@
 ---
 slug: "trm-gayle-r-neale-c"
-id: "TRM-ENG-40672"
+id: "TRM-ENG-55201"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gayle R, Neale C"

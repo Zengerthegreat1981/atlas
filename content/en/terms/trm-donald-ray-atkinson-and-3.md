@@ -1,6 +1,6 @@
 ---
 slug: "trm-donald-ray-atkinson-and-3"
-id: "TRM-ENG-37977"
+id: "TRM-ENG-67035"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Donald Ray Atkinson and, 3"

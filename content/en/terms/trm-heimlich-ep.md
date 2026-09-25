@@ -1,6 +1,6 @@
 ---
 slug: "trm-heimlich-ep"
-id: "TRM-ENG-40965"
+id: "TRM-ENG-55494"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Heimlich EP"

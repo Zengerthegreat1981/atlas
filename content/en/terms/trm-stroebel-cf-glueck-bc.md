@@ -1,6 +1,6 @@
 ---
 slug: "trm-stroebel-cf-glueck-bc"
-id: "TRM-ENG-42502"
+id: "TRM-ENG-57031"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stroebel CF, Glueck BC"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-myers-j-young-j-s-2012-brain-wave-biofeedback"
-id: "TRM-ENG-50776"
+id: "TRM-ENG-65305"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Myers, J., & Young, J. S. (2012). Brain wave biofeedback"

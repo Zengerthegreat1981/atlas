@@ -1,6 +1,6 @@
 ---
 slug: "trm-rosenberg-pp-fuller-m"
-id: "TRM-ENG-42171"
+id: "TRM-ENG-56700"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rosenberg PP, Fuller M"

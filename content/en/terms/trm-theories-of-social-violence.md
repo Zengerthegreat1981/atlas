@@ -1,6 +1,6 @@
 ---
 slug: "trm-theories-of-social-violence"
-id: "TRM-ENG-37360"
+id: "TRM-ENG-51889"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Theories of Social Violence"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-tate-gyrus-molecular-layer-iml-b"
-id: "TRM-ENG-37069"
+id: "TRM-ENG-66127"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tate gyrus molecular layer (iml). B"

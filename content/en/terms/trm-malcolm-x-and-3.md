@@ -1,6 +1,6 @@
 ---
 slug: "trm-malcolm-x-and-3"
-id: "TRM-ENG-38395"
+id: "TRM-ENG-52924"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Malcolm X and, 3"

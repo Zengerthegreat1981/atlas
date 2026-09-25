@@ -1,6 +1,6 @@
 ---
 slug: "trm-sion-new-york"
-id: "TRM-ENG-35320"
+id: "TRM-ENG-64378"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sion. New York"

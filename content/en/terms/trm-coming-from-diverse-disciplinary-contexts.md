@@ -1,6 +1,6 @@
 ---
 slug: "trm-coming-from-diverse-disciplinary-contexts"
-id: "TRM-ENG-47789"
+id: "TRM-ENG-62318"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "coming from diverse disciplinary contexts"

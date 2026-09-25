@@ -1,6 +1,6 @@
 ---
 slug: "trm-proposition-11-the-form-power-content-and-direction-digm"
-id: "TRM-ENG-34769"
+id: "TRM-ENG-63827"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Proposition 11. The form, power, content, and direction digm”"

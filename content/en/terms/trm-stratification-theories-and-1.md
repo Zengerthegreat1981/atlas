@@ -1,6 +1,6 @@
 ---
 slug: "trm-stratification-theories-and-1"
-id: "TRM-ENG-41786"
+id: "TRM-ENG-56315"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stratification theories and, 1"

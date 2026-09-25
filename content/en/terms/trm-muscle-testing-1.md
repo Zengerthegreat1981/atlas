@@ -1,6 +1,6 @@
 ---
 slug: "trm-muscle-testing-1"
-id: "TRM-ENG-50772"
+id: "TRM-ENG-65301"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Muscle testing, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-bleuler-e"
-id: "TRM-ENG-39963"
+id: "TRM-ENG-54492"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bleuler E"

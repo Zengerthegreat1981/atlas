@@ -1,6 +1,6 @@
 ---
 slug: "trm-asneitherisintherigidgripofanormativetheory"
-id: "TRM-ENG-45847"
+id: "TRM-ENG-60376"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "asneitherisintherigidgripofanormativetheory"

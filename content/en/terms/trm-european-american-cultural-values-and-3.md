@@ -1,6 +1,6 @@
 ---
 slug: "trm-european-american-cultural-values-and-3"
-id: "TRM-ENG-38049"
+id: "TRM-ENG-52578"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "European American cultural values and, 3"

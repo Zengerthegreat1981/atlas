@@ -1,6 +1,6 @@
 ---
 slug: "trm-korpell-hs"
-id: "TRM-ENG-41290"
+id: "TRM-ENG-55819"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Korpell HS"

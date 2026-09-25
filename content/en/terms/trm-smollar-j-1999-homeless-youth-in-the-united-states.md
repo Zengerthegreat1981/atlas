@@ -1,6 +1,6 @@
 ---
 slug: "trm-smollar-j-1999-homeless-youth-in-the-united-states"
-id: "TRM-ENG-38787"
+id: "TRM-ENG-53316"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Smollar, J. (1999). Homeless youth in the United States"

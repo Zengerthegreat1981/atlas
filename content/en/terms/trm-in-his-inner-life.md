@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-his-inner-life"
-id: "TRM-ENG-45100"
+id: "TRM-ENG-59629"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in his inner life"

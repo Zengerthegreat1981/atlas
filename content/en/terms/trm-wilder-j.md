@@ -1,6 +1,6 @@
 ---
 slug: "trm-wilder-j"
-id: "TRM-ENG-42794"
+id: "TRM-ENG-57323"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wilder J"

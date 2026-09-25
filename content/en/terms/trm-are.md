@@ -1,6 +1,6 @@
 ---
 slug: "trm-are"
-id: "TRM-ENG-44898"
+id: "TRM-ENG-59427"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "are"

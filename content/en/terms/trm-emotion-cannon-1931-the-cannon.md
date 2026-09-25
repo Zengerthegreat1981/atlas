@@ -1,6 +1,6 @@
 ---
 slug: "trm-emotion-cannon-1931-the-cannon"
-id: "TRM-ENG-52564"
+id: "TRM-ENG-67093"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "emotion (Cannon, 1931). The Cannon"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-sions-in-study-process"
-id: "TRM-ENG-37000"
+id: "TRM-ENG-51529"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sions in study process"

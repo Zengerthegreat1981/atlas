@@ -1,6 +1,6 @@
 ---
 slug: "trm-conceptualized-in-various-ways"
-id: "TRM-ENG-46909"
+id: "TRM-ENG-61438"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "conceptualized in various ways"

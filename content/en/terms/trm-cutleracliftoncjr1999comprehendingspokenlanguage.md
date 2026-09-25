@@ -1,6 +1,6 @@
 ---
 slug: "trm-cutleracliftoncjr1999comprehendingspokenlanguage"
-id: "TRM-ENG-36715"
+id: "TRM-ENG-51244"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cutler,A.,&Clifton,C.,Jr.(1999).Comprehendingspokenlanguage"

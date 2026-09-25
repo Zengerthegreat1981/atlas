@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-melancholia-during-carbamazepine-treatment-in-tors"
-id: "TRM-ENG-43059"
+id: "TRM-ENG-57588"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of melancholia during carbamazepine treatment in tors"

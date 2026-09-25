@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapy-for-combat-and-terrorrelated-ptsd"
-id: "TRM-ENG-51905"
+id: "TRM-ENG-66434"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapy for combat- and terror-related PTSD"

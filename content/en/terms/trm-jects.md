@@ -1,6 +1,6 @@
 ---
 slug: "trm-jects"
-id: "TRM-ENG-44078"
+id: "TRM-ENG-58607"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "jects,"

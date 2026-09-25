@@ -1,6 +1,6 @@
 ---
 slug: "trm-problematic"
-id: "TRM-ENG-45254"
+id: "TRM-ENG-59783"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "problematic"

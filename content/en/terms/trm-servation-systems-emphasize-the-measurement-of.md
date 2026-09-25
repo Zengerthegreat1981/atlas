@@ -1,6 +1,6 @@
 ---
 slug: "trm-servation-systems-emphasize-the-measurement-of"
-id: "TRM-ENG-35306"
+id: "TRM-ENG-49835"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "servation systems emphasize the measurement of"

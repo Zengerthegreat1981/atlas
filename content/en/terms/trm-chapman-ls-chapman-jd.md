@@ -1,6 +1,6 @@
 ---
 slug: "trm-chapman-ls-chapman-jd"
-id: "TRM-ENG-40163"
+id: "TRM-ENG-54692"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Chapman LS, Chapman JD"

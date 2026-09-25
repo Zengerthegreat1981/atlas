@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-dissemination-of-information"
-id: "TRM-ENG-34871"
+id: "TRM-ENG-63929"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and dissemination of information"

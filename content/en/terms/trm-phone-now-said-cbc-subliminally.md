@@ -1,6 +1,6 @@
 ---
 slug: "trm-phone-now-said-cbc-subliminally"
-id: "TRM-ENG-37341"
+id: "TRM-ENG-66399"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“Phone now,” said CBC subliminally"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-neuroses-comparefusion"
-id: "TRM-ENG-43753"
+id: "TRM-ENG-58282"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "neuroses. Comparefusion."

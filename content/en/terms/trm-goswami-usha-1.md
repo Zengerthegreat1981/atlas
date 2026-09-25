@@ -1,6 +1,6 @@
 ---
 slug: "trm-goswami-usha-1"
-id: "TRM-ENG-44512"
+id: "TRM-ENG-59041"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goswami, Usha, 1"

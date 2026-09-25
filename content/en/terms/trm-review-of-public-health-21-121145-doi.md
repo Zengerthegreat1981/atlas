@@ -1,6 +1,6 @@
 ---
 slug: "trm-review-of-public-health-21-121145-doi"
-id: "TRM-ENG-35534"
+id: "TRM-ENG-50063"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Review of Public Health, 21, 121–145. doi"

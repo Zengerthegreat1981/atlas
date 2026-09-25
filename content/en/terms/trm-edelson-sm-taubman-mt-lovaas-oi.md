@@ -1,6 +1,6 @@
 ---
 slug: "trm-edelson-sm-taubman-mt-lovaas-oi"
-id: "TRM-ENG-40408"
+id: "TRM-ENG-54937"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Edelson SM, Taubman MT, Lovaas OI"

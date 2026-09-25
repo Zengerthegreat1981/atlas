@@ -1,6 +1,6 @@
 ---
 slug: "trm-greene-and-2"
-id: "TRM-ENG-46715"
+id: "TRM-ENG-61244"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Greene and, 2"

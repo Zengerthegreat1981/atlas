@@ -1,6 +1,6 @@
 ---
 slug: "trm-scales"
-id: "TRM-ENG-36100"
+id: "TRM-ENG-65158"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "scales"

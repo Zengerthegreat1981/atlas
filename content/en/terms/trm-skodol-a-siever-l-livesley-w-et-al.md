@@ -1,6 +1,6 @@
 ---
 slug: "trm-skodol-a-siever-l-livesley-w-et-al"
-id: "TRM-ENG-48077"
+id: "TRM-ENG-62606"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Skodol A, Siever L, Livesley W, et al"

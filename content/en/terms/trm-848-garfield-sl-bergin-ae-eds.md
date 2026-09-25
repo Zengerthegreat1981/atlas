@@ -1,6 +1,6 @@
 ---
 slug: "trm-848-garfield-sl-bergin-ae-eds"
-id: "TRM-ENG-39509"
+id: "TRM-ENG-54038"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "848. Garfield SL, Bergin AE (eds)"

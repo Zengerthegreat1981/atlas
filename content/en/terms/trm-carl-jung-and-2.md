@@ -1,6 +1,6 @@
 ---
 slug: "trm-carl-jung-and-2"
-id: "TRM-ENG-37793"
+id: "TRM-ENG-52322"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Carl Jung and, 2"

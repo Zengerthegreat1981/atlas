@@ -1,6 +1,6 @@
 ---
 slug: "trm-family-and-marital-psychotherapies"
-id: "TRM-ENG-49432"
+id: "TRM-ENG-63961"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "family and marital psychotherapies"

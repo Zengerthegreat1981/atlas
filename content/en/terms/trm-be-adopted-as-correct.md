@@ -1,6 +1,6 @@
 ---
 slug: "trm-be-adopted-as-correct"
-id: "TRM-ENG-45542"
+id: "TRM-ENG-60071"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "be adopted as correct."

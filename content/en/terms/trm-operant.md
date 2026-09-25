@@ -1,6 +1,6 @@
 ---
 slug: "trm-operant"
-id: "TRM-ENG-52312"
+id: "TRM-ENG-66841"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Operant"

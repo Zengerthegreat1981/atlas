@@ -1,6 +1,6 @@
 ---
 slug: "trm-mathematics-of-marriage"
-id: "TRM-ENG-35441"
+id: "TRM-ENG-64499"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mathematics of Marriage"

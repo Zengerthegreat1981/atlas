@@ -1,6 +1,6 @@
 ---
 slug: "trm-stolorow-rd-atwood-ge"
-id: "TRM-ENG-42480"
+id: "TRM-ENG-57009"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stolorow RD, Atwood GE"

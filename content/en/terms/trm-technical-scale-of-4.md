@@ -1,6 +1,6 @@
 ---
 slug: "trm-technical-scale-of-4"
-id: "TRM-ENG-38869"
+id: "TRM-ENG-53398"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Technical scale of, 4"

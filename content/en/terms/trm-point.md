@@ -1,6 +1,6 @@
 ---
 slug: "trm-point"
-id: "TRM-ENG-36875"
+id: "TRM-ENG-51404"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "point"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-recording-neither-analytic-impression-is-more-true-material"
-id: "TRM-ENG-36064"
+id: "TRM-ENG-50593"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "recording. Neither analytic impression is more true. material"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-shapiro"
-id: "TRM-ENG-51023"
+id: "TRM-ENG-65552"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shapiro"

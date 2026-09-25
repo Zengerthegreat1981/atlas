@@ -1,6 +1,6 @@
 ---
 slug: "trm-sheppard-h-l-discontented-bluecollar-workers"
-id: "TRM-ENG-44631"
+id: "TRM-ENG-59160"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sheppard, H. L., “Discontented Blue-Collar Workers"

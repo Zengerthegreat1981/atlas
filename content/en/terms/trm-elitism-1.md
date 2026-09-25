@@ -1,6 +1,6 @@
 ---
 slug: "trm-elitism-1"
-id: "TRM-ENG-46560"
+id: "TRM-ENG-61089"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Elitism, 1"

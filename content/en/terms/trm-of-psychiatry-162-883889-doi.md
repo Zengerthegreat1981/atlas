@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-psychiatry-162-883889-doi"
-id: "TRM-ENG-43768"
+id: "TRM-ENG-58297"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of Psychiatry, 162, 883–889. doi"

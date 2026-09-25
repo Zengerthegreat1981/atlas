@@ -1,6 +1,6 @@
 ---
 slug: "trm-than-merely-as-transmitters-of-knowledge"
-id: "TRM-ENG-48813"
+id: "TRM-ENG-63342"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "than merely as transmitters of knowledge"

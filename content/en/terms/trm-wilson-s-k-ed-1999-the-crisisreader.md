@@ -1,6 +1,6 @@
 ---
 slug: "trm-wilson-s-k-ed-1999-the-crisisreader"
-id: "TRM-ENG-39046"
+id: "TRM-ENG-53575"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wilson, S. K. (Ed.). (1999). The Crisisreader"

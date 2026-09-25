@@ -1,6 +1,6 @@
 ---
 slug: "trm-duncan-m"
-id: "TRM-ENG-40386"
+id: "TRM-ENG-54915"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Duncan M"

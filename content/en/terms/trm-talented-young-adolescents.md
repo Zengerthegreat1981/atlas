@@ -1,6 +1,6 @@
 ---
 slug: "trm-talented-young-adolescents"
-id: "TRM-ENG-41844"
+id: "TRM-ENG-56373"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "talented young adolescents"

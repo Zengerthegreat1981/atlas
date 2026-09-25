@@ -1,6 +1,6 @@
 ---
 slug: "trm-ment-of-psychopathy"
-id: "TRM-ENG-48446"
+id: "TRM-ENG-62975"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ment of psychopathy"

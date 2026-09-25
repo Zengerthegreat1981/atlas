@@ -1,6 +1,6 @@
 ---
 slug: "trm-individual-influences-on-2"
-id: "TRM-ENG-40517"
+id: "TRM-ENG-55046"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "individual influences on, 2"

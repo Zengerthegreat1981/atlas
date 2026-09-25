@@ -1,6 +1,6 @@
 ---
 slug: "trm-childhood-of-3"
-id: "TRM-ENG-39486"
+id: "TRM-ENG-54015"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "childhood of, 3"

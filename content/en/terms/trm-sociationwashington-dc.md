@@ -1,6 +1,6 @@
 ---
 slug: "trm-sociationwashington-dc"
-id: "TRM-ENG-37013"
+id: "TRM-ENG-51542"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sociation.Washington, DC"

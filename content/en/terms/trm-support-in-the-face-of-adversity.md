@@ -1,6 +1,6 @@
 ---
 slug: "trm-support-in-the-face-of-adversity"
-id: "TRM-ENG-47314"
+id: "TRM-ENG-61843"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "support in the face of adversity"

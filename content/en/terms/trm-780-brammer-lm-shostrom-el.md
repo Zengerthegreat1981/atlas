@@ -1,6 +1,6 @@
 ---
 slug: "trm-780-brammer-lm-shostrom-el"
-id: "TRM-ENG-39432"
+id: "TRM-ENG-53961"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "780. Brammer LM, Shostrom EL"

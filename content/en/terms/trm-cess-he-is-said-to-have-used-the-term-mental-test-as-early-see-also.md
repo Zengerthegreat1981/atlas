@@ -1,6 +1,6 @@
 ---
 slug: "trm-cess-he-is-said-to-have-used-the-term-mental-test-as-early-see-also"
-id: "TRM-ENG-36256"
+id: "TRM-ENG-50785"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cess. He is said to have used the term “mental test” as early See also"

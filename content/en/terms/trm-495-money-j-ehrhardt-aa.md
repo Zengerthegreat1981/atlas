@@ -1,6 +1,6 @@
 ---
 slug: "trm-495-money-j-ehrhardt-aa"
-id: "TRM-ENG-39090"
+id: "TRM-ENG-53619"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "495. Money J, Ehrhardt AA"

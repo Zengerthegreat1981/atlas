@@ -1,6 +1,6 @@
 ---
 slug: "trm-benedek-t-studies-in-psychosomatic-medicine"
-id: "TRM-ENG-44279"
+id: "TRM-ENG-58808"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Benedek, T., Studies in Psychosomatic Medicine"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-career-exploration-and-4"
-id: "TRM-ENG-39429"
+id: "TRM-ENG-53958"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "career exploration and, 4"

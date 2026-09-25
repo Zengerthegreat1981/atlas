@@ -1,6 +1,6 @@
 ---
 slug: "trm-diegoca"
-id: "TRM-ENG-46500"
+id: "TRM-ENG-61029"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Diego,CA"

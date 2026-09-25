@@ -1,6 +1,6 @@
 ---
 slug: "trm-affect-are-independent"
-id: "TRM-ENG-34851"
+id: "TRM-ENG-63909"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "affect are independent"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-anosognosia-1"
-id: "TRM-ENG-44913"
+id: "TRM-ENG-59442"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "anosognosia, 1"

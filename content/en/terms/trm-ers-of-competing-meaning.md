@@ -1,6 +1,6 @@
 ---
 slug: "trm-ers-of-competing-meaning"
-id: "TRM-ENG-47985"
+id: "TRM-ENG-62514"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ers of competing meaning"

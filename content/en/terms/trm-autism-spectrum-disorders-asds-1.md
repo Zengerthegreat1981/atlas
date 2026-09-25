@@ -1,6 +1,6 @@
 ---
 slug: "trm-autism-spectrum-disorders-asds-1"
-id: "TRM-ENG-44321"
+id: "TRM-ENG-58850"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Autism spectrum disorders (ASDs), 1"

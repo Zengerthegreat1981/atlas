@@ -1,6 +1,6 @@
 ---
 slug: "trm-thoughtrevednewyork"
-id: "TRM-ENG-45803"
+id: "TRM-ENG-60332"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Thought.Rev.ed.NewYork"

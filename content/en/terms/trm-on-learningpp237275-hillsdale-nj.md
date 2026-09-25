@@ -1,6 +1,6 @@
 ---
 slug: "trm-on-learningpp237275-hillsdale-nj"
-id: "TRM-ENG-36808"
+id: "TRM-ENG-65866"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "on learning(pp.237–275). Hillsdale, NJ"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-couch"
-id: "TRM-ENG-51875"
+id: "TRM-ENG-66404"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the couch"

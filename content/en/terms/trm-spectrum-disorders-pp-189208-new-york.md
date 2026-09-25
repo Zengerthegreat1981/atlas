@@ -1,6 +1,6 @@
 ---
 slug: "trm-spectrum-disorders-pp-189208-new-york"
-id: "TRM-ENG-43247"
+id: "TRM-ENG-57776"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "spectrum disorders (pp. 189–208). New York"

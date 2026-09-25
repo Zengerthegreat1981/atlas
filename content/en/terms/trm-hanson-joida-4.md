@@ -1,6 +1,6 @@
 ---
 slug: "trm-hanson-joida-4"
-id: "TRM-ENG-38150"
+id: "TRM-ENG-52679"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hanson, Jo-Ida, 4"

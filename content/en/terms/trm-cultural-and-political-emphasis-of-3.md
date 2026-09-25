@@ -1,6 +1,6 @@
 ---
 slug: "trm-cultural-and-political-emphasis-of-3"
-id: "TRM-ENG-39804"
+id: "TRM-ENG-54333"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cultural and political emphasis of, 3"

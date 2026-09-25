@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-cognitive-skills"
-id: "TRM-ENG-42888"
+id: "TRM-ENG-57417"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in cognitive skills"

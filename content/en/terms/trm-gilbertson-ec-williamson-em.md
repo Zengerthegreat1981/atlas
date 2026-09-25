@@ -1,6 +1,6 @@
 ---
 slug: "trm-gilbertson-ec-williamson-em"
-id: "TRM-ENG-40698"
+id: "TRM-ENG-55227"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gilbertson EC, Williamson EM"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-racial-microaggressions-and-3"
-id: "TRM-ENG-41411"
+id: "TRM-ENG-55940"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "racial microaggressions and, 3"

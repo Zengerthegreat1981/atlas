@@ -1,6 +1,6 @@
 ---
 slug: "trm-morehypotheses"
-id: "TRM-ENG-49551"
+id: "TRM-ENG-64080"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "morehypotheses"

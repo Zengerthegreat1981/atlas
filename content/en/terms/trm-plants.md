@@ -1,6 +1,6 @@
 ---
 slug: "trm-plants"
-id: "TRM-ENG-46197"
+id: "TRM-ENG-60726"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "plants"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-farrell-mp"
-id: "TRM-ENG-40498"
+id: "TRM-ENG-55027"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Farrell MP"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapy-binghamton-ny"
-id: "TRM-ENG-51911"
+id: "TRM-ENG-66440"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapy. Binghamton, NY"

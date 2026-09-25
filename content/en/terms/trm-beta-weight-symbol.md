@@ -1,6 +1,6 @@
 ---
 slug: "trm-beta-weight-symbol"
-id: "TRM-ENG-44029"
+id: "TRM-ENG-58558"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "beta weight (symbol"

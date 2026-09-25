@@ -1,6 +1,6 @@
 ---
 slug: "trm-north-am-12"
-id: "TRM-ENG-47907"
+id: "TRM-ENG-62436"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "North Am 12"

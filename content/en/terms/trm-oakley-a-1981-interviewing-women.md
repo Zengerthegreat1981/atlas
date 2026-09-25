@@ -1,6 +1,6 @@
 ---
 slug: "trm-oakley-a-1981-interviewing-women"
-id: "TRM-ENG-35467"
+id: "TRM-ENG-64525"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Oakley, A. (1981). Interviewing women"

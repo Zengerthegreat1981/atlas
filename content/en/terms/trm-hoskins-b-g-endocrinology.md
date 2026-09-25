@@ -1,6 +1,6 @@
 ---
 slug: "trm-hoskins-b-g-endocrinology"
-id: "TRM-ENG-44443"
+id: "TRM-ENG-58972"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hoskins, B. G., Endocrinology"

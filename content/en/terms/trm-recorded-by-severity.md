@@ -1,6 +1,6 @@
 ---
 slug: "trm-recorded-by-severity"
-id: "TRM-ENG-44183"
+id: "TRM-ENG-58712"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "recorded by severity"

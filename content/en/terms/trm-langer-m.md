@@ -1,6 +1,6 @@
 ---
 slug: "trm-langer-m"
-id: "TRM-ENG-41364"
+id: "TRM-ENG-55893"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Langer M"

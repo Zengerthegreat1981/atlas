@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychotherapy-example-of-2"
-id: "TRM-ENG-41362"
+id: "TRM-ENG-55891"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychotherapy example of, 2"

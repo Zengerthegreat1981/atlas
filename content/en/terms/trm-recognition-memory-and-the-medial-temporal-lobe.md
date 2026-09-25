@@ -1,6 +1,6 @@
 ---
 slug: "trm-recognition-memory-and-the-medial-temporal-lobe"
-id: "TRM-ENG-44732"
+id: "TRM-ENG-59261"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Recognition memory and the medial temporal lobe"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-adler-1"
-id: "TRM-ENG-46204"
+id: "TRM-ENG-60733"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Adler, 1"

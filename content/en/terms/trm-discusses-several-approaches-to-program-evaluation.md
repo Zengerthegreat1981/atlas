@@ -1,6 +1,6 @@
 ---
 slug: "trm-discusses-several-approaches-to-program-evaluation"
-id: "TRM-ENG-47892"
+id: "TRM-ENG-62421"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "discusses several approaches to program evaluation"

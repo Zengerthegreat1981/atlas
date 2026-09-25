@@ -1,6 +1,6 @@
 ---
 slug: "trm-research-in-psychoanalysis"
-id: "TRM-ENG-49148"
+id: "TRM-ENG-63677"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Research in psychoanalysis"

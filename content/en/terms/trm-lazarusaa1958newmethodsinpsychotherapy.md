@@ -1,6 +1,6 @@
 ---
 slug: "trm-lazarusaa1958newmethodsinpsychotherapy"
-id: "TRM-ENG-49060"
+id: "TRM-ENG-63589"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lazarus,A.A.(1958).Newmethodsinpsychotherapy"

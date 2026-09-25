@@ -1,6 +1,6 @@
 ---
 slug: "trm-h-erectus-survived"
-id: "TRM-ENG-34625"
+id: "TRM-ENG-63683"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "H. erectus survived"

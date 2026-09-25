@@ -1,6 +1,6 @@
 ---
 slug: "trm-cnpaaemi-2"
-id: "TRM-ENG-37380"
+id: "TRM-ENG-66438"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(CNPAAEMI), 2"

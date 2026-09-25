@@ -1,6 +1,6 @@
 ---
 slug: "trm-as-construct"
-id: "TRM-ENG-47660"
+id: "TRM-ENG-62189"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "as construct"

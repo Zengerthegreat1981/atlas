@@ -1,6 +1,6 @@
 ---
 slug: "trm-reducing-coronary-risk"
-id: "TRM-ENG-47248"
+id: "TRM-ENG-61777"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reducing coronary risk"

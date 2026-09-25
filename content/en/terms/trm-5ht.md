@@ -1,6 +1,6 @@
 ---
 slug: "trm-5ht"
-id: "TRM-ENG-34568"
+id: "TRM-ENG-49097"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "5-HT"

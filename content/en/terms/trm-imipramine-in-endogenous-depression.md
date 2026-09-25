@@ -1,6 +1,6 @@
 ---
 slug: "trm-imipramine-in-endogenous-depression"
-id: "TRM-ENG-49478"
+id: "TRM-ENG-64007"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "imipramine in endogenous depression"

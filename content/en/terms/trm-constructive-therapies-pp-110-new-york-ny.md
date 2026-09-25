@@ -1,6 +1,6 @@
 ---
 slug: "trm-constructive-therapies-pp-110-new-york-ny"
-id: "TRM-ENG-50279"
+id: "TRM-ENG-64808"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Constructive therapies (pp. 1–10). New York, NY"

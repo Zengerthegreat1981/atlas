@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-wages-paid-for-work-3"
-id: "TRM-ENG-40500"
+id: "TRM-ENG-55029"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in wages paid for work, 3"

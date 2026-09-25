@@ -1,6 +1,6 @@
 ---
 slug: "trm-levelsaboveandbelowitright"
-id: "TRM-ENG-37923"
+id: "TRM-ENG-66981"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "levelsaboveandbelowit.Right"

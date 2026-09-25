@@ -1,6 +1,6 @@
 ---
 slug: "trm-rennie-tac"
-id: "TRM-ENG-42095"
+id: "TRM-ENG-56624"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rennie TAC"

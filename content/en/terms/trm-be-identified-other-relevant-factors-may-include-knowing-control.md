@@ -1,6 +1,6 @@
 ---
 slug: "trm-be-identified-other-relevant-factors-may-include-knowing-control"
-id: "TRM-ENG-36189"
+id: "TRM-ENG-65247"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "be identified. Other relevant factors may include knowing control"

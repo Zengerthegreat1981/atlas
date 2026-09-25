@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-a-crosscultural-twin-sample"
-id: "TRM-ENG-43703"
+id: "TRM-ENG-58232"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in a cross-cultural twin sample"

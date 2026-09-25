@@ -1,6 +1,6 @@
 ---
 slug: "trm-bhabhah1994thelocationofculturenewyork"
-id: "TRM-ENG-36613"
+id: "TRM-ENG-65671"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bhabha,H.(1994).Thelocationofculture.NewYork"

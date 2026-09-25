@@ -1,6 +1,6 @@
 ---
 slug: "trm-mahler-ms-furer-m-settlage-cf"
-id: "TRM-ENG-41555"
+id: "TRM-ENG-56084"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mahler MS, Furer M, Settlage CF"

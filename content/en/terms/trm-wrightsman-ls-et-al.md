@@ -1,6 +1,6 @@
 ---
 slug: "trm-wrightsman-ls-et-al"
-id: "TRM-ENG-42880"
+id: "TRM-ENG-57409"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wrightsman LS et al"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-deutsch-d"
-id: "TRM-ENG-40341"
+id: "TRM-ENG-54870"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Deutsch D"

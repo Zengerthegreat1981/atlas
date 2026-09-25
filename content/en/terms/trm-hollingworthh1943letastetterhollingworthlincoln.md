@@ -1,6 +1,6 @@
 ---
 slug: "trm-hollingworthh1943letastetterhollingworthlincoln"
-id: "TRM-ENG-36912"
+id: "TRM-ENG-65970"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hollingworth,H.(1943).LetaStetterHollingworth.Lincoln"

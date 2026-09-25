@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-avoidance"
-id: "TRM-ENG-44107"
+id: "TRM-ENG-58636"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of avoidance"

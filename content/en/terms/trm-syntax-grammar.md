@@ -1,6 +1,6 @@
 ---
 slug: "trm-syntax-grammar"
-id: "TRM-ENG-34695"
+id: "TRM-ENG-63753"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Syntax Grammar"

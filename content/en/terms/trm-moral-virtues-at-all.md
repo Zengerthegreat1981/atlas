@@ -1,6 +1,6 @@
 ---
 slug: "trm-moral-virtues-at-all"
-id: "TRM-ENG-45959"
+id: "TRM-ENG-60488"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "moral virtues at all"

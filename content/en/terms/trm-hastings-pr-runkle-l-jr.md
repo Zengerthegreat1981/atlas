@@ -1,6 +1,6 @@
 ---
 slug: "trm-hastings-pr-runkle-l-jr"
-id: "TRM-ENG-40938"
+id: "TRM-ENG-55467"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hastings PR, Runkle L, Jr"

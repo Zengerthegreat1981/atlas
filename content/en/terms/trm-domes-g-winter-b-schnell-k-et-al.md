@@ -1,6 +1,6 @@
 ---
 slug: "trm-domes-g-winter-b-schnell-k-et-al"
-id: "TRM-ENG-47631"
+id: "TRM-ENG-62160"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Domes G, Winter B, Schnell K, et al"

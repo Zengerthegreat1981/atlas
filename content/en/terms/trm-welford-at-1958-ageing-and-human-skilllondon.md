@@ -1,6 +1,6 @@
 ---
 slug: "trm-welford-at-1958-ageing-and-human-skilllondon"
-id: "TRM-ENG-36044"
+id: "TRM-ENG-65102"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Welford, A.T. (1958). Ageing and human skill.London"

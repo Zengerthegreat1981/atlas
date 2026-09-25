@@ -1,6 +1,6 @@
 ---
 slug: "trm-under-investigation-interviewer-bias"
-id: "TRM-ENG-35442"
+id: "TRM-ENG-64500"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "under investigation, interviewer bias)"

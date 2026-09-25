@@ -1,6 +1,6 @@
 ---
 slug: "trm-rothman-d-j-the-discovery-of-the-asylum"
-id: "TRM-ENG-44607"
+id: "TRM-ENG-59136"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rothman, D. J., The Discovery of the Asylum"

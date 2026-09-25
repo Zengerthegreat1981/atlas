@@ -1,6 +1,6 @@
 ---
 slug: "trm-mcgregor-hg"
-id: "TRM-ENG-41644"
+id: "TRM-ENG-56173"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "McGregor HG"

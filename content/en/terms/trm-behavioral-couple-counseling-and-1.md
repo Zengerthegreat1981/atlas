@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavioral-couple-counseling-and-1"
-id: "TRM-ENG-39337"
+id: "TRM-ENG-53866"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behavioral couple counseling and, 1"

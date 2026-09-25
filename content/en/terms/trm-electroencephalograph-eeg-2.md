@@ -1,6 +1,6 @@
 ---
 slug: "trm-electroencephalograph-eeg-2"
-id: "TRM-ENG-50338"
+id: "TRM-ENG-64867"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Electroencephalograph (EEG), 2"

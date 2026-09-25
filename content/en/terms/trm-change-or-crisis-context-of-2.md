@@ -1,6 +1,6 @@
 ---
 slug: "trm-change-or-crisis-context-of-2"
-id: "TRM-ENG-39469"
+id: "TRM-ENG-53998"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "change or crisis context of, 2"

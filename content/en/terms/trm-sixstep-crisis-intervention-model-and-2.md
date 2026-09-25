@@ -1,6 +1,6 @@
 ---
 slug: "trm-sixstep-crisis-intervention-model-and-2"
-id: "TRM-ENG-41673"
+id: "TRM-ENG-56202"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "six-step crisis intervention model and, 2"

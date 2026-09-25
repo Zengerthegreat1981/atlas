@@ -1,6 +1,6 @@
 ---
 slug: "trm-counseling-intervention-and-1"
-id: "TRM-ENG-39736"
+id: "TRM-ENG-54265"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "counseling intervention and, 1"

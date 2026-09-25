@@ -1,6 +1,6 @@
 ---
 slug: "trm-hypochondriacaladj"
-id: "TRM-ENG-43682"
+id: "TRM-ENG-58211"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "hypochondriacaladj."

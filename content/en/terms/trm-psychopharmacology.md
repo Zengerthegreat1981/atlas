@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychopharmacology"
-id: "TRM-ENG-43821"
+id: "TRM-ENG-58350"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychopharmacology."

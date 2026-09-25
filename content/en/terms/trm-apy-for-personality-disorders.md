@@ -1,6 +1,6 @@
 ---
 slug: "trm-apy-for-personality-disorders"
-id: "TRM-ENG-42654"
+id: "TRM-ENG-57183"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "apy for personality disorders"

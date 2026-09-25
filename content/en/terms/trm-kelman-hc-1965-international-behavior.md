@@ -1,6 +1,6 @@
 ---
 slug: "trm-kelman-hc-1965-international-behavior"
-id: "TRM-ENG-35786"
+id: "TRM-ENG-50315"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kelman, H.C. (1965). International behavior"

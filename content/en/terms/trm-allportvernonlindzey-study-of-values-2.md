@@ -1,6 +1,6 @@
 ---
 slug: "trm-allportvernonlindzey-study-of-values-2"
-id: "TRM-ENG-37576"
+id: "TRM-ENG-66634"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Allport-Vernon-Lindzey Study of Values, 2"

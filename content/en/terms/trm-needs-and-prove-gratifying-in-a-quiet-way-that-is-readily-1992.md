@@ -1,6 +1,6 @@
 ---
 slug: "trm-needs-and-prove-gratifying-in-a-quiet-way-that-is-readily-1992"
-id: "TRM-ENG-35153"
+id: "TRM-ENG-64211"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "needs and prove gratifying in a quiet way that is readily (1992)"

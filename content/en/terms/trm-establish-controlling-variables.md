@@ -1,6 +1,6 @@
 ---
 slug: "trm-establish-controlling-variables"
-id: "TRM-ENG-44101"
+id: "TRM-ENG-58630"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "establish controlling variables"

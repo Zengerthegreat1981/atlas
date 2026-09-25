@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-the-sexual-response-cycle"
-id: "TRM-ENG-36791"
+id: "TRM-ENG-65849"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of the sexual response cycle"

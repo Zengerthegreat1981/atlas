@@ -1,6 +1,6 @@
 ---
 slug: "trm-bijou-sw-redd-wh"
-id: "TRM-ENG-39932"
+id: "TRM-ENG-54461"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bijou SW, Redd WH"

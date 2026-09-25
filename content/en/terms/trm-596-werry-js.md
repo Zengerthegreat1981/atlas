@@ -1,6 +1,6 @@
 ---
 slug: "trm-596-werry-js"
-id: "TRM-ENG-39210"
+id: "TRM-ENG-53739"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "596. Werry JS"

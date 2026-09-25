@@ -1,6 +1,6 @@
 ---
 slug: "trm-disord-22"
-id: "TRM-ENG-47622"
+id: "TRM-ENG-62151"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Disord 22"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-handbookofindianpsychologypp564576newdelhiindia"
-id: "TRM-ENG-36876"
+id: "TRM-ENG-65934"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "HandbookofIndianpsychology(pp.564–576).NewDelhi,India"

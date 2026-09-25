@@ -1,6 +1,6 @@
 ---
 slug: "trm-reading-travel-guides"
-id: "TRM-ENG-45459"
+id: "TRM-ENG-59988"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reading travel guides"

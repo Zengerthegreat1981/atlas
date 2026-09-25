@@ -1,6 +1,6 @@
 ---
 slug: "trm-inside-rationalemotive-therapy"
-id: "TRM-ENG-38242"
+id: "TRM-ENG-52771"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Inside rational-emotive therapy"

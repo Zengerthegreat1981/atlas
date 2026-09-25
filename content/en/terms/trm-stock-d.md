@@ -1,6 +1,6 @@
 ---
 slug: "trm-stock-d"
-id: "TRM-ENG-42476"
+id: "TRM-ENG-57005"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stock D"

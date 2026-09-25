@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-symptom-appears"
-id: "TRM-ENG-43204"
+id: "TRM-ENG-57733"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the symptom appears"

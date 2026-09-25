@@ -1,6 +1,6 @@
 ---
 slug: "trm-scales-of-4"
-id: "TRM-ENG-41560"
+id: "TRM-ENG-56089"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "scales of, 4"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-scale-to-assess-world-view-3"
-id: "TRM-ENG-38728"
+id: "TRM-ENG-53257"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Scale to Assess World View, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-karoly-p-ed-1985-the-assessment-of-pain"
-id: "TRM-ENG-46587"
+id: "TRM-ENG-61116"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Karoly, P. (Ed.) (1985). The assessment of pain"

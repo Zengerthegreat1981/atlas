@@ -1,6 +1,6 @@
 ---
 slug: "trm-treatment-new-york-ny"
-id: "TRM-ENG-51945"
+id: "TRM-ENG-66474"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "treatment. New York, NY"

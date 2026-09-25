@@ -1,6 +1,6 @@
 ---
 slug: "trm-heuristics-and-biases"
-id: "TRM-ENG-44527"
+id: "TRM-ENG-59056"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Heuristics and biases"

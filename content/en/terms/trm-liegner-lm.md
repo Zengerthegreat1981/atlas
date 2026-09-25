@@ -1,6 +1,6 @@
 ---
 slug: "trm-liegner-lm"
-id: "TRM-ENG-41465"
+id: "TRM-ENG-55994"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Liegner LM"

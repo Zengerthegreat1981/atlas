@@ -1,6 +1,6 @@
 ---
 slug: "trm-loewenstein-rm"
-id: "TRM-ENG-41498"
+id: "TRM-ENG-56027"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Loewenstein RM"

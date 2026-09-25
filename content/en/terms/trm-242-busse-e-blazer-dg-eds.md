@@ -1,6 +1,6 @@
 ---
 slug: "trm-242-busse-e-blazer-dg-eds"
-id: "TRM-ENG-38767"
+id: "TRM-ENG-53296"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "242. Busse E, Blazer DG (eds)"

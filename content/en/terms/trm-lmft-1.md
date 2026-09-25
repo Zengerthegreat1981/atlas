@@ -1,6 +1,6 @@
 ---
 slug: "trm-lmft-1"
-id: "TRM-ENG-37408"
+id: "TRM-ENG-66466"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(LMFT), 1"

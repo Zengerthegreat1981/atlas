@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-material-thing"
-id: "TRM-ENG-45357"
+id: "TRM-ENG-59886"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the material thing"

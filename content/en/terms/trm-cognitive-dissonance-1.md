@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognitive-dissonance-1"
-id: "TRM-ENG-44385"
+id: "TRM-ENG-58914"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cognitive dissonance , 1"

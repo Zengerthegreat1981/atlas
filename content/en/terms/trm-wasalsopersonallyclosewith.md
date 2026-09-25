@@ -1,6 +1,6 @@
 ---
 slug: "trm-wasalsopersonallyclosewith"
-id: "TRM-ENG-38428"
+id: "TRM-ENG-52957"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "wasalsopersonallyclosewith"

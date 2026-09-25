@@ -1,6 +1,6 @@
 ---
 slug: "trm-are-phenomenological"
-id: "TRM-ENG-34751"
+id: "TRM-ENG-63809"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "are phenomenological"

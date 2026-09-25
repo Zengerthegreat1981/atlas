@@ -1,6 +1,6 @@
 ---
 slug: "trm-binary-measures-cid"
-id: "TRM-ENG-35694"
+id: "TRM-ENG-64752"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "binary Measures (cid"

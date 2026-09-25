@@ -1,6 +1,6 @@
 ---
 slug: "trm-gordon-de"
-id: "TRM-ENG-40775"
+id: "TRM-ENG-55304"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gordon DE"

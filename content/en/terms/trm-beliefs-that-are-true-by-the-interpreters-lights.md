@@ -1,6 +1,6 @@
 ---
 slug: "trm-beliefs-that-are-true-by-the-interpreters-lights"
-id: "TRM-ENG-44964"
+id: "TRM-ENG-59493"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "beliefs that are true by the interpreter’s lights"

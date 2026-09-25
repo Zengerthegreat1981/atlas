@@ -1,6 +1,6 @@
 ---
 slug: "trm-298-rosenbaum-m"
-id: "TRM-ENG-38836"
+id: "TRM-ENG-53365"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "298. Rosenbaum M"

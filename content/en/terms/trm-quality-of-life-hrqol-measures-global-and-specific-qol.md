@@ -1,6 +1,6 @@
 ---
 slug: "trm-quality-of-life-hrqol-measures-global-and-specific-qol"
-id: "TRM-ENG-35912"
+id: "TRM-ENG-64970"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Quality of Life (HRQOL) measures. Global and specific QOL)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-gunderson-jg-kolb-je-austin-v"
-id: "TRM-ENG-47701"
+id: "TRM-ENG-62230"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gunderson JG, Kolb JE, Austin V"

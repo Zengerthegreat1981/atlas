@@ -1,6 +1,6 @@
 ---
 slug: "trm-deerwester-scott-2"
-id: "TRM-ENG-44421"
+id: "TRM-ENG-58950"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Deerwester, Scott, 2"

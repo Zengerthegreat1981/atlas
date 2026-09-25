@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-therapeutic-relationship-and-its-impact"
-id: "TRM-ENG-42570"
+id: "TRM-ENG-57099"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The Therapeutic Relationship and Its Impact"

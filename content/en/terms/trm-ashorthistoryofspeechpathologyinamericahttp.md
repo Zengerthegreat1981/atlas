@@ -1,6 +1,6 @@
 ---
 slug: "trm-ashorthistoryofspeechpathologyinamericahttp"
-id: "TRM-ENG-36525"
+id: "TRM-ENG-65583"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "AShortHistoryofSpeechPathologyinAmerica.http"

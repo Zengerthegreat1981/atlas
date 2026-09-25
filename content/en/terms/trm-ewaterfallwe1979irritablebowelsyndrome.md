@@ -1,6 +1,6 @@
 ---
 slug: "trm-ewaterfallwe1979irritablebowelsyndrome"
-id: "TRM-ENG-46504"
+id: "TRM-ENG-61033"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "E.,&Waterfall,W.E.(1979).Irritablebowelsyndrome"

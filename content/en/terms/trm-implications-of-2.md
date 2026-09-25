@@ -1,6 +1,6 @@
 ---
 slug: "trm-implications-of-2"
-id: "TRM-ENG-40459"
+id: "TRM-ENG-54988"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "implications of, 2"

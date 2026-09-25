@@ -1,6 +1,6 @@
 ---
 slug: "trm-211-butler-rn-lewis-mi"
-id: "TRM-ENG-38726"
+id: "TRM-ENG-53255"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "211. Butler RN, Lewis MI"

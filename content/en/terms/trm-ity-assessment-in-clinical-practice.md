@@ -1,6 +1,6 @@
 ---
 slug: "trm-ity-assessment-in-clinical-practice"
-id: "TRM-ENG-42950"
+id: "TRM-ENG-57479"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ity assessment in clinical practice"

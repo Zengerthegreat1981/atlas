@@ -1,6 +1,6 @@
 ---
 slug: "trm-expectancy-estimates-vary"
-id: "TRM-ENG-46972"
+id: "TRM-ENG-61501"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "expectancy estimates vary"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-bet-at-odds-longer-than-3"
-id: "TRM-ENG-44856"
+id: "TRM-ENG-59385"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "a bet at odds longer than 3"

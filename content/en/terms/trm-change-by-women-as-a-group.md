@@ -1,6 +1,6 @@
 ---
 slug: "trm-change-by-women-as-a-group"
-id: "TRM-ENG-44933"
+id: "TRM-ENG-59462"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "change by women as a group"

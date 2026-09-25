@@ -1,6 +1,6 @@
 ---
 slug: "trm-marsh-a-mckay-s-1994-poor-smokers-london"
-id: "TRM-ENG-46623"
+id: "TRM-ENG-61152"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Marsh, A., & McKay, S. (1994). Poor smokers. London"

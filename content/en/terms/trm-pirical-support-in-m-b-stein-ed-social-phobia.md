@@ -1,6 +1,6 @@
 ---
 slug: "trm-pirical-support-in-m-b-stein-ed-social-phobia"
-id: "TRM-ENG-49620"
+id: "TRM-ENG-64149"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pirical support. In M. B. Stein (Ed.), Social phobia"

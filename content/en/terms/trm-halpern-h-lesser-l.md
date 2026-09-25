@@ -1,6 +1,6 @@
 ---
 slug: "trm-halpern-h-lesser-l"
-id: "TRM-ENG-40891"
+id: "TRM-ENG-55420"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Halpern H, Lesser L"

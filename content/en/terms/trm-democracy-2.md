@@ -1,6 +1,6 @@
 ---
 slug: "trm-democracy-2"
-id: "TRM-ENG-47872"
+id: "TRM-ENG-62401"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "democracy, 2"

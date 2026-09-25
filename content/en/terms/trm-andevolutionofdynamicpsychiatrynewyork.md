@@ -1,6 +1,6 @@
 ---
 slug: "trm-andevolutionofdynamicpsychiatrynewyork"
-id: "TRM-ENG-37531"
+id: "TRM-ENG-52060"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "andevolutionofdynamicpsychiatry.NewYork"

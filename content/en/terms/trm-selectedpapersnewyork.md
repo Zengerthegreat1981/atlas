@@ -1,6 +1,6 @@
 ---
 slug: "trm-selectedpapersnewyork"
-id: "TRM-ENG-37276"
+id: "TRM-ENG-51805"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Selectedpapers.NewYork"

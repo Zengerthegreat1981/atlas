@@ -1,6 +1,6 @@
 ---
 slug: "trm-glass-j"
-id: "TRM-ENG-40716"
+id: "TRM-ENG-55245"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Glass J"

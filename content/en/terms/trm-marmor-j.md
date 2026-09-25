@@ -1,6 +1,6 @@
 ---
 slug: "trm-marmor-j"
-id: "TRM-ENG-41591"
+id: "TRM-ENG-56120"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Marmor J"

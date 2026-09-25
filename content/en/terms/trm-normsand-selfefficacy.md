@@ -1,6 +1,6 @@
 ---
 slug: "trm-normsand-selfefficacy"
-id: "TRM-ENG-47149"
+id: "TRM-ENG-61678"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "norms,and self-efficacy"

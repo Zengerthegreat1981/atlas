@@ -1,6 +1,6 @@
 ---
 slug: "trm-personal-attributes-inventory-2"
-id: "TRM-ENG-38585"
+id: "TRM-ENG-53114"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Personal Attributes Inventory, 2"

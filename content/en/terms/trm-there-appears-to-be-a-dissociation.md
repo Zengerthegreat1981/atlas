@@ -1,6 +1,6 @@
 ---
 slug: "trm-there-appears-to-be-a-dissociation"
-id: "TRM-ENG-45602"
+id: "TRM-ENG-60131"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "there appears to be a dissociation"

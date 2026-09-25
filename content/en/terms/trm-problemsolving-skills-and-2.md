@@ -1,6 +1,6 @@
 ---
 slug: "trm-problemsolving-skills-and-2"
-id: "TRM-ENG-41278"
+id: "TRM-ENG-55807"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "problem-solving skills and, 2"

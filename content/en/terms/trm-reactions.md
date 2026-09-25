@@ -1,6 +1,6 @@
 ---
 slug: "trm-reactions"
-id: "TRM-ENG-45269"
+id: "TRM-ENG-59798"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reactions"

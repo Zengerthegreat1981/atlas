@@ -1,6 +1,6 @@
 ---
 slug: "trm-sophists"
-id: "TRM-ENG-47317"
+id: "TRM-ENG-61846"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sophists"

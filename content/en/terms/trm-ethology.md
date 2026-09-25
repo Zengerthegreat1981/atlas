@@ -1,6 +1,6 @@
 ---
 slug: "trm-ethology"
-id: "TRM-ENG-52172"
+id: "TRM-ENG-66701"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ethology"

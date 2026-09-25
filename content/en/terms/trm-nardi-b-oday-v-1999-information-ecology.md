@@ -1,6 +1,6 @@
 ---
 slug: "trm-nardi-b-oday-v-1999-information-ecology"
-id: "TRM-ENG-47041"
+id: "TRM-ENG-61570"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nardi, B., & O’Day, V. (1999). Information ecology"

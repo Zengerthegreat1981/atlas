@@ -1,6 +1,6 @@
 ---
 slug: "trm-barker-r-c-i-968-ecological-psychology"
-id: "TRM-ENG-34628"
+id: "TRM-ENG-63686"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Barker, R. C;. ( I 968). Ecological psychology"

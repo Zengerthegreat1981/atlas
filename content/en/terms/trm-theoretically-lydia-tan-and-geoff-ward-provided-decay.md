@@ -1,6 +1,6 @@
 ---
 slug: "trm-theoretically-lydia-tan-and-geoff-ward-provided-decay"
-id: "TRM-ENG-45596"
+id: "TRM-ENG-60125"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theoretically. Lydia Tan and Geoff Ward provided decay"

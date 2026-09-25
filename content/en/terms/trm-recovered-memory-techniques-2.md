@@ -1,6 +1,6 @@
 ---
 slug: "trm-recovered-memory-techniques-2"
-id: "TRM-ENG-38658"
+id: "TRM-ENG-53187"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Recovered memory techniques, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-pope-b-1979-the-mental-health-interview"
-id: "TRM-ENG-35905"
+id: "TRM-ENG-64963"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pope, B. (1979). The mental health interview"

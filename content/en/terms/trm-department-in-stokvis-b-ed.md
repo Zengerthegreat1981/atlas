@@ -1,6 +1,6 @@
 ---
 slug: "trm-department-in-stokvis-b-ed"
-id: "TRM-ENG-43008"
+id: "TRM-ENG-57537"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "department, in Stokvis B (ed)"

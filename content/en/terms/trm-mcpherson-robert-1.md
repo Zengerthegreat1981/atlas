@@ -1,6 +1,6 @@
 ---
 slug: "trm-mcpherson-robert-1"
-id: "TRM-ENG-38411"
+id: "TRM-ENG-52940"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "McPherson, Robert, 1"

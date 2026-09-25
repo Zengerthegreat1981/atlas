@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognitive-psychology-of-1"
-id: "TRM-ENG-45013"
+id: "TRM-ENG-59542"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cognitive psychology of, 1"

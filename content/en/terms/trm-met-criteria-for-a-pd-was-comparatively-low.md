@@ -1,6 +1,6 @@
 ---
 slug: "trm-met-criteria-for-a-pd-was-comparatively-low"
-id: "TRM-ENG-43012"
+id: "TRM-ENG-57541"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "met criteria for a PD was comparatively low"

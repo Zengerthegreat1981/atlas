@@ -1,6 +1,6 @@
 ---
 slug: "trm-oped-through-the-formation-of-three-paradigms"
-id: "TRM-ENG-48485"
+id: "TRM-ENG-63014"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "oped through the formation of three paradigms"

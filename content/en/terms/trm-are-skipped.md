@@ -1,6 +1,6 @@
 ---
 slug: "trm-are-skipped"
-id: "TRM-ENG-44923"
+id: "TRM-ENG-59452"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "are skipped"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-person-must-confront"
-id: "TRM-ENG-48528"
+id: "TRM-ENG-63057"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "person must confront"

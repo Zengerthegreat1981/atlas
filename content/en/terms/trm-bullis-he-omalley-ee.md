@@ -1,6 +1,6 @@
 ---
 slug: "trm-bullis-he-omalley-ee"
-id: "TRM-ENG-40074"
+id: "TRM-ENG-54603"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bullis HE, O’Malley EE"

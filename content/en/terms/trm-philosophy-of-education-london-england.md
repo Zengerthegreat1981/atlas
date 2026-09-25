@@ -1,6 +1,6 @@
 ---
 slug: "trm-philosophy-of-education-london-england"
-id: "TRM-ENG-48543"
+id: "TRM-ENG-63072"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "philosophy of education. London, England"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-religious-devotion-to-lord-krs"
-id: "TRM-ENG-38207"
+id: "TRM-ENG-52736"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "religious devotion to Lord Krs"

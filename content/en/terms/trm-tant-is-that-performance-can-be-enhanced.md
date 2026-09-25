@@ -1,6 +1,6 @@
 ---
 slug: "trm-tant-is-that-performance-can-be-enhanced"
-id: "TRM-ENG-35360"
+id: "TRM-ENG-64418"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tant is that performance can be enhanced"

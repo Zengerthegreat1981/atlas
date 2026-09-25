@@ -1,6 +1,6 @@
 ---
 slug: "trm-justidentified-model"
-id: "TRM-ENG-45528"
+id: "TRM-ENG-60057"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "JUST-IDENTIFIED MODEL"

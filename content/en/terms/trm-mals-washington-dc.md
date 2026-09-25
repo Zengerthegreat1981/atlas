@@ -1,6 +1,6 @@
 ---
 slug: "trm-mals-washington-dc"
-id: "TRM-ENG-35923"
+id: "TRM-ENG-50452"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mals. Washington, DC"

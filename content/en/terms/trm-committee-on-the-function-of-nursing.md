@@ -1,6 +1,6 @@
 ---
 slug: "trm-committee-on-the-function-of-nursing"
-id: "TRM-ENG-40223"
+id: "TRM-ENG-54752"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Committee on the Function of Nursing"

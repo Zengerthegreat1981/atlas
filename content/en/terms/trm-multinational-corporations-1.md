@@ -1,6 +1,6 @@
 ---
 slug: "trm-multinational-corporations-1"
-id: "TRM-ENG-47028"
+id: "TRM-ENG-61557"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Multinational corporations, 1"

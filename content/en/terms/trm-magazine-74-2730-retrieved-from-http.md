@@ -1,6 +1,6 @@
 ---
 slug: "trm-magazine-74-2730-retrieved-from-http"
-id: "TRM-ENG-50697"
+id: "TRM-ENG-65226"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Magazine, 7(4), 27–30. Retrieved from http"

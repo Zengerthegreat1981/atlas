@@ -1,6 +1,6 @@
 ---
 slug: "trm-journalofpsychiatryinmedicine18365374-tion"
-id: "TRM-ENG-46580"
+id: "TRM-ENG-61109"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "JournalofPsychiatryinMedicine,18,365±374. tion"

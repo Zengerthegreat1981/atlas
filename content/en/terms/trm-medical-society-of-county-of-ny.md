@@ -1,6 +1,6 @@
 ---
 slug: "trm-medical-society-of-county-of-ny"
-id: "TRM-ENG-41665"
+id: "TRM-ENG-56194"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Medical Society of County of NY"

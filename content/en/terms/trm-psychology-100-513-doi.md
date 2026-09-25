@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychology-100-513-doi"
-id: "TRM-ENG-43527"
+id: "TRM-ENG-58056"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychology, 100, 5–13. doi"

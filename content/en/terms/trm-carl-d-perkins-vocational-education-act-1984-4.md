@@ -1,6 +1,6 @@
 ---
 slug: "trm-carl-d-perkins-vocational-education-act-1984-4"
-id: "TRM-ENG-37792"
+id: "TRM-ENG-52321"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Carl D. Perkins Vocational Education Act (1984), 4"

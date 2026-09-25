@@ -1,6 +1,6 @@
 ---
 slug: "trm-indians"
-id: "TRM-ENG-38232"
+id: "TRM-ENG-52761"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Indians"

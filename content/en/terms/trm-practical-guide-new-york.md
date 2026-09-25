@@ -1,6 +1,6 @@
 ---
 slug: "trm-practical-guide-new-york"
-id: "TRM-ENG-43141"
+id: "TRM-ENG-57670"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "practical guide. New York"

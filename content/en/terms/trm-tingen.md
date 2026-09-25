@@ -1,6 +1,6 @@
 ---
 slug: "trm-tingen"
-id: "TRM-ENG-49779"
+id: "TRM-ENG-64308"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tingen"

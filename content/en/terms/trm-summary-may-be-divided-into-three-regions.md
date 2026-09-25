@@ -1,6 +1,6 @@
 ---
 slug: "trm-summary-may-be-divided-into-three-regions"
-id: "TRM-ENG-37049"
+id: "TRM-ENG-51578"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "summary, may be divided into three regions"

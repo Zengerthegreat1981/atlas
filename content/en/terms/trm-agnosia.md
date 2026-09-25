@@ -1,6 +1,6 @@
 ---
 slug: "trm-agnosia"
-id: "TRM-ENG-52029"
+id: "TRM-ENG-66558"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Agnosia"

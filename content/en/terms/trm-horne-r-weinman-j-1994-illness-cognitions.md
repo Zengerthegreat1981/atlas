@@ -1,6 +1,6 @@
 ---
 slug: "trm-horne-r-weinman-j-1994-illness-cognitions"
-id: "TRM-ENG-46554"
+id: "TRM-ENG-61083"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Horne, R., & Weinman, J. (1994). Illness cognitions"

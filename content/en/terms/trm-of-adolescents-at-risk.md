@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-adolescents-at-risk"
-id: "TRM-ENG-43050"
+id: "TRM-ENG-57579"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of adolescents at risk"

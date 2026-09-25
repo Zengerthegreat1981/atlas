@@ -1,6 +1,6 @@
 ---
 slug: "trm-logotherapy-rests"
-id: "TRM-ENG-51579"
+id: "TRM-ENG-66108"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "logotherapy rests"

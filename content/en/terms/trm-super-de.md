@@ -1,6 +1,6 @@
 ---
 slug: "trm-super-de"
-id: "TRM-ENG-42520"
+id: "TRM-ENG-57049"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Super DE"

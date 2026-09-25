@@ -1,6 +1,6 @@
 ---
 slug: "trm-wollheim-richard-fh-bradley-baltimore"
-id: "TRM-ENG-45813"
+id: "TRM-ENG-60342"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wollheim, Richard. F.H. Bradley. Baltimore"

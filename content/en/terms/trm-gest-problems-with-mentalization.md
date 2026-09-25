@@ -1,6 +1,6 @@
 ---
 slug: "trm-gest-problems-with-mentalization"
-id: "TRM-ENG-48363"
+id: "TRM-ENG-62892"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "gest problems with mentalization"

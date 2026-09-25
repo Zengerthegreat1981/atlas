@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-spinal-cord-injury"
-id: "TRM-ENG-46812"
+id: "TRM-ENG-61341"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and spinal cord injury"

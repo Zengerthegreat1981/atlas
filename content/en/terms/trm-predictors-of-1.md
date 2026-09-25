@@ -1,6 +1,6 @@
 ---
 slug: "trm-predictors-of-1"
-id: "TRM-ENG-41255"
+id: "TRM-ENG-55784"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "predictors of, 1"

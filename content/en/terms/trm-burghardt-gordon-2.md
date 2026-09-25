@@ -1,6 +1,6 @@
 ---
 slug: "trm-burghardt-gordon-2"
-id: "TRM-ENG-46345"
+id: "TRM-ENG-60874"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Burghardt, Gordon, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-galatea-effect-863-genetics"
-id: "TRM-ENG-35696"
+id: "TRM-ENG-64754"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Galatea effect, 863 Genetics"

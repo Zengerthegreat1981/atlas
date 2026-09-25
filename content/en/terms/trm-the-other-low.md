@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-other-low"
-id: "TRM-ENG-36173"
+id: "TRM-ENG-50702"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the other low"

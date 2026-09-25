@@ -1,6 +1,6 @@
 ---
 slug: "trm-this-study"
-id: "TRM-ENG-43218"
+id: "TRM-ENG-57747"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "this study"

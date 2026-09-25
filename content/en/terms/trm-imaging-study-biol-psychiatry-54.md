@@ -1,6 +1,6 @@
 ---
 slug: "trm-imaging-study-biol-psychiatry-54"
-id: "TRM-ENG-48388"
+id: "TRM-ENG-62917"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "imaging study. Biol Psychiatry 54"

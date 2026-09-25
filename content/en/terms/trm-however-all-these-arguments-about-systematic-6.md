@@ -1,6 +1,6 @@
 ---
 slug: "trm-however-all-these-arguments-about-systematic-6"
-id: "TRM-ENG-43443"
+id: "TRM-ENG-57972"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "However, all these arguments about systematic 6"

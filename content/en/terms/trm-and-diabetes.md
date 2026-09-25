@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-diabetes"
-id: "TRM-ENG-46802"
+id: "TRM-ENG-61331"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and diabetes"

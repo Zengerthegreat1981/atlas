@@ -1,6 +1,6 @@
 ---
 slug: "trm-sertion-of-metaphysical-behaviorism"
-id: "TRM-ENG-36974"
+id: "TRM-ENG-66032"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sertion of metaphysical behaviorism"

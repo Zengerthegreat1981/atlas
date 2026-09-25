@@ -1,6 +1,6 @@
 ---
 slug: "trm-pashler-harold-hal-1"
-id: "TRM-ENG-44672"
+id: "TRM-ENG-59201"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pashler, Harold (Hal), 1"

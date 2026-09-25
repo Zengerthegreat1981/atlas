@@ -1,6 +1,6 @@
 ---
 slug: "trm-nurture"
-id: "TRM-ENG-44006"
+id: "TRM-ENG-58535"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "NURTURE."

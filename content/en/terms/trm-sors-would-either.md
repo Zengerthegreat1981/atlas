@@ -1,6 +1,6 @@
 ---
 slug: "trm-sors-would-either"
-id: "TRM-ENG-35332"
+id: "TRM-ENG-64390"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sors would either"

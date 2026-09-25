@@ -1,6 +1,6 @@
 ---
 slug: "trm-argue-for-a-very-particular-kind-of-evidence"
-id: "TRM-ENG-47652"
+id: "TRM-ENG-62181"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "argue for a very particular kind of evidence"

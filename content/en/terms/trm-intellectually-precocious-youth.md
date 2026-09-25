@@ -1,6 +1,6 @@
 ---
 slug: "trm-intellectually-precocious-youth"
-id: "TRM-ENG-40580"
+id: "TRM-ENG-55109"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "intellectually precocious youth"

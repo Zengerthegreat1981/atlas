@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychology-philosophy-and-computation-oxford-uk"
-id: "TRM-ENG-44721"
+id: "TRM-ENG-59250"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychology, philosophy, and computation. Oxford, UK"

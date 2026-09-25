@@ -1,6 +1,6 @@
 ---
 slug: "trm-nonpatients"
-id: "TRM-ENG-45172"
+id: "TRM-ENG-59701"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nonpatients"

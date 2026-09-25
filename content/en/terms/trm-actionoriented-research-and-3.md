@@ -1,6 +1,6 @@
 ---
 slug: "trm-actionoriented-research-and-3"
-id: "TRM-ENG-39098"
+id: "TRM-ENG-53627"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "action-oriented research and, 3"

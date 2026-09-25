@@ -1,6 +1,6 @@
 ---
 slug: "trm-toman-w-1993-family-constellation"
-id: "TRM-ENG-51108"
+id: "TRM-ENG-65637"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Toman, W. (1993). Family constellation"

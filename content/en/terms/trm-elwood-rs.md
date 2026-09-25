@@ -1,6 +1,6 @@
 ---
 slug: "trm-elwood-rs"
-id: "TRM-ENG-40438"
+id: "TRM-ENG-54967"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Elwood RS"

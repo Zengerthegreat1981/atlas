@@ -1,6 +1,6 @@
 ---
 slug: "trm-such-as-avpd-at-least-one-pd"
-id: "TRM-ENG-48617"
+id: "TRM-ENG-63146"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "such as AVPD. At least one PD"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-cel"
-id: "TRM-ENG-35710"
+id: "TRM-ENG-64768"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cel"

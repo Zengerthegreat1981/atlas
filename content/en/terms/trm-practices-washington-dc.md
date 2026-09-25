@@ -1,6 +1,6 @@
 ---
 slug: "trm-practices-washington-dc"
-id: "TRM-ENG-36046"
+id: "TRM-ENG-65104"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "practices. Washington, DC"

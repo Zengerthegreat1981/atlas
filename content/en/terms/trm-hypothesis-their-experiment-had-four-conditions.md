@@ -1,6 +1,6 @@
 ---
 slug: "trm-hypothesis-their-experiment-had-four-conditions"
-id: "TRM-ENG-35848"
+id: "TRM-ENG-64906"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "hypothesis. Their experiment had four conditions"

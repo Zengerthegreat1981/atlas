@@ -1,6 +1,6 @@
 ---
 slug: "trm-using-one-of-six-different-time-frames"
-id: "TRM-ENG-36233"
+id: "TRM-ENG-50762"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "using one of six different time frames"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-pollak-o-social-adjustment-in-old-age"
-id: "TRM-ENG-44577"
+id: "TRM-ENG-59106"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pollak, O., Social Adjustment in Old Age"

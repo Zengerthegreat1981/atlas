@@ -1,6 +1,6 @@
 ---
 slug: "trm-mjeds1994acceptanceandchange"
-id: "TRM-ENG-49074"
+id: "TRM-ENG-63603"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "M.J.(Eds.)(1994).Acceptanceandchange"

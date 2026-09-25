@@ -1,6 +1,6 @@
 ---
 slug: "trm-brownjw1995arluria"
-id: "TRM-ENG-36659"
+id: "TRM-ENG-65717"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brown,J.W.(1995).A.R.Luria"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-against-liberalism-ithaca"
-id: "TRM-ENG-45640"
+id: "TRM-ENG-60169"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Against Liberalism. Ithaca"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-vygotsky-lev-1"
-id: "TRM-ENG-44841"
+id: "TRM-ENG-59370"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Vygotsky, Lev, 1"

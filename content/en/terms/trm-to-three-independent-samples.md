@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-three-independent-samples"
-id: "TRM-ENG-43378"
+id: "TRM-ENG-57907"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to three independent samples"

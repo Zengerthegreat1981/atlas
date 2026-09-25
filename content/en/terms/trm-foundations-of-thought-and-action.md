@@ -1,6 +1,6 @@
 ---
 slug: "trm-foundations-of-thought-and-action"
-id: "TRM-ENG-38084"
+id: "TRM-ENG-67142"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Foundations of Thought and Action"

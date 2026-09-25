@@ -1,6 +1,6 @@
 ---
 slug: "trm-american-psychologist-18-519521-doi"
-id: "TRM-ENG-35288"
+id: "TRM-ENG-64346"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "American Psychologist, 18, 519–521. doi"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-kosten-tr-rounsaville-bj-kleber-hd-et-al"
-id: "TRM-ENG-41293"
+id: "TRM-ENG-55822"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kosten TR, Rounsaville BJ, Kleber HD, et al"

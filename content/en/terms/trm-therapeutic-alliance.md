@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapeutic-alliance"
-id: "TRM-ENG-48123"
+id: "TRM-ENG-62652"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Therapeutic Alliance"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-varied-levels-of-belief-in-3"
-id: "TRM-ENG-42114"
+id: "TRM-ENG-56643"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "varied levels of belief in, 3"

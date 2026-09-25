@@ -1,6 +1,6 @@
 ---
 slug: "trm-deutsch-f-murphy-wf-the-clinical-interview-vol-1-diagnosis"
-id: "TRM-ENG-40344"
+id: "TRM-ENG-54873"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Deutsch F, Murphy WF: The Clinical Interview. Vol. 1, Diagnosis"

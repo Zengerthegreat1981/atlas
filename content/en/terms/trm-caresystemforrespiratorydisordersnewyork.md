@@ -1,6 +1,6 @@
 ---
 slug: "trm-caresystemforrespiratorydisordersnewyork"
-id: "TRM-ENG-46881"
+id: "TRM-ENG-61410"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "caresystemforrespiratorydisorders.NewYork"

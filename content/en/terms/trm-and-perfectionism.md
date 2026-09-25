@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-perfectionism"
-id: "TRM-ENG-42639"
+id: "TRM-ENG-57168"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and perfectionism"

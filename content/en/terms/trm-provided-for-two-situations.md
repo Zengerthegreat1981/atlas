@@ -1,6 +1,6 @@
 ---
 slug: "trm-provided-for-two-situations"
-id: "TRM-ENG-48546"
+id: "TRM-ENG-63075"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "provided for two situations"

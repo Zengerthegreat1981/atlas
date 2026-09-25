@@ -1,6 +1,6 @@
 ---
 slug: "trm-enced-feeling-of-emotions"
-id: "TRM-ENG-45092"
+id: "TRM-ENG-59621"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "enced feeling of emotions"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-samhan-h-h-3"
-id: "TRM-ENG-38718"
+id: "TRM-ENG-53247"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Samhan, H. H., 3"

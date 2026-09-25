@@ -1,6 +1,6 @@
 ---
 slug: "trm-believe-i-look-like-anyway"
-id: "TRM-ENG-42980"
+id: "TRM-ENG-57509"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "believe I look like anyway"

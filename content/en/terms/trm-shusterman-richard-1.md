@@ -1,6 +1,6 @@
 ---
 slug: "trm-shusterman-richard-1"
-id: "TRM-ENG-47283"
+id: "TRM-ENG-61812"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shusterman, Richard, 1"

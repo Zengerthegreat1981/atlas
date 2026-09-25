@@ -1,6 +1,6 @@
 ---
 slug: "trm-millon-t-1994-millon-clinical-multiaxial-inventory"
-id: "TRM-ENG-43481"
+id: "TRM-ENG-58010"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Millon, T. (1994). Millon Clinical Multiaxial Inventory"

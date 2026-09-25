@@ -1,6 +1,6 @@
 ---
 slug: "trm-kadis-al-krasner-jd-winick-c-foulkes-sh"
-id: "TRM-ENG-41163"
+id: "TRM-ENG-55692"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kadis AL, Krasner JD, Winick C, Foulkes SH"

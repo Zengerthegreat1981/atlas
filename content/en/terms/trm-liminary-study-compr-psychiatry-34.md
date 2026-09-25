@@ -1,6 +1,6 @@
 ---
 slug: "trm-liminary-study-compr-psychiatry-34"
-id: "TRM-ENG-48429"
+id: "TRM-ENG-62958"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "liminary study. Compr Psychiatry 34"

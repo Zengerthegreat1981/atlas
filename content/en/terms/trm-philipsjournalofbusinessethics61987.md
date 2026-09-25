@@ -1,6 +1,6 @@
 ---
 slug: "trm-philipsjournalofbusinessethics61987"
-id: "TRM-ENG-45761"
+id: "TRM-ENG-60290"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Philips.”JournalofBusinessEthics6(1987)"

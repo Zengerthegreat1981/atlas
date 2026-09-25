@@ -1,6 +1,6 @@
 ---
 slug: "trm-erson-nj"
-id: "TRM-ENG-45893"
+id: "TRM-ENG-60422"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "erson, NJ"

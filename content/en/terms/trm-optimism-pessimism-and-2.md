@@ -1,6 +1,6 @@
 ---
 slug: "trm-optimism-pessimism-and-2"
-id: "TRM-ENG-41059"
+id: "TRM-ENG-55588"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "optimism, pessimism and, 2"

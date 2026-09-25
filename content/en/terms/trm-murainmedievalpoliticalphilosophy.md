@@ -1,6 +1,6 @@
 ---
 slug: "trm-murainmedievalpoliticalphilosophy"
-id: "TRM-ENG-45963"
+id: "TRM-ENG-60492"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mura.InMedievalPoliticalPhilosophy"

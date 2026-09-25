@@ -1,6 +1,6 @@
 ---
 slug: "trm-they-are"
-id: "TRM-ENG-37152"
+id: "TRM-ENG-51681"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "they are"

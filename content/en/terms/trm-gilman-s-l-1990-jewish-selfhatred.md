@@ -1,6 +1,6 @@
 ---
 slug: "trm-gilman-s-l-1990-jewish-selfhatred"
-id: "TRM-ENG-38109"
+id: "TRM-ENG-52638"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gilman, S. L. (1990). Jewish self-hatred"

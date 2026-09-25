@@ -1,6 +1,6 @@
 ---
 slug: "trm-itymodel"
-id: "TRM-ENG-43704"
+id: "TRM-ENG-58233"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "itymodel."

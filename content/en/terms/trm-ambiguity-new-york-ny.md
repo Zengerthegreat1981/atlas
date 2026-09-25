@@ -1,6 +1,6 @@
 ---
 slug: "trm-ambiguity-new-york-ny"
-id: "TRM-ENG-47577"
+id: "TRM-ENG-62106"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ambiguity. New York, NY"

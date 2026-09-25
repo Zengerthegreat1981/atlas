@@ -1,6 +1,6 @@
 ---
 slug: "trm-allen-eds-beginiiings"
-id: "TRM-ENG-34610"
+id: "TRM-ENG-49139"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Allen (Eds.), Beginiiings"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-you-and-flashes-you-a-smile"
-id: "TRM-ENG-36274"
+id: "TRM-ENG-65332"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "you and flashes you a smile"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-affectivity-n"
-id: "TRM-ENG-43589"
+id: "TRM-ENG-58118"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "affectivity (N)"

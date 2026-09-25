@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-problem-of-intentionality"
-id: "TRM-ENG-45588"
+id: "TRM-ENG-60117"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the problem of intentionality"

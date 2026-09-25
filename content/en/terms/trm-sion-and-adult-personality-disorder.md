@@ -1,6 +1,6 @@
 ---
 slug: "trm-sion-and-adult-personality-disorder"
-id: "TRM-ENG-43215"
+id: "TRM-ENG-57744"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sion and adult personality disorder"

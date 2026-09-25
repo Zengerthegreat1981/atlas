@@ -1,6 +1,6 @@
 ---
 slug: "trm-nj"
-id: "TRM-ENG-45898"
+id: "TRM-ENG-60427"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "N.J."

@@ -1,6 +1,6 @@
 ---
 slug: "trm-1996-causal-learning-san-diego-ca"
-id: "TRM-ENG-44245"
+id: "TRM-ENG-58774"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1996). Causal learning. San Diego, CA"

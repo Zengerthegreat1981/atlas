@@ -1,6 +1,6 @@
 ---
 slug: "trm-habermas-j-1972-knowledge-and-human-interest-j-j-shapiro-works"
-id: "TRM-ENG-36871"
+id: "TRM-ENG-65929"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Habermas, J. (1972). Knowledge and human interest (J. J. Shapiro, [Works"

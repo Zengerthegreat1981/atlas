@@ -1,6 +1,6 @@
 ---
 slug: "trm-fbi-counter-intelligence-program-and-3"
-id: "TRM-ENG-38060"
+id: "TRM-ENG-67118"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "FBI Counter Intelligence Program and, 3"

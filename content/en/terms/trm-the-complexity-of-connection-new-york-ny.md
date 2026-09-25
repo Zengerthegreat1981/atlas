@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-complexity-of-connection-new-york-ny"
-id: "TRM-ENG-51091"
+id: "TRM-ENG-65620"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The complexity of connection. New York, NY"

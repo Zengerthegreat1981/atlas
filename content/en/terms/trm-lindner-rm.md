@@ -1,6 +1,6 @@
 ---
 slug: "trm-lindner-rm"
-id: "TRM-ENG-41472"
+id: "TRM-ENG-56001"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lindner RM"

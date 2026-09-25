@@ -1,6 +1,6 @@
 ---
 slug: "trm-serban-g-siegal-s"
-id: "TRM-ENG-42319"
+id: "TRM-ENG-56848"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Serban G, Siegal S"

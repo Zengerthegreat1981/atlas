@@ -1,6 +1,6 @@
 ---
 slug: "trm-walsh-jj"
-id: "TRM-ENG-42706"
+id: "TRM-ENG-57235"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Walsh JJ"

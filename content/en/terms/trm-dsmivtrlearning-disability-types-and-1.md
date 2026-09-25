@@ -1,6 +1,6 @@
 ---
 slug: "trm-dsmivtrlearning-disability-types-and-1"
-id: "TRM-ENG-37918"
+id: "TRM-ENG-52447"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "DSM-IV-TR,learning disability types and, 1"

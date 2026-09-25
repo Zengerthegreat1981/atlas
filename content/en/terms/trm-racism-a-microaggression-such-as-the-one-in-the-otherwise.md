@@ -1,6 +1,6 @@
 ---
 slug: "trm-racism-a-microaggression-such-as-the-one-in-the-otherwise"
-id: "TRM-ENG-41423"
+id: "TRM-ENG-55952"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "racism. A microaggression, such as the one in the otherwise"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ellis-a-1973-humanistic-psychotherapy"
-id: "TRM-ENG-38017"
+id: "TRM-ENG-52546"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ellis, A. (1973). Humanistic psychotherapy"

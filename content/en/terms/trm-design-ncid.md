@@ -1,6 +1,6 @@
 ---
 slug: "trm-design-ncid"
-id: "TRM-ENG-35760"
+id: "TRM-ENG-50289"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "design, n(cid"

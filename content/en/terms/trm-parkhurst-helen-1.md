@@ -1,6 +1,6 @@
 ---
 slug: "trm-parkhurst-helen-1"
-id: "TRM-ENG-47104"
+id: "TRM-ENG-61633"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Parkhurst, Helen, 1"

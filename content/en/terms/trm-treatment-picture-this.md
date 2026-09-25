@@ -1,6 +1,6 @@
 ---
 slug: "trm-treatment-picture-this"
-id: "TRM-ENG-44224"
+id: "TRM-ENG-58753"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "treatment. Picture this"

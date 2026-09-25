@@ -1,6 +1,6 @@
 ---
 slug: "trm-edhandbook-of-sociological-theorypp255268-new-york"
-id: "TRM-ENG-35491"
+id: "TRM-ENG-64549"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Ed.),Handbook of sociological theory(pp.255–268). New York"

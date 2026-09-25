@@ -1,6 +1,6 @@
 ---
 slug: "trm-oleary-kd-1993-through-a-psychological-lens"
-id: "TRM-ENG-35882"
+id: "TRM-ENG-50411"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "O’Leary, K.D. (1993). Through a psychological lens"

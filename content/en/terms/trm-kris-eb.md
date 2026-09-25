@@ -1,6 +1,6 @@
 ---
 slug: "trm-kris-eb"
-id: "TRM-ENG-41317"
+id: "TRM-ENG-55846"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kris EB"

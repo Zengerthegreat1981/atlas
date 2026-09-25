@@ -1,6 +1,6 @@
 ---
 slug: "trm-barrettlennard-relationship-inventory-2"
-id: "TRM-ENG-37671"
+id: "TRM-ENG-66729"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Barrett-Lennard Relationship Inventory, 2"

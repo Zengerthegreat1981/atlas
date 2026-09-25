@@ -1,6 +1,6 @@
 ---
 slug: "trm-ment-to-the-treatment-and-control-groups"
-id: "TRM-ENG-48333"
+id: "TRM-ENG-62862"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ment to the treatment and control groups"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-assessment-theories-and-methods-new-york"
-id: "TRM-ENG-37631"
+id: "TRM-ENG-66689"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Assessment theories and methods. New York"

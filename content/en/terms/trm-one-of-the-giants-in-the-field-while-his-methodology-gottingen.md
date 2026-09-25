@@ -1,6 +1,6 @@
 ---
 slug: "trm-one-of-the-giants-in-the-field-while-his-methodology-gottingen"
-id: "TRM-ENG-35196"
+id: "TRM-ENG-64254"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "one of the giants in the field. While his methodology Gottingen"

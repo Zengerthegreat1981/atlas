@@ -1,6 +1,6 @@
 ---
 slug: "trm-hempel-c-g-1"
-id: "TRM-ENG-46748"
+id: "TRM-ENG-61277"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hempel, C. G., 1"

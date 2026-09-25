@@ -1,6 +1,6 @@
 ---
 slug: "trm-as-the-probable-error-of-each-scale-permitted"
-id: "TRM-ENG-36168"
+id: "TRM-ENG-50697"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "as the probable error of each scale permitted"

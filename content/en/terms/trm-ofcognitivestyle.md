@@ -1,6 +1,6 @@
 ---
 slug: "trm-ofcognitivestyle"
-id: "TRM-ENG-43769"
+id: "TRM-ENG-58298"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ofcognitivestyle"

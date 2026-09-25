@@ -1,6 +1,6 @@
 ---
 slug: "trm-attractions-of-2"
-id: "TRM-ENG-47672"
+id: "TRM-ENG-62201"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "attractions of, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-hunt-e-1962-concept-learning"
-id: "TRM-ENG-52513"
+id: "TRM-ENG-67042"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hunt, E. (1962). Concept learning"

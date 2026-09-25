@@ -1,6 +1,6 @@
 ---
 slug: "trm-always-begged-by-our-instrumental-education"
-id: "TRM-ENG-47576"
+id: "TRM-ENG-62105"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "always begged by our instrumental education"

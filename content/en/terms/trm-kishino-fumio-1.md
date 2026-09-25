@@ -1,6 +1,6 @@
 ---
 slug: "trm-kishino-fumio-1"
-id: "TRM-ENG-46880"
+id: "TRM-ENG-61409"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kishino, Fumio, 1"

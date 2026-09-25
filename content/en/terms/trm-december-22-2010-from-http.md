@@ -1,6 +1,6 @@
 ---
 slug: "trm-december-22-2010-from-http"
-id: "TRM-ENG-36728"
+id: "TRM-ENG-65786"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "December 22, 2010, from http"

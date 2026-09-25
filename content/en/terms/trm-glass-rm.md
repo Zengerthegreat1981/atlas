@@ -1,6 +1,6 @@
 ---
 slug: "trm-glass-rm"
-id: "TRM-ENG-40718"
+id: "TRM-ENG-55247"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Glass RM"

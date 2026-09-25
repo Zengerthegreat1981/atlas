@@ -1,6 +1,6 @@
 ---
 slug: "trm-kottman-t-1995-partners-in-play"
-id: "TRM-ENG-38338"
+id: "TRM-ENG-52867"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kottman, T. (1995). Partners in play"

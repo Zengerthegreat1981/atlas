@@ -1,6 +1,6 @@
 ---
 slug: "trm-aronson-joshua-3"
-id: "TRM-ENG-37615"
+id: "TRM-ENG-66673"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Aronson, Joshua, 3"

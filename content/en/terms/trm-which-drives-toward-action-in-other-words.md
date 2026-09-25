@@ -1,6 +1,6 @@
 ---
 slug: "trm-which-drives-toward-action-in-other-words"
-id: "TRM-ENG-38440"
+id: "TRM-ENG-52969"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "which drives toward action, in other words"

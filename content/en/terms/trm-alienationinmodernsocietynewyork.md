@@ -1,6 +1,6 @@
 ---
 slug: "trm-alienationinmodernsocietynewyork"
-id: "TRM-ENG-45641"
+id: "TRM-ENG-60170"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "AlienationinModernSociety.NewYork"

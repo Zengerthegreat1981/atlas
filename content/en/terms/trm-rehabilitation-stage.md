@@ -1,6 +1,6 @@
 ---
 slug: "trm-rehabilitation-stage"
-id: "TRM-ENG-35014"
+id: "TRM-ENG-64072"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rehabilitation stage"

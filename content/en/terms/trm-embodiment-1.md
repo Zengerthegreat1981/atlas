@@ -1,6 +1,6 @@
 ---
 slug: "trm-embodiment-1"
-id: "TRM-ENG-46566"
+id: "TRM-ENG-61095"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Embodiment, 1"

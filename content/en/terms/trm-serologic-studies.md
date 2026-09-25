@@ -1,6 +1,6 @@
 ---
 slug: "trm-serologic-studies"
-id: "TRM-ENG-36973"
+id: "TRM-ENG-66031"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "serologic studies"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-other-pp-113141-oxford-uk"
-id: "TRM-ENG-42638"
+id: "TRM-ENG-57167"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and other (pp. 113–141). Oxford, UK"

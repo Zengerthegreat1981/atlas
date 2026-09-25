@@ -1,6 +1,6 @@
 ---
 slug: "trm-prefrontal-cortex-ofc"
-id: "TRM-ENG-34996"
+id: "TRM-ENG-64054"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "prefrontal cortex; OFC"

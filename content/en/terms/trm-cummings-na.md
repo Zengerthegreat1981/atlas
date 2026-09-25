@@ -1,6 +1,6 @@
 ---
 slug: "trm-cummings-na"
-id: "TRM-ENG-40278"
+id: "TRM-ENG-54807"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cummings NA"

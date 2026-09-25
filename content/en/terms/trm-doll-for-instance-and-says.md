@@ -1,6 +1,6 @@
 ---
 slug: "trm-doll-for-instance-and-says"
-id: "TRM-ENG-44997"
+id: "TRM-ENG-59526"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "doll, for instance, and says"

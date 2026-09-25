@@ -1,6 +1,6 @@
 ---
 slug: "trm-from-the-observers-motion-this-is-motion-parallax"
-id: "TRM-ENG-36469"
+id: "TRM-ENG-65527"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "from the observer’s motion. This is motion parallax"

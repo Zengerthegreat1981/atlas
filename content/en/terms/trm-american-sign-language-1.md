@@ -1,6 +1,6 @@
 ---
 slug: "trm-american-sign-language-1"
-id: "TRM-ENG-37587"
+id: "TRM-ENG-66645"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "American Sign Language, 1"

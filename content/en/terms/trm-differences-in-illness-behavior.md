@@ -1,6 +1,6 @@
 ---
 slug: "trm-differences-in-illness-behavior"
-id: "TRM-ENG-46950"
+id: "TRM-ENG-61479"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "differences in illness behavior"

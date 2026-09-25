@@ -1,6 +1,6 @@
 ---
 slug: "trm-functioning-in-dsm5-part-i"
-id: "TRM-ENG-42853"
+id: "TRM-ENG-57382"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "functioning in DSM-5, part I"

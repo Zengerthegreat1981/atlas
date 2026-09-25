@@ -1,6 +1,6 @@
 ---
 slug: "trm-national-rehabilitation-association-nra-and-2"
-id: "TRM-ENG-38489"
+id: "TRM-ENG-53018"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "National Rehabilitation Association (NRA) and, 2"

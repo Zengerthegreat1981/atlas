@@ -1,6 +1,6 @@
 ---
 slug: "trm-kantian-conception-of-dual-human-nature"
-id: "TRM-ENG-45728"
+id: "TRM-ENG-60257"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kantian conception of dual human nature"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-selfcenteredness"
-id: "TRM-ENG-45297"
+id: "TRM-ENG-59826"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "self-centeredness"

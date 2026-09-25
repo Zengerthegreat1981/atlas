@@ -1,6 +1,6 @@
 ---
 slug: "trm-constructing-apparatus-to-capture-the-process-of-eye-1914"
-id: "TRM-ENG-37652"
+id: "TRM-ENG-66710"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "constructing apparatus to capture the process of eye 1914"

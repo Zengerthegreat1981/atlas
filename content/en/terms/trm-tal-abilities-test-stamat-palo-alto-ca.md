@@ -1,6 +1,6 @@
 ---
 slug: "trm-tal-abilities-test-stamat-palo-alto-ca"
-id: "TRM-ENG-37060"
+id: "TRM-ENG-66118"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tal Abilities Test (STAMAT). Palo Alto, CA"

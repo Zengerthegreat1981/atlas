@@ -1,6 +1,6 @@
 ---
 slug: "trm-differences-23-809814-doi"
-id: "TRM-ENG-43412"
+id: "TRM-ENG-57941"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Differences, 23, 809–814. doi"

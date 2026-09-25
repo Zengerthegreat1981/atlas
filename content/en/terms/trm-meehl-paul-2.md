@@ -1,6 +1,6 @@
 ---
 slug: "trm-meehl-paul-2"
-id: "TRM-ENG-44617"
+id: "TRM-ENG-59146"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Meehl, Paul, 2"

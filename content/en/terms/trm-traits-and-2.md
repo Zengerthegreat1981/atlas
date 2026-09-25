@@ -1,6 +1,6 @@
 ---
 slug: "trm-traits-and-2"
-id: "TRM-ENG-42014"
+id: "TRM-ENG-56543"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "traits and, 2"

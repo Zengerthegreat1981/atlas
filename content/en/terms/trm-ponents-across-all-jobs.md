@@ -1,6 +1,6 @@
 ---
 slug: "trm-ponents-across-all-jobs"
-id: "TRM-ENG-41193"
+id: "TRM-ENG-55722"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ponents across all jobs"

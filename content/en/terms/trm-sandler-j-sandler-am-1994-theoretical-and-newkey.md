@@ -1,6 +1,6 @@
 ---
 slug: "trm-sandler-j-sandler-am-1994-theoretical-and-newkey"
-id: "TRM-ENG-49165"
+id: "TRM-ENG-63694"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sandler, J., & Sandler, A.-M. (1994). Theoretical and newkey"

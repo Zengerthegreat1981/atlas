@@ -1,6 +1,6 @@
 ---
 slug: "trm-beck-at-kovacs-m"
-id: "TRM-ENG-39834"
+id: "TRM-ENG-54363"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Beck AT, Kovacs M"

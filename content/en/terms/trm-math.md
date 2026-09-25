@@ -1,6 +1,6 @@
 ---
 slug: "trm-math"
-id: "TRM-ENG-48316"
+id: "TRM-ENG-62845"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "math"

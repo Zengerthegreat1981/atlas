@@ -1,6 +1,6 @@
 ---
 slug: "trm-haber-a-kalish-hi-1963-prediction-of-discrimination-from-ditioning"
-id: "TRM-ENG-35724"
+id: "TRM-ENG-64782"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Haber, A., & Kalish, H.I. (1963). Prediction of discrimination from ditioning"

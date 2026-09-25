@@ -1,6 +1,6 @@
 ---
 slug: "trm-beck-u-1992-risk-society"
-id: "TRM-ENG-46285"
+id: "TRM-ENG-60814"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Beck, U. (1992). Risk society"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-gratitude-to-its-members"
-id: "TRM-ENG-37799"
+id: "TRM-ENG-66857"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "gratitude to its members"

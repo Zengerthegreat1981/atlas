@@ -1,6 +1,6 @@
 ---
 slug: "trm-reinforcement-in-a-stimulus"
-id: "TRM-ENG-52597"
+id: "TRM-ENG-67126"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reinforcement in a stimulus"

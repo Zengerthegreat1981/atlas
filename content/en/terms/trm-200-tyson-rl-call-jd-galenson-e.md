@@ -1,6 +1,6 @@
 ---
 slug: "trm-200-tyson-rl-call-jd-galenson-e"
-id: "TRM-ENG-38712"
+id: "TRM-ENG-53241"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "200. Tyson RL, Call JD, Galenson E"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-about-2"
-id: "TRM-ENG-47534"
+id: "TRM-ENG-62063"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "about, 2"

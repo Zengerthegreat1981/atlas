@@ -1,6 +1,6 @@
 ---
 slug: "trm-racial-identity-of-3"
-id: "TRM-ENG-41409"
+id: "TRM-ENG-55938"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "racial identity of, 3"

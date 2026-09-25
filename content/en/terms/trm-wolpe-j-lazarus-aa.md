@@ -1,6 +1,6 @@
 ---
 slug: "trm-wolpe-j-lazarus-aa"
-id: "TRM-ENG-42859"
+id: "TRM-ENG-57388"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wolpe J, Lazarus AA"

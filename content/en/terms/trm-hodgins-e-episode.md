@@ -1,6 +1,6 @@
 ---
 slug: "trm-hodgins-e-episode"
-id: "TRM-ENG-44439"
+id: "TRM-ENG-58968"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hodgins, E., Episode"

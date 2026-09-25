@@ -1,6 +1,6 @@
 ---
 slug: "trm-random-selection"
-id: "TRM-ENG-45589"
+id: "TRM-ENG-60118"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "random selection"

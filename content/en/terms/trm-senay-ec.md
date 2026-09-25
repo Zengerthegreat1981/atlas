@@ -1,6 +1,6 @@
 ---
 slug: "trm-senay-ec"
-id: "TRM-ENG-42317"
+id: "TRM-ENG-56846"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Senay EC"

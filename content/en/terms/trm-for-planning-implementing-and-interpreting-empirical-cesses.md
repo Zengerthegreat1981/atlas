@@ -1,6 +1,6 @@
 ---
 slug: "trm-for-planning-implementing-and-interpreting-empirical-cesses"
-id: "TRM-ENG-35028"
+id: "TRM-ENG-64086"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "for planning, implementing, and interpreting empirical cesses"

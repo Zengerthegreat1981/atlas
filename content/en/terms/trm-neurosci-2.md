@@ -1,6 +1,6 @@
 ---
 slug: "trm-neurosci-2"
-id: "TRM-ENG-47895"
+id: "TRM-ENG-62424"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Neurosci 2"

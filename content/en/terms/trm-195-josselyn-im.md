@@ -1,6 +1,6 @@
 ---
 slug: "trm-195-josselyn-im"
-id: "TRM-ENG-38683"
+id: "TRM-ENG-53212"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "195. Josselyn IM"

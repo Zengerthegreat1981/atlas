@@ -1,6 +1,6 @@
 ---
 slug: "trm-analogue"
-id: "TRM-ENG-52046"
+id: "TRM-ENG-66575"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Analogue"

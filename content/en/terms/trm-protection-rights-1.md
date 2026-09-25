@@ -1,6 +1,6 @@
 ---
 slug: "trm-protection-rights-1"
-id: "TRM-ENG-47157"
+id: "TRM-ENG-61686"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Protection rights, 1"

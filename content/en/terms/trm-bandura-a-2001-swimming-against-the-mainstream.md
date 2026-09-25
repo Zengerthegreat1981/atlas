@@ -1,6 +1,6 @@
 ---
 slug: "trm-bandura-a-2001-swimming-against-the-mainstream"
-id: "TRM-ENG-37665"
+id: "TRM-ENG-66723"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bandura, A. (2001). Swimming against the mainstream"

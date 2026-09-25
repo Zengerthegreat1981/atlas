@@ -1,6 +1,6 @@
 ---
 slug: "trm-riculum"
-id: "TRM-ENG-35291"
+id: "TRM-ENG-64349"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "riculum"

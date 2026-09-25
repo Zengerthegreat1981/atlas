@@ -1,6 +1,6 @@
 ---
 slug: "trm-recovered-memory-therapy-2"
-id: "TRM-ENG-51779"
+id: "TRM-ENG-66308"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "recovered memory therapy, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-affecting-education-5th-ed-dayton-oh"
-id: "TRM-ENG-47556"
+id: "TRM-ENG-62085"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "affecting education (5th ed.). Dayton, OH"

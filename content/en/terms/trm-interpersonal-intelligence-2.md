@@ -1,6 +1,6 @@
 ---
 slug: "trm-interpersonal-intelligence-2"
-id: "TRM-ENG-46810"
+id: "TRM-ENG-61339"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Interpersonal intelligence, 2"

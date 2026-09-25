@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-vocational-and-educational-counseling"
-id: "TRM-ENG-35181"
+id: "TRM-ENG-64239"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of vocational and educational counseling"

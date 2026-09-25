@@ -1,6 +1,6 @@
 ---
 slug: "trm-straus-a-l-and-glaser-b-g-anguish"
-id: "TRM-ENG-44651"
+id: "TRM-ENG-59180"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Straus, A. L., and Glaser, B. G., Anguish"

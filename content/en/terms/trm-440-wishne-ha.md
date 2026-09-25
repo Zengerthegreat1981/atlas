@@ -1,6 +1,6 @@
 ---
 slug: "trm-440-wishne-ha"
-id: "TRM-ENG-39030"
+id: "TRM-ENG-53559"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "440. Wishne HA"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-gendlin-e-t-1978-focussing-new-york"
-id: "TRM-ENG-48998"
+id: "TRM-ENG-63527"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gendlin, E. T. (1978). Focussing. New York"

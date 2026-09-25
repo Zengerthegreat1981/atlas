@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychology78107126-niaii"
-id: "TRM-ENG-49124"
+id: "TRM-ENG-63653"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychology,78,107±126. nia,II"

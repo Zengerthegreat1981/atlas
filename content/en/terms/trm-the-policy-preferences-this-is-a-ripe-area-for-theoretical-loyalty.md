@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-policy-preferences-this-is-a-ripe-area-for-theoretical-loyalty"
-id: "TRM-ENG-35381"
+id: "TRM-ENG-49910"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the policy preferences. This is a ripe area for theoretical loyalty"

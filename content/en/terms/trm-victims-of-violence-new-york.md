@@ -1,6 +1,6 @@
 ---
 slug: "trm-victims-of-violence-new-york"
-id: "TRM-ENG-42122"
+id: "TRM-ENG-56651"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "victims of violence. New York"

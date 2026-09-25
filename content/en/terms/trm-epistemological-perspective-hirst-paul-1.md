@@ -1,6 +1,6 @@
 ---
 slug: "trm-epistemological-perspective-hirst-paul-1"
-id: "TRM-ENG-47970"
+id: "TRM-ENG-62499"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "epistemological perspective, Hirst, Paul, 1"

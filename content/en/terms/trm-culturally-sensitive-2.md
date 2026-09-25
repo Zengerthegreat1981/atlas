@@ -1,6 +1,6 @@
 ---
 slug: "trm-culturally-sensitive-2"
-id: "TRM-ENG-47853"
+id: "TRM-ENG-62382"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "culturally sensitive, 2"

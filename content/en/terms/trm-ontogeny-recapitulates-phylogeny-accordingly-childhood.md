@@ -1,6 +1,6 @@
 ---
 slug: "trm-ontogeny-recapitulates-phylogeny-accordingly-childhood"
-id: "TRM-ENG-46147"
+id: "TRM-ENG-60676"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(“ontogeny recapitulates phylogeny”). Accordingly, childhood"

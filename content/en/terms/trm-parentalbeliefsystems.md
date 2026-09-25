@@ -1,6 +1,6 @@
 ---
 slug: "trm-parentalbeliefsystems"
-id: "TRM-ENG-37148"
+id: "TRM-ENG-66206"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Parentalbeliefsystems"

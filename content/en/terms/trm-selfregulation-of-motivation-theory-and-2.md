@@ -1,6 +1,6 @@
 ---
 slug: "trm-selfregulation-of-motivation-theory-and-2"
-id: "TRM-ENG-41616"
+id: "TRM-ENG-56145"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "self-regulation of motivation theory and, 2"

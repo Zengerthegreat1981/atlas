@@ -1,6 +1,6 @@
 ---
 slug: "trm-robinson-ds-nies-a-ravaria-cl-et-al"
-id: "TRM-ENG-42138"
+id: "TRM-ENG-56667"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Robinson DS, Nies A, Ravaria CL, et al"

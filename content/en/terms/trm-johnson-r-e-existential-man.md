@@ -1,6 +1,6 @@
 ---
 slug: "trm-johnson-r-e-existential-man"
-id: "TRM-ENG-44456"
+id: "TRM-ENG-58985"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Johnson, R. E., Existential Man"

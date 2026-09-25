@@ -1,6 +1,6 @@
 ---
 slug: "trm-educational-philosophy-london-england"
-id: "TRM-ENG-47940"
+id: "TRM-ENG-62469"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "educational philosophy. London, England"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-kauffman-s-1996-at-home-in-the-universe"
-id: "TRM-ENG-46859"
+id: "TRM-ENG-61388"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kauffman, S. (1996). At home in the universe"

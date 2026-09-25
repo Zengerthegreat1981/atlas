@@ -1,6 +1,6 @@
 ---
 slug: "trm-zygon"
-id: "TRM-ENG-45818"
+id: "TRM-ENG-60347"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Zygon"

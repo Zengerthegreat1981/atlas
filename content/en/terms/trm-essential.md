@@ -1,6 +1,6 @@
 ---
 slug: "trm-essential"
-id: "TRM-ENG-45011"
+id: "TRM-ENG-59540"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "essential"

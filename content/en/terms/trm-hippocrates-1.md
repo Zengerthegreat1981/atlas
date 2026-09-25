@@ -1,6 +1,6 @@
 ---
 slug: "trm-hippocrates-1"
-id: "TRM-ENG-50532"
+id: "TRM-ENG-65061"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hippocrates, 1"

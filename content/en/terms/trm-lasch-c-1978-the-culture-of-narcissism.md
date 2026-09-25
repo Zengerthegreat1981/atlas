@@ -1,6 +1,6 @@
 ---
 slug: "trm-lasch-c-1978-the-culture-of-narcissism"
-id: "TRM-ENG-35803"
+id: "TRM-ENG-50332"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lasch, C. (1978). The culture of narcissism"

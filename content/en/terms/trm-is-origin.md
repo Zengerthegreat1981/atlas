@@ -1,6 +1,6 @@
 ---
 slug: "trm-is-origin"
-id: "TRM-ENG-36334"
+id: "TRM-ENG-65392"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "is origin"

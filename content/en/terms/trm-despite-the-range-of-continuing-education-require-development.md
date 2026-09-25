@@ -1,6 +1,6 @@
 ---
 slug: "trm-despite-the-range-of-continuing-education-require-development"
-id: "TRM-ENG-37948"
+id: "TRM-ENG-67006"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Despite the range of continuing education require- development"

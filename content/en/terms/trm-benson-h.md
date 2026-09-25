@@ -1,6 +1,6 @@
 ---
 slug: "trm-benson-h"
-id: "TRM-ENG-39881"
+id: "TRM-ENG-54410"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Benson H"

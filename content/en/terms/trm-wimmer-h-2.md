@@ -1,6 +1,6 @@
 ---
 slug: "trm-wimmer-h-2"
-id: "TRM-ENG-47496"
+id: "TRM-ENG-62025"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wimmer, H., 2"

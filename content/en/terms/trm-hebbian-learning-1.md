@@ -1,6 +1,6 @@
 ---
 slug: "trm-hebbian-learning-1"
-id: "TRM-ENG-44523"
+id: "TRM-ENG-59052"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hebbian learning, 1"

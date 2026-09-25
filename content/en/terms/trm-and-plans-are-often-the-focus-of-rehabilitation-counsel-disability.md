@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-plans-are-often-the-focus-of-rehabilitation-counsel-disability"
-id: "TRM-ENG-39187"
+id: "TRM-ENG-53716"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and plans are often the focus of rehabilitation counsel- disability"

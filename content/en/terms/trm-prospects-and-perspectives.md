@@ -1,6 +1,6 @@
 ---
 slug: "trm-prospects-and-perspectives"
-id: "TRM-ENG-44804"
+id: "TRM-ENG-59333"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, “Prospects and Perspectives"

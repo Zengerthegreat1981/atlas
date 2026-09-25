@@ -1,6 +1,6 @@
 ---
 slug: "trm-elementary-mental-organization-new-york-ny"
-id: "TRM-ENG-45084"
+id: "TRM-ENG-59613"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "elementary mental organization. New York, NY"

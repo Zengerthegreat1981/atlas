@@ -1,6 +1,6 @@
 ---
 slug: "trm-hermeneutics-phenomenological-therapy-2"
-id: "TRM-ENG-50528"
+id: "TRM-ENG-65057"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hermeneutics, phenomenological therapy, 2"

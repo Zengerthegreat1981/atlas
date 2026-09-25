@@ -1,6 +1,6 @@
 ---
 slug: "trm-g-w-nishijima-trans-rhinebeck-ny"
-id: "TRM-ENG-46120"
+id: "TRM-ENG-60649"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(G. W. Nishijima, Trans.). Rhinebeck, NY"

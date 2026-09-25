@@ -1,6 +1,6 @@
 ---
 slug: "trm-knowledge-2"
-id: "TRM-ENG-48255"
+id: "TRM-ENG-62784"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "knowledge, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-are-not-entertained-simultaneously"
-id: "TRM-ENG-36161"
+id: "TRM-ENG-65219"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "are not entertained simultaneously"

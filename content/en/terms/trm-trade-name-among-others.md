@@ -1,6 +1,6 @@
 ---
 slug: "trm-trade-name-among-others"
-id: "TRM-ENG-44162"
+id: "TRM-ENG-58691"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "trade name (among others)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-prehn-k-schulze-l-rossmann-s-et-al"
-id: "TRM-ENG-47944"
+id: "TRM-ENG-62473"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Prehn K, Schulze L, Rossmann S, et al"

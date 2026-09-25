@@ -1,6 +1,6 @@
 ---
 slug: "trm-dren"
-id: "TRM-ENG-36382"
+id: "TRM-ENG-65440"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dren"

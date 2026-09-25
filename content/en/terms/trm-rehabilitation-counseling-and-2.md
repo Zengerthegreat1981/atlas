@@ -1,6 +1,6 @@
 ---
 slug: "trm-rehabilitation-counseling-and-2"
-id: "TRM-ENG-41460"
+id: "TRM-ENG-55989"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rehabilitation counseling and, 2"

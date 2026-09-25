@@ -1,6 +1,6 @@
 ---
 slug: "trm-facts"
-id: "TRM-ENG-48018"
+id: "TRM-ENG-62547"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "facts"

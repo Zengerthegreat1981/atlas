@@ -1,6 +1,6 @@
 ---
 slug: "trm-mitted-from-one-generation-to-the-next-in-families-ethnologue"
-id: "TRM-ENG-48356"
+id: "TRM-ENG-62885"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mitted from one generation to the next, in families Ethnologue"

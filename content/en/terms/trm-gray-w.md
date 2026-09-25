@@ -1,6 +1,6 @@
 ---
 slug: "trm-gray-w"
-id: "TRM-ENG-40795"
+id: "TRM-ENG-55324"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gray W"

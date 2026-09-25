@@ -1,6 +1,6 @@
 ---
 slug: "trm-fellatio"
-id: "TRM-ENG-52182"
+id: "TRM-ENG-66711"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fellatio"

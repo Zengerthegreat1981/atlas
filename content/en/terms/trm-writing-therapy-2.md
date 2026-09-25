@@ -1,6 +1,6 @@
 ---
 slug: "trm-writing-therapy-2"
-id: "TRM-ENG-51196"
+id: "TRM-ENG-65725"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Writing therapy, 2"

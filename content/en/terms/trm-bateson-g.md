@@ -1,6 +1,6 @@
 ---
 slug: "trm-bateson-g"
-id: "TRM-ENG-39824"
+id: "TRM-ENG-54353"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bateson G"

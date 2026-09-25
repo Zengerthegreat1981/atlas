@@ -1,6 +1,6 @@
 ---
 slug: "trm-my-feet-language-however-does-not-always-work-centrism"
-id: "TRM-ENG-48386"
+id: "TRM-ENG-62915"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "my feet. Language, however, does not always work centrism"

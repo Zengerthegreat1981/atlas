@@ -1,6 +1,6 @@
 ---
 slug: "trm-witchcraft"
-id: "TRM-ENG-52444"
+id: "TRM-ENG-66973"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Witchcraft"

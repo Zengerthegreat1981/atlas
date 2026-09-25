@@ -1,6 +1,6 @@
 ---
 slug: "trm-blum-eds-borderline-personality-disorder"
-id: "TRM-ENG-43392"
+id: "TRM-ENG-57921"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Blum (Eds.), Borderline personality disorder"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-nearanddistantlyrelatedpersons"
-id: "TRM-ENG-45964"
+id: "TRM-ENG-60493"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nearanddistantlyrelatedpersons"

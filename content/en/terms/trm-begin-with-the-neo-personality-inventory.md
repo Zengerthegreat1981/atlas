@@ -1,6 +1,6 @@
 ---
 slug: "trm-begin-with-the-neo-personality-inventory"
-id: "TRM-ENG-43625"
+id: "TRM-ENG-58154"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "begin with the NEO Personality Inventory"

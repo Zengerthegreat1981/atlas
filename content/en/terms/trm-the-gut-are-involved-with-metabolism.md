@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-gut-are-involved-with-metabolism"
-id: "TRM-ENG-35376"
+id: "TRM-ENG-64434"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the gut are involved with metabolism"

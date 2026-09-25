@@ -1,6 +1,6 @@
 ---
 slug: "trm-enrights1996obsessivecompulsivedisorder"
-id: "TRM-ENG-48972"
+id: "TRM-ENG-63501"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Enright,S.(1996).Obsessivecompulsivedisorder"

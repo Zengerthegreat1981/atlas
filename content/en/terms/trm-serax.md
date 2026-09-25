@@ -1,6 +1,6 @@
 ---
 slug: "trm-serax"
-id: "TRM-ENG-38521"
+id: "TRM-ENG-53050"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Serax"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-braudeconsistingofthreeelements"
-id: "TRM-ENG-36647"
+id: "TRM-ENG-65705"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Braude,consistingofthreeelements"

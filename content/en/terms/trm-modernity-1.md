@@ -1,6 +1,6 @@
 ---
 slug: "trm-modernity-1"
-id: "TRM-ENG-48364"
+id: "TRM-ENG-62893"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "modernity, 1"

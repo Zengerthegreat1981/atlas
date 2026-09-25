@@ -1,6 +1,6 @@
 ---
 slug: "trm-humanistic-psychology-defined-1"
-id: "TRM-ENG-50556"
+id: "TRM-ENG-65085"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Humanistic psychology, defined, 1"

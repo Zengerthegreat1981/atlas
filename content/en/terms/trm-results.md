@@ -1,6 +1,6 @@
 ---
 slug: "trm-results"
-id: "TRM-ENG-41527"
+id: "TRM-ENG-56056"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "results"

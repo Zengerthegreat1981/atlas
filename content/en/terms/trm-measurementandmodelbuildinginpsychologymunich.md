@@ -1,6 +1,6 @@
 ---
 slug: "trm-measurementandmodelbuildinginpsychologymunich"
-id: "TRM-ENG-37464"
+id: "TRM-ENG-66522"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "[Measurementandmodel-buildinginpsychology].Munich"

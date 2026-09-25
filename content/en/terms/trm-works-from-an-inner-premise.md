@@ -1,6 +1,6 @@
 ---
 slug: "trm-works-from-an-inner-premise"
-id: "TRM-ENG-45439"
+id: "TRM-ENG-59968"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "works from an inner premise"

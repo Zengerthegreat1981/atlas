@@ -1,6 +1,6 @@
 ---
 slug: "trm-sanity-in-the-classroom"
-id: "TRM-ENG-36950"
+id: "TRM-ENG-66008"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sanity in the classroom"

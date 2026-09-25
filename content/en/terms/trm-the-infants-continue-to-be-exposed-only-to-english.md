@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-infants-continue-to-be-exposed-only-to-english"
-id: "TRM-ENG-37117"
+id: "TRM-ENG-66175"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the infants continue to be exposed only to English"

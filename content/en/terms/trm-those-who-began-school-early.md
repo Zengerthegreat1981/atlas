@@ -1,6 +1,6 @@
 ---
 slug: "trm-those-who-began-school-early"
-id: "TRM-ENG-35391"
+id: "TRM-ENG-49920"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "those who began school early"

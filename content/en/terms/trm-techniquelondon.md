@@ -1,6 +1,6 @@
 ---
 slug: "trm-techniquelondon"
-id: "TRM-ENG-49737"
+id: "TRM-ENG-64266"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "technique.London"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-barkley-russell-1"
-id: "TRM-ENG-37668"
+id: "TRM-ENG-52197"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Barkley, Russell, 1"

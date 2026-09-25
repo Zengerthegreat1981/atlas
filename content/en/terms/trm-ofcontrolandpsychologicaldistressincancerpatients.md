@@ -1,6 +1,6 @@
 ---
 slug: "trm-ofcontrolandpsychologicaldistressincancerpatients"
-id: "TRM-ENG-47163"
+id: "TRM-ENG-61692"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ofcontrolandpsychologicaldistressincancerpatients"

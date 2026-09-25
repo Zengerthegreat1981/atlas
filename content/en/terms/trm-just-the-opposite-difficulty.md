@@ -1,6 +1,6 @@
 ---
 slug: "trm-just-the-opposite-difficulty"
-id: "TRM-ENG-34906"
+id: "TRM-ENG-63964"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "just the opposite difficulty"

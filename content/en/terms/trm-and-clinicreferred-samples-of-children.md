@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-clinicreferred-samples-of-children"
-id: "TRM-ENG-42628"
+id: "TRM-ENG-57157"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and clinic-referred samples of children"

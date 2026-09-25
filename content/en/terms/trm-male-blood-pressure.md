@@ -1,6 +1,6 @@
 ---
 slug: "trm-male-blood-pressure"
-id: "TRM-ENG-47089"
+id: "TRM-ENG-61618"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "male blood pressure"

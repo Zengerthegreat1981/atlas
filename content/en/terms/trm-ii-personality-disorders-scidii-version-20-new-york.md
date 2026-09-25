@@ -1,6 +1,6 @@
 ---
 slug: "trm-ii-personality-disorders-scidii-version-20-new-york"
-id: "TRM-ENG-35758"
+id: "TRM-ENG-50287"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "II Personality Disorders (SCID-II, Version 2.0). New York"

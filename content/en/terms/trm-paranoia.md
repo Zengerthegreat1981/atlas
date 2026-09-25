@@ -1,6 +1,6 @@
 ---
 slug: "trm-paranoia"
-id: "TRM-ENG-44160"
+id: "TRM-ENG-58689"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "paranoia"

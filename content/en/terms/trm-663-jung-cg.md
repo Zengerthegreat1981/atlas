@@ -1,6 +1,6 @@
 ---
 slug: "trm-663-jung-cg"
-id: "TRM-ENG-39292"
+id: "TRM-ENG-53821"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "663. Jung CG"

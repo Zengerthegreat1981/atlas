@@ -1,6 +1,6 @@
 ---
 slug: "trm-gi-bill-where-in-his-own-words-he-gained-a-new-ity"
-id: "TRM-ENG-36828"
+id: "TRM-ENG-51357"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "G.I. bill, where in his own words, he gained a “new ity"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-schnider-a-2009-the-confabulating-mind"
-id: "TRM-ENG-44749"
+id: "TRM-ENG-59278"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schnider, A. (2009). The confabulating mind"

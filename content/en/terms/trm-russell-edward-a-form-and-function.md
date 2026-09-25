@@ -1,6 +1,6 @@
 ---
 slug: "trm-russell-edward-a-form-and-function"
-id: "TRM-ENG-44611"
+id: "TRM-ENG-59140"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Russell, Edward A. Form and Function"

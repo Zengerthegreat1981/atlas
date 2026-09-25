@@ -1,6 +1,6 @@
 ---
 slug: "trm-eds-2011-new-york-ny"
-id: "TRM-ENG-35151"
+id: "TRM-ENG-49680"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Eds.), 2011, New York, NY"

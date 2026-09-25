@@ -1,6 +1,6 @@
 ---
 slug: "trm-assumptions-of-4"
-id: "TRM-ENG-39280"
+id: "TRM-ENG-53809"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "assumptions of, 4"

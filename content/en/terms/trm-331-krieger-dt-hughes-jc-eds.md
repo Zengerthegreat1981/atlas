@@ -1,6 +1,6 @@
 ---
 slug: "trm-331-krieger-dt-hughes-jc-eds"
-id: "TRM-ENG-38896"
+id: "TRM-ENG-53425"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "331. Krieger DT, Hughes JC (eds)"

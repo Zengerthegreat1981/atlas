@@ -1,6 +1,6 @@
 ---
 slug: "trm-practice-has-occurred-in-three-distinct-stages"
-id: "TRM-ENG-36888"
+id: "TRM-ENG-51417"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "practice has occurred in three distinct stages"

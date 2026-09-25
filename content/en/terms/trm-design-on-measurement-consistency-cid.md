@@ -1,6 +1,6 @@
 ---
 slug: "trm-design-on-measurement-consistency-cid"
-id: "TRM-ENG-35759"
+id: "TRM-ENG-50288"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "design on measurement consistency. (cid"

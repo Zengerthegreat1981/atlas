@@ -1,6 +1,6 @@
 ---
 slug: "trm-helping-skillswritten-by-2"
-id: "TRM-ENG-38162"
+id: "TRM-ENG-52691"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Helping Skillswritten by, 2"

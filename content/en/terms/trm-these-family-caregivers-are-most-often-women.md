@@ -1,6 +1,6 @@
 ---
 slug: "trm-these-family-caregivers-are-most-often-women"
-id: "TRM-ENG-36017"
+id: "TRM-ENG-50546"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "These family caregivers are most often women"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-the-new-york-academy-of-sciences-new-york"
-id: "TRM-ENG-36790"
+id: "TRM-ENG-65848"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of the New York Academy of Sciences. New York"

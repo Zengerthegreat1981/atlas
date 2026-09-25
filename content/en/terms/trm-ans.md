@@ -1,6 +1,6 @@
 ---
 slug: "trm-ans"
-id: "TRM-ENG-49278"
+id: "TRM-ENG-63807"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ans"

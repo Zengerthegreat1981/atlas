@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-personality"
-id: "TRM-ENG-43060"
+id: "TRM-ENG-57589"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of personality"

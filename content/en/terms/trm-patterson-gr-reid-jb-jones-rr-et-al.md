@@ -1,6 +1,6 @@
 ---
 slug: "trm-patterson-gr-reid-jb-jones-rr-et-al"
-id: "TRM-ENG-41938"
+id: "TRM-ENG-56467"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Patterson GR, Reid JB, Jones, RR, et al"

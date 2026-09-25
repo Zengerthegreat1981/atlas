@@ -1,6 +1,6 @@
 ---
 slug: "trm-pulsivity"
-id: "TRM-ENG-48552"
+id: "TRM-ENG-63081"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pulsivity"

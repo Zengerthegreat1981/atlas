@@ -1,6 +1,6 @@
 ---
 slug: "trm-233-ollendick-t-ed"
-id: "TRM-ENG-38756"
+id: "TRM-ENG-53285"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "233. Ollendick T (ed)"

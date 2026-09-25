@@ -1,6 +1,6 @@
 ---
 slug: "trm-bifurcation-1"
-id: "TRM-ENG-50166"
+id: "TRM-ENG-64695"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bifurcation, 1"

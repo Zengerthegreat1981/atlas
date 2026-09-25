@@ -1,6 +1,6 @@
 ---
 slug: "trm-an-approach-commonly-known-as-the-five-as"
-id: "TRM-ENG-39150"
+id: "TRM-ENG-53679"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "an approach commonly known as the “Five A’s”"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-d-schwartz"
-id: "TRM-ENG-40290"
+id: "TRM-ENG-54819"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "D. Schwartz"

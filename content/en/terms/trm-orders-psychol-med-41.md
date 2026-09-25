@@ -1,6 +1,6 @@
 ---
 slug: "trm-orders-psychol-med-41"
-id: "TRM-ENG-48507"
+id: "TRM-ENG-63036"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "orders. Psychol Med 41"

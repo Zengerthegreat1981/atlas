@@ -1,6 +1,6 @@
 ---
 slug: "trm-tex-current-biology-15-13011307-doi"
-id: "TRM-ENG-36159"
+id: "TRM-ENG-65217"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tex. Current Biology, 15, 1301–1307. doi"

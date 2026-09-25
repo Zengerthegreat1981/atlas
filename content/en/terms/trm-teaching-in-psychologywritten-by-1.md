@@ -1,6 +1,6 @@
 ---
 slug: "trm-teaching-in-psychologywritten-by-1"
-id: "TRM-ENG-38866"
+id: "TRM-ENG-53395"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Teaching in Psychologywritten by, 1"

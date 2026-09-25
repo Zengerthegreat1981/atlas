@@ -1,6 +1,6 @@
 ---
 slug: "trm-thompson-ce"
-id: "TRM-ENG-42588"
+id: "TRM-ENG-57117"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Thompson CE"

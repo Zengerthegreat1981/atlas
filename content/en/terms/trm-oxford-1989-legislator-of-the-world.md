@@ -1,6 +1,6 @@
 ---
 slug: "trm-oxford-1989-legislator-of-the-world"
-id: "TRM-ENG-45758"
+id: "TRM-ENG-60287"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Oxford, 1989; ‘Legislator of the World’"

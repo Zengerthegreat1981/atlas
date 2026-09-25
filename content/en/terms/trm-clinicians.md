@@ -1,6 +1,6 @@
 ---
 slug: "trm-clinicians"
-id: "TRM-ENG-44071"
+id: "TRM-ENG-58600"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "clinicians"

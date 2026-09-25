@@ -1,6 +1,6 @@
 ---
 slug: "trm-trials"
-id: "TRM-ENG-37234"
+id: "TRM-ENG-51763"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "trials"

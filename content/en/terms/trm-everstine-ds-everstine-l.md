@@ -1,6 +1,6 @@
 ---
 slug: "trm-everstine-ds-everstine-l"
-id: "TRM-ENG-40480"
+id: "TRM-ENG-55009"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Everstine DS, Everstine L"

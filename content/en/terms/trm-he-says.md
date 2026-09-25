@@ -1,6 +1,6 @@
 ---
 slug: "trm-he-says"
-id: "TRM-ENG-46104"
+id: "TRM-ENG-60633"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "he says"

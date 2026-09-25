@@ -1,6 +1,6 @@
 ---
 slug: "trm-empiricism-19141918"
-id: "TRM-ENG-46576"
+id: "TRM-ENG-61105"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Empiricism (1914–1918)"

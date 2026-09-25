@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-healthamityville-ny"
-id: "TRM-ENG-36552"
+id: "TRM-ENG-65610"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in health.Amityville, NY"

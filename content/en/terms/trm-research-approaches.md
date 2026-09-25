@@ -1,6 +1,6 @@
 ---
 slug: "trm-research-approaches"
-id: "TRM-ENG-45475"
+id: "TRM-ENG-60004"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "research approaches"

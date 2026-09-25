@@ -1,6 +1,6 @@
 ---
 slug: "trm-paul-g-l-behavior-modification-research"
-id: "TRM-ENG-44571"
+id: "TRM-ENG-59100"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Paul, G. L., “Behavior Modification Research"

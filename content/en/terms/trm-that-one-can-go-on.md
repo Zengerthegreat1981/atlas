@@ -1,6 +1,6 @@
 ---
 slug: "trm-that-one-can-go-on"
-id: "TRM-ENG-48818"
+id: "TRM-ENG-63347"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "that one “can go on”"

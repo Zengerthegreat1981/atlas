@@ -1,6 +1,6 @@
 ---
 slug: "trm-reinforcement-relationshoips-in-chronicpainsyndrome"
-id: "TRM-ENG-49681"
+id: "TRM-ENG-64210"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reinforcement relationshoips in chronicpainsyndrome"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-s-n-2006-social-behavior-in-everyday-life"
-id: "TRM-ENG-43551"
+id: "TRM-ENG-58080"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "S. N. (2006). Social behavior in everyday life"

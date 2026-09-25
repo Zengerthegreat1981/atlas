@@ -1,6 +1,6 @@
 ---
 slug: "trm-trna"
-id: "TRM-ENG-37057"
+id: "TRM-ENG-66115"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tRNA"

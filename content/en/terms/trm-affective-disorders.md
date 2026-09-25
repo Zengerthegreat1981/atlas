@@ -1,6 +1,6 @@
 ---
 slug: "trm-affective-disorders"
-id: "TRM-ENG-49240"
+id: "TRM-ENG-63769"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "affective disorders"

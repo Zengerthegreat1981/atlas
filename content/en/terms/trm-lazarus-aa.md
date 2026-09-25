@@ -1,6 +1,6 @@
 ---
 slug: "trm-lazarus-aa"
-id: "TRM-ENG-41373"
+id: "TRM-ENG-55902"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lazarus AA"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-2-if-married-age-of-mate"
-id: "TRM-ENG-38700"
+id: "TRM-ENG-53229"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "2. If married, age of mate"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-apnea-can-strike-anyone-at-any-age"
-id: "TRM-ENG-34746"
+id: "TRM-ENG-63804"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "apnea can strike anyone at any age"

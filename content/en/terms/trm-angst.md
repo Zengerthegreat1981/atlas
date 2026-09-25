@@ -1,6 +1,6 @@
 ---
 slug: "trm-angst"
-id: "TRM-ENG-52047"
+id: "TRM-ENG-66576"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Angst"

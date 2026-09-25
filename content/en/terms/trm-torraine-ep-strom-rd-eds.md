@@ -1,6 +1,6 @@
 ---
 slug: "trm-torraine-ep-strom-rd-eds"
-id: "TRM-ENG-42609"
+id: "TRM-ENG-57138"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Torraine EP, Strom RD (eds)"

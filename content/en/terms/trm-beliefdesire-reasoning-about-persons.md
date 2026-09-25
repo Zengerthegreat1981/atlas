@@ -1,6 +1,6 @@
 ---
 slug: "trm-beliefdesire-reasoning-about-persons"
-id: "TRM-ENG-34899"
+id: "TRM-ENG-63957"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "belief-desire reasoning about persons"

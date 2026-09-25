@@ -1,6 +1,6 @@
 ---
 slug: "trm-sensorimotor-ced-style-and-assessment-of-2"
-id: "TRM-ENG-41628"
+id: "TRM-ENG-56157"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sensorimotor CED style and, assessment of, 2"

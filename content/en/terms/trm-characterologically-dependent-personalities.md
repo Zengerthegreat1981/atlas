@@ -1,6 +1,6 @@
 ---
 slug: "trm-characterologically-dependent-personalities"
-id: "TRM-ENG-42991"
+id: "TRM-ENG-57520"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "characterologically dependent personalities"

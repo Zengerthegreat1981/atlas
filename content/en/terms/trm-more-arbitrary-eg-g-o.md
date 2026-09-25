@@ -1,6 +1,6 @@
 ---
 slug: "trm-more-arbitrary-eg-g-o"
-id: "TRM-ENG-45314"
+id: "TRM-ENG-59843"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "more arbitrary (e.g., g o"

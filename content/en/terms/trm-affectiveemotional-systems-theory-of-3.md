@@ -1,6 +1,6 @@
 ---
 slug: "trm-affectiveemotional-systems-theory-of-3"
-id: "TRM-ENG-39127"
+id: "TRM-ENG-53656"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "affective/emotional systems theory of, 3"

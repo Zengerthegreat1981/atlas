@@ -1,6 +1,6 @@
 ---
 slug: "trm-der-psychiatr-j-univ-ott-15"
-id: "TRM-ENG-48298"
+id: "TRM-ENG-62827"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "der. Psychiatr J Univ Ott 15"

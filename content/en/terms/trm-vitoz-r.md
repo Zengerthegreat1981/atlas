@@ -1,6 +1,6 @@
 ---
 slug: "trm-vitoz-r"
-id: "TRM-ENG-42680"
+id: "TRM-ENG-57209"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Vitoz R"

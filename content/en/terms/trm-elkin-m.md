@@ -1,6 +1,6 @@
 ---
 slug: "trm-elkin-m"
-id: "TRM-ENG-40430"
+id: "TRM-ENG-54959"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Elkin M"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-greenbaum-h"
-id: "TRM-ENG-40806"
+id: "TRM-ENG-55335"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Greenbaum H"

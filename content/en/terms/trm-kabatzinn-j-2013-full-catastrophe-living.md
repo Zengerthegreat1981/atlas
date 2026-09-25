@@ -1,6 +1,6 @@
 ---
 slug: "trm-kabatzinn-j-2013-full-catastrophe-living"
-id: "TRM-ENG-50621"
+id: "TRM-ENG-65150"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kabat-Zinn, J. (2013). Full catastrophe living"

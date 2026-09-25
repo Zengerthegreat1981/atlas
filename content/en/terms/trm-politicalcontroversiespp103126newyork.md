@@ -1,6 +1,6 @@
 ---
 slug: "trm-politicalcontroversiespp103126newyork"
-id: "TRM-ENG-38100"
+id: "TRM-ENG-52629"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "politicalcontroversies(pp.103–126).NewYork"

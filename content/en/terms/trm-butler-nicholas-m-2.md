@@ -1,6 +1,6 @@
 ---
 slug: "trm-butler-nicholas-m-2"
-id: "TRM-ENG-46350"
+id: "TRM-ENG-60879"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Butler, Nicholas M., 2"

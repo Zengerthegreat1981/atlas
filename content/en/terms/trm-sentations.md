@@ -1,6 +1,6 @@
 ---
 slug: "trm-sentations"
-id: "TRM-ENG-45509"
+id: "TRM-ENG-60038"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sentations"

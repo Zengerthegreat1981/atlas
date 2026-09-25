@@ -1,6 +1,6 @@
 ---
 slug: "trm-o-sylvan-s-tornkiris-ev-demos-ed-new-york"
-id: "TRM-ENG-35161"
+id: "TRM-ENG-64219"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "o] Sylvan S. Tornkiris (E,.V . Demos, Ed.). New York"

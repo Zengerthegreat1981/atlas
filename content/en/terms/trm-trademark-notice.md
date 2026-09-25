@@ -1,6 +1,6 @@
 ---
 slug: "trm-trademark-notice"
-id: "TRM-ENG-45490"
+id: "TRM-ENG-60019"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Trademark notice"

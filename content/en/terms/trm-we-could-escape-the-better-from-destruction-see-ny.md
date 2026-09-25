@@ -1,6 +1,6 @@
 ---
 slug: "trm-we-could-escape-the-better-from-destruction-see-ny"
-id: "TRM-ENG-49030"
+id: "TRM-ENG-63559"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "we could “escape the better from destruction” (see NY"

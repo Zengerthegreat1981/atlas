@@ -1,6 +1,6 @@
 ---
 slug: "trm-role-of-racereligion-and-national-originsnew-york"
-id: "TRM-ENG-41542"
+id: "TRM-ENG-56071"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "role of race,religion and national origins.New York"

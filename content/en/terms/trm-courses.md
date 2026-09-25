@@ -1,6 +1,6 @@
 ---
 slug: "trm-courses"
-id: "TRM-ENG-36318"
+id: "TRM-ENG-50847"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "courses"

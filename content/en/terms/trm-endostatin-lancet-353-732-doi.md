@@ -1,6 +1,6 @@
 ---
 slug: "trm-endostatin-lancet-353-732-doi"
-id: "TRM-ENG-35779"
+id: "TRM-ENG-64837"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "endostatin? Lancet, 353, 732. doi"

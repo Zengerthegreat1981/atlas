@@ -1,6 +1,6 @@
 ---
 slug: "trm-brick-m"
-id: "TRM-ENG-40029"
+id: "TRM-ENG-54558"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brick M"

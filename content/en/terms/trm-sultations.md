@@ -1,6 +1,6 @@
 ---
 slug: "trm-sultations"
-id: "TRM-ENG-35351"
+id: "TRM-ENG-49880"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sultations"

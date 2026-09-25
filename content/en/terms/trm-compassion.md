@@ -1,6 +1,6 @@
 ---
 slug: "trm-compassion"
-id: "TRM-ENG-44950"
+id: "TRM-ENG-59479"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "compassion"

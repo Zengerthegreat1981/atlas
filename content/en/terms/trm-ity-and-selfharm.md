@@ -1,6 +1,6 @@
 ---
 slug: "trm-ity-and-selfharm"
-id: "TRM-ENG-48419"
+id: "TRM-ENG-62948"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ity, and self-harm"

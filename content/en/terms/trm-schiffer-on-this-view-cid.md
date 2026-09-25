@@ -1,6 +1,6 @@
 ---
 slug: "trm-schiffer-on-this-view-cid"
-id: "TRM-ENG-44748"
+id: "TRM-ENG-59277"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schiffer. On this view, (cid"

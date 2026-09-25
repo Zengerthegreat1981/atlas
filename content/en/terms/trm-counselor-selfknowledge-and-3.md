@@ -1,6 +1,6 @@
 ---
 slug: "trm-counselor-selfknowledge-and-3"
-id: "TRM-ENG-39767"
+id: "TRM-ENG-54296"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "counselor self-knowledge and, 3"

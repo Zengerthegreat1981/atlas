@@ -1,6 +1,6 @@
 ---
 slug: "trm-phy-of-social-science"
-id: "TRM-ENG-45985"
+id: "TRM-ENG-60514"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "phy of Social Science"

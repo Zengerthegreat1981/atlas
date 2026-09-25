@@ -1,6 +1,6 @@
 ---
 slug: "trm-phillips-e-l-1988-patient-compliance"
-id: "TRM-ENG-46655"
+id: "TRM-ENG-61184"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Phillips, E. L. (1988). Patient compliance"

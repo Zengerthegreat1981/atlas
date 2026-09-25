@@ -1,6 +1,6 @@
 ---
 slug: "trm-through-two-components"
-id: "TRM-ENG-44219"
+id: "TRM-ENG-58748"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "through two components"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-controversy-regarding-2"
-id: "TRM-ENG-39701"
+id: "TRM-ENG-54230"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "controversy regarding, 2"

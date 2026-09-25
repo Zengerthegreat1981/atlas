@@ -1,6 +1,6 @@
 ---
 slug: "trm-reyes-m-buitelaar-j-toren-p-et-al"
-id: "TRM-ENG-48013"
+id: "TRM-ENG-62542"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Reyes M, Buitelaar J, Toren P, et al"

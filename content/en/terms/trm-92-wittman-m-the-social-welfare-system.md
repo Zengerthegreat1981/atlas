@@ -1,6 +1,6 @@
 ---
 slug: "trm-92-wittman-m-the-social-welfare-system"
-id: "TRM-ENG-44238"
+id: "TRM-ENG-58767"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "92. Wittman, M., “The Social Welfare System"

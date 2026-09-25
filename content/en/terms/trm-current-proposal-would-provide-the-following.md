@@ -1,6 +1,6 @@
 ---
 slug: "trm-current-proposal-would-provide-the-following"
-id: "TRM-ENG-45046"
+id: "TRM-ENG-59575"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "current proposal would provide the following"

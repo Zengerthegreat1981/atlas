@@ -1,6 +1,6 @@
 ---
 slug: "trm-teo-p-1990-hysterectomy"
-id: "TRM-ENG-46738"
+id: "TRM-ENG-61267"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Teo, P. (1990). Hysterectomy"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychotherapy-washington-dc"
-id: "TRM-ENG-51770"
+id: "TRM-ENG-66299"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychotherapy. Washington, DC"

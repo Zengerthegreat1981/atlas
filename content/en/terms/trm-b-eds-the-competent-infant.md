@@ -1,6 +1,6 @@
 ---
 slug: "trm-b-eds-the-competent-infant"
-id: "TRM-ENG-44265"
+id: "TRM-ENG-58794"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "B. (Eds.), The Competent Infant"

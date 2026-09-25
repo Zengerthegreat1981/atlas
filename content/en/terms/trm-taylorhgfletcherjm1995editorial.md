@@ -1,6 +1,6 @@
 ---
 slug: "trm-taylorhgfletcherjm1995editorial"
-id: "TRM-ENG-46737"
+id: "TRM-ENG-61266"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Taylor,H.G.,&Fletcher,J.M.(1995).Editorial"

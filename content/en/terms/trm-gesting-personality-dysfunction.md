@@ -1,6 +1,6 @@
 ---
 slug: "trm-gesting-personality-dysfunction"
-id: "TRM-ENG-42856"
+id: "TRM-ENG-57385"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "gesting personality dysfunction"

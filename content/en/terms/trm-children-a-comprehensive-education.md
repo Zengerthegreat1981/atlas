@@ -1,6 +1,6 @@
 ---
 slug: "trm-children-a-comprehensive-education"
-id: "TRM-ENG-36272"
+id: "TRM-ENG-50801"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "children a comprehensive education"

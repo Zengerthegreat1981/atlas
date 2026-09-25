@@ -1,6 +1,6 @@
 ---
 slug: "trm-ekman-p-friesen-w-v-1975-u-nmasking-the-face"
-id: "TRM-ENG-44450"
+id: "TRM-ENG-58979"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ekman, P., & Friesen, W. V. (1975). U nmasking the face"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-doniger-s-ed"
-id: "TRM-ENG-40369"
+id: "TRM-ENG-54898"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Doniger S (ed)"

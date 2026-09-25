@@ -1,6 +1,6 @@
 ---
 slug: "trm-science-21-366371-doi"
-id: "TRM-ENG-35547"
+id: "TRM-ENG-64605"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Science, 21, 366–371. doi"

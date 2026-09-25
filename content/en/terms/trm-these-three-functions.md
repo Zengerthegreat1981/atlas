@@ -1,6 +1,6 @@
 ---
 slug: "trm-these-three-functions"
-id: "TRM-ENG-44030"
+id: "TRM-ENG-58559"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "These three functions"

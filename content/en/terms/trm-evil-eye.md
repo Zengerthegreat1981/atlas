@@ -1,6 +1,6 @@
 ---
 slug: "trm-evil-eye"
-id: "TRM-ENG-45810"
+id: "TRM-ENG-60339"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Evil Eye"

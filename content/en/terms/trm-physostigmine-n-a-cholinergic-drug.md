@@ -1,6 +1,6 @@
 ---
 slug: "trm-physostigmine-n-a-cholinergic-drug"
-id: "TRM-ENG-43801"
+id: "TRM-ENG-58330"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "physostigmine n. a cholinergic drug"

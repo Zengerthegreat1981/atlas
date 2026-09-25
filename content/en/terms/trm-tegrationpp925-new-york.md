@@ -1,6 +1,6 @@
 ---
 slug: "trm-tegrationpp925-new-york"
-id: "TRM-ENG-37071"
+id: "TRM-ENG-66129"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tegration(pp.9–25). New York"

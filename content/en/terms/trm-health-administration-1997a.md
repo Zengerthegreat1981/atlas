@@ -1,6 +1,6 @@
 ---
 slug: "trm-health-administration-1997a"
-id: "TRM-ENG-34714"
+id: "TRM-ENG-63772"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Health Administration, 1997a"

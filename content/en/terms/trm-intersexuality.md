@@ -1,6 +1,6 @@
 ---
 slug: "trm-intersexuality"
-id: "TRM-ENG-43999"
+id: "TRM-ENG-58528"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "INTERSEXUALITY."

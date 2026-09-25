@@ -1,6 +1,6 @@
 ---
 slug: "trm-as-a-dollar-suppose-one-buys-a-newspaper"
-id: "TRM-ENG-45844"
+id: "TRM-ENG-60373"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "as a dollar. Suppose one buys a newspaper"

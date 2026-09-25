@@ -1,6 +1,6 @@
 ---
 slug: "trm-onym-forautisticdisorder"
-id: "TRM-ENG-43779"
+id: "TRM-ENG-58308"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "onym forautisticdisorder."

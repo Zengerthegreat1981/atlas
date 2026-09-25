@@ -1,6 +1,6 @@
 ---
 slug: "trm-central-executive-processes-1"
-id: "TRM-ENG-44369"
+id: "TRM-ENG-58898"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Central executive processes, 1"

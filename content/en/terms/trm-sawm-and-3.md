@@ -1,6 +1,6 @@
 ---
 slug: "trm-sawm-and-3"
-id: "TRM-ENG-38727"
+id: "TRM-ENG-53256"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sawm and, 3"

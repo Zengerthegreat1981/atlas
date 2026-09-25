@@ -1,6 +1,6 @@
 ---
 slug: "trm-j-byrne-vol-ed-oxford-uk"
-id: "TRM-ENG-44258"
+id: "TRM-ENG-58787"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(J. Byrne, Vol. Ed.). Oxford, UK"

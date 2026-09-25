@@ -1,6 +1,6 @@
 ---
 slug: "trm-wright-state-university-1"
-id: "TRM-ENG-51195"
+id: "TRM-ENG-65724"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wright State University, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-c-shakiness"
-id: "TRM-ENG-42989"
+id: "TRM-ENG-57518"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "c. Shakiness"

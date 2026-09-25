@@ -1,6 +1,6 @@
 ---
 slug: "trm-ability-parameter-symbol"
-id: "TRM-ENG-45537"
+id: "TRM-ENG-60066"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ability parameter (symbol"

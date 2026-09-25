@@ -1,6 +1,6 @@
 ---
 slug: "trm-philosophicalpsychological"
-id: "TRM-ENG-37174"
+id: "TRM-ENG-66232"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Philosophical/Psychological"

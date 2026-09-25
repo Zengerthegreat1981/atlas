@@ -1,6 +1,6 @@
 ---
 slug: "trm-heider-fritz"
-id: "TRM-ENG-52211"
+id: "TRM-ENG-66740"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Heider, Fritz"

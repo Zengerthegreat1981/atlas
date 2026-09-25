@@ -1,6 +1,6 @@
 ---
 slug: "trm-velopmentnew-york"
-id: "TRM-ENG-37279"
+id: "TRM-ENG-66337"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "velopment.New York"

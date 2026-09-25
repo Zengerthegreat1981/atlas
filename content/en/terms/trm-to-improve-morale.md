@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-improve-morale"
-id: "TRM-ENG-36378"
+id: "TRM-ENG-50907"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to improve morale"

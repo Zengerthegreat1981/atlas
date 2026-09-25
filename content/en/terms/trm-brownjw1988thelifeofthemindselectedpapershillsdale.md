@@ -1,6 +1,6 @@
 ---
 slug: "trm-brownjw1988thelifeofthemindselectedpapershillsdale"
-id: "TRM-ENG-36657"
+id: "TRM-ENG-51186"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brown,J.W.(1988).Thelifeofthemind.Selectedpapers.Hillsdale"

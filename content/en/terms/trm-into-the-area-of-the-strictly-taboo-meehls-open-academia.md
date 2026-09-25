@@ -1,6 +1,6 @@
 ---
 slug: "trm-into-the-area-of-the-strictly-taboo-meehls-open-academia"
-id: "TRM-ENG-40634"
+id: "TRM-ENG-55163"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "into the area of the “strictly taboo.” Meehl’s open- academia"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-377-turner-sm-hersen-m"
-id: "TRM-ENG-38946"
+id: "TRM-ENG-53475"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "377. Turner SM, Hersen M"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-mental-disorders-in-america-available-online-url"
-id: "TRM-ENG-45892"
+id: "TRM-ENG-60421"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mental Disorders in America.” Available online. URL"

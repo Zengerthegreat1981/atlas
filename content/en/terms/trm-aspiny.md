@@ -1,6 +1,6 @@
 ---
 slug: "trm-aspiny"
-id: "TRM-ENG-34754"
+id: "TRM-ENG-63812"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "aspiny"

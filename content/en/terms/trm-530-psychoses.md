@@ -1,6 +1,6 @@
 ---
 slug: "trm-530-psychoses"
-id: "TRM-ENG-48854"
+id: "TRM-ENG-63383"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "530 Psychoses"

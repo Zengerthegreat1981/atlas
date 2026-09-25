@@ -1,6 +1,6 @@
 ---
 slug: "trm-neoanalyst"
-id: "TRM-ENG-52301"
+id: "TRM-ENG-66830"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Neoanalyst"

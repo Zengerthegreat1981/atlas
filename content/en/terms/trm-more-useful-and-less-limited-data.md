@@ -1,6 +1,6 @@
 ---
 slug: "trm-more-useful-and-less-limited-data"
-id: "TRM-ENG-35449"
+id: "TRM-ENG-64507"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "More useful and less limited data"

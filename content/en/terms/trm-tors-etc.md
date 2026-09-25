@@ -1,6 +1,6 @@
 ---
 slug: "trm-tors-etc"
-id: "TRM-ENG-35426"
+id: "TRM-ENG-64484"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tors. etc.)"

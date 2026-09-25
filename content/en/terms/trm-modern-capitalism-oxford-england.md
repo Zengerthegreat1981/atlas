@@ -1,6 +1,6 @@
 ---
 slug: "trm-modern-capitalism-oxford-england"
-id: "TRM-ENG-48358"
+id: "TRM-ENG-62887"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "modern capitalism. Oxford, England"

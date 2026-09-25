@@ -1,6 +1,6 @@
 ---
 slug: "trm-73-schneidman-e-s-the-case-of-el"
-id: "TRM-ENG-44231"
+id: "TRM-ENG-58760"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "73. Schneidman, E. S., “The Case of El"

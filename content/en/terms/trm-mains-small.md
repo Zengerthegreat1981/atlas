@@ -1,6 +1,6 @@
 ---
 slug: "trm-mains-small"
-id: "TRM-ENG-42982"
+id: "TRM-ENG-57511"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mains small"

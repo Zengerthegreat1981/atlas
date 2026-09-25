@@ -1,6 +1,6 @@
 ---
 slug: "trm-morita-therapy-2"
-id: "TRM-ENG-50762"
+id: "TRM-ENG-65291"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Morita therapy, 2"

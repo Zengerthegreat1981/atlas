@@ -1,6 +1,6 @@
 ---
 slug: "trm-transference-and-2"
-id: "TRM-ENG-42022"
+id: "TRM-ENG-56551"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "transference and, 2"

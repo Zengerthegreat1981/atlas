@@ -1,6 +1,6 @@
 ---
 slug: "trm-relevantinthepresentcontextfortworeasons"
-id: "TRM-ENG-38204"
+id: "TRM-ENG-52733"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "relevantinthepresentcontextfortworeasons"

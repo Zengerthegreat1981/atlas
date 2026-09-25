@@ -1,6 +1,6 @@
 ---
 slug: "trm-andmanagementnewyork"
-id: "TRM-ENG-46823"
+id: "TRM-ENG-61352"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "andmanagement.NewYork"

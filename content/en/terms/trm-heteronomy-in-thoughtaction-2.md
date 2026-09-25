@@ -1,6 +1,6 @@
 ---
 slug: "trm-heteronomy-in-thoughtaction-2"
-id: "TRM-ENG-46765"
+id: "TRM-ENG-61294"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Heteronomy, in thought/action, 2"

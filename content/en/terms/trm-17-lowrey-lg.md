@@ -1,6 +1,6 @@
 ---
 slug: "trm-17-lowrey-lg"
-id: "TRM-ENG-38649"
+id: "TRM-ENG-53178"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "17. Lowrey LG"

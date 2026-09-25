@@ -1,6 +1,6 @@
 ---
 slug: "trm-tisol-in-psychoneuroendocrine-research"
-id: "TRM-ENG-36208"
+id: "TRM-ENG-50737"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tisol in psychoneuroendocrine research"

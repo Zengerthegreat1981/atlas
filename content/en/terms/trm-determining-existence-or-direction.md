@@ -1,6 +1,6 @@
 ---
 slug: "trm-determining-existence-or-direction"
-id: "TRM-ENG-35362"
+id: "TRM-ENG-49891"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Determining Existence or Direction"

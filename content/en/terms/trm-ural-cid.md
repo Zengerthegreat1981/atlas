@@ -1,6 +1,6 @@
 ---
 slug: "trm-ural-cid"
-id: "TRM-ENG-38414"
+id: "TRM-ENG-52943"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ural (cid"

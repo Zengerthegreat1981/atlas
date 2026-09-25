@@ -1,6 +1,6 @@
 ---
 slug: "trm-colorado-springs"
-id: "TRM-ENG-43401"
+id: "TRM-ENG-57930"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Colorado Springs"

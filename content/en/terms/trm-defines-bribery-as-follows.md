@@ -1,6 +1,6 @@
 ---
 slug: "trm-defines-bribery-as-follows"
-id: "TRM-ENG-45678"
+id: "TRM-ENG-60207"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Defines bribery as follows"

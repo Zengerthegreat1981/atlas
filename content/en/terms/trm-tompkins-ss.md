@@ -1,6 +1,6 @@
 ---
 slug: "trm-tompkins-ss"
-id: "TRM-ENG-42606"
+id: "TRM-ENG-57135"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tompkins SS"

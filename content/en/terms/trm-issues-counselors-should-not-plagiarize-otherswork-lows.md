@@ -1,6 +1,6 @@
 ---
 slug: "trm-issues-counselors-should-not-plagiarize-otherswork-lows"
-id: "TRM-ENG-40650"
+id: "TRM-ENG-55179"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "issues. Counselors should not plagiarize others’work lows"

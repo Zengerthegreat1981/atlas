@@ -1,6 +1,6 @@
 ---
 slug: "trm-goal-consequently-instruction-did-not"
-id: "TRM-ENG-48081"
+id: "TRM-ENG-62610"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "goal. Consequently, “instruction” did not"

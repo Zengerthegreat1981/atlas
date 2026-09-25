@@ -1,6 +1,6 @@
 ---
 slug: "trm-ofpsychoanalysis-freudlondon"
-id: "TRM-ENG-38030"
+id: "TRM-ENG-52559"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ofPsycho-Analysis. Freud.London"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-popularizingaddressedimportantpsychologicaltopics"
-id: "TRM-ENG-38103"
+id: "TRM-ENG-52632"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "popularizingaddressedimportantpsychologicaltopics"

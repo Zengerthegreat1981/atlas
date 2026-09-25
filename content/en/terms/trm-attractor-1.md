@@ -1,6 +1,6 @@
 ---
 slug: "trm-attractor-1"
-id: "TRM-ENG-50125"
+id: "TRM-ENG-64654"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Attractor, 1"

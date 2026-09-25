@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-shoulders-of-womenphilipson-1"
-id: "TRM-ENG-38893"
+id: "TRM-ENG-53422"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The Shoulders of Women(Philipson), 1"

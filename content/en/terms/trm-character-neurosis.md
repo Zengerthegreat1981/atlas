@@ -1,6 +1,6 @@
 ---
 slug: "trm-character-neurosis"
-id: "TRM-ENG-45447"
+id: "TRM-ENG-59976"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“character neurosis”"

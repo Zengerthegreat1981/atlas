@@ -1,6 +1,6 @@
 ---
 slug: "trm-pincus-ha-frances-a-davis-ww-et-al"
-id: "TRM-ENG-47942"
+id: "TRM-ENG-62471"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pincus HA, Frances A, Davis WW, et al"

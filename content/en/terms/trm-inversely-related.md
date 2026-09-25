@@ -1,6 +1,6 @@
 ---
 slug: "trm-inversely-related"
-id: "TRM-ENG-34900"
+id: "TRM-ENG-63958"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "inversely related"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapy-new-york-ny"
-id: "TRM-ENG-51913"
+id: "TRM-ENG-66442"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapy. New York, NY"

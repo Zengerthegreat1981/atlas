@@ -1,6 +1,6 @@
 ---
 slug: "trm-71-giles-h-st-clair-rn-eds"
-id: "TRM-ENG-39353"
+id: "TRM-ENG-53882"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "71. Giles H, St. Clair RN (eds)"

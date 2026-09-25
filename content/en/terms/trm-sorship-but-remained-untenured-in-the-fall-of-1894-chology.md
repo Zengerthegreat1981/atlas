@@ -1,6 +1,6 @@
 ---
 slug: "trm-sorship-but-remained-untenured-in-the-fall-of-1894-chology"
-id: "TRM-ENG-35333"
+id: "TRM-ENG-64391"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sorship but remained untenured. In the fall of 1894, chology"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-studentfaculty-relations-and-1"
-id: "TRM-ENG-41805"
+id: "TRM-ENG-56334"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "student-faculty relations and, 1"

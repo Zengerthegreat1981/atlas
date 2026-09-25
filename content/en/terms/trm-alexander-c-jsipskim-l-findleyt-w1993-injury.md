@@ -1,6 +1,6 @@
 ---
 slug: "trm-alexander-c-jsipskim-l-findleyt-w1993-injury"
-id: "TRM-ENG-46401"
+id: "TRM-ENG-60930"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Alexander, C. J.,Sipski,M. L., &Findley,T. W.(1993). injury"

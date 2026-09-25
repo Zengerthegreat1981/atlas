@@ -1,6 +1,6 @@
 ---
 slug: "trm-liberalism-as-such"
-id: "TRM-ENG-48279"
+id: "TRM-ENG-62808"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "liberalism as such"

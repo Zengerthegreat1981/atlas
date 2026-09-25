@@ -1,6 +1,6 @@
 ---
 slug: "trm-usage-did-not-go-up-during-the-period-later-vicary-admit-get"
-id: "TRM-ENG-37269"
+id: "TRM-ENG-66327"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "usage did not go up during the period. Later, Vicary admit- get)"

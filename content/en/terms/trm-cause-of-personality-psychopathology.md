@@ -1,6 +1,6 @@
 ---
 slug: "trm-cause-of-personality-psychopathology"
-id: "TRM-ENG-48234"
+id: "TRM-ENG-62763"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cause of personality psychopathology"

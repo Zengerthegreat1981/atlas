@@ -1,6 +1,6 @@
 ---
 slug: "trm-worksite-stressmanagement-interventions-and-2"
-id: "TRM-ENG-42195"
+id: "TRM-ENG-56724"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "worksite stress-management interventions and, 2"

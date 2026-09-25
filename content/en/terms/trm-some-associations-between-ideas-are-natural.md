@@ -1,6 +1,6 @@
 ---
 slug: "trm-some-associations-between-ideas-are-natural"
-id: "TRM-ENG-47316"
+id: "TRM-ENG-61845"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Some associations between ideas are “natural”"

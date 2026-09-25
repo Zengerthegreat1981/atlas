@@ -1,6 +1,6 @@
 ---
 slug: "trm-are-mysterious"
-id: "TRM-ENG-47648"
+id: "TRM-ENG-62177"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "are mysterious"

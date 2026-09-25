@@ -1,6 +1,6 @@
 ---
 slug: "trm-ies-with-the-cognitive-ability-being-measured"
-id: "TRM-ENG-43683"
+id: "TRM-ENG-58212"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ies with the cognitive ability being measured"

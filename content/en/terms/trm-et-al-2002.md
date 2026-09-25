@@ -1,6 +1,6 @@
 ---
 slug: "trm-et-al-2002"
-id: "TRM-ENG-42811"
+id: "TRM-ENG-57340"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "et al., 2002)"

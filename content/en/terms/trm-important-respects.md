@@ -1,6 +1,6 @@
 ---
 slug: "trm-important-respects"
-id: "TRM-ENG-42879"
+id: "TRM-ENG-57408"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "important respects"

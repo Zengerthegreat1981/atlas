@@ -1,6 +1,6 @@
 ---
 slug: "trm-key-components-of-3"
-id: "TRM-ENG-40674"
+id: "TRM-ENG-55203"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "key components of, 3"

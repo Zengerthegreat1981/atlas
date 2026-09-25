@@ -1,6 +1,6 @@
 ---
 slug: "trm-defense-anxiety-feelings-poles-and-2"
-id: "TRM-ENG-39863"
+id: "TRM-ENG-54392"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "defense, anxiety, feelings poles and, 2"

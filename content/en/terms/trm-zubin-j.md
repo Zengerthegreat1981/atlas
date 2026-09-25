@@ -1,6 +1,6 @@
 ---
 slug: "trm-zubin-j"
-id: "TRM-ENG-42925"
+id: "TRM-ENG-57454"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Zubin J"

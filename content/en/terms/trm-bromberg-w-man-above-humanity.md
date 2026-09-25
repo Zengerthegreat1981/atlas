@@ -1,6 +1,6 @@
 ---
 slug: "trm-bromberg-w-man-above-humanity"
-id: "TRM-ENG-44306"
+id: "TRM-ENG-58835"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bromberg, W., Man above Humanity"

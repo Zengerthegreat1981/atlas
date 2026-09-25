@@ -1,6 +1,6 @@
 ---
 slug: "trm-multicultural-competence-and-3"
-id: "TRM-ENG-40894"
+id: "TRM-ENG-55423"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "multicultural competence and, 3"

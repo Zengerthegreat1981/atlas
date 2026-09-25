@@ -1,6 +1,6 @@
 ---
 slug: "trm-plays-a-crucial-role-in-normal-mental-life"
-id: "TRM-ENG-45420"
+id: "TRM-ENG-59949"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "plays a crucial role in normal mental life"

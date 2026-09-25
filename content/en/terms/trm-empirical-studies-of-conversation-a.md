@@ -1,6 +1,6 @@
 ---
 slug: "trm-empirical-studies-of-conversation-a"
-id: "TRM-ENG-44458"
+id: "TRM-ENG-58987"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Empirical Studies of Conversation A"

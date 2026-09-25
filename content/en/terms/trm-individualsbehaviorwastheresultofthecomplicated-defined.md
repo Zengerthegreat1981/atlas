@@ -1,6 +1,6 @@
 ---
 slug: "trm-individualsbehaviorwastheresultofthecomplicated-defined"
-id: "TRM-ENG-37853"
+id: "TRM-ENG-66911"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "individual’sbehaviorwastheresultofthecomplicated defined"

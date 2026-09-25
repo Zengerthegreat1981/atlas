@@ -1,6 +1,6 @@
 ---
 slug: "trm-2002retrieved-may-14-2007-from-http"
-id: "TRM-ENG-37354"
+id: "TRM-ENG-66412"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2002).Retrieved May 14, 2007, from http"

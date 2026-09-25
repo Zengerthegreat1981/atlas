@@ -1,6 +1,6 @@
 ---
 slug: "trm-intersubjectivity-in-models-of-learning-and-teaching"
-id: "TRM-ENG-38477"
+id: "TRM-ENG-53006"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“Intersubjectivity in models of learning and teaching"

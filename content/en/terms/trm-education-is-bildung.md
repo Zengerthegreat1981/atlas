@@ -1,6 +1,6 @@
 ---
 slug: "trm-education-is-bildung"
-id: "TRM-ENG-47922"
+id: "TRM-ENG-62451"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "education is “Bildung”"

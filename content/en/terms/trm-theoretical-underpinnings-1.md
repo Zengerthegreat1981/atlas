@@ -1,6 +1,6 @@
 ---
 slug: "trm-theoretical-underpinnings-1"
-id: "TRM-ENG-51889"
+id: "TRM-ENG-66418"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theoretical underpinnings, 1"

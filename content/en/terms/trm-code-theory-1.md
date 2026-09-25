@@ -1,6 +1,6 @@
 ---
 slug: "trm-code-theory-1"
-id: "TRM-ENG-47779"
+id: "TRM-ENG-62308"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "code theory, 1"

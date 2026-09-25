@@ -1,6 +1,6 @@
 ---
 slug: "trm-three-questions"
-id: "TRM-ENG-35089"
+id: "TRM-ENG-49618"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "three questions"

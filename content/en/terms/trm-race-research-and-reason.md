@@ -1,6 +1,6 @@
 ---
 slug: "trm-race-research-and-reason"
-id: "TRM-ENG-44587"
+id: "TRM-ENG-59116"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Race, Research and Reason"

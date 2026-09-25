@@ -1,6 +1,6 @@
 ---
 slug: "trm-big-seven-model"
-id: "TRM-ENG-43632"
+id: "TRM-ENG-58161"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "big seven model"

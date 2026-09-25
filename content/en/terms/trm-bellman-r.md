@@ -1,6 +1,6 @@
 ---
 slug: "trm-bellman-r"
-id: "TRM-ENG-39865"
+id: "TRM-ENG-54394"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bellman R"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-professionalspp-2943-austin"
-id: "TRM-ENG-41307"
+id: "TRM-ENG-55836"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "professionals(pp. 29–43). Austin"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-cross-racial-identity-scale-cris-3"
-id: "TRM-ENG-37898"
+id: "TRM-ENG-66956"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cross Racial Identity Scale (CRIS), 3"

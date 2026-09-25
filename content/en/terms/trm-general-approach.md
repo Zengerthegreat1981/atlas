@@ -1,6 +1,6 @@
 ---
 slug: "trm-general-approach"
-id: "TRM-ENG-49455"
+id: "TRM-ENG-63984"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "general approach"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-sweatt-j-d-2016-neural-plasticity-and-behavior"
-id: "TRM-ENG-34694"
+id: "TRM-ENG-49223"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sweatt, J. D. (2016). Neural plasticity and behavior"

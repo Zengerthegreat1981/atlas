@@ -1,6 +1,6 @@
 ---
 slug: "trm-other-learning-disability-subtypes-classification-in-1"
-id: "TRM-ENG-41076"
+id: "TRM-ENG-55605"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "other learning disability subtypes classification in, 1"

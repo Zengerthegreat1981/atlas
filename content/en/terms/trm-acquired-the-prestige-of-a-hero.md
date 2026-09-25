@@ -1,6 +1,6 @@
 ---
 slug: "trm-acquired-the-prestige-of-a-hero"
-id: "TRM-ENG-44858"
+id: "TRM-ENG-59387"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "acquired the prestige of a hero"

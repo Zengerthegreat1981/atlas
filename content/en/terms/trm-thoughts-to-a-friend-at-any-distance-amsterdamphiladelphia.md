@@ -1,6 +1,6 @@
 ---
 slug: "trm-thoughts-to-a-friend-at-any-distance-amsterdamphiladelphia"
-id: "TRM-ENG-38355"
+id: "TRM-ENG-52884"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thoughts to a friend at any distance. Amsterdam/Philadelphia"

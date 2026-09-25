@@ -1,6 +1,6 @@
 ---
 slug: "trm-bowen-m-et-al"
-id: "TRM-ENG-40003"
+id: "TRM-ENG-54532"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bowen M, et al"

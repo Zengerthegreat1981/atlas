@@ -1,6 +1,6 @@
 ---
 slug: "trm-andbehaviornewyork"
-id: "TRM-ENG-46817"
+id: "TRM-ENG-61346"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "andbehavior.NewYork"

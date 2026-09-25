@@ -1,6 +1,6 @@
 ---
 slug: "trm-wallonhlangevinp2003lerapportlangevinwallonparis"
-id: "TRM-ENG-37414"
+id: "TRM-ENG-66472"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wallon,H.,&Langevin,P.(2003).LeRapportLangevin-Wallon.Paris"

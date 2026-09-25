@@ -1,6 +1,6 @@
 ---
 slug: "trm-cal-factors-and-it-is-that-product"
-id: "TRM-ENG-43637"
+id: "TRM-ENG-58166"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cal factors, and it is that product"

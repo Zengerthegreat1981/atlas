@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-alternatives"
-id: "TRM-ENG-36567"
+id: "TRM-ENG-65625"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing alternatives"

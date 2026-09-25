@@ -1,6 +1,6 @@
 ---
 slug: "trm-ruesch-j-et-al"
-id: "TRM-ENG-42200"
+id: "TRM-ENG-56729"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ruesch J, et al"

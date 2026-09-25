@@ -1,6 +1,6 @@
 ---
 slug: "trm-national-monstrosities-1653"
-id: "TRM-ENG-38479"
+id: "TRM-ENG-53008"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“National Monstrosities” (1653"

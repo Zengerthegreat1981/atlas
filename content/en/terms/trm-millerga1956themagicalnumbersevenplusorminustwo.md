@@ -1,6 +1,6 @@
 ---
 slug: "trm-millerga1956themagicalnumbersevenplusorminustwo"
-id: "TRM-ENG-37081"
+id: "TRM-ENG-66139"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Miller,G.A.(1956).Themagicalnumberseven,plusorminustwo"

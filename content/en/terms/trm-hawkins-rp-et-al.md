@@ -1,6 +1,6 @@
 ---
 slug: "trm-hawkins-rp-et-al"
-id: "TRM-ENG-40947"
+id: "TRM-ENG-55476"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hawkins RP, et al"

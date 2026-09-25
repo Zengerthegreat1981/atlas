@@ -1,6 +1,6 @@
 ---
 slug: "trm-tinbergen-n-1951-t-he-study-of-instinct-oxford-uk"
-id: "TRM-ENG-44829"
+id: "TRM-ENG-59358"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tinbergen, N. (1951). T he study of instinct. Oxford, UK"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-there-are-two-bears-in-alaska"
-id: "TRM-ENG-45710"
+id: "TRM-ENG-60239"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“there are two bears in Alaska"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-substance"
-id: "TRM-ENG-47363"
+id: "TRM-ENG-61892"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Substance"

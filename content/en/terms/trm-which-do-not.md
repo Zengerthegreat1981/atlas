@@ -1,6 +1,6 @@
 ---
 slug: "trm-which-do-not"
-id: "TRM-ENG-49042"
+id: "TRM-ENG-63571"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "which do not"

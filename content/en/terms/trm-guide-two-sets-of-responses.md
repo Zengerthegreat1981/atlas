@@ -1,6 +1,6 @@
 ---
 slug: "trm-guide-two-sets-of-responses"
-id: "TRM-ENG-45159"
+id: "TRM-ENG-59688"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "guide two sets of responses"

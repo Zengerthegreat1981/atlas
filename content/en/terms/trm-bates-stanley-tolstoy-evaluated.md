@@ -1,6 +1,6 @@
 ---
 slug: "trm-bates-stanley-tolstoy-evaluated"
-id: "TRM-ENG-45655"
+id: "TRM-ENG-60184"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bates, Stanley. “Tolstoy Evaluated"

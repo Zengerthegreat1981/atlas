@@ -1,6 +1,6 @@
 ---
 slug: "trm-kestenbaum-r-farber-e-sroufe-la"
-id: "TRM-ENG-47783"
+id: "TRM-ENG-62312"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kestenbaum R, Farber E, Sroufe LA"

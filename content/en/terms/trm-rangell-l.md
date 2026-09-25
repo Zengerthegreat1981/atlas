@@ -1,6 +1,6 @@
 ---
 slug: "trm-rangell-l"
-id: "TRM-ENG-42060"
+id: "TRM-ENG-56589"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rangell L"

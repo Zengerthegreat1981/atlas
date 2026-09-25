@@ -1,6 +1,6 @@
 ---
 slug: "trm-is-a-range-of-functioning-in-people-with-ocpd"
-id: "TRM-ENG-42931"
+id: "TRM-ENG-57460"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "is a range of functioning in people with OCPD"

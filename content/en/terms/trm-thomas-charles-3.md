@@ -1,6 +1,6 @@
 ---
 slug: "trm-thomas-charles-3"
-id: "TRM-ENG-38915"
+id: "TRM-ENG-53444"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Thomas, Charles, 3"

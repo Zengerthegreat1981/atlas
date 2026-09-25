@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychiatry-151"
-id: "TRM-ENG-47954"
+id: "TRM-ENG-62483"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychiatry 151"

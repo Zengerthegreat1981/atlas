@@ -1,6 +1,6 @@
 ---
 slug: "trm-dynamic-statistical-parametric-mapping"
-id: "TRM-ENG-35370"
+id: "TRM-ENG-64428"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dynamic Statistical Parametric Mapping"

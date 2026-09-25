@@ -1,6 +1,6 @@
 ---
 slug: "trm-756-baruch-dw"
-id: "TRM-ENG-39405"
+id: "TRM-ENG-53934"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "756. Baruch DW"

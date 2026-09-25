@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-resistant"
-id: "TRM-ENG-36140"
+id: "TRM-ENG-50669"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and resistant"

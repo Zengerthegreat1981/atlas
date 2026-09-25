@@ -1,6 +1,6 @@
 ---
 slug: "trm-for-client-communication-3"
-id: "TRM-ENG-40231"
+id: "TRM-ENG-54760"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "for client communication, 3"

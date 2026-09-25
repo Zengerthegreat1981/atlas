@@ -1,6 +1,6 @@
 ---
 slug: "trm-dawkins-r-1999-the-extended-phenotype"
-id: "TRM-ENG-35639"
+id: "TRM-ENG-50168"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dawkins, R. (1999). The extended phenotype"

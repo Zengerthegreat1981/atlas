@@ -1,6 +1,6 @@
 ---
 slug: "trm-beier-eg"
-id: "TRM-ENG-39848"
+id: "TRM-ENG-54377"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Beier EG"

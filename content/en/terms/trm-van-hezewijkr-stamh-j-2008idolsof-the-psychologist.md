@@ -1,6 +1,6 @@
 ---
 slug: "trm-van-hezewijkr-stamh-j-2008idolsof-the-psychologist"
-id: "TRM-ENG-37397"
+id: "TRM-ENG-66455"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Van Hezewijk,R., & Stam,H. J. (2008).Idolsof the psychologist"

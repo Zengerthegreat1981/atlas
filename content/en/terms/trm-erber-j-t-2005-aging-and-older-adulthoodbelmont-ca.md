@@ -1,6 +1,6 @@
 ---
 slug: "trm-erber-j-t-2005-aging-and-older-adulthoodbelmont-ca"
-id: "TRM-ENG-38027"
+id: "TRM-ENG-67085"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Erber, J. T. (2005). Aging and older adulthood.Belmont, CA"

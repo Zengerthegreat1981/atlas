@@ -1,6 +1,6 @@
 ---
 slug: "trm-arnstein-hs"
-id: "TRM-ENG-39722"
+id: "TRM-ENG-54251"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Arnstein HS"

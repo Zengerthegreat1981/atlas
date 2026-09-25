@@ -1,6 +1,6 @@
 ---
 slug: "trm-alexithymia"
-id: "TRM-ENG-43369"
+id: "TRM-ENG-57898"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Alexithymia"

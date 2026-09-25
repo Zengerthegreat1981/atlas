@@ -1,6 +1,6 @@
 ---
 slug: "trm-christal-raymond-e-2"
-id: "TRM-ENG-37816"
+id: "TRM-ENG-52345"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Christal, Raymond E., 2"

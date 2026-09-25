@@ -1,6 +1,6 @@
 ---
 slug: "trm-marlatt-ga-gordon-jr-eds"
-id: "TRM-ENG-41590"
+id: "TRM-ENG-56119"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Marlatt GA, Gordon JR (eds)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-mitchell-2"
-id: "TRM-ENG-50751"
+id: "TRM-ENG-65280"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mitchell), 2"

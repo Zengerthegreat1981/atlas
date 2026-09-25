@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-capacity-to-engage-in-valid-logical-reasoning"
-id: "TRM-ENG-48829"
+id: "TRM-ENG-63358"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the capacity to engage in valid logical reasoning"

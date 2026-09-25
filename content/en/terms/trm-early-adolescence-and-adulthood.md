@@ -1,6 +1,6 @@
 ---
 slug: "trm-early-adolescence-and-adulthood"
-id: "TRM-ENG-42793"
+id: "TRM-ENG-57322"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "early adolescence and adulthood"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ginott-h"
-id: "TRM-ENG-40707"
+id: "TRM-ENG-55236"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ginott H"

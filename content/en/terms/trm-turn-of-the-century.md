@@ -1,6 +1,6 @@
 ---
 slug: "trm-turn-of-the-century"
-id: "TRM-ENG-45400"
+id: "TRM-ENG-59929"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "turn of the century"

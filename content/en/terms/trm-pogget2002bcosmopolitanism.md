@@ -1,6 +1,6 @@
 ---
 slug: "trm-pogget2002bcosmopolitanism"
-id: "TRM-ENG-37179"
+id: "TRM-ENG-66237"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pogge,T.(2002b).Cosmopolitanism"

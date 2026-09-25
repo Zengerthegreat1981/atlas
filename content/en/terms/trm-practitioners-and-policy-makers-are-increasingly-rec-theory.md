@@ -1,6 +1,6 @@
 ---
 slug: "trm-practitioners-and-policy-makers-are-increasingly-rec-theory"
-id: "TRM-ENG-35254"
+id: "TRM-ENG-64312"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "practitioners, and policy makers are increasingly rec- theory"

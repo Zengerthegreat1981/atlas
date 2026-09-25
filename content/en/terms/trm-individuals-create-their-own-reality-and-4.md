@@ -1,6 +1,6 @@
 ---
 slug: "trm-individuals-create-their-own-reality-and-4"
-id: "TRM-ENG-40530"
+id: "TRM-ENG-55059"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "individuals create their own reality and, 4"

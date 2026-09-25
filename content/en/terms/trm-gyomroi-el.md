@@ -1,6 +1,6 @@
 ---
 slug: "trm-gyomroi-el"
-id: "TRM-ENG-40869"
+id: "TRM-ENG-55398"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gyomroi EL"

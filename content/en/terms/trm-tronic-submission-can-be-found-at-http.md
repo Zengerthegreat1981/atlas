@@ -1,6 +1,6 @@
 ---
 slug: "trm-tronic-submission-can-be-found-at-http"
-id: "TRM-ENG-36218"
+id: "TRM-ENG-50747"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tronic submission can be found at http"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-therearetwowaystocontractageneticdisease"
-id: "TRM-ENG-47337"
+id: "TRM-ENG-61866"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therearetwowaystocontractageneticdisease"

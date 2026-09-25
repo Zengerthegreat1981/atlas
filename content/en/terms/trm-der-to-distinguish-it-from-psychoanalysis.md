@@ -1,6 +1,6 @@
 ---
 slug: "trm-der-to-distinguish-it-from-psychoanalysis"
-id: "TRM-ENG-36348"
+id: "TRM-ENG-65406"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "der to distinguish it from psychoanalysis"

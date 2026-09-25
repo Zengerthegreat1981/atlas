@@ -1,6 +1,6 @@
 ---
 slug: "trm-mitchell-w-j-t-ed-1980-o-n-narrative-chicago-il"
-id: "TRM-ENG-47005"
+id: "TRM-ENG-61534"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mitchell, W. J. T. (Ed.). (1980). O n narrative. Chicago, IL"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-perspectiveshillsdalenj"
-id: "TRM-ENG-49613"
+id: "TRM-ENG-64142"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "perspectives.Hillsdale,NJ"

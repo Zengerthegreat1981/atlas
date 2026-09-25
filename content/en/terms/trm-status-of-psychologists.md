@@ -1,6 +1,6 @@
 ---
 slug: "trm-status-of-psychologists"
-id: "TRM-ENG-35341"
+id: "TRM-ENG-49870"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "status of psychologists"

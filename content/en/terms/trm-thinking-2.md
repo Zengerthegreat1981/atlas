@@ -1,6 +1,6 @@
 ---
 slug: "trm-thinking-2"
-id: "TRM-ENG-44819"
+id: "TRM-ENG-59348"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Thinking , 2"

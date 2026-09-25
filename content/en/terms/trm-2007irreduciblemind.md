@@ -1,6 +1,6 @@
 ---
 slug: "trm-2007irreduciblemind"
-id: "TRM-ENG-36398"
+id: "TRM-ENG-65456"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2007).Irreduciblemind"

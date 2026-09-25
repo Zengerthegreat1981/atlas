@@ -1,6 +1,6 @@
 ---
 slug: "trm-widom-cs"
-id: "TRM-ENG-48153"
+id: "TRM-ENG-62682"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Widom CS"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-rogers-cr-truax-cb"
-id: "TRM-ENG-42151"
+id: "TRM-ENG-56680"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rogers CR, Truax CB"

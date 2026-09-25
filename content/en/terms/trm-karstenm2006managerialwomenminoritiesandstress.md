@@ -1,6 +1,6 @@
 ---
 slug: "trm-karstenm2006managerialwomenminoritiesandstress"
-id: "TRM-ENG-36992"
+id: "TRM-ENG-66050"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Karsten,M.(2006).Managerialwomen,minoritiesandstress"

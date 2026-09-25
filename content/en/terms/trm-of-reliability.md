@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-reliability"
-id: "TRM-ENG-45578"
+id: "TRM-ENG-60107"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of RELIABILITY"

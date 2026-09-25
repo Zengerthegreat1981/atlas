@@ -1,6 +1,6 @@
 ---
 slug: "trm-stein-m-1982-the-aims-and-goal-of-jungian-analysis-being"
-id: "TRM-ENG-51064"
+id: "TRM-ENG-65593"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stein, M. (1982). The aims and goal of Jungian analysis. being"

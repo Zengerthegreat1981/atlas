@@ -1,6 +1,6 @@
 ---
 slug: "trm-der-that-involves-two-primary-symptoms"
-id: "TRM-ENG-36347"
+id: "TRM-ENG-50876"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "der that involves two primary symptoms"

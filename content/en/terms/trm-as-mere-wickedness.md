@@ -1,6 +1,6 @@
 ---
 slug: "trm-as-mere-wickedness"
-id: "TRM-ENG-44903"
+id: "TRM-ENG-59432"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "as mere wickedness"

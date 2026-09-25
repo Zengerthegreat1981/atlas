@@ -1,6 +1,6 @@
 ---
 slug: "trm-ceptualisations-of-relapse"
-id: "TRM-ENG-49332"
+id: "TRM-ENG-63861"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ceptualisations of relapse"

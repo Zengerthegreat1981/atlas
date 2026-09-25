@@ -1,6 +1,6 @@
 ---
 slug: "trm-inquiryintotheconceptoftherejectingmothernewyork"
-id: "TRM-ENG-37868"
+id: "TRM-ENG-52397"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "inquiryintotheconceptoftherejectingmother.NewYork"

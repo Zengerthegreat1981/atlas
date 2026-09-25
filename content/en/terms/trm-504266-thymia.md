@@ -1,6 +1,6 @@
 ---
 slug: "trm-504266-thymia"
-id: "TRM-ENG-43338"
+id: "TRM-ENG-57867"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "50.4.266 thymia"

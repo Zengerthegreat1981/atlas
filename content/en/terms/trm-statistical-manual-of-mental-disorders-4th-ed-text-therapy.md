@@ -1,6 +1,6 @@
 ---
 slug: "trm-statistical-manual-of-mental-disorders-4th-ed-text-therapy"
-id: "TRM-ENG-43848"
+id: "TRM-ENG-58377"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "statistical manual of mental disorders (4th ed., text therapy"

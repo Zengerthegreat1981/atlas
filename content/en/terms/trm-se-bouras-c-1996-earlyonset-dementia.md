@@ -1,6 +1,6 @@
 ---
 slug: "trm-se-bouras-c-1996-earlyonset-dementia"
-id: "TRM-ENG-35936"
+id: "TRM-ENG-64994"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "S.E., & Bouras, C. (1996). Early-onset dementia"

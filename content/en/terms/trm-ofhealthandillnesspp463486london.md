@@ -1,6 +1,6 @@
 ---
 slug: "trm-ofhealthandillnesspp463486london"
-id: "TRM-ENG-47164"
+id: "TRM-ENG-61693"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ofhealthandillness(pp.463±486).London"

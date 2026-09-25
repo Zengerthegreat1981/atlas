@@ -1,6 +1,6 @@
 ---
 slug: "trm-education-in-an-age-of-nihilism-london-england"
-id: "TRM-ENG-46550"
+id: "TRM-ENG-61079"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Education in an age of nihilism. London, England"

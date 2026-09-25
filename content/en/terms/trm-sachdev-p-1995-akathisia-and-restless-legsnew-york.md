@@ -1,6 +1,6 @@
 ---
 slug: "trm-sachdev-p-1995-akathisia-and-restless-legsnew-york"
-id: "TRM-ENG-35939"
+id: "TRM-ENG-64997"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sachdev, P. (1995). Akathisia and restless legs.New York"

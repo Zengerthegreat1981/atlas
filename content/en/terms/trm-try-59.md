@@ -1,6 +1,6 @@
 ---
 slug: "trm-try-59"
-id: "TRM-ENG-48709"
+id: "TRM-ENG-63238"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "try 59"

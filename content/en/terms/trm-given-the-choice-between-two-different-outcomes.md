@@ -1,6 +1,6 @@
 ---
 slug: "trm-given-the-choice-between-two-different-outcomes"
-id: "TRM-ENG-37797"
+id: "TRM-ENG-52326"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "given the choice between two different outcomes"

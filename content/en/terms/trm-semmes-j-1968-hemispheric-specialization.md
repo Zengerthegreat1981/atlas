@@ -1,6 +1,6 @@
 ---
 slug: "trm-semmes-j-1968-hemispheric-specialization"
-id: "TRM-ENG-34688"
+id: "TRM-ENG-63746"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Semmes, J. (1968). Hemispheric specialization"

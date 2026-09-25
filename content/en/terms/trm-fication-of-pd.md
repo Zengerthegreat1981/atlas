@@ -1,6 +1,6 @@
 ---
 slug: "trm-fication-of-pd"
-id: "TRM-ENG-42829"
+id: "TRM-ENG-57358"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "fication of PD"

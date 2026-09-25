@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychoanalysis-1937-new-york"
-id: "TRM-ENG-37197"
+id: "TRM-ENG-66255"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psycho-Analysis, 1937; New York"

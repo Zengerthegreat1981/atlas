@@ -1,6 +1,6 @@
 ---
 slug: "trm-between-the-bodypsyche-and-led-to-the-develop"
-id: "TRM-ENG-46039"
+id: "TRM-ENG-60568"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "between the body-psyche and led to the develop-"

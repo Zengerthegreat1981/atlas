@@ -1,6 +1,6 @@
 ---
 slug: "trm-chant-vaishya-or-laborer-sudra-second-there-is-cultures"
-id: "TRM-ENG-47750"
+id: "TRM-ENG-62279"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chant (Vaishya), or laborer (Sudra). Second, there is cultures"

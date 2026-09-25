@@ -1,6 +1,6 @@
 ---
 slug: "trm-language-learning-1"
-id: "TRM-ENG-44580"
+id: "TRM-ENG-59109"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Language learning, 1"

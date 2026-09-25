@@ -1,6 +1,6 @@
 ---
 slug: "trm-direct-1"
-id: "TRM-ENG-47888"
+id: "TRM-ENG-62417"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "direct, 1"

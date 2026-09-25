@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapeutic-relationship-and-2"
-id: "TRM-ENG-41930"
+id: "TRM-ENG-56459"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapeutic relationship and, 2"

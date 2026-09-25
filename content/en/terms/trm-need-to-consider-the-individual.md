@@ -1,6 +1,6 @@
 ---
 slug: "trm-need-to-consider-the-individual"
-id: "TRM-ENG-40934"
+id: "TRM-ENG-55463"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "need to consider the individual"

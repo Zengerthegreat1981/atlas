@@ -1,6 +1,6 @@
 ---
 slug: "trm-shapiro-d-schwartz-ge"
-id: "TRM-ENG-42327"
+id: "TRM-ENG-56856"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shapiro D, Schwartz GE"

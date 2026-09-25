@@ -1,6 +1,6 @@
 ---
 slug: "trm-altman-kp"
-id: "TRM-ENG-39674"
+id: "TRM-ENG-54203"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Altman KP"

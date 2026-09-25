@@ -1,6 +1,6 @@
 ---
 slug: "trm-lot-study-psychother-psychosom-78"
-id: "TRM-ENG-48433"
+id: "TRM-ENG-62962"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lot study. Psychother Psychosom 78"

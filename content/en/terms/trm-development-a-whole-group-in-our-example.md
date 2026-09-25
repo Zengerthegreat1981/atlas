@@ -1,6 +1,6 @@
 ---
 slug: "trm-development-a-whole-group-in-our-example"
-id: "TRM-ENG-37692"
+id: "TRM-ENG-66750"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "development, a whole group (in our example"

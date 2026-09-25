@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-outline-of-social-psychology-kantor-1929-new-york"
-id: "TRM-ENG-36939"
+id: "TRM-ENG-51468"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "In Outline of Social Psychology (Kantor 1929) New York"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-pharmacologic-medication"
-id: "TRM-ENG-35227"
+id: "TRM-ENG-64285"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pharmacologic medication"

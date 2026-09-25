@@ -1,6 +1,6 @@
 ---
 slug: "trm-troutner-leroy-2"
-id: "TRM-ENG-47425"
+id: "TRM-ENG-61954"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Troutner, Leroy, 2"

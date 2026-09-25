@@ -1,6 +1,6 @@
 ---
 slug: "trm-ingroup-vsoutgroup-social-categories-and-3"
-id: "TRM-ENG-40557"
+id: "TRM-ENG-55086"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ingroup vs.outgroup social categories and, 3"

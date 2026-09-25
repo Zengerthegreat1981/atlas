@@ -1,6 +1,6 @@
 ---
 slug: "trm-ideal"
-id: "TRM-ENG-52229"
+id: "TRM-ENG-66758"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ideal"

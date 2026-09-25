@@ -1,6 +1,6 @@
 ---
 slug: "trm-radkowsky-m-siegel-lj-1997-the-gay-adolescent"
-id: "TRM-ENG-35913"
+id: "TRM-ENG-50442"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Radkowsky, M., & Siegel, L.J. (1997). The gay adolescent"

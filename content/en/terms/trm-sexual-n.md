@@ -1,6 +1,6 @@
 ---
 slug: "trm-sexual-n"
-id: "TRM-ENG-52455"
+id: "TRM-ENG-66984"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sexual (n)"

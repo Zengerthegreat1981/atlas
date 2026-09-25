@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-cornell-medical-indexhealth-questionnaire"
-id: "TRM-ENG-44822"
+id: "TRM-ENG-59351"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, “The Cornell Medical Index-Health Questionnaire"

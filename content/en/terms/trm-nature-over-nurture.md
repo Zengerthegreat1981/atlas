@@ -1,6 +1,6 @@
 ---
 slug: "trm-nature-over-nurture"
-id: "TRM-ENG-35456"
+id: "TRM-ENG-49985"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nature over nurture"

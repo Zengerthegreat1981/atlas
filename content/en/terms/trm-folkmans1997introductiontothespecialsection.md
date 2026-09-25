@@ -1,6 +1,6 @@
 ---
 slug: "trm-folkmans1997introductiontothespecialsection"
-id: "TRM-ENG-46514"
+id: "TRM-ENG-61043"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Folkman,S.(1997).Introductiontothespecialsection"

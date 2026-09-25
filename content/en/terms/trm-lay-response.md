@@ -1,6 +1,6 @@
 ---
 slug: "trm-lay-response"
-id: "TRM-ENG-46898"
+id: "TRM-ENG-61427"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "LAY response"

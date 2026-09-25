@@ -1,6 +1,6 @@
 ---
 slug: "trm-anniversarysymposiumworcester"
-id: "TRM-ENG-37543"
+id: "TRM-ENG-66601"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "anniversarysymposium.Worcester"

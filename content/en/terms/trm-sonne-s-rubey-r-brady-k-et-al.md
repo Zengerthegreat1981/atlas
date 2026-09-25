@@ -1,6 +1,6 @@
 ---
 slug: "trm-sonne-s-rubey-r-brady-k-et-al"
-id: "TRM-ENG-48097"
+id: "TRM-ENG-62626"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sonne S, Rubey R, Brady K, et al"

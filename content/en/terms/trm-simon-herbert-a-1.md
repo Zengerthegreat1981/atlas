@@ -1,6 +1,6 @@
 ---
 slug: "trm-simon-herbert-a-1"
-id: "TRM-ENG-47293"
+id: "TRM-ENG-61822"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Simon, Herbert A., 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-illstructured-problems-and-1"
-id: "TRM-ENG-40439"
+id: "TRM-ENG-54968"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ill-structured problems and, 1"

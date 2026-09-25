@@ -1,6 +1,6 @@
 ---
 slug: "trm-precontact-history-of-3"
-id: "TRM-ENG-41251"
+id: "TRM-ENG-55780"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pre-contact history of, 3"

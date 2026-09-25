@@ -1,6 +1,6 @@
 ---
 slug: "trm-idea-fixed"
-id: "TRM-ENG-52228"
+id: "TRM-ENG-66757"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Idea fixed"

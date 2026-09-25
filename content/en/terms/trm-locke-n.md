@@ -1,6 +1,6 @@
 ---
 slug: "trm-locke-n"
-id: "TRM-ENG-41496"
+id: "TRM-ENG-56025"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Locke N"

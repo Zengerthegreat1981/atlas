@@ -1,6 +1,6 @@
 ---
 slug: "trm-organic"
-id: "TRM-ENG-43442"
+id: "TRM-ENG-57971"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“organic”"

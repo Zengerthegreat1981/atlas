@@ -1,6 +1,6 @@
 ---
 slug: "trm-farnsworth-dl-blaine-gb-jr-eds"
-id: "TRM-ENG-40496"
+id: "TRM-ENG-55025"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Farnsworth DL, Blaine GB Jr (eds)"

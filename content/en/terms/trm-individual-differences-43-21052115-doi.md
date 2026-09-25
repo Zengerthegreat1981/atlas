@@ -1,6 +1,6 @@
 ---
 slug: "trm-individual-differences-43-21052115-doi"
-id: "TRM-ENG-43451"
+id: "TRM-ENG-57980"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Individual Differences, 43, 2105–2115. doi"

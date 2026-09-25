@@ -1,6 +1,6 @@
 ---
 slug: "trm-person-match-scale-of-4"
-id: "TRM-ENG-38583"
+id: "TRM-ENG-53112"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Person Match scale of, 4"

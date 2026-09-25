@@ -1,6 +1,6 @@
 ---
 slug: "trm-readiness-potential-1"
-id: "TRM-ENG-44726"
+id: "TRM-ENG-59255"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Readiness potential, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-pins-a"
-id: "TRM-ENG-41983"
+id: "TRM-ENG-56512"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pins A"

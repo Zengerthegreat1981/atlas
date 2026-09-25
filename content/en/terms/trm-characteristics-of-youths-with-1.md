@@ -1,6 +1,6 @@
 ---
 slug: "trm-characteristics-of-youths-with-1"
-id: "TRM-ENG-39472"
+id: "TRM-ENG-54001"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "characteristics of youths with, 1"

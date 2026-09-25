@@ -1,6 +1,6 @@
 ---
 slug: "trm-ments-for-social-phobia"
-id: "TRM-ENG-49540"
+id: "TRM-ENG-64069"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ments for social phobia"

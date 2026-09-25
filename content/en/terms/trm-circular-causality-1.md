@@ -1,6 +1,6 @@
 ---
 slug: "trm-circular-causality-1"
-id: "TRM-ENG-50235"
+id: "TRM-ENG-64764"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Circular causality, 1"

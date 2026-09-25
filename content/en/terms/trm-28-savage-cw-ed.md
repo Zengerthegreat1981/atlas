@@ -1,6 +1,6 @@
 ---
 slug: "trm-28-savage-cw-ed"
-id: "TRM-ENG-38816"
+id: "TRM-ENG-53345"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "28. Savage CW (ed)"

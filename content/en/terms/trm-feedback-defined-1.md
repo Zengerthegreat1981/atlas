@@ -1,6 +1,6 @@
 ---
 slug: "trm-feedback-defined-1"
-id: "TRM-ENG-51457"
+id: "TRM-ENG-65986"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "feedback, defined, 1"

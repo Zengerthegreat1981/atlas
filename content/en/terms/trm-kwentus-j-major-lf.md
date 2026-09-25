@@ -1,6 +1,6 @@
 ---
 slug: "trm-kwentus-j-major-lf"
-id: "TRM-ENG-41336"
+id: "TRM-ENG-55865"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kwentus J, Major LF"

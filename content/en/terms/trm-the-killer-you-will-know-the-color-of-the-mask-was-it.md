@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-killer-you-will-know-the-color-of-the-mask-was-it"
-id: "TRM-ENG-37119"
+id: "TRM-ENG-51648"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the killer, you will know the color of the mask. Was it"

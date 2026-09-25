@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-psychopathy-br-j-psychiatry-197"
-id: "TRM-ENG-48195"
+id: "TRM-ENG-62724"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and psychopathy. Br J Psychiatry 197"

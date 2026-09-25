@@ -1,6 +1,6 @@
 ---
 slug: "trm-pope-kenneth-2"
-id: "TRM-ENG-38613"
+id: "TRM-ENG-53142"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pope, Kenneth, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-see-also-academic-achievement-v2-affect-mood-classroom"
-id: "TRM-ENG-38742"
+id: "TRM-ENG-53271"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "See also Academic Achievement (v2); Affect (Mood classroom"

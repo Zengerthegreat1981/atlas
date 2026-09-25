@@ -1,6 +1,6 @@
 ---
 slug: "trm-symptoms-by-asking-such-questions-as"
-id: "TRM-ENG-49733"
+id: "TRM-ENG-64262"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "symptoms by asking such questions as"

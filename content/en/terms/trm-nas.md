@@ -1,6 +1,6 @@
 ---
 slug: "trm-nas"
-id: "TRM-ENG-48389"
+id: "TRM-ENG-62918"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nas"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-feltz-adam-1"
-id: "TRM-ENG-44486"
+id: "TRM-ENG-59015"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Feltz, Adam, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-brownjw2000mindandnature"
-id: "TRM-ENG-36660"
+id: "TRM-ENG-65718"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brown,J.W.(2000).Mindandnature"

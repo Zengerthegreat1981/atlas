@@ -1,6 +1,6 @@
 ---
 slug: "trm-bionwr1961experiencesingroupandotherpapersnewyork"
-id: "TRM-ENG-36619"
+id: "TRM-ENG-51148"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bion,W.R.(1961).Experiencesingroupandotherpapers.NewYork"

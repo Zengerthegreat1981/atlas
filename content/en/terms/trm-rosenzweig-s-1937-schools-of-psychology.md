@@ -1,6 +1,6 @@
 ---
 slug: "trm-rosenzweig-s-1937-schools-of-psychology"
-id: "TRM-ENG-35932"
+id: "TRM-ENG-64990"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rosenzweig, S. (1937). Schools of psychology"

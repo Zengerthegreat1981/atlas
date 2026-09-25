@@ -1,6 +1,6 @@
 ---
 slug: "trm-step-1-notice-rupture-markers"
-id: "TRM-ENG-42538"
+id: "TRM-ENG-57067"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Step 1: Notice “rupture markers”"

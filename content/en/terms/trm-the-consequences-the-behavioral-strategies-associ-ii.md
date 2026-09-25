@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-consequences-the-behavioral-strategies-associ-ii"
-id: "TRM-ENG-48832"
+id: "TRM-ENG-63361"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the consequences. The behavioral strategies associ- II"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-lations-are-1525-hare-2003"
-id: "TRM-ENG-42966"
+id: "TRM-ENG-57495"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lations are 15–25% (Hare, 2003)"

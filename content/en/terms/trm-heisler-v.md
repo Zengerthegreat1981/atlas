@@ -1,6 +1,6 @@
 ---
 slug: "trm-heisler-v"
-id: "TRM-ENG-40966"
+id: "TRM-ENG-55495"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Heisler V"

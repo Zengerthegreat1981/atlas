@@ -1,6 +1,6 @@
 ---
 slug: "trm-lhommemachine"
-id: "TRM-ENG-46097"
+id: "TRM-ENG-60626"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "‘L’HommeMachine’"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-thew-19"
-id: "TRM-ENG-46049"
+id: "TRM-ENG-60578"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thew 19"

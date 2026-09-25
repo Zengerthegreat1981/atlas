@@ -1,6 +1,6 @@
 ---
 slug: "trm-tionsofdentalpain"
-id: "TRM-ENG-47350"
+id: "TRM-ENG-61879"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tionsofdentalpain"

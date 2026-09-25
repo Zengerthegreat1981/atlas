@@ -1,6 +1,6 @@
 ---
 slug: "trm-chuang-tzu-1"
-id: "TRM-ENG-46399"
+id: "TRM-ENG-60928"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Chuang Tzu, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-aprematureorhypoxicinfant"
-id: "TRM-ENG-43537"
+id: "TRM-ENG-58066"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "aprematureorhypoxicinfant."

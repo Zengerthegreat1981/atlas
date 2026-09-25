@@ -1,6 +1,6 @@
 ---
 slug: "trm-p-2008-receiving-support-as-a-mixed-blessing"
-id: "TRM-ENG-35476"
+id: "TRM-ENG-64534"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "P. (2008). Receiving support as a mixed blessing"

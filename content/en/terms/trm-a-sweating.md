@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-sweating"
-id: "TRM-ENG-42938"
+id: "TRM-ENG-57467"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "a. Sweating"

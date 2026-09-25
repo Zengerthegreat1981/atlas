@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-the-book-of-st-matthew-17"
-id: "TRM-ENG-41078"
+id: "TRM-ENG-55607"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "In the Book of St. Matthew (17"

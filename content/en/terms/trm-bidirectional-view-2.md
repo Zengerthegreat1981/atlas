@@ -1,6 +1,6 @@
 ---
 slug: "trm-bidirectional-view-2"
-id: "TRM-ENG-47700"
+id: "TRM-ENG-62229"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bidirectional view, 2"

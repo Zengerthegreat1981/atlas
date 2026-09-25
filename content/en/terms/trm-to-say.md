@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-say"
-id: "TRM-ENG-46067"
+id: "TRM-ENG-60596"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to say"

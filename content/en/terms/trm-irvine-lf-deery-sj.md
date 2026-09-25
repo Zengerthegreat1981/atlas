@@ -1,6 +1,6 @@
 ---
 slug: "trm-irvine-lf-deery-sj"
-id: "TRM-ENG-41085"
+id: "TRM-ENG-55614"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Irvine LF, Deery SJ"

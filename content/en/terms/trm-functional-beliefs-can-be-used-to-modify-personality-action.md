@@ -1,6 +1,6 @@
 ---
 slug: "trm-functional-beliefs-can-be-used-to-modify-personality-action"
-id: "TRM-ENG-40266"
+id: "TRM-ENG-54795"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "functional beliefs can be used to modify personality. action"

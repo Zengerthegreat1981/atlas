@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-potential-of-creativity-paris-france"
-id: "TRM-ENG-48442"
+id: "TRM-ENG-62971"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of potential of creativity. Paris, France"

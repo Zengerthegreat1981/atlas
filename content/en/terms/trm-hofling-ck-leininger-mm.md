@@ -1,6 +1,6 @@
 ---
 slug: "trm-hofling-ck-leininger-mm"
-id: "TRM-ENG-41011"
+id: "TRM-ENG-55540"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hofling CK, Leininger MM"

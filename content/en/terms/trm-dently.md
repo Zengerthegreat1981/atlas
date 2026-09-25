@@ -1,6 +1,6 @@
 ---
 slug: "trm-dently"
-id: "TRM-ENG-35755"
+id: "TRM-ENG-64813"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dently"

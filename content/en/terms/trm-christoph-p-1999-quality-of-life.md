@@ -1,6 +1,6 @@
 ---
 slug: "trm-christoph-p-1999-quality-of-life"
-id: "TRM-ENG-37820"
+id: "TRM-ENG-66878"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Christoph, P. (1999). Quality of life"

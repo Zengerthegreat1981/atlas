@@ -1,6 +1,6 @@
 ---
 slug: "trm-ameliorate-it"
-id: "TRM-ENG-44042"
+id: "TRM-ENG-58571"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ameliorate it"

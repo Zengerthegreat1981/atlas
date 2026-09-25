@@ -1,6 +1,6 @@
 ---
 slug: "trm-602228-principle8"
-id: "TRM-ENG-48869"
+id: "TRM-ENG-63398"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "6.02.2.2.8 Principle8"

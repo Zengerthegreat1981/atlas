@@ -1,6 +1,6 @@
 ---
 slug: "trm-pressive-personality-disorder-in-t-a-widiger-ed-order"
-id: "TRM-ENG-43145"
+id: "TRM-ENG-57674"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pressive personality disorder. In T. A. Widiger (Ed.), order"

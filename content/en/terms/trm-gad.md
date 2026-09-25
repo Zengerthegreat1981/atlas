@@ -1,6 +1,6 @@
 ---
 slug: "trm-gad"
-id: "TRM-ENG-43921"
+id: "TRM-ENG-58450"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(GAD)"

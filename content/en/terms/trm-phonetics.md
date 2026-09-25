@@ -1,6 +1,6 @@
 ---
 slug: "trm-phonetics"
-id: "TRM-ENG-44010"
+id: "TRM-ENG-58539"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "PHONETICS,"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-environmental-assessment-technique-of-4"
-id: "TRM-ENG-38023"
+id: "TRM-ENG-67081"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Environmental Assessment Technique of, 4"

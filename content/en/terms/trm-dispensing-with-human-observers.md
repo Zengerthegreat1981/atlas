@@ -1,6 +1,6 @@
 ---
 slug: "trm-dispensing-with-human-observers"
-id: "TRM-ENG-35769"
+id: "TRM-ENG-50298"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dispensing with human observers"

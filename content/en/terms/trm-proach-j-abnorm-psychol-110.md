@@ -1,6 +1,6 @@
 ---
 slug: "trm-proach-j-abnorm-psychol-110"
-id: "TRM-ENG-48545"
+id: "TRM-ENG-63074"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "proach. J Abnorm Psychol 110"

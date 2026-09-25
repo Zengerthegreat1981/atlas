@@ -1,6 +1,6 @@
 ---
 slug: "trm-sociological-perspective-on-1"
-id: "TRM-ENG-48734"
+id: "TRM-ENG-63263"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sociological perspective on, 1"

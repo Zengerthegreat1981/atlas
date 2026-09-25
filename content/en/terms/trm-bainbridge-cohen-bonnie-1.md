@@ -1,6 +1,6 @@
 ---
 slug: "trm-bainbridge-cohen-bonnie-1"
-id: "TRM-ENG-50138"
+id: "TRM-ENG-64667"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bainbridge Cohen, Bonnie, 1"

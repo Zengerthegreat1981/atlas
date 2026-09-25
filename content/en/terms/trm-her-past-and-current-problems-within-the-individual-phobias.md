@@ -1,6 +1,6 @@
 ---
 slug: "trm-her-past-and-current-problems-within-the-individual-phobias"
-id: "TRM-ENG-43695"
+id: "TRM-ENG-58224"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "her past and current problems within the individual phobias"

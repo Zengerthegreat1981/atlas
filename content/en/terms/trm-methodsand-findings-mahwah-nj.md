@@ -1,6 +1,6 @@
 ---
 slug: "trm-methodsand-findings-mahwah-nj"
-id: "TRM-ENG-40848"
+id: "TRM-ENG-55377"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "methods,and findings. Mahwah, NJ"

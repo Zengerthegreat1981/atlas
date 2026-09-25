@@ -1,6 +1,6 @@
 ---
 slug: "trm-should-have-over-it"
-id: "TRM-ENG-48711"
+id: "TRM-ENG-63240"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "should have over it"

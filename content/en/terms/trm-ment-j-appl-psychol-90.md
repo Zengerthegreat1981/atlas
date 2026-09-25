@@ -1,6 +1,6 @@
 ---
 slug: "trm-ment-j-appl-psychol-90"
-id: "TRM-ENG-48451"
+id: "TRM-ENG-62980"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ment. J Appl Psychol 90"

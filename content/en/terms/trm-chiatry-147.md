@@ -1,6 +1,6 @@
 ---
 slug: "trm-chiatry-147"
-id: "TRM-ENG-48240"
+id: "TRM-ENG-62769"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chiatry 147"

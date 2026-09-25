@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-insulinlike-growth-factor-1-igfi"
-id: "TRM-ENG-35993"
+id: "TRM-ENG-65051"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "THE INSULIN-LIKE GROWTH FACTOR 1 (IGF-I)"

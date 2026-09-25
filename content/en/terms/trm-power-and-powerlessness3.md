@@ -1,6 +1,6 @@
 ---
 slug: "trm-power-and-powerlessness3"
-id: "TRM-ENG-38621"
+id: "TRM-ENG-53150"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Power and powerlessness,3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-klemperer-e"
-id: "TRM-ENG-41262"
+id: "TRM-ENG-55791"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Klemperer E"

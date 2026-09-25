@@ -1,6 +1,6 @@
 ---
 slug: "trm-mosher-lr-feinsilver-rd"
-id: "TRM-ENG-41769"
+id: "TRM-ENG-56298"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mosher LR, Feinsilver RD"

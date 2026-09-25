@@ -1,6 +1,6 @@
 ---
 slug: "trm-aspectssunderlandma"
-id: "TRM-ENG-46840"
+id: "TRM-ENG-61369"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "aspects.Sunderland,MA"

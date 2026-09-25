@@ -1,6 +1,6 @@
 ---
 slug: "trm-greeno-james-g-1"
-id: "TRM-ENG-46719"
+id: "TRM-ENG-61248"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Greeno, James G., 1"

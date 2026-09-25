@@ -1,6 +1,6 @@
 ---
 slug: "trm-shameattacking-exercise-2"
-id: "TRM-ENG-41651"
+id: "TRM-ENG-56180"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "shame-attacking exercise, 2"

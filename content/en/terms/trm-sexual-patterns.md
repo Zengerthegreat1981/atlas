@@ -1,6 +1,6 @@
 ---
 slug: "trm-sexual-patterns"
-id: "TRM-ENG-43177"
+id: "TRM-ENG-57706"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sexual patterns"

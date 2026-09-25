@@ -1,6 +1,6 @@
 ---
 slug: "trm-shlein-john-2"
-id: "TRM-ENG-38765"
+id: "TRM-ENG-53294"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shlein, John, 2"

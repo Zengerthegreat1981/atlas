@@ -1,6 +1,6 @@
 ---
 slug: "trm-statisticalmanual3rdedwashingtondc"
-id: "TRM-ENG-49720"
+id: "TRM-ENG-64249"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "statisticalmanual(3rded.).Washington,DC"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ment-and-theory-of-mind"
-id: "TRM-ENG-48444"
+id: "TRM-ENG-62973"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ment and theory of mind"

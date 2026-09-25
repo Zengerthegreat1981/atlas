@@ -1,6 +1,6 @@
 ---
 slug: "trm-guerney-b-g-psychotherapeutic-agents"
-id: "TRM-ENG-44420"
+id: "TRM-ENG-58949"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Guerney, B. G., Psychotherapeutic Agents"

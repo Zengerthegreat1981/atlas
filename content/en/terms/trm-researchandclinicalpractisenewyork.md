@@ -1,6 +1,6 @@
 ---
 slug: "trm-researchandclinicalpractisenewyork"
-id: "TRM-ENG-47258"
+id: "TRM-ENG-61787"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "research,andclinicalpractise.NewYork"

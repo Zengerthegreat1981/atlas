@@ -1,6 +1,6 @@
 ---
 slug: "trm-tms"
-id: "TRM-ENG-35581"
+id: "TRM-ENG-64639"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "TMS"

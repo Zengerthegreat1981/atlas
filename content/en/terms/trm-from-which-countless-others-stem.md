@@ -1,6 +1,6 @@
 ---
 slug: "trm-from-which-countless-others-stem"
-id: "TRM-ENG-51482"
+id: "TRM-ENG-66011"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "from which countless others stem"

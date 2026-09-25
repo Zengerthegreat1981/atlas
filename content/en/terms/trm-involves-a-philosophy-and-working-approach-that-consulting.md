@@ -1,6 +1,6 @@
 ---
 slug: "trm-involves-a-philosophy-and-working-approach-that-consulting"
-id: "TRM-ENG-40643"
+id: "TRM-ENG-55172"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "involves a philosophy and working approach that consulting"

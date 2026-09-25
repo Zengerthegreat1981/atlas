@@ -1,6 +1,6 @@
 ---
 slug: "trm-interdisciplinary-care-of-1"
-id: "TRM-ENG-40589"
+id: "TRM-ENG-55118"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "interdisciplinary care of, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-1983-preliminary-exploration-of-worry"
-id: "TRM-ENG-48879"
+id: "TRM-ENG-63408"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "A. (1983). Preliminary exploration of worry"

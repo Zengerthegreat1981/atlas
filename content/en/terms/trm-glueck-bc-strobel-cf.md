@@ -1,6 +1,6 @@
 ---
 slug: "trm-glueck-bc-strobel-cf"
-id: "TRM-ENG-40735"
+id: "TRM-ENG-55264"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Glueck BC, Strobel CF"

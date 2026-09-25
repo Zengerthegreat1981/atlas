@@ -1,6 +1,6 @@
 ---
 slug: "trm-somatic-evolution-lincoln-ne"
-id: "TRM-ENG-51831"
+id: "TRM-ENG-66360"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "somatic evolution. Lincoln, NE"

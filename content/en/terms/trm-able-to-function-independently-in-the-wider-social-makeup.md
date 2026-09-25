@@ -1,6 +1,6 @@
 ---
 slug: "trm-able-to-function-independently-in-the-wider-social-makeup"
-id: "TRM-ENG-47531"
+id: "TRM-ENG-62060"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "able to function independently in the wider social makeup"

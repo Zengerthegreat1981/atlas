@@ -1,6 +1,6 @@
 ---
 slug: "trm-ceptiveuseintheunitedkingdom"
-id: "TRM-ENG-46882"
+id: "TRM-ENG-61411"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ceptiveuseintheUnitedKingdom"

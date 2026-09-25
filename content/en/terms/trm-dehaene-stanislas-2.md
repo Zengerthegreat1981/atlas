@@ -1,6 +1,6 @@
 ---
 slug: "trm-dehaene-stanislas-2"
-id: "TRM-ENG-44423"
+id: "TRM-ENG-58952"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dehaene, Stanislas, 2"

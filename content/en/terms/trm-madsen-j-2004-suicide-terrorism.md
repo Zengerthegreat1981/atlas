@@ -1,6 +1,6 @@
 ---
 slug: "trm-madsen-j-2004-suicide-terrorism"
-id: "TRM-ENG-37046"
+id: "TRM-ENG-66104"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Madsen, J. (2004). Suicide terrorism"

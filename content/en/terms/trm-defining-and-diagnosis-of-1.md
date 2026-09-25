@@ -1,6 +1,6 @@
 ---
 slug: "trm-defining-and-diagnosis-of-1"
-id: "TRM-ENG-39871"
+id: "TRM-ENG-54400"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "defining and “diagnosis” of, 1"

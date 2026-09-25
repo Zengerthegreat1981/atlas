@@ -1,6 +1,6 @@
 ---
 slug: "trm-optimizing-diagnostic-tests"
-id: "TRM-ENG-36019"
+id: "TRM-ENG-50548"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "optimizing diagnostic tests"

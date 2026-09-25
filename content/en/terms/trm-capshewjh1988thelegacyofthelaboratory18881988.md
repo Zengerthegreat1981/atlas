@@ -1,6 +1,6 @@
 ---
 slug: "trm-capshewjh1988thelegacyofthelaboratory18881988"
-id: "TRM-ENG-36679"
+id: "TRM-ENG-51208"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Capshew,J.H.(1988).TheLegacyofthelaboratory(1888–1988)"

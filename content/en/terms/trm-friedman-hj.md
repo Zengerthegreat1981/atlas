@@ -1,6 +1,6 @@
 ---
 slug: "trm-friedman-hj"
-id: "TRM-ENG-40627"
+id: "TRM-ENG-55156"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Friedman HJ"

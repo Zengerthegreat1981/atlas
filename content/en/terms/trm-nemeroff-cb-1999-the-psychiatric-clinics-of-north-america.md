@@ -1,6 +1,6 @@
 ---
 slug: "trm-nemeroff-cb-1999-the-psychiatric-clinics-of-north-america"
-id: "TRM-ENG-35861"
+id: "TRM-ENG-64919"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nemeroff, C.B. (1999). The psychiatric clinics of North America"

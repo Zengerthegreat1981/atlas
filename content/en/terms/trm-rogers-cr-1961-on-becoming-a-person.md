@@ -1,6 +1,6 @@
 ---
 slug: "trm-rogers-cr-1961-on-becoming-a-person"
-id: "TRM-ENG-45482"
+id: "TRM-ENG-60011"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rogers, C.R. (1961) On Becoming a Person"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-vocational-psychology-research-web-site-and-4"
-id: "TRM-ENG-38983"
+id: "TRM-ENG-53512"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Vocational Psychology Research Web site and, 4"

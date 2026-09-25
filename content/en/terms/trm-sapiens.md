@@ -1,6 +1,6 @@
 ---
 slug: "trm-sapiens"
-id: "TRM-ENG-45491"
+id: "TRM-ENG-60020"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sapiens"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-blinder-mg-kirschenbaum-m"
-id: "TRM-ENG-39965"
+id: "TRM-ENG-54494"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Blinder MG, Kirschenbaum M"

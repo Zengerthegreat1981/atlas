@@ -1,6 +1,6 @@
 ---
 slug: "trm-living-standards-across-nations-and-3"
-id: "TRM-ENG-40736"
+id: "TRM-ENG-55265"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "living standards across nations and, 3"

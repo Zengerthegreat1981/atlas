@@ -1,6 +1,6 @@
 ---
 slug: "trm-failureofreflexesandcoma"
-id: "TRM-ENG-43647"
+id: "TRM-ENG-58176"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "failureofreflexesandcoma."

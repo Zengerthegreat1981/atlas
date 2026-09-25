@@ -1,6 +1,6 @@
 ---
 slug: "trm-kierkegaard-sren-1"
-id: "TRM-ENG-46873"
+id: "TRM-ENG-61402"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kierkegaard, Søren, 1"

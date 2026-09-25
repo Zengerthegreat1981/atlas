@@ -1,6 +1,6 @@
 ---
 slug: "trm-420-lewis-m-taft-lt-eds"
-id: "TRM-ENG-39009"
+id: "TRM-ENG-53538"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "420. Lewis M, Taft LT (eds)"

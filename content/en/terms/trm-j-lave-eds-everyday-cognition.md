@@ -1,6 +1,6 @@
 ---
 slug: "trm-j-lave-eds-everyday-cognition"
-id: "TRM-ENG-46102"
+id: "TRM-ENG-60631"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "& J. Lave (Eds.), Everyday cognition"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-receptor"
-id: "TRM-ENG-43830"
+id: "TRM-ENG-58359"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "receptor."

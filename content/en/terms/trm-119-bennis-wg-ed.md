@@ -1,6 +1,6 @@
 ---
 slug: "trm-119-bennis-wg-ed"
-id: "TRM-ENG-38580"
+id: "TRM-ENG-53109"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "119. Bennis WG (ed)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-connected-with-the-limbic-cortex"
-id: "TRM-ENG-34799"
+id: "TRM-ENG-63857"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "connected with the limbic cortex"

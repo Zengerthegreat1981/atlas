@@ -1,6 +1,6 @@
 ---
 slug: "trm-gramsci-1"
-id: "TRM-ENG-46704"
+id: "TRM-ENG-61233"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gramsci, 1"

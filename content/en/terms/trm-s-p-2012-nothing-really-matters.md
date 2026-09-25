@@ -1,6 +1,6 @@
 ---
 slug: "trm-s-p-2012-nothing-really-matters"
-id: "TRM-ENG-42519"
+id: "TRM-ENG-57048"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "S. P. (2012). “Nothing really matters”"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-mills-t-w-1886-outlines-of-lectures-in-physiology-montreal"
-id: "TRM-ENG-37083"
+id: "TRM-ENG-66141"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mills, T. W. (1886). Outlines of lectures in physiology. Montreal"

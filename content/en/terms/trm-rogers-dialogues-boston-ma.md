@@ -1,6 +1,6 @@
 ---
 slug: "trm-rogers-dialogues-boston-ma"
-id: "TRM-ENG-50968"
+id: "TRM-ENG-65497"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rogers dialogues. Boston, MA"

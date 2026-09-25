@@ -1,6 +1,6 @@
 ---
 slug: "trm-minton-h-l-1988-lewis-m-terman"
-id: "TRM-ENG-37085"
+id: "TRM-ENG-66143"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Minton, H. L. (1988). Lewis M. Terman"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-trary-education-one-receives-from-das-man-time"
-id: "TRM-ENG-48968"
+id: "TRM-ENG-63497"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "trary education one receives from das Man. time"

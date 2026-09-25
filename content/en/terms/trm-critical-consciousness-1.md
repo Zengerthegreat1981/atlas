@@ -1,6 +1,6 @@
 ---
 slug: "trm-critical-consciousness-1"
-id: "TRM-ENG-46471"
+id: "TRM-ENG-61000"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Critical consciousness, 1"

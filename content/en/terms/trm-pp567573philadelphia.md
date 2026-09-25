@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp567573philadelphia"
-id: "TRM-ENG-46354"
+id: "TRM-ENG-60883"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp.567±573).Philadelphia"

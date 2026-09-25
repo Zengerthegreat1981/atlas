@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychologyofpovertyanddeprivation"
-id: "TRM-ENG-37209"
+id: "TRM-ENG-66267"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychologyofpovertyanddeprivation"

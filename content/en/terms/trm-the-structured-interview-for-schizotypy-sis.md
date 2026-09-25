@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-structured-interview-for-schizotypy-sis"
-id: "TRM-ENG-42552"
+id: "TRM-ENG-57081"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The Structured Interview for Schizotypy (SIS)"

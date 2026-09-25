@@ -1,6 +1,6 @@
 ---
 slug: "trm-judge-or-arbitrator-as-final-decision-maker-and-1"
-id: "TRM-ENG-40669"
+id: "TRM-ENG-55198"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "judge or arbitrator as final decision maker and, 1"

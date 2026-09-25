@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychology2ndedpp620621detroit"
-id: "TRM-ENG-38151"
+id: "TRM-ENG-52680"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychology(2nded.,pp.620–621).Detroit"

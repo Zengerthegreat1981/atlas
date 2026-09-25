@@ -1,6 +1,6 @@
 ---
 slug: "trm-fairer-to-say-that-if-a-very-large-number"
-id: "TRM-ENG-36421"
+id: "TRM-ENG-50950"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "fairer to say that if a very large number"

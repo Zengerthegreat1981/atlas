@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp213239hillsdalenj"
-id: "TRM-ENG-46347"
+id: "TRM-ENG-60876"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp.213±239).Hillsdale,NJ"

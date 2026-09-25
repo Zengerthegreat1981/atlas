@@ -1,6 +1,6 @@
 ---
 slug: "trm-endangered-2"
-id: "TRM-ENG-47963"
+id: "TRM-ENG-62492"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "endangered, 2"

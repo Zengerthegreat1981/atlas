@@ -1,6 +1,6 @@
 ---
 slug: "trm-historyofphilosophy161978"
-id: "TRM-ENG-45715"
+id: "TRM-ENG-60244"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "HistoryofPhilosophy16(1978)"

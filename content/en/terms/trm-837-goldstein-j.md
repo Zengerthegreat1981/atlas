@@ -1,6 +1,6 @@
 ---
 slug: "trm-837-goldstein-j"
-id: "TRM-ENG-39498"
+id: "TRM-ENG-54027"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "837. Goldstein J"

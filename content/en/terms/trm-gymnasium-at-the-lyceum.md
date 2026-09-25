@@ -1,6 +1,6 @@
 ---
 slug: "trm-gymnasium-at-the-lyceum"
-id: "TRM-ENG-48094"
+id: "TRM-ENG-62623"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "gymnasium at the Lyceum"

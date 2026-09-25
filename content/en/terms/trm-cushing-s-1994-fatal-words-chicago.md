@@ -1,6 +1,6 @@
 ---
 slug: "trm-cushing-s-1994-fatal-words-chicago"
-id: "TRM-ENG-34664"
+id: "TRM-ENG-63722"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cushing, S. (1994). Fatal words. Chicago"

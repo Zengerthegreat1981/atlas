@@ -1,6 +1,6 @@
 ---
 slug: "trm-dische-s"
-id: "TRM-ENG-40359"
+id: "TRM-ENG-54888"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dische S"

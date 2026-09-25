@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavioural-treatments-for-epilepsy"
-id: "TRM-ENG-46860"
+id: "TRM-ENG-61389"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behavioural treatments for epilepsy"

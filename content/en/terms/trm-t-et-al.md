@@ -1,6 +1,6 @@
 ---
 slug: "trm-t-et-al"
-id: "TRM-ENG-48116"
+id: "TRM-ENG-62645"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "T, et al"

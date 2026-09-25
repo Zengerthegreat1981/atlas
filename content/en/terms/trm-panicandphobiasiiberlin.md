@@ -1,6 +1,6 @@
 ---
 slug: "trm-panicandphobiasiiberlin"
-id: "TRM-ENG-49109"
+id: "TRM-ENG-63638"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "PanicandphobiasII.Berlin"

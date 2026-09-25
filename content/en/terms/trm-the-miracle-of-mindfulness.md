@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-miracle-of-mindfulness"
-id: "TRM-ENG-46283"
+id: "TRM-ENG-60812"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "———. The Miracle of Mindfulness"

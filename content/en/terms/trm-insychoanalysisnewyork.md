@@ -1,6 +1,6 @@
 ---
 slug: "trm-insychoanalysisnewyork"
-id: "TRM-ENG-37872"
+id: "TRM-ENG-52401"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "insychoanalysis.NewYork"

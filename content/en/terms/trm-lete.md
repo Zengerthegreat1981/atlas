@@ -1,6 +1,6 @@
 ---
 slug: "trm-lete"
-id: "TRM-ENG-43713"
+id: "TRM-ENG-58242"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lete"

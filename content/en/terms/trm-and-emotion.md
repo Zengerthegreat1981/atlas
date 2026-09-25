@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-emotion"
-id: "TRM-ENG-36127"
+id: "TRM-ENG-65185"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and emotion"

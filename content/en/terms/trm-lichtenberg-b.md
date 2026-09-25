@@ -1,6 +1,6 @@
 ---
 slug: "trm-lichtenberg-b"
-id: "TRM-ENG-41451"
+id: "TRM-ENG-55980"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lichtenberg B"

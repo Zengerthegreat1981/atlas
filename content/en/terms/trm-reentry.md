@@ -1,6 +1,6 @@
 ---
 slug: "trm-reentry"
-id: "TRM-ENG-35012"
+id: "TRM-ENG-64070"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reentry"

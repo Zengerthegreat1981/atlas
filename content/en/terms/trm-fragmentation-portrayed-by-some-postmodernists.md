@@ -1,6 +1,6 @@
 ---
 slug: "trm-fragmentation-portrayed-by-some-postmodernists"
-id: "TRM-ENG-45906"
+id: "TRM-ENG-60435"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "fragmentation portrayed by some postmodernists."

@@ -1,6 +1,6 @@
 ---
 slug: "trm-816-hersen-m-ed"
-id: "TRM-ENG-39476"
+id: "TRM-ENG-54005"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "816. Hersen M (ed)"

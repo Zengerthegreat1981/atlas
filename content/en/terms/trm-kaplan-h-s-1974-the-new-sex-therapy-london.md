@@ -1,6 +1,6 @@
 ---
 slug: "trm-kaplan-h-s-1974-the-new-sex-therapy-london"
-id: "TRM-ENG-49051"
+id: "TRM-ENG-63580"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kaplan, H. S. (1974). The new sex therapy. London"

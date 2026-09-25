@@ -1,6 +1,6 @@
 ---
 slug: "trm-ety-disorder"
-id: "TRM-ENG-43995"
+id: "TRM-ENG-58524"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ETY DISORDER"

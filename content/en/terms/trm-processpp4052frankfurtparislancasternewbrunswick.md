@@ -1,6 +1,6 @@
 ---
 slug: "trm-processpp4052frankfurtparislancasternewbrunswick"
-id: "TRM-ENG-38122"
+id: "TRM-ENG-52651"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "process(pp.40–52).Frankfurt/Paris/Lancaster/NewBrunswick"

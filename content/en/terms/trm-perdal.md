@@ -1,6 +1,6 @@
 ---
 slug: "trm-perdal"
-id: "TRM-ENG-36844"
+id: "TRM-ENG-51373"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "perdal)"

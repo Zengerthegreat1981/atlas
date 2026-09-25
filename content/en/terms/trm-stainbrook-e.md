@@ -1,6 +1,6 @@
 ---
 slug: "trm-stainbrook-e"
-id: "TRM-ENG-42440"
+id: "TRM-ENG-56969"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stainbrook E"

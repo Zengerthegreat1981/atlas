@@ -1,6 +1,6 @@
 ---
 slug: "trm-data-demography-461-125-retrieved-from-http"
-id: "TRM-ENG-47863"
+id: "TRM-ENG-62392"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "data. Demography, 46(1), 1–25. Retrieved from http"

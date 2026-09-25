@@ -1,6 +1,6 @@
 ---
 slug: "trm-basis-for-resolving"
-id: "TRM-ENG-45850"
+id: "TRM-ENG-60379"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "basis for resolving"

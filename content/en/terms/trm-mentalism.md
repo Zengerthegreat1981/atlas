@@ -1,6 +1,6 @@
 ---
 slug: "trm-mentalism"
-id: "TRM-ENG-44089"
+id: "TRM-ENG-58618"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mentalism."

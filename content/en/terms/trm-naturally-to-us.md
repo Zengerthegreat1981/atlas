@@ -1,6 +1,6 @@
 ---
 slug: "trm-naturally-to-us"
-id: "TRM-ENG-48395"
+id: "TRM-ENG-62924"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "naturally to us"

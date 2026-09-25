@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-tension"
-id: "TRM-ENG-45199"
+id: "TRM-ENG-59728"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in tension"

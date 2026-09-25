@@ -1,6 +1,6 @@
 ---
 slug: "trm-feld-m-goodman-jr-guido-ja"
-id: "TRM-ENG-40506"
+id: "TRM-ENG-55035"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Feld M, Goodman JR, Guido JA"

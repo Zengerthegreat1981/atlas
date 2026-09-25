@@ -1,6 +1,6 @@
 ---
 slug: "trm-modood-tariq-2"
-id: "TRM-ENG-47010"
+id: "TRM-ENG-61539"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Modood, Tariq, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-minism"
-id: "TRM-ENG-44003"
+id: "TRM-ENG-58532"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "MINISM,"

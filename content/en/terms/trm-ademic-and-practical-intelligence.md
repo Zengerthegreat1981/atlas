@@ -1,6 +1,6 @@
 ---
 slug: "trm-ademic-and-practical-intelligence"
-id: "TRM-ENG-34847"
+id: "TRM-ENG-63905"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ademic and practical intelligence"

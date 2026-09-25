@@ -1,6 +1,6 @@
 ---
 slug: "trm-lloyd-g-1984-the-man-of-reason"
-id: "TRM-ENG-46942"
+id: "TRM-ENG-61471"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lloyd, G. (1984). The man of reason"

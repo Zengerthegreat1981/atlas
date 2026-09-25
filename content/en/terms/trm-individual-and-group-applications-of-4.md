@@ -1,6 +1,6 @@
 ---
 slug: "trm-individual-and-group-applications-of-4"
-id: "TRM-ENG-40515"
+id: "TRM-ENG-55044"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "individual and group applications of, 4"

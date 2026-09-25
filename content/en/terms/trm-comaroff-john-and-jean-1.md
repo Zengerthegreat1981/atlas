@@ -1,6 +1,6 @@
 ---
 slug: "trm-comaroff-john-and-jean-1"
-id: "TRM-ENG-46428"
+id: "TRM-ENG-60957"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Comaroff, John and Jean, 1"

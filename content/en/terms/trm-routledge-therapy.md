@@ -1,6 +1,6 @@
 ---
 slug: "trm-routledge-therapy"
-id: "TRM-ENG-49155"
+id: "TRM-ENG-63684"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Routledge. therapy"

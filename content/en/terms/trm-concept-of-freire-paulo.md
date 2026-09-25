@@ -1,6 +1,6 @@
 ---
 slug: "trm-concept-of-freire-paulo"
-id: "TRM-ENG-46442"
+id: "TRM-ENG-60971"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Concept of; Freire, Paulo"

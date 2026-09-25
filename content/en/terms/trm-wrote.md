@@ -1,6 +1,6 @@
 ---
 slug: "trm-wrote"
-id: "TRM-ENG-38464"
+id: "TRM-ENG-52993"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "wrote"

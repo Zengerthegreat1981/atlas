@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-dendritic-spine"
-id: "TRM-ENG-35077"
+id: "TRM-ENG-64135"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the dendritic spine"

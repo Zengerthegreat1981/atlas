@@ -1,6 +1,6 @@
 ---
 slug: "trm-915-group-for-the-advancement-of-psychiatry"
-id: "TRM-ENG-39590"
+id: "TRM-ENG-54119"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "915. Group for the Advancement of Psychiatry"

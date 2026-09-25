@@ -1,6 +1,6 @@
 ---
 slug: "trm-regulation-of-performance"
-id: "TRM-ENG-45468"
+id: "TRM-ENG-59997"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "regulation of performance"

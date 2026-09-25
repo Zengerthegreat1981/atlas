@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-surface-of-the-skin-we-now-know-this-is-not-so-even-in-proposition-1"
-id: "TRM-ENG-37128"
+id: "TRM-ENG-66186"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the surface of the skin. We now know this is not so. Even in Proposition 1"

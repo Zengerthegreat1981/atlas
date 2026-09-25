@@ -1,6 +1,6 @@
 ---
 slug: "trm-modelandthecontraceptivebehaviorofcollegewomen"
-id: "TRM-ENG-47130"
+id: "TRM-ENG-61659"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "modelandthecontraceptivebehaviorofcollegewomen"

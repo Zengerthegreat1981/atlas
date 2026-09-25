@@ -1,6 +1,6 @@
 ---
 slug: "trm-vol-2-therapy"
-id: "TRM-ENG-42683"
+id: "TRM-ENG-57212"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Vol. 2, Therapy"

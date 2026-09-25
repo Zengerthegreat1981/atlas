@@ -1,6 +1,6 @@
 ---
 slug: "trm-pathy"
-id: "TRM-ENG-43792"
+id: "TRM-ENG-58321"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pathy"

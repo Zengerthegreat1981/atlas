@@ -1,6 +1,6 @@
 ---
 slug: "trm-617-ackerman-nw"
-id: "TRM-ENG-39240"
+id: "TRM-ENG-53769"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "617. Ackerman NW"

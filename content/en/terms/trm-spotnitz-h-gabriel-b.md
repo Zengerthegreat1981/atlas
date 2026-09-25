@@ -1,6 +1,6 @@
 ---
 slug: "trm-spotnitz-h-gabriel-b"
-id: "TRM-ENG-42436"
+id: "TRM-ENG-56965"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spotnitz H, Gabriel B"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-during-the-whole-treatment"
-id: "TRM-ENG-45002"
+id: "TRM-ENG-59531"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "during the whole treatment"

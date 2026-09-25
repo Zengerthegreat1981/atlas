@@ -1,6 +1,6 @@
 ---
 slug: "trm-man-performance"
-id: "TRM-ENG-36666"
+id: "TRM-ENG-51195"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "man performance"

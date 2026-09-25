@@ -1,6 +1,6 @@
 ---
 slug: "trm-another-consequence"
-id: "TRM-ENG-37545"
+id: "TRM-ENG-52074"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "another consequence"

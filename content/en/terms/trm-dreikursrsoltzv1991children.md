@@ -1,6 +1,6 @@
 ---
 slug: "trm-dreikursrsoltzv1991children"
-id: "TRM-ENG-36746"
+id: "TRM-ENG-51275"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dreikurs,R.,&Soltz,V.(1991).Children"

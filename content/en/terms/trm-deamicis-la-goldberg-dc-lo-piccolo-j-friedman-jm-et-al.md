@@ -1,6 +1,6 @@
 ---
 slug: "trm-deamicis-la-goldberg-dc-lo-piccolo-j-friedman-jm-et-al"
-id: "TRM-ENG-40313"
+id: "TRM-ENG-54842"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "DeAmicis LA, Goldberg DC, Lo Piccolo J, Friedman JM, et al"

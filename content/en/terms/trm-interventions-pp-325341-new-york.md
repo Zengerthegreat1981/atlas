@@ -1,6 +1,6 @@
 ---
 slug: "trm-interventions-pp-325341-new-york"
-id: "TRM-ENG-42924"
+id: "TRM-ENG-57453"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "interventions (pp. 325–341). New York"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-doesnt"
-id: "TRM-ENG-39969"
+id: "TRM-ENG-54498"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "doesn’t"

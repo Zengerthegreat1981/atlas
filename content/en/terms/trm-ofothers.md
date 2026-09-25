@@ -1,6 +1,6 @@
 ---
 slug: "trm-ofothers"
-id: "TRM-ENG-43772"
+id: "TRM-ENG-58301"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ofothers"

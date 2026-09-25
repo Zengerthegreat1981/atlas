@@ -1,6 +1,6 @@
 ---
 slug: "trm-thunder"
-id: "TRM-ENG-52428"
+id: "TRM-ENG-66957"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Thunder"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapy-is-implemented"
-id: "TRM-ENG-43211"
+id: "TRM-ENG-57740"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapy is implemented"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-reforminliberaleducationcambridge"
-id: "TRM-ENG-38199"
+id: "TRM-ENG-52728"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reforminliberaleducation.Cambridge"

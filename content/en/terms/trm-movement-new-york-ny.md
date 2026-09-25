@@ -1,6 +1,6 @@
 ---
 slug: "trm-movement-new-york-ny"
-id: "TRM-ENG-48383"
+id: "TRM-ENG-62912"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "movement. New York, NY"

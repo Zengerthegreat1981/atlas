@@ -1,6 +1,6 @@
 ---
 slug: "trm-causal-attributions-and-2"
-id: "TRM-ENG-39459"
+id: "TRM-ENG-53988"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "causal attributions and, 2"

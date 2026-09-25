@@ -1,6 +1,6 @@
 ---
 slug: "trm-seivewright-h-tyrer-p-johnson-t"
-id: "TRM-ENG-48055"
+id: "TRM-ENG-62584"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Seivewright H, Tyrer P, Johnson T"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ical-disorders"
-id: "TRM-ENG-36533"
+id: "TRM-ENG-65591"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ical disorders"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-cumming-j-cumming-e"
-id: "TRM-ENG-40276"
+id: "TRM-ENG-54805"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cumming J, Cumming E"

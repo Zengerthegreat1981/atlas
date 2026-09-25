@@ -1,6 +1,6 @@
 ---
 slug: "trm-stone-l"
-id: "TRM-ENG-42483"
+id: "TRM-ENG-57012"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stone L"

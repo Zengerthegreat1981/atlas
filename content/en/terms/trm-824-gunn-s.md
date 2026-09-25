@@ -1,6 +1,6 @@
 ---
 slug: "trm-824-gunn-s"
-id: "TRM-ENG-39484"
+id: "TRM-ENG-54013"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "824. Gunn S"

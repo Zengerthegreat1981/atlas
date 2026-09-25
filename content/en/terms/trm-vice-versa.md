@@ -1,6 +1,6 @@
 ---
 slug: "trm-vice-versa"
-id: "TRM-ENG-49013"
+id: "TRM-ENG-63542"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "vice versa"

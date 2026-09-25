@@ -1,6 +1,6 @@
 ---
 slug: "trm-sloan-t-1996-damaged-life"
-id: "TRM-ENG-37302"
+id: "TRM-ENG-51831"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sloan, T. (1996). Damaged life"

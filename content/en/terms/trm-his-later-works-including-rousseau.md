@@ -1,6 +1,6 @@
 ---
 slug: "trm-his-later-works-including-rousseau"
-id: "TRM-ENG-36904"
+id: "TRM-ENG-65962"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "His later works including Rousseau"

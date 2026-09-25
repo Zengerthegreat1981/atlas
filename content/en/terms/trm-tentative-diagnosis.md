@@ -1,6 +1,6 @@
 ---
 slug: "trm-tentative-diagnosis"
-id: "TRM-ENG-42557"
+id: "TRM-ENG-57086"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tentative diagnosis"

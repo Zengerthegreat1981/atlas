@@ -1,6 +1,6 @@
 ---
 slug: "trm-ziv-avner-personality-and-sense-of-humor-new-york"
-id: "TRM-ENG-46009"
+id: "TRM-ENG-60538"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ziv, Avner, Personality and Sense of Humor (New York"

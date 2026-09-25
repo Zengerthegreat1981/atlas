@@ -1,6 +1,6 @@
 ---
 slug: "trm-lewin-kk"
-id: "TRM-ENG-41437"
+id: "TRM-ENG-55966"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lewin KK"

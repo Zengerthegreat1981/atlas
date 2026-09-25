@@ -1,6 +1,6 @@
 ---
 slug: "trm-rawls-2"
-id: "TRM-ENG-47184"
+id: "TRM-ENG-61713"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rawls, 2"

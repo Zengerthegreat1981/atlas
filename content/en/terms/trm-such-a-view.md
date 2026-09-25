@@ -1,6 +1,6 @@
 ---
 slug: "trm-such-a-view"
-id: "TRM-ENG-35988"
+id: "TRM-ENG-65046"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Such a view"

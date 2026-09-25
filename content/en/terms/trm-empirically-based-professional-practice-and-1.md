@@ -1,6 +1,6 @@
 ---
 slug: "trm-empirically-based-professional-practice-and-1"
-id: "TRM-ENG-40047"
+id: "TRM-ENG-54576"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "empirically based professional practice and, 1"

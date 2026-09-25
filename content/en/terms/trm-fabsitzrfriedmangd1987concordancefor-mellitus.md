@@ -1,6 +1,6 @@
 ---
 slug: "trm-fabsitzrfriedmangd1987concordancefor-mellitus"
-id: "TRM-ENG-46511"
+id: "TRM-ENG-61040"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fabsitz,R.,&Friedman,G.D.(1987).Concordancefor mellitus"

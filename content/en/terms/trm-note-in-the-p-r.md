@@ -1,6 +1,6 @@
 ---
 slug: "trm-note-in-the-p-r"
-id: "TRM-ENG-35466"
+id: "TRM-ENG-64524"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Note. In the p × (R"

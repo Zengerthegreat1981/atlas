@@ -1,6 +1,6 @@
 ---
 slug: "trm-where-science-spirituality-meet-philadelphia-pa"
-id: "TRM-ENG-44853"
+id: "TRM-ENG-59382"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Where science & spirituality meet. Philadelphia, PA"

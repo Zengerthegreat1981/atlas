@@ -1,6 +1,6 @@
 ---
 slug: "trm-sign-vol-2-pp-239286-new-york"
-id: "TRM-ENG-35313"
+id: "TRM-ENG-64371"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sign (Vol. 2. pp. 239-286). New York"

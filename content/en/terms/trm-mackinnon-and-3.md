@@ -1,6 +1,6 @@
 ---
 slug: "trm-mackinnon-and-3"
-id: "TRM-ENG-37415"
+id: "TRM-ENG-66473"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Mackinnon) and, 3"

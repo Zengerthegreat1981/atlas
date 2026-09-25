@@ -1,6 +1,6 @@
 ---
 slug: "trm-sloane-p"
-id: "TRM-ENG-42373"
+id: "TRM-ENG-56902"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sloane P"

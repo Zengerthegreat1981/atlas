@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-areas"
-id: "TRM-ENG-48399"
+id: "TRM-ENG-62928"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing areas"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-410-gonda-ta-ruark-je"
-id: "TRM-ENG-38998"
+id: "TRM-ENG-53527"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "410. Gonda TA, Ruark JE"

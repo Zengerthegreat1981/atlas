@@ -1,6 +1,6 @@
 ---
 slug: "trm-further-validation-of-the-wpsi-vocational-score"
-id: "TRM-ENG-46520"
+id: "TRM-ENG-61049"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Further validation of the WPSI vocational score"

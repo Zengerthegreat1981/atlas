@@ -1,6 +1,6 @@
 ---
 slug: "trm-panzetta-af"
-id: "TRM-ENG-41912"
+id: "TRM-ENG-56441"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Panzetta AF"

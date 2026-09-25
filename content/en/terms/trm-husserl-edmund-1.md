@@ -1,6 +1,6 @@
 ---
 slug: "trm-husserl-edmund-1"
-id: "TRM-ENG-46779"
+id: "TRM-ENG-61308"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Husserl, Edmund, 1"

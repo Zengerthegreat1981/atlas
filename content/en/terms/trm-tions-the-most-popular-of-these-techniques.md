@@ -1,6 +1,6 @@
 ---
 slug: "trm-tions-the-most-popular-of-these-techniques"
-id: "TRM-ENG-36207"
+id: "TRM-ENG-50736"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tions. The most popular of these techniques"

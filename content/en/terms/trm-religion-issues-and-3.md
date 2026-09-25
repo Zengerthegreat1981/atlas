@@ -1,6 +1,6 @@
 ---
 slug: "trm-religion-issues-and-3"
-id: "TRM-ENG-41490"
+id: "TRM-ENG-56019"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "religion issues and, 3"

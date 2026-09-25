@@ -1,6 +1,6 @@
 ---
 slug: "trm-academic-problems-and-2"
-id: "TRM-ENG-39076"
+id: "TRM-ENG-53605"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "academic problems and, 2"

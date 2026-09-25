@@ -1,6 +1,6 @@
 ---
 slug: "trm-characteranalytical-vegetotherapy-and-1"
-id: "TRM-ENG-51327"
+id: "TRM-ENG-65856"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "characteranalytical vegetotherapy and, 1"

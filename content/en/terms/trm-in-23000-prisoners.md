@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-23000-prisoners"
-id: "TRM-ENG-42882"
+id: "TRM-ENG-57411"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in 23000 prisoners"

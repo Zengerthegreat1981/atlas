@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychoanalytic-approaches"
-id: "TRM-ENG-50886"
+id: "TRM-ENG-65415"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychoanalytic Approaches"

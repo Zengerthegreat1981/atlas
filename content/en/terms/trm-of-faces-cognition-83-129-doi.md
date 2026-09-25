@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-faces-cognition-83-129-doi"
-id: "TRM-ENG-35996"
+id: "TRM-ENG-65054"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of faces. Cognition, 83, 1–29. doi"

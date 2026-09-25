@@ -1,6 +1,6 @@
 ---
 slug: "trm-mellor-d-h-2005-probability"
-id: "TRM-ENG-46989"
+id: "TRM-ENG-61518"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mellor, D. H. (2005). Probability"

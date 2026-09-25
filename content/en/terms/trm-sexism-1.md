@@ -1,6 +1,6 @@
 ---
 slug: "trm-sexism-1"
-id: "TRM-ENG-47268"
+id: "TRM-ENG-61797"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sexism, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-belkin-gs-goodman-n"
-id: "TRM-ENG-39856"
+id: "TRM-ENG-54385"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Belkin GS & Goodman N"

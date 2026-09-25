@@ -1,6 +1,6 @@
 ---
 slug: "trm-1871-http"
-id: "TRM-ENG-36387"
+id: "TRM-ENG-65445"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1871) (http"

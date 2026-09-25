@@ -1,6 +1,6 @@
 ---
 slug: "trm-carra1971compulsiveneurosis"
-id: "TRM-ENG-48927"
+id: "TRM-ENG-63456"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Carr,A.(1971).Compulsiveneurosis"

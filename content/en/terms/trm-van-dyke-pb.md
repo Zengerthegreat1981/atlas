@@ -1,6 +1,6 @@
 ---
 slug: "trm-van-dyke-pb"
-id: "TRM-ENG-42663"
+id: "TRM-ENG-57192"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Van Dyke PB"

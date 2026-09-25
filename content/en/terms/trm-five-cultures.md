@@ -1,6 +1,6 @@
 ---
 slug: "trm-five-cultures"
-id: "TRM-ENG-44386"
+id: "TRM-ENG-58915"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Five Cultures"

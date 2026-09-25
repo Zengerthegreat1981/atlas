@@ -1,6 +1,6 @@
 ---
 slug: "trm-class-size-factor-in-3"
-id: "TRM-ENG-39507"
+id: "TRM-ENG-54036"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "class size factor in, 3"

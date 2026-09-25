@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-ffm-the-neo-personality-inventory"
-id: "TRM-ENG-43859"
+id: "TRM-ENG-58388"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the FFM, the NEO Personality Inventory"

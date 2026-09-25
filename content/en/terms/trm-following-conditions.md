@@ -1,6 +1,6 @@
 ---
 slug: "trm-following-conditions"
-id: "TRM-ENG-40224"
+id: "TRM-ENG-54753"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "following conditions"

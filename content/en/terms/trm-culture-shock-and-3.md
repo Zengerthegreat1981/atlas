@@ -1,6 +1,6 @@
 ---
 slug: "trm-culture-shock-and-3"
-id: "TRM-ENG-39835"
+id: "TRM-ENG-54364"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "culture shock and, 3"

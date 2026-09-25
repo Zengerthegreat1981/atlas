@@ -1,6 +1,6 @@
 ---
 slug: "trm-edspsychologyofterrorismpp116133newyork"
-id: "TRM-ENG-36425"
+id: "TRM-ENG-50954"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Eds.),Psychologyofterrorism(pp.116–133).NewYork"

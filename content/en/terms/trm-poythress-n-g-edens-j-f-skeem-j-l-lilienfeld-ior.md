@@ -1,6 +1,6 @@
 ---
 slug: "trm-poythress-n-g-edens-j-f-skeem-j-l-lilienfeld-ior"
-id: "TRM-ENG-42493"
+id: "TRM-ENG-57022"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Poythress, N. G., Edens, J. F., Skeem, J. L., Lilienfeld, ior"

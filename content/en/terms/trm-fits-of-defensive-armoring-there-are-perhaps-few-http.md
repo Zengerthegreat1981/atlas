@@ -1,6 +1,6 @@
 ---
 slug: "trm-fits-of-defensive-armoring-there-are-perhaps-few-http"
-id: "TRM-ENG-51463"
+id: "TRM-ENG-65992"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "fits of defensive armoring. There are perhaps few http"

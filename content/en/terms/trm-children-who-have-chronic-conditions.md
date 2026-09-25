@@ -1,6 +1,6 @@
 ---
 slug: "trm-children-who-have-chronic-conditions"
-id: "TRM-ENG-46887"
+id: "TRM-ENG-61416"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "children who have chronic conditions"

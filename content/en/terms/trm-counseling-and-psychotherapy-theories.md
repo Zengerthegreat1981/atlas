@@ -1,6 +1,6 @@
 ---
 slug: "trm-counseling-and-psychotherapy-theories"
-id: "TRM-ENG-50287"
+id: "TRM-ENG-64816"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Counseling and Psychotherapy Theories"

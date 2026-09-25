@@ -1,6 +1,6 @@
 ---
 slug: "trm-rayner-k-2009a-eye-movements-in-reading"
-id: "TRM-ENG-35528"
+id: "TRM-ENG-50057"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rayner, K. (2009a). Eye movements in reading"

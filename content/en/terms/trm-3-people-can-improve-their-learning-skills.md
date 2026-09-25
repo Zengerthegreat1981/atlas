@@ -1,6 +1,6 @@
 ---
 slug: "trm-3-people-can-improve-their-learning-skills"
-id: "TRM-ENG-34606"
+id: "TRM-ENG-49135"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "3. People can improve their learning skills"

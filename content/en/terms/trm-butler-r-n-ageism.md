@@ -1,6 +1,6 @@
 ---
 slug: "trm-butler-r-n-ageism"
-id: "TRM-ENG-44314"
+id: "TRM-ENG-58843"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Butler, R. N., “Ageism"

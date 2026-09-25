@@ -1,6 +1,6 @@
 ---
 slug: "trm-polster-e-polster-m"
-id: "TRM-ENG-41994"
+id: "TRM-ENG-56523"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Polster E, Polster M"

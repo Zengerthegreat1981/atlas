@@ -1,6 +1,6 @@
 ---
 slug: "trm-brief-therapy-and-2"
-id: "TRM-ENG-39388"
+id: "TRM-ENG-53917"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "brief therapy and, 2"

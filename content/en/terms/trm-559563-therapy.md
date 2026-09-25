@@ -1,6 +1,6 @@
 ---
 slug: "trm-559563-therapy"
-id: "TRM-ENG-48860"
+id: "TRM-ENG-63389"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "559±563. therapy"

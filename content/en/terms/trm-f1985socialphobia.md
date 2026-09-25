@@ -1,6 +1,6 @@
 ---
 slug: "trm-f1985socialphobia"
-id: "TRM-ENG-48977"
+id: "TRM-ENG-63506"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "F.(1985).Socialphobia"

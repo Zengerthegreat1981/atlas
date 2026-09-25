@@ -1,6 +1,6 @@
 ---
 slug: "trm-ists-later-in-the-century"
-id: "TRM-ENG-37895"
+id: "TRM-ENG-66953"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ists later in the century"

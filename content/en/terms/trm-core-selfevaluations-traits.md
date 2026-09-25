@@ -1,6 +1,6 @@
 ---
 slug: "trm-core-selfevaluations-traits"
-id: "TRM-ENG-35738"
+id: "TRM-ENG-50267"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "core self-evaluations traits"

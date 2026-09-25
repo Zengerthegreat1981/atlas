@@ -1,6 +1,6 @@
 ---
 slug: "trm-ity-disorders-personality-disorders"
-id: "TRM-ENG-43715"
+id: "TRM-ENG-58244"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ity disorders. Personality Disorders"

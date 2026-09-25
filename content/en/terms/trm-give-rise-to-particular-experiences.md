@@ -1,6 +1,6 @@
 ---
 slug: "trm-give-rise-to-particular-experiences"
-id: "TRM-ENG-35829"
+id: "TRM-ENG-64887"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "give rise to particular experiences"

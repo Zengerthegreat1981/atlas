@@ -1,6 +1,6 @@
 ---
 slug: "trm-tial-in-the-promotion-of-childrens-mental-health"
-id: "TRM-ENG-35395"
+id: "TRM-ENG-64453"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tial in the promotion of children’s mental health"

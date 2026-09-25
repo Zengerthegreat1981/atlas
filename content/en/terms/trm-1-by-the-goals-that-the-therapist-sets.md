@@ -1,6 +1,6 @@
 ---
 slug: "trm-1-by-the-goals-that-the-therapist-sets"
-id: "TRM-ENG-38537"
+id: "TRM-ENG-53066"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1. By the goals that the therapist sets"

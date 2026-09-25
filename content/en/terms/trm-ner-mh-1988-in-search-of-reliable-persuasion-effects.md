@@ -1,6 +1,6 @@
 ---
 slug: "trm-ner-mh-1988-in-search-of-reliable-persuasion-effects"
-id: "TRM-ENG-36745"
+id: "TRM-ENG-65803"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ner, M.H. (1988). In search of reliable persuasion effects"

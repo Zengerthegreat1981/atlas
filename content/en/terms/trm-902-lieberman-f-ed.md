@@ -1,6 +1,6 @@
 ---
 slug: "trm-902-lieberman-f-ed"
-id: "TRM-ENG-39576"
+id: "TRM-ENG-54105"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "902. Lieberman F (ed)"

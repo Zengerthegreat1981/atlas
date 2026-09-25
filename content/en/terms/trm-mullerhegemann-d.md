@@ -1,6 +1,6 @@
 ---
 slug: "trm-mullerhegemann-d"
-id: "TRM-ENG-41788"
+id: "TRM-ENG-56317"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Muller-Hegemann D"

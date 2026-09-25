@@ -1,6 +1,6 @@
 ---
 slug: "trm-satiation"
-id: "TRM-ENG-52371"
+id: "TRM-ENG-66900"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Satiation"

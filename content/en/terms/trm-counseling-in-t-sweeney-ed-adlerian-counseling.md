@@ -1,6 +1,6 @@
 ---
 slug: "trm-counseling-in-t-sweeney-ed-adlerian-counseling"
-id: "TRM-ENG-39754"
+id: "TRM-ENG-54283"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "counseling. In T. Sweeney (Ed.), Adlerian counseling"

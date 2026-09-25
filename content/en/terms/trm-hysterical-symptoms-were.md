@@ -1,6 +1,6 @@
 ---
 slug: "trm-hysterical-symptoms-were"
-id: "TRM-ENG-44184"
+id: "TRM-ENG-58713"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(hysterical) symptoms were"

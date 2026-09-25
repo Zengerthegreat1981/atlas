@@ -1,6 +1,6 @@
 ---
 slug: "trm-factors-that-facilitate-3"
-id: "TRM-ENG-40162"
+id: "TRM-ENG-54691"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "factors that facilitate, 3"

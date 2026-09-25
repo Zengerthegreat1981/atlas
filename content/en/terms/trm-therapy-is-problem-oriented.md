@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapy-is-problem-oriented"
-id: "TRM-ENG-49203"
+id: "TRM-ENG-63732"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Therapy is problem oriented"

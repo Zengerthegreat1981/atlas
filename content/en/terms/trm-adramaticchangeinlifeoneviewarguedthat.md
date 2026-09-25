@@ -1,6 +1,6 @@
 ---
 slug: "trm-adramaticchangeinlifeoneviewarguedthat"
-id: "TRM-ENG-37485"
+id: "TRM-ENG-66543"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "adramaticchangeinlife?Oneviewarguedthat"

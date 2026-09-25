@@ -1,6 +1,6 @@
 ---
 slug: "trm-can-be-classified-in-four-ways"
-id: "TRM-ENG-39396"
+id: "TRM-ENG-53925"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "can be classified in four ways"

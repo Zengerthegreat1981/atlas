@@ -1,6 +1,6 @@
 ---
 slug: "trm-hinsie-le-campbell-rj"
-id: "TRM-ENG-40998"
+id: "TRM-ENG-55527"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hinsie LE, Campbell RJ"

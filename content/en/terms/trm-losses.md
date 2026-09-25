@@ -1,6 +1,6 @@
 ---
 slug: "trm-losses"
-id: "TRM-ENG-45280"
+id: "TRM-ENG-59809"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "losses"

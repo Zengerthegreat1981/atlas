@@ -1,6 +1,6 @@
 ---
 slug: "trm-philosophy-and-psychotherapy"
-id: "TRM-ENG-51992"
+id: "TRM-ENG-66521"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“Philosophy and Psychotherapy"

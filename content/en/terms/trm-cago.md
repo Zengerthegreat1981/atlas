@@ -1,6 +1,6 @@
 ---
 slug: "trm-cago"
-id: "TRM-ENG-34918"
+id: "TRM-ENG-63976"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cago"

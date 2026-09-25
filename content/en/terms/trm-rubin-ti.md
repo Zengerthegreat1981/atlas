@@ -1,6 +1,6 @@
 ---
 slug: "trm-rubin-ti"
-id: "TRM-ENG-42193"
+id: "TRM-ENG-56722"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rubin TI"

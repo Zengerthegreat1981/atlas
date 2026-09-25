@@ -1,6 +1,6 @@
 ---
 slug: "trm-better-sleep-inc"
-id: "TRM-ENG-39921"
+id: "TRM-ENG-54450"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Better Sleep Inc"

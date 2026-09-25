@@ -1,6 +1,6 @@
 ---
 slug: "trm-rossi-el"
-id: "TRM-ENG-42188"
+id: "TRM-ENG-56717"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rossi EL"

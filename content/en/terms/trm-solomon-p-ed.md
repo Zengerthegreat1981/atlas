@@ -1,6 +1,6 @@
 ---
 slug: "trm-solomon-p-ed"
-id: "TRM-ENG-42406"
+id: "TRM-ENG-56935"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Solomon P (ed)"

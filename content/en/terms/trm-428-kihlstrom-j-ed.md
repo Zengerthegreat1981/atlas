@@ -1,6 +1,6 @@
 ---
 slug: "trm-428-kihlstrom-j-ed"
-id: "TRM-ENG-39016"
+id: "TRM-ENG-53545"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "428. Kihlstrom J (ed)"

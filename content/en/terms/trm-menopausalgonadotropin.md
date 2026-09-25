@@ -1,6 +1,6 @@
 ---
 slug: "trm-menopausalgonadotropin"
-id: "TRM-ENG-43731"
+id: "TRM-ENG-58260"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "menopausalgonadotropin."

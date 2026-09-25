@@ -1,6 +1,6 @@
 ---
 slug: "trm-with-precisely-the-same-meaning"
-id: "TRM-ENG-43911"
+id: "TRM-ENG-58440"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "with precisely the same meaning"

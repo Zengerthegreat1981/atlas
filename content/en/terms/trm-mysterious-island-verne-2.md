@@ -1,6 +1,6 @@
 ---
 slug: "trm-mysterious-island-verne-2"
-id: "TRM-ENG-50779"
+id: "TRM-ENG-65308"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mysterious Island (Verne), 2"

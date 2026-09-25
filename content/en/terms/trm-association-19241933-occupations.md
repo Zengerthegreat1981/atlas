@@ -1,6 +1,6 @@
 ---
 slug: "trm-association-19241933-occupations"
-id: "TRM-ENG-37633"
+id: "TRM-ENG-66691"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Association (1924–1933), Occupations"

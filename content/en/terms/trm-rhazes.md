@@ -1,6 +1,6 @@
 ---
 slug: "trm-rhazes"
-id: "TRM-ENG-44595"
+id: "TRM-ENG-59124"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rhazes"

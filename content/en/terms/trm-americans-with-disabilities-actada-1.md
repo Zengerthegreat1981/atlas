@@ -1,6 +1,6 @@
 ---
 slug: "trm-americans-with-disabilities-actada-1"
-id: "TRM-ENG-37596"
+id: "TRM-ENG-52125"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Americans with Disabilities Act(ADA), 1"

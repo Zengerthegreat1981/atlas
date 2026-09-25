@@ -1,6 +1,6 @@
 ---
 slug: "trm-pattakos-a-2004-the-prisoners-of-our-thoughts"
-id: "TRM-ENG-50837"
+id: "TRM-ENG-65366"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pattakos, A. (2004). The prisoners of our thoughts"

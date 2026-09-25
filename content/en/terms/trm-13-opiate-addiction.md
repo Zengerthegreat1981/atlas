@@ -1,6 +1,6 @@
 ---
 slug: "trm-13-opiate-addiction"
-id: "TRM-ENG-38599"
+id: "TRM-ENG-53128"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "13. opiate addiction"

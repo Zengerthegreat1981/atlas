@@ -1,6 +1,6 @@
 ---
 slug: "trm-apy-jama-300"
-id: "TRM-ENG-48206"
+id: "TRM-ENG-62735"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "apy. JAMA 300"

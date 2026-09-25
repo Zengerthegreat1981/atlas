@@ -1,6 +1,6 @@
 ---
 slug: "trm-smoking-in-men"
-id: "TRM-ENG-44637"
+id: "TRM-ENG-59166"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Smoking in Men"

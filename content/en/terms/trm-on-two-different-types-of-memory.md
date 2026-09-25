@@ -1,6 +1,6 @@
 ---
 slug: "trm-on-two-different-types-of-memory"
-id: "TRM-ENG-43088"
+id: "TRM-ENG-57617"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "on two different types of memory"

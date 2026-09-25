@@ -1,6 +1,6 @@
 ---
 slug: "trm-ponsford-j-1990-editorial"
-id: "TRM-ENG-46657"
+id: "TRM-ENG-61186"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ponsford, J. (1990). Editorial"

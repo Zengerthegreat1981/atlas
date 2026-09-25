@@ -1,6 +1,6 @@
 ---
 slug: "trm-spencer-2"
-id: "TRM-ENG-47319"
+id: "TRM-ENG-61848"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spencer, 2"

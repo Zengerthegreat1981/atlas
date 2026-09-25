@@ -1,6 +1,6 @@
 ---
 slug: "trm-bias-for-appetitive-cues"
-id: "TRM-ENG-42685"
+id: "TRM-ENG-57214"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bias for appetitive cues"

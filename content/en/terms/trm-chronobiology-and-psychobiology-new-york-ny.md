@@ -1,6 +1,6 @@
 ---
 slug: "trm-chronobiology-and-psychobiology-new-york-ny"
-id: "TRM-ENG-51330"
+id: "TRM-ENG-65859"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chronobiology and psychobiology. New York, NY"

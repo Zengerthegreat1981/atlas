@@ -1,6 +1,6 @@
 ---
 slug: "trm-attraction-errors-2"
-id: "TRM-ENG-44316"
+id: "TRM-ENG-58845"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Attraction errors, 2"

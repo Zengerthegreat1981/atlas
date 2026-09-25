@@ -1,6 +1,6 @@
 ---
 slug: "trm-coeditor-of-one-of-its-journals"
-id: "TRM-ENG-44941"
+id: "TRM-ENG-59470"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "co-editor of one of its journals"

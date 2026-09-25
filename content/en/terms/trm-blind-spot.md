@@ -1,6 +1,6 @@
 ---
 slug: "trm-blind-spot"
-id: "TRM-ENG-52083"
+id: "TRM-ENG-66612"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Blind spot"

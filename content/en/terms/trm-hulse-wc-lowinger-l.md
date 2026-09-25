@@ -1,6 +1,6 @@
 ---
 slug: "trm-hulse-wc-lowinger-l"
-id: "TRM-ENG-41052"
+id: "TRM-ENG-55581"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hulse WC, Lowinger L"

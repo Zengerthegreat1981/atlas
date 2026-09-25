@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-use-anchoring-vignettes"
-id: "TRM-ENG-43891"
+id: "TRM-ENG-58420"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to use anchoring vignettes"

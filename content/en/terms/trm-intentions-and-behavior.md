@@ -1,6 +1,6 @@
 ---
 slug: "trm-intentions-and-behavior"
-id: "TRM-ENG-47061"
+id: "TRM-ENG-61590"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "intentions and behavior"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavioral-genetic-studies-of-personality"
-id: "TRM-ENG-42325"
+id: "TRM-ENG-56854"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Behavioral genetic studies of personality"

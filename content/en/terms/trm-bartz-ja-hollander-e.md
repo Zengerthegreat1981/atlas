@@ -1,6 +1,6 @@
 ---
 slug: "trm-bartz-ja-hollander-e"
-id: "TRM-ENG-47491"
+id: "TRM-ENG-62020"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bartz JA, Hollander E"

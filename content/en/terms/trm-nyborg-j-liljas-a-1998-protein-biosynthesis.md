@@ -1,6 +1,6 @@
 ---
 slug: "trm-nyborg-j-liljas-a-1998-protein-biosynthesis"
-id: "TRM-ENG-35868"
+id: "TRM-ENG-64926"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nyborg, J., & Liljas, A. (1998). Protein biosynthesis"

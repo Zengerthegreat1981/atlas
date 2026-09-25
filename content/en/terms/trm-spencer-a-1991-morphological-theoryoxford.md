@@ -1,6 +1,6 @@
 ---
 slug: "trm-spencer-a-1991-morphological-theoryoxford"
-id: "TRM-ENG-35971"
+id: "TRM-ENG-65029"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spencer, A. (1991). Morphological theory.Oxford"

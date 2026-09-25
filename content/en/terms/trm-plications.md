@@ -1,6 +1,6 @@
 ---
 slug: "trm-plications"
-id: "TRM-ENG-36867"
+id: "TRM-ENG-65925"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "plications"

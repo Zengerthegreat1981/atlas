@@ -1,6 +1,6 @@
 ---
 slug: "trm-borderline-personality-disorder-1"
-id: "TRM-ENG-44340"
+id: "TRM-ENG-58869"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Borderline personality disorder , 1"

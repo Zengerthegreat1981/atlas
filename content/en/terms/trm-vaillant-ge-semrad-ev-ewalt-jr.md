@@ -1,6 +1,6 @@
 ---
 slug: "trm-vaillant-ge-semrad-ev-ewalt-jr"
-id: "TRM-ENG-42659"
+id: "TRM-ENG-57188"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Vaillant GE, Semrad EV, Ewalt JR"

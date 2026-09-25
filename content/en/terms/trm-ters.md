@@ -1,6 +1,6 @@
 ---
 slug: "trm-ters"
-id: "TRM-ENG-37091"
+id: "TRM-ENG-66149"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ters"

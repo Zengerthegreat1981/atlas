@@ -1,6 +1,6 @@
 ---
 slug: "trm-erranteconomistcambridge"
-id: "TRM-ENG-37736"
+id: "TRM-ENG-52265"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "erranteconomist.Cambridge"

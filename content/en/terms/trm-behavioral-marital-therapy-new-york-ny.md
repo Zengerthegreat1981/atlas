@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavioral-marital-therapy-new-york-ny"
-id: "TRM-ENG-51298"
+id: "TRM-ENG-65827"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behavioral marital therapy. New York, NY"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-cationandintrojection"
-id: "TRM-ENG-43572"
+id: "TRM-ENG-58101"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cationandintrojection."

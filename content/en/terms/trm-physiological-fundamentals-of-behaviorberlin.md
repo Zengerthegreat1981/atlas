@@ -1,6 +1,6 @@
 ---
 slug: "trm-physiological-fundamentals-of-behaviorberlin"
-id: "TRM-ENG-36862"
+id: "TRM-ENG-65920"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "physiological fundamentals of behavior.Berlin"

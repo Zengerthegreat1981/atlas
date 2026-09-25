@@ -1,6 +1,6 @@
 ---
 slug: "trm-jones-lawrence-2"
-id: "TRM-ENG-50609"
+id: "TRM-ENG-65138"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jones, Lawrence, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-2-place"
-id: "TRM-ENG-44201"
+id: "TRM-ENG-58730"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "2. Place"

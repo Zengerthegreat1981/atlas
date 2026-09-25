@@ -1,6 +1,6 @@
 ---
 slug: "trm-gervai-j-novak-a-lakatos-k-et-al"
-id: "TRM-ENG-47670"
+id: "TRM-ENG-62199"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gervai J, Novak A, Lakatos K, et al"

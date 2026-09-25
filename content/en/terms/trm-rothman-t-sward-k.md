@@ -1,6 +1,6 @@
 ---
 slug: "trm-rothman-t-sward-k"
-id: "TRM-ENG-42191"
+id: "TRM-ENG-56720"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rothman T, Sward K"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-division-17-professional-affairs-committee-1"
-id: "TRM-ENG-37969"
+id: "TRM-ENG-67027"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Division 17, Professional Affairs Committee, 1"

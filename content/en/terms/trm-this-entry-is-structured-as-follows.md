@@ -1,6 +1,6 @@
 ---
 slug: "trm-this-entry-is-structured-as-follows"
-id: "TRM-ENG-44823"
+id: "TRM-ENG-59352"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "This entry is structured as follows"

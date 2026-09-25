@@ -1,6 +1,6 @@
 ---
 slug: "trm-were-three-additional-errors"
-id: "TRM-ENG-36254"
+id: "TRM-ENG-50783"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "were three additional errors"

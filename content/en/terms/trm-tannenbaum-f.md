@@ -1,6 +1,6 @@
 ---
 slug: "trm-tannenbaum-f"
-id: "TRM-ENG-42547"
+id: "TRM-ENG-57076"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tannenbaum F"

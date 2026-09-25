@@ -1,6 +1,6 @@
 ---
 slug: "trm-cooper-h-2011-reporting-research-in-psychology"
-id: "TRM-ENG-35350"
+id: "TRM-ENG-64408"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cooper, H. (2011). Reporting research in psychology"

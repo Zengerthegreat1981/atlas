@@ -1,6 +1,6 @@
 ---
 slug: "trm-peacocke-christopher-1"
-id: "TRM-ENG-44676"
+id: "TRM-ENG-59205"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Peacocke, Christopher, 1"

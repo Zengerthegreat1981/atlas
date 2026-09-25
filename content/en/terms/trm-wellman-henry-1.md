@@ -1,6 +1,6 @@
 ---
 slug: "trm-wellman-henry-1"
-id: "TRM-ENG-44850"
+id: "TRM-ENG-59379"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wellman, Henry, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-nightwaking"
-id: "TRM-ENG-47145"
+id: "TRM-ENG-61674"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nightwaking"

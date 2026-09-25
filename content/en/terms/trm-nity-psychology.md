@@ -1,6 +1,6 @@
 ---
 slug: "trm-nity-psychology"
-id: "TRM-ENG-36750"
+id: "TRM-ENG-65808"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nity psychology"

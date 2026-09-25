@@ -1,6 +1,6 @@
 ---
 slug: "trm-ity-include-the-following-a-operation-span"
-id: "TRM-ENG-45251"
+id: "TRM-ENG-59780"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ity include the following: (a) operation span"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-largely-by-scientists-from-bell-laboratories-in-their-hair-cells"
-id: "TRM-ENG-45266"
+id: "TRM-ENG-59795"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "largely by scientists from Bell Laboratories in their hair cells"

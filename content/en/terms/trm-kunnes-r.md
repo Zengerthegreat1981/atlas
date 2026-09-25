@@ -1,6 +1,6 @@
 ---
 slug: "trm-kunnes-r"
-id: "TRM-ENG-41329"
+id: "TRM-ENG-55858"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kunnes R"

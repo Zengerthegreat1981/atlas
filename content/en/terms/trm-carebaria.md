@@ -1,6 +1,6 @@
 ---
 slug: "trm-carebaria"
-id: "TRM-ENG-52092"
+id: "TRM-ENG-66621"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Carebaria"

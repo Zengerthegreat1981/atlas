@@ -1,6 +1,6 @@
 ---
 slug: "trm-soltis-philosophy-science-and-social-inquiry"
-id: "TRM-ENG-47315"
+id: "TRM-ENG-61844"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Soltis); Philosophy, Science and Social Inquiry"

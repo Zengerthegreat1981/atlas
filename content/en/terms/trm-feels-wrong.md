@@ -1,6 +1,6 @@
 ---
 slug: "trm-feels-wrong"
-id: "TRM-ENG-45132"
+id: "TRM-ENG-59661"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "feels wrong"

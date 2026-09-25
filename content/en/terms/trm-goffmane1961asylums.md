@@ -1,6 +1,6 @@
 ---
 slug: "trm-goffmane1961asylums"
-id: "TRM-ENG-49003"
+id: "TRM-ENG-63532"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goffman,E.(1961).Asylums"

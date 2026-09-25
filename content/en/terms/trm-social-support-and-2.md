@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-support-and-2"
-id: "TRM-ENG-41714"
+id: "TRM-ENG-56243"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social support and, 2"

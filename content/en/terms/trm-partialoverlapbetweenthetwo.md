@@ -1,6 +1,6 @@
 ---
 slug: "trm-partialoverlapbetweenthetwo"
-id: "TRM-ENG-45982"
+id: "TRM-ENG-60511"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "partial,overlapbetweenthetwo"

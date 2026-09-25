@@ -1,6 +1,6 @@
 ---
 slug: "trm-intuitive-2"
-id: "TRM-ENG-45230"
+id: "TRM-ENG-59759"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "intuitive, 2"

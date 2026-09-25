@@ -1,6 +1,6 @@
 ---
 slug: "trm-niebuhr-hr-william-dd-gustafson-am"
-id: "TRM-ENG-41843"
+id: "TRM-ENG-56372"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Niebuhr HR, William DD, Gustafson AM"

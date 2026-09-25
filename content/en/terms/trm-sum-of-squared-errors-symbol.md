@@ -1,6 +1,6 @@
 ---
 slug: "trm-sum-of-squared-errors-symbol"
-id: "TRM-ENG-45601"
+id: "TRM-ENG-60130"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sum of squared errors (symbol"

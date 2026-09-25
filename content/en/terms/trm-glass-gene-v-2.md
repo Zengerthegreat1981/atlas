@@ -1,6 +1,6 @@
 ---
 slug: "trm-glass-gene-v-2"
-id: "TRM-ENG-38114"
+id: "TRM-ENG-52643"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Glass, Gene V., 2"

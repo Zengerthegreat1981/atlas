@@ -1,6 +1,6 @@
 ---
 slug: "trm-toi"
-id: "TRM-ENG-34818"
+id: "TRM-ENG-49347"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "T~OI)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-initially"
-id: "TRM-ENG-44127"
+id: "TRM-ENG-58656"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "initially"

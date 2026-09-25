@@ -1,6 +1,6 @@
 ---
 slug: "trm-nozickrobertphilosophicalexplanationscambridge"
-id: "TRM-ENG-45753"
+id: "TRM-ENG-60282"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nozick,Robert.PhilosophicalExplanations.Cambridge"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-baldwin-j-m-1902-development-and-evolution-new-york"
-id: "TRM-ENG-36587"
+id: "TRM-ENG-51116"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Baldwin, J. M. (1902). Development and evolution. New York"

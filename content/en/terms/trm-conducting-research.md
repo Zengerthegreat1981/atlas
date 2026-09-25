@@ -1,6 +1,6 @@
 ---
 slug: "trm-conducting-research"
-id: "TRM-ENG-36308"
+id: "TRM-ENG-50837"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "conducting research"

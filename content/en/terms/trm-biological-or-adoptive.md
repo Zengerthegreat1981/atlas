@@ -1,6 +1,6 @@
 ---
 slug: "trm-biological-or-adoptive"
-id: "TRM-ENG-44918"
+id: "TRM-ENG-59447"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "biological or adoptive"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-shaffer-and-cozolino-to-gould-and-cozolino-and-to-friesen-onality-disorder"
-id: "TRM-ENG-35958"
+id: "TRM-ENG-65016"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shaffer and Cozolino, to Gould and Cozolino and to Friesen. onality disorder"

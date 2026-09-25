@@ -1,6 +1,6 @@
 ---
 slug: "trm-876-doi"
-id: "TRM-ENG-43357"
+id: "TRM-ENG-57886"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "876. doi"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-gelman-s-a-2003-t-he-essential-child"
-id: "TRM-ENG-44503"
+id: "TRM-ENG-59032"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gelman, S. A. (2003). T he essential child"

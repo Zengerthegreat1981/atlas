@@ -1,6 +1,6 @@
 ---
 slug: "trm-basingstoke-england"
-id: "TRM-ENG-46281"
+id: "TRM-ENG-60810"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Basingstoke, England"

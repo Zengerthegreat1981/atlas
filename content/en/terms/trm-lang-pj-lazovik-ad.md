@@ -1,6 +1,6 @@
 ---
 slug: "trm-lang-pj-lazovik-ad"
-id: "TRM-ENG-41360"
+id: "TRM-ENG-55889"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lang PJ, Lazovik AD"

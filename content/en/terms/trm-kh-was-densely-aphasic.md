@@ -1,6 +1,6 @@
 ---
 slug: "trm-kh-was-densely-aphasic"
-id: "TRM-ENG-34640"
+id: "TRM-ENG-49169"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "K.H. was densely aphasic"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-supervision-pp-223244-washington-dc"
-id: "TRM-ENG-51855"
+id: "TRM-ENG-66384"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "supervision (pp. 223–244). Washington, DC"

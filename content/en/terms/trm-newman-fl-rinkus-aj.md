@@ -1,6 +1,6 @@
 ---
 slug: "trm-newman-fl-rinkus-aj"
-id: "TRM-ENG-41834"
+id: "TRM-ENG-56363"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Newman FL, Rinkus AJ"

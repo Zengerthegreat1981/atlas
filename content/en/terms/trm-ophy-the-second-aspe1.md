@@ -1,6 +1,6 @@
 ---
 slug: "trm-ophy-the-second-aspe1"
-id: "TRM-ENG-35199"
+id: "TRM-ENG-64257"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ophy.” The second aspe1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-mindfulnessbased-stress-reduction-and-1"
-id: "TRM-ENG-40853"
+id: "TRM-ENG-55382"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mindfulness-based stress reduction and, 1"

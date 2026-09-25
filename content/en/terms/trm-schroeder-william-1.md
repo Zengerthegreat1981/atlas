@@ -1,6 +1,6 @@
 ---
 slug: "trm-schroeder-william-1"
-id: "TRM-ENG-47240"
+id: "TRM-ENG-61769"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schroeder, William, 1"

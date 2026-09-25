@@ -1,6 +1,6 @@
 ---
 slug: "trm-paired-with-food-but-not-in-the-presence-of-an-ellipse-timore"
-id: "TRM-ENG-35214"
+id: "TRM-ENG-64272"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "paired with food, but not in the presence of an ellipse, timore"

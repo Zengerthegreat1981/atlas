@@ -1,6 +1,6 @@
 ---
 slug: "trm-schwitzgebel-r"
-id: "TRM-ENG-42300"
+id: "TRM-ENG-56829"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schwitzgebel R"

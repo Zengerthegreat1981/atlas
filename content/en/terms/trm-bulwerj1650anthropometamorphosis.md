@@ -1,6 +1,6 @@
 ---
 slug: "trm-bulwerj1650anthropometamorphosis"
-id: "TRM-ENG-36670"
+id: "TRM-ENG-51199"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bulwer,J.(1650).Anthropometamorphosis"

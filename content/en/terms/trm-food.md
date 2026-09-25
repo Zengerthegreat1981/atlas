@@ -1,6 +1,6 @@
 ---
 slug: "trm-food"
-id: "TRM-ENG-52187"
+id: "TRM-ENG-66716"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Food"

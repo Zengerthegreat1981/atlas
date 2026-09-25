@@ -1,6 +1,6 @@
 ---
 slug: "trm-american-indian-civil-rights-act-1968-and-3"
-id: "TRM-ENG-37582"
+id: "TRM-ENG-52111"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "American Indian Civil Rights Act (1968) and, 3"

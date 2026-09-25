@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-personality-change"
-id: "TRM-ENG-42640"
+id: "TRM-ENG-57169"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and personality change"

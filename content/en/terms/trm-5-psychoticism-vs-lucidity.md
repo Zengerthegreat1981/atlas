@@ -1,6 +1,6 @@
 ---
 slug: "trm-5-psychoticism-vs-lucidity"
-id: "TRM-ENG-47439"
+id: "TRM-ENG-61968"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "5. Psychoticism (vs. Lucidity)"

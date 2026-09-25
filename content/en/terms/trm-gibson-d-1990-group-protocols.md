@@ -1,6 +1,6 @@
 ---
 slug: "trm-gibson-d-1990-group-protocols"
-id: "TRM-ENG-46523"
+id: "TRM-ENG-61052"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gibson, D. (1990). Group protocols"

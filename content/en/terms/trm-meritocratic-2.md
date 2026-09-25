@@ -1,6 +1,6 @@
 ---
 slug: "trm-meritocratic-2"
-id: "TRM-ENG-48343"
+id: "TRM-ENG-62872"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "meritocratic, 2"

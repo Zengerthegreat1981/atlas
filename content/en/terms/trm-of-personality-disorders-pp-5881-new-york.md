@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-personality-disorders-pp-5881-new-york"
-id: "TRM-ENG-43064"
+id: "TRM-ENG-57593"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of personality disorders (pp. 58–81). New York"

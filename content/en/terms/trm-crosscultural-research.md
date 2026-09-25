@@ -1,6 +1,6 @@
 ---
 slug: "trm-crosscultural-research"
-id: "TRM-ENG-35611"
+id: "TRM-ENG-64669"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "CROSS-CULTURAL RESEARCH"

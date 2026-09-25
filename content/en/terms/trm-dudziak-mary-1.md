@@ -1,6 +1,6 @@
 ---
 slug: "trm-dudziak-mary-1"
-id: "TRM-ENG-46522"
+id: "TRM-ENG-61051"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dudziak, Mary, 1"

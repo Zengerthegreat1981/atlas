@@ -1,6 +1,6 @@
 ---
 slug: "trm-specifics-argument-clinical-psychology"
-id: "TRM-ENG-41742"
+id: "TRM-ENG-56271"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "specifics argument. Clinical Psychology"

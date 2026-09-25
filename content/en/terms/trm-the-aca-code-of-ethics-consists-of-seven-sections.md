@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-aca-code-of-ethics-consists-of-seven-sections"
-id: "TRM-ENG-38875"
+id: "TRM-ENG-53404"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The ACA code of ethics consists of seven sections"

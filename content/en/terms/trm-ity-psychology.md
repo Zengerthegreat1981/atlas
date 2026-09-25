@@ -1,6 +1,6 @@
 ---
 slug: "trm-ity-psychology"
-id: "TRM-ENG-42957"
+id: "TRM-ENG-57486"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ity psychology"

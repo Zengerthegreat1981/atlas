@@ -1,6 +1,6 @@
 ---
 slug: "trm-tial-treatment-planning-in-p-t-costa-jr-t-a-ders"
-id: "TRM-ENG-43330"
+id: "TRM-ENG-57859"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tial treatment planning. In P. T. Costa, Jr., & T. A. ders"

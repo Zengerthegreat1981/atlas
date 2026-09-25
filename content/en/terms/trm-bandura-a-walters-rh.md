@@ -1,6 +1,6 @@
 ---
 slug: "trm-bandura-a-walters-rh"
-id: "TRM-ENG-39800"
+id: "TRM-ENG-54329"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bandura A, Walters RH"

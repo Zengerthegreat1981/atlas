@@ -1,6 +1,6 @@
 ---
 slug: "trm-judgments-or-feelings-of-bodily-changes-and-they-are-desires"
-id: "TRM-ENG-45255"
+id: "TRM-ENG-59784"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "judgments or feelings of bodily changes, and they are desires"

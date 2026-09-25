@@ -1,6 +1,6 @@
 ---
 slug: "trm-antipsychotic-drugs-both-typical"
-id: "TRM-ENG-36148"
+id: "TRM-ENG-65206"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "antipsychotic drugs, both typical"

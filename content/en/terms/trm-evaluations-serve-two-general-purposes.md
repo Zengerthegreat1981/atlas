@@ -1,6 +1,6 @@
 ---
 slug: "trm-evaluations-serve-two-general-purposes"
-id: "TRM-ENG-35663"
+id: "TRM-ENG-64721"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Evaluations serve two general purposes"

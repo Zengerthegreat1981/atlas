@@ -1,6 +1,6 @@
 ---
 slug: "trm-446-benson-df-blumer-d"
-id: "TRM-ENG-39036"
+id: "TRM-ENG-53565"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "446. Benson DF, Blumer D"

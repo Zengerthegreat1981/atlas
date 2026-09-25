@@ -1,6 +1,6 @@
 ---
 slug: "trm-american-counseling-association-and-1"
-id: "TRM-ENG-37580"
+id: "TRM-ENG-66638"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "American Counseling Association and, 1"

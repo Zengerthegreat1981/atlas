@@ -1,6 +1,6 @@
 ---
 slug: "trm-mentorresearchstudylatinliterally"
-id: "TRM-ENG-43734"
+id: "TRM-ENG-58263"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mentorresearchstudy.[Latin,literally"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-martin-j-mclellan-a-2013-the-education-of-selves"
-id: "TRM-ENG-46966"
+id: "TRM-ENG-61495"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Martin, J., & McLellan, A. (2013). The education of selves"

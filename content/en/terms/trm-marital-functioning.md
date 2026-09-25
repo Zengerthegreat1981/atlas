@@ -1,6 +1,6 @@
 ---
 slug: "trm-marital-functioning"
-id: "TRM-ENG-47097"
+id: "TRM-ENG-61626"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "marital functioning"

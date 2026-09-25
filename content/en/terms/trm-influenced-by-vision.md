@@ -1,6 +1,6 @@
 ---
 slug: "trm-influenced-by-vision"
-id: "TRM-ENG-34887"
+id: "TRM-ENG-63945"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "influenced by vision"

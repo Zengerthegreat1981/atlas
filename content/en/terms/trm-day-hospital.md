@@ -1,6 +1,6 @@
 ---
 slug: "trm-day-hospital"
-id: "TRM-ENG-52121"
+id: "TRM-ENG-66650"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Day hospital"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-lenzenweger-mf"
-id: "TRM-ENG-47825"
+id: "TRM-ENG-62354"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lenzenweger MF"

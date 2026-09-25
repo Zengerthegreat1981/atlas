@@ -1,6 +1,6 @@
 ---
 slug: "trm-authority-we-will-of-course-possess-the-truth"
-id: "TRM-ENG-47674"
+id: "TRM-ENG-62203"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "authority, we will of course possess the truth"

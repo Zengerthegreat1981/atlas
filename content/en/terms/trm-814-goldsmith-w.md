@@ -1,6 +1,6 @@
 ---
 slug: "trm-814-goldsmith-w"
-id: "TRM-ENG-39474"
+id: "TRM-ENG-54003"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "814. Goldsmith W"

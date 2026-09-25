@@ -1,6 +1,6 @@
 ---
 slug: "trm-nelson-rc"
-id: "TRM-ENG-41828"
+id: "TRM-ENG-56357"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nelson RC"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-erickson-mh-hill-lb"
-id: "TRM-ENG-40465"
+id: "TRM-ENG-54994"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Erickson MH, Hill LB"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-lemere-f-voegtlin-wl"
-id: "TRM-ENG-41403"
+id: "TRM-ENG-55932"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lemere F, Voegtlin WL"

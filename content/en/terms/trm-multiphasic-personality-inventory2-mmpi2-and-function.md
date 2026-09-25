@@ -1,6 +1,6 @@
 ---
 slug: "trm-multiphasic-personality-inventory2-mmpi2-and-function"
-id: "TRM-ENG-38461"
+id: "TRM-ENG-52990"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Multiphasic Personality Inventory-2 (MMPI-2), and function"

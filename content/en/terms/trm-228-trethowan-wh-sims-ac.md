@@ -1,6 +1,6 @@
 ---
 slug: "trm-228-trethowan-wh-sims-ac"
-id: "TRM-ENG-38747"
+id: "TRM-ENG-53276"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "228. Trethowan WH, Sims AC"

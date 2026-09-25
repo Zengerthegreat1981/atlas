@@ -1,6 +1,6 @@
 ---
 slug: "trm-edwardsd1997discourseandcognitionlondon"
-id: "TRM-ENG-36766"
+id: "TRM-ENG-51295"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Edwards,D.(1997).Discourseandcognition.London"

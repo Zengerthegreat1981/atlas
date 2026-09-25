@@ -1,6 +1,6 @@
 ---
 slug: "trm-for-five-individuals"
-id: "TRM-ENG-45565"
+id: "TRM-ENG-60094"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "for five individuals"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-classification-of-occupations-work-of-4"
-id: "TRM-ENG-39511"
+id: "TRM-ENG-54040"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "classification of occupations work of, 4"

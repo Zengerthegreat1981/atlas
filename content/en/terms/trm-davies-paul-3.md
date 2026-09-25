@@ -1,6 +1,6 @@
 ---
 slug: "trm-davies-paul-3"
-id: "TRM-ENG-37929"
+id: "TRM-ENG-66987"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Davies, Paul, 3"

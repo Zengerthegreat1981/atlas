@@ -1,6 +1,6 @@
 ---
 slug: "trm-cohen-s-eisner-bg"
-id: "TRM-ENG-40207"
+id: "TRM-ENG-54736"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cohen S, Eisner BG"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-mixed-methodology-research1"
-id: "TRM-ENG-38443"
+id: "TRM-ENG-52972"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mixed methodology research,1"

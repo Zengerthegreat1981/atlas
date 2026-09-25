@@ -1,6 +1,6 @@
 ---
 slug: "trm-since-only-particulars-ar"
-id: "TRM-ENG-35317"
+id: "TRM-ENG-64375"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "since only particulars ar"

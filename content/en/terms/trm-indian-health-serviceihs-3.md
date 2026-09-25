@@ -1,6 +1,6 @@
 ---
 slug: "trm-indian-health-serviceihs-3"
-id: "TRM-ENG-38225"
+id: "TRM-ENG-52754"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Indian Health Service(IHS), 3"

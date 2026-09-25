@@ -1,6 +1,6 @@
 ---
 slug: "trm-bulletin105215259-ganglia"
-id: "TRM-ENG-46453"
+id: "TRM-ENG-60982"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bulletin,105,215±259. ganglia"

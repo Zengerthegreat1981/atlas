@@ -1,6 +1,6 @@
 ---
 slug: "trm-foulkes-sh-anthony-ej"
-id: "TRM-ENG-40575"
+id: "TRM-ENG-55104"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Foulkes SH, Anthony EJ"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-polygraphy-2"
-id: "TRM-ENG-44693"
+id: "TRM-ENG-59222"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Polygraphy, 2"

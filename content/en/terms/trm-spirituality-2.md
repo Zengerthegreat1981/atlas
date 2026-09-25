@@ -1,6 +1,6 @@
 ---
 slug: "trm-spirituality-2"
-id: "TRM-ENG-48744"
+id: "TRM-ENG-63273"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "spirituality, 2"

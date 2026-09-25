@@ -1,6 +1,6 @@
 ---
 slug: "trm-tence-is-a-truthvalue"
-id: "TRM-ENG-45557"
+id: "TRM-ENG-60086"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tence is a truth-value"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-clinical-practicephiladelphia"
-id: "TRM-ENG-36548"
+id: "TRM-ENG-65606"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in clinical practice.Philadelphia"

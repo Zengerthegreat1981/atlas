@@ -1,6 +1,6 @@
 ---
 slug: "trm-ambivalence"
-id: "TRM-ENG-44880"
+id: "TRM-ENG-59409"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ambivalence"

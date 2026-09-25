@@ -1,6 +1,6 @@
 ---
 slug: "trm-selfimage"
-id: "TRM-ENG-52379"
+id: "TRM-ENG-66908"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Self-image"

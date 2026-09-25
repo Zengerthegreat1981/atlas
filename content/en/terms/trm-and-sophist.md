@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-sophist"
-id: "TRM-ENG-47621"
+id: "TRM-ENG-62150"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and sophist"

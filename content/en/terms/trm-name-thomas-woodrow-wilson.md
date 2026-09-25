@@ -1,6 +1,6 @@
 ---
 slug: "trm-name-thomas-woodrow-wilson"
-id: "TRM-ENG-45166"
+id: "TRM-ENG-59695"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "name. Thomas Woodrow Wilson"

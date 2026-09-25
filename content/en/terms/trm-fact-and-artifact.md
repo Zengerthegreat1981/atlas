@@ -1,6 +1,6 @@
 ---
 slug: "trm-fact-and-artifact"
-id: "TRM-ENG-44789"
+id: "TRM-ENG-59318"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, “Fact and Artifact"

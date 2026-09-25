@@ -1,6 +1,6 @@
 ---
 slug: "trm-chiatric-diagnoses"
-id: "TRM-ENG-43641"
+id: "TRM-ENG-58170"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chiatric diagnoses"

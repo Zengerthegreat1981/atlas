@@ -1,6 +1,6 @@
 ---
 slug: "trm-wolf-a"
-id: "TRM-ENG-42846"
+id: "TRM-ENG-57375"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wolf A"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychologistsand-1"
-id: "TRM-ENG-38640"
+id: "TRM-ENG-53169"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychologistsand, 1"

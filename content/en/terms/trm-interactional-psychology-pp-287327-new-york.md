@@ -1,6 +1,6 @@
 ---
 slug: "trm-interactional-psychology-pp-287327-new-york"
-id: "TRM-ENG-47062"
+id: "TRM-ENG-61591"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "interactional psychology (pp. 287±327). New York"

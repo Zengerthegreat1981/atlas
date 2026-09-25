@@ -1,6 +1,6 @@
 ---
 slug: "trm-4-fostering-mastery"
-id: "TRM-ENG-38978"
+id: "TRM-ENG-53507"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "4. Fostering mastery"

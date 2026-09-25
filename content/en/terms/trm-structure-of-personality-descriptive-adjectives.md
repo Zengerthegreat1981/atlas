@@ -1,6 +1,6 @@
 ---
 slug: "trm-structure-of-personality-descriptive-adjectives"
-id: "TRM-ENG-43264"
+id: "TRM-ENG-57793"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "structure of personality- descriptive adjectives"

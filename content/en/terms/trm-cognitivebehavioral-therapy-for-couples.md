@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognitivebehavioral-therapy-for-couples"
-id: "TRM-ENG-51350"
+id: "TRM-ENG-65879"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cognitive-behavioral therapy for couples"

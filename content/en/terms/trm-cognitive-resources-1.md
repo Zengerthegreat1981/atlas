@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognitive-resources-1"
-id: "TRM-ENG-44388"
+id: "TRM-ENG-58917"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cognitive resources, 1"

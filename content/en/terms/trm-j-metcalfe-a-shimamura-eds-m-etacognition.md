@@ -1,6 +1,6 @@
 ---
 slug: "trm-j-metcalfe-a-shimamura-eds-m-etacognition"
-id: "TRM-ENG-44549"
+id: "TRM-ENG-59078"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "J. Metcalfe & A. Shimamura (Eds.), M etacognition"

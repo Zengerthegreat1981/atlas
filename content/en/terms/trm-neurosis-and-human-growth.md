@@ -1,6 +1,6 @@
 ---
 slug: "trm-neurosis-and-human-growth"
-id: "TRM-ENG-50794"
+id: "TRM-ENG-65323"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Neurosis and Human Growth"

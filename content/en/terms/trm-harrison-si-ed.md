@@ -1,6 +1,6 @@
 ---
 slug: "trm-harrison-si-ed"
-id: "TRM-ENG-40922"
+id: "TRM-ENG-55451"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Harrison SI (ed)"

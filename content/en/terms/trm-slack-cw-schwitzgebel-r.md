@@ -1,6 +1,6 @@
 ---
 slug: "trm-slack-cw-schwitzgebel-r"
-id: "TRM-ENG-42369"
+id: "TRM-ENG-56898"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Slack CW, Schwitzgebel R"

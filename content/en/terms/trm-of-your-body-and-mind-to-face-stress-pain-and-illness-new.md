@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-your-body-and-mind-to-face-stress-pain-and-illness-new"
-id: "TRM-ENG-46172"
+id: "TRM-ENG-60701"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of Your Body and Mind to Face Stress, Pain and Illness. New"

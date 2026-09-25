@@ -1,6 +1,6 @@
 ---
 slug: "trm-man-mating-new-york"
-id: "TRM-ENG-35125"
+id: "TRM-ENG-64183"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "man mating. New York"

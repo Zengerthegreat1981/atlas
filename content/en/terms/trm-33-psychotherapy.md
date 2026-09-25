@@ -1,6 +1,6 @@
 ---
 slug: "trm-33-psychotherapy"
-id: "TRM-ENG-38894"
+id: "TRM-ENG-53423"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "33. “Psychotherapy"

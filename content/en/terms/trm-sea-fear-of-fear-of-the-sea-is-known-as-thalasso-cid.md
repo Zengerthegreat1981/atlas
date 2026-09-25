@@ -1,6 +1,6 @@
 ---
 slug: "trm-sea-fear-of-fear-of-the-sea-is-known-as-thalasso-cid"
-id: "TRM-ENG-46213"
+id: "TRM-ENG-60742"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sea, fear of Fear of the sea is known as thalasso- (cid"

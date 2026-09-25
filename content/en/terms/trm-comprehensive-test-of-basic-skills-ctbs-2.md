@@ -1,6 +1,6 @@
 ---
 slug: "trm-comprehensive-test-of-basic-skills-ctbs-2"
-id: "TRM-ENG-37856"
+id: "TRM-ENG-52385"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Comprehensive Test of Basic Skills (CTBS), 2"

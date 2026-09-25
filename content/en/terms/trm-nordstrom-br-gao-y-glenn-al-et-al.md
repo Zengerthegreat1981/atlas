@@ -1,6 +1,6 @@
 ---
 slug: "trm-nordstrom-br-gao-y-glenn-al-et-al"
-id: "TRM-ENG-47904"
+id: "TRM-ENG-62433"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nordstrom BR, Gao Y, Glenn AL, et al"

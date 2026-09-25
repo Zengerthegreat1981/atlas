@@ -1,6 +1,6 @@
 ---
 slug: "trm-involves-two-stages"
-id: "TRM-ENG-45504"
+id: "TRM-ENG-60033"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "involves two stages"

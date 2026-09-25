@@ -1,6 +1,6 @@
 ---
 slug: "trm-carlson-1990"
-id: "TRM-ENG-52461"
+id: "TRM-ENG-66990"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Carlson, 1990)"

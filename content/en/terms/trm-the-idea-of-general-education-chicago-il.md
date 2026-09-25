@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-idea-of-general-education-chicago-il"
-id: "TRM-ENG-48838"
+id: "TRM-ENG-63367"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the idea of general education. Chicago, IL"

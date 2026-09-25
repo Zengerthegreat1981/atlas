@@ -1,6 +1,6 @@
 ---
 slug: "trm-american-identityphiladelphia"
-id: "TRM-ENG-37591"
+id: "TRM-ENG-52120"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "American identity.Philadelphia"

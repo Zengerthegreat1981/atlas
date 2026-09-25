@@ -1,6 +1,6 @@
 ---
 slug: "trm-variable-types"
-id: "TRM-ENG-36239"
+id: "TRM-ENG-65297"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "variable types"

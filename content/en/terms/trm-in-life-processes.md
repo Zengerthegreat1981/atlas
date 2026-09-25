@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-life-processes"
-id: "TRM-ENG-51536"
+id: "TRM-ENG-66065"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in life processes"

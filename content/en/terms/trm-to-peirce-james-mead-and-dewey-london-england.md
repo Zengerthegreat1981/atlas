@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-peirce-james-mead-and-dewey-london-england"
-id: "TRM-ENG-48932"
+id: "TRM-ENG-63461"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to Peirce, James, Mead, and Dewey. London, England"

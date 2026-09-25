@@ -1,6 +1,6 @@
 ---
 slug: "trm-religion"
-id: "TRM-ENG-35915"
+id: "TRM-ENG-50444"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Religion"

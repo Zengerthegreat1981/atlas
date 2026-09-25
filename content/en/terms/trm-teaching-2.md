@@ -1,6 +1,6 @@
 ---
 slug: "trm-teaching-2"
-id: "TRM-ENG-48799"
+id: "TRM-ENG-63328"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "teaching, 2"

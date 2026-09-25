@@ -1,6 +1,6 @@
 ---
 slug: "trm-prosopagnosia-1"
-id: "TRM-ENG-44716"
+id: "TRM-ENG-59245"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Prosopagnosia, 1"

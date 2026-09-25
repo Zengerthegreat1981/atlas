@@ -1,6 +1,6 @@
 ---
 slug: "trm-muench-ga-schumacher-r"
-id: "TRM-ENG-41779"
+id: "TRM-ENG-56308"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Muench GA, Schumacher R"

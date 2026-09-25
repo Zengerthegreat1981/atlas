@@ -1,6 +1,6 @@
 ---
 slug: "trm-reasonandmoralitychicago"
-id: "TRM-ENG-45774"
+id: "TRM-ENG-60303"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ReasonandMorality.Chicago"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-conscious-wishes"
-id: "TRM-ENG-43593"
+id: "TRM-ENG-58122"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "conscious wishes."

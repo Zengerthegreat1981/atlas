@@ -1,6 +1,6 @@
 ---
 slug: "trm-from-four-main-sources"
-id: "TRM-ENG-46093"
+id: "TRM-ENG-60622"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "from four main sources"

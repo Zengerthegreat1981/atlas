@@ -1,6 +1,6 @@
 ---
 slug: "trm-law-sg"
-id: "TRM-ENG-41371"
+id: "TRM-ENG-55900"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Law SG"

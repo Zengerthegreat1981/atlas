@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychol-rev-28"
-id: "TRM-ENG-47980"
+id: "TRM-ENG-62509"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychol Rev 28"

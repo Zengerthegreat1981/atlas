@@ -1,6 +1,6 @@
 ---
 slug: "trm-vided-into-two-types"
-id: "TRM-ENG-43967"
+id: "TRM-ENG-58496"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "vided into two types"

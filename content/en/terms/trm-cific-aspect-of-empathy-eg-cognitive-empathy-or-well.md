@@ -1,6 +1,6 @@
 ---
 slug: "trm-cific-aspect-of-empathy-eg-cognitive-empathy-or-well"
-id: "TRM-ENG-43644"
+id: "TRM-ENG-58173"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cific aspect of empathy (e.g., cognitive empathy or well"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-neuroinformatics-5-146153-doi"
-id: "TRM-ENG-35460"
+id: "TRM-ENG-64518"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Neuroinformatics, 5, 146–153. doi"

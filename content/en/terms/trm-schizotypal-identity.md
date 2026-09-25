@@ -1,6 +1,6 @@
 ---
 slug: "trm-schizotypal-identity"
-id: "TRM-ENG-48048"
+id: "TRM-ENG-62577"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schizotypal Identity"

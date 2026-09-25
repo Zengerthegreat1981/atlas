@@ -1,6 +1,6 @@
 ---
 slug: "trm-lighting-makeup-dress-fashions"
-id: "TRM-ENG-36637"
+id: "TRM-ENG-65695"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lighting, makeup, dress fashions"

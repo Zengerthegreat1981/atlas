@@ -1,6 +1,6 @@
 ---
 slug: "trm-methods-4th-ed-los-angeles-ca"
-id: "TRM-ENG-48348"
+id: "TRM-ENG-62877"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "methods (4th ed.). Los Angeles, CA"

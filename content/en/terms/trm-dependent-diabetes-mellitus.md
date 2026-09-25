@@ -1,6 +1,6 @@
 ---
 slug: "trm-dependent-diabetes-mellitus"
-id: "TRM-ENG-46936"
+id: "TRM-ENG-61465"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dependent) diabetes mellitus"

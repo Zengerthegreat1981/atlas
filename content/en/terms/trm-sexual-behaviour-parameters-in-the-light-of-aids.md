@@ -1,6 +1,6 @@
 ---
 slug: "trm-sexual-behaviour-parameters-in-the-light-of-aids"
-id: "TRM-ENG-47281"
+id: "TRM-ENG-61810"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sexual behaviour parameters in the light of AIDS"

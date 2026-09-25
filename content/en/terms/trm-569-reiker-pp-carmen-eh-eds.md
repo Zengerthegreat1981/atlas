@@ -1,6 +1,6 @@
 ---
 slug: "trm-569-reiker-pp-carmen-eh-eds"
-id: "TRM-ENG-39180"
+id: "TRM-ENG-53709"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "569. Reiker PP, Carmen EH (eds)"

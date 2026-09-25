@@ -1,6 +1,6 @@
 ---
 slug: "trm-analogies-1"
-id: "TRM-ENG-44892"
+id: "TRM-ENG-59421"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "analogies), 1"

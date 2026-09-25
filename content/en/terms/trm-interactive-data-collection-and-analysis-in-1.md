@@ -1,6 +1,6 @@
 ---
 slug: "trm-interactive-data-collection-and-analysis-in-1"
-id: "TRM-ENG-40588"
+id: "TRM-ENG-55117"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "interactive data collection and analysis in, 1"

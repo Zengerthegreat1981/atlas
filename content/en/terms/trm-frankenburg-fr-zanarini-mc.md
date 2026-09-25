@@ -1,6 +1,6 @@
 ---
 slug: "trm-frankenburg-fr-zanarini-mc"
-id: "TRM-ENG-47656"
+id: "TRM-ENG-62185"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Frankenburg FR, Zanarini MC"

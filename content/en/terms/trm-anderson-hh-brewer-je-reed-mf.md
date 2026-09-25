@@ -1,6 +1,6 @@
 ---
 slug: "trm-anderson-hh-brewer-je-reed-mf"
-id: "TRM-ENG-39694"
+id: "TRM-ENG-54223"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Anderson HH, Brewer JE, Reed, MF"

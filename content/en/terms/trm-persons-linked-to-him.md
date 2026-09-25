@@ -1,6 +1,6 @@
 ---
 slug: "trm-persons-linked-to-him"
-id: "TRM-ENG-45234"
+id: "TRM-ENG-59763"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "persons linked to him"

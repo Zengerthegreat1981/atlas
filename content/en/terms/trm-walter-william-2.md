@@ -1,6 +1,6 @@
 ---
 slug: "trm-walter-william-2"
-id: "TRM-ENG-51156"
+id: "TRM-ENG-65685"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Walter, William, 2"

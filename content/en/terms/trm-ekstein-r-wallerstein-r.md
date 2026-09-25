@@ -1,6 +1,6 @@
 ---
 slug: "trm-ekstein-r-wallerstein-r"
-id: "TRM-ENG-40428"
+id: "TRM-ENG-54957"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ekstein R, Wallerstein R"

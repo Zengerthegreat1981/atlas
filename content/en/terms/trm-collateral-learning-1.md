@@ -1,6 +1,6 @@
 ---
 slug: "trm-collateral-learning-1"
-id: "TRM-ENG-46418"
+id: "TRM-ENG-60947"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Collateral learning, 1"

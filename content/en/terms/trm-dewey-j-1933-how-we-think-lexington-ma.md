@@ -1,6 +1,6 @@
 ---
 slug: "trm-dewey-j-1933-how-we-think-lexington-ma"
-id: "TRM-ENG-46509"
+id: "TRM-ENG-61038"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dewey, J. (1933). How we think. Lexington, MA"

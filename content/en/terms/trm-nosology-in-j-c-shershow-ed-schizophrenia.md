@@ -1,6 +1,6 @@
 ---
 slug: "trm-nosology-in-j-c-shershow-ed-schizophrenia"
-id: "TRM-ENG-43039"
+id: "TRM-ENG-57568"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nosology. In J. C. Shershow (Ed.), Schizophrenia"

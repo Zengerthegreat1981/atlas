@@ -1,6 +1,6 @@
 ---
 slug: "trm-mavissakalian-m-turner-sm-michelson-l-et-al"
-id: "TRM-ENG-41622"
+id: "TRM-ENG-56151"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mavissakalian M, Turner SM, Michelson L, et al"

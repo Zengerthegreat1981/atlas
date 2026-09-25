@@ -1,6 +1,6 @@
 ---
 slug: "trm-routes-social-sciences"
-id: "TRM-ENG-36092"
+id: "TRM-ENG-50621"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "routes (social sciences"

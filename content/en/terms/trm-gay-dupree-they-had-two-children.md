@@ -1,6 +1,6 @@
 ---
 slug: "trm-gay-dupree-they-had-two-children"
-id: "TRM-ENG-36837"
+id: "TRM-ENG-65895"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gay Dupree. They had two children"

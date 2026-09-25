@@ -1,6 +1,6 @@
 ---
 slug: "trm-interfere-with-biomedical-therapy-under-these-cid"
-id: "TRM-ENG-46127"
+id: "TRM-ENG-60656"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "interfere with biomedical therapy. Under these (cid"

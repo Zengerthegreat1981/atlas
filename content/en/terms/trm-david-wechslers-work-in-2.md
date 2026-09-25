@@ -1,6 +1,6 @@
 ---
 slug: "trm-david-wechslers-work-in-2"
-id: "TRM-ENG-37928"
+id: "TRM-ENG-66986"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "David Wechsler’s work in, 2"

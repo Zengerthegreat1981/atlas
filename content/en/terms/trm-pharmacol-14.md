@@ -1,6 +1,6 @@
 ---
 slug: "trm-pharmacol-14"
-id: "TRM-ENG-48522"
+id: "TRM-ENG-63051"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pharmacol 14"

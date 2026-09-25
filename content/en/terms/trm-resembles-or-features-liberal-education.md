@@ -1,6 +1,6 @@
 ---
 slug: "trm-resembles-or-features-liberal-education"
-id: "TRM-ENG-48663"
+id: "TRM-ENG-63192"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "resembles or features liberal education"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-andselflessbehaviorcambridgema"
-id: "TRM-ENG-37535"
+id: "TRM-ENG-66593"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "andselflessbehavior.Cambridge,MA"

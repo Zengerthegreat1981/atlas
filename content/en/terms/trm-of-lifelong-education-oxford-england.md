@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-lifelong-education-oxford-england"
-id: "TRM-ENG-48439"
+id: "TRM-ENG-62968"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of lifelong education. Oxford, England"

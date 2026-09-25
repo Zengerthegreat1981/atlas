@@ -1,6 +1,6 @@
 ---
 slug: "trm-21-values-scores"
-id: "TRM-ENG-37487"
+id: "TRM-ENG-66545"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "21 values scores"

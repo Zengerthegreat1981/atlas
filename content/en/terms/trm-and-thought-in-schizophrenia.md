@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-thought-in-schizophrenia"
-id: "TRM-ENG-44882"
+id: "TRM-ENG-59411"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and Thought in Schizophrenia"

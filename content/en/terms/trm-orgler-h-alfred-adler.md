@@ -1,6 +1,6 @@
 ---
 slug: "trm-orgler-h-alfred-adler"
-id: "TRM-ENG-44558"
+id: "TRM-ENG-59087"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Orgler, H., Alfred Adler"

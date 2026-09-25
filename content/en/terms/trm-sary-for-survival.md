@@ -1,6 +1,6 @@
 ---
 slug: "trm-sary-for-survival"
-id: "TRM-ENG-36951"
+id: "TRM-ENG-51480"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sary for survival"

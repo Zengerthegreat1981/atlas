@@ -1,6 +1,6 @@
 ---
 slug: "trm-suppression-of-the-seduction-theory-new-york-ny"
-id: "TRM-ENG-51857"
+id: "TRM-ENG-66386"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "suppression of the seduction theory. New York, NY"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-helmm1985socialphobia"
-id: "TRM-ENG-49021"
+id: "TRM-ENG-63550"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Helm,M.(1985).Socialphobia"

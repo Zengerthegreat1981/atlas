@@ -1,6 +1,6 @@
 ---
 slug: "trm-samples-of-ncid"
-id: "TRM-ENG-36098"
+id: "TRM-ENG-65156"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "samples of n(cid"

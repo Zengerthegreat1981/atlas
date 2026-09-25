@@ -1,6 +1,6 @@
 ---
 slug: "trm-mebane-jc"
-id: "TRM-ENG-41664"
+id: "TRM-ENG-56193"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mebane JC"

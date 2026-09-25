@@ -1,6 +1,6 @@
 ---
 slug: "trm-stage-transition-in-the-1980s"
-id: "TRM-ENG-41756"
+id: "TRM-ENG-56285"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stage transition in the 1980s"

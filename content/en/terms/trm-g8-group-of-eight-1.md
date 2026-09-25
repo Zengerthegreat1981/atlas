@@ -1,6 +1,6 @@
 ---
 slug: "trm-g8-group-of-eight-1"
-id: "TRM-ENG-46660"
+id: "TRM-ENG-61189"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "G-8 (Group of Eight), 1"

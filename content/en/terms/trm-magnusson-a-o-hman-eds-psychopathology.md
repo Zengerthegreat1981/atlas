@@ -1,6 +1,6 @@
 ---
 slug: "trm-magnusson-a-o-hman-eds-psychopathology"
-id: "TRM-ENG-49077"
+id: "TRM-ENG-63606"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Magnusson & A. OÈ hman (Eds.), Psychopathology"

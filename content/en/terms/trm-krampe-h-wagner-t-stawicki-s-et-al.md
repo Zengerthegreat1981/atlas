@@ -1,6 +1,6 @@
 ---
 slug: "trm-krampe-h-wagner-t-stawicki-s-et-al"
-id: "TRM-ENG-47803"
+id: "TRM-ENG-62332"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Krampe H, Wagner T, Stawicki S, et al"

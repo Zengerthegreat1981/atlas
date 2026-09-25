@@ -1,6 +1,6 @@
 ---
 slug: "trm-493-lothstein-lm"
-id: "TRM-ENG-39088"
+id: "TRM-ENG-53617"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "493. Lothstein LM"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-firstorder-change-1"
-id: "TRM-ENG-50403"
+id: "TRM-ENG-64932"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "First-order change, 1"

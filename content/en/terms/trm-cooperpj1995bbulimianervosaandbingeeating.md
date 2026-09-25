@@ -1,6 +1,6 @@
 ---
 slug: "trm-cooperpj1995bbulimianervosaandbingeeating"
-id: "TRM-ENG-48948"
+id: "TRM-ENG-63477"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cooper,P.J.(1995b).Bulimianervosaandbinge-eating"

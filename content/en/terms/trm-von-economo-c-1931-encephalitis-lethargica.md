@@ -1,6 +1,6 @@
 ---
 slug: "trm-von-economo-c-1931-encephalitis-lethargica"
-id: "TRM-ENG-35116"
+id: "TRM-ENG-64174"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "von Economo, C. (1931). Encephalitis lethargica"

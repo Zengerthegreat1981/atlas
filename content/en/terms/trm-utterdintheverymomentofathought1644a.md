@@ -1,6 +1,6 @@
 ---
 slug: "trm-utterdintheverymomentofathought1644a"
-id: "TRM-ENG-38418"
+id: "TRM-ENG-52947"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "utter’dintheverymomentofathought.”(1644a"

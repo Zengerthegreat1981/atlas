@@ -1,6 +1,6 @@
 ---
 slug: "trm-attribute-consistently"
-id: "TRM-ENG-44028"
+id: "TRM-ENG-58557"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "attribute consistently"

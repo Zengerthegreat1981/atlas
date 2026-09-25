@@ -1,6 +1,6 @@
 ---
 slug: "trm-gunderson-jg-shea-mt-skodol-ae-et-al"
-id: "TRM-ENG-47704"
+id: "TRM-ENG-62233"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gunderson JG, Shea MT, Skodol AE, et al"

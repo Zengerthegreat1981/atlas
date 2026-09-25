@@ -1,6 +1,6 @@
 ---
 slug: "trm-selfknowledge-and-4"
-id: "TRM-ENG-41613"
+id: "TRM-ENG-56142"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "self-knowledge and, 4"

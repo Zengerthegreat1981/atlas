@@ -1,6 +1,6 @@
 ---
 slug: "trm-skull-shape-analysis-and-1"
-id: "TRM-ENG-41678"
+id: "TRM-ENG-56207"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "skull shape analysis and, 1"

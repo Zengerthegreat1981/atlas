@@ -1,6 +1,6 @@
 ---
 slug: "trm-winick-c"
-id: "TRM-ENG-42825"
+id: "TRM-ENG-57354"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Winick C"

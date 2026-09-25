@@ -1,6 +1,6 @@
 ---
 slug: "trm-bildungstheorie-i"
-id: "TRM-ENG-46320"
+id: "TRM-ENG-60849"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bildungstheorie I"

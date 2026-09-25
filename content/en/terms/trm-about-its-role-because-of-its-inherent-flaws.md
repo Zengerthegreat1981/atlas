@@ -1,6 +1,6 @@
 ---
 slug: "trm-about-its-role-because-of-its-inherent-flaws"
-id: "TRM-ENG-47532"
+id: "TRM-ENG-62061"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "about its role because of its inherent flaws"

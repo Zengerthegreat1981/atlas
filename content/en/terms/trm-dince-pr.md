@@ -1,6 +1,6 @@
 ---
 slug: "trm-dince-pr"
-id: "TRM-ENG-40357"
+id: "TRM-ENG-54886"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dince PR"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-123-freeman-hl-ed"
-id: "TRM-ENG-38589"
+id: "TRM-ENG-53118"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "123. Freeman HL (ed)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-kabatzinn-j-2005-bringing-mindfulness-to-medicine"
-id: "TRM-ENG-50620"
+id: "TRM-ENG-65149"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kabat-Zinn, J. (2005). Bringing mindfulness to medicine"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-absence-of-dysfunction"
-id: "TRM-ENG-43584"
+id: "TRM-ENG-58113"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "absence of dysfunction"

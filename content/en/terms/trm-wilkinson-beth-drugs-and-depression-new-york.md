@@ -1,6 +1,6 @@
 ---
 slug: "trm-wilkinson-beth-drugs-and-depression-new-york"
-id: "TRM-ENG-45997"
+id: "TRM-ENG-60526"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wilkinson, Beth. Drugs and Depression. New York"

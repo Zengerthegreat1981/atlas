@@ -1,6 +1,6 @@
 ---
 slug: "trm-personality-assessment-inventory"
-id: "TRM-ENG-43501"
+id: "TRM-ENG-58030"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Personality Assessment Inventory"

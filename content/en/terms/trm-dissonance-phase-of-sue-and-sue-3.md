@@ -1,6 +1,6 @@
 ---
 slug: "trm-dissonance-phase-of-sue-and-sue-3"
-id: "TRM-ENG-39958"
+id: "TRM-ENG-54487"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dissonance phase of (Sue and Sue), 3"

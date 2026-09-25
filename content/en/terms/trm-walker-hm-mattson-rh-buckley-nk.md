@@ -1,6 +1,6 @@
 ---
 slug: "trm-walker-hm-mattson-rh-buckley-nk"
-id: "TRM-ENG-42695"
+id: "TRM-ENG-57224"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Walker HM, Mattson RH, Buckley NK"

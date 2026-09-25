@@ -1,6 +1,6 @@
 ---
 slug: "trm-schools"
-id: "TRM-ENG-36954"
+id: "TRM-ENG-66012"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "schools"

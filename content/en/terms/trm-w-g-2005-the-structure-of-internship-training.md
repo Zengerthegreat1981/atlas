@@ -1,6 +1,6 @@
 ---
 slug: "trm-w-g-2005-the-structure-of-internship-training"
-id: "TRM-ENG-38995"
+id: "TRM-ENG-53524"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "W. G. (2005). The structure of internship training"

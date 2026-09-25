@@ -1,6 +1,6 @@
 ---
 slug: "trm-skuse-dh-gallagher-l"
-id: "TRM-ENG-48086"
+id: "TRM-ENG-62615"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Skuse DH, Gallagher L"

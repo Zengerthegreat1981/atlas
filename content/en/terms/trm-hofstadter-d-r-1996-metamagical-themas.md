@@ -1,6 +1,6 @@
 ---
 slug: "trm-hofstadter-d-r-1996-metamagical-themas"
-id: "TRM-ENG-42407"
+id: "TRM-ENG-56936"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hofstadter, D. R. (1996). Metamagical themas"

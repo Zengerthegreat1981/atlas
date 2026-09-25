@@ -1,6 +1,6 @@
 ---
 slug: "trm-moral-perfectionism"
-id: "TRM-ENG-48371"
+id: "TRM-ENG-62900"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "moral perfectionism"

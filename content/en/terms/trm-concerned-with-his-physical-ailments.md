@@ -1,6 +1,6 @@
 ---
 slug: "trm-concerned-with-his-physical-ailments"
-id: "TRM-ENG-42998"
+id: "TRM-ENG-57527"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "concerned with his physical ailments"

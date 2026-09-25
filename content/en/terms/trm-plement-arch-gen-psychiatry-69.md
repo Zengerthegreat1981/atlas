@@ -1,6 +1,6 @@
 ---
 slug: "trm-plement-arch-gen-psychiatry-69"
-id: "TRM-ENG-48532"
+id: "TRM-ENG-63061"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "plement. Arch Gen Psychiatry 69"

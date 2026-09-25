@@ -1,6 +1,6 @@
 ---
 slug: "trm-berzonsky-m-d-1989-identity-style"
-id: "TRM-ENG-42329"
+id: "TRM-ENG-56858"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Berzonsky, M. D. (1989). Identity style"

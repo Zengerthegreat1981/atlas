@@ -1,6 +1,6 @@
 ---
 slug: "trm-simon-a-epstein-lj-eds"
-id: "TRM-ENG-42358"
+id: "TRM-ENG-56887"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Simon A, Epstein LJ (eds)"

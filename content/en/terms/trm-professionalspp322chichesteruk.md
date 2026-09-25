@@ -1,6 +1,6 @@
 ---
 slug: "trm-professionalspp322chichesteruk"
-id: "TRM-ENG-47221"
+id: "TRM-ENG-61750"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "professionals(pp.3±22).Chichester,UK"

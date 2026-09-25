@@ -1,6 +1,6 @@
 ---
 slug: "trm-questionsaboutthem"
-id: "TRM-ENG-45993"
+id: "TRM-ENG-60522"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "questionsaboutthem"

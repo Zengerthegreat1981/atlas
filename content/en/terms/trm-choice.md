@@ -1,6 +1,6 @@
 ---
 slug: "trm-choice"
-id: "TRM-ENG-37619"
+id: "TRM-ENG-66677"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "choice"

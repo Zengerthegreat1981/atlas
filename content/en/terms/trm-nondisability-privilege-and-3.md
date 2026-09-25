@@ -1,6 +1,6 @@
 ---
 slug: "trm-nondisability-privilege-and-3"
-id: "TRM-ENG-40956"
+id: "TRM-ENG-55485"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nondisability privilege and, 3"

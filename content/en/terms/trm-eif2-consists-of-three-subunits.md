@@ -1,6 +1,6 @@
 ---
 slug: "trm-eif2-consists-of-three-subunits"
-id: "TRM-ENG-36385"
+id: "TRM-ENG-50914"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "eIF2 consists of three subunits"

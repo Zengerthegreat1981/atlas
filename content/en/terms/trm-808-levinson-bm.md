@@ -1,6 +1,6 @@
 ---
 slug: "trm-808-levinson-bm"
-id: "TRM-ENG-39467"
+id: "TRM-ENG-53996"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "808. Levinson BM"

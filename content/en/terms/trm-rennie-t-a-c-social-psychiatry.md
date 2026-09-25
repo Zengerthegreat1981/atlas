@@ -1,6 +1,6 @@
 ---
 slug: "trm-rennie-t-a-c-social-psychiatry"
-id: "TRM-ENG-44594"
+id: "TRM-ENG-59123"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rennie, T. A. C., “Social Psychiatry"

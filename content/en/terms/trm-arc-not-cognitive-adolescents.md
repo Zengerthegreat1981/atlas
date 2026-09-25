@@ -1,6 +1,6 @@
 ---
 slug: "trm-arc-not-cognitive-adolescents"
-id: "TRM-ENG-44897"
+id: "TRM-ENG-59426"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "arc not cognitive adolescents"

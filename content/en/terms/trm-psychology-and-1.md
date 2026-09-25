@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychology-and-1"
-id: "TRM-ENG-38642"
+id: "TRM-ENG-53171"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychology and, 1"

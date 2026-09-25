@@ -1,6 +1,6 @@
 ---
 slug: "trm-inventoryofsexualsatisfactionwindsoruk"
-id: "TRM-ENG-49038"
+id: "TRM-ENG-63567"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "InventoryofSexualSatisfaction.Windsor,UK"

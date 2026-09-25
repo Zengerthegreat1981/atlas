@@ -1,6 +1,6 @@
 ---
 slug: "trm-simeckmorgan-l-1"
-id: "TRM-ENG-38774"
+id: "TRM-ENG-53303"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Simeck-Morgan, L., 1"

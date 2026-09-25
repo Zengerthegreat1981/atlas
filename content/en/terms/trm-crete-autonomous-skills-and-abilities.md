@@ -1,6 +1,6 @@
 ---
 slug: "trm-crete-autonomous-skills-and-abilities"
-id: "TRM-ENG-51384"
+id: "TRM-ENG-65913"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "crete autonomous skills and abilities)"

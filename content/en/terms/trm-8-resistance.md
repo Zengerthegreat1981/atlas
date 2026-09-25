@@ -1,6 +1,6 @@
 ---
 slug: "trm-8-resistance"
-id: "TRM-ENG-39454"
+id: "TRM-ENG-53983"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "8. Resistance"

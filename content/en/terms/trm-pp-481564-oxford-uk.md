@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp-481564-oxford-uk"
-id: "TRM-ENG-44266"
+id: "TRM-ENG-58795"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp. 481–564). Oxford, UK"

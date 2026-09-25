@@ -1,6 +1,6 @@
 ---
 slug: "trm-221-kaplan-hi-sadock-bj-eds"
-id: "TRM-ENG-38740"
+id: "TRM-ENG-53269"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "221. Kaplan HI, Sadock BJ (eds)"

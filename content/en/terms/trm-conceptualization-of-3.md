@@ -1,6 +1,6 @@
 ---
 slug: "trm-conceptualization-of-3"
-id: "TRM-ENG-39636"
+id: "TRM-ENG-54165"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "conceptualization of, 3"

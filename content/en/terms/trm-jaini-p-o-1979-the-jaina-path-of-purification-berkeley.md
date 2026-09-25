@@ -1,6 +1,6 @@
 ---
 slug: "trm-jaini-p-o-1979-the-jaina-path-of-purification-berkeley"
-id: "TRM-ENG-46841"
+id: "TRM-ENG-61370"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jaini, P. O. (1979). The Jaina path of purification. Berkeley"

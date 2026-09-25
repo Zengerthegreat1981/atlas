@@ -1,6 +1,6 @@
 ---
 slug: "trm-theconceptsofobligationanddutymind731964"
-id: "TRM-ENG-46099"
+id: "TRM-ENG-60628"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“TheConceptsofObligationandDuty.”Mind73(1964)"

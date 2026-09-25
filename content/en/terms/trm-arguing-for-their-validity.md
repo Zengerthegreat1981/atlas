@@ -1,6 +1,6 @@
 ---
 slug: "trm-arguing-for-their-validity"
-id: "TRM-ENG-47653"
+id: "TRM-ENG-62182"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "arguing for their validity"

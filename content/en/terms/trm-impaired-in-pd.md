@@ -1,6 +1,6 @@
 ---
 slug: "trm-impaired-in-pd"
-id: "TRM-ENG-42878"
+id: "TRM-ENG-57407"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "impaired in PD"

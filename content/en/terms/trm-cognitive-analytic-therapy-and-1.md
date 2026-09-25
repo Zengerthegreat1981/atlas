@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognitive-analytic-therapy-and-1"
-id: "TRM-ENG-51339"
+id: "TRM-ENG-65868"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cognitive analytic therapy and, 1"

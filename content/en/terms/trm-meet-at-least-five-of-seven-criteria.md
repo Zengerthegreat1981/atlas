@@ -1,6 +1,6 @@
 ---
 slug: "trm-meet-at-least-five-of-seven-criteria"
-id: "TRM-ENG-43729"
+id: "TRM-ENG-58258"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "meet at least five of seven criteria"

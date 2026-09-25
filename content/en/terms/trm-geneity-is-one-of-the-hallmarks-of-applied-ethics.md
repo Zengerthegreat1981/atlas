@@ -1,6 +1,6 @@
 ---
 slug: "trm-geneity-is-one-of-the-hallmarks-of-applied-ethics"
-id: "TRM-ENG-45909"
+id: "TRM-ENG-60438"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "geneity is one of the hallmarks of applied ethics"

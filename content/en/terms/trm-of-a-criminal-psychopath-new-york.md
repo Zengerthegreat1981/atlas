@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-a-criminal-psychopath-new-york"
-id: "TRM-ENG-43048"
+id: "TRM-ENG-57577"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of a criminal psychopath. New York"

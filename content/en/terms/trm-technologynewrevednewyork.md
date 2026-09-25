@@ -1,6 +1,6 @@
 ---
 slug: "trm-technologynewrevednewyork"
-id: "TRM-ENG-38288"
+id: "TRM-ENG-52817"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "technology(Newrev.ed.).NewYork"

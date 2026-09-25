@@ -1,6 +1,6 @@
 ---
 slug: "trm-elsner-birgit-1"
-id: "TRM-ENG-44455"
+id: "TRM-ENG-58984"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Elsner, Birgit, 1"

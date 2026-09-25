@@ -1,6 +1,6 @@
 ---
 slug: "trm-singer-j-1994-boundaries-of-the-soul-new-york-ny"
-id: "TRM-ENG-51041"
+id: "TRM-ENG-65570"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Singer, J. (1994). Boundaries of the soul. New York, NY"

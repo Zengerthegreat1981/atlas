@@ -1,6 +1,6 @@
 ---
 slug: "trm-lidz-t-edelson-m-eds"
-id: "TRM-ENG-41454"
+id: "TRM-ENG-55983"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lidz T, Edelson M (eds)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-547-cholden-ls"
-id: "TRM-ENG-39158"
+id: "TRM-ENG-53687"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "547. Cholden LS"

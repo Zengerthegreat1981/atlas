@@ -1,6 +1,6 @@
 ---
 slug: "trm-glatzer-ht"
-id: "TRM-ENG-40724"
+id: "TRM-ENG-55253"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Glatzer HT"

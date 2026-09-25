@@ -1,6 +1,6 @@
 ---
 slug: "trm-bootzin-r-et-al-psychology-today-new-york"
-id: "TRM-ENG-45762"
+id: "TRM-ENG-60291"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bootzin, R., et al., Psychology Today (New York"

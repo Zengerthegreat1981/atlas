@@ -1,6 +1,6 @@
 ---
 slug: "trm-hardin-g-abortion"
-id: "TRM-ENG-44429"
+id: "TRM-ENG-58958"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hardin, G., “Abortion"

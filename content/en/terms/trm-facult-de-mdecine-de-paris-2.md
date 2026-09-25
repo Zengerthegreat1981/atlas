@@ -1,6 +1,6 @@
 ---
 slug: "trm-facult-de-mdecine-de-paris-2"
-id: "TRM-ENG-50380"
+id: "TRM-ENG-64909"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Faculté de médecine de Paris, 2"

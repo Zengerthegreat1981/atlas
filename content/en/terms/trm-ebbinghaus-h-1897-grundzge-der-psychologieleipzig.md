@@ -1,6 +1,6 @@
 ---
 slug: "trm-ebbinghaus-h-1897-grundzge-der-psychologieleipzig"
-id: "TRM-ENG-35656"
+id: "TRM-ENG-50185"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ebbinghaus, H. (1897). Grundzüge der Psychologie.Leipzig"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-pucci-a-r-2011-about-rational-living-therapy-meaning-3"
-id: "TRM-ENG-50921"
+id: "TRM-ENG-65450"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pucci, A. R. (2011). About rational living therapy. meaning 3"

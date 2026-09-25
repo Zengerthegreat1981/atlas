@@ -1,6 +1,6 @@
 ---
 slug: "trm-religionwashingtondc"
-id: "TRM-ENG-38205"
+id: "TRM-ENG-52734"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "religion.Washington,DC"

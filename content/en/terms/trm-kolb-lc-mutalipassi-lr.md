@@ -1,6 +1,6 @@
 ---
 slug: "trm-kolb-lc-mutalipassi-lr"
-id: "TRM-ENG-41282"
+id: "TRM-ENG-55811"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kolb LC, Mutalipassi LR"

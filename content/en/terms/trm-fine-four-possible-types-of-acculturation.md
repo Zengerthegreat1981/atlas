@@ -1,6 +1,6 @@
 ---
 slug: "trm-fine-four-possible-types-of-acculturation"
-id: "TRM-ENG-35022"
+id: "TRM-ENG-49551"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "fine four possible types of acculturation"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavior-and-development-pp-139-new-york"
-id: "TRM-ENG-34895"
+id: "TRM-ENG-49424"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behavior and development (pp. 1-39). New York"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-jung-cg-1918-studies-in-word-associationlondon"
-id: "TRM-ENG-35778"
+id: "TRM-ENG-50307"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jung, C.G. (1918). Studies in word association.London"

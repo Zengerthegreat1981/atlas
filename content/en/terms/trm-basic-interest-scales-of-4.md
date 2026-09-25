@@ -1,6 +1,6 @@
 ---
 slug: "trm-basic-interest-scales-of-4"
-id: "TRM-ENG-39316"
+id: "TRM-ENG-53845"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "basic interest scales of, 4"

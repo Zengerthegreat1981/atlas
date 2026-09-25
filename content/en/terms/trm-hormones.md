@@ -1,6 +1,6 @@
 ---
 slug: "trm-hormones"
-id: "TRM-ENG-47025"
+id: "TRM-ENG-61554"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "hormones"

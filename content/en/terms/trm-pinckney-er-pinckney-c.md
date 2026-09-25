@@ -1,6 +1,6 @@
 ---
 slug: "trm-pinckney-er-pinckney-c"
-id: "TRM-ENG-41979"
+id: "TRM-ENG-56508"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pinckney ER, Pinckney C"

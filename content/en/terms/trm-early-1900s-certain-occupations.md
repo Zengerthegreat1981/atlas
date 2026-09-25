@@ -1,6 +1,6 @@
 ---
 slug: "trm-early-1900s-certain-occupations"
-id: "TRM-ENG-39986"
+id: "TRM-ENG-54515"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "early 1900s, certain occupations"

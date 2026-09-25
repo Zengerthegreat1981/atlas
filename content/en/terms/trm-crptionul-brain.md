@@ -1,6 +1,6 @@
 ---
 slug: "trm-crptionul-brain"
-id: "TRM-ENG-34956"
+id: "TRM-ENG-64014"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "crptionul brain"

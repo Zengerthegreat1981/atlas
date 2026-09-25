@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychological-wellbeing-and-2"
-id: "TRM-ENG-41341"
+id: "TRM-ENG-55870"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychological well-being and, 2"

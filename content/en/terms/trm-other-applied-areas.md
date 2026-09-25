@@ -1,6 +1,6 @@
 ---
 slug: "trm-other-applied-areas"
-id: "TRM-ENG-38071"
+id: "TRM-ENG-52600"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "other applied areas"

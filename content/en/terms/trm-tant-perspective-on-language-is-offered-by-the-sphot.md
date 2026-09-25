@@ -1,6 +1,6 @@
 ---
 slug: "trm-tant-perspective-on-language-is-offered-by-the-sphot"
-id: "TRM-ENG-38284"
+id: "TRM-ENG-52813"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tant perspective on language is offered by the sphot"

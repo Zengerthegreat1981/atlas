@@ -1,6 +1,6 @@
 ---
 slug: "trm-revolutionized-parentchild-communicationnew-york"
-id: "TRM-ENG-41536"
+id: "TRM-ENG-56065"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "revolutionized parent-child communication.New York"

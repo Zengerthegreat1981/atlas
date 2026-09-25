@@ -1,6 +1,6 @@
 ---
 slug: "trm-gress"
-id: "TRM-ENG-36495"
+id: "TRM-ENG-65553"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "gress"

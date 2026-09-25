@@ -1,6 +1,6 @@
 ---
 slug: "trm-istic-curves-with-sas-cary-nc"
-id: "TRM-ENG-35896"
+id: "TRM-ENG-64954"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "istic curves with SAS. Cary, NC"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-culture-and-context-focus-of-4"
-id: "TRM-ENG-39832"
+id: "TRM-ENG-54361"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "culture and context focus of, 4"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-mclean-p"
-id: "TRM-ENG-41653"
+id: "TRM-ENG-56182"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "McLean P"

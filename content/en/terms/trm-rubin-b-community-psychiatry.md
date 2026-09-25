@@ -1,6 +1,6 @@
 ---
 slug: "trm-rubin-b-community-psychiatry"
-id: "TRM-ENG-44609"
+id: "TRM-ENG-59138"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rubin, B., “Community Psychiatry"

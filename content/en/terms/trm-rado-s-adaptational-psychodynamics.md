@@ -1,6 +1,6 @@
 ---
 slug: "trm-rado-s-adaptational-psychodynamics"
-id: "TRM-ENG-44589"
+id: "TRM-ENG-59118"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rado, S., “Adaptational Psychodynamics"

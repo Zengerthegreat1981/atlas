@@ -1,6 +1,6 @@
 ---
 slug: "trm-total-quality-management-2"
-id: "TRM-ENG-47403"
+id: "TRM-ENG-61932"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Total quality management, 2"

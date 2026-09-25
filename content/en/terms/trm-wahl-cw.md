@@ -1,6 +1,6 @@
 ---
 slug: "trm-wahl-cw"
-id: "TRM-ENG-42692"
+id: "TRM-ENG-57221"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wahl CW"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavior-in-wolberg-lr-ed"
-id: "TRM-ENG-42978"
+id: "TRM-ENG-57507"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behavior, in Wolberg LR (ed)"

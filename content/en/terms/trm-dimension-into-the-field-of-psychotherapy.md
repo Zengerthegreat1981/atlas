@@ -1,6 +1,6 @@
 ---
 slug: "trm-dimension-into-the-field-of-psychotherapy"
-id: "TRM-ENG-43015"
+id: "TRM-ENG-57544"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dimension into the field of psychotherapy"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-transmission-of-hiv"
-id: "TRM-ENG-47359"
+id: "TRM-ENG-61888"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "transmission of HIV"

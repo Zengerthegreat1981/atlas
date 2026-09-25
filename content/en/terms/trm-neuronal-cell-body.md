@@ -1,6 +1,6 @@
 ---
 slug: "trm-neuronal-cell-body"
-id: "TRM-ENG-44096"
+id: "TRM-ENG-58625"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "neuronal cell body"

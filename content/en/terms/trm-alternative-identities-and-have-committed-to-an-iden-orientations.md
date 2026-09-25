@@ -1,6 +1,6 @@
 ---
 slug: "trm-alternative-identities-and-have-committed-to-an-iden-orientations"
-id: "TRM-ENG-39145"
+id: "TRM-ENG-53674"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "alternative identities and have committed to an iden- orientations"

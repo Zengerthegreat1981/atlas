@@ -1,6 +1,6 @@
 ---
 slug: "trm-cult"
-id: "TRM-ENG-52119"
+id: "TRM-ENG-66648"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cult"

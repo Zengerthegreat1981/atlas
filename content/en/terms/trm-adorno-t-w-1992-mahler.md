@@ -1,6 +1,6 @@
 ---
 slug: "trm-adorno-t-w-1992-mahler"
-id: "TRM-ENG-36532"
+id: "TRM-ENG-65590"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Adorno, T. W. (1992). Mahler"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-certainty"
-id: "TRM-ENG-34929"
+id: "TRM-ENG-63987"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "certainty"

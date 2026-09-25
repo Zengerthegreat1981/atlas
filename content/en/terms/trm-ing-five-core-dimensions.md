@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-five-core-dimensions"
-id: "TRM-ENG-36570"
+id: "TRM-ENG-65628"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing five core dimensions"

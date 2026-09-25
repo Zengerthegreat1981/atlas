@@ -1,6 +1,6 @@
 ---
 slug: "trm-totalistic-ideology-1"
-id: "TRM-ENG-48961"
+id: "TRM-ENG-63490"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "totalistic ideology, 1"

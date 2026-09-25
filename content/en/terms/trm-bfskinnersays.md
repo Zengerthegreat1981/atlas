@@ -1,6 +1,6 @@
 ---
 slug: "trm-bfskinnersays"
-id: "TRM-ENG-38475"
+id: "TRM-ENG-53004"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“B.F.Skinnersays"

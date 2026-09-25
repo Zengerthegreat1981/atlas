@@ -1,6 +1,6 @@
 ---
 slug: "trm-cleckley-h-1941-the-mask-of-sanity-st-louis-mo"
-id: "TRM-ENG-42353"
+id: "TRM-ENG-56882"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cleckley, H. (1941). The mask of sanity. St. Louis, MO"

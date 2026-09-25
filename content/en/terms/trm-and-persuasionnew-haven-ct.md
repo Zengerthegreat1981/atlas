@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-persuasionnew-haven-ct"
-id: "TRM-ENG-36139"
+id: "TRM-ENG-65197"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and persuasion.New Haven, CT"

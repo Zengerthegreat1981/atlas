@@ -1,6 +1,6 @@
 ---
 slug: "trm-glidewell-jc"
-id: "TRM-ENG-40729"
+id: "TRM-ENG-55258"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Glidewell JC"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-infantilechildhood-1"
-id: "TRM-ENG-45208"
+id: "TRM-ENG-59737"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "infantile/childhood, 1"

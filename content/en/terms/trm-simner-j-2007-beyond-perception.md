@@ -1,6 +1,6 @@
 ---
 slug: "trm-simner-j-2007-beyond-perception"
-id: "TRM-ENG-44773"
+id: "TRM-ENG-59302"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Simner, J. (2007). Beyond perception"

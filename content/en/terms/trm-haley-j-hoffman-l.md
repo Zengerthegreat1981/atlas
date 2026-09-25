@@ -1,6 +1,6 @@
 ---
 slug: "trm-haley-j-hoffman-l"
-id: "TRM-ENG-40882"
+id: "TRM-ENG-55411"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Haley J, Hoffman L"

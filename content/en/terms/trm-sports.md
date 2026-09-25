@@ -1,6 +1,6 @@
 ---
 slug: "trm-sports"
-id: "TRM-ENG-35973"
+id: "TRM-ENG-65031"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sports"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-america-new-york"
-id: "TRM-ENG-45745"
+id: "TRM-ENG-60274"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "America. New York"

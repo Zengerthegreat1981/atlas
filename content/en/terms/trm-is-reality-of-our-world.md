@@ -1,6 +1,6 @@
 ---
 slug: "trm-is-reality-of-our-world"
-id: "TRM-ENG-51563"
+id: "TRM-ENG-66092"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "is” reality of our world"

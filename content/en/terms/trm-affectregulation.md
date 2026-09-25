@@ -1,6 +1,6 @@
 ---
 slug: "trm-affectregulation"
-id: "TRM-ENG-46788"
+id: "TRM-ENG-61317"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "affectregulation"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-more-extensively-than-other-benzodiazepines-the-time"
-id: "TRM-ENG-46153"
+id: "TRM-ENG-60682"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "more extensively than other BENZODIAZEPINES, the time"

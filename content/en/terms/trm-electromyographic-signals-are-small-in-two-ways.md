@@ -1,6 +1,6 @@
 ---
 slug: "trm-electromyographic-signals-are-small-in-two-ways"
-id: "TRM-ENG-35377"
+id: "TRM-ENG-49906"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Electromyographic signals are small in two ways"

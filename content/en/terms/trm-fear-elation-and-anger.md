@@ -1,6 +1,6 @@
 ---
 slug: "trm-fear-elation-and-anger"
-id: "TRM-ENG-35018"
+id: "TRM-ENG-64076"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "fear, elation, and anger"

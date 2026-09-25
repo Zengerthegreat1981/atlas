@@ -1,6 +1,6 @@
 ---
 slug: "trm-miles-dr-carey-g"
-id: "TRM-ENG-47867"
+id: "TRM-ENG-62396"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Miles DR, Carey G"

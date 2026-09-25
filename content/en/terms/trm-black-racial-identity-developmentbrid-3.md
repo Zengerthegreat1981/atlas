@@ -1,6 +1,6 @@
 ---
 slug: "trm-black-racial-identity-developmentbrid-3"
-id: "TRM-ENG-37710"
+id: "TRM-ENG-66768"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Black racial identity development(BRID), 3"

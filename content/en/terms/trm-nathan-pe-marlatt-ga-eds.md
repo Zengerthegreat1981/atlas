@@ -1,6 +1,6 @@
 ---
 slug: "trm-nathan-pe-marlatt-ga-eds"
-id: "TRM-ENG-41821"
+id: "TRM-ENG-56350"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nathan PE, Marlatt GA (eds)"

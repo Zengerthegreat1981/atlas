@@ -1,6 +1,6 @@
 ---
 slug: "trm-sparks-of-grandiosity"
-id: "TRM-ENG-44194"
+id: "TRM-ENG-58723"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sparks of grandiosity"

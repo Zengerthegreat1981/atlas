@@ -1,6 +1,6 @@
 ---
 slug: "trm-be-alternatively-explained"
-id: "TRM-ENG-36188"
+id: "TRM-ENG-65246"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "be alternatively explained"

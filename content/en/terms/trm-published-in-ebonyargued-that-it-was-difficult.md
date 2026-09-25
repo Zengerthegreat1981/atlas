@@ -1,6 +1,6 @@
 ---
 slug: "trm-published-in-ebonyargued-that-it-was-difficult"
-id: "TRM-ENG-41383"
+id: "TRM-ENG-55912"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "published in Ebony,argued that it was difficult"

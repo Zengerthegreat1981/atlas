@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-the-organized-system-new-york-ny"
-id: "TRM-ENG-48166"
+id: "TRM-ENG-62695"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in the organized system. New York, NY"

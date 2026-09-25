@@ -1,6 +1,6 @@
 ---
 slug: "trm-associationfifth-editionand-3"
-id: "TRM-ENG-37643"
+id: "TRM-ENG-52172"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Association,Fifth Editionand, 3"

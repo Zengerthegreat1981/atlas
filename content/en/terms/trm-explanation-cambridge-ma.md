@@ -1,6 +1,6 @@
 ---
 slug: "trm-explanation-cambridge-ma"
-id: "TRM-ENG-45123"
+id: "TRM-ENG-59652"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "explanation. Cambridge, MA"

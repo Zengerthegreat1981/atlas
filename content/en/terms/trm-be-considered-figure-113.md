@@ -1,6 +1,6 @@
 ---
 slug: "trm-be-considered-figure-113"
-id: "TRM-ENG-48216"
+id: "TRM-ENG-62745"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "be considered (Figure 11–3)"

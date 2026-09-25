@@ -1,6 +1,6 @@
 ---
 slug: "trm-affirmative-action-1"
-id: "TRM-ENG-47558"
+id: "TRM-ENG-62087"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "affirmative action, 1"

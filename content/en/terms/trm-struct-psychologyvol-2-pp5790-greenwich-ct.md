@@ -1,6 +1,6 @@
 ---
 slug: "trm-struct-psychologyvol-2-pp5790-greenwich-ct"
-id: "TRM-ENG-37033"
+id: "TRM-ENG-51562"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "struct psychology(Vol. 2, pp.57–90). Greenwich, CT"

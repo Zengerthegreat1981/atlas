@@ -1,6 +1,6 @@
 ---
 slug: "trm-into-two-groups"
-id: "TRM-ENG-43709"
+id: "TRM-ENG-58238"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "into two groups"

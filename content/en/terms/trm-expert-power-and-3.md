@@ -1,6 +1,6 @@
 ---
 slug: "trm-expert-power-and-3"
-id: "TRM-ENG-40140"
+id: "TRM-ENG-54669"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "expert power and, 3"

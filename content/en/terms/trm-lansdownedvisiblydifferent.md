@@ -1,6 +1,6 @@
 ---
 slug: "trm-lansdownedvisiblydifferent"
-id: "TRM-ENG-46598"
+id: "TRM-ENG-61127"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lansdown(Ed.),VisiblyDifferent"

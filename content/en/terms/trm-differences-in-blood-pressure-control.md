@@ -1,6 +1,6 @@
 ---
 slug: "trm-differences-in-blood-pressure-control"
-id: "TRM-ENG-39933"
+id: "TRM-ENG-54462"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "differences in blood pressure control"

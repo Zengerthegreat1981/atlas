@@ -1,6 +1,6 @@
 ---
 slug: "trm-suicide-as-communication"
-id: "TRM-ENG-44820"
+id: "TRM-ENG-59349"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, “Suicide as Communication"

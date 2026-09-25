@@ -1,6 +1,6 @@
 ---
 slug: "trm-wampold-bruce-1"
-id: "TRM-ENG-51157"
+id: "TRM-ENG-65686"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wampold, Bruce, 1"

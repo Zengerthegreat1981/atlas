@@ -1,6 +1,6 @@
 ---
 slug: "trm-hunt-m"
-id: "TRM-ENG-41056"
+id: "TRM-ENG-55585"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hunt M"

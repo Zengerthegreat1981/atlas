@@ -1,6 +1,6 @@
 ---
 slug: "trm-boakes-r-1984-from-darwin-to-behaviorism-new-york"
-id: "TRM-ENG-36627"
+id: "TRM-ENG-51156"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Boakes, R. (1984). From Darwin to behaviorism. New York"

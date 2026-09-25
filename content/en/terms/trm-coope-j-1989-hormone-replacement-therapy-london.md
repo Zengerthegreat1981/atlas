@@ -1,6 +1,6 @@
 ---
 slug: "trm-coope-j-1989-hormone-replacement-therapy-london"
-id: "TRM-ENG-46479"
+id: "TRM-ENG-61008"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Coope, J. (1989). Hormone replacement therapy. London"

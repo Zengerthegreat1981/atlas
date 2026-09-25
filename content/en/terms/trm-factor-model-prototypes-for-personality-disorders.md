@@ -1,6 +1,6 @@
 ---
 slug: "trm-factor-model-prototypes-for-personality-disorders"
-id: "TRM-ENG-43681"
+id: "TRM-ENG-58210"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "factor model prototypes for personality disorders"

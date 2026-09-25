@@ -1,6 +1,6 @@
 ---
 slug: "trm-barberj1830grammarofevolutionp1830newhaven"
-id: "TRM-ENG-36589"
+id: "TRM-ENG-51118"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Barber,J.(1830).Grammarofevolution(p.1830).NewHaven"

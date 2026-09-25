@@ -1,6 +1,6 @@
 ---
 slug: "trm-espiritismo-and-3"
-id: "TRM-ENG-40076"
+id: "TRM-ENG-54605"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "espiritismo and, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-work-of-2"
-id: "TRM-ENG-42177"
+id: "TRM-ENG-56706"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "work of, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-levitan-s-kornfeld-d"
-id: "TRM-ENG-41427"
+id: "TRM-ENG-55956"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Levitan S, Kornfeld D"

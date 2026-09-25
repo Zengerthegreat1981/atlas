@@ -1,6 +1,6 @@
 ---
 slug: "trm-habituation-during-exposure-treatment"
-id: "TRM-ENG-49009"
+id: "TRM-ENG-63538"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Habituation during exposure treatment"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-youngvh2005ruthbenedict"
-id: "TRM-ENG-37454"
+id: "TRM-ENG-66512"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Young,V.H.(2005).RuthBenedict"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-biography-retrieved-from-http"
-id: "TRM-ENG-39064"
+id: "TRM-ENG-53593"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "[biography]. Retrieved from http"

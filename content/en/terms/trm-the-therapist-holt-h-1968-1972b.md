@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-therapist-holt-h-1968-1972b"
-id: "TRM-ENG-43205"
+id: "TRM-ENG-57734"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the therapist (Holt H, 1968, 1972b"

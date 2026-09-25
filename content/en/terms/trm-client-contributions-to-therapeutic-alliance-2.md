@@ -1,6 +1,6 @@
 ---
 slug: "trm-client-contributions-to-therapeutic-alliance-2"
-id: "TRM-ENG-39518"
+id: "TRM-ENG-54047"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "client contributions to therapeutic alliance, 2"

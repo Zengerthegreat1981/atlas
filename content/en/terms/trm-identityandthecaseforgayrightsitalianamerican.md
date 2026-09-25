@@ -1,6 +1,6 @@
 ---
 slug: "trm-identityandthecaseforgayrightsitalianamerican"
-id: "TRM-ENG-45720"
+id: "TRM-ENG-60249"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "IdentityandtheCaseforGayRights;ItalianAmerican"

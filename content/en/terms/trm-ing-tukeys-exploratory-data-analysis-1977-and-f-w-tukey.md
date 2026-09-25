@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-tukeys-exploratory-data-analysis-1977-and-f-w-tukey"
-id: "TRM-ENG-35081"
+id: "TRM-ENG-64139"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing. Tukey’s Exploratory Data Analysis (1977) and F. W Tukey"

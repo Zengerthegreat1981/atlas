@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-psychic-structure"
-id: "TRM-ENG-48164"
+id: "TRM-ENG-62693"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "a psychic structure"

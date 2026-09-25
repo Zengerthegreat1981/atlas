@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp481503amsterdam"
-id: "TRM-ENG-36474"
+id: "TRM-ENG-65532"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp.481–503).Amsterdam"

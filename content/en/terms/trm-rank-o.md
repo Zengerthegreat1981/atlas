@@ -1,6 +1,6 @@
 ---
 slug: "trm-rank-o"
-id: "TRM-ENG-42061"
+id: "TRM-ENG-56590"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rank O"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-making-syntax-of-sense"
-id: "TRM-ENG-44601"
+id: "TRM-ENG-59130"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Making syntax of sense"

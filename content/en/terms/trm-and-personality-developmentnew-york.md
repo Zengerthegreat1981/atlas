@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-personality-developmentnew-york"
-id: "TRM-ENG-39186"
+id: "TRM-ENG-53715"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and personality development.New York"

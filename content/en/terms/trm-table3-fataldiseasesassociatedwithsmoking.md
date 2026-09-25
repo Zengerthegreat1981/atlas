@@ -1,6 +1,6 @@
 ---
 slug: "trm-table3-fataldiseasesassociatedwithsmoking"
-id: "TRM-ENG-46736"
+id: "TRM-ENG-61265"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Table3 Fataldiseasesassociatedwithsmoking"

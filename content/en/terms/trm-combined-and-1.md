@@ -1,6 +1,6 @@
 ---
 slug: "trm-combined-and-1"
-id: "TRM-ENG-39586"
+id: "TRM-ENG-54115"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "combined and, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-searl-mn"
-id: "TRM-ENG-42302"
+id: "TRM-ENG-56831"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Searl MN"

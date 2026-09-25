@@ -1,6 +1,6 @@
 ---
 slug: "trm-buber-m"
-id: "TRM-ENG-40063"
+id: "TRM-ENG-54592"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Buber M"

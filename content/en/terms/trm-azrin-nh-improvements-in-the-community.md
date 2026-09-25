@@ -1,6 +1,6 @@
 ---
 slug: "trm-azrin-nh-improvements-in-the-community"
-id: "TRM-ENG-39757"
+id: "TRM-ENG-54286"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Azrin NH: Improvements in the community"

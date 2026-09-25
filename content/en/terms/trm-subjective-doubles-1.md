@@ -1,6 +1,6 @@
 ---
 slug: "trm-subjective-doubles-1"
-id: "TRM-ENG-44801"
+id: "TRM-ENG-59330"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Subjective doubles, 1"

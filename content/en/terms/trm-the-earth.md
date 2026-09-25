@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-earth"
-id: "TRM-ENG-48824"
+id: "TRM-ENG-63353"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the Earth"

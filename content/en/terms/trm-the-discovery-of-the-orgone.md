@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-discovery-of-the-orgone"
-id: "TRM-ENG-44741"
+id: "TRM-ENG-59270"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, The Discovery of the Orgone"

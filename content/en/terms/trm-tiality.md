@@ -1,6 +1,6 @@
 ---
 slug: "trm-tiality"
-id: "TRM-ENG-35396"
+id: "TRM-ENG-64454"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tiality"

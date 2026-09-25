@@ -1,6 +1,6 @@
 ---
 slug: "trm-roberts-bw-kuncel-nr-shiner-r-et-al"
-id: "TRM-ENG-48023"
+id: "TRM-ENG-62552"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Roberts BW, Kuncel NR, Shiner R, et al"

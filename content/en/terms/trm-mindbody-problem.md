@@ -1,6 +1,6 @@
 ---
 slug: "trm-mindbody-problem"
-id: "TRM-ENG-36718"
+id: "TRM-ENG-65776"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mind-body problem"

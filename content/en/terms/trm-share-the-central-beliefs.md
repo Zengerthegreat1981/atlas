@@ -1,6 +1,6 @@
 ---
 slug: "trm-share-the-central-beliefs"
-id: "TRM-ENG-46006"
+id: "TRM-ENG-60535"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "share the central beliefs"

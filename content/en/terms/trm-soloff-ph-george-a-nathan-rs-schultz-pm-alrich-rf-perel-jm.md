@@ -1,6 +1,6 @@
 ---
 slug: "trm-soloff-ph-george-a-nathan-rs-schultz-pm-alrich-rf-perel-jm"
-id: "TRM-ENG-42400"
+id: "TRM-ENG-56929"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Soloff PH, George A, Nathan RS, Schultz PM, Alrich RF, Perel JM"

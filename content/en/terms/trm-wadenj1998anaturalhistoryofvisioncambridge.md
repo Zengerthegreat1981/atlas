@@ -1,6 +1,6 @@
 ---
 slug: "trm-wadenj1998anaturalhistoryofvisioncambridge"
-id: "TRM-ENG-37409"
+id: "TRM-ENG-66467"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wade,N.J.(1998).Anaturalhistoryofvision.Cambridge"

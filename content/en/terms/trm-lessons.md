@@ -1,6 +1,6 @@
 ---
 slug: "trm-lessons"
-id: "TRM-ENG-35111"
+id: "TRM-ENG-64169"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lessons"

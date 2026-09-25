@@ -1,6 +1,6 @@
 ---
 slug: "trm-seligmanmep2002authentichappiness"
-id: "TRM-ENG-37278"
+id: "TRM-ENG-66336"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Seligman,M.E.P.(2002).Authentichappiness"

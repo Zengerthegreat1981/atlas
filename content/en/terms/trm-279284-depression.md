@@ -1,6 +1,6 @@
 ---
 slug: "trm-279284-depression"
-id: "TRM-ENG-46372"
+id: "TRM-ENG-60901"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "279±284. depression"

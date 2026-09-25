@@ -1,6 +1,6 @@
 ---
 slug: "trm-suicidal-behavior-and-2"
-id: "TRM-ENG-41823"
+id: "TRM-ENG-56352"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "suicidal behavior and, 2"

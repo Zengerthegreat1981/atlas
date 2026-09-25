@@ -1,6 +1,6 @@
 ---
 slug: "trm-1914-on-narcissism"
-id: "TRM-ENG-44709"
+id: "TRM-ENG-59238"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, (1914), “On Narcissism"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-philander-da-yorkston-nj-eckert-e-et-al"
-id: "TRM-ENG-41968"
+id: "TRM-ENG-56497"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Philander DA, Yorkston NJ, Eckert E, et al"

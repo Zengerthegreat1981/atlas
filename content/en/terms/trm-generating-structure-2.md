@@ -1,6 +1,6 @@
 ---
 slug: "trm-generating-structure-2"
-id: "TRM-ENG-45152"
+id: "TRM-ENG-59681"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "generating structure, 2"

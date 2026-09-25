@@ -1,6 +1,6 @@
 ---
 slug: "trm-resistanceandmortality"
-id: "TRM-ENG-47263"
+id: "TRM-ENG-61792"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "resistance,andmortality"

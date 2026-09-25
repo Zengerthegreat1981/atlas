@@ -1,6 +1,6 @@
 ---
 slug: "trm-triarchic-conceptualization-of-psychopathy"
-id: "TRM-ENG-42562"
+id: "TRM-ENG-57091"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Triarchic conceptualization of psychopathy"

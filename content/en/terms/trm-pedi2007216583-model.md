@@ -1,6 +1,6 @@
 ---
 slug: "trm-pedi2007216583-model"
-id: "TRM-ENG-43793"
+id: "TRM-ENG-58322"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pedi.2007.21.6.583 model"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-iso-and-4"
-id: "TRM-ENG-37401"
+id: "TRM-ENG-66459"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(ISO) and, 4"

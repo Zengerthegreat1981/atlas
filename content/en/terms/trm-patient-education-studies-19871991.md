@@ -1,6 +1,6 @@
 ---
 slug: "trm-patient-education-studies-19871991"
-id: "TRM-ENG-47185"
+id: "TRM-ENG-61714"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "patient education studies, 1987±1991"

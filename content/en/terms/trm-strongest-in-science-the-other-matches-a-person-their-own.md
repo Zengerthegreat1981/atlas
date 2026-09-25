@@ -1,6 +1,6 @@
 ---
 slug: "trm-strongest-in-science-the-other-matches-a-person-their-own"
-id: "TRM-ENG-41802"
+id: "TRM-ENG-56331"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "strongest in science.” The other matches a person their own"

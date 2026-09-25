@@ -1,6 +1,6 @@
 ---
 slug: "trm-rossi-e-ryan-m-eds"
-id: "TRM-ENG-42186"
+id: "TRM-ENG-56715"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rossi E, Ryan M (eds)"

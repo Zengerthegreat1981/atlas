@@ -1,6 +1,6 @@
 ---
 slug: "trm-foetuumformationecap618211833"
-id: "TRM-ENG-36798"
+id: "TRM-ENG-51327"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "FoetuumFormationecap.6(1821–1833"

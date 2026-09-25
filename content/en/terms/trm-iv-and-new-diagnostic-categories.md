@@ -1,6 +1,6 @@
 ---
 slug: "trm-iv-and-new-diagnostic-categories"
-id: "TRM-ENG-47744"
+id: "TRM-ENG-62273"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "IV and new diagnostic categories"

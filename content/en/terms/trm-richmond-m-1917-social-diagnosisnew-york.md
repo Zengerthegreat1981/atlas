@@ -1,6 +1,6 @@
 ---
 slug: "trm-richmond-m-1917-social-diagnosisnew-york"
-id: "TRM-ENG-35924"
+id: "TRM-ENG-64982"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Richmond, M. (1917). Social diagnosis.New York"

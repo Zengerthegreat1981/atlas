@@ -1,6 +1,6 @@
 ---
 slug: "trm-with-the-implementation-of-values"
-id: "TRM-ENG-49052"
+id: "TRM-ENG-63581"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "with the implementation of values"

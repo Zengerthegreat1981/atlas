@@ -1,6 +1,6 @@
 ---
 slug: "trm-lambert-michael-1"
-id: "TRM-ENG-38353"
+id: "TRM-ENG-52882"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lambert, Michael, 1"

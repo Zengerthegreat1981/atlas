@@ -1,6 +1,6 @@
 ---
 slug: "trm-direction"
-id: "TRM-ENG-52453"
+id: "TRM-ENG-66982"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "direction"

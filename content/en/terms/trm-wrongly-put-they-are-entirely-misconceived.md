@@ -1,6 +1,6 @@
 ---
 slug: "trm-wrongly-put-they-are-entirely-misconceived"
-id: "TRM-ENG-49066"
+id: "TRM-ENG-63595"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "wrongly put. They are . . . entirely misconceived"

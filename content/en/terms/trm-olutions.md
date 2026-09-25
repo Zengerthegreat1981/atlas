@@ -1,6 +1,6 @@
 ---
 slug: "trm-olutions"
-id: "TRM-ENG-35193"
+id: "TRM-ENG-49722"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "olutions"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-link-to-social-cognitive-ability"
-id: "TRM-ENG-34917"
+id: "TRM-ENG-49446"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "link to social cognitive ability"

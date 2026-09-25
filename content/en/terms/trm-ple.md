@@ -1,6 +1,6 @@
 ---
 slug: "trm-ple"
-id: "TRM-ENG-35233"
+id: "TRM-ENG-49762"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ple"

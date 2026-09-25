@@ -1,6 +1,6 @@
 ---
 slug: "trm-french-tm-fromm-e"
-id: "TRM-ENG-40613"
+id: "TRM-ENG-55142"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "French TM, Fromm E"

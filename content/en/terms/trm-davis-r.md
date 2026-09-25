@@ -1,6 +1,6 @@
 ---
 slug: "trm-davis-r"
-id: "TRM-ENG-47603"
+id: "TRM-ENG-62132"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Davis R"

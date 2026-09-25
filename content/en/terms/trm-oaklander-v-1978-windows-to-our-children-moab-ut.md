@@ -1,6 +1,6 @@
 ---
 slug: "trm-oaklander-v-1978-windows-to-our-children-moab-ut"
-id: "TRM-ENG-35869"
+id: "TRM-ENG-50398"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Oaklander, V. (1978). Windows to our children. Moab, UT"

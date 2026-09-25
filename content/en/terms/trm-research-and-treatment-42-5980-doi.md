@@ -1,6 +1,6 @@
 ---
 slug: "trm-research-and-treatment-42-5980-doi"
-id: "TRM-ENG-50954"
+id: "TRM-ENG-65483"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Research, and Treatment, 4(2), 59–80. doi"

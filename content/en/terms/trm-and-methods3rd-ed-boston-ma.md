@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-methods3rd-ed-boston-ma"
-id: "TRM-ENG-36134"
+id: "TRM-ENG-65192"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and methods(3rd ed.). Boston, MA"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-schwartz-jl"
-id: "TRM-ENG-42295"
+id: "TRM-ENG-56824"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schwartz JL"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-johnson-cb-johnson-e"
-id: "TRM-ENG-41134"
+id: "TRM-ENG-55663"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Johnson CB & Johnson E"

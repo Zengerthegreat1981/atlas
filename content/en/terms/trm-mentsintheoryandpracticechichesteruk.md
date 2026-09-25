@@ -1,6 +1,6 @@
 ---
 slug: "trm-mentsintheoryandpracticechichesteruk"
-id: "TRM-ENG-49542"
+id: "TRM-ENG-64071"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mentsintheoryandpractice.Chichester,UK"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-unusual-first-suicidality-is-chronic"
-id: "TRM-ENG-43407"
+id: "TRM-ENG-57936"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "unusual. First, suicidality is chronic"

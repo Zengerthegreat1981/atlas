@@ -1,6 +1,6 @@
 ---
 slug: "trm-widiger-t-costa-p"
-id: "TRM-ENG-48149"
+id: "TRM-ENG-62678"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Widiger T, Costa P"

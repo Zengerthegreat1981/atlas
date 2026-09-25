@@ -1,6 +1,6 @@
 ---
 slug: "trm-spoken-word-recognition"
-id: "TRM-ENG-45531"
+id: "TRM-ENG-60060"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "spoken word recognition"

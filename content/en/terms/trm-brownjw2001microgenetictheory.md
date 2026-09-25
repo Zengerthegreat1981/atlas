@@ -1,6 +1,6 @@
 ---
 slug: "trm-brownjw2001microgenetictheory"
-id: "TRM-ENG-36661"
+id: "TRM-ENG-65719"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brown,J.W.(2001).Microgenetictheory"

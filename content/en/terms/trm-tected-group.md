@@ -1,6 +1,6 @@
 ---
 slug: "trm-tected-group"
-id: "TRM-ENG-35364"
+id: "TRM-ENG-49893"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tected group"

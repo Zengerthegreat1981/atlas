@@ -1,6 +1,6 @@
 ---
 slug: "trm-marmor-j-changing-patterns-of-femininity"
-id: "TRM-ENG-44514"
+id: "TRM-ENG-59043"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Marmor, J., “Changing Patterns of Femininity"

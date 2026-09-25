@@ -1,6 +1,6 @@
 ---
 slug: "trm-706-ruitenbeck-hm-ed"
-id: "TRM-ENG-39349"
+id: "TRM-ENG-53878"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "706. Ruitenbeck HM (ed)"

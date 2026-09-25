@@ -1,6 +1,6 @@
 ---
 slug: "trm-characteristicsofscid"
-id: "TRM-ENG-45867"
+id: "TRM-ENG-60396"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "characteristicsofS(cid"

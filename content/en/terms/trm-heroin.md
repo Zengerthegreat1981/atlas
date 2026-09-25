@@ -1,6 +1,6 @@
 ---
 slug: "trm-heroin"
-id: "TRM-ENG-52213"
+id: "TRM-ENG-66742"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Heroin"

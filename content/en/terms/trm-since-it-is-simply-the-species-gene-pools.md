@@ -1,6 +1,6 @@
 ---
 slug: "trm-since-it-is-simply-the-species-gene-pools"
-id: "TRM-ENG-46010"
+id: "TRM-ENG-60539"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "since it is simply the species’ gene pool’s"

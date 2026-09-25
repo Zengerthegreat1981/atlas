@@ -1,6 +1,6 @@
 ---
 slug: "trm-bootzin-rr"
-id: "TRM-ENG-39987"
+id: "TRM-ENG-54516"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bootzin RR"

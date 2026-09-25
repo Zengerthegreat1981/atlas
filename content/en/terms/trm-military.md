@@ -1,6 +1,6 @@
 ---
 slug: "trm-military"
-id: "TRM-ENG-35841"
+id: "TRM-ENG-50370"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Military"

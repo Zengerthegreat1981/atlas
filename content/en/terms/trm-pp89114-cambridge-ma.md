@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp89114-cambridge-ma"
-id: "TRM-ENG-35517"
+id: "TRM-ENG-50046"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp.89–114). Cambridge, MA"

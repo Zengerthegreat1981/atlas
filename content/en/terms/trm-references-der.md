@@ -1,6 +1,6 @@
 ---
 slug: "trm-references-der"
-id: "TRM-ENG-42508"
+id: "TRM-ENG-57037"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "REFERENCES der"

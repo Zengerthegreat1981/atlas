@@ -1,6 +1,6 @@
 ---
 slug: "trm-autonomy"
-id: "TRM-ENG-42220"
+id: "TRM-ENG-56749"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "• Autonomy"

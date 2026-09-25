@@ -1,6 +1,6 @@
 ---
 slug: "trm-362-beliak-l-goldsmith-l"
-id: "TRM-ENG-38931"
+id: "TRM-ENG-53460"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "362. Beliak L, Goldsmith L"

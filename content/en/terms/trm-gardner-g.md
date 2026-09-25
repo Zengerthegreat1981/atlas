@@ -1,6 +1,6 @@
 ---
 slug: "trm-gardner-g"
-id: "TRM-ENG-40660"
+id: "TRM-ENG-55189"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gardner G"

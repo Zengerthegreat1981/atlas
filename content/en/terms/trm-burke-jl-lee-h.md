@@ -1,6 +1,6 @@
 ---
 slug: "trm-burke-jl-lee-h"
-id: "TRM-ENG-40077"
+id: "TRM-ENG-54606"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Burke JL, Lee H"

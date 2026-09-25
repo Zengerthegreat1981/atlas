@@ -1,6 +1,6 @@
 ---
 slug: "trm-faber-m-d-the-design-within"
-id: "TRM-ENG-44379"
+id: "TRM-ENG-58908"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Faber, M. D., The Design Within"

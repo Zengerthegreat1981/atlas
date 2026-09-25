@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychologylondon"
-id: "TRM-ENG-36915"
+id: "TRM-ENG-65973"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychology.London"

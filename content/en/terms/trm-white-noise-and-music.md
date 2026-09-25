@@ -1,6 +1,6 @@
 ---
 slug: "trm-white-noise-and-music"
-id: "TRM-ENG-47377"
+id: "TRM-ENG-61906"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "white noise and music"

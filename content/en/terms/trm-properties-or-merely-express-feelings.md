@@ -1,6 +1,6 @@
 ---
 slug: "trm-properties-or-merely-express-feelings"
-id: "TRM-ENG-45448"
+id: "TRM-ENG-59977"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "properties or merely express feelings"

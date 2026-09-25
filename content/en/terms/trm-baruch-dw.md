@@ -1,6 +1,6 @@
 ---
 slug: "trm-baruch-dw"
-id: "TRM-ENG-39821"
+id: "TRM-ENG-54350"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Baruch DW"

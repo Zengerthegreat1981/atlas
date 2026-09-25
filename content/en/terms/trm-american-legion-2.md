@@ -1,6 +1,6 @@
 ---
 slug: "trm-american-legion-2"
-id: "TRM-ENG-46228"
+id: "TRM-ENG-60757"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "American Legion, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-riesthreecomponentsareanalyzed"
-id: "TRM-ENG-43840"
+id: "TRM-ENG-58369"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ries.Threecomponentsareanalyzed"

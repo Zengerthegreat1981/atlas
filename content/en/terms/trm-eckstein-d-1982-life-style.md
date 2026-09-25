@@ -1,6 +1,6 @@
 ---
 slug: "trm-eckstein-d-1982-life-style"
-id: "TRM-ENG-52500"
+id: "TRM-ENG-67029"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Eckstein, D. (1982). Life style"

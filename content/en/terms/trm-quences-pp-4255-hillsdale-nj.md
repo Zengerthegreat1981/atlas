@@ -1,6 +1,6 @@
 ---
 slug: "trm-quences-pp-4255-hillsdale-nj"
-id: "TRM-ENG-35274"
+id: "TRM-ENG-64332"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "quences (pp. 42-55). Hillsdale, NJ"

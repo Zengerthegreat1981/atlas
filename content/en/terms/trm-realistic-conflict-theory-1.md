@@ -1,6 +1,6 @@
 ---
 slug: "trm-realistic-conflict-theory-1"
-id: "TRM-ENG-44727"
+id: "TRM-ENG-59256"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Realistic conflict theory, 1"

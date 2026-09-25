@@ -1,6 +1,6 @@
 ---
 slug: "trm-adolescent"
-id: "TRM-ENG-44866"
+id: "TRM-ENG-59395"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "adolescent-"

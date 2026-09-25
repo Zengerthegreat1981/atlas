@@ -1,6 +1,6 @@
 ---
 slug: "trm-research-57-3543-doi"
-id: "TRM-ENG-50953"
+id: "TRM-ENG-65482"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Research, 57, 35–43. doi"

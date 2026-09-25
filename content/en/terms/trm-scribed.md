@@ -1,6 +1,6 @@
 ---
 slug: "trm-scribed"
-id: "TRM-ENG-43193"
+id: "TRM-ENG-57722"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "scribed"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-thames"
-id: "TRM-ENG-45796"
+id: "TRM-ENG-60325"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Thames"

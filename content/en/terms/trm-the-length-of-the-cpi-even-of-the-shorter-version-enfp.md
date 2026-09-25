@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-length-of-the-cpi-even-of-the-shorter-version-enfp"
-id: "TRM-ENG-38900"
+id: "TRM-ENG-53429"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The length of the CPI, even of the shorter version, ENFP"

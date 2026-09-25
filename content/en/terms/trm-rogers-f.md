@@ -1,6 +1,6 @@
 ---
 slug: "trm-rogers-f"
-id: "TRM-ENG-42153"
+id: "TRM-ENG-56682"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rogers F"

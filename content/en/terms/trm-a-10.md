@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-10"
-id: "TRM-ENG-36071"
+id: "TRM-ENG-65129"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "a 10"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-uninhibited"
-id: "TRM-ENG-43897"
+id: "TRM-ENG-58426"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "uninhibited"

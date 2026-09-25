@@ -1,6 +1,6 @@
 ---
 slug: "trm-f-or-plural-eg-the-fs-fs-noun-phrases-fs-in-x"
-id: "TRM-ENG-44473"
+id: "TRM-ENG-59002"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "F ) or plural (e.g., the Fs , Fs , [noun phrase]’s Fs ). In x"

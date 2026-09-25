@@ -1,6 +1,6 @@
 ---
 slug: "trm-n-s-jacobson-eds-marital-interaction"
-id: "TRM-ENG-48751"
+id: "TRM-ENG-63280"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "& N. S. Jacobson (Eds.), Marital interaction"

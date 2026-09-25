@@ -1,6 +1,6 @@
 ---
 slug: "trm-stroop-task-1"
-id: "TRM-ENG-44799"
+id: "TRM-ENG-59328"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stroop task, 1"

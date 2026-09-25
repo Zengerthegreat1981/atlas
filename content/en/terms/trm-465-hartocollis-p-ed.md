@@ -1,6 +1,6 @@
 ---
 slug: "trm-465-hartocollis-p-ed"
-id: "TRM-ENG-39057"
+id: "TRM-ENG-53586"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "465. Hartocollis P (ed)"

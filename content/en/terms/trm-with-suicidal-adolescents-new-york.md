@@ -1,6 +1,6 @@
 ---
 slug: "trm-with-suicidal-adolescents-new-york"
-id: "TRM-ENG-37326"
+id: "TRM-ENG-51855"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "with suicidal adolescents. New York"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-gottesfeld-h"
-id: "TRM-ENG-40781"
+id: "TRM-ENG-55310"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gottesfeld H"

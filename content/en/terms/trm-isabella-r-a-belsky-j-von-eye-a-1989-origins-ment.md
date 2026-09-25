@@ -1,6 +1,6 @@
 ---
 slug: "trm-isabella-r-a-belsky-j-von-eye-a-1989-origins-ment"
-id: "TRM-ENG-42426"
+id: "TRM-ENG-56955"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Isabella, R. A., Belsky, J., & von Eye, A. (1989). Origins ment"

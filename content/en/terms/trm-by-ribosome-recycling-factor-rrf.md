@@ -1,6 +1,6 @@
 ---
 slug: "trm-by-ribosome-recycling-factor-rrf"
-id: "TRM-ENG-36229"
+id: "TRM-ENG-65287"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "by ribosome recycling factor (RRF)"

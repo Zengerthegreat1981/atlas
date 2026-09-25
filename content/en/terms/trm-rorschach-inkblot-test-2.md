@@ -1,6 +1,6 @@
 ---
 slug: "trm-rorschach-inkblot-test-2"
-id: "TRM-ENG-38699"
+id: "TRM-ENG-53228"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rorschach Inkblot Test, 2"

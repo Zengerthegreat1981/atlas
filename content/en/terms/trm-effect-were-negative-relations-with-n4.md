@@ -1,6 +1,6 @@
 ---
 slug: "trm-effect-were-negative-relations-with-n4"
-id: "TRM-ENG-43675"
+id: "TRM-ENG-58204"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "effect were negative relations with N4"

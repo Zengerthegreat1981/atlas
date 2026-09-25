@@ -1,6 +1,6 @@
 ---
 slug: "trm-albeit-disoriented-and-dysphasic"
-id: "TRM-ENG-34734"
+id: "TRM-ENG-63792"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "albeit disoriented and dysphasic"

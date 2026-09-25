@@ -1,6 +1,6 @@
 ---
 slug: "trm-physical-illnesses-and-1"
-id: "TRM-ENG-41177"
+id: "TRM-ENG-55706"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "physical illnesses and, 1"

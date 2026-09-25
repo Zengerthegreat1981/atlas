@@ -1,6 +1,6 @@
 ---
 slug: "trm-rifkin-a-quitkin-f-carilla-c-et-al"
-id: "TRM-ENG-42120"
+id: "TRM-ENG-56649"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rifkin A, Quitkin F, Carilla C, et al"

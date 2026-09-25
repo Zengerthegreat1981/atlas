@@ -1,6 +1,6 @@
 ---
 slug: "trm-trainable"
-id: "TRM-ENG-52431"
+id: "TRM-ENG-66960"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Trainable"

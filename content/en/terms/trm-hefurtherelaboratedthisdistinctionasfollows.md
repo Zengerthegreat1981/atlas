@@ -1,6 +1,6 @@
 ---
 slug: "trm-hefurtherelaboratedthisdistinctionasfollows"
-id: "TRM-ENG-36889"
+id: "TRM-ENG-65947"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hefurtherelaboratedthisdistinctionasfollows"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-nicholi-a-m-2002-the-question-of-god"
-id: "TRM-ENG-50800"
+id: "TRM-ENG-65329"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nicholi, A. M. (2002). The question of God"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-brameld-t-1974-culturology-as-the-search-for-animals"
-id: "TRM-ENG-46331"
+id: "TRM-ENG-60860"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brameld, T. (1974). Culturology as the search for Animals"

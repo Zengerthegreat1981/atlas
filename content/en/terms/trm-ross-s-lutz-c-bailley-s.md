@@ -1,6 +1,6 @@
 ---
 slug: "trm-ross-s-lutz-c-bailley-s"
-id: "TRM-ENG-48028"
+id: "TRM-ENG-62557"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ross S, Lutz C, Bailley S"

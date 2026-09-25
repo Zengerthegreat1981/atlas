@@ -1,6 +1,6 @@
 ---
 slug: "trm-conditioning-reinforcement-refers-to-the-reward-cid"
-id: "TRM-ENG-45769"
+id: "TRM-ENG-60298"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "CONDITIONING, reinforcement refers to the reward (cid"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-vergence-between-the-two"
-id: "TRM-ENG-43903"
+id: "TRM-ENG-58432"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "vergence between the two"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-abstract-liberalism-and-3"
-id: "TRM-ENG-39070"
+id: "TRM-ENG-53599"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "abstract liberalism and, 3"

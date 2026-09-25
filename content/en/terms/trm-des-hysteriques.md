@@ -1,6 +1,6 @@
 ---
 slug: "trm-des-hysteriques"
-id: "TRM-ENG-37682"
+id: "TRM-ENG-52211"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "des hyste´riques"

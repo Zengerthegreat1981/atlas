@@ -1,6 +1,6 @@
 ---
 slug: "trm-parative-studies-of-psychotherapies"
-id: "TRM-ENG-43112"
+id: "TRM-ENG-57641"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "parative studies of psychotherapies"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-widiger-t-frances-a"
-id: "TRM-ENG-48150"
+id: "TRM-ENG-62679"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Widiger T, Frances A"

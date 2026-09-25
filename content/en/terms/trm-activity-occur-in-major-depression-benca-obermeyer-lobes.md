@@ -1,6 +1,6 @@
 ---
 slug: "trm-activity-occur-in-major-depression-benca-obermeyer-lobes"
-id: "TRM-ENG-36088"
+id: "TRM-ENG-65146"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "activity occur in major depression (Benca, Obermeyer, lobes"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-2000-report-are-apposite-here"
-id: "TRM-ENG-46107"
+id: "TRM-ENG-60636"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2000) report are apposite here"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-smithjs1963thedayofthepopularizers"
-id: "TRM-ENG-37306"
+id: "TRM-ENG-51835"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Smith,J.S.(1963).Thedayofthepopularizers"

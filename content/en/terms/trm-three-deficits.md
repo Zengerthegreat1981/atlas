@@ -1,6 +1,6 @@
 ---
 slug: "trm-three-deficits"
-id: "TRM-ENG-35087"
+id: "TRM-ENG-49616"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "three deficits"

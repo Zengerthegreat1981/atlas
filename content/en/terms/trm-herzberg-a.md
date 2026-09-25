@@ -1,6 +1,6 @@
 ---
 slug: "trm-herzberg-a"
-id: "TRM-ENG-40985"
+id: "TRM-ENG-55514"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Herzberg A"

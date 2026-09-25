@@ -1,6 +1,6 @@
 ---
 slug: "trm-bulimia-nervosa"
-id: "TRM-ENG-48922"
+id: "TRM-ENG-63451"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bulimia Nervosa"

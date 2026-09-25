@@ -1,6 +1,6 @@
 ---
 slug: "trm-is-not-in-our-best-interest-because-of-specializa"
-id: "TRM-ENG-46128"
+id: "TRM-ENG-60657"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "is not in our best interest. Because of specializa-"

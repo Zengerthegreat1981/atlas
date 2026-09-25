@@ -1,6 +1,6 @@
 ---
 slug: "trm-test-battery"
-id: "TRM-ENG-35998"
+id: "TRM-ENG-50527"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Test Battery"

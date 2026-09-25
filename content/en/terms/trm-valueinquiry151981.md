@@ -1,6 +1,6 @@
 ---
 slug: "trm-valueinquiry151981"
-id: "TRM-ENG-45806"
+id: "TRM-ENG-60335"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ValueInquiry15(1981)"

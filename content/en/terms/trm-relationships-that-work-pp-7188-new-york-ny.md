@@ -1,6 +1,6 @@
 ---
 slug: "trm-relationships-that-work-pp-7188-new-york-ny"
-id: "TRM-ENG-51792"
+id: "TRM-ENG-66321"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "relationships that work (pp. 71–88). New York, NY"

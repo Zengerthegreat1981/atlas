@@ -1,6 +1,6 @@
 ---
 slug: "trm-rosfort-2013-these-narratives-are-important"
-id: "TRM-ENG-42515"
+id: "TRM-ENG-57044"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rosfort, 2013). These narratives are important"

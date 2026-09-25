@@ -1,6 +1,6 @@
 ---
 slug: "trm-turefall-into-threemajorcategories"
-id: "TRM-ENG-38399"
+id: "TRM-ENG-52928"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "turefall into threemajorcategories"

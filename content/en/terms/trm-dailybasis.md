@@ -1,6 +1,6 @@
 ---
 slug: "trm-dailybasis"
-id: "TRM-ENG-46925"
+id: "TRM-ENG-61454"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dailybasis"

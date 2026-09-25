@@ -1,6 +1,6 @@
 ---
 slug: "trm-pitals-was-69177"
-id: "TRM-ENG-35230"
+id: "TRM-ENG-49759"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pitals was 69,177"

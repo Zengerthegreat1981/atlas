@@ -1,6 +1,6 @@
 ---
 slug: "trm-power-of-context"
-id: "TRM-ENG-45425"
+id: "TRM-ENG-59954"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "power of context"

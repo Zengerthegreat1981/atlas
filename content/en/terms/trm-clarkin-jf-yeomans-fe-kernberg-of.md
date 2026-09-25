@@ -1,6 +1,6 @@
 ---
 slug: "trm-clarkin-jf-yeomans-fe-kernberg-of"
-id: "TRM-ENG-47547"
+id: "TRM-ENG-62076"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Clarkin JF, Yeomans FE, Kernberg OF"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-collegeminneapolis"
-id: "TRM-ENG-39582"
+id: "TRM-ENG-54111"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "college.Minneapolis"

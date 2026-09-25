@@ -1,6 +1,6 @@
 ---
 slug: "trm-personenvironment-interactions-pe-and-2"
-id: "TRM-ENG-41138"
+id: "TRM-ENG-55667"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "person-environment interactions (P–E) and, 2"

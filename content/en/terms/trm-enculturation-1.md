@@ -1,6 +1,6 @@
 ---
 slug: "trm-enculturation-1"
-id: "TRM-ENG-46579"
+id: "TRM-ENG-61108"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Enculturation, 1"

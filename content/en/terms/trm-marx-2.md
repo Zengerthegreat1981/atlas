@@ -1,6 +1,6 @@
 ---
 slug: "trm-marx-2"
-id: "TRM-ENG-46970"
+id: "TRM-ENG-61499"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Marx, 2"

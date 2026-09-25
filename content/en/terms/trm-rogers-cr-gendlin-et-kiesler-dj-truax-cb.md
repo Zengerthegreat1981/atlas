@@ -1,6 +1,6 @@
 ---
 slug: "trm-rogers-cr-gendlin-et-kiesler-dj-truax-cb"
-id: "TRM-ENG-42149"
+id: "TRM-ENG-56678"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rogers CR, Gendlin ET, Kiesler DJ, Truax CB"

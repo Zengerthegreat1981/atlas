@@ -1,6 +1,6 @@
 ---
 slug: "trm-machover-k"
-id: "TRM-ENG-41544"
+id: "TRM-ENG-56073"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Machover K"

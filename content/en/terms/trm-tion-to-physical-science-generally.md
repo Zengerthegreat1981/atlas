@@ -1,6 +1,6 @@
 ---
 slug: "trm-tion-to-physical-science-generally"
-id: "TRM-ENG-38366"
+id: "TRM-ENG-52895"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tion to physical science generally"

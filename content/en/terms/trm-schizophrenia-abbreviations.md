@@ -1,6 +1,6 @@
 ---
 slug: "trm-schizophrenia-abbreviations"
-id: "TRM-ENG-35027"
+id: "TRM-ENG-64085"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "schizophrenia. Abbreviations"

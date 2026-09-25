@@ -1,6 +1,6 @@
 ---
 slug: "trm-eeoc-legislation-and-3"
-id: "TRM-ENG-37996"
+id: "TRM-ENG-67054"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "EEOC legislation and, 3"

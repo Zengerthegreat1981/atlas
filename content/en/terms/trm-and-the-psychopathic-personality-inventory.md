@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-the-psychopathic-personality-inventory"
-id: "TRM-ENG-43616"
+id: "TRM-ENG-58145"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and the Psychopathic Personality Inventory"

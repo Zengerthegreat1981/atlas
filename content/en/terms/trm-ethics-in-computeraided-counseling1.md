@@ -1,6 +1,6 @@
 ---
 slug: "trm-ethics-in-computeraided-counseling1"
-id: "TRM-ENG-38037"
+id: "TRM-ENG-67095"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ethics in computer-aided counseling,1"

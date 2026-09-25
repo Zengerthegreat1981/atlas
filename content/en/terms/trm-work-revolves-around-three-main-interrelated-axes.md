@@ -1,6 +1,6 @@
 ---
 slug: "trm-work-revolves-around-three-main-interrelated-axes"
-id: "TRM-ENG-49058"
+id: "TRM-ENG-63587"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "work revolves around three main interrelated axes"

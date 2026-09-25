@@ -1,6 +1,6 @@
 ---
 slug: "trm-various-strains-of-ancestry-have-been-cited"
-id: "TRM-ENG-36036"
+id: "TRM-ENG-65094"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Various strains of ancestry have been cited"

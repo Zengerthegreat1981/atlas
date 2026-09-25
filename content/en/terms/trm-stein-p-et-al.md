@@ -1,6 +1,6 @@
 ---
 slug: "trm-stein-p-et-al"
-id: "TRM-ENG-48609"
+id: "TRM-ENG-63138"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stein P, et al"

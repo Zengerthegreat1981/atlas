@@ -1,6 +1,6 @@
 ---
 slug: "trm-disorder-washington-dc"
-id: "TRM-ENG-42777"
+id: "TRM-ENG-57306"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disorder. Washington, DC"

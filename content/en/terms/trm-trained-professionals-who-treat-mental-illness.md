@@ -1,6 +1,6 @@
 ---
 slug: "trm-trained-professionals-who-treat-mental-illness"
-id: "TRM-ENG-37223"
+id: "TRM-ENG-66281"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "trained professionals who treat mental illness"

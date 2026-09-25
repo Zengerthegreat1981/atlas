@@ -1,6 +1,6 @@
 ---
 slug: "trm-orgonomy-new-york-ny"
-id: "TRM-ENG-51667"
+id: "TRM-ENG-66196"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "orgonomy. New York, NY"

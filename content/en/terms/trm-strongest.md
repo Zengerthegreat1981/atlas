@@ -1,6 +1,6 @@
 ---
 slug: "trm-strongest"
-id: "TRM-ENG-43190"
+id: "TRM-ENG-57719"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "strongest"

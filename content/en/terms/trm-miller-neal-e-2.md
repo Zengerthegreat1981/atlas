@@ -1,6 +1,6 @@
 ---
 slug: "trm-miller-neal-e-2"
-id: "TRM-ENG-38427"
+id: "TRM-ENG-52956"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Miller, Neal E., 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-frankjd1989nonspecificaspectsoftreatment"
-id: "TRM-ENG-46517"
+id: "TRM-ENG-61046"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Frank,J.D.(1989).Non-specificaspectsoftreatment"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-bloom-b-s-hastings-j-t-madaus-g-f-1971-hand-ican-schools"
-id: "TRM-ENG-34638"
+id: "TRM-ENG-63696"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bloom, B. S., Hastings, J. T., & Madaus, G. F. (1971). Hand- ican schools"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-665-reich-w"
-id: "TRM-ENG-39294"
+id: "TRM-ENG-53823"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "665. Reich W"

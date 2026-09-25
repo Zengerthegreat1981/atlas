@@ -1,6 +1,6 @@
 ---
 slug: "trm-fromm-e-1955-t-he-sane-society-new-york-ny"
-id: "TRM-ENG-50444"
+id: "TRM-ENG-64973"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fromm, E. (1955). T he sane society. New York, NY"

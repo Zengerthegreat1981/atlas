@@ -1,6 +1,6 @@
 ---
 slug: "trm-children-or-adolescents-and-1"
-id: "TRM-ENG-39490"
+id: "TRM-ENG-54019"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "children or adolescents and, 1"

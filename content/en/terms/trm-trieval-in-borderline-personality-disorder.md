@@ -1,6 +1,6 @@
 ---
 slug: "trm-trieval-in-borderline-personality-disorder"
-id: "TRM-ENG-43390"
+id: "TRM-ENG-57919"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "trieval in borderline personality disorder"

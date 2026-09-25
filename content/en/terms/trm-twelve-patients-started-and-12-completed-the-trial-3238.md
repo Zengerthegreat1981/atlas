@@ -1,6 +1,6 @@
 ---
 slug: "trm-twelve-patients-started-and-12-completed-the-trial-3238"
-id: "TRM-ENG-42564"
+id: "TRM-ENG-57093"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Twelve patients started and 12 completed the trial. 32–38."

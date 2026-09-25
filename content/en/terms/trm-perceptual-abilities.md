@@ -1,6 +1,6 @@
 ---
 slug: "trm-perceptual-abilities"
-id: "TRM-ENG-45396"
+id: "TRM-ENG-59925"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "perceptual abilities"

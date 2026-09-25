@@ -1,6 +1,6 @@
 ---
 slug: "trm-ment-disorders"
-id: "TRM-ENG-36689"
+id: "TRM-ENG-65747"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ment disorders"

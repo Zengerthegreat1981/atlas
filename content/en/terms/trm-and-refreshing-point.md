@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-refreshing-point"
-id: "TRM-ENG-42641"
+id: "TRM-ENG-57170"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and refreshing point"

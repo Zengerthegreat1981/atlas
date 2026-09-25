@@ -1,6 +1,6 @@
 ---
 slug: "trm-109-gelles-rj-cornell-cp"
-id: "TRM-ENG-38563"
+id: "TRM-ENG-53092"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "109. Gelles RJ, Cornell CP"

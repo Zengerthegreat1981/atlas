@@ -1,6 +1,6 @@
 ---
 slug: "trm-tion-of-this-and-subsequent-studies-raised-the-obvious-state"
-id: "TRM-ENG-35407"
+id: "TRM-ENG-64465"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tion of this and subsequent studies raised the obvious state"

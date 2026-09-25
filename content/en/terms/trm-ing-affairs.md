@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-affairs"
-id: "TRM-ENG-43706"
+id: "TRM-ENG-58235"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing affairs"

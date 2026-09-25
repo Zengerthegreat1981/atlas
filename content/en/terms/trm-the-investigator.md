@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-investigator"
-id: "TRM-ENG-48840"
+id: "TRM-ENG-63369"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the investigator"

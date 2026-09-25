@@ -1,6 +1,6 @@
 ---
 slug: "trm-41-brody-eb-brody-n-eds"
-id: "TRM-ENG-38997"
+id: "TRM-ENG-53526"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "41. Brody EB, Brody N (eds)"

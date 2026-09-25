@@ -1,6 +1,6 @@
 ---
 slug: "trm-bychowski-g"
-id: "TRM-ENG-40090"
+id: "TRM-ENG-54619"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bychowski G"

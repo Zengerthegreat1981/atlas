@@ -1,6 +1,6 @@
 ---
 slug: "trm-education-pp-304341-chicago-il"
-id: "TRM-ENG-47917"
+id: "TRM-ENG-62446"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "education (pp. 304–341). Chicago, IL"

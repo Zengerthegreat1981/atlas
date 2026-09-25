@@ -1,6 +1,6 @@
 ---
 slug: "trm-aaron-t-becks-work-and-2"
-id: "TRM-ENG-37529"
+id: "TRM-ENG-66587"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Aaron T. Beck’s work and, 2"

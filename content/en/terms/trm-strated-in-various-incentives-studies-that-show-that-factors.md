@@ -1,6 +1,6 @@
 ---
 slug: "trm-strated-in-various-incentives-studies-that-show-that-factors"
-id: "TRM-ENG-48759"
+id: "TRM-ENG-63288"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "strated in various incentives studies that show that factors"

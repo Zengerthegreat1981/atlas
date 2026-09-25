@@ -1,6 +1,6 @@
 ---
 slug: "trm-bell-ap-weinberg-ms-1978-homosexualities"
-id: "TRM-ENG-35592"
+id: "TRM-ENG-64650"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bell, A.P., & Weinberg, M.S. (1978). Homosexualities"

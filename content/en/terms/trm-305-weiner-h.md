@@ -1,6 +1,6 @@
 ---
 slug: "trm-305-weiner-h"
-id: "TRM-ENG-38862"
+id: "TRM-ENG-53391"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "305. Weiner H"

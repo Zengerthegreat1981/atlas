@@ -1,6 +1,6 @@
 ---
 slug: "trm-kolb-lc-montgomery-j"
-id: "TRM-ENG-41281"
+id: "TRM-ENG-55810"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kolb LC, Montgomery J"

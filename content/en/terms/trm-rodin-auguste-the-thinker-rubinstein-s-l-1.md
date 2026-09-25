@@ -1,6 +1,6 @@
 ---
 slug: "trm-rodin-auguste-the-thinker-rubinstein-s-l-1"
-id: "TRM-ENG-47206"
+id: "TRM-ENG-61735"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rodin, Auguste, “The Thinker,” Rubinstein, S. L., 1"

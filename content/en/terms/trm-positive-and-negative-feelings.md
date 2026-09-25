@@ -1,6 +1,6 @@
 ---
 slug: "trm-positive-and-negative-feelings"
-id: "TRM-ENG-45423"
+id: "TRM-ENG-59952"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "positive and negative feelings"

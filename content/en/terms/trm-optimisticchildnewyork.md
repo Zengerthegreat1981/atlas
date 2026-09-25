@@ -1,6 +1,6 @@
 ---
 slug: "trm-optimisticchildnewyork"
-id: "TRM-ENG-38062"
+id: "TRM-ENG-67120"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "optimisticchild.NewYork"

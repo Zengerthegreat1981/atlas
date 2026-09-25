@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapy-of-personality-disorders-chap-4-new-york"
-id: "TRM-ENG-49763"
+id: "TRM-ENG-64292"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapy of personality disorders (chap. 4). New York"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-marxk1975bthesesonfeuerbachmecwvol5p3london"
-id: "TRM-ENG-37054"
+id: "TRM-ENG-66112"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Marx,K.(1975b).ThesesonFeuerbach,MECW(Vol.5,p.3).London"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-three-dimensions"
-id: "TRM-ENG-37159"
+id: "TRM-ENG-66217"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "three dimensions"

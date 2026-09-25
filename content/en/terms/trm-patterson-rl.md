@@ -1,6 +1,6 @@
 ---
 slug: "trm-patterson-rl"
-id: "TRM-ENG-41939"
+id: "TRM-ENG-56468"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Patterson RL"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-the-general-problem-of-p-honetic-variation"
-id: "TRM-ENG-45356"
+id: "TRM-ENG-59885"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of the general problem of p honetic variation"

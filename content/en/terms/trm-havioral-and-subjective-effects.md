@@ -1,6 +1,6 @@
 ---
 slug: "trm-havioral-and-subjective-effects"
-id: "TRM-ENG-36515"
+id: "TRM-ENG-51044"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "havioral and subjective effects"

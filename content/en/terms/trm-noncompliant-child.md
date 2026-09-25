@@ -1,6 +1,6 @@
 ---
 slug: "trm-noncompliant-child"
-id: "TRM-ENG-40955"
+id: "TRM-ENG-55484"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "noncompliant child"

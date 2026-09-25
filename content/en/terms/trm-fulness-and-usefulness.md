@@ -1,6 +1,6 @@
 ---
 slug: "trm-fulness-and-usefulness"
-id: "TRM-ENG-40264"
+id: "TRM-ENG-54793"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "fulness, and usefulness"

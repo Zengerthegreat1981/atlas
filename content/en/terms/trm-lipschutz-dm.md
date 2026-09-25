@@ -1,6 +1,6 @@
 ---
 slug: "trm-lipschutz-dm"
-id: "TRM-ENG-41484"
+id: "TRM-ENG-56013"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lipschutz DM"

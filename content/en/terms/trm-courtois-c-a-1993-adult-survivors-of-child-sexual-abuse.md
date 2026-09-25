@@ -1,6 +1,6 @@
 ---
 slug: "trm-courtois-c-a-1993-adult-survivors-of-child-sexual-abuse"
-id: "TRM-ENG-37891"
+id: "TRM-ENG-66949"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Courtois, C. A. (1993). Adult survivors of child sexual abuse"

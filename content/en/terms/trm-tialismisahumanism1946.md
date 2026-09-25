@@ -1,6 +1,6 @@
 ---
 slug: "trm-tialismisahumanism1946"
-id: "TRM-ENG-46055"
+id: "TRM-ENG-60584"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tialismIsaHumanism(1946)"

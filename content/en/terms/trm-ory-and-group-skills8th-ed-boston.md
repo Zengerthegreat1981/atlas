@@ -1,6 +1,6 @@
 ---
 slug: "trm-ory-and-group-skills8th-ed-boston"
-id: "TRM-ENG-36822"
+id: "TRM-ENG-65880"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ory and group skills(8th ed.) Boston"

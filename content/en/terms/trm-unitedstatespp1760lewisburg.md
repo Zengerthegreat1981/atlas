@@ -1,6 +1,6 @@
 ---
 slug: "trm-unitedstatespp1760lewisburg"
-id: "TRM-ENG-37389"
+id: "TRM-ENG-51918"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "UnitedStates(pp.17–60).Lewisburg"

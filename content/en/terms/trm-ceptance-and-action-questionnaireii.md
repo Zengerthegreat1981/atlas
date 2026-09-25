@@ -1,6 +1,6 @@
 ---
 slug: "trm-ceptance-and-action-questionnaireii"
-id: "TRM-ENG-48236"
+id: "TRM-ENG-62765"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ceptance and Action Questionnaire–II"

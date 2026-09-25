@@ -1,6 +1,6 @@
 ---
 slug: "trm-adaptive-and-adaptive-personality-minneapolis"
-id: "TRM-ENG-42585"
+id: "TRM-ENG-57114"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "adaptive and Adaptive Personality. Minneapolis"

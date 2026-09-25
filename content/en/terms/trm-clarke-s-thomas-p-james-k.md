@@ -1,6 +1,6 @@
 ---
 slug: "trm-clarke-s-thomas-p-james-k"
-id: "TRM-ENG-47546"
+id: "TRM-ENG-62075"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Clarke S, Thomas P, James K"

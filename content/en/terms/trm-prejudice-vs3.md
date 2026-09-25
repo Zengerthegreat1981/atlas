@@ -1,6 +1,6 @@
 ---
 slug: "trm-prejudice-vs3"
-id: "TRM-ENG-41259"
+id: "TRM-ENG-55788"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "prejudice vs.,3"

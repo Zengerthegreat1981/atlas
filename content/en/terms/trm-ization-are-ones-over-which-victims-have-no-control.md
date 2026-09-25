@@ -1,6 +1,6 @@
 ---
 slug: "trm-ization-are-ones-over-which-victims-have-no-control"
-id: "TRM-ENG-36607"
+id: "TRM-ENG-51136"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ization are ones over which victims have no control"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-you-know-this-movie-plot"
-id: "TRM-ENG-34719"
+id: "TRM-ENG-49248"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "You know this movie plot"

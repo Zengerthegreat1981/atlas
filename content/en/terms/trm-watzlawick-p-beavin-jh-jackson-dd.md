@@ -1,6 +1,6 @@
 ---
 slug: "trm-watzlawick-p-beavin-jh-jackson-dd"
-id: "TRM-ENG-42729"
+id: "TRM-ENG-57258"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Watzlawick P, Beavin JH, Jackson DD"

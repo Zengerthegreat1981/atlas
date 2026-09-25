@@ -1,6 +1,6 @@
 ---
 slug: "trm-green-rj"
-id: "TRM-ENG-40801"
+id: "TRM-ENG-55330"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Green RJ"

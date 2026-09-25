@@ -1,6 +1,6 @@
 ---
 slug: "trm-response-options"
-id: "TRM-ENG-41522"
+id: "TRM-ENG-56051"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "response options"

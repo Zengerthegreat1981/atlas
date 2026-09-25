@@ -1,6 +1,6 @@
 ---
 slug: "trm-hyperlexic"
-id: "TRM-ENG-52220"
+id: "TRM-ENG-66749"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hyperlexic"

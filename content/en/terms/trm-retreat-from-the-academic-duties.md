@@ -1,6 +1,6 @@
 ---
 slug: "trm-retreat-from-the-academic-duties"
-id: "TRM-ENG-48668"
+id: "TRM-ENG-63197"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "retreat from the academic duties"

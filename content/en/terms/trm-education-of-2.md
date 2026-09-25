@@ -1,6 +1,6 @@
 ---
 slug: "trm-education-of-2"
-id: "TRM-ENG-40004"
+id: "TRM-ENG-54533"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "education of, 2"

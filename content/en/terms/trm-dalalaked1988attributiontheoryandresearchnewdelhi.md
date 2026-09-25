@@ -1,6 +1,6 @@
 ---
 slug: "trm-dalalaked1988attributiontheoryandresearchnewdelhi"
-id: "TRM-ENG-36719"
+id: "TRM-ENG-65777"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dalal,A.K.(Ed.).(1988).Attributiontheoryandresearch.NewDelhi"

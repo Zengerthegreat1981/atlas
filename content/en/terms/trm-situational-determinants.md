@@ -1,6 +1,6 @@
 ---
 slug: "trm-situational-determinants"
-id: "TRM-ENG-44818"
+id: "TRM-ENG-59347"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, “Situational Determinants"

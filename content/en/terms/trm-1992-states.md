@@ -1,6 +1,6 @@
 ---
 slug: "trm-1992-states"
-id: "TRM-ENG-46307"
+id: "TRM-ENG-60836"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1992) states"

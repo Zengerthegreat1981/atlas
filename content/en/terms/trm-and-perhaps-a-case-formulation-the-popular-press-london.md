@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-perhaps-a-case-formulation-the-popular-press-london"
-id: "TRM-ENG-39185"
+id: "TRM-ENG-53714"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and perhaps a case formulation. The popular press London"

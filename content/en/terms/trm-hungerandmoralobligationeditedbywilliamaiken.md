@@ -1,6 +1,6 @@
 ---
 slug: "trm-hungerandmoralobligationeditedbywilliamaiken"
-id: "TRM-ENG-45718"
+id: "TRM-ENG-60247"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "HungerandMoralObligation,editedbyWilliamAiken"

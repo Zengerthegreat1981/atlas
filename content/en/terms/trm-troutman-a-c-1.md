@@ -1,6 +1,6 @@
 ---
 slug: "trm-troutman-a-c-1"
-id: "TRM-ENG-47424"
+id: "TRM-ENG-61953"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Troutman, A. C., 1"

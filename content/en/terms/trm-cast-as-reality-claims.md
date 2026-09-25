@@ -1,6 +1,6 @@
 ---
 slug: "trm-cast-as-reality-claims"
-id: "TRM-ENG-44931"
+id: "TRM-ENG-59460"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cast as reality claims"

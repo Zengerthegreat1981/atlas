@@ -1,6 +1,6 @@
 ---
 slug: "trm-contingency-management-2"
-id: "TRM-ENG-39691"
+id: "TRM-ENG-54220"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "contingency management, 2"

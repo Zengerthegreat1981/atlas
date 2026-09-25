@@ -1,6 +1,6 @@
 ---
 slug: "trm-leaving-with-questionnaire-results-being-more-negative-to-of-the-following"
-id: "TRM-ENG-36626"
+id: "TRM-ENG-65684"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "leaving, with questionnaire results being more negative to- of the following"

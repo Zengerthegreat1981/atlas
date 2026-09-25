@@ -1,6 +1,6 @@
 ---
 slug: "trm-73-mclaughlin-ml-ed"
-id: "TRM-ENG-39376"
+id: "TRM-ENG-53905"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "73. McLaughlin ML (ed)"

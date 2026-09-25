@@ -1,6 +1,6 @@
 ---
 slug: "trm-attainments-of-adolescence"
-id: "TRM-ENG-44909"
+id: "TRM-ENG-59438"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "attainments of adolescence"

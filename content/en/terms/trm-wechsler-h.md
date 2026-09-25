@@ -1,6 +1,6 @@
 ---
 slug: "trm-wechsler-h"
-id: "TRM-ENG-42739"
+id: "TRM-ENG-57268"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wechsler H"

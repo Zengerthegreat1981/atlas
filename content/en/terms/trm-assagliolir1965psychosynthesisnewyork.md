@@ -1,6 +1,6 @@
 ---
 slug: "trm-assagliolir1965psychosynthesisnewyork"
-id: "TRM-ENG-48893"
+id: "TRM-ENG-63422"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Assaglioli,R.(1965).Psychosynthesis.NewYork"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavioral-sciences"
-id: "TRM-ENG-42979"
+id: "TRM-ENG-57508"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behavioral sciences"

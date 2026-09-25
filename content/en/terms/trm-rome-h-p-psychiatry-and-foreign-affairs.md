@@ -1,6 +1,6 @@
 ---
 slug: "trm-rome-h-p-psychiatry-and-foreign-affairs"
-id: "TRM-ENG-44603"
+id: "TRM-ENG-59132"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rome, H. P., “Psychiatry and Foreign Affairs"

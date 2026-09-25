@@ -1,6 +1,6 @@
 ---
 slug: "trm-paradox-new-york-ny"
-id: "TRM-ENG-51679"
+id: "TRM-ENG-66208"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "paradox. New York, NY"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-jwsperrev1993eyemovementdesensitiza-disorders"
-id: "TRM-ENG-49039"
+id: "TRM-ENG-63568"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "J.W.,&Sperr,E.V.(1993).Eyemovementdesensitiza- disorders"

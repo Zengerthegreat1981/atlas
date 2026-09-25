@@ -1,6 +1,6 @@
 ---
 slug: "trm-scores"
-id: "TRM-ENG-45597"
+id: "TRM-ENG-60126"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "scores"

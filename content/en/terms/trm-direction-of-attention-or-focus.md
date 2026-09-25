@@ -1,6 +1,6 @@
 ---
 slug: "trm-direction-of-attention-or-focus"
-id: "TRM-ENG-39941"
+id: "TRM-ENG-54470"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "direction of attention or focus"

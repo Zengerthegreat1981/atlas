@@ -1,6 +1,6 @@
 ---
 slug: "trm-reyna-lj"
-id: "TRM-ENG-42100"
+id: "TRM-ENG-56629"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Reyna LJ"

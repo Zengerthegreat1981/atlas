@@ -1,6 +1,6 @@
 ---
 slug: "trm-262-maxmen-js-tucker-gj-lebow-m"
-id: "TRM-ENG-38793"
+id: "TRM-ENG-53322"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "262. Maxmen JS, Tucker GJ, LeBow M"

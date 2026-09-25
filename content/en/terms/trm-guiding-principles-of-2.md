@@ -1,6 +1,6 @@
 ---
 slug: "trm-guiding-principles-of-2"
-id: "TRM-ENG-40342"
+id: "TRM-ENG-54871"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "guiding principles of, 2"

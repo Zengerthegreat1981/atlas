@@ -1,6 +1,6 @@
 ---
 slug: "trm-prevalence-1"
-id: "TRM-ENG-45437"
+id: "TRM-ENG-59966"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "prevalence, 1"

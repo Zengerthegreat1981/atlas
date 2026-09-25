@@ -1,6 +1,6 @@
 ---
 slug: "trm-debell-d"
-id: "TRM-ENG-40314"
+id: "TRM-ENG-54843"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "DeBell D"

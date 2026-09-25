@@ -1,6 +1,6 @@
 ---
 slug: "trm-partments"
-id: "TRM-ENG-43790"
+id: "TRM-ENG-58319"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "partments"

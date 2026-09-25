@@ -1,6 +1,6 @@
 ---
 slug: "trm-from-a-general-model-of-personality-functioning"
-id: "TRM-ENG-43689"
+id: "TRM-ENG-58218"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "from a general model of personality functioning"

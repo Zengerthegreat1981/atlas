@@ -1,6 +1,6 @@
 ---
 slug: "trm-nondirectional-outcomemotivated-thinking-2"
-id: "TRM-ENG-44653"
+id: "TRM-ENG-59182"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nondirectional outcome-motivated thinking, 2"

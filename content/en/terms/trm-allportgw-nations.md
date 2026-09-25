@@ -1,6 +1,6 @@
 ---
 slug: "trm-allportgw-nations"
-id: "TRM-ENG-38482"
+id: "TRM-ENG-53011"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "▶Allport,G.W. Nations"

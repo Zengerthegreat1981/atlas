@@ -1,6 +1,6 @@
 ---
 slug: "trm-character-analysis-new-york-ny"
-id: "TRM-ENG-50229"
+id: "TRM-ENG-64758"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Character analysis. New York, NY"

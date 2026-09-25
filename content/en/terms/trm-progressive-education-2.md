@@ -1,6 +1,6 @@
 ---
 slug: "trm-progressive-education-2"
-id: "TRM-ENG-48590"
+id: "TRM-ENG-63119"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "progressive education, 2"

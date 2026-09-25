@@ -1,6 +1,6 @@
 ---
 slug: "trm-kroger-ws-fezler-wd"
-id: "TRM-ENG-41319"
+id: "TRM-ENG-55848"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kroger WS, Fezler WD"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-mental-retardation-definition-controversy-and-1"
-id: "TRM-ENG-40833"
+id: "TRM-ENG-55362"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mental retardation definition controversy and, 1"

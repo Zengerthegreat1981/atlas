@@ -1,6 +1,6 @@
 ---
 slug: "trm-opment-iottlieb-r997-for-instance-theories-that-across-levels"
-id: "TRM-ENG-35200"
+id: "TRM-ENG-64258"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "opment ((iottlieb, r997). For instance, theories that across levels"

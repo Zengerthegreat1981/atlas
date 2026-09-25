@@ -1,6 +1,6 @@
 ---
 slug: "trm-brown-v-board-of-education-of-topekakansas3"
-id: "TRM-ENG-37726"
+id: "TRM-ENG-52255"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brown v. Board of Education of Topeka,Kansas,3"

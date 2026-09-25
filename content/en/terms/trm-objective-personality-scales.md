@@ -1,6 +1,6 @@
 ---
 slug: "trm-objective-personality-scales"
-id: "TRM-ENG-35872"
+id: "TRM-ENG-64930"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Objective Personality Scales"

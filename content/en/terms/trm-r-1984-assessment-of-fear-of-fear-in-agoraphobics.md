@@ -1,6 +1,6 @@
 ---
 slug: "trm-r-1984-assessment-of-fear-of-fear-in-agoraphobics"
-id: "TRM-ENG-49131"
+id: "TRM-ENG-63660"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "R. (1984). Assessment of fear of fear in agoraphobics"

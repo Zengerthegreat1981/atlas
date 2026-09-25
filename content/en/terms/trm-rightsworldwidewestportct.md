@@ -1,6 +1,6 @@
 ---
 slug: "trm-rightsworldwidewestportct"
-id: "TRM-ENG-38228"
+id: "TRM-ENG-52757"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rightsworldwide.Westport,CT"

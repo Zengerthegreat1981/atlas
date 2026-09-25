@@ -1,6 +1,6 @@
 ---
 slug: "trm-increases-brain-size"
-id: "TRM-ENG-34883"
+id: "TRM-ENG-63941"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "increases brain size"

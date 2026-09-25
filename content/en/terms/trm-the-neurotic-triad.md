@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-neurotic-triad"
-id: "TRM-ENG-37120"
+id: "TRM-ENG-66178"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the neurotic triad"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ethics-ethical-codes-defined-and-1"
-id: "TRM-ENG-40098"
+id: "TRM-ENG-54627"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ethics, ethical codes defined and, 1"

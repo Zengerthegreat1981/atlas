@@ -1,6 +1,6 @@
 ---
 slug: "trm-healthbuckinghamuk"
-id: "TRM-ENG-47017"
+id: "TRM-ENG-61546"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "health.Buckingham,UK"

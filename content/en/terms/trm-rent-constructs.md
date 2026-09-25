@@ -1,6 +1,6 @@
 ---
 slug: "trm-rent-constructs"
-id: "TRM-ENG-43175"
+id: "TRM-ENG-57704"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rent constructs"

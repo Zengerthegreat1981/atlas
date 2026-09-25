@@ -1,6 +1,6 @@
 ---
 slug: "trm-from-bodily-sensations-of-emotions-b-ddf"
-id: "TRM-ENG-43690"
+id: "TRM-ENG-58219"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "from bodily sensations of emotions, (b) DDF"

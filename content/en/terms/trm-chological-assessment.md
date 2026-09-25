@@ -1,6 +1,6 @@
 ---
 slug: "trm-chological-assessment"
-id: "TRM-ENG-39497"
+id: "TRM-ENG-54026"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chological assessment"

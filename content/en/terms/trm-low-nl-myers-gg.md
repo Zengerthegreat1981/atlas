@@ -1,6 +1,6 @@
 ---
 slug: "trm-low-nl-myers-gg"
-id: "TRM-ENG-41509"
+id: "TRM-ENG-56038"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Low NL, Myers GG"

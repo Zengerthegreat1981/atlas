@@ -1,6 +1,6 @@
 ---
 slug: "trm-korthagen-f-a-j-2001-teacher-education"
-id: "TRM-ENG-46893"
+id: "TRM-ENG-61422"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Korthagen, F. A. J. (2001). Teacher education"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-795-seligman-m"
-id: "TRM-ENG-39447"
+id: "TRM-ENG-53976"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "795. Seligman M"

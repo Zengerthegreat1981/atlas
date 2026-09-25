@@ -1,6 +1,6 @@
 ---
 slug: "trm-science-must-include"
-id: "TRM-ENG-48683"
+id: "TRM-ENG-63212"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "science must include"

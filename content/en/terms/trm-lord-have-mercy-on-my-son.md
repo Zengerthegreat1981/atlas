@@ -1,6 +1,6 @@
 ---
 slug: "trm-lord-have-mercy-on-my-son"
-id: "TRM-ENG-41505"
+id: "TRM-ENG-56034"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lord have mercy on my son"

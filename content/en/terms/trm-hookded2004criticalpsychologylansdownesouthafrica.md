@@ -1,6 +1,6 @@
 ---
 slug: "trm-hookded2004criticalpsychologylansdownesouthafrica"
-id: "TRM-ENG-36918"
+id: "TRM-ENG-65976"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hook,D.(Ed.).(2004).Criticalpsychology.Lansdowne,SouthAfrica"

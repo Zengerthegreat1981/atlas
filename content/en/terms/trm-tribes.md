@@ -1,6 +1,6 @@
 ---
 slug: "trm-tribes"
-id: "TRM-ENG-49084"
+id: "TRM-ENG-63613"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“tribes”"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-determining-the-magnitude-of-an-effect"
-id: "TRM-ENG-35363"
+id: "TRM-ENG-49892"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Determining the Magnitude of an Effect"

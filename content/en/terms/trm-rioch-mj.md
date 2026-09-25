@@ -1,6 +1,6 @@
 ---
 slug: "trm-rioch-mj"
-id: "TRM-ENG-42124"
+id: "TRM-ENG-56653"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rioch MJ"

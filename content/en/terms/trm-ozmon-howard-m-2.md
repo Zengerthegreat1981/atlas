@@ -1,6 +1,6 @@
 ---
 slug: "trm-ozmon-howard-m-2"
-id: "TRM-ENG-47092"
+id: "TRM-ENG-61621"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ozmon, Howard M., 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-schindler-w"
-id: "TRM-ENG-42270"
+id: "TRM-ENG-56799"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schindler W"

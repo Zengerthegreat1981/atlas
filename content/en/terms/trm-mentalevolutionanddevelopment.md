@@ -1,6 +1,6 @@
 ---
 slug: "trm-mentalevolutionanddevelopment"
-id: "TRM-ENG-38478"
+id: "TRM-ENG-53007"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“Mentalevolutionanddevelopment"

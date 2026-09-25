@@ -1,6 +1,6 @@
 ---
 slug: "trm-following-manner"
-id: "TRM-ENG-45038"
+id: "TRM-ENG-59567"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "following manner"

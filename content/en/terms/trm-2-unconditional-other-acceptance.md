@@ -1,6 +1,6 @@
 ---
 slug: "trm-2-unconditional-other-acceptance"
-id: "TRM-ENG-50017"
+id: "TRM-ENG-64546"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "2. Unconditional other acceptance"

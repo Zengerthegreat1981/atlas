@@ -1,6 +1,6 @@
 ---
 slug: "trm-1-economic-situations"
-id: "TRM-ENG-38539"
+id: "TRM-ENG-53068"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1. Economic situations"

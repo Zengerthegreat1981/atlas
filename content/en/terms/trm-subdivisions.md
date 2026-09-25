@@ -1,6 +1,6 @@
 ---
 slug: "trm-subdivisions"
-id: "TRM-ENG-35054"
+id: "TRM-ENG-64112"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "subdivisions"

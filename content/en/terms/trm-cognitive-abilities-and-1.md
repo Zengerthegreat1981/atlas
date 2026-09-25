@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognitive-abilities-and-1"
-id: "TRM-ENG-39553"
+id: "TRM-ENG-54082"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cognitive abilities and, 1"

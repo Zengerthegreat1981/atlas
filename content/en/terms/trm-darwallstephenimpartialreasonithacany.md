@@ -1,6 +1,6 @@
 ---
 slug: "trm-darwallstephenimpartialreasonithacany"
-id: "TRM-ENG-45677"
+id: "TRM-ENG-60206"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Darwall,Stephen.ImpartialReason.Ithaca,NY"

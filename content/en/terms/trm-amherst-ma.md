@@ -1,6 +1,6 @@
 ---
 slug: "trm-amherst-ma"
-id: "TRM-ENG-50102"
+id: "TRM-ENG-64631"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Amherst, MA"

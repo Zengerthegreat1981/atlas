@@ -1,6 +1,6 @@
 ---
 slug: "trm-recycling-factor-in-protein-biosynthesis"
-id: "TRM-ENG-36929"
+id: "TRM-ENG-65987"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "recycling factor in protein biosynthesis"

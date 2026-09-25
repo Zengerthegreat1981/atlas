@@ -1,6 +1,6 @@
 ---
 slug: "trm-salient-most-prominent-trait"
-id: "TRM-ENG-43825"
+id: "TRM-ENG-58354"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "salient, most prominent trait"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-many-terms"
-id: "TRM-ENG-34928"
+id: "TRM-ENG-63986"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "many terms"

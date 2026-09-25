@@ -1,6 +1,6 @@
 ---
 slug: "trm-procedures-for-the-behavioral-sciences-new-york"
-id: "TRM-ENG-43153"
+id: "TRM-ENG-57682"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "procedures for the behavioral sciences. New York"

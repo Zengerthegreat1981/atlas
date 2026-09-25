@@ -1,6 +1,6 @@
 ---
 slug: "trm-wilkss-lambda-symbol"
-id: "TRM-ENG-45535"
+id: "TRM-ENG-60064"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wilks's lambda (symbol"

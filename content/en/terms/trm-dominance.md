@@ -1,6 +1,6 @@
 ---
 slug: "trm-dominance"
-id: "TRM-ENG-37702"
+id: "TRM-ENG-66760"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dominance"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-issuesandtheories2ndedpp339westport"
-id: "TRM-ENG-37894"
+id: "TRM-ENG-66952"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "issuesandtheories(2nded.,pp.3–39).Westport"

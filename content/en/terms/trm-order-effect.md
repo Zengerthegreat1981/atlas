@@ -1,6 +1,6 @@
 ---
 slug: "trm-order-effect"
-id: "TRM-ENG-52316"
+id: "TRM-ENG-66845"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Order effect"

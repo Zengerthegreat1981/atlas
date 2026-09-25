@@ -1,6 +1,6 @@
 ---
 slug: "trm-than-oldfashioned-but-readily-available-methods"
-id: "TRM-ENG-35071"
+id: "TRM-ENG-49600"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "than old-fashioned but readily available methods"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-445-szymanski-ls-tanguay-pe-eds"
-id: "TRM-ENG-39035"
+id: "TRM-ENG-53564"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "445. Szymanski LS, Tanguay PE (eds)"

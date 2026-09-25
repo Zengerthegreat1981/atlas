@@ -1,6 +1,6 @@
 ---
 slug: "trm-windholz-e"
-id: "TRM-ENG-42823"
+id: "TRM-ENG-57352"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Windholz E"

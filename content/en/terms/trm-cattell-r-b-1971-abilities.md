@@ -1,6 +1,6 @@
 ---
 slug: "trm-cattell-r-b-1971-abilities"
-id: "TRM-ENG-34596"
+id: "TRM-ENG-63654"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cattell, R. B. (1971). Abilities"

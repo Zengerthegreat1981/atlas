@@ -1,6 +1,6 @@
 ---
 slug: "trm-resented-in-every-powerful-and-highly-paid-profession"
-id: "TRM-ENG-41513"
+id: "TRM-ENG-56042"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "resented in every powerful and highly paid profession"

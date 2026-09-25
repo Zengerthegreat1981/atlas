@@ -1,6 +1,6 @@
 ---
 slug: "trm-2005-toward-an-understanding-of-jewish-identity"
-id: "TRM-ENG-37358"
+id: "TRM-ENG-66416"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2005). Toward an understanding of Jewish identity"

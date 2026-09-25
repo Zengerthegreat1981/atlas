@@ -1,6 +1,6 @@
 ---
 slug: "trm-concept-and-1"
-id: "TRM-ENG-39630"
+id: "TRM-ENG-54159"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "concept and, 1"

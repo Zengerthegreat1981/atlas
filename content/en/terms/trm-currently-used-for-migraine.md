@@ -1,6 +1,6 @@
 ---
 slug: "trm-currently-used-for-migraine"
-id: "TRM-ENG-46924"
+id: "TRM-ENG-61453"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "currently used for migraine"

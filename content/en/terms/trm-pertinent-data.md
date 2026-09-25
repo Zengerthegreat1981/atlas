@@ -1,6 +1,6 @@
 ---
 slug: "trm-pertinent-data"
-id: "TRM-ENG-43140"
+id: "TRM-ENG-57669"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pertinent data"

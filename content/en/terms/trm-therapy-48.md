@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapy-48"
-id: "TRM-ENG-48649"
+id: "TRM-ENG-63178"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapy 48"

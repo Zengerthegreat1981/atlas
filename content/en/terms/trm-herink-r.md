@@ -1,6 +1,6 @@
 ---
 slug: "trm-herink-r"
-id: "TRM-ENG-40974"
+id: "TRM-ENG-55503"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Herink R"

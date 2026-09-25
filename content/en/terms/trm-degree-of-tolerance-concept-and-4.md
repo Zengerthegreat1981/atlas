@@ -1,6 +1,6 @@
 ---
 slug: "trm-degree-of-tolerance-concept-and-4"
-id: "TRM-ENG-39882"
+id: "TRM-ENG-54411"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "degree of tolerance concept and, 4"

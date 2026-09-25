@@ -1,6 +1,6 @@
 ---
 slug: "trm-kunstler-p"
-id: "TRM-ENG-41330"
+id: "TRM-ENG-55859"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kunstler P"

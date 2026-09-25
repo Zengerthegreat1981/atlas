@@ -1,6 +1,6 @@
 ---
 slug: "trm-authorization-may-a-therapist-disclose-the-contents-of-those-gans"
-id: "TRM-ENG-36181"
+id: "TRM-ENG-65239"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "authorization may a therapist disclose the contents of those gans"

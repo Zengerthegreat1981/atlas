@@ -1,6 +1,6 @@
 ---
 slug: "trm-relevant-outcomes-research"
-id: "TRM-ENG-47252"
+id: "TRM-ENG-61781"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "relevant outcomes research"

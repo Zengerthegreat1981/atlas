@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-evidence-supporting-the-heritability-of-general-agents"
-id: "TRM-ENG-45575"
+id: "TRM-ENG-60104"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the evidence supporting the heritability of general agents"

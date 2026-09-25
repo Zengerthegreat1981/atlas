@@ -1,6 +1,6 @@
 ---
 slug: "trm-plato-1"
-id: "TRM-ENG-44688"
+id: "TRM-ENG-59217"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Plato, 1"

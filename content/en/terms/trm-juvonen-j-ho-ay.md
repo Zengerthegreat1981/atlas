@@ -1,6 +1,6 @@
 ---
 slug: "trm-juvonen-j-ho-ay"
-id: "TRM-ENG-47770"
+id: "TRM-ENG-62299"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Juvonen J, Ho AY"

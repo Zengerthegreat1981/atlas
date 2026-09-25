@@ -1,6 +1,6 @@
 ---
 slug: "trm-lowincidence-disabilities-and-1"
-id: "TRM-ENG-40750"
+id: "TRM-ENG-55279"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "low-incidence disabilities and, 1"

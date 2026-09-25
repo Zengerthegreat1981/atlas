@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychological-bulletin-103-367373-doi"
-id: "TRM-ENG-35495"
+id: "TRM-ENG-64553"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychological Bulletin, 103, 367–373. doi"

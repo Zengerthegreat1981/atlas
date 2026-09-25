@@ -1,6 +1,6 @@
 ---
 slug: "trm-logical-association-1993"
-id: "TRM-ENG-46141"
+id: "TRM-ENG-60670"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "logical Association, 1993."

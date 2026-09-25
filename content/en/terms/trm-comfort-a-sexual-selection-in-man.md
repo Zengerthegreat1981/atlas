@@ -1,6 +1,6 @@
 ---
 slug: "trm-comfort-a-sexual-selection-in-man"
-id: "TRM-ENG-44338"
+id: "TRM-ENG-58867"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Comfort, A., “Sexual Selection in Man"

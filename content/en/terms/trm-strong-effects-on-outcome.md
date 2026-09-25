@@ -1,6 +1,6 @@
 ---
 slug: "trm-strong-effects-on-outcome"
-id: "TRM-ENG-47309"
+id: "TRM-ENG-61838"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "strong effects on outcome"

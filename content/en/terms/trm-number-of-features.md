@@ -1,6 +1,6 @@
 ---
 slug: "trm-number-of-features"
-id: "TRM-ENG-45173"
+id: "TRM-ENG-59702"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "number of features"

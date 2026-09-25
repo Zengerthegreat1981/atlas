@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-latent-structure-and-base-rate-of-schizotypy"
-id: "TRM-ENG-43867"
+id: "TRM-ENG-58396"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the latent structure and base rate of schizotypy"

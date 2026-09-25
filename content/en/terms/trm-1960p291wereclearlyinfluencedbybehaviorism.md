@@ -1,6 +1,6 @@
 ---
 slug: "trm-1960p291wereclearlyinfluencedbybehaviorism"
-id: "TRM-ENG-36392"
+id: "TRM-ENG-50921"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1960,p.291)wereclearlyinfluencedbybehaviorism"

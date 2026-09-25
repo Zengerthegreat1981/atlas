@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-world-this-is-the-etic-goal"
-id: "TRM-ENG-37134"
+id: "TRM-ENG-51663"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the world. This is the etic goal"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-joshi-v-2005-stress"
-id: "TRM-ENG-50612"
+id: "TRM-ENG-65141"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Joshi, V. (2005). Stress"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-gendro-jm"
-id: "TRM-ENG-40684"
+id: "TRM-ENG-55213"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gendro JM"

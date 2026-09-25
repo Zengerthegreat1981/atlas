@@ -1,6 +1,6 @@
 ---
 slug: "trm-being-associated-with-a-hypothetical-population-of-scores"
-id: "TRM-ENG-36202"
+id: "TRM-ENG-50731"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "being associated with a hypothetical population of scores"

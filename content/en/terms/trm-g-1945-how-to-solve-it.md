@@ -1,6 +1,6 @@
 ---
 slug: "trm-g-1945-how-to-solve-it"
-id: "TRM-ENG-52507"
+id: "TRM-ENG-67036"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "G. (1945). How to solve it"

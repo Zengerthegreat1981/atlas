@@ -1,6 +1,6 @@
 ---
 slug: "trm-be-divided-into-three-groups"
-id: "TRM-ENG-45853"
+id: "TRM-ENG-60382"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "be divided into three groups"

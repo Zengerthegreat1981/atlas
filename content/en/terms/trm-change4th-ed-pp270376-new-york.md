@@ -1,6 +1,6 @@
 ---
 slug: "trm-change4th-ed-pp270376-new-york"
-id: "TRM-ENG-36265"
+id: "TRM-ENG-50794"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "change(4th ed., pp.270–376). New York"

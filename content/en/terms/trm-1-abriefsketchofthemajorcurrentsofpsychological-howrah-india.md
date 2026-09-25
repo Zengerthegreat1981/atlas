@@ -1,6 +1,6 @@
 ---
 slug: "trm-1-abriefsketchofthemajorcurrentsofpsychological-howrah-india"
-id: "TRM-ENG-36481"
+id: "TRM-ENG-51010"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1. Abriefsketchofthemajorcurrentsofpsychological Howrah, India"

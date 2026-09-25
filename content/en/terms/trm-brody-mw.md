@@ -1,6 +1,6 @@
 ---
 slug: "trm-brody-mw"
-id: "TRM-ENG-40041"
+id: "TRM-ENG-54570"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brody MW"

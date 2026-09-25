@@ -1,6 +1,6 @@
 ---
 slug: "trm-references-pathology"
-id: "TRM-ENG-43818"
+id: "TRM-ENG-58347"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "references pathology"

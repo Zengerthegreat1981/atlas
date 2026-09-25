@@ -1,6 +1,6 @@
 ---
 slug: "trm-2016-by-contrast-the-ppi"
-id: "TRM-ENG-42281"
+id: "TRM-ENG-56810"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "2016). By contrast, the PPI"

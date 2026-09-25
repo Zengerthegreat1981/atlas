@@ -1,6 +1,6 @@
 ---
 slug: "trm-subliminal-selfhelp-tapes"
-id: "TRM-ENG-37038"
+id: "TRM-ENG-51567"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "subliminal self-help tapes"

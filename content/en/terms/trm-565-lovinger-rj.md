@@ -1,6 +1,6 @@
 ---
 slug: "trm-565-lovinger-rj"
-id: "TRM-ENG-39176"
+id: "TRM-ENG-53705"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "565. Lovinger RJ"

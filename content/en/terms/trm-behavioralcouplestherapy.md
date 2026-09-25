@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavioralcouplestherapy"
-id: "TRM-ENG-49305"
+id: "TRM-ENG-63834"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behavioralcouplestherapy"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-appel-ke-ormsby-r-myers-jm"
-id: "TRM-ENG-39711"
+id: "TRM-ENG-54240"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Appel KE, Ormsby R, Myers JM"

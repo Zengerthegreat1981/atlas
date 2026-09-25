@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychotherapy-relationship-work-of-2"
-id: "TRM-ENG-41368"
+id: "TRM-ENG-55897"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychotherapy relationship work of, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-crawford-tn-cohen-p-first-mb-et-al"
-id: "TRM-ENG-47586"
+id: "TRM-ENG-62115"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Crawford TN, Cohen P, First MB, et al"

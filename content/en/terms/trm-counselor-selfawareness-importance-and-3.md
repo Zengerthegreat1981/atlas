@@ -1,6 +1,6 @@
 ---
 slug: "trm-counselor-selfawareness-importance-and-3"
-id: "TRM-ENG-39765"
+id: "TRM-ENG-54294"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "counselor self-awareness importance and, 3"

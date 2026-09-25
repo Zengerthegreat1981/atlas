@@ -1,6 +1,6 @@
 ---
 slug: "trm-redl-f"
-id: "TRM-ENG-42074"
+id: "TRM-ENG-56603"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Redl F"

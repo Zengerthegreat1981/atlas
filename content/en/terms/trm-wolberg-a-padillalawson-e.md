@@ -1,6 +1,6 @@
 ---
 slug: "trm-wolberg-a-padillalawson-e"
-id: "TRM-ENG-42841"
+id: "TRM-ENG-57370"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wolberg A, Padilla-Lawson E"

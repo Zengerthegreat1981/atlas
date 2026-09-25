@@ -1,6 +1,6 @@
 ---
 slug: "trm-morality-1"
-id: "TRM-ENG-45313"
+id: "TRM-ENG-59842"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "morality, 1"

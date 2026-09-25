@@ -1,6 +1,6 @@
 ---
 slug: "trm-distress-vs1"
-id: "TRM-ENG-39961"
+id: "TRM-ENG-54490"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "distress vs.,1"

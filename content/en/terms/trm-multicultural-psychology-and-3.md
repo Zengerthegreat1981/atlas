@@ -1,6 +1,6 @@
 ---
 slug: "trm-multicultural-psychology-and-3"
-id: "TRM-ENG-40903"
+id: "TRM-ENG-55432"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "multicultural psychology and, 3"

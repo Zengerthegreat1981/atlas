@@ -1,6 +1,6 @@
 ---
 slug: "trm-5-refinement"
-id: "TRM-ENG-37495"
+id: "TRM-ENG-52024"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "5. Refinement"

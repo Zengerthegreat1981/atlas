@@ -1,6 +1,6 @@
 ---
 slug: "trm-301-dunbar-f"
-id: "TRM-ENG-38858"
+id: "TRM-ENG-53387"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "301. Dunbar F"

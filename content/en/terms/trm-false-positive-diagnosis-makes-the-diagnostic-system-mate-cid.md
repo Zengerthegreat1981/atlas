@@ -1,6 +1,6 @@
 ---
 slug: "trm-false-positive-diagnosis-makes-the-diagnostic-system-mate-cid"
-id: "TRM-ENG-35809"
+id: "TRM-ENG-50338"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "false positive diagnosis makes the diagnostic system mate (cid"

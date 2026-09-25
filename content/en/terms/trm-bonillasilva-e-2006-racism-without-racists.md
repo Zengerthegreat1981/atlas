@@ -1,6 +1,6 @@
 ---
 slug: "trm-bonillasilva-e-2006-racism-without-racists"
-id: "TRM-ENG-37716"
+id: "TRM-ENG-66774"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bonilla-Silva, E. (2006). Racism without racists"

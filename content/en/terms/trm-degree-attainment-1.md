@@ -1,6 +1,6 @@
 ---
 slug: "trm-degree-attainment-1"
-id: "TRM-ENG-47869"
+id: "TRM-ENG-62398"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "degree attainment, 1"

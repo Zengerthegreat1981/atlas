@@ -1,6 +1,6 @@
 ---
 slug: "trm-comenius-1"
-id: "TRM-ENG-46430"
+id: "TRM-ENG-60959"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Comenius, 1"

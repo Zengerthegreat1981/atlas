@@ -1,6 +1,6 @@
 ---
 slug: "trm-bipolar-disorders"
-id: "TRM-ENG-39760"
+id: "TRM-ENG-54289"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "BIPOLAR DISORDERS"

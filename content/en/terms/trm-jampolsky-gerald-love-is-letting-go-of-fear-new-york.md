@@ -1,6 +1,6 @@
 ---
 slug: "trm-jampolsky-gerald-love-is-letting-go-of-fear-new-york"
-id: "TRM-ENG-45848"
+id: "TRM-ENG-60377"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jampolsky, Gerald. Love Is Letting Go of Fear. New York"

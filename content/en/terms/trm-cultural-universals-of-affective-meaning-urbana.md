@@ -1,6 +1,6 @@
 ---
 slug: "trm-cultural-universals-of-affective-meaning-urbana"
-id: "TRM-ENG-35742"
+id: "TRM-ENG-50271"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cultural universals of affective meaning. Urbana"

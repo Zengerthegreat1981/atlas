@@ -1,6 +1,6 @@
 ---
 slug: "trm-clopedia-of-drug-abuse-new-york"
-id: "TRM-ENG-46061"
+id: "TRM-ENG-60590"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "clopedia of Drug Abuse (New York"

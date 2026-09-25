@@ -1,6 +1,6 @@
 ---
 slug: "trm-competence-relatedness-autonomy-needs-and-2"
-id: "TRM-ENG-39616"
+id: "TRM-ENG-54145"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "competence, relatedness, autonomy needs and, 2"

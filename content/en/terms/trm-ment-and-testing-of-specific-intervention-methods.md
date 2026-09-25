@@ -1,6 +1,6 @@
 ---
 slug: "trm-ment-and-testing-of-specific-intervention-methods"
-id: "TRM-ENG-35135"
+id: "TRM-ENG-64193"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ment and testing of specific intervention methods"

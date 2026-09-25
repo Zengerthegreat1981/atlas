@@ -1,6 +1,6 @@
 ---
 slug: "trm-ence-see-sensation-seeking"
-id: "TRM-ENG-43634"
+id: "TRM-ENG-58163"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ence. See sensation seeking."

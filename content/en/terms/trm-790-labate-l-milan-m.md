@@ -1,6 +1,6 @@
 ---
 slug: "trm-790-labate-l-milan-m"
-id: "TRM-ENG-39443"
+id: "TRM-ENG-53972"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "790. L’Abate L, Milan M"

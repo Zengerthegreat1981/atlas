@@ -1,6 +1,6 @@
 ---
 slug: "trm-impaired-selfidentity-as-manifested-by-at-least-one-of-the-following"
-id: "TRM-ENG-42418"
+id: "TRM-ENG-56947"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Impaired self/identity as manifested by at least one of the following"

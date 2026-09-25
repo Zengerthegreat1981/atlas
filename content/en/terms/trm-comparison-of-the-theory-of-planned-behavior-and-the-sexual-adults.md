@@ -1,6 +1,6 @@
 ---
 slug: "trm-comparison-of-the-theory-of-planned-behavior-and-the-sexual-adults"
-id: "TRM-ENG-46905"
+id: "TRM-ENG-61434"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "comparison of the theory of planned behavior and the sexual adults"

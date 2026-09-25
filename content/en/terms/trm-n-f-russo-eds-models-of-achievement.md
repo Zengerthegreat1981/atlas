@@ -1,6 +1,6 @@
 ---
 slug: "trm-n-f-russo-eds-models-of-achievement"
-id: "TRM-ENG-37342"
+id: "TRM-ENG-66400"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "& N. F. Russo (Eds.), Models of achievement"

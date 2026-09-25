@@ -1,6 +1,6 @@
 ---
 slug: "trm-construction-of-self-and-emotion"
-id: "TRM-ENG-45033"
+id: "TRM-ENG-59562"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "construction of self and emotion"

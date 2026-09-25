@@ -1,6 +1,6 @@
 ---
 slug: "trm-art-in-aesthetics"
-id: "TRM-ENG-45649"
+id: "TRM-ENG-60178"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Art.” In Aesthetics"

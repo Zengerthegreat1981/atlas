@@ -1,6 +1,6 @@
 ---
 slug: "trm-live-together-but"
-id: "TRM-ENG-45137"
+id: "TRM-ENG-59666"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "live together, but"

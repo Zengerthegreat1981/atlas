@@ -1,6 +1,6 @@
 ---
 slug: "trm-anomalous-playing-cards"
-id: "TRM-ENG-49071"
+id: "TRM-ENG-63600"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“anomalous playing cards”"

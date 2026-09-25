@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-learning-from-aversive-events"
-id: "TRM-ENG-42634"
+id: "TRM-ENG-57163"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and learning from aversive events"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-centration"
-id: "TRM-ENG-52100"
+id: "TRM-ENG-66629"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Centration"

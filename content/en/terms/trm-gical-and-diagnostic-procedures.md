@@ -1,6 +1,6 @@
 ---
 slug: "trm-gical-and-diagnostic-procedures"
-id: "TRM-ENG-36486"
+id: "TRM-ENG-65544"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "gical and diagnostic procedures"

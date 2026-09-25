@@ -1,6 +1,6 @@
 ---
 slug: "trm-promotingselfdirectedhemodialysis"
-id: "TRM-ENG-46664"
+id: "TRM-ENG-61193"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Promotingself-directedhemodialysis"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-dication-is-given-as-to-how-its-viability-could-be-experien-tion"
-id: "TRM-ENG-36360"
+id: "TRM-ENG-65418"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dication is given as to how its viability could be experien- tion"

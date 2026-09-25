@@ -1,6 +1,6 @@
 ---
 slug: "trm-ized-only-roughly"
-id: "TRM-ENG-51567"
+id: "TRM-ENG-66096"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ized only roughly"

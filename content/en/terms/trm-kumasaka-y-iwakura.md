@@ -1,6 +1,6 @@
 ---
 slug: "trm-kumasaka-y-iwakura"
-id: "TRM-ENG-44482"
+id: "TRM-ENG-59011"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kumasaka, Y., “Iwakura"

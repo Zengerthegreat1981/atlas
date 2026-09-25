@@ -1,6 +1,6 @@
 ---
 slug: "trm-clin-psychol-57"
-id: "TRM-ENG-47550"
+id: "TRM-ENG-62079"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Clin Psychol 57"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-green-rj-framo-jl-eds"
-id: "TRM-ENG-40802"
+id: "TRM-ENG-55331"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Green RJ, Framo JL (eds)"

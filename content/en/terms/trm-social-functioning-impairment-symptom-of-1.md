@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-functioning-impairment-symptom-of-1"
-id: "TRM-ENG-41698"
+id: "TRM-ENG-56227"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social functioning impairment symptom of, 1"

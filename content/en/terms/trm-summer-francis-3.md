@@ -1,6 +1,6 @@
 ---
 slug: "trm-summer-francis-3"
-id: "TRM-ENG-38844"
+id: "TRM-ENG-53373"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Summer, Francis, 3"

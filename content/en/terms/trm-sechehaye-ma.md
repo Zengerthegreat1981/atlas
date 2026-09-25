@@ -1,6 +1,6 @@
 ---
 slug: "trm-sechehaye-ma"
-id: "TRM-ENG-42304"
+id: "TRM-ENG-56833"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sechehaye MA"

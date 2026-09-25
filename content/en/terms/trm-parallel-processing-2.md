@@ -1,6 +1,6 @@
 ---
 slug: "trm-parallel-processing-2"
-id: "TRM-ENG-44667"
+id: "TRM-ENG-59196"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Parallel processing, 2"

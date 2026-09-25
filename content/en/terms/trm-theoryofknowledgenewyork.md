@@ -1,6 +1,6 @@
 ---
 slug: "trm-theoryofknowledgenewyork"
-id: "TRM-ENG-49758"
+id: "TRM-ENG-64287"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theoryofknowledge.NewYork"

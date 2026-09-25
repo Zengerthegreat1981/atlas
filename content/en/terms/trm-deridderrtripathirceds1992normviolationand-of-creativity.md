@@ -1,6 +1,6 @@
 ---
 slug: "trm-deridderrtripathirceds1992normviolationand-of-creativity"
-id: "TRM-ENG-36724"
+id: "TRM-ENG-65782"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "DeRidder,R.,&Tripathi,R.C.(Eds.).(1992).Normviolationand of creativity"

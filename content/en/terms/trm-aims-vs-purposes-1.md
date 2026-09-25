@@ -1,6 +1,6 @@
 ---
 slug: "trm-aims-vs-purposes-1"
-id: "TRM-ENG-47568"
+id: "TRM-ENG-62097"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "aims vs. purposes, 1"

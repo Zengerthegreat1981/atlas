@@ -1,6 +1,6 @@
 ---
 slug: "trm-institutional-racism-1"
-id: "TRM-ENG-48208"
+id: "TRM-ENG-62737"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "institutional racism, 1"

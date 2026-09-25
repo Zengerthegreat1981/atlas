@@ -1,6 +1,6 @@
 ---
 slug: "trm-how-then-can-we-understand-individuals-with-led"
-id: "TRM-ENG-42410"
+id: "TRM-ENG-56939"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "How then can we understand individuals with led)"

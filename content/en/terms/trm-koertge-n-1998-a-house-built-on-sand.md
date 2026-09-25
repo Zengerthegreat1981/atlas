@@ -1,6 +1,6 @@
 ---
 slug: "trm-koertge-n-1998-a-house-built-on-sand"
-id: "TRM-ENG-37003"
+id: "TRM-ENG-51532"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Koertge, N. (1998). A house built on sand"

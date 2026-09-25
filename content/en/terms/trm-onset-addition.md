@@ -1,6 +1,6 @@
 ---
 slug: "trm-onset-addition"
-id: "TRM-ENG-43090"
+id: "TRM-ENG-57619"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "onset addition"

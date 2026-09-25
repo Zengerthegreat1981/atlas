@@ -1,6 +1,6 @@
 ---
 slug: "trm-bellingham-wa"
-id: "TRM-ENG-50159"
+id: "TRM-ENG-64688"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bellingham, WA"

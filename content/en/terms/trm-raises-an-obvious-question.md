@@ -1,6 +1,6 @@
 ---
 slug: "trm-raises-an-obvious-question"
-id: "TRM-ENG-48614"
+id: "TRM-ENG-63143"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "raises an obvious question"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-beckett-t"
-id: "TRM-ENG-39842"
+id: "TRM-ENG-54371"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Beckett T"

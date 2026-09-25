@@ -1,6 +1,6 @@
 ---
 slug: "trm-working-alliance"
-id: "TRM-ENG-37331"
+id: "TRM-ENG-51860"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "working alliance"

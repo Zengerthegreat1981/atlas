@@ -1,6 +1,6 @@
 ---
 slug: "trm-sive-adj"
-id: "TRM-ENG-44144"
+id: "TRM-ENG-58673"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sive adj."

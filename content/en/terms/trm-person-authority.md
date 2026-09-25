@@ -1,6 +1,6 @@
 ---
 slug: "trm-person-authority"
-id: "TRM-ENG-45402"
+id: "TRM-ENG-59931"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "person authority"

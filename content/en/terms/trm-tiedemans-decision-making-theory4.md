@@ -1,6 +1,6 @@
 ---
 slug: "trm-tiedemans-decision-making-theory4"
-id: "TRM-ENG-38927"
+id: "TRM-ENG-53456"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tiedeman’s decision making theory,4"

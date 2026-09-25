@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-life-review"
-id: "TRM-ENG-44825"
+id: "TRM-ENG-59354"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, “The Life Review"

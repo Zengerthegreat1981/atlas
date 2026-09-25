@@ -1,6 +1,6 @@
 ---
 slug: "trm-formation"
-id: "TRM-ENG-42849"
+id: "TRM-ENG-57378"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "formation"

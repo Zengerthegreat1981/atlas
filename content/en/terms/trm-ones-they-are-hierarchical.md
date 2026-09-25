@@ -1,6 +1,6 @@
 ---
 slug: "trm-ones-they-are-hierarchical"
-id: "TRM-ENG-48480"
+id: "TRM-ENG-63009"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ones; they are hierarchical"

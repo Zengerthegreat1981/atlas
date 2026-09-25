@@ -1,6 +1,6 @@
 ---
 slug: "trm-colonialism-and-3"
-id: "TRM-ENG-39583"
+id: "TRM-ENG-54112"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "colonialism and, 3"

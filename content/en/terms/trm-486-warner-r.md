@@ -1,6 +1,6 @@
 ---
 slug: "trm-486-warner-r"
-id: "TRM-ENG-39080"
+id: "TRM-ENG-53609"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "486. Warner R"

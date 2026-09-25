@@ -1,6 +1,6 @@
 ---
 slug: "trm-ture"
-id: "TRM-ENG-48978"
+id: "TRM-ENG-63507"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ture"

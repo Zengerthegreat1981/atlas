@@ -1,6 +1,6 @@
 ---
 slug: "trm-strunkojr1958thepsychologyofreligion"
-id: "TRM-ENG-37329"
+id: "TRM-ENG-66387"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Strunk,O.,Jr.(1958).Thepsychologyofreligion"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-klein-gs"
-id: "TRM-ENG-41256"
+id: "TRM-ENG-55785"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Klein GS"

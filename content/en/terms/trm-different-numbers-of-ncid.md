@@ -1,6 +1,6 @@
 ---
 slug: "trm-different-numbers-of-ncid"
-id: "TRM-ENG-35766"
+id: "TRM-ENG-50295"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "different numbers of n(cid"

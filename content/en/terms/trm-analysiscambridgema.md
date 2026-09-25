@@ -1,6 +1,6 @@
 ---
 slug: "trm-analysiscambridgema"
-id: "TRM-ENG-37509"
+id: "TRM-ENG-66567"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "analysis.Cambridge,MA"

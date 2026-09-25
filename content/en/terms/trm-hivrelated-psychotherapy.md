@@ -1,6 +1,6 @@
 ---
 slug: "trm-hivrelated-psychotherapy"
-id: "TRM-ENG-38134"
+id: "TRM-ENG-52663"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "HIV-related psychotherapy"

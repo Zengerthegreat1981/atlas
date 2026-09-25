@@ -1,6 +1,6 @@
 ---
 slug: "trm-phenomenologicalpsychologyvolivpp259331pittsburgh"
-id: "TRM-ENG-38091"
+id: "TRM-ENG-67149"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "phenomenologicalpsychology(Vol.IV,pp.259–331).Pittsburgh"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-internationals-interact-see-http"
-id: "TRM-ENG-35416"
+id: "TRM-ENG-49945"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "International’s INTERACT [see http"

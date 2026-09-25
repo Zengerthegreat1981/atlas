@@ -1,6 +1,6 @@
 ---
 slug: "trm-2010-affective-lability"
-id: "TRM-ENG-43257"
+id: "TRM-ENG-57786"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2010). Affective lability"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-brain-systems"
-id: "TRM-ENG-36222"
+id: "TRM-ENG-50751"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "brain systems"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-111-homans-gc"
-id: "TRM-ENG-38572"
+id: "TRM-ENG-53101"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "111. Homans GC"

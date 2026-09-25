@@ -1,6 +1,6 @@
 ---
 slug: "trm-lancs"
-id: "TRM-ENG-46597"
+id: "TRM-ENG-61126"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lancs"

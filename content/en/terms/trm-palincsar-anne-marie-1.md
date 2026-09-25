@@ -1,6 +1,6 @@
 ---
 slug: "trm-palincsar-anne-marie-1"
-id: "TRM-ENG-47094"
+id: "TRM-ENG-61623"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Palincsar, Anne Marie, 1"

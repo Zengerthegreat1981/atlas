@@ -1,6 +1,6 @@
 ---
 slug: "trm-family-therapy-new-york-ny"
-id: "TRM-ENG-51455"
+id: "TRM-ENG-65984"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "family therapy. New York, NY"

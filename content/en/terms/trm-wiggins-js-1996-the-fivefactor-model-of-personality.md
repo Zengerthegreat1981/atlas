@@ -1,6 +1,6 @@
 ---
 slug: "trm-wiggins-js-1996-the-fivefactor-model-of-personality"
-id: "TRM-ENG-36056"
+id: "TRM-ENG-65114"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wiggins, J.S. (1996). The Five-Factor Model of Personality"

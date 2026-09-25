@@ -1,6 +1,6 @@
 ---
 slug: "trm-mallen-m-j-1"
-id: "TRM-ENG-38396"
+id: "TRM-ENG-52925"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mallen, M. J., 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-illich-ivan-see-deschooling-society"
-id: "TRM-ENG-46795"
+id: "TRM-ENG-61324"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Illich, Ivan. See Deschooling Society"

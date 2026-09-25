@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavior-the-control-of-perception-powers-1"
-id: "TRM-ENG-50152"
+id: "TRM-ENG-64681"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Behavior the Control of Perception (Powers), 1"

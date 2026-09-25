@@ -1,6 +1,6 @@
 ---
 slug: "trm-sphinctercontrol"
-id: "TRM-ENG-43876"
+id: "TRM-ENG-58405"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sphinctercontrol."

@@ -1,6 +1,6 @@
 ---
 slug: "trm-mahoney-mj"
-id: "TRM-ENG-41558"
+id: "TRM-ENG-56087"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mahoney MJ"

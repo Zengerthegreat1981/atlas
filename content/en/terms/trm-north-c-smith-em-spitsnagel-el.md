@@ -1,6 +1,6 @@
 ---
 slug: "trm-north-c-smith-em-spitsnagel-el"
-id: "TRM-ENG-47910"
+id: "TRM-ENG-62439"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "North C, Smith EM, Spitsnagel EL"

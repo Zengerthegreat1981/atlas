@@ -1,6 +1,6 @@
 ---
 slug: "trm-college-premium-1"
-id: "TRM-ENG-46420"
+id: "TRM-ENG-60949"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "College premium, 1"

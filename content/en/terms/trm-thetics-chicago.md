@@ -1,6 +1,6 @@
 ---
 slug: "trm-thetics-chicago"
-id: "TRM-ENG-46048"
+id: "TRM-ENG-60577"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thetics. Chicago"

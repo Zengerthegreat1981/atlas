@@ -1,6 +1,6 @@
 ---
 slug: "trm-ophy13no5septoct1990"
-id: "TRM-ENG-45977"
+id: "TRM-ENG-60506"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ophy13,no.5(Sept./Oct.1990)"

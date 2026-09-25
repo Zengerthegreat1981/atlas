@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-counseling-psychologist-journal-of-counseling-counseling"
-id: "TRM-ENG-38880"
+id: "TRM-ENG-53409"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The Counseling Psychologist, Journal of Counseling counseling"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-science-and-medicine-57-389401-doi"
-id: "TRM-ENG-35546"
+id: "TRM-ENG-50075"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Science and Medicine, 57, 389–401. doi"

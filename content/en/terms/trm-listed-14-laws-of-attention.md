@@ -1,6 +1,6 @@
 ---
 slug: "trm-listed-14-laws-of-attention"
-id: "TRM-ENG-52578"
+id: "TRM-ENG-67107"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "listed 14 laws of attention"

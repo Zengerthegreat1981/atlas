@@ -1,6 +1,6 @@
 ---
 slug: "trm-selfconsciousness-2"
-id: "TRM-ENG-45501"
+id: "TRM-ENG-60030"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "self-consciousness, 2"

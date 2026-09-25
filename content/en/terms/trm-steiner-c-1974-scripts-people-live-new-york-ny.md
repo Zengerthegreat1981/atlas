@@ -1,6 +1,6 @@
 ---
 slug: "trm-steiner-c-1974-scripts-people-live-new-york-ny"
-id: "TRM-ENG-51065"
+id: "TRM-ENG-65594"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Steiner, C. (1974). Scripts people live. New York, NY"

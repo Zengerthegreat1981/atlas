@@ -1,6 +1,6 @@
 ---
 slug: "trm-allport-g-w-1937-personality"
-id: "TRM-ENG-34611"
+id: "TRM-ENG-63669"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Allport, G. W. (1937). Personality"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-849-greenberg-l-piasof-wm-eds"
-id: "TRM-ENG-39510"
+id: "TRM-ENG-54039"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "849. Greenberg L, Piasof WM (eds)"

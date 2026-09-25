@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-m-2002-putting-the-brakes-on-prejudice"
-id: "TRM-ENG-37508"
+id: "TRM-ENG-52037"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "A. M. (2002). Putting the brakes on prejudice"

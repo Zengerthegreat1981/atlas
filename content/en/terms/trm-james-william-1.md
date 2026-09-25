@@ -1,6 +1,6 @@
 ---
 slug: "trm-james-william-1"
-id: "TRM-ENG-50597"
+id: "TRM-ENG-65126"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "James, William, 1"

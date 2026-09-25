@@ -1,6 +1,6 @@
 ---
 slug: "trm-littner-n"
-id: "TRM-ENG-41492"
+id: "TRM-ENG-56021"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Littner N"

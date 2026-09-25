@@ -1,6 +1,6 @@
 ---
 slug: "trm-lifestyle-changes-and-1"
-id: "TRM-ENG-40726"
+id: "TRM-ENG-55255"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lifestyle changes and, 1"

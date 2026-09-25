@@ -1,6 +1,6 @@
 ---
 slug: "trm-nigrescence-theory-and-3"
-id: "TRM-ENG-38513"
+id: "TRM-ENG-53042"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nigrescence theory and, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-541-stimson-gv-oppenheimer-e"
-id: "TRM-ENG-39152"
+id: "TRM-ENG-53681"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "541. Stimson GV, Oppenheimer E"

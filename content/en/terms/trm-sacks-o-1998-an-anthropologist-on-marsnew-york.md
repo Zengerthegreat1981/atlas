@@ -1,6 +1,6 @@
 ---
 slug: "trm-sacks-o-1998-an-anthropologist-on-marsnew-york"
-id: "TRM-ENG-35940"
+id: "TRM-ENG-64998"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sacks, O. (1998). An anthropologist on mars.New York"

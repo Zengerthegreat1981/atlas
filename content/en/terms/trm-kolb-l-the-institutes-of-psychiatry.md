@@ -1,6 +1,6 @@
 ---
 slug: "trm-kolb-l-the-institutes-of-psychiatry"
-id: "TRM-ENG-44476"
+id: "TRM-ENG-59005"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kolb, L., “The Institutes of Psychiatry"

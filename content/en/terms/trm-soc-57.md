@@ -1,6 +1,6 @@
 ---
 slug: "trm-soc-57"
-id: "TRM-ENG-48586"
+id: "TRM-ENG-63115"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "soc 57"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-us-gpo"
-id: "TRM-ENG-42635"
+id: "TRM-ENG-57164"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "U.S. GPO"

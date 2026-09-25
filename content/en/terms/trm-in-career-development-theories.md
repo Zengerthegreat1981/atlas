@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-career-development-theories"
-id: "TRM-ENG-40476"
+id: "TRM-ENG-55005"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in career development theories"

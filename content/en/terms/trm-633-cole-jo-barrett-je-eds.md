@@ -1,6 +1,6 @@
 ---
 slug: "trm-633-cole-jo-barrett-je-eds"
-id: "TRM-ENG-39258"
+id: "TRM-ENG-53787"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "633. Cole JO, Barrett JE (eds)"

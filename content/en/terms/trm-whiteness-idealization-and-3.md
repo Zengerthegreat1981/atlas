@@ -1,6 +1,6 @@
 ---
 slug: "trm-whiteness-idealization-and-3"
-id: "TRM-ENG-39041"
+id: "TRM-ENG-53570"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Whiteness idealization and, 3"

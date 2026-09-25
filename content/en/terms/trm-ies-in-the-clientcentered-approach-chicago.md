@@ -1,6 +1,6 @@
 ---
 slug: "trm-ies-in-the-clientcentered-approach-chicago"
-id: "TRM-ENG-42876"
+id: "TRM-ENG-57405"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ies in the client-centered approach. Chicago"

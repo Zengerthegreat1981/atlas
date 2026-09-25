@@ -1,6 +1,6 @@
 ---
 slug: "trm-nostic-tests-using-information-theory"
-id: "TRM-ENG-35976"
+id: "TRM-ENG-65034"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nostic tests using information theory"

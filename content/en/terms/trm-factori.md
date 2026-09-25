@@ -1,6 +1,6 @@
 ---
 slug: "trm-factori"
-id: "TRM-ENG-36420"
+id: "TRM-ENG-50949"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "factor-I"

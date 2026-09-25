@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-psychotherapy-professions"
-id: "TRM-ENG-48851"
+id: "TRM-ENG-63380"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the psychotherapy professions"

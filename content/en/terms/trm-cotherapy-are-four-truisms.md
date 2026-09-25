@@ -1,6 +1,6 @@
 ---
 slug: "trm-cotherapy-are-four-truisms"
-id: "TRM-ENG-43004"
+id: "TRM-ENG-57533"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cotherapy are four truisms"

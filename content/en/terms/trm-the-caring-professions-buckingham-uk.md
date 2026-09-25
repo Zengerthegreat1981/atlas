@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-caring-professions-buckingham-uk"
-id: "TRM-ENG-47328"
+id: "TRM-ENG-61857"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the caring professions. Buckingham, UK"

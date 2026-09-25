@@ -1,6 +1,6 @@
 ---
 slug: "trm-assimilation-models-and-3"
-id: "TRM-ENG-39274"
+id: "TRM-ENG-53803"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "assimilation models and, 3"

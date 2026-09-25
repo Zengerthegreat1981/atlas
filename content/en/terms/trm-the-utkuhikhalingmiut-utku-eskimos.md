@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-utkuhikhalingmiut-utku-eskimos"
-id: "TRM-ENG-43863"
+id: "TRM-ENG-58392"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the Utkuhikhalingmiut (“Utku”) Eskimos"

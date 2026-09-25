@@ -1,6 +1,6 @@
 ---
 slug: "trm-bordin-es"
-id: "TRM-ENG-47524"
+id: "TRM-ENG-62053"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bordin ES"

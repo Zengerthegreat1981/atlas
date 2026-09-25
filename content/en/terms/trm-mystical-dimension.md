@@ -1,6 +1,6 @@
 ---
 slug: "trm-mystical-dimension"
-id: "TRM-ENG-45322"
+id: "TRM-ENG-59851"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mystical dimension"

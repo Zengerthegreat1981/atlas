@@ -1,6 +1,6 @@
 ---
 slug: "trm-histrionic-personality-disorder-in-2"
-id: "TRM-ENG-40397"
+id: "TRM-ENG-54926"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "histrionic personality disorder in, 2"

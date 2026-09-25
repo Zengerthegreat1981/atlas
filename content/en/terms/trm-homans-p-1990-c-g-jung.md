@@ -1,6 +1,6 @@
 ---
 slug: "trm-homans-p-1990-c-g-jung"
-id: "TRM-ENG-50545"
+id: "TRM-ENG-65074"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Homans, P. (1990). C. G. Jung"

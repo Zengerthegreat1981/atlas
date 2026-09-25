@@ -1,6 +1,6 @@
 ---
 slug: "trm-sex-uk"
-id: "TRM-ENG-36981"
+id: "TRM-ENG-51510"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sex, UK"

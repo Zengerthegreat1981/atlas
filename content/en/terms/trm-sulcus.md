@@ -1,6 +1,6 @@
 ---
 slug: "trm-sulcus"
-id: "TRM-ENG-35058"
+id: "TRM-ENG-64116"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sulcus"

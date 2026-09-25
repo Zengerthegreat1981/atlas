@@ -1,6 +1,6 @@
 ---
 slug: "trm-meaning-of-truth-new-york-ny"
-id: "TRM-ENG-48319"
+id: "TRM-ENG-62848"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "meaning of truth. New York, NY"

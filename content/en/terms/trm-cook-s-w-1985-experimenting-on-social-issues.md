@@ -1,6 +1,6 @@
 ---
 slug: "trm-cook-s-w-1985-experimenting-on-social-issues"
-id: "TRM-ENG-34661"
+id: "TRM-ENG-49190"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cook. S. W. (1985). Experimenting on social issues"

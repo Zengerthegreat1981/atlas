@@ -1,6 +1,6 @@
 ---
 slug: "trm-important-scientific-achievement"
-id: "TRM-ENG-37842"
+id: "TRM-ENG-52371"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "important scientific achievement"

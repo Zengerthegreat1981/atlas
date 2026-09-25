@@ -1,6 +1,6 @@
 ---
 slug: "trm-ington-dc"
-id: "TRM-ENG-35083"
+id: "TRM-ENG-49612"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ington, DC"

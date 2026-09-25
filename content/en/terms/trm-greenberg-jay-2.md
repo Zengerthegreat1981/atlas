@@ -1,6 +1,6 @@
 ---
 slug: "trm-greenberg-jay-2"
-id: "TRM-ENG-50497"
+id: "TRM-ENG-65026"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Greenberg, Jay, 2"

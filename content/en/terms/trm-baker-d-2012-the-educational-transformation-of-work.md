@@ -1,6 +1,6 @@
 ---
 slug: "trm-baker-d-2012-the-educational-transformation-of-work"
-id: "TRM-ENG-46273"
+id: "TRM-ENG-60802"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Baker, D. (2012). The educational transformation of work"

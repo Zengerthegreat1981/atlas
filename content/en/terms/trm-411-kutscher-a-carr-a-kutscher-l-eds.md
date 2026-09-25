@@ -1,6 +1,6 @@
 ---
 slug: "trm-411-kutscher-a-carr-a-kutscher-l-eds"
-id: "TRM-ENG-38999"
+id: "TRM-ENG-53528"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "411. Kutscher A, Carr A, Kutscher L (eds)"

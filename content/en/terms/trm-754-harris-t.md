@@ -1,6 +1,6 @@
 ---
 slug: "trm-754-harris-t"
-id: "TRM-ENG-39403"
+id: "TRM-ENG-53932"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "754. Harris T"

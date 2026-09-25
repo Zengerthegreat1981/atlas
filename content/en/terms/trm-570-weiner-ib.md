@@ -1,6 +1,6 @@
 ---
 slug: "trm-570-weiner-ib"
-id: "TRM-ENG-39182"
+id: "TRM-ENG-53711"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "570. Weiner IB"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-n-engl-j-med-351"
-id: "TRM-ENG-47885"
+id: "TRM-ENG-62414"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "N Engl J Med 351"

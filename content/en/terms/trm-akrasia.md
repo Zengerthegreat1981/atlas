@@ -1,6 +1,6 @@
 ---
 slug: "trm-akrasia"
-id: "TRM-ENG-52033"
+id: "TRM-ENG-66562"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Akrasia"

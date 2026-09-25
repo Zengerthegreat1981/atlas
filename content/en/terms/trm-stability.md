@@ -1,6 +1,6 @@
 ---
 slug: "trm-stability"
-id: "TRM-ENG-36133"
+id: "TRM-ENG-50662"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stability"

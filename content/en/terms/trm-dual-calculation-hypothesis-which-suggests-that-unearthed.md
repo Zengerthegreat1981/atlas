@@ -1,6 +1,6 @@
 ---
 slug: "trm-dual-calculation-hypothesis-which-suggests-that-unearthed"
-id: "TRM-ENG-45078"
+id: "TRM-ENG-59607"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dual calculation hypothesis, which suggests that unearthed"

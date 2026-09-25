@@ -1,6 +1,6 @@
 ---
 slug: "trm-abilities-and-brain-organization"
-id: "TRM-ENG-34728"
+id: "TRM-ENG-49257"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "abilities and brain organization"

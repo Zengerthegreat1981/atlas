@@ -1,6 +1,6 @@
 ---
 slug: "trm-reitman-s-w-1992-the-educational-messiah-complex"
-id: "TRM-ENG-47188"
+id: "TRM-ENG-61717"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Reitman, S. W. (1992). The educational messiah complex"

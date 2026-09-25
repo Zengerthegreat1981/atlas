@@ -1,6 +1,6 @@
 ---
 slug: "trm-tional-psychology"
-id: "TRM-ENG-37189"
+id: "TRM-ENG-66247"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tional psychology"

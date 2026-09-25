@@ -1,6 +1,6 @@
 ---
 slug: "trm-at-yale-university-in-1929"
-id: "TRM-ENG-37567"
+id: "TRM-ENG-66625"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "at Yale University in 1929"

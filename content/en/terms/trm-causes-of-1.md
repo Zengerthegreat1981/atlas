@@ -1,6 +1,6 @@
 ---
 slug: "trm-causes-of-1"
-id: "TRM-ENG-39461"
+id: "TRM-ENG-53990"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "causes of, 1"

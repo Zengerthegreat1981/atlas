@@ -1,6 +1,6 @@
 ---
 slug: "trm-siever-l-davis-k"
-id: "TRM-ENG-48069"
+id: "TRM-ENG-62598"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Siever L, Davis K"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-christian-privilege-and-3"
-id: "TRM-ENG-37817"
+id: "TRM-ENG-66875"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Christian privilege and, 3"

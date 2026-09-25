@@ -1,6 +1,6 @@
 ---
 slug: "trm-truax-cb-mitchell-km"
-id: "TRM-ENG-42626"
+id: "TRM-ENG-57155"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Truax CB, Mitchell KM"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-banks-w-c-3"
-id: "TRM-ENG-37667"
+id: "TRM-ENG-66725"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Banks, W. C., 3"

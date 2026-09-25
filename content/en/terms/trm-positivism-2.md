@@ -1,6 +1,6 @@
 ---
 slug: "trm-positivism-2"
-id: "TRM-ENG-48565"
+id: "TRM-ENG-63094"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "positivism, 2"

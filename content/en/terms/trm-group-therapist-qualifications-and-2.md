@@ -1,6 +1,6 @@
 ---
 slug: "trm-group-therapist-qualifications-and-2"
-id: "TRM-ENG-40331"
+id: "TRM-ENG-54860"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "group therapist qualifications and, 2"

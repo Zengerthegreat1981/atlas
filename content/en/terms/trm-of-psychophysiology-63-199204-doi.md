@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-psychophysiology-63-199204-doi"
-id: "TRM-ENG-35994"
+id: "TRM-ENG-50523"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of Psychophysiology, 63, 199–204. doi"

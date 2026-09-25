@@ -1,6 +1,6 @@
 ---
 slug: "trm-ones-political-principles-thus-practical-wisdom"
-id: "TRM-ENG-45371"
+id: "TRM-ENG-59900"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "one’s political principles). Thus, practical wisdom"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-recovery"
-id: "TRM-ENG-48483"
+id: "TRM-ENG-63012"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of recovery"

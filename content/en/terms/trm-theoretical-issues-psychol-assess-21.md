@@ -1,6 +1,6 @@
 ---
 slug: "trm-theoretical-issues-psychol-assess-21"
-id: "TRM-ENG-48645"
+id: "TRM-ENG-63174"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theoretical issues. Psychol Assess 21"

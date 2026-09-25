@@ -1,6 +1,6 @@
 ---
 slug: "trm-stancy-and-change-in-development-cambridge-ma"
-id: "TRM-ENG-35339"
+id: "TRM-ENG-64397"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stancy and change in development. Cambridge, MA"

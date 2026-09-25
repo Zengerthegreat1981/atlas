@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-term-psychopathy-in-mask-of-sanity"
-id: "TRM-ENG-48641"
+id: "TRM-ENG-63170"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the term psychopathy. In Mask of Sanity"

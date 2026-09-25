@@ -1,6 +1,6 @@
 ---
 slug: "trm-reverse-discrimination-and-2"
-id: "TRM-ENG-41531"
+id: "TRM-ENG-56060"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reverse discrimination and, 2"

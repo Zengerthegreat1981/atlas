@@ -1,6 +1,6 @@
 ---
 slug: "trm-rheumatology"
-id: "TRM-ENG-47270"
+id: "TRM-ENG-61799"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rheumatology"

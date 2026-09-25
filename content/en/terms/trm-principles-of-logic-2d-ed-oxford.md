@@ -1,6 +1,6 @@
 ---
 slug: "trm-principles-of-logic-2d-ed-oxford"
-id: "TRM-ENG-45765"
+id: "TRM-ENG-60294"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Principles of Logic. 2d ed. Oxford"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-resisting-12step-coercion"
-id: "TRM-ENG-38668"
+id: "TRM-ENG-53197"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Resisting 12-step coercion"

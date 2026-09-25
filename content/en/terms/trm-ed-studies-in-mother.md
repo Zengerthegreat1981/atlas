@@ -1,6 +1,6 @@
 ---
 slug: "trm-ed-studies-in-mother"
-id: "TRM-ENG-52462"
+id: "TRM-ENG-66991"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Ed.), Studies in mother"

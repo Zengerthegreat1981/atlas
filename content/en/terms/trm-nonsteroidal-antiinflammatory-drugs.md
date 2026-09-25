@@ -1,6 +1,6 @@
 ---
 slug: "trm-nonsteroidal-antiinflammatory-drugs"
-id: "TRM-ENG-43454"
+id: "TRM-ENG-57983"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(nonsteroidal anti-inflammatory drugs)"

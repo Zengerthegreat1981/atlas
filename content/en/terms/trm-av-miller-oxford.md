@@ -1,6 +1,6 @@
 ---
 slug: "trm-av-miller-oxford"
-id: "TRM-ENG-45638"
+id: "TRM-ENG-60167"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "A.V. Miller. Oxford"

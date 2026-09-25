@@ -1,6 +1,6 @@
 ---
 slug: "trm-efficient-it-is-also-more-effective-than-doing-context"
-id: "TRM-ENG-49411"
+id: "TRM-ENG-63940"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "efficient. It is also more effective than doing context"

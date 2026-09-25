@@ -1,6 +1,6 @@
 ---
 slug: "trm-178-hook-s-ed"
-id: "TRM-ENG-38657"
+id: "TRM-ENG-53186"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "178. Hook S (ed)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-wasson-bg"
-id: "TRM-ENG-42719"
+id: "TRM-ENG-57248"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wasson BG"

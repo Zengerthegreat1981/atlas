@@ -1,6 +1,6 @@
 ---
 slug: "trm-structured-clinical-interview-for-dsm5"
-id: "TRM-ENG-44022"
+id: "TRM-ENG-58551"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Structured Clinical Interview for DSM-5"

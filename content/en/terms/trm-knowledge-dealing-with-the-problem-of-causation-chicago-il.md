@@ -1,6 +1,6 @@
 ---
 slug: "trm-knowledge-dealing-with-the-problem-of-causation-chicago-il"
-id: "TRM-ENG-46890"
+id: "TRM-ENG-61419"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Knowledge” dealing with the problem of causation, Chicago, IL"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-caligor-j-fieldsteel-nd-brok-aj"
-id: "TRM-ENG-40101"
+id: "TRM-ENG-54630"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Caligor J, Fieldsteel ND, Brok AJ"

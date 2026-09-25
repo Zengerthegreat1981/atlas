@@ -1,6 +1,6 @@
 ---
 slug: "trm-systematic-treatment-selection-model-of-2"
-id: "TRM-ENG-41839"
+id: "TRM-ENG-56368"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "systematic treatment selection model of, 2"

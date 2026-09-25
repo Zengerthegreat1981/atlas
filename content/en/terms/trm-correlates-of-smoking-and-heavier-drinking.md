@@ -1,6 +1,6 @@
 ---
 slug: "trm-correlates-of-smoking-and-heavier-drinking"
-id: "TRM-ENG-46921"
+id: "TRM-ENG-61450"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "correlates of smoking and heavier drinking"

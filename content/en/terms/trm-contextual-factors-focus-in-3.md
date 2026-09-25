@@ -1,6 +1,6 @@
 ---
 slug: "trm-contextual-factors-focus-in-3"
-id: "TRM-ENG-39690"
+id: "TRM-ENG-54219"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "contextual factors focus in, 3"

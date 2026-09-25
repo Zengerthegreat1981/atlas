@@ -1,6 +1,6 @@
 ---
 slug: "trm-structural-linguistics-1"
-id: "TRM-ENG-47357"
+id: "TRM-ENG-61886"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Structural linguistics, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-behave-or-feel-in-certain-ways"
-id: "TRM-ENG-48684"
+id: "TRM-ENG-63213"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to behave or feel in certain ways"

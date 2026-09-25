@@ -1,6 +1,6 @@
 ---
 slug: "trm-memory-learning-disorder-college-age-and-1"
-id: "TRM-ENG-40818"
+id: "TRM-ENG-55347"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "memory learning disorder, college age and, 1"

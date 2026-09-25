@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychotherapeutic-agents"
-id: "TRM-ENG-42019"
+id: "TRM-ENG-56548"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychotherapeutic Agents"

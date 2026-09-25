@@ -1,6 +1,6 @@
 ---
 slug: "trm-focused-brief-group-therapy-1"
-id: "TRM-ENG-51465"
+id: "TRM-ENG-65994"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "focused brief group therapy, 1"

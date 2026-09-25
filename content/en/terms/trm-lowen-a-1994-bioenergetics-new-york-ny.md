@@ -1,6 +1,6 @@
 ---
 slug: "trm-lowen-a-1994-bioenergetics-new-york-ny"
-id: "TRM-ENG-50681"
+id: "TRM-ENG-65210"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lowen, A. (1994). Bioenergetics. New York, NY"

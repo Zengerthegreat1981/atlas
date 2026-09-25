@@ -1,6 +1,6 @@
 ---
 slug: "trm-strongly-classified-and-framed-pedagogy"
-id: "TRM-ENG-48761"
+id: "TRM-ENG-63290"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "strongly classified and framed pedagogy"

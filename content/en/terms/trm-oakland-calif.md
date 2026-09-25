@@ -1,6 +1,6 @@
 ---
 slug: "trm-oakland-calif"
-id: "TRM-ENG-45908"
+id: "TRM-ENG-60437"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Oakland, Calif."

@@ -1,6 +1,6 @@
 ---
 slug: "trm-mowrer-oh-mowrer-wm-1938-enuresis"
-id: "TRM-ENG-35854"
+id: "TRM-ENG-50383"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mowrer, O.H., & Mowrer, W.M. (1938). Enuresis"

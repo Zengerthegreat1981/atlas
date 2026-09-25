@@ -1,6 +1,6 @@
 ---
 slug: "trm-ceptual-neural-and-social-prospects-new-york-ny"
-id: "TRM-ENG-35712"
+id: "TRM-ENG-50241"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ceptual, neural, and social prospects. New York, NY"

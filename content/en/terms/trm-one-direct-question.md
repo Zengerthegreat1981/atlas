@@ -1,6 +1,6 @@
 ---
 slug: "trm-one-direct-question"
-id: "TRM-ENG-38059"
+id: "TRM-ENG-52588"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "one direct question"

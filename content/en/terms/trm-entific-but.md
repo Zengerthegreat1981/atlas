@@ -1,6 +1,6 @@
 ---
 slug: "trm-entific-but"
-id: "TRM-ENG-35782"
+id: "TRM-ENG-64840"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "entific), but"

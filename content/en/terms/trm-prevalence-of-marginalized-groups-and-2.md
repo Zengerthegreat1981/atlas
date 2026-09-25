@@ -1,6 +1,6 @@
 ---
 slug: "trm-prevalence-of-marginalized-groups-and-2"
-id: "TRM-ENG-41265"
+id: "TRM-ENG-55794"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "prevalence of, marginalized groups and, 2"

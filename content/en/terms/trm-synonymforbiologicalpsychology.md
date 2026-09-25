@@ -1,6 +1,6 @@
 ---
 slug: "trm-synonymforbiologicalpsychology"
-id: "TRM-ENG-43892"
+id: "TRM-ENG-58421"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "synonymforbiologicalpsychology."

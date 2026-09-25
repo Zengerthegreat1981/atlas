@@ -1,6 +1,6 @@
 ---
 slug: "trm-dissociation-54-5578-doi"
-id: "TRM-ENG-50315"
+id: "TRM-ENG-64844"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dissociation, 5(4), 55–78. doi"

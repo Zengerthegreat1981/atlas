@@ -1,6 +1,6 @@
 ---
 slug: "trm-kurt-adler-as-follows"
-id: "TRM-ENG-44484"
+id: "TRM-ENG-59013"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kurt Adler as follows"

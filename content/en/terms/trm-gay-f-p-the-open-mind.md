@@ -1,6 +1,6 @@
 ---
 slug: "trm-gay-f-p-the-open-mind"
-id: "TRM-ENG-44402"
+id: "TRM-ENG-58931"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gay, F. P., The Open Mind"

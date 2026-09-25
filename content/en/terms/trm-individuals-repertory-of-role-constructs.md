@@ -1,6 +1,6 @@
 ---
 slug: "trm-individuals-repertory-of-role-constructs"
-id: "TRM-ENG-36564"
+id: "TRM-ENG-65622"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "individual’s repertory of role constructs"

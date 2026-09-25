@@ -1,6 +1,6 @@
 ---
 slug: "trm-axiom"
-id: "TRM-ENG-46269"
+id: "TRM-ENG-60798"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Axiom"

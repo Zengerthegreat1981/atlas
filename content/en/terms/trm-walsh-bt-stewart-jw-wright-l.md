@@ -1,6 +1,6 @@
 ---
 slug: "trm-walsh-bt-stewart-jw-wright-l"
-id: "TRM-ENG-42704"
+id: "TRM-ENG-57233"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Walsh BT, Stewart JW, Wright L"

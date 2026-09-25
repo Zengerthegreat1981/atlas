@@ -1,6 +1,6 @@
 ---
 slug: "trm-numerical-values-in-our-table-151"
-id: "TRM-ENG-35978"
+id: "TRM-ENG-50507"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "numerical values in our Table 15.1"

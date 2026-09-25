@@ -1,6 +1,6 @@
 ---
 slug: "trm-ripheral-nervous-system"
-id: "TRM-ENG-43842"
+id: "TRM-ENG-58371"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ripheral nervous system."

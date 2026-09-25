@@ -1,6 +1,6 @@
 ---
 slug: "trm-hamachek-de-1985-the-selfs-development-and-ego-growth"
-id: "TRM-ENG-35728"
+id: "TRM-ENG-64786"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hamachek, D.E. (1985). The self’s development and ego growth"

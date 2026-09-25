@@ -1,6 +1,6 @@
 ---
 slug: "trm-ted-well-with-various-stereotypes"
-id: "TRM-ENG-48805"
+id: "TRM-ENG-63334"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ted well with various stereotypes"

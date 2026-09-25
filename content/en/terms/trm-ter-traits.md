@@ -1,6 +1,6 @@
 ---
 slug: "trm-ter-traits"
-id: "TRM-ENG-43290"
+id: "TRM-ENG-57819"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ter traits"

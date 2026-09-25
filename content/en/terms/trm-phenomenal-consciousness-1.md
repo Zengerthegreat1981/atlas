@@ -1,6 +1,6 @@
 ---
 slug: "trm-phenomenal-consciousness-1"
-id: "TRM-ENG-44685"
+id: "TRM-ENG-59214"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Phenomenal consciousness, 1"

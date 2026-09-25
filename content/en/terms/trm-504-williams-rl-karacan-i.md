@@ -1,6 +1,6 @@
 ---
 slug: "trm-504-williams-rl-karacan-i"
-id: "TRM-ENG-39110"
+id: "TRM-ENG-53639"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "504. Williams RL, Karacan I"

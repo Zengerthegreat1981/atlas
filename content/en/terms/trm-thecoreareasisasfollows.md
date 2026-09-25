@@ -1,6 +1,6 @@
 ---
 slug: "trm-thecoreareasisasfollows"
-id: "TRM-ENG-38316"
+id: "TRM-ENG-52845"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thecoreareasisasfollows"

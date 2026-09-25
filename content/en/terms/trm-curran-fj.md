@@ -1,6 +1,6 @@
 ---
 slug: "trm-curran-fj"
-id: "TRM-ENG-40284"
+id: "TRM-ENG-54813"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Curran FJ"

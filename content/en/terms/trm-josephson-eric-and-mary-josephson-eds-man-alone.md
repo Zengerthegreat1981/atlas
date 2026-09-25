@@ -1,6 +1,6 @@
 ---
 slug: "trm-josephson-eric-and-mary-josephson-eds-man-alone"
-id: "TRM-ENG-45725"
+id: "TRM-ENG-60254"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Josephson, Eric, and Mary Josephson, eds. Man Alone"

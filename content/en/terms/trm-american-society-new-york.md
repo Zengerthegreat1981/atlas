@@ -1,6 +1,6 @@
 ---
 slug: "trm-american-society-new-york"
-id: "TRM-ENG-45642"
+id: "TRM-ENG-60171"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "American Society. New York"

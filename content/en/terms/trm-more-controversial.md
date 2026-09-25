@@ -1,6 +1,6 @@
 ---
 slug: "trm-more-controversial"
-id: "TRM-ENG-40885"
+id: "TRM-ENG-55414"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "more controversial"

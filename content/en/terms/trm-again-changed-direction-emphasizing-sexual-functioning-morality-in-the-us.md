@@ -1,6 +1,6 @@
 ---
 slug: "trm-again-changed-direction-emphasizing-sexual-functioning-morality-in-the-us"
-id: "TRM-ENG-36097"
+id: "TRM-ENG-65155"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "again changed direction, emphasizing sexual functioning morality in the U.S."

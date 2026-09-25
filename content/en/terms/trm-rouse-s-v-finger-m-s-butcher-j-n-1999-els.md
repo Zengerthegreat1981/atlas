@@ -1,6 +1,6 @@
 ---
 slug: "trm-rouse-s-v-finger-m-s-butcher-j-n-1999-els"
-id: "TRM-ENG-35541"
+id: "TRM-ENG-64599"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rouse, S. V., Finger, M. S., & Butcher, J. N. (1999). els"

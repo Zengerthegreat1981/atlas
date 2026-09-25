@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-psychopathy-checklist"
-id: "TRM-ENG-42550"
+id: "TRM-ENG-57079"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The Psychopathy Checklist"

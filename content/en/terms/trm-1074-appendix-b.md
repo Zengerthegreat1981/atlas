@@ -1,6 +1,6 @@
 ---
 slug: "trm-1074-appendix-b"
-id: "TRM-ENG-49964"
+id: "TRM-ENG-64493"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1074 Appendix B"

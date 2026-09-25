@@ -1,6 +1,6 @@
 ---
 slug: "trm-new-ideals-in-education-2"
-id: "TRM-ENG-47055"
+id: "TRM-ENG-61584"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "New Ideals in Education, 2"

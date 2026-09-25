@@ -1,6 +1,6 @@
 ---
 slug: "trm-satisfy-his-own-selfish-needs-p-196"
-id: "TRM-ENG-43826"
+id: "TRM-ENG-58355"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "satisfy his own selfish needs” (p. 196)"

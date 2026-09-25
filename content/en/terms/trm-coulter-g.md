@@ -1,6 +1,6 @@
 ---
 slug: "trm-coulter-g"
-id: "TRM-ENG-40248"
+id: "TRM-ENG-54777"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Coulter G"

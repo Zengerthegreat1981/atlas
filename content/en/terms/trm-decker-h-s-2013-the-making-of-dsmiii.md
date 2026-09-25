@@ -1,6 +1,6 @@
 ---
 slug: "trm-decker-h-s-2013-the-making-of-dsmiii"
-id: "TRM-ENG-42372"
+id: "TRM-ENG-56901"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Decker, H. S. (2013). The making of DSM-III"

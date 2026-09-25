@@ -1,6 +1,6 @@
 ---
 slug: "trm-it-appears-that-at-the-end-of-the-1920s-or-the-begin-period"
-id: "TRM-ENG-46828"
+id: "TRM-ENG-61357"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "It appears that at the end of the 1920s or the begin- period"

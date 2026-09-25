@@ -1,6 +1,6 @@
 ---
 slug: "trm-alityinthreeways"
-id: "TRM-ENG-37501"
+id: "TRM-ENG-52030"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "alityinthreeways"

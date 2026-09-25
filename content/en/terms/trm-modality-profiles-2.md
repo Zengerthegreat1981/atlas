@@ -1,6 +1,6 @@
 ---
 slug: "trm-modality-profiles-2"
-id: "TRM-ENG-50753"
+id: "TRM-ENG-65282"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Modality profiles, 2"

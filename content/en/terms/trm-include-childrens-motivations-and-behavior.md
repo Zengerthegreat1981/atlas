@@ -1,6 +1,6 @@
 ---
 slug: "trm-include-childrens-motivations-and-behavior"
-id: "TRM-ENG-48172"
+id: "TRM-ENG-62701"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "include children’s motivations and behavior"

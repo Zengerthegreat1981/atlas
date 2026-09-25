@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-the-sense-of-agency"
-id: "TRM-ENG-44221"
+id: "TRM-ENG-58750"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to the sense of agency"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-slowing-down"
-id: "TRM-ENG-45305"
+id: "TRM-ENG-59834"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "slowing down"

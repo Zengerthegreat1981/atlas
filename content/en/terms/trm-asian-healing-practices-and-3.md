@@ -1,6 +1,6 @@
 ---
 slug: "trm-asian-healing-practices-and-3"
-id: "TRM-ENG-37627"
+id: "TRM-ENG-66685"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Asian healing practices and, 3"

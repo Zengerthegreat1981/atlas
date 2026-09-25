@@ -1,6 +1,6 @@
 ---
 slug: "trm-eds-clinical-neuropsychology-and-brain-function"
-id: "TRM-ENG-34560"
+id: "TRM-ENG-49089"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Eds.), Clinical neuropsychology and brain function"

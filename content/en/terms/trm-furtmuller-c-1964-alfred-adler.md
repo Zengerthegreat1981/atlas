@@ -1,6 +1,6 @@
 ---
 slug: "trm-furtmuller-c-1964-alfred-adler"
-id: "TRM-ENG-50452"
+id: "TRM-ENG-64981"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Furtmuller, C. (1964). Alfred Adler"

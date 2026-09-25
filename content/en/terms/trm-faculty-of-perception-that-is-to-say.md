@@ -1,6 +1,6 @@
 ---
 slug: "trm-faculty-of-perception-that-is-to-say"
-id: "TRM-ENG-37759"
+id: "TRM-ENG-52288"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "faculty of perception. That is to say"

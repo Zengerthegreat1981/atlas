@@ -1,6 +1,6 @@
 ---
 slug: "trm-fight"
-id: "TRM-ENG-44104"
+id: "TRM-ENG-58633"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "fight"

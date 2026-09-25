@@ -1,6 +1,6 @@
 ---
 slug: "trm-rockwell-wjk-pinkerton-rs"
-id: "TRM-ENG-42143"
+id: "TRM-ENG-56672"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rockwell WJK, Pinkerton RS"

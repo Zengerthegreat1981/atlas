@@ -1,6 +1,6 @@
 ---
 slug: "trm-chology-36"
-id: "TRM-ENG-48265"
+id: "TRM-ENG-62794"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chology 36"

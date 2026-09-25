@@ -1,6 +1,6 @@
 ---
 slug: "trm-s-modgil-eds-cultural-diversity-and-the-schools"
-id: "TRM-ENG-47218"
+id: "TRM-ENG-61747"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "S. Modgil (Eds.), Cultural diversity and the schools"

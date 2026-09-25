@@ -1,6 +1,6 @@
 ---
 slug: "trm-slater-p-microcosm"
-id: "TRM-ENG-44633"
+id: "TRM-ENG-59162"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Slater, P., Microcosm"

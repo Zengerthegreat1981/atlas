@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-part-of-patients-undergoing-surgery"
-id: "TRM-ENG-45587"
+id: "TRM-ENG-60116"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the part of patients undergoing surgery"

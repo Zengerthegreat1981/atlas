@@ -1,6 +1,6 @@
 ---
 slug: "trm-ogy-vol-4-pp-233294-boston"
-id: "TRM-ENG-35186"
+id: "TRM-ENG-64244"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ogy (Vol. 4, pp. 233-294). Boston"

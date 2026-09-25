@@ -1,6 +1,6 @@
 ---
 slug: "trm-sudden-change-in-worldview-and-a-decision-to-leave-the-cult-looming"
-id: "TRM-ENG-37043"
+id: "TRM-ENG-66101"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sudden change in worldview and a decision to leave the cult. looming"

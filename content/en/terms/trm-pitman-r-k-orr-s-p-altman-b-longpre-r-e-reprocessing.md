@@ -1,6 +1,6 @@
 ---
 slug: "trm-pitman-r-k-orr-s-p-altman-b-longpre-r-e-reprocessing"
-id: "TRM-ENG-49115"
+id: "TRM-ENG-63644"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pitman, R. K., Orr, S. P., Altman, B., Longpre, R. E., reprocessing"

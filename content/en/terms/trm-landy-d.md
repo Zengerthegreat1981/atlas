@@ -1,6 +1,6 @@
 ---
 slug: "trm-landy-d"
-id: "TRM-ENG-41357"
+id: "TRM-ENG-55886"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Landy D"

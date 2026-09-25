@@ -1,6 +1,6 @@
 ---
 slug: "trm-theoriginsofamericanintelligencetestingnewyork"
-id: "TRM-ENG-38331"
+id: "TRM-ENG-52860"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theoriginsofAmericanintelligencetesting.NewYork"

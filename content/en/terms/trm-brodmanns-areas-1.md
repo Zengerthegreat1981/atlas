@@ -1,6 +1,6 @@
 ---
 slug: "trm-brodmanns-areas-1"
-id: "TRM-ENG-44347"
+id: "TRM-ENG-58876"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brodmann’s areas, 1"

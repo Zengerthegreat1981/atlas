@@ -1,6 +1,6 @@
 ---
 slug: "trm-fourth-edition-waisiv-san-antonio-tx"
-id: "TRM-ENG-42391"
+id: "TRM-ENG-56920"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fourth Edition (WAIS-IV). San Antonio, TX"

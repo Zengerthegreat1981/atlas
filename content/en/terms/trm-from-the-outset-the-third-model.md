@@ -1,6 +1,6 @@
 ---
 slug: "trm-from-the-outset-the-third-model"
-id: "TRM-ENG-46653"
+id: "TRM-ENG-61182"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "From the outset, the third model"

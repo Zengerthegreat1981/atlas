@@ -1,6 +1,6 @@
 ---
 slug: "trm-1978-and-the-piano-theory-cf"
-id: "TRM-ENG-52469"
+id: "TRM-ENG-66998"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1978), and the piano theory (cf"

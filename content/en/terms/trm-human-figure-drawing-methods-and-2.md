@@ -1,6 +1,6 @@
 ---
 slug: "trm-human-figure-drawing-methods-and-2"
-id: "TRM-ENG-40418"
+id: "TRM-ENG-54947"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "human figure drawing methods and, 2"

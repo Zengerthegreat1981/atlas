@@ -1,6 +1,6 @@
 ---
 slug: "trm-personality-disorders-retrieved-february-12-2010-tion"
-id: "TRM-ENG-42490"
+id: "TRM-ENG-57019"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Personality disorders. Retrieved February 12, 2010, tion"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-self-and-otherdirected-human-aggression"
-id: "TRM-ENG-42527"
+id: "TRM-ENG-57056"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Self- and other-directed human aggression"

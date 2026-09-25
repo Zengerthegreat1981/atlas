@@ -1,6 +1,6 @@
 ---
 slug: "trm-meanorand-social-behavior"
-id: "TRM-ENG-43727"
+id: "TRM-ENG-58256"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "meanor,and social behavior."

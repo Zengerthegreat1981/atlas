@@ -1,6 +1,6 @@
 ---
 slug: "trm-involve-only-two-individuals"
-id: "TRM-ENG-43699"
+id: "TRM-ENG-58228"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "involve only two individuals"

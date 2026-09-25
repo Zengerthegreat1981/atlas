@@ -1,6 +1,6 @@
 ---
 slug: "trm-feedback-and-2"
-id: "TRM-ENG-40193"
+id: "TRM-ENG-54722"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "feedback and, 2"

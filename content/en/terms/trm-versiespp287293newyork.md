@@ -1,6 +1,6 @@
 ---
 slug: "trm-versiespp287293newyork"
-id: "TRM-ENG-38420"
+id: "TRM-ENG-52949"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "versies(pp.287–293).NewYork"

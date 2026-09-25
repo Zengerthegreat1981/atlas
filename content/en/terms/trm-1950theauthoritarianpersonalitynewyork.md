@@ -1,6 +1,6 @@
 ---
 slug: "trm-1950theauthoritarianpersonalitynewyork"
-id: "TRM-ENG-36391"
+id: "TRM-ENG-65449"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1950).Theauthoritarianpersonality.NewYork"

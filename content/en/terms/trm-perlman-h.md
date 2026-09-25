@@ -1,6 +1,6 @@
 ---
 slug: "trm-perlman-h"
-id: "TRM-ENG-41957"
+id: "TRM-ENG-56486"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Perlman H"

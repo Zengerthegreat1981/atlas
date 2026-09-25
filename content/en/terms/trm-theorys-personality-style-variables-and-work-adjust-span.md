@@ -1,6 +1,6 @@
 ---
 slug: "trm-theorys-personality-style-variables-and-work-adjust-span"
-id: "TRM-ENG-38336"
+id: "TRM-ENG-52865"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theory’s personality style variables and work adjust- span"

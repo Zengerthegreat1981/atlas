@@ -1,6 +1,6 @@
 ---
 slug: "trm-baselny"
-id: "TRM-ENG-36597"
+id: "TRM-ENG-65655"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Basel,NY"

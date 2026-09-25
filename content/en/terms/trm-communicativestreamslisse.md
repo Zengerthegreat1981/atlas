@@ -1,6 +1,6 @@
 ---
 slug: "trm-communicativestreamslisse"
-id: "TRM-ENG-37641"
+id: "TRM-ENG-66699"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "communicativestreams.Lisse"

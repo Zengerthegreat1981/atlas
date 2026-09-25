@@ -1,6 +1,6 @@
 ---
 slug: "trm-not-photographic"
-id: "TRM-ENG-35159"
+id: "TRM-ENG-49688"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "not photographic"

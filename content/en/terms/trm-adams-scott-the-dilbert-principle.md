@@ -1,6 +1,6 @@
 ---
 slug: "trm-adams-scott-the-dilbert-principle"
-id: "TRM-ENG-45740"
+id: "TRM-ENG-60269"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Adams, Scott. The Dilbert Principle"

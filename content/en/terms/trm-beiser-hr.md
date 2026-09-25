@@ -1,6 +1,6 @@
 ---
 slug: "trm-beiser-hr"
-id: "TRM-ENG-39849"
+id: "TRM-ENG-54378"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Beiser HR"

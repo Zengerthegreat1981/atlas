@@ -1,6 +1,6 @@
 ---
 slug: "trm-evans-b-i-b-f-skinner"
-id: "TRM-ENG-44376"
+id: "TRM-ENG-58905"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Evans, B. I., B. F. Skinner"

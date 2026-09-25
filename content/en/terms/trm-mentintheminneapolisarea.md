@@ -1,6 +1,6 @@
 ---
 slug: "trm-mentintheminneapolisarea"
-id: "TRM-ENG-37959"
+id: "TRM-ENG-67017"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mentintheMinneapolisarea"

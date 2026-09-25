@@ -1,6 +1,6 @@
 ---
 slug: "trm-career-style-interview-csi-and-4"
-id: "TRM-ENG-37785"
+id: "TRM-ENG-52314"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Career Style Interview (CSI) and, 4"

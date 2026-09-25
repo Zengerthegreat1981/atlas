@@ -1,6 +1,6 @@
 ---
 slug: "trm-csar-chvez-and-3"
-id: "TRM-ENG-37911"
+id: "TRM-ENG-66969"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "César Chávez and, 3"

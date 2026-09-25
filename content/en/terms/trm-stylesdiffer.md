@@ -1,6 +1,6 @@
 ---
 slug: "trm-stylesdiffer"
-id: "TRM-ENG-43884"
+id: "TRM-ENG-58413"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stylesdiffer"

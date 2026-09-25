@@ -1,6 +1,6 @@
 ---
 slug: "trm-antecedents-j-nerv-ment-dis-193"
-id: "TRM-ENG-48201"
+id: "TRM-ENG-62730"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "antecedents. J Nerv Ment Dis 193"

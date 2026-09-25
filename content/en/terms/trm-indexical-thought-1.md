@@ -1,6 +1,6 @@
 ---
 slug: "trm-indexical-thought-1"
-id: "TRM-ENG-45205"
+id: "TRM-ENG-59734"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "indexical thought, 1"

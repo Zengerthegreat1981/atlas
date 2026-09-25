@@ -1,6 +1,6 @@
 ---
 slug: "trm-stierlin-h"
-id: "TRM-ENG-42474"
+id: "TRM-ENG-57003"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stierlin H"

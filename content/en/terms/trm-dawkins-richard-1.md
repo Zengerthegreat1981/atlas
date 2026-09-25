@@ -1,6 +1,6 @@
 ---
 slug: "trm-dawkins-richard-1"
-id: "TRM-ENG-46490"
+id: "TRM-ENG-61019"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dawkins, Richard, 1"

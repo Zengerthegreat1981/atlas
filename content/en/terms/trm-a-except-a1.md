@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-except-a1"
-id: "TRM-ENG-43363"
+id: "TRM-ENG-57892"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "A except A1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-gross-r-olfson-m-gameroff-m-et-al"
-id: "TRM-ENG-47695"
+id: "TRM-ENG-62224"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gross R, Olfson M, Gameroff M, et al"

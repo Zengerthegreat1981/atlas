@@ -1,6 +1,6 @@
 ---
 slug: "trm-one-may-act-in-a-superior-manner"
-id: "TRM-ENG-36812"
+id: "TRM-ENG-51341"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "one may act in a superior manner"

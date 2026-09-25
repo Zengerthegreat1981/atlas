@@ -1,6 +1,6 @@
 ---
 slug: "trm-sonality-and-behavioral-functioning"
-id: "TRM-ENG-43232"
+id: "TRM-ENG-57761"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sonality and behavioral functioning"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-sodium-epilim-drugofchoice"
-id: "TRM-ENG-46722"
+id: "TRM-ENG-61251"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sodium Epilim Drugofchoice"

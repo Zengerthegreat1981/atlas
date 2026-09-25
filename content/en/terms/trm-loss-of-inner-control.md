@@ -1,6 +1,6 @@
 ---
 slug: "trm-loss-of-inner-control"
-id: "TRM-ENG-45139"
+id: "TRM-ENG-59668"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "loss of inner control"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-onedrop-rule-3"
-id: "TRM-ENG-38541"
+id: "TRM-ENG-53070"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "One-drop rule, 3"

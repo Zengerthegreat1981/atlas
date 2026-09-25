@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-outcomes-have-persisted-in-spite-of-increased-form"
-id: "TRM-ENG-48730"
+id: "TRM-ENG-63259"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social outcomes have persisted in spite of increased Form"

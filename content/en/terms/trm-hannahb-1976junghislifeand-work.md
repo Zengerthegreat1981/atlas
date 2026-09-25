@@ -1,6 +1,6 @@
 ---
 slug: "trm-hannahb-1976junghislifeand-work"
-id: "TRM-ENG-36878"
+id: "TRM-ENG-65936"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hannah,B. (1976).Jung,hislifeand work"

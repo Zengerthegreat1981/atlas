@@ -1,6 +1,6 @@
 ---
 slug: "trm-denote-a-state-of-mind-with-a-characteristic-feel"
-id: "TRM-ENG-45060"
+id: "TRM-ENG-59589"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "denote a state of mind with a characteristic feel"

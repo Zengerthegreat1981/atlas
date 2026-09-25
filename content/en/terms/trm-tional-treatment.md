@@ -1,6 +1,6 @@
 ---
 slug: "trm-tional-treatment"
-id: "TRM-ENG-43355"
+id: "TRM-ENG-57884"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tional treatment"

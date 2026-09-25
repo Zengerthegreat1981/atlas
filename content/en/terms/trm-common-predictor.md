@@ -1,6 +1,6 @@
 ---
 slug: "trm-common-predictor"
-id: "TRM-ENG-42738"
+id: "TRM-ENG-57267"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "common predictor"

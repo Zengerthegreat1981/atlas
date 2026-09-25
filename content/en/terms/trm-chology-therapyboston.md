@@ -1,6 +1,6 @@
 ---
 slug: "trm-chology-therapyboston"
-id: "TRM-ENG-36281"
+id: "TRM-ENG-50810"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chology, therapy.Boston"

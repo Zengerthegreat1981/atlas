@@ -1,6 +1,6 @@
 ---
 slug: "trm-association-for-supervision-and-curriculum-development"
-id: "TRM-ENG-39735"
+id: "TRM-ENG-54264"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Association for Supervision and Curriculum Development"

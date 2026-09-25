@@ -1,6 +1,6 @@
 ---
 slug: "trm-although-they-seem-to-be-asymptoting"
-id: "TRM-ENG-35630"
+id: "TRM-ENG-50159"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "although they seem to be asymptoting"

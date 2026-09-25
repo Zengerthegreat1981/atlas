@@ -1,6 +1,6 @@
 ---
 slug: "trm-spectives-pp-5187-new-york-ny"
-id: "TRM-ENG-43845"
+id: "TRM-ENG-58374"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "spectives (pp. 51–87). New York, NY"

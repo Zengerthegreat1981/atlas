@@ -1,6 +1,6 @@
 ---
 slug: "trm-tulsa-ok"
-id: "TRM-ENG-38943"
+id: "TRM-ENG-53472"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tulsa, OK"

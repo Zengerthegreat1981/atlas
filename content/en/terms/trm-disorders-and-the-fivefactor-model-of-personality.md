@@ -1,6 +1,6 @@
 ---
 slug: "trm-disorders-and-the-fivefactor-model-of-personality"
-id: "TRM-ENG-43670"
+id: "TRM-ENG-58199"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disorders and the five­factor model of personality"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-following-a-the-set-size"
-id: "TRM-ENG-45142"
+id: "TRM-ENG-59671"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "following: (a) the set size"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-voted-to-this-discipline"
-id: "TRM-ENG-37299"
+id: "TRM-ENG-66357"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "voted to this discipline"

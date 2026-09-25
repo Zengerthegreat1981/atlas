@@ -1,6 +1,6 @@
 ---
 slug: "trm-media-literacy-2"
-id: "TRM-ENG-48324"
+id: "TRM-ENG-62853"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "media literacy, 2"

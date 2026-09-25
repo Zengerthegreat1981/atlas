@@ -1,6 +1,6 @@
 ---
 slug: "trm-ple-seem-to-assume-derridas-philosophy"
-id: "TRM-ENG-48551"
+id: "TRM-ENG-63080"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ple seem to assume, Derrida’s philosophy"

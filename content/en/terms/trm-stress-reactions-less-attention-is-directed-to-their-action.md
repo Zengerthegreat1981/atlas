@@ -1,6 +1,6 @@
 ---
 slug: "trm-stress-reactions-less-attention-is-directed-to-their-action"
-id: "TRM-ENG-51846"
+id: "TRM-ENG-66375"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stress reactions, less attention is directed to their action"

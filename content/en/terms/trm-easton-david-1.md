@@ -1,6 +1,6 @@
 ---
 slug: "trm-easton-david-1"
-id: "TRM-ENG-46537"
+id: "TRM-ENG-61066"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Easton, David, 1"

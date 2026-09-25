@@ -1,6 +1,6 @@
 ---
 slug: "trm-modern-conditions"
-id: "TRM-ENG-45157"
+id: "TRM-ENG-59686"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "modern conditions"

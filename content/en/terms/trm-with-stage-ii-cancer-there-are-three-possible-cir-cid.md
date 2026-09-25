@@ -1,6 +1,6 @@
 ---
 slug: "trm-with-stage-ii-cancer-there-are-three-possible-cir-cid"
-id: "TRM-ENG-45998"
+id: "TRM-ENG-60527"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "With Stage II cancer, there are three possible cir- (cid"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-lion-people-in-the-united-states-have-some-form-cid"
-id: "TRM-ENG-46138"
+id: "TRM-ENG-60667"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lion people in the United States have some form (cid"

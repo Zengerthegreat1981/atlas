@@ -1,6 +1,6 @@
 ---
 slug: "trm-galton-f-1907-antechamber-of-consciousnesslondon"
-id: "TRM-ENG-35697"
+id: "TRM-ENG-50226"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Galton, F. (1907). Antechamber of consciousness.London"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-many-properties"
-id: "TRM-ENG-44085"
+id: "TRM-ENG-58614"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "many properties"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-isobhon-s-1990-sepulveda-epilepsy-education"
-id: "TRM-ENG-47075"
+id: "TRM-ENG-61604"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "isobhon, S. (1990). Sepulveda epilepsy education"

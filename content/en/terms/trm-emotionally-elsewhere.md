@@ -1,6 +1,6 @@
 ---
 slug: "trm-emotionally-elsewhere"
-id: "TRM-ENG-36394"
+id: "TRM-ENG-50923"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "emotionally elsewhere"

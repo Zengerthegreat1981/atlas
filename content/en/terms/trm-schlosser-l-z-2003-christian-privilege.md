@@ -1,6 +1,6 @@
 ---
 slug: "trm-schlosser-l-z-2003-christian-privilege"
-id: "TRM-ENG-38730"
+id: "TRM-ENG-53259"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schlosser, L. Z. (2003). Christian privilege"

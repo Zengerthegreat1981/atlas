@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavior-modification-1"
-id: "TRM-ENG-50150"
+id: "TRM-ENG-64679"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Behavior modification, 1"

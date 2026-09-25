@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychology-field-white"
-id: "TRM-ENG-41346"
+id: "TRM-ENG-55875"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychology field, White"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-cool-and-fun"
-id: "TRM-ENG-43978"
+id: "TRM-ENG-58507"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cool and fun"

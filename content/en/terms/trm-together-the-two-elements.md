@@ -1,6 +1,6 @@
 ---
 slug: "trm-together-the-two-elements"
-id: "TRM-ENG-48954"
+id: "TRM-ENG-63483"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "together the two elements"

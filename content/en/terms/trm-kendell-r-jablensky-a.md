@@ -1,6 +1,6 @@
 ---
 slug: "trm-kendell-r-jablensky-a"
-id: "TRM-ENG-47774"
+id: "TRM-ENG-62303"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kendell R, Jablensky A"

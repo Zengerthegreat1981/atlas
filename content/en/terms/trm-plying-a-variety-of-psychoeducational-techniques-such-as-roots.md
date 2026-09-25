@@ -1,6 +1,6 @@
 ---
 slug: "trm-plying-a-variety-of-psychoeducational-techniques-such-as-roots"
-id: "TRM-ENG-36872"
+id: "TRM-ENG-65930"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "plying a variety of psychoeducational techniques such as roots"

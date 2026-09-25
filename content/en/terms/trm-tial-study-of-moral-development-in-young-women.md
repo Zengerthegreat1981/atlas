@@ -1,6 +1,6 @@
 ---
 slug: "trm-tial-study-of-moral-development-in-young-women"
-id: "TRM-ENG-46054"
+id: "TRM-ENG-60583"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tial study of moral development in young women"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-diseaseinthewesterncollaborativegroupstudy"
-id: "TRM-ENG-46952"
+id: "TRM-ENG-61481"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "diseaseintheWesternCollaborativeGroupstudy"

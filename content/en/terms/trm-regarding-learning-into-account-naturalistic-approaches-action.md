@@ -1,6 +1,6 @@
 ---
 slug: "trm-regarding-learning-into-account-naturalistic-approaches-action"
-id: "TRM-ENG-36932"
+id: "TRM-ENG-51461"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "regarding learning into account. Naturalistic approaches action"

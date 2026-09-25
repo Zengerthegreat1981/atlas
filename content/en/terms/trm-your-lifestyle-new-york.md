@@ -1,6 +1,6 @@
 ---
 slug: "trm-your-lifestyle-new-york"
-id: "TRM-ENG-46007"
+id: "TRM-ENG-60536"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Your Life-Style. New York"

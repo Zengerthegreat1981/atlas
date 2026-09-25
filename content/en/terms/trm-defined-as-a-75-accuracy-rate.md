@@ -1,6 +1,6 @@
 ---
 slug: "trm-defined-as-a-75-accuracy-rate"
-id: "TRM-ENG-35752"
+id: "TRM-ENG-64810"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "defined as a 75% accuracy rate"

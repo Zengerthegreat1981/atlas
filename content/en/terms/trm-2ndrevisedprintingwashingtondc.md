@@ -1,6 +1,6 @@
 ---
 slug: "trm-2ndrevisedprintingwashingtondc"
-id: "TRM-ENG-36407"
+id: "TRM-ENG-50936"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2ndrevisedprinting).Washington,DC"

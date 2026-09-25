@@ -1,6 +1,6 @@
 ---
 slug: "trm-mckaughan-molly-the-biological-clock-new-york"
-id: "TRM-ENG-45885"
+id: "TRM-ENG-60414"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "McKaughan, Molly, The Biological Clock (New York"

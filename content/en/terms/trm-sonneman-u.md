@@ -1,6 +1,6 @@
 ---
 slug: "trm-sonneman-u"
-id: "TRM-ENG-42408"
+id: "TRM-ENG-56937"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sonneman U"

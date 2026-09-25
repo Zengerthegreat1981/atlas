@@ -1,6 +1,6 @@
 ---
 slug: "trm-mind-can-be-told-in-three-words"
-id: "TRM-ENG-37964"
+id: "TRM-ENG-67022"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mind can be told in three words"

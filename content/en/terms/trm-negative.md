@@ -1,6 +1,6 @@
 ---
 slug: "trm-negative"
-id: "TRM-ENG-44095"
+id: "TRM-ENG-58624"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "negative"

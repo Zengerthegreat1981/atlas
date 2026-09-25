@@ -1,6 +1,6 @@
 ---
 slug: "trm-agnosis-and-classification-of-psychopathology"
-id: "TRM-ENG-42593"
+id: "TRM-ENG-57122"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "agnosis and classification of psychopathology"

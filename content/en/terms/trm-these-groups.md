@@ -1,6 +1,6 @@
 ---
 slug: "trm-these-groups"
-id: "TRM-ENG-45376"
+id: "TRM-ENG-59905"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "these groups"

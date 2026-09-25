@@ -1,6 +1,6 @@
 ---
 slug: "trm-treatment-principles-and-guidelinesnew-york"
-id: "TRM-ENG-38939"
+id: "TRM-ENG-53468"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Treatment principles and guidelines.New York"

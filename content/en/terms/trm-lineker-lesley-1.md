@@ -1,6 +1,6 @@
 ---
 slug: "trm-lineker-lesley-1"
-id: "TRM-ENG-46929"
+id: "TRM-ENG-61458"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lineker, Lesley, 1"

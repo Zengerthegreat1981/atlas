@@ -1,6 +1,6 @@
 ---
 slug: "trm-hoganjdthompsond2003juneettadowney"
-id: "TRM-ENG-36906"
+id: "TRM-ENG-65964"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hogan,J.D.,&Thompson,D.(2003).JuneEttaDowney"

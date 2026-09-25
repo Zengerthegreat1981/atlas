@@ -1,6 +1,6 @@
 ---
 slug: "trm-lngle-a-sykes-b-2006-viktor-frankl"
-id: "TRM-ENG-50687"
+id: "TRM-ENG-65216"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Längle, A., & Sykes, B. (2006). Viktor Frankl"

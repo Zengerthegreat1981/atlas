@@ -1,6 +1,6 @@
 ---
 slug: "trm-raine-a-1991-the-spq"
-id: "TRM-ENG-42509"
+id: "TRM-ENG-57038"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Raine, A. (1991). The SPQ"

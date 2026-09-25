@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-influence-2"
-id: "TRM-ENG-44779"
+id: "TRM-ENG-59308"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Social influence, 2"

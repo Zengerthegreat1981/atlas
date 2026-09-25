@@ -1,6 +1,6 @@
 ---
 slug: "trm-burckhardt-jacob-1"
-id: "TRM-ENG-46342"
+id: "TRM-ENG-60871"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Burckhardt, Jacob, 1"

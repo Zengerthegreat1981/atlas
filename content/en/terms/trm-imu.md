@@ -1,6 +1,6 @@
 ---
 slug: "trm-imu"
-id: "TRM-ENG-52237"
+id: "TRM-ENG-66766"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Imu"

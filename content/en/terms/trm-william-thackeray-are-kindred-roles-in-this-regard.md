@@ -1,6 +1,6 @@
 ---
 slug: "trm-william-thackeray-are-kindred-roles-in-this-regard"
-id: "TRM-ENG-37438"
+id: "TRM-ENG-66496"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "William Thackeray are kindred roles in this regard"

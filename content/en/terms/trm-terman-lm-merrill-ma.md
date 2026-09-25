@@ -1,6 +1,6 @@
 ---
 slug: "trm-terman-lm-merrill-ma"
-id: "TRM-ENG-42560"
+id: "TRM-ENG-57089"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Terman LM, Merrill MA"

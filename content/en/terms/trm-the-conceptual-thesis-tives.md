@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-conceptual-thesis-tives"
-id: "TRM-ENG-47374"
+id: "TRM-ENG-61903"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The Conceptual Thesis tives"

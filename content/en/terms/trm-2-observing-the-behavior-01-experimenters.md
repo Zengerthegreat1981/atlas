@@ -1,6 +1,6 @@
 ---
 slug: "trm-2-observing-the-behavior-01-experimenters"
-id: "TRM-ENG-34605"
+id: "TRM-ENG-63663"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "2. Observing the behavior 01‘ experimenters"

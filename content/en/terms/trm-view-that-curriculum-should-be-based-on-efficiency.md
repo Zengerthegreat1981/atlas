@@ -1,6 +1,6 @@
 ---
 slug: "trm-view-that-curriculum-should-be-based-on-efficiency"
-id: "TRM-ENG-49016"
+id: "TRM-ENG-63545"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "view that curriculum should be based on efficiency"

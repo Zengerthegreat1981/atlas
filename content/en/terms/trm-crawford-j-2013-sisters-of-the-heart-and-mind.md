@@ -1,6 +1,6 @@
 ---
 slug: "trm-crawford-j-2013-sisters-of-the-heart-and-mind"
-id: "TRM-ENG-50297"
+id: "TRM-ENG-64826"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Crawford, J. (2013). Sisters of the heart and mind"

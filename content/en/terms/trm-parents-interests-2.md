@@ -1,6 +1,6 @@
 ---
 slug: "trm-parents-interests-2"
-id: "TRM-ENG-48516"
+id: "TRM-ENG-63045"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "parents’ interests, 2"

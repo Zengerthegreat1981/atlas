@@ -1,6 +1,6 @@
 ---
 slug: "trm-phobia-questionnaire-for-children-spq-c"
-id: "TRM-ENG-45920"
+id: "TRM-ENG-60449"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Phobia Questionnaire for Children (SPQ C)"

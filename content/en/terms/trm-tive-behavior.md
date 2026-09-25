@@ -1,6 +1,6 @@
 ---
 slug: "trm-tive-behavior"
-id: "TRM-ENG-37202"
+id: "TRM-ENG-66260"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tive behavior"

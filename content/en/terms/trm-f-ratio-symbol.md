@@ -1,6 +1,6 @@
 ---
 slug: "trm-f-ratio-symbol"
-id: "TRM-ENG-45527"
+id: "TRM-ENG-60056"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "F ratio (symbol"

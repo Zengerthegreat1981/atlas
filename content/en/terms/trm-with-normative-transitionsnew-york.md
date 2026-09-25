@@ -1,6 +1,6 @@
 ---
 slug: "trm-with-normative-transitionsnew-york"
-id: "TRM-ENG-37324"
+id: "TRM-ENG-51853"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "with normative transitions.New York"

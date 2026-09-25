@@ -1,6 +1,6 @@
 ---
 slug: "trm-perceived-selfefficacy-and-2"
-id: "TRM-ENG-41124"
+id: "TRM-ENG-55653"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "perceived self-efficacy and, 2"

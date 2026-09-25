@@ -1,6 +1,6 @@
 ---
 slug: "trm-munis-nat"
-id: "TRM-ENG-37097"
+id: "TRM-ENG-66155"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Muni’s Na¯t"

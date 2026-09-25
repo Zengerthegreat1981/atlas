@@ -1,6 +1,6 @@
 ---
 slug: "trm-140-wolfgang-m-weiner-na-eds"
-id: "TRM-ENG-38612"
+id: "TRM-ENG-53141"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "140. Wolfgang M, Weiner NA (eds)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-mcdonald-e"
-id: "TRM-ENG-41638"
+id: "TRM-ENG-56167"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "McDonald E"

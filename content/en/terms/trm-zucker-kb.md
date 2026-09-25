@@ -1,6 +1,6 @@
 ---
 slug: "trm-zucker-kb"
-id: "TRM-ENG-42927"
+id: "TRM-ENG-57456"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Zucker KB"

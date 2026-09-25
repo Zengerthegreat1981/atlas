@@ -1,6 +1,6 @@
 ---
 slug: "trm-56-hartmann-e"
-id: "TRM-ENG-39170"
+id: "TRM-ENG-53699"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "56. Hartmann E"

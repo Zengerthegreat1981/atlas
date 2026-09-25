@@ -1,6 +1,6 @@
 ---
 slug: "trm-19-deutsch-f"
-id: "TRM-ENG-38674"
+id: "TRM-ENG-53203"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "19. Deutsch F"

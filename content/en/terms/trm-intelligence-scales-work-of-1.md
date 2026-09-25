@@ -1,6 +1,6 @@
 ---
 slug: "trm-intelligence-scales-work-of-1"
-id: "TRM-ENG-40581"
+id: "TRM-ENG-55110"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "intelligence scales work of, 1"

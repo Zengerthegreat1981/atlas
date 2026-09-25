@@ -1,6 +1,6 @@
 ---
 slug: "trm-beck-at-young-je"
-id: "TRM-ENG-39836"
+id: "TRM-ENG-54365"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Beck AT, Young JE"

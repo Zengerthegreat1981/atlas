@@ -1,6 +1,6 @@
 ---
 slug: "trm-levay-a-kagle-a"
-id: "TRM-ENG-41415"
+id: "TRM-ENG-55944"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Levay A, Kagle A"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-heartburn-a-burning-sensation-in-the-upper-part-cid"
-id: "TRM-ENG-46106"
+id: "TRM-ENG-60635"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "heartburn A burning sensation in the upper part (cid"

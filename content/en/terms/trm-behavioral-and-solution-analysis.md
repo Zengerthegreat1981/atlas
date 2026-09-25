@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavioral-and-solution-analysis"
-id: "TRM-ENG-44056"
+id: "TRM-ENG-58585"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behavioral and solution analysis"

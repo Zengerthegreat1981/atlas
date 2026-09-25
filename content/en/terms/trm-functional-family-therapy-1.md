@@ -1,6 +1,6 @@
 ---
 slug: "trm-functional-family-therapy-1"
-id: "TRM-ENG-50450"
+id: "TRM-ENG-64979"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Functional family therapy, 1"

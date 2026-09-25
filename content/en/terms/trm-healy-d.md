@@ -1,6 +1,6 @@
 ---
 slug: "trm-healy-d"
-id: "TRM-ENG-47720"
+id: "TRM-ENG-62249"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Healy D"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-a-medical-encyclopedia"
-id: "TRM-ENG-36546"
+id: "TRM-ENG-65604"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in a medical encyclopedia"

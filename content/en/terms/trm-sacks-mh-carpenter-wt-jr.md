@@ -1,6 +1,6 @@
 ---
 slug: "trm-sacks-mh-carpenter-wt-jr"
-id: "TRM-ENG-42216"
+id: "TRM-ENG-56745"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sacks MH, Carpenter WT, Jr"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-brownell-kd-foreyt-jp"
-id: "TRM-ENG-40054"
+id: "TRM-ENG-54583"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brownell KD, Foreyt JP"

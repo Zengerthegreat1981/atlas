@@ -1,6 +1,6 @@
 ---
 slug: "trm-medical-visit"
-id: "TRM-ENG-35131"
+id: "TRM-ENG-64189"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "medical visit"

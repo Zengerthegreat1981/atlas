@@ -1,6 +1,6 @@
 ---
 slug: "trm-bjorklund-p-2000-assessing-ego-strength"
-id: "TRM-ENG-37701"
+id: "TRM-ENG-52230"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bjorklund, P. (2000). Assessing ego strength"

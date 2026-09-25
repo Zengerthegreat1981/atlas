@@ -1,6 +1,6 @@
 ---
 slug: "trm-envy-1"
-id: "TRM-ENG-44461"
+id: "TRM-ENG-58990"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Envy , 1"

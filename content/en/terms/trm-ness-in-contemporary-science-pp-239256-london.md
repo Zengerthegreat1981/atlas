@@ -1,6 +1,6 @@
 ---
 slug: "trm-ness-in-contemporary-science-pp-239256-london"
-id: "TRM-ENG-37992"
+id: "TRM-ENG-52521"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ness in contemporary science (pp. 239–256). London"

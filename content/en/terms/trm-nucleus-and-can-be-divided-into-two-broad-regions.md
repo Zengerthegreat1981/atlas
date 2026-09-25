@@ -1,6 +1,6 @@
 ---
 slug: "trm-nucleus-and-can-be-divided-into-two-broad-regions"
-id: "TRM-ENG-45339"
+id: "TRM-ENG-59868"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nucleus and can be divided into two broad regions"

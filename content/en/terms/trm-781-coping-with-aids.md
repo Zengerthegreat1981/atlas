@@ -1,6 +1,6 @@
 ---
 slug: "trm-781-coping-with-aids"
-id: "TRM-ENG-39433"
+id: "TRM-ENG-53962"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "781. Coping with Aids"

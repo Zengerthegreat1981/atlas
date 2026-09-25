@@ -1,6 +1,6 @@
 ---
 slug: "trm-277-van-praag-hm"
-id: "TRM-ENG-38810"
+id: "TRM-ENG-53339"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "277. Van Praag HM"

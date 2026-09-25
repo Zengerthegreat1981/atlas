@@ -1,6 +1,6 @@
 ---
 slug: "trm-however-familiar-noises-louder-than-95-dba"
-id: "TRM-ENG-35748"
+id: "TRM-ENG-64806"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "However, familiar noises louder than 95 dBA"

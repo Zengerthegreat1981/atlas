@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-personality-disorders-new-york-ny"
-id: "TRM-ENG-43777"
+id: "TRM-ENG-58306"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of personality disorders. New York, NY"

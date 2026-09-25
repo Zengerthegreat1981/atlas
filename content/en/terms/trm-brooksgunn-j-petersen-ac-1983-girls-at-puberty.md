@@ -1,6 +1,6 @@
 ---
 slug: "trm-brooksgunn-j-petersen-ac-1983-girls-at-puberty"
-id: "TRM-ENG-35606"
+id: "TRM-ENG-64664"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brooks-Gunn, J., & Petersen, A.C. (1983). Girls at puberty"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-figurescopenhagen"
-id: "TRM-ENG-37764"
+id: "TRM-ENG-66822"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "figures].Copenhagen"

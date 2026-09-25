@@ -1,6 +1,6 @@
 ---
 slug: "trm-minitheories-2"
-id: "TRM-ENG-51989"
+id: "TRM-ENG-66518"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“Mini-theories,” 2"

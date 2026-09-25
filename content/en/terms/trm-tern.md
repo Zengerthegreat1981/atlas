@@ -1,6 +1,6 @@
 ---
 slug: "trm-tern"
-id: "TRM-ENG-37088"
+id: "TRM-ENG-66146"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tern"

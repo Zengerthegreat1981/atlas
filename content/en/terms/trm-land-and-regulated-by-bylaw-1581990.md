@@ -1,6 +1,6 @@
 ---
 slug: "trm-land-and-regulated-by-bylaw-1581990"
-id: "TRM-ENG-36616"
+id: "TRM-ENG-65674"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "land and regulated by bylaw #158/1990"

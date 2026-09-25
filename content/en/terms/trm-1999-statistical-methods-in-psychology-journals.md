@@ -1,6 +1,6 @@
 ---
 slug: "trm-1999-statistical-methods-in-psychology-journals"
-id: "TRM-ENG-44246"
+id: "TRM-ENG-58775"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1999). Statistical methods in psychology journals"

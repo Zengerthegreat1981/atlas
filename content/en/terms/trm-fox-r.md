@@ -1,6 +1,6 @@
 ---
 slug: "trm-fox-r"
-id: "TRM-ENG-40577"
+id: "TRM-ENG-55106"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fox R"

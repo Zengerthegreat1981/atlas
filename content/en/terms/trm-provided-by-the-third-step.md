@@ -1,6 +1,6 @@
 ---
 slug: "trm-provided-by-the-third-step"
-id: "TRM-ENG-43809"
+id: "TRM-ENG-58338"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "provided by the third step"

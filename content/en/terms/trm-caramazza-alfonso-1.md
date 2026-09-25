@@ -1,6 +1,6 @@
 ---
 slug: "trm-caramazza-alfonso-1"
-id: "TRM-ENG-44367"
+id: "TRM-ENG-58896"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Caramazza, Alfonso, 1"

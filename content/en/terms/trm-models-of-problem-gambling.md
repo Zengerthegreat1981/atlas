@@ -1,6 +1,6 @@
 ---
 slug: "trm-models-of-problem-gambling"
-id: "TRM-ENG-35845"
+id: "TRM-ENG-64903"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Models of Problem Gambling"

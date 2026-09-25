@@ -1,6 +1,6 @@
 ---
 slug: "trm-information-units"
-id: "TRM-ENG-34888"
+id: "TRM-ENG-63946"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "information units"

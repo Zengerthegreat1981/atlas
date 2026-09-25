@@ -1,6 +1,6 @@
 ---
 slug: "trm-myrick-rd-moni-ls"
-id: "TRM-ENG-41812"
+id: "TRM-ENG-56341"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Myrick RD, Moni LS"

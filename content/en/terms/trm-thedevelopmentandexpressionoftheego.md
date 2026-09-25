@@ -1,6 +1,6 @@
 ---
 slug: "trm-thedevelopmentandexpressionoftheego"
-id: "TRM-ENG-43906"
+id: "TRM-ENG-58435"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thedevelopmentandexpressionoftheego"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavior-boston"
-id: "TRM-ENG-51294"
+id: "TRM-ENG-65823"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behavior. Boston"

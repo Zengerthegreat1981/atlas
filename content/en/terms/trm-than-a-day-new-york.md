@@ -1,6 +1,6 @@
 ---
 slug: "trm-than-a-day-new-york"
-id: "TRM-ENG-35368"
+id: "TRM-ENG-64426"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "than a day. New York"

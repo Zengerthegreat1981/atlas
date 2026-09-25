@@ -1,6 +1,6 @@
 ---
 slug: "trm-158-piven-f-cloward-ra"
-id: "TRM-ENG-38634"
+id: "TRM-ENG-53163"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "158. Piven F, Cloward RA"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-vaillant-ge"
-id: "TRM-ENG-42658"
+id: "TRM-ENG-57187"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Vaillant GE"

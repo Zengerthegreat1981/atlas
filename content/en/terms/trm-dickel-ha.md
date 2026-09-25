@@ -1,6 +1,6 @@
 ---
 slug: "trm-dickel-ha"
-id: "TRM-ENG-40350"
+id: "TRM-ENG-54879"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dickel HA"

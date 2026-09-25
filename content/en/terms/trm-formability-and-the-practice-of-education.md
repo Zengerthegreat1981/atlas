@@ -1,6 +1,6 @@
 ---
 slug: "trm-formability-and-the-practice-of-education"
-id: "TRM-ENG-46129"
+id: "TRM-ENG-60658"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(formability), and the practice of education"

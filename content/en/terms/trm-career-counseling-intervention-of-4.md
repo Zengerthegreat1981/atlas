@@ -1,6 +1,6 @@
 ---
 slug: "trm-career-counseling-intervention-of-4"
-id: "TRM-ENG-39412"
+id: "TRM-ENG-53941"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "career counseling intervention of, 4"

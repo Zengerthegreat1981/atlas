@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-mowrer-oh-ed"
-id: "TRM-ENG-43072"
+id: "TRM-ENG-57601"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in Mowrer OH (ed)"

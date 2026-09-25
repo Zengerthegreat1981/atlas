@@ -1,6 +1,6 @@
 ---
 slug: "trm-nelson-kj-schulz-sc"
-id: "TRM-ENG-47890"
+id: "TRM-ENG-62419"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nelson KJ, Schulz SC"

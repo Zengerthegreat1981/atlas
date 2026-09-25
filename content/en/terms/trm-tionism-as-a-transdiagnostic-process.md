@@ -1,6 +1,6 @@
 ---
 slug: "trm-tionism-as-a-transdiagnostic-process"
-id: "TRM-ENG-43358"
+id: "TRM-ENG-57887"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tionism as a transdiagnostic process"

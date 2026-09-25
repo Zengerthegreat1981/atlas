@@ -1,6 +1,6 @@
 ---
 slug: "trm-ones"
-id: "TRM-ENG-45976"
+id: "TRM-ENG-60505"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ones"

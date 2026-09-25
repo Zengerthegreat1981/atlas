@@ -1,6 +1,6 @@
 ---
 slug: "trm-salzingerhasbeenaprolificwriterandspeaker"
-id: "TRM-ENG-37253"
+id: "TRM-ENG-66311"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Salzingerhasbeenaprolificwriterandspeaker"

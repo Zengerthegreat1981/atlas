@@ -1,6 +1,6 @@
 ---
 slug: "trm-erally-divided-into-three-areas"
-id: "TRM-ENG-45499"
+id: "TRM-ENG-60028"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "erally divided into three areas"

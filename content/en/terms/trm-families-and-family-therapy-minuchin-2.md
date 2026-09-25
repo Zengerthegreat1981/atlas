@@ -1,6 +1,6 @@
 ---
 slug: "trm-families-and-family-therapy-minuchin-2"
-id: "TRM-ENG-50382"
+id: "TRM-ENG-64911"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Families and Family Therapy (Minuchin), 2"

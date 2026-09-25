@@ -1,6 +1,6 @@
 ---
 slug: "trm-goldberg-hl"
-id: "TRM-ENG-40744"
+id: "TRM-ENG-55273"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goldberg HL"

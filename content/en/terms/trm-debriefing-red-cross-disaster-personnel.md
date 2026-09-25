@@ -1,6 +1,6 @@
 ---
 slug: "trm-debriefing-red-cross-disaster-personnel"
-id: "TRM-ENG-48959"
+id: "TRM-ENG-63488"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Debriefing Red Cross disaster personnel"

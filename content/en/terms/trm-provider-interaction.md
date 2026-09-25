@@ -1,6 +1,6 @@
 ---
 slug: "trm-provider-interaction"
-id: "TRM-ENG-47225"
+id: "TRM-ENG-61754"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "provider interaction"

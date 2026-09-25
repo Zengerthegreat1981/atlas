@@ -1,6 +1,6 @@
 ---
 slug: "trm-anintensiveornonintensivecareunit"
-id: "TRM-ENG-46831"
+id: "TRM-ENG-61360"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "anintensiveornon-intensivecareunit"

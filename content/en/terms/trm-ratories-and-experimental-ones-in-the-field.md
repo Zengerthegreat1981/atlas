@@ -1,6 +1,6 @@
 ---
 slug: "trm-ratories-and-experimental-ones-in-the-field"
-id: "TRM-ENG-36060"
+id: "TRM-ENG-65118"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ratories and experimental ones in the field"

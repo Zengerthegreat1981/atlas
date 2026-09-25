@@ -1,6 +1,6 @@
 ---
 slug: "trm-duction-to-behavioral-epigenetics-new-york"
-id: "TRM-ENG-42791"
+id: "TRM-ENG-57320"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "duction to behavioral epigenetics. New York"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-mind"
-id: "TRM-ENG-45359"
+id: "TRM-ENG-59888"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the mind”"

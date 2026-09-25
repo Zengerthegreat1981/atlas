@@ -1,6 +1,6 @@
 ---
 slug: "trm-g-and-1"
-id: "TRM-ENG-37391"
+id: "TRM-ENG-66449"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(G) and, 1"

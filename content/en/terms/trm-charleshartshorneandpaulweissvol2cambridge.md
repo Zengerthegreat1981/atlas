@@ -1,6 +1,6 @@
 ---
 slug: "trm-charleshartshorneandpaulweissvol2cambridge"
-id: "TRM-ENG-45669"
+id: "TRM-ENG-60198"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "CharlesHartshorneandPaulWeiss,vol.2.Cambridge"

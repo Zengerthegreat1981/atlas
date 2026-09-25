@@ -1,6 +1,6 @@
 ---
 slug: "trm-judgment-of-situated-agents"
-id: "TRM-ENG-48245"
+id: "TRM-ENG-62774"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "judgment of situated agents"

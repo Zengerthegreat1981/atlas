@@ -1,6 +1,6 @@
 ---
 slug: "trm-brennan-2001a-for-details-interaction-cid"
-id: "TRM-ENG-35326"
+id: "TRM-ENG-49855"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brennan, 2001a, for details). interaction ((cid"

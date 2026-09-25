@@ -1,6 +1,6 @@
 ---
 slug: "trm-basic-behavioral-repertoires-bbrs-and-2"
-id: "TRM-ENG-39313"
+id: "TRM-ENG-53842"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "basic behavioral repertoires (BBRs) and, 2"

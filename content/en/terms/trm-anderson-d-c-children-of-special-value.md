@@ -1,6 +1,6 @@
 ---
 slug: "trm-anderson-d-c-children-of-special-value"
-id: "TRM-ENG-44252"
+id: "TRM-ENG-58781"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Anderson, D. C., Children of Special Value"

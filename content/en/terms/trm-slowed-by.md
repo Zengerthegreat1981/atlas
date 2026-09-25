@@ -1,6 +1,6 @@
 ---
 slug: "trm-slowed-by"
-id: "TRM-ENG-37008"
+id: "TRM-ENG-66066"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "slowed by"

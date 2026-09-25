@@ -1,6 +1,6 @@
 ---
 slug: "trm-classes-associated-with-abuse-or-dependence"
-id: "TRM-ENG-34941"
+id: "TRM-ENG-63999"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "classes associated with abuse or dependence"

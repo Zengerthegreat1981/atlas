@@ -1,6 +1,6 @@
 ---
 slug: "trm-eyemovementdesensitizationandreprocessing"
-id: "TRM-ENG-49430"
+id: "TRM-ENG-63959"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "eye-movementdesensitizationandreprocessing"

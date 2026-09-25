@@ -1,6 +1,6 @@
 ---
 slug: "trm-classical-psychoanalytic-approaches-1"
-id: "TRM-ENG-51333"
+id: "TRM-ENG-65862"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "classical psychoanalytic approaches, 1"

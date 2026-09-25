@@ -1,6 +1,6 @@
 ---
 slug: "trm-bal-s-de-bourdeaudhuij-i-crombez-g-van-oost-p-of-incest"
-id: "TRM-ENG-37662"
+id: "TRM-ENG-52191"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bal, S., de Bourdeaudhuij, I., Crombez, G., & van Oost, P. of incest"

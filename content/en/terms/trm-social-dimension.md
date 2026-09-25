@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-dimension"
-id: "TRM-ENG-36292"
+id: "TRM-ENG-50821"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Social Dimension"

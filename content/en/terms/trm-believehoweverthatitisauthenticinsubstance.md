@@ -1,6 +1,6 @@
 ---
 slug: "trm-believehoweverthatitisauthenticinsubstance"
-id: "TRM-ENG-45856"
+id: "TRM-ENG-60385"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "believe,however,thatitisauthenticinsubstance"

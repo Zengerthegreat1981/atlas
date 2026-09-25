@@ -1,6 +1,6 @@
 ---
 slug: "trm-herbartianism-1"
-id: "TRM-ENG-46757"
+id: "TRM-ENG-61286"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Herbartianism, 1"

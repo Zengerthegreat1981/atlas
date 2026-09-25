@@ -1,6 +1,6 @@
 ---
 slug: "trm-tononi-g-2012-phi"
-id: "TRM-ENG-34706"
+id: "TRM-ENG-63764"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tononi, G. (2012). Phi"

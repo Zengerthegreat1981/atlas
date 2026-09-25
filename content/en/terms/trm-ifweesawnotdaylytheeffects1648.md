@@ -1,6 +1,6 @@
 ---
 slug: "trm-ifweesawnotdaylytheeffects1648"
-id: "TRM-ENG-37836"
+id: "TRM-ENG-66894"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ifweesawnotdaylytheeffects.(1648"

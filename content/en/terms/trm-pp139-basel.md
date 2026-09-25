@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp139-basel"
-id: "TRM-ENG-35507"
+id: "TRM-ENG-64565"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp.1–39). Basel"

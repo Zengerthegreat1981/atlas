@@ -1,6 +1,6 @@
 ---
 slug: "trm-workerwithchronicpain"
-id: "TRM-ENG-47388"
+id: "TRM-ENG-61917"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "workerwithchronicpain"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-foundationsandplanningconstructioninrmperezkdebord-psychology"
-id: "TRM-ENG-37778"
+id: "TRM-ENG-66836"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "foundationsandplanningconstruction.InR.M.Perez,K.DeBord, psychology"

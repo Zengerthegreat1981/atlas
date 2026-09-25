@@ -1,6 +1,6 @@
 ---
 slug: "trm-related-fields4th-ed-pp11071134-baltimore"
-id: "TRM-ENG-36934"
+id: "TRM-ENG-51463"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "related fields(4th ed., pp.1107–1134). Baltimore"

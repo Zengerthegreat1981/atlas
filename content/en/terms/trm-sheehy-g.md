@@ -1,6 +1,6 @@
 ---
 slug: "trm-sheehy-g"
-id: "TRM-ENG-42334"
+id: "TRM-ENG-56863"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sheehy G"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-bioethics-1-4044-doi"
-id: "TRM-ENG-35985"
+id: "TRM-ENG-65043"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of Bioethics, 1, 40–44. doi"

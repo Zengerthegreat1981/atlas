@@ -1,6 +1,6 @@
 ---
 slug: "trm-multiple-intelligences-new-york-ny"
-id: "TRM-ENG-48384"
+id: "TRM-ENG-62913"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "multiple intelligences. New York, NY"

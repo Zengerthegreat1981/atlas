@@ -1,6 +1,6 @@
 ---
 slug: "trm-soo-es"
-id: "TRM-ENG-42409"
+id: "TRM-ENG-56938"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Soo ES"

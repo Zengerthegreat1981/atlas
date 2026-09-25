@@ -1,6 +1,6 @@
 ---
 slug: "trm-sent-and-future"
-id: "TRM-ENG-38243"
+id: "TRM-ENG-52772"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sent and Future"

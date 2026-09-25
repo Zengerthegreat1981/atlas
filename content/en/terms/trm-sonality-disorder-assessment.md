@@ -1,6 +1,6 @@
 ---
 slug: "trm-sonality-disorder-assessment"
-id: "TRM-ENG-43235"
+id: "TRM-ENG-57764"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sonality disorder assessment"

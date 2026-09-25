@@ -1,6 +1,6 @@
 ---
 slug: "trm-koegler-r-brill-q"
-id: "TRM-ENG-41275"
+id: "TRM-ENG-55804"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Koegler R, Brill Q"

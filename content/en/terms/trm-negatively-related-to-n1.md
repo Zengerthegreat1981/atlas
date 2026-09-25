@@ -1,6 +1,6 @@
 ---
 slug: "trm-negatively-related-to-n1"
-id: "TRM-ENG-43747"
+id: "TRM-ENG-58276"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "negatively related to N1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-chophysiology-pp-367418-new-york-ny"
-id: "TRM-ENG-35716"
+id: "TRM-ENG-50245"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chophysiology (pp. 367–418). New York, NY"

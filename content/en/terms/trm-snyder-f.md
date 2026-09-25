@@ -1,6 +1,6 @@
 ---
 slug: "trm-snyder-f"
-id: "TRM-ENG-42388"
+id: "TRM-ENG-56917"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Snyder F"

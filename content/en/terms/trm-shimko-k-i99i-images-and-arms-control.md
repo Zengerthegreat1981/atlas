@@ -1,6 +1,6 @@
 ---
 slug: "trm-shimko-k-i99i-images-and-arms-control"
-id: "TRM-ENG-34789"
+id: "TRM-ENG-63847"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shimko, K. (I99I). Images and arms control"

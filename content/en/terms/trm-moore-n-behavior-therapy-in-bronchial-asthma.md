@@ -1,6 +1,6 @@
 ---
 slug: "trm-moore-n-behavior-therapy-in-bronchial-asthma"
-id: "TRM-ENG-44538"
+id: "TRM-ENG-59067"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Moore, N., “Behavior Therapy in Bronchial Asthma"

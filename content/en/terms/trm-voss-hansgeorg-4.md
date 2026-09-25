@@ -1,6 +1,6 @@
 ---
 slug: "trm-voss-hansgeorg-4"
-id: "TRM-ENG-38989"
+id: "TRM-ENG-53518"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Voss, Hans-Georg, 4"

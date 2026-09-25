@@ -1,6 +1,6 @@
 ---
 slug: "trm-426-hilgard-er"
-id: "TRM-ENG-39014"
+id: "TRM-ENG-53543"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "426. Hilgard ER"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-davis-je"
-id: "TRM-ENG-40307"
+id: "TRM-ENG-54836"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Davis JE"

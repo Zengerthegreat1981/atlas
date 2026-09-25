@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-sum-up"
-id: "TRM-ENG-44673"
+id: "TRM-ENG-59202"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "To sum up"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-bellamy-and-edited-by-richard-bellamy-cambridge"
-id: "TRM-ENG-45661"
+id: "TRM-ENG-60190"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bellamy, and edited by Richard Bellamy. Cambridge"

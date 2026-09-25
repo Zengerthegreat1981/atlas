@@ -1,6 +1,6 @@
 ---
 slug: "trm-master-career-counselors-or-specialize-in-career-directions"
-id: "TRM-ENG-37416"
+id: "TRM-ENG-51945"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Master Career Counselors), or specialize in career directions"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-mathematical-psychology-stanford-ca"
-id: "TRM-ENG-52574"
+id: "TRM-ENG-67103"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in mathematical psychology. Stanford, CA"

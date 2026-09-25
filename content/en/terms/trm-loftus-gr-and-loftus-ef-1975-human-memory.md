@@ -1,6 +1,6 @@
 ---
 slug: "trm-loftus-gr-and-loftus-ef-1975-human-memory"
-id: "TRM-ENG-45478"
+id: "TRM-ENG-60007"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Loftus, G.R. and Loftus, E.F. (1975) Human Memory"

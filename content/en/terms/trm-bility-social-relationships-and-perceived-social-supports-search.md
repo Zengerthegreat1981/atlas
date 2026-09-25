@@ -1,6 +1,6 @@
 ---
 slug: "trm-bility-social-relationships-and-perceived-social-supports-search"
-id: "TRM-ENG-36213"
+id: "TRM-ENG-65271"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bility, social relationships, and perceived social supports. search"

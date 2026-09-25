@@ -1,6 +1,6 @@
 ---
 slug: "trm-addiction-1"
-id: "TRM-ENG-44877"
+id: "TRM-ENG-59406"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "addiction, 1"

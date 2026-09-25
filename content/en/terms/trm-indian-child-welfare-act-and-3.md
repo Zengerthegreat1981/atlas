@@ -1,6 +1,6 @@
 ---
 slug: "trm-indian-child-welfare-act-and-3"
-id: "TRM-ENG-38223"
+id: "TRM-ENG-52752"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Indian Child Welfare Act and, 3"

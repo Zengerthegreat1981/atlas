@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychoanalytic-association-49-855890-doi"
-id: "TRM-ENG-50887"
+id: "TRM-ENG-65416"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychoanalytic Association, 49, 855–890. doi"

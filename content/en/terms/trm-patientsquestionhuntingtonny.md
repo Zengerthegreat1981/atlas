@@ -1,6 +1,6 @@
 ---
 slug: "trm-patientsquestionhuntingtonny"
-id: "TRM-ENG-47189"
+id: "TRM-ENG-61718"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "patients'question.Huntington,NY"

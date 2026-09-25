@@ -1,6 +1,6 @@
 ---
 slug: "trm-ment-video-feedback-is-thus-applied-in-many-ways"
-id: "TRM-ENG-36705"
+id: "TRM-ENG-65763"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ment. Video feedback is thus applied in many ways"

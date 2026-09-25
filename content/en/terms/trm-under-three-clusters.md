@@ -1,6 +1,6 @@
 ---
 slug: "trm-under-three-clusters"
-id: "TRM-ENG-42071"
+id: "TRM-ENG-56600"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "under three clusters"

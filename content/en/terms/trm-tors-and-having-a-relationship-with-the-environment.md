@@ -1,6 +1,6 @@
 ---
 slug: "trm-tors-and-having-a-relationship-with-the-environment"
-id: "TRM-ENG-41995"
+id: "TRM-ENG-56524"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tors, and having a relationship with the environment"

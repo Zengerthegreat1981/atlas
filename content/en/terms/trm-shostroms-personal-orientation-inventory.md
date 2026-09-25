@@ -1,6 +1,6 @@
 ---
 slug: "trm-shostroms-personal-orientation-inventory"
-id: "TRM-ENG-37292"
+id: "TRM-ENG-51821"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shostrom’s Personal Orientation Inventory"

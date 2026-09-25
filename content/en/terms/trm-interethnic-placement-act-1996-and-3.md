@@ -1,6 +1,6 @@
 ---
 slug: "trm-interethnic-placement-act-1996-and-3"
-id: "TRM-ENG-38246"
+id: "TRM-ENG-52775"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Interethnic Placement Act (1996) and, 3"

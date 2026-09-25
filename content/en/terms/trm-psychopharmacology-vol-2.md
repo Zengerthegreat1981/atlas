@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychopharmacology-vol-2"
-id: "TRM-ENG-49662"
+id: "TRM-ENG-64191"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychopharmacology. Vol 2"

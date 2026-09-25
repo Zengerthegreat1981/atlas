@@ -1,6 +1,6 @@
 ---
 slug: "trm-trauma-262263-10021003-vietnam-war-veterans"
-id: "TRM-ENG-36028"
+id: "TRM-ENG-65086"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Trauma, 262–263, 1002–1003 Vietnam War veterans"

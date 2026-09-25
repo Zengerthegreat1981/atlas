@@ -1,6 +1,6 @@
 ---
 slug: "trm-task-greenwald-mcghee-schwartz-1998"
-id: "TRM-ENG-36154"
+id: "TRM-ENG-65212"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "task (Greenwald, McGhee, & Schwartz, 1998)"

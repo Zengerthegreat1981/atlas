@@ -1,6 +1,6 @@
 ---
 slug: "trm-black-m-1946-critical-thinking-englewood-cliffs-nj"
-id: "TRM-ENG-46323"
+id: "TRM-ENG-60852"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Black, M. (1946). Critical thinking. Englewood Cliffs, NJ"

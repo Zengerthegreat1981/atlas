@@ -1,6 +1,6 @@
 ---
 slug: "trm-depressive-neurosis-30040-atypical-disorders"
-id: "TRM-ENG-43011"
+id: "TRM-ENG-57540"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "depressive neurosis] 300.40; Atypical Disorders"

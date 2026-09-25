@@ -1,6 +1,6 @@
 ---
 slug: "trm-native-americans-and-3"
-id: "TRM-ENG-38492"
+id: "TRM-ENG-53021"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Native Americans and, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-moderate-impairment"
-id: "TRM-ENG-44142"
+id: "TRM-ENG-58671"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "moderate impairment"

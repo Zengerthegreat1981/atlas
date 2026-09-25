@@ -1,6 +1,6 @@
 ---
 slug: "trm-adorno-t-w-1991-alban-berg"
-id: "TRM-ENG-36531"
+id: "TRM-ENG-51060"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Adorno, T. W. (1991). Alban Berg"

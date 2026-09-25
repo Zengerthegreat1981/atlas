@@ -1,6 +1,6 @@
 ---
 slug: "trm-ludwig-am-levine-j"
-id: "TRM-ENG-41524"
+id: "TRM-ENG-56053"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ludwig AM, Levine J"

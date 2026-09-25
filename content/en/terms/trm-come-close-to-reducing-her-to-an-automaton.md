@@ -1,6 +1,6 @@
 ---
 slug: "trm-come-close-to-reducing-her-to-an-automaton"
-id: "TRM-ENG-37638"
+id: "TRM-ENG-52167"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "come close to reducing her to an automaton"

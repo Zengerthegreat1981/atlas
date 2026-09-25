@@ -1,6 +1,6 @@
 ---
 slug: "trm-different-personality-types"
-id: "TRM-ENG-44985"
+id: "TRM-ENG-59514"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "different personality types"

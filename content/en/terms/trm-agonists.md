@@ -1,6 +1,6 @@
 ---
 slug: "trm-agonists"
-id: "TRM-ENG-43511"
+id: "TRM-ENG-58040"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "agonists"

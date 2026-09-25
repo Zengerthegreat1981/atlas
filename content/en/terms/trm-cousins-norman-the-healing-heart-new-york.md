@@ -1,6 +1,6 @@
 ---
 slug: "trm-cousins-norman-the-healing-heart-new-york"
-id: "TRM-ENG-45787"
+id: "TRM-ENG-60316"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cousins, Norman. The Healing Heart. New York"

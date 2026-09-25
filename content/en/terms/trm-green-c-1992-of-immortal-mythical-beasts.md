@@ -1,6 +1,6 @@
 ---
 slug: "trm-green-c-1992-of-immortal-mythical-beasts"
-id: "TRM-ENG-36857"
+id: "TRM-ENG-51386"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Green, C. (1992). Of immortal mythical beasts"

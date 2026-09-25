@@ -1,6 +1,6 @@
 ---
 slug: "trm-freedman-j-combs-g-1996-shifting-paradigms"
-id: "TRM-ENG-50432"
+id: "TRM-ENG-64961"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Freedman, J., & Combs, G. (1996). Shifting paradigms"

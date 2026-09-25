@@ -1,6 +1,6 @@
 ---
 slug: "trm-understanding-2"
-id: "TRM-ENG-48994"
+id: "TRM-ENG-63523"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "understanding, 2"

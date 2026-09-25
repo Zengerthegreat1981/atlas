@@ -1,6 +1,6 @@
 ---
 slug: "trm-acriminalpsychopathnewyork"
-id: "TRM-ENG-37480"
+id: "TRM-ENG-52009"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "acriminalpsychopath.NewYork"

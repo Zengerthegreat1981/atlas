@@ -1,6 +1,6 @@
 ---
 slug: "trm-freud-a-1969a-difficulties-in-the-path-of-a-psychoanalysis"
-id: "TRM-ENG-36817"
+id: "TRM-ENG-51346"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Freud, A. (1969a). Difficulties in the path of a psychoanalysis"

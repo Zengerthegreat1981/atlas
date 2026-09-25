@@ -1,6 +1,6 @@
 ---
 slug: "trm-colby-km"
-id: "TRM-ENG-40211"
+id: "TRM-ENG-54740"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Colby KM"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-interpersonal-hypersensitivity-phenotype"
-id: "TRM-ENG-42922"
+id: "TRM-ENG-57451"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "interpersonal hypersensitivity phenotype"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ner-aspect-of-this-distortion-he-called-personifications"
-id: "TRM-ENG-36744"
+id: "TRM-ENG-65802"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ner aspect of this distortion he called personifications"

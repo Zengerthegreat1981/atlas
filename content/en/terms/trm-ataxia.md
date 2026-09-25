@@ -1,6 +1,6 @@
 ---
 slug: "trm-ataxia"
-id: "TRM-ENG-43545"
+id: "TRM-ENG-58074"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ataxia."

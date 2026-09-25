@@ -1,6 +1,6 @@
 ---
 slug: "trm-attention19922000ncj-194530-washington-dc"
-id: "TRM-ENG-39289"
+id: "TRM-ENG-53818"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "attention,1992–2000.NCJ 194530. Washington, DC"

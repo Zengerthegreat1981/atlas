@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognitivecommunication-systems-theory-of-3"
-id: "TRM-ENG-39569"
+id: "TRM-ENG-54098"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cognitive/communication systems theory of, 3"

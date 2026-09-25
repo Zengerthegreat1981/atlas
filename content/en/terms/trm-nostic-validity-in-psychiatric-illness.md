@@ -1,6 +1,6 @@
 ---
 slug: "trm-nostic-validity-in-psychiatric-illness"
-id: "TRM-ENG-48473"
+id: "TRM-ENG-63002"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nostic validity in psychiatric illness"

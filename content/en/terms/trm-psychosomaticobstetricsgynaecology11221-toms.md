@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychosomaticobstetricsgynaecology11221-toms"
-id: "TRM-ENG-46678"
+id: "TRM-ENG-61207"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "PsychosomaticObstetrics&Gynaecology,1,12±21. toms"

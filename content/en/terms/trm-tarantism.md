@@ -1,6 +1,6 @@
 ---
 slug: "trm-tarantism"
-id: "TRM-ENG-52417"
+id: "TRM-ENG-66946"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tarantism"

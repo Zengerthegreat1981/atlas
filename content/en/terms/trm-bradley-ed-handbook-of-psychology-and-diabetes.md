@@ -1,6 +1,6 @@
 ---
 slug: "trm-bradley-ed-handbook-of-psychology-and-diabetes"
-id: "TRM-ENG-46441"
+id: "TRM-ENG-60970"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bradley (Ed.), Handbook of psychology and diabetes"

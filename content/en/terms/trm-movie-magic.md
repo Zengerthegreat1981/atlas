@@ -1,6 +1,6 @@
 ---
 slug: "trm-movie-magic"
-id: "TRM-ENG-37981"
+id: "TRM-ENG-52510"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "movie magic"

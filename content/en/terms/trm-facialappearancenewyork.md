@@ -1,6 +1,6 @@
 ---
 slug: "trm-facialappearancenewyork"
-id: "TRM-ENG-46974"
+id: "TRM-ENG-61503"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "facialappearance.NewYork"

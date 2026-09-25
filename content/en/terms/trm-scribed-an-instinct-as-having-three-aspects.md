@@ -1,6 +1,6 @@
 ---
 slug: "trm-scribed-an-instinct-as-having-three-aspects"
-id: "TRM-ENG-36959"
+id: "TRM-ENG-51488"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "scribed an instinct as having three aspects"

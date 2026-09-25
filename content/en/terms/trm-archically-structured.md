@@ -1,6 +1,6 @@
 ---
 slug: "trm-archically-structured"
-id: "TRM-ENG-44920"
+id: "TRM-ENG-59449"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "archically structured"

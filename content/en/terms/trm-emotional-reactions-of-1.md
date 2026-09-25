@@ -1,6 +1,6 @@
 ---
 slug: "trm-emotional-reactions-of-1"
-id: "TRM-ENG-40036"
+id: "TRM-ENG-54565"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "emotional reactions of, 1"

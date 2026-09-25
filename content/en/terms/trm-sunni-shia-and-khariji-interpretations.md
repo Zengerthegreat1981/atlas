@@ -1,6 +1,6 @@
 ---
 slug: "trm-sunni-shia-and-khariji-interpretations"
-id: "TRM-ENG-47366"
+id: "TRM-ENG-61895"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sunni, Shia, and Khariji interpretations"

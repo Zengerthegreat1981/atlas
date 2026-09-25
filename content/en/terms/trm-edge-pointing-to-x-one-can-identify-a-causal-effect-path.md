@@ -1,6 +1,6 @@
 ---
 slug: "trm-edge-pointing-to-x-one-can-identify-a-causal-effect-path"
-id: "TRM-ENG-35774"
+id: "TRM-ENG-50303"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "edge pointing to X. One can identify a causal effect path"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-tween-two-means"
-id: "TRM-ENG-45609"
+id: "TRM-ENG-60138"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tween two means"

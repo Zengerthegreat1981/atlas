@@ -1,6 +1,6 @@
 ---
 slug: "trm-impulsive-and-disturbed-relationship-domains-treatment"
-id: "TRM-ENG-42881"
+id: "TRM-ENG-57410"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "impulsive, and disturbed relationship domains, treatment"

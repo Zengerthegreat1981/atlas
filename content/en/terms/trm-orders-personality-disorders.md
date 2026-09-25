@@ -1,6 +1,6 @@
 ---
 slug: "trm-orders-personality-disorders"
-id: "TRM-ENG-43101"
+id: "TRM-ENG-57630"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "orders. Personality Disorders"

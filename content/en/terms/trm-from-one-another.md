@@ -1,6 +1,6 @@
 ---
 slug: "trm-from-one-another"
-id: "TRM-ENG-44062"
+id: "TRM-ENG-58591"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "from one another."

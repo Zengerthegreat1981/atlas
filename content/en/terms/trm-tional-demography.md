@@ -1,6 +1,6 @@
 ---
 slug: "trm-tional-demography"
-id: "TRM-ENG-37187"
+id: "TRM-ENG-51716"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tional demography"

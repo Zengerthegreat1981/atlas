@@ -1,6 +1,6 @@
 ---
 slug: "trm-hudsonra1999thesociologyandpsychologyofterrorism"
-id: "TRM-ENG-36926"
+id: "TRM-ENG-51455"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hudson,R.A.(1999).Thesociologyandpsychologyofterrorism"

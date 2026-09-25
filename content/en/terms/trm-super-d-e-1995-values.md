@@ -1,6 +1,6 @@
 ---
 slug: "trm-super-d-e-1995-values"
-id: "TRM-ENG-38848"
+id: "TRM-ENG-53377"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Super, D. E. (1995). Values"

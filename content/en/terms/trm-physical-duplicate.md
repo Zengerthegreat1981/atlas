@@ -1,6 +1,6 @@
 ---
 slug: "trm-physical-duplicate"
-id: "TRM-ENG-45416"
+id: "TRM-ENG-59945"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "physical duplicate"

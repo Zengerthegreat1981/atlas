@@ -1,6 +1,6 @@
 ---
 slug: "trm-feuerbach-ludwig-2"
-id: "TRM-ENG-46610"
+id: "TRM-ENG-61139"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Feuerbach, Ludwig, 2"

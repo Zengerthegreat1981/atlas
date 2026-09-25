@@ -1,6 +1,6 @@
 ---
 slug: "trm-wise-ca"
-id: "TRM-ENG-42835"
+id: "TRM-ENG-57364"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wise CA"

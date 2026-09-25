@@ -1,6 +1,6 @@
 ---
 slug: "trm-strained-freedom-of-articulation"
-id: "TRM-ENG-48758"
+id: "TRM-ENG-63287"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "strained freedom of articulation"

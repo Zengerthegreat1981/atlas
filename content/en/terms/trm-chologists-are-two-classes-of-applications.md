@@ -1,6 +1,6 @@
 ---
 slug: "trm-chologists-are-two-classes-of-applications"
-id: "TRM-ENG-35715"
+id: "TRM-ENG-64773"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chologists are two classes of applications"

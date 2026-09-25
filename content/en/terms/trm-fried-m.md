@@ -1,6 +1,6 @@
 ---
 slug: "trm-fried-m"
-id: "TRM-ENG-40622"
+id: "TRM-ENG-55151"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fried M"

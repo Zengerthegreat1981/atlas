@@ -1,6 +1,6 @@
 ---
 slug: "trm-important-criterion"
-id: "TRM-ENG-34868"
+id: "TRM-ENG-63926"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "important criterion"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-richardstakesthisfurther"
-id: "TRM-ENG-37228"
+id: "TRM-ENG-66286"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Richardstakesthisfurther"

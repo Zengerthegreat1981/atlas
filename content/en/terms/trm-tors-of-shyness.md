@@ -1,6 +1,6 @@
 ---
 slug: "trm-tors-of-shyness"
-id: "TRM-ENG-46257"
+id: "TRM-ENG-60786"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tors of shyness"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-social-breakdown-syndrome"
-id: "TRM-ENG-44834"
+id: "TRM-ENG-59363"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, “The Social Breakdown Syndrome"

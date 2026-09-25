@@ -1,6 +1,6 @@
 ---
 slug: "trm-jason-la-1997-community-building"
-id: "TRM-ENG-35772"
+id: "TRM-ENG-64830"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jason, L.A. (1997). Community building"

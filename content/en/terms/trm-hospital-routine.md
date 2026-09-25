@@ -1,6 +1,6 @@
 ---
 slug: "trm-hospital-routine"
-id: "TRM-ENG-46108"
+id: "TRM-ENG-60637"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "hospital routine"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-localization"
-id: "TRM-ENG-34924"
+id: "TRM-ENG-49453"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "localization"

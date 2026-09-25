@@ -1,6 +1,6 @@
 ---
 slug: "trm-107-turner-jh"
-id: "TRM-ENG-38561"
+id: "TRM-ENG-53090"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "107. Turner JH"

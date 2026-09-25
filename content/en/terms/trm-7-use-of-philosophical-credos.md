@@ -1,6 +1,6 @@
 ---
 slug: "trm-7-use-of-philosophical-credos"
-id: "TRM-ENG-39340"
+id: "TRM-ENG-53869"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "7. Use of philosophical credos"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-correlated-with-cfiber-stimulation"
-id: "TRM-ENG-45040"
+id: "TRM-ENG-59569"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "correlated with C-fiber stimulation"

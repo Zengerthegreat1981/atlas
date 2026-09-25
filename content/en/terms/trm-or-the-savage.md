@@ -1,6 +1,6 @@
 ---
 slug: "trm-or-the-savage"
-id: "TRM-ENG-35206"
+id: "TRM-ENG-64264"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "or the savage"

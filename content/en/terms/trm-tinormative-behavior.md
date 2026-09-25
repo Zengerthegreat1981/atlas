@@ -1,6 +1,6 @@
 ---
 slug: "trm-tinormative-behavior"
-id: "TRM-ENG-35404"
+id: "TRM-ENG-49933"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tinormative behavior"

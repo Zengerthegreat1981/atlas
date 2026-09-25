@@ -1,6 +1,6 @@
 ---
 slug: "trm-cancer"
-id: "TRM-ENG-46877"
+id: "TRM-ENG-61406"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cancer"

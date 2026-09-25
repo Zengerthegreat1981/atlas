@@ -1,6 +1,6 @@
 ---
 slug: "trm-institutional-accreditation-and-1"
-id: "TRM-ENG-40571"
+id: "TRM-ENG-55100"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "institutional accreditation and, 1"

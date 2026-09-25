@@ -1,6 +1,6 @@
 ---
 slug: "trm-ory-and-risk-aversion-is-confused-or-irrational-an-infinity"
-id: "TRM-ENG-45381"
+id: "TRM-ENG-59910"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ory and risk aversion is confused or irrational. An infinity"

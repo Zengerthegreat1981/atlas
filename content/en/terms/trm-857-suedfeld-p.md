@@ -1,6 +1,6 @@
 ---
 slug: "trm-857-suedfeld-p"
-id: "TRM-ENG-39519"
+id: "TRM-ENG-54048"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "857. Suedfeld P"

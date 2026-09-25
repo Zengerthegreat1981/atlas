@@ -1,6 +1,6 @@
 ---
 slug: "trm-sexton-t-l-2"
-id: "TRM-ENG-38759"
+id: "TRM-ENG-53288"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sexton, T. L., 2"

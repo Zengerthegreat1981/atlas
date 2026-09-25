@@ -1,6 +1,6 @@
 ---
 slug: "trm-areharttreichel-j"
-id: "TRM-ENG-39715"
+id: "TRM-ENG-54244"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Arehart-Treichel J"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-nervefunctionnaturereviews"
-id: "TRM-ENG-37991"
+id: "TRM-ENG-67049"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nervefunction.NatureReviews"

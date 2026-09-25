@@ -1,6 +1,6 @@
 ---
 slug: "trm-utility-ratio-somoza-mossman-1991"
-id: "TRM-ENG-36234"
+id: "TRM-ENG-65292"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "utility ratio (Somoza & Mossman, 1991)"

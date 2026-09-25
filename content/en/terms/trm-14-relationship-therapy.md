@@ -1,6 +1,6 @@
 ---
 slug: "trm-14-relationship-therapy"
-id: "TRM-ENG-38611"
+id: "TRM-ENG-53140"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "14. “Relationship therapy”"

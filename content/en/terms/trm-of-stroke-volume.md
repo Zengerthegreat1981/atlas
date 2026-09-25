@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-stroke-volume"
-id: "TRM-ENG-36002"
+id: "TRM-ENG-65060"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of stroke volume"

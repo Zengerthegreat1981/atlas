@@ -1,6 +1,6 @@
 ---
 slug: "trm-tanist-abusepp182194-london"
-id: "TRM-ENG-37065"
+id: "TRM-ENG-66123"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tanist abuse(pp182–194). London"

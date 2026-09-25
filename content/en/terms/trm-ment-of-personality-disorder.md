@@ -1,6 +1,6 @@
 ---
 slug: "trm-ment-of-personality-disorder"
-id: "TRM-ENG-43000"
+id: "TRM-ENG-57529"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ment of personality disorder"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-native-model-for-personality-disorders"
-id: "TRM-ENG-48460"
+id: "TRM-ENG-62989"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "native Model for Personality Disorders"

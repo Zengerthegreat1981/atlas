@@ -1,6 +1,6 @@
 ---
 slug: "trm-replied"
-id: "TRM-ENG-45277"
+id: "TRM-ENG-59806"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "replied"

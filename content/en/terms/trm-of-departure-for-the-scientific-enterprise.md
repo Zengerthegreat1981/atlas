@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-departure-for-the-scientific-enterprise"
-id: "TRM-ENG-43055"
+id: "TRM-ENG-57584"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of departure for the scientific enterprise"

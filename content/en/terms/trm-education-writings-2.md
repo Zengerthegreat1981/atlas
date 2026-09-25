@@ -1,6 +1,6 @@
 ---
 slug: "trm-education-writings-2"
-id: "TRM-ENG-47926"
+id: "TRM-ENG-62455"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "education writings, 2"

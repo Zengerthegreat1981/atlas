@@ -1,6 +1,6 @@
 ---
 slug: "trm-bresler-b-1984-mindcontrolled-analgesia"
-id: "TRM-ENG-48920"
+id: "TRM-ENG-63449"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bresler, B. (1984). Mind-controlled analgesia"

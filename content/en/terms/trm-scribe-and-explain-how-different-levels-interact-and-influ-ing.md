@@ -1,6 +1,6 @@
 ---
 slug: "trm-scribe-and-explain-how-different-levels-interact-and-influ-ing"
-id: "TRM-ENG-36958"
+id: "TRM-ENG-66016"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "scribe and explain how different levels interact and influ- ing"

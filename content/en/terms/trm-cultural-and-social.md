@@ -1,6 +1,6 @@
 ---
 slug: "trm-cultural-and-social"
-id: "TRM-ENG-44969"
+id: "TRM-ENG-59498"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cultural, and social"

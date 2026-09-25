@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-specific-behavior"
-id: "TRM-ENG-34727"
+id: "TRM-ENG-49256"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "a specific behavior"

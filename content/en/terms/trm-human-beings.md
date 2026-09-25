@@ -1,6 +1,6 @@
 ---
 slug: "trm-human-beings"
-id: "TRM-ENG-45082"
+id: "TRM-ENG-59611"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "human beings"

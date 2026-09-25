@@ -1,6 +1,6 @@
 ---
 slug: "trm-socialisme-ou-barbarie-1"
-id: "TRM-ENG-47312"
+id: "TRM-ENG-61841"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Socialisme ou Barbarie, 1"

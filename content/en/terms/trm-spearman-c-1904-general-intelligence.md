@@ -1,6 +1,6 @@
 ---
 slug: "trm-spearman-c-1904-general-intelligence"
-id: "TRM-ENG-35968"
+id: "TRM-ENG-50497"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spearman, C. (1904). “General Intelligence”"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-not-sell-well"
-id: "TRM-ENG-38009"
+id: "TRM-ENG-67067"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "not sell well"

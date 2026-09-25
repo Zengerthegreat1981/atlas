@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-history-and-evolution-of-dynamic-psychiatry-new-dc"
-id: "TRM-ENG-34808"
+id: "TRM-ENG-49337"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The history and evolution of dynamic psychiatry. New DC"

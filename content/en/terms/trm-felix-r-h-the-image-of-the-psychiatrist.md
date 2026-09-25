@@ -1,6 +1,6 @@
 ---
 slug: "trm-felix-r-h-the-image-of-the-psychiatrist"
-id: "TRM-ENG-44381"
+id: "TRM-ENG-58910"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Felix, R. H., “The Image of the Psychiatrist"

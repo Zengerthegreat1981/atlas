@@ -1,6 +1,6 @@
 ---
 slug: "trm-intertextuality-1"
-id: "TRM-ENG-46814"
+id: "TRM-ENG-61343"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Intertextuality, 1"

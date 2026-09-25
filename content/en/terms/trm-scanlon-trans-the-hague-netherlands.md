@@ -1,6 +1,6 @@
 ---
 slug: "trm-scanlon-trans-the-hague-netherlands"
-id: "TRM-ENG-50991"
+id: "TRM-ENG-65520"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Scanlon, Trans.). The Hague, Netherlands"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-interactions"
-id: "TRM-ENG-48221"
+id: "TRM-ENG-62750"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "interactions"

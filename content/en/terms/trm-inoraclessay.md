@@ -1,6 +1,6 @@
 ---
 slug: "trm-inoraclessay"
-id: "TRM-ENG-45932"
+id: "TRM-ENG-60461"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "inoracles,say"

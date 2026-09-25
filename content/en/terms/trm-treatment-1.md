@@ -1,6 +1,6 @@
 ---
 slug: "trm-treatment-1"
-id: "TRM-ENG-45648"
+id: "TRM-ENG-60177"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "treatment, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-greene-beverly-3"
-id: "TRM-ENG-38125"
+id: "TRM-ENG-52654"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Greene, Beverly, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-socalled-secondary-setting"
-id: "TRM-ENG-43181"
+id: "TRM-ENG-57710"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "so-called “secondary” setting"

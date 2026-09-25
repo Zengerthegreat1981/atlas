@@ -1,6 +1,6 @@
 ---
 slug: "trm-hare-rd-clark-d-grann-m-et-al"
-id: "TRM-ENG-47712"
+id: "TRM-ENG-62241"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hare RD, Clark D, Grann M, et al"

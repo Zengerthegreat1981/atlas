@@ -1,6 +1,6 @@
 ---
 slug: "trm-mil-med-68"
-id: "TRM-ENG-47866"
+id: "TRM-ENG-62395"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mil Med 68"

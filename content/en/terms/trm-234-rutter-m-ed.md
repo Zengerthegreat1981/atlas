@@ -1,6 +1,6 @@
 ---
 slug: "trm-234-rutter-m-ed"
-id: "TRM-ENG-38757"
+id: "TRM-ENG-53286"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "234. Rutter M (ed)"

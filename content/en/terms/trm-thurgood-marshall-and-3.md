@@ -1,6 +1,6 @@
 ---
 slug: "trm-thurgood-marshall-and-3"
-id: "TRM-ENG-38923"
+id: "TRM-ENG-53452"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Thurgood Marshall and, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-bindman-aj"
-id: "TRM-ENG-39936"
+id: "TRM-ENG-54465"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bindman AJ"

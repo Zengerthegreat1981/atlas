@@ -1,6 +1,6 @@
 ---
 slug: "trm-problems-sipp118-in-adolescents"
-id: "TRM-ENG-42496"
+id: "TRM-ENG-57025"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Problems (SIPP–118) in adolescents"

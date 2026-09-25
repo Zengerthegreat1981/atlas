@@ -1,6 +1,6 @@
 ---
 slug: "trm-freedman-dx"
-id: "TRM-ENG-40602"
+id: "TRM-ENG-55131"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Freedman DX"

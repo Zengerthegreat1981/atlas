@@ -1,6 +1,6 @@
 ---
 slug: "trm-mentary-both-too-have-their-dangers"
-id: "TRM-ENG-48337"
+id: "TRM-ENG-62866"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mentary. Both too have their dangers"

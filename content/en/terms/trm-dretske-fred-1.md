@@ -1,6 +1,6 @@
 ---
 slug: "trm-dretske-fred-1"
-id: "TRM-ENG-44444"
+id: "TRM-ENG-58973"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dretske, Fred, 1"

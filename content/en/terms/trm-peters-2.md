@@ -1,6 +1,6 @@
 ---
 slug: "trm-peters-2"
-id: "TRM-ENG-47125"
+id: "TRM-ENG-61654"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Peters, 2"

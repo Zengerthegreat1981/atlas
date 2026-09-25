@@ -1,6 +1,6 @@
 ---
 slug: "trm-other-as-the-bad-one"
-id: "TRM-ENG-48508"
+id: "TRM-ENG-63037"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "other as the “bad” one"

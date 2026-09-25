@@ -1,6 +1,6 @@
 ---
 slug: "trm-biochemical-markers-in-suicidal-patients"
-id: "TRM-ENG-42332"
+id: "TRM-ENG-56861"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Biochemical markers in suicidal patients"

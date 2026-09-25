@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychology-pp-205239-new-york-ny"
-id: "TRM-ENG-51747"
+id: "TRM-ENG-66276"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychology (pp. 205–239). New York, NY"

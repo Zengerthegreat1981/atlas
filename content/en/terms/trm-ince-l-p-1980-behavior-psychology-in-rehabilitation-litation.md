@@ -1,6 +1,6 @@
 ---
 slug: "trm-ince-l-p-1980-behavior-psychology-in-rehabilitation-litation"
-id: "TRM-ENG-46563"
+id: "TRM-ENG-61092"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ince, L. P. (1980). Behavior psychology in rehabilitation litation"

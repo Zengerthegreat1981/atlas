@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-central-tenet-of-kohlbergs-formulation"
-id: "TRM-ENG-36003"
+id: "TRM-ENG-50532"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The central tenet of Kohlberg’s formulation"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-emerson-1"
-id: "TRM-ENG-46570"
+id: "TRM-ENG-61099"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Emerson, 1"

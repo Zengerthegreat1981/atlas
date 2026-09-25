@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychologicalsequalaetoelectivesterilisationinwomen"
-id: "TRM-ENG-46669"
+id: "TRM-ENG-61198"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychologicalsequalaetoelectivesterilisationinwomen"

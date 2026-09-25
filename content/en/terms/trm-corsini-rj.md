@@ -1,6 +1,6 @@
 ---
 slug: "trm-corsini-rj"
-id: "TRM-ENG-40243"
+id: "TRM-ENG-54772"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Corsini RJ"

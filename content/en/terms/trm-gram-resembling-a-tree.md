@@ -1,6 +1,6 @@
 ---
 slug: "trm-gram-resembling-a-tree"
-id: "TRM-ENG-45567"
+id: "TRM-ENG-60096"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "gram resembling a tree"

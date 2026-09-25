@@ -1,6 +1,6 @@
 ---
 slug: "trm-textbook-the-psychology-of-language"
-id: "TRM-ENG-38296"
+id: "TRM-ENG-52825"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "textbook The psychology of language"

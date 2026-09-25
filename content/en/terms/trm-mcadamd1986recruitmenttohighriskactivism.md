@@ -1,6 +1,6 @@
 ---
 slug: "trm-mcadamd1986recruitmenttohighriskactivism"
-id: "TRM-ENG-37061"
+id: "TRM-ENG-66119"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "McAdam,D.(1986).Recruitmenttohigh-riskactivism"

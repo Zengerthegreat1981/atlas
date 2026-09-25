@@ -1,6 +1,6 @@
 ---
 slug: "trm-burgess-aw"
-id: "TRM-ENG-40075"
+id: "TRM-ENG-54604"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Burgess AW"

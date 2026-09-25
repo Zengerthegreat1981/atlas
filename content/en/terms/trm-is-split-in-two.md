@@ -1,6 +1,6 @@
 ---
 slug: "trm-is-split-in-two"
-id: "TRM-ENG-34903"
+id: "TRM-ENG-49432"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "is split in two"

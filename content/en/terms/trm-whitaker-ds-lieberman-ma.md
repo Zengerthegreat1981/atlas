@@ -1,6 +1,6 @@
 ---
 slug: "trm-whitaker-ds-lieberman-ma"
-id: "TRM-ENG-42773"
+id: "TRM-ENG-57302"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Whitaker DS, Lieberman MA"

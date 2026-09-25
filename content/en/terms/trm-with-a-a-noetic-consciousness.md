@@ -1,6 +1,6 @@
 ---
 slug: "trm-with-a-a-noetic-consciousness"
-id: "TRM-ENG-45693"
+id: "TRM-ENG-60222"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "with (a) a noetic consciousness"

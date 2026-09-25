@@ -1,6 +1,6 @@
 ---
 slug: "trm-rheingold-j-the-mother-anxiety-and-death"
-id: "TRM-ENG-44596"
+id: "TRM-ENG-59125"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rheingold, J., The Mother, Anxiety, and Death"

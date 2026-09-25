@@ -1,6 +1,6 @@
 ---
 slug: "trm-kaufmann-w-nietzsche"
-id: "TRM-ENG-44466"
+id: "TRM-ENG-58995"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kaufmann, W., Nietzsche"

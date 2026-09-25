@@ -1,6 +1,6 @@
 ---
 slug: "trm-shapiro-r-g-2008-games-to-explain-human-factors"
-id: "TRM-ENG-37286"
+id: "TRM-ENG-66344"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shapiro, R. G. (2008). Games to explain human factors"

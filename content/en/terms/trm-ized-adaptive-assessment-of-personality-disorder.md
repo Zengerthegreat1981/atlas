@@ -1,6 +1,6 @@
 ---
 slug: "trm-ized-adaptive-assessment-of-personality-disorder"
-id: "TRM-ENG-42962"
+id: "TRM-ENG-57491"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ized adaptive assessment of personality disorder"

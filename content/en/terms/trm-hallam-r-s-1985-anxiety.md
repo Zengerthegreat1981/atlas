@@ -1,6 +1,6 @@
 ---
 slug: "trm-hallam-r-s-1985-anxiety"
-id: "TRM-ENG-49012"
+id: "TRM-ENG-63541"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hallam, R. S. (1985). Anxiety"

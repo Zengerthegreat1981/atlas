@@ -1,6 +1,6 @@
 ---
 slug: "trm-conformatory-factor-analysis-2"
-id: "TRM-ENG-37860"
+id: "TRM-ENG-66918"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Conformatory Factor Analysis, 2"

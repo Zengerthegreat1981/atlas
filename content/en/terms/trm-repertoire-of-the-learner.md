@@ -1,6 +1,6 @@
 ---
 slug: "trm-repertoire-of-the-learner"
-id: "TRM-ENG-45474"
+id: "TRM-ENG-60003"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "repertoire of the learner"

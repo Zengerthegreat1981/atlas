@@ -1,6 +1,6 @@
 ---
 slug: "trm-brainandbehaviourharmondsworthuk"
-id: "TRM-ENG-46444"
+id: "TRM-ENG-60973"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brainandbehaviour.Harmondsworth,UK"

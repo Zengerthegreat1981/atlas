@@ -1,6 +1,6 @@
 ---
 slug: "trm-regard"
-id: "TRM-ENG-35013"
+id: "TRM-ENG-49542"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "regard"

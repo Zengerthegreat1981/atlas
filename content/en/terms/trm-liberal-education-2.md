@@ -1,6 +1,6 @@
 ---
 slug: "trm-liberal-education-2"
-id: "TRM-ENG-48278"
+id: "TRM-ENG-62807"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "liberal education, 2"

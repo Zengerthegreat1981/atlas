@@ -1,6 +1,6 @@
 ---
 slug: "trm-ative-strand-of-poststructuralist-discourse"
-id: "TRM-ENG-47669"
+id: "TRM-ENG-62198"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ative strand of poststructuralist discourse"

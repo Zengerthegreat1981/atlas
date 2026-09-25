@@ -1,6 +1,6 @@
 ---
 slug: "trm-american-vocational-association-ava-and-4"
-id: "TRM-ENG-37588"
+id: "TRM-ENG-66646"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "American Vocational Association (AVA) and, 4"

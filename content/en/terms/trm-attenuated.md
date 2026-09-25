@@ -1,6 +1,6 @@
 ---
 slug: "trm-attenuated"
-id: "TRM-ENG-44942"
+id: "TRM-ENG-59471"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "attenuated"

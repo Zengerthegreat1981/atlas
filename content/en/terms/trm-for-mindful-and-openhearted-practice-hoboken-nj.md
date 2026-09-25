@@ -1,6 +1,6 @@
 ---
 slug: "trm-for-mindful-and-openhearted-practice-hoboken-nj"
-id: "TRM-ENG-51472"
+id: "TRM-ENG-66001"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "for mindful and open-hearted practice. Hoboken, NJ"

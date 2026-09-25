@@ -1,6 +1,6 @@
 ---
 slug: "trm-culty-in-comprehension-ideomotor-apraxias"
-id: "TRM-ENG-36331"
+id: "TRM-ENG-65389"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "culty in comprehension. Ideomotor apraxias"

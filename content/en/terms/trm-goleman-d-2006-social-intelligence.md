@@ -1,6 +1,6 @@
 ---
 slug: "trm-goleman-d-2006-social-intelligence"
-id: "TRM-ENG-38118"
+id: "TRM-ENG-52647"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goleman, D. (2006). Social intelligence"

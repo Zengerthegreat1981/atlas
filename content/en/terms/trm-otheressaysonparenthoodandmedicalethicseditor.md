@@ -1,6 +1,6 @@
 ---
 slug: "trm-otheressaysonparenthoodandmedicalethicseditor"
-id: "TRM-ENG-45980"
+id: "TRM-ENG-60509"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "otheressaysonparenthoodandmedicalethics.Editor"

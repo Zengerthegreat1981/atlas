@@ -1,6 +1,6 @@
 ---
 slug: "trm-reward-system-for-the-capacity-to-act"
-id: "TRM-ENG-45480"
+id: "TRM-ENG-60009"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reward system for the capacity to act"

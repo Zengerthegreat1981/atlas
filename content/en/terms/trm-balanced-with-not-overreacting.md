@@ -1,6 +1,6 @@
 ---
 slug: "trm-balanced-with-not-overreacting"
-id: "TRM-ENG-44054"
+id: "TRM-ENG-58583"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "balanced with not overreacting"

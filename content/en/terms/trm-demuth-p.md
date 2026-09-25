@@ -1,6 +1,6 @@
 ---
 slug: "trm-demuth-p"
-id: "TRM-ENG-40320"
+id: "TRM-ENG-54849"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "DeMuth P"

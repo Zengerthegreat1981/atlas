@@ -1,6 +1,6 @@
 ---
 slug: "trm-wundt-w-19001920-vlkerpsychologie"
-id: "TRM-ENG-45494"
+id: "TRM-ENG-60023"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wundt, W. (1900–1920) Völkerpsychologie"

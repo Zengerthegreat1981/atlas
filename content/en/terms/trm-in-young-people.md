@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-young-people"
-id: "TRM-ENG-42898"
+id: "TRM-ENG-57427"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in young people"

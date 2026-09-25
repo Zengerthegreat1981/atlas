@@ -1,6 +1,6 @@
 ---
 slug: "trm-diversity-vs-1"
-id: "TRM-ENG-47897"
+id: "TRM-ENG-62426"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "diversity vs., 1"

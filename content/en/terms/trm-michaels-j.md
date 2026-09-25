@@ -1,6 +1,6 @@
 ---
 slug: "trm-michaels-j"
-id: "TRM-ENG-41711"
+id: "TRM-ENG-56240"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Michaels J"

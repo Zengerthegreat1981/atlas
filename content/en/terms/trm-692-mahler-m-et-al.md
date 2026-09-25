@@ -1,6 +1,6 @@
 ---
 slug: "trm-692-mahler-m-et-al"
-id: "TRM-ENG-39324"
+id: "TRM-ENG-53853"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "692. Mahler M, et al"

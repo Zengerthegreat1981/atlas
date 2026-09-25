@@ -1,6 +1,6 @@
 ---
 slug: "trm-bionwr1952groupdynamics"
-id: "TRM-ENG-36618"
+id: "TRM-ENG-51147"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bion,W.R.(1952).Groupdynamics"

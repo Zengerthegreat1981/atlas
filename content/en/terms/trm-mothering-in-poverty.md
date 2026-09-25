@@ -1,6 +1,6 @@
 ---
 slug: "trm-mothering-in-poverty"
-id: "TRM-ENG-48379"
+id: "TRM-ENG-62908"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mothering in poverty"

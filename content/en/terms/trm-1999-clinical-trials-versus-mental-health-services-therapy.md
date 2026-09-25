@@ -1,6 +1,6 @@
 ---
 slug: "trm-1999-clinical-trials-versus-mental-health-services-therapy"
-id: "TRM-ENG-42230"
+id: "TRM-ENG-56759"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1999). Clinical trials versus mental health services therapy"

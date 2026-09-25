@@ -1,6 +1,6 @@
 ---
 slug: "trm-internal-process-career-transition-variables-and-4"
-id: "TRM-ENG-40605"
+id: "TRM-ENG-55134"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "internal process career transition variables and, 4"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ainscoughce1990premenstrualemotionalchanges"
-id: "TRM-ENG-46398"
+id: "TRM-ENG-60927"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ainscough,C.E.(1990).Premenstrualemotionalchanges"

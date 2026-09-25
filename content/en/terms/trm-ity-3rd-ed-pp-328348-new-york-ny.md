@@ -1,6 +1,6 @@
 ---
 slug: "trm-ity-3rd-ed-pp-328348-new-york-ny"
-id: "TRM-ENG-43714"
+id: "TRM-ENG-58243"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ity (3rd ed., pp. 328–348). New York, NY"

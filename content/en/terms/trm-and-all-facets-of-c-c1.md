@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-all-facets-of-c-c1"
-id: "TRM-ENG-43610"
+id: "TRM-ENG-58139"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and all facets of C (C1"

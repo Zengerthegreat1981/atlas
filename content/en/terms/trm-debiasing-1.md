@@ -1,6 +1,6 @@
 ---
 slug: "trm-debiasing-1"
-id: "TRM-ENG-45049"
+id: "TRM-ENG-59578"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "debiasing, 1"

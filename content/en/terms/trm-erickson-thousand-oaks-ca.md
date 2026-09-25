@@ -1,6 +1,6 @@
 ---
 slug: "trm-erickson-thousand-oaks-ca"
-id: "TRM-ENG-50363"
+id: "TRM-ENG-64892"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Erickson. Thousand Oaks, CA"

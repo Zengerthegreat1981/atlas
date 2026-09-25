@@ -1,6 +1,6 @@
 ---
 slug: "trm-japanesepsychologiststokyo"
-id: "TRM-ENG-36971"
+id: "TRM-ENG-51500"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Japanesepsychologists].Tokyo"

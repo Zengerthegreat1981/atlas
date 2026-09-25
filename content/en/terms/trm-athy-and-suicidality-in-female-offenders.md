@@ -1,6 +1,6 @@
 ---
 slug: "trm-athy-and-suicidality-in-female-offenders"
-id: "TRM-ENG-42668"
+id: "TRM-ENG-57197"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "athy and suicidality in female offenders"

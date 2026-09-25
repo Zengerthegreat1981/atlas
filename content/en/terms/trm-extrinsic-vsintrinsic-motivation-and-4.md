@@ -1,6 +1,6 @@
 ---
 slug: "trm-extrinsic-vsintrinsic-motivation-and-4"
-id: "TRM-ENG-40156"
+id: "TRM-ENG-54685"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "extrinsic vs.intrinsic motivation and, 4"

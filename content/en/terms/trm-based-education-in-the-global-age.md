@@ -1,6 +1,6 @@
 ---
 slug: "trm-based-education-in-the-global-age"
-id: "TRM-ENG-47677"
+id: "TRM-ENG-62206"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "based education in the global age"

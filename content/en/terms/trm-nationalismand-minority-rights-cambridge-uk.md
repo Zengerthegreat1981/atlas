@@ -1,6 +1,6 @@
 ---
 slug: "trm-nationalismand-minority-rights-cambridge-uk"
-id: "TRM-ENG-40930"
+id: "TRM-ENG-55459"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nationalism,and minority rights. Cambridge, UK"

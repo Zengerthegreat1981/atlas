@@ -1,6 +1,6 @@
 ---
 slug: "trm-perspectives-englewood-cliffs-nj"
-id: "TRM-ENG-48530"
+id: "TRM-ENG-63059"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "perspectives. Englewood Cliffs, NJ"

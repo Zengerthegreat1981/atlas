@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychotic-disorder-is-common"
-id: "TRM-ENG-44178"
+id: "TRM-ENG-58707"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychotic disorder is common"

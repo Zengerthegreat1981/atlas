@@ -1,6 +1,6 @@
 ---
 slug: "trm-ideology-critique-1"
-id: "TRM-ENG-46792"
+id: "TRM-ENG-61321"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ideology critique, 1"

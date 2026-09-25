@@ -1,6 +1,6 @@
 ---
 slug: "trm-tentative-dynamics"
-id: "TRM-ENG-42558"
+id: "TRM-ENG-57087"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tentative dynamics"

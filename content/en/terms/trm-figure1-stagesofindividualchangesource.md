@@ -1,6 +1,6 @@
 ---
 slug: "trm-figure1-stagesofindividualchangesource"
-id: "TRM-ENG-48984"
+id: "TRM-ENG-63513"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Figure1 Stagesofindividualchange.Source"

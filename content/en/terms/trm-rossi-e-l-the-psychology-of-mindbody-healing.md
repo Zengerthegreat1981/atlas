@@ -1,6 +1,6 @@
 ---
 slug: "trm-rossi-e-l-the-psychology-of-mindbody-healing"
-id: "TRM-ENG-45945"
+id: "TRM-ENG-60474"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rossi, E. L. The Psychology of Mind-Body Healing"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-training-new-counselors-helping-skills"
-id: "TRM-ENG-42005"
+id: "TRM-ENG-56534"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "training new counselors. Helping Skills"

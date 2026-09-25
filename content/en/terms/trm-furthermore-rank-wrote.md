@@ -1,6 +1,6 @@
 ---
 slug: "trm-furthermore-rank-wrote"
-id: "TRM-ENG-44397"
+id: "TRM-ENG-58926"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Furthermore, Rank wrote"

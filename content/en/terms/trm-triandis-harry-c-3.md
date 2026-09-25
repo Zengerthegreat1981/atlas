@@ -1,6 +1,6 @@
 ---
 slug: "trm-triandis-harry-c-3"
-id: "TRM-ENG-38940"
+id: "TRM-ENG-53469"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Triandis, Harry C., 3"

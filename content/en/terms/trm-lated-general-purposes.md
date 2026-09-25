@@ -1,6 +1,6 @@
 ---
 slug: "trm-lated-general-purposes"
-id: "TRM-ENG-35105"
+id: "TRM-ENG-64163"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lated general purposes"

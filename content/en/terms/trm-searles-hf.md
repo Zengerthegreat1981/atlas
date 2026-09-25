@@ -1,6 +1,6 @@
 ---
 slug: "trm-searles-hf"
-id: "TRM-ENG-42303"
+id: "TRM-ENG-56832"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Searles HF"

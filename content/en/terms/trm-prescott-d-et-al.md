@@ -1,6 +1,6 @@
 ---
 slug: "trm-prescott-d-et-al"
-id: "TRM-ENG-42010"
+id: "TRM-ENG-56539"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Prescott D, et al"

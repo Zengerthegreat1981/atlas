@@ -1,6 +1,6 @@
 ---
 slug: "trm-theory-and-practice-connection-theory-and-4"
-id: "TRM-ENG-41916"
+id: "TRM-ENG-56445"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theory and practice connection theory and, 4"

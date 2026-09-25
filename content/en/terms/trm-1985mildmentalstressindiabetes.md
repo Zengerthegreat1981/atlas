@@ -1,6 +1,6 @@
 ---
 slug: "trm-1985mildmentalstressindiabetes"
-id: "TRM-ENG-46301"
+id: "TRM-ENG-60830"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1985).Mildmentalstressindiabetes"

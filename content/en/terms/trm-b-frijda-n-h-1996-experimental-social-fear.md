@@ -1,6 +1,6 @@
 ---
 slug: "trm-b-frijda-n-h-1996-experimental-social-fear"
-id: "TRM-ENG-46419"
+id: "TRM-ENG-60948"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "B., & Frijda, N. H. (1996). Experimental social fear"

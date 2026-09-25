@@ -1,6 +1,6 @@
 ---
 slug: "trm-andscamps"
-id: "TRM-ENG-45838"
+id: "TRM-ENG-60367"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "andScamps"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ekstein-r"
-id: "TRM-ENG-40426"
+id: "TRM-ENG-54955"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ekstein R"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-researchindentistry19871992"
-id: "TRM-ENG-47260"
+id: "TRM-ENG-61789"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "researchindentistry1987±1992"

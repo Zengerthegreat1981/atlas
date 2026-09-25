@@ -1,6 +1,6 @@
 ---
 slug: "trm-mccabe-ol-savage-c-kurland-aa-unger-s"
-id: "TRM-ENG-41631"
+id: "TRM-ENG-56160"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "McCabe OL, Savage C, Kurland AA, Unger S"

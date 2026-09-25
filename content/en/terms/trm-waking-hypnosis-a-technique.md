@@ -1,6 +1,6 @@
 ---
 slug: "trm-waking-hypnosis-a-technique"
-id: "TRM-ENG-43975"
+id: "TRM-ENG-58504"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "waking hypnosis a technique"

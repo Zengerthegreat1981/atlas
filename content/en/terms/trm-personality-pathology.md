@@ -1,6 +1,6 @@
 ---
 slug: "trm-personality-pathology"
-id: "TRM-ENG-43127"
+id: "TRM-ENG-57656"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "personality pathology"

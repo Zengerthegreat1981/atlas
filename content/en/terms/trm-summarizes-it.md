@@ -1,6 +1,6 @@
 ---
 slug: "trm-summarizes-it"
-id: "TRM-ENG-45328"
+id: "TRM-ENG-59857"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "summarizes it"

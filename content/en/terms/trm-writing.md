@@ -1,6 +1,6 @@
 ---
 slug: "trm-writing"
-id: "TRM-ENG-52446"
+id: "TRM-ENG-66975"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Writing"

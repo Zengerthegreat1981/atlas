@@ -1,6 +1,6 @@
 ---
 slug: "trm-disability-legal-definitions-and-2"
-id: "TRM-ENG-39943"
+id: "TRM-ENG-54472"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disability, legal definitions and, 2"

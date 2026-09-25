@@ -1,6 +1,6 @@
 ---
 slug: "trm-heredity-and-environmentnew-york"
-id: "TRM-ENG-36518"
+id: "TRM-ENG-65576"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "heredity, and environment.New York"

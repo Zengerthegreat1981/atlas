@@ -1,6 +1,6 @@
 ---
 slug: "trm-freedmanjcombsg1996narrativetherapy"
-id: "TRM-ENG-48990"
+id: "TRM-ENG-63519"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Freedman,J.,&Combs,G.(1996).Narrativetherapy"

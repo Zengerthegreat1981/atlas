@@ -1,6 +1,6 @@
 ---
 slug: "trm-through-and-healing-new-york-bantam-1991"
-id: "TRM-ENG-46243"
+id: "TRM-ENG-60772"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "through and Healing. New York: Bantam, 1991."

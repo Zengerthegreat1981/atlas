@@ -1,6 +1,6 @@
 ---
 slug: "trm-clark-1981-the-model-consists-of-two-components"
-id: "TRM-ENG-35625"
+id: "TRM-ENG-64683"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Clark, 1981). The model consists of two components"

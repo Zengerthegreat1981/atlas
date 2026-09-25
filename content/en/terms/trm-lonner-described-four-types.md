@@ -1,6 +1,6 @@
 ---
 slug: "trm-lonner-described-four-types"
-id: "TRM-ENG-38380"
+id: "TRM-ENG-52909"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lonner described four types"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-radicalism"
-id: "TRM-ENG-38183"
+id: "TRM-ENG-52712"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "radicalism"

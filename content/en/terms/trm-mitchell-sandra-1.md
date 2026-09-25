@@ -1,6 +1,6 @@
 ---
 slug: "trm-mitchell-sandra-1"
-id: "TRM-ENG-47004"
+id: "TRM-ENG-61533"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mitchell, Sandra, 1"

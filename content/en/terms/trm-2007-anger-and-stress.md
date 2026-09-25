@@ -1,6 +1,6 @@
 ---
 slug: "trm-2007-anger-and-stress"
-id: "TRM-ENG-35141"
+id: "TRM-ENG-64199"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2007). Anger and stress"

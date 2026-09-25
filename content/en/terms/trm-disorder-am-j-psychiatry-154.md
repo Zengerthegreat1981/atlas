@@ -1,6 +1,6 @@
 ---
 slug: "trm-disorder-am-j-psychiatry-154"
-id: "TRM-ENG-48318"
+id: "TRM-ENG-62847"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disorder. Am J Psychiatry 154"

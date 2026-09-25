@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-dehumanizes-the-person"
-id: "TRM-ENG-48189"
+id: "TRM-ENG-62718"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing dehumanizes the person"

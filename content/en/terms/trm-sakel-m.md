@@ -1,6 +1,6 @@
 ---
 slug: "trm-sakel-m"
-id: "TRM-ENG-42221"
+id: "TRM-ENG-56750"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sakel M"

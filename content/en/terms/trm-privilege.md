@@ -1,6 +1,6 @@
 ---
 slug: "trm-privilege"
-id: "TRM-ENG-52344"
+id: "TRM-ENG-66873"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Privilege"

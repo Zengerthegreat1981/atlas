@@ -1,6 +1,6 @@
 ---
 slug: "trm-domains-and-facets"
-id: "TRM-ENG-42786"
+id: "TRM-ENG-57315"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "domains and facets"

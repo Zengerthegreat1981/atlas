@@ -1,6 +1,6 @@
 ---
 slug: "trm-arlow-j-a-report-on-panel"
-id: "TRM-ENG-44262"
+id: "TRM-ENG-58791"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Arlow, J. A., “Report on Panel"

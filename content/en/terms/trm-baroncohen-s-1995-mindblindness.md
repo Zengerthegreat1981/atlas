@@ -1,6 +1,6 @@
 ---
 slug: "trm-baroncohen-s-1995-mindblindness"
-id: "TRM-ENG-36593"
+id: "TRM-ENG-65651"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Baron-Cohen, S. (1995). Mindblindness"

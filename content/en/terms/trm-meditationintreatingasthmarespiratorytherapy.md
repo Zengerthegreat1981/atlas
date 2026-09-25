@@ -1,6 +1,6 @@
 ---
 slug: "trm-meditationintreatingasthmarespiratorytherapy"
-id: "TRM-ENG-49536"
+id: "TRM-ENG-64065"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "meditationintreatingasthma.RespiratoryTherapy"

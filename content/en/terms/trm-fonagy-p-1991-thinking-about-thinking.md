@@ -1,6 +1,6 @@
 ---
 slug: "trm-fonagy-p-1991-thinking-about-thinking"
-id: "TRM-ENG-42390"
+id: "TRM-ENG-56919"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fonagy, P. (1991). Thinking about thinking"

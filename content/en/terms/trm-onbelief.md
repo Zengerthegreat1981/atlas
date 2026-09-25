@@ -1,6 +1,6 @@
 ---
 slug: "trm-onbelief"
-id: "TRM-ENG-38058"
+id: "TRM-ENG-67116"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "onBelief"

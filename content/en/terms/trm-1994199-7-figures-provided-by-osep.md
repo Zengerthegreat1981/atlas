@@ -1,6 +1,6 @@
 ---
 slug: "trm-1994199-7-figures-provided-by-osep"
-id: "TRM-ENG-34602"
+id: "TRM-ENG-49131"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1994-199 7 figures provided by OSEP"

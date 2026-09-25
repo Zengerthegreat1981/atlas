@@ -1,6 +1,6 @@
 ---
 slug: "trm-potentials"
-id: "TRM-ENG-41221"
+id: "TRM-ENG-55750"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "potentials"

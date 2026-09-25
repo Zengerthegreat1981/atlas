@@ -1,6 +1,6 @@
 ---
 slug: "trm-plest-organization-that-fits-a-particular-stimulus-pattern"
-id: "TRM-ENG-36866"
+id: "TRM-ENG-51395"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "plest organization that fits a particular stimulus pattern"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-derived-from-psychological-data-in-mannew-york"
-id: "TRM-ENG-36350"
+id: "TRM-ENG-65408"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "derived from psychological data in man.New York"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-buss-d-m-1994t-he-evolution-of-desire"
-id: "TRM-ENG-34647"
+id: "TRM-ENG-63705"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Buss, D. M. (1994).T he evolution of desire"

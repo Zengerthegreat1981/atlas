@@ -1,6 +1,6 @@
 ---
 slug: "trm-cranston-m-1997-the-solitary-self"
-id: "TRM-ENG-46462"
+id: "TRM-ENG-60991"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cranston, M. (1997). The solitary self"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-five-mathematical-sciences"
-id: "TRM-ENG-48032"
+id: "TRM-ENG-62561"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "five mathematical sciences"

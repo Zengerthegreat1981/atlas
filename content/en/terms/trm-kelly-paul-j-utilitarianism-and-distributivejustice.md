@@ -1,6 +1,6 @@
 ---
 slug: "trm-kelly-paul-j-utilitarianism-and-distributivejustice"
-id: "TRM-ENG-45730"
+id: "TRM-ENG-60259"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kelly, Paul J. Utilitarianism and DistributiveJustice"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-rather-than-relying-exclusively-on-conditioningbased-see-also"
-id: "TRM-ENG-36924"
+id: "TRM-ENG-65982"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rather than relying exclusively on conditioning-based See also"

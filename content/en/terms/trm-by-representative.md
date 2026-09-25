@@ -1,6 +1,6 @@
 ---
 slug: "trm-by-representative"
-id: "TRM-ENG-34916"
+id: "TRM-ENG-63974"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "by representative"

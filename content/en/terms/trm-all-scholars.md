@@ -1,6 +1,6 @@
 ---
 slug: "trm-all-scholars"
-id: "TRM-ENG-47570"
+id: "TRM-ENG-62099"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "all scholars"

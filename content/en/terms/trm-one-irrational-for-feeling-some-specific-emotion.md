@@ -1,6 +1,6 @@
 ---
 slug: "trm-one-irrational-for-feeling-some-specific-emotion"
-id: "TRM-ENG-45369"
+id: "TRM-ENG-59898"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "one irrational for feeling some specific emotion"

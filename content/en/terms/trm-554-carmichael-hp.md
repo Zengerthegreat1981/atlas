@@ -1,6 +1,6 @@
 ---
 slug: "trm-554-carmichael-hp"
-id: "TRM-ENG-39165"
+id: "TRM-ENG-53694"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "554. Carmichael HP"

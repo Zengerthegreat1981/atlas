@@ -1,6 +1,6 @@
 ---
 slug: "trm-test-bero"
-id: "TRM-ENG-52418"
+id: "TRM-ENG-66947"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Test, Bero"

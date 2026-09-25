@@ -1,6 +1,6 @@
 ---
 slug: "trm-about-learning"
-id: "TRM-ENG-36298"
+id: "TRM-ENG-65356"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "about learning"

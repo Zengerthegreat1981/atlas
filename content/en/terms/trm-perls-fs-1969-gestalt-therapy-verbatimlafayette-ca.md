@@ -1,6 +1,6 @@
 ---
 slug: "trm-perls-fs-1969-gestalt-therapy-verbatimlafayette-ca"
-id: "TRM-ENG-35893"
+id: "TRM-ENG-64951"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Perls, F.S. (1969). Gestalt therapy verbatim.Lafayette, CA"

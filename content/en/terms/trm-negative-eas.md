@@ -1,6 +1,6 @@
 ---
 slug: "trm-negative-eas"
-id: "TRM-ENG-36741"
+id: "TRM-ENG-65799"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "negative. eas"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-the-soviet-union"
-id: "TRM-ENG-48162"
+id: "TRM-ENG-62691"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in the Soviet Union"

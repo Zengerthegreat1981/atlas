@@ -1,6 +1,6 @@
 ---
 slug: "trm-lacks-socrates-corrects-aristophanes-in-this-way"
-id: "TRM-ENG-48262"
+id: "TRM-ENG-62791"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lacks. Socrates corrects Aristophanes in this way"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-seligman-l-w-reichenberg-l-w-2014-theories-nc"
-id: "TRM-ENG-51016"
+id: "TRM-ENG-65545"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Seligman, L. W., & Reichenberg, L. W. (2014). Theories NC"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-basic-rules-are-in-order"
-id: "TRM-ENG-42973"
+id: "TRM-ENG-57502"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "basic rules are in order"

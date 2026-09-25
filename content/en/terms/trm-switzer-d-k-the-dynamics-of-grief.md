@@ -1,6 +1,6 @@
 ---
 slug: "trm-switzer-d-k-the-dynamics-of-grief"
-id: "TRM-ENG-44658"
+id: "TRM-ENG-59187"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Switzer, D. K., The Dynamics of Grief"

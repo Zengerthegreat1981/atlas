@@ -1,6 +1,6 @@
 ---
 slug: "trm-rubinstein-d"
-id: "TRM-ENG-42196"
+id: "TRM-ENG-56725"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rubinstein D"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-by-several-hypotheses"
-id: "TRM-ENG-47722"
+id: "TRM-ENG-62251"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "by several hypotheses"

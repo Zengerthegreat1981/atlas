@@ -1,6 +1,6 @@
 ---
 slug: "trm-semantic-route-supports-imitation-of-meaningful-ges-note"
-id: "TRM-ENG-45507"
+id: "TRM-ENG-60036"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "semantic route supports imitation of meaningful ges- Note"

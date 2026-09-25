@@ -1,6 +1,6 @@
 ---
 slug: "trm-test-scores"
-id: "TRM-ENG-37094"
+id: "TRM-ENG-66152"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "test scores"

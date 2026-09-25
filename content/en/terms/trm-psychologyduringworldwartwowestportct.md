@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychologyduringworldwartwowestportct"
-id: "TRM-ENG-38164"
+id: "TRM-ENG-52693"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychologyduringWorldWarTwo.Westport,CT"

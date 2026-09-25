@@ -1,6 +1,6 @@
 ---
 slug: "trm-halliday-g-1991-psychological-selfhelp-books"
-id: "TRM-ENG-49014"
+id: "TRM-ENG-63543"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Halliday, G. (1991). Psychological self-help books"

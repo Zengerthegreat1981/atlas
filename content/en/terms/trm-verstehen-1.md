@@ -1,6 +1,6 @@
 ---
 slug: "trm-verstehen-1"
-id: "TRM-ENG-47460"
+id: "TRM-ENG-61989"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Verstehen, 1"

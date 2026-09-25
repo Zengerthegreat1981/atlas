@@ -1,6 +1,6 @@
 ---
 slug: "trm-agnosisofcannabisdependence"
-id: "TRM-ENG-43510"
+id: "TRM-ENG-58039"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "agnosisofcannabisdependence"

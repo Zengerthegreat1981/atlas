@@ -1,6 +1,6 @@
 ---
 slug: "trm-bender"
-id: "TRM-ENG-52078"
+id: "TRM-ENG-66607"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bender"

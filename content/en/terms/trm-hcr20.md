@@ -1,6 +1,6 @@
 ---
 slug: "trm-hcr20"
-id: "TRM-ENG-35722"
+id: "TRM-ENG-64780"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "HCR-20"

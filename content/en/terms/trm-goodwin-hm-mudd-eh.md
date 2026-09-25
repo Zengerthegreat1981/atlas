@@ -1,6 +1,6 @@
 ---
 slug: "trm-goodwin-hm-mudd-eh"
-id: "TRM-ENG-40774"
+id: "TRM-ENG-55303"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goodwin HM, Mudd EH"

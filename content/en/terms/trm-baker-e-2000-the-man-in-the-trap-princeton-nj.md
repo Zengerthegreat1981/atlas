@@ -1,6 +1,6 @@
 ---
 slug: "trm-baker-e-2000-the-man-in-the-trap-princeton-nj"
-id: "TRM-ENG-50139"
+id: "TRM-ENG-64668"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Baker, E. (2000). The man in the trap. Princeton, NJ"

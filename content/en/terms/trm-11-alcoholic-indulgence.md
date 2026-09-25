@@ -1,6 +1,6 @@
 ---
 slug: "trm-11-alcoholic-indulgence"
-id: "TRM-ENG-38564"
+id: "TRM-ENG-53093"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "11. Alcoholic indulgence"

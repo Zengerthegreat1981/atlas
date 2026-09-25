@@ -1,6 +1,6 @@
 ---
 slug: "trm-opiods-and-2"
-id: "TRM-ENG-41049"
+id: "TRM-ENG-55578"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "opiods and, 2"

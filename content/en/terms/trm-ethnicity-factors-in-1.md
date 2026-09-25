@@ -1,6 +1,6 @@
 ---
 slug: "trm-ethnicity-factors-in-1"
-id: "TRM-ENG-40105"
+id: "TRM-ENG-54634"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ethnicity factors in, 1"

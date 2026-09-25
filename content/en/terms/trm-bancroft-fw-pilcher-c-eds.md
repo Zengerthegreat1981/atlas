@@ -1,6 +1,6 @@
 ---
 slug: "trm-bancroft-fw-pilcher-c-eds"
-id: "TRM-ENG-39791"
+id: "TRM-ENG-54320"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bancroft FW, Pilcher C (eds)"

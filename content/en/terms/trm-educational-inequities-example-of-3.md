@@ -1,6 +1,6 @@
 ---
 slug: "trm-educational-inequities-example-of-3"
-id: "TRM-ENG-40011"
+id: "TRM-ENG-54540"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "educational inequities example of, 3"

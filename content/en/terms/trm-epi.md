@@ -1,6 +1,6 @@
 ---
 slug: "trm-epi"
-id: "TRM-ENG-52146"
+id: "TRM-ENG-66675"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "EPI"

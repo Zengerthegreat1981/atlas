@@ -1,6 +1,6 @@
 ---
 slug: "trm-rosenberg-j-i-2006-realtime-training"
-id: "TRM-ENG-38703"
+id: "TRM-ENG-53232"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rosenberg, J. I. (2006). Real-time training"

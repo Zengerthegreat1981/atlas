@@ -1,6 +1,6 @@
 ---
 slug: "trm-anthropology-7-no-2-spring-1984"
-id: "TRM-ENG-45750"
+id: "TRM-ENG-60279"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Anthropology 7, no. 2 (Spring 1984)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-meditation-relies-on-the-close-links-between-cid"
-id: "TRM-ENG-45887"
+id: "TRM-ENG-60416"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Meditation relies on the close links between (cid"

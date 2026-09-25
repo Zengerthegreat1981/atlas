@@ -1,6 +1,6 @@
 ---
 slug: "trm-watzlawick-p-et-al"
-id: "TRM-ENG-42731"
+id: "TRM-ENG-57260"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Watzlawick P, et al"

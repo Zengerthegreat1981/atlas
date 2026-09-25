@@ -1,6 +1,6 @@
 ---
 slug: "trm-andgesture"
-id: "TRM-ENG-37532"
+id: "TRM-ENG-66590"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "andgesture"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-der-acta-psychiatr-scand-109"
-id: "TRM-ENG-48291"
+id: "TRM-ENG-62820"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "der. Acta Psychiatr Scand 109"

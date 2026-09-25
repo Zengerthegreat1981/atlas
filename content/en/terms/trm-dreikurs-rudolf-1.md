@@ -1,6 +1,6 @@
 ---
 slug: "trm-dreikurs-rudolf-1"
-id: "TRM-ENG-50320"
+id: "TRM-ENG-64849"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dreikurs, Rudolf, 1"

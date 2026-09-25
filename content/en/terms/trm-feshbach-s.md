@@ -1,6 +1,6 @@
 ---
 slug: "trm-feshbach-s"
-id: "TRM-ENG-40520"
+id: "TRM-ENG-55049"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Feshbach S"

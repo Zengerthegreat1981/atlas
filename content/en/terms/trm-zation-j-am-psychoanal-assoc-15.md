@@ -1,6 +1,6 @@
 ---
 slug: "trm-zation-j-am-psychoanal-assoc-15"
-id: "TRM-ENG-48741"
+id: "TRM-ENG-63270"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "zation. J Am Psychoanal Assoc 15"

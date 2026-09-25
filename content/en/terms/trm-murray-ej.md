@@ -1,6 +1,6 @@
 ---
 slug: "trm-murray-ej"
-id: "TRM-ENG-41800"
+id: "TRM-ENG-56329"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Murray EJ"

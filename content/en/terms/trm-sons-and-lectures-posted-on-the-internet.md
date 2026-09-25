@@ -1,6 +1,6 @@
 ---
 slug: "trm-sons-and-lectures-posted-on-the-internet"
-id: "TRM-ENG-48738"
+id: "TRM-ENG-63267"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sons and lectures posted on the Internet"

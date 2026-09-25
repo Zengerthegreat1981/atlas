@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-shift-from-one-level-to-another"
-id: "TRM-ENG-43222"
+id: "TRM-ENG-57751"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to shift from one level to another"

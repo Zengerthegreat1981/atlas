@@ -1,6 +1,6 @@
 ---
 slug: "trm-ception-of-depth-including-binocular-disparity"
-id: "TRM-ENG-36253"
+id: "TRM-ENG-50782"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ception of depth, including binocular disparity"

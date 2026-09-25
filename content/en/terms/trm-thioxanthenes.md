@@ -1,6 +1,6 @@
 ---
 slug: "trm-thioxanthenes"
-id: "TRM-ENG-43214"
+id: "TRM-ENG-57743"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thioxanthenes"

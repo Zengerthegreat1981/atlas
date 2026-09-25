@@ -1,6 +1,6 @@
 ---
 slug: "trm-balint-m-balint-e-gosling-r-heidebrand-p"
-id: "TRM-ENG-39783"
+id: "TRM-ENG-54312"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Balint M, Balint E, Gosling R, Heidebrand P"

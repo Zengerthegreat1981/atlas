@@ -1,6 +1,6 @@
 ---
 slug: "trm-acad-psychoanal-29"
-id: "TRM-ENG-47447"
+id: "TRM-ENG-61976"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Acad Psychoanal 29"

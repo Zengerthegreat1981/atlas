@@ -1,6 +1,6 @@
 ---
 slug: "trm-haug-f-1987-female-sexualisation"
-id: "TRM-ENG-35397"
+id: "TRM-ENG-49926"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Haug, F. (1987). Female sexualisation"

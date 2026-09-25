@@ -1,6 +1,6 @@
 ---
 slug: "trm-alonso-a-rutan-js"
-id: "TRM-ENG-39673"
+id: "TRM-ENG-54202"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Alonso A, Rutan JS"

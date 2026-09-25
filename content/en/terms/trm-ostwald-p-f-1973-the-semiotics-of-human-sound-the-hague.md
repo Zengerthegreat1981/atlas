@@ -1,6 +1,6 @@
 ---
 slug: "trm-ostwald-p-f-1973-the-semiotics-of-human-sound-the-hague"
-id: "TRM-ENG-37138"
+id: "TRM-ENG-51667"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ostwald, P. F. (1973). The semiotics of human sound. The Hague"

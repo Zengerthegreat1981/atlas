@@ -1,6 +1,6 @@
 ---
 slug: "trm-example-hoyle-and-kenny-1999-examined-the-simple"
-id: "TRM-ENG-35796"
+id: "TRM-ENG-50325"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "example, Hoyle and Kenny (1999) examined the simple"

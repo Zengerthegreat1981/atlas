@@ -1,6 +1,6 @@
 ---
 slug: "trm-persuasion"
-id: "TRM-ENG-45236"
+id: "TRM-ENG-59765"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "persuasion"

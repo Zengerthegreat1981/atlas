@@ -1,6 +1,6 @@
 ---
 slug: "trm-gordon-t"
-id: "TRM-ENG-40778"
+id: "TRM-ENG-55307"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gordon T"

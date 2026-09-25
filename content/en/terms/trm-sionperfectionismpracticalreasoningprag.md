@@ -1,6 +1,6 @@
 ---
 slug: "trm-sionperfectionismpracticalreasoningprag"
-id: "TRM-ENG-45783"
+id: "TRM-ENG-60312"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "SION;PERFECTIONISM;PRACTICALREASONING;PRAG-"

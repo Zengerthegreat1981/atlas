@@ -1,6 +1,6 @@
 ---
 slug: "trm-reymertml1950feelingsandemotions"
-id: "TRM-ENG-37222"
+id: "TRM-ENG-66280"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Reymert,M.L.(1950).Feelingsandemotions"

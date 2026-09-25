@@ -1,6 +1,6 @@
 ---
 slug: "trm-effectiveness-of-therapy-and-2"
-id: "TRM-ENG-40015"
+id: "TRM-ENG-54544"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "effectiveness of therapy and, 2"

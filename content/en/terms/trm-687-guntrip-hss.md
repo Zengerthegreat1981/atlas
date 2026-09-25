@@ -1,6 +1,6 @@
 ---
 slug: "trm-687-guntrip-hss"
-id: "TRM-ENG-39318"
+id: "TRM-ENG-53847"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "687. Guntrip HSS"

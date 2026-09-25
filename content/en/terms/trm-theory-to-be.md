@@ -1,6 +1,6 @@
 ---
 slug: "trm-theory-to-be"
-id: "TRM-ENG-45372"
+id: "TRM-ENG-59901"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theory, to be"

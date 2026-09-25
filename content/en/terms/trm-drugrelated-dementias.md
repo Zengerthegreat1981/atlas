@@ -1,6 +1,6 @@
 ---
 slug: "trm-drugrelated-dementias"
-id: "TRM-ENG-34609"
+id: "TRM-ENG-49138"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Drug-related dementias"

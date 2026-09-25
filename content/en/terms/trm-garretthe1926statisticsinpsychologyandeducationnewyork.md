@@ -1,6 +1,6 @@
 ---
 slug: "trm-garretthe1926statisticsinpsychologyandeducationnewyork"
-id: "TRM-ENG-36834"
+id: "TRM-ENG-65892"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Garrett,H.E.(1926).Statisticsinpsychologyandeducation.NewYork"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-imitation-and-on-verbal-command-damage-to-the-ing"
-id: "TRM-ENG-45189"
+id: "TRM-ENG-59718"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "imitation and on verbal command. Damage to the ing"

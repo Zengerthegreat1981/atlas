@@ -1,6 +1,6 @@
 ---
 slug: "trm-talbott-dr"
-id: "TRM-ENG-42540"
+id: "TRM-ENG-57069"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Talbott DR"

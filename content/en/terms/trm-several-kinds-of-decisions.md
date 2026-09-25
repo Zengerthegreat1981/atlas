@@ -1,6 +1,6 @@
 ---
 slug: "trm-several-kinds-of-decisions"
-id: "TRM-ENG-45511"
+id: "TRM-ENG-60040"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "several kinds of decisions"

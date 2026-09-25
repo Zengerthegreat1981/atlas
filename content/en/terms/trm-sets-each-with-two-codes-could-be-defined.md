@@ -1,6 +1,6 @@
 ---
 slug: "trm-sets-each-with-two-codes-could-be-defined"
-id: "TRM-ENG-36116"
+id: "TRM-ENG-65174"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sets each with two codes could be defined"

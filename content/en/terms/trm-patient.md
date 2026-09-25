@@ -1,6 +1,6 @@
 ---
 slug: "trm-patient"
-id: "TRM-ENG-35885"
+id: "TRM-ENG-50414"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Patient"

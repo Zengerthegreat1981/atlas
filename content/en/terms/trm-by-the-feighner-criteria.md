@@ -1,6 +1,6 @@
 ---
 slug: "trm-by-the-feighner-criteria"
-id: "TRM-ENG-42697"
+id: "TRM-ENG-57226"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "by the Feighner criteria"

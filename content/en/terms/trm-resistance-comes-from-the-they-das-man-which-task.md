@@ -1,6 +1,6 @@
 ---
 slug: "trm-resistance-comes-from-the-they-das-man-which-task"
-id: "TRM-ENG-48664"
+id: "TRM-ENG-63193"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "resistance comes from “the they” (das Man), which task"

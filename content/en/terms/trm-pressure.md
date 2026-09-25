@@ -1,6 +1,6 @@
 ---
 slug: "trm-pressure"
-id: "TRM-ENG-47211"
+id: "TRM-ENG-61740"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pressure"

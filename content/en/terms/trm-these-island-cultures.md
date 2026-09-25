@@ -1,6 +1,6 @@
 ---
 slug: "trm-these-island-cultures"
-id: "TRM-ENG-41948"
+id: "TRM-ENG-56477"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "these island cultures"

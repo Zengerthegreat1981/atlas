@@ -1,6 +1,6 @@
 ---
 slug: "trm-strong-profile-summary-and-4"
-id: "TRM-ENG-38829"
+id: "TRM-ENG-53358"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Strong Profile summary and, 4"

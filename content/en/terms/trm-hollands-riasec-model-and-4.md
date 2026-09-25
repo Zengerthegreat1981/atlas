@@ -1,6 +1,6 @@
 ---
 slug: "trm-hollands-riasec-model-and-4"
-id: "TRM-ENG-38188"
+id: "TRM-ENG-52717"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Holland’s RIASEC Model and, 4"

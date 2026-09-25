@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-original-texts"
-id: "TRM-ENG-46040"
+id: "TRM-ENG-60569"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the original texts"

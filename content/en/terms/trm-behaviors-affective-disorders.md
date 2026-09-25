@@ -1,6 +1,6 @@
 ---
 slug: "trm-behaviors-affective-disorders"
-id: "TRM-ENG-44962"
+id: "TRM-ENG-59491"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behaviors. Affective disorders"

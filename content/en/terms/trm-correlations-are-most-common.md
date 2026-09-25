@@ -1,6 +1,6 @@
 ---
 slug: "trm-correlations-are-most-common"
-id: "TRM-ENG-35739"
+id: "TRM-ENG-64797"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "correlations are most common"

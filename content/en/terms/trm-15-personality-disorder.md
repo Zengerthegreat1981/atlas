@@ -1,6 +1,6 @@
 ---
 slug: "trm-15-personality-disorder"
-id: "TRM-ENG-38625"
+id: "TRM-ENG-53154"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "15. personality disorder"

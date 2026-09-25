@@ -1,6 +1,6 @@
 ---
 slug: "trm-more-generally"
-id: "TRM-ENG-48374"
+id: "TRM-ENG-62903"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "more generally"

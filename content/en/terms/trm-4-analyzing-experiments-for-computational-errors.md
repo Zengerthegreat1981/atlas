@@ -1,6 +1,6 @@
 ---
 slug: "trm-4-analyzing-experiments-for-computational-errors"
-id: "TRM-ENG-34607"
+id: "TRM-ENG-63665"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "4. Analyzing experiments for computational errors"

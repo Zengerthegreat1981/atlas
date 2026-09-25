@@ -1,6 +1,6 @@
 ---
 slug: "trm-attachment-behavior-toward-her"
-id: "TRM-ENG-44908"
+id: "TRM-ENG-59437"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "attachment behavior toward her"

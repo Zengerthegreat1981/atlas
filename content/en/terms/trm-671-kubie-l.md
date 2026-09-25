@@ -1,6 +1,6 @@
 ---
 slug: "trm-671-kubie-l"
-id: "TRM-ENG-39301"
+id: "TRM-ENG-53830"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "671. Kubie L"

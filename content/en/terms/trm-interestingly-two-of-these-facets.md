@@ -1,6 +1,6 @@
 ---
 slug: "trm-interestingly-two-of-these-facets"
-id: "TRM-ENG-43455"
+id: "TRM-ENG-57984"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Interestingly, two of these facets"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-trull-t-widiger-t-burr-r"
-id: "TRM-ENG-48131"
+id: "TRM-ENG-62660"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Trull T, Widiger T, Burr R"

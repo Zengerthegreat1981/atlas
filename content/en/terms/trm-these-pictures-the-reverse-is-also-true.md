@@ -1,6 +1,6 @@
 ---
 slug: "trm-these-pictures-the-reverse-is-also-true"
-id: "TRM-ENG-49776"
+id: "TRM-ENG-64305"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "these pictures. The reverse is also true"

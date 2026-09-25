@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-a-question"
-id: "TRM-ENG-35092"
+id: "TRM-ENG-64150"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to a question"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-among-asianamericans"
-id: "TRM-ENG-39147"
+id: "TRM-ENG-53676"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "among Asian-Americans"

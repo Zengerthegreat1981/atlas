@@ -1,6 +1,6 @@
 ---
 slug: "trm-tion-two-analytic-approaches-can-be-distinguished"
-id: "TRM-ENG-36200"
+id: "TRM-ENG-50729"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tion. Two analytic approaches can be distinguished"

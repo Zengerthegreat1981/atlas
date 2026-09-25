@@ -1,6 +1,6 @@
 ---
 slug: "trm-11-use-of-dreams"
-id: "TRM-ENG-38570"
+id: "TRM-ENG-53099"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "11. Use of dreams"

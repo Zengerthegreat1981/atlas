@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavioral-treatment-of-body-dysmorphic-disorder"
-id: "TRM-ENG-49304"
+id: "TRM-ENG-63833"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behavioral treatment of body dysmorphic disorder"

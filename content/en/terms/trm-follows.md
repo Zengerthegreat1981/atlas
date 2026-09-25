@@ -1,6 +1,6 @@
 ---
 slug: "trm-follows"
-id: "TRM-ENG-35024"
+id: "TRM-ENG-64082"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "follows"

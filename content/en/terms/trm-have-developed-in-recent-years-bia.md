@@ -1,6 +1,6 @@
 ---
 slug: "trm-have-developed-in-recent-years-bia"
-id: "TRM-ENG-46101"
+id: "TRM-ENG-60630"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "have developed in recent years.) bia"

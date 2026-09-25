@@ -1,6 +1,6 @@
 ---
 slug: "trm-handersandlefthanders"
-id: "TRM-ENG-37804"
+id: "TRM-ENG-52333"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "handersandleft-handers"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-lium-compare-allocortex"
-id: "TRM-ENG-43716"
+id: "TRM-ENG-58245"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lium. Compare allocortex."

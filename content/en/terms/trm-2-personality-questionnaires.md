@@ -1,6 +1,6 @@
 ---
 slug: "trm-2-personality-questionnaires"
-id: "TRM-ENG-38702"
+id: "TRM-ENG-53231"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "2. Personality questionnaires"

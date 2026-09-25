@@ -1,6 +1,6 @@
 ---
 slug: "trm-hemisphere"
-id: "TRM-ENG-34856"
+id: "TRM-ENG-63914"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "hemisphere"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ariely-d-berns-g-s-2010-neuromarketing"
-id: "TRM-ENG-35297"
+id: "TRM-ENG-64355"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ariely, D., & Berns, G. S. (2010). Neuromarketing"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-functions-alprazolam-and-exposure-therapy"
-id: "TRM-ENG-49453"
+id: "TRM-ENG-63982"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "functions, alprazolam and exposure therapy"

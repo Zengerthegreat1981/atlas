@@ -1,6 +1,6 @@
 ---
 slug: "trm-universalist-approach-legacy-to-3"
-id: "TRM-ENG-42083"
+id: "TRM-ENG-56612"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "universalist approach legacy to, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-noted"
-id: "TRM-ENG-46169"
+id: "TRM-ENG-60698"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "noted"

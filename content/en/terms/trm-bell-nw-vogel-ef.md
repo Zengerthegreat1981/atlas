@@ -1,6 +1,6 @@
 ---
 slug: "trm-bell-nw-vogel-ef"
-id: "TRM-ENG-39860"
+id: "TRM-ENG-54389"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bell NW, Vogel EF"

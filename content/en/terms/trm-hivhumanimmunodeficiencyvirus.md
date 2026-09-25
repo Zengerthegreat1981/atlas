@@ -1,6 +1,6 @@
 ---
 slug: "trm-hivhumanimmunodeficiencyvirus"
-id: "TRM-ENG-43475"
+id: "TRM-ENG-58004"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "HIVhumanimmunodeficiencyvirus"

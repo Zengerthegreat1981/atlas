@@ -1,6 +1,6 @@
 ---
 slug: "trm-far-and-wide"
-id: "TRM-ENG-45025"
+id: "TRM-ENG-59554"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "far and wide"

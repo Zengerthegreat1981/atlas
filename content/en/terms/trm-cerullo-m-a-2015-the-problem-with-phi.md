@@ -1,6 +1,6 @@
 ---
 slug: "trm-cerullo-m-a-2015-the-problem-with-phi"
-id: "TRM-ENG-34597"
+id: "TRM-ENG-63655"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cerullo, M. A. (2015). The problem with phi"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-external-vsinternal-ethnic-identity-and-3"
-id: "TRM-ENG-40151"
+id: "TRM-ENG-54680"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "external vs.internal ethnic identity and, 3"

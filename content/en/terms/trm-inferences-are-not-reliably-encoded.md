@@ -1,6 +1,6 @@
 ---
 slug: "trm-inferences-are-not-reliably-encoded"
-id: "TRM-ENG-45209"
+id: "TRM-ENG-59738"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "inferences are not reliably encoded"

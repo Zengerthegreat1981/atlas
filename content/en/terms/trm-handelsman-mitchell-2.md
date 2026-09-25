@@ -1,6 +1,6 @@
 ---
 slug: "trm-handelsman-mitchell-2"
-id: "TRM-ENG-38145"
+id: "TRM-ENG-52674"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Handelsman, Mitchell, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-adaptation-and-3"
-id: "TRM-ENG-39103"
+id: "TRM-ENG-53632"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "adaptation and, 3"

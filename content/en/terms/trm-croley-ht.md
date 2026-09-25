@@ -1,6 +1,6 @@
 ---
 slug: "trm-croley-ht"
-id: "TRM-ENG-40269"
+id: "TRM-ENG-54798"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Croley HT"

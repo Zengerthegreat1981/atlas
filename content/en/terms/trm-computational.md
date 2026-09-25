@@ -1,6 +1,6 @@
 ---
 slug: "trm-computational"
-id: "TRM-ENG-36704"
+id: "TRM-ENG-65762"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Computational"

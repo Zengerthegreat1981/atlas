@@ -1,6 +1,6 @@
 ---
 slug: "trm-vere-personality-disorders"
-id: "TRM-ENG-43417"
+id: "TRM-ENG-57946"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "vere personality disorders"

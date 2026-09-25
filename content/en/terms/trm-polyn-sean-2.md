@@ -1,6 +1,6 @@
 ---
 slug: "trm-polyn-sean-2"
-id: "TRM-ENG-44694"
+id: "TRM-ENG-59223"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Polyn, Sean, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-other-words"
-id: "TRM-ENG-38072"
+id: "TRM-ENG-67130"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "other words"

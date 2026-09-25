@@ -1,6 +1,6 @@
 ---
 slug: "trm-baer-gl"
-id: "TRM-ENG-34623"
+id: "TRM-ENG-63681"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Baer. ~ gL"

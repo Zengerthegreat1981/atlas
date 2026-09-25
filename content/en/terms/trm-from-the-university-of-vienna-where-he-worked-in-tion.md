@@ -1,6 +1,6 @@
 ---
 slug: "trm-from-the-university-of-vienna-where-he-worked-in-tion"
-id: "TRM-ENG-37781"
+id: "TRM-ENG-66839"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "from the University of Vienna where he worked in tion"

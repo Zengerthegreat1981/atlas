@@ -1,6 +1,6 @@
 ---
 slug: "trm-feelings-extremely-might-be-given-three-goals"
-id: "TRM-ENG-46088"
+id: "TRM-ENG-60617"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "feelings extremely might be given three goals"

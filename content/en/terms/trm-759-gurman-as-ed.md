@@ -1,6 +1,6 @@
 ---
 slug: "trm-759-gurman-as-ed"
-id: "TRM-ENG-39408"
+id: "TRM-ENG-53937"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "759. Gurman AS (ed)"

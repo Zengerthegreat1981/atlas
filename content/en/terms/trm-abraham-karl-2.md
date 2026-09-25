@@ -1,6 +1,6 @@
 ---
 slug: "trm-abraham-karl-2"
-id: "TRM-ENG-50077"
+id: "TRM-ENG-64606"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Abraham, Karl, 2"

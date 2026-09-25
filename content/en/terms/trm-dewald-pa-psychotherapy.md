@@ -1,6 +1,6 @@
 ---
 slug: "trm-dewald-pa-psychotherapy"
-id: "TRM-ENG-40348"
+id: "TRM-ENG-54877"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dewald PA: Psychotherapy"

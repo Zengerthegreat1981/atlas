@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-startle-and-defense-responses"
-id: "TRM-ENG-35875"
+id: "TRM-ENG-50404"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing, startle and defense responses"

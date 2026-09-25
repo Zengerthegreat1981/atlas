@@ -1,6 +1,6 @@
 ---
 slug: "trm-scheffler-2"
-id: "TRM-ENG-47223"
+id: "TRM-ENG-61752"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Scheffler, 2"

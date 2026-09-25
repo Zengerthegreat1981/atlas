@@ -1,6 +1,6 @@
 ---
 slug: "trm-acutecontinuationandmaintenance"
-id: "TRM-ENG-43506"
+id: "TRM-ENG-58035"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "acute,continuation,andmaintenance"

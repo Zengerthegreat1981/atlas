@@ -1,6 +1,6 @@
 ---
 slug: "trm-lubrication-response"
-id: "TRM-ENG-36653"
+id: "TRM-ENG-65711"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lubrication response"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-review-33-retrieved-from-http"
-id: "TRM-ENG-50959"
+id: "TRM-ENG-65488"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Review, 3(3). Retrieved from http"

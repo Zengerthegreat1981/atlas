@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-transmitter-gases"
-id: "TRM-ENG-34743"
+id: "TRM-ENG-63801"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and transmitter gases"

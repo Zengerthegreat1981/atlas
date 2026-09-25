@@ -1,6 +1,6 @@
 ---
 slug: "trm-kubie-ls-margolin-s"
-id: "TRM-ENG-41325"
+id: "TRM-ENG-55854"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kubie LS, Margolin S"

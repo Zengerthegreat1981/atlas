@@ -1,6 +1,6 @@
 ---
 slug: "trm-man-emerging"
-id: "TRM-ENG-38397"
+id: "TRM-ENG-52926"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Man Emerging"

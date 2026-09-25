@@ -1,6 +1,6 @@
 ---
 slug: "trm-lipman-l-2003-the-triadic-system"
-id: "TRM-ENG-50676"
+id: "TRM-ENG-65205"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lipman, L. (2003). The triadic system"

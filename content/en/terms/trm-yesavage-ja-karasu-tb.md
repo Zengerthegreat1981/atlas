@@ -1,6 +1,6 @@
 ---
 slug: "trm-yesavage-ja-karasu-tb"
-id: "TRM-ENG-42893"
+id: "TRM-ENG-57422"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Yesavage JA, Karasu TB"

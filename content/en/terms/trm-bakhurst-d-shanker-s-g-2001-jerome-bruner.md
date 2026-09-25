@@ -1,6 +1,6 @@
 ---
 slug: "trm-bakhurst-d-shanker-s-g-2001-jerome-bruner"
-id: "TRM-ENG-46274"
+id: "TRM-ENG-60803"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bakhurst, D., & Shanker, S. G. (2001). Jerome Bruner"

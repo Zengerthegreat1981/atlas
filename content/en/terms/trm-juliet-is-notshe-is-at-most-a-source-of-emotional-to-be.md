@@ -1,6 +1,6 @@
 ---
 slug: "trm-juliet-is-notshe-is-at-most-a-source-of-emotional-to-be"
-id: "TRM-ENG-44560"
+id: "TRM-ENG-59089"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Juliet is not—she is, at most, a source of emotional to be"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-gruenberg-em"
-id: "TRM-ENG-40845"
+id: "TRM-ENG-55374"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gruenberg EM"

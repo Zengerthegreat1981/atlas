@@ -1,6 +1,6 @@
 ---
 slug: "trm-fechner-gt-1860-elemente-der-psychophysikleipzig"
-id: "TRM-ENG-35672"
+id: "TRM-ENG-64730"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fechner, G.T. (1860). Elemente der Psychophysik.Leipzig"

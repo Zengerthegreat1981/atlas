@@ -1,6 +1,6 @@
 ---
 slug: "trm-gen-psychiatry-61"
-id: "TRM-ENG-47667"
+id: "TRM-ENG-62196"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gen Psychiatry 61"

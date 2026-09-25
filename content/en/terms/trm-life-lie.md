@@ -1,6 +1,6 @@
 ---
 slug: "trm-life-lie"
-id: "TRM-ENG-52264"
+id: "TRM-ENG-66793"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Life lie"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-exposition"
-id: "TRM-ENG-48014"
+id: "TRM-ENG-62543"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "exposition"

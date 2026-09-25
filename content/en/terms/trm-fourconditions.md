@@ -1,6 +1,6 @@
 ---
 slug: "trm-fourconditions"
-id: "TRM-ENG-49444"
+id: "TRM-ENG-63973"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "fourconditions"

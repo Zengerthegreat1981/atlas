@@ -1,6 +1,6 @@
 ---
 slug: "trm-bidimensional-acculturation-scale-bas-3"
-id: "TRM-ENG-37694"
+id: "TRM-ENG-66752"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bidimensional Acculturation Scale (BAS), 3"

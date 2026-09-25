@@ -1,6 +1,6 @@
 ---
 slug: "trm-focus-agent-efforts"
-id: "TRM-ENG-48033"
+id: "TRM-ENG-62562"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "focus agent efforts"

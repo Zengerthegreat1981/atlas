@@ -1,6 +1,6 @@
 ---
 slug: "trm-els-of-description-and-explanation"
-id: "TRM-ENG-42802"
+id: "TRM-ENG-57331"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "els of description and explanation"

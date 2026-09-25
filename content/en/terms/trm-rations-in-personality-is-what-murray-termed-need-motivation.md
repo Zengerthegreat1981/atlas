@@ -1,6 +1,6 @@
 ---
 slug: "trm-rations-in-personality-is-what-murray-termed-need-motivation"
-id: "TRM-ENG-36925"
+id: "TRM-ENG-65983"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rations in Personality, is what Murray termed “need motivation"

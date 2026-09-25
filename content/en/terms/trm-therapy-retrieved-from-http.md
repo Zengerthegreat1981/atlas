@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapy-retrieved-from-http"
-id: "TRM-ENG-51915"
+id: "TRM-ENG-66444"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapy. Retrieved from http"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-porter-bruce-1"
-id: "TRM-ENG-44697"
+id: "TRM-ENG-59226"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Porter, Bruce, 1"

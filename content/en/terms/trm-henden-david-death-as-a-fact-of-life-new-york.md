@@ -1,6 +1,6 @@
 ---
 slug: "trm-henden-david-death-as-a-fact-of-life-new-york"
-id: "TRM-ENG-45839"
+id: "TRM-ENG-60368"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Henden, David, Death As a Fact of Life (New York"

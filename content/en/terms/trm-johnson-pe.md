@@ -1,6 +1,6 @@
 ---
 slug: "trm-johnson-pe"
-id: "TRM-ENG-41140"
+id: "TRM-ENG-55669"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Johnson PE"

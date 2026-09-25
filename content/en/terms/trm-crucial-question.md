@@ -1,6 +1,6 @@
 ---
 slug: "trm-crucial-question"
-id: "TRM-ENG-36327"
+id: "TRM-ENG-50856"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "crucial question"

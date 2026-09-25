@@ -1,6 +1,6 @@
 ---
 slug: "trm-paylo-m-j-2005-helping-families-search-for-solutions"
-id: "TRM-ENG-50844"
+id: "TRM-ENG-65373"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Paylo, M. J. (2005). Helping families search for solutions"

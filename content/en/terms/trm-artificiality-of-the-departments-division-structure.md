@@ -1,6 +1,6 @@
 ---
 slug: "trm-artificiality-of-the-departments-division-structure"
-id: "TRM-ENG-37556"
+id: "TRM-ENG-52085"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "artificiality of the department’s division structure"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-hemianopia"
-id: "TRM-ENG-34855"
+id: "TRM-ENG-49384"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "hemianopia"

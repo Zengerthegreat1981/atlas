@@ -1,6 +1,6 @@
 ---
 slug: "trm-asmara"
-id: "TRM-ENG-36573"
+id: "TRM-ENG-51102"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Asmara"

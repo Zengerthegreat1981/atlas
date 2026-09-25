@@ -1,6 +1,6 @@
 ---
 slug: "trm-tional-methods-more-than-others"
-id: "TRM-ENG-48923"
+id: "TRM-ENG-63452"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tional methods more than others"

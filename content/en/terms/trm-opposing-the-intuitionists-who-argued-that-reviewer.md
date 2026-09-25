@@ -1,6 +1,6 @@
 ---
 slug: "trm-opposing-the-intuitionists-who-argued-that-reviewer"
-id: "TRM-ENG-37135"
+id: "TRM-ENG-66193"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Opposing the “intuitionists” who argued that reviewer"

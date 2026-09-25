@@ -1,6 +1,6 @@
 ---
 slug: "trm-cal-pairs-are-recognized"
-id: "TRM-ENG-47729"
+id: "TRM-ENG-62258"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cal pairs are recognized"

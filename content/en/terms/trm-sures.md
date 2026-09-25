@@ -1,6 +1,6 @@
 ---
 slug: "trm-sures"
-id: "TRM-ENG-35353"
+id: "TRM-ENG-49882"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sures"

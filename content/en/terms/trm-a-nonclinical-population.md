@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-nonclinical-population"
-id: "TRM-ENG-43581"
+id: "TRM-ENG-58110"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "a nonclinical population"

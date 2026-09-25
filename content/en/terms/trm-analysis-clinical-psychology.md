@@ -1,6 +1,6 @@
 ---
 slug: "trm-analysis-clinical-psychology"
-id: "TRM-ENG-49248"
+id: "TRM-ENG-63777"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "analysis. Clinical Psychology"

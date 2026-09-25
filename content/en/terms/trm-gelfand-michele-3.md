@@ -1,6 +1,6 @@
 ---
 slug: "trm-gelfand-michele-3"
-id: "TRM-ENG-38101"
+id: "TRM-ENG-52630"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gelfand, Michele, 3"

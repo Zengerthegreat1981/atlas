@@ -1,6 +1,6 @@
 ---
 slug: "trm-academic-in-focus"
-id: "TRM-ENG-51208"
+id: "TRM-ENG-65737"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "academic in focus"

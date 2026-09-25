@@ -1,6 +1,6 @@
 ---
 slug: "trm-with-wound-healing"
-id: "TRM-ENG-48735"
+id: "TRM-ENG-63264"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "with wound healing"

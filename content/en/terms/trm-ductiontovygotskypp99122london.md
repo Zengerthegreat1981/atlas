@@ -1,6 +1,6 @@
 ---
 slug: "trm-ductiontovygotskypp99122london"
-id: "TRM-ENG-37706"
+id: "TRM-ENG-66764"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ductiontoVygotsky(pp.99–122).London"

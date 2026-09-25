@@ -1,6 +1,6 @@
 ---
 slug: "trm-hubbard-jp-templeton-b"
-id: "TRM-ENG-41043"
+id: "TRM-ENG-55572"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hubbard JP, Templeton B"

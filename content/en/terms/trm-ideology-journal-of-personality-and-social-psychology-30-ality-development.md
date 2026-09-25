@@ -1,6 +1,6 @@
 ---
 slug: "trm-ideology-journal-of-personality-and-social-psychology-30-ality-development"
-id: "TRM-ENG-35067"
+id: "TRM-ENG-49596"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ideology. Journal of Personality and Social Psychology, 30, ality development"

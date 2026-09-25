@@ -1,6 +1,6 @@
 ---
 slug: "trm-johnston-r"
-id: "TRM-ENG-41143"
+id: "TRM-ENG-55672"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Johnston R"

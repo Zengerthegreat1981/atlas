@@ -1,6 +1,6 @@
 ---
 slug: "trm-factorsisevaluatedinthreetimeperiods"
-id: "TRM-ENG-43646"
+id: "TRM-ENG-58175"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "factorsisevaluatedinthreetimeperiods"

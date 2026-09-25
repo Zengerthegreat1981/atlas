@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-depression"
-id: "TRM-ENG-35072"
+id: "TRM-ENG-49601"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in depression"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-yetrelatedabilities"
-id: "TRM-ENG-38468"
+id: "TRM-ENG-52997"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "yetrelatedabilities"

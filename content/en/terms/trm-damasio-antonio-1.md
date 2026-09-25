@@ -1,6 +1,6 @@
 ---
 slug: "trm-damasio-antonio-1"
-id: "TRM-ENG-44412"
+id: "TRM-ENG-58941"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Damasio, Antonio, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-stern-k-et-al"
-id: "TRM-ENG-42464"
+id: "TRM-ENG-56993"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stern K, et al"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-lations"
-id: "TRM-ENG-48423"
+id: "TRM-ENG-62952"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lations"

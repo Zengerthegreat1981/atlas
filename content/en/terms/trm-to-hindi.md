@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-hindi"
-id: "TRM-ENG-37206"
+id: "TRM-ENG-66264"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to Hindi"

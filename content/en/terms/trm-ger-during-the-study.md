@@ -1,6 +1,6 @@
 ---
 slug: "trm-ger-during-the-study"
-id: "TRM-ENG-48361"
+id: "TRM-ENG-62890"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ger during the study"

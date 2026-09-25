@@ -1,6 +1,6 @@
 ---
 slug: "trm-bartlett-f-c-1932-remembering-cambridge-uk"
-id: "TRM-ENG-48898"
+id: "TRM-ENG-63427"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bartlett, F. C. (1932). Remembering. Cambridge, UK"

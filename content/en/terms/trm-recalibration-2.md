@@ -1,6 +1,6 @@
 ---
 slug: "trm-recalibration-2"
-id: "TRM-ENG-44729"
+id: "TRM-ENG-59258"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Recalibration, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-steriade-m-1996-arousal"
-id: "TRM-ENG-35980"
+id: "TRM-ENG-65038"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Steriade, M. (1996). Arousal"

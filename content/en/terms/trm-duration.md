@@ -1,6 +1,6 @@
 ---
 slug: "trm-duration"
-id: "TRM-ENG-34995"
+id: "TRM-ENG-64053"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "duration"

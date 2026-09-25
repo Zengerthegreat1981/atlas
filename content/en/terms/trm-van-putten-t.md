@@ -1,6 +1,6 @@
 ---
 slug: "trm-van-putten-t"
-id: "TRM-ENG-42666"
+id: "TRM-ENG-57195"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Van Putten T"

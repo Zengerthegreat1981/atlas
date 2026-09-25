@@ -1,6 +1,6 @@
 ---
 slug: "trm-teaching-and-learning-about-narrative-and-culture"
-id: "TRM-ENG-48796"
+id: "TRM-ENG-63325"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "teaching and learning, about narrative and culture"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-morgan-conway-lloyd-18521936-morgan-is-three-books"
-id: "TRM-ENG-35822"
+id: "TRM-ENG-64880"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "MORGAN, CONWAY LLOYD (1852–1936) Morgan is three books"

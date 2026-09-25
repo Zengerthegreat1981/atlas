@@ -1,6 +1,6 @@
 ---
 slug: "trm-living-or-extinct"
-id: "TRM-ENG-43725"
+id: "TRM-ENG-58254"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "living or extinct"

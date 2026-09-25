@@ -1,6 +1,6 @@
 ---
 slug: "trm-282-pasnau-ro-ed"
-id: "TRM-ENG-38818"
+id: "TRM-ENG-53347"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "282. Pasnau RO (ed)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-foravoidingsexisminpsychologicalresearch"
-id: "TRM-ENG-37773"
+id: "TRM-ENG-52302"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "foravoidingsexisminpsychologicalresearch"

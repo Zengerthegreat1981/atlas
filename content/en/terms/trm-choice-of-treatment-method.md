@@ -1,6 +1,6 @@
 ---
 slug: "trm-choice-of-treatment-method"
-id: "TRM-ENG-40174"
+id: "TRM-ENG-54703"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Choice of treatment method"

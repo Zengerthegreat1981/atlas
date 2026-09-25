@@ -1,6 +1,6 @@
 ---
 slug: "trm-new-york-times"
-id: "TRM-ENG-41833"
+id: "TRM-ENG-56362"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "New York Times"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-714-chessick-rd"
-id: "TRM-ENG-39358"
+id: "TRM-ENG-53887"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "714. Chessick RD"

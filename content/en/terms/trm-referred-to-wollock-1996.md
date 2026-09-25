@@ -1,6 +1,6 @@
 ---
 slug: "trm-referred-to-wollock-1996"
-id: "TRM-ENG-38196"
+id: "TRM-ENG-52725"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "referred to (Wollock 1996"

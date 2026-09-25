@@ -1,6 +1,6 @@
 ---
 slug: "trm-capp-task-force-on-prescription-privileges"
-id: "TRM-ENG-37749"
+id: "TRM-ENG-66807"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "CAPP task force on prescription privileges"

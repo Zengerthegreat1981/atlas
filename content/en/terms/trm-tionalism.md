@@ -1,6 +1,6 @@
 ---
 slug: "trm-tionalism"
-id: "TRM-ENG-44020"
+id: "TRM-ENG-58549"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "TIONALISM."

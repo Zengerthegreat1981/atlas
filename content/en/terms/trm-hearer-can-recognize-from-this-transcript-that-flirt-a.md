@@ -1,6 +1,6 @@
 ---
 slug: "trm-hearer-can-recognize-from-this-transcript-that-flirt-a"
-id: "TRM-ENG-45168"
+id: "TRM-ENG-59697"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "hearer can recognize from this transcript that flirt- A"

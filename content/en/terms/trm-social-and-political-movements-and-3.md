@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-and-political-movements-and-3"
-id: "TRM-ENG-41681"
+id: "TRM-ENG-56210"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social and political movements and, 3"

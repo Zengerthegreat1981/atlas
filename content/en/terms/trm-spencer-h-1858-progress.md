@@ -1,6 +1,6 @@
 ---
 slug: "trm-spencer-h-1858-progress"
-id: "TRM-ENG-47321"
+id: "TRM-ENG-61850"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spencer, H. (1858). Progress"

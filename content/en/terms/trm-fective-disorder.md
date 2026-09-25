@@ -1,6 +1,6 @@
 ---
 slug: "trm-fective-disorder"
-id: "TRM-ENG-36428"
+id: "TRM-ENG-65486"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "fective disorder"

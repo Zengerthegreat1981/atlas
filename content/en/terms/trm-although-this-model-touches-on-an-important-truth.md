@@ -1,6 +1,6 @@
 ---
 slug: "trm-although-this-model-touches-on-an-important-truth"
-id: "TRM-ENG-35577"
+id: "TRM-ENG-64635"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Although this model touches on an important truth"

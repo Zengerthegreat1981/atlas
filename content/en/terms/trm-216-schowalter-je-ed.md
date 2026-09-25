@@ -1,6 +1,6 @@
 ---
 slug: "trm-216-schowalter-je-ed"
-id: "TRM-ENG-38731"
+id: "TRM-ENG-53260"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "216. Schowalter JE (ed)"

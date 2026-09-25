@@ -1,6 +1,6 @@
 ---
 slug: "trm-nonhasidic-orthodox-jews-3"
-id: "TRM-ENG-38517"
+id: "TRM-ENG-53046"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Non-Hasidic Orthodox Jews, 3"

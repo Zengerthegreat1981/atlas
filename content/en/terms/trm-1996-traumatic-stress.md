@@ -1,6 +1,6 @@
 ---
 slug: "trm-1996-traumatic-stress"
-id: "TRM-ENG-49891"
+id: "TRM-ENG-64420"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1996). Traumatic stress"

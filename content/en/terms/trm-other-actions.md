@@ -1,6 +1,6 @@
 ---
 slug: "trm-other-actions"
-id: "TRM-ENG-45383"
+id: "TRM-ENG-59912"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "other actions"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-klein-dn-shih-jh"
-id: "TRM-ENG-47790"
+id: "TRM-ENG-62319"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Klein DN, Shih JH"

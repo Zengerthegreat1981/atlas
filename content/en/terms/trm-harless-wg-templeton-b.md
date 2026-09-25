@@ -1,6 +1,6 @@
 ---
 slug: "trm-harless-wg-templeton-b"
-id: "TRM-ENG-40912"
+id: "TRM-ENG-55441"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Harless WG, Templeton B"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-seneca-1932-expressed-the-problem-well"
-id: "TRM-ENG-47592"
+id: "TRM-ENG-62121"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and Seneca (1932) expressed the problem well"

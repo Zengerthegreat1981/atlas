@@ -1,6 +1,6 @@
 ---
 slug: "trm-eds-confronting-raism"
-id: "TRM-ENG-34575"
+id: "TRM-ENG-63633"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Eds.). Confronting ra(-ism"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-adornotw1978minimamoralia"
-id: "TRM-ENG-36535"
+id: "TRM-ENG-51064"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Adorno,T.W.(1978).MinimaMoralia"

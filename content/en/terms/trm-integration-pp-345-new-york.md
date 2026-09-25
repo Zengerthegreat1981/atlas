@@ -1,6 +1,6 @@
 ---
 slug: "trm-integration-pp-345-new-york"
-id: "TRM-ENG-42921"
+id: "TRM-ENG-57450"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "integration (pp. 3–45). New York"

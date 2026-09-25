@@ -1,6 +1,6 @@
 ---
 slug: "trm-nigrescence-model-expansion-3"
-id: "TRM-ENG-38510"
+id: "TRM-ENG-53039"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nigrescence Model expansion, 3"

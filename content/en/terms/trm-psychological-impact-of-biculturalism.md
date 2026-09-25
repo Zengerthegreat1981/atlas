@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychological-impact-of-biculturalism"
-id: "TRM-ENG-38637"
+id: "TRM-ENG-53166"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychological impact of biculturalism"

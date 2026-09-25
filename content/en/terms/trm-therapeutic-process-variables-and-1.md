@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapeutic-process-variables-and-1"
-id: "TRM-ENG-41929"
+id: "TRM-ENG-56458"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapeutic process variables and, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-lowen-a"
-id: "TRM-ENG-41510"
+id: "TRM-ENG-56039"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lowen A"

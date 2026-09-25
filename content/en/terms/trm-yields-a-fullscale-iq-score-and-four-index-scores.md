@@ -1,6 +1,6 @@
 ---
 slug: "trm-yields-a-fullscale-iq-score-and-four-index-scores"
-id: "TRM-ENG-42206"
+id: "TRM-ENG-56735"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "yields a full-scale IQ score and four index scores"

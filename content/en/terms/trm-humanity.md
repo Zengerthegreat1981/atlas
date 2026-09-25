@@ -1,6 +1,6 @@
 ---
 slug: "trm-humanity"
-id: "TRM-ENG-45085"
+id: "TRM-ENG-59614"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "humanity"

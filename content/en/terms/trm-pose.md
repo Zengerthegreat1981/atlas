@@ -1,6 +1,6 @@
 ---
 slug: "trm-pose"
-id: "TRM-ENG-36037"
+id: "TRM-ENG-65095"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pose"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-h-mohlberg-t-et-al-bigbrain"
-id: "TRM-ENG-34624"
+id: "TRM-ENG-49153"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "H. Mohlberg, T. et al., “Big-Brain"

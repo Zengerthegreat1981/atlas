@@ -1,6 +1,6 @@
 ---
 slug: "trm-dsm"
-id: "TRM-ENG-37914"
+id: "TRM-ENG-66972"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "DSM"

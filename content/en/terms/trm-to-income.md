@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-income"
-id: "TRM-ENG-41985"
+id: "TRM-ENG-56514"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to income"

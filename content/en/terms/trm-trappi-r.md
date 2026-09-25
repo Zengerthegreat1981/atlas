@@ -1,6 +1,6 @@
 ---
 slug: "trm-trappi-r"
-id: "TRM-ENG-42618"
+id: "TRM-ENG-57147"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Trappi R"

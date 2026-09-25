@@ -1,6 +1,6 @@
 ---
 slug: "trm-billow-r-m-2014-relational-group-psychotherapy"
-id: "TRM-ENG-50168"
+id: "TRM-ENG-64697"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Billow, R. M. (2014). Relational group psychotherapy"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-characteristicsweshallencounterarethefollowing"
-id: "TRM-ENG-37613"
+id: "TRM-ENG-66671"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "characteristicsweshallencounterarethefollowing"

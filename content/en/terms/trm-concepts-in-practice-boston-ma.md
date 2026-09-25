@@ -1,6 +1,6 @@
 ---
 slug: "trm-concepts-in-practice-boston-ma"
-id: "TRM-ENG-51356"
+id: "TRM-ENG-65885"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "concepts in practice. Boston, MA"

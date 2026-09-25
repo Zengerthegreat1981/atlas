@@ -1,6 +1,6 @@
 ---
 slug: "trm-republics"
-id: "TRM-ENG-38665"
+id: "TRM-ENG-53194"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Republics"

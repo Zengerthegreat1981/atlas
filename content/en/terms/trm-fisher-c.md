@@ -1,6 +1,6 @@
 ---
 slug: "trm-fisher-c"
-id: "TRM-ENG-40539"
+id: "TRM-ENG-55068"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fisher C"

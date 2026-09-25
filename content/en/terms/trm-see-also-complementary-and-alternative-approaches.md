@@ -1,6 +1,6 @@
 ---
 slug: "trm-see-also-complementary-and-alternative-approaches"
-id: "TRM-ENG-51004"
+id: "TRM-ENG-65533"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "See also Complementary and Alternative Approaches"

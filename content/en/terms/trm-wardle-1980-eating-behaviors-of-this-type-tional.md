@@ -1,6 +1,6 @@
 ---
 slug: "trm-wardle-1980-eating-behaviors-of-this-type-tional"
-id: "TRM-ENG-48790"
+id: "TRM-ENG-63319"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Wardle, 1980). Eating behaviors of this type tional"

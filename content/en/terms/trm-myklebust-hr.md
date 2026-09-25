@@ -1,6 +1,6 @@
 ---
 slug: "trm-myklebust-hr"
-id: "TRM-ENG-41811"
+id: "TRM-ENG-56340"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Myklebust HR"

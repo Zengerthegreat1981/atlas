@@ -1,6 +1,6 @@
 ---
 slug: "trm-observed-and-expected"
-id: "TRM-ENG-35981"
+id: "TRM-ENG-65039"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "observed and expected"

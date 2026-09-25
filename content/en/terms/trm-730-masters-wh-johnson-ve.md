@@ -1,6 +1,6 @@
 ---
 slug: "trm-730-masters-wh-johnson-ve"
-id: "TRM-ENG-39377"
+id: "TRM-ENG-53906"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "730. Masters WH, Johnson VE"

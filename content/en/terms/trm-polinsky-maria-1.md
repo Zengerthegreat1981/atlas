@@ -1,6 +1,6 @@
 ---
 slug: "trm-polinsky-maria-1"
-id: "TRM-ENG-44691"
+id: "TRM-ENG-59220"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Polinsky, Maria, 1"

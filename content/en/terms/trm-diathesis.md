@@ -1,6 +1,6 @@
 ---
 slug: "trm-diathesis"
-id: "TRM-ENG-36359"
+id: "TRM-ENG-65417"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "diathesis"

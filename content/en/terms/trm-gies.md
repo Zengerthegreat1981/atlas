@@ -1,6 +1,6 @@
 ---
 slug: "trm-gies"
-id: "TRM-ENG-36487"
+id: "TRM-ENG-51016"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "gies"

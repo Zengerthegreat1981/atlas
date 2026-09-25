@@ -1,6 +1,6 @@
 ---
 slug: "trm-cornishdb1978gambling"
-id: "TRM-ENG-48949"
+id: "TRM-ENG-63478"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cornish,D.B.(1978).Gambling"

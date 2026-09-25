@@ -1,6 +1,6 @@
 ---
 slug: "trm-apy-in-the-united-states"
-id: "TRM-ENG-49289"
+id: "TRM-ENG-63818"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "apy in the United States"

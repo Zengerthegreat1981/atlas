@@ -1,6 +1,6 @@
 ---
 slug: "trm-from-infancy-to-school-age-in-agesegregated-groups-grams"
-id: "TRM-ENG-35037"
+id: "TRM-ENG-64095"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "from infancy to school age in age-segregated groups grams"

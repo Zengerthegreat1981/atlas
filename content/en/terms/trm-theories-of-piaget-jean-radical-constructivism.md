@@ -1,6 +1,6 @@
 ---
 slug: "trm-theories-of-piaget-jean-radical-constructivism"
-id: "TRM-ENG-47384"
+id: "TRM-ENG-61913"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Theories of; Piaget, Jean; Radical Constructivism"

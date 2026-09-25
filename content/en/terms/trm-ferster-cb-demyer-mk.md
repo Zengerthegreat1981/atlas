@@ -1,6 +1,6 @@
 ---
 slug: "trm-ferster-cb-demyer-mk"
-id: "TRM-ENG-40519"
+id: "TRM-ENG-55048"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ferster CB, DeMyer MK"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ment-of-asthma-in-children"
-id: "TRM-ENG-47117"
+id: "TRM-ENG-61646"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ment of asthma in children"

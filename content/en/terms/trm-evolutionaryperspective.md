@@ -1,6 +1,6 @@
 ---
 slug: "trm-evolutionaryperspective"
-id: "TRM-ENG-37746"
+id: "TRM-ENG-66804"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "evolutionaryperspective"

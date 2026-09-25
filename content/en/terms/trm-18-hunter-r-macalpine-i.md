@@ -1,6 +1,6 @@
 ---
 slug: "trm-18-hunter-r-macalpine-i"
-id: "TRM-ENG-38661"
+id: "TRM-ENG-53190"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "18. Hunter R, Macalpine I"

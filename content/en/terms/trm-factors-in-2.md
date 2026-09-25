@@ -1,6 +1,6 @@
 ---
 slug: "trm-factors-in-2"
-id: "TRM-ENG-45128"
+id: "TRM-ENG-59657"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "factors in, 2"

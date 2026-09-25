@@ -1,6 +1,6 @@
 ---
 slug: "trm-biomedical-research"
-id: "TRM-ENG-35695"
+id: "TRM-ENG-64753"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "biomedical research"

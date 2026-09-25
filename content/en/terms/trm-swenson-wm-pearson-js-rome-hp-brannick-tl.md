@@ -1,6 +1,6 @@
 ---
 slug: "trm-swenson-wm-pearson-js-rome-hp-brannick-tl"
-id: "TRM-ENG-42526"
+id: "TRM-ENG-57055"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Swenson WM, Pearson JS, Rome HP, Brannick TL"

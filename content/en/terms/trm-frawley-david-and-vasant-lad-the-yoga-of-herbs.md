@@ -1,6 +1,6 @@
 ---
 slug: "trm-frawley-david-and-vasant-lad-the-yoga-of-herbs"
-id: "TRM-ENG-45819"
+id: "TRM-ENG-60348"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Frawley, David, and Vasant Lad. The Yoga of Herbs"

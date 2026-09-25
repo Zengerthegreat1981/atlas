@@ -1,6 +1,6 @@
 ---
 slug: "trm-2nd-ed-pp-236240-sudbury-ma"
-id: "TRM-ENG-35144"
+id: "TRM-ENG-64202"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2nd ed., pp. 236–240). Sudbury, MA"

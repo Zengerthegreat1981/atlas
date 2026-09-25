@@ -1,6 +1,6 @@
 ---
 slug: "trm-allen-ann-taylor-1"
-id: "TRM-ENG-46218"
+id: "TRM-ENG-60747"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Allen, Ann Taylor, 1"

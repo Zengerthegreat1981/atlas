@@ -1,6 +1,6 @@
 ---
 slug: "trm-turn-to-normal-consciousness-kiev-observed-that-amokis-phobic-states"
-id: "TRM-ENG-37246"
+id: "TRM-ENG-66304"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "turn to normal consciousness. Kiev observed that amokis phobic states"

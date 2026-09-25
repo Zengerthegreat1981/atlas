@@ -1,6 +1,6 @@
 ---
 slug: "trm-relation"
-id: "TRM-ENG-45471"
+id: "TRM-ENG-60000"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "relation"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-261-grob-gn"
-id: "TRM-ENG-38792"
+id: "TRM-ENG-53321"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "261. Grob GN"

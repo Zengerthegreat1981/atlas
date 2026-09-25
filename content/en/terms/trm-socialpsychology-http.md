@@ -1,6 +1,6 @@
 ---
 slug: "trm-socialpsychology-http"
-id: "TRM-ENG-38483"
+id: "TRM-ENG-53012"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "▶SocialPsychology http"

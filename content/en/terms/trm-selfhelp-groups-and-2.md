@@ -1,6 +1,6 @@
 ---
 slug: "trm-selfhelp-groups-and-2"
-id: "TRM-ENG-41610"
+id: "TRM-ENG-56139"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "self-help groups and, 2"

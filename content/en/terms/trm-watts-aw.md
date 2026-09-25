@@ -1,6 +1,6 @@
 ---
 slug: "trm-watts-aw"
-id: "TRM-ENG-42726"
+id: "TRM-ENG-57255"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Watts AW"

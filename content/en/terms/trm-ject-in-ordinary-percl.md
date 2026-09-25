@@ -1,6 +1,6 @@
 ---
 slug: "trm-ject-in-ordinary-percl"
-id: "TRM-ENG-35100"
+id: "TRM-ENG-64158"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ject. In ordinary percl"

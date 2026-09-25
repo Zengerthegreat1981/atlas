@@ -1,6 +1,6 @@
 ---
 slug: "trm-objects-of-2"
-id: "TRM-ENG-45340"
+id: "TRM-ENG-59869"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "objects of, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-serious-sickness"
-id: "TRM-ENG-45188"
+id: "TRM-ENG-59717"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of serious sickness"

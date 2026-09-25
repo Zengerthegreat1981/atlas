@@ -1,6 +1,6 @@
 ---
 slug: "trm-literatureinrcancelwwoodhulledsafricandiasporas"
-id: "TRM-ENG-37932"
+id: "TRM-ENG-52461"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "literature.InR.Cancel&W.Woodhull(Eds.),Africandiasporas"

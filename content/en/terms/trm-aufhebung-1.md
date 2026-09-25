@@ -1,6 +1,6 @@
 ---
 slug: "trm-aufhebung-1"
-id: "TRM-ENG-46259"
+id: "TRM-ENG-60788"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Aufhebung, 1"

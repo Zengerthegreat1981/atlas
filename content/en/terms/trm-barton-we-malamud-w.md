@@ -1,6 +1,6 @@
 ---
 slug: "trm-barton-we-malamud-w"
-id: "TRM-ENG-39820"
+id: "TRM-ENG-54349"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Barton WE, Malamud W"

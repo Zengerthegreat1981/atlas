@@ -1,6 +1,6 @@
 ---
 slug: "trm-states-to-the-same-basic-cause"
-id: "TRM-ENG-45319"
+id: "TRM-ENG-59848"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "states to the same basic cause"

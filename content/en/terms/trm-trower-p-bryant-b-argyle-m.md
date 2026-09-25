@@ -1,6 +1,6 @@
 ---
 slug: "trm-trower-p-bryant-b-argyle-m"
-id: "TRM-ENG-42623"
+id: "TRM-ENG-57152"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Trower P, Bryant B, Argyle M"

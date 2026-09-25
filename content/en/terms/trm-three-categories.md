@@ -1,6 +1,6 @@
 ---
 slug: "trm-three-categories"
-id: "TRM-ENG-35086"
+id: "TRM-ENG-64144"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "three categories"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-phobia"
-id: "TRM-ENG-49179"
+id: "TRM-ENG-63708"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Social phobia"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-dubois-j-2007-ethics-in-mental-health-research"
-id: "TRM-ENG-35369"
+id: "TRM-ENG-64427"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "DuBois, J. (2007). Ethics in mental health research"

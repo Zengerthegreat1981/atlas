@@ -1,6 +1,6 @@
 ---
 slug: "trm-reported-in-a-number-of-studies-and"
-id: "TRM-ENG-44185"
+id: "TRM-ENG-58714"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reported in a number of studies and"

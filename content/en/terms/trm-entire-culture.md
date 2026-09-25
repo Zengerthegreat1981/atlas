@@ -1,6 +1,6 @@
 ---
 slug: "trm-entire-culture"
-id: "TRM-ENG-47967"
+id: "TRM-ENG-62496"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "entire culture"

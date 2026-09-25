@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychology-of-futureoriented-thinking-gottingen"
-id: "TRM-ENG-35271"
+id: "TRM-ENG-64329"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychology of future-oriented thinking]. Gottingen"

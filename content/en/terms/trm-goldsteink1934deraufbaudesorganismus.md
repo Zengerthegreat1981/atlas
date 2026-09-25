@@ -1,6 +1,6 @@
 ---
 slug: "trm-goldsteink1934deraufbaudesorganismus"
-id: "TRM-ENG-36851"
+id: "TRM-ENG-51380"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goldstein,K.(1934).DerAufbaudesOrganismus"

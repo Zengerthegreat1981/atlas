@@ -1,6 +1,6 @@
 ---
 slug: "trm-inquiry"
-id: "TRM-ENG-48205"
+id: "TRM-ENG-62734"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "inquiry"

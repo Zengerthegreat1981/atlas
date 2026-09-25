@@ -1,6 +1,6 @@
 ---
 slug: "trm-ohnishi-h-3"
-id: "TRM-ENG-38533"
+id: "TRM-ENG-53062"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ohnishi, H., 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ments-have-come-to-the-fore"
-id: "TRM-ENG-36710"
+id: "TRM-ENG-65768"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ments have come to the fore"

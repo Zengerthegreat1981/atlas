@@ -1,6 +1,6 @@
 ---
 slug: "trm-neuroscience-research-and-2"
-id: "TRM-ENG-40948"
+id: "TRM-ENG-55477"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "neuroscience research and, 2"

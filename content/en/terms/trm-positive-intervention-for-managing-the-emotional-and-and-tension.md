@@ -1,6 +1,6 @@
 ---
 slug: "trm-positive-intervention-for-managing-the-emotional-and-and-tension"
-id: "TRM-ENG-41204"
+id: "TRM-ENG-55733"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "positive intervention for managing the emotional and and tension"

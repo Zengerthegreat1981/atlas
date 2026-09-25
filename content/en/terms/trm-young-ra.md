@@ -1,6 +1,6 @@
 ---
 slug: "trm-young-ra"
-id: "TRM-ENG-42899"
+id: "TRM-ENG-57428"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Young RA"

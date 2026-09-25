@@ -1,6 +1,6 @@
 ---
 slug: "trm-esdaile-j"
-id: "TRM-ENG-40471"
+id: "TRM-ENG-55000"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Esdaile J"

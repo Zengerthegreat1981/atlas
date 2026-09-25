@@ -1,6 +1,6 @@
 ---
 slug: "trm-underutilization-of-health-services-by-3"
-id: "TRM-ENG-42075"
+id: "TRM-ENG-56604"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "underutilization of health services by, 3"

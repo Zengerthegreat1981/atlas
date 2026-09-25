@@ -1,6 +1,6 @@
 ---
 slug: "trm-joseph-e-trimble-and-3"
-id: "TRM-ENG-38299"
+id: "TRM-ENG-52828"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Joseph E. Trimble and, 3"

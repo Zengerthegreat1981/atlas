@@ -1,6 +1,6 @@
 ---
 slug: "trm-issues-in-clinical-psychology-pp-153170-london"
-id: "TRM-ENG-49510"
+id: "TRM-ENG-64039"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "issues in clinical psychology (pp. 153±170). London"

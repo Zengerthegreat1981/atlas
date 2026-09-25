@@ -1,6 +1,6 @@
 ---
 slug: "trm-grade-open-classroom-in-1971"
-id: "TRM-ENG-48082"
+id: "TRM-ENG-62611"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "grade open classroom in 1971"

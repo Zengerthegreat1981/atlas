@@ -1,6 +1,6 @@
 ---
 slug: "trm-818-lipton-ma-dimascio-a-killam-kf-eds"
-id: "TRM-ENG-39478"
+id: "TRM-ENG-54007"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "818. Lipton MA, DiMascio A, Killam KF (eds)"

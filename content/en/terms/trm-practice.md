@@ -1,6 +1,6 @@
 ---
 slug: "trm-practice"
-id: "TRM-ENG-35251"
+id: "TRM-ENG-64309"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "practice"

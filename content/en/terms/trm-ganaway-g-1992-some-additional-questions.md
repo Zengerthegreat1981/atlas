@@ -1,6 +1,6 @@
 ---
 slug: "trm-ganaway-g-1992-some-additional-questions"
-id: "TRM-ENG-35699"
+id: "TRM-ENG-64757"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ganaway, G. (1992). Some additional questions"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-kaplan-l"
-id: "TRM-ENG-41190"
+id: "TRM-ENG-55719"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kaplan L"

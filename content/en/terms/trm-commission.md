@@ -1,6 +1,6 @@
 ---
 slug: "trm-commission"
-id: "TRM-ENG-37849"
+id: "TRM-ENG-66907"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Commission"

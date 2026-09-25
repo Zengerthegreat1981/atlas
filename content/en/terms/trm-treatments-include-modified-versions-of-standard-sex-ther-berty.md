@@ -1,6 +1,6 @@
 ---
 slug: "trm-treatments-include-modified-versions-of-standard-sex-ther-berty"
-id: "TRM-ENG-37232"
+id: "TRM-ENG-66290"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "treatments include modified versions of standard sex ther- berty"

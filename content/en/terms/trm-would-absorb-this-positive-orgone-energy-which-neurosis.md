@@ -1,6 +1,6 @@
 ---
 slug: "trm-would-absorb-this-positive-orgone-energy-which-neurosis"
-id: "TRM-ENG-51977"
+id: "TRM-ENG-66506"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "would absorb this positive orgone energy, which neurosis"

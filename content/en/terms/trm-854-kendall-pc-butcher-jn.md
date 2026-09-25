@@ -1,6 +1,6 @@
 ---
 slug: "trm-854-kendall-pc-butcher-jn"
-id: "TRM-ENG-39516"
+id: "TRM-ENG-54045"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "854. Kendall PC, Butcher JN"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-adaptation-new-york"
-id: "TRM-ENG-34845"
+id: "TRM-ENG-63903"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "adaptation. New York"

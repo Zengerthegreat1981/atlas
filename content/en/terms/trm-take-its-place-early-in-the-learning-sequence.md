@@ -1,6 +1,6 @@
 ---
 slug: "trm-take-its-place-early-in-the-learning-sequence"
-id: "TRM-ENG-37059"
+id: "TRM-ENG-51588"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "take its place early in the learning sequence"

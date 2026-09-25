@@ -1,6 +1,6 @@
 ---
 slug: "trm-part-vi"
-id: "TRM-ENG-44566"
+id: "TRM-ENG-59095"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "PART VI"

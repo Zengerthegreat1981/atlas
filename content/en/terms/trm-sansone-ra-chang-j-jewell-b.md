@@ -1,6 +1,6 @@
 ---
 slug: "trm-sansone-ra-chang-j-jewell-b"
-id: "TRM-ENG-48038"
+id: "TRM-ENG-62567"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sansone RA, Chang J, Jewell B"

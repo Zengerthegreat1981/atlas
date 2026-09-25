@@ -1,6 +1,6 @@
 ---
 slug: "trm-there-is-evidence-that-paradoxical-interventions-ered"
-id: "TRM-ENG-41947"
+id: "TRM-ENG-56476"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "there is evidence that paradoxical interventions ered"

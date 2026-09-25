@@ -1,6 +1,6 @@
 ---
 slug: "trm-schiavi-rc"
-id: "TRM-ENG-42268"
+id: "TRM-ENG-56797"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schiavi RC"

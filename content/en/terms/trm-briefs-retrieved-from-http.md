@@ -1,6 +1,6 @@
 ---
 slug: "trm-briefs-retrieved-from-http"
-id: "TRM-ENG-37721"
+id: "TRM-ENG-66779"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Briefs. Retrieved from http"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-bergin-ae"
-id: "TRM-ENG-39896"
+id: "TRM-ENG-54425"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bergin AE"

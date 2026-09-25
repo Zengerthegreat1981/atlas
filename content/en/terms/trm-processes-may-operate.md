@@ -1,6 +1,6 @@
 ---
 slug: "trm-processes-may-operate"
-id: "TRM-ENG-41289"
+id: "TRM-ENG-55818"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "processes may operate"

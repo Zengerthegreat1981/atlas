@@ -1,6 +1,6 @@
 ---
 slug: "trm-most-closely-associated-with-approaches"
-id: "TRM-ENG-48378"
+id: "TRM-ENG-62907"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "most closely associated with approaches"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-adornotw1965metaphysics"
-id: "TRM-ENG-36534"
+id: "TRM-ENG-65592"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Adorno,T.W.(1965).Metaphysics"

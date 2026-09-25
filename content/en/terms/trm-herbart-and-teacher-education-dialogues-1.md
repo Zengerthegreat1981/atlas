@@ -1,6 +1,6 @@
 ---
 slug: "trm-herbart-and-teacher-education-dialogues-1"
-id: "TRM-ENG-46753"
+id: "TRM-ENG-61282"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Herbart and teacher education, dialogues, 1"

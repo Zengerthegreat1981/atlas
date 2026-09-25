@@ -1,6 +1,6 @@
 ---
 slug: "trm-sewardgh1958clinicalstudiesincultureconflictnewyork"
-id: "TRM-ENG-37281"
+id: "TRM-ENG-51810"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Seward,G.H.(1958).Clinicalstudiesincultureconflict.NewYork"

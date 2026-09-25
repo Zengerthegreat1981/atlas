@@ -1,6 +1,6 @@
 ---
 slug: "trm-s-e-t-n-u-c-d-e-y-3-an-d-se-t-e-rea-s-t-u-m-b-e-s-n-ta-t-n-o-c-f-e-p-d-at-e-h-p-o-e-l-n-o-d-gi-e-c-n-a-c-l-e-d-ep"
-id: "TRM-ENG-43843"
+id: "TRM-ENG-58372"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "s e t n u c d e y . 3 an . d se t e rea s t u m b e s n ta t n o c f e p d at e h p o e l n o d gi e c n a c l e d . ep"

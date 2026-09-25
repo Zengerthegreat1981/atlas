@@ -1,6 +1,6 @@
 ---
 slug: "trm-class-has"
-id: "TRM-ENG-39506"
+id: "TRM-ENG-54035"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "class has"

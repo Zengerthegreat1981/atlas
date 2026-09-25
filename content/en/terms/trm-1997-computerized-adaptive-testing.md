@@ -1,6 +1,6 @@
 ---
 slug: "trm-1997-computerized-adaptive-testing"
-id: "TRM-ENG-37350"
+id: "TRM-ENG-66408"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1997). Computerized adaptive testing"

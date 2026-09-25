@@ -1,6 +1,6 @@
 ---
 slug: "trm-more-gambling"
-id: "TRM-ENG-35145"
+id: "TRM-ENG-64203"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "more gambling"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-tients-psychiatry-62"
-id: "TRM-ENG-48665"
+id: "TRM-ENG-63194"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tients. Psychiatry 62"

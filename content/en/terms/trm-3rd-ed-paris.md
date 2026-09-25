@@ -1,6 +1,6 @@
 ---
 slug: "trm-3rd-ed-paris"
-id: "TRM-ENG-36408"
+id: "TRM-ENG-65466"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(3rd ed.). Paris"

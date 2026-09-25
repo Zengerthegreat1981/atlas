@@ -1,6 +1,6 @@
 ---
 slug: "trm-simopoulos-a-p-1987-diet-and-health"
-id: "TRM-ENG-46713"
+id: "TRM-ENG-61242"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Simopoulos, A. P. (1987). Diet and health"

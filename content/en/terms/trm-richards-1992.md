@@ -1,6 +1,6 @@
 ---
 slug: "trm-richards-1992"
-id: "TRM-ENG-37225"
+id: "TRM-ENG-66283"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Richards (1992"

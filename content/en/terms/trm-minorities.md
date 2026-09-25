@@ -1,6 +1,6 @@
 ---
 slug: "trm-minorities"
-id: "TRM-ENG-37967"
+id: "TRM-ENG-67025"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "minorities"

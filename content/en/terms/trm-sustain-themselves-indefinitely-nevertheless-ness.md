@@ -1,6 +1,6 @@
 ---
 slug: "trm-sustain-themselves-indefinitely-nevertheless-ness"
-id: "TRM-ENG-43276"
+id: "TRM-ENG-57805"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sustain themselves indefinitely. Nevertheless, ness"

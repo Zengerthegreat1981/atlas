@@ -1,6 +1,6 @@
 ---
 slug: "trm-interval-recording"
-id: "TRM-ENG-40624"
+id: "TRM-ENG-55153"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "interval recording"

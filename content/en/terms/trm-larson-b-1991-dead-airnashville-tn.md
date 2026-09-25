@@ -1,6 +1,6 @@
 ---
 slug: "trm-larson-b-1991-dead-airnashville-tn"
-id: "TRM-ENG-35802"
+id: "TRM-ENG-64860"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Larson, B. (1991). Dead air.Nashville, TN"

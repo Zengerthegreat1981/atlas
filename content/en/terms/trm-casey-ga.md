@@ -1,6 +1,6 @@
 ---
 slug: "trm-casey-ga"
-id: "TRM-ENG-40143"
+id: "TRM-ENG-54672"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Casey GA"

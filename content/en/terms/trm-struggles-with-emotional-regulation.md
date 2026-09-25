@@ -1,6 +1,6 @@
 ---
 slug: "trm-struggles-with-emotional-regulation"
-id: "TRM-ENG-44198"
+id: "TRM-ENG-58727"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "struggles with emotional regulation"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-kluwe-r-h-2"
-id: "TRM-ENG-46886"
+id: "TRM-ENG-61415"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kluwe, R. H., 2"

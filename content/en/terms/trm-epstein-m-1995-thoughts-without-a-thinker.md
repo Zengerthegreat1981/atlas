@@ -1,6 +1,6 @@
 ---
 slug: "trm-epstein-m-1995-thoughts-without-a-thinker"
-id: "TRM-ENG-50356"
+id: "TRM-ENG-64885"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Epstein, M. (1995). Thoughts without a thinker"

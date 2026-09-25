@@ -1,6 +1,6 @@
 ---
 slug: "trm-tue-of-appearing-to-me-in-particular-ways"
-id: "TRM-ENG-45652"
+id: "TRM-ENG-60181"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tue of appearing to me in particular ways"

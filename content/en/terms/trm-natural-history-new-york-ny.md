@@ -1,6 +1,6 @@
 ---
 slug: "trm-natural-history-new-york-ny"
-id: "TRM-ENG-48394"
+id: "TRM-ENG-62923"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "natural history. New York, NY"

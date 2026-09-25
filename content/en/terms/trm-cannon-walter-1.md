@@ -1,6 +1,6 @@
 ---
 slug: "trm-cannon-walter-1"
-id: "TRM-ENG-50214"
+id: "TRM-ENG-64743"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cannon, Walter, 1"

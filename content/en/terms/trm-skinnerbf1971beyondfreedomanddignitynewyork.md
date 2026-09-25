@@ -1,6 +1,6 @@
 ---
 slug: "trm-skinnerbf1971beyondfreedomanddignitynewyork"
-id: "TRM-ENG-37300"
+id: "TRM-ENG-66358"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Skinner,B.F.(1971).Beyondfreedomanddignity.NewYork"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-katz-i-1981-stigma"
-id: "TRM-ENG-36289"
+id: "TRM-ENG-50818"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Katz, I. (1981), Stigma"

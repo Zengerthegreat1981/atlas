@@ -1,6 +1,6 @@
 ---
 slug: "trm-birthoftheselfnewyork"
-id: "TRM-ENG-37590"
+id: "TRM-ENG-52119"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "birthoftheself.NewYork"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-clarizio-hf-ed"
-id: "TRM-ENG-40184"
+id: "TRM-ENG-54713"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Clarizio HF (ed)"

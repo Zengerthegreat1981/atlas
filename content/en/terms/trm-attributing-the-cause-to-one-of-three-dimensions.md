@@ -1,6 +1,6 @@
 ---
 slug: "trm-attributing-the-cause-to-one-of-three-dimensions"
-id: "TRM-ENG-42210"
+id: "TRM-ENG-56739"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“attributing” the cause to one of three dimensions"

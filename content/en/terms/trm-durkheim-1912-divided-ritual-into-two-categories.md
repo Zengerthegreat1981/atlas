@@ -1,6 +1,6 @@
 ---
 slug: "trm-durkheim-1912-divided-ritual-into-two-categories"
-id: "TRM-ENG-35650"
+id: "TRM-ENG-50179"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Durkheim (1912) divided ritual into two categories"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-sherman-j-1978-sexrelated-cognitive-differences-springfield"
-id: "TRM-ENG-37289"
+id: "TRM-ENG-66347"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sherman, J. (1978). Sex-related cognitive differences. Springfield"

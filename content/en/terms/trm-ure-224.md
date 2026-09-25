@@ -1,6 +1,6 @@
 ---
 slug: "trm-ure-224"
-id: "TRM-ENG-43408"
+id: "TRM-ENG-57937"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ure 22.4"

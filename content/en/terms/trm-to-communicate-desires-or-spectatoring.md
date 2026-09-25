@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-communicate-desires-or-spectatoring"
-id: "TRM-ENG-37208"
+id: "TRM-ENG-51737"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to communicate desires, or spectatoring"

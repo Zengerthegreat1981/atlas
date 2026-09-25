@@ -1,6 +1,6 @@
 ---
 slug: "trm-other-and-other-2"
-id: "TRM-ENG-51999"
+id: "TRM-ENG-66528"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“other” and “Other,” 2"

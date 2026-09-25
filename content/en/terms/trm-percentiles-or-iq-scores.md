@@ -1,6 +1,6 @@
 ---
 slug: "trm-percentiles-or-iq-scores"
-id: "TRM-ENG-45586"
+id: "TRM-ENG-60115"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "percentiles or IQ scores."

@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychotherapy-and-behavior-change"
-id: "TRM-ENG-42020"
+id: "TRM-ENG-56549"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychotherapy and Behavior Change"

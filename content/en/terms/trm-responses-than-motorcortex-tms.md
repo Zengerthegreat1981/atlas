@@ -1,6 +1,6 @@
 ---
 slug: "trm-responses-than-motorcortex-tms"
-id: "TRM-ENG-36086"
+id: "TRM-ENG-50615"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "responses than motor-cortex TMS"

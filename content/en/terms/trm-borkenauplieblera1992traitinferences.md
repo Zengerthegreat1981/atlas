@@ -1,6 +1,6 @@
 ---
 slug: "trm-borkenauplieblera1992traitinferences"
-id: "TRM-ENG-36634"
+id: "TRM-ENG-65692"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Borkenau,P.,&Liebler,A.(1992).Traitinferences"

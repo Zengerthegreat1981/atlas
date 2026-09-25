@@ -1,6 +1,6 @@
 ---
 slug: "trm-cohn-rc"
-id: "TRM-ENG-40209"
+id: "TRM-ENG-54738"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cohn RC"

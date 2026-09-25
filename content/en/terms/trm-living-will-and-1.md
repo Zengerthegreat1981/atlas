@@ -1,6 +1,6 @@
 ---
 slug: "trm-living-will-and-1"
-id: "TRM-ENG-40738"
+id: "TRM-ENG-55267"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "living will and, 1"

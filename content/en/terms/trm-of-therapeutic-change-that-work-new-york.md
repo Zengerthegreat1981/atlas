@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-therapeutic-change-that-work-new-york"
-id: "TRM-ENG-43073"
+id: "TRM-ENG-57602"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of therapeutic change that work. New York"

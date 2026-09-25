@@ -1,6 +1,6 @@
 ---
 slug: "trm-clinicalpsychology60678688-stab"
-id: "TRM-ENG-48937"
+id: "TRM-ENG-63466"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ClinicalPsychology,60,678±688. stab"

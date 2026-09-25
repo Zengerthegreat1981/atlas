@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavior-change5th-ed-pp-84136-new-york"
-id: "TRM-ENG-39330"
+id: "TRM-ENG-53859"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behavior change(5th ed., pp. 84–136). New York"

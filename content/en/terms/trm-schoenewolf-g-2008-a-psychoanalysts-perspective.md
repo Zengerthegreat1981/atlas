@@ -1,6 +1,6 @@
 ---
 slug: "trm-schoenewolf-g-2008-a-psychoanalysts-perspective"
-id: "TRM-ENG-50994"
+id: "TRM-ENG-65523"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schoenewolf, G. (2008). A psychoanalyst’s perspective"

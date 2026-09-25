@@ -1,6 +1,6 @@
 ---
 slug: "trm-depression-diagnostic-criteria-in-2"
-id: "TRM-ENG-39894"
+id: "TRM-ENG-54423"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "depression diagnostic criteria in, 2"

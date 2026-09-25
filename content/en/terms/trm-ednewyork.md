@@ -1,6 +1,6 @@
 ---
 slug: "trm-ednewyork"
-id: "TRM-ENG-36413"
+id: "TRM-ENG-50942"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Ed.)).NewYork"

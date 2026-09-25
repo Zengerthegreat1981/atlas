@@ -1,6 +1,6 @@
 ---
 slug: "trm-individual-scientists"
-id: "TRM-ENG-48180"
+id: "TRM-ENG-62709"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "individual scientists"

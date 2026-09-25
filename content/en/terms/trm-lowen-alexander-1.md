@@ -1,6 +1,6 @@
 ---
 slug: "trm-lowen-alexander-1"
-id: "TRM-ENG-50682"
+id: "TRM-ENG-65211"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lowen, Alexander, 1"

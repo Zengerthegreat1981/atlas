@@ -1,6 +1,6 @@
 ---
 slug: "trm-collectivism3"
-id: "TRM-ENG-37845"
+id: "TRM-ENG-66903"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Collectivism,3"

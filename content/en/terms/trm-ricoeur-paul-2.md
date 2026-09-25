@@ -1,6 +1,6 @@
 ---
 slug: "trm-ricoeur-paul-2"
-id: "TRM-ENG-47196"
+id: "TRM-ENG-61725"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ricoeur, Paul, 2"

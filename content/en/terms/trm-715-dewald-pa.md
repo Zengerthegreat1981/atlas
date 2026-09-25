@@ -1,6 +1,6 @@
 ---
 slug: "trm-715-dewald-pa"
-id: "TRM-ENG-39359"
+id: "TRM-ENG-53888"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "715. Dewald PA"

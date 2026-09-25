@@ -1,6 +1,6 @@
 ---
 slug: "trm-modern-treatments-new-york"
-id: "TRM-ENG-45895"
+id: "TRM-ENG-60424"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Modern Treatments. New York"

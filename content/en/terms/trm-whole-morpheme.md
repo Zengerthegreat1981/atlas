@@ -1,6 +1,6 @@
 ---
 slug: "trm-whole-morpheme"
-id: "TRM-ENG-45688"
+id: "TRM-ENG-60217"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "whole morpheme"

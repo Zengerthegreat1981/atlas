@@ -1,6 +1,6 @@
 ---
 slug: "trm-dictive-of-recall-termination"
-id: "TRM-ENG-45067"
+id: "TRM-ENG-59596"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dictive of recall termination"

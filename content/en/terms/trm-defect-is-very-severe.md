@@ -1,6 +1,6 @@
 ---
 slug: "trm-defect-is-very-severe"
-id: "TRM-ENG-44971"
+id: "TRM-ENG-59500"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "defect is very severe"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-abpp-and-1"
-id: "TRM-ENG-37369"
+id: "TRM-ENG-66427"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(ABPP) and, 1"

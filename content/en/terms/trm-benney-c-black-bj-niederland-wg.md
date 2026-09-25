@@ -1,6 +1,6 @@
 ---
 slug: "trm-benney-c-black-bj-niederland-wg"
-id: "TRM-ENG-39880"
+id: "TRM-ENG-54409"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Benney C, Black BJ, Niederland WG"

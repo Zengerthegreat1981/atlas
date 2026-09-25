@@ -1,6 +1,6 @@
 ---
 slug: "trm-impulse"
-id: "TRM-ENG-52236"
+id: "TRM-ENG-66765"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Impulse"

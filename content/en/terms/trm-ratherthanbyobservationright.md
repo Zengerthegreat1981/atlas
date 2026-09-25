@@ -1,6 +1,6 @@
 ---
 slug: "trm-ratherthanbyobservationright"
-id: "TRM-ENG-38186"
+id: "TRM-ENG-52715"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ratherthanbyobservation.Right"

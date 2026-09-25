@@ -1,6 +1,6 @@
 ---
 slug: "trm-experimentalists"
-id: "TRM-ENG-38476"
+id: "TRM-ENG-53005"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“Experimentalists"

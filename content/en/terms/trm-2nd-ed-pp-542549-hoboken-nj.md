@@ -1,6 +1,6 @@
 ---
 slug: "trm-2nd-ed-pp-542549-hoboken-nj"
-id: "TRM-ENG-49909"
+id: "TRM-ENG-64438"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2nd ed., pp. 542–549). Hoboken, NJ"

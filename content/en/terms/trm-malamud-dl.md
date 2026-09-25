@@ -1,6 +1,6 @@
 ---
 slug: "trm-malamud-dl"
-id: "TRM-ENG-41564"
+id: "TRM-ENG-56093"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Malamud DL"

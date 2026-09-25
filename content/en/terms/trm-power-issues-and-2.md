@@ -1,6 +1,6 @@
 ---
 slug: "trm-power-issues-and-2"
-id: "TRM-ENG-41227"
+id: "TRM-ENG-55756"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "power issues and, 2"

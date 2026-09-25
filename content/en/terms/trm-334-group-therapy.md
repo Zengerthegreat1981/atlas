@@ -1,6 +1,6 @@
 ---
 slug: "trm-334-group-therapy"
-id: "TRM-ENG-48844"
+id: "TRM-ENG-63373"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "334 Group Therapy"

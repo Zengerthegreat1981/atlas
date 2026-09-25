@@ -1,6 +1,6 @@
 ---
 slug: "trm-another-failing-this-prerequisite-spontaneous-spoken-another"
-id: "TRM-ENG-37546"
+id: "TRM-ENG-66604"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "another; failing this prerequisite, spontaneous spoken another"

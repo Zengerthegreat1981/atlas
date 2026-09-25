@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapy-oakland-ca"
-id: "TRM-ENG-51914"
+id: "TRM-ENG-66443"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapy. Oakland, CA"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychologyhttp"
-id: "TRM-ENG-38161"
+id: "TRM-ENG-52690"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychology.http"

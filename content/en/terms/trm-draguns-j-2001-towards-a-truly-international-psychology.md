@@ -1,6 +1,6 @@
 ---
 slug: "trm-draguns-j-2001-towards-a-truly-international-psychology"
-id: "TRM-ENG-35647"
+id: "TRM-ENG-64705"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Draguns, J. (2001). Towards a truly international psychology"

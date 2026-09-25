@@ -1,6 +1,6 @@
 ---
 slug: "trm-understandingchildren"
-id: "TRM-ENG-37388"
+id: "TRM-ENG-66446"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "UnderstandingChildren"

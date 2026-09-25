@@ -1,6 +1,6 @@
 ---
 slug: "trm-science-questionnaire"
-id: "TRM-ENG-43173"
+id: "TRM-ENG-57702"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "science questionnaire"

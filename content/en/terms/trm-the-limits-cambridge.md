@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-limits-cambridge"
-id: "TRM-ENG-48843"
+id: "TRM-ENG-63372"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the limits. Cambridge"

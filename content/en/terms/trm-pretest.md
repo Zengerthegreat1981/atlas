@@ -1,6 +1,6 @@
 ---
 slug: "trm-pretest"
-id: "TRM-ENG-47212"
+id: "TRM-ENG-61741"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pretest"

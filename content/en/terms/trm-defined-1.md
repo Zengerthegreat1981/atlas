@@ -1,6 +1,6 @@
 ---
 slug: "trm-defined-1"
-id: "TRM-ENG-51388"
+id: "TRM-ENG-65917"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "defined, 1"

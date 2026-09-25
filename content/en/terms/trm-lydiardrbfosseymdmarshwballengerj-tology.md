@@ -1,6 +1,6 @@
 ---
 slug: "trm-lydiardrbfosseymdmarshwballengerj-tology"
-id: "TRM-ENG-46616"
+id: "TRM-ENG-61145"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lydiard,R.B.,Fossey,M.D.,Marsh,W.,&Ballenger,J. tology"

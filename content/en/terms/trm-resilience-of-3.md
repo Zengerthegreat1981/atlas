@@ -1,6 +1,6 @@
 ---
 slug: "trm-resilience-of-3"
-id: "TRM-ENG-41515"
+id: "TRM-ENG-56044"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "resilience of, 3"

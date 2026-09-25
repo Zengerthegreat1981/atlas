@@ -1,6 +1,6 @@
 ---
 slug: "trm-2nd-ed-oxford-england"
-id: "TRM-ENG-46110"
+id: "TRM-ENG-60639"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2nd ed.). Oxford, England"

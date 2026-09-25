@@ -1,6 +1,6 @@
 ---
 slug: "trm-mann-nm-conway-ej-gottesfeld-bh-lasser-lm"
-id: "TRM-ENG-41576"
+id: "TRM-ENG-56105"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mann NM, Conway EJ, Gottesfeld BH, Lasser LM"

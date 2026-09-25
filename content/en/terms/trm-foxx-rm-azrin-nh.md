@@ -1,6 +1,6 @@
 ---
 slug: "trm-foxx-rm-azrin-nh"
-id: "TRM-ENG-40578"
+id: "TRM-ENG-55107"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Foxx RM, Azrin NH"

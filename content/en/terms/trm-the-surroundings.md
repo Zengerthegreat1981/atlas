@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-surroundings"
-id: "TRM-ENG-35085"
+id: "TRM-ENG-64143"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the surroundings"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-or-not-to-see"
-id: "TRM-ENG-45378"
+id: "TRM-ENG-59907"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "or not to see"

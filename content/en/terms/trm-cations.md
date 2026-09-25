@@ -1,6 +1,6 @@
 ---
 slug: "trm-cations"
-id: "TRM-ENG-35705"
+id: "TRM-ENG-50234"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cations"

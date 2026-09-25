@@ -1,6 +1,6 @@
 ---
 slug: "trm-transcendental-meditation-new-york"
-id: "TRM-ENG-45984"
+id: "TRM-ENG-60513"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Transcendental Meditation. New York"

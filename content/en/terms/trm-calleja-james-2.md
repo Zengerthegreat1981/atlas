@@ -1,6 +1,6 @@
 ---
 slug: "trm-calleja-james-2"
-id: "TRM-ENG-46361"
+id: "TRM-ENG-60890"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Calleja, James, 2"

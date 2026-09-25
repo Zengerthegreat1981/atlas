@@ -1,6 +1,6 @@
 ---
 slug: "trm-adler-cs-adler-sm"
-id: "TRM-ENG-39640"
+id: "TRM-ENG-54169"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Adler CS, Adler SM"

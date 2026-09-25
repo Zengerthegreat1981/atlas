@@ -1,6 +1,6 @@
 ---
 slug: "trm-ogm-with-m-iberico"
-id: "TRM-ENG-35184"
+id: "TRM-ENG-49713"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ogm (with M. Iberico"

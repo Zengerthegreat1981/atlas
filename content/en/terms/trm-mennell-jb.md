@@ -1,6 +1,6 @@
 ---
 slug: "trm-mennell-jb"
-id: "TRM-ENG-41688"
+id: "TRM-ENG-56217"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mennell JB"

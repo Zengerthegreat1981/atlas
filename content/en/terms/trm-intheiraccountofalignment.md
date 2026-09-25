@@ -1,6 +1,6 @@
 ---
 slug: "trm-intheiraccountofalignment"
-id: "TRM-ENG-37878"
+id: "TRM-ENG-66936"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "intheiraccountofalignment"

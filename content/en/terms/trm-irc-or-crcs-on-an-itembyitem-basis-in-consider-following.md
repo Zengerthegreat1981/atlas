@@ -1,6 +1,6 @@
 ---
 slug: "trm-irc-or-crcs-on-an-itembyitem-basis-in-consider-following"
-id: "TRM-ENG-35406"
+id: "TRM-ENG-64464"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "IRC or CRCs on an item-by-item basis. In consider- following"

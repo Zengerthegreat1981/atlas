@@ -1,6 +1,6 @@
 ---
 slug: "trm-states-see-nationstates-summerhill-2"
-id: "TRM-ENG-47331"
+id: "TRM-ENG-61860"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "States. See Nation-states Summerhill, 2"

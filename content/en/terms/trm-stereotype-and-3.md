@@ -1,6 +1,6 @@
 ---
 slug: "trm-stereotype-and-3"
-id: "TRM-ENG-41777"
+id: "TRM-ENG-56306"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stereotype and, 3"

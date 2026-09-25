@@ -1,6 +1,6 @@
 ---
 slug: "trm-hare-rd-1991-the-hare-psychopathy-checklist"
-id: "TRM-ENG-35730"
+id: "TRM-ENG-64788"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hare, R.D. (1991). The Hare psychopathy checklist"

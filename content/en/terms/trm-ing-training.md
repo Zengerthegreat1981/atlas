@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-training"
-id: "TRM-ENG-35874"
+id: "TRM-ENG-50403"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing training"

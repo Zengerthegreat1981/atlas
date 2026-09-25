@@ -1,6 +1,6 @@
 ---
 slug: "trm-used-possibility-is-wholeinterval-sampling"
-id: "TRM-ENG-36231"
+id: "TRM-ENG-65289"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "used possibility is whole-interval sampling"

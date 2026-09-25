@@ -1,6 +1,6 @@
 ---
 slug: "trm-apolis"
-id: "TRM-ENG-42650"
+id: "TRM-ENG-57179"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "apolis"

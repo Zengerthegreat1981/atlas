@@ -1,6 +1,6 @@
 ---
 slug: "trm-fieldj2003psycholinguistics"
-id: "TRM-ENG-36792"
+id: "TRM-ENG-65850"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Field,J.(2003).Psycholinguistics"

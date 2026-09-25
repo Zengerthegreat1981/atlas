@@ -1,6 +1,6 @@
 ---
 slug: "trm-ednorthvalenj"
-id: "TRM-ENG-49409"
+id: "TRM-ENG-63938"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ed.).Northvale,NJ"

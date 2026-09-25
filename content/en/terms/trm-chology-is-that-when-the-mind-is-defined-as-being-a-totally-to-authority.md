@@ -1,6 +1,6 @@
 ---
 slug: "trm-chology-is-that-when-the-mind-is-defined-as-being-a-totally-to-authority"
-id: "TRM-ENG-36277"
+id: "TRM-ENG-50806"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chology is that when the mind is defined as being a totally to authority"

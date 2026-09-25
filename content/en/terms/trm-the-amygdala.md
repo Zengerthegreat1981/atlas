@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-amygdala"
-id: "TRM-ENG-48119"
+id: "TRM-ENG-62648"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The Amygdala"

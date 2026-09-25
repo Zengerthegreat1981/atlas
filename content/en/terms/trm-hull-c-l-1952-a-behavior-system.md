@@ -1,6 +1,6 @@
 ---
 slug: "trm-hull-c-l-1952-a-behavior-system"
-id: "TRM-ENG-52512"
+id: "TRM-ENG-67041"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hull, C. L. (1952). A behavior system"

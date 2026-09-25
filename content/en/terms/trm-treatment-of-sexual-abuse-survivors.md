@@ -1,6 +1,6 @@
 ---
 slug: "trm-treatment-of-sexual-abuse-survivors"
-id: "TRM-ENG-42042"
+id: "TRM-ENG-56571"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "treatment of sexual abuse survivors"

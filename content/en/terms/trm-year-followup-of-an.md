@@ -1,6 +1,6 @@
 ---
 slug: "trm-year-followup-of-an"
-id: "TRM-ENG-37335"
+id: "TRM-ENG-66393"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "year follow-up of AN"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-elevenplatesandfourtextillustrationslondon"
-id: "TRM-ENG-37714"
+id: "TRM-ENG-52243"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "elevenplatesandfourtextillustrations.London"

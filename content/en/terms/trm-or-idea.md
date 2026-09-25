@@ -1,6 +1,6 @@
 ---
 slug: "trm-or-idea"
-id: "TRM-ENG-43784"
+id: "TRM-ENG-58313"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "or idea."

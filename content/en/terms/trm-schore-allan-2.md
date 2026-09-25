@@ -1,6 +1,6 @@
 ---
 slug: "trm-schore-allan-2"
-id: "TRM-ENG-47238"
+id: "TRM-ENG-61767"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schore, Allan, 2"

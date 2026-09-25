@@ -1,6 +1,6 @@
 ---
 slug: "trm-truth-and-lying"
-id: "TRM-ENG-45399"
+id: "TRM-ENG-59928"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "truth, and lying"

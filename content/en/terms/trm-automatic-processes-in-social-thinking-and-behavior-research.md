@@ -1,6 +1,6 @@
 ---
 slug: "trm-automatic-processes-in-social-thinking-and-behavior-research"
-id: "TRM-ENG-35310"
+id: "TRM-ENG-64368"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Automatic processes in social thinking and behavior research"

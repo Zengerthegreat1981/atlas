@@ -1,6 +1,6 @@
 ---
 slug: "trm-iii-manual-minneapolis-mn"
-id: "TRM-ENG-43445"
+id: "TRM-ENG-57974"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "III manual. Minneapolis, MN"

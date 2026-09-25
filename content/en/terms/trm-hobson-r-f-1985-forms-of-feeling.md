@@ -1,6 +1,6 @@
 ---
 slug: "trm-hobson-r-f-1985-forms-of-feeling"
-id: "TRM-ENG-49024"
+id: "TRM-ENG-63553"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hobson, R. F. (1985). Forms of feeling"

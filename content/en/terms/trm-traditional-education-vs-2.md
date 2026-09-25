@@ -1,6 +1,6 @@
 ---
 slug: "trm-traditional-education-vs-2"
-id: "TRM-ENG-48962"
+id: "TRM-ENG-63491"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "traditional education vs., 2"

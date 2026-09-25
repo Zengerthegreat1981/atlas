@@ -1,6 +1,6 @@
 ---
 slug: "trm-ludwig-am"
-id: "TRM-ENG-41523"
+id: "TRM-ENG-56052"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ludwig AM"

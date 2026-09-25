@@ -1,6 +1,6 @@
 ---
 slug: "trm-peretz-i-2001-brain-specialization-for-music"
-id: "TRM-ENG-34667"
+id: "TRM-ENG-63725"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Peretz, I. (2001). Brain specialization for music"

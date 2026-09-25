@@ -1,6 +1,6 @@
 ---
 slug: "trm-hope-and-resiliency"
-id: "TRM-ENG-50547"
+id: "TRM-ENG-65076"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hope and resiliency"

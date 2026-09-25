@@ -1,6 +1,6 @@
 ---
 slug: "trm-treatment-strategies-pp-11524-boston"
-id: "TRM-ENG-47364"
+id: "TRM-ENG-61893"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "treatment strategies (pp. 115±24). Boston"

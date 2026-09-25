@@ -1,6 +1,6 @@
 ---
 slug: "trm-ethnicspecific-mental-health-services-for-3"
-id: "TRM-ENG-40102"
+id: "TRM-ENG-54631"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ethnic-specific mental health services for, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-anxiety-in-adult-patients-anesthesia-and-analgesia-102-health-psychology"
-id: "TRM-ENG-37548"
+id: "TRM-ENG-52077"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "anxiety in adult patients. Anesthesia and Analgesia, 102, health psychology"

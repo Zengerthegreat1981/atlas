@@ -1,6 +1,6 @@
 ---
 slug: "trm-belonging-and-emotional-attachment-to"
-id: "TRM-ENG-42684"
+id: "TRM-ENG-57213"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "belonging and emotional attachment to"

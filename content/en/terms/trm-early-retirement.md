@@ -1,6 +1,6 @@
 ---
 slug: "trm-early-retirement"
-id: "TRM-ENG-44787"
+id: "TRM-ENG-59316"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, “Early Retirement"

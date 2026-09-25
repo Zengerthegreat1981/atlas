@@ -1,6 +1,6 @@
 ---
 slug: "trm-effect-of-optimism-on-distress"
-id: "TRM-ENG-46962"
+id: "TRM-ENG-61491"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "effect of optimism on distress"

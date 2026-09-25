@@ -1,6 +1,6 @@
 ---
 slug: "trm-domain-specifiers"
-id: "TRM-ENG-44091"
+id: "TRM-ENG-58620"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "domain specifiers"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-desires-peoples-satisfaction-is-directly-related-to-the-jobs"
-id: "TRM-ENG-39904"
+id: "TRM-ENG-54433"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "desires, people’s satisfaction is directly related to the jobs"

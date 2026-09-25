@@ -1,6 +1,6 @@
 ---
 slug: "trm-gottmanj1994whymarriagessucceedorfailnewyork"
-id: "TRM-ENG-36853"
+id: "TRM-ENG-65911"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gottman,J.(1994).Whymarriagessucceedorfail.NewYork"

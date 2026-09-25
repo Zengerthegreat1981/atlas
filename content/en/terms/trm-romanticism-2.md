@@ -1,6 +1,6 @@
 ---
 slug: "trm-romanticism-2"
-id: "TRM-ENG-47213"
+id: "TRM-ENG-61742"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Romanticism, 2"

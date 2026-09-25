@@ -1,6 +1,6 @@
 ---
 slug: "trm-rotterj-b-1966generalisedexpectancies-forinternal-locus"
-id: "TRM-ENG-46695"
+id: "TRM-ENG-61224"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rotter,J. B. (1966).Generalisedexpectancies forinternal locus"

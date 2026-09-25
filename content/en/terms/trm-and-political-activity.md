@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-political-activity"
-id: "TRM-ENG-34877"
+id: "TRM-ENG-49406"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and political activity"

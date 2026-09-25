@@ -1,6 +1,6 @@
 ---
 slug: "trm-participate-in-the-racial-code-that-framed-her-life"
-id: "TRM-ENG-38080"
+id: "TRM-ENG-67138"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "participate in the racial code that framed her life"

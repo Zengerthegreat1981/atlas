@@ -1,6 +1,6 @@
 ---
 slug: "trm-for-the-isolation-of-primary-traitschicago-university-of-chi-homunculus"
-id: "TRM-ENG-36457"
+id: "TRM-ENG-65515"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "for the isolation of primary traits.Chicago: University of Chi- homunculus"

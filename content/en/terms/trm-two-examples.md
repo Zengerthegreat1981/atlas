@@ -1,6 +1,6 @@
 ---
 slug: "trm-two-examples"
-id: "TRM-ENG-51128"
+id: "TRM-ENG-65657"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Two examples"

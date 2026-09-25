@@ -1,6 +1,6 @@
 ---
 slug: "trm-base-rate-or-prevalence"
-id: "TRM-ENG-35311"
+id: "TRM-ENG-64369"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Base rate (or Prevalence)"

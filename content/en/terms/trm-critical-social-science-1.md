@@ -1,6 +1,6 @@
 ---
 slug: "trm-critical-social-science-1"
-id: "TRM-ENG-47840"
+id: "TRM-ENG-62369"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "critical social science, 1"

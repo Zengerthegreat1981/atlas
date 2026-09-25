@@ -1,6 +1,6 @@
 ---
 slug: "trm-juliusdrbassetedshandbookofhypertension"
-id: "TRM-ENG-46583"
+id: "TRM-ENG-61112"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Julius&D.R.Basset(Eds.),Handbookofhypertension"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-stelazine"
-id: "TRM-ENG-38523"
+id: "TRM-ENG-53052"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Stelazine"

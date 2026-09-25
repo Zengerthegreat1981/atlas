@@ -1,6 +1,6 @@
 ---
 slug: "trm-no-4-fall-1998"
-id: "TRM-ENG-46163"
+id: "TRM-ENG-60692"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "no. 4 (Fall 1998)"

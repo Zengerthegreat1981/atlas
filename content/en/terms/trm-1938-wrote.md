@@ -1,6 +1,6 @@
 ---
 slug: "trm-1938-wrote"
-id: "TRM-ENG-43916"
+id: "TRM-ENG-58445"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1938) wrote"

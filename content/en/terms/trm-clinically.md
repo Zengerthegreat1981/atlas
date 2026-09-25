@@ -1,6 +1,6 @@
 ---
 slug: "trm-clinically"
-id: "TRM-ENG-44940"
+id: "TRM-ENG-59469"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "clinically"

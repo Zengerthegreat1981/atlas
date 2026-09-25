@@ -1,6 +1,6 @@
 ---
 slug: "trm-college-campuses"
-id: "TRM-ENG-39579"
+id: "TRM-ENG-54108"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "college campuses"

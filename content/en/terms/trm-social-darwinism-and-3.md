@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-darwinism-and-3"
-id: "TRM-ENG-38790"
+id: "TRM-ENG-53319"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Social Darwinism and, 3"

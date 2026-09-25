@@ -1,6 +1,6 @@
 ---
 slug: "trm-tionpp101105rome"
-id: "TRM-ENG-47346"
+id: "TRM-ENG-61875"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tion(pp.101±105).Rome"

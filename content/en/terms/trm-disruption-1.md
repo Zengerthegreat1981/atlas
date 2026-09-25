@@ -1,6 +1,6 @@
 ---
 slug: "trm-disruption-1"
-id: "TRM-ENG-47893"
+id: "TRM-ENG-62422"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disruption, 1"

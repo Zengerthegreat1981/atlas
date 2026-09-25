@@ -1,6 +1,6 @@
 ---
 slug: "trm-galston-william-2"
-id: "TRM-ENG-46666"
+id: "TRM-ENG-61195"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Galston, William, 2"

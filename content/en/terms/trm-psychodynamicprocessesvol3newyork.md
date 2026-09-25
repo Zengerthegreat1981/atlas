@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychodynamicprocessesvol3newyork"
-id: "TRM-ENG-38136"
+id: "TRM-ENG-52665"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychodynamicprocessesVol3.NewYork"

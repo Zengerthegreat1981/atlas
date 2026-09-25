@@ -1,6 +1,6 @@
 ---
 slug: "trm-adrian-ed-mathews-bhc-the-berger-rhythm"
-id: "TRM-ENG-35571"
+id: "TRM-ENG-50100"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Adrian, E.D., & Mathews, B.H.C. The Berger rhythm"

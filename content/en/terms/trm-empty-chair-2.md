@@ -1,6 +1,6 @@
 ---
 slug: "trm-empty-chair-2"
-id: "TRM-ENG-40055"
+id: "TRM-ENG-54584"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "empty chair, 2"

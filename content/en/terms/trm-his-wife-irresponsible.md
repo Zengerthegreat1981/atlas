@@ -1,6 +1,6 @@
 ---
 slug: "trm-his-wife-irresponsible"
-id: "TRM-ENG-43065"
+id: "TRM-ENG-57594"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "his wife irresponsible"

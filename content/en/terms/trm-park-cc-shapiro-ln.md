@@ -1,6 +1,6 @@
 ---
 slug: "trm-park-cc-shapiro-ln"
-id: "TRM-ENG-41923"
+id: "TRM-ENG-56452"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Park CC & Shapiro LN"

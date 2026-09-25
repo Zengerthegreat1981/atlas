@@ -1,6 +1,6 @@
 ---
 slug: "trm-shoemaker-s-2007-p-hysical-realization-oxford-uk"
-id: "TRM-ENG-44769"
+id: "TRM-ENG-59298"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shoemaker, S. (2007). P hysical realization. Oxford, UK"

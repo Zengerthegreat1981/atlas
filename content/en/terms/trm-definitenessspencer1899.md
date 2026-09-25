@@ -1,6 +1,6 @@
 ---
 slug: "trm-definitenessspencer1899"
-id: "TRM-ENG-37678"
+id: "TRM-ENG-66736"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "definiteness”(Spencer1899"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-5-learn-to-relax-during-dental-treatment-cid"
-id: "TRM-ENG-45729"
+id: "TRM-ENG-60258"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "5. Learn to relax during dental treatment. (cid"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-tischler-gl"
-id: "TRM-ENG-42602"
+id: "TRM-ENG-57131"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tischler GL"

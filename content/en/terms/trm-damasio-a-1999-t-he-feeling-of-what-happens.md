@@ -1,6 +1,6 @@
 ---
 slug: "trm-damasio-a-1999-t-he-feeling-of-what-happens"
-id: "TRM-ENG-44410"
+id: "TRM-ENG-58939"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Damasio, A. (1999). T he feeling of what happens"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ticular-objects-that-bear-these-properties"
-id: "TRM-ENG-45618"
+id: "TRM-ENG-60147"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ticular objects that bear these properties"

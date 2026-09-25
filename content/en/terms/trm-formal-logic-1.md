@@ -1,6 +1,6 @@
 ---
 slug: "trm-formal-logic-1"
-id: "TRM-ENG-46635"
+id: "TRM-ENG-61164"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Formal logic, 1"

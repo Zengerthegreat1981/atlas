@@ -1,6 +1,6 @@
 ---
 slug: "trm-information-flow-into-manageable-chunks"
-id: "TRM-ENG-40541"
+id: "TRM-ENG-55070"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "information flow into manageable chunks"

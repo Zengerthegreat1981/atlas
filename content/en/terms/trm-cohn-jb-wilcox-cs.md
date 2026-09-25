@@ -1,6 +1,6 @@
 ---
 slug: "trm-cohn-jb-wilcox-cs"
-id: "TRM-ENG-40208"
+id: "TRM-ENG-54737"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cohn JB, Wilcox CS"

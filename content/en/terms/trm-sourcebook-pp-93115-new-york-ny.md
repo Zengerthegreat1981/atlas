@@ -1,6 +1,6 @@
 ---
 slug: "trm-sourcebook-pp-93115-new-york-ny"
-id: "TRM-ENG-51835"
+id: "TRM-ENG-66364"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sourcebook (pp. 93–115). New York, NY"

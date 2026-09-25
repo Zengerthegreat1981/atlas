@@ -1,6 +1,6 @@
 ---
 slug: "trm-668-brenner-c"
-id: "TRM-ENG-39297"
+id: "TRM-ENG-53826"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "668. Brenner C"

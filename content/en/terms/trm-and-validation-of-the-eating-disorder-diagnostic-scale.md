@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-validation-of-the-eating-disorder-diagnostic-scale"
-id: "TRM-ENG-39198"
+id: "TRM-ENG-53727"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and validation of the Eating Disorder Diagnostic Scale"

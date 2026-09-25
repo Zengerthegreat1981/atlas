@@ -1,6 +1,6 @@
 ---
 slug: "trm-ethicksandtheologyportland"
-id: "TRM-ENG-37739"
+id: "TRM-ENG-52268"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ethicksandtheology.Portland"

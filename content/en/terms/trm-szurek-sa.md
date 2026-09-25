@@ -1,6 +1,6 @@
 ---
 slug: "trm-szurek-sa"
-id: "TRM-ENG-42529"
+id: "TRM-ENG-57058"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Szurek SA"

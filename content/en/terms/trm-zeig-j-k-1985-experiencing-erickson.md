@@ -1,6 +1,6 @@
 ---
 slug: "trm-zeig-j-k-1985-experiencing-erickson"
-id: "TRM-ENG-51201"
+id: "TRM-ENG-65730"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Zeig, J. K. (1985). Experiencing Erickson"

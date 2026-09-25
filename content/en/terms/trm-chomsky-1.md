@@ -1,6 +1,6 @@
 ---
 slug: "trm-chomsky-1"
-id: "TRM-ENG-46393"
+id: "TRM-ENG-60922"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Chomsky, 1"

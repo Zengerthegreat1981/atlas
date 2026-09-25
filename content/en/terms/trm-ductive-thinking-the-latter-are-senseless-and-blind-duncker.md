@@ -1,6 +1,6 @@
 ---
 slug: "trm-ductive-thinking-the-latter-are-senseless-and-blind-duncker"
-id: "TRM-ENG-34994"
+id: "TRM-ENG-64052"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ductive thinking.” The latter are senseless and “blind,” Duncker"

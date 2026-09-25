@@ -1,6 +1,6 @@
 ---
 slug: "trm-flashesobstetricsandgynaecology57340344-procedures"
-id: "TRM-ENG-46982"
+id: "TRM-ENG-61511"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "flashes.ObstetricsandGynaecology,57,340±344. procedures"

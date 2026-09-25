@@ -1,6 +1,6 @@
 ---
 slug: "trm-602221-principle1"
-id: "TRM-ENG-48864"
+id: "TRM-ENG-63393"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "6.02.2.2.1 Principle1"

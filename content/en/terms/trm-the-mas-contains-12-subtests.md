@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-mas-contains-12-subtests"
-id: "TRM-ENG-38888"
+id: "TRM-ENG-53417"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The MAS contains 12 subtests"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-pourtois-gilles-1"
-id: "TRM-ENG-44701"
+id: "TRM-ENG-59230"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pourtois, Gilles, 1"

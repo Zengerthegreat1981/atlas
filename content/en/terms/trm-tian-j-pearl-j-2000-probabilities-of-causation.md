@@ -1,6 +1,6 @@
 ---
 slug: "trm-tian-j-pearl-j-2000-probabilities-of-causation"
-id: "TRM-ENG-35595"
+id: "TRM-ENG-64653"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tian, J., & Pearl, J. (2000). Probabilities of causation"

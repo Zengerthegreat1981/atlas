@@ -1,6 +1,6 @@
 ---
 slug: "trm-bracy-ol"
-id: "TRM-ENG-40014"
+id: "TRM-ENG-54543"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bracy OL"

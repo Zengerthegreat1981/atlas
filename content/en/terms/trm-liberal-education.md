@@ -1,6 +1,6 @@
 ---
 slug: "trm-liberal-education"
-id: "TRM-ENG-46926"
+id: "TRM-ENG-61455"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Liberal Education"

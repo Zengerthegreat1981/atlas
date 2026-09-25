@@ -1,6 +1,6 @@
 ---
 slug: "trm-conversation-see-also-dialogue-critical-theory-1"
-id: "TRM-ENG-46451"
+id: "TRM-ENG-60980"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Conversation. See also Dialogue Critical theory, 1"

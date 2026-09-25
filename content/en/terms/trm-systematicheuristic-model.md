@@ -1,6 +1,6 @@
 ---
 slug: "trm-systematicheuristic-model"
-id: "TRM-ENG-47320"
+id: "TRM-ENG-61849"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "systematic-heuristic model"

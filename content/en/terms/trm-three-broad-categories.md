@@ -1,6 +1,6 @@
 ---
 slug: "trm-three-broad-categories"
-id: "TRM-ENG-37158"
+id: "TRM-ENG-66216"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "three broad categories"

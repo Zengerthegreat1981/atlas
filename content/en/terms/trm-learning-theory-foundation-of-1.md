@@ -1,6 +1,6 @@
 ---
 slug: "trm-learning-theory-foundation-of-1"
-id: "TRM-ENG-40700"
+id: "TRM-ENG-55229"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "learning theory foundation of, 1"

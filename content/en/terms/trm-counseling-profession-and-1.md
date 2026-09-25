@@ -1,6 +1,6 @@
 ---
 slug: "trm-counseling-profession-and-1"
-id: "TRM-ENG-39739"
+id: "TRM-ENG-54268"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "counseling profession and, 1"

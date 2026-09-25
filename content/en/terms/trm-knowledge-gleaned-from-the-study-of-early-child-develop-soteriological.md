@@ -1,6 +1,6 @@
 ---
 slug: "trm-knowledge-gleaned-from-the-study-of-early-child-develop-soteriological"
-id: "TRM-ENG-36614"
+id: "TRM-ENG-51143"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "knowledge gleaned from the study of early child develop- soteriological"

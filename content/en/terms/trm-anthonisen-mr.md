@@ -1,6 +1,6 @@
 ---
 slug: "trm-anthonisen-mr"
-id: "TRM-ENG-39707"
+id: "TRM-ENG-54236"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Anthonisen MR"

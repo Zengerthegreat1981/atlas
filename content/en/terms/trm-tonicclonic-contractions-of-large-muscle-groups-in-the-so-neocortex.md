@@ -1,6 +1,6 @@
 ---
 slug: "trm-tonicclonic-contractions-of-large-muscle-groups-in-the-so-neocortex"
-id: "TRM-ENG-37217"
+id: "TRM-ENG-66275"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tonic-clonic contractions of large muscle groups in the so- neocortex"

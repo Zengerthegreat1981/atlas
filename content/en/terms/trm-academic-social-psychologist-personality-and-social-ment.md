@@ -1,6 +1,6 @@
 ---
 slug: "trm-academic-social-psychologist-personality-and-social-ment"
-id: "TRM-ENG-46777"
+id: "TRM-ENG-61306"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "academic, social psychologist. Personality and Social ment"

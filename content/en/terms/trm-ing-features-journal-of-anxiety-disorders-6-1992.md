@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-features-journal-of-anxiety-disorders-6-1992"
-id: "TRM-ENG-46123"
+id: "TRM-ENG-60652"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing Features.” Journal of Anxiety Disorders 6 (1992)"

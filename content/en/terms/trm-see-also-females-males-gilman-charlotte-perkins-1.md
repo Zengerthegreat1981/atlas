@@ -1,6 +1,6 @@
 ---
 slug: "trm-see-also-females-males-gilman-charlotte-perkins-1"
-id: "TRM-ENG-47249"
+id: "TRM-ENG-61778"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "See also Females; Males Gilman, Charlotte Perkins, 1"

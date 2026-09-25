@@ -1,6 +1,6 @@
 ---
 slug: "trm-occupational-codes-3rd-ed-lutz"
-id: "TRM-ENG-38014"
+id: "TRM-ENG-67072"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "occupational codes (3rd ed.). Lutz"

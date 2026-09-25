@@ -1,6 +1,6 @@
 ---
 slug: "trm-vidal-gore-1"
-id: "TRM-ENG-47462"
+id: "TRM-ENG-61991"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Vidal, Gore, 1"

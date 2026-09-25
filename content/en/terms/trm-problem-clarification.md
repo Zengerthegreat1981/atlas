@@ -1,6 +1,6 @@
 ---
 slug: "trm-problem-clarification"
-id: "TRM-ENG-38628"
+id: "TRM-ENG-53157"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Problem clarification"

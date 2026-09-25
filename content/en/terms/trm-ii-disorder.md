@@ -1,6 +1,6 @@
 ---
 slug: "trm-ii-disorder"
-id: "TRM-ENG-47743"
+id: "TRM-ENG-62272"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "II disorder"

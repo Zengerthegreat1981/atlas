@@ -1,6 +1,6 @@
 ---
 slug: "trm-its-organizing-principles"
-id: "TRM-ENG-42939"
+id: "TRM-ENG-57468"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "its organizing principles"

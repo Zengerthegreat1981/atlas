@@ -1,6 +1,6 @@
 ---
 slug: "trm-ego-state-therapy-1"
-id: "TRM-ENG-50335"
+id: "TRM-ENG-64864"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ego state therapy, 1"

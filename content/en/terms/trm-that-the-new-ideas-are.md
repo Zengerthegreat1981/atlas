@@ -1,6 +1,6 @@
 ---
 slug: "trm-that-the-new-ideas-are"
-id: "TRM-ENG-45347"
+id: "TRM-ENG-59876"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "that the new ideas are"

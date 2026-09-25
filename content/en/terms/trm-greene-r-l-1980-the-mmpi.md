@@ -1,6 +1,6 @@
 ---
 slug: "trm-greene-r-l-1980-the-mmpi"
-id: "TRM-ENG-43436"
+id: "TRM-ENG-57965"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Greene, R. L. (1980). The MMPI"

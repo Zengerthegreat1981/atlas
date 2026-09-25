@@ -1,6 +1,6 @@
 ---
 slug: "trm-within-nations-and-3"
-id: "TRM-ENG-42163"
+id: "TRM-ENG-56692"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "within nations and, 3"

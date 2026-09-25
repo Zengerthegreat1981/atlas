@@ -1,6 +1,6 @@
 ---
 slug: "trm-demonstrated-by-the-group-can-be-a-potent-healing-force-ing"
-id: "TRM-ENG-36345"
+id: "TRM-ENG-65403"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "demonstrated by the group can be a potent healing force; ing"

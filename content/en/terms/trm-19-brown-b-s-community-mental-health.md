@@ -1,6 +1,6 @@
 ---
 slug: "trm-19-brown-b-s-community-mental-health"
-id: "TRM-ENG-44196"
+id: "TRM-ENG-58725"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "19. Brown, B. S., “Community Mental Health"

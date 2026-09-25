@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-the-cochrane-collaboration-in-the-field-of-medi-research"
-id: "TRM-ENG-48449"
+id: "TRM-ENG-62978"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of the Cochrane Collaboration (in the field of medi- research"

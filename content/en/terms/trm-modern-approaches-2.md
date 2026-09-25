@@ -1,6 +1,6 @@
 ---
 slug: "trm-modern-approaches-2"
-id: "TRM-ENG-45309"
+id: "TRM-ENG-59838"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "modern approaches, 2"

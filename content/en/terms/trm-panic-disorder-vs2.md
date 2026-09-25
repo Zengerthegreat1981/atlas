@@ -1,6 +1,6 @@
 ---
 slug: "trm-panic-disorder-vs2"
-id: "TRM-ENG-41101"
+id: "TRM-ENG-55630"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "panic disorder vs.,2"

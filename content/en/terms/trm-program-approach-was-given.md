@@ -1,6 +1,6 @@
 ---
 slug: "trm-program-approach-was-given"
-id: "TRM-ENG-44172"
+id: "TRM-ENG-58701"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "program approach was given"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-rush-aj-beck-ac"
-id: "TRM-ENG-42205"
+id: "TRM-ENG-56734"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rush AJ, Beck AC"

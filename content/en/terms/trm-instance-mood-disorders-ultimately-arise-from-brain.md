@@ -1,6 +1,6 @@
 ---
 slug: "trm-instance-mood-disorders-ultimately-arise-from-brain"
-id: "TRM-ENG-45220"
+id: "TRM-ENG-59749"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "instance, mood disorders ultimately arise from brain"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-intended-to-tap-two-main-phenomena"
-id: "TRM-ENG-49500"
+id: "TRM-ENG-64029"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "intended to tap two main phenomena"

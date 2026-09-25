@@ -1,6 +1,6 @@
 ---
 slug: "trm-loaded"
-id: "TRM-ENG-48297"
+id: "TRM-ENG-62826"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "loaded"

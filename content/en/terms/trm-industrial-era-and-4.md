@@ -1,6 +1,6 @@
 ---
 slug: "trm-industrial-era-and-4"
-id: "TRM-ENG-40531"
+id: "TRM-ENG-55060"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "industrial era and, 4"

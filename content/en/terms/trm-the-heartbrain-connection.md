@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-heartbrain-connection"
-id: "TRM-ENG-36169"
+id: "TRM-ENG-65227"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the heart–brain connection"

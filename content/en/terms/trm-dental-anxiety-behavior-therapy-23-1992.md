@@ -1,6 +1,6 @@
 ---
 slug: "trm-dental-anxiety-behavior-therapy-23-1992"
-id: "TRM-ENG-45795"
+id: "TRM-ENG-60324"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dental Anxiety.” Behavior Therapy 23 (1992)"

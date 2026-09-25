@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-negative-social-cues"
-id: "TRM-ENG-48687"
+id: "TRM-ENG-63216"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to negative social cues"

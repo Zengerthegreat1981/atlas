@@ -1,6 +1,6 @@
 ---
 slug: "trm-hall-e-1977-beyond-culturegarden-city-ny"
-id: "TRM-ENG-35727"
+id: "TRM-ENG-64785"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hall, E. (1977). Beyond culture.Garden City, NY"

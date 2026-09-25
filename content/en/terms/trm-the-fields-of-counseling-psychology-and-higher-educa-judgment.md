@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-fields-of-counseling-psychology-and-higher-educa-judgment"
-id: "TRM-ENG-41886"
+id: "TRM-ENG-56415"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the fields of counseling psychology and higher educa- judgment"

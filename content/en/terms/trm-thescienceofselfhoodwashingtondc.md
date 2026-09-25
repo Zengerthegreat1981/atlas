@@ -1,6 +1,6 @@
 ---
 slug: "trm-thescienceofselfhoodwashingtondc"
-id: "TRM-ENG-38341"
+id: "TRM-ENG-52870"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thescienceofselfhood.Washington,DC"

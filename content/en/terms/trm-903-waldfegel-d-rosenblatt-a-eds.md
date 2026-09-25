@@ -1,6 +1,6 @@
 ---
 slug: "trm-903-waldfegel-d-rosenblatt-a-eds"
-id: "TRM-ENG-39577"
+id: "TRM-ENG-54106"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "903. Waldfegel D, Rosenblatt A (eds)"

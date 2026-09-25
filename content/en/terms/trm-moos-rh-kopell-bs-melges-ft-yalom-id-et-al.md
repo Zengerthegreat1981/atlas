@@ -1,6 +1,6 @@
 ---
 slug: "trm-moos-rh-kopell-bs-melges-ft-yalom-id-et-al"
-id: "TRM-ENG-41758"
+id: "TRM-ENG-56287"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Moos RH, Kopell BS, Melges FT, Yalom ID, et al"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-disfiguredchildren"
-id: "TRM-ENG-46953"
+id: "TRM-ENG-61482"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disfiguredchildren"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-lesse-s"
-id: "TRM-ENG-41408"
+id: "TRM-ENG-55937"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lesse S"

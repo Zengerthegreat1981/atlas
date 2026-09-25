@@ -1,6 +1,6 @@
 ---
 slug: "trm-contemplation-stage-of-therapeutic-change-and-2"
-id: "TRM-ENG-39677"
+id: "TRM-ENG-54206"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "contemplation stage of therapeutic change and, 2"

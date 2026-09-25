@@ -1,6 +1,6 @@
 ---
 slug: "trm-theories-are-under"
-id: "TRM-ENG-35386"
+id: "TRM-ENG-64444"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theories are under"

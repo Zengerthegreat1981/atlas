@@ -1,6 +1,6 @@
 ---
 slug: "trm-group-also-come-into-play"
-id: "TRM-ENG-40327"
+id: "TRM-ENG-54856"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "group also come into play"

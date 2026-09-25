@@ -1,6 +1,6 @@
 ---
 slug: "trm-encyclopedia-of-unbelief-buffalo-ny"
-id: "TRM-ENG-45805"
+id: "TRM-ENG-60334"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Encyclopedia of Unbelief (Buffalo, NY"

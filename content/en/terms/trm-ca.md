@@ -1,6 +1,6 @@
 ---
 slug: "trm-ca"
-id: "TRM-ENG-34665"
+id: "TRM-ENG-63723"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "C’A"

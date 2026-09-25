@@ -1,6 +1,6 @@
 ---
 slug: "trm-by-adding-a-final-code"
-id: "TRM-ENG-35698"
+id: "TRM-ENG-64756"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "by adding a final code"

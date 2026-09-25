@@ -1,6 +1,6 @@
 ---
 slug: "trm-meador-bd"
-id: "TRM-ENG-41663"
+id: "TRM-ENG-56192"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Meador BD"

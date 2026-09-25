@@ -1,6 +1,6 @@
 ---
 slug: "trm-provocation-of-panic-attacks"
-id: "TRM-ENG-49648"
+id: "TRM-ENG-64177"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "provocation of panic attacks"

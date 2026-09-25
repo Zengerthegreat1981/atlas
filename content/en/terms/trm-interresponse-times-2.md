@@ -1,6 +1,6 @@
 ---
 slug: "trm-interresponse-times-2"
-id: "TRM-ENG-45225"
+id: "TRM-ENG-59754"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "interresponse times, 2"

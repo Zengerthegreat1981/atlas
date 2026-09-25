@@ -1,6 +1,6 @@
 ---
 slug: "trm-king-nj"
-id: "TRM-ENG-41241"
+id: "TRM-ENG-55770"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "King NJ"

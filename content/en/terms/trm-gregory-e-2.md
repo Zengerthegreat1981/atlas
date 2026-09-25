@@ -1,6 +1,6 @@
 ---
 slug: "trm-gregory-e-2"
-id: "TRM-ENG-46720"
+id: "TRM-ENG-61249"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gregory, E., 2"

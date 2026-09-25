@@ -1,6 +1,6 @@
 ---
 slug: "trm-universal-nonverbal-intelligence-test-and-3"
-id: "TRM-ENG-38960"
+id: "TRM-ENG-53489"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Universal Nonverbal Intelligence Test and, 3"

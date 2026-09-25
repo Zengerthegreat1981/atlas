@@ -1,6 +1,6 @@
 ---
 slug: "trm-morbid-ocpd-increases-the-morbidity-of-ocd"
-id: "TRM-ENG-43023"
+id: "TRM-ENG-57552"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "morbid OCPD increases the morbidity of OCD"

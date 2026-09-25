@@ -1,6 +1,6 @@
 ---
 slug: "trm-andlegitimatedifferences"
-id: "TRM-ENG-45837"
+id: "TRM-ENG-60366"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "andLegitimateDifferences"

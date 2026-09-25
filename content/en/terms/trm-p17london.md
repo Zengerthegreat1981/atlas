@@ -1,6 +1,6 @@
 ---
 slug: "trm-p17london"
-id: "TRM-ENG-36454"
+id: "TRM-ENG-65512"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(p.17).London"

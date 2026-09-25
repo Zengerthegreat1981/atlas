@@ -1,6 +1,6 @@
 ---
 slug: "trm-heritability-of-a-single-variable-is-estimated-by-ed"
-id: "TRM-ENG-42862"
+id: "TRM-ENG-57391"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "heritability of a single variable is estimated by ed"

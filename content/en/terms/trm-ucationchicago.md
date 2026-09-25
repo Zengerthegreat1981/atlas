@@ -1,6 +1,6 @@
 ---
 slug: "trm-ucationchicago"
-id: "TRM-ENG-37260"
+id: "TRM-ENG-51789"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ucation.Chicago"

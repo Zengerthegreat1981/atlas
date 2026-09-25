@@ -1,6 +1,6 @@
 ---
 slug: "trm-book-scientist-as-subject"
-id: "TRM-ENG-51311"
+id: "TRM-ENG-65840"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "book Scientist as Subject"

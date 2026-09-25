@@ -1,6 +1,6 @@
 ---
 slug: "trm-reinforcement-two-main-approaches-are-considered-here"
-id: "TRM-ENG-36933"
+id: "TRM-ENG-51462"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reinforcement. Two main approaches are considered here"

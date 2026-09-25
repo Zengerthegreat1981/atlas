@@ -1,6 +1,6 @@
 ---
 slug: "trm-american-association-of-psychiatric-social-workers"
-id: "TRM-ENG-39678"
+id: "TRM-ENG-54207"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "American Association of Psychiatric Social Workers"

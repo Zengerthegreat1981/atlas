@@ -1,6 +1,6 @@
 ---
 slug: "trm-chother-res-18"
-id: "TRM-ENG-48270"
+id: "TRM-ENG-62799"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chother Res 18"

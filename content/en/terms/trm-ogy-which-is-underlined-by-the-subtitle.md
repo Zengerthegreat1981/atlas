@@ -1,6 +1,6 @@
 ---
 slug: "trm-ogy-which-is-underlined-by-the-subtitle"
-id: "TRM-ENG-38052"
+id: "TRM-ENG-67110"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ogy, which is underlined by the subtitle"

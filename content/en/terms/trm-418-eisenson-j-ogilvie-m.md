@@ -1,6 +1,6 @@
 ---
 slug: "trm-418-eisenson-j-ogilvie-m"
-id: "TRM-ENG-39006"
+id: "TRM-ENG-53535"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "418. Eisenson J, Ogilvie M"

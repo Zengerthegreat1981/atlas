@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-adult-must-convey-a-message-to-the-child"
-id: "TRM-ENG-47376"
+id: "TRM-ENG-61905"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The adult must convey a message to the child"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-we-seek-not-just-freedom-but-opportunity"
-id: "TRM-ENG-47470"
+id: "TRM-ENG-61999"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "We seek not just freedom but opportunity"

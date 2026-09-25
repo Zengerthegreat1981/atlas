@@ -1,6 +1,6 @@
 ---
 slug: "trm-wender-p"
-id: "TRM-ENG-42757"
+id: "TRM-ENG-57286"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wender P"

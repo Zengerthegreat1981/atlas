@@ -1,6 +1,6 @@
 ---
 slug: "trm-use-anesthesia-james-braid-gave-it-a-new-name-merism"
-id: "TRM-ENG-38415"
+id: "TRM-ENG-52944"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "use (anesthesia), James Braid gave it a new name merism"

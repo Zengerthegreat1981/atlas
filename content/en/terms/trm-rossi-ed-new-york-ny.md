@@ -1,6 +1,6 @@
 ---
 slug: "trm-rossi-ed-new-york-ny"
-id: "TRM-ENG-50977"
+id: "TRM-ENG-65506"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rossi, Ed.). New York, NY"

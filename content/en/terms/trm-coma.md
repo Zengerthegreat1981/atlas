@@ -1,6 +1,6 @@
 ---
 slug: "trm-coma"
-id: "TRM-ENG-52107"
+id: "TRM-ENG-66636"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Coma"

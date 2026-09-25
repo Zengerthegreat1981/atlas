@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-ma"
-id: "TRM-ENG-36581"
+id: "TRM-ENG-65639"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing, MA"

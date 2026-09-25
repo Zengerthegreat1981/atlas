@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychology-of-vocational-choicewritten-by-4"
-id: "TRM-ENG-38643"
+id: "TRM-ENG-53172"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychology of Vocational Choicewritten by, 4"

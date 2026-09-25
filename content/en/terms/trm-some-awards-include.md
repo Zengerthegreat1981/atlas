@@ -1,6 +1,6 @@
 ---
 slug: "trm-some-awards-include"
-id: "TRM-ENG-38261"
+id: "TRM-ENG-52790"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "some awards include"

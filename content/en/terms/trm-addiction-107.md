@@ -1,6 +1,6 @@
 ---
 slug: "trm-addiction-107"
-id: "TRM-ENG-47451"
+id: "TRM-ENG-61980"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Addiction 107"

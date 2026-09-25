@@ -1,6 +1,6 @@
 ---
 slug: "trm-feminism"
-id: "TRM-ENG-36789"
+id: "TRM-ENG-65847"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Feminism"

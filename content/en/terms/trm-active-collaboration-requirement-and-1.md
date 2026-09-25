@@ -1,6 +1,6 @@
 ---
 slug: "trm-active-collaboration-requirement-and-1"
-id: "TRM-ENG-39099"
+id: "TRM-ENG-53628"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "active collaboration requirement and, 1"

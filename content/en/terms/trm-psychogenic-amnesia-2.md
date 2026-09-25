@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychogenic-amnesia-2"
-id: "TRM-ENG-50892"
+id: "TRM-ENG-65421"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychogenic amnesia, 2"

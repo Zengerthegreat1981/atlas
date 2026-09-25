@@ -1,6 +1,6 @@
 ---
 slug: "trm-tagge-gf-adler-d-bryanbrown-cw-shoemaker-wc"
-id: "TRM-ENG-42536"
+id: "TRM-ENG-57065"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tagge GF, Adler D, Bryan-Brown CW, Shoemaker WC"

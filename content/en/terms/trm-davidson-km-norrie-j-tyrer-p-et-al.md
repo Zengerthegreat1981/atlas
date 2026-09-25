@@ -1,6 +1,6 @@
 ---
 slug: "trm-davidson-km-norrie-j-tyrer-p-et-al"
-id: "TRM-ENG-47600"
+id: "TRM-ENG-62129"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Davidson KM, Norrie J, Tyrer P, et al"

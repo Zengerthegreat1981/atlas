@@ -1,6 +1,6 @@
 ---
 slug: "trm-comenius-johann-amos-1"
-id: "TRM-ENG-46431"
+id: "TRM-ENG-60960"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Comenius, Johann Amos, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognitive-load-theory-1"
-id: "TRM-ENG-47784"
+id: "TRM-ENG-62313"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cognitive load theory, 1"

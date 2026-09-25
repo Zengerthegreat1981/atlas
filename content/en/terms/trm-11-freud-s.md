@@ -1,6 +1,6 @@
 ---
 slug: "trm-11-freud-s"
-id: "TRM-ENG-38566"
+id: "TRM-ENG-53095"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "11. Freud S"

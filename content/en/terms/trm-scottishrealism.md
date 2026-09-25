@@ -1,6 +1,6 @@
 ---
 slug: "trm-scottishrealism"
-id: "TRM-ENG-37268"
+id: "TRM-ENG-66326"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ScottishRealism"

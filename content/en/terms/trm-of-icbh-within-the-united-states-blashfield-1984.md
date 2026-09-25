@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-icbh-within-the-united-states-blashfield-1984"
-id: "TRM-ENG-35164"
+id: "TRM-ENG-64222"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of ICBh within the United States (Blashfield, 1984"

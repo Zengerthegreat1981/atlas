@@ -1,6 +1,6 @@
 ---
 slug: "trm-phobicanxiety-syndrome"
-id: "TRM-ENG-46191"
+id: "TRM-ENG-60720"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "phobic-anxiety syndrome"

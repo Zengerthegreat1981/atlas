@@ -1,6 +1,6 @@
 ---
 slug: "trm-stress-management-and-2"
-id: "TRM-ENG-41797"
+id: "TRM-ENG-56326"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stress management and, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-personality-traits-in-childhood"
-id: "TRM-ENG-43129"
+id: "TRM-ENG-57658"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "personality traits in childhood"

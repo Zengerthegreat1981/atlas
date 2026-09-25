@@ -1,6 +1,6 @@
 ---
 slug: "trm-wachtel-paul-l-1"
-id: "TRM-ENG-51149"
+id: "TRM-ENG-65678"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wachtel, Paul L., 1"

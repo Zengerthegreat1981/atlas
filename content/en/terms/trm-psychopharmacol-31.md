@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychopharmacol-31"
-id: "TRM-ENG-47984"
+id: "TRM-ENG-62513"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychopharmacol 31"

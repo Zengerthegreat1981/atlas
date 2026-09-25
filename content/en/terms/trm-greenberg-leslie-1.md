@@ -1,6 +1,6 @@
 ---
 slug: "trm-greenberg-leslie-1"
-id: "TRM-ENG-50498"
+id: "TRM-ENG-65027"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Greenberg, Leslie, 1"

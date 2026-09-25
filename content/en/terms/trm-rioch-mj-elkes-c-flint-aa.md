@@ -1,6 +1,6 @@
 ---
 slug: "trm-rioch-mj-elkes-c-flint-aa"
-id: "TRM-ENG-42125"
+id: "TRM-ENG-56654"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rioch MJ, Elkes C, Flint AA"

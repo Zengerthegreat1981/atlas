@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-changenewbury-park-ca"
-id: "TRM-ENG-41683"
+id: "TRM-ENG-56212"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social change.Newbury Park, CA"

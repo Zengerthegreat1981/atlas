@@ -1,6 +1,6 @@
 ---
 slug: "trm-or-experience-rapid-economic-advancement-even-as-generation"
-id: "TRM-ENG-48492"
+id: "TRM-ENG-63021"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "or experience rapid economic advancement even as generation"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-sokalmm1980scienceandjamesmckeencattell18941945-biabible"
-id: "TRM-ENG-37309"
+id: "TRM-ENG-66367"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sokal,M.M.(1980).ScienceandJamesMcKeenCattell,1894–1945. biaBible”"

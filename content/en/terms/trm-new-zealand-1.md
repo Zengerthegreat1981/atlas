@@ -1,6 +1,6 @@
 ---
 slug: "trm-new-zealand-1"
-id: "TRM-ENG-47059"
+id: "TRM-ENG-61588"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "New Zealand, 1"

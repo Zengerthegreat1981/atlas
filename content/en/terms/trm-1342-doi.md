@@ -1,6 +1,6 @@
 ---
 slug: "trm-1342-doi"
-id: "TRM-ENG-43285"
+id: "TRM-ENG-57814"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1342. doi"

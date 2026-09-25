@@ -1,6 +1,6 @@
 ---
 slug: "trm-institutional-classism-and-2"
-id: "TRM-ENG-40572"
+id: "TRM-ENG-55101"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "institutional classism and, 2"

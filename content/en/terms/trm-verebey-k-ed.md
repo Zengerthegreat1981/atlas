@@ -1,6 +1,6 @@
 ---
 slug: "trm-verebey-k-ed"
-id: "TRM-ENG-42675"
+id: "TRM-ENG-57204"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Verebey K (ed)"

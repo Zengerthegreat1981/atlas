@@ -1,6 +1,6 @@
 ---
 slug: "trm-yarris-e-1"
-id: "TRM-ENG-39059"
+id: "TRM-ENG-53588"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Yarris, E., 1"

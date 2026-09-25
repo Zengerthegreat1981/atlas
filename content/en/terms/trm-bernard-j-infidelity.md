@@ -1,6 +1,6 @@
 ---
 slug: "trm-bernard-j-infidelity"
-id: "TRM-ENG-44285"
+id: "TRM-ENG-58814"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bernard, J., “Infidelity"

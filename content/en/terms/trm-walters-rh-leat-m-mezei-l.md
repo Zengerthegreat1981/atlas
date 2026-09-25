@@ -1,6 +1,6 @@
 ---
 slug: "trm-walters-rh-leat-m-mezei-l"
-id: "TRM-ENG-42709"
+id: "TRM-ENG-57238"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Walters RH, Leat M, Mezei L"

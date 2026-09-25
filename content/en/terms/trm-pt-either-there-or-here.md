@@ -1,6 +1,6 @@
 ---
 slug: "trm-pt-either-there-or-here"
-id: "TRM-ENG-42023"
+id: "TRM-ENG-56552"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pt. Either there or here"

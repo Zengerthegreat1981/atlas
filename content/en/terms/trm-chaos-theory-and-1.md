@@ -1,6 +1,6 @@
 ---
 slug: "trm-chaos-theory-and-1"
-id: "TRM-ENG-51325"
+id: "TRM-ENG-65854"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chaos theory and, 1"

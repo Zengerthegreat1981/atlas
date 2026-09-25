@@ -1,6 +1,6 @@
 ---
 slug: "trm-stimuli-perceptually"
-id: "TRM-ENG-45320"
+id: "TRM-ENG-59849"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stimuli perceptually"

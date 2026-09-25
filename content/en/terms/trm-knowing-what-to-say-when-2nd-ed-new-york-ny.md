@@ -1,6 +1,6 @@
 ---
 slug: "trm-knowing-what-to-say-when-2nd-ed-new-york-ny"
-id: "TRM-ENG-50642"
+id: "TRM-ENG-65171"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Knowing what to say when (2nd ed.). New York, NY"

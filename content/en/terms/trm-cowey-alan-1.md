@@ -1,6 +1,6 @@
 ---
 slug: "trm-cowey-alan-1"
-id: "TRM-ENG-44403"
+id: "TRM-ENG-58932"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cowey, Alan, 1"

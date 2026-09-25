@@ -1,6 +1,6 @@
 ---
 slug: "trm-or-the-autonomy-i-feel"
-id: "TRM-ENG-45204"
+id: "TRM-ENG-59733"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "or the autonomy I feel"

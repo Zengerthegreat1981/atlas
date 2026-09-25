@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-insight-cambridge-ma"
-id: "TRM-ENG-48434"
+id: "TRM-ENG-62963"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of insight. Cambridge, MA"

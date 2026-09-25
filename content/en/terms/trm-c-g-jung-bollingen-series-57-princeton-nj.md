@@ -1,6 +1,6 @@
 ---
 slug: "trm-c-g-jung-bollingen-series-57-princeton-nj"
-id: "TRM-ENG-36674"
+id: "TRM-ENG-51203"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "C. G. Jung. Bollingen series, 57, Princeton, NJ"

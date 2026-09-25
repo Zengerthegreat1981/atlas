@@ -1,6 +1,6 @@
 ---
 slug: "trm-romanesgj1883mentalevolutioninanimalslondon"
-id: "TRM-ENG-37239"
+id: "TRM-ENG-66297"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Romanes,G.J.(1883).Mentalevolutioninanimals.London"

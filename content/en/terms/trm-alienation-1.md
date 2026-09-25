@@ -1,6 +1,6 @@
 ---
 slug: "trm-alienation-1"
-id: "TRM-ENG-46215"
+id: "TRM-ENG-60744"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Alienation, 1"

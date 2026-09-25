@@ -1,6 +1,6 @@
 ---
 slug: "trm-type-of-parallax-field-is-unique-to-motion"
-id: "TRM-ENG-35437"
+id: "TRM-ENG-64495"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "type of parallax field is unique to motion"

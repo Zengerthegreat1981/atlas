@@ -1,6 +1,6 @@
 ---
 slug: "trm-overt-or-subtle"
-id: "TRM-ENG-35213"
+id: "TRM-ENG-49742"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "overt or subtle"

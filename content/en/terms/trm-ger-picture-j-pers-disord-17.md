@@ -1,6 +1,6 @@
 ---
 slug: "trm-ger-picture-j-pers-disord-17"
-id: "TRM-ENG-48362"
+id: "TRM-ENG-62891"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ger picture. J Pers Disord 17"

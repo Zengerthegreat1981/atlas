@@ -1,6 +1,6 @@
 ---
 slug: "trm-past"
-id: "TRM-ENG-36353"
+id: "TRM-ENG-65411"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "past"

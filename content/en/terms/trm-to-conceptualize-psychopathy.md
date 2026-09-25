@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-conceptualize-psychopathy"
-id: "TRM-ENG-43889"
+id: "TRM-ENG-58418"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to conceptualize psychopathy"

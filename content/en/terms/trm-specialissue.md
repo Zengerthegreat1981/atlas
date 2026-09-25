@@ -1,6 +1,6 @@
 ---
 slug: "trm-specialissue"
-id: "TRM-ENG-46724"
+id: "TRM-ENG-61253"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Specialissue"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-clarke-am-clark-adb"
-id: "TRM-ENG-40190"
+id: "TRM-ENG-54719"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Clarke AM, Clark ADB"

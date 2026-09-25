@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-patient"
-id: "TRM-ENG-37123"
+id: "TRM-ENG-51652"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the patient"

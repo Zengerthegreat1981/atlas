@@ -1,6 +1,6 @@
 ---
 slug: "trm-history-in-one-essential-aspect"
-id: "TRM-ENG-45079"
+id: "TRM-ENG-59608"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "history in one essential aspect"

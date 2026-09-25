@@ -1,6 +1,6 @@
 ---
 slug: "trm-tion-advocate-that-the-cisgendered"
-id: "TRM-ENG-48913"
+id: "TRM-ENG-63442"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tion advocate that the cisgendered"

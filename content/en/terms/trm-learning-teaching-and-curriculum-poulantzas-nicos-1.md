@@ -1,6 +1,6 @@
 ---
 slug: "trm-learning-teaching-and-curriculum-poulantzas-nicos-1"
-id: "TRM-ENG-48272"
+id: "TRM-ENG-62801"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "learning, teaching, and curriculum, Poulantzas, Nicos, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ingersoll-tg-et-al"
-id: "TRM-ENG-41082"
+id: "TRM-ENG-55611"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ingersoll TG, et al"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-october1968"
-id: "TRM-ENG-45756"
+id: "TRM-ENG-60285"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "October1968)"

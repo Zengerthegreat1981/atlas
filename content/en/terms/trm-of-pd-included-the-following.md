@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-pd-included-the-following"
-id: "TRM-ENG-43046"
+id: "TRM-ENG-57575"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of PD included the following"

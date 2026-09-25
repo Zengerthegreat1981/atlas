@@ -1,6 +1,6 @@
 ---
 slug: "trm-peebles-m-j-1989-through-a-glass-darkly"
-id: "TRM-ENG-49111"
+id: "TRM-ENG-63640"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Peebles, M. J. (1989). Through a glass darkly"

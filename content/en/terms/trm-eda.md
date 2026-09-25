@@ -1,6 +1,6 @@
 ---
 slug: "trm-eda"
-id: "TRM-ENG-35654"
+id: "TRM-ENG-50183"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "EDA"

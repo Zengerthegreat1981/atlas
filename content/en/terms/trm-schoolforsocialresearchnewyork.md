@@ -1,6 +1,6 @@
 ---
 slug: "trm-schoolforsocialresearchnewyork"
-id: "TRM-ENG-37263"
+id: "TRM-ENG-51792"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "SchoolforSocialResearch.NewYork"

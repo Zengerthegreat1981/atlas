@@ -1,6 +1,6 @@
 ---
 slug: "trm-intrinsic-qualities-of-indigenous-healing"
-id: "TRM-ENG-40639"
+id: "TRM-ENG-55168"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "intrinsic qualities of indigenous healing"

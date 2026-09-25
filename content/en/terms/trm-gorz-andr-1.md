@@ -1,6 +1,6 @@
 ---
 slug: "trm-gorz-andr-1"
-id: "TRM-ENG-46694"
+id: "TRM-ENG-61223"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gorz, André, 1"

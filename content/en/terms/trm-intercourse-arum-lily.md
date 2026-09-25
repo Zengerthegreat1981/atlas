@@ -1,6 +1,6 @@
 ---
 slug: "trm-intercourse-arum-lily"
-id: "TRM-ENG-43086"
+id: "TRM-ENG-57615"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "intercourse (Arum Lily"

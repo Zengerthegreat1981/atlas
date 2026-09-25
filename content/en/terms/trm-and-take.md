@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-take"
-id: "TRM-ENG-34879"
+id: "TRM-ENG-49408"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and take"

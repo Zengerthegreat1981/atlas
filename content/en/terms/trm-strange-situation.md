@@ -1,6 +1,6 @@
 ---
 slug: "trm-strange-situation"
-id: "TRM-ENG-44241"
+id: "TRM-ENG-58770"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“strange situation”"

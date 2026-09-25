@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-male"
-id: "TRM-ENG-52238"
+id: "TRM-ENG-66767"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "In male"

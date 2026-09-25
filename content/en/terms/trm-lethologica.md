@@ -1,6 +1,6 @@
 ---
 slug: "trm-lethologica"
-id: "TRM-ENG-52262"
+id: "TRM-ENG-66791"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lethologica"

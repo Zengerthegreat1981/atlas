@@ -1,6 +1,6 @@
 ---
 slug: "trm-against-global-capitalism-and-the-new-imperialism"
-id: "TRM-ENG-47562"
+id: "TRM-ENG-62091"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "against global capitalism and the new imperialism"

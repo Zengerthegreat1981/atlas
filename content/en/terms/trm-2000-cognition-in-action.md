@@ -1,6 +1,6 @@
 ---
 slug: "trm-2000-cognition-in-action"
-id: "TRM-ENG-44247"
+id: "TRM-ENG-58776"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2000). Cognition in action"

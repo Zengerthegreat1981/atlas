@@ -1,6 +1,6 @@
 ---
 slug: "trm-forbes-j-d-2000-november-27-blood-quantum"
-id: "TRM-ENG-38076"
+id: "TRM-ENG-67134"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Forbes, J. D. (2000, November 27). Blood quantum"

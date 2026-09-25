@@ -1,6 +1,6 @@
 ---
 slug: "trm-models-of-teaching-2"
-id: "TRM-ENG-48357"
+id: "TRM-ENG-62886"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "models of teaching, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ulants"
-id: "TRM-ENG-37261"
+id: "TRM-ENG-51790"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ulants"

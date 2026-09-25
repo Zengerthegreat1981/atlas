@@ -1,6 +1,6 @@
 ---
 slug: "trm-especially-academic-degrees"
-id: "TRM-ENG-47988"
+id: "TRM-ENG-62517"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "especially academic degrees"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-time-and-memory"
-id: "TRM-ENG-44827"
+id: "TRM-ENG-59356"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Time and memory"

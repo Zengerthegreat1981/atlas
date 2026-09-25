@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-liberty-as-positive-liberty"
-id: "TRM-ENG-48438"
+id: "TRM-ENG-62967"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of liberty as positive liberty"

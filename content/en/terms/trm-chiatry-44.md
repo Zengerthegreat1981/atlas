@@ -1,6 +1,6 @@
 ---
 slug: "trm-chiatry-44"
-id: "TRM-ENG-48248"
+id: "TRM-ENG-62777"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chiatry 44"

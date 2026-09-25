@@ -1,6 +1,6 @@
 ---
 slug: "trm-els-of-personality-disorders"
-id: "TRM-ENG-48338"
+id: "TRM-ENG-62867"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "els of Personality Disorders"

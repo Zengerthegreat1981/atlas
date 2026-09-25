@@ -1,6 +1,6 @@
 ---
 slug: "trm-personal-emotional-life"
-id: "TRM-ENG-45231"
+id: "TRM-ENG-59760"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "personal emotional life"

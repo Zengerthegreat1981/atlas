@@ -1,6 +1,6 @@
 ---
 slug: "trm-lewin-k-1948-resolving-social-conflictsnew-york"
-id: "TRM-ENG-35810"
+id: "TRM-ENG-64868"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lewin, K. (1948). Resolving social conflicts.New York"

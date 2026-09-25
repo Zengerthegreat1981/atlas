@@ -1,6 +1,6 @@
 ---
 slug: "trm-inthehistoryofideasprinceton"
-id: "TRM-ENG-45933"
+id: "TRM-ENG-60462"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "intheHistoryofIdeas.Princeton"

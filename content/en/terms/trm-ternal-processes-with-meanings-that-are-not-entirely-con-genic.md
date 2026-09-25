@@ -1,6 +1,6 @@
 ---
 slug: "trm-ternal-processes-with-meanings-that-are-not-entirely-con-genic"
-id: "TRM-ENG-37089"
+id: "TRM-ENG-66147"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ternal processes with meanings that are not entirely con- genic"

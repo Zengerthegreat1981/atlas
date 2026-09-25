@@ -1,6 +1,6 @@
 ---
 slug: "trm-shia-tradition-2"
-id: "TRM-ENG-47278"
+id: "TRM-ENG-61807"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shia tradition, 2"

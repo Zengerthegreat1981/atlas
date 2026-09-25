@@ -1,6 +1,6 @@
 ---
 slug: "trm-interventions-to-help-1"
-id: "TRM-ENG-40631"
+id: "TRM-ENG-55160"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "interventions to help, 1"

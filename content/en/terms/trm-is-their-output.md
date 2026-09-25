@@ -1,6 +1,6 @@
 ---
 slug: "trm-is-their-output"
-id: "TRM-ENG-34904"
+id: "TRM-ENG-63962"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "is their output"

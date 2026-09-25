@@ -1,6 +1,6 @@
 ---
 slug: "trm-related-quality-of-life-in-older-adults"
-id: "TRM-ENG-51785"
+id: "TRM-ENG-66314"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "related quality of life in older adults"

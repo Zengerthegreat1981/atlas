@@ -1,6 +1,6 @@
 ---
 slug: "trm-reynolds-dk"
-id: "TRM-ENG-42101"
+id: "TRM-ENG-56630"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Reynolds DK"

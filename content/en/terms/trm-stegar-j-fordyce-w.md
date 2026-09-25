@@ -1,6 +1,6 @@
 ---
 slug: "trm-stegar-j-fordyce-w"
-id: "TRM-ENG-42448"
+id: "TRM-ENG-56977"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stegar J, Fordyce W"

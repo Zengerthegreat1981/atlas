@@ -1,6 +1,6 @@
 ---
 slug: "trm-dsmiiir-scid"
-id: "TRM-ENG-35635"
+id: "TRM-ENG-64693"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "DSM-III-R (SCID)"

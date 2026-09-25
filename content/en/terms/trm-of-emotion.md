@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-emotion"
-id: "TRM-ENG-45466"
+id: "TRM-ENG-59995"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of emotion"

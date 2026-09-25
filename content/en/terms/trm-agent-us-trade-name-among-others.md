@@ -1,6 +1,6 @@
 ---
 slug: "trm-agent-us-trade-name-among-others"
-id: "TRM-ENG-43507"
+id: "TRM-ENG-58036"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "agent. U.S. trade name (among others)"

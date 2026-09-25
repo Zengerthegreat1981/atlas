@@ -1,6 +1,6 @@
 ---
 slug: "trm-823-daubert-jr-rothert-ea"
-id: "TRM-ENG-39483"
+id: "TRM-ENG-54012"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "823. Daubert JR, Rothert EA"

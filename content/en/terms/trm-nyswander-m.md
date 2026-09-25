@@ -1,6 +1,6 @@
 ---
 slug: "trm-nyswander-m"
-id: "TRM-ENG-41857"
+id: "TRM-ENG-56386"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nyswander M"

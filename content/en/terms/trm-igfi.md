@@ -1,6 +1,6 @@
 ---
 slug: "trm-igfi"
-id: "TRM-ENG-35757"
+id: "TRM-ENG-64815"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "IGF-I"

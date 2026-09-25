@@ -1,6 +1,6 @@
 ---
 slug: "trm-treatmentoffunctionalandoraldisorders"
-id: "TRM-ENG-47365"
+id: "TRM-ENG-61894"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "treatmentoffunctionalandoraldisorders"

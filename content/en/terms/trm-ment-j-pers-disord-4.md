@@ -1,6 +1,6 @@
 ---
 slug: "trm-ment-j-pers-disord-4"
-id: "TRM-ENG-48452"
+id: "TRM-ENG-62981"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ment. J Pers Disord 4"

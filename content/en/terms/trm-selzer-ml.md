@@ -1,6 +1,6 @@
 ---
 slug: "trm-selzer-ml"
-id: "TRM-ENG-42316"
+id: "TRM-ENG-56845"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Selzer ML"

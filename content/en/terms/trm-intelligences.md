@@ -1,6 +1,6 @@
 ---
 slug: "trm-intelligences"
-id: "TRM-ENG-48217"
+id: "TRM-ENG-62746"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "intelligences"

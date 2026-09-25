@@ -1,6 +1,6 @@
 ---
 slug: "trm-osipow-and-bruce-4"
-id: "TRM-ENG-37421"
+id: "TRM-ENG-66479"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Osipow and Bruce), 4"

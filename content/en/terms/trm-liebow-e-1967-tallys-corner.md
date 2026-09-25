@@ -1,6 +1,6 @@
 ---
 slug: "trm-liebow-e-1967-tallys-corner"
-id: "TRM-ENG-35813"
+id: "TRM-ENG-64871"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Liebow, E. (1967). Tally’s corner"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-life-found-boston"
-id: "TRM-ENG-45865"
+id: "TRM-ENG-60394"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Life Found (Boston"

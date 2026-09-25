@@ -1,6 +1,6 @@
 ---
 slug: "trm-barriers-subscale-of-4"
-id: "TRM-ENG-37672"
+id: "TRM-ENG-66730"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Barriers subscale of, 4"

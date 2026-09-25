@@ -1,6 +1,6 @@
 ---
 slug: "trm-perience"
-id: "TRM-ENG-36847"
+id: "TRM-ENG-65905"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "perience"

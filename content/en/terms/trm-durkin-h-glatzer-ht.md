@@ -1,6 +1,6 @@
 ---
 slug: "trm-durkin-h-glatzer-ht"
-id: "TRM-ENG-40395"
+id: "TRM-ENG-54924"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Durkin H, Glatzer HT"

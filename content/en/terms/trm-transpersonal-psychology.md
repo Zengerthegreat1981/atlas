@@ -1,6 +1,6 @@
 ---
 slug: "trm-transpersonal-psychology"
-id: "TRM-ENG-51121"
+id: "TRM-ENG-65650"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Transpersonal psychology"

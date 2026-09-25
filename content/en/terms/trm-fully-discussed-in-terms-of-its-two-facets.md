@@ -1,6 +1,6 @@
 ---
 slug: "trm-fully-discussed-in-terms-of-its-two-facets"
-id: "TRM-ENG-40263"
+id: "TRM-ENG-54792"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "fully discussed in terms of its two facets"

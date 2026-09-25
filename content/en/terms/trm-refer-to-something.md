@@ -1,6 +1,6 @@
 ---
 slug: "trm-refer-to-something"
-id: "TRM-ENG-48633"
+id: "TRM-ENG-63162"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "refer to something"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-death-1"
-id: "TRM-ENG-46496"
+id: "TRM-ENG-61025"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Death, 1"

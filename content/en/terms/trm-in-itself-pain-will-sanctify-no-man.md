@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-itself-pain-will-sanctify-no-man"
-id: "TRM-ENG-49884"
+id: "TRM-ENG-64413"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“In itself pain will sanctify no man"

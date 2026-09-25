@@ -1,6 +1,6 @@
 ---
 slug: "trm-ones-normal-routine-kaplan-kaplan-1989"
-id: "TRM-ENG-35198"
+id: "TRM-ENG-64256"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "one’s normal routine (Kaplan & Kaplan, 1989"

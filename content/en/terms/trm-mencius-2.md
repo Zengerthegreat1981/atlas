@@ -1,6 +1,6 @@
 ---
 slug: "trm-mencius-2"
-id: "TRM-ENG-46990"
+id: "TRM-ENG-61519"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mencius, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-senay-ec-dorusw-renault-pf"
-id: "TRM-ENG-42318"
+id: "TRM-ENG-56847"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Senay EC, Dorusw, Renault PF"

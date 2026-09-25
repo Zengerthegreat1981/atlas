@@ -1,6 +1,6 @@
 ---
 slug: "trm-was-used"
-id: "TRM-ENG-36249"
+id: "TRM-ENG-65307"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "was used"

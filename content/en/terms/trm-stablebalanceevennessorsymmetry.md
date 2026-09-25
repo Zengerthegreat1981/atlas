@@ -1,6 +1,6 @@
 ---
 slug: "trm-stablebalanceevennessorsymmetry"
-id: "TRM-ENG-43879"
+id: "TRM-ENG-58408"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stablebalance,evenness,orsymmetry."

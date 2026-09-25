@@ -1,6 +1,6 @@
 ---
 slug: "trm-such-as-ethnic-values-cultural-orientation-religious-cid"
-id: "TRM-ENG-46223"
+id: "TRM-ENG-60752"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "such as ethnic values, cultural orientation, religious (cid"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-learned-helplessness-and-2"
-id: "TRM-ENG-40695"
+id: "TRM-ENG-55224"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "learned helplessness and, 2"

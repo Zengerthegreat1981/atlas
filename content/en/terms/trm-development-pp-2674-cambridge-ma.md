@@ -1,6 +1,6 @@
 ---
 slug: "trm-development-pp-2674-cambridge-ma"
-id: "TRM-ENG-42761"
+id: "TRM-ENG-57290"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "development (pp. 26–74). Cambridge, MA"

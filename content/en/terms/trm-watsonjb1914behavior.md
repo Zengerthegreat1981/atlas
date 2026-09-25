@@ -1,6 +1,6 @@
 ---
 slug: "trm-watsonjb1914behavior"
-id: "TRM-ENG-37420"
+id: "TRM-ENG-51949"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Watson,J.B.(1914).Behavior"

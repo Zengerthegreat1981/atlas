@@ -1,6 +1,6 @@
 ---
 slug: "trm-ents-dialogue-about-change"
-id: "TRM-ENG-51437"
+id: "TRM-ENG-65966"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ents’ dialogue about change"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-interpretable-patterns"
-id: "TRM-ENG-47065"
+id: "TRM-ENG-61594"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "interpretable patterns"

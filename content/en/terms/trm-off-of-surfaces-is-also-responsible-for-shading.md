@@ -1,6 +1,6 @@
 ---
 slug: "trm-off-of-surfaces-is-also-responsible-for-shading"
-id: "TRM-ENG-35182"
+id: "TRM-ENG-64240"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "off of surfaces is also responsible for shading"

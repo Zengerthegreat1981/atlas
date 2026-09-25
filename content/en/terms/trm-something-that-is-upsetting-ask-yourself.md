@@ -1,6 +1,6 @@
 ---
 slug: "trm-something-that-is-upsetting-ask-yourself"
-id: "TRM-ENG-43184"
+id: "TRM-ENG-57713"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "something that is upsetting, ask yourself"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-vol-1-new-york-ny"
-id: "TRM-ENG-44259"
+id: "TRM-ENG-58788"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Vol. 1). New York, NY"

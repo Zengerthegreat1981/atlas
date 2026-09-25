@@ -1,6 +1,6 @@
 ---
 slug: "trm-significance-the-authors-violate-confuciuss-dictum"
-id: "TRM-ENG-38251"
+id: "TRM-ENG-52780"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "significance. The authors violate Confucius’s dictum"

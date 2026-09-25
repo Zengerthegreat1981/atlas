@@ -1,6 +1,6 @@
 ---
 slug: "trm-47-bolles-rc"
-id: "TRM-ENG-39062"
+id: "TRM-ENG-53591"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "47. Bolles RC"

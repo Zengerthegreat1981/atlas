@@ -1,6 +1,6 @@
 ---
 slug: "trm-flint-robert-agnosticism-edinburgh"
-id: "TRM-ENG-45698"
+id: "TRM-ENG-60227"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Flint, Robert. Agnosticism. Edinburgh"

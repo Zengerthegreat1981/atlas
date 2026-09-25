@@ -1,6 +1,6 @@
 ---
 slug: "trm-cambridge-ma-mit-press-properties"
-id: "TRM-ENG-44361"
+id: "TRM-ENG-58890"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cambridge, MA: MIT Press. properties"

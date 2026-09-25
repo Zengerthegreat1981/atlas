@@ -1,6 +1,6 @@
 ---
 slug: "trm-komarovsky-m"
-id: "TRM-ENG-41284"
+id: "TRM-ENG-55813"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Komarovsky M"

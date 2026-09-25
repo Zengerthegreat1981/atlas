@@ -1,6 +1,6 @@
 ---
 slug: "trm-whitehead-2"
-id: "TRM-ENG-47483"
+id: "TRM-ENG-62012"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Whitehead, 2"

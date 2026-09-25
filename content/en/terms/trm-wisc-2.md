@@ -1,6 +1,6 @@
 ---
 slug: "trm-wisc-2"
-id: "TRM-ENG-37439"
+id: "TRM-ENG-66497"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(WISC), 2"

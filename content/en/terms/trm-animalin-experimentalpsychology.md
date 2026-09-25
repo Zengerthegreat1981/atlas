@@ -1,6 +1,6 @@
 ---
 slug: "trm-animalin-experimentalpsychology"
-id: "TRM-ENG-37541"
+id: "TRM-ENG-66599"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "animalin experimentalpsychology"

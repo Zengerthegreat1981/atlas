@@ -1,6 +1,6 @@
 ---
 slug: "trm-emotionspp511536newyork"
-id: "TRM-ENG-49415"
+id: "TRM-ENG-63944"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "emotions(pp.511±536).NewYork"

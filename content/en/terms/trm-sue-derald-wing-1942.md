@@ -1,6 +1,6 @@
 ---
 slug: "trm-sue-derald-wing-1942"
-id: "TRM-ENG-38839"
+id: "TRM-ENG-53368"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sue, Derald Wing (1942– )"

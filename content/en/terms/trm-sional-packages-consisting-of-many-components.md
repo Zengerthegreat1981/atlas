@@ -1,6 +1,6 @@
 ---
 slug: "trm-sional-packages-consisting-of-many-components"
-id: "TRM-ENG-36122"
+id: "TRM-ENG-50651"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sional packages consisting of many components"

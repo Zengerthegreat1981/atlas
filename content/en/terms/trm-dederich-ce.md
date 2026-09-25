@@ -1,6 +1,6 @@
 ---
 slug: "trm-dederich-ce"
-id: "TRM-ENG-40324"
+id: "TRM-ENG-54853"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dederich CE"

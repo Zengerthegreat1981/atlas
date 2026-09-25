@@ -1,6 +1,6 @@
 ---
 slug: "trm-review-psychological-medicine-13-1983"
-id: "TRM-ENG-45938"
+id: "TRM-ENG-60467"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Review.” Psychological Medicine 13 (1983)"

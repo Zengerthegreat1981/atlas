@@ -1,6 +1,6 @@
 ---
 slug: "trm-bonduelle-d-1990-improved-compliance-measures"
-id: "TRM-ENG-46437"
+id: "TRM-ENG-60966"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bonduelle, D. (1990). Improved compliance measures"

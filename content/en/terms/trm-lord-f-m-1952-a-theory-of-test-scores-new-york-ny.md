@@ -1,6 +1,6 @@
 ---
 slug: "trm-lord-f-m-1952-a-theory-of-test-scores-new-york-ny"
-id: "TRM-ENG-35434"
+id: "TRM-ENG-64492"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lord, F. M. (1952). A theory of test scores. New York, NY"

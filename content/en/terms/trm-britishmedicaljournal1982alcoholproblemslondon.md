@@ -1,6 +1,6 @@
 ---
 slug: "trm-britishmedicaljournal1982alcoholproblemslondon"
-id: "TRM-ENG-46447"
+id: "TRM-ENG-60976"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "BritishMedicalJournal(1982).Alcoholproblems.London"

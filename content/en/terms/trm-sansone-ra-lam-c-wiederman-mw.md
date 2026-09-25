@@ -1,6 +1,6 @@
 ---
 slug: "trm-sansone-ra-lam-c-wiederman-mw"
-id: "TRM-ENG-48040"
+id: "TRM-ENG-62569"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sansone RA, Lam C, Wiederman MW"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-living-autonomously-the-supposed-right-of-auton"
-id: "TRM-ENG-45949"
+id: "TRM-ENG-60478"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "living autonomously. The supposed right of auton-"

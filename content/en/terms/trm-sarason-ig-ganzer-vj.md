@@ -1,6 +1,6 @@
 ---
 slug: "trm-sarason-ig-ganzer-vj"
-id: "TRM-ENG-42237"
+id: "TRM-ENG-56766"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sarason IG, Ganzer VJ"

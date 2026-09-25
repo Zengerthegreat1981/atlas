@@ -1,6 +1,6 @@
 ---
 slug: "trm-actions-to-hallucinogens-are-often-fairly-benign-the-chronic-young-adults"
-id: "TRM-ENG-36085"
+id: "TRM-ENG-65143"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "actions to hallucinogens are often fairly benign, the chronic, young adults"

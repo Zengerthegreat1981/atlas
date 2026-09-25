@@ -1,6 +1,6 @@
 ---
 slug: "trm-gottfried-aw-verdicchio-fg"
-id: "TRM-ENG-40782"
+id: "TRM-ENG-55311"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gottfried AW, Verdicchio FG"

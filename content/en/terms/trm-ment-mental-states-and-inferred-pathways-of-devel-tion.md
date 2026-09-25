@@ -1,6 +1,6 @@
 ---
 slug: "trm-ment-mental-states-and-inferred-pathways-of-devel-tion"
-id: "TRM-ENG-42995"
+id: "TRM-ENG-57524"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ment mental states and inferred pathways of devel- tion"

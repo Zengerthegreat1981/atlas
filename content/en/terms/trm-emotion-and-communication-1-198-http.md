@@ -1,6 +1,6 @@
 ---
 slug: "trm-emotion-and-communication-1-198-http"
-id: "TRM-ENG-36774"
+id: "TRM-ENG-65832"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Emotion and Communication, 1, 1–98. http"

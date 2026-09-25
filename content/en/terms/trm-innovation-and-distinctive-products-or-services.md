@@ -1,6 +1,6 @@
 ---
 slug: "trm-innovation-and-distinctive-products-or-services"
-id: "TRM-ENG-40566"
+id: "TRM-ENG-55095"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "innovation and distinctive products or services"

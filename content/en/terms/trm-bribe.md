@@ -1,6 +1,6 @@
 ---
 slug: "trm-bribe"
-id: "TRM-ENG-52088"
+id: "TRM-ENG-66617"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bribe"

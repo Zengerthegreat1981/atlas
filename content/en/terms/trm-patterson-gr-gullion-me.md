@@ -1,6 +1,6 @@
 ---
 slug: "trm-patterson-gr-gullion-me"
-id: "TRM-ENG-41937"
+id: "TRM-ENG-56466"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Patterson GR, Gullion ME"

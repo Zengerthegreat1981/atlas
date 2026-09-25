@@ -1,6 +1,6 @@
 ---
 slug: "trm-diehl-hs-baker-ab-cowan-dw"
-id: "TRM-ENG-40353"
+id: "TRM-ENG-54882"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Diehl HS, Baker AB, Cowan DW"

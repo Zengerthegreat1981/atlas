@@ -1,6 +1,6 @@
 ---
 slug: "trm-1984-the-consultation"
-id: "TRM-ENG-46298"
+id: "TRM-ENG-60827"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1984). The consultation"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-interpersonal-styles-factor-and-4"
-id: "TRM-ENG-40615"
+id: "TRM-ENG-55144"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "interpersonal styles factor and, 4"

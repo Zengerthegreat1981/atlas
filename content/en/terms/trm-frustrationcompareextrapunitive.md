@@ -1,6 +1,6 @@
 ---
 slug: "trm-frustrationcompareextrapunitive"
-id: "TRM-ENG-43663"
+id: "TRM-ENG-58192"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "frustration.Compareextrapunitive."

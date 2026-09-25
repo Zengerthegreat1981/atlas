@@ -1,6 +1,6 @@
 ---
 slug: "trm-salomon-g-ed-1993-d-istributed-cognitions"
-id: "TRM-ENG-44744"
+id: "TRM-ENG-59273"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Salomon, G. (Ed.). (1993). D istributed cognitions"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-normally-sighted-persons-1"
-id: "TRM-ENG-45336"
+id: "TRM-ENG-59865"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "normally sighted persons, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-keithlangley-amine"
-id: "TRM-ENG-35781"
+id: "TRM-ENG-64839"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "KEITHLANGLEY amine"

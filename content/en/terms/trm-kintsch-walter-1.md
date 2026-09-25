@@ -1,6 +1,6 @@
 ---
 slug: "trm-kintsch-walter-1"
-id: "TRM-ENG-46879"
+id: "TRM-ENG-61408"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kintsch, Walter, 1"

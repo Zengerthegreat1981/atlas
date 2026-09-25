@@ -1,6 +1,6 @@
 ---
 slug: "trm-community-psychology"
-id: "TRM-ENG-46904"
+id: "TRM-ENG-61433"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "community psychology"

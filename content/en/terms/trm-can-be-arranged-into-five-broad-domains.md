@@ -1,6 +1,6 @@
 ---
 slug: "trm-can-be-arranged-into-five-broad-domains"
-id: "TRM-ENG-48232"
+id: "TRM-ENG-62761"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "can be arranged into five broad domains"

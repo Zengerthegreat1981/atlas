@@ -1,6 +1,6 @@
 ---
 slug: "trm-carey-s-2009-the-origin-of-concepts-new-york-ny"
-id: "TRM-ENG-44368"
+id: "TRM-ENG-58897"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Carey, S. (2009). The origin of concepts. New York, NY"

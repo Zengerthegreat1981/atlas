@@ -1,6 +1,6 @@
 ---
 slug: "trm-owens-w-a-age-and-mental-abilities"
-id: "TRM-ENG-44563"
+id: "TRM-ENG-59092"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Owens, W. A., “Age and Mental Abilities"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-thusly"
-id: "TRM-ENG-38360"
+id: "TRM-ENG-52889"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thusly"

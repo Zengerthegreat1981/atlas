@@ -1,6 +1,6 @@
 ---
 slug: "trm-science-of-wellbeing-pp-405431-oxford-england"
-id: "TRM-ENG-51805"
+id: "TRM-ENG-66334"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "science of well-being (pp. 405–431). Oxford, England"

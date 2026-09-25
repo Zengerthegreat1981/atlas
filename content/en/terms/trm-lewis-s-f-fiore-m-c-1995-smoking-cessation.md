@@ -1,6 +1,6 @@
 ---
 slug: "trm-lewis-s-f-fiore-m-c-1995-smoking-cessation"
-id: "TRM-ENG-46604"
+id: "TRM-ENG-61133"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lewis, S. F., & Fiore, M. C. (1995). Smoking cessation"

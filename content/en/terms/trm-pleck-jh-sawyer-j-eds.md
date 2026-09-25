@@ -1,6 +1,6 @@
 ---
 slug: "trm-pleck-jh-sawyer-j-eds"
-id: "TRM-ENG-41988"
+id: "TRM-ENG-56517"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pleck JH & Sawyer J (eds)"

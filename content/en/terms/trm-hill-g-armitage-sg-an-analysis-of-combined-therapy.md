@@ -1,6 +1,6 @@
 ---
 slug: "trm-hill-g-armitage-sg-an-analysis-of-combined-therapy"
-id: "TRM-ENG-40991"
+id: "TRM-ENG-55520"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hill G, Armitage SG: An analysis of combined therapy"

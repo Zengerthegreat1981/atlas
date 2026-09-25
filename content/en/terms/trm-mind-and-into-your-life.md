@@ -1,6 +1,6 @@
 ---
 slug: "trm-mind-and-into-your-life"
-id: "TRM-ENG-51604"
+id: "TRM-ENG-66133"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mind and into your life"

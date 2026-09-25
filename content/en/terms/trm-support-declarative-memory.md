@@ -1,6 +1,6 @@
 ---
 slug: "trm-support-declarative-memory"
-id: "TRM-ENG-45544"
+id: "TRM-ENG-60073"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "support declarative memory"

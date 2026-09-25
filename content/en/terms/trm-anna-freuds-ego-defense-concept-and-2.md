@@ -1,6 +1,6 @@
 ---
 slug: "trm-anna-freuds-ego-defense-concept-and-2"
-id: "TRM-ENG-37600"
+id: "TRM-ENG-66658"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Anna Freud’s ego defense concept and, 2"

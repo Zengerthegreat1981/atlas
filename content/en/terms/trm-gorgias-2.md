@@ -1,6 +1,6 @@
 ---
 slug: "trm-gorgias-2"
-id: "TRM-ENG-46693"
+id: "TRM-ENG-61222"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gorgias, 2"

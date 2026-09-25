@@ -1,6 +1,6 @@
 ---
 slug: "trm-ducted-an-early-ets"
-id: "TRM-ENG-34992"
+id: "TRM-ENG-64050"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ducted an early ETS"

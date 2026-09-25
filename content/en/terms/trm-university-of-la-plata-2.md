@@ -1,6 +1,6 @@
 ---
 slug: "trm-university-of-la-plata-2"
-id: "TRM-ENG-51134"
+id: "TRM-ENG-65663"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "University of La Plata, 2"

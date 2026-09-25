@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-muro-j-j-group-counseling"
-id: "TRM-ENG-44770"
+id: "TRM-ENG-59299"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, and Muro, J. J., Group Counseling"

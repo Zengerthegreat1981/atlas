@@ -1,6 +1,6 @@
 ---
 slug: "trm-de-borderlinepersoonlijkheidsstoornis"
-id: "TRM-ENG-42750"
+id: "TRM-ENG-57279"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "de Borderlinepersoonlijkheidsstoornis"

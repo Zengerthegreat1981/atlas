@@ -1,6 +1,6 @@
 ---
 slug: "trm-polkinghorne-donald-e-2"
-id: "TRM-ENG-38610"
+id: "TRM-ENG-53139"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Polkinghorne, Donald E., 2"

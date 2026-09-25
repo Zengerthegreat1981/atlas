@@ -1,6 +1,6 @@
 ---
 slug: "trm-prescriptions"
-id: "TRM-ENG-41260"
+id: "TRM-ENG-55789"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "prescriptions"

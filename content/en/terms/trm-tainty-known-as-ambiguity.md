@@ -1,6 +1,6 @@
 ---
 slug: "trm-tainty-known-as-ambiguity"
-id: "TRM-ENG-45550"
+id: "TRM-ENG-60079"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tainty known as ambiguity"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-lustrative-examples"
-id: "TRM-ENG-36655"
+id: "TRM-ENG-51184"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lustrative examples"

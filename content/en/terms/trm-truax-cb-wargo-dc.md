@@ -1,6 +1,6 @@
 ---
 slug: "trm-truax-cb-wargo-dc"
-id: "TRM-ENG-42627"
+id: "TRM-ENG-57156"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Truax CB, Wargo DC"

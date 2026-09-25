@@ -1,6 +1,6 @@
 ---
 slug: "trm-can-be-written-in-the-form-of-the-2plm"
-id: "TRM-ENG-35704"
+id: "TRM-ENG-64762"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "can be written in the form of the 2PLM"

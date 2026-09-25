@@ -1,6 +1,6 @@
 ---
 slug: "trm-foxiprilleltenskyedscriticalpsychology"
-id: "TRM-ENG-36807"
+id: "TRM-ENG-51336"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fox&I.Prilleltensky(Eds.),Criticalpsychology"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-spirituality-v3-sue-derald-wing"
-id: "TRM-ENG-38803"
+id: "TRM-ENG-53332"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spirituality (v3); Sue, Derald Wing"

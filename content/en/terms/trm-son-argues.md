@@ -1,6 +1,6 @@
 ---
 slug: "trm-son-argues"
-id: "TRM-ENG-46015"
+id: "TRM-ENG-60544"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "son argues"

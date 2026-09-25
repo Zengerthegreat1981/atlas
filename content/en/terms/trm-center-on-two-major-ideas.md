@@ -1,6 +1,6 @@
 ---
 slug: "trm-center-on-two-major-ideas"
-id: "TRM-ENG-34786"
+id: "TRM-ENG-63844"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "center on two major ideas"

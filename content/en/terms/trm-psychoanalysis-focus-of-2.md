@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychoanalysis-focus-of-2"
-id: "TRM-ENG-41323"
+id: "TRM-ENG-55852"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychoanalysis focus of, 2"

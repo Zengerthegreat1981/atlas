@@ -1,6 +1,6 @@
 ---
 slug: "trm-shown"
-id: "TRM-ENG-45301"
+id: "TRM-ENG-59830"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "shown"

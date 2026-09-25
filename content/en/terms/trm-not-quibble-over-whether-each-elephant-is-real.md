@@ -1,6 +1,6 @@
 ---
 slug: "trm-not-quibble-over-whether-each-elephant-is-real"
-id: "TRM-ENG-48413"
+id: "TRM-ENG-62942"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "not quibble over whether each elephant is real"

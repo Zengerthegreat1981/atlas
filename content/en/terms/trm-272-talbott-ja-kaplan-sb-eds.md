@@ -1,6 +1,6 @@
 ---
 slug: "trm-272-talbott-ja-kaplan-sb-eds"
-id: "TRM-ENG-38805"
+id: "TRM-ENG-53334"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "272. Talbott JA, Kaplan SB (eds)"

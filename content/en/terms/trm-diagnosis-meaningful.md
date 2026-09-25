@@ -1,6 +1,6 @@
 ---
 slug: "trm-diagnosis-meaningful"
-id: "TRM-ENG-47610"
+id: "TRM-ENG-62139"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Diagnosis Meaningful"

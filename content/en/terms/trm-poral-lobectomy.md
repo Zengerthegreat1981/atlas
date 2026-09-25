@@ -1,6 +1,6 @@
 ---
 slug: "trm-poral-lobectomy"
-id: "TRM-ENG-36877"
+id: "TRM-ENG-51406"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "poral lobectomy"

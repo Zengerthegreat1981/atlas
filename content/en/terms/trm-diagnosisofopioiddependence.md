@@ -1,6 +1,6 @@
 ---
 slug: "trm-diagnosisofopioiddependence"
-id: "TRM-ENG-43611"
+id: "TRM-ENG-58140"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "diagnosisofopioiddependence"

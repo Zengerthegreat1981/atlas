@@ -1,6 +1,6 @@
 ---
 slug: "trm-handicappednewyork"
-id: "TRM-ENG-37805"
+id: "TRM-ENG-66863"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "handicapped.NewYork"

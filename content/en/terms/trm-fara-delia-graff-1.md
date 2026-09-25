@@ -1,6 +1,6 @@
 ---
 slug: "trm-fara-delia-graff-1"
-id: "TRM-ENG-44477"
+id: "TRM-ENG-59006"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fara, Delia Graff, 1"

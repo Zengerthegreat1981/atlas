@@ -1,6 +1,6 @@
 ---
 slug: "trm-rahman-fazlur-2"
-id: "TRM-ENG-47172"
+id: "TRM-ENG-61701"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rahman, Fazlur, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-behaviour-scale"
-id: "TRM-ENG-43628"
+id: "TRM-ENG-58157"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behaviour scale"

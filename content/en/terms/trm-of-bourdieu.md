@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-bourdieu"
-id: "TRM-ENG-48422"
+id: "TRM-ENG-62951"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of Bourdieu"

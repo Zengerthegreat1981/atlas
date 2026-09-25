@@ -1,6 +1,6 @@
 ---
 slug: "trm-schofield-w"
-id: "TRM-ENG-42277"
+id: "TRM-ENG-56806"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schofield W"

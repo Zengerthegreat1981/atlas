@@ -1,6 +1,6 @@
 ---
 slug: "trm-bieber-i-et-al-eds-homosexuality"
-id: "TRM-ENG-44289"
+id: "TRM-ENG-58818"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bieber, I., et al. (Eds.), Homosexuality"

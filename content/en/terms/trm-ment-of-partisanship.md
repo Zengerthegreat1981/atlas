@@ -1,6 +1,6 @@
 ---
 slug: "trm-ment-of-partisanship"
-id: "TRM-ENG-35941"
+id: "TRM-ENG-64999"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ment of partisanship"

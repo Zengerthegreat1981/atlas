@@ -1,6 +1,6 @@
 ---
 slug: "trm-source-and-telicity-goal-the-five-types-are-as-follows"
-id: "TRM-ENG-37019"
+id: "TRM-ENG-51548"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "source and telicity (goal). The five types are as follows"

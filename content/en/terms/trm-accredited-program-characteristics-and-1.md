@@ -1,6 +1,6 @@
 ---
 slug: "trm-accredited-program-characteristics-and-1"
-id: "TRM-ENG-39083"
+id: "TRM-ENG-53612"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "accredited program characteristics and, 1"

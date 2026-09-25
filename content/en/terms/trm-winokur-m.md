@@ -1,6 +1,6 @@
 ---
 slug: "trm-winokur-m"
-id: "TRM-ENG-42830"
+id: "TRM-ENG-57359"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Winokur M"

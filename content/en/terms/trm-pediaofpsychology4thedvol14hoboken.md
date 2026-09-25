@@ -1,6 +1,6 @@
 ---
 slug: "trm-pediaofpsychology4thedvol14hoboken"
-id: "TRM-ENG-38083"
+id: "TRM-ENG-67141"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pediaofpsychology(4thed.,Vol.1–4).Hoboken"

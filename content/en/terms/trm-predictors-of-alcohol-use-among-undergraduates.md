@@ -1,6 +1,6 @@
 ---
 slug: "trm-predictors-of-alcohol-use-among-undergraduates"
-id: "TRM-ENG-51721"
+id: "TRM-ENG-66250"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "predictors of alcohol use among undergraduates"

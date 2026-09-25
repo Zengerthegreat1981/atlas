@@ -1,6 +1,6 @@
 ---
 slug: "trm-also-connects-with-neurological-facts"
-id: "TRM-ENG-44887"
+id: "TRM-ENG-59416"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "also connects with neurological facts"

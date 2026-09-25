@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapeutic-relationship-importance-and-2"
-id: "TRM-ENG-41932"
+id: "TRM-ENG-56461"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapeutic relationship importance and, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-easy-task-while-investigating-the-cause-of-hives-or-hobbies"
-id: "TRM-ENG-46078"
+id: "TRM-ENG-60607"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "easy task. While investigating the cause of hives, or hobbies"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-luborsky-l-mintz-j-auerbach-a-et-al"
-id: "TRM-ENG-41518"
+id: "TRM-ENG-56047"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Luborsky L, Mintz J, Auerbach A, et al"

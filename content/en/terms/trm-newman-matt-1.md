@@ -1,6 +1,6 @@
 ---
 slug: "trm-newman-matt-1"
-id: "TRM-ENG-44650"
+id: "TRM-ENG-59179"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Newman, Matt, 1"

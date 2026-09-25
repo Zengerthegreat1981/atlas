@@ -1,6 +1,6 @@
 ---
 slug: "trm-disordertrait-specified"
-id: "TRM-ENG-44088"
+id: "TRM-ENG-58617"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disorder-trait specified"

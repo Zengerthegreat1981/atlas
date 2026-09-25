@@ -1,6 +1,6 @@
 ---
 slug: "trm-geldard-f-a-1972-clarence-henry-graham"
-id: "TRM-ENG-36839"
+id: "TRM-ENG-65897"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Geldard, F. A. (1972). Clarence Henry Graham"

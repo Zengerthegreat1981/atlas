@@ -1,6 +1,6 @@
 ---
 slug: "trm-weinberg-j"
-id: "TRM-ENG-42741"
+id: "TRM-ENG-57270"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Weinberg J"

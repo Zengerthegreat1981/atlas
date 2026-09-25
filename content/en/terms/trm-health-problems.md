@@ -1,6 +1,6 @@
 ---
 slug: "trm-health-problems"
-id: "TRM-ENG-35059"
+id: "TRM-ENG-49588"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "health problems"

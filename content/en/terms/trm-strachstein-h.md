@@ -1,6 +1,6 @@
 ---
 slug: "trm-strachstein-h"
-id: "TRM-ENG-42489"
+id: "TRM-ENG-57018"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Strachstein H"

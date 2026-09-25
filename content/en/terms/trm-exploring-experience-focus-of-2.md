@@ -1,6 +1,6 @@
 ---
 slug: "trm-exploring-experience-focus-of-2"
-id: "TRM-ENG-40145"
+id: "TRM-ENG-54674"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "exploring experience focus of, 2"

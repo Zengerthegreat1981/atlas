@@ -1,6 +1,6 @@
 ---
 slug: "trm-murphyg1958humanpotentialitiesnewyork"
-id: "TRM-ENG-37102"
+id: "TRM-ENG-66160"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Murphy,G.(1958).Humanpotentialities.NewYork"

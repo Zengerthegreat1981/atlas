@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-teacher-education"
-id: "TRM-ENG-37846"
+id: "TRM-ENG-66904"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in Teacher Education"

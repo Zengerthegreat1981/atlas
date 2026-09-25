@@ -1,6 +1,6 @@
 ---
 slug: "trm-ality-disorders-in-adolescents"
-id: "TRM-ENG-42607"
+id: "TRM-ENG-57136"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ality disorders in adolescents"

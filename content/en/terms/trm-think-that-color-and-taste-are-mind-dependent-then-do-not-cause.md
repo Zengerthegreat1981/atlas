@@ -1,6 +1,6 @@
 ---
 slug: "trm-think-that-color-and-taste-are-mind-dependent-then-do-not-cause"
-id: "TRM-ENG-45607"
+id: "TRM-ENG-60136"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "think that color and taste are mind dependent, then do not cause"

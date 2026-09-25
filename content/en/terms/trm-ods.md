@@ -1,6 +1,6 @@
 ---
 slug: "trm-ods"
-id: "TRM-ENG-35983"
+id: "TRM-ENG-65041"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ods"

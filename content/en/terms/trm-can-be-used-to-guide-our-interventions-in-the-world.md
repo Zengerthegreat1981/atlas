@@ -1,6 +1,6 @@
 ---
 slug: "trm-can-be-used-to-guide-our-interventions-in-the-world"
-id: "TRM-ENG-47734"
+id: "TRM-ENG-62263"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "can be used to guide our interventions in the world"

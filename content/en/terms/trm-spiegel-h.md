@@ -1,6 +1,6 @@
 ---
 slug: "trm-spiegel-h"
-id: "TRM-ENG-42419"
+id: "TRM-ENG-56948"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spiegel H"

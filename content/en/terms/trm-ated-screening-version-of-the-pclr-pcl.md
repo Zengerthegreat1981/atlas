@@ -1,6 +1,6 @@
 ---
 slug: "trm-ated-screening-version-of-the-pclr-pcl"
-id: "TRM-ENG-42667"
+id: "TRM-ENG-57196"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ated screening version of the PCL-R (PCL"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-1961-new-york-ny"
-id: "TRM-ENG-46156"
+id: "TRM-ENG-60685"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1961, New York, NY"

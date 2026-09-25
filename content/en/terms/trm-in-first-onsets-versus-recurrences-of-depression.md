@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-first-onsets-versus-recurrences-of-depression"
-id: "TRM-ENG-34872"
+id: "TRM-ENG-49401"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in first onsets versus recurrences of depression"

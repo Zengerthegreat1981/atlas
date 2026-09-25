@@ -1,6 +1,6 @@
 ---
 slug: "trm-cedentsofwhitesracialpolicyattitudes"
-id: "TRM-ENG-37607"
+id: "TRM-ENG-66665"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cedentsofWhites’racialpolicyattitudes"

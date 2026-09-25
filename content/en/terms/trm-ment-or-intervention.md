@@ -1,6 +1,6 @@
 ---
 slug: "trm-ment-or-intervention"
-id: "TRM-ENG-35138"
+id: "TRM-ENG-64196"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ment, or Intervention"

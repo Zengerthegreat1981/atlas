@@ -1,6 +1,6 @@
 ---
 slug: "trm-where-p-x-1cid"
-id: "TRM-ENG-36257"
+id: "TRM-ENG-65315"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "where P ( x =1(cid"

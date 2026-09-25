@@ -1,6 +1,6 @@
 ---
 slug: "trm-criminatory-behavior-in-a-few-cases-but-they-are-not-likely-myth"
-id: "TRM-ENG-36325"
+id: "TRM-ENG-65383"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "criminatory behavior in a few cases, but they are not likely myth"

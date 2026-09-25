@@ -1,6 +1,6 @@
 ---
 slug: "trm-levy-s"
-id: "TRM-ENG-41433"
+id: "TRM-ENG-55962"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Levy S"

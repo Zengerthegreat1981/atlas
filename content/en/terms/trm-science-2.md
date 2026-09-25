@@ -1,6 +1,6 @@
 ---
 slug: "trm-science-2"
-id: "TRM-ENG-48685"
+id: "TRM-ENG-63214"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "science, 2"

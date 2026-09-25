@@ -1,6 +1,6 @@
 ---
 slug: "trm-lost-von-ehrenfels-took-the-next-step"
-id: "TRM-ENG-35119"
+id: "TRM-ENG-49648"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lost. Von Ehrenfels took the next step"

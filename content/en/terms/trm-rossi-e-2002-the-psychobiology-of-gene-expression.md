@@ -1,6 +1,6 @@
 ---
 slug: "trm-rossi-e-2002-the-psychobiology-of-gene-expression"
-id: "TRM-ENG-50974"
+id: "TRM-ENG-65503"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rossi, E. (2002). The psychobiology of gene expression"

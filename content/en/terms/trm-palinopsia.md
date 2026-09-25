@@ -1,6 +1,6 @@
 ---
 slug: "trm-palinopsia"
-id: "TRM-ENG-52321"
+id: "TRM-ENG-66850"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Palinopsia"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-early-life-of-3"
-id: "TRM-ENG-39989"
+id: "TRM-ENG-54518"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "early life of, 3"

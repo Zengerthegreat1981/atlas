@@ -1,6 +1,6 @@
 ---
 slug: "trm-which-they-concentrated"
-id: "TRM-ENG-45432"
+id: "TRM-ENG-59961"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "which they concentrated)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-pragmatics-of-human-communication-new-york-ny"
-id: "TRM-ENG-50869"
+id: "TRM-ENG-65398"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pragmatics of human communication. New York, NY"

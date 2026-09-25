@@ -1,6 +1,6 @@
 ---
 slug: "trm-rably-by-william-james-18991958"
-id: "TRM-ENG-48611"
+id: "TRM-ENG-63140"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rably, by William James (1899/1958)"

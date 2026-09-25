@@ -1,6 +1,6 @@
 ---
 slug: "trm-schulz-sc-camlin-kl-berry-sa-et-al"
-id: "TRM-ENG-48052"
+id: "TRM-ENG-62581"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schulz SC, Camlin KL, Berry SA, et al"

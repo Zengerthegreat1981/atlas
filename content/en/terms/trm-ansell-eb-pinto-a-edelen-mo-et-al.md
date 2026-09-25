@@ -1,6 +1,6 @@
 ---
 slug: "trm-ansell-eb-pinto-a-edelen-mo-et-al"
-id: "TRM-ENG-47471"
+id: "TRM-ENG-62000"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ansell EB, Pinto A, Edelen MO, et al"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-occurs"
-id: "TRM-ENG-44103"
+id: "TRM-ENG-58632"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "occurs,"

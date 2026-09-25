@@ -1,6 +1,6 @@
 ---
 slug: "trm-goldman-g"
-id: "TRM-ENG-40754"
+id: "TRM-ENG-55283"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goldman G"

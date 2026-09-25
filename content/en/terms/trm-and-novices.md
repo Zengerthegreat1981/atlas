@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-novices"
-id: "TRM-ENG-39183"
+id: "TRM-ENG-53712"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and novices"

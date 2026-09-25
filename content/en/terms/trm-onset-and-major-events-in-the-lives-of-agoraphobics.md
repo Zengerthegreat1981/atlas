@@ -1,6 +1,6 @@
 ---
 slug: "trm-onset-and-major-events-in-the-lives-of-agoraphobics"
-id: "TRM-ENG-49596"
+id: "TRM-ENG-64125"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "onset and major events in the lives of agoraphobics"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavior-disorderspp2348-new-york"
-id: "TRM-ENG-36198"
+id: "TRM-ENG-65256"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behavior disorders(pp.23–48). New York"

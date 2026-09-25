@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-ipsps-and-epsps"
-id: "TRM-ENG-35073"
+id: "TRM-ENG-64131"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the IPSPs and EPSPs"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-friedell-a"
-id: "TRM-ENG-40623"
+id: "TRM-ENG-55152"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Friedell A"

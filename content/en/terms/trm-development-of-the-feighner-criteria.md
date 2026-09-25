@@ -1,6 +1,6 @@
 ---
 slug: "trm-development-of-the-feighner-criteria"
-id: "TRM-ENG-42762"
+id: "TRM-ENG-57291"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "development of the Feighner criteria"

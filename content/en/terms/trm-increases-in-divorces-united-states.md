@@ -1,6 +1,6 @@
 ---
 slug: "trm-increases-in-divorces-united-states"
-id: "TRM-ENG-44723"
+id: "TRM-ENG-59252"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, Increases in Divorces: United States"

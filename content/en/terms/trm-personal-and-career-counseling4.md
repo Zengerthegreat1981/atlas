@@ -1,6 +1,6 @@
 ---
 slug: "trm-personal-and-career-counseling4"
-id: "TRM-ENG-38586"
+id: "TRM-ENG-53115"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Personal and career counseling,4"

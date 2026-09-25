@@ -1,6 +1,6 @@
 ---
 slug: "trm-sansone-ra-farukhi-s-wiederman-mw"
-id: "TRM-ENG-48039"
+id: "TRM-ENG-62568"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sansone RA, Farukhi S, Wiederman MW"

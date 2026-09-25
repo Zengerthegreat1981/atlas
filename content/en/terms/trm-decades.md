@@ -1,6 +1,6 @@
 ---
 slug: "trm-decades"
-id: "TRM-ENG-39855"
+id: "TRM-ENG-54384"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "decades"

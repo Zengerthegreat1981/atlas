@@ -1,6 +1,6 @@
 ---
 slug: "trm-taining-a-historically-specific-form-of-reason"
-id: "TRM-ENG-48783"
+id: "TRM-ENG-63312"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "taining a historically specific form of reason"

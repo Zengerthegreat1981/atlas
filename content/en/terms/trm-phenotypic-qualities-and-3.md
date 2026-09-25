@@ -1,6 +1,6 @@
 ---
 slug: "trm-phenotypic-qualities-and-3"
-id: "TRM-ENG-41170"
+id: "TRM-ENG-55699"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "phenotypic qualities and, 3"

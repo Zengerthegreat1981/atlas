@@ -1,6 +1,6 @@
 ---
 slug: "trm-mental-research"
-id: "TRM-ENG-35944"
+id: "TRM-ENG-65002"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mental research"

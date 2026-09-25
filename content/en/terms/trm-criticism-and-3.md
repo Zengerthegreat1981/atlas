@@ -1,6 +1,6 @@
 ---
 slug: "trm-criticism-and-3"
-id: "TRM-ENG-39795"
+id: "TRM-ENG-54324"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "criticism and, 3"

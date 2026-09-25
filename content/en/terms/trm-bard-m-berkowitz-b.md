@@ -1,6 +1,6 @@
 ---
 slug: "trm-bard-m-berkowitz-b"
-id: "TRM-ENG-39806"
+id: "TRM-ENG-54335"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bard M, Berkowitz B"

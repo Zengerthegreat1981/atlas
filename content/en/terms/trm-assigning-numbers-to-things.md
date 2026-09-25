@@ -1,6 +1,6 @@
 ---
 slug: "trm-assigning-numbers-to-things"
-id: "TRM-ENG-35675"
+id: "TRM-ENG-50204"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "assigning numbers to things"

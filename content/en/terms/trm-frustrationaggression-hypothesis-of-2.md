@@ -1,6 +1,6 @@
 ---
 slug: "trm-frustrationaggression-hypothesis-of-2"
-id: "TRM-ENG-40259"
+id: "TRM-ENG-54788"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "frustration-aggression hypothesis of, 2"

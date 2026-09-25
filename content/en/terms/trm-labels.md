@@ -1,6 +1,6 @@
 ---
 slug: "trm-labels"
-id: "TRM-ENG-49514"
+id: "TRM-ENG-64043"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "labels"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-14th-amendment-and-3"
-id: "TRM-ENG-37468"
+id: "TRM-ENG-51997"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "14th Amendment and, 3"

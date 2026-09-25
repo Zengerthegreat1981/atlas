@@ -1,6 +1,6 @@
 ---
 slug: "trm-asian-selfidentity-acculturation-scale"
-id: "TRM-ENG-34620"
+id: "TRM-ENG-63678"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Asian self-identity acculturation scale"

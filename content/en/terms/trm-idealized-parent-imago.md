@@ -1,6 +1,6 @@
 ---
 slug: "trm-idealized-parent-imago"
-id: "TRM-ENG-48385"
+id: "TRM-ENG-62914"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "idealized parent imago"

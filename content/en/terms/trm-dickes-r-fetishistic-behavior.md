@@ -1,6 +1,6 @@
 ---
 slug: "trm-dickes-r-fetishistic-behavior"
-id: "TRM-ENG-44352"
+id: "TRM-ENG-58881"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dickes, R., “Fetishistic Behavior"

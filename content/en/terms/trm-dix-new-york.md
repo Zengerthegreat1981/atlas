@@ -1,6 +1,6 @@
 ---
 slug: "trm-dix-new-york"
-id: "TRM-ENG-34674"
+id: "TRM-ENG-49203"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dix. New York"

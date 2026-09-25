@@ -1,6 +1,6 @@
 ---
 slug: "trm-indigenous-healing3"
-id: "TRM-ENG-38234"
+id: "TRM-ENG-52763"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Indigenous healing,3"

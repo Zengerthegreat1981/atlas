@@ -1,6 +1,6 @@
 ---
 slug: "trm-lihood-model"
-id: "TRM-ENG-47082"
+id: "TRM-ENG-61611"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lihood model"

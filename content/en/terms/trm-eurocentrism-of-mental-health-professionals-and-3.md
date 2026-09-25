@@ -1,6 +1,6 @@
 ---
 slug: "trm-eurocentrism-of-mental-health-professionals-and-3"
-id: "TRM-ENG-38047"
+id: "TRM-ENG-67105"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Eurocentrism of mental health professionals and, 3"

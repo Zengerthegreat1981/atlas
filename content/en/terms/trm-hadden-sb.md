@@ -1,6 +1,6 @@
 ---
 slug: "trm-hadden-sb"
-id: "TRM-ENG-40873"
+id: "TRM-ENG-55402"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hadden SB"

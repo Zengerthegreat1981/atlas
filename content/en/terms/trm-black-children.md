@@ -1,6 +1,6 @@
 ---
 slug: "trm-black-children"
-id: "TRM-ENG-34635"
+id: "TRM-ENG-49164"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Black children"

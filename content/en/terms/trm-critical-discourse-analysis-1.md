@@ -1,6 +1,6 @@
 ---
 slug: "trm-critical-discourse-analysis-1"
-id: "TRM-ENG-46472"
+id: "TRM-ENG-61001"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Critical discourse analysis, 1"

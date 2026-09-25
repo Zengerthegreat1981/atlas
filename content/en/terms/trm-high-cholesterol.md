@@ -1,6 +1,6 @@
 ---
 slug: "trm-high-cholesterol"
-id: "TRM-ENG-45830"
+id: "TRM-ENG-60359"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "HIGH CHOLESTEROL"

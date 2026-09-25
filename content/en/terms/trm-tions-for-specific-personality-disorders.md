@@ -1,6 +1,6 @@
 ---
 slug: "trm-tions-for-specific-personality-disorders"
-id: "TRM-ENG-43362"
+id: "TRM-ENG-57891"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tions for specific personality disorders"

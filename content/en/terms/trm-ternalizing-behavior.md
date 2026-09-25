@@ -1,6 +1,6 @@
 ---
 slug: "trm-ternalizing-behavior"
-id: "TRM-ENG-48629"
+id: "TRM-ENG-63158"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ternalizing behavior"

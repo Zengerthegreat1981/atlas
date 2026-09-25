@@ -1,6 +1,6 @@
 ---
 slug: "trm-consciouspersonalitythefunctionaltypesare"
-id: "TRM-ENG-43594"
+id: "TRM-ENG-58123"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "consciouspersonality.Thefunctionaltypesare"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-822-valenstein-es-ed"
-id: "TRM-ENG-39482"
+id: "TRM-ENG-54011"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "822. Valenstein ES (ed)"

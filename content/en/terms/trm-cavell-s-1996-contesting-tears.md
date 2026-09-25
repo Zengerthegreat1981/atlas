@@ -1,6 +1,6 @@
 ---
 slug: "trm-cavell-s-1996-contesting-tears"
-id: "TRM-ENG-46386"
+id: "TRM-ENG-60915"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cavell, S. (1996). Contesting tears"

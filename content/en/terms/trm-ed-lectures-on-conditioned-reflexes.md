@@ -1,6 +1,6 @@
 ---
 slug: "trm-ed-lectures-on-conditioned-reflexes"
-id: "TRM-ENG-49914"
+id: "TRM-ENG-64443"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Ed.), Lectures on conditioned reflexes"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-stcker-hlne-1"
-id: "TRM-ENG-47362"
+id: "TRM-ENG-61891"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stöcker, Hélène, 1"

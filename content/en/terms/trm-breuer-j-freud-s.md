@@ -1,6 +1,6 @@
 ---
 slug: "trm-breuer-j-freud-s"
-id: "TRM-ENG-40028"
+id: "TRM-ENG-54557"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Breuer J, Freud S"

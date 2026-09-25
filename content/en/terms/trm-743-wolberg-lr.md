@@ -1,6 +1,6 @@
 ---
 slug: "trm-743-wolberg-lr"
-id: "TRM-ENG-39391"
+id: "TRM-ENG-53920"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "743. Wolberg LR"

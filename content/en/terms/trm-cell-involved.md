@@ -1,6 +1,6 @@
 ---
 slug: "trm-cell-involved"
-id: "TRM-ENG-44041"
+id: "TRM-ENG-58570"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cell involved"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-380-baldessarini-rj"
-id: "TRM-ENG-38951"
+id: "TRM-ENG-53480"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "380. Baldessarini RJ"

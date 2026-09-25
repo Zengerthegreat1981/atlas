@@ -1,6 +1,6 @@
 ---
 slug: "trm-andre-pierre-people-sex-hiv-aids"
-id: "TRM-ENG-45748"
+id: "TRM-ENG-60277"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Andre, Pierre. People, Sex, HIV & AIDS"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-gutheil-ea"
-id: "TRM-ENG-40863"
+id: "TRM-ENG-55392"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gutheil EA"

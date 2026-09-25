@@ -1,6 +1,6 @@
 ---
 slug: "trm-plato-1949-meno-b-jowett-trans-new-york-ny"
-id: "TRM-ENG-47133"
+id: "TRM-ENG-61662"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Plato. (1949). Meno (B. Jowett, Trans.). New York, NY"

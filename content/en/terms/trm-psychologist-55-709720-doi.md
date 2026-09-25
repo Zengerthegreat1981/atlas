@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychologist-55-709720-doi"
-id: "TRM-ENG-35501"
+id: "TRM-ENG-64559"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychologist, 55, 709–720. doi"

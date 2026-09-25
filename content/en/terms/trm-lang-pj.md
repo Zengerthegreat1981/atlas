@@ -1,6 +1,6 @@
 ---
 slug: "trm-lang-pj"
-id: "TRM-ENG-41359"
+id: "TRM-ENG-55888"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lang PJ"

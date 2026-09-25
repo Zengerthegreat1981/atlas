@@ -1,6 +1,6 @@
 ---
 slug: "trm-selection-ratio"
-id: "TRM-ENG-35556"
+id: "TRM-ENG-64614"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Selection ratio"

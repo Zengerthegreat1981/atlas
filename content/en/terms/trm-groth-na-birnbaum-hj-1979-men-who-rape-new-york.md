@@ -1,6 +1,6 @@
 ---
 slug: "trm-groth-na-birnbaum-hj-1979-men-who-rape-new-york"
-id: "TRM-ENG-35718"
+id: "TRM-ENG-50247"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Groth, N.A., & Birnbaum, H.J. (1979). Men who rape. New York"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-edwards-w-1992-utility-theories"
-id: "TRM-ENG-46505"
+id: "TRM-ENG-61034"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Edwards, W. (1992). Utility theories"

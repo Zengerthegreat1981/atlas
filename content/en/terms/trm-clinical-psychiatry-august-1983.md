@@ -1,6 +1,6 @@
 ---
 slug: "trm-clinical-psychiatry-august-1983"
-id: "TRM-ENG-45782"
+id: "TRM-ENG-60311"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Clinical Psychiatry (August 1983)"

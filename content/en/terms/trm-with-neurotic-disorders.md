@@ -1,6 +1,6 @@
 ---
 slug: "trm-with-neurotic-disorders"
-id: "TRM-ENG-42161"
+id: "TRM-ENG-56690"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "with neurotic disorders"

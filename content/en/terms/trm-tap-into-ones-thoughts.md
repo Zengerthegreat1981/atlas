@@ -1,6 +1,6 @@
 ---
 slug: "trm-tap-into-ones-thoughts"
-id: "TRM-ENG-48788"
+id: "TRM-ENG-63317"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tap into one’s thoughts"

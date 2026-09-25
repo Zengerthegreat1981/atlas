@@ -1,6 +1,6 @@
 ---
 slug: "trm-irving-hh"
-id: "TRM-ENG-41086"
+id: "TRM-ENG-55615"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Irving HH"

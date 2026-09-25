@@ -1,6 +1,6 @@
 ---
 slug: "trm-genetic-factors-and-4"
-id: "TRM-ENG-40302"
+id: "TRM-ENG-54831"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "genetic factors and, 4"

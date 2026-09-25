@@ -1,6 +1,6 @@
 ---
 slug: "trm-individual-vscouple-sessions-and-1"
-id: "TRM-ENG-40523"
+id: "TRM-ENG-55052"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "individual vs.couple sessions and, 1"

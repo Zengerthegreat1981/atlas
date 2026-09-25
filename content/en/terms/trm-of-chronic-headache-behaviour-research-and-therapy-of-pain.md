@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-chronic-headache-behaviour-research-and-therapy-of-pain"
-id: "TRM-ENG-47152"
+id: "TRM-ENG-61681"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of chronic headache. Behaviour Research and Therapy, of pain"

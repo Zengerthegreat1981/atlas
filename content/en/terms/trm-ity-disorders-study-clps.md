@@ -1,6 +1,6 @@
 ---
 slug: "trm-ity-disorders-study-clps"
-id: "TRM-ENG-42942"
+id: "TRM-ENG-57471"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ity Disorders Study (CLPS)"

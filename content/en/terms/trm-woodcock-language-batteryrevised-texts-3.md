@@ -1,6 +1,6 @@
 ---
 slug: "trm-woodcock-language-batteryrevised-texts-3"
-id: "TRM-ENG-39050"
+id: "TRM-ENG-53579"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Woodcock Language Battery-Revised Texts, 3"

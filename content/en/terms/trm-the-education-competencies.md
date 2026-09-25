@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-education-competencies"
-id: "TRM-ENG-38885"
+id: "TRM-ENG-53414"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The Education Competencies"

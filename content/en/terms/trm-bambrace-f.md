@@ -1,6 +1,6 @@
 ---
 slug: "trm-bambrace-f"
-id: "TRM-ENG-39789"
+id: "TRM-ENG-54318"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bambrace F"

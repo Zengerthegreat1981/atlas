@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-illness-rev-ed-new-york-ny"
-id: "TRM-ENG-51238"
+id: "TRM-ENG-65767"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and illness (Rev. ed.). New York, NY"

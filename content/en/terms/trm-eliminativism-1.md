@@ -1,6 +1,6 @@
 ---
 slug: "trm-eliminativism-1"
-id: "TRM-ENG-44451"
+id: "TRM-ENG-58980"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Eliminativism, 1"

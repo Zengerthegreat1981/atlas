@@ -1,6 +1,6 @@
 ---
 slug: "trm-men-in-dark-times-new-york"
-id: "TRM-ENG-45743"
+id: "TRM-ENG-60272"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Men in Dark Times. New York"

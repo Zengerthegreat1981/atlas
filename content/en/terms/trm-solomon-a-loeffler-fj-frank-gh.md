@@ -1,6 +1,6 @@
 ---
 slug: "trm-solomon-a-loeffler-fj-frank-gh"
-id: "TRM-ENG-42402"
+id: "TRM-ENG-56931"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Solomon A, Loeffler FJ, Frank GH"

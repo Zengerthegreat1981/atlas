@@ -1,6 +1,6 @@
 ---
 slug: "trm-teleological-vs-causal-explanations-2"
-id: "TRM-ENG-45555"
+id: "TRM-ENG-60084"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "teleological vs. causal explanations, 2"

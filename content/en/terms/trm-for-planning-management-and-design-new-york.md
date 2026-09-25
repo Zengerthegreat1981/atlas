@@ -1,6 +1,6 @@
 ---
 slug: "trm-for-planning-management-and-design-new-york"
-id: "TRM-ENG-35029"
+id: "TRM-ENG-64087"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "for planning, management and design. New York"

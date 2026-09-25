@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-their-conceptual-and-epistemological-schemes"
-id: "TRM-ENG-48167"
+id: "TRM-ENG-62696"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in their conceptual and epistemological schemes"

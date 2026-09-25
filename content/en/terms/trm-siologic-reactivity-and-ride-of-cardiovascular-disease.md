@@ -1,6 +1,6 @@
 ---
 slug: "trm-siologic-reactivity-and-ride-of-cardiovascular-disease"
-id: "TRM-ENG-47285"
+id: "TRM-ENG-61814"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "siologic reactivity and ride of cardiovascular disease"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-lewis-jm-usdin-g"
-id: "TRM-ENG-41446"
+id: "TRM-ENG-55975"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lewis JM, Usdin G"

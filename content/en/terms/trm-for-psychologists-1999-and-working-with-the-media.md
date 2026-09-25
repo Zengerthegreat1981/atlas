@@ -1,6 +1,6 @@
 ---
 slug: "trm-for-psychologists-1999-and-working-with-the-media"
-id: "TRM-ENG-36448"
+id: "TRM-ENG-50977"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "for Psychologists (1999) and Working With the Media"

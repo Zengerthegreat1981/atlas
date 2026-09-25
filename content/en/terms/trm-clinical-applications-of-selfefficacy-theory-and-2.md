@@ -1,6 +1,6 @@
 ---
 slug: "trm-clinical-applications-of-selfefficacy-theory-and-2"
-id: "TRM-ENG-39533"
+id: "TRM-ENG-54062"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "clinical applications of self-efficacy theory and, 2"

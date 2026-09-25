@@ -1,6 +1,6 @@
 ---
 slug: "trm-theneurocognitionoflanguagepp123166oxford"
-id: "TRM-ENG-37359"
+id: "TRM-ENG-66417"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Theneurocognitionoflanguage(pp.123–166).Oxford"

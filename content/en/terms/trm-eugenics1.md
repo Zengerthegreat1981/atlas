@@ -1,6 +1,6 @@
 ---
 slug: "trm-eugenics1"
-id: "TRM-ENG-38041"
+id: "TRM-ENG-52570"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Eugenics,1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-epistemologies-that-has-just-been-discussed"
-id: "TRM-ENG-47972"
+id: "TRM-ENG-62501"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "epistemologies” that has just been discussed"

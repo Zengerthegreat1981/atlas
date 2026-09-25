@@ -1,6 +1,6 @@
 ---
 slug: "trm-muench-ga"
-id: "TRM-ENG-41778"
+id: "TRM-ENG-56307"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Muench GA"

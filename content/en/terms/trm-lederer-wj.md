@@ -1,6 +1,6 @@
 ---
 slug: "trm-lederer-wj"
-id: "TRM-ENG-41388"
+id: "TRM-ENG-55917"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lederer WJ"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-scheler-max-2"
-id: "TRM-ENG-44746"
+id: "TRM-ENG-59275"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Scheler, Max, 2"

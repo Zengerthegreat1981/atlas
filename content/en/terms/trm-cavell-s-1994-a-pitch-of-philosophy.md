@@ -1,6 +1,6 @@
 ---
 slug: "trm-cavell-s-1994-a-pitch-of-philosophy"
-id: "TRM-ENG-46385"
+id: "TRM-ENG-60914"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cavell, S. (1994). A pitch of philosophy"

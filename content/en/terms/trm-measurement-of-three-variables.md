@@ -1,6 +1,6 @@
 ---
 slug: "trm-measurement-of-three-variables"
-id: "TRM-ENG-36684"
+id: "TRM-ENG-65742"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "measurement of three variables"

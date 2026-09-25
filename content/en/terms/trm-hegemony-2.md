@@ -1,6 +1,6 @@
 ---
 slug: "trm-hegemony-2"
-id: "TRM-ENG-46740"
+id: "TRM-ENG-61269"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hegemony, 2"

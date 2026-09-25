@@ -1,6 +1,6 @@
 ---
 slug: "trm-kahneman-daniel-1"
-id: "TRM-ENG-44561"
+id: "TRM-ENG-59090"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kahneman, Daniel, 1"

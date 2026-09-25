@@ -1,6 +1,6 @@
 ---
 slug: "trm-bilityandcompulsivechecking"
-id: "TRM-ENG-49321"
+id: "TRM-ENG-63850"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bilityandcompulsivechecking"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-4-excited-actingout"
-id: "TRM-ENG-38976"
+id: "TRM-ENG-53505"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "4. Excited acting-out"

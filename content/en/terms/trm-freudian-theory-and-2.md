@@ -1,6 +1,6 @@
 ---
 slug: "trm-freudian-theory-and-2"
-id: "TRM-ENG-38092"
+id: "TRM-ENG-67150"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Freudian theory and, 2"

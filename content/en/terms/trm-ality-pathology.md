@@ -1,6 +1,6 @@
 ---
 slug: "trm-ality-pathology"
-id: "TRM-ENG-42608"
+id: "TRM-ENG-57137"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ality pathology"

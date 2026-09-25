@@ -1,6 +1,6 @@
 ---
 slug: "trm-skills-in-golf"
-id: "TRM-ENG-37007"
+id: "TRM-ENG-51536"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "skills in golf"

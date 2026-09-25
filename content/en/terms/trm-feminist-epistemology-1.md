@@ -1,6 +1,6 @@
 ---
 slug: "trm-feminist-epistemology-1"
-id: "TRM-ENG-46605"
+id: "TRM-ENG-61134"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Feminist epistemology, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-youth-culture-2"
-id: "TRM-ENG-49069"
+id: "TRM-ENG-63598"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "youth culture, 2"

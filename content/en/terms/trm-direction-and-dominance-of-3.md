@@ -1,6 +1,6 @@
 ---
 slug: "trm-direction-and-dominance-of-3"
-id: "TRM-ENG-39940"
+id: "TRM-ENG-54469"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "direction and dominance of, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-levy-s-1984-principles-of-interpretationnew-york"
-id: "TRM-ENG-38372"
+id: "TRM-ENG-52901"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Levy, S. (1984). Principles of interpretation.New York"

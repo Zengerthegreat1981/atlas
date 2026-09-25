@@ -1,6 +1,6 @@
 ---
 slug: "trm-lewin-w"
-id: "TRM-ENG-41439"
+id: "TRM-ENG-55968"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lewin W"

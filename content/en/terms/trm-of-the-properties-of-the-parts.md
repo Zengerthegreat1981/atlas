@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-the-properties-of-the-parts"
-id: "TRM-ENG-48453"
+id: "TRM-ENG-62982"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of the properties of the parts"

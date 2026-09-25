@@ -1,6 +1,6 @@
 ---
 slug: "trm-adigm"
-id: "TRM-ENG-36093"
+id: "TRM-ENG-65151"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "adigm"

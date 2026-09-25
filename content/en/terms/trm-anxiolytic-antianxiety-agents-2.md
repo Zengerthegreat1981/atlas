@@ -1,6 +1,6 @@
 ---
 slug: "trm-anxiolytic-antianxiety-agents-2"
-id: "TRM-ENG-39230"
+id: "TRM-ENG-53759"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "anxiolytic (antianxiety) agents, 2"

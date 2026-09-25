@@ -1,6 +1,6 @@
 ---
 slug: "trm-roid-gale-2"
-id: "TRM-ENG-38692"
+id: "TRM-ENG-53221"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Roid, Gale, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-dysfunctionsyndrome"
-id: "TRM-ENG-46958"
+id: "TRM-ENG-61487"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dysfunctionsyndrome"

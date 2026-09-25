@@ -1,6 +1,6 @@
 ---
 slug: "trm-influence-a-client"
-id: "TRM-ENG-40535"
+id: "TRM-ENG-55064"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "influence a client?"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-today-many-researcher"
-id: "TRM-ENG-34814"
+id: "TRM-ENG-63872"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Today, many researcher"

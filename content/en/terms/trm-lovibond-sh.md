@@ -1,6 +1,6 @@
 ---
 slug: "trm-lovibond-sh"
-id: "TRM-ENG-41507"
+id: "TRM-ENG-56036"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lovibond SH"

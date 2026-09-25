@@ -1,6 +1,6 @@
 ---
 slug: "trm-romanesgj1886physiologicalselection"
-id: "TRM-ENG-37240"
+id: "TRM-ENG-66298"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Romanes,G.J.(1886).Physiologicalselection"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-coefficient-is-cid"
-id: "TRM-ENG-35720"
+id: "TRM-ENG-64778"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "coefficient is (cid"

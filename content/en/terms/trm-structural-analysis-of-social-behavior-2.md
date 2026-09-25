@@ -1,6 +1,6 @@
 ---
 slug: "trm-structural-analysis-of-social-behavior-2"
-id: "TRM-ENG-38830"
+id: "TRM-ENG-53359"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Structural Analysis of Social Behavior, 2"

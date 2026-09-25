@@ -1,6 +1,6 @@
 ---
 slug: "trm-mcwilliams-n-2004-psychoanalytic-psychotherapy"
-id: "TRM-ENG-38413"
+id: "TRM-ENG-52942"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "McWilliams, N. (2004). Psychoanalytic psychotherapy"

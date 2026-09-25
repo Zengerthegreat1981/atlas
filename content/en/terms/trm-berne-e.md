@@ -1,6 +1,6 @@
 ---
 slug: "trm-berne-e"
-id: "TRM-ENG-39913"
+id: "TRM-ENG-54442"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Berne E"

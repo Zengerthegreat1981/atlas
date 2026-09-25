@@ -1,6 +1,6 @@
 ---
 slug: "trm-blatt-s-j-1995-the-destructiveness-of-perfectionism"
-id: "TRM-ENG-42333"
+id: "TRM-ENG-56862"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Blatt, S. J. (1995). The destructiveness of perfectionism"

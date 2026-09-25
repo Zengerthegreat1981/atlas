@@ -1,6 +1,6 @@
 ---
 slug: "trm-patients-mind"
-id: "TRM-ENG-48514"
+id: "TRM-ENG-63043"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "patient’s mind"

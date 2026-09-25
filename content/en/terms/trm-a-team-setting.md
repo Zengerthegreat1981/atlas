@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-team-setting"
-id: "TRM-ENG-47528"
+id: "TRM-ENG-62057"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "a team setting"

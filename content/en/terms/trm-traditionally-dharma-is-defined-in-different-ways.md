@@ -1,6 +1,6 @@
 ---
 slug: "trm-traditionally-dharma-is-defined-in-different-ways"
-id: "TRM-ENG-37382"
+id: "TRM-ENG-51911"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Traditionally, dharma is defined in different ways"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-music-perception-2"
-id: "TRM-ENG-44640"
+id: "TRM-ENG-59169"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Music perception , 2"

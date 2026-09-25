@@ -1,6 +1,6 @@
 ---
 slug: "trm-lazarus-rs-folkman-s"
-id: "TRM-ENG-41380"
+id: "TRM-ENG-55909"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lazarus RS, Folkman S"

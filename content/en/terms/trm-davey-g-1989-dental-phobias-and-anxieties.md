@@ -1,6 +1,6 @@
 ---
 slug: "trm-davey-g-1989-dental-phobias-and-anxieties"
-id: "TRM-ENG-46491"
+id: "TRM-ENG-61020"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Davey, G. (1989). Dental phobias and anxieties"

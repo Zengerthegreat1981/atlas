@@ -1,6 +1,6 @@
 ---
 slug: "trm-ysisandcriticaltheorycambridgecambridgema"
-id: "TRM-ENG-38474"
+id: "TRM-ENG-53003"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ysisandcriticaltheorycambridge.Cambridge,MA"

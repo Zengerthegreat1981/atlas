@@ -1,6 +1,6 @@
 ---
 slug: "trm-nth-w-1990-handbook-of-semiotics-bloomington"
-id: "TRM-ENG-47074"
+id: "TRM-ENG-61603"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nöth, W. (1990). Handbook of semiotics. Bloomington"

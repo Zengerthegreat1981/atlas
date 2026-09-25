@@ -1,6 +1,6 @@
 ---
 slug: "trm-vandenberg-donald-2"
-id: "TRM-ENG-47452"
+id: "TRM-ENG-61981"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Vandenberg, Donald, 2"

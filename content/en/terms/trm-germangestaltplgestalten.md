@@ -1,6 +1,6 @@
 ---
 slug: "trm-germangestaltplgestalten"
-id: "TRM-ENG-43474"
+id: "TRM-ENG-58003"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "GermanGestalt[pl.Gestalten]"

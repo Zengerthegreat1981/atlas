@@ -1,6 +1,6 @@
 ---
 slug: "trm-relational-psychoanalytic-therapy-and-2"
-id: "TRM-ENG-41470"
+id: "TRM-ENG-55999"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "relational psychoanalytic therapy and, 2"

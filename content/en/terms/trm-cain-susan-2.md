@@ -1,6 +1,6 @@
 ---
 slug: "trm-cain-susan-2"
-id: "TRM-ENG-46358"
+id: "TRM-ENG-60887"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cain, Susan, 2"

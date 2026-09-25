@@ -1,6 +1,6 @@
 ---
 slug: "trm-set-in-hierarchical-relationships"
-id: "TRM-ENG-48704"
+id: "TRM-ENG-63233"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "set in hierarchical relationships"

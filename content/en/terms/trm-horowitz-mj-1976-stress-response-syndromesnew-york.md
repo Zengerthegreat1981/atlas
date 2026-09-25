@@ -1,6 +1,6 @@
 ---
 slug: "trm-horowitz-mj-1976-stress-response-syndromesnew-york"
-id: "TRM-ENG-35746"
+id: "TRM-ENG-64804"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Horowitz, M.J. (1976). Stress response syndromes.New York"

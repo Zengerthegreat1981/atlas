@@ -1,6 +1,6 @@
 ---
 slug: "trm-advances-in-clinical-personality-measurement"
-id: "TRM-ENG-35284"
+id: "TRM-ENG-64342"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Advances in clinical personality measurement"

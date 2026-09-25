@@ -1,6 +1,6 @@
 ---
 slug: "trm-gadpaille-wj"
-id: "TRM-ENG-40653"
+id: "TRM-ENG-55182"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gadpaille WJ"

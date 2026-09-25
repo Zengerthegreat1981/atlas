@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognitionintelligence-assessment-and-1"
-id: "TRM-ENG-39552"
+id: "TRM-ENG-54081"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cognition/intelligence assessment and, 1"

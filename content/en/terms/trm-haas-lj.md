@@ -1,6 +1,6 @@
 ---
 slug: "trm-haas-lj"
-id: "TRM-ENG-40871"
+id: "TRM-ENG-55400"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Haas LJ"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapy-reframed"
-id: "TRM-ENG-44213"
+id: "TRM-ENG-58742"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapy (RefraMED)"

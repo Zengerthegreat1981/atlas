@@ -1,6 +1,6 @@
 ---
 slug: "trm-weinman-j-petrie-k-1997-illness-perceptions"
-id: "TRM-ENG-46763"
+id: "TRM-ENG-61292"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Weinman, J., & Petrie, K. (1997). Illness perceptions"

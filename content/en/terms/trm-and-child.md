@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-child"
-id: "TRM-ENG-39156"
+id: "TRM-ENG-53685"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and Child"

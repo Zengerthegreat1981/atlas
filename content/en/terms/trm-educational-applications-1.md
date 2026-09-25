@@ -1,6 +1,6 @@
 ---
 slug: "trm-educational-applications-1"
-id: "TRM-ENG-47935"
+id: "TRM-ENG-62464"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "educational applications, 1"

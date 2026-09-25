@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychotherapeutic-strategies-new-haven-ct"
-id: "TRM-ENG-42503"
+id: "TRM-ENG-57032"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychotherapeutic strategies. New Haven, CT"

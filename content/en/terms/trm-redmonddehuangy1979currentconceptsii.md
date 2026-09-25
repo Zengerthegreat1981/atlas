@@ -1,6 +1,6 @@
 ---
 slug: "trm-redmonddehuangy1979currentconceptsii"
-id: "TRM-ENG-49138"
+id: "TRM-ENG-63667"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Redmond,D.E.,&Huang,Y.(1979).CurrentconceptsII"

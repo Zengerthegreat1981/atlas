@@ -1,6 +1,6 @@
 ---
 slug: "trm-neologism"
-id: "TRM-ENG-52302"
+id: "TRM-ENG-66831"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Neologism"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-different-mental-defects"
-id: "TRM-ENG-44354"
+id: "TRM-ENG-58883"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Different mental defects"

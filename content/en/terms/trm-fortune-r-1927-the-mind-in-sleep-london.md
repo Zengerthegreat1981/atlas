@@ -1,6 +1,6 @@
 ---
 slug: "trm-fortune-r-1927-the-mind-in-sleep-london"
-id: "TRM-ENG-36801"
+id: "TRM-ENG-51330"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fortune, R. (1927). The mind in sleep. London"

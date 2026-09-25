@@ -1,6 +1,6 @@
 ---
 slug: "trm-goldstein-ap-heller-k-sechrest-lb"
-id: "TRM-ENG-40758"
+id: "TRM-ENG-55287"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goldstein AP, Heller K, Sechrest LB"

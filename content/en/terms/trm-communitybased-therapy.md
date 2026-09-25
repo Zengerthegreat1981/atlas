@@ -1,6 +1,6 @@
 ---
 slug: "trm-communitybased-therapy"
-id: "TRM-ENG-35628"
+id: "TRM-ENG-50157"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Community-based therapy"

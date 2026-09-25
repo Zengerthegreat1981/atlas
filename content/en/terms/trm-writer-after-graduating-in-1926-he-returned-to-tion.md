@@ -1,6 +1,6 @@
 ---
 slug: "trm-writer-after-graduating-in-1926-he-returned-to-tion"
-id: "TRM-ENG-51978"
+id: "TRM-ENG-66507"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "writer. After graduating in 1926, he returned to tion"

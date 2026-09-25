@@ -1,6 +1,6 @@
 ---
 slug: "trm-sonality-disorder-psychol-med-13"
-id: "TRM-ENG-48595"
+id: "TRM-ENG-63124"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sonality disorder. Psychol Med 13"

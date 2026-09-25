@@ -1,6 +1,6 @@
 ---
 slug: "trm-other-topics"
-id: "TRM-ENG-48505"
+id: "TRM-ENG-63034"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "other topics"

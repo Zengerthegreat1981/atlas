@@ -1,6 +1,6 @@
 ---
 slug: "trm-liberalism-2"
-id: "TRM-ENG-48281"
+id: "TRM-ENG-62810"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "liberalism, 2"

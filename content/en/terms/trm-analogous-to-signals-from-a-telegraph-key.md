@@ -1,6 +1,6 @@
 ---
 slug: "trm-analogous-to-signals-from-a-telegraph-key"
-id: "TRM-ENG-36110"
+id: "TRM-ENG-65168"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "analogous to signals from a telegraph key"

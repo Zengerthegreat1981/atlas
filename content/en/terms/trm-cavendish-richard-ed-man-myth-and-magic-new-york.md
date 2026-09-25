@@ -1,6 +1,6 @@
 ---
 slug: "trm-cavendish-richard-ed-man-myth-and-magic-new-york"
-id: "TRM-ENG-45776"
+id: "TRM-ENG-60305"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cavendish, Richard, ed., Man, Myth, and Magic (New York"

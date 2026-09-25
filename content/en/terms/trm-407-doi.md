@@ -1,6 +1,6 @@
 ---
 slug: "trm-407-doi"
-id: "TRM-ENG-50045"
+id: "TRM-ENG-64574"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "407. doi"

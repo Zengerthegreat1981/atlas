@@ -1,6 +1,6 @@
 ---
 slug: "trm-lerner-harriet-goldhor-the-dance-of-anger-new-york"
-id: "TRM-ENG-45863"
+id: "TRM-ENG-60392"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lerner, Harriet Goldhor. The Dance of Anger. New York"

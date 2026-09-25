@@ -1,6 +1,6 @@
 ---
 slug: "trm-confidentiality-and-legal-privilege2"
-id: "TRM-ENG-37859"
+id: "TRM-ENG-66917"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Confidentiality and legal privilege,2"

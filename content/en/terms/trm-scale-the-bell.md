@@ -1,6 +1,6 @@
 ---
 slug: "trm-scale-the-bell"
-id: "TRM-ENG-52602"
+id: "TRM-ENG-67131"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "scale. The Bell"

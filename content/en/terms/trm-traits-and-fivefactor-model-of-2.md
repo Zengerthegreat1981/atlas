@@ -1,6 +1,6 @@
 ---
 slug: "trm-traits-and-fivefactor-model-of-2"
-id: "TRM-ENG-42015"
+id: "TRM-ENG-56544"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "traits and, five-factor model of, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-churchill-sr-et-al"
-id: "TRM-ENG-40180"
+id: "TRM-ENG-54709"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Churchill SR et al"

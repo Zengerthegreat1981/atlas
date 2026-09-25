@@ -1,6 +1,6 @@
 ---
 slug: "trm-qualitative-methodologies-and-1"
-id: "TRM-ENG-41389"
+id: "TRM-ENG-55918"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "qualitative methodologies and, 1"

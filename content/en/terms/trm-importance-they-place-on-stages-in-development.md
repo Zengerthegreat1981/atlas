@@ -1,6 +1,6 @@
 ---
 slug: "trm-importance-they-place-on-stages-in-development"
-id: "TRM-ENG-36542"
+id: "TRM-ENG-51071"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "importance they place on stages in development"

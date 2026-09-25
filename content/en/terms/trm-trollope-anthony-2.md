@@ -1,6 +1,6 @@
 ---
 slug: "trm-trollope-anthony-2"
-id: "TRM-ENG-47422"
+id: "TRM-ENG-61951"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Trollope, Anthony, 2"

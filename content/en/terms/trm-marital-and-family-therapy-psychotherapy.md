@@ -1,6 +1,6 @@
 ---
 slug: "trm-marital-and-family-therapy-psychotherapy"
-id: "TRM-ENG-38402"
+id: "TRM-ENG-52931"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Marital and Family Therapy; Psychotherapy"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-plines-misbeliefs-about-deception-include-the-following"
-id: "TRM-ENG-36870"
+id: "TRM-ENG-51399"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "plines, misbeliefs about deception include the following"

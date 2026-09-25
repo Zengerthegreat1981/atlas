@@ -1,6 +1,6 @@
 ---
 slug: "trm-miller-ec-dvorak-h-turner-dw"
-id: "TRM-ENG-41720"
+id: "TRM-ENG-56249"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Miller EC, Dvorak H, Turner DW"

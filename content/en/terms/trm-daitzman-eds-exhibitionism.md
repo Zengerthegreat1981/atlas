@@ -1,6 +1,6 @@
 ---
 slug: "trm-daitzman-eds-exhibitionism"
-id: "TRM-ENG-34668"
+id: "TRM-ENG-63726"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Daitzman (Eds.), Exhibitionism"

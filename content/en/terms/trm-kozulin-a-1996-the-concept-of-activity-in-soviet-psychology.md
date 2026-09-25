@@ -1,6 +1,6 @@
 ---
 slug: "trm-kozulin-a-1996-the-concept-of-activity-in-soviet-psychology"
-id: "TRM-ENG-37005"
+id: "TRM-ENG-66063"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kozulin, A. (1996). The concept of activity in Soviet psychology"

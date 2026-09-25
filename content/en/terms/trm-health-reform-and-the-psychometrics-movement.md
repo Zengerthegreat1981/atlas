@@ -1,6 +1,6 @@
 ---
 slug: "trm-health-reform-and-the-psychometrics-movement"
-id: "TRM-ENG-40362"
+id: "TRM-ENG-54891"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "health reform, and the psychometrics movement"

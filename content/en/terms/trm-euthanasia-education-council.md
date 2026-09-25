@@ -1,6 +1,6 @@
 ---
 slug: "trm-euthanasia-education-council"
-id: "TRM-ENG-40475"
+id: "TRM-ENG-55004"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Euthanasia Education Council"

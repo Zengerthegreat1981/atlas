@@ -1,6 +1,6 @@
 ---
 slug: "trm-katz-ah-bender-el-eds"
-id: "TRM-ENG-41207"
+id: "TRM-ENG-55736"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Katz AH, Bender El (eds)"

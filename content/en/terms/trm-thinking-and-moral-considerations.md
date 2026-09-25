@@ -1,6 +1,6 @@
 ---
 slug: "trm-thinking-and-moral-considerations"
-id: "TRM-ENG-46100"
+id: "TRM-ENG-60629"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“Thinking and Moral Considerations"

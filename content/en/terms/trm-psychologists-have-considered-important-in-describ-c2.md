@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychologists-have-considered-important-in-describ-c2"
-id: "TRM-ENG-43811"
+id: "TRM-ENG-58340"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychologists have considered important in describ- C2"

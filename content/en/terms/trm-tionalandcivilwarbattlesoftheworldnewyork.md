@@ -1,6 +1,6 @@
 ---
 slug: "trm-tionalandcivilwarbattlesoftheworldnewyork"
-id: "TRM-ENG-38371"
+id: "TRM-ENG-52900"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tionalandcivilwarbattlesoftheworld.NewYork"

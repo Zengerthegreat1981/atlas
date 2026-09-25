@@ -1,6 +1,6 @@
 ---
 slug: "trm-sills-f-2008-being-and-becoming"
-id: "TRM-ENG-51038"
+id: "TRM-ENG-65567"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sills, F. (2008). Being and becoming"

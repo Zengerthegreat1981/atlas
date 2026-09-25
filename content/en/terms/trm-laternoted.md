@@ -1,6 +1,6 @@
 ---
 slug: "trm-laternoted"
-id: "TRM-ENG-37913"
+id: "TRM-ENG-66971"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "laternoted"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-intelligent-tutoring-systems-1"
-id: "TRM-ENG-48218"
+id: "TRM-ENG-62747"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "intelligent tutoring systems, 1"

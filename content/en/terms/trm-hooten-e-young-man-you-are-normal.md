@@ -1,6 +1,6 @@
 ---
 slug: "trm-hooten-e-young-man-you-are-normal"
-id: "TRM-ENG-44441"
+id: "TRM-ENG-58970"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hooten, E., Young Man, You Are Normal"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-reider-n"
-id: "TRM-ENG-42086"
+id: "TRM-ENG-56615"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Reider N"

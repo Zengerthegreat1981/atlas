@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-law"
-id: "TRM-ENG-36171"
+id: "TRM-ENG-65229"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the law"

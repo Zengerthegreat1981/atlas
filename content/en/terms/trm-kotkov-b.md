@@ -1,6 +1,6 @@
 ---
 slug: "trm-kotkov-b"
-id: "TRM-ENG-41294"
+id: "TRM-ENG-55823"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kotkov B"

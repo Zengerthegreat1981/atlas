@@ -1,6 +1,6 @@
 ---
 slug: "trm-hussain-a"
-id: "TRM-ENG-41061"
+id: "TRM-ENG-55590"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hussain A"

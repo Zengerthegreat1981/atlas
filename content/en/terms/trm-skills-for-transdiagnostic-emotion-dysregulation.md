@@ -1,6 +1,6 @@
 ---
 slug: "trm-skills-for-transdiagnostic-emotion-dysregulation"
-id: "TRM-ENG-43226"
+id: "TRM-ENG-57755"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "skills for transdiagnostic emotion dysregulation"

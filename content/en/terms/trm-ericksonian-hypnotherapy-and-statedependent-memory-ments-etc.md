@@ -1,6 +1,6 @@
 ---
 slug: "trm-ericksonian-hypnotherapy-and-statedependent-memory-ments-etc"
-id: "TRM-ENG-35659"
+id: "TRM-ENG-64717"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ericksonian hypnotherapy and state-dependent memory ments, etc."

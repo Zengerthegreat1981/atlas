@@ -1,6 +1,6 @@
 ---
 slug: "trm-ment-strategies"
-id: "TRM-ENG-36696"
+id: "TRM-ENG-65754"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ment strategies"

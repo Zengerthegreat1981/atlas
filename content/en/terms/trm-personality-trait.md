@@ -1,6 +1,6 @@
 ---
 slug: "trm-personality-trait"
-id: "TRM-ENG-45510"
+id: "TRM-ENG-60039"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "personality trait"

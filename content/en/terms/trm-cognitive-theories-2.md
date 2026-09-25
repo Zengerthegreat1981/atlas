@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognitive-theories-2"
-id: "TRM-ENG-47786"
+id: "TRM-ENG-62315"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cognitive theories, 2"

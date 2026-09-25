@@ -1,6 +1,6 @@
 ---
 slug: "trm-forewordbytlboltonphiladelphia"
-id: "TRM-ENG-37774"
+id: "TRM-ENG-66832"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "forewordbyT.L.Bolton).Philadelphia"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychoanalysis-1"
-id: "TRM-ENG-47161"
+id: "TRM-ENG-61690"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychoanalysis, 1"

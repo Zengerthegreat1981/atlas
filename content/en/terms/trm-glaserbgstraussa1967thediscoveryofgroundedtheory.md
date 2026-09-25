@@ -1,6 +1,6 @@
 ---
 slug: "trm-glaserbgstraussa1967thediscoveryofgroundedtheory"
-id: "TRM-ENG-36849"
+id: "TRM-ENG-65907"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Glaser,B.G.,&Strauss,A.(1967).Thediscoveryofgroundedtheory"

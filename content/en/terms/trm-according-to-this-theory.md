@@ -1,6 +1,6 @@
 ---
 slug: "trm-according-to-this-theory"
-id: "TRM-ENG-43504"
+id: "TRM-ENG-58033"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "according to this theory"

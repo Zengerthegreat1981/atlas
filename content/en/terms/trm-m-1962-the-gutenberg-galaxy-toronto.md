@@ -1,6 +1,6 @@
 ---
 slug: "trm-m-1962-the-gutenberg-galaxy-toronto"
-id: "TRM-ENG-52522"
+id: "TRM-ENG-67051"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "M. (1962). The Gutenberg galaxy. Toronto"

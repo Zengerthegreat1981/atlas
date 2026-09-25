@@ -1,6 +1,6 @@
 ---
 slug: "trm-losophylondon"
-id: "TRM-ENG-37936"
+id: "TRM-ENG-66994"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "losophy.London"

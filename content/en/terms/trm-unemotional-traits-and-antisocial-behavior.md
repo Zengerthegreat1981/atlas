@@ -1,6 +1,6 @@
 ---
 slug: "trm-unemotional-traits-and-antisocial-behavior"
-id: "TRM-ENG-43404"
+id: "TRM-ENG-57933"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "unemotional traits and antisocial behavior"

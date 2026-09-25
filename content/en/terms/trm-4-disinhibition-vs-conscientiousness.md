@@ -1,6 +1,6 @@
 ---
 slug: "trm-4-disinhibition-vs-conscientiousness"
-id: "TRM-ENG-47436"
+id: "TRM-ENG-61965"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "4. Disinhibition (vs. Conscientiousness)"

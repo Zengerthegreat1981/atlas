@@ -1,6 +1,6 @@
 ---
 slug: "trm-sion-j-pers-soc-psychol-72"
-id: "TRM-ENG-48578"
+id: "TRM-ENG-63107"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sion. J Pers Soc Psychol 72"

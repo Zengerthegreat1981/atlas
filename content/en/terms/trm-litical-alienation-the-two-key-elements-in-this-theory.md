@@ -1,6 +1,6 @@
 ---
 slug: "trm-litical-alienation-the-two-key-elements-in-this-theory"
-id: "TRM-ENG-36642"
+id: "TRM-ENG-65700"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "litical alienation. The two key elements in this theory"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-selfrespect"
-id: "TRM-ENG-42960"
+id: "TRM-ENG-57489"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and self-respect"

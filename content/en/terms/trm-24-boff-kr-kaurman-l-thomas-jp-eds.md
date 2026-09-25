@@ -1,6 +1,6 @@
 ---
 slug: "trm-24-boff-kr-kaurman-l-thomas-jp-eds"
-id: "TRM-ENG-38763"
+id: "TRM-ENG-53292"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "24. Boff KR, Kaurman L, Thomas JP (eds)"

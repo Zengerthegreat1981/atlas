@@ -1,6 +1,6 @@
 ---
 slug: "trm-ment-under-uncertainty"
-id: "TRM-ENG-43005"
+id: "TRM-ENG-57534"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ment under uncertainty"

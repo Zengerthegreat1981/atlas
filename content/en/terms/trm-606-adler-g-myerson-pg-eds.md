@@ -1,6 +1,6 @@
 ---
 slug: "trm-606-adler-g-myerson-pg-eds"
-id: "TRM-ENG-39228"
+id: "TRM-ENG-53757"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "606. Adler G, Myerson PG (eds)"

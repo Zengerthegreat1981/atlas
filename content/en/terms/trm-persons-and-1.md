@@ -1,6 +1,6 @@
 ---
 slug: "trm-persons-and-1"
-id: "TRM-ENG-41159"
+id: "TRM-ENG-55688"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "persons and, 1"

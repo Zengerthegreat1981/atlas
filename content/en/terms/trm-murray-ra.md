@@ -1,6 +1,6 @@
 ---
 slug: "trm-murray-ra"
-id: "TRM-ENG-41803"
+id: "TRM-ENG-56332"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Murray RA"

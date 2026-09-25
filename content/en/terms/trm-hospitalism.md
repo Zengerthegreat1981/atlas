@@ -1,6 +1,6 @@
 ---
 slug: "trm-hospitalism"
-id: "TRM-ENG-44791"
+id: "TRM-ENG-59320"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, “Hospitalism"

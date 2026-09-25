@@ -1,6 +1,6 @@
 ---
 slug: "trm-kagan-j-kearsley-rb-zelazo-pr"
-id: "TRM-ENG-41166"
+id: "TRM-ENG-55695"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kagan J, Kearsley RB, Zelazo PR"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-sedative-drugs-and-2"
-id: "TRM-ENG-41587"
+id: "TRM-ENG-56116"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sedative drugs and, 2"

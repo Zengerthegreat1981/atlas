@@ -1,6 +1,6 @@
 ---
 slug: "trm-power-authority-leadership-allocations-and-3"
-id: "TRM-ENG-41228"
+id: "TRM-ENG-55757"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "power, authority, leadership allocations and, 3"

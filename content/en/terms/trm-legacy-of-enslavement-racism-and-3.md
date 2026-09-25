@@ -1,6 +1,6 @@
 ---
 slug: "trm-legacy-of-enslavement-racism-and-3"
-id: "TRM-ENG-40702"
+id: "TRM-ENG-55231"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "legacy of enslavement, racism and, 3"

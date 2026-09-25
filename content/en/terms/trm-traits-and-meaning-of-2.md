@@ -1,6 +1,6 @@
 ---
 slug: "trm-traits-and-meaning-of-2"
-id: "TRM-ENG-42016"
+id: "TRM-ENG-56545"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "traits and, meaning of, 2"

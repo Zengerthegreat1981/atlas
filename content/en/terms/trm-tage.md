@@ -1,6 +1,6 @@
 ---
 slug: "trm-tage"
-id: "TRM-ENG-43282"
+id: "TRM-ENG-57811"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tage"

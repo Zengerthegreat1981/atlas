@@ -1,6 +1,6 @@
 ---
 slug: "trm-response-categories-x-and-x-1"
-id: "TRM-ENG-36084"
+id: "TRM-ENG-50613"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "response categories x and x − 1"

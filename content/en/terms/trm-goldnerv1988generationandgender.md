@@ -1,6 +1,6 @@
 ---
 slug: "trm-goldnerv1988generationandgender"
-id: "TRM-ENG-49004"
+id: "TRM-ENG-63533"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goldner,V.(1988).Generationandgender"

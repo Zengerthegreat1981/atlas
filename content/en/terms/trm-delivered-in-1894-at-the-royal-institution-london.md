@@ -1,6 +1,6 @@
 ---
 slug: "trm-delivered-in-1894-at-the-royal-institution-london"
-id: "TRM-ENG-37680"
+id: "TRM-ENG-52209"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "delivered in 1894 at the Royal Institution. London"

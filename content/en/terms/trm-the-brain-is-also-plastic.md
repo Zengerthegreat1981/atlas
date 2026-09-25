@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-brain-is-also-plastic"
-id: "TRM-ENG-34700"
+id: "TRM-ENG-63758"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The brain is also plastic"

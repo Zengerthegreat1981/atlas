@@ -1,6 +1,6 @@
 ---
 slug: "trm-blos-p-sr"
-id: "TRM-ENG-39976"
+id: "TRM-ENG-54505"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Blos P, Sr"

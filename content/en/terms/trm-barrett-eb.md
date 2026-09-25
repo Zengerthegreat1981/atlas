@@ -1,6 +1,6 @@
 ---
 slug: "trm-barrett-eb"
-id: "TRM-ENG-39813"
+id: "TRM-ENG-54342"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Barrett EB"

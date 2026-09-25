@@ -1,6 +1,6 @@
 ---
 slug: "trm-plicitly"
-id: "TRM-ENG-36868"
+id: "TRM-ENG-51397"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "plicitly"

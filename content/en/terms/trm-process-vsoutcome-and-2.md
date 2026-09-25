@@ -1,6 +1,6 @@
 ---
 slug: "trm-process-vsoutcome-and-2"
-id: "TRM-ENG-41287"
+id: "TRM-ENG-55816"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "process vs.outcome and, 2"

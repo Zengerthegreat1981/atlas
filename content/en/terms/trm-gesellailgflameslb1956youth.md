@@ -1,6 +1,6 @@
 ---
 slug: "trm-gesellailgflameslb1956youth"
-id: "TRM-ENG-36843"
+id: "TRM-ENG-65901"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gesell,A.,Ilg,F.L.,&Ames,L.B.(1956).Youth"

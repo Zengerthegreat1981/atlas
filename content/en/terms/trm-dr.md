@@ -1,6 +1,6 @@
 ---
 slug: "trm-dr"
-id: "TRM-ENG-44357"
+id: "TRM-ENG-58886"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dr."

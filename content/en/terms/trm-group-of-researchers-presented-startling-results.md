@@ -1,6 +1,6 @@
 ---
 slug: "trm-group-of-researchers-presented-startling-results"
-id: "TRM-ENG-35832"
+id: "TRM-ENG-64890"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "group of researchers presented startling results"

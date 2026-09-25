@@ -1,6 +1,6 @@
 ---
 slug: "trm-simon-theodore-1"
-id: "TRM-ENG-47296"
+id: "TRM-ENG-61825"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Simon, Theodore, 1"

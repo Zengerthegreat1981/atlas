@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychologist-55-514-doi"
-id: "TRM-ENG-50897"
+id: "TRM-ENG-65426"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychologist, 55, 5–14. doi"

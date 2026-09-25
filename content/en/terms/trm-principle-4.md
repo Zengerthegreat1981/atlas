@@ -1,6 +1,6 @@
 ---
 slug: "trm-principle-4"
-id: "TRM-ENG-34673"
+id: "TRM-ENG-63731"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Principle 4"

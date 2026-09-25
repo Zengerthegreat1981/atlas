@@ -1,6 +1,6 @@
 ---
 slug: "trm-deficit-hypothesis3"
-id: "TRM-ENG-37938"
+id: "TRM-ENG-52467"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Deficit hypothesis,3"

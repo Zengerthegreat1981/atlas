@@ -1,6 +1,6 @@
 ---
 slug: "trm-threepronged-model-of-teaching"
-id: "TRM-ENG-48903"
+id: "TRM-ENG-63432"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "three-pronged model of teaching"

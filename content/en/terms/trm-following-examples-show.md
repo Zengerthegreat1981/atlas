@@ -1,6 +1,6 @@
 ---
 slug: "trm-following-examples-show"
-id: "TRM-ENG-51467"
+id: "TRM-ENG-65996"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "following examples show"

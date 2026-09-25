@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-mainstream-expectations-well"
-id: "TRM-ENG-48943"
+id: "TRM-ENG-63472"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to mainstream expectations. well"

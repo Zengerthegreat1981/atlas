@@ -1,6 +1,6 @@
 ---
 slug: "trm-public-disclosure-and-1"
-id: "TRM-ENG-41374"
+id: "TRM-ENG-55903"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "public disclosure and, 1"

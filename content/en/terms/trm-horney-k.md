@@ -1,6 +1,6 @@
 ---
 slug: "trm-horney-k"
-id: "TRM-ENG-41032"
+id: "TRM-ENG-55561"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Horney K"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-excitement-and-growth-in-the-human-personalitynew-york"
-id: "TRM-ENG-36415"
+id: "TRM-ENG-65473"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "excitement and growth in the human personality.New York"

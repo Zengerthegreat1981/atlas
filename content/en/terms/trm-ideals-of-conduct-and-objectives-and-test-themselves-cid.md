@@ -1,6 +1,6 @@
 ---
 slug: "trm-ideals-of-conduct-and-objectives-and-test-themselves-cid"
-id: "TRM-ENG-46113"
+id: "TRM-ENG-60642"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ideals of conduct and objectives and test themselves (cid"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-lemere-f-voegtlin-wl-broz-wr-et-al"
-id: "TRM-ENG-41404"
+id: "TRM-ENG-55933"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lemere F, Voegtlin WL, Broz WR, et al"

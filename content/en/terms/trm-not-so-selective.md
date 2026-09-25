@@ -1,6 +1,6 @@
 ---
 slug: "trm-not-so-selective"
-id: "TRM-ENG-34953"
+id: "TRM-ENG-64011"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "not so selective"

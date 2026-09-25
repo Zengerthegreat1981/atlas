@@ -1,6 +1,6 @@
 ---
 slug: "trm-saturation-and-brightness-differences-together"
-id: "TRM-ENG-45492"
+id: "TRM-ENG-60021"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "saturation and brightness differences together"

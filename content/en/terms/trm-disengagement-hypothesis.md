@@ -1,6 +1,6 @@
 ---
 slug: "trm-disengagement-hypothesis"
-id: "TRM-ENG-44991"
+id: "TRM-ENG-59520"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disengagement hypothesis"

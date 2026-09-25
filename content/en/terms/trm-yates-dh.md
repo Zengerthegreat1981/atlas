@@ -1,6 +1,6 @@
 ---
 slug: "trm-yates-dh"
-id: "TRM-ENG-42890"
+id: "TRM-ENG-57419"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Yates DH"

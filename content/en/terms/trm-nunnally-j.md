@@ -1,6 +1,6 @@
 ---
 slug: "trm-nunnally-j"
-id: "TRM-ENG-41856"
+id: "TRM-ENG-56385"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nunnally J"

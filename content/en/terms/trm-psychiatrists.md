@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychiatrists"
-id: "TRM-ENG-43158"
+id: "TRM-ENG-57687"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychiatrists"

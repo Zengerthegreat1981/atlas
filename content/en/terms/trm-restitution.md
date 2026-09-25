@@ -1,6 +1,6 @@
 ---
 slug: "trm-restitution"
-id: "TRM-ENG-52363"
+id: "TRM-ENG-66892"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Restitution"

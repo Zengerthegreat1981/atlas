@@ -1,6 +1,6 @@
 ---
 slug: "trm-hughlafollette2236englewoodcliffsnj"
-id: "TRM-ENG-45717"
+id: "TRM-ENG-60246"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "HughLaFollette,22–36.EnglewoodCliffs,NJ"

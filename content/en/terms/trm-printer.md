@@ -1,6 +1,6 @@
 ---
 slug: "trm-printer"
-id: "TRM-ENG-43487"
+id: "TRM-ENG-58016"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Printer"

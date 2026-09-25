@@ -1,6 +1,6 @@
 ---
 slug: "trm-iacono-wg-carlson-sr-malone-sm-et-al"
-id: "TRM-ENG-47745"
+id: "TRM-ENG-62274"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Iacono WG, Carlson SR, Malone SM, et al"

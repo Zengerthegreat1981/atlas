@@ -1,6 +1,6 @@
 ---
 slug: "trm-miller-p-r-2008-inpatient-diagnostic-assessments"
-id: "TRM-ENG-42463"
+id: "TRM-ENG-56992"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Miller, P. R. (2008). Inpatient diagnostic assessments"

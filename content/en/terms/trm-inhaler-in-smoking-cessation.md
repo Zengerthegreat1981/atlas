@@ -1,6 +1,6 @@
 ---
 slug: "trm-inhaler-in-smoking-cessation"
-id: "TRM-ENG-47053"
+id: "TRM-ENG-61582"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "inhaler in smoking cessation"

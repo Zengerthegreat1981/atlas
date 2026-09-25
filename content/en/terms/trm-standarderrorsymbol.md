@@ -1,6 +1,6 @@
 ---
 slug: "trm-standarderrorsymbol"
-id: "TRM-ENG-43880"
+id: "TRM-ENG-58409"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "standarderror(symbol"

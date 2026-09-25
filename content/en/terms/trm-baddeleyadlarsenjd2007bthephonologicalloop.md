@@ -1,6 +1,6 @@
 ---
 slug: "trm-baddeleyadlarsenjd2007bthephonologicalloop"
-id: "TRM-ENG-36584"
+id: "TRM-ENG-65642"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Baddeley,A.D.,&Larsen,J.D.(2007b).Thephonologicalloop"

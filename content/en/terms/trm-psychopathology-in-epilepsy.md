@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychopathology-in-epilepsy"
-id: "TRM-ENG-46676"
+id: "TRM-ENG-61205"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychopathology in epilepsy"

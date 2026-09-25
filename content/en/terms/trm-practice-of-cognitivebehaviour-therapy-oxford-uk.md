@@ -1,6 +1,6 @@
 ---
 slug: "trm-practice-of-cognitivebehaviour-therapy-oxford-uk"
-id: "TRM-ENG-49630"
+id: "TRM-ENG-64159"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "practice of cognitive-behaviour therapy. Oxford, UK"

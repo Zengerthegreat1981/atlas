@@ -1,6 +1,6 @@
 ---
 slug: "trm-dussel-enrique-1"
-id: "TRM-ENG-46531"
+id: "TRM-ENG-61060"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dussel, Enrique, 1"

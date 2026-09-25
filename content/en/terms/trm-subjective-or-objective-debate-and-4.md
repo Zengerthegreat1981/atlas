@@ -1,6 +1,6 @@
 ---
 slug: "trm-subjective-or-objective-debate-and-4"
-id: "TRM-ENG-41809"
+id: "TRM-ENG-56338"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "subjective or objective debate and, 4"

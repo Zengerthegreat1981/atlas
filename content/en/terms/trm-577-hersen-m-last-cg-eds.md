@@ -1,6 +1,6 @@
 ---
 slug: "trm-577-hersen-m-last-cg-eds"
-id: "TRM-ENG-39189"
+id: "TRM-ENG-53718"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "577. Hersen M, Last CG (eds)"

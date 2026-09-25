@@ -1,6 +1,6 @@
 ---
 slug: "trm-chiatry-126"
-id: "TRM-ENG-48239"
+id: "TRM-ENG-62768"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chiatry 126"

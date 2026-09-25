@@ -1,6 +1,6 @@
 ---
 slug: "trm-adair-jg-1973-the-human-subject"
-id: "TRM-ENG-35569"
+id: "TRM-ENG-64627"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Adair, J.G. (1973). The human subject"

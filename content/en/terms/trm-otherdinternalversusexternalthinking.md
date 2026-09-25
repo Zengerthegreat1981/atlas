@@ -1,6 +1,6 @@
 ---
 slug: "trm-otherdinternalversusexternalthinking"
-id: "TRM-ENG-43788"
+id: "TRM-ENG-58317"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "other;(d)internalversusexternalthinking"

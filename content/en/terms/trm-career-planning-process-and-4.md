@@ -1,6 +1,6 @@
 ---
 slug: "trm-career-planning-process-and-4"
-id: "TRM-ENG-39441"
+id: "TRM-ENG-53970"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "career planning process and, 4"

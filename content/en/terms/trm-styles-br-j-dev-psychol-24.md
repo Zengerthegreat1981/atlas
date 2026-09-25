@@ -1,6 +1,6 @@
 ---
 slug: "trm-styles-br-j-dev-psychol-24"
-id: "TRM-ENG-48615"
+id: "TRM-ENG-63144"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "styles. Br J Dev Psychol 24"

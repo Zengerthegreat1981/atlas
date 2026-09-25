@@ -1,6 +1,6 @@
 ---
 slug: "trm-instead-of-fostering-a-creative-mind-and-intel-causal"
-id: "TRM-ENG-46804"
+id: "TRM-ENG-61333"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Instead of fostering a creative mind and intel- causal"

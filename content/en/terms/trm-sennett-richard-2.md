@@ -1,6 +1,6 @@
 ---
 slug: "trm-sennett-richard-2"
-id: "TRM-ENG-47259"
+id: "TRM-ENG-61788"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sennett, Richard, 2"

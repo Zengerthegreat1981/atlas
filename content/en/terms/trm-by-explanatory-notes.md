@@ -1,6 +1,6 @@
 ---
 slug: "trm-by-explanatory-notes"
-id: "TRM-ENG-44036"
+id: "TRM-ENG-58565"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "by explanatory notes,"

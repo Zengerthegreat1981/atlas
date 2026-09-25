@@ -1,6 +1,6 @@
 ---
 slug: "trm-regression-and-poisson-regression"
-id: "TRM-ENG-45530"
+id: "TRM-ENG-60059"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "REGRESSION and POISSON REGRESSION"

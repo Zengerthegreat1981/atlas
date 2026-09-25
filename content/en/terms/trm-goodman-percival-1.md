@@ -1,6 +1,6 @@
 ---
 slug: "trm-goodman-percival-1"
-id: "TRM-ENG-46691"
+id: "TRM-ENG-61220"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goodman, Percival, 1"

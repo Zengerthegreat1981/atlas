@@ -1,6 +1,6 @@
 ---
 slug: "trm-wickes-f-1988-the-inner-world-of-childhood"
-id: "TRM-ENG-47485"
+id: "TRM-ENG-62014"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wickes, F. (1988). The inner world of childhood"

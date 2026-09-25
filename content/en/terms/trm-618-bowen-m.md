@@ -1,6 +1,6 @@
 ---
 slug: "trm-618-bowen-m"
-id: "TRM-ENG-39241"
+id: "TRM-ENG-53770"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "618. Bowen M"

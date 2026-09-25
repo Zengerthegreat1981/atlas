@@ -1,6 +1,6 @@
 ---
 slug: "trm-control-2"
-id: "TRM-ENG-47829"
+id: "TRM-ENG-62358"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "control, 2"

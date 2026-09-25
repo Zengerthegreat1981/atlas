@@ -1,6 +1,6 @@
 ---
 slug: "trm-associations-between-interests-and-personality"
-id: "TRM-ENG-39279"
+id: "TRM-ENG-53808"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "associations between interests and personality"

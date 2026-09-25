@@ -1,6 +1,6 @@
 ---
 slug: "trm-human-condition"
-id: "TRM-ENG-51517"
+id: "TRM-ENG-66046"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "human condition"

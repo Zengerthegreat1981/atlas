@@ -1,6 +1,6 @@
 ---
 slug: "trm-factor-model-of-personality"
-id: "TRM-ENG-40158"
+id: "TRM-ENG-54687"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "factor model of personality"

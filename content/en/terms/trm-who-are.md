@@ -1,6 +1,6 @@
 ---
 slug: "trm-who-are"
-id: "TRM-ENG-45433"
+id: "TRM-ENG-59962"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "who are"

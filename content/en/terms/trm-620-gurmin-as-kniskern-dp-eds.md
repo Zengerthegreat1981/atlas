@@ -1,6 +1,6 @@
 ---
 slug: "trm-620-gurmin-as-kniskern-dp-eds"
-id: "TRM-ENG-39244"
+id: "TRM-ENG-53773"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "620. Gurmin AS, Kniskern DP (eds)"

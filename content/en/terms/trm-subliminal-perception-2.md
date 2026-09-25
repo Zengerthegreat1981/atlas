@@ -1,6 +1,6 @@
 ---
 slug: "trm-subliminal-perception-2"
-id: "TRM-ENG-44805"
+id: "TRM-ENG-59334"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Subliminal perception , 2"

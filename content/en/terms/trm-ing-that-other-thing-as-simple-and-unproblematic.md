@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-that-other-thing-as-simple-and-unproblematic"
-id: "TRM-ENG-48199"
+id: "TRM-ENG-62728"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing that other thing as simple and unproblematic"

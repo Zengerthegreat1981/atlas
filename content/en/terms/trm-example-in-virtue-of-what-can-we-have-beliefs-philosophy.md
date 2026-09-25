@@ -1,6 +1,6 @@
 ---
 slug: "trm-example-in-virtue-of-what-can-we-have-beliefs-philosophy"
-id: "TRM-ENG-45111"
+id: "TRM-ENG-59640"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "example, in virtue of what can we have beliefs philosophy"

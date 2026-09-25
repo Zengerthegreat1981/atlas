@@ -1,6 +1,6 @@
 ---
 slug: "trm-linton-te"
-id: "TRM-ENG-41478"
+id: "TRM-ENG-56007"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Linton TE"

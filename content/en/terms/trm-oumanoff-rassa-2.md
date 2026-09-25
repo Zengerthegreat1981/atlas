@@ -1,6 +1,6 @@
 ---
 slug: "trm-oumanoff-rassa-2"
-id: "TRM-ENG-47087"
+id: "TRM-ENG-61616"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Oumançoff, Raïssa, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-related-receiver-operating-characteristic-curves"
-id: "TRM-ENG-36070"
+id: "TRM-ENG-65128"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "related receiver operating characteristic curves"

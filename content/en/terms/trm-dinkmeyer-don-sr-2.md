@@ -1,6 +1,6 @@
 ---
 slug: "trm-dinkmeyer-don-sr-2"
-id: "TRM-ENG-37961"
+id: "TRM-ENG-67019"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dinkmeyer, Don, Sr., 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-turner-c-conjugal-roles-and-social-networks"
-id: "TRM-ENG-44678"
+id: "TRM-ENG-59207"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Turner, C., “Conjugal Roles and Social Networks"

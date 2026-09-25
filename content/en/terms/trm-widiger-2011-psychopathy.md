@@ -1,6 +1,6 @@
 ---
 slug: "trm-widiger-2011-psychopathy"
-id: "TRM-ENG-43255"
+id: "TRM-ENG-57784"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "& Widiger, 2011; psychopathy"

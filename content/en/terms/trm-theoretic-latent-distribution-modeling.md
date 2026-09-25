@@ -1,6 +1,6 @@
 ---
 slug: "trm-theoretic-latent-distribution-modeling"
-id: "TRM-ENG-43314"
+id: "TRM-ENG-57843"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theoretic latent distribution modeling"

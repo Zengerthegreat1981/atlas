@@ -1,6 +1,6 @@
 ---
 slug: "trm-influence"
-id: "TRM-ENG-37858"
+id: "TRM-ENG-66916"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "influence"

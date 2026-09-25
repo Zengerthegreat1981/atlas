@@ -1,6 +1,6 @@
 ---
 slug: "trm-based-on-four-quantities"
-id: "TRM-ENG-35681"
+id: "TRM-ENG-64739"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "based on four quantities"

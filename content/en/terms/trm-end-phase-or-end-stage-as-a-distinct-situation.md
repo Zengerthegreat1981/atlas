@@ -1,6 +1,6 @@
 ---
 slug: "trm-end-phase-or-end-stage-as-a-distinct-situation"
-id: "TRM-ENG-35005"
+id: "TRM-ENG-64063"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "end phase or end stage as a distinct situation"

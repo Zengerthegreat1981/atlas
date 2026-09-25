@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-larger-factors"
-id: "TRM-ENG-43304"
+id: "TRM-ENG-57833"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the larger factors"

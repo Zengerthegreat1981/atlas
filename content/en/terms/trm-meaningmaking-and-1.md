@@ -1,6 +1,6 @@
 ---
 slug: "trm-meaningmaking-and-1"
-id: "TRM-ENG-40794"
+id: "TRM-ENG-55323"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "meaning-making and, 1"

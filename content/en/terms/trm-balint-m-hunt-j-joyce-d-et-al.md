@@ -1,6 +1,6 @@
 ---
 slug: "trm-balint-m-hunt-j-joyce-d-et-al"
-id: "TRM-ENG-39784"
+id: "TRM-ENG-54313"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Balint M, Hunt J, Joyce D, et al"

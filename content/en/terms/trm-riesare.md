@@ -1,6 +1,6 @@
 ---
 slug: "trm-riesare"
-id: "TRM-ENG-38227"
+id: "TRM-ENG-52756"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "riesare"

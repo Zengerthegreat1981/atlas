@@ -1,6 +1,6 @@
 ---
 slug: "trm-all-share-many-physical-features-in-common"
-id: "TRM-ENG-44883"
+id: "TRM-ENG-59412"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "all share many physical features in common"

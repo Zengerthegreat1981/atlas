@@ -1,6 +1,6 @@
 ---
 slug: "trm-herskovitsm1953franzboas"
-id: "TRM-ENG-36895"
+id: "TRM-ENG-65953"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Herskovits,M.(1953).FranzBoas"

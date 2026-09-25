@@ -1,6 +1,6 @@
 ---
 slug: "trm-h-kedward-eds-psychiatric-diagnosis-pp-124-ture"
-id: "TRM-ENG-42395"
+id: "TRM-ENG-56924"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "H. Kedward (Eds.), Psychiatric diagnosis (pp. 1–24). ture"

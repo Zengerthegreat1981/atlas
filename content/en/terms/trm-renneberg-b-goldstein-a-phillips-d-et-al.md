@@ -1,6 +1,6 @@
 ---
 slug: "trm-renneberg-b-goldstein-a-phillips-d-et-al"
-id: "TRM-ENG-48003"
+id: "TRM-ENG-62532"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Renneberg B, Goldstein A, Phillips D, et al"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-phobic-cases-all-of-whom-were-male"
-id: "TRM-ENG-46190"
+id: "TRM-ENG-60719"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "phobic cases (all of whom were male)"

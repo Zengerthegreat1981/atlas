@@ -1,6 +1,6 @@
 ---
 slug: "trm-819-schatzberg-af"
-id: "TRM-ENG-39479"
+id: "TRM-ENG-54008"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "819. Schatzberg AF"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-jung-c-1933-modern-man-in-search-of-a-soulnew-york"
-id: "TRM-ENG-38312"
+id: "TRM-ENG-52841"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jung, C. (1933). Modern man in search of a soul.New York"

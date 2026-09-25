@@ -1,6 +1,6 @@
 ---
 slug: "trm-he-once-said-to-evans"
-id: "TRM-ENG-45071"
+id: "TRM-ENG-59600"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "he once said to Evans"

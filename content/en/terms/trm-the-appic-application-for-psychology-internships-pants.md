@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-appic-application-for-psychology-internships-pants"
-id: "TRM-ENG-41875"
+id: "TRM-ENG-56404"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the APPIC Application for Psychology Internships pants"

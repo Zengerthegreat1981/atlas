@@ -1,6 +1,6 @@
 ---
 slug: "trm-sas"
-id: "TRM-ENG-35543"
+id: "TRM-ENG-64601"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "SAS"

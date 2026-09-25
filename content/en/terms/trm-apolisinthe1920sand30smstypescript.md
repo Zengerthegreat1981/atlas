@@ -1,6 +1,6 @@
 ---
 slug: "trm-apolisinthe1920sand30smstypescript"
-id: "TRM-ENG-37551"
+id: "TRM-ENG-66609"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "apolisinthe1920’sand’30s.MStypescript"

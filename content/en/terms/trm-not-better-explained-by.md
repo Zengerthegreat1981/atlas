@@ -1,6 +1,6 @@
 ---
 slug: "trm-not-better-explained-by"
-id: "TRM-ENG-49880"
+id: "TRM-ENG-64409"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "– Not better explained by"

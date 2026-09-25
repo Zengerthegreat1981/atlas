@@ -1,6 +1,6 @@
 ---
 slug: "trm-holtny"
-id: "TRM-ENG-36914"
+id: "TRM-ENG-51443"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Holt,NY"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-human-nature"
-id: "TRM-ENG-48130"
+id: "TRM-ENG-62659"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "human nature"

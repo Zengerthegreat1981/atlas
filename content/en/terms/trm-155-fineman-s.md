@@ -1,6 +1,6 @@
 ---
 slug: "trm-155-fineman-s"
-id: "TRM-ENG-38631"
+id: "TRM-ENG-53160"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "155. Fineman S"

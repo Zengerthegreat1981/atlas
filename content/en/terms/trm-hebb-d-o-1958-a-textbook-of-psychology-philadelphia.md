@@ -1,6 +1,6 @@
 ---
 slug: "trm-hebb-d-o-1958-a-textbook-of-psychology-philadelphia"
-id: "TRM-ENG-36886"
+id: "TRM-ENG-65944"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hebb, D. O. (1958). A textbook of psychology. Philadelphia"

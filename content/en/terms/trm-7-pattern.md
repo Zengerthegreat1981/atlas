@@ -1,6 +1,6 @@
 ---
 slug: "trm-7-pattern"
-id: "TRM-ENG-50062"
+id: "TRM-ENG-64591"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "7. Pattern"

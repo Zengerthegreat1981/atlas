@@ -1,6 +1,6 @@
 ---
 slug: "trm-lehner-gfj"
-id: "TRM-ENG-41394"
+id: "TRM-ENG-55923"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lehner GFJ"

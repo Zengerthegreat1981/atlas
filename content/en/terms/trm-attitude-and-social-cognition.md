@@ -1,6 +1,6 @@
 ---
 slug: "trm-attitude-and-social-cognition"
-id: "TRM-ENG-36579"
+id: "TRM-ENG-51108"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Attitude and social cognition"

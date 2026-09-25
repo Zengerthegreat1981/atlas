@@ -1,6 +1,6 @@
 ---
 slug: "trm-be-conceived-or-defined"
-id: "TRM-ENG-47681"
+id: "TRM-ENG-62210"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "be conceived or defined"

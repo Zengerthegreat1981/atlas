@@ -1,6 +1,6 @@
 ---
 slug: "trm-corticalinjury"
-id: "TRM-ENG-46922"
+id: "TRM-ENG-61451"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "corticalinjury"

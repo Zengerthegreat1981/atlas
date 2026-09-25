@@ -1,6 +1,6 @@
 ---
 slug: "trm-students-rights-2"
-id: "TRM-ENG-48770"
+id: "TRM-ENG-63299"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "students’ rights, 2"

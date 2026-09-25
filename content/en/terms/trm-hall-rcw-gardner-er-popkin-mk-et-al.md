@@ -1,6 +1,6 @@
 ---
 slug: "trm-hall-rcw-gardner-er-popkin-mk-et-al"
-id: "TRM-ENG-40886"
+id: "TRM-ENG-55415"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hall RCW, Gardner ER, Popkin MK, et al"

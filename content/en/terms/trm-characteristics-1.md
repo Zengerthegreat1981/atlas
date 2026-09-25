@@ -1,6 +1,6 @@
 ---
 slug: "trm-characteristics-1"
-id: "TRM-ENG-44995"
+id: "TRM-ENG-59524"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "characteristics, 1"

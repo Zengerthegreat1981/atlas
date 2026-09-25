@@ -1,6 +1,6 @@
 ---
 slug: "trm-from-the-couch-to-the-lab"
-id: "TRM-ENG-50442"
+id: "TRM-ENG-64971"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "From the couch to the lab"

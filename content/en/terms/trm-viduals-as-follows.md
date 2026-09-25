@@ -1,6 +1,6 @@
 ---
 slug: "trm-viduals-as-follows"
-id: "TRM-ENG-45614"
+id: "TRM-ENG-60143"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "viduals as follows"

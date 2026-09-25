@@ -1,6 +1,6 @@
 ---
 slug: "trm-informationintheuseofdonorgametes"
-id: "TRM-ENG-47050"
+id: "TRM-ENG-61579"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "informationintheuseofdonorgametes"

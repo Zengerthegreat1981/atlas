@@ -1,6 +1,6 @@
 ---
 slug: "trm-herder-johann-gottfried-von-1"
-id: "TRM-ENG-46758"
+id: "TRM-ENG-61287"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Herder, Johann Gottfried von, 1"

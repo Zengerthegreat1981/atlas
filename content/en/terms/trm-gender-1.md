@@ -1,6 +1,6 @@
 ---
 slug: "trm-gender-1"
-id: "TRM-ENG-48065"
+id: "TRM-ENG-62594"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "gender, 1"

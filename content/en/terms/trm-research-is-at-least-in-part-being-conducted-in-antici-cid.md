@@ -1,6 +1,6 @@
 ---
 slug: "trm-research-is-at-least-in-part-being-conducted-in-antici-cid"
-id: "TRM-ENG-46206"
+id: "TRM-ENG-60735"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "research is at least in part being conducted in antici- (cid"

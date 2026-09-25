@@ -1,6 +1,6 @@
 ---
 slug: "trm-costa-p-mccrae-r"
-id: "TRM-ENG-47579"
+id: "TRM-ENG-62108"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Costa P, McCrae R"

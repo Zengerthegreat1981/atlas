@@ -1,6 +1,6 @@
 ---
 slug: "trm-atascadero-ca"
-id: "TRM-ENG-37646"
+id: "TRM-ENG-66704"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Atascadero, CA"

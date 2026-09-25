@@ -1,6 +1,6 @@
 ---
 slug: "trm-styles-and-2"
-id: "TRM-ENG-41807"
+id: "TRM-ENG-56336"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "styles and, 2"

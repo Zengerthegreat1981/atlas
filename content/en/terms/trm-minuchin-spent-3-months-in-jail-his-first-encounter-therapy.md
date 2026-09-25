@@ -1,6 +1,6 @@
 ---
 slug: "trm-minuchin-spent-3-months-in-jail-his-first-encounter-therapy"
-id: "TRM-ENG-50747"
+id: "TRM-ENG-65276"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Minuchin spent 3 months in jail, his first encounter Therapy"

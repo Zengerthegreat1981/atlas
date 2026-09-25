@@ -1,6 +1,6 @@
 ---
 slug: "trm-bestiality"
-id: "TRM-ENG-52079"
+id: "TRM-ENG-66608"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bestiality"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-9-sex"
-id: "TRM-ENG-36284"
+id: "TRM-ENG-65342"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(9) Sex"

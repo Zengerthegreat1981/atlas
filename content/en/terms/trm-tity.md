@@ -1,6 +1,6 @@
 ---
 slug: "trm-tity"
-id: "TRM-ENG-37199"
+id: "TRM-ENG-66257"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tity"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-minds-in-society"
-id: "TRM-ENG-35842"
+id: "TRM-ENG-50371"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Minds in society"

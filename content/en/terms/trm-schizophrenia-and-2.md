@@ -1,6 +1,6 @@
 ---
 slug: "trm-schizophrenia-and-2"
-id: "TRM-ENG-41562"
+id: "TRM-ENG-56091"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "schizophrenia and, 2"

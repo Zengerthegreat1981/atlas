@@ -1,6 +1,6 @@
 ---
 slug: "trm-duncans-socioeconomic-index-3"
-id: "TRM-ENG-37984"
+id: "TRM-ENG-52513"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Duncan’s Socioeconomic Index, 3"

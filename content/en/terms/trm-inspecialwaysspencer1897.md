@@ -1,6 +1,6 @@
 ---
 slug: "trm-inspecialwaysspencer1897"
-id: "TRM-ENG-37869"
+id: "TRM-ENG-66927"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "inspecialways”(Spencer1897"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-facilitative-conditions-and-2"
-id: "TRM-ENG-40157"
+id: "TRM-ENG-54686"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "facilitative conditions and, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-zarit-sh-zarit-jm-1998-mental-disorders-in-older-adults"
-id: "TRM-ENG-36069"
+id: "TRM-ENG-65127"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Zarit, S.H., & Zarit, J.M. (1998). Mental disorders in older adults"

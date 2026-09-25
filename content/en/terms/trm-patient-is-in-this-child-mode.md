@@ -1,6 +1,6 @@
 ---
 slug: "trm-patient-is-in-this-child-mode"
-id: "TRM-ENG-44163"
+id: "TRM-ENG-58692"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "patient is in this child mode"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-treatment-of-pd"
-id: "TRM-ENG-42561"
+id: "TRM-ENG-57090"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Treatment of PD"

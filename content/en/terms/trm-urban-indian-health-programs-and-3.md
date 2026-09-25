@@ -1,6 +1,6 @@
 ---
 slug: "trm-urban-indian-health-programs-and-3"
-id: "TRM-ENG-38961"
+id: "TRM-ENG-53490"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Urban Indian Health Programs and, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-asch-effect"
-id: "TRM-ENG-52060"
+id: "TRM-ENG-66589"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Asch effect"

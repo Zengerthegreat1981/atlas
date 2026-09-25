@@ -1,6 +1,6 @@
 ---
 slug: "trm-center-consists-of-four-fundamental-operations"
-id: "TRM-ENG-36247"
+id: "TRM-ENG-50776"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "center) consists of four fundamental operations"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-mills-j-a-1998-control"
-id: "TRM-ENG-37082"
+id: "TRM-ENG-66140"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mills, J. A. (1998). Control"

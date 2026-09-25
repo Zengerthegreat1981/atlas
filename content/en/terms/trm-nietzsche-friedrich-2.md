@@ -1,6 +1,6 @@
 ---
 slug: "trm-nietzsche-friedrich-2"
-id: "TRM-ENG-47066"
+id: "TRM-ENG-61595"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nietzsche, Friedrich, 2"

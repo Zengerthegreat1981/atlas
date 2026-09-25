@@ -1,6 +1,6 @@
 ---
 slug: "trm-barber-t-x-death-by-suggestion"
-id: "TRM-ENG-44270"
+id: "TRM-ENG-58799"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Barber, T. X., “Death by Suggestion"

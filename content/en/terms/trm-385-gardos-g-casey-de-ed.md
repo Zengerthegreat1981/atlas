@@ -1,6 +1,6 @@
 ---
 slug: "trm-385-gardos-g-casey-de-ed"
-id: "TRM-ENG-38955"
+id: "TRM-ENG-53484"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "385. Gardos G, Casey DE (ed)"

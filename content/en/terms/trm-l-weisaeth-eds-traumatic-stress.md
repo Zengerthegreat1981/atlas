@@ -1,6 +1,6 @@
 ---
 slug: "trm-l-weisaeth-eds-traumatic-stress"
-id: "TRM-ENG-49887"
+id: "TRM-ENG-64416"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "& L. Weisaeth (Eds.), Traumatic stress"

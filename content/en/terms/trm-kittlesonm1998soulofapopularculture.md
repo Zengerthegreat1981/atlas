@@ -1,6 +1,6 @@
 ---
 slug: "trm-kittlesonm1998soulofapopularculture"
-id: "TRM-ENG-36997"
+id: "TRM-ENG-51526"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kittleson,M.(1998).SoulofaPopularCulture"

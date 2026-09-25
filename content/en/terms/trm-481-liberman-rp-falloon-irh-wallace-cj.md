@@ -1,6 +1,6 @@
 ---
 slug: "trm-481-liberman-rp-falloon-irh-wallace-cj"
-id: "TRM-ENG-39075"
+id: "TRM-ENG-53604"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "481. Liberman RP, Falloon IRH, Wallace CJ"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-forensic-psychologists"
-id: "TRM-ENG-35671"
+id: "TRM-ENG-64729"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "FORENSIC PSYCHOLOGISTS"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-religious-coping-and-2"
-id: "TRM-ENG-41494"
+id: "TRM-ENG-56023"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "religious coping and, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-zahnwaxler-and-her-colleagues-1992-noted-a-tion"
-id: "TRM-ENG-34827"
+id: "TRM-ENG-63885"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Zahn-Waxler and her colleagues (1992) noted a tion"

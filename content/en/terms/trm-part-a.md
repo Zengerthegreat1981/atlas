@@ -1,6 +1,6 @@
 ---
 slug: "trm-part-a"
-id: "TRM-ENG-34561"
+id: "TRM-ENG-49090"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Part A"

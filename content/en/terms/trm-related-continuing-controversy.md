@@ -1,6 +1,6 @@
 ---
 slug: "trm-related-continuing-controversy"
-id: "TRM-ENG-41467"
+id: "TRM-ENG-55996"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "related continuing controversy"

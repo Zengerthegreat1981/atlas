@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-systemic-therapies-264-4458-doi"
-id: "TRM-ENG-51638"
+id: "TRM-ENG-66167"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of Systemic Therapies, 26(4), 44–58. doi"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-landis-c"
-id: "TRM-ENG-41356"
+id: "TRM-ENG-55885"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Landis C"

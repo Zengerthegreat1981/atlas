@@ -1,6 +1,6 @@
 ---
 slug: "trm-tradition-with-three-primal-elements"
-id: "TRM-ENG-41996"
+id: "TRM-ENG-56525"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tradition, with three primal elements"

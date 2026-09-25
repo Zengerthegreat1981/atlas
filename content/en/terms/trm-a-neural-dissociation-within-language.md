@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-neural-dissociation-within-language"
-id: "TRM-ENG-44280"
+id: "TRM-ENG-58809"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "A neural dissociation within language"

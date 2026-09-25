@@ -1,6 +1,6 @@
 ---
 slug: "trm-nock-mk-prinstein-mj"
-id: "TRM-ENG-47903"
+id: "TRM-ENG-62432"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nock MK, Prinstein MJ"

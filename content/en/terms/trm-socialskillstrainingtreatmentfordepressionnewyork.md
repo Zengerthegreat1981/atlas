@@ -1,6 +1,6 @@
 ---
 slug: "trm-socialskillstrainingtreatmentfordepressionnewyork"
-id: "TRM-ENG-49181"
+id: "TRM-ENG-63710"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Socialskillstrainingtreatmentfordepression.NewYork"

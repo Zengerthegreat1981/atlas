@@ -1,6 +1,6 @@
 ---
 slug: "trm-hendin-h-haas-ap-singer-p-gold-r-et-al"
-id: "TRM-ENG-40969"
+id: "TRM-ENG-55498"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hendin H, Haas AP, Singer P. Gold R, et al"

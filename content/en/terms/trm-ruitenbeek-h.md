@@ -1,6 +1,6 @@
 ---
 slug: "trm-ruitenbeek-h"
-id: "TRM-ENG-42201"
+id: "TRM-ENG-56730"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ruitenbeek H"

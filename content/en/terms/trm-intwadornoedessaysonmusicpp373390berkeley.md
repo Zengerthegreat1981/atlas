@@ -1,6 +1,6 @@
 ---
 slug: "trm-intwadornoedessaysonmusicpp373390berkeley"
-id: "TRM-ENG-36946"
+id: "TRM-ENG-66004"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "InT.W.Adorno(Ed.),Essaysonmusic(pp.373–390).Berkeley"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-azima-h"
-id: "TRM-ENG-39755"
+id: "TRM-ENG-54284"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Azima H"

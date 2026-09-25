@@ -1,6 +1,6 @@
 ---
 slug: "trm-examples-of-the-instruction-set-are"
-id: "TRM-ENG-43471"
+id: "TRM-ENG-58000"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Examples of the instruction set are"

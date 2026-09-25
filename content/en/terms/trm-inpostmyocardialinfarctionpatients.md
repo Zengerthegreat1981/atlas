@@ -1,6 +1,6 @@
 ---
 slug: "trm-inpostmyocardialinfarctionpatients"
-id: "TRM-ENG-47057"
+id: "TRM-ENG-61586"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "inpostmyocardialinfarctionpatients"

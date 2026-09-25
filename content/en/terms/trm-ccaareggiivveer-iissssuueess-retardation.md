@@ -1,6 +1,6 @@
 ---
 slug: "trm-ccaareggiivveer-iissssuueess-retardation"
-id: "TRM-ENG-37753"
+id: "TRM-ENG-52282"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "CCaareggiivveer IIssssuueess retardation"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-no-easy-answers"
-id: "TRM-ENG-41846"
+id: "TRM-ENG-56375"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "No Easy Answers"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-coma-vigil"
-id: "TRM-ENG-52108"
+id: "TRM-ENG-66637"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Coma vigil"

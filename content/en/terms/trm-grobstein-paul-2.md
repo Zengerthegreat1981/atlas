@@ -1,6 +1,6 @@
 ---
 slug: "trm-grobstein-paul-2"
-id: "TRM-ENG-38129"
+id: "TRM-ENG-52658"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Grobstein, Paul, 2"

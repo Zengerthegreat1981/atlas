@@ -1,6 +1,6 @@
 ---
 slug: "trm-authoritative-parents-who-asks-questions-to-better-un-ternalization"
-id: "TRM-ENG-34889"
+id: "TRM-ENG-63947"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "authoritative parents who asks questions to better un- ternalization"

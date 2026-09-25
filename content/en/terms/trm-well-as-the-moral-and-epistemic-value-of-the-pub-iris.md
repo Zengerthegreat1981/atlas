@@ -1,6 +1,6 @@
 ---
 slug: "trm-well-as-the-moral-and-epistemic-value-of-the-pub-iris"
-id: "TRM-ENG-49034"
+id: "TRM-ENG-63563"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "well as the moral and epistemic value of the pub- Iris"

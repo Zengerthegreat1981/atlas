@@ -1,6 +1,6 @@
 ---
 slug: "trm-volition-and-value"
-id: "TRM-ENG-44842"
+id: "TRM-ENG-59371"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, “Volition and Value"

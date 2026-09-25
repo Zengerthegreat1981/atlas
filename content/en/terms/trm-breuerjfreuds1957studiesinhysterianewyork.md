@@ -1,6 +1,6 @@
 ---
 slug: "trm-breuerjfreuds1957studiesinhysterianewyork"
-id: "TRM-ENG-36650"
+id: "TRM-ENG-51179"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Breuer,J.&Freud,S.(1957).StudiesinhysteriaNewYork"

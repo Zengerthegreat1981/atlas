@@ -1,6 +1,6 @@
 ---
 slug: "trm-taining-knowledge"
-id: "TRM-ENG-37058"
+id: "TRM-ENG-66116"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "taining knowledge"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-first-is-practical"
-id: "TRM-ENG-35589"
+id: "TRM-ENG-50118"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The first is practical"

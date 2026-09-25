@@ -1,6 +1,6 @@
 ---
 slug: "trm-ripoll-lh"
-id: "TRM-ENG-48017"
+id: "TRM-ENG-62546"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ripoll LH"

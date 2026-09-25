@@ -1,6 +1,6 @@
 ---
 slug: "trm-california-dialogue"
-id: "TRM-ENG-43252"
+id: "TRM-ENG-57781"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“California Dialogue"

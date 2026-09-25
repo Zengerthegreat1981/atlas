@@ -1,6 +1,6 @@
 ---
 slug: "trm-sue-is-this"
-id: "TRM-ENG-37044"
+id: "TRM-ENG-51573"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sue is this"

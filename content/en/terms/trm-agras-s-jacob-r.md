@@ -1,6 +1,6 @@
 ---
 slug: "trm-agras-s-jacob-r"
-id: "TRM-ENG-39648"
+id: "TRM-ENG-54177"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Agras S, Jacob R"

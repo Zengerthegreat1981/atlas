@@ -1,6 +1,6 @@
 ---
 slug: "trm-kant-o"
-id: "TRM-ENG-41184"
+id: "TRM-ENG-55713"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kant O"

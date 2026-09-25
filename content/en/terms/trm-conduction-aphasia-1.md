@@ -1,6 +1,6 @@
 ---
 slug: "trm-conduction-aphasia-1"
-id: "TRM-ENG-44396"
+id: "TRM-ENG-58925"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Conduction aphasia , 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-rogers-c-1951-clientcentered-therapy-boston"
-id: "TRM-ENG-35927"
+id: "TRM-ENG-64985"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rogers, C. (1951). Client-centered therapy. Boston"

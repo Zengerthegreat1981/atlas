@@ -1,6 +1,6 @@
 ---
 slug: "trm-commodification-1"
-id: "TRM-ENG-46432"
+id: "TRM-ENG-60961"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Commodification, 1"

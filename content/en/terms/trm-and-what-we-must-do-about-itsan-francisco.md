@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-what-we-must-do-about-itsan-francisco"
-id: "TRM-ENG-39199"
+id: "TRM-ENG-53728"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and what we must do about it.San Francisco"

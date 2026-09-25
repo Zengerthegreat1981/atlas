@@ -1,6 +1,6 @@
 ---
 slug: "trm-icalploy"
-id: "TRM-ENG-45922"
+id: "TRM-ENG-60451"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "icalploy"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-3-genomics"
-id: "TRM-ENG-49910"
+id: "TRM-ENG-64439"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(3) genomics"

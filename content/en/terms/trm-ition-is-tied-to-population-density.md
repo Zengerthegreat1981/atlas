@@ -1,6 +1,6 @@
 ---
 slug: "trm-ition-is-tied-to-population-density"
-id: "TRM-ENG-40657"
+id: "TRM-ENG-55186"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ition is tied to population density"

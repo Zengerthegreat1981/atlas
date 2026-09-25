@@ -1,6 +1,6 @@
 ---
 slug: "trm-research-114-193227-doi"
-id: "TRM-ENG-50952"
+id: "TRM-ENG-65481"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Research, 114, 193–227. doi"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-clark-pn"
-id: "TRM-ENG-40188"
+id: "TRM-ENG-54717"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Clark PN"

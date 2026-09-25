@@ -1,6 +1,6 @@
 ---
 slug: "trm-brill-aa"
-id: "TRM-ENG-40031"
+id: "TRM-ENG-54560"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brill AA"

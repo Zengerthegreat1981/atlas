@@ -1,6 +1,6 @@
 ---
 slug: "trm-ponentshaveincluded"
-id: "TRM-ENG-47201"
+id: "TRM-ENG-61730"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ponentshaveincluded"

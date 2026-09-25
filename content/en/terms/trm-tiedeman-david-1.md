@@ -1,6 +1,6 @@
 ---
 slug: "trm-tiedeman-david-1"
-id: "TRM-ENG-38925"
+id: "TRM-ENG-53454"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tiedeman, David, 1"

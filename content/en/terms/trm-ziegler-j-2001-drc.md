@@ -1,6 +1,6 @@
 ---
 slug: "trm-ziegler-j-2001-drc"
-id: "TRM-ENG-44855"
+id: "TRM-ENG-59384"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ziegler, J. (2001). DRC"

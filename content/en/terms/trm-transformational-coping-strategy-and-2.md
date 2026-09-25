@@ -1,6 +1,6 @@
 ---
 slug: "trm-transformational-coping-strategy-and-2"
-id: "TRM-ENG-42026"
+id: "TRM-ENG-56555"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "transformational coping strategy and, 2"

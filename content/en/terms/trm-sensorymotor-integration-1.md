@@ -1,6 +1,6 @@
 ---
 slug: "trm-sensorymotor-integration-1"
-id: "TRM-ENG-44756"
+id: "TRM-ENG-59285"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sensory-motor integration, 1"

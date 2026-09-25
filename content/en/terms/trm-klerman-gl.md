@@ -1,6 +1,6 @@
 ---
 slug: "trm-klerman-gl"
-id: "TRM-ENG-41264"
+id: "TRM-ENG-55793"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Klerman GL"

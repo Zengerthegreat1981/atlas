@@ -1,6 +1,6 @@
 ---
 slug: "trm-step-3"
-id: "TRM-ENG-38819"
+id: "TRM-ENG-53348"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Step 3"

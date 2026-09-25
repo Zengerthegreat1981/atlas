@@ -1,6 +1,6 @@
 ---
 slug: "trm-personality-styles"
-id: "TRM-ENG-44166"
+id: "TRM-ENG-58695"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "personality styles)"

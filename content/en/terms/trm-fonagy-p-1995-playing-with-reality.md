@@ -1,6 +1,6 @@
 ---
 slug: "trm-fonagy-p-1995-playing-with-reality"
-id: "TRM-ENG-48987"
+id: "TRM-ENG-63516"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fonagy, P. (1995). Playing with reality"

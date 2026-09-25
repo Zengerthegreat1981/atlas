@@ -1,6 +1,6 @@
 ---
 slug: "trm-underdiagnosisoverdiagnosis-and-2"
-id: "TRM-ENG-42072"
+id: "TRM-ENG-56601"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "underdiagnosis/overdiagnosis and, 2"

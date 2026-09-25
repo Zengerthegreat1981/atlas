@@ -1,6 +1,6 @@
 ---
 slug: "trm-anorexia-nervosa-and-bulimia"
-id: "TRM-ENG-39703"
+id: "TRM-ENG-54232"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Anorexia Nervosa and Bulimia"

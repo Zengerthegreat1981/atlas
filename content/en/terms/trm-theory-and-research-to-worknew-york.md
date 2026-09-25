@@ -1,6 +1,6 @@
 ---
 slug: "trm-theory-and-research-to-worknew-york"
-id: "TRM-ENG-41917"
+id: "TRM-ENG-56446"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theory and research to work.New York"

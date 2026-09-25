@@ -1,6 +1,6 @@
 ---
 slug: "trm-professional-training-bias-3"
-id: "TRM-ENG-41306"
+id: "TRM-ENG-55835"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "professional training bias, 3"

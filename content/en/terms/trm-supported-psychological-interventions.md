@@ -1,6 +1,6 @@
 ---
 slug: "trm-supported-psychological-interventions"
-id: "TRM-ENG-43850"
+id: "TRM-ENG-58379"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "supported psychological interventions"

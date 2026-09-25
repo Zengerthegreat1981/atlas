@@ -1,6 +1,6 @@
 ---
 slug: "trm-should-be"
-id: "TRM-ENG-36117"
+id: "TRM-ENG-65175"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "should be"

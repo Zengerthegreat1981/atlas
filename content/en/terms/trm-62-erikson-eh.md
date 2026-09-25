@@ -1,6 +1,6 @@
 ---
 slug: "trm-62-erikson-eh"
-id: "TRM-ENG-39243"
+id: "TRM-ENG-53772"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "62. Erikson EH"

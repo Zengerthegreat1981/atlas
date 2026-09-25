@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-systems-theory-2"
-id: "TRM-ENG-48732"
+id: "TRM-ENG-63261"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social systems theory, 2"

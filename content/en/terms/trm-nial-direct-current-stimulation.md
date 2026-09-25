@@ -1,6 +1,6 @@
 ---
 slug: "trm-nial-direct-current-stimulation"
-id: "TRM-ENG-35969"
+id: "TRM-ENG-50498"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nial direct current stimulation"

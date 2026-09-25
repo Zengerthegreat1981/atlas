@@ -1,6 +1,6 @@
 ---
 slug: "trm-wood-a-w-2005-kant-malden-ma"
-id: "TRM-ENG-47507"
+id: "TRM-ENG-62036"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wood, A. W. (2005). Kant. Malden, MA"

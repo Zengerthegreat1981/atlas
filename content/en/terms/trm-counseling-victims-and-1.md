@@ -1,6 +1,6 @@
 ---
 slug: "trm-counseling-victims-and-1"
-id: "TRM-ENG-39750"
+id: "TRM-ENG-54279"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "counseling victims and, 1"

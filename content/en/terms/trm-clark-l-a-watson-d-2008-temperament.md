@@ -1,6 +1,6 @@
 ---
 slug: "trm-clark-l-a-watson-d-2008-temperament"
-id: "TRM-ENG-42352"
+id: "TRM-ENG-56881"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Clark, L. A., & Watson, D. (2008). Temperament"

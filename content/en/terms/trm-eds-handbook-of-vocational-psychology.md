@@ -1,6 +1,6 @@
 ---
 slug: "trm-eds-handbook-of-vocational-psychology"
-id: "TRM-ENG-37390"
+id: "TRM-ENG-66448"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Eds.), Handbook of vocational psychology"

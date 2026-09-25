@@ -1,6 +1,6 @@
 ---
 slug: "trm-alberti-re-emmons-ml"
-id: "TRM-ENG-39655"
+id: "TRM-ENG-54184"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Alberti RE, Emmons ML"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-problems-blamed-on-overweight-may-be-caused-by-diet-internalize"
-id: "TRM-ENG-35260"
+id: "TRM-ENG-64318"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "problems blamed on overweight may be caused by diet- internalize"

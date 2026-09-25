@@ -1,6 +1,6 @@
 ---
 slug: "trm-bias-and-3"
-id: "TRM-ENG-39363"
+id: "TRM-ENG-53892"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bias and, 3"

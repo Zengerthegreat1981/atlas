@@ -1,6 +1,6 @@
 ---
 slug: "trm-eysenckmw1992anxiety"
-id: "TRM-ENG-48976"
+id: "TRM-ENG-63505"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Eysenck,M.W.(1992).Anxiety"

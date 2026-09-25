@@ -1,6 +1,6 @@
 ---
 slug: "trm-cialization-homanri-1961"
-id: "TRM-ENG-34937"
+id: "TRM-ENG-63995"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cialization (Homanri, 1961"

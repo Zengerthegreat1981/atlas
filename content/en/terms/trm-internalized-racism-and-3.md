@@ -1,6 +1,6 @@
 ---
 slug: "trm-internalized-racism-and-3"
-id: "TRM-ENG-40609"
+id: "TRM-ENG-55138"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "internalized racism and, 3"

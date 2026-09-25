@@ -1,6 +1,6 @@
 ---
 slug: "trm-dorfman-b-i-and-shipley-b-a-androgens"
-id: "TRM-ENG-44356"
+id: "TRM-ENG-58885"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dorfman, B. I., and Shipley, B. A., Androgens"

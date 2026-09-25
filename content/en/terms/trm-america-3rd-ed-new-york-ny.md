@@ -1,6 +1,6 @@
 ---
 slug: "trm-america-3rd-ed-new-york-ny"
-id: "TRM-ENG-46224"
+id: "TRM-ENG-60753"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "America (3rd ed.). New York, NY"

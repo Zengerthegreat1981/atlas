@@ -1,6 +1,6 @@
 ---
 slug: "trm-cobbm2002exorcizingtheanimalspirits"
-id: "TRM-ENG-36701"
+id: "TRM-ENG-65759"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cobb,M.(2002).Exorcizingtheanimalspirits"

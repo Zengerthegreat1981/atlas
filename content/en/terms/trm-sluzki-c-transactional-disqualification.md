@@ -1,6 +1,6 @@
 ---
 slug: "trm-sluzki-c-transactional-disqualification"
-id: "TRM-ENG-44635"
+id: "TRM-ENG-59164"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sluzki, C., “Transactional Disqualification"

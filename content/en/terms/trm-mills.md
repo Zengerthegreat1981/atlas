@@ -1,6 +1,6 @@
 ---
 slug: "trm-mills"
-id: "TRM-ENG-46997"
+id: "TRM-ENG-61526"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mills"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-v-e-f-2-try-it-for-a-cube"
-id: "TRM-ENG-47441"
+id: "TRM-ENG-61970"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "V − E + F = 2 (try it for a cube"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-teaching-in-the-addictions-51-317-doi"
-id: "TRM-ENG-51086"
+id: "TRM-ENG-65615"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Teaching in the Addictions, 5(1), 3–17. doi"

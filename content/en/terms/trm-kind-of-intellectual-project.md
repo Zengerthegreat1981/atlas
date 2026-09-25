@@ -1,6 +1,6 @@
 ---
 slug: "trm-kind-of-intellectual-project"
-id: "TRM-ENG-48249"
+id: "TRM-ENG-62778"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "kind of intellectual project"

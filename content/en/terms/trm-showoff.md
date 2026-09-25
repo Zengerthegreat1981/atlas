@@ -1,6 +1,6 @@
 ---
 slug: "trm-showoff"
-id: "TRM-ENG-44021"
+id: "TRM-ENG-58550"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Show-off"

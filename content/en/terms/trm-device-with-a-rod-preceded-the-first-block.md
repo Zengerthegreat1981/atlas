@@ -1,6 +1,6 @@
 ---
 slug: "trm-device-with-a-rod-preceded-the-first-block"
-id: "TRM-ENG-34975"
+id: "TRM-ENG-64033"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "device with a rod preceded the first block"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-which-they-occur"
-id: "TRM-ENG-35458"
+id: "TRM-ENG-49987"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "which they occur"

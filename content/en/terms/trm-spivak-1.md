@@ -1,6 +1,6 @@
 ---
 slug: "trm-spivak-1"
-id: "TRM-ENG-47324"
+id: "TRM-ENG-61853"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spivak, 1"

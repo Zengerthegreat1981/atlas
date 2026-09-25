@@ -1,6 +1,6 @@
 ---
 slug: "trm-trosensory"
-id: "TRM-ENG-37237"
+id: "TRM-ENG-51766"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "trosensory)"

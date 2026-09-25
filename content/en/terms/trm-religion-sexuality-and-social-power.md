@@ -1,6 +1,6 @@
 ---
 slug: "trm-religion-sexuality-and-social-power"
-id: "TRM-ENG-45770"
+id: "TRM-ENG-60299"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "RELIGION, sexuality, and social POWER"

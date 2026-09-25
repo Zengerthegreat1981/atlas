@@ -1,6 +1,6 @@
 ---
 slug: "trm-klein-g-s-consciousness-in-psychoanalytic-theory"
-id: "TRM-ENG-44474"
+id: "TRM-ENG-59003"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Klein, G. S., “Consciousness in Psychoanalytic Theory"

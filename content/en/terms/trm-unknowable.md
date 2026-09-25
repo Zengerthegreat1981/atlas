@@ -1,6 +1,6 @@
 ---
 slug: "trm-unknowable"
-id: "TRM-ENG-43961"
+id: "TRM-ENG-58490"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "unknowable"

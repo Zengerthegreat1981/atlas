@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognition"
-id: "TRM-ENG-35627"
+id: "TRM-ENG-64685"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cognition"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-sure-in-the-duct-that-affect-the-opening-of-the-pores-in-the-proposition-3"
-id: "TRM-ENG-37051"
+id: "TRM-ENG-66109"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sure in the duct that affect the opening of the pores in the Proposition 3"

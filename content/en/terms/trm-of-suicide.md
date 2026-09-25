@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-suicide"
-id: "TRM-ENG-34966"
+id: "TRM-ENG-49495"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of suicide"

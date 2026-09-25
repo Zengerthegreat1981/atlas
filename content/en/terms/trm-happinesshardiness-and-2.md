@@ -1,6 +1,6 @@
 ---
 slug: "trm-happinesshardiness-and-2"
-id: "TRM-ENG-40346"
+id: "TRM-ENG-54875"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "happiness/hardiness and, 2"

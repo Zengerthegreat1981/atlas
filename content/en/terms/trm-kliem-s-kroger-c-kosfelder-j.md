@@ -1,6 +1,6 @@
 ---
 slug: "trm-kliem-s-kroger-c-kosfelder-j"
-id: "TRM-ENG-47791"
+id: "TRM-ENG-62320"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kliem S, Kroger C, Kosfelder J"

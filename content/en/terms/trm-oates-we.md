@@ -1,6 +1,6 @@
 ---
 slug: "trm-oates-we"
-id: "TRM-ENG-41858"
+id: "TRM-ENG-56387"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Oates WE"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-tnnies-ferdinand-2"
-id: "TRM-ENG-47432"
+id: "TRM-ENG-61961"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tönnies, Ferdinand, 2"

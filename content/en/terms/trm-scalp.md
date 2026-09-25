@@ -1,6 +1,6 @@
 ---
 slug: "trm-scalp"
-id: "TRM-ENG-51804"
+id: "TRM-ENG-66333"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "scalp"

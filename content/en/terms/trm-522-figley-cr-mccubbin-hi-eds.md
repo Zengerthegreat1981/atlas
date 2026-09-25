@@ -1,6 +1,6 @@
 ---
 slug: "trm-522-figley-cr-mccubbin-hi-eds"
-id: "TRM-ENG-39130"
+id: "TRM-ENG-53659"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "522. Figley CR, McCubbin HI (eds)"

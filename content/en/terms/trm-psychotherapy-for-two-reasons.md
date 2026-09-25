@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychotherapy-for-two-reasons"
-id: "TRM-ENG-45261"
+id: "TRM-ENG-59790"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychotherapy, for two reasons"

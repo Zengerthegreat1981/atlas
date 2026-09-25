@@ -1,6 +1,6 @@
 ---
 slug: "trm-neurobiological"
-id: "TRM-ENG-37118"
+id: "TRM-ENG-66176"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Neurobiological"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-judgment"
-id: "TRM-ENG-43721"
+id: "TRM-ENG-58250"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "judgment"

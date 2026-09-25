@@ -1,6 +1,6 @@
 ---
 slug: "trm-arieti-s-the-intrapsychic-self"
-id: "TRM-ENG-44260"
+id: "TRM-ENG-58789"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Arieti, S., The Intrapsychic Self"

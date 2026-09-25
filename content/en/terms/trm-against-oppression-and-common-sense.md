@@ -1,6 +1,6 @@
 ---
 slug: "trm-against-oppression-and-common-sense"
-id: "TRM-ENG-47564"
+id: "TRM-ENG-62093"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "against oppression and “common sense”"

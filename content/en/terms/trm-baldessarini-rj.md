@@ -1,6 +1,6 @@
 ---
 slug: "trm-baldessarini-rj"
-id: "TRM-ENG-39778"
+id: "TRM-ENG-54307"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Baldessarini RJ"

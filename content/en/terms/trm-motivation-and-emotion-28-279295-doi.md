@@ -1,6 +1,6 @@
 ---
 slug: "trm-motivation-and-emotion-28-279295-doi"
-id: "TRM-ENG-35453"
+id: "TRM-ENG-64511"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Motivation and Emotion, 28, 279–295. doi"

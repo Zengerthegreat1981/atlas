@@ -1,6 +1,6 @@
 ---
 slug: "trm-sonality-in-dsm5"
-id: "TRM-ENG-48599"
+id: "TRM-ENG-63128"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sonality in DSM-5"

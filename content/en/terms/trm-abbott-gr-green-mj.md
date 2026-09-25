@@ -1,6 +1,6 @@
 ---
 slug: "trm-abbott-gr-green-mj"
-id: "TRM-ENG-47445"
+id: "TRM-ENG-61974"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Abbott GR, Green MJ"

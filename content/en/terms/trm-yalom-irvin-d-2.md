@@ -1,6 +1,6 @@
 ---
 slug: "trm-yalom-irvin-d-2"
-id: "TRM-ENG-39058"
+id: "TRM-ENG-53587"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Yalom, Irvin D., 2"

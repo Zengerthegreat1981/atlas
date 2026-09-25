@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-the-existing-diagnostic-categories"
-id: "TRM-ENG-42913"
+id: "TRM-ENG-57442"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing the existing diagnostic categories"

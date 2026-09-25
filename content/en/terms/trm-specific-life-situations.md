@@ -1,6 +1,6 @@
 ---
 slug: "trm-specific-life-situations"
-id: "TRM-ENG-45316"
+id: "TRM-ENG-59845"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "specific life situations"

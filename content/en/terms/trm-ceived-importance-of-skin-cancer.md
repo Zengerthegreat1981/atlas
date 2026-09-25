@@ -1,6 +1,6 @@
 ---
 slug: "trm-ceived-importance-of-skin-cancer"
-id: "TRM-ENG-35709"
+id: "TRM-ENG-64767"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ceived importance of skin cancer"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-becoming-culturally-competentpp-6184-new-york"
-id: "TRM-ENG-39321"
+id: "TRM-ENG-53850"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "becoming culturally competent(pp. 61–84). New York"

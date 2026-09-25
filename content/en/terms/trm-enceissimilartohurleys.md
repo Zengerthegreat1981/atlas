@@ -1,6 +1,6 @@
 ---
 slug: "trm-enceissimilartohurleys"
-id: "TRM-ENG-45888"
+id: "TRM-ENG-60417"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "enceissimilartoHurley’s"

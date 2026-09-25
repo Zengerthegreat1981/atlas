@@ -1,6 +1,6 @@
 ---
 slug: "trm-haley-j-advanced-techniques-of-hypnosis-and-therapy"
-id: "TRM-ENG-45832"
+id: "TRM-ENG-60361"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Haley, J. Advanced Techniques of Hypnosis and Therapy"

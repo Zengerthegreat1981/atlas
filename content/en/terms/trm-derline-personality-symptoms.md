@@ -1,6 +1,6 @@
 ---
 slug: "trm-derline-personality-symptoms"
-id: "TRM-ENG-43657"
+id: "TRM-ENG-58186"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "derline personality symptoms"

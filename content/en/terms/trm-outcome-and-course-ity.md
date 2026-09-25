@@ -1,6 +1,6 @@
 ---
 slug: "trm-outcome-and-course-ity"
-id: "TRM-ENG-42478"
+id: "TRM-ENG-57007"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Outcome and Course ity"

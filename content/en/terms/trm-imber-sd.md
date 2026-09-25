@@ -1,6 +1,6 @@
 ---
 slug: "trm-imber-sd"
-id: "TRM-ENG-41077"
+id: "TRM-ENG-55606"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Imber SD"

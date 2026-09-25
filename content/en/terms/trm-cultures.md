@@ -1,6 +1,6 @@
 ---
 slug: "trm-cultures"
-id: "TRM-ENG-39841"
+id: "TRM-ENG-54370"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cultures"

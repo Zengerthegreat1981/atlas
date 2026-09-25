@@ -1,6 +1,6 @@
 ---
 slug: "trm-miller-ne"
-id: "TRM-ENG-41722"
+id: "TRM-ENG-56251"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Miller NE"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-philosophical-transactions-of-the-royal-society-b"
-id: "TRM-ENG-42491"
+id: "TRM-ENG-57020"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Philosophical Transactions of the Royal Society B"

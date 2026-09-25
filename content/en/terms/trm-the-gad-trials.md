@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-gad-trials"
-id: "TRM-ENG-49742"
+id: "TRM-ENG-64271"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the GAD trials"

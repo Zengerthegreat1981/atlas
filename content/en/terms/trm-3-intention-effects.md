@@ -1,6 +1,6 @@
 ---
 slug: "trm-3-intention-effects"
-id: "TRM-ENG-45726"
+id: "TRM-ENG-60255"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "3. intention effects"

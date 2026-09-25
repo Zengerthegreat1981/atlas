@@ -1,6 +1,6 @@
 ---
 slug: "trm-theoryandpracticelondon"
-id: "TRM-ENG-49757"
+id: "TRM-ENG-64286"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theoryandpractice.London"

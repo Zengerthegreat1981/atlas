@@ -1,6 +1,6 @@
 ---
 slug: "trm-differentialfearconditioning"
-id: "TRM-ENG-49390"
+id: "TRM-ENG-63919"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "differentialªfearºconditioning"

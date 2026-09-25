@@ -1,6 +1,6 @@
 ---
 slug: "trm-protons-are-different"
-id: "TRM-ENG-35003"
+id: "TRM-ENG-64061"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "protons are different"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-rosenbaum-m-berger-m-eds"
-id: "TRM-ENG-42169"
+id: "TRM-ENG-56698"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rosenbaum M, Berger M (eds)"

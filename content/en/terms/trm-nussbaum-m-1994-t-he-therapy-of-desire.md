@@ -1,6 +1,6 @@
 ---
 slug: "trm-nussbaum-m-1994-t-he-therapy-of-desire"
-id: "TRM-ENG-44656"
+id: "TRM-ENG-59185"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nussbaum, M. (1994). T he therapy of desire"

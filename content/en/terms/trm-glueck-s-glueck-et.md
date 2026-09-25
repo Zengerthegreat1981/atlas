@@ -1,6 +1,6 @@
 ---
 slug: "trm-glueck-s-glueck-et"
-id: "TRM-ENG-40737"
+id: "TRM-ENG-55266"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Glueck S, Glueck ET"

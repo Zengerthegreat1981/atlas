@@ -1,6 +1,6 @@
 ---
 slug: "trm-schaefer-r"
-id: "TRM-ENG-42259"
+id: "TRM-ENG-56788"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schaefer R"

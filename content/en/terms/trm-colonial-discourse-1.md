@@ -1,6 +1,6 @@
 ---
 slug: "trm-colonial-discourse-1"
-id: "TRM-ENG-46425"
+id: "TRM-ENG-60954"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Colonial discourse, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-his-or-her-own-life-as-a-whole-favorably"
-id: "TRM-ENG-45174"
+id: "TRM-ENG-59703"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "his or her own life as a whole favorably”"

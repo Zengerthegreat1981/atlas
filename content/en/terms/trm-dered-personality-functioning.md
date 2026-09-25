@@ -1,6 +1,6 @@
 ---
 slug: "trm-dered-personality-functioning"
-id: "TRM-ENG-42754"
+id: "TRM-ENG-57283"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dered personality functioning"

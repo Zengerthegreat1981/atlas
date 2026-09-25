@@ -1,6 +1,6 @@
 ---
 slug: "trm-tions-can-bt"
-id: "TRM-ENG-35414"
+id: "TRM-ENG-64472"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tions can bt"

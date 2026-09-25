@@ -1,6 +1,6 @@
 ---
 slug: "trm-kirk-h-d-shared-fate"
-id: "TRM-ENG-44472"
+id: "TRM-ENG-59001"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kirk, H. D., Shared Fate"

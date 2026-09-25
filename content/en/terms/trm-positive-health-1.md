@@ -1,6 +1,6 @@
 ---
 slug: "trm-positive-health-1"
-id: "TRM-ENG-44698"
+id: "TRM-ENG-59227"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Positive health, 1"

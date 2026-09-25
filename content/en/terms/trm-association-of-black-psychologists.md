@@ -1,6 +1,6 @@
 ---
 slug: "trm-association-of-black-psychologists"
-id: "TRM-ENG-37639"
+id: "TRM-ENG-66697"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Association of Black Psychologists"

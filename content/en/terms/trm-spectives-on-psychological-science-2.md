@@ -1,6 +1,6 @@
 ---
 slug: "trm-spectives-on-psychological-science-2"
-id: "TRM-ENG-48603"
+id: "TRM-ENG-63132"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "spectives on Psychological Science 2"

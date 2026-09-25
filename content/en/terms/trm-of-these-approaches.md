@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-these-approaches"
-id: "TRM-ENG-36793"
+id: "TRM-ENG-65851"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of these approaches"

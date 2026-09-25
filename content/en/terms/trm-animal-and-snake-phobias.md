@@ -1,6 +1,6 @@
 ---
 slug: "trm-animal-and-snake-phobias"
-id: "TRM-ENG-46026"
+id: "TRM-ENG-60555"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "animal and snake phobias"

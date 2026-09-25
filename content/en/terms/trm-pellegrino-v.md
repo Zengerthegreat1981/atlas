@@ -1,6 +1,6 @@
 ---
 slug: "trm-pellegrino-v"
-id: "TRM-ENG-41953"
+id: "TRM-ENG-56482"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pellegrino V"

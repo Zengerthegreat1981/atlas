@@ -1,6 +1,6 @@
 ---
 slug: "trm-allergy"
-id: "TRM-ENG-39669"
+id: "TRM-ENG-54198"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Allergy"

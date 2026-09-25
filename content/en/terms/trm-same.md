@@ -1,6 +1,6 @@
 ---
 slug: "trm-same"
-id: "TRM-ENG-41556"
+id: "TRM-ENG-56085"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "same"

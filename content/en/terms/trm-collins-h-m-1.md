@@ -1,6 +1,6 @@
 ---
 slug: "trm-collins-h-m-1"
-id: "TRM-ENG-46422"
+id: "TRM-ENG-60951"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Collins, H. M., 1"

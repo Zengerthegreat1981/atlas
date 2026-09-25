@@ -1,6 +1,6 @@
 ---
 slug: "trm-ively-true"
-id: "TRM-ENG-36336"
+id: "TRM-ENG-65394"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ively true"

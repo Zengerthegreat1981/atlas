@@ -1,6 +1,6 @@
 ---
 slug: "trm-niquesnewyork"
-id: "TRM-ENG-38001"
+id: "TRM-ENG-52530"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "niques.NewYork"

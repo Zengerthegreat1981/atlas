@@ -1,6 +1,6 @@
 ---
 slug: "trm-points-made-here"
-id: "TRM-ENG-45246"
+id: "TRM-ENG-59775"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "points made here"

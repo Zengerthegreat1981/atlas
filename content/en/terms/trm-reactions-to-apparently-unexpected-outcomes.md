@@ -1,6 +1,6 @@
 ---
 slug: "trm-reactions-to-apparently-unexpected-outcomes"
-id: "TRM-ENG-45458"
+id: "TRM-ENG-59987"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reactions to apparently unexpected outcomes"

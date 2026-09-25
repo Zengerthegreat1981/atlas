@@ -1,6 +1,6 @@
 ---
 slug: "trm-seventy-years-ago-saul-rosenzweig-introduced-the-factors"
-id: "TRM-ENG-38758"
+id: "TRM-ENG-53287"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Seventy years ago, Saul Rosenzweig introduced the factors"

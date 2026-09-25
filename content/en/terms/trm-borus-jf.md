@@ -1,6 +1,6 @@
 ---
 slug: "trm-borus-jf"
-id: "TRM-ENG-39991"
+id: "TRM-ENG-54520"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Borus JF"

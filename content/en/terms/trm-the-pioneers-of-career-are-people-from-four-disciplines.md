@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-pioneers-of-career-are-people-from-four-disciplines"
-id: "TRM-ENG-36008"
+id: "TRM-ENG-65066"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The pioneers of career are people from four disciplines"

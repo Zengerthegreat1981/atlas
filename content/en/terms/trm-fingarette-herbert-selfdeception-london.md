@@ -1,6 +1,6 @@
 ---
 slug: "trm-fingarette-herbert-selfdeception-london"
-id: "TRM-ENG-45697"
+id: "TRM-ENG-60226"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fingarette, Herbert. Self-Deception. London"

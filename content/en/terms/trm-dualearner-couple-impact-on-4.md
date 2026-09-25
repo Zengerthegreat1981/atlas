@@ -1,6 +1,6 @@
 ---
 slug: "trm-dualearner-couple-impact-on-4"
-id: "TRM-ENG-39978"
+id: "TRM-ENG-54507"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dual-earner couple impact on, 4"

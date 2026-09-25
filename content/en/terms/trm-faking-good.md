@@ -1,6 +1,6 @@
 ---
 slug: "trm-faking-good"
-id: "TRM-ENG-43989"
+id: "TRM-ENG-58518"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Faking good"

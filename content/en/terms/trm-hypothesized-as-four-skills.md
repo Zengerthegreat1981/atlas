@@ -1,6 +1,6 @@
 ---
 slug: "trm-hypothesized-as-four-skills"
-id: "TRM-ENG-45181"
+id: "TRM-ENG-59710"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "hypothesized as four skills"

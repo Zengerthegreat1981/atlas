@@ -1,6 +1,6 @@
 ---
 slug: "trm-schut-jw-himwich-he"
-id: "TRM-ENG-42285"
+id: "TRM-ENG-56814"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schut JW, Himwich HE"

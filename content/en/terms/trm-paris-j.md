@@ -1,6 +1,6 @@
 ---
 slug: "trm-paris-j"
-id: "TRM-ENG-47930"
+id: "TRM-ENG-62459"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Paris J"

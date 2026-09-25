@@ -1,6 +1,6 @@
 ---
 slug: "trm-vasconcellow-j-kurland-aa"
-id: "TRM-ENG-42669"
+id: "TRM-ENG-57198"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Vasconcellow J, Kurland AA"

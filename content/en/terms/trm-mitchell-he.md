@@ -1,6 +1,6 @@
 ---
 slug: "trm-mitchell-he"
-id: "TRM-ENG-41745"
+id: "TRM-ENG-56274"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mitchell HE"

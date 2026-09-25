@@ -1,6 +1,6 @@
 ---
 slug: "trm-273-andreasen-nc"
-id: "TRM-ENG-38806"
+id: "TRM-ENG-53335"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "273. Andreasen NC"

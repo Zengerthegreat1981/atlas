@@ -1,6 +1,6 @@
 ---
 slug: "trm-vol-2-pp-777789-washington-dc"
-id: "TRM-ENG-42258"
+id: "TRM-ENG-56787"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Vol. 2, pp. 777–789). Washington, DC"

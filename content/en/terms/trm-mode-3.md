@@ -1,6 +1,6 @@
 ---
 slug: "trm-mode-3"
-id: "TRM-ENG-47006"
+id: "TRM-ENG-61535"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mode 3"

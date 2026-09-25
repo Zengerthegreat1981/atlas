@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavioral-medicine"
-id: "TRM-ENG-39845"
+id: "TRM-ENG-54374"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Behavioral Medicine"

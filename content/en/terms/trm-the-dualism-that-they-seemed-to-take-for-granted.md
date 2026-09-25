@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-dualism-that-they-seemed-to-take-for-granted"
-id: "TRM-ENG-48834"
+id: "TRM-ENG-63363"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the dualism that they seemed to take for granted"

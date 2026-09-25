@@ -1,6 +1,6 @@
 ---
 slug: "trm-ria-archaea"
-id: "TRM-ENG-36942"
+id: "TRM-ENG-66000"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ria (Archaea"

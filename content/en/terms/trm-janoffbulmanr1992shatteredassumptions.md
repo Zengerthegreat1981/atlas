@@ -1,6 +1,6 @@
 ---
 slug: "trm-janoffbulmanr1992shatteredassumptions"
-id: "TRM-ENG-49044"
+id: "TRM-ENG-63573"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Janoff-Bulman,R.(1992).Shatteredassumptions"

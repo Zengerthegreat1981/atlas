@@ -1,6 +1,6 @@
 ---
 slug: "trm-methods-of-1"
-id: "TRM-ENG-40846"
+id: "TRM-ENG-55375"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "methods of, 1"

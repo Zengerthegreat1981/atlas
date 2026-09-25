@@ -1,6 +1,6 @@
 ---
 slug: "trm-textbook-of-pain-pp-269280-edinburgh"
-id: "TRM-ENG-46739"
+id: "TRM-ENG-61268"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Textbook of pain (pp. 269±280). Edinburgh"

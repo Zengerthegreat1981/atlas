@@ -1,6 +1,6 @@
 ---
 slug: "trm-ily-discounted-for-theres-an-innocence-here"
-id: "TRM-ENG-48142"
+id: "TRM-ENG-62671"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ily discounted, for there’s an innocence here"

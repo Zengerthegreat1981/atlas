@@ -1,6 +1,6 @@
 ---
 slug: "trm-theirbodiesfromthemouldintendedbynaturewithavindication-of-language"
-id: "TRM-ENG-38322"
+id: "TRM-ENG-52851"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theirbodiesfromthemouldintendedbynature.Withavindication of language"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-personal-efficiency-and-the-presumed-power-of-others-havior"
-id: "TRM-ENG-36785"
+id: "TRM-ENG-65843"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of personal efficiency and the presumed power of others havior"

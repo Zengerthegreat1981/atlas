@@ -1,6 +1,6 @@
 ---
 slug: "trm-patient-satisfaction"
-id: "TRM-ENG-47186"
+id: "TRM-ENG-61715"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "patient satisfaction"

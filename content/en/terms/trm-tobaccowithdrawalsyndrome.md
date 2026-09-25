@@ -1,6 +1,6 @@
 ---
 slug: "trm-tobaccowithdrawalsyndrome"
-id: "TRM-ENG-47356"
+id: "TRM-ENG-61885"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tobaccowithdrawalsyndrome"

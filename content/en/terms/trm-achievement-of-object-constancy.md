@@ -1,6 +1,6 @@
 ---
 slug: "trm-achievement-of-object-constancy"
-id: "TRM-ENG-44857"
+id: "TRM-ENG-59386"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "achievement of object constancy"

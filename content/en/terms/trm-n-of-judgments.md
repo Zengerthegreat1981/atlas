@@ -1,6 +1,6 @@
 ---
 slug: "trm-n-of-judgments"
-id: "TRM-ENG-35959"
+id: "TRM-ENG-65017"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "n, of judgments"

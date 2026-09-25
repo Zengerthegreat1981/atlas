@@ -1,6 +1,6 @@
 ---
 slug: "trm-marks-i-m-fears-phobias-and-rituals-new-york"
-id: "TRM-ENG-45874"
+id: "TRM-ENG-60403"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Marks, I. M., Fears, Phobias and Rituals (New York"

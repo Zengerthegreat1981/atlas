@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychiatry-64-no-9-2007"
-id: "TRM-ENG-49854"
+id: "TRM-ENG-64383"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychiatry 64, no. 9 (2007)"

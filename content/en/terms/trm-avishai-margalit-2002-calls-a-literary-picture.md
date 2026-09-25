@@ -1,6 +1,6 @@
 ---
 slug: "trm-avishai-margalit-2002-calls-a-literary-picture"
-id: "TRM-ENG-46268"
+id: "TRM-ENG-60797"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Avishai Margalit (2002) calls a “literary picture”"

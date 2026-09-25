@@ -1,6 +1,6 @@
 ---
 slug: "trm-890-buss-tf-et-al"
-id: "TRM-ENG-39556"
+id: "TRM-ENG-54085"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "890. Buss TF, et al"

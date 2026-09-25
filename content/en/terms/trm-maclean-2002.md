@@ -1,6 +1,6 @@
 ---
 slug: "trm-maclean-2002"
-id: "TRM-ENG-36430"
+id: "TRM-ENG-50959"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Maclean 2002"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-cussed"
-id: "TRM-ENG-35744"
+id: "TRM-ENG-64802"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cussed"

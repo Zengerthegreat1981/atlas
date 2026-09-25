@@ -1,6 +1,6 @@
 ---
 slug: "trm-proskauer-s"
-id: "TRM-ENG-42011"
+id: "TRM-ENG-56540"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Proskauer, S"

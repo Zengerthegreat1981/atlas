@@ -1,6 +1,6 @@
 ---
 slug: "trm-absorption"
-id: "TRM-ENG-52009"
+id: "TRM-ENG-66538"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Absorption"

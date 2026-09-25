@@ -1,6 +1,6 @@
 ---
 slug: "trm-tury-philosopher"
-id: "TRM-ENG-48981"
+id: "TRM-ENG-63510"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tury philosopher"

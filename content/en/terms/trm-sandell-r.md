@@ -1,6 +1,6 @@
 ---
 slug: "trm-sandell-r"
-id: "TRM-ENG-42228"
+id: "TRM-ENG-56757"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sandell R"

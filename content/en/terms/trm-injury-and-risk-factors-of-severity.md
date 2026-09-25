@@ -1,6 +1,6 @@
 ---
 slug: "trm-injury-and-risk-factors-of-severity"
-id: "TRM-ENG-34891"
+id: "TRM-ENG-63949"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "injury and risk factors of severity"

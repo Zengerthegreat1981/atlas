@@ -1,6 +1,6 @@
 ---
 slug: "trm-larger-supportive-groups"
-id: "TRM-ENG-44131"
+id: "TRM-ENG-58660"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "larger supportive groups"

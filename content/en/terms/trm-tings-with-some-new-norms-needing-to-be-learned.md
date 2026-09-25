@@ -1,6 +1,6 @@
 ---
 slug: "trm-tings-with-some-new-norms-needing-to-be-learned"
-id: "TRM-ENG-48912"
+id: "TRM-ENG-63441"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tings, with some new norms needing to be learned"

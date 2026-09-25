@@ -1,6 +1,6 @@
 ---
 slug: "trm-across-time"
-id: "TRM-ENG-42581"
+id: "TRM-ENG-57110"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "across time"

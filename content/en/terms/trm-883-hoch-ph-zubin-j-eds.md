@@ -1,6 +1,6 @@
 ---
 slug: "trm-883-hoch-ph-zubin-j-eds"
-id: "TRM-ENG-39547"
+id: "TRM-ENG-54076"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "883. Hoch PH, Zubin J (eds)"

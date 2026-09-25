@@ -1,6 +1,6 @@
 ---
 slug: "trm-one-community-organization-or-individual-implies-de-ment"
-id: "TRM-ENG-35195"
+id: "TRM-ENG-64253"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "one community, organization, or individual implies de- ment"

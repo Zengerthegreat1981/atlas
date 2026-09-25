@@ -1,6 +1,6 @@
 ---
 slug: "trm-linguistic-inquiry-and-word-count"
-id: "TRM-ENG-35432"
+id: "TRM-ENG-64490"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Linguistic Inquiry and Word Count"

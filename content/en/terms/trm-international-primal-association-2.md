@@ -1,6 +1,6 @@
 ---
 slug: "trm-international-primal-association-2"
-id: "TRM-ENG-50577"
+id: "TRM-ENG-65106"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "International Primal Association, 2"

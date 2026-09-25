@@ -1,6 +1,6 @@
 ---
 slug: "trm-cepted-as-they-are"
-id: "TRM-ENG-36252"
+id: "TRM-ENG-65310"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cepted as they are"

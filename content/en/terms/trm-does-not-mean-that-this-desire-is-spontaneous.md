@@ -1,6 +1,6 @@
 ---
 slug: "trm-does-not-mean-that-this-desire-is-spontaneous"
-id: "TRM-ENG-47902"
+id: "TRM-ENG-62431"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "does not mean that this desire is spontaneous"

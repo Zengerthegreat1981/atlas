@@ -1,6 +1,6 @@
 ---
 slug: "trm-crises-of-the-republic-new-york"
-id: "TRM-ENG-45675"
+id: "TRM-ENG-60204"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Crises of the Republic. New York"

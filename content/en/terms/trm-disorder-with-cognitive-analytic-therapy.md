@@ -1,6 +1,6 @@
 ---
 slug: "trm-disorder-with-cognitive-analytic-therapy"
-id: "TRM-ENG-42775"
+id: "TRM-ENG-57304"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disorder with cognitive analytic therapy"

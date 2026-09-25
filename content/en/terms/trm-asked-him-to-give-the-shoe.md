@@ -1,6 +1,6 @@
 ---
 slug: "trm-asked-him-to-give-the-shoe"
-id: "TRM-ENG-44904"
+id: "TRM-ENG-59433"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "asked him to “give the shoe”"

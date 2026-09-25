@@ -1,6 +1,6 @@
 ---
 slug: "trm-is-considerable-empirical-support-is-the-arousal"
-id: "TRM-ENG-36596"
+id: "TRM-ENG-65654"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "is considerable empirical support is the Arousal"

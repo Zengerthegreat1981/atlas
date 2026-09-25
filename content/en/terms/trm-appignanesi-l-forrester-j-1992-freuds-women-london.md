@@ -1,6 +1,6 @@
 ---
 slug: "trm-appignanesi-l-forrester-j-1992-freuds-women-london"
-id: "TRM-ENG-36562"
+id: "TRM-ENG-51091"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Appignanesi, L., & Forrester, J. (1992). Freud’s women. London"

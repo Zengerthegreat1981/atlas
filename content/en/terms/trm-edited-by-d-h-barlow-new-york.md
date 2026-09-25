@@ -1,6 +1,6 @@
 ---
 slug: "trm-edited-by-d-h-barlow-new-york"
-id: "TRM-ENG-45801"
+id: "TRM-ENG-60330"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Edited by D. H. Barlow (New York"

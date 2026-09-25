@@ -1,6 +1,6 @@
 ---
 slug: "trm-stahl-michael-1"
-id: "TRM-ENG-38811"
+id: "TRM-ENG-53340"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stahl, Michael, 1"

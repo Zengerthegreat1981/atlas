@@ -1,6 +1,6 @@
 ---
 slug: "trm-efron-r"
-id: "TRM-ENG-40412"
+id: "TRM-ENG-54941"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Efron R"

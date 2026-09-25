@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-mixed-blessing"
-id: "TRM-ENG-36073"
+id: "TRM-ENG-65131"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "a mixed blessing"

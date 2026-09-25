@@ -1,6 +1,6 @@
 ---
 slug: "trm-ofprogressiverelaxationonepilepsy"
-id: "TRM-ENG-47165"
+id: "TRM-ENG-61694"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ofprogressiverelaxationonepilepsy"

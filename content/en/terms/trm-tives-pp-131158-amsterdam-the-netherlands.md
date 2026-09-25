@@ -1,6 +1,6 @@
 ---
 slug: "trm-tives-pp-131158-amsterdam-the-netherlands"
-id: "TRM-ENG-43374"
+id: "TRM-ENG-57903"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tives (pp. 131–158). Amsterdam, The Netherlands"

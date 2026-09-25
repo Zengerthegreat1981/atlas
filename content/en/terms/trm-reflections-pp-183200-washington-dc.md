@@ -1,6 +1,6 @@
 ---
 slug: "trm-reflections-pp-183200-washington-dc"
-id: "TRM-ENG-51783"
+id: "TRM-ENG-66312"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reflections (pp. 183–200). Washington, DC"

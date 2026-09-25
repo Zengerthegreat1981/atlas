@@ -1,6 +1,6 @@
 ---
 slug: "trm-odonnelljm1979theclinicalpsychologyoflightnerwitmer"
-id: "TRM-ENG-37140"
+id: "TRM-ENG-66198"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "O’Donnell,J.M.(1979).TheclinicalpsychologyofLightnerWitmer"

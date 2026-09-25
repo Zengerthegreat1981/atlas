@@ -1,6 +1,6 @@
 ---
 slug: "trm-itaa-and-2"
-id: "TRM-ENG-37403"
+id: "TRM-ENG-66461"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(ITAA) and, 2"

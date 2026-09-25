@@ -1,6 +1,6 @@
 ---
 slug: "trm-shearer-sl"
-id: "TRM-ENG-48066"
+id: "TRM-ENG-62595"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shearer SL"

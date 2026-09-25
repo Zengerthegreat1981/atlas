@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-suicide-research"
-id: "TRM-ENG-44149"
+id: "TRM-ENG-58678"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of Suicide Research"

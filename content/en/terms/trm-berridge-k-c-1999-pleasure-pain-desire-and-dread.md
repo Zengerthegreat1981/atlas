@@ -1,6 +1,6 @@
 ---
 slug: "trm-berridge-k-c-1999-pleasure-pain-desire-and-dread"
-id: "TRM-ENG-44335"
+id: "TRM-ENG-58864"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Berridge, K. C. (1999). Pleasure, pain, desire, and dread"

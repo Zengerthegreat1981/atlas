@@ -1,6 +1,6 @@
 ---
 slug: "trm-feminist-therapy1"
-id: "TRM-ENG-38068"
+id: "TRM-ENG-52597"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Feminist therapy,1"

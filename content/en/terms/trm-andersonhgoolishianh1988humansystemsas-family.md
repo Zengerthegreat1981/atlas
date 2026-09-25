@@ -1,6 +1,6 @@
 ---
 slug: "trm-andersonhgoolishianh1988humansystemsas-family"
-id: "TRM-ENG-48887"
+id: "TRM-ENG-63416"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Anderson,H.,&Goolishian,H.(1988).Humansystemsas family"

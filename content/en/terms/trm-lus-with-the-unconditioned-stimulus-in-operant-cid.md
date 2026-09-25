@@ -1,6 +1,6 @@
 ---
 slug: "trm-lus-with-the-unconditioned-stimulus-in-operant-cid"
-id: "TRM-ENG-45860"
+id: "TRM-ENG-60389"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "LUS with the UNCONDITIONED STIMULUS. In OPERANT (cid"

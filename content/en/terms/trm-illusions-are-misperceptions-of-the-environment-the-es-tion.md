@@ -1,6 +1,6 @@
 ---
 slug: "trm-illusions-are-misperceptions-of-the-environment-the-es-tion"
-id: "TRM-ENG-35761"
+id: "TRM-ENG-64819"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Illusions are misperceptions of the environment. The es- tion"

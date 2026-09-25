@@ -1,6 +1,6 @@
 ---
 slug: "trm-cheek-j-conquering-shyness-new-york"
-id: "TRM-ENG-45778"
+id: "TRM-ENG-60307"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cheek, J. Conquering Shyness. New York"

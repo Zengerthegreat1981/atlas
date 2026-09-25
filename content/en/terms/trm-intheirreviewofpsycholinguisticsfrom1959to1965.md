@@ -1,6 +1,6 @@
 ---
 slug: "trm-intheirreviewofpsycholinguisticsfrom1959to1965"
-id: "TRM-ENG-37879"
+id: "TRM-ENG-52408"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "intheirreviewofpsycholinguisticsfrom1959to1965"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-his-book-the-working-class-majority"
-id: "TRM-ENG-38219"
+id: "TRM-ENG-52748"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "In his book The Working Class Majority"

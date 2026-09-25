@@ -1,6 +1,6 @@
 ---
 slug: "trm-saintgenetactorandmartyrnewyork"
-id: "TRM-ENG-46094"
+id: "TRM-ENG-60623"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "———.SaintGenet,ActorandMartyr.NewYork"

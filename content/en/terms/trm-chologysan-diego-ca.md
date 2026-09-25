@@ -1,6 +1,6 @@
 ---
 slug: "trm-chologysan-diego-ca"
-id: "TRM-ENG-36282"
+id: "TRM-ENG-65340"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chology.San Diego, CA"

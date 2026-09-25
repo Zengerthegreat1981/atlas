@@ -1,6 +1,6 @@
 ---
 slug: "trm-method-is-cloning"
-id: "TRM-ENG-34933"
+id: "TRM-ENG-63991"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "method is cloning"

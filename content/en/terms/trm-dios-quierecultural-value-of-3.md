@@ -1,6 +1,6 @@
 ---
 slug: "trm-dios-quierecultural-value-of-3"
-id: "TRM-ENG-37962"
+id: "TRM-ENG-52491"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dios quierecultural value of, 3"

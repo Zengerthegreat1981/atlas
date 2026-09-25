@@ -1,6 +1,6 @@
 ---
 slug: "trm-introduction-to-psycholinguistics-new-york"
-id: "TRM-ENG-37883"
+id: "TRM-ENG-66941"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "introduction to psycholinguistics. New York"

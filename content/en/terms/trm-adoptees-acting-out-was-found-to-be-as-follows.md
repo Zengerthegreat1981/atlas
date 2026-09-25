@@ -1,6 +1,6 @@
 ---
 slug: "trm-adoptees-acting-out-was-found-to-be-as-follows"
-id: "TRM-ENG-36094"
+id: "TRM-ENG-50623"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "adoptee’s acting out was found to be as follows"

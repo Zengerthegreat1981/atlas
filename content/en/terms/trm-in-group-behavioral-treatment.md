@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-group-behavioral-treatment"
-id: "TRM-ENG-43075"
+id: "TRM-ENG-57604"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in group behavioral treatment"

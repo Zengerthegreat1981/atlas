@@ -1,6 +1,6 @@
 ---
 slug: "trm-association-and-1"
-id: "TRM-ENG-37634"
+id: "TRM-ENG-52163"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Association and, 1"

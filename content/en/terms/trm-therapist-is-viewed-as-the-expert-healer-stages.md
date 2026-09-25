@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapist-is-viewed-as-the-expert-healer-stages"
-id: "TRM-ENG-41936"
+id: "TRM-ENG-56465"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapist is viewed as the expert healer. stages"

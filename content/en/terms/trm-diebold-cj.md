@@ -1,6 +1,6 @@
 ---
 slug: "trm-diebold-cj"
-id: "TRM-ENG-47612"
+id: "TRM-ENG-62141"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Diebold CJ"

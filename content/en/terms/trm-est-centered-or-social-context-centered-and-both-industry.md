@@ -1,6 +1,6 @@
 ---
 slug: "trm-est-centered-or-social-context-centered-and-both-industry"
-id: "TRM-ENG-47991"
+id: "TRM-ENG-62520"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "est centered or social context centered, and both industry"

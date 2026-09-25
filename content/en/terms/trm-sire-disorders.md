@@ -1,6 +1,6 @@
 ---
 slug: "trm-sire-disorders"
-id: "TRM-ENG-37002"
+id: "TRM-ENG-66060"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sire disorders"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-polak-p-laycob-l"
-id: "TRM-ENG-41992"
+id: "TRM-ENG-56521"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Polak P, Laycob L"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ranks-important-contributions-to-theory-include"
-id: "TRM-ENG-37213"
+id: "TRM-ENG-66271"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rank’s important contributions to theory include"

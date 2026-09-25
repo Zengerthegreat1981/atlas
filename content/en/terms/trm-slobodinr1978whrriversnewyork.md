@@ -1,6 +1,6 @@
 ---
 slug: "trm-slobodinr1978whrriversnewyork"
-id: "TRM-ENG-37303"
+id: "TRM-ENG-66361"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Slobodin,R.(1978).W.H.R.Rivers.NewYork"

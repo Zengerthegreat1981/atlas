@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-protective-immunity"
-id: "TRM-ENG-46807"
+id: "TRM-ENG-61336"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and protective immunity"

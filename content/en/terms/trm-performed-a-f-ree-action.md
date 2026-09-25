@@ -1,6 +1,6 @@
 ---
 slug: "trm-performed-a-f-ree-action"
-id: "TRM-ENG-45401"
+id: "TRM-ENG-59930"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "performed a f ree action"

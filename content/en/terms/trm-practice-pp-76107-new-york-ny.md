@@ -1,6 +1,6 @@
 ---
 slug: "trm-practice-pp-76107-new-york-ny"
-id: "TRM-ENG-51710"
+id: "TRM-ENG-66239"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "practice (pp. 76–107). New York, NY"

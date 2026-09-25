@@ -1,6 +1,6 @@
 ---
 slug: "trm-edchicago"
-id: "TRM-ENG-36761"
+id: "TRM-ENG-65819"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ed.).Chicago"

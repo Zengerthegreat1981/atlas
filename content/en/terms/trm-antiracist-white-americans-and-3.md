@@ -1,6 +1,6 @@
 ---
 slug: "trm-antiracist-white-americans-and-3"
-id: "TRM-ENG-39217"
+id: "TRM-ENG-53746"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "antiracist White Americans and, 3"

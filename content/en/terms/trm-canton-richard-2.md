@@ -1,6 +1,6 @@
 ---
 slug: "trm-canton-richard-2"
-id: "TRM-ENG-50215"
+id: "TRM-ENG-64744"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Canton, Richard, 2"

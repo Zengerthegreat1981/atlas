@@ -1,6 +1,6 @@
 ---
 slug: "trm-kiev-a-ed-magic-faith-and-healing"
-id: "TRM-ENG-44471"
+id: "TRM-ENG-59000"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kiev, A. (Ed.), Magic, Faith and Healing"

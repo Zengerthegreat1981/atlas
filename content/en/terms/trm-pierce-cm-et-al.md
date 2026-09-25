@@ -1,6 +1,6 @@
 ---
 slug: "trm-pierce-cm-et-al"
-id: "TRM-ENG-41975"
+id: "TRM-ENG-56504"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pierce CM, et al"

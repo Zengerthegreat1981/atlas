@@ -1,6 +1,6 @@
 ---
 slug: "trm-649-crasilneck-hb-hall-ja-clinical-hypnosis"
-id: "TRM-ENG-39276"
+id: "TRM-ENG-53805"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "649. Crasilneck HB, Hall JA: Clinical Hypnosis"

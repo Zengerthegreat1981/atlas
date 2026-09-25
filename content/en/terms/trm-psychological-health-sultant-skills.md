@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychological-health-sultant-skills"
-id: "TRM-ENG-35909"
+id: "TRM-ENG-64967"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychological Health sultant skills"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-questionnaireresearch-edition-palo-alto-ca"
-id: "TRM-ENG-46679"
+id: "TRM-ENG-61208"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "QuestionnaireÐresearch edition. Palo Alto, CA"

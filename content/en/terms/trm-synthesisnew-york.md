@@ -1,6 +1,6 @@
 ---
 slug: "trm-synthesisnew-york"
-id: "TRM-ENG-37055"
+id: "TRM-ENG-51584"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "synthesis.New York"

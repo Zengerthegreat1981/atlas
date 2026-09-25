@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychologyinautobiographyvol4worcester"
-id: "TRM-ENG-38166"
+id: "TRM-ENG-52695"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychologyinautobiography(Vol.4).Worcester"

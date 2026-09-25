@@ -1,6 +1,6 @@
 ---
 slug: "trm-ethnoculture-2"
-id: "TRM-ENG-46596"
+id: "TRM-ENG-61125"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ethnoculture, 2"

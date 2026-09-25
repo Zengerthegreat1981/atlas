@@ -1,6 +1,6 @@
 ---
 slug: "trm-an-enrichedcolor-world"
-id: "TRM-ENG-34737"
+id: "TRM-ENG-63795"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "an enriched-color world"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-19-behavior-therapy"
-id: "TRM-ENG-38673"
+id: "TRM-ENG-53202"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "19. Behavior therapy"

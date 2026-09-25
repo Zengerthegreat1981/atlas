@@ -1,6 +1,6 @@
 ---
 slug: "trm-wright-ag-pincus-al-hopwood-cj-et-al"
-id: "TRM-ENG-48154"
+id: "TRM-ENG-62683"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wright AG, Pincus AL, Hopwood CJ, et al"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-anchoring-1"
-id: "TRM-ENG-44894"
+id: "TRM-ENG-59423"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "anchoring, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-chiatry-161"
-id: "TRM-ENG-48244"
+id: "TRM-ENG-62773"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chiatry 161"

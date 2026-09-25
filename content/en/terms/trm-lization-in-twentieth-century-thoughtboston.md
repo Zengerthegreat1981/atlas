@@ -1,6 +1,6 @@
 ---
 slug: "trm-lization-in-twentieth-century-thoughtboston"
-id: "TRM-ENG-36645"
+id: "TRM-ENG-65703"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lization in twentieth century thought.Boston"

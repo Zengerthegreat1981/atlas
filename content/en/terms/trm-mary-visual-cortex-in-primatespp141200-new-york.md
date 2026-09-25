@@ -1,6 +1,6 @@
 ---
 slug: "trm-mary-visual-cortex-in-primatespp141200-new-york"
-id: "TRM-ENG-36673"
+id: "TRM-ENG-65731"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mary visual cortex in primates(pp.141–200). New York"

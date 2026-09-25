@@ -1,6 +1,6 @@
 ---
 slug: "trm-mune-disorders"
-id: "TRM-ENG-44094"
+id: "TRM-ENG-58623"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mune disorders)."

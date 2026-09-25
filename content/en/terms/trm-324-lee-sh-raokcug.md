@@ -1,6 +1,6 @@
 ---
 slug: "trm-324-lee-sh-raokcug"
-id: "TRM-ENG-38887"
+id: "TRM-ENG-53416"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "324. Lee SH, Raokcug"

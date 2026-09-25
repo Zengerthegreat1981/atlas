@@ -1,6 +1,6 @@
 ---
 slug: "trm-marmontel-jeanfranois-2"
-id: "TRM-ENG-46961"
+id: "TRM-ENG-61490"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Marmontel, Jean-François, 2"

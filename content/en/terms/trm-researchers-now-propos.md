@@ -1,6 +1,6 @@
 ---
 slug: "trm-researchers-now-propos"
-id: "TRM-ENG-35286"
+id: "TRM-ENG-64344"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "researchers now propos"

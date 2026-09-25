@@ -1,6 +1,6 @@
 ---
 slug: "trm-12step-programs-and-2"
-id: "TRM-ENG-37463"
+id: "TRM-ENG-51992"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "12-Step programs and, 2"

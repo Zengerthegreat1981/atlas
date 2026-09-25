@@ -1,6 +1,6 @@
 ---
 slug: "trm-kitamura-s-1990-contexts-of-achievement"
-id: "TRM-ENG-34557"
+id: "TRM-ENG-49086"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "& Kitamura, S. (1990). Contexts of achievement"

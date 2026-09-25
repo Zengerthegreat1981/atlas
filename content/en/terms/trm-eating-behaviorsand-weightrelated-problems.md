@@ -1,6 +1,6 @@
 ---
 slug: "trm-eating-behaviorsand-weightrelated-problems"
-id: "TRM-ENG-46960"
+id: "TRM-ENG-61489"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "eating behaviorsand weight-related problems"

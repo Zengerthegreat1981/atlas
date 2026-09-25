@@ -1,6 +1,6 @@
 ---
 slug: "trm-hauser-w-a-8r-hesdorffer-d-c-1990-epilepsy"
-id: "TRM-ENG-34713"
+id: "TRM-ENG-63771"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hauser, W. A,. 8r Hesdorffer, D. C. (1990). Epilepsy"

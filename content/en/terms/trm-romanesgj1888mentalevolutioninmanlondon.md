@@ -1,6 +1,6 @@
 ---
 slug: "trm-romanesgj1888mentalevolutioninmanlondon"
-id: "TRM-ENG-37241"
+id: "TRM-ENG-51770"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Romanes,G.J.(1888).Mentalevolutioninman.London"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-rapaport-l-ed"
-id: "TRM-ENG-42065"
+id: "TRM-ENG-56594"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rapaport L (ed)"

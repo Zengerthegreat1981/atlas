@@ -1,6 +1,6 @@
 ---
 slug: "trm-clinical-versus-statistical-predictionmeehl-2"
-id: "TRM-ENG-37835"
+id: "TRM-ENG-52364"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Clinical Versus Statistical Prediction(Meehl), 2"

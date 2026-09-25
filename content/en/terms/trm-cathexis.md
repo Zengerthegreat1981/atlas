@@ -1,6 +1,6 @@
 ---
 slug: "trm-cathexis"
-id: "TRM-ENG-52097"
+id: "TRM-ENG-66626"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cathexis"

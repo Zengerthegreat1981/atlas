@@ -1,6 +1,6 @@
 ---
 slug: "trm-retah"
-id: "TRM-ENG-38220"
+id: "TRM-ENG-52749"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "retah"

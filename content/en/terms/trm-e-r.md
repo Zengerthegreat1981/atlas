@@ -1,6 +1,6 @@
 ---
 slug: "trm-e-r"
-id: "TRM-ENG-46535"
+id: "TRM-ENG-61064"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "E R"

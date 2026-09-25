@@ -1,6 +1,6 @@
 ---
 slug: "trm-categories-shown-in-table-1-which-have-been-largely-cohol-syndrome"
-id: "TRM-ENG-36238"
+id: "TRM-ENG-65296"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "categories shown in Table 1, which have been largely cohol syndrome"

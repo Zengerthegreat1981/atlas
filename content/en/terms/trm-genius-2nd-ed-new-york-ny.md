@@ -1,6 +1,6 @@
 ---
 slug: "trm-genius-2nd-ed-new-york-ny"
-id: "TRM-ENG-48070"
+id: "TRM-ENG-62599"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "genius (2nd ed.). New York, NY"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-neisserued1998therisingcurve"
-id: "TRM-ENG-37116"
+id: "TRM-ENG-51645"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Neisser,U.(Ed.).(1998).Therisingcurve"

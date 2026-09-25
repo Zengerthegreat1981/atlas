@@ -1,6 +1,6 @@
 ---
 slug: "trm-staats-aw-staats-ck"
-id: "TRM-ENG-42438"
+id: "TRM-ENG-56967"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Staats AW, Staats CK"

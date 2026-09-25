@@ -1,6 +1,6 @@
 ---
 slug: "trm-925b-lief-jd"
-id: "TRM-ENG-39603"
+id: "TRM-ENG-54132"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "925b. Lief JD"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-nal-of-psychiatry-123-1973"
-id: "TRM-ENG-46158"
+id: "TRM-ENG-60687"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nal of Psychiatry 123 (1973)"

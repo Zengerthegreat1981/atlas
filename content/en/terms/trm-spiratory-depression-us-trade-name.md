@@ -1,6 +1,6 @@
 ---
 slug: "trm-spiratory-depression-us-trade-name"
-id: "TRM-ENG-43878"
+id: "TRM-ENG-58407"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "spiratory depression. U.S. trade name"

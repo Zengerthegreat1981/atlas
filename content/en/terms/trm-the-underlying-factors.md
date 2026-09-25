@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-underlying-factors"
-id: "TRM-ENG-45604"
+id: "TRM-ENG-60133"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the underlying factors"

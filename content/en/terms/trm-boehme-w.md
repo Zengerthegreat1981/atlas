@@ -1,6 +1,6 @@
 ---
 slug: "trm-boehme-w"
-id: "TRM-ENG-39982"
+id: "TRM-ENG-54511"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Boehme W"

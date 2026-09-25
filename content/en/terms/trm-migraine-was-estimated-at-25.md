@@ -1,6 +1,6 @@
 ---
 slug: "trm-migraine-was-estimated-at-25"
-id: "TRM-ENG-47126"
+id: "TRM-ENG-61655"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "migraine was estimated at 2.5"

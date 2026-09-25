@@ -1,6 +1,6 @@
 ---
 slug: "trm-primary-progressive-aphasia-1"
-id: "TRM-ENG-45438"
+id: "TRM-ENG-59967"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "primary progressive aphasia, 1"

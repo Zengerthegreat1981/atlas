@@ -1,6 +1,6 @@
 ---
 slug: "trm-sternberg-r-j-1985b-pyond-iq"
-id: "TRM-ENG-34800"
+id: "TRM-ENG-63858"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sternberg, R. J. (1985).B pyond IQ"

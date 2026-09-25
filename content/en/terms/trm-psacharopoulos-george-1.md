@@ -1,6 +1,6 @@
 ---
 slug: "trm-psacharopoulos-george-1"
-id: "TRM-ENG-47160"
+id: "TRM-ENG-61689"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psacharopoulos, George, 1"

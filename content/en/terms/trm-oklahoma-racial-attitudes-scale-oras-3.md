@@ -1,6 +1,6 @@
 ---
 slug: "trm-oklahoma-racial-attitudes-scale-oras-3"
-id: "TRM-ENG-38535"
+id: "TRM-ENG-53064"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Oklahoma Racial Attitudes Scale (ORAS), 3"

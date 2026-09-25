@@ -1,6 +1,6 @@
 ---
 slug: "trm-simism-is-strategic-because-it-serves-two-major-goals"
-id: "TRM-ENG-36996"
+id: "TRM-ENG-51525"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "simism is strategic because it serves two major goals"

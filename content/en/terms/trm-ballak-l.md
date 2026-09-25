@@ -1,6 +1,6 @@
 ---
 slug: "trm-ballak-l"
-id: "TRM-ENG-39787"
+id: "TRM-ENG-54316"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ballak L"

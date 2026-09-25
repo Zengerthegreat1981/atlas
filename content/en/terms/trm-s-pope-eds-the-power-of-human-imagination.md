@@ -1,6 +1,6 @@
 ---
 slug: "trm-s-pope-eds-the-power-of-human-imagination"
-id: "TRM-ENG-49160"
+id: "TRM-ENG-63689"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "S. Pope (Eds.), The power of human imagination"

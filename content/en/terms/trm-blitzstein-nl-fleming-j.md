@@ -1,6 +1,6 @@
 ---
 slug: "trm-blitzstein-nl-fleming-j"
-id: "TRM-ENG-39966"
+id: "TRM-ENG-54495"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Blitzstein NL, Fleming J"

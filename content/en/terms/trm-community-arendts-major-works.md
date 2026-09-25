@@ -1,6 +1,6 @@
 ---
 slug: "trm-community-arendts-major-works"
-id: "TRM-ENG-47792"
+id: "TRM-ENG-62321"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "community. Arendt’s major works"

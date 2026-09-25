@@ -1,6 +1,6 @@
 ---
 slug: "trm-healing-arts-new-york-ny"
-id: "TRM-ENG-51506"
+id: "TRM-ENG-66035"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "healing arts. New York, NY"

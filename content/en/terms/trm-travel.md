@@ -1,6 +1,6 @@
 ---
 slug: "trm-travel"
-id: "TRM-ENG-48971"
+id: "TRM-ENG-63500"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "travel"

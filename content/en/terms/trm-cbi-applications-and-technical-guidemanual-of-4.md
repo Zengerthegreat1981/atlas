@@ -1,6 +1,6 @@
 ---
 slug: "trm-cbi-applications-and-technical-guidemanual-of-4"
-id: "TRM-ENG-37752"
+id: "TRM-ENG-66810"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "CBI Applications and Technical Guidemanual of, 4"

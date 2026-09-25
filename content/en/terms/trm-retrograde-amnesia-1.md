@@ -1,6 +1,6 @@
 ---
 slug: "trm-retrograde-amnesia-1"
-id: "TRM-ENG-44736"
+id: "TRM-ENG-59265"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Retrograde amnesia, 1"

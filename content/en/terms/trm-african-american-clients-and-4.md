@@ -1,6 +1,6 @@
 ---
 slug: "trm-african-american-clients-and-4"
-id: "TRM-ENG-37552"
+id: "TRM-ENG-66610"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "African American clients and, 4"

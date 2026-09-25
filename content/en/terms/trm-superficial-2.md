@@ -1,6 +1,6 @@
 ---
 slug: "trm-superficial-2"
-id: "TRM-ENG-48777"
+id: "TRM-ENG-63306"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "superficial, 2"

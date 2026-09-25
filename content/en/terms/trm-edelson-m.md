@@ -1,6 +1,6 @@
 ---
 slug: "trm-edelson-m"
-id: "TRM-ENG-40407"
+id: "TRM-ENG-54936"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Edelson M"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-error-rate-of-the-converse-is-also-true"
-id: "TRM-ENG-35785"
+id: "TRM-ENG-50314"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "error rate of α. The converse is also true"

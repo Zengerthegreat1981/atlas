@@ -1,6 +1,6 @@
 ---
 slug: "trm-journalofcomparativeethologyberlinhamburg"
-id: "TRM-ENG-36983"
+id: "TRM-ENG-51512"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "JournalofComparativeEthology.Berlin&Hamburg"

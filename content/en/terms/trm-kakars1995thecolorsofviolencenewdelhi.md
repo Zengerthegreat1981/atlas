@@ -1,6 +1,6 @@
 ---
 slug: "trm-kakars1995thecolorsofviolencenewdelhi"
-id: "TRM-ENG-36987"
+id: "TRM-ENG-51516"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kakar,S.(1995).Thecolorsofviolence.NewDelhi"

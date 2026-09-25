@@ -1,6 +1,6 @@
 ---
 slug: "trm-that-has-no-therapeutic-effect-but"
-id: "TRM-ENG-43904"
+id: "TRM-ENG-58433"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "that has no therapeutic effect but"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-roth-j"
-id: "TRM-ENG-42190"
+id: "TRM-ENG-56719"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Roth J"

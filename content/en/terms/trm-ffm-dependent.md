@@ -1,6 +1,6 @@
 ---
 slug: "trm-ffm-dependent"
-id: "TRM-ENG-43428"
+id: "TRM-ENG-57957"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "FFM dependent"

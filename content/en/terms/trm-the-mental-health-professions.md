@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-mental-health-professions"
-id: "TRM-ENG-41893"
+id: "TRM-ENG-56422"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the mental health professions"

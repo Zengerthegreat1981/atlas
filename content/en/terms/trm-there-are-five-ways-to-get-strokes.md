@@ -1,6 +1,6 @@
 ---
 slug: "trm-there-are-five-ways-to-get-strokes"
-id: "TRM-ENG-38912"
+id: "TRM-ENG-53441"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "There are five ways to get strokes"

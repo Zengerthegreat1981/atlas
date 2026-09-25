@@ -1,6 +1,6 @@
 ---
 slug: "trm-loss"
-id: "TRM-ENG-40746"
+id: "TRM-ENG-55275"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "loss"

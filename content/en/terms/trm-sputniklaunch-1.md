@@ -1,6 +1,6 @@
 ---
 slug: "trm-sputniklaunch-1"
-id: "TRM-ENG-38808"
+id: "TRM-ENG-53337"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sputniklaunch, 1"

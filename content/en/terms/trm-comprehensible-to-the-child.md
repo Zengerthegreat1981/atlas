@@ -1,6 +1,6 @@
 ---
 slug: "trm-comprehensible-to-the-child"
-id: "TRM-ENG-44953"
+id: "TRM-ENG-59482"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "comprehensible to the child"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-disorders-j-pers-disord-7suppl"
-id: "TRM-ENG-48326"
+id: "TRM-ENG-62855"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disorders. J Pers Disord 7(suppl)"

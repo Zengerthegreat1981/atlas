@@ -1,6 +1,6 @@
 ---
 slug: "trm-stice-eric-2"
-id: "TRM-ENG-38825"
+id: "TRM-ENG-53354"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stice, Eric, 2"

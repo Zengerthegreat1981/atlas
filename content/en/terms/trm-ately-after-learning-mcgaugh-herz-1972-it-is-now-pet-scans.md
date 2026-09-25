@@ -1,6 +1,6 @@
 ---
 slug: "trm-ately-after-learning-mcgaugh-herz-1972-it-is-now-pet-scans"
-id: "TRM-ENG-34886"
+id: "TRM-ENG-49415"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ately after learning (McGaugh & Herz, 1972). It is now PET scans"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ed-los-angeles-ca"
-id: "TRM-ENG-47914"
+id: "TRM-ENG-62443"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ed.). Los Angeles, CA"

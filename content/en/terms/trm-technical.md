@@ -1,6 +1,6 @@
 ---
 slug: "trm-technical"
-id: "TRM-ENG-38867"
+id: "TRM-ENG-53396"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Technical"

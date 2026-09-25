@@ -1,6 +1,6 @@
 ---
 slug: "trm-life-stress-cognition-and-healthpp629649-new-york"
-id: "TRM-ENG-36636"
+id: "TRM-ENG-51165"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "life stress, cognition and health(pp.629–649). New York"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-makeateathesubstanceresponsibleforkhats-ogy"
-id: "TRM-ENG-43722"
+id: "TRM-ENG-58251"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "makeatea.Thesubstanceresponsibleforkhat’s ogy"

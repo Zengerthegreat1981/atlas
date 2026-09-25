@@ -1,6 +1,6 @@
 ---
 slug: "trm-but-which-have-a-bearing-on-it"
-id: "TRM-ENG-47716"
+id: "TRM-ENG-62245"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "but which have a bearing on it"

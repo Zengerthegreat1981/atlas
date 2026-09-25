@@ -1,6 +1,6 @@
 ---
 slug: "trm-feel-any-contempt-for-you"
-id: "TRM-ENG-45027"
+id: "TRM-ENG-59556"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "feel any contempt for you"

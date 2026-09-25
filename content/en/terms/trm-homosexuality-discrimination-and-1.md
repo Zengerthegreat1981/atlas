@@ -1,6 +1,6 @@
 ---
 slug: "trm-homosexuality-discrimination-and-1"
-id: "TRM-ENG-40399"
+id: "TRM-ENG-54928"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "homosexuality discrimination and, 1"

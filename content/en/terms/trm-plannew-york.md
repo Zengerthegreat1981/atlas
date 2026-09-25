@@ -1,6 +1,6 @@
 ---
 slug: "trm-plannew-york"
-id: "TRM-ENG-41181"
+id: "TRM-ENG-55710"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "plan.New York"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-systemic-cognitivedevelopmental-supervision"
-id: "TRM-ENG-38859"
+id: "TRM-ENG-53388"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Systemic cognitive-developmental supervision"

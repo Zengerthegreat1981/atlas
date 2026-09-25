@@ -1,6 +1,6 @@
 ---
 slug: "trm-is-that-of-ongoing-civil-war"
-id: "TRM-ENG-48231"
+id: "TRM-ENG-62760"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "is that of ongoing civil war"

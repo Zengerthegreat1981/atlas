@@ -1,6 +1,6 @@
 ---
 slug: "trm-theybelievethattheissueislargelymoot"
-id: "TRM-ENG-46050"
+id: "TRM-ENG-60579"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theybelievethattheissueislargelymoot"

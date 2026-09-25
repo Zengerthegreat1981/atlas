@@ -1,6 +1,6 @@
 ---
 slug: "trm-bruce-wampolds-work-in-2"
-id: "TRM-ENG-37734"
+id: "TRM-ENG-66792"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bruce Wampold’s work in, 2"

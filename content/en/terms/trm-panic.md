@@ -1,6 +1,6 @@
 ---
 slug: "trm-panic"
-id: "TRM-ENG-36833"
+id: "TRM-ENG-51362"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "panic"

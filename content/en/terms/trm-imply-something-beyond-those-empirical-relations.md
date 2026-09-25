@@ -1,6 +1,6 @@
 ---
 slug: "trm-imply-something-beyond-those-empirical-relations"
-id: "TRM-ENG-35853"
+id: "TRM-ENG-50382"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "imply something beyond those empirical relations"

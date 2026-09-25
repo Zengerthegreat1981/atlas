@@ -1,6 +1,6 @@
 ---
 slug: "trm-bell-derrick-3"
-id: "TRM-ENG-37681"
+id: "TRM-ENG-66739"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bell, Derrick, 3"

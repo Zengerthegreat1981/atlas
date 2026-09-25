@@ -1,6 +1,6 @@
 ---
 slug: "trm-great-in-doing-this-we-draw-upon-an-ethical-idea"
-id: "TRM-ENG-48087"
+id: "TRM-ENG-62616"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "great. In doing this, we draw upon an ethical idea"

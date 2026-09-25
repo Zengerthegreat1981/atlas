@@ -1,6 +1,6 @@
 ---
 slug: "trm-qua-humans"
-id: "TRM-ENG-48607"
+id: "TRM-ENG-63136"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "qua humans"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-friedman-m-rosenman-rh"
-id: "TRM-ENG-40629"
+id: "TRM-ENG-55158"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Friedman M, Rosenman RH"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-st-johns-college-2"
-id: "TRM-ENG-47325"
+id: "TRM-ENG-61854"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "St. John’s College, 2"

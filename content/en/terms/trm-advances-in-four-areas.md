@@ -1,6 +1,6 @@
 ---
 slug: "trm-advances-in-four-areas"
-id: "TRM-ENG-36096"
+id: "TRM-ENG-65154"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "advances in four areas"

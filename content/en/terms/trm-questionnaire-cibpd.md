@@ -1,6 +1,6 @@
 ---
 slug: "trm-questionnaire-cibpd"
-id: "TRM-ENG-44013"
+id: "TRM-ENG-58542"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Questionnaire; CI-BPD"

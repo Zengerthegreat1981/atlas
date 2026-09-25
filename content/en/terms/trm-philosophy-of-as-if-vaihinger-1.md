@@ -1,6 +1,6 @@
 ---
 slug: "trm-philosophy-of-as-if-vaihinger-1"
-id: "TRM-ENG-50856"
+id: "TRM-ENG-65385"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Philosophy of As If (Vaihinger), 1"

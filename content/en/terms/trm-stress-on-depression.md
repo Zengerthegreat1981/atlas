@@ -1,6 +1,6 @@
 ---
 slug: "trm-stress-on-depression"
-id: "TRM-ENG-43259"
+id: "TRM-ENG-57788"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stress on depression"

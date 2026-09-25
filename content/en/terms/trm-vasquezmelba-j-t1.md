@@ -1,6 +1,6 @@
 ---
 slug: "trm-vasquezmelba-j-t1"
-id: "TRM-ENG-38972"
+id: "TRM-ENG-53501"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Vasquez,Melba J. T.,1"

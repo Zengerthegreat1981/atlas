@@ -1,6 +1,6 @@
 ---
 slug: "trm-conditioned-response-for-up-to-hundreds-of-trials-common"
-id: "TRM-ENG-37649"
+id: "TRM-ENG-66707"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "conditioned response for up to hundreds of trials. common"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-childhood"
-id: "TRM-ENG-42992"
+id: "TRM-ENG-57521"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "childhood"

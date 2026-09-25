@@ -1,6 +1,6 @@
 ---
 slug: "trm-contradictions"
-id: "TRM-ENG-45674"
+id: "TRM-ENG-60203"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Contradictions"

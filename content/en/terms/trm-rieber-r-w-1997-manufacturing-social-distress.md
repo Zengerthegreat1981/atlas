@@ -1,6 +1,6 @@
 ---
 slug: "trm-rieber-r-w-1997-manufacturing-social-distress"
-id: "TRM-ENG-37230"
+id: "TRM-ENG-66288"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rieber, R. W. (1997). Manufacturing social distress"

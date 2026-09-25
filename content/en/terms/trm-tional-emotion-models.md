@@ -1,6 +1,6 @@
 ---
 slug: "trm-tional-emotion-models"
-id: "TRM-ENG-45627"
+id: "TRM-ENG-60156"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tional emotion models"

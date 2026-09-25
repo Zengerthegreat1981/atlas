@@ -1,6 +1,6 @@
 ---
 slug: "trm-lyle-j-holly-sb"
-id: "TRM-ENG-41532"
+id: "TRM-ENG-56061"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lyle J, Holly SB"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-proach"
-id: "TRM-ENG-48544"
+id: "TRM-ENG-63073"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "proach"

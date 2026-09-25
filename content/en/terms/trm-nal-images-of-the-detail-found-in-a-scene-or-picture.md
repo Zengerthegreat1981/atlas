@@ -1,6 +1,6 @@
 ---
 slug: "trm-nal-images-of-the-detail-found-in-a-scene-or-picture"
-id: "TRM-ENG-36736"
+id: "TRM-ENG-65794"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nal images of the detail found in a scene or picture"

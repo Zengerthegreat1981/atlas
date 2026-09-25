@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-10year-period"
-id: "TRM-ENG-42573"
+id: "TRM-ENG-57102"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "a 10-year period"

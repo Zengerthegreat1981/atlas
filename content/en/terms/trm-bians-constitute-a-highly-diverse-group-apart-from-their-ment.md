@@ -1,6 +1,6 @@
 ---
 slug: "trm-bians-constitute-a-highly-diverse-group-apart-from-their-ment"
-id: "TRM-ENG-36210"
+id: "TRM-ENG-65268"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bians constitute a highly diverse group. Apart from their ment"

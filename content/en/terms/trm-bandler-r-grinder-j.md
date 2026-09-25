@@ -1,6 +1,6 @@
 ---
 slug: "trm-bandler-r-grinder-j"
-id: "TRM-ENG-39792"
+id: "TRM-ENG-54321"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bandler R, Grinder J"

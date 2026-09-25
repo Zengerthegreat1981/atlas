@@ -1,6 +1,6 @@
 ---
 slug: "trm-national-defense-education-act-ndea-1"
-id: "TRM-ENG-38484"
+id: "TRM-ENG-53013"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "National Defense Education Act (NDEA), 1"

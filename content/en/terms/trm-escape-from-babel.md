@@ -1,6 +1,6 @@
 ---
 slug: "trm-escape-from-babel"
-id: "TRM-ENG-50365"
+id: "TRM-ENG-64894"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Escape from Babel"

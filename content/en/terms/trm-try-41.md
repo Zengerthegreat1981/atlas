@@ -1,6 +1,6 @@
 ---
 slug: "trm-try-41"
-id: "TRM-ENG-48705"
+id: "TRM-ENG-63234"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "try 41"

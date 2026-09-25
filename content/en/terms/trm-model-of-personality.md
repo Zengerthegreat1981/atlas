@@ -1,6 +1,6 @@
 ---
 slug: "trm-model-of-personality"
-id: "TRM-ENG-43737"
+id: "TRM-ENG-58266"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "model of personality"

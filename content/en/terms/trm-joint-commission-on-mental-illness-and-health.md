@@ -1,6 +1,6 @@
 ---
 slug: "trm-joint-commission-on-mental-illness-and-health"
-id: "TRM-ENG-41144"
+id: "TRM-ENG-55673"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Joint Commission on Mental Illness and Health"

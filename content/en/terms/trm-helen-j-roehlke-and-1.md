@@ -1,6 +1,6 @@
 ---
 slug: "trm-helen-j-roehlke-and-1"
-id: "TRM-ENG-38160"
+id: "TRM-ENG-52689"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Helen J. Roehlke and, 1"

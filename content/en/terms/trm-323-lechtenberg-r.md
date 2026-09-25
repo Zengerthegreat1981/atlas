@@ -1,6 +1,6 @@
 ---
 slug: "trm-323-lechtenberg-r"
-id: "TRM-ENG-38886"
+id: "TRM-ENG-53415"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "323. Lechtenberg R"

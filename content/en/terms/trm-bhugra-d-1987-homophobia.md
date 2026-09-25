@@ -1,6 +1,6 @@
 ---
 slug: "trm-bhugra-d-1987-homophobia"
-id: "TRM-ENG-48907"
+id: "TRM-ENG-63436"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bhugra, D. (1987). Homophobia"

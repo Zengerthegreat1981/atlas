@@ -1,6 +1,6 @@
 ---
 slug: "trm-ther-res-20"
-id: "TRM-ENG-48648"
+id: "TRM-ENG-63177"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ther Res 20"

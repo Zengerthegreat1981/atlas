@@ -1,6 +1,6 @@
 ---
 slug: "trm-whittington-hg-zahourek-r-grey-l"
-id: "TRM-ENG-42785"
+id: "TRM-ENG-57314"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Whittington HG, Zahourek R, Grey L"

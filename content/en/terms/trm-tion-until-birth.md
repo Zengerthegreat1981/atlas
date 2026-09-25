@@ -1,6 +1,6 @@
 ---
 slug: "trm-tion-until-birth"
-id: "TRM-ENG-43926"
+id: "TRM-ENG-58455"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tion until birth."

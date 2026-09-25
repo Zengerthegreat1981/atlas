@@ -1,6 +1,6 @@
 ---
 slug: "trm-wampold-b-e-2001-the-great-psychotherapy-debate"
-id: "TRM-ENG-39002"
+id: "TRM-ENG-53531"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wampold, B. E. (2001). The great psychotherapy debate"

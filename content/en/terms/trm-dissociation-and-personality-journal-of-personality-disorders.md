@@ -1,6 +1,6 @@
 ---
 slug: "trm-dissociation-and-personality-journal-of-personality-disorders"
-id: "TRM-ENG-43671"
+id: "TRM-ENG-58200"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dissociation, and personality. Journal of Personality, Disorders"

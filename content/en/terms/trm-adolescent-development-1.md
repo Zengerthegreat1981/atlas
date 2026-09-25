@@ -1,6 +1,6 @@
 ---
 slug: "trm-adolescent-development-1"
-id: "TRM-ENG-47553"
+id: "TRM-ENG-62082"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "adolescent development, 1"

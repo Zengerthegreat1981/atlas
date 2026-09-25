@@ -1,6 +1,6 @@
 ---
 slug: "trm-nonassociative-learning-are-distinguished"
-id: "TRM-ENG-36754"
+id: "TRM-ENG-51283"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nonassociative learning are distinguished"

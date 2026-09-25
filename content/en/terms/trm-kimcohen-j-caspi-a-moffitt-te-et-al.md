@@ -1,6 +1,6 @@
 ---
 slug: "trm-kimcohen-j-caspi-a-moffitt-te-et-al"
-id: "TRM-ENG-47787"
+id: "TRM-ENG-62316"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kim-Cohen J, Caspi A, Moffitt TE, et al"

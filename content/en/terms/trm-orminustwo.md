@@ -1,6 +1,6 @@
 ---
 slug: "trm-orminustwo"
-id: "TRM-ENG-38070"
+id: "TRM-ENG-52599"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "orminustwo"

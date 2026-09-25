@@ -1,6 +1,6 @@
 ---
 slug: "trm-461-cameron-n-rychlak-jf"
-id: "TRM-ENG-39053"
+id: "TRM-ENG-53582"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "461. Cameron N, Rychlak JF"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-african-american-focus-of-3"
-id: "TRM-ENG-37554"
+id: "TRM-ENG-52083"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "African American focus of, 3"

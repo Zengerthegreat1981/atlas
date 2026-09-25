@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-distinctive-type-of-education"
-id: "TRM-ENG-47519"
+id: "TRM-ENG-62048"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "a distinctive type of education"

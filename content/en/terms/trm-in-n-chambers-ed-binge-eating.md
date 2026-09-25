@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-n-chambers-ed-binge-eating"
-id: "TRM-ENG-43447"
+id: "TRM-ENG-57976"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "In N. Chambers (Ed.), Binge eating"
