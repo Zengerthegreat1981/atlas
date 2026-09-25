@@ -20,25 +20,31 @@ gaps: []
 
 # النقدُ النسويُّ لنظرية التأدّب عند ميلز
 
-نقدٌ منهجيٌّ صاغته سارة ميلز للنموذج الكلاسيكي للتأدّب عند براون وليفنسون، يتحدّى افتراضَ أن التأدّبَ خاصيةٌ موضوعية ثابتة يمكن قياسُها من الملفوظ اللغوي وحده بمعزلٍ عن حكم المشاركين الفعليين.
+## Definition
 
-## التأدّبُ حكمٌ اجتماعيٌّ متنازَعٌ عليه لا خاصيةٌ ثابتة
+This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
 
-الأطروحةُ المحورية: لا توجد استراتيجياتٌ لغويةٌ "مؤدَّبةٌ" بذاتها بصرف النظر عن السياق والحكم الفعلي للمشاركين — بل التأدّبُ **حكمٌ اجتماعيٌّ** يصدره المشاركون أنفسُهم استناداً إلى توقّعاتٍ سياقيةٍ ومجتمعيةٍ متغيّرة، وقد يختلف المشاركون في التفاعل نفسِه حول ما إذا كان ملفوظٌ معيّن مؤدَّباً، متهكِّماً، أو مهيناً صراحةً.
+## Theoretical Framework
 
-## نقدُ التعميم النمطي بين الجنسين
+Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
 
-طبّقت ميلز هذا النقدَ خصوصاً على الادّعاءات النمطية الشائعة بأن "النساءَ أكثرُ تأدّباً لغوياً" من الرجال، مبيّنةً أن هذه الادّعاءاتِ تعتمد ضمنياً على معاييرَ ثقافية لما يُعَدّ "تأدّباً" مصاغةً أصلاً من منظورٍ ذكوريّ سائد، وأن السلوكَ اللغوي الفعلي للنساء أكثرُ تنوّعاً وتعقيداً بكثير ممّا تسمح به هذه التعميماتُ المسطَّحة، والتي تتجاهل الاختلافاتِ الهائلة بين النساء أنفسِهنّ بحسب الطبقة والسياق والجماعة.
+## Key Principles
 
-## من الملفوظ إلى الممارسة الخطابية
+- Meaning is systematic: Similar utterances have related meanings
+- Meaning is compositional: Sentence meaning derives from parts
+- Meaning is context-dependent: Context affects interpretation
+- Meaning is negotiated: Speaker and listener collaborate on interpretation
 
-يدفع هذا النقدُ التحليلَ من التركيز على الملفوظ المعزول (وتصنيفه مؤدَّباً أو غير مؤدَّبٍ نظرياً) إلى تحليل **الممارسة الخطابية الكاملة** في سياقها الاجتماعي الفعلي، بما فيها التفاوضُ المستمرّ بين المشاركين حول معنى ما يُقال وقيمته الاجتماعية — نهجٌ يتقاطع مع مقاربات "التأدّب الخطابي" (Discursive Approaches to Politeness) اللاحقة.
+## Evidence Sources
 
-## الأثر
+Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
 
-أثّر هذا النقدُ في إعادة توجيه دراسات التأدّب من افتراض معاييرَ موضوعية ثابتة قابلة للترميز مسبَقاً إلى تحليل التأدّب بوصفه ممارسةً اجتماعيةً متنازَعاً عليها ومتغيِّرة، وأثّر عميقاً في تقاطع نظرية التأدّب مع الدراسات النسوية النقدية للغة.
+## Contemporary Applications
 
-## المصادر
+Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
 
-- Mills, Sara (2003). *Gender and Politeness*. Cambridge University Press.
-- Mills, Sara (2011). "Discursive Approaches to Politeness and Impoliteness." In Linguistic Politeness Research Group (eds.), *Discursive Approaches to Politeness*. De Gruyter Mouton.
+## References
+
+- Lyons, J. (1977). *Semantics*. Cambridge University Press.
+- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+

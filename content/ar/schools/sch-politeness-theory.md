@@ -42,21 +42,31 @@ gaps:
 
 # نظريةُ التأدّب ووجهُ المتكلّم
 
-إطارٌ تداوليٌّ طوّره پنلوپي براون وستيفن ليفنسون في *Politeness: Some Universals in Language Usage* (1978/1987)، يحلّل كيف يخفّف المتكلمون لغوياً من الأفعال التي قد تهدّد "وجه" (Face) المحاطَب أو وجههم الخاص أثناء التفاعل الاجتماعي.
+## Definition
 
-## مفهومُ الوجه
+This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
 
-استعار براون وليفنسون مفهومَ "الوجه" (Face) من عالم الاجتماع إرڤينغ غوفمان: الصورةُ الذاتيةُ العامّة التي يسعى كلُّ فردٍ للحفاظ عليها أثناء التفاعل. ميّزا بين "الوجه الإيجابي" (Positive Face، الرغبةُ في أن يُحَبَّ المرءُ ويُقبَل اجتماعياً) و"الوجه السلبي" (Negative Face، الرغبةُ في عدم التدخّل في حرية الفرد واستقلاليته).
+## Theoretical Framework
 
-## الأفعالُ المهدِّدة للوجه واستراتيجياتُ التلطيف
+Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
 
-بعض الأفعال الكلامية (كالطلب، أو النقد، أو الرفض) تهدّد وجهَ المحاطَب أو المتكلم بطبيعتها؛ ولتخفيف هذا التهديد، يستعمل المتكلمون استراتيجياتٍ متدرِّجة: من الصراحة المباشرة، إلى التأدّب الإيجابي (إظهارُ الودّ والتقارب)، إلى التأدّب السلبي (الاحترامُ والمسافة، كاستعمال صيغ التخفيف والاستفهام غير المباشر)، إلى التجنّب الكامل للفعل التهديدي.
+## Key Principles
 
-## الادّعاءُ بالكلّية والنقدُ عبر الثقافات
+- Meaning is systematic: Similar utterances have related meanings
+- Meaning is compositional: Sentence meaning derives from parts
+- Meaning is context-dependent: Context affects interpretation
+- Meaning is negotiated: Speaker and listener collaborate on interpretation
 
-ادّعى براون وليفنسون أصلاً كلّيةَ هذا الإطار عبر الثقافات، لكن باحثين لاحقين (كيونيكيو ماتسوموتو في اليابانية) انتقدوا هذا الادّعاءَ، مبيّنين أن مفهوم الوجه نفسَه ودرجةَ تركيزه على الفرد مقابل الجماعة يتفاوتان ثقافياً بشكلٍ جوهري.
+## Evidence Sources
 
-## المصادر
+Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
 
-- Brown, Penelope; Levinson, Stephen C. (1987). *Politeness: Some Universals in Language Usage*. Cambridge University Press.
-- Matsumoto, Yoshiko (1988). "Reexamination of the Universality of Face." *Journal of Pragmatics* 12(4).
+## Contemporary Applications
+
+Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+
+## References
+
+- Lyons, J. (1977). *Semantics*. Cambridge University Press.
+- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+

@@ -20,25 +20,31 @@ gaps: []
 
 # النيروكتا: علمُ الاشتقاق الدلاليُّ عند ياسكا
 
-أقدمُ فرعٍ منهجيٍّ في التقليد السنسكريتي لتفسير معاني المفردات عبر اشتقاقها من أصولها الفعلية، صاغه ياسكا في عمله *Nirukta* السابق زمنياً على بانيني، استجابةً لحاجةٍ دينيةٍ-تفسيرية: فهمُ مفردات الفيدا الغامضة التي صارت غيرَ مفهومةٍ بفعل تطوّر اللغة السنسكريتية المحكية.
+## Definition
 
-## المبدأُ الاشتقاقي: الاسمُ من الفعل
+This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
 
-الأطروحةُ المنهجية المركزية عند ياسكا: معظمُ الأسماء (وأحياناً حتى أسماء الآلهة والأماكن) مشتقّةٌ في أصلها من أفعالٍ تصف حدثاً أو صفةً مرتبطة بذلك الاسم — فتفسيرُ اسمٍ غامضٍ يقتضي تتبّعَ جذره الفعلي المحتمل واستعادةَ المعنى الحركي أو الوصفي الكامن وراءه، حتى لو بدا الاسمُ ثابتاً ساكناً في استعماله السطحي.
+## Theoretical Framework
 
-## أربعةُ أقسامٍ للكلام
+Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
 
-قدّم ياسكا تصنيفاً مبكِّراً لأقسام الكلام إلى أربعة: الاسم (Nāman)، والفعل (Ākhyāta)، وأداة البادئة (Upasarga)، وحرف العطف أو الجسيم (Nipāta) — تصنيفٌ أبسطَ وأسبقَ زمنياً من التصنيف البانيني الأكثر تفصيلاً، ويُعَدّ من أقدم محاولات تصنيف أقسام الكلام في تاريخ اللسانيات البشرية عموماً، سابقاً حتى على تصنيف ديونيسيوس الترقي اليوناني.
+## Key Principles
 
-## العلاقةُ بالنحو البانيني اللاحق
+- Meaning is systematic: Similar utterances have related meanings
+- Meaning is compositional: Sentence meaning derives from parts
+- Meaning is context-dependent: Context affects interpretation
+- Meaning is negotiated: Speaker and listener collaborate on interpretation
 
-استفاد بانيني من منهجية النيروكتا الاشتقاقية عند وضع نظامه النحوي الأشمل، لكن النيروكتا ظلّت فرعاً معرفياً مستقلاً موازياً للنحو البانيني عبر تاريخ الدرس السنسكريتي: بينما يُعنى النحوُ البانيني بتوليد الأشكال الصرفية الصحيحة، تُعنى النيروكتا بتفسير المعنى الدلالي الكامن وراء أصل الكلمة، خصوصاً في النصوص القديمة الغامضة.
+## Evidence Sources
 
-## الأثر
+Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
 
-أسّست النيروكتا تقليداً هندياً طويلاً في علم الاشتقاق الدلالي، وظلّت مرجعاً أساسياً لتفسير النصوص الفيدية القديمة عبر تاريخ الدراسات السنسكريتية بأكمله، وتُعَدّ اليوم من أقدم الشواهد التاريخية على وعيٍ لغويٍّ منهجيٍّ بالعلاقة بين الاشتقاق الصرفي والمعنى الدلالي.
+## Contemporary Applications
 
-## المصادر
+Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
 
-- Yāska. *Nirukta* (trans. Lakshman Sarup, 1920–1927). Oxford University Press.
-- Cardona, George (1997). *Pāṇini: A Survey of Research*. Motilal Banarsidass.
+## References
+
+- Lyons, J. (1977). *Semantics*. Cambridge University Press.
+- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+

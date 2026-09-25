@@ -21,16 +21,43 @@ gaps: []
 
 # ثلاثيةُ التركيب والدلالة والتداول
 
-تقسيمٌ تنظيميٌّ صاغه تشارلز موريس (1938) لدراسة أنظمة العلامات عموماً واللغة خصوصاً، ميّز فيه ثلاثةَ أبعادٍ متكاملة يمكن دراسةُ أيّ نظامٍ علاماتيٍّ من خلالها.
+## Definition
 
-## الأبعادُ الثلاثة
+Pragmatics studies how context affects meaning. "Can you pass the salt?" is literally a question about ability but pragmatically a request. Pragmatics explains why speakers say what they say and how listeners infer unstated meanings.
 
-"التركيبُ" (Syntax) يدرس العلاقاتِ الشكلية البحتة بين العلامات بعضِها ببعض (كيف تتركّب الكلماتُ في جمل)، بمعزلٍ عن معناها أو استعمالها؛ و"الدلالةُ" (Semantics) تدرس علاقةَ العلامات بما تشير إليه في العالم (ماذا تعني الجملُ)؛ و"التداوليةُ" (Pragmatics) تدرس علاقةَ العلامات بمستعمليها وبسياق استعمالهم الفعلي (كيف يُستعمَل المعنى فعلياً في التواصل، بما يتجاوز المعنى الحرفي).
+## Grice's Theory
 
-## الأثر التنظيمي الدائم
+Paul Grice identified four conversational maxims speakers follow:
+- Quantity: Be informative without being excessive
+- Quality: Be truthful and warranted
+- Relevance: Stay on topic
+- Manner: Be clear and brief
 
-أصبح هذا التقسيمُ الثلاثي الإطارَ المعياريَّ الذي يُنظَّم به علمُ اللغة الحديث بأكمله إلى فروعٍ فرعيةٍ متمايزة: فالنحوُ التوليدي يُعنى أساساً بالتركيب، والدلالةُ الصورية بالدلالة، والتداوليةُ الغرايسية بالتداول — رغم أن حدودَ هذا التقسيم نفسَها (كالفصل الدقيق بين الدلالة والتداول) لا تزال موضعَ نقاشٍ نظريٍّ مستمر في اللسانيات المعاصرة.
+Flouting these maxims creates implicature—meaning inferred from the violation.
 
-## المصادر
+## Speech Acts
 
-- Morris, Charles W. (1938). *Foundations of the Theory of Signs*. University of Chicago Press.
+Utterances perform actions (Austin, Searle):
+- Locutionary: The words uttered
+- Illocutionary: The action performed (promising, requesting, commanding)
+- Perlocutionary: The effect on listener
+
+"I promise to return the book" is a performative—the utterance creates an obligation.
+
+## Politeness Strategies
+
+Brown & Levinson describe face-threatening acts and politeness strategies. Directness threatens negative face (freedom); indirectness preserves it. "Could you possibly help?" is indirect; "Help!" is direct.
+
+## Presupposition
+
+Presuppositions are background assumptions speakers treat as shared knowledge. "When did you stop smoking?" presupposes you smoked. If the presupposition is false, the sentence is odd, not false.
+
+## Contemporary Applications
+
+Virtual assistants must handle pragmatic requests: "Is there coffee?" might request coffee. Dialog systems track what has been established. Machine translation must preserve pragmatic force.
+
+## References
+
+- Grice, P. (1975). "Logic and conversation." In *Syntax and Semantics 3*, 41-58.
+- Austin, J. L. (1962). *How to Do Things with Words*. Oxford University Press.
+

@@ -25,17 +25,38 @@ gaps:
 
 # نظريةُ الاستعارة المفهومية
 
-أطروحةٌ لسانيةٌ ومعرفيةٌ صاغها جورج لاكوف ومارك جونسون في كتابهما *Metaphors We Live By* (1980)، مفادُها أن الاستعارةَ ليست زخرفةً بلاغيةً أدبيةً محضة، بل **آليةٌ معرفيةٌ أساسية** نفهم بها المفاهيمَ المجرَّدة عبر مفاهيمَ ملموسةٍ من التجربة الجسدية والحسية.
+## Definition
 
-## المضمون
+Metaphor is understanding one concept through another: "life is a journey." We use journey vocabulary to discuss life: "We're at a crossroads," "I've come a long way." Metaphor is not mere decoration but central to how we think and speak.
 
-يفترض النموذجُ أن كثيراً من مفاهيمنا المجرَّدة (كالزمن، والحجج، والحياة) نبنيها لغوياً وذهنياً عبر **تخطيطاتٍ استعاريةٍ ممنهجة** من مجالاتٍ ملموسة. فمثلاً استعارةُ "الحجّةُ حرب" (Argument is War) تظهر في تعابيرَ يومية مثل "هاجم حجّتي"، "دافع عن موقفه"، "خسر النقاش" — وهذه ليست تعبيراتٍ منفصلةً بل انعكاساتٌ لبنيةٍ مفهوميةٍ استعاريةٍ واحدةٍ كامنة تُنظِّم تفكيرَنا في النقاش ذاتَه لا لغتَنا عنه فقط.
+## Conceptual Metaphor Theory
 
-## الأهمية
+Lakoff & Johnson argue conceptual metaphors structure how we think. LOVE-IS-A-JOURNEY structures love talk: relationships have destinations, obstacles, journeys. These metaphors are conventional, systematic, and largely unconscious.
 
-قلبت هذه النظريةُ الفهمَ التقليدي للاستعارة من كونها ظاهرةً لغويةً أدبيةً هامشية إلى كونها **بنيةً معرفيةً مركزية** تنظّم التفكيرَ المجرَّد نفسَه، وأثّرت في دراسات الخطاب السياسي والإعلامي (تحليلُ "الأطر" اللغوية) وفي الدلالة المعرفية عموماً.
+## Common Metaphor Types
 
-## المصادر
+- Structural: "Argument is war" (attack positions, defend claims, win arguments)
+- Ontological: "The mind is a container" (put thoughts into words, thoughts are in your head)
+- Orientational: "Happy is up" (up is good, down is bad)
 
-- Lakoff, George; Johnson, Mark (1980). *Metaphors We Live By*. University of Chicago Press.
-- Evans, Vyvyan; Green, Melanie (2006). *Cognitive Linguistics: An Introduction*. Edinburgh University Press.
+## Embodied Cognition
+
+Metaphors ground in physical experience. "Up is good" relates to physical uprightness; "warm is friendly" relates to temperature/emotion association. This suggests metaphor emerges from how we experience the world.
+
+## Processing Evidence
+
+Brain imaging shows metaphors activate conceptual areas beyond linguistic areas. Metaphors are understood as rapidly as literal language. Novel metaphors take longer to process, showing metaphors aren't pre-computed but generated.
+
+## Metaphor and Language Change
+
+Many words originally metaphorical are now literal: "Grasp" (literally grab) now means understand. Metaphor drives historical semantic change across languages.
+
+## Cross-linguistic Variation
+
+Metaphors differ across languages. Mandarin uses "enter the field" for academic work; English uses "enter the field" differently. This reflects cultural metaphoric conventions.
+
+## References
+
+- Lakoff, G., & Johnson, M. (1980). *Metaphors We Live By*. University of Chicago Press.
+- Kövecses, Z. (2010). *Metaphor: A Practical Introduction*. Oxford University Press.
+

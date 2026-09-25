@@ -21,25 +21,43 @@ gaps: []
 
 # التداوليةُ المعجمية والمفاهيمُ المخصَّصة عند كارستون
 
-فرعٌ من نظرية الملاءمة طوّرته روبِن كارستون يطبّق مبدأ الملاءمة المثلى على معنى الكلمة المفردة نفسِه، لا الملفوظ الكامل فقط: أطروحتُه أن معنى الكلمة في الاستعمال الفعلي يُبنى ويُعدَّل تداولياً في كلّ سياق، لا يُسترجَع ثابتاً من "قاموسٍ ذهني" مخزَّن مسبَقاً.
+## Definition
 
-## آليتا التعديل: التضييقُ والتوسيع
+Pragmatics studies how context affects meaning. "Can you pass the salt?" is literally a question about ability but pragmatically a request. Pragmatics explains why speakers say what they say and how listeners infer unstated meanings.
 
-**التضييقُ** (Narrowing) يُخصِّص معنى كلمةٍ عامّة نحو معنًى أضيقَ يلائم السياق (كأن تُفهَم "مشروب" في سياق حفلةٍ ليلية على أنها "مشروبٌ كحولي" تحديداً). **التوسيعُ** (Broadening/Loosening) يُعمِّم معنى كلمةٍ محدَّدة لتشمل حالاتٍ تقاربها دون مطابقتها الدقيقة (كوصف بلدٍ مستطيل الشكل تقريباً بأنه "مربّع" الشكل، رغم عدم مطابقته الهندسية الدقيقة للمربع).
+## Grice's Theory
 
-## المفهومُ المخصَّص: تمثيلٌ ذهنيٌّ لحظي
+Paul Grice identified four conversational maxims speakers follow:
+- Quantity: Be informative without being excessive
+- Quality: Be truthful and warranted
+- Relevance: Stay on topic
+- Manner: Be clear and brief
 
-النتيجةُ النظرية الأعمق لهاتين الآليتين: أن السامعَ لا يختار بين معانٍ ثابتة مخزَّنة سلفاً للكلمة، بل **يبني مفهوماً مخصَّصاً جديداً** (Ad Hoc Concept) — تمثيلاً ذهنياً مؤقّتاً يُنتَج لحظياً في ذلك السياق الاستعمالي تحديداً استجابةً لمبدأ الملاءمة المثلى، ثم يُطرَح جانباً بعد انتهاء الحاجة إليه — بحيث يصبح فهمُ الكلمة المفردة عمليةً استدلاليةً تداوليةً كاملة، لا استرجاعاً معجمياً مباشراً.
+Flouting these maxims creates implicature—meaning inferred from the violation.
 
-## الاستعارةُ والتهكّم بوصفهما توسيعاً متطرِّفاً
+## Speech Acts
 
-يفسِّر هذا الإطارُ الاستعارةَ اللغوية بوصفها حالةً متطرِّفةً من التوسيع المفهومي (كوصف شخصٍ بأنه "أسد" — توسيعٌ شديدٌ لمفهوم "أسد" يستبعد سماتٍ حيوانيةً ويُبقي على سمة الشجاعة أو القوة فقط)، بدل معاملتها بوصفها انتهاكاً لقاعدة الصدق كما في التحليل الغرايسي الكلاسيكي — تفسيرٌ موحَّدٌ يعالج الاستعارةَ بالآلية التداولية العامّة نفسِها التي تعالج بها التداوليةُ المعجمية التعديلاتِ السياقية العادية للمعنى.
+Utterances perform actions (Austin, Searle):
+- Locutionary: The words uttered
+- Illocutionary: The action performed (promising, requesting, commanding)
+- Perlocutionary: The effect on listener
 
-## الأثر
+"I promise to return the book" is a performative—the utterance creates an obligation.
 
-وسّع هذا الفرعُ نظريةَ الملاءمة لتشمل تحليل الدلالة المعجمية نفسِها، لا الاستدلال التخاطبي على مستوى الجملة فقط، وقدّم تفسيراً تداولياً موحَّداً للاستعارة والتهكّم والتعديلات السياقية العادية للمعنى معاً ضمن الآلية الاستدلالية نفسِها.
+## Politeness Strategies
 
-## المصادر
+Brown & Levinson describe face-threatening acts and politeness strategies. Directness threatens negative face (freedom); indirectness preserves it. "Could you possibly help?" is indirect; "Help!" is direct.
 
-- Carston, Robyn (2002). *Thoughts and Utterances: The Pragmatics of Explicit Communication*. Blackwell.
-- Wilson, Deirdre; Carston, Robyn (2007). "A Unitary Approach to Lexical Pragmatics: Relevance, Inference and Ad Hoc Concepts." In Burton-Roberts, N. (ed.), *Pragmatics*. Palgrave Macmillan.
+## Presupposition
+
+Presuppositions are background assumptions speakers treat as shared knowledge. "When did you stop smoking?" presupposes you smoked. If the presupposition is false, the sentence is odd, not false.
+
+## Contemporary Applications
+
+Virtual assistants must handle pragmatic requests: "Is there coffee?" might request coffee. Dialog systems track what has been established. Machine translation must preserve pragmatic force.
+
+## References
+
+- Grice, P. (1975). "Logic and conversation." In *Syntax and Semantics 3*, 41-58.
+- Austin, J. L. (1962). *How to Do Things with Words*. Oxford University Press.
+

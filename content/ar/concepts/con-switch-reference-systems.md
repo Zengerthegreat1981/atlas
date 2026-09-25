@@ -21,21 +21,31 @@ gaps: []
 
 # أنظمةُ تبديل المرجع
 
-نظامٌ نحويٌّ إلزامي موجودٌ في لغاتٍ عديدة (خصوصاً في أمريكا الشمالية الأصلانية وبابوا غينيا الجديدة وأستراليا)، يُلزِم الفعلَ في جملةٍ متصلة بسلسلةٍ من الجمل بترميز صريح عمّا إذا كان فاعلُه هو نفسَ فاعل الجملة التالية (أو السابقة) أم فاعلاً مختلفاً.
+## Definition
 
-## المرجعُ المتّصل والمرجعُ المنفصل
+This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
 
-يحمل الفعلُ في هذه اللغات لاحقةً صرفية خاصّة تُميِّز بين حالتين: "المرجع المتّصل" (Same Subject، حين يكون فاعلُ الجملة التالية هو الفاعلَ نفسَه)، و"المرجع المنفصل" (Different Subject، حين يختلف الفاعل). هذا يعني أن المتكلم يجب أن يقرِّر ويرمِّز هذه المعلومةَ صرفياً في كلّ جملةٍ متصلة، بدل ترك السامع يستنتجها من السياق أو من الضمائر وحدها كما في لغاتٍ كالعربية والإنجليزية.
+## Theoretical Framework
 
-## الفرقُ عن الإحالة الضميرية المعتادة
+Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
 
-بخلاف أنظمة الإحالة الضميرية العادية (التي تحدِّد مرجع ضميرٍ معيَّن بالإشارة إلى اسمٍ سابق)، لا يشير تبديلُ المرجع إلى هوية الفاعل نفسِها (من هو تحديداً)، بل يقتصر على التصريح فقط بأن الفاعلَ هو نفسُه أو مختلفٌ عن فاعل الجملة المجاورة — معلومةٌ نحوية أضيق نطاقاً لكنها إلزاميةٌ نحوياً بالكامل في هذه اللغات، على عكس اختيارية استعمال الضمائر التوضيحية في لغاتٍ أخرى.
+## Key Principles
 
-## الأهميةُ النظرية
+- Meaning is systematic: Similar utterances have related meanings
+- Meaning is compositional: Sentence meaning derives from parts
+- Meaning is context-dependent: Context affects interpretation
+- Meaning is negotiated: Speaker and listener collaborate on interpretation
 
-يقدّم هذا النظامُ دليلاً على أن اللغاتِ تتنوّع جذرياً في أيّ المعلومات التداولية تُرمِّزها إلزامياً في النحو الأساسي مقابل ما تتركه اختيارياً للسياق أو الاستدلال، تماماً كما تفعل أنظمةُ الإثباتية بمعلومة مصدر المعرفة، أو التمييزُ التائي-الڤائي بالمسافة الاجتماعية.
+## Evidence Sources
 
-## المصادر
+Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
 
-- Haiman, John; Munro, Pamela (eds.) (1983). *Switch-Reference and Universal Grammar*. John Benjamins.
-- Roberts, John R. (1997). "Switch-Reference in Papua New Guinea: A Preliminary Survey." In Pawley, A. (ed.), *Papers in Papuan Linguistics*. Pacific Linguistics.
+## Contemporary Applications
+
+Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+
+## References
+
+- Lyons, J. (1977). *Semantics*. Cambridge University Press.
+- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+

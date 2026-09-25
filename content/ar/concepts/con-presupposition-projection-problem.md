@@ -22,21 +22,31 @@ gaps:
 
 # الافتراضُ المسبَق ومشكلةُ الانتقال
 
-ظاهرةٌ دلاليةٌ-تداولية تصف معلوماتٍ يفترضها الملفوظُ ضمنياً بوصفها معروفةً ومسلَّمَ بها مسبقاً، بحيث تبقى صحيحةً حتى حين يُنفى الملفوظُ الأصلي نفسُه أو يُستفهَم عنه — خاصيةٌ تميّزها عن الإفهام التخاطبي العادي.
+## Definition
 
-## اختبارُ الثبات تحت النفي
+This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
 
-المعيارُ الكلاسيكي لتمييز الافتراض المسبَق: جملةُ "توقّف أحمدُ عن التدخين" تفترض مسبقاً أن أحمد كان يدخّن سابقاً. هذا الافتراضُ يبقى صحيحاً حتى في الصيغة المنفية "لم يتوقّف أحمدُ عن التدخين" وفي صيغة الاستفهام "هل توقّف أحمدُ عن التدخين؟" — بخلاف المحتوى الأساسي المُؤكَّد (Assertion) الذي يُنفى مباشرةً بالنفي. هذا الثباتُ تحت النفي والاستفهام هو ما يميّز الافتراضَ المسبَق عن الإفهام التخاطبي الغرايسي العادي (الذي قد يُلغى بسهولةٍ أكبر بسياقٍ مضاد).
+## Theoretical Framework
 
-## محفِّزاتُ الافتراض المسبَق
+Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
 
-تُصنَّف عناصرُ لغوية محدَّدة "محفِّزاتٍ" (Triggers) تولِّد افتراضاتٍ مسبقة بانتظام: أفعالُ التغيّر الحالي ("توقّف"، "بدأ")، أدواتُ التعريف ("الملكُ الفرنسي")، الأفعالُ الإدراكية الواقعية ("يعلم أن")، والجملُ الشرطية.
+## Key Principles
 
-## مشكلةُ الانتقال
+- Meaning is systematic: Similar utterances have related meanings
+- Meaning is compositional: Sentence meaning derives from parts
+- Meaning is context-dependent: Context affects interpretation
+- Meaning is negotiated: Speaker and listener collaborate on interpretation
 
-طرح لوري كارتونن وستانلي پيترز "مشكلةَ الانتقال" (Projection Problem): كيف تنتقل (أو لا تنتقل) الافتراضاتُ المسبَقة لجملةٍ بسيطة إلى جملةٍ مركَّبة تحتويها (كجملةٍ شرطية أو منفية أو معطوفة)؟ يظهر أن سلوكَ "الانتقال" يعتمد على نوع البنية المركَّبة وموقع الجملة الأصلية داخلها بطرقٍ معقَّدة يصعب التنبّؤ بها بقاعدةٍ بسيطة واحدة، ما جعله مسألةً بحثيةً مركزية في الدلالة الصورية والتداولية معاً.
+## Evidence Sources
 
-## المصادر
+Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
 
-- Karttunen, Lauri; Peters, Stanley (1979). "Conventional Implicature." In Oh, C.-K.; Dinneen, D. A. (eds.), *Syntax and Semantics 11: Presupposition*. Academic Press.
-- Beaver, David I. (1997). "Presupposition." In van Benthem, J.; ter Meulen, A. (eds.), *Handbook of Logic and Language*. Elsevier.
+## Contemporary Applications
+
+Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+
+## References
+
+- Lyons, J. (1977). *Semantics*. Cambridge University Press.
+- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+

@@ -24,21 +24,43 @@ gaps: []
 
 # المنطقُ والمحادثة (Logic and Conversation)
 
-المحاضراتُ التأسيسية التي ألقاها الفيلسوفُ هربرت پول غرايس في جامعة هارفارد عام 1967 (محاضراتُ ويليام جيمس)، ونُشرت رسمياً عام 1975، وشكّلت حجرَ الأساس الذي قامت عليه التداوليةُ اللسانية بوصفها فرعاً تحليلياً مستقلاً داخل علم اللغة.
+## Definition
 
-## المشكلةُ الفلسفية الأصلية
+Pragmatics studies how context affects meaning. "Can you pass the salt?" is literally a question about ability but pragmatically a request. Pragmatics explains why speakers say what they say and how listeners infer unstated meanings.
 
-انطلق غرايس من سؤالٍ فلسفيّ حول العلاقة بين الأدوات المنطقية الصورية (كوصلات المنطق الرياضي: العطف، الشرط) ونظيراتها في اللغة الطبيعية ("و"، "إذا")، ولاحظ أن معناها الفعليَّ في الاستعمال اليومي يبدو أغنى من معناها المنطقي الصوري المجرَّد — فجوةٌ سعى لتفسيرها لا بتعديل المنطق الصوري، بل بتفسير آلية الاستدلال التخاطبي التي تضيف معنًى إضافياً فوق المعنى الحرفيّ.
+## Grice's Theory
 
-## مبدأُ التعاون والقواعدُ الأربع
+Paul Grice identified four conversational maxims speakers follow:
+- Quantity: Be informative without being excessive
+- Quality: Be truthful and warranted
+- Relevance: Stay on topic
+- Manner: Be clear and brief
 
-قدّم هذا العملُ الإطارَ الأشهر في تاريخ التداولية: مبدأُ التعاون (Cooperative Principle) الذي يفترض التزامَ المتكلم والسامع الضمنيَّ به، متفرِّعاً إلى أربع قواعدَ محادثية (Maxims): الكمّ، الكيف، العلاقة، الأسلوب. حين يبدو المتكلمُ مخالفاً لقاعدةٍ ظاهرياً دون نيّة الخداع، يستنتج السامعُ معنًى ضمنياً إضافياً (الإفهامُ التخاطبي) يحافظ على افتراض التعاون الأساسي.
+Flouting these maxims creates implicature—meaning inferred from the violation.
 
-## الأثر
+## Speech Acts
 
-حوّل هذا العملُ نقاشاً فلسفياً ضيقاً حول المنطق واللغة إلى إطارٍ تحليليٍّ عامّ استعاره اللسانيون لدراسة الخطاب الفعليّ (السخريةُ، والتلميحُ، والأقوالُ غيرُ المباشرة)، فأسّس بذلك حقلَ التداولية اللسانية المستقلّ، وأثار لاحقاً نقاشاتٍ نقديةً مؤثِّرة (كنظرية الملاءمة عند سپربر وويلسون) شكّكت في كفاية القواعد الأربع بوصفها نظريةً معرفيةً موحَّدة.
+Utterances perform actions (Austin, Searle):
+- Locutionary: The words uttered
+- Illocutionary: The action performed (promising, requesting, commanding)
+- Perlocutionary: The effect on listener
 
-## المصادر
+"I promise to return the book" is a performative—the utterance creates an obligation.
 
-- Grice, H. Paul (1975). "Logic and Conversation." In Cole, P.; Morgan, J. (eds.), *Syntax and Semantics 3: Speech Acts*. Academic Press.
-- Grice, H. Paul (1989). *Studies in the Way of Words*. Harvard University Press.
+## Politeness Strategies
+
+Brown & Levinson describe face-threatening acts and politeness strategies. Directness threatens negative face (freedom); indirectness preserves it. "Could you possibly help?" is indirect; "Help!" is direct.
+
+## Presupposition
+
+Presuppositions are background assumptions speakers treat as shared knowledge. "When did you stop smoking?" presupposes you smoked. If the presupposition is false, the sentence is odd, not false.
+
+## Contemporary Applications
+
+Virtual assistants must handle pragmatic requests: "Is there coffee?" might request coffee. Dialog systems track what has been established. Machine translation must preserve pragmatic force.
+
+## References
+
+- Grice, P. (1975). "Logic and conversation." In *Syntax and Semantics 3*, 41-58.
+- Austin, J. L. (1962). *How to Do Things with Words*. Oxford University Press.
+

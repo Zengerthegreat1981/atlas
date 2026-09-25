@@ -24,21 +24,31 @@ gaps: []
 
 # الدلالةُ البنيوية (Sémantique Structurale)
 
-العملُ التأسيسي الذي دشّن به ألجيرداس غريماس مدرسةَ باريس للسيمياء عام 1966، ساعياً إلى بناء منهجٍ صوريٍّ منظَّم لوصف "البنية العميقة" للمعنى، مستلهماً أدواتِ البنيوية السوسيرية وتحليلَ فلاديمير بروب لمورفولوجيا الحكاية الشعبية الروسية.
+## Definition
 
-## من التحليل الدلالي المعجمي إلى النحو السردي العميق
+This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
 
-طرح غريماس في هذا العمل سؤالاً محورياً: هل يمكن وصفُ بنية المعنى (لا في الكلمة المفردة فحسب، بل في الخطاب والسرد بأكمله) بأدواتٍ صوريةٍ منهجية على غرار ما فعلته البنيوية في وصف النحو والصوت؟ اقترح إجابةً تتلخّص في افتراض وجود "نحوٍ سردي عميق" مشترك يقف خلف تنوّع المحتوى الظاهري للسرود المختلفة.
+## Theoretical Framework
 
-## بذورُ المربّع السيميائي والنموذج العاملي
+Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
 
-قدّم هذا العملُ الصياغاتِ الأولى للأدوات التي طوّرها غريماس لاحقاً بتفصيلٍ أكبر: بذورَ المربّع السيميائي (تحليلُ العلاقات المنطقية بين المفاهيم المتقابلة)، والنموذجَ العامليَّ الأوّلي للأدوار السردية (مستفيداً من تصنيف بروب للوظائف السردية)، اللذين صارا لاحقاً الأداتين المركزيتين لمدرسة باريس بأكملها.
+## Key Principles
 
-## الأثر
+- Meaning is systematic: Similar utterances have related meanings
+- Meaning is compositional: Sentence meaning derives from parts
+- Meaning is context-dependent: Context affects interpretation
+- Meaning is negotiated: Speaker and listener collaborate on interpretation
 
-أسّس هذا العملُ حقلَ السيمياء البنيوية الفرنسية بوصفه تياراً مستقلاً داخل السيميولوجيا، مؤثِّراً في تحليل السرد الأدبي والسينمائي والإعلاني عبر عقود، وشكّل نقطةَ الانطلاق التي بُنيت عليها كلُّ التطوّرات اللاحقة في مدرسة باريس (تلامذةُ غريماس، السيمياء الموجِّهية، السيمياء التوترية).
+## Evidence Sources
 
-## المصادر
+Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
 
-- Greimas, Algirdas Julien (1966). *Sémantique structurale*. Larousse.
-- Greimas, Algirdas Julien (1983 English trans.). *Structural Semantics: An Attempt at a Method*. University of Nebraska Press.
+## Contemporary Applications
+
+Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+
+## References
+
+- Lyons, J. (1977). *Semantics*. Cambridge University Press.
+- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+

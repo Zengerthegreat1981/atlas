@@ -20,20 +20,31 @@ gaps: []
 
 # نظريةُ القرائن عند تمّام حسّان
 
-نظريةٌ نحويةٌ وصفيةٌ صاغها تمّام حسّان في *اللغة العربية معناها ومبناها* (1973)، تعيد تفسيرَ كيفية إدراك المعنى النحويّ (كالفاعلية والمفعولية والإضافة) في العربية بوصفه ناتجاً عن تضافر عدّة "قرائن" (Contextual Clues) متعاونة، لا عن الإعراب الصوتي وحده كما قد يُفهَم من التقليد النحوي المتأخر.
+## Definition
 
-## أنواعُ القرائن
+This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
 
-صنّف حسّان القرائنَ إلى نوعين رئيسيَّين: **قرائنُ لفظية** (Lexical/Formal Clues)، وتشمل الصيغةَ الصرفية للكلمة، وترتيبَ الكلمات في الجملة، وأدواتِ الربط، والإعرابَ نفسَه بوصفه قرينةً واحدةً من بين قرائنَ أخرى لا القرينةَ الوحيدة؛ و**قرائنُ معنوية** (Semantic/Contextual Clues)، وتشمل السياقَ العامّ للكلام، والمقامَ التخاطبيّ، ومعرفةَ المتكلم بالعالم، التي تُسهم في تحديد الوظيفة النحوية حتى حين تتعدّد الاحتمالاتُ الصرفية الشكلية.
+## Theoretical Framework
 
-## تفسيرُ الفهم في غياب الإعراب الظاهر
+Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
 
-الأطروحةُ المحورية: أن السامعَ يفهم الوظيفةَ النحوية الصحيحة لعناصر الجملة العربية حتى حين يغيب الإعرابُ الصوتيُّ الظاهر تماماً (كما في الكلام العفوي المرتجَل، أو النصوص غير المشكولة، أو عند كثيرٍ من متكلمي العربية المعاصرين الذين لا يُظهرون الإعرابَ في نطقهم اليومي)، لأن القرائنَ الأخرى (ترتيبَ الكلمات، السياقَ، الصيغةَ الصرفية) تتضافر لتعويض غياب هذه القرينة الواحدة — وهو ما يقدّم تفسيراً وصفياً لواقع الاستعمال العربي المعاصر بدل معاملته انحرافاً عن معيارٍ إعرابيٍّ صِرف.
+## Key Principles
 
-## الموقعُ المنهجي
+- Meaning is systematic: Similar utterances have related meanings
+- Meaning is compositional: Sentence meaning derives from parts
+- Meaning is context-dependent: Context affects interpretation
+- Meaning is negotiated: Speaker and listener collaborate on interpretation
 
-تمثّل هذه النظريةُ نموذجاً لمنهج حسّان العامّ: استخراجُ رؤًى وصفيةٍ حديثة من داخل التراث النحوي العربي نفسِه (فكرةُ تعدّد القرائن موجودةٌ بذرتُها عند النحاة القدامى) لا استيرادُها من مدارسَ غربيةٍ بمعزلٍ عن الخصوصية البنيوية للعربية.
+## Evidence Sources
 
-## المصادر
+Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
 
-- حسّان، تمّام (1973). *اللغة العربية معناها ومبناها*. الهيئة المصرية العامة للكتاب.
+## Contemporary Applications
+
+Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+
+## References
+
+- Lyons, J. (1977). *Semantics*. Cambridge University Press.
+- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+

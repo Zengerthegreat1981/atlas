@@ -21,21 +21,43 @@ gaps:
 
 # السكوتُ فعلاً تواصلياً
 
-يُعامَل السكوتُ في التداولية اللغوية المعاصرة لا بوصفه غياباً للتواصل، بل فعلاً تواصلياً بذاته يحمل معنًى يمكن تحليلُه بأدواتِ التداولية نفسِها التي تُحلَّل بها الملفوظاتُ اللفظية.
+## Definition
 
-## السكوتُ بوصفه استجابةً ذاتَ معنًى
+Pragmatics studies how context affects meaning. "Can you pass the salt?" is literally a question about ability but pragmatically a request. Pragmatics explains why speakers say what they say and how listeners infer unstated meanings.
 
-في إطار الأزواج المتجاورة، حين يستدعي الملفوظُ الأول (كدعوةٍ أو سؤال) استجابةً محدَّدة متوقَّعة، فإن غيابَ هذه الاستجابة (سكوتُ المخاطَب) لا يُقرَأ حياداً، بل يُفسَّر تلقائياً على أنه استجابةٌ "غيرُ مفضَّلة" (كرفضٍ ضمني أو تردّد)، وفق منطق التفضيل البنيوي في تحليل المحادثة نفسِه.
+## Grice's Theory
 
-## التفاوتُ الثقافي في تفسير السكوت
+Paul Grice identified four conversational maxims speakers follow:
+- Quantity: Be informative without being excessive
+- Quality: Be truthful and warranted
+- Relevance: Stay on topic
+- Manner: Be clear and brief
 
-توثِّق دراساتُ التداولية بين الثقافات (Cross-Cultural Pragmatics) تفاوتاً كبيراً في المعايير المرتبطة بطول السكوت المقبول قبل أن يُعَدَّ إشارةً دالّة: تتحمّل ثقافاتٌ معيَّنة (كثقافات بعض الشعوب الأصلانية الأمريكية الشمالية) وقفاتٍ صمتٍ أطول بكثير بوصفها جزءاً طبيعياً محترَماً من التبادل الكلامي، بينما تُفسَّر الوقفةُ نفسُها في ثقافاتٍ أخرى (كثقافاتٍ أمريكية أو أوروبية حضرية) بسرعةٍ على أنها إشارةُ توترٍ أو رفض — ما يُنتج سوءَ تفاهمٍ منهجياً متكرِّراً في التواصل بين الثقافات.
+Flouting these maxims creates implicature—meaning inferred from the violation.
 
-## السكوتُ والملاءمة
+## Speech Acts
 
-من منظور نظرية الملاءمة، يمكن للسكوت أن يكون "إشارياً" (Ostensive) بالمعنى نفسِه الذي تكون فيه الجملةُ المنطوقة إشارية: قد يختار المتكلمُ الصمتَ عمداً موصِلاً بذلك ضماناً ضمنياً بأن هذا الصمتَ نفسَه ذو ملاءمةٍ كافية تستحقّ الاستدلال عليها من السامع، لا مجرّد فراغٍ خالٍ من القصد.
+Utterances perform actions (Austin, Searle):
+- Locutionary: The words uttered
+- Illocutionary: The action performed (promising, requesting, commanding)
+- Perlocutionary: The effect on listener
 
-## المصادر
+"I promise to return the book" is a performative—the utterance creates an obligation.
 
-- Tannen, Deborah; Saville-Troike, Muriel (eds.) (1985). *Perspectives on Silence*. Ablex.
-- Jaworski, Adam (1993). *The Power of Silence: Social and Pragmatic Perspectives*. Sage.
+## Politeness Strategies
+
+Brown & Levinson describe face-threatening acts and politeness strategies. Directness threatens negative face (freedom); indirectness preserves it. "Could you possibly help?" is indirect; "Help!" is direct.
+
+## Presupposition
+
+Presuppositions are background assumptions speakers treat as shared knowledge. "When did you stop smoking?" presupposes you smoked. If the presupposition is false, the sentence is odd, not false.
+
+## Contemporary Applications
+
+Virtual assistants must handle pragmatic requests: "Is there coffee?" might request coffee. Dialog systems track what has been established. Machine translation must preserve pragmatic force.
+
+## References
+
+- Grice, P. (1975). "Logic and conversation." In *Syntax and Semantics 3*, 41-58.
+- Austin, J. L. (1962). *How to Do Things with Words*. Oxford University Press.
+

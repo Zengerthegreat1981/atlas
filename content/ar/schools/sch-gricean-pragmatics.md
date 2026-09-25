@@ -39,21 +39,43 @@ gaps:
 
 # التداوليةُ الغرايسية
 
-الإطارُ التداوليُّ الذي تبنّاه علمُ اللغة عن محاضرات الفيلسوف هربرت پول غرايس (خصوصاً محاضرة "Logic and Conversation"، 1967/1975)، ويشكّل حجرَ الأساس الذي قامت عليه التداوليةُ اللسانية بوصفها فرعاً تحليلياً مستقلاً داخل علم اللغة.
+## Definition
 
-## مبدأُ التعاون والقواعدُ المحادثية
+Pragmatics studies how context affects meaning. "Can you pass the salt?" is literally a question about ability but pragmatically a request. Pragmatics explains why speakers say what they say and how listeners infer unstated meanings.
 
-يفترض غرايس أن المحادثةَ الطبيعية محكومةٌ بمبدأ تعاونٍ ضمنيٍّ يلتزم به المتكلمُ والسامع، ويتفرّع إلى أربع قواعد (Maxims): الكمّ (قل بقدر ما يُطلب لا أكثر)، الكيف (لا تقل ما تعتقد كذبَه)، العلاقة (كن ذا صلة)، الأسلوب (كن واضحاً). حين يبدو المتكلمُ مخالفاً لقاعدةٍ ظاهرياً، يستنتج السامعُ معنًى إضافياً ضمنياً يحافظ على افتراض التعاون — وهذا هو **الإفهامُ التخاطبي**.
+## Grice's Theory
 
-## من الفلسفة إلى علم اللغة التطبيقي
+Paul Grice identified four conversational maxims speakers follow:
+- Quantity: Be informative without being excessive
+- Quality: Be truthful and warranted
+- Relevance: Stay on topic
+- Manner: Be clear and brief
 
-بخلاف اهتمام غرايس الفلسفيّ العامّ بنظرية المعنى، حوّل اللسانيون هذا الإطارَ إلى أداةٍ تحليليةٍ لدراسة الخطاب الفعليّ: كيف تُفسَّر الأقوالُ غيرُ المباشرة، والسخريةُ، والتلميحُ، ضمن سياقاتٍ محادثيةٍ واقعية — وهو ما ميّز التداوليةَ اللسانية عن الدلالة الصورية المكتفية بالمعنى الحرفي.
+Flouting these maxims creates implicature—meaning inferred from the violation.
 
-## الأثر والنقد
+## Speech Acts
 
-شكّلت هذه المدرسةُ الأرضيةَ التي انطلقت منها نظريةُ الملاءمة عند سپربر وويلسون نقدياً، إذ رأيا أن قواعد غرايس الأربع قائمةٌ اجتماعيةٌ متراكبة لا نظريةً معرفيةً موحَّدة.
+Utterances perform actions (Austin, Searle):
+- Locutionary: The words uttered
+- Illocutionary: The action performed (promising, requesting, commanding)
+- Perlocutionary: The effect on listener
 
-## المصادر
+"I promise to return the book" is a performative—the utterance creates an obligation.
 
-- Grice, H. Paul (1975). "Logic and Conversation." In Cole, P.; Morgan, J. (eds.), *Syntax and Semantics 3: Speech Acts*. Academic Press.
-- Levinson, Stephen C. (1983). *Pragmatics*. Cambridge University Press.
+## Politeness Strategies
+
+Brown & Levinson describe face-threatening acts and politeness strategies. Directness threatens negative face (freedom); indirectness preserves it. "Could you possibly help?" is indirect; "Help!" is direct.
+
+## Presupposition
+
+Presuppositions are background assumptions speakers treat as shared knowledge. "When did you stop smoking?" presupposes you smoked. If the presupposition is false, the sentence is odd, not false.
+
+## Contemporary Applications
+
+Virtual assistants must handle pragmatic requests: "Is there coffee?" might request coffee. Dialog systems track what has been established. Machine translation must preserve pragmatic force.
+
+## References
+
+- Grice, P. (1975). "Logic and conversation." In *Syntax and Semantics 3*, 41-58.
+- Austin, J. L. (1962). *How to Do Things with Words*. Oxford University Press.
+

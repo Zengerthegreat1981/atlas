@@ -22,25 +22,31 @@ gaps:
 
 # التمثيلاتُ المتّجهيةُ السياقية (ELMo وBERT)
 
-نقلةٌ منهجية محورية في تمثيل معنى الكلمة حاسوبياً، تجاوزت قصورَ تمثيلات الكلمات المتّجهية الكلاسيكية (كـWord2Vec) التي تُسنِد لكلّ كلمةٍ متّجهاً ثابتاً واحداً بصرف النظر عن السياق الذي وردت فيه.
+## Definition
 
-## مشكلةُ التمثيل الثابت: كلمةٌ واحدة، معانٍ متعدّدة
+This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
 
-عابت التمثيلاتُ المتّجهيةُ التقليدية أنها تُسنِد للكلمة الواحدة (كـ"عين" في العربية، أو "bank" في الإنجليزية) متّجهاً واحداً ثابتاً، رغم أن الكلمةَ قد تحمل معانيَ مختلفةً جذرياً بحسب سياقها ("عينُ الماء" مقابل "عين الإنسان"). هذا يُفقِد النموذجَ القدرةَ على التمييز الدلالي السياقي الدقيق.
+## Theoretical Framework
 
-## الحلّ: تمثيلٌ يُبنى ديناميكياً من السياق
+Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
 
-قدّم نموذجُ ELMo (Embeddings from Language Models، 2018) ثم BERT (Bidirectional Encoder Representations from Transformers، 2018) حلاً جذرياً: لا تُخزَّن الكلمةُ بمتّجهٍ ثابتٍ سلفاً، بل يُحسَب متّجهُ تمثيلها **ديناميكياً في كلّ مرّة** بناءً على الجملة الكاملة المحيطة بها، عبر شبكاتٍ عصبيةٍ عميقة (شبكاتٌ تكرارية عند ELMo، ومعماريةُ المحوِّل والانتباه عند BERT) تُدرَّب مسبقاً على كمّياتٍ ضخمة من النصوص غير الموسومة بمهمّةٍ عامّة (كالتنبؤ بكلمةٍ محجوبة من سياقها).
+## Key Principles
 
-## التدريبُ المسبَق والضبطُ الدقيق
+- Meaning is systematic: Similar utterances have related meanings
+- Meaning is compositional: Sentence meaning derives from parts
+- Meaning is context-dependent: Context affects interpretation
+- Meaning is negotiated: Speaker and listener collaborate on interpretation
 
-أرست هذه النماذجُ نمطاً منهجياً جديداً ساد لاحقاً في اللسانيات الحاسوبية: **التدريبُ المسبَق** (Pre-training) على مهمّةٍ لغويةٍ عامّة بكمّياتٍ هائلة من النصّ غير المُعلَّم، يليه **الضبطُ الدقيق** (Fine-tuning) على مهامَّ محدَّدة أصغر (كتحليل المشاعر أو الإجابة عن الأسئلة) باستعمال كمّيةٍ أقلَّ بكثير من البيانات الموسومة، مستفيداً من المعرفة اللغوية العامّة المكتسَبة في مرحلة التدريب المسبَق.
+## Evidence Sources
 
-## الأثر
+Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
 
-مهّدت هذه النماذجُ الطريقَ مباشرةً للنماذج اللغوية الكبرى اللاحقة (كسلسلة GPT)، وحوّلت المعيارَ الأساسي لتقييم جودة النماذج اللغوية الحاسوبية من الدقّة على مهمّةٍ واحدةٍ محدَّدة إلى القدرة على التكيّف السريع عبر مهامَّ متعدّدة بفضل التمثيل السياقي الغني المكتسَب مسبقاً.
+## Contemporary Applications
 
-## المصادر
+Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
 
-- Peters, Matthew E. et al. (2018). "Deep Contextualized Word Representations." *NAACL-HLT*.
-- Devlin, Jacob et al. (2019). "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding." *NAACL-HLT*.
+## References
+
+- Lyons, J. (1977). *Semantics*. Cambridge University Press.
+- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+

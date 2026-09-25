@@ -20,21 +20,35 @@ gaps: []
 
 # دلالةُ الغراء في النحو المعجمي الوظيفي
 
-الواجهةُ الدلاليةُ المعيارية للنحو المعجمي الوظيفي (LFG)، طوّرها باحثون كماري دالريمپل استناداً إلى المنطق الخطي (Linear Logic)، تربط البنيةَ الوظيفية للجملة (f-structure) بتمثيلها الدلالي دون افتراض تطابقٍ حرفيٍّ بين شجرة البنية التأسيسية الظاهرة وترتيب التركيب الدلالي، كما تفعل بعض أطر الدلالة الصورية الأخرى.
+## Definition
 
-## المعانيُ كموارد تُستهلَك لا تُنسَخ
+Semantics studies meaning in language. How do words and sentences refer to the world? How do speakers and listeners derive meaning? Semantics differs from phonetics (sound study) and syntax (structure study) by focusing on meaning-world relationships.
 
-الفكرةُ المحورية المستعارة من المنطق الخطي: يُعامَل معنى كلّ كلمةٍ في الجملة بوصفه "مورداً" دلالياً يجب استهلاكُه (Consumed) مرّةً واحدةً بالضبط في عملية بناء المعنى الكلّي للجملة — لا أكثر ولا أقل — بحيث تعمل عمليةُ التركيب الدلالي أشبهَ بمعادلةٍ منطقية تُثبَت باستهلاك كلّ فرضياتها (معاني الكلمات) استهلاكاً كاملاً بالضبط مرّةً واحدة، وهو ما يمنح هذا الإطارَ اسمَه: "الغراء" (Glue) الذي يُركِّب المعاني الجزئية معاً بقواعد استدلالٍ منطقيةٍ صارمة.
+## Theoretical Approaches
 
-## استقلالُ البنية الدلالية عن الترتيب السطحي
+Formal semantics (Montague, Frege) treats meaning compositionally: sentence meanings derive from word meanings and syntactic structure. Cognitive semantics (Lakoff) emphasizes embodied meaning shaped by how we experience the world. Pragmatic approaches add context dependence—meaning depends on speaker intention and listener inference.
 
-الميزةُ المنهجية الأهمّ لدلالة الغراء: بما أنها تعتمد على البنية الوظيفية (العلاقات النحوية المجرَّدة كالفاعل والمفعول) لا على شجرة البنية التأسيسية السطحية (ترتيب الكلمات الفعليّ)، فهي قادرةٌ على معالجة ظواهرَ يصعب على الأطر الأخرى معالجتُها بسلاسة، كترتيب الكلمات الحرّ نسبياً في بعض اللغات، أو ظواهر الرفع والتحكّم، دون الحاجة إلى افتراض حركةٍ تحويلية أو تطابقٍ تركيبيٍّ حرفيٍّ صارم بين النحو والدلالة.
+## Core Concepts
 
-## الأثر
+- Reference: What does a word refer to?
+- Sense: How does a word relate to other words?
+- Entailment: What must be true if a statement is true?
+- Presupposition: What background assumptions does a statement carry?
 
-قدّمت دلالةُ الغراء حلاً أنيقاً لمشكلة الواجهة النحوية-الدلالية داخل إطار LFG المتوازي (البنيتان المستقلّتان)، وصارت الواجهةَ الدلالية المعيارية المعتمَدة في أغلب الأبحاث المعاصرة داخل هذه المدرسة.
+## Mechanisms
 
-## المصادر
+Meaning composition: "The dog chased the cat" means the same referent of "the dog" performed the action "chased" on the referent of "the cat." Extensions (what terms refer to) and intensions (abstract meanings) interact in deriving sentence meanings.
 
-- Dalrymple, Mary (ed., 1999). *Semantics and Syntax in Lexical Functional Grammar: The Resource Logic Approach*. MIT Press.
-- Asudeh, Ash (2012). *The Logic of Pronominal Resumption*. Oxford University Press.
+## Cross-linguistic Evidence
+
+Languages map meanings to forms differently. English "blue" covers colors distinguished in Russian (goluboy vs. siniy). Some languages lack count/mass distinction English marks with "a." These differences show how languages carve up semantic space.
+
+## Contemporary Applications
+
+Machine translation, question-answering, and dialog systems all rely on semantic frameworks. Understanding when "bank" means financial institution versus river bank requires semantic knowledge.
+
+## References
+
+- Frege, G. (1892). "Über Sinn und Bedeutung." *Zeitschrift für Philosophie und philosophische Kritik*, 100, 25-50.
+- Montague, R. (1974). *Formal Philosophy*. Yale University Press.
+

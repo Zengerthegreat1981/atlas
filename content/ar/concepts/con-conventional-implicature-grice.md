@@ -22,21 +22,43 @@ gaps: []
 
 # الإفهامُ الاصطلاحي عند غرايس
 
-صنفٌ ثانٍ من الإفهام (Implicature) ميّزه غرايس عن الإفهام التخاطبي، يختلف عنه اختلافاً جوهرياً في مصدره وآلية اشتقاقه، رغم اشتراكهما في كون كليهما معنًى إضافياً يتجاوز المضمون الحرفي المصرَّح به.
+## Definition
 
-## مصدرُه معجميٌّ لا استدلاليٌّ محادثي
+Pragmatics studies how context affects meaning. "Can you pass the salt?" is literally a question about ability but pragmatically a request. Pragmatics explains why speakers say what they say and how listeners infer unstated meanings.
 
-خلافاً للإفهام التخاطبي، الذي يُستنتَج استدلالياً من افتراض التزام المتكلم بمبدأ التعاون وقواعده في سياقٍ محادثيٍّ معيَّن (فيمكن إلغاؤه أو يتغيّر بتغيّر السياق)، ينشأ الإفهامُ الاصطلاحي مباشرةً من **المعنى المعجمي الثابت** لكلمةٍ أو أداةٍ معيَّنة بصرف النظر عن سياق المحادثة أو مبدأ التعاون. المثالُ الكلاسيكي عند غرايس: كلمة "لكنّ" (but) تحمل المضمونَ الحرفيَّ نفسَه الذي تحمله "و" (and) من حيث الصدق المنطقي، لكنها تُضيف دائماً إفهاماً اصطلاحياً ثابتاً بوجود تباينٍ أو مفاجأةٍ بين الشقّين المرتبطَين ("فقيرٌ لكنه سعيد" تُضمِر تبايناً متوقَّعاً بين الفقر والسعادة لا تحمله "و").
+## Grice's Theory
 
-## خاصّيةٌ ثابتةٌ غيرُ قابلةٍ للإلغاء
+Paul Grice identified four conversational maxims speakers follow:
+- Quantity: Be informative without being excessive
+- Quality: Be truthful and warranted
+- Relevance: Stay on topic
+- Manner: Be clear and brief
 
-بما أن الإفهامَ الاصطلاحي جزءٌ من المعنى المعجمي الثابت للكلمة، فهو **غيرُ قابلٍ للإلغاء** (Non-Cancellable) بسياقٍ إضافيٍّ (بخلاف الإفهام التخاطبي القابل للإلغاء صراحةً)، و**غيرُ محسوبٍ** (Non-Calculable) عبر استدلالٍ من مبدأ التعاون، بل مرتبطٌ مباشرةً بالكلمة نفسِها كخاصّيةٍ معجميةٍ بحتة.
+Flouting these maxims creates implicature—meaning inferred from the violation.
 
-## إشكاليةٌ نظرية
+## Speech Acts
 
-أثار هذا الصنفُ من الإفهام إشكاليةً نظريةً مستمرّة: بما أنه ثابتٌ معجمياً وغيرُ قابلٍ للإلغاء، يبدو أقربَ إلى المعنى الحرفي المُصرَّح به (أو إلى الافتراض المسبَق) منه إلى الإفهام التخاطبي الاستدلالي الديناميكي، ما دفع بعض الدلاليين لاحقاً للتساؤل عمّا إذا كان تصنيفاً منفصلاً ضرورياً أصلاً، أم أنه أقربُ لظاهرة الافتراض المسبَق أو لمكوِّنٍ من المعنى الإجرائي (Procedural Meaning) لا الوصفي.
+Utterances perform actions (Austin, Searle):
+- Locutionary: The words uttered
+- Illocutionary: The action performed (promising, requesting, commanding)
+- Perlocutionary: The effect on listener
 
-## المصادر
+"I promise to return the book" is a performative—the utterance creates an obligation.
 
-- Grice, H. Paul (1975). "Logic and Conversation." In Cole, P.; Morgan, J. (eds.), *Syntax and Semantics 3: Speech Acts*. Academic Press.
-- Levinson, Stephen C. (1983). *Pragmatics*. Cambridge University Press.
+## Politeness Strategies
+
+Brown & Levinson describe face-threatening acts and politeness strategies. Directness threatens negative face (freedom); indirectness preserves it. "Could you possibly help?" is indirect; "Help!" is direct.
+
+## Presupposition
+
+Presuppositions are background assumptions speakers treat as shared knowledge. "When did you stop smoking?" presupposes you smoked. If the presupposition is false, the sentence is odd, not false.
+
+## Contemporary Applications
+
+Virtual assistants must handle pragmatic requests: "Is there coffee?" might request coffee. Dialog systems track what has been established. Machine translation must preserve pragmatic force.
+
+## References
+
+- Grice, P. (1975). "Logic and conversation." In *Syntax and Semantics 3*, 41-58.
+- Austin, J. L. (1962). *How to Do Things with Words*. Oxford University Press.
+

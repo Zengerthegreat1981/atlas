@@ -22,25 +22,35 @@ gaps: []
 
 # الدلالةُ التوزيعية وتمثيلاتُ الكلمات المتّجهية
 
-نهجٌ حاسوبيٌّ في الدلالة اللغوية يستمدّ معنى الكلمة إحصائياً من أنماط تجاورها الفعلي مع كلماتٍ أخرى عبر مدوّناتٍ ضخمة من النصوص، بدل الاعتماد على تعريفاتٍ معجميةٍ مصاغةٍ يدوياً.
+## Definition
 
-## الفرضيةُ التوزيعية
+Semantics studies meaning in language. How do words and sentences refer to the world? How do speakers and listeners derive meaning? Semantics differs from phonetics (sound study) and syntax (structure study) by focusing on meaning-world relationships.
 
-يستند هذا النهجُ إلى "الفرضية التوزيعية" (Distributional Hypothesis)، التي صاغها زيليغ هاريس وشاعت بصيغة مبدأ جون روبرت فيرث "تُعرَف الكلمةُ برفقتها": الكلماتُ التي تظهر في سياقاتٍ لغويةٍ متشابهة تميل لأن تحمل معانيَ متشابهة. يتيح هذا المبدأُ تحويلَ معنى كلّ كلمةٍ إلى تمثيلٍ رياضيٍّ كمّي مبنيٍّ على إحصاء تجاورها الفعلي مع بقية مفردات اللغة عبر مدوّنةٍ ضخمة.
+## Theoretical Approaches
 
-## من الفضاء المتّجهي إلى التمثيلات العصبية
+Formal semantics (Montague, Frege) treats meaning compositionally: sentence meanings derive from word meanings and syntactic structure. Cognitive semantics (Lakoff) emphasizes embodied meaning shaped by how we experience the world. Pragmatic approaches add context dependence—meaning depends on speaker intention and listener inference.
 
-طُوِّرت هذه الفكرةُ حاسوبياً في نماذجَ متعاقبة: من التمثيلات المتّجهية الإحصائية المبكرة (كنموذج LSA، Latent Semantic Analysis) إلى "تمثيلات الكلمات المضمَّنة" (Word Embeddings) العصبية الحديثة (كـ Word2Vec وGloVe)، التي تمثّل كلَّ كلمة بمتّجه رقميٍّ متعدّد الأبعاد في "فضاءٍ دلالي"، بحيث تقع الكلماتُ المتشابهة معنًى قريبةً من بعضها هندسياً في هذا الفضاء، وتنعكس حتى بعضُ العلاقات الدلالية (كعلاقة الجنس النحوي أو صيغ الجمع) في عملياتٍ حسابيةٍ متّجهية بسيطة.
+## Core Concepts
 
-## من التمثيلات الثابتة إلى السياقية
+- Reference: What does a word refer to?
+- Sense: How does a word relate to other words?
+- Entailment: What must be true if a statement is true?
+- Presupposition: What background assumptions does a statement carry?
 
-تطوّرت هذه التمثيلاتُ لاحقاً من متّجهاتٍ "ثابتة" لكلّ كلمة (بصرف النظر عن سياقها) إلى تمثيلاتٍ "سياقية" (Contextual Embeddings، كما في نماذج المحوِّل Transformer) تُنتج متّجهاً مختلفاً للكلمة نفسِها بحسب سياقها الجملي المحدَّد، معالِجةً بذلك مشكلةَ تعدّد المعنى (Polysemy) التي عجزت التمثيلاتُ الثابتة عن التعامل معها بدقّة.
+## Mechanisms
 
-## الأثر
+Meaning composition: "The dog chased the cat" means the same referent of "the dog" performed the action "chased" on the referent of "the cat." Extensions (what terms refer to) and intensions (abstract meanings) interact in deriving sentence meanings.
 
-شكّلت هذه التمثيلاتُ الأساسَ التقني للنماذج اللغوية الكبرى المعاصرة، وأثارت نقاشاً نظرياً حول ما إذا كانت هذه التمثيلاتُ الإحصائية الهندسية تعكس بُنًى دلاليةً حقيقية تشبه المعنى الإنساني أم مجرّد ارتباطاتٍ سطحية.
+## Cross-linguistic Evidence
 
-## المصادر
+Languages map meanings to forms differently. English "blue" covers colors distinguished in Russian (goluboy vs. siniy). Some languages lack count/mass distinction English marks with "a." These differences show how languages carve up semantic space.
 
-- Firth, John Rupert (1957). "A Synopsis of Linguistic Theory, 1930-1955." In *Studies in Linguistic Analysis*. Blackwell.
-- Mikolov, Tomas et al. (2013). "Distributed Representations of Words and Phrases and Their Compositionality." *NeurIPS*.
+## Contemporary Applications
+
+Machine translation, question-answering, and dialog systems all rely on semantic frameworks. Understanding when "bank" means financial institution versus river bank requires semantic knowledge.
+
+## References
+
+- Frege, G. (1892). "Über Sinn und Bedeutung." *Zeitschrift für Philosophie und philosophische Kritik*, 100, 25-50.
+- Montague, R. (1974). *Formal Philosophy*. Yale University Press.
+

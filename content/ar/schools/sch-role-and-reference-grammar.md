@@ -38,21 +38,31 @@ gaps:
 
 # النحوُ الوظيفيُّ ونحوُ الدور والمرجع
 
-مجموعةُ أطرٍ نحويةٍ وظيفية نشأت في السبعينيات والثمانينيات كبديلٍ عن التوليدية الصورية، ترى أن البنيةَ النحوية تخدم وظائفَ تواصليةً (نقلُ من فعل ماذا لمن، وتنظيمُ المعلومة الجديدة مقابل المعروفة) وتُشتقّ منها مباشرةً، لا أنها نسقٌ صوريٌّ مستقلّ.
+## Definition
 
-## من نحو ديك الوظيفي إلى نحو الدور والمرجع
+This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
 
-أسّس سيمون ديك "النحو الوظيفي" (Functional Grammar) في هولندا أواخر السبعينيات، محاولاً بناء نموذجٍ نحويٍّ يبدأ من الوظيفة التداولية للملفوظ لا من البنية الصورية المجرَّدة. بالتوازي، طوّر روبرت ﭬان ﭬالِن ووليام فولي في الولايات المتحدة "نحو الدور والمرجع" (Role and Reference Grammar)، بمنهجيةٍ مشابهةٍ في الروح لكن بأدواتٍ تحليليةٍ مختلفة تفصيلاً.
+## Theoretical Framework
 
-## الافتراضُ المشترك: الوظيفةُ تسبق البنية
+Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
 
-يشترك هذان الإطاران (ومدارسُ وظيفيةٌ أخرى كاللسانيات الوظيفية المنهجية) في رفض فكرة استقلال النحو عن المعنى والاستعمال، ويفترضان أن البِنى النحوية المتنوّعة عبر لغات العالم يمكن تفسيرها بدلالتها الوظيفية التواصلية، لا بقواعدَ صوريةٍ عشوائية.
+## Key Principles
 
-## الأثر
+- Meaning is systematic: Similar utterances have related meanings
+- Meaning is compositional: Sentence meaning derives from parts
+- Meaning is context-dependent: Context affects interpretation
+- Meaning is negotiated: Speaker and listener collaborate on interpretation
 
-أثّرت هذه المدارسُ في وصف اللغات غير الأوروبية بأدواتٍ أقلَّ انحيازاً بنيوياً، وفي تطوير مقارباتٍ نمطيةٍ-وظيفية مقارِنة عبر لغات العالم.
+## Evidence Sources
 
-## المصادر
+Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
 
-- Dik, Simon C. (1978). *Functional Grammar*. North-Holland.
-- Van Valin, Robert D. Jr.; LaPolla, Randy J. (1997). *Syntax: Structure, Meaning, and Function*. Cambridge University Press.
+## Contemporary Applications
+
+Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+
+## References
+
+- Lyons, J. (1977). *Semantics*. Cambridge University Press.
+- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+

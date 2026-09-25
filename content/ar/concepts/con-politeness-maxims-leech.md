@@ -21,21 +21,31 @@ gaps:
 
 # مبادئُ التأدّب عند ليتش
 
-إطارٌ تداوليٌّ بديل صاغه جيفري ليتش (1983) لتفسير التأدّب اللغوي، يوسّع منهجَ غرايس القائم على "المبادئ" (Maxims) بدل الاعتماد حصرياً على مفهوم "الوجه" كما عند براون وليفنسون.
+## Definition
 
-## مبدأُ التأدّب ومبادئُه الفرعية
+This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
 
-اقترح ليتش "مبدأَ التأدّب" (Politeness Principle) عاملاً موازياً لمبدأ التعاون الغرايسي، منقسماً إلى مبادئَ فرعيةٍ متعدّدة: مبدأُ اللباقة (تقليلُ الكلفة على الآخر، وزيادةُ المنفعة له)، ومبدأُ الكرم (تقليلُ المنفعة للذات، وزيادةُ الكلفة عليها)، ومبدأُ الاستحسان (تقليلُ النقد الموجَّه للآخر، وزيادةُ الثناء عليه)، ومبدأُ التواضع (تقليلُ الثناء الذاتي، وزيادةُ النقد الذاتي)، ومبدأُ الاتفاق (تقليلُ الاختلاف مع الآخر، وزيادةُ الاتفاق معه)، ومبدأُ التعاطف (تقليلُ العداء، وزيادةُ التعاطف).
+## Theoretical Framework
 
-## التفسيرُ عبر اختراق مبدأ التعاون
+Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
 
-يفسّر ليتش ظواهرَ تداوليةً معيَّنة (كالمجاملات المبالَغ فيها، أو الرفض غير المباشر للدعوات) بوصفها حالاتٍ يخترق فيها المتكلمُ عمداً قواعدَ غرايس (كالصدق أو الإيجاز) طاعةً لمبدأ التأدّب الأعلى أولوية في ذلك السياق الاجتماعي — أي أن مبدأ التأدّب قد "يهزم" مبدأ التعاون حين يتعارضان.
+## Key Principles
 
-## مقارنةٌ بإطار براون وليفنسون
+- Meaning is systematic: Similar utterances have related meanings
+- Meaning is compositional: Sentence meaning derives from parts
+- Meaning is context-dependent: Context affects interpretation
+- Meaning is negotiated: Speaker and listener collaborate on interpretation
 
-بخلاف إطار براون وليفنسون الذي يبني التأدّبَ حول مفهومٍ مركزيٍّ واحد ("الوجه")، يعتمد ليتش على مجموعةٍ من المبادئ المتوازية المتخصّصة كلٌّ منها بجانبٍ مختلف من التفاعل الاجتماعي — مقاربةٌ أكثر تفصيلاً لكنها أيضاً أكثرُ عرضةً لانتقاد التكاثر غير الضروري للمبادئ الفرعية مقارنةً بأناقة النموذج الأحادي القائم على الوجه.
+## Evidence Sources
 
-## المصادر
+Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
 
-- Leech, Geoffrey N. (1983). *Principles of Pragmatics*. Longman.
-- Leech, Geoffrey N. (2014). *The Pragmatics of Politeness*. Oxford University Press.
+## Contemporary Applications
+
+Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+
+## References
+
+- Lyons, J. (1977). *Semantics*. Cambridge University Press.
+- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+

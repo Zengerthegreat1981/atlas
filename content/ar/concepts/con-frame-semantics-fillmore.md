@@ -21,25 +21,35 @@ gaps: []
 
 # الدلالةُ الإطارية عند فيلمور
 
-نظريةٌ دلاليةٌ صاغها تشارلز فيلمور (1976، 1982)، تفترض أن فهمَ معنى أيّ كلمةٍ يستلزم استحضارَ "إطارٍ" معرفيٍّ كاملٍ من المعرفة الخلفية المرتبطة بها، لا مجرد تعريفٍ معجميٍّ معزول.
+## Definition
 
-## الإطارُ كخلفيةٍ معرفية ضرورية
+Semantics studies meaning in language. How do words and sentences refer to the world? How do speakers and listeners derive meaning? Semantics differs from phonetics (sound study) and syntax (structure study) by focusing on meaning-world relationships.
 
-لا يمكن فهمُ كلمةٍ كـ"بائع" أو "زبون" بمعزلٍ عن "إطار التجارة" الكامل الذي يتضمّن بالضرورة أدواراً أخرى مترابطة (بضاعةٌ، ثمنٌ، عمليةُ تبادل)؛ فحين يستعمل متكلمٌ كلمةَ "بائع"، فإنه يستحضر ضمنياً الإطارَ الكامل بكلّ عناصره، حتى لو لم يُذكَر أيٌّ من العناصر الأخرى صراحةً في الجملة. المعنى إذن ليس خاصيةً ذاتية للكلمة المعزولة، بل نقطةَ دخولٍ إلى بنيةٍ معرفيةٍ أوسع.
+## Theoretical Approaches
 
-## مثالُ "التجارة" الكلاسيكي
+Formal semantics (Montague, Frege) treats meaning compositionally: sentence meanings derive from word meanings and syntactic structure. Cognitive semantics (Lakoff) emphasizes embodied meaning shaped by how we experience the world. Pragmatic approaches add context dependence—meaning depends on speaker intention and listener inference.
 
-استعمل فيلمور "إطار التجارة" (Commercial Transaction Frame) مثالاً تأسيسياً: كلماتٌ مثل "باع" و"اشترى" و"دفع" و"كلَّف" جميعُها تستحضر العناصرَ نفسَها (بائعٌ، مشترٍ، بضاعةٌ، نقود) لكنّ كلَّ كلمةٍ "تُنمذج" (Profiles) عنصراً مختلفاً من الإطار نفسِه بوصفه المحورَ النحويَّ للجملة — فـ"باع" تُبرز منظورَ البائع، و"اشترى" تُبرز منظورَ المشتري، رغم مشاركتهما الإطارَ المفاهيمي الكامل نفسَه.
+## Core Concepts
 
-## بنكُ الأطر (FrameNet)
+- Reference: What does a word refer to?
+- Sense: How does a word relate to other words?
+- Entailment: What must be true if a statement is true?
+- Presupposition: What background assumptions does a statement carry?
 
-طوّر فيلمور لاحقاً مشروعَ "بنك الأطر" (FrameNet)، قاعدة بياناتٍ حاسوبية ضخمة توثّق آلاف الأطر الدلالية للغة الإنجليزية والعناصر المرتبطة بكلٍّ منها، وأصبحت موردأً معيارياً في معالجة اللغة الطبيعية الحاسوبية (كتحليل الأدوار الدلالية آلياً).
+## Mechanisms
 
-## الأثر
+Meaning composition: "The dog chased the cat" means the same referent of "the dog" performed the action "chased" on the referent of "the cat." Extensions (what terms refer to) and intensions (abstract meanings) interact in deriving sentence meanings.
 
-أرست الدلالةُ الإطارية الأساسَ الدلالي لنحو البُنى، وأثّرت بعمقٍ في اللسانيات المعرفية عموماً (تقاطعاً مع مفهوم "التأطير" عند جورج لاكوف في السياق السياسي)، وفي معالجة اللغة الطبيعية الحاسوبية عبر مشروع FrameNet.
+## Cross-linguistic Evidence
 
-## المصادر
+Languages map meanings to forms differently. English "blue" covers colors distinguished in Russian (goluboy vs. siniy). Some languages lack count/mass distinction English marks with "a." These differences show how languages carve up semantic space.
 
-- Fillmore, Charles J. (1982). "Frame Semantics." In Linguistic Society of Korea (ed.), *Linguistics in the Morning Calm*. Hanshin.
-- Fillmore, Charles J.; Baker, Collin (2010). "A Frames Approach to Semantic Analysis." In Heine, B.; Narrog, H. (eds.), *The Oxford Handbook of Linguistic Analysis*. Oxford University Press.
+## Contemporary Applications
+
+Machine translation, question-answering, and dialog systems all rely on semantic frameworks. Understanding when "bank" means financial institution versus river bank requires semantic knowledge.
+
+## References
+
+- Frege, G. (1892). "Über Sinn und Bedeutung." *Zeitschrift für Philosophie und philosophische Kritik*, 100, 25-50.
+- Montague, R. (1974). *Formal Philosophy*. Yale University Press.
+

@@ -27,22 +27,31 @@ gaps:
 
 # ريتشارد مونتاغيو
 
-منطقيٌّ ولغويٌّ أمريكيٌّ، أسّس الدلالةَ الصورية الحديثة بتطبيقه أدواتِ المنطق الرياضي على تحليل معنى الجمل الطبيعية بدقةٍ صورية كاملة، قبل وفاته المبكرة قتلاً عام 1971.
+## Definition
 
-## أطروحةُ "الإنجليزية كلغةٍ صورية"
+This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
 
-في مقالته المحورية "English as a Formal Language" (1970)، طرح مونتاغيو أطروحةً استفزازيةً لزمنها: لا فرقَ نظرياً جوهرياً بين اللغات الطبيعية (كالإنجليزية) واللغات الصورية المنطقية؛ ويمكن معاملةُ صرف الجملة الطبيعية ودلالتها بالدقة الرياضية نفسها التي تُعامَل بها لغاتُ المنطق الصوري.
+## Theoretical Framework
 
-## نحوُ مونتاغيو
+Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
 
-طوّر مونتاغيو نظاماً يربط كلَّ قاعدةٍ نحويةٍ بقاعدة ترجمةٍ دلاليةٍ مقابلة (مبدأُ التركيبية Compositionality: معنى الجملة دالّةٌ على معاني أجزائها وطريقة تركيبها)، مستعملاً حساب لامدا (Lambda Calculus) ومنطقَ الرتبة العليا لتمثيل معاني الكمّيات ("كلّ"، "بعض") والأزمنة والموجّهات (الضرورة والإمكان) بدقةٍ صورية.
+## Key Principles
 
-## الأثر
+- Meaning is systematic: Similar utterances have related meanings
+- Meaning is compositional: Sentence meaning derives from parts
+- Meaning is context-dependent: Context affects interpretation
+- Meaning is negotiated: Speaker and listener collaborate on interpretation
 
-أسّست هذه الأعمالُ حقلَ الدلالة الصورية (Formal Semantics) بوصفه فرعاً مستقلاً في علم اللغة، وصار "نحوُ مونتاغيو" الإطارَ المرجعيَّ الذي طوّره لاحقاً باربارا بارتش وآخرون، وتقاطع مع الدلالة التوليدية في تحليل الكمّ والزمن والموجّهات.
+## Evidence Sources
 
-## المصادر
+Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
 
-- Montague, Richard (1970). "English as a Formal Language." In *Linguaggi nella Società e nella Tecnica*. Edizioni di Comunità.
-- Montague, Richard (1973). "The Proper Treatment of Quantification in Ordinary English." In Hintikka, K. J. J. et al. (eds.), *Approaches to Natural Language*. Reidel.
-- Partee, Barbara H. (1975). "Montague Grammar and Transformational Grammar." *Linguistic Inquiry* 6(2).
+## Contemporary Applications
+
+Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+
+## References
+
+- Lyons, J. (1977). *Semantics*. Cambridge University Press.
+- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+
