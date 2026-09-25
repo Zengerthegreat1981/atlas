@@ -9,7 +9,7 @@ set -e
 ROOT=$(git rev-parse --show-toplevel)
 cd "$ROOT"
 
-CHANGED=$(git diff --cached --name-only --diff-filter=ACM -- 'content/ar/*.md' 'content/ar/**/*.md')
+CHANGED=$(git diff --cached --name-only --diff-filter=ACM -- 'content/ar/*.md' 'content/ar/**/*.md' 'content/en/*.md' 'content/en/**/*.md')
 [ -z "$CHANGED" ] && exit 0
 
 echo "→ فحصُ سلامة المحتوى على الملفات المرحَّلة…"
