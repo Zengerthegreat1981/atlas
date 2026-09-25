@@ -17,21 +17,21 @@ gaps: []
 
 # الأدلة التاريخية والتفسير (Historical Evidence and Interpretation)
 
-## Historical Evidence and Interpretation
+## الأدلة التاريخية والتفسير
 
-Study of how historians interpret and evaluate evidence; examines epistemology of historical knowledge and evidentiary standards.
+دراسة كيف يفسّر المؤرخون الأدلة ويقيّمونها؛ تفحص إبستمولوجيا المعرفة التاريخية ومعايير الإثبات.
 
-### Key Aspects
+### الجوانب الجوهرية
 
-This node represents part of Section 20: Cross-Cutting Frameworks & Synthesis in historiography.
+تمثّل هذه العقدة جزءاً من القسم 20: الأطر الشاملة والتوليف في التأريخ.
 
-### Historiographical Relevance
+### الصلة التأريخية
 
-These are fundamental concepts in historical epistemology and practice.
+هذه مفاهيم جوهرية في إبستمولوجيا التاريخ وممارسته.
 
-### Related Fields
+### مجالات ذات صلة
 
-- Historiographical theory and practice
-- Philosophy of history
-- Historical methodology
-
+- نظرية التأريخ وممارسته
+- فلسفة التاريخ
+- منهجية التاريخ
+</content>

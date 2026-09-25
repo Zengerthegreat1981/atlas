@@ -20,33 +20,32 @@ gaps: []
 
 # الموجاتُ الثلاث لدراسة التغيّر اللغوي الاجتماعي عند إكرت
 
-## Definition
+## التعريف
 
-Language variation is systematic linguistic differences across speakers, groups, regions, and contexts. Rather than one "correct" form, communities maintain multiple forms serving different social functions.
+تنوّع اللغة (language variation) فروق لغوية منتظمة بين المتكلمين والجماعات والمناطق والسياقات. فبدلاً من صيغة واحدة "صحيحة"، تحافظ الجماعات على صيغ متعددة تخدم وظائف اجتماعية مختلفة.
 
-## Types
+## الأنواع
 
-- Phonological: /r/ is or isn't pronounced in coda position
-- Grammatical: Subject omission ("I am going" vs. "Am going")
-- Lexical: Different words for the same referent (soda/pop/coke)
-- Stylistic: Formality and register differences
+- صوتي: نطق الراء أو حذفها في نهاية المقطع
+- نحوي: حذف الفاعل ("ذاهبٌ" مقابل "أنا ذاهب")
+- معجمي: كلمات مختلفة للمُحال إليه نفسه
+- أسلوبي: فروق الرسمية والسجل اللغوي
 
-## Conditioning
+## الاشتراط
 
-Variation is conditioned by:
-- Linguistic factors: Phonetic environment, word frequency
-- Social factors: Speaker age, gender, class, ethnicity
-- Contextual factors: Formality, addressee, topic
+يُشترَط التنوّع بعوامل:
+- لغوية: البيئة الصوتية، تواتر الكلمة
+- اجتماعية: عمر المتكلم وجنسه وطبقته وعرقه
+- سياقية: الرسمية، المخاطَب، الموضوع
 
-## Systems
+## الأنظمة
 
-Sociolinguistic variables form systems where multiple forms co-exist serving different functions. Speakers have variable competence—they use multiple forms with different frequencies. Variables can show regular sound changes in progress.
+تشكّل المتغيرات اللغوية الاجتماعية أنظمة تتعايش فيها صيغ متعددة تخدم وظائف مختلفة. وللمتكلمين كفاءة متغيرة: يستخدمون صيغاً متعددة بتواترات مختلفة. وقد تُظهر المتغيرات تغيرات صوتية منتظمة قيد الحدوث.
 
-## Community Grammars
+## قواعد الجماعة
 
-Communities maintain systematic variation. Not all speakers use forms the same way; rather, variation is distributed across community. Variable rules describe this probabilistic patterning.
+تحافظ الجماعات على تنوّع منتظم. فليس كل المتكلمين يستخدمون الصيغ بالطريقة نفسها؛ بل يتوزع التنوّع عبر الجماعة. وتصف القواعد المتغيرة (variable rules) هذا التنمُّط الاحتمالي.
 
-## References
+## المصادر
 
 - Labov, W. (1994). *Principles of Linguistic Change* (Vol. 1). Blackwell.
-

@@ -17,22 +17,22 @@ gaps: []
 
 # الذاكرة والتاريخ (Memory and History)
 
-## Memory and History
+## الذاكرة والتاريخ
 
-Study of relationship between collective memory and historical accounts; examines how communities remember and interpret past.
+دراسة العلاقة بين الذاكرة الجمعية والسرديات التاريخية؛ تفحص كيف تتذكر المجتمعات الماضي وتفسّره.
 
-### Key Aspects
+### الجوانب الجوهرية
 
-This node represents part of Section 20: Cross-Cutting Frameworks & Synthesis in historiography.
+تمثّل هذه العقدة جزءاً من القسم 20: الأطر الشاملة والتوليف في التأريخ.
 
-### Related Fields
+### مجالات ذات صلة
 
-- Historiographical theory and practice
-- Historical knowledge and representation
-- Contemporary historical scholarship
+- نظرية التأريخ وممارسته
+- المعرفة التاريخية وتمثيلها
+- الدراسات التاريخية المعاصرة
 
-### See Also
+### انظر أيضاً
 
-- Related historiographical concepts
-- Historical methodology
-
+- مفاهيم تأريخية ذات صلة
+- منهجية التاريخ
+</content>

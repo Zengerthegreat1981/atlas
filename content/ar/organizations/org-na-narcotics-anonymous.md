@@ -7,174 +7,174 @@ parent: twelve-step fellowships, mutual-aid
 featured: true
 ---
 
-# Narcotics Anonymous (NA)
+# المدمنون المجهولون (Narcotics Anonymous, NA)
 
-Narcotics Anonymous is a peer-led mutual-aid fellowship for recovery from drug addiction, using the twelve-step model adapted from Alcoholics Anonymous. Founded in 1953, NA extends twelve-step recovery to all drugs—heroin, cocaine, methamphetamine, prescription medications—addressing addiction as a disease and recovery as a spiritual and social process.
+المدمنون المجهولون رابطة تعاضد بقيادة الأقران للتعافي من إدمان المخدرات، تستخدم نموذج الخطوات الاثنتي عشرة المقتبس من جمعية المدمنين المجهولين للكحول. تأسست عام 1953، وتوسِّع NA تعافي الخطوات الاثنتي عشرة ليشمل كل المخدرات — الهيروين والكوكايين والميثامفيتامين والأدوية الموصوفة — وتعالج الإدمان بوصفه مرضاً والتعافي عملية روحانية واجتماعية.
 
-## History & Development
+## التاريخ والتطور
 
-**Founded:** 1953 in Southern California as response to growing heroin epidemic
+**التأسيس:** 1953 في جنوب كاليفورنيا استجابةً لتفشي وباء الهيروين
 
-**Expansion:** Slower than AA initially but accelerated with drug epidemics (1970s crack, 1980s-present opioid crisis); now 70,000+ meetings globally
+**التوسع:** أبطأ من AA في البداية لكنه تسارع مع أوبئة المخدرات (الكراك في السبعينيات، أزمة المواد الأفيونية من الثمانينيات حتى اليوم)؛ والآن أكثر من 70,000 اجتماع حول العالم
 
-**Adaptation:** AA principles modified for drug addiction:
-- "We admitted we were powerless over our addictions" (drugs, not just alcohol)
-- Membership inclusive of any drug concern (heroin, meth, pills, cannabis, etc.)
-- Recognition that drug addicts often have co-occurring alcohol addiction
+**التكييف:** عُدِّلت مبادئ AA للإدمان على المخدرات:
+- "أقررنا بأننا عاجزون أمام إدماننا" (المخدرات لا الكحول فقط)
+- عضوية شاملة لأي مشكلة مخدرات (الهيروين، الميثامفيتامين، الحبوب، القنّب، إلخ)
+- الاعتراف بأن مدمني المخدرات كثيراً ما يعانون إدمان كحول مصاحب
 
-**Current:** 2+ million members estimated; accessible, free meetings in most urban/suburban areas
+**حالياً:** يُقدَّر عدد الأعضاء بأكثر من مليونين؛ واجتماعات مجانية سهلة الوصول في معظم المناطق الحضرية وشبه الحضرية
 
-## Twelve Steps for NA
+## الخطوات الاثنتا عشرة لـ NA
 
-Modified from AA:
+مُعدَّلة من AA:
 
-1. Admitted powerlessness over addiction; life unmanageable
-2. Believed Higher Power could restore sanity
-3. Decided to turn will and life over to Higher Power
-4. Made searching moral inventory
-5. Admitted wrongs to self, Higher Power, another person
-6. Became ready for Higher Power to remove defects
-7. Humbly asked Higher Power to remove shortcomings
-8-12. [Similar to AA]
+1. الإقرار بالعجز أمام الإدمان؛ والحياة غير قابلة للإدارة
+2. الإيمان بأن قوة عليا يمكن أن تعيد الرشد
+3. اتخاذ قرار تسليم الإرادة والحياة للقوة العليا
+4. إجراء جرد أخلاقي شامل
+5. الاعتراف بالأخطاء لله وللنفس ولشخص آخر
+6. الاستعداد لأن تزيل القوة العليا العيوب
+7. طلب متواضع من القوة العليا لإزالة النقائص
+8-12. [مماثلة لـ AA]
 
-**Key adaptation:** "We admitted we were powerless over our addictions" encompasses all substances, not just alcohol
+**التكييف الرئيسي:** "أقررنا بأننا عاجزون أمام إدماننا" يشمل كل المواد لا الكحول فقط
 
-## Core Components
+## المكوّنات الأساسية
 
-### Sponsorship
-- Experienced member guides newcomer through steps
-- Available for support, phone calls, accountability
-- Relationship based on shared experience of addiction recovery
+### الرعاية
+- عضو ذو خبرة يوجِّه الوافد الجديد عبر الخطوات
+- متاح للدعم والاتصالات الهاتفية والمساءلة
+- علاقة قائمة على التجربة المشتركة لتعافي الإدمان
 
-### Meetings
-- Similar format to AA: open/closed, speaker, discussion, step meetings
-- "Just for today" theme: focus on day-by-day recovery
-- Often share phone numbers and contact information
+### الاجتماعات
+- صيغة مماثلة لـAA: مفتوحة/مغلقة، متحدثون، نقاش، اجتماعات خطوات
+- شعار "فقط لهذا اليوم": التركيز على التعافي يوماً بيوم
+- كثيراً ما تُتبادل أرقام الهواتف ومعلومات الاتصال
 
-### Twelve Traditions
-Organizational structure emphasizing:
-- Group autonomy
-- Primary purpose: carrying message
-- Anonymity (protection, privacy)
-- Non-professionalism: no paid staff
+### التقاليد الاثنا عشر
+بنية تنظيمية تشدد على:
+- استقلالية المجموعة
+- الغرض الأساسي: حمل الرسالة
+- السرية (الحماية والخصوصية)
+- عدم الاحترافية: لا موظفون بأجر
 
-## Substance-Specific Considerations
+## اعتبارات خاصة بالمادة
 
-### Heroin & Opioids
-- Large portion of NA membership
-- Addresses overdose risk, withdrawal, cravings
-- Engagement with medication-assisted treatment (MAT) variable:
-  - Some NA groups accepting of methadone/buprenorphine
-  - Others traditional view: no "trading one drug for another"
-  - Tension with modern medical approach to opioid addiction
+### الهيروين والمواد الأفيونية
+- جزء كبير من عضوية NA
+- يعالج خطر الجرعة الزائدة والانسحاب والرغبة الشديدة
+- الانخراط مع العلاج المدعوم بالدواء (MAT) متفاوت:
+  - بعض مجموعات NA تتقبل الميثادون/البوبرينورفين
+  - وأخرى ذات رأي تقليدي: لا "استبدال مخدر بآخر"
+  - توتر مع المقاربة الطبية الحديثة لإدمان المواد الأفيونية
 
-### Stimulants (Cocaine, Methamphetamine)
-- Growing membership as methamphetamine epidemic expands
-- Addresses intense cravings, depression, social isolation
-- Longer withdrawal period than alcohol/opioids
-- Behavioral approach important alongside twelve-step work
+### المنشطات (الكوكايين، الميثامفيتامين)
+- عضوية متنامية مع توسع وباء الميثامفيتامين
+- يعالج الرغبة الشديدة والاكتئاب والعزلة الاجتماعية
+- فترة انسحاب أطول من الكحول/المواد الأفيونية
+- المقاربة السلوكية مهمة إلى جانب عمل الخطوات الاثنتي عشرة
 
-### Prescription Medications
-- Pills, benzodiazepines, stimulants
-- Growing recognition of prescription addiction
-- Interaction with medical community complex (patients still need meds)
+### الأدوية الموصوفة
+- الحبوب والبنزوديازيبينات والمنشطات
+- اعتراف متنامٍ بإدمان الأدوية الموصوفة
+- التفاعل مع المجتمع الطبي معقّد (ما زال المرضى بحاجة للدواء)
 
-### Cannabis
-- Increasing numbers with cannabis-primary addiction
-- Some debate in NA about whether cannabis counts as "addiction" (similar to AA debate on alcohol)
-- Younger demographic often cannabis-focused
+### القنّب
+- أعداد متزايدة بإدمان أساسه القنّب
+- جدل داخل NA حول اعتبار القنّب "إدماناً" (مشابه لجدل AA حول الكحول)
+- الفئة العمرية الأصغر كثيراً ما تركز على القنّب
 
-### Polysubstance Use
-- Most NA members addicted to multiple drugs
-- Program addresses "addiction" as underlying issue across substances
+### تعاطي مواد متعددة
+- معظم أعضاء NA مدمنون على مواد متعددة
+- يعالج البرنامج "الإدمان" بوصفه المشكلة الكامنة عبر المواد
 
-## Effectiveness & Evidence
+## الفعالية والأدلة
 
-### Outcomes
-- Similar challenges as AA: anonymity, self-selection, dropout bias
-- Available research: peer support, structure, community protective
-- Predictors of success: regular attendance, sponsorship, social integration, meaning-making
+### النتائج
+- تحديات مماثلة لـAA: السرية، الاختيار الذاتي، تحيز الانقطاع
+- البحث المتاح: دعم الأقران والبنية والمجتمع وقائية
+- مؤشرات النجاح: الحضور المنتظم، الرعاية، الاندماج الاجتماعي، صنع المعنى
 
-### Drug-Specific Differences
-- Opioid addiction: higher relapse rates; MAT improves outcomes but tensions with pure abstinence model
-- Stimulants: cognitive-behavioral approaches complement twelve-step
-- Polysubstance: addressing multiple addictions simultaneously
+### فروق خاصة بالمادة
+- إدمان المواد الأفيونية: معدلات انتكاس أعلى؛ ويحسّن MAT النتائج لكن بتوتر مع نموذج الامتناع الصرف
+- المنشطات: المقاربات المعرفية السلوكية تكمِّل الخطوات الاثنتي عشرة
+- تعاطي مواد متعددة: معالجة إدمانات متعددة في آن واحد
 
-### Integration with Treatment
-- Medical detoxification: NA provides support but not medical care
-- Inpatient rehab: many incorporate NA; patients attend meetings
-- Outpatient therapy: therapists may recommend/support NA engagement
-- MAT: collaboration variable; some NA-friendly opioid programs, others resist
+### التكامل مع العلاج
+- إزالة السموم الطبية: توفر NA دعماً لا رعاية طبية
+- إعادة التأهيل الداخلي: كثير منها يدمج NA؛ ويحضر المرضى الاجتماعات
+- العلاج الخارجي: قد يوصي المعالجون بانخراط في NA أو يدعمونه
+- MAT: تعاون متفاوت؛ بعض برامج NA ودودة مع المواد الأفيونية وأخرى تقاوم
 
-## Criticisms & Limitations
+## الانتقادات والقيود
 
-### Tension with Medication-Assisted Treatment
-- Traditional NA: skepticism about methadone/buprenorphine ("taking one drug to get off another")
-- Modern medicine: MAT evidence-based, increases retention, reduces overdose
-- Emerging NA culture shift: some groups accepting MAT; others resistant
-- Risk: discouraging MAT could increase overdose risk
+### التوتر مع العلاج المدعوم بالدواء
+- NA التقليدية: تشكك في الميثادون/البوبرينورفين ("تعاطي دواء للتخلص من آخر")
+- الطب الحديث: MAT مبني على الأدلة، يزيد الاستمرار، ويقلل الجرعة الزائدة
+- تحوّل ثقافي ناشئ في NA: بعض المجموعات تتقبل MAT؛ وأخرى تقاوم
+- الخطر: تثبيط MAT قد يزيد خطر الجرعة الزائدة
 
-### Medical Oversight
-- Peer-led, no clinical supervision
-- No medical monitoring, though many members also in treatment
-- Drug interactions, withdrawal risks managed outside NA structure
+### الإشراف الطبي
+- بقيادة الأقران، بلا إشراف إكلينيكي
+- لا مراقبة طبية، رغم أن كثيراً من الأعضاء في علاج أيضاً
+- تفاعلات الأدوية ومخاطر الانسحاب تُدار خارج بنية NA
 
-### Diversity & Inclusion
-- Historically male-dominated, majority white
-- Emerging diverse meetings but gaps remain
-- LGBTQ+ concerns sometimes not addressed
-- Racial equity work ongoing but incomplete
+### التنوع والشمول
+- هيمنة ذكورية تاريخياً، وغالبية بيضاء
+- اجتماعات متنوعة ناشئة لكن الفجوات باقية
+- مخاوف المثليين لا تُعالَج أحياناً
+- العمل على العدالة العرقية مستمر لكن غير مكتمل
 
-### Limited Evidence for Some Populations
-- Adolescents: limited research on NA effectiveness
-- Women with trauma: mixed evidence; some need trauma-specific care
-- Severe mental health: NA insufficient alone
+### أدلة محدودة لبعض الفئات
+- المراهقون: بحث محدود عن فعالية NA
+- النساء ذوات الصدمة: أدلة متباينة؛ يحتاج بعضهن رعاية متخصصة بالصدمة
+- الصحة النفسية الشديدة: NA غير كافٍ وحده
 
-## Related Twelve-Step Organizations
+## منظمات الخطوات الاثنتي عشرة ذات الصلة
 
-- [[org-aa-alcoholics-anonymous]] — alcohol focus
-- [[org-ga-gamblers-anonymous]] — gambling
-- [[org-oa-overeaters-anonymous]] — food/eating
-- [[org-sa-sex-addicts-anonymous]], [[org-slaa-sex-love-addicts-anonymous]], [[org-saa-sexaholics-anonymous]] — sexual addiction
-- [[org-coda-codependents-anonymous]] — codependency
-- [[org-ea-emotions-anonymous]] — emotional distress
+- [[org-aa-alcoholics-anonymous]] — التركيز على الكحول
+- [[org-ga-gamblers-anonymous]] — المقامرة
+- [[org-oa-overeaters-anonymous]] — الطعام/الأكل
+- [[org-sa-sex-addicts-anonymous]]، [[org-slaa-sex-love-addicts-anonymous]]، [[org-saa-sexaholics-anonymous]] — الإدمان الجنسي
+- [[org-coda-codependents-anonymous]] — التبعية المشتركة
+- [[org-ea-emotions-anonymous]] — الضائقة العاطفية
 
-## Non-Twelve-Step Alternatives
+## بدائل غير الخطوات الاثنتي عشرة
 
-- [[org-smart-recovery]] — cognitive-behavioral, self-directed
-- [[org-lifering]] — secular, empowerment
-- [[org-refuge-recovery]] — Buddhist-informed
+- [[org-smart-recovery]] — معرفي سلوكي، موجَّه ذاتياً
+- [[org-lifering]] — علماني، يركز على التمكين
+- [[org-refuge-recovery]] — مستوحى من البوذية
 
-## Strengths
+## نقاط القوة
 
-- **Free, accessible, everywhere**
-- **Community and belonging**
-- **Proven framework (twelve steps)**
-- **Addresses polysubstance addiction**
-- **Available for multiple crises/relapses**
-- **Spiritual dimension for meaning-making**
+- **مجاني، سهل الوصول، في كل مكان**
+- **مجتمع وانتماء**
+- **إطار مُثبَت (الخطوات الاثنتا عشرة)**
+- **يعالج إدمان المواد المتعددة**
+- **متاح لأزمات/انتكاسات متعددة**
+- **بُعد روحاني لصنع المعنى**
 
-## Limitations
+## القيود
 
-- **No medical component**
-- **Diversity gaps**
-- **Variable attitude toward MAT**
-- **Evidence limited by anonymity**
-- **Dropout rates high**
-- **Potential for controlling relationships (sponsors)**
+- **لا مكوّن طبي**
+- **فجوات تنوع**
+- **موقف متفاوت تجاه MAT**
+- **أدلة محدودة بسبب السرية**
+- **معدلات انقطاع مرتفعة**
+- **احتمال علاقات متحكمة (الرعاة)**
 
-## Primary Sources
+## المصادر الأولية
 
 1. Narcotics Anonymous (1982). Narcotics Anonymous: Basic Text. NA Publishing.
 2. Narcotics Anonymous (1988). It Works: How and Why. NA Publishing.
 3. Laudet, A.B., & White, W.L. (2010). Recovery capital as a prospective predictor of sustained recovery, life satisfaction and quality of life among individuals in outpatient aftercare. Journal of Substance Abuse Treatment, 39(3), 207-216.
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Twelve-step recovery
-- Drug addiction
-- Peer support
-- Narcotics Anonymous meetings
-- Higher power and spirituality in recovery
-- Sponsorship
-- Anonymity in recovery
+- تعافي الخطوات الاثنتي عشرة
+- إدمان المخدرات
+- دعم الأقران
+- اجتماعات المدمنين المجهولين
+- القوة العليا والروحانية في التعافي
+- الرعاية
+- السرية في التعافي

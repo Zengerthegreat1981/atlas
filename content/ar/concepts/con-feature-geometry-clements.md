@@ -18,93 +18,82 @@ gaps:
 
 # هندسةُ السماتِ الصوتية
 
-## Definition
+## التعريف
 
-Distinctive features are the minimal phonological properties that distinguish phonemes. Rather than treating phonemes as indivisible units, feature theory decomposes them into binary or multivalued components. This allows systematic explanation of how phonemes relate and how phonological rules apply.
+السماتُ المميِّزة هي الخصائص الصوتية الدنيا التي تميّز الفونيمات بعضها من بعض. وبدلاً من معاملة الفونيمات وحداتٍ غير قابلة للتجزئة، تُحلِّلها نظرية السمات إلى مكوناتٍ ثنائية أو متعددة القيم. ويتيح هذا تفسيراً منهجياً لكيفية ارتباط الفونيمات وكيفية تطبيق القواعد الصوتية.
 
-## Historical Background
+## الخلفية التاريخية
 
-Trubetzkoy (1930s) first proposed that phonemes could be analyzed into distinctive oppositions. Roman Jakobson refined this into a full feature system in 1951, defining 12 binary acoustic features. Chomsky and Halle's SPE (1968) shifted toward articulatory features, while modern frameworks like Feature Geometry propose hierarchically organized features.
+اقترح تروبتسكوي (عقد الثلاثينيات) أولاً أن الفونيمات يمكن تحليلها إلى تقابلات مميِّزة. وصقل رومان ياكوبسون هذا في نظام سمات كامل عام 1951، محدِّداً 12 سمة صوتية ثنائية. وحوّلت SPE عند تشومسكي وهالة (1968) التركيز نحو السمات النطقية، بينما تقترح الأطر الحديثة كهندسة السمات تنظيم السمات هرمياً.
 
-## Feature Types
+## أنواع السمات
 
-### Major Features
-- [±consonantal]: Obstruents, nasals are +consonantal; vowels are -consonantal
-- [±sonorant]: Vowels, glides, nasals, liquids are +sonorant; obstruents are -sonorant
+### السمات الكبرى
+- [±صامت]: الانسداديات والأنفيات [+صامت]؛ والصوائت [-صامت]
+- [±رنين]: الصوائت وأشباه الصوائت والأنفيات والسوائل [+رنين]؛ والانسداديات [-رنين]
 
-### Place of Articulation
-- [±labial]: p, b, m, f, v involve lip rounding or closure
-- [±coronal]: t, d, s, z, θ, ð are produced with tongue body raised
-- [±dorsal]: k, g, ŋ are produced with tongue body movement
+### مخرج النطق
+- [±شفوي]: p، b، m، f، v تشمل استدارة الشفتين أو انطباقهما
+- [±لثوي]: t، d، s، z، θ، ð تُنتَج برفع جسم اللسان نحو اللثة
+- [±طبقي]: k، g، ŋ تُنتَج بحركة جسم اللسان نحو الطبق
 
-### Manner Features
-- [±nasal]: Nasal consonants have oral closure but nasal airflow
-- [±continuant]: Fricatives and vowels allow continuous airflow
-- [±strident]: Sibilants (s, z, ʃ, ʒ) produce high-frequency noise
+### سمات الطريقة
+- [±أنفي]: الصوامت الأنفية لها انطباق فموي لكن مع مجرى هواء أنفي
+- [±مستمر]: الاحتكاكيات والصوائت تسمح بمجرى هواء مستمر
+- [±صفيري]: الصفيريات (s، z، ʃ، ʒ) تُنتج ضجيجاً عالي التردد
 
-### Laryngeal Features
-- [±voice]: Vocal cord vibration distinguishes /b/ from /p/
-- [±spread glottis]: Aspiration contrasts /t^h/ from /t/
+### سمات الحنجرة
+- [±جهر]: اهتزاز الوترين الصوتيين يميّز /b/ من /p/
+- [±انفتاح المزمار]: النفَس يميّز /t^h/ من /t/
 
-## Phoneme as Feature Bundle
+## الفونيم بوصفه حزمة سمات
 
-Each phoneme is represented as a bundle of features:
+يُمثَّل كل فونيم حزمةً من السمات:
 
-/p/ = [-voice, +labial, -continuant, +consonantal]
-/b/ = [+voice, +labial, -continuant, +consonantal]
-/s/ = [-voice, +coronal, +continuant, +strident, +consonantal]
+/p/ = [-جهر، +شفوي، -مستمر، +صامت]
+/b/ = [+جهر، +شفوي، -مستمر، +صامت]
+/s/ = [-جهر، +لثوي، +مستمر، +صفيري، +صامت]
 
-## Natural Classes
+## الفئات الطبيعية
 
-Features predict natural classes—groups of sounds that pattern together in rules. All [+nasal] segments follow one morphological pattern; all [+continuant] sounds undergo one phonological process.
+تتنبأ السمات بالفئات الطبيعية — مجموعات الأصوات المتنمِّطة معاً في القواعد. فكل القطع [+أنفية] تتبع نمطاً صرفياً واحداً؛ وكل الأصوات [+مستمرة] تخضع لعملية صوتية واحدة.
 
-## Experimental Evidence
+## أدلة تجريبية
 
-ERP studies show distinct neural responses for feature violations versus phoneme changes. Feature changes (voicing, place) produce different brain responses than complete phoneme changes, suggesting features are psychologically separable.
+تُظهر دراسات الجهود المرتبطة بالحدث استجابات عصبية متمايزة لانتهاكات السمات مقارنة بتغيرات الفونيم الكاملة. وتُنتج تغيرات السمات (الجهر، المخرج) استجابات دماغية مختلفة عن تغيرات الفونيم الكاملة، مما يوحي بأن السمات قابلة للفصل نفسياً.
 
-## Applications
+## التطبيقات
 
-### Phonological Development
+### النمو الصوتي
 
-Children first control gross features (oral vs. nasal, obstruent vs. sonorant) before fine distinctions (place of articulation). Feature theory predicts the order of sound acquisition.
+يتحكم الأطفال أولاً بالسمات الكبرى (الفموي مقابل الأنفي، الانسدادي مقابل الرنيني) قبل التمييزات الدقيقة (مخرج النطق). وتتنبأ نظرية السمات بترتيب اكتساب الأصوات.
 
-### Speech Disorders
+### اضطرابات النطق
 
-Children with phonological disorders often lose feature distinctions systematically. Backing (replacing /s/ with /k/) involves feature change ([+coronal] → [+dorsal]). Feature-based therapy targets the underlying feature deficit.
+كثيراً ما يفقد الأطفال المصابون باضطرابات صوتية التمييزات السماتية بانتظام. ويشمل "التطبيق" (استبدال /s/ بـ/k/) تغيراً سماتياً ([+لثوي] ← [+طبقي]). ويستهدف العلاج القائم على السمات القصور السماتي الكامن.
 
-### Historical Sound Change
+### التغير الصوتي التاريخي
 
-Sound changes affect features systematically. Palatalization changes [+coronal] stops to [+dorsal] affricates before high vowels across unrelated languages, suggesting features organize language change.
+تؤثر التغيرات الصوتية في السمات منهجياً. فالتحنيك يحوّل الانسداديات [+لثوية] إلى احتكاكيات مزجية [+طبقية] قبل الصوائت العالية عبر لغات غير مترابطة، مما يوحي بأن السمات تنظّم التغير اللغوي.
 
-## Theoretical Issues
+## قضايا نظرية
 
-Defining features universally remains challenging. Some sounds resist clean feature categorization. Tone, which is critical in many languages, fits poorly into standard consonant/vowel feature systems.
+يبقى تعريف السمات عالمياً تحدياً. وتقاوم بعض الأصوات التصنيف السماتي النظيف. والنبرة، الحاسمة في لغاتٍ كثيرة، تلائم أنظمة السمات الصامتية/الصائتية القياسية ملاءمةً ضعيفة.
 
-## Research Directions
+## اتجاهات البحث
 
-Computational models now learn feature systems from acoustic signals. Neural networks discover feature-like representations without explicit supervision, suggesting features emerge naturally from acoustic structure.
+تتعلم النماذج الحاسوبية الآن أنظمة السمات من الإشارات الصوتية. وتكتشف الشبكات العصبية تمثيلاتٍ شبيهة بالسمات دون إشراف صريح، مما يوحي بأن السمات تنبثق طبيعياً من البنية الصوتية.
 
-## Key References
+## مصادر جوهرية
 
 - Jakobson, R., Fant, G., & Halle, M. (1951). *Preliminaries to Speech Analysis*. MIT Press.
 - Chomsky, N., & Halle, M. (1968). *The Sound Pattern of English*. Harper and Row.
 - Clements, G. N. (1985). "The geometry of phonological features." *Phonology Yearbook*, 2, 225-252.
 
-## References
+## المصادر
 
 - Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
 - Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
 - Anderson, S. R. (1985). *Phonology in the Twentieth Century*. University of Chicago Press.
 - Haspelmath, M., & Sims, A. D. (2010). *Understanding Morphology*. Oxford University Press.
-
-## محتوى عربي إضافي
-
-مفهومٌ مهمٌّ في علمِ اللغة الحديث.
-
-## الملخصُ
-
-هندسةُ السماتِ الصوتية (Feature Geometry) يمثّلُ موضوعاً أساسياً في البحثِ اللساني المعاصر.
-
-## المصادرُ
-
-- دراساتٌ متنوعةٌ في الدوريات المتخصّصة تعالجُ هذا الموضوع.
+</content>

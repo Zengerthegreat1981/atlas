@@ -6,91 +6,91 @@ part: psychology
 parent: twelve-step fellowships, mutual-aid
 ---
 
-# Adult Children of Alcoholics (ACA)
+# أبناء مدمني الكحول البالغون (ACA)
 
-Adult Children of Alcoholics is a twelve-step fellowship for people recovering from effects of growing up in alcoholic or otherwise dysfunctional families. Founded in 1978, ACA addresses the lasting psychological and relational impacts of family trauma and neglect.
+أبناء مدمني الكحول البالغون رابطة خطوات اثنتي عشرة للمتعافين من آثار النشأة في أسر مدمنة على الكحول أو مختلة بطريقة أخرى. تأسست عام 1978، وتعالج ACA الآثار النفسية والعلائقية الدائمة لصدمة الأسرة وإهمالها.
 
-## Overview
+## لمحة عامة
 
-- **Founded:** 1978 in California
-- **Members:** 100,000+ globally
-- **Focus:** Adult children; family dysfunction; trauma recovery
-- **Approach:** Twelve steps adapted for family-of-origin issues
+- **التأسيس:** 1978 في كاليفورنيا
+- **الأعضاء:** أكثر من 100,000 حول العالم
+- **التركيز:** الأبناء البالغون؛ اختلال الأسرة؛ التعافي من الصدمة
+- **المقاربة:** خطوات اثنتا عشرة مُكيَّفة لقضايا أسرة المنشأ
 
-## Core Issues Addressed
+## القضايا الأساسية المعالَجة
 
-- Emotional neglect and abandonment by parent(s) with addiction
-- Parentification: taking on adult roles as child
-- Emotional dysregulation and difficulty with feelings
-- Boundary problems: too rigid or too loose
-- Low self-worth and shame
-- Difficulty in relationships; repeating family patterns
-- Hypervigilance and anxiety
-- Control-seeking behaviors
+- الإهمال العاطفي والتخلي من والد أو والدين مدمنَين
+- التطفيل الأبوي (parentification): تحمّل الطفل أدواراً بالغة
+- خلل التنظيم العاطفي وصعوبة التعامل مع المشاعر
+- مشكلات الحدود: صارمة جداً أو مرنة جداً
+- تدني قيمة الذات والعار
+- صعوبة في العلاقات؛ وتكرار أنماط الأسرة
+- فرط اليقظة والقلق
+- سلوكيات السعي إلى السيطرة
 
-## Twelve-Step Adaptation for ACA
+## تكييف الخطوات الاثنتي عشرة لـ ACA
 
-- "Admitted powerlessness over the effects of alcoholism"
-- Belief in Higher Power
-- Inventory of family patterns and their impact
-- Amends and spiritual practice
-- Helping other adult children
+- "الإقرار بالعجز أمام آثار إدمان الكحول"
+- الإيمان بقوة عليا
+- جرد أنماط الأسرة وأثرها
+- جبر الضرر والممارسة الروحانية
+- مساعدة أبناء بالغين آخرين
 
-## Relationship to Other Fellowships
+## العلاقة بالرابطات الأخرى
 
-- [[org-coda-codependents-anonymous]] — overlap on boundaries and relationships; CoDA broader
-- [[org-aa-alcoholics-anonymous]] — parent generation; ACA is children
-- [[org-al-anon-nar-anon]] — for families currently affected; ACA for adult aftermath
+- [[org-coda-codependents-anonymous]] — تداخل حول الحدود والعلاقات؛ CoDA أوسع نطاقاً
+- [[org-aa-alcoholics-anonymous]] — جيل الآباء؛ وACA هم الأبناء
+- [[org-al-anon-nar-anon]] — للأسر المتأثرة حالياً؛ وACA لآثار ما بعد النشأة عند البالغين
 
-## Core Beliefs (The Laundry List)
+## المعتقدات الأساسية (قائمة الغسيل)
 
-ACA identifies 14 common traits of adult children:
-1. Guess at what normal behavior is
-2. Judge themselves without mercy
-3. Have difficulty having fun
-4. Take themselves very seriously
-5. Have difficulty with intimate relationships
-6. Over-react to changes beyond control
-7. Constantly seek approval and affirmation
-8. Feel more comfortable giving than receiving
-9. Become very loyal to something/someone (sometimes undeserving)
-10. Are either super-responsible or super-irresponsible
-11. Feel guilty when standing up for self
-12. Have an overdeveloped sense of responsibility for others
-13. Have difficulty with anger
-14. Struggle with low self-esteem
+تحدد ACA 14 سمة شائعة للأبناء البالغين:
+1. تخمين ماهية السلوك الطبيعي
+2. الحكم على أنفسهم بلا رحمة
+3. صعوبة الاستمتاع
+4. أخذ أنفسهم بجدية مفرطة
+5. صعوبة في العلاقات الحميمة
+6. ردة فعل مبالغ فيها تجاه تغيرات خارجة عن السيطرة
+7. السعي الدائم إلى الموافقة والإطراء
+8. الشعور بالراحة في العطاء أكثر من الأخذ
+9. الولاء الشديد لشيء/شخص (لا يستحق أحياناً)
+10. إما مسؤولون بإفراط أو غير مسؤولين بإفراط
+11. الشعور بالذنب عند الدفاع عن النفس
+12. إحساس مفرط بالمسؤولية تجاه الآخرين
+13. صعوبة في التعامل مع الغضب
+14. صراع مع تدني تقدير الذات
 
-## Meetings & Support
+## الاجتماعات والدعم
 
-- Speaker meetings: members share family stories and recovery
-- Step meetings: working twelve steps together
-- Sponsorship: one-on-one guidance
-- Emphasis on sharing feelings and emotional processing
+- اجتماعات المتحدثين: يشارك الأعضاء قصص أسرهم وتعافيهم
+- اجتماعات الخطوات: العمل معاً على الخطوات الاثنتي عشرة
+- الرعاية: توجيه فردي
+- التشديد على مشاركة المشاعر والمعالجة العاطفية
 
-## Integration with Therapy
+## التكامل مع العلاج
 
-- Often recommended by therapists for family trauma work
-- Complements therapy addressing attachment, family patterns, PTSD
-- Peer support alongside professional processing
-- Sponsor relationship distinct from therapist
+- كثيراً ما يوصي به المعالجون لعلاج صدمة الأسرة
+- يكمِّل العلاج الذي يعالج التعلق وأنماط الأسرة واضطراب ما بعد الصدمة
+- دعم الأقران إلى جانب المعالجة المهنية
+- علاقة الراعي مختلفة عن المعالج
 
-## Effectiveness
+## الفعالية
 
-- Limited research; peer-reported benefits
-- Emotional support for family trauma effects significant
-- Identity normalization (recognizing patterns as family-of-origin, not personal failure)
-- Community with others who understand family dysfunction
-- Often combined with individual or family therapy for trauma
+- بحث محدود؛ فوائد مُبلَّغ عنها من الأقران
+- دعم عاطفي كبير لآثار صدمة الأسرة
+- تطبيع الهوية (الاعتراف بأن الأنماط من أسرة المنشأ لا فشل شخصي)
+- مجتمع مع آخرين يفهمون اختلال الأسرة
+- كثيراً ما يُجمع مع علاج فردي أو أسري للصدمة
 
-## Criticisms
+## الانتقادات
 
-- Pathologizes normal family variation (not all alcoholic families cause same damage)
-- Some argue overpathologizes childhood experience
-- Can foster blame toward parents
-- May delay needed professional trauma treatment if used alone
-- Gender dynamics: women's caretaking often reinforced
+- تحويل التنوّع الأسري الطبيعي إلى مرض (ليست كل الأسر المدمنة تسبب الضرر ذاته)
+- يرى البعض مبالغة في تحويل تجربة الطفولة إلى مرض
+- قد يعزز اللوم تجاه الوالدين
+- قد يؤخر علاج الصدمة المهني اللازم إن استُخدم وحده
+- ديناميات الجنس: كثيراً ما يُعزَّز دور الرعاية عند النساء
 
-## Primary Sources
+## المصادر الأولية
 
 1. Adult Children of Alcoholics (1987). Adult Children of Alcoholics: The Basic Text. ACA Publishing.
 2. Woititz, J.G. (1983). Adult children of alcoholics. Health Communications.

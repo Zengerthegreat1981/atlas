@@ -7,162 +7,163 @@ parent: counseling
 featured: true
 ---
 
-# Grief & Bereavement Counseling
+# إرشاد الفقد والحداد
 
-Grief and bereavement counseling is a specialized branch focused on supporting individuals and families through the process of loss and bereavement. It addresses the emotional, cognitive, behavioral, social, and spiritual dimensions of grief following death, significant life changes, or chronic losses. Rather than viewing grief as a disorder to be "cured," grief counseling provides normalization, support, and skill-building to facilitate healthy adaptation.
+إرشاد الفقد والحداد فرعٌ متخصص يُعنى بدعم الأفراد والأسر عبر عملية الفقد والحداد. ويعالج الأبعاد الانفعالية والمعرفية والسلوكية والاجتماعية والروحية للحزن الناجم عن الموت، أو التغيرات الحياتية الجسيمة، أو الخسائر المزمنة. وبدلاً من النظر إلى الحزن اضطراباً ينبغي "شفاؤه"، يوفر إرشاد الفقد التطبيع والدعم وبناء المهارات لتيسير التكيف الصحي.
 
-## Foundational Models & Theories
+## النماذج والنظريات التأسيسية
 
-### Kübler-Ross Stages of Grief (1969)
-- **Five stages** (not linear, overlapping):
-  1. Denial — initial shock and disbelief
-  2. Anger — "why me?" questioning and blame
-  3. Bargaining — negotiation for more time or alternative outcomes
-  4. Depression — deep sadness and withdrawal
-  5. Acceptance — moving forward with reality
-- **Critique:** Stages model criticized as oversimplified; individuals experience grief non-linearly and with unique timing
+### مراحل الحزن عند كوبلر-روس (1969)
+- **خمس مراحل** (غير خطية ومتداخلة):
+  1. الإنكار — الصدمة الأولية وعدم التصديق
+  2. الغضب — التساؤل عن "لماذا أنا؟" واللوم
+  3. المساومة — التفاوض على مزيد من الوقت أو نتائج بديلة
+  4. الاكتئاب — حزن عميق وانسحاب
+  5. القبول — المضي قدماً مع الواقع
+- **النقد:** انتُقد نموذج المراحل بوصفه مبسّطاً أكثر مما ينبغي؛ فالأفراد يمرون بالحزن بطريقة غير خطية وبتوقيت فريد
 
-### Worden's Tasks of Mourning (1991)
-- **Task 1:** Accept the reality of the loss
-- **Task 2:** Process the pain of grief
-- **Task 3:** Adjust to a world without the deceased
-- **Task 4:** Find enduring connection while embarking on new life
-- **Emphasis:** Active, ongoing engagement with grief work rather than passive stages
+### مهام الحداد عند ووردن (1991)
+- **المهمة الأولى:** قبول واقع الفقد
+- **المهمة الثانية:** معالجة ألم الحزن
+- **المهمة الثالثة:** التكيف مع عالمٍ خالٍ من المتوفى
+- **المهمة الرابعة:** إيجاد ارتباط دائم مع الشروع في حياة جديدة
+- **التركيز:** انخراط فاعل ومستمر بعمل الحزن لا مراحل سلبية
 
-### Dual Process Model (Stroebe & Schut, 1999)
-- **Loss-oriented coping:** confronting grief, memories, emotions related to loss
-- **Restoration-oriented coping:** adjusting to changed identity, roles, life structure
-- **Oscillation:** healthy grieving involves moving between loss focus and restoration focus
-- **Recognizes:** grief involves both looking back and moving forward
+### النموذج ذو العمليتين (ستروبه وشوت، 1999)
+- **المواجهة الموجَّهة نحو الفقد:** مواجهة الحزن والذكريات والمشاعر المرتبطة بالخسارة
+- **المواجهة الموجَّهة نحو الاستعادة:** التكيف مع هوية متغيرة، وأدوار، وبنية حياة جديدة
+- **التأرجح:** يتضمن الحداد الصحي التنقل بين التركيز على الفقد والتركيز على الاستعادة
+- **يقرّ بأن:** الحزن يتضمن النظر إلى الوراء والمضي قدماً معاً
 
-### Continuing Bonds Model
-- **Core idea:** Healthy grief maintains a lasting, transformed connection with the deceased
-- **Contrasts with:** earlier models suggesting complete "letting go" or "closure"
-- **Application:** incorporating the deceased's values/memory into ongoing life, symbolic activities, legacy projects
+### نموذج الروابط المستمرة
+- **الفكرة الجوهرية:** يحافظ الحزن الصحي على ارتباط دائم متحوّل مع المتوفى
+- **بالمقابل:** النماذج السابقة التي اقترحت "تخلياً" كاملاً أو "إغلاقاً"
+- **التطبيق:** دمج قيم المتوفى/ذكراه في الحياة المستمرة، والأنشطة الرمزية، ومشاريع الإرث
 
-## Types of Loss & Grief
+## أنواع الفقد والحزن
 
-### Death-Related Grief
-- **Anticipatory grief** — grief before death occurs (terminal illness, age-related decline)
-- **Sudden loss** — unexpected death (accident, suicide, homicide)
-- **Traumatic death** — violent or horrific circumstances
-- **Complicated/prolonged grief** — grief intensity or duration beyond typical adaptive range
+### الحزن المرتبط بالموت
+- **الحزن الاستباقي** — حزن قبل وقوع الموت (مرض عضال، تدهور مرتبط بالعمر)
+- **الفقد المفاجئ** — موت غير متوقع (حادث، انتحار، قتل)
+- **الموت الصادم** — ظروف عنيفة أو مروعة
+- **الحزن المعقد/المطوَّل** — شدة الحزن أو مدته تتجاوز النطاق التكيفي المعتاد
 
-### Non-Death Losses
-- Divorce and relationship dissolution
-- Chronic illness or disability
-- Loss of independence or mobility (aging, injury)
-- Job loss, career disruption, economic hardship
-- Loss of identity or social role (retirement, empty nest, migration)
-- Geographical displacement (migration, refugee experiences)
-- Loss of dreams or life plans (infertility, failed aspirations)
+### الخسائر غير المرتبطة بالموت
+- الطلاق وانفصام العلاقة
+- المرض المزمن أو الإعاقة
+- فقدان الاستقلالية أو الحركة (الشيخوخة، الإصابة)
+- فقدان الوظيفة، وتعطل المسار المهني، والضائقة الاقتصادية
+- فقدان الهوية أو الدور الاجتماعي (التقاعد، رحيل الأبناء، الهجرة)
+- النزوح الجغرافي (الهجرة، تجارب اللجوء)
+- فقدان الأحلام أو خطط الحياة (العقم، الطموحات الفاشلة)
 
-## Grief in Special Populations
+## الحزن في الفئات الخاصة
 
-### Child & Adolescent Grief
-- Developmental differences in understanding death and loss
-- Play-based, creative interventions (art, music, narrative)
-- School-based grief support and peer groups
-- Parental guidance on supporting grieving children
+### حزن الأطفال والمراهقين
+- فروقات نمائية في فهم الموت والفقد
+- تدخلات قائمة على اللعب والإبداع (الفن، الموسيقى، السرد)
+- الدعم المدرسي للحزن ومجموعات الأقران
+- إرشاد الوالدين لدعم الأطفال الحزينين
 
-### Traumatic Grief
-- Symptoms overlapping with PTSD (intrusive memories, avoidance, hyperarousal)
-- Intense anger, guilt, questioning "why"
-- Often requires trauma-informed approach (EMDR, CPT, trauma-focused CBT alongside grief work)
+### الحزن الصادم
+- أعراض متداخلة مع اضطراب ما بعد الصدمة (ذكريات اقتحامية، تجنب، فرط يقظة)
+- غضب شديد، وذنب، وتساؤل عن "لماذا"
+- غالباً ما يتطلب مقاربة مراعية للصدمة (EMDR، العلاج المعرفي للمعالجة، العلاج المعرفي السلوكي المركز على الصدمة إلى جانب عمل الحزن)
 
-### Disenfranchised Grief
-- Socially unrecognized or marginalized losses (same-sex partner before legalization, ex-spouse, affair partner)
-- Lack of social acknowledgment and support
-- Isolation, shame, complicated adjustment
+### الحزن المحروم من الاعتراف
+- خسائر غير معترف بها اجتماعياً أو مهمَّشة (شريك من الجنس نفسه قبل التقنين، زوج سابق، شريك علاقة خارج الزواج)
+- غياب الاعتراف والدعم الاجتماعيين
+- العزلة والعار والتكيف المعقد
 
-### Ambiguous Loss (Pauline Boss)
-- Loss without closure: missing person, death unconfirmed, dementia (person still living but cognitively lost)
-- Unique challenges to acceptance and adaptation
+### الفقد الغامض (بولين بوس)
+- فقد دون إغلاق: شخص مفقود، موت غير مؤكد، الخرف (الشخص حيٌّ لكنه فاقد معرفياً)
+- تحديات فريدة للقبول والتكيف
 
-## Counseling Approaches & Interventions
+## مقاربات الإرشاد وتدخلاته
 
-### Narrative & Meaning-Making
-- **Storytelling:** exploring and reshaping the story of the loss
-- **Life review:** integrating the deceased's role in one's life story
-- **Meaning reconstruction:** finding purpose or lessons from loss
+### السرد وصنع المعنى
+- **رواية القصة:** استكشاف قصة الفقد وإعادة تشكيلها
+- **مراجعة الحياة:** دمج دور المتوفى في سيرة حياة المرء
+- **إعادة بناء المعنى:** إيجاد غاية أو دروس من الفقد
 
-### Experiential & Expressive Therapies
-- **Art, music, movement** — non-verbal processing of grief
-- **Ritual and ceremony** — memorials, anniversaries, seasonal observances
-- **Writing** — journaling, letters to the deceased, life reviews
+### العلاجات الخبراتية والتعبيرية
+- **الفن والموسيقى والحركة** — معالجة غير لفظية للحزن
+- **الطقوس والاحتفالات** — إحياء الذكرى، والمناسبات السنوية، والمراسم الموسمية
+- **الكتابة** — كتابة اليوميات، والرسائل إلى المتوفى، ومراجعة الحياة
 
-### Cognitive-Behavioral Approaches
-- **Behavioral activation** — re-engagement with valued activities despite loss
-- **Thought work** — addressing unhelpful cognitions (guilt, blame, "should" statements)
-- **Exposure** — gradual re-engagement with grief triggers and reminders
+### المقاربات المعرفية السلوكية
+- **التنشيط السلوكي** — إعادة الانخراط في الأنشطة ذات القيمة رغم الفقد
+- **العمل على الأفكار** — معالجة الإدراكات غير المفيدة (الذنب، اللوم، عبارات "ينبغي")
+- **التعرض** — إعادة انخراط تدريجية مع محفزات الحزن وموروثاته
 
-### Psychoeducation
-- **Normalizing grief** — explaining common grief reactions
-- **Grief timeline expectations** — acknowledging that grief has no fixed endpoint
-- **Self-care and resilience** — sleep, nutrition, exercise, social connection
+### التثقيف النفسي
+- **تطبيع الحزن** — شرح استجابات الحزن الشائعة
+- **توقعات الجدول الزمني للحزن** — الإقرار بأن للحزن نهاية غير محددة
+- **العناية الذاتية والمرونة** — النوم، والتغذية، والرياضة، والتواصل الاجتماعي
 
-### Group & Family Interventions
-- **Grief support groups** — peer-led or counselor-facilitated
-- **Family grief counseling** — addressing different grief experiences and conflict
-- **Dual grief counseling** — supporting couples with differing grief processes
+### تدخلات جماعية وأسرية
+- **مجموعات دعم الحزن** — بقيادة الأقران أو المرشد
+- **الإرشاد الأسري للحزن** — معالجة تفاوت خبرات الحزن والنزاع
+- **إرشاد الحزن الثنائي** — دعم الأزواج ذوي عمليات حزن متفاوتة
 
-### Spiritual & Existential Exploration
-- **Religious/spiritual frameworks** — how faith traditions address death and meaning
-- **Legacy work** — creating lasting impact through charitable giving, volunteering, mentoring
-- **Purpose and contribution** — rediscovering meaning in ongoing life
+### الاستكشاف الروحي والوجودي
+- **الأطر الدينية/الروحية** — كيف تعالج التقاليد الدينية الموت والمعنى
+- **عمل الإرث** — خلق أثر دائم من خلال العطاء الخيري والتطوع والإرشاد
+- **الغاية والمساهمة** — إعادة اكتشاف المعنى في الحياة المستمرة
 
-## Assessment in Grief Counseling
+## التقييم في إرشاد الحزن
 
-### Grief Intensity & Functioning
-- **Grief reaction questionnaires** — measure symptom intensity and distress
-- **Life functioning assessment** — work, relationships, self-care, social engagement
-- **Risk assessment** — suicidality, substance abuse, self-harm
+### شدة الحزن والأداء
+- **استبانات استجابة الحزن** — قياس شدة الأعراض والضائقة
+- **تقييم الأداء الحياتي** — العمل، والعلاقات، والعناية الذاتية، والانخراط الاجتماعي
+- **تقييم الخطر** — الميل الانتحاري، وإساءة استخدام المواد، وإيذاء النفس
 
-### Complicated Grief Screening
-- Prolonged Grief Disorder (DSM-5-TR) criteria
-- Complicated Grief Assessment
-- Differentiation from depression, PTSD, or major depressive disorder
+### فحص الحزن المعقد
+- معايير اضطراب الحزن المطوَّل (الدليل التشخيصي والإحصائي، الإصدار الخامس المنقح)
+- تقييم الحزن المعقد
+- التمييز من الاكتئاب أو اضطراب ما بعد الصدمة أو اضطراب الاكتئاب الجسيم
 
-## Grief Counselor Competencies
+## كفايات مرشد الحزن
 
-- Knowledge of grief theory and models
-- Cultural and spiritual sensitivity
-- Trauma-informed practice
-- Ability to normalize grief without pathologizing
-- Comfort with existential questions and uncertainty
-- Self-awareness regarding personal loss experiences
-- Boundaries and self-care to prevent vicarious grief and burnout
+- معرفة بنظرية الحزن ونماذجه
+- الحساسية الثقافية والروحية
+- الممارسة المراعية للصدمة
+- القدرة على تطبيع الحزن دون تحويله إلى مرض
+- الارتياح مع الأسئلة الوجودية واللايقين
+- الوعي الذاتي تجاه خبرات الفقد الشخصية
+- الحدود والعناية الذاتية لمنع الحزن بالوكالة والاحتراق النفسي
 
-## Related Branches
+## فروع ذات صلة
 
-- [[br-crisis-counseling]] — acute grief crisis intervention
-- [[br-trauma-psychology]] (if exists as branch) — traumatic grief and complicated bereavement
+- [[br-crisis-counseling]] — التدخل في أزمة الحزن الحادة
+- [[br-trauma-psychology]] (إن وُجد فرعاً) — الحزن الصادم والحداد المعقد
 
-## Key Figures
+## أعلام بارزون
 
-- Elisabeth Kübler-Ross (1969) — stages of grief model
-- William Worden (1991) — tasks of mourning
-- Margaret Stroebe & Henk Schut (1999) — dual process model
-- Pauline Boss — ambiguous loss
-- Therese Rando — grief counseling techniques and complicated grief
-- Tony Walter — continuing bonds and modern grief
+- إليزابيث كوبلر-روس (Elisabeth Kübler-Ross، 1969) — نموذج مراحل الحزن
+- ويليام ووردن (William Worden، 1991) — مهام الحداد
+- مارغريت ستروبه وهنك شوت (Margaret Stroebe & Henk Schut، 1999) — النموذج ذو العمليتين
+- بولين بوس (Pauline Boss) — الفقد الغامض
+- تيريز راندو (Therese Rando) — تقنيات إرشاد الحزن والحزن المعقد
+- توني والتر (Tony Walter) — الروابط المستمرة والحزن الحديث
 
-## Primary Sources
+## المصادر
 
 1. Neimeyer, R.A. (Ed.). (2012). Techniques of grief therapy: Creative practices for counseling the bereaved. Routledge.
 2. Rando, T.A. (2004). Grief, dying, and death: Clinical interventions for caregivers (2nd ed.). Research Press.
 3. Stroebe, M.S., Hansson, R.O., Schut, H., & Stroebe, W. (Eds.). (2008). Handbook of bereavement research and practice: Advances in theory and intervention. American Psychological Association.
 4. Worden, J.W. (2018). Grief counseling and grief therapy: A handbook for the mental health practitioner (5th ed.). Springer Publishing.
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Bereavement
-- Anticipatory grief
-- Traumatic loss
-- Complicated grief
-- Disenfranchised grief
-- Ambiguous loss
-- Grief support groups
-- Meaning reconstruction
-- Continuing bonds
-- Grief resilience
+- الحداد
+- الحزن الاستباقي
+- الفقد الصادم
+- الحزن المعقد
+- الحزن المحروم من الاعتراف
+- الفقد الغامض
+- مجموعات دعم الحزن
+- إعادة بناء المعنى
+- الروابط المستمرة
+- مرونة الحزن
+</content>

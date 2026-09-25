@@ -6,126 +6,126 @@ part: psychology
 parent: twelve-step fellowships, mutual-aid
 ---
 
-# Cocaine Anonymous (CA)
+# الكوكايين المجهول (Cocaine Anonymous, CA)
 
-Cocaine Anonymous is a twelve-step fellowship specifically for people recovering from cocaine and stimulant addiction. Founded in 1982, CA addresses the unique challenges of stimulant addiction—intense cravings, depression, psychosis risk—using peer support and twelve-step principles.
+الكوكايين المجهول رابطة خطوات اثنتي عشرة مخصصة للمتعافين من إدمان الكوكايين والمنشطات. تأسست عام 1982، وتعالج CA التحديات الخاصة بإدمان المنشطات: الرغبة الشديدة والاكتئاب وخطر الذهان، باستخدام دعم الأقران ومبادئ الخطوات الاثنتي عشرة.
 
-## Overview
+## لمحة عامة
 
-- **Founded:** 1982 in Los Angeles
-- **Members:** 150,000+ globally (growing with methamphetamine expansion)
-- **Focus:** Cocaine, methamphetamine, other stimulants
-- **Model:** Twelve-step, peer-led
-- **Philosophy:** Addiction as disease; recovery through community and spirituality
+- **التأسيس:** 1982 في لوس أنجلوس
+- **الأعضاء:** أكثر من 150,000 حول العالم (يتنامى مع انتشار الميثامفيتامين)
+- **التركيز:** الكوكايين والميثامفيتامين والمنشطات الأخرى
+- **النموذج:** خطوات اثنتا عشرة، بقيادة الأقران
+- **الفلسفة:** الإدمان مرض؛ والتعافي عبر المجتمع والروحانية
 
-## Stimulant-Specific Challenges CA Addresses
+## التحديات الخاصة بالمنشطات التي تعالجها CA
 
-**Cocaine/Crack:**
-- Intense, short-lasting high and craving cycle
-- Rapid escalation and tolerance
-- Severe depression and anhedonia in withdrawal
-- High relapse risk
+**الكوكايين/الكراك:**
+- نشوة قصيرة وشديدة ودورة رغبة سريعة
+- تصاعد وتحمّل سريعان
+- اكتئاب شديد وفقدان متعة عند الانسحاب
+- خطر انتكاس مرتفع
 
-**Methamphetamine:**
-- Longer-lasting effects; extended bingeing
-- Severe psychological dependence
-- Psychotic symptoms and paranoia possible
-- Dental and physical health damage
-- Slower neurochemical recovery
+**الميثامفيتامين:**
+- آثار أطول أمداً؛ ونوبات إدمان ممتدة
+- اعتماد نفسي شديد
+- أعراض ذهانية وجنون ارتياب محتملة
+- ضرر بصحة الأسنان والجسم
+- تعافٍ كيميائي عصبي أبطأ
 
-**Other stimulants:**
-- Prescription amphetamines
-- ADHD medication misuse
-- Energy drinks and caffeine dependency (not typically primary focus)
+**منشطات أخرى:**
+- أمفيتامينات موصوفة طبياً
+- إساءة استخدام دواء اضطراب فرط الحركة ونقص الانتباه
+- الاعتماد على مشروبات الطاقة والكافيين (ليس تركيزاً رئيسياً عادة)
 
-## Twelve-Step Adaptation
+## تكييف الخطوات الاثنتي عشرة
 
-Identical to AA structure:
-- Powerlessness over stimulant use
-- Higher Power for recovery
-- Moral inventory and amends
-- Service to other addicts
-- Spiritual practice
+مطابق لبنية AA:
+- العجز أمام تعاطي المنشطات
+- قوة عليا للتعافي
+- جرد أخلاقي وجبر ضرر
+- خدمة مدمنين آخرين
+- ممارسة روحانية
 
-## Stimulant-Specific Meeting Topics
+## مواضيع اجتماعات خاصة بالمنشطات
 
-- Craving management during withdrawal
-- Dealing with depression and anhedonia (loss of pleasure)
-- Sleep disruption and recovery
-- Nutritional rehabilitation
-- Managing attention and focus without stimulants
-- Paranoia and psychosis management
-- Physical health recovery
+- إدارة الرغبة الشديدة أثناء الانسحاب
+- التعامل مع الاكتئاب وفقدان المتعة
+- اضطراب النوم والتعافي
+- إعادة التأهيل الغذائي
+- إدارة الانتباه والتركيز دون منشطات
+- إدارة جنون الارتياب والذهان
+- تعافي الصحة الجسدية
 
-## Sponsorship & Support
+## الرعاية والدعم
 
-- Sponsor-guided twelve-step work
-- Particular importance: early recovery support (high relapse risk)
-- Emphasis on staying connected (isolation increases relapse)
-- Practical help with medical and psychiatric care
+- عمل على الخطوات الاثنتي عشرة بتوجيه الراعي
+- أهمية خاصة: دعم التعافي المبكر (خطر انتكاس مرتفع)
+- التشديد على البقاء متصلاً (العزلة تزيد الانتكاس)
+- مساعدة عملية في الرعاية الطبية والنفسية
 
-## Comorbidities
+## الاعتلالات المصاحبة
 
-**Common with stimulant addiction:**
-- Depression and anxiety (especially during withdrawal)
-- ADHD or attention difficulties
-- Bipolar disorder (self-medication with stimulants)
-- Trauma and emotional dysregulation
-- Other substance use (alcohol, opioids, cannabis)
+**شائعة مع إدمان المنشطات:**
+- الاكتئاب والقلق (خاصة أثناء الانسحاب)
+- اضطراب فرط الحركة ونقص الانتباه أو صعوبات التركيز
+- الاضطراب ثنائي القطب (التطبيب الذاتي بالمنشطات)
+- الصدمة وخلل التنظيم العاطفي
+- تعاطي مواد أخرى (الكحول، المواد الأفيونية، القنّب)
 
-**Treatment implications:** Integrated approach needed; CA peer support alongside therapy/psychiatry
+**تبعات علاجية:** يلزم نهج متكامل؛ دعم أقران CA إلى جانب العلاج/الطب النفسي
 
-## Effectiveness
+## الفعالية
 
-- Research limited; peer-reported benefits
-- Regular attendance associated with abstinence
-- High initial dropout (withdrawal and depression)
-- Success rates comparable to other twelve-step programs
-- Often combined with therapy and medication
+- بحث محدود؛ فوائد مُبلَّغ عنها من الأقران
+- الحضور المنتظم مرتبط بالامتناع
+- انقطاع مبكر مرتفع (الانسحاب والاكتئاب)
+- معدلات نجاح مماثلة لبرامج الخطوات الاثنتي عشرة الأخرى
+- كثيراً ما يُجمع بالعلاج والدواء
 
-## Integration with Professional Treatment
+## التكامل مع العلاج المهني
 
-- Therapist-friendly: recognizes medical aspects alongside addiction
-- Psychiatric medication: often necessary for depression, ADHD
-- Behavioral therapy: CBT and motivational interviewing effective
-- Medical care: dental, cardiovascular, nutritional support needed
+- ودود مع المعالجين: يعترف بالجوانب الطبية إلى جانب الإدمان
+- الدواء النفسي: كثيراً ما يلزم للاكتئاب واضطراب فرط الحركة ونقص الانتباه
+- العلاج السلوكي: العلاج المعرفي السلوكي والمقابلة التحفيزية فعّالان
+- الرعاية الطبية: دعم الأسنان والقلب والتغذية لازم
 
-## Stimulant-Specific Treatment Considerations
+## اعتبارات علاجية خاصة بالمنشطات
 
-**Medication-assisted treatment (limited options):**
-- Unlike opioids, no FDA-approved medication for stimulant addiction
-- Antidepressants for withdrawal depression
-- Methylphenidate or amphetamine under strict monitoring for ADHD (controversial)
-- Modafinil showing promise for stimulant craving
+**العلاج المدعوم بالدواء (خيارات محدودة):**
+- خلافاً للمواد الأفيونية، لا دواء معتمد من إدارة الغذاء والدواء لإدمان المنشطات
+- مضادات الاكتئاب لاكتئاب الانسحاب
+- ميثيلفينيديت أو أمفيتامين تحت مراقبة صارمة لاضطراب فرط الحركة (مثير للجدل)
+- مودافينيل يُظهر واعدية للرغبة الشديدة في المنشطات
 
-**Behavioral interventions:**
-- Contingency management: rewards for abstinence/negative drug tests
-- CBT: addressing triggers and coping
-- Motivational interviewing: building intrinsic motivation
-- Community reinforcement: rebuilding life alongside recovery
+**التدخلات السلوكية:**
+- إدارة الطوارئ (contingency management): مكافآت على الامتناع/فحوص المخدرات السلبية
+- العلاج المعرفي السلوكي: معالجة المحفزات والتكيف
+- المقابلة التحفيزية: بناء دافعية داخلية
+- تعزيز المجتمع: إعادة بناء الحياة إلى جانب التعافي
 
-## Relationship to Other Fellowships
+## العلاقة بالرابطات الأخرى
 
-- [[org-na-narcotics-anonymous]] — all drugs; CA more specific to stimulants
-- [[org-ga-gamblers-anonymous]] — behavioral addiction parallels (dopamine-driven)
-- [[org-aa-alcoholics-anonymous]] — model for CA
+- [[org-na-narcotics-anonymous]] — كل المخدرات؛ وCA أكثر تخصصاً بالمنشطات
+- [[org-ga-gamblers-anonymous]] — تشابهات إدمان سلوكي (مدفوع بالدوبامين)
+- [[org-aa-alcoholics-anonymous]] — النموذج الذي تقتبسه CA
 
-## Accessibility
+## سهولة الوصول
 
-- Smaller network than NA (fewer meetings in some areas)
-- Growing with methamphetamine epidemic
-- Online meetings expanding
-- Free
+- شبكة أصغر من NA (اجتماعات أقل في بعض المناطق)
+- تتنامى مع وباء الميثامفيتامين
+- الاجتماعات عبر الإنترنت في توسع
+- مجانية
 
-## Challenges Specific to Stimulant Recovery
+## تحديات خاصة بتعافي المنشطات
 
-- Severe depression in early recovery: suicide risk high
-- Longer neurochemical recovery: months to feel normal
-- Cognitive impairment: attention, memory issues during recovery
-- Psychosis risk: especially with methamphetamine
-- High initial relapse rate: requires intensive support
+- اكتئاب شديد في التعافي المبكر: خطر انتحار مرتفع
+- تعافٍ كيميائي عصبي أطول: شهور للشعور بالطبيعية
+- ضعف إدراكي: مشكلات انتباه وذاكرة أثناء التعافي
+- خطر الذهان: خاصة مع الميثامفيتامين
+- معدل انتكاس مبكر مرتفع: يتطلب دعماً مكثفاً
 
-## Primary Sources
+## المصادر الأولية
 
 1. Cocaine Anonymous (1990). Cocaine Anonymous: The Basic Text. CA Publishing.
 2. Potenza, M.N., et al. (2012). Neurobiology of addiction: A neurocircuits and precision medicine approach. Lancet Psychiatry, 2(4), 445-460.

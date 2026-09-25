@@ -17,21 +17,21 @@ gaps: []
 
 # السببية التاريخية (Historical Causation)
 
-## Historical Causation
+## السببية التاريخية
 
-Examination of how historians explain change and attribute causes; addresses complexity of historical explanation and multiple causation.
+فحص كيف يفسّر المؤرخون التغير وينسبون الأسباب؛ يعالج تعقيد التفسير التاريخي وتعدد الأسباب.
 
-### Key Aspects
+### الجوانب الجوهرية
 
-This node represents part of Section 20: Cross-Cutting Frameworks & Synthesis in historiography.
+تمثّل هذه العقدة جزءاً من القسم 20: الأطر الشاملة والتوليف في التأريخ.
 
-### Historiographical Relevance
+### الصلة التأريخية
 
-These are fundamental concepts in historical epistemology and practice.
+هذه مفاهيم جوهرية في إبستمولوجيا التاريخ وممارسته.
 
-### Related Fields
+### مجالات ذات صلة
 
-- Historiographical theory and practice
-- Philosophy of history
-- Historical methodology
-
+- نظرية التأريخ وممارسته
+- فلسفة التاريخ
+- منهجية التاريخ
+</content>

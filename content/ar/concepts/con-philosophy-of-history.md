@@ -17,23 +17,23 @@ gaps: []
 
 # فلسفة التاريخ (Philosophy of History)
 
-## Philosophy of History
+## فلسفة التاريخ
 
-Philosophical examination of history; addresses questions of time, causation, progress, and meaning in historical analysis.
+فحص فلسفي للتاريخ؛ يعالج أسئلة الزمن، والسببية، والتقدم، والمعنى في التحليل التاريخي.
 
-### Key Aspects
+### الجوانب الجوهرية
 
-This node represents part of Section 20: Cross-Cutting Frameworks & Synthesis in historiography.
+تمثّل هذه العقدة جزءاً من القسم 20: الأطر الشاملة والتوليف في التأريخ.
 
-### Related Fields
+### مجالات ذات صلة
 
-- Historiographical theory and practice
-- Historiographical ethics and reflexivity
-- Regional and comparative historiography
-- Emerging historiographical fields
+- نظرية التأريخ وممارسته
+- أخلاقيات التأريخ والتأمل الذاتي
+- التأريخ الإقليمي والمقارن
+- مجالات التأريخ الناشئة
 
-### See Also
+### انظر أيضاً
 
-- Related historiographical concepts and schools
-- Contemporary historical scholarship
-
+- مفاهيم ومدارس تأريخية ذات صلة
+- الدراسات التاريخية المعاصرة
+</content>

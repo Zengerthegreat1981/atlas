@@ -6,97 +6,97 @@ part: psychology
 parent: mutual-aid, peer-support
 ---
 
-# GROW: Mutual Help Organization
+# GROW: منظمة المساعدة المتبادلة
 
-GROW is a peer-led mutual-help organization focusing on mental health recovery, personal growth, and community support. Founded in Australia in 1957, GROW operates in Australia, UK, and other countries, emphasizing recovery and growth in mental health conditions.
+GROW منظمة مساعدة متبادلة بقيادة الأقران، تركز على التعافي في الصحة النفسية والنمو الشخصي والدعم المجتمعي. تأسست في أستراليا عام 1957، وتعمل GROW في أستراليا والمملكة المتحدة ودول أخرى، وتشدد على التعافي والنمو في حالات الصحة النفسية.
 
-## Overview
+## لمحة عامة
 
-- **Founded:** 1957 in Sydney, Australia
-- **Members:** 100,000+ (primarily Australia, UK)
-- **Focus:** Mental health recovery; personal and community growth
-- **Model:** Peer-led mutual help; non-professional, non-medical
-- **Approach:** Preventive, supportive, community-based
+- **التأسيس:** 1957 في سيدني بأستراليا
+- **الأعضاء:** أكثر من 100,000 (أساساً في أستراليا والمملكة المتحدة)
+- **التركيز:** التعافي في الصحة النفسية؛ النمو الشخصي والمجتمعي
+- **النموذج:** مساعدة متبادلة بقيادة الأقران؛ غير مهنية وغير طبية
+- **المقاربة:** وقائية، داعمة، قائمة على المجتمع
 
-## Philosophy & Model
+## الفلسفة والنموذج
 
-**GROW's Vision:**
-- Recovery from mental health problems achievable
-- Peer support and mutual aid effective
-- Community connection protective
-- Personal responsibility and empowerment
+**رؤية GROW:**
+- التعافي من مشكلات الصحة النفسية أمر قابل للتحقيق
+- دعم الأقران والتعاضد فعّالان
+- الاتصال المجتمعي وقائي
+- المسؤولية الشخصية والتمكين
 
-**The Twelve-Step Equivalent (adapted):**
-Similar structure to AA but adapted for mental health:
-- Recognition of need for change
-- Belief in recovery possibility
-- Action steps toward growth
-- Service and helping others
+**ما يعادل الخطوات الاثنتي عشرة (مُكيَّف):**
+بنية مشابهة لـAA لكن مُكيَّفة للصحة النفسية:
+- الاعتراف بالحاجة إلى التغيير
+- الإيمان بإمكانية التعافي
+- خطوات عملية نحو النمو
+- الخدمة ومساعدة الآخرين
 
-## Meeting Format
+## صيغة الاجتماعات
 
-- Weekly meetings in local communities
-- Mix of practical support and discussion
-- Focus on growth strategies, not just crisis management
-- Social connection and friendship
-- Practical mutual aid (help with appointments, tasks)
+- اجتماعات أسبوعية في المجتمعات المحلية
+- مزيج من الدعم العملي والنقاش
+- التركيز على استراتيجيات النمو لا إدارة الأزمة فقط
+- الاتصال الاجتماعي والصداقة
+- تعاضد عملي (المساعدة في المواعيد والمهام)
 
-## Issues Addressed
+## القضايا المعالَجة
 
-- Depression and mood disorders
-- Anxiety disorders
-- Schizophrenia and psychotic disorders
-- Trauma and PTSD
-- Personality disorders
-- Substance use with mental health
-- Isolation and loneliness
+- الاكتئاب واضطرابات المزاج
+- اضطرابات القلق
+- الفصام والاضطرابات الذهانية
+- الصدمة واضطراب ما بعد الصدمة
+- اضطرابات الشخصية
+- تعاطي المواد مع الصحة النفسية
+- العزلة والوحدة
 
-## Core Strengths
+## نقاط القوة الأساسية
 
-- **Preventive focus:** emphasis on preventing relapse/crisis
-- **Community:** local group meetings build relationships
-- **Peer wisdom:** people in recovery helping others
-- **Practical support:** members help with daily living
-- **Non-stigmatizing:** focus on growth, not pathology
+- **التركيز الوقائي:** التشديد على منع الانتكاس/الأزمة
+- **المجتمع:** اجتماعات المجموعة المحلية تبني علاقات
+- **حكمة الأقران:** أشخاص في التعافي يساعدون آخرين
+- **الدعم العملي:** يساعد الأعضاء في الحياة اليومية
+- **غير موصوم:** التركيز على النمو لا المرض
 
-## Integration with Professional Services
+## التكامل مع الخدمات المهنية
 
-- Complements rather than replaces psychiatric care
-- Members often in therapy, on medication, in treatment
-- Provides peer support where professionals cannot
-- Increasing collaboration with mental health services
+- يكمِّل الرعاية النفسية لا يستبدلها
+- كثيراً ما يكون الأعضاء في علاج أو على دواء أو في معالجة
+- يوفر دعم الأقران حيث لا يستطيع المهنيون
+- تعاون متزايد مع خدمات الصحة النفسية
 
-## Effectiveness
+## الفعالية
 
-- Limited research; peer-reported benefits significant
-- Community connection appears protective
-- Regular attendance associated with better outcomes
-- Works best combined with professional care
+- بحث محدود؛ فوائد كبيرة مُبلَّغ عنها من الأقران
+- الاتصال المجتمعي يبدو وقائياً
+- الحضور المنتظم مرتبط بنتائج أفضل
+- يعمل على أفضل وجه حين يُجمع بالرعاية المهنية
 
-## Cultural Context (Australia/UK)
+## السياق الثقافي (أستراليا/المملكة المتحدة)
 
-- Emerged from mental health consumer movement
-- Different approach than AA-based models (more inclusive of mental illness)
-- Integrated into some public mental health systems
-- Growing recognition as valuable peer support
+- نشأ من حركة مستهلكي خدمات الصحة النفسية
+- مقاربة مختلفة عن نماذج AA (أكثر شمولاً للمرض النفسي)
+- مندمج في بعض أنظمة الصحة النفسية العامة
+- اعتراف متنامٍ بقيمته كدعم أقران
 
-## Accessibility
+## سهولة الوصول
 
-- Free or low-cost
-- Primarily Australia and UK (expanding to other countries)
-- Online meetings emerging
+- مجاني أو منخفض التكلفة
+- أساساً في أستراليا والمملكة المتحدة (يتوسع لدول أخرى)
+- اجتماعات عبر الإنترنت ناشئة
 
-## Comparison to Other Mutual Aid
+## المقارنة بمساعدة متبادلة أخرى
 
-| Aspect | GROW | AA/NA | SMART |
+| الجانب | GROW | AA/NA | SMART |
 |---|---|---|---|
-| Focus | Mental health | Addiction | Addiction/substance |
-| Model | Peer mutual aid | 12-step fellowship | Cognitive-behavioral |
-| Spirituality | None (flexible) | Higher Power | None |
-| Geography | Australia/UK | Global | Global |
-| Professional integration | Encouraged | Sometimes resisted | Integrated |
+| التركيز | الصحة النفسية | الإدمان | الإدمان/المواد |
+| النموذج | تعاضد الأقران | رابطة الخطوات الاثنتي عشرة | معرفي سلوكي |
+| الروحانية | لا يوجد (مرن) | قوة عليا | لا يوجد |
+| الجغرافيا | أستراليا/المملكة المتحدة | عالمي | عالمي |
+| التكامل المهني | مُشجَّع | يُقاوَم أحياناً | مندمج |
 
-## Primary Sources
+## المصادر الأولية
 
 1. GROW Australia: https://www.grow.org.au
 2. Slade, M., et al. (2014). Recovery from mental illness and the role of community-based services. Epidemiology and Psychiatric Sciences, 23(2), 147-150.

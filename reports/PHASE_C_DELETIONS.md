@@ -603,3 +603,49 @@ Criteria: (a) body = title line repeated once + a bare 'Pending'-style reference
 ## Integrity checker note (unrelated to this session's edits)
 
 A first `check_content_integrity.py --lang ar` run (13,088 files) flagged one dangling reference: `con-biogenetic-versus-cultural-kinship` → `sch-american-kinship-studies` (related + edge). Investigation showed `schools/sch-american-kinship-studies.md` was an **untracked file** (`git status` confirmed it wasn't yet committed) — i.e. a concurrent session was actively writing it at that moment (per the standing memory note on concurrent Atlas sessions), not a file this Phase C pass touched, deleted, or broke. A re-run of the checker (13,094 files — 6 more than the first run, confirming the other session added files in the interim) came back **clean, zero problems**, confirming this was transient and unrelated to Phase C.
+
+## Round 3
+
+### Merges (Task 1, spec-listed pairs)
+
+- `schools/sch-environmental-ethics.md` ← `schools/environmental-ethics.md`: the duplicate was an unfilled template stub (empty headings only, no body content, `related: []`). No external references to `environmental-ethics` existed elsewhere in content/ar. Deleted with no content to merge.
+- `schools/sch-feminist-jurisprudence.md` ← `schools/feminist-jurisprudence.md`: same pattern — empty template stub, no external references. Deleted.
+- `schools/sch-legal-pluralism.md` ← `schools/legal-pluralism.md`: same pattern — empty template stub, no external references. Deleted.
+- `concepts/con-categorical-imperative.md` ← `concepts/categorical-imperative.md`: both had real content. Kept `con-categorical-imperative` (per spec instruction) and merged in the unique "القيد" (limitation) section and the four-item bibliography from `categorical-imperative.md`, which the canonical file lacked; added `sch-deontological-ethics-kant` to `related`. Repointed the one external reference (`schools/sch-deontological-ethics-kant.md`, related-list entry) from `categorical-imperative` to `con-categorical-imperative`. Deleted `categorical-imperative.md`.
+- `schools/sch-virtue-ethics.md` ← `schools/sch-virtue-ethics-aristotle.md`: **BLOCKED** — `sch-virtue-ethics-aristotle` is listed in protected.txt (another session may be editing it). Not touched. 8 files reference it (`con-mean-between-extremes`, `con-practical-wisdom`, `con-eudaimonia-flourishing`, `con-character-ethics`, `con-virtue-habit-formation`, `con-vice`, `con-virtue-development`, `con-moral-exemplars`) — these repoints are listed here for a future pass, not performed.
+- `concepts/con-shunyata.md` ← `concepts/con-shunyata-emptiness.md`, `concepts/con-buddhist-emptiness-shunyata.md`:
+  - `con-shunyata-emptiness` is listed in protected.txt. **BLOCKED**, not touched. It is a near-duplicate of `con-shunyata` (confirmed: same `en:` title, same Nāgārjuna/Madhyamaka topic; its own `gaps` note already flags this as an unresolved duplicate). 8 files reference it (`wrk-religion-and-nothingness-nishitani`, `con-upaya-skillful-means`, `con-two-truths-doctrine-buddhist`, `con-trisvabhava-three-natures`, `con-one-mind-two-aspects-wonhyo`, `con-kshanikavada-universal-momentariness`, `br-madhyamaka-svatantrika`, `br-madhyamaka-prasangika`) — listed here for a future pass.
+  - `con-buddhist-emptiness-shunyata` is not protected. Confirmed it covers the same concept (Śūnyatā/Nāgārjuna/Madhyamaka) from a Buddhist-psychology angle (CBT/ACT applications, Tsongkhapa, Wallace). Merged its unique "في علم النفس" (psychology applications) content and related thinkers (`thk-tsongkhapa`, `thk-beck`, `thk-lstevenhayes`, `thk-lcwallace`, `sch-buddhist-psychology`) into `con-shunyata.md`. Repointed 3 external references (`con-absolute-nothingness-zettai-mu.md`, `sch-buddhist-psychology.md`, `con-pratityasamutpada-dependent-origination.md`) from `con-buddhist-emptiness-shunyata` to `con-shunyata`. Deleted `con-buddhist-emptiness-shunyata.md`.
+- `schools/sch-refugee-displacement-anthropology.md` ← `schools/migration-displacement-school.md`: **BLOCKED** — `sch-refugee-displacement-anthropology` (the canonical target) is listed in protected.txt. Not touched; not investigated further since the canonical file itself cannot be edited.
+
+### Merges (Task 1, additional pairs found by scanning for slug ± prefix/suffix with matching `en:` title)
+
+Scanned all `en:` titles within each folder (concepts, schools, thinkers, works, etc.) for near-duplicate slugs. Most matches found (mainly in `thinkers/` and `works/`) were legitimate distinct files — e.g. a person's main profile plus a separate `-bio` sub-file, or genuinely different works/editions — and were left alone. Clear duplicate pairs (same `en:` title, same entity, one side an empty/near-empty template stub or fully overlapping content) that were merged:
+
+- `concepts/con-authenticity.md` ← `concepts/con-authenticity-ethics.md`: the `-ethics` file was a bare template stub (title heading only, no body, `related: []`). No external references. Deleted, no content lost.
+- `concepts/con-cosmopolitanism.md` ← `concepts/con-cosmopolitanism-ethics.md`: same pattern — empty stub with blank section headings, no external references. Deleted.
+- `schools/sch-medical-anthropology.md` ← `schools/sch-medical-anthropology-expanded.md`: both had real content on the same topic (medical anthropology, same thinkers Kleinman/Farmer/Scheper-Hughes). Merged the "-expanded" file's unique "التطبيقات" section and its Farmer/Lock-Nguyen bibliography entries and `thk-paul-farmer`/`thk-nancy-scheper-hughes` related-links into `sch-medical-anthropology.md`. No external references to the "-expanded" slug existed. Deleted `sch-medical-anthropology-expanded.md`.
+- `concepts/con-rule-of-recognition-hart.md` ← `concepts/con-rule-recognition.md`: the latter was a bare template stub, no external references. Deleted.
+- `concepts/con-matrix-language-frame-model.md` ← `concepts/con-matrix-language-frame-model-myers-scotton.md`: the latter was literally `[تحت الإنشاء - سيُملأ بتفاصيل شاملة لاحقاً]` (under construction placeholder), no external references. Deleted.
+- `schools/sch-conversation-analysis.md` ← `schools/sch-conversational-analysis.md`: the latter was a two-sentence stub, no external references. Deleted.
+- `concepts/con-doctrine-of-double-effect.md` ← `concepts/con-doctrine-double-effect.md`: the latter was an empty template stub, no external references. Deleted.
+- `schools/sch-comtean-positivism.md` ← `schools/sch-comtian-positivism.md`: both had full, real, non-overlapping content on the same school (same `en: Comtean Positivism`) — one written from a sociology angle, one from a philosophy angle. Kept `sch-comtean-positivism` (more incoming references). Merged unique sections ("المساهمات والفروع", "القيد", extra bibliography, `sch-positivism-latin`/`con-verification-principle` related links) from `sch-comtian-positivism` into it. Repointed 3 external references: `schools/sch-utilitarianism.md` (edge target), `schools/sch-positivism-latin.md` (edge target + related-list id/title), and `thinkers/thk-comte.md` (related-list entry, and rewrote its own `gaps` note that had explicitly — and incorrectly — described the two files as independent). Deleted `sch-comtian-positivism.md`.
+- `concepts/con-wahdat-al-wujud.md` ← `concepts/con-wahdat-wujud.md`: the latter was a bare template stub (`[يتطلب توسيع نصي]`, `[سيتم توثيق المصادر]`), no external references, while `con-wahdat-al-wujud` already has full content on Ibn Arabi's doctrine. Deleted the stub.
+
+Pairs identified but **left unmerged** (both sides have substantial, non-overlapping real content and/or the match was judged not a clear duplicate, so out of scope for this pass): `con-rule-of-recognition-hart`-style biography variants in `thinkers/` and `works/` (e.g. `thk-david-graeber`/`thk-graeber`, `wrk-nicomachean-ethics`/`wrk-nicomachean-ethics-aristotle`, etc.) — these look like intentional main-profile + `-bio`/alternate-edition pairs rather than accidental duplicates, and many touch protected.txt-listed files; not investigated further given scope.
+
+### Task 2: unverifiable thinkers
+
+- `thk-jdavid` ("Jordan David") — **BLOCKED**, file is listed in protected.txt. WebSearch for "Jordan David" + social therapy / East Side Institute / Castillo Theatre / Fred Newman / Lois Holzman returned no matching person; the only documented Castillo Theatre figure in that role is Dan Friedman, already noted (and explicitly not substituted) in the file's own `gaps` history. Confirms the file's existing `status: quarantined` finding. No file edit made (protected); flagged here instead.
+- `thk-leehyungjun` ("Lee Hyung-Jun", 이형준) — **BLOCKED**, file is listed in protected.txt. WebSearch for 이형준 + 화병 (hwabyung) + ACT (수용전념치료) + 정신과의사 returned no matching psychiatrist; known researchers in this field are Lee Si-hyung (이시형), Min Sung-gil (민성길), and Kim Jong-woo (김종우) — none matches "Lee Hyung-Jun." Confirms the file's own existing `gaps` note reaching the same conclusion. No file edit made (protected); flagged here instead.
+
+### Task 3: placeholder id
+
+- `schools/sch-regional-persian-anthropology.md`: `id: "SCH-[PLACEHOLDER]"` → `id: "SCH-13226"`. Confirmed no other file in content/ar used `SCH-13226` before the change.
+
+### Blocked items requiring a follow-up pass (protected files)
+
+1. Merge `sch-virtue-ethics-aristotle` into `sch-virtue-ethics` and repoint 8 references.
+2. Merge `con-shunyata-emptiness` into `con-shunyata` and repoint 8 references.
+3. Merge `migration-displacement-school` into `sch-refugee-displacement-anthropology`.
+4. Delete/fix `thk-jdavid` and `thk-leehyungjun` (both confirmed unverifiable by WebSearch in this session; both currently already carry accurate `gaps`/`status: quarantined` notes documenting this).

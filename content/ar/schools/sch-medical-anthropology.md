@@ -18,8 +18,10 @@ edges: []
 related:
 - id: "thk-arthur-kleinman", title: "آرثر كلاينمان (Arthur Kleinman)", type: "مفكر"
 - id: "sch-kleinman-explanatory-models", title: "النماذجُ التفسيريةُ للمرض (Kleinman's Explanatory Models & Illness Narratives)", type: "مدرسة"
+- id: "thk-paul-farmer", title: "بول فارمر", type: "مفكر"
+- id: "thk-nancy-scheper-hughes", title: "نانسي شيبر-هيوز", type: "مفكر"
 gaps:
-  - "پول فارمر ونانسي شيپر-هيوز (العنف البنيوي والصحة) لم يُكتبا بعد كملفّين مستقلّين؛ سيُضافان في دفعةٍ لاحقة لإكمال حزمة القسم 9."
+  - "دُمج هنا محتوى sch-medical-anthropology-expanded (Round 3)."
 ---
 # الأنثروبولوجيا الطبّية (Medical Anthropology)
 
@@ -39,6 +41,16 @@ gaps:
 
 أسّست هذه المدرسةُ جسراً مباشراً بين الأنثروبولوجيا والطبّ السريري وعلم النفس الإكلينيكي والطبّ النفسي عبر الثقافات، وأثّرت في مفاهيمَ مثل «الكفاءة الثقافية» في الرعاية الصحية المعاصرة.
 
+## التطبيقات
+
+- دراسةُ الأمراضِ المعدية (الإيدز، السل) في السياقات المختلفة
+- دراسةُ الشفاءِ التقليديِّ والحديث
+- تحليلُ العنفِ والصدمةِ والاضطراباتِ النفسية
+- دراسةُ الصحةِ النفسية والطقوسِ الشفائية
+
 ## المصادر
 
 - Kleinman, Arthur. *Patients and Healers in the Context of Culture*. University of California Press, 1980.
+- Farmer, Paul. *Infections and Inequalities*. University of California Press, 1999.
+- Kleinman, Arthur. *The Illness Narratives*. Basic Books, 1988.
+- Lock, Margaret & Nguyen, Vinh-Kim. *An Anthropology of Biomedicine*. Blackwell, 2010.

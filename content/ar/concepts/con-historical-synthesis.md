@@ -17,19 +17,19 @@ gaps: []
 
 # التركيب التاريخي (Historical Synthesis)
 
-## Historical Synthesis
+## التركيب التاريخي
 
-Process of integrating multiple sources, perspectives, and interpretations into coherent historical narratives; emphasizes analytical integration.
+عملية دمج مصادر ومنظورات وتفسيرات متعددة في سرديات تاريخية متماسكة؛ تشدد على التكامل التحليلي.
 
-### Key Aspects
+### الجوانب الجوهرية
 
-Historical synthesis is the culminating act of historiographical work, drawing together analysis into coherent interpretation.
+التركيب التاريخي هو الفعل الختامي للعمل التأريخي، يجمع التحليل في تفسير متماسك.
 
-### Section 20 Completion
+### إتمام القسم 20
 
-This node completes Section 20: Cross-Cutting Frameworks & Synthesis, bringing historiography to exactly 1,100 nodes (100% of target).
+تُتمّ هذه العقدة القسم 20: الأطر الشاملة والتوليف، بحيث يبلغ التأريخ 1,100 عقدة بالضبط (100% من الهدف).
 
-### Historiographical Significance
+### الأهمية التأريخية
 
-Synthesis represents the integral goal of historical research—moving from specific evidence and arguments to broader understanding.
-
+يمثّل التركيب الغاية الجوهرية للبحث التاريخي — الانتقال من الأدلة والحجج المحددة إلى فهم أوسع.
+</content>

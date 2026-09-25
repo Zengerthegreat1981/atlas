@@ -17,32 +17,31 @@ gaps: ["مصادرُ محدودة — يحتاجُ لمزيدِ استقصاء"]
 
 # اكتسابُ نظمِ النغمِ عند الأطفالِ
 
-## Definition
+## التعريف
 
-Tone is phonemic pitch—meaning-distinguishing pitch contours. Mandarin: [ma] with high tone = mother, falling tone = hemp. Many African languages use tones; European languages generally don't.
+النغمة (tone) طبقة صوتية تمييزية للمعنى (phonemic pitch). ففي الماندرين: [ma] بنغمة عالية تعني "أمّ"، وبنغمة هابطة تعني "قنّب". وتستخدم لغات أفريقية كثيرة النغمات، بينما لا تستخدمها اللغات الأوروبية عموماً.
 
-## Characteristics
+## الخصائص
 
-Tone systems vary: Mandarin uses 4 lexical tones; Yoruba uses 3; some languages use 5+. Tones can be level (high, mid, low) or contour (rising, falling, dipping). Tones interact with stress and intonation.
+تتنوّع أنظمة النغم: تستخدم الماندرين أربع نغمات معجمية، واليوروبا ثلاثاً، وبعض اللغات خمساً أو أكثر. وقد تكون النغمات مستوية (عالية، متوسطة، منخفضة) أو منحنية (صاعدة، هابطة، مقعّرة). وتتفاعل النغمات مع النبر والتنغيم.
 
-## Autosegmental Analysis
+## التحليل فوق القطعي
 
-Tone occupies independent tiers in autosegmental phonology. This explains how tones spread across multiple syllables and survive segment deletion—the tone remains on the tonal tier.
+تشغل النغمة طبقات مستقلة في الصوتيات فوق القطعية (autosegmental phonology). وهذا يفسِّر كيف تنتشر النغمات عبر مقاطع متعددة وتبقى بعد حذف القطعة الصوتية، إذ تظل النغمة على طبقتها الخاصة.
 
-## Cross-linguistic Patterns
+## أنماط عبر اللغات
 
-Tone languages are roughly 70% of world's languages. Tone systems show universal constraints: rising tones more common than falling; certain tone combinations more frequent than others.
+تشكّل اللغات النغمية نحو 70% من لغات العالم. وتُظهر أنظمة النغم قيوداً كلية: فالنغمات الصاعدة أكثر شيوعاً من الهابطة؛ وبعض تركيبات النغمات أكثر تواتراً من غيرها.
 
-## Experimental Evidence
+## الأدلة التجريبية
 
-Speakers show categorical perception for tonal distinctions. Neuroimaging shows tone processing activates distinct brain regions. Learning studies show tone acquisition involves category formation.
+يُظهر المتكلمون إدراكاً تصنيفياً للفروق النغمية. ويُظهر التصوير العصبي أن معالجة النغمة تنشِّط مناطق دماغية مميزة. وتُظهر دراسات التعلّم أن اكتساب النغمة يتضمن تكوين فئات.
 
-## Contemporary Applications
+## تطبيقات معاصرة
 
-Speech synthesis requires careful tone control for intelligibility. Speech recognition systems must track tonal distinctions. Language teaching prioritizes tone training for learners from non-tonal languages.
+يتطلب التركيب الصوتي (speech synthesis) ضبطاً دقيقاً للنغمة لضمان الوضوح. ويجب على أنظمة التعرف على الكلام تتبع الفروق النغمية. ويُعطي تعليم اللغة أولوية لتدريب النغمة للدارسين من لغات غير نغمية.
 
-## References
+## المصادر
 
 - Yip, M. (2002). *Tone*. Cambridge University Press.
 - Ladd, D. R. (2008). *Intonational Phonology*. MIT Press.
-

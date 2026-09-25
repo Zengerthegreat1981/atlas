@@ -7,116 +7,117 @@ parent: counseling
 featured: true
 ---
 
-# Career Counseling
+# الإرشاد المهني
 
-Career counseling is a specialized branch of counseling focused on assisting individuals in exploring, planning, and implementing educational and occupational choices throughout the lifespan. It integrates career development theory, labor market information, skill assessment, decision-making frameworks, and personal goal-setting to support clients in achieving fulfilling, sustainable work lives.
+الإرشاد المهني فرعٌ متخصص من الإرشاد يُعنى بمساعدة الأفراد على استكشاف الخيارات التعليمية والمهنية وتخطيطها وتنفيذها طوال مراحل الحياة. ويدمج نظرية النمو المهني، ومعلومات سوق العمل، وتقييم المهارات، وأطر اتخاذ القرار، وتحديد الأهداف الشخصية، لدعم المسترشدين في تحقيق حياة عملية مُرضية ومستدامة.
 
-## Historical Roots
+## الجذور التاريخية
 
-Career counseling evolved from **vocational guidance** (Frank Parsons, 1908), which emphasized the "three-part process":
-1. Clear self-understanding (aptitudes, interests, abilities)
-2. Knowledge of work requirements and opportunities
-3. "True reasoning" about the relationship between person and job
+تطور الإرشاد المهني من **التوجيه المهني** (فرانك بارسونز Frank Parsons، 1908)، الذي شدّد على "العملية الثلاثية":
+1. فهمٌ واضح للذات (الاستعدادات والاهتمامات والقدرات)
+2. معرفة متطلبات العمل وفرصه
+3. "التفكير الصحيح" في العلاقة بين الشخص والوظيفة
 
-Modern career counseling transcends job placement to address career development as a lifelong, multidimensional process.
+ويتجاوز الإرشاد المهني الحديث مجرد التوظيف ليعالج النمو المهني بوصفه عملية متعددة الأبعاد تستمر مدى الحياة.
 
-## Major Theoretical Frameworks
+## الأطر النظرية الكبرى
 
-### 1. Trait-Factor (Person-Environment Fit)
-- **Founders:** Frank Parsons, F.H. Williamson
-- **Core idea:** Match individual characteristics (aptitudes, interests, values) to occupational requirements
-- **Modern version:** Career decision-making models using assessments
+### 1. نظرية السمات والعوامل (التوافق بين الشخص والبيئة)
+- **المؤسسان:** فرانك بارسونز، إ. هـ. وليامسون (F.H. Williamson)
+- **الفكرة الجوهرية:** مطابقة خصائص الفرد (الاستعدادات، الاهتمامات، القيم) مع متطلبات المهنة
+- **النسخة الحديثة:** نماذج اتخاذ القرار المهني باستخدام التقييمات
 
-### 2. Holland's Typology (RIASEC)
-- **Six personality types:** Realistic, Investigative, Artistic, Social, Enterprising, Conventional
-- **Occupational environments** classified by the same six types
-- **Goal:** Identify congruence between person type and job environment
-- **Assessment:** Self-Directed Search (SDS), VPI (Vocational Preference Inventory)
+### 2. نموذج هولاند النمطي (RIASEC)
+- **ستة أنماط شخصية:** الواقعي، والاستقصائي، والفني، والاجتماعي، والمغامر، والتقليدي
+- **بيئات مهنية** مصنَّفة وفق الأنماط الستة نفسها
+- **الهدف:** تحديد التوافق بين نمط الشخص وبيئة العمل
+- **أدوات التقييم:** البحث الموجَّه ذاتياً (SDS)، ومقياس التفضيل المهني (VPI)
 
-### 3. Super's Developmental Theory
-- **Career as lifelong process** across five stages: Growth (0-14), Exploration (15-24), Establishment (25-44), Maintenance (45-64), Decline (65+)
-- **Career maturity** — readiness to make age-appropriate career decisions
-- **Self-concept** evolves through occupational exploration and commitment
+### 3. نظرية سوبر التطورية
+- **المهنة عملية مستمرة مدى الحياة** عبر خمس مراحل: النمو (0-14)، الاستكشاف (15-24)، التأسيس (25-44)، الحفاظ (45-64)، التراجع (65+)
+- **النضج المهني** — الاستعداد لاتخاذ قرارات مهنية مناسبة للعمر
+- **مفهوم الذات** يتطور عبر الاستكشاف المهني والالتزام
 
-### 4. Social Learning Theory (Krumboltz & Levin)
-- **Planned happenstance:** Career development includes planned and unplanned events
-- **Learning experiences** shape interests, skills, and values
-- **Career decision-making skills** can be taught and practiced
+### 4. نظرية التعلم الاجتماعي (كرومبولتز ولڤين)
+- **المصادفة المخطَّطة:** يشمل النمو المهني أحداثاً مخطَّطة وغير مخطَّطة
+- **خبرات التعلم** تشكّل الاهتمامات والمهارات والقيم
+- **مهارات اتخاذ القرار المهني** يمكن تعلمها والتدرب عليها
 
-### 5. Cognitive Information Processing (CIP)
-- Emphasis on problem-solving and decision-making skills
-- Pyramid model: self-knowledge, occupational knowledge, decision-making skills
-- Meta-cognition: knowing how you think about career decisions
+### 5. معالجة المعلومات المعرفية (CIP)
+- التركيز على مهارات حل المشكلات واتخاذ القرار
+- نموذج هرمي: معرفة الذات، والمعرفة المهنية، ومهارات اتخاذ القرار
+- ما وراء المعرفة: معرفة كيفية تفكيرك في القرارات المهنية
 
-## Assessment Tools in Career Counseling
+## أدوات التقييم في الإرشاد المهني
 
-### Interest Inventories
-- Strong Interest Inventory (SII)
-- Career Assessment Inventory (CAI)
-- Kuder Career Search
-- O*NET Interest Profiler
+### مقاييس الاهتمام
+- مقياس الاهتمام القوي (SII)
+- مقياس التقييم المهني (CAI)
+- بحث كودر المهني (Kuder Career Search)
+- أداة استكشاف الاهتمامات O*NET
 
-### Aptitude & Ability Tests
-- ASVAB (Armed Services Vocational Aptitude Battery)
-- GATB (General Aptitude Test Battery)
-- Cognitive ability measures
-- Work sample assessments
+### اختبارات الاستعداد والقدرة
+- ASVAB (بطارية اختبار الاستعداد المهني للقوات المسلحة)
+- GATB (بطارية اختبار الاستعداد العام)
+- مقاييس القدرة المعرفية
+- تقييمات عينات العمل
 
-### Personality & Values
-- MBTI (Myers-Briggs Type Indicator) — personality type and career fit
-- Values in Action (VIA) Character Strengths
-- Occupational values surveys
+### الشخصية والقيم
+- مؤشر مايرز-بريغز للأنماط (MBTI) — نمط الشخصية وملاءمة المهنة
+- مقياس القيم في الفعل (VIA) لنقاط القوة الشخصية
+- استبانات القيم المهنية
 
-### Work Readiness & Soft Skills
-- Employability skills assessments
-- Communication competency scales
-- Resume/interview readiness evaluations
+### الاستعداد للعمل والمهارات الشخصية
+- تقييمات مهارات التوظيف
+- مقاييس كفاءة التواصل
+- تقييمات الاستعداد للسيرة الذاتية والمقابلة
 
-## Core Counseling Skills & Interventions
+## مهارات الإرشاد الجوهرية وتدخلاته
 
-- **Career exploration** — occupational information, informational interviews, job shadowing
-- **Decision-making support** — clarifying values, identifying alternatives, weighing pros/cons
-- **Goal-setting and planning** — action steps, skill-building, timeline development
-- **Life-work balance** — integrating career with family, health, leisure, community
-- **Transitions support** — career change, job loss, retirement planning
-- **Underrepresented populations** — addressing barriers for women, minorities, LGBTQ+, persons with disabilities in traditionally segregated fields
+- **الاستكشاف المهني** — المعلومات المهنية، والمقابلات الاستعلامية، ومرافقة أصحاب المهن
+- **دعم اتخاذ القرار** — توضيح القيم، وتحديد البدائل، وموازنة الإيجابيات والسلبيات
+- **تحديد الأهداف والتخطيط** — خطوات الفعل، وبناء المهارات، ووضع الجدول الزمني
+- **التوازن بين العمل والحياة** — دمج المهنة مع الأسرة والصحة والترفيه والمجتمع
+- **دعم الانتقالات** — تغيير المهنة، وفقدان الوظيفة، والتخطيط للتقاعد
+- **الفئات الممثَّلة تمثيلاً ناقصاً** — معالجة العوائق أمام النساء والأقليات ومجتمع الميم وذوي الإعاقة في المجالات المنعزلة تقليدياً
 
-## Lifespan Contexts
+## سياقات مراحل الحياة
 
-- **School-based career counseling** — career awareness and exploration (elementary), career planning (middle), career decision and preparation (high school)
-- **Higher education** — major selection, graduate school planning, internship/job placement
-- **Adult and mid-career transitions** — skill updating, occupational change, encore careers
-- **Retirement counseling** — legacy planning, post-retirement engagement
-- **Displacement and reemployment** — support for job loss, industry changes, economic transitions
+- **الإرشاد المهني المدرسي** — الوعي المهني والاستكشاف (الابتدائية)، والتخطيط المهني (المتوسطة)، والقرار المهني والإعداد (الثانوية)
+- **التعليم العالي** — اختيار التخصص، والتخطيط للدراسات العليا، والتدريب والتوظيف
+- **انتقالات البالغين ومنتصف المهنة** — تحديث المهارات، والتغيير المهني، والمهن اللاحقة
+- **إرشاد التقاعد** — تخطيط الإرث، والانخراط بعد التقاعد
+- **النزوح الوظيفي وإعادة التوظيف** — دعم فقدان الوظيفة، وتغير الصناعات، والانتقالات الاقتصادية
 
-## Related Branches
+## فروع ذات صلة
 
-- [[br-school-counseling]] — career guidance in K-12 settings
-- [[br-multicultural-counseling-expansion]] — culturally-informed career counseling addressing systemic barriers
+- [[br-school-counseling]] — التوجيه المهني في المدارس من الروضة إلى الثانوية
+- [[br-multicultural-counseling-expansion]] — إرشاد مهني واعٍ ثقافياً يعالج العوائق البنيوية
 
-## Key Figures
+## أعلام بارزون
 
-- Frank Parsons (1908) — founder of vocational guidance
-- E.G. Williamson — trait-factor approach
-- Donald Super — career development theory
-- John Holland — RIASEC model
-- John Krumboltz — social learning theory of career development
-- Gary Peterson — cognitive information processing
+- فرانك بارسونز (1908) — مؤسس التوجيه المهني
+- إ. هـ. وليامسون — مقاربة السمات والعوامل
+- دونالد سوبر (Donald Super) — نظرية النمو المهني
+- جون هولاند (John Holland) — نموذج RIASEC
+- جون كرومبولتز (John Krumboltz) — نظرية التعلم الاجتماعي للنمو المهني
+- غاري بيترسون (Gary Peterson) — معالجة المعلومات المعرفية
 
-## Primary Sources
+## المصادر
 
 1. Guindon, M.H. (Ed.). (2016). Social justice in counseling and psychology: Practical resources for training (2nd ed.). Taylor & Francis.
 2. Lent, R.W., Brown, S.D., & Hackett, G. (2002). Social cognitive career theory. In D. Brown (Ed.), Career choice and development (4th ed., pp. 255-311). Jossey-Bass.
 3. Osborn, D.S., Dikel, M.R., & Sampson, J.P. (2011). The Internet: A tool for career planning (3rd ed.). National Career Development Association.
 4. Super, D.E. (1990). A life-span, life-space approach to career development. In D. Brown, L. Brooks, & Associates, Career choice and development (2nd ed., pp. 197-261). Jossey-Bass.
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Vocational guidance
-- Occupational exploration
-- Career development
-- Work-life integration
-- Career maturity
-- Career resilience
-- RIASEC personality types
-- Labor market information
+- التوجيه المهني
+- الاستكشاف المهني
+- النمو المهني
+- التكامل بين العمل والحياة
+- النضج المهني
+- المرونة المهنية
+- أنماط الشخصية RIASEC
+- معلومات سوق العمل
+</content>

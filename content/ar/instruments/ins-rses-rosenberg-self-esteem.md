@@ -9,144 +9,144 @@ related_schools:
   - sch-behavioral-psychology
 ---
 
-# Rosenberg Self-Esteem Scale (RSES)
+# مقياس روزنبرغ لتقدير الذات (RSES)
 
-The Rosenberg Self-Esteem Scale is a 10-item self-report measure assessing global self-esteem. Developed by Morris Rosenberg in 1965, it remains one of the most widely used self-esteem instruments across research, clinical, and educational settings.
+مقياس روزنبرغ لتقدير الذات أداة من عشرة بنود ذاتية التقرير تقيس تقدير الذات العام. طوَّره موريس روزنبرغ (Morris Rosenberg) عام 1965، ويبقى من أكثر أدوات تقدير الذات استخداماً في البحث والإكلينيك والتعليم.
 
-## Development
+## التطوير
 
-**Morris Rosenberg (1965):**
-- Concerned with measuring global self-esteem in adolescents
-- Developed brief, unidimensional scale
-- Based on operationalized self-esteem as self-perception of worth
-- First administered to 5,024 high school students in New York
+**موريس روزنبرغ (1965):**
+- اهتم بقياس تقدير الذات العام لدى المراهقين
+- طوَّر مقياساً موجزاً أحادي البعد
+- بنى تقدير الذات إجرائياً بوصفه إدراك الذات لقيمتها
+- طُبِّق أول مرة على 5,024 طالب ثانوي في نيويورك
 
-**Design principles:**
-- Simple, unidimensional (not separate subscales)
-- Face-valid items (participants know what's being measured)
-- Balanced positively and negatively worded items
-- Originally developed for adolescents, validated across lifespan
+**مبادئ التصميم:**
+- بسيط وأحادي البعد (لا مقاييس فرعية منفصلة)
+- بنود ظاهرة الصدق (يعرف المشاركون ما يُقاس)
+- توازن بين بنود موجَبة وسالبة الصياغة
+- طُوِّر أصلاً للمراهقين، وتحقَّق منه عبر العمر كله
 
-## Items & Format
+## البنود والصيغة
 
-**10 items total (5 positive, 5 negative):**
+**عشرة بنود إجمالاً (5 موجَبة و5 سالبة):**
 
-| # | Item | Direction |
+| # | البند | الاتجاه |
 |---|------|-----------|
-| 1 | I feel that I am a person of worth, at least on an equal plane with others | Positive |
-| 2 | I feel that I have a number of good qualities | Positive |
-| 3 | All in all, I am inclined to think that I am a failure | Negative |
-| 4 | I am able to do things as well as most other people | Positive |
-| 5 | I feel I do not have much to be proud of | Negative |
-| 6 | I take a positive attitude toward myself | Positive |
-| 7 | On the whole, I am satisfied with myself | Positive |
-| 8 | I wish I could have more respect for myself | Negative |
-| 9 | I certainly feel useless at times | Negative |
-| 10 | At times I think I am no good at all | Negative |
+| 1 | أشعر أنني شخص ذو قيمة، على الأقل بمستوى الآخرين | موجَب |
+| 2 | أشعر أن لديّ عدداً من الصفات الحسنة | موجَب |
+| 3 | إجمالاً، أميل إلى الاعتقاد بأنني فاشل | سالب |
+| 4 | أستطيع فعل الأشياء بنفس جودة معظم الناس | موجَب |
+| 5 | أشعر أنه ليس لديّ الكثير لأفخر به | سالب |
+| 6 | أتخذ موقفاً إيجابياً تجاه نفسي | موجَب |
+| 7 | إجمالاً، أنا راضٍ عن نفسي | موجَب |
+| 8 | أتمنى لو كان لديّ احترام أكبر لنفسي | سالب |
+| 9 | أشعر بالتأكيد بأنني عديم الفائدة أحياناً | سالب |
+| 10 | أعتقد أحياناً أنني لا أصلح لشيء إطلاقاً | سالب |
 
-**Response options:**
-- 4-point Likert scale: Strongly Agree (1), Agree (2), Disagree (3), Strongly Disagree (4)
-- Some versions use 5-point or 6-point scale
-- Administration time: 1-2 minutes
+**خيارات الإجابة:**
+- سلّم ليكرت من أربع درجات: أوافق بشدة (1)، أوافق (2)، لا أوافق (3)، لا أوافق بشدة (4)
+- تستخدم بعض النسخ سلماً من 5 أو 6 درجات
+- زمن التطبيق: دقيقة إلى دقيقتين
 
-## Scoring
+## التصحيح
 
-**Standard scoring:**
-- Reverse-code negative items (3, 5, 8, 9, 10): 4→1, 3→2, 2→3, 1→4
-- Sum all 10 items
-- Range: 10-40
-  - 30-40: High self-esteem
-  - 15-25: Low self-esteem
-  - 25-30: Medium self-esteem
+**التصحيح المعياري:**
+- عكس ترميز البنود السالبة (3، 5، 8، 9، 10): 4←1، 3←2، 2←3، 1←4
+- جمع كل البنود العشرة
+- المدى: 10-40
+  - 30-40: تقدير ذات مرتفع
+  - 15-25: تقدير ذات منخفض
+  - 25-30: تقدير ذات متوسط
 
-**Alternative scoring:**
-- Some researchers use dichotomous (Agree/Disagree) scoring for simplicity
-- Rasch item-response scaling for advanced analysis
-- Factor-weighted models when two underlying factors detected
+**تصحيح بديل:**
+- يستخدم بعض الباحثين تصحيحاً ثنائياً (موافق/غير موافق) للتبسيط
+- مقياس راش (Rasch) للتحليل المتقدم
+- نماذج موزونة عاملياً عند رصد عاملين كامنين
 
-## Psychometric Properties
+## الخصائص السيكومترية
 
-**Reliability:**
-- Internal consistency (Cronbach's α): 0.77-0.88 across samples
-- Test-retest reliability (1-2 weeks): r = 0.82-0.85
-- Stability over months/years: adequate for most purposes
+**الثبات:**
+- الاتساق الداخلي (ألفا كرونباخ): 0.77-0.88 عبر العيّنات
+- ثبات إعادة الاختبار (1-2 أسبوع): ر = 0.82-0.85
+- استقرار عبر الشهور/السنوات: كافٍ لمعظم الأغراض
 
-**Validity:**
-- Convergent validity: correlates with other self-esteem measures (r = 0.60-0.85)
-- Discriminant validity: distinguished from neuroticism, depression
-- Criterion validity: predicts depression, anxiety, adjustment outcomes
-- Cross-cultural: validated in 53+ countries
+**الصدق:**
+- الصدق التقاربي: يرتبط بمقاييس تقدير ذات أخرى (ر = 0.60-0.85)
+- الصدق التمييزي: يتمايز عن العصابية والاكتئاب
+- صدق المحك: يتنبأ بالاكتئاب والقلق ونتائج التكيف
+- عبر الثقافات: مُتحقَّق منه في أكثر من 53 بلداً
 
-**Dimensionality debate:**
-- Originally unidimensional
-- Some studies suggest two factors: (1) positive self-regard, (2) lack of negative self-regard
-- Most analyses support single underlying construct
+**جدل البُعدية:**
+- أحادي البعد أصلاً
+- تشير بعض الدراسات إلى عاملين: (1) الاعتبار الذاتي الإيجابي، (2) غياب الاعتبار الذاتي السلبي
+- تدعم معظم التحليلات بنية كامنة واحدة
 
-## Clinical & Research Use
+## الاستخدام الإكلينيكي والبحثي
 
-**Common applications:**
-- Depression and anxiety assessment (low self-esteem predictor/symptom)
-- Self-concept interventions (pre/post-test)
-- Psychotherapy outcome measurement
-- Adolescent mental health screening
-- Self-esteem development tracking in education
+**تطبيقات شائعة:**
+- تقييم الاكتئاب والقلق (تقدير الذات المنخفض مؤشر/عرض)
+- تدخلات مفهوم الذات (قبل/بعد الاختبار)
+- قياس نتائج العلاج النفسي
+- فحص الصحة النفسية للمراهقين
+- متابعة نمو تقدير الذات في التعليم
 
-**Group differences observed:**
-- Typically lower in adolescence (dips ages 14-18, recovery afterward)
-- Gender: minimal differences in Western samples; some differences in other cultures
-- Mental health: substantially lower in depression, borderline personality, eating disorders
-- Ethnicity: some variations, though scale works across groups
-- Age: moderate decline in older adulthood
+**فروق جماعية مُلاحَظة:**
+- منخفض عادة في المراهقة (ينخفض بين 14-18 سنة، ويتعافى بعدها)
+- الجنس: فروق طفيفة في العيّنات الغربية؛ وبعض الفروق في ثقافات أخرى
+- الصحة النفسية: أقل بكثير في الاكتئاب واضطراب الشخصية الحدّي واضطرابات الأكل
+- العرق: بعض التفاوت، وإن كان المقياس يعمل عبر الجماعات
+- العمر: انخفاض معتدل في الشيخوخة
 
-## Strengths
+## نقاط القوة
 
-- **Brevity:** 10 items completed in under 2 minutes
-- **Simplicity:** easy to administer and score manually
-- **Validity:** extensive research support across populations
-- **Accessibility:** free (public domain), no licensing required
-- **Cross-cultural:** validated in many languages and cultures
-- **Face-valid:** transparent purpose reduces response bias when genuine responding needed
+- **الإيجاز:** عشرة بنود تُنجَز في أقل من دقيقتين
+- **البساطة:** سهل التطبيق والتصحيح يدوياً
+- **الصدق:** دعم بحثي واسع عبر الفئات
+- **سهولة الوصول:** مجاني (ملك عام)، بلا ترخيص
+- **عبر الثقافات:** مُتحقَّق منه بلغات وثقافات عديدة
+- **ظاهر الصدق:** الشفافية في الغرض تقلل التحيز حين يلزم رد صادق
 
-## Limitations
+## القيود
 
-- **Social desirability bias:** transparent positive/negative items invite defensive responding
-- **Single dimension:** misses facets of self-esteem (competence, social acceptance, appearance)
-- **Binary thinking:** Likert scale may oversimplify self-esteem variability
-- **Adolescent origins:** some items resonate more with youth than adults
-- **Ceiling effects:** high self-esteem individuals often score at top end
-- **Stability question:** self-esteem state vs. trait unclear; may reflect current mood
+- **تحيز المرغوبية الاجتماعية:** البنود الشفافة الموجَبة/السالبة تدعو إلى ردود دفاعية
+- **بُعد واحد:** يفوّت أوجه تقدير الذات (الكفاءة، القبول الاجتماعي، المظهر)
+- **التفكير الثنائي:** قد يبسِّط سلّم ليكرت تباين تقدير الذات
+- **أصول مراهقة:** تتردد بعض البنود لدى الشباب أكثر من البالغين
+- **أثر السقف:** كثيراً ما يسجل ذوو تقدير الذات المرتفع في الطرف الأعلى
+- **مسألة الاستقرار:** غموض كون تقدير الذات حالة أم سمة؛ قد يعكس المزاج الحالي
 
-## Variations & Adaptations
+## الصيغ والتكييفات
 
-**Modified versions:**
-- RSES-Short: 4-item version for time-limited contexts
-- RSES-Unidimensional: some items removed to address two-factor finding
-- RSES translated: 53+ language versions with varying psychometric properties
-- RSES-Face valid: items slightly reworded for children (8-12 years)
+**نسخ معدَّلة:**
+- RSES-موجز: نسخة من 4 بنود للسياقات محدودة الوقت
+- RSES أحادي البعد: حُذفت بعض البنود لمعالجة نتيجة العاملين
+- RSES مترجَم: نسخ بأكثر من 53 لغة بخصائص سيكومترية متفاوتة
+- RSES ظاهر الصدق للأطفال: بنود مُعاد صياغتها قليلاً (8-12 سنة)
 
-**Related instruments addressing limitations:**
-- Coopersmith Self-Esteem Inventory (more dimensional)
-- Culture-specific self-esteem scales
-- Implicit self-esteem measures (to address social desirability)
+**أدوات ذات صلة تعالج القيود:**
+- قائمة كوبرسميث لتقدير الذات (أكثر بُعدية)
+- مقاييس تقدير ذات خاصة بالثقافة
+- مقاييس تقدير الذات الضمني (لمعالجة المرغوبية الاجتماعية)
 
-## Interpretation in Context
+## التفسير في السياق
 
-**Important clinical notes:**
-- Low RSES score alone insufficient for diagnosis (depression, anxiety, personality disorder all show low scores)
-- Change over time often more meaningful than absolute score
-- Must integrate with clinical interview and symptom assessment
-- In some disorders (e.g., narcissism), high RSES may not reflect reality
+**ملاحظات إكلينيكية مهمة:**
+- درجة RSES المنخفضة وحدها غير كافية للتشخيص (يُظهر الاكتئاب والقلق واضطراب الشخصية جميعاً درجات منخفضة)
+- التغير مع الوقت غالباً أكثر دلالة من الدرجة المطلقة
+- يجب دمجها مع مقابلة إكلينيكية وتقييم الأعراض
+- في بعض الاضطرابات (كالنرجسية)، قد لا تعكس RSES المرتفعة الواقع
 
-## Integration with Other Assessment
+## التكامل مع تقييمات أخرى
 
-**Often used alongside:**
-- Beck Depression Inventory (correlates r ≈ -0.72)
-- State-Trait Anxiety Inventory
-- Satisfaction with Life Scale (SWLS)
-- Clinical interviews and mental status exam
-- Self-concept multidimensional measures when needed
+**كثيراً ما تُستخدم إلى جانب:**
+- قائمة بيك للاكتئاب (ارتباط ر ≈ -0.72)
+- قائمة قلق الحالة والسمة
+- مقياس الرضا عن الحياة (SWLS)
+- المقابلات الإكلينيكية وفحص الحالة النفسية
+- مقاييس مفهوم الذات متعددة الأبعاد عند الحاجة
 
-## Primary Sources
+## المصادر الأولية
 
 1. Rosenberg, M. (1965). Society and the adolescent self-image. Princeton University Press.
 2. Rosenberg, M. (1979). Conceiving the self. Basic Books.
@@ -154,11 +154,11 @@ The Rosenberg Self-Esteem Scale is a 10-item self-report measure assessing globa
 4. Blascovich, J., & Tomaka, J. (1991). Measures of self-esteem. In J.P. Robinson, P.R. Shaver, & L.S. Wrightsman (Eds.), Measures of personality and social psychological attitudes (Vol. 1, pp. 115-160). Academic Press.
 5. Schmitt, D.P., & Allik, J. (2005). Simultaneous administration of the Rosenberg Self-Esteem Scale in 53 nations: Exploring the universal and culture-specific features of global self-esteem. Journal of Personality and Social Psychology, 89(4), 623-642.
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Self-concept
-- Self-worth
-- Global self-esteem
-- Identity development
-- Self-perception
-- Psychological adjustment
+- مفهوم الذات
+- قيمة الذات
+- تقدير الذات العام
+- تطور الهوية
+- إدراك الذات
+- التكيف النفسي

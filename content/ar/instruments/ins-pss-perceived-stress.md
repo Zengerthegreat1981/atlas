@@ -9,164 +9,164 @@ related_schools:
   - sch-cognitive-behavioral-therapy
 ---
 
-# Perceived Stress Scale (PSS)
+# مقياس الضغط المُدرَك (PSS)
 
-The Perceived Stress Scale is a 10-item measure assessing the degree to which situations in life are appraised as stressful. Developed by Sheldon Cohen in 1983, the PSS captures how overwhelmed, unpredictable, and uncontrollable people perceive their lives to be—reflecting stress appraisal rather than objective stressor counts.
+مقياس الضغط المُدرَك أداة من عشرة بنود تقيس مدى تقييم الفرد لمواقف الحياة بوصفها ضاغطة. طوَّره شيلدون كوهين (Sheldon Cohen) عام 1983، ويرصد PSS مدى شعور الناس بالإرهاق وعدم القدرة على التنبؤ وفقدان السيطرة على حياتهم، أي أنه يعكس تقييم الضغط لا عدّ الضاغطات الموضوعي.
 
-## Development
+## التطوير
 
-**Sheldon Cohen & colleagues (1983):**
-- Developed after recognizing need for stress appraisal measure
-- Previous stress inventories listed life events (objective stressors)
-- Cohen noted people react differently to same stressors
-- PSS measures *perception* of stress—the appraised demand/coping imbalance
+**شيلدون كوهين وزملاؤه (1983):**
+- طُوِّر بعد إدراك الحاجة إلى مقياس لتقييم الضغط
+- كانت قوائم الضغط السابقة تسرد أحداث الحياة (ضاغطات موضوعية)
+- لاحظ كوهين أن الناس يتفاعلون بطرق مختلفة مع الضاغطات ذاتها
+- يقيس PSS *إدراك* الضغط، أي عدم التوازن المُقيَّم بين المطلب والتكيف
 
-**Theoretical basis:**
-- Stress as perception: impact depends on appraisal, not event frequency
-- Cognitive appraisal theory: stress occurs when demands exceed perceived ability to cope
-- Originally validated on college students; expanded to community samples
-- 10-item version most common (also 4-item, 14-item variants exist)
+**الأساس النظري:**
+- الضغط بوصفه إدراكاً: يتوقف الأثر على التقييم لا تواتر الحدث
+- نظرية التقييم المعرفي: يحدث الضغط حين تفوق المطالب القدرة المُدرَكة على التكيف
+- تحقَّق منه أصلاً على طلاب جامعيين؛ وتوسَّع إلى عيّنات مجتمعية
+- النسخة من 10 بنود الأكثر شيوعاً (توجد أيضاً نسخ من 4 و14 بنداً)
 
-## Items & Format
+## البنود والصيغة
 
-**10 items (assessing feelings & thoughts in past month):**
+**10 بنود (تقيس المشاعر والأفكار في الشهر الماضي):**
 
-| # | Item | Category |
+| # | البند | الفئة |
 |---|------|----------|
-| 1 | In the last month, how often have you been upset because of something that happened unexpectedly? | Unpredictability |
-| 2 | In the last month, how often have you felt unable to control the important things in your life? | Lack of Control |
-| 3 | In the last month, how often have you felt nervous and stressed? | Stress/Anxiety |
-| 4 | In the last month, how often have you dealt successfully with day-to-day problems and hassles? | Coping (reversed) |
-| 5 | In the last month, how often have you felt that you were unable to cope with all the things you had to do? | Overwhelm |
-| 6 | In the last month, how often have you been able to control irritations in your life? | Control (reversed) |
-| 7 | In the last month, how often have you felt that things were going your way? | Mastery (reversed) |
-| 8 | In the last month, how often have you found that you could not cope with all the things you had to do? | Overwhelm |
-| 9 | In the last month, how often have you been able to control the way you spend your time? | Control (reversed) |
-| 10 | In the last month, how often have you felt difficulties were piling up so fast you could not deal with them? | Overwhelm |
+| 1 | في الشهر الماضي، كم مرة انزعجت بسبب أمر حدث بشكل غير متوقع؟ | عدم القدرة على التنبؤ |
+| 2 | في الشهر الماضي، كم مرة شعرت بعدم القدرة على ضبط الأمور المهمة في حياتك؟ | فقدان السيطرة |
+| 3 | في الشهر الماضي، كم مرة شعرت بالعصبية والضغط؟ | ضغط/قلق |
+| 4 | في الشهر الماضي، كم مرة تعاملت بنجاح مع مشكلات ومضايقات يومية؟ | تكيف (معكوس) |
+| 5 | في الشهر الماضي، كم مرة شعرت بعدم القدرة على التعامل مع كل ما كان عليك فعله؟ | إرهاق |
+| 6 | في الشهر الماضي، كم مرة استطعت ضبط الانزعاجات في حياتك؟ | سيطرة (معكوس) |
+| 7 | في الشهر الماضي، كم مرة شعرت أن الأمور تسير في صالحك؟ | تحكّم (معكوس) |
+| 8 | في الشهر الماضي، كم مرة وجدت أنك لا تستطيع التعامل مع كل ما كان عليك فعله؟ | إرهاق |
+| 9 | في الشهر الماضي، كم مرة استطعت ضبط طريقة قضاء وقتك؟ | سيطرة (معكوس) |
+| 10 | في الشهر الماضي، كم مرة شعرت أن الصعوبات تتراكم بسرعة تفوق قدرتك على التعامل معها؟ | إرهاق |
 
-**Response options:**
-- 5-point Likert scale: Never (0), Almost Never (1), Sometimes (2), Fairly Often (3), Very Often (4)
-- Time frame: Retrospective past month
-- Administration time: 2-3 minutes
-- Interview or self-report format possible
+**خيارات الإجابة:**
+- سلّم ليكرت من 5 درجات: أبداً (0)، نادراً جداً (1)، أحياناً (2)، غالباً (3)، كثيراً جداً (4)
+- الإطار الزمني: الشهر الماضي استرجاعياً
+- زمن التطبيق: 2-3 دقائق
+- يمكن تطبيقه بمقابلة أو تقرير ذاتي
 
-## Scoring
+## التصحيح
 
-**Standard PSS-10 scoring:**
-- Items 4, 6, 7, 9 are reverse-scored: 0→4, 1→3, 2→2, 3→1, 4→0
-- Sum all 10 items
-- Range: 0-40 (higher = more perceived stress)
+**تصحيح PSS-10 المعياري:**
+- تُعكس البنود 4، 6، 7، 9: 0←4، 1←3، 2←2، 3←1، 4←0
+- جمع كل البنود العشرة
+- المدى: 0-40 (الأعلى = ضغط مُدرَك أكثر)
 
-**Interpretation:**
-- 0-13: Low stress
-- 14-26: Moderate stress
-- 27-40: High perceived stress
+**التفسير:**
+- 0-13: ضغط منخفض
+- 14-26: ضغط متوسط
+- 27-40: ضغط مُدرَك مرتفع
 
-**Alternative scoring:**
-- PSS-14 variant: 14 items with more nuance
-- PSS-4 variant: briefer for rapid screening (items 2, 5, 8, 10)
-- Means/percentiles by age/gender available in normative data
+**تصحيح بديل:**
+- نسخة PSS-14: 14 بنداً بدقة أكبر
+- نسخة PSS-4: أوجز للفحص السريع (البنود 2، 5، 8، 10)
+- متوسطات/مئينات حسب العمر/الجنس متاحة في بيانات معيارية
 
-**Dimensional scoring (two factors observed):**
-- Factor 1: Perceived Helplessness (items 1, 2, 3, 8, 10)
-- Factor 2: Perceived Efficacy (items 4, 6, 7, 9—reversed items)
+**التصحيح البُعدي (عاملان مُلاحَظان):**
+- العامل 1: العجز المُدرَك (البنود 1، 2، 3، 8، 10)
+- العامل 2: الفاعلية المُدرَكة (البنود 4، 6، 7، 9 المعكوسة)
 
-## Psychometric Properties
+## الخصائص السيكومترية
 
-**Reliability:**
-- Internal consistency (Cronbach's α): 0.84-0.86 in most samples
-- Test-retest reliability (2-3 days): r = 0.85
-- 2-week test-retest: r = 0.55 (moderate; reflects state nature of stress appraisal)
+**الثبات:**
+- الاتساق الداخلي (ألفا كرونباخ): 0.84-0.86 في معظم العيّنات
+- ثبات إعادة الاختبار (2-3 أيام): ر = 0.85
+- إعادة اختبار بعد أسبوعين: ر = 0.55 (متوسط؛ يعكس الطابع الحالي لتقييم الضغط)
 
-**Validity:**
-- Convergent validity: correlates with depression (r ≈ 0.61), anxiety (r ≈ 0.58)
-- Discriminant validity: distinguishes from neuroticism, life events count
-- Criterion validity: predicts health outcomes, healthcare utilization, depression relapse
-- Cross-cultural: validated in 30+ countries/languages
+**الصدق:**
+- الصدق التقاربي: يرتبط بالاكتئاب (ر ≈ 0.61) والقلق (ر ≈ 0.58)
+- الصدق التمييزي: يتمايز عن العصابية وعدد أحداث الحياة
+- صدق المحك: يتنبأ بنتائج صحية واستخدام الرعاية الصحية وانتكاس الاكتئاب
+- عبر الثقافات: مُتحقَّق منه في أكثر من 30 بلداً/لغة
 
-**Sensitivity:**
-- Responsive to stress interventions (therapy, stress management, life changes)
-- Sensitive to acute stress and chronic stress perception
-- Detects changes following major life events
+**الحساسية:**
+- يستجيب لتدخلات الضغط (العلاج، إدارة الضغط، تغيرات الحياة)
+- حساس للضغط الحاد وإدراك الضغط المزمن
+- يكشف التغيرات بعد أحداث حياة كبرى
 
-## Clinical & Research Applications
+## التطبيقات الإكلينيكية والبحثية
 
-**Common uses:**
-- Mental health screening (depression, anxiety risk)
-- Pre/post-intervention measurement
-- Research on stress and health outcomes
-- Occupational/workplace stress assessment
-- Primary care health risk screening
-- Longitudinal wellness tracking
+**استخدامات شائعة:**
+- فحص الصحة النفسية (خطر الاكتئاب والقلق)
+- قياس ما قبل/بعد التدخل
+- بحث حول الضغط والنتائج الصحية
+- تقييم ضغط العمل/مكان العمل
+- فحص المخاطر الصحية في الرعاية الأولية
+- متابعة الرفاه الطولية
 
-**Predictive associations:**
-- Higher PSS predicts increased depression, anxiety onset
-- Associated with immune suppression, inflammation markers
-- Predicts healthcare costs and utilization
-- Correlates with cardiovascular disease risk
-- Predicts burnout in healthcare workers and students
+**ارتباطات تنبؤية:**
+- ارتفاع PSS يتنبأ بزيادة بدء الاكتئاب والقلق
+- مرتبط بكبت المناعة ومؤشرات الالتهاب
+- يتنبأ بتكاليف الرعاية الصحية واستخدامها
+- يرتبط بخطر أمراض القلب والأوعية الدموية
+- يتنبأ بالاحتراق النفسي لدى العاملين الصحيين والطلاب
 
-**Population norms:**
-- College students: M = 13-15
-- Adults (general): M = 13-14
-- Clinical populations: M = 20-25+
-- Increases with age until retirement, then decreases
+**معايير سكانية:**
+- الطلاب الجامعيون: م = 13-15
+- البالغون (عموماً): م = 13-14
+- الفئات الإكلينيكية: م = 20-25+
+- يرتفع مع العمر حتى التقاعد ثم ينخفض
 
-## Strengths
+## نقاط القوة
 
-- **Psychologically grounded:** measures stress appraisal (coping theory) not just events
-- **Brevity:** 10 items, 2-3 minutes to complete
-- **Simplicity:** no complex scoring, transparent items
-- **Strong psychometrics:** extensive research support, established reliability/validity
-- **Cross-cultural:** validated in diverse populations and languages
-- **Clinically useful:** changes with intervention, predicts outcomes
-- **Free:** public domain, no licensing fees
-- **Accessibility:** straightforward language, minimal literacy demands
+- **أساس نفسي:** يقيس تقييم الضغط (نظرية التكيف) لا الأحداث فقط
+- **الإيجاز:** 10 بنود، 2-3 دقائق للإنجاز
+- **البساطة:** بلا تصحيح معقد، وبنود شفافة
+- **خصائص سيكومترية قوية:** دعم بحثي واسع وثبات/صدق راسخان
+- **عبر الثقافات:** مُتحقَّق منه في فئات ولغات متنوعة
+- **مفيد إكلينيكياً:** يتغير مع التدخل، ويتنبأ بالنتائج
+- **مجاني:** ملك عام، بلا رسوم ترخيص
+- **سهولة الوصول:** لغة مباشرة ومتطلبات قراءة محدودة
 
-## Limitations
+## القيود
 
-- **Retrospective bias:** month-long recall subject to forgetting/bias
-- **Self-report only:** subject to social desirability and mood-state effects
-- **State vs. trait:** captures recent stress perception; may reflect transient mood
-- **Universality question:** cultural differences in stress appraisal not fully addressed
-- **Ceiling/floor effects:** some clustering at high scores in clinical populations
-- **Limited construct breadth:** captures general overwhelm/control; misses specific stressor types
-- **Mood confounding:** depression/anxiety may inflate scores beyond pure stress perception
+- **تحيز الاسترجاع:** استذكار شهر كامل عرضة للنسيان/التحيز
+- **تقرير ذاتي فقط:** عرضة للمرغوبية الاجتماعية وأثر الحالة المزاجية
+- **حالة مقابل سمة:** يرصد إدراك الضغط الأخير؛ وقد يعكس مزاجاً عابراً
+- **مسألة الكلية:** التفاوت الثقافي في تقييم الضغط لم يُعالَج كاملاً
+- **أثر السقف/الأرضية:** بعض التكتل عند الدرجات المرتفعة في الفئات الإكلينيكية
+- **اتساع بنيوي محدود:** يرصد الإرهاق/السيطرة العامين؛ ويفوّت أنواع ضاغطات محددة
+- **تداخل المزاج:** قد يضخِّم الاكتئاب/القلق الدرجات متجاوزاً إدراك الضغط الخالص
 
-## Variations & Adaptations
+## الصيغ والتكييفات
 
-**Related versions:**
-- PSS-4: ultra-brief version (4 items) for rapid screening
-- PSS-14: expanded 14-item version with more specificity
-- Young children adaptations: simplified language
-- Perceived Stress Scale for Parents (PSSP): adapted for parenting stress
-- Occupational variants: workplace-specific stress appraisal
+**نسخ ذات صلة:**
+- PSS-4: نسخة فائقة الإيجاز (4 بنود) للفحص السريع
+- PSS-14: نسخة موسَّعة من 14 بنداً بدقة أكبر
+- تكييفات للأطفال الصغار: لغة مبسَّطة
+- مقياس الضغط المُدرَك للوالدين (PSSP): مُكيَّف لضغط الوالدية
+- نسخ مهنية: تقييم ضغط خاص بمكان العمل
 
-**Distinguishing from related measures:**
-- PSS (perception) vs. Life Events Checklist (objective stressors)
-- PSS vs. Daily Hassles Scale (frequency of minor stressors)
-- PSS vs. Stress Management Questionnaire (coping strategies specifically)
+**التمييز عن مقاييس ذات صلة:**
+- PSS (الإدراك) مقابل قائمة أحداث الحياة (ضاغطات موضوعية)
+- PSS مقابل مقياس المضايقات اليومية (تواتر ضاغطات صغيرة)
+- PSS مقابل استبيان إدارة الضغط (استراتيجيات التكيف تحديداً)
 
-## Clinical Interpretation
+## التفسير الإكلينيكي
 
-**Important notes:**
-- Score reflects *appraisal*, not objective stressor exposure
-- Two people with same life events may have very different PSS scores
-- High PSS not diagnostic of disorder alone; indicates elevated risk or symptom
-- Useful for motivating lifestyle/stress management intervention
-- Changes in PSS meaningful marker of intervention benefit
+**ملاحظات مهمة:**
+- تعكس الدرجة *التقييم* لا التعرض الموضوعي للضاغط
+- قد يكون لشخصين بنفس أحداث الحياة درجتا PSS مختلفتان جداً
+- الدرجة المرتفعة وحدها ليست تشخيصية لاضطراب؛ بل تشير إلى خطر مرتفع أو عرض
+- مفيدة لتحفيز تدخل في نمط الحياة/إدارة الضغط
+- التغيرات في PSS مؤشر دال على فائدة التدخل
 
-## Integration with Comprehensive Assessment
+## التكامل مع تقييم شامل
 
-**Often paired with:**
-- Beck Depression Inventory (BDI) or PHQ-9
-- Generalized Anxiety Disorder Scale (GAD-7)
-- Life Events Checklist (contextual stressors)
-- Coping inventory (how person manages stress)
-- Health risk assessment, sleep quality measures
-- Cortisol or inflammatory markers (biological validation)
+**كثيراً ما تُقرن بـ:**
+- قائمة بيك للاكتئاب (BDI) أو PHQ-9
+- مقياس اضطراب القلق العام (GAD-7)
+- قائمة أحداث الحياة (ضاغطات سياقية)
+- قائمة التكيف (كيف يدير الشخص الضغط)
+- تقييم المخاطر الصحية ومقاييس جودة النوم
+- مؤشرات الكورتيزول أو الالتهاب (تحقق بيولوجي)
 
-## Primary Sources
+## المصادر الأولية
 
 1. Cohen, S., Kamarck, T., & Mermelstein, R. (1983). A global measure of perceived stress. Journal of Health and Social Behavior, 24(4), 385-396.
 2. Cohen, S., & Williamson, G. (1988). Perceived stress in a probability sample of the United States. In S. Spacapan & S. Oskamp (Eds.), The social psychology of health (pp. 31-67). Sage.
@@ -174,12 +174,12 @@ The Perceived Stress Scale is a 10-item measure assessing the degree to which si
 4. Roberti, J.W. (2004). A review of behavioral and biological correlates of sensation seeking. Journal of Research in Personality, 38(3), 256-279.
 5. Mimura, C., & Griffiths, P. (2008). A Japanese version of the Perceived Stress Scale: Cross-cultural and linguistic validation. BMC Psychiatry, 8, 51.
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Stress appraisal
-- Coping mechanisms
-- Perceived control
-- Psychological vulnerability
-- Stress response
-- Adaptation and adjustment
-- Health-stress relationships
+- تقييم الضغط
+- آليات التكيف
+- السيطرة المُدرَكة
+- الهشاشة النفسية
+- استجابة الضغط
+- التكيف والتأقلم
+- علاقات الصحة بالضغط

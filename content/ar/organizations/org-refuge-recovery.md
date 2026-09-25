@@ -8,121 +8,121 @@ parent: mutual-aid, alternatives-to-twelve-step
 
 # Refuge Recovery
 
-Refuge Recovery is a secular, Buddhist-informed mutual-aid program for addiction recovery emphasizing compassion, mindfulness, and addressing root causes of addiction. Founded in 2000, it offers a non-theistic, non-disease-model alternative grounded in Buddhist principles and neuroscience.
+Refuge Recovery برنامج تعاضد علماني مستوحى من البوذية للتعافي من الإدمان، يشدد على الرحمة واليقظة الذهنية ومعالجة الأسباب الجذرية للإدمان. تأسس عام 2000، ويقدِّم بديلاً غير إلهي وغير قائم على نموذج المرض، متجذراً في المبادئ البوذية وعلم الأعصاب.
 
-## Overview
+## لمحة عامة
 
-- **Founded:** 2000 by Noah Levine (Buddhist teacher in recovery)
-- **Members:** 30,000+ globally
-- **Philosophy:** Suffering from addiction can be relieved through understanding root causes and practicing compassion
-- **Spirituality:** Buddhist-informed but explicitly non-religious; secular
+- **التأسيس:** 2000 على يد نوح ليفين (Noah Levine)، معلّم بوذي متعافٍ
+- **الأعضاء:** أكثر من 30,000 حول العالم
+- **الفلسفة:** يمكن تخفيف معاناة الإدمان بفهم أسبابه الجذرية وممارسة الرحمة
+- **الروحانية:** مستوحاة من البوذية لكنها غير دينية صراحة؛ علمانية
 
-## Core Philosophy
+## الفلسفة الأساسية
 
-**Four Refuges (Buddhist adaptation):**
-1. **Refuge in the self:** personal agency and responsibility
-2. **Refuge in awareness:** mindfulness and meditation
-3. **Refuge in community:** peer support
-4. **Refuge in practices:** tools for change (meditation, journaling, service)
+**الملاذات الأربعة (تكييف بوذي):**
+1. **الملاذ في الذات:** الفاعلية والمسؤولية الشخصية
+2. **الملاذ في الوعي:** اليقظة الذهنية والتأمل
+3. **الملاذ في المجتمع:** دعم الأقران
+4. **الملاذ في الممارسات:** أدوات التغيير (التأمل، تدوين اليوميات، الخدمة)
 
-**Root cause framework:**
-- Addiction rooted in pain, trauma, emptiness
-- Using substances to escape or soothe suffering
-- Recovery: addressing suffering directly through mindfulness and compassion
-- Not disease model but understandable response to pain
+**إطار السبب الجذري:**
+- يتجذر الإدمان في الألم والصدمة والفراغ
+- استخدام المواد للهروب من المعاناة أو تهدئتها
+- التعافي: معالجة المعاناة مباشرة عبر اليقظة الذهنية والرحمة
+- ليس نموذج مرض بل استجابة مفهومة للألم
 
-## Key Components
+## المكوّنات الأساسية
 
-### Meditation & Mindfulness
-- Daily meditation practice: observing thoughts and urges without acting
-- Awareness of triggers and emotions
-- Building capacity to sit with discomfort without using
+### التأمل واليقظة الذهنية
+- ممارسة تأمل يومية: مراقبة الأفكار والرغبات دون التصرف بموجبها
+- الوعي بالمحفزات والمشاعر
+- بناء القدرة على الجلوس مع الانزعاج دون تعاطي
 
-### Self-Inquiry & Journaling
-- Understanding personal patterns and root causes
-- Exploring trauma, beliefs about self
-- Writing to process emotions and insights
+### التأمل الذاتي وتدوين اليوميات
+- فهم الأنماط الشخصية والأسباب الجذرية
+- استكشاف الصدمة والمعتقدات عن الذات
+- الكتابة لمعالجة المشاعر والاستبصارات
 
-### Community Meetings
-- Peer support: connection with others in recovery
-- No sponsor system; mutual aid
-- No steps; guided by principles
-- Emphasis on compassion (toward self and others)
+### اجتماعات المجتمع
+- دعم الأقران: التواصل مع آخرين في التعافي
+- لا نظام رعاية؛ تعاضد متبادل
+- لا خطوات؛ توجَّه بالمبادئ
+- التشديد على الرحمة (تجاه الذات والآخرين)
 
-### Service & Contribution
-- Helping others in recovery
-- Part of healing: from self-focused using to community-focused service
-- Teaching meditation or facilitating meetings
+### الخدمة والإسهام
+- مساعدة آخرين في التعافي
+- جزء من الشفاء: من التعاطي المركِّز على الذات إلى الخدمة المركِّزة على المجتمع
+- تعليم التأمل أو تيسير الاجتماعات
 
-## Mechanisms of Change
+## آليات التغيير
 
-- **Mindfulness:** observing urges without judgment; choosing not to act
-- **Compassion:** toward self (reducing shame) and others (building connection)
-- **Understanding root causes:** addressing trauma and pain driving use
-- **Community:** belonging reduces isolation and supports change
+- **اليقظة الذهنية:** مراقبة الرغبات دون حكم؛ واختيار عدم التصرف بموجبها
+- **الرحمة:** تجاه الذات (تقليل العار) والآخرين (بناء الاتصال)
+- **فهم الأسباب الجذرية:** معالجة الصدمة والألم الدافعين للتعاطي
+- **المجتمع:** الانتماء يقلل العزلة ويدعم التغيير
 
-## Spiritual Dimension (Non-Religious)
+## البُعد الروحاني (غير الديني)
 
-- No God/Higher Power concept required
-- Buddhist philosophy of suffering and liberation
-- Secular interpretation acceptable: meaning-making, values clarification
-- Transcendent experience through meditation
+- لا حاجة لمفهوم الله/القوة العليا
+- فلسفة بوذية للمعاناة والتحرر
+- التفسير العلماني مقبول: صنع المعنى وتوضيح القيم
+- تجربة متعالية عبر التأمل
 
-## Comparison to Other Programs
+## المقارنة ببرامج أخرى
 
-| Aspect | Refuge | AA/NA | SMART |
+| الجانب | Refuge | AA/NA | SMART |
 |---|---|---|---|
-| Spirituality | Buddhist; secular ok | Higher Power | None |
-| Mechanism | Compassion, mindfulness | Surrender, steps | Cognitive-behavioral |
-| Root cause | Suffering/pain | Disease/addiction | Learned behavior |
-| Duration | Ongoing practice | Lifelong affiliation | Time-limited |
+| الروحانية | بوذية؛ العلمانية مقبولة | قوة عليا | لا شيء |
+| الآلية | رحمة، يقظة ذهنية | استسلام، خطوات | معرفي سلوكي |
+| السبب الجذري | المعاناة/الألم | المرض/الإدمان | سلوك مكتسب |
+| المدة | ممارسة مستمرة | انتماء مدى الحياة | محدودة الزمن |
 
-## Evidence Base
+## قاعدة الأدلة
 
-- Growing research on meditation and addiction recovery
-- Mindfulness-based relapse prevention (MBRP) showing effectiveness
-- Neuroscience support for meditation effects on impulse control, emotional regulation
-- Limited comparative studies; peer-reported benefits significant
+- بحث متنامٍ حول التأمل والتعافي من الإدمان
+- الوقاية من الانتكاس القائمة على اليقظة الذهنية (MBRP) تُظهر فعالية
+- دعم من علم الأعصاب لآثار التأمل على ضبط الاندفاع والتنظيم العاطفي
+- دراسات مقارنة محدودة؛ فوائد كبيرة مُبلَّغ عنها من الأقران
 
-## Integration with Professional Treatment
+## التكامل مع العلاج المهني
 
-- Therapist-friendly: aligns with trauma-informed, mindfulness-based approaches
-- Meditation complements therapy
-- Non-disease model controversial with some treatment providers
-- Works well with medication-assisted treatment (MAT)
+- ودود مع المعالجين: يتوافق مع المقاربات المُطَّلعة على الصدمة والقائمة على اليقظة الذهنية
+- التأمل يكمِّل العلاج
+- نموذج اللامرض مثير للجدل لدى بعض مقدمي العلاج
+- يعمل جيداً مع العلاج المدعوم بالدواء (MAT)
 
-## Accessibility
+## سهولة الوصول
 
-- Free
-- Growing number of meetings (fewer than AA but expanding)
-- Online meditation and meetings
-- Books and apps expanding access
+- مجاني
+- عدد متنامٍ من الاجتماعات (أقل من AA لكنه يتوسع)
+- تأمل واجتماعات عبر الإنترنت
+- كتب وتطبيقات توسِّع الوصول
 
-## Strengths
+## نقاط القوة
 
-- Evidence-based (meditation science)
-- Addresses root causes (trauma, suffering)
-- Compassion-focused (reduces shame)
-- Integrates with psychotherapy
-- Non-dogmatic; secular acceptable
-- Emphasizes agency and choice
+- مبني على الأدلة (علم التأمل)
+- يعالج الأسباب الجذرية (الصدمة، المعاناة)
+- يركز على الرحمة (يقلل العار)
+- يندمج مع العلاج النفسي
+- غير عقائدي؛ العلمانية مقبولة
+- يشدد على الفاعلية والاختيار
 
-## Limitations
+## القيود
 
-- Smaller network (fewer meetings)
-- Requires self-direction and motivation
-- Meditation difficult for some (ADHD, trauma)
-- Limited long-term outcome data
-- May not address spiritual/transcendent needs for some
+- شبكة أصغر (اجتماعات أقل)
+- يتطلب توجيهاً ذاتياً ودافعية
+- التأمل صعب على البعض (فرط الحركة، الصدمة)
+- بيانات نتائج طويلة الأمد محدودة
+- قد لا يعالج الاحتياجات الروحانية/المتعالية لدى البعض
 
-## Related Alternatives
+## بدائل ذات صلة
 
-- [[org-lifering]] — empowerment-focused
-- [[org-smart-recovery]] — cognitive-behavioral
-- Mindfulness-based relapse prevention (MBRP) therapy
-- Buddhist sangha (monastery/meditation community)
+- [[org-lifering]] — يركز على التمكين
+- [[org-smart-recovery]] — معرفي سلوكي
+- علاج الوقاية من الانتكاس القائم على اليقظة الذهنية (MBRP)
+- السانغا البوذية (مجتمع الدير/التأمل)
 
-## Primary Sources
+## المصادر الأولية
 
 1. Levine, N. (2013). Refuge recovery: A Buddhist path to recovering from addiction. HarperCollins.
 2. Witkiewitz, K., et al. (2013). Mindfulness-based relapse prevention for substance craving and use disorders. Cognitive and Behavioral Practice, 20(3), 368-374.

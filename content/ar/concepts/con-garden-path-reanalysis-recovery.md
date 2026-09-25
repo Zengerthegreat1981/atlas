@@ -17,28 +17,28 @@ gaps: ["مصادرُ محدودة — يحتاجُ لمزيدِ استقصاء"]
 
 # جملُ الطريقِ والإعادةُ
 
-## Definition
+## التعريف
 
-Garden-path sentences mislead readers initially but resolve with reanalysis: "The horse raced past the barn fell." "Raced" appears to be the main verb, but restructuring reveals "raced" modifies "horse" and "fell" is the main verb. Garden-path effects demonstrate incremental parsing with backtracking.
+تُضلِّل جملُ الطريق القارئ مبدئياً لكنها تُحلّ بإعادة التحليل: كجملة إنجليزية معناها "الحصان الذي رُكِض به بمحاذاة الحظيرة سقط"، حيث تبدو "رُكِض" الفعلَ الرئيسي، لكن إعادة الهيكلة تكشف أنها تصف "الحصان" وأن "سقط" هو الفعل الرئيسي. وتُظهر آثار جمل الطريق تحليلاً تدريجياً مع تراجعٍ عند الحاجة.
 
-## Parsing Mechanisms
+## آليات التحليل
 
-Readers use:
-- Frequency: Prefer common structures
-- Syntax: Use grammatical constraints
-- Semantics: Use meaning to resolve ambiguity
+يستخدم القراء:
+- التواتر: تفضيل البنى الشائعة
+- النحو: استخدام القيود النحوية
+- الدلالة: استخدام المعنى لحلّ الغموض
 
-Garden-path failures show processing doesn't immediately use semantics or look ahead.
+وتُظهر إخفاقات جمل الطريق أن المعالجة لا تستخدم الدلالة أو الاستشراف فوراً.
 
-## Neural Correlates
+## المترابطات العصبية
 
-ERP studies show P600 component (reanalysis signature) when sentences require restructuring. Anterior temporal areas activate during reanalysis.
+تُظهر دراسات الجهود المرتبطة بالحدث مكوِّن P600 (توقيع إعادة التحليل) حين تتطلب الجمل إعادة هيكلة. وتُنشَّط المناطق الصدغية الأمامية أثناء إعادة التحليل.
 
-## Theoretical Implications
+## الدلالات النظرية
 
-Garden-path effects support incremental, left-to-right parsing. They show parsing isn't perfect; readers make mistakes and backtrack. Different models (garden-path model, constraint satisfaction) account for effects differently.
+تدعم آثار جمل الطريق تحليلاً تدريجياً من اليسار إلى اليمين. وتُظهر أن التحليل ليس كاملاً؛ فالقراء يخطئون ويتراجعون. وتُفسِّر نماذج مختلفة (نموذج الطريق، إشباع القيود) هذه الآثار بطرق متباينة.
 
-## References
+## المصادر
 
 - Frazier, L., & Rayner, K. (1982). "Making and correcting errors during sentence comprehension." *Cognitive Psychology*, 14, 178-210.
-
+</content>

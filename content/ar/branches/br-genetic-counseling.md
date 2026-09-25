@@ -7,181 +7,182 @@ parent: counseling
 featured: true
 ---
 
-# Genetic Counseling
+# الإرشاد الوراثي
 
-Genetic counseling is a specialized branch that integrates healthcare, education, and psychosocial counseling to support individuals and families in understanding genetic information, making informed decisions about genetic testing and family planning, and adapting to genetic diagnoses and risk factors. Rooted in both medical science and counseling psychology, genetic counseling employs a non-directive approach that respects client autonomy and values.
+الإرشاد الوراثي فرعٌ متخصص يدمج الرعاية الصحية والتثقيف والإرشاد النفسي الاجتماعي لدعم الأفراد والأسر في فهم المعلومات الوراثية، واتخاذ قرارات مدروسة بشأن الاختبارات الوراثية وتنظيم الأسرة، والتكيف مع التشخيصات الوراثية وعوامل الخطر. وإذ يتجذر في العلم الطبي وعلم النفس الإرشادي معاً، يعتمد الإرشاد الوراثي مقاربة غير توجيهية تحترم استقلالية المسترشد وقيمه.
 
-## Historical Development
+## التطور التاريخي
 
-**1960s-1970s:** Genetic counseling emerges as a distinct profession within medical genetics, initially focused on rare genetic disorders and prenatal testing.
+**عقدا الستينيات والسبعينيات:** ظهر الإرشاد الوراثي مهنةً متمايزة ضمن علم الوراثة الطبية، وركّز في البداية على الاضطرابات الوراثية النادرة والاختبارات قبل الولادة.
 
-**1970s-1980s:** Professionalization with credentialing and graduate training programs; expansion to cancer genetics (BRCA mutations, hereditary cancer syndromes).
+**عقدا السبعينيات والثمانينيات:** اكتسب المجال طابعاً مهنياً باعتماد الشهادات وبرامج الدراسات العليا؛ وتوسّع إلى وراثيات السرطان (طفرات BRCA، متلازمات السرطان الوراثي).
 
-**1990s-2000s:** Human Genome Project completion drives expansion of genetic testing availability; pharmacogenomics emerges.
+**عقدا التسعينيات والألفينيات:** دفع إنجاز مشروع الجينوم البشري إلى توسّع الاختبارات الوراثية؛ وظهر علم الصيدلة الجيني.
 
-**2000s-Present:** Whole genome sequencing, direct-to-consumer genetic testing, secondary findings; expansion of genetic counseling to virtually all medical specialties; mental health implications of genetic information.
+**منذ الألفينيات حتى اليوم:** تسلسل الجينوم الكامل، والاختبارات الوراثية المباشرة للمستهلك، والنتائج الثانوية؛ وتوسّع الإرشاد الوراثي ليشمل جميع التخصصات الطبية تقريباً؛ والآثار النفسية للمعلومات الوراثية.
 
-## Foundational Concepts
+## المفاهيم التأسيسية
 
-### Genetic Literacy
-- **Genes and inheritance:** how traits and conditions are inherited; dominant, recessive, X-linked, multifactorial inheritance patterns
-- **Penetrance and expressivity:** why individuals with same mutation may have different severity or presentation
-- **Environmental factors:** gene-environment interactions; not all genetic predispositions result in disease
+### الثقافة الوراثية
+- **الجينات والوراثة:** كيفية توارث الصفات والحالات؛ أنماط الوراثة السائدة والمتنحية والمرتبطة بالكروموسوم X والمتعددة العوامل
+- **النفاذية والتعبيرية:** سبب تفاوت شدة الحالة أو مظهرها بين حاملي الطفرة نفسها
+- **العوامل البيئية:** تفاعل الجينات مع البيئة؛ فلا تؤدي كل استعدادات وراثية إلى المرض
 
-### Key Genetic Concepts
-- **Mutation, variant, polymorphism** — different types of genetic changes
-- **Hardy-Weinberg equilibrium** — population genetics principles
-- **Recurrence risk** — probability of condition in future children based on family genetics
-- **Pathogenic vs. benign variants** — understanding test results in context
+### مفاهيم وراثية جوهرية
+- **الطفرة والمتغير والتعدد الشكلي** — أنواع مختلفة من التغيرات الوراثية
+- **توازن هاردي-واينبرغ** — مبادئ وراثة السكان
+- **خطر التكرار** — احتمال ظهور الحالة في الأطفال المستقبليين استناداً إلى وراثيات الأسرة
+- **المتغيرات المُمرِضة مقابل الحميدة** — فهم نتائج الاختبار في سياقها
 
-### Non-Directive Counseling Principles
-- **Autonomy:** client decisions should reflect their own values, not counselor's recommendations
-- **Informed consent:** client understands testing implications before proceeding
-- **Neutrality:** counselor presents options without suggesting "right" choice
-- **Psychosocial support:** addressing emotional and social responses to genetic information
-- **Confidentiality and privacy:** protecting sensitive genetic data
+### مبادئ الإرشاد غير التوجيهي
+- **الاستقلالية:** ينبغي أن تعكس قرارات المسترشد قيمه الخاصة لا توصيات المرشد
+- **الموافقة المستنيرة:** فهم المسترشد لآثار الاختبار قبل المضي فيه
+- **الحياد:** يعرض المرشد الخيارات دون الإيحاء بخيار "صحيح"
+- **الدعم النفسي الاجتماعي:** معالجة الاستجابات الانفعالية والاجتماعية للمعلومات الوراثية
+- **السرية والخصوصية:** حماية البيانات الوراثية الحساسة
 
-## Clinical Contexts for Genetic Counseling
+## السياقات السريرية للإرشاد الوراثي
 
-### Prenatal & Reproductive Counseling
-- **Advanced maternal age** — risk counseling for chromosomal abnormalities (Down syndrome)
-- **Abnormal prenatal screening** — interpreting NIPT (non-invasive prenatal testing), quad screen, ultrasound findings
-- **Carrier screening** — identifying parents at risk of passing autosomal recessive or X-linked conditions
-- **Family history of genetic disorder** — recurrence risk assessment, prenatal testing discussion
-- **Decision support** — exploring options (further testing, continued pregnancy, adoption) without directive
+### الإرشاد قبل الولادة والإنجابي
+- **تقدم عمر الأم** — إرشاد الخطر بشأن الشذوذات الكروموسومية (متلازمة داون)
+- **الفحص غير الطبيعي قبل الولادة** — تفسير الفحص اللاتوغلي (NIPT)، والفحص الرباعي، ونتائج الموجات فوق الصوتية
+- **فحص حاملي الجين** — تحديد الآباء المعرضين لنقل حالات متنحية أو مرتبطة بالكروموسوم X
+- **تاريخ عائلي لاضطراب وراثي** — تقييم خطر التكرار، ومناقشة الاختبار قبل الولادة
+- **دعم القرار** — استكشاف الخيارات (اختبار إضافي، استمرار الحمل، التبني) دون توجيه
 
-### Cancer Genetics
-- **Hereditary cancer syndromes** — BRCA1/2 (breast/ovarian), Lynch syndrome (colorectal), familial adenomatous polyposis (FAP)
-- **Risk assessment** — calculating probability of carrying mutation based on family history
-- **Surveillance recommendations** — more frequent screening for mutation carriers
-- **Psychological impact** — anxiety, guilt, identity as "cancer risk," family communication challenges
-- **Preventive measures** — prophylactic surgery, chemoprevention, surveillance protocols
+### وراثيات السرطان
+- **متلازمات السرطان الوراثي** — BRCA1/2 (الثدي/المبيض)، متلازمة لينش (القولون والمستقيم)، السلائل الغدية العائلية
+- **تقييم الخطر** — حساب احتمال حمل الطفرة استناداً إلى التاريخ العائلي
+- **توصيات المراقبة** — فحص أكثر تكراراً لحاملي الطفرة
+- **الأثر النفسي** — القلق، والذنب، وهوية "معرَّض لخطر السرطان"، وتحديات التواصل الأسري
+- **التدابير الوقائية** — الجراحة الوقائية، والوقاية الكيميائية، وبروتوكولات المراقبة
 
-### Pediatric Genetic Conditions
-- **Rare genetic disorders** — explaining diagnosis, prognosis, management
-- **Developmental delay** — genetic workup and chromosomal abnormalities
-- **Congenital anomalies** — explaining etiology and recurrence risk
-- **Family planning implications** — carrier testing for siblings, prenatal testing for future pregnancies
+### الحالات الوراثية عند الأطفال
+- **الاضطرابات الوراثية النادرة** — شرح التشخيص والتنبؤ والإدارة
+- **التأخر النمائي** — الفحص الوراثي والشذوذات الكروموسومية
+- **التشوهات الخلقية** — شرح السبب وخطر التكرار
+- **آثار تنظيم الأسرة** — فحص حمل الجين للأشقاء، والاختبار قبل الولادة لحالات الحمل المستقبلية
 
-### Adult-Onset Genetic Disorders
-- **Huntington disease** — predictive testing, informed decision-making about knowing future disease status
-- **Familial Alzheimer disease** — early-onset dementia, genetic risk
-- **Hereditary arrhythmias and cardiomyopathies** — sudden cardiac death risk
-- **Delayed diagnosis** — explaining genetic condition newly diagnosed in adulthood
+### الاضطرابات الوراثية التي تظهر عند البالغين
+- **داء هنتنغتون** — الاختبار التنبؤي، واتخاذ قرار مستنير بشأن معرفة الحالة المرضية المستقبلية
+- **داء ألزهايمر العائلي** — الخرف المبكر، والخطر الوراثي
+- **اضطرابات النظم القلبي واعتلال عضلة القلب الوراثي** — خطر الموت القلبي المفاجئ
+- **التشخيص المتأخر** — شرح حالة وراثية جرى تشخيصها حديثاً في سن البلوغ
 
-### Psychiatric Genetics
-- **Family history of mental illness** — genetic risk assessment, prenatal counseling
-- **Pharmacogenomics** — how genes affect medication response and side effects in psychiatric treatment
-- **Ethical considerations** — genetic risk for mental illness (schizophrenia, bipolar disorder, depression)
-- **Stigma concerns** — addressing fear of genetic "labeling"
+### الوراثة النفسية
+- **تاريخ عائلي للمرض النفسي** — تقييم الخطر الوراثي، والإرشاد قبل الولادة
+- **علم الصيدلة الجيني** — كيف تؤثر الجينات في الاستجابة للدواء وآثاره الجانبية في العلاج النفسي
+- **اعتبارات أخلاقية** — الخطر الوراثي للمرض النفسي (الفصام، الاضطراب ثنائي القطب، الاكتئاب)
+- **مخاوف الوصم** — معالجة الخوف من "التصنيف" الوراثي
 
-### Pharmacogenomics
-- **Cytochrome P450 variants** — affecting drug metabolism (poor, normal, extensive metabolizers)
-- **Drug efficacy and side effects** — using genetic information to optimize psychiatric, cardiac, cancer medications
-- **Personalized medicine** — tailoring treatment based on genetic profile
+### علم الصيدلة الجيني
+- **متغيرات السيتوكروم P450** — تؤثر في استقلاب الدواء (استقلاب ضعيف، طبيعي، سريع)
+- **فعالية الدواء وآثاره الجانبية** — استخدام المعلومات الوراثية لتحسين الأدوية النفسية والقلبية والسرطانية
+- **الطب الشخصي** — تكييف العلاج استناداً إلى الملف الوراثي
 
-## Genetic Counselor Roles & Interventions
+## أدوار مرشد الوراثة وتدخلاته
 
-### Assessment & Risk Evaluation
-- **Detailed family history** — constructing pedigree, identifying affected individuals, inheritance pattern
-- **Medical history** — relevant symptoms, diagnoses, test results
-- **Social/cultural factors** — ethnicity (population-specific mutation frequencies), family structure, religious beliefs
-- **Psychological factors** — coping style, anxiety level, family relationships, communication patterns
+### التقييم وتقدير الخطر
+- **تاريخ عائلي مفصَّل** — بناء شجرة النسب، وتحديد الأفراد المصابين، ونمط الوراثة
+- **التاريخ الطبي** — الأعراض والتشخيصات ونتائج الاختبار ذات الصلة
+- **العوامل الاجتماعية/الثقافية** — العرق (تواتر الطفرات الخاص بالسكان)، وبنية الأسرة، والمعتقدات الدينية
+- **العوامل النفسية** — أسلوب المواجهة، ومستوى القلق، والعلاقات الأسرية، وأنماط التواصل
 
-### Education & Information Provision
-- **Genetics education** — explanation of inheritance, testing options, results interpretation
-- **Condition-specific information** — clinical features, prognosis, management, resources
-- **Testing process** — what testing involves, timeline, limitations, incidental findings
-- **Risk communication** — expressing probability in understandable ways (percentages, ratios, comparative risk)
+### التثقيف وتقديم المعلومات
+- **التثقيف الوراثي** — شرح الوراثة، وخيارات الاختبار، وتفسير النتائج
+- **معلومات خاصة بالحالة** — السمات السريرية، والتنبؤ، والإدارة، والموارد
+- **عملية الاختبار** — ما يتضمنه الاختبار، والجدول الزمني، والحدود، والنتائج العرضية
+- **توصيل الخطر** — التعبير عن الاحتمال بطرق مفهومة (النسب المئوية، النسب، الخطر المقارن)
 
-### Decision Support
-- **Exploring values and preferences** — what matters most to client in decision-making
-- **Weighing pros and cons** — of testing vs. not testing, prenatal diagnosis, different management options
-- **Addressing ambivalence** — supporting informed decision-making without directing choice
-- **Facilitating family discussion** — helping client communicate genetic information with relatives
+### دعم القرار
+- **استكشاف القيم والتفضيلات** — ما يهم المسترشد أكثر في اتخاذ القرار
+- **موازنة الإيجابيات والسلبيات** — بين الاختبار وعدمه، والتشخيص قبل الولادة، وخيارات الإدارة المختلفة
+- **معالجة التردد** — دعم اتخاذ قرار مستنير دون توجيه الخيار
+- **تيسير النقاش الأسري** — مساعدة المسترشد على توصيل المعلومات الوراثية للأقارب
 
-### Psychosocial Support
-- **Emotional processing** — fear, guilt, anxiety, grief related to genetic diagnosis or risk
-- **Coping strategies** — problem-focused (information-gathering) and emotion-focused (support groups) approaches
-- **Family dynamics** — communication, blame, different responses to genetic information
-- **Identity adjustment** — reframing self-image after genetic diagnosis, reducing genetic determinism
+### الدعم النفسي الاجتماعي
+- **المعالجة الانفعالية** — الخوف والذنب والقلق والفقد المرتبط بالتشخيص أو الخطر الوراثي
+- **استراتيجيات المواجهة** — مقاربات مركزة على المشكلة (جمع المعلومات) ومركزة على الانفعال (مجموعات الدعم)
+- **ديناميكيات الأسرة** — التواصل، واللوم، وتفاوت الاستجابات للمعلومات الوراثية
+- **تعديل الهوية** — إعادة صياغة صورة الذات بعد التشخيص الوراثي، وتقليل الحتمية الوراثية
 
-### Coordination & Advocacy
-- **Medical coordination** — working with physicians, genetic testing labs, specialists
-- **Insurance and access** — navigating genetic testing approval, cost, direct-to-consumer testing options
-- **Resources and support** — connecting to support groups, patient advocacy organizations, mental health services
-- **Ethical advocacy** — addressing discrimination, privacy concerns, genetic exceptionalism in law/policy
+### التنسيق والمناصرة
+- **التنسيق الطبي** — العمل مع الأطباء ومختبرات الاختبار الوراثي والأخصائيين
+- **التأمين وإمكانية الوصول** — التنقل بين موافقة الاختبار الوراثي وتكلفته وخيارات الاختبار المباشر للمستهلك
+- **الموارد والدعم** — الربط بمجموعات الدعم ومنظمات مناصرة المرضى وخدمات الصحة النفسية
+- **المناصرة الأخلاقية** — معالجة التمييز، ومخاوف الخصوصية، والاستثنائية الوراثية في القانون والسياسة
 
-## Ethical Challenges
+## التحديات الأخلاقية
 
-### Incidental Findings
-- **Unexpected genetic discoveries** — finding genetic variants unrelated to reason for testing
-- **Secondary findings** — variants in genes associated with other conditions
-- **Counselor responsibility** — deciding what to return to client, who decides, informed consent
+### النتائج العرضية
+- **اكتشافات وراثية غير متوقعة** — إيجاد متغيرات وراثية لا علاقة لها بسبب الاختبار
+- **النتائج الثانوية** — متغيرات في جينات مرتبطة بحالات أخرى
+- **مسؤولية المرشد** — تحديد ما يُعاد إلى المسترشد، ومن يقرر، والموافقة المستنيرة
 
-### Genetic Discrimination
-- **Insurance discrimination** — genetic information used for health insurance underwriting (limited by genetic information nondiscrimination act [GINA] but not life insurance)
-- **Employment discrimination** — fear of genetic testing results affecting hiring
-- **Social stigma** — psychological impact of knowing genetic predisposition
+### التمييز الوراثي
+- **التمييز التأميني** — استخدام المعلومات الوراثية في اكتتاب التأمين الصحي (يحدّه قانون عدم التمييز بالمعلومات الوراثية [GINA] لكن ليس تأمين الحياة)
+- **التمييز الوظيفي** — الخوف من تأثير نتائج الاختبار الوراثي في التوظيف
+- **الوصم الاجتماعي** — الأثر النفسي لمعرفة الاستعداد الوراثي
 
-### Privacy & Data Security
-- **Genetic data sensitivity** — potential for misuse of genomic information
-- **Third-party risks** — genetic information reveals information about relatives who didn't consent to testing
-- **Direct-to-consumer testing** — privacy concerns with ancestry databases, law enforcement access
+### الخصوصية وأمن البيانات
+- **حساسية البيانات الوراثية** — احتمال إساءة استخدام المعلومات الجينومية
+- **مخاطر الأطراف الثالثة** — تكشف المعلومات الوراثية معلوماتٍ عن أقارب لم يوافقوا على الاختبار
+- **الاختبار المباشر للمستهلك** — مخاوف الخصوصية مع قواعد بيانات الأنساب ووصول إنفاذ القانون
 
-### Reproductive Autonomy
-- **Prenatal diagnosis implications** — selective termination based on genetic conditions raises ethical questions
-- **Parental choice** — who decides testing and how results are used
-- **Equity issues** — access to genetic testing and counseling varies by socioeconomic status
+### الاستقلالية الإنجابية
+- **آثار التشخيص قبل الولادة** — يثير الإنهاء الانتقائي استناداً إلى حالات وراثية أسئلة أخلاقية
+- **اختيار الوالدين** — من يقرر الاختبار وكيف تُستخدم النتائج
+- **قضايا الإنصاف** — تتفاوت إمكانية الوصول إلى الاختبار والإرشاد الوراثي بحسب الوضع الاجتماعي الاقتصادي
 
-## Genetic Counselor Competencies
+## كفايات مرشد الوراثة
 
-- In-depth knowledge of human genetics, inheritance patterns, genetic testing methodology
-- Medical understanding of genetic conditions and their management
-- Counseling skills: active listening, empathy, non-directive approach, emotional support
-- Family systems perspective: understanding multigenerational patterns and family communication
-- Multicultural competence: awareness of different cultural attitudes toward genetics, family planning, disability
-- Ethical reasoning: navigating complex decision-making situations with competing values
-- Psychoeducational ability: explaining complex genetic concepts in accessible language
-- Self-awareness: recognizing personal biases regarding genetic conditions, disability, family planning
+- معرفة عميقة بعلم الوراثة البشرية وأنماط الوراثة ومنهجية الاختبار الوراثي
+- فهم طبي للحالات الوراثية وإدارتها
+- مهارات الإرشاد: الإصغاء الفعال، والتعاطف، والمقاربة غير التوجيهية، والدعم الانفعالي
+- منظور الأنظمة الأسرية: فهم الأنماط متعددة الأجيال والتواصل الأسري
+- الكفاءة متعددة الثقافات: الوعي بتفاوت المواقف الثقافية تجاه الوراثة وتنظيم الأسرة والإعاقة
+- التفكير الأخلاقي: التنقل بين مواقف اتخاذ القرار المعقدة ذات القيم المتضاربة
+- القدرة النفسية التثقيفية: شرح المفاهيم الوراثية المعقدة بلغة ميسّرة
+- الوعي الذاتي: التعرف على التحيزات الشخصية إزاء الحالات الوراثية والإعاقة وتنظيم الأسرة
 
-## Related Branches
+## فروع ذات صلة
 
-- [[br-crisis-counseling]] — acute responses to genetic diagnosis
-- [[br-grief-counseling]] — loss related to genetic diagnosis or prenatal findings
-- [[br-multicultural-counseling-expansion]] — culturally-informed genetic counseling
+- [[br-crisis-counseling]] — الاستجابات الحادة للتشخيص الوراثي
+- [[br-grief-counseling]] — الفقد المرتبط بالتشخيص الوراثي أو نتائج ما قبل الولادة
+- [[br-multicultural-counseling-expansion]] — إرشاد وراثي واعٍ ثقافياً
 
-## Professional Standards & Credentials
+## المعايير المهنية والشهادات
 
-- **Board Certified Genetic Counselor (CGC)** — credential from American Board of Genetic Counseling
-- **Master's degree in genetic counseling** — 24-month graduate programs in US
-- **National Society of Genetic Counselors (NSGC)** — professional organization, code of ethics, continuing education
+- **مرشد وراثي معتمَد من المجلس (CGC)** — شهادة من المجلس الأمريكي للإرشاد الوراثي
+- **درجة الماجستير في الإرشاد الوراثي** — برامج دراسات عليا مدتها 24 شهراً في الولايات المتحدة
+- **الجمعية الوطنية لمرشدي الوراثة (NSGC)** — منظمة مهنية، وميثاق أخلاقي، وتعليم مستمر
 
-## Key Figures
+## أعلام بارزون
 
-- Sheldon Reed — coined term "genetic counseling" (1947)
-- James Sorenson — early research on psychological aspects of genetic counseling
-- Barbara Biesecker — non-directiveness and decision-making in genetic counseling
-- Helen Mayberry — genetic counseling in prenatal context
+- شيلدون ريد (Sheldon Reed) — صاغ مصطلح "الإرشاد الوراثي" (1947)
+- جيمس سورنسون (James Sorenson) — بحث مبكر في الجوانب النفسية للإرشاد الوراثي
+- باربارا بيسيكر (Barbara Biesecker) — اللاتوجيهية واتخاذ القرار في الإرشاد الوراثي
+- هيلين مايبيري (Helen Mayberry) — الإرشاد الوراثي في سياق ما قبل الولادة
 
-## Primary Sources
+## المصادر
 
 1. Biesecker, B.B., & Peters, K.F. (2001). Process studies in genetic counseling: Concepts, applications, and emerging issues. Journal of Genetic Counseling, 10(5), 311-328.
 2. Emery & Pulmonary (2005). Emery's Elements of Medical Genetics (13th ed.). Churchill Livingstone.
 3. National Society of Genetic Counselors. (2016). Code of Ethics. https://www.nsgc.org
 4. Uhlmann, W.R., Schuette, J.L., & Yashar, B.M. (Eds.). (2016). A guide to genetic counseling (3rd ed.). Wiley-Blackwell.
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Genetic testing and screening
-- Carrier status
-- Penetrance and expressivity
-- Recurrence risk
-- Prenatal diagnosis
-- Hereditary cancer syndromes
-- Pharmacogenomics
-- Personalized medicine
-- Informed consent
-- Non-directive counseling
-- Genetic discrimination
-- Genetic privacy
+- الاختبار الوراثي والفحص
+- حالة حمل الجين
+- النفاذية والتعبيرية
+- خطر التكرار
+- التشخيص قبل الولادة
+- متلازمات السرطان الوراثي
+- علم الصيدلة الجيني
+- الطب الشخصي
+- الموافقة المستنيرة
+- الإرشاد غير التوجيهي
+- التمييز الوراثي
+- الخصوصية الوراثية
+</content>

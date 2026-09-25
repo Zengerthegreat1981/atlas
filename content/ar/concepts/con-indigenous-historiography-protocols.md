@@ -17,23 +17,23 @@ gaps: []
 
 # بروتوكولات التاريخ الأصلي (Indigenous Historiography Protocols)
 
-## Indigenous Historiography Protocols
+## بروتوكولات التاريخ الأصلي
 
-Ethical frameworks for historical work with indigenous communities and oral traditions; emphasizes consent and cultural protocols.
+أطر أخلاقية للعمل التاريخي مع مجتمعات السكان الأصليين والتقاليد الشفوية؛ تشدد على الموافقة والبروتوكولات الثقافية.
 
-### Key Aspects
+### الجوانب الجوهرية
 
-This node represents part of Section 20: Cross-Cutting Frameworks & Synthesis in historiography.
+تمثّل هذه العقدة جزءاً من القسم 20: الأطر الشاملة والتوليف في التأريخ.
 
-### Related Fields
+### مجالات ذات صلة
 
-- Historiographical theory and practice
-- Historiographical ethics and reflexivity
-- Regional and comparative historiography
-- Emerging historiographical fields
+- نظرية التأريخ وممارسته
+- أخلاقيات التأريخ والتأمل الذاتي
+- التأريخ الإقليمي والمقارن
+- مجالات التأريخ الناشئة
 
-### See Also
+### انظر أيضاً
 
-- Related historiographical concepts and schools
-- Contemporary historical scholarship
-
+- مفاهيم ومدارس تأريخية ذات صلة
+- الدراسات التاريخية المعاصرة
+</content>

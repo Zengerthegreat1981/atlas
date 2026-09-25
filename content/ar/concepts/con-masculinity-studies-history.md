@@ -17,23 +17,23 @@ gaps: []
 
 # دراسات الذكورة التاريخية (Masculinity Studies in History)
 
-## Masculinity Studies in History
+## دراسات الذكورة التاريخية
 
-Historical examination of masculinity as constructed, performed, and changing across time; examines male roles and identities.
+فحص تاريخي للذكورة بوصفها بناءً وأداءً متغيراً عبر الزمن؛ تفحص الأدوار والهويات الذكورية.
 
-### Key Aspects
+### الجوانب الجوهرية
 
-This node represents part of Section 20: Cross-Cutting Frameworks & Synthesis in historiography.
+تمثّل هذه العقدة جزءاً من القسم 20: الأطر الشاملة والتوليف في التأريخ.
 
-### Related Fields
+### مجالات ذات صلة
 
-- Historiographical theory and practice
-- Historiographical ethics and reflexivity
-- Regional and comparative historiography
-- Emerging historiographical fields
+- نظرية التأريخ وممارسته
+- أخلاقيات التأريخ والتأمل الذاتي
+- التأريخ الإقليمي والمقارن
+- مجالات التأريخ الناشئة
 
-### See Also
+### انظر أيضاً
 
-- Related historiographical concepts and schools
-- Contemporary historical scholarship
-
+- مفاهيم ومدارس تأريخية ذات صلة
+- الدراسات التاريخية المعاصرة
+</content>

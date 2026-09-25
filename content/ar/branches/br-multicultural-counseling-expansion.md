@@ -7,187 +7,188 @@ parent: counseling
 featured: true
 ---
 
-# Multicultural & Social Justice Counseling
+# الإرشاد متعدد الثقافات والعدالة الاجتماعية
 
-Multicultural and social justice counseling is an expanded framework that integrates culturally-responsive practice with advocacy against systemic oppression. Moving beyond cultural competence (awareness, knowledge, skills), this approach emphasizes the counselor's responsibility to address not only individual client experiences but also societal factors—racism, sexism, heterosexism, ableism, classism, colonialism—that shape psychological distress and limit human flourishing.
+الإرشاد متعدد الثقافات والعدالة الاجتماعية إطارٌ موسَّع يدمج الممارسة الواعية ثقافياً بالمناصرة ضد القهر البنيوي. وإذ يتجاوز هذا النهج الكفاءة الثقافية (الوعي والمعرفة والمهارات)، فإنه يشدد على مسؤولية المرشد عن معالجة لا خبرات المسترشد الفردية فحسب، بل أيضاً العوامل المجتمعية — العنصرية، والتمييز الجنسي، والمعيارية الجنسية المغايرة، والتمييز ضد ذوي الإعاقة، والتمييز الطبقي، والاستعمار — التي تشكّل الضائقة النفسية وتحدّ من الازدهار الإنساني.
 
-## Conceptual Foundations
+## الأسس المفاهيمية
 
-### Cultural Competence to Cultural Humility
-- **Cultural competence:** knowledge of diverse cultures, awareness of own biases, skills for cross-cultural work
-- **Evolving critique:** competence implies mastery of culture, impossible and problematic
-- **Cultural humility:** openness to learning, recognizing power dynamics, accountability, lifelong learning stance
-- **Application:** counselor as learner alongside client; client as expert on own cultural experience
+### من الكفاءة الثقافية إلى التواضع الثقافي
+- **الكفاءة الثقافية:** معرفة بالثقافات المتنوعة، ووعي بالتحيزات الذاتية، ومهارات للعمل عبر الثقافات
+- **نقد متطور:** الكفاءة توحي بإتقان الثقافة، وهو أمر مستحيل وإشكالي
+- **التواضع الثقافي:** انفتاح على التعلم، وإدراك ديناميكيات السلطة، والمساءلة، وموقف تعلّم مدى الحياة
+- **التطبيق:** المرشد متعلّمٌ إلى جانب المسترشد؛ والمسترشد خبيرٌ بخبرته الثقافية الخاصة
 
-### Intersectionality (Kimberlé Crenshaw)
-- **Core concept:** individuals hold multiple, overlapping identities (race, gender, sexuality, class, disability, immigration status)
-- **Power dynamics:** oppression operates differently at intersections; cannot address gender without addressing race, etc.
-- **Implications:** avoid essentializing; understand unique experiences of individuals at multiple margin sites
-- **Example:** Black lesbian with disability experiences different barriers than white lesbian with disability or Black heterosexual woman
+### التقاطعية (كيمبرلي كرينشو)
+- **المفهوم الجوهري:** يحمل الأفراد هويات متعددة ومتداخلة (العرق، الجندر، الميل الجنسي، الطبقة، الإعاقة، وضع الهجرة)
+- **ديناميكيات السلطة:** يعمل القهر بشكل مختلف عند التقاطعات؛ فلا يمكن معالجة الجندر دون معالجة العرق مثلاً
+- **الدلالات:** تجنب التنميط الجوهراني؛ وفهم الخبرات الفريدة للأفراد في مواقع تهميش متعددة
+- **مثال:** تعاني المرأة السوداء المثلية ذات الإعاقة عوائق مختلفة عن المرأة البيضاء المثلية ذات الإعاقة أو المرأة السوداء المغايرة
 
-### Social Location & Positionality
-- **Counselor awareness:** recognizing own social location (privileged and marginalized identities)
-- **Power dynamics:** acknowledging that helping relationships always involve power
-- **Transparency:** explaining one's identities, limitations, investment in the work
-- **Accountability:** counselor's identities shape what clients feel safe disclosing; ongoing awareness required
+### الموقع الاجتماعي والموضعية
+- **وعي المرشد:** إدراك موقعه الاجتماعي الخاص (هويات ممتازة وأخرى مهمَّشة)
+- **ديناميكيات السلطة:** الإقرار بأن علاقات المساعدة تنطوي دوماً على سلطة
+- **الشفافية:** شرح هويات المرء وحدوده واستثماره في العمل
+- **المساءلة:** تشكّل هويات المرشد ما يشعر المسترشدون بالأمان للإفصاح عنه؛ ويتطلب ذلك وعياً مستمراً
 
-### Systemic Oppression & Trauma
-- **Historical trauma:** intergenerational effects of colonialism, slavery, genocide, displacement
-- **Institutional racism/sexism/homophobia:** embedded in systems (education, healthcare, criminal justice, employment)
-- **Racial battle fatigue:** chronic stress of navigating racist environments
-- **Internalized oppression:** acceptance of negative stereotypes and attributions
-- **Resilience and resistance:** recognizing client strengths in surviving/resisting oppressive systems
+### القهر البنيوي والصدمة
+- **الصدمة التاريخية:** الآثار متعددة الأجيال للاستعمار والعبودية والإبادة والنزوح
+- **العنصرية/التمييز الجنسي/رهاب المثلية المؤسسي:** متجذّرة في الأنظمة (التعليم، الرعاية الصحية، العدالة الجنائية، التوظيف)
+- **إنهاك المعركة العرقية:** الضغط المزمن للتنقل في بيئات عنصرية
+- **القهر المستبطَن:** قبول الصور النمطية والإسنادات السلبية
+- **المرونة والمقاومة:** إدراك نقاط قوة المسترشد في النجاة من الأنظمة القمعية أو مقاومتها
 
-## Key Areas of Multicultural Counseling
+## مجالات جوهرية للإرشاد متعدد الثقافات
 
-### Racial & Ethnic Identity
-- **Racial identity development models:** Helms' racial identity model (white, Black, Asian American, Latino/a), Atkinson-Morten-Sue racial consciousness model
-- **Immigration and acculturation:** impact of migration, language barriers, documentation status, discrimination
-- **Model minority myth:** stereotype of Asian Americans as inherently successful; masks real barriers and psychological distress
-- **Biracial and multiracial identity:** unique development, identity negotiation, belonging challenges
-- **Color-consciousness:** addressing impact of colorism within communities of color
+### الهوية العرقية والإثنية
+- **نماذج تطور الهوية العرقية:** نموذج هيلمز للهوية العرقية (البيض، السود، الأمريكيون الآسيويون، اللاتينيون)، ونموذج أتكينسون-مورتن-سو للوعي العرقي
+- **الهجرة والتثاقف:** أثر الهجرة، وحواجز اللغة، ووضع الأوراق الثبوتية، والتمييز
+- **أسطورة الأقلية النموذجية:** نمطية الأمريكيين الآسيويين بوصفهم ناجحين بطبعهم؛ تخفي عوائق حقيقية وضائقة نفسية
+- **الهوية ثنائية العرق ومتعددته:** تطور فريد، وتفاوض على الهوية، وتحديات الانتماء
+- **الوعي باللون:** معالجة أثر التمييز اللوني داخل مجتمعات الملونين
 
-### Gender & LGBTQ+ Counseling
-- **Gender identity and expression:** supporting transgender and non-binary clients; addressing discrimination and violence
-- **Sexual orientation:** coming out, family acceptance, internalized homophobia, minority stress
-- **Intersectionality:** LGBTQ+ people of color facing multiple forms of oppression; trans people of color at highest risk of violence
-- **Family dynamics:** estrangement, chosen family, family of origin reconnection
-- **Healthcare access:** barriers to affirming mental and physical healthcare
+### الإرشاد الجندري ومجتمع الميم
+- **الهوية الجندرية وتعبيرها:** دعم المسترشدين المتحولين جندرياً وغير الثنائيين؛ ومعالجة التمييز والعنف
+- **الميل الجنسي:** الإفصاح، وقبول الأسرة، ورهاب المثلية المستبطَن، وضغط الأقلية
+- **التقاطعية:** يواجه أفراد مجتمع الميم الملونون أشكالاً متعددة من القهر؛ والمتحولون جندرياً الملونون هم الأكثر عرضة للعنف
+- **ديناميكيات الأسرة:** القطيعة، والأسرة المختارة، وإعادة التواصل مع أسرة المنشأ
+- **الوصول إلى الرعاية الصحية:** عوائق أمام الرعاية النفسية والجسدية المُقِرّة بالهوية
 
-### Class & Economic Justice
-- **Poverty and economic stress:** impact on mental health, access to counseling, structural barriers
-- **Economic inequality:** wealth gap, intergenerational poverty, class mobility
-- **Food insecurity, housing instability** — basic needs affecting psychological well-being
-- **Employment barriers** — discrimination, "credential creep," wage gaps
-- **Counselor economics:** recognizing fee structures exclude low-income clients; sliding scale, pro bono options
+### الطبقة والعدالة الاقتصادية
+- **الفقر والضغط الاقتصادي:** الأثر في الصحة النفسية، والوصول إلى الإرشاد، والعوائق البنيوية
+- **اللامساواة الاقتصادية:** الفجوة في الثروة، والفقر متعدد الأجيال، والحراك الطبقي
+- **انعدام الأمن الغذائي وعدم استقرار السكن** — حاجات أساسية تؤثر في العافية النفسية
+- **عوائق التوظيف** — التمييز، و"تضخم الشهادات"، وفجوات الأجور
+- **اقتصاديات المرشد:** إدراك أن هياكل الأجور تستبعد المسترشدين محدودي الدخل؛ خيارات السلم المتدرج والعمل التطوعي
 
-### Immigration & Displacement
-- **Refugee trauma:** war, persecution, violence, loss of homeland
-- **Migration stress:** acculturation, language barriers, separated families, documentation anxiety
-- **Undocumented immigrants:** living with fear, deportation risk, barriers to services
-- **Colonialism and diaspora:** effects on Indigenous and colonized populations
-- **Cultural brokering:** clients navigating between home culture and dominant culture
+### الهجرة والنزوح
+- **صدمة اللاجئين:** الحرب، والاضطهاد، والعنف، وفقدان الوطن
+- **ضغط الهجرة:** التثاقف، وحواجز اللغة، والأسر المنفصلة، والقلق بشأن الأوراق الثبوتية
+- **المهاجرون غير الموثَّقين:** العيش في خوف، وخطر الترحيل، وعوائق أمام الخدمات
+- **الاستعمار والشتات:** آثاره على السكان الأصليين والمُستعمَرين
+- **الوساطة الثقافية:** تنقّل المسترشدين بين ثقافة الوطن والثقافة المهيمنة
 
-### Religion & Spirituality
-- **Religious identity:** how faith traditions shape identity, values, family dynamics
-- **Religious trauma:** spiritual abuse, LGBTQ+ rejection in religious communities, fundamentalism
-- **Interfaith relationships:** navigating different traditions, children's religious identity
-- **Spiritual diversity:** honoring indigenous practices, non-Western spiritualities
-- **Atheism and agnosticism:** respecting secular worldviews; not assuming spiritual orientation
+### الدين والروحانية
+- **الهوية الدينية:** كيف تشكّل التقاليد الدينية الهوية والقيم وديناميكيات الأسرة
+- **الصدمة الدينية:** الإساءة الروحية، ورفض مجتمع الميم في المجتمعات الدينية، والأصولية
+- **العلاقات بين الأديان:** التنقل بين تقاليد مختلفة، والهوية الدينية للأبناء
+- **التنوع الروحي:** احترام الممارسات الأصلية والروحانيات غير الغربية
+- **الإلحاد واللاأدرية:** احترام النظرات العلمانية للعالم؛ دون افتراض توجه روحي
 
-### Disability Justice
-- **Ableism:** discrimination and barriers faced by disabled people
-- **Accessibility:** physical, sensory, cognitive, communication access in counseling
-- **Neurodiversity:** valuing neurodivergent ways of being (autism, ADHD, dyslexia, etc.)
-- **Disability pride and culture:** Deaf culture, disability communities as sources of identity and strength
-- **Intersection with race, gender, class:** disabled people of color, poor disabled people, trans disabled people
+### عدالة الإعاقة
+- **التمييز ضد ذوي الإعاقة:** التمييز والعوائق التي يواجهها ذوو الإعاقة
+- **إمكانية الوصول:** الوصول الجسدي والحسي والمعرفي والتواصلي في الإرشاد
+- **التنوع العصبي:** تقدير طرائق الوجود المتباينة عصبياً (التوحد، فرط الحركة ونقص الانتباه، عسر القراءة، إلخ)
+- **فخر الإعاقة وثقافتها:** ثقافة الصمّ ومجتمعات الإعاقة مصادر للهوية والقوة
+- **التقاطع مع العرق والجندر والطبقة:** ذوو الإعاقة الملونون، والفقراء ذوو الإعاقة، والمتحولون جندرياً ذوو الإعاقة
 
-### Indigenous Counseling & Decolonization
-- **Historical trauma from colonialism:** genocide, forced assimilation, boarding schools, land theft
-- **Cultural restoration:** reclaiming language, spirituality, traditional practices
-- **Community-centered healing:** moving beyond Western individualism toward collective healing
-- **Indigenous psychology:** worldviews and healing practices grounded in Indigenous knowledge systems
-- **Sovereignty and self-determination:** supporting Indigenous-led healing and advocacy
+### الإرشاد الأصلي وإنهاء الاستعمار
+- **الصدمة التاريخية من الاستعمار:** الإبادة، والدمج القسري، والمدارس الداخلية، وسلب الأرض
+- **الاستعادة الثقافية:** استرجاع اللغة والروحانية والممارسات التقليدية
+- **الشفاء المرتكز على المجتمع:** تجاوز الفردانية الغربية نحو شفاء جماعي
+- **علم النفس الأصلي:** نظرات للعالم وممارسات شفاء متجذّرة في أنظمة المعرفة الأصلية
+- **السيادة وتقرير المصير:** دعم الشفاء والمناصرة بقيادة السكان الأصليين
 
-## Counselor Responsibilities in Social Justice
+## مسؤوليات المرشد في العدالة الاجتماعية
 
-### Individual Counseling with Marginalized Clients
-- **Validate external oppression:** not attributing all distress to individual pathology
-- **Strengths and resilience:** recognizing survival strategies, community support, cultural resources
-- **Empower action:** supporting client agency in resisting oppression, not just adapting
-- **Grief and healing:** allowing space for grief about losses from oppression and injustice
+### الإرشاد الفردي مع المسترشدين المهمَّشين
+- **تصديق القهر الخارجي:** عدم إسناد كل الضائقة إلى اعتلال فردي
+- **نقاط القوة والمرونة:** إدراك استراتيجيات النجاة، ودعم المجتمع، والموارد الثقافية
+- **تمكين الفعل:** دعم فاعلية المسترشد في مقاومة القهر لا التكيف معه فحسب
+- **الحزن والشفاء:** إتاحة مساحة للحزن على خسائر القهر والظلم
 
-### Systems-Level Advocacy
-- **Environmental change:** working toward accessibility, inclusion, non-discrimination in systems where clients live/work
-- **Community organizing:** supporting grassroots movements for social change
-- **Policy advocacy:** pushing for policies that protect marginalized groups
-- **Speaking out:** using professional platform to challenge discrimination
+### المناصرة على مستوى الأنظمة
+- **تغيير بيئي:** العمل نحو إمكانية الوصول والشمول وعدم التمييز في الأنظمة التي يعيش/يعمل فيها المسترشدون
+- **التنظيم المجتمعي:** دعم الحركات الشعبية للتغيير الاجتماعي
+- **مناصرة السياسات:** الدفع نحو سياسات تحمي الفئات المهمَّشة
+- **رفع الصوت:** استخدام المنصة المهنية لتحدي التمييز
 
-### Institutional Accountability
-- **Within organizations:** advocating for diverse hiring, inclusive policies, anti-racism training
-- **Within counseling profession:** pushing field to address its own racism, classism, homophobia
-- **Ethical practice:** recognizing when counseling alone is insufficient; sometimes advocacy/action required first
+### المساءلة المؤسسية
+- **داخل المنظمات:** المناصرة للتوظيف المتنوع، والسياسات الشاملة، والتدريب على مناهضة العنصرية
+- **داخل مهنة الإرشاد:** دفع المجال لمعالجة عنصريته وتمييزه الطبقي ورهاب المثلية فيه
+- **الممارسة الأخلاقية:** إدراك أن الإرشاد وحده قد لا يكفي؛ وأحياناً تلزم المناصرة/الفعل أولاً
 
-### Counselor Development
-- **Personal awareness work:** ongoing exploration of own identities, biases, stereotypes
-- **Continuing education:** learning about diverse clients, historical trauma, systemic oppression
-- **Therapy and supervision:** processing vicarious trauma, privilege guilt, compassion fatigue, countertransference
-- **Community accountability:** relationships with communities served; feedback, accountability mechanisms
+### تطور المرشد
+- **عمل الوعي الشخصي:** استكشاف مستمر لهويات المرء وتحيزاته وصوره النمطية
+- **التعليم المستمر:** التعلم عن المسترشدين المتنوعين، والصدمة التاريخية، والقهر البنيوي
+- **العلاج والإشراف:** معالجة الصدمة بالوكالة، وذنب الامتياز، وإنهاك التعاطف، والتحويل المضاد
+- **المساءلة المجتمعية:** علاقات مع المجتمعات المخدومة؛ آليات التغذية الراجعة والمساءلة
 
-## Theoretical Frameworks
+## الأطر النظرية
 
-### Critical Race Theory (CRT) in Counseling
-- **Race is social construct:** not biological; racialization is political process
-- **Racism is systemic:** not just individual prejudice; embedded in institutions and laws
-- **Lived experience matters:** people of color's experiential knowledge about racism is valuable evidence
-- **Counseling implications:** understanding client distress in context of systemic racism
+### نظرية العرق النقدية في الإرشاد
+- **العرق بناءٌ اجتماعي:** لا بيولوجي؛ والعرقنة عملية سياسية
+- **العنصرية بنيوية:** لا مجرد تحيز فردي؛ بل متجذّرة في المؤسسات والقوانين
+- **الخبرة المعيشة مهمة:** المعرفة الاختبارية للملونين عن العنصرية دليل ذو قيمة
+- **دلالات للإرشاد:** فهم ضائقة المسترشد في سياق العنصرية البنيوية
 
-### Feminist & Womanist Psychology
-- **Gender and power:** patriarchy as systemic oppression of women and gender-nonconforming people
-- **Marginalization of women's knowledge:** women's voices, experiences, wisdom systematized into theory
-- **Standpoint epistemology:** those experiencing oppression have unique insights
-- **Womanist frameworks:** Black feminist theory emphasizing interconnection, spirituality, community
+### علم النفس النسوي والنسائي الأسود
+- **الجندر والسلطة:** البطريركية قهرٌ بنيوي للنساء والأشخاص غير المتوافقين جندرياً
+- **تهميش معرفة النساء:** تنظيم أصوات النساء وخبراتهن وحكمتهن في نظرية
+- **إبستمولوجيا الموقف:** من يعاني القهر يملك رؤى فريدة
+- **أطر نسائية سوداء:** نظرية نسوية سوداء تشدد على الترابط والروحانية والمجتمع
 
-### Postcolonial Psychology
-- **Colonialism's psychological legacy:** internalized inferiority, language loss, cultural disconnection
-- **Decolonization:** reclaiming agency, cultural restoration, challenging Western psychology's universality
-- **Critique of Western psychology:** awareness that Western counseling models are culturally embedded, not universally applicable
+### علم النفس ما بعد الاستعماري
+- **الإرث النفسي للاستعمار:** الدونية المستبطَنة، وفقدان اللغة، والانفصال الثقافي
+- **إنهاء الاستعمار:** استرجاع الفاعلية، والاستعادة الثقافية، وتحدي عالمية علم النفس الغربي
+- **نقد علم النفس الغربي:** الوعي بأن نماذج الإرشاد الغربية متجذّرة ثقافياً لا عالمية التطبيق
 
-### Queer Theory & Psychology
-- **Queerness beyond sexuality:** resistance to normative categories and constraints
-- **Deconstruction:** questioning "normal," highlighting how categories are socially constructed
-- **Fluidity and multiplicity:** resisting rigid categories; celebrating complexity and change
-- **Implications:** openness to diverse identities, relationship structures, worldviews
+### النظرية الكويرية وعلم النفس
+- **الكويرية بما يتجاوز الجنسانية:** مقاومة الفئات والقيود المعيارية
+- **التفكيك:** التشكيك في "الطبيعي"، وإبراز كون الفئات بناءً اجتماعياً
+- **السيولة والتعدد:** مقاومة الفئات الجامدة؛ والاحتفاء بالتعقيد والتغير
+- **الدلالات:** الانفتاح على الهويات وبنى العلاقات ونظرات العالم المتنوعة
 
-## Skills & Competencies for Multicultural Social Justice Counseling
+## مهارات وكفايات الإرشاد متعدد الثقافات والعدالة الاجتماعية
 
-- Knowledge of systemic oppression: racism, sexism, heterosexism, classism, ableism, colonialism
-- Understanding of identity development across multiple dimensions
-- Awareness of personal identities, biases, privileges, and limitations
-- Cultural humility: openness to learning, accountability, recognizing power dynamics
-- Language skills: working with interpreters, addressing language barriers
-- Knowledge of relevant history: slavery, colonialism, genocides, civil rights movements
-- Comfort with social justice concepts: activism, advocacy, systemic change
-- Ability to validate external oppression without pathologizing
-- Skill in recognizing and addressing microaggressions (both others' and own)
-- Group work and community organizing experience
-- Advocacy and systems-level thinking
+- معرفة بالقهر البنيوي: العنصرية، والتمييز الجنسي، والمعيارية الجنسية المغايرة، والتمييز الطبقي، والتمييز ضد ذوي الإعاقة، والاستعمار
+- فهم تطور الهوية عبر أبعاد متعددة
+- الوعي بالهويات الشخصية والتحيزات والامتيازات والحدود
+- التواضع الثقافي: انفتاح على التعلم، ومساءلة، وإدراك ديناميكيات السلطة
+- مهارات لغوية: العمل مع المترجمين، ومعالجة حواجز اللغة
+- معرفة بالتاريخ ذي الصلة: العبودية، والاستعمار، والإبادات، وحركات الحقوق المدنية
+- الارتياح مع مفاهيم العدالة الاجتماعية: النشاط، والمناصرة، والتغيير البنيوي
+- القدرة على تصديق القهر الخارجي دون تحويله إلى مرض
+- مهارة في إدراك ومعالجة الاعتداءات الدقيقة (لدى الآخرين والذات)
+- خبرة في العمل الجماعي والتنظيم المجتمعي
+- المناصرة والتفكير على مستوى الأنظمة
 
-## Related Branches
+## فروع ذات صلة
 
-- [[br-lgbtq-counseling]] — specialized focus on sexual and gender minorities
-- [[br-grief-counseling]] — grief and trauma related to oppression
-- [[br-crisis-counseling]] — supporting clients in crisis due to discrimination/violence
+- [[br-lgbtq-counseling]] — تركيز متخصص على الأقليات الجنسية والجندرية
+- [[br-grief-counseling]] — الحزن والصدمة المرتبطان بالقهر
+- [[br-crisis-counseling]] — دعم المسترشدين في أزمة بسبب التمييز/العنف
 
-## Key Figures
+## أعلام بارزون
 
-- Derald Wing Sue — multicultural counseling competencies, racial microaggressions
-- Patricia Arredondo — Multicultural Counseling Competencies (AMCD)
-- Lillian Comas-Díaz — multicultural feminism, Latina/o mental health
-- Kimberlé Crenshaw — intersectionality theory
-- Beverly Daniel Tatum — racial identity development
-- bell hooks — intersectional pedagogy and healing
-- Audre Lorde — Black feminist theory, self-care as political act
-- Frantz Fanon — postcolonial psychology, racism and mental health
-- Linda James Myers — African-centered psychology
+- ديرالد وينغ سو (Derald Wing Sue) — كفايات الإرشاد متعدد الثقافات، والاعتداءات الدقيقة العرقية
+- باتريشيا أريدوندو (Patricia Arredondo) — كفايات الإرشاد متعدد الثقافات (AMCD)
+- ليليان كوماس-دياز (Lillian Comas-Díaz) — النسوية متعددة الثقافات، والصحة النفسية اللاتينية
+- كيمبرلي كرينشو (Kimberlé Crenshaw) — نظرية التقاطعية
+- بيفرلي دانيال تاتوم (Beverly Daniel Tatum) — تطور الهوية العرقية
+- بيل هوكس (bell hooks) — التربية والشفاء التقاطعيان
+- أودري لورد (Audre Lorde) — النظرية النسوية السوداء، والعناية الذاتية فعلاً سياسياً
+- فرانز فانون (Frantz Fanon) — علم النفس ما بعد الاستعماري، والعنصرية والصحة النفسية
+- ليندا جيمس مايرز (Linda James Myers) — علم النفس المتمركز أفريقياً
 
-## Primary Sources
+## المصادر
 
 1. Arredondo, P., Toporek, R., Brown, S.P., Jones, J., Locke, D.C., Sanchez, J., & Stadler, H. (1996). Operationalization of the Multicultural Counseling Competencies. Journal of Multicultural Counseling and Development, 24(1), 42-78.
 2. hooks, b. (2000). All about love: New visions. William Morrow.
 3. Sue, D.W., & Sue, D. (2016). Counseling the culturally diverse: Theory and practice (7th ed.). John Wiley & Sons.
 4. West, C.M. (Ed.). (2010). Violence in the lives of Black women: Battered, Black, and blue. Haworth Press.
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Cultural competence and cultural humility
-- Intersectionality
-- Systemic oppression and trauma
-- Racial identity development
-- Microaggressions
-- Internalized oppression
-- Resilience and resistance
-- Community healing
-- Decolonization
-- Social justice advocacy
-- Identity and belonging
+- الكفاءة الثقافية والتواضع الثقافي
+- التقاطعية
+- القهر البنيوي والصدمة
+- تطور الهوية العرقية
+- الاعتداءات الدقيقة
+- القهر المستبطَن
+- المرونة والمقاومة
+- الشفاء المجتمعي
+- إنهاء الاستعمار
+- مناصرة العدالة الاجتماعية
+- الهوية والانتماء
+</content>

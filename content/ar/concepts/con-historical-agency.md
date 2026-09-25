@@ -17,21 +17,21 @@ gaps: []
 
 # الفاعلية التاريخية (Historical Agency)
 
-## Historical Agency
+## الفاعلية التاريخية
 
-Study of how agency is understood in historical analysis; examines questions of individual choice, collective action, and structural constraint.
+دراسة كيف تُفهَم الفاعلية في التحليل التاريخي؛ تفحص أسئلة الاختيار الفردي، والفعل الجمعي، والقيد البنيوي.
 
-### Key Aspects
+### الجوانب الجوهرية
 
-This node represents part of Section 20: Cross-Cutting Frameworks & Synthesis in historiography.
+تمثّل هذه العقدة جزءاً من القسم 20: الأطر الشاملة والتوليف في التأريخ.
 
-### Historiographical Relevance
+### الصلة التأريخية
 
-These are fundamental concepts in historical epistemology and practice.
+هذه مفاهيم جوهرية في إبستمولوجيا التاريخ وممارسته.
 
-### Related Fields
+### مجالات ذات صلة
 
-- Historiographical theory and practice
-- Philosophy of history
-- Historical methodology
-
+- نظرية التأريخ وممارسته
+- فلسفة التاريخ
+- منهجية التاريخ
+</content>

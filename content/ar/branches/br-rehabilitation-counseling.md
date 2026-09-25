@@ -7,170 +7,171 @@ parent: counseling
 featured: true
 ---
 
-# Rehabilitation Counseling
+# الإرشاد التأهيلي
 
-Rehabilitation counseling is a specialized branch focused on assisting individuals with disabilities—physical, sensory, cognitive, developmental, psychiatric, or acquired—in achieving personal, social, economic, and vocational goals. Grounded in empowerment, dignity, and the social model of disability (rather than purely medical deficit model), rehabilitation counseling supports the full integration of persons with disabilities into community life.
+الإرشاد التأهيلي فرعٌ متخصص يُعنى بمساعدة الأشخاص ذوي الإعاقة — الجسدية، أو الحسية، أو المعرفية، أو النمائية، أو النفسية، أو المكتسَبة — على تحقيق أهداف شخصية واجتماعية واقتصادية ومهنية. وإذ يتجذر في التمكين والكرامة والنموذج الاجتماعي للإعاقة (لا نموذج العجز الطبي المحض)، يدعم الإرشاد التأهيلي اندماج الأشخاص ذوي الإعاقة الكامل في الحياة المجتمعية.
 
-## Historical Development
+## التطور التاريخي
 
-**1918-1930s:** Vocational rehabilitation for returning World War I veterans with disabilities; federal legislation (Vocational Rehabilitation Act, 1920) establishes public rehabilitation programs.
+**1918-عقد الثلاثينيات:** التأهيل المهني لقدامى الحرب العالمية الأولى ذوي الإعاقة؛ وأسّس تشريع فيدرالي (قانون التأهيل المهني، 1920) برامج تأهيل عامة.
 
-**1954 onwards:** Expansion of rehabilitation services beyond vocational focus to address psychological, social, and life adjustment aspects of disability.
+**منذ 1954:** توسّعت خدمات التأهيل لتتجاوز التركيز المهني لتعالج الجوانب النفسية والاجتماعية والتكيفية للإعاقة.
 
-**1970s-1980s:** Independent Living Movement emphasizes self-determination, consumer control, and community integration over institutionalization.
+**عقدا السبعينيات والثمانينيات:** شدّدت حركة الحياة المستقلة على تقرير المصير، وسيطرة المستهلك، والاندماج المجتمعي بدلاً من الإيداع المؤسسي.
 
-**1990s-Present:** American Disability Act (ADA, 1990); emphasis on universal design, accessibility, and full participation; intersectionality with mental health, substance abuse, and chronic illness.
+**منذ التسعينيات حتى اليوم:** قانون الأمريكيين ذوي الإعاقة (ADA، 1990)؛ والتشديد على التصميم الشامل، وإمكانية الوصول، والمشاركة الكاملة؛ والتقاطع مع الصحة النفسية، وإساءة استخدام المواد، والمرض المزمن.
 
-## Conceptual Models
+## النماذج المفاهيمية
 
-### Medical Model
-- **Focus:** disability as individual pathology or defect to be treated/cured
-- **Limitation:** ignores environmental and social barriers; promotes dependence on medical/rehabilitation professionals
-- **Useful for:** understanding underlying conditions, medical treatment coordination
+### النموذج الطبي
+- **التركيز:** الإعاقة اعتلال أو عيب فردي يُعالَج أو يُشفى
+- **القيد:** يتجاهل العوائق البيئية والاجتماعية؛ ويعزز الاعتماد على المتخصصين الطبيين والتأهيليين
+- **مفيد لـ:** فهم الحالات الأساسية، وتنسيق العلاج الطبي
 
-### Social Model of Disability
-- **Core idea:** disability results from interaction between individual characteristics and environmental barriers
-- **Focus:** removing environmental, attitudinal, and systemic barriers
-- **Empowerment:** person with disability is expert on their own needs; society adapts, not individual alone
-- **Modern adoption:** Universal design, accessibility, workplace accommodation, peer support
+### النموذج الاجتماعي للإعاقة
+- **الفكرة الجوهرية:** تنتج الإعاقة من تفاعل خصائص الفرد مع العوائق البيئية
+- **التركيز:** إزالة العوائق البيئية والموقفية والبنيوية
+- **التمكين:** الشخص ذو الإعاقة خبير باحتياجاته؛ والمجتمع هو من يتكيّف لا الفرد وحده
+- **التبني الحديث:** التصميم الشامل، وإمكانية الوصول، والتكييف في مكان العمل، ودعم الأقران
 
-### Biopsychosocial Model
-- **Integrates:** medical (body functions), psychological (cognition, emotion, behavior), and social (relationships, work, community) factors
-- **Assessment:** holistic understanding of disability across domains
-- **Treatment:** addressing biological, psychological, and social dimensions
+### النموذج الحيوي النفسي الاجتماعي
+- **يدمج:** العوامل الطبية (وظائف الجسم)، والنفسية (الإدراك، والانفعال، والسلوك)، والاجتماعية (العلاقات، والعمل، والمجتمع)
+- **التقييم:** فهم شامل للإعاقة عبر المجالات
+- **العلاج:** معالجة الأبعاد الحيوية والنفسية والاجتماعية
 
-### Strength-Based & Recovery-Oriented Model
-- **Assets focus:** identifying strengths, capabilities, talents, resilience
-- **Community participation:** meaningful roles, relationships, contribution
-- **Recovery as goal:** managing disability while pursuing valued life directions
+### النموذج القائم على نقاط القوة والموجَّه نحو التعافي
+- **التركيز على الأصول:** تحديد نقاط القوة والقدرات والمواهب والمرونة
+- **المشاركة المجتمعية:** أدوار وعلاقات ومساهمة ذات معنى
+- **التعافي هدفاً:** إدارة الإعاقة مع السعي نحو اتجاهات حياتية ذات قيمة
 
-## Disability Types & Rehabilitation Approaches
+## أنواع الإعاقة ومقاربات التأهيل
 
-### Physical Disabilities
-- **Spinal cord injury, traumatic brain injury, stroke, amputation, arthritis**
-- **Rehabilitation goals:** mobility aids, accessibility modifications, vocational retraining, independent living skills
-- **Interventions:** physical/occupational therapy coordination, vocational assessment, workplace accommodation planning
+### الإعاقات الجسدية
+- **إصابة النخاع الشوكي، والإصابة الدماغية الرضحية، والسكتة الدماغية، وبتر الأطراف، والتهاب المفاصل**
+- **أهداف التأهيل:** وسائل مساعدة على الحركة، وتعديلات إمكانية الوصول، وإعادة التدريب المهني، ومهارات الحياة المستقلة
+- **التدخلات:** تنسيق العلاج الطبيعي والوظيفي، والتقييم المهني، والتخطيط لتكييف مكان العمل
 
-### Sensory Disabilities
-- **Blindness, deafness, hearing loss, visual impairment**
-- **Rehabilitation:** orientation and mobility training, assistive technology, communication strategies, peer mentoring
-- **Advocacy:** accessibility (braille, ASL interpreters, audio descriptions, captioning)
+### الإعاقات الحسية
+- **العمى، والصمم، وفقدان السمع، وضعف البصر**
+- **التأهيل:** التدريب على التوجه والتنقل، والتقنية المساعدة، واستراتيجيات التواصل، والتوجيه بالأقران
+- **المناصرة:** إمكانية الوصول (برايل، مترجمو لغة الإشارة، الوصف السمعي، الترجمة النصية)
 
-### Cognitive & Developmental Disabilities
-- **Intellectual disability, cerebral palsy, Down syndrome, autism spectrum disorder**
-- **Rehabilitation:** adaptive living skills training, supported employment, behavioral support planning, family counseling
-- **Approach:** person-centered planning, self-advocacy skill-building, community integration
+### الإعاقات المعرفية والنمائية
+- **الإعاقة الذهنية، والشلل الدماغي، ومتلازمة داون، واضطراب طيف التوحد**
+- **التأهيل:** تدريب مهارات الحياة التكيفية، والتوظيف المدعوم، وتخطيط الدعم السلوكي، والإرشاد الأسري
+- **المقاربة:** التخطيط المتمركز حول الشخص، وبناء مهارات المناصرة الذاتية، والاندماج المجتمعي
 
-### Psychiatric Disabilities
-- **Schizophrenia, bipolar disorder, severe depression, PTSD, personality disorders**
-- **Rehabilitation:** psychiatric rehabilitation (psychoeducation, medication management, coping skills, social/vocational goals)
-- **Recovery model:** living successfully despite symptoms; peer support, peer specialists
-- **Integration:** substance use comorbidity common; dual diagnosis treatment
+### الإعاقات النفسية
+- **الفصام، والاضطراب ثنائي القطب، والاكتئاب الشديد، واضطراب ما بعد الصدمة، واضطرابات الشخصية**
+- **التأهيل:** التأهيل النفسي (التثقيف النفسي، وإدارة الدواء، ومهارات المواجهة، والأهداف الاجتماعية والمهنية)
+- **نموذج التعافي:** العيش بنجاح رغم الأعراض؛ دعم الأقران وأخصائيو الأقران
+- **التكامل:** الاعتلال المصاحب بتعاطي المواد شائع؛ علاج التشخيص المزدوج
 
-### Acquired/Chronic Illness
-- **Cancer survivorship, diabetes, chronic pain, ME/CFS, long COVID**
-- **Rehabilitation:** functional restoration, pain management, fatigue strategies, return-to-work planning, identity reconstruction
-- **Focus:** managing condition while achieving valued life goals
+### المرض المكتسَب/المزمن
+- **الناجون من السرطان، والسكري، والألم المزمن، والتعب المزمن، وكوفيد الطويل**
+- **التأهيل:** استعادة الوظيفة، وإدارة الألم، واستراتيجيات التعب، والتخطيط للعودة إلى العمل، وإعادة بناء الهوية
+- **التركيز:** إدارة الحالة مع تحقيق أهداف حياتية ذات قيمة
 
-## Core Rehabilitation Counseling Skills & Interventions
+## مهارات الإرشاد التأهيلي الجوهرية وتدخلاته
 
-### Assessment & Case Formulation
-- **Functional limitation assessment** — activities of daily living (ADLs), instrumental ADLs, work capacity
-- **Environmental assessment** — accessibility barriers, community resources, support systems
-- **Vocational assessment** — interests, abilities, work history, transferable skills
-- **Psychosocial assessment** — coping, adjustment, mental health, substance use, family dynamics
+### التقييم وصياغة الحالة
+- **تقييم القصور الوظيفي** — أنشطة الحياة اليومية، والأنشطة الآلية اليومية، والقدرة على العمل
+- **التقييم البيئي** — عوائق إمكانية الوصول، والموارد المجتمعية، وأنظمة الدعم
+- **التقييم المهني** — الاهتمامات، والقدرات، وتاريخ العمل، والمهارات القابلة للنقل
+- **التقييم النفسي الاجتماعي** — المواجهة، والتكيف، والصحة النفسية، وتعاطي المواد، وديناميكيات الأسرة
 
-### Counseling & Adjustment
-- **Coping with disability** — grief, loss of identity, adjusting to changed body/function
-- **Psychological adjustment phases** — shock/denial, grief, anger, adaptation
-- **Self-advocacy and empowerment** — assertiveness, rights knowledge, consumer involvement
-- **Peer support and mentoring** — connection with others with similar disabilities
+### الإرشاد والتكيف
+- **مواجهة الإعاقة** — الحزن، وفقدان الهوية، والتكيف مع جسد/وظيفة متغيرة
+- **مراحل التكيف النفسي** — الصدمة/الإنكار، والحزن، والغضب، والتكيف
+- **المناصرة الذاتية والتمكين** — الحزم، ومعرفة الحقوق، ومشاركة المستهلك
+- **دعم الأقران والتوجيه** — التواصل مع آخرين ذوي إعاقات مشابهة
 
-### Vocational Rehabilitation
-- **Vocational evaluation** — determining work potential, interests, transferable skills
-- **Retraining** — education for new occupations accessible with disability
-- **Job development and placement** — identifying accommodations needed, employer education
-- **Supported employment** — ongoing support for job success
-- **Work incentives planning** — navigating benefits while earning income
+### التأهيل المهني
+- **التقييم المهني** — تحديد إمكانات العمل، والاهتمامات، والمهارات القابلة للنقل
+- **إعادة التدريب** — تعليم لمهن جديدة يمكن الوصول إليها مع الإعاقة
+- **تطوير الوظائف وتوظيفها** — تحديد التكييفات اللازمة، وتثقيف أصحاب العمل
+- **التوظيف المدعوم** — دعم مستمر لنجاح العمل
+- **التخطيط لحوافز العمل** — التنقل بين المزايا مع كسب الدخل
 
-### Life Management & Independent Living
-- **Adaptive living skills** — home accessibility modifications, assistive technology, alternative communication
-- **Transportation** — access to paratransit, accessible public transit, driver rehabilitation
-- **Community integration** — housing, social activities, civic participation
-- **Attendant care management** — coordinating personal assistance services if needed
+### إدارة الحياة والعيش المستقل
+- **مهارات الحياة التكيفية** — تعديلات إمكانية الوصول في المنزل، والتقنية المساعدة، والتواصل البديل
+- **النقل** — الوصول إلى النقل التكميلي، والنقل العام الميسَّر، وإعادة تأهيل السائقين
+- **الاندماج المجتمعي** — السكن، والأنشطة الاجتماعية، والمشاركة المدنية
+- **إدارة رعاية المرافقين** — تنسيق خدمات المساعدة الشخصية عند الحاجة
 
-### Family Counseling & Support
-- **Family adjustment** — addressing grief, guilt, identity changes, caregiving burden
-- **Caregiver support** — respite care, mental health services, support groups
-- **Education** — understanding disability, available resources, advocacy opportunities
+### الإرشاد الأسري والدعم
+- **تكيف الأسرة** — معالجة الحزن، والذنب، وتغيرات الهوية، وعبء الرعاية
+- **دعم مقدمي الرعاية** — رعاية الراحة، وخدمات الصحة النفسية، ومجموعات الدعم
+- **التثقيف** — فهم الإعاقة، والموارد المتاحة، وفرص المناصرة
 
-### Advocacy & Systems Navigation
-- **Accessibility advocacy** — pushing for environmental and policy changes
-- **Benefits counseling** — understanding disability benefits, work incentives, health insurance options
-- **ADA rights education** — employment, education, public accommodations, communication access
-- **Peer advocacy and self-determination** — consumer-directed services, person-centered planning
+### المناصرة والتنقل بين الأنظمة
+- **مناصرة إمكانية الوصول** — الدفع نحو تغييرات بيئية وسياسية
+- **إرشاد المزايا** — فهم مزايا الإعاقة، وحوافز العمل، وخيارات التأمين الصحي
+- **تثقيف حقوق قانون الأمريكيين ذوي الإعاقة** — التوظيف، والتعليم، والأماكن العامة، والوصول إلى التواصل
+- **المناصرة بالأقران وتقرير المصير** — خدمات موجَّهة من المستهلك، وتخطيط متمركز حول الشخص
 
-## Related Specializations
+## تخصصات ذات صلة
 
-### Vocational Rehabilitation
-- Focus on return-to-work and occupational placement
-- Coordination with employers, vocational training programs
+### التأهيل المهني
+- التركيز على العودة إلى العمل والتوظيف المهني
+- التنسيق مع أصحاب العمل وبرامج التدريب المهني
 
-### Psychiatric Rehabilitation
-- Specialist in mental health disabilities
-- Psychoeducation, coping strategies, recovery models
-- Peer specialists with lived experience
+### التأهيل النفسي
+- متخصص بإعاقات الصحة النفسية
+- التثقيف النفسي، واستراتيجيات المواجهة، ونماذج التعافي
+- أخصائيو أقران ذوو خبرة معيشة
 
-### Blind Rehabilitation
-- Specialist training with visual impairment
-- Orientation and mobility, independent living, vocational skills specific to blindness
+### تأهيل المكفوفين
+- تدريب متخصص مع ضعف البصر
+- التوجه والتنقل، والحياة المستقلة، والمهارات المهنية الخاصة بالعمى
 
-### Deafness Rehabilitation & Deaf Services
-- Knowledge of Deaf culture, ASL communication
-- Deaf community connection, advocacy for accessibility
+### تأهيل الصمّ وخدماته
+- معرفة بثقافة الصمّ والتواصل بلغة الإشارة
+- التواصل مع مجتمع الصمّ، ومناصرة إمكانية الوصول
 
-## Rehabilitation Counselor Competencies
+## كفايات المرشد التأهيلي
 
-- Comprehensive disability assessment across functioning domains
-- Knowledge of medical conditions, medications, side effects, prognosis
-- Vocational assessment and job development
-- Assistive technology and accessibility knowledge
-- Advocacy skills and knowledge of disability rights legislation (ADA, Section 504, SSI/SSDI)
-- Counseling skills for adjustment, grief, empowerment
-- Cultural competence including Deaf culture, disability culture
-- Self-awareness regarding attitudes toward disability (medical vs. social model)
-- Collaboration with medical providers, vocational trainers, employers, community agencies
+- تقييم شامل للإعاقة عبر مجالات الأداء
+- معرفة بالحالات الطبية والأدوية وآثارها الجانبية والتنبؤ
+- التقييم المهني وتطوير الوظائف
+- معرفة بالتقنية المساعدة وإمكانية الوصول
+- مهارات المناصرة ومعرفة تشريعات حقوق الإعاقة (ADA، القسم 504، الضمان التكميلي/تأمين العجز)
+- مهارات الإرشاد للتكيف والحزن والتمكين
+- الكفاءة الثقافية بما فيها ثقافة الصمّ وثقافة الإعاقة
+- الوعي الذاتي إزاء المواقف تجاه الإعاقة (النموذج الطبي مقابل الاجتماعي)
+- التعاون مع مقدمي الرعاية الطبية والمدربين المهنيين وأصحاب العمل والوكالات المجتمعية
 
-## Related Branches
+## فروع ذات صلة
 
-- [[br-career-counseling]] — vocational aspects of rehabilitation
-- [[br-grief-counseling]] — adjustment to acquired disability
-- [[br-multicultural-counseling-expansion]] — intersectionality of disability with culture, race, LGBTQ+ identity
+- [[br-career-counseling]] — الجوانب المهنية للتأهيل
+- [[br-grief-counseling]] — التكيف مع الإعاقة المكتسَبة
+- [[br-multicultural-counseling-expansion]] — تقاطع الإعاقة مع الثقافة والعرق وهوية مجتمع الميم
 
-## Key Figures & Movements
+## أعلام وحركات بارزة
 
-- Frank Parsons — early vocational guidance (foundation for rehabilitation)
-- Beatrice Wright — adjustment to disability
-- Fran Sussner Rodgers — family and systemic perspective in rehabilitation
-- Independent Living Movement pioneers (1960s-1970s) — emphasizing consumer control and community integration
-- Disability rights activists — pushing social model and accessibility
+- فرانك بارسونز — التوجيه المهني المبكر (أساس التأهيل)
+- بياتريس رايت (Beatrice Wright) — التكيف مع الإعاقة
+- فران سسنر رودجرز (Fran Sussner Rodgers) — منظور أسري ونُظُمي في التأهيل
+- رواد حركة الحياة المستقلة (عقدا الستينيات والسبعينيات) — التشديد على سيطرة المستهلك والاندماج المجتمعي
+- ناشطو حقوق الإعاقة — الدفع نحو النموذج الاجتماعي وإمكانية الوصول
 
-## Primary Sources
+## المصادر
 
 1. Leahy, M.J., Muenzen, P., Saunders, J.L., & Strauser, D. (2009). Essential knowledge domains for contemporary rehabilitation counselors. Journal of Rehabilitation Administration, 33(1), 19-32.
 2. Parker, R.M., & Patterson, J.B. (2010). Rehabilitation counseling: Basics and beyond (4th ed.). Pro-Ed.
 3. Roessler, R.T., Rubin, S.E., & Rumrill, P.D. (2007). Case management and rehabilitation counseling: Procedures and techniques (4th ed.). Pro-Ed.
 4. Smart, J.F. (2009). Disability across the developmental lifespan: For the rehabilitation counselor. Springer Publishing.
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Functional limitation
-- Assistive technology
-- Environmental accessibility
-- Disability rights and advocacy
-- Person-centered planning
-- Independent living
-- Supported employment
-- Vocational rehabilitation
-- Recovery from psychiatric disability
-- Disability culture
+- القصور الوظيفي
+- التقنية المساعدة
+- إمكانية الوصول البيئية
+- حقوق الإعاقة والمناصرة
+- التخطيط المتمركز حول الشخص
+- الحياة المستقلة
+- التوظيف المدعوم
+- التأهيل المهني
+- التعافي من الإعاقة النفسية
+- ثقافة الإعاقة
+</content>

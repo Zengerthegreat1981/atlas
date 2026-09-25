@@ -15,36 +15,36 @@ related:
 - id: "sch-modern-arabic-linguistics", title: "اللغوياتُ العربيةُ الحديثة (Modern Arabic Linguistics)", type: "مدرسة"
 - id: "thk-tammam-hassan", title: "تمّام حسّان", type: "مفكر"
 - id: "wrk-al-lugha-al-arabiya-manaha-wa-mabnaha-hassan", title: "اللغةُ العربية معناها ومبناها", type: "أثر"
-gaps: []
+gaps: ["متنُ هذا الملف عام عن الدلالة والتداولية ولا يشرح نظرية القرائن عند تمّام حسّان تحديداً؛ أُضيف شرح مختصر لها أعلى المتن العام المحتفَظ به."]
 ---
 
 # نظريةُ القرائن عند تمّام حسّان
 
-## Definition
+## التعريف
 
-This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
+طوّر اللغوي المصري تمّام حسّان في كتابه "اللغة العربية معناها ومبناها" نظرية القرائن بوصفها بديلاً عربياً أصيلاً عن نظرية العامل النحوي التقليدية. وترى النظرية أن دلالة التركيب النحوي العربي (كالإعراب ووظائفه) لا تُفهَم بعامل لفظي مفرد يُحدِث الأثر الإعرابي، بل عبر تضافر "قرائن" متعددة — لفظية ومعنوية وموقعية — يتعاضد بعضها مع بعض ليكشف المعنى التركيبي للجملة، وهي نظرية استفادت من مناهج اللسانيات البنيوية الحديثة في وصف العربية.
 
-## Theoretical Framework
+## الإطار النظري
 
-Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
+يُعنى هذا المفهوم بكيفية عمل المعنى في اللغة والتواصل. تفسّر الدلالة والتداولية معاً كيف يستخلص الناس المعنى من الأقوال في سياقها. وتنقسم القرائن عند حسّان إلى قرائن لفظية (كأدوات الربط والصيغ الصرفية) وقرائن معنوية (كالسياق الدلالي) وقرائن موقعية (كترتيب الكلمات في الجملة العربية ذات الترتيب المرن نسبياً)، وتتضافر كلها معاً لتحديد المعنى التركيبي دون الحاجة لافتراض "عامل" نحوي مجرد.
 
-## Key Principles
+## المبادئ الجوهرية
 
-- Meaning is systematic: Similar utterances have related meanings
-- Meaning is compositional: Sentence meaning derives from parts
-- Meaning is context-dependent: Context affects interpretation
-- Meaning is negotiated: Speaker and listener collaborate on interpretation
+- المعنى منهجي: للأقوال المتشابهة معانٍ مترابطة
+- المعنى تركيبي: يُستمَد معنى الجملة من أجزائها
+- المعنى معتمد على السياق: يؤثر السياق في التفسير
+- تتضافر القرائن المتعددة (لا عامل واحد) لتحديد الوظيفة النحوية والدلالية للعنصر في الجملة العربية
 
-## Evidence Sources
+## مصادر الأدلة
 
-Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
+توحي الكليات اللغوية بمبادئ تنظيم المعنى. ويُظهر التنوع بين اللغات خيارات خاصة بكل لغة ضمن قيود عالمية، وتُعَدّ نظرية القرائن مساهمة عربية أصيلة في هذا النقاش عبر وصفها الوظيفي البديل عن نظرية العامل التقليدية.
 
-## Contemporary Applications
+## التطبيقات المعاصرة
 
-Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+تتطلب تقنية الكلام تحليلاً دلالياً وتداولياً. وتظل نظرية القرائن مرجعاً في تدريس النحو العربي الوظيفي والدراسات اللسانية العربية الحديثة.
 
-## References
+## المصادر
 
+- حسّان، تمّام. اللغة العربية معناها ومبناها.
 - Lyons, J. (1977). *Semantics*. Cambridge University Press.
-- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
-
+</content>

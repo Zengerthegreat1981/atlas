@@ -14,9 +14,9 @@ language: "الإسبانية، البرتغالية"
 active_start: 1850
 active_end: 1930
 edges:
-- rel: "evolved_from", target: "sch-comtian-positivism", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-comtean-positivism", target_type: "مدرسة"
 related:
-- id: "sch-comtian-positivism", title: "الوضعية / الكومتية", type: "مدرسة"
+- id: "sch-comtean-positivism", title: "الوضعية السوسيولوجية الكلاسيكية", type: "مدرسة"
 - id: "sch-arielismo", title: "فلسفة الهوية اللاتينية الأمريكية (الأرييلية)", type: "مدرسة"
 - id: "sch-liberation-philosophy", title: "فلسفة التحرير اللاتينية الأمريكية", type: "مدرسة"
 gaps:

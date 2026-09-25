@@ -7,120 +7,120 @@ parent: twelve-step fellowships, mutual-aid
 featured: true
 ---
 
-# Al-Anon & Nar-Anon: Support for Families of Alcoholics and Drug Addicts
+# Al-Anon وNar-Anon: دعم أسر مدمني الكحول والمخدرات
 
-Al-Anon and Nar-Anon are twelve-step fellowships for families and friends of people with alcohol and drug addiction. Rather than treating the addicted person, these programs help family members recover from the effects of living with addiction and change dysfunctional family patterns.
+Al-Anon وNar-Anon رابطتا خطوات اثنتي عشرة لأسر وأصدقاء المصابين بإدمان الكحول والمخدرات. وبدلاً من معالجة الشخص المدمن، تساعد هذه البرامج أفراد الأسرة على التعافي من آثار العيش مع الإدمان وتغيير أنماط الأسرة المختلة.
 
-## Al-Anon (Families of Alcoholics)
+## Al-Anon (أسر مدمني الكحول)
 
-**Founded:** 1951 (by wives of AA members)
-**Members:** 500,000+ globally
-**Purpose:** Help families of alcoholics recover from effects of alcoholism on the family system
+**التأسيس:** 1951 (على يد زوجات أعضاء AA)
+**الأعضاء:** أكثر من 500,000 حول العالم
+**الغرض:** مساعدة أسر مدمني الكحول على التعافي من آثار الإدمان على نظام الأسرة
 
-## Nar-Anon (Families of People with Drug Addiction)
+## Nar-Anon (أسر مدمني المخدرات)
 
-**Founded:** 1973 (adapted from Al-Anon model)
-**Members:** 100,000+ globally
-**Purpose:** Help families of people with drug addiction
+**التأسيس:** 1973 (مُكيَّف من نموذج Al-Anon)
+**الأعضاء:** أكثر من 100,000 حول العالم
+**الغرض:** مساعدة أسر مدمني المخدرات
 
-## Core Issues Addressed
+## القضايا الأساسية المعالَجة
 
-- Codependency: over-focus on addicted person's behavior and recovery
-- Enabling: unwittingly supporting addiction through protection/rescue
-- Boundary problems: being drawn into addict's crisis
-- Emotional impact: fear, anger, shame, grief about loved one's addiction
-- Family system dysfunction: roles, communication, conflict
-- Loss of self: identity merged with addicted person's struggles
+- التبعية المشتركة (codependency): التركيز المفرط على سلوك الشخص المدمن وتعافيه
+- التمكين (enabling): دعم الإدمان دون قصد عبر الحماية أو الإنقاذ
+- مشكلات الحدود: الانجرار إلى أزمة المدمن
+- الأثر العاطفي: الخوف والغضب والعار والحزن على إدمان الحبيب
+- اختلال نظام الأسرة: الأدوار والتواصل والصراع
+- فقدان الذات: اندماج الهوية بصراعات الشخص المدمن
 
-## Twelve-Step Adaptation
+## تكييف الخطوات الاثنتي عشرة
 
-- "Admitted powerlessness over the alcoholic/addict"
-- Belief that Higher Power can restore family sanity
-- Focus: family members' recovery, not addict's recovery
-- Detachment with love: caring while letting addict face consequences
-- Self-care: prioritizing own wellbeing over fixing addict
+- "الإقرار بالعجز أمام المدمن"
+- الإيمان بأن قوة عليا يمكن أن تعيد رشد الأسرة
+- التركيز: تعافي أفراد الأسرة لا تعافي المدمن
+- الانفصال بمحبة: الاهتمام مع ترك المدمن يواجه عواقب أفعاله
+- العناية بالذات: تقديم رفاه الفرد على إصلاح المدمن
 
-## Core Principles
+## المبادئ الأساسية
 
-**Detachment with Love:**
-- Stop trying to control, manipulate, or change the addict
-- Allow natural consequences
-- Maintain love and care without enabling
-- Let addict choose recovery or not
+**الانفصال بمحبة:**
+- التوقف عن محاولة التحكم بالمدمن أو التلاعب به أو تغييره
+- السماح بالعواقب الطبيعية
+- الحفاظ على المحبة والاهتمام دون تمكين
+- ترك المدمن يختار التعافي أو لا يختاره
 
-**Personal Recovery:**
-- Focus on own healing and boundaries
-- Recognize family members can't make addict recover
-- Build own life, interests, relationships
-- Emotional growth independent of addict's status
+**التعافي الشخصي:**
+- التركيز على شفاء الفرد وحدوده
+- إدراك أن أفراد الأسرة لا يمكنهم إجبار المدمن على التعافي
+- بناء حياة الفرد واهتماماته وعلاقاته
+- النمو العاطفي بمعزل عن حال المدمن
 
-**Serenity Prayer (AA-based):**
-"God, grant me serenity to accept things I cannot change, courage to change things I can, and wisdom to know the difference"
+**صلاة الرضا (مستمدة من AA):**
+"اللهم امنحني الرضا لأتقبل ما لا أستطيع تغييره، والشجاعة لأغيّر ما أستطيع، والحكمة لأميّز بينهما"
 
-## Meeting Formats
+## صيغ الاجتماعات
 
-- Speaker meetings: members share family stories, recovery journey
-- Step meetings: study twelve steps together
-- Discussion meetings: topic-based (boundaries, detachment, codependency)
-- Sponsorship: one-on-one support and guidance
+- اجتماعات المتحدثين: يشارك الأعضاء قصص أسرهم ورحلة تعافيهم
+- اجتماعات الخطوات: دراسة الخطوات الاثنتي عشرة معاً
+- اجتماعات نقاشية: حول مواضيع كالحدود والانفصال والتبعية المشتركة
+- الرعاية: دعم وتوجيه فردي
 
-## Key Difference from Other Programs
+## الفرق الرئيسي عن برامج أخرى
 
-**vs. CoDA (Codependents Anonymous):**
-- Al-Anon/Nar-Anon: specifically for families of addicts
-- CoDA: broader codependency patterns in any relationship
+**مقابل CoDA (المتبعون المشتركون المجهولون):**
+- Al-Anon/Nar-Anon: خاص بأسر المدمنين تحديداً
+- CoDA: أنماط تبعية مشتركة أوسع في أي علاقة
 
-**vs. ACA (Adult Children):**
-- Al-Anon/Nar-Anon: current family situation (addicted member still present/active)
-- ACA: adult aftermath of childhood family dysfunction
+**مقابل ACA (الأبناء البالغون):**
+- Al-Anon/Nar-Anon: الوضع الأسري الحالي (العضو المدمن ما زال حاضراً/نشطاً)
+- ACA: آثار ما بعد اختلال الأسرة في الطفولة عند البالغين
 
-**vs. AA/NA:**
-- Al-Anon/Nar-Anon: NOT for the addicted person (they go to AA/NA)
-- For family members trying to understand and support differently
+**مقابل AA/NA:**
+- Al-Anon/Nar-Anon: ليست للشخص المدمن (فهو يذهب إلى AA/NA)
+- لأفراد الأسرة الذين يحاولون الفهم والدعم بطريقة مختلفة
 
-## Effectiveness
+## الفعالية
 
-- Research limited; peer-reported benefits significant
-- Family members report: reduced anxiety, clearer boundaries, less enabling
-- Family system improvements: less chaos, better communication
-- Enables detachment even if addict doesn't recover
-- Works best when combined with individual therapy for family members
+- بحث محدود؛ فوائد كبيرة مُبلَّغ عنها من الأقران
+- يُبلِّغ أفراد الأسرة عن: قلق أقل، وحدود أوضح، وتمكين أقل
+- تحسينات في نظام الأسرة: فوضى أقل وتواصل أفضل
+- يتيح الانفصال حتى لو لم يتعافَ المدمن
+- يعمل على أفضل وجه حين يُجمع بعلاج فردي لأفراد الأسرة
 
-## Integration with Family Therapy
+## التكامل مع علاج الأسرة
 
-- Family therapists often recommend Al-Anon/Nar-Anon for non-addicted members
-- Therapeutic work on family patterns alongside twelve-step peer support
-- Sometimes whole family in treatment (addict in rehab, spouse in Al-Anon, children in therapy)
+- كثيراً ما يوصي معالجو الأسرة بـAl-Anon/Nar-Anon لأفراد الأسرة غير المدمنين
+- عمل علاجي على أنماط الأسرة إلى جانب دعم الأقران بالخطوات الاثنتي عشرة
+- أحياناً تُعالَج الأسرة كلها (المدمن في إعادة تأهيل، والزوج في Al-Anon، والأطفال في علاج)
 
-## Challenges & Criticisms
+## التحديات والانتقادات
 
-- **Timing:** family members may attend while addicted member still using (no immediate change visible)
-- **Blame:** "detachment" can feel cold; may increase family distance
-- **Powerlessness:** repeated message can feel disempowering to some
-- **Diverse family structures:** originally designed for spouses; now includes adult children, parents, friends, LGBTQ+ partners
+- **التوقيت:** قد يحضر أفراد الأسرة بينما ما زال العضو المدمن يستخدم (لا تغيّر فوري ظاهر)
+- **اللوم:** قد يبدو "الانفصال" بارداً؛ وقد يزيد المسافة الأسرية
+- **العجز:** الرسالة المتكررة قد تُشعر البعض بضعف التمكين
+- **بنى أسرية متنوعة:** صُمِّم أصلاً للأزواج؛ ويشمل الآن الأبناء البالغين والوالدين والأصدقاء وشركاء المثليين
 
-## When Al-Anon/Nar-Anon Appropriate
+## متى يكون Al-Anon/Nar-Anon مناسباً
 
-- Spouse/partner of person with active or past addiction
-- Adult child of parent with alcoholism/addiction
-- Parent of adult child with addiction
-- Close friend concerned about someone's addiction
-- Anyone affected by living with or caring for addict
+- زوج/شريك شخص مصاب بإدمان حالي أو سابق
+- ابن بالغ لوالد مصاب بإدمان الكحول/المخدرات
+- والد لابن بالغ مصاب بإدمان
+- صديق مقرب قلق على إدمان شخص ما
+- أي شخص تأثر بالعيش مع مدمن أو رعايته
 
-## When Additional Help Needed
+## متى تلزم مساعدة إضافية
 
-- Domestic violence: need safety planning, not just twelve-step
-- Family member's own mental illness: therapy and possibly medication
-- Financial hardship from addict's behavior: financial counseling
-- Children's trauma: specialized child therapy
+- العنف الأسري: يلزم تخطيط للسلامة لا الخطوات الاثنتي عشرة فقط
+- مرض نفسي لدى فرد الأسرة نفسه: علاج وربما دواء
+- ضائقة مالية بسبب سلوك المدمن: استشارة مالية
+- صدمة الأطفال: علاج متخصص للأطفال
 
-## Related Organizations
+## منظمات ذات صلة
 
-- [[org-aa-alcoholics-anonymous]], [[org-na-narcotics-anonymous]] — for the addicted person
-- [[org-coda-codependents-anonymous]] — broader codependency
-- [[org-aca-adult-children-alcoholics]] — adult aftermath of family addiction
+- [[org-aa-alcoholics-anonymous]]، [[org-na-narcotics-anonymous]] — للشخص المدمن
+- [[org-coda-codependents-anonymous]] — تبعية مشتركة أوسع
+- [[org-aca-adult-children-alcoholics]] — آثار ما بعد إدمان الأسرة عند البالغين
 
-## Primary Sources
+## المصادر الأولية
 
 1. Al-Anon Family Group Headquarters (1955). Al-Anon Faces Alcoholism: A Basic Text. Al-Anon Publishing.
 2. Nar-Anon Family Group Headquarters (1987). Nar-Anon Family Group: The Basic Text. Nar-Anon Publishing.

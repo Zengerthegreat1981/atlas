@@ -17,22 +17,22 @@ gaps: []
 
 # الحضور والغياب التاريخي (Historical Presence and Absence)
 
-## Historical Presence and Absence
+## الحضور والغياب التاريخي
 
-Study of how what is and is not present in historical records shapes historical knowledge; examines evidence and absences.
+دراسة كيف يُشكِّل ما هو حاضر وما هو غائب في السجلات التاريخية المعرفةَ التاريخية؛ تفحص الأدلة والغيابات.
 
-### Key Aspects
+### الجوانب الجوهرية
 
-This node represents part of Section 20: Cross-Cutting Frameworks & Synthesis in historiography.
+تمثّل هذه العقدة جزءاً من القسم 20: الأطر الشاملة والتوليف في التأريخ.
 
-### Related Fields
+### مجالات ذات صلة
 
-- Historiographical theory and practice
-- Historical knowledge and representation
-- Contemporary historical scholarship
+- نظرية التأريخ وممارسته
+- المعرفة التاريخية وتمثيلها
+- الدراسات التاريخية المعاصرة
 
-### See Also
+### انظر أيضاً
 
-- Related historiographical concepts
-- Historical methodology
-
+- مفاهيم تأريخية ذات صلة
+- منهجية التاريخ
+</content>

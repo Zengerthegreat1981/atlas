@@ -9,85 +9,85 @@ featured: true
 
 # SMART Recovery
 
-SMART Recovery is a secular, self-directed mutual-aid program for addiction recovery using cognitive-behavioral principles and motivational enhancement. Founded in 1994, SMART offers an evidence-based alternative to twelve-step programs for people preferring non-spiritual, individualistic approach.
+SMART Recovery برنامج تعاضد علماني موجَّه ذاتياً للتعافي من الإدمان، يستخدم مبادئ معرفية سلوكية وتعزيزاً تحفيزياً. تأسس عام 1994، ويقدِّم SMART بديلاً مبنياً على الأدلة لبرامج الخطوات الاثنتي عشرة لمن يفضلون مقاربة غير روحانية وفردانية.
 
-## Overview
+## لمحة عامة
 
-- **Founded:** 1994
-- **Members:** 100,000+ globally; growing
-- **Approach:** Cognitive-behavioral, rational emotive behavior therapy (REBT), motivational enhancement
-- **Cost:** Free (though donations accepted)
-- **Spirituality:** Explicitly secular; no higher power concept
+- **التأسيس:** 1994
+- **الأعضاء:** أكثر من 100,000 حول العالم؛ في نمو
+- **المقاربة:** معرفية سلوكية، علاج عقلاني انفعالي سلوكي (REBT)، تعزيز تحفيزي
+- **التكلفة:** مجاني (وإن كانت التبرعات مقبولة)
+- **الروحانية:** علماني صراحة؛ لا مفهوم قوة عليا
 
-## Four-Point Program
+## البرنامج رباعي النقاط
 
-1. **Building and Maintaining Motivation:** clarifying reasons for recovery; reconnecting to values and goals
-2. **Coping with Urges:** identifying triggers; developing coping strategies (TIPP techniques similar to DBT)
-3. **Managing Thoughts and Behaviors:** thought challenging; identifying unhelpful cognitions; behavior change
-4. **Living a Balanced Life:** addressing broader life issues (relationships, work, health) that support recovery
+1. **بناء الدافعية والحفاظ عليها:** توضيح أسباب التعافي؛ وإعادة الاتصال بالقيم والأهداف
+2. **التكيف مع الرغبات:** تحديد المحفزات؛ وتطوير استراتيجيات تكيف (تقنيات مشابهة لـ TIPP في العلاج السلوكي الجدلي)
+3. **إدارة الأفكار والسلوكيات:** تحدي الأفكار؛ وتحديد المعارف غير المفيدة؛ وتغيير السلوك
+4. **عيش حياة متوازنة:** معالجة قضايا الحياة الأوسع (العلاقات، العمل، الصحة) التي تدعم التعافي
 
-## Cognitive-Behavioral Foundation
+## الأساس المعرفي السلوكي
 
-- **Thought work:** disputing irrational thoughts about substance, control, self-efficacy
-- **Behavioral strategies:** coping skills, alternative activities, environmental management
-- **Motivational enhancement:** building and sustaining intrinsic motivation for change
-- **No disease concept:** addiction as learned behavior changeable through skill-building
+- **العمل على الأفكار:** دحض الأفكار غير العقلانية حول المادة والسيطرة والفاعلية الذاتية
+- **الاستراتيجيات السلوكية:** مهارات التكيف، أنشطة بديلة، إدارة البيئة
+- **التعزيز التحفيزي:** بناء الدافعية الداخلية للتغيير والحفاظ عليها
+- **لا مفهوم مرض:** الإدمان سلوك مكتسب قابل للتغيير عبر بناء المهارات
 
-## Format
+## الصيغة
 
-- **Group meetings:** led by facilitators (often peer or professional)
-- **Self-direction:** no sponsor, no step work; self-directed change
-- **Online tools:** apps, workbooks, digital resources expanding access
-- **Individualized:** members define own goals, strategies
+- **اجتماعات جماعية:** بقيادة ميسِّرين (أقران أو مهنيون غالباً)
+- **التوجيه الذاتي:** لا راعٍ، ولا عمل على خطوات؛ تغيير موجَّه ذاتياً
+- **أدوات عبر الإنترنت:** تطبيقات وكتيبات عمل وموارد رقمية توسِّع الوصول
+- **فردنة:** يحدد الأعضاء أهدافهم واستراتيجياتهم الخاصة
 
-## Evidence Base
+## قاعدة الأدلة
 
-- **Research supported:** multiple RCTs showing effectiveness comparable to AA/NA
-- **Mechanisms:** cognitive change, self-efficacy building, coping skills
-- **Advantages for some:** non-spiritual, self-directed approach appeals to secular/individualistic people
-- **Limitations:** newer so less research history than AA; smaller support network
+- **مدعوم بحثياً:** تجارب عشوائية ضابطة متعددة تُظهر فعالية مماثلة لـAA/NA
+- **الآليات:** التغيير المعرفي، بناء الفاعلية الذاتية، مهارات التكيف
+- **مزايا للبعض:** المقاربة غير الروحانية والموجَّهة ذاتياً تجذب العلمانيين والفردانيين
+- **القيود:** أحدث عهداً فتاريخه البحثي أقصر من AA؛ وشبكة دعم أصغر
 
-## Comparison to Twelve-Step
+## المقارنة بالخطوات الاثنتي عشرة
 
-| Dimension | SMART | AA/NA |
+| البُعد | SMART | AA/NA |
 |---|---|---|
-| Spirituality | None; secular | Higher Power |
-| Approach | Self-directed | Sponsor-guided |
-| Mechanism | Cognitive-behavioral | Spiritual/peer |
-| Duration | Time-limited focus | Lifelong affiliation |
-| Attendance | Optional | Encouraged |
-| Philosophy | Empowerment | Surrender |
+| الروحانية | لا شيء؛ علماني | قوة عليا |
+| المقاربة | موجَّه ذاتياً | بتوجيه راعٍ |
+| الآلية | معرفي سلوكي | روحاني/بين الأقران |
+| المدة | تركيز محدود الزمن | انتماء مدى الحياة |
+| الحضور | اختياري | مُشجَّع |
+| الفلسفة | التمكين | الاستسلام |
 
-## Integration with Professional Treatment
+## التكامل مع العلاج المهني
 
-- Therapist-friendly: explicitly aligned with CBT evidence-base
-- Medication-friendly: evidence-based approach to MAT, psychiatric meds
-- Compatible with therapy: can be used alongside professional treatment
-- Attractive to treatment providers seeking secular alternative
+- ودود مع المعالجين: متوائم صراحة مع قاعدة أدلة العلاج المعرفي السلوكي
+- ودود مع الدواء: مقاربة مبنية على الأدلة تجاه MAT والأدوية النفسية
+- متوافق مع العلاج: يمكن استخدامه إلى جانب العلاج المهني
+- جذاب لمقدمي العلاج الباحثين عن بديل علماني
 
-## Strengths
+## نقاط القوة
 
-- Evidence-based cognitive-behavioral approach
-- Secular; appeals to non-religious people
-- Self-directed; empowerment-focused
-- Compatible with professional treatment
-- Growing resources and meetings
+- مقاربة معرفية سلوكية مبنية على الأدلة
+- علماني؛ يجذب غير المتدينين
+- موجَّه ذاتياً؛ يركز على التمكين
+- متوافق مع العلاج المهني
+- موارد واجتماعات متنامية
 
-## Limitations
+## القيود
 
-- Smaller network than AA/NA (fewer meetings in some areas)
-- Newer so less long-term outcome data
-- May not address spiritual/meaning aspects some people need
-- Self-direction requires higher motivation/capability
+- شبكة أصغر من AA/NA (اجتماعات أقل في بعض المناطق)
+- أحدث عهداً فبيانات النتائج طويلة الأمد أقل
+- قد لا يعالج الجوانب الروحانية/المعنوية التي يحتاجها البعض
+- التوجيه الذاتي يتطلب دافعية وقدرة أعلى
 
-## Related Alternatives
+## بدائل ذات صلة
 
-- [[org-lifering]] — secular, empowerment-focused
-- [[org-refuge-recovery]] — Buddhist-informed alternative
-- [[org-wfs-women-for-sobriety]] — women-focused alternative
-- Professional cognitive-behavioral addiction treatment
+- [[org-lifering]] — علماني، يركز على التمكين
+- [[org-refuge-recovery]] — بديل مستوحى من البوذية
+- [[org-wfs-women-for-sobriety]] — بديل يركز على النساء
+- علاج الإدمان المعرفي السلوكي المهني
 
-## Primary Sources
+## المصادر الأولية
 
 1. Horvath, A.T. (2000). SMART Recovery: Addiction recovery without a sponsor. Rational Recovery Press.
 2. Humphreys, K., et al. (2004). Self-help organizations for alcohol and drug problems: Toward evidence-based practice and policy. Journal of Substance Abuse Treatment, 26(3), 151-158.

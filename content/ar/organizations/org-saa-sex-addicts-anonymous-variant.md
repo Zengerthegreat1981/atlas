@@ -6,107 +6,107 @@ part: psychology
 parent: twelve-step fellowships, mutual-aid
 ---
 
-# Sex Addicts Anonymous (SAA) - Broader Definition
+# مدمنو الجنس المجهولون (SAA) — التعريف الأوسع
 
-Sex Addicts Anonymous is a twelve-step fellowship for people struggling with sexual addiction, compulsive sexual behavior, and sexual trauma. Founded in 1977, SAA operates with a broader definition of sexual addiction than some fellowships, including a wider range of compulsive sexual behaviors.
+مدمنو الجنس المجهولون رابطة خطوات اثنتي عشرة للمصارعين مع الإدمان الجنسي والسلوك الجنسي القهري وصدمة الجنس. تأسست عام 1977، وتعمل SAA بتعريف أوسع للإدمان الجنسي من بعض الرابطات الأخرى، ويشمل طيفاً أعرض من السلوكيات الجنسية القهرية.
 
-## Overview
+## لمحة عامة
 
-- **Founded:** 1977
-- **Members:** 200,000+ globally (larger than SA/SLAA)
-- **Focus:** Sexual addiction broadly defined
-- **Model:** Twelve-step, peer-led
-- **Flexibility:** Range of acceptable sexual behaviors in recovery
+- **التأسيس:** 1977
+- **الأعضاء:** أكثر من 200,000 حول العالم (أكبر من SA/SLAA)
+- **التركيز:** إدمان جنسي مُعرَّف بشكل أوسع
+- **النموذج:** خطوات اثنتا عشرة، بقيادة الأقران
+- **المرونة:** طيف من السلوكيات الجنسية المقبولة في التعافي
 
-## Broader Definition of Sexual Addiction in SAA
+## التعريف الأوسع للإدمان الجنسي في SAA
 
-**Versus Sexaholics Anonymous (SA), SAA defines sexual addiction more broadly:**
+**مقابل Sexaholics Anonymous (SA)، تُعرِّف SAA الإدمان الجنسي بشكل أوسع:**
 
-**SAA includes:**
-- Pornography use and compulsive masturbation
-- Compulsive casual sex and multiple partners
-- Sexual fantasy and obsession
-- Exhibitionism, voyeurism, boundary violations
-- But also: healthy sexuality possible within recovery
+**تشمل SAA:**
+- استخدام الإباحية والاستمناء القهري
+- الجنس العرضي القهري وشركاء متعددون
+- الخيال والهوس الجنسي
+- الاستعراضية، والتلصص، وانتهاك الحدود
+- لكن أيضاً: جنسانية صحية ممكنة ضمن التعافي
 
-**SA often defines:**
-- More restrictive: may view all sexual activity outside marriage as problematic
-- Emphasis on complete sexual abstinence during early recovery
-- Less flexibility on what "sobriety" means
+**كثيراً ما تُعرِّف SA:**
+- بشكل أكثر تقييداً: قد تعتبر أي نشاط جنسي خارج الزواج إشكالياً
+- تشديد على امتناع جنسي كامل خلال التعافي المبكر
+- مرونة أقل حول معنى "الرصانة"
 
-## Twelve-Step Adaptation
+## تكييف الخطوات الاثنتي عشرة
 
-Similar to SA but:
-- Definition of sobriety left to individual member (vs. prescriptive in some meetings)
-- Some meetings emphasize "bottom line" behavior; others more flexible
-- Recognition that sexual recovery includes healthy sexuality
+مماثل لـSA لكن:
+- تعريف الرصانة متروك للعضو الفرد (مقابل كونه توجيهياً في بعض الاجتماعات)
+- بعض الاجتماعات تشدد على سلوك "الحد الأدنى"؛ وأخرى أكثر مرونة
+- اعتراف بأن التعافي الجنسي يشمل جنسانية صحية
 
-## Core Issues
+## القضايا الأساسية
 
-- Porn addiction and compulsive viewing
-- Compulsive masturbation
-- Sexual acting out and multiple partners
-- Sexual behavior as coping mechanism
-- Trauma and sexual abuse history
-- Fantasy-driven sexuality
+- إدمان الإباحية والمشاهدة القهرية
+- الاستمناء القهري
+- التصرف الجنسي وشركاء متعددون
+- السلوك الجنسي كآلية تكيف
+- تاريخ صدمة وإساءة جنسية
+- جنسانية مدفوعة بالخيال
 
-## Meetings & Support
+## الاجتماعات والدعم
 
-- Sponsorship: experienced member guides through steps
-- Meetings: discussion-based, speaker-led
-- Accountability: partner or group check-ins
-- Often smaller, more intimate than large AA-style meetings
+- الرعاية: عضو ذو خبرة يوجِّه عبر الخطوات
+- الاجتماعات: نقاشية، بقيادة متحدثين
+- المساءلة: متابعة مع الشريك أو المجموعة
+- كثيراً ما تكون أصغر وأكثر حميمية من اجتماعات AA الكبيرة
 
-## Sobriety Definition Flexibility
+## مرونة تعريف الرصانة
 
-**Variation within SAA:**
-- Some define: complete abstinence from sexual behavior (including masturbation) early on
-- Others: abstinence from compulsive behavior, healthy sexuality acceptable
-- Individual negotiation with sponsor about what sobriety means
-- Less prescriptive than some fellowships
+**تنوّع داخل SAA:**
+- يعرِّفها البعض: امتناع كامل عن السلوك الجنسي (بما فيه الاستمناء) في البداية
+- وآخرون: امتناع عن السلوك القهري، مع قبول جنسانية صحية
+- تفاوض فردي مع الراعي حول معنى الرصانة
+- أقل توجيهية من بعض الرابطات
 
-## Comorbidities
+## الاعتلالات المصاحبة
 
-- Often linked to other addictions (substance, relationship, gambling)
-- Trauma history common (abuse, abandonment)
-- Mental health: depression, anxiety
-- Requires integrated treatment
+- كثيراً ما ترتبط بإدمانات أخرى (المواد، العلاقات، المقامرة)
+- تاريخ صدمة شائع (إساءة، تخلٍّ)
+- الصحة النفسية: الاكتئاب والقلق
+- يتطلب علاجاً متكاملاً
 
-## Relationship to Other Sexual Fellowships
+## العلاقة برابطات جنسية أخرى
 
-- [[org-saa-sexaholics-anonymous]] — alternative, often more restrictive sobriety definition
-- [[org-slaa-sex-love-addicts-anonymous]] — includes love/romance addiction
-- All three address sexual compulsivity using twelve-step model
+- [[org-saa-sexaholics-anonymous]] — بديل، وغالباً تعريف رصانة أكثر تقييداً
+- [[org-slaa-sex-love-addicts-anonymous]] — تشمل إدمان الحب/الرومانسية
+- تعالج الثلاثة كلها القهر الجنسي باستخدام نموذج الخطوات الاثنتي عشرة
 
-## Gender Dynamics
+## ديناميات الجنس
 
-- Predominantly male but growing women's attendance
-- Women often have different acting-out patterns than men
-- Women's groups addressing gender-specific issues (trauma, shame)
-- Some men uncomfortable with women in groups (historically male-dominated)
+- ذكورية بالغالب لكن حضور النساء في نمو
+- كثيراً ما يكون للنساء أنماط تصرف مختلفة عن الرجال
+- مجموعات نسائية تعالج قضايا خاصة بالجنس (الصدمة، العار)
+- بعض الرجال غير مرتاحين لوجود نساء في المجموعات (هيمنة ذكورية تاريخياً)
 
-## Integration with Professional Treatment
+## التكامل مع العلاج المهني
 
-- Sex therapy: SAA as adjunct to therapy
-- Trauma therapy: addressing abuse history alongside recovery
-- Couples therapy: rebuilding relationship after acting out
-- Often needs multi-component treatment
+- العلاج الجنسي: SAA مكمِّل للعلاج
+- علاج الصدمة: معالجة تاريخ الإساءة إلى جانب التعافي
+- علاج الأزواج: إعادة بناء العلاقة بعد التصرف
+- كثيراً ما يحتاج علاجاً متعدد المكونات
 
-## Effectiveness
+## الفعالية
 
-- Research limited (confidentiality and stigma)
-- Peer-reported benefits: abstinence, relationship healing, shame reduction
-- Most effective combined with therapy
-- Ongoing membership supports long-term recovery
+- بحث محدود (السرية والوصمة)
+- فوائد مُبلَّغ عنها من الأقران: الامتناع، شفاء العلاقة، تقليل العار
+- الأكثر فعالية حين يُجمع بالعلاج
+- العضوية المستمرة تدعم التعافي طويل الأمد
 
-## Criticisms
+## الانتقادات
 
-- Shame-based: emphasis on "sexual addiction" can increase shame
-- May pathologize normal sexuality
-- Lack of medical/psychological oversight
-- Potential for controlling sponsor relationships
+- قائمة على العار: التشديد على "الإدمان الجنسي" قد يزيد العار
+- قد تحوّل الجنسانية الطبيعية إلى مرض
+- غياب الإشراف الطبي/النفسي
+- احتمال علاقات رعاية متحكمة
 
-## Primary Sources
+## المصادر الأولية
 
 1. Sex Addicts Anonymous (1991). Sex Addicts Anonymous: The Basic Text. SAA Publishing.
 2. Voon, V., et al. (2014). Neural correlates of sexual cue reactivity in individuals with and without compulsive sexual behaviors. PLoS ONE, 9(7), e102419.

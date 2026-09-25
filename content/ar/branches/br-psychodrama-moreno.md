@@ -7,78 +7,79 @@ parent: group psychotherapy, action-based
 featured: true
 ---
 
-# Psychodrama: Action-Based Group Therapy
+# السيكودراما: علاج جمعي قائم على الفعل
 
-Psychodrama is an action-oriented group therapy method in which participants act out life situations, conflicts, and psychological problems on a stage, using role-playing, role-reversal, and dramatic enactment to gain insight, process emotions, and practice new behaviors. Developed by Jacob L. Moreno, psychodrama emphasizes spontaneity, creativity, and the healing power of dramatic action.
+السيكودراما طريقة علاج جمعي قائمة على الفعل يُمثّل فيها المشاركون مواقف حياتية وصراعات ومشكلات نفسية على خشبة مسرح، مستخدمين تمثيل الأدوار وعكسها والتجسيد الدرامي لاكتساب البصيرة، ومعالجة المشاعر، والتدرب على سلوكيات جديدة. طوّرها جاكوب ل. مورينو (Jacob L. Moreno)، وتشدد السيكودراما على العفوية والإبداع والقوة الشافية للفعل الدرامي.
 
-## Founding & Development
+## التأسيس والتطور
 
-**Jacob L. Moreno (1889-1974):**
-- Psychiatrist, philosopher, innovator in group therapy
-- Developed psychodrama in 1920s Vienna; emigrated to USA
-- Founded American Society of Group Psychotherapy and Psychodrama (ASGPP) 1942
-- Philosophy: humans are inherently creative and spontaneous; drama taps this capacity
+**جاكوب ل. مورينو (1889-1974):**
+- طبيب نفسي وفيلسوف ورائد في العلاج الجمعي
+- طوّر السيكودراما في فيينا في عشرينيات القرن العشرين؛ وهاجر إلى الولايات المتحدة
+- أسّس الجمعية الأمريكية للعلاج الجمعي والسيكودراما (ASGPP) عام 1942
+- فلسفته: البشر مبدعون وعفويون بطبعهم؛ والدراما تستثمر هذه القدرة
 
-## Core Concepts & Techniques
+## المفاهيم والتقنيات الجوهرية
 
-**Key Techniques:**
+**التقنيات الأساسية:**
 
-- **Role-Reversal:** protagonist plays the other person; develops empathy and perspective-taking
-- **Role-Playing:** protagonist acts out situation from own perspective; behavioral rehearsal
-- **Doubling:** auxiliary ego stands beside protagonist, expressing unspoken feelings
-- **Soliloquy:** protagonist speaks aloud inner thoughts and feelings
-- **Mirror:** auxiliary ego enacts how they saw protagonist; insights about perception
-- **The Sharing:** group members empathically share experiences and insights afterward
+- **عكس الأدوار:** يمثّل البطل دور الشخص الآخر؛ ينمّي التعاطف وتبنّي المنظور
+- **تمثيل الأدوار:** يمثّل البطل الموقف من منظوره الخاص؛ تدرّب سلوكي
+- **المضاعفة:** يقف "الأنا المساعد" إلى جانب البطل معبّراً عن المشاعر غير المُفصح عنها
+- **المناجاة:** يعبّر البطل بصوت عالٍ عن أفكاره ومشاعره الداخلية
+- **المرآة:** يمثّل "الأنا المساعد" كيف رأى البطل؛ بصيرة حول الإدراك
+- **المشاركة:** يتشارك أعضاء الجماعة بتعاطف الخبرات والبصائر بعد التمثيل
 
-## Therapeutic Mechanisms
+## الآليات العلاجية
 
-1. **Catharsis:** emotional release through dramatic action
-2. **Insight:** understanding self and others through action
-3. **Behavioral rehearsal:** practice new responses in safe setting
-4. **Empathy development:** role-reversal builds perspective-taking
-5. **Spontaneity:** activation of creative capacity
-6. **Community:** group witnessing and support
+1. **التنفيس:** إفراغ انفعالي عبر الفعل الدرامي
+2. **البصيرة:** فهم الذات والآخرين عبر الفعل
+3. **التدرب السلوكي:** التدرب على استجابات جديدة في إطار آمن
+4. **تنمية التعاطف:** يبني عكس الأدوار تبنّي المنظور
+5. **العفوية:** تنشيط القدرة الإبداعية
+6. **المجتمع:** شهادة الجماعة ودعمها
 
-## Applications
+## التطبيقات
 
-- Trauma and grief processing
-- Interpersonal conflicts and relationships
-- Career and life decisions
-- Social skills and confidence building
-- Organizational team-building
-- Educational settings
+- معالجة الصدمة والفقد
+- الصراعات والعلاقات الشخصية
+- القرارات المهنية والحياتية
+- بناء المهارات الاجتماعية والثقة
+- بناء الفريق التنظيمي
+- الأوساط التعليمية
 
-## Effectiveness
+## الفعالية
 
-- **Research limited:** fewer RCTs than CBT
-- **Clinical observation:** significant emotional release and insight reported
-- **Suitable for:** trauma, relationships, decision-making, self-awareness
-- **Requires skilled director:** needs specialized training
+- **بحث محدود:** تجارب عشوائية مضبوطة أقل من العلاج المعرفي السلوكي
+- **الملاحظة السريرية:** يُبلَّغ عن إفراغ انفعالي وبصيرة كبيرين
+- **مناسبة لـ:** الصدمة، والعلاقات، واتخاذ القرار، والوعي الذاتي
+- **تتطلب موجِّهاً ماهراً:** تحتاج تدريباً متخصصاً
 
-## Advantages
+## المزايا
 
-- Action-based learning through doing
-- Emotionally powerful direct engagement
-- Behavioral rehearsal for new responses
-- Develops empathy through role-reversal
-- Creative and experiential
+- تعلّم قائم على الفعل من خلال الممارسة
+- انخراط مباشر قوي انفعالياً
+- تدرّب سلوكي على استجابات جديدة
+- تنمية التعاطف عبر عكس الأدوار
+- إبداعية وخبراتية
 
-## Limitations
+## القيود
 
-- Emotional intensity can be overwhelming
-- Requires trained director
-- Group-dependent outcomes
-- Not effective for everyone
-- Not suitable for acute crisis or severe mental illness
+- قد تكون الشدة الانفعالية مرهقة
+- تتطلب موجِّهاً مدرَّباً
+- نتائج معتمدة على الجماعة
+- ليست فعالة مع الجميع
+- غير مناسبة للأزمة الحادة أو المرض النفسي الشديد
 
-## Key Figures
+## أعلام بارزون
 
-- Jacob L. Moreno — founder
-- Zerka Moreno — extended his work
-- Marcia Karp — modern development
-- David Kipper — trauma integration
+- جاكوب ل. مورينو — المؤسس
+- زركا مورينو (Zerka Moreno) — وسّعت عمله
+- مارسيا كارب (Marcia Karp) — تطوير حديث
+- ديفيد كيبر (David Kipper) — دمج الصدمة
 
-## Primary Sources
+## المصادر
 
 1. Moreno, J.L. (1987). The essential Moreno: Writings on psychodrama, group method, and spontaneity. Springer.
 2. Kellermann, P.F. (2007). Sociodrama and collective trauma. Jessica Kingsley.
+</content>

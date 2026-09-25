@@ -15,7 +15,7 @@ active_start: 1789
 active_end: 1900
 edges:
 - rel: "evolved_into", target: "sch-utilitarianism-contemporary", target_type: "مدرسة"
-- rel: "belongs_to", target: "sch-comtian-positivism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-comtean-positivism", target_type: "مدرسة"
 related:
 - id: "thk-bentham", title: "جيريمي بنثام", type: "مفكر"
 - id: "que-animal-consciousness-and-rights", title: "هل تمتلك الكائنات غير البشرية وعياً ذاتياً وحقوقاً أخلاقية ملزمة؟", type: "سؤال توليدي"

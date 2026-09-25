@@ -16,7 +16,7 @@ related:
 - id: "sch-buddhism-early", title: "البوذية المبكرة", type: "مدرسة"
 - id: "con-anatta-non-self-concept", title: "الأناتا ونفي الذات الثابتة في البوذية (Anatta)", type: "مفهوم"
 - id: "con-karma-and-samsara", title: "الكارما والسامسارا ودولاب التناسخ (Karma & Samsara)", type: "مفهوم"
-- id: "con-buddhist-emptiness-shunyata", title: "الشُّنْيَاتَى / الفَرَاغ (Śūnyatā)", type: "مفهوم"
+- id: "con-shunyata", title: "شُونْياتا (الفراغ / العدمية الجوهرية)", type: "مفهوم"
 - id: "con-maya-vedanta", title: "مايا (الوهم الفلسفي / الظهور الكوني)", type: "مفهوم"
 gaps:
   - "التحليل الإبستمولوجي واللغوي الدقيق لتطور المفهوم عبر التاريخ."

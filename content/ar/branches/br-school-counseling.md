@@ -7,98 +7,99 @@ parent: counseling
 featured: true
 ---
 
-# School Counseling
+# الإرشاد المدرسي
 
-School counseling is a specialized branch within the counseling profession focused on supporting student development, academic achievement, career readiness, and personal/social growth in K-12 educational settings. Originating from the vocational guidance movement of the early 1900s, the profession has evolved through multiple paradigm shifts to become a comprehensive developmental approach grounded in the ASCA (American School Counselor Association) National Model.
+الإرشاد المدرسي فرعٌ متخصص ضمن مهنة الإرشاد يُعنى بدعم نمو الطلاب، والتحصيل الأكاديمي، والاستعداد المهني، والنمو الشخصي/الاجتماعي في المدارس من الروضة إلى الثانوية. نشأ من حركة التوجيه المهني في أوائل القرن العشرين، وتطور عبر تحولات نموذجية متعددة ليصبح مقاربة نمائية شاملة تتجذر في النموذج الوطني لجمعية المرشدين المدرسيين الأمريكية (ASCA).
 
-## Historical Development
+## التطور التاريخي
 
-**Vocational Guidance Era (1900s-1940s)**
-- Founded by Frank Parsons, who established the Boston Vocational Bureau (1908) as the first formal vocational guidance program
-- Focus: occupational placement and industrial-era labor market preparation
-- Early advocates: Jessie Davis, Meyer Bloomfield, E.W. Weaver
+**حقبة التوجيه المهني (عقود 1900-1940)**
+- أسّسها فرانك بارسونز، الذي أنشأ مكتب بوسطن للتوجيه المهني (1908) بوصفه أول برنامج توجيه مهني رسمي
+- التركيز: التوظيف المهني والإعداد لسوق العمل في العصر الصناعي
+- من الرواد الأوائل: جيسي ديفيس، ومايير بلومفيلد، وإ. و. ويفر
 
-**Service-Delivery Model (1950s-1960s)**
-- Post-WWII expansion; emphasis on varied services: counseling, student appraisal, referral, placement, follow-up
-- National Defense Education Act (1958) provided funding for school counselor training programs
-- Shift toward secondary education focus with gradual expansion to elementary schools (1960s amendments)
+**نموذج تقديم الخدمة (عقدا الخمسينيات والستينيات)**
+- توسّع ما بعد الحرب العالمية الثانية؛ وتشديد على خدمات متنوعة: الإرشاد، وتقييم الطلاب، والإحالة، والتوظيف، والمتابعة
+- وفّر قانون التعليم للدفاع الوطني (1958) تمويلاً لبرامج تدريب المرشدين المدرسيين
+- تحول نحو التركيز على التعليم الثانوي مع توسع تدريجي إلى المدارس الابتدائية (تعديلات الستينيات)
 
-**Mental Health & Guidance Services Model (1960s-1970s)**
-- Integration of mental health intervention alongside vocational and educational guidance
-- Emphasis on remedial and crisis-focused services
-- Growing role ambiguity and administrative task overload begin to emerge
+**نموذج خدمات الصحة النفسية والتوجيه (عقدا الستينيات والسبعينيات)**
+- دمج التدخل في الصحة النفسية إلى جانب التوجيه المهني والتعليمي
+- تشديد على الخدمات العلاجية والموجَّهة نحو الأزمة
+- بدأ ظهور غموض الدور وتراكم المهام الإدارية
 
-**Comprehensive Developmental Guidance & Counseling (1970s-present)**
-- ASCA National Standards for School Counseling Programs established
-- Systems-thinking and developmental theory frameworks adopted
-- Curriculum-based, preventive, and proactive approach to all students (not crisis-only)
-- Integration of academic, career, and personal/social domains
+**التوجيه والإرشاد النمائي الشامل (منذ السبعينيات حتى اليوم)**
+- إنشاء المعايير الوطنية لجمعية المرشدين المدرسيين الأمريكية لبرامج الإرشاد المدرسي
+- تبني أطر التفكير النُّظُمي والنظرية النمائية
+- مقاربة قائمة على المنهج، ووقائية، واستباقية لجميع الطلاب (لا للأزمات فقط)
+- دمج المجالات الأكاديمية والمهنية والشخصية/الاجتماعية
 
-## The ASCA National Model
+## النموذج الوطني لجمعية المرشدين المدرسيين الأمريكية
 
-The comprehensive school counseling program comprises:
+يتألف برنامج الإرشاد المدرسي الشامل من:
 
-1. **Counseling Foundation** — role definition, school counselor competencies, cultural competence
-2. **System Supports** — organizational operations, data systems, partnerships with stakeholders
-3. **Delivery System** — classroom lessons, counseling (individual/small-group), consultation, collaboration
-4. **Themes**
-   - Academic development and achievement
-   - Career development and readiness
-   - Personal/social development and wellness
+1. **أساس الإرشاد** — تعريف الدور، وكفايات المرشد المدرسي، والكفاءة الثقافية
+2. **الدعم النُّظُمي** — العمليات التنظيمية، وأنظمة البيانات، والشراكات مع أصحاب المصلحة
+3. **نظام تقديم الخدمة** — دروس الفصل، والإرشاد (فردي/جماعات صغيرة)، والاستشارة، والتعاون
+4. **المحاور**
+   - النمو والتحصيل الأكاديمي
+   - النمو المهني والاستعداد له
+   - النمو الشخصي/الاجتماعي والعافية
 
-## Core Competencies
+## الكفايات الجوهرية
 
-School counselors are trained in:
-- Child development and psychoeducational assessment
-- Multicultural competence and social justice advocacy
-- Counseling theory and techniques (individual, group, family-informed)
-- Crisis intervention and threat assessment
-- Consultation with teachers, administrators, families
-- Systems-level program evaluation and accountability
+يُدرَّب المرشدون المدرسيون على:
+- نمو الطفل والتقييم النفسي التربوي
+- الكفاءة متعددة الثقافات ومناصرة العدالة الاجتماعية
+- نظرية الإرشاد وتقنياته (فردي، وجمعي، ومسترشد بمنظور الأسرة)
+- التدخل في الأزمات وتقييم التهديد
+- الاستشارة مع المعلمين والإداريين والأسر
+- تقييم البرنامج والمساءلة على المستوى النُّظُمي
 
-## Roles & Activities
+## الأدوار والأنشطة
 
-- **Classroom Guidance** — large-group psychoeducational lessons on life skills
-- **Individual & Small-Group Counseling** — addressing academic, behavioral, personal/social issues
-- **Collaboration & Consultation** — with teachers, families, administrators, community agencies
-- **Assessment & Referral** — appraisal of student needs, linkage to specialized services (mental health, special education, substance abuse treatment)
-- **Program Coordination** — comprehensive program administration, data collection, outcome evaluation
-- **Leadership** — advocacy for students, particularly historically marginalized populations; contributing to school reform
+- **التوجيه الصفي** — دروس نفسية تربوية لمجموعات كبيرة حول مهارات الحياة
+- **الإرشاد الفردي والجماعي الصغير** — معالجة القضايا الأكاديمية والسلوكية والشخصية/الاجتماعية
+- **التعاون والاستشارة** — مع المعلمين والأسر والإداريين والوكالات المجتمعية
+- **التقييم والإحالة** — تقييم حاجات الطلاب، والربط بالخدمات المتخصصة (الصحة النفسية، التعليم الخاص، علاج تعاطي المواد)
+- **تنسيق البرنامج** — إدارة البرنامج الشامل، وجمع البيانات، وتقييم النتائج
+- **القيادة** — مناصرة الطلاب، وخاصة الفئات المهمَّشة تاريخياً؛ والمساهمة في إصلاح المدرسة
 
-## Challenges & Current Debates
+## التحديات والنقاشات الراهنة
 
-- **Role Ambiguity** — persistent disconnect between comprehensive counseling roles and administrative/clerical expectations assigned by school administrators
-- **Noncounseling Duties** — hall duty, attendance monitoring, scheduling, testing coordination pull counselors away from direct services
-- **Resource Allocation** — schools frequently reduce counselor positions during budget constraints despite evidence of effectiveness
-- **Professional Identity** — debate over whether counselor primary allegiance is to the school system or to the student/client
-- **Equity & Access** — uneven distribution of counselor resources across schools; rural and underfunded districts often have minimal counseling services
+- **غموض الدور** — انفصال مستمر بين أدوار الإرشاد الشاملة وتوقعات إدارية/كتابية يفرضها إداريو المدرسة
+- **المهام غير الإرشادية** — مراقبة الممرات، ومتابعة الحضور، والجدولة، وتنسيق الاختبارات تُبعد المرشدين عن الخدمات المباشرة
+- **تخصيص الموارد** — تخفّض المدارس مناصب المرشدين غالباً في ظل قيود الميزانية رغم أدلة الفعالية
+- **الهوية المهنية** — نقاش حول ما إذا كان ولاء المرشد الأساسي للنظام المدرسي أم للطالب/المسترشد
+- **الإنصاف والوصول** — توزيع غير متكافئ لموارد الإرشاد بين المدارس؛ وغالباً ما تملك المناطق الريفية وقليلة التمويل خدمات إرشاد ضئيلة
 
-## Related Branches
+## فروع ذات صلة
 
-- [[br-career-counseling]] — vocational aspects of school counseling
-- [[br-crisis-counseling]] — school-based crisis intervention and threat assessment
-- [[br-multicultural-counseling-expansion]] — culturally responsive school counseling practice
+- [[br-career-counseling]] — الجوانب المهنية للإرشاد المدرسي
+- [[br-crisis-counseling]] — التدخل في الأزمات المدرسية وتقييم التهديد
+- [[br-multicultural-counseling-expansion]] — ممارسة إرشاد مدرسي واعية ثقافياً
 
-## Key Figures
+## أعلام بارزون
 
-- Frank Parsons — founder of vocational guidance (1900s)
-- Gysbers & Henderson — comprehensive program model (1990s-present)
-- Myrick — role definition and supervision literature
-- ASCA Leadership — National Model development and dissemination
+- فرانك بارسونز — مؤسس التوجيه المهني (أوائل القرن العشرين)
+- غيسبرز وهندرسون (Gysbers & Henderson) — نموذج البرنامج الشامل (منذ التسعينيات حتى اليوم)
+- ميريك (Myrick) — أدبيات تعريف الدور والإشراف
+- قيادة جمعية المرشدين المدرسيين الأمريكية — تطوير النموذج الوطني ونشره
 
-## Primary Sources
+## المصادر
 
 1. ASCA National Model (2012). American School Counselor Association.
 2. Gysbers, N.C., & Henderson, P. (2012). Developing and managing your school guidance and counseling program (5th ed.). American School Counselor Association.
 3. Myrick, R.D. (2003). Developmental guidance and counseling: A practical approach (4th ed.). Educational Media Corporation.
 4. Stone, C.B., & Dahir, C.A. (2011). School counselor accountability: A measure of student success (3rd ed.). Pearson Education.
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Comprehensive school guidance programs
-- Developmental counseling
-- Career guidance
-- Psychoeducation
-- Multicultural competence in schools
-- Student wellness
-- Evidence-based counseling interventions in schools
+- برامج التوجيه المدرسي الشاملة
+- الإرشاد النمائي
+- التوجيه المهني
+- التثقيف النفسي
+- الكفاءة متعددة الثقافات في المدارس
+- عافية الطلاب
+- تدخلات الإرشاد القائمة على الأدلة في المدارس
+</content>

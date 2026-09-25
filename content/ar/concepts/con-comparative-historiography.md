@@ -17,23 +17,23 @@ gaps: []
 
 # التاريخ المقارن (Comparative Historiography)
 
-## Comparative Historiography
+## التاريخ المقارن
 
-Method comparing historical processes, events, and developments across regions or time periods to identify patterns.
+منهج يقارن بين العمليات والأحداث والتطورات التاريخية عبر الأقاليم أو الحقب الزمنية لتحديد الأنماط.
 
-### Key Aspects
+### الجوانب الجوهرية
 
-This node represents part of Section 20: Cross-Cutting Frameworks & Synthesis in historiography.
+تمثّل هذه العقدة جزءاً من القسم 20: الأطر الشاملة والتوليف في التأريخ.
 
-### Related Fields
+### مجالات ذات صلة
 
-- Historiographical theory and practice
-- Historiographical ethics and reflexivity
-- Regional and comparative historiography
-- Emerging historiographical fields
+- نظرية التأريخ وممارسته
+- أخلاقيات التأريخ والتأمل الذاتي
+- التأريخ الإقليمي والمقارن
+- مجالات التأريخ الناشئة
 
-### See Also
+### انظر أيضاً
 
-- Related historiographical concepts and schools
-- Contemporary historical scholarship
-
+- مفاهيم ومدارس تأريخية ذات صلة
+- الدراسات التاريخية المعاصرة
+</content>

@@ -6,135 +6,135 @@ part: psychology
 parent: mutual-aid, alternatives-to-twelve-step
 ---
 
-# Women for Sobriety (WFS)
+# نساء من أجل الرصانة (Women for Sobriety, WFS)
 
-Women for Sobriety is a secular, women-specific mutual-aid program for women recovering from substance addiction. Founded in 1976 (predating secular alternatives by decades), WFS addresses the unique needs and experiences of women in addiction recovery, emphasizing emotional and spiritual growth alongside abstinence.
+نساء من أجل الرصانة برنامج تعاضد علماني خاص بالنساء للمتعافيات من إدمان المواد. تأسس عام 1976 (سابقاً على البدائل العلمانية بعقود)، ويعالج WFS الاحتياجات والتجارب الخاصة بالنساء في تعافي الإدمان، مشدداً على النمو العاطفي والروحاني إلى جانب الامتناع.
 
-## Overview
+## لمحة عامة
 
-- **Founded:** 1976 by Jean Kirkpatrick (recovered alcoholic)
-- **Members:** 30,000+ globally
-- **Focus:** Women's recovery; emotional and spiritual growth
-- **Approach:** Thirteen-statement program (adapted from AA's twelve steps)
+- **التأسيس:** 1976 على يد جين كيركباتريك (Jean Kirkpatrick)، مدمنة كحول متعافية
+- **الأعضاء:** أكثر من 30,000 حول العالم
+- **التركيز:** تعافي النساء؛ النمو العاطفي والروحاني
+- **المقاربة:** برنامج من ثلاثة عشر بياناً (مُكيَّف من خطوات AA الاثنتي عشرة)
 
-## Historical Significance
+## الأهمية التاريخية
 
-- **First women-centered recovery program** (before secular alternatives)
-- Predates SMART Recovery, LifeRing, Refuge Recovery
-- Explicitly designed for women's needs and perspectives
-- Maintains women-only meetings (though some now include non-binary)
+- **أول برنامج تعافٍ محوره النساء** (قبل البدائل العلمانية)
+- سابق على SMART Recovery وLifeRing وRefuge Recovery
+- مصمَّم صراحة لاحتياجات النساء ومنظوراتهن
+- يحافظ على اجتماعات للنساء فقط (وإن كان بعضها يشمل الآن غير الثنائيين جندرياً)
 
-## Thirteen-Statement Program
+## برنامج البيانات الثلاثة عشر
 
-Adapted from AA with gender-conscious revisions:
+مُكيَّف من AA بتعديلات واعية بالجندر:
 
-1. Have courage to change
-2. Accept self completely
-3. Love can change the course of my world
-4. Rely on higher power of my own understanding
-5. Improve myself
-6. Create my own happiness
-7. Take responsibility for my life
-8. Refuse to regret the past
-9. Love thyself
-10. Gain knowledge
-11. Practice meditation
-12. Build support group
-13. Give service
+1. الشجاعة على التغيير
+2. تقبّل الذات كاملاً
+3. الحب يمكن أن يغيّر مسار عالمي
+4. الاعتماد على قوة عليا كما أفهمها
+5. تحسين نفسي
+6. صنع سعادتي الخاصة
+7. تحمّل مسؤولية حياتي
+8. رفض الندم على الماضي
+9. حب الذات
+10. اكتساب المعرفة
+11. ممارسة التأمل
+12. بناء مجموعة دعم
+13. تقديم الخدمة
 
-**Key differences from AA:** Emphasis on self-love (not shame/guilt), courage (not powerlessness), positive emotions
+**الفروق الرئيسية عن AA:** التشديد على حب الذات (لا العار/الذنب)، والشجاعة (لا العجز)، والمشاعر الإيجابية
 
-## Core Principles
+## المبادئ الأساسية
 
-**Emotional and Spiritual Growth:**
-- Recovery not just abstinence but building positive life
-- Self-esteem and self-care central
-- Emotional healing alongside sobriety
-- Women's specific issues: trauma, relationships, body image
+**النمو العاطفي والروحاني:**
+- التعافي ليس مجرد امتناع بل بناء حياة إيجابية
+- تقدير الذات والعناية بها محوريان
+- الشفاء العاطفي إلى جانب الرصانة
+- قضايا خاصة بالنساء: الصدمة، العلاقات، صورة الجسد
 
-**Empowerment:**
-- "No powerlessness" messaging (vs. AA's step 1)
-- Women as agents of change
-- Building on strengths, not dwelling on defects
-- Positive identity development
+**التمكين:**
+- خطاب "لا عجز" (مقابل الخطوة الأولى في AA)
+- النساء فاعلات للتغيير
+- البناء على نقاط القوة لا الاستغراق في العيوب
+- تطوير هوية إيجابية
 
-**Community:**
-- Peer support from women understanding women's experiences
-- Shared struggle with gender, motherhood, relationships, body
-- Solidarity and strength
+**المجتمع:**
+- دعم الأقران من نساء يفهمن تجارب النساء
+- صراع مشترك حول الجندر والأمومة والعلاقات والجسد
+- التضامن والقوة
 
-## Meeting Format
+## صيغة الاجتماعات
 
-- Women-only spaces (safety and solidarity)
-- Discussion-based: sharing experiences, strategies
-- Five guidelines: deliberate honesty, open-mindedness, action, caring, respect
-- No sponsor system; mutual support
+- مساحات خاصة بالنساء فقط (أمان وتضامن)
+- نقاشية: مشاركة التجارب والاستراتيجيات
+- خمسة مبادئ توجيهية: الصدق المتعمد، الانفتاح، الفعل، الاهتمام، الاحترام
+- لا نظام رعاية؛ دعم متبادل
 
-## Issues Addressed
+## القضايا المعالَجة
 
-**Gender-specific trauma:**
-- Sexual abuse and assault (high prevalence)
-- Domestic violence
-- Reproductive trauma and loss
-- Body image and eating disorder overlap
+**الصدمة الخاصة بالجندر:**
+- الإساءة والاعتداء الجنسي (انتشار مرتفع)
+- العنف الأسري
+- صدمة إنجابية وفقد
+- تداخل صورة الجسد واضطراب الأكل
 
-**Women's roles:**
-- Motherhood and recovery
-- Partner/spousal relationships
-- Caretaking burden
-- Work-life balance
+**أدوار النساء:**
+- الأمومة والتعافي
+- علاقات الشريك/الزواج
+- عبء الرعاية
+- التوازن بين العمل والحياة
 
-**Emotional regulation:**
-- Depression and anxiety (high comorbidity)
-- Managing emotions without substance use
-- Building healthy coping strategies
+**التنظيم العاطفي:**
+- الاكتئاب والقلق (اعتلال مصاحب مرتفع)
+- إدارة المشاعر دون تعاطي مواد
+- بناء استراتيجيات تكيف صحية
 
-## Comparison to Other Programs
+## المقارنة ببرامج أخرى
 
-| Aspect | WFS | AA | SMART |
+| الجانب | WFS | AA | SMART |
 |---|---|---|---|
-| Gender | Women-centered | Mixed | Mixed |
-| Spirituality | "Higher power" but flexible | Higher Power required | None |
-| Empowerment | Central | Surrender emphasis | Central |
-| Emotional work | Key component | Secondary | Cognitive focus |
-| Founded | 1976 (oldest secular) | 1935 | 1994 |
+| الجندر | محوره النساء | مختلط | مختلط |
+| الروحانية | "قوة عليا" لكن مرنة | قوة عليا إلزامية | لا شيء |
+| التمكين | محوري | تشديد على الاستسلام | محوري |
+| العمل العاطفي | مكوّن رئيسي | ثانوي | تركيز معرفي |
+| التأسيس | 1976 (أقدم علماني) | 1935 | 1994 |
 
-## Effectiveness
+## الفعالية
 
-- Research limited; peer-reported benefits
-- Women report: higher self-esteem, emotional growth, reduced shame
-- Particular value for women with trauma (safety of women-only space)
-- Some concerns: lack of rigorous outcome data
+- بحث محدود؛ فوائد مُبلَّغ عنها من الأقران
+- تُبلِّغ النساء عن: تقدير ذات أعلى، نمو عاطفي، عار أقل
+- قيمة خاصة للنساء ذوات الصدمة (أمان المساحة الخاصة بالنساء)
+- بعض المخاوف: نقص بيانات النتائج الصارمة
 
-## Integration with Professional Treatment
+## التكامل مع العلاج المهني
 
-- Therapist-friendly: aligns with trauma-informed, women-centered approaches
-- Complements therapy addressing trauma, body image, relationships
-- Good fit for women avoiding AA's powerlessness messaging
-- Works well with medication-assisted treatment
+- ودود مع المعالجين: يتوافق مع المقاربات المُطَّلعة على الصدمة والمحورها النساء
+- يكمِّل العلاج الذي يعالج الصدمة وصورة الجسد والعلاقات
+- ملاءمة جيدة للنساء اللواتي يتجنبن خطاب العجز في AA
+- يعمل جيداً مع العلاج المدعوم بالدواء
 
-## Accessibility
+## سهولة الوصول
 
-- Free
-- Smaller network than AA (fewer meetings, mostly US)
-- Growing online meetings
-- Books and resources available
+- مجاني
+- شبكة أصغر من AA (اجتماعات أقل، أغلبها في الولايات المتحدة)
+- اجتماعات عبر الإنترنت في نمو
+- كتب وموارد متاحة
 
-## Criticisms
+## الانتقادات
 
-- Small size: harder to find meetings
-- Limited outcome research
-- Some critique: "higher power" language still present (though flexible)
-- May not address substance-specific issues as directly as medical treatment
+- الحجم الصغير: أصعب في إيجاد اجتماعات
+- بحث نتائج محدود
+- ينتقد البعض: لغة "القوة العليا" ما زالت حاضرة (وإن كانت مرنة)
+- قد لا تعالج القضايا الخاصة بالمادة مباشرة كما يفعل العلاج الطبي
 
-## Related Alternatives
+## بدائل ذات صلة
 
-- [[org-lifering]] — secular alternative (mixed gender)
-- [[org-smart-recovery]] — cognitive-behavioral alternative (mixed gender)
-- Women-specific therapy groups
-- Trauma-informed substance abuse counseling
+- [[org-lifering]] — بديل علماني (مختلط الجندر)
+- [[org-smart-recovery]] — بديل معرفي سلوكي (مختلط الجندر)
+- مجموعات علاج خاصة بالنساء
+- استشارة تعاطي المواد المُطَّلعة على الصدمة
 
-## Primary Sources
+## المصادر الأولية
 
 1. Kirkpatrick, J. (1990). Turnabout: Help for a new life. Bantam.
 2. Women for Sobriety official: https://www.womenforsobriety.org

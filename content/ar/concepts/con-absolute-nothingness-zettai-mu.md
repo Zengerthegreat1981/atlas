@@ -15,7 +15,7 @@ related:
 - id: "thk-nishida", title: "كيتارو نيشيدا", type: "مفكر"
 - id: "thk-nishitani", title: "كيجي نيشيتاني", type: "مفكر"
 - id: "sch-kyoto", title: "مدرسة كيوتو", type: "مدرسة"
-- id: "con-buddhist-emptiness-shunyata", title: "الشُّنْيَاتَى / الفَرَاغ (Śūnyatā)", type: "مفهوم"
+- id: "con-shunyata", title: "شُونْياتا (الفراغ / العدمية الجوهرية)", type: "مفهوم"
 - id: "con-basho-logic-of-place", title: "الباشو ومنطق المكان في مدرسة كيوتو (Basho)", type: "مفهوم"
 - id: "con-pure-experience-nishida", title: "التجربة الخالصة (Pure Experience)", type: "مفهوم"
 - id: "dbt-nishida-vs-tanabe", title: "نيشيدا ضد تانابه: الذات المطلقة أم المنطق التَفارقى؟", type: "جدل"

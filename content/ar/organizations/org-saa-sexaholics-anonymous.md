@@ -6,87 +6,87 @@ part: psychology
 parent: twelve-step fellowships, mutual-aid
 ---
 
-# Sexaholics Anonymous (SA)
+# مدمنو الجنس القهريون المجهولون (Sexaholics Anonymous, SA)
 
-Sexaholics Anonymous is a twelve-step fellowship for people recovering from sexual addiction and compulsive sexual behavior. Founded in 1979, SA addresses sexual acting-out behaviors (pornography, affairs, promiscuity, voyeurism) using peer support and spiritual principles.
+Sexaholics Anonymous رابطة خطوات اثنتي عشرة للمتعافين من الإدمان الجنسي والسلوك الجنسي القهري. تأسست عام 1979، وتعالج SA سلوكيات التصرف الجنسي (الإباحية، الخيانات، العشوائية الجنسية، التلصص) باستخدام دعم الأقران ومبادئ روحانية.
 
-## Overview
+## لمحة عامة
 
-- **Founded:** 1979
-- **Members:** 20,000+ globally (smaller than AA/NA but growing)
-- **Meetings:** Weekly in major cities; online growing
-- **Cost:** Free
-- **Anonymity:** Strictly maintained; particularly important given stigma
+- **التأسيس:** 1979
+- **الأعضاء:** أكثر من 20,000 حول العالم (أصغر من AA/NA لكن في نمو)
+- **الاجتماعات:** أسبوعية في المدن الكبرى؛ وعبر الإنترنت في نمو
+- **التكلفة:** مجانية
+- **السرية:** تُحفظ بصرامة؛ مهمة خاصة نظراً للوصمة
 
-## Focus Areas
+## مجالات التركيز
 
-- Pornography addiction and compulsive use
-- Compulsive masturbation
-- Affairs and sexual transgression
-- Promiscuity and unsafe sexual behavior
-- Fantasy-driven sexual behavior
-- Voyeurism or boundary violations
+- إدمان الإباحية والاستخدام القهري
+- الاستمناء القهري
+- الخيانات والتجاوز الجنسي
+- العشوائية الجنسية والسلوك الجنسي غير الآمن
+- السلوك الجنسي المدفوع بالخيال
+- التلصص أو انتهاك الحدود
 
-## Twelve-Step Adaptation
+## تكييف الخطوات الاثنتي عشرة
 
-- "Admitted powerlessness over sexual addiction"
-- Behavior-focused: abstinence defined specifically (varies by member)
-- Spiritual component: recovery as spiritual awakening
-- Moral inventory and amends (often includes making amends to harmed partners)
+- "الإقرار بالعجز أمام الإدمان الجنسي"
+- التركيز على السلوك: الامتناع مُعرَّف تحديداً (يتفاوت حسب العضو)
+- المكوّن الروحاني: التعافي بوصفه صحوة روحانية
+- جرد أخلاقي وجبر ضرر (كثيراً ما يشمل جبر الضرر للشركاء المتضررين)
 
-## Key Differences from Other Fellowships
+## فروق رئيسية عن رابطات أخرى
 
-### Sobriety Definition
-- Unlike substance addiction (clear abstinence), sexual sobriety varies:
-  - Some define: abstinence from all sexual behavior (including masturbation)
-  - Others: abstinence from compulsive behavior but healthy sexuality/marriage acceptable
-  - Creates debate within fellowships (different "meetings" different norms)
+### تعريف الرصانة
+- خلافاً لإدمان المواد (امتناع واضح)، تتفاوت الرصانة الجنسية:
+  - يعرِّفها البعض: امتناع عن كل سلوك جنسي (بما فيه الاستمناء)
+  - وآخرون: امتناع عن السلوك القهري لكن الجنسانية الصحية/الزواج مقبولان
+  - يخلق جدلاً داخل الرابطات ("اجتماعات" مختلفة بمعايير مختلفة)
 
-### Relationship to Partners
-- Many members in relationships; partners may attend Al-Anon for families of addicts
-- Recovery impacts marriage/partnerships significantly
-- Often requires couples therapy alongside SA work
+### العلاقة بالشركاء
+- كثير من الأعضاء في علاقات؛ وقد يحضر الشركاء Al-Anon لأسر المدمنين
+- يؤثر التعافي بشدة على الزواج/الشراكات
+- كثيراً ما يتطلب علاج أزواج إلى جانب عمل SA
 
-### Gender Differences
-- Predominantly male-identified but growing women's attendance
-- Women's shares often include sexual abuse history, trauma
-- Gender-specific concerns not always well-addressed in mixed meetings
+### الفروق بين الجنسين
+- هوية ذكورية غالبة لكن حضور النساء في نمو
+- كثيراً ما تتضمن مشاركات النساء تاريخ إساءة جنسية وصدمة
+- القضايا الخاصة بالجنس لا تُعالَج دائماً جيداً في الاجتماعات المختلطة
 
-## Comorbidities & Integration
+## الاعتلالات المصاحبة والتكامل
 
-- Often co-occurs with substance addiction (cross-addiction)
-- Trauma history common (sexual abuse survivors; acting out as coping)
-- Depression, anxiety, relationship distress frequent
-- Requires integration with therapy addressing trauma, mental health
+- كثيراً ما يترافق مع إدمان مواد (إدمان متقاطع)
+- تاريخ صدمة شائع (ناجون من إساءة جنسية؛ والتصرف كتكيف)
+- الاكتئاب والقلق وضائقة العلاقة شائعة
+- يتطلب تكاملاً مع علاج يعالج الصدمة والصحة النفسية
 
-## Effectiveness
+## الفعالية
 
-- Limited research: stigma, anonymity, small membership
-- Observational reports: regular attendance supports abstinence
-- Partner involvement helps relationship recovery
-- Therapy + SA combined more effective than either alone
+- بحث محدود: الوصمة والسرية والعضوية الصغيرة
+- تقارير رصدية: الحضور المنتظم يدعم الامتناع
+- انخراط الشريك يساعد تعافي العلاقة
+- الجمع بين العلاج وSA أكثر فعالية من كل منهما وحده
 
-## Related Fellowships
+## رابطات ذات صلة
 
-- [[org-slaa-sex-love-addicts-anonymous]] — love/romance addiction focus
-- [[org-saa-sex-addicts-anonymous]] — alternative interpretation of sexual addiction (broader definition)
-- [[org-coda-codependents-anonymous]] — for partners of sex addicts
+- [[org-slaa-sex-love-addicts-anonymous]] — تركيز على إدمان الحب/الرومانسية
+- [[org-saa-sex-addicts-anonymous]] — تفسير بديل للإدمان الجنسي (تعريف أوسع)
+- [[org-coda-codependents-anonymous]] — لشركاء مدمني الجنس
 
-## Critique
+## النقد
 
-- **Religious tone:** despite "higher power" language, spiritual focus alienates some
-- **Gender dynamics:** male-dominated; women's experiences sometimes marginalized
-- **Trauma considerations:** addiction often rooted in trauma; SA alone insufficient
-- **Sexual shame:** some argue SA perpetuates pathologizing of sexuality
+- **النبرة الدينية:** رغم لغة "القوة العليا"، التركيز الروحاني ينفِّر البعض
+- **ديناميات الجنس:** هيمنة ذكورية؛ وتجارب النساء مهمَّشة أحياناً
+- **اعتبارات الصدمة:** كثيراً ما يتجذر الإدمان في الصدمة؛ وSA وحدها غير كافية
+- **العار الجنسي:** يرى البعض أن SA تديم تحويل الجنسانية إلى مرض
 
-## Integration with Professional Treatment
+## التكامل مع العلاج المهني
 
-- Sex therapy: therapists may recommend SA as adjunct
-- Addiction counseling: addresses sexual addiction component
-- Couples therapy: rebuilding relationship, addressing trauma, rebuilding intimacy
-- Psychiatric medication: treating depression/anxiety that may underlie behavior
+- العلاج الجنسي: قد يوصي المعالجون بـSA مكمِّلاً
+- استشارة الإدمان: تعالج مكوّن الإدمان الجنسي
+- علاج الأزواج: إعادة بناء العلاقة، معالجة الصدمة، إعادة بناء الحميمية
+- الدواء النفسي: علاج الاكتئاب/القلق الذي قد يكمن وراء السلوك
 
-## Primary Sources
+## المصادر الأولية
 
 1. Sexaholics Anonymous (1989). Sexaholics Anonymous: The Basic Text. SA Publishing.
 2. Voon, V., et al. (2014). Neural correlates of sexual cue reactivity in individuals with and without compulsive sexual behaviours. PLoS ONE, 9(7), e102419.

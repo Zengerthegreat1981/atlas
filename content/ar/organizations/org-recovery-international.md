@@ -8,96 +8,96 @@ parent: mutual-aid, peer-support
 
 # Recovery International
 
-Recovery International is a self-help organization using cognitive-behavioral principles for recovery from mental health problems, substance abuse, and behavioral issues. Founded in 1933 (as Recovery, Inc.), it predates modern cognitive-behavioral therapy and twelve-step programs, making it one of the oldest peer-led mental health recovery organizations.
+Recovery International منظمة مساعدة ذاتية تستخدم مبادئ معرفية سلوكية للتعافي من مشكلات الصحة النفسية وتعاطي المواد والقضايا السلوكية. تأسست عام 1933 (باسم Recovery, Inc.)، وتسبق العلاج المعرفي السلوكي الحديث وبرامج الخطوات الاثنتي عشرة، مما يجعلها من أقدم منظمات تعافي الصحة النفسية بقيادة الأقران.
 
-## Overview
+## لمحة عامة
 
-- **Founded:** 1933 by Abraham Low (psychiatrist) in Chicago
-- **Current name:** Recovery International (formerly Recovery, Inc.; TARA; Zig Zag)
-- **Members:** 100,000+ globally in past; smaller now but stable
-- **Philosophy:** Self-directed, cognitive-behavioral recovery
-- **Approach:** Thought-challenging, symptom management, peer support
+- **التأسيس:** 1933 على يد الطبيب النفسي أبراهام لو (Abraham Low) في شيكاغو
+- **الاسم الحالي:** Recovery International (سابقاً Recovery, Inc.؛ وTARA؛ وZig Zag)
+- **الأعضاء:** أكثر من 100,000 حول العالم سابقاً؛ وأصغر الآن لكنه مستقر
+- **الفلسفة:** تعافٍ معرفي سلوكي موجَّه ذاتياً
+- **المقاربة:** تحدي الأفكار، إدارة الأعراض، دعم الأقران
 
-## Historical Significance
+## الأهمية التاريخية
 
-- **Precursor to modern CBT:** developed cognitive principles decades before CBT formalization
-- **Pre-AA:** established before Alcoholics Anonymous (1935)
-- **Peer self-help:** pioneering model for non-professional, peer-led recovery
-- **Mental health focus:** one of oldest mental health peer organizations
+- **سابقة على العلاج المعرفي السلوكي الحديث:** طوَّرت مبادئ معرفية قبل عقود من تكوّن العلاج المعرفي السلوكي رسمياً
+- **سابقة على AA:** تأسست قبل جمعية المدمنين المجهولين للكحول (1935)
+- **مساعدة ذاتية بين الأقران:** نموذج رائد للتعافي غير المهني بقيادة الأقران
+- **التركيز على الصحة النفسية:** من أقدم منظمات الأقران في الصحة النفسية
 
-## Cognitive-Behavioral Core
+## الجوهر المعرفي السلوكي
 
-**Low's principles (pre-cognitive-behavioral therapy):**
-- Thoughts affect feelings and behavior
-- Symptoms are not dangerous (reframe fear)
-- Temperament (personality traits) changeable through practice
-- Will (effort and choice) essential to change
+**مبادئ لو (سابقة على العلاج المعرفي السلوكي):**
+- الأفكار تؤثر في المشاعر والسلوك
+- الأعراض ليست خطيرة (إعادة تأطير الخوف)
+- المزاج (سمات الشخصية) قابل للتغيير بالممارسة
+- الإرادة (الجهد والاختيار) أساسية للتغيير
 
-## Meeting Structure
+## بنية الاجتماعات
 
-- Weekly meetings: case presentations and discussion
-- Member presents a situation/thought/symptom
-- Group provides supportive challenge to unhelpful thinking
-- Focus on practical skills and thought-challenging
-- Emphasis on action despite discomfort
+- اجتماعات أسبوعية: عرض حالات ونقاش
+- يعرض العضو موقفاً/فكرة/عرضاً
+- توفر المجموعة تحدياً داعماً للتفكير غير المفيد
+- التركيز على مهارات عملية وتحدي الأفكار
+- التشديد على الفعل رغم الانزعاج
 
-## Issues Addressed
+## القضايا المعالَجة
 
-- Depression and mood disorders
-- Anxiety and panic
-- Obsessive-compulsive patterns
-- Phobias and fears
-- Substance abuse (integrated into broader recovery)
-- Personality patterns and interpersonal difficulties
-- Trauma and grief
+- الاكتئاب واضطرابات المزاج
+- القلق والهلع
+- الأنماط الوسواسية القهرية
+- الرهاب والمخاوف
+- تعاطي المواد (مندمج في التعافي الأشمل)
+- أنماط الشخصية والصعوبات بين الأشخاص
+- الصدمة والحزن
 
-## Core Technique: Spotting and Trivializing
+## التقنية الأساسية: الرصد والتهوين
 
-**"Spotting":** Identifying problematic thoughts and reactions
-**"Trivializing":** Reframing thoughts as less catastrophic; not dangerous
+**"الرصد" (Spotting):** تحديد الأفكار وردود الفعل الإشكالية
+**"التهوين" (Trivializing):** إعادة تأطير الأفكار بوصفها أقل كارثية؛ غير خطيرة
 
-Related to modern cognitive-behavioral strategies but with own language and emphasis.
+مرتبطة بالاستراتيجيات المعرفية السلوكية الحديثة لكن بلغة وتشديد خاصين بها.
 
-## Strengths
+## نقاط القوة
 
-- Evidence of cognitive-behavioral principles decades before CBT formalization
-- Peer-led: accessible, free or low-cost
-- Practical symptom management
-- Non-psychiatric (not therapy replacement but complementary)
-- Emphasis on agency and will
+- دليل على مبادئ معرفية سلوكية سبقت تكوّن العلاج المعرفي السلوكي بعقود
+- بقيادة الأقران: سهلة الوصول، مجانية أو منخفضة التكلفة
+- إدارة عملية للأعراض
+- غير نفسية-طبية (ليست بديلاً عن العلاج بل مكمِّلة له)
+- تشديد على الفاعلية والإرادة
 
-## Limitations
+## القيود
 
-- Older organization; smaller modern membership
-- Less research evidence than modern CBT
-- Less well-known than AA or modern alternatives
-- Language and approach can feel dated
+- منظمة أقدم؛ عضوية حديثة أصغر
+- أدلة بحثية أقل من العلاج المعرفي السلوكي الحديث
+- أقل شهرة من AA أو البدائل الحديثة
+- قد تبدو اللغة والمقاربة قديمتين
 
-## Integration with Professional Services
+## التكامل مع الخدمات المهنية
 
-- Complements therapy and psychiatric care
-- Similar principles to CBT but peer-delivered
-- Works well for people in treatment seeking peer support
-- Non-threatening to mental health professionals
+- تكمِّل العلاج والرعاية النفسية
+- مبادئ مماثلة للعلاج المعرفي السلوكي لكن بتقديم من الأقران
+- تعمل جيداً لمن هم في علاج ويبحثون عن دعم الأقران
+- غير مهدِّدة للمهنيين في الصحة النفسية
 
-## Comparison to Other Programs
+## المقارنة ببرامج أخرى
 
-| Aspect | Recovery Int'l | AA | SMART |
+| الجانب | Recovery Int'l | AA | SMART |
 |---|---|---|---|
-| Founded | 1933 | 1935 | 1994 |
-| Approach | Cognitive | Spiritual | Cognitive-behavioral |
-| Focus | Mental health broadly | Addiction | Addiction/substance |
-| Mechanism | Thought-challenging, will | Spiritual, surrender | Cognitive-behavioral |
-| Model | Peer meetings | Sponsor + meetings | Self-directed |
+| التأسيس | 1933 | 1935 | 1994 |
+| المقاربة | معرفية | روحانية | معرفية سلوكية |
+| التركيز | الصحة النفسية عموماً | الإدمان | الإدمان/المواد |
+| الآلية | تحدي الأفكار، الإرادة | روحانية، استسلام | معرفية سلوكية |
+| النموذج | اجتماعات أقران | راعٍ + اجتماعات | موجَّه ذاتياً |
 
-## Current Status
+## الوضع الحالي
 
-- Smaller organization than heyday but stable
-- Various names in different regions (Recovery, TARA, Zig Zag)
-- Growing interest as precursor to modern CBT
-- Advocate for peer-led mental health recovery
+- منظمة أصغر من ذروتها لكنها مستقرة
+- أسماء متعددة في مناطق مختلفة (Recovery وTARA وZig Zag)
+- اهتمام متنامٍ بوصفها سابقة للعلاج المعرفي السلوكي الحديث
+- تدافع عن تعافي الصحة النفسية بقيادة الأقران
 
-## Primary Sources
+## المصادر الأولية
 
 1. Low, A.A. (1950). Mental health through will training. Christopher Publishing.
 2. Eastman, N., & Ursano, R.J. (2011). Psychiatric aspects of human performance in space. CNS Spectrums, 16(11), 1-10.

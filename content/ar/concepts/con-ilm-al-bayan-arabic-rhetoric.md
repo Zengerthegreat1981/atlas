@@ -22,31 +22,27 @@ gaps: []
 
 # علمُ البيان: التشبيهُ والاستعارةُ والكناية
 
-## Definition
+## التعريف
 
-This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
+علمُ البيان أحد علوم البلاغة العربية الثلاثة (إلى جانب المعاني والبديع)، ويُعنى بطرق التعبير عن المعنى الواحد بأساليب متفاوتة في وضوح الدلالة وقوة التأثير، عبر التشبيه والحقيقة والمجاز والاستعارة والكناية.
 
-## Theoretical Framework
+## المفاهيم الجوهرية
 
-Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
+- **التشبيه:** عقد مماثلة بين طرفين (مشبَّه ومشبَّه به) يشتركان في وجه شبه، بأداة تشبيه ظاهرة أو مقدَّرة.
+- **الحقيقة والمجاز:** استعمال اللفظ في معناه الأصلي الموضوع له (الحقيقة) أو في معنى آخر لعلاقة مع قرينة مانعة من إرادة المعنى الأصلي (المجاز).
+- **الاستعارة:** تشبيه حُذف أحد طرفيه، فيُستعار لفظ المشبَّه به للمشبَّه، وتنقسم إلى تصريحية ومكنية.
+- **الكناية:** لفظ يُراد به لازم معناه مع جواز إرادة المعنى الأصلي أيضاً، كقولهم "فلان كثير الرماد" كناية عن الكرم.
 
-## Key Principles
+## السياق التاريخي
 
-- Meaning is systematic: Similar utterances have related meanings
-- Meaning is compositional: Sentence meaning derives from parts
-- Meaning is context-dependent: Context affects interpretation
-- Meaning is negotiated: Speaker and listener collaborate on interpretation
+أسّس عبد القاهر الجرجاني في كتابيه "أسرار البلاغة" و"دلائل الإعجاز" الأساس النظري لعلم البيان، رابطاً جمال التصوير البياني بنظرية النظم. ثم نظّم السكّاكي في "مفتاح العلوم" علوم البلاغة الثلاثة تنظيماً منهجياً صار مرجعاً للمتأخرين.
 
-## Evidence Sources
+## الصلة بالدلالة الحديثة
 
-Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
+يتقاطع علم البيان مع حقول الدلالة المعرفية الحديثة (كنظرية الاستعارة المفاهيمية عند لاكوف وجونسون) في اهتمامه بكيفية تشكيل المجاز والاستعارة للمعنى، وإن اختلف الإطاران التاريخي والمنهجي اختلافاً كبيراً.
 
-## Contemporary Applications
+## المصادر
 
-Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
-
-## References
-
-- Lyons, J. (1977). *Semantics*. Cambridge University Press.
-- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
-
+- الجرجاني، عبد القاهر. أسرار البلاغة.
+- السكّاكي، أبو يعقوب. مفتاح العلوم.
+</content>

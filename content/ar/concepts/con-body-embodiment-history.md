@@ -17,23 +17,23 @@ gaps: []
 
 # تاريخ الجسد والتجسيد (Body and Embodiment in History)
 
-## Body and Embodiment in History
+## تاريخ الجسد والتجسيد
 
-Historical analysis of bodies, bodily practices, and embodied experience; examines how bodies are shaped by history and power.
+تحليل تاريخي للأجساد والممارسات الجسدية والخبرة المتجسدة؛ يفحص كيف يُشكِّل التاريخُ والسلطةُ الأجسادَ.
 
-### Key Aspects
+### الجوانب الجوهرية
 
-This node represents part of Section 20: Cross-Cutting Frameworks & Synthesis in historiography.
+تمثّل هذه العقدة جزءاً من القسم 20: الأطر الشاملة والتوليف في التأريخ.
 
-### Related Fields
+### مجالات ذات صلة
 
-- Historiographical theory and practice
-- Historiographical ethics and reflexivity
-- Regional and comparative historiography
-- Emerging historiographical fields
+- نظرية التأريخ وممارسته
+- أخلاقيات التأريخ والتأمل الذاتي
+- التأريخ الإقليمي والمقارن
+- مجالات التأريخ الناشئة
 
-### See Also
+### انظر أيضاً
 
-- Related historiographical concepts and schools
-- Contemporary historical scholarship
-
+- مفاهيم ومدارس تأريخية ذات صلة
+- الدراسات التاريخية المعاصرة
+</content>

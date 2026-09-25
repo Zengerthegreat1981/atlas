@@ -6,73 +6,73 @@ part: psychology
 parent: twelve-step fellowships, mutual-aid
 ---
 
-# Sex and Love Addicts Anonymous (SLAA)
+# مدمنو الجنس والحب المجهولون (SLAA)
 
-SLAA is a twelve-step fellowship for people recovering from sex and love addiction, focusing on compulsive romantic/sexual relationships, obsessive relationships, and love-seeking behavior used to self-soothe emotional distress.
+SLAA رابطة خطوات اثنتي عشرة للمتعافين من إدمان الجنس والحب، تركز على العلاقات الرومانسية/الجنسية القهرية، والعلاقات الهوسية، وسلوك السعي إلى الحب المستخدَم لتهدئة الضائقة العاطفية.
 
-## Overview
+## لمحة عامة
 
-- **Founded:** 1976 (Boston)
-- **Members:** 50,000+ globally
-- **Focus:** Love addiction, sexual addiction, romance addiction
-- **Model:** Twelve-step, peer-led, peer-supported
+- **التأسيس:** 1976 (بوسطن)
+- **الأعضاء:** أكثر من 50,000 حول العالم
+- **التركيز:** إدمان الحب، الإدمان الجنسي، إدمان الرومانسية
+- **النموذج:** خطوات اثنتا عشرة، بقيادة الأقران ودعمهم
 
-## Core Addiction Patterns SLAA Addresses
+## أنماط الإدمان الأساسية التي تعالجها SLAA
 
-- Obsessive/compulsive romantic pursuit
-- Serial affairs or relationships
-- Sexual compulsivity intertwined with relationship-seeking
-- Fantasy-driven romantic relationships
-- Using relationships for emotional regulation
-- Codependency and enmeshment patterns
+- المطاردة الرومانسية الهوسية/القهرية
+- علاقات أو خيانات متسلسلة
+- القهر الجنسي المتشابك مع السعي إلى العلاقات
+- علاقات رومانسية مدفوعة بالخيال
+- استخدام العلاقات للتنظيم العاطفي
+- أنماط التبعية المشتركة والتشابك
 
-## Twelve-Step Adaptation
+## تكييف الخطوات الاثنتي عشرة
 
-- "Admitted powerlessness over sex and love addiction"
-- Definition of sobriety: abstinence from addictive sexual/romantic behavior
-- Varies by member: some define as no outside sexual contact; others as no compulsive dating
-- Emphasis on "bottom line" — specific behaviors each member avoids
+- "الإقرار بالعجز أمام إدمان الجنس والحب"
+- تعريف الرصانة: امتناع عن السلوك الجنسي/الرومانسي الإدماني
+- يتفاوت حسب العضو: يعرِّفه البعض بعدم التواصل الجنسي الخارجي؛ وآخرون بعدم المواعدة القهرية
+- التشديد على "الحد الأدنى" — سلوكيات محددة يتجنبها كل عضو
 
-## Relationship to Other Fellowships
+## العلاقة برابطات أخرى
 
-- [[org-saa-sexaholics-anonymous]] — focuses more on sexual behavior; SLAA integrates love addiction dimension
-- [[org-coda-codependents-anonymous]] — related but CODA focuses on codependency; SLAA addresses active addiction
-- [[org-ao-anorexics-anonymous]] — some crossover with eating disorder/control patterns
+- [[org-saa-sexaholics-anonymous]] — تركز أكثر على السلوك الجنسي؛ وتدمج SLAA بُعد إدمان الحب
+- [[org-coda-codependents-anonymous]] — ذات صلة لكن CODA تركز على التبعية المشتركة؛ وSLAA تعالج الإدمان النشط
+- [[org-ao-anorexics-anonymous]] — تداخل مع أنماط اضطراب الأكل/السيطرة
 
-## Key Themes
+## مواضيع رئيسية
 
-### Love as Addiction
-- Neurobiological similarity to substance addiction
-- Dopamine-driven pursuit of connection/fantasy
-- Withdrawal symptoms when relationship ends
-- Tolerance: needing "more" romantic stimulation
+### الحب بوصفه إدماناً
+- تشابه عصبي حيوي مع إدمان المواد
+- مطاردة الاتصال/الخيال مدفوعة بالدوبامين
+- أعراض انسحاب عند انتهاء العلاقة
+- التحمّل: الحاجة إلى "المزيد" من التحفيز الرومانسي
 
-### Relationship to Trauma
-- Often rooted in early attachment disruption
-- Using relationships to fill void, self-soothe, regulate emotions
-- May have history of sexual abuse or abandonment
+### العلاقة بالصدمة
+- كثيراً ما تتجذر في اضطراب تعلق مبكر
+- استخدام العلاقات لملء الفراغ، وتهدئة النفس، وتنظيم المشاعر
+- قد يكون هناك تاريخ إساءة جنسية أو تخلٍّ
 
-### Sobriety Definition Challenges
-- Sex addiction: relatively clear (no compulsive acts)
-- Love addiction: harder to define (is marriage OK? Dating? Flirting?)
-- Different sponsors/meetings offer different guidance
-- Personal "bottom line" critical
+### تحديات تعريف الرصانة
+- الإدمان الجنسي: واضح نسبياً (لا أفعال قهرية)
+- إدمان الحب: أصعب تعريفاً (هل الزواج مقبول؟ المواعدة؟ الغزل؟)
+- رعاة/اجتماعات مختلفة تقدم توجيهات مختلفة
+- "الحد الأدنى" الشخصي محوري
 
-## Effectiveness & Integration
+## الفعالية والتكامل
 
-- Limited research; peer-reported success
-- Regular attendance associated with relationship stability and abstinence
-- Often combined with therapy addressing trauma, attachment, mental health
-- Couples work: rebuilding trust after affairs/betrayal
+- بحث محدود؛ نجاح مُبلَّغ عنه من الأقران
+- الحضور المنتظم مرتبط باستقرار العلاقة والامتناع
+- كثيراً ما يُجمع بعلاج يعالج الصدمة والتعلق والصحة النفسية
+- عمل الأزواج: إعادة بناء الثقة بعد الخيانة
 
-## Criticisms
+## الانتقادات
 
-- Pathologizes normal sexuality/romance seeking
-- Some argue "addiction" framing too harsh for what may be attachment-seeking
-- Gender dynamics: women often blamed for neediness; men for infidelity
-- Lacks nuance on healthy vs. unhealthy relationships
+- تحويل الجنسانية/السعي الرومانسي الطبيعي إلى مرض
+- يرى البعض أن إطار "الإدمان" قاسٍ جداً لما قد يكون سعياً إلى التعلق
+- ديناميات الجنس: كثيراً ما تُلام النساء على الاحتياج والرجال على الخيانة
+- يفتقر إلى الدقة بين العلاقات الصحية وغير الصحية
 
-## Primary Sources
+## المصادر الأولية
 
 1. Sex and Love Addicts Anonymous (1986). Sex and Love Addicts Anonymous: The Basic Text. SLAA Publishing.
 2. Irvine, J.M. (2010). irrational exuberance: The cultural life of the internet in the United States. Journal of the History of Sexuality, 19(3), 451-465.

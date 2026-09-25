@@ -7,149 +7,150 @@ parent: counseling
 featured: true
 ---
 
-# Crisis & Emergency Counseling
+# إرشاد الأزمات والطوارئ
 
-Crisis and emergency counseling is a specialized branch focused on rapid assessment, immediate stabilization, and short-term intervention with individuals or communities experiencing acute psychological distress, trauma, or emergency situations. Distinguished by time-limited, goal-focused work aimed at reducing imminent risk, restoring basic functioning, and connecting clients to ongoing support.
+إرشاد الأزمات والطوارئ فرعٌ متخصص يُعنى بالتقييم السريع، والتثبيت الفوري، والتدخل قصير الأمد مع الأفراد أو المجتمعات التي تمر بضائقة نفسية حادة أو صدمة أو حالة طارئة. ويتميز بعمل محدود زمنياً وموجَّه نحو أهداف محددة يرمي إلى تقليل الخطر الوشيك، واستعادة الأداء الأساسي، وربط المسترشدين بالدعم المستمر.
 
-## Defining Crisis
+## تعريف الأزمة
 
-A psychological crisis occurs when:
-- An individual faces a hazardous or threatening situation
-- Usual coping mechanisms are insufficient or overwhelmed
-- The person experiences acute emotional distress (anxiety, panic, despair, rage)
-- Immediate action or support is needed to prevent harm or further deterioration
-- The situation carries the potential for tragedy without intervention
+تحدث الأزمة النفسية حين:
+- يواجه الفرد موقفاً خطيراً أو مهدِّداً
+- تصبح آليات المواجهة المعتادة غير كافية أو مثقلة
+- يعاني الشخص ضائقة انفعالية حادة (القلق، الهلع، اليأس، الغضب)
+- تُصبح الحاجة إلى فعل أو دعم فوري ضرورية لمنع الأذى أو مزيد من التدهور
+- يحمل الموقف احتمال مأساة دون تدخل
 
-### Crisis vs. Chronic Distress
-- **Crisis:** acute onset, high intensity, time-limited (hours to days)
-- **Chronic distress:** ongoing, moderate intensity, enduring (weeks to years)
-- **Crossover:** unaddressed crises may develop into chronic mental health conditions
+### الأزمة مقابل الضائقة المزمنة
+- **الأزمة:** بداية حادة، وشدة عالية، ومحدودة زمنياً (ساعات إلى أيام)
+- **الضائقة المزمنة:** مستمرة، متوسطة الشدة، طويلة الأمد (أسابيع إلى سنوات)
+- **التداخل:** قد تتطور الأزمات غير المعالَجة إلى حالات نفسية مزمنة
 
-## Types of Crises
+## أنواع الأزمات
 
-### Personal/Individual Crises
-- **Suicidal ideation and attempts** — imminent risk of self-harm
-- **Homicidal or violent ideation** — risk to others
-- **Acute trauma** — recent exposure to accident, assault, combat, disaster
-- **Intoxication/overdose** — substance-related emergency
-- **Acute psychiatric episode** — psychosis, severe manic episode, acute dissociation
-- **Grief crisis** — acute overwhelming loss, meaning collapse
-- **Relationship dissolution** — sudden separation, abandonment, domestic violence
+### الأزمات الشخصية/الفردية
+- **الأفكار والمحاولات الانتحارية** — خطر وشيك لإيذاء النفس
+- **أفكار القتل أو العنف** — خطر على الآخرين
+- **الصدمة الحادة** — تعرض حديث لحادث أو اعتداء أو قتال أو كارثة
+- **التسمم/الجرعة الزائدة** — طارئ متعلق بالمواد
+- **النوبة النفسية الحادة** — ذهان، نوبة هوس شديدة، انفصام حاد
+- **أزمة الفقد** — خسارة ساحقة حادة، وانهيار المعنى
+- **انفصام العلاقة** — انفصال مفاجئ، هجر، عنف أسري
 
-### Situational/Environmental Crises
-- **Disasters** — natural (earthquake, hurricane, flood) or human-made (explosion, fire, transportation accident)
-- **School/workplace violence** — active threat, shooting, assault
-- **Community trauma** — terrorist attack, mass casualty event, homicide/murder spike
-- **Refugee/displacement crisis** — forced migration, loss of homeland
-- **Medical emergency** — life-threatening diagnosis, sudden illness
+### الأزمات الموقفية/البيئية
+- **الكوارث** — طبيعية (زلزال، إعصار، فيضان) أو من صنع الإنسان (انفجار، حريق، حادث نقل)
+- **عنف المدرسة/مكان العمل** — تهديد فعلي، إطلاق نار، اعتداء
+- **صدمة المجتمع** — هجوم إرهابي، حدث إصابات جماعية، ارتفاع في جرائم القتل
+- **أزمة اللجوء/النزوح** — هجرة قسرية، فقدان الوطن
+- **الطوارئ الطبية** — تشخيص مهدِّد للحياة، مرض مفاجئ
 
-### Systemic/Organizational Crises
-- **Organizational trauma** — workplace shooting, executive death, scandal
-- **Institutional response** — schools, hospitals, emergency services managing collective trauma
+### الأزمات النُّظُمية/التنظيمية
+- **صدمة المنظمة** — إطلاق نار في مكان العمل، وفاة مسؤول تنفيذي، فضيحة
+- **الاستجابة المؤسسية** — إدارة المدارس والمستشفيات وخدمات الطوارئ للصدمة الجماعية
 
-## Crisis Intervention Models
+## نماذج التدخل في الأزمات
 
-### Slaikeu's Six-Step Model
-1. **Psychological first aid** — immediate stabilization, basic needs
-2. **Problem definition** — clear understanding of the crisis
-3. **Generating alternatives** — identifying possible responses
-4. **Implementing a plan** — concrete action steps
-5. **Follow-up** — ongoing connection and support
-6. **Referral** — linking to longer-term resources
+### نموذج سلايكو ذو الخطوات الست
+1. **الإسعاف النفسي الأولي** — تثبيت فوري، والحاجات الأساسية
+2. **تحديد المشكلة** — فهم واضح للأزمة
+3. **توليد البدائل** — تحديد الاستجابات الممكنة
+4. **تنفيذ خطة** — خطوات فعل ملموسة
+5. **المتابعة** — تواصل ودعم مستمران
+6. **الإحالة** — الربط بموارد أطول أمداً
 
-### Roberts' Crisis Intervention Model (7 Steps)
-1. **Assess risk** — imminent danger (suicide, violence, substance abuse)
-2. **Build rapport** — empathy, active listening, non-judgment
-3. **Identify the problem** — precipitating event and current stressors
-4. **Deal with feelings** — validate emotional reactions, reduce acute distress
-5. **Generate alternatives** — brainstorm coping options and resources
-6. **Plan action steps** — concrete next steps with client agreement
-7. **Provide follow-up** — safety planning, referrals, ongoing support
+### نموذج روبرتس للتدخل في الأزمات (7 خطوات)
+1. **تقييم الخطر** — الخطر الوشيك (الانتحار، العنف، إساءة استخدام المواد)
+2. **بناء الألفة** — التعاطف، والإصغاء الفعال، وعدم إصدار الأحكام
+3. **تحديد المشكلة** — الحدث المُطلِق والضواغط الحالية
+4. **التعامل مع المشاعر** — تصديق الاستجابات الانفعالية، وتقليل الضائقة الحادة
+5. **توليد البدائل** — عصف ذهني لخيارات المواجهة والموارد
+6. **التخطيط لخطوات الفعل** — خطوات ملموسة تالية بموافقة المسترشد
+7. **توفير المتابعة** — التخطيط للسلامة، والإحالات، والدعم المستمر
 
-### Cognitive-Behavioral Crisis Intervention
-- **De-catastrophizing** — reality-testing of worst-case thinking
-- **Behavioral activation** — small actions to restore agency
-- **Distress tolerance** — crisis survival skills (TIPP techniques from DBT)
-- **Thought challenging** — addressing hopeless or escalatory cognitions
+### التدخل المعرفي السلوكي في الأزمات
+- **تفكيك التهويل** — اختبار واقعية التفكير الكارثي
+- **التنشيط السلوكي** — أفعال صغيرة لاستعادة الفاعلية
+- **تحمل الضائقة** — مهارات النجاة من الأزمة (تقنيات TIPP من العلاج السلوكي الجدلي)
+- **مواجهة الأفكار** — معالجة الإدراكات اليائسة أو المصعِّدة
 
-## Specialized Crisis Counseling Domains
+## مجالات متخصصة في إرشاد الأزمات
 
-### Suicide Risk Assessment & Prevention
-- **Imminent risk evaluation** — intent, plan, access to means, recent attempts
-- **Protective factors** — family, employment, treatment connection, spirituality
-- **Safety planning** — identifying warning signs, coping strategies, support contacts, emergency resources
-- **Means restriction** — reducing access to lethal methods
-- **Postvention** — support for survivors of suicide loss
+### تقييم خطر الانتحار والوقاية منه
+- **تقييم الخطر الوشيك** — النية، والخطة، وإمكانية الوصول للوسائل، والمحاولات الأخيرة
+- **العوامل الوقائية** — الأسرة، والعمل، والارتباط بالعلاج، والروحانية
+- **التخطيط للسلامة** — تحديد علامات الإنذار، واستراتيجيات المواجهة، وجهات الدعم، وموارد الطوارئ
+- **تقييد الوسائل** — تقليل إمكانية الوصول إلى الوسائل المميتة
+- **ما بعد الحدث** — دعم الناجين من فقدان قريب بالانتحار
 
-### Threat Assessment & Violence Prevention
-- **Active threat intervention** — de-escalation, evacuation, law enforcement coordination
-- **Threat assessment protocols** — school, workplace, community threat level evaluation
-- **De-escalation techniques** — verbal and non-verbal strategies to reduce escalation
-- **Trauma-informed security** — balancing safety with psychological recovery
+### تقييم التهديد والوقاية من العنف
+- **التدخل في التهديد الفعلي** — تهدئة التصعيد، والإخلاء، والتنسيق مع إنفاذ القانون
+- **بروتوكولات تقييم التهديد** — تقييم مستوى التهديد في المدرسة ومكان العمل والمجتمع
+- **تقنيات تهدئة التصعيد** — استراتيجيات لفظية وغير لفظية لتقليل التصعيد
+- **الأمن المراعي للصدمة** — موازنة السلامة مع التعافي النفسي
 
-### Disaster & Mass Casualty Counseling
-- **Psychological first aid** — stabilization, information, practical assistance, connection
-- **Community mental health response** — coordination with emergency services
-- **Acute stress management** — normalizing initial reactions, sleep, food, safety
-- **Screening for ongoing need** — identifying severe reactions requiring extended support
+### إرشاد الكوارث والإصابات الجماعية
+- **الإسعاف النفسي الأولي** — التثبيت، والمعلومات، والمساعدة العملية، والتواصل
+- **الاستجابة المجتمعية للصحة النفسية** — التنسيق مع خدمات الطوارئ
+- **إدارة الضغط الحاد** — تطبيع الاستجابات الأولية، والنوم، والغذاء، والسلامة
+- **الفحص للحاجات المستمرة** — تحديد الاستجابات الشديدة التي تتطلب دعماً ممتداً
 
-### Trauma-Informed Crisis Intervention
-- **Understanding survival responses** — fight, flight, freeze (not non-compliance)
-- **Safety and control** — respecting client choice, transparency
-- **Avoiding re-traumatization** — gentle approaches, pacing, explaining procedures
+### التدخل في الأزمات المراعي للصدمة
+- **فهم استجابات النجاة** — القتال أو الفرار أو التجمد (وليس عدم الامتثال)
+- **السلامة والتحكم** — احترام اختيار المسترشد، والشفافية
+- **تجنب إعادة الصدمة** — مقاربات لطيفة، ووتيرة مناسبة، وشرح الإجراءات
 
-## Crisis Counselor Competencies
+## كفايات مرشد الأزمات
 
-- **Rapid assessment** — ability to quickly identify risk factors and severity
-- **Emotional regulation** — remaining calm under pressure
-- **De-escalation** — verbal and environmental management of escalating situations
-- **Cultural competence** — understanding diverse crisis experiences and responses
-- **Suicide risk and threat assessment** — knowledge of protocols and evidence
-- **Trauma awareness** — recognizing trauma responses and avoiding re-traumatization
-- **Boundaries and self-care** — managing vicarious trauma and burnout
-- **Coordination with emergency services** — medical, law enforcement, psychiatric hospitalization
+- **التقييم السريع** — القدرة على تحديد عوامل الخطر وشدتها سريعاً
+- **تنظيم الانفعال** — الحفاظ على الهدوء تحت الضغط
+- **تهدئة التصعيد** — إدارة لفظية وبيئية للمواقف المتصاعدة
+- **الكفاءة الثقافية** — فهم تنوع خبرات الأزمة واستجاباتها
+- **تقييم خطر الانتحار والتهديد** — معرفة بالبروتوكولات والأدلة
+- **الوعي بالصدمة** — التعرف على استجابات الصدمة وتجنب إعادة الصدمة
+- **الحدود والعناية الذاتية** — إدارة الصدمة بالوكالة والاحتراق النفسي
+- **التنسيق مع خدمات الطوارئ** — الطبية، وإنفاذ القانون، والإدخال النفسي
 
-## Related Branches
+## فروع ذات صلة
 
-- [[br-grief-counseling]] — grief crisis and bereavement support
-- [[br-trauma-psychology]] — complex trauma responses beyond acute crisis
-- [[br-multicultural-counseling-expansion]] — culturally-informed crisis response
+- [[br-grief-counseling]] — أزمة الفقد ودعم الحداد
+- [[br-trauma-psychology]] — استجابات الصدمة المعقدة بما يتجاوز الأزمة الحادة
+- [[br-multicultural-counseling-expansion]] — استجابة للأزمات واعية ثقافياً
 
-## Crisis Service Models
+## نماذج خدمة الأزمات
 
-- **Crisis hotlines and warmlines** — 24/7 telephone support
-- **Crisis text lines** — text-based crisis support
-- **Mobile crisis teams** — in-home/community crisis intervention
-- **Crisis stabilization units (CSU)** — short-term non-hospital crisis residential care
-- **Hospital emergency departments** — psychiatric emergency care
-- **School-based crisis response teams** — coordinated response to school crises
-- **Community disaster response** — mental health agencies, Red Cross, volunteer organizations
+- **خطوط الأزمات الساخنة والدافئة** — دعم هاتفي على مدار الساعة
+- **خطوط الأزمات النصية** — دعم عبر الرسائل النصية
+- **فرق الأزمات المتنقلة** — تدخل في الأزمات داخل المنزل/المجتمع
+- **وحدات تثبيت الأزمة (CSU)** — رعاية إقامة قصيرة الأمد غير استشفائية للأزمة
+- **أقسام الطوارئ في المستشفيات** — رعاية الطوارئ النفسية
+- **فرق الاستجابة للأزمات المدرسية** — استجابة منسَّقة لأزمات المدرسة
+- **الاستجابة المجتمعية للكوارث** — وكالات الصحة النفسية، والصليب الأحمر، والمنظمات التطوعية
 
-## Key Figures
+## أعلام بارزون
 
-- Karl Slaikeu — crisis intervention model
-- Albert Roberts — crisis intervention theory and assessment
-- Lethel Weems — crisis counseling standards
-- William Glasser — control theory and crisis
-- Donna Orange — relational crisis intervention
-- Bessel van der Kolk — neurobiology of trauma and crisis
+- كارل سلايكو (Karl Slaikeu) — نموذج التدخل في الأزمات
+- ألبرت روبرتس (Albert Roberts) — نظرية التدخل في الأزمات وتقييمها
+- ليثل ويمز (Lethel Weems) — معايير إرشاد الأزمات
+- وليام غلاسر (William Glasser) — نظرية التحكم والأزمة
+- دونا أورانج (Donna Orange) — التدخل العلائقي في الأزمات
+- بيسل فان دير كولك (Bessel van der Kolk) — علم الأعصاب للصدمة والأزمة
 
-## Primary Sources
+## المصادر
 
 1. Kleespies, P.M. (Ed.). (2009). Behavioral emergencies: An evidence-based resource for evaluating and managing risk of suicide, violence, and victimization. American Psychological Association.
 2. Roberts, A.R. (Ed.). (2005). Crisis intervention handbook: Assessment, treatment, and research (3rd ed.). Oxford University Press.
 3. Slaiku, K.A., & Leff-Simon, S. (1990). Crisis intervention: Clinical judgment and program administration. Longman.
 4. Weems, L., & Weaver, G. (2002). Crisis counseling in schools. American Counseling Association.
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Acute stress disorder
-- Risk assessment and management
-- Safety planning
-- De-escalation
-- Psychological first aid
-- Imminent danger evaluation
-- Crisis hotlines
-- Postvention
-- Disaster mental health response
-- Vicarious trauma
+- اضطراب الضغط الحاد
+- تقييم الخطر وإدارته
+- التخطيط للسلامة
+- تهدئة التصعيد
+- الإسعاف النفسي الأولي
+- تقييم الخطر الوشيك
+- خطوط الأزمات الساخنة
+- ما بعد الحدث
+- الاستجابة للصحة النفسية في الكوارث
+- الصدمة بالوكالة
+</content>

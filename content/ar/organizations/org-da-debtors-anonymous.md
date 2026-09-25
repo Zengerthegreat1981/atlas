@@ -6,114 +6,114 @@ part: psychology
 parent: twelve-step fellowships, mutual-aid
 ---
 
-# Debtors Anonymous (DA)
+# المَدينون المجهولون (Debtors Anonymous, DA)
 
-Debtors Anonymous is a twelve-step program for people recovering from compulsive debt, compulsive spending, and money avoidance. Founded in 1968, DA applies twelve-step principles to financial behaviors and attitudes around money.
+المدينون المجهولون برنامج خطوات اثنتي عشرة للمتعافين من الدَّين القهري والإنفاق القهري وتجنّب المال. تأسس عام 1968، ويطبق DA مبادئ الخطوات الاثنتي عشرة على السلوكيات المالية والمواقف تجاه المال.
 
-## Overview
+## لمحة عامة
 
-- **Founded:** 1968
-- **Members:** 50,000+ globally
-- **Focus:** Compulsive debt, spending addiction, money avoidance
-- **Approach:** Twelve steps, financial accountability, pressure relief groups
+- **التأسيس:** 1968
+- **الأعضاء:** أكثر من 50,000 حول العالم
+- **التركيز:** الدَّين القهري، وإدمان الإنفاق، وتجنّب المال
+- **المقاربة:** خطوات اثنتا عشرة، مساءلة مالية، مجموعات تخفيف الضغط
 
-## Addiction Definition in DA
+## تعريف الإدمان في DA
 
-**Compulsive behaviors DA addresses:**
-- Spending beyond means; credit card debt
-- Impulse buying and retail therapy
-- Hiding purchases from partner/family
-- Using debt to manage emotions
-- Avoiding looking at finances; not opening bills
-- Taking on debt for others
-- Financial chaos and inability to budget
+**السلوكيات القهرية التي يعالجها DA:**
+- الإنفاق فوق الإمكانيات؛ ديون بطاقات الائتمان
+- الشراء الاندفاعي والعلاج بالتسوق
+- إخفاء المشتريات عن الشريك/الأسرة
+- استخدام الدَّين لإدارة المشاعر
+- تجنّب النظر في الأوضاع المالية؛ عدم فتح الفواتير
+- تحمّل ديون لآخرين
+- فوضى مالية وعجز عن وضع ميزانية
 
-## Twelve-Step Adaptation
+## تكييف الخطوات الاثنتي عشرة
 
-- "Admitted powerlessness over debt"
-- Higher Power to restore sanity around money
-- Inventory of financial behaviors
-- Moral action and financial responsibility
-- Helping others with money problems
+- "الإقرار بالعجز أمام الدَّين"
+- قوة عليا تعيد الرشد بشأن المال
+- جرد للسلوكيات المالية
+- فعل أخلاقي ومسؤولية مالية
+- مساعدة آخرين يعانون مشكلات مالية
 
-## Core Principles
+## المبادئ الأساسية
 
-- **Abstinence from unsecured debt:** stop taking on new debt; pay cash or don't buy
-- **Pressure relief group:** peers help identify spending triggers and support restraint
-- **Sponsor:** experienced member provides accountability and guidance
-- **"We become willing":** gradual shift from compulsion to willing action
+- **الامتناع عن الدَّين غير المضمون:** التوقف عن تحمّل ديون جديدة؛ الدفع نقداً أو عدم الشراء
+- **مجموعة تخفيف الضغط:** يساعد الأقران في تحديد محفزات الإنفاق ودعم ضبط النفس
+- **الراعي:** عضو ذو خبرة يوفر المساءلة والتوجيه
+- **"نصبح مستعدين":** تحوّل تدريجي من القهر إلى الفعل الإرادي
 
-## Components
+## المكوّنات
 
-### Pressure Relief Groups
-- Specific DA innovation: group of 3-4 people meet to discuss finances
-- Member presents spending plan; group asks supportive questions
-- Accountability without shame
-- Peer support for financial abstinence
+### مجموعات تخفيف الضغط
+- ابتكار خاص بـDA: مجموعة من 3-4 أشخاص يجتمعون لمناقشة الأوضاع المالية
+- يعرض العضو خطة إنفاقه؛ وتطرح المجموعة أسئلة داعمة
+- مساءلة دون عار
+- دعم الأقران للامتناع المالي
 
-### Sponsorship
-- Sponsor holds financial information (sometimes)
-- Provides accountability and guidance
-- Helps identify triggers and patterns
-- Available for crisis support around spending urges
+### الرعاية
+- يحتفظ الراعي أحياناً بالمعلومات المالية
+- يوفر المساءلة والتوجيه
+- يساعد في تحديد المحفزات والأنماط
+- متاح لدعم الأزمات حول دوافع الإنفاق
 
-### Financial Tools
-- Spending plan: detailed budget and abstinence guidelines
-- Pressure relief: group check-in on finances
-- Meetings: discussion of money attitudes, fears, patterns
+### أدوات مالية
+- خطة الإنفاق: ميزانية مفصلة وإرشادات امتناع
+- تخفيف الضغط: متابعة جماعية للأوضاع المالية
+- الاجتماعات: مناقشة المواقف تجاه المال والمخاوف والأنماط
 
-## Comorbidities
+## الاعتلالات المصاحبة
 
-- Often co-occurs with substance addiction or other compulsive behaviors
-- Trauma and financial trauma common (poverty, loss, being defrauded)
-- Depression and anxiety often trigger spending
-- Relationship damage from financial deception
+- كثيراً ما يترافق مع إدمان المواد أو سلوكيات قهرية أخرى
+- الصدمة والصدمة المالية شائعتان (الفقر، الخسارة، التعرض للاحتيال)
+- الاكتئاب والقلق كثيراً ما يحفزان الإنفاق
+- ضرر العلاقات بسبب الخداع المالي
 
-## Integration with Professional Services
+## التكامل مع الخدمات المهنية
 
-### Relationship to Financial Counseling
-- DA provides peer support and behavior change
-- Financial advisor/counselor provides technical help (budgeting, debt payoff, credit repair)
-- Both complementary
+### العلاقة بالاستشارة المالية
+- DA يوفر دعم الأقران وتغيير السلوك
+- المستشار المالي يوفر مساعدة تقنية (الميزانية، سداد الديون، إصلاح الائتمان)
+- كلاهما مكمِّل للآخر
 
-### Relationship to Therapy
-- Therapist addresses emotional issues driving spending
-- DA provides accountability and peer support
-- Often combined for best outcomes
+### العلاقة بالعلاج
+- يعالج المعالج المسائل العاطفية الدافعة للإنفاق
+- DA يوفر المساءلة ودعم الأقران
+- كثيراً ما يُجمعان لتحقيق أفضل النتائج
 
-### Relationship to Banking/Credit Systems
-- DA works to reduce debt; banking system offers credit
-- Tension: credit constantly available; DA requires restraint
-- Some members eliminate credit cards entirely
+### العلاقة بالأنظمة المصرفية والائتمانية
+- يعمل DA على خفض الدَّين؛ والنظام المصرفي يعرض الائتمان
+- توتر: الائتمان متاح باستمرار؛ وDA يتطلب ضبط النفس
+- يلغي بعض الأعضاء بطاقات الائتمان كلياً
 
-## Effectiveness
+## الفعالية
 
-- Limited research (small fellowship, anonymity)
-- Peer-reported benefits: financial stability, reduced anxiety, behavior change
-- Effectiveness depends on commitment to abstinence and group participation
-- Often combined with therapy and financial counseling
+- بحث محدود (رابطة صغيرة، سرية)
+- فوائد مُبلَّغ عنها من الأقران: استقرار مالي، قلق أقل، تغيّر سلوكي
+- تتوقف الفعالية على الالتزام بالامتناع والمشاركة الجماعية
+- كثيراً ما يُجمع بالعلاج والاستشارة المالية
 
-## Criticisms
+## الانتقادات
 
-- Abstinence from unsecured debt not always possible/practical (medical debt, necessary loans)
-- Deficit-focused (what not to do) vs. skills-building (how to manage money)
-- May delay needed bankruptcy or professional financial restructuring
-- Gender dynamics: women often blamed for "shopping addiction" vs. systemic inequality
+- الامتناع عن الدَّين غير المضمون ليس ممكناً/عملياً دائماً (ديون طبية، قروض ضرورية)
+- يركز على العجز (ما لا يجب فعله) أكثر من بناء المهارات (كيفية إدارة المال)
+- قد يؤخر إفلاساً أو إعادة هيكلة مالية مهنية لازمة
+- ديناميات الجنس: كثيراً ما تُلام النساء على "إدمان التسوق" بدل معالجة اللامساواة البنيوية
 
-## Related Organizations
+## منظمات ذات صلة
 
-- [[org-oa-overeaters-anonymous]] — compulsive behavior; eating/spending both ways to self-soothe
-- [[org-ga-gamblers-anonymous]] — financial risk-taking and loss
-- [[org-aa-alcoholics-anonymous]], [[org-na-narcotics-anonymous]] — often co-occurs with substance addiction
+- [[org-oa-overeaters-anonymous]] — سلوك قهري؛ الأكل والإنفاق كلاهما طريقتان لتهدئة النفس
+- [[org-ga-gamblers-anonymous]] — المخاطرة المالية والخسارة
+- [[org-aa-alcoholics-anonymous]]، [[org-na-narcotics-anonymous]] — كثيراً ما يترافق مع إدمان المواد
 
-## Alternatives & Complements
+## بدائل ومكمِّلات
 
-- Professional financial counseling
-- Bankruptcy and debt restructuring
-- Cognitive-behavioral therapy for spending urges
-- Financial therapy integrating emotional and financial work
+- الاستشارة المالية المهنية
+- الإفلاس وإعادة هيكلة الديون
+- العلاج المعرفي السلوكي لدوافع الإنفاق
+- العلاج المالي الذي يدمج العمل العاطفي والمالي
 
-## Primary Sources
+## المصادر الأولية
 
 1. Debtors Anonymous (1986). Debtors Anonymous: The Basic Text. DA Publishing.
 2. Klontz, B.T., et al. (2006). Financial trauma: A new field of financial therapy. Journal of Financial Therapy, 1(1), 25-47.

@@ -7,139 +7,140 @@ parent: group psychotherapy, psychoanalytic
 featured: true
 ---
 
-# Group Analysis: The Foulkesian Approach
+# التحليل الجمعي: مقاربة فولكس
 
-Group analysis is a psychoanalytic approach to group psychotherapy developed by S.H. Foulkes, integrating psychoanalytic theory with group dynamics. Rather than treating individual members with an analyst present, group analysis views the group itself as the therapeutic agent, with the conductor (therapist) facilitating insight into unconscious group processes.
+التحليل الجمعي مقاربةٌ تحليلية نفسية للعلاج الجمعي طوّرها س. هـ. فولكس (S.H. Foulkes)، تدمج النظرية التحليلية النفسية بديناميكيات الجماعة. وبدلاً من معالجة الأعضاء فرادى بحضور محلل نفسي، ينظر التحليل الجمعي إلى الجماعة نفسها بوصفها العامل العلاجي، مع قيام "الموجِّه" (المعالج) بتيسير البصيرة في العمليات الجمعية اللاشعورية.
 
-## Theoretical Foundations
+## الأسس النظرية
 
-**S.H. Foulkes (1898-1976):**
-- Trained as psychoanalyst and neurologist
-- Developed group-analytic approach in 1940s-1950s
-- Founded Group Analytic Society (London)
-- Integrated Freud, Jung, and systems theory
+**س. هـ. فولكس (1898-1976):**
+- تدرّب محللاً نفسياً وطبيب أعصاب
+- طوّر المقاربة التحليلية الجمعية في أربعينيات وخمسينيات القرن العشرين
+- أسّس جمعية التحليل الجمعي (لندن)
+- دمج فرويد ويونغ ونظرية الأنظمة
 
-**Core Principles:**
-- The group is more than sum of its parts
-- Unconscious group processes drive behavior
-- Members are "nodes" in a network
-- Transference occurs at group level, not just individual
-- Free-floating discussion (like free association)
-- Conductor interprets group dynamics and defenses
+**المبادئ الجوهرية:**
+- الجماعة أكثر من مجموع أجزائها
+- العمليات الجمعية اللاشعورية تقود السلوك
+- الأعضاء "عُقَد" في شبكة
+- التحويل يقع على مستوى الجماعة لا الفرد فقط
+- نقاش حر التداعي (كالتداعي الحر)
+- يفسّر الموجِّه ديناميكيات الجماعة ودفاعاتها
 
-## Key Concepts
+## المفاهيم الجوهرية
 
-### The Group Matrix
-- Shared psychological space within group
-- Medium through which communication occurs
-- Pre-existing patterns and dynamics influence individuals
-- Individual neuroses embedded in group context
+### مصفوفة الجماعة
+- فضاء نفسي مشترك داخل الجماعة
+- الوسيط الذي يجري عبره التواصل
+- أنماط وديناميكيات سابقة تؤثر في الأفراد
+- الأعصبة الفردية متضمَّنة في سياق الجماعة
 
-### The Conductor (Therapist Role)
-- Creates "analytic frame" (safe boundaries, confidentiality, consistency)
-- Listens to group associations (not just individual)
-- Interprets group-level patterns and dynamics
-- Non-directive; avoids advice or excessive activity
-- Models analytic attitude: curiosity, non-judgment, acceptance
+### الموجِّه (دور المعالج)
+- يخلق "الإطار التحليلي" (حدود آمنة، وسرية، واتساق)
+- يُصغي إلى تداعيات الجماعة (لا الفرد فقط)
+- يفسّر الأنماط والديناميكيات على مستوى الجماعة
+- غير توجيهي؛ يتجنب النصح أو النشاط المفرط
+- يُجسّد الموقف التحليلي: الفضول، وعدم إصدار الأحكام، والقبول
 
-### Free-Floating Discussion
-- Members encouraged to speak freely, as in individual analysis
-- No agenda; group determines topics
-- Unconscious emerges through free association at group level
-- Conductor helps group understand its own dynamics
+### النقاش حر التداعي
+- يُشجَّع الأعضاء على التحدث بحرية، كما في التحليل الفردي
+- لا جدول أعمال؛ الجماعة تحدد المواضيع
+- يظهر اللاشعور عبر التداعي الحر على مستوى الجماعة
+- يساعد الموجِّه الجماعة على فهم ديناميكياتها الخاصة
 
-### Transference & Counter-Transference
-- Individual transference to conductor AND to members
-- Group transference: how group collectively relates to conductor
-- Multiple transference patterns occur simultaneously
-- Analysis of transference central to change
+### التحويل والتحويل المضاد
+- تحويل فردي إلى الموجِّه وإلى الأعضاء أيضاً
+- التحويل الجمعي: كيف ترتبط الجماعة جماعياً بالموجِّه
+- تقع أنماط تحويل متعددة في آنٍ واحد
+- تحليل التحويل محوري للتغيير
 
-## Group Dynamics Explored
+## ديناميكيات الجماعة المستكشَفة
 
-**Common group processes:**
-- **Scapegoating:** group projects feared parts onto individual
-- **Regression:** group collectively moves to primitive functioning
-- **Resistance:** group-level defensive patterns
-- **Sibling dynamics:** members replay family roles with each other
-- **Authority dynamics:** group's relationship to conductor's power
+**عمليات جمعية شائعة:**
+- **كبش الفداء:** تُسقط الجماعة أجزاءً مخيفة على فرد
+- **الارتداد:** تنتقل الجماعة جماعياً إلى أداء بدائي
+- **المقاومة:** أنماط دفاعية على مستوى الجماعة
+- **ديناميكيات الأخوة:** يعيد الأعضاء أدواراً أسرية مع بعضهم بعضاً
+- **ديناميكيات السلطة:** علاقة الجماعة بسلطة الموجِّه
 
-## Therapeutic Mechanisms
+## الآليات العلاجية
 
-1. **Insight:** understanding unconscious patterns and defenses
-2. **Corrective emotional experience:** safe group allows working through
-3. **Identification:** members identify with conductor's analytic stance
-4. **Universalization:** discovering shared unconscious patterns
-5. **Peer interpretation:** members help each other gain insight
+1. **البصيرة:** فهم الأنماط والدفاعات اللاشعورية
+2. **الخبرة الانفعالية التصحيحية:** تتيح الجماعة الآمنة العمل خلال الصعوبات
+3. **التماهي:** يتماهى الأعضاء مع الموقف التحليلي للموجِّه
+4. **التعميم:** اكتشاف أنماط لاشعورية مشتركة
+5. **تفسير الأقران:** يساعد الأعضاء بعضهم بعضاً على اكتساب البصيرة
 
-## Meeting Structure
+## بنية اللقاءات
 
-- **Typical group:** 8-10 members, therapist, weekly 90-minute sessions
-- **Duration:** typically 2-3 years (long-term)
-- **Open or closed:** can be rotating membership or closed cohort
-- **Setting:** psychoanalytic institute or private practice
-- **Fees:** members cover conductor's time (expensive)
+- **الجماعة النموذجية:** 8-10 أعضاء، معالج، جلسات أسبوعية مدتها 90 دقيقة
+- **المدة:** عادة 2-3 سنوات (طويلة الأمد)
+- **مفتوحة أو مغلقة:** يمكن أن تكون عضوية متناوبة أو فوجاً مغلقاً
+- **الإعداد:** معهد تحليل نفسي أو ممارسة خاصة
+- **الرسوم:** يغطي الأعضاء وقت الموجِّه (مكلفة)
 
-## Compared to Individual Psychoanalysis
+## مقارنة بالتحليل النفسي الفردي
 
-| Aspect | Group Analysis | Individual Analysis |
+| الجانب | التحليل الجمعي | التحليل الفردي |
 |---|---|---|
-| Transference | Multiple, with all members | Primarily to analyst |
-| Interpretive work | Group-level focus | Individual-level focus |
-| Peer support | Peer group provides support | Analyst sole support |
-| Duration | 2-3 years typical | 3-5+ years typical |
-| Cost | Shared therapist time (cheaper) | Full hourly fee |
-| Regression | Group can regress collectively | Individual regression focused |
+| التحويل | متعدد، مع جميع الأعضاء | إلى المحلل أساساً |
+| العمل التفسيري | تركيز على مستوى الجماعة | تركيز على المستوى الفردي |
+| دعم الأقران | توفره جماعة الأقران | المحلل هو الدعم الوحيد |
+| المدة | 2-3 سنوات عادة | 3-5 سنوات فأكثر عادة |
+| التكلفة | مشاركة وقت المعالج (أرخص) | الأجر الكامل بالساعة |
+| الارتداد | يمكن أن ترتدّ الجماعة جماعياً | الارتداد الفردي مركَّز |
 
-## Effectiveness & Evidence
+## الفعالية والأدلة
 
-- **Limited RCT research:** psychoanalytic tradition less focused on outcome studies
-- **Clinical observation:** long-term groups show significant personality change
-- **Suitable for:** neurotic-range difficulties, personality issues, relational patterns
-- **Less suitable for:** acute crisis, active substance abuse, severe mental illness
+- **بحث محدود بالتجارب العشوائية المضبوطة:** التقليد التحليلي أقل تركيزاً على دراسات النتائج
+- **الملاحظة السريرية:** تُظهر الجماعات طويلة الأمد تغيراً كبيراً في الشخصية
+- **مناسبة لـ:** الصعوبات ضمن النطاق العصابي، وقضايا الشخصية، والأنماط العلائقية
+- **أقل ملاءمة لـ:** الأزمة الحادة، وإساءة استخدام المواد الفعّالة، والمرض النفسي الشديد
 
-## Variations & Extensions
+## التنويعات والامتدادات
 
-**Foulkes' approach has spawned:**
-- **Extramural group analytic forums:** open discussion groups
-- **Group analytic psychodrama:** combining group analysis with psychodrama
-- **Institutional group analysis:** applying group-analytic principles to organizations
-- **Group analysis in different cultural contexts:** adapted worldwide
+**أنتجت مقاربة فولكس:**
+- **منتديات تحليلية جمعية خارج الإطار المؤسسي:** مجموعات نقاش مفتوحة
+- **السيكودراما التحليلية الجمعية:** دمج التحليل الجمعي بالسيكودراما
+- **التحليل الجمعي المؤسسي:** تطبيق مبادئ التحليل الجمعي على المنظمات
+- **التحليل الجمعي في سياقات ثقافية مختلفة:** تكيّف حول العالم
 
-## Critiques
+## الانتقادات
 
-- **Time and cost:** expensive and lengthy commitment
-- **Lack of structure:** difficult for some clients
-- **Dependency on conductor:** group can become overly focused on therapist
-- **Regression risks:** group regression can be anxiety-provoking
-- **Limited evidence base:** fewer outcome studies than CBT or other modalities
+- **الوقت والتكلفة:** التزام مكلف وطويل
+- **غياب البنية:** صعب على بعض المسترشدين
+- **الاعتمادية على الموجِّه:** قد تصبح الجماعة مفرطة التركيز على المعالج
+- **مخاطر الارتداد:** قد يكون ارتداد الجماعة مثيراً للقلق
+- **قاعدة أدلة محدودة:** دراسات نتائج أقل من العلاج المعرفي السلوكي أو غيره من المقاربات
 
-## Related Approaches
+## مقاربات ذات صلة
 
-- [[br-psychoanalysis]] — individual psychoanalytic foundation
-- [[sch-group-psychotherapy]] — broader group therapy field
-- [[br-psychodrama-moreno]] — action-based group work
-- [[br-institutional-psychotherapy]] — group dynamics in organizations
+- [[br-psychoanalysis]] — الأساس التحليلي النفسي الفردي
+- [[sch-group-psychotherapy]] — مجال العلاج الجمعي الأوسع
+- [[br-psychodrama-moreno]] — العمل الجمعي القائم على الفعل
+- [[br-institutional-psychotherapy]] — ديناميكيات الجماعة في المنظمات
 
-## Key Figures (Post-Foulkes)
+## أعلام بارزون (بعد فولكس)
 
-- **Dennis Brown** — developed group analysis in UK
-- **Malcolm Pines** — contemporary group analyst
-- **Salman Akhtar** — group analytic work with trauma
-- **Earl Hoag** — North American development
+- **دينيس براون (Dennis Brown)** — طوّر التحليل الجمعي في المملكة المتحدة
+- **مالكوم باينز (Malcolm Pines)** — محلل جمعي معاصر
+- **سلمان أختر (Salman Akhtar)** — عمل تحليلي جمعي مع الصدمة
+- **إيرل هوغ (Earl Hoag)** — التطور في أمريكا الشمالية
 
-## Primary Sources
+## المصادر
 
 1. Foulkes, S.H. (1964). Therapeutic group analysis. International Universities Press.
 2. Foulkes, S.H. (1973). The group as a whole. Journal of Analytical Psychology, 18(2), 126-134.
 3. Pines, M. (Ed.). (1985). Bion and group psychotherapy. Routledge.
 4. Ahlin, G. (2011). Towards a comprehensive theory of group analysis. Group Analysis, 44(1), 45-63.
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Psychoanalytic group therapy
-- Group matrix
-- Free-floating discussion
-- Conductor role
-- Group transference
-- Institutional analysis
-- Therapeutic community
+- العلاج الجمعي التحليلي النفسي
+- مصفوفة الجماعة
+- النقاش حر التداعي
+- دور الموجِّه
+- التحويل الجمعي
+- التحليل المؤسسي
+- المجتمع العلاجي
+</content>

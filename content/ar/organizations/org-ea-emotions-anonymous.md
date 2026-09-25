@@ -6,89 +6,89 @@ part: psychology
 parent: twelve-step fellowships, mutual-aid
 ---
 
-# Emotions Anonymous (EA)
+# المشاعر المجهولة (Emotions Anonymous, EA)
 
-Emotions Anonymous is a twelve-step program for people recovering from emotional distress, mood problems, and emotional compulsivity. Founded in 1971, EA addresses emotional regulation and mental health using peer support and twelve-step principles.
+المشاعر المجهولة برنامج خطوات اثنتي عشرة للمتعافين من الضائقة العاطفية ومشكلات المزاج والقهر العاطفي. تأسس عام 1971، ويعالج EA التنظيم العاطفي والصحة النفسية باستخدام دعم الأقران ومبادئ الخطوات الاثنتي عشرة.
 
-## Overview
+## لمحة عامة
 
-- **Founded:** 1971 in Minnesota
-- **Members:** Smaller fellowship; growing with mental health awareness
-- **Focus:** Emotional problems, mood issues, anxiety, depression, emotional dysregulation
-- **Approach:** Peer support, twelve steps, spiritual practice
+- **التأسيس:** 1971 في مينيسوتا
+- **الأعضاء:** رابطة أصغر؛ تتنامى مع الوعي بالصحة النفسية
+- **التركيز:** المشكلات العاطفية، قضايا المزاج، القلق، الاكتئاب، خلل التنظيم العاطفي
+- **المقاربة:** دعم الأقران، خطوات اثنتا عشرة، ممارسة روحانية
 
-## Focus Areas
+## مجالات التركيز
 
-- Depression and emotional pain
-- Anxiety and worry
-- Anger management
-- Emotional regulation
-- Self-esteem and identity
-- Coping with life stress
-- Emotional compulsivity (using emotions to avoid action, perpetuating cycles)
+- الاكتئاب والألم العاطفي
+- القلق والهمّ
+- إدارة الغضب
+- التنظيم العاطفي
+- تقدير الذات والهوية
+- التكيف مع ضغوط الحياة
+- القهر العاطفي (استخدام المشاعر لتجنب الفعل، مما يديم الدورات)
 
-## Twelve-Step Adaptation
+## تكييف الخطوات الاثنتي عشرة
 
-- "Admitted powerlessness over our emotions"
-- Belief in Higher Power for help with emotional well-being
-- Inventory of emotional patterns
-- Amends and spiritual practice
-- Service to others in EA
+- "الإقرار بالعجز أمام مشاعرنا"
+- الإيمان بقوة عليا للمساعدة في الرفاه العاطفي
+- جرد الأنماط العاطفية
+- جبر الضرر وممارسة روحانية
+- خدمة آخرين في EA
 
-## Relationship to Professional Mental Health
+## العلاقة بالصحة النفسية المهنية
 
-**Positioning:**
-- Explicitly states not substitute for professional treatment
-- Recommends psychiatric care, therapy, medication as needed
-- Complementary to professional services
+**الموقع:**
+- يصرِّح صراحة بأنه ليس بديلاً عن العلاج المهني
+- يوصي بالرعاية النفسية والعلاج والدواء عند الحاجة
+- مكمِّل للخدمات المهنية
 
-**Coordination challenges:**
-- Psychiatrist/therapist may not be familiar with EA
-- Medication discussions: EA members vary in acceptance
-- Some skepticism about professional help in traditional twelve-step culture
+**تحديات التنسيق:**
+- قد لا يكون الطبيب النفسي/المعالج على دراية بـEA
+- نقاشات الدواء: يتفاوت أعضاء EA في تقبّله
+- بعض التشكك في المساعدة المهنية ضمن ثقافة الخطوات الاثنتي عشرة التقليدية
 
-## Meetings & Support
+## الاجتماعات والدعم
 
-- Weekly meetings: discussion-based, speaker-led
-- Sponsor relationships: guidance through twelve steps
-- Phone support and digital meetings expanding
+- اجتماعات أسبوعية: نقاشية، بقيادة متحدثين
+- علاقات الرعاية: توجيه عبر الخطوات الاثنتي عشرة
+- الدعم الهاتفي والاجتماعات الرقمية في توسع
 
-## Effectiveness & Evidence
+## الفعالية والأدلة
 
-- Very limited research; smallest of major twelve-steps
-- Observational reports: regular attendance supports emotional resilience
-- Best combined with therapy, medication, professional care
-- Peer support for emotional regulation valued by members
+- بحث محدود جداً؛ أصغر برامج الخطوات الاثنتي عشرة الكبرى
+- تقارير رصدية: الحضور المنتظم يدعم المرونة العاطفية
+- الأفضل حين يُجمع بالعلاج والدواء والرعاية المهنية
+- يقدِّر الأعضاء دعم الأقران للتنظيم العاطفي
 
-## Comparison to Mental Health Treatment
+## المقارنة بعلاج الصحة النفسية
 
-- **Therapy:** professional guidance, trauma processing, skill-building
-- **Medication:** neurochemical support for depression, anxiety, bipolar
-- **EA:** peer support, meaning-making, community, spiritual growth
+- **العلاج:** توجيه مهني، معالجة الصدمة، بناء المهارات
+- **الدواء:** دعم كيميائي عصبي للاكتئاب والقلق والثنائي القطب
+- **EA:** دعم الأقران، صنع المعنى، المجتمع، النمو الروحاني
 
-All three often complementary
+وغالباً ما تكون الثلاثة متكاملة
 
-## Related Organizations
+## منظمات ذات صلة
 
-- [[org-coda-codependents-anonymous]] — emotional patterns in relationships
-- [[org-aa-alcoholics-anonymous]] — often co-occurs with emotional issues
-- [[org-na-narcotics-anonymous]] — addiction often masking emotional pain
+- [[org-coda-codependents-anonymous]] — الأنماط العاطفية في العلاقات
+- [[org-aa-alcoholics-anonymous]] — كثيراً ما يترافق مع مشكلات عاطفية
+- [[org-na-narcotics-anonymous]] — الإدمان كثيراً ما يخفي ألماً عاطفياً
 
-## Strengths
+## نقاط القوة
 
-- Free, accessible
-- Non-medicalized approach to emotional wellbeing
-- Community and peer support
-- Spiritual dimension for meaning
+- مجاني وسهل الوصول
+- مقاربة غير مطبَّبة للرفاه العاطفي
+- مجتمع ودعم من الأقران
+- بُعد روحاني للمعنى
 
-## Limitations
+## القيود
 
-- Limited research/visibility
-- Small membership (fewer meetings available)
-- Not substitute for professional care
-- May delay needed treatment if used alone
+- بحث/حضور محدود
+- عضوية صغيرة (اجتماعات أقل متاحة)
+- ليس بديلاً عن الرعاية المهنية
+- قد يؤخر العلاج اللازم إن استُخدم وحده
 
-## Primary Sources
+## المصادر الأولية
 
 1. Emotions Anonymous (1978). Emotions Anonymous: The Basic Text. EA Publishing.
 2. Kiecolt-Glaser, J.K., & Glaser, R. (1995). Psychoneuroimmunology and health consequences: Data and shared mechanisms. Psychosomatic Medicine, 57(3), 269-274.

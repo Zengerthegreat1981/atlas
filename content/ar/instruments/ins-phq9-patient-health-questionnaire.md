@@ -9,169 +9,169 @@ related_schools:
   - sch-behavioral-psychology
 ---
 
-# Patient Health Questionnaire-9 (PHQ-9)
+# استبيان صحة المريض التاسع (PHQ-9)
 
-The PHQ-9 is a brief, 9-item depression screening and severity measure based on DSM-5 diagnostic criteria. Developed by Spitzer, Kroenke, and Williams (1999), it assesses frequency of depressive symptoms over the past two weeks and is widely used in primary care, mental health, and research settings.
+استبيان صحة المريض-9 (PHQ-9) مقياس موجز من تسعة بنود لفحص الاكتئاب وقياس شدته، مبني على معايير التشخيص في الدليل التشخيصي والإحصائي الرابع (DSM-IV، وتبقى متوافقة مع DSM-5). طوَّره سبيتزر وكرونكه وويليامز (Spitzer, Kroenke, & Williams, 1999)، ويقيس تواتر أعراض الاكتئاب خلال الأسبوعين الماضيين، وهو مستخدَم على نطاق واسع في الرعاية الأولية والصحة النفسية والبحث العلمي.
 
-## Development
+## التطوير
 
-**Spitzer et al. (1999-2001):**
-- Part of larger Primary Care Evaluation of Mental Disorders (PRIME-MD)
-- Simplified from PRIME-MD for primary care use
-- Items correspond directly to DSM-5 major depression criteria
-- Each item captures one symptom; combination reflects diagnostic syndrome
+**سبيتزر وزملاؤه (1999-2001):**
+- جزء من أداة أشمل هي تقييم الرعاية الأولية لاضطرابات الصحة النفسية (PRIME-MD)
+- بُسِّط من PRIME-MD للاستخدام في الرعاية الأولية
+- تقابل البنود مباشرة معايير نوبة الاكتئاب الجسيم في DSM-IV (المحتفَظ بها في DSM-5)
+- يرصد كل بند عرضاً واحداً؛ ويعكس مجموعها المتلازمة التشخيصية
 
-**Design:**
-- Brief, patient-friendly, no jargon
-- Dual purpose: screening tool and severity measure
-- Validated across primary care, mental health, and international samples
-- Digital versions and brief phone/text administration
+**التصميم:**
+- موجز وسهل على المريض، خالٍ من المصطلحات المتخصصة
+- ذو غرض مزدوج: أداة فحص ومقياس شدة
+- مُتحقَّق منه عبر عيّنات الرعاية الأولية والصحة النفسية وعيّنات دولية
+- صيغ رقمية وإمكانية تطبيقه هاتفياً أو عبر الرسائل النصية بإيجاز
 
-## Items & Format
+## البنود والصيغة
 
-**9 items assessing depression symptoms (past 2 weeks):**
+**تسعة بنود تقيس أعراض الاكتئاب (خلال الأسبوعين الماضيين):**
 
-| # | Item | DSM-5 Criterion |
+| # | البند | معيار DSM-5 |
 |---|------|-----------------|
-| 1 | Little interest or pleasure in doing things | Anhedonia |
-| 2 | Feeling down, depressed, or hopeless | Depressed mood |
-| 3 | Trouble falling or staying asleep, or sleeping too much | Sleep disturbance |
-| 4 | Feeling tired or having little energy | Fatigue |
-| 5 | Poor appetite or overeating | Appetite change |
-| 6 | Feeling bad about yourself—or that you are a failure, or have let yourself or your family down | Worthlessness/guilt |
-| 7 | Trouble concentrating on things, such as reading the newspaper or watching television | Concentration |
-| 8 | Moving or speaking so slowly that other people have noticed? Or the opposite—being so fidgety or restless that you have been moving around a lot more than usual? | Psychomotor change |
-| 9 | Thoughts that you would be better off dead, or of hurting yourself in some way | Suicidality |
+| 1 | قلة الاهتمام أو المتعة في القيام بالأشياء | فقدان المتعة (anhedonia) |
+| 2 | الشعور بالإحباط أو الاكتئاب أو اليأس | المزاج المكتئب |
+| 3 | صعوبة النوم أو المحافظة عليه، أو النوم أكثر من اللازم | اضطراب النوم |
+| 4 | الشعور بالتعب أو قلة الطاقة | الإرهاق |
+| 5 | ضعف الشهية أو الإفراط في الأكل | تغير الشهية |
+| 6 | الشعور بالسوء تجاه النفس، أو الشعور بالفشل، أو بخذلان النفس أو الأسرة | الشعور بانعدام القيمة/الذنب |
+| 7 | صعوبة التركيز على أمور كقراءة الجريدة أو مشاهدة التلفاز | التركيز |
+| 8 | التحرك أو الكلام ببطء شديد لاحظه الآخرون؟ أو العكس، أي التململ أو فرط الحركة أكثر من المعتاد؟ | التغير الحركي النفسي |
+| 9 | أفكار بأنك ستكون أفضل حالاً لو مِتَّ، أو أفكار بإيذاء نفسك بطريقة ما | الميل الانتحاري |
 
-**Response options:**
-- 4-point scale: Not at all (0), Several days (1), More than half the days (2), Nearly every day (3)
-- Time frame: Past 2 weeks
-- Administration time: 1-2 minutes
-- Item 9 (suicide): often asked separately or followed up clinically
+**خيارات الإجابة:**
+- سلّم من أربع درجات: لا إطلاقاً (0)، عدة أيام (1)، أكثر من نصف الأيام (2)، كل يوم تقريباً (3)
+- الإطار الزمني: الأسبوعان الماضيان
+- زمن التطبيق: دقيقة إلى دقيقتين
+- البند 9 (الانتحار): كثيراً ما يُسأل عنه بشكل منفصل ويُتابَع إكلينيكياً
 
-## Scoring & Interpretation
+## التصحيح والتفسير
 
-**Severity scoring:**
-- Sum items 1-9
-- Range: 0-27
-- 0-4: None/minimal depression
-- 5-9: Mild depression
-- 10-14: Moderate depression
-- 15-19: Moderately severe depression
-- 20-27: Severe depression
+**تصحيح الشدة:**
+- جمع البنود 1-9
+- المدى: 0-27
+- 0-4: اكتئاب معدوم/طفيف جداً
+- 5-9: اكتئاب خفيف
+- 10-14: اكتئاب متوسط
+- 15-19: اكتئاب متوسط إلى شديد
+- 20-27: اكتئاب شديد
 
-**Diagnostic scoring (DSM-5):**
-- 5+ symptoms on most days for 2+ weeks ≈ possible major depression
-- Plus depressed mood or anhedonia must be present
-- Severity score ≥10 suggests moderate-to-severe depression likely
+**التصحيح التشخيصي (DSM-5):**
+- خمسة أعراض أو أكثر في معظم الأيام لمدة أسبوعين أو أكثر ≈ احتمال اكتئاب جسيم
+- ويجب أن يكون المزاج المكتئب أو فقدان المتعة حاضراً
+- درجة شدة ≥10 تشير إلى احتمال اكتئاب متوسط إلى شديد
 
-**Limitations:**
-- Sensitivity ~88%, specificity ~88% for major depression
-- Misses dysthymia, persistent depressive disorder
-- Not diagnostic alone; clinical interview required
-- May overestimate in somatic illness populations
+**القيود:**
+- الحساسية نحو 88%، والنوعية نحو 88% للاكتئاب الجسيم
+- لا يكشف عسر المزاج (dysthymia) أو الاضطراب الاكتئابي المستمر
+- لا يصلح للتشخيص وحده؛ يلزم مقابلة إكلينيكية
+- قد يبالغ في التقدير لدى المصابين بأمراض جسدية
 
-## Psychometric Properties
+## الخصائص السيكومترية
 
-**Reliability:**
-- Internal consistency (Cronbach's α): 0.86-0.89
-- Test-retest reliability (2-48 hours): r = 0.84
-- Stable across 2-week periods
-- Item 9 (suicide) sometimes least reliable
+**الثبات:**
+- الاتساق الداخلي (ألفا كرونباخ): 0.86-0.89
+- ثبات إعادة الاختبار (2-48 ساعة): ر = 0.84
+- مستقر عبر فترات الأسبوعين
+- البند 9 (الانتحار) أحياناً الأقل ثباتاً
 
-**Validity:**
-- Convergent validity: high correlation with longer depression scales (r = 0.73-0.84)
-- Criterion validity: diagnoses major depression with 88% accuracy at cutoff ≥10
-- Discriminant validity: distinguishes from anxiety, other conditions
-- Responsiveness: sensitive to treatment change, symptom fluctuation
+**الصدق:**
+- الصدق التقاربي: ارتباط عالٍ بمقاييس الاكتئاب الأطول (ر = 0.73-0.84)
+- صدق المحك: يشخِّص الاكتئاب الجسيم بدقة 88% عند حد قطع ≥10
+- الصدق التمييزي: يميّز عن القلق وحالات أخرى
+- الاستجابة: حساس لتغير العلاج وتذبذب الأعراض
 
-**Cross-cultural:**
-- Validated in 60+ countries, multiple languages
-- Generally consistent psychometrics across cultures
-- Some items (guilt, worthlessness) vary in endorsement by culture
+**عبر الثقافات:**
+- تحقَّق منه في أكثر من 60 بلداً وبلغات متعددة
+- خصائص سيكومترية متسقة عموماً عبر الثقافات
+- تتفاوت بعض البنود (الذنب، انعدام القيمة) في التأييد باختلاف الثقافة
 
-## Clinical & Research Applications
+## التطبيقات الإكلينيكية والبحثية
 
-**Primary care screening:**
-- Depression prevalence 10%; often undetected
-- PHQ-9 cost-effective for initial screening
-- Guides referral for mental health treatment
-- Tracks treatment response over time
+**الفحص في الرعاية الأولية:**
+- انتشار الاكتئاب نحو 10%؛ وكثيراً ما لا يُكتشف
+- PHQ-9 فعّال من حيث التكلفة للفحص الأولي
+- يوجِّه الإحالة إلى علاج الصحة النفسية
+- يتتبع الاستجابة للعلاج مع الوقت
 
-**Mental health settings:**
-- Baseline assessment, symptom severity
-- Treatment planning (severity guides intensity)
-- Outcome measurement
-- Research studies on depression interventions
+**في أماكن الصحة النفسية:**
+- التقييم الأساسي وشدة الأعراض
+- تخطيط العلاج (الشدة توجِّه كثافته)
+- قياس النتائج
+- دراسات بحثية حول تدخلات الاكتئاب
 
-**Special populations:**
-- Postpartum depression screening (Edinburgh Postnatal Depression Scale often preferred)
-- Chronic medical conditions (diabetes, heart disease; common comorbidity)
-- Older adults (sometimes modified for age-appropriateness)
-- Adolescents (12+; slightly modified wording sometimes used)
+**فئات خاصة:**
+- فحص اكتئاب ما بعد الولادة (يُفضَّل غالباً مقياس إدنبره لاكتئاب ما بعد الولادة)
+- الحالات الطبية المزمنة (السكري، أمراض القلب؛ اعتلال مصاحب شائع)
+- كبار السن (يُعدَّل أحياناً ليلائم العمر)
+- المراهقون (12 سنة فأكثر؛ تُستخدم أحياناً صياغة معدَّلة قليلاً)
 
-**Predictive value:**
-- PHQ-9 ≥10: ~50% risk of suicide attempt over 2-3 months
-- Item 9 alone: high specificity; negative doesn't rule out risk
-- Multiple episodes of depressed mood/anhedonia: greater functional impairment
+**القيمة التنبؤية:**
+- PHQ-9 ≥10: نحو 50% من احتمال محاولة انتحار خلال 2-3 أشهر
+- البند 9 وحده: نوعية عالية؛ والنفي لا ينفي الخطر
+- تكرار نوبات المزاج المكتئب/فقدان المتعة: يدل على اختلال وظيفي أكبر
 
-## Strengths
+## نقاط القوة
 
-- **Brevity:** 9 items, <2 minutes
-- **Evidence-based:** direct DSM-5 criterion mapping
-- **Validated:** extensive research; 60+ languages
-- **Dual purpose:** screening and severity measurement
-- **Responsive:** sensitive to treatment change
-- **Free:** public domain, no licensing
-- **Digital:** many online/app versions available
+- **الإيجاز:** تسعة بنود، أقل من دقيقتين
+- **مبني على الأدلة:** تقابل مباشر مع معايير DSM-5
+- **مُتحقَّق منه:** بحث واسع؛ بأكثر من 60 لغة
+- **غرض مزدوج:** الفحص وقياس الشدة
+- **حساس للاستجابة:** يستجيب لتغير العلاج
+- **مجاني:** ملك عام، بلا ترخيص
+- **رقمي:** صيغ إلكترونية وتطبيقات متعددة متاحة
 
-## Limitations
+## القيود
 
-- **Symptom coverage:** captures general depression; misses atypical features
-- **Timeframe:** 2-week recall subject to bias; doesn't capture chronic low-grade depression
-- **Anhedonia-motor items:** items 1 & 8 sometimes misunderstood or conflated with other conditions
-- **Somatic items:** may be falsely elevated in medical illness
-- **Suicidality:** item 9 single item; formal risk assessment needed if endorsed
-- **No diagnostic specificity:** elevated scores in anxiety, other conditions
-- **Cultural sensitivity:** some items (guilt, hopelessness) culturally variable
+- **تغطية الأعراض:** يرصد الاكتئاب العام؛ لا يكشف السمات غير النمطية
+- **الإطار الزمني:** الاستذكار خلال أسبوعين عرضة للتحيز؛ لا يرصد الاكتئاب المزمن الخفيف
+- **بندا فقدان المتعة والحركة:** البندان 1 و8 قد يُساء فهمهما أو يُخلطان بحالات أخرى
+- **البنود الجسدية:** قد تكون مرتفعة زوراً لدى المصابين بأمراض جسدية
+- **الميل الانتحاري:** البند 9 بند واحد؛ يلزم تقييم رسمي للخطر إن أُيِّد
+- **لا نوعية تشخيصية:** ترتفع الدرجات في القلق وحالات أخرى أيضاً
+- **الحساسية الثقافية:** بعض البنود (الذنب، اليأس) تتفاوت ثقافياً
 
-## Variations & Adaptations
+## الصيغ والتكييفات
 
-**Related instruments:**
-- PHQ-8: PHQ-9 without suicide item (sometimes preferred in research)
-- PHQ-2: items 1 & 2 only for ultra-brief screening
-- Modified for adolescents: wording slightly adjusted
-- Translated versions with local validation
+**أدوات ذات صلة:**
+- PHQ-8: نسخة PHQ-9 بلا بند الانتحار (يُفضَّل أحياناً في البحث)
+- PHQ-2: البندان 1 و2 فقط لفحص فائق الإيجاز
+- نسخة معدَّلة للمراهقين: صياغة معدَّلة قليلاً
+- نسخ مترجَمة مع تحقق محلي
 
-**Integration with other PHQ modules:**
-- PHQ series includes GAD-7 (anxiety), PSHQ (somatization)
-- GAD-7 + PHQ-9 comprehensive anxiety/depression screening
-- PRIME-MD: broader mental health diagnostic tool
+**التكامل مع وحدات PHQ الأخرى:**
+- تتضمن سلسلة PHQ مقياس GAD-7 (القلق) ومقياس PSHQ (الجسدنة)
+- GAD-7 مع PHQ-9 فحص شامل للقلق والاكتئاب
+- PRIME-MD: أداة تشخيصية أشمل للصحة النفسية
 
-## Clinical Interpretation Notes
+## ملاحظات في التفسير الإكلينيكي
 
-**Item-level attention:**
-- Item 1 (anhedonia) & 2 (mood): must have one for major depression diagnosis
-- Item 9 (suicide): always follow up clinically if endorsed; never dismiss
-- Items 3-5 (sleep, energy, appetite): common in medical illness; evaluate context
-- Item 7 (concentration): differentiates depression from anxiety (anxiety = racing thoughts)
+**الانتباه على مستوى البند:**
+- البند 1 (فقدان المتعة) والبند 2 (المزاج): يجب توفر أحدهما لتشخيص الاكتئاب الجسيم
+- البند 9 (الانتحار): يجب متابعته إكلينيكياً دائماً إن أُيِّد؛ ولا يُهمَل أبداً
+- البنود 3-5 (النوم، الطاقة، الشهية): شائعة في الأمراض الطبية؛ يجب تقييم السياق
+- البند 7 (التركيز): يميّز الاكتئاب عن القلق (القلق = أفكار متسارعة)
 
-**Treatment tracking:**
-- Ideal: repeat PHQ-9 every 2-4 weeks during treatment
-- Expected trajectory: score decreases with effective therapy/medication
-- Plateau: suggests treatment adjustment needed
-- Lack of change: reassess diagnosis, adherence, expectancies
+**تتبع العلاج:**
+- الأمثل: تكرار PHQ-9 كل 2-4 أسابيع أثناء العلاج
+- المسار المتوقع: تنخفض الدرجة مع العلاج أو الدواء الفعّال
+- الثبات دون تحسن: يشير إلى ضرورة تعديل العلاج
+- غياب التغير: يستدعي إعادة تقييم التشخيص والالتزام والتوقعات
 
-## Primary Sources
+## المصادر الأولية
 
 1. Kroenke, K., Spitzer, R.L., & Williams, J.B. (2001). The PHQ-9: Validity of a brief depression severity measure. Journal of General Internal Medicine, 16(9), 606-613.
 2. Manea, L., Gilbody, S., & McMillan, D. (2012). Optimal cut-off score for diagnosing depression with the Patient Health Questionnaire (PHQ-9): A meta-analysis. CMAJ, 184(3), E191-E196.
 3. Spitzer, R.L., Kroenke, K., Williams, J.B., & Löwe, B. (1999). Utility of a new procedure for diagnosing mental disorders in primary care. Archives of Internal Medicine, 159(15), 1769-1774.
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Depression screening
-- Diagnostic criteria (DSM-5)
-- Mood disorders
-- Treatment monitoring
-- Primary care mental health
+- فحص الاكتئاب
+- معايير التشخيص (DSM-5)
+- اضطرابات المزاج
+- متابعة العلاج
+- الصحة النفسية في الرعاية الأولية

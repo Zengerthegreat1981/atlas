@@ -19,7 +19,7 @@ edges:
 related:
 - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
 - id: "sch-kant-critical", title: "الكانطية النقدية", type: "مدرسة"
-- id: "categorical-imperative", title: "الأمر المطلق (Categorical Imperative)", type: "مفهوم"
+- id: "con-categorical-imperative", title: "الأمر المطلق (Categorical Imperative)", type: "مفهوم"
 - id: "sch-consequentialism-utilitarianism", title: "النفعيةُ والعواقب", type: "مدرسة"
 gaps:
   - "توسيعٌ شاملٌ وتعميقُ المحتوى."

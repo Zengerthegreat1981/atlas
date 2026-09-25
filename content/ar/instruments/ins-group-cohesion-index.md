@@ -8,124 +8,124 @@ related_schools:
   - sch-group-psychotherapy
 ---
 
-# Group Cohesion Index & Group Climate Measures
+# مؤشر تماسك المجموعة ومقاييس مناخ المجموعة
 
-Group cohesion refers to the sense of belonging, safety, and connectedness members experience within a therapy group. Measuring group cohesion is important for predicting therapeutic outcome and monitoring group functioning throughout treatment.
+يشير تماسك المجموعة (group cohesion) إلى الشعور بالانتماء والأمان والاتصال الذي يختبره أعضاء مجموعة علاجية. وقياس تماسك المجموعة مهم للتنبؤ بنتيجة العلاج ومتابعة أداء المجموعة طوال فترة العلاج.
 
-## Theoretical Background
+## الخلفية النظرية
 
-**Yalom's perspective:**
-- Group cohesiveness is one of 11 therapeutic factors
-- Analogous to therapeutic alliance in individual therapy
-- Safe, accepting group allows deeper work
-- Higher cohesion associated with better outcomes
+**منظور يالوم (Yalom):**
+- التماسك الجماعي أحد العوامل العلاجية الأحد عشر
+- يماثل التحالف العلاجي في العلاج الفردي
+- تتيح المجموعة الآمنة والمتقبِّلة عملاً أعمق
+- التماسك الأعلى مرتبط بنتائج أفضل
 
-**Measurement challenge:**
-- Cohesion is dynamic, changing across sessions
-- Can be measured at individual level (how cohesive does member feel?) or group level (overall cohesion)
-- Subjective experience important
+**تحدي القياس:**
+- التماسك ديناميكي، يتغير عبر الجلسات
+- يمكن قياسه على مستوى الفرد (ما مدى شعور العضو بالتماسك؟) أو المجموعة (التماسك الإجمالي)
+- التجربة الذاتية مهمة
 
-## Common Measures
+## المقاييس الشائعة
 
-### Therapeutic Factors Inventory (TFI - Yalom)
-- **12 items** measuring perceived therapeutic factors in group
-- Items assess: hope, universality, altruism, information, interpersonal learning, cohesion
-- Administered post-session or periodically
-- Helps identify what members find valuable
+### قائمة العوامل العلاجية (TFI — يالوم)
+- **12 بنداً** تقيس العوامل العلاجية المُدرَكة في المجموعة
+- تقيّم البنود: الأمل، الكلية، الإيثار، المعلومات، التعلّم بين الأشخاص، التماسك
+- تُطبَّق بعد الجلسة أو دورياً
+- تساعد في تحديد ما يجده الأعضاء ذا قيمة
 
-### Group Cohesion Scale (GCS)
-- Brief measure of group belonging and safety
-- Items like: "I feel accepted by the group," "This is a safe place to be myself"
-- Typically 4-6 items on Likert scale
-- Sensitive to group changes over time
+### مقياس تماسك المجموعة (GCS)
+- مقياس موجز للانتماء والأمان الجماعي
+- بنود مثل: "أشعر بالتقبّل من المجموعة"، "هذا مكان آمن لأكون فيه على طبيعتي"
+- عادة 4-6 بنود على سلّم ليكرت
+- حساس لتغيرات المجموعة مع الوقت
 
-### Working Alliance Inventory - Group (WAI-G)
-- Adapted from individual therapy alliance measure
-- Measures agreement on goals, tasks, and bond
-- Can assess alliance with therapist and with group
-- Predicts outcome
+### قائمة تحالف العمل — المجموعة (WAI-G)
+- مُكيَّفة من مقياس التحالف في العلاج الفردي
+- تقيس الاتفاق على الأهداف والمهام والرابطة
+- يمكن أن تقيّم التحالف مع المعالج ومع المجموعة
+- تتنبأ بالنتيجة
 
-### Group Atmosphere Scale (GAS)
-- Measures several aspects: engagement, avoidance, friction, warmth
-- Post-session assessment
-- Helps therapist monitor group process
+### مقياس مناخ المجموعة (GAS)
+- يقيس جوانب عدة: الانخراط، التجنّب، الاحتكاك، الدفء
+- تقييم بعد الجلسة
+- يساعد المعالج على متابعة عملية المجموعة
 
-## What Group Cohesion Predicts
+## ما يتنبأ به تماسك المجموعة
 
-- **Attendance:** higher cohesion = lower dropout
-- **Engagement:** members more willing to share and take risks
-- **Therapeutic work:** deeper exploration of issues
-- **Outcome:** associated with better therapeutic outcomes
-- **Safety:** members able to be vulnerable
-- **Feedback:** willing to give and receive honest feedback
+- **الحضور:** التماسك الأعلى = انقطاع أقل
+- **الانخراط:** استعداد أكبر للأعضاء للمشاركة والمخاطرة
+- **العمل العلاجي:** استكشاف أعمق للقضايا
+- **النتيجة:** مرتبط بنتائج علاجية أفضل
+- **الأمان:** قدرة الأعضاء على إظهار الضعف
+- **التغذية الراجعة:** استعداد لتقديم تغذية راجعة صادقة وتلقيها
 
-## When Cohesion May Be Low
+## متى يكون التماسك منخفضاً
 
-**Early sessions:**
-- Members don't know each other
-- Trust not yet built
-- Normal early-group process
-- Warmup period needed
+**الجلسات المبكرة:**
+- لا يعرف الأعضاء بعضهم بعضاً
+- الثقة لم تُبنَ بعد
+- عملية طبيعية في بداية المجموعة
+- يلزم فترة إحماء
 
-**Problematic low cohesion:**
-- Scapegoating (one member isolated)
-- Subgroups forming (in-group/out-group)
-- Dominance by one member
-- Unsafe atmosphere (judgmental, attacking)
-- Poor therapist management of group
+**التماسك المنخفض الإشكالي:**
+- كبش الفداء (عزل عضو واحد)
+- تشكّل مجموعات فرعية (داخل/خارج)
+- هيمنة عضو واحد
+- مناخ غير آمن (حكم، هجوم)
+- إدارة ضعيفة للمجموعة من المعالج
 
-## When Cohesion May Be Too High
+## متى يكون التماسك مرتفعاً أكثر من اللازم
 
-**Potential problems:**
-- Group becomes avoidant (nothing challenging discussed)
-- Collusion: group conspires against individual
-- Dependency on therapist
-- Resistance to difficult feedback
-- Groupthink (no diversity of opinion)
+**مشكلات محتملة:**
+- تصبح المجموعة متجنِّبة (لا نقاش لأي أمر تحدٍّ)
+- التواطؤ: تتآمر المجموعة ضد فرد
+- الاعتماد على المعالج
+- مقاومة التغذية الراجعة الصعبة
+- التفكير الجمعي (لا تنوع في الرأي)
 
-**Therapist task:** balance cohesion with challenge; safety with growth
+**مهمة المعالج:** الموازنة بين التماسك والتحدي؛ وبين الأمان والنمو
 
-## Measurement in Practice
+## القياس في الممارسة
 
-**Common approaches:**
-- Single-item rating: "How much did you feel a part of the group today?" (0-10)
-- Brief scale (3-5 items) administered post-session
-- Quarterly comprehensive assessment
-- Therapist observation of non-verbal cohesion (eye contact, seating proximity, enthusiasm)
+**مقاربات شائعة:**
+- تقييم ببند واحد: "إلى أي مدى شعرت بأنك جزء من المجموعة اليوم؟" (0-10)
+- مقياس موجز (3-5 بنود) يُطبَّق بعد الجلسة
+- تقييم شامل ربع سنوي
+- ملاحظة المعالج للتماسك غير اللفظي (التواصل البصري، قرب المقاعد، الحماس)
 
-## Clinical Use
+## الاستخدام الإكلينيكي
 
-**Therapist uses cohesion measures to:**
-- Monitor group health
-- Identify when group is becoming unsafe or too insular
-- Notice impact of member arrivals/departures
-- Adjust interventions (build cohesion vs. introduce challenge)
-- Provide data to supervision
+**يستخدم المعالج مقاييس التماسك لـ:**
+- متابعة صحة المجموعة
+- تحديد متى تصبح المجموعة غير آمنة أو منغلقة جداً
+- ملاحظة أثر انضمام الأعضاء/مغادرتهم
+- تعديل التدخلات (بناء التماسك مقابل إدخال تحدٍّ)
+- توفير بيانات للإشراف
 
-**Members use feedback to:**
-- Understand own sense of belonging
-- Notice changes in comfort over time
-- Identify what helps them feel safe
+**يستخدم الأعضاء التغذية الراجعة لـ:**
+- فهم إحساسهم الخاص بالانتماء
+- ملاحظة تغيرات الراحة مع الوقت
+- تحديد ما يساعدهم على الشعور بالأمان
 
-## Integration with Other Measures
+## التكامل مع مقاييس أخرى
 
-**Cohesion often measured alongside:**
-- Session satisfaction
-- Therapeutic alliance with therapist
-- Symptoms or outcome measures
-- Engagement and participation
+**كثيراً ما يُقاس التماسك إلى جانب:**
+- الرضا عن الجلسة
+- التحالف العلاجي مع المعالج
+- مقاييس الأعراض أو النتائج
+- الانخراط والمشاركة
 
-## Primary Sources
+## المصادر الأولية
 
 1. Yalom, I.D., & Leszcz, M. (2005). The theory and practice of group psychotherapy (5th ed.). Basic Books.
 2. Tjosvold, D. (1984). Effects of crisis orientation on managers' approach to controversy in organizations. Academy of Management Journal, 27(1), 130-138.
 3. Marziali, E., et al. (1997). An evaluation of an affective education model for family therapists. Journal of Marital and Family Therapy, 23(1), 29-43.
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Therapeutic alliance
-- Group process
-- Safety and trust
-- Belonging and connection
-- Group dynamics
-- Therapeutic factors
+- التحالف العلاجي
+- عملية المجموعة
+- الأمان والثقة
+- الانتماء والاتصال
+- ديناميات المجموعة
+- العوامل العلاجية

@@ -25,55 +25,55 @@ gaps: []
 
 # القياسُ الصوتيُّ والتحليلُ الأكوستيكي
 
-## Definition and Overview
+## التعريف ولمحة عامة
 
-Acoustic phonetics analyzes sound waves using spectrograms and other tools. Formant frequencies distinguish vowels; voice onset time distinguishes voiced from voiceless stops. Acoustic analysis reveals physical basis for phonological contrasts.
+يحلِّل القياس الصوتي الأكوستيكي (acoustic phonetics) الموجات الصوتية باستخدام الأطياف الصوتية (spectrograms) وأدوات أخرى. وتُميِّز ترددات الصيغ (formants) بين الحركات، ويميز زمن بدء الجهر (voice onset time) بين الانفجاريات المجهورة والمهموسة. ويكشف التحليل الأكوستيكي الأساس الفيزيائي للتقابلات الصوتية النسقية.
 
-## Theoretical Framework
+## الإطار النظري
 
-The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
+يكشف التحليل النظري لهذا المفهوم عن طبقات متعددة من التنظيم الصوتي النسقي. ويجمع علم الأصوات النسقي الحديث بين رؤى نظرية السمات المائزة، والإطار فوق القطعي (autosegmental)، ونظرية الأمثلية (optimality theory) لتكوين تفسيرات موحَّدة. ويفسِّر هذا الإطار الأنماط الكلية المشتركة بين اللغات كافة، إلى جانب الخصوصيات المرتبطة بكل لغة.
 
-## Key Mechanisms
+## الآليات الأساسية
 
-The mechanisms underlying phonological processes involve:
-- Feature spreading and alignment
-- Constraint interaction and ranking
-- Syllable structure effects
-- Prosodic domain interactions
+تتضمن الآليات التي تقوم عليها العمليات الصوتية النسقية:
+- انتشار السمات ومحاذاتها
+- تفاعل القيود وترتيبها
+- آثار البنية المقطعية
+- تفاعلات النطاقات العروضية
 
-These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
+وتعمل هذه الآليات معاً لتكوين الأنماط الصوتية الغنية التي نلاحظها عبر لغات العالم.
 
-## Experimental Evidence
+## الأدلة التجريبية
 
-Research in phonolinguistics uses multiple methods to test phonological theories:
-- Behavioral experiments measuring perception and production
-- Brain imaging (fMRI, EEG) showing neural correlates
-- Corpus analysis revealing frequency patterns
-- Longitudinal studies of language development
-- Computational modeling testing theoretical predictions
+يستخدم البحث في اللسانيات الصوتية مناهج متعددة لاختبار النظريات الصوتية:
+- تجارب سلوكية تقيس الإدراك والإنتاج
+- التصوير الدماغي (fMRI وEEG) الذي يُظهر المرتبطات العصبية
+- تحليل المدوّنات الذي يكشف أنماط التواتر
+- دراسات طولية لنمو اللغة
+- النمذجة الحاسوبية التي تختبر التنبؤات النظرية
 
-Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
+وتُظهر الدراسات باستمرار أن البنية الصوتية النسقية تؤثر في معالجة الكلام، مما يكشف الواقع النفسي للوحدات الصوتية.
 
-## Cross-Linguistic Applications
+## تطبيقات عبر اللغات
 
-The principles of this concept apply across diverse languages:
-- Tonal languages (Mandarin, Yoruba, Hausa)
-- Consonant-rich languages (Georgian, Xhosa)
-- Consonant-poor languages (Hawaiian, Rotuman)
-- Languages with complex prosodic systems (Japanese, Korean)
+تنطبق مبادئ هذا المفهوم عبر لغات متنوعة:
+- اللغات النغمية (الماندرين، اليوروبا، الهوسا)
+- اللغات الغنية بالصوامت (الجورجية، الخوسا)
+- اللغات الفقيرة بالصوامت (الهاوائية، الروتومانية)
+- اللغات ذات الأنظمة العروضية المعقدة (اليابانية، الكورية)
 
-Understanding these universal principles while respecting language-specific variation is central to modern phonology.
+وفهم هذه المبادئ الكلية مع احترام التنوّع الخاص بكل لغة أمر محوري في علم الأصوات النسقي الحديث.
 
-## Contemporary Research Directions
+## اتجاهات البحث المعاصر
 
-Current research explores:
-- Neural substrates of phonological processing
-- Computational learning of phonological systems
-- Language change through phonological mechanisms
-- Bilingual phonological organization
-- Development of phonological systems
+يستكشف البحث الحالي:
+- الركائز العصبية للمعالجة الصوتية النسقية
+- التعلّم الحاسوبي للأنظمة الصوتية النسقية
+- التغير اللغوي عبر الآليات الصوتية النسقية
+- التنظيم الصوتي النسقي عند الثنائيي اللغة
+- نمو الأنظمة الصوتية النسقية
 
-## References
+## المصادر
 
 - Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
 - Kager, R. (1999). *Optimality Theory*. Cambridge University Press.

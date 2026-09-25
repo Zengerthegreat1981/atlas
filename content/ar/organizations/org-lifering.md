@@ -9,95 +9,95 @@ featured: true
 
 # LifeRing
 
-LifeRing is a secular, empowerment-focused mutual-aid program for recovery from addiction. Founded in 1997, LifeRing emphasizes personal agency, choice, and community support without spiritual components or disease models.
+LifeRing برنامج تعاضد علماني يركز على التمكين للتعافي من الإدمان. تأسس عام 1997، ويشدد LifeRing على الفاعلية الشخصية والاختيار والدعم المجتمعي دون مكونات روحانية أو نموذج المرض.
 
-## Overview
+## لمحة عامة
 
-- **Founded:** 1997
-- **Members:** 50,000+ globally
-- **Philosophy:** Empowerment, choice, personal responsibility
-- **Spirituality:** Explicitly secular; non-religious
-- **Model:** "Sobriety, Secularity, Self-direction, and Self-reliance"
+- **التأسيس:** 1997
+- **الأعضاء:** أكثر من 50,000 حول العالم
+- **الفلسفة:** التمكين والاختيار والمسؤولية الشخصية
+- **الروحانية:** علماني صراحة؛ غير ديني
+- **النموذج:** "الرصانة، العلمانية، التوجيه الذاتي، الاعتماد على الذات"
 
-## Core Philosophy
+## الفلسفة الأساسية
 
-- **Personal agency:** Recovery is individual choice and responsibility
-- **Three-circle model:** "Your Brain" (individual functioning), "Your People" (relationships/community), "Your Spirit" (meaning/values—secular)
-- **No disease concept:** addiction as compulsive habit changeable through choice and behavior
-- **Community support:** peers provide accountability and encouragement, not judgment
+- **الفاعلية الشخصية:** التعافي اختيار ومسؤولية فردية
+- **نموذج الدوائر الثلاث:** "دماغك" (الأداء الفردي)، و"أهلك" (العلاقات/المجتمع)، و"روحك" (المعنى/القيم — علمانياً)
+- **لا مفهوم مرض:** الإدمان عادة قهرية قابلة للتغيير عبر الاختيار والسلوك
+- **الدعم المجتمعي:** يوفر الأقران المساءلة والتشجيع لا الحكم
 
-## Meeting Format
+## صيغة الاجتماعات
 
-- Peer-led (not professional-led)
-- Non-hierarchical: no sponsors, no steps, no leader role
-- Small group discussion: share experiences, strategies, support
-- Open to any substance or behavior (drugs, alcohol, gambling, food, etc.)
-- Online and in-person meetings
+- بقيادة الأقران (لا بقيادة مهنية)
+- غير هرمية: لا رعاة، لا خطوات، لا دور قيادي
+- نقاش في مجموعات صغيرة: مشاركة التجارب والاستراتيجيات والدعم
+- مفتوحة لأي مادة أو سلوك (المخدرات، الكحول، المقامرة، الطعام، إلخ)
+- اجتماعات عبر الإنترنت وحضورية
 
-## Mechanisms of Change
+## آليات التغيير
 
-- **Shared experience:** connection with others in recovery
-- **Accountability:** regular attendance, check-in with others
-- **Behavior change:** replacing addictive habits with healthier activities
-- **Meaning-making:** personal values and goals beyond substance use
+- **التجربة المشتركة:** التواصل مع آخرين في التعافي
+- **المساءلة:** الحضور المنتظم والمتابعة مع الآخرين
+- **تغيير السلوك:** استبدال العادات الإدمانية بأنشطة أصح
+- **صنع المعنى:** قيم وأهداف شخصية تتجاوز تعاطي المواد
 
-## Similarities & Differences from Other Approaches
+## أوجه الشبه والاختلاف عن مقاربات أخرى
 
-**vs. AA/NA:**
-- No twelve steps; no sponsor
-- No higher power; purely secular
-- No disease framing
-- Emphasis on personal choice and empowerment
+**مقابل AA/NA:**
+- لا خطوات اثنتا عشرة؛ ولا راعٍ
+- لا قوة عليا؛ علماني بحت
+- لا إطار مرض
+- تشديد على الاختيار الشخصي والتمكين
 
-**vs. SMART Recovery:**
-- Less structured CBT approach
-- More emphasis on community/peer support
-- More implicit (less formal) mechanism focus
-- Similar secular, cognitive emphasis
+**مقابل SMART Recovery:**
+- مقاربة معرفية سلوكية أقل تنظيماً
+- تشديد أكبر على دعم المجتمع/الأقران
+- تركيز أقل صراحة على الآلية (أقل رسمية)
+- تشديد علماني ومعرفي مماثل
 
-**vs. Professional Treatment:**
-- Complementary, not replacement
-- Peer-led, accessible, free
-- Less clinical, more relational
-- Works well combined with therapy
+**مقابل العلاج المهني:**
+- مكمِّل لا بديل
+- بقيادة الأقران، سهل الوصول، مجاني
+- أقل إكلينيكية وأكثر علائقية
+- يعمل جيداً حين يُجمع بالعلاج
 
-## Evidence Base
+## قاعدة الأدلة
 
-- Limited research; growing studies show effectiveness
-- Comparable to AA for some populations (secular, empowered individuals)
-- Peer support mechanisms similar across mutual-aid programs
-- Long-term data accumulating
+- بحث محدود؛ دراسات متنامية تُظهر فعالية
+- مماثل لـAA لبعض الفئات (العلمانيون والباحثون عن التمكين)
+- آليات دعم الأقران مماثلة عبر برامج التعاضد
+- بيانات طويلة الأمد تتراكم
 
-## Accessibility
+## سهولة الوصول
 
-- Free
-- Growing number of meetings (though still fewer than AA)
-- Online meetings expanding
-- Multiple languages in some areas
+- مجاني
+- عدد متنامٍ من الاجتماعات (وإن كان أقل من AA)
+- اجتماعات عبر الإنترنت في توسع
+- لغات متعددة في بعض المناطق
 
-## Strengths
+## نقاط القوة
 
-- Secular appeal; no spiritual requirement
-- Empowerment-focused; emphasizes choice
-- Non-hierarchical; peer-based
-- Inclusive of various addictions
-- Complements professional treatment
-- No judgment; supportive community
+- جاذبية علمانية؛ لا شرط روحاني
+- يركز على التمكين؛ يشدد على الاختيار
+- غير هرمي؛ قائم على الأقران
+- شامل لإدمانات متنوعة
+- يكمِّل العلاج المهني
+- لا حكم؛ مجتمع داعم
 
-## Limitations
+## القيود
 
-- Smaller network (fewer meetings than AA/NA)
-- Limited research history
-- May not address spiritual/transcendent experiences some seek
-- Requires self-direction and motivation
+- شبكة أصغر (اجتماعات أقل من AA/NA)
+- تاريخ بحثي محدود
+- قد لا يعالج التجارب الروحانية/المتعالية التي يبحث عنها البعض
+- يتطلب توجيهاً ذاتياً ودافعية
 
-## Related Alternatives
+## بدائل ذات صلة
 
-- [[org-smart-recovery]] — cognitive-behavioral secular alternative
-- [[org-refuge-recovery]] — Buddhist-informed alternative
-- [[org-wfs-women-for-sobriety]] — women-focused secular program
+- [[org-smart-recovery]] — بديل علماني معرفي سلوكي
+- [[org-refuge-recovery]] — بديل مستوحى من البوذية
+- [[org-wfs-women-for-sobriety]] — برنامج علماني يركز على النساء
 
-## Primary Sources
+## المصادر الأولية
 
 1. LifeRing official: https://www.lifering.org
 2. Kurtz, E., & White, W.L. (2015). Recovery spirituality. Journal of Addiction Medicine, 9(1), 1-2.

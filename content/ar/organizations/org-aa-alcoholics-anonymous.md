@@ -7,193 +7,193 @@ parent: twelve-step fellowships, mutual-aid
 featured: true
 ---
 
-# Alcoholics Anonymous (AA)
+# جمعية المدمنين المجهولين (Alcoholics Anonymous, AA)
 
-Alcoholics Anonymous is a peer-led, spiritually-oriented mutual-aid fellowship for people recovering from alcohol addiction. Founded in 1935, AA pioneered the twelve-step model and remains one of the most widely accessible and affordable recovery programs globally. Operating on principles of anonymity, non-professionalism, and peer support, AA offers free meetings in thousands of locations worldwide.
+جمعية المدمنين المجهولين رابطة تعاضد يقودها الأقران وذات توجه روحاني، للمتعافين من إدمان الكحول. تأسست عام 1935، وكانت رائدة نموذج الخطوات الاثنتي عشرة، وتبقى من أكثر برامج التعافي انتشاراً وسهولة وصول في العالم. وتعمل على مبادئ السرية وعدم الاحترافية والدعم بين الأقران، وتقدم اجتماعات مجانية في آلاف المواقع حول العالم.
 
-## History & Founding
+## التاريخ والتأسيس
 
-**Founders:** Bill Wilson (Bill W.) and Dr. Bob Smith (Dr. Bob), both alcoholics in recovery
+**المؤسسان:** بيل ويلسون (Bill W.) والدكتور بوب سميث (Dr. Bob)، وكلاهما مدمنا كحول متعافيان
 
-**Founded:** 1935 in Akron, Ohio
+**التأسيس:** 1935 في أكرون بولاية أوهايو
 
-**Context:** Emerged during prohibition era when medical and legal approaches to alcoholism were ineffective; founders connected through Oxford Group spiritual principles and personal recovery experience
+**السياق:** ظهرت الجمعية في عصر الحظر (Prohibition) حين كانت المقاربات الطبية والقانونية لإدمان الكحول غير فعّالة؛ والتقى المؤسسان عبر مبادئ جماعة أوكسفورد الروحانية وتجربة تعافٍ شخصية
 
-**Evolution:** Rapid growth through 1940s-1950s; became international movement; adapted traditions to prevent control or corruption
+**التطور:** نمو سريع خلال الأربعينيات والخمسينيات؛ وصارت حركة عالمية؛ وكُيِّفت التقاليد لمنع السيطرة عليها أو إفسادها
 
-**Current status:** 2+ million members globally; meetings in 180+ countries; estimated 1 million+ meetings annually
+**الوضع الحالي:** أكثر من مليوني عضو حول العالم؛ اجتماعات في أكثر من 180 دولة؛ وما يقدَّر بأكثر من مليون اجتماع سنوياً
 
-## The Twelve Steps
+## الخطوات الاثنتا عشرة
 
-The foundational program used by AA and adapted by other fellowships:
+البرنامج التأسيسي الذي تستخدمه AA وتقتبسه رابطات أخرى:
 
-1. Admitted powerlessness over alcohol; recognized life became unmanageable
-2. Came to believe a Power greater than ourselves could restore sanity
-3. Made decision to turn will and life over to God as understood
-4. Made searching, fearless moral inventory
-5. Admitted to God, self, and another person the exact nature of wrongs
-6. Became ready to have God remove all defects of character
-7. Humbly asked God to remove shortcomings
-8. Made list of all persons harmed; became willing to make amends
-9. Made direct amends except when to do so would cause further harm
-10. Continued personal inventory; admitted wrongs promptly
-11. Sought through prayer and meditation to improve conscious contact with God
-12. Having had spiritual awakening, carried message to other alcoholics and practiced principles in all affairs
+1. الإقرار بالعجز أمام الكحول؛ والاعتراف بأن الحياة صارت غير قابلة للإدارة
+2. الإيمان بأن قوة أعظم منّا يمكن أن تعيد العقل إلى رشده
+3. اتخاذ قرار تسليم الإرادة والحياة لله كما نفهمه
+4. إجراء جرد أخلاقي جريء وشامل للنفس
+5. الاعتراف لله وللنفس ولشخص آخر بطبيعة الأخطاء على وجه الدقة
+6. الاستعداد التام ليزيل الله كل عيوب الشخصية
+7. طلب متواضع من الله لإزالة النقائص
+8. إعداد قائمة بكل من ألحقنا بهم أذى؛ والاستعداد لجبر الضرر
+9. جبر الضرر مباشرة إلا حين يسبب ذلك ضرراً إضافياً
+10. مواصلة الجرد الشخصي والاعتراف بالأخطاء فور وقوعها
+11. السعي عبر الصلاة والتأمل لتحسين التواصل الواعي مع الله
+12. بعد بلوغ صحوة روحية، حمل الرسالة إلى مدمني كحول آخرين وممارسة هذه المبادئ في كل الشؤون
 
-**Non-religious interpretation:** "Higher Power" understood as:
-- Traditional God/religious conception
-- Collective power of the group
-- Nature, science, or universal energy
-- Individual secular philosophy of meaning
+**التفسير غير الديني:** يُفهم "القوة العليا" على أنها:
+- التصور الديني/الإلهي التقليدي
+- القوة الجماعية للمجموعة
+- الطبيعة أو العلم أو الطاقة الكونية
+- فلسفة معنى علمانية فردية
 
-**Flexibility:** AA literature emphasizes "God as you understand Him," accommodating atheists and agnostics
+**المرونة:** تشدد أدبيات AA على "الله كما تفهمه"، بما يستوعب الملحدين واللاأدريين
 
-## Core Principles
+## المبادئ الأساسية
 
-### Twelve Traditions
-Structural principles emphasizing:
-- Non-professionalism: no paid staff; group self-governance
-- Anonymity: "attraction rather than promotion"; privacy essential
-- Spiritual focus: no religious affiliation but spiritual foundation
-- Primary purpose: carrying message to alcoholics still suffering
-- Non-involvement in other causes or controversies
+### التقاليد الاثنا عشر
+مبادئ بنيوية تشدد على:
+- عدم الاحترافية: لا موظفون بأجر؛ والمجموعة تحكم نفسها
+- السرية: "الجذب لا الترويج"؛ والخصوصية أساسية
+- التوجه الروحاني: لا انتماء ديني لكن أساس روحاني
+- الغرض الأساسي: حمل الرسالة إلى مدمني الكحول الذين ما زالوا يعانون
+- عدم التدخل في قضايا أو خلافات أخرى
 
-### Anonymity
-- **Personal:** protection for members; "what you hear here, stays here"
-- **Media level:** famous people don't publically identify as AA members
-- **Organizational:** press mentions use "AA" not names of individuals
-- **Purpose:** prevents AA from becoming identified with members' actions; protects privacy
+### السرية
+- **الشخصية:** حماية للأعضاء؛ "ما تسمعه هنا يبقى هنا"
+- **على مستوى الإعلام:** المشاهير لا يُعلنون علناً عضويتهم في AA
+- **التنظيمية:** الإشارات الصحفية تستخدم "AA" لا أسماء الأفراد
+- **الغرض:** منع ربط AA بأفعال أعضائها؛ وحماية الخصوصية
 
-### Sponsorship
-- Experienced member (typically someone with longer sobriety) works one-on-one with newer member
-- Guide through twelve steps
-- Available for crisis support, phone calls, accountability
-- Relationship based on shared experience, not professional training
+### الرعاية (Sponsorship)
+- عضو ذو خبرة (عادة من له رصانة أطول) يعمل فردياً مع عضو جديد
+- توجيه عبر الخطوات الاثنتي عشرة
+- متاح للدعم في الأزمات والاتصالات الهاتفية والمساءلة
+- علاقة قائمة على التجربة المشتركة لا التدريب المهني
 
-### Meetings
-- **Open meetings:** anyone may attend; typically discuss recovery
-- **Closed meetings:** only people with alcohol concerns attend
-- **Speaker meetings:** guest shares recovery story
-- **Discussion meetings:** topic-based conversation on recovery themes
-- **Step meetings:** study and discuss particular step
-- **Format varies:** meetings led by members; democratic, informal structure
+### الاجتماعات
+- **اجتماعات مفتوحة:** يمكن لأي أحد حضورها؛ وتناقش عادة التعافي
+- **اجتماعات مغلقة:** يحضرها فقط من لديهم مشكلة مع الكحول
+- **اجتماعات المتحدثين:** ضيف يشارك قصة تعافيه
+- **اجتماعات نقاشية:** حوار حول مواضيع التعافي
+- **اجتماعات الخطوات:** دراسة خطوة بعينها ومناقشتها
+- **الصيغة متغيرة:** يقودها الأعضاء أنفسهم؛ بنية ديمقراطية غير رسمية
 
-## Evidence & Effectiveness
+## الأدلة والفعالية
 
-### Effectiveness Research
-- **Challenges:** AA's anonymity makes rigorous RCTs difficult; self-selection bias
-- **Available evidence:**
-  - Observational studies: 40-50% achieve long-term abstinence (compared to ~20% in untreated)
-  - Meta-analyses: AA comparably or more effective than other interventions
-  - Mechanism: peer support, structure, spiritual meaning, identity shift
-- **Predictors of success:** regular attendance, sponsorship, step work, social integration
+### أبحاث الفعالية
+- **التحديات:** سرية AA تجعل التجارب العشوائية الضابطة الصارمة صعبة؛ وتحيز الاختيار الذاتي قائم
+- **الأدلة المتاحة:**
+  - دراسات رصدية: يحقق 40-50% امتناعاً طويل الأمد (مقارنة بنحو 20% لدى غير المعالَجين)
+  - التحليلات التلوية: فعالية AA مماثلة أو أكبر من تدخلات أخرى
+  - الآلية: الدعم من الأقران، والبنية، والمعنى الروحاني، وتحوّل الهوية
+- **مؤشرات النجاح:** الحضور المنتظم، والرعاية، والعمل على الخطوات، والاندماج الاجتماعي
 
-### Limitations of Research
-- Selection bias: people choosing AA may differ from general population
-- No randomized control group possible (ethical issues with withholding treatment)
-- Dropout rates: many attend briefly but leave; follow-up challenging
-- Spiritual component: effectiveness may depend on alignment with individual beliefs
+### قيود البحث
+- تحيز الاختيار: من يختارون AA قد يختلفون عن عامة السكان
+- تعذُّر وجود مجموعة ضابطة عشوائية (مسائل أخلاقية في حجب العلاج)
+- معدلات الانقطاع: كثيرون يحضرون فترة وجيزة ثم ينقطعون؛ والمتابعة صعبة
+- المكوّن الروحاني: قد تتوقف الفعالية على مدى توافقه مع معتقدات الفرد
 
-### Criticism & Controversy
-- **Religious content:** despite "higher power" flexibility, criticized as promoting Christianity
-- **Medical model debate:** AA's "disease concept" vs. behavioral/habit model
-- **Twelve-step skeptics:** argue lack of strong evidence; alternatives exist
-- **Inclusivity concerns:** historically dominated by white men; LGBTQ+ and women's groups emerged to address this
-- **Lack of diversity:** underrepresentation of people of color in predominantly white meetings
-- **Cult-like dynamics:** some report pressure to conform, group-think, controlling sponsors
+### النقد والجدل
+- **المحتوى الديني:** رغم مرونة "القوة العليا"، يُنتقد البرنامج بأنه يروّج للمسيحية
+- **جدل النموذج الطبي:** "مفهوم المرض" عند AA مقابل نموذج السلوك/العادة
+- **المتشككون في الخطوات الاثنتي عشرة:** يرون غياب أدلة قوية؛ وثمة بدائل
+- **مخاوف الشمول:** هيمن عليها تاريخياً الرجال البيض؛ وظهرت مجموعات للمثليين وللنساء لمعالجة ذلك
+- **نقص التنوع:** تمثيل ناقص للملونين في اجتماعات يغلب عليها البيض
+- **ديناميات شبيهة بالطوائف:** يُبلِّغ البعض عن ضغط للامتثال وتفكير جمعي ورعاة متحكمين
 
-## Related Programs & Fellowships
+## البرامج والرابطات ذات الصلة
 
-AA model adapted for:
-- [[org-na-narcotics-anonymous]] — drugs (illicit and prescription)
-- [[org-ga-gamblers-anonymous]] — gambling addiction
-- [[org-oa-overeaters-anonymous]] — food and eating
-- [[org-ca-cocaine-anonymous]] — cocaine and stimulants
-- Other twelve-step groups for sex, love, work, relationships
+كُيِّف نموذج AA لـ:
+- [[org-na-narcotics-anonymous]] — المخدرات (غير المشروعة والموصوفة)
+- [[org-ga-gamblers-anonymous]] — إدمان القمار
+- [[org-oa-overeaters-anonymous]] — الطعام والأكل
+- [[org-ca-cocaine-anonymous]] — الكوكايين والمنشطات
+- مجموعات أخرى بنظام الخطوات الاثنتي عشرة للجنس والحب والعمل والعلاقات
 
-## Integration with Professional Treatment
+## التكامل مع العلاج المهني
 
-### Historical Context
-- Early treatment (1940s-1960s): primarily AA-based or confrontational
-- Modern integration: AA as complement to professional therapy
-- Twelve-step facilitation therapy: therapists trained to support/encourage AA engagement
+### السياق التاريخي
+- العلاج المبكر (الأربعينيات-الستينيات): قائم على AA أو مواجهاتي بالأساس
+- التكامل الحديث: AA مكمِّل للعلاج المهني
+- علاج تيسير الخطوات الاثنتي عشرة: معالجون مدرَّبون على دعم الانخراط في AA وتشجيعه
 
-### Combined Approaches
-- Inpatient rehab: often incorporates twelve-step philosophy alongside CBT
-- Outpatient therapy: therapists may refer to AA but also address trauma, mental health
-- Medication-assisted treatment: AA members may resist or embrace medication (naltrexone, acamprosate)
+### المقاربات المشتركة
+- إعادة التأهيل الداخلي: كثيراً ما تدمج فلسفة الخطوات الاثنتي عشرة مع العلاج المعرفي السلوكي
+- العلاج الخارجي: قد يحيل المعالجون إلى AA لكن يعالجون أيضاً الصدمة والصحة النفسية
+- العلاج المدعوم بالدواء: قد يقاوم أعضاء AA الدواء أو يتبنونه (نالتريكسون، أكامبروسات)
 
-### Coordination Challenges
-- Therapist vs. sponsor roles: potential conflict over authority
-- Professional recommendations may conflict with AA philosophy (e.g., medication)
-- Privacy: therapist doesn't hear what happens in AA meetings; coordination limited
+### تحديات التنسيق
+- أدوار المعالج مقابل الراعي: تعارض محتمل على السلطة
+- قد تتعارض التوصيات المهنية مع فلسفة AA (كالدواء مثلاً)
+- الخصوصية: لا يسمع المعالج ما يجري في اجتماعات AA؛ والتنسيق محدود
 
-## Cultural Variations & Adaptations
+## التنوّعات والتكييفات الثقافية
 
-### International Adaptations
-- Translated into 60+ languages
-- Local meetings adapted to cultural context
-- Some countries: government support; others: underground due to restrictions
+### التكييفات الدولية
+- تُرجمت إلى أكثر من 60 لغة
+- كُيِّفت الاجتماعات المحلية وفق السياق الثقافي
+- بعض الدول: دعم حكومي؛ وأخرى: عمل سري بسبب القيود
 
-### Demographic Variations
-- **LGBTQ+ AA:** affirming meetings addressing specific concerns (coming out, relationship recovery, family trauma)
-- **Women's AA:** women-only meetings; focus on gender-specific issues (trauma, motherhood, sexism)
-- **Black & Indigenous AA:** meetings centering racism, systemic oppression, cultural healing
-- **Young people AA:** younger demographic focus
+### التنوّعات الديموغرافية
+- **AA للمثليين:** اجتماعات داعمة تعالج قضايا خاصة (الإفصاح، تعافي العلاقات، صدمة الأسرة)
+- **AA للنساء:** اجتماعات للنساء فقط؛ تركز على قضايا خاصة بالجنس (الصدمة، الأمومة، التمييز)
+- **AA للسود والسكان الأصليين:** اجتماعات محورها العنصرية والاضطهاد البنيوي والشفاء الثقافي
+- **AA للشباب:** تركيز على الفئة العمرية الأصغر
 
-### Secular AA
-- Emerging alternative meetings: "Secular AA" groups without God language
-- Humanist recovery programs: emphasis on community without spiritual component
-- Addresses concerns of atheist/agnostic people hesitant about traditional AA
+### AA العلمانية
+- اجتماعات بديلة ناشئة: مجموعات "AA العلمانية" بلا لغة إلهية
+- برامج تعافٍ إنسانوية: تشدد على المجتمع دون مكوّن روحاني
+- تعالج مخاوف الملحدين/اللاأدريين المترددين تجاه AA التقليدية
 
-## Alternatives to AA
+## بدائل لـ AA
 
-- [[org-smart-recovery]] — self-directed, non-spiritual approach
-- [[org-lifering]] — secular, empowerment-focused
-- [[org-refuge-recovery]] — Buddhist-informed alternative
-- [[org-women-for-sobriety]] — gender-specific women's program
-- Professional addiction counseling and therapy
+- [[org-smart-recovery]] — مقاربة موجَّهة ذاتياً وغير روحانية
+- [[org-lifering]] — علمانية، تركز على التمكين
+- [[org-refuge-recovery]] — بديل مستوحى من البوذية
+- [[org-women-for-sobriety]] — برنامج نسائي خاص بالجنس
+- الاستشارة والعلاج المهني للإدمان
 
-## Strengths
+## نقاط القوة
 
-- **Accessibility:** free, everywhere, meets daily if desired
-- **Community:** peer support, friendship, belonging
-- **Structure:** clear program, sponsorship, meetings provide frame
-- **Proven model:** longest-standing program; millions have recovered
-- **Inclusivity options:** diverse meetings available
-- **Spiritual depth:** meaning, purpose, connection beyond "just" sobriety
+- **سهولة الوصول:** مجاني، وفي كل مكان، ويمكن حضوره يومياً إن أُريد
+- **المجتمع:** دعم الأقران والصداقة والانتماء
+- **البنية:** برنامج واضح ورعاية واجتماعات توفر إطاراً
+- **نموذج مُثبَت:** أقدم برنامج قائم؛ وتعافى عبره الملايين
+- **خيارات الشمول:** اجتماعات متنوعة متاحة
+- **العمق الروحاني:** معنى وغاية واتصال يتجاوز "مجرد" الامتناع
 
-## Limitations
+## القيود
 
-- **Spiritual requirement:** alienates atheists/agnostics despite rhetoric of flexibility
-- **Medical oversight lacking:** peer-led, no clinical oversight or assessment
-- **Diversity gaps:** historically dominated by white men; improvements needed
-- **Efficacy questions:** lack of strong RCT evidence; self-selection confounds
-- **Dropout rate:** many try AA briefly, discontinue
-- **Power dynamics:** sponsor relationships can be problematic; potential for abuse
+- **الشرط الروحاني:** ينفِّر الملحدين/اللاأدريين رغم خطاب المرونة
+- **غياب الإشراف الطبي:** بقيادة الأقران، بلا إشراف أو تقييم إكلينيكي
+- **فجوات التنوع:** هيمن عليها تاريخياً الرجال البيض؛ وتلزم تحسينات
+- **أسئلة حول الفعالية:** غياب أدلة تجارب عشوائية ضابطة قوية؛ وتحيز الاختيار الذاتي عامل مربك
+- **معدل الانقطاع:** كثيرون يجربون AA فترة وجيزة ثم يتوقفون
+- **ديناميات القوة:** علاقات الرعاية قد تكون إشكالية؛ واحتمال إساءة الاستخدام قائم
 
-## Key Figures
+## شخصيات رئيسية
 
-- **Bill Wilson (1895-1971):** co-founder, visionary; advocated for steps and traditions
-- **Dr. Bob Smith (1879-1950):** co-founder, first sponsor relationship
-- **Anne Eshelman:** early women members; advocacy for inclusion
-- **Marty Mann (1904-1980):** first woman publicly identified as AA member; expanded program
+- **بيل ويلسون (1895-1971):** المؤسس المشارك وصاحب الرؤية؛ دعا إلى الخطوات والتقاليد
+- **الدكتور بوب سميث (1879-1950):** المؤسس المشارك، وأول علاقة رعاية
+- **آن إشلمان:** من أوائل الأعضاء النساء؛ دعت إلى الشمول
+- **مارتي مان (1904-1980):** أول امرأة تُعلن علناً عضويتها في AA؛ ووسّعت البرنامج
 
-## Primary Sources & Resources
+## المصادر الأولية
 
 1. Alcoholics Anonymous (1939). Alcoholics Anonymous: The Story of How Many Thousands of Men and Women Have Recovered from Alcoholism (often called "The Big Book"). AA Publishing.
 2. Alcoholics Anonymous (1952). Twelve Steps and Twelve Traditions. AA Publishing.
 3. Kurtz, E. (1991). Not-God: A history of alcoholics anonymous (Expanded ed.). Hazelden.
 4. Miller, W.R., & Tonigan, J.S. (1997). Assessing drinkers' motivations for change: The Stages of Change Readiness and Treatment Eagerness Scale (SOCRATES). Psychology of Addictive Behaviors, 10(2), 81-89.
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Twelve-step programs
-- Peer support and mutual aid
-- Addiction recovery
-- Spiritual approaches to healing
-- Sponsorship and mentoring
-- Anonymity in support
-- Disease concept of addiction
-- Community healing
-- Secular recovery alternatives
+- برامج الخطوات الاثنتي عشرة
+- الدعم بين الأقران والتعاضد
+- التعافي من الإدمان
+- المقاربات الروحانية للشفاء
+- الرعاية والإرشاد
+- السرية في الدعم
+- مفهوم المرض في الإدمان
+- الشفاء المجتمعي
+- بدائل التعافي العلمانية

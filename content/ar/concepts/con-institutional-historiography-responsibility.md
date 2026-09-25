@@ -17,23 +17,23 @@ gaps: []
 
 # مسؤولية المؤسسات التاريخية (Institutional Historiography Responsibility)
 
-## Institutional Historiography Responsibility
+## مسؤولية المؤسسات التاريخية
 
-Ethical frameworks for museums, archives, and universities in managing historical narratives and contested histories.
+أطر أخلاقية للمتاحف والأرشيفات والجامعات في إدارة السرديات التاريخية والتواريخ المتنازَع عليها.
 
-### Key Aspects
+### الجوانب الجوهرية
 
-This node represents part of Section 20: Cross-Cutting Frameworks & Synthesis in historiography.
+تمثّل هذه العقدة جزءاً من القسم 20: الأطر الشاملة والتوليف في التأريخ.
 
-### Related Fields
+### مجالات ذات صلة
 
-- Historiographical theory and practice
-- Historiographical ethics and reflexivity
-- Regional and comparative historiography
-- Emerging historiographical fields
+- نظرية التأريخ وممارسته
+- أخلاقيات التأريخ والتأمل الذاتي
+- التأريخ الإقليمي والمقارن
+- مجالات التأريخ الناشئة
 
-### See Also
+### انظر أيضاً
 
-- Related historiographical concepts and schools
-- Contemporary historical scholarship
-
+- مفاهيم ومدارس تأريخية ذات صلة
+- الدراسات التاريخية المعاصرة
+</content>

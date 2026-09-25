@@ -17,23 +17,23 @@ gaps: []
 
 # تاريخ الأوبئة (Pandemic History)
 
-## Pandemic History
+## تاريخ الأوبئة
 
-Study of epidemic diseases, pandemics, and public health through history; examines disease as social and political force.
+دراسة الأمراض الوبائية والجوائح والصحة العامة عبر التاريخ؛ تفحص المرض قوةً اجتماعية وسياسية.
 
-### Key Aspects
+### الجوانب الجوهرية
 
-This node represents part of Section 20: Cross-Cutting Frameworks & Synthesis in historiography.
+تمثّل هذه العقدة جزءاً من القسم 20: الأطر الشاملة والتوليف في التأريخ.
 
-### Related Fields
+### مجالات ذات صلة
 
-- Historiographical theory and practice
-- Historiographical ethics and reflexivity
-- Regional and comparative historiography
-- Emerging historiographical fields
+- نظرية التأريخ وممارسته
+- أخلاقيات التأريخ والتأمل الذاتي
+- التأريخ الإقليمي والمقارن
+- مجالات التأريخ الناشئة
 
-### See Also
+### انظر أيضاً
 
-- Related historiographical concepts and schools
-- Contemporary historical scholarship
-
+- مفاهيم ومدارس تأريخية ذات صلة
+- الدراسات التاريخية المعاصرة
+</content>

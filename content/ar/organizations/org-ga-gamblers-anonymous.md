@@ -6,75 +6,75 @@ part: psychology
 parent: twelve-step fellowships, mutual-aid
 ---
 
-# Gamblers Anonymous (GA)
+# المقامرون المجهولون (Gamblers Anonymous, GA)
 
-Gamblers Anonymous is a twelve-step mutual-aid fellowship for people recovering from gambling addiction. Founded in 1957, GA adapts the AA model to gambling disorder, addressing compulsive gambling as a behavioral addiction with psychological and spiritual dimensions.
+المقامرون المجهولون رابطة تعاضد بخطوات اثنتي عشرة للمتعافين من إدمان المقامرة. تأسست عام 1957، وتُكيِّف GA نموذج AA لاضطراب المقامرة، وتعالج المقامرة القهرية بوصفها إدماناً سلوكياً له أبعاد نفسية وروحانية.
 
-## Overview
+## لمحة عامة
 
-- **Founded:** 1957 in Los Angeles
-- **Members:** 500,000+ globally; growing with online gambling expansion
-- **Format:** Peer-led meetings, sponsorship, twelve-step program
-- **Cost:** Free
+- **التأسيس:** 1957 في لوس أنجلوس
+- **الأعضاء:** أكثر من 500,000 حول العالم؛ يتنامى مع توسع المقامرة عبر الإنترنت
+- **الصيغة:** اجتماعات بقيادة الأقران، رعاية، برنامج خطوات اثنتي عشرة
+- **التكلفة:** مجانية
 
-## Core Features
+## السمات الأساسية
 
-- **Primary purpose:** Helping compulsive gamblers recover through abstinence and spiritual growth
-- **Definition:** Gambling addiction as illness, not moral failing
-- **Recovery:** Complete abstinence from all gambling
-- **Integration:** Works with therapy, counseling, financial counseling
+- **الغرض الأساسي:** مساعدة المقامرين القهريين على التعافي عبر الامتناع والنمو الروحاني
+- **التعريف:** إدمان المقامرة مرض لا إخفاق أخلاقي
+- **التعافي:** امتناع كامل عن كل مقامرة
+- **التكامل:** يعمل مع العلاج والاستشارة والاستشارة المالية
 
-## Step Adaptation for GA
+## تكييف الخطوات لـ GA
 
-Similar twelve steps but focused on gambling:
-- "Admitted we were powerless over gambling"
-- Belief in Higher Power
-- Moral inventory, amends, spiritual practice
-- Helping others in recovery
+خطوات اثنتا عشرة مماثلة لكن تركز على المقامرة:
+- "أقررنا بأننا عاجزون أمام المقامرة"
+- الإيمان بقوة عليا
+- جرد أخلاقي وجبر ضرر وممارسة روحانية
+- مساعدة آخرين في التعافي
 
-## Meeting Format
+## صيغة الاجتماعات
 
-- Open/closed meetings: discussion-based
-- Speaker meetings: members share recovery stories
-- Step meetings: study particular principles
-- Sponsor-based work: one-on-one guidance
+- اجتماعات مفتوحة/مغلقة: نقاشية
+- اجتماعات المتحدثين: يشارك الأعضاء قصص تعافيهم
+- اجتماعات الخطوات: دراسة مبادئ بعينها
+- عمل قائم على الرعاية: توجيه فردي
 
-## Key Issues
+## قضايا رئيسية
 
-### Abstinence Challenge
-- Unlike substance addiction, financial interaction with gambling temptation continues
-- Risk: fantasy about "controlled" gambling
-- Strategy: complete abstinence and financial support/accountability
+### تحدي الامتناع
+- خلافاً لإدمان المواد، يستمر التفاعل المالي مع إغراء المقامرة
+- خطر: تخيل مقامرة "مضبوطة"
+- الاستراتيجية: امتناع كامل ودعم/مساءلة مالية
 
-### Comorbidity
-- High rates of depression, anxiety, substance use alongside gambling
-- Often requires integrated treatment (therapy + GA + financial counseling)
+### الاعتلال المصاحب
+- معدلات مرتفعة من الاكتئاب والقلق وتعاطي المواد إلى جانب المقامرة
+- كثيراً ما يتطلب علاجاً متكاملاً (علاج + GA + استشارة مالية)
 
-### Internet & Sports Betting
-- Explosion of online gambling accessibility
-- Younger demographic affected
-- 24/7 temptation through apps
+### الإنترنت والمراهنات الرياضية
+- انفجار في سهولة الوصول إلى المقامرة عبر الإنترنت
+- تأثر فئة عمرية أصغر
+- إغراء على مدار الساعة عبر التطبيقات
 
-## Effectiveness
+## الفعالية
 
-- Limited RCT research (similar to AA constraints)
-- Observational data: regular attendance associated with abstinence
-- Self-help and professional treatment combined often most effective
-- High dropout rates initially, but long-term members show sustained recovery
+- بحث محدود بتجارب عشوائية ضابطة (قيود مماثلة لـAA)
+- بيانات رصدية: الحضور المنتظم مرتبط بالامتناع
+- الجمع بين المساعدة الذاتية والعلاج المهني غالباً الأكثر فعالية
+- معدلات انقطاع مبكر مرتفعة، لكن الأعضاء طويلي الأمد يُظهرون تعافياً مستداماً
 
-## Comparison & Alternatives
+## المقارنة والبدائل
 
-- [[org-smart-recovery]] — cognitive-behavioral alternative
-- Professional gamblingCounseling and financial therapy
-- Cognitive-behavioral therapy for behavioral addiction
+- [[org-smart-recovery]] — بديل معرفي سلوكي
+- الاستشارة المهنية للمقامرة والعلاج المالي
+- العلاج المعرفي السلوكي للإدمان السلوكي
 
-## Related Organizations
+## منظمات ذات صلة
 
-- [[org-aa-alcoholics-anonymous]] — model for GA
-- [[org-oa-overeaters-anonymous]] — behavioral addiction focus
-- [[org-slaa-sex-love-addicts-anonymous]] — compulsive behavior recovery
+- [[org-aa-alcoholics-anonymous]] — النموذج الذي تقتبسه GA
+- [[org-oa-overeaters-anonymous]] — تركيز على الإدمان السلوكي
+- [[org-slaa-sex-love-addicts-anonymous]] — تعافي السلوك القهري
 
-## Primary Sources
+## المصادر الأولية
 
 1. Gamblers Anonymous (1989). Gamblers Anonymous: The Basic Text. GA Publishing.
 2. Petry, N.M. (2005). Pathological gambling: Etiology, comorbidity, and treatment. American Psychological Association.

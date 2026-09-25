@@ -6,99 +6,99 @@ part: psychology
 parent: twelve-step fellowships, mutual-aid
 ---
 
-# Overeaters Anonymous (OA)
+# آكلو الطعام الزائد المجهولون (Overeaters Anonymous, OA)
 
-Overeaters Anonymous is a twelve-step fellowship for people recovering from compulsive eating, food addiction, and eating disorders (binge eating, restriction, obsession). Founded in 1960, OA applies the twelve-step model to food-related behaviors.
+آكلو الطعام الزائد المجهولون رابطة خطوات اثنتي عشرة للمتعافين من الأكل القهري وإدمان الطعام واضطرابات الأكل (النهم، والتقييد، والهاجس). تأسست عام 1960، وتطبق OA نموذج الخطوات الاثنتي عشرة على السلوكيات المتصلة بالطعام.
 
-## Overview
+## لمحة عامة
 
-- **Founded:** 1960 in Los Angeles
-- **Members:** 60,000+ globally
-- **Focus:** Compulsive eating, food addiction, eating disorders
-- **Approach:** Abstinence from compulsive eating; physical, emotional, spiritual recovery
+- **التأسيس:** 1960 في لوس أنجلوس
+- **الأعضاء:** أكثر من 60,000 حول العالم
+- **التركيز:** الأكل القهري وإدمان الطعام واضطرابات الأكل
+- **المقاربة:** الامتناع عن الأكل القهري؛ التعافي الجسدي والعاطفي والروحاني
 
-## Addiction Definition in OA
+## تعريف الإدمان في OA
 
-**Food addiction vs. eating disorder distinction:**
-- OA frames as addiction: using food to soothe emotions, compulsive behavior, loss of control
-- Related to but distinct from clinical eating disorders (anorexia, bulimia, BED)
-- Both can be present; OA addresses compulsive eating specifically
+**التمييز بين إدمان الطعام واضطراب الأكل:**
+- تؤطِّره OA بوصفه إدماناً: استخدام الطعام لتهدئة المشاعر، وسلوك قهري، وفقدان السيطرة
+- مرتبط باضطرابات الأكل الإكلينيكية (فقدان الشهية، الشره، نهم الأكل) لكنه متمايز عنها
+- قد يتواجد كلاهما معاً؛ وتعالج OA الأكل القهري تحديداً
 
-## Twelve-Step Adaptation
+## تكييف الخطوات الاثنتي عشرة
 
-- "Admitted powerlessness over food"
-- Abstinence from addictive eating behaviors
-- Surrender to "Higher Power" for help with food compulsion
-- Moral inventory, amends, spiritual practice
+- "الإقرار بالعجز أمام الطعام"
+- الامتناع عن سلوكيات الأكل الإدمانية
+- الاستسلام لـ"قوة عليا" للمساعدة في قهر الطعام
+- جرد أخلاقي وجبر ضرر وممارسة روحانية
 
-## Sobriety Definition
+## تعريف الرصانة
 
-- Varies by member and sponsor
-- Core: abstinence from compulsive overeating
-- Some define "food plan": specific foods, portions, meal timing
-- Focus: connection to body awareness, intuitive eating that's not compulsive
+- يتفاوت حسب العضو والراعي
+- الجوهر: الامتناع عن الأكل القهري الزائد
+- يحدد بعض الأعضاء "خطة طعام": أطعمة وحصص وتوقيت وجبات محدد
+- التركيز: الاتصال بوعي الجسد، والأكل الحدسي غير القهري
 
-## Meeting Formats
+## صيغ الاجتماعات
 
-- Speaker meetings: members share recovery stories
-- Step meetings: study twelve steps
-- Sponsor-based work: guidance through steps
-- Phone/digital support: growing given internet accessibility
+- اجتماعات المتحدثين: يشارك الأعضاء قصص تعافيهم
+- اجتماعات الخطوات: دراسة الخطوات الاثنتي عشرة
+- عمل قائم على الرعاية: توجيه عبر الخطوات
+- الدعم الهاتفي/الرقمي: في نمو مع سهولة الوصول عبر الإنترنت
 
-## Comorbidities
+## الاعتلالات المصاحبة
 
-- Often co-occurs with substance addiction, gambling, sex addiction
-- Trauma and eating disorders common
-- Mental health (depression, anxiety) may underlie compulsive eating
-- Requires integrated treatment
+- كثيراً ما يترافق مع إدمان المواد أو المقامرة أو الإدمان الجنسي
+- الصدمة واضطرابات الأكل شائعة معاً
+- قد تكمن الصحة النفسية (الاكتئاب، القلق) وراء الأكل القهري
+- يتطلب علاجاً متكاملاً
 
-## Integration with Professional Treatment
+## التكامل مع العلاج المهني
 
-### Relationship to Dietetics
-- Nutritionist/dietitian views vary: some supportive, some skeptical
-- Modern dietetics emphasizes intuitive eating (non-restrictive), which aligns with OA
-- Can be tension if food plan too restrictive
+### العلاقة بعلم التغذية
+- تتفاوت آراء أخصائيي التغذية: بعضهم داعم وبعضهم متشكك
+- يشدد علم التغذية الحديث على الأكل الحدسي (غير التقييدي)، وهو يتوافق مع OA
+- قد يحدث توتر إن كانت خطة الطعام تقييدية جداً
 
-### Relationship to Eating Disorder Treatment
-- OA not designed for clinical eating disorders
-- Anorexia/bulimia need specialized treatment (higher levels of care)
-- Binge eating disorder: OA may be adjunct to therapy
-- Some argue OA language around "abstinence" unhelpful for eating disorder recovery (which requires healthy relationship with food, not abstinence)
+### العلاقة بعلاج اضطرابات الأكل
+- OA ليست مصممة لاضطرابات الأكل الإكلينيكية
+- فقدان الشهية/الشره يحتاجان علاجاً متخصصاً (مستويات رعاية أعلى)
+- نهم الأكل: قد تكون OA مكمِّلة للعلاج
+- يرى البعض أن لغة "الامتناع" في OA غير مفيدة لتعافي اضطراب الأكل (الذي يتطلب علاقة صحية مع الطعام لا امتناعاً)
 
-### Integration with Therapy
-- Therapist may recommend OA as peer support
-- Addressing underlying trauma/emotions alongside OA
-- Food planning discussion with therapist + sponsor can be coordinated
+### التكامل مع العلاج
+- قد يوصي المعالج بـOA كدعم أقران
+- معالجة الصدمة/المشاعر الكامنة إلى جانب OA
+- يمكن تنسيق نقاش خطة الطعام بين المعالج والراعي
 
-## Effectiveness
+## الفعالية
 
-- Research limited (anonymity, self-selection)
-- Observational reports: regular attendance supports behavior change
-- Most effective when combined with therapy addressing emotional regulation, body image, trauma
-- Long-term sustainability varies
+- بحث محدود (السرية، الاختيار الذاتي)
+- تقارير رصدية: الحضور المنتظم يدعم تغيير السلوك
+- الأكثر فعالية حين يُجمع بعلاج يعالج التنظيم العاطفي وصورة الجسد والصدمة
+- الاستدامة طويلة الأمد متفاوتة
 
-## Criticisms
+## الانتقادات
 
-- **Addiction model debates:** question whether food addiction is real disease or metaphor
-- **Diet culture concerns:** some argue OA perpetuates restriction (contradicts intuitive eating)
-- **Body diversity:** not always accepting of varied body sizes; focus on weight loss problematic for some
-- **Food quality:** debates about "abstinence" vs. "moderation"; nutritional health sometimes secondary
-- **Gender:** historically female-dominated; some men feel uncomfortable
+- **جدل نموذج الإدمان:** تساؤل حول كون إدمان الطعام مرضاً حقيقياً أم استعارة
+- **مخاوف ثقافة الحمية:** يرى البعض أن OA تديم التقييد (يتعارض مع الأكل الحدسي)
+- **تنوع الجسد:** لا تتقبل دائماً أحجام الجسد المتنوعة؛ والتركيز على فقدان الوزن إشكالي للبعض
+- **جودة الطعام:** جدل حول "الامتناع" مقابل "الاعتدال"؛ والصحة الغذائية ثانوية أحياناً
+- **الجنس:** هيمنة نسائية تاريخياً؛ يشعر بعض الرجال بعدم الارتياح
 
-## Related Fellowships
+## رابطات ذات صلة
 
-- [[org-ea-emotions-anonymous]] — emotional regulation without food focus
-- [[org-aa-alcoholics-anonymous]] — model and often co-addiction
-- [[org-coda-codependents-anonymous]] — related patterns in relationships
+- [[org-ea-emotions-anonymous]] — تنظيم عاطفي دون تركيز على الطعام
+- [[org-aa-alcoholics-anonymous]] — النموذج وكثيراً ما يكون إدماناً مصاحباً
+- [[org-coda-codependents-anonymous]] — أنماط ذات صلة في العلاقات
 
-## Alternatives & Complements
+## بدائل ومكمِّلات
 
-- Intuitive eating / Health at Every Size (HAES) counseling
-- Eating disorder-specific therapy (CBT, DBT, family-based treatment)
-- Nutritional counseling from dietitian
-- [[org-smart-recovery]] — cognitive-behavioral alternative
+- استشارة الأكل الحدسي / الصحة بكل حجم (HAES)
+- علاج متخصص باضطرابات الأكل (المعرفي السلوكي، السلوكي الجدلي، العلاج القائم على الأسرة)
+- استشارة غذائية من أخصائي تغذية
+- [[org-smart-recovery]] — بديل معرفي سلوكي
 
-## Primary Sources
+## المصادر الأولية
 
 1. Overeaters Anonymous (1980). Overeaters Anonymous: The Basic Text. OA Publishing.
 2. Macht, M., & Simons, G. (2011). Emotional eating. In I. Macht (Ed.), Eating disorders and the brain (pp. 301-322). Springer.

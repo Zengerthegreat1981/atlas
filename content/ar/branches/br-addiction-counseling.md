@@ -7,192 +7,193 @@ parent: counseling
 featured: true
 ---
 
-# Addiction & Substance Use Counseling
+# الإرشاد في الإدمان وتعاطي المواد
 
-Addiction and substance use counseling is a specialized branch focused on assessment, treatment, and recovery support for individuals and families affected by substance use disorders (SUDs), behavioral addictions, and co-occurring mental health conditions. Drawing from biopsychosocial models, harm reduction frameworks, and recovery-oriented approaches, addiction counseling addresses the biological, psychological, social, and spiritual dimensions of addiction.
+الإرشاد في الإدمان وتعاطي المواد فرعٌ متخصص يُعنى بتقييم وعلاج ودعم التعافي للأفراد والأسر المتأثرين باضطرابات تعاطي المواد، والإدمان السلوكي، والحالات النفسية المصاحبة. وباستفادته من النماذج الحيوية النفسية الاجتماعية، وأطر تقليل الضرر، والمقاربات الموجَّهة نحو التعافي، يعالج هذا الإرشاد الأبعاد الحيوية والنفسية والاجتماعية والروحية للإدمان.
 
-## Historical Development
+## التطور التاريخي
 
-**1930s-1950s:** Alcoholics Anonymous (1935) introduces the "disease concept" and twelve-step peer support model as an alternative to criminalization and moral judgment.
+**عقود الثلاثينيات إلى الخمسينيات:** أدخلت جمعية مدمني الكحول المجهولين (Alcoholics Anonymous، تأسست 1935) "مفهوم المرض" ونموذج الدعم بين الأقران بالخطوات الاثنتي عشرة، كبديل عن التجريم والحكم الأخلاقي.
 
-**1950s-1970s:** Medical/psychiatric treatment models emerge; recognition of addiction as a psychological disorder rather than moral failure. Therapeutic communities develop (Synanon, 1958).
+**عقود الخمسينيات إلى السبعينيات:** ظهرت نماذج العلاج الطبي والنفسي؛ وتقرَّر اعتبار الإدمان اضطراباً نفسياً لا فشلاً أخلاقياً. وتطورت المجتمعات العلاجية (مثل سينانون، 1958).
 
-**1980s-1990s:** Professionalization of addiction counseling; certification programs established. Expansion to polysubstance use, behavioral addictions, and dual diagnosis treatment.
+**عقود الثمانينيات إلى التسعينيات:** اكتسب الإرشاد في الإدمان طابعاً مهنياً، وأُنشئت برامج الاعتماد. وتوسّع المجال ليشمل تعاطي مواد متعددة، والإدمان السلوكي، والتشخيص المزدوج.
 
-**2000s-Present:** Evidence-based treatments (CBT, MI, contingency management); integration of neuroscience; opioid crisis response; emphasis on recovery capital and peer support models beyond abstinence-only approaches.
+**منذ الألفينيات حتى اليوم:** اعتُمدت علاجات قائمة على الأدلة (العلاج المعرفي السلوكي، المقابلة التحفيزية، إدارة الطوارئ)؛ وتكامل علم الأعصاب؛ والاستجابة لأزمة المسكنات الأفيونية؛ والتركيز على "رأس مال التعافي" ونماذج دعم الأقران بما يتجاوز مقاربات الامتناع فقط.
 
-## Conceptual Models
+## النماذج المفاهيمية
 
-### Disease Model
-- **Core idea:** Addiction is a chronic disease with genetic, environmental, and neurobiological factors
-- **Treatment goal:** Abstinence and long-term recovery
-- **Associated approach:** Medical treatment, twelve-step fellowships, residential rehabilitation
-- **Critique:** May reduce personal agency; not all individuals require lifelong abstinence
+### نموذج المرض
+- **الفكرة الجوهرية:** الإدمان مرض مزمن تتضافر فيه عوامل وراثية وبيئية وعصبية حيوية
+- **هدف العلاج:** الامتناع والتعافي طويل الأمد
+- **المقاربة المرتبطة:** العلاج الطبي، جمعيات الخطوات الاثنتي عشرة، إعادة التأهيل الداخلي
+- **النقد:** قد يقلّل من الفاعلية الشخصية؛ وليس كل الأفراد بحاجة إلى امتناع مدى الحياة
 
-### Biopsychosocial Model
-- **Biological:** genetic predisposition, neurotransmitter dysregulation (dopamine, serotonin, opioid systems), withdrawal symptoms
-- **Psychological:** trauma, coping deficits, mental health comorbidity, reinforcement patterns
-- **Social:** family dynamics, peer influences, cultural factors, socioeconomic stress, discrimination
-- **Integrated treatment:** addresses all three dimensions simultaneously
+### النموذج الحيوي النفسي الاجتماعي
+- **البُعد الحيوي:** الاستعداد الوراثي، واختلال النواقل العصبية (الدوبامين والسيروتونين والأنظمة الأفيونية)، وأعراض الانسحاب
+- **البُعد النفسي:** الصدمة، وقصور آليات المواجهة، والاعتلال النفسي المصاحب، وأنماط التعزيز
+- **البُعد الاجتماعي:** ديناميكيات الأسرة، وتأثير الأقران، والعوامل الثقافية، والضغط الاقتصادي الاجتماعي، والتمييز
+- **العلاج المتكامل:** يعالج الأبعاد الثلاثة في آنٍ واحد
 
-### Harm Reduction Framework
-- **Core principle:** meeting people where they are; reducing negative consequences of use without requiring abstinence as prerequisite
-- **Interventions:** needle exchange, supervised consumption sites, medication-assisted treatment (MAT), overdose prevention, safe-use education
-- **Goal:** improved health, social functioning, and potential gateway to abstinence
-- **Recognition:** abstinence is ideal but not always immediately achievable or appropriate for all individuals
+### إطار تقليل الضرر
+- **المبدأ الجوهري:** مقابلة الأشخاص حيث هم؛ وتقليل العواقب السلبية للتعاطي دون اشتراط الامتناع مسبقاً
+- **التدخلات:** تبادل الإبر، ومواقع التعاطي المُشرَف عليه، والعلاج بالأدوية المساعدة، والوقاية من الجرعة الزائدة، والتثقيف بالتعاطي الآمن
+- **الهدف:** تحسين الصحة والأداء الاجتماعي، وفتح بابٍ محتمل نحو الامتناع
+- **الإقرار:** الامتناع مثالي لكنه ليس دائماً ممكناً أو مناسباً لجميع الأفراد فوراً
 
-### Stages of Change (Prochaska & DiClemente)
-1. **Precontemplation** — no intention to change; counselor role = provide information, build motivation
-2. **Contemplation** — ambivalent about change; explore ambivalence, pros/cons
-3. **Preparation** — intent to change; develop plan and coping strategies
-4. **Action** — active behavior change; relapse prevention, support
-5. **Maintenance** — sustained abstinence or reduced use; prevent relapse
-6. **Relapse** — temporary return to use; normalize and re-engage
+### مراحل التغيير (بروتشاسكا وديكليمنتي)
+1. **ما قبل التأمل** — لا نية للتغيير؛ ودور المرشد تقديم المعلومات وبناء الدافعية
+2. **التأمل** — تردد إزاء التغيير؛ استكشاف التردد وإيجابيات التغيير وسلبياته
+3. **التحضير** — نية التغيير؛ وضع خطة واستراتيجيات مواجهة
+4. **الفعل** — تغيير سلوكي فعلي؛ الوقاية من الانتكاس والدعم
+5. **الحفاظ** — استمرار الامتناع أو تقليل التعاطي؛ منع الانتكاس
+6. **الانتكاس** — عودة مؤقتة إلى التعاطي؛ التطبيع وإعادة الانخراط
 
-### Recovery Capital Framework
-- **Emphasis on assets, not deficits** — personal strengths, family support, peer networks, employment, housing, spirituality
-- **Types of capital:** human (education, skills), social (relationships, community), cultural (identity, values), physical (health, resources)
-- **Treatment goal:** build recovery capital to sustain long-term wellness
+### إطار رأس مال التعافي
+- **التركيز على الأصول لا العجز** — نقاط القوة الشخصية، ودعم الأسرة، وشبكات الأقران، والعمل، والسكن، والروحانية
+- **أنواع رأس المال:** البشري (التعليم والمهارات)، والاجتماعي (العلاقات والمجتمع)، والثقافي (الهوية والقيم)، والمادي (الصحة والموارد)
+- **هدف العلاج:** بناء رأس مال التعافي لضمان عافية مستدامة
 
-## Substance-Specific Counseling
+## الإرشاد الخاص بكل مادة
 
-### Alcohol Use Disorder
-- Medical detoxification (withdrawal can be life-threatening)
-- Medications: naltrexone, acamprosate, disulfiram
-- Cognitive-behavioral approaches to drinking reduction or abstinence
-- Twelve-step (AA, SMART Recovery)
+### اضطراب تعاطي الكحول
+- إزالة السموم طبياً (قد يكون الانسحاب مهدداً للحياة)
+- الأدوية: نالتريكسون، أكامبروسات، ديسلفيرام
+- مقاربات معرفية سلوكية لتقليل الشرب أو الامتناع
+- الخطوات الاثنتا عشرة (مدمنو الكحول المجهولون، SMART Recovery)
 
-### Opioid Use Disorder
-- Medication-assisted treatment (MAT): methadone, buprenorphine, naltrexone
-- Overdose prevention and harm reduction
-- Trauma-informed care (high rates of trauma history)
-- Integrated treatment for co-occurring pain, mental health, infectious diseases
+### اضطراب تعاطي المسكنات الأفيونية
+- العلاج بالأدوية المساعدة: الميثادون، البوبرينورفين، النالتريكسون
+- الوقاية من الجرعة الزائدة وتقليل الضرر
+- الرعاية المراعية للصدمة (ارتفاع معدلات تاريخ الصدمة)
+- علاج متكامل للألم المصاحب والصحة النفسية والأمراض المعدية
 
-### Stimulant Use Disorder (Cocaine, Methamphetamine)
-- CBT and contingency management (rewards for abstinence)
-- Attention to dopamine-related anhedonia and depression
-- Sleep and nutrition support
-- Peer support (MA, CA, NA)
+### اضطراب تعاطي المنبهات (الكوكايين، الميثامفيتامين)
+- العلاج المعرفي السلوكي وإدارة الطوارئ (مكافآت مقابل الامتناع)
+- الانتباه إلى فقدان الشعور بالمتعة والاكتئاب المرتبطين بالدوبامين
+- دعم النوم والتغذية
+- دعم الأقران (المدمنون المجهولون على أنواعهم)
 
-### Cannabis Use Disorder
-- Motivational interviewing for ambivalent users
-- Cognitive-behavioral approaches to dependence and withdrawal
-- Addressing functional impairment (work, education, relationships)
-- Adolescent-specific interventions (neurodevelopmental sensitivity)
+### اضطراب تعاطي القنّب
+- المقابلة التحفيزية للمتعاطين المترددين
+- مقاربات معرفية سلوكية للاعتماد والانسحاب
+- معالجة القصور الوظيفي (العمل والتعليم والعلاقات)
+- تدخلات خاصة بالمراهقين (مراعاة حساسية النمو العصبي)
 
-### Behavioral Addictions
-- **Gambling disorder:** similar CBT and motivational approaches; Gamblers Anonymous; family therapy
-- **Internet/gaming addiction:** digital detox, mindfulness, skills-building
-- **Sex and love addiction:** trauma work, boundary-setting, relational therapy; SLAA, SAA
-- **Food and eating disorders:** nutritional counseling, body image work, trauma processing
+### الإدمان السلوكي
+- **اضطراب القمار:** مقاربات معرفية سلوكية وتحفيزية مشابهة؛ ومقامرون مجهولون؛ وعلاج أسري
+- **إدمان الإنترنت والألعاب:** إزالة السموم الرقمية، واليقظة الذهنية، وبناء المهارات
+- **إدمان الجنس والحب:** العمل على الصدمة، ووضع الحدود، والعلاج العلائقي؛ جمعيات متخصصة
+- **إدمان الطعام واضطرابات الأكل:** الإرشاد الغذائي، والعمل على صورة الجسد، ومعالجة الصدمة
 
-## Co-Occurring Disorders (Dual Diagnosis)
+## الاضطرابات المصاحبة (التشخيص المزدوج)
 
-**Prevalence:** 50-80% of individuals with SUDs have comorbid mental health disorders (depression, anxiety, PTSD, bipolar disorder, personality disorders).
+**الانتشار:** يعاني 50-80% من الأشخاص المصابين باضطراب تعاطي المواد من اضطرابات نفسية مصاحبة (الاكتئاب، القلق، اضطراب ما بعد الصدمة، الاضطراب ثنائي القطب، اضطرابات الشخصية).
 
-**Treatment approach:**
-- Integrated treatment (addiction and mental health addressed simultaneously, not sequentially)
-- Careful medication management (avoiding reinforcing drugs; addressing medication-seeking behavior)
-- Trauma-informed care (high rates of trauma history)
-- Psychiatric stability before intensive addiction work when possible
-- Coordination between addiction and mental health providers
+**مقاربة العلاج:**
+- العلاج المتكامل (معالجة الإدمان والصحة النفسية معاً لا بالتتابع)
+- إدارة دقيقة للأدوية (تجنب الأدوية المعزِّزة؛ ومعالجة سلوك السعي وراء الدواء)
+- الرعاية المراعية للصدمة (ارتفاع معدلات تاريخ الصدمة)
+- استقرار الحالة النفسية قبل العمل المكثف على الإدمان حيثما أمكن
+- التنسيق بين مقدمي رعاية الإدمان والصحة النفسية
 
-## Counseling Approaches & Interventions
+## مقاربات الإرشاد وتدخلاته
 
-### Motivational Interviewing (MI)
-- **Foundational:** addresses ambivalence about change
-- **Core techniques:** open questions, affirmations, reflective listening, summarization
-- **Goal:** strengthen client's own arguments for change (not counselor arguing for change)
-- **Evidence:** robust support for reducing substance use and building motivation
+### المقابلة التحفيزية
+- **أساسية:** تعالج التردد إزاء التغيير
+- **التقنيات الجوهرية:** الأسئلة المفتوحة، والتثبيت الإيجابي، والإصغاء التأملي، والتلخيص
+- **الهدف:** تعزيز حجج المسترشد الخاصة للتغيير (لا أن يجادل المرشد لصالح التغيير)
+- **الأدلة:** دعمٌ قوي لتقليل تعاطي المواد وبناء الدافعية
 
-### Cognitive-Behavioral Therapy (CBT)
-- **Identify triggers** for use (environmental, emotional, social)
-- **Develop coping strategies** (alternative behaviors, problem-solving, emotion regulation)
-- **Restructure thoughts** about use, recovery, self-efficacy
-- **Relapse prevention planning** — anticipate high-risk situations
+### العلاج المعرفي السلوكي
+- **تحديد المحفزات** للتعاطي (البيئية والانفعالية والاجتماعية)
+- **تطوير استراتيجيات المواجهة** (سلوكيات بديلة، وحل المشكلات، وتنظيم الانفعال)
+- **إعادة هيكلة الأفكار** حول التعاطي والتعافي والكفاءة الذاتية
+- **التخطيط للوقاية من الانتكاس** — استباق المواقف عالية الخطورة
 
-### Contingency Management (CM) / Incentive-Based Therapy
-- **Immediate rewards** (vouchers, prizes) for abstinence, attendance, medication compliance, negative urine screens
-- **Evidence:** strong for reinforcing specific behaviors, particularly in early recovery
-- **Limitation:** effects may not persist beyond treatment duration without additional support
+### إدارة الطوارئ / العلاج القائم على الحوافز
+- **مكافآت فورية** (قسائم، جوائز) مقابل الامتناع، والحضور، والالتزام بالدواء، وفحوصات البول السلبية
+- **الأدلة:** قوية في تعزيز سلوكيات محددة، خصوصاً في بدايات التعافي
+- **القيد:** قد لا تستمر الآثار بعد انتهاء العلاج دون دعمٍ إضافي
 
-### Family & Couple Therapy
-- **Address family dynamics** — enabling, codependency, communication patterns
-- **Engage support systems** — family involvement in recovery
-- **Rebuild trust** — after years of broken promises and betrayal
-- **Treatment:** family-focused CBT, Multidimensional Family Therapy (MDFT), structural family approaches
+### العلاج الأسري والزوجي
+- **معالجة ديناميكيات الأسرة** — التمكين من الاستمرار في التعاطي، والاعتمادية المشتركة، وأنماط التواصل
+- **إشراك أنظمة الدعم** — انخراط الأسرة في التعافي
+- **إعادة بناء الثقة** — بعد سنوات من الوعود المكسورة والخيانة
+- **العلاج:** العلاج المعرفي السلوكي الأسري، والعلاج الأسري متعدد الأبعاد، والمقاربات البنيوية الأسرية
 
-### Peer Support & Twelve-Step
-- **Twelve-step fellowships** (AA, NA, GA, CA, OA, SA, SLAA, CoDA) — peer-led, spiritually-oriented, accessible, low-cost
-- **SMART Recovery** — self-directed, 4-point program (building motivation, coping skills, managing thoughts and feelings, living a balanced life)
-- **Secular approaches** — LifeRing, Refuge Recovery, Recovery Dharma
-- **Peer counseling** — individuals with lived experience provide mentoring and support
+### دعم الأقران والخطوات الاثنتا عشرة
+- **جمعيات الخطوات الاثنتي عشرة** — قيادة الأقران، توجه روحي، سهولة الوصول، تكلفة منخفضة
+- **SMART Recovery** — برنامج موجَّه ذاتياً من أربع نقاط (بناء الدافعية، ومهارات المواجهة، وإدارة الأفكار والمشاعر، وحياة متوازنة)
+- **مقاربات علمانية** — LifeRing وRefuge Recovery وRecovery Dharma
+- **الإرشاد بالأقران** — أفراد ذوو خبرة معيشة يقدمون التوجيه والدعم
 
-### Residential & Intensive Programs
-- **Therapeutic communities** — long-term (6-12 months), peer-run, structured environment
-- **Inpatient rehab** — medical detoxification, intensive counseling, psychoeducation
-- **Outpatient intensive programs (IOP)** — day programs combining counseling, skills training, group work
+### البرامج الداخلية والمكثفة
+- **المجتمعات العلاجية** — طويلة الأمد (6-12 شهراً)، يديرها الأقران، بيئة منظمة
+- **إعادة التأهيل الداخلي** — إزالة السموم طبياً، وإرشاد مكثف، وتثقيف نفسي
+- **البرامج الخارجية المكثفة** — برامج نهارية تجمع الإرشاد وتدريب المهارات والعمل الجماعي
 
-### Medication-Assisted Treatment (MAT)
-- **Opioids:** methadone, buprenorphine, naltrexone
-- **Alcohol:** naltrexone, acamprosate, disulfiram, topiramate
-- **Stimulants:** limited medication options; focus on behavioral approaches
-- **Integration:** medication + counseling + psychosocial support for best outcomes
+### العلاج بالأدوية المساعدة
+- **المسكنات الأفيونية:** الميثادون، البوبرينورفين، النالتريكسون
+- **الكحول:** النالتريكسون، الأكامبروسات، الديسلفيرام، التوبيراميت
+- **المنبهات:** خيارات دوائية محدودة؛ التركيز على المقاربات السلوكية
+- **التكامل:** الدواء + الإرشاد + الدعم النفسي الاجتماعي لأفضل النتائج
 
-## Addiction Counselor Competencies
+## كفايات مرشد الإدمان
 
-- Comprehensive substance use assessment (history, patterns, consequences, co-occurring conditions)
-- Knowledge of psychopharmacology and medication-assisted treatment
-- Motivational interviewing
-- Relapse prevention planning
-- Trauma-informed practice
-- Dual diagnosis assessment and treatment
-- Cultural competence (substance use varies by culture; recovery pathways diverse)
-- Self-awareness regarding personal attitudes toward addiction and recovery
-- Professional boundaries and secondary trauma prevention
+- تقييم شامل لتعاطي المواد (التاريخ، الأنماط، العواقب، الحالات المصاحبة)
+- معرفة بعلم الأدوية النفسية والعلاج بالأدوية المساعدة
+- المقابلة التحفيزية
+- التخطيط للوقاية من الانتكاس
+- الممارسة المراعية للصدمة
+- تقييم التشخيص المزدوج وعلاجه
+- الكفاءة الثقافية (يتفاوت تعاطي المواد بحسب الثقافة؛ ومسارات التعافي متنوعة)
+- الوعي الذاتي بالمواقف الشخصية تجاه الإدمان والتعافي
+- الحدود المهنية والوقاية من الصدمة الثانوية
 
-## Related Branches
+## فروع ذات صلة
 
-- [[br-crisis-counseling]] — substance-related emergencies (overdose, acute intoxication)
-- [[br-trauma-psychology]] — PTSD and trauma in addiction
-- [[br-medical-model-addiction]] — medical/psychiatric aspects of substance use disorders
+- [[br-crisis-counseling]] — الطوارئ المرتبطة بالمواد (الجرعة الزائدة، التسمم الحاد)
+- [[br-trauma-psychology]] — اضطراب ما بعد الصدمة والصدمة في الإدمان
+- [[br-medical-model-addiction]] — الجوانب الطبية والنفسية لاضطرابات تعاطي المواد
 
-## Key Figures
+## أعلام بارزون
 
-- Bill Wilson & Dr. Bob Smith — founders of Alcoholics Anonymous (1935)
-- Carl Rogers & William Miller — motivational interviewing development
-- Albert Ellis — rational emotive behavior therapy applied to addiction
-- Albert Bandura — social learning theory and relapse prevention
-- George Vaillant — longitudinal research on recovery from alcoholism
-- Stephanie Brown — psychology of addiction and recovery
+- بيل ويلسون (Bill Wilson) والدكتور بوب سميث (Bob Smith) — مؤسسا جمعية مدمني الكحول المجهولين (1935)
+- كارل روجرز (Carl Rogers) وويليام ميلر (William Miller) — تطوير المقابلة التحفيزية
+- ألبرت إليس (Albert Ellis) — العلاج العقلاني الانفعالي السلوكي المطبَّق على الإدمان
+- ألبرت باندورا (Albert Bandura) — نظرية التعلم الاجتماعي والوقاية من الانتكاس
+- جورج فايلانت (George Vaillant) — بحث طولي حول التعافي من إدمان الكحول
+- ستيفاني براون (Stephanie Brown) — علم نفس الإدمان والتعافي
 
-## Related Organizations & Programs
+## منظمات وبرامج ذات صلة
 
-- Substance Abuse and Mental Health Services Administration (SAMHSA)
-- National Institute on Drug Abuse (NIDA)
-- National Institute on Alcohol Abuse and Alcoholism (NIAAA)
-- American Society of Addiction Medicine (ASAM)
-- Addiction Counselor Certification Commission (ACCC)
-- Council for Accreditation of Rehabilitation Facilities (CARF)
+- الإدارة الأمريكية لخدمات إساءة استخدام المواد والصحة النفسية (SAMHSA)
+- المعهد الوطني لإساءة استخدام المخدرات (NIDA)
+- المعهد الوطني الأمريكي لإساءة استخدام الكحول وإدمانه (NIAAA)
+- الجمعية الأمريكية لطب الإدمان (ASAM)
+- لجنة اعتماد مرشدي الإدمان (ACCC)
+- مجلس اعتماد مرافق إعادة التأهيل (CARF)
 
-## Primary Sources
+## المصادر
 
 1. Meyers, R.J., & Wolfe, B.L. (2013). Get your loved one sober: Alternatives to nagging, pleading, and threatening. Hazelden Publishing.
 2. Miller, W.R., & Rollnick, S. (2012). Motivational interviewing: Helping people change (3rd ed.). Guilford Press.
 3. Prochaska, J.O., DiClemente, C.C., & Norcross, J.C. (1992). In search of how people change: Applications to addictive behaviors. American Psychologist, 47(9), 1102-1114.
 4. Researchgate and SAMHSA resources on evidence-based substance abuse treatment.
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Substance use disorder
-- Addiction
-- Recovery
-- Relapse prevention
-- Harm reduction
-- Twelve-step programs
-- Motivational interviewing
-- Dual diagnosis
-- Medication-assisted treatment
-- Recovery capital
-- Peer support
-- Therapeutic community
+- اضطراب تعاطي المواد
+- الإدمان
+- التعافي
+- الوقاية من الانتكاس
+- تقليل الضرر
+- برامج الخطوات الاثنتي عشرة
+- المقابلة التحفيزية
+- التشخيص المزدوج
+- العلاج بالأدوية المساعدة
+- رأس مال التعافي
+- دعم الأقران
+- المجتمع العلاجي
+</content>

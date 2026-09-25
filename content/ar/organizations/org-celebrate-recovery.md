@@ -6,129 +6,129 @@ part: psychology
 parent: twelve-step fellowships, mutual-aid, faith-based
 ---
 
-# Celebrate Recovery
+# الاحتفاء بالتعافي (Celebrate Recovery)
 
-Celebrate Recovery is a Christian-based, church-led twelve-step recovery program designed to help people overcome addiction, trauma, and dysfunctional family patterns. Founded in 1990, it adapts the twelve-step model with explicit Christian theology and faith community support.
+الاحتفاء بالتعافي برنامج تعافٍ مسيحي بخطوات اثنتي عشرة تقوده الكنائس، صُمِّم لمساعدة الناس على تجاوز الإدمان والصدمة وأنماط الأسرة المختلة. تأسس عام 1990، ويُكيِّف نموذج الخطوات الاثنتي عشرة بلاهوت مسيحي صريح ودعم مجتمع الإيمان.
 
-## Overview
+## لمحة عامة
 
-- **Founded:** 1990 at Saddleback Church (California)
-- **Members:** 1 million+ globally
-- **Setting:** Church-based; run by congregations
-- **Spirituality:** Christian; explicitly Jesus-centered
-- **Format:** Twelve steps with Christian language and theology
+- **التأسيس:** 1990 في كنيسة سادلباك (كاليفورنيا)
+- **الأعضاء:** أكثر من مليون حول العالم
+- **البيئة:** قائمة على الكنيسة؛ تديرها الأبرشيات
+- **الروحانية:** مسيحية؛ محورها يسوع المسيح صراحة
+- **الصيغة:** خطوات اثنتا عشرة بلغة ولاهوت مسيحيَّين
 
-## Core Components
+## المكوّنات الأساسية
 
-**Eight Principles (adapted steps):**
-1. Realize need for change; make peace with God
-2. Believe that God can help
-3. Commit to turn will/life to Jesus Christ
-4. Admit wrongs
-5. Confess to God and others
-6. Ask God to remove character flaws
-7. Humble request to God
-8. Make amends (except if harmful)
+**المبادئ الثمانية (خطوات مُكيَّفة):**
+1. إدراك الحاجة إلى التغيير؛ ومصالحة الله
+2. الإيمان بأن الله يستطيع المساعدة
+3. الالتزام بتسليم الإرادة/الحياة ليسوع المسيح
+4. الاعتراف بالأخطاء
+5. الاعتراف لله وللآخرين
+6. طلب أن يزيل الله عيوب الشخصية
+7. طلب متواضع من الله
+8. جبر الضرر (إلا إن كان مؤذياً)
 
-**Plus 4 more principles on spiritual practice, service, and witness**
+**بالإضافة إلى 4 مبادئ أخرى حول الممارسة الروحانية والخدمة والشهادة**
 
-## Setting & Community
+## البيئة والمجتمع
 
-**Church-based:**
-- Meetings held at church facilities
-- Integrated with church community
-- Often multi-generational (whole family may attend)
-- Connects recovery to faith community
+**قائمة على الكنيسة:**
+- تُعقد الاجتماعات في مرافق الكنيسة
+- مندمجة بمجتمع الكنيسة
+- كثيراً ما تشمل أجيالاً متعددة (قد تحضر الأسرة كلها)
+- تربط التعافي بمجتمع الإيمان
 
-**Structured program:**
-- Large group opening (celebration, worship, teaching)
-- Small group work (accountability, step work, sharing)
-- Meal fellowship component
-- Often includes childcare
+**برنامج منظَّم:**
+- افتتاح جماعي كبير (احتفال وعبادة وتعليم)
+- عمل في مجموعات صغيرة (مساءلة وعمل على الخطوات ومشاركة)
+- مكوّن وجبة جماعية
+- كثيراً ما يشمل رعاية الأطفال
 
-## Issues Addressed
+## القضايا المعالَجة
 
-Explicit focus on:
-- Addiction (substance and behavioral)
-- Hurts, habits, hangups (trauma, family dysfunction, compulsive behaviors)
-- Grief and loss
-- Abuse and trauma
-- Divorce and separation
-- Depression and anxiety
-- Family dysfunction
+تركيز صريح على:
+- الإدمان (المادي والسلوكي)
+- الجراح والعادات والمعوقات (الصدمة، اختلال الأسرة، السلوكيات القهرية)
+- الحزن والفقد
+- الإساءة والصدمة
+- الطلاق والانفصال
+- الاكتئاب والقلق
+- اختلال الأسرة
 
-## Faith Integration
+## دمج الإيمان
 
-**Christian foundation:**
-- God through Jesus Christ as source of healing
-- Spiritual transformation as core mechanism
-- Forgiveness and grace central
-- Often includes worship, prayer, biblical teaching
-- Salvation message integrated with recovery
+**الأساس المسيحي:**
+- الله عبر يسوع المسيح مصدر الشفاء
+- التحوّل الروحاني الآلية المحورية
+- الغفران والنعمة محوريان
+- كثيراً ما يشمل العبادة والصلاة والتعليم الكتابي
+- رسالة الخلاص مندمجة بالتعافي
 
-**Accessibility for different faith traditions:**
-- Historically exclusively Christian
-- Some congregations now more inclusive
-- LGBTQ+ inclusion varies by church
+**سهولة الوصول لتقاليد إيمانية مختلفة:**
+- كانت حصراً مسيحية تاريخياً
+- بعض الأبرشيات أكثر شمولاً الآن
+- شمول المثليين يتفاوت بين الكنائس
 
-## Advantages for Church-Connected People
+## المزايا لمن هم على صلة بالكنيسة
 
-- Integrated spiritual and recovery work
-- Community and belonging through church
-- Moral/ethical framework aligned with faith
-- Family recovery (multiple members often attend)
-- Financial and practical support from church
-- Leadership development opportunities
+- عمل روحاني وعلاجي مندمج
+- مجتمع وانتماء عبر الكنيسة
+- إطار أخلاقي/معنوي متوائم مع الإيمان
+- تعافي الأسرة (كثيراً ما يحضر عدة أفراد)
+- دعم مالي وعملي من الكنيسة
+- فرص لتطوير القيادة
 
-## Limitations & Criticisms
+## القيود والانتقادات
 
-**For non-Christian people:**
-- Explicit Christian theology excludes secular, non-Christian, LGBTQ+ individuals
-- May not align with diverse faith traditions
-- Can feel exclusive despite "all welcome" messaging
+**لغير المسيحيين:**
+- اللاهوت المسيحي الصريح يستبعد العلمانيين وغير المسيحيين والمثليين
+- قد لا يتوافق مع تقاليد إيمانية متنوعة
+- قد يبدو إقصائياً رغم خطاب "الترحيب بالجميع"
 
-**For LGBTQ+ individuals:**
-- Historically exclusionary (many still are)
-- Some progressive congregations increasingly inclusive
-- Remains challenging for LGBTQ+ recovery
+**للمثليين:**
+- إقصائي تاريخياً (وما زال كثير منه كذلك)
+- بعض الأبرشيات التقدمية أكثر شمولاً تدريجياً
+- يبقى تحدياً لتعافي المثليين
 
-**Theological debates:**
-- Some Christian traditions uncomfortable with aspects
-- Alcohol policies (abstinence vs. moderation) vary by church
-- Some churches resist secular psychology integration
+**جدل لاهوتي:**
+- بعض التقاليد المسيحية غير مرتاحة لبعض جوانبه
+- سياسات الكحول (الامتناع مقابل الاعتدال) تتفاوت بين الكنائس
+- بعض الكنائس تقاوم دمج علم النفس العلماني
 
-## Effectiveness
+## الفعالية
 
-- Research limited; peer-reported benefits
-- Integrated faith community appears protective
-- Family involvement when multiple members attend benefits family system
-- Outcome comparable to AA for faith-connected individuals
-- May not work as well for secular or non-Christian participants
+- بحث محدود؛ فوائد مُبلَّغ عنها من الأقران
+- يبدو مجتمع الإيمان المندمج وقائياً
+- انخراط الأسرة حين يحضر عدة أفراد يفيد نظام الأسرة
+- نتائج مماثلة لـAA لمن هم على صلة بالإيمان
+- قد لا يعمل بالقدر ذاته للمشاركين العلمانيين أو غير المسيحيين
 
-## Comparison to Other Programs
+## المقارنة ببرامج أخرى
 
-| Aspect | Celebrate Recovery | AA | SMART |
+| الجانب | Celebrate Recovery | AA | SMART |
 |---|---|---|---|
-| Spirituality | Christian required | Higher Power flexible | None |
-| Setting | Church | Secular meetings | Secular meetings |
-| Community | Faith community | Recovery community | Recovery community |
-| Duration | Ongoing | Lifelong | Time-limited |
-| Theology | Salvation + recovery | Spiritual (not religious) | Cognitive |
+| الروحانية | مسيحية إلزامية | قوة عليا مرنة | لا شيء |
+| البيئة | كنيسة | اجتماعات علمانية | اجتماعات علمانية |
+| المجتمع | مجتمع الإيمان | مجتمع التعافي | مجتمع التعافي |
+| المدة | مستمرة | مدى الحياة | محدودة الزمن |
+| اللاهوت | خلاص + تعافٍ | روحاني (لا ديني) | معرفي |
 
-## Integration with Professional Treatment
+## التكامل مع العلاج المهني
 
-- Works well with religious clients in treatment
-- Some treatment programs recommend for faith-connected clients
-- Non-Christian clients may prefer other alternatives
-- Therapist should know client's faith context
+- يعمل جيداً مع العملاء المتدينين في العلاج
+- توصي بعض برامج العلاج به للعملاء المرتبطين بالإيمان
+- قد يفضّل العملاء غير المسيحيين بدائل أخرى
+- ينبغي أن يعرف المعالج سياق إيمان العميل
 
-## Related Programs
+## برامج ذات صلة
 
-- [[org-aa-alcoholics-anonymous]] — secular model Celebrate Recovery adapts
-- Church-based counseling and pastoral care
-- Christian-specific therapy
+- [[org-aa-alcoholics-anonymous]] — النموذج العلماني الذي يُكيِّفه Celebrate Recovery
+- الاستشارة الكنسية والرعاية الرعوية
+- العلاج المسيحي المتخصص
 
-## Primary Sources
+## المصادر الأولية
 
 1. Baker, J. (2004). Celebrate Recovery: The stepping stones to recovery. Zondervan.
 2. Saddleback Church Celebrate Recovery: https://www.celebraterecovery.com

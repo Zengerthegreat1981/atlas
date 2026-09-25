@@ -22,31 +22,29 @@ gaps: []
 
 # علمُ المعاني: مطابقةُ الكلام لمقتضى الحال
 
-## Definition
+## التعريف
 
-This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
+علمُ المعاني أول علوم البلاغة العربية الثلاثة، ويُعنى بأصول وقواعد يُعرَف بها كيفية مطابقة الكلام لمقتضى الحال — أي تكييف التركيب اللغوي بحسب السياق والمخاطَب والغرض، فيُقدَّم ويُؤخَّر، ويُعرَّف وينكَّر، ويُوجَز ويُطنَب بحسب ما يقتضيه المقام.
 
-## Theoretical Framework
+## المفاهيم الجوهرية
 
-Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
+- **الخبر والإنشاء:** الخبر كلامٌ يحتمل الصدق والكذب، والإنشاء كلامٌ لا يحتملهما (كالأمر والاستفهام والنداء).
+- **القصر:** تخصيص أمر بآخر بطرق كالنفي والاستثناء أو "إنما"، لإفادة الحصر.
+- **الفصل والوصل:** عطف الجمل بعضها على بعض أو تركها بلا عاطف، بحسب المناسبة الدلالية بينها.
+- **الإيجاز والإطناب والمساواة:** تكييف طول العبارة بحسب الغرض — إيجازاً إن كفى المعنى بأقل لفظ، أو إطناباً لزيادة التوكيد والتفصيل.
+- **مقتضى الحال:** المبدأ الجامع لهذه القواعد كلها، وهو أن أفصح الكلام ما طابق مقام قوله وسامعه وغرضه.
 
-## Key Principles
+## السياق التاريخي
 
-- Meaning is systematic: Similar utterances have related meanings
-- Meaning is compositional: Sentence meaning derives from parts
-- Meaning is context-dependent: Context affects interpretation
-- Meaning is negotiated: Speaker and listener collaborate on interpretation
+وضع عبد القاهر الجرجاني الأساس النظري لعلم المعاني في "دلائل الإعجاز"، مبيّناً أن إعجاز القرآن الكريم يكمن في نظم الكلام لا في مفرداته منفردة. ثم نظّم السكّاكي في "مفتاح العلوم" هذا العلم تنظيماً منهجياً صار مرجعاً للمتأخرين كالقزويني في "تلخيص المفتاح".
 
-## Evidence Sources
+## الصلة بالتداولية الحديثة
 
-Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
+يتقاطع علم المعاني مع التداولية الحديثة (كنظرية أفعال الكلام عند أوستن وسيرل، ومبدأ التعاون عند غرايس) في اهتمامه بكيفية تكييف الخطاب وفق السياق والقصد، رغم اختلاف الإطارين التاريخي والمنهجي.
 
-## Contemporary Applications
+## المصادر
 
-Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
-
-## References
-
-- Lyons, J. (1977). *Semantics*. Cambridge University Press.
-- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
-
+- الجرجاني، عبد القاهر. دلائل الإعجاز.
+- السكّاكي، أبو يعقوب. مفتاح العلوم.
+- القزويني، الخطيب. تلخيص المفتاح.
+</content>

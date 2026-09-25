@@ -18,27 +18,26 @@ gaps: []
 
 # الديالكت الإقليمي والتدرج
 
-## Definition
+## التعريف
 
-Dialects are language varieties associated with regions or social groups. All languages have dialects. Dialect differences include pronunciation, grammar, and vocabulary.
+اللهجات (dialects) صور من اللغة ترتبط بمناطق أو جماعات اجتماعية. لكل اللغات لهجات. وتشمل الفروق بين اللهجات النطق والنحو والمفردات.
 
-## Mutual Intelligibility
+## الفهم المتبادل
 
-Language versus dialect is political, not linguistic. Mutual intelligibility doesn't determine language status. Swedish, Danish, and Norwegian are mutually intelligible but separate languages; Chinese "dialects" aren't mutually intelligible but are called one language.
+التمييز بين اللغة واللهجة تمييز سياسي لا لغوي. فالفهم المتبادل لا يحدد وضع اللغة: فالسويدية والدنماركية والنرويجية متفاهمة فيما بينها لكنها لغات منفصلة، في حين أن "لهجات" الصينية لا تتفاهم فيما بينها لكنها تُعدّ لغة واحدة.
 
-## Variation Patterns
+## أنماط التنوع
 
-Dialects show isoglosses (boundaries where features change). Dialect continua show gradual change across space—neighboring areas are similar; distant areas differ greatly. No clear dialect boundaries usually exist; instead, gradual transitions occur.
+تُظهر اللهجات خطوطاً عزلية (isoglosses)، وهي الحدود التي تتغير عندها السمات اللغوية. وتُظهر السلاسل اللهجية (dialect continua) تغيراً تدريجياً عبر المكان: فالمناطق المتجاورة متشابهة، والمناطق المتباعدة تختلف كثيراً. ولا توجد عادة حدود لهجية واضحة، بل انتقالات تدريجية.
 
-## Social Dialect
+## اللهجة الاجتماعية
 
-Social (not just geographic) dialects exist: class dialects, ethnic dialects. African American Vernacular English (AAVE) is a systematic dialect with consistent phonological and grammatical rules.
+توجد لهجات اجتماعية لا جغرافية فحسب: لهجات طبقية ولهجات عرقية. فالإنجليزية العامية الأفريقية الأمريكية (AAVE) لهجة منتظمة لها قواعد صوتية ونحوية ثابتة.
 
-## Prestige
+## المكانة
 
-Some dialects have more prestige than others. Standard dialects (like Standard English) gain status through institutional use (education, media, law). Prestige affects acquisition and attitudes, not linguistic systematicity.
+بعض اللهجات أرفع مكانة من غيرها. فاللهجات المعيارية (كالإنجليزية المعيارية) تكتسب مكانتها من الاستعمال المؤسسي (التعليم والإعلام والقانون). والمكانة تؤثر في الاكتساب والمواقف لا في الانتظام اللغوي نفسه.
 
-## References
+## المصادر
 
 - Trudgill, P. (1974). *The Social Differentiation of English in Norwich*. Cambridge University Press.
-

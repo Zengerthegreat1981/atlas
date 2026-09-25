@@ -30,7 +30,7 @@ related:
 - id: "thk-john-makransky", title: "جون ماكرانسكي (John Makransky)", type: "مفكر"
 - id: "thk-robert-thurman", title: "روبرت ثورمان (Robert Thurman)", type: "مفكر"
 - id: "thk-shih-chao-hwei", title: "شيه تشاو-هوي (Shih Chao-Hwei)", type: "مفكر"
-- id: "con-buddhist-emptiness-shunyata", title: "الشُّنْيَاتَى / الفَرَاغ (Śūnyatā)", type: "مفهوم"
+- id: "con-shunyata", title: "شُونْياتا (الفراغ / العدمية الجوهرية)", type: "مفهوم"
 gaps:
   - "رابط مقترح لم يتحقق بعد في الأطلس: الدالاي لاما (thk-dalailama)"
   - "رابط مقترح لم يتحقق بعد في الأطلس: جاك كورنفيلد (thk-rmrkornfield)"

@@ -17,22 +17,22 @@ gaps: []
 
 # النسيان والصمت التاريخي (Forgetting and Historical Silences)
 
-## Forgetting and Historical Silences
+## النسيان والصمت التاريخي
 
-Examination of what is forgotten or silenced in historical narratives; studies erasure and invisibility in history.
+فحص ما يُنسى أو يُسكَت عنه في السرديات التاريخية؛ يدرس المحو واللامرئية في التاريخ.
 
-### Key Aspects
+### الجوانب الجوهرية
 
-This node represents part of Section 20: Cross-Cutting Frameworks & Synthesis in historiography.
+تمثّل هذه العقدة جزءاً من القسم 20: الأطر الشاملة والتوليف في التأريخ.
 
-### Related Fields
+### مجالات ذات صلة
 
-- Historiographical theory and practice
-- Historical knowledge and representation
-- Contemporary historical scholarship
+- نظرية التأريخ وممارسته
+- المعرفة التاريخية وتمثيلها
+- الدراسات التاريخية المعاصرة
 
-### See Also
+### انظر أيضاً
 
-- Related historiographical concepts
-- Historical methodology
-
+- مفاهيم تأريخية ذات صلة
+- منهجية التاريخ
+</content>

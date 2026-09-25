@@ -9,185 +9,185 @@ related_schools:
   - sch-behavioral-psychology
 ---
 
-# Generalized Anxiety Disorder Scale (GAD-7)
+# مقياس اضطراب القلق العام (GAD-7)
 
-The GAD-7 is a brief, 7-item anxiety screening and severity measure based on DSM-5 criteria for generalized anxiety disorder. Developed by Spitzer, Kroenke, Williams, and Löwe (2006), it parallels the PHQ-9 structure and serves as primary care tool for anxiety identification and symptom monitoring.
+مقياس اضطراب القلق العام (GAD-7) أداة موجزة من سبعة بنود لفحص القلق وقياس شدته، مبنية على معايير DSM-5 لاضطراب القلق العام. طوَّرها سبيتزر وكرونكه وويليامز ولوه (Spitzer, Kroenke, Williams, & Löwe, 2006)، وهي موازية لبنية PHQ-9، وتُستخدم أداةً في الرعاية الأولية لتحديد القلق ومتابعة أعراضه.
 
-## Development
+## التطوير
 
-**Spitzer et al. (2006):**
-- Extension of PRIME-MD anxiety module
-- Simplified for primary care use
-- Items correspond to DSM-5 generalized anxiety criteria
-- Designed as companion to PHQ-9 for comprehensive mood/anxiety screening
+**سبيتزر وزملاؤه (2006):**
+- امتداد لوحدة القلق في PRIME-MD
+- بُسِّطت للاستخدام في الرعاية الأولية
+- تقابل البنود معايير اضطراب القلق العام في DSM-5
+- صُمِّمت لترافق PHQ-9 لفحص شامل للمزاج/القلق
 
-**Rationale:**
-- Anxiety disorders frequently missed in primary care
-- Brief, efficient tool needed
-- DSM-criterion mapping ensures diagnostic alignment
-- Similar format to PHQ-9 for provider familiarity
+**المسوِّغ:**
+- كثيراً ما تُفوَّت اضطرابات القلق في الرعاية الأولية
+- الحاجة إلى أداة موجزة وفعّالة
+- تقابل معايير DSM يضمن الاتساق التشخيصي
+- صيغة مشابهة لـPHQ-9 لتسهيل إلفة مقدمي الرعاية بها
 
-## Items & Format
+## البنود والصيغة
 
-**7 items assessing anxiety symptoms (past 2 weeks):**
+**سبعة بنود تقيس أعراض القلق (خلال الأسبوعين الماضيين):**
 
-| # | Item | GAD Feature |
+| # | البند | سمة القلق |
 |---|------|------------|
-| 1 | Feeling nervous, anxious, or on edge | General anxiety |
-| 2 | Not being able to stop or control worrying | Worry/rumination |
-| 3 | Worrying too much about different things | Multiple worry topics |
-| 4 | Trouble relaxing | Physical tension |
-| 5 | Being so restless that it is hard to sit still | Restlessness |
-| 6 | Becoming easily annoyed or irritable | Irritability |
-| 7 | Feeling afraid as if something awful might happen | Apprehension |
+| 1 | الشعور بالعصبية أو القلق أو التوتر | قلق عام |
+| 2 | عدم القدرة على إيقاف الهمّ أو ضبطه | الهمّ/الاجترار |
+| 3 | القلق المفرط حيال أمور مختلفة | مواضيع همّ متعددة |
+| 4 | صعوبة الاسترخاء | توتر جسدي |
+| 5 | التململ الشديد لدرجة صعوبة الجلوس ساكناً | تململ |
+| 6 | سهولة الانزعاج أو التهيج | تهيج |
+| 7 | الشعور بالخوف وكأن شيئاً فظيعاً قد يحدث | ترقّب |
 
-**Response options:**
-- 4-point scale: Not at all (0), Several days (1), More than half the days (2), Nearly every day (3)
-- Time frame: Past 2 weeks
-- Administration time: 1-2 minutes
+**خيارات الإجابة:**
+- سلّم من أربع درجات: لا إطلاقاً (0)، عدة أيام (1)، أكثر من نصف الأيام (2)، كل يوم تقريباً (3)
+- الإطار الزمني: الأسبوعان الماضيان
+- زمن التطبيق: دقيقة إلى دقيقتين
 
-## Scoring & Interpretation
+## التصحيح والتفسير
 
-**Severity scoring:**
-- Sum items 1-7
-- Range: 0-21
-- 0-4: Minimal anxiety
-- 5-9: Mild anxiety
-- 10-14: Moderate anxiety
-- 15-21: Severe anxiety
+**تصحيح الشدة:**
+- جمع البنود 1-7
+- المدى: 0-21
+- 0-4: قلق طفيف جداً
+- 5-9: قلق خفيف
+- 10-14: قلق متوسط
+- 15-21: قلق شديد
 
-**Diagnostic guidance (DSM-5 GAD):**
-- Cutoff ≥10: possible generalized anxiety disorder
-- Sensitivity 89%, specificity 84% at this cutoff
-- Multiple worry topics + physical symptoms + 6+ month duration for diagnosis
-- Clinical interview required for confirmation
+**التوجيه التشخيصي (اضطراب القلق العام حسب DSM-5):**
+- حد قطع ≥10: احتمال اضطراب قلق عام
+- الحساسية 89%، والنوعية 84% عند هذا الحد
+- مواضيع همّ متعددة + أعراض جسدية + مدة 6 أشهر فأكثر للتشخيص
+- يلزم مقابلة إكلينيكية للتأكيد
 
-**Symptom pattern:**
-- Items 1-3: worry/apprehension focused
-- Items 4-7: physical/behavioral manifestations
-- Elevated items 4-7 without 1-3: possible panic or medical anxiety
-- Elevated 1-3 without 4-7: pure worry (less anxiety, more rumination)
+**نمط الأعراض:**
+- البنود 1-3: تركز على الهمّ/الترقّب
+- البنود 4-7: مظاهر جسدية/سلوكية
+- ارتفاع البنود 4-7 دون 1-3: احتمال هلع أو قلق طبي
+- ارتفاع 1-3 دون 4-7: همّ خالص (قلق أقل، اجترار أكثر)
 
-## Psychometric Properties
+## الخصائص السيكومترية
 
-**Reliability:**
-- Internal consistency (Cronbach's α): 0.92
-- Test-retest reliability (1-week): r = 0.83
-- Temporal stability good across 2-week periods
-- Consistent reliability across demographic groups
+**الثبات:**
+- الاتساق الداخلي (ألفا كرونباخ): 0.92
+- ثبات إعادة الاختبار (أسبوع واحد): ر = 0.83
+- استقرار زمني جيد عبر فترات الأسبوعين
+- ثبات متسق عبر الفئات الديموغرافية
 
-**Validity:**
-- Convergent validity: high correlation with STAI trait anxiety (r = 0.71)
-- Criterion validity: identifies GAD with 89% sensitivity, 84% specificity
-- Discriminant validity: distinguishes anxiety from depression and panic
-- Responsiveness: sensitive to treatment effect, anxiety fluctuation
+**الصدق:**
+- الصدق التقاربي: ارتباط عالٍ بقلق السمة في STAI (ر = 0.71)
+- صدق المحك: يحدد اضطراب القلق العام بحساسية 89% ونوعية 84%
+- الصدق التمييزي: يميّز القلق عن الاكتئاب والهلع
+- الاستجابة: حساس لأثر العلاج وتذبذب القلق
 
-**Cross-cultural:**
-- Translated and validated in 50+ countries
-- Generally stable psychometrics across cultures
-- Some cultural variation in worry content (family, health, finance)
+**عبر الثقافات:**
+- تُرجم وتحقَّق منه في أكثر من 50 بلداً
+- خصائص سيكومترية مستقرة عموماً عبر الثقافات
+- بعض التفاوت الثقافي في مضمون الهمّ (الأسرة، الصحة، المال)
 
-## Clinical & Research Applications
+## التطبيقات الإكلينيكية والبحثية
 
-**Primary care anxiety screening:**
-- Anxiety disorders ~30% prevalence in primary care
-- Often underidentified without systematic screening
-- GAD-7 + PHQ-9 = comprehensive mood/anxiety assessment
-- Cost-effective, time-efficient for busy clinics
+**الفحص في الرعاية الأولية:**
+- انتشار اضطرابات القلق نحو 30% في الرعاية الأولية
+- كثيراً ما لا تُكتشف دون فحص منهجي
+- GAD-7 مع PHQ-9 = تقييم شامل للمزاج/القلق
+- فعّال من حيث التكلفة والوقت للعيادات المزدحمة
 
-**Mental health settings:**
-- Baseline anxiety severity assessment
-- Treatment monitoring (therapy, medication)
-- Outcome measurement in research
-- Specific focus on generalized anxiety (not panic, social, specific phobia)
+**في أماكن الصحة النفسية:**
+- تقييم شدة القلق الأساسي
+- متابعة العلاج (نفسي ودوائي)
+- قياس النتائج في البحث
+- تركيز خاص على القلق العام (لا الهلع أو الاجتماعي أو الرهاب النوعي)
 
-**Special populations:**
-- Chronic medical illness (anxiety often comorbid)
-- Cancer patients (GAD common)
-- Postpartum anxiety screening (less validated than Edinburgh scale, but used)
-- Older adults (anxiety often missed; GAD-7 validated)
+**فئات خاصة:**
+- الأمراض الطبية المزمنة (القلق مصاحب كثيراً)
+- مرضى السرطان (اضطراب القلق العام شائع)
+- فحص قلق ما بعد الولادة (أقل تحققاً من مقياس إدنبره لكنه مستخدَم)
+- كبار السن (كثيراً ما يُفوَّت القلق؛ وGAD-7 مُتحقَّق منه)
 
-**Occupational/wellness:**
-- Workplace mental health screening
-- Stress assessment in high-pressure jobs
-- Wellness program baseline/monitoring
-- Student mental health services
+**العمل والرفاه:**
+- فحص الصحة النفسية في مكان العمل
+- تقييم الضغط في الوظائف عالية الضغط
+- أساس/متابعة برامج الرفاه
+- خدمات الصحة النفسية للطلاب
 
-## Strengths
+## نقاط القوة
 
-- **Brevity:** 7 items, <2 minutes
-- **Psychometric strength:** higher internal consistency than PHQ-9
-- **Evidence-based:** DSM-5 criterion mapping
-- **Validated:** 50+ language translations
-- **Dual-purpose:** screening and severity measurement
-- **Responsive:** sensitive to treatment change
-- **Free:** public domain access
-- **Integration:** pairs well with PHQ-9
+- **الإيجاز:** سبعة بنود، أقل من دقيقتين
+- **قوة سيكومترية:** اتساق داخلي أعلى من PHQ-9
+- **مبني على الأدلة:** تقابل مع معايير DSM-5
+- **مُتحقَّق منه:** ترجمات بأكثر من 50 لغة
+- **غرض مزدوج:** الفحص وقياس الشدة
+- **حساس للاستجابة:** حساس لتغير العلاج
+- **مجاني:** ملك عام
+- **التكامل:** يترافق جيداً مع PHQ-9
 
-## Limitations
+## القيود
 
-- **GAD specificity:** misses panic, social anxiety, specific phobias
-- **Symptom breadth:** worry content varies; single items may miss subtypes
-- **Medical confounds:** somatic items (restlessness, irritability) common in medical illness
-- **Anhedonia absence:** doesn't capture depression-anxiety comorbidity fully
-- **Recall bias:** 2-week retrospective subject to forgetting
-- **Overinclusion:** elevated scores in PTSD, panic, stress without GAD
-- **Younger populations:** less validated in teens; some wording mismatch
+- **نوعية اضطراب القلق العام:** يفوّت الهلع والقلق الاجتماعي والرهاب النوعي
+- **اتساع الأعراض:** مضمون الهمّ متفاوت؛ وقد تفوّت البنود الفردية أنواعاً فرعية
+- **عوامل طبية مربكة:** البنود الجسدية (التململ، التهيج) شائعة في الأمراض الطبية
+- **غياب فقدان المتعة:** لا يرصد الاعتلال المصاحب للاكتئاب والقلق كاملاً
+- **تحيز الاستذكار:** استرجاع أسبوعين عرضة للنسيان
+- **الإفراط في الشمول:** درجات مرتفعة في اضطراب ما بعد الصدمة والهلع والضغط دون اضطراب قلق عام
+- **الفئات الأصغر سناً:** تحقق أقل لدى المراهقين؛ وبعض تفاوت في الصياغة
 
-## Variations & Adaptations
+## الصيغ والتكييفات
 
-**Related instruments:**
-- GAD-2: items 1 & 2 only (ultra-brief screening)
-- GAD-10: expanded version with additional items
-- OASIS (Overall Anxiety Severity and Impairment Scale): broader anxiety severity
-- Translated versions with local validation
+**أدوات ذات صلة:**
+- GAD-2: البندان 1 و2 فقط (فحص فائق الإيجاز)
+- GAD-10: نسخة موسَّعة ببنود إضافية
+- OASIS (مقياس شدة القلق العام واختلاله الوظيفي): شدة قلق أوسع
+- نسخ مترجَمة مع تحقق محلي
 
-**Disorder-specific alternatives:**
-- PDSS (Panic Disorder Severity Scale): panic focus
-- SIAS/SPS (Social Interaction Anxiety): social anxiety
-- SPIN (Social Phobia Inventory): social phobia
-- FQAS (Fear Questionnaire): specific phobia assessment
+**بدائل خاصة باضطراب معين:**
+- PDSS (مقياس شدة اضطراب الهلع): تركيز على الهلع
+- SIAS/SPS (قلق التفاعل الاجتماعي): القلق الاجتماعي
+- SPIN (قائمة الرهاب الاجتماعي): الرهاب الاجتماعي
+- FQAS (استبيان الخوف): تقييم الرهاب النوعي
 
-## Clinical Interpretation
+## التفسير الإكلينيكي
 
-**Worry pattern recognition:**
-- GAD typically: multiple topics, uncontrollable, 6+ months
-- Anxiety disorders without GAD: panic (unexpected attacks), social (evaluation fear), specific (one trigger)
-- Comorbidity with depression: elevated PHQ-9 and GAD-7 simultaneously
+**التعرف على نمط الهمّ:**
+- اضطراب القلق العام عادة: مواضيع متعددة، غير قابل للضبط، 6 أشهر فأكثر
+- اضطرابات قلق دون اضطراب قلق عام: الهلع (نوبات غير متوقعة)، الاجتماعي (خوف التقييم)، النوعي (محفز واحد)
+- الاعتلال المصاحب مع الاكتئاب: ارتفاع PHQ-9 وGAD-7 معاً
 
-**Treatment implications:**
-- Mild GAD (5-9): psychoeducation, self-help, stress management
-- Moderate (10-14): therapy (CBT, exposure) or medication consideration
-- Severe (15-21): probable medication needed plus therapy
-- Items 1-3 high, 4-7 low: worry-focused therapy (mindfulness, worry exposure)
-- Items 4-7 high: somatic symptom focus; body-based treatment
+**التبعات العلاجية:**
+- اضطراب قلق عام خفيف (5-9): تثقيف نفسي، مساعدة ذاتية، إدارة الضغط
+- متوسط (10-14): علاج (معرفي سلوكي، تعرّض) أو النظر في الدواء
+- شديد (15-21): على الأرجح يلزم دواء مع العلاج
+- ارتفاع البنود 1-3 وانخفاض 4-7: علاج يركز على الهمّ (يقظة ذهنية، تعرّض للهمّ)
+- ارتفاع البنود 4-7: تركيز على الأعراض الجسدية؛ علاج قائم على الجسد
 
-**Change monitoring:**
-- Repeat GAD-7 every 2-4 weeks during treatment
-- Expect score reduction with effective therapy/medication
-- Slower response in generalized anxiety (vs. panic improvement)
-- Plateau suggests treatment adjustment
+**متابعة التغير:**
+- تكرار GAD-7 كل 2-4 أسابيع أثناء العلاج
+- توقُّع انخفاض الدرجة مع العلاج/الدواء الفعّال
+- استجابة أبطأ في القلق العام (مقارنة بتحسن الهلع)
+- الثبات دون تحسن يشير إلى ضرورة تعديل العلاج
 
-## Integration with Assessment
+## التكامل مع التقييم
 
-**Often used with:**
-- PHQ-9 (depression co-screening)
-- Sleep quality measures (insomnia common with anxiety)
-- Substance use screening (alcohol use for anxiety management)
-- Quality of life measures (anxiety impacts functioning)
-- Functional impairment assessment
+**كثيراً ما يُستخدم مع:**
+- PHQ-9 (فحص مصاحب للاكتئاب)
+- مقاييس جودة النوم (الأرق شائع مع القلق)
+- فحص تعاطي المواد (استخدام الكحول لإدارة القلق)
+- مقاييس جودة الحياة (القلق يؤثر في الأداء الوظيفي)
+- تقييم الاختلال الوظيفي
 
-## Primary Sources
+## المصادر الأولية
 
 1. Spitzer, R.L., Kroenke, K., Williams, J.B., & Löwe, B. (2006). A brief measure for assessing generalized anxiety disorder: The GAD-7. Archives of Internal Medicine, 166(10), 1092-1097.
 2. Löwe, B., Decker, O., Müller, S., et al. (2008). Validation and standardization of the Generalized Anxiety Disorder Screener (GAD-7) in the general population. Medical Care, 46(3), 266-274.
 3. Plummer, F., Manea, L., Trepel, D., & McMillan, D. (2016). Screening for anxiety disorders with the GAD-7 and GAD-2: A systematic review and diagnostic meta-analysis. General Hospital Psychiatry, 39, 24-31.
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Anxiety disorders
-- Generalized anxiety
-- Worry and rumination
-- Diagnostic screening
-- Treatment monitoring
-- Comorbid mood/anxiety
+- اضطرابات القلق
+- القلق العام
+- الهمّ والاجترار
+- الفحص التشخيصي
+- متابعة العلاج
+- الاعتلال المصاحب للمزاج/القلق

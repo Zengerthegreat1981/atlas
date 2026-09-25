@@ -17,23 +17,23 @@ gaps: []
 
 # التاريخ المحيطي (Oceanic History)
 
-## Oceanic History
+## التاريخ المحيطي
 
-Study of oceans as historical agents and spaces; examines maritime networks, navigation, and oceanic connections.
+دراسة المحيطات بوصفها فاعلاً وفضاءً تاريخياً؛ تفحص الشبكات البحرية والملاحة والاتصالات المحيطية.
 
-### Key Aspects
+### الجوانب الجوهرية
 
-This node represents part of Section 20: Cross-Cutting Frameworks & Synthesis in historiography.
+تمثّل هذه العقدة جزءاً من القسم 20: الأطر الشاملة والتوليف في التأريخ.
 
-### Related Fields
+### مجالات ذات صلة
 
-- Historiographical theory and practice
-- Historiographical ethics and reflexivity
-- Regional and comparative historiography
-- Emerging historiographical fields
+- نظرية التأريخ وممارسته
+- أخلاقيات التأريخ والتأمل الذاتي
+- التأريخ الإقليمي والمقارن
+- مجالات التأريخ الناشئة
 
-### See Also
+### انظر أيضاً
 
-- Related historiographical concepts and schools
-- Contemporary historical scholarship
-
+- مفاهيم ومدارس تأريخية ذات صلة
+- الدراسات التاريخية المعاصرة
+</content>

@@ -8,125 +8,125 @@ related_schools:
   - sch-group-psychotherapy
 ---
 
-# Therapeutic Factors Inventory (TFI)
+# قائمة العوامل العلاجية (TFI)
 
-The Therapeutic Factors Inventory is a measure assessing members' perception of which therapeutic factors are active in their group. Based on Yalom's 11 therapeutic factors, the TFI helps understand what aspects of group therapy clients find most helpful.
+قائمة العوامل العلاجية أداة تقيس إدراك الأعضاء للعوامل العلاجية الفاعلة في مجموعتهم. وتقوم TFI على العوامل العلاجية الأحد عشر عند يالوم (Yalom)، وتساعد على فهم أي جوانب العلاج الجماعي يجدها العملاء الأكثر إفادة.
 
-## Development
+## التطوير
 
-**Irvin Yalom:**
-- Identified 11 therapeutic factors from his research and practice
-- Developed inventory to measure which factors members perceive
-- Administered post-session or periodically throughout group
-- Helps therapists understand what works for each member
+**إرفن يالوم (Irvin Yalom):**
+- حدَّد 11 عاملاً علاجياً من بحثه وممارسته
+- طوَّر قائمة لقياس أي العوامل يدركها الأعضاء
+- تُطبَّق بعد الجلسة أو دورياً طوال فترة المجموعة
+- تساعد المعالجين على فهم ما ينفع كل عضو
 
-## The Eleven Therapeutic Factors (TFI Items)
+## العوامل العلاجية الأحد عشر (بنود TFI)
 
-1. **Installation of Hope** — "Observing others improve gave me hope"
-2. **Universality** — "Seeing others have problems similar to mine was helpful"
-3. **Imparting Information** — "Learning about new ways to handle problems"
-4. **Altruism** — "Helping other group members was valuable for me"
-5. **Corrective Recapitulation** — "Being in the group felt like being in a family"
-6. **Developing Socializing Techniques** — "Learning how I affect others through feedback"
-7. **Imitative Behavior** — "Wanting to be like other group members"
-8. **Interpersonal Learning** — "Understanding how I affect people was important"
-9. **Group Cohesiveness** — "Feeling accepted and liked by the group"
-10. **Catharsis** — "Expressing my feelings was healing"
-11. **Existential Factors** — "Recognizing that life is not always fair, but that I can still make choices"
+1. **بثّ الأمل** — "رؤية تحسّن الآخرين منحتني أملاً"
+2. **الكلية (Universality)** — "رؤية أن للآخرين مشكلات تشبه مشكلتي كان مفيداً"
+3. **نقل المعلومات** — "تعلّم طرق جديدة للتعامل مع المشكلات"
+4. **الإيثار** — "مساعدة أعضاء المجموعة الآخرين كانت ذات قيمة لي"
+5. **إعادة تجسيد أسرية تصحيحية** — "التواجد في المجموعة شعرتُ فيه وكأنني في أسرة"
+6. **تطوير مهارات التواصل الاجتماعي** — "تعلّم كيف أؤثر في الآخرين عبر التغذية الراجعة"
+7. **السلوك التقليدي** — "الرغبة في أن أكون مثل أعضاء المجموعة الآخرين"
+8. **التعلّم بين الأشخاص** — "فهم كيف أؤثر في الناس كان مهماً"
+9. **التماسك الجماعي** — "الشعور بالتقبّل والاستحسان من المجموعة"
+10. **التنفيس (Catharsis)** — "التعبير عن مشاعري كان شافياً"
+11. **العوامل الوجودية** — "إدراك أن الحياة ليست عادلة دائماً، لكنني ما زلت قادراً على الاختيار"
 
-## Format & Administration
+## الصيغة والتطبيق
 
-**Typical version:**
-- 12-15 items (varies by revision)
-- Likert scale (e.g., 1-5 or 1-7)
-- Administered post-session, after each group meeting
-- Quick (5-10 minutes)
-- Sometimes includes open-ended comments
+**النسخة النموذجية:**
+- 12-15 بنداً (يتفاوت حسب المراجعة)
+- سلّم ليكرت (مثلاً 1-5 أو 1-7)
+- تُطبَّق بعد الجلسة، عقب كل لقاء جماعي
+- سريعة (5-10 دقائق)
+- تتضمن أحياناً تعليقات مفتوحة
 
-**Variations:**
-- Extended version with more detail
-- Brief version (6 items, one per major factor)
-- Group vs. individual administration
+**تنوّعات:**
+- نسخة موسَّعة بتفصيل أكبر
+- نسخة موجزة (6 بنود، بند لكل عامل رئيسي)
+- تطبيق جماعي مقابل فردي
 
-## Scoring & Interpretation
+## التصحيح والتفسير
 
-**Score by factor:**
-- Higher scores indicate member perceives that factor as active
-- Can identify which factors most helpful for each member
-- Can identify group-level patterns
+**الدرجة حسب العامل:**
+- الدرجات الأعلى تدل على إدراك العضو لفاعلية ذلك العامل
+- يمكن تحديد أي العوامل الأكثر إفادة لكل عضو
+- يمكن تحديد أنماط على مستوى المجموعة
 
-**Typical findings:**
-- Universality and cohesiveness usually highest
-- Catharsis varies (some members high, others low)
-- Existential factors often lower-rated
-- Early group: hope and universality high; learning lower
-- Later group: learning and interpersonal factors increase
+**نتائج نموذجية:**
+- الكلية والتماسك عادة الأعلى
+- التنفيس متفاوت (مرتفع لدى بعض الأعضاء ومنخفض لدى آخرين)
+- العوامل الوجودية كثيراً ما تُقيَّم أدنى
+- المجموعة المبكرة: الأمل والكلية مرتفعان؛ والتعلّم أدنى
+- المجموعة المتأخرة: يزداد التعلّم والعوامل بين الأشخاص
 
-## Clinical Use
+## الاستخدام الإكلينيكي
 
-**Therapist uses TFI to:**
-- Understand what's working therapeutically for each member
-- Adjust interventions to activate helpful factors
-- Monitor whether group is providing adequate learning/change
-- Identify members not benefiting (low scores across factors)
-- Notice when factors diminish (e.g., cohesion drops after crisis)
+**يستخدم المعالج TFI لـ:**
+- فهم ما ينفع علاجياً لكل عضو
+- تعديل التدخلات لتنشيط العوامل المفيدة
+- متابعة ما إذا كانت المجموعة توفر تعلماً/تغيراً كافياً
+- تحديد الأعضاء الذين لا يستفيدون (درجات منخفضة عبر العوامل كلها)
+- ملاحظة تراجع العوامل (كانخفاض التماسك بعد أزمة)
 
-**Individual factors tell story:**
-- High universality but low interpersonal learning: "I feel understood, but not challenged"
-- High catharsis but low cohesiveness: "I can express, but don't feel safe"
-- Low all factors: "Group doesn't feel therapeutic for me"
+**العوامل الفردية تحكي قصة:**
+- كلية مرتفعة لكن تعلّم بين الأشخاص منخفض: "أشعر بالفهم، لكن دون تحدٍّ"
+- تنفيس مرتفع لكن تماسك منخفض: "أستطيع التعبير، لكن لا أشعر بالأمان"
+- كل العوامل منخفضة: "المجموعة لا تبدو علاجية بالنسبة لي"
 
-## Research Findings
+## نتائج البحث
 
-**What research shows:**
-- Members' perceived therapeutic factors predict outcome
-- Universality and cohesiveness consistently important
-- Altruism and interpersonal learning important for long-term change
-- Different factors matter for different diagnoses (e.g., catharsis more important for trauma)
-- Early group members often rate hope highest; later cohesiveness and learning
+**ما يُظهره البحث:**
+- العوامل العلاجية المُدرَكة من الأعضاء تتنبأ بالنتيجة
+- الكلية والتماسك مهمان باستمرار
+- الإيثار والتعلّم بين الأشخاص مهمان للتغير طويل الأمد
+- تختلف أهمية العوامل حسب التشخيص (فالتنفيس مثلاً أهم للصدمة)
+- أعضاء المجموعة المبكرة كثيراً ما يقيِّمون الأمل الأعلى؛ ولاحقاً التماسك والتعلّم
 
-## Strengths
+## نقاط القوة
 
-- Empirically based (from Yalom's research)
-- Quick and easy to administer
-- Provides direct feedback on group process
-- Helps therapist tailor interventions
-- Client-centered (what members actually find helpful)
+- مبنية تجريبياً (من بحث يالوم)
+- سريعة وسهلة التطبيق
+- توفر تغذية راجعة مباشرة عن عملية المجموعة
+- تساعد المعالج على تكييف التدخلات
+- محورها العميل (ما يجده الأعضاء مفيداً فعلاً)
 
-## Limitations
+## القيود
 
-- Self-report bias (members may overestimate some factors)
-- Context-dependent (same factor valuable or not depending on member)
-- May miss important non-quantifiable aspects
-- Requires regular administration for tracking (drops off)
+- تحيز التقرير الذاتي (قد يبالغ الأعضاء في تقدير بعض العوامل)
+- معتمدة على السياق (العامل ذاته قيّم أو لا حسب العضو)
+- قد تفوّت جوانب مهمة غير قابلة للقياس الكمي
+- تتطلب تطبيقاً منتظماً للمتابعة (وقد يتراجع الالتزام به)
 
-## Integration with Other Measures
+## التكامل مع مقاييس أخرى
 
-**Often used alongside:**
-- Group cohesion measures
-- Session satisfaction
-- Symptom outcome measures
-- Working alliance assessment
-- Attendance tracking
+**كثيراً ما تُستخدم إلى جانب:**
+- مقاييس تماسك المجموعة
+- الرضا عن الجلسة
+- مقاييس نتائج الأعراض
+- تقييم تحالف العمل
+- متابعة الحضور
 
-## Adaptations
+## التكييفات
 
-**Modified for specific populations:**
-- Trauma groups: catharsis, safety factors emphasized
-- Skills groups: information/education emphasized
-- Support groups: universality and altruism central
-- Closed groups: cohesiveness measures important for membership changes
+**مُعدَّلة لفئات محددة:**
+- مجموعات الصدمة: التشديد على عاملي التنفيس والأمان
+- مجموعات المهارات: التشديد على المعلومات/التثقيف
+- مجموعات الدعم: الكلية والإيثار محوريان
+- المجموعات المغلقة: مقاييس التماسك مهمة لتغيرات العضوية
 
-## Primary Sources
+## المصادر الأولية
 
 1. Yalom, I.D. (1995). The theory and practice of group psychotherapy (4th ed.). Basic Books.
 2. Braaten, L.J. (1989). Predicting positive outcome in psychotherapy groups. International Journal of Group Psychotherapy, 39(2), 201-220.
 3. Kivlighan, D.M., & Goldfine, D.C. (1991). Endorsement of therapeutic factors: A function of stage of group development and participant interpersonal attitudes. Journal of Counseling Psychology, 38(2), 150-158.
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Therapeutic factors in groups
-- Group process
-- Therapeutic outcome
-- Member satisfaction
-- What works in group therapy
+- العوامل العلاجية في المجموعات
+- عملية المجموعة
+- النتيجة العلاجية
+- رضا الأعضاء
+- ما ينفع في العلاج الجماعي

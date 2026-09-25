@@ -17,23 +17,23 @@ gaps: []
 
 # التاريخيات المقارنة (Comparative Historiographies)
 
-## Comparative Historiographies
+## التاريخيات المقارنة
 
-Study comparing how different cultures and traditions produce and understand history; examines historiographical diversity.
+دراسة تقارن كيف تنتج ثقافات وتقاليد مختلفة التاريخ وتفهمه؛ تفحص التنوع التأريخي.
 
-### Key Aspects
+### الجوانب الجوهرية
 
-This node represents part of Section 20: Cross-Cutting Frameworks & Synthesis in historiography.
+تمثّل هذه العقدة جزءاً من القسم 20: الأطر الشاملة والتوليف في التأريخ.
 
-### Related Fields
+### مجالات ذات صلة
 
-- Historiographical theory and practice
-- Historiographical ethics and reflexivity
-- Regional and comparative historiography
-- Emerging historiographical fields
+- نظرية التأريخ وممارسته
+- أخلاقيات التأريخ والتأمل الذاتي
+- التأريخ الإقليمي والمقارن
+- مجالات التأريخ الناشئة
 
-### See Also
+### انظر أيضاً
 
-- Related historiographical concepts and schools
-- Contemporary historical scholarship
-
+- مفاهيم ومدارس تأريخية ذات صلة
+- الدراسات التاريخية المعاصرة
+</content>

@@ -17,22 +17,22 @@ gaps: []
 
 # أشكال السردية التاريخية (Historical Narrative Forms)
 
-## Historical Narrative Forms
+## أشكال السردية التاريخية
 
-Study of different ways historians construct narratives; examines plot, causation, and meaning-making in historical writing.
+دراسة الطرائق المختلفة التي يبني بها المؤرخون السرديات؛ تفحص الحبكة والسببية وصنع المعنى في الكتابة التاريخية.
 
-### Key Aspects
+### الجوانب الجوهرية
 
-This node represents part of Section 20: Cross-Cutting Frameworks & Synthesis in historiography.
+تمثّل هذه العقدة جزءاً من القسم 20: الأطر الشاملة والتوليف في التأريخ.
 
-### Related Fields
+### مجالات ذات صلة
 
-- Historiographical theory and practice
-- Historical knowledge and representation
-- Contemporary historical scholarship
+- نظرية التأريخ وممارسته
+- المعرفة التاريخية وتمثيلها
+- الدراسات التاريخية المعاصرة
 
-### See Also
+### انظر أيضاً
 
-- Related historiographical concepts
-- Historical methodology
-
+- مفاهيم تأريخية ذات صلة
+- منهجية التاريخ
+</content>

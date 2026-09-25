@@ -25,6 +25,7 @@ related:
 - id: "thk-habermas", title: "يورغن هابرماس", type: "مفكر"
 - id: "thk-jean-francois-lyotard", title: "جان فرانسوا ليوتار", type: "مفكر"
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"
+- id: "sch-deontological-ethics-kant", title: "الأخلاقُ الواجبية", type: "مدرسة"
 gaps:
   - "التمييز بين الصياغات الأربع للأمر المطلق (Groundwork, 1785) يحتاج مراجعة بيبلوغرافية."
   - "لا يوجد اقتباس مباشر موثوق من Grundlegung بعد."
@@ -71,6 +72,14 @@ gaps:
 - **ماركس**: «الأخلاق» بُعد **أيديولوجي** للطبقة.
 - **ما بعد الحداثة**: **ليوتار** و**فوكو** نَقدوا «القانون الكوني» لكونه «سرداً كُبروياً».
 
+## القيد
+
+- الاعتراض الأشهر على الأمر المطلق هو "صوريته": اختبار قابلية التعميم يمنع التناقض المنطقي فحسب، ولا يضمن مضموناً أخلاقياً بذاته، ما قد يسمح — كما لاحظ نقاد مثل هيغل — بتعميم قواعد يعدّها كثيرون فاسدة أخلاقياً دون وقوع في تناقض منطقي صريح.
+- إصرار كانط على تطبيق المبدأ إطلاقاً دون استثناء (كحرمة الكذب المطلقة حتى أمام قاتل يسأل عن ضحيته) يُستشهد به غالباً دليلاً على صرامة النسق أكثر منه دليلاً على متانته.
+
 ## المصادر
 
-لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.
+- Kant, Immanuel. *Grundlegung zur Metaphysik der Sitten*. Riga: Johann Friedrich Hartknoch, 1785.
+- Kant, Immanuel. *Kritik der praktischen Vernunft*. Riga: Johann Friedrich Hartknoch, 1788.
+- Korsgaard, Christine M. *Creating the Kingdom of Ends*. Cambridge: Cambridge University Press, 1996.
+- "Kant's Moral Philosophy," *Stanford Encyclopedia of Philosophy*, revised 2022.

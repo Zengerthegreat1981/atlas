@@ -6,74 +6,74 @@ part: psychology
 parent: twelve-step fellowships, mutual-aid
 ---
 
-# Codependents Anonymous (CoDA)
+# المتبعون المشتركون المجهولون (CoDA)
 
-CoDA is a twelve-step fellowship for people recovering from codependency—unhealthy relationship patterns characterized by excessive focus on others' needs, difficulty with boundaries, and loss of self. Founded in 1986, CoDA addresses relational patterns that perpetuate dysfunction.
+CoDA رابطة خطوات اثنتي عشرة للمتعافين من التبعية المشتركة (codependency)، أي أنماط العلاقات غير الصحية التي تتسم بتركيز مفرط على احتياجات الآخرين وصعوبة في الحدود وفقدان الذات. تأسست عام 1986، وتعالج CoDA الأنماط العلائقية التي تُديم الاختلال.
 
-## Codependency Definition
+## تعريف التبعية المشتركة
 
-**Patterns CoDA addresses:**
-- Excessive focus on partner/family member's emotional state
-- Loss of self; identity merged with others
-- Difficulty expressing needs and boundaries
-- Enabling behaviors that prevent others' growth
-- Seeking validation through relationships
-- Fear of abandonment; staying in harmful relationships
-- Taking responsibility for others' feelings/behavior
+**الأنماط التي تعالجها CoDA:**
+- تركيز مفرط على الحالة العاطفية للشريك/فرد الأسرة
+- فقدان الذات؛ اندماج الهوية بالآخرين
+- صعوبة التعبير عن الاحتياجات والحدود
+- سلوكيات تمكين تمنع نمو الآخرين
+- السعي إلى التصديق عبر العلاقات
+- الخوف من الهجر؛ البقاء في علاقات مؤذية
+- تحمّل مسؤولية مشاعر الآخرين/سلوكهم
 
-## Twelve-Step Model for CoDA
+## نموذج الخطوات الاثنتي عشرة لـ CoDA
 
-- "Admitted powerlessness over others"
-- Belief in Higher Power to help with relational patterns
-- Moral inventory identifying codependent behaviors
-- Making amends for harm caused by codependency
-- Spiritual practice supporting healthy self-care and boundaries
+- "الإقرار بالعجز أمام الآخرين"
+- الإيمان بقوة عليا تساعد في الأنماط العلائقية
+- جرد أخلاقي يحدد سلوكيات التبعية المشتركة
+- جبر الضرر الناتج عن التبعية المشتركة
+- ممارسة روحانية تدعم العناية الصحية بالذات والحدود
 
-## Core Principles
+## المبادئ الأساسية
 
-- **Healthy boundaries:** saying no, self-care, separateness
-- **Self-focus:** building identity independent of others
-- **Detachment with love:** caring without controlling/enabling
-- **Personal responsibility:** own emotions and behavior only
+- **الحدود الصحية:** قول لا، العناية بالذات، الانفصال
+- **التركيز على الذات:** بناء هوية مستقلة عن الآخرين
+- **الانفصال بمحبة:** الاهتمام دون سيطرة أو تمكين
+- **المسؤولية الشخصية:** عن مشاعر الفرد وسلوكه فقط
 
-## Membership
+## العضوية
 
-**Who attends:**
-- Partners/family of people with addiction (can also attend Al-Anon)
-- Adults from dysfunctional families
-- People in unhealthy relationships
-- Anyone with relational boundary/focus issues
+**من يحضر:**
+- شركاء/أسر مصابين بإدمان (يمكنهم حضور Al-Anon أيضاً)
+- بالغون من أسر مختلة
+- أشخاص في علاقات غير صحية
+- أي شخص لديه مشكلات في الحدود/التركيز العلائقي
 
-**Growth:** Originally smaller than AA/NA; growing recognition of codependency as widespread
+**النمو:** كانت أصغر من AA/NA؛ ويتنامى الاعتراف بالتبعية المشتركة كظاهرة واسعة الانتشار
 
-## Integration with Therapy
+## التكامل مع العلاج
 
-- Therapists frequently recommend CoDA for relationship work
-- Complements therapy addressing attachment, trauma, family patterns
-- Sponsor guidance alongside therapist work on relationships
-- Often combined with individual or couples therapy
+- يوصي المعالجون كثيراً بـCoDA للعمل على العلاقات
+- يكمِّل العلاج الذي يعالج التعلق والصدمة وأنماط الأسرة
+- توجيه الراعي إلى جانب عمل المعالج على العلاقات
+- كثيراً ما يُجمع مع علاج فردي أو زوجي
 
-## Effectiveness
+## الفعالية
 
-- Research limited but observational data positive
-- Regular attendance associated with improved relationships and self-esteem
-- Most effective with therapy addressing trauma, attachment issues
-- Takes time: identity-building slower than stopping substance use
+- بحث محدود لكن بيانات رصدية إيجابية
+- الحضور المنتظم مرتبط بتحسن العلاقات وتقدير الذات
+- الأكثر فعالية حين يُجمع بعلاج يعالج الصدمة ومشكلات التعلق
+- يستغرق وقتاً: بناء الهوية أبطأ من التوقف عن تعاطي المواد
 
-## Criticism & Debate
+## النقد والجدل
 
-- **Codependency concept debates:** some argue overmedicalized; others find it useful framework
-- **Gender dynamics:** disproportionately impacts women; can reinforce gender norms
-- **Boundaries vs. care:** striking balance between healthy boundaries and compassion challenging
-- **Family impact:** labeling family members "codependent" can create shame
+- **جدل مفهوم التبعية المشتركة:** يرى البعض أنه مُفرَط في التطبيب؛ ويجده آخرون إطاراً مفيداً
+- **ديناميات الجنس:** تؤثر بشكل غير متناسب على النساء؛ وقد تعزز الأعراف الجندرية
+- **الحدود مقابل الرعاية:** تحقيق التوازن بين حدود صحية ورحمة أمر صعب
+- **الأثر الأسري:** وسم أفراد الأسرة بـ"التبعية المشتركة" قد يخلق عاراً
 
-## Related Organizations
+## منظمات ذات صلة
 
-- [[org-al-anon-nar-anon]] — for families of alcoholics/addicts
-- [[org-aa-alcoholics-anonymous]], [[org-na-narcotics-anonymous]] — partner often in these or CoDA
-- [[org-slaa-sex-love-addicts-anonymous]] — love addiction often tied to codependency
+- [[org-al-anon-nar-anon]] — لأسر مدمني الكحول/المخدرات
+- [[org-aa-alcoholics-anonymous]]، [[org-na-narcotics-anonymous]] — كثيراً ما يكون الشريك في هذه أو في CoDA
+- [[org-slaa-sex-love-addicts-anonymous]] — إدمان الحب كثيراً ما يرتبط بالتبعية المشتركة
 
-## Primary Sources
+## المصادر الأولية
 
 1. Codependents Anonymous (1990). Codependents Anonymous: The Basic Text. CoDA Publishing.
 2. Beattie, M. (1987). Codependent no more: How to stop controlling others and start caring for yourself. Hazelden.
