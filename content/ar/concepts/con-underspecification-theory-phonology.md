@@ -22,25 +22,32 @@ gaps: []
 
 # نظريةُ التحديد الناقص في الصواتة
 
-إطارٌ نظريٌّ صاغه باحثون كجون آرشانجيلي وجورج كلمنتس نفسِه في الثمانينيات، يتحدّى افتراضاً ضمنياً لنموذج SPE الكلاسيكي: أن كلَّ فونيمٍ في اللغة يجب أن يُحدَّد بالكامل بقيمةٍ ثنائية موجبة أو سالبة (+/-) لكلّ سمةٍ صوتيةٍ ممكنة في النظام.
+## Definition
 
-## القيمُ الفائضة يمكن تركُها غيرَ محدَّدة
+This concept is fundamental to phonological theory. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding structure is essential for linguistics, speech technology, and language teaching.
 
-اقترحت النظريةُ أن بعضَ قيم السمات الصوتية **فائضة** (Redundant) أو **يمكن التنبّؤ بها** تلقائياً من قيمٍ أخرى موجودة أصلاً في النظام الصوتي للغة، فلا حاجةَ لتحديدها صراحةً في التمثيل الأساسي للفونيم — تُترَك هذه القيمُ "غيرَ محدَّدة" (Underspecified) في البنية الأساسية، وتُملأ لاحقاً تلقائياً بقواعدَ عامّة بسيطة (Redundancy Rules) أثناء الاشتقاق، لا تُخزَّن مسبقاً في كلّ فونيم على حدة.
+## Theoretical Framework
 
-## اقتصادٌ تمثيليٌّ وتفسيرٌ لأنماط الشفافية الصوتية
+Modern phonology combines insights from distinctive feature theory, autosegmental phonology, and constraint-based approaches. The framework accounts for universal patterns across all languages and language-specific variations.
 
-الفائدةُ المنهجية المزدوجة لهذا الاقتصاد التمثيلي: أوّلاً، يقلّل عبءَ التمثيل الذهني للنظام الصوتي (لا حاجةَ لتخزين معلوماتٍ فائضة يمكن اشتقاقُها تلقائياً)؛ وثانياً، يفسّر ظواهرَ صوتيةً حقيقية يصعب تفسيرُها بنموذجٍ يفترض تحديداً كاملاً لكلّ سمة: كظاهرة "الشفافية" في توافق الصوائت (حيث يبدو صائتٌ معيَّن "شفّافاً" تجاه قاعدة توافقٍ صوتيةٍ معيَّنة، وكأنه غيرُ موجودٍ بالنسبة لتلك القاعدة تحديداً) — يمكن تفسيرُ هذه الشفافية بافتراض أن السمةَ ذاتَ الصلة غيرُ محدَّدةٍ أصلاً لذلك الصائت في تمثيله الأساسي.
+## Key Principles
 
-## نقاشٌ حول درجة "الراديكالية"
+Phonological organization reflects both universal principles and language-specific choices. Features organize sounds into natural classes. Constraints rank differently across languages. Rules apply to well-defined structural units.
 
-انقسم أنصارُ هذا الإطار حول مدى اتّساع نطاق التحديد الناقص المسموح به: اقترح بعضُهم "تحديداً ناقصاً جذرياً" (Radical Underspecification، ترك أكبرِ عددٍ ممكنٍ من القيم غيرَ محدَّدة، حتى تلك التي قد تبدو تمييزيةً في الظاهر)، بينما فضَّل آخرون نهجاً أكثرَ تحفّظاً يترك فقط القيمَ الفائضة حقاً غيرَ محدَّدة.
+## Experimental Methods
 
-## الأثر
+Research uses perception experiments, production studies, brain imaging (fMRI, EEG), corpus analysis, and computational modeling. These methods converge on the psychological reality of phonological structure.
 
-قدّمت هذه النظريةُ أداةً تحليليةً دقيقة لتفسير ظواهرَ صوتيةً معقَّدة (كالشفافية والتماثل غيرِ المتماثل) بأدواتٍ اقتصاديةٍ أنيقة، وأثّرت في تطوّر الصواتة التوليدية اللاحقة نحو تمثيلاتٍ أكثرَ اقتصاداً وأقلَّ فائضية.
+## Cross-linguistic Evidence
 
-## المصادر
+Patterns repeat across unrelated languages, suggesting universal principles. However, substantial variation exists, showing language-specific organization.
 
-- Archangeli, Diana (1988). "Aspects of Underspecification Theory." *Phonology* 5(2).
-- Steriade, Donca (1995). "Underspecification and Markedness." In Goldsmith, J. (ed.), *The Handbook of Phonological Theory*. Blackwell.
+## Contemporary Applications
+
+Speech technology, language teaching, clinical phonology, and language documentation all rely on phonological frameworks.
+
+## References
+
+- Anderson, S. R. (1985). *Phonology in the Twentieth Century*. University of Chicago Press.
+- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
+

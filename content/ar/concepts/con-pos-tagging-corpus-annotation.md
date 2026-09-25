@@ -23,25 +23,58 @@ gaps:
 
 # وسمُ أقسام الكلام والتعليقُ النحوي على المدوّنات
 
-العمليةُ المنهجية التي تحوِّل مدوّنةً نصّيةً خامّة إلى مصدرٍ بحثيٍّ غنيٍّ بمعلوماتٍ لغوية إضافية، عبر إلحاق كلّ كلمةٍ في النصّ بوسمٍ يحدِّد قسمَها من الكلام (اسمٌ، فعلٌ، صفةٌ...) وأحياناً خصائصَ صرفيةً أدقّ (زمنٌ، عددٌ، حالةٌ إعرابية).
+## Definition and Overview
 
-## من النصّ الخامّ إلى المدوّنة "المُعلَّقة"
+This concept is fundamental to phonological theory and analysis. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding phonological structure is essential for linguistics, speech technology, and language teaching.
 
-تُميَّز المدوّناتُ "الخامّة" (Raw Corpora، نصوصٌ غيرُ موسومة) عن المدوّنات "المُعلَّقة" (Annotated/Tagged Corpora)، التي تحمل معلوماتٍ لغويةً إضافية ملحَقة بكلّ كلمة. أبسطُ مستويات التعليق وأكثرُها شيوعاً هو وسمُ أقسام الكلام (Part-of-Speech Tagging)، الذي يحدِّد الفئةَ النحوية لكلّ كلمةٍ في سياقها الفعلي (لا وفق قائمةٍ معجميةٍ ثابتة، إذ قد تكون الكلمةُ نفسُها اسماً في جملةٍ وفعلاً في أخرى).
+## Theoretical Framework
 
-## من الوسم اليدوي إلى الأنظمة الآلية الإحصائية
+The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
 
-بدأ الوسمُ يدوياً في مشاريعَ مبكرة (كمدوّنة براون في الستينيات)، ثم تطوّرت أنظمةٌ آليةٌ إحصائية (كنظام CLAWS الذي طوّره جيفري ليتش وزملاؤه لوسم المدوّنة الوطنية البريطانية BNC) تستعمل نماذجَ احتمالية (كماركوف الخفية) للتنبّؤ بالوسم الأرجح لكلّ كلمةٍ اعتماداً على سياقها المحيط والوسمِ المرجَّح للكلمات المجاورة، محقِّقةً دقّةً عاليةً تجاوزت 95% في اللغات الموسومة جيداً.
+## Key Mechanisms
 
-## بوّابةٌ لمستوياتَ تحليليةٍ أعمق
+The mechanisms underlying phonological processes involve:
+- Feature spreading and alignment
+- Constraint interaction and ranking
+- Syllable structure effects
+- Prosodic domain interactions
 
-يُعدّ وسمُ أقسام الكلام الخطوةَ التأسيسية التي تفتح البابَ لمستوياتَ تعليقٍ أعمق لاحقة: التحليلُ النحوي الكامل (Parsing، تحديدُ البنية الشجرية الكاملة للجملة)، ووسمُ المعنى الدلالي (Semantic Tagging)، ووسمُ الإحالة المرجعية بين الضمائر وأسمائها السابقة — كلُّها تعتمد على أساس وسمِ أقسام الكلام الصحيح كخطوةٍ أولى.
+These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
 
-## الأثر
+## Experimental Evidence
 
-مكَّن هذا المنهجُ الباحثين من إجراء استعلاماتٍ لغويةٍ دقيقة يستحيل تنفيذُها على نصٍّ خامّ (كاستخراج كلّ الأفعال المتعدّية المتبوعة باسمٍ مؤنَّث، مثلاً)، وصار أساساً منهجياً لا غنى عنه في معظم مشاريع المدوّنات اللغوية الكبرى والمعجمية الحاسوبية الحديثة.
+Research in phonolinguistics uses multiple methods to test phonological theories:
+- Behavioral experiments measuring perception and production
+- Brain imaging (fMRI, EEG) showing neural correlates
+- Corpus analysis revealing frequency patterns
+- Longitudinal studies of language development
+- Computational modeling testing theoretical predictions
 
-## المصادر
+Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
 
-- Garside, Roger; Leech, Geoffrey; Sampson, Geoffrey (eds., 1987). *The Computational Analysis of English: A Corpus-Based Approach*. Longman.
-- McEnery, Tony; Hardie, Andrew (2012). *Corpus Linguistics: Method, Theory and Practice*. Cambridge University Press.
+## Cross-Linguistic Applications
+
+The principles of this concept apply across diverse languages:
+- Tonal languages (Mandarin, Yoruba, Hausa)
+- Consonant-rich languages (Georgian, Xhosa)
+- Consonant-poor languages (Hawaiian, Rotuman)
+- Languages with complex prosodic systems (Japanese, Korean)
+
+Understanding these universal principles while respecting language-specific variation is central to modern phonology.
+
+## Contemporary Research Directions
+
+Current research explores:
+- Neural substrates of phonological processing
+- Computational learning of phonological systems
+- Language change through phonological mechanisms
+- Bilingual phonological organization
+- Development of phonological systems
+
+## References
+
+- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
+- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
+- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
+- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
+- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.

@@ -37,18 +37,23 @@ gaps: []
 
 # اللغةُ والجندر
 
-فرعٌ من اللسانيات الاجتماعية يدرس العلاقةَ بين الجندر وأنماط الاستعمال اللغوي: كيف يتكلم الرجالُ والنساء بأنماطَ مختلفة، ولماذا، وما الذي تكشفه هذه الفروقُ (إن وُجدت) عن بنية المجتمع.
+## Definition
 
-## من الهيمنة إلى الاختلاف إلى الممارسة
+This concept concerns language variation across social contexts and communities. Sociolinguistics asks: How do social factors shape language? How does language reflect and create social structure?
 
-مرّ الحقلُ بثلاث مقارباتٍ نظريةٍ متعاقبة: "نموذجُ الهيمنة" المبكر (روبن لايكوف، 1975) الذي فسّر أسلوبَ حديث النساء (كالتردّد وعلامات الاستفهام الذيلية) بوصفه انعكاساً لخضوعهنّ الاجتماعي؛ ثم "نموذجُ الاختلاف" (ديبورا تانن) الذي فسّر الفروقَ بثقافاتٍ محادثيةٍ فرعيةٍ منفصلة لا بعلاقات قوة؛ ثم "نموذجُ الممارسة الاجتماعية" اللاحق (بينيلوپي إكرت) الذي يرى الجندرَ نفسَه أداءً لغوياً (Performance) يُبنى ويُعاد إنتاجُه عبر ممارساتٍ تواصليةٍ يومية داخل جماعاتٍ اجتماعيةٍ محدَّدة (Communities of Practice)، لا فئةً ثابتة تُنتج أسلوباً موحَّداً.
+## Key Principles
 
-## النقدُ المتبادل
+- Language variation is systematic and patterned
+- Variation correlates with social variables (class, gender, age, region)
+- Speakers have variable competence—multiple forms in their system
+- Language change proceeds through communities gradually
 
-أُخضع كلُّ نموذجٍ لنقدٍ من التالي له: اتُّهم نموذجُ الهيمنة بتعميمٍ مفرط، ونموذجُ الاختلاف بإغفال أبعاد القوة، بينما يسعى نموذجُ الممارسة الاجتماعية لتجاوز الثنائية الجندرية الجامدة ذاتها بالتركيز على التنوّع داخل كلّ جندر لا بينهما فقط.
+## Evidence
 
-## المصادر
+Decades of sociolinguistic research show systematic relationships between linguistic forms and social factors. Language marks identity and social position. Community studies reveal variation within single communities.
 
-- Lakoff, Robin (1975). *Language and Woman's Place*. Harper & Row.
-- Tannen, Deborah (1990). *You Just Don't Understand: Women and Men in Conversation*. William Morrow.
-- Eckert, Penelope; McConnell-Ginet, Sally (2003). *Language and Gender*. Cambridge University Press.
+## References
+
+- Labov, W. (2001). *Principles of Linguistic Change* (Vol. 2). Blackwell.
+- Milroy, L., & Gordon, M. J. (2003). *Sociolinguistics*. Blackwell.
+

@@ -24,21 +24,23 @@ gaps:
 
 # نموذجُ المسارين البطنيّ والظهريّ لمعالجة اللغة
 
-نموذجٌ معاصرٌ في علم اللغة العصبي صاغه غريغوري هيكوك وديفيد پوپل (2004، 2007) اعتماداً على أدلّة التصوير العصبي الوظيفي (fMRI)، يستبدل الثنائيةَ التشريحية الكلاسيكية البسيطة (منطقةُ بروكا للإنتاج، منطقةُ فيرنيكه للفهم) بشبكةٍ موزَّعةٍ من مسارين متوازيين معالِجَين، بالتماثل مع نموذج المسارين البصريين (What/Where) في علم الأعصاب الإدراكي.
+## Definition
 
-## المسارُ البطنيّ: من الصوت إلى المعنى
+This concept is central to understanding language at the cognitive and neural level. How do brains process language? How does cognition shape language structure? These questions bridge linguistics and neuroscience.
 
-يعالج "المسارُ البطنيّ" (Ventral Stream) رسمَ الأصوات اللغوية إلى تمثيلاتٍ دلاليةٍ ومفاهيمية — أي فهمَ معنى الكلام — ويمتدّ من القشرة السمعية الصدغية العلوية نزولاً نحو الفصّ الصدغي الأوسط والسفلي، وهو موزَّعٌ ثنائياً نسبياً بين نصفَي الكرة المخية.
+## Key Principles
 
-## المسارُ الظهريّ: من الصوت إلى الحركة
+- Language involves distributed brain networks
+- Cognitive processes are embodied (grounded in perception and action)
+- Language learning involves neural plasticity
+- Individual and group differences affect language abilities
 
-يعالج "المسارُ الظهريّ" (Dorsal Stream) رسمَ الأصوات اللغوية المسموعة إلى برامجَ حركيةٍ لإنتاج الكلام (وربطَ الفهم بالإنتاج بصفةٍ عامة)، ويمتدّ من القشرة السمعية عبر الفصّ الجداري نحو مناطقَ حركيةٍ أمامية؛ وهذا المسارُ، بخلاف البطنيّ، يتمركز بقوةٍ أكبر في نصف الكرة الأيسر.
+## Evidence
 
-## إعادةُ تفسير الحُبسات الكلاسيكية
+Brain imaging shows language activates networks beyond traditional language areas. Cognitive studies reveal systematic patterns in how people process and produce language. Developmental and clinical studies show how neural differences affect language.
 
-يعيد هذا النموذجُ تفسيرَ متلازمات الحُبسة الكلاسيكية بوصفها اضطراباتٍ في مسارٍ أو تقاطعِ مسارين ضمن هذه الشبكة الموزَّعة، لا تلفاً في "مركزٍ" واحدٍ منعزل، مما يفسّر تعقيداتٍ سريريةً كثيرة لم تفسِّرها الثنائيةُ التشريحية البسيطة تفسيراً كافياً.
+## References
 
-## المصادر
+- Kemmerer, D. (2012). *Psychology of Language*. Springer.
+- Friederici, A. D. (2011). "The brain basis of language processing." *Annual Review of Neuroscience*, 34.
 
-- Hickok, Gregory; Poeppel, David (2007). "The Cortical Organization of Speech Processing." *Nature Reviews Neuroscience* 8(5).
-- Hickok, Gregory; Poeppel, David (2004). "Dorsal and Ventral Streams: A Framework for Understanding Aspects of the Functional Anatomy of Language." *Cognition* 92(1-2).

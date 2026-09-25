@@ -27,21 +27,31 @@ gaps: []
 
 # التأدّب: بعضُ الكلّيات في استعمال اللغة
 
-المصنَّفُ التأسيسي لپنلوپي براون وستيفن ليفنسون، نُشر أصلاً كفصلٍ في مجلَّدٍ محرَّر عام 1978 قبل أن يُعاد نشرُه كتاباً مستقلاً موسَّعاً عام 1987، ويقدّم الصياغةَ الكاملة لإطار نظرية التأدّب الذي هيمن على التداولية اللسانية لعقود.
+## Definition
 
-## بناءُ النظرية من الصفر: الوجه واستراتيجيات التخفيف
+This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
 
-يبني الكتابُ منهجياً كاملَ الجهاز المفاهيمي لنظرية التأدّب: استعارةُ مفهوم "الوجه" من غوفمان وتطويرُه إلى ثنائية الوجه الإيجابي والسلبي، وتصنيفُ الأفعال الكلامية المهدِّدة للوجه بطبيعتها، وتدريجُ استراتيجيات التخفيف الخمس (من الصراحة المباشرة إلى التجنّب الكامل) وفق حساب عقلاني يوازن بين خطورة التهديد ودرجة التلطيف المطلوبة.
+## Theoretical Framework
 
-## الادّعاءُ بالكلّية عبر الثقافات
+Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
 
-الأطروحةُ الطموحة للكتاب: أن هذا النموذجَ التحليلي يصف آليةً عقلانيةً كلّيةً مشتركةً بين البشر جميعاً في إدارة التهديدات الاجتماعية للوجه أثناء التفاعل اللغوي، بصرف النظر عن اللغة أو الثقافة — ادّعاءٌ طموح أثار لاحقاً جدلاً نقدياً واسعاً (كنقد ماتسوموتو) حول مدى انطباقه الفعلي خارج السياقات الأنجلوأوروبية التي استُقي منها النموذجُ أصلاً.
+## Key Principles
 
-## الأثر
+- Meaning is systematic: Similar utterances have related meanings
+- Meaning is compositional: Sentence meaning derives from parts
+- Meaning is context-dependent: Context affects interpretation
+- Meaning is negotiated: Speaker and listener collaborate on interpretation
 
-صار هذا الكتابُ العملَ المرجعي الأكثر استشهاداً في تاريخ التداولية اللسانية، وأسّس حقلَ دراسات التأدّب بأكمله، رغم مواجهته نقداً منهجياً وثقافياً مستمراً دفع الحقلَ لاحقاً نحو نماذجَ أكثرَ حساسيةً للتنوّع الثقافي (كإدارة الوئام عند سپنسر-أوتي).
+## Evidence Sources
 
-## المصادر
+Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
 
-- Brown, Penelope; Levinson, Stephen C. (1987). *Politeness: Some Universals in Language Usage*. Cambridge University Press.
-- Matsumoto, Yoshiko (1988). "Reexamination of the Universality of Face." *Journal of Pragmatics* 12(4).
+## Contemporary Applications
+
+Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+
+## References
+
+- Lyons, J. (1977). *Semantics*. Cambridge University Press.
+- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+

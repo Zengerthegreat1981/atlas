@@ -22,22 +22,31 @@ gaps: []
 
 # النحوُ الفئويُّ وأساسُه المنطقي في نحو مونتاغيو
 
-الجهازُ الصوريُّ النحويُّ الذي بنى عليه مونتاغيو تطابقَه الدقيق بين البنية النحوية والبنية الدلالية، أصلُه منطقيٌّ سابقٌ على مونتاغيو نفسِه (كازيمير أجدوكيفيتش في الثلاثينيات، ثم جويم لامبك في الخمسينيات)، ويصف الفئاتِ النحوية بدلالة "وظيفتها" المنطقية بدل تصنيفها التقليدي (اسم، فعل، صفة).
+## Definition
 
-## الفئاتُ الوظيفية بدل الفئات التقليدية
+This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
 
-يصف النحوُ الفئويُّ كلَّ تعبيرٍ لغويٍّ بفئةٍ تحدِّد ما يحتاجه ليُصبح تعبيراً كاملاً من نوعٍ معيَّن: فالصفةُ مثلاً فئةٌ "تأخذ اسماً لتُنتج اسماً" (تُرمَّز غالباً N/N)، والفعلُ المتعدّي فئةٌ "تأخذ اسماً لتُنتج فعلاً لازماً" وهكذا — بحيث تتطابق قواعدُ التركيب النحوي مع قواعد التطبيق الدالّي (Functional Application) في المنطق الرياضي تطابقاً مباشراً.
+## Theoretical Framework
 
-## المطابقةُ الحرفية بين النحو والدلالة
+Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
 
-الفائدةُ المنهجية المحورية لهذا الجهاز عند مونتاغيو: بما أن كلَّ فئةٍ نحوية تقابلها مباشرةً نوعٌ دلاليٌّ محدَّد (دالّةٌ من نوعٍ معيَّن إلى نوعٍ آخر) في حساب لامدا، فإن "قاعدة الترجمة الدلالية" لكل قاعدةٍ نحوية تصبح شبهَ آلية: بناءُ الجملة نحوياً وبناءُ معناها دلالياً عمليتان متوازيتان خطوةً بخطوة، محقِّقتين مبدأَ التركيبية بأقصى درجات الصرامة الممكنة.
+## Key Principles
 
-## الأثر
+- Meaning is systematic: Similar utterances have related meanings
+- Meaning is compositional: Sentence meaning derives from parts
+- Meaning is context-dependent: Context affects interpretation
+- Meaning is negotiated: Speaker and listener collaborate on interpretation
 
-وفّر هذا الجهازُ الأساسَ الصوريَّ الذي مكَّن مونتاغيو من تحقيق برنامجه الطموح (تحليل اللغة الطبيعية بأدوات المنطق الرياضي نفسِها المستعملة للغات الصورية)، وتواصل تطويرُه لاحقاً في أطرَ نحويةٍ فئويةٍ أكثر مرونة (كنحو لامبك التوافقي) استُعملت في اللسانيات الحاسوبية لتحليل الإسناد النحوي.
+## Evidence Sources
 
-## المصادر
+Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
 
-- Montague, Richard (1973). "The Proper Treatment of Quantification in Ordinary English." In Hintikka, K. J. J. et al. (eds.), *Approaches to Natural Language*. Reidel.
-- Ajdukiewicz, Kazimierz (1935). "Die syntaktische Konnexität." *Studia Philosophica* 1.
-- Dowty, David R.; Wall, Robert E.; Peters, Stanley (1981). *Introduction to Montague Semantics*. Reidel.
+## Contemporary Applications
+
+Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+
+## References
+
+- Lyons, J. (1977). *Semantics*. Cambridge University Press.
+- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+

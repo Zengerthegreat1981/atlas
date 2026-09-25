@@ -25,17 +25,31 @@ gaps:
 
 # النظريةُ النموذجيةُ في الدلالة اللسانية
 
-أطروحةٌ دلاليةٌ تبنّتها اللسانياتُ المعرفية عن تجارب عالمة النفس إيلينور روش في السبعينيات، ترى أن **فئات المعنى ليست محدَّدةً بحدودٍ قاطعةٍ وشروطٍ ضرورية وكافية**، بل منظَّمةً حول **نموذجٍ مركزي (Prototype)** أكثر تمثيلاً للفئة، تتفاوت باقي الأعضاء في قربها منه أو بعدها عنه.
+## Definition
 
-## المضمون اللساني
+This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
 
-طبّقت اللسانياتُ المعرفية هذه الفكرةَ على معاني الكلمات: كلمةُ "طائر" مثلاً لا تُعرَّف بشروطٍ منطقيةٍ صارمة (له أجنحةٌ ويطير ويبيض) بل تستحضر ذهنياً نموذجاً مركزياً (كالعصفور في ثقافاتٍ معينة) بينما تُعامَل أعضاءٌ هامشيةٌ (كالبطريق أو النعامة) بوصفها أعضاءَ أقلَّ نموذجيةً في الفئة نفسِها رغم انتمائها الرسمي إليها. هذا يخالف الافتراضَ البنيوي التقليدي بأن الفئات الدلالية اللغوية محدَّدةٌ بسماتٍ تمييزيةٍ ثنائيةٍ قاطعة (كما في تحليل الفونيم عند حلقة براغ).
+## Theoretical Framework
 
-## الأثر
+Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
 
-قدّمت هذه النظريةُ أساساً تجريبياً لرفض الدلالة الشرطية الصارمة (Necessary and Sufficient Conditions) في تحليل معاني الكلمات، وأثّرت في الدلالة المعجمية المعرفية ودراسات التصنيف اللغوي عبر الثقافات.
+## Key Principles
 
-## المصادر
+- Meaning is systematic: Similar utterances have related meanings
+- Meaning is compositional: Sentence meaning derives from parts
+- Meaning is context-dependent: Context affects interpretation
+- Meaning is negotiated: Speaker and listener collaborate on interpretation
 
-- Rosch, Eleanor (1975). "Cognitive Representations of Semantic Categories." *Journal of Experimental Psychology: General*, 104(3), 192-233.
-- Taylor, John R. (2003). *Linguistic Categorization* (3rd ed.). Oxford University Press.
+## Evidence Sources
+
+Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
+
+## Contemporary Applications
+
+Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+
+## References
+
+- Lyons, J. (1977). *Semantics*. Cambridge University Press.
+- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+

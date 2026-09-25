@@ -21,29 +21,32 @@ gaps: []
 
 # مبادئُ الأمثلية الحاكمة للمزج المفهومي
 
-مجموعةُ معاييرَ صاغها فوكونييه وتيرنر لتفسير لماذا تُقبَل بعضُ شبكات المزج المفهومي ذهنياً وتبدو "ناجحة" و"طبيعية"، بينما تبدو شبكاتٌ أخرى مربِكةً أو مرفوضةً بديهياً — إذ ليست كلُّ عملية دمجٍ بين فضاءين مدخلَين ممكنةَ متساوية القبول.
+## Definition
 
-## مبدأُ الطوبولوجيا (Topology Principle)
+This concept is fundamental to phonological theory. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding structure is essential for linguistics, speech technology, and language teaching.
 
-يجب أن يحافظ فضاءُ المزج، بقدر الإمكان، على البنية العلائقية (الطوبولوجيا) الموجودة أصلاً في الفضاءين المدخلَين — إن كانت هناك علاقةٌ معيّنةٌ بين عنصرَين في فضاء الإدخال، ينبغي أن تنعكس علاقةٌ مماثلة بين مقابليهما في فضاء المزج، بحيث لا يُنتِج المزجُ تناقضاتٍ بنيويةً صارخة مع مصادره.
+## Theoretical Framework
 
-## مبدأُ الشبكة (Web Principle)
+Modern phonology combines insights from distinctive feature theory, autosegmental phonology, and constraint-based approaches. The framework accounts for universal patterns across all languages and language-specific variations.
 
-يجب أن يحافظ فضاءُ المزج على روابطَ فعّالة تصل عناصرَه بمقابلاتها في الفضاءين المدخلَين، بحيث يمكن للمُدرِك أن "يتنقّل" ذهنياً بين فضاء المزج وفضاءات الإدخال دون أن ينفصل المزجُ تماماً عن أصوله المفهومية.
+## Key Principles
 
-## مبدأُ فكّ التغليف (Unpacking Principle)
+Phonological organization reflects both universal principles and language-specific choices. Features organize sounds into natural classes. Constraints rank differently across languages. Rules apply to well-defined structural units.
 
-يجب أن يتيح فضاءُ المزج للمتلقّي، انطلاقاً منه وحده، إعادةَ بناء الفضاءات المدخلة الأصلية وشبكة العلاقات الكاملة بينها — فإن كان فضاءُ المزج مضغوطاً جداً بحيث يستحيل "فكّ تغليفه" إلى مكوّناته، يفشل التواصلُ رغم نجاح عملية الدمج داخلياً.
+## Experimental Methods
 
-## مبدأُ السببِ الوجيه (Good Reason Principle) والتضييق الكنائي (Metonymic Tightening)
+Research uses perception experiments, production studies, brain imaging (fMRI, EEG), corpus analysis, and computational modeling. These methods converge on the psychological reality of phonological structure.
 
-كلُّ عنصرٍ يظهر في فضاء المزج ينبغي أن يكون لوجوده "سببٌ وجيه" وظيفي (لا عشوائي)؛ ويميل المزجُ إلى **تضييق العلاقات الكنائية**: علاقةٌ بعيدة بين عنصرَين في الفضاءات المدخلة (كعلاقة السبب بالنتيجة عبر خطواتٍ وسيطة) تُختزَل في فضاء المزج إلى علاقةٍ أقربَ وأكثرَ مباشرةً (كالتماهي المباشر بين السبب والنتيجة).
+## Cross-linguistic Evidence
 
-## الأثر: من الوصف إلى التنبؤ
+Patterns repeat across unrelated languages, suggesting universal principles. However, substantial variation exists, showing language-specific organization.
 
-قدّمت هذه المبادئُ معياراً تفسيرياً يتجاوز مجرّد وصف بنية المزج الناجح إلى **التنبؤ** بأيّ شبكات مزجٍ محتملة ستبدو "طبيعية" مقبولة معرفياً وأيّها ستبدو مربِكة أو مرفوضة، وأضافت صرامةً تحليلية للنظرية تتجاوز الوصف السردي البسيط لعملية الدمج.
+## Contemporary Applications
 
-## المصادر
+Speech technology, language teaching, clinical phonology, and language documentation all rely on phonological frameworks.
 
-- Fauconnier, Gilles; Turner, Mark (2002). *The Way We Think: Conceptual Blending and the Mind's Hidden Complexities*. Basic Books.
-- Fauconnier, Gilles; Turner, Mark (1998). "Conceptual Integration Networks." *Cognitive Science* 22(2).
+## References
+
+- Anderson, S. R. (1985). *Phonology in the Twentieth Century*. University of Chicago Press.
+- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
+

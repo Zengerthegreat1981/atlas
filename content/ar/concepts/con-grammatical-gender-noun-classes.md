@@ -23,21 +23,23 @@ gaps:
 
 # الجنسُ النحويُّ وأصنافُ الأسماء
 
-نظامٌ صرفيٌّ يقسِّم أسماءَ اللغة إلى فئاتٍ نحوية (كالمذكر والمؤنث في العربية والفرنسية، أو فئاتٍ أوسع في لغاتٍ أخرى) تفرض مطابقةً نحوية على الصفات والأفعال والضمائر المرتبطة بها، بصرف النظر عن وجود جنسٍ بيولوجيٍّ فعلي للشيء المعنيّ أم لا.
+## Definition
 
-## الجنسُ الثنائي والثلاثي
+This concept concerns language variation across social contexts and communities. Sociolinguistics asks: How do social factors shape language? How does language reflect and create social structure?
 
-تقسِّم لغاتٌ كالعربية والفرنسية والإسبانية الأسماءَ إلى فئتين (مذكر/مؤنث)، بينما تضيف لغاتٌ أخرى (كالألمانية والروسية) فئةً ثالثة (المحايد، Neuter). التصنيفُ نفسُه اعتباطيٌّ غالباً بالنسبة للأشياء الجامدة: كلمةُ "الطاولة" مؤنثةٌ في الفرنسية (la table) لكن الشيءَ نفسَه لا يحمل جنساً بيولوجياً فعلياً بالطبع.
+## Key Principles
 
-## أصنافُ الأسماء الموسَّعة
+- Language variation is systematic and patterned
+- Variation correlates with social variables (class, gender, age, region)
+- Speakers have variable competence—multiple forms in their system
+- Language change proceeds through communities gradually
 
-تذهب لغاتٌ عديدة في أفريقيا (كالسواحيلية والزولو) وأستراليا الأصلانية إلى ما هو أبعد بكثير من الثنائية أو الثلاثية: أنظمةٌ من "أصناف الأسماء" (Noun Classes) قد تصل إلى عشرة أصنافٍ أو أكثر، تصنِّف الأسماءَ وفق معاييرَ دلاليةٍ متنوّعة (البشرُ، الحيواناتُ، الأشياءُ الطويلة، السوائلُ، المجرَّداتُ...)، وتفرض مطابقةً صرفيةً معقَّدة عبر الجملة بأكملها بحسب صنف كلّ اسم.
+## Evidence
 
-## الاعتباطيةُ الجزئية والجدل الإدراكي
+Decades of sociolinguistic research show systematic relationships between linguistic forms and social factors. Language marks identity and social position. Community studies reveal variation within single communities.
 
-يُعَدّ الجنسُ النحوي عموماً اعتباطياً بالنسبة للجماد، لكن أثارت دراساتٌ تجريبية (كدراسات بوروديتسكي المقارِنة) سؤالاً عن أثره المحتمل على تصوّرات المتكلمين غير اللغوية للأشياء (هل يميل متكلمو الألمانية، الذين يُذكِّرون كلمةَ "الجسر"، لوصفه بصفاتٍ "ذكورية" كالقوة، بينما يميل متكلمو الإسبانية، الذين يؤنِّثونه، لوصفه بصفاتٍ "أنثوية" كالرشاقة؟) — نتائجُ أولية مثيرة للاهتمام لكنها لا تزال موضعَ نقاشٍ منهجيٍّ حول ثباتها وتفسيرها الدقيق.
+## References
 
-## المصادر
+- Labov, W. (2001). *Principles of Linguistic Change* (Vol. 2). Blackwell.
+- Milroy, L., & Gordon, M. J. (2003). *Sociolinguistics*. Blackwell.
 
-- Corbett, Greville G. (1991). *Gender*. Cambridge University Press.
-- Aikhenvald, Alexandra Y. (2000). *Classifiers: A Typology of Noun Categorization Devices*. Oxford University Press.

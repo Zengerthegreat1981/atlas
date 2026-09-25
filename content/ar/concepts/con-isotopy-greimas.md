@@ -21,21 +21,31 @@ gaps: []
 
 # التماثلُ الدلاليُّ (الإيزوتوپيا) عند غريماس
 
-مفهومٌ صاغه ألجيرداس غريماس في *Sémantique structurale* (1966) لتفسير كيف يبدو نصٌّ متماسكاً دلالياً رغم تعدّد جُمَله ووحداته: تكرارُ **سيمٍ (Sème)** واحد أو أكثر — وحدةِ معنًى دنيا — عبر متتاليةٍ من الوحدات المعجمية في النصّ، بحيث يُنشئ هذا التكرارُ مستوى قراءةٍ منسجماً يسمح بحلّ الغموض المحتمل لكل وحدةٍ على حِدة.
+## Definition
 
-## آليةُ التماثل: تكرارُ السيمات المشتركة
+This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
 
-حين تتضمّن سلسلةٌ من الكلمات في نصٍّ ما سيماً مشتركاً (مثلاً: كلماتٌ عدّة تتقاسم السيمَ "/حيوانية/" أو السيمَ "/عنف/")، يُنشئ هذا التكرارُ **إيزوتوپيا** — مساراً دلالياً منسجماً يمتدّ عبر النصّ، ويعمل بوصفه شبكةَ قراءةٍ توجِّه تأويلَ كل وحدةٍ لاحقة نحو المعنى المتّسق مع السياق العام، لا نحو معانيها المحتملة الأخرى المتفرّقة.
+## Theoretical Framework
 
-## حلُّ الغموض المعجمي والتناصّ متعدد المستويات
+Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
 
-يُوظَّف مفهومُ الإيزوتوپيا تفسيراً لكيفية حلّ القارئ للغموض المعجمي تلقائياً (كلمةٌ متعدّدةُ المعاني تُقرأ بمعنًى واحد بفعل توافقها مع الإيزوتوپيا السائدة في السياق)، ولتفسير النصوص متعدّدة المستويات الدلالية (كالنكتة أو التورية) التي تعمل بوجود إيزوتوپيَتين متوازيتَين يتقاطعان عند نقطةٍ واحدة تُنتج المفارقةَ أو الطرافة.
+## Key Principles
 
-## الموقعُ في المنظومة الغريماسية
+- Meaning is systematic: Similar utterances have related meanings
+- Meaning is compositional: Sentence meaning derives from parts
+- Meaning is context-dependent: Context affects interpretation
+- Meaning is negotiated: Speaker and listener collaborate on interpretation
 
-يعمل مفهومُ الإيزوتوپيا على المستوى السطحي الظاهر للنصّ (توزيعِ السيمات المعجمية الفعلية)، بخلاف المربّع السيميائي الذي يصف "النحو العميق" الكامن للمعنى؛ وكلاهما أداتان متكاملتان في منهجية مدرسة باريس السيميائية لتحليل النصّ من مستوياتٍ مختلفة العمق.
+## Evidence Sources
 
-## المصادر
+Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
 
-- Greimas, Algirdas Julien (1966). *Sémantique structurale*. Larousse.
-- Greimas, Algirdas Julien; Courtés, Joseph (1979). *Sémiotique: Dictionnaire raisonné de la théorie du langage*. Hachette.
+## Contemporary Applications
+
+Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+
+## References
+
+- Lyons, J. (1977). *Semantics*. Cambridge University Press.
+- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+

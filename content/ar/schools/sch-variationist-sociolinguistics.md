@@ -37,21 +37,28 @@ gaps:
 
 # اللسانياتُ الاجتماعيةُ المتغيّرية
 
-فرعٌ من اللسانيات الاجتماعية أسّسه وليم لابوف منذ أوائل الستينيات، يدرس العلاقةَ المنتظمة بين **التغيّر اللغوي** (Linguistic Variation) والبنية الاجتماعية، بمنهجٍ ميدانيٍّ كمّي صارم.
+## Definition
 
-## الأطروحةُ المحورية
+Sociolinguistics studies language in social context. How do social factors (class, gender, ethnicity, region) affect language variation? How does language mark and create social identity? How does language change through communities?
 
-اللغةُ ليست نسقاً متجانساً ثابتاً كما تفترض النماذجُ النظرية المجرَّدة لأغراض التحليل (البنيوية والتوليدية)، بل نسقٌ يتضمّن **تغيّراً بنيوياً منتظماً**: صيغتان أو أكثر تحملان المعنى نفسَه (متغيّرٌ لغوي) يتوزّع استعمالُهما إحصائياً بحسب متغيّراتٍ اجتماعيةٍ كالطبقة والعمر والجنس ودرجة رسمية السياق.
+## Variation
 
-## المنهج
+All languages vary: speakers use different forms in different contexts and communities. This variation is systematic, not random. Phonological variables (like r-dropping), grammatical variables (like subject-verb agreement), and lexical variables show social patterning.
 
-جمعُ عيّناتٍ من الكلام التلقائي في سياقاتٍ اجتماعيةٍ متنوعة (مقابلاتٌ ميدانية، ملاحظةٌ مباشرة في أماكنَ عامة)، وتحليلُها إحصائياً لربط توزيع المتغيّرات اللغوية بالبنية الاجتماعية للمتكلمين. أشهرُ تطبيقاته دراسةُ لابوف عن نطق صوت /r/ في نهاية الكلمة في متاجر نيويورك (1966)، التي أظهرت ارتباطاً منتظماً بين نطق هذا الصوت ومكانة المتجر الاجتماعية.
+## Social Stratification
 
-## الأثر
+Linguistic variation correlates with social variables: education, income, ethnicity, gender. Some variants have prestige (associated with power, education); others have stigma. Speech reveals social position.
 
-أسّست هذه المدرسةُ فرعَ اللسانيات الاجتماعية الكمّية المعاصر، وأتاحت للمرة الأولى رصدَ التغيّر اللغوي **وهو يحدث فعلياً** عبر الأجيال بدلاً من إعادة بنائه بأثرٍ رجعي كما في اللسانيات التاريخية المقارنة التقليدية.
+## Gender Differences
 
-## المصادر
+Women and men use language differently in systematic ways. Women use more prestige forms; men use more vernacular forms. In some communities, women lead linguistic change. Gender differences reflect and reinforce social roles.
 
-- Labov, William (1966). *The Social Stratification of English in New York City*. Center for Applied Linguistics.
-- Labov, William (1972). *Sociolinguistic Patterns*. University of Pennsylvania Press.
+## Language Change
+
+Languages change through communities. Sound changes (like vowel shifts) spread through generations. Older speakers use older forms; younger speakers use newer forms. Changes spread through social networks, not uniformly.
+
+## References
+
+- Labov, W. (1972). *Sociolinguistic Patterns*. University of Pennsylvania Press.
+- Eckert, P. (2000). *Linguistic Variation as Social Practice*. Blackwell.
+

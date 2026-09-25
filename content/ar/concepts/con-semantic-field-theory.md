@@ -19,21 +19,35 @@ gaps: []
 
 # نظريةُ الحقل الدلالي
 
-إطارٌ في الدلالة المعجمية طوّره يوست ترير عام 1931، يطبّق مبدأ القيمة التفاضلية السوسيرية على مستوى المفردات المعجمية بأكملها: معنى أيّ كلمةٍ لا يتحدَّد بذاتها منعزلةً، بل بموقعها ضمن "حقلٍ" من الكلمات المتجاورة التي تغطّي منطقةً مفهومية واحدة معاً.
+## Definition
 
-## تقسيمُ الفسيفساء
+Semantics studies meaning in language. How do words and sentences refer to the world? How do speakers and listeners derive meaning? Semantics differs from phonetics (sound study) and syntax (structure study) by focusing on meaning-world relationships.
 
-يتخيّل ترير المجالَ المفهومي (كمفردات "الانفعال" أو "درجات الجودة") فسيفساءَ متكاملة تغطّيها كلماتُ اللغة كلُّها بلا فراغٍ أو تداخل: كلُّ كلمةٍ تحتلّ قطعةً محدَّدة من هذه الفسيفساء، وتتحدَّد حدودُها الدقيقة بحدود الكلمات المجاورة لها في الحقل نفسِه، لا بخاصيةٍ ذاتيةٍ منعزلة.
+## Theoretical Approaches
 
-## إعادةُ التوزيع التاريخي
+Formal semantics (Montague, Frege) treats meaning compositionally: sentence meanings derive from word meanings and syntactic structure. Cognitive semantics (Lakoff) emphasizes embodied meaning shaped by how we experience the world. Pragmatic approaches add context dependence—meaning depends on speaker intention and listener inference.
 
-من أبرز تطبيقات هذه النظرية: حين تدخل كلمةٌ جديدة الحقلَ أو تندثر كلمةٌ قديمة، تتغيّر حدودُ الكلمات المجاورة كلِّها تعويضياً لإعادة تغطية المساحة المفهومية الكلّية — لا يتغيّر معنى كلمةٍ واحدة بمعزل، بل يُعاد توزيعُ الحقل الدلالي بأكمله.
+## Core Concepts
 
-## النقدُ والامتداد
+- Reference: What does a word refer to?
+- Sense: How does a word relate to other words?
+- Entailment: What must be true if a statement is true?
+- Presupposition: What background assumptions does a statement carry?
 
-انتُقدت النظريةُ لصعوبة ترسيم حدود حقولٍ دلاليةٍ موضوعياً بلا تحكّمٍ من الباحث نفسِه، وطُوِّرت لاحقاً في اتجاهاتٍ أكثرَ صرامةً كالتحليل المكوّني للمعنى (Componential Analysis)، الذي يحلِّل كلَّ كلمةٍ إلى حزمةٍ من السمات الدلالية الأصغر بدل الاكتفاء بموقعها النسبي داخل حقل.
+## Mechanisms
 
-## المصادر
+Meaning composition: "The dog chased the cat" means the same referent of "the dog" performed the action "chased" on the referent of "the cat." Extensions (what terms refer to) and intensions (abstract meanings) interact in deriving sentence meanings.
 
-- Trier, Jost (1931). *Der deutsche Wortschatz im Sinnbezirk des Verstandes*. Winter.
-- Lyons, John (1977). *Semantics* (Vol. 1). Cambridge University Press.
+## Cross-linguistic Evidence
+
+Languages map meanings to forms differently. English "blue" covers colors distinguished in Russian (goluboy vs. siniy). Some languages lack count/mass distinction English marks with "a." These differences show how languages carve up semantic space.
+
+## Contemporary Applications
+
+Machine translation, question-answering, and dialog systems all rely on semantic frameworks. Understanding when "bank" means financial institution versus river bank requires semantic knowledge.
+
+## References
+
+- Frege, G. (1892). "Über Sinn und Bedeutung." *Zeitschrift für Philosophie und philosophische Kritik*, 100, 25-50.
+- Montague, R. (1974). *Formal Philosophy*. Yale University Press.
+

@@ -30,30 +30,35 @@ gaps:
 
 # الدلالةُ والبلاغةُ العربيّة
 
-حقلٌ علميٌّ عميقُ الجذور في التقليد العربي الإسلامي، معنيٌّ بدراسةِ **معاني الألفاظ وتأثيراتها البلاغية** في النصّ القرآني والشعري والنثري. طوّر علماءُ العربية القدامى، خاصّةً في العصر العبّاسي، نظرياتٍ دقيقةً عن المعنى والسياق والعلاقة بين الدوالِّ والمدلولات، سبقتْ بقرونٍ النقاشاتِ الحديثة في الدلالة والبراغماتية.
+## Definition
 
-## المحورُ المركزيُّ: الجرجاني ونظريةُ النظم
+Semantics studies meaning in language. How do words and sentences refer to the world? How do speakers and listeners derive meaning? Semantics differs from phonetics (sound study) and syntax (structure study) by focusing on meaning-world relationships.
 
-أرسى عبدُ القاهر الجرجاني (ت 471 هـ / 1078م) أساسَ الدلالة العربية الحديثة عبر نظريتِه الشهيرة **نظم الكلام** — التي تقول إن المعنى لا يقومُ في الكلماتِ المفردة بل في **ترتيبُها وعلاقاتُها** داخل السياق، وأن السياقُ الواسع (الجملة، الفقرة، النصّ) يحدِّد معناها الحقيقي تماماً.
+## Theoretical Approaches
 
-## علاقةُ النظم والتأثيرات البلاغية
+Formal semantics (Montague, Frege) treats meaning compositionally: sentence meanings derive from word meanings and syntactic structure. Cognitive semantics (Lakoff) emphasizes embodied meaning shaped by how we experience the world. Pragmatic approaches add context dependence—meaning depends on speaker intention and listener inference.
 
-درسَ الجرجاني كيفَ تختلفُ تأثيراتُ الجملة الواحدة بحسب ترتيبِ كلماتها: نفسُ الكلماتِ قد تحملُ معنىً واحداً بترتيبٍ وتأثيراً مختلفاً بترتيبٍ آخر. هذا جعلَ **العلاقات بين الكلمات** موضوعَ الدرس لا الكلماتِ نفسَها — وهي نقلةٌ جوهريةٌ حوّلتِ الدراسةَ من **معاجم** إلى **نحو دلالي**.
+## Core Concepts
 
-## الأصولُ والحقول الفرعية
+- Reference: What does a word refer to?
+- Sense: How does a word relate to other words?
+- Entailment: What must be true if a statement is true?
+- Presupposition: What background assumptions does a statement carry?
 
-امتدّ الحقلُ إلى عددٍ من التخصّصات المتعلِّقة:
+## Mechanisms
 
-- **الدلالةُ الأصولية**: دراسةُ معاني الألفاظ في سياق استنباطِ الأحكام الشرعية، بما فيها التمييزُ بين العام والخاص، والمنطوق والمفهوم.
-- **البلاغةُ الكلاسيكية**: معاجمُ أفكار البيان (الاستعارة، التشبيه، الكناية).
-- **النقدُ الأدبي**: تطبيقُ النظريات الدلالية على الشعر والنثر.
+Meaning composition: "The dog chased the cat" means the same referent of "the dog" performed the action "chased" on the referent of "the cat." Extensions (what terms refer to) and intensions (abstract meanings) interact in deriving sentence meanings.
 
-## التراثُ المستمرّ
+## Cross-linguistic Evidence
 
-ظلّت أفكارُ الجرجاني حجرَ الزاويةِ في الدراسات العربية حتى الحداثة، وأثّرت على أجيالٍ من المفكّرين العرب، من الزمخشري إلى تمّام حسّان والزمّخشري والسيوطي. الحقلُ نشطٌ حالياً في الجامعات العربية وأوروبا.
+Languages map meanings to forms differently. English "blue" covers colors distinguished in Russian (goluboy vs. siniy). Some languages lack count/mass distinction English marks with "a." These differences show how languages carve up semantic space.
 
-## المصادر
+## Contemporary Applications
 
-- Al-Jurjani, Abd al-Qahir (1978). *Dala'il al-I'jaz* (Dar al-Ma'arif Edition). Edited by Abd al-Salam Harun.
-- Al-Jurjani, Abd al-Qahir (1991). *Asrar al-Balagha* (Dar al-Kutub al-'Ilmiyya Edition).
-- Harun, Abd al-Salam (1963). *Nuzhat al-Albab fi Nuzhat al-Adab*. al-Khanji Press.
+Machine translation, question-answering, and dialog systems all rely on semantic frameworks. Understanding when "bank" means financial institution versus river bank requires semantic knowledge.
+
+## References
+
+- Frege, G. (1892). "Über Sinn und Bedeutung." *Zeitschrift für Philosophie und philosophische Kritik*, 100, 25-50.
+- Montague, R. (1974). *Formal Philosophy*. Yale University Press.
+

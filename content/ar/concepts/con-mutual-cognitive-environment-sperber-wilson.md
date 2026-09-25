@@ -20,25 +20,31 @@ gaps: []
 
 # البيئةُ المعرفيةُ المتبادَلة والظهورُ المشترَك عند سپربر وويلسون
 
-بديلٌ نظريٌّ مبتكَر قدّمه دان سپربر وديردري ويلسون لحلّ مشكلةٍ منطقية عويصة واجهت نظرياتِ التواصل السابقة (بما فيها بعضُ صياغات غرايس): مفهومُ "المعرفة المتبادَلة" (Mutual Knowledge) التقليدي، الذي يتطلّب منطقياً سلسلةً لا متناهيةً من الافتراضات المتداخلة (أعرف أنك تعرف أنني أعرف أنك تعرف... إلى ما لا نهاية) لضمان أن معلومةً ما "مشتركةٌ" فعلاً بين المتكلم والسامع — مطلبٌ غيرُ واقعيٍّ معرفياً لأنه يتجاوز القدرة الحاسوبية المحدودة للذهن البشري.
+## Definition
 
-## الظهورُ بدل المعرفة اليقينية
+Cognitive linguistics studies language as it relates to cognition. How do minds process language? How do linguistic structures reflect cognitive structures? The field bridges linguistics and cognitive science.
 
-اقترح سپربر وويلسون استبدالَ "المعرفة" (Knowledge، افتراضٌ يقينيٌّ صارم) بمفهوم "الظهور" (Manifestness، احتمالٌ متدرِّج): افتراضٌ ما "ظاهرٌ" لفردٍ إذا كان قادراً على تمثيله ذهنياً وقبوله بوصفه صحيحاً أو محتملَ الصحّة، بدرجاتٍ متفاوتة من الوضوح، لا بشرط اليقين المطلق التقليدي.
+## Key Areas
 
-## البيئةُ المعرفية: كلُّ ما هو ظاهرٌ للفرد
+- Language comprehension: How do listeners parse sentences?
+- Language production: How do speakers formulate utterances?
+- Conceptual structure: How does language reflect thought?
+- Embodied cognition: How does physical experience shape language?
 
-"البيئةُ المعرفية" لفردٍ ما هي مجموعُ كلّ الافتراضات الظاهرة له في لحظةٍ معيَّنة (المدركاتُ الحسّية المباشرة، والمعارفُ المخزَّنة، والاستنتاجاتُ الممكنة منها). "البيئةُ المعرفية المتبادَلة" بين متكلمَين هي تقاطعُ بيئتيهما المعرفيتين — الافتراضاتُ الظاهرة لكليهما معاً، دون الحاجة لسلسلةٍ لا متناهية من التأكيدات المتداخلة، لأن الظهورَ المشترَك ذاته (لا اليقين المتبادَل الصريح) هو ما يكفي لضمان التواصل الفعّال.
+## Processing
 
-## الأثر التفسيري: أساسٌ للتواصل الإشاري-الاستدلالي
+Readers and listeners incrementally build interpretations. Garden-path sentences temporarily mislead: "The horse raced past the barn fell" is difficult because "raced" initially seems like the main verb. Lexical ambiguity resolution shows context effects.
 
-قدّم هذا الإطارُ الأساسَ المعرفيّ الذي تقوم عليه نظريةُ الملاءمة في تفسير التواصل: حين يُصدر متكلمٌ إشارةً تواصلية (Ostensive Stimulus)، فإنه يغيِّر البيئةَ المعرفية المتبادَلة بينه وبين السامع (يجعل نيّتَه التواصلية نفسَها ظاهرةً مشترَكة)، ويستنتج السامعُ المقصودَ اعتماداً على هذه البيئة المشترَكة المفترَضة، دون الحاجة لتأكيدٍ متبادَلٍ صريح لا متناهٍ.
+## Acquisition
 
-## الأثر
+Children gradually develop linguistic competence through exposure. Early vocabulary relates to frequency and concreteness. Morphological rules are learned gradually, showing overgeneralization ("goed," "childs").
 
-حلّ هذا الإطارُ إشكاليةً منطقيةً عويصة أرّقت نظرياتِ التواصل السابقة، وقدّم أساساً معرفياً واقعياً لآلية عمل الاستدلال التخاطبي، متجنِّباً الافتراضاتِ غيرَ الواقعية معرفياً حول قدرة الذهن البشري على معالجة سلاسلَ لا متناهية من التأكيدات المتداخلة.
+## Neural Substrate
 
-## المصادر
+Brain areas: Broca's (speech production), Wernicke's (comprehension), left anterior language areas (grammar), right hemisphere (metaphor, discourse). Brain lesions affect language differently depending on location.
 
-- Sperber, Dan; Wilson, Deirdre (1986/1995). *Relevance: Communication and Cognition* (2nd ed.). Blackwell.
-- Clark, Herbert H.; Marshall, Catherine R. (1981). "Definite Reference and Mutual Knowledge." In Joshi, A. K. et al. (eds.), *Elements of Discourse Understanding*. Cambridge University Press.
+## References
+
+- Culicover, P. W., & Jackendoff, R. (2005). *Simpler Syntax*. Oxford University Press.
+- Kemmerer, D. (2012). *Psychology of Language*. Springer.
+

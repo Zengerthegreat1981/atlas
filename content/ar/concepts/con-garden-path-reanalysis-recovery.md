@@ -17,13 +17,28 @@ gaps: ["مصادرُ محدودة — يحتاجُ لمزيدِ استقصاء"]
 
 # جملُ الطريقِ والإعادةُ
 
-مفهومٌ مهمٌّ في علمِ اللغة الحديث.
+## Definition
 
-## الملخصُ
+Garden-path sentences mislead readers initially but resolve with reanalysis: "The horse raced past the barn fell." "Raced" appears to be the main verb, but restructuring reveals "raced" modifies "horse" and "fell" is the main verb. Garden-path effects demonstrate incremental parsing with backtracking.
 
-جملُ الطريقِ والإعادةُ (Garden-Path Sentences) يمثّلُ موضوعاً أساسياً في البحثِ اللساني المعاصر.
+## Parsing Mechanisms
 
-## المصادرُ
+Readers use:
+- Frequency: Prefer common structures
+- Syntax: Use grammatical constraints
+- Semantics: Use meaning to resolve ambiguity
 
-- دراساتٌ متنوعةٌ في الدوريات المتخصّصة تعالجُ هذا الموضوع.
-- ملاحظة: المصادرُ المفصّلةُ تحتاجُ لتوسّعِ البحثِ الميداني.
+Garden-path failures show processing doesn't immediately use semantics or look ahead.
+
+## Neural Correlates
+
+ERP studies show P600 component (reanalysis signature) when sentences require restructuring. Anterior temporal areas activate during reanalysis.
+
+## Theoretical Implications
+
+Garden-path effects support incremental, left-to-right parsing. They show parsing isn't perfect; readers make mistakes and backtrack. Different models (garden-path model, constraint satisfaction) account for effects differently.
+
+## References
+
+- Frazier, L., & Rayner, K. (1982). "Making and correcting errors during sentence comprehension." *Cognitive Psychology*, 14, 178-210.
+

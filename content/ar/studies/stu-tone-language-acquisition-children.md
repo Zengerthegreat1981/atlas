@@ -17,13 +17,32 @@ gaps: ["مصادرُ محدودة — يحتاجُ لمزيدِ استقصاء"]
 
 # اكتسابُ نظمِ النغمِ عند الأطفالِ
 
-مفهومٌ مهمٌّ في علمِ اللغة الحديث.
+## Definition
 
-## الملخصُ
+Tone is phonemic pitch—meaning-distinguishing pitch contours. Mandarin: [ma] with high tone = mother, falling tone = hemp. Many African languages use tones; European languages generally don't.
 
-اكتسابُ نظمِ النغمِ عند الأطفالِ (Tone Acquisition) يمثّلُ موضوعاً أساسياً في البحثِ اللساني المعاصر.
+## Characteristics
 
-## المصادرُ
+Tone systems vary: Mandarin uses 4 lexical tones; Yoruba uses 3; some languages use 5+. Tones can be level (high, mid, low) or contour (rising, falling, dipping). Tones interact with stress and intonation.
 
-- دراساتٌ متنوعةٌ في الدوريات المتخصّصة تعالجُ هذا الموضوع.
-- ملاحظة: المصادرُ المفصّلةُ تحتاجُ لتوسّعِ البحثِ الميداني.
+## Autosegmental Analysis
+
+Tone occupies independent tiers in autosegmental phonology. This explains how tones spread across multiple syllables and survive segment deletion—the tone remains on the tonal tier.
+
+## Cross-linguistic Patterns
+
+Tone languages are roughly 70% of world's languages. Tone systems show universal constraints: rising tones more common than falling; certain tone combinations more frequent than others.
+
+## Experimental Evidence
+
+Speakers show categorical perception for tonal distinctions. Neuroimaging shows tone processing activates distinct brain regions. Learning studies show tone acquisition involves category formation.
+
+## Contemporary Applications
+
+Speech synthesis requires careful tone control for intelligibility. Speech recognition systems must track tonal distinctions. Language teaching prioritizes tone training for learners from non-tonal languages.
+
+## References
+
+- Yip, M. (2002). *Tone*. Cambridge University Press.
+- Ladd, D. R. (2008). *Intonational Phonology*. MIT Press.
+

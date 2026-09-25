@@ -20,21 +20,31 @@ gaps: []
 
 # نماذجُ السياق الذهنية عند فان دايك
 
-مفهومٌ محوريٌّ في المقاربة "السوسيو-معرفية" (Socio-Cognitive Approach) التي طوّرها تون فان دايك لاحقاً في مسيرته، يربط تحليلَ الخطاب بالمعرفة الذهنية الفردية والمجتمع معاً عبر بنيةٍ وسيطة: "نموذجُ السياق" (Context Model).
+## Definition
 
-## السياقُ تمثيلٌ ذهنيٌّ لا معطًى خارجيّ
+This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
 
-الأطروحةُ الجوهرية: "السياقُ" الذي يؤثّر في إنتاج الخطاب وفهمه ليس معطًى موضوعياً خارجياً (كالزمان والمكان والمشاركين فعلياً)، بل **تمثيلٌ ذهنيٌّ شخصيّ** يبنيه كلُّ متكلمٍ أو سامع لحظياً في ذاكرته العاملة، يتضمّن فهمَه الخاصّ للموقف التواصلي (من يخاطبني؟ ما دوري الاجتماعي هنا؟ ما الهدفُ من هذا التبادل؟ ما المعرفةُ المشتركة المفترَضة؟). وبما أن هذا النموذجَ شخصيٌّ ذاتي، فقد يختلف اثنان في الموقف التواصلي "الموضوعي" نفسِه اختلافاً جوهرياً في نموذج سياقهما الذهني، ما يفسِّر سوءَ الفهم التواصلي رغم تطابق الظروف الخارجية.
+## Theoretical Framework
 
-## الوساطةُ بين المعرفة الاجتماعية والخطاب الفردي
+Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
 
-يعمل نموذجُ السياق وسيطاً بين **المعرفة الاجتماعية العامّة** (الأيديولوجيات والمعايير المشتركة في مجتمعٍ ما) و**الخطابِ الفردي المحدَّد** الذي ينتجه متكلمٌ بعينه في لحظةٍ بعينها: فالأيديولوجيا لا تؤثّر في الخطاب مباشرةً، بل عبر تشكيلها لنموذج السياق الذهني الذي يبنيه المتكلمُ الفرد، والذي بدوره يوجِّه اختياراته اللغوية المحدَّدة (المفردات، درجةُ التفصيل، البنية النحوية).
+## Key Principles
 
-## الأثر على التحليل النقدي للخطاب
+- Meaning is systematic: Similar utterances have related meanings
+- Meaning is compositional: Sentence meaning derives from parts
+- Meaning is context-dependent: Context affects interpretation
+- Meaning is negotiated: Speaker and listener collaborate on interpretation
 
-قدّم هذا الإطارُ الأساسَ النظري "السوسيو-معرفي" الذي مكّن فان دايك من ربط التحليل النقدي للخطاب (كيف يُعاد إنتاج التحيّز والأيديولوجيا عبر اللغة) بآلياتٍ معرفيةٍ ذهنيةٍ دقيقة قابلةٍ للفحص التجريبي، متجاوزاً الوصفَ البنيوي الصرف للنصّ (المستوى الذي تعنى به البنيةُ الكلّية والبنية الفوقية) إلى تفسيرٍ لكيفية تشكّل الخطاب المتحيّز ذهنياً قبل أن يُصاغ لغوياً.
+## Evidence Sources
 
-## المصادر
+Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
 
-- van Dijk, Teun A. (2008). *Discourse and Context: A Sociocognitive Approach*. Cambridge University Press.
-- van Dijk, Teun A. (2009). *Society and Discourse: How Social Contexts Influence Text and Talk*. Cambridge University Press.
+## Contemporary Applications
+
+Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+
+## References
+
+- Lyons, J. (1977). *Semantics*. Cambridge University Press.
+- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+

@@ -17,13 +17,36 @@ gaps: ["مصادرُ محدودة — يحتاجُ لمزيدِ استقصاء"]
 
 # السماتُ فوقَ المقطعية
 
-مفهومٌ مهمٌّ في علمِ اللغة الحديث.
+## Definition
 
-## الملخصُ
+Distinctive features decompose phonemes into minimal binary properties. /p/ and /b/ differ in voicing: /p/ = [-voice], /b/ = [+voice]. Features explain why sounds pattern together in rules and predict natural phonological classes.
 
-السماتُ فوقَ المقطعية (Suprasegmental Features) يمثّلُ موضوعاً أساسياً في البحثِ اللساني المعاصر.
+## Historical Development
 
-## المصادرُ
+Trubetzkoy (1930s) first proposed feature-based analysis. Jakobson (1951) created comprehensive 12-feature system. SPE (Chomsky & Halle 1968) shifted to articulatory features. Modern Feature Geometry organizes features hierarchically.
 
-- دراساتٌ متنوعةٌ في الدوريات المتخصّصة تعالجُ هذا الموضوع.
-- ملاحظة: المصادرُ المفصّلةُ تحتاجُ لتوسّعِ البحثِ الميداني.
+## Feature Types and Examples
+
+Place features: [±labial], [±coronal], [±dorsal]
+Manner features: [±nasal], [±continuant], [±strident]
+Laryngeal features: [±voice], [±spread glottis]
+
+Each phoneme is a bundle: /p/ = [+consonantal, -sonorant, +labial, -continuant, -voice]
+
+## Natural Classes
+
+Features predict natural classes—groups of sounds patterning together. All [+nasal] (m, n, ŋ) undergo identical rules. All [+continuant] share phonological behavior.
+
+## Experimental Evidence
+
+ERPs show distinct neural signatures for different feature types. Developmental studies show children acquire feature distinctions gradually. Phonological rules across languages target same feature classes.
+
+## Contemporary Applications
+
+Feature theory explains first language acquisition order. Speech pathology uses features to characterize disorders. Computational models learn feature systems from data.
+
+## References
+
+- Jakobson, R., Fant, G., & Halle, M. (1951). *Preliminaries to Speech Analysis*. MIT Press.
+- Chomsky, N., & Halle, M. (1968). *The Sound Pattern of English*. Harper and Row.
+

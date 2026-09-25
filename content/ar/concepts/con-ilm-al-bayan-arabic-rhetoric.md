@@ -22,25 +22,31 @@ gaps: []
 
 # علمُ البيان: التشبيهُ والاستعارةُ والكناية
 
-الفرعُ الثاني من علوم البلاغة العربية الثلاثة، يدرس طرقَ التعبير عن المعنى الواحد بصورٍ لغويةٍ متعدّدة تتفاوت في وضوح الدلالة وقوة التأثير الجمالي، عبر ثلاث أداتٍ تحليليةٍ رئيسة.
+## Definition
 
-## التشبيه
+This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
 
-يقوم "التشبيهُ" على عقد مقارنةٍ صريحة بين شيئين يشتركان في صفةٍ ما، باستعمال أداة تشبيهٍ ظاهرة (كـ"الكاف" أو "مثل") تربط بين "المشبَّه" و"المشبَّه به"؛ ويميّز البلاغيون بين أنواعَ متعدّدة من التشبيه بحسب حذف بعض أركانه (كالتشبيه البليغ الذي يحذف الأداةَ ووجهَ الشبه معاً، فيقترب من الاستعارة).
+## Theoretical Framework
 
-## الاستعارة
+Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
 
-تنتقل "الاستعارةُ" خطوةً أبعد من التشبيه: تستعمل لفظاً في غير معناه الأصلي بعلاقة المشابهة، دون ذكر المشبَّه أو أداة التشبيه صراحةً، بحيث يُدَّعى أن المشبَّه به هو المشبَّه نفسُه مبالغةً (كقول "رأيتُ أسداً" لرجلٍ شجاع، حيث "الأسد" استعارةٌ تدّعي أن الرجلَ هو الأسدُ ذاته). ميّز الجرجاني الاستعارةَ بوصفها امتداداً طبيعياً لنظرية النظم: قوّتُها البلاغية تنبع من العلاقات الدلالية التي ينسجها السياقُ حولها، لا من اللفظ المفرد المعزول.
+## Key Principles
 
-## الكناية
+- Meaning is systematic: Similar utterances have related meanings
+- Meaning is compositional: Sentence meaning derives from parts
+- Meaning is context-dependent: Context affects interpretation
+- Meaning is negotiated: Speaker and listener collaborate on interpretation
 
-تختلف "الكنايةُ" عن الاستعارة في آلية الدلالة: تذكر لازماً أو نتيجةً للمعنى المقصود بدل ذكره مباشرةً، مع بقاء إمكانية إرادة المعنى الحقيقي أيضاً (لا استحالته كما في الاستعارة) — كقول "فلانٌ كثيرُ الرماد" كنايةً عن الكرم (لأن كثرةَ الطهي تعني كثرةَ الضيافة)، دون أن يُنفى المعنى الحرفي (احتمالُ أن يكون رمادُه فعلاً كثيراً) نفياً قاطعاً.
+## Evidence Sources
 
-## الأثر
+Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
 
-شكّلت هذه الأدواتُ الثلاث معاً الأساسَ التحليلي لدراسة الصورة الفنية في الأدب العربي الكلاسيكي، وتقاطعت لاحقاً مع مفاهيمَ مماثلة في البلاغة الغربية (كالاستعارة والكناية في الشعرية الأرسطية) رغم استقلال المسارين التاريخيين.
+## Contemporary Applications
 
-## المصادر
+Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
 
-- Larkin, Margaret (1995). *The Theology of Meaning: 'Abd al-Qahir al-Jurjani's Theory of Discourse*. American Oriental Society.
-- السكّاكي، يوسف بن أبي بكر (القرن السابع الهجري). *مفتاح العلوم*.
+## References
+
+- Lyons, J. (1977). *Semantics*. Cambridge University Press.
+- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+

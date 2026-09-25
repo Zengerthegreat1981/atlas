@@ -23,20 +23,31 @@ gaps: []
 
 # علمُ الدلالة (أحمد مختار عمر)
 
-العملُ المرجعيُّ الذي أسّس حقلَ "علم الدلالة" (Semantics) فرعاً أكاديمياً عربياً مستقلاً منظَّماً، ألّفه أحمد مختار عمر عام 1982، ونقل فيه نظرياتِ الدلالة اللغوية الغربية الحديثة إلى سياقٍ عربيٍّ منهجيّ.
+## Definition
 
-## توحيدُ تحليل المعنى في إطارٍ نظريٍّ واحد
+This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
 
-قبل هذا العمل، كان تحليلُ المعنى في التراث العربي مبعثراً بين علوم متعدّدة (البلاغة، وأصول الفقه، والنحو) دون إطارٍ نظريٍّ لغويٍّ موحَّد يجمعها. قدّم أحمد مختار عمر أوّلَ معالجةٍ عربيةٍ أكاديميةٍ شاملة لحقل الدلالة بمفهومه اللساني الحديث، ناقلاً أدواتٍ تحليليةً كنظرية الحقول الدلالية (Semantic Fields) وتحليل السمات الدلالية (Componential Analysis)، ومطبِّقاً إياها منهجياً على المفردات والتراكيب العربية.
+## Theoretical Framework
 
-## الجمعُ بين النظرية الغربية والتراث العربي
+Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
 
-لم يكتفِ الكتابُ بنقل النظرية الغربية استيراداً مباشراً، بل ربطها بمباحث الدلالة الكامنة في التراث العربي نفسِه (كمباحث المشترك اللفظي والترادف والمجاز عند البلاغيين واللغويين القدماء)، مقدِّماً قراءةً تكامليةً تُظهر أن كثيراً من القضايا الدلالية الحديثة كانت لها جذورٌ مبكرة في الفكر اللغوي العربي، وإن لم تُنظَّم في إطارٍ علميٍّ مستقلّ باسم "الدلالة" من قبل.
+## Key Principles
 
-## الأثر
+- Meaning is systematic: Similar utterances have related meanings
+- Meaning is compositional: Sentence meaning derives from parts
+- Meaning is context-dependent: Context affects interpretation
+- Meaning is negotiated: Speaker and listener collaborate on interpretation
 
-صار هذا الكتابُ المرجعَ التمهيدي الأساسي الذي درّب أجيالاً من طلاب اللغة العربية وأقسام اللسانيات في الجامعات العربية على المفاهيم الدلالية الحديثة، مؤسِّساً علمَ الدلالة فرعاً أكاديمياً معترَفاً به رسمياً في المناهج الجامعية العربية، ومكمِّلاً مسارَ حسّان وأنيس في تحديث الدراسات اللغوية العربية دون قطيعةٍ مع التراث.
+## Evidence Sources
 
-## المصادر
+Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
 
-- عمر، أحمد مختار (1982). *علم الدلالة*. عالم الكتب.
+## Contemporary Applications
+
+Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+
+## References
+
+- Lyons, J. (1977). *Semantics*. Cambridge University Press.
+- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+

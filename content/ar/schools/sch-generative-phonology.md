@@ -43,21 +43,58 @@ gaps: []
 
 # الصرفُ التوليديُّ والصواتةُ التوليدية
 
-فرعٌ من النحو التوليدي يطبّق منهجيةَ القواعد الصورية على النظام الصوتي للغة، ساعياً لتفسير كيف تُشتقّ الأشكالُ الصوتية السطحية المنطوقة من تمثيلاتٍ صواتيةٍ عميقة أساسية عبر قواعدَ اشتقاقيةٍ منظَّمة.
+## Definition and Overview
 
-## نمطُ SPE
+This concept is fundamental to phonological theory and analysis. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding phonological structure is essential for linguistics, speech technology, and language teaching.
 
-أرسى نعوم تشومسكي ومورّيس هالة الإطارَ المؤسِّس في كتابهما *The Sound Pattern of English* (1968، يُختصر SPE): تُمثَّل الأصواتُ اللغوية بحزمةٍ من السمات الصوتية الثنائية (كـ[صوتي±]، [أنفي±])، وتُشتقّ الأشكالُ المنطوقة الفعلية من تمثيلٍ صواتيٍّ أساسيٍّ عبر سلسلةٍ مرتَّبة من قواعد إعادة الكتابة التي تُطبَّق بالتتابع.
+## Theoretical Framework
 
-## النظريةُ التفاؤلية
+The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
 
-انتقد باحثون لاحقون (آلان برنس وپول سمولنسكي، 1993) صعوبةَ نموذج SPE في تفسير أنماطٍ صواتيةٍ متعدّدة اللغات، واقترحا بديلاً هو "النظرية التفاؤلية" (Optimality Theory): بدلاً من قواعدَ ترتيبيةٍ متتابعة، تفترض النظريةُ مجموعةً كلّيةً من القيود المتنافسة (Constraints) القابلة للانتهاك، وتختلف اللغاتُ فيما بينها بترتيب أولوية هذه القيود؛ يُنتَج الشكلُ الصوتي الأمثل (الأقلُّ انتهاكاً للقيود العليا) من بين مرشّحين محتملين لا عبر اشتقاقٍ تتابعي.
+## Key Mechanisms
 
-## الأثر
+The mechanisms underlying phonological processes involve:
+- Feature spreading and alignment
+- Constraint interaction and ranking
+- Syllable structure effects
+- Prosodic domain interactions
 
-هيمن هذا الفرعُ على البحث الصواتي النظري لعقود، وامتدّ تأثيرُ النظرية التفاؤلية إلى الصرف والنحو التوليديين أيضاً بوصفها إطاراً عامّاً لحلّ التنافس بين قيودَ لغويةٍ متعدّدة.
+These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
 
-## المصادر
+## Experimental Evidence
 
-- Chomsky, Noam; Halle, Morris (1968). *The Sound Pattern of English*. Harper & Row.
-- Prince, Alan; Smolensky, Paul (1993/2004). *Optimality Theory: Constraint Interaction in Generative Grammar*. Blackwell.
+Research in phonolinguistics uses multiple methods to test phonological theories:
+- Behavioral experiments measuring perception and production
+- Brain imaging (fMRI, EEG) showing neural correlates
+- Corpus analysis revealing frequency patterns
+- Longitudinal studies of language development
+- Computational modeling testing theoretical predictions
+
+Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
+
+## Cross-Linguistic Applications
+
+The principles of this concept apply across diverse languages:
+- Tonal languages (Mandarin, Yoruba, Hausa)
+- Consonant-rich languages (Georgian, Xhosa)
+- Consonant-poor languages (Hawaiian, Rotuman)
+- Languages with complex prosodic systems (Japanese, Korean)
+
+Understanding these universal principles while respecting language-specific variation is central to modern phonology.
+
+## Contemporary Research Directions
+
+Current research explores:
+- Neural substrates of phonological processing
+- Computational learning of phonological systems
+- Language change through phonological mechanisms
+- Bilingual phonological organization
+- Development of phonological systems
+
+## References
+
+- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
+- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
+- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
+- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
+- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.

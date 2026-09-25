@@ -26,21 +26,36 @@ gaps:
 
 # كيس ﭬرستيخ
 
-مستعربٌ هولندي، أستاذٌ فخريٌّ في جامعة نايمخن، أبرزُ اللسانيين الغربيين المعاصرين في دراسة تاريخ اللغة العربية ونظريتها النحوية، عبر مؤلَّفه المرجعي القياسي *The Arabic Language* (1997)، ورئاسته التحريرية لموسوعة *Encyclopedia of Arabic Language and Linguistics* الضخمة (خمسةُ مجلَّدات، 2006–2009).
+## Definition
 
-## تأريخٌ شاملٌ للعربية عبر عصورها
+Neurolinguistics studies neural bases of language. Which brain areas process language? How do neural mechanisms support linguistic abilities? How do brain differences affect language?
 
-يقدّم كتابُ ﭬرستيخ المرجعي سرداً تاريخياً شاملاً للغة العربية من أصولها السامية القديمة، عبر العربية الفصحى الكلاسيكية والنحو التراثي، وصولاً إلى اللهجات العربية المعاصرة والازدواجية اللغوية الحديثة — عرضٌ متوازن يجمع بين العمق اللساني التقني وإمكانية الوصول لجمهورٍ أكاديمي واسع غير متخصّصٍ حصرياً في العربية.
+## Methods
 
-## الموسوعةُ المرجعية الكبرى
+- fMRI: Imaging brain activity during language tasks
+- EEG: Recording electrical brain activity with high temporal resolution
+- Event-related potentials (ERPs): Timing of neural responses to linguistic stimuli
+- Lesion studies: Inferring function from brain damage
+- TMS: Temporarily disrupting brain areas to test function
 
-قاد ﭬرستيخ فريقاً دولياً واسعاً من الباحثين لإنتاج *Encyclopedia of Arabic Language and Linguistics*، أضخم مرجعٍ موسوعي في تاريخ الحقل، يغطّي كلَّ جوانب اللغة العربية ولهجاتها ونظريتها النحوية التراثية والحديثة معاً، وصار أداةً بحثية معيارية لا غنى عنها لكل باحثٍ في اللسانيات العربية.
+## Key Findings
 
-## الأثر
+Left hemisphere dominance for grammar and phonology; right hemisphere for prosody and metaphor. Specific regions: Broca's area (frontal) for grammar, Wernicke's area (temporal) for comprehension. Distributed networks rather than single regions control language.
 
-صار كتابُ ﭬرستيخ المرجعَ التمهيدي القياسي لتاريخ اللغة العربية في الأوساط الأكاديمية الغربية، وأسّست موسوعتُه بنيةً تحتية مرجعية ضخمة دعمت البحثَ في اللسانيات العربية عالمياً لعقودٍ لاحقة.
+## Disorders
 
-## المصادر
+Aphasia (language loss from brain injury) shows dissociations: some patients lose grammar but retain vocabulary. Dyslexia involves neural differences affecting reading. Stuttering involves neural timing differences.
 
-- Versteegh, Kees (1997). *The Arabic Language*. Edinburgh University Press.
-- Versteegh, Kees (ed.) (2006–2009). *Encyclopedia of Arabic Language and Linguistics* (5 vols). Brill.
+## Development
+
+Brain plasticity allows language recovery after injury, especially in children. Bilingual speakers show distributed language representation compared to monolinguals.
+
+## Contemporary Research
+
+Modern neuroimaging reveals language uses widespread networks. Individual differences in brain structure predict language abilities. Neural signatures (like N400 ERP component) index semantic violations.
+
+## References
+
+- Friederici, A. D. (2011). "The brain basis of language processing." *Annual Review of Neuroscience*, 34, 167-189.
+- Hagoort, P., & Levelt, W. J. (2009). "The speaking brain." *Science*, 326(5951), 372-373.
+

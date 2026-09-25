@@ -17,13 +17,32 @@ gaps: ["مصادرُ محدودة — يحتاجُ لمزيدِ استقصاء"]
 
 # التنوّعُ الصوتيُّ الاجتماعيّ
 
-مفهومٌ مهمٌّ في علمِ اللغة الحديث.
+## Definition
 
-## الملخصُ
+This concept is fundamental to phonological theory. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding structure is essential for linguistics, speech technology, and language teaching.
 
-التنوّعُ الصوتيُّ الاجتماعيّ (Phonetic Variation) يمثّلُ موضوعاً أساسياً في البحثِ اللساني المعاصر.
+## Theoretical Framework
 
-## المصادرُ
+Modern phonology combines insights from distinctive feature theory, autosegmental phonology, and constraint-based approaches. The framework accounts for universal patterns across all languages and language-specific variations.
 
-- دراساتٌ متنوعةٌ في الدوريات المتخصّصة تعالجُ هذا الموضوع.
-- ملاحظة: المصادرُ المفصّلةُ تحتاجُ لتوسّعِ البحثِ الميداني.
+## Key Principles
+
+Phonological organization reflects both universal principles and language-specific choices. Features organize sounds into natural classes. Constraints rank differently across languages. Rules apply to well-defined structural units.
+
+## Experimental Methods
+
+Research uses perception experiments, production studies, brain imaging (fMRI, EEG), corpus analysis, and computational modeling. These methods converge on the psychological reality of phonological structure.
+
+## Cross-linguistic Evidence
+
+Patterns repeat across unrelated languages, suggesting universal principles. However, substantial variation exists, showing language-specific organization.
+
+## Contemporary Applications
+
+Speech technology, language teaching, clinical phonology, and language documentation all rely on phonological frameworks.
+
+## References
+
+- Anderson, S. R. (1985). *Phonology in the Twentieth Century*. University of Chicago Press.
+- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
+

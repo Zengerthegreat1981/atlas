@@ -43,21 +43,28 @@ gaps:
 
 # ثنائيةُ اللغة والدماغ
 
-فرعٌ من علم اللغة النفسي وعلم النفس المعرفي يدرس كيف تُدار لغتان (أو أكثر) في الذهن الواحد، وما الأثرُ المعرفيُّ الأوسع لهذه الإدارة المزدوجة المستمرّة على وظائف الدماغ التنفيذية.
+## Definition
 
-## المشكلةُ المعرفية: تنافسُ اللغتين
+Bilingualism is competence in two languages. Bilinguals manage two language systems, switching between them and sometimes mixing them. Bilingual cognition differs from monolingual cognition in systematic ways.
 
-يظهر البحثُ أن كلتا لغتي المتكلم الثنائي اللغة تظلّان نشطتين ذهنياً باستمرار، حتى حين يستعمل إحداهما فقط، ما يفرض ضرورةَ كبحٍ مستمرٍّ للغة غيرِ المستعمَلة — وهو ما يُفترَض أنه يمرِّن آليةَ التحكّم التنفيذي في الدماغ بشكلٍ متكرّر يومياً.
+## Language Representation
 
-## الأدلةُ والنقاش
+Bilinguals have separate phonological and syntactic systems for each language. Semantic representation may be shared or separate depending on language similarity and individual differences. Lexical access involves both languages; non-target language words can interfere.
 
-قدّمت دراساتُ إلين بياليستوك وزملائها أدلّةً على أداءٍ معرفيٍّ متفوّق لدى الثنائيي اللغة في مهامَّ تتطلّب كبحَ الانتباه والتبديلَ بين المهام، وأدلّةً أخرى على تأخّرٍ محتمَل في ظهور أعراض الخرف؛ لكن نتائج هذا الخطّ البحثي واجهت تحدّياتِ تكرارٍ منهجية في دراساتٍ لاحقة، ويبقى حجمُ الأثر وثباتُه موضعَ نقاشٍ علميٍّ نشط.
+## Code-switching
 
-## الأثر
+Bilinguals strategically mix languages following systematic rules. They don't randomly mix; grammatical structure constrains mixing. Code-switching requires maintaining separation between systems while accessing both simultaneously.
 
-ربط هذا الحقلُ علمَ اللغة بعلم الأعصاب المعرفي، وأثّر في سياساتٍ تعليميةٍ متعلّقة بالتعليم ثنائيَّ اللغة.
+## Cognitive Effects
 
-## المصادر
+Bilinguals show executive control advantages: better inhibition and task-switching. Bilingual exposure delays some vocabulary growth initially but supports metalinguistic awareness. Long-term bilingualism supports cognitive reserve against aging.
 
-- Bialystok, Ellen (2001). *Bilingualism in Development: Language, Literacy, and Cognition*. Cambridge University Press.
-- de Bruin, Angela; Treccani, Barbara; Della Sala, Sergio (2015). "Cognitive Advantage in Bilingualism: An Example of Publication Bias?" *Psychological Science* 26(1).
+## Neural Organization
+
+Brain imaging shows bilinguals use overlapping regions for both languages. Language switching activates left prefrontal cortex (executive control). Proficiency and age of acquisition affect neural organization.
+
+## References
+
+- Kroll, J. F., & Tokowicz, N. (2005). "Models of bilingual representation." *Handbook of Bilingualism*, 531-553.
+- Bialystok, E. (2017). "The bilingual adaptation." *Current Directions in Psychological Science*, 26(3), 233-237.
+

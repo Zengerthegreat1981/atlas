@@ -21,29 +21,28 @@ gaps:
 
 # الثنائيةُ اللغويةُ المتزامنة مقابل المتعاقبة وأثرُ عمر الاكتساب
 
-تصنيفٌ منهجيٌّ تأسيسي في دراسة الثنائية اللغوية، يميّز بين مسارَين مختلفَين جوهرياً لاكتساب لغتَين، مرتبطَين بفروقٍ معرفيةٍ وعصبيةٍ موثَّقة.
+## Definition
 
-## الثنائيةُ المتزامنة: لغتان أوليان معاً
+Bilingualism is competence in two languages. Bilinguals manage two language systems, switching between them and sometimes mixing them. Bilingual cognition differs from monolingual cognition in systematic ways.
 
-**الثنائيةُ المتزامنة** (Simultaneous Bilingualism) تصف الأطفالَ الذين يتعرّضون للغتَين منذ الولادة تقريباً (أو قبل سنّ الثالثة تقريباً)، فيكتسبونهما معاً بوصفهما "لغتين أوليَّتين" (Two First Languages، 2L1) بآلياتٍ اكتسابيةٍ متشابهة للاكتساب الأحادي اللغة العادي، لا كلغةٍ ثانية مضافة لاحقاً.
+## Language Representation
 
-## الثنائيةُ المتعاقبة: لغةٌ ثانية تُضاف لاحقاً
+Bilinguals have separate phonological and syntactic systems for each language. Semantic representation may be shared or separate depending on language similarity and individual differences. Lexical access involves both languages; non-target language words can interfere.
 
-**الثنائيةُ المتعاقبة** (Sequential Bilingualism)، في المقابل، تصف اكتسابَ لغةٍ ثانية بعد إرساء اللغة الأولى (عادةً بعد سنّ الثالثة)، سواءٌ في الطفولة المبكرة أم المتأخِّرة أم البلوغ — عمليةٌ قد تختلف نوعياً عن اكتساب اللغة الأولى، وتتأثّر أكثرَ بعواملَ كالانتقال من اللغة الأولى (Transfer) والفروق الفردية التحفيزية والوجدانية.
+## Code-switching
 
-## أثرُ عمر الاكتساب (AoA)
+Bilinguals strategically mix languages following systematic rules. They don't randomly mix; grammatical structure constrains mixing. Code-switching requires maintaining separation between systems while accessing both simultaneously.
 
-يرتبط هذا التصنيفُ ارتباطاً وثيقاً بـ"أثر عمر الاكتساب" (Age of Acquisition Effect، AoA): تُظهر الدراساتُ باستمرارٍ أن العمرَ الذي بدأ فيه الفردُ تعلّمَ لغته الثانية يتنبّأ بقوّة بمستوى إتقانه النهائي المرجَّح لها (خصوصاً في جوانبَ كالنطق الأصلي والحدس النحوي الدقيق)، حتى بعد ضبط سنوات الخبرة الإجمالية مع اللغة — دليلٌ يتقاطع مع فرضية الفترة الحرجة، لكنه يقيسها تدريجياً كمتغيّرٍ مستمرّ (كلما تأخّر عمرُ البدء، انخفض الإتقانُ النهائي المتوقَّع تدريجياً) لا كعتبةٍ حادّة صارمة.
+## Cognitive Effects
 
-## أثرٌ على البنية العصبية والتمثيل المعجمي
+Bilinguals show executive control advantages: better inhibition and task-switching. Bilingual exposure delays some vocabulary growth initially but supports metalinguistic awareness. Long-term bilingualism supports cognitive reserve against aging.
 
-أظهرت أبحاثُ التصوير العصبي أن الثنائيّين المتزامنين يميلون لتفعيل مناطقَ دماغيةٍ متداخلة أكثرَ للغتَيهما، بينما يميل الثنائيّون المتعاقبون (خصوصاً من بدأوا لاحقاً) لتفعيل مناطقَ أكثرَ تمايزاً جزئياً، ما يرتبط أيضاً بالتمثيل المعجمي الموصوف في النموذج الهرمي المنقَّح (حيث تختلف قوّةُ الربط المباشر بين اللغة الثانية والمفهوم باختلاف عمر ومستوى الاكتساب).
+## Neural Organization
 
-## الأثر
+Brain imaging shows bilinguals use overlapping regions for both languages. Language switching activates left prefrontal cortex (executive control). Proficiency and age of acquisition affect neural organization.
 
-قدّم هذا التصنيفُ أساساً منهجياً ضرورياً لتفسير التباين الملحوظ في نتائج أبحاث الثنائية اللغوية عبر دراساتٍ مختلفة، ودفع الباحثين لضبط متغيّر عمر الاكتساب بدقّةٍ بدل معاملة "الثنائية اللغوية" فئةً واحدةً متجانسة.
+## References
 
-## المصادر
+- Kroll, J. F., & Tokowicz, N. (2005). "Models of bilingual representation." *Handbook of Bilingualism*, 531-553.
+- Bialystok, E. (2017). "The bilingual adaptation." *Current Directions in Psychological Science*, 26(3), 233-237.
 
-- Meisel, Jürgen M. (2004). "The Bilingual Child." In Bhatia, T. K.; Ritchie, W. C. (eds.), *The Handbook of Bilingualism*. Blackwell.
-- Johnson, Jacqueline S.; Newport, Elissa L. (1989). "Critical Period Effects in Second Language Learning." *Cognitive Psychology* 21(1).

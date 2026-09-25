@@ -26,25 +26,32 @@ gaps: []
 
 # البراتيشاخيا: الرسائلُ الصوتية الفيدية
 
-فئةٌ من أقدم النصوص الصوتية المنهجية في تاريخ البشرية، سبقت زمنياً نظامَ بانيني النحوي الشامل ومهَّدت له مباشرةً، ألَّفها معلِّمو كلِّ فرعٍ (Śākhā) من فروع تلاوة الفيدا المتعدّدة لضبط النطق الدقيق لنصوصهم المقدَّسة.
+## Definition
 
-## وظيفةٌ طقسية-صوتية دقيقة
+This concept is fundamental to phonological theory. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding structure is essential for linguistics, speech technology, and language teaching.
 
-نشأت البراتيشاخيا من حاجةٍ دينيةٍ صارمة: يجب تلاوةُ نصوص الفيدا بدقّةٍ صوتية مطلقة دون أدنى تحريف، إذ يُعتقَد أن أيَّ خطأٍ في النطق قد يُبطل فعّاليةَ الطقس المصاحب. لهذا الغرض، طوّر كلُّ فرعٍ تلاوي (Śākhā) رسالتَه الصوتية الخاصّة (Prātiśākhya) التي توثِّق بدقّةٍ متناهية قواعدَ النطق الصحيح: مخارجَ الأصوات، والتغيّرات الصوتية عند التقاء الكلمات (السنّدي، Sandhi)، ونظامَ النبر الموسيقي (Svara) المميِّز للتلاوة الفيدية.
+## Theoretical Framework
 
-## سبقٌ تاريخي على النحو الصوري
+Modern phonology combines insights from distinctive feature theory, autosegmental phonology, and constraint-based approaches. The framework accounts for universal patterns across all languages and language-specific variations.
 
-تُعدّ البراتيشاخيا أقدمَ من عمل بانيني نفسِه، وتمثِّل الحلقةَ الأولى في سلسلة التطوّر الصوتي-النحوي الهندي الذي بلغ ذروتَه لاحقاً في صورية بانيني الشاملة. استفاد بانيني من الدقّة الصوتية التي أرستها هذه الرسائلُ (خصوصاً في تصنيف الأصوات ومخارجها) حين صاغ نظامَه النحوي الأوسع الذي يغطّي الصواتة والصرف والنحو معاً.
+## Key Principles
 
-## تعدّدُ التقاليد الفرعية
+Phonological organization reflects both universal principles and language-specific choices. Features organize sounds into natural classes. Constraints rank differently across languages. Rules apply to well-defined structural units.
 
-تعكس البراتيشاخيا المتعدِّدة (لكلّ فرعٍ فيدي براتيشاخيا خاصّةٌ به، كبراتيشاخيا الريگ ﭬيدا وبراتيشاخيا الشُكلا ياجورﭬيدا) طبيعةَ التقليد الفيدي اللامركزية، إذ حافظ كلُّ فرعٍ على تقاليده التلاوية الخاصّة بدقّةٍ مستقلّة، ما أنتج ثروةً من الرصد الصوتي المقارَن عبر التقاليد الفرعية المختلفة.
+## Experimental Methods
 
-## الأثر
+Research uses perception experiments, production studies, brain imaging (fMRI, EEG), corpus analysis, and computational modeling. These methods converge on the psychological reality of phonological structure.
 
-أرست البراتيشاخيا الأساسَ التجريبي الدقيق الذي قامت عليه لاحقاً الصواتةُ الهندية الصورية، ويُقدِّرها مؤرِّخو اللسانيات اليوم بوصفها من أقدم الشواهد على رصدٍ صوتيٍّ منهجيٍّ دقيق في تاريخ البشرية، سابقاً بقرونٍ على أيّ محاولةٍ مماثلة في التقليد اليوناني.
+## Cross-linguistic Evidence
 
-## المصادر
+Patterns repeat across unrelated languages, suggesting universal principles. However, substantial variation exists, showing language-specific organization.
 
-- Cardona, George (1997). *Pāṇini: A Survey of Research*. Motilal Banarsidass.
-- Staal, J. F. (ed.) (1972). *A Reader on the Sanskrit Grammarians*. MIT Press.
+## Contemporary Applications
+
+Speech technology, language teaching, clinical phonology, and language documentation all rely on phonological frameworks.
+
+## References
+
+- Anderson, S. R. (1985). *Phonology in the Twentieth Century*. University of Chicago Press.
+- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
+

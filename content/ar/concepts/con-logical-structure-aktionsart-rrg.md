@@ -23,25 +23,23 @@ gaps: []
 
 # البنيةُ المنطقية وأصنافُ الأكتيونسآرت في نحو الدور والمرجع
 
-الجهازُ التمثيلي الدلاليُّ الأساسي الذي يبني عليه نحوُ الدور والمرجع تحليلَه لأفعال اللغة، يستند إلى تصنيف زينو ﭬندلر الشهير لأصناف الحدث الفعلي (Aktionsart، الطريقةُ الداخلية التي يتكشّف بها الحدث زمنياً).
+## Definition
 
-## أصنافُ ﭬندلر الأربعة
+This concept concerns language variation across social contexts and communities. Sociolinguistics asks: How do social factors shape language? How does language reflect and create social structure?
 
-صنّف زينو ﭬندلر الأفعالَ إلى أربعة أصناف بحسب بنيتها الزمنية الداخلية: **الحالاتُ** (States، كـ"يعرف"، ثابتةٌ دون تغيّر داخلي)، **الأنشطةُ** (Activities، كـ"يركض"، مستمرّةٌ ديناميكية دون نقطة نهايةٍ محدَّدة ضمنياً)، **الإنجازاتُ** (Achievements، كـ"يصل"، تحوّلٌ لحظيٌّ فوري)، و**الإنماءاتُ** (Accomplishments، كـ"يبني بيتاً"، عمليةٌ ممتدّة تنتهي بنقطة إتمامٍ محدَّدة). أضاف نحوُ الدور والمرجع لاحقاً صنفاً خامساً هو **الأفعالُ السببية** (Causatives) المشتقَّة من أيٍّ من الأصناف الأربعة.
+## Key Principles
 
-## البنيةُ المنطقية: تمثيلٌ صوريٌّ موحَّد
+- Language variation is systematic and patterned
+- Variation correlates with social variables (class, gender, age, region)
+- Speakers have variable competence—multiple forms in their system
+- Language change proceeds through communities gradually
 
-يترجم نحوُ الدور والمرجع كلَّ فعلٍ إلى "بنيةٍ منطقية" (Logical Structure) صورية موحَّدة تُشفِّر صنفَه من أصناف الأكتيونسآرت مباشرةً في صياغتها: فالحالاتُ تُمثَّل بمُسنَداتٍ بسيطة (predicate')، والأنشطةُ بعامل do' مضافٍ، والإنجازاتُ والإنماءاتُ بمعاملاتٍ تشير إلى التغيّر الزمني (INGR للتحوّل اللحظي، BECOME للتغيّر التدريجي)، والسببيةُ بعامل CAUSE يربط بنيتَين منطقيَّتين معاً.
+## Evidence
 
-## الرابطُ المباشر بالأدوار الموضوعية
+Decades of sociolinguistic research show systematic relationships between linguistic forms and social factors. Language marks identity and social position. Community studies reveal variation within single communities.
 
-الفائدةُ المنهجية المحورية: بما أن البنيةَ المنطقية تُشتقّ مباشرةً وبشكلٍ شبه آليّ من صنف الأكتيونسآرت، فإنها توفّر أساساً صورياً منضبطاً لاشتقاق الأدوار الموضوعية للحُجج النحوية (تحديدُ أيّ حجّةٍ فاعلٌ كليٌّ وأيّها متأثّرٌ كليّ) عبر خوارزمية الربط الدلالي-النحوي، بدل الحاجة لقائمة أدوارٍ موضوعية منفصلة تُسنَد يدوياً لكل فعلٍ بمعزلٍ عن بنيته الزمنية الداخلية.
+## References
 
-## الأثر
+- Labov, W. (2001). *Principles of Linguistic Change* (Vol. 2). Blackwell.
+- Milroy, L., & Gordon, M. J. (2003). *Sociolinguistics*. Blackwell.
 
-قدّم هذا الجهازُ ركيزةً دلاليةً صورية دقيقة تربط الجانبَ الزمني الداخلي للحدث (الأكتيونسآرت) مباشرةً بالتحليل النحوي للجملة، محقِّقاً واحداً من أهمّ التزامات نحو الدور والمرجع المنهجية: تفسير البنية النحوية انطلاقاً من الدلالة، لا فرضها عليها من الخارج.
-
-## المصادر
-
-- Vendler, Zeno (1957). "Verbs and Times." *The Philosophical Review* 66(2).
-- Van Valin, Robert D. Jr.; LaPolla, Randy J. (1997). *Syntax: Structure, Meaning, and Function*. Cambridge University Press.

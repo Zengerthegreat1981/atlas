@@ -20,17 +20,43 @@ gaps: []
 
 # الإفهامُ المقياسي
 
-نوعٌ محدَّدٌ من الإفهام التخاطبي الغرايسي، يحدث حين يستعمل المتكلمُ كلمةً من مجموعةٍ مرتَّبة بحسب قوّتها المعلوماتية ("مقياسٍ هورنيّ"، Horn Scale، كـ<بعض، معظم، كلّ> أو <ممكن، مؤكَّد>)، فيستنتج السامعُ ضمنياً أن الدرجاتِ الأعلى على المقياس لا تنطبق — إذ لو كانت تنطبق لاستعمل المتكلمُ الكلمةَ الأقوى معلوماتياً مباشرةً وفقاً لمبدأ الكمّ التعاوني.
+## Definition
 
-## آليةُ الاستنتاج
+Implicature is meaning implied but not explicitly stated. "Can you pass the salt?" implies a request though literally asks a question. Implicatures are pragmatically inferred from context and discourse principles.
 
-حين يقول متكلمٌ "بعضُ الحضور صفّقوا"، يستنتج السامعُ عادةً أن "ليس كلَّ الحضور صفّقوا" — رغم أن كلمة "بعض" منطقياً (بالمعنى الشرطي التوليدي) لا تستبعد "الكلّ" (فـ"الكلّ" هو حالةٌ خاصة من "البعض" منطقياً)؛ الاستبعادُ استنتاجٌ تداوليٌّ إضافي، لا جزءٌ من المعنى الحرفي (الدلالي) للكلمة "بعض" نفسِها.
+## Grice's Framework
 
-## قابليةُ الإلغاء والتعليق
+Conversational implicatures arise from apparent violations of Grice's maxims:
+- Saying less than required (Quantity): "Some students passed" implicates not all passed
+- Irrelevant contribution (Relation): Off-topic response implicates something unstated
+- Manner violation: "He went to the door and entered the room" (vs. "He entered the room") implicates sequentiality
 
-من الخصائص المميِّزة للإفهام المقياسي أنه قابلٌ للإلغاء صراحةً دون تناقض ("بعضُ الحضور، بل كلُّهم، صفّقوا")، وهو ما يميّزه عن الاستلزام المنطقي الصارم الذي لا يمكن إلغاؤه دون تناقضٍ منطقي — خاصيةٌ استُعملت أداةً تشخيصية معياريةً للتمييز بين المعنى الدلالي الحرفي والمعنى التداولي المستنتَج في تحليل الجمل عموماً.
+## Scalar Implicature
 
-## المصادر
+Scalar implicature: "Some students passed" implicates "Not all students passed." This is because "all" is stronger on the scale; if all passed, one should say "all."
 
-- Horn, Laurence R. (1984). "Toward a New Taxonomy for Pragmatic Inference: Q-Based and R-Based Implicature." In Schiffrin, D. (ed.), *Meaning, Form, and Use in Context*. Georgetown University Press.
-- Levinson, Stephen C. (2000). *Presumptive Meanings: The Theory of Generalized Conversational Implicature*. MIT Press.
+- Some/All: "I ate some cookies" → "I didn't eat all cookies"
+- Or: "You can have tea or coffee" → "You can't have both"
+- Might/Must: "He might be late" → "It's not certain"
+
+## Conventional Implicature
+
+Some implicatures are tied to words rather than context. "However" in "She's smart, however she failed" implicates contrast. The contrast is part of the word's meaning.
+
+## Non-cancellability Test
+
+Implicatures (unlike entailments) can be cancelled: "Some students passed—actually, all passed." But entailments cannot: "The king attended—he wasn't there" is contradictory.
+
+## Experimental Evidence
+
+Processing studies show scalar implicatures take longer to process than literal meanings. Children acquire implicatures gradually. Non-native speakers struggle with implicature interpretation.
+
+## Contemporary Applications
+
+Virtual assistants recognize implicatures in user requests. Sarcasm detection requires understanding when implicatures are flouted. Chatbots must track conversational implicatures.
+
+## References
+
+- Grice, P. (1975). "Logic and conversation." In *Syntax and Semantics 3*, 41-58.
+- Levinson, S. C. (1983). *Pragmatics*. Cambridge University Press.
+

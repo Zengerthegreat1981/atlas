@@ -23,20 +23,23 @@ gaps: []
 
 # علمُ اللغة الاجتماعي: مدخل (كمال بِشر)
 
-العملُ المرجعي الذي أسّس به كمال بِشر حقلَ اللسانيات الاجتماعية فرعاً أكاديمياً عربياً منظَّماً، ناقلاً مفاهيمَ الحقل الغربية إلى سياقٍ عربيٍّ يطبِّقها مباشرةً على الواقع اللغوي العربي المعقَّد متعدِّد المستويات.
+## Definition
 
-## نقلُ المفاهيم الغربية إلى الواقع العربي
+This concept concerns language variation across social contexts and communities. Sociolinguistics asks: How do social factors shape language? How does language reflect and create social structure?
 
-قدّم بِشر معالجةً منهجية شاملة لمفاهيم اللسانيات الاجتماعية الأساسية (الازدواجيةُ اللغوية، والتغيّرُ اللغوي، والتنوّعُ اللهجي الاجتماعي، والمواقفُ اللغوية) بأسلوبٍ أكاديميٍّ عربي، ثم طبَّقها بدقّةٍ على دراسة الواقع اللغوي العربي المعاصر: العلاقةُ الوظيفية المعقَّدة بين الفصحى والعامّيات المتعدِّدة، وتوزيعُها الاجتماعي والوظيفي المتباين (التعليمُ الرسمي، الإعلامُ، الخطابُ اليومي)، والمتغيّراتُ اللهجية داخل المجتمع العربي الواحد.
+## Key Principles
 
-## معالجةُ الازدواجية اللغوية العربية تفصيلياً
+- Language variation is systematic and patterned
+- Variation correlates with social variables (class, gender, age, region)
+- Speakers have variable competence—multiple forms in their system
+- Language change proceeds through communities gradually
 
-خصَّص بِشر جزءاً محورياً من العمل لتحليل ظاهرة الازدواجية اللغوية (Diglossia) في السياق العربي تحديداً — وهي حالةٌ كلاسيكية استُشهد بها عالمياً (منذ مقال تشارلز فيرغسون التأسيسي 1959) لتوضيح المفهوم — مقدِّماً تحليلاً محلياً دقيقاً يتجاوز التعميمات الغربية العامّة إلى فحص التفاوتات الإقليمية والاجتماعية الفعلية بين اللهجات العربية المختلفة وعلاقتها بالفصحى.
+## Evidence
 
-## الأثر
+Decades of sociolinguistic research show systematic relationships between linguistic forms and social factors. Language marks identity and social position. Community studies reveal variation within single communities.
 
-صار هذا الكتابُ المرجعَ التمهيدي المعياري لتدريس اللسانيات الاجتماعية في أقسام اللغة العربية بالجامعات العربية، مكمِّلاً مسار أنيس وحسّان في تحديث الدراسات اللغوية العربية بأدواتٍ منهجيةٍ حديثة دون قطيعةٍ مع الواقع اللغوي المحلّي الفعلي.
+## References
 
-## المصادر
+- Labov, W. (2001). *Principles of Linguistic Change* (Vol. 2). Blackwell.
+- Milroy, L., & Gordon, M. J. (2003). *Sociolinguistics*. Blackwell.
 
-- بِشر، كمال (1997). *علم اللغة الاجتماعي: مدخل*. دار غريب.

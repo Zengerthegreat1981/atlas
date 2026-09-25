@@ -22,21 +22,31 @@ gaps: []
 
 # خوارزميةُ الربط الدلاليِّ-النحويّ في نحو الدور والمرجع
 
-الآليةُ الإجرائيةُ المركزية في نحو الدور والمرجع التي تربط التمثيلَ الدلاليَّ للجملة (بنيتَها الحجاجية والدوران الكليّان: الفاعل والمتأثِّر) بتمثيلها النحوي السطحي (البنية الطبقية للجملة)، دون افتراض مستوًى وسيطٍ من التحويلات النحوية الحركية كما في النظريات التوليدية.
+## Definition
 
-## اتجاهان متعاكسان للاشتقاق
+This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
 
-تعمل الخوارزميةُ في اتجاهَين قابلَين للعكس بحسب مهمّة التحليل: **من الدلالة إلى النحو** (Semantics-to-Syntax Linking)، المستعمَل في إنتاج الكلام — تبدأ العمليةُ من التمثيل الدلالي لبنية الحدث (من يفعل ماذا بمن)، ثم تُسنِد الأدوارَ الكلّية (فاعلٌ أو متأثِّر) للمشاركين، ثم تُخصَّص لهم مواضعُ نحوية سطحية بحسب قواعد اللغة الخاصة؛ و**من النحو إلى الدلالة** (Syntax-to-Semantics Linking)، المستعمَل في فهم الكلام — تبدأ العمليةُ من البنية السطحية المسموعة فعلياً، وتُستنتَج منها الأدوارُ الكليّة ثم البنيةُ الدلالية الكامنة.
+## Theoretical Framework
 
-## قيودُ الربط الخاصّة باللغة
+Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
 
-بخلاف الفرضية التوليدية القائلة بمبادئَ ربطٍ كلّيةٍ ثابتة عبر اللغات، تفترض هذه الخوارزميةُ أن قواعدَ الربط نفسَها قابلةٌ للتفاوت بين اللغات ضمن حدودٍ نمطيةٍ محدَّدة تجريبياً (كتفاوت الترتيب الذي تُسنَد به الأدوارُ الكليّة إلى المواضع النحوية السطحية بين لغةٍ فاعليةٍ-مفعوليةٍ ولغةٍ إرغاتيفية)، بما يجعل الإطارَ ملائماً خصوصاً لوصف تنوّع اللغات غير الأوروبية التي لا تلائم بنيتُها افتراضات النحو التوليدي المبنية أصلاً على الإنجليزية.
+## Key Principles
 
-## الأثر
+- Meaning is systematic: Similar utterances have related meanings
+- Meaning is compositional: Sentence meaning derives from parts
+- Meaning is context-dependent: Context affects interpretation
+- Meaning is negotiated: Speaker and listener collaborate on interpretation
 
-قدّمت هذه الخوارزميةُ نموذجاً إجرائياً واضحاً ومباشراً للعلاقة بين المعنى والبنية النحوية السطحية دون طبقاتٍ اشتقاقيةٍ تحويلية وسيطة، وصارت أداةً تحليليةً معياريةً في الوصف النمطي المقارَن للغات ذاتِ نظمِ ترميزٍ حجاجيٍّ متنوّعة.
+## Evidence Sources
 
-## المصادر
+Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
 
-- Van Valin, Robert D. Jr.; LaPolla, Randy J. (1997). *Syntax: Structure, Meaning, and Function*. Cambridge University Press.
-- Van Valin, Robert D. Jr. (2005). *Exploring the Syntax-Semantics Interface*. Cambridge University Press.
+## Contemporary Applications
+
+Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+
+## References
+
+- Lyons, J. (1977). *Semantics*. Cambridge University Press.
+- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+

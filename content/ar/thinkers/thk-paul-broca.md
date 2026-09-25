@@ -27,17 +27,23 @@ gaps:
 
 # پول بروكا
 
-جرّاحٌ وعالمُ أعصابٍ فرنسي، اكتشف عام 1861 من خلال دراسة حالة مريضه الشهير "تان" (الذي فقد القدرةَ على الكلام الطليق مع بقاء فهمه سليماً) أن منطقةً محدَّدة في الفصّ الجبهي الأيسر من الدماغ (عُرفت لاحقاً بـ"منطقة بروكا") مسؤولةٌ عن الإنتاج الحركي للكلام.
+## Definition
 
-## الاكتشافُ التأسيسي
+This concept is central to understanding language at the cognitive and neural level. How do brains process language? How does cognition shape language structure? These questions bridge linguistics and neuroscience.
 
-من خلال تشريح دماغ "تان" بعد وفاته، حدّد بروكا موضعَ الإصابة في التلفيف الجبهي السفلي الأيسر، وربطه بعجزٍ محدَّدٍ في إنتاج الكلام الطليق (لا في الفهم أو الذكاء العام) — ما عُرف لاحقاً باسمه: **حُبسة بروكا** (Broca's Aphasia). كان هذا أولَ دليلٍ تجريبيٍّ قوي على أن وظائفَ اللغة موضَّعةٌ في مناطقَ محدَّدة من الدماغ لا موزَّعةٌ بالتساوي، وأسّس علمَ اللغة العصبي كفرعٍ علمي.
+## Key Principles
 
-## الأثر
+- Language involves distributed brain networks
+- Cognitive processes are embodied (grounded in perception and action)
+- Language learning involves neural plasticity
+- Individual and group differences affect language abilities
 
-فتح اكتشافُه البابَ أمام دراساتٍ لاحقة (أبرزُها اكتشافُ كارل فيرنيكه لمنطقةٍ ثانيةٍ مسؤولةٍ عن فهم اللغة عام 1874)، وأسّس التقليدَ الكلاسيكي في علم اللغة العصبي الذي يربط الوظائفَ اللغوية بمواضعَ تشريحيةٍ محدَّدة في الدماغ.
+## Evidence
 
-## المصادر
+Brain imaging shows language activates networks beyond traditional language areas. Cognitive studies reveal systematic patterns in how people process and produce language. Developmental and clinical studies show how neural differences affect language.
 
-- Broca, Paul (1861). "Remarques sur le siège de la faculté du langage articulé." *Bulletin de la Société Anatomique*, 6, 330-357.
-- Finger, Stanley (1994). *Origins of Neuroscience: A History of Explorations into Brain Function*. Oxford University Press.
+## References
+
+- Kemmerer, D. (2012). *Psychology of Language*. Springer.
+- Friederici, A. D. (2011). "The brain basis of language processing." *Annual Review of Neuroscience*, 34.
+

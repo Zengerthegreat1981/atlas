@@ -17,13 +17,31 @@ gaps: ["مصادرُ محدودة — يحتاجُ لمزيدِ استقصاء"]
 
 # تفعيلُ الافتراضات المسبقة
 
-مفهومٌ مهمٌّ في علمِ اللغة الحديث.
+## Definition
 
-## الملخصُ
+This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
 
-تفعيلُ الافتراضات المسبقة (Presupposition Triggers) يمثّلُ موضوعاً أساسياً في البحثِ اللساني المعاصر.
+## Theoretical Framework
 
-## المصادرُ
+Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
 
-- دراساتٌ متنوعةٌ في الدوريات المتخصّصة تعالجُ هذا الموضوع.
-- ملاحظة: المصادرُ المفصّلةُ تحتاجُ لتوسّعِ البحثِ الميداني.
+## Key Principles
+
+- Meaning is systematic: Similar utterances have related meanings
+- Meaning is compositional: Sentence meaning derives from parts
+- Meaning is context-dependent: Context affects interpretation
+- Meaning is negotiated: Speaker and listener collaborate on interpretation
+
+## Evidence Sources
+
+Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
+
+## Contemporary Applications
+
+Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+
+## References
+
+- Lyons, J. (1977). *Semantics*. Cambridge University Press.
+- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+

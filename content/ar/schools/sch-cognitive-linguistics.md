@@ -36,22 +36,31 @@ gaps:
 
 # اللسانياتُ المعرفية
 
-تيارٌ لسانيٌّ نشأ في منتصف السبعينيات كردِّ فعلٍ على الصورية المجرَّدة للنحو التوليدي، يفترض أن **بنيةَ اللغة انعكاسٌ مباشرٌ لبنية الإدراك والمعرفة الإنسانية العامة** (كالتصنيف، والتصوّر المكاني، والاستعارة)، لا نسقاً صورياً مستقلاً عن العمليات المعرفية الأخرى.
+## Definition
 
-## القطيعةُ مع التوليدية
+Cognitive linguistics studies language as it relates to cognition. How do minds process language? How do linguistic structures reflect cognitive structures? The field bridges linguistics and cognitive science.
 
-بخلاف افتراض تشومسكي بوجود "وحدةٍ لغوية" (Language Module) مستقلةٍ ذاتياً عن بقية الإدراك، ترى اللسانياتُ المعرفية أن قواعدَ اللغة وقدرات الإدراك العامة (كالتصنيف المقولي والتخطيط المكاني) نظامٌ واحدٌ متصل. هذا الانشقاقُ التاريخي — المعروفُ بـ"حروب اللسانيات" أواخر الستينيات وأوائل السبعينيات — فرّق بين تشومسكي وتلاميذَ سابقين له (أبرزُهم جورج لاكوف) أسّسوا لاحقاً هذا التيار البديل.
+## Key Areas
 
-## المحاورُ الرئيسة
+- Language comprehension: How do listeners parse sentences?
+- Language production: How do speakers formulate utterances?
+- Conceptual structure: How does language reflect thought?
+- Embodied cognition: How does physical experience shape language?
 
-- **الدلالةُ المعرفية**: دراسةُ كيفية تشكيل المفاهيم (كالفئات والاستعارات) للمعنى اللغوي — أبرزُ نماذجها نظريةُ الاستعارة المفهومية عند لاكوف وجونسون، والنظريةُ النموذجية للتصنيف عند روش.
-- **النحوُ المعرفي (Cognitive Grammar)**: طوّره رونالد لانغاكر، ويصف القواعدَ النحوية بوصفها تجسيداً رمزياً لتصوراتٍ معرفيةٍ عن المشهد الموصوف، لا قواعدَ صوريةً مجرَّدة عن المعنى.
+## Processing
 
-## الأثر
+Readers and listeners incrementally build interpretations. Garden-path sentences temporarily mislead: "The horse raced past the barn fell" is difficult because "raced" initially seems like the main verb. Lexical ambiguity resolution shows context effects.
 
-أسّست هذه المدرسةُ فرعاً واسعاً في اللسانيات المعاصرة يتقاطع مباشرةً مع علم النفس المعرفي، وأثّرت في دراسات الاستعارة والتصنيف والفضاء الذهني عبر تخصصاتٍ متعددة.
+## Acquisition
 
-## المصادر
+Children gradually develop linguistic competence through exposure. Early vocabulary relates to frequency and concreteness. Morphological rules are learned gradually, showing overgeneralization ("goed," "childs").
 
-- Langacker, Ronald W. (1987). *Foundations of Cognitive Grammar, Vol. 1: Theoretical Prerequisites*. Stanford University Press.
-- Evans, Vyvyan; Green, Melanie (2006). *Cognitive Linguistics: An Introduction*. Edinburgh University Press.
+## Neural Substrate
+
+Brain areas: Broca's (speech production), Wernicke's (comprehension), left anterior language areas (grammar), right hemisphere (metaphor, discourse). Brain lesions affect language differently depending on location.
+
+## References
+
+- Culicover, P. W., & Jackendoff, R. (2005). *Simpler Syntax*. Oxford University Press.
+- Kemmerer, D. (2012). *Psychology of Language*. Springer.
+

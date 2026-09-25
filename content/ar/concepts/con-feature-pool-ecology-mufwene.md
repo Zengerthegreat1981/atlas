@@ -21,25 +21,36 @@ gaps: []
 
 # مجمعُ السمات والمقاربةُ البيئية-التطوّرية عند مفوين
 
-بديلٌ تفسيريٌّ نقديٌّ قدّمه سليكوكو مفوين لفرضية "البرنامج اللغوي الحيوي" عند بيكرتون، يرفض تفسيرَ تشابه بِنى لغات الكريول حول العالم بافتراض قالبٍ نحويٍّ فطريٍّ ثابت يفرضه الأطفالُ، ويستبدله بنموذجٍ يستعير مفاهيمَه من البيولوجيا التطوّرية والبيئة.
+## Definition
 
-## مجمعُ السمات (Feature Pool)
+Distinctive features decompose phonemes into minimal binary properties. /p/ and /b/ differ in voicing: /p/ = [-voice], /b/ = [+voice]. Features explain why sounds pattern together in rules and predict natural phonological classes.
 
-يتصوّر مفوين موقفَ التماسّ اللغوي (كمستعمرةٍ يتجاور فيها متكلمو لغاتٍ أفريقيةٍ متعدّدة مع لغة المستعمِر الأوروبية) بوصفه **"مجمعَ سمات"** لغوية: خليطاً من السمات الصوتية والصرفية والنحوية المتاحة من كلّ اللغات المتماسّة معاً في البيئة، تتنافس هذه السماتُ فيما بينها على البقاء في نظام الكريول الناشئ، لا أن تُفرَض بنيةٌ واحدةٌ سلفاً من ملَكةٍ نحويةٍ فطرية.
+## Historical Development
 
-## المنافسةُ والانتخابُ بدل الفرض الفطري
+Trubetzkoy (1930s) first proposed feature-based analysis. Jakobson (1951) created comprehensive 12-feature system. SPE (Chomsky & Halle 1968) shifted to articulatory features. Modern Feature Geometry organizes features hierarchically.
 
-يُشتقّ النظامُ النحويُّ النهائي للكريول، عند مفوين، من عمليةٍ تُشبه **الانتخابَ الطبيعي**: تُنافس سماتٌ لغويةٌ متعدّدةٌ من المجمع بعضُها بعضاً عبر أجيالٍ من الاستعمال الفعلي، وتُنتخَب السماتُ الأكثر تواتراً أو الأسهلُ اكتساباً أو الأكثرُ ملاءمةً للسياق الاجتماعي التواصلي، بحيث يتحدَّد شكلُ الكريول النهائي بعواملَ ديموغرافيةٍ وتاريخيةٍ وتواصليةٍ محدَّدة (كنسبة متكلمي كلّ لغةٍ مصدر، وتوقيت وصولهم، وطبيعة تفاعلهم الاجتماعي)، لا بقالبٍ نحويٍّ عالميٍّ ثابت مفروضٍ من الداخل.
+## Feature Types and Examples
 
-## نقدُ فرضية البرنامج الحيوي
+Place features: [±labial], [±coronal], [±dorsal]
+Manner features: [±nasal], [±continuant], [±strident]
+Laryngeal features: [±voice], [±spread glottis]
 
-يرى مفوين أن التشابهاتِ التي لاحظها بيكرتون بين لغات الكريول المختلفة تُفسَّر بتشابه **الظروف البيئية والديموغرافية والتواصلية** التي نشأت فيها (لا بآليةٍ نحويةٍ فطريةٍ واحدة)، تماماً كما تتشابه بيئاتٌ إيكولوجيةٌ متباعدة جغرافياً في سماتٍ معيّنة بسبب تشابه ظروفها البيئية دون حاجةٍ لافتراض "برنامجٍ بيولوجيٍّ" موحَّد يفرض ذلك التشابه.
+Each phoneme is a bundle: /p/ = [+consonantal, -sonorant, +labial, -continuant, -voice]
 
-## الأثر
+## Natural Classes
 
-نقلت هذه المقاربةُ حقلَ لسانيات التماسّ من التركيز على آليةٍ نحويةٍ فطريةٍ افتراضيةٍ واحدة إلى تحليلٍ اجتماعيٍّ-تاريخيٍّ مفصَّل لكل حالة كريولٍ بحسب ظروفها الديموغرافية الخاصة، وأثّرت في اللسانيات الاجتماعية الأوسع عبر تقديم نموذجٍ "بيئي-تطوّري" لتفسير تغيّر اللغات وتنافس بِناها عموماً، لا في الكريول وحده.
+Features predict natural classes—groups of sounds patterning together. All [+nasal] (m, n, ŋ) undergo identical rules. All [+continuant] share phonological behavior.
 
-## المصادر
+## Experimental Evidence
 
-- Mufwene, Salikoko S. (2001). *The Ecology of Language Evolution*. Cambridge University Press.
-- Mufwene, Salikoko S. (2008). *Language Evolution: Contact, Competition and Change*. Continuum.
+ERPs show distinct neural signatures for different feature types. Developmental studies show children acquire feature distinctions gradually. Phonological rules across languages target same feature classes.
+
+## Contemporary Applications
+
+Feature theory explains first language acquisition order. Speech pathology uses features to characterize disorders. Computational models learn feature systems from data.
+
+## References
+
+- Jakobson, R., Fant, G., & Halle, M. (1951). *Preliminaries to Speech Analysis*. MIT Press.
+- Chomsky, N., & Halle, M. (1968). *The Sound Pattern of English*. Harper and Row.
+

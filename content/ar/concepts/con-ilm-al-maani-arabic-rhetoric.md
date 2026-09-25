@@ -22,21 +22,31 @@ gaps: []
 
 # علمُ المعاني: مطابقةُ الكلام لمقتضى الحال
 
-الفرعُ الأول من علوم البلاغة العربية الثلاثة، ويُعدّ الأقربَ مباشرةً إلى نظرية النظم عند عبد القاهر الجرجاني، إذ يدرس كيف تُخدَم دلالةُ الجملة (لا مفرداتها) عبر اختيارات تركيبية دقيقة تناسب سياقَ الكلام ومقتضاه.
+## Definition
 
-## البابانِ المحوريان: التقديمُ والتأخير، والحذفُ والذكر
+This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
 
-يدرس علمُ المعاني كيف يُغيِّر تقديمُ عنصرٍ نحويٍّ على آخر (كتقديم المفعول به على الفاعل لغرض التخصيص أو التشويق) دلالةَ الجملة رغم بقاء المعنى الأساسي المعجمي ثابتاً؛ وكذلك كيف يخدم حذفُ عنصرٍ نحوي (كحذف الفاعل أو المفعول به) أغراضاً بلاغيةً دقيقة (كالإيجاز، أو التعميم، أو التهويل)، بخلاف ذكره صراحةً الذي قد يحدّد المعنى أو يُضعفه.
+## Theoretical Framework
 
-## الخبرُ والإنشاء
+Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
 
-يميّز علمُ المعاني أيضاً بين "الخبر" (الجملةُ التي تحتمل الصدقَ والكذب، كالوصف والإخبار) و"الإنشاء" (الجملةُ التي لا تحتمل ذلك، كالأمر والاستفهام والنداء)، مع تحليل الأغراض البلاغية الثانوية التي قد يخرج إليها كلٌّ منهما عن معناه الأصلي (كالاستفهام الذي يفيد التوبيخَ لا طلبَ المعرفة الفعلية).
+## Key Principles
 
-## علاقتُه بنظرية النظم
+- Meaning is systematic: Similar utterances have related meanings
+- Meaning is compositional: Sentence meaning derives from parts
+- Meaning is context-dependent: Context affects interpretation
+- Meaning is negotiated: Speaker and listener collaborate on interpretation
 
-يُعدّ علمُ المعاني التطبيقَ الأكثر مباشرةً لنظرية الجرجاني في النظم: فكلُّ قواعده (التقديم والتأخير، الحذف والذكر، الوصل والفصل) أمثلةٌ ملموسة على مبدأ أن المعنى البلاغي يكمن في العلاقات النحوية بين عناصر الجملة، لا في الألفاظ المفردة بمعزلٍ عن سياقها التركيبي.
+## Evidence Sources
 
-## المصادر
+Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
 
-- السكّاكي، يوسف بن أبي بكر (القرن السابع الهجري). *مفتاح العلوم*.
-- Larkin, Margaret (1995). *The Theology of Meaning: 'Abd al-Qahir al-Jurjani's Theory of Discourse*. American Oriental Society.
+## Contemporary Applications
+
+Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+
+## References
+
+- Lyons, J. (1977). *Semantics*. Cambridge University Press.
+- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+

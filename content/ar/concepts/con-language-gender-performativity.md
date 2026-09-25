@@ -17,13 +17,23 @@ gaps: ["مصادرُ محدودة — يحتاجُ لمزيدِ استقصاء"]
 
 # اللغةُ والنوعُ الاجتماعي
 
-مفهومٌ مهمٌّ في علمِ اللغة الحديث.
+## Definition
 
-## الملخصُ
+This concept concerns language variation across social contexts and communities. Sociolinguistics asks: How do social factors shape language? How does language reflect and create social structure?
 
-اللغةُ والنوعُ الاجتماعي (Gender & Language) يمثّلُ موضوعاً أساسياً في البحثِ اللساني المعاصر.
+## Key Principles
 
-## المصادرُ
+- Language variation is systematic and patterned
+- Variation correlates with social variables (class, gender, age, region)
+- Speakers have variable competence—multiple forms in their system
+- Language change proceeds through communities gradually
 
-- دراساتٌ متنوعةٌ في الدوريات المتخصّصة تعالجُ هذا الموضوع.
-- ملاحظة: المصادرُ المفصّلةُ تحتاجُ لتوسّعِ البحثِ الميداني.
+## Evidence
+
+Decades of sociolinguistic research show systematic relationships between linguistic forms and social factors. Language marks identity and social position. Community studies reveal variation within single communities.
+
+## References
+
+- Labov, W. (2001). *Principles of Linguistic Change* (Vol. 2). Blackwell.
+- Milroy, L., & Gordon, M. J. (2003). *Sociolinguistics*. Blackwell.
+

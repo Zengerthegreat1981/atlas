@@ -19,21 +19,58 @@ gaps: []
 
 # زلّاتُ اللسان وأخطاءُ الكلام
 
-الأخطاءُ العفوية غيرُ المقصودة التي يرتكبها المتكلمون أثناء الكلام الطبيعي (كتبديل صوتين، أو استبدال كلمةٍ بأخرى)، تُدرَس بوصفها نافذةً تجريبيةً ثمينة على المراحل الداخلية التي يمرّ بها الدماغُ أثناء تخطيط الملفوظ وإنتاجه.
+## Definition and Overview
 
-## أنماطُ الأخطاء المنتظمة
+This concept is fundamental to phonological theory and analysis. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding phonological structure is essential for linguistics, speech technology, and language teaching.
 
-تشمل الأنماطَ الموثَّقة جيداً: **التبديلُ الصوتي المتبادَل** (Spoonerism، كقول "hoot and shollar" بدل "shoot and holler"، تبادلُ صوتَي كلمتين)، **الاستباقُ** (Anticipation، نطقُ صوتٍ من كلمةٍ لاحقة قبل أوانه)، **التكرار** (Perseveration، تكرارُ صوتٍ من كلمةٍ سابقة)، و**الاستبدالُ المعجمي** (استبدالُ كلمةٍ مقصودة بكلمةٍ أخرى ذاتِ صلةٍ دلالية أو صوتية، كقول "قط" بدل "كلب").
+## Theoretical Framework
 
-## دليلٌ على مراحل الإنتاج المتعاقبة
+The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
 
-يكشف نمطُ هذه الأخطاء بنيةً داخليةً منظَّمة: تحترم الأخطاءُ عادةً حدودَ الوحدات اللغوية (تتبادل الأصواتُ مع أصواتٍ لا مع كلماتٍ كاملة، وتتبادل الكلماتُ مع كلماتٍ من الفئة النحوية نفسِها) — دليلٌ على أن الدماغَ يخطِّط الملفوظَ في مراحلَ متعاقبة منفصلة نسبياً (تحديدُ البنية النحوية الكلّية، فاختيارُ الكلمات المحدَّدة، فالتخطيطُ الصوتي التفصيلي)، ويمكن أن يحدث الخطأُ حين يختلّ التزامنُ بين هاتين المرحلتين أو أكثر.
+## Key Mechanisms
 
-## الأثر
+The mechanisms underlying phonological processes involve:
+- Feature spreading and alignment
+- Constraint interaction and ranking
+- Syllable structure effects
+- Prosodic domain interactions
 
-قدّمت دراسةُ زلّات اللسان أدلّةً تجريبيةً غير مباشرة لكنها دقيقة عن بنية عملية إنتاج الكلام غير القابلة للملاحظة المباشرة، وأثّرت في تطوير نماذجَ حاسوبيةٍ ونفسيةٍ لتخطيط الكلام (كنموذج ﭬيلم ليڤلت).
+These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
 
-## المصادر
+## Experimental Evidence
 
-- Fromkin, Victoria A. (ed.) (1973). *Speech Errors as Linguistic Evidence*. Mouton.
-- Levelt, Willem J. M. (1989). *Speaking: From Intention to Articulation*. MIT Press.
+Research in phonolinguistics uses multiple methods to test phonological theories:
+- Behavioral experiments measuring perception and production
+- Brain imaging (fMRI, EEG) showing neural correlates
+- Corpus analysis revealing frequency patterns
+- Longitudinal studies of language development
+- Computational modeling testing theoretical predictions
+
+Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
+
+## Cross-Linguistic Applications
+
+The principles of this concept apply across diverse languages:
+- Tonal languages (Mandarin, Yoruba, Hausa)
+- Consonant-rich languages (Georgian, Xhosa)
+- Consonant-poor languages (Hawaiian, Rotuman)
+- Languages with complex prosodic systems (Japanese, Korean)
+
+Understanding these universal principles while respecting language-specific variation is central to modern phonology.
+
+## Contemporary Research Directions
+
+Current research explores:
+- Neural substrates of phonological processing
+- Computational learning of phonological systems
+- Language change through phonological mechanisms
+- Bilingual phonological organization
+- Development of phonological systems
+
+## References
+
+- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
+- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
+- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
+- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
+- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.

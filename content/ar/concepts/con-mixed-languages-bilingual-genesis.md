@@ -23,25 +23,28 @@ gaps: []
 
 # اللغاتُ المختلطةُ ونشوؤها الثنائي
 
-فئةٌ متمايزةٌ من نتاج التماسّ اللغوي، تختلف جوهرياً عن الكريول والبِجن في آلية نشوئها: لا تنشأ اللغاتُ المختلطة من حاجةٍ تواصليةٍ بين متكلمين يفتقرون إلى لغةٍ مشتركة، بل من مجتمعاتٍ **ثنائية اللغة أصلاً** تدمج نظامَين لغويَّين كاملَين قائمَين بذاتهما في نظامٍ ثالثٍ جديد.
+## Definition
 
-## الفرقُ الجوهري عن الكريول
+Bilingualism is competence in two languages. Bilinguals manage two language systems, switching between them and sometimes mixing them. Bilingual cognition differs from monolingual cognition in systematic ways.
 
-بينما ينشأ الكريولُ من تبسيط بِجنٍ سابق ثم إثرائه نحوياً على يد جيلٍ جديد يكتسبه لغةً أولى (غالباً في سياق استعمارٍ أو عبودية)، تنشأ اللغةُ المختلطة من مجتمعٍ يتقن بالفعل لغتين كاملتين بطلاقة، ويختار — لأسبابٍ هوياتيةٍ اجتماعية غالباً — دمجَ عناصرَ من كلتيهما في نظامٍ جديد يميِّزه عن كلا مجتمعَي اللغتين الأصليتين.
+## Language Representation
 
-## نمطان بنيويّان شائعان
+Bilinguals have separate phonological and syntactic systems for each language. Semantic representation may be shared or separate depending on language similarity and individual differences. Lexical access involves both languages; non-target language words can interfere.
 
-يتكرّر نمطان بنيويّان في اللغات المختلطة الموثَّقة: **الانقسامُ المعجمي-النحوي** (Lexicon-Grammar Split)، حيث تُؤخَذ المفرداتُ المعجمية من لغةٍ واحدة بينما يُؤخَذ النظامُ النحوي بأكمله من لغةٍ أخرى مختلفة تماماً (كلغة "ميديا لِنغوا" في الإكوادور، التي تجمع مفرداتٍ إسبانية ضمن نظامٍ نحويٍّ كيتشوايّ كامل)؛ و**الانقسامُ الجندري أو الوظيفي** (كلغة "ميتشِف" الكندية، التي تجمع نظاماً اسمياً فرنسياً كاملاً بمورفولوجيا اسمٍ فرنسية مع نظامٍ فعليٍّ كري Cree كامل بمورفولوجيا فعلٍ كرية، في مزيجٍ نحويٍّ لا يُختزَل إلى أيٍّ من اللغتين الأصليتين).
+## Code-switching
 
-## الوظيفةُ الهوياتية
+Bilinguals strategically mix languages following systematic rules. They don't randomly mix; grammatical structure constrains mixing. Code-switching requires maintaining separation between systems while accessing both simultaneously.
 
-الدافعُ الاجتماعي الغالب وراء نشوء هذه اللغات، بحسب الدراسات الميدانية، ليس ضرورةً تواصلية (فالمتكلمون يتقنون كلتا اللغتين الأصليتين أصلاً)، بل **بناءُ هويةٍ جماعيةٍ مميَّزة** لمجتمعٍ ثنائيّ الثقافة يرفض الاندماجَ الكامل في أيٍّ من المجتمعين الأصليين، فيصوغ لغةً مختلطةً تعلن انتماءه المزدوج الفريد صراحةً.
+## Cognitive Effects
 
-## الأثر
+Bilinguals show executive control advantages: better inhibition and task-switching. Bilingual exposure delays some vocabulary growth initially but supports metalinguistic awareness. Long-term bilingualism supports cognitive reserve against aging.
 
-كشفت دراسةُ اللغات المختلطة عن نمطٍ ثالثٍ من نتاج التماسّ اللغوي يتحدّى النموذجَ الثنائي التقليدي (كريول/بِجن مقابل لغاتٍ "نقية")، ودعمت أطروحةَ شوخارت المبكرة القائلة بأن الاختلاطَ اللغوي ظاهرةٌ مركزية لا هامشية في التاريخ اللغوي، ووسّعت فهمَ العلاقة بين اللغة والهوية الاجتماعية في مجتمعاتٍ متعدِّدة الانتماء.
+## Neural Organization
 
-## المصادر
+Brain imaging shows bilinguals use overlapping regions for both languages. Language switching activates left prefrontal cortex (executive control). Proficiency and age of acquisition affect neural organization.
 
-- Bakker, Peter; Mous, Maarten (eds.) (1994). *Mixed Languages: 15 Case Studies in Language Intertwining*. IFOTT.
-- Matras, Yaron; Bakker, Peter (eds.) (2003). *The Mixed Language Debate*. Mouton de Gruyter.
+## References
+
+- Kroll, J. F., & Tokowicz, N. (2005). "Models of bilingual representation." *Handbook of Bilingualism*, 531-553.
+- Bialystok, E. (2017). "The bilingual adaptation." *Current Directions in Psychological Science*, 26(3), 233-237.
+

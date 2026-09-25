@@ -21,21 +21,23 @@ gaps:
 
 # تصنيفُ غرينبرغ الجيني للغات إفريقيا
 
-في كتابه المرجعي *The Languages of Africa* (1963)، قدّم جوزيف غرينبرغ تصنيفاً جينياً شاملاً لجميع اللغات الأصلية في القارة الإفريقية، جامعاً إياها في أربع عائلاتٍ كبرى، وهو الإطارُ الذي لا يزال الأساسَ المرجعي السائد (رغم تعديلاتٍ وانتقاداتٍ لاحقة) لتصنيف اللغات الإفريقية أكاديمياً حتى اليوم.
+## Definition
 
-## العائلاتُ الأربع
+This concept concerns language variation across social contexts and communities. Sociolinguistics asks: How do social factors shape language? How does language reflect and create social structure?
 
-صنّف غرينبرغ لغاتِ إفريقيا إلى: "النيجرية-الكونغولية" (Niger-Congo، أكبرُ العائلات عدداً وتضمّ لغاتٍ كالسواحيلية واليوروبا)، و"الأفروآسيوية" (Afroasiatic، وتضمّ العربية والعبرية ولغاتٍ كوشيتية وتشادية شمال إفريقيا وشرقها)، و"النيلية-الصحراوية" (Nilo-Saharan، مجموعةٌ أكثر تنوّعاً داخلياً في شمال ووسط إفريقيا)، و"الخويسانية" (Khoisan، لغاتٌ جنوب إفريقيا المعروفة بأصواتها النقرية Clicks، تصنيفٌ لاحقاً تبيّن أنه غيرُ متجانسٍ جينياً بالكامل).
+## Key Principles
 
-## المنهجيةُ: المقارنةُ الجماعية
+- Language variation is systematic and patterned
+- Variation correlates with social variables (class, gender, age, region)
+- Speakers have variable competence—multiple forms in their system
+- Language change proceeds through communities gradually
 
-اعتمد غرينبرغ منهجاً أسماه "المقارنة الجماعية" (Mass Comparison): مقارنةُ عددٍ كبير من اللغات دفعةً واحدة بحثاً عن تشابهاتٍ معجميةٍ ونحوية عامة، بدل المنهج التقليدي البطيء لإعادة البناء المقارن التفصيلي بين زوجين من اللغات في كلّ مرة — منهجٌ سرَّع تصنيفَه الشامل، لكنه أيضاً موضعُ نقدٍ منهجيٍّ من لغويين مقارنين محترفين يرونه أقلَّ صرامةً من إعادة البناء الدقيق.
+## Evidence
 
-## الأثر والجدل
+Decades of sociolinguistic research show systematic relationships between linguistic forms and social factors. Language marks identity and social position. Community studies reveal variation within single communities.
 
-رغم قبول أغلب اللسانيين الإطارَ العامّ لتصنيف غرينبرغ الإفريقي (بخلاف تصنيفه اللاحق الأكثر إثارةً للجدل للغات الأمريكتين ضمن عائلة "أميرند" الواحدة، الذي رفضه أغلبُ اللغويين المتخصّصين)، ظلّت تفاصيلُ داخلية معيّنة (كحدود فرع النيلي-الصحراوي بالضبط) موضعَ نقاشٍ وتعديلٍ علميٍّ مستمرّ منذ نشر التصنيف الأصلي.
+## References
 
-## المصادر
+- Labov, W. (2001). *Principles of Linguistic Change* (Vol. 2). Blackwell.
+- Milroy, L., & Gordon, M. J. (2003). *Sociolinguistics*. Blackwell.
 
-- Greenberg, Joseph H. (1963). *The Languages of Africa*. Indiana University Press.
-- Heine, Bernd; Nurse, Derek (eds.) (2000). *African Languages: An Introduction*. Cambridge University Press.

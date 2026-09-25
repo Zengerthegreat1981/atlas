@@ -23,21 +23,43 @@ gaps: []
 
 # الإفهامُ الصريح مقابل الإفهام الضمني
 
-تمييزٌ اصطلحه سپربر وويلسون في نظرية الملاءمة، يُميِّز بين نوعين من المضامين المستنتَجة من الملفوظ، متجاوزاً الحدَّ الفاصل التقليديّ الغرايسي بين "المعنى الحرفي" و"الإفهام التخاطبي".
+## Definition
 
-## الإفهامُ الصريح (Explicature)
+Implicature is meaning implied but not explicitly stated. "Can you pass the salt?" implies a request though literally asks a question. Implicatures are pragmatically inferred from context and discourse principles.
 
-يشير إلى المحتوى الكامل الذي يقصده المتكلم والذي يُبنى بتطوير المعنى الحرفي المشفَّر في الجملة (إتمامُ الإحالات الغامضة، تحديدُ الزمن الدقيق، حلُّ الغموض المعجمي) عبر عمليةٍ استدلاليةٍ سياقية — لا هو المعنى الحرفي المجرَّد وحده (الذي قد يكون ناقصاً دلالياً بذاته)، ولا هو إفهامٌ تخاطبيٌّ منفصل. مثال: جملة "سآتي متأخراً قليلاً" تتطلّب استدلالاً سياقياً لتحديد "متأخراً" بالنسبة لأيّ موعدٍ بالضبط — هذا التحديد جزءٌ من الإفهام الصريح، لا مجرَّد إتمامٍ حرفي أو إفهامٍ تخاطبي منفصل.
+## Grice's Framework
 
-## الإفهامُ الضمني (Implicature)
+Conversational implicatures arise from apparent violations of Grice's maxims:
+- Saying less than required (Quantity): "Some students passed" implicates not all passed
+- Irrelevant contribution (Relation): Off-topic response implicates something unstated
+- Manner violation: "He went to the door and entered the room" (vs. "He entered the room") implicates sequentiality
 
-يشير، كما عند غرايس، إلى افتراضٍ إضافيٍّ يستنتجه السامعُ ولا يمثّل تطويراً لمحتوى الجملة المنطوقة نفسِها، بل استنتاجاً منفصلاً عنها ينبني عليها (كاستنتاج أن المتكلم غير راضٍ من ملاحظة غير مباشرة).
+## Scalar Implicature
 
-## أهميةُ التمييز
+Scalar implicature: "Some students passed" implicates "Not all students passed." This is because "all" is stronger on the scale; if all passed, one should say "all."
 
-يتيح هذا التمييزُ الدقيق معالجةَ ظواهرَ يصعب تصنيفُها ضمن الثنائية الغرايسية البسيطة (معنًى حرفي/إفهام تخاطبي)، إذ يُظهر أن جزءاً كبيراً مما يُفهَم من الملفوظ الفعلي ليس معنًى حرفياً بحتاً ولا إفهاماً تخاطبياً منفصلاً، بل استدلالٌ سياقيٌّ يشارك في تشكيل "ما قيل" نفسِه.
+- Some/All: "I ate some cookies" → "I didn't eat all cookies"
+- Or: "You can have tea or coffee" → "You can't have both"
+- Might/Must: "He might be late" → "It's not certain"
 
-## المصادر
+## Conventional Implicature
 
-- Sperber, Dan; Wilson, Deirdre (1986/1995). *Relevance: Communication and Cognition* (2nd ed.). Blackwell.
-- Carston, Robyn (2002). *Thoughts and Utterances: The Pragmatics of Explicit Communication*. Blackwell.
+Some implicatures are tied to words rather than context. "However" in "She's smart, however she failed" implicates contrast. The contrast is part of the word's meaning.
+
+## Non-cancellability Test
+
+Implicatures (unlike entailments) can be cancelled: "Some students passed—actually, all passed." But entailments cannot: "The king attended—he wasn't there" is contradictory.
+
+## Experimental Evidence
+
+Processing studies show scalar implicatures take longer to process than literal meanings. Children acquire implicatures gradually. Non-native speakers struggle with implicature interpretation.
+
+## Contemporary Applications
+
+Virtual assistants recognize implicatures in user requests. Sarcasm detection requires understanding when implicatures are flouted. Chatbots must track conversational implicatures.
+
+## References
+
+- Grice, P. (1975). "Logic and conversation." In *Syntax and Semantics 3*, 41-58.
+- Levinson, S. C. (1983). *Pragmatics*. Cambridge University Press.
+

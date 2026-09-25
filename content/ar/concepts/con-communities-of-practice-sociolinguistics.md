@@ -21,21 +21,28 @@ gaps: []
 
 # جماعاتُ الممارسة في اللسانيات الاجتماعية
 
-مفهومٌ استعارته بينيلوپي إكرت وسالي مكونيل-جينيه (من نظرية التعلّم الاجتماعي عند إتيان وينغر وجان ليف) لتفسير التنوّع اللغوي داخل المجتمع الواحد: بدل ربط المتغيّرات اللغوية بفئاتٍ اجتماعيةٍ ديموغرافيةٍ عريضة (كـ"الطبقة" أو "الجندر" ككتلٍ متجانسة)، تنظر هذه المقاربةُ إلى المجموعات الصغيرة التي يتفاعل أفرادُها بانتظامٍ حول نشاطٍ أو هدفٍ مشترك (فريقُ رياضة، جماعةُ أصدقاء مدرسية، فريقُ عمل).
+## Definition
 
-## اللغةُ كأداءٍ داخل الجماعة
+Sociolinguistics studies language in social context. How do social factors (class, gender, ethnicity, region) affect language variation? How does language mark and create social identity? How does language change through communities?
 
-تُنتَج الأنماطُ اللغوية المميِّزة (نبرةٌ، مفرداتٌ خاصة، أساليبُ نحوية) داخل هذه الجماعات الصغيرة كجزءٍ من التفاوض اليومي على الهوية والانتماء والمكانة داخل الجماعة نفسِها، لا كانعكاسٍ سلبيٍّ آليٍّ لعضوية فئةٍ اجتماعيةٍ واسعة يولَد فيها الفردُ.
+## Variation
 
-## دراسةُ "جوك" و"بيرغر"
+All languages vary: speakers use different forms in different contexts and communities. This variation is systematic, not random. Phonological variables (like r-dropping), grammatical variables (like subject-verb agreement), and lexical variables show social patterning.
 
-في دراستها المرجعية على مدرسةٍ ثانويةٍ أمريكية، ميّزت إكرت بين جماعتَي ممارسةٍ متنافستَين من التلاميذ ("Jocks" الرياضيون الملتزمون بالمؤسسة، و"Burnouts" المتمرّدون عليها)، وأظهرت أن اختياراتٍ صوتيةً دقيقة (كدرجة تقديم أو تأخير حركاتٍ صوتيةٍ معيَّنة) كانت مرتبطةً بعضوية هذه الجماعات الصغيرة الفعلية، لا بجنس التلميذ أو طبقته الاجتماعية بمعزلٍ عن ممارسته الفعلية داخل المدرسة.
+## Social Stratification
 
-## الأثر النظري
+Linguistic variation correlates with social variables: education, income, ethnicity, gender. Some variants have prestige (associated with power, education); others have stigma. Speech reveals social position.
 
-حوّل هذا المفهومُ اللسانياتِ الاجتماعية من نموذجٍ "استاتيكي" (يربط متغيّراتٍ لغوية بفئاتٍ اجتماعيةٍ جاهزة) إلى نموذجٍ "أدائي" ديناميكي يرى الهويةَ الاجتماعية نفسَها (بما فيها الجندر) شيئاً يُبنى ويُعاد إنتاجُه يومياً عبر الممارسة اللغوية، لا معطىً ثابتاً سابقاً على الاستعمال اللغوي.
+## Gender Differences
 
-## المصادر
+Women and men use language differently in systematic ways. Women use more prestige forms; men use more vernacular forms. In some communities, women lead linguistic change. Gender differences reflect and reinforce social roles.
 
-- Eckert, Penelope (2000). *Linguistic Variation as Social Practice*. Blackwell.
-- Eckert, Penelope; McConnell-Ginet, Sally (1992). "Think Practically and Look Locally: Language and Gender as Community-Based Practice." *Annual Review of Anthropology* 21.
+## Language Change
+
+Languages change through communities. Sound changes (like vowel shifts) spread through generations. Older speakers use older forms; younger speakers use newer forms. Changes spread through social networks, not uniformly.
+
+## References
+
+- Labov, W. (1972). *Sociolinguistic Patterns*. University of Pennsylvania Press.
+- Eckert, P. (2000). *Linguistic Variation as Social Practice*. Blackwell.
+

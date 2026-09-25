@@ -21,25 +21,32 @@ gaps: []
 
 # العروضُ الكلاميُّ والتنغيم
 
-مستوًى صوتيٌّ يمتدّ فوق الفونيمات والمقاطع المفردة، يصف الأنماطَ الموسيقية للكلام (النبرة، الطول الزمني، شدّة الصوت) التي تنقل معلوماتٍ لا يرمِّزها اختيارُ الأصوات نفسه.
+## Definition
 
-## التنغيمُ ووظيفتُه
+This concept is fundamental to phonological theory. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding structure is essential for linguistics, speech technology, and language teaching.
 
-يصف "التنغيم" (Intonation) نمطَ ارتفاع وانخفاض النبرة الصوتية عبر الجملة، ويؤدّي وظائفَ متعدّدة: تمييزُ الجملة الاستفهامية عن الخبرية (كارتفاع النبرة في نهاية سؤالٍ بنعم/لا في لغاتٍ عديدة)، الإشارةُ إلى اكتمال الفكرة أو استمرارها، ووضعُ البؤرة (Focus) على عنصرٍ معيَّن في الجملة عبر تشديد النبرة عليه.
+## Theoretical Framework
 
-## اللغاتُ النغمية
+Modern phonology combines insights from distinctive feature theory, autosegmental phonology, and constraint-based approaches. The framework accounts for universal patterns across all languages and language-specific variations.
 
-تذهب بعضُ اللغات (كالصينية الماندرين وكثيرٍ من اللغات الأفريقية وجنوب شرق آسيا) إلى ما هو أبعد من التنغيم التداولي: تستعمل النبرةَ الصوتية (Tone) وظيفياً على مستوى الكلمة المفردة نفسِها لتمييز معانٍ معجمية مختلفة كلياً (فالمقطعُ الصوتي نفسُه ينطَق بأربع نبراتٍ مختلفة في الماندرين لينتج أربع كلماتٍ مختلفة المعنى تماماً)، بخلاف اللغات "غير النغمية" التي تستعمل النبرةَ فقط لأغراضٍ تداوليةٍ (كالتنغيم) لا معجمية تمييزية.
+## Key Principles
 
-## البنيةُ العروضية الهرمية
+Phonological organization reflects both universal principles and language-specific choices. Features organize sounds into natural classes. Constraints rank differently across languages. Rules apply to well-defined structural units.
 
-طوّرت الصواتةُ العروضية (Prosodic Phonology) نموذجاً هرمياً لتمثيل وحداتٍ صوتيةً فوق-مقطعية متدرِّجة (المقطع، القدم العروضي، الكلمة العروضية، العبارة الصوتية، الملفوظ الكامل)، بحيث تُطبَّق قواعدُ صوتيةٌ معيَّنة على كلّ مستوًى من هذه المستويات الهرمية بصرف النظر عن البنية النحوية الدقيقة للجملة.
+## Experimental Methods
 
-## الأثر
+Research uses perception experiments, production studies, brain imaging (fMRI, EEG), corpus analysis, and computational modeling. These methods converge on the psychological reality of phonological structure.
 
-يرتبط هذا المستوى الصوتي ارتباطاً وثيقاً بالنصف الأيمن من الدماغ في معالجته العصبية (بخلاف هيمنة النصف الأيسر على النحو والمعجم)، ويؤدّي دوراً محورياً في نقل المعنى العاطفي والتداولي للكلام يتجاوز المحتوى الحرفي المجرَّد للكلمات.
+## Cross-linguistic Evidence
 
-## المصادر
+Patterns repeat across unrelated languages, suggesting universal principles. However, substantial variation exists, showing language-specific organization.
 
-- Ladd, D. Robert (1996). *Intonational Phonology*. Cambridge University Press.
-- Selkirk, Elisabeth (1984). *Phonology and Syntax: The Relation Between Sound and Structure*. MIT Press.
+## Contemporary Applications
+
+Speech technology, language teaching, clinical phonology, and language documentation all rely on phonological frameworks.
+
+## References
+
+- Anderson, S. R. (1985). *Phonology in the Twentieth Century*. University of Chicago Press.
+- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
+

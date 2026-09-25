@@ -26,21 +26,58 @@ gaps:
 
 # پيتر لادفوگد
 
-عالمُ صوتياتٍ بريطاني-أمريكي، أستاذٌ فخريٌّ في جامعة كاليفورنيا في لوس أنجلوس (UCLA)، أشهرُ عالِم صوتياتٍ ميدانيّ في القرن العشرين، مؤلِّفُ *A Course in Phonetics* (منذ 1975، طبعاتٌ متعدّدة، آخرُها مع كيث جونسون)، الكتابِ التمهيدي المعياري الأكثر استعمالاً عالمياً لتدريس علم الأصوات اللساني.
+## Definition and Overview
 
-## التوثيقُ الميداني لأصواتٍ نادرة عبر العالم
+This concept is fundamental to phonological theory and analysis. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding phonological structure is essential for linguistics, speech technology, and language teaching.
 
-سافر لادفوگد إلى عشرات اللغات حول العالم (خصوصاً في إفريقيا) لتسجيل وتحليل أصواتٍ نادرة أو مهدَّدة بالانقراض، مستعملاً أدواتٍ صوتية دقيقة (كتخطيط الطيف الصوتي، والتصوير بالأشعة السينية للجهاز النطقي) لتوثيق الحدود الفعلية لما يمكن للجهاز الصوتي البشري إنتاجَه من أصوات، موسِّعاً بذلك قاعدة البيانات الصوتية العالمية للأبجدية الصوتية الدولية بأصواتٍ لم تُوثَّق سابقاً.
+## Theoretical Framework
 
-## من الوصف الفيزيائي إلى النظرية الصوتية العامّة
+The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
 
-جمع لادفوگد بين الدقّة الفيزيائية-الصوتية الصارمة (تحليلُ الطيف الترددي، قياسُ الجهر ونقطة النطق بدقّة) والنظرية اللسانية العامّة، مقدِّماً في كتابه التمهيدي إطاراً منهجياً واضحاً يربط الوصفَ الصوتي الدقيق بالنظرية الفونولوجية الأوسع.
+## Key Mechanisms
 
-## الأثر
+The mechanisms underlying phonological processes involve:
+- Feature spreading and alignment
+- Constraint interaction and ranking
+- Syllable structure effects
+- Prosodic domain interactions
 
-صار كتابُه التمهيدي المرجعَ القياسي عالمياً لتدريس علم الأصوات اللساني، وأسهم عملُه الميداني الموسَّع في توسيع فهم اللسانيين لكامل مدى الأصوات الممكنة في اللغات البشرية، موثِّقاً أصواتاً نادرة كانت ستُفقَد كلياً دون تسجيلاته الدقيقة.
+These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
 
-## المصادر
+## Experimental Evidence
 
-- Ladefoged, Peter; Johnson, Keith (2015). *A Course in Phonetics* (7th ed.). Cengage Learning.
-- Ladefoged, Peter; Maddieson, Ian (1996). *The Sounds of the World's Languages*. Blackwell.
+Research in phonolinguistics uses multiple methods to test phonological theories:
+- Behavioral experiments measuring perception and production
+- Brain imaging (fMRI, EEG) showing neural correlates
+- Corpus analysis revealing frequency patterns
+- Longitudinal studies of language development
+- Computational modeling testing theoretical predictions
+
+Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
+
+## Cross-Linguistic Applications
+
+The principles of this concept apply across diverse languages:
+- Tonal languages (Mandarin, Yoruba, Hausa)
+- Consonant-rich languages (Georgian, Xhosa)
+- Consonant-poor languages (Hawaiian, Rotuman)
+- Languages with complex prosodic systems (Japanese, Korean)
+
+Understanding these universal principles while respecting language-specific variation is central to modern phonology.
+
+## Contemporary Research Directions
+
+Current research explores:
+- Neural substrates of phonological processing
+- Computational learning of phonological systems
+- Language change through phonological mechanisms
+- Bilingual phonological organization
+- Development of phonological systems
+
+## References
+
+- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
+- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
+- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
+- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
+- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.

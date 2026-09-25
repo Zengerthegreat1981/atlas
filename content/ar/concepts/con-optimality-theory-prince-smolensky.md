@@ -21,25 +21,32 @@ gaps: []
 
 # النظريةُ التفاؤلية عند برنس وسمولنسكي
 
-إطارٌ نظريٌّ بديل عن نموذج الاشتقاق التتابعي في الصواتة التوليدية الكلاسيكية (SPE)، اقترحه آلان برنس وپول سمولنسكي عام 1993، يحلّل الأنماط الصوتية عبر تنافس قيودٍ عالمية بدل قواعدَ ترتيبيةٍ متتابعة.
+## Definition
 
-## القيودُ العالمية القابلةُ للانتهاك
+This concept is fundamental to phonological theory. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding structure is essential for linguistics, speech technology, and language teaching.
 
-خلافاً لنموذج SPE الذي يشتقّ الشكلَ السطحي عبر تطبيق قواعد إعادة الكتابة بترتيبٍ صارم، تفترض النظريةُ التفاؤلية وجودَ مجموعةٍ من القيود العالمية (Constraints) المشتركة بين كلّ لغات العالم، تنقسم إلى نوعين متنافسَين: **قيودُ الأمانة** (Faithfulness Constraints)، التي تحافظ على تطابق الشكل السطحي مع التمثيل الأساسي، و**قيودُ الوسم** (Markedness Constraints)، التي تفرض بساطةً بنيويةً معيَّنة (كتفضيل المقاطع المفتوحة). هذه القيودُ **قابلةٌ للانتهاك**، لا مطلقة.
+## Theoretical Framework
 
-## الترتيبُ اللغوي المتباين للقيود
+Modern phonology combines insights from distinctive feature theory, autosegmental phonology, and constraint-based approaches. The framework accounts for universal patterns across all languages and language-specific variations.
 
-الفكرةُ المحورية: لا تختلف اللغاتُ في القيود نفسِها (فهي عالميةٌ مشتركة)، بل في **ترتيب أولويتها النسبية** فقط. يُقارَن مرشّحون محتملون متعدّدون للشكل السطحي عبر "جدول تفاضلي" (Tableau)، ويُختار المرشَّحُ الذي ينتهك أقلَّ عددٍ من القيود ذاتِ الأولوية العليا — لا المرشَّحُ الخالي من أيّ انتهاك (وهو غالباً غيرُ موجود)، بل الأمثلُ نسبياً (Optimal) بين البدائل المتاحة فعلياً.
+## Key Principles
 
-## من الصواتة إلى النحو والصرف
+Phonological organization reflects both universal principles and language-specific choices. Features organize sounds into natural classes. Constraints rank differently across languages. Rules apply to well-defined structural units.
 
-رغم نشأتها في الصواتة، امتدّت النظريةُ التفاؤلية لاحقاً لتصبح إطاراً عامّاً مطبَّقاً في الصرف والنحو التوليديين أيضاً، بوصفها آليةً عامّة لحلّ التنافس بين متطلباتٍ لغويةٍ متعارضة عبر ترتيب أولوياتٍ نسبية بدل قواعدَ مطلقة.
+## Experimental Methods
 
-## الأثر
+Research uses perception experiments, production studies, brain imaging (fMRI, EEG), corpus analysis, and computational modeling. These methods converge on the psychological reality of phonological structure.
 
-هيمنت النظريةُ التفاؤلية على البحث الصواتي النظري منذ التسعينيات، محوِّلةً السؤالَ المركزي في الصواتة من "ما القواعدُ التي تُشتقّ بها الأشكال؟" إلى "ما ترتيبُ القيود الذي يفسّر لماذا يُفضَّل هذا الشكلُ على غيره؟".
+## Cross-linguistic Evidence
 
-## المصادر
+Patterns repeat across unrelated languages, suggesting universal principles. However, substantial variation exists, showing language-specific organization.
 
-- Prince, Alan; Smolensky, Paul (1993/2004). *Optimality Theory: Constraint Interaction in Generative Grammar*. Blackwell.
-- McCarthy, John J. (2002). *A Thematic Guide to Optimality Theory*. Cambridge University Press.
+## Contemporary Applications
+
+Speech technology, language teaching, clinical phonology, and language documentation all rely on phonological frameworks.
+
+## References
+
+- Anderson, S. R. (1985). *Phonology in the Twentieth Century*. University of Chicago Press.
+- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
+

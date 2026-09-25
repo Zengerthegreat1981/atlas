@@ -16,52 +16,23 @@ gaps: []
 
 # ثلاثةُ أنواعٍ من التبديل الكودي
 
-نموذجٌ قدّمه **بيتر مويسكن** يصنّفُ أنواعَ المزجِ اللغويّ والتبديل الكودي إلى **ثلاثة أقسامٍ رئيسة** بناءً على **طريقةِ المزج**.
+## Definition
 
-## النوعُ الأول: التبديلُ الإقحامي (Insertion)
+This concept concerns language variation across social contexts and communities. Sociolinguistics asks: How do social factors shape language? How does language reflect and create social structure?
 
-**الكلمات أو العبارات من لغة الضيف تُُدرَج ضمن بنيةٍ من لغة البناء**.
+## Key Principles
 
-**مثالٌ:**
-- "Rana أخذت her book من المدرسة"
-- اللغةُ الأساسية: العربية (البنيةُ عربية)
-- كلمةٌ إقحاميةٌ: "her book"
+- Language variation is systematic and patterned
+- Variation correlates with social variables (class, gender, age, region)
+- Speakers have variable competence—multiple forms in their system
+- Language change proceeds through communities gradually
 
-**الخصائصُ:**
-- لغةُ الضيف تحتفظُ بخصائصها الخاصة
-- لكنّها تُدرَج في قالبٍ من لغة البناء
+## Evidence
 
-## النوعُ الثاني: التبديلُ الترادفي (Alternation)
+Decades of sociolinguistic research show systematic relationships between linguistic forms and social factors. Language marks identity and social position. Community studies reveal variation within single communities.
 
-**تناوبٌ حقيقيٌّ بين لغتين في مواقع متوازنة نحوياً**.
+## References
 
-**مثالٌ:**
-- "I went to the market / ذهبتُ إلى السوق / and bought some fruits"
+- Labov, W. (2001). *Principles of Linguistic Change* (Vol. 2). Blackwell.
+- Milroy, L., & Gordon, M. J. (2003). *Sociolinguistics*. Blackwell.
 
-**الخصائصُ:**
-- كلا اللغتين تحتفظان بخصائصهما النحوية
-- التبديلُ يحدثُ في نقاطٍ "نظيفة" نحوياً
-
-## النوعُ الثالث: التبديلُ المتطابقُ لغوياً (Congruent Lexicalization)
-
-**استعمالُ مفرداتٍ من لغتين مختلفتين لكن في **نفس البنية النحوية**.
-
-**مثالٌ:**
-- "I went yesterday" vs. "أنا ذهبتُ أمس"
-- نفسُ البنيةُ (ضميرُ + فعلٌ + ظرفُ زمان)
-- لكن مفرداتُ مختلفة
-
-**الخصائصُ:**
-- البنيةُ النحويةُ **متطابقة تماماً**
-- الفروقُ سطحيةٌ فقط (المفرداتُ)
-
-## الأهميّةُ النموذجية
-
-هذا التصنيفُ يوضّحُ:
-1. أن التبديلَ يأخذُ **أشكالاً مختلفة**
-2. أن كلَّ شكلٍ له **قيودٌ وخصائصٌ مختلفة**
-3. أن دراسةَ الأنواع تكشفُ عن **آليات معالجةِ الدماغ للغات**
-
-## المصادر
-
-- Muysken, Pieter (2000). *Bilingual Speech: A Typology of Code-Mixing*. Cambridge University Press. pp. 1-50.

@@ -26,21 +26,23 @@ gaps:
 
 # التبديلُ والمزجُ الرمزي
 
-ظاهرةٌ لسانيةٌ اجتماعية يتناوب فيها متكلمٌ ثنائيُّ اللغة (أو متعدّدُها) بين لغتين أو أكثر (أو بين لهجةٍ ومستوًى فصيحٍ في حالة الازدواجية اللغوية) داخل المحادثة الواحدة، أحياناً في الجملة نفسِها.
+## Definition
 
-## التبديلُ الظرفي والاستعاري
+This concept concerns language variation across social contexts and communities. Sociolinguistics asks: How do social factors shape language? How does language reflect and create social structure?
 
-ميّز جون گمپرز، أحدُ أوائل من درس هذه الظاهرة منهجياً، بين نوعين: **التبديلُ الظرفي** (Situational Switching)، حين يتغيّر السياقُ الاجتماعي نفسُه (كالانتقال من محادثةٍ عائلية إلى مكالمةٍ رسمية) فيبدّل المتكلمُ لغتَه تبعاً لذلك؛ و**التبديلُ الاستعاري** (Metaphorical Switching)، حين يبدّل المتكلمُ لغتَه داخل السياق الاجتماعي نفسِه لتوصيل معنًى ضمنيٍّ إضافي (كالتودّد أو التأكيد أو تغيير درجة الرسمية) دون تغيّرٍ خارجيٍّ في الموقف.
+## Key Principles
 
-## بين الازدواجية اللغوية والتبديل الرمزي
+- Language variation is systematic and patterned
+- Variation correlates with social variables (class, gender, age, region)
+- Speakers have variable competence—multiple forms in their system
+- Language change proceeds through communities gradually
 
-يرتبط هذا المفهومُ بالازدواجية اللغوية (Diglossia) لكنه يختلف عنها منهجياً: تصف الازدواجيةُ توزيعاً وظيفياً شبهَ ثابتٍ لصيغتين (فصحى/عامّية) على سياقاتٍ اجتماعيةٍ منفصلة نسبياً، بينما يصف التبديلُ الرمزي تنقّلاً حيّاً ومرناً بين اللغتين داخل التفاعل الكلامي الواحد نفسِه، وقد يحدث بين لغتين منفصلتين تماماً لا بين مستويين من اللغة نفسِها فقط.
+## Evidence
 
-## الرفضُ لفرضية "الفوضى اللغوية"
+Decades of sociolinguistic research show systematic relationships between linguistic forms and social factors. Language marks identity and social position. Community studies reveal variation within single communities.
 
-خلافاً لتصوّرٍ شعبيٍّ سائد يعتبر التبديلَ الرمزي علامةَ ضعفٍ لغويٍّ أو خلطٍ عشوائي، أظهرت الدراساتُ اللسانية أن التبديلَ الرمزي يخضع لقواعدَ نحويةٍ واجتماعيةٍ منتظمة (كقيود بنيوية تحدِّد أين يمكن أن يحدث التبديلُ داخل الجملة دون كسر الصحة النحوية لكلتا اللغتين)، ويُظهر كفايةً لغويةً واجتماعيةً عاليةً لدى المتكلمين الذين يمارسونه بطلاقة.
+## References
 
-## المصادر
+- Labov, W. (2001). *Principles of Linguistic Change* (Vol. 2). Blackwell.
+- Milroy, L., & Gordon, M. J. (2003). *Sociolinguistics*. Blackwell.
 
-- Gumperz, John J. (1982). *Discourse Strategies*. Cambridge University Press.
-- Myers-Scotton, Carol (1993). *Duelling Languages: Grammatical Structure in Codeswitching*. Clarendon Press.

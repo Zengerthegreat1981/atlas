@@ -27,20 +27,43 @@ gaps: []
 
 # التداولية (Pragmatics)
 
-الكتابُ المرجعي المعياري لستيفن ليفنسون (1983)، صار لعقودٍ طويلة النصَّ التمهيدي الأكثر استعمالاً لتدريس التداولية اللغوية أكاديمياً، ويقدّم عرضاً منهجياً شاملاً لموضوعات الحقل الأساسية: الإشارية (Deixis)، والإفهامُ التخاطبي، وأفعالُ الكلام، والبنيةُ المحادثية.
+## Definition
 
-## تنظيمٌ منهجي شامل للحقل
+Pragmatics studies how context affects meaning. "Can you pass the salt?" is literally a question about ability but pragmatically a request. Pragmatics explains why speakers say what they say and how listeners infer unstated meanings.
 
-يغطّي الكتابُ بمنهجيةٍ دقيقة الموضوعاتِ المؤسِّسة للتداولية: الإشاريةَ الشخصية والزمانية والمكانية (كيف تعتمد كلماتٌ مثل "أنا" و"هنا" و"الآن" على سياق التلفّظ لتحديد إحالتها)، ونظريةَ الإفهام التخاطبي الغرايسية بتفصيلٍ نقدي، وأفعالَ الكلام عند أوستن وسورل، والبنيةَ التبادلية للمحادثة الطبيعية.
+## Grice's Theory
 
-## نحو نيوغرايسية
+Paul Grice identified four conversational maxims speakers follow:
+- Quantity: Be informative without being excessive
+- Quality: Be truthful and warranted
+- Relevance: Stay on topic
+- Manner: Be clear and brief
 
-إلى جانب عرضه التمهيدي، أسهم ليفنسون في هذا الكتاب بتطويرٍ نقديٍّ مبكِّر لقواعد غرايس، مهّد لاحقاً لصياغته المبادئَ النيوغرايسية الثلاثة (Q/I/M) في عمله اللاحق *Presumptive Meanings* (2000)، بوصفها إعادة تنظيمٍ أكثرَ اقتصاداً لقواعد غرايس الأربع الأصلية.
+Flouting these maxims creates implicature—meaning inferred from the violation.
 
-## الأثر
+## Speech Acts
 
-صار هذا الكتابُ النصَّ المرجعي القياسي الذي تعلّم منه جيلٌ كامل من اللغويين أسسَ التداولية، ولا يزال يُستشهَد به على نطاقٍ واسع في الأدبيات التداولية المعاصرة رغم مرور عقود على نشره.
+Utterances perform actions (Austin, Searle):
+- Locutionary: The words uttered
+- Illocutionary: The action performed (promising, requesting, commanding)
+- Perlocutionary: The effect on listener
 
-## المصادر
+"I promise to return the book" is a performative—the utterance creates an obligation.
 
-- Levinson, Stephen C. (1983). *Pragmatics*. Cambridge University Press.
+## Politeness Strategies
+
+Brown & Levinson describe face-threatening acts and politeness strategies. Directness threatens negative face (freedom); indirectness preserves it. "Could you possibly help?" is indirect; "Help!" is direct.
+
+## Presupposition
+
+Presuppositions are background assumptions speakers treat as shared knowledge. "When did you stop smoking?" presupposes you smoked. If the presupposition is false, the sentence is odd, not false.
+
+## Contemporary Applications
+
+Virtual assistants must handle pragmatic requests: "Is there coffee?" might request coffee. Dialog systems track what has been established. Machine translation must preserve pragmatic force.
+
+## References
+
+- Grice, P. (1975). "Logic and conversation." In *Syntax and Semantics 3*, 41-58.
+- Austin, J. L. (1962). *How to Do Things with Words*. Oxford University Press.
+

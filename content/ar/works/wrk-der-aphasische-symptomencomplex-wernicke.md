@@ -24,21 +24,23 @@ gaps: []
 
 # المركَّبُ العرضيُّ للحُبسة (Der Aphasische Symptomencomplex)
 
-الأطروحةُ التأسيسية التي نشرها كارل فيرنيكه عام 1874، وهو لا يزال طبيباً شاباً في السادسة والعشرين، قدّم فيها أوّلَ توصيفٍ منهجيٍّ لنمطٍ من الحُبسة يختلف جوهرياً عن حبسة بروكا المعروفة سابقاً، مؤسِّساً بذلك ثنائيةَ التوطين اللغوي الدماغي التي هيمنت على علم اللغة العصبي لعقودٍ لاحقة.
+## Definition
 
-## اكتشافُ منطقةٍ لغويةٍ ثانية
+This concept is central to understanding language at the cognitive and neural level. How do brains process language? How does cognition shape language structure? These questions bridge linguistics and neuroscience.
 
-أظهر فيرنيكه، عبر دراسة حالاتٍ سريرية دقيقة، أن تلفَ منطقةٍ محدَّدة في الفصّ الصُّدغي الخلفي من نصف الكرة الأيسر (لا منطقةُ بروكا الأمامية) ينتج نمطاً مختلفاً تماماً من الحُبسة: كلامٌ طليقٌ نحوياً لكنه فارغُ المعنى غالباً، مصحوبٌ بعجزٍ حادٍّ في فهم الكلام المسموع — نقيضُ حبسة بروكا (كلامٌ متقطِّعٌ صعبٌ لكن الفهمُ نسبياً سليم).
+## Key Principles
 
-## الأطروحةُ النظرية: نموذجُ الربط العصبي
+- Language involves distributed brain networks
+- Cognitive processes are embodied (grounded in perception and action)
+- Language learning involves neural plasticity
+- Individual and group differences affect language abilities
 
-لم يكتفِ فيرنيكه بالوصف السريري، بل اقترح نموذجاً نظرياً يربط بين منطقته المكتشَفة حديثاً ومنطقة بروكا عبر مسارٍ عصبيٍّ رابط، متنبِّئاً بوجود نمطٍ ثالثٍ من الحُبسة (حبسةُ التوصيل) قد ينتج عن تلف الرابط نفسِه دون تلف أيٍّ من المنطقتين — تنبؤٌ نظريٌّ أكَّدته الملاحظاتُ السريرية اللاحقة.
+## Evidence
 
-## الأثر
+Brain imaging shows language activates networks beyond traditional language areas. Cognitive studies reveal systematic patterns in how people process and produce language. Developmental and clinical studies show how neural differences affect language.
 
-أسّس هذا العملُ، إلى جانب اكتشاف بروكا السابق (1861)، الثنائيةَ الكلاسيكية التي قامت عليها منظومةُ علم اللغة العصبي بأكملها، ومهَّد لتطوير النموذج التخطيطي الأوسع (بروكا-فيرنيكه-ليختهايم) الذي وسّع لاحقاً هذه الثنائيةَ إلى شبكةٍ من المناطق والمسارات المترابطة.
+## References
 
-## المصادر
+- Kemmerer, D. (2012). *Psychology of Language*. Springer.
+- Friederici, A. D. (2011). "The brain basis of language processing." *Annual Review of Neuroscience*, 34.
 
-- Wernicke, Carl (1874). *Der aphasische Symptomencomplex: Eine psychologische Studie auf anatomischer Basis*. Cohn & Weigert.
-- Eggert, Gertrude H. (trans. & ed., 1977). *Wernicke's Works on Aphasia: A Sourcebook and Review*. Mouton.

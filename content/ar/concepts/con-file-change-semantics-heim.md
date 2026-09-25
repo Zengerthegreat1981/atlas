@@ -21,25 +21,35 @@ gaps: []
 
 # دلالةُ تغيير الملفّ عند هايم
 
-إطارٌ دلاليٌّ صاغته إيرين هايم (1982) لحلّ مشكلة الرجوع الضميري العابر لحدود الجملة إلى نكراتٍ (Indefinites) سابقة، عبر إعادة تصوّر معنى الملفوظ بوصفه فعلاً ديناميكياً لا قيمةَ صدقٍ ثابتة.
+## Definition
 
-## المشكلةُ: كيف يرتبط الضمير بنكرةٍ في جملةٍ سابقة؟
+Semantics studies meaning in language. How do words and sentences refer to the world? How do speakers and listeners derive meaning? Semantics differs from phonetics (sound study) and syntax (structure study) by focusing on meaning-world relationships.
 
-في تسلسلٍ كـ"دخل رجلٌ الغرفة. جلس."، يرتبط الضميرُ "جلس" بـ"رجلٍ" رغم أن التحليل المنطقي الكلاسيكي يعامل "رجلاً" كمّيةً وجودية (∃x) لا يمتدّ نطاقُ ارتباطها المنطقي عادةً خارج الجملة التي وردت فيها — فكيف يتحقّق هذا الرجوعُ عبر حدود الجملة؟
+## Theoretical Approaches
 
-## الملفُّ الذهني وبطاقاتُه
+Formal semantics (Montague, Frege) treats meaning compositionally: sentence meanings derive from word meanings and syntactic structure. Cognitive semantics (Lakoff) emphasizes embodied meaning shaped by how we experience the world. Pragmatic approaches add context dependence—meaning depends on speaker intention and listener inference.
 
-تتصوّر هايم معنى المحادثة بوصفه **ملفّاً** (File) ذهنياً يتراكم ويتحدَّث تدريجياً جملةً بعد جملة: كلُّ نكرةٍ جديدة تظهر في الخطاب **تفتح بطاقةً** جديدة في هذا الملفّ، تُسجَّل فيها المعلوماتُ التي تُعرَف عن ذلك المرجع تباعاً (كـ"رجل"، ثم "جلس" في الجملة التالية)، بحيث يشير كلُّ ضميرٍ لاحق إلى إحدى البطاقات المفتوحة سابقاً في الملفّ، لا إلى كمّيةٍ منطقية محدودة النطاق داخل جملتها الأصلية فقط.
+## Core Concepts
 
-## المعنى فعلٌ لا قيمةَ صدق
+- Reference: What does a word refer to?
+- Sense: How does a word relate to other words?
+- Entailment: What must be true if a statement is true?
+- Presupposition: What background assumptions does a statement carry?
 
-الأطروحةُ الجوهرية الأعمق: معنى الجملة، في هذا الإطار، ليس مجرّد قيمة صدقٍ (صحيح/خطأ) ثابتة، بل **دالّةٌ ديناميكية** تُحدِّث حالةَ السياق التخاطبي (الملفّ) من حالةٍ سابقة إلى حالةٍ لاحقة — تحوّلٌ منهجيٌّ عن الدلالة الصورية الكلاسيكية القائمة على المنطق الأرسطي الساكن.
+## Mechanisms
 
-## الأثر: الدلاليةُ الديناميكية
+Meaning composition: "The dog chased the cat" means the same referent of "the dog" performed the action "chased" on the referent of "the cat." Extensions (what terms refer to) and intensions (abstract meanings) interact in deriving sentence meanings.
 
-مهّد هذا الإطارُ الطريقَ لحقلٍ أوسع يُسمّى "الدلاليةَ الديناميكية" (Dynamic Semantics، بما فيها منطقُ التمثيل الخطابي Discourse Representation Theory عند هانس كامپ)، التي تعامل المعنى بوصفه تحديثاً تدريجياً مستمرّاً للسياق عبر الخطاب بأكمله، لا خاصيةً معزولة لكل جملة، وأثّرت عميقاً في معالجة ظواهرَ دلاليةٍ متعدّدة تتجاوز حدود الجملة الواحدة كالافتراض المسبَق والإحالة الضميرية المعقَّدة.
+## Cross-linguistic Evidence
 
-## المصادر
+Languages map meanings to forms differently. English "blue" covers colors distinguished in Russian (goluboy vs. siniy). Some languages lack count/mass distinction English marks with "a." These differences show how languages carve up semantic space.
 
-- Heim, Irene (1982). *The Semantics of Definite and Indefinite Noun Phrases* (PhD dissertation). University of Massachusetts Amherst.
-- Heim, Irene; Kratzer, Angelika (1998). *Semantics in Generative Grammar*. Blackwell.
+## Contemporary Applications
+
+Machine translation, question-answering, and dialog systems all rely on semantic frameworks. Understanding when "bank" means financial institution versus river bank requires semantic knowledge.
+
+## References
+
+- Frege, G. (1892). "Über Sinn und Bedeutung." *Zeitschrift für Philosophie und philosophische Kritik*, 100, 25-50.
+- Montague, R. (1974). *Formal Philosophy*. Yale University Press.
+

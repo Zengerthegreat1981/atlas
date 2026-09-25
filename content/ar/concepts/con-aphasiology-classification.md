@@ -26,21 +26,23 @@ gaps:
 
 # تصنيفُ الحُبسة اللغوية
 
-الإطارُ التصنيفي الذي يوحِّد فهمَ اضطرابات اللغة المكتسَبة (الحُبسة، Aphasia) الناتجة عن إصاباتٍ دماغية، بوصفها نافذةً تجريبية على كيفية تنظيم مكوّنات اللغة المختلفة (الإنتاج، الفهم، التكرار، التسمية) في الدماغ.
+## Definition
 
-## من نموذجٍ ثنائي إلى تصنيفٍ متعدّد
+This concept concerns language variation across social contexts and communities. Sociolinguistics asks: How do social factors shape language? How does language reflect and create social structure?
 
-انطلق التصنيفُ من الثنائية الكلاسيكية بين حبسة بروكا (خللٌ في الإنتاج مع سلامة الفهم نسبياً) وحبسة فيرنيكه (خللٌ في الفهم مع طلاقةٍ إنتاجية فارغة من المعنى)، لكن الملاحظةَ الإكلينيكية الدقيقة كشفت أنماطاً إضافية لا يفسّرها هذان النمطان وحدهما، فوسَّع كارل ليختهايم النموذجَ ليشمل حالاتٍ إضافية.
+## Key Principles
 
-## الأنماطُ الإضافية
+- Language variation is systematic and patterned
+- Variation correlates with social variables (class, gender, age, region)
+- Speakers have variable competence—multiple forms in their system
+- Language change proceeds through communities gradually
 
-تشمل الحبسةُ التوصيلية (Conduction Aphasia) عجزاً مميَّزاً في التكرار اللفظي المباشر مع سلامةٍ نسبية في الفهم والإنتاج التلقائي، ما فُسِّر بتلفٍ في المسار العصبي الرابط بين منطقتي بروكا وفيرنيكه لا في أيٍّ منهما مباشرة. أما الحبسةُ الشاملة (Global Aphasia) فتصف تلفاً واسعاً يطال الإنتاجَ والفهمَ معاً بشدّة. والحبسةُ التسمويةُ (Anomic Aphasia)، أخفُّ الأنماط عادةً، تصف عجزاً محدَّداً في استرجاع أسماء الأشياء (ظاهرةُ "على طرف اللسان" المرضية) مع سلامة عامّة في بقية جوانب اللغة.
+## Evidence
 
-## القيمةُ النظرية
+Decades of sociolinguistic research show systematic relationships between linguistic forms and social factors. Language marks identity and social position. Community studies reveal variation within single communities.
 
-يقدّم هذا التصنيفُ دليلاً تجريبياً على أن اللغةَ ليست وظيفةً دماغيةً موحَّدة، بل شبكةٌ من مكوّناتٍ فرعية (إنتاج، فهم، تكرار، تسمية) قابلةٍ للتلف كلٍّ على حدة بأنماطٍ يمكن التنبّؤ بها من موقع الإصابة — دليلٌ محوريٌّ في تأسيس علم اللغة العصبي بوصفه حقلاً تجريبياً.
+## References
 
-## المصادر
+- Labov, W. (2001). *Principles of Linguistic Change* (Vol. 2). Blackwell.
+- Milroy, L., & Gordon, M. J. (2003). *Sociolinguistics*. Blackwell.
 
-- Goodglass, Harold; Kaplan, Edith (1972). *The Assessment of Aphasia and Related Disorders*. Lea & Febiger.
-- Damasio, Antonio R. (1992). "Aphasia." *New England Journal of Medicine* 326(8).
