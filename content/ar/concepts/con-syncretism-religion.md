@@ -16,7 +16,7 @@ gaps: []
 
 # التمازجُ الدينيّ (Syncretism)
 
-Blending of religious traditions; fusion of indigenous and colonial religious practices in many postcolonial contexts
+مزجُ التقاليد الدينية؛ اندماجُ الممارسات الدينية الأصلية بالممارسات الاستعمارية في كثيرٍ من السياقات ما بعد الاستعمارية.
 
 ## السياقُ والأصول
 [تفاصيل قريباً]

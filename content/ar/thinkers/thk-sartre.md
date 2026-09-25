@@ -12,9 +12,9 @@ active_end: 1980
 language: "الفرنسية"
 country: "فرنسا"
 part: "philosophy"
-edges:
+edges: []
 - rel: "belongs_to", target: "sch-existentialism", target_type: "مدرسة"
-related:
+related: []
 - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
 - id: "thk-beauvoir", title: "سيمون دي بوفوار", type: "مفكر"
 - id: "sch-existentialism-atheist", title: "الوجودية الملحدة (Atheist Existentialism)", type: "مدرسة"
@@ -24,7 +24,6 @@ related:
 - id: "thk-levinas", title: "إيمانويل ليفيناس", type: "مفكر"
 - id: "thk-aron", title: "ريمون آرون", type: "مفكر"
 - id: "thk-wahl", title: "جان فال", type: "مفكر"
-- id: "thk-delahorbe", title: "أوجين دي لا هورب", type: "مفكر"
 - id: "thk-bakewell", title: "سارة بيكويل", type: "مفكر"
 - id: "thk-basaglia", title: "فرانكو بازاليا", type: "مفكر"
 - id: "thk-cannon", title: "بيتي كانون", type: "مفكر"

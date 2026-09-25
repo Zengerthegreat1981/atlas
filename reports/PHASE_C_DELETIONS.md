@@ -705,3 +705,7 @@ Repointed every `related`/`edges`/`primary_school` reference across `content/ar`
 ### Checker
 
 `python3 scripts/check_content_integrity.py --lang ar`: **فُحص 12811 ملفاً من 12811. ✅ سليم — لا مشكلات.** (12,811 files checked, 0 problems. One transient failure was observed mid-run — a dangling reference to `energy-transition-anthropology-related-placeholder` — caused by a concurrent session actively editing `schools/energy-transition-anthropology.md` at the same time; it resolved itself on the next run once that session's edit landed, and was not caused by this round's work.)
+
+
+## Round 6 (pre-launch)
+Deleted as unverifiable or fabricated after WebSearch by round-5 agents: bioweapon-ban-treaty, bounlang-sisouphone, thk-delahorbe, thk-kmurah, thk-rcukierman, thk-rpimenta, thk-timothy-verduin. thk-kmurah was an aggregate placeholder listing 16 organizations, not a person. Links to them removed in 5 files.

@@ -16,7 +16,7 @@ gaps: []
 
 # التقليدُ المخترَع (Invented Tradition)
 
-Hobsbawm & Ranger concept: traditions presented as ancient often recently created; power of claiming authenticity
+مفهومٌ صاغه هوبزباوم ورينجر (Hobsbawm & Ranger): تقاليدُ تُعرَض على أنها قديمة، وإن كانت في كثيرٍ من الأحيان حديثةَ النشأة؛ وسلطةُ ادّعاء الأصالة.
 
 ## السياقُ والأصول
 [تفاصيل قريباً]

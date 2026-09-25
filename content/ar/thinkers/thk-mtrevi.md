@@ -12,10 +12,9 @@ language: "الإيطالية"
 active_start: 1920
 active_end: 2008
 part: "psychology"
-edges:
+edges: []
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-related:
-- id: "thk-rpimenta", title: "ريكاردو بيمينتا", type: "مفكر"
+related: []
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-zoja", title: "لويجي تسويا", type: "مفكر"
 gaps:

@@ -12,13 +12,12 @@ language: "الإنجليزية"
 part: "psychology"
 active_start: 1903
 active_end: 2007
-edges:
+edges: []
 - rel: "belongs_to", target: "sch-psychoanalysis", target_type: "مدرسة"
-related:
+related: []
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
 - id: "thk-jwheelwright", title: "جوزيف ب. ويلرايت", type: "مفكر"
 - id: "con-cultural-unconscious", title: "اللاوعي الثقافي", type: "مفهوم"
-- id: "thk-kmurah", title: "[مؤسِّسو SFJA / ISAP / NYAAP / JPA / IRSJA / PCSJA / CSJA / DSJA / GAJA / JAWA / NCSJA / NMSJA / OVAJA / PAJA / PNSJA / PSJA]", type: "مفكر"
 gaps:
   - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."
   - "لا يوجد اقتباس مباشر موثوق من *The Wisdom of the Serpent* (1963) بترجمة عربية معتمدة."

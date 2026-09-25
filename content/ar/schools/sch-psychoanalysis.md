@@ -13,7 +13,7 @@ language: "الألمانية، الإنجليزية، الفرنسية"
 cultural_origin: "european"
 active_start: 1896
 active_end: "مستمر"
-edges:
+edges: []
 - rel: "split_into", target: "br-classical-psychoanalysis", target_type: "تيار"
 - rel: "split_into", target: "br-jungian", target_type: "تيار"
 - rel: "split_into", target: "br-adlerian", target_type: "تيار"
@@ -22,7 +22,7 @@ edges:
 - rel: "split_into", target: "br-lacanian", target_type: "تيار"
 - rel: "split_into", target: "br-relational-psychoanalysis", target_type: "تيار"
 - rel: "split_into", target: "br-child-psychoanalysis", target_type: "تيار"
-related:
+related: []
 - id: "evt-egaz-moniz-nobel-lobotomy-1949", title: "منح إيغاس مونيز جائزة نوبل لجراحة الفص الجبهي وصعود وحظر اللوبوتومي", type: "حدث تاريخي"
 - id: "evt-founding-of-al-azhar-970", title: "تأسيس الجامع الأزهر في القاهرة الفاطمية (970 م)", type: "حدث تاريخي"
 - id: "thk-jung", title: "كارل غوستاف يونغ", type: "مفكر"
@@ -47,7 +47,6 @@ related:
 - id: "thk-bernfeld", title: "سيغفريد بيرنفيلد", type: "مفكر"
 - id: "thk-marodriguez", title: "ميغيل أنخيل رودريغيث", type: "مفكر"
 - id: "thk-mlemlij", title: "مويسيس لِمْلِخ", type: "مفكر"
-- id: "thk-rcukierman", title: "روخِريو كوكيَرمان", type: "مفكر"
 - id: "thk-reshetnikov", title: "ميخائيل ريشيتنيكوف", type: "مفكر"
 - id: "thk-tshibuya", title: "تاكيشي شيبويا", type: "مفكر"
 - id: "thk-burlingham", title: "دوروثي بيرلينغهام", type: "مفكر"
