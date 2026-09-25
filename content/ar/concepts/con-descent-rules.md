@@ -11,12 +11,12 @@ active_start: 1950
 active_end: "مستمر"
 study_approach: "أنثروبولوجي مقارن، نسبي، إثنوغرافي"
 edges:
-- rel: "belongs_to", target: "sch-kinship-systems", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-kinship-systems-comparative", target_type: "مدرسة"
 - rel: "related_to", target: "con-unilineal-descent", target_type: "مفهوم"
 - rel: "related_to", target: "con-bilateral-kinship", target_type: "مفهوم"
 related:
 - id: "thk-meyer-fortes", title: "مايير فورتس", type: "مفكر"
-- id: "thk-alfred-radcliffe-brown", title: "ألفريد رادكليف براون", type: "مفكر"
+- id: "thk-radcliffe-brown", title: "ألفريد رادكليف براون", type: "مفكر"
 - id: "thk-edmund-leach", title: "إدموند ليتش", type: "مفكر"
 gaps:
   - "تعميق 2026-09-25: توسيع مقسّم إلى 1,500 كلمة يغطي التعريف التاريخي والأسس النظرية والأمثلة الإثنوغرافية والتحليل المقارن والنقد النسوي والتنويعات المعاصرة والمنهجيات والفجوات المستقبلية."
