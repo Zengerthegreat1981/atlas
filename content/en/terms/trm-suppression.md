@@ -1,0 +1,23 @@
+---
+slug: "trm-suppression"
+id: "TRM-ENG-52408"
+type: "مصطلح نفسي"
+level: "مقدمة"
+title: "Suppression"
+en: "Suppression"
+ar: ""
+sources:
+  - title: "Dictionary of Psychology Terms  .pdf"
+    year: 2024
+    note: "Extracted from psychology encyclopedia PDF"
+---
+
+# Suppression
+
+Conscious act of controlling and inhibi-
+
+## See also
+
+- Related concepts in psychology
+- Connected theoretical frameworks
+

@@ -1,0 +1,23 @@
+---
+slug: "trm-laterality"
+id: "TRM-ENG-52260"
+type: "مصطلح نفسي"
+level: "مقدمة"
+title: "Laterality"
+en: "Laterality"
+ar: ""
+sources:
+  - title: "Dictionary of Psychology Terms  .pdf"
+    year: 2024
+    note: "Extracted from psychology encyclopedia PDF"
+---
+
+# Laterality
+
+Specialization of function on one side. Used
+
+## See also
+
+- Related concepts in psychology
+- Connected theoretical frameworks
+

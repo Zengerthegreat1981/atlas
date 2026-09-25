@@ -1,0 +1,23 @@
+---
+slug: "trm-modelling"
+id: "TRM-ENG-52288"
+type: "مصطلح نفسي"
+level: "مقدمة"
+title: "Modelling"
+en: "Modelling"
+ar: ""
+sources:
+  - title: "Dictionary of Psychology Terms  .pdf"
+    year: 2024
+    note: "Extracted from psychology encyclopedia PDF"
+---
+
+# Modelling
+
+Providing an example which can be limited,
+
+## See also
+
+- Related concepts in psychology
+- Connected theoretical frameworks
+
