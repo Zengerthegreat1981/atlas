@@ -17,58 +17,32 @@ gaps: ["مصادرُ محدودة — يحتاجُ لمزيدِ استقصاء"]
 
 # اكتسابُ نظمِ النغمِ عند الأطفالِ
 
-## Definition and Overview
+## Definition
 
-This concept is fundamental to phonological theory and analysis. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding phonological structure is essential for linguistics, speech technology, and language teaching.
+Tone is phonemic pitch—meaning-distinguishing pitch contours. Mandarin: [ma] with high tone = mother, falling tone = hemp. Many African languages use tones; European languages generally don't.
 
-## Theoretical Framework
+## Characteristics
 
-The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
+Tone systems vary: Mandarin uses 4 lexical tones; Yoruba uses 3; some languages use 5+. Tones can be level (high, mid, low) or contour (rising, falling, dipping). Tones interact with stress and intonation.
 
-## Key Mechanisms
+## Autosegmental Analysis
 
-The mechanisms underlying phonological processes involve:
-- Feature spreading and alignment
-- Constraint interaction and ranking
-- Syllable structure effects
-- Prosodic domain interactions
+Tone occupies independent tiers in autosegmental phonology. This explains how tones spread across multiple syllables and survive segment deletion—the tone remains on the tonal tier.
 
-These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
+## Cross-linguistic Patterns
+
+Tone languages are roughly 70% of world's languages. Tone systems show universal constraints: rising tones more common than falling; certain tone combinations more frequent than others.
 
 ## Experimental Evidence
 
-Research in phonolinguistics uses multiple methods to test phonological theories:
-- Behavioral experiments measuring perception and production
-- Brain imaging (fMRI, EEG) showing neural correlates
-- Corpus analysis revealing frequency patterns
-- Longitudinal studies of language development
-- Computational modeling testing theoretical predictions
+Speakers show categorical perception for tonal distinctions. Neuroimaging shows tone processing activates distinct brain regions. Learning studies show tone acquisition involves category formation.
 
-Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
+## Contemporary Applications
 
-## Cross-Linguistic Applications
-
-The principles of this concept apply across diverse languages:
-- Tonal languages (Mandarin, Yoruba, Hausa)
-- Consonant-rich languages (Georgian, Xhosa)
-- Consonant-poor languages (Hawaiian, Rotuman)
-- Languages with complex prosodic systems (Japanese, Korean)
-
-Understanding these universal principles while respecting language-specific variation is central to modern phonology.
-
-## Contemporary Research Directions
-
-Current research explores:
-- Neural substrates of phonological processing
-- Computational learning of phonological systems
-- Language change through phonological mechanisms
-- Bilingual phonological organization
-- Development of phonological systems
+Speech synthesis requires careful tone control for intelligibility. Speech recognition systems must track tonal distinctions. Language teaching prioritizes tone training for learners from non-tonal languages.
 
 ## References
 
-- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
-- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
-- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
-- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
-- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.
+- Yip, M. (2002). *Tone*. Cambridge University Press.
+- Ladd, D. R. (2008). *Intonational Phonology*. MIT Press.
+
