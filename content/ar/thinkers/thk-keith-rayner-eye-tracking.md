@@ -1,6 +1,6 @@
 ---
 slug: "thk-keith-rayner-eye-tracking"
-id: "THK-13285"
+id: "THK-13500"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

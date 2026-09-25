@@ -1,6 +1,6 @@
 ---
 slug: "thk-louis-goldstein-gestural"
-id: "THK-13254"
+id: "THK-13476"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

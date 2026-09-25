@@ -1,6 +1,6 @@
 ---
 slug: "stu-motion-event-typology-talmy-framework"
-id: "STU-1213"
+id: "STU-1632"
 type: "دراسة"
 part: "linguistics"
 level: "متقدم"

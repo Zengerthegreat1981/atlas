@@ -1,6 +1,6 @@
 ---
 slug: "con-click-consonants-production"
-id: "CON-18627"
+id: "CON-19028"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

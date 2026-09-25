@@ -1,6 +1,6 @@
 ---
 slug: "con-objectivity-causation"
-id: "CON-18729"
+id: "CON-19063"
 type: "concept"
 part: "historiography"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "con-sonority-hierarchy"
-id: "CON-18623"
+id: "CON-19024"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

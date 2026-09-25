@@ -1,6 +1,6 @@
 ---
 slug: "con-intra-sentential-vs-inter-sentential-switching"
-id: "CON-18220"
+id: "CON-19009"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

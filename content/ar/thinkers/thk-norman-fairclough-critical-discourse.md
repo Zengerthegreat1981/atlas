@@ -1,6 +1,6 @@
 ---
 slug: "thk-norman-fairclough-critical-discourse"
-id: "THK-13302"
+id: "THK-13511"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

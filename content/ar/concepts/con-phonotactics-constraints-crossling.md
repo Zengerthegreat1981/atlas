@@ -1,6 +1,6 @@
 ---
 slug: "con-phonotactics-constraints-crossling"
-id: "CON-18642"
+id: "CON-19043"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

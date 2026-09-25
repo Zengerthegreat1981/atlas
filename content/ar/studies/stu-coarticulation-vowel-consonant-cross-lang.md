@@ -1,6 +1,6 @@
 ---
 slug: "stu-coarticulation-vowel-consonant-cross-lang"
-id: "STU-1208"
+id: "STU-1627"
 type: "دراسة"
 part: "linguistics"
 level: "متقدم"

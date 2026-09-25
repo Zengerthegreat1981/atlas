@@ -1,6 +1,6 @@
 ---
 slug: "con-rage"
-id: "CON-0415"
+id: "CON-19071"
 type: "مفهوم"
 level: "متوسط"
 title: "Rage"

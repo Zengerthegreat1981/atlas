@@ -1,6 +1,6 @@
 ---
 slug: "stu-comoroff-modernity-south-africa"
-id: "STU-1121"
+id: "STU-1614"
 type: "دراسة"
 part: "anthropology"
 level: "متقدم"

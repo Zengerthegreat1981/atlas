@@ -1,6 +1,6 @@
 ---
 slug: "wrk-fauconnier-turner-blending-2002"
-id: "WRK-13235"
+id: "WRK-13316"
 type: "أثر"
 part: "linguistics"
 level: "متقدم"

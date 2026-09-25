@@ -1,6 +1,6 @@
 ---
 slug: "con-syllable-structure-constraints"
-id: "CON-18630"
+id: "CON-19031"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

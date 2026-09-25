@@ -1,6 +1,6 @@
 ---
 slug: "thk-james-clifford"
-id: "ANT-13035"
+id: "ANT-13348"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"

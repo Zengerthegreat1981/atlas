@@ -1,6 +1,6 @@
 ---
 slug: "con-tone-systems-global-typology"
-id: "CON-18624"
+id: "CON-19025"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

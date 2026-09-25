@@ -1,6 +1,6 @@
 ---
 slug: "thk-colin-wilson-constraint-phonology"
-id: "THK-13265"
+id: "THK-13486"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

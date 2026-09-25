@@ -1,6 +1,6 @@
 ---
 slug: "wrk-boersma-hayes-ot-phonology-2001"
-id: "WRK-13232"
+id: "WRK-13313"
 type: "أثر"
 part: "linguistics"
 level: "متقدم"

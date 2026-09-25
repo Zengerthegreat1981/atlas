@@ -1,6 +1,6 @@
 ---
 slug: "con-event-structure-polyadicity"
-id: "CON-18654"
+id: "CON-19055"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

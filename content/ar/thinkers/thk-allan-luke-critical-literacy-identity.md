@@ -1,6 +1,6 @@
 ---
 slug: "thk-allan-luke-critical-literacy-identity"
-id: "THK-13304"
+id: "THK-13513"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

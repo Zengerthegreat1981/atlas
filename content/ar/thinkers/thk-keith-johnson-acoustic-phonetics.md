@@ -1,6 +1,6 @@
 ---
 slug: "thk-keith-johnson-acoustic-phonetics"
-id: "THK-13256"
+id: "THK-13477"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

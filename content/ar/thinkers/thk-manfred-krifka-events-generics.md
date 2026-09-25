@@ -1,6 +1,6 @@
 ---
 slug: "thk-manfred-krifka-events-generics"
-id: "THK-13273"
+id: "THK-13493"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

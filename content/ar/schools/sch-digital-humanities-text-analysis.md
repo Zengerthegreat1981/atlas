@@ -1,6 +1,6 @@
 ---
 slug: "sch-digital-humanities-text-analysis"
-id: "SCH-12412"
+id: "SCH-13205"
 type: "مدرسة"
 part: "linguistics"
 level: "متقدم"

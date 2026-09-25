@@ -1,6 +1,6 @@
 ---
 slug: "thk-malka-rappaport-hovav-event-structure"
-id: "THK-13282"
+id: "THK-13497"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

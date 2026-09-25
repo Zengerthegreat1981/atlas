@@ -1,6 +1,6 @@
 ---
 slug: "wrk-baddeley-working-memory-psychology-2003"
-id: "WRK-13242"
+id: "WRK-13323"
 type: "أثر"
 part: "linguistics"
 level: "متقدم"

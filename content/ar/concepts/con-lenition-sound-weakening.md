@@ -1,6 +1,6 @@
 ---
 slug: "con-lenition-sound-weakening"
-id: "CON-18628"
+id: "CON-19029"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

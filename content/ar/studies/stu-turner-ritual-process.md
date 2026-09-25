@@ -1,6 +1,6 @@
 ---
 slug: "stu-turner-ritual-process"
-id: "STU-1111"
+id: "STU-1610"
 type: "دراسة"
 part: "anthropology"
 level: "متقدم"

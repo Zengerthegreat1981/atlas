@@ -1,6 +1,6 @@
 ---
 slug: "con-deletion-segment-loss"
-id: "CON-18644"
+id: "CON-19045"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

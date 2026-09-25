@@ -1,6 +1,6 @@
 ---
 slug: "wrk-kager-optimality-theory-1999"
-id: "WRK-13226"
+id: "WRK-13307"
 type: "أثر"
 part: "linguistics"
 level: "متقدم"

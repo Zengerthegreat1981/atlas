@@ -1,6 +1,6 @@
 ---
 slug: "con-harmony-agreement-phonology"
-id: "CON-18647"
+id: "CON-19048"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

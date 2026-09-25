@@ -1,6 +1,6 @@
 ---
 slug: "con-spatial-semantics-talmy"
-id: "CON-18652"
+id: "CON-19053"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

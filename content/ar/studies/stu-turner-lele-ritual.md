@@ -1,6 +1,6 @@
 ---
 slug: "stu-turner-lele-ritual"
-id: "STU-1150"
+id: "STU-1618"
 type: "دراسة"
 part: "anthropology"
 level: "متقدم"

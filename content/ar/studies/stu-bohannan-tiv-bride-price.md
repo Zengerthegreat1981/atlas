@@ -1,6 +1,6 @@
 ---
 slug: "stu-bohannan-tiv-bride-price"
-id: "STU-1113"
+id: "STU-1612"
 type: "دراسة"
 part: "anthropology"
 level: "متقدم"

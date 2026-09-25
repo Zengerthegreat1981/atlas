@@ -1,6 +1,6 @@
 ---
 slug: "con-methodological-sovereignty"
-id: "CON-18232"
+id: "CON-19014"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"

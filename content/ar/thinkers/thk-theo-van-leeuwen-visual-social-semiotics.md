@@ -1,6 +1,6 @@
 ---
 slug: "thk-theo-van-leeuwen-visual-social-semiotics"
-id: "THK-13301"
+id: "THK-13510"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

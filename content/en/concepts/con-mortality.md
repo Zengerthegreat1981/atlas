@@ -1,6 +1,6 @@
 ---
 slug: "con-mortality"
-id: "CON-0420"
+id: "CON-19075"
 type: "مفهوم"
 level: "متوسط"
 title: "Mortality"

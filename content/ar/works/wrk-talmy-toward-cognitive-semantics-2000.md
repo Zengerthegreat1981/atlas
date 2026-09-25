@@ -1,6 +1,6 @@
 ---
 slug: "wrk-talmy-toward-cognitive-semantics-2000"
-id: "WRK-13233"
+id: "WRK-13314"
 type: "أثر"
 part: "linguistics"
 level: "متقدم"

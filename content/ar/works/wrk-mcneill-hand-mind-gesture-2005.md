@@ -1,6 +1,6 @@
 ---
 slug: "wrk-mcneill-hand-mind-gesture-2005"
-id: "WRK-13247"
+id: "WRK-13328"
 type: "أثر"
 part: "linguistics"
 level: "متقدم"

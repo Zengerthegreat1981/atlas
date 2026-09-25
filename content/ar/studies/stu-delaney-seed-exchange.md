@@ -1,6 +1,6 @@
 ---
 slug: "stu-delaney-seed-exchange"
-id: "STU-1141"
+id: "STU-1616"
 type: "دراسة"
 part: "anthropology"
 level: "متقدم"

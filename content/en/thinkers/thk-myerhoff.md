@@ -1,6 +1,6 @@
 ---
 slug: "thk-myerhoff"
-id: "ANT-13020"
+id: "ANT-13347"
 type: "مفكر"
 level: "متقدم"
 title: "Barbara Myerhoff: Ritual, Aging, and Self-Creation"

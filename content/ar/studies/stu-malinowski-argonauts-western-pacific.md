@@ -1,6 +1,6 @@
 ---
 slug: "stu-malinowski-argonauts-western-pacific"
-id: "STU-1101"
+id: "STU-1608"
 type: "دراسة"
 part: "anthropology"
 level: "متقدم"

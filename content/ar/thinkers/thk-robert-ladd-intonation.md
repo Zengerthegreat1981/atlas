@@ -1,6 +1,6 @@
 ---
 slug: "thk-robert-ladd-intonation"
-id: "THK-13260"
+id: "THK-13481"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

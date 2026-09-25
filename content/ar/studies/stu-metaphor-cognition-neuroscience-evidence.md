@@ -1,6 +1,6 @@
 ---
 slug: "stu-metaphor-cognition-neuroscience-evidence"
-id: "STU-1214"
+id: "STU-1633"
 type: "دراسة"
 part: "linguistics"
 level: "متقدم"

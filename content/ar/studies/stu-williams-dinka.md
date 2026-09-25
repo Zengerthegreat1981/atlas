@@ -1,6 +1,6 @@
 ---
 slug: "stu-williams-dinka"
-id: "STU-1157"
+id: "STU-1625"
 type: "دراسة"
 part: "anthropology"
 level: "متقدم"

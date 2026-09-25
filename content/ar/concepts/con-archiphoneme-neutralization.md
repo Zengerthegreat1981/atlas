@@ -1,6 +1,6 @@
 ---
 slug: "con-archiphoneme-neutralization"
-id: "CON-18640"
+id: "CON-19041"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

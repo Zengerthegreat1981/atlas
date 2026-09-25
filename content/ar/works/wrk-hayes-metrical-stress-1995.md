@@ -1,6 +1,6 @@
 ---
 slug: "wrk-hayes-metrical-stress-1995"
-id: "WRK-13227"
+id: "WRK-13308"
 type: "أثر"
 part: "linguistics"
 level: "متقدم"

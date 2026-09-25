@@ -1,6 +1,6 @@
 ---
 slug: "sch-cognitive-anthropology-culture"
-id: "SCH-12411"
+id: "SCH-13204"
 type: "مدرسة"
 part: "linguistics"
 level: "متقدم"

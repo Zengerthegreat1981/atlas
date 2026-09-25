@@ -1,6 +1,6 @@
 ---
 slug: "stu-needham-logic-rh"
-id: "STU-1151"
+id: "STU-1619"
 type: "دراسة"
 part: "anthropology"
 level: "متقدم"

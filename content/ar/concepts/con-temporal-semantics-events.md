@@ -1,6 +1,6 @@
 ---
 slug: "con-temporal-semantics-events"
-id: "CON-18653"
+id: "CON-19054"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

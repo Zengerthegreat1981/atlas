@@ -1,6 +1,6 @@
 ---
 slug: "wrk-cole-phonological-structure-1987"
-id: "WRK-13230"
+id: "WRK-13311"
 type: "أثر"
 part: "linguistics"
 level: "متقدم"

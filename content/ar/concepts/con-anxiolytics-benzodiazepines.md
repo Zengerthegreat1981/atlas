@@ -1,6 +1,6 @@
 ---
 slug: "con-anxiolytics-benzodiazepines"
-id: "CON-18233"
+id: "CON-19015"
 type: "مفهوم"
 part: "psychiatry"
 level: "متقدم"

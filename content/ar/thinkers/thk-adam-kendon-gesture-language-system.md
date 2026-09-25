@@ -1,6 +1,6 @@
 ---
 slug: "thk-adam-kendon-gesture-language-system"
-id: "THK-13299"
+id: "THK-13508"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

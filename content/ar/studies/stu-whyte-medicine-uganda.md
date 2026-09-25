@@ -1,6 +1,6 @@
 ---
 slug: "stu-whyte-medicine-uganda"
-id: "STU-1142"
+id: "STU-1617"
 type: "دراسة"
 part: "anthropology"
 level: "متقدم"

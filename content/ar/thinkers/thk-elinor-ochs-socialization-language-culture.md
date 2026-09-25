@@ -1,6 +1,6 @@
 ---
 slug: "thk-elinor-ochs-socialization-language-culture"
-id: "THK-13306"
+id: "THK-13514"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

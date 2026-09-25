@@ -1,6 +1,6 @@
 ---
 slug: "thk-angelika-kratzer-modality"
-id: "THK-13272"
+id: "THK-13492"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

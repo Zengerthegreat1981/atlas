@@ -1,6 +1,6 @@
 ---
 slug: "con-consonant-harmony-spreading"
-id: "CON-18649"
+id: "CON-19050"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

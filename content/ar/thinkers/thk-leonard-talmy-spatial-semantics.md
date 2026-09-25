@@ -1,6 +1,6 @@
 ---
 slug: "thk-leonard-talmy-spatial-semantics"
-id: "THK-13268"
+id: "THK-13489"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

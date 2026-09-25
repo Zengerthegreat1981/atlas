@@ -1,6 +1,6 @@
 ---
 slug: "wrk-krifka-semantics-generics-1995"
-id: "WRK-13237"
+id: "WRK-13318"
 type: "أثر"
 part: "linguistics"
 level: "متقدم"

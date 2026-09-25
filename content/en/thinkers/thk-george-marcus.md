@@ -1,6 +1,6 @@
 ---
 slug: "thk-george-marcus"
-id: "ANT-13036"
+id: "ANT-13349"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"

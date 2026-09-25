@@ -1,6 +1,6 @@
 ---
 slug: "con-polysemy-related-senses"
-id: "CON-18655"
+id: "CON-19056"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

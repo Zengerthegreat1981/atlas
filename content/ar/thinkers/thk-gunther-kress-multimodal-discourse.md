@@ -1,6 +1,6 @@
 ---
 slug: "thk-gunther-kress-multimodal-discourse"
-id: "THK-13300"
+id: "THK-13509"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

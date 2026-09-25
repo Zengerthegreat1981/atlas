@@ -1,6 +1,6 @@
 ---
 slug: "thk-chris-mccully-stress"
-id: "THK-13263"
+id: "THK-13484"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

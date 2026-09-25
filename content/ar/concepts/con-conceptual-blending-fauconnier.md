@@ -1,6 +1,6 @@
 ---
 slug: "con-conceptual-blending-fauconnier"
-id: "CON-18658"
+id: "CON-19059"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

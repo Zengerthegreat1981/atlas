@@ -1,6 +1,6 @@
 ---
 slug: "stu-rosaldo-ilongot-headhunting"
-id: "STU-1140"
+id: "STU-1615"
 type: "دراسة"
 part: "anthropology"
 level: "متقدم"

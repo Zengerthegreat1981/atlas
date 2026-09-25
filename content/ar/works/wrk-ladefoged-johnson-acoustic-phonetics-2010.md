@@ -1,6 +1,6 @@
 ---
 slug: "wrk-ladefoged-johnson-acoustic-phonetics-2010"
-id: "WRK-13225"
+id: "WRK-13306"
 type: "أثر"
 part: "linguistics"
 level: "متقدم"

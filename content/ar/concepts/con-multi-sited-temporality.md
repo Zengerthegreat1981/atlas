@@ -1,6 +1,6 @@
 ---
 slug: "con-multi-sited-temporality"
-id: "CON-18238"
+id: "CON-19020"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"

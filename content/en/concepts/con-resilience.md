@@ -1,6 +1,6 @@
 ---
 slug: "con-resilience"
-id: "CON-0416"
+id: "CON-19072"
 type: "مفهوم"
 level: "متوسط"
 title: "Resilience"

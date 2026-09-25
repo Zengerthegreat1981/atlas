@@ -1,6 +1,6 @@
 ---
 slug: "stu-turnbull-mbuti"
-id: "STU-1158"
+id: "STU-1626"
 type: "دراسة"
 part: "anthropology"
 level: "متقدم"

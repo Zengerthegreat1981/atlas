@@ -1,6 +1,6 @@
 ---
 slug: "thk-mark-turner-conceptual-metaphor"
-id: "THK-13271"
+id: "THK-13491"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

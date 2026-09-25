@@ -1,6 +1,6 @@
 ---
 slug: "wrk-bipolar-disorder-research"
-id: "WRK-13196"
+id: "WRK-13303"
 type: "عمل / كتاب"
 part: "psychiatry"
 level: "متقدم"

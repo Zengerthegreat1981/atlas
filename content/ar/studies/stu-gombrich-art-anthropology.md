@@ -1,6 +1,6 @@
 ---
 slug: "stu-gombrich-art-anthropology"
-id: "STU-1154"
+id: "STU-1622"
 type: "دراسة"
 part: "anthropology"
 level: "متقدم"

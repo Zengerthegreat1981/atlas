@@ -1,6 +1,6 @@
 ---
 slug: "con-stress-rhythms-word-prosody"
-id: "CON-18625"
+id: "CON-19026"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-lyn-frazier-parsing-garden-path"
-id: "THK-13284"
+id: "THK-13499"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

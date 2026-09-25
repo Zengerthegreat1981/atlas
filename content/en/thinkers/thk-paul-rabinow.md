@@ -1,6 +1,6 @@
 ---
 slug: "thk-paul-rabinow"
-id: "ANT-13041"
+id: "ANT-13351"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"

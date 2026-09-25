@@ -1,6 +1,6 @@
 ---
 slug: "wrk-dowty-thematic-proto-roles-1991"
-id: "WRK-13240"
+id: "WRK-13321"
 type: "أثر"
 part: "linguistics"
 level: "متقدم"

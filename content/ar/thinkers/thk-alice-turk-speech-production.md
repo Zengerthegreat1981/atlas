@@ -1,6 +1,6 @@
 ---
 slug: "thk-alice-turk-speech-production"
-id: "THK-13258"
+id: "THK-13479"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

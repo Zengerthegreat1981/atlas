@@ -1,6 +1,6 @@
 ---
 slug: "stu-elias-civilization"
-id: "STU-1153"
+id: "STU-1621"
 type: "دراسة"
 part: "anthropology"
 level: "متقدم"

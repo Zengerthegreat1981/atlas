@@ -1,6 +1,6 @@
 ---
 slug: "con-diagnostic-comorbidity"
-id: "CON-18217"
+id: "CON-19006"
 type: "مفهوم"
 part: "psychiatry"
 level: "متقدم"

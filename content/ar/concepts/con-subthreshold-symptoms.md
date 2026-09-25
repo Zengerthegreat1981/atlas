@@ -1,6 +1,6 @@
 ---
 slug: "con-subthreshold-symptoms"
-id: "CON-18218"
+id: "CON-19007"
 type: "مفهوم"
 part: "psychiatry"
 level: "متقدم"

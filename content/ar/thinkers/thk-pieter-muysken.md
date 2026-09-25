@@ -1,6 +1,6 @@
 ---
 slug: "thk-pieter-muysken"
-id: "THK-13118"
+id: "THK-13474"
 type: "مفكّر"
 part: "linguistics"
 level: "متقدم"

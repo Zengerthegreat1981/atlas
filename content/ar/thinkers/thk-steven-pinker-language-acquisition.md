@@ -1,6 +1,6 @@
 ---
 slug: "thk-steven-pinker-language-acquisition"
-id: "THK-13287"
+id: "THK-13502"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

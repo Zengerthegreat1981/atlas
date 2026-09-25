@@ -1,6 +1,6 @@
 ---
 slug: "con-algorithmic-kinship"
-id: "CON-18235"
+id: "CON-19017"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "con-mora-weight-phonology"
-id: "CON-18631"
+id: "CON-19032"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

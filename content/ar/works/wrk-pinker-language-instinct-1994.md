@@ -1,6 +1,6 @@
 ---
 slug: "wrk-pinker-language-instinct-1994"
-id: "WRK-13245"
+id: "WRK-13326"
 type: "أثر"
 part: "linguistics"
 level: "متقدم"

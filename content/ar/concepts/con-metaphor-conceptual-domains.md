@@ -1,6 +1,6 @@
 ---
 slug: "con-metaphor-conceptual-domains"
-id: "CON-18657"
+id: "CON-19058"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

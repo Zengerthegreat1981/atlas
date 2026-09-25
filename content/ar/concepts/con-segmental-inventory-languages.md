@@ -1,6 +1,6 @@
 ---
 slug: "con-segmental-inventory-languages"
-id: "CON-18636"
+id: "CON-19037"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

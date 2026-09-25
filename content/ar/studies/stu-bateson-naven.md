@@ -1,6 +1,6 @@
 ---
 slug: "stu-bateson-naven"
-id: "STU-1155"
+id: "STU-1623"
 type: "دراسة"
 part: "anthropology"
 level: "متقدم"

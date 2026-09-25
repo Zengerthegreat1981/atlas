@@ -1,6 +1,6 @@
 ---
 slug: "con-ethnographic-refusal"
-id: "CON-18231"
+id: "CON-19013"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"

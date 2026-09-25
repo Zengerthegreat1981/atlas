@@ -1,6 +1,6 @@
 ---
 slug: "thk-linda-tuhiwai-smith"
-id: "ANT-13040"
+id: "ANT-13350"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"

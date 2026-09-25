@@ -1,6 +1,6 @@
 ---
 slug: "thk-kent-johnson-formant-tracking"
-id: "THK-13261"
+id: "THK-13482"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

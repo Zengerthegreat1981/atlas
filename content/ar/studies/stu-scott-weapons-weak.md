@@ -1,6 +1,6 @@
 ---
 slug: "stu-scott-weapons-weak"
-id: "STU-1110"
+id: "STU-1609"
 type: "دراسة"
 part: "anthropology"
 level: "متقدم"

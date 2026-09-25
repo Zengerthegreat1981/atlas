@@ -1,6 +1,6 @@
 ---
 slug: "thk-susan-garnham-discourse-referents"
-id: "THK-13291"
+id: "THK-13504"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

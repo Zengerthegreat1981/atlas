@@ -1,6 +1,6 @@
 ---
 slug: "stu-phonetic-variation-social-factors"
-id: "STU-1211"
+id: "STU-1630"
 type: "دراسة"
 part: "linguistics"
 level: "متقدم"

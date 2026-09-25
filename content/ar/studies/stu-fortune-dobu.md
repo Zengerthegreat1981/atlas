@@ -1,6 +1,6 @@
 ---
 slug: "stu-fortune-dobu"
-id: "STU-1156"
+id: "STU-1624"
 type: "دراسة"
 part: "anthropology"
 level: "متقدم"

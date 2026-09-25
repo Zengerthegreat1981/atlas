@@ -1,6 +1,6 @@
 ---
 slug: "con-phonological-transparency"
-id: "CON-18638"
+id: "CON-19039"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

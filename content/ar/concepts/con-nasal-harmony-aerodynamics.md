@@ -1,6 +1,6 @@
 ---
 slug: "con-nasal-harmony-aerodynamics"
-id: "CON-18650"
+id: "CON-19051"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

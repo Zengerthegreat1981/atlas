@@ -1,6 +1,6 @@
 ---
 slug: "con-natural-classes-phonology"
-id: "CON-18639"
+id: "CON-19040"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

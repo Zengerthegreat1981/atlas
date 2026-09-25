@@ -1,6 +1,6 @@
 ---
 slug: "con-phonological-opacity"
-id: "CON-18637"
+id: "CON-19038"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

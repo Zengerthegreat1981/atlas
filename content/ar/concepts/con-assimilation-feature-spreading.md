@@ -1,6 +1,6 @@
 ---
 slug: "con-assimilation-feature-spreading"
-id: "CON-18629"
+id: "CON-19030"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

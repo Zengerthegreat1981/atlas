@@ -1,6 +1,6 @@
 ---
 slug: "thk-shlomo-izre-el-free-indirect-discourse"
-id: "THK-13275"
+id: "THK-13494"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

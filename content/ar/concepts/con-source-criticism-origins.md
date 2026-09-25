@@ -1,6 +1,6 @@
 ---
 slug: "con-source-criticism-origins"
-id: "CON-18728"
+id: "CON-19062"
 type: "concept"
 part: "historiography"
 level: "متقدم"

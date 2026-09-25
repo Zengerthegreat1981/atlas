@@ -1,6 +1,6 @@
 ---
 slug: "wrk-frazier-fodor-sausage-machine-parsing-1978"
-id: "WRK-13241"
+id: "WRK-13322"
 type: "أثر"
 part: "linguistics"
 level: "متقدم"

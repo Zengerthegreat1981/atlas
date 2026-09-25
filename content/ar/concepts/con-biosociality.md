@@ -1,6 +1,6 @@
 ---
 slug: "con-biosociality"
-id: "CON-18237"
+id: "CON-19019"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"

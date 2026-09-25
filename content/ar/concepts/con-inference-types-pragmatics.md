@@ -1,6 +1,6 @@
 ---
 slug: "con-inference-types-pragmatics"
-id: "CON-18660"
+id: "CON-19060"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

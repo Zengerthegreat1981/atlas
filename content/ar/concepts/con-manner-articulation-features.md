@@ -1,6 +1,6 @@
 ---
 slug: "con-manner-articulation-features"
-id: "CON-18634"
+id: "CON-19035"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

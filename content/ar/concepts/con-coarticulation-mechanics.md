@@ -1,6 +1,6 @@
 ---
 slug: "con-coarticulation-mechanics"
-id: "CON-18623"
+id: "CON-19023"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "con-vernacular-cosmopolitanism"
-id: "CON-18236"
+id: "CON-19018"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"

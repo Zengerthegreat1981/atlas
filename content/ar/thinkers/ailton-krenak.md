@@ -1,6 +1,6 @@
 ---
 slug: "ailton-krenak"
-id: "THK-6500"
+id: "THK-13515"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"

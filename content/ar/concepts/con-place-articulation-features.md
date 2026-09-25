@@ -1,6 +1,6 @@
 ---
 slug: "con-place-articulation-features"
-id: "CON-18633"
+id: "CON-19034"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

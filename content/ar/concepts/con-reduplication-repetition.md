@@ -1,6 +1,6 @@
 ---
 slug: "con-reduplication-repetition"
-id: "CON-18646"
+id: "CON-19047"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

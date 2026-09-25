@@ -1,6 +1,6 @@
 ---
 slug: "stu-fernandez-gabon-ritual"
-id: "STU-1120"
+id: "STU-1613"
 type: "دراسة"
 part: "anthropology"
 level: "متقدم"

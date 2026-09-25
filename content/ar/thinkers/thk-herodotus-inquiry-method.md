@@ -1,6 +1,6 @@
 ---
 slug: "thk-herodotus-inquiry-method"
-id: "THK-10000"
+id: "THK-13472"
 type: "thinker"
 part: "historiography"
 level: "متقدم"

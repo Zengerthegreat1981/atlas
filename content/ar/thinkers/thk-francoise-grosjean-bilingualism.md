@@ -1,6 +1,6 @@
 ---
 slug: "thk-francoise-grosjean-bilingualism"
-id: "THK-13294"
+id: "THK-13506"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

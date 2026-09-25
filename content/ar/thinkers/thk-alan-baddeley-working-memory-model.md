@@ -1,6 +1,6 @@
 ---
 slug: "thk-alan-baddeley-working-memory-model"
-id: "THK-13283"
+id: "THK-13498"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

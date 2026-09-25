@@ -1,6 +1,6 @@
 ---
 slug: "thk-david-mcneill-gesture-speech-integration"
-id: "THK-13298"
+id: "THK-13507"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

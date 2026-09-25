@@ -1,6 +1,6 @@
 ---
 slug: "wrk-sperber-wilson-relevance-1986"
-id: "WRK-13238"
+id: "WRK-13319"
 type: "أثر"
 part: "linguistics"
 level: "متقدم"

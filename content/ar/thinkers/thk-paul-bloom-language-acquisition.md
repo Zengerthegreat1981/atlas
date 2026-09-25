@@ -1,6 +1,6 @@
 ---
 slug: "thk-paul-bloom-language-acquisition"
-id: "THK-13288"
+id: "THK-13503"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

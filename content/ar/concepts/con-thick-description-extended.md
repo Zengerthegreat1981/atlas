@@ -1,6 +1,6 @@
 ---
 slug: "con-thick-description-extended"
-id: "CON-18230"
+id: "CON-19012"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"

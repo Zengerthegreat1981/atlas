@@ -1,6 +1,6 @@
 ---
 slug: "con-shame"
-id: "CON-0421"
+id: "CON-19076"
 type: "مفهوم"
 level: "متوسط"
 title: "Shame"

@@ -1,6 +1,6 @@
 ---
 slug: "con-depression"
-id: "CON-0417"
+id: "CON-19073"
 type: "مفهوم"
 level: "متوسط"
 title: "Depression"

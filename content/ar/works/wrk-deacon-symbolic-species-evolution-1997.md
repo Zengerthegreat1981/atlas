@@ -1,6 +1,6 @@
 ---
 slug: "wrk-deacon-symbolic-species-evolution-1997"
-id: "WRK-13246"
+id: "WRK-13327"
 type: "أثر"
 part: "linguistics"
 level: "متقدم"

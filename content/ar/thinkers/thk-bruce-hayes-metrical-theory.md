@@ -1,6 +1,6 @@
 ---
 slug: "thk-bruce-hayes-metrical-theory"
-id: "THK-13259"
+id: "THK-13480"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

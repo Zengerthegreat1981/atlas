@@ -1,6 +1,6 @@
 ---
 slug: "thk-lexicon-hale-keyser-syntax-semantics"
-id: "THK-13280"
+id: "THK-13495"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "con-laryngeal-voicing-features"
-id: "CON-18632"
+id: "CON-19033"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

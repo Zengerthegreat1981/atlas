@@ -1,6 +1,6 @@
 ---
 slug: "thk-bertrand-leone-french-phonology"
-id: "THK-13262"
+id: "THK-13483"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "stu-goody-literacy"
-id: "STU-1152"
+id: "STU-1620"
 type: "دراسة"
 part: "anthropology"
 level: "متقدم"

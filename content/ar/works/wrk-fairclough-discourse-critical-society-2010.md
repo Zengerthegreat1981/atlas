@@ -1,6 +1,6 @@
 ---
 slug: "wrk-fairclough-discourse-critical-society-2010"
-id: "WRK-13248"
+id: "WRK-13329"
 type: "أثر"
 part: "linguistics"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "con-infrastructure-and-society"
-id: "CON-18234"
+id: "CON-19016"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"

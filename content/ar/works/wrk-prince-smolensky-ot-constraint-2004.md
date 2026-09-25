@@ -1,6 +1,6 @@
 ---
 slug: "wrk-prince-smolensky-ot-constraint-2004"
-id: "WRK-13229"
+id: "WRK-13310"
 type: "أثر"
 part: "linguistics"
 level: "متقدم"

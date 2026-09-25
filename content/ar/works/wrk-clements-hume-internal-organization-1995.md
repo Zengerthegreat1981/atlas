@@ -1,6 +1,6 @@
 ---
 slug: "wrk-clements-hume-internal-organization-1995"
-id: "WRK-13228"
+id: "WRK-13309"
 type: "أثر"
 part: "linguistics"
 level: "متقدم"

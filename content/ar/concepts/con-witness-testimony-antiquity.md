@@ -1,6 +1,6 @@
 ---
 slug: "con-witness-testimony-antiquity"
-id: "CON-18727"
+id: "CON-19061"
 type: "concept"
 part: "historiography"
 level: "متقدم"

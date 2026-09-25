@@ -1,6 +1,6 @@
 ---
 slug: "thk-adam-albright-learning-phonology"
-id: "THK-13266"
+id: "THK-13487"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

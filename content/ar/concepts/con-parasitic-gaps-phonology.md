@@ -1,6 +1,6 @@
 ---
 slug: "con-parasitic-gaps-phonology"
-id: "CON-18641"
+id: "CON-19042"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

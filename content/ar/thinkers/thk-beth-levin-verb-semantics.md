@@ -1,6 +1,6 @@
 ---
 slug: "thk-beth-levin-verb-semantics"
-id: "THK-13281"
+id: "THK-13496"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

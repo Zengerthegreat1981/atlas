@@ -1,6 +1,6 @@
 ---
 slug: "thk-peter-ladefoged-acoustics"
-id: "THK-13257"
+id: "THK-13478"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

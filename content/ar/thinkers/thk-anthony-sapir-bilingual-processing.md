@@ -1,6 +1,6 @@
 ---
 slug: "thk-anthony-sapir-bilingual-processing"
-id: "THK-13293"
+id: "THK-13505"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

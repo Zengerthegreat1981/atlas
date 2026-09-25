@@ -1,6 +1,6 @@
 ---
 slug: "stu-prosodic-timing-stress-patterns-world-lang"
-id: "STU-1209"
+id: "STU-1628"
 type: "دراسة"
 part: "linguistics"
 level: "متقدم"

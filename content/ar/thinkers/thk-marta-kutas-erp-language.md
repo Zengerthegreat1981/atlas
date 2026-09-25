@@ -1,6 +1,6 @@
 ---
 slug: "thk-marta-kutas-erp-language"
-id: "THK-13286"
+id: "THK-13501"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

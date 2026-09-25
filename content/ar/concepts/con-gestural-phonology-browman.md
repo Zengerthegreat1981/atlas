@@ -1,6 +1,6 @@
 ---
 slug: "con-gestural-phonology-browman"
-id: "CON-18622"
+id: "CON-19022"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

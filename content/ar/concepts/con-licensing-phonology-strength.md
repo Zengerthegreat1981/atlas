@@ -1,6 +1,6 @@
 ---
 slug: "con-licensing-phonology-strength"
-id: "CON-18651"
+id: "CON-19052"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"

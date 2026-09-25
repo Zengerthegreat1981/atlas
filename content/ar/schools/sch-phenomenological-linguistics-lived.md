@@ -1,6 +1,6 @@
 ---
 slug: "sch-phenomenological-linguistics-lived"
-id: "SCH-12413"
+id: "SCH-13206"
 type: "مدرسة"
 part: "linguistics"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "wrk-browman-goldstein-articulatory-phonology-1989"
-id: "WRK-13223"
+id: "WRK-13304"
 type: "أثر"
 part: "linguistics"
 level: "متقدم"

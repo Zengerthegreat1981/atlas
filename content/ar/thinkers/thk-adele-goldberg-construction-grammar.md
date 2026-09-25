@@ -1,6 +1,6 @@
 ---
 slug: "thk-adele-goldberg-construction-grammar"
-id: "THK-13269"
+id: "THK-13490"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

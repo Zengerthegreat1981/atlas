@@ -1,6 +1,6 @@
 ---
 slug: "con-intersectionality-method"
-id: "CON-18241"
+id: "CON-19021"
 type: "مفهوم"
 part: "anthropology"
 level: "متقدم"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-gluckman"
-id: "ANT-13019"
+id: "ANT-13346"
 type: "مفكر"
 level: "متقدم"
 title: "Max Gluckman: Ritual, Conflict, and Social Drama"

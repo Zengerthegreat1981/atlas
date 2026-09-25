@@ -1,6 +1,6 @@
 ---
 slug: "stu-leach-highland-burma"
-id: "STU-1112"
+id: "STU-1611"
 type: "دراسة"
 part: "anthropology"
 level: "متقدم"

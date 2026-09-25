@@ -1,6 +1,6 @@
 ---
 slug: "thk-deborah-cameron-language-gender-society"
-id: "THK-13303"
+id: "THK-13512"
 type: "مفكر"
 part: "linguistics"
 level: "متقدم"

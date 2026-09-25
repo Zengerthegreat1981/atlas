@@ -1,6 +1,6 @@
 ---
 slug: "con-metonymy-part-whole-relations"
-id: "CON-18656"
+id: "CON-19057"
 type: "مفهوم"
 part: "linguistics"
 level: "متقدم"
