@@ -3,7 +3,7 @@
 """
 0.6 — حذف الروابط المطبوعة آلياً وروابط الحشو من كل `related`.
 
-الأهداف (§4 من ATLAS_EXECUTION_PLAN.md — قائمة الأهداف الممنوعة):
+الأهداف (§4 من reports/ATLAS_EXECUTION_PLAN.md — قائمة الأهداف الممنوعة):
 - الثلاثية المطبوعة: sch-cognitive-behavioral / sch-psychoanalysis /
   sch-existential-therapy / sch-humanistic / sch-positive-psychology
   (تُحذف فقط لو ظهرت كمجموعة في بداية القائمة على ملفات لا تخصها فعلياً —

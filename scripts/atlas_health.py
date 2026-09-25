@@ -84,7 +84,7 @@ def scan():
         # ملاحظة: «لا يوجد اقتباس موثوق» والجمل القالبية تُفحص على الملف كله
         # (متن + frontmatter) لأن أغلبها يعيش داخل `gaps:` لا المتن الظاهر —
         # وهي بالضبط الصياغة الجاهزة اللي المعيار عايز يقتلها من جذرها.
-        # هذا يطابق منهجية الأرقام المرجعية في ATLAS_EXECUTION_PLAN.md §1.
+        # هذا يطابق منهجية الأرقام المرجعية في reports/ATLAS_EXECUTION_PLAN.md §1.
         full_text = open(path, encoding="utf-8", errors="replace").read()
         rel_ids = [r["id"] for r in d.related]
         for rid in rel_ids:

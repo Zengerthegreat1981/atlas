@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 qa_drafts.py — بوابة جودة آلية لملفات المسودات الجديدة.
-تفحص معيار الإنجاز السبعة في ATLAS_MASTER_PLAN.md §3.
+تفحص معيار الإنجاز السبعة في reports/ATLAS_MASTER_PLAN.md §3.
 
 الاستعمال:
     python3 scripts/qa_drafts.py                      # كل المسودات
