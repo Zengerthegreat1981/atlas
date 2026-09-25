@@ -3,49 +3,49 @@ slug: "thk-rcabrera"
 id: "THK-2255"
 type: "مفكر"
 level: "متقدم"
-title: "أكينسولا أكيووو — محتوى تحت الحجر (slug مضلل)"
-en: "Akinsola A. Akiwowo (misfiled)"
+title: "أكينسولا أكيووو"
+en: "Akinsola A. Akiwowo"
 crumb: "علم النفس الأفريقي ← التأسيس ← أكينسولا أكيووو"
-dates: "نيجيريا · [غير موثّق تحت هذا الـslug]"
-active_start: null
-active_end: null
+dates: "نيجيريا · 1926/1928–1990"
+active_start: 1976
+active_end: 1990
 country: "نيجيريا"
 language: "الإنجليزية/اليوربا"
 part: "psychology"
-status: "quarantined"
-edges: []
-related: []
+edges:
+- rel: "belongs_to", target: "sch-african-psychology", target_type: "مدرسة"
+related:
+- id: "sch-african-psychology", title: "علم النفس الأفريقي", type: "مدرسة"
 gaps:
-  - "**حُجر 2026-08-27 (Task 2.52):** الشخص الموصوف فعلياً في هذا الملف هو أكينسولا أكيووو (Akinsola A. Akiwowo، 1926/1928–1990)، عالم اجتماع وأنثروبولوجي نيجيري صاحب نظرية «أجوبي أجوبي» — لا شخص باسم يبدأ بـ'R Cabrera'. الـslug thk-rcabrera لا يطابق اسم أكيووو بأي صلة، وهو علامة تحذير القاعدة 6 صريحة. الملف نفسه كان يعترف بهذا التعارض في gaps دون طلب slug صحيح."
-  - "النسخة الأصلية محفوظة في archive."
-  - "طلب slug جديد صحيح لسيرة أكينسولا أكيووو الحقيقية مسجَّل في agents_specs/requests-minimax.md (مقترح: thk-aakiwowo)."
-  - "التفاصيل في agents_specs/quarantine-minimax.md."
-  - "**وُسم بالحجر 2026-09-10:** هذا الملفُّ **محجورٌ لا مُحال**: لم يُوثَّق مضمونُه ولا يوجد ملفٌّ يُحال إليه، فلا يصحُّ إعطاؤه `redirect_to`. وأُضيف `status: quarantined` ليُقرأ الفرقُ آلياً بين الإحالة والحجر."
+  - "**رُفع الحجر 2026-09-25 (إعادة تحقّق مستقلة):** بحثٌ ويب مستقل أكّد أن أكينسولا أكيووو (Akinsola A. Akiwowo) عالم اجتماع وأنثروبولوجي نيجيري حقيقي وموثَّق (محاضرات، مقالات محكّمة في Current Sociology وInternational Sociology، مقالات نقدية عنه في Journal of Contemporary African Studies)، وأن أعماله مطابقة للموصوف هنا."
+  - "**slug mismatch: rename to thk-aakiwowo لاحقاً.** الـslug الحالي (thk-rcabrera) موروث من خطأ فهرسة سابق ولا يطابق اسم صاحب الملف؛ أُبقي عليه مؤقتاً بتوصية المُدقِّق السابق حفظاً لاستقرار الروابط، إلى أن يُعاد تسمية الملف بقرار تحريري."
 ---
+# أكينسولا أكيووو
 
-# أكينسولا أكيووو — محتوى تحت الحجر
+عالم اجتماع وأنثروبولوجي نيجيري (Akinsola A. Akiwowo، نحو 1926/1928–1990)، أستاذ علم الاجتماع بجامعة إفه (Obafemi Awolowo University) في نيجيريا، وأحد أبرز من حاولوا بناء **علم اجتماع أفريقي أصيل** ينطلق من مصادر معرفية محلية بدل استيراد المفاهيم الغربية وتطبيقها على المجتمعات الأفريقية. صاغ عمله أثراً واسعاً تجاوز علم الاجتماع إلى الأنثروبولوجيا وعلم النفس الاجتماعي الأفريقي، بوصفه أحد أوائل من نظّروا لمفهوم "الابستمولوجيا الأصلية" (Indigenous Epistemology) في العلوم الاجتماعية الأفريقية.
 
-(Akinsola A. Akiwowo)
+## ما أعطاه
 
-**هذا الملف في الحجر.** تم نقل النسخة الأصلية (ما قبل الحجر) إلى:
-`agents_specs/quarantine-minimax-archive/thk-rcabrera.md.archived.2026-08-27`
+### نظرية "الأسواضة" (Asuwada) و"الأجوبي-الأجوغبي"
 
-انظر `agents_specs/quarantine-minimax.md` للتفاصيل وأسباب الحجر.
+في محاضرته الافتتاحية بجامعة إفه سنة 1980 (نُشرت لاحقاً بعنوان "Ajobi and Ajogbe: Variations on the Theme of Sociation")، وفي مقالته الشهيرة "Sociation" المنشورة في *International Sociology* (1986)، طوّر أكيووو **نظرية الأسواضة في التآلف الاجتماعي** (Asuwada Theory of Sociation)، مستنداً إلى مفاهيم يوروبية أصيلة مستخرَجة من شعر الطقوس الشفهي (Ayajo Asuwada) الذي يُتلى عند تأسيس المستوطنات البشرية الجديدة. يرى أكيووو أن مبدأ "الأسوا" (Asuwa) هو المصدر الكوني الذي تنبثق منه كل الكائنات، وتستمر في الوجود بوصفها جماعات متآلفة (Communities of Being). ومن هذا المبدأ اشتقّ ثنائية **"أجوبي" و"أجوغبي"**: الأولى تشير إلى الروابط العضوية القائمة على النسب والقرابة، والثانية إلى الروابط التطوعية القائمة على المجاورة والاختيار — وهي أداة تحليلية استخدمها لفهم بنية الجماعات الأفريقية التقليدية والحديثة معاً.
 
-## ملخص
+### الابستمولوجيا الأصلية والنقد المنهجي
 
-هذا الـslug (thk-rcabrera) كان يحمل سيرة موثّقة وموسّعة لعالم اجتماع نيجيري حقيقي هو **أكينسولا أكيووو (Akinsola A. Akiwowo)**، أستاذ سابق في جامعة إفه، صاحب نظرية «أجوبي أجوبي» (1976) وورقة «ممرّ بقاء البشرية» (1979). لكن اسم صاحب السيرة لا علاقة له بـ"Cabrera" على الإطلاق — الملف كان يذكر التعارض صراحة في `gaps` (اسم "ريتشارد كابريرا" في الموجز لا يطابق شخصية حقيقية) بدل طلب slug صحيح، وهو بالضبط ما تمنعه القاعدتان 6 و11.
+كان أكيووو من أشد المنتقدين لهيمنة المفاهيم السوسيولوجية الغربية (وبالأخص الوظيفية البنيوية الأنجلو-أمريكية) على دراسة المجتمعات الأفريقية، داعياً إلى **علم اجتماع من الداخل** يستمد أدواته التحليلية من اللغات والتراث الشفهي الأفريقيين أنفسهم، لا من ترجمة المفاهيم الأوروبية. طرح مفهوم "إفوغبونتاييسي" (Ifogbontayese)، أي "فن/علم إعادة صنع العالم"، بوصفه بديلاً معرفياً للمنهجيات الوضعية المستوردة. هذا الموقف جعله أحد الرواد المؤسسين لما يُعرف اليوم بحركة "السوسيولوجيا الأصلية" (Indigenous Sociologies) في أفريقيا، وامتد أثره إلى علماء النفس الأفارقة الذين سعوا لاحقاً لبناء أطر نفسية-اجتماعية محلية مماثلة (مثل مفهوم الأوبونتو وعلم النفس الأفريقي المعاصر).
 
-**السبب:** محتوى حقيقي وموثّق جزئياً تحت slug خاطئ تماماً (لا تصحيف، بل شخص آخر كلياً). خمسة ملفات كانت تربط بهذا الـslug بعنوان "أكينسولا أكيووو" الصحيح (thk-asante، thk-hountondji، thk-wiredu، sch-african-psychology) أو بعنوان خاطئ قديم (thk-bodunrin) — أُزيلت هذه الروابط جميعاً حتى يُحسم slug جديد.
+## الأثر
 
-## للمتابعة
+أثّرت أطروحات أكيووو في جيل لاحق من الباحثين الأفارقة في علم الاجتماع والأنثروبولوجيا وعلم النفس الثقافي، وأصبحت مقالته في *International Sociology* (1986) مرجعاً متكرر الاستشهاد في نقاشات "توطين" (Indigenization) العلوم الاجتماعية في أفريقيا وخارجها. ناقش مفكرون لاحقون — من بينهم مؤلفون كتبوا عنه في *Journal of Contemporary African Studies* (2021) بعنوان "Contesting Northern Knowledge: Akinsola Akiwowo and the Worldwide Struggle to Change the Social Sciences" — إرثه بوصفه جزءاً من نضال أوسع لتحرير العلوم الاجتماعية من مركزية الشمال المعرفية.
 
-- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
-- النسخة المؤرشفة (نص كامل، غير محدّث): `agents_specs/quarantine-minimax-archive/thk-rcabrera.md.archived.2026-08-27`
-- طلبات البحث المعلقة: `agents_specs/requests-minimax.md`
+## القيد
+
+انحصر إنتاج أكيووو المنشور والموثَّق بالإنجليزية في مقالات ومحاضرات محدودة العدد نسبياً، ولم يخلّف نسقاً نظرياً شاملاً موازياً لمدارس علم الاجتماع الكبرى؛ كما أن مفاهيمه المستمدة من الشعر الطقسي اليوروبي تحتاج ترجمة وتأويلاً دقيقين، وهو ما جعل تلقّيها خارج الأوساط الأفريقانية محدوداً حتى اليوم.
 
 ## المصادر
 
-- ملف الحجر الرئيسي: `agents_specs/quarantine-minimax.md`
-- النسخة المؤرشفة: `agents_specs/quarantine-minimax-archive/thk-rcabrera.md.archived.2026-08-27`
-- طلبات البحث: `agents_specs/requests-minimax.md`
+- Akiwowo, Akinsola. "Ajobi and Ajogbe: Variations on the Theme of Sociation." Inaugural Lecture, University of Ife, 1980/1983.
+- Akiwowo, Akinsola. "Contributions to the Sociology of Knowledge from an African Oral Poetry." *International Sociology*, vol. 1, no. 4, 1986.
+- Akiwowo, Akinsola. "Indigenous Sociologies." *International Sociology*, vol. 14, no. 2, 1999.
+- Makinde, M. Akin. "Asuwada Principle: An Analysis of Akiwowo's Contributions to the Sociology of Knowledge from an African Perspective." *International Sociology*, vol. 3, no. 1, 1988.
+- "Contesting Northern Knowledge: Akinsola Akiwowo and the Worldwide Struggle to Change the Social Sciences." *Journal of Contemporary African Studies*, vol. 39, no. 3, 2021.

@@ -19,7 +19,6 @@ edges:
 - rel: "founded_by", target: "thk-yishin", target_type: "مفكر"
 related:
 - id: "thk-yishin", title: "يوشيموتو إيشين", type: "مفكر"
-- id: "thk-teruo-ohta", title: "تيرو أوتا", type: "مفكر"
 - id: "thk-michio-mizuno", title: "ميتشيو ميزونو", type: "مفكر"
 - id: "thk-keiko-hoshino", title: "كيكو هوشينو", type: "مفكر"
 - id: "thk-masaaki-takahashi", title: "ماساكي تاكاهاشي", type: "مفكر"

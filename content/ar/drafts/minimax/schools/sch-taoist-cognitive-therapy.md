@@ -24,14 +24,13 @@ related:
 - id: "thk-jingqiyong", title: "يانغ ديشن", type: "مفكر"
 - id: "thk-wzhang", title: "وي تشانغ", type: "مفكر"
 - id: "thk-zhangyalin", title: "تشانغ يالين", type: "مفكر"
-- id: "thk-zhangyongqiang", title: "تشانغ يونغ تشيانغ", type: "مفكر"
-- id: "thk-yihuazhu", title: "تشو يي-هوا", type: "مفكر"
 - id: "sch-daoism-philosophical", title: "الداووية الفلسفية", type: "مدرسة"
 - id: "sch-cognitive-behavioral", title: "العلاج المعرفي السلوكي", type: "مدرسة"
 gaps:
   - "الانتماء المؤسسي الدقيق لـ Zhang Tianjun وقت نشر دراسة 2002 (جامعة هونان الطبية/جامعة جنوب-وسط الصين مقابل أي معهد في بكين) غير محسوم في هذه المسودة، والمصدر المتاح لا يذكر «معهد بكين» بالاسم."
   - "لا توجد ترجمة عربية معتمدة لمصطلحات النموذج (مثل Wu Wei أو مبدأ Taiji) في أدبيات نفسية عربية محكّمة."
   - "تفاصيل بروتوكول الجلسات (عدد الجلسات، مدتها) غير موثقة هنا خارج ما ورد في ملخصات الدراسة التجريبية لعام 2002."
+  - "**أُزيل رابطا thk-zhangyongqiang وthk-yihuazhu (2026-09-25):** حُذف الملفان في جولة حجر شاملة لعدم توثيق وجود شخصين مستقلين بهذين الاسمين في أدبيات العلاج المعرفي الطاوي."
 superseded_by: "sch-taoist-cognitive-therapy"   # رُقِّيت هذه المسودةُ ونسختُها المعتمدةُ في content/ar/schools/sch-taoist-cognitive-therapy.md
 ---
 

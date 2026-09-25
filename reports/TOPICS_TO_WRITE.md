@@ -248,3 +248,12 @@ real, title-specific content) later.
 | con-secular-sacred-musical-continuum | استمراريةُ الموسيقى بينَ العلمانيِّ والمقدَّس | Secular-Sacred Musical Continuum |
 | con-oral-transmission-sacred-music | النقلُ الشفاهيُّ في الموسيقى المقدَّسة | Oral Transmission in Sacred Music |
 | con-music-religious-conversion | الموسيقى والتحوُّلُ الديني | Music and Religious Conversion |
+
+
+## From quarantine resolution (round 7): real people deleted because their files had unrelated slugs
+
+| suggested slug | person | note |
+|---|---|---|
+| thk-len-sperry | Len Sperry | psychiatrist/psychotherapy author (was thk-rsperry) |
+| thk-laurence-barrett | Laurence A. Barrett | Jungian coaching author (old file described someone else) |
+| thk-linda-hatch | Linda Hatch | sex-addiction therapist/author (old file described someone else) |

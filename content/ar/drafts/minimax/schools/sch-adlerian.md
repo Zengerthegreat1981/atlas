@@ -28,16 +28,13 @@ related:
 - id: "thk-edferguson", title: "إيفا درايكرز فيرغوسون", type: "مفكر"
 - id: "thk-fkurtz", title: "رونالد كورتز", type: "مفكر"
 - id: "thk-furtmuller", title: "كارل فورتمولر", type: "مفكر"
-- id: "thk-gweishaar", title: "إريك وايشار", type: "مفكر"
 - id: "thk-hmosak", title: "هارولد موساك", type: "مفكر"
 - id: "thk-hstein", title: "هنري ت. ستاين", type: "مفكر"
 - id: "thk-jcarlson", title: "جون كارلسون", type: "مفكر"
 - id: "thk-lazarsfeld", title: "صوفي لازارسفيلد", type: "مفكر"
 - id: "thk-rcorsini", title: "راي كورسيني", type: "مفكر"
-- id: "thk-rmanaster", title: "رايتشل ماناستر", type: "مفكر"
 - id: "thk-rmosak", title: "روبرت موشارك", type: "مفكر"
 - id: "thk-rowenaansbacher", title: "روينا ريبين آنسْباخِر", type: "مفكر"
-- id: "thk-rsperry", title: "روبرت سبيري", type: "مفكر"
 - id: "thk-rwatts", title: "ريتشارد واتس", type: "مفكر"
 - id: "thk-sicher", title: "ليديا سيشر", type: "مفكر"
 - id: "thk-soltz", title: "فيكي سولْتز", type: "مفكر"
@@ -47,6 +44,7 @@ related:
 gaps:
   - "لا توجد إحصاءات معاصرة موثقة عن عدد المعالجين الممارسين للأدلرية عالمياً — العدد الإجمالي غير متاح في المصادر المتوفرة."
   - "الفرق الدقيق بين نسخة شيكاغو (كورسيني، موساك) ونسخة نيويورك (ستاين، معهد أدلر) في التأويل التقني لأسلوب الحياة لم يُحسم هنا بدقة كافية."
+  - "**أُزيل رابطا thk-gweishaar وthk-rmanaster (2026-09-25):** حُذف الملفان في جولة حجر شاملة لعدم توثيق وجود شخصين مستقلين بهذين الاسمين في أدبيات علم النفس الفردي."
   - "العضو اليتيم thk-dgray (مارتن ديك، content/ar/thinkers/thk-dgray.md، معتمد) لم يُدرَج في related: نفس الـslug يشاور أيضاً على ملف آخر (مارتن غراي) في content/ar/drafts/spark/thinkers/thk-dgray.md — تعارض slug بين المسارين يحتاج حسماً تحريرياً قبل الربط."
 ---
 # علم النفس الفردي الأدلري

@@ -25,7 +25,6 @@ related:
 - id: "thk-adamblatner", title: "آدم بلاتنر", type: "مفكر"
 - id: "thk-paulholmes", title: "بول هولمز", type: "مفكر"
 - id: "thk-peterkellermann", title: "بيتر كيلرمان", type: "مفكر"
-- id: "thk-marciamarx", title: "مارسيا ماركس", type: "مفكر"
 - id: "thk-mchen", title: "مارفن تشِن", type: "مفكر"
 - id: "con-catharsis-integration", title: "التطهير الاندماجي (كاتارسيس مورينو)", type: "مفهوم"
 gaps:

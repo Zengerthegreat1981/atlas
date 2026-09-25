@@ -23,9 +23,7 @@ related:
 - id: "br-sikolohiyang-pilipino", title: "علم النفس الفلبيني الأصيل (إنريكيز)", type: "تيار"
 - id: "thk-venriquez", title: "فيرجوليو إنريكيز", type: "مفكر"
 - id: "thk-alicorazon", title: "ألي كورازون", type: "مفكر"
-- id: "thk-jose-arsenio", title: "خوسيه أرسينيو", type: "مفكر"
 - id: "thk-roland-tolentino", title: "رولاند تولنتينو", type: "مفكر"
-- id: "thk-eleanor-crisostomo", title: "إيلينور كريزوستومو", type: "مفكر"
 - id: "sch-pancasila", title: "بانتشاسيلا (الفلسفة السياسية الإندونيسية)", type: "مدرسة"
 gaps:
   - "الفصل الدقيق بين 'الفلسفة الفلبينية' كحقل أكاديمي مستقل (Filipino Philosophy proper، الذي تُدرَّس فيه مقرراته في جامعات فلبينية منذ الثمانينيات) وبين Sikolohiyang Pilipino كحركة علم نفس أصيل لم يُحسم بمصدر ثانوي واحد جامع؛ الاثنان مترابطان تاريخياً لكن ليسا مطابقين."

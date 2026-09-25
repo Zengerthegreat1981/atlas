@@ -18,7 +18,6 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-cognitive-behavioral", target_type: "مدرسة"
 related:
-- id: "thk-rsperry", title: "روبرت سبيري", type: "مفكر"
 - id: "thk-jledoux", title: "جوزيف لودوكس", type: "مفكر"
 - id: "thk-patricia-churchland", title: "باتريشيا تشيرشلاند", type: "مفكر"
 - id: "stu-sperry-gazzaniga-split-brain", title: "دراسات سبيري وغازانيغا على مرضى الدماغ المشقوق والتخصص الوظيفي لنصفي المخ", type: "دراسة وبحث"

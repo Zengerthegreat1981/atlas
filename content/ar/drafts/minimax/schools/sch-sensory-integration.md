@@ -20,7 +20,6 @@ edges:
 related:
 - id: "thk-jayres", title: "جين أَيرس", type: "مفكر"
 - id: "thk-eblanche", title: "إرنا بلانش", type: "مفكر"
-- id: "thk-lhatch", title: "ليندا هاتش", type: "مفكر"
 - id: "thk-lmiller", title: "لوسي جين ميلر", type: "مفكر"
 - id: "thk-rcermak", title: "شارون سيرماك", type: "مفكر"
 - id: "thk-rschaaf", title: "روزان شاف", type: "مفكر"

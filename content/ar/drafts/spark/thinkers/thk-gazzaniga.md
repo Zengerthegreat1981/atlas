@@ -18,7 +18,6 @@ edges:
 - rel: "belongs_to", target: "sch-biological-neuro", target_type: "مدرسة"
 related:
 - id: "stu-sperry-gazzaniga-split-brain", title: "دراسات سبيري وغازانيغا على مرضى الدماغ المشقوق والتخصص الوظيفي لنصفي المخ", type: "دراسة وبحث"
-- id: "thk-rsperry", title: "روبرت سبيري", type: "مفكر"
 - id: "stu-gazzaniga-interpreter", title: "وحدة المُفسِّر في النصف الأيسر من الدماغ (غازانيغا)", type: "دراسة وبحث"
 - id: "con-hard-problem-of-consciousness", title: "المشكلة الصعبة للوعي والكواليا (The Hard Problem of Consciousness)", type: "مفهوم"
 gaps:
