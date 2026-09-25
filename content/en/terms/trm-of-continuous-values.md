@@ -1,0 +1,23 @@
+---
+slug: "trm-of-continuous-values"
+id: "TRM-ENG-45579"
+type: "مصطلح نفسي"
+level: "مقدمة"
+title: "of continuous values"
+en: "of continuous values"
+ar: ""
+sources:
+  - title: "(APA Reference Books) Sheldon, Ph.D. Zedeck, Sheldon, Ph.D. Zedeck-APA Dictionary of Statistics and Research Methods-American Psychological Association (APA) (2013)   .pdf"
+    year: 2024
+    note: "Extracted from psychology encyclopedia PDF"
+---
+
+# of continuous values
+
+Respondents spec computer, used for recording vocal re
+
+## See also
+
+- Related concepts in psychology
+- Connected theoretical frameworks
+

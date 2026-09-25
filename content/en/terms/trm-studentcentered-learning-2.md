@@ -1,0 +1,23 @@
+---
+slug: "trm-studentcentered-learning-2"
+id: "TRM-ENG-48767"
+type: "مصطلح نفسي"
+level: "مقدمة"
+title: "student-centered learning, 2"
+en: "student-centered learning, 2"
+ar: ""
+sources:
+  - title: "Encyclopedia of Educational Theory and Philosophy 1452230897  .pdf"
+    year: 2024
+    note: "Extracted from psychology encyclopedia PDF"
+---
+
+# student-centered learning, 2
+
+588 feminist theory, 1:347–350 2:707, 709
+
+## See also
+
+- Related concepts in psychology
+- Connected theoretical frameworks
+
