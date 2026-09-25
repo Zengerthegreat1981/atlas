@@ -1,40 +1,42 @@
 ---
 slug: "con-shame"
-id: "ANT-13112"
+id: "CON-0421"
 type: "مفهوم"
 level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
+title: "Shame"
 en: "Shame"
-crumb: "[EN TRANSLATION NEEDED]"
-dates: ""
+crumb: "Shame"
 edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+  - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  []
-gaps:
-  - "Social disapproval and loss of face"
+  - id: "con-authenticity", title: "Authenticity", type: "مفهوم"
+  - id: "con-responsibility", title: "Responsibility", type: "مفهوم"
+  - id: "thk-tangney", title: "Tangney", type: "مفهوم"
 ---
+# Shame (Existential Perspective)
 
-# [EN TRANSLATION NEEDED]
+Shame is existential state of being seen and judged unfavorably or anticipating such judgment. It differs from guilt (about action) in that shame is about self. Shame says "I am unacceptable" while guilt says "I did something wrong."
 
-[EN TRANSLATION NEEDED — lede paragraph]
+## Shame and Authenticity
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+Existentially, shame arises from gap between actual self and performed self. If identity rests on appearing competent or invulnerable, exposure to weakness brings shame. This exposure reveals inauthenticity.
 
-# العار والخزي
+This suggests paradoxical therapeutic approach: shame sometimes signals authenticity becoming possible. Dissolution of false self-presentation, while acutely painful, opens doors to genuine connection and self-acceptance. Many in therapy first experience shame as defenses loosen and actual selves become visible.
 
-[Brief description in Arabic for translator reference]
+## Social Shame vs. Existential Shame
 
-## الفرع الرئيسي
+Not all shame concerns inauthenticity. Someone experiencing shame for violating cultural norms or from stigmatization faces social shame—possibly response to genuine injustice. Existential therapist distinguishes between shame signaling avoidance and shame from real social wounding.
 
-[Key section in Arabic]
+## Sources
 
-## المساهمات
+1. Tangney, J. P., & Dearing, R. L. (2002). *Shame and Guilt*. Guilford Press.
+2. Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books.
+3. May, R. (1969). *Love and Will*. W. W. Norton.
+4. Morrison, A. P. (Ed.). (2008). *Shame in Psychotherapy*. Routledge.
 
-[Contributions in Arabic]
+## Related Concepts
 
-## الفجوات والتطورات
-
-[Gaps in Arabic]
-
--->
+- [[con-authenticity]]
+- [[con-guilt]]
+- [[con-responsibility]]
+- [[con-relationships]]
