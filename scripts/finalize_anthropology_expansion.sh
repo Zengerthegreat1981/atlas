@@ -34,7 +34,7 @@ echo ""
 
 # Step 2: Run validation
 echo "[2/5] Running comprehensive validation..."
-python3 validate_anthropology_depth.py --type all 2>&1 | tee VALIDATION_RESULTS.txt
+python3 scripts/validate_anthropology_depth.py --type all 2>&1 | tee VALIDATION_RESULTS.txt
 validation_status=$?
 
 echo ""
