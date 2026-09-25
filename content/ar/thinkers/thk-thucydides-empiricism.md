@@ -1,6 +1,6 @@
 ---
 slug: "thk-thucydides-empiricism"
-id: "THK-13201"
+id: "THK-10001"
 type: "thinker"
 part: "historiography"
 level: "متقدم"

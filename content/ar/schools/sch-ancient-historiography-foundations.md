@@ -1,6 +1,6 @@
 ---
 slug: "sch-ancient-historiography-foundations"
-id: "SCH-1312"
+id: "SCH-13163"
 type: "school"
 part: "historiography"
 historical_period: "القرن 5-1 ق.م"

@@ -1,6 +1,6 @@
 ---
 slug: "thk-livy-ab-urbe-condita"
-id: "THK-13203"
+id: "THK-10003"
 type: "thinker"
 part: "historiography"
 level: "متقدم"
@@ -14,7 +14,7 @@ cultural_origin: "roman"
 edges: []
 related:
   - id: "sch-national-historiography-nation-building", title: "التاريخُ الوطنيُّ وصناعةُ الأمّة", type: "school"
-  - id: "sch-literary-history-rhetoric", title: "التاريخُ الأدبيُّ والبلاغة في الرواية", type: "school"
+  - id: "sch-ancient-historiography-foundations", title: "أسس التاريخ المكتوب", type: "school"
 gaps:
   - "تأثيرُ ليفيوس على القرون الوسطى يحتاج دراسةً منفصلة"
 ---

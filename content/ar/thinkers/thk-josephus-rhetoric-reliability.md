@@ -1,6 +1,6 @@
 ---
 slug: "thk-josephus-rhetoric-reliability"
-id: "THK-13205"
+id: "THK-10005"
 type: "thinker"
 part: "historiography"
 level: "متقدم"
@@ -13,8 +13,8 @@ active_end: 100
 cultural_origin: "jewish"
 edges: []
 related:
-  - id: "sch-religious-historiography", title: "التاريخُ الديني والقومي", type: "school"
-  - id: "con-rhetoric-truth-tension", title: "التوترُ بين البلاغةِ والحقيقة في الرواية التاريخية", type: "concept"
+  - id: "sch-greek-roman-historiography", title: "المؤرخون اليونان والرومان", type: "school"
+  - id: "con-witness-testimony-antiquity", title: "شهادة الشاهد العيان", type: "concept"
 gaps: []
 ---
 

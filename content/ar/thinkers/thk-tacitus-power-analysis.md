@@ -1,6 +1,6 @@
 ---
 slug: "thk-tacitus-power-analysis"
-id: "THK-13204"
+id: "THK-10004"
 type: "thinker"
 part: "historiography"
 level: "متقدم"
@@ -13,7 +13,8 @@ active_end: 120
 cultural_origin: "roman"
 edges: []
 related:
-  - id: "sch-history-as-political-analysis", title: "التاريخُ كتحليلٍ سياسيّ", type: "school"
+  - id: "sch-ancient-historiography-foundations", title: "أسس التاريخ المكتوب", type: "school"
+  - id: "con-objectivity-causation", title: "الموضوعية والسببية", type: "concept"
 gaps: []
 ---
 

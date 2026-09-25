@@ -1,6 +1,6 @@
 ---
 slug: "con-objectivity-causation"
-id: "CON-1322"
+id: "CON-18729"
 type: "concept"
 part: "historiography"
 level: "متقدم"
@@ -10,7 +10,7 @@ crumb: "historiography ← Ancient Historiography"
 related:
   - id: "sch-ancient-historiography-foundations", title: "أسس التاريخ المكتوب", type: "school"
   - id: "thk-thucydides-empiricism", title: "ثوكيديدس والتجريبية", type: "thinker"
-  - id: "con-objectivity-debate-carr-elton-novick", title: "جدلُ الموضوعية: كار وإلتون ونوڤيك", type: "concept"
+  - id: "con-source-criticism-origins", title: "نقد المصادر: النشأة", type: "concept"
 gaps: []
 ---
 

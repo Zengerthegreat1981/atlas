@@ -1,6 +1,6 @@
 ---
 slug: "thk-polybius-pragmatic-history"
-id: "THK-13202"
+id: "THK-10002"
 type: "thinker"
 part: "historiography"
 level: "متقدم"
