@@ -18,7 +18,6 @@ related:
 - id: "sch-anthropological-political-economy", title: "الاقتصادُ السياسيُّ العالميُّ والتاريخ (Eric Wolf — Europe and the People Without History)", type: "مدرسة"
 - id: "thk-eric-wolf", title: "إريك وولف (Eric Wolf)", type: "مفكر"
 - id: "thk-jack-goody", title: "جاك غودي (Jack Goody)", type: "مفكر"
-- id: "wrk-sweetness-and-power-mintz", title: "Sweetness and Power", type: "عمل"
 gaps: []
 ---
 # سيدني مينتز (Sidney Mintz)
