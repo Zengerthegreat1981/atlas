@@ -3,41 +3,40 @@
 
 **Date**: September 25, 2026  
 **Status**: ✅ COMPLETE  
-**Milestone**: 90.9% of 1,400-node target achieved
+**Milestone**: 90.8% of 1,400-node target achieved
 
 ---
 
 ## Executive Summary
 
-**Phase 7 Batch 4** successfully expanded the Atlas anthropology knowledge base from **1,183 nodes (84.5%)** to **1,273 nodes (90.9%)**, adding **90 new nodes** across five critical categories:
+**Phase 7 Batch 4** successfully expanded the Atlas anthropology knowledge base from **1,183 nodes (84.5%)** to **1,271 nodes (90.8%)**, adding **88 new nodes** across five critical categories:
 
-1. **27 Contemporary Anthropologists** (THK-13405 to THK-13431)
+1. **26 Contemporary Anthropologists** (THK-13405 to THK-13431, minus 1 duplicate)
 2. **30 Research Methods & Instruments** (INS-0381 to INS-0410)
 3. **19 Contemporary Case Studies** (STU-1349 to STU-1367)
-4. **15 Advanced Theoretical Concepts** (CON-18646 to CON-18660)
+4. **14 Advanced Theoretical Concepts** (CON-18646 to CON-18658, minus 2 deleted)
 5. **8 Intersectional & Synthetic Schools** (SCH-13155 to SCH-13162)
 
-**Total System**: 13,179 global nodes (all parts) | 1,273 anthropology nodes  
-**Remaining Gap**: 127 nodes (9.1% to reach 1,400 target)
+**Total System**: 13,181 global nodes (all parts) | 1,271 anthropology nodes  
+**Remaining Gap**: 129 nodes (9.2% to reach 1,400 target)
 
 ---
 
 ## Node Creation Summary
 
-### 1. Contemporary Thinkers (27 nodes — THK-13405 to THK-13431)
+### 1. Contemporary Thinkers (26 nodes — THK-13405 to THK-13431 minus duplicates)
 
 **Thematic Distribution:**
 
 #### Applied Anthropologists (4 nodes)
 - **Kristina Wolff** (THK-13405, Canada) — Indigenous community research methodologies
 - **Arturo Escobar** (THK-13406, Colombia) — Political ecology, development anthropology
-- **Aihwa Ong** (THK-13407, Malaysia) — Migration, Asian modernities, biocapital
 - **Lisa Rofel** (THK-13408, USA) — Queer anthropology, digital China
 
 #### Indigenous Knowledge Systems Scholars (3 nodes)
 - **Aileen Moreton-Robinson** (THK-13409, Australia) — Indigenous sovereignty, decolonial studies
-- **Linda Tuhiwai Smith** (THK-13410, Aotearoa/NZ) — Decolonial methodologies, indigenous research
 - **Donald Stoan** (THK-13411, USA) — Indigenous science, ethnoecology
+- **Paul Nadasdy** (THK-13419, Canada) — Indigenous/western knowledge, climate
 
 #### Women, Gender & Feminist Anthropologists (4 nodes)
 - **Paola Bacchetta** (THK-13412, Italy) — Queer activism, South Asian studies
@@ -164,7 +163,7 @@
 
 ---
 
-### 4. Advanced Theoretical Concepts (15 nodes — CON-18646 to CON-18660)
+### 4. Advanced Theoretical Concepts (14 nodes — CON-18646 to CON-18658)
 
 1. **CON-18646** — Epistemic Justice in Anthropology
 2. **CON-18647** — Data Justice Frameworks
@@ -179,8 +178,7 @@
 11. **CON-18656** — Care Ethics in Anthropology
 12. **CON-18657** — Affective Justice
 13. **CON-18658** — Platform Ethnography Concepts
-14. **CON-18659** — More-Than-Human Anthropology
-15. **CON-18660** — Intersectional Temporality
+14. **CON-18660** — Intersectional Temporality
 
 **Coverage**: Theoretically advanced concepts addressing justice frameworks, decolonial theory, digital methods, care work, and relational anthropology.
 
@@ -240,13 +238,13 @@
 
 | Metric | Previous | Current | Change |
 |--------|----------|---------|--------|
-| **Anthropology Nodes** | 1,183 | 1,273 | +90 |
-| **% of Target** | 84.5% | 90.9% | +6.4% |
-| **Remaining Gap** | 217 | 127 | −90 |
-| **Global Nodes (All Parts)** | 13,089 | 13,179 | +90 |
+| **Anthropology Nodes** | 1,183 | 1,271 | +88 |
+| **% of Target** | 84.5% | 90.8% | +6.3% |
+| **Remaining Gap** | 217 | 129 | −88 |
+| **Global Nodes (All Parts)** | 13,089 | 13,181 | +92 |
 
 ### Milestone Achievement
-- ✅ **90%+ Milestone Reached**: 1,273/1,400 = 90.9%
+- ✅ **90%+ Milestone Reached**: 1,271/1,400 = 90.8%
 - 📊 **Phase 7 Progress**: 
   - Batch 1: 1,085 nodes (77.5%)
   - Batch 2: 1,085 → ~1,120 nodes (80%)
@@ -307,7 +305,7 @@
 8. **Intersectionality**: Synthetic schools bridging traditional boundaries (8 nodes)
 
 ### Regional/Applied Focus
-- **Scholars from Global South**: 14/27 thinkers (52%) — Australia, Brazil, Colombia, Canada (Indigenous focus), Egypt, Finland, India, Italy, Malaysia, Netherlands, Nigeria, Sweden, Uganda, USA
+- **Scholars from Global South**: 13/26 thinkers (50%) — Australia, Brazil, Colombia, Canada (Indigenous focus), India, Italy, Malaysia, Netherlands, Nigeria, Sweden, Uganda, USA
 - **Established applied relevance**: All thinkers grounded in published anthropological work
 - **Contemporary relevance**: Focus on 2000–2026 scholarship addressing present-day crises (pandemic, climate, digital, inequality)
 
@@ -315,7 +313,7 @@
 
 ## Remaining Work to 1,400 Target
 
-**Nodes Needed**: 127 (9.1% gap)
+**Nodes Needed**: 129 (9.2% gap)
 
 ### Recommended Phase 7 Batch 5 Focus
 
@@ -342,7 +340,7 @@
    - Lesser-known pioneers from Global South
    - Interdisciplinary bridges
 
-**Estimated Total**: 1,273 + 65 = **1,338 nodes (95.6%)**
+**Estimated Total**: 1,271 + 65 = **1,336 nodes (95.4%)**
 
 ---
 
@@ -357,44 +355,43 @@
 
 ### Commit Message
 ```
-Phase 7 Batch 4: 90 Contemporary Anthropology Nodes
-(90.9% of 1,400 target achieved)
+Phase 7 Batch 4: 88 Contemporary Anthropology Nodes (90.8% milestone)
 
 Categories:
-- 27 Contemporary anthropologists (global, applied, indigenous, digital, justice focus)
+- 26 Contemporary anthropologists (global, applied, indigenous, digital, justice focus)
 - 30 Research instruments/methods (digital ethnography, decolonial, pandemic, climate, care, AI/algorithm auditing)
 - 19 Contemporary case studies (pandemic, climate justice, platform/digital, tech ethics, care economy)
-- 15 Advanced concepts (epistemic justice, data justice, algorithmic colonialism, care ethics, intersectional temporality)
+- 14 Advanced concepts (epistemic justice, data justice, algorithmic colonialism, care ethics, intersectional temporality)
 - 8 Intersectional schools (indigenous+digital, climate+feminist, tech+decolonial, applied+activist, one-health, platform-labor, disability-digital, care-justice)
 
 ID ranges:
-- THK: 13405–13431 (27 thinkers)
+- THK: 13405–13431 (26 thinkers, minus duplicates)
 - INS: 0381–0410 (30 instruments)
 - STU: 1349–1367 (19 studies)
-- CON: 18646–18660 (15 concepts)
+- CON: 18646–18658 (14 concepts, minus duplicates)
 - SCH: 13155–13162 (8 schools)
 
-Total: 1,183 + 90 = 1,273 nodes (90.9% of 1,400 target)
-Remaining: 127 nodes to reach 100%
+Total: 1,183 + 88 = 1,271 nodes (90.8% of 1,400 target)
+Remaining: 129 nodes to reach 100%
 
-Validation: build_atlas.py ✓ | audit_atlas.py ✓ | All bilingual | No duplicates
+Validation: build_atlas.py ✓ | audit_atlas.py ✓ | All bilingual | Duplicate IDs resolved
 ```
 
 ---
 
 ## Conclusion
 
-**Phase 7 Batch 4** successfully achieved the **90%+ milestone** (90.9% of 1,400-node target), adding 90 carefully researched nodes across five critical categories. The expansion prioritizes:
+**Phase 7 Batch 4** successfully achieved the **90%+ milestone** (90.8% of 1,400-node target), adding 88 carefully researched nodes across five critical categories. The expansion prioritizes:
 
-- **Contemporary voices**: 27 anthropologists active in 2000–2026
-- **Global representation**: 52% from Global South, indigenous scholars, underrepresented regions
+- **Contemporary voices**: 26 anthropologists active in 2000–2026
+- **Global representation**: 50% from Global South, indigenous scholars, underrepresented regions
 - **Applied relevance**: Methods grounded in pandemic, climate, digital, and justice work
 - **Theoretical depth**: Advanced concepts bridging traditional boundaries
 - **Intersectionality**: Synthetic schools combining anthropological traditions
 
-The remaining **127-node gap (9.1%)** is achievable in **Phase 7 Batch 5**, with recommended focus on specialist studies, emerging methodologies, contemporary debates, and additional thinkers from underrepresented regions.
+The remaining **129-node gap (9.2%)** is achievable in **Phase 7 Batch 5**, with recommended focus on specialist studies, emerging methodologies, contemporary debates, and additional thinkers from underrepresented regions.
 
-**Status**: ✅ BUILD PASSED | ✅ VALIDATION PASSED | ✅ 90.9% MILESTONE ACHIEVED
+**Status**: ✅ BUILD PASSED | ✅ VALIDATION PASSED | ✅ 90.8% MILESTONE ACHIEVED
 
 ---
 
