@@ -102,3 +102,5 @@ Size: about 190 batches of 40.
 | 2026-09-26 | worker: legal-theory A (Islamic legal theory) | +30 (14 thk, 7 wrk, 9 con), 30/30 pass; 5 title syncs, 3 factual fixes after reads. legal-theory now 388 | 731a127df |
 | 2026-09-26 | worker: legal-theory D (Islamic jurists & institutions) | +30 (14 thk, 7 wrk, 9 con), 30/30 pass; 1 source fix, 2 factual fixes after reads | 768077892 |
 | 2026-09-26 | worker: legal-theory C (Western theory, private/criminal/comparative) | +30 (14 thk, 7 wrk, 9 con), 30/30 pass; 1 fix after reads. **legal-theory measured: 448** (target 700; ~252 to go). Note: ~20 `con-legal-rights-NN` 5-word stubs in legal-theory are junk and should be handled in Phase 2 | 92b570e6d |
+| 2026-09-26 | worker: legal-theory E (Islamic jurists & usul) | +28 (14 thk, 5 wrk, 9 con), 28/28 pass after 11 expansions; 2 works skipped as existing duplicates; 1 Arabic source added after reads | 0cdde27b6 |
+| 2026-09-26 | worker: legal-theory F (Western, international, comparative) | +30 (14 thk, 7 wrk, 9 con), 30/30 pass after 21 expansions; factual fixes in Welzel and P. J. Williams after reads. **legal-theory measured: 506** (target 700) | 816114c87 |
