@@ -97,3 +97,6 @@ Size: about 190 batches of 40.
 | date | batch | result | commit |
 |---|---|---|---|
 | 2026-09-25 | baseline census | this file | – |
+| 2026-09-26 | worker: Phase 0 check | AR integrity 0 errors (12,622 files); `build_atlas.py ar` rebuilt data.json (12,622 items). Note: legal-theory backlog is 41/41 ticked but the section had only 328 nodes, so new slugs are chosen beyond the backlog | – |
+| 2026-09-26 | worker: legal-theory B (Western jurisprudence) | +30 (14 thk, 7 wrk, 9 con), 30/30 pass; 1 factual fix after reads | 115d4b4e0 |
+| 2026-09-26 | worker: legal-theory A (Islamic legal theory) | +30 (14 thk, 7 wrk, 9 con), 30/30 pass; 5 title syncs, 3 factual fixes after reads. legal-theory now 388 | 731a127df |
