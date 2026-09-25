@@ -9,23 +9,63 @@ en: "Pierre Bourdieu"
 birth_year: 1930
 death_year: 2002
 birth_country: "فرنسا"
-active_from: 1950
+active_from: 1958
 active_to: 2002
-primary_school: "sch-digital-culture-anthropology"
+primary_school: "sch-bourdieu-practice-habitus"
 edges:
-- rel: "belongs_to", target: "sch-digital-culture-anthropology", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-bourdieu-practice-habitus", target_type: "مدرسة"
 related:
-gaps:
+- id: "sch-bourdieu-practice-habitus", title: "نظرية الممارسة والهابيتوس", type: "مدرسة"
+- id: "sch-bourdieu-field-capital", title: "نظرية الحقل ورأس المال عند بورديو", type: "مدرسة"
+- id: "sch-bourdieu-distinction-cultural-reproduction", title: "التمايز وإعادة الإنتاج الثقافي عند بورديو", type: "مدرسة"
+gaps: []
 ---
 
-# بيير بورديو (Pierre Bourdieu) (Pierre Bourdieu)
+# بيير بورديو (Pierre Bourdieu)
 
-**الباحث**: Pierre Bourdieu
-**الفترة النشطة**: 1950 – 2002
-**المدرسة**: sch-digital-culture-anthropology
+عالم اجتماع وأنثروبولوجي فرنسي (1930–2002)، وُلد في دانغان بجنوب غرب فرنسا لأسرة متواضعة الحال، ودرس الفلسفة في المدرسة العليا للأساتذة (ENS) قبل أن يُستدعى لأداء خدمته العسكرية في الجزائر إبان حرب الاستقلال، حيث أجرى بحثه الإثنوغرافي الأول بين قبائل القبايل (Kabylia)، وهو ما وجّه مساره لاحقاً نحو الأنثروبولوجيا وعلم الاجتماع معاً. شغل كرسي علم الاجتماع في الكوليج دو فرانس، ويُعدّ أحد أكثر منظّري القرن العشرين تأثيراً عبر التخصصات.
 
-عالم اجتماع وأنثروبولوجيّ فرنسي رائد متخصص في الرأسمال الثقافي والممارسة.
+## ما أعطاه
+
+### الهابيتوس (Habitus)
+
+طوّر بورديو، انطلاقاً من ملاحظته الميدانية لسكان القبايل الجزائريين في *Esquisse d'une théorie de la pratique* (1972، تُرجم *Outline of a Theory of Practice*)، مفهوم **الهابيتوس**: منظومة استعدادات وأذواق ومخططات إدراك وفعل **مُتجسِّدة**، تُكتسب عبر التنشئة الاجتماعية المبكرة داخل طبقة وبيئة معينتين، وتوجّه ممارسة الفرد اليومية توجيهاً شبه تلقائي دون حاجة لقواعد واعية صريحة، مع أنها ليست حتمية ميكانيكية بل "استراتيجية عملية" تتكيّف مع مواقف جديدة.
+
+### الحقل ورأس المال (Field and Capital)
+
+طوّر مفهوم **الحقل** (champ): فضاء اجتماعي شبه مستقل (الحقل الفني، الأكاديمي، الديني، الاقتصادي) له قواعد صراعه الخاصة على المكانة والشرعية، يتحدد موقع الفاعل فيه بحجم وتركيبة **رأس ماله**: لا الاقتصادي وحده، بل أيضاً **الرأسمال الثقافي** (الشهادات، الذوق، المعرفة المضمرة) و**الرأسمال الاجتماعي** (شبكة العلاقات) و**الرأسمال الرمزي** (الاعتراف والهيبة).
+
+### «التمايز» (La Distinction, 1979)
+
+في عمله الأشهر — القائم على استقصاء ميداني واسع للأذواق الفرنسية (الطعام، الموسيقى، الأثاث، الرياضة) — جادل بورديو بأن الذوق الجمالي، الذي يُقدَّم عادة بوصفه اختياراً فردياً حراً أو موهبة فطرية، هو في الواقع **موروث طبقياً**: يكتسب الفرد "براعة" في تذوّق "الفن الرفيع" بحكم تنشئته داخل الطبقة العليا لا بحكم استعداد فطري، فيتحوّل الذوق نفسه إلى أداة **تمايز طبقي** وإعادة إنتاج للامتياز الاجتماعي عبر الأجيال دون الحاجة لإكراه مباشر — وهي الآلية التي أسماها **العنف الرمزي** (violence symbolique).
+
+### إعادة الإنتاج التعليمي
+
+في *La Reproduction* (1970، مع جان-كلود باسرون Jean-Claude Passeron) بيّن كيف يُقدَّم النظام المدرسي نفسه بوصفه معياراً "محايداً" لقياس الجدارة، بينما هو في الواقع يكافئ ضمناً رأس المال الثقافي الذي يملكه أبناء الطبقة الوسطى والعليا سلفاً من بيوتهم، فيعيد إنتاج التفاوت الطبقي تحت غطاء "تكافؤ الفرص".
+
+## الأثر
+
+- تُعدّ مفاهيم الهابيتوس والحقل ورأس المال أدوات تحليلية معيارية في علم الاجتماع وعلم الاجتماع التربوي والأنثروبولوجيا الثقافية على مستوى العالم.
+- أثّر عمله عن الجزائر (*Sociologie de l'Algérie*, 1958؛ *Le Déracinement*, 1964) في الأنثروبولوجيا الاقتصادية والدراسات الاستعمارية.
+- امتد تأثيره إلى علم اجتماع الفن والإعلام والسياسة (*Sur la télévision*, 1996) والنقد النسوي (*La Domination masculine*, 1998).
+
+## القيد
+
+- انتُقد إطاره بأنه يميل أحياناً إلى **الحتمية البنيوية**: إذ يُصعّب مفهوم الهابيتوس تفسير التغيّر الاجتماعي والفعل الفردي المخالف للتوقّع الطبقي، رغم دفاعه عن أن الهابيتوس "منتِج لا مُنتَج" فقط.
+- اعتمدت دراسة "التمايز" على سياق فرنسي محدد (فرنسا السبعينيات)، وأثارت محاولات تعميمها على مجتمعات أخرى نقاشاً حول قابلية النقل الثقافي لهذا النموذج.
+
+## أهم أعماله
+
+- *Esquisse d'une théorie de la pratique* (1972).
+- *La Distinction: Critique sociale du jugement* (1979).
+- *La Reproduction* (1970، مع Jean-Claude Passeron).
+- *Le Sens pratique* (1980).
+- *La Domination masculine* (1998).
 
 ## المصادر
 
-- OpenLibrary records for Pierre Bourdieu
+- Bourdieu, Pierre. *La Distinction: Critique sociale du jugement*. Paris: Éditions de Minuit, 1979.
+- Bourdieu, Pierre. *Outline of a Theory of Practice*. Translated by Richard Nice. Cambridge: Cambridge University Press, 1977.
+- Bourdieu, Pierre, and Jean-Claude Passeron. *La Reproduction: Éléments pour une théorie du système d'enseignement*. Paris: Éditions de Minuit, 1970.
+- Bourdieu, Pierre. *Le Sens pratique*. Paris: Éditions de Minuit, 1980.
+- Swartz, David L. *Culture and Power: The Sociology of Pierre Bourdieu*. Chicago: University of Chicago Press, 1997.
