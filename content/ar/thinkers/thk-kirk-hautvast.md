@@ -12,7 +12,8 @@ birth_year: 1978
 fields: ["sociolinguistics", "language variation", "acoustic analysis"]
 affiliation: "جامعة أمستردام"
 primary_school: "sch-sociolinguistics"
-edges: []
+edges:
+- rel: "belongs_to", target: "sch-sociolinguistics-variation", target_type: "مدرسة"
 related: []
 gaps: []
 ---

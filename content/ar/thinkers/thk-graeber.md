@@ -18,6 +18,7 @@ edges:
 - rel: "belongs_to", target: "sch-anthropological-political-economy", target_type: "مدرسة"
 - rel: "evolved_from", target: "thk-marshall-sahlins", target_type: "مفكر"
 related:
+- id: "con-gift-economy", title: "اقتصادُ الهديّة (Gift Economy)", type: "مفهوم"
 - id: "sch-anthropological-political-economy", title: "الاقتصادُ السياسيُّ العالميُّ والتاريخ (Eric Wolf — Europe and the People Without History)", type: "مدرسة"
 - id: "thk-marshall-sahlins", title: "مارشال سالينز (Marshall Sahlins)", type: "مفكر"
 - id: "thk-marcel-mauss", title: "مارسيل موس (Marcel Mauss)", type: "مفكر"

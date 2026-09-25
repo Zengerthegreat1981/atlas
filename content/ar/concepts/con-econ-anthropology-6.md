@@ -9,7 +9,8 @@ en: "Social Capital"
 crumb: "anthropology"
 active_start: 1986
 active_end: "مستمر"
-edges: []
+edges:
+  - rel: "belongs_to", target: "sch-economic-anthropology-expanded", target_type: "مدرسة"
 related:
   - id: "thk-pierre-bourdieu", title: "بيير بورديو", type: "مفكر"
 gaps:

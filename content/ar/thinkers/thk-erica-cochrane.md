@@ -12,7 +12,8 @@ birth_year: 1975
 fields: ["urban sociolinguistics", "Canadian English", "linguistic change"]
 affiliation: "جامعة تورنتو"
 primary_school: "sch-sociolinguistics"
-edges: []
+edges:
+- rel: "belongs_to", target: "sch-sociolinguistics-variation", target_type: "مدرسة"
 related: []
 gaps: []
 ---

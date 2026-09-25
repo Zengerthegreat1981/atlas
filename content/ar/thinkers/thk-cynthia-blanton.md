@@ -12,7 +12,8 @@ birth_year: 1970
 fields: ["African American Vernacular English", "sociolinguistics", "race and language"]
 affiliation: "جامعة تكساس"
 primary_school: "sch-sociolinguistics"
-edges: []
+edges:
+- rel: "belongs_to", target: "sch-sociolinguistics-variation", target_type: "مدرسة"
 related: []
 gaps: []
 ---

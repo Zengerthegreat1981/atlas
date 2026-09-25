@@ -15,6 +15,7 @@ edition_language: "إنجليزية"
 edges:
 - rel: "belongs_to", target: "sch-anthropological-political-economy", target_type: "مدرسة"
 related:
+- id: "con-gift-economy", title: "اقتصادُ الهديّة (Gift Economy)", type: "مفهوم"
 - id: "thk-graeber", title: "ديفيد غريبر", type: "مفكر"
 - id: "thk-marshall-sahlins", title: "مارشال سالينز", type: "مفكر"
 - id: "thk-marcel-mauss", title: "مارسيل موس", type: "مفكر"

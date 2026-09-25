@@ -9,7 +9,8 @@ en: "Market and Exchange"
 crumb: "anthropology"
 active_start: 1944
 active_end: "مستمر"
-edges: []
+edges:
+  - rel: "belongs_to", target: "sch-economic-anthropology-expanded", target_type: "مدرسة"
 related:
   - id: "thk-karl-polanyi", title: "كارل بولاني", type: "مفكر"
   - id: "thk-jack-goody", title: "جاك غودي", type: "مفكر"

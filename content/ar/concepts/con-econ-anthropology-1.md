@@ -9,7 +9,8 @@ en: "Exchange Economy"
 crumb: "anthropology"
 active_start: 1920
 active_end: "مستمر"
-edges: []
+edges:
+  - rel: "belongs_to", target: "sch-economic-anthropology-expanded", target_type: "مدرسة"
 related:
   - id: "thk-marcel-mauss", title: "مارسيل موس", type: "مفكر"
   - id: "thk-marshall-sahlins", title: "مارشال سالينز", type: "مفكر"

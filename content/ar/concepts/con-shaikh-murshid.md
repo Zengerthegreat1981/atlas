@@ -10,8 +10,10 @@ crumb: "arab-thought ← التصوف الإسلامي ← الشيخ والإر
 active_start: 1900
 active_end: "مستمر"
 language: "الإنجليزية"
-edges: []
-related: []
+edges:
+- rel: "belongs_to", target: "sch-islamic-sufism", target_type: "مدرسة"
+related:
+- id: "sch-islamic-sufism", title: "التصوف الإسلامي الكلاسيكي (التصوف)", type: "مدرسة"
 gaps:
   - "تم إنشاء هذا الملف كجزء من Phase 3 (2026-09-24)."
 ---

@@ -9,7 +9,8 @@ en: "Distribution and Exchange"
 crumb: "anthropology"
 active_start: 1940
 active_end: "مستمر"
-edges: []
+edges:
+  - rel: "belongs_to", target: "sch-economic-anthropology-expanded", target_type: "مدرسة"
 related:
   - id: "thk-karl-polanyi", title: "كارل بولاني", type: "مفكر"
 gaps:

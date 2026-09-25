@@ -13,6 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-maussian-gift-theory", target_type: "مدرسة"
 - rel: "belongs_to", target: "sch-anthropological-political-economy", target_type: "مدرسة"
 related:
+- id: "con-gift-economy", title: "اقتصادُ الهديّة (Gift Economy)", type: "مفهوم"
 - id: "stu-malinowski-kula-ring-exchange", title: "حلقةُ الكولا: التبادلُ الاقتصاديُّ والاجتماعيُّ في جزر التروبرياند", type: "دراسة"
 - id: "thk-bronislaw-malinowski", title: "برونيسلاو مالينوفسكي", type: "مفكر"
 - id: "con-moka-hagen-exchange", title: "المُوكا (Moka Exchange)", type: "مفهوم"

@@ -9,7 +9,8 @@ en: "Crafts and Skills"
 crumb: "anthropology"
 active_start: 1960
 active_end: "مستمر"
-edges: []
+edges:
+  - rel: "belongs_to", target: "sch-economic-anthropology-expanded", target_type: "مدرسة"
 related:
   - id: "thk-charles-briggs", title: "تشارلز بريجز", type: "مفكر"
 gaps:

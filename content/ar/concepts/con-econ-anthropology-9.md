@@ -9,7 +9,8 @@ en: "Division of Labor"
 crumb: "anthropology"
 active_start: 1776
 active_end: "مستمر"
-edges: []
+edges:
+  - rel: "belongs_to", target: "sch-economic-anthropology-expanded", target_type: "مدرسة"
 related:
   - id: "thk-adam-smith", title: "آدم سميث", type: "مفكر"
 gaps:

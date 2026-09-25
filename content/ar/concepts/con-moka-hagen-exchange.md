@@ -13,6 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-maussian-gift-theory", target_type: "مدرسة"
 - rel: "belongs_to", target: "sch-feminist-anthropology", target_type: "مدرسة"
 related:
+- id: "con-gift-economy", title: "اقتصادُ الهديّة (Gift Economy)", type: "مفهوم"
 - id: "stu-strathern-hagen-ceremonial-exchange", title: "تبادلُ الموكا والهدايا عند شعب هاغن", type: "دراسة"
 - id: "thk-marilyn-strathern", title: "ماريلين ستراذرن (Marilyn Strathern)", type: "مفكر"
 - id: "con-kula-exchange", title: "حلقةُ الكولا (Kula Exchange)", type: "مفهوم"

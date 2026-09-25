@@ -20,6 +20,7 @@ edges:
 - rel: "belongs_to", target: "sch-malinowskian-functionalism", target_type: "مدرسة"
 - rel: "belongs_to", target: "sch-maussian-gift-theory", target_type: "مدرسة"
 related:
+- id: "con-gift-economy", title: "اقتصادُ الهديّة (Gift Economy)", type: "مفهوم"
 - id: "thk-bronislaw-malinowski", title: "برونيسلاو مالينوفسكي", type: "مفكر"
 - id: "sch-malinowskian-functionalism", title: "الوظيفيةُ المالينوفسكية والملاحظةُ بالمشاركة", type: "مدرسة"
 - id: "sch-maussian-gift-theory", title: "نظريةُ الهبة والتبادل (Maussian Gift Theory)", type: "مدرسة"

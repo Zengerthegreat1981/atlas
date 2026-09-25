@@ -9,7 +9,8 @@ en: "Trade and Merchants"
 crumb: "anthropology"
 active_start: 3000
 active_end: "مستمر"
-edges: []
+edges:
+  - rel: "belongs_to", target: "sch-economic-anthropology-expanded", target_type: "مدرسة"
 related:
   - id: "thk-sidney-mintz", title: "سيدني مينتز", type: "مفكر"
 gaps:

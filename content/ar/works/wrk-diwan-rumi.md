@@ -17,8 +17,10 @@ active_end: 1250
 language: "الإنجليزية"
 register: "academic"
 edges:
+- rel: "belongs_to", target: "sch-islamic-sufism", target_type: "مدرسة"
 - rel: "written_by", target: "thk-rumi", target_type: "مفكر"
 related:
+- id: "sch-islamic-sufism", title: "التصوف الإسلامي الكلاسيكي (التصوف)", type: "مدرسة"
 - id: "thk-rumi", title: "الرومي", type: "مفكر"
 gaps:
   - "تم إنشاء هذا الملف كجزء من Phase 3 (2026-09-24)."

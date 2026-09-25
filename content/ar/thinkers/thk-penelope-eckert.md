@@ -12,7 +12,8 @@ birth_year: 1951
 fields: ["sociolinguistics", "gender and language", "adolescent speech communities"]
 affiliation: "جامعة ستانفورد"
 primary_school: "sch-sociolinguistics"
-edges: []
+edges:
+- rel: "belongs_to", target: "sch-sociolinguistics-variation", target_type: "مدرسة"
 related: []
 gaps: []
 ---

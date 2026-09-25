@@ -21,6 +21,7 @@ edges:
 - rel: "belongs_to", target: "sch-cultural-materialism", target_type: "مدرسة"
 - rel: "evolved_from", target: "thk-marcel-mauss", target_type: "مفكر"
 related:
+- id: "con-gift-economy", title: "اقتصادُ الهديّة (Gift Economy)", type: "مفهوم"
 - id: "thk-marshall-sahlins", title: "مارشال سالينز (Marshall Sahlins)", type: "مفكر"
 - id: "sch-anthropological-political-economy", title: "الاقتصادُ السياسيُّ العالميُّ والتاريخ", type: "مدرسة"
 - id: "thk-marcel-mauss", title: "مارسيل موس (Marcel Mauss)", type: "مفكر"

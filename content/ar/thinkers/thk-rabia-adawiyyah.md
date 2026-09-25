@@ -12,8 +12,10 @@ active_start: 717
 active_end: 801
 country: ""
 language: "الإنجليزية"
-edges: []
-related: []
+edges:
+- rel: "belongs_to", target: "sch-islamic-sufism", target_type: "مدرسة"
+related:
+- id: "sch-islamic-sufism", title: "التصوف الإسلامي الكلاسيكي (التصوف)", type: "مدرسة"
 gaps:
   - "تم إنشاء هذا الملف كجزء من Phase 3 (2026-09-24)."
 ---

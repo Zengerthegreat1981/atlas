@@ -9,7 +9,8 @@ en: "Property and Ownership"
 crumb: "anthropology"
 active_start: 1960
 active_end: "مستمر"
-edges: []
+edges:
+  - rel: "belongs_to", target: "sch-economic-anthropology-expanded", target_type: "مدرسة"
 related: []
 gaps:
   - "دراسةٌ محدودةٌ عن تطورِ الملكيةِ الفردية والجماعية عبرَ التاريخ."
