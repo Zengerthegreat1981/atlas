@@ -1,0 +1,23 @@
+---
+slug: "trm-patternobject-recognition-theory"
+id: "TRM-ENG-02026"
+type: "مصطلح نفسي"
+level: "مقدمة"
+title: "PATTERN/OBJECT RECOGNITION THEORY."
+en: "PATTERN/OBJECT RECOGNITION THEORY."
+ar: ""
+sources:
+  - title: "(Jon Roeckelein) Dictionary of Theories, Laws, and  .pdf"
+    year: 2024
+    note: "OCR extracted from scanned PDF"
+---
+
+# PATTERN/OBJECT RECOGNITION THEORY.
+
+BIG FIVE MODEL/THEORY OF PERSONALITY. See PERSONALITY THEORIES. BIOCHEMICAL THEORIES OF PERSONALITY. See PSYCHOPATHOLOGY, THEORIES OF. BIOCHEMICAL/NEUROLOGICAL THEORIES OF SCHIZOPHRENIA. See SCHIZOPHRENIA, THEORIES OF. BIOFEEDBACK, PRINCIPLE OF. See CONTROL/SYSTEMS THEORY. BIOGENETIC RECAPITULATION THEORY. See RECAPITULATION, THEORY/LAW OF. BIOLOGICAL EVOLUTION, DOCTRINE OF. See DARWIN'S EVOLUTION
+
+## See also
+
+- Related concepts in psychology
+- Connected theoretical frameworks
+

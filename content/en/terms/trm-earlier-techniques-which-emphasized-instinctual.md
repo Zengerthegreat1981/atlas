@@ -1,0 +1,23 @@
+---
+slug: "trm-earlier-techniques-which-emphasized-instinctual"
+id: "TRM-ENG-20741"
+type: "مصطلح نفسي"
+level: "مقدمة"
+title: "earlier techniques, which emphasized instinctual"
+en: "earlier techniques, which emphasized instinctual"
+ar: ""
+sources:
+  - title: "Dictionary of Psychology Terms  .pdf"
+    year: 2024
+    note: "OCR extracted from scanned PDF"
+---
+
+# earlier techniques, which emphasized instinctual
+
+forces to a greater degree. Ego boundaries: A concept introduced by Federn that refers to the ability of the intact ego to differentiate 130 Dictionary of Psychology & Allied Sciences the real boundaries prevent repressed unconscious material from overwhelming the ego. When that happen, the person experiences depersonalization and derealization. Boundaries are said to be weakened in schizophrenia
+
+## See also
+
+- Related concepts in psychology
+- Connected theoretical frameworks
+

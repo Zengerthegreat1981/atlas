@@ -1,0 +1,23 @@
+---
+slug: "trm-long-actingbenzodiazepineshalazepamisme"
+id: "TRM-ENG-10658"
+type: "مصطلح نفسي"
+level: "مقدمة"
+title: "long-actingbenzodiazepines,halazepamisme-"
+en: "long-actingbenzodiazepines,halazepamisme-"
+ar: ""
+sources:
+  - title: "APA Dictionary of Clinical Psy PDF   .pdf"
+    year: 2024
+    note: "OCR extracted from scanned PDF"
+---
+
+# long-actingbenzodiazepines,halazepamisme-
+
+rehabilitation. tabolizedtotheactiveintermediatecompound, habitn.awell-learnedbehaviororautomaticse- desmethyldiazepam(nordiazepam),whichhasa quenceofbehaviorsthatisrelativelysituation- very long half-life (and therefore duration of specific and over time has become motorically action).Thisallowshalazepamtobetakenonly reflexive and independent of motivational or onceadaybutalsoisassociatedwithitsa
+
+## See also
+
+- Related concepts in psychology
+- Connected theoretical frameworks
+

@@ -1,0 +1,23 @@
+---
+slug: "trm-patterns-is-called-anelectrocorticogram"
+id: "TRM-ENG-13364"
+type: "مصطلح نفسي"
+level: "مقدمة"
+title: "patterns is called anelectrocorticogram."
+en: "patterns is called anelectrocorticogram."
+ar: ""
+sources:
+  - title: "APA Dictionary of Clinical Psy PDF   .pdf"
+    year: 2024
+    note: "OCR extracted from scanned PDF"
+---
+
+# patterns is called anelectrocorticogram.
+
+izedbyfeelingsofeuphoria,elation,andwell- being. electrodiagnosisn.theapplicationofanelec- elevatorphobiaapersistentandirrationalfear triccurrenttonervesandmusclesfordiagnostic t p r u o rp m o y se o s g .S r e a e ph el y e . ctroencephalography;elec- t o (a r f c o e r l p e o h v p a o h t b o o i r a b s ) , i , a w o ) h , r i f f c e e h a a r r m o o a f f y h b r a e e v i p n i r n g e g
+
+## See also
+
+- Related concepts in psychology
+- Connected theoretical frameworks
+

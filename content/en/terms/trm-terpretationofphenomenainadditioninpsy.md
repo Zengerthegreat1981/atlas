@@ -1,0 +1,23 @@
+---
+slug: "trm-terpretationofphenomenainadditioninpsy"
+id: "TRM-ENG-17027"
+type: "مصطلح نفسي"
+level: "مقدمة"
+title: "terpretationofphenomena.Inaddition,inpsy-"
+en: "terpretationofphenomena.Inaddition,inpsy-"
+ar: ""
+sources:
+  - title: "APA Dictionary of Clinical Psy PDF   .pdf"
+    year: 2024
+    note: "OCR extracted from scanned PDF"
+---
+
+# terpretationofphenomena.Inaddition,inpsy-
+
+moderate mental retardation; profound choanalyticandpsychodynamictheory,various defensemechanisms,suchasrationalization mental retardation; severe mental retar- and compensation, help to prevent anxiety dation; unspecified mental retardation. Also called intellectual disability, which is and protect self-esteem. increasingly the preferred term. mental model any internal representation of Mentalsca
+
+## See also
+
+- Related concepts in psychology
+- Connected theoretical frameworks
+

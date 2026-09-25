@@ -1,0 +1,23 @@
+---
+slug: "trm-functionorageneralmedicalconditionandis"
+id: "TRM-ENG-08309"
+type: "مصطلح نفسي"
+level: "مقدمة"
+title: "functionorageneralmedicalconditionandis"
+en: "functionorageneralmedicalconditionandis"
+ar: ""
+sources:
+  - title: "APA Dictionary of Clinical Psy PDF   .pdf"
+    year: 2024
+    note: "OCR extracted from scanned PDF"
+---
+
+# functionorageneralmedicalconditionandis
+
+tive emphasizing the development, changes, thoughttoberelatedtopsychologicalfactors.It and interaction of mental and emotional pro- canincludechestpain,racingheart,andtight- cesses,motivation,anddrives.2.thepatternof ness in the chest. motivational forces, conscious or unconscious, thatgivesrisetoaparticularpsychologicalevent psychogenicdisorderanydisorderthatcan- or state, such as an attitude, ac
+
+## See also
+
+- Related concepts in psychology
+- Connected theoretical frameworks
+

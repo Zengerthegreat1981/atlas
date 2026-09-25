@@ -1,0 +1,23 @@
+---
+slug: "trm-philosophyandscienceandtodistinguishthese"
+id: "TRM-ENG-13640"
+type: "مصطلح نفسي"
+level: "مقدمة"
+title: "philosophy,andscienceandtodistinguishthese"
+en: "philosophy,andscienceandtodistinguishthese"
+ar: ""
+sources:
+  - title: "APA Dictionary of Clinical Psy PDF   .pdf"
+    year: 2024
+    note: "OCR extracted from scanned PDF"
+---
+
+# philosophy,andscienceandtodistinguishthese
+
+duetoaninjurytothebrain,inwhichtheindi- disciplinesfromsuchothersasmetaphysics,eth- vidual is conscious but completely paralyzed, ics,andreligion,whichweredismissedfortheir unable to speak or move. Cognition is intact, and electroencephalograms (see electroence- speculativecharacter.Thepositivistviewofsci- L phalography) are normal. encewasinfluentialduringtheperiodinwhich
+
+## See also
+
+- Related concepts in psychology
+- Connected theoretical frameworks
+

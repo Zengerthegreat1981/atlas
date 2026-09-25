@@ -1,0 +1,23 @@
+---
+slug: "trm-dysfunction-with-contradictory-results-regard"
+id: "TRM-ENG-07023"
+type: "مصطلح نفسي"
+level: "مقدمة"
+title: "dysfunction, with contradictory results regard-"
+en: "dysfunction, with contradictory results regard-"
+ar: ""
+sources:
+  - title: "APA Dictionary of Clinical Psy PDF   .pdf"
+    year: 2024
+    note: "OCR extracted from scanned PDF"
+---
+
+# dysfunction, with contradictory results regard-
+
+of yawns. Yawns can be a form of nonverbal ingitseffectiveness.Chemicallyrelatedtoreser- communication in that they are contagious pine(seerauwolfiaderivatives),yohimbine and can indicate boredom or disagreement as isasympathomimeticdrugandmayincrease well as sleepiness. anxietyorproducepanicattacksinsusceptible Y chromosomethesexchromosomethatis individuals. Side effects may include nervous- resp
+
+## See also
+
+- Related concepts in psychology
+- Connected theoretical frameworks
+

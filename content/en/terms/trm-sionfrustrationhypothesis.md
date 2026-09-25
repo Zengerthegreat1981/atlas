@@ -1,0 +1,23 @@
+---
+slug: "trm-sionfrustrationhypothesis"
+id: "TRM-ENG-15798"
+type: "مصطلح نفسي"
+level: "مقدمة"
+title: "sion–frustrationhypothesis."
+en: "sion–frustrationhypothesis."
+ar: ""
+sources:
+  - title: "APA Dictionary of Clinical Psy PDF   .pdf"
+    year: 2024
+    note: "OCR extracted from scanned PDF"
+---
+
+# sion–frustrationhypothesis.
+
+ductiverelationships,and(c)theenrichmentof lifethroughcharacter,theneedtobelong,the frustration–regression hypothesis the development of individuality, and the replace- theory that frustration often leads to behavior mentofacommercialmarketingorientation characteristicofamuchearlierperiodoflife(see withasanesociety.Thisenrichmentoflife,he regression).[proposedin1941byU.S.psychol- believed, should
+
+## See also
+
+- Related concepts in psychology
+- Connected theoretical frameworks
+

@@ -1,0 +1,23 @@
+---
+slug: "trm-core-treatment-principles"
+id: "TRM-ENG-32745"
+type: "مصطلح نفسي"
+level: "مقدمة"
+title: "Core Treatment Principles"
+en: "Core Treatment Principles"
+ar: ""
+sources:
+  - title: "Handbook of Personality Disorders.pdf"
+    year: 2024
+    note: "OCR extracted from scanned PDF"
+---
+
+# Core Treatment Principles
+
+may, in part, be biologically determined as tem- perament. The emotionally vulnerable person DBT draws most of its treatment principles has low thresholds, rapid emotional reactions, from three areas of knowledge: behavior thera- and high-level reactions. High levels of emo- py, Zen, and dialectical philosophy. 532 EMPIRICALLY BASED TREATMENTS Behavior Therapy strong need for patients to develop a
+
+## See also
+
+- Related concepts in psychology
+- Connected theoretical frameworks
+

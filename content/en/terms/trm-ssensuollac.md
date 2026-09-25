@@ -1,0 +1,23 @@
+---
+slug: "trm-ssensuollac"
+id: "TRM-ENG-34126"
+type: "مصطلح نفسي"
+level: "مقدمة"
+title: "ssensuollaC"
+en: "ssensuollaC"
+ar: ""
+sources:
+  - title: "Handbook of Personality Disorders.pdf"
+    year: 2024
+    note: "OCR extracted from scanned PDF"
+---
+
+# ssensuollaC
+
+50. 71. 50. 52. 00. 12. 84.– 75. 71. 20.– 70. 50.– ytisoidnarG 62. 13. 72. 04. 73.– 90. 63.– 23. 33. 41.– 80.– 72.– gnikat ksiR 43. 22. 40. 61. 16.– 35. 04.– 13. 50.– 01. 72. 10.– ytilibisnopserrI 63. 91. 80. 32. 15.– 34. 53.– 22. 11. 11. 42. 40. ytivislupmI 53. 42. 70. 03. 45.– 35. 41.– 20. 32.– 01. 34. 91. ytilibitcartsiD 27. 07. 30. 16. 13.– 51. 62.– 30. 70.– 01. 14. 71. gersyd lautpecrep & goC
+
+## See also
+
+- Related concepts in psychology
+- Connected theoretical frameworks
+

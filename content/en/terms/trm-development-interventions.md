@@ -1,0 +1,23 @@
+---
+slug: "trm-development-interventions"
+id: "TRM-ENG-25603"
+type: "مصطلح نفسي"
+level: "مقدمة"
+title: "Development Interventions"
+en: "Development Interventions"
+ar: ""
+sources:
+  - title: "Encyclopedia of Counseling PDF   .pdf"
+    year: 2024
+    note: "OCR extracted from scanned PDF"
+---
+
+# Development Interventions
+
+C D I Research suggests that career decision self-efficacy is AREER EVELOPMENT NVENTORY strongly related to both perceived and actual difficul- ties in making and implementing career decision. The Career Development Inventory (CDI) is a 120-item There has now been considerable research using self- standardized measure of career development attitudes efficacy theory as the basis for the design and/
+
+## See also
+
+- Related concepts in psychology
+- Connected theoretical frameworks
+

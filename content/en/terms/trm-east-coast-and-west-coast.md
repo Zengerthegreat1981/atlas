@@ -1,0 +1,23 @@
+---
+slug: "trm-east-coast-and-west-coast"
+id: "TRM-ENG-25828"
+type: "مصطلح نفسي"
+level: "مقدمة"
+title: "East Coast and West Coast)."
+en: "East Coast and West Coast)."
+ar: ""
+sources:
+  - title: "Encyclopedia of Counseling PDF   .pdf"
+    year: 2024
+    note: "OCR extracted from scanned PDF"
+---
+
+# East Coast and West Coast).
+
+The religions in the United States are somewhat The term religion comes from the Latin religare, comparable to those in the world, with a few noted which means “to bind together or to express concern.” exceptions. The largest world religions include In modern times, religion has become a visible insti- Christianity (2.1 billion), Islam (1.3 billion), secularism/ tution that provides an organizatio
+
+## See also
+
+- Related concepts in psychology
+- Connected theoretical frameworks
+

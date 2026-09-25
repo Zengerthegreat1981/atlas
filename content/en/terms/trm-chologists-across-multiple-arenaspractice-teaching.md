@@ -1,0 +1,23 @@
+---
+slug: "trm-chologists-across-multiple-arenaspractice-teaching"
+id: "TRM-ENG-24582"
+type: "مصطلح نفسي"
+level: "مقدمة"
+title: "chologists across multiple arenas—practice, teaching,"
+en: "chologists across multiple arenas—practice, teaching,"
+ar: ""
+sources:
+  - title: "Encyclopedia of Counseling PDF   .pdf"
+    year: 2024
+    note: "OCR extracted from scanned PDF"
+---
+
+# chologists across multiple arenas—practice, teaching,
+
+research, industry—through relevant programming. Web Sites The conference, like those described earlier, includes mechanisms that address identity—particularly as it Commission of Recognition of Specialties and Proficiencies applies to globalization of training, practice, research, in Professional Psychology: http://www.apa.org/ and collaboration; training—with a focus on further crsppp/counseling
+
+## See also
+
+- Related concepts in psychology
+- Connected theoretical frameworks
+
