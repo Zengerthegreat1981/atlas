@@ -12,8 +12,10 @@ active_start: 1887
 active_end: 1967
 country: ""
 language: "الإنجليزية"
-edges: []
-related: []
+edges:
+- rel: "belongs_to", target: "sch-psychotic-schizophrenia", target_type: "مدرسة"
+related:
+- id: "sch-psychotic-schizophrenia", title: "الاضطرابات الذهانية والفصام", type: "مدرسة"
 gaps:
   - "تم إنشاء هذا الملف كجزء من Phase 3 (2026-09-24)."
 ---

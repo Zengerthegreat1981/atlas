@@ -12,6 +12,7 @@ active_start: 900
 active_end: 1500
 edges: []
 related:
+- id: "thk-al-biruni", title: "أبو الريحان محمد بن أحمد البيروني", type: "مفكر"
 - id: "wrk-rihla-ibn-battuta", title: "الرحلةُ (Rihla)", type: "عمل / كتاب"
 gaps: []
 ---

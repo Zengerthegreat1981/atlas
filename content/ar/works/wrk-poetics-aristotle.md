@@ -16,6 +16,7 @@ original_language: "اليونانية"
 edges:
 - rel: "belongs_to", target: "sch-aristotelianism", target_type: "مدرسة"
 related:
+- id: "thk-ibn-rushd", title: "أبو الوليد محمد بن أحمد بن رشد", type: "مفكر"
 - id: "thk-aristotle", title: "أرسطو", type: "مفكر"
 - id: "sch-aristotelianism", title: "المشائية / الأرسطية (Aristotelianism)", type: "مدرسة"
 - id: "wrk-rhetoric-aristotle", title: "الخطابة لأرسطو (Ars Rhetorica)", type: "عمل / كتاب"

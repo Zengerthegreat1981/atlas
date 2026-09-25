@@ -14,6 +14,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-wahdat-alwujud", target_type: "مدرسة"
 related:
+- id: "thk-ibn-arabi", title: "محيي الدين بن عربي", type: "مفكر"
 - id: "sch-wahdat-alwujud", title: "العرفان النظري / وحدة الوجود (المدرسة الأكبرية — الشيخ الأكبر ابن عربي)", type: "مدرسة"
 - id: "thk-sadreddin-konevi", title: "صدر الدين القونوي", type: "مفكر"
 gaps:

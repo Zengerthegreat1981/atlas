@@ -12,6 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 related:
+- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا", type: "مفكر"
 - id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
 - id: "con-wajib-al-wujud-necessary-being", title: "واجب الوجود وممكن الوجود (Necessary vs. Contingent Being)", type: "مفهوم"
 - id: "con-asalat-al-wujud-primacy-of-existence", title: "أصالة الوجود واعتبارية الماهية (Primacy of Existence)", type: "مفهوم"

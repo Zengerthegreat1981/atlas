@@ -15,6 +15,7 @@ active_end: -360
 edges:
 - rel: "belongs_to", target: "sch-academy-platonic", target_type: "مدرسة"
 related:
+- id: "thk-al-farabi", title: "أبو نصر محمد بن محمد الفارابي", type: "مفكر"
 - id: "thk-plato", title: "أفلاطون", type: "مفكر"
 - id: "thk-parmenides", title: "بارمنيدس الإيلي", type: "مفكر"
 - id: "wrk-theaetetus-plato", title: "ثياتيتوس لأفلاطون في نظرية المعرفة", type: "عمل / كتاب"

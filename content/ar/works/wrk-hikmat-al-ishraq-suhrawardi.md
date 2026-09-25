@@ -18,6 +18,7 @@ original_language: "العربية"
 edges:
 - rel: "belongs_to", target: "sch-ishraqiyya", target_type: "مدرسة"
 related:
+- id: "thk-al-shahrazuri", title: "شمس الدين محمد بن محمود الشهرزوري", type: "مفكر"
 - id: "thk-suhrawardi", title: "شهاب الدين يحيى بن حبش السهروردي (شيخ الإشراق)", type: "مفكر"
 - id: "wrk-al-talwihat-suhrawardi", title: "التلويحات اللوحية والعرشية للسهروردي", type: "عمل / كتاب"
 - id: "thk-qutb-al-din-al-shirazi", title: "قطب الدين محمود بن مسعود الشيرازي", type: "مفكر"

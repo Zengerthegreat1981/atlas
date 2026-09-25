@@ -16,8 +16,10 @@ active_start: 1973
 active_end: 1973
 language: "الإنجليزية"
 register: "academic"
-edges: []
-related: []
+edges:
+- rel: "belongs_to", target: "sch-diagnostic-nosology", target_type: "مدرسة"
+related:
+- id: "sch-diagnostic-nosology", title: "التصنيف والتشخيص النفسي (Nosology)", type: "مدرسة"
 gaps:
   - "تم إنشاء هذا الملف كجزء من Phase 3 (2026-09-24)."
 ---

@@ -14,6 +14,8 @@ edges:
 - rel: "formulated_by", target: "thk-hegel", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-academy-platonic", target_type: "مدرسة"
 related:
+- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا", type: "مفكر"
+- id: "thk-al-farabi", title: "أبو نصر محمد بن محمد الفارابي", type: "مفكر"
 - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
 - id: "sch-hegelianism", title: "الهيغلية", type: "مدرسة"
 - id: "thk-marx", title: "كارل ماركس", type: "مفكر"

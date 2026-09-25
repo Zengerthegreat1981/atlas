@@ -12,6 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-mutazila", target_type: "مدرسة"
 related:
+- id: "thk-al-ghazali", title: "أبو حامد الغزالي", type: "مفكر"
 - id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"
 - id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"
 - id: "thk-qadi-abd-al-jabbar", title: "القاضي عبد الجبار بن أحمد الهمذاني", type: "مفكر"

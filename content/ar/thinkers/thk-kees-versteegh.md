@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-arabic-grammatical-tradition", target_type: "مدرسة"
 related:
+- id: "thk-ibn-jinni", title: "أبو الفتح عثمان بن جنّي", type: "مفكر"
 - id: "sch-arabic-grammatical-tradition", title: "التقليد النحوي واللغوي العربي الكلاسيكي", type: "مدرسة"
 - id: "thk-jonathan-owens", title: "جوناثان أُوِنز", type: "مفكر"
 gaps:

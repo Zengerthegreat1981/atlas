@@ -15,6 +15,7 @@ active_end: 2026
 edges:
 - rel: "belongs_to", target: "sch-academic-melanesian-cargo-cult-studies", target_type: "مدرسة"
 related:
+- id: "thk-peter-worsley", title: "پيتر ورزلي (Peter Worsley)", type: "مفكر"
 - id: "sch-academic-melanesian-cargo-cult-studies", title: "الدراسةُ الأكاديميةُ لعباداتِ الشحنة الملانيزية (Melanesian Cargo Cult Studies)", type: "مدرسة"
 - id: "thk-lamont-lindstrom", title: "لامونت ليندستروم (Lamont Lindstrom)", type: "مفكر"
 - id: "wrk-cargo-cult-lindstrom", title: "عبادةُ الشحنة: حكاياتُ الرغبة الغريبة من ملانيزيا وما وراءها", type: "عمل / كتاب"

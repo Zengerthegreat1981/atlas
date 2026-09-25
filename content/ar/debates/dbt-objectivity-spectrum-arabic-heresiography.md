@@ -12,6 +12,9 @@ active_end: null
 edges:
 - rel: "belongs_to", target: "sch-arabic-comparative-religion-tradition", target_type: "مدرسة"
 related:
+- id: "thk-ibn-hazm", title: "أبو محمد علي بن حزم الأندلسي", type: "مفكر"
+- id: "thk-al-shahrastani", title: "أبو الفتح محمد الشهرستاني", type: "مفكر"
+- id: "thk-al-biruni", title: "أبو الريحان محمد بن أحمد البيروني", type: "مفكر"
 - id: "sch-arabic-comparative-religion-tradition", title: "التقليدُ العربيُّ الكلاسيكيُّ في مقارنة الأديان والملل", type: "مدرسة"
 - id: "con-emic-etic-study-of-religion", title: "الداخلُ والخارجُ: Emic/Etic في دراسة الدين", type: "مفهوم"
 gaps:

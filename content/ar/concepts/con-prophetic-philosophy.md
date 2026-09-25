@@ -14,6 +14,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-judaism-andalusian", target_type: "مدرسة"
 related:
+- id: "thk-al-ghazali", title: "أبو حامد الغزالي", type: "مفكر"
 - id: "thk-judah-halevi", title: "يهوذا اللاوي (أبو الحسن)", type: "مفكر"
 - id: "wrk-kuzari-judah-halevi", title: "كتاب الكوزري (الحجة والدليل) ليهوذا اللاوي", type: "عمل / كتاب"
 - id: "thk-maimonides", title: "موسى بن ميمون (رمبام)", type: "مفكر"

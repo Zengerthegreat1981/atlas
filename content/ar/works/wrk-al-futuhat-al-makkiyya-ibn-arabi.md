@@ -14,8 +14,11 @@ author_slug: "thk-ibn-arabi"
 publication_year: 1231
 original_language: "العربية"
 edges:
+- rel: "authored_by", target: "thk-ibn-arabi", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-wahdat-alwujud", target_type: "مدرسة"
 related:
+- id: "thk-ibn-taymiyya", title: "تقي الدين أحمد ابن تيمية", type: "مفكر"
+- id: "thk-ibn-arabi", title: "محيي الدين بن عربي", type: "مفكر"
 - id: "sch-akbari", title: "المدرسة الأكبرية (مدرسة الإمبراطور أكبر المغولي)", type: "مدرسة"
 - id: "wrk-fusus-al-hikam-ibn-arabi", title: "فصوص الحكم لمحيي الدين بن عربي", type: "عمل / كتاب"
 - id: "con-wahdat-al-wujud", title: "وحدة الوجود", type: "مفهوم"

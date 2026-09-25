@@ -12,6 +12,8 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 related:
+- id: "thk-ibn-rushd", title: "أبو الوليد محمد بن أحمد بن رشد", type: "مفكر"
+- id: "thk-al-ghazali", title: "أبو حامد الغزالي", type: "مفكر"
 - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
 gaps:
   - "لم يُعثر على نص لتوما الأكويني (Thomas Aquinas) بصيغة اقتباس مباشر مؤرَّخ يخص هذا السؤال تحديداً؛ الاكتفاء بالغزالي وابن رشد وكيركيغارد كأصحاب المواقف الثلاثة الموثقة نصاً وسنة."

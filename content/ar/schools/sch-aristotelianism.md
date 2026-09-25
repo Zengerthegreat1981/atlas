@@ -15,6 +15,9 @@ active_end: 1650
 cultural_origin: "greek"
 edges: []
 related:
+- id: "thk-ibn-rushd", title: "أبو الوليد محمد بن أحمد بن رشد", type: "مفكر"
+- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا", type: "مفكر"
+- id: "thk-al-farabi", title: "أبو نصر محمد بن محمد الفارابي", type: "مفكر"
 - id: "sch-academy-platonic", title: "الأكاديمية الأفلاطونية (القديمة/الوسطى/الجديدة الشكية)", type: "مدرسة"
 - id: "sch-middle-platonism", title: "الأفلاطونية الوسطى (Middle Platonism)", type: "مدرسة"
 - id: "sch-stoicism", title: "الرواقية (Stoicism)", type: "مدرسة"

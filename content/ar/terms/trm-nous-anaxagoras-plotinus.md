@@ -12,6 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-neoplatonism", target_type: "مدرسة"
 related:
+- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا", type: "مفكر"
 - id: "sch-neoplatonism", title: "الأفلاطونية المحدثة (Neoplatonism)", type: "مدرسة"
 - id: "thk-plotinus", title: "أفلوطين", type: "مفكر"
 - id: "met-plotinus-emanation-sun", title: "فيض الشمس لأفلوطين: استعارة الصدور والانبعاث الأنطولوجي", type: "استعارة/مجاز مؤسِّس"

@@ -13,6 +13,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-usul-al-fiqh-legal-theory", target_type: "مدرسة"
 related:
+- id: "thk-al-shatibi", title: "أبو إسحاق إبراهيم بن موسى الشاطبي", type: "مفكر"
 - id: "wrk-al-muwafaqat-shatibi", title: "الموافقاتُ في أصول الشريعة", type: "عمل / كتاب"
 - id: "sch-usul-al-fiqh-legal-theory", title: "أصولُ الفقه بوصفه نظريةً قانونية (Usul al-Fiqh as Legal Theory)", type: "مدرسة"
 gaps:

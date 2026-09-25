@@ -14,6 +14,7 @@ active_end: 50
 edges:
 - rel: "belongs_to", target: "sch-judaism-hellenistic", target_type: "مدرسة"
 related:
+- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا", type: "مفكر"
 - id: "thk-philo", title: "فيلو الإسكندري (فيلون)", type: "مفكر"
 - id: "sch-judaism-hellenistic", title: "الفلسفة اليهودية الهلنستية (الإسكندرانية)", type: "مدرسة"
 - id: "thk-heraclitus", title: "هيراقليطس الإفسيسي", type: "مفكر"

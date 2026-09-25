@@ -14,6 +14,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-hermeticism", target_type: "مدرسة"
 related:
+- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا", type: "مفكر"
 - id: "con-as-above-so-below", title: "كما في الأعلى كذلك في الأسفل", type: "مفهوم"
 - id: "sch-hermeticism", title: "الهرمسية", type: "مدرسة"
 - id: "thk-hermes-trismegistus", title: "هرمس ثلاثي العظمة (شخصية تقليدية)", type: "مفكر"

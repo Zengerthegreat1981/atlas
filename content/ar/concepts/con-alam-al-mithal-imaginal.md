@@ -12,6 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-ishraqiyya", target_type: "مدرسة"
 related:
+- id: "thk-ibn-arabi", title: "محيي الدين بن عربي", type: "مفكر"
 - id: "thk-suhrawardi", title: "شهاب الدين يحيى بن حبش السهروردي (شيخ الإشراق)", type: "مفكر"
 - id: "sch-ishraqiyya", title: "الإشراقية", type: "مدرسة"
 - id: "wrk-hikmat-al-ishraq-suhrawardi", title: "حكمة الإشراق للسهروردي", type: "عمل / كتاب"

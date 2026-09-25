@@ -15,6 +15,9 @@ crumb: "الفلسفة الإشراقية ← شيخ الإشراق ← السه
 edges:
 - rel: "belongs_to", target: "sch-ishraqiyya", target_type: "مدرسة"
 related:
+- id: "thk-al-shahrazuri", title: "شمس الدين محمد بن محمود الشهرزوري", type: "مفكر"
+- id: "thk-ibn-rushd", title: "أبو الوليد محمد بن أحمد بن رشد", type: "مفكر"
+- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا", type: "مفكر"
 - id: "thk-mulla-sadra", title: "ملا صدرا الشيرازي (صدر الدين الشيرازي)", type: "مفكر"
 - id: "thk-jalal-al-din-rumi", title: "جلال الدين الرومي (مولانا)", type: "مفكر"
 - id: "thk-thales", title: "طاليس الميليسي", type: "مفكر"

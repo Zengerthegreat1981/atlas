@@ -17,6 +17,7 @@ edges:
 - rel: "written_by", target: "thk-abd-al-karim-al-jili", target_type: "مفكر"
 - rel: "belongs_to", target: "br-irfan-nazari-akbari", target_type: "تيار"
 related:
+- id: "thk-ibn-arabi", title: "محيي الدين بن عربي", type: "مفكر"
 - id: "thk-abd-al-karim-al-jili", title: "عبد الكريم بن إبراهيم الجيلي", type: "مفكر"
 - id: "sch-akbari", title: "المدرسة الأكبرية (مدرسة الإمبراطور أكبر المغولي)", type: "مدرسة"
 - id: "con-wahdat-al-wujud", title: "وحدة الوجود", type: "مفهوم"

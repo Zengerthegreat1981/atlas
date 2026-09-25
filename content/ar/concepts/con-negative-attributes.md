@@ -15,6 +15,7 @@ edges:
 - rel: "belongs_to", target: "sch-judaism-andalusian", target_type: "مدرسة"
 - rel: "belongs_to", target: "sch-apophatic", target_type: "مدرسة"
 related:
+- id: "thk-ibn-arabi", title: "محيي الدين بن عربي", type: "مفكر"
 - id: "sch-judaism-andalusian", title: "الفلسفة اليهودية الوسيطة الأندلسية (الأرسطية اليهودية)", type: "مدرسة"
 - id: "sch-apophatic", title: "اللاهوت السلبي / الأبوفاتي", type: "مدرسة"
 - id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"

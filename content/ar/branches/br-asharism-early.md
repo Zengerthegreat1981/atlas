@@ -12,6 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-ashariyya", target_type: "مدرسة"
 related:
+- id: "thk-al-ghazali", title: "أبو حامد الغزالي", type: "مفكر"
 - id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"
 - id: "thk-ashari", title: "أبو الحسن علي بن إسماعيل الأشعري", type: "مفكر"
 - id: "con-occasionalism-ashari", title: "العناية الإلهية (العرضية عند الأشعري)", type: "مفهوم"

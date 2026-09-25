@@ -15,6 +15,7 @@ active_start: 900
 active_end: "مستمر"
 edges: []
 related:
+- id: "thk-al-ghazali", title: "أبو حامد الغزالي", type: "مفكر"
 - id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"
 - id: "sch-maturidiyya", title: "الماتريدية", type: "مدرسة"
 - id: "sch-athariyya", title: "الأثرية الكلامية", type: "مدرسة"

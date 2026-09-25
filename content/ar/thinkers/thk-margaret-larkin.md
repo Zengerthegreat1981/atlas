@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-arabic-rhetorical-sciences", target_type: "مدرسة"
 related:
+- id: "thk-al-jurjani", title: "عبد القاهر الجرجاني", type: "مفكر"
 - id: "sch-arabic-rhetorical-sciences", title: "علومُ البلاغة العربية: المعاني والبيان والبديع", type: "مدرسة"
 - id: "con-nazm-theory-jurjani", title: "نظرية النظم عند الجرجاني (Nazm Theory)", type: "مفهوم"
 gaps:

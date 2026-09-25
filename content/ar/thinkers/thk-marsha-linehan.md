@@ -12,8 +12,10 @@ active_start: 1943
 active_end: مستمر
 country: ""
 language: "الإنجليزية"
-edges: []
-related: []
+edges:
+- rel: "belongs_to", target: "sch-personality-disorders", target_type: "مدرسة"
+related:
+- id: "sch-personality-disorders", title: "اضطرابات الشخصية", type: "مدرسة"
 gaps:
   - "تم إنشاء هذا الملف كجزء من Phase 3 (2026-09-24)."
 ---

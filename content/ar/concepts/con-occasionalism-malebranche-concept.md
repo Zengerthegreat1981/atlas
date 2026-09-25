@@ -12,6 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-occasionalism", target_type: "مدرسة"
 related:
+- id: "thk-al-ghazali", title: "أبو حامد الغزالي", type: "مفكر"
 - id: "thk-malebranche", title: "نيكولا مالبرانش", type: "مفكر"
 - id: "sch-occasionalism", title: "الأوكازيونيالية (Occasionalism)", type: "مدرسة"
 - id: "thk-descartes", title: "رينيه ديكارت", type: "مفكر"

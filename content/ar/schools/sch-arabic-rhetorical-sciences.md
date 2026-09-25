@@ -17,6 +17,8 @@ active_end: 1338
 edges:
 - rel: "evolved_from", target: "sch-arabic-grammatical-tradition", target_type: "مدرسة"
 related:
+- id: "thk-al-jurjani", title: "عبد القاهر الجرجاني", type: "مفكر"
+- id: "thk-al-sakkaki", title: "أبو يعقوب السكّاكي", type: "مفكر"
 - id: "con-nazm-theory-jurjani", title: "نظرية النظم عند الجرجاني (Nazm Theory)", type: "مفهوم"
 - id: "wrk-talkhis-al-miftah-qazwini", title: "تلخيصُ المفتاح", type: "أثر"
 - id: "con-ilm-al-bayan-arabic-rhetoric", title: "علمُ البيان: التشبيهُ والاستعارةُ والكناية", type: "مفهوم"

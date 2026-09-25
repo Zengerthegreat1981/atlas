@@ -14,6 +14,7 @@ language: "العربية"
 active_start: 750
 active_end: "مستمر"
 related:
+- id: "thk-ibn-taymiyya", title: "تقي الدين أحمد ابن تيمية", type: "مفكر"
 - id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"
 - id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"
 - id: "sch-salafism-modern", title: "السلفية الكلامية الحديثة", type: "مدرسة"

@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-arabic-grammatical-tradition", target_type: "مدرسة"
 related:
+- id: "thk-al-jurjani", title: "عبد القاهر الجرجاني", type: "مفكر"
 - id: "sch-arabic-grammatical-tradition", title: "التقليد النحوي واللغوي العربي الكلاسيكي", type: "مدرسة"
 - id: "con-nazm-theory-jurjani", title: "نظرية النظم عند الجرجاني (Nazm Theory)", type: "مفهوم"
 - id: "sch-saussurean-structuralism", title: "البنيويةُ السوسيرية (Saussurean Structuralism)", type: "مدرسة"

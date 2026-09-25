@@ -12,6 +12,7 @@ active_end: "مستمر"
 edges: []
   []
 related:
+- id: "thk-al-ghazali", title: "أبو حامد الغزالي", type: "مفكر"
 - id: "con-ataraxia", title: "الأتاراكسيا والسكينة النفسية", type: "مفهوم"
 - id: "con-zuhd-detachment", title: "الزهد والتحرر من أسر التعلق المادي (Zuhd / Detachment)", type: "مفهوم"
 - id: "sch-wahdat-alwujud", title: "العرفان النظري / وحدة الوجود (المدرسة الأكبرية — الشيخ الأكبر ابن عربي)", type: "مدرسة"

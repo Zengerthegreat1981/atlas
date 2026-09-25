@@ -10,6 +10,7 @@ crumb: "علم النفس الإسلامي والفلسفي ← المقامات
 active_start: 750
 active_end: "مستمر"
 related:
+- id: "thk-al-ghazali", title: "أبو حامد الغزالي", type: "مفكر"
 - id: "con-tawakkul-psychology", title: "التوكل واليقين والسكينة النفسية (Tawakkul in Islamic Psychology)", type: "مفهوم"
 gaps:
   - "تعريف الإمام علي للزهد: 'ليس الزهد ألا تملك شيئاً، ولكن الزهد ألا يملكك شيء' غير موثّق بمصدر أولي محدد (كتاب وسنة)."

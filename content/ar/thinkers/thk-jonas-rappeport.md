@@ -12,8 +12,10 @@ active_start: 1922
 active_end: 2012
 country: ""
 language: "الإنجليزية"
-edges: []
-related: []
+edges:
+- rel: "belongs_to", target: "sch-forensic-psychiatry", target_type: "مدرسة"
+related:
+- id: "sch-forensic-psychiatry", title: "الطب النفسي الجنائي (الشرعي)", type: "مدرسة"
 gaps:
   - "تم إنشاء هذا الملف كجزء من Phase 3 (2026-09-24)."
 ---

@@ -15,6 +15,7 @@ active_end: 2026
 edges:
 - rel: "belongs_to", target: "sch-founding-comparative-religion-science-of-religion", target_type: "مدرسة"
 related:
+- id: "thk-peter-worsley", title: "پيتر ورزلي (Peter Worsley)", type: "مفكر"
 - id: "wrk-trumpet-shall-sound-worsley", title: "البوقُ سيصدح: دراسةٌ في عبادات «الشحنة» في ملانيزيا", type: "عمل / كتاب"
 - id: "thk-kenelm-burridge", title: "كينلسون بيرِدج (Kenelm Burridge)", type: "مفكر"
 - id: "wrk-new-heaven-new-earth-burridge", title: "سماءٌ جديدة، أرضٌ جديدة: دراسةٌ في الأنشطة الألفية", type: "عمل / كتاب"

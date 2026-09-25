@@ -13,6 +13,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-usul-al-fiqh-legal-theory", target_type: "مدرسة"
 related:
+- id: "thk-ibn-hazm", title: "أبو محمد علي بن حزم الأندلسي", type: "مفكر"
 - id: "con-qiyas-analogical-reasoning", title: "القياسُ (Qiyas — الاستدلالُ التمثيليُّ الشرعي)", type: "مفهوم"
 - id: "sch-usul-al-fiqh-legal-theory", title: "أصولُ الفقه بوصفه نظريةً قانونية (Usul al-Fiqh as Legal Theory)", type: "مدرسة"
 gaps:

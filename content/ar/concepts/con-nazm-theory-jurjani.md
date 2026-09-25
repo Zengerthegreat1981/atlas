@@ -17,6 +17,7 @@ active_end: 1078
 edges:
 - rel: "belongs_to", target: "sch-arabic-grammatical-tradition", target_type: "مدرسة"
 related:
+- id: "thk-al-jurjani", title: "عبد القاهر الجرجاني", type: "مفكر"
 - id: "sch-arabic-grammatical-tradition", title: "التقليد النحوي واللغوي العربي الكلاسيكي", type: "مدرسة"
 - id: "dia-jurjani-nazm-saussure-valeur-comparison", title: "الجرجانيُّ وسوسور: النظمُ مقابل القيمة التفاضلية", type: "حوار مع مدرسة مجاورة"
 - id: "con-ilm-al-maani-arabic-rhetoric", title: "علمُ المعاني: مطابقةُ الكلام لمقتضى الحال", type: "مفهوم"

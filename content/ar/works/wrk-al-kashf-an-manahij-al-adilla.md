@@ -12,6 +12,7 @@ active_end: 1179
 edges:
 - rel: "belongs_to", target: "sch-andalusian-philosophy", target_type: "مدرسة"
 related:
+- id: "thk-ibn-rushd", title: "أبو الوليد محمد بن أحمد بن رشد", type: "مفكر"
 - id: "sch-andalusian-philosophy", title: "الفلسفة الأندلسية (الرشدية الإسلامية)", type: "مدرسة"
 author: "ابن رشد"
 author_slug: "thk-ibn-rushd"

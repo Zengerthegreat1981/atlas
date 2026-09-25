@@ -17,6 +17,7 @@ crumb: "علمُ الأديان المقارن ← الأديانُ بوصفها
 edges:
 - rel: "belongs_to", target: "sch-academic-islamic-studies-orientalism-critique", target_type: "مدرسة"
 related:
+- id: "thk-al-shahrastani", title: "أبو الفتح محمد الشهرستاني", type: "مفكر"
 - id: "sch-academic-islamic-studies-orientalism-critique", title: "دراسةُ الإسلام أكاديمياً ونقدُ الاستشراق", type: "مدرسة"
 - id: "thk-said", title: "إدوارد سعيد", type: "مفكر"
 - id: "thk-joseph-schacht", title: "جوزيف شاخت (Joseph Schacht)", type: "مفكر"

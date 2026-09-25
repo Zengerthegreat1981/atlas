@@ -15,6 +15,7 @@ active_start: 1980
 active_end: "مستمر"
 edges: []
 related:
+- id: "thk-al-shatibi", title: "أبو إسحاق إبراهيم بن موسى الشاطبي", type: "مفكر"
 - id: "con-basic-goods-practical-reasonableness-finnis", title: "الخيراتُ الأساسيةُ والمعقوليةُ العملية (Basic Goods & Practical Reasonableness)", type: "مفهوم"
 - id: "wrk-natural-law-and-natural-rights-finnis", title: "القانونُ الطبيعيُّ والحقوقُ الطبيعية (Natural Law and Natural Rights)", type: "عمل / كتاب"
 - id: "con-natural-law-aquinas-concept", title: "القانون الطبيعي والمشاركة العقلية في الحكمة الأزلية (Natural Law)", type: "مفهوم"

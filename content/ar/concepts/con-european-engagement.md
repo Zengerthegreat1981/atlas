@@ -10,8 +10,10 @@ crumb: "arab-thought ← النهضة العربية ← التفاعل مع ا�
 active_start: 1900
 active_end: "مستمر"
 language: "الإنجليزية"
-edges: []
-related: []
+edges:
+- rel: "belongs_to", target: "sch-nahda-modernization", target_type: "مدرسة"
+related:
+- id: "sch-nahda-modernization", title: "النهضة العربية: التحديث الفكري", type: "مدرسة"
 gaps:
   - "تم إنشاء هذا الملف كجزء من Phase 3 (2026-09-24)."
 ---

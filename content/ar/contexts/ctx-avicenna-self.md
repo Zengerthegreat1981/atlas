@@ -12,6 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
+- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا", type: "مفكر"
 - id: "br-islamic-positive-psychology", title: "علم النفس الإيجابي الإسلامي", type: "تيار"
 - id: "ctx-arabic-self", title: "النفس في التراث العربي الإسلامي", type: "سياق/تقليد"
 - id: "wrk-al-shifa-avicenna", title: "كتاب الشفاء لابن سينا (موسوعة الفلسفة)", type: "عمل / كتاب"

@@ -15,6 +15,7 @@ active_end: 1342
 edges:
 - rel: "belongs_to", target: "sch-latin-averroism", target_type: "مدرسة"
 related:
+- id: "thk-ibn-rushd", title: "أبو الوليد محمد بن أحمد بن رشد", type: "مفكر"
 - id: "thk-siger-brabant", title: "سيجير دي برابانت", type: "مفكر"
 - id: "thk-boethius-dacia", title: "بوئيثيوس الدَّنماركي (Boethius of Dacia)", type: "مفكر"
 - id: "thk-aquinas", title: "توما الأكويني", type: "مفكر"

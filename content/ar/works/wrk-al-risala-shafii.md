@@ -14,8 +14,10 @@ crumb: "نظريةُ القانون ← التقليدُ ما قبل الحدي�
 legal_tradition: "أصولُ الفقه الإسلامي"
 active_start: 800
 active_end: "مستمر"
-edges: []
+edges:
+- rel: "authored_by", target: "thk-al-shafii", target_type: "مفكر"
 related:
+- id: "thk-al-shafii", title: "محمد بن إدريس الشافعي", type: "مفكر"
 - id: "sch-usul-al-fiqh-legal-theory", title: "أصولُ الفقه بوصفه نظريةً قانونية (Usul al-Fiqh as Legal Theory)", type: "مدرسة"
 - id: "con-qiyas-analogical-reasoning", title: "القياسُ (Qiyas — الاستدلالُ التمثيليُّ الشرعي)", type: "مفهوم"
 - id: "wrk-al-ihkam-al-amidi", title: "الإحكامُ في أصول الأحكام", type: "عمل / كتاب"

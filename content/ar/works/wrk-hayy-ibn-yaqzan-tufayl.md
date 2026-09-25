@@ -16,6 +16,7 @@ original_language: "العربية"
 edges:
 - rel: "belongs_to", target: "sch-andalusian-philosophy", target_type: "مدرسة"
 related:
+- id: "thk-ibn-tufayl", title: "أبو بكر محمد بن عبد الملك بن طفيل", type: "مفكر"
 - id: "sch-andalusian-philosophy", title: "الفلسفة الأندلسية (الرشدية الإسلامية)", type: "مدرسة"
 gaps:
   - "لا تُثبت سنة تأليف دقيقة للنص: 1170 تقريبية، إذ توفي ابن طفيل سنة 1185 والعمل يُنسب إلى مرحلة متأخرة من حياته دون تأريخ مخطوطي حاسم."

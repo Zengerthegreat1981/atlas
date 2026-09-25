@@ -17,8 +17,10 @@ active_end: 2013
 language: "الإنجليزية"
 register: "academic"
 edges:
+- rel: "belongs_to", target: "sch-diagnostic-nosology", target_type: "مدرسة"
 - rel: "written_by", target: "thk-allen-frances", target_type: "مفكر"
 related:
+- id: "sch-diagnostic-nosology", title: "التصنيف والتشخيص النفسي (Nosology)", type: "مدرسة"
 - id: "thk-allen-frances", title: "ألين فرانسيس", type: "مفكر"
 gaps:
   - "تم إنشاء هذا الملف كجزء من Phase 3 (2026-09-24)."

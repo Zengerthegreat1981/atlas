@@ -12,6 +12,8 @@ active_end: 1274
 edges:
 - rel: "belongs_to", target: "sch-scholasticism", target_type: "مدرسة"
 related:
+- id: "thk-ibn-rushd", title: "أبو الوليد محمد بن أحمد بن رشد", type: "مفكر"
+- id: "thk-al-ghazali", title: "أبو حامد الغزالي", type: "مفكر"
 - id: "thk-thomas-aquinas", title: "القديس توما الإكويني", type: "مفكر"
 - id: "thk-john-philoponus", title: "يوحنا فيلوبونوس (النحوي)", type: "مفكر"
 - id: "wrk-tahafut-al-falasifa-ghazali", title: "تهافت الفلاسفة لأبي حامد الغزالي", type: "عمل / كتاب"

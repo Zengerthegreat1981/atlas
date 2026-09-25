@@ -15,6 +15,8 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-founding-comparative-religion-science-of-religion", target_type: "مدرسة"
 related:
+- id: "thk-al-biruni", title: "أبو الريحان محمد بن أحمد البيروني", type: "مفكر"
+- id: "thk-al-shahrastani", title: "أبو الفتح محمد الشهرستاني", type: "مفكر"
 - id: "thk-ignaz-goldziher", title: "إغناتس غولدتسيهر (Ignaz Goldziher)", type: "مفكر"
 - id: "thk-said", title: "إدوارد سعيد", type: "مفكر"
 - id: "wrk-orientalism-said", title: "الاستشراق (Orientalism) — الكتاب", type: "عمل / كتاب"

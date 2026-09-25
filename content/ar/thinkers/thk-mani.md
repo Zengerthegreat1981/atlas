@@ -15,6 +15,7 @@ crumb: "المانوية ← الناس ← ماني (مؤسس المانوية)
 edges:
 - rel: "belongs_to", target: "sch-manicheism", target_type: "مدرسة"
 related:
+- id: "thk-al-biruni", title: "أبو الريحان محمد بن أحمد البيروني", type: "مفكر"
 - id: "wrk-kephalaia", title: "الرؤوس (كِفَالا - Kephalaia)", type: "عمل / كتاب"
 - id: "sch-manicheism", title: "المانوية", type: "مدرسة"
 - id: "sch-gnosticism", title: "الغنوصية القديمة (بفروعها)", type: "مدرسة"

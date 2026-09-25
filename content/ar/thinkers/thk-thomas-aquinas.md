@@ -15,6 +15,8 @@ active_end: 1274
 edges:
 - rel: "belongs_to", target: "sch-thomism", target_type: "مدرسة"
 related:
+- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا", type: "مفكر"
+- id: "thk-ibn-rushd", title: "أبو الوليد محمد بن أحمد بن رشد", type: "مفكر"
 - id: "sch-thomism", title: "التوماوية", type: "مدرسة"
 - id: "thk-aristotle", title: "أرسطو", type: "مفكر"
 gaps:

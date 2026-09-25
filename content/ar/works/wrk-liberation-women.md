@@ -17,8 +17,10 @@ active_end: 1899
 language: "الإنجليزية"
 register: "academic"
 edges:
+- rel: "belongs_to", target: "sch-nahda-modernization", target_type: "مدرسة"
 - rel: "written_by", target: "thk-qasim-amin", target_type: "مفكر"
 related:
+- id: "sch-nahda-modernization", title: "النهضة العربية: التحديث الفكري", type: "مدرسة"
 - id: "thk-qasim-amin", title: "قاسم أمين", type: "مفكر"
 gaps:
   - "تم إنشاء هذا الملف كجزء من Phase 3 (2026-09-24)."

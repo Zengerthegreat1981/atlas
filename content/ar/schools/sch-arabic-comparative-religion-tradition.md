@@ -14,6 +14,9 @@ active_start: 1000
 active_end: 1200
 edges: []
 related:
+- id: "thk-ibn-hazm", title: "أبو محمد علي بن حزم الأندلسي", type: "مفكر"
+- id: "thk-al-shahrastani", title: "أبو الفتح محمد الشهرستاني", type: "مفكر"
+- id: "thk-al-biruni", title: "أبو الريحان محمد بن أحمد البيروني", type: "مفكر"
 - id: "wrk-tahqiq-ma-lil-hind-biruni", title: "تحقيق ما للهند من مقولة مقبولة في العقل أو مرذولة", type: "عمل / كتاب"
 - id: "wrk-al-milal-wa-al-nihal-shahrastani", title: "الملل والنحل للشهرستاني", type: "عمل / كتاب"
 - id: "wrk-al-fasl-ibn-hazm", title: "الفِصَل في الملل والأهواء والنحل", type: "عمل / كتاب"

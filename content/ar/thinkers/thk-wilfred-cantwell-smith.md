@@ -17,6 +17,7 @@ active_end: 2000
 edges:
 - rel: "belongs_to", target: "sch-founding-comparative-religion-science-of-religion", target_type: "مدرسة"
 related:
+- id: "thk-al-shahrastani", title: "أبو الفتح محمد الشهرستاني", type: "مفكر"
 - id: "dbt-defining-religion-as-analytic-category", title: "مسألةُ «الدين» بوصفه مقولةً قابلةً للتعريف أصلاً", type: "جدل"
 - id: "thk-jonathan-z-smith", title: "جوناثان ز. سميث (Jonathan Z. Smith)", type: "مفكر"
 - id: "wrk-meaning-and-end-of-religion-cantwell-smith", title: "المعنى ونهايةُ الدين (The Meaning and End of Religion)", type: "عمل / كتاب"

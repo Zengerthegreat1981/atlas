@@ -10,8 +10,10 @@ crumb: "psychiatry ← اضطرابات المزاج ← الاكتئاب لدى
 active_start: 1900
 active_end: "مستمر"
 language: "الإنجليزية"
-edges: []
-related: []
+edges:
+- rel: "belongs_to", target: "sch-mood-disorders", target_type: "مدرسة"
+related:
+- id: "sch-mood-disorders", title: "اضطرابات المزاج", type: "مدرسة"
 gaps:
   - "تم إنشاء هذا الملف كجزء من Phase 3 (2026-09-24)."
 ---

@@ -12,6 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-islamic-psychology", target_type: "مدرسة"
 related:
+- id: "thk-al-ghazali", title: "أبو حامد الغزالي", type: "مفكر"
 - id: "sch-islamic-psychology", title: "علم النفس الإسلامي (Islamic Psychology)", type: "مدرسة"
 - id: "thk-mbadri", title: "مالك بدري", type: "مفكر"
 - id: "con-nafs-natiqa-rational-soul", title: "النفس الناطقة وتجردها العقلي (Rational Soul)", type: "مفهوم"

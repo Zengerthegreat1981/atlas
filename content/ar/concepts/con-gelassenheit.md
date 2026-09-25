@@ -14,6 +14,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-christian-mysticism-medieval", target_type: "مدرسة"
 related:
+- id: "thk-ibn-arabi", title: "محيي الدين بن عربي", type: "مفكر"
 - id: "thk-meister-eckhart", title: "مايستر إيكهارت", type: "مفكر"
 - id: "sch-christian-mysticism-medieval", title: "التصوّف المسيحي الوسيط", type: "مدرسة"
 - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"

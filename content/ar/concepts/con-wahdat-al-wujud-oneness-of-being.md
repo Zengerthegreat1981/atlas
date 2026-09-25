@@ -12,6 +12,8 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-wahdat-alwujud", target_type: "مدرسة"
 related:
+- id: "thk-ibn-taymiyya", title: "تقي الدين أحمد ابن تيمية", type: "مفكر"
+- id: "thk-ibn-arabi", title: "محيي الدين بن عربي", type: "مفكر"
 - id: "sch-akbari", title: "المدرسة الأكبرية (مدرسة الإمبراطور أكبر المغولي)", type: "مدرسة"
 - id: "con-wahdat-al-wujud", title: "وحدة الوجود", type: "مفهوم"
 - id: "con-atman-brahman-vedanta", title: "الأتمان والبراهمان ووحدة الوعي الكوني (Atman-Brahman)", type: "مفهوم"

@@ -12,6 +12,8 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-wahdat-alwujud", target_type: "مدرسة"
 related:
+- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا", type: "مفكر"
+- id: "thk-ibn-arabi", title: "محيي الدين بن عربي", type: "مفكر"
 - id: "sch-akbari", title: "المدرسة الأكبرية (مدرسة الإمبراطور أكبر المغولي)", type: "مدرسة"
 - id: "wrk-fusus-al-hikam-ibn-arabi", title: "فصوص الحكم لمحيي الدين بن عربي", type: "عمل / كتاب"
 - id: "con-wahdat-al-wujud-oneness-of-being", title: "وحدة الوجود العرفانية (Wahdat al-Wujud)", type: "مفهوم"

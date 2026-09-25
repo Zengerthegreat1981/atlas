@@ -12,6 +12,8 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 related:
+- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا", type: "مفكر"
+- id: "thk-al-farabi", title: "أبو نصر محمد بن محمد الفارابي", type: "مفكر"
 - id: "wrk-ar-ahl-al-madina-al-fadila", title: "آراء أهل المدينة الفاضلة للفارابي", type: "عمل / كتاب"
 - id: "con-eudaimonia-wellbeing", title: "اليودايمونيا — السعادة والازدهار الإنساني (Eudaimonia)", type: "مفهوم"
 - id: "con-natural-law-aquinas-concept", title: "القانون الطبيعي والمشاركة العقلية في الحكمة الأزلية (Natural Law)", type: "مفهوم"

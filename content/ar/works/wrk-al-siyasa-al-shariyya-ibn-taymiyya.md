@@ -14,8 +14,10 @@ crumb: "نظريةُ القانون ← التقليدُ ما قبل الحدي�
 legal_tradition: "أصولُ الفقه الإسلامي"
 active_start: 1310
 active_end: "مستمر"
-edges: []
+edges:
+- rel: "authored_by", target: "thk-ibn-taymiyya", target_type: "مفكر"
 related:
+- id: "thk-ibn-taymiyya", title: "تقي الدين أحمد ابن تيمية", type: "مفكر"
 - id: "con-siyasa-shariyya-ibn-taymiyya", title: "السياسةُ الشرعيةُ والفرقُ بين الفقه والقانون (Al-Siyasa al-Shar'iyya)", type: "مفهوم"
 gaps:
   - "سنةُ التأليف (نحو 710 هـ/1310 م) تقديريةٌ استناداً إلى دراساتٍ عن مرحلة تأليفه المتأخرة؛ لا يوجد تأريخٌ دقيقٌ متّفقٌ عليه في المصادر المستعملة هنا."

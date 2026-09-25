@@ -12,6 +12,8 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-existential-therapy", target_type: "مدرسة"
 related:
+- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا", type: "مفكر"
+- id: "thk-al-ghazali", title: "أبو حامد الغزالي", type: "مفكر"
 - id: "con-fear", title: "الخوف", type: "مفهوم"
 - id: "con-sadness", title: "الحزن", type: "مفهوم"
 - id: "con-shame-guilt", title: "الخزي والذنب", type: "مفهوم"

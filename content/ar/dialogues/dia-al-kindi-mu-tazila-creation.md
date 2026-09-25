@@ -12,6 +12,7 @@ active_end: 847
 edges:
 - rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 related:
+- id: "thk-al-kindi", title: "أبو يوسف يعقوب بن إسحاق الكندي", type: "مفكر"
 - id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"
 - id: "ctx-baghdad-house-of-wisdom", title: "بيت الحكمة في بغداد وحركة الترجمة الكبرى", type: "سياق/تقليد"
 gaps:

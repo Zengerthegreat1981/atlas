@@ -12,6 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-islamic-psychology", target_type: "مدرسة"
 related:
+- id: "thk-al-ghazali", title: "أبو حامد الغزالي", type: "مفكر"
 - id: "thk-mbadri", title: "مالك بدري", type: "مفكر"
 gaps:
   - "لم يُعثر على تعريف اصطلاحي موحّد للتزكية عند متأخري المفسرين (كالطبري والقرطبي) في نطاق هذا الملف؛ الاعتماد هنا على الغزالي وحده كمرجعية فقهية-صوفية."

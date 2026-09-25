@@ -14,6 +14,7 @@ language: "العربية (مع الفارسية أحياناً)"
 active_start: 850
 active_end: 1400
 related:
+- id: "thk-al-kindi", title: "أبو يوسف يعقوب بن إسحاق الكندي", type: "مفكر"
 - id: "sch-ishraqiyya", title: "الإشراقية", type: "مدرسة"
 - id: "sch-isfahan", title: "مدرسة أصفهان الفلسفية", type: "مدرسة"
 - id: "sch-andalusian-philosophy", title: "الفلسفة الأندلسية (الرشدية الإسلامية)", type: "مدرسة"

@@ -17,6 +17,8 @@ active_start: 750
 active_end: 1250
 edges: []
 related:
+- id: "thk-al-jurjani", title: "عبد القاهر الجرجاني", type: "مفكر"
+- id: "thk-ibn-jinni", title: "أبو الفتح عثمان بن جنّي", type: "مفكر"
 - id: "thk-sibawayh", title: "سيبويه (عمرو بن عثمان بن قنبر)", type: "مفكر"
 - id: "wrk-al-kitab-sibawayh", title: "الكتاب", type: "عمل / كتاب"
 - id: "con-nazm-theory-jurjani", title: "نظرية النظم عند الجرجاني (Nazm Theory)", type: "مفهوم"

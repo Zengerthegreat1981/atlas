@@ -17,8 +17,10 @@ active_end: 850
 language: "الإنجليزية"
 register: "academic"
 edges:
+- rel: "written_by", target: "thk-al-kindi", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-bayt-al-hikma-translation", target_type: "مدرسة"
 related:
+- id: "thk-al-kindi", title: "أبو يوسف يعقوب بن إسحاق الكندي", type: "مفكر"
 - id: "sch-bayt-al-hikma-translation", title: "مدرسة بيت الحكمة وحركة الترجمة", type: "مدرسة"
 gaps:
   - "تم إنشاء هذا الملف كجزء من Phase 3 (2026-09-24)."

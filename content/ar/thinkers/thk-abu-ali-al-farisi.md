@@ -17,6 +17,7 @@ active_end: 987
 edges:
 - rel: "belongs_to", target: "sch-arabic-grammatical-tradition", target_type: "مدرسة"
 related:
+- id: "thk-ibn-jinni", title: "أبو الفتح عثمان بن جنّي", type: "مفكر"
 - id: "sch-arabic-grammatical-tradition", title: "التقليد النحوي واللغوي العربي الكلاسيكي", type: "مدرسة"
 gaps:
   - "لم يُعثر على ترجمةٍ إنجليزيةٍ شاملةٍ موثَّقة لمؤلَّفاته ضمن مصادر الأطلس؛ الاعتمادُ على النصوص العربية الأصلية والدراسات الثانوية."

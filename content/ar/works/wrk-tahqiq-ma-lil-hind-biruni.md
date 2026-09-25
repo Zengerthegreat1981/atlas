@@ -20,8 +20,10 @@ original_language: "العربية"
 active_start: 1030
 active_end: 1030
 edges:
+- rel: "written_by", target: "thk-al-biruni", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-arabic-comparative-religion-tradition", target_type: "مدرسة"
 related:
+- id: "thk-al-biruni", title: "أبو الريحان محمد بن أحمد البيروني", type: "مفكر"
 - id: "sch-arabic-comparative-religion-tradition", title: "التقليدُ العربيُّ الكلاسيكيُّ في مقارنة الأديان والملل", type: "مدرسة"
 gaps:
   - "سنةُ التأليف الدقيقة غير مثبتة قطعياً؛ نحو 1030م هو التقدير الشائع في الدراسات الحديثة (بعد رحلات البيروني إلى الهند إثر حملات محمود الغزنوي)."

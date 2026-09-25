@@ -17,8 +17,10 @@ active_end: 1020
 language: "الإنجليزية"
 register: "academic"
 edges:
+- rel: "written_by", target: "thk-ibn-sina", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-medieval-islamic-philosophy", target_type: "مدرسة"
 related:
+- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا", type: "مفكر"
 - id: "sch-medieval-islamic-philosophy", title: "مدرسة الفلسفة الإسلامية الوسيطة", type: "مدرسة"
 gaps:
   - "تم إنشاء هذا الملف كجزء من Phase 3 (2026-09-24)."

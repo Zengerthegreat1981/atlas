@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "authored_by", target: "thk-sayf-al-din-al-amidi", target_type: "مفكر"
 related:
+- id: "thk-al-ghazali", title: "أبو حامد الغزالي", type: "مفكر"
 - id: "thk-sayf-al-din-al-amidi", title: "سيف الدين علي بن محمد الآمدي", type: "مفكر"
 - id: "con-dalalat-al-alfaz-usul", title: "دلالاتُ الألفاظ في أصول الفقه (Dalalat al-Alfaz)", type: "مفهوم"
 - id: "sch-usul-al-fiqh-legal-theory", title: "أصولُ الفقه بوصفه نظريةً قانونية (Usul al-Fiqh as Legal Theory)", type: "مدرسة"

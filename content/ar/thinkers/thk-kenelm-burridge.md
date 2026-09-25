@@ -15,6 +15,7 @@ active_end: 2019
 edges:
 - rel: "belongs_to", target: "sch-academic-melanesian-cargo-cult-studies", target_type: "مدرسة"
 related:
+- id: "thk-peter-worsley", title: "پيتر ورزلي (Peter Worsley)", type: "مفكر"
 - id: "sch-academic-melanesian-cargo-cult-studies", title: "الدراسةُ الأكاديميةُ لعباداتِ الشحنة الملانيزية (Melanesian Cargo Cult Studies)", type: "مدرسة"
 - id: "wrk-new-heaven-new-earth-burridge", title: "سماءٌ جديدة، أرضٌ جديدة: دراسةٌ في الأنشطة الألفية", type: "عمل / كتاب"
 gaps:

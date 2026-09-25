@@ -18,6 +18,7 @@ active_source: "estimate"
 edges:
 - rel: "belongs_to", target: "sch-arabic-rhetorical-sciences", target_type: "مدرسة"
 related:
+- id: "thk-al-jurjani", title: "عبد القاهر الجرجاني", type: "مفكر"
 - id: "sch-arabic-rhetorical-sciences", title: "علومُ البلاغة العربية: المعاني والبيان والبديع", type: "مدرسة"
 - id: "wrk-al-mathal-al-sair-ibn-al-athir", title: "المثلُ السائر في أدب الكاتب والشاعر", type: "أثر"
 gaps:

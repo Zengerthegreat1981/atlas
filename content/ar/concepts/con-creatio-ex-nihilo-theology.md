@@ -12,6 +12,8 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-scholasticism", target_type: "مدرسة"
 related:
+- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا", type: "مفكر"
+- id: "thk-ibn-rushd", title: "أبو الوليد محمد بن أحمد بن رشد", type: "مفكر"
 - id: "sch-scholasticism", title: "المدرسية (السكولاستية) — كمظلة", type: "مدرسة"
 - id: "thk-augustine", title: "أوغسطينوس", type: "مفكر"
 - id: "thk-thomas-aquinas", title: "القديس توما الإكويني", type: "مفكر"

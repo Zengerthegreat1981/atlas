@@ -12,6 +12,10 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-islamic-critical-thought", target_type: "مدرسة"
 related:
+- id: "thk-al-ghazali", title: "أبو حامد الغزالي", type: "مفكر"
+- id: "thk-ibn-arabi", title: "محيي الدين بن عربي", type: "مفكر"
+- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا", type: "مفكر"
+- id: "thk-ibn-rushd", title: "أبو الوليد محمد بن أحمد بن رشد", type: "مفكر"
 - id: "thk-mohammed-abed-al-jabri", title: "محمد عابد الجابري", type: "مفكر"
 - id: "sch-islamic-critical-thought", title: "الفكر الإسلامي النقدي المعاصر", type: "مدرسة"
 - id: "thk-foucault", title: "ميشيل فوكو", type: "مفكر"

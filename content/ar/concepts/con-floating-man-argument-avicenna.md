@@ -12,6 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 related:
+- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا", type: "مفكر"
 - id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
 - id: "con-soul-psyche-classical", title: "النفس (Psyche) في الفلسفة الكلاسيكية القديمة", type: "مفهوم"
 - id: "thk-descartes", title: "رينيه ديكارت", type: "مفكر"

@@ -14,6 +14,7 @@ author_slug: "thk-al-kindi"
 publication_year: 840
 original_language: "العربية"
 edges:
+- rel: "written_by", target: "thk-al-kindi", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 gaps:
   - "العمل عربيّ الأصل بقلم مؤلِّفه، فمسألة الترجمة العربية تتبدّد؛ الطبعة المرجعية هي الطبعة المحقَّقة لا ترجمة."

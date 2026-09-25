@@ -15,6 +15,7 @@ language: "الفارسية (مع العربية)"
 edges:
 - rel: "belongs_to", target: "sch-wahdat-alshuhud", target_type: "مدرسة"
 related:
+- id: "thk-ibn-arabi", title: "محيي الدين بن عربي", type: "مفكر"
 - id: "sch-wahdat-alshuhud", title: "وحدة الشهود", type: "مدرسة"
 - id: "sch-wahdat-alwujud", title: "العرفان النظري / وحدة الوجود (المدرسة الأكبرية — الشيخ الأكبر ابن عربي)", type: "مدرسة"
 - id: "sch-akbari", title: "المدرسة الأكبرية (مدرسة الإمبراطور أكبر المغولي)", type: "مدرسة"

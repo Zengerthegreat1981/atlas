@@ -14,8 +14,10 @@ author_slug: "thk-al-ghazali"
 publication_year: 1095
 original_language: "العربية"
 edges:
+- rel: "written_by", target: "thk-al-ghazali", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-ashariyya", target_type: "مدرسة"
 related:
+- id: "thk-al-ghazali", title: "أبو حامد الغزالي", type: "مفكر"
 - id: "wrk-tahafut-al-falasifa-ghazali", title: "تهافت الفلاسفة لأبي حامد الغزالي", type: "عمل / كتاب"
 gaps:
   - "لم يثبت وجود ترجمة عربية معتمدة لهذا العمل بمعنى الترجمة عن لغة أخرى — العمل عربي الأصل أصلاً، فسؤال الترجمة العربية يتبدّد؛ الحاجة القائمة هي طبعة نقدية محقَّقة بمحقِّقها وسنتها، ولم تُثبَّت هنا."

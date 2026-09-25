@@ -17,6 +17,7 @@ edges:
 - rel: "belongs_to", target: "sch-ishraqiyya", target_type: "مدرسة"
 - rel: "authored_by", target: "thk-suhrawardi", target_type: "مفكر"
 related:
+- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا", type: "مفكر"
 - id: "thk-suhrawardi", title: "شهاب الدين يحيى بن حبش السهروردي (شيخ الإشراق)", type: "مفكر"
 - id: "wrk-hikmat-al-ishraq-suhrawardi", title: "حكمة الإشراق للسهروردي", type: "عمل / كتاب"
 - id: "sch-ishraqiyya", title: "الإشراقية", type: "مدرسة"

@@ -12,6 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 related:
+- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا", type: "مفكر"
 - id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
 - id: "con-universals-debate", title: "جدل الكليات (مشكلة الكُنْه)", type: "مفهوم"
 - id: "con-nominalism-universals-concept", title: "الاسمية وإنكار الوجود الواقعي للكليات (Nominalism)", type: "مفهوم"

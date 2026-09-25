@@ -15,6 +15,7 @@ language: "العربية والفارسية"
 edges:
 - rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 related:
+- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا", type: "مفكر"
 - id: "sch-isfahan", title: "مدرسة أصفهان الفلسفية", type: "مدرسة"
 - id: "sch-shiraz", title: "مدرسة شيراز الفلسفية", type: "مدرسة"
 - id: "sch-imami-kalam", title: "الكلام الإمامي الاثنا عشري", type: "مدرسة"

@@ -10,12 +10,15 @@ crumb: "المكتبة الفلسفية ← أمهات الأعمال والمص
 active_start: 1180
 active_end: 1180
 edges:
+- rel: "written_by", target: "thk-ibn-rushd", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-andalusian-philosophy", target_type: "مدرسة"
 author: "ابن رشد"
 author_slug: "thk-ibn-rushd"
 publication_year: 1180
 original_language: "العربية"
-related: []
+related:
+- id: "thk-al-ghazali", title: "أبو حامد الغزالي", type: "مفكر"
+- id: "thk-ibn-rushd", title: "أبو الوليد محمد بن أحمد بن رشد", type: "مفكر"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من تهافت التهافت (1180) بترجمة عربية معتمدة للتحقيق المعاصر — النص هنا وصفي مبني على تاريخ الفكر لا نقلاً حرفياً من طبعة بويج."
   - "تاريخ استقبال مبكر مفصَّل (كيف قرأه فقهاء الأندلس والمغرب في جيل ابن رشد نفسه) لم يثبت من مصدر أولي."

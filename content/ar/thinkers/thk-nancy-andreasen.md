@@ -12,8 +12,10 @@ active_start: 1938
 active_end: مستمر
 country: ""
 language: "الإنجليزية"
-edges: []
-related: []
+edges:
+- rel: "belongs_to", target: "sch-diagnostic-nosology", target_type: "مدرسة"
+related:
+- id: "sch-diagnostic-nosology", title: "التصنيف والتشخيص النفسي (Nosology)", type: "مدرسة"
 gaps:
   - "تم إنشاء هذا الملف كجزء من Phase 3 (2026-09-24)."
 ---

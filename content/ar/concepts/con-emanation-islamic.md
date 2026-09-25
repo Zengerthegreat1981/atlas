@@ -14,6 +14,9 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 related:
+- id: "thk-ibn-arabi", title: "محيي الدين بن عربي", type: "مفكر"
+- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا", type: "مفكر"
+- id: "thk-al-farabi", title: "أبو نصر محمد بن محمد الفارابي", type: "مفكر"
 - id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
 - id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"
 - id: "con-wahdat-al-wujud-oneness-of-being", title: "وحدة الوجود العرفانية (Wahdat al-Wujud)", type: "مفهوم"

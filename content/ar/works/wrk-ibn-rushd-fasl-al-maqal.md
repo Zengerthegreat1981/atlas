@@ -14,8 +14,10 @@ author_slug: "thk-ibn-rushd"
 publication_year: 1179
 original_language: "العربية"
 edges:
+- rel: "authored_by", target: "thk-ibn-rushd", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 related:
+- id: "thk-ibn-rushd", title: "أبو الوليد محمد بن أحمد بن رشد", type: "مفكر"
 - id: "wrk-al-kashf-an-manahij-al-adilla", title: "الكشف عن مناهج الأدلة في عقائد الملة لابن رشد", type: "عمل / كتاب"
 - id: "wrk-tahafut-al-tahafut-averroes", title: "تهافت التهافت لابن رشد", type: "عمل / كتاب"
 gaps:

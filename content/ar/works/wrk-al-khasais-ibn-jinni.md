@@ -17,7 +17,8 @@ active_end: 1002
 active_source: "estimate"
 edges:
 - rel: "belongs_to", target: "sch-arabic-grammatical-tradition", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-ibn-jinni", title: "أبو الفتح عثمان بن جنّي", type: "مفكر"
 gaps: []
 ---
 

@@ -12,8 +12,10 @@ active_start: 1896
 active_end: 1980
 country: ""
 language: "الإنجليزية"
-edges: []
-related: []
+edges:
+- rel: "belongs_to", target: "sch-developmental-child-psychiatry", target_type: "مدرسة"
+related:
+- id: "sch-developmental-child-psychiatry", title: "الطب النفسي التنموي للطفل", type: "مدرسة"
 gaps:
   - "تم إنشاء هذا الملف كجزء من Phase 3 (2026-09-24)."
 ---

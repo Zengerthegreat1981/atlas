@@ -15,6 +15,8 @@ active_start: 800
 active_end: "مستمر"
 edges: []
 related:
+- id: "thk-al-shafii", title: "محمد بن إدريس الشافعي", type: "مفكر"
+- id: "thk-al-shatibi", title: "أبو إسحاق إبراهيم بن موسى الشاطبي", type: "مفكر"
 - id: "con-maqasid-al-shariah-shatibi", title: "مقاصدُ الشريعة عند الشاطبي (Maqasid al-Shari'ah)", type: "مفهوم"
 - id: "wrk-al-muwafaqat-shatibi", title: "الموافقاتُ في أصول الشريعة", type: "عمل / كتاب"
 - id: "con-qiyas-analogical-reasoning", title: "القياسُ (Qiyas — الاستدلالُ التمثيليُّ الشرعي)", type: "مفهوم"

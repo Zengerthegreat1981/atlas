@@ -14,6 +14,7 @@ active_start: 1878
 active_end: "مستمر"
 edges: []
 related:
+- id: "thk-ibn-hazm", title: "أبو محمد علي بن حزم الأندلسي", type: "مفكر"
 - id: "thk-julius-wellhausen", title: "يوليوس فلهاوزن", type: "مفكر"
 - id: "con-documentary-hypothesis-wellhausen", title: "الفرضيةُ الوثائقية (JEDP) عند فلهاوزن", type: "مفهوم"
 - id: "sch-religionsgeschichtliche-schule", title: "مدرسةُ تاريخ الأديان الألمانية (Religionsgeschichtliche Schule)", type: "مدرسة"

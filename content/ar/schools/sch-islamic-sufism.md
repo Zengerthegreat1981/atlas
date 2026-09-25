@@ -17,6 +17,8 @@ edges:
 - rel: "relates_to", target: "sch-wahdat-alwujud", target_type: "مدرسة"
 - rel: "relates_to", target: "sch-akbari", target_type: "مدرسة"
 related:
+- id: "thk-ibn-arabi", title: "محيي الدين بن عربي", type: "مفكر"
+- id: "thk-al-ghazali", title: "أبو حامد الغزالي", type: "مفكر"
 - id: "thk-jalal-al-din-rumi", title: "جلال الدين الرومي (مولانا)", type: "مفكر"
 - id: "exp-al-ghazali-crisis-speechlessness", title: "أزمة أبي حامد الغزالي وانعقاد لسانه والخروج في طريق التصوف (1095)", type: "خبرة معيشة"
 - id: "exp-al-hallaj-ana-al-haqq-execution", title: "محاكمة الحلاج واستشهاده في بغداد وصرخة الفناء في الحق", type: "خبرة معيشة"

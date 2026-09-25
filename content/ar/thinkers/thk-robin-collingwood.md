@@ -13,6 +13,7 @@ active_start: 1915
 active_end: 1943
 edges: []
 related:
+  - id: "sch-historical-method-epistemology", title: "المنهج التاريخي والإبستيمولوجيا", type: "مدرسة"
   - id: "con-historical-imagination", title: "الخيالُ التاريخيّ (Historical Imagination)", type: "مفهوم"
 gaps: []
 ---

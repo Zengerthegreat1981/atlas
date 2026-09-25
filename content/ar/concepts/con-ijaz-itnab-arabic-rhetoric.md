@@ -17,6 +17,7 @@ active_end: 1338
 edges:
 - rel: "belongs_to", target: "sch-arabic-rhetorical-sciences", target_type: "مدرسة"
 related:
+- id: "thk-al-sakkaki", title: "أبو يعقوب السكّاكي", type: "مفكر"
 - id: "sch-arabic-rhetorical-sciences", title: "علومُ البلاغة العربية: المعاني والبيان والبديع", type: "مدرسة"
 - id: "con-ilm-al-maani-arabic-rhetoric", title: "علمُ المعاني: مطابقةُ الكلام لمقتضى الحال", type: "مفهوم"
 - id: "con-nazm-theory-jurjani", title: "نظرية النظم عند الجرجاني (Nazm Theory)", type: "مفهوم"

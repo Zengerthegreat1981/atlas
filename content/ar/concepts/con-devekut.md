@@ -14,6 +14,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-hasidic", target_type: "مدرسة"
 related:
+- id: "thk-ibn-arabi", title: "محيي الدين بن عربي", type: "مفكر"
 - id: "sch-hasidic", title: "الحسيدية الفلسفية", type: "مدرسة"
 - id: "sch-kabbalah-lurianic", title: "القبّالة اللوريانية", type: "مدرسة"
 - id: "thk-baal-shem-tov", title: "إسرائيل بن إليعزر (بعل شيم طوف)", type: "مفكر"

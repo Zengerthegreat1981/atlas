@@ -14,6 +14,8 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-kabbalah", target_type: "مدرسة"
 related:
+- id: "thk-ibn-rushd", title: "أبو الوليد محمد بن أحمد بن رشد", type: "مفكر"
+- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا", type: "مفكر"
 - id: "sch-kabbalah", title: "القبّالة (كتيار فلسفي-رمزي)", type: "مدرسة"
 - id: "sch-ismaili", title: "الفلسفة الإسماعيلية", type: "مدرسة"
 - id: "thk-proclus", title: "بروكلس الإسكندراني (الديادوخوس)", type: "مفكر"

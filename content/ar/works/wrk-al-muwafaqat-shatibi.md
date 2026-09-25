@@ -14,8 +14,10 @@ crumb: "نظريةُ القانون ← التقليدُ ما قبل الحدي�
 legal_tradition: "أصولُ الفقه الإسلامي"
 active_start: 1388
 active_end: "مستمر"
-edges: []
+edges:
+- rel: "authored_by", target: "thk-al-shatibi", target_type: "مفكر"
 related:
+- id: "thk-al-shatibi", title: "أبو إسحاق إبراهيم بن موسى الشاطبي", type: "مفكر"
 - id: "con-maqasid-al-shariah-shatibi", title: "مقاصدُ الشريعة عند الشاطبي (Maqasid al-Shari'ah)", type: "مفهوم"
 gaps:
   - "لم تُقابَل هنا طبعاتُ الكتاب المختلفة بعضُها ببعض؛ الطبعةُ المذكورةُ في المصادر (تحقيق أبو عبيدة مشهور آل سلمان) هي الطبعةُ النقديةُ الأكثرُ تداولاً أكاديمياً، دون ادّعاء أنّها الوحيدةُ المعتمَدة."
