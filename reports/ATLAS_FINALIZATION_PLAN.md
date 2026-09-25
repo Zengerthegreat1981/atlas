@@ -41,6 +41,8 @@ The reports inflated these counts:
 - The integrity checker reports dangling `related` links in EN.
 
 ## 1. Operating rules (from memory and MISSIONS_INDEX)
+0. **ENGLISH FREEZE (user decision 2026-09-25):** `content/en/` is frozen. Do not create, edit, move or delete any EN file. Phase 3 (English) starts only when Phases 1 and 2 (Arabic) are 100% done. Leave the old Atlas chats in place; do not archive them.
+0b. **Automation:** the scheduled task `atlas-worker` runs every 30 min. It uses `reports/.atlas_worker.lock` (heartbeat) and spawns 2 Sonnet subagents per run.
 1. Only one writer on `content/ar` at a time. All the other Atlas chats must be closed (see MISSIONS_INDEX, the concurrency rule).
 2. Sonnet agents get **bounded, checkable batches**: an explicit slug list, an explicit target, and ≤40 files. Opus (this chat) verifies every batch before commit: word counts, integrity checker, and 3 random full reads per batch.
 3. Batches never share slugs. Each agent writes only the files on its list.
@@ -52,7 +54,7 @@ The reports inflated these counts:
 ### Phase 0: hygiene (Opus, 1 session)
 - Archive the 10 old Atlas chats.
 - Run `check_content_integrity.py` and fix AR errors to 0.
-- Resolve the 751 EN orphans: move them to `content/en/_orphans/` and extract their Arabic-worthy content later.
+- ~~EN orphans~~ frozen, see rule 0.
 - Rebuild `data.json`.
 - Keep this file up to date as the single tracker.
 

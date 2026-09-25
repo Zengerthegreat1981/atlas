@@ -38,3 +38,4 @@ app.js
 
 # إعدادات مهارات Claude Code المحلية (فيها بريدُ حسابٍ شخصي)
 .agents/
+reports/.atlas_worker.lock
