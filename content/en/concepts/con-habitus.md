@@ -1,40 +1,30 @@
 ---
-slug: "con-habitus"
-id: "ANT-13028"
-type: "مفهوم"
-level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
-en: "Habitus"
-crumb: "[EN TRANSLATION NEEDED]"
-dates: ""
-edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
-related:
+slug: con-habitus
+id: SOC-14219
+type: مفهوم
+part: sociology
+level: متوسط
+title: العادة/الملكة
+en: Habitus
+crumb: علم الاجتماع ← العادة/الملكة
+dates: ''
+active_start: 1900
+active_end: مستمر
+edges: []
+related: []
 gaps:
-  - "Habitus and change"
-  - "Digital habitus"
+- Theoretical genealogy pending
+- Cross-school comparisons pending
+- Empirical examples pending
+sociological_tradition: other
+sociological_paradigm: micro-macro
 ---
+# Habitus
 
-# [EN TRANSLATION NEEDED]
+Habitus: Internalized dispositions shaping behavior. Theoretical elaboration and applications pending full development.
 
-[EN TRANSLATION NEEDED — lede paragraph]
+## Sources
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+- Foundational sources pending research.
+- Contemporary applications pending verification.
 
-# الهابيتوس/الممارسة المعتادة
-
-[Brief description in Arabic for translator reference]
-
-## الفرع الرئيسي
-
-[Key section in Arabic]
-
-## المساهمات
-
-[Contributions in Arabic]
-
-## الفجوات والتطورات
-
-[Gaps in Arabic]
-
--->

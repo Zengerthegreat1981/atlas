@@ -1,32 +1,30 @@
 ---
-slug: "con-community"
-id: "ANT-13293"
-type: "مفهوم"
-level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
-en: "Community"
-crumb: "[EN TRANSLATION NEEDED]"
-dates: ""
-edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
-related:
-  []
+slug: con-community
+id: SOC-14216
+type: مفهوم
+part: sociology
+level: متوسط
+title: المجتمع المحلي
+en: Community
+crumb: علم الاجتماع ← المجتمع المحلي
+dates: ''
+active_start: 1900
+active_end: مستمر
+edges: []
+related: []
 gaps:
-  []
+- Theoretical genealogy pending
+- Cross-school comparisons pending
+- Empirical examples pending
+sociological_tradition: other
+sociological_paradigm: micro-macro
 ---
+# Community
 
-# [EN TRANSLATION NEEDED]
+Community: Group sharing geographic territory and identity. Theoretical elaboration and applications pending full development.
 
-[EN TRANSLATION NEEDED — lede paragraph]
+## Sources
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+- Foundational sources pending research.
+- Contemporary applications pending verification.
 
-# المجتمع
-
-[Arabic description for translator]
-
-## المضمون
-
-[Content section in Arabic]
-
--->

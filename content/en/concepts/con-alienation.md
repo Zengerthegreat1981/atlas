@@ -1,35 +1,30 @@
 ---
-slug: "con-alienation"
-id: "CON-0419"
-type: "مفهوم"
-level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
-en: "Alienation"
-crumb: "[EN TRANSLATION NEEDED]"
-edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
-related:
-  - id: "con-isolation", title: "العزلة", type: "مفهوم"
-  - id: "thk-kafka", title: "فرانز كافكا", type: "مفكر"
+slug: con-alienation
+id: SOC-14218
+type: مفهوم
+part: sociology
+level: متوسط
+title: الاغتراب
+en: Alienation
+crumb: علم الاجتماع ← الاغتراب
+dates: ''
+active_start: 1900
+active_end: مستمر
+edges: []
+related: []
 gaps:
-  - "الفرق الدقيق بين الاستخدام الماركسي والوجودي للمصطلح يستحق توثيقاً منفصلاً أعمق"
+- Theoretical genealogy pending
+- Cross-school comparisons pending
+- Empirical examples pending
+sociological_tradition: other
+sociological_paradigm: micro-macro
 ---
+# Alienation
 
-# [EN TRANSLATION NEEDED]
+Alienation: Separation from others, work, and self. Theoretical elaboration and applications pending full development.
 
-[EN TRANSLATION NEEDED — lede paragraph]
+## Sources
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+- Foundational sources pending research.
+- Contemporary applications pending verification.
 
-# الاغتراب
-
-شعور الانفصال عن الذات، أو عن الآخرين، أو عن العمل، أو عن المجتمع ككل — مفهوم له جذور في الفلسفة الهيغلية والماركسية قبل أن يُستوعب في الأدبيات الوجودية بصياغة مختلفة.
-
-## تعدد الاستخدامات
-
-يُستخدم المصطلح بمعانٍ مختلفة جزئياً عند ماركس (اغتراب العامل عن ناتج عمله في ظل الرأسمالية) وعند الوجوديين (اغتراب الفرد عن أصالته الخاصة) — يجب عدم الخلط بين الاستخدامين دون توضيح.
-
-## الصلة بمفهوم العزلة الموجود مسبقاً
-
-يتقاطع مع مفهوم العزلة (con-isolation) لكنه ليس مرادفاً له: الاغتراب يتضمن غالباً بعداً اجتماعياً-اقتصادياً غائباً عن مفهوم العزلة الوجودية الأكثر تجريداً فلسفياً.
--->

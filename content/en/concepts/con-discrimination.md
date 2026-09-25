@@ -1,32 +1,30 @@
 ---
-slug: "con-discrimination"
-id: "ANT-13318"
-type: "مفهوم"
-level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
-en: "Discrimination"
-crumb: "[EN TRANSLATION NEEDED]"
-dates: ""
-edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
-related:
-  []
+slug: con-discrimination
+id: SOC-14242
+type: مفهوم
+part: sociology
+level: متوسط
+title: التمييز
+en: Discrimination
+crumb: علم الاجتماع ← التمييز
+dates: ''
+active_start: 1900
+active_end: مستمر
+edges: []
+related: []
 gaps:
-  []
+- Theoretical genealogy pending
+- Cross-school comparisons pending
+- Empirical examples pending
+sociological_tradition: other
+sociological_paradigm: micro-macro
 ---
+# Discrimination
 
-# [EN TRANSLATION NEEDED]
+Discrimination: Unequal treatment based on group membership. Theoretical elaboration and applications pending full development.
 
-[EN TRANSLATION NEEDED — lede paragraph]
+## Sources
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+- Foundational sources pending research.
+- Contemporary applications pending verification.
 
-# التمييز
-
-[Arabic description for translator]
-
-## المضمون
-
-[Content section in Arabic]
-
--->

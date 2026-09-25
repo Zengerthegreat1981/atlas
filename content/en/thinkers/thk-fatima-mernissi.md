@@ -1,40 +1,30 @@
 ---
-slug: "thk-fatima-mernissi"
-id: "ANT-13256"
-type: "مفكر"
-level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
-en: "Fatima Mernissi"
-crumb: "[EN TRANSLATION NEEDED]"
-dates: "Morocco · 1940-2015"
-edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
-related:
-  []
+slug: thk-fatima-mernissi
+id: SOC-14152
+type: مفكر
+part: sociology
+level: متوسط
+title: Fatima Mernissi
+en: Fatima Mernissi
+crumb: علم الاجتماع ← Fatima Mernissi
+dates: International · 1940-2015
+active_start: 1940
+active_end: مستمر
+edges: []
+related: []
 gaps:
-  []
+- Full biography pending
+- Complete theoretical contributions pending
+- Cross-referencing with schools pending
+sociological_tradition: other
+sociological_paradigm: micro-macro
 ---
+# Fatima Mernissi
 
-# [EN TRANSLATION NEEDED]
+Fatima Mernissi: Moroccan feminist sociologist. Biographical and theoretical development pending full elaboration.
 
-[EN TRANSLATION NEEDED — lede paragraph]
+## Sources
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+- Biographical sources on Fatima Mernissi pending verification.
+- Secondary scholarship pending research.
 
-# فاطمة المرنيسي
-
-[Brief description in Arabic for translator reference]
-
-## الفرع الرئيسي
-
-[Key section in Arabic]
-
-## المساهمات
-
-[Contributions in Arabic]
-
-## الفجوات والتطورات
-
-[Gaps in Arabic]
-
--->

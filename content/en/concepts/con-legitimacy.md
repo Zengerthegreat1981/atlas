@@ -1,40 +1,30 @@
 ---
-slug: "con-legitimacy"
-id: "ANT-13115"
-type: "مفهوم"
-level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
-en: "Legitimacy"
-crumb: "[EN TRANSLATION NEEDED]"
-dates: ""
-edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
-related:
-  []
+slug: con-legitimacy
+id: SOC-14232
+type: مفهوم
+part: sociology
+level: متوسط
+title: الشرعية
+en: Legitimacy
+crumb: علم الاجتماع ← الشرعية
+dates: ''
+active_start: 1900
+active_end: مستمر
+edges: []
+related: []
 gaps:
-  - "Authority seen as justified and rightful"
+- Theoretical genealogy pending
+- Cross-school comparisons pending
+- Empirical examples pending
+sociological_tradition: other
+sociological_paradigm: micro-macro
 ---
+# Legitimacy
 
-# [EN TRANSLATION NEEDED]
+Legitimacy: Acceptance of authority as proper and justified. Theoretical elaboration and applications pending full development.
 
-[EN TRANSLATION NEEDED — lede paragraph]
+## Sources
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+- Foundational sources pending research.
+- Contemporary applications pending verification.
 
-# الشرعية
-
-[Brief description in Arabic for translator reference]
-
-## الفرع الرئيسي
-
-[Key section in Arabic]
-
-## المساهمات
-
-[Contributions in Arabic]
-
-## الفجوات والتطورات
-
-[Gaps in Arabic]
-
--->

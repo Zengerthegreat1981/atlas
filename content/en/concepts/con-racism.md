@@ -1,32 +1,30 @@
 ---
-slug: "con-racism"
-id: "ANT-13319"
-type: "مفهوم"
-level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
-en: "Racism"
-crumb: "[EN TRANSLATION NEEDED]"
-dates: ""
-edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
-related:
-  []
+slug: con-racism
+id: SOC-14247
+type: مفهوم
+part: sociology
+level: متوسط
+title: العنصرية
+en: Racism
+crumb: علم الاجتماع ← العنصرية
+dates: ''
+active_start: 1900
+active_end: مستمر
+edges: []
+related: []
 gaps:
-  []
+- Theoretical genealogy pending
+- Cross-school comparisons pending
+- Empirical examples pending
+sociological_tradition: other
+sociological_paradigm: micro-macro
 ---
+# Racism
 
-# [EN TRANSLATION NEEDED]
+Racism: Ideology and practices of racial inequality. Theoretical elaboration and applications pending full development.
 
-[EN TRANSLATION NEEDED — lede paragraph]
+## Sources
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+- Foundational sources pending research.
+- Contemporary applications pending verification.
 
-# العنصرية
-
-[Arabic description for translator]
-
-## المضمون
-
-[Content section in Arabic]
-
--->

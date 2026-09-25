@@ -1,40 +1,30 @@
 ---
-slug: "thk-bruno-latour"
-id: "ANT-13081"
-type: "مفكر"
-level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
-en: "Bruno Latour"
-crumb: "[EN TRANSLATION NEEDED]"
-dates: "France · 1947-"
-edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
-related:
-  []
+slug: thk-bruno-latour
+id: SOC-14137
+type: مفكر
+part: sociology
+level: متوسط
+title: Bruno Latour
+en: Bruno Latour
+crumb: علم الاجتماع ← Bruno Latour
+dates: International · 1947-present
+active_start: 1947
+active_end: مستمر
+edges: []
+related: []
 gaps:
-  []
+- Full biography pending
+- Complete theoretical contributions pending
+- Cross-referencing with schools pending
+sociological_tradition: other
+sociological_paradigm: micro-macro
 ---
+# Bruno Latour
 
-# [EN TRANSLATION NEEDED]
+Bruno Latour: Actor-network theory pioneer. Biographical and theoretical development pending full elaboration.
 
-[EN TRANSLATION NEEDED — lede paragraph]
+## Sources
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+- Biographical sources on Bruno Latour pending verification.
+- Secondary scholarship pending research.
 
-# برونو لاتور
-
-[Brief description in Arabic for translator reference]
-
-## الفرع الرئيسي
-
-[Key section in Arabic]
-
-## المساهمات
-
-[Contributions in Arabic]
-
-## الفجوات والتطورات
-
-[Gaps in Arabic]
-
--->

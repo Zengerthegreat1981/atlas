@@ -1,40 +1,30 @@
 ---
-slug: "thk-arjun-appadurai"
-id: "ANT-13082"
-type: "مفكر"
-level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
-en: "Arjun Appadurai"
-crumb: "[EN TRANSLATION NEEDED]"
-dates: "USA · 1949-"
-edges:
-  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
-related:
-  []
+slug: thk-arjun-appadurai
+id: SOC-14136
+type: مفكر
+part: sociology
+level: متوسط
+title: Arjun Appadurai
+en: Arjun Appadurai
+crumb: علم الاجتماع ← Arjun Appadurai
+dates: International · 1956-present
+active_start: 1956
+active_end: مستمر
+edges: []
+related: []
 gaps:
-  []
+- Full biography pending
+- Complete theoretical contributions pending
+- Cross-referencing with schools pending
+sociological_tradition: other
+sociological_paradigm: micro-macro
 ---
+# Arjun Appadurai
 
-# [EN TRANSLATION NEEDED]
+Arjun Appadurai: Globalization and culture. Biographical and theoretical development pending full elaboration.
 
-[EN TRANSLATION NEEDED — lede paragraph]
+## Sources
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+- Biographical sources on Arjun Appadurai pending verification.
+- Secondary scholarship pending research.
 
-# أرجون أبادوراي
-
-[Brief description in Arabic for translator reference]
-
-## الفرع الرئيسي
-
-[Key section in Arabic]
-
-## المساهمات
-
-[Contributions in Arabic]
-
-## الفجوات والتطورات
-
-[Gaps in Arabic]
-
--->
