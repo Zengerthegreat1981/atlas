@@ -1,0 +1,23 @@
+---
+slug: "trm-howell-m-whitehead-j-1989-survive-stress"
+id: "TRM-ENG-49029"
+type: "مصطلح نفسي"
+level: "مقدمة"
+title: "Howell, M., & Whitehead, J. (1989). Survive stress"
+en: "Howell, M., & Whitehead, J. (1989). Survive stress"
+ar: ""
+sources:
+  - title: "Comprehensive Clinical Psychology Volume 6  .pdf"
+    year: 2024
+    note: "Extracted from psychology encyclopedia PDF"
+---
+
+# Howell, M., & Whitehead, J. (1989). Survive stress
+
+A Lehrer, P. M., & Woolfolk, R. L. (1984). Are stress
+
+## See also
+
+- Related concepts in psychology
+- Connected theoretical frameworks
+
