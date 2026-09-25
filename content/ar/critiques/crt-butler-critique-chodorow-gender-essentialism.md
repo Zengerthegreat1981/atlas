@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-sociology-of-family-gender-intimacy", target_type: "مدرسة"
 related:
 - id: "thk-butler", title: "جوديث بتلر", type: "مفكر"
-- id: "thk-nancy-chodorow", title: "نانسي تشودورو", type: "مفكر"
+- id: "thk-chodorow", title: "نانسي تشودورو", type: "مفكر"
 - id: "con-reproduction-of-mothering-chodorow", title: "إعادة إنتاج الأمومة عند تشودورو (Reproduction of Mothering)", type: "مفهوم"
 gaps:
   - "أُنشئ 2026-09-17 استجابةً لتوجيه المنسِّق بالتركيز على أنواع `crt-` بعد بلوغ `con-` هدفه العددي، سادّاً فجوة نقدية كانت مسجَّلة صراحةً في `gaps` ملفَي تشودورو المُنشأَين في دورة سابقة (الدورة 13) دون معالجة مستقلة. تحقّقتُ عبر grep من غياب أي ملف نقد سابق لهذه العلاقة تحديداً، وتحقّقتُ من مضمون النقد عبر بحث ويب مباشر (مقالة أكاديمية في مجلة Hypatia بعنوان Exclusion and Essentialism in Feminist Theory: The Problem of Mothering تناقش هذه المسألة تحديداً؛ كتاب بتلر Gender Trouble، 1990)."

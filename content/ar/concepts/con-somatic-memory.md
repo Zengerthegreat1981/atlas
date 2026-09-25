@@ -9,10 +9,10 @@ en: "Somatic Memory: The Body as Recorder of Experience"
 crumb: "Sensorimotor Therapy ← المفاهيم ← الذاكرة الجسدية"
 active_start: 1990
 active_end: "مستمر"
-edges:
+edges: []
 - rel: "relates_to", target: "sch-sensorimotor-psychotherapy", target_type: "مدرسة"
-related:
-- id: "thk-bvdkolk", title: "بِسِل فان دير كولك", type: "مفكر"
+related: []
+- id: "thk-besselvanderkolk", title: "بِسِل فَن دِر كولك", type: "مفكر"
 - id: "con-sensorimotor-three-way-model", title: "النموذج الثلاثي (الإدراك - الانفعال - الحس-حركة)", type: "مفهوم"
 - id: "con-felt-sense-tracking", title: "التتبع الحسي للإحساس المستبطن (Felt Sense)", type: "مفهوم"
 gaps:

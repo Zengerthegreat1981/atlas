@@ -12,12 +12,12 @@ evidence_level: "experimental"
 dates: "صاغته Pat Ogden في 2006"
 active_start: 2006
 active_end: "مستمر"
-edges:
+edges: []
 - rel: "belongs_to", target: "sch-sensorimotor-psychotherapy", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-pogden", target_type: "مفكر"
-related:
+related: []
 - id: "sch-sensorimotor-psychotherapy", title: "العلاج النفسي حسي-حركي (Sensorimotor Psychotherapy)", type: "مدرسة"
-- id: "thk-bvdkolk", title: "بِسِل فان دير كولك", type: "مفكر"
+- id: "thk-besselvanderkolk", title: "بِسِل فَن دِر كولك", type: "مفكر"
 - id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
 - id: "sch-somatic-experiencing", title: "التجربة الجسدية (Somatic Experiencing)", type: "مدرسة"
 - id: "con-trauma", title: "الصدمة النفسية في التحليلية", type: "مفهوم"

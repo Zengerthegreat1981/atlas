@@ -13,7 +13,7 @@ crumb: "أنثروبولوجيا الاقتصاد والعمل"
 edges:
   - rel: "related_to", target: "con-structural-violence-definition", target_type: "مفهوم"
 related:
-  - id: "thk-pierre-bourdieu", title: "بيير بورديو", type: "مفكر"
+  - id: "thk-bourdieu", title: "بيير بورديو", type: "مفكر"
   - id: "thk-paul-farmer", title: "بول فارمر", type: "مفكر"
   - id: "con-structural-violence-definition", title: "العنفُ البنيويّ", type: "مفهوم"
   - id: "con-habitus-bourdieu", title: "الهابيتوس (Habitus)", type: "مفهوم"

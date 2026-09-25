@@ -9,10 +9,10 @@ en: "Three-Way Model: Awareness, Arousal, and Thinking"
 crumb: "Sensorimotor Therapy ← المفاهيم ← النموذج الثلاثي"
 active_start: 2006
 active_end: "مستمر"
-edges:
+edges: []
 - rel: "relates_to", target: "sch-sensorimotor-psychotherapy", target_type: "مدرسة"
-related:
-- id: "thk-bvdkolk", title: "بِسِل فان دير كولك", type: "مفكر"
+related: []
+- id: "thk-besselvanderkolk", title: "بِسِل فَن دِر كولك", type: "مفكر"
 gaps:
   - "رابط أُزيل عند نقل مدخل غير متحقَّق منه إلى المسودات: بات أوغدن (thk-pogden)."
   - "لم تُراجع من نسخة أصلية مباشرة بعد (Ogden et al., 2006)."

@@ -12,7 +12,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "sch-economic-anthropology-expanded", target_type: "مدرسة"
 related:
-  - id: "thk-pierre-bourdieu", title: "بيير بورديو", type: "مفكر"
+  - id: "thk-bourdieu", title: "بيير بورديو", type: "مفكر"
 gaps:
   - "دراسةٌ محدودةٌ عن الرأسمالِ الاجتماعيّ الرقميّ والعلاقاتِ عبرَ الإنترنت."
 ---

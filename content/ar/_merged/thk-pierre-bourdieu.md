@@ -1,5 +1,5 @@
 ---
-slug: "thk-pierre-bourdieu"
+slug: "thk-bourdieu"
 id: "THK-7051"
 type: "مفكر"
 part: "legal-theory"

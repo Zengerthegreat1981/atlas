@@ -27,89 +27,37 @@ gaps: []
 
 # مبادئُ الاقتصاد الاشتقاقي في البرنامج الأدنوي
 
-## Definition and Core Concept
+## التعريف
 
-This term refers to a key concept in phonological analysis and theory. Phonology studies the sound systems of languages, examining how sounds function to convey meaning and how they vary across languages and contexts.
+مجموعةُ مبادئَ نظّمها نعوم تشومسكي في «البرنامج الأدنوي» (The Minimalist Program، 1993/1995) لتقييد عمليات الاشتقاق النحوي بحيث يُفضَّل من بين الاشتقاقات الممكنة نحوياً ذاك الذي يستهلك أقلَّ عددٍ من الخطوات والموارد الحسابية. تنطلق هذه المبادئُ من فرضيةٍ أوسعَ مفادُها أنّ ملَكةَ اللغة البشرية تخضع لمبادئ الكفاءة الحسابية («العامل الثالث» في نموّ اللغة)، لا لخصوصيةٍ لغويةٍ بحتة فحسب.
 
-## Historical Development
+## المبادئُ الرئيسة
 
-The concept emerged from linguistic research in the 20th century, developing from early phonetic observations into sophisticated theoretical frameworks. Modern phonology builds on foundations laid by the Prague Linguistic Circle and subsequent generative linguistics.
+- **الملاذُ الأخير (Last Resort)**: لا تُطبَّق عمليةُ الحركة (Move) إلا حين تكون ضروريةً لتلبية شرطٍ صرفيّ أو دلاليّ، كوجود سمةٍ غيرِ مفسَّرة يجب التخلّصُ منها.
+- **التسويف (Procrastinate)**: تُفضَّل العملياتُ التي تجري في المكوّن الخفيّ (بعد نقطة التشعّب Spell-Out) على تلك الظاهرة صوتياً، لأنها أقلُّ كلفةً على النظام الحسابي، ما لم يفرض نظامُ الصرف حركةً ظاهرة.
+- **أقصرُ حركة (Shortest Move / Minimal Link Condition)**: حين يتوفّر أكثرُ من هدفٍ محتمَل للحركة، يُختار الأقربُ بنيوياً.
+- **أقلُّ الخطوات (Fewest Steps / Greed)**: يُفضَّل الاشتقاقُ الذي يستخدم أقلَّ عددٍ من العمليات النحوية لبلوغ نتيجةٍ متقاربة (Convergent)، وقد أثار هذا المبدأ نقاشاً مع مبدأ أقصر حركة حول كيفية المقارنة بين اشتقاقاتٍ بديلة (طرحه Jan-Wouter Zwart وآخرون).
+- **مبدأُ الاقتصاد المرجعي (Full Interpretation)**: يجب أن يكون كلُّ عنصرٍ في التمثيل النهائي قابلاً للتفسير عند الواجهات الصوتية والدلالية دون فائض.
 
-## Theoretical Framework
+## الدور في البرنامج الأدنوي
 
-Phonological theory operates at the abstract level, examining:
-- Which sounds are distinctive (phonemes)
-- How sounds combine (phonotactics)
-- How sounds change in different contexts (phonological processes)
-- The principles governing these phenomena across languages
+شكّلت مبادئُ الاقتصاد جوهرَ التحوّل من نحو المبادئ والمعايير (Government and Binding) إلى الأدنوية، إذ استبدلت تعدّدَ المستويات النحوية بنظامٍ اشتقاقيٍّ واحدٍ يخضع لتقييم اقتصاديٍّ عالميّ. ارتبطت هذه المبادئُ لاحقاً بعملية الاتفاق ونظرية الأطوار اللتين حاولتا تقييدَ نطاقَ المقارنة الاقتصادية بحيث لا تتطلّب مقارنةَ اشتقاقاتٍ عبر الجملة بأكملها بل ضمن نطاقاتٍ محلّية (أطوار).
 
-## Key Mechanisms
+## النقد
 
-Phonological systems are organized through:
-- Distinctive features distinguishing meaningful sound units
-- Natural classes grouping sounds that behave similarly
-- Rules describing systematic alternations
-- Constraints determining what sound patterns are allowed
+واجهت هذه المبادئُ صعوباتٍ تقنيةً وتفسيريةً، أبرزُها مشكلةُ «المقارنة العالمية» (Global Economy) التي تتطلّب حساب كل الاشتقاقات الممكنة لمقارنتها، وهو ما يتعارض مع هدف تبسيط النظام الحسابي نفسِه. حاولت صياغاتٌ لاحقةٌ (كنظرية الأطوار) تحويلَ الاقتصاد إلى مبدأٍ محلّيٍّ (Local Economy) لتفادي هذه الصعوبة.
 
-## Experimental Evidence
+## أمثلةٌ تطبيقية
 
-Modern experimental phonology uses multiple methodologies:
-- Behavioral studies of perception and production
-- Brain imaging (fMRI, EEG) showing neural processing
-- Acoustic analysis revealing detailed phonetic properties
-- Computational modeling of phonological processes
+يُفسَّر بمبدأ الملاذ الأخير عدمُ جواز حركة الفاعل في الإنكليزية في جملٍ مثل *It seems that John is happy* رغم إمكان الحركة نحو *John seems to be happy*؛ فالحركةُ الثانية مسموحةٌ لأنها ضرورية لتلبية شرطٍ صرفي (تفعيل الحالة الإعرابية للاسم)، بينما الأولى غيرُ ضرورية فتُستبعَد. وبالمثل يُستخدَم مبدأ أقصر حركة لتفسير حالات «تأثير التقاطع» (Crossing Effects) حين تتنافس عناصرُ متعدّدة على الحركة نحو الموضع نفسه، إذ يُفضَّل العنصر الأقرب بنيوياً.
 
-## Contemporary Applications
+## التطوّرُ نحو الأطوار
 
-### Language Technology
-Speech recognition and synthesis systems rely on phonological structure. Phoneme-based models are fundamental to current speech technology.
-
-### Language Teaching
-Phonological analysis explains pronunciation difficulties in second language learning and informs teaching methodology.
-
-### Clinical Applications
-Speech-language pathology uses phonological analysis to understand and treat disorders affecting sound systems.
-
-## Research Frontiers
-
-Current research explores:
-- Neural substrates of phonological processing
-- Computational learning of phonological patterns
-- Cross-linguistic variation in phonological systems
-- Integration with morphology and syntax
-
-## Key References
-
-- Contemporary phonological research builds on foundational work in generative phonology and extends into usage-based and neural perspectives.
-
-## References
-
-- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
-- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
-- Anderson, S. R. (1985). *Phonology in the Twentieth Century*. University of Chicago Press.
-- Haspelmath, M., & Sims, A. D. (2010). *Understanding Morphology*. Oxford University Press.
-
-## محتوى عربي إضافي
-
-مجموعةُ مبادئَ توجيهية افترضها تشومسكي في صياغته الأولى للبرنامج الأدنوي (1993–1995)، تقيّد عمليةَ الاشتقاق النحوي بأن تختار دوماً المسارَ الأقلَّ كلفةً حسابياً بين البدائل الممكنة لبناء الجملة نفسِها، بما يوازي مبدأ "أقلّ الجهد" المستعمَل في تفسير بعض الظواهر في العلوم الطبيعية.
-
-## أقلُّ الجهدِ لا أكثرَه
-
-تفترض هذه المبادئُ أن النحوَ البشري "كسولٌ" حسابياً بطبيعته: بين اشتقاقين ممكنين ينتجان الجملةَ نفسَها، يُفضَّل دوماً الاشتقاقُ الذي يتطلّب عملياتٍ اشتقاقيةً أقلّ (كعدد مرات تطبيق عملية الدمج أو الحركة)، أو الذي يستهلك موارد ذاكرةً حسابيةً أقلّ أثناء البناء التدريجي للجملة.
-
-## مبدأُ التأجيل الأقصى ومبدأُ الاقتصاد المرجعي
-
-من أبرز صيغ هذه المبادئ: "مبدأُ التأجيل الأقصى" (Procrastinate)، الذي يفترض أفضليةَ تأجيل العمليات الاشتقاقية (كحركة العناصر لفحص السمات) إلى أقصى نقطةٍ ممكنة في الاشتقاق ما لم يفرض شيءٌ تطبيقَها مبكراً؛ و"مبدأُ الجشع" (Greed)، الذي يفترض أن أيَّ عمليةِ حركةٍ يجب أن تخدم مصلحةَ العنصر المتحرِّك نفسِه (كفحص سماته الخاصة) لا مصلحةَ عنصرٍ آخر في الجملة.
-
-## من قيودٍ صريحة إلى أطروحةٍ أدنويةٍ قوية
-
-تطوّرت هذه المبادئُ لاحقاً في صياغاتٍ أحدث للبرنامج الأدنوي نحو أطروحةٍ أعمّ: أن يكون النحوُ نفسُه، لا مجردَ اشتقاقاته الفردية، "حلاً أمثل" تفرضه العواملُ الثلاثةُ لنمو اللغة (الموروثُ الجيني، المدخلُ اللغوي، ومبادئُ الحوسبة العامّة المستقلّة عن اللغة تحديداً) — وهي الصياغةُ التي طوّرها تشومسكي لاحقاً في مفهوم "الأطروحة الأدنوية القوية".
-
-## الأثر والنقد
-
-أثارت هذه المبادئُ جدلاً منهجياً: هل "الاقتصادُ" مبدأٌ تفسيريٌّ حقيقيٌّ عن طبيعة الملَكة اللغوية، أم مجرّدُ قيدٍ تقنيٍّ إضافي يعقّد النظريةَ بدل تبسيطها كما يدّعي البرنامجُ الأدنوي؟ ظلّ هذا السؤالُ محورياً في تطوّر صياغات البرنامج اللاحقة، التي قلّصت الاعتمادَ على مبادئ الاقتصاد الصريحة لصالح قيودٍ أبسط كاشتقاق العمليات مباشرةً من عملية الدمج نفسِها.
+في صياغة «الاشتقاق عبر الطور» (2001)، أعاد تشومسكي صياغةَ مبادئ الاقتصاد بحيث تُطبَّق محلياً ضمن نطاقاتٍ محدودة تُسمّى «الأطوار» (كعبارة الفعل التامة وعبارة الجملة) بدل مقارنة الاشتقاق بأكمله، ما خفّف من عبء الحوسبة الشامل وقرّب النظريةَ من نموذجٍ اشتقاقي «آنيّ» (Derivation by Phase) يتوافق أكثر مع قيود الذاكرة العاملة المفترضة في المعالجة اللغوية البشرية.
 
 ## المصادر
 
 - Chomsky, Noam (1995). *The Minimalist Program*. MIT Press.
-- Hornstein, Norbert; Nunes, Jairo; Grohmann, Kleanthes K. (2005). *Understanding Minimalism*. Cambridge University Press.
+- Chomsky, Noam (2000). "Minimalist Inquiries: The Framework." In *Step by Step*. MIT Press.
+- Collins, Chris (1997). "Economy Conditions in Syntax." In Mark Baltin & Chris Collins (eds.), *The Handbook of Contemporary Syntactic Theory*. Blackwell.
+- Zwart, Jan-Wouter (1996). "'Shortest Move' vs. 'Fewest Steps'." Ms., University of Groningen.

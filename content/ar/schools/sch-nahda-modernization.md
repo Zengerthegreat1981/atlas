@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-arab-renaissance", target_type: "مدرسة"
 related:
 - id: "thk-tahtawi", title: "رفاعة الطهطاوي", type: "مفكر"
-- id: "thk-jamal-al-afghani", title: "جمال الدين الأفغاني", type: "مفكر"
+- id: "thk-afghani", title: "جمال الدين الأفغاني", type: "مفكر"
 - id: "thk-muhammad-abduh", title: "محمد عبده (الإمام)", type: "مفكر"
 - id: "thk-qasim-amin", title: "قاسم أمين", type: "مفكر"
 - id: "sch-arab-renaissance", title: "النهضة العربية", type: "مدرسة"

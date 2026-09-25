@@ -4,29 +4,45 @@ id: "THK-13431"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"
-title: "أولف هانيرسون"
-en: "Ulf Hannersson"
-dates: "1942 – "
+title: "أولف هانرتس"
+en: "Ulf Hannerz"
+crumb: "الأنثروبولوجيا الكونية والعولمة الثقافية ← الناس ← أولف هانرتس"
+dates: "السويد · 1942–"
 birth_country: "السويد"
+country: "السويد"
+language: "الإنجليزية"
+active_start: 1969
+active_end: "مستمر"
 edges: []
 related: []
-gaps: []
+gaps:
+  - "لا يوجد ملف مدرسة (sch-) معتمد في الأطلس لـ«الأنثروبولوجيا الكونية/العولمة الثقافية»، فحُذف أي edge belongs_to."
+  - "الاسم الأصلي 'Ulf Hannerz' لا 'Hannersson'؛ صُحح العنوان الإنجليزي مع الإبقاء على الـ slug كما ورد."
 ---
 
-# أولف هانيرسون (Ulf Hannersson)
+# أولف هانرتس
 
-**الباحث/ة**: Ulf Hannersson  
-**الفترة النشطة**: 1942 –   
-**المدرسة**: sch-global-anthropology  
-**مجال التخصص**: Cosmopolitanism, Global Culture
+أنثروبولوجي سويدي، أستاذ فخري للأنثروبولوجيا الاجتماعية في جامعة ستوكهولم، ومن أبرز منظّري **العولمة الثقافية** و**الكوزموبوليتانية** (الكونية) في الأنثروبولوجيا المعاصرة. عضو الأكاديمية السويدية الملكية للعلوم والأكاديمية الأمريكية للفنون والعلوم، وزميل فخري بالمعهد الملكي الأنثروبولوجي البريطاني، ورأس سابقاً الرابطة الأوروبية لأنثروبولوجيي الاجتماع، وحرّر مجلة *Ethnos*.
 
-## النبذة
+## ما أعطاه
 
-أنثروبولوجي/أنثروبولوجية متخصص/متخصصة في cosmopolitanism, global culture. أسهم/أسهمت بشكل كبير في تطوير المنظور الأنثروبولوجي المعاصر حول cosmopolitanism, global culture.
+- **"الكوزموبوليتانيون والمحليون" (Cosmopolitans and Locals)**: تمييز مؤثر (1990) بين نمطين من التموضع الثقافي في عالم متصل: منفتح متجول عابر للحدود، ومتجذر في مكان واحد، وصار مفهوماً أساسياً في دراسات العولمة.
+- **نظرية "التدفقات الثقافية" (Cultural Flows) والتهجين (Creolization)**: طوّر إطاراً لفهم الثقافة لا بوصفها كتلة متجانسة مرتبطة بأمة واحدة، بل شبكة تدفقات وتلاقحات عابرة للحدود القومية.
+- **دراسة "الاتصالات عبر الوطنية"**: بحث ميداني في عولمة العمل الصحفي (مراسلو الأخبار في القدس وطوكيو وجوهانسبرغ وكيب تاون وهونغ كونغ)، إلى جانب عمله الميداني المبكر في حي أسود بواشنطن العاصمة، وجزر كايمان، وبلدة نيجيرية صغيرة.
 
-## الأعمال الرئيسية
+## موقعه من التيار
 
-- Cosmopolitans
-- Transnational Connections
+يُعدّ هانرتس من الجيل المؤسس لأنثروبولوجيا العولمة والدراسات عبر الوطنية، إذ انتقل بالتحليل الأنثروبولوجي من التركيز الكلاسيكي على "المجتمع المحلي" المنعزل إلى دراسة الشبكات الثقافية العابرة للحدود القومية، مؤثراً في علم الاجتماع والدراسات الثقافية إلى جانب الأنثروبولوجيا.
 
----
+## أهم أعماله
+
+- *Cosmopolitans and Locals in World Culture* (1990، مقالة مؤسِّسة).
+- *Transnational Connections: Culture, People, Places* (1996): عمله الأشهر عن الثقافة في عصر العولمة وقصور الأطر القومية عن فهمها.
+- *Two Faces of Cosmopolitanism: Culture and Politics* (بحث موسّع في الكوزموبوليتانية الثقافية والسياسية).
+
+## المصادر
+
+- Hannerz, Ulf. *Transnational Connections: Culture, People, Places*. Routledge, 1996.
+- Hannerz, Ulf. "Cosmopolitans and Locals in World Culture." *Theory, Culture & Society*, vol. 7, 1990, pp. 237–251.
+- "Ulf Hannerz" — Stockholm University — https://www.su.se/english/profiles/u/uhannerz
+- Yelvington, Kevin A. "Cultures, Open and in Process: An Interview with Ulf Hannerz." *American Anthropologist*, 2019 — https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1111/aman.13157

@@ -15,8 +15,8 @@ active_end: "مستمر"
 edges: []
 related:
 - id: "thk-bowlby", title: "جون بولبي (John Bowlby)", type: "مفكر"
-- id: "thk-donald-winnicott", title: "دونالد وينيكوت (Donald Winnicott)", type: "مفكر"
-- id: "thk-jean-piaget", title: "جان بياجيه (Jean Piaget)", type: "مفكر"
+- id: "thk-winnicott", title: "دونالد وينيكوت (Donald Winnicott)", type: "مفكر"
+- id: "thk-piaget", title: "جان بياجيه (Jean Piaget)", type: "مفكر"
 - id: "thk-mmahler", title: "مارغريت مالر (Margaret Mahler)", type: "مفكر"
 - id: "thk-spitz", title: "رينيه سپيتز (René Spitz)", type: "مفكر"
 - id: "sch-attachment-theory-of-religion", title: "نظرية التعلق (توظيفها في دراسة الدين)", type: "مدرسة"

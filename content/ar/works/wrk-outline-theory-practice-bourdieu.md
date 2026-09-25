@@ -12,7 +12,7 @@ active_end: 2100
 language: "الإنجليزية"
 published: 1977
 publisher: "Cambridge University Press"
-author: "thk-pierre-bourdieu"
+author: "thk-bourdieu"
 pages: 248
 edges:
 - rel: "formulated_in", target: "con-practice-theory-anthropology", target_type: "مفهوم"
@@ -20,7 +20,7 @@ edges:
 - rel: "formulated_in", target: "con-habitus-anthropology", target_type: "مفهوم"
 related:
 - id: "con-practice-theory-anthropology", title: "نظريةُ الممارسة (Practice Theory)", type: "مفهوم"
-- id: "thk-pierre-bourdieu", title: "بيير بورديو (Pierre Bourdieu)", type: "مفكر"
+- id: "thk-bourdieu", title: "بيير بورديو (Pierre Bourdieu)", type: "مفكر"
 - id: "con-habitus-anthropology", title: "الهابيتوس (Habitus)", type: "مفهوم"
 - id: "dbt-agency-vs-structure-anthropology", title: "جدلُ الفاعليةِ مقابل البنية", type: "جدل"
 gaps: []

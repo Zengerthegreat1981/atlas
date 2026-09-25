@@ -21,102 +21,33 @@ gaps: []
 
 # عمليةُ الاتفاق وفحصُ السمات
 
-## Definition
+## التعريف
 
-Distinctive features are the minimal phonological properties that distinguish phonemes. Rather than treating phonemes as indivisible units, feature theory decomposes them into binary or multivalued components. This allows systematic explanation of how phonemes relate and how phonological rules apply.
+عمليةٌ نحويةٌ أساسيةٌ في البرنامج الأدنوي (Minimalist Program) طرحها نعوم تشومسكي في مقالتيه «قصةٌ عن سمتين» (2000) و«اشتقاقٌ عبر الطور» (2001)، تُستبدَل بها آليةُ «الانتقال إلى وضع فحص السمات» (Move-based Checking) التي كانت سائدةً في «المحاضرات في الاقتصاد اللغوي» (1993/1995). بمقتضى عملية الاتفاق (Agree)، يبحث رأسٌ وظيفيٌّ يحمل سماتٍ غيرَ مفسَّرة (uninterpretable features)، ويسمّى «المجسّ» (Probe)، عن عنصرٍ آخرَ يقع ضمن مجاله البنيوي (يسيطر عليه بنيوياً c-command) يحمل سماتٍ مفسَّرةً مطابِقة، ويسمّى «الهدف» (Goal)، فتُقيَّم سماتُ المجسّ بقيم الهدف ثم تُحذَف قبل الوصول إلى الواجهات الصوتية والدلالية.
 
-## Historical Background
+## الآلية
 
-Trubetzkoy (1930s) first proposed that phonemes could be analyzed into distinctive oppositions. Roman Jakobson refined this into a full feature system in 1951, defining 12 binary acoustic features. Chomsky and Halle's SPE (1968) shifted toward articulatory features, while modern frameworks like Feature Geometry propose hierarchically organized features.
+تتطلّب عمليةُ الاتفاق ثلاثةَ شروط: (1) تطابقاً في نوع السمة بين المجسّ والهدف (كسمة الشخص والعدد بين الفعل والفاعل)، (2) أن يكون الهدفُ «نشيطاً» (active) أي يحمل سمةً حالةً غيرَ مقيَّمة بعد، و(3) أن يكون الهدفُ أقربَ عنصرٍ مطابقٍ للمجسّ ضمن مجاله (شرط التدخّل الأدنى، Minimal Link Condition/Intervention). هذا يسمح بتفسير ظواهرَ مثل مطابقة الفعل للفاعل في العدد والشخص من دون افتراض حركةٍ ظاهرة لكل مطابقة.
 
-## Feature Types
+## العلاقة بمفاهيم أخرى
 
-### Major Features
-- [±consonantal]: Obstruents, nasals are +consonantal; vowels are -consonantal
-- [±sonorant]: Vowels, glides, nasals, liquids are +sonorant; obstruents are -sonorant
+ترتبط عمليةُ الاتفاق بعمليةِ الدمج (Merge) بوصفهما العمليتين الأساسيتين اللتين يُبنى بهما الاشتقاقُ النحويُّ في الأدنوية، وبنظرية الأطوار (Phase Theory) التي تحدّد النطاقَ الذي يمكن أن يبحث المجسُّ ضمنه عن هدفه. كما فسَّرت عمليةُ الاتفاق ظواهرَ الحالة الإعرابية بوصفها أثراً جانبياً لتقييم السمات لا عمليةً مستقلّة، خلافاً لنماذجَ نحويةٍ سابقة.
 
-### Place of Articulation
-- [±labial]: p, b, m, f, v involve lip rounding or closure
-- [±coronal]: t, d, s, z, θ, ð are produced with tongue body raised
-- [±dorsal]: k, g, ŋ are produced with tongue body movement
+## الأهمية والنقد
 
-### Manner Features
-- [±nasal]: Nasal consonants have oral closure but nasal airflow
-- [±continuant]: Fricatives and vowels allow continuous airflow
-- [±strident]: Sibilants (s, z, ʃ, ʒ) produce high-frequency noise
+مثّلت عمليةُ الاتفاق نقلةً في البرنامج الأدنوي نحو تفسير المطابقة والحالة الإعرابية دون حركةٍ بنيوية، منسجمةً مع مبادئ الاقتصاد الاشتقاقي. غير أنّ صياغاتها الدقيقة أثارت نقاشاتٍ مستمرّة، منها إشكاليةُ الاتفاق البعيد (Long-Distance Agreement) في بعض اللغات، وحالاتُ «الاتفاق المتعدّد» (Multiple Agree) التي اقترحها كن هيرايوا، وسؤالُ ما إذا كانت عمليةُ الاتفاق حركةً أم علاقةً مستقلّةً تماماً عن الحركة.
 
-### Laryngeal Features
-- [±voice]: Vocal cord vibration distinguishes /b/ from /p/
-- [±spread glottis]: Aspiration contrasts /t^h/ from /t/
+## أمثلةٌ توضيحية
 
-## Phoneme as Feature Bundle
+في جملةٍ إنكليزية مثل *The students seem happy*، يحمل الرأسُ الزمني (T) سمةً غيرَ مفسَّرة للشخص والعدد؛ فيبحث بوصفه مجسّاً عن أقرب اسمٍ يسيطر عليه بنيوياً (*the students*)، فيتّفق معه في صيغة الجمع، وتظهر النتيجةُ صرفياً في اختيار الفعل المناسب. أما في اللغات ذات نظام الحالة الإعرابية الغنية (كالروسية أو العربية الفصحى)، فتُفسَّر عمليةُ الاتفاق أيضاً بوصفها آليةً تُقيَّم بها سمةُ الحالة على الاسم من الرأس الوظيفي المناسب (كالفعل أو حرف الجر)، بما يفسّر ظواهرَ كالمطابقة بين الفعل والفاعل في العدد والجنس دون افتراض حركةٍ ظاهرة لكل حالة.
 
-Each phoneme is represented as a bundle of features:
+## الاتفاقُ متعدّد القيم
 
-/p/ = [-voice, +labial, -continuant, +consonantal]
-/b/ = [+voice, +labial, -continuant, +consonantal]
-/s/ = [-voice, +coronal, +continuant, +strident, +consonantal]
-
-## Natural Classes
-
-Features predict natural classes—groups of sounds that pattern together in rules. All [+nasal] segments follow one morphological pattern; all [+continuant] sounds undergo one phonological process.
-
-## Experimental Evidence
-
-ERP studies show distinct neural responses for feature violations versus phoneme changes. Feature changes (voicing, place) produce different brain responses than complete phoneme changes, suggesting features are psychologically separable.
-
-## Applications
-
-### Phonological Development
-
-Children first control gross features (oral vs. nasal, obstruent vs. sonorant) before fine distinctions (place of articulation). Feature theory predicts the order of sound acquisition.
-
-### Speech Disorders
-
-Children with phonological disorders often lose feature distinctions systematically. Backing (replacing /s/ with /k/) involves feature change ([+coronal] → [+dorsal]). Feature-based therapy targets the underlying feature deficit.
-
-### Historical Sound Change
-
-Sound changes affect features systematically. Palatalization changes [+coronal] stops to [+dorsal] affricates before high vowels across unrelated languages, suggesting features organize language change.
-
-## Theoretical Issues
-
-Defining features universally remains challenging. Some sounds resist clean feature categorization. Tone, which is critical in many languages, fits poorly into standard consonant/vowel feature systems.
-
-## Research Directions
-
-Computational models now learn feature systems from acoustic signals. Neural networks discover feature-like representations without explicit supervision, suggesting features emerge naturally from acoustic structure.
-
-## Key References
-
-- Jakobson, R., Fant, G., & Halle, M. (1951). *Preliminaries to Speech Analysis*. MIT Press.
-- Chomsky, N., & Halle, M. (1968). *The Sound Pattern of English*. Harper and Row.
-- Clements, G. N. (1985). "The geometry of phonological features." *Phonology Yearbook*, 2, 225-252.
-
-## References
-
-- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
-- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
-- Anderson, S. R. (1985). *Phonology in the Twentieth Century*. University of Chicago Press.
-- Haspelmath, M., & Sims, A. D. (2010). *Understanding Morphology*. Oxford University Press.
-
-## محتوى عربي إضافي
-
-عمليةٌ حسابيةٌ ثانية أساسية في البرنامج الأدنويّ إلى جانب الدمج، تُنظِّم كيفية توافق العناصر النحوية في سماتٍ صرفية معيَّنة (كالعدد والجنس والشخص) عبر مسافاتٍ نحويةٍ قد تكون بعيدة داخل بنية الجملة، دون أن تتطلّب بالضرورة حركةً ظاهرة.
-
-## السماتُ المفسَّرة وغيرُ المفسَّرة
-
-يفترض هذا الإطارُ أن كلَّ عنصرٍ نحوي يحمل حزمةً من "السمات" (Features)، بعضُها "مفسَّرٌ" دلالياً (كسمة الجمع على الاسم نفسِه، التي تحمل معنًى فعلياً) وبعضُها "غيرُ مفسَّر" (كسمة الجمع المكرَّرة على الفعل المطابِق له، التي لا تضيف معنًى جديداً بل تعكس فقط توافقاً نحوياً). يجب "حذفُ" السمات غير المفسَّرة قبل نهاية الاشتقاق (وإلا فشل الاشتقاقُ نحوياً)، وتتحقّق عمليةُ الحذف هذه عبر آلية الاتفاق.
-
-## آليةُ البحث عن المطابق
-
-تعمل عمليةُ الاتفاق عبر "بحثٍ" (Probe) يُطلقه عنصرٌ يحمل سمةً غيرَ مفسَّرة (كالفعل الباحث عن سمة عدد) عن عنصرٍ آخر أسفلَ منه في بنية الجملة يحمل السمةَ نفسَها بشكلٍ مفسَّر (كالاسم الفاعل)؛ حين يجد الفعلُ "الهدفَ" (Goal) المناسب، تُنسَخ قيمةُ السمة من الهدف إلى الباحث، فتُحذَف سمتُه غيرُ المفسَّرة. تفسّر هذه الآليةُ ظاهرةَ الاتفاق النحوي (بين الفعل وفاعله، أو الصفة وموصوفها) دون حاجةٍ لحركةٍ نحويةٍ ظاهرة في كثيرٍ من الحالات.
-
-## الأثر
-
-وحّدت عمليةُ الاتفاق تفسيرَ ظواهرَ اتفاقٍ نحويٍّ متنوّعة عبر لغات العالم في آليةٍ حسابيةٍ واحدة، مكمِّلةً عمليةَ الدمج في تشكيل الجهاز الحسابي الأدنويّ الأساسي للاشتقاق النحوي.
+في بعض التراكيب (كجمل الوجود أو البنى السببية)، يواجه المجسُّ أكثرَ من هدفٍ محتمَل، ما دفع باحثين كأوستن ومولقيوين وهيرايوا إلى اقتراح آليات «الاتفاق المتعدّد» (Multiple Agree) التي تسمح لمجسٍّ واحد بالاتفاق مع أكثر من هدفٍ في آنٍ واحد ضمن شروطٍ بنيوية محدَّدة، توسيعاً للصياغة الأصلية عند تشومسكي.
 
 ## المصادر
 
-- Chomsky, Noam (2000). "Minimalist Inquiries: The Framework." In Martin, R.; Michaels, D.; Uriagereka, J. (eds.), *Step by Step*. MIT Press.
-- Chomsky, Noam (2001). "Derivation by Phase." In Kenstowicz, M. (ed.), *Ken Hale: A Life in Language*. MIT Press.
+- Chomsky, Noam (2000). "Minimalist Inquiries: The Framework." In Roger Martin et al. (eds.), *Step by Step*. MIT Press.
+- Chomsky, Noam (2001). "Derivation by Phase." In Michael Kenstowicz (ed.), *Ken Hale: A Life in Language*. MIT Press.
+- Hiraiwa, Ken (2001). "Multiple Agree and the Defective Intervention Constraint in Japanese." *MIT Working Papers in Linguistics* 40.
+- Adger, David (2003). *Core Syntax: A Minimalist Approach*. Oxford University Press.

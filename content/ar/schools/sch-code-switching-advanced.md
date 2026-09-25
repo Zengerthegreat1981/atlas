@@ -12,7 +12,7 @@ dates: "معاصر"
 active_start: 1980
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "sch-sociolinguistics-variation", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-variationist-sociolinguistics", target_type: "مدرسة"
 related:
 - id: "thk-carol-myers-scotton", title: "كارول ميرز-سكوتون", type: "مفكر"
 - id: "thk-shana-poplack", title: "شانا بوبلاك (Shana Poplack)", type: "مفكر"

@@ -12,11 +12,11 @@ language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
 part: "psychology"
-edges:
+edges: []
 - rel: "belongs_to", target: "sch-biological-neuro", target_type: "مدرسة"
-related:
+related: []
 - id: "thk-jherman", title: "جوديث هِرمان", type: "مفكر"
-- id: "thk-bvdkolk", title: "بِسِل فان دير كولك", type: "مفكر"
+- id: "thk-besselvanderkolk", title: "بِسِل فَن دِر كولك", type: "مفكر"
 - id: "exp-bruce-perry-waco-siege-children", title: "تجربة بروس بيري مع أطفال طائفة واكو وميلاد النموذج العصبي التتابعي", type: "خبرة معيشة"
 - id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
 - id: "thk-dsiegel", title: "دان سيغل", type: "مفكر"

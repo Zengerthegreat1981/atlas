@@ -1,5 +1,5 @@
 ---
-slug: "thk-bessel-van-der-kolk-expanded"
+slug: "thk-besselvanderkolk-expanded"
 id: "THK-2816"
 type: "مفكر"
 part: "psychology"

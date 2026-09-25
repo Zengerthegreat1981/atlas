@@ -16,10 +16,10 @@ active_source: "lifespan"
 cultural_origin: "western"
 edges: []
 related:
-- id: "thk-sigmund-freud", title: "سيغموند فرويد", type: "مفكر"
-- id: "thk-carl-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "thk-freud", title: "سيغموند فرويد", type: "مفكر"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
 - id: "thk-aaron-beck", title: "آرون بيك", type: "مفكر"
-- id: "thk-albert-ellis", title: "ألبرت إليس", type: "مفكر"
+- id: "thk-ellis", title: "ألبرت إليس", type: "مفكر"
 - id: "con-psychoanalytic-theory", title: "النظرية التحليلية النفسية", type: "مفهوم"
 - id: "con-humanistic-therapy", title: "العلاج الإنساني", type: "مفهوم"
 - id: "con-cbt-foundations", title: "أسس العلاج المعرفي السلوكي", type: "مفهوم"

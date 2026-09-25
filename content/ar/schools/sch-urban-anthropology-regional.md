@@ -18,7 +18,7 @@ region: "Global Cities"
 edges: []
 related:
 - id: "thk-ulf-hannersson", title: "ألف هانرسون (Ulf Hannersson)", type: "مفكر"
-- id: "thk-arjun-appadurai", title: "أرجون أپادوراي (Arjun Appadurai)", type: "مفكر"
+- id: "thk-appadurai", title: "أرجون أپادوراي (Arjun Appadurai)", type: "مفكر"
 gaps:
   - "إضافة دراسات ميدانية من القاهرة، دلهي، مومباي، بانكوك."
   - "توثيق الأنثروبولوجيين الحضريين الإقليميين."

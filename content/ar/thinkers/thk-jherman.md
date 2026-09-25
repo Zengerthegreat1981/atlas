@@ -13,8 +13,8 @@ active_end: "مستمر"
 part: "psychology"
 crumb: "الناس ← جوديث هِرمان"
 edges: []
-related:
-- id: "thk-bvdkolk", title: "بِسِل فان دير كولك", type: "مفكر"
+related: []
+- id: "thk-besselvanderkolk", title: "بِسِل فَن دِر كولك", type: "مفكر"
 - id: "thk-bperry", title: "بروس د. بيري", type: "مفكر"
 - id: "dbt-trauma-focused-vs-present-focused", title: "جِدَل التَّركِيز عَلَى الصَّدْمَة ضِد التَّركِيز عَلَى الْحَاضِر", type: "جدل"
 gaps:

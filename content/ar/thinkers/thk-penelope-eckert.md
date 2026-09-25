@@ -11,9 +11,9 @@ dates: "· 1942–الحاضر"
 birth_year: 1942
 fields: ["sociolinguistics", "gender and language", "adolescent speech communities"]
 affiliation: "جامعة ستانفورد"
-primary_school: "sch-sociolinguistics-variation"
+primary_school: "sch-variationist-sociolinguistics"
 edges:
-- rel: "belongs_to", target: "sch-sociolinguistics-variation", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-variationist-sociolinguistics", target_type: "مدرسة"
 related: []
 gaps:
   - "سنة الميلاد الدقيقة غير مؤكدة تماماً في المصادر العامة المتاحة؛ اعتُمد تقدير شائع (مطلع الأربعينيات)."

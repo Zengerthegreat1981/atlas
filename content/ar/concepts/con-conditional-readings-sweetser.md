@@ -25,88 +25,34 @@ gaps: []
 
 # القراءاتُ الثلاثُ للجملة الشرطية عند سويتسر
 
-## Definition and Core Concept
+## التعريف
 
-This term refers to a key concept in phonological analysis and theory. Phonology studies the sound systems of languages, examining how sounds function to convey meaning and how they vary across languages and contexts.
+إطارٌ تحليليٌّ طرحته اللغويّةُ المعرفيةُ الأمريكيةُ إيڤ سويتسر في كتابها «من الاشتقاق إلى التداولية» (From Etymology to Pragmatics، 1990)، يميّز بين ثلاث قراءاتٍ ممكنةٍ للجملة الشرطية («إذا... فـ...») تبعاً للمجال الذي تعمل فيه الرابطةُ الشرطية: مجالُ المحتوى (Content)، والمجالُ المعرفي (Epistemic)، ومجالُ فعل الكلام (Speech-Act). يندرج هذا التحليلُ ضمن مشروعها الأوسع لتفسير تعدّد استعمالات الروابط والأفعال الشرطية بوصفه امتداداً استعارياً منظّماً من المجال المادي/الاجتماعي إلى المجال الذهني ثم إلى مجال التخاطب.
 
-## Historical Development
+## المجالاتُ الثلاثة
 
-The concept emerged from linguistic research in the 20th century, developing from early phonetic observations into sophisticated theoretical frameworks. Modern phonology builds on foundations laid by the Prague Linguistic Circle and subsequent generative linguistics.
+- **الشرطُ في مجال المحتوى**: تربط الجملةُ بين حدثين أو حالتين في العالم الواقعي بعلاقةِ سببٍ ونتيجة أو شرطٍ وجزاء، كما في "إذا هطل المطر، ابتلّت الأرض". هنا يمثّل الشرطُ بأكمله فعلَ كلامٍ واحداً.
+- **الشرطُ في المجال المعرفي**: لا تربط الجملةُ حدثين في العالم، بل تصف علاقةً استدلاليةً بين معرفتين أو اعتقادين لدى المتكلّم، كما في "إذا كان الضوءُ مضاءً، فهو في البيت"، حيث تكوين الاستنتاج (لا وقوع الحدث) هو محلُّ الشرط.
+- **الشرطُ في مجال فعل الكلام**: يشترط جزءُ الجملة (فعلَ الكلام) لا محتواه، كما في "إذا كنتَ جائعاً، فهناك طعامٌ في الثلّاجة"، حيث لا يشترط وجودُ الطعام بالجوع، بل ملاءمةُ التصريح بوجوده لحالة المخاطَب. في هذه الحالة تنطوي الجملةُ على فعلَي كلامٍ مستقلَّين، خلافاً لقراءة المحتوى.
 
-## Theoretical Framework
+## الأساسُ النظري
 
-Phonological theory operates at the abstract level, examining:
-- Which sounds are distinctive (phonemes)
-- How sounds combine (phonotactics)
-- How sounds change in different contexts (phonological processes)
-- The principles governing these phenomena across languages
+تستند هذه القراءاتُ الثلاثُ إلى أطروحةٍ أشملَ عند سويتسر مفادُها أن المجالاتِ الثلاثةَ (السوسيوفيزيائي، والذهني، والتخاطبي/الكلامي) تنتظم بعلاقاتِ استعارةٍ منهجية، بحيث يُفهَم المجالُ المعرفيُّ بمصطلحاتٍ مستعارةٍ من مجال السببية المادية، ويُفهَم مجالُ الكلام بدوره استعارياً من المجال المعرفي. يفسّر هذا التوازي كيف تحمل الروابطُ نفسُها (مثل "لأنّ" و"لكن" وأفعال الوجوب) استعمالاتٍ متوازيةً في المجالات الثلاثة، لا في الشرط وحده.
 
-## Key Mechanisms
+## الأهمية
 
-Phonological systems are organized through:
-- Distinctive features distinguishing meaningful sound units
-- Natural classes grouping sounds that behave similarly
-- Rules describing systematic alternations
-- Constraints determining what sound patterns are allowed
+قدّم هذا التحليلُ أداةً مؤثّرةً في اللسانيات المعرفية لتفسير تعدّد المعنى (Polysemy) في أدوات الربط المنطقي والوجوب من دون افتراض غموضٍ عشوائي، بل عبر خرائطَ استعاريةٍ منتظمة، وأثّر في أعمالٍ لاحقةٍ في نظرية فضاءات الذهن والمزج المفهومي عند جيل فوكونييه ومارك ترنر، إذ استُخدمت القراءاتُ الشرطيةُ الثلاثُ كأحد الأمثلة الأساسية على بناء الفضاءات الذهنية المتعدّدة.
 
-## Experimental Evidence
+## أمثلةٌ تفصيلية إضافية
 
-Modern experimental phonology uses multiple methodologies:
-- Behavioral studies of perception and production
-- Brain imaging (fMRI, EEG) showing neural processing
-- Acoustic analysis revealing detailed phonetic properties
-- Computational modeling of phonological processes
+توضّح سويتسر التمايزَ بين القراءات الثلاث بجملٍ متقاربة الشكل: ففي "إذا ضغطتَ على الزرّ، أضاءت اللمبة" (محتوى) يصف الشرطُ علاقةً سببيةً فيزيائية مباشرة؛ وفي "إذا لم تُضئ اللمبةُ، فقد انقطعت الكهرباء" (معرفي) لا يسبّب انقطاعُ اللمبة انقطاعَ الكهرباء بل يشكّل دليلاً استدلالياً عليه؛ وفي "إذا سألتَ، فالحمّامُ في آخر الممر" (فعل كلام) يشترط السؤالُ ملاءمةَ التصريح لا وجودَ الحمّام نفسِه، بما يوضّح كيف ينتقل معنى "إذا" عبر مجالاتٍ استعارية مرتّبة تصاعدياً من الفيزيائي إلى الذهني إلى التخاطبي.
 
-## Contemporary Applications
+## الامتدادُ إلى أدواتٍ نحوية أخرى
 
-### Language Technology
-Speech recognition and synthesis systems rely on phonological structure. Phoneme-based models are fundamental to current speech technology.
-
-### Language Teaching
-Phonological analysis explains pronunciation difficulties in second language learning and informs teaching methodology.
-
-### Clinical Applications
-Speech-language pathology uses phonological analysis to understand and treat disorders affecting sound systems.
-
-## Research Frontiers
-
-Current research explores:
-- Neural substrates of phonological processing
-- Computational learning of phonological patterns
-- Cross-linguistic variation in phonological systems
-- Integration with morphology and syntax
-
-## Key References
-
-- Contemporary phonological research builds on foundational work in generative phonology and extends into usage-based and neural perspectives.
-
-## References
-
-- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
-- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
-- Anderson, S. R. (1985). *Phonology in the Twentieth Century*. University of Chicago Press.
-- Haspelmath, M., & Sims, A. D. (2010). *Understanding Morphology*. Oxford University Press.
-
-## محتوى عربي إضافي
-
-توسيعٌ نحويٌّ دقيق لإطار فضاءات الذهن، طوّرته إيڤ سويتسر (1990) لتحليل الجملة الشرطية ("لو...لَ..."، "إن...ف...")، مبيّنةً أن الصيغةَ النحوية الواحدة قد تبني ثلاثةَ أنواعٍ مختلفة جوهرياً من الفضاءات الذهنية الافتراضية، بحسب المجال الدلالي الذي تنتمي إليه العلاقةُ الشرطية.
-
-## القراءةُ المحتوائية
-
-**القراءةُ المحتوائية** (Content Conditional) تصف علاقةً سببيةً أو منطقية بين حالتين في العالم الموصوف نفسِه (كقول "إن سخّنتَ الماءَ، غلى")، حيث يصف الشرطُ سبباً فعلياً لوقوع النتيجة في الواقع الموصوف.
-
-## القراءةُ المعرفية
-
-**القراءةُ المعرفية** (Epistemic Conditional) لا تصف علاقةً سببيةً في العالم، بل علاقةً استدلاليةً في ذهن المتكلم نفسِه (كقول "إن كانت السيارةُ في المرآب، فأحمدُ في البيت")، حيث لا يسبّب وجودُ السيارة وجودَ أحمد، بل معرفةُ المتكلم بالشرط تسبّب استنتاجَه للنتيجة.
-
-## القراءةُ الفعلية-الكلامية
-
-**القراءةُ الفعلية-الكلامية** (Speech-Act Conditional) تصف شرطاً لصحّة إنجاز الفعل الكلامي نفسِه لا لصدق محتواه (كقول "إن كنتَ جائعاً، فهناك طعامٌ في الثلاجة")، حيث لا يُشرِط جوعُ المخاطَب وجودَ الطعام، بل يُشرِط مناسبةَ إخباره بذلك أصلاً.
-
-## الأثر
-
-وسّعت هذه القراءاتُ الثلاثُ إطارَ فضاءات الذهن من تحليل أمثلةٍ خطابية معزولة إلى تحليلٍ نحويٍّ منهجي لبِنيةٍ لغوية مركزية عبر لغات العالم، وأثبتت أن الصيغةَ النحوية الواحدة يمكن أن تبني فضاءاتٍ ذهنية مختلفة جوهرياً بحسب المجال الدلالي (المحتوى، المعرفة، أو الفعل الكلامي نفسه) الذي تُوظَّف فيه العلاقةُ الشرطية.
+طبّقت سويتسر التحليلَ نفسَه على أدواتٍ أخرى غير الشرط، كأفعال الوجوب (Modals) وحروف العطف كـ"لأنّ" و"لكن"، مبيّنةً أن كل هذه الأدوات تحمل الانقسامَ الثلاثي نفسَه بين قراءةٍ في مجال المحتوى وأخرى معرفية وثالثة في مجال فعل الكلام، ما رسّخ الإطارَ بوصفه نمطاً عاماً لتعدّد المعنى في اللغة الطبيعية لا خاصيةً معزولة بالجملة الشرطية وحدها.
 
 ## المصادر
 
 - Sweetser, Eve (1990). *From Etymology to Pragmatics: Metaphorical and Cultural Aspects of Semantic Structure*. Cambridge University Press.
+- Fauconnier, Gilles (1994). *Mental Spaces: Aspects of Meaning Construction in Natural Language*. Cambridge University Press.
+- Dancygier, Barbara; Sweetser, Eve (2005). *Mental Spaces in Grammar: Conditional Constructions*. Cambridge University Press.

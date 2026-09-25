@@ -13,7 +13,7 @@ edges:
 - rel: "belongs_to", target: "sch-elsaadawi-arab-feminist-sociology", target_type: "مدرسة"
 related:
 - id: "sch-elsaadawi-arab-feminist-sociology", title: "السوسيولوجيا النسوية العربية ونقد الهيمنة البطريركية", type: "مدرسة"
-- id: "thk-nawal-elsaadawi", title: "نوال السعداوي", type: "مفكر"
+- id: "thk-nawal-el-saadawi", title: "نوال السعداوي", type: "مفكر"
 gaps:
   - "لم تُستوفَ هنا الفصول المخصصة لتحليل قوانين الأحوال الشخصية في دول عربية محددة بالتفصيل."
 ---

@@ -11,7 +11,7 @@ active_start: 1972
 active_end: "مستمر"
 edges: []
 related:
-- id: "thk-pierre-bourdieu", title: "بيير بورديو (Pierre Bourdieu)", type: "مفكر"
+- id: "thk-bourdieu", title: "بيير بورديو (Pierre Bourdieu)", type: "مفكر"
 - id: "sch-bourdieu-practice-habitus", title: "نظرية الممارسة والهابيتوس", type: "مدرسة"
 gaps: []
 ---

@@ -12,7 +12,7 @@ active_end: 2100
 language: "الإنجليزية"
 published: 1996
 publisher: "Academic Press"
-author: "thk-arjun-appadurai"
+author: "thk-appadurai"
 pages: 250
 edges: []
 related: []

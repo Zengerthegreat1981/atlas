@@ -1525,7 +1525,7 @@
 - `thk-meckberg` — ماريانا إيكبيرغ — ✅ معتمد
 - `thk-meharding` — ماري إستر هاردينغ — ✅ معتمد
 - `thk-meichenbaum` — دونالد ميشينباوم — ✅ معتمد
-- `thk-meillassoux` — كونتين ميياسو (إحالة) — ✅ معتمد
+- `thk-quentin-meillassoux` — كونتين ميياسو (إحالة) — ✅ معتمد
 - `thk-meister-eckhart` — مايستر إيكهارت — ✅ معتمد
 - `thk-meitingon` — ماكس إيتِنغون — ✅ معتمد
 - `thk-mel-robbins` — ميل روبنز — ✅ معتمد
@@ -1943,7 +1943,7 @@
 - `thk-richard-feynman` — ريتشارد فاينمان — ✅ معتمد
 - `thk-richard-lazarus` — ريتشارد لازاروس — 🕓 مسودة
 - `thk-richard-schwartz` — ريتشارد شوارتز — ✅ معتمد
-- `thk-richard-thaler` — ريتشارد ثالر (إحالة) — ✅ معتمد
+- `thk-rkthaler` — ريتشارد ثالر (إحالة) — ✅ معتمد
 - `thk-rick-doblin` — ريك دوبان (حجر — انظر thk-rmdoblin) — ✅ معتمد
 - `thk-rick-hanson` — ريك هانسون — ✅ معتمد
 - `thk-rick-levy` — ريك أ. ليفي — ✅ معتمد

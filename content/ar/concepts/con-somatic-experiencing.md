@@ -9,11 +9,11 @@ en: "Somatic Experiencing: A Method for Trauma Healing"
 crumb: "Somatic Experiencing ← المفاهيم ← تجربة الجسد"
 active_start: 1975
 active_end: "مستمر"
-edges:
+edges: []
 - rel: "relates_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
-related:
+related: []
 - id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
-- id: "thk-bvdkolk", title: "بِسِل فان دير كولك", type: "مفكر"
+- id: "thk-besselvanderkolk", title: "بِسِل فَن دِر كولك", type: "مفكر"
 - id: "con-titration-pendulation", title: "التقطير والبندلة في العلاج الجسدي للصدمات", type: "مفهوم"
 - id: "con-felt-sense-tracking", title: "التتبع الحسي للإحساس المستبطن (Felt Sense)", type: "مفهوم"
 - id: "tec-somatic-experiencing-tracking", title: "تتبع الإحساس الجسدي (Sensation Tracking) في SE", type: "تقنية/تدخل علاجي"

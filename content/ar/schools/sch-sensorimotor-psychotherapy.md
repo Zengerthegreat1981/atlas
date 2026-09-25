@@ -15,12 +15,12 @@ active_end: "مستمر"
 cultural_origin: "anglo-american"
 register: "clinical"
 evidence_level: "probably-efficacious"
-edges:
+edges: []
 - rel: "belongs_to", target: "sch-phenomenology-somatic", target_type: "مدرسة"
 - rel: "developed_by", target: "thk-pogden", target_type: "مفكر"
 - rel: "evolved_from", target: "sch-psychoanalysis", target_type: "مدرسة"
 - rel: "influenced_by", target: "sch-somatic-experiencing", target_type: "مدرسة"
-related:
+related: []
 - id: "con-somatic-experiencing-popular", title: "التجربة الجسدية وتفريغ شحنة الصدمة (Somatic Experiencing)", type: "مفهوم"
 - id: "con-trauma", title: "الصدمة النفسية في التحليلية", type: "مفهوم"
 - id: "con-dissociation", title: "الانفصال (Dissociation)", type: "مفهوم"
@@ -29,7 +29,7 @@ related:
 - id: "sch-somatic-experiencing", title: "التجربة الجسدية (Somatic Experiencing)", type: "مدرسة"
 - id: "sch-emdr", title: "إعادة المعالجة عبر حركات العين وتخفيف الأعراض (EMDR)", type: "مدرسة"
 - id: "thk-plevine", title: "بيتر ليفين", type: "مفكر"
-- id: "thk-bvdkolk", title: "بِسِل فان دير كولك", type: "مفكر"
+- id: "thk-besselvanderkolk", title: "بِسِل فَن دِر كولك", type: "مفكر"
 - id: "con-sensorimotor-three-way-model", title: "النموذج الثلاثي (الإدراك - الانفعال - الحس-حركة)", type: "مفهوم"
 - id: "sch-polyvagal-informed-therapy", title: "العلاج المستنير بنظرية البوليفاجال", type: "مدرسة"
 - id: "thk-jledoux", title: "جوزيف لودوكس", type: "مفكر"

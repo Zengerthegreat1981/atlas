@@ -69,4 +69,5 @@ gaps:
 - Trudgill, Peter. "Sex, Covert Prestige and Linguistic Change in the Urban British English of Norwich." *Language in Society*, 1(2), 1972.
 - Eckert, Penelope. "Three Waves of Variation Study." *Annual Review of Anthropology*, 41, 2012.
 - Chambers, J. K. *Sociolinguistic Theory*. Blackwell, 1995.
+- Eckert, Penelope. *Linguistic Variation as Social Practice*. Blackwell, 2000.
 

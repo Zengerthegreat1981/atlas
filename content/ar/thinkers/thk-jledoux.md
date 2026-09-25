@@ -12,13 +12,13 @@ active_start: 1977
 active_end: "مستمر"
 part: "psychology"
 crumb: "علم الأعصاب الوجداني ← دوائر البقاء الدفاعية ← جوزيف لودوكس"
-edges:
+edges: []
 - rel: "belongs_to", target: "br-affective-neuroscience-informed", target_type: "تيار"
-related:
+related: []
 - id: "thk-panksepp", title: "ياكوب بانكسيب", type: "مفكر"
 - id: "thk-damasio", title: "أنطونيو داماسيو", type: "مفكر"
 - id: "con-neuroplasticity", title: "اللدونة العصبية (Neuroplasticity)", type: "مفهوم"
-- id: "thk-bvdkolk", title: "بِسِل فان دير كولك", type: "مفكر"
+- id: "thk-besselvanderkolk", title: "بِسِل فَن دِر كولك", type: "مفكر"
 - id: "con-somatic-memory", title: "الذَّاكِرَة الْجِسَدِيَّة (Somatic Memory)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من *Anxious: Using the Brain to Understand and Treat Fear and Anxiety* (2015) بترجمة عربية معتمدة."

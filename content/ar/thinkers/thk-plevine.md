@@ -12,9 +12,9 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1970
 active_end: "مستمر"
-edges:
+edges: []
 - rel: "belongs_to", target: "sch-somatic-experiencing", target_type: "مدرسة"
-related:
+related: []
 - id: "rel-trauma-somatic", title: "العلاج بالصدمة والعلاج الجسدي: Somatic Experiencing كجسر", type: "علاقة بين مدرستين"
 - id: "rel-psychoanalysis-somatic", title: "التحليل النفسي والجسدية: رايش كمنشق، ليفين كجسر", type: "علاقة بين مدرستين"
 - id: "tec-somatic-trauma", title: "العلاج الجسدي للصدمة (Somatic Trauma Therapy)", type: "تقنية/تدخل علاجي"
@@ -29,7 +29,6 @@ related:
 - id: "tec-sensorimotor-pendulation", title: "البندلة (Pendulation) في العلاج السنسوريموتور", type: "تقنية/تدخل علاجي"
 - id: "tec-somatic-experiencing-tracking", title: "تتبع الإحساس الجسدي (Sensation Tracking) في SE", type: "تقنية/تدخل علاجي"
 - id: "br-sensorimotor-trauma-applications", title: "العلاج السنسوريموتور: تطبيقات الصدمة المتقدمة", type: "تيار"
-- id: "thk-bvdkolk", title: "بِسِل فان دير كولك", type: "مفكر"
 - id: "con-titration-pendulation", title: "التقطير والبندلة في العلاج الجسدي للصدمات", type: "مفهوم"
 - id: "con-somatic-experiencing", title: "التَّجْرِبَة الْجِسَدِيَّة (Somatic Experiencing): مَنَهَج لِـ**شِفَاء الصَّدْمَة**", type: "مفهوم"
 - id: "met-triune-brain-maclean", title: "الدماغ الثلاثي: استعارة الطبقات التطورية للجهاز العصبي", type: "استعارة/مجاز مؤسِّس"

@@ -17,7 +17,7 @@ active_end: "مستمر"
 region: "Pacific Islands"
 edges: []
 related:
-- id: "thk-gregory-bateson", title: "غريغوري باتسون (Gregory Bateson)", type: "مفكر"
+- id: "thk-gbateson", title: "غريغوري باتسون (Gregory Bateson)", type: "مفكر"
 - id: "thk-marilyn-strathern", title: "ماريلين ستراثرن (Marilyn Strathern)", type: "مفكر"
 gaps:
   - "إضافة دراسات ميدانية من ميلانيزيا وميكرونيزيا."

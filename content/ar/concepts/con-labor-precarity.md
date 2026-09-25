@@ -15,7 +15,7 @@ edges:
   - rel: "related_to", target: "con-informal-economy", target_type: "مفهوم"
 related:
   - id: "thk-david-harvey", title: "ديفيد هارفي", type: "مفكر"
-  - id: "thk-pierre-bourdieu", title: "بيير بورديو", type: "مفكر"
+  - id: "thk-bourdieu", title: "بيير بورديو", type: "مفكر"
   - id: "wrk-precariat-standing", title: "The Precariat (Guy Standing)", type: "عمل / كتاب"
 gaps:
   - "دراساتٌ محدودة عن هشاشة العمل المرأة في الاقتصاديات غير الرسمية بالمناطق الجنوبية."

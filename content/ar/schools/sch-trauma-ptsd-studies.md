@@ -16,9 +16,9 @@ active_source: "lifespan"
 cultural_origin: "western"
 edges: []
 related:
-- id: "thk-pierre-janet", title: "بيير جانيه", type: "مفكر"
+- id: "thk-janet", title: "بيير جانيه", type: "مفكر"
 - id: "thk-judith-herman", title: "جوديث هيرمان", type: "مفكر"
-- id: "thk-bessel-van-der-kolk", title: "بيسيل فان دير كولك", type: "مفكر"
+- id: "thk-besselvanderkolk", title: "بيسيل فان دير كولك", type: "مفكر"
 - id: "con-ptsd-criteria", title: "معايير اضطراب ما بعد الصدمة", type: "مفهوم"
 - id: "con-dissociation-trauma", title: "الانفصام النفسي (Dissociation)", type: "مفهوم"
 - id: "con-intergenerational-trauma", title: "الصدمة العابرة للأجيال", type: "مفهوم"

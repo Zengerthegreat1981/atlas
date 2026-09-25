@@ -16,7 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-sociology-of-family-gender-intimacy", target_type: "مدرسة"
 related:
 - id: "sch-sociology-of-family-gender-intimacy", title: "سوسيولوجيا الأسرة والنوع الاجتماعي والعلاقات الحميمية", type: "مدرسة"
-- id: "thk-nancy-chodorow", title: "نانسي تشودورو", type: "مفكر"
+- id: "thk-chodorow", title: "نانسي تشودورو", type: "مفكر"
 - id: "con-reproduction-of-mothering-chodorow", title: "إعادة إنتاج الأمومة عند تشودورو (Reproduction of Mothering)", type: "مفهوم"
 - id: "wrk-cultural-contradictions-motherhood-hays", title: "التناقضات الثقافية للأمومة (The Cultural Contradictions of Motherhood)", type: "عمل / كتاب"
 gaps:

@@ -13,7 +13,7 @@ fields: ["computational sociolinguistics", "vowel change", "speech analysis"]
 affiliation: "جامعة نيويورك"
 primary_school: "sch-sociolinguistics"
 edges:
-- rel: "belongs_to", target: "sch-sociolinguistics-variation", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-variationist-sociolinguistics", target_type: "مدرسة"
 related: []
 gaps: []
 ---

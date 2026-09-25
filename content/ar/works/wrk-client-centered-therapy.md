@@ -17,10 +17,10 @@ active_end: 1951
 language: "الإنجليزية"
 register: "academic"
 edges:
-- rel: "written_by", target: "thk-carl-rogers", target_type: "مفكر"
+- rel: "written_by", target: "thk-rogers", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-psychotherapy-foundations", target_type: "مدرسة"
 related:
-- id: "thk-carl-rogers", title: "كارل روجرز", type: "مفكر"
+- id: "thk-rogers", title: "كارل روجرز", type: "مفكر"
 - id: "sch-psychotherapy-foundations", title: "مدرسة أسس العلاج النفسي", type: "مدرسة"
 gaps:
   - "تم إنشاء هذا الملف كجزء من Phase 3 (2026-09-24)."

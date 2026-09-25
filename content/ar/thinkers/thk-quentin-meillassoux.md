@@ -39,13 +39,19 @@ gaps:
 
 كونتين ميياسو تلميذ **آلان باديو** — الذي كتب مقدّمة «بعد التناهي» ووصفه بأنه فتح طريقاً جديداً — وأحد أربعة أطلقوا **الواقعية المضاربة** في ندوة غولدسميث (2007) مع **هارمان** و**براسيير** و**غرانت**. ويفارق هارمان في نقطة جوهرية: هارمان يرى الأشياء **منسحبة** لا تُبلَغ، وميياسو يرى المطلق **قابلاً للبلوغ** بالعقل والرياضيات. وموقعه في هذا الأطلس أنه يعيد فتح سؤال كان قد أُغلق: **هل ثمّة واقع مستقلّ عن الوعي يمكن الكلام عنه؟** — وهو سؤال يقع في أساس أي دعوى علمية، بما فيها دعاوى علم النفس نفسه.
 
-## أهم الأعمال
+## القيد
+
+اعتماده الحاسم على حجّة «الأصليّة» يجعل الأطروحة كلها معلّقة على قراءة محدَّدة لما يعنيه الخطاب العلمي بـ"سبق الحدث لكل وعي"، وهي قراءة اعترض عليها فلاسفة العلم بأن العبارة العلمية لا تحتاج بالضرورة الالتزام الميتافيزيقي الذي يبنيه ميياسو عليها. كما أن كتابه اللاحق *L'Immanence des mondes* (2019)، امتداد أطروحة «بعد التناهي»، لم يُترجم كاملاً إلى العربية أو الإنجليزية بعد، فتبقى تطوراته الأخيرة غير متاحة للقارئ العربي.
+
+## أهم أعماله
 
 - *Après la finitude: Essai sur la nécessité de la contingence* (2006).
 - *Le Nombre et la sirène* (2011) — دراسة عن مالارميه.
 - *Métaphysique et fiction des mondes hors-science* (2013).
+- *L'Immanence des mondes* (2019).
 
 ## المصادر
 
-- Meillassoux, Q. (2008). *After Finitude: An Essay on the Necessity of Contingency* (R. Brassier, Trans.). Continuum.
-- Harman, G. (2011). *Quentin Meillassoux: Philosophy in the Making*. Edinburgh University Press.
+- Meillassoux, Q. *After Finitude: An Essay on the Necessity of Contingency*, trans. R. Brassier. Continuum, 2008.
+- Meillassoux, Q. *Le Nombre et la sirène*. Fayard, 2011.
+- Harman, G. *Quentin Meillassoux: Philosophy in the Making*. Edinburgh University Press, 2011.

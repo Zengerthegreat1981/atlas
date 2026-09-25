@@ -22,69 +22,7 @@ gaps:
 
 # الكلامُ الموجَّه للطفل
 
-## Definition and Core Concept
-
-This term refers to a key concept in phonological analysis and theory. Phonology studies the sound systems of languages, examining how sounds function to convey meaning and how they vary across languages and contexts.
-
-## Historical Development
-
-The concept emerged from linguistic research in the 20th century, developing from early phonetic observations into sophisticated theoretical frameworks. Modern phonology builds on foundations laid by the Prague Linguistic Circle and subsequent generative linguistics.
-
-## Theoretical Framework
-
-Phonological theory operates at the abstract level, examining:
-- Which sounds are distinctive (phonemes)
-- How sounds combine (phonotactics)
-- How sounds change in different contexts (phonological processes)
-- The principles governing these phenomena across languages
-
-## Key Mechanisms
-
-Phonological systems are organized through:
-- Distinctive features distinguishing meaningful sound units
-- Natural classes grouping sounds that behave similarly
-- Rules describing systematic alternations
-- Constraints determining what sound patterns are allowed
-
-## Experimental Evidence
-
-Modern experimental phonology uses multiple methodologies:
-- Behavioral studies of perception and production
-- Brain imaging (fMRI, EEG) showing neural processing
-- Acoustic analysis revealing detailed phonetic properties
-- Computational modeling of phonological processes
-
-## Contemporary Applications
-
-### Language Technology
-Speech recognition and synthesis systems rely on phonological structure. Phoneme-based models are fundamental to current speech technology.
-
-### Language Teaching
-Phonological analysis explains pronunciation difficulties in second language learning and informs teaching methodology.
-
-### Clinical Applications
-Speech-language pathology uses phonological analysis to understand and treat disorders affecting sound systems.
-
-## Research Frontiers
-
-Current research explores:
-- Neural substrates of phonological processing
-- Computational learning of phonological patterns
-- Cross-linguistic variation in phonological systems
-- Integration with morphology and syntax
-
-## Key References
-
-- Contemporary phonological research builds on foundational work in generative phonology and extends into usage-based and neural perspectives.
-
-## References
-
-- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
-- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
-- Anderson, S. R. (1985). *Phonology in the Twentieth Century*. University of Chicago Press.
-- Haspelmath, M., & Sims, A. D. (2010). *Understanding Morphology*. Oxford University Press.
-
-## محتوى عربي إضافي
+## التعريف
 
 أسلوبُ كلامٍ خاصّ يتبنّاه معظمُ البالغين عفوياً حين يخاطبون الرضّعَ والأطفالَ الصغار، يتميّز بسماتٍ صوتية ونحوية مختلفة منهجياً عن الكلام الموجَّه للبالغين، وأثار نقاشاً حول دوره في تسهيل اكتساب اللغة أو عدمه.
 
@@ -99,6 +37,14 @@ Current research explores:
 ## الأثر
 
 أسّست دراسةُ هذه الظاهرة حقلاً بحثياً نشطاً في العلاقة بين خصائص المدخل اللغوي المتاح للطفل وسرعة اكتسابه للغة، وتقاطعت مباشرةً مع الجدل الأوسع حول فقر المحفِّز وفطرية القدرة اللغوية.
+
+## الأبعادُ الصوتية والتفاعلية
+
+لاحظت الأبحاثُ أن هذا الأسلوبَ لا يقتصر على السمات النحوية والمعجمية، بل يمتدّ إلى نمطٍ تفاعليٍّ كامل يتضمّن تكرارَ إعادة الصياغة (Recasts)، وتوسيعَ ملفوظات الطفل الناقصة إلى صيغٍ نحوية أكمل، والتزامنَ مع الإيماءات وتوجيه النظر المشترك (Joint Attention) نحو الأشياء المشار إليها، ما يجعل المدخلَ اللغويَّ مرتبطاً وثيقاً بسياقٍ حسّيٍّ وعاطفيٍّ يسهّل ربط الصوت بالمعنى.
+
+## التنوّعُ الثقافي
+
+أظهرت دراساتٌ أنثروبولوجية لاحقة (كأعمال إليانور أوكس وبامبي شيفلين في ساموا وپابوا غينيا الجديدة) أن بعضَ المجتمعات تفضّل توجيه الطفل نحو مراقبة كلام الكبار بدل مخاطبته مباشرةً بلغةٍ مبسَّطة، وأن هذا التنوّعَ الثقافي لم يمنع اكتسابَ اللغة بالوتيرة النمائية المعتادة، وهو ما استُخدم حجّةً في الجدل حول مدى ضرورة هذا الأسلوب مقابل كونه تفضيلاً ثقافياً لا شرطاً بيولوجياً للاكتساب.
 
 ## المصادر
 

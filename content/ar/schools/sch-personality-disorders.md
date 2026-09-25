@@ -32,7 +32,7 @@ related:
 - id: "con-personality-disorder-treatment", title: "علاج اضطرابات الشخصية", type: "مفهوم"
 - id: "con-trait-vs-categorical", title: "النماذج القائمة على السمات مقابل النماذج الفئوية", type: "مفهوم"
 - id: "thk-marsha-linehan", title: "مارشا لاينهان", type: "مفكر"
-- id: "thk-otto-kernberg", title: "أوتو كيرنبرغ", type: "مفكر"
+- id: "thk-kernberg", title: "أوتو كيرنبرغ", type: "مفكر"
 - id: "thk-theodore-millon", title: "ثيودور ميلون", type: "مفكر"
 gaps:
   - "لا تتوفر أرقام انتشار دقيقة موحّدة لكل اضطراب شخصية فرعي؛ تُركت خارج النص تجنباً لأرقام غير موثقة بمصدر واحد."

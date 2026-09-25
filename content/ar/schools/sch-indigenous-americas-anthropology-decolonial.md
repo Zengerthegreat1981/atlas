@@ -18,7 +18,7 @@ region: "Americas"
 edges:
 - rel: "belongs_to", target: "sch-postcolonial-critique-anthropology", target_type: "مدرسة"
 related:
-- id: "thk-linda-tuhiwai-smith", title: "ليندا توهيواي سميث (Linda Tuhiwai Smith)", type: "مفكر"
+- id: "thk-lindatuhiwai", title: "ليندا توهيواي سميث (Linda Tuhiwai Smith)", type: "مفكر"
 gaps:
   - "إضافة دراسات ميدانية عن الشعوب الأصلية في الأنديز وألاسكا وشمال أمريكا."
   - "توثيق الأنثروبولوجيين من أصول أمريكية أصلية."
