@@ -1,33 +1,32 @@
 ---
 slug: "thk-deborah-mcgregor"
-id: "THK-13255"
+id: "THK-13418"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"
-title: "ديبورة ماكغريغور (Deborah McGregor)"
+title: "ديبورا ماكغريجور"
 en: "Deborah McGregor"
-birth_year: 1965
-
+dates: "1962 – "
 birth_country: "كندا"
-active_from: 1985
-active_to: 2026
-primary_school: "sch-indigenous-anthropology-decolonial"
 edges:
-- rel: "belongs_to", target: "sch-indigenous-anthropology-decolonial", target_type: "مدرسة"
-related:
-
-gaps:
-
+- rel: "belongs_to", target: "sch-indigenous-environmental-anthropology", target_type: "مدرسة"
+related: []
+gaps: []
 ---
 
-# ديبورة ماكغريغور (Deborah McGregor) (Deborah McGregor)
+# ديبورا ماكغريجور (Deborah McGregor)
 
-**الباحث**: Deborah McGregor
-**الفترة النشطة**: 1985 – 2026
-**المدرسة**: sch-indigenous-anthropology-decolonial
+**الباحث/ة**: Deborah McGregor  
+**الفترة النشطة**: 1962 –   
+**المدرسة**: sch-indigenous-environmental-anthropology  
+**مجال التخصص**: Indigenous Environmental Ethics
 
-باحثة كندية متخصصة في المعرفة البيئية الأصلية والعدالة البيئية.
+## النبذة
 
-## المصادر
+أنثروبولوجي/أنثروبولوجية متخصص/متخصصة في indigenous environmental ethics. أسهم/أسهمت بشكل كبير في تطوير المنظور الأنثروبولوجي المعاصر حول indigenous environmental ethics.
 
-- OpenLibrary records for Deborah McGregor
+## الأعمال الرئيسية
+
+- Indigenous Knowledge and Values
+
+---

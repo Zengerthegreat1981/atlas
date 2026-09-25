@@ -1,31 +1,33 @@
 ---
 slug: "thk-ulf-hannersson"
-id: "THK-13305"
+id: "THK-13431"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"
-title: "أولف هانرسون (Ulf Hannersson)"
+title: "أولف هانيرسون"
 en: "Ulf Hannersson"
-birth_year: 1942
-
+dates: "1942 – "
 birth_country: "السويد"
-active_from: 1962
-active_to: 2026
-primary_school: "sch-urban-indigenous-anthropology"
 edges:
-- rel: "belongs_to", target: "sch-urban-indigenous-anthropology", target_type: "مدرسة"
-related:
-gaps:
+- rel: "belongs_to", target: "sch-global-anthropology", target_type: "مدرسة"
+related: []
+gaps: []
 ---
 
-# أولف هانرسون (Ulf Hannersson) (Ulf Hannersson)
+# أولف هانيرسون (Ulf Hannersson)
 
-**الباحث**: Ulf Hannersson
-**الفترة النشطة**: 1962 – 2026
-**المدرسة**: sch-urban-indigenous-anthropology
+**الباحث/ة**: Ulf Hannersson  
+**الفترة النشطة**: 1942 –   
+**المدرسة**: sch-global-anthropology  
+**مجال التخصص**: Cosmopolitanism, Global Culture
 
-أنثروبولوجيّ سويدي متخصص في الأنثروبولوجيا الحضرية والعولمة الثقافية.
+## النبذة
 
-## المصادر
+أنثروبولوجي/أنثروبولوجية متخصص/متخصصة في cosmopolitanism, global culture. أسهم/أسهمت بشكل كبير في تطوير المنظور الأنثروبولوجي المعاصر حول cosmopolitanism, global culture.
 
-- OpenLibrary records for Ulf Hannersson
+## الأعمال الرئيسية
+
+- Cosmopolitans
+- Transnational Connections
+
+---

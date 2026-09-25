@@ -1,31 +1,33 @@
 ---
 slug: "thk-vincanne-adams"
-id: "THK-13314"
+id: "THK-13425"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"
-title: "فينكان آدامز (Vincanne Adams)"
+title: "فينسان آدمز"
 en: "Vincanne Adams"
-birth_year: 1961
-
+dates: "1960 – "
 birth_country: "الولايات المتحدة"
-active_from: 1981
-active_to: 2026
-primary_school: "sch-environmental-indigenous-knowledge"
 edges:
-- rel: "belongs_to", target: "sch-environmental-indigenous-knowledge", target_type: "مدرسة"
-related:
-gaps:
+- rel: "belongs_to", target: "sch-critical-medical-anthropology", target_type: "مدرسة"
+related: []
+gaps: []
 ---
 
-# فينكان آدامز (Vincanne Adams) (Vincanne Adams)
+# فينسان آدمز (Vincanne Adams)
 
-**الباحث**: Vincanne Adams
-**الفترة النشطة**: 1981 – 2026
-**المدرسة**: sch-environmental-indigenous-knowledge
+**الباحث/ة**: Vincanne Adams  
+**الفترة النشطة**: 1960 –   
+**المدرسة**: sch-critical-medical-anthropology  
+**مجال التخصص**: Medical Pluralism, Tibet, Anthropology of Hope
 
-أنثروبولوجيّة أمريكية متخصصة في الطب والصحة العالمية والعدالة.
+## النبذة
 
-## المصادر
+أنثروبولوجي/أنثروبولوجية متخصص/متخصصة في medical pluralism, tibet, anthropology of hope. أسهم/أسهمت بشكل كبير في تطوير المنظور الأنثروبولوجي المعاصر حول medical pluralism, tibet, anthropology of hope.
 
-- OpenLibrary records for Vincanne Adams
+## الأعمال الرئيسية
+
+- Healing with Spirits
+- The Limits of Universalism
+
+---

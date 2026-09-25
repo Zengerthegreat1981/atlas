@@ -1,0 +1,706 @@
+{
+  "phase": 4,
+  "source": "Tier 2 Scanned Psychology Books",
+  "extraction_date": "2026-09-25T03:55:17.666826",
+  "books_processed": [
+    {
+      "book": "(Jon Roeckelein) Dictionary of Theories, Laws, and  .pdf",
+      "letters": {
+        "A": {
+          "extracted": 89,
+          "filtered": 82,
+          "created": 82
+        },
+        "B": {
+          "extracted": 57,
+          "filtered": 52,
+          "created": 52
+        },
+        "C": {
+          "extracted": 53,
+          "filtered": 52,
+          "created": 52
+        },
+        "D": {
+          "extracted": 16,
+          "filtered": 15,
+          "created": 15
+        },
+        "E": {
+          "extracted": 25,
+          "filtered": 22,
+          "created": 22
+        },
+        "F": {
+          "extracted": 11,
+          "filtered": 10,
+          "created": 10
+        },
+        "G": {
+          "extracted": 11,
+          "filtered": 11,
+          "created": 11
+        },
+        "H": {
+          "extracted": 21,
+          "filtered": 20,
+          "created": 20
+        },
+        "I": {
+          "extracted": 25,
+          "filtered": 23,
+          "created": 23
+        },
+        "J": {
+          "extracted": 33,
+          "filtered": 30,
+          "created": 30
+        },
+        "K": {
+          "extracted": 2,
+          "filtered": 2,
+          "created": 2
+        },
+        "L": {
+          "extracted": 22,
+          "filtered": 21,
+          "created": 21
+        },
+        "M": {
+          "extracted": 30,
+          "filtered": 28,
+          "created": 28
+        },
+        "N": {
+          "extracted": 29,
+          "filtered": 17,
+          "created": 17
+        },
+        "O": {
+          "extracted": 12,
+          "filtered": 12,
+          "created": 12
+        },
+        "P": {
+          "extracted": 114,
+          "filtered": 105,
+          "created": 101
+        },
+        "Q": {
+          "extracted": 2,
+          "filtered": 2,
+          "created": 2
+        },
+        "R": {
+          "extracted": 28,
+          "filtered": 28,
+          "created": 28
+        },
+        "S": {
+          "extracted": 37,
+          "filtered": 36,
+          "created": 36
+        },
+        "T": {
+          "extracted": 40,
+          "filtered": 39,
+          "created": 38
+        },
+        "U": {
+          "extracted": 10,
+          "filtered": 9,
+          "created": 9
+        },
+        "V": {
+          "extracted": 10,
+          "filtered": 10,
+          "created": 10
+        },
+        "W": {
+          "extracted": 9,
+          "filtered": 9,
+          "created": 9
+        },
+        "X": {
+          "extracted": 7,
+          "filtered": 7,
+          "created": 7
+        },
+        "Y": {
+          "extracted": 17,
+          "filtered": 17,
+          "created": 17
+        },
+        "Z": {
+          "extracted": 3,
+          "filtered": 3,
+          "created": 3
+        }
+      },
+      "total_extracted": 713,
+      "total_filtered": 662,
+      "total_created": 657,
+      "time_seconds": 9.323007822036743
+    },
+    {
+      "book": "APA Dictionary of Clinical Psy PDF   .pdf",
+      "letters": {
+        "A": {
+          "extracted": 1800,
+          "filtered": 1717,
+          "created": 1715
+        },
+        "B": {
+          "extracted": 652,
+          "filtered": 649,
+          "created": 648
+        },
+        "C": {
+          "extracted": 1542,
+          "filtered": 1526,
+          "created": 1522
+        },
+        "D": {
+          "extracted": 890,
+          "filtered": 883,
+          "created": 881
+        },
+        "E": {
+          "extracted": 730,
+          "filtered": 727,
+          "created": 723
+        },
+        "F": {
+          "extracted": 554,
+          "filtered": 550,
+          "created": 550
+        },
+        "G": {
+          "extracted": 357,
+          "filtered": 356,
+          "created": 356
+        },
+        "H": {
+          "extracted": 449,
+          "filtered": 445,
+          "created": 443
+        },
+        "I": {
+          "extracted": 1066,
+          "filtered": 1058,
+          "created": 1057
+        },
+        "J": {
+          "extracted": 72,
+          "filtered": 72,
+          "created": 71
+        },
+        "K": {
+          "extracted": 62,
+          "filtered": 62,
+          "created": 62
+        },
+        "L": {
+          "extracted": 439,
+          "filtered": 430,
+          "created": 430
+        },
+        "M": {
+          "extracted": 968,
+          "filtered": 958,
+          "created": 954
+        },
+        "N": {
+          "extracted": 505,
+          "filtered": 503,
+          "created": 500
+        },
+        "O": {
+          "extracted": 996,
+          "filtered": 989,
+          "created": 986
+        },
+        "P": {
+          "extracted": 1327,
+          "filtered": 1322,
+          "created": 1313
+        },
+        "Q": {
+          "extracted": 54,
+          "filtered": 54,
+          "created": 54
+        },
+        "R": {
+          "extracted": 576,
+          "filtered": 571,
+          "created": 566
+        },
+        "S": {
+          "extracted": 1660,
+          "filtered": 1643,
+          "created": 1638
+        },
+        "T": {
+          "extracted": 2125,
+          "filtered": 2103,
+          "created": 2096
+        },
+        "U": {
+          "extracted": 259,
+          "filtered": 257,
+          "created": 256
+        },
+        "V": {
+          "extracted": 314,
+          "filtered": 313,
+          "created": 312
+        },
+        "W": {
+          "extracted": 474,
+          "filtered": 471,
+          "created": 470
+        },
+        "X": {
+          "extracted": 8,
+          "filtered": 8,
+          "created": 8
+        },
+        "Y": {
+          "extracted": 29,
+          "filtered": 29,
+          "created": 27
+        },
+        "Z": {
+          "extracted": 23,
+          "filtered": 23,
+          "created": 23
+        }
+      },
+      "total_extracted": 17931,
+      "total_filtered": 17719,
+      "total_created": 17661,
+      "time_seconds": 69.27544116973877
+    },
+    {
+      "book": "Dictionary of Psychology Terms  .pdf",
+      "letters": {
+        "A": {
+          "extracted": 330,
+          "filtered": 268,
+          "created": 261
+        },
+        "B": {
+          "extracted": 94,
+          "filtered": 94,
+          "created": 93
+        },
+        "C": {
+          "extracted": 279,
+          "filtered": 276,
+          "created": 268
+        },
+        "D": {
+          "extracted": 187,
+          "filtered": 185,
+          "created": 170
+        },
+        "E": {
+          "extracted": 168,
+          "filtered": 164,
+          "created": 158
+        },
+        "F": {
+          "extracted": 126,
+          "filtered": 123,
+          "created": 120
+        },
+        "G": {
+          "extracted": 59,
+          "filtered": 59,
+          "created": 56
+        },
+        "H": {
+          "extracted": 101,
+          "filtered": 101,
+          "created": 99
+        },
+        "I": {
+          "extracted": 227,
+          "filtered": 224,
+          "created": 215
+        },
+        "J": {
+          "extracted": 8,
+          "filtered": 8,
+          "created": 7
+        },
+        "K": {
+          "extracted": 12,
+          "filtered": 12,
+          "created": 12
+        },
+        "L": {
+          "extracted": 87,
+          "filtered": 85,
+          "created": 83
+        },
+        "M": {
+          "extracted": 171,
+          "filtered": 169,
+          "created": 163
+        },
+        "N": {
+          "extracted": 84,
+          "filtered": 84,
+          "created": 81
+        },
+        "O": {
+          "extracted": 155,
+          "filtered": 154,
+          "created": 149
+        },
+        "P": {
+          "extracted": 337,
+          "filtered": 330,
+          "created": 314
+        },
+        "Q": {
+          "extracted": 10,
+          "filtered": 10,
+          "created": 9
+        },
+        "R": {
+          "extracted": 114,
+          "filtered": 111,
+          "created": 107
+        },
+        "S": {
+          "extracted": 352,
+          "filtered": 350,
+          "created": 337
+        },
+        "T": {
+          "extracted": 250,
+          "filtered": 250,
+          "created": 239
+        },
+        "U": {
+          "extracted": 39,
+          "filtered": 39,
+          "created": 38
+        },
+        "V": {
+          "extracted": 47,
+          "filtered": 46,
+          "created": 44
+        },
+        "W": {
+          "extracted": 57,
+          "filtered": 57,
+          "created": 56
+        },
+        "X": {
+          "extracted": 3,
+          "filtered": 3,
+          "created": 2
+        },
+        "Y": {
+          "extracted": 6,
+          "filtered": 6,
+          "created": 5
+        },
+        "Z": {
+          "extracted": 8,
+          "filtered": 8,
+          "created": 7
+        }
+      },
+      "total_extracted": 3311,
+      "total_filtered": 3216,
+      "total_created": 3093,
+      "time_seconds": 23.103748083114624
+    },
+    {
+      "book": "Encyclopedia of Counseling PDF   .pdf",
+      "letters": {
+        "A": {
+          "extracted": 1030,
+          "filtered": 835,
+          "created": 816
+        },
+        "B": {
+          "extracted": 283,
+          "filtered": 279,
+          "created": 270
+        },
+        "C": {
+          "extracted": 1289,
+          "filtered": 1270,
+          "created": 1240
+        },
+        "D": {
+          "extracted": 446,
+          "filtered": 439,
+          "created": 433
+        },
+        "E": {
+          "extracted": 510,
+          "filtered": 504,
+          "created": 491
+        },
+        "F": {
+          "extracted": 261,
+          "filtered": 257,
+          "created": 249
+        },
+        "G": {
+          "extracted": 147,
+          "filtered": 144,
+          "created": 141
+        },
+        "H": {
+          "extracted": 270,
+          "filtered": 267,
+          "created": 262
+        },
+        "I": {
+          "extracted": 647,
+          "filtered": 639,
+          "created": 620
+        },
+        "J": {
+          "extracted": 130,
+          "filtered": 130,
+          "created": 130
+        },
+        "K": {
+          "extracted": 56,
+          "filtered": 56,
+          "created": 55
+        },
+        "L": {
+          "extracted": 257,
+          "filtered": 253,
+          "created": 249
+        },
+        "M": {
+          "extracted": 482,
+          "filtered": 472,
+          "created": 458
+        },
+        "N": {
+          "extracted": 240,
+          "filtered": 206,
+          "created": 203
+        },
+        "O": {
+          "extracted": 364,
+          "filtered": 358,
+          "created": 354
+        },
+        "P": {
+          "extracted": 961,
+          "filtered": 931,
+          "created": 904
+        },
+        "Q": {
+          "extracted": 40,
+          "filtered": 40,
+          "created": 38
+        },
+        "R": {
+          "extracted": 452,
+          "filtered": 442,
+          "created": 436
+        },
+        "S": {
+          "extracted": 732,
+          "filtered": 723,
+          "created": 706
+        },
+        "T": {
+          "extracted": 652,
+          "filtered": 640,
+          "created": 633
+        },
+        "U": {
+          "extracted": 168,
+          "filtered": 131,
+          "created": 127
+        },
+        "V": {
+          "extracted": 127,
+          "filtered": 127,
+          "created": 125
+        },
+        "W": {
+          "extracted": 215,
+          "filtered": 211,
+          "created": 203
+        },
+        "X": {
+          "extracted": 28,
+          "filtered": 28,
+          "created": 27
+        },
+        "Y": {
+          "extracted": 42,
+          "filtered": 39,
+          "created": 36
+        },
+        "Z": {
+          "extracted": 5,
+          "filtered": 5,
+          "created": 5
+        }
+      },
+      "total_extracted": 9834,
+      "total_filtered": 9426,
+      "total_created": 9211,
+      "time_seconds": 267.4987621307373
+    },
+    {
+      "book": "Handbook of Personality Disorders.pdf",
+      "letters": {
+        "A": {
+          "extracted": 231,
+          "filtered": 190,
+          "created": 181
+        },
+        "B": {
+          "extracted": 70,
+          "filtered": 70,
+          "created": 64
+        },
+        "C": {
+          "extracted": 278,
+          "filtered": 276,
+          "created": 267
+        },
+        "D": {
+          "extracted": 143,
+          "filtered": 141,
+          "created": 135
+        },
+        "E": {
+          "extracted": 160,
+          "filtered": 153,
+          "created": 140
+        },
+        "F": {
+          "extracted": 65,
+          "filtered": 64,
+          "created": 58
+        },
+        "G": {
+          "extracted": 51,
+          "filtered": 49,
+          "created": 47
+        },
+        "H": {
+          "extracted": 30,
+          "filtered": 29,
+          "created": 28
+        },
+        "I": {
+          "extracted": 164,
+          "filtered": 162,
+          "created": 154
+        },
+        "J": {
+          "extracted": 8,
+          "filtered": 8,
+          "created": 8
+        },
+        "K": {
+          "extracted": 16,
+          "filtered": 16,
+          "created": 16
+        },
+        "L": {
+          "extracted": 70,
+          "filtered": 68,
+          "created": 65
+        },
+        "M": {
+          "extracted": 95,
+          "filtered": 93,
+          "created": 86
+        },
+        "N": {
+          "extracted": 128,
+          "filtered": 119,
+          "created": 113
+        },
+        "O": {
+          "extracted": 106,
+          "filtered": 105,
+          "created": 97
+        },
+        "P": {
+          "extracted": 187,
+          "filtered": 184,
+          "created": 171
+        },
+        "Q": {
+          "extracted": 5,
+          "filtered": 5,
+          "created": 4
+        },
+        "R": {
+          "extracted": 105,
+          "filtered": 102,
+          "created": 97
+        },
+        "S": {
+          "extracted": 233,
+          "filtered": 225,
+          "created": 218
+        },
+        "T": {
+          "extracted": 221,
+          "filtered": 218,
+          "created": 206
+        },
+        "U": {
+          "extracted": 31,
+          "filtered": 29,
+          "created": 29
+        },
+        "V": {
+          "extracted": 33,
+          "filtered": 33,
+          "created": 30
+        },
+        "W": {
+          "extracted": 33,
+          "filtered": 33,
+          "created": 30
+        },
+        "X": {
+          "extracted": 6,
+          "filtered": 6,
+          "created": 6
+        },
+        "Y": {
+          "extracted": 62,
+          "filtered": 60,
+          "created": 57
+        },
+        "Z": {
+          "extracted": 3,
+          "filtered": 3,
+          "created": 2
+        }
+      },
+      "total_extracted": 2534,
+      "total_filtered": 2441,
+      "total_created": 2309,
+      "time_seconds": 133.82024717330933
+    }
+  ],
+  "total_entries": 34323,
+  "total_filtered": 33464,
+  "total_created": 32931,
+  "id_range_start": "TRM-ENG-01625"
+}

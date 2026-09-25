@@ -1,49 +1,33 @@
 ---
 slug: "thk-aihwa-ong"
-id: "THK-13119"
+id: "THK-13407"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"
-title: "أيهوا أونغ (Aihwa Ong)"
+title: "أيهوا أونغ"
 en: "Aihwa Ong"
-birth_year: 1951
-death_year: null
+dates: "1951 – "
 birth_country: "ماليزيا"
-active_from: 1980
-active_to: "مستمر"
-primary_school: "sch-southeast-asian-anthropology-school"
 edges:
-- rel: "belongs_to", target: "sch-southeast-asian-anthropology-school", target_type: "مدرسة"
-related:
-- id: "sch-anthropology-of-globalization-transnationalism", title: "أنثروبولوجيا العولمة والعابرة للحدود", type: "مدرسة"
+- rel: "belongs_to", target: "sch-asian-anthropology-contemporary", target_type: "مدرسة"
+related: []
 gaps: []
 ---
 
 # أيهوا أونغ (Aihwa Ong)
 
-**الباحثة**: Aihwa Ong  
-**الفترة النشطة**: 1980 –  
-**المدرسة**: الأنثروبولوجيا الجنوب شرقية الآسيويّة
+**الباحث/ة**: Aihwa Ong  
+**الفترة النشطة**: 1951 –   
+**المدرسة**: sch-asian-anthropology-contemporary  
+**مجال التخصص**: Migration, Asian Modernities, Biocapital
 
-أنثروبولوجيةٌ ماليزيةٌ درست الحداثةَ الآسيويّة والعولمةَ والرأسماليةَ النيولبرالية. اشتهرت بكتابِها *Flexible Citizenship* (1999).
+## النبذة
 
-## أهمّ الأعمالُ
+أنثروبولوجي/أنثروبولوجية متخصص/متخصصة في migration, asian modernities, biocapital. أسهم/أسهمت بشكل كبير في تطوير المنظور الأنثروبولوجي المعاصر حول migration, asian modernities, biocapital.
 
-- *Spirits of Resistance and Capitalist Discipline* (1987)
-- *Flexible Citizenship* (1999)
-- *Buddha is Hiding* (2010)
+## الأعمال الرئيسية
 
-## المساهماتُ الرئيسية
+- Flexible Citizenship
+- Buddha is Hiding
 
-### 1. الحداثاتُ الآسيويّة
-طوّرتْ مفهومَ أن الحداثةَ **ليست واحدة** بل حداثاتٌ متعدّدة، وأن آسيا تخلقُ نسختَها الخاصةَ من الحداثة.
-
-### 2. المواطنةُ المرنة
-أدخلتْ مفهومَ «المواطنةِ المرنة» (Flexible Citizenship): الأفرادُ الآسيويونَ يتحرّكونَ بمرونةٍ بينَ الدولِ والهويّات.
-
-### 3. النيولبرالية والثقافة
-درست كيفَ أن النيولبرالية **لا تنفصل عن الثقافة** بل تتشكّلُ من خلالِها.
-
-## المصادر
-
-- Ong, Aihwa. *Flexible Citizenship: The Cultural Logics of Transnationality*. Duke University Press, 1999.
+---

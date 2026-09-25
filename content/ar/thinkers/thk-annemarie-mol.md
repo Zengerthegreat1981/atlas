@@ -1,32 +1,33 @@
 ---
 slug: "thk-annemarie-mol"
-id: "THK-13377"
+id: "THK-13424"
 type: "مفكر"
 part: "anthropology"
 level: "متقدم"
-title: "Annemarie Mol"
+title: "آن ماري مول"
 en: "Annemarie Mol"
-birth_year: 1960
-birth_country: "Netherlands"
-active_from: 1985
-active_to: 2026
-primary_school: "sch-anthropology-of-medicine"
+dates: "1960 – "
+birth_country: "هولندا"
 edges:
-- rel: "belongs_to", target: "sch-anthropology-of-medicine", target_type: "مدرسة"
-related:
-gaps:
-  - "إضافة دراسات وأعمال لهذا المفكر."
+- rel: "belongs_to", target: "sch-anthropology-of-care-work", target_type: "مدرسة"
+related: []
+gaps: []
 ---
 
-# Annemarie Mol (Annemarie Mol)
+# آن ماري مول (Annemarie Mol)
 
-**الباحث**: Annemarie Mol
-**الفترة النشطة**: 1985 – 2026
-**المدرسة**: sch-anthropology-of-medicine
+**الباحث/ة**: Annemarie Mol  
+**الفترة النشطة**: 1960 –   
+**المدرسة**: sch-anthropology-of-care-work  
+**مجال التخصص**: Care Work, Materiality, Medical Anthropology
 
-أنثروبولوجيّ/ة معاصر/ة متخصص/ة في دراسات الثقافة الرقمية والسيادة الأصلية والعدالة المناخية.
+## النبذة
 
-## المصادر
+أنثروبولوجي/أنثروبولوجية متخصص/متخصصة في care work, materiality, medical anthropology. أسهم/أسهمت بشكل كبير في تطوير المنظور الأنثروبولوجي المعاصر حول care work, materiality, medical anthropology.
 
-- OpenLibrary records for Annemarie Mol
-- Contemporary anthropology publications (2000-2026)
+## الأعمال الرئيسية
+
+- The Body Multiple
+- The Logic of Care
+
+---
