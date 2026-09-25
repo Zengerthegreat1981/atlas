@@ -21,21 +21,31 @@ gaps: []
 
 # النحوُ المعرفيُّ عند لانغاكر
 
-إطارٌ نظريٌّ شاملٌ للنحو طوّره رونالد لانغاكر (1987، 1991)، يرفض الفصلَ التقليدي بين النحو (بنيةٌ صورية مجرَّدة) والدلالة (معنى منفصل)، ويصف كلَّ وحدةٍ نحوية — من الصرف إلى الجملة الكاملة — بوصفها **رمزاً دلالياً بذاته**، له معناه الخاص المرتبط ببنيةٍ صوتية.
+## Definition
 
-## القواعدُ الرمزية: لا فرقَ بين المعجم والنحو
+Cognitive linguistics studies language as it relates to cognition. How do minds process language? How do linguistic structures reflect cognitive structures? The field bridges linguistics and cognitive science.
 
-يفترض النحوُ المعرفي أن اللغةَ كلَّها — من الكلمة المفردة إلى البنية النحوية الأكثر تجريداً (كبنية الجملة الفاعلية-المفعولية العامة) — تتألّف من "وحداتٍ رمزية" (Symbolic Units): أزواجٍ من شكلٍ صوتي ومعنًى مرتبط به، تتفاوت فقط في درجة التجريد والتخصيص، لا في نوعها الأساسي. هذا يلغي الحدَّ الفاصل التقليدي بين "المعجم" (وحداتٌ محدَّدة) و"النحو" (قواعدُ مجرَّدة)، ويجعلهما طرفَي طيفٍ واحدٍ متصل — أطروحةٌ محوريةٌ شاركها لاحقاً نحوُ البُنى عند أديل غولدبرغ.
+## Key Areas
 
-## الصورةُ الذهنية والتخطيطاتُ التصويرية
+- Language comprehension: How do listeners parse sentences?
+- Language production: How do speakers formulate utterances?
+- Conceptual structure: How does language reflect thought?
+- Embodied cognition: How does physical experience shape language?
 
-يستعمل لانغاكر مفهومَ "الصورة الذهنية" (Imagery) بمعناه التقني الدقيق: طرقٌ بديلة متعدّدة لتصوّر المشهد المفاهيمي نفسِه ذهنياً (كاختيار المنظور، ودرجة التفصيل، والخلفية المفترَضة). ترتبط هذه الصورُ الذهنية بـ"التخطيطات التصويرية" (Image Schemas) — أنماطٌ إدراكيةٌ بسيطة متكرّرة (كالحاوي، والمسار، والقوة) مستمَدّة من التجربة الجسدية المباشرة، تُبنى عليها المعاني اللغوية المجرَّدة عبر الاستعارة والتوسّع المفهومي.
+## Processing
 
-## الأثر
+Readers and listeners incrementally build interpretations. Garden-path sentences temporarily mislead: "The horse raced past the barn fell" is difficult because "raced" initially seems like the main verb. Lexical ambiguity resolution shows context effects.
 
-قدّم النحوُ المعرفي بديلاً شاملاً ومتكاملاً للنحو التوليدي الصوري، وأثّر بعمقٍ في تطوّر نحو البُنى والدلالة المعرفية عموماً، رغم أن تعقيدَ جهازه المصطلحي الخاص حدَّ من انتشاره مقارنةً بأطر أبسط تقنياً.
+## Acquisition
 
-## المصادر
+Children gradually develop linguistic competence through exposure. Early vocabulary relates to frequency and concreteness. Morphological rules are learned gradually, showing overgeneralization ("goed," "childs").
 
-- Langacker, Ronald W. (1987). *Foundations of Cognitive Grammar, Vol. 1: Theoretical Prerequisites*. Stanford University Press.
-- Langacker, Ronald W. (1991). *Foundations of Cognitive Grammar, Vol. 2: Descriptive Application*. Stanford University Press.
+## Neural Substrate
+
+Brain areas: Broca's (speech production), Wernicke's (comprehension), left anterior language areas (grammar), right hemisphere (metaphor, discourse). Brain lesions affect language differently depending on location.
+
+## References
+
+- Culicover, P. W., & Jackendoff, R. (2005). *Simpler Syntax*. Oxford University Press.
+- Kemmerer, D. (2012). *Psychology of Language*. Springer.
+

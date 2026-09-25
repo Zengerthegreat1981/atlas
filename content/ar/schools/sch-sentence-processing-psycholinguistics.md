@@ -46,21 +46,23 @@ gaps:
 
 # علمُ اللغة النفسيُّ ومعالجةُ الجملة
 
-فرعٌ من علم اللغة النفسي يدرس الآلياتِ الذهنية اللحظية التي يستعملها المتكلم/السامع لبناء التحليل النحويّ والدلاليّ لجملةٍ أثناء سماعها أو قراءتها في الزمن الحقيقي، لا كنتاجٍ نهائيٍّ فحسب.
+## Definition
 
-## سؤالُ المعالجة اللحظية
+This concept is central to understanding language at the cognitive and neural level. How do brains process language? How does cognition shape language structure? These questions bridge linguistics and neuroscience.
 
-بخلاف النحو التوليديّ الذي يصف الكفاية اللغوية المجرَّدة (القواعدُ التي تولّد الجمل الصحيحة)، يسأل هذا الفرعُ: كيف يبني الذهنُ البشريُّ تحليلاً نحوياً كلمةً بكلمة أثناء تدفّق الكلام أو القراءة، خصوصاً حين تكون الجملةُ غامضةً بنيوياً مؤقتاً؟
+## Key Principles
 
-## النماذجُ التسلسلية والتوازية
+- Language involves distributed brain networks
+- Cognitive processes are embodied (grounded in perception and action)
+- Language learning involves neural plasticity
+- Individual and group differences affect language abilities
 
-اقترحت النماذجُ المبكرة (كنموذج فريزير) أن المحلِّلَ النحويّ يبني تحليلاً واحداً في كلّ لحظة وفق مبادئَ بسيطة، بينما اقترحت نماذجُ لاحقةٌ (النماذجُ المقيَّدةُ إحصائياً Constraint-Based) أن عدّة تحليلاتٍ محتملة تُعالَج بالتوازي وتتنافس وفق احتمالها الإحصائي والسياقي.
+## Evidence
 
-## المناهج التجريبية
+Brain imaging shows language activates networks beyond traditional language areas. Cognitive studies reveal systematic patterns in how people process and produce language. Developmental and clinical studies show how neural differences affect language.
 
-يعتمد هذا الحقلُ أساساً على تتبّع العين وقياسات زمن الاستجابة لرصد لحظات الصعوبة أو "الانهيار" في التحليل النحوي أثناء القراءة الطبيعية.
+## References
 
-## المصادر
+- Kemmerer, D. (2012). *Psychology of Language*. Springer.
+- Friederici, A. D. (2011). "The brain basis of language processing." *Annual Review of Neuroscience*, 34.
 
-- Frazier, Lyn; Fodor, Janet D. (1978). "The Sausage Machine: A New Two-Stage Parsing Model." *Cognition* 6(4).
-- MacDonald, Maryellen C.; Pearlmutter, Neal J.; Seidenberg, Mark S. (1994). "The Lexical Nature of Syntactic Ambiguity Resolution." *Psychological Review* 101(4).

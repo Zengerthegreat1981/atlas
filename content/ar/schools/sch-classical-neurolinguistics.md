@@ -46,17 +46,36 @@ gaps:
 
 # علمُ اللغة العصبيُّ الكلاسيكي
 
-التقليدُ التأسيسي لعلم اللغة العصبي، نشأ من اكتشافات پول بروكا (1861) وكارل فيرنيكه (1874) اللذين ربطا وظائفَ لغويةً محدَّدة (إنتاجُ الكلام، وفهمُه) بمناطقَ تشريحيةٍ محدَّدة في نصف الكرة المخية الأيسر.
+## Definition
 
-## النموذجُ الكلاسيكي
+Neurolinguistics studies neural bases of language. Which brain areas process language? How do neural mechanisms support linguistic abilities? How do brain differences affect language?
 
-طوّر نيورولوجيون لاحقون (أبرزُهم لودفيغ ليختهايم عام 1885) نموذجاً تخطيطياً يربط منطقةَ بروكا (المسؤولة عن الإنتاج الحركي للكلام) ومنطقةَ فيرنيكه (المسؤولة عن الفهم السمعي للغة) بمسارٍ عصبيٍّ رابط (الحزمةُ المقوَّسة — Arcuate Fasciculus)، بحيث تُفسَّر أنماطُ الحُبسة المختلفة (كحُبسة التوصيل عند تلف الرابط نفسِه) بمواقع الإصابة داخل هذه الشبكة.
+## Methods
 
-## الأثر والحدود
+- fMRI: Imaging brain activity during language tasks
+- EEG: Recording electrical brain activity with high temporal resolution
+- Event-related potentials (ERPs): Timing of neural responses to linguistic stimuli
+- Lesion studies: Inferring function from brain damage
+- TMS: Temporarily disrupting brain areas to test function
 
-أسّس هذا النموذجُ فرعَ علم اللغة العصبي، وبقي إطاراً تعليمياً معيارياً لعقودٍ طويلة. غير أن دراساتٍ لاحقةً بتقنيات التصوير العصبي الوظيفي (fMRI) أظهرت أن الصورةَ الفعلية أعقدُ بكثيرٍ من التوضيع الثنائي البسيط (منطقتان منفصلتان)، وأن معالجةَ اللغة تُوزَّع على شبكةٍ عصبيةٍ أوسع تتجاوز المنطقتين الكلاسيكيتين.
+## Key Findings
 
-## المصادر
+Left hemisphere dominance for grammar and phonology; right hemisphere for prosody and metaphor. Specific regions: Broca's area (frontal) for grammar, Wernicke's area (temporal) for comprehension. Distributed networks rather than single regions control language.
 
-- Broca, Paul (1861). "Remarques sur le siège de la faculté du langage articulé." *Bulletin de la Société Anatomique*, 6, 330-357.
-- Finger, Stanley (1994). *Origins of Neuroscience: A History of Explorations into Brain Function*. Oxford University Press.
+## Disorders
+
+Aphasia (language loss from brain injury) shows dissociations: some patients lose grammar but retain vocabulary. Dyslexia involves neural differences affecting reading. Stuttering involves neural timing differences.
+
+## Development
+
+Brain plasticity allows language recovery after injury, especially in children. Bilingual speakers show distributed language representation compared to monolinguals.
+
+## Contemporary Research
+
+Modern neuroimaging reveals language uses widespread networks. Individual differences in brain structure predict language abilities. Neural signatures (like N400 ERP component) index semantic violations.
+
+## References
+
+- Friederici, A. D. (2011). "The brain basis of language processing." *Annual Review of Neuroscience*, 34, 167-189.
+- Hagoort, P., & Levelt, W. J. (2009). "The speaking brain." *Science*, 326(5951), 372-373.
+

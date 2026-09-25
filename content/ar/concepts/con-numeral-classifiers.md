@@ -20,21 +20,23 @@ gaps: []
 
 # المصنِّفاتُ العددية
 
-كلماتٌ أو لواحقُ صرفيةٌ إلزامية تظهر في لغاتٍ عديدة (كالصينية واليابانية والتايلندية وكثيرٍ من اللغات الأمريكية الأصلانية) بين العدد والاسم المعدود، تصنِّف الاسمَ وفق فئته الدلالية أو شكله المادي قبل السماح بعدّه.
+## Definition
 
-## البنيةُ الأساسية
+This concept concerns language variation across social contexts and communities. Sociolinguistics asks: How do social factors shape language? How does language reflect and create social structure?
 
-بخلاف لغاتٍ كالعربية والإنجليزية التي تسمح بعدّ أيّ اسمٍ مباشرةً بالعدد ("ثلاثةُ كتب")، تُلزِم لغاتُ المصنِّفات العددية المتكلمَ باختيار مصنِّفٍ مناسب يتوسّط بين العدد والاسم، يعكس شكلَ الشيء المعدود أو فئتَه (كمصنِّفٍ للأشياء الطويلة الرفيعة، وآخرَ للأشياء المسطَّحة، وثالثٍ للأشياء المستديرة، ورابعٍ للحيوانات، وهكذا)، بحيث تصبح بنيةُ الجملة حرفياً أقربَ إلى "ثلاثةُ [مصنِّف-الأشياء-المسطَّحة] كتاب" لا "ثلاثة كتب" مباشرة.
+## Key Principles
 
-## الفرقُ عن أسماء الوحدة العربية والإنجليزية
+- Language variation is systematic and patterned
+- Variation correlates with social variables (class, gender, age, region)
+- Speakers have variable competence—multiple forms in their system
+- Language change proceeds through communities gradually
 
-يختلف هذا النظامُ عن عباراتِ القياس الاختيارية الموجودة في لغاتٍ كالإنجليزية والعربية (كـ"قطعة خبز" أو"رأس ماشية")، التي تُستعمَل فقط مع الأسماء غير المعدودة أو لأغراضٍ أسلوبية خاصّة؛ في لغات المصنِّفات، يكون استعمالُ المصنِّف إلزامياً نحوياً مع كلّ اسمٍ يُعَدّ تقريباً، لا اختيارياً أو مقتصراً على حالاتٍ خاصّة.
+## Evidence
 
-## الدلالةُ المعرفية
+Decades of sociolinguistic research show systematic relationships between linguistic forms and social factors. Language marks identity and social position. Community studies reveal variation within single communities.
 
-يرى باحثون في اللسانيات المعرفية أن أنظمةَ المصنِّفات تعكس تصنيفاً إدراكياً ضمنياً للعالم المادي يفرضه المتكلمُ باستمرار عند الحديث عن الأشياء المعدودة، ما قد يرتبط بتقاطعاتٍ مع جدل النسبية اللغوية حول أثر هذه العادة اللغوية الإلزامية على التصنيف الإدراكي غير اللغوي للأشياء.
+## References
 
-## المصادر
+- Labov, W. (2001). *Principles of Linguistic Change* (Vol. 2). Blackwell.
+- Milroy, L., & Gordon, M. J. (2003). *Sociolinguistics*. Blackwell.
 
-- Aikhenvald, Alexandra Y. (2000). *Classifiers: A Typology of Noun Categorization Devices*. Oxford University Press.
-- Allan, Keith (1977). "Classifiers." *Language* 53(2).

@@ -20,21 +20,23 @@ gaps: []
 
 # المسنِداتُ التصنيفيةُ والاتفاقُ المكانيُّ في لغة الإشارة
 
-ظاهرتان نحويّتان-صرفيّتان لا نظيرَ مباشرَ لهما في اللغات المنطوقة، تستغلّان الوسيطَ البصريَّ-المكانيَّ الذي تُنتَج فيه لغاتُ الإشارة استغلالاً نحوياً منظَّماً، لا مجرّد إيماءٍ تصويريٍّ حرّ.
+## Definition
 
-## المسنِداتُ التصنيفيةُ (Classifier Predicates)
+This concept concerns language variation across social contexts and communities. Sociolinguistics asks: How do social factors shape language? How does language reflect and create social structure?
 
-بنًى فعليةٌ معقَّدة يُدمَج فيها شكلُ اليد الذي يمثّل **فئةً** من الكائنات (شكلُ يدٍ لكائناتٍ طويلةٍ رفيعة، آخرُ للمركبات، آخرُ للأسطح المستوية) مع حركةٍ مكانيةٍ تصف كيفيةَ تحرّك ذلك الكائن أو موضعَه أو شكلَه — فبدل إشارةٍ معجميةٍ ثابتةٍ لفعل "سار"، يستعمل الموقِّعُ شكلَ يدٍ يمثّل فئةَ "الكائن المنتصب" ويحرّكه في الفضاء الإشاري بمسارٍ يصف مسارَ الحركة الفعليّ بدقّةٍ تحليلية، بحيث تحمل البنيةُ الواحدة معلوماتٍ نحويةً (الفئةُ الصرفية) ومعلوماتٍ تناظريةً تفصيلية (المسارُ والسرعةُ والاتجاه) معاً في آنٍ واحد.
+## Key Principles
 
-## الاتفاقُ الفعليُّ الموجَّهُ مكانياً (Spatial Verb Agreement)
+- Language variation is systematic and patterned
+- Variation correlates with social variables (class, gender, age, region)
+- Speakers have variable competence—multiple forms in their system
+- Language change proceeds through communities gradually
 
-تستعمل كثيرٌ من أفعال لغة الإشارة الفضاءَ الإشاريَّ المحيط بالموقِّع نظاماً نحوياً للاتفاق: يُخصَّص لكلّ مشاركٍ في الخطاب (المتكلم، المحاطَب، أطرافٌ غائبة) موضعٌ في الفضاء، ثم تتحرّك بعضُ الأفعال (كـ"أعطى" أو "سأل") من موضع الفاعل النحوي إلى موضع المفعول به في الفضاء نفسِه، مشفِّرةً العلاقةَ النحوية (من يفعل بمن) عبر اتجاه حركة الفعل مكانياً — نظامُ اتفاقٍ نحويٍّ كاملٍ لا مثيلَ مباشرَ له في اتفاق الفعل الصرفي باللواحق في اللغات المنطوقة.
+## Evidence
 
-## الأهميةُ النظرية
+Decades of sociolinguistic research show systematic relationships between linguistic forms and social factors. Language marks identity and social position. Community studies reveal variation within single communities.
 
-تُظهر هاتان الظاهرتان أن استغلال لغات الإشارة للوسيط المكانيّ-البصريّ ليس زخرفةً تصويريةً هامشية، بل **نظامٌ نحويٌّ منظَّمٌ بقواعد صرفية وتركيبية محدَّدة** يعمل بمنطقٍ مختلفٍ جوهرياً عن أنظمة الاتفاق الخطّية في اللغات المنطوقة مع أدائه وظائفَ نحويةً مكافئة، وهو من أقوى الأدلة على أن ملَكة اللغة البشرية تتكيّف بنيوياً مع خصائص الوسيط الذي تتحقّق فيه دون أن تفقد تنظيمَها القواعدي الصارم.
+## References
 
-## المصادر
+- Labov, W. (2001). *Principles of Linguistic Change* (Vol. 2). Blackwell.
+- Milroy, L., & Gordon, M. J. (2003). *Sociolinguistics*. Blackwell.
 
-- Sandler, Wendy; Lillo-Martin, Diane (2006). *Sign Language and Linguistic Universals*. Cambridge University Press.
-- Supalla, Ted (1986). "The Classifier System in American Sign Language." In Craig, C. (ed.), *Noun Classes and Categorization*. John Benjamins.

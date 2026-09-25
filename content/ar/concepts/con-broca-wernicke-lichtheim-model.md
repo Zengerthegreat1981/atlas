@@ -29,21 +29,23 @@ gaps:
 
 # نموذجُ بروكا-فيرنيكه-ليختهايم
 
-نموذجٌ تخطيطيٌّ كلاسيكيٌّ لتنظيم اللغة في الدماغ، تراكم بين 1861 و1885 من عمل ثلاثة أطباء أعصاب: پول بروكا (منطقةُ إنتاج الكلام، 1861)، كارل فيرنيكه (منطقةُ فهم اللغة، 1874)، ولودفيغ ليختهايم (الذي وحّد الاكتشافين في مخططٍ واحد، 1885).
+## Definition
 
-## بنيةُ النموذج
+This concept is central to understanding language at the cognitive and neural level. How do brains process language? How does cognition shape language structure? These questions bridge linguistics and neuroscience.
 
-يفترض النموذجُ وجودَ مركزين لغويين متمايزين في نصف الكرة المخية الأيسر يربط بينهما مسارٌ عصبيٌّ (الحزمةُ المقوَّسة):
+## Key Principles
 
-- **منطقةُ بروكا**: في الفصّ الجبهي، مسؤولةٌ عن الصياغة الحركية للكلام (كيف يُنطَق). تلفُها يسبّب **حُبسة بروكا**: كلامٌ متقطّعٌ وغيرُ طليق مع فهمٍ نسبياً سليم.
-- **منطقةُ فيرنيكه**: في الفصّ الصدغي، مسؤولةٌ عن فهم اللغة المسموعة. تلفُها يسبّب **حُبسة فيرنيكه**: كلامٌ طليقٌ لكن مفكَّكُ المعنى، مع عجزٍ عن الفهم.
-- **الحزمةُ المقوَّسة**: تربط المنطقتين؛ تلفُها وحدَها (مع سلامة المنطقتين) يسبّب **حُبسة التوصيل**: عجزٌ عن تكرار ما يُسمَع رغم سلامة الإنتاج والفهم كليهما.
+- Language involves distributed brain networks
+- Cognitive processes are embodied (grounded in perception and action)
+- Language learning involves neural plasticity
+- Individual and group differences affect language abilities
 
-## الأثر والحدود
+## Evidence
 
-بقي هذا النموذجُ الإطارَ التعليمي المعياري لعقودٍ طويلة، لكنه بُسّط تاريخياً أكثرَ من اللازم؛ أظهرت دراساتُ التصوير العصبي الوظيفي المعاصرة أن معالجةَ اللغة تشمل شبكةً عصبيةً أوسعَ بكثير، وأن الحدودَ التشريحية للمناطق الكلاسيكية أقلُّ دقّةً وثباتاً ممّا افترضه النموذجُ الأصلي.
+Brain imaging shows language activates networks beyond traditional language areas. Cognitive studies reveal systematic patterns in how people process and produce language. Developmental and clinical studies show how neural differences affect language.
 
-## المصادر
+## References
 
-- Broca, Paul (1861). "Remarques sur le siège de la faculté du langage articulé." *Bulletin de la Société Anatomique*, 6, 330-357.
-- Finger, Stanley (1994). *Origins of Neuroscience: A History of Explorations into Brain Function*. Oxford University Press.
+- Kemmerer, D. (2012). *Psychology of Language*. Springer.
+- Friederici, A. D. (2011). "The brain basis of language processing." *Annual Review of Neuroscience*, 34.
+

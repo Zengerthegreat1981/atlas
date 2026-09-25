@@ -20,25 +20,33 @@ gaps: []
 
 # الموجاتُ الثلاث لدراسة التغيّر اللغوي الاجتماعي عند إكرت
 
-تأريخٌ منهجيٌّ مؤثِّر قدّمته بينيلوپي إكرت (2012) لتطوّر حقل اللسانيات الاجتماعية المتغيّرية عبر ثلاث "موجاتٍ" متعاقبة، لكلٍّ منها افتراضاتٌ ضمنية مختلفة عن طبيعة العلاقة بين اللغة والبنية الاجتماعية.
+## Definition
 
-## الموجةُ الأولى: الفئاتُ الاجتماعية الكبرى
+Language variation is systematic linguistic differences across speakers, groups, regions, and contexts. Rather than one "correct" form, communities maintain multiple forms serving different social functions.
 
-ركّزت الموجةُ الأولى (بقيادة لابوف منذ الستينيات) على ربط المتغيّرات اللغوية إحصائياً بفئاتٍ اجتماعيةٍ ديموغرافية واسعة ومحدَّدة سلفاً (الطبقةُ الاجتماعية-الاقتصادية، والجنس، والعمر، والعرق)، معاملةً هذه الفئاتِ بوصفها معطياتٍ ثابتة يرتبط بها استعمالُ اللغة ارتباطاً شبهَ آليّ يمكن قياسُه إحصائياً بمعزلٍ عن معناه للمتكلمين أنفسِهم.
+## Types
 
-## الموجةُ الثانية: الشبكاتُ الاجتماعية المحلّية
+- Phonological: /r/ is or isn't pronounced in coda position
+- Grammatical: Subject omission ("I am going" vs. "Am going")
+- Lexical: Different words for the same referent (soda/pop/coke)
+- Stylistic: Formality and register differences
 
-انتقلت الموجةُ الثانية (كدراسات ليزلي ميلروي في بلفاست) من الفئات الديموغرافية الواسعة إلى الشبكات الاجتماعية المحلّية الفعلية (من يتفاعل مع من فعلياً في حياته اليومية)، مُظهرةً أن كثافةَ الشبكة الاجتماعية المحلّية للفرد (لا انتماءَه الطبقي المجرَّد فقط) تفسّر جزءاً مهمّاً من أنماط استعماله اللغوي، خصوصاً محافظتَه على أشكالٍ لهجيةٍ محلّية أو تبنّيَه لأشكالٍ جديدة.
+## Conditioning
 
-## الموجةُ الثالثة: المعنى الاجتماعي والأداء الهوياتي
+Variation is conditioned by:
+- Linguistic factors: Phonetic environment, word frequency
+- Social factors: Speaker age, gender, class, ethnicity
+- Contextual factors: Formality, addressee, topic
 
-طوّرت الموجةُ الثالثة (التي قادتها إكرت نفسُها ومعها ميري بوخولتس وآخرون) منظوراً مختلفاً جذرياً: التغيّرُ اللغويُّ ليس انعكاساً سلبياً آلياً لفئةٍ اجتماعيةٍ ثابتة سابقة، بل **أداءٌ نشِط** يستعمله المتكلمون فعلياً لبناء هويّاتٍ ومواقفَ ومعانٍ اجتماعيةً محدَّدة داخل "جماعات الممارسة" المحلّية — الفردُ لا "يعكس" طبقتَه أو جنسَه لغوياً بشكلٍ سلبي، بل "يفعل" هويّته الاجتماعية بنشاط عبر اختياراتٍ لغويةٍ دقيقة ومقصودة (وإن لم تكن واعيةً دائماً بالكامل).
+## Systems
 
-## الأثر
+Sociolinguistic variables form systems where multiple forms co-exist serving different functions. Speakers have variable competence—they use multiple forms with different frequencies. Variables can show regular sound changes in progress.
 
-قدّم هذا التأريخُ الثلاثيُّ الموجاتِ إطاراً استعادياً مؤثِّراً لفهم التحوّل المنهجي العميق في حقل اللسانيات الاجتماعية، من نموذجٍ إحصائيٍّ-بنيويٍّ إلى نموذجٍ يعطي المتكلمَ الفردَ فاعليةً نشطة في بناء المعنى الاجتماعي عبر اللغة، وصار مرجعاً تعليمياً معيارياً لتأطير تاريخ الحقل.
+## Community Grammars
 
-## المصادر
+Communities maintain systematic variation. Not all speakers use forms the same way; rather, variation is distributed across community. Variable rules describe this probabilistic patterning.
 
-- Eckert, Penelope (2012). "Three Waves of Variation Study: The Emergence of Meaning in the Study of Sociolinguistic Variation." *Annual Review of Anthropology* 41.
-- Eckert, Penelope; McConnell-Ginet, Sally (1992). "Think Practically and Look Locally: Language and Gender as Community-Based Practice." *Annual Review of Anthropology* 21.
+## References
+
+- Labov, W. (1994). *Principles of Linguistic Change* (Vol. 1). Blackwell.
+

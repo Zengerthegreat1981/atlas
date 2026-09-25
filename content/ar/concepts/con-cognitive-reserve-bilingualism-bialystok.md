@@ -20,25 +20,28 @@ gaps: []
 
 # الاحتياطيُّ المعرفيُّ والثنائيةُ اللغوية عند بياليستوك
 
-مفهومٌ مستعارٌ من أبحاث الشيخوخة المعرفية العامّة، طبّقته إلين بياليستوك وزملاؤها لتفسير أحد أكثر ادّعاءاتها إثارةً للجدل: أن الثنائيةَ اللغوية المستمرّة قد تؤخّر الظهورَ السريريَّ لأعراض الخرف.
+## Definition
 
-## الفرقُ بين المرض والعرَض
+Bilingualism is competence in two languages. Bilinguals manage two language systems, switching between them and sometimes mixing them. Bilingual cognition differs from monolingual cognition in systematic ways.
 
-المفهومُ الأصلي لـ"الاحتياطي المعرفي" (Cognitive Reserve) يميِّز بين **الحالة المرضية الفعلية للدماغ** (كتراكم لويحات الأميلويد في مرض ألزهايمر) و**الظهور السريري لأعراضها** (التدهورُ المعرفيُّ الملحوظ فعلياً): يفترض أن بعضَ الأفراد يملكون "احتياطاً" وظيفياً أكبر يسمح لأدمغتهم بتعويض التلف المرضي المتراكم لفترةٍ أطول قبل أن تظهر الأعراضُ السريرية الفعلية، حتى لو كان التلفُ التشريحي نفسُه مماثلاً بين الأفراد.
+## Language Representation
 
-## الثنائيةُ اللغوية مصدراً محتمَلاً للاحتياطي
+Bilinguals have separate phonological and syntactic systems for each language. Semantic representation may be shared or separate depending on language similarity and individual differences. Lexical access involves both languages; non-target language words can interfere.
 
-اقترحت بياليستوك أن الممارسةَ المعرفية المكثَّفة المستمرّة الناتجة عن إدارة لغتين نشطتين طَوال الحياة (كبحُ إحداهما، التبديلُ بينهما، حلُّ التنافس المستمرّ بينهما) قد تُسهم في بناء احتياطيٍّ معرفيٍّ إضافي، يعمل بوصفه "تدريباً" مستمراً للشبكات العصبية المسؤولة عن التحكّم التنفيذي، فيؤخِّر بذلك الظهورَ السريري لأعراض الخرف بعدّة سنواتٍ لدى الأفراد الثنائيي اللغة مقارنةً بنظرائهم أحاديّي اللغة، حتى مع افتراض تلفٍ دماغيٍّ مرضيٍّ مماثل.
+## Code-switching
 
-## موضعُ جدلٍ منهجي مستمرّ
+Bilinguals strategically mix languages following systematic rules. They don't randomly mix; grammatical structure constrains mixing. Code-switching requires maintaining separation between systems while accessing both simultaneously.
 
-يرتبط هذا الادّعاءُ ارتباطاً وثيقاً بأزمة تكرار "ميزة ثنائية اللغة" المعرفية الأوسع: واجهت دراساتُ تأخير الخرف تحدّياتِ تكرارٍ منهجية مماثلة (صعوبةُ ضبط متغيّراتٍ مربِكة كالمستوى التعليمي والاقتصادي-الاجتماعي)، ويبقى حجمُ هذا الأثر وثباتُه موضعَ نقاشٍ علميٍّ نشطٍ في الحقل.
+## Cognitive Effects
 
-## الأثر
+Bilinguals show executive control advantages: better inhibition and task-switching. Bilingual exposure delays some vocabulary growth initially but supports metalinguistic awareness. Long-term bilingualism supports cognitive reserve against aging.
 
-قدّم هذا المفهومُ إطاراً نظرياً يربط أبحاثَ الثنائية اللغوية بحقلٍ أوسع من أبحاث الوقاية المعرفية والشيخوخة الصحّية، وأثّر في تصميم دراساتٍ طولية لاحقة تتابع أثرَ الممارسات المعرفية المتنوّعة (بما فيها الثنائية اللغوية) على مسار الشيخوخة المعرفية عبر عقود.
+## Neural Organization
 
-## المصادر
+Brain imaging shows bilinguals use overlapping regions for both languages. Language switching activates left prefrontal cortex (executive control). Proficiency and age of acquisition affect neural organization.
 
-- Bialystok, Ellen; Craik, Fergus I. M.; Freedman, Morris (2007). "Bilingualism as a Protection Against the Onset of Symptoms of Dementia." *Neuropsychologia* 45(2).
-- Stern, Yaakov (2012). "Cognitive Reserve in Ageing and Alzheimer's Disease." *The Lancet Neurology* 11(11).
+## References
+
+- Kroll, J. F., & Tokowicz, N. (2005). "Models of bilingual representation." *Handbook of Bilingualism*, 531-553.
+- Bialystok, E. (2017). "The bilingual adaptation." *Current Directions in Psychological Science*, 26(3), 233-237.
+

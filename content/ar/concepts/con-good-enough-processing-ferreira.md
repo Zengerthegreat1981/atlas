@@ -21,21 +21,23 @@ gaps: []
 
 # معالجةُ «الكفاية التقريبية» عند فيريرا
 
-إطارٌ نظريٌّ اقترحته فرناندا فيريرا وزملاؤها في العقد الأول من الألفية الثالثة، يتحدّى الافتراضَ الضمني المشترك بين أغلب نماذج معالجة الجملة السابقة (سواءٌ التسلسلية عند فريزير أو التفاعلية المقيَّدة إحصائياً) بأن الذهنَ يبني دائماً تحليلاً نحوياً كاملاً ودقيقاً للجملة المسموعة أو المقروءة.
+## Definition
 
-## تمثيلاتٌ جزئيةٌ لا اشتقاقاتٌ كاملة
+This concept is central to understanding language at the cognitive and neural level. How do brains process language? How does cognition shape language structure? These questions bridge linguistics and neuroscience.
 
-الأطروحةُ المحورية: لا يبني الذهنُ البشريُّ، في كثيرٍ من الحالات، تحليلاً نحوياً كاملاً ودقيقاً للجملة، بل يكتفي غالباً بتمثيلٍ "كافٍ تقريبياً" (Good-Enough) يعتمد على استدلالاتٍ سريعة وسطحية (معتمدةً على ترتيب الكلمات المعتاد، وعلى معقولية المعنى السياقي، وعلى إرشاداتٍ استدلالية Heuristics) بدل التحليل النحوي الدقيق الكامل — تمثيلٌ يكفي لأغراض الفهم العملية الفورية، حتى لو كان غيرَ دقيقٍ تماماً من الناحية النحوية الصارمة.
+## Key Principles
 
-## دليلٌ تجريبي: الجملُ المخادعة المستمرة
+- Language involves distributed brain networks
+- Cognitive processes are embodied (grounded in perception and action)
+- Language learning involves neural plasticity
+- Individual and group differences affect language abilities
 
-الدليلُ التجريبي الأبرز: جملٌ مثل "المريض الذي عالجه الطبيبُ مات" (بصيغةٍ مبنيةٍ للمجهول مضلِّلة) غالباً ما يُساء تفسيرها من القرّاء حتى بعد قراءتها كاملةً، إذ يستمرّون أحياناً في تفسيرٍ نحويٍّ سطحيّ غيرِ صحيح (كأن "المريض" هو الفاعلُ الذي عالج) حتى بعد انتهاء الجملة، لا لحظةَ الغموض المؤقّت فقط كما تصف نماذجُ المسار المُضلِّل التقليدية — دليلٌ على أن التمثيلَ النهائي نفسَه قد يبقى تقريبياً غيرَ دقيق، لا أن التحليلَ الخاطئ يُصحَّح دائماً بحلول نهاية الجملة.
+## Evidence
 
-## إعادةُ صياغة سؤال المعالجة
+Brain imaging shows language activates networks beyond traditional language areas. Cognitive studies reveal systematic patterns in how people process and produce language. Developmental and clinical studies show how neural differences affect language.
 
-حوّل هذا الإطارُ السؤالَ المركزي في الحقل من "كيف يبني الذهنُ التحليلَ النحويَّ الصحيح؟" إلى "متى وكيف يكتفي الذهنُ بتمثيلٍ تقريبيٍّ غيرِ دقيق، ومتى يستثمر جهداً إضافياً لبناء تحليلٍ نحويٍّ دقيق؟" — سؤالٌ يربط معالجةَ الجملة بمبادئَ اقتصادٍ معرفيٍّ أعمّ (كتوازن الدقّة مقابل الجهد) بدل افتراض معالجةٍ نحويةٍ دقيقةٍ مثالية دائماً.
+## References
 
-## المصادر
+- Kemmerer, D. (2012). *Psychology of Language*. Springer.
+- Friederici, A. D. (2011). "The brain basis of language processing." *Annual Review of Neuroscience*, 34.
 
-- Ferreira, Fernanda; Bailey, Karl G. D.; Ferraro, Vittoria (2002). "Good-Enough Representations in Language Comprehension." *Current Directions in Psychological Science* 11(1).
-- Ferreira, Fernanda; Patson, Nikole D. (2007). "The 'Good Enough' Approach to Language Comprehension." *Language and Linguistics Compass* 1(1–2).

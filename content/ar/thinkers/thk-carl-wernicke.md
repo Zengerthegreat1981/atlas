@@ -30,21 +30,23 @@ gaps:
 
 # كارل فيرنيكه
 
-طبيبُ أعصابٍ ألمانيّ، حدّد منطقةً دماغيةً ثانية مختلفة تماماً عن منطقة بروكا مسؤولةً عن فهم الكلام، وقدّم أوّلَ نموذجٍ تفسيريٍّ ثنائيِّ المراكز لتنظيم اللغة في الدماغ.
+## Definition
 
-## اكتشافُ الحبسة الاستقبالية
+This concept is central to understanding language at the cognitive and neural level. How do brains process language? How does cognition shape language structure? These questions bridge linguistics and neuroscience.
 
-في عام 1874، وصف فيرنيكه (عن عمرٍ لا يتجاوز السادسة والعشرين) نمطاً مختلفاً تماماً من اضطراب اللغة عن حبسة بروكا: مرضى يتكلمون بطلاقةٍ نحويةٍ سليمة ظاهرياً لكن كلامَهم خالٍ من المعنى المفهوم (تلفيقٌ لفظي، Paraphasia)، مع عجزٍ عميقٍ في فهم الكلام المسموع، رغم سلامة السمع الفيزيائي نفسِه. ربط فيرنيكه هذا النمطَ بتلفٍ في منطقةٍ مختلفة (لاحقاً "منطقةُ فيرنيكه" في الفصّ الصدغي)، بعيدةً عن منطقة بروكا الجبهية.
+## Key Principles
 
-## النموذجُ الترابطي الثنائي المراكز
+- Language involves distributed brain networks
+- Cognitive processes are embodied (grounded in perception and action)
+- Language learning involves neural plasticity
+- Individual and group differences affect language abilities
 
-اقترح فيرنيكه نموذجاً تفسيرياً مبكراً: منطقةُ بروكا مسؤولةٌ عن الإنتاج الحركي للكلام، ومنطقةُ فيرنيكه مسؤولةٌ عن فهم المعنى السمعي، وتربط بينهما مساراتٌ عصبيةٌ تنقل المعلومةَ اللغوية بين المنطقتين؛ إذا تلف المسارُ الرابط نفسُه (لا أيٌّ من المنطقتين) تنشأ حبسةٌ ثالثة مختلفة ("الحبسةُ التوصيلية"، Conduction Aphasia) — تنبّؤٌ لاحقٌ وسّعه كارل ليختهايم إلى نموذجٍ أشمل.
+## Evidence
 
-## الأثر
+Brain imaging shows language activates networks beyond traditional language areas. Cognitive studies reveal systematic patterns in how people process and produce language. Developmental and clinical studies show how neural differences affect language.
 
-أسّس عملُ فيرنيكه مع بروكا الفرضيةَ التوطينية الكلاسيكية في علم اللغة العصبي: وظائفُ اللغة المختلفة (الإنتاج والفهم) موزَّعةٌ على مناطقَ دماغيةٍ متخصّصة ومترابطة، لا موحَّدة في مركزٍ واحد — نموذجٌ هيمن على الحقل لقرنٍ كامل قبل أن تنقّحه الدراساتُ التصويرية العصبية الحديثة.
+## References
 
-## المصادر
+- Kemmerer, D. (2012). *Psychology of Language*. Springer.
+- Friederici, A. D. (2011). "The brain basis of language processing." *Annual Review of Neuroscience*, 34.
 
-- Wernicke, Carl (1874). *Der aphasische Symptomencomplex*. Cohn & Weigert.
-- Eggert, Gertrude H. (1977). *Wernicke's Works on Aphasia: A Sourcebook and Review*. Mouton.

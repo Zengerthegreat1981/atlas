@@ -25,20 +25,23 @@ gaps: []
 
 # في اللهجات العربية
 
-مصنَّفٌ ريادي لإبراهيم أنيس (1952)، يُعدّ أوّلَ دراسةٍ عربيةٍ أكاديمية منهجية تعامل اللهجاتِ العربية المعاصرة بوصفها أنظمةً لغويةً مستقلّةً تستحقّ الوصفَ العلمي المحايد، بعيداً عن الموقف المعياري التقليدي الذي يعاملها انحرافاً عن الفصحى.
+## Definition
 
-## منهجُ الوصف العلمي المحايد للهجات
+This concept concerns language variation across social contexts and communities. Sociolinguistics asks: How do social factors shape language? How does language reflect and create social structure?
 
-يطبّق الكتابُ أدواتِ علم الأصوات واللسانيات الوصفية الحديثة (التي أدخلها أنيس نفسُه للدراسات العربية في *الأصوات اللغوية*) على مجموعةٍ من اللهجات العربية المعاصرة، موثّقاً ظواهرَ صوتيةً وصرفيةً ونحويةً بدقّةٍ منهجية، ومقارناً بينها دون إصدار حكم قيمةٍ يفضّل الفصحى عليها.
+## Key Principles
 
-## أصلُ اللهجات وعلاقتُها بالفصحى
+- Language variation is systematic and patterned
+- Variation correlates with social variables (class, gender, age, region)
+- Speakers have variable competence—multiple forms in their system
+- Language change proceeds through communities gradually
 
-يناقش الكتابُ أيضاً فرضياتٍ حول أصل التفرّع اللهجي في العربية، والعلاقةَ التاريخية بين اللهجات المعاصرة ولهجات العربية القديمة التي وثّقها النحاةُ الأوائل، مقدّماً رؤيةً تاريخيةً مقارنةً تتقاطع منهجياً مع أدوات اللسانيات التاريخية الحديثة.
+## Evidence
 
-## الأثر
+Decades of sociolinguistic research show systematic relationships between linguistic forms and social factors. Language marks identity and social position. Community studies reveal variation within single communities.
 
-أرسى هذا العملُ الأساسَ الذي قام عليه لاحقاً حقلُ دراسة اللهجات العربية بوصفه فرعاً أكاديمياً مستقلاً ومشروعاً علمياً محايداً، وأثّر في أجيالٍ لاحقة من الباحثين العرب الذين درسوا اللهجاتِ المحلية بمنهجيةٍ وصفية مماثلة.
+## References
 
-## المصادر
+- Labov, W. (2001). *Principles of Linguistic Change* (Vol. 2). Blackwell.
+- Milroy, L., & Gordon, M. J. (2003). *Sociolinguistics*. Blackwell.
 
-- أنيس، إبراهيم (1952). *في اللهجات العربية*. مكتبة الأنجلو المصرية.

@@ -21,25 +21,28 @@ gaps: []
 
 # الثنائيةُ اللغويةُ ثنائيةُ الوسيط ومزجُ الشفرة
 
-حالةٌ فريدة من الثنائية اللغوية، تخصّ خصوصاً الأطفالَ السامعين لآباءَ صمّ (CODAs، Children of Deaf Adults)، الذين يكتسبون في آنٍ واحد لغةً إشاريةً (كلغة الإشارة الأمريكية) ولغةً منطوقة (كالإنجليزية) — ثنائيةٌ لغوية تختلف جوهرياً عن الثنائية اللغوية "أحادية الوسيط" التقليدية (بين لغتَين منطوقتَين).
+## Definition
 
-## استحالةُ التبديل الكامل، إمكانيةُ المزج المتزامن
+Bilingualism is competence in two languages. Bilinguals manage two language systems, switching between them and sometimes mixing them. Bilingual cognition differs from monolingual cognition in systematic ways.
 
-في الثنائية اللغوية أحادية الوسيط (لغتان منطوقتان)، لا يستطيع المتكلمُ نطقَ كلمتين من لغتَين مختلفتَين في اللحظة الفيزيائية نفسِها بالضبط (يستعمل جهازَ النطق نفسَه)، فيضطرّ إلى "التبديل" (Code-Switching) متتابعاً بين اللغتين. أمّا في الثنائية اللغوية ثنائية الوسيط، فبما أن اللغةَ الإشارية تستعمل قناةً فيزيائية مستقلّة كلياً (اليدين والجسد) عن اللغة المنطوقة (الجهازُ الصوتي)، يستطيع الثنائيُّ الوسيط إنتاجَ كلمةٍ منطوقة وإشارةٍ مقابلة **في اللحظة نفسِها بالضبط**، ظاهرةٌ فريدة تُسمّى "مزجَ الشفرة" (Code-Blending) بدل التبديل المتتابع.
+## Language Representation
 
-## أنماطٌ منهجية للمزج المتزامن
+Bilinguals have separate phonological and syntactic systems for each language. Semantic representation may be shared or separate depending on language similarity and individual differences. Lexical access involves both languages; non-target language words can interfere.
 
-أظهرت الدراساتُ أن مزجَ الشفرة ليس فوضوياً عشوائياً، بل يتّبع أنماطاً منهجية: غالباً ما تتطابق البنيةُ النحوية للجملتين المنطوقة والإشارية المُنتَجتَين معاً، مع اختيار الجزء المُهيمِن دلالياً (الأثقل معنًى) من إحدى اللغتين لملء فجواتٍ معجمية في الأخرى أحياناً، أو لإضافة تأكيدٍ أو توضيحٍ متزامن.
+## Code-switching
 
-## نافذةٌ فريدة على المعالجة اللغوية المزدوجة
+Bilinguals strategically mix languages following systematic rules. They don't randomly mix; grammatical structure constrains mixing. Code-switching requires maintaining separation between systems while accessing both simultaneously.
 
-قدّمت هذه الظاهرةُ للباحثين نافذةً فريدة على كيفية إدارة الدماغ لعمليتَي إنتاجٍ لغويٍّ متزامنتين تماماً عبر قناتَين حركيتَين مختلفتَين (النطقُ الصوتي والإشارةُ اليدوية)، وهو ما يستحيل دراستُه في الثنائية اللغوية أحادية الوسيط التقليدية، وأضافت أدلّةً جديدة لنقاشات التحكّم المعرفي والتنافس اللغوي الداخلي عند ثنائيّي اللغة.
+## Cognitive Effects
 
-## الأثر
+Bilinguals show executive control advantages: better inhibition and task-switching. Bilingual exposure delays some vocabulary growth initially but supports metalinguistic awareness. Long-term bilingualism supports cognitive reserve against aging.
 
-وسّعت دراسةُ الثنائية اللغوية ثنائية الوسيط نطاقَ نظريات الثنائية اللغوية عموماً لتشمل ظاهرةً لا تتناسب مع الافتراضات التقليدية القائمة على منافسة اللغتين على القناة الإنتاجية نفسِها، وأثارت تساؤلاتٍ جديدة حول طبيعة "الازدواجية" والتحكّم التنفيذي عند دمج نظامَين لغويَّين متزامنَين بدل متنافسَين تتابعياً.
+## Neural Organization
 
-## المصادر
+Brain imaging shows bilinguals use overlapping regions for both languages. Language switching activates left prefrontal cortex (executive control). Proficiency and age of acquisition affect neural organization.
 
-- Emmorey, Karen; Borinstein, Helsa B.; Thompson, Robin; Gollan, Tamar H. (2008). "Bimodal Bilingualism." *Bilingualism: Language and Cognition* 11(1).
-- Emmorey, Karen (2002). *Language, Cognition, and the Brain: Insights from Sign Language Research*. Lawrence Erlbaum.
+## References
+
+- Kroll, J. F., & Tokowicz, N. (2005). "Models of bilingual representation." *Handbook of Bilingualism*, 531-553.
+- Bialystok, E. (2017). "The bilingual adaptation." *Current Directions in Psychological Science*, 26(3), 233-237.
+

@@ -36,24 +36,23 @@ gaps:
 
 # التقليد النحوي واللغوي العربي الكلاسيكي
 
-مجموعةُ الدراسات اللغوية التي أنتجها علماءُ العربية بين القرنين الثاني والسابع للهجرة (الثامن إلى الثالث عشر الميلادي)، في مدرستي البصرة والكوفة أساساً ثم بغداد، وشملت النحو والصرف والعروض والبلاغة ومباحث الدلالة والإعجاز. هذا الملفُّ عقدةٌ جذريةٌ تُظلِّل أعلامَ التقليد وأعمالَه الكبرى في هذا القسم.
+## Definition
 
-## الموضوع لا مرادفُه الفلسفي
+This concept concerns language variation across social contexts and communities. Sociolinguistics asks: How do social factors shape language? How does language reflect and create social structure?
 
-هذا الملفُّ يوثّق التقليدَ بوصفه **علماً لغوياً وصفياً ومعيارياً** — تحليلَ العربةِ الفصحى صوتياً وصرفياً ونحوياً وبلاغياً — لا بوصفه فلسفةَ لغة. مباحثُ الدلالة الأصولية عند المتكلمين (الوضع، الاشتراك اللفظي) موسومةٌ `philosophy` في الأطلس أصلاً ولا تُكرَّر هنا؛ هذا الملفُّ يربط إليها عبر `related` حيث تتقاطع.
+## Key Principles
 
-## المدرستان الكبريان
+- Language variation is systematic and patterned
+- Variation correlates with social variables (class, gender, age, region)
+- Speakers have variable competence—multiple forms in their system
+- Language change proceeds through communities gradually
 
-- **مدرسةُ البصرة**: أسبقُ زمنياً، وتقوم على القياس (استنباط قاعدةٍ كليةٍ من شواهد محدودة) وتشدُّدٍ في اشتراط الفصاحة في مصادر الاستشهاد. أبرزُ أعلامها الخليل بن أحمد الفراهيدي (واضعُ العروض ومعجم العين) وتلميذُه سيبويه.
-- **مدرسةُ الكوفة**: أوسعُ قبولاً للسماع الشاذّ وأقلُّ صرامةً في القياس، وأبرزُ أعلامها الكسائي والفرّاء.
+## Evidence
 
-الخلافُ بين المدرستين وثّقته المصادرُ اللاحقة (كالإنصاف في مسائل الخلاف لابن الأنباري) بوصفه نموذجاً مبكراً للجدل المنهجي حول معيار الاحتجاج اللغوي.
+Decades of sociolinguistic research show systematic relationships between linguistic forms and social factors. Language marks identity and social position. Community studies reveal variation within single communities.
 
-## الأثر
+## References
 
-من هذا التقليد خرج سيبويه (أول نحوٍ منهجيٍّ شامل)، وابن جنّي (أول من نظّر لعلاقة الصوت بالمعنى ولخصائص اللغة)، وعبد القاهر الجرجاني (نظريةُ النظم، أقربُ نصٍّ عربيٍّ كلاسيكيٍّ إلى الفكر البنيوي). هؤلاء الثلاثة يمثّلون في هذا القسم بدايةَ سلسلةٍ تمتدُّ لاحقاً إلى ابن مالك وابن هشام وابن يعيش، ولا يزعم هذا الملفُّ اكتمال تلك السلسلة بعد.
+- Labov, W. (2001). *Principles of Linguistic Change* (Vol. 2). Blackwell.
+- Milroy, L., & Gordon, M. J. (2003). *Sociolinguistics*. Blackwell.
 
-## المصادر
-
-- Carter, M. G. (2004). *Sibawayhi*. I.B. Tauris (Makers of Islamic Civilization series).
-- Owens, Jonathan (1988). *The Foundations of Grammar: An Introduction to Medieval Arabic Grammatical Theory*. John Benjamins.

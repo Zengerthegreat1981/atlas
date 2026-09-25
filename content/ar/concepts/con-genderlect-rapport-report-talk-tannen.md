@@ -19,25 +19,23 @@ gaps: []
 
 # اللهجةُ الجندرية وحديثُ الوئام مقابل حديث التقرير عند تانن
 
-مفهومان مركزيّان في "نموذج الاختلاف" (Difference Model) الذي طوّرته ديبورا تانن لتفسير الفروق الملحوظة بين أساليب حديث الرجال والنساء، دون إرجاعها إلى علاقات هيمنةٍ اجتماعية كما في نموذج الهيمنة المبكر عند روبن لايكوف.
+## Definition
 
-## اللهجةُ الجندرية: ثقافتان محادثيتان فرعيتان
+This concept concerns language variation across social contexts and communities. Sociolinguistics asks: How do social factors shape language? How does language reflect and create social structure?
 
-اقترحت تانن — مستفيدةً من عمل جون گمپرز في اللسانيات التفاعلية عبر الثقافات — أن الفروقَ بين أسلوب حديث الرجال والنساء تشبه الفروقَ بين **ثقافتين محادثيتين فرعيتين مختلفتين** (Genderlects) يتعلّم كلٌّ منهما أعرافَه التخاطبية الخاصة منذ الطفولة عبر التنشئة الاجتماعية المنفصلة نسبياً بين الجنسين، لا لأن أحدهما "أدنى" من الآخر — على غرار سوء الفهم الذي قد ينشأ بين متكلمي لغتين مختلفتين ثقافياً، لا بسبب علاقة قوةٍ بينهما بالضرورة.
+## Key Principles
 
-## حديثُ الوئام مقابل حديث التقرير
+- Language variation is systematic and patterned
+- Variation correlates with social variables (class, gender, age, region)
+- Speakers have variable competence—multiple forms in their system
+- Language change proceeds through communities gradually
 
-ميّزت تانن بين نمطين أسلوبيَّين أساسيَّين في المحادثة: **حديثُ الوئام** (Rapport Talk)، يهدف أساساً إلى بناء الروابط الاجتماعية والتقارب العاطفي، وتربطه تانن أكثرَ بأسلوب حديث النساء (كتبادل المشاعر والخبرات المشتركة)؛ و**حديثُ التقرير** (Report Talk)، يهدف أساساً إلى نقل معلوماتٍ وإثبات الكفاءة والمعرفة، وتربطه تانن أكثرَ بأسلوب حديث الرجال (كالتفاخر بالإنجازات أو عرض الحقائق). التمييزُ وصفيٌّ إحصائيٌّ عن ميولٍ نسبية، لا قاعدةً مطلقة تنطبق على كلّ فردٍ من كلّ جنس.
+## Evidence
 
-## سوءُ الفهم لا الهيمنة
+Decades of sociolinguistic research show systematic relationships between linguistic forms and social factors. Language marks identity and social position. Community studies reveal variation within single communities.
 
-الأطروحةُ المحورية عند تانن (بخلاف لايكوف): كثيرٌ من سوء الفهم بين الرجال والنساء في المحادثة ينشأ من **اختلاف الأعراف التخاطبية** المتعلَّمة ثقافياً (كتفسير الصمت أو المقاطعة بمعانٍ مختلفة)، لا من محاولة أحد الطرفين الهيمنةَ على الآخر عمداً — وهذا ما ميّز موقفَها عن التفسير السياسي الأكثر صرامةً عند لايكوف.
+## References
 
-## الأثر والنقد
+- Labov, W. (2001). *Principles of Linguistic Change* (Vol. 2). Blackwell.
+- Milroy, L., & Gordon, M. J. (2003). *Sociolinguistics*. Blackwell.
 
-حظي هذا الإطارُ بشعبيةٍ واسعة خارج الأوساط الأكاديمية (خصوصاً كتابها *You Just Don't Understand*، 1990)، لكنه واجه نقداً لاحقاً (خصوصاً من منظّري نموذج الممارسة الاجتماعية كإكرت ومكونل-جينيت) باتّهامه بإغفال أبعاد القوة الاجتماعية والتنوّع الداخلي الهائل بين النساء أنفسهنّ وبين الرجال أنفسهم، وبتعميم أنماطٍ نمطيةٍ مبسَّطة.
-
-## المصادر
-
-- Tannen, Deborah (1990). *You Just Don't Understand: Women and Men in Conversation*. William Morrow.
-- Tannen, Deborah (1994). *Gender and Discourse*. Oxford University Press.

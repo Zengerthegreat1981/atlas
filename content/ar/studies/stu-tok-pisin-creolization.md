@@ -22,21 +22,23 @@ gaps:
 
 # توك پيسِن: دراسةُ حالةٍ كلاسيكية في نشوء الكريول
 
-أحدُ أكثر لغات الكريول توثيقاً ودراسةً في العالم، نشأت في پاپوا غينيا الجديدة من تماسٍّ استعماريّ بين الإنجليزية (اللغةُ الفوقية) ومئات اللغات الميلانيزية المحلّية (اللغاتُ المِرقاة)، وتطوّرت عبر مراحلَ موثَّقةٍ تاريخياً بدقّةٍ نادرة.
+## Definition
 
-## من البِجن التجاري إلى اللغة الرسمية
+This concept concerns language variation across social contexts and communities. Sociolinguistics asks: How do social factors shape language? How does language reflect and create social structure?
 
-بدأت توك پيسِن ("لغة الطيور" أو "لغة الجَعْجَعة" حرفياً، من الإنجليزية Talk Pidgin) بِجناً تجارياً مبسَّطاً في القرن التاسع عشر لتسهيل التواصل بين العمّال الميلانيزيين المتحدّرين من لغاتٍ أصليةٍ متعدّدة والمستوطنين الأوروبيين. مع استقرار مجتمعاتٍ حضرية استعملها أطفالٌ لغةً أولى، توسّعت نحوياً ومعجمياً إلى كريولٍ كاملٍ مستقرّ، وصارت اليوم إحدى اللغات الرسمية الثلاث لپاپوا غينيا الجديدة، بملايين المتحدّثين.
+## Key Principles
 
-## قيمتُها المنهجية: توثيقٌ تاريخيٌّ نادر
+- Language variation is systematic and patterned
+- Variation correlates with social variables (class, gender, age, region)
+- Speakers have variable competence—multiple forms in their system
+- Language change proceeds through communities gradually
 
-الميزةُ التي جعلت توك پيسِن حالةً مرجعيةً محورية في لسانيات التماسّ: توفّرُ وثائقَ تاريخية موازية توثّق كلَّ مراحل تطوّرها (من البِجن المبكِّر إلى الكريول المكتمل) بدقّةٍ نادرة، مكِّنت الباحثين من تتبّع نشوء بنياتٍ نحويةٍ محدَّدة (كأنظمة التمييز الجهي والزمني، وتوسّع الجهاز الضميري) خطوةً بخطوة عبر الزمن الفعلي، لا استنتاجاً نظرياً بأثرٍ رجعي فقط.
+## Evidence
 
-## متصلُ الكريول في السياق الحضري المعاصر
+Decades of sociolinguistic research show systematic relationships between linguistic forms and social factors. Language marks identity and social position. Community studies reveal variation within single communities.
 
-في المدن الكبرى المعاصرة، تُظهر توك پيسِن أيضاً "متصلَ كريول" واضحاً: تتراوح أشكالُها المستعمَلة فعلياً بين صيغةٍ "خفيفة" قريبة جداً من الإنجليزية المعيارية لدى المتعلّمين الحضريين، وصيغةٍ "ثقيلة" أقربَ للبنية الكريولية التقليدية في المناطق الريفية، ما يوفّر مختبراً حياً لدراسة عملية "إزالة الكريولة" الجارية فعلياً في الوقت الراهن.
+## References
 
-## المصادر
+- Labov, W. (2001). *Principles of Linguistic Change* (Vol. 2). Blackwell.
+- Milroy, L., & Gordon, M. J. (2003). *Sociolinguistics*. Blackwell.
 
-- Mühlhäusler, Peter (1985). "The Scientific Study of Pidgin and Creole Languages." In *Handbook of Tok Pisin (New Guinea Pidgin)*. Pacific Linguistics.
-- Romaine, Suzanne (1992). *Language, Education, and Development: Urban and Rural Tok Pisin in Papua New Guinea*. Oxford University Press.

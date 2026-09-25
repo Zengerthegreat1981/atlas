@@ -24,24 +24,23 @@ gaps:
 
 # نموذجُ التفعيل التفاعلي الثنائي اللغة الموسَّع (BIA+)
 
-نموذجٌ حاسوبيٌّ لمعالجة اللغة صاغه تون ديكسترا ووالتر ﭬان هوﭬن (2002)، يفسّر كيف يتعرّف ذهنُ ثنائي اللغة على كلماتٍ مكتوبةً أو مسموعة، مفترضاً أن **كلا معجمَي اللغتين ينشطان معاً تلقائياً وبالتوازي** عند إدراك أيّ كلمة، بصرف النظر عن اللغة التي "ينوي" المتكلم استعمالَها في تلك اللحظة.
+## Definition
 
-## التفعيلُ المتوازي غيرُ الانتقائي
+This concept is central to understanding language at the cognitive and neural level. How do brains process language? How does cognition shape language structure? These questions bridge linguistics and neuroscience.
 
-الافتراضُ المحوري: حين يرى أو يسمع ثنائيُّ اللغة كلمةً، لا يُفعَّل معجمُ لغةٍ واحدة فقط بناءً على السياق، بل تنشط **مرشّحاتٌ محتملة من كلا اللغتين معاً** بالتوازي في اللحظة الأولى من المعالجة (خصوصاً حين تتشابه الكلمةُ شكلياً بين اللغتين، كالكلمات المتشابهة في الإملاء Cognates أو الكلمات المتماثلة الشكل المختلفة المعنى Interlingual Homographs)، ثم يُختار المرشّحُ الصحيحُ تدريجياً عبر عملياتٍ لاحقةٍ من التثبيط التنافسي بين المرشّحين، لا عبر إقصاءٍ مسبَق للغة غير المقصودة.
+## Key Principles
 
-## عواملُ السياق غيرُ اللغوية (نظامُ التحكّم)
+- Language involves distributed brain networks
+- Cognitive processes are embodied (grounded in perception and action)
+- Language learning involves neural plasticity
+- Individual and group differences affect language abilities
 
-أضاف "+ " في اسم النموذج (مقارنةً بنموذج BIA الأصلي الأبسط) مكوّناً معرفياً منفصلاً هو "نظامُ التحكّم" (Task/Decision System): مجموعةٌ من العوامل السياقية غير اللغوية (كتوقّعات المهمّة، والسياق التخاطبي، وهوية المحاطَب) التي **لا تمنع** التفعيلَ المتوازي للغتين في المستوى المعجمي نفسِه، لكنها تتدخّل لاحقاً في مستوى القرار لتوجيه الاستجابة النهائية نحو اللغة المناسبة للسياق.
+## Evidence
 
-## الأدلةُ التجريبية الداعمة
+Brain imaging shows language activates networks beyond traditional language areas. Cognitive studies reveal systematic patterns in how people process and produce language. Developmental and clinical studies show how neural differences affect language.
 
-يُدعَم النموذجُ بأدلّةٍ تجريبيةٍ قوية من دراسات زمن الاستجابة: يتعرّف ثنائيو اللغة على الكلمات المتشابهة إملائياً بين لغتيهما (Cognates) أسرعَ من الكلمات غير المتشابهة، وتتباطأ استجاباتهم أمام الكلمات المتماثلة الشكل المختلفة المعنى (False Friends/Interlingual Homographs) — نمطٌ يصعب تفسيره لو كان معجمُ اللغة غير المستعمَلة مُقصًى تماماً من المعالجة.
+## References
 
-## الأثر
+- Kemmerer, D. (2012). *Psychology of Language*. Springer.
+- Friederici, A. D. (2011). "The brain basis of language processing." *Annual Review of Neuroscience*, 34.
 
-قدّم نموذجُ BIA+ إطاراً حاسوبياً دقيقاً لفهم الأساس المعرفي الذي يستلزم آليةَ التحكّم الكابح أو التكيّفي عند غرين لاحقاً: بما أن كلا المعجمين ينشطان تلقائياً معاً، فلا بدّ من آليةِ تحكّمٍ لاحقةٍ تُدير هذا التنافسَ — وهو ما يربط نموذجَ التفعيل المعجمي بنماذج التحكّم التنفيذي في حقل ثنائية اللغة والدماغ.
-
-## المصادر
-
-- Dijkstra, Ton; van Heuven, Walter J. B. (2002). "The Architecture of the Bilingual Word Recognition System: From Identification to Decision." *Bilingualism: Language and Cognition* 5(3).

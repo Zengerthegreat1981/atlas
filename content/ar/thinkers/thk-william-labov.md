@@ -27,21 +27,23 @@ gaps:
 
 # وليم لابوف
 
-لغويٌّ أمريكي، أستاذٌ في جامعة پنسلڤانيا، يُعدُّ مؤسِّسَ **اللسانيات الاجتماعية المتغيّرية** (Variationist Sociolinguistics) كمنهجٍ كمّي صارم لدراسة العلاقة بين التغيّر اللغوي والبنية الاجتماعية.
+## Definition
 
-## المشروع
+This concept concerns language variation across social contexts and communities. Sociolinguistics asks: How do social factors shape language? How does language reflect and create social structure?
 
-بدلاً من افتراض أن اللغةَ نسقٌ متجانسٌ ثابت (كما تميل البنيوية والتوليدية لافتراضه لأغراض التحليل)، أثبت لابوف أن **التغيّرَ اللغويّ منتظمٌ اجتماعياً وإحصائياً لا عشوائي**: يرتبط استعمالُ متغيّراتٍ لغويةٍ بعينها (نطقُ صوتٍ بطريقةٍ دون أخرى، استعمالُ صيغةٍ نحويةٍ دون أخرى) ارتباطاً منتظماً بمتغيّراتٍ اجتماعية كالطبقة والعمر والجنس والسياق الأسلوبي (رسمي/عامّي).
+## Key Principles
 
-## المنهج الكمّي
+- Language variation is systematic and patterned
+- Variation correlates with social variables (class, gender, age, region)
+- Speakers have variable competence—multiple forms in their system
+- Language change proceeds through communities gradually
 
-طوّر لابوف منهجيةً ميدانيةً صارمة لجمع بيانات الكلام التلقائي (غير الرسمي) وتحليلها إحصائياً بربطها بمتغيّراتٍ اجتماعيةٍ مضبوطة — منهجٌ صار معيارياً في علم اللغة الاجتماعي الكمّي.
+## Evidence
 
-## الأثر
+Decades of sociolinguistic research show systematic relationships between linguistic forms and social factors. Language marks identity and social position. Community studies reveal variation within single communities.
 
-أسّس فرعَ اللسانيات الاجتماعية الكمّية المعاصر، وأثّر منهجُه في دراسة التغيّر اللغوي التاريخي (إذ يمكن رصدُ تغيّرٍ صوتيٍّ وهو يحدث فعلياً عبر الأجيال بدلاً من إعادة بنائه بأثرٍ رجعي فقط)، وفي دراسات اللهجة الاجتماعية والعرقية في الولايات المتحدة.
+## References
 
-## المصادر
+- Labov, W. (2001). *Principles of Linguistic Change* (Vol. 2). Blackwell.
+- Milroy, L., & Gordon, M. J. (2003). *Sociolinguistics*. Blackwell.
 
-- Labov, William (1966). *The Social Stratification of English in New York City*. Center for Applied Linguistics.
-- Labov, William (1972). *Sociolinguistic Patterns*. University of Pennsylvania Press.

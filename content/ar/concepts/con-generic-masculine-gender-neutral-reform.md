@@ -22,25 +22,23 @@ gaps:
 
 # المذكَّرُ التعميمي وإصلاحُ اللغة المحايدة جندرياً
 
-نقاشٌ لغويٌّ-اجتماعيٌّ ممتدّ منذ السبعينيات، يفحص استعمالَ صيغة المذكَّر بوصفها "معياراً تعميمياً" افتراضياً يشمل الجنسَين معاً (كضمير "he" الإنجليزي بمعنى "أيّ شخص")، والجهودَ اللاحقة لإصلاح هذا الاستعمال نحو صيغٍ أكثرَ حياداً جندرياً.
+## Definition
 
-## فرضيةُ التحيّز المعرفي الضمني
+This concept concerns language variation across social contexts and communities. Sociolinguistics asks: How do social factors shape language? How does language reflect and create social structure?
 
-جادل باحثون منذ السبعينيات بأن استعمال المذكَّر "التعميمي" ليس محايداً فعلياً في المعالجة الذهنية الفعلية: أظهرت دراساتٌ تجريبية أن قرّاءَ جملٍ تستعمل "he" التعميمي يميلون لتخيّل شخصيةٍ ذكرٍ فعلياً بمعدّلاتٍ أعلى من المتوقَّع لو كانت الصيغةُ محايدةً فعلاً في الإدراك الذهني، ما يدعم فرضيةَ أن هذا الاستعمالَ اللغوي يحمل تحيّزاً معرفياً ضمنياً يُبرِز الذكورةَ الافتراضية بدل الحياد الحقيقي.
+## Key Principles
 
-## استراتيجياتُ الإصلاح اللغوي
+- Language variation is systematic and patterned
+- Variation correlates with social variables (class, gender, age, region)
+- Speakers have variable competence—multiple forms in their system
+- Language change proceeds through communities gradually
 
-اقترحت حركاتُ إصلاح اللغة استراتيجياتٍ متعدّدة: استعمالُ "هم/هي" (He or She) صراحةً، أو استعمالُ ضمير الجمع المفرد ("Singular They" في الإنجليزية، حلٌّ تاريخيٌّ قديم أعيد إحياؤه)، أو إعادةُ صياغة الجملة بصيغة الجمع لتجنّب الحاجة لضميرٍ مفردٍ جنساني، أو ابتكارُ ضمائرَ محايدةٍ جديدة كلياً (كـ"Ze" أو "Hen" في بعض اللغات الاسكندنافية والإنجليزية).
+## Evidence
 
-## اللغاتُ ذاتُ النحو الجندري الإلزامي: تحدٍّ أكبر
+Decades of sociolinguistic research show systematic relationships between linguistic forms and social factors. Language marks identity and social position. Community studies reveal variation within single communities.
 
-تختلف صعوبةُ هذا الإصلاح باختلاف بنية اللغة نفسِها: تواجه اللغاتُ ذاتُ النحو الجندري الإلزامي الصارم (كالعربية والفرنسية والألمانية، حيث يُصرَّف كلُّ اسمٍ وصفةٍ وفعلٍ حسب الجندر النحوي) تحدّياتٍ إصلاحيةً أعمق بكثير من اللغات ذاتِ التمييز الجندري المحدود (كالإنجليزية، حيث ينحصر التمييزُ أساساً في الضمائر المفردة)، ما أنتج استراتيجياتٍ إصلاحيةً متنوّعة (كعلامات الفصل المرئية أو الازدواج اللفظي الصريح "كلُّ طالبٍ وطالبة") تختلف جذرياً بين اللغات.
+## References
 
-## الأثر
+- Labov, W. (2001). *Principles of Linguistic Change* (Vol. 2). Blackwell.
+- Milroy, L., & Gordon, M. J. (2003). *Sociolinguistics*. Blackwell.
 
-أثّر هذا النقاشُ في السياسات التحريرية للمؤسسات الأكاديمية والإعلامية والحكومية عالمياً، ودفع نحو تبنّي إرشاداتٍ رسمية للكتابة المحايدة جندرياً في سياقاتٍ مهنيةٍ عديدة، رغم استمرار الجدل حول فاعليتها الفعلية في تغيير التصوّرات الذهنية على المدى الطويل.
-
-## المصادر
-
-- Wodak, Ruth; Benke, Gertraud (1997). "Gender as a Sociolinguistic Variable." In Coulmas, F. (ed.), *The Handbook of Sociolinguistics*. Blackwell.
-- Bodine, Ann (1975). "Androcentrism in Prescriptive Grammar: Singular 'They', Sex-Indefinite 'He', and 'He or She'." *Language in Society* 4(2).

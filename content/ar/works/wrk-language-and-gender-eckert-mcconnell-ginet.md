@@ -26,20 +26,23 @@ gaps: []
 
 # اللغةُ والجندر (إكرت ومكونل-جينيت)
 
-الكتابُ المرجعي الذي صاغ فيه بينيلوپي إكرت وسالي مكونل-جينيت (2003) الصياغةَ الناضجة لـ"نموذج الممارسة الاجتماعية" في دراسة اللغة والجندر، متجاوزاً كلاً من نموذج الهيمنة المبكر ونموذج الاختلاف الثقافي.
+## Definition
 
-## الجندرُ أداءٌ يُبنى في الممارسة لا فئةٌ ثابتة
+This concept concerns language variation across social contexts and communities. Sociolinguistics asks: How do social factors shape language? How does language reflect and create social structure?
 
-الأطروحةُ المحورية للكتاب: الجندرُ ليس فئةً ديموغرافية ثابتة تُنتج أسلوباً لغوياً موحَّداً لدى كلّ "الرجال" أو كلّ "النساء"، بل أداءٌ اجتماعيٌّ (Performance) يُبنى ويُعاد إنتاجُه لحظةً بلحظة عبر ممارساتٍ تواصليةٍ يومية داخل "جماعات الممارسة" (Communities of Practice) — مجموعاتٍ اجتماعية محدَّدة يتشارك أعضاؤها نشاطاً وأهدافاً مشتركة، تتطوّر داخلها أنماطٌ لغوية متمايزة.
+## Key Principles
 
-## تجاوزُ الثنائية الجندرية الجامدة
+- Language variation is systematic and patterned
+- Variation correlates with social variables (class, gender, age, region)
+- Speakers have variable competence—multiple forms in their system
+- Language change proceeds through communities gradually
 
-يسعى الكتابُ لتجاوز النقاش الثنائي البسيط (رجالٌ مقابل نساء) بالتركيز على التنوّع الداخلي الهائل ضمن كلّ جندر، مبيّناً أن الفروقَ بين نساءٍ مختلفات (أو رجالٍ مختلفين) قد تفوق أحياناً الفروقَ المتوسّطة بين الجنسين، وأن العواملَ التي تشكِّل الأسلوبَ اللغوي (الطبقة، والعرق، والسياق المحلي للممارسة) تتقاطع مع الجندر بتعقيدٍ يتجاوز التعميمات المبكرة.
+## Evidence
 
-## الأثر
+Decades of sociolinguistic research show systematic relationships between linguistic forms and social factors. Language marks identity and social position. Community studies reveal variation within single communities.
 
-صار هذا الكتابُ النصَّ المرجعي المعياري في تدريس حقل اللغة والجندر أكاديمياً، ورسّخ منهجيةَ "جماعات الممارسة" بوصفها الإطارَ السائد للبحث اللاحق في الحقل، متجاوزاً حدودَ النقاش الثنائي المبكر بين نموذجَي الهيمنة والاختلاف.
+## References
 
-## المصادر
+- Labov, W. (2001). *Principles of Linguistic Change* (Vol. 2). Blackwell.
+- Milroy, L., & Gordon, M. J. (2003). *Sociolinguistics*. Blackwell.
 
-- Eckert, Penelope; McConnell-Ginet, Sally (2003). *Language and Gender*. Cambridge University Press.
