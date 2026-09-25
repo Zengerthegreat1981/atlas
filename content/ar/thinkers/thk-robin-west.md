@@ -14,9 +14,9 @@ legal_tradition: "الفقهُ القانونيُّ النسوي"
 active_start: 1988
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "feminist-jurisprudence", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-feminist-jurisprudence", target_type: "مدرسة"
 related:
-- id: "feminist-jurisprudence", title: "الفقهُ القانونيُّ النسويُّ (Feminist Jurisprudence)", type: "مدرسة"
+- id: "sch-feminist-jurisprudence", title: "الفقهُ القانونيُّ النسويُّ (Feminist Jurisprudence)", type: "مدرسة"
 - id: "con-jurisprudence-and-gender-west", title: "الفقهُ القانونيُّ والنوعُ الاجتماعي (Jurisprudence and Gender)", type: "مفهوم"
 - id: "thk-gilligan", title: "كارول غيليغان", type: "مفكر"
 - id: "thk-mackinnon", title: "كاثرين ماك كينون", type: "مفكر"

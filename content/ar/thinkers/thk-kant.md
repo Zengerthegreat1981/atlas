@@ -19,7 +19,7 @@ related:
 - id: "thk-hume", title: "ديفيد هيوم", type: "مفكر"
 - id: "thk-leibniz", title: "غوتفريد فيلهلم لايبنتز", type: "مفكر"
 - id: "thk-hegel", title: "جورج فيلهلم فريدريش هيغل", type: "مفكر"
-- id: "categorical-imperative", title: "الأمر المطلق (Categorical Imperative)", type: "مفهوم"
+- id: "con-categorical-imperative", title: "الأمر المطلق (Categorical Imperative)", type: "مفهوم"
 - id: "con-cosmopolitanism", title: "المواطنة الكونية (الكوزموبوليتية)", type: "مفهوم"
 - id: "sch-german-idealism", title: "المثالية الألمانية (كمظلة)", type: "مدرسة"
 - id: "wrk-time-and-free-will-bergson", title: "مقالة في المعطيات الفورية للوعي (Essai sur les données immédiates de la conscience) - برغسون", type: "عمل / كتاب"

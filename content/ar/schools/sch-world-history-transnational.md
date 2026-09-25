@@ -13,8 +13,7 @@ language: "الإنجليزية والفرنسية والآسيوية"
 active_start: 1950
 active_end: "مستمر"
 edges: []
-related:
-  - id: "con-transnational-history", title: "التاريخُ العابرُ للحدود (Transnational History)", type: "مفهوم"
+related: []
 gaps:
   - "التوازنُ بينَ النظرةِ العالميّة والسياقاتِ المحليّة"
   - "كيفَ نتجنّبُ الإمبرياليّةَ الأوروبيّة في كتابةِ التاريخ العالميّ؟"

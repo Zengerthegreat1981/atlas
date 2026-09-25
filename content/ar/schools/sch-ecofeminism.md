@@ -15,9 +15,9 @@ active_end: "مستمر"
 cultural_origin: "french"
 edges:
 - rel: "evolved_from", target: "sch-feminism-radical", target_type: "مدرسة"
-- rel: "evolved_from", target: "environmental-ethics", target_type: "مدرسة"
+- rel: "evolved_from", target: "sch-environmental-ethics", target_type: "مدرسة"
 related:
-- id: "environmental-ethics", title: "فلسفة البيئة / الأخلاق البيئية", type: "مدرسة"
+- id: "sch-environmental-ethics", title: "فلسفة البيئة / الأخلاق البيئية", type: "مدرسة"
 - id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
 - id: "sch-feminism-radical", title: "النسوية الراديكالية", type: "مدرسة"
 gaps:

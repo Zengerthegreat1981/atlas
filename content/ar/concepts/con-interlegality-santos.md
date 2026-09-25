@@ -11,10 +11,10 @@ legal_tradition: "التعدّديةُ القانونية"
 active_start: 1987
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "legal-pluralism", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-legal-pluralism", target_type: "مدرسة"
 related:
 - id: "thk-boaventura-de-sousa-santos", title: "بوافنتورا دي سوزا سانتوس", type: "مفكر"
-- id: "legal-pluralism", title: "التعدّديةُ القانونيةُ (Legal Pluralism)", type: "مدرسة"
+- id: "sch-legal-pluralism", title: "التعدّديةُ القانونيةُ (Legal Pluralism)", type: "مدرسة"
 - id: "thk-john-griffiths-legal-pluralism", title: "جون غريفيثز (John Griffiths)", type: "مفكر"
 - id: "thk-sally-engle-merry", title: "سالي إنجل ميري (Sally Engle Merry)", type: "مفكر"
 gaps:

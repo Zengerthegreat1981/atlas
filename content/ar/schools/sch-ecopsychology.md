@@ -14,9 +14,9 @@ language: "الإنجليزية"
 active_start: 1992
 active_end: "مستمر"
 edges:
-- rel: "grounded_in", target: "environmental-ethics", target_type: "مدرسة"
+- rel: "grounded_in", target: "sch-environmental-ethics", target_type: "مدرسة"
 related:
-- id: "environmental-ethics", title: "فلسفة البيئة / الأخلاق البيئية", type: "مدرسة"
+- id: "sch-environmental-ethics", title: "فلسفة البيئة / الأخلاق البيئية", type: "مدرسة"
 - id: "thk-jmacy", title: "جوانا مايسي", type: "مفكر"
 - id: "tec-forest-therapy", title: "العلاج بالغابات (Forest Therapy)", type: "تقنية/تدخل علاجي"
 - id: "syn-eco-anxiety", title: "قلق المناخ (Eco-Anxiety)", type: "متلازمة"

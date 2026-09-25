@@ -14,7 +14,6 @@ publication_date: 1957
 school: "sch-anthropological-political-economy"
 concepts:
 - "con-bride-price"
-- "con-justice-law"
 - "con-economic-systems"
 key_themes:
 - "نظامُ سعرِ الزواج"

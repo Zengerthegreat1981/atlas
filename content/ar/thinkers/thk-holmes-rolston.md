@@ -13,10 +13,10 @@ language: "الإنجليزية"
 active_start: 1968
 active_end: 2025
 edges:
-- rel: "belongs_to", target: "environmental-ethics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-environmental-ethics", target_type: "مدرسة"
 related:
 - id: "thk-leopold", title: "ألدو ليوبولد", type: "مفكر"
-- id: "environmental-ethics", title: "فلسفة البيئة / الأخلاق البيئية", type: "مدرسة"
+- id: "sch-environmental-ethics", title: "فلسفة البيئة / الأخلاق البيئية", type: "مدرسة"
 - id: "con-land-ethic", title: "أخلاق الأرض (Land Ethic)", type: "مفهوم"
 - id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
 - id: "wrk-sand-county-almanac", title: "تقويم مقاطعة الرمال (A Sand County Almanac)", type: "عمل / كتاب"

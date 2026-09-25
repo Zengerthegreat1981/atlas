@@ -17,7 +17,7 @@ edges:
 related:
 - id: "thk-arne-naess", title: "أرنه نايس", type: "مفكر"
 - id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
-- id: "environmental-ethics", title: "فلسفة البيئة / الأخلاق البيئية", type: "مدرسة"
+- id: "sch-environmental-ethics", title: "فلسفة البيئة / الأخلاق البيئية", type: "مدرسة"
 - id: "sch-social-ecology", title: "الإيكولوجيا الاجتماعية", type: "مدرسة"
 - id: "con-deep-vs-shallow", title: "الإيكولوجيا الضحلة مقابل العميقة (Shallow vs. Deep)", type: "مفهوم"
 gaps:

@@ -13,7 +13,6 @@ active_end: 2100
 edges: []
 related:
 - id: "thk-claude-levi-strauss", title: "كلودُ ليڤي-شتراوس", type: "مفكر"
-- id: "con-totemism", title: "التوطّميّةُ (Totemism)", type: "مفهوم"
 gaps: ["thk-roman-jakobson", "sch-prague-linguistic-circle"]
 ---
 

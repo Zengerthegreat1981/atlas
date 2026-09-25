@@ -11,6 +11,7 @@ active_start: 1748
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-enlightenment", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-constitutional-law-theory", target_type: "مدرسة"
 related:
 - id: "thk-montesquieu", title: "مونتسكيو", type: "مفكر"
 - id: "wrk-spirit-of-the-laws-montesquieu", title: "روح القوانين لمونتسكيو", type: "عمل / كتاب"

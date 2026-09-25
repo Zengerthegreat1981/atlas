@@ -15,7 +15,7 @@ active_start: 1970
 active_end: "مستمر"
 edges: []
 related:
-- id: "environmental-ethics", title: "فلسفة البيئة / الأخلاق البيئية", type: "مدرسة"
+- id: "sch-environmental-ethics", title: "فلسفة البيئة / الأخلاق البيئية", type: "مدرسة"
 - id: "sch-utilitarianism-contemporary", title: "النفعية المعاصرة", type: "مدرسة"
 - id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
 - id: "con-speciesism", title: "تخصيص النوع (Speciesism)", type: "مفهوم"

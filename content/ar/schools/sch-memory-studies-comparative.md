@@ -16,7 +16,6 @@ edges: []
 related:
   - id: "thk-maurice-halbwachs", title: "موريس هالبواكس (Maurice Halbwachs)", type: "مفكر"
   - id: "thk-jan-assmann", title: "يان آسمان (Jan Assmann)", type: "مفكر"
-  - id: "con-collective-memory", title: "الذاكرةُ الجماعيّة (Collective Memory)", type: "مفهوم"
 gaps:
   - "الفرقُ بين الذاكرة الفرديّة والذاكرة الجماعيّة"
   - "كيفَ تتشكّلُ الذاكرةُ الجماعيّةُ عبرَ الؤسّسات والأحتفالات؟"

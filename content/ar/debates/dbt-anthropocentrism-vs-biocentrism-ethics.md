@@ -10,7 +10,7 @@ crumb: "المباحث الفلسفية الكبرى ← الجدالات وال
 active_start: 1973
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "environmental-ethics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-environmental-ethics", target_type: "مدرسة"
 related:
 - id: "thk-arne-naess", title: "أرنه نايس", type: "مفكر"
 - id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"

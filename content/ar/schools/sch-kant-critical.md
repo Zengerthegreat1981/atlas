@@ -20,7 +20,7 @@ edges:
 related:
 - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
 - id: "sch-neokantian", title: "الكانطية الجديدة (ماربورغ وبادن)", type: "مدرسة"
-- id: "categorical-imperative", title: "الأمر المطلق (Categorical Imperative)", type: "مفهوم"
+- id: "con-categorical-imperative", title: "الأمر المطلق (Categorical Imperative)", type: "مفهوم"
 - id: "sch-german-idealism", title: "المثالية الألمانية (كمظلة)", type: "مدرسة"
 - id: "dbt-a-priori-vs-a-posteriori", title: "جدل المعرفة القبلية مقابل المعرفة البعدية", type: "جدل"
 - id: "trm-deontological-vs-consequentialist", title: "الأخلاق الواجبية والتبعية (Deontology vs. Consequentialism)", type: "مصطلح لغوي متنازع عليه"

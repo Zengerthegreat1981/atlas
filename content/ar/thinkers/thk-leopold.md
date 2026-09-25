@@ -13,12 +13,12 @@ language: "الإنجليزية"
 active_start: 1933
 active_end: 1948
 edges:
-- rel: "belongs_to", target: "environmental-ethics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-environmental-ethics", target_type: "مدرسة"
 related:
 - id: "thk-arne-naess", title: "أرنه نايس", type: "مفكر"
 - id: "wrk-sand-county-almanac", title: "تقويم مقاطعة الرمال (A Sand County Almanac)", type: "عمل / كتاب"
 - id: "con-land-ethic", title: "أخلاق الأرض (Land Ethic)", type: "مفهوم"
-- id: "environmental-ethics", title: "فلسفة البيئة / الأخلاق البيئية", type: "مدرسة"
+- id: "sch-environmental-ethics", title: "فلسفة البيئة / الأخلاق البيئية", type: "مدرسة"
 - id: "thk-holmes-rolston", title: "هولمز رولستون الثالث (Holmes Rolston III)", type: "مفكر"
 gaps:
   - "عنوان مقالته عن البرية في *Journal of Forestry* سنة 1921 لم يُثبَت هنا نصاً، ولا موضعها من المجلد."

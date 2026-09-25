@@ -11,6 +11,7 @@ active_start: 1785
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-kant-critical", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-deontological-ethics-kant", target_type: "مدرسة"
 - rel: "formulated_by", target: "thk-kant", target_type: "مفكر"
 related:
 - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"

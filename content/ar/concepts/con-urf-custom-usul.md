@@ -17,7 +17,7 @@ related:
 - id: "con-maslaha-mursala-usul", title: "المصالحُ المرسلة (Maslaha Mursala)", type: "مفهوم"
 - id: "con-qiyas-analogical-reasoning", title: "القياسُ (Qiyas — الاستدلالُ التمثيليُّ الشرعي)", type: "مفهوم"
 - id: "con-istihsan-juristic-preference", title: "الاستحسانُ (Istihsan — الاستحسانُ الفقهي)", type: "مفهوم"
-- id: "legal-pluralism", title: "التعدّديةُ القانونيةُ (Legal Pluralism)", type: "مدرسة"
+- id: "sch-legal-pluralism", title: "التعدّديةُ القانونيةُ (Legal Pluralism)", type: "مدرسة"
 gaps:
   - "القاعدةُ الفقهيةُ المرتبطةُ مباشرةً («العادةُ محكَّمة») ودورُها في مدوّنة الأحكام العدلية العثمانية (مجلة الأحكام العدلية، 1876) لم تُفصَّل هنا بتفصيلٍ نصّي كامل."
   - "الفروقُ المذهبيةُ الدقيقةُ في مرتبة حجّية العرف بين الحنفية (الأوسعُ اعتماداً عليه) والمالكية والشافعية والحنابلة لم تُقارَن مقارنةً منهجيةً شاملة."
