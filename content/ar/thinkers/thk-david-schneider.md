@@ -12,8 +12,11 @@ dates: "1918 – 1995"
 birth_country: "الولايات المتحدة"
 active_start: 1951
 active_end: 1995
-edges: []
+edges:
+- rel: "belongs_to", target: "sch-american-kinship-studies", target_type: "مدرسة"
 related:
+- id: "con-biogenetic-versus-cultural-kinship", title: "القرابةُ البيوجينية مقابل القرابة الثقافية", type: "مفهوم"
+- id: "sch-american-kinship-studies", title: "دراساتُ القرابة الأمريكية (American Kinship Studies)", type: "مدرسة"
 - id: "thk-meyer-fortes", title: "مايير فورتس", type: "مفكر"
 gaps:
 - "يحتاج إلى توسّع حول الجدل الذي أثاره كتابه بين الأنثروبولوجيين الأمريكيين حول الفرق بين الدراسات الإثنوغرافية والنظرية في القرابة الأمريكية."

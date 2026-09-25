@@ -12,6 +12,7 @@ active_start: 1880
 active_end: 2100
 edges: []
 related:
+- id: "con-magic-religion-frazer", title: "السحرُ والدينُ عند فريزر", type: "مفهوم"
 - id: "thk-james-frazer", title: "جيمس جورج فريزر (James George Frazer)", type: "مفكر"
 - id: "wrk-golden-bough-frazer", title: "الغصنُ الذهبيّ (The Golden Bough)", type: "عمل / كتاب"
 - id: "sch-classical-evolutionism", title: "الأنثروبولوجيا التطوّرية الكلاسيكية", type: "مدرسة"

@@ -17,6 +17,7 @@ active_end: 1300
 edges:
 - rel: "belongs_to", target: "sch-basra-kufa-grammatical-dispute", target_type: "مدرسة"
 related:
+- id: "thk-ibn-al-anbari", title: "أبو البركات ابن الأنباري", type: "مفكر"
 - id: "sch-basra-kufa-grammatical-dispute", title: "مدرسةُ الكوفة والخلافُ النحويّ (Kufa Grammatical School)", type: "مدرسة"
 - id: "con-qiyas-sama-illa-arabic-grammar", title: "القياسُ والسماعُ والعلّةُ النحوية: أصولُ منهج النحو العربي", type: "مفهوم"
 gaps: []

@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-variationist-sociolinguistics", target_type: "مدرسة"
 related:
+- id: "thk-don-kulick", title: "دون كوليك (Don Kulick)", type: "مفكر"
 - id: "thk-deborah-tannen", title: "ديبورا تانن", type: "مفكر"
 - id: "thk-robin-lakoff", title: "روبن لايكوف", type: "مفكر"
 - id: "thk-penelope-eckert", title: "بينيلوپي إكرت", type: "مفكر"

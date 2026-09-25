@@ -17,6 +17,8 @@ active_end: 822
 edges:
 - rel: "belongs_to", target: "sch-basra-kufa-grammatical-dispute", target_type: "مدرسة"
 related:
+- id: "thk-al-kisai", title: "الكسائي", type: "مفكر"
+- id: "thk-al-farra", title: "الفرّاء", type: "مفكر"
 - id: "sch-basra-kufa-grammatical-dispute", title: "مدرسةُ الكوفة والخلافُ النحويّ (Kufa Grammatical School)", type: "مدرسة"
 gaps:
   - "لم يُعثر على ترجمةٍ إنجليزيةٍ شاملةٍ موثَّقة للكتاب ضمن مصادر الأطلس؛ الاعتمادُ على النصّ العربي الأصلي والدراسات الثانوية."

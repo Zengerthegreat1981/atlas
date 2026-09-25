@@ -12,7 +12,8 @@ birth_year: 1939
 fields: ["grammaticalization", "discourse analysis", "usage-based linguistics"]
 affiliation: "جامعة كارنيجي ميلون"
 primary_school: "sch-usage-based-linguistics"
-edges: []
+edges:
+- rel: "belongs_to", target: "sch-usage-based-linguistics", target_type: "مدرسة"
 related: []
 gaps: []
 ---

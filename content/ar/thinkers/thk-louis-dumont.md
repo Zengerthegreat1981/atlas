@@ -15,6 +15,7 @@ active_end: 1994
 edges:
 - rel: "belongs_to", target: "sch-structuralism", target_type: "مدرسة"
 related:
+- id: "thk-claude-levi-strauss", title: "كلود ليفي-ستراوس", type: "مفكر"
 - id: "sch-structuralism", title: "البنيوية الأنثروبولوجية", type: "مدرسة"
 - id: "con-alliance-theory", title: "نظرية التحالف الزواجي", type: "مفهوم"
 gaps:

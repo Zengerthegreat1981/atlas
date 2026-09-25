@@ -15,6 +15,7 @@ active_end: 1973
 edges:
 - rel: "belongs_to", target: "sch-descent-theory", target_type: "مدرسة"
 related:
+- id: "con-descent-theory", title: "نظريةُ النسب (Descent Theory)", type: "مفهوم"
 - id: "sch-descent-theory", title: "نظرية النسب في الأنثروبولوجيا (Descent Theory)", type: "مدرسة"
 - id: "thk-radcliffe-brown", title: "ألفرد رادكليف-براون", type: "مفكر"
 - id: "thk-evans-pritchard", title: "إدوارد إيفانز-بريتشارد", type: "مفكر"

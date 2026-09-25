@@ -12,7 +12,8 @@ birth_year: 1939
 fields: ["psycholinguistics", "child language acquisition", "typology", "thinking for speaking"]
 affiliation: "جامعة كاليفورنيا بيركلي"
 primary_school: "sch-psycholinguistics"
-edges: []
+edges:
+- rel: "belongs_to", target: "sch-psycholinguistics", target_type: "مدرسة"
 related: []
 gaps: []
 ---

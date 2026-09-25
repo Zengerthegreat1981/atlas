@@ -13,6 +13,7 @@ active_end: 1050
 edges:
 - rel: "belongs_to", target: "sch-mutazila", target_type: "مدرسة"
 related:
+- id: "thk-ibn-al-haytham", title: "ابن الهيثم", type: "مفكر"
 - id: "thk-wasil-ibn-ata", title: "واصل بن عطاء الغزال", type: "مفكر"
 - id: "thk-qadi-abd-al-jabbar", title: "القاضي عبد الجبار بن أحمد الهمذاني", type: "مفكر"
 - id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"

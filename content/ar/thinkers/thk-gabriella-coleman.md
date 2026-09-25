@@ -14,6 +14,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-digital-anthropology", target_type: "مدرسة"
 related:
+- id: "thk-tom-boellstorff", title: "توم بويلستورف (Tom Boellstorff)", type: "مفكر"
 - id: "sch-digital-anthropology", title: "الأنثروبولوجيا الرقمية والإثنوغرافيا الشبكية (Digital Anthropology — Miller, Boellstorff)", type: "مدرسة"
 - id: "thk-nick-seaver", title: "نيك سيڤر (Nick Seaver)", type: "مفكر"
 gaps: []

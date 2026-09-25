@@ -18,6 +18,7 @@ edges:
 - rel: "belongs_to", target: "sch-variationist-sociolinguistics", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-variationist-sociolinguistics", target_type: "مدرسة"
 related:
+- id: "con-code-switching-bilingualism", title: "تبديل الأكواد عند ثنائيي اللغة (Code-Switching & Bilingualism)", type: "مفهوم"
 - id: "sch-variationist-sociolinguistics", title: "اللسانياتُ الاجتماعيةُ المتغيّرية (Variationist Sociolinguistics)", type: "مدرسة"
 gaps: ""
 ---

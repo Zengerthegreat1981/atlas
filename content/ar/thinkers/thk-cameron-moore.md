@@ -12,7 +12,8 @@ birth_year: 1985
 fields: ["digital discourse", "social media linguistics", "online variation"]
 affiliation: "جامعة جنوب كاليفورنيا"
 primary_school: "sch-digital-communication"
-edges: []
+edges:
+- rel: "belongs_to", target: "sch-digital-communication", target_type: "مدرسة"
 related: []
 gaps: []
 ---

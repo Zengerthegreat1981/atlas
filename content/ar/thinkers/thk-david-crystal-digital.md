@@ -12,7 +12,8 @@ birth_year: 1941
 fields: ["internet language", "digital communication", "prescriptivism"]
 affiliation: "جامعة بانجور"
 primary_school: "sch-digital-communication"
-edges: []
+edges:
+- rel: "belongs_to", target: "sch-digital-communication", target_type: "مدرسة"
 related: []
 gaps: []
 ---

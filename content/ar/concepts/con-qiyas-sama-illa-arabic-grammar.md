@@ -12,6 +12,7 @@ crumb: "علم اللغة ← التقليدُ العربيُّ واللغويا
 edges:
 - rel: "belongs_to", target: "sch-basra-kufa-grammatical-dispute", target_type: "مدرسة"
 related:
+- id: "thk-ibn-al-anbari", title: "أبو البركات ابن الأنباري", type: "مفكر"
 - id: "thk-ibn-jinni", title: "أبو الفتح عثمان بن جنّي", type: "مفكر"
 - id: "sch-basra-kufa-grammatical-dispute", title: "مدرسةُ الكوفة والخلافُ النحويّ (Kufa Grammatical School)", type: "مدرسة"
 - id: "sch-arabic-grammatical-tradition", title: "التقليد النحوي واللغوي العربي الكلاسيكي", type: "مدرسة"

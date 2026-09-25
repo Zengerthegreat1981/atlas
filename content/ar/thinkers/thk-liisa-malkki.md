@@ -8,7 +8,8 @@ title: "ليسا مالكي"
 en: "Liisa Malkki"
 dates: "1959 – "
 birth_country: "فنلندا"
-edges: []
+edges:
+- rel: "belongs_to", target: "sch-refugee-displacement-anthropology", target_type: "مدرسة"
 related: []
 gaps: []
 ---

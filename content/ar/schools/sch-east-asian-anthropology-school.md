@@ -17,6 +17,7 @@ active_end: "مستمر"
 region: "East Asia"
 edges: []
 related:
+- id: "thk-fei-xiaotong", title: "فاي شياوتونغ (Fei Xiaotong)", type: "مفكر"
 - id: "thk-nakane-chie", title: "ناكانة تشيه (Nakane Chie)", type: "مفكر"
 gaps:
   - "إضافة دراسات ميدانية صينية واليابانية حول البنية العائلية والمؤسسات."

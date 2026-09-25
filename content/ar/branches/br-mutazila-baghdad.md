@@ -13,6 +13,7 @@ active_end: 950
 edges:
 - rel: "belongs_to", target: "sch-mutazila", target_type: "مدرسة"
 related:
+- id: "thk-ibn-al-haytham", title: "ابن الهيثم", type: "مفكر"
 - id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"
 - id: "thk-qadi-abd-al-jabbar", title: "القاضي عبد الجبار بن أحمد الهمذاني", type: "مفكر"
 - id: "dbt-qadar-free-will-in-kalam", title: "جدل القدر والجبر والاختيار في علم الكلام الإسلامي", type: "جدل"

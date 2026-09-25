@@ -14,6 +14,7 @@ active_start: 1960
 active_end: "مستمر"
 edges: []
 related:
+  - id: "con-social-history-definition", title: "تعريفُ التاريخ الاجتماعي", type: "مفهوم"
   - id: "thk-eric-hobsbawm", title: "إريك هوبسباوم (Eric Hobsbawm)", type: "مفكر"
   - id: "thk-e-p-thompson", title: "إ. بـ. تومسون (E.P. Thompson)", type: "مفكر"
 gaps:

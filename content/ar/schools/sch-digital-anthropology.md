@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-ontological-turn", target_type: "مدرسة"
 related:
+- id: "thk-tom-boellstorff", title: "توم بويلستورف (Tom Boellstorff)", type: "مفكر"
 - id: "thk-daniel-miller", title: "دانيال ميلر (Daniel Miller)", type: "مفكر"
 gaps: []
 ---

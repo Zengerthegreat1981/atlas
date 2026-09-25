@@ -18,6 +18,9 @@ active_source: "estimate"
 edges:
 - rel: "belongs_to", target: "sch-basra-kufa-grammatical-dispute", target_type: "مدرسة"
 related:
+- id: "thk-al-mubarrad", title: "أبو العباس المبرِّد", type: "مفكر"
+- id: "thk-al-farra", title: "الفرّاء", type: "مفكر"
+- id: "thk-al-kisai", title: "الكسائي", type: "مفكر"
 - id: "sch-basra-kufa-grammatical-dispute", title: "مدرسةُ الكوفة والخلافُ النحويّ (Kufa Grammatical School)", type: "مدرسة"
 - id: "wrk-al-insaf-masail-al-khilaf-ibn-al-anbari", title: "الإنصافُ في مسائل الخلاف بين النحويين البصريين والكوفيين", type: "أثر"
 - id: "wrk-majalis-thalab", title: "مجالسُ ثعلب", type: "أثر"

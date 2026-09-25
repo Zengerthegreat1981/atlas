@@ -17,6 +17,10 @@ active_end: 950
 edges:
 - rel: "evolved_from", target: "sch-arabic-grammatical-tradition", target_type: "مدرسة"
 related:
+- id: "thk-al-mubarrad", title: "أبو العباس المبرِّد", type: "مفكر"
+- id: "thk-ibn-al-anbari", title: "أبو البركات ابن الأنباري", type: "مفكر"
+- id: "thk-al-farra", title: "الفرّاء", type: "مفكر"
+- id: "thk-al-kisai", title: "الكسائي", type: "مفكر"
 - id: "sch-arabic-grammatical-tradition", title: "التقليد النحوي واللغوي العربي الكلاسيكي", type: "مدرسة"
 - id: "evt-zunburiyya-debate-sibawayh-kisai", title: "مناظرةُ الزنبورية بين سيبويه والكسائي", type: "حدث تاريخي"
 - id: "wrk-maani-al-quran-farra", title: "معاني القرآن (الفرّاء)", type: "أثر"

@@ -14,6 +14,7 @@ active_start: 1965
 active_end: 2021
 edges: []
 related:
+- id: "con-biogenetic-versus-cultural-kinship", title: "القرابةُ البيوجينية مقابل القرابة الثقافية", type: "مفهوم"
 - id: "thk-david-schneider", title: "ديفيد شنايدر", type: "مفكر"
 gaps:
 - "يحتاج إلى توسّع للجدل الحاد بين فوكس والأنثروبولوجيين الثقافيين حول الأساس الطبيعي للقرابة."

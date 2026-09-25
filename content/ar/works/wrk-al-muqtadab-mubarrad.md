@@ -15,6 +15,7 @@ language: "العربية"
 edges:
 - rel: "belongs_to", target: "sch-basra-kufa-grammatical-dispute", target_type: "مدرسة"
 related:
+- id: "thk-al-mubarrad", title: "أبو العباس المبرِّد", type: "مفكر"
 - id: "sch-basra-kufa-grammatical-dispute", title: "مدرسةُ الكوفة والخلافُ النحويّ (Kufa Grammatical School)", type: "مدرسة"
 - id: "wrk-al-kitab-sibawayh", title: "الكتاب (سيبويه)", type: "أثر"
 gaps: []

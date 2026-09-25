@@ -11,6 +11,7 @@ active_start: 1968
 active_end: "مستمر"
 edges: []
 related:
+- id: "con-descent-theory", title: "نظريةُ النسب (Descent Theory)", type: "مفهوم"
 - id: "thk-david-schneider", title: "ديڤيد شنايدر (David M. Schneider)", type: "مفكر"
 - id: "thk-meyer-fortes", title: "مايير فورتس (Meyer Fortes)", type: "مفكر"
 - id: "thk-evans-pritchard", title: "إي إي إيفانز-بريتشارد (E.E. Evans-Pritchard)", type: "مفكر"

@@ -16,7 +16,8 @@ active_start: 1910
 active_end: 1960
 edges:
 - rel: "belongs_to", target: "sch-postcolonial-critique-anthropology", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-fei-xiaotong", title: "فاي شياوتونغ (Fei Xiaotong)", type: "مفكر"
 gaps:
   - "ياناغيتا كونيو (مؤسِّس الفولكلوريات اليابانية، Minzokugaku) لم يُكتب بعد كملفٍّ مستقلّ؛ ذُكر اسمُه في العنوان بحكم البادئة المرجعية لهذا الملفّ في الـbacklog، لكن سيرتَه لم تُكتب لعدم توفّر بحثٍ كافٍ موثوقٍ عنه ضمن هذه الدفعة تحديداً — الفجوةُ الصادقة أفضل من الجزم."
 ---

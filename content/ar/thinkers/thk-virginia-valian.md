@@ -12,7 +12,8 @@ birth_year: 1945
 fields: ["language acquisition", "syntactic development", "bilingualism"]
 affiliation: "جامعة هنتر كوليج"
 primary_school: "sch-psycholinguistics"
-edges: []
+edges:
+- rel: "belongs_to", target: "sch-psycholinguistics", target_type: "مدرسة"
 related: []
 gaps: []
 ---

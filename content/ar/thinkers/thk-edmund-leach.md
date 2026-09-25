@@ -16,6 +16,8 @@ edges:
 - rel: "belongs_to", target: "sch-kinship-systems-comparative", target_type: "مدرسة"
 - rel: "challenges", target: "sch-radcliffe-brown-structural-functionalism", target_type: "مدرسة"
 related:
+- id: "thk-claude-levi-strauss", title: "كلود ليفي-ستراوس", type: "مفكر"
+- id: "con-asymmetric-alliance", title: "التحالفُ اللامتماثل (Asymmetric Alliance)", type: "مفهوم"
 - id: "sch-kinship-systems-comparative", title: "نظم القرابة المقارنة", type: "مدرسة"
 - id: "thk-fredrik-barth", title: "فريدريك بارت (Fredrik Barth)", type: "مفكر"
 - id: "thk-audrey-richards", title: "أودري ريتشاردز (Audrey Richards)", type: "مفكر"

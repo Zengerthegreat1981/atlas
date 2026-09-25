@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-language-and-gender", target_type: "مدرسة"
 related:
+- id: "thk-don-kulick", title: "دون كوليك (Don Kulick)", type: "مفكر"
 - id: "sch-language-and-gender", title: "اللغةُ والجندر (Language and Gender)", type: "مدرسة"
 - id: "con-language-desire-sexuality-kulick", title: "اللغةُ والرغبةُ الجنسانية عند كوليك (Language & Desire)", type: "مفهوم"
 gaps:

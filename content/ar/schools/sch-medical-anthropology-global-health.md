@@ -15,7 +15,8 @@ cultural_origin: "multi-regional"
 active_start: 1980
 active_end: "مستمر"
 region: "Global"
-edges: []
+edges:
+- rel: "belongs_to", target: "sch-applied-anthropology-development", target_type: "مدرسة"
 related:
 - id: "thk-paul-farmer", title: "پول فارمر (Paul Farmer)", type: "مفكر"
 - id: "thk-nancy-scheper-hughes", title: "نانسي شيبر هيوجز (Nancy Scheper-Hughes)", type: "مفكر"

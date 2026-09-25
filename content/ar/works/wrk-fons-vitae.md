@@ -17,8 +17,10 @@ original_language: "العربية"
 active_start: 1050
 active_end: 1050
 edges:
+- rel: "authored_by", target: "thk-ibn-gabirol", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-judaism-andalusian", target_type: "مدرسة"
 related:
+- id: "thk-ibn-gabirol", title: "سليمان بن جبيرول (أفيسبرون)", type: "مفكر"
 - id: "sch-judaism-andalusian", title: "الفلسفة اليهودية الوسيطة الأندلسية (الأرسطية اليهودية)", type: "مدرسة"
 gaps:
   - "النص العربي الأصلي مفقود تماماً؛ معرفتنا بالعمل بأكملها عبر الترجمة اللاتينية، ولا مخطوطة عربية ولو جزئية عُثر عليها حتى الآن."

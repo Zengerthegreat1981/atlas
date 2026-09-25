@@ -12,6 +12,7 @@ crumb: "علم اللغة ← اللغةُ في المجتمع ← اللغةُ 
 edges:
 - rel: "belongs_to", target: "sch-language-and-gender", target_type: "مدرسة"
 related:
+- id: "thk-don-kulick", title: "دون كوليك (Don Kulick)", type: "مفكر"
 - id: "sch-language-and-gender", title: "اللغةُ والجندر (Language and Gender)", type: "مدرسة"
 - id: "con-identity-performativity-bucholtz-hall", title: "الهويةُ العلائقيةُ الناشئة عند بوخولتس وهول (Identity as Relational & Emergent)", type: "مفهوم"
 - id: "thk-deborah-cameron", title: "ديبورا كامرون", type: "مفكر"

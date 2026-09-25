@@ -15,6 +15,7 @@ active_end: 1941
 edges:
 - rel: "belongs_to", target: "sch-comparative-religion-frazer", target_type: "مدرسة"
 related:
+- id: "con-magic-religion-frazer", title: "السحرُ والدينُ عند فريزر", type: "مفهوم"
 - id: "sch-comparative-religion-frazer", title: "الدراسةُ المقارنةُ للدين والسحر", type: "مدرسة"
 - id: "wrk-golden-bough-frazer", title: "الغصنُ الذهبيّ (The Golden Bough)", type: "عمل / كتاب"
 - id: "thk-edward-tylor", title: "إدوارد تايلور", type: "مفكر"

@@ -14,7 +14,9 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1995
 active_end: "مستمر"
-edges: []
+edges:
+- rel: "evolved_from", target: "sch-aphasiology-communication-disorders", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-aphasiology-communication-disorders", target_type: "مدرسة"
 related:
 - id: "con-aphasiology-classification", title: "تصنيفُ الحُبسة (Aphasiology)", type: "مفهوم"
 gaps: ""

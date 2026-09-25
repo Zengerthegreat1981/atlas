@@ -12,7 +12,8 @@ birth_year: 1952
 fields: ["digital communication", "internet linguistics", "language change online"]
 affiliation: "جامعة أمريكية"
 primary_school: "sch-digital-communication"
-edges: []
+edges:
+- rel: "belongs_to", target: "sch-digital-communication", target_type: "مدرسة"
 related: []
 gaps: []
 ---

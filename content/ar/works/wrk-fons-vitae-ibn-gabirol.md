@@ -16,6 +16,7 @@ active_end: 1050
 edges:
 - rel: "belongs_to", target: "sch-judaism-andalusian", target_type: "مدرسة"
 related:
+- id: "thk-ibn-gabirol", title: "سليمان بن جبيرول (أفيسبرون)", type: "مفكر"
 - id: "sch-judaism-andalusian", title: "الفلسفة اليهودية الوسيطة الأندلسية (الأرسطية اليهودية)", type: "مدرسة"
 gaps:
   - "يوجد ملف آخر لهذا العمل في الأطلس هو `wrk-fons-vitae` (أطول، 2,290 حرفاً) — مجموعة ازدواج مسجَّلة. لم يُدمَج الملفان ولم يُنقل بينهما محتوى، والقرار متروك للمراجعة البشرية."
