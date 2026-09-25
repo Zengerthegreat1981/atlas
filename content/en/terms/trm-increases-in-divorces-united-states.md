@@ -1,0 +1,23 @@
+---
+slug: "trm-increases-in-divorces-united-states"
+id: "TRM-ENG-44723"
+type: "مصطلح نفسي"
+level: "مقدمة"
+title: "_____, Increases in Divorces: United States"
+en: "_____, Increases in Divorces: United States"
+ar: ""
+sources:
+  - title: "American Handbook of Psychiatry - Volume I - The Foundations of Psychiatry  .pdf"
+    year: 2024
+    note: "Extracted from psychology encyclopedia PDF"
+---
+
+# _____, Increases in Divorces: United States
+
+1967, Public Health Service Publication No. 1000,
+
+## See also
+
+- Related concepts in psychology
+- Connected theoretical frameworks
+
