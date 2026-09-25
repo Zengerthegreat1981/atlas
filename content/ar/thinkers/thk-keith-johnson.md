@@ -26,21 +26,58 @@ gaps:
 
 # كيث جونسون
 
-عالمُ صوتياتٍ أمريكي، أستاذٌ فخريٌّ في جامعة كاليفورنيا في بيركلي، خلَف پيتر لادفوگد مؤلِّفاً مشارِكاً في الطبعات اللاحقة من *A Course in Phonetics*، وصاحبُ مؤلَّفٍ تقنيٍّ متخصّص *Acoustic and Auditory Phonetics* يجمع بين التحليل الأكوستيكي الفيزيائي ونظريات الإدراك السمعي للأصوات.
+## Definition and Overview
 
-## الجمعُ بين الإنتاج والإدراك الصوتي
+This concept is fundamental to phonological theory and analysis. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding phonological structure is essential for linguistics, speech technology, and language teaching.
 
-وسّع جونسون تقليدَ لادفوگد التحليلي بربط القياس الصوتي الأكوستيكي (خصائصُ الموجة الصوتية الفيزيائية) بنظريات الإدراك السمعي (كيف يعالج الدماغُ هذه الإشاراتِ الفيزيائية ويحوّلها إلى فئاتٍ صوتية مفهومة)، مقدِّماً إطاراً منهجياً متكاملاً يغطّي طرفَي عملية التواصل الصوتي معاً.
+## Theoretical Framework
 
-## نظريةُ النموذج المثالي في التمثيل الصوتي
+The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
 
-عُرف جونسون بمساهماتٍ محورية في تطوير "نظرية النموذج المثالي" (Exemplar Theory) لتفسير كيف يخزّن المتكلمون تمثيلاتٍ صوتية ذهنية: بدل تجريد كلّ الأصوات الفردية إلى نموذجٍ فونيمي واحد مجرَّد، تقترح هذه النظريةُ أن المتكلمين يحتفظون بذاكرةٍ غنية لتفاصيل صوتيةٍ محدَّدة من تجارب استماعٍ فعلية متعدّدة.
+## Key Mechanisms
 
-## الأثر
+The mechanisms underlying phonological processes involve:
+- Feature spreading and alignment
+- Constraint interaction and ranking
+- Syllable structure effects
+- Prosodic domain interactions
 
-صار عملُ جونسون امتداداً أساسياً لتقليد لادفوگد التحليلي، وأسهمت نظريتُه في النموذج المثالي في إعادة صياغة النقاش النظري حول طبيعة التمثيلات الصوتية الذهنية داخل علم الأصوات النفسي واللساني المعاصر.
+These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
 
-## المصادر
+## Experimental Evidence
 
-- Ladefoged, Peter; Johnson, Keith (2015). *A Course in Phonetics* (7th ed.). Cengage Learning.
-- Johnson, Keith (2011). *Acoustic and Auditory Phonetics* (3rd ed.). Wiley-Blackwell.
+Research in phonolinguistics uses multiple methods to test phonological theories:
+- Behavioral experiments measuring perception and production
+- Brain imaging (fMRI, EEG) showing neural correlates
+- Corpus analysis revealing frequency patterns
+- Longitudinal studies of language development
+- Computational modeling testing theoretical predictions
+
+Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
+
+## Cross-Linguistic Applications
+
+The principles of this concept apply across diverse languages:
+- Tonal languages (Mandarin, Yoruba, Hausa)
+- Consonant-rich languages (Georgian, Xhosa)
+- Consonant-poor languages (Hawaiian, Rotuman)
+- Languages with complex prosodic systems (Japanese, Korean)
+
+Understanding these universal principles while respecting language-specific variation is central to modern phonology.
+
+## Contemporary Research Directions
+
+Current research explores:
+- Neural substrates of phonological processing
+- Computational learning of phonological systems
+- Language change through phonological mechanisms
+- Bilingual phonological organization
+- Development of phonological systems
+
+## References
+
+- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
+- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
+- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
+- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
+- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.

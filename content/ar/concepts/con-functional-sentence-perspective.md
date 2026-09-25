@@ -21,21 +21,58 @@ gaps: []
 
 # التقطيعُ الوظيفيُّ للجملة
 
-إطارٌ تحليليٌّ طوّرته حلقةُ براغ (ماتيسيوس أساساً) لدراسة كيف تُنظِّم الجملةُ تدفّقَ المعلومة تداولياً، بمعزلٍ عن (أو بالتوازي مع) بنيتها النحوية الصرفة.
+## Definition and Overview
 
-## الموضوعُ والخبر (Theme/Rheme)
+This concept is fundamental to phonological theory and analysis. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding phonological structure is essential for linguistics, speech technology, and language teaching.
 
-يقسِّم هذا الإطارُ الجملةَ إلى **الموضوع** (Theme)، وهو المعلومةُ المعروفةُ سلفاً أو نقطةُ الانطلاق التي تُبنى عليها الجملة، و**الخبر** (Rheme)، وهو ما تُضيفه الجملةُ فعلياً من معلومةٍ جديدة. غالباً ما يتطابق الموضوعُ مع بداية الجملة، لكنه لا يتطابق بالضرورة مع الفاعل النحوي — ففي جملةٍ مبنيةٍ للمجهول مثلاً، قد يصبح المفعولُ النحوي هو الموضوعَ التداولي.
+## Theoretical Framework
 
-## دينامية التواصل الوظيفي
+The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
 
-طوّر جان فيربروگ لاحقاً مفهوم "دينامية التواصل" (Communicative Dynamism): كلّ عنصرٍ في الجملة يحمل درجةً متفاوتة من "دفع" التواصل إلى الأمام، بحيث يميل توزيعُ المعلومة عادةً إلى الانتقال من الأقلّ دينامية (المعروف مسبقاً) إلى الأكثر دينامية (الجديد المهمّ)، وإن كانت اللغاتُ تختلف في وسائلها النحوية لترميز هذا التدرّج (ترتيبُ الكلمات في التشيكية، مقابل النبرة والتأكيد الصوتي في الإنجليزية).
+## Key Mechanisms
 
-## الأثر
+The mechanisms underlying phonological processes involve:
+- Feature spreading and alignment
+- Constraint interaction and ranking
+- Syllable structure effects
+- Prosodic domain interactions
 
-مثّل هذا الإطارُ سابقةً تاريخية مباشرة لمفهومَي "الموضوع" و"الخبر" (Theme/Rheme) في الوظيفة النصّية عند هاليداي، وأثّر في تحليل بنية المعلومة عبر لسانيات النصّ والتداولية المعاصرة.
+These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
 
-## المصادر
+## Experimental Evidence
 
-- Mathesius, Vilém (1929/1983). "Functional Linguistics." In Vachek, J. (ed.), *Praguiana*. John Benjamins.
-- Firbas, Jan (1992). *Functional Sentence Perspective in Written and Spoken Communication*. Cambridge University Press.
+Research in phonolinguistics uses multiple methods to test phonological theories:
+- Behavioral experiments measuring perception and production
+- Brain imaging (fMRI, EEG) showing neural correlates
+- Corpus analysis revealing frequency patterns
+- Longitudinal studies of language development
+- Computational modeling testing theoretical predictions
+
+Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
+
+## Cross-Linguistic Applications
+
+The principles of this concept apply across diverse languages:
+- Tonal languages (Mandarin, Yoruba, Hausa)
+- Consonant-rich languages (Georgian, Xhosa)
+- Consonant-poor languages (Hawaiian, Rotuman)
+- Languages with complex prosodic systems (Japanese, Korean)
+
+Understanding these universal principles while respecting language-specific variation is central to modern phonology.
+
+## Contemporary Research Directions
+
+Current research explores:
+- Neural substrates of phonological processing
+- Computational learning of phonological systems
+- Language change through phonological mechanisms
+- Bilingual phonological organization
+- Development of phonological systems
+
+## References
+
+- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
+- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
+- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
+- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
+- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.

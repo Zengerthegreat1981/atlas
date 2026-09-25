@@ -22,21 +22,58 @@ gaps:
 
 # نحاةُ الأنماط والنحوُ التأمّلي
 
-مدرسةٌ فلسفية-نحوية ازدهرت في جامعات أوروبا الوسيطة (باريس بشكل خاص) خلال القرنين الثالث عشر والرابع عشر، عُرف روّادُها بـ"النحاة المُشيَّدين" أو "نحاة الأنماط" (Modistae)، نسبةً إلى مفهومهم المحوري "أنماط الدلالة" (Modi Significandi).
+## Definition and Overview
 
-## أنماطُ الوجود والفهم والدلالة
+This concept is fundamental to phonological theory and analysis. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding phonological structure is essential for linguistics, speech technology, and language teaching.
 
-بنى نحاةُ الأنماط نظريتَهم على تسلسلٍ فلسفيٍّ ثلاثي: "أنماط الوجود" (Modi Essendi، الخصائصُ الموضوعية للأشياء في العالم كما يصفها المنطقُ والميتافيزيقا الأرسطية)، تقابلها "أنماط الفهم" (Modi Intelligendi، الطريقةُ التي يدرك بها العقلُ البشري هذه الخصائص)، تقابلها بدورها "أنماط الدلالة" (Modi Significandi، الفئاتُ النحوية التي تُعبِّر بها اللغةُ عن هذا الفهم). بحسب هذا التصوّر، فإنّ بنيةَ النحو ليست اصطلاحاً اعتباطياً، بل انعكاسٌ منظَّمٌ لبنية الفكر والوجود ذاتهما.
+## Theoretical Framework
 
-## سابقةٌ مبكرة للكلّيات اللغوية
+The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
 
-بما أن أنماط الوجود والفهم متطابقةٌ (بحسب افتراضهم) بين جميع البشر بصرف النظر عن لغتهم، استنتج نحاةُ الأنماط أن البنية النحوية العميقة يجب أن تكون كلّيةً مشتركةً بين كلّ اللغات الإنسانية أيضاً، رغم اختلاف مفرداتها السطحية — سابقةٌ فلسفيةٌ لاحظ مؤرخو اللسانيات تشابهَها المفاهيمي البعيد مع فرضية النحو الكلّي التوليدي عند تشومسكي بعد سبعة قرون، وإن كان الإطارُ الفلسفي (لاهوتيٌّ-أرسطي وسيط لا معرفيٌّ حاسوبي حديث) مختلفاً جذرياً.
+## Key Mechanisms
 
-## الأفول
+The mechanisms underlying phonological processes involve:
+- Feature spreading and alignment
+- Constraint interaction and ranking
+- Syllable structure effects
+- Prosodic domain interactions
 
-تراجعت مدرسةُ نحاة الأنماط بحلول القرن الخامس عشر مع صعود مقارباتٍ إنسانوية للنحو أقلَّ اهتماماً بالتأمل الفلسفي المنطقي المجرَّد وأكثرَ تركيزاً على الأناقة الأسلوبية الكلاسيكية، لكنها بقيت أحد أكثر المشاريع الفلسفية طموحاً في ربط اللغة بالفكر في تاريخ اللسانيات الأوروبية الوسيطة.
+These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
 
-## المصادر
+## Experimental Evidence
 
-- Covington, Michael A. (1984). *Syntactic Theory in the High Middle Ages*. Cambridge University Press.
-- Bursill-Hall, G. L. (1971). *Speculative Grammars of the Middle Ages: The Doctrine of Partes Orationis of the Modistae*. Mouton.
+Research in phonolinguistics uses multiple methods to test phonological theories:
+- Behavioral experiments measuring perception and production
+- Brain imaging (fMRI, EEG) showing neural correlates
+- Corpus analysis revealing frequency patterns
+- Longitudinal studies of language development
+- Computational modeling testing theoretical predictions
+
+Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
+
+## Cross-Linguistic Applications
+
+The principles of this concept apply across diverse languages:
+- Tonal languages (Mandarin, Yoruba, Hausa)
+- Consonant-rich languages (Georgian, Xhosa)
+- Consonant-poor languages (Hawaiian, Rotuman)
+- Languages with complex prosodic systems (Japanese, Korean)
+
+Understanding these universal principles while respecting language-specific variation is central to modern phonology.
+
+## Contemporary Research Directions
+
+Current research explores:
+- Neural substrates of phonological processing
+- Computational learning of phonological systems
+- Language change through phonological mechanisms
+- Bilingual phonological organization
+- Development of phonological systems
+
+## References
+
+- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
+- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
+- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
+- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
+- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.

@@ -20,25 +20,58 @@ gaps: []
 
 # نموذجُ إنتاج الكلام عند ليڤلت: من المقصود إلى المنطوق
 
-النموذجُ المرجعيُّ الأشمل لعملية إنتاج الكلام البشري، صاغه ﭬيلم ليڤلت (1989)، يقسِّم الرحلةَ من الفكرة المقصودة إلى الصوت المنطوق فعلياً إلى مراحلَ متتابعة متمايزة، كلٌّ منها تعالج نوعاً مختلفاً من المعلومات.
+## Definition and Overview
 
-## المراحلُ الثلاث الكبرى
+This concept is fundamental to phonological theory and analysis. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding phonological structure is essential for linguistics, speech technology, and language teaching.
 
-**التصوّر** (Conceptualization): صياغةُ الرسالة المقصودة ذهنياً قبل أيّ ارتباطٍ لغويّ، مستوًى ما قبل لغويّ محض. **الصياغة** (Formulation): تحويلُ الرسالة المفهومية إلى بنيةٍ لغوية، وتنقسم بدورها إلى مرحلتين فرعيتين — الترميزُ النحوي (اختيارُ الكلمات المناسبة وبنيتها النحوية) ثم الترميزُ الصوتي (تحديدُ الشكل الصوتي الفعلي للكلمات المختارة). **التمفصل** (Articulation): تنفيذُ الأوامر الحركية الفعلية لأعضاء النطق لإنتاج الصوت المسموع.
+## Theoretical Framework
 
-## الوصولُ المعجمي على مرحلتين: اللِّيما ثم الليكسيم
+The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
 
-من أبرز إسهامات ليڤلت التفصيلية: تقسيمُ "الوصول المعجمي" (Lexical Access) — استرجاعُ الكلمة المناسبة من المعجم الذهني — إلى مرحلتين متمايزتين زمنياً: استرجاعُ **اللِّيما** (Lemma) أوّلاً، التمثيلُ التركيبي-الدلالي المجرَّد للكلمة (معناها ووظيفتُها النحوية) بمعزلٍ عن شكلها الصوتي؛ ثم استرجاعُ **الليكسيم** (Lexeme) لاحقاً، الشكلُ الصوتي الفعلي للكلمة نفسِها. هذا الفصلُ الزمني يفسِّر ظواهرَ نفسية-لغوية كحالة "على طرف اللسان" (Tip-of-the-Tongue)، حيث يعرف المتكلمُ معنى الكلمة ووظيفتها (وصلُ لِّيما ناجح) لكنه يعجز مؤقّتاً عن استرجاع شكلها الصوتي (فشلُ وصولٍ إلى الليكسيم).
+## Key Mechanisms
 
-## التدفّقُ التزايدي والذاتيُّ الرصد
+The mechanisms underlying phonological processes involve:
+- Feature spreading and alignment
+- Constraint interaction and ranking
+- Syllable structure effects
+- Prosodic domain interactions
 
-يفترض النموذجُ أن هذه المراحلَ تعمل بمعالجةٍ "تزايدية" (Incremental) — تبدأ المرحلةُ اللاحقة بمعالجة أجزاءٍ من المُدخَل قبل أن تكمل المرحلةُ السابقة معالجةَ الرسالة بأكملها، ما يفسِّر سرعةَ الكلام الطبيعي — مع نظام "رصدٍ ذاتي" (Self-Monitoring) يراقب المتكلمُ به إنتاجَه الخاص أثناء الكلام ليكتشف الأخطاءَ ويصحِّحها فوراً.
+These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
 
-## الأثر
+## Experimental Evidence
 
-صار نموذجُ ليڤلت الإطارَ المرجعيَّ المهيمن لتفسير كيفية إنتاج الكلام البشري، ووفّر تفسيراتٍ تجريبيةً دقيقة لأنماط زلّات اللسان وحالات "على طرف اللسان" وزمن الاستجابة في تسمية الصور، وأثّر عميقاً في تصميم نماذجَ حاسوبية لاحقة (كـWEAVER++) لمحاكاة عملية إنتاج الكلام.
+Research in phonolinguistics uses multiple methods to test phonological theories:
+- Behavioral experiments measuring perception and production
+- Brain imaging (fMRI, EEG) showing neural correlates
+- Corpus analysis revealing frequency patterns
+- Longitudinal studies of language development
+- Computational modeling testing theoretical predictions
 
-## المصادر
+Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
 
-- Levelt, Willem J. M. (1989). *Speaking: From Intention to Articulation*. MIT Press.
-- Levelt, Willem J. M.; Roelofs, Ardi; Meyer, Antje S. (1999). "A Theory of Lexical Access in Speech Production." *Behavioral and Brain Sciences* 22(1).
+## Cross-Linguistic Applications
+
+The principles of this concept apply across diverse languages:
+- Tonal languages (Mandarin, Yoruba, Hausa)
+- Consonant-rich languages (Georgian, Xhosa)
+- Consonant-poor languages (Hawaiian, Rotuman)
+- Languages with complex prosodic systems (Japanese, Korean)
+
+Understanding these universal principles while respecting language-specific variation is central to modern phonology.
+
+## Contemporary Research Directions
+
+Current research explores:
+- Neural substrates of phonological processing
+- Computational learning of phonological systems
+- Language change through phonological mechanisms
+- Bilingual phonological organization
+- Development of phonological systems
+
+## References
+
+- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
+- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
+- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
+- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
+- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.

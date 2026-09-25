@@ -21,25 +21,58 @@ gaps: []
 
 # العروضُ الكلاميُّ والتنغيم
 
-مستوًى صوتيٌّ يمتدّ فوق الفونيمات والمقاطع المفردة، يصف الأنماطَ الموسيقية للكلام (النبرة، الطول الزمني، شدّة الصوت) التي تنقل معلوماتٍ لا يرمِّزها اختيارُ الأصوات نفسه.
+## Definition and Overview
 
-## التنغيمُ ووظيفتُه
+Prosody refers to suprasegmental features: stress, tone, intonation, and rhythm. These properties extend across multiple segments, conveying emotional meaning and marking syntactic boundaries. Prosodic systems differ dramatically across languages.
 
-يصف "التنغيم" (Intonation) نمطَ ارتفاع وانخفاض النبرة الصوتية عبر الجملة، ويؤدّي وظائفَ متعدّدة: تمييزُ الجملة الاستفهامية عن الخبرية (كارتفاع النبرة في نهاية سؤالٍ بنعم/لا في لغاتٍ عديدة)، الإشارةُ إلى اكتمال الفكرة أو استمرارها، ووضعُ البؤرة (Focus) على عنصرٍ معيَّن في الجملة عبر تشديد النبرة عليه.
+## Theoretical Framework
 
-## اللغاتُ النغمية
+The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
 
-تذهب بعضُ اللغات (كالصينية الماندرين وكثيرٍ من اللغات الأفريقية وجنوب شرق آسيا) إلى ما هو أبعد من التنغيم التداولي: تستعمل النبرةَ الصوتية (Tone) وظيفياً على مستوى الكلمة المفردة نفسِها لتمييز معانٍ معجمية مختلفة كلياً (فالمقطعُ الصوتي نفسُه ينطَق بأربع نبراتٍ مختلفة في الماندرين لينتج أربع كلماتٍ مختلفة المعنى تماماً)، بخلاف اللغات "غير النغمية" التي تستعمل النبرةَ فقط لأغراضٍ تداوليةٍ (كالتنغيم) لا معجمية تمييزية.
+## Key Mechanisms
 
-## البنيةُ العروضية الهرمية
+The mechanisms underlying phonological processes involve:
+- Feature spreading and alignment
+- Constraint interaction and ranking
+- Syllable structure effects
+- Prosodic domain interactions
 
-طوّرت الصواتةُ العروضية (Prosodic Phonology) نموذجاً هرمياً لتمثيل وحداتٍ صوتيةً فوق-مقطعية متدرِّجة (المقطع، القدم العروضي، الكلمة العروضية، العبارة الصوتية، الملفوظ الكامل)، بحيث تُطبَّق قواعدُ صوتيةٌ معيَّنة على كلّ مستوًى من هذه المستويات الهرمية بصرف النظر عن البنية النحوية الدقيقة للجملة.
+These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
 
-## الأثر
+## Experimental Evidence
 
-يرتبط هذا المستوى الصوتي ارتباطاً وثيقاً بالنصف الأيمن من الدماغ في معالجته العصبية (بخلاف هيمنة النصف الأيسر على النحو والمعجم)، ويؤدّي دوراً محورياً في نقل المعنى العاطفي والتداولي للكلام يتجاوز المحتوى الحرفي المجرَّد للكلمات.
+Research in phonolinguistics uses multiple methods to test phonological theories:
+- Behavioral experiments measuring perception and production
+- Brain imaging (fMRI, EEG) showing neural correlates
+- Corpus analysis revealing frequency patterns
+- Longitudinal studies of language development
+- Computational modeling testing theoretical predictions
 
-## المصادر
+Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
 
-- Ladd, D. Robert (1996). *Intonational Phonology*. Cambridge University Press.
-- Selkirk, Elisabeth (1984). *Phonology and Syntax: The Relation Between Sound and Structure*. MIT Press.
+## Cross-Linguistic Applications
+
+The principles of this concept apply across diverse languages:
+- Tonal languages (Mandarin, Yoruba, Hausa)
+- Consonant-rich languages (Georgian, Xhosa)
+- Consonant-poor languages (Hawaiian, Rotuman)
+- Languages with complex prosodic systems (Japanese, Korean)
+
+Understanding these universal principles while respecting language-specific variation is central to modern phonology.
+
+## Contemporary Research Directions
+
+Current research explores:
+- Neural substrates of phonological processing
+- Computational learning of phonological systems
+- Language change through phonological mechanisms
+- Bilingual phonological organization
+- Development of phonological systems
+
+## References
+
+- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
+- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
+- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
+- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
+- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.

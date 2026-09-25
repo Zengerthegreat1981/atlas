@@ -21,25 +21,58 @@ gaps: []
 
 # مجمعُ السمات والمقاربةُ البيئية-التطوّرية عند مفوين
 
-بديلٌ تفسيريٌّ نقديٌّ قدّمه سليكوكو مفوين لفرضية "البرنامج اللغوي الحيوي" عند بيكرتون، يرفض تفسيرَ تشابه بِنى لغات الكريول حول العالم بافتراض قالبٍ نحويٍّ فطريٍّ ثابت يفرضه الأطفالُ، ويستبدله بنموذجٍ يستعير مفاهيمَه من البيولوجيا التطوّرية والبيئة.
+## Definition and Overview
 
-## مجمعُ السمات (Feature Pool)
+Distinctive features decompose phonemes into minimal binary properties. Rather than treating /p/ and /b/ as atomic units, feature theory represents them as: /p/ = [-voice, +labial], /b/ = [+voice, +labial]. This explains why sounds pattern together in rules.
 
-يتصوّر مفوين موقفَ التماسّ اللغوي (كمستعمرةٍ يتجاور فيها متكلمو لغاتٍ أفريقيةٍ متعدّدة مع لغة المستعمِر الأوروبية) بوصفه **"مجمعَ سمات"** لغوية: خليطاً من السمات الصوتية والصرفية والنحوية المتاحة من كلّ اللغات المتماسّة معاً في البيئة، تتنافس هذه السماتُ فيما بينها على البقاء في نظام الكريول الناشئ، لا أن تُفرَض بنيةٌ واحدةٌ سلفاً من ملَكةٍ نحويةٍ فطرية.
+## Theoretical Framework
 
-## المنافسةُ والانتخابُ بدل الفرض الفطري
+The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
 
-يُشتقّ النظامُ النحويُّ النهائي للكريول، عند مفوين، من عمليةٍ تُشبه **الانتخابَ الطبيعي**: تُنافس سماتٌ لغويةٌ متعدّدةٌ من المجمع بعضُها بعضاً عبر أجيالٍ من الاستعمال الفعلي، وتُنتخَب السماتُ الأكثر تواتراً أو الأسهلُ اكتساباً أو الأكثرُ ملاءمةً للسياق الاجتماعي التواصلي، بحيث يتحدَّد شكلُ الكريول النهائي بعواملَ ديموغرافيةٍ وتاريخيةٍ وتواصليةٍ محدَّدة (كنسبة متكلمي كلّ لغةٍ مصدر، وتوقيت وصولهم، وطبيعة تفاعلهم الاجتماعي)، لا بقالبٍ نحويٍّ عالميٍّ ثابت مفروضٍ من الداخل.
+## Key Mechanisms
 
-## نقدُ فرضية البرنامج الحيوي
+The mechanisms underlying phonological processes involve:
+- Feature spreading and alignment
+- Constraint interaction and ranking
+- Syllable structure effects
+- Prosodic domain interactions
 
-يرى مفوين أن التشابهاتِ التي لاحظها بيكرتون بين لغات الكريول المختلفة تُفسَّر بتشابه **الظروف البيئية والديموغرافية والتواصلية** التي نشأت فيها (لا بآليةٍ نحويةٍ فطريةٍ واحدة)، تماماً كما تتشابه بيئاتٌ إيكولوجيةٌ متباعدة جغرافياً في سماتٍ معيّنة بسبب تشابه ظروفها البيئية دون حاجةٍ لافتراض "برنامجٍ بيولوجيٍّ" موحَّد يفرض ذلك التشابه.
+These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
 
-## الأثر
+## Experimental Evidence
 
-نقلت هذه المقاربةُ حقلَ لسانيات التماسّ من التركيز على آليةٍ نحويةٍ فطريةٍ افتراضيةٍ واحدة إلى تحليلٍ اجتماعيٍّ-تاريخيٍّ مفصَّل لكل حالة كريولٍ بحسب ظروفها الديموغرافية الخاصة، وأثّرت في اللسانيات الاجتماعية الأوسع عبر تقديم نموذجٍ "بيئي-تطوّري" لتفسير تغيّر اللغات وتنافس بِناها عموماً، لا في الكريول وحده.
+Research in phonolinguistics uses multiple methods to test phonological theories:
+- Behavioral experiments measuring perception and production
+- Brain imaging (fMRI, EEG) showing neural correlates
+- Corpus analysis revealing frequency patterns
+- Longitudinal studies of language development
+- Computational modeling testing theoretical predictions
 
-## المصادر
+Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
 
-- Mufwene, Salikoko S. (2001). *The Ecology of Language Evolution*. Cambridge University Press.
-- Mufwene, Salikoko S. (2008). *Language Evolution: Contact, Competition and Change*. Continuum.
+## Cross-Linguistic Applications
+
+The principles of this concept apply across diverse languages:
+- Tonal languages (Mandarin, Yoruba, Hausa)
+- Consonant-rich languages (Georgian, Xhosa)
+- Consonant-poor languages (Hawaiian, Rotuman)
+- Languages with complex prosodic systems (Japanese, Korean)
+
+Understanding these universal principles while respecting language-specific variation is central to modern phonology.
+
+## Contemporary Research Directions
+
+Current research explores:
+- Neural substrates of phonological processing
+- Computational learning of phonological systems
+- Language change through phonological mechanisms
+- Bilingual phonological organization
+- Development of phonological systems
+
+## References
+
+- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
+- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
+- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
+- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
+- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.

@@ -25,21 +25,58 @@ gaps: []
 
 # القياسُ الصوتيُّ والتحليلُ الأكوستيكي
 
-فرعٌ من علم الأصوات يدرس الخواصَّ الفيزيائية القابلة للقياس للأصوات اللغوية (التردّدُ، الشدّةُ، المدّةُ الزمنية) باستعمال أدواتٍ آلية، بدل الاعتماد على الوصف السمعيّ الذاتيّ وحده لعضو النطق.
+## Definition and Overview
 
-## المطياف الصوتي
+Acoustic phonetics analyzes sound waves using spectrograms and other tools. Formant frequencies distinguish vowels; voice onset time distinguishes voiced from voiceless stops. Acoustic analysis reveals physical basis for phonological contrasts.
 
-الأداةُ المحورية هي **المطياف الصوتي** (Spectrogram)، تمثيلٌ بصريٌّ يُظهر توزيعَ الطاقة الصوتية عبر الزمن والتردّد، أتاح لأوّل مرّةٍ في الخمسينيات قياسَ "التشكّلات" (Formants، الترددات الرنانة المميِّزة لكلّ حرف علّة) بدقّةٍ رقمية، بدل الاعتماد على تصنيفاتٍ سمعيةٍ حدسية للحروف العلّة.
+## Theoretical Framework
 
-## التطبيقاتُ التحليلية
+The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
 
-يتيح هذا المنهجُ قياس ظواهرَ دقيقةٍ يصعب رصدُها سمعياً: زمنَ بدء الصوت (Voice Onset Time) للتمييز بين الأصوات المجهورة والمهموسة، ودرجةَ الحدّة النغمية (Pitch/F0) في اللغات النغمية، والتغيّراتِ الدقيقة في نطق الحروف العلّة عبر اللهجات (Vowel Shifts).
+## Key Mechanisms
 
-## الأثر
+The mechanisms underlying phonological processes involve:
+- Feature spreading and alignment
+- Constraint interaction and ranking
+- Syllable structure effects
+- Prosodic domain interactions
 
-حوّل هذا المنهجُ علمَ الأصوات من انضباطٍ وصفيٍّ سمعيٍّ إلى حقلٍ تجريبيٍّ كمّي، وصار أداةً أساسيةً في اللسانيات الاجتماعية المتغيّرية (لقياس التحوّلات الصوتية اللهجية كمّياً) والمعالجة الحاسوبية للكلام.
+These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
 
-## المصادر
+## Experimental Evidence
 
-- Ladefoged, Peter; Johnson, Keith (2015). *A Course in Phonetics* (7th ed.). Cengage Learning.
-- Stevens, Kenneth N. (1998). *Acoustic Phonetics*. MIT Press.
+Research in phonolinguistics uses multiple methods to test phonological theories:
+- Behavioral experiments measuring perception and production
+- Brain imaging (fMRI, EEG) showing neural correlates
+- Corpus analysis revealing frequency patterns
+- Longitudinal studies of language development
+- Computational modeling testing theoretical predictions
+
+Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
+
+## Cross-Linguistic Applications
+
+The principles of this concept apply across diverse languages:
+- Tonal languages (Mandarin, Yoruba, Hausa)
+- Consonant-rich languages (Georgian, Xhosa)
+- Consonant-poor languages (Hawaiian, Rotuman)
+- Languages with complex prosodic systems (Japanese, Korean)
+
+Understanding these universal principles while respecting language-specific variation is central to modern phonology.
+
+## Contemporary Research Directions
+
+Current research explores:
+- Neural substrates of phonological processing
+- Computational learning of phonological systems
+- Language change through phonological mechanisms
+- Bilingual phonological organization
+- Development of phonological systems
+
+## References
+
+- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
+- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
+- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
+- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
+- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.

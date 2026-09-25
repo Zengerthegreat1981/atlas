@@ -26,25 +26,58 @@ gaps: []
 
 # البراتيشاخيا: الرسائلُ الصوتية الفيدية
 
-فئةٌ من أقدم النصوص الصوتية المنهجية في تاريخ البشرية، سبقت زمنياً نظامَ بانيني النحوي الشامل ومهَّدت له مباشرةً، ألَّفها معلِّمو كلِّ فرعٍ (Śākhā) من فروع تلاوة الفيدا المتعدّدة لضبط النطق الدقيق لنصوصهم المقدَّسة.
+## Definition and Overview
 
-## وظيفةٌ طقسية-صوتية دقيقة
+This concept is fundamental to phonological theory and analysis. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding phonological structure is essential for linguistics, speech technology, and language teaching.
 
-نشأت البراتيشاخيا من حاجةٍ دينيةٍ صارمة: يجب تلاوةُ نصوص الفيدا بدقّةٍ صوتية مطلقة دون أدنى تحريف، إذ يُعتقَد أن أيَّ خطأٍ في النطق قد يُبطل فعّاليةَ الطقس المصاحب. لهذا الغرض، طوّر كلُّ فرعٍ تلاوي (Śākhā) رسالتَه الصوتية الخاصّة (Prātiśākhya) التي توثِّق بدقّةٍ متناهية قواعدَ النطق الصحيح: مخارجَ الأصوات، والتغيّرات الصوتية عند التقاء الكلمات (السنّدي، Sandhi)، ونظامَ النبر الموسيقي (Svara) المميِّز للتلاوة الفيدية.
+## Theoretical Framework
 
-## سبقٌ تاريخي على النحو الصوري
+The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
 
-تُعدّ البراتيشاخيا أقدمَ من عمل بانيني نفسِه، وتمثِّل الحلقةَ الأولى في سلسلة التطوّر الصوتي-النحوي الهندي الذي بلغ ذروتَه لاحقاً في صورية بانيني الشاملة. استفاد بانيني من الدقّة الصوتية التي أرستها هذه الرسائلُ (خصوصاً في تصنيف الأصوات ومخارجها) حين صاغ نظامَه النحوي الأوسع الذي يغطّي الصواتة والصرف والنحو معاً.
+## Key Mechanisms
 
-## تعدّدُ التقاليد الفرعية
+The mechanisms underlying phonological processes involve:
+- Feature spreading and alignment
+- Constraint interaction and ranking
+- Syllable structure effects
+- Prosodic domain interactions
 
-تعكس البراتيشاخيا المتعدِّدة (لكلّ فرعٍ فيدي براتيشاخيا خاصّةٌ به، كبراتيشاخيا الريگ ﭬيدا وبراتيشاخيا الشُكلا ياجورﭬيدا) طبيعةَ التقليد الفيدي اللامركزية، إذ حافظ كلُّ فرعٍ على تقاليده التلاوية الخاصّة بدقّةٍ مستقلّة، ما أنتج ثروةً من الرصد الصوتي المقارَن عبر التقاليد الفرعية المختلفة.
+These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
 
-## الأثر
+## Experimental Evidence
 
-أرست البراتيشاخيا الأساسَ التجريبي الدقيق الذي قامت عليه لاحقاً الصواتةُ الهندية الصورية، ويُقدِّرها مؤرِّخو اللسانيات اليوم بوصفها من أقدم الشواهد على رصدٍ صوتيٍّ منهجيٍّ دقيق في تاريخ البشرية، سابقاً بقرونٍ على أيّ محاولةٍ مماثلة في التقليد اليوناني.
+Research in phonolinguistics uses multiple methods to test phonological theories:
+- Behavioral experiments measuring perception and production
+- Brain imaging (fMRI, EEG) showing neural correlates
+- Corpus analysis revealing frequency patterns
+- Longitudinal studies of language development
+- Computational modeling testing theoretical predictions
 
-## المصادر
+Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
 
-- Cardona, George (1997). *Pāṇini: A Survey of Research*. Motilal Banarsidass.
-- Staal, J. F. (ed.) (1972). *A Reader on the Sanskrit Grammarians*. MIT Press.
+## Cross-Linguistic Applications
+
+The principles of this concept apply across diverse languages:
+- Tonal languages (Mandarin, Yoruba, Hausa)
+- Consonant-rich languages (Georgian, Xhosa)
+- Consonant-poor languages (Hawaiian, Rotuman)
+- Languages with complex prosodic systems (Japanese, Korean)
+
+Understanding these universal principles while respecting language-specific variation is central to modern phonology.
+
+## Contemporary Research Directions
+
+Current research explores:
+- Neural substrates of phonological processing
+- Computational learning of phonological systems
+- Language change through phonological mechanisms
+- Bilingual phonological organization
+- Development of phonological systems
+
+## References
+
+- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
+- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
+- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
+- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
+- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.

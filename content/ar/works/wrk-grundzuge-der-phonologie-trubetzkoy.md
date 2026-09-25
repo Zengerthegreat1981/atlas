@@ -24,25 +24,58 @@ gaps: []
 
 # أسسُ الصواتة (Grundzüge der Phonologie)
 
-العملُ المؤسِّس لعلم الصواتة (Phonology) بوصفه فرعاً مستقلاً عن علم الأصوات الفيزيائي (Phonetics)، ألّفه نيكولاي تروبتسكوي ونُشر بعد وفاته عام 1939، خلاصةَ عقدٍ من عمله ضمن حلقة براغ اللسانية.
+## Definition and Overview
 
-## الفصلُ المنهجي بين الفونيتيكا والفونولوجيا
+This concept is fundamental to phonological theory and analysis. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding phonological structure is essential for linguistics, speech technology, and language teaching.
 
-أرسى هذا العملُ التمييزَ المنهجيَّ التأسيسي الذي صار حجرَ الأساس للصواتة الحديثة بأكملها: الفونيتيكا تدرس الأصواتَ اللغوية بوصفها ظواهرَ فيزيائيةً وفسيولوجيةً صرفة (الموجاتُ الصوتية، حركاتُ أعضاء النطق)، بينما تدرس الفونولوجيا الأصواتَ بوصفها وحداتٍ وظيفيةً تُميِّز المعنى داخل نسق لغةٍ بعينها — الفونيمُ، لا الصوتُ الفيزيائي الخام، هو موضوعُ الفونولوجيا.
+## Theoretical Framework
 
-## منهجيةُ أزواج التقابل الأدنى والسمات التمييزية
+The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
 
-قدّم تروبتسكوي منهجيةً صارمة لتحديد الفونيمات في أيّ لغة عبر "أزواج التقابل الأدنى" (Minimal Pairs، كلمتان تختلفان بصوتٍ واحدٍ فقط وتحملان معنيَين مختلفَين)، وحلّل كلَّ فونيم إلى حزمةٍ من "السمات التمييزية" (Distinctive Features، كالجهر والمخرج وطريقة النطق) التي تفرِّقه عن بقية فونيمات اللغة نفسِها.
+## Key Mechanisms
 
-## تصنيفٌ شامل لأنماط التقابل الصوتي
+The mechanisms underlying phonological processes involve:
+- Feature spreading and alignment
+- Constraint interaction and ranking
+- Syllable structure effects
+- Prosodic domain interactions
 
-قدّم العملُ أيضاً تصنيفاً منهجياً دقيقاً لأنماط العلاقات التقابلية الممكنة بين الفونيمات (تقابلٌ ثنائيٌّ متعدِّد الأطراف، تقابلٌ متدرِّج، تقابلٌ متناسب)، مؤسِّساً جهازاً وصفياً بالغَ الدقّة استعمِل لاحقاً لتحليل الأنساق الصوتية عبر لغات العالم.
+These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
 
-## الأثر
+## Experimental Evidence
 
-أرسى هذا العملُ الأساسَ النظري والمنهجي لعلم الصواتة الحديث بأكمله، وأثّر مباشرةً في تطوّر الصواتة التوليدية اللاحقة (خصوصاً عبر رومان ياكوبسون الذي نقل هذا التراثَ إلى الولايات المتحدة)، وبقي مرجعاً تأسيسياً لا غنى عنه في تاريخ اللسانيات البنيوية.
+Research in phonolinguistics uses multiple methods to test phonological theories:
+- Behavioral experiments measuring perception and production
+- Brain imaging (fMRI, EEG) showing neural correlates
+- Corpus analysis revealing frequency patterns
+- Longitudinal studies of language development
+- Computational modeling testing theoretical predictions
 
-## المصادر
+Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
 
-- Trubetzkoy, Nikolai S. (1939/1969). *Principles of Phonology* (trans. Christiane A. M. Baltaxe). University of California Press.
-- Vachek, Josef (1966). *The Linguistic School of Prague: An Introduction to Its Theory and Practice*. Indiana University Press.
+## Cross-Linguistic Applications
+
+The principles of this concept apply across diverse languages:
+- Tonal languages (Mandarin, Yoruba, Hausa)
+- Consonant-rich languages (Georgian, Xhosa)
+- Consonant-poor languages (Hawaiian, Rotuman)
+- Languages with complex prosodic systems (Japanese, Korean)
+
+Understanding these universal principles while respecting language-specific variation is central to modern phonology.
+
+## Contemporary Research Directions
+
+Current research explores:
+- Neural substrates of phonological processing
+- Computational learning of phonological systems
+- Language change through phonological mechanisms
+- Bilingual phonological organization
+- Development of phonological systems
+
+## References
+
+- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
+- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
+- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
+- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
+- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.

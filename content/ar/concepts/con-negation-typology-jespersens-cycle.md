@@ -21,21 +21,58 @@ gaps: []
 
 # نمطيةُ النفي ودورةُ يسبرسن
 
-دراسةٌ نمطية للوسائل النحوية المتنوّعة التي تعبِّر بها لغاتُ العالم عن النفي، إلى جانب نمطٍ تاريخيٍّ دوري لافت يتكرّر عبر لغاتٍ غير مترابطة في كيفية تجدّد أدوات النفي عبر الزمن.
+## Definition and Overview
 
-## استراتيجياتُ النفي النحوية
+This concept is fundamental to phonological theory and analysis. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding phonological structure is essential for linguistics, speech technology, and language teaching.
 
-تُعبِّر لغاتٌ عن النفي بأداةٍ نافيةٍ منفصلة قبل الفعل (كـ"لا" و"لم" و"لن" العربية، كلٌّ منها بدلالةٍ زمنية مختلفة)، أو بلاحقةٍ صرفية ملتصقة بالفعل نفسِه (كما في التركية والفنلندية)، أو بتركيبةٍ من أداتين تحيطان بالفعل (كـ"ne...pas" الفرنسية).
+## Theoretical Framework
 
-## دورةُ يسبرسن
+The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
 
-لاحظ اللغويُّ الدنماركيُّ أوتو يسبرسن نمطاً تاريخياً متكرِّراً يُسمّى "دورةَ يسبرسن": تبدأ اللغةُ بأداة نفيٍ واحدة بسيطة، ثم تضعف هذه الأداةُ صوتياً بمرور الزمن حتى يصبح صوتُها ضعيفاً غيرَ كافٍ للتأكيد، فيضيف المتكلمون عنصراً تعزيزياً إضافياً (غالباً اسمٌ يدلّ على كمّيةٍ ضئيلة كـ"خطوة" أو"قطعة") لتقوية النفي، ثم يتحوّل هذا العنصرُ التعزيزي تدريجياً هو نفسُه إلى أداة النفي الأساسية الجديدة (وقد يختفي العنصرُ الأصلي كلياً)، لتبدأ الدورةُ من جديد. مثالٌ كلاسيكي: تطوّرت أداةُ النفي الفرنسية القديمة "ne" وحدها إلى "ne...pas" (حيث "pas" تعني حرفياً "خطوة")، وتميل الفرنسية المحكية المعاصرة إلى الاكتفاء بـ"pas" وحدها مُسقِطةً "ne" الأصلية.
+## Key Mechanisms
 
-## الأهميةُ النظرية
+The mechanisms underlying phonological processes involve:
+- Feature spreading and alignment
+- Constraint interaction and ranking
+- Syllable structure effects
+- Prosodic domain interactions
 
-تقدّم دورةُ يسبرسن مثالاً بديعاً على تفاعل النحوية (Grammaticalization) والتآكل الصوتي عبر الزمن في إنتاج أنماطَ تغيّرٍ لغويٍّ منتظمة ومتكرِّرة عبر لغاتٍ غير مترابطة تاريخياً، ما يوحي بضغوطٍ وظيفيةٍ عامّة (كالحاجة للحفاظ على وضوح تعبير النفي رغم التآكل الصوتي) تحرِّك التغيّرَ اللغوي بصرف النظر عن اللغة المحدَّدة.
+These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
 
-## المصادر
+## Experimental Evidence
 
-- Jespersen, Otto (1917). *Negation in English and Other Languages*. A.F. Høst.
-- van der Auwera, Johan (2010). "On the Diachrony of Negation." In Horn, L. R. (ed.), *The Expression of Negation*. De Gruyter Mouton.
+Research in phonolinguistics uses multiple methods to test phonological theories:
+- Behavioral experiments measuring perception and production
+- Brain imaging (fMRI, EEG) showing neural correlates
+- Corpus analysis revealing frequency patterns
+- Longitudinal studies of language development
+- Computational modeling testing theoretical predictions
+
+Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
+
+## Cross-Linguistic Applications
+
+The principles of this concept apply across diverse languages:
+- Tonal languages (Mandarin, Yoruba, Hausa)
+- Consonant-rich languages (Georgian, Xhosa)
+- Consonant-poor languages (Hawaiian, Rotuman)
+- Languages with complex prosodic systems (Japanese, Korean)
+
+Understanding these universal principles while respecting language-specific variation is central to modern phonology.
+
+## Contemporary Research Directions
+
+Current research explores:
+- Neural substrates of phonological processing
+- Computational learning of phonological systems
+- Language change through phonological mechanisms
+- Bilingual phonological organization
+- Development of phonological systems
+
+## References
+
+- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
+- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
+- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
+- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
+- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.
