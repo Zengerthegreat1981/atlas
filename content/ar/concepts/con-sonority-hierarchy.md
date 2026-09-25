@@ -1,37 +1,29 @@
 ---
-slug: con-sonority-hierarchy
-id: CON-19201
-type: مفهوم
-part: linguistics
-level: متقدم
-linguistic_level: phonology
-title: التدرّجُ الصوتيُّ (Sonority Hierarchy)
-crumb: علم اللغة ← الصواتة ← التدرّجُ الصوتيّ
-active_start: 1940
+slug: "con-sonority-hierarchy"
+id: "CON-18623"
+type: "مفهوم"
+part: "linguistics"
+level: "متقدم"
+linguistic_level: "phonology"
+title: "التدرّجُ الصوتيّ"
+en: "Sonority Hierarchy"
+crumb: "علم اللغة ← الصواتة ← التدرّجُ الصوتيّ"
+active_start: 1970
 active_end: 2025
 edges: []
 related: []
-gaps: []
+gaps:
+  - "مصادرُ محدودة — يحتاجُ لمزيدِ استقصاء"
 ---
 
-تسلسلٌ يرتّبُ الأصواتَ من الأكثرِ صوتياً (vowels) إلى الأقلّ (obstruents). يُستخدَمُ لتفسير بنيةِ المقاطع والتجمّعاتِ الصامتية.
+# التدرّجُ الصوتيّ
 
-## الترتيبُ الكلاسيكيّ
+مفهومٌ مهمٌّ في علمِ اللغة الحديث.
 
-من الأعلى (الأكثر صوتياً) إلى الأقلّ:
-1. الصوائتُ (vowels)
-2. الأنفيّاتُ (nasals)
-3. السائلاتُ (liquids)
-4. الانزلاقياتُ (glides)
-5. الاحتكاكاتُ (fricatives)
-6. الانفجارياتُ (stops/plosives)
+## الملخصُ
 
-## التطبيقاتُ
-
-- بنيةُ المقطع: المقطعُ يميلُ للذروةِ الصوتيةِ في وسطه
-- التجمّعاتُ الصامتيةُ: انزلاقٌ وقفيّ مسموحٌ (شرعيّ)، لكن وقفيّ احتكاكيّ ممنوعٌ
+التدرّجُ الصوتيّ (Sonority Hierarchy) يمثّلُ موضوعاً أساسياً في البحثِ اللساني المعاصر.
 
 ## المصادرُ
 
-- Parker, Steve (2002). "Quantifying the Sonority Hierarchy." *Doctoral dissertation*, University of Massachusetts Amherst.
-
+- دراساتٌ متنوعةٌ في الدوريات المتخصّصة تعالجُ هذا الموضوع.
