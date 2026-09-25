@@ -1,5 +1,5 @@
 ---
-slug: "elena-lieven"
+slug: "thk-elena-lieven"
 id: "THK-13196"
 type: "مفكّر"
 part: "linguistics"
@@ -12,8 +12,7 @@ birth_year: 1962
 fields: ["child language acquisition", "usage-based learning", "frequency effects"]
 affiliation: "معهد ماكس بلانك"
 primary_school: "sch-usage-based-linguistics"
-edges:
-- rel: "belongs_to", target: "sch-usage-based-linguistics", target_type: "مدرسة"
+edges: []
 related: []
 gaps: []
 ---

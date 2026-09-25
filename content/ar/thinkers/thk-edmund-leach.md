@@ -19,8 +19,6 @@ related:
 - id: "sch-kinship-systems-comparative", title: "نظم القرابة المقارنة", type: "مدرسة"
 - id: "thk-fredrik-barth", title: "فريدريك بارت (Fredrik Barth)", type: "مفكر"
 - id: "thk-audrey-richards", title: "أودري ريتشاردز (Audrey Richards)", type: "مفكر"
-- id: "con-asymmetric-alliance", title: "التحالف غير المتماثل (Asymmetric Alliance)", type: "مفهوم"
-- id: "thk-levi-strauss", title: "كلود ليفي-شتراوس", type: "مفكر"
 gaps:
 - "يحتاج إلى توسّع أكبر لدراسته على الحرمات الزواجية (Marriage Prohibitions) والعلاقة بين القرابة والسياسة."
 - "ربط مفقود مع نقاشات لاحقة عن الفاعلية (Agency) والقيود البنيوية في نظم القرابة."

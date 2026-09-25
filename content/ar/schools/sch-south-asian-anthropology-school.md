@@ -20,7 +20,6 @@ edges:
 related:
 - id: "thk-mckim-marriott", title: "ماكيم ماريُّت (McKim Marriott)", type: "مفكر"
 - id: "thk-gloria-raheja", title: "غلوريا راهيجا (Gloria Raheja)", type: "مفكر"
-- id: "thk-susobhan-sarkar", title: "سوسوبهان سركار (Susobhan Sarkar)", type: "مفكر"
 gaps:
   - "إضافة دراسات ميدانية هندية عن النظام الطبقي والقرية والحداثة."
   - "توثيق الأنثروبولوجيين السريلانكيين والبنغاليين."

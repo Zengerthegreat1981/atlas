@@ -21,7 +21,6 @@ related:
 - id: "con-nazm-theory-jurjani", title: "نظرية النظم عند الجرجاني (Nazm Theory)", type: "مفهوم"
 - id: "sch-saussurean-structuralism", title: "البنيويةُ السوسيرية (Saussurean Structuralism)", type: "مدرسة"
 - id: "con-linguistic-value-saussure", title: "القيمةُ اللغوية (Valeur Linguistique)", type: "مفهوم"
-- id: "thk-al-jurjani", title: "عبد القاهر الجرجاني", type: "مفكر"
 - id: "thk-ferdinand-de-saussure", title: "فرديناند دي سوسور", type: "مفكر"
 - id: "thk-kamal-abu-deeb", title: "كمال أبو ديب", type: "مفكر"
 - id: "thk-margaret-larkin", title: "مارغريت لاركين", type: "مفكر"

@@ -20,7 +20,6 @@ edges:
 related:
 - id: "thk-suhrawardi", title: "شهاب الدين يحيى بن حبش السهروردي (شيخ الإشراق)", type: "مفكر"
 - id: "wrk-al-talwihat-suhrawardi", title: "التلويحات اللوحية والعرشية للسهروردي", type: "عمل / كتاب"
-- id: "thk-al-shahrazuri", title: "شمس الدين محمد بن محمود الشهرزوري", type: "مفكر"
 - id: "thk-qutb-al-din-al-shirazi", title: "قطب الدين محمود بن مسعود الشيرازي", type: "مفكر"
 - id: "thk-mulla-sadra", title: "ملا صدرا الشيرازي (صدر الدين الشيرازي)", type: "مفكر"
 - id: "sch-ishraqiyya", title: "الإشراقية", type: "مدرسة"

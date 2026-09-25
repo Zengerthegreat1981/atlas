@@ -13,7 +13,6 @@ edges:
 - rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 related:
 - id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
-- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا (الشيخ الرئيس)", type: "مفكر"
 - id: "con-universals-debate", title: "جدل الكليات (مشكلة الكُنْه)", type: "مفهوم"
 - id: "con-nominalism-universals-concept", title: "الاسمية وإنكار الوجود الواقعي للكليات (Nominalism)", type: "مفهوم"
 - id: "con-gradational-monism-tashkik", title: "التشكيك الوجودي والتفاضل في الشدة (Tashkik al-Wujud)", type: "مفهوم"

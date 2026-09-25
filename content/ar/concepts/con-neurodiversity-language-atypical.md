@@ -1,5 +1,5 @@
 ---
-slug: "neurodiversity-language-atypical"
+slug: "con-neurodiversity-language-atypical"
 id: "CON-18433"
 type: "مفهوم"
 part: "linguistics"

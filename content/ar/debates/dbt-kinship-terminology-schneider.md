@@ -14,8 +14,6 @@ related:
 - id: "thk-david-schneider", title: "ديڤيد شنايدر (David M. Schneider)", type: "مفكر"
 - id: "thk-meyer-fortes", title: "مايير فورتس (Meyer Fortes)", type: "مفكر"
 - id: "thk-evans-pritchard", title: "إي إي إيفانز-بريتشارد (E.E. Evans-Pritchard)", type: "مفكر"
-- id: "con-kinship-systems", title: "أنساقُ القرابة (Kinship Systems)", type: "مفهوم"
-- id: "con-descent-theory", title: "نظريةُ النسب (Descent Theory)", type: "مفهوم"
 gaps: []
 ---
 

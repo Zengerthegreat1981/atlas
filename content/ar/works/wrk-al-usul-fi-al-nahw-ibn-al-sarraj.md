@@ -16,7 +16,6 @@ edges:
 - rel: "belongs_to", target: "sch-basra-kufa-grammatical-dispute", target_type: "مدرسة"
 related:
 - id: "sch-basra-kufa-grammatical-dispute", title: "مدرسةُ الكوفة والخلافُ النحويّ (Kufa Grammatical School)", type: "مدرسة"
-- id: "thk-ibn-al-sarraj", title: "أبو بكر محمد بن السرّاج", type: "مفكر"
 - id: "wrk-al-muqtadab-mubarrad", title: "المقتضَب", type: "أثر"
 gaps: []
 ---

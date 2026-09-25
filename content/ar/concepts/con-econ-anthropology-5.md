@@ -9,10 +9,8 @@ en: "Labor and Production"
 crumb: "anthropology"
 active_start: 1867
 active_end: "مستمر"
-edges:
-  - rel: "belongs_to", target: "sch-economic-anthropology", target_type: "مدرسة"
+edges: []
 related:
-  - id: "thk-karl-marx", title: "كارل ماركس", type: "مفكر"
   - id: "thk-eric-wolf", title: "إريك وولف", type: "مفكر"
   - id: "con-labor-precarity", title: "هشاشةُ العمل", type: "مفهوم"
 gaps:

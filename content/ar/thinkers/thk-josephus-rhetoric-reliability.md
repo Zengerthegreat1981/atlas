@@ -13,7 +13,7 @@ active_end: 100
 cultural_origin: "jewish"
 edges: []
 related:
-  - id: "sch-greek-roman-historiography", title: "المؤرخون اليونان والرومان", type: "school"
+  - id: "sch-greco-roman-historiography", title: "المؤرخون اليونان والرومان", type: "school"
   - id: "con-witness-testimony-antiquity", title: "شهادة الشاهد العيان", type: "concept"
 gaps: []
 ---

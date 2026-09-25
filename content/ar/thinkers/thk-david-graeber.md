@@ -15,8 +15,7 @@ active_end: 2020
 edges:
 - rel: "belongs_to", target: "sch-anthropological-political-economy", target_type: "مدرسة"
 related:
-- id: "wrk-debt-first-5000-years", title: "الدين: أول 5000 سنة (Debt: The First 5,000 Years)", type: "عمل"
-- id: "con-value-anthropology", title: "القيمةُ الأنثروبولوجية", type: "مفهوم"
+- id: "wrk-debt-first-5000-years-graeber", title: "الدين: أول 5000 سنة (Debt: The First 5,000 Years)", type: "عمل"
 gaps: []
 ---
 

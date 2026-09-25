@@ -17,7 +17,6 @@ active_end: 390
 edges: []
 related:
 - id: "thk-manetho-egyptian-historian", title: "مانيتون", type: "مفكر"
-- id: "con-demotic-script-historiography", title: "الكتابةُ الديموطيقيّة والتأريخ", type: "مفهوم"
 gaps: []
 ---
 

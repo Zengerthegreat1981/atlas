@@ -11,9 +11,8 @@ birth_country: "USA"
 active_from: 2010
 active_to: 2026
 primary_school: "sch-anthropology-of-race-technology"
-edges:
-- rel: "belongs_to", target: "sch-anthropology-of-race-technology", target_type: "مدرسة"
-related:
+edges: []
+related: []
 gaps:
   - "إضافة دراسات وأعمال لهذا المفكر."
 ---

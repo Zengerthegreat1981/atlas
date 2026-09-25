@@ -1,5 +1,5 @@
 ---
-slug: "michael-tomasello"
+slug: "thk-michael-tomasello"
 id: "THK-13197"
 type: "مفكّر"
 part: "linguistics"
@@ -12,8 +12,7 @@ birth_year: 1950
 fields: ["usage-based linguistics", "child development", "construction grammar", "theory of mind"]
 affiliation: "معهد ماكس بلانك"
 primary_school: "sch-usage-based-linguistics"
-edges:
-- rel: "belongs_to", target: "sch-usage-based-linguistics", target_type: "مدرسة"
+edges: []
 related: []
 gaps: []
 ---

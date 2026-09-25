@@ -11,7 +11,6 @@ active_start: 1986
 active_end: "مستمر"
 edges: []
 related:
-- id: "thk-raymond-sherrard", title: "ريموند شيرارد / الأنثروبولوجيا الانعكاسية", type: "مفكر"
 - id: "sch-writing-culture-crisis", title: "أزمة التمثيل وكتابة الثقافة (Writing Culture)", type: "مدرسة"
 - id: "sch-feminist-anthropology", title: "الأنثروبولوجيا النسوية (Feminist Anthropology)", type: "مدرسة"
 gaps: []

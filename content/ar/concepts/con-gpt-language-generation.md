@@ -1,5 +1,5 @@
 ---
-slug: "gpt-language-generation"
+slug: "con-gpt-language-generation"
 id: "CON-18423"
 type: "مفهوم"
 part: "linguistics"

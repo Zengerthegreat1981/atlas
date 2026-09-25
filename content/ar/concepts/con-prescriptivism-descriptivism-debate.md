@@ -1,5 +1,5 @@
 ---
-slug: "prescriptivism-descriptivism-debate"
+slug: "con-prescriptivism-descriptivism-debate"
 id: "CON-18435"
 type: "مفهوم"
 part: "linguistics"

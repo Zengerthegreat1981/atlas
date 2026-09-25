@@ -10,10 +10,8 @@ crumb: "psychiatry ← اضطرابات الشخصية ← النماذج الق
 active_start: 1900
 active_end: "مستمر"
 language: "الإنجليزية"
-edges:
-- rel: "belongs_to", target: "sch-personality-disorders", target_type: "مدرسة"
-related:
-- id: "sch-personality-disorders", title: "مدرسة اضطرابات الشخصية", type: "مدرسة"
+edges: []
+related: []
 gaps:
   - "تم إنشاء هذا الملف كجزء من Phase 3 (2026-09-24)."
 ---

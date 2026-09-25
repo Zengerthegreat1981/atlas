@@ -11,9 +11,8 @@ birth_country: "UK"
 active_from: 2006
 active_to: 2026
 primary_school: "sch-medical-humanities-anthropology"
-edges:
-- rel: "belongs_to", target: "sch-medical-humanities-anthropology", target_type: "مدرسة"
-related:
+edges: []
+related: []
 gaps:
   - "إضافة دراسات وأعمال لهذا المفكر."
 ---

@@ -22,7 +22,6 @@ edges:
 - rel: "evolved_from", target: "thk-marcel-mauss", target_type: "مفكر"
 related:
 - id: "thk-marshall-sahlins", title: "مارشال سالينز (Marshall Sahlins)", type: "مفكر"
-- id: "con-gift-reciprocity-anthropology", title: "الهبة والمعاملة بالمثل (Gift and Reciprocity)", type: "مفهوم"
 - id: "sch-anthropological-political-economy", title: "الاقتصادُ السياسيُّ العالميُّ والتاريخ", type: "مدرسة"
 - id: "thk-marcel-mauss", title: "مارسيل موس (Marcel Mauss)", type: "مفكر"
 - id: "dbt-substantivism-formalism-economic-anthropology", title: "جدل الجوهرانية والصوريّة في الاقتصاد الأنثروبولوجي", type: "جدل"

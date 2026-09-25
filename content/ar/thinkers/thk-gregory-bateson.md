@@ -16,7 +16,6 @@ edges:
 - rel: "belongs_to", target: "sch-psychological-anthropology", target_type: "مدرسة"
 related:
 - id: "sch-psychological-anthropology", title: "الأنثروبولوجيا النفسية وتعلّمُ الثقافة (Psychological Anthropology — Whiting, Shweder, Luhrmann)", type: "مدرسة"
-- id: "thk-margaret-mead", title: "مارغريت ميد (Margaret Mead)", type: "مفكر"
 gaps:
   - "يوجد ملفٌّ سابقٌ لنفس الشخص بوسم `part: \"psychology\"` (`thk-gbateson`، THK-0628) يركِّز على دوره في العلاج الأسري الاستراتيجي ونظرية القيد المزدوج ضمن سياق علم النفس العلاجي؛ هذا الملفُّ يوثِّق إسهامَه الأنثروبولوجيَّ تحديداً (نيڤن، خطوات نحو إيكولوجيا العقل، السكيزموجينيزيس) دون استنساخِ محتوى الملفّ الآخر."
 ---

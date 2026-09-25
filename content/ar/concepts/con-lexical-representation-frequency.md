@@ -1,5 +1,5 @@
 ---
-slug: "lexical-representation-frequency"
+slug: "con-lexical-representation-frequency"
 id: "CON-18414"
 type: "مفهوم"
 part: "linguistics"

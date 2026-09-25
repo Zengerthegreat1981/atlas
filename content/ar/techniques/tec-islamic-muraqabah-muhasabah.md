@@ -14,7 +14,6 @@ edges:
 - rel: "belongs_to", target: "sch-islamic-psychology", target_type: "مدرسة"
 related:
 - id: "met-al-ghazali-mirror-heart", title: "مرآة القلب للغزالي: استعارة صقل النفس وانعكاس الحقيقة", type: "استعارة/مجاز مؤسِّس"
-- id: "thk-al-ghazali", title: "أبو حامد محمد بن محمد الغزالي (حجة الإسلام)", type: "مفكر"
 - id: "thk-mbadri", title: "مالك بدري", type: "مفكر"
 - id: "tec-cbt-mind-mindfulness-meditation", title: "تأمل اليقظة الذهنية", type: "تقنية/تدخل علاجي"
 gaps:

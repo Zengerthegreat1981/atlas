@@ -1,5 +1,5 @@
 ---
-slug: "phonetic-reduction-frequency"
+slug: "con-phonetic-reduction-frequency"
 id: "CON-18415"
 type: "مفهوم"
 part: "linguistics"

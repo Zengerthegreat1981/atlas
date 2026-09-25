@@ -15,7 +15,6 @@ edges:
 - rel: "belongs_to", target: "sch-wahdat-alwujud", target_type: "مدرسة"
 related:
 - id: "sch-wahdat-alwujud", title: "العرفان النظري / وحدة الوجود (المدرسة الأكبرية — الشيخ الأكبر ابن عربي)", type: "مدرسة"
-- id: "thk-ibn-arabi", title: "محيي الدين بن عربي (الشيخ الأكبر)", type: "مفكر"
 - id: "thk-sadreddin-konevi", title: "صدر الدين القونوي", type: "مفكر"
 gaps:
   - "تأويل ابن عربي نفسه (في رسائل خاصة) قد يختلف عن 'وحدة الوجود' كما شرحها القونوي وابن سبعين."

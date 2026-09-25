@@ -14,7 +14,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-khaldunian-ilm-al-umran", target_type: "مدرسة"
 related:
-- id: "thk-ibn-khaldun", title: "عبد الرحمن بن محمد بن خلدون الحضرمي", type: "مفكر"
 - id: "sch-khaldunian-ilm-al-umran", title: "علم العمران البشري الخلدوني", type: "مدرسة"
 - id: "crt-gellner-application-asabiyyah-generalizability-debate", title: "تطبيق غيلنر الأنثروبولوجي لمفهوم العصبية الخلدوني وإشكالية تعميمه التاريخي", type: "نقد خارجي موثَّق"
 gaps:

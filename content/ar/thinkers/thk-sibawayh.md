@@ -20,7 +20,6 @@ edges:
 related:
 - id: "sch-arabic-grammatical-tradition", title: "التقليد النحوي واللغوي العربي الكلاسيكي", type: "مدرسة"
 - id: "wrk-al-kitab-sibawayh", title: "الكتاب", type: "عمل / كتاب"
-- id: "thk-al-khalil-ibn-ahmad", title: "الخليلُ بن أحمد الفراهيدي", type: "مفكر"
 - id: "thk-jonathan-owens", title: "جوناثان أُوِنز", type: "مفكر"
 - id: "thk-michael-carter", title: "مايكل غراهام كارتر", type: "مفكر"
 gaps:

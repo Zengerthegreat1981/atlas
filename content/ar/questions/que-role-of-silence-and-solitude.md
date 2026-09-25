@@ -13,7 +13,6 @@ edges:
 - rel: "belongs_to", target: "sch-buddhism-early", target_type: "مدرسة"
 related:
 - id: "thk-buddha", title: "بوذا (سيدهارتا غوتاما)", type: "مفكر"
-- id: "thk-al-ghazali", title: "أبو حامد محمد بن محمد الغزالي (حجة الإسلام)", type: "مفكر"
 - id: "thk-john-cacioppo", title: "جون كاسيوبو", type: "مفكر"
 - id: "wrk-loneliness-cacioppo", title: "الوحدة: الطبيعة البشرية والحاجة للترابط الاجتماعي", type: "عمل / كتاب"
 gaps:

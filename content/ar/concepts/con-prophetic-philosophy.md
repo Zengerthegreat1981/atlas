@@ -17,7 +17,6 @@ related:
 - id: "thk-judah-halevi", title: "يهوذا اللاوي (أبو الحسن)", type: "مفكر"
 - id: "wrk-kuzari-judah-halevi", title: "كتاب الكوزري (الحجة والدليل) ليهوذا اللاوي", type: "عمل / كتاب"
 - id: "thk-maimonides", title: "موسى بن ميمون (رمبام)", type: "مفكر"
-- id: "thk-al-ghazali", title: "أبو حامد محمد بن محمد الغزالي (حجة الإسلام)", type: "مفكر"
 - id: "wrk-tahafut-al-falasifa-ghazali", title: "تهافت الفلاسفة لأبي حامد الغزالي", type: "عمل / كتاب"
 - id: "thk-bonaventure", title: "بونافنتورا (جيوفاني دي فيدانزا)", type: "مفكر"
 - id: "thk-mbuber", title: "مارتن بُبَر", type: "مفكر"

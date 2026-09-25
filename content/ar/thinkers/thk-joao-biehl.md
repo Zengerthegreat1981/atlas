@@ -8,8 +8,7 @@ title: "جواو بيل"
 en: "João Biehl"
 dates: "1969 – "
 birth_country: "البرازيل"
-edges:
-- rel: "belongs_to", target: "sch-critical-medical-anthropology", target_type: "مدرسة"
+edges: []
 related: []
 gaps: []
 ---

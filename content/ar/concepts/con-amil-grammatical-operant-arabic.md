@@ -19,7 +19,6 @@ edges:
 related:
 - id: "sch-basra-kufa-grammatical-dispute", title: "مدرسةُ الكوفة والخلافُ النحويّ (Kufa Grammatical School)", type: "مدرسة"
 - id: "con-qiyas-sama-illa-arabic-grammar", title: "القياسُ والسماعُ والعلّةُ النحوية: أصولُ منهج النحو العربي", type: "مفهوم"
-- id: "thk-ibn-al-anbari", title: "أبو البركات ابن الأنباري", type: "مفكر"
 gaps: []
 ---
 

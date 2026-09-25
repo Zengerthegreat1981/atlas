@@ -14,7 +14,6 @@ active_end: 2012
 edges: []
 related:
   - id: "sch-social-history-bottom-up", title: "التاريخُ الاجتماعيُّ من الأسفل", type: "مدرسة"
-  - id: "con-social-history-definition", title: "التاريخُ الاجتماعيّ (Social History)", type: "مفهوم"
 gaps: []
 ---
 

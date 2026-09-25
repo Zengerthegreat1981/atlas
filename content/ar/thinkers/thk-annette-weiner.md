@@ -18,7 +18,6 @@ related:
 - id: "sch-feminist-anthropology", title: "الأنثروبولوجيا النسوية وأنثروبولوجيا الجندر (Feminist Anthropology)", type: "مدرسة"
 - id: "thk-marilyn-strathern", title: "ماريلين ستراذرن (Marilyn Strathern)", type: "مفكر"
 - id: "thk-marcel-mauss", title: "مارسيل موس (Marcel Mauss)", type: "مفكر"
-- id: "con-inalienable-possessions", title: "Inalienable Possessions", type: "مفهوم"
 gaps: []
 ---
 # أنيت واينر (Annette Weiner)

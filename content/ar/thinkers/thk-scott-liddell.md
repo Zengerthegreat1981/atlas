@@ -18,9 +18,6 @@ edges:
 - rel: "belongs_to", target: "sch-sign-language-linguistics", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-sign-language-linguistics", target_type: "مدرسة"
 related:
-- id: "con-sign-language-spatial-grammar", title: "النحوُ المكانيُّ في لغات الإشارة (Spatial Grammar)", type: "مفهوم"
-- id: "con-classifier-predicates-sign-language", title: "المصنِّفاتُ في لغة الإشارة (Classifier Predicates)", type: "مفهوم"
-- id: "con-non-manual-markers", title: "العلاماتُ غيرُ اليدوية (Non-Manual Markers)", type: "مفهوم"
 - id: "sch-sign-language-linguistics", title: "لسانياتُ لغة الإشارة (Sign Language Linguistics)", type: "مدرسة"
 gaps: ""
 ---

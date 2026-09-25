@@ -1,5 +1,5 @@
 ---
-slug: "linguistic-memes-internet-culture"
+slug: "con-linguistic-memes-internet-culture"
 id: "CON-18409"
 type: "مفهوم"
 part: "linguistics"

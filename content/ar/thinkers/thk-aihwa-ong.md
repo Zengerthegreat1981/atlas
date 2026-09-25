@@ -8,8 +8,7 @@ title: "أيهوا أونغ"
 en: "Aihwa Ong"
 dates: "1951 – "
 birth_country: "ماليزيا"
-edges:
-- rel: "belongs_to", target: "sch-asian-anthropology-contemporary", target_type: "مدرسة"
+edges: []
 related: []
 gaps: []
 ---

@@ -15,15 +15,12 @@ publication_year: 1231
 original_language: "العربية"
 edges:
 - rel: "belongs_to", target: "sch-wahdat-alwujud", target_type: "مدرسة"
-- rel: "authored_by", target: "thk-ibn-arabi", target_type: "مفكر"
 related:
-- id: "thk-ibn-arabi", title: "محيي الدين بن عربي (الشيخ الأكبر)", type: "مفكر"
 - id: "sch-akbari", title: "المدرسة الأكبرية (مدرسة الإمبراطور أكبر المغولي)", type: "مدرسة"
 - id: "wrk-fusus-al-hikam-ibn-arabi", title: "فصوص الحكم لمحيي الدين بن عربي", type: "عمل / كتاب"
 - id: "con-wahdat-al-wujud", title: "وحدة الوجود", type: "مفهوم"
 - id: "thk-sadr-al-din-al-qunawi", title: "صدر الدين محمد بن إسحاق القونوي", type: "مفكر"
 - id: "thk-abd-al-karim-al-jili", title: "عبد الكريم بن إبراهيم الجيلي", type: "مفكر"
-- id: "thk-ibn-taymiyya", title: "تقي الدين أبو العباس أحمد ابن تيمية", type: "مفكر"
 gaps:
   - "الطبعة النقدية لعثمان يحيى (القاهرة، من 1972) لم تكتمل ووقفت دون استيعاب الكتاب كله، فلا توجد إلى اليوم طبعة نقدية تامّة للفتوحات؛ عدد الأجزاء الصادرة منها وسنة توقّفها لم يُتحقّق منهما هنا."
   - "لم تُتحقّق هنا سنةُ تحرير كل باب على حدة، وهي مسألة قائمة لأن النسخة الثانية أُعيد فيها ترتيب مواضع ونُقلت فقرات، فنسبةُ فقرة بعينها إلى 1231 أو إلى 1238 تحتاج مقابلةً على مخطوط قونية."

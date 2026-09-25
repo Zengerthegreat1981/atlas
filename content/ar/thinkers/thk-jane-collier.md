@@ -14,11 +14,8 @@ active_start: 1975
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-feminist-anthropology", target_type: "مدرسة"
-- rel: "belongs_to", target: "sch-gender-kinship-studies", target_type: "مدرسة"
 related:
 - id: "sch-feminist-anthropology", title: "الأنثروبولوجيا النسوية", type: "مدرسة"
-- id: "con-gender-kinship-intersection", title: "تقاطع الجندر والقرابة", type: "مفهوم"
-- id: "con-kinship-political-economy", title: "القرابة والاقتصاد السياسي", type: "مفهوم"
 - id: "thk-sylvia-yanagisako", title: "سيلفيا يانجسكو", type: "مفكر"
 - id: "thk-david-schneider", title: "ديفيد شنايدر", type: "مفكر"
 gaps:

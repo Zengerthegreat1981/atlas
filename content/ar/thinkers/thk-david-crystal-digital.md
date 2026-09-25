@@ -1,5 +1,5 @@
 ---
-slug: "david-crystal-digital"
+slug: "thk-david-crystal-digital"
 id: "THK-13187"
 type: "مفكّر"
 part: "linguistics"
@@ -12,8 +12,7 @@ birth_year: 1941
 fields: ["internet language", "digital communication", "prescriptivism"]
 affiliation: "جامعة بانجور"
 primary_school: "sch-digital-communication"
-edges:
-- rel: "belongs_to", target: "sch-digital-communication", target_type: "مدرسة"
+edges: []
 related: []
 gaps: []
 ---

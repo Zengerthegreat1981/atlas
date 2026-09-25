@@ -11,9 +11,8 @@ birth_country: "UK"
 active_from: 1970
 active_to: 2026
 primary_school: "sch-dwelling-anthropology"
-edges:
-- rel: "belongs_to", target: "sch-dwelling-anthropology", target_type: "مدرسة"
-related:
+edges: []
+related: []
 gaps:
   - "إضافة دراسات وأعمال لهذا المفكر."
 ---

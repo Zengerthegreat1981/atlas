@@ -1,5 +1,5 @@
 ---
-slug: "acoustic-phonetics-technology"
+slug: "con-acoustic-phonetics-technology"
 id: "CON-18434"
 type: "مفهوم"
 part: "linguistics"

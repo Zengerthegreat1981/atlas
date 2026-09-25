@@ -1,5 +1,5 @@
 ---
-slug: "yejin-choi"
+slug: "thk-yejin-choi"
 id: "THK-13198"
 type: "مفكّر"
 part: "linguistics"
@@ -13,7 +13,7 @@ fields: ["natural language understanding", "commonsense reasoning", "AI ethics"]
 affiliation: "جامعة واشنطن"
 primary_school: "sch-computational-linguistics"
 edges:
-- rel: "belongs_to", target: "sch-computational-linguistics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-computational-linguistics-nlp", target_type: "مدرسة"
 related: []
 gaps: []
 ---

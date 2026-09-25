@@ -14,13 +14,10 @@ active_start: 1934
 active_end: 1973
 edges:
 - rel: "belongs_to", target: "sch-descent-theory", target_type: "مدرسة"
-- rel: "belongs_to", target: "sch-british-functionalism", target_type: "مدرسة"
 related:
 - id: "sch-descent-theory", title: "نظرية النسب في الأنثروبولوجيا (Descent Theory)", type: "مدرسة"
 - id: "thk-radcliffe-brown", title: "ألفرد رادكليف-براون", type: "مفكر"
 - id: "thk-evans-pritchard", title: "إدوارد إيفانز-بريتشارد", type: "مفكر"
-- id: "con-descent-theory", title: "نظرية النسب", type: "مفهوم"
-- id: "con-lineage-system", title: "نظام النسب الخطي", type: "مفهوم"
 gaps:
 - "يحتاج إلى ربط مع مفهوم «الجنسانية النفسية في القرابة» (Psychological Kinship) الذي طوّره في أعماله الأخيرة."
 - "ربط مفقود مع دراسته على الحكاية الخرافية والأسطورة عند شعب التالنسي وصلتها بتحليل النسق القرابي."

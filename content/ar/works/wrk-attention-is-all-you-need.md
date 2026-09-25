@@ -1,5 +1,5 @@
 ---
-slug: "attention-is-all-you-need"
+slug: "wrk-attention-is-all-you-need"
 id: "WRK-13216"
 type: "عمل"
 part: "linguistics"

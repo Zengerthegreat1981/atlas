@@ -16,7 +16,6 @@ edges:
 - rel: "belongs_to", target: "sch-basra-kufa-grammatical-dispute", target_type: "مدرسة"
 related:
 - id: "sch-basra-kufa-grammatical-dispute", title: "مدرسةُ الكوفة والخلافُ النحويّ (Kufa Grammatical School)", type: "مدرسة"
-- id: "thk-al-mubarrad", title: "محمد بن يزيد المبرِّد", type: "مفكر"
 - id: "wrk-al-kitab-sibawayh", title: "الكتاب (سيبويه)", type: "أثر"
 gaps: []
 ---

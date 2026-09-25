@@ -1,5 +1,5 @@
 ---
-slug: "digital-literacy-multilingual"
+slug: "con-digital-literacy-multilingual"
 id: "CON-18427"
 type: "مفهوم"
 part: "linguistics"

@@ -1,5 +1,5 @@
 ---
-slug: "multimodality-language-communication"
+slug: "con-multimodality-language-communication"
 id: "CON-18428"
 type: "مفهوم"
 part: "linguistics"

@@ -18,7 +18,6 @@ related:
 - id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"
 - id: "con-five-principles-mutazila", title: "الأصول الخمسة للمعتزلة (The Five Principles of Mu'tazilism)", type: "مفهوم"
 - id: "dbt-qadar-free-will-in-kalam", title: "جدل القدر والجبر والاختيار في علم الكلام الإسلامي", type: "جدل"
-- id: "thk-al-ghazali", title: "أبو حامد محمد بن محمد الغزالي (حجة الإسلام)", type: "مفكر"
 gaps:
   - "المصادر الأولية والتحليل المعجمي والمفاهيمي لتطور المصطلح."
   - "لم يُعثر بعد على اقتباس منسوب موثّق للمفهوم."

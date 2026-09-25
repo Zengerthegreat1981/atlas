@@ -8,8 +8,7 @@ title: "كارولين راوس"
 en: "Carolyn Rouse"
 dates: "1964 – "
 birth_country: "الولايات المتحدة"
-edges:
-- rel: "belongs_to", target: "sch-critical-medical-anthropology", target_type: "مدرسة"
+edges: []
 related: []
 gaps: []
 ---

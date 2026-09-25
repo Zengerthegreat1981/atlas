@@ -9,11 +9,8 @@ en: "Property and Ownership"
 crumb: "anthropology"
 active_start: 1960
 active_end: "مستمر"
-edges:
-  - rel: "belongs_to", target: "sch-economic-anthropology", target_type: "مدرسة"
-related:
-  - id: "thk-carol-maccormack", title: "كارول ماكورماك", type: "مفكر"
-  - id: "con-commons-anthropology", title: "الملكيةُ المشتركة", type: "مفهوم"
+edges: []
+related: []
 gaps:
   - "دراسةٌ محدودةٌ عن تطورِ الملكيةِ الفردية والجماعية عبرَ التاريخ."
 ---

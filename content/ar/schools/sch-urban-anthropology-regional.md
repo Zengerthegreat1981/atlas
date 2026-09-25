@@ -15,12 +15,10 @@ cultural_origin: "multi-regional"
 active_start: 1970
 active_end: "مستمر"
 region: "Global Cities"
-edges:
-- rel: "belongs_to", target: "sch-anthropology-of-globalization-transnationalism", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-ulf-hannersson", title: "ألف هانرسون (Ulf Hannersson)", type: "مفكر"
 - id: "thk-arjun-appadurai", title: "أرجون أپادوراي (Arjun Appadurai)", type: "مفكر"
-- id: "thk-sanjay-srivastava", title: "سانجاي سريفاستافا (Sanjay Srivastava)", type: "مفكر"
 gaps:
   - "إضافة دراسات ميدانية من القاهرة، دلهي، مومباي، بانكوك."
   - "توثيق الأنثروبولوجيين الحضريين الإقليميين."

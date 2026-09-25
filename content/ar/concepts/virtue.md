@@ -1,5 +1,5 @@
 ---
-slug: "con-virtue"
+slug: "virtue"
 id: "CON-2124"
 type: "مفهوم"
 part: "ethics"

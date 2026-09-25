@@ -1,5 +1,5 @@
 ---
-slug: "arabic-linguistic-literary"
+slug: "sch-arabic-linguistic-literary"
 id: "SCH-13120"
 type: "مدرسة"
 part: "arab-thought"

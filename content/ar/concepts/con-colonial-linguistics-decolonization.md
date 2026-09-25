@@ -1,5 +1,5 @@
 ---
-slug: "colonial-linguistics-decolonization"
+slug: "con-colonial-linguistics-decolonization"
 id: "CON-18432"
 type: "مفهوم"
 part: "linguistics"

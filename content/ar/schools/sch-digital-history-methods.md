@@ -13,10 +13,7 @@ language: "الإنجليزية"
 active_start: 2000
 active_end: "مستمر"
 edges: []
-related:
-  - id: "con-digital-archives", title: "الأرشيفاتُ الرقميّة (Digital Archives)", type: "مفهوم"
-  - id: "con-data-analysis-history", title: "تحليلُ البيانات التاريخيّة (Data Analysis)", type: "مفهوم"
-  - id: "con-text-mining-history", title: "تنقيبُ النصوصِ التاريخيّة (Text Mining)", type: "مفهوم"
+related: []
 gaps:
   - "هلْ يمكنُ للخوارزمياتِ أن تفهمَ السياقَ التاريخيّ؟"
   - "مخاطرُ التحيّزِ في الأدواتِ الحاسوبيّة (الذكاء الاصطناعيّ)"

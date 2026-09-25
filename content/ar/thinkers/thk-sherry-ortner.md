@@ -11,9 +11,8 @@ birth_country: "USA"
 active_from: 1965
 active_to: 2026
 primary_school: "sch-practice-theory-anthropology"
-edges:
-- rel: "belongs_to", target: "sch-practice-theory-anthropology", target_type: "مدرسة"
-related:
+edges: []
+related: []
 gaps:
   - "إضافة دراسات وأعمال لهذا المفكر."
 ---

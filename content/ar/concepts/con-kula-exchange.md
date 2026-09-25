@@ -15,7 +15,6 @@ edges:
 related:
 - id: "stu-malinowski-kula-ring-exchange", title: "حلقةُ الكولا: التبادلُ الاقتصاديُّ والاجتماعيُّ في جزر التروبرياند", type: "دراسة"
 - id: "thk-bronislaw-malinowski", title: "برونيسلاو مالينوفسكي", type: "مفكر"
-- id: "con-gift-reciprocity-anthropology", title: "الهبة والمعاملة بالمثل (Gift and Reciprocity)", type: "مفهوم"
 - id: "con-moka-hagen-exchange", title: "المُوكا (Moka Exchange)", type: "مفهوم"
 - id: "thk-marcel-mauss", title: "مارسيل موس", type: "مفكر"
 - id: "thk-marshall-sahlins", title: "مارشال سالينز", type: "مفكر"

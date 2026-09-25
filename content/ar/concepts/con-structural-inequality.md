@@ -11,12 +11,10 @@ active_start: 1960
 active_end: "مستمر"
 crumb: "أنثروبولوجيا الاقتصاد والعمل"
 edges:
-  - rel: "belongs_to", target: "sch-political-economy", target_type: "مدرسة"
   - rel: "related_to", target: "con-structural-violence-definition", target_type: "مفهوم"
 related:
   - id: "thk-pierre-bourdieu", title: "بيير بورديو", type: "مفكر"
   - id: "thk-paul-farmer", title: "بول فارمر", type: "مفكر"
-  - id: "thk-ernest-becker", title: "إرنست بيكر", type: "مفكر"
   - id: "con-structural-violence-definition", title: "العنفُ البنيويّ", type: "مفهوم"
   - id: "con-habitus-bourdieu", title: "الهابيتوس (Habitus)", type: "مفهوم"
 gaps:

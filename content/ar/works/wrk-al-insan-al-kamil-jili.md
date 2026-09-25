@@ -18,7 +18,6 @@ edges:
 - rel: "belongs_to", target: "br-irfan-nazari-akbari", target_type: "تيار"
 related:
 - id: "thk-abd-al-karim-al-jili", title: "عبد الكريم بن إبراهيم الجيلي", type: "مفكر"
-- id: "thk-ibn-arabi", title: "محيي الدين بن عربي (الشيخ الأكبر)", type: "مفكر"
 - id: "sch-akbari", title: "المدرسة الأكبرية (مدرسة الإمبراطور أكبر المغولي)", type: "مدرسة"
 - id: "con-wahdat-al-wujud", title: "وحدة الوجود", type: "مفهوم"
 gaps:

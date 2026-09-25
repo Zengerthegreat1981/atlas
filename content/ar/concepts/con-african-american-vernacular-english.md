@@ -1,5 +1,5 @@
 ---
-slug: "african-american-vernacular-english"
+slug: "con-african-american-vernacular-english"
 id: "CON-18403"
 type: "مفهوم"
 part: "linguistics"

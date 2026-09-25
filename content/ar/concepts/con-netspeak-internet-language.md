@@ -1,5 +1,5 @@
 ---
-slug: "netspeak-internet-language"
+slug: "con-netspeak-internet-language"
 id: "CON-18405"
 type: "مفهوم"
 part: "linguistics"

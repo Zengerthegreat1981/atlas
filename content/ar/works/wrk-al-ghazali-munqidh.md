@@ -15,8 +15,7 @@ publication_year: 1108
 original_language: "العربية"
 edges:
 - rel: "belongs_to", target: "sch-islamic-sufism", target_type: "مدرسة"
-related:
-- id: "thk-al-ghazali", title: "أبو حامد محمد بن محمد الغزالي (حجة الإسلام)", type: "مفكر"
+related: []
 gaps:
   - "يوجد ملفٌّ ثانٍ لهذا العمل بعنوان `wrk-al-munqidh-min-al-dalal-ghazali` (ازدواج مسجَّل في REVISION/FINDING-duplicate-works-slugs.md)؛ لم يُدمَج الملفان ولم يُنقل الـslug بانتظار قرار تحريري."
   - "لا يوجد تحقيق نقدي موحَّد بلا خلاف لعنوان المخطوط أو تسلسل تأليفه الدقيق؛ السنة 1108 (بعد اعتزال الغزالي التدريس ببغداد سنة 1095 بأعوام) تقريبية كعادة سِيَر العصر."

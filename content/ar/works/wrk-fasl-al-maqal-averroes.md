@@ -17,9 +17,7 @@ active_start: 1179
 active_end: 1179
 edges:
 - rel: "belongs_to", target: "sch-andalusian-philosophy", target_type: "مدرسة"
-- rel: "authored_by", target: "thk-ibn-rushd", target_type: "مفكر"
-related:
-- id: "thk-ibn-rushd", title: "أبو الوليد محمد بن أحمد بن رشد (الشارح الأكبر)", type: "مفكر"
+related: []
 gaps:
   - "لهذا العمل ملف ثانٍ في الأطلس (`wrk-ibn-rushd-fasl-al-maqal`) يعالج المادة نفسها — ازدواج مسجَّل، ولم يُدمَج ولم تُنقل صلاحيات."
   - "تُنسب الطبعات المحقَّقة المتداولة لهذا النصّ إلى أكثر من محقِّق (منهم ألبير نصري نادر)، ولم يتيسّر تثبيت طبعة واحدة بناشرها وسنتها من نسخة معتمدة يُركَن إليها هنا."

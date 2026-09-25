@@ -12,12 +12,9 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 related:
-- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا (الشيخ الرئيس)", type: "مفكر"
 - id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
 - id: "con-emanation-islamic", title: "الفيض الإلهي (المشائية الإسلامية)", type: "مفهوم"
 - id: "con-active-intellect-nous-poietikos", title: "العقل الفعال والمفارق (Active Intellect / Nous Poietikos)", type: "مفهوم"
-- id: "thk-al-farabi", title: "أبو نصر محمد بن محمد الفارابي", type: "مفكر"
-- id: "thk-al-ghazali", title: "أبو حامد محمد بن محمد الغزالي (حجة الإسلام)", type: "مفكر"
 - id: "thk-plotinus", title: "أفلوطين", type: "مفكر"
 gaps:
   - "**كُتب متنه 2026-09-07.** والفجوةُ المسجَّلة كانت تنصّ على أن «المصادرَ الأولية والتحليل المعجمي والمفاهيمي لتطوّر المصطلح غيرُ موثّقة بعد» — وقد أُثبتت المصادرُ الأولية وسلسلةُ التأثير وموضعُ نقد الغزالي وابن رشد."

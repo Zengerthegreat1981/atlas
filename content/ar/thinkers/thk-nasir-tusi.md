@@ -18,7 +18,6 @@ related:
 - id: "sch-isfahan", title: "مدرسة أصفهان الفلسفية", type: "مدرسة"
 - id: "sch-shiraz", title: "مدرسة شيراز الفلسفية", type: "مدرسة"
 - id: "sch-imami-kalam", title: "الكلام الإمامي الاثنا عشري", type: "مدرسة"
-- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا (الشيخ الرئيس)", type: "مفكر"
 gaps:
   - "تفاصيل تحوّله من الإسماعيلية إلى التشيع الاثني عشري موضع نقاش."
   - "دُمج معه الملف المكرَّر thk-nasir-al-din-al-tusi (نفس الشخص) — الأصل محفوظ في content/ar/_merged/."

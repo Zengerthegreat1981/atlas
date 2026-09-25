@@ -12,9 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 related:
-- id: "thk-ibn-rushd", title: "أبو الوليد محمد بن أحمد بن رشد (الشارح الأكبر)", type: "مفكر"
-- id: "thk-ibn-tufayl", title: "أبو بكر محمد بن عبد الملك بن طفيل", type: "مفكر"
-- id: "thk-ibn-bajjah", title: "ابن باجة (أبو بكر بن الصائغ / Avempace)", type: "مفكر"
 - id: "ctx-damascus-umayyad-administration", title: "دمشق الأموية وبدايات تعريب الدواوين وتلاقح الحضارات المتوسطية", type: "سياق/تقليد"
 gaps:
   - "لم تُراجَع تفاصيل محنة ابن رشد (نفيه إلى أليسانة/لوسينا سنة 1195 بأمر الخليفة الموحدي يعقوب المنصور، وحرق بعض كتبه) من مصدر أولي — أُشير إليها إجمالاً فقط."

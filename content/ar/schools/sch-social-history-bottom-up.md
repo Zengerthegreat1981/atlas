@@ -16,7 +16,6 @@ edges: []
 related:
   - id: "thk-eric-hobsbawm", title: "إريك هوبسباوم (Eric Hobsbawm)", type: "مفكر"
   - id: "thk-e-p-thompson", title: "إ. بـ. تومسون (E.P. Thompson)", type: "مفكر"
-  - id: "con-social-history-definition", title: "التاريخُ الاجتماعيّ (Social History)", type: "مفهوم"
 gaps:
   - "الفرقُ بينَ التاريخِ الاجتماعيّ والتاريخِ السياسيّ"
   - "كيفَ نسمعُ أصواتَ الناسِ العاديين الذين لم يتركوا وثائق مكتوبة؟"

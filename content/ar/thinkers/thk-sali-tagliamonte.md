@@ -1,5 +1,5 @@
 ---
-slug: "sali-tagliamonte"
+slug: "thk-sali-tagliamonte"
 id: "THK-13183"
 type: "مفكّر"
 part: "linguistics"
@@ -12,8 +12,7 @@ birth_year: 1950
 fields: ["variationist sociolinguistics", "English language variation", "historical sociolinguistics"]
 affiliation: "جامعة تورنتو"
 primary_school: "sch-sociolinguistics"
-edges:
-- rel: "belongs_to", target: "sch-sociolinguistics", target_type: "مدرسة"
+edges: []
 related: []
 gaps: []
 ---

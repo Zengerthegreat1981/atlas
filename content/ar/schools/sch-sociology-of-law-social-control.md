@@ -20,7 +20,7 @@ related:
 - id: "con-behavior-of-law-black", title: "سلوك القانون والنظرية الصورية (Behavior of Law)", type: "مفهوم"
 - id: "wrk-general-theory-social-control-black", title: "نحو نظرية عامة للضبط الاجتماعي", type: "عمل"
 - id: "br-legal-authority-sociology-current", title: "تيار سوسيولوجيا السلطة والقانون: من أنماط الشرعية الفيبرية إلى نظرية سلوك القانون التجريبية", type: "تيار"
-- id: "sch-legal-pluralism", title: "التعدّديةُ القانونيةُ (Legal Pluralism)", type: "مدرسة"
+- id: "legal-pluralism", title: "التعدّديةُ القانونيةُ (Legal Pluralism)", type: "مدرسة"
 gaps:
   - "**ربطٌ من قسم نظرية القانون (2026-09-21)**: أُضيف `sch-legal-pluralism` — يعالج زاويةً مختلفةً صراحةً (هل يوجد نظامٌ قانونيٌّ واحدٌ حصريّ أم أنظمةٌ متعدّدة؟) لا وظيفةَ القانون الاجتماعية التي يعالجها هذا الملف؛ لم يُستنسخ شيء."
   - "هذا الملف أُنشئ في الدفعة 8 من مهمة بناء قسم علم الاجتماع (القسم 8)."

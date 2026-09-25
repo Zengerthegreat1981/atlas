@@ -18,8 +18,6 @@ edges:
 - rel: "belongs_to", target: "sch-arabic-rhetorical-sciences", target_type: "مدرسة"
 related:
 - id: "sch-arabic-rhetorical-sciences", title: "علومُ البلاغة العربية: المعاني والبيان والبديع", type: "مدرسة"
-- id: "thk-al-khatib-al-qazwini", title: "الخطيبُ القزويني", type: "مفكر"
-- id: "thk-al-sakkaki", title: "أبو يعقوب السكّاكي", type: "مفكر"
 gaps:
   - "لم يُعثر على ترجمةٍ إنجليزيةٍ كاملة موثَّقة للكتاب ضمن مصادر الأطلس؛ الاعتمادُ على النصّ العربي الأصلي والدراسات الثانوية المتخصّصة."
 ---

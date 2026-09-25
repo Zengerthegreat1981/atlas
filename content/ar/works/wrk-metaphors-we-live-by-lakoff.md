@@ -1,5 +1,5 @@
 ---
-slug: "metaphors-we-live-by-lakoff"
+slug: "wrk-metaphors-we-live-by-lakoff"
 id: "WRK-13219"
 type: "عمل"
 part: "linguistics"

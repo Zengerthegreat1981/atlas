@@ -1,5 +1,5 @@
 ---
-slug: "thinking-for-speaking"
+slug: "con-thinking-for-speaking"
 id: "CON-18419"
 type: "مفهوم"
 part: "linguistics"

@@ -1,5 +1,5 @@
 ---
-slug: "early-islamic-classical"
+slug: "sch-early-islamic-classical"
 id: "SCH-13115"
 type: "مدرسة"
 part: "arab-thought"

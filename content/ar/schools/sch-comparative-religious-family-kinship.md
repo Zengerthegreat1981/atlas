@@ -18,7 +18,6 @@ crumb: "علمُ الأديان المقارن ← الاجتماعُ والاق
 edges:
 - rel: "belongs_to", target: "sch-founding-comparative-religion-science-of-religion", target_type: "مدرسة"
 related:
-- id: "thk-alfred-radcliffe-brown", title: "ألفريد رادكليف براون (A.R. Radcliffe-Brown)", type: "مفكر"
 - id: "thk-meyer-fortes", title: "مايير فورتس (Meyer Fortes)", type: "مفكر"
 - id: "thk-paul-bohannan", title: "بول بوهانان (Paul Bohannan)", type: "مفكر"
 - id: "wrk-kinship-religion-tallensi-fortes", title: "القرابةُ والدينُ عند الطالينسي (The Web of Kinship Among the Tallensi)", type: "عمل / كتاب"

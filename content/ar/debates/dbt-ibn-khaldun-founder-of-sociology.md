@@ -13,7 +13,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-khaldunian-ilm-al-umran", target_type: "مدرسة"
 related:
-- id: "thk-ibn-khaldun", title: "عبد الرحمن بن محمد بن خلدون الحضرمي", type: "مفكر"
 - id: "sch-comtean-positivism", title: "الوضعية السوسيولوجية الكلاسيكية", type: "مدرسة"
 - id: "thk-arnold-toynbee", title: "أرنولد ج. توينبي", type: "مفكر"
 - id: "thk-ernest-gellner", title: "إرنست غيلنر", type: "مفكر"

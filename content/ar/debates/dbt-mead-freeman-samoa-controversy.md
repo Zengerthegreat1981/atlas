@@ -11,8 +11,7 @@ active_start: 1983
 active_end: 1999
 edges:
 - rel: "belongs_to", target: "sch-culture-and-personality", target_type: "مدرسة"
-related:
-- id: "thk-margaret-mead", title: "مارغريت ميد (Margaret Mead)", type: "مفكر"
+related: []
 gaps:
   - "لم يُنشأ ملفٌّ مستقلٌّ لديريك فريمان كمفكرٍ (`thk-`)؛ اقتُصر على ذكره داخل هذا الجدل وملفّ ميد لعدم توفّر مادّةٍ كافية له خارج هذا الجدل بعينه ضمن حدود هذه الدفعة."
 ---

@@ -15,8 +15,7 @@ active_end: 2026
 edges:
 - rel: "belongs_to", target: "sch-anthropological-political-economy", target_type: "مدرسة"
 related:
-- id: "con-flexible-citizenship", title: "المواطنةُ المرنة (Flexible Citizenship)", type: "مفهوم"
-- id: "wrk-flexible-citizenship-ong", title: "المواطنةُ المرنة (Flexible Citizenship)", type: "عمل"
+- id: "con-flexible-citizenship-ong", title: "المواطنةُ المرنة (Flexible Citizenship)", type: "مفهوم"
 gaps: []
 ---
 

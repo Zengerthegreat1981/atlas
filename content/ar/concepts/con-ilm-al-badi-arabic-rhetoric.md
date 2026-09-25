@@ -13,7 +13,6 @@ edges:
 - rel: "belongs_to", target: "sch-arabic-rhetorical-sciences", target_type: "مدرسة"
 related:
 - id: "sch-arabic-rhetorical-sciences", title: "علومُ البلاغة العربية: المعاني والبيان والبديع", type: "مدرسة"
-- id: "thk-al-sakkaki", title: "أبو يعقوب السكّاكي", type: "مفكر"
 - id: "con-ilm-al-bayan-arabic-rhetoric", title: "علمُ البيان: التشبيهُ والاستعارةُ والكناية", type: "مفهوم"
 - id: "con-ilm-al-maani-arabic-rhetoric", title: "علمُ المعاني: مطابقةُ الكلام لمقتضى الحال", type: "مفهوم"
 gaps: []

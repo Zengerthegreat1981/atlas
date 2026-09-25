@@ -11,9 +11,8 @@ birth_country: "USA"
 active_from: 1998
 active_to: 2026
 primary_school: "sch-anthropology-of-race-media"
-edges:
-- rel: "belongs_to", target: "sch-anthropology-of-race-media", target_type: "مدرسة"
-related:
+edges: []
+related: []
 gaps:
   - "إضافة دراسات وأعمال لهذا المفكر."
 ---

@@ -13,11 +13,9 @@ publication_year: 1949
 original_language: "الفرنسية"
 active_start: 1949
 active_end: 1949
-edges:
-  - rel: "belongs_to", target: "sch-historical-method-epistemology", target_type: "مدرسة"
+edges: []
 related:
   - id: "thk-marc-bloch", title: "مارك بلوخ (Marc Bloch)", type: "مفكر"
-  - id: "sch-historical-method-epistemology", title: "المنهجُ التاريخيُّ والإبستيمولوجيا", type: "مدرسة"
 gaps: []
 ---
 

@@ -9,8 +9,7 @@ en: "Income and Wealth"
 crumb: "anthropology"
 active_start: 1960
 active_end: "مستمر"
-edges:
-  - rel: "belongs_to", target: "sch-economic-anthropology", target_type: "مدرسة"
+edges: []
 related:
   - id: "thk-pierre-bourdieu", title: "بيير بورديو", type: "مفكر"
 gaps:

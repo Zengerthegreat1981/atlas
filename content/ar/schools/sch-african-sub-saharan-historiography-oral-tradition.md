@@ -16,7 +16,7 @@ active_start: 700
 active_end: 1900
 edges: []
 related:
-- id: "con-oral-historiography-method", title: "التأريخُ الشفويّ كمنهج", type: "مفهوم"
+- id: "con-oral-history-methods", title: "التأريخُ الشفويّ كمنهج", type: "مفهوم"
 - id: "wrk-epic-of-sundiata-griots", title: "ملحمةُ السنديَتا (رواةُ الجريوت)", type: "عمل"
 gaps:
   - "**الفرقُ بين الأسطورة والتاريخ** — الرواةُ الأفريقيون (الجريوت) يحفظون **ملاحمَ وتاريخاً متشابكاً** — أيّها التاريخُ الموثوقُ وأيّها الأسطورة؟"

@@ -15,7 +15,6 @@ edges:
 related:
 - id: "stu-strathern-hagen-ceremonial-exchange", title: "تبادلُ الموكا والهدايا عند شعب هاغن", type: "دراسة"
 - id: "thk-marilyn-strathern", title: "ماريلين ستراذرن (Marilyn Strathern)", type: "مفكر"
-- id: "con-gift-reciprocity-anthropology", title: "الهبة والمعاملة بالمثل (Gift and Reciprocity)", type: "مفهوم"
 - id: "con-kula-exchange", title: "حلقةُ الكولا (Kula Exchange)", type: "مفهوم"
 - id: "wrk-gender-of-the-gift-strathern", title: "جندرُ الهبة (The Gender of the Gift)", type: "عمل / كتاب"
 gaps:

@@ -1,5 +1,5 @@
 ---
-slug: "penelope-eckert"
+slug: "thk-penelope-eckert"
 id: "THK-13182"
 type: "مفكّر"
 part: "linguistics"
@@ -12,8 +12,7 @@ birth_year: 1951
 fields: ["sociolinguistics", "gender and language", "adolescent speech communities"]
 affiliation: "جامعة ستانفورد"
 primary_school: "sch-sociolinguistics"
-edges:
-- rel: "belongs_to", target: "sch-sociolinguistics", target_type: "مدرسة"
+edges: []
 related: []
 gaps: []
 ---

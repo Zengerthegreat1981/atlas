@@ -18,9 +18,6 @@ edges:
 - rel: "belongs_to", target: "sch-variationist-sociolinguistics", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-variationist-sociolinguistics", target_type: "مدرسة"
 related:
-- id: "con-code-switching-bilingualism", title: "التبديلُ الكودي والثنائيةُ اللغوية (Code-Switching)", type: "مفهوم"
-- id: "con-creole-pidgin", title: "الكريول والبيجن (Creole & Pidgin)", type: "مفهوم"
-- id: "con-language-variation", title: "التباينُ اللغويّ (Language Variation)", type: "مفهوم"
 - id: "sch-variationist-sociolinguistics", title: "اللسانياتُ الاجتماعيةُ المتغيّرية (Variationist Sociolinguistics)", type: "مدرسة"
 gaps: ""
 ---

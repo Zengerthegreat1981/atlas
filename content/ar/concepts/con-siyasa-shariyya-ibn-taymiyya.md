@@ -13,7 +13,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-usul-al-fiqh-legal-theory", target_type: "مدرسة"
 related:
-- id: "thk-ibn-taymiyya", title: "تقي الدين أبو العباس أحمد ابن تيمية", type: "مفكر"
 - id: "wrk-al-siyasa-al-shariyya-ibn-taymiyya", title: "السياسةُ الشرعية في إصلاح الراعي والرعية", type: "عمل / كتاب"
 - id: "sch-usul-al-fiqh-legal-theory", title: "أصولُ الفقه بوصفه نظريةً قانونية (Usul al-Fiqh as Legal Theory)", type: "مدرسة"
 gaps:

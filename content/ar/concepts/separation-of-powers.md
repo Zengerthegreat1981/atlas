@@ -1,5 +1,5 @@
 ---
-slug: "con-separation-of-powers"
+slug: "separation-of-powers"
 id: "CON-2101"
 type: "مفهوم"
 part: "legal-theory"

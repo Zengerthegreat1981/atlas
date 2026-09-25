@@ -19,7 +19,7 @@ topics:
 - epic-literature
 related:
 - id: "sch-hindu-cyclical-time-chakravartin-historiography", title: "التأريخُ الهنديّ", type: "مدرسة"
-- id: "con-chakravartin-universal-monarch", title: "الملكُ العالميّ", type: "مفهوم"
+- id: "con-chakravartin-universal-rule", title: "الملكُ العالميّ", type: "مفهوم"
 gaps:
   - "**قضيّةُ التاريخيّة** — هل كانتْ معركةُ كوروكسيترا (أساسُ الملحمة) حدثاً حقيقياً؟ الأثارُ الحديثةُ لم تؤكّدْها بشكلٍ واضح"
   - "**التاريخُ النسبيّ للتأليف** — يعتقدُ العلماءُ أنّ النسخةَ النهائيّةَ من الماهابهاراتا ألّفتْ حول القرن 4 م., لكنّ النسخِ الأقدم تعودُ للألفِ الثاني ق.م."

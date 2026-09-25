@@ -19,7 +19,6 @@ edges:
 related:
 - id: "sch-academic-islamic-studies-orientalism-critique", title: "دراسةُ الإسلام أكاديمياً ونقدُ الاستشراق", type: "مدرسة"
 - id: "thk-said", title: "إدوارد سعيد", type: "مفكر"
-- id: "thk-al-shahrastani", title: "أبو الفتح الشهرستاني", type: "مفكر"
 - id: "thk-joseph-schacht", title: "جوزيف شاخت (Joseph Schacht)", type: "مفكر"
 - id: "wrk-muhammedanische-studien-goldziher", title: "دراساتٌ محمدية (Muhammedanische Studien)", type: "عمل"
 gaps:

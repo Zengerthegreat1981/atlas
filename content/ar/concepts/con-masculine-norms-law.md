@@ -9,8 +9,7 @@ en: "Masculine Norms in Law"
 crumb: "المفاهيمُ ← المعاييرُ الذكوريةُ"
 active_start: 1900
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "sch-placeholder", target_type: "مدرسة"
+edges: []
 related: []
 gaps:
   - "توسيعٌ شاملٌ للمصادرِ الأولية"

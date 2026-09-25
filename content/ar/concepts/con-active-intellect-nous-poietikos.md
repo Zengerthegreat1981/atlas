@@ -14,9 +14,6 @@ edges:
 related:
 - id: "thk-aristotle", title: "أرسطو", type: "مفكر"
 - id: "sch-aristotelianism", title: "المشائية / الأرسطية (Aristotelianism)", type: "مدرسة"
-- id: "thk-al-farabi", title: "أبو نصر محمد بن محمد الفارابي", type: "مفكر"
-- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا (الشيخ الرئيس)", type: "مفكر"
-- id: "thk-ibn-rushd", title: "أبو الوليد محمد بن أحمد بن رشد (الشارح الأكبر)", type: "مفكر"
 - id: "con-actuality-and-potentiality", title: "القوة والفعل والصيرورة (Actuality and Potentiality)", type: "مفهوم"
 gaps:
   - "المصادر الأولية (كتاب النفس لأرسطو، الفصل الثالث، الكتاب الثالث) والتحليل المعجمي والمفاهيمي لتطور المصطلح عبر الشراح."

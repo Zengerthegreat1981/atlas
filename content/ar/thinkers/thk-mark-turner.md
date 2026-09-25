@@ -1,5 +1,5 @@
 ---
-slug: "mark-turner"
+slug: "thk-mark-turner"
 id: "THK-13190"
 type: "مفكّر"
 part: "linguistics"

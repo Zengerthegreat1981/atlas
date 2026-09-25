@@ -23,7 +23,6 @@ related:
 - id: "thk-bronislaw-malinowski", title: "برونيسلاو مالينوفسكي", type: "مفكر"
 - id: "sch-malinowskian-functionalism", title: "الوظيفيةُ المالينوفسكية والملاحظةُ بالمشاركة", type: "مدرسة"
 - id: "sch-maussian-gift-theory", title: "نظريةُ الهبة والتبادل (Maussian Gift Theory)", type: "مدرسة"
-- id: "con-gift-reciprocity-anthropology", title: "الهبة والمعاملة بالمثل (Gift and Reciprocity)", type: "مفهوم"
 - id: "con-kula-exchange", title: "حلقةُ الكولا (Kula Exchange)", type: "مفهوم"
 - id: "wrk-argonauts-western-pacific-malinowski", title: "أرجونوتاتُ المحيط الهادئ الغربي (Argonauts of the Western Pacific)", type: "عمل / كتاب"
 - id: "thk-marcel-mauss", title: "مارسيل موس (Marcel Mauss)", type: "مفكر"

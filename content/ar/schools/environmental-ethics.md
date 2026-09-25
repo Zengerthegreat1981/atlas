@@ -1,5 +1,5 @@
 ---
-slug: "sch-environmental-ethics"
+slug: "environmental-ethics"
 id: "SCH-12440"
 type: "مدرسة"
 part: "ethics"

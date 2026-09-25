@@ -11,9 +11,8 @@ birth_country: "UK"
 active_from: 1990
 active_to: 2013
 primary_school: "sch-anthropology-of-capitalism-culture"
-edges:
-- rel: "belongs_to", target: "sch-anthropology-of-capitalism-culture", target_type: "مدرسة"
-related:
+edges: []
+related: []
 gaps:
   - "إضافة دراسات وأعمال لهذا المفكر."
 ---

@@ -15,7 +15,6 @@ related:
 - id: "sch-maturidiyya", title: "الماتريدية", type: "مدرسة"
 - id: "thk-maturidi", title: "أبو منصور محمد بن محمد الماتريدي", type: "مفكر"
 - id: "wrk-matn-al-aqaid-al-nasafiyya", title: "العقائد النسفية لنجم الدين النسفي", type: "عمل / كتاب"
-- id: "thk-al-taftazani", title: "سعد الدين مسعود بن عمر التفتازاني", type: "مفكر"
 - id: "wrk-tabsirat-al-adilla-nasafi", title: "تبصرة الأدلة في أصول الدين لأبي المعين النسفي", type: "عمل / كتاب"
 - id: "wrk-kitab-al-tawhid-maturidi", title: "كتاب التوحيد لأبي منصور الماتريدي", type: "عمل / كتاب"
 - id: "con-fitrah-aql-maturidi", title: "العقل الفطري وإدراك الحسن والقبح (Fitrah & Aql)", type: "مفهوم"

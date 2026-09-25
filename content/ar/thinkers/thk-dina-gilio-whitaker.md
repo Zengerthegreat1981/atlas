@@ -11,9 +11,8 @@ birth_country: "USA (Colville Tribe)"
 active_from: 1985
 active_to: 2026
 primary_school: "sch-indigenous-anthropology-north-america"
-edges:
-- rel: "belongs_to", target: "sch-indigenous-anthropology-north-america", target_type: "مدرسة"
-related:
+edges: []
+related: []
 gaps:
   - "إضافة دراسات وأعمال لهذا المفكر."
 ---

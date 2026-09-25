@@ -1,5 +1,5 @@
 ---
-slug: "grammaticalization-processes"
+slug: "con-grammaticalization-processes"
 id: "CON-18413"
 type: "مفهوم"
 part: "linguistics"

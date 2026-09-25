@@ -8,8 +8,7 @@ title: "أولف هانيرسون"
 en: "Ulf Hannersson"
 dates: "1942 – "
 birth_country: "السويد"
-edges:
-- rel: "belongs_to", target: "sch-global-anthropology", target_type: "مدرسة"
+edges: []
 related: []
 gaps: []
 ---

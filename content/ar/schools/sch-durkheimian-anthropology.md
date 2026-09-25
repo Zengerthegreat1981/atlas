@@ -12,11 +12,7 @@ active_start: 1895
 active_end: 2100
 edges: []
 related:
-- id: "thk-emile-durkheim", title: "إميلُ دوركهايم", type: "مفكر"
 - id: "thk-marcel-mauss", title: "مارسيلُ موس", type: "مفكر"
-- id: "wrk-elementary-forms-durkheim", title: "الأشكالُ الأوّليةُ للحياةِ الدينية", type: "عمل / كتاب"
-- id: "con-collective-consciousness", title: "الوعيُ الجماعيّ (Collective Consciousness)", type: "مفهوم"
-- id: "con-sacred-profane-durkheim", title: "المقدَّسُ والمدنَّس (Sacred and Profane)", type: "مفهوم"
 gaps: []
 ---
 

@@ -18,10 +18,8 @@ region: "East & Southern Africa"
 edges:
 - rel: "belongs_to", target: "sch-postcolonial-critique-anthropology", target_type: "مدرسة"
 related:
-- id: "thk-jean-comaroff", title: "جان كومارُف (Jean Comaroff)", type: "مفكر"
-- id: "thk-john-comaroff", title: "جون كومارُف (John L. Comaroff)", type: "مفكر"
-- id: "thk-harri-englund", title: "هاري إنغلند (Harri Englund)", type: "مفكر"
-- id: "thk-jennifer-cole", title: "جينيفر كول (Jennifer Cole)", type: "مفكر"
+- id: "thk-jean-john-comaroff", title: "جان كومارُف (Jean Comaroff)", type: "مفكر"
+- id: "thk-jean-john-comaroff", title: "جون كومارُف (John L. Comaroff)", type: "مفكر"
 gaps:
   - "إضافة دراسات ميدانية في جنوب إفريقيا وشرق إفريقيا لتوثيق هذه المدرسة."
   - "ربط مع حركات الاستقلال والهوية الإفريقية ما بعد الاستعمار."

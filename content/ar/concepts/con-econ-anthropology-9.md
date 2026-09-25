@@ -9,11 +9,9 @@ en: "Division of Labor"
 crumb: "anthropology"
 active_start: 1776
 active_end: "مستمر"
-edges:
-  - rel: "belongs_to", target: "sch-economic-anthropology", target_type: "مدرسة"
+edges: []
 related:
   - id: "thk-adam-smith", title: "آدم سميث", type: "مفكر"
-  - id: "thk-emile-durkheim", title: "إميل دوركايم", type: "مفكر"
 gaps:
   - "دراسةٌ محدودةٌ عن تقسيمِ العملِ الرقميّ والعملِ بالعمولة."
 ---

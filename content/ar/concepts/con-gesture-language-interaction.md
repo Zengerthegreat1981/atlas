@@ -1,5 +1,5 @@
 ---
-slug: "gesture-language-interaction"
+slug: "con-gesture-language-interaction"
 id: "CON-18417"
 type: "مفهوم"
 part: "linguistics"

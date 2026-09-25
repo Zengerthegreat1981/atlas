@@ -12,10 +12,7 @@ active_start: 1377
 active_end: 2100
 edges: []
 related:
-- id: "thk-ibn-khaldun", title: "ابنُ خلدون (Ibn Khaldun)", type: "مفكر"
-- id: "wrk-muqaddimah-khaldun", title: "المقدِّمة (Muqaddimah)", type: "عمل / كتاب"
-- id: "con-asabiyyah", title: "العصبيّةُ (Asabiyyah)", type: "مفهوم"
-- id: "con-badawa-hadara", title: "البدويّةُ والحضارةُ", type: "مفهوم"
+- id: "wrk-al-muqaddimah-ibn-khaldun", title: "المقدِّمة (Muqaddimah)", type: "عمل / كتاب"
 gaps: []
 ---
 

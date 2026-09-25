@@ -15,9 +15,7 @@ active_end: 2026
 edges:
 - rel: "belongs_to", target: "sch-digital-anthropology", target_type: "مدرسة"
 related:
-- id: "con-scapes-ethnoscapes", title: "المناظرُ الثقافية (Ethnoscapes)", type: "مفهوم"
-- id: "wrk-modernity-large-appadurai", title: "الحداثةُ في حالة التنقّل (Modernity at Large)", type: "عمل"
-- id: "wrk-social-life-of-things-appadurai", title: "The Social Life of Things", type: "عمل"
+- id: "wrk-modernity-at-large-appadurai", title: "الحداثةُ في حالة التنقّل (Modernity at Large)", type: "عمل"
 gaps: []
 ---
 

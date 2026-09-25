@@ -15,7 +15,7 @@ language: "اليونانية القديمة"
 active_start: -450
 active_end: -420
 edges:
-- rel: "belongs_to", target: "sch-ancient-greek-historiography-foundational", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-ancient-historiography-foundations", target_type: "مدرسة"
 related:
 - id: "sch-thucydides-source-criticism", title: "منهجُ ثوكيديدس في نقدِ المصادر والعقلانية", type: "مدرسة"
 - id: "sch-polybius-pragmatic-history", title: "التاريخُ البراغماتيُّ والعالميّ (بوليبيوس)", type: "مدرسة"

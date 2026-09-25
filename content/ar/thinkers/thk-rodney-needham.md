@@ -12,14 +12,8 @@ dates: "1923 – 2006"
 birth_country: "المملكة المتحدة"
 active_start: 1954
 active_end: 2006
-edges:
-- rel: "belongs_to", target: "sch-alliance-theory", target_type: "مدرسة"
-- rel: "belongs_to", target: "sch-structural-anthropology", target_type: "مدرسة"
+edges: []
 related:
-- id: "sch-alliance-theory", title: "نظرية التحالف الزواجي", type: "مدرسة"
-- id: "con-prescriptive-alliance", title: "التحالف الإجباري (Prescriptive Alliance)", type: "مفهوم"
-- id: "con-asymmetric-alliance", title: "التحالف غير المتماثل", type: "مفهوم"
-- id: "thk-levi-strauss", title: "كلود ليفي-شتراوس", type: "مفكر"
 - id: "thk-edmund-leach", title: "إدموند ليتش", type: "مفكر"
 gaps:
 - "يحتاج إلى توسّع للنقاش مع ليفي-شتراوس حول **الزواج الإجباري مقابل الزواج المفضّل**."

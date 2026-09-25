@@ -9,8 +9,7 @@ en: "Resources and Scarcity"
 crumb: "anthropology"
 active_start: 1972
 active_end: "مستمر"
-edges:
-  - rel: "belongs_to", target: "sch-economic-anthropology", target_type: "مدرسة"
+edges: []
 related:
   - id: "thk-marshall-sahlins", title: "مارشال سالينز", type: "مفكر"
   - id: "con-econ-anthropology-0", title: "الاقتصادُ الأساسي", type: "مفهوم"

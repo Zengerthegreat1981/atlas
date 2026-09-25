@@ -18,10 +18,7 @@ edges:
 - rel: "belongs_to", target: "sch-generative-phonology", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-generative-phonology", target_type: "مدرسة"
 related:
-- id: "con-phonological-rule-ordering", title: "ترتيبُ القوانين الصوتية (Rule Ordering)", type: "مفهوم"
-- id: "con-feature-geometry-phonology", title: "هندسةُ السمات الفونولوجية (Feature Geometry)", type: "مفهوم"
 - id: "con-syllable-structure-phonotactics", title: "بنيةُ المقطع والقيود الصوتية (Syllable Structure)", type: "مفهوم"
-- id: "con-consonant-clusters", title: "تجمعاتُ الحروفِ الساكنة (Consonant Clusters)", type: "مفهوم"
 - id: "sch-generative-phonology", title: "الصواتةُ التوليدية (Generative Phonology)", type: "مدرسة"
 gaps: ""
 ---

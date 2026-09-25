@@ -1,5 +1,5 @@
 ---
-slug: "trauma-ptsd-studies"
+slug: "sch-trauma-ptsd-studies"
 id: "SCH-13106"
 type: "مدرسة"
 part: "psychiatry"

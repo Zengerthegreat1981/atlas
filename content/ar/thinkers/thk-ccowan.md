@@ -12,8 +12,7 @@ language: "إنجليزية"
 active_start: 1979
 active_end: 2015
 part: "psychology"
-edges:
-- rel: "belongs_to", target: "tec-prep-program", target_type: "تقنية/تدخل علاجي"
+edges: []
 related:
 - id: "thk-hmarkman", title: "هوارد ماركمن", type: "مفكر"
 gaps:

@@ -15,8 +15,7 @@ language: "النوبيّة والمريويتيّة"
 active_start: -3000
 active_end: -300
 edges: []
-related:
-- id: "con-royal-inscriptions-historiography", title: "النقوشُ الملكيّة كمصدرٍ تاريخيّ", type: "مفهوم"
+related: []
 gaps: []
 ---
 

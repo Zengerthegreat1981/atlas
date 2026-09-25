@@ -16,9 +16,7 @@ edges:
 - rel: "belongs_to", target: "sch-arabic-rhetorical-sciences", target_type: "مدرسة"
 related:
 - id: "sch-arabic-rhetorical-sciences", title: "علومُ البلاغة العربية: المعاني والبيان والبديع", type: "مدرسة"
-- id: "thk-al-sakkaki", title: "أبو يعقوب السكّاكي", type: "مفكر"
 - id: "wrk-talkhis-al-miftah-qazwini", title: "تلخيصُ المفتاح", type: "أثر"
-- id: "thk-al-jurjani", title: "عبد القاهر الجرجاني", type: "مفكر"
 gaps: []
 ---
 

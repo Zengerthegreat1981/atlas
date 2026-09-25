@@ -16,7 +16,6 @@ edges: []
 related:
 - id: "thk-julius-wellhausen", title: "يوليوس فلهاوزن", type: "مفكر"
 - id: "con-documentary-hypothesis-wellhausen", title: "الفرضيةُ الوثائقية (JEDP) عند فلهاوزن", type: "مفهوم"
-- id: "thk-ibn-hazm", title: "أبو محمد علي بن أحمد بن حزم الأندلسي", type: "مفكر"
 - id: "sch-religionsgeschichtliche-schule", title: "مدرسةُ تاريخ الأديان الألمانية (Religionsgeschichtliche Schule)", type: "مدرسة"
 - id: "con-form-criticism-gunkel", title: "نقدُ الصيغ الأدبية (Form Criticism) عند غونكل", type: "مفهوم"
 - id: "thk-hermann-gunkel", title: "هرمان غونكل (Hermann Gunkel)", type: "مفكر"

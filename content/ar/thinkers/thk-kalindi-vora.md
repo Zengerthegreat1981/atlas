@@ -11,9 +11,8 @@ birth_country: "USA (India diaspora)"
 active_from: 2000
 active_to: 2026
 primary_school: "sch-digital-labour-anthropology"
-edges:
-- rel: "belongs_to", target: "sch-digital-labour-anthropology", target_type: "مدرسة"
-related:
+edges: []
+related: []
 gaps:
   - "إضافة دراسات وأعمال لهذا المفكر."
 ---

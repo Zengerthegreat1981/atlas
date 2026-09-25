@@ -17,7 +17,6 @@ related:
 - id: "wrk-hikmat-al-ishraq-suhrawardi", title: "حكمة الإشراق للسهروردي", type: "عمل / كتاب"
 - id: "con-alam-al-mithal-imaginal", title: "عالم المثال والبرزخ الروحي (Alam al-Mithal / Mundus Imaginalis)", type: "مفهوم"
 - id: "con-knowledge-by-presence-ilm-huduri", title: "العلم الحضوري والشهود الذاتي (Knowledge by Presence)", type: "مفهوم"
-- id: "thk-al-shahrazuri", title: "شمس الدين محمد بن محمود الشهرزوري", type: "مفكر"
 - id: "thk-qutb-al-din-al-shirazi", title: "قطب الدين محمود بن مسعود الشيرازي", type: "مفكر"
 gaps:
   - "لم تُراجَع نسخة كاملة من شرح قطب الدين الشيرازي على \"حكمة الإشراق\" للتحقق حرفياً من إضافاته الفلكية على متن السهروردي."

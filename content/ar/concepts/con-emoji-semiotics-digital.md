@@ -1,5 +1,5 @@
 ---
-slug: "emoji-semiotics-digital"
+slug: "con-emoji-semiotics-digital"
 id: "CON-18406"
 type: "مفهوم"
 part: "linguistics"

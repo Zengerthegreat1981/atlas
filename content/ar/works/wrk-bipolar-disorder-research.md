@@ -18,10 +18,8 @@ language: "الإنجليزية"
 register: "academic"
 edges:
 - rel: "written_by", target: "thk-frederick-goodwin", target_type: "مفكر"
-- rel: "belongs_to", target: "sch-mood-disorders", target_type: "مدرسة"
 related:
 - id: "thk-frederick-goodwin", title: "فريدريك جودوين", type: "مفكر"
-- id: "sch-mood-disorders", title: "مدرسة اضطرابات المزاج", type: "مدرسة"
 gaps:
   - "تم إنشاء هذا الملف كجزء من Phase 3 (2026-09-24)."
 ---

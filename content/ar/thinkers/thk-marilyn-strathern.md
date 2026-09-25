@@ -15,8 +15,6 @@ primary_school: "sch-gender-queer-anthropology"
 edges:
 - rel: "belongs_to", target: "sch-gender-queer-anthropology", target_type: "مدرسة"
 related:
-- id: "con-gender-exchange-melanesia", title: "Gender and Exchange in Melanesia", type: "مفهوم"
-- id: "con-dividual-personhood", title: "Dividual Personhood", type: "مفهوم"
 - id: "wrk-gender-of-the-gift-strathern", title: "The Gender of the Gift", type: "عمل"
 gaps: []
 

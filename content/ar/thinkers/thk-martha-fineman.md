@@ -14,9 +14,9 @@ legal_tradition: "الفقهُ القانونيُّ النسوي"
 active_start: 2004
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-feminist-jurisprudence", target_type: "مدرسة"
+- rel: "belongs_to", target: "feminist-jurisprudence", target_type: "مدرسة"
 related:
-- id: "sch-feminist-jurisprudence", title: "الفقهُ القانونيُّ النسويُّ (Feminist Jurisprudence)", type: "مدرسة"
+- id: "feminist-jurisprudence", title: "الفقهُ القانونيُّ النسويُّ (Feminist Jurisprudence)", type: "مدرسة"
 - id: "thk-robin-west", title: "روبن ويست (Robin West)", type: "مفكر"
 - id: "con-vulnerability-theory-fineman", title: "نظريةُ الهشاشة والدولةُ المستجيبة (Vulnerability Theory)", type: "مفهوم"
 gaps:

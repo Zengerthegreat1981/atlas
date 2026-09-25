@@ -1,5 +1,5 @@
 ---
-slug: "dan-slobin"
+slug: "thk-dan-slobin"
 id: "THK-13191"
 type: "مفكّر"
 part: "linguistics"
@@ -12,8 +12,7 @@ birth_year: 1939
 fields: ["psycholinguistics", "child language acquisition", "typology", "thinking for speaking"]
 affiliation: "جامعة كاليفورنيا بيركلي"
 primary_school: "sch-psycholinguistics"
-edges:
-- rel: "belongs_to", target: "sch-psycholinguistics", target_type: "مدرسة"
+edges: []
 related: []
 gaps: []
 ---

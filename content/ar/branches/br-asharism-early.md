@@ -13,7 +13,6 @@ edges:
 - rel: "belongs_to", target: "sch-ashariyya", target_type: "مدرسة"
 related:
 - id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"
-- id: "thk-al-ghazali", title: "أبو حامد محمد بن محمد الغزالي (حجة الإسلام)", type: "مفكر"
 - id: "thk-ashari", title: "أبو الحسن علي بن إسماعيل الأشعري", type: "مفكر"
 - id: "con-occasionalism-ashari", title: "العناية الإلهية (العرضية عند الأشعري)", type: "مفهوم"
 - id: "wrk-tahafut-al-falasifa-ghazali", title: "تهافت الفلاسفة لأبي حامد الغزالي", type: "عمل / كتاب"

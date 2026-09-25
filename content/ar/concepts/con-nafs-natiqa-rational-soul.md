@@ -13,8 +13,6 @@ edges:
 - rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 related:
 - id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
-- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا (الشيخ الرئيس)", type: "مفكر"
-- id: "thk-al-farabi", title: "أبو نصر محمد بن محمد الفارابي", type: "مفكر"
 - id: "thk-aristotle", title: "أرسطو", type: "مفكر"
 - id: "con-hylomorphism", title: "الهيلومورفية — المادة والصورة عند أرسطو (Hylomorphism)", type: "مفهوم"
 - id: "con-tripartite-soul-plato", title: "النفس الثلاثية الأفلاطونية (Tripartite Soul)", type: "مفهوم"

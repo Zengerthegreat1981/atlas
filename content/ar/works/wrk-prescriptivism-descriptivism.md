@@ -1,5 +1,5 @@
 ---
-slug: "prescriptivism-descriptivism"
+slug: "wrk-prescriptivism-descriptivism"
 id: "WRK-13221"
 type: "عمل"
 part: "linguistics"

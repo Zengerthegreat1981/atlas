@@ -10,12 +10,10 @@ crumb: "anthropology"
 active_start: 1960
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "sch-kinship-exchange-theory", target_type: "مدرسة"
   - rel: "related_to", target: "con-bride-price", target_type: "مفهوم"
 related:
   - id: "thk-jack-goody", title: "جاك غودي", type: "مفكر"
   - id: "thk-barbara-miller", title: "باربارا ميللر", type: "مفكر"
-  - id: "thk-dorothy-stein", title: "دوروثي شتاين", type: "مفكر"
   - id: "con-bride-price", title: "مهرُ العروس", type: "مفهوم"
 gaps:
   - "لا توجدُ دراسةٌ منفصلةٌ عن الجهازِ في السياقات الإسلاميةِ والعربيةِ بشكلٍ خاصّ."

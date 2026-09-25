@@ -19,7 +19,6 @@ edges:
 related:
 - id: "sch-language-and-gender", title: "اللغةُ والجندر (Language and Gender)", type: "مدرسة"
 - id: "con-language-desire-sexuality-kulick", title: "اللغةُ والرغبةُ الجنسانية عند كوليك (Language & Desire)", type: "مفهوم"
-- id: "thk-don-kulick", title: "دون كوليك", type: "مفكر"
 gaps:
   - "لم يُعثر على مصدرٍ عربيٍّ متخصّصٍ بعملها؛ الاعتمادُ على مصادرها الإنجليزية الأساسية."
 ---

@@ -1,5 +1,5 @@
 ---
-slug: "joan-bybee"
+slug: "thk-joan-bybee"
 id: "THK-13188"
 type: "مفكّر"
 part: "linguistics"
@@ -12,8 +12,7 @@ birth_year: 1944
 fields: ["usage-based linguistics", "phonology", "frequency effects", "grammaticalization"]
 affiliation: "جامعة نيو مكسيكو"
 primary_school: "sch-usage-based-linguistics"
-edges:
-- rel: "belongs_to", target: "sch-usage-based-linguistics", target_type: "مدرسة"
+edges: []
 related: []
 gaps: []
 ---

@@ -17,10 +17,8 @@ active_end: 1030
 language: "الإنجليزية"
 register: "academic"
 edges:
-- rel: "written_by", target: "thk-al-mawardi", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-islamic-ethics-political", target_type: "مدرسة"
 related:
-- id: "thk-al-mawardi", title: "الماوردي", type: "مفكر"
 - id: "sch-islamic-ethics-political", title: "مدرسة الأخلاق الإسلامية والفكر السياسي", type: "مدرسة"
 gaps:
   - "تم إنشاء هذا الملف كجزء من Phase 3 (2026-09-24)."

@@ -17,7 +17,6 @@ active_end: "مستمر"
 edges: []
 related:
 - id: "thk-halim-barakat", title: "حليم بركات", type: "مفكر"
-- id: "thk-ibn-khaldun", title: "عبد الرحمن بن محمد بن خلدون الحضرمي", type: "مفكر"
 - id: "sch-arab-renaissance", title: "النهضة العربية (كتيار فلسفي-إصلاحي)", type: "مدرسة"
 - id: "con-patriarchy", title: "النظام الأبوي (البطريركية)", type: "مفهوم"
 - id: "sch-alwardi-iraqi-arab-sociology", title: "سوسيولوجيا الشخصية الازدواجية وصراع القيم العربي", type: "مدرسة"

@@ -19,7 +19,6 @@ edges:
 - rel: "belongs_to", target: "sch-arabic-rhetorical-sciences", target_type: "مدرسة"
 related:
 - id: "sch-arabic-rhetorical-sciences", title: "علومُ البلاغة العربية: المعاني والبيان والبديع", type: "مدرسة"
-- id: "thk-al-jurjani", title: "عبد القاهر الجرجاني", type: "مفكر"
 - id: "wrk-al-mathal-al-sair-ibn-al-athir", title: "المثلُ السائر في أدب الكاتب والشاعر", type: "أثر"
 gaps:
   - "لم يُعثر على ترجمةٍ إنجليزيةٍ أكاديميةٍ شاملةٍ متخصّصةٍ بابن الأثير ضمن مصادر الأطلس؛ الاعتمادُ الرئيسي على المصادر العربية التراثية."

@@ -17,7 +17,6 @@ edges:
 related:
 - id: "sch-comparative-religion-frazer", title: "الدراسةُ المقارنةُ للدين والسحر", type: "مدرسة"
 - id: "wrk-golden-bough-frazer", title: "الغصنُ الذهبيّ (The Golden Bough)", type: "عمل / كتاب"
-- id: "con-magic-religion-frazer", title: "السحرُ والدين والعلم", type: "مفهوم"
 - id: "thk-edward-tylor", title: "إدوارد تايلور", type: "مفكر"
 gaps: []
 ---

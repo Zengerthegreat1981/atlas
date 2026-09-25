@@ -1,5 +1,5 @@
 ---
-slug: "deep-learning-bengio"
+slug: "wrk-deep-learning-bengio"
 id: "WRK-13215"
 type: "عمل"
 part: "linguistics"

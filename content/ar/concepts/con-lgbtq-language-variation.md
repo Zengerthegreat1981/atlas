@@ -1,5 +1,5 @@
 ---
-slug: "lgbtq-language-variation"
+slug: "con-lgbtq-language-variation"
 id: "CON-18431"
 type: "مفهوم"
 part: "linguistics"

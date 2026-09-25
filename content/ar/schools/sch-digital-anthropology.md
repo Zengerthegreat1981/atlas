@@ -18,7 +18,6 @@ edges:
 - rel: "belongs_to", target: "sch-ontological-turn", target_type: "مدرسة"
 related:
 - id: "thk-daniel-miller", title: "دانيال ميلر (Daniel Miller)", type: "مفكر"
-- id: "thk-tom-boellstorff", title: "توم بولستورف (Tom Boellstorff)", type: "مفكر"
 gaps: []
 ---
 # الأنثروبولوجيا الرقمية والإثنوغرافيا الشبكية (Digital Anthropology — Miller, Boellstorff)

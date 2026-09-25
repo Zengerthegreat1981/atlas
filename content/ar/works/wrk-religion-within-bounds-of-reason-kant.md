@@ -20,7 +20,7 @@ related:
 - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
 - id: "sch-kant-critical", title: "الكانطية النقدية", type: "مدرسة"
 - id: "wrk-critique-of-practical-reason-kant", title: "نقد العقل العملي لإيمانويل كانط", type: "عمل / كتاب"
-- id: "wrk-groundwork-metaphysics-morals-kant", title: "تأسيس ميتافيزيقا الأخلاق لإيمانويل كانط", type: "عمل / كتاب"
+- id: "groundwork-metaphysics-morals-kant", title: "تأسيس ميتافيزيقا الأخلاق لإيمانويل كانط", type: "عمل / كتاب"
 - id: "con-categorical-imperative-kant", title: "الأمر الأخلاقي المطلق عند كانط (Categorical Imperative)", type: "مفهوم"
 - id: "con-autonomy-kantian", title: "الاستقلالية (Autonomy) في الكانطية الأخلاقية", type: "مفهوم"
 gaps:

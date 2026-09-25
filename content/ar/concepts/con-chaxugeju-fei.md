@@ -11,8 +11,7 @@ active_start: 1947
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-east-asian-ethnography", target_type: "مدرسة"
-related:
-- id: "thk-fei-xiaotong", title: "فاي شياوتونغ (Fei Xiaotong / 费孝通)", type: "مفكر"
+related: []
 gaps: []
 ---
 # النسقُ التفاضليّ (差序格局، Chaxugeju)

@@ -16,7 +16,6 @@ active_end: 1928
 edges:
 - rel: "belongs_to", target: "sch-culture-and-personality", target_type: "مدرسة"
 related:
-- id: "thk-margaret-mead", title: "مارغريت ميد (Margaret Mead)", type: "مفكر"
 - id: "dbt-mead-freeman-samoa-controversy", title: "جدلُ ميد–فريمان في ساموا (The Mead–Freeman Controversy)", type: "جدل"
 gaps: []
 ---

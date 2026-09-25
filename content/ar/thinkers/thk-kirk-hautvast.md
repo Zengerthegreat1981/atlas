@@ -1,5 +1,5 @@
 ---
-slug: "kirk-hautvast"
+slug: "thk-kirk-hautvast"
 id: "THK-13194"
 type: "مفكّر"
 part: "linguistics"
@@ -12,8 +12,7 @@ birth_year: 1978
 fields: ["sociolinguistics", "language variation", "acoustic analysis"]
 affiliation: "جامعة أمستردام"
 primary_school: "sch-sociolinguistics"
-edges:
-- rel: "belongs_to", target: "sch-sociolinguistics", target_type: "مدرسة"
+edges: []
 related: []
 gaps: []
 ---

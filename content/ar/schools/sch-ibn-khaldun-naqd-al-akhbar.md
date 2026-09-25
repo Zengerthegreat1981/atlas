@@ -16,7 +16,6 @@ active_start: 1377
 active_end: 1406
 edges: []
 related:
-- id: "thk-ibn-khaldun", title: "عبد الرحمن بن محمد بن خلدون الحضرمي", type: "مفكر"
 - id: "wrk-al-muqaddimah-ibn-khaldun", title: "مقدمة ابن خلدون في علم العمران البشري", type: "عمل / كتاب"
 - id: "sch-khaldunian-ilm-al-umran", title: "علم العمران البشري الخلدوني", type: "مدرسة"
 - id: "con-asabiyyah-ibn-khaldun", title: "العصبية عند ابن خلدون", type: "مفهوم"

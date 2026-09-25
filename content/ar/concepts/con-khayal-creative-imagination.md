@@ -12,7 +12,6 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-wahdat-alwujud", target_type: "مدرسة"
 related:
-- id: "thk-ibn-arabi", title: "محيي الدين بن عربي (الشيخ الأكبر)", type: "مفكر"
 - id: "con-alam-al-mithal-imaginal", title: "عالم المثال والبرزخ الروحي (Alam al-Mithal / Mundus Imaginalis)", type: "مفهوم"
 - id: "con-alam-al-jabarut-malakut-nasut", title: "عوالم الوجود الأربعة: الناسوت والملكوت والجبروت واللاهوت", type: "مفهوم"
 gaps:

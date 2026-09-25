@@ -13,8 +13,6 @@ active_end: 2100
 edges: []
 related:
 - id: "thk-claude-levi-strauss", title: "كلودُ ليڤي-شتراوس", type: "مفكر"
-- id: "wrk-elementary-structures-kinship", title: "الهياكلُ الأولّيةُ للقرابة", type: "عمل / كتاب"
-- id: "con-binary-opposition", title: "الثنائيةُ المتضادّة (Binary Opposition)", type: "مفهوم"
 - id: "con-totemism", title: "التوطّميّةُ (Totemism)", type: "مفهوم"
 gaps: ["thk-roman-jakobson", "sch-prague-linguistic-circle"]
 ---

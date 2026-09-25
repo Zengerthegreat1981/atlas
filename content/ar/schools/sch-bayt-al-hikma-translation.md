@@ -1,5 +1,5 @@
 ---
-slug: "bayt-al-hikma-translation"
+slug: "sch-bayt-al-hikma-translation"
 id: "SCH-13116"
 type: "مدرسة"
 part: "arab-thought"

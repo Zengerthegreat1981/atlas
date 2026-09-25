@@ -8,8 +8,7 @@ title: "ديبورا ماكغريجور"
 en: "Deborah McGregor"
 dates: "1962 – "
 birth_country: "كندا"
-edges:
-- rel: "belongs_to", target: "sch-indigenous-environmental-anthropology", target_type: "مدرسة"
+edges: []
 related: []
 gaps: []
 ---

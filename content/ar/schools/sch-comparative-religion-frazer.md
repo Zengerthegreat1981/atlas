@@ -14,9 +14,6 @@ edges: []
 related:
 - id: "thk-james-frazer", title: "جيمس جورج فريزر (James George Frazer)", type: "مفكر"
 - id: "wrk-golden-bough-frazer", title: "الغصنُ الذهبيّ (The Golden Bough)", type: "عمل / كتاب"
-- id: "con-magic-religion-frazer", title: "السحرُ والدين والعلم (Magic, Religion, and Science)", type: "مفهوم"
-- id: "con-sympathetic-magic", title: "السحرُ التعاطفيّ (Sympathetic Magic)", type: "مفهوم"
-- id: "con-homeopathic-magic", title: "السحرُ المتجانس (Homeopathic Magic)", type: "مفهوم"
 - id: "sch-classical-evolutionism", title: "الأنثروبولوجيا التطوّرية الكلاسيكية", type: "مدرسة"
 gaps: []
 ---

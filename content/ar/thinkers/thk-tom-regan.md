@@ -17,7 +17,7 @@ edges:
 - rel: "belongs_to", target: "sch-animal-liberation", target_type: "مدرسة"
 related:
 - id: "thk-peter-singer", title: "بيتر سينغر", type: "مفكر"
-- id: "sch-environmental-ethics", title: "فلسفة البيئة / الأخلاق البيئية", type: "مدرسة"
+- id: "environmental-ethics", title: "فلسفة البيئة / الأخلاق البيئية", type: "مدرسة"
 - id: "con-speciesism", title: "تخصيص النوع (Speciesism)", type: "مفهوم"
 - id: "wrk-animal-liberation-singer", title: "تحرير الحيوان (Animal Liberation)", type: "عمل / كتاب"
 gaps:

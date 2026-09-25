@@ -13,8 +13,7 @@ publication_year: 1946
 original_language: "الإنجليزية"
 active_start: 1946
 active_end: 1946
-edges:
-  - rel: "belongs_to", target: "sch-historical-method-epistemology", target_type: "مدرسة"
+edges: []
 related:
   - id: "thk-robin-collingwood", title: "رودين جورج كولينجوود (R.G. Collingwood)", type: "مفكر"
   - id: "con-historical-imagination", title: "الخيالُ التاريخيّ (Historical Imagination)", type: "مفهوم"

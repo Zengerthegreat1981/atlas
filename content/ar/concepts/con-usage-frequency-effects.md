@@ -1,5 +1,5 @@
 ---
-slug: "usage-frequency-effects"
+slug: "con-usage-frequency-effects"
 id: "CON-18411"
 type: "مفهوم"
 part: "linguistics"

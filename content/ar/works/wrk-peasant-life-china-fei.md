@@ -15,8 +15,7 @@ active_start: 1939
 active_end: 1939
 edges:
 - rel: "belongs_to", target: "sch-east-asian-ethnography", target_type: "مدرسة"
-related:
-- id: "thk-fei-xiaotong", title: "فاي شياوتونغ (Fei Xiaotong / 费孝通)", type: "مفكر"
+related: []
 gaps: []
 ---
 # الحياةُ الفلاحية في الصين (Peasant Life in China)

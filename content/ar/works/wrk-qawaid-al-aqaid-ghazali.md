@@ -14,10 +14,8 @@ author_slug: "thk-al-ghazali"
 publication_year: 1097
 original_language: "العربية"
 edges:
-- rel: "written_by", target: "thk-al-ghazali", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-ashariyya", target_type: "مدرسة"
 related:
-- id: "thk-al-ghazali", title: "أبو حامد محمد بن محمد الغزالي (حجة الإسلام)", type: "مفكر"
 - id: "wrk-al-munqidh-min-al-dalal-ghazali", title: "المنقذ من الضلال لأبي حامد الغزالي", type: "عمل / كتاب"
 gaps:
   - "تاريخ التأليف تقريبي: يوضع عادةً ضمن فترة تأليف «إحياء علوم الدين» (نحو 495هـ/1102م وما قبلها)، لكن لا يثبت تاريخ يوم/سنة دقيق مفرد للنص بمعزل عن الإحياء ككلّ؛ اعتُمدت هنا سنة تقريبية للإشارة لا للجزم."

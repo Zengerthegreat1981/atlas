@@ -11,9 +11,8 @@ birth_country: "UK"
 active_from: 1970
 active_to: 2026
 primary_school: "sch-applied-anthropology-universities"
-edges:
-- rel: "belongs_to", target: "sch-applied-anthropology-universities", target_type: "مدرسة"
-related:
+edges: []
+related: []
 gaps:
   - "إضافة دراسات وأعمال لهذا المفكر."
 ---

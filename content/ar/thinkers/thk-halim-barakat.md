@@ -17,7 +17,6 @@ crumb: "علم الاجتماع ← علم الاجتماع العربي ← ح�
 edges:
 - rel: "belongs_to", target: "sch-contemporary-arab-sociology", target_type: "مدرسة"
 related:
-- id: "thk-ibn-khaldun", title: "عبد الرحمن بن محمد بن خلدون الحضرمي", type: "مفكر"
 - id: "thk-abdallah-laroui", title: "عبد الله العروي", type: "مفكر"
 - id: "thk-said", title: "إدوارد سعيد", type: "مفكر"
 - id: "con-arab-historicism-laroui", title: "التاريخانية ونقد الوعي التقليدي (عبد الله العروي)", type: "مفهوم"

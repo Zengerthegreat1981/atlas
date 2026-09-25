@@ -1,5 +1,5 @@
 ---
-slug: "medieval-islamic-philosophy"
+slug: "sch-medieval-islamic-philosophy"
 id: "SCH-13117"
 type: "مدرسة"
 part: "arab-thought"

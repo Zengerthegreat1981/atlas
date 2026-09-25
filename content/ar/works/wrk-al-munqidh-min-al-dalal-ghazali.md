@@ -15,9 +15,7 @@ active_start: 1106
 active_end: 1108
 edges:
 - rel: "belongs_to", target: "sch-ashariyya", target_type: "مدرسة"
-- rel: "authored_by", target: "thk-al-ghazali", target_type: "مفكر"
 related:
-- id: "thk-al-ghazali", title: "أبو حامد محمد بن محمد الغزالي (حجة الإسلام)", type: "مفكر"
 - id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"
 gaps:
   - "هذا العمل طرفٌ في ازدواج مسجَّل: يقابله ملف `wrk-al-ghazali-munqidh` لنفس الكتاب لنفس المؤلف. لم يُدمَجا ولم يُنقَل بينهما slug — القرار للمحرِّر."

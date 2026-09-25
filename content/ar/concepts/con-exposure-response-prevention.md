@@ -10,10 +10,8 @@ crumb: "psychiatry ← اضطرابات القلق ← التعريض ومنع �
 active_start: 1900
 active_end: "مستمر"
 language: "الإنجليزية"
-edges:
-- rel: "belongs_to", target: "sch-anxiety-ocd-disorders", target_type: "مدرسة"
-related:
-- id: "sch-anxiety-ocd-disorders", title: "مدرسة اضطرابات القلق", type: "مدرسة"
+edges: []
+related: []
 gaps:
   - "تم إنشاء هذا الملف كجزء من Phase 3 (2026-09-24)."
 ---

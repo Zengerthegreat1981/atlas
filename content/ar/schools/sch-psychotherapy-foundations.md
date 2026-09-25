@@ -1,5 +1,5 @@
 ---
-slug: "psychotherapy-foundations"
+slug: "sch-psychotherapy-foundations"
 id: "SCH-13105"
 type: "مدرسة"
 part: "psychiatry"

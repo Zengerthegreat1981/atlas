@@ -13,7 +13,6 @@ edges: []
 related:
 - id: "thk-kenneth-pike", title: "كينيث بايك (Kenneth L. Pike)", type: "مفكر"
 - id: "thk-marvin-harris", title: "مارفن هاريس (Marvin Harris)", type: "مفكر"
-- id: "con-ethnographic-method", title: "المنهج الإثنوغرافيّ (Ethnographic Method)", type: "مفهوم"
 gaps: []
 ---
 

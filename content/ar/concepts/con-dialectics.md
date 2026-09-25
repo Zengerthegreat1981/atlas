@@ -20,8 +20,6 @@ related:
 - id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
 - id: "thk-plato", title: "أفلاطون", type: "مفكر"
 - id: "thk-aristotle", title: "أرسطو", type: "مفكر"
-- id: "thk-al-farabi", title: "أبو نصر محمد بن محمد الفارابي", type: "مفكر"
-- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا (الشيخ الرئيس)", type: "مفكر"
 - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
 - id: "thk-fichte", title: "يوهان غوتليب فيشته", type: "مفكر"
 - id: "thk-lukacs", title: "جورج لوكاش", type: "مفكر"

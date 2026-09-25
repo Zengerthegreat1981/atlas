@@ -18,10 +18,8 @@ language: "الإنجليزية"
 register: "academic"
 edges:
 - rel: "written_by", target: "thk-rumi", target_type: "مفكر"
-- rel: "belongs_to", target: "sch-islamic-mysticism-sufism", target_type: "مدرسة"
 related:
 - id: "thk-rumi", title: "الرومي", type: "مفكر"
-- id: "sch-islamic-mysticism-sufism", title: "مدرسة التصوف الإسلامي", type: "مدرسة"
 gaps:
   - "تم إنشاء هذا الملف كجزء من Phase 3 (2026-09-24)."
 ---

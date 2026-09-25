@@ -14,9 +14,9 @@ language: "الإنجليزية"
 active_start: 1962
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "sch-environmental-ethics", target_type: "مدرسة"
+- rel: "evolved_from", target: "environmental-ethics", target_type: "مدرسة"
 related:
-- id: "sch-environmental-ethics", title: "فلسفة البيئة / الأخلاق البيئية", type: "مدرسة"
+- id: "environmental-ethics", title: "فلسفة البيئة / الأخلاق البيئية", type: "مدرسة"
 - id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
 - id: "sch-anarchism-contemporary", title: "الفوضوية المعاصرة", type: "مدرسة"
 - id: "con-ecology-of-freedom", title: "إيكولوجيا الحرية (Ecology of Freedom)", type: "مفهوم"

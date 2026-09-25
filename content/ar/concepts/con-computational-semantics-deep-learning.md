@@ -1,5 +1,5 @@
 ---
-slug: "computational-semantics-deep-learning"
+slug: "con-computational-semantics-deep-learning"
 id: "CON-18425"
 type: "مفهوم"
 part: "linguistics"

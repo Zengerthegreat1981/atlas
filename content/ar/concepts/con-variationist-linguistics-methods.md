@@ -1,5 +1,5 @@
 ---
-slug: "variationist-linguistics-methods"
+slug: "con-variationist-linguistics-methods"
 id: "CON-18402"
 type: "مفهوم"
 part: "linguistics"

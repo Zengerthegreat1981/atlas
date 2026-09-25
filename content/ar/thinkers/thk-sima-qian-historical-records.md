@@ -14,7 +14,6 @@ cultural_origin: "chinese"
 edges: []
 related:
   - id: "sch-ancient-historiography-foundations", title: "أسس التاريخ المكتوب", type: "school"
-  - id: "con-chronology-ancient", title: "التأريخ الزمني في المصادر", type: "concept"
 gaps: []
 ---
 

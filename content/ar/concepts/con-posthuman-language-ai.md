@@ -1,5 +1,5 @@
 ---
-slug: "posthuman-language-ai"
+slug: "con-posthuman-language-ai"
 id: "CON-18429"
 type: "مفهوم"
 part: "linguistics"

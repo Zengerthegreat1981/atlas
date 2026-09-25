@@ -1,5 +1,5 @@
 ---
-slug: "yoshua-bengio"
+slug: "thk-yoshua-bengio"
 id: "THK-13192"
 type: "مفكّر"
 part: "linguistics"
@@ -13,7 +13,7 @@ fields: ["deep learning", "neural networks", "natural language processing", "mac
 affiliation: "جامعة مونتريال"
 primary_school: "sch-computational-linguistics"
 edges:
-- rel: "belongs_to", target: "sch-computational-linguistics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-computational-linguistics-nlp", target_type: "مدرسة"
 related: []
 gaps: []
 ---

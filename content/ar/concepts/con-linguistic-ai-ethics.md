@@ -1,5 +1,5 @@
 ---
-slug: "linguistic-ai-ethics"
+slug: "con-linguistic-ai-ethics"
 id: "CON-18430"
 type: "مفهوم"
 part: "linguistics"

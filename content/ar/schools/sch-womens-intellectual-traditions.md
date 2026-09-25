@@ -1,5 +1,5 @@
 ---
-slug: "womens-intellectual-traditions"
+slug: "sch-womens-intellectual-traditions"
 id: "SCH-13123"
 type: "مدرسة"
 part: "arab-thought"

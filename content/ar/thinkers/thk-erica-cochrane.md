@@ -1,5 +1,5 @@
 ---
-slug: "erica-cochrane"
+slug: "thk-erica-cochrane"
 id: "THK-13185"
 type: "مفكّر"
 part: "linguistics"
@@ -12,8 +12,7 @@ birth_year: 1975
 fields: ["urban sociolinguistics", "Canadian English", "linguistic change"]
 affiliation: "جامعة تورنتو"
 primary_school: "sch-sociolinguistics"
-edges:
-- rel: "belongs_to", target: "sch-sociolinguistics", target_type: "مدرسة"
+edges: []
 related: []
 gaps: []
 ---

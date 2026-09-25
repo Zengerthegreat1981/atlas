@@ -12,10 +12,8 @@ crumb: "علمُ الأديان المقارن ← دراسةُ عبادات ا�
 dates: "1957 (لندن، ماكگِبِن وكي)"
 active_start: 1957
 active_end: 1957
-edges:
-- rel: "belongs_to", target: "thk-peter-worsley", target_type: "مفكر"
+edges: []
 related:
-- id: "thk-peter-worsley", title: "پيتر ورزلي (Peter Worsley)", type: "مفكر"
 - id: "sch-academic-melanesian-cargo-cult-studies", title: "الدراسةُ الأكاديميةُ لعباداتِ الشحنة الملانيزية (Melanesian Cargo Cult Studies)", type: "مدرسة"
 - id: "wrk-new-heaven-new-earth-burridge", title: "سماءٌ جديدة، أرضٌ جديدة: دراسةٌ في الأنشطة الألفية", type: "عمل / كتاب"
 gaps:

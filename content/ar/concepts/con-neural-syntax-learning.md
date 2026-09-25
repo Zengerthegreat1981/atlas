@@ -1,5 +1,5 @@
 ---
-slug: "neural-syntax-learning"
+slug: "con-neural-syntax-learning"
 id: "CON-18426"
 type: "مفهوم"
 part: "linguistics"

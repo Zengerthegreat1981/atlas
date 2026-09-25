@@ -1,5 +1,5 @@
 ---
-slug: "naomi-baron"
+slug: "thk-naomi-baron"
 id: "THK-13186"
 type: "مفكّر"
 part: "linguistics"
@@ -12,8 +12,7 @@ birth_year: 1952
 fields: ["digital communication", "internet linguistics", "language change online"]
 affiliation: "جامعة أمريكية"
 primary_school: "sch-digital-communication"
-edges:
-- rel: "belongs_to", target: "sch-digital-communication", target_type: "مدرسة"
+edges: []
 related: []
 gaps: []
 ---

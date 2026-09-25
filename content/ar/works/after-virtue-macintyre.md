@@ -1,5 +1,5 @@
 ---
-slug: "wrk-after-virtue-macintyre"
+slug: "after-virtue-macintyre"
 id: "WRK-10008"
 type: "عمل / كتاب"
 part: "ethics"

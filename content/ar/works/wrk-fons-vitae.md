@@ -18,9 +18,7 @@ active_start: 1050
 active_end: 1050
 edges:
 - rel: "belongs_to", target: "sch-judaism-andalusian", target_type: "مدرسة"
-- rel: "authored_by", target: "thk-ibn-gabirol", target_type: "مفكر"
 related:
-- id: "thk-ibn-gabirol", title: "سليمان بن يحيى ابن جابيرول (أفيسبريم)", type: "مفكر"
 - id: "sch-judaism-andalusian", title: "الفلسفة اليهودية الوسيطة الأندلسية (الأرسطية اليهودية)", type: "مدرسة"
 gaps:
   - "النص العربي الأصلي مفقود تماماً؛ معرفتنا بالعمل بأكملها عبر الترجمة اللاتينية، ولا مخطوطة عربية ولو جزئية عُثر عليها حتى الآن."

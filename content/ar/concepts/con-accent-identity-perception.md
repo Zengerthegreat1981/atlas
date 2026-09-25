@@ -1,5 +1,5 @@
 ---
-slug: "accent-identity-perception"
+slug: "con-accent-identity-perception"
 id: "CON-18439"
 type: "مفهوم"
 part: "linguistics"

@@ -14,13 +14,9 @@ country: "الولايات المتحدة"
 language: "الإنجليزية"
 active_start: 1995
 active_end: "مستمر"
-edges:
-- rel: "belongs_to", target: "sch-aphasiology-communication-disorders", target_type: "مدرسة"
-- rel: "evolved_from", target: "sch-aphasiology-communication-disorders", target_type: "مدرسة"
+edges: []
 related:
 - id: "con-aphasiology-classification", title: "تصنيفُ الحُبسة (Aphasiology)", type: "مفهوم"
-- id: "con-augmentative-alternative-communication", title: "الاتصالُ البديلُ والمدعّم (AAC)", type: "مفهوم"
-- id: "con-dysarthria-speech-motor-control", title: "خللُ النطق والتحكّمُ الحركيّ (Dysarthria)", type: "مفهوم"
 gaps: ""
 ---
 

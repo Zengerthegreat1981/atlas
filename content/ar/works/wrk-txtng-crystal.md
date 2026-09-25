@@ -1,5 +1,5 @@
 ---
-slug: "txtng-crystal"
+slug: "wrk-txtng-crystal"
 id: "WRK-13211"
 type: "عمل"
 part: "linguistics"

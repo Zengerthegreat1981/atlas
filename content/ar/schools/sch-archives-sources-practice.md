@@ -14,8 +14,6 @@ active_start: 1970
 active_end: "مستمر"
 edges: []
 related:
-  - id: "thk-jacques-derrida", title: "جاك ديريدا (Jacques Derrida)", type: "مفكر"
-  - id: "thk-carolyn-steedman", title: "كارولين ستيدمان (Carolyn Steedman)", type: "مفكر"
   - id: "con-archival-theory", title: "نظريةُ الأرشيف (Archival Theory)", type: "مفهوم"
 gaps:
   - "كيفَ نتعاملُ معَ الفجواتِ والصمتِ في الأرشيفات؟"

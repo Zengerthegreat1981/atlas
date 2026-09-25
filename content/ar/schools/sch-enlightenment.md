@@ -26,7 +26,7 @@ related:
 - id: "br-french-enlightenment-encyclopedists", title: "التنوير الفرنسي والموسوعيون — التنوير", type: "تيار"
 - id: "con-ad-verecundiam-authority", title: "مغالطة الاحتكام غير المبرر للسلطة (Ad Verecundiam)", type: "مفهوم"
 - id: "wrk-system-of-nature-holbach", title: "نظام الطبيعة للبارون هولباخ (Système de la Nature)", type: "عمل / كتاب"
-- id: "con-separation-of-powers", title: "مبدأ فصل السلطات وتوازنها (Separation of Powers)", type: "مفهوم"
+- id: "separation-of-powers", title: "مبدأ فصل السلطات وتوازنها (Separation of Powers)", type: "مفهوم"
 - id: "thk-condorcet", title: "نيكولا دو كوندورسيه", type: "مفكر"
 gaps:
   - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشاراتٌ إلى 5 عقدةً كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."

@@ -1,5 +1,5 @@
 ---
-slug: "con-rule-of-law"
+slug: "rule-of-law"
 id: "CON-2114"
 type: "مفهوم"
 part: "legal-theory"

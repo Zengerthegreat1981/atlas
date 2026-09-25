@@ -1,5 +1,5 @@
 ---
-slug: "so-what-tagliamonte"
+slug: "wrk-so-what-tagliamonte"
 id: "WRK-13218"
 type: "عمل"
 part: "linguistics"

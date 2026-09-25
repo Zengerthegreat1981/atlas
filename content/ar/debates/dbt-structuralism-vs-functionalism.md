@@ -15,8 +15,6 @@ edges:
 related:
 - id: "thk-claude-levi-strauss", title: "كلود ليڤي-شتراوس (Claude Lévi-Strauss)", type: "مفكر"
 - id: "thk-radcliffe-brown", title: "ألفريد رادكليف-براون (A.R. Radcliffe-Brown)", type: "مفكر"
-- id: "con-functionalism-anthropology", title: "الوظيفية في الأنثروبولوجيا (Functionalism)", type: "مفهوم"
-- id: "con-structuralism-anthropology", title: "البنيوية في الأنثروبولوجيا (Structuralism)", type: "مفهوم"
 gaps: []
 ---
 

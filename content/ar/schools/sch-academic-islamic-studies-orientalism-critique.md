@@ -19,8 +19,6 @@ related:
 - id: "thk-said", title: "إدوارد سعيد", type: "مفكر"
 - id: "wrk-orientalism-said", title: "الاستشراق (Orientalism) — الكتاب", type: "عمل / كتاب"
 - id: "con-orientalism", title: "الاستشراق (Orientalism) — المفهوم", type: "مفهوم"
-- id: "thk-al-shahrastani", title: "أبو الفتح الشهرستاني", type: "مفكر"
-- id: "thk-al-biruni", title: "أبو الريحان البيروني", type: "مفكر"
 - id: "sch-arabic-comparative-religion-tradition", title: "التقليدُ العربيُّ الكلاسيكيُّ في مقارنة الأديان والملل", type: "مدرسة"
 - id: "sch-higher-criticism-biblical-studies", title: "النقدُ الأعلى ودراساتُ الكتاب المقدَّس النقدية", type: "مدرسة"
 - id: "thk-joseph-schacht", title: "جوزيف شاخت (Joseph Schacht)", type: "مفكر"

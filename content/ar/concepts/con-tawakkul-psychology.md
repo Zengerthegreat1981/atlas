@@ -9,12 +9,11 @@ en: "Tawakkul (Psychological Trust and Surrender)"
 crumb: "علم النفس الإسلامي والسلوكي ← المقامات والأحوال ← التوكل"
 active_start: 800
 active_end: "مستمر"
-edges:
+edges: []
   []
 related:
 - id: "con-ataraxia", title: "الأتاراكسيا والسكينة النفسية", type: "مفهوم"
 - id: "con-zuhd-detachment", title: "الزهد والتحرر من أسر التعلق المادي (Zuhd / Detachment)", type: "مفهوم"
-- id: "thk-al-ghazali", title: "أبو حامد محمد بن محمد الغزالي (حجة الإسلام)", type: "مفكر"
 - id: "sch-wahdat-alwujud", title: "العرفان النظري / وحدة الوجود (المدرسة الأكبرية — الشيخ الأكبر ابن عربي)", type: "مدرسة"
 - id: "con-tawakkul", title: "التوكل (Tawakkul)", type: "مفهوم"
 gaps:

@@ -18,7 +18,6 @@ related:
 - id: "con-basic-goods-practical-reasonableness-finnis", title: "الخيراتُ الأساسيةُ والمعقوليةُ العملية (Basic Goods & Practical Reasonableness)", type: "مفهوم"
 - id: "wrk-natural-law-and-natural-rights-finnis", title: "القانونُ الطبيعيُّ والحقوقُ الطبيعية (Natural Law and Natural Rights)", type: "عمل / كتاب"
 - id: "con-natural-law-aquinas-concept", title: "القانون الطبيعي والمشاركة العقلية في الحكمة الأزلية (Natural Law)", type: "مفهوم"
-- id: "thk-al-shatibi", title: "أبو إسحاق الشاطبي (Al-Shatibi)", type: "مفكر"
 - id: "thk-germain-grisez", title: "جيرمين غريسيز (Germain Grisez)", type: "مفكر"
 gaps:
   - "**سُدَّ 2026-09-21**: أُنشئ `thk-germain-grisez` (كان مذكوراً كفجوةٍ منتظرة)."

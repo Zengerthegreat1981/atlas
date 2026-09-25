@@ -17,10 +17,8 @@ active_end: 2001
 language: "الإنجليزية"
 register: "academic"
 edges:
-- rel: "written_by", target: "thk-eric-kandel", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-neurobiology-mental-illness", target_type: "مدرسة"
 related:
-- id: "thk-eric-kandel", title: "إريك كاندل", type: "مفكر"
 - id: "sch-neurobiology-mental-illness", title: "مدرسة علم الأعصاب البيولوجي", type: "مدرسة"
 gaps:
   - "تم إنشاء هذا الملف كجزء من Phase 3 (2026-09-24)."

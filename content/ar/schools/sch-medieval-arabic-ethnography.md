@@ -12,11 +12,7 @@ active_start: 900
 active_end: 1500
 edges: []
 related:
-- id: "thk-ibn-battuta", title: "ابنُ بطّوطة", type: "مفكر"
-- id: "thk-al-biruni", title: "البيرونيّ", type: "مفكر"
 - id: "wrk-rihla-ibn-battuta", title: "الرحلةُ (Rihla)", type: "عمل / كتاب"
-- id: "wrk-kitab-al-hind-biruni", title: "كتابُ الهند (Kitab al-Hind)", type: "عمل / كتاب"
-- id: "con-ethnographic-observation-arabic", title: "الملاحظةُ الإثنوغرافيةُ في التراثِ العربيّ", type: "مفهوم"
 gaps: []
 ---
 

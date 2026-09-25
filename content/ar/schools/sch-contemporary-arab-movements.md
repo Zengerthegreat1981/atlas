@@ -1,5 +1,5 @@
 ---
-slug: "contemporary-arab-movements"
+slug: "sch-contemporary-arab-movements"
 id: "SCH-13122"
 type: "مدرسة"
 part: "arab-thought"

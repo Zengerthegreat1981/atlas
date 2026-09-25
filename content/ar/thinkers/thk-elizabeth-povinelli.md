@@ -11,9 +11,8 @@ birth_country: "USA"
 active_from: 1980
 active_to: 2026
 primary_school: "sch-anthropology-of-indigeneity"
-edges:
-- rel: "belongs_to", target: "sch-anthropology-of-indigeneity", target_type: "مدرسة"
-related:
+edges: []
+related: []
 gaps:
   - "إضافة دراسات وأعمال لهذا المفكر."
 ---

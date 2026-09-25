@@ -10,9 +10,9 @@ crumb: "الفلسفة ← العابرة ← فلسفة البيئة ← أخل
 active_start: 1949
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "sch-environmental-ethics", target_type: "مدرسة"
+- rel: "belongs_to", target: "environmental-ethics", target_type: "مدرسة"
 related:
-- id: "sch-environmental-ethics", title: "فلسفة البيئة / الأخلاق البيئية", type: "مدرسة"
+- id: "environmental-ethics", title: "فلسفة البيئة / الأخلاق البيئية", type: "مدرسة"
 - id: "thk-leopold", title: "ألدو ليوبولد", type: "مفكر"
 - id: "sch-deep-ecology", title: "الإيكولوجيا العميقة", type: "مدرسة"
 - id: "dbt-anthropocentrism-vs-biocentrism-ethics", title: "المركزية البشرية مقابل المركزية الحيوية البيئية", type: "جدل"

@@ -1,5 +1,5 @@
 ---
-slug: "language-cyberspace-crystal"
+slug: "wrk-language-cyberspace-crystal"
 id: "WRK-13222"
 type: "عمل"
 part: "linguistics"

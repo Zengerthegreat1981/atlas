@@ -1,5 +1,5 @@
 ---
-slug: "sch-qur'anic-historiography"
+slug: "sch-qur"
 id: "SCH-12525"
 type: "مدرسة"
 part: "historiography"

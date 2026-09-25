@@ -15,12 +15,10 @@ cultural_origin: "multi-regional"
 active_start: 1980
 active_end: "مستمر"
 region: "Global"
-edges:
-- rel: "belongs_to", target: "sch-applied-anthropology-development", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-paul-farmer", title: "پول فارمر (Paul Farmer)", type: "مفكر"
 - id: "thk-nancy-scheper-hughes", title: "نانسي شيبر هيوجز (Nancy Scheper-Hughes)", type: "مفكر"
-- id: "thk-ruth-mayer-liebhaber", title: "روث مايرز ليبهابر (Ruth Mayer Liebhaber)", type: "مفكر"
 gaps:
   - "إضافة دراسات ميدانية عن الإيدز والملاريا والدرن والصحة النفسية في جنوب آسيا وأفريقيا."
   - "توثيق الأنثروبولوجيين الطبيين في المنظمات الإنسانية."

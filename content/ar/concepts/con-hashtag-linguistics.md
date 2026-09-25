@@ -1,5 +1,5 @@
 ---
-slug: "hashtag-linguistics"
+slug: "con-hashtag-linguistics"
 id: "CON-18407"
 type: "مفهوم"
 part: "linguistics"

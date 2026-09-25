@@ -20,10 +20,8 @@ original_language: "العربية"
 active_start: 1050
 active_end: 1050
 edges:
-- rel: "written_by", target: "thk-ibn-hazm", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-arabic-comparative-religion-tradition", target_type: "مدرسة"
 related:
-- id: "thk-ibn-hazm", title: "أبو محمد علي بن أحمد بن حزم الأندلسي", type: "مفكر"
 - id: "sch-arabic-comparative-religion-tradition", title: "التقليدُ العربيُّ الكلاسيكيُّ في مقارنة الأديان والملل", type: "مدرسة"
 gaps:
   - "سنةُ التأليف الدقيقة غير مثبتة؛ 1050 تقريبٌ تقع ضمن العقد الأخير من حياة ابن حزم (توفي 1064) حين استقر بشكل أكبر على التأليف بعد اعتزاله السياسة."

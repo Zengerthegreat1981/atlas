@@ -16,12 +16,10 @@ author: "thk-pierre-bourdieu"
 pages: 248
 edges:
 - rel: "belongs_to", target: "sch-anthropological-practice-theory", target_type: "مدرسة"
-- rel: "formulated_in", target: "con-habitus", target_type: "مفهوم"
-- rel: "formulated_in", target: "con-practice-theory", target_type: "مفهوم"
+- rel: "formulated_in", target: "con-habitus-anthropology", target_type: "مفهوم"
 related:
 - id: "thk-pierre-bourdieu", title: "بيير بورديو (Pierre Bourdieu)", type: "مفكر"
-- id: "con-habitus", title: "الهابيتوس (Habitus)", type: "مفهوم"
-- id: "con-practice-theory", title: "نظريةُ الممارسة (Practice Theory)", type: "مفهوم"
+- id: "con-habitus-anthropology", title: "الهابيتوس (Habitus)", type: "مفهوم"
 - id: "dbt-agency-vs-structure-anthropology", title: "جدلُ الفاعليةِ مقابل البنية", type: "جدل"
 gaps: []
 ---

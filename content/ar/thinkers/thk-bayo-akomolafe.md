@@ -8,8 +8,7 @@ title: "بايو أكوموليفي"
 en: "Bayo Akomolafe"
 dates: "1980 – "
 birth_country: "نيجيريا"
-edges:
-- rel: "belongs_to", target: "sch-decolonial-anthropology", target_type: "مدرسة"
+edges: []
 related: []
 gaps: []
 ---

@@ -14,7 +14,6 @@ edges:
 related:
 - id: "br-islamic-positive-psychology", title: "علم النفس الإيجابي الإسلامي", type: "تيار"
 - id: "ctx-arabic-self", title: "النفس في التراث العربي الإسلامي", type: "سياق/تقليد"
-- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا (الشيخ الرئيس)", type: "مفكر"
 - id: "wrk-al-shifa-avicenna", title: "كتاب الشفاء لابن سينا (موسوعة الفلسفة)", type: "عمل / كتاب"
 - id: "con-floating-man-argument-avicenna", title: "تجربة الإنسان الطائر / المعلق في الفضاء (Floating Man Argument)", type: "مفهوم"
 - id: "met-avicenna-floating-man", title: "الرجل الطائر لابن سينا: استعارة جوهرية الوعي والذات المجردة", type: "استعارة/مجاز مؤسِّس"

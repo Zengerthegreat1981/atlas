@@ -1,5 +1,5 @@
 ---
-slug: "embodied-simulation-language"
+slug: "con-embodied-simulation-language"
 id: "CON-18418"
 type: "مفهوم"
 part: "linguistics"

@@ -1,5 +1,5 @@
 ---
-slug: "usage-based-theory-grammar"
+slug: "wrk-usage-based-theory-grammar"
 id: "WRK-13220"
 type: "عمل"
 part: "linguistics"

@@ -13,9 +13,6 @@ edges:
 - rel: "belongs_to", target: "sch-arabic-comparative-religion-tradition", target_type: "مدرسة"
 related:
 - id: "sch-arabic-comparative-religion-tradition", title: "التقليدُ العربيُّ الكلاسيكيُّ في مقارنة الأديان والملل", type: "مدرسة"
-- id: "thk-al-biruni", title: "أبو الريحان البيروني", type: "مفكر"
-- id: "thk-al-shahrastani", title: "أبو الفتح الشهرستاني", type: "مفكر"
-- id: "thk-ibn-hazm", title: "أبو محمد علي بن أحمد بن حزم الأندلسي", type: "مفكر"
 - id: "con-emic-etic-study-of-religion", title: "الداخلُ والخارجُ: Emic/Etic في دراسة الدين", type: "مفهوم"
 gaps:
   - "هذا الجدلُ استخراجٌ تحليليٌّ معاصر من ملاحظةٍ كانت مذكورةً إجمالاً في `gaps` ملفّ `sch-arabic-comparative-religion-tradition` (\"درجةُ الموضوعية عند كلٍّ من الثلاثة متفاوتة\") ولم تكن مفصَّلةً في عقدةٍ مستقلة."

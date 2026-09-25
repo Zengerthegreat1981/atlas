@@ -11,10 +11,7 @@ crumb: "الأنثروبولوجيا ← التأسيس والتطوّرية ا�
 active_start: 1890
 active_end: 2100
 edges: []
-related:
-- id: "thk-herodotus-diffusionism", title: "هيرودوتس ومسألة الانتشار الثقافي", type: "مفكر"
-- id: "con-culture-area", title: "منطقةُ الثقافة (Culture Area)", type: "مفهوم"
-- id: "con-diffusion-vs-independent-invention", title: "الانتشارُ مقابلَ الاختراعِ المستقلِّ", type: "مفهوم"
+related: []
 gaps: ["thk-fritz-graebner", "thk-clark-wissler", "ins-culture-area-method"]
 ---
 

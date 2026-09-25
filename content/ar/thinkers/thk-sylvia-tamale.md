@@ -8,8 +8,7 @@ title: "سيلفيا تامالي"
 en: "Sylvia Tamale"
 dates: "1957 – "
 birth_country: "أوغندا"
-edges:
-- rel: "belongs_to", target: "sch-african-feminist-anthropology", target_type: "مدرسة"
+edges: []
 related: []
 gaps: []
 ---

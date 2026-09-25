@@ -12,15 +12,9 @@ dates: "1934 – 2021"
 birth_country: "المملكة المتحدة"
 active_start: 1965
 active_end: 2021
-edges:
-- rel: "belongs_to", target: "sch-biocultural-anthropology", target_type: "مدرسة"
-- rel: "belongs_to", target: "sch-evolutionary-anthropology", target_type: "مدرسة"
+edges: []
 related:
-- id: "sch-biocultural-anthropology", title: "الأنثروبولوجيا البيولوجية-الثقافية", type: "مدرسة"
-- id: "con-kinship-universals", title: "العالميات في نظم القرابة", type: "مفهوم"
-- id: "con-biogenetic-versus-cultural-kinship", title: "القرابة البيولوجية مقابل الثقافية", type: "مفهوم"
 - id: "thk-david-schneider", title: "ديفيد شنايدر", type: "مفكر"
-- id: "thk-lionel-tiger", title: "لايونل تايجر", type: "مفكر"
 gaps:
 - "يحتاج إلى توسّع للجدل الحاد بين فوكس والأنثروبولوجيين الثقافيين حول الأساس الطبيعي للقرابة."
 - "ربط مفقود مع تطوّرات علم الوراثة الحديثة وكيفية أنّها تؤثّر على فهم الأساس البيولوجي للقرابة."

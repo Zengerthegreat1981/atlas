@@ -14,10 +14,8 @@ crumb: "نظريةُ القانون ← التقليدُ ما قبل الحدي�
 legal_tradition: "أصولُ الفقه الإسلامي"
 active_start: 1109
 active_end: "مستمر"
-edges:
-- rel: "authored_by", target: "thk-al-ghazali", target_type: "مفكر"
+edges: []
 related:
-- id: "thk-al-ghazali", title: "أبو حامد محمد بن محمد الغزالي (حجة الإسلام)", type: "مفكر"
 - id: "con-qiyas-analogical-reasoning", title: "القياسُ (Qiyas — الاستدلالُ التمثيليُّ الشرعي)", type: "مفهوم"
 - id: "con-istihsan-juristic-preference", title: "الاستحسانُ (Istihsan — الاستحسانُ الفقهي)", type: "مفهوم"
 - id: "sch-usul-al-fiqh-legal-theory", title: "أصولُ الفقه بوصفه نظريةً قانونية (Usul al-Fiqh as Legal Theory)", type: "مدرسة"

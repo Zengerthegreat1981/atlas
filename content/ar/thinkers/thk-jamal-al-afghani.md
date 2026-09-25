@@ -12,10 +12,8 @@ active_start: 1838
 active_end: 1897
 country: ""
 language: "الإنجليزية"
-edges:
-- rel: "belongs_to", target: "sch-nahda-modernization", target_type: "مدرسة"
-related:
-- id: "sch-nahda-modernization", title: "مدرسة النهضة العربية", type: "مدرسة"
+edges: []
+related: []
 gaps:
   - "تم إنشاء هذا الملف كجزء من Phase 3 (2026-09-24)."
 ---

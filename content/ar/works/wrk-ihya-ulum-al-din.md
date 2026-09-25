@@ -17,10 +17,8 @@ active_end: 1096
 language: "الإنجليزية"
 register: "academic"
 edges:
-- rel: "written_by", target: "thk-al-ghazali", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-early-islamic-classical", target_type: "مدرسة"
 related:
-- id: "thk-al-ghazali", title: "الغزالي", type: "مفكر"
 - id: "sch-early-islamic-classical", title: "مدرسة الفكر الإسلامي المبكر", type: "مدرسة"
 gaps:
   - "تم إنشاء هذا الملف كجزء من Phase 3 (2026-09-24)."

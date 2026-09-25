@@ -14,7 +14,7 @@ edges:
 related:
 - id: "thk-kant", title: "إيمانويل كانط", type: "مفكر"
 - id: "sch-kant-critical", title: "الكانطية النقدية", type: "مدرسة"
-- id: "con-categorical-imperative", title: "الأمر المطلق (Categorical Imperative)", type: "مفهوم"
+- id: "categorical-imperative", title: "الأمر المطلق (Categorical Imperative)", type: "مفهوم"
 gaps:
   - "هذا الملف يبدو نسخة موازية لملف con-categorical-imperative.md بنفس العنوان الإنجليزي (Categorical Imperative)؛ ذاك الملف يحمل تفصيلاً أوسع للصياغات الأربع والنقد الهيغلي، بينما هذا الملف يركّز على الصياغتين الأولى والثانية؛ يحتاج قرار دمج لاحق خارج نطاق هذه المهمة."
   - "الصياغة الرابعة (مملكة الغايات، Reich der Zwecke) غير مفصَّلة هنا رغم ورودها في الصياغتين الأولى والثانية أدناه؛ موثّقة بتفصيل أكبر في con-categorical-imperative.md."

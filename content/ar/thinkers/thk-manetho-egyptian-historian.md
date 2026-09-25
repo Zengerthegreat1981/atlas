@@ -16,7 +16,6 @@ active_end: -240
 edges: []
 related:
 - id: "sch-manetho-egyptian-historiography", title: "التأريخُ المصريّ الهلّنستيّ (مانيتون)", type: "مدرسة"
-- id: "wrk-aegyptiaca-manetho", title: "الآِيجِبْتِيَّات (Aegyptiaca) — مانيتون", type: "عمل"
 - id: "thk-berossus-historian", title: "بيروسوس المؤرّخ", type: "مفكر"
 gaps:
   - "**التزامنُ المثيرُ** بين بيروسوس ومانيتون كوسيطين ثقافيين: كلاهما **كاهنٌ محلّيّ** كتبَ **للجمهور اليونانيّ** في القرن الثالثِ ق.م., وكلاهما **ضاع كتابُه الأصليّ** وبقيَ عبر اقتباسات"

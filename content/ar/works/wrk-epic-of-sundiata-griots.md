@@ -19,7 +19,7 @@ topics:
 - oral-tradition
 related:
 - id: "sch-african-sub-saharan-historiography-oral-tradition", title: "التأريخُ الأفريقيّ الشفويّ", type: "مدرسة"
-- id: "con-oral-historiography-method", title: "التأريخُ الشفويّ", type: "مفهوم"
+- id: "con-oral-history-methods", title: "التأريخُ الشفويّ", type: "مفهوم"
 gaps:
   - "**النصُّ الأصليّ ليسَ موجوداً** — ما لدينا هو **تسجيلاتٌ حديثة** للملحمة من رواةٍ معاصرين (خاصّةً Djibril Tamsir Niane سنة 1960)"
   - "**الفرقُ بين نسخِ الرواة** — كلّ جريوتٍ يرويها **بشكلٍ مختلفٍ قليلاً** (مع الحفاظِ على العناصرِ الأساسيّة)، فأيّ نسخةٍ هي 'الأصليّة'؟"

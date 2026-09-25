@@ -15,7 +15,6 @@ language: "العربية"
 edges:
 - rel: "belongs_to", target: "sch-ashariyya", target_type: "مدرسة"
 related:
-- id: "thk-al-ghazali", title: "أبو حامد محمد بن محمد الغزالي (حجة الإسلام)", type: "مفكر"
 - id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"
 - id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"
 gaps:

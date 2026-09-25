@@ -1,5 +1,5 @@
 ---
-slug: "con-artificial-intelligence-ethics"
+slug: "artificial-intelligence-ethics"
 id: "CON-2466"
 type: "مفهوم"
 part: "ethics"

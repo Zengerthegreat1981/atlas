@@ -20,7 +20,6 @@ related:
 - id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"
 - id: "thk-pseudo-dionysius", title: "ديونيسيوس المجهول (المُنتحل / الإله الزائف)", type: "مفكر"
 - id: "thk-maimonides", title: "موسى بن ميمون (رمبام)", type: "مفكر"
-- id: "thk-ibn-arabi", title: "محيي الدين بن عربي (الشيخ الأكبر)", type: "مفكر"
 - id: "thk-spinoza", title: "باروخ سبينوزا", type: "مفكر"
 gaps:
   - "النسب الفكري المباشر بين ابن ميمون وPseudo-Dionysius موضع جدل (طريق عبر السكولاستية أم مباشر؟)."

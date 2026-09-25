@@ -1,5 +1,5 @@
 ---
-slug: "linguistic-change-real-time"
+slug: "con-linguistic-change-real-time"
 id: "CON-18404"
 type: "مفهوم"
 part: "linguistics"

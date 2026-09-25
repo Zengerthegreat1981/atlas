@@ -16,7 +16,6 @@ related:
 - id: "sch-transcendent-theosophy", title: "الحكمة المتعالية (الملا صدرا)", type: "مدرسة"
 - id: "con-asalat-al-wujud-primacy-of-existence", title: "أصالة الوجود واعتبارية الماهية (Primacy of Existence)", type: "مفهوم"
 - id: "con-gradational-monism-tashkik", title: "التشكيك الوجودي والتفاضل في الشدة (Tashkik al-Wujud)", type: "مفهوم"
-- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا (الشيخ الرئيس)", type: "مفكر"
 gaps:
   - "لا يوجد ملف مستقل لموقف أرسطو نفسه (Physics، الكتاب الخامس) من حصر الحركة في مقولات الكم والكيف والمكان؛ الإحالة هنا اقتصرت على ابن سينا بوصفه الناقل الأقرب لهذا الموقف في الفلسفة الإسلامية الذي واجهه ملا صدرا مباشرة."
 ---

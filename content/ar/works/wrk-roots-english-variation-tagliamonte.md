@@ -1,5 +1,5 @@
 ---
-slug: "roots-english-variation-tagliamonte"
+slug: "wrk-roots-english-variation-tagliamonte"
 id: "WRK-13209"
 type: "عمل"
 part: "linguistics"

@@ -12,10 +12,8 @@ active_start: 1951
 active_end: مستمر
 country: ""
 language: "الإنجليزية"
-edges:
-- rel: "belongs_to", target: "sch-anxiety-ocd-disorders", target_type: "مدرسة"
-related:
-- id: "sch-anxiety-ocd-disorders", title: "مدرسة اضطرابات القلق", type: "مدرسة"
+edges: []
+related: []
 gaps:
   - "تم إنشاء هذا الملف كجزء من Phase 3 (2026-09-24)."
 ---

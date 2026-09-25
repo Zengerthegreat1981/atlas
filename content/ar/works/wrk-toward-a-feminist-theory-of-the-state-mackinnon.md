@@ -18,7 +18,7 @@ edges:
 - rel: "authored_by", target: "thk-mackinnon", target_type: "مفكر"
 related:
 - id: "thk-mackinnon", title: "كاثرين ماك كينون", type: "مفكر"
-- id: "sch-feminist-jurisprudence", title: "الفقهُ القانونيُّ النسويُّ (Feminist Jurisprudence)", type: "مدرسة"
+- id: "feminist-jurisprudence", title: "الفقهُ القانونيُّ النسويُّ (Feminist Jurisprudence)", type: "مدرسة"
 gaps:
   - "هذا الملفُّ أُنشئ في قسم نظرية القانون (الدفعة 28)؛ لم يكن للكتاب ملفٌّ `wrk-` مستقل رغم ورود ذكره في `thk-mackinnon` القائم."
 ---

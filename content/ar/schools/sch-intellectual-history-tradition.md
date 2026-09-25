@@ -14,7 +14,6 @@ active_start: 1920
 active_end: "مستمر"
 edges: []
 related:
-  - id: "thk-arthur-lovejoy", title: "آرثر لوفجوي (Arthur Lovejoy)", type: "مفكر"
   - id: "thk-quentin-skinner", title: "كوينتن سكينر (Quentin Skinner)", type: "مفكر"
   - id: "con-idea-history", title: "تاريخُ الأفكار (History of Ideas)", type: "مفهوم"
 gaps:

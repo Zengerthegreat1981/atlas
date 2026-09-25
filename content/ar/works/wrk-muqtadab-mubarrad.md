@@ -19,7 +19,6 @@ pages: null
 edges:
 - rel: "belongs_to", target: "sch-arabic-grammatical-tradition", target_type: "مدرسة"
 related:
-- id: "thk-al-mubarrad", title: "محمدُ بن يزيد المبرِّد", type: "مفكر"
 - id: "sch-arabic-grammatical-tradition", title: "التقليدُ النحويُّ العربيّ", type: "مدرسة"
 - id: "wrk-alkitab-sibawayh", title: "الكتاب (سيبويه)", type: "عمل / كتاب"
 gaps: []

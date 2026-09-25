@@ -16,7 +16,6 @@ edges:
 - rel: "belongs_to", target: "sch-culture-and-personality", target_type: "مدرسة"
 related:
 - id: "sch-culture-and-personality", title: "مدرسةُ الثقافة والشخصية (Culture and Personality)", type: "مدرسة"
-- id: "thk-margaret-mead", title: "مارغريت ميد (Margaret Mead)", type: "مفكر"
 gaps:
   - "كان فورتشن الزوجَ الثاني لمارغريت ميد (1928–1935) وشاركها بعضَ عملها الميداني في غينيا الجديدة قبل انفصالهما؛ العلاقةُ الشخصية مذكورةٌ هنا للسياق التاريخي فقط، لا حكماً على عمله المستقلّ."
 ---

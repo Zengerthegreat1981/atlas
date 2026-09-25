@@ -1,5 +1,5 @@
 ---
-slug: "always-on-baron"
+slug: "wrk-always-on-baron"
 id: "WRK-13210"
 type: "عمل"
 part: "linguistics"

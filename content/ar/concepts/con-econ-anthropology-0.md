@@ -9,8 +9,7 @@ en: "Subsistence Economy"
 crumb: "anthropology"
 active_start: 1950
 active_end: "مستمر"
-edges:
-  - rel: "belongs_to", target: "sch-economic-anthropology", target_type: "مدرسة"
+edges: []
 related:
   - id: "thk-marshall-sahlins", title: "مارشال سالينز", type: "مفكر"
   - id: "thk-richard-lee", title: "ريتشارد لي", type: "مفكر"

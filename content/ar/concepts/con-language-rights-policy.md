@@ -1,5 +1,5 @@
 ---
-slug: "language-rights-policy"
+slug: "con-language-rights-policy"
 id: "CON-18440"
 type: "مفهوم"
 part: "linguistics"

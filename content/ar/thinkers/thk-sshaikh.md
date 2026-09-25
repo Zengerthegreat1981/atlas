@@ -16,7 +16,6 @@ edges:
 - rel: "belongs_to", target: "sch-islamic-psychology", target_type: "مدرسة"
 related:
 - id: "thk-rhassan", title: "رفة حسن", type: "مفكر"
-- id: "thk-ibn-arabi", title: "محيي الدين بن عربي (الشيخ الأكبر)", type: "مفكر"
 - id: "thk-jalal-al-din-rumi", title: "جلال الدين الرومي (مولانا)", type: "مفكر"
 - id: "thk-anajam", title: "عادل نجّام", type: "مفكر"
 gaps:

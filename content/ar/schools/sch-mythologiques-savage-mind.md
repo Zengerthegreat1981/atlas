@@ -13,10 +13,6 @@ active_end: 2100
 edges: []
 related:
 - id: "thk-claude-levi-strauss", title: "كلودُ ليڤي-شتراوس", type: "مفكر"
-- id: "wrk-mythologiques-levi-strauss", title: "ميثولوجيكا (Mythologiques)", type: "عمل / كتاب"
-- id: "wrk-savage-mind-levi-strauss", title: "الفكرُ البرّي (La Pensée Sauvage)", type: "عمل / كتاب"
-- id: "con-bricolage", title: "البريكولاج (Bricolage)", type: "مفهوم"
-- id: "con-savage-mind-vs-scientific", title: "الفكرُ البرّي مقابلَ الفكرِ العلميّ", type: "مفهوم"
 gaps: []
 ---
 

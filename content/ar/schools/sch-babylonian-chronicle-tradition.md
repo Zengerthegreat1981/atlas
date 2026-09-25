@@ -16,9 +16,7 @@ active_start: -1500
 active_end: -539
 edges: []
 related:
-- id: "wrk-babylonian-chronicles-abc-series", title: "الحوليةُ البابليّة (ABC series)", type: "عمل"
-- id: "con-cuneiform-historiography", title: "التأريخُ المسماريّ", type: "مفهوم"
-- id: "sch-assyrian-royal-annals-historiography", title: "الحوليّاتُ الملكيّةُ الآشوريّة", type: "مدرسة"
+- id: "con-cuneiform-historiography-medium", title: "التأريخُ المسماريّ", type: "مفهوم"
 gaps:
   - "الفرقُ بين **الحوليّات الملكيّة الانتصاريّة** (التي تسجّل فتوحاتِ الملك) و**الحوليّات المحايدة** (التي تسجّل أحداثاً دون حكمٍ قيميّ) — هل كانتْ الحوليّاتُ البابليّةُ أكثرَ حياديّة؟"
   - "دورُ **المعابدِ والكهانِ** في الحفاظِ على الحوليّات — هل كانتْ سلطةٌ موازيةٌ للملك في التسجيل التاريخيّ؟"

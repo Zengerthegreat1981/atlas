@@ -19,7 +19,6 @@ related:
 - id: "thk-baal-shem-tov", title: "إسرائيل بن إليعزر (بعل شيم طوف)", type: "مفكر"
 - id: "thk-zalman", title: "شْنُور زَلمن مِن لِادي", type: "مفكر"
 - id: "thk-meister-eckhart", title: "مايستر إيكهارت", type: "مفكر"
-- id: "thk-ibn-arabi", title: "محيي الدين بن عربي (الشيخ الأكبر)", type: "مفكر"
 - id: "con-gelassenheit", title: "التسليم (Gelassenheit) — التخلي عن الإرادة", type: "مفهوم"
 - id: "con-mindfulness", title: "اليقظة الذهنية (Mindfulness)", type: "مفهوم"
 gaps:

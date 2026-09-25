@@ -14,9 +14,9 @@ legal_tradition: "التعدّديةُ القانونية"
 active_start: 1988
 active_end: 2020
 edges:
-- rel: "belongs_to", target: "sch-legal-pluralism", target_type: "مدرسة"
+- rel: "belongs_to", target: "legal-pluralism", target_type: "مدرسة"
 related:
-- id: "sch-legal-pluralism", title: "التعدّديةُ القانونيةُ (Legal Pluralism)", type: "مدرسة"
+- id: "legal-pluralism", title: "التعدّديةُ القانونيةُ (Legal Pluralism)", type: "مدرسة"
 - id: "thk-john-griffiths-legal-pluralism", title: "جون غريفيثز (John Griffiths)", type: "مفكر"
 gaps:
   - "**سُدَّ 2026-09-21**: كانت مذكورةً كصوتٍ أنثروبولوجي مؤثّر في `sch-legal-pluralism` دون ملفٍّ مستقل؛ أُنشئ الآن."

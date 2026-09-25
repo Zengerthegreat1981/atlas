@@ -1,5 +1,5 @@
 ---
-slug: "gender-language-variation"
+slug: "con-gender-language-variation"
 id: "CON-18400"
 type: "مفهوم"
 part: "linguistics"

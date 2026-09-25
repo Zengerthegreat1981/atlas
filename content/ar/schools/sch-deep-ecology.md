@@ -14,10 +14,10 @@ language: "الإنجليزية"
 active_start: 1973
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "sch-environmental-ethics", target_type: "مدرسة"
-- rel: "belongs_to", target: "sch-environmental-ethics", target_type: "مدرسة"
+- rel: "evolved_from", target: "environmental-ethics", target_type: "مدرسة"
+- rel: "belongs_to", target: "environmental-ethics", target_type: "مدرسة"
 related:
-- id: "sch-environmental-ethics", title: "فلسفة البيئة / الأخلاق البيئية", type: "مدرسة"
+- id: "environmental-ethics", title: "فلسفة البيئة / الأخلاق البيئية", type: "مدرسة"
 - id: "sch-social-ecology", title: "الإيكولوجيا الاجتماعية", type: "مدرسة"
 - id: "sch-ecofeminism", title: "النسوية البيئية (Ecofeminism)", type: "مدرسة"
 - id: "con-deep-vs-shallow", title: "الإيكولوجيا الضحلة مقابل العميقة (Shallow vs. Deep)", type: "مفهوم"

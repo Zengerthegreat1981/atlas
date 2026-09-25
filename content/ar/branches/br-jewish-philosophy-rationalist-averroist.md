@@ -15,7 +15,6 @@ related:
 - id: "sch-judaism-andalusian", title: "الفلسفة اليهودية الوسيطة الأندلسية (الأرسطية اليهودية)", type: "مدرسة"
 - id: "thk-maimonides", title: "موسى بن ميمون (رمبام)", type: "مفكر"
 - id: "thk-judah-halevi", title: "يهوذا اللاوي (أبو الحسن)", type: "مفكر"
-- id: "thk-ibn-gabirol", title: "سليمان بن يحيى ابن جابيرول (أفيسبريم)", type: "مفكر"
 - id: "dbt-ibn-maymun-vs-halevi", title: "ابن ميمون ضد يهوذا اللاوي: العقل الفلسفي أم الوحي التاريخي؟", type: "جدل"
 - id: "con-prophetic-philosophy", title: "الفلسفة النبوية (نقد العقل الفلسفي لصالح الوحي)", type: "مفهوم"
 - id: "wrk-fons-vitae", title: "ينبوع الحياة (Fons Vitae)", type: "عمل / كتاب"

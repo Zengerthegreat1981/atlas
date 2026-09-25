@@ -1,5 +1,5 @@
 ---
-slug: "nlp-evaluation-metrics"
+slug: "con-nlp-evaluation-metrics"
 id: "CON-18424"
 type: "مفهوم"
 part: "linguistics"

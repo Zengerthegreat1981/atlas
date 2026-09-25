@@ -15,9 +15,7 @@ publication_year: 1027
 original_language: "العربية"
 edges:
 - rel: "belongs_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
-- rel: "written_by", target: "thk-ibn-sina", target_type: "مفكر"
 related:
-- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا (الشيخ الرئيس)", type: "مفكر"
 - id: "sch-islamic-peripatetic", title: "الفلسفة المشائية الإسلامية", type: "مدرسة"
 - id: "wrk-al-najat-avicenna", title: "النجاة في المنطق والإلهيات لابن سينا", type: "عمل / كتاب"
 - id: "wrk-al-isharat-wa-al-tanbihat", title: "الإشارات والتنبيهات لابن سينا", type: "عمل / كتاب"

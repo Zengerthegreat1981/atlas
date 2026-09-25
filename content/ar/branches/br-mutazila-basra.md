@@ -18,7 +18,6 @@ related:
 - id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"
 - id: "dbt-qadar-free-will-in-kalam", title: "جدل القدر والجبر والاختيار في علم الكلام الإسلامي", type: "جدل"
 - id: "con-five-principles-mutazila", title: "الأصول الخمسة للمعتزلة (The Five Principles of Mu'tazilism)", type: "مفهوم"
-- id: "thk-ibn-al-haytham", title: "ابن الهيثم (الحسن بن الحسن / Alhazen)", type: "مفكر"
 - id: "dbt-divine-command-theory-vs-autonomous-ethics", title: "نظرية الأمر الإلهي مقابل الأخلاق العقلانية المستقلة", type: "جدل"
 - id: "dbt-husn-qubh-rational-ethics-kalam", title: "الحسن والقبح العقليان بين المعتزلة والأشاعرة", type: "جدل"
 - id: "wrk-sharh-usul-al-khamsa-abd-al-jabbar", title: "شرح الأصول الخمسة للقاضي عبد الجبار", type: "عمل / كتاب"

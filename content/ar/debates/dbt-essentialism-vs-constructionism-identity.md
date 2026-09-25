@@ -14,8 +14,6 @@ related:
 - id: "thk-rogers-brubaker", title: "روجرز بروباكر (Rogers Brubaker)", type: "مفكر"
 - id: "thk-lila-abu-lughod", title: "ليلى أبو لغود (Lila Abu-Lughod)", type: "مفكر"
 - id: "sch-feminist-anthropology", title: "الأنثروبولوجيا النسوية (Feminist Anthropology)", type: "مدرسة"
-- id: "con-ethnicity-constructionism", title: "العرقيةُ كبناءٍ اجتماعيّ (Ethnicity as Construction)", type: "مفهوم"
-- id: "con-identity-anthropology", title: "الهويةُ في الأنثروبولوجيا (Identity)", type: "مفهوم"
 gaps: []
 ---
 

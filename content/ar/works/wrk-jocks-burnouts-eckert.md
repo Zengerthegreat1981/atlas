@@ -1,5 +1,5 @@
 ---
-slug: "jocks-burnouts-eckert"
+slug: "wrk-jocks-burnouts-eckert"
 id: "WRK-13208"
 type: "عمل"
 part: "linguistics"

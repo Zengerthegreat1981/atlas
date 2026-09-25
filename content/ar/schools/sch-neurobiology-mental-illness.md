@@ -1,5 +1,5 @@
 ---
-slug: "neurobiology-mental-illness"
+slug: "sch-neurobiology-mental-illness"
 id: "SCH-13103"
 type: "مدرسة"
 part: "psychiatry"

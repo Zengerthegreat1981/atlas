@@ -1,5 +1,5 @@
 ---
-slug: "wrk-groundwork-metaphysics-morals-kant"
+slug: "groundwork-metaphysics-morals-kant"
 id: "WRK-10011"
 type: "عمل / كتاب"
 part: "ethics"

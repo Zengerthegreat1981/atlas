@@ -11,14 +11,11 @@ active_start: 1180
 active_end: 1180
 edges:
 - rel: "belongs_to", target: "sch-andalusian-philosophy", target_type: "مدرسة"
-- rel: "written_by", target: "thk-ibn-rushd", target_type: "مفكر"
 author: "ابن رشد"
 author_slug: "thk-ibn-rushd"
 publication_year: 1180
 original_language: "العربية"
-related:
-- id: "thk-ibn-rushd", title: "أبو الوليد محمد بن أحمد بن رشد (الشارح الأكبر)", type: "مفكر"
-- id: "thk-al-ghazali", title: "أبو حامد محمد بن محمد الغزالي (حجة الإسلام)", type: "مفكر"
+related: []
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من تهافت التهافت (1180) بترجمة عربية معتمدة للتحقيق المعاصر — النص هنا وصفي مبني على تاريخ الفكر لا نقلاً حرفياً من طبعة بويج."
   - "تاريخ استقبال مبكر مفصَّل (كيف قرأه فقهاء الأندلس والمغرب في جيل ابن رشد نفسه) لم يثبت من مصدر أولي."

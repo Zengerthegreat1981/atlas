@@ -8,8 +8,7 @@ title: "هيو جاستيرسون"
 en: "Hugh Gusterson"
 dates: "1958 – "
 birth_country: "الولايات المتحدة"
-edges:
-- rel: "belongs_to", target: "sch-science-technology-anthropology", target_type: "مدرسة"
+edges: []
 related: []
 gaps: []
 ---

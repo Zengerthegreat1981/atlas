@@ -1,5 +1,5 @@
 ---
-slug: "translation-linguistic-theory"
+slug: "con-translation-linguistic-theory"
 id: "CON-18436"
 type: "مفهوم"
 part: "linguistics"

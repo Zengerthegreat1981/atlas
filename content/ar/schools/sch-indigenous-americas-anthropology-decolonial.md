@@ -18,8 +18,6 @@ region: "Americas"
 edges:
 - rel: "belongs_to", target: "sch-postcolonial-critique-anthropology", target_type: "مدرسة"
 related:
-- id: "thk-andrew-orta", title: "أندرو أرتا (Andrew Orta)", type: "مفكر"
-- id: "thk-deborah-root", title: "ديبورة روت (Deborah Root)", type: "مفكر"
 - id: "thk-linda-tuhiwai-smith", title: "ليندا توهيواي سميث (Linda Tuhiwai Smith)", type: "مفكر"
 gaps:
   - "إضافة دراسات ميدانية عن الشعوب الأصلية في الأنديز وألاسكا وشمال أمريكا."

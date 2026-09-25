@@ -16,7 +16,6 @@ edges:
 - rel: "belongs_to", target: "sch-medical-anthropology", target_type: "مدرسة"
 related:
 - id: "sch-medical-anthropology", title: "الأنثروبولوجيا الطبّية", type: "مدرسة"
-- id: "con-structural-violence-health", title: "العنفُ البنيويُّ والصحّة", type: "مفهوم"
 gaps: []
 ---
 

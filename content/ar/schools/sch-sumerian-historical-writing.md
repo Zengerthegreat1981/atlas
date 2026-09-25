@@ -16,7 +16,7 @@ active_start: -3000
 active_end: -2000
 edges: []
 related:
-- id: "con-cuneiform-historiography", title: "التأريخُ المسماريّ والكتابةُ كوسيطٍ", type: "مفهوم"
+- id: "con-cuneiform-historiography-medium", title: "التأريخُ المسماريّ والكتابةُ كوسيطٍ", type: "مفهوم"
 - id: "sch-babylonian-king-list-tradition", title: "تقليدُ قوائم الملوكِ", type: "مدرسة"
 - id: "sch-sumerian-historical-writing", title: "الحوليةُ البابليّة", type: "مدرسة"
 gaps:

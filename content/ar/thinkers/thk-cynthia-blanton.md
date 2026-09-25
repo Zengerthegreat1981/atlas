@@ -1,5 +1,5 @@
 ---
-slug: "cynthia-blanton"
+slug: "thk-cynthia-blanton"
 id: "THK-13184"
 type: "مفكّر"
 part: "linguistics"
@@ -12,8 +12,7 @@ birth_year: 1970
 fields: ["African American Vernacular English", "sociolinguistics", "race and language"]
 affiliation: "جامعة تكساس"
 primary_school: "sch-sociolinguistics"
-edges:
-- rel: "belongs_to", target: "sch-sociolinguistics", target_type: "مدرسة"
+edges: []
 related: []
 gaps: []
 ---

@@ -15,7 +15,6 @@ active_start: 800
 active_end: "مستمر"
 edges: []
 related:
-- id: "thk-al-shatibi", title: "أبو إسحاق الشاطبي (Al-Shatibi)", type: "مفكر"
 - id: "con-maqasid-al-shariah-shatibi", title: "مقاصدُ الشريعة عند الشاطبي (Maqasid al-Shari'ah)", type: "مفهوم"
 - id: "wrk-al-muwafaqat-shatibi", title: "الموافقاتُ في أصول الشريعة", type: "عمل / كتاب"
 - id: "con-qiyas-analogical-reasoning", title: "القياسُ (Qiyas — الاستدلالُ التمثيليُّ الشرعي)", type: "مفهوم"
@@ -30,7 +29,6 @@ related:
 - id: "con-gate-of-ijtihad-debate-hallaq", title: "جدلُ «إغلاق باب الاجتهاد» (The Gate of Ijtihad Debate)", type: "مفهوم"
 - id: "thk-mohammad-hashim-kamali", title: "محمد هاشم كمالي (Mohammad Hashim Kamali)", type: "مفكر"
 - id: "wrk-al-ihkam-al-amidi", title: "الإحكامُ في أصول الأحكام", type: "عمل / كتاب"
-- id: "thk-al-shafii", title: "محمد بن إدريس الشافعي", type: "مفكر"
 - id: "wrk-al-risala-shafii", title: "الرسالةُ في أصول الفقه", type: "عمل / كتاب"
 - id: "con-zahiri-rejection-of-qiyas-ibn-hazm", title: "الرفضُ الظاهريُّ للقياس عند ابن حزم", type: "مفهوم"
 - id: "con-urf-custom-usul", title: "العُرفُ في أصول الفقه (Al-'Urf — Custom as a Source of Law)", type: "مفهوم"

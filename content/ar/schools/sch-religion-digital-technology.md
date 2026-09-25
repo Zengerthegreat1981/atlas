@@ -20,7 +20,7 @@ edges:
 related:
 - id: "con-virtual-worship-online-ritual", title: "العبادةُ الافتراضيةُ والطقسُ الرقميّ", type: "مفهوم"
 - id: "con-social-media-religion", title: "وسائلُ التواصلِ الاجتماعيِّ والدين", type: "مفهوم"
-- id: "con-artificial-intelligence-ethics", title: "الذكاءُ الاصطناعيُّ والأخلاقياتُ الدينية", type: "مفهوم"
+- id: "artificial-intelligence-ethics", title: "الذكاءُ الاصطناعيُّ والأخلاقياتُ الدينية", type: "مفهوم"
 gaps:
   - "حقلٌ ناشئٌ جداً، يدرسُ كيفَ يُغيّرُ الدينُ والتكنولوجيا الرقميةُ بعضَها البعض."
 ---

@@ -1,5 +1,5 @@
 ---
-slug: "islamic-ethics-political"
+slug: "sch-islamic-ethics-political"
 id: "SCH-13118"
 type: "مدرسة"
 part: "arab-thought"

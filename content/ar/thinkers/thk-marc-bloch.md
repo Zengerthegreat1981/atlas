@@ -13,7 +13,6 @@ active_start: 1912
 active_end: 1944
 edges: []
 related:
-  - id: "sch-historical-method-epistemology", title: "المنهجُ التاريخيُّ والإبستيمولوجيا", type: "مدرسة"
   - id: "con-source-criticism", title: "نقدُ المصادر (Source Criticism)", type: "مفهوم"
 gaps: []
 ---

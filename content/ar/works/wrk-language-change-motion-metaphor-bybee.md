@@ -1,5 +1,5 @@
 ---
-slug: "language-change-motion-metaphor-bybee"
+slug: "wrk-language-change-motion-metaphor-bybee"
 id: "WRK-13212"
 type: "عمل"
 part: "linguistics"

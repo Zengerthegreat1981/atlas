@@ -1,5 +1,5 @@
 ---
-slug: "stu-comaroff-modernity-and-madness"
+slug: "stu-comaroff-modernity-and-madness-south-africa"
 id: "STU-1264"
 type: "دراسة وبحث"
 part: "anthropology"
@@ -19,8 +19,8 @@ active_end: 1985
 edges:
 - rel: "belongs_to", target: "sch-african-anthropology-colonial-postcolonial", target_type: "مدرسة"
 related:
-- id: "thk-jean-comaroff", title: "جان كومارُف", type: "مفكر"
-- id: "thk-john-comaroff", title: "جون كومارُف", type: "مفكر"
+- id: "thk-jean-john-comaroff", title: "جان كومارُف", type: "مفكر"
+- id: "thk-jean-john-comaroff", title: "جون كومارُف", type: "مفكر"
 gaps: []
 ---
 

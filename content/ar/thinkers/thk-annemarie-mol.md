@@ -8,8 +8,7 @@ title: "آن ماري مول"
 en: "Annemarie Mol"
 dates: "1960 – "
 birth_country: "هولندا"
-edges:
-- rel: "belongs_to", target: "sch-anthropology-of-care-work", target_type: "مدرسة"
+edges: []
 related: []
 gaps: []
 ---

@@ -16,7 +16,6 @@ related:
 - id: "sch-transcendent-theosophy", title: "الحكمة المتعالية (الملا صدرا)", type: "مدرسة"
 - id: "con-gradational-monism-tashkik", title: "التشكيك الوجودي والتفاضل في الشدة (Tashkik al-Wujud)", type: "مفهوم"
 - id: "thk-suhrawardi", title: "شهاب الدين يحيى بن حبش السهروردي (شيخ الإشراق)", type: "مفكر"
-- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا (الشيخ الرئيس)", type: "مفكر"
 gaps:
   - "المقارنة بين أصالة الوجود عند ملا صدرا وأسبقية الوجود على الماهية في وجودية سارتر (l'existence précède l'essence) لم تُحرَّر بعد بمقارنة نصية مباشرة بين الأسفار الأربعة والوجودية إنسانية مذهب."
 ---

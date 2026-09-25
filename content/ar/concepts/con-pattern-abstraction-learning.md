@@ -1,5 +1,5 @@
 ---
-slug: "pattern-abstraction-learning"
+slug: "con-pattern-abstraction-learning"
 id: "CON-18412"
 type: "مفهوم"
 part: "linguistics"

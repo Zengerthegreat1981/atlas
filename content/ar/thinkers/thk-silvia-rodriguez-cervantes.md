@@ -11,9 +11,8 @@ birth_country: "Colombia"
 active_from: 1990
 active_to: 2026
 primary_school: "sch-anthropology-of-violence-peace"
-edges:
-- rel: "belongs_to", target: "sch-anthropology-of-violence-peace", target_type: "مدرسة"
-related:
+edges: []
+related: []
 gaps:
   - "إضافة دراسات وأعمال لهذا المفكر."
 ---

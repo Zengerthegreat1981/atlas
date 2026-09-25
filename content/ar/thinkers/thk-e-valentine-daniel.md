@@ -8,8 +8,7 @@ title: "إي فالنتاين دانيل"
 en: "E. Valentine Daniel"
 dates: "1948 – "
 birth_country: "الولايات المتحدة"
-edges:
-- rel: "belongs_to", target: "sch-anthropology-of-displacement", target_type: "مدرسة"
+edges: []
 related: []
 gaps: []
 ---

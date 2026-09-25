@@ -1,5 +1,5 @@
 ---
-slug: "timnit-gebru"
+slug: "thk-timnit-gebru"
 id: "THK-13199"
 type: "مفكّر"
 part: "linguistics"
@@ -13,7 +13,7 @@ fields: ["AI ethics", "bias in machine learning", "AI fairness", "large language
 affiliation: "معهد DAIR"
 primary_school: "sch-computational-linguistics"
 edges:
-- rel: "belongs_to", target: "sch-computational-linguistics", target_type: "مدرسة"
+- rel: "belongs_to", target: "sch-computational-linguistics-nlp", target_type: "مدرسة"
 related: []
 gaps: []
 ---

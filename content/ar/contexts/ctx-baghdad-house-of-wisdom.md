@@ -12,8 +12,6 @@ active_end: 1000
 edges:
 - rel: "relates_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 related:
-- id: "thk-al-kindi", title: "أبو يوسف يعقوب بن إسحاق الكندي", type: "مفكر"
-- id: "thk-al-farabi", title: "أبو نصر محمد بن محمد الفارابي", type: "مفكر"
 - id: "thk-hunayn-ibn-ishaq", title: "حنين بن إسحاق العبادي", type: "مفكر"
 - id: "ctx-sassanid-gundeshapur-medicine", title: "أكاديمية جنديسابور وتلاقي الطب اليوناني والفارسي والهندي", type: "سياق/تقليد"
 - id: "dia-al-kindi-mu-tazila-creation", title: "حوار الكندي والمعتزلة: حدوث العالم والتوحيد والعقلانية الفلسفية", type: "حوار مع مدرسة مجاورة"

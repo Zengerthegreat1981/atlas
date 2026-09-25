@@ -11,9 +11,8 @@ birth_country: "UK"
 active_from: 2008
 active_to: 2026
 primary_school: "sch-platform-anthropology"
-edges:
-- rel: "belongs_to", target: "sch-platform-anthropology", target_type: "مدرسة"
-related:
+edges: []
+related: []
 gaps:
   - "إضافة دراسات وأعمال لهذا المفكر."
 ---

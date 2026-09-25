@@ -14,8 +14,7 @@ active_to: 2022
 primary_school: "sch-medical-anthropology-global-health"
 edges:
 - rel: "belongs_to", target: "sch-medical-anthropology-global-health", target_type: "مدرسة"
-related:
-- id: "sch-applied-anthropology-development", title: "الأنثروبولوجيا التطبيقية والتنمية", type: "مدرسة"
+related: []
 gaps:
   - "إضافة دراسات حول عمل فارمر في هايتي والبيرو والعراق."
 ---

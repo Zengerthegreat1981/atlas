@@ -11,9 +11,8 @@ birth_country: "USA (Korean diaspora)"
 active_from: 2000
 active_to: 2026
 primary_school: "sch-anthropology-of-care-kinship"
-edges:
-- rel: "belongs_to", target: "sch-anthropology-of-care-kinship", target_type: "مدرسة"
-related:
+edges: []
+related: []
 gaps:
   - "إضافة دراسات وأعمال لهذا المفكر."
 ---

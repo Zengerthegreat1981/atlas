@@ -16,7 +16,6 @@ active_start: 1377
 active_end: 1406
 edges: []
 related:
-- id: "thk-ibn-khaldun", title: "عبد الرحمن بن محمد بن خلدون الحضرمي", type: "مفكر"
 - id: "sch-khaldunian-historical-sociology", title: "سوسيولوجيا العمران والتحول البدوي-الحضري الخلدونية", type: "مدرسة"
 - id: "con-asabiyyah-ibn-khaldun", title: "العصبية عند ابن خلدون", type: "مفهوم"
 - id: "dbt-ibn-khaldun-founder-of-sociology", title: "جدل أسبقية ابن خلدون في تأسيس علم الاجتماع", type: "جدل"

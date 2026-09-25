@@ -14,9 +14,7 @@ active_start: 1970
 active_end: "مستمر"
 edges: []
 related:
-  - id: "thk-paul-thompson", title: "بول تومبسون (Paul Thompson)", type: "مفكر"
-  - id: "con-oral-history", title: "التاريخُ الشفويّ (Oral History)", type: "مفهوم"
-  - id: "con-biographical-method", title: "المنهجُ السيرويّ (Biographical Method)", type: "مفهوم"
+  - id: "con-oral-history-methodology", title: "التاريخُ الشفويّ (Oral History)", type: "مفهوم"
 gaps:
   - "الفرقُ بينَ الذاكرةِ والتاريخ: هلْ يمكنُنا الوثوقُ بذاكرةِ الناس؟"
   - "مشاكلُ التحيّزِ والنسيانِ في الروايات الشفويّة"

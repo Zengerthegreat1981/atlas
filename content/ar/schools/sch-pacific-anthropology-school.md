@@ -15,13 +15,10 @@ cultural_origin: "pacific"
 active_start: 1920
 active_end: "مستمر"
 region: "Pacific Islands"
-edges:
-- rel: "belongs_to", target: "sch-british-functionalism-african-anthropology", target_type: "مدرسة"
+edges: []
 related:
-- id: "thk-margaret-mead", title: "مارغريت ميد (Margaret Mead)", type: "مفكر"
-- id: "thk-gregoryory-bateson", title: "غريغوري باتسون (Gregory Bateson)", type: "مفكر"
+- id: "thk-gregory-bateson", title: "غريغوري باتسون (Gregory Bateson)", type: "مفكر"
 - id: "thk-marilyn-strathern", title: "ماريلين ستراثرن (Marilyn Strathern)", type: "مفكر"
-- id: "thk-robert-alford-jolly", title: "روزالي جولي (Rosalind Jolly)", type: "مفكر"
 gaps:
   - "إضافة دراسات ميدانية من ميلانيزيا وميكرونيزيا."
   - "توثيق الأنثروبولوجيين الأصليين من الجزر الباسيفيكية."

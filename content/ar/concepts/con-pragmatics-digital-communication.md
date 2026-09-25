@@ -1,5 +1,5 @@
 ---
-slug: "pragmatics-digital-communication"
+slug: "con-pragmatics-digital-communication"
 id: "CON-18438"
 type: "مفهوم"
 part: "linguistics"

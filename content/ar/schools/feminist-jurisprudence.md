@@ -1,5 +1,5 @@
 ---
-slug: "sch-feminist-jurisprudence"
+slug: "feminist-jurisprudence"
 id: "SCH-12432"
 type: "مدرسة"
 part: "legal-theory"

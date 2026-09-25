@@ -11,9 +11,8 @@ birth_country: "Brazil"
 active_from: 1998
 active_to: 2026
 primary_school: "sch-digital-anthropology-global-south"
-edges:
-- rel: "belongs_to", target: "sch-digital-anthropology-global-south", target_type: "مدرسة"
-related:
+edges: []
+related: []
 gaps:
   - "إضافة دراسات وأعمال لهذا المفكر."
 ---

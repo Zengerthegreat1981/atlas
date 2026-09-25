@@ -1,5 +1,5 @@
 ---
-slug: "sch-legal-pluralism"
+slug: "legal-pluralism"
 id: "SCH-12429"
 type: "مدرسة"
 part: "legal-theory"

@@ -14,12 +14,9 @@ active_start: 1951
 active_end: 1994
 edges:
 - rel: "belongs_to", target: "sch-structuralism", target_type: "مدرسة"
-- rel: "belongs_to", target: "sch-french-anthropology", target_type: "مدرسة"
 related:
 - id: "sch-structuralism", title: "البنيوية الأنثروبولوجية", type: "مدرسة"
-- id: "con-hierarchy-kinship", title: "الهرمية كمبدأ قرابي", type: "مفهوم"
 - id: "con-alliance-theory", title: "نظرية التحالف الزواجي", type: "مفهوم"
-- id: "thk-levi-strauss", title: "كلود ليفي-شتراوس", type: "مفكر"
 gaps:
 - "يحتاج إلى تطوير ربط مع نقاشات الهرمية المعاصرة وتطبيقات نظرية الهرمية خارج السياق الهندي."
 - "إضافة مقارنة تفصيلية بين منهج دومون في دراسة الهرمية والأيديولوجيا مع المناهج ما بعد البنيوية."

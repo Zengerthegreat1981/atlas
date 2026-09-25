@@ -18,7 +18,6 @@ edges:
 - rel: "belongs_to", target: "sch-boasian-cultural-relativism", target_type: "مدرسة"
 related:
 - id: "thk-ruth-benedict", title: "روث بنديكت (Ruth Benedict)", type: "مفكر"
-- id: "thk-margaret-mead", title: "مارغريت ميد (Margaret Mead)", type: "مفكر"
 gaps:
   - "لم يُذكر بعد إدوارد سابير كأحد مؤسِّسي المدرسة من زاويةٍ لسانية-نفسية؛ صُنِّف مستقلاً ضمن حزمة الأنثروبولوجيا اللسانية (سابير-وورف) في هذا القسم نفسه لتفادي ازدواج التصنيف."
 ---

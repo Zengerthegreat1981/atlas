@@ -9,11 +9,9 @@ en: "Distribution and Exchange"
 crumb: "anthropology"
 active_start: 1940
 active_end: "مستمر"
-edges:
-  - rel: "belongs_to", target: "sch-economic-anthropology", target_type: "مدرسة"
+edges: []
 related:
   - id: "thk-karl-polanyi", title: "كارل بولاني", type: "مفكر"
-  - id: "con-redistribution-systems", title: "أنظمة إعادة التوزيع", type: "مفهوم"
 gaps:
   - "دراسةٌ محدودةٌ عن التوزيعِ والتبادلِ المعاصرين في الاقتصادياتِ الحضرية."
 ---

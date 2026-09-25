@@ -1,5 +1,5 @@
 ---
-slug: "wrk-theory-of-justice-rawls"
+slug: "theory-of-justice-rawls"
 id: "WRK-10005"
 type: "عمل / كتاب"
 part: "legal-theory"

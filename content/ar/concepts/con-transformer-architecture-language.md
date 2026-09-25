@@ -1,5 +1,5 @@
 ---
-slug: "transformer-architecture-language"
+slug: "con-transformer-architecture-language"
 id: "CON-18421"
 type: "مفهوم"
 part: "linguistics"

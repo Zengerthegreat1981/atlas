@@ -1,5 +1,5 @@
 ---
-slug: "linguistic-identity-adolescence"
+slug: "con-linguistic-identity-adolescence"
 id: "CON-18401"
 type: "مفهوم"
 part: "linguistics"

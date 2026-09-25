@@ -1,5 +1,5 @@
 ---
-slug: "distributed-cognition-language"
+slug: "con-distributed-cognition-language"
 id: "CON-18420"
 type: "مفهوم"
 part: "linguistics"

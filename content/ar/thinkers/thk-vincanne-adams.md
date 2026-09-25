@@ -8,8 +8,7 @@ title: "فينسان آدمز"
 en: "Vincanne Adams"
 dates: "1960 – "
 birth_country: "الولايات المتحدة"
-edges:
-- rel: "belongs_to", target: "sch-critical-medical-anthropology", target_type: "مدرسة"
+edges: []
 related: []
 gaps: []
 ---

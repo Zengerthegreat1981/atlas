@@ -10,7 +10,6 @@ crumb: "anthropology"
 active_start: 1950
 active_end: "مستمر"
 edges:
-  - rel: "belongs_to", target: "sch-kinship-exchange-theory", target_type: "مدرسة"
   - rel: "related_to", target: "con-bride-price-bride-wealth-religion", target_type: "مفهوم"
   - rel: "related_to", target: "con-dowry", target_type: "مفهوم"
 related:

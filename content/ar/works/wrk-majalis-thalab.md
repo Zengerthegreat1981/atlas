@@ -17,7 +17,6 @@ edges:
 related:
 - id: "sch-basra-kufa-grammatical-dispute", title: "مدرسةُ الكوفة والخلافُ النحويّ (Kufa Grammatical School)", type: "مدرسة"
 - id: "thk-thalab", title: "أبو العباس ثعلب", type: "مفكر"
-- id: "thk-ibn-al-anbari", title: "أبو البركات ابن الأنباري", type: "مفكر"
 gaps:
   - "لم يُعثر على ترجمةٍ إنجليزيةٍ أكاديميةٍ متخصّصةٍ بهذا العمل ضمن مصادر الأطلس؛ الاعتمادُ الرئيسي على تحقيق عبد السلام هارون العربي."
 ---

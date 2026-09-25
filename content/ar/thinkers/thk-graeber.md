@@ -21,7 +21,6 @@ related:
 - id: "sch-anthropological-political-economy", title: "الاقتصادُ السياسيُّ العالميُّ والتاريخ (Eric Wolf — Europe and the People Without History)", type: "مدرسة"
 - id: "thk-marshall-sahlins", title: "مارشال سالينز (Marshall Sahlins)", type: "مفكر"
 - id: "thk-marcel-mauss", title: "مارسيل موس (Marcel Mauss)", type: "مفكر"
-- id: "con-gift-reciprocity-anthropology", title: "الهبة والمعاملة بالمثل (Gift and Reciprocity)", type: "مفهوم"
 - id: "wrk-debt-first-5000-years-graeber", title: "الدَّين: أول خمسة آلاف عام (Debt: The First 5000 Years)", type: "عمل / كتاب"
 - id: "sch-anarchism-contemporary", title: "الفوضوية المعاصرة", type: "مدرسة"
 - id: "sch-radical-democracy", title: "الديمقراطية الراديكالية", type: "مدرسة"

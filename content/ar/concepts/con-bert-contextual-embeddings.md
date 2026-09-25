@@ -1,5 +1,5 @@
 ---
-slug: "bert-contextual-embeddings"
+slug: "con-bert-contextual-embeddings"
 id: "CON-18422"
 type: "مفهوم"
 part: "linguistics"

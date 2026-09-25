@@ -18,7 +18,6 @@ related:
 - id: "thk-graeber", title: "ديفيد غريبر", type: "مفكر"
 - id: "thk-marshall-sahlins", title: "مارشال سالينز", type: "مفكر"
 - id: "thk-marcel-mauss", title: "مارسيل موس", type: "مفكر"
-- id: "con-gift-reciprocity-anthropology", title: "الهبة والمعاملة بالمثل", type: "مفهوم"
 - id: "sch-anthropological-political-economy", title: "الاقتصادُ السياسيُّ العالميُّ والتاريخ", type: "مدرسة"
 gaps: []
 ---

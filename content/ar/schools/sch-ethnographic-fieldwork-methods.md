@@ -19,7 +19,6 @@ edges:
 related:
 - id: "thk-bronislaw-malinowski", title: "برونيسلاف مالينوفسكي", type: "مفكر"
 - id: "thk-franz-boas", title: "فرانز بواس", type: "مفكر"
-- id: "thk-margaret-mead", title: "مارغريت ميد", type: "مفكر"
 - id: "thk-clifford-geertz", title: "كليفورد غيرتز", type: "مفكر"
 gaps: []
 ---

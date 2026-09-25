@@ -1,5 +1,5 @@
 ---
-slug: "wrk-utilitarianism-mill"
+slug: "utilitarianism-mill"
 id: "WRK-10010"
 type: "عمل / كتاب"
 part: "ethics"

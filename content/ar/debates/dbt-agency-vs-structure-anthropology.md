@@ -14,8 +14,7 @@ related:
 - id: "thk-sherry-ortner", title: "شيري أورتنر (Sherry B. Ortner)", type: "مفكر"
 - id: "thk-pierre-bourdieu", title: "بيير بورديو (Pierre Bourdieu)", type: "مفكر"
 - id: "thk-anthony-giddens", title: "أنثونيّ جيدنز (Anthony Giddens)", type: "مفكر"
-- id: "con-practice-theory", title: "نظريةُ الممارسة (Practice Theory)", type: "مفهوم"
-- id: "con-habitus", title: "الهابيتوس (Habitus)", type: "مفهوم"
+- id: "con-habitus-anthropology", title: "الهابيتوس (Habitus)", type: "مفهوم"
 gaps: []
 ---
 

@@ -20,7 +20,6 @@ related:
 - id: "thk-sayf-al-din-al-amidi", title: "سيف الدين علي بن محمد الآمدي", type: "مفكر"
 - id: "con-dalalat-al-alfaz-usul", title: "دلالاتُ الألفاظ في أصول الفقه (Dalalat al-Alfaz)", type: "مفهوم"
 - id: "sch-usul-al-fiqh-legal-theory", title: "أصولُ الفقه بوصفه نظريةً قانونية (Usul al-Fiqh as Legal Theory)", type: "مدرسة"
-- id: "thk-al-ghazali", title: "أبو حامد محمد بن محمد الغزالي (حجة الإسلام)", type: "مفكر"
 - id: "wrk-al-risala-shafii", title: "الرسالةُ في أصول الفقه", type: "عمل / كتاب"
 gaps:
   - "هذا الملفُّ أُنشئ في قسم نظرية القانون (الدفعة 50)؛ لم يكن للعمل ملفٌّ `wrk-` مستقل رغم استشهادٍ متكرّرٍ به في `con-dalalat-al-alfaz-usul`."

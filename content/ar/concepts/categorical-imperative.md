@@ -1,5 +1,5 @@
 ---
-slug: "con-categorical-imperative"
+slug: "categorical-imperative"
 id: "CON-2141"
 type: "مفهوم"
 part: "ethics"

@@ -14,9 +14,9 @@ legal_tradition: "التعدّديةُ القانونية"
 active_start: 1986
 active_end: 2019
 edges:
-- rel: "belongs_to", target: "sch-legal-pluralism", target_type: "مدرسة"
+- rel: "belongs_to", target: "legal-pluralism", target_type: "مدرسة"
 related:
-- id: "sch-legal-pluralism", title: "التعدّديةُ القانونيةُ (Legal Pluralism)", type: "مدرسة"
+- id: "legal-pluralism", title: "التعدّديةُ القانونيةُ (Legal Pluralism)", type: "مدرسة"
 - id: "thk-sally-engle-merry", title: "سالي إنجل ميري (Sally Engle Merry)", type: "مفكر"
 gaps:
   - "**سُدَّ 2026-09-21**: أُضيفت `thk-sally-engle-merry` (الصوتُ الأنثروبولوجيُّ الميداني المكمِّل)."

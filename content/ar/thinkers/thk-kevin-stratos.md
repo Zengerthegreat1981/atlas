@@ -1,5 +1,5 @@
 ---
-slug: "kevin-stratos"
+slug: "thk-kevin-stratos"
 id: "THK-13193"
 type: "مفكّر"
 part: "linguistics"
@@ -12,8 +12,7 @@ birth_year: 1980
 fields: ["computational sociolinguistics", "vowel change", "speech analysis"]
 affiliation: "جامعة نيويورك"
 primary_school: "sch-sociolinguistics"
-edges:
-- rel: "belongs_to", target: "sch-sociolinguistics", target_type: "مدرسة"
+edges: []
 related: []
 gaps: []
 ---

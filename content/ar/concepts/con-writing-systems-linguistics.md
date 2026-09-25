@@ -1,5 +1,5 @@
 ---
-slug: "writing-systems-linguistics"
+slug: "con-writing-systems-linguistics"
 id: "CON-18437"
 type: "مفهوم"
 part: "linguistics"

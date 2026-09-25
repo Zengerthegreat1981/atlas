@@ -1,5 +1,5 @@
 ---
-slug: "text-language-sms-style"
+slug: "con-text-language-sms-style"
 id: "CON-18410"
 type: "مفهوم"
 part: "linguistics"

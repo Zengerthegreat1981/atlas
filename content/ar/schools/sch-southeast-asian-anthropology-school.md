@@ -15,8 +15,7 @@ cultural_origin: "southeast-asian"
 active_start: 1960
 active_end: "مستمر"
 region: "Southeast Asia"
-edges:
-- rel: "comparable_to", target: "sch-american-cultural-anthropology", target_type: "مدرسة"
+edges: []
 related:
 - id: "thk-michael-herzfeld", title: "مايكل هيرتسفيلد (Michael Herzfeld)", type: "مفكر"
 - id: "thk-clifford-geertz", title: "كليفورد غيرتز (Clifford Geertz)", type: "مفكر"

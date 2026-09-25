@@ -14,9 +14,7 @@ active_start: 1950
 active_end: "مستمر"
 edges: []
 related:
-  - id: "con-world-history", title: "التاريخُ العالميّ (World History)", type: "مفهوم"
   - id: "con-transnational-history", title: "التاريخُ العابرُ للحدود (Transnational History)", type: "مفهوم"
-  - id: "con-connected-histories", title: "التواريخُ المتّصلة (Connected Histories)", type: "مفهوم"
 gaps:
   - "التوازنُ بينَ النظرةِ العالميّة والسياقاتِ المحليّة"
   - "كيفَ نتجنّبُ الإمبرياليّةَ الأوروبيّة في كتابةِ التاريخ العالميّ؟"

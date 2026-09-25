@@ -16,11 +16,11 @@ author: "thk-clifford-geertz"
 pages: 453
 edges:
 - rel: "belongs_to", target: "sch-geertzian-interpretive-anthropology", target_type: "مدرسة"
-- rel: "formulated_in", target: "con-thick-description", target_type: "مفهوم"
+- rel: "formulated_in", target: "con-thick-description-geertz", target_type: "مفهوم"
 related:
 - id: "thk-clifford-geertz", title: "كليفورد جيرتز (Clifford Geertz)", type: "مفكر"
 - id: "sch-geertzian-interpretive-anthropology", title: "الأنثروبولوجيا التأويلية (Geertzian Interpretive Anthropology)", type: "مدرسة"
-- id: "con-thick-description", title: "الوصفُ الكثيفُ (Thick Description)", type: "مفهوم"
+- id: "con-thick-description-geertz", title: "الوصفُ الكثيفُ (Thick Description)", type: "مفهوم"
 gaps: []
 ---
 

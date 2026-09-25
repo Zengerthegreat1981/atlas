@@ -14,9 +14,6 @@ active_end: 1095
 edges:
 - rel: "belongs_to", target: "sch-ashariyya", target_type: "مدرسة"
 related:
-- id: "thk-al-ghazali", title: "أبو حامد محمد بن محمد الغزالي (حجة الإسلام)", type: "مفكر"
-- id: "thk-ibn-sina", title: "أبو علي الحسين بن عبد الله بن سينا (الشيخ الرئيس)", type: "مفكر"
-- id: "thk-ibn-rushd", title: "أبو الوليد محمد بن أحمد بن رشد (الشارح الأكبر)", type: "مفكر"
 - id: "wrk-tahafut-al-tahafut-averroes", title: "تهافت التهافت لابن رشد", type: "عمل / كتاب"
 author: "أبو حامد الغزالي"
 author_slug: "thk-al-ghazali"

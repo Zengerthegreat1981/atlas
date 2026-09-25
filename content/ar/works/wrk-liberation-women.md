@@ -18,10 +18,8 @@ language: "الإنجليزية"
 register: "academic"
 edges:
 - rel: "written_by", target: "thk-qasim-amin", target_type: "مفكر"
-- rel: "belongs_to", target: "sch-nahda-modernization", target_type: "مدرسة"
 related:
 - id: "thk-qasim-amin", title: "قاسم أمين", type: "مفكر"
-- id: "sch-nahda-modernization", title: "مدرسة النهضة العربية", type: "مدرسة"
 gaps:
   - "تم إنشاء هذا الملف كجزء من Phase 3 (2026-09-24)."
 ---

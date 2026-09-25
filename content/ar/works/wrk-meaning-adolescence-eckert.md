@@ -1,5 +1,5 @@
 ---
-slug: "meaning-adolescence-eckert"
+slug: "wrk-meaning-adolescence-eckert"
 id: "WRK-13217"
 type: "عمل"
 part: "linguistics"

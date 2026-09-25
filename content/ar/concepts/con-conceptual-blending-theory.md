@@ -1,5 +1,5 @@
 ---
-slug: "conceptual-blending-theory"
+slug: "con-conceptual-blending-theory"
 id: "CON-18416"
 type: "مفهوم"
 part: "linguistics"

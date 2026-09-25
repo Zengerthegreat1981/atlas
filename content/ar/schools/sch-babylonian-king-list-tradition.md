@@ -16,9 +16,8 @@ active_start: -3000
 active_end: -539
 edges: []
 related:
-- id: "con-king-lists-dynastic-records-expanded", title: "قوائمُ الملوكِ والسجلاتُ السلالية (موسّعة)", type: "مفهوم"
+- id: "con-king-lists-dynastic-records", title: "قوائمُ الملوكِ والسجلاتُ السلالية (موسّعة)", type: "مفهوم"
 - id: "wrk-sumerian-king-list-text", title: "قائمةُ الملوكِ السومريّة", type: "عمل"
-- id: "wrk-babylonian-chronicles-abc-series", title: "الحوليةُ البابليّة (ABC series)", type: "عمل"
 - id: "sch-sumerian-historical-writing", title: "الكتابةُ التاريخيةُ السومريّة والإداريّة", type: "مدرسة"
 gaps:
   - "العلاقةُ بين قوائم الملوكِ **الأسطوريّة** والملوك الحقيقيين — حيث تظهرُ ملوكٌ بأعمارٍ خرافيّة قبل الطوفان ثمّ تحدثُ نقلةٌ إلى أعمارٍ 'واقعية' بعده"

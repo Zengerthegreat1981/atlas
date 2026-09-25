@@ -1,5 +1,5 @@
 ---
-slug: "grammaticalization-hopper"
+slug: "wrk-grammaticalization-hopper"
 id: "WRK-13213"
 type: "عمل"
 part: "linguistics"

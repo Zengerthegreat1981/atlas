@@ -1,5 +1,5 @@
 ---
-slug: "way-we-think-turner"
+slug: "wrk-way-we-think-turner"
 id: "WRK-13214"
 type: "عمل"
 part: "linguistics"

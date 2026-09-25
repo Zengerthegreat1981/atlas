@@ -17,7 +17,7 @@ active_end: 2000
 edges: []
 related:
 - id: "con-yugas-cyclical-time", title: "الأيوقاس والزمنُ الدورانيّ", type: "مفهوم"
-- id: "con-chakravartin-universal-monarch", title: "الملكُ العالميّ (Chakravartin)", type: "مفهوم"
+- id: "con-chakravartin-universal-rule", title: "الملكُ العالميّ (Chakravartin)", type: "مفهوم"
 - id: "wrk-mahabharata-itihasa", title: "الماهابهاراتا كسِفر تاريخيّ", type: "عمل"
 gaps:
   - "**الفرقُ بين الأسطورة والتاريخ في الفكرِ الهنديّ** — الهندوسُ **لا يرسمون حدّاً واضحاً** بين الأسطورة (الملاحم مثل ماهابهاراتا) والتاريخ (الأحداثُ الفعليّة)"
