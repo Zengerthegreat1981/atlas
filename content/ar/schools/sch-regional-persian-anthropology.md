@@ -1,6 +1,6 @@
 ---
 slug: "sch-regional-persian-anthropology"
-id: "SCH-[PLACEHOLDER]"
+id: "SCH-13226"
 type: "مدرسة"
 part: "anthropology"
 level: "متقدم"
