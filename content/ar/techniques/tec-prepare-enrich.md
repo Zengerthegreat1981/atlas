@@ -1,4 +1,5 @@
 ---
+slug: "tec-prepare-enrich"
 type: technique
 name: ar-prepare-enrich
 en_name: PREPARE/ENRICH Premarital Assessment & Counseling Program

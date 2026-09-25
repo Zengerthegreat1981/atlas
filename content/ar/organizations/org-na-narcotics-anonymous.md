@@ -1,4 +1,5 @@
 ---
+slug: "org-na-narcotics-anonymous"
 type: organization
 name: ar-na-narcotics-anonymous
 en_name: Narcotics Anonymous (NA)

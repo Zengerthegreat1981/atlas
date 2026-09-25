@@ -1,4 +1,5 @@
 ---
+slug: "ins-asrs-adhd-self-report"
 type: instrument
 name: ar-asrs-adhd-self-report-scale
 en_name: ADHD Self-Report Scale (ASRS)

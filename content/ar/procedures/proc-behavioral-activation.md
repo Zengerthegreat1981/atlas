@@ -1,4 +1,5 @@
 ---
+slug: "proc-behavioral-activation"
 type: procedure
 name: ar-proc-behavioral-activation
 en_name: Behavioral Activation

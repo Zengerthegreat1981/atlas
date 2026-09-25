@@ -1,4 +1,5 @@
 ---
+slug: "ins-enrich-marital-satisfaction"
 type: instrument
 name: ar-enrich-marital-satisfaction
 en_name: ENRICH Marital Satisfaction Scale

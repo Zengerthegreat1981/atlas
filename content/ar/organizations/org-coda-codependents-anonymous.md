@@ -1,4 +1,5 @@
 ---
+slug: "org-coda-codependents-anonymous"
 type: organization
 name: ar-coda-codependents-anonymous
 en_name: Codependents Anonymous (CoDA)

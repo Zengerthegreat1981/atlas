@@ -1,4 +1,5 @@
 ---
+slug: "br-addiction-counseling"
 type: branch
 name: ar-addiction-counseling
 en_name: Addiction & Substance Use Counseling

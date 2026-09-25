@@ -1,4 +1,5 @@
 ---
+slug: "sch-group-psychotherapy"
 type: school
 name: ar-group-psychotherapy
 en_name: Group Psychotherapy

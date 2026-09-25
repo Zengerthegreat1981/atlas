@@ -1,4 +1,5 @@
 ---
+slug: "ins-rses-rosenberg-self-esteem"
 type: instrument
 name: ar-rses-rosenberg-self-esteem
 en_name: Rosenberg Self-Esteem Scale (RSES)

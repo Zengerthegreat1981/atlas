@@ -1,4 +1,5 @@
 ---
+slug: "ins-aces-adverse-childhood"
 type: instrument
 name: ar-aces-adverse-childhood-experiences
 en_name: Adverse Childhood Experiences (ACE) Score

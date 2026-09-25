@@ -1,4 +1,5 @@
 ---
+slug: "org-refuge-recovery"
 type: organization
 name: ar-refuge-recovery
 en_name: Refuge Recovery

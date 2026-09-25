@@ -1,4 +1,5 @@
 ---
+slug: "org-saa-sex-addicts-anonymous-variant"
 type: organization
 name: ar-saa-sex-addicts-anonymous-variant
 en_name: Sex Addicts Anonymous (SAA) - Alternative Definition

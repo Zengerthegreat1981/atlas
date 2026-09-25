@@ -1,4 +1,5 @@
 ---
+slug: "br-career-counseling"
 type: branch
 name: ar-career-counseling
 en_name: Career Counseling

@@ -1,4 +1,5 @@
 ---
+slug: "org-csa-cocaine-stimulants"
 type: organization
 name: ar-csa-cocaine-stimulants-anonymous
 en_name: Cocaine Anonymous (CA)

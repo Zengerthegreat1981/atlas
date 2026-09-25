@@ -1,4 +1,5 @@
 ---
+slug: "sch-internal-family-systems"
 type: school
 name: ar-sch-internal-family-systems
 en_name: Internal Family Systems (IFS) Therapy

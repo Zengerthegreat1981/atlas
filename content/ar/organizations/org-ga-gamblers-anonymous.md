@@ -1,4 +1,5 @@
 ---
+slug: "org-ga-gamblers-anonymous"
 type: organization
 name: ar-ga-gamblers-anonymous
 en_name: Gamblers Anonymous (GA)

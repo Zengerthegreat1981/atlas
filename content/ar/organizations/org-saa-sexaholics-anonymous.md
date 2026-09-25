@@ -1,4 +1,5 @@
 ---
+slug: "org-saa-sexaholics-anonymous"
 type: organization
 name: ar-saa-sexaholics-anonymous
 en_name: Sexaholics Anonymous (SA)

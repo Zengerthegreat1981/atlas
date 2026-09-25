@@ -1,4 +1,5 @@
 ---
+slug: "ins-audit-alcohol-use-disorders"
 type: instrument
 name: ar-audit-alcohol-use-disorders-identification
 en_name: Alcohol Use Disorders Identification Test (AUDIT)

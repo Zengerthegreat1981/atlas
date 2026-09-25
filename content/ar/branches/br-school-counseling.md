@@ -1,4 +1,5 @@
 ---
+slug: "br-school-counseling"
 type: branch
 name: ar-school-counseling
 en_name: School Counseling

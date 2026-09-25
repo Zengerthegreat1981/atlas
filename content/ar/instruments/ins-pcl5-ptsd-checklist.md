@@ -1,4 +1,5 @@
 ---
+slug: "ins-pcl5-ptsd-checklist"
 type: instrument
 name: ar-pcl5-ptsd-checklist
 en_name: PTSD Checklist-5 (PCL-5)

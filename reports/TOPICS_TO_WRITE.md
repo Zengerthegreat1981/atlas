@@ -110,3 +110,141 @@ real, title-specific content) later.
 - `wrk-sociolinguistic-patterns-labov` — أنماطٌ اجتماعيةٌ لغوية (Sociolinguistic Patterns) / Sociolinguistic Patterns
 - `wrk-sperber-wilson-relevance-1986` — نظريةُ الصلة والاتصال / Sperber & Wilson (1986)
 - `wrk-three-types-code-switching-muysken` — ثلاثةُ أنواعٍ من التبديل الكودي / Bilingual Speech: A Typology of Code-Mixing
+
+
+## Round 5 additions (unlinked template files deleted 2026-09-25)
+
+### anthropology
+
+| slug | title | en |
+|---|---|---|
+| stu-strathern-gender-melanesia | الجنس في ملانيزيا | Gender of the Gift |
+| stu-boyd-networked-teens | المراهقون والشبكات الاجتماعية | It's Complicated: The Social Lives of Networked Teens |
+| stu-comaroff-ethnography-tswana | الإثنوغرافيا المقارنة للتسوانا | Ethnography of Tswana Society |
+| stu-baym-communities-online | المجتمعات عبر الإنترنت | Tune In, Log On: Soaps, Fandom, and Online Community |
+| stu-raheja-village-system | نظام القرية الهندية | The Poison in the Gift: Kinship, Ritual, and Regeneration in Pahansu |
+| stu-escobar-territories-difference | الأراضي والاختلاف | Territories of Difference: Place, Movements, Life, Redes |
+| stu-marriott-hindu-caste | النظام الطائفي الهندوسي | Hindu Caste System: Ethnography of an Indian Village |
+| stu-ingold-perceptions-environment | إدراك البيئة | Perceptions of the Environment: Essays in Livelihood, Dwelling and Skill |
+| stu-fei-xiaotong-peasant-life | حياة الفلاحين في الصين | From the Soil: The Foundations of Chinese Society |
+| thk-altynai-kassymova | ألتيناي قاسيموفا (Altynai Kassymova) | Altynai Kassymova |
+| thk-turdubaev-seidalin | تردوباييف سيدالين (Turdubaev Seidalin) | Turdubaev Seidalin |
+| thk-elizabeth-povinelli | Elizabeth A. Povinelli | Elizabeth A. Povinelli |
+| thk-genevieve-vaughan | جينيفيف فوجان | Genevieve Vaughan |
+| thk-susan-wright | Susan Wright | Susan Wright |
+| thk-bongo-ontinindi | بونغو أونتينندي (Bongo Ontinindi) | Bongo Ontinindi |
+| thk-kristina-wolff | كريستينا وولف | Kristina Wolff |
+| thk-deborah-mcgregor | ديبورا ماكغريجور | Deborah McGregor |
+| thk-sarah-marie-hall | Sarah Marie Hall | Sarah Marie Hall |
+| thk-paul-nadasdy | بول نادسدي | Paul Nadasdy |
+| thk-carolyn-rouse | كارولين راوس | Carolyn Rouse |
+| thk-sylvia-tamale | سيلفيا تامالي | Sylvia Tamale |
+| thk-melanie-g-neufeld | ميلاني نيوفيلد (Melanie G. Neufeld) | Melanie G. Neufeld |
+| thk-michel-trouillot | ميشيل تروي ويو (Michel Trouillot) | Michel Trouillot |
+| thk-lisa-rofel | ليزا روفيل | Lisa Rofel |
+| thk-paola-bacchetta | باولا باكيتا | Paola Bacchetta |
+| thk-alisher-khodjayev | عليشر خوجايف (Alisher Khodjayev) | Alisher Khodjayev |
+| thk-todd-kessler | Todd Kessler | Todd Kessler |
+| thk-prem-chachadi | بريم تشاتشادي (Prem Chachadi) | Prem Chachadi |
+| thk-silvia-rodriguez-cervantes | Silvia Rodríguez Cervantes | Silvia Rodríguez Cervantes |
+| thk-rodolfo-stavenhagen | رودولفو ستافنهاغن (Rodolfo Stavenhagen) | Rodolfo Stavenhagen |
+| thk-bayo-akomolafe | بايو أكوموليفي | Bayo Akomolafe |
+| thk-leanne-simpson | Leanne Bertrand Simpson | Leanne Bertrand Simpson |
+| thk-taina-bucher | Taina Bucher | Taina Bucher |
+| thk-vincanne-adams | فينسان آدمز | Vincanne Adams |
+| thk-jasbir-puar | جاسبير بوار | Jasbir Puar |
+| thk-kara-keeling | Kara Keeling | Kara Keeling |
+| thk-clara-han | Clara Han | Clara Han |
+| thk-mark-fisher | Mark Fisher | Mark Fisher |
+| thk-c-riley-snorton | سي رايلي سنورتون | C. Riley Snorton |
+| thk-alison-kafer | أليسون كافر | Alison Kafer |
+| thk-paul-wenzel-geissler | Paul Wenzel Geissler | Paul Wenzel Geissler |
+| thk-mel-stanfill | Mel Stanfill | Mel Stanfill |
+| thk-pnina-motzafi-haller | بنينة موتسافي-هالر | Pnina Motzafi-Haller |
+| thk-kalindi-vora | Kalindi Vora | Kalindi Vora |
+| thk-kanta-dihal | كانتا ديهال | Kanta Dihal |
+| thk-hugh-gusterson | هيو جاستيرسون | Hugh Gusterson |
+| thk-farangiz-abdullayeva | فرانغيز عبد الله يفا (Farangiz Abdullayeva) | Farangiz Abdullayeva |
+| thk-e-valentine-daniel | إي فالنتاين دانيل | E. Valentine Daniel |
+| thk-donald-stoan | دونالد ستوان | Donald Stoan |
+| thk-carla-freire-de-andrade | Carla Freire de Andrade | Carla Freire de Andrade |
+| thk-ruha-benjamin | Ruha Benjamin | Ruha Benjamin |
+| thk-ahmed-ali-issack | أحمد علي إسحق (Ahmed Ali Issack) | Ahmed Ali Issack |
+| thk-miranda-bryant | Miranda Bryant | Miranda Bryant |
+| thk-gabriele-coleman | غابرييل كولمان | Gabriele Coleman |
+| thk-aileen-moreton-robinson | إيلين مورتون-روبنسون | Aileen Moreton-Robinson |
+| thk-debbie-rose | ديبي روز (Debbie Rose) | Debbie Rose |
+| thk-annemarie-mol | آن ماري مول | Annemarie Mol |
+| thk-harriet-sieber | هارييت سيبر (Harriet Sieber) | Harriet Sieber |
+| thk-steven-vertovec | ستيفن فيرتوفك (Steven Vertovec) | Steven Vertovec |
+| thk-annelise-gelman | Annelise Gelman | Annelise Gelman |
+| thk-dina-gilio-whitaker | Dina Gilio-Whitaker | Dina Gilio-Whitaker |
+| thk-sylvia-caiuby-novaes | سيلفيا كايوبي نوفايس (Sylvia Caiuby Novaes) | Sylvia Caiuby Novaes |
+| thk-sheryl-kowing | شيريل كوينج (Sheryl Kowing) | Sheryl Kowing |
+| thk-koji-nakane | كوجي ناكانه (Koji Nakane) | Koji Nakane |
+| thk-audra-simpson | أودرا سيمبسون (Audra Simpson) | Audra Simpson |
+| dbt-survival-meaning-ritual | البقاءُ والمعنى في الطقس (Survival Function vs. Symbolic Meaning of Ritual) | البقاءُ والمعنى في الطقس (Survival Function vs. Symbolic Meaning of Ritual) |
+| wrk-as-we-always-done-simpson | كما فعلنا دائماً | As We Have Always Done: Indigenous Continuity Through Resistance and Renewal |
+| wrk-nuer-evans-pritchard | قبائلُ النوير (The Nuer) | The Nuer: A Description of the Modes of Livelihood and Political Institutions of a Nilotic People |
+| wrk-structure-function-radcliffe-brown | البنيةُ والوظيفة (Structure and Function in Primitive Society) | Structure and Function in Primitive Society |
+| wrk-sex-temperament-mead | الجنسُ والمزاج (Sex and Temperament in Three Primitive Societies) | Sex and Temperament in Three Primitive Societies |
+| wrk-nuer-religion-evans-pritchard | دينُ النّوير (Nuer Religion) | Nuer Religion |
+| wrk-religion-bali-geertz | دينُ بالي (Religion of Java & Bali) | Religion of Java and Balinese Culture |
+| wrk-forest-symbols-turner | غابةُ الرموز (The Forest of Symbols) | The Forest of Symbols: Aspects of Ndembu Ritual |
+| wrk-purity-danger-douglas | الطهارةُ والخطر (Purity and Danger) | Purity and Danger: An Analysis of Concepts of Pollution and Taboo |
+| wrk-patterns-culture-benedict | أنماطُ الثقافة (Patterns of Culture) | Patterns of Culture |
+| wrk-sweet-salt-mintz | الحلاوةُ والملح (Tasting Food, Tasting Freedom) | Tasting Food, Tasting Freedom: Excursions into Eating, Culture, and the Past |
+| wrk-ecology-culture-rappaport | البيئةُ والثقافة (Ecology, Meaning, and Religion) | Ecology, Meaning, and Religion |
+| wrk-natural-symbols-douglas | الرموزُ الطبيعية (Natural Symbols) | Natural Symbols: Explorations in Cosmology |
+| wrk-crime-custom-malinowski | الجريمةُ والعادة (Crime and Custom in Savage Society) | Crime and Custom in Savage Society |
+| wrk-witchcraft-azande-evans-pritchard | السحرُ عند الأزاندة (Witchcraft, Oracles and Magic among the Azande) | Witchcraft, Oracles and Magic among the Azande |
+| wrk-custodians-of-internet-gillespie | حرّاسُ الإنترنت | Custodians of the Internet: Platforms, Content Moderation, and the Hidden Decisions That Shape Social Media |
+| wrk-webs-kinship-fortes | شبكاتُ القرابة (The Web of Kinship Among the Tallensi) | The Web of Kinship Among the Tallensi |
+| wrk-intimacy-stranger-abu-lughod | الحميميّةُ والغريب (Writing Women's Worlds) | Writing Women's Worlds: Bedouin Stories |
+| wrk-desire-difference-turnbull | الرغبةُ والاختلاف (The Wayward Spirits: A Tale of Cannibals, Colonialism and the Self) | Ethnography of Mbuti |
+| wrk-anthropology-ethics-faubion | الأنثروبولوجيا والأخلاق (The Ethics of Fieldwork) | Essays on ethical practice in anthropology |
+| wrk-gramsci-subaltern-studies | غرامشي والدراساتُ الشعبية (Gramsci and Subaltern Studies) | Selected essay collections |
+| wrk-gift-exchange-strathern | الهديّةُ والحركة (The Gender of the Gift) | The Gender of the Gift |
+| wrk-multiple-ontologies-viveiros-de-castro | الأنطولوجياتُ المتعددة (Multinaturalism in Amazonia) | Cannibal Metaphysics |
+| wrk-elementary-structures-kinship-levi-strauss | البنىُ الأولية للقرابة (The Elementary Structures of Kinship) | The Elementary Structures of Kinship |
+| wrk-coding-literacy-vee | ثقافةُ البرمجة | Coding Literacy: How Computer Programming Is Changing Writing |
+| wrk-theory-practice-ortner | نظريةُ الممارسة (Sherry Ortner Selected Essays) | Theory in Anthropology Since the Sixties |
+| wrk-mind-primitive-man-boas | عقلُ الإنسانِ البدائيّ (The Mind of Primitive Man) | The Mind of Primitive Man |
+| wrk-world-conquest-colonialism-wolf | الفتحُ العالميّ والاستعمار (Europe and the People Without History) | Europe and the People Without History |
+| wrk-schism-continuity-turner | الانقسامُ والاستمرار (Schism and Continuity in an African Society) | Schism and Continuity in an African Society |
+| wrk-argonauts-malinowski | تجارُ الجُزرِ البعيدة (Argonauts of the Western Pacific) | Argonauts of the Western Pacific |
+| wrk-political-systems-highland-burma-leach | الأنظمةُ السياسيةُ لبورما العالية (Political Systems of Highland Burma) | Political Systems of Highland Burma: A Study of Kachin Social Structure |
+| wrk-hegemony-consent-roseberry | الهيمنةُ والموافقة (Hegemony and the Language of Contention) | Essays on political economy and culture |
+| wrk-good-jobs-bad-jobs-kalleberg | الوظائفُ الجيدة والسيئة | Good Jobs, Bad Jobs: The Rise of Polarized and Precarious Employment Systems |
+| wrk-coming-age-samoa-mead | النمو في ساموا (Coming of Age in Samoa) | Coming of Age in Samoa: A Psychological Study of Primitive Youth for Western Civilisation |
+| wrk-weapons-weak-scott | أسلحةُ الضعفاء (Weapons of the Weak) | Weapons of the Weak: Everyday Forms of Peasant Resistance |
+| con-performativity | الأداءُ والتجسيدُ (Performativity) | الأداءُ والتجسيدُ (Performativity) |
+| con-ritual-efficacy | فعّاليّةُ الطقس (Ritual Efficacy) | فعّاليّةُ الطقس (Ritual Efficacy) |
+| con-decolonizing-methodology | إلغاءُ الاستعمار من المنهجية (Decolonizing Methodology) | إلغاءُ الاستعمار من المنهجية (Decolonizing Methodology) |
+| con-cultural-relativism-expanded | النسبويّة الثقافية (Cultural Relativism - Extended) | النسبويّة الثقافية (Cultural Relativism - Extended) |
+| con-communitas | الجماعةُ المتساوية (Communitas) | الجماعةُ المتساوية (Communitas) |
+| con-epistemic-sovereignty | السيادةُ المعرفيّة (Epistemological Sovereignty) | السيادةُ المعرفيّة (Epistemological Sovereignty) |
+| con-globalization-anthropology | العولمة (Globalization) | العولمة (Globalization) |
+| con-symbolic-capital | رأسمالُ رمزيّ (Symbolic Capital) | رأسمالُ رمزيّ (Symbolic Capital) |
+| con-thick-description-anthropology | الوصفُ الكثيفُ (Thick Description - Extended) | الوصفُ الكثيفُ (Thick Description - Extended) |
+
+### psychology
+
+| slug | title | en |
+|---|---|---|
+| thk-ma-rosario-alfelor | ماريا روساريو ألفيلور | Ma. Rosario Alfelor |
+| thk-margaret-bluestein | مارغريت بلوستين | Margaret Bluestein |
+| thk-mariannekline | ماريان كلاين | Marianne Kline |
+| thk-masaaki-takahashi | ماساكي تاكاهاشي | Masaaki Takahashi |
+
+### religious-studies
+
+| slug | title | en |
+|---|---|---|
+| con-liturgical-music-as-theology | الموسيقى الليتورجيةُ بوصفِها لاهوتاً | Liturgical Music as Theology |
+| con-hymnody-and-doctrine | الأناشيدُ الدينيةُ والعقيدةُ | Hymnody and Doctrine |
+| con-music-and-religious-experience | الموسيقى والتجربةُ الدينية | Music and Religious Experience |
+| con-musicality-of-prayer-ritual | الموسيقيةُ في الصلاةِ والطقسِ الديني | Musicality of Prayer and Ritual |
+| con-secular-sacred-musical-continuum | استمراريةُ الموسيقى بينَ العلمانيِّ والمقدَّس | Secular-Sacred Musical Continuum |
+| con-oral-transmission-sacred-music | النقلُ الشفاهيُّ في الموسيقى المقدَّسة | Oral Transmission in Sacred Music |
+| con-music-religious-conversion | الموسيقى والتحوُّلُ الديني | Music and Religious Conversion |

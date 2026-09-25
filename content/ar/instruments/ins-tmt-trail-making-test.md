@@ -1,4 +1,5 @@
 ---
+slug: "ins-tmt-trail-making-test"
 type: instrument
 name: ar-tmt-trail-making-test
 en_name: Trail Making Test (TMT) Part A and B

@@ -1,4 +1,5 @@
 ---
+slug: "org-slaa-sex-love-addicts-anonymous"
 type: organization
 name: ar-slaa-sex-love-addicts-anonymous
 en_name: Sex and Love Addicts Anonymous (SLAA)

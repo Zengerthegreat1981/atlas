@@ -1,4 +1,5 @@
 ---
+slug: "ins-kmss-kansas-marital-satisfaction"
 type: instrument
 name: ar-kmss-kansas-marital-satisfaction
 en_name: KMSS (Kansas Marital Satisfaction Scale)

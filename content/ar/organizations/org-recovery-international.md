@@ -1,4 +1,5 @@
 ---
+slug: "org-recovery-international"
 type: organization
 name: ar-recovery-international
 en_name: Recovery International (TARA/Zig Zag)

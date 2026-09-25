@@ -1,4 +1,5 @@
 ---
+slug: "ins-neo-ffi-personality-inventory"
 type: instrument
 name: ar-neo-ffi-personality-inventory
 en_name: NEO Five-Factor Inventory (NEO-FFI)

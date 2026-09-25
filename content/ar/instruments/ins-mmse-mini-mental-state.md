@@ -1,4 +1,5 @@
 ---
+slug: "ins-mmse-mini-mental-state"
 type: instrument
 name: ar-mmse-mini-mental-state-examination
 en_name: Mini-Mental State Examination (MMSE)

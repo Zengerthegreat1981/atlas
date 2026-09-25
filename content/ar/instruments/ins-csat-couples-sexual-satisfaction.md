@@ -1,4 +1,5 @@
 ---
+slug: "ins-csat-couples-sexual-satisfaction"
 type: instrument
 name: ar-csat-couples-sexual-satisfaction
 en_name: CSAT (Couples Sexual Satisfaction Scale)

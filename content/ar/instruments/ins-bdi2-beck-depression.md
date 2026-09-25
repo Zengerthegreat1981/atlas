@@ -1,4 +1,5 @@
 ---
+slug: "ins-bdi2-beck-depression"
 type: instrument
 name: ar-bdi2-beck-depression-inventory
 en_name: Beck Depression Inventory-II (BDI-II)

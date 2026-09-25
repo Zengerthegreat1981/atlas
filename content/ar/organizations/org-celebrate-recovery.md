@@ -1,4 +1,5 @@
 ---
+slug: "org-celebrate-recovery"
 type: organization
 name: ar-celebrate-recovery
 en_name: Celebrate Recovery

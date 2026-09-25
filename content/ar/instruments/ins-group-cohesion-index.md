@@ -1,4 +1,5 @@
 ---
+slug: "ins-group-cohesion-index"
 type: instrument
 name: ar-group-cohesion-index
 en_name: Group Cohesion Index (GCI) / Group Climate Scale

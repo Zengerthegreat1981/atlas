@@ -1,4 +1,5 @@
 ---
+slug: "org-wfs-women-for-sobriety"
 type: organization
 name: ar-wfs-women-for-sobriety
 en_name: Women for Sobriety (WFS)

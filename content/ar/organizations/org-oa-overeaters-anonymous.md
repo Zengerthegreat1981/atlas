@@ -1,4 +1,5 @@
 ---
+slug: "org-oa-overeaters-anonymous"
 type: organization
 name: ar-oa-overeaters-anonymous
 en_name: Overeaters Anonymous (OA)

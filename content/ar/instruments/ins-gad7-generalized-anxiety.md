@@ -1,4 +1,5 @@
 ---
+slug: "ins-gad7-generalized-anxiety"
 type: instrument
 name: ar-gad7-generalized-anxiety-disorder
 en_name: Generalized Anxiety Disorder Scale (GAD-7)

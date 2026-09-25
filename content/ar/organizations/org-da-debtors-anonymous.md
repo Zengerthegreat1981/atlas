@@ -1,4 +1,5 @@
 ---
+slug: "org-da-debtors-anonymous"
 type: organization
 name: ar-da-debtors-anonymous
 en_name: Debtors Anonymous (DA)

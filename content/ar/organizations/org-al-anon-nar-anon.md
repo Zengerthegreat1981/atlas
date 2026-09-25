@@ -1,4 +1,5 @@
 ---
+slug: "org-al-anon-nar-anon"
 type: organization
 name: ar-al-anon-nar-anon
 en_name: Al-Anon (families of alcoholics) & Nar-Anon (families of people with drug addiction)

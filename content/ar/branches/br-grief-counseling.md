@@ -1,4 +1,5 @@
 ---
+slug: "br-grief-counseling"
 type: branch
 name: ar-grief-counseling
 en_name: Grief & Bereavement Counseling

@@ -1,4 +1,5 @@
 ---
+slug: "tec-foccus"
 type: technique
 name: ar-foccus
 en_name: FOCCUS (Facilitating Open Couple Communication, Understanding & Study)

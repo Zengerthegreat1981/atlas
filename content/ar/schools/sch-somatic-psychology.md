@@ -1,4 +1,5 @@
 ---
+slug: "sch-somatic-psychology"
 type: school
 name: ar-sch-somatic-psychology
 en_name: Somatic Psychology & Body-Based Therapies

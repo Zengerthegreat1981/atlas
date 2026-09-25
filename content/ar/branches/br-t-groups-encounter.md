@@ -1,4 +1,5 @@
 ---
+slug: "br-t-groups-encounter"
 type: branch
 name: ar-t-groups-encounter
 en_name: T-Groups & Encounter Groups (Human Potential Movement)

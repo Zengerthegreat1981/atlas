@@ -1,4 +1,5 @@
 ---
+slug: "proc-cognitive-restructuring"
 type: procedure
 name: ar-proc-cognitive-restructuring
 en_name: Cognitive Restructuring

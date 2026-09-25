@@ -1,4 +1,5 @@
 ---
+slug: "ins-therapeutic-factors-inventory"
 type: instrument
 name: ar-therapeutic-factors-inventory
 en_name: Therapeutic Factors Inventory (TFI - Yalom)

@@ -1,4 +1,5 @@
 ---
+slug: "org-aca-adult-children-alcoholics"
 type: organization
 name: ar-aca-adult-children-alcoholics
 en_name: Adult Children of Alcoholics (ACA)

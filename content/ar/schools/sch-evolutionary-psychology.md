@@ -1,4 +1,5 @@
 ---
+slug: "sch-evolutionary-psychology"
 type: school
 name: ar-sch-evolutionary-psychology
 en_name: Evolutionary Psychology

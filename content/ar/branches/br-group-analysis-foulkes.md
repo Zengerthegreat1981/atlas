@@ -1,4 +1,5 @@
 ---
+slug: "br-group-analysis-foulkes"
 type: branch
 name: ar-group-analysis-foulkes
 en_name: Group Analysis (Foulkesian)

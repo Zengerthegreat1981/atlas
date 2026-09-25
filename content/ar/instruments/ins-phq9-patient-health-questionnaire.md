@@ -1,4 +1,5 @@
 ---
+slug: "ins-phq9-patient-health-questionnaire"
 type: instrument
 name: ar-phq9-patient-health-questionnaire
 en_name: Patient Health Questionnaire-9 (PHQ-9)

@@ -1,4 +1,5 @@
 ---
+slug: "tec-pick"
 type: technique
 name: ar-pick
 en_name: PICK (Premarital Awareness and Interpersonal Choices)

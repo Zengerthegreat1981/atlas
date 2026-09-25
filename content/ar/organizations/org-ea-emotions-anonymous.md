@@ -1,4 +1,5 @@
 ---
+slug: "org-ea-emotions-anonymous"
 type: organization
 name: ar-ea-emotions-anonymous
 en_name: Emotions Anonymous (EA)

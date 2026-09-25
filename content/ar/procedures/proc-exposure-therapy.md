@@ -1,4 +1,5 @@
 ---
+slug: "proc-exposure-therapy"
 type: procedure
 name: ar-proc-exposure-therapy
 en_name: Exposure Therapy (In Vivo & Imaginal)

@@ -1,4 +1,5 @@
 ---
+slug: "org-grow-mutual-help"
 type: organization
 name: ar-grow-mutual-help
 en_name: GROW (Mutual Help Organization)

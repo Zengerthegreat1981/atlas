@@ -1,4 +1,5 @@
 ---
+slug: "ins-pss-perceived-stress"
 type: instrument
 name: ar-pss-perceived-stress-scale
 en_name: Perceived Stress Scale (PSS)

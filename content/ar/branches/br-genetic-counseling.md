@@ -1,4 +1,5 @@
 ---
+slug: "br-genetic-counseling"
 type: branch
 name: ar-genetic-counseling
 en_name: Genetic Counseling

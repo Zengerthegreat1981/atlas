@@ -1,4 +1,5 @@
 ---
+slug: "sch-existential-psychology"
 type: school
 name: ar-sch-existential-psychology
 en_name: Existential Psychology & Psychotherapy

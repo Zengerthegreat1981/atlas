@@ -1,4 +1,5 @@
 ---
+slug: "br-multicultural-counseling-expansion"
 type: branch
 name: ar-multicultural-counseling-expansion
 en_name: Multicultural & Social Justice Counseling

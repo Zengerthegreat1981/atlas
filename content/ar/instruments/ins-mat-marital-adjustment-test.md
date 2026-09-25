@@ -1,4 +1,5 @@
 ---
+slug: "ins-mat-marital-adjustment-test"
 type: instrument
 name: ar-mat-marital-adjustment-test
 en_name: MAT (Marital Adjustment Test)

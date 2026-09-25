@@ -1,4 +1,5 @@
 ---
+slug: "br-rehabilitation-counseling"
 type: branch
 name: ar-rehabilitation-counseling
 en_name: Rehabilitation Counseling

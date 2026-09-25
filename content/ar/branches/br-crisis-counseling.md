@@ -1,4 +1,5 @@
 ---
+slug: "br-crisis-counseling"
 type: branch
 name: ar-crisis-counseling
 en_name: Crisis & Emergency Counseling

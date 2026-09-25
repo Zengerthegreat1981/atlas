@@ -1,4 +1,5 @@
 ---
+slug: "org-lifering"
 type: organization
 name: ar-lifering
 en_name: LifeRing

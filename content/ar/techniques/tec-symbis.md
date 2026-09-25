@@ -1,4 +1,5 @@
 ---
+slug: "tec-symbis"
 type: technique
 name: ar-symbis
 en_name: SYMBIS (Saving Your Marriage Before It Starts)

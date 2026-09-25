@@ -1,4 +1,5 @@
 ---
+slug: "org-smart-recovery"
 type: organization
 name: ar-smart-recovery
 en_name: SMART Recovery (Self-Management and Recovery Training)

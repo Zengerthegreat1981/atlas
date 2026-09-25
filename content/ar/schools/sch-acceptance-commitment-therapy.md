@@ -1,4 +1,5 @@
 ---
+slug: "sch-acceptance-commitment-therapy"
 type: school
 name: ar-sch-acceptance-commitment-therapy
 en_name: Acceptance and Commitment Therapy (ACT)

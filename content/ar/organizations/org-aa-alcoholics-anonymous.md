@@ -1,4 +1,5 @@
 ---
+slug: "org-aa-alcoholics-anonymous"
 type: organization
 name: ar-aa-alcoholics-anonymous
 en_name: Alcoholics Anonymous (AA)

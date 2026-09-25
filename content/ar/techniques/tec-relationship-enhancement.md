@@ -1,4 +1,5 @@
 ---
+slug: "tec-relationship-enhancement"
 type: technique
 name: ar-relationship-enhancement
 en_name: Relationship Enhancement (RE)
