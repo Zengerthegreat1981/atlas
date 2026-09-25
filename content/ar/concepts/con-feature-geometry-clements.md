@@ -1,43 +1,41 @@
 ---
-slug: "con-feature-geometry-clements"
-id: "CON-12012"
-type: "مفهوم"
-part: "linguistics"
-level: "متقدم"
-linguistic_level: "phonology"
-cultural_origin: "anglo-european"
-title: "هندسةُ السمات عند كليمنتس (Feature Geometry)"
-en: "Feature Geometry (Clements)"
-crumb: "علم اللغة ← التوليدية وما بعدها ← هندسةُ السمات عند كليمنتس"
-edges:
-- rel: "belongs_to", target: "sch-generative-phonology", target_type: "مدرسة"
+slug: con-feature-geometry-clements
+id: CON-19200
+type: مفهوم
+part: linguistics
+level: متقدم
+linguistic_level: phonology
+title: هندسةُ السمات الصوتية (Feature Geometry)
+crumb: علم اللغة ← الصواتة ← هندسةُ السمات
+active_start: 1985
+active_end: 2025
+edges: []
 related:
-- id: "sch-generative-phonology", title: "الصرفُ التوليديُّ والصواتةُ التوليدية (Generative Phonology)", type: "مدرسة"
-- id: "con-autosegmental-phonology-goldsmith", title: "الصواتةُ متعدّدةُ الطبقات عند غولدسميث (Autosegmental Phonology)", type: "مفهوم"
-- id: "wrk-sound-pattern-of-english-chomsky-halle", title: "The Sound Pattern of English", type: "أثر"
-- id: "con-underspecification-theory-phonology", title: "نظريةُ التحديد الناقص في الصواتة (Underspecification Theory)", type: "مفهوم"
-- id: "thk-george-clements", title: "جورج كليمنتس", type: "مفكر"
-- id: "thk-elizabeth-hume", title: "إليزابيث هيوم", type: "مفكر"
+- id: con-autosegmental-phonology-goldsmith
+  title: الصواتةُ متعدّدةُ الطبقات
+  type: مفهوم
 gaps: []
 ---
 
-# هندسةُ السمات عند كليمنتس
+تطويرٌ متقدّمٌ للصواتة يمثّلُ السماتِ الصوتيةَ ليس كقائمةِ سماتٍ مسطّحةٍ، بل كشجرةٍ هرمية حيث تُجمَّعُ السماتُ المترابطةُ تحت عقدةٍ أم (mother node) واحدة.
 
-امتدادٌ منهجي للصواتة متعدّدة الطبقات عند غولدسميث، طوّره جورج كليمنتس أساساً في الثمانينيات، يعيد تنظيم السمات الصوتية الثنائية التي افترضها نموذجُ SPE من مجموعةٍ مسطَّحة غيرِ مرتَّبة إلى بنيةٍ هرميةٍ شجرية مركَّبة.
+## المشكلة الأصليةُ
 
-## من قائمةٍ مسطَّحة إلى شجرةٍ هرمية
+في النموذج الكلاسيكي (Chomsky-Halle SPE)، كلُّ صوتٍ يُمثَّلُ كقائمةٍ مسطّحة: [+صوت، -صامت، -أنف، +علويّ...]. لكن بعضَ السماتِ تعملُ معاً (مثل السماتِ التجويفية) بينما غيرُها مستقلّة.
 
-افترض نموذجُ SPE الكلاسيكي أن كلَّ صوتٍ لغويّ حزمةٌ من سماتٍ ثنائية (كـ[صوتي±]، [أنفي±]) منظَّمةٍ في قائمةٍ مسطَّحة غيرِ مرتَّبة فيما بينها هرمياً. لاحظ كليمنتس أن كثيراً من الظواهر الصوتية (كانتشار خاصّية أنفية أو حلقية عبر سلسلة من الأصوات في عمليةٍ واحدة) يصعب تفسيرُها بسلاسة إن كانت السماتُ منفصلةً تماماً، فاقترح تنظيمَها بدلاً من ذلك في بنيةٍ شجريةٍ هرمية، تتجمّع فيها سماتٌ معيَّنة تحت "عقدٍ" وسيطة مشتركة (كعقدة "المكان" التي تجمع سمات نقطة النطق، أو عقدة "الحنجرة" التي تجمع سمات الجهر والشدّة).
+## الشجرةُ الهرمية
 
-## تفسيرُ الانتشار والتماثل الصوتي
+تُجمَّعُ السماتُ المترابطةُ معاً:
+- عقدةُ الجذعِ (ROOT)
+  - عقدةُ المكان (Place Node)
+    - [تجويفيّ، إحناء...]
+  - عقدةُ الجهرِ (Laryngeal)
+    - [جهرٌ، انقطاعٌ...]
 
-الفائدةُ التفسيرية المحورية لهذا التنظيم الهرمي: عملياتُ الانتشار الصوتي (Spreading، كانتشار الأنفية عبر مقطعٍ كامل) أو التماثل (Assimilation) يمكن تفسيرُها بعملياتٍ بسيطة تُطبَّق على عقدةٍ واحدة في الشجرة (لا على كلّ سمةٍ منفردة على حدة)، بحيث تنتشر كلُّ السمات المتفرِّعة من تلك العقدة معاً تلقائياً كوحدةٍ واحدة، بدل الحاجة لقواعدَ منفصلة لكلّ سمةٍ بمفردها.
+هذا التنظيمُ يسمحُ بنمذجةِ ظواهرَ معقّدةٍ (مثل الانتشار والحذف الانتقائي).
 
-## الأثر
+## المصادرُ
 
-قدّمت هندسةُ السمات تفسيراً موحَّداً وأنيقاً لأنماطٍ من التفاعل الصوتي كانت تتطلّب قواعدَ منفصلةً متكرِّرة في نموذج SPE المسطَّح، ورسّخت الاتجاهَ العامّ في الصواتة التوليدية اللاحقة نحو تمثيلاتٍ بنيويةٍ أكثرَ ثراءً هرمياً بدل جهازٍ صوريٍّ مسطَّح، ممهِّدةً جزئياً لأطر لاحقة كالنظرية التفاؤلية التي تعاملت مع القيود على البنى الهرمية نفسها.
+- Clements, George N. (1985). "The Geometry of Phonological Features." *Phonology Yearbook*, 2, 225-252.
+- Clements, George N. & Hume, Elizabeth V. (1995). "The Internal Organization of Speech Sounds." *The Handbook of Phonological Theory*, 245-306.
 
-## المصادر
-
-- Clements, George N. (1985). "The Geometry of Phonological Features." *Phonology Yearbook* 2.
-- Clements, George N.; Hume, Elizabeth V. (1995). "The Internal Organization of Speech Sounds." In Goldsmith, J. (ed.), *The Handbook of Phonological Theory*. Blackwell.
