@@ -1,0 +1,23 @@
+---
+slug: "trm-at-yale-university-in-1929"
+id: "TRM-ENG-37567"
+type: "مصطلح نفسي"
+level: "مقدمة"
+title: "at Yale University in 1929"
+en: "at Yale University in 1929"
+ar: ""
+sources:
+  - title: "encyclopedia of The History of Psychological Theories .pdf"
+    year: 2024
+    note: "Extracted from psychology encyclopedia PDF"
+---
+
+# at Yale University in 1929
+
+“Allexperienceof meaning intensivephysicaltrainingthantheintellectuallystron-
+
+## See also
+
+- Related concepts in psychology
+- Connected theoretical frameworks
+

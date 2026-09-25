@@ -1,0 +1,23 @@
+---
+slug: "trm-grove"
+id: "TRM-ENG-36863"
+type: "مصطلح نفسي"
+level: "مقدمة"
+title: "Grove"
+en: "Grove"
+ar: ""
+sources:
+  - title: "encyclopedia of The History of Psychological Theories .pdf"
+    year: 2024
+    note: "Extracted from psychology encyclopedia PDF"
+---
+
+# Grove
+
+Brooks/Cole. lifelongcompanionandwhomheeventuallymarried.
+
+## See also
+
+- Related concepts in psychology
+- Connected theoretical frameworks
+
